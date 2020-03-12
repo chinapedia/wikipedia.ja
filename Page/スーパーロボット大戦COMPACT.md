@@ -1,17 +1,17 @@
 > この記事は[COMPACT](https://ja.wikipedia.org/wiki/COMPACT)から翻訳されています。
 
 
-『**スーパーロボット大戦COMPACT**』（スーパーロボットたいせんコンパクト）、『**スーパーロボット大戦COMPACT for WonderSwanColor**』は、[バンプレスト](https://ja.wikipedia.org/wiki/バンプレスト "wikilink")から発売された[シミュレーションRPG](https://ja.wikipedia.org/wiki/シミュレーションロールプレイングゲーム "wikilink")。
+『**スーパーロボット大戦COMPACT**』（スーパーロボットたいせんコンパクト）、『**スーパーロボット大戦COMPACT for WonderSwanColor**』は、[バンプレスト](../Page/バンプレスト.md "wikilink")から発売された[シミュレーションRPG](../Page/シミュレーションロールプレイングゲーム.md "wikilink")。
 
 ## 概要
 
-[SDで表現されたロボットたちが競演する](../Page/ちびキャラ.md "wikilink")[クロスオーバー作品](https://ja.wikipedia.org/wiki/クロスオーバー作品 "wikilink")「[スーパーロボット大戦シリーズ](../Page/スーパーロボット大戦シリーズ.md "wikilink")」の一つ。シリーズ内シリーズであるCOMPACTシリーズの一作目にあたり、バンプレストのワンダースワン参入第1弾ソフトでもある。ルート分岐は無く、シナリオは一本道で進む。全33話。
+[SDで表現されたロボットたちが競演する](../Page/ちびキャラ.md "wikilink")[クロスオーバー作品](../Page/クロスオーバー作品.md "wikilink")「[スーパーロボット大戦シリーズ](../Page/スーパーロボット大戦シリーズ.md "wikilink")」の一つ。シリーズ内シリーズであるCOMPACTシリーズの一作目にあたり、バンプレストのワンダースワン参入第1弾ソフトでもある。ルート分岐は無く、シナリオは一本道で進む。全33話。
 
-パーソナルデータテーブル（後述）との混同を避けるためオリジナルの主人公は採用されていない\[1\]。最終ボスも版権作品のキャラクターが務めているため、スーパーロボット大戦シリーズ第一作『[スーパーロボット大戦](https://ja.wikipedia.org/wiki/スーパーロボット大戦 "wikilink")』以来の『[バンプレストオリジナル](https://ja.wikipedia.org/wiki/バンプレストオリジナル "wikilink")』が登場しない作品となっている。
+パーソナルデータテーブル（後述）との混同を避けるためオリジナルの主人公は採用されていない\[1\]。最終ボスも版権作品のキャラクターが務めているため、スーパーロボット大戦シリーズ第一作『[スーパーロボット大戦](../Page/スーパーロボット大戦.md "wikilink")』以来の『[バンプレストオリジナル](https://ja.wikipedia.org/wiki/バンプレストオリジナル "wikilink")』が登場しない作品となっている。
 
 ### ワンダースワンカラー版
 
-2001年には、[ワンダースワンカラー](https://ja.wikipedia.org/wiki/ワンダースワンカラー "wikilink")への対応と演出強化・ゲームバランスの調整などが行われた『スーパーロボット大戦COMPACT for WonderSwanColor』（以下WSC版）が発売された。
+2001年には、[ワンダースワンカラー](../Page/ワンダースワンカラー.md "wikilink")への対応と演出強化・ゲームバランスの調整などが行われた『スーパーロボット大戦COMPACT for WonderSwanColor』（以下WSC版）が発売された。
 
 システムが『[スーパーロボット大戦COMPACT2](../Page/スーパーロボット大戦COMPACT2.md "wikilink")』に近いものに変更されたほか、『スーパーロボット大戦COMPACT』では描かれていた[SDガンダム](../Page/SDガンダム.md "wikilink")の瞳が無くなった。また、新規ユニットの追加、一部ユニットのグラフィック描き直しや、カットインイラストの追加・隠し要素の入手条件変更・敵増援の追加・ボスユニットの強化など、シナリオ以外の面で多数の変更がなされている。
 
@@ -25,7 +25,7 @@
 
 ☆マークは携帯機初参戦作品。
 
-  - ☆[超獣機神ダンクーガ](https://ja.wikipedia.org/wiki/超獣機神ダンクーガ "wikilink")
+  - ☆[超獣機神ダンクーガ](../Page/超獣機神ダンクーガ.md "wikilink")
   - [機動戦士ガンダム](../Page/機動戦士ガンダム.md "wikilink")
   - ☆[機動戦士ガンダム0080 ポケットの中の戦争](../Page/機動戦士ガンダム0080_ポケットの中の戦争.md "wikilink")
   - ☆[機動戦士ガンダム0083 STARDUST MEMORY](../Page/機動戦士ガンダム0083_STARDUST_MEMORY.md "wikilink")
@@ -33,17 +33,17 @@
   - [機動戦士ガンダムΖΖ](https://ja.wikipedia.org/wiki/機動戦士ガンダムΖΖ "wikilink")
   - [機動戦士ガンダム 逆襲のシャア](../Page/機動戦士ガンダム_逆襲のシャア.md "wikilink")
   - [機動戦士ガンダムF91](../Page/機動戦士ガンダムF91.md "wikilink")
-  - ☆[新機動戦記ガンダムW Endless Waltz](https://ja.wikipedia.org/wiki/新機動戦記ガンダムW_Endless_Waltz "wikilink")
+  - ☆[新機動戦記ガンダムW Endless Waltz](../Page/新機動戦記ガンダムW_Endless_Waltz.md "wikilink")
   - ☆[無敵鋼人ダイターン3](../Page/無敵鋼人ダイターン3.md "wikilink")
   - ☆[聖戦士ダンバイン](../Page/聖戦士ダンバイン.md "wikilink")
   - ☆[重戦機エルガイム](../Page/重戦機エルガイム.md "wikilink")
   - [マジンガーZ](../Page/マジンガーZ.md "wikilink")
-  - [グレートマジンガー](https://ja.wikipedia.org/wiki/グレートマジンガー "wikilink")
+  - [グレートマジンガー](../Page/グレートマジンガー.md "wikilink")
   - [ゲッターロボ](../Page/ゲッターロボ.md "wikilink")
-  - [ゲッターロボG](https://ja.wikipedia.org/wiki/ゲッターロボG "wikilink")
+  - [ゲッターロボG](../Page/ゲッターロボG.md "wikilink")
   - ☆[真ゲッターロボ](../Page/真ゲッターロボ.md "wikilink")(原作漫画版)
-  - ☆[闘将ダイモス](https://ja.wikipedia.org/wiki/闘将ダイモス "wikilink")
-  - ☆[勇者ライディーン](https://ja.wikipedia.org/wiki/勇者ライディーン "wikilink")
+  - ☆[闘将ダイモス](../Page/闘将ダイモス.md "wikilink")
+  - ☆[勇者ライディーン](../Page/勇者ライディーン.md "wikilink")
 
 ### 解説
 

@@ -7,11 +7,11 @@
 
 ## 戦歴
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月23日](../Page/11月23日.md "wikilink")の第4回AXKICK興行におけるザ・ボスコニアン戦でデビュー。
+  - [2005年](../Page/2005年.md "wikilink")[11月23日](../Page/11月23日.md "wikilink")の第4回AXKICK興行におけるザ・ボスコニアン戦でデビュー。
 
 <!-- end list -->
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月9日](../Page/12月9日.md "wikilink")にザ・腐れどインディー総決起集会（[埼玉プロレス](https://ja.wikipedia.org/wiki/埼玉プロレス "wikilink")）のメインイベントで、[サバイバル飛田](../Page/サバイバル飛田.md "wikilink")の火に焼かれる。
+  - [2005年](../Page/2005年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink")にザ・腐れどインディー総決起集会（[埼玉プロレス](../Page/埼玉プロレス.md "wikilink")）のメインイベントで、[サバイバル飛田](../Page/サバイバル飛田.md "wikilink")の火に焼かれる。
 
 <!-- end list -->
 
@@ -19,23 +19,23 @@
 
 <!-- end list -->
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月30日](../Page/4月30日.md "wikilink")、大阪・羽曳野を本拠地に活動するFU★CK\!に初参戦し、マンモス半田の持つFU★CK\!認定U-30 INTER NATURAL王座に挑戦するも敗れる。
+  - [2006年](../Page/2006年.md "wikilink")[4月30日](../Page/4月30日.md "wikilink")、大阪・羽曳野を本拠地に活動するFU★CK\!に初参戦し、マンモス半田の持つFU★CK\!認定U-30 INTER NATURAL王座に挑戦するも敗れる。
 
 <!-- end list -->
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")、WRESTLE EXPOにFU★CK\!提供試合で出場する。試合後、三度サバイバル飛田に襲撃される。
+  - [2006年](../Page/2006年.md "wikilink")[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")、WRESTLE EXPOにFU★CK\!提供試合で出場する。試合後、三度サバイバル飛田に襲撃される。
 
 <!-- end list -->
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")、下町プロレスに初参戦し、観客0人興行として後に伝説となる。
+  - [2006年](../Page/2006年.md "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")、下町プロレスに初参戦し、観客0人興行として後に伝説となる。
 
 <!-- end list -->
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月17日](../Page/12月17日.md "wikilink")、FU★CK\!でマグナム大江戸とのタイトル戦でFU★CK\!認定LOL王座を奪取。
+  - [2006年](../Page/2006年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink")、FU★CK\!でマグナム大江戸とのタイトル戦でFU★CK\!認定LOL王座を奪取。
 
 <!-- end list -->
 
-  - [2007年](../Page/2007年.md "wikilink")[1月14日](../Page/1月14日.md "wikilink")、FU★CK\!で[冨宅飛駈](https://ja.wikipedia.org/wiki/冨宅飛駈 "wikilink")を相手に初防衛。
+  - [2007年](../Page/2007年.md "wikilink")[1月14日](../Page/1月14日.md "wikilink")、FU★CK\!で[冨宅飛駈](../Page/冨宅飛駈.md "wikilink")を相手に初防衛。
 
 <!-- end list -->
 
@@ -43,7 +43,7 @@
 
 <!-- end list -->
 
-  - [2007年](../Page/2007年.md "wikilink")[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")の下町プロレスをきっかけに、同団体のレギュラーに定着。
+  - [2007年](../Page/2007年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")の下町プロレスをきっかけに、同団体のレギュラーに定着。
 
 <!-- end list -->
 
@@ -111,7 +111,7 @@
 
 <!-- end list -->
 
-  - [2011年](../Page/2011年.md "wikilink")[7月3日](https://ja.wikipedia.org/wiki/7月3日 "wikilink")、越谷市・ケルベロスジムで（め）組・プレ旗揚げ戦を行う。
+  - [2011年](../Page/2011年.md "wikilink")[7月3日](../Page/7月3日.md "wikilink")、越谷市・ケルベロスジムで（め）組・プレ旗揚げ戦を行う。
 
 <!-- end list -->
 
@@ -210,23 +210,23 @@
     「イナバウア〜」と叫んで体を逸らしてからの[ローリングセントーン](https://ja.wikipedia.org/wiki/セントーン#派生技 "wikilink")。
     派生系として、「イナバウア〜と見せかけて」と叫んでからの[セントーン](../Page/セントーン.md "wikilink")がある。
   - リヴァイアサン
-    リバース・[バックドロップ](https://ja.wikipedia.org/wiki/バックドロップ "wikilink")
+    リバース・[バックドロップ](../Page/バックドロップ.md "wikilink")
   - Ωドライバー
-    [デスバレーボム](../Page/デスバレーボム.md "wikilink")の体勢で抱えあげてからの旋回式[スタナー](https://ja.wikipedia.org/wiki/スタナー "wikilink")。
+    [デスバレーボム](../Page/デスバレーボム.md "wikilink")の体勢で抱えあげてからの旋回式[スタナー](../Page/スタナー.md "wikilink")。
   - GO2HEAVEN
     [デスバレーボム](../Page/デスバレーボム.md "wikilink")の体勢で抱え上げて、そのまま抱えた方に落とす。
   - DSLクラッチ2（仮）
     横回転式の[外道クラッチ](https://ja.wikipedia.org/wiki/フォール技#外道クラッチ "wikilink")。
   - フォーリン・エンジェル
-    スタンドの状態から膝蹴りを入れて、ネックブリーカー気味に決める[スピニングチョーク](https://ja.wikipedia.org/wiki/スピニングチョーク "wikilink")[スリーパー](https://ja.wikipedia.org/wiki/スリーパー "wikilink")。
+    スタンドの状態から膝蹴りを入れて、ネックブリーカー気味に決める[スピニングチョーク](../Page/スピニングチョーク.md "wikilink")[スリーパー](../Page/スリーパー.md "wikilink")。
   - バズィンガ！
     肩車の体勢からの高角度[フェイスバスター](https://ja.wikipedia.org/wiki/フェイスバスター "wikilink") 。
   - （め）組ドライバー
     リバース[ブレーンバスター](../Page/ブレーンバスター.md "wikilink")の体勢で抱えあげて、前方に落としてフォールする。
   - フォーリン・エンジェル２
-    高速[ブレーンバスター](../Page/ブレーンバスター.md "wikilink")の後、1回転して決める[スピニングチョーク](https://ja.wikipedia.org/wiki/スピニングチョーク "wikilink")[スリーパー](https://ja.wikipedia.org/wiki/スリーパー "wikilink")。
+    高速[ブレーンバスター](../Page/ブレーンバスター.md "wikilink")の後、1回転して決める[スピニングチョーク](../Page/スピニングチョーク.md "wikilink")[スリーパー](../Page/スリーパー.md "wikilink")。
   - ２２２
-    足かけ[DDT](https://ja.wikipedia.org/wiki/DDT "wikilink")からの[スモールパッケージホールド](https://ja.wikipedia.org/wiki/スモールパッケージホールド "wikilink")。
+    足かけ[DDT](../Page/DDT.md "wikilink")からの[スモールパッケージホールド](https://ja.wikipedia.org/wiki/スモールパッケージホールド "wikilink")。
 
 ## 休業後の活動
 

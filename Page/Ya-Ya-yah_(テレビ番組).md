@@ -1,15 +1,15 @@
 > この記事は[Ya-Ya-yah \(\)](https://ja.wikipedia.org/wiki/Ya-Ya-yah_\(\))から翻訳されています。
 
 
-『**Ya-Ya-yah**』（ヤーヤーヤー）は、[テレビ東京系列局と一部](https://ja.wikipedia.org/wiki/TXN "wikilink")[独立UHF局で放送された](https://ja.wikipedia.org/wiki/全国独立UHF放送協議会 "wikilink")[音楽](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")\[1\]。製作局の[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")では[2003年](../Page/2003年.md "wikilink")[1月5日](../Page/1月5日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[10月27日](../Page/10月27日.md "wikilink")まで放送。
+『**Ya-Ya-yah**』（ヤーヤーヤー）は、[テレビ東京系列局と一部](https://ja.wikipedia.org/wiki/TXN "wikilink")[独立UHF局で放送された](https://ja.wikipedia.org/wiki/全国独立UHF放送協議会 "wikilink")[音楽](../Page/音楽番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")\[1\]。製作局の[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")では[2003年](../Page/2003年.md "wikilink")[1月5日](../Page/1月5日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[10月27日](../Page/10月27日.md "wikilink")まで放送。
 
 ## 概要
 
-[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")のユニット・[Ya-Ya-yah](../Page/Ya-Ya-yah.md "wikilink")や[NEWSをメインに据えていた番組で](https://ja.wikipedia.org/wiki/NEWS_\(グループ\) "wikilink")、[J.J.Express](https://ja.wikipedia.org/wiki/J.J.Express "wikilink")のメンバーが出演\[2\]。また、[うつみ宮土理](https://ja.wikipedia.org/wiki/うつみ宮土理 "wikilink")や[村上信五](https://ja.wikipedia.org/wiki/村上信五 "wikilink")も出演していた\[3\]。
+[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")のユニット・[Ya-Ya-yah](../Page/Ya-Ya-yah.md "wikilink")や[NEWSをメインに据えていた番組で](https://ja.wikipedia.org/wiki/NEWS_\(グループ\) "wikilink")、[J.J.Express](../Page/J.J.Express.md "wikilink")のメンバーが出演\[2\]。また、[うつみ宮土理](../Page/うつみ宮土理.md "wikilink")や[村上信五](../Page/村上信五.md "wikilink")も出演していた\[3\]。
 
-[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作だったが、ロケーション収録の部分に関しては4:3比の[標準画質映像](../Page/標準画質映像.md "wikilink")で、[地上デジタル放送では](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")[アップコンバート映像に](https://ja.wikipedia.org/wiki/映像のコンバート#アップコンバート "wikilink")[サイドパネルが付いていた](https://ja.wikipedia.org/wiki/ピラーボックス_\(映像技術\) "wikilink")。このサイドパネルのデザインは、放送内容に合わせて毎回変えられていた。
+[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作だったが、ロケーション収録の部分に関しては4:3比の[標準画質映像](../Page/標準画質映像.md "wikilink")で、[地上デジタル放送では](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")[アップコンバート映像に](https://ja.wikipedia.org/wiki/映像のコンバート#アップコンバート "wikilink")[サイドパネルが付いていた](../Page/ピラーボックス_\(映像技術\).md "wikilink")。このサイドパネルのデザインは、放送内容に合わせて毎回変えられていた。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[5月21日](../Page/5月21日.md "wikilink")オンエア分より衣装もセットもリニューアルされた\[4\]。
+[2006年](../Page/2006年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink")オンエア分より衣装もセットもリニューアルされた\[4\]。
 
 2007年4月の改編で、それまで直前枠で放送されていた『[ハロー\!モーニング。](../Page/ハロー!モーニング。.md "wikilink")』が『[ハロモニ@](../Page/ハロモニ@.md "wikilink")』と題してリニューアルすると同時に、この番組が放送されていた日曜12時24分枠へ移動してくることになった。そのため、番組は土曜18時30分枠へ移動した。番組は同年10月27日放送分をもって同タイトルでの放送を終了。
 
@@ -18,32 +18,32 @@
 ### レギュラー
 
   - [Ya-Ya-yah](../Page/Ya-Ya-yah.md "wikilink")
-      - [薮宏太](https://ja.wikipedia.org/wiki/薮宏太 "wikilink")
-      - [八乙女光](https://ja.wikipedia.org/wiki/八乙女光 "wikilink")
-      - [鮎川太陽](https://ja.wikipedia.org/wiki/鮎川太陽 "wikilink")
-      - [山下翔央](https://ja.wikipedia.org/wiki/山下翔央 "wikilink")
+      - [薮宏太](../Page/薮宏太.md "wikilink")
+      - [八乙女光](../Page/八乙女光.md "wikilink")
+      - [鮎川太陽](../Page/鮎川太陽.md "wikilink")
+      - [山下翔央](../Page/山下翔央.md "wikilink")
   - [NEWS](https://ja.wikipedia.org/wiki/NEWS_\(グループ\) "wikilink")
-      - [小山慶一郎](https://ja.wikipedia.org/wiki/小山慶一郎 "wikilink") - 進行役\[5\]
+      - [小山慶一郎](../Page/小山慶一郎.md "wikilink") - 進行役\[5\]
       - [加藤成亮](https://ja.wikipedia.org/wiki/加藤成亮 "wikilink")
-      - [手越祐也](https://ja.wikipedia.org/wiki/手越祐也 "wikilink")（[テゴマス](https://ja.wikipedia.org/wiki/テゴマス "wikilink")）
-      - [増田貴久](https://ja.wikipedia.org/wiki/増田貴久 "wikilink")（テゴマス）
+      - [手越祐也](../Page/手越祐也.md "wikilink")（[テゴマス](https://ja.wikipedia.org/wiki/テゴマス "wikilink")）
+      - [増田貴久](../Page/増田貴久.md "wikilink")（テゴマス）
 
 ### 準レギュラー
 
-  - [J.J.Express](https://ja.wikipedia.org/wiki/J.J.Express "wikilink")\[6\]
+  - [J.J.Express](../Page/J.J.Express.md "wikilink")\[6\]
   - [ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")\[7\]
 
 ## 過去の出演者
 
-  - [草野博紀](https://ja.wikipedia.org/wiki/草野博紀 "wikilink")
-  - [うつみ宮土理](https://ja.wikipedia.org/wiki/うつみ宮土理 "wikilink")\[8\]
-  - [村上信五](https://ja.wikipedia.org/wiki/村上信五 "wikilink")\[9\]
-  - [赤間直哉](https://ja.wikipedia.org/wiki/赤間直哉 "wikilink")
+  - [草野博紀](../Page/草野博紀.md "wikilink")
+  - [うつみ宮土理](../Page/うつみ宮土理.md "wikilink")\[8\]
+  - [村上信五](../Page/村上信五.md "wikilink")\[9\]
+  - [赤間直哉](../Page/赤間直哉.md "wikilink")
   - [星野正樹](https://ja.wikipedia.org/wiki/星野正樹 "wikilink")
 
 ## ナレーター
 
-  - [末武里佳子](https://ja.wikipedia.org/wiki/末武里佳子 "wikilink")（テレビ東京[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")）
+  - [末武里佳子](../Page/末武里佳子.md "wikilink")（テレビ東京[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")）
 
 ## コーナー
 
@@ -54,7 +54,7 @@
     2007年4月から始まったコーナー。
   - 失敗は成功のマザー
     ご一食させてください
-    「自宅でいきなりお昼ご飯を食べさせて欲しい」という無茶なお願いを受け入れてくれるかを検証するコーナー。2人でいろいろな地域へ行き、自宅でお昼ご飯を食べさせてくれる人を探す。出演はYa-Ya-yahの4人が中心だが、過去にはJ.J.Expressの[伊野尾慧](https://ja.wikipedia.org/wiki/伊野尾慧 "wikilink")や[中島裕翔](https://ja.wikipedia.org/wiki/中島裕翔 "wikilink")も参加したことがある。
+    「自宅でいきなりお昼ご飯を食べさせて欲しい」という無茶なお願いを受け入れてくれるかを検証するコーナー。2人でいろいろな地域へ行き、自宅でお昼ご飯を食べさせてくれる人を探す。出演はYa-Ya-yahの4人が中心だが、過去にはJ.J.Expressの[伊野尾慧](../Page/伊野尾慧.md "wikilink")や[中島裕翔](https://ja.wikipedia.org/wiki/中島裕翔 "wikilink")も参加したことがある。
   - THE TEPPAN
     メンバーと芸人が鉄板料理を賭けて対決するコーナー。メンバーは1分間芸人のネタに耐えられれば料理が食べられるが、笑ってしまった場合は鉄板料理を食べられず、芸人は2人以上が笑ったら鉄板料理を食べることができる。
   - 特撮\!スローモーション
@@ -68,7 +68,7 @@
   - ミッションデリバリー
     メンバーやお笑い芸人とともに高級の食べ物をゲットするコーナーで、デリバリーが届くまでにミッションを成功させることを目標としていた。2007年1月に開始したが、同年4月のリニューアルを控えて3月に終了した。
   - BP Question
-    脳をトレーニングするクイズ企画。当時放送されていた『[サルヂエ](../Page/サルヂエ.md "wikilink")』『[脳内エステ IQサプリ](../Page/脳内エステ_IQサプリ.md "wikilink")』『[ロンQ\!ハイランド](https://ja.wikipedia.org/wiki/ロンQ!ハイランド "wikilink")』などの脳トレ系の番組を模倣した内容であった。
+    脳をトレーニングするクイズ企画。当時放送されていた『[サルヂエ](../Page/サルヂエ.md "wikilink")』『[脳内エステ IQサプリ](../Page/脳内エステ_IQサプリ.md "wikilink")』『[ロンQ\!ハイランド](../Page/ロンQ!ハイランド.md "wikilink")』などの脳トレ系の番組を模倣した内容であった。
   - 愛Q劇場
     ハニー（増田貴久）はクイズ好きで、食事の前にダーリン（山下翔央）にクイズを出し、答えられなかったら食事は没収される。問題は、視聴者から募集したものを使用していた。
   - それいけ\!クサNo\!マン
@@ -76,11 +76,11 @@
   - 東京マル秘伝説
     東京の知られざる伝説の中からゲストが1つ選び、それをメンバーが解明するコーナー。Ya-Ya-yahのメンバー以外にも、J.J.Expressの伊野尾慧や中島裕翔、NEWSの増田貴久、草野博紀、小山慶一郎などが行ったこともある。
   - 太陽教授のなんでも実験室
-    [鮎川太陽](https://ja.wikipedia.org/wiki/鮎川太陽 "wikilink")が、視聴者から届いたトリビアを実験で解明するコーナー。助手は毎回変わっていた。園児役で小山慶一郎、草野博紀、加藤成亮、[手越祐也](https://ja.wikipedia.org/wiki/手越祐也 "wikilink")などが実験を一緒に行っていた。
+    [鮎川太陽](../Page/鮎川太陽.md "wikilink")が、視聴者から届いたトリビアを実験で解明するコーナー。助手は毎回変わっていた。園児役で小山慶一郎、草野博紀、加藤成亮、[手越祐也](../Page/手越祐也.md "wikilink")などが実験を一緒に行っていた。
   - 都道府県検索
     G-1選手権
     公開オーディション
-    2004年8月12日にジャニーズJr.の公開オーディションを行った。そのオーディションからは、[山田涼介](https://ja.wikipedia.org/wiki/山田涼介 "wikilink")、[森本龍太郎](https://ja.wikipedia.org/wiki/森本龍太郎 "wikilink")、[橋本良亮](https://ja.wikipedia.org/wiki/橋本良亮 "wikilink")、[阿部亮平](../Page/阿部亮平_\(ジャニーズ\).md "wikilink")、[深澤辰哉](https://ja.wikipedia.org/wiki/深澤辰哉 "wikilink")らを生み出した。また、不合格者に[PrizmaX](https://ja.wikipedia.org/wiki/PrizmaX "wikilink")のメンバーを務めている[島田翼](https://ja.wikipedia.org/wiki/島田翼 "wikilink")（[スターダストプロモーション](https://ja.wikipedia.org/wiki/スターダストプロモーション "wikilink")所属）らがいる。
+    2004年8月12日にジャニーズJr.の公開オーディションを行った。そのオーディションからは、[山田涼介](https://ja.wikipedia.org/wiki/山田涼介 "wikilink")、[森本龍太郎](https://ja.wikipedia.org/wiki/森本龍太郎 "wikilink")、[橋本良亮](https://ja.wikipedia.org/wiki/橋本良亮 "wikilink")、[阿部亮平](../Page/阿部亮平_\(ジャニーズ\).md "wikilink")、[深澤辰哉](../Page/深澤辰哉.md "wikilink")らを生み出した。また、不合格者に[PrizmaX](https://ja.wikipedia.org/wiki/PrizmaX "wikilink")のメンバーを務めている[島田翼](https://ja.wikipedia.org/wiki/島田翼 "wikilink")（[スターダストプロモーション](../Page/スターダストプロモーション.md "wikilink")所属）らがいる。
 
 ## 放送局
 
@@ -142,7 +142,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/TVQ九州放送.md" title="wikilink">TVQ九州放送</a></p></td>
 <td><p>日曜 12時24分 - 12時54分（2005年10月 - 2007年4月）<br />
 日曜 6時30分 - 7時00分（2007年4月 - 2007年11月）</p></td>

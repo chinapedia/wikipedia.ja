@@ -1,11 +1,11 @@
 > この記事は[Beret](https://ja.wikipedia.org/wiki/Beret)から翻訳されています。
 
 
-**beret**（ベレイ）は、男女2人によって構成される[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。[徳間ジャパンコミュニケーションズ](https://ja.wikipedia.org/wiki/徳間ジャパンコミュニケーションズ "wikilink")に所属。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に結成し、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に解散した。
+**beret**（ベレイ）は、男女2人によって構成される[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。[徳間ジャパンコミュニケーションズ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")に所属。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に結成し、[2006年](../Page/2006年.md "wikilink")に解散した。
 
 ## 概要・来歴
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")にて結成。[1999年](../Page/1999年.md "wikilink")[6月19日](../Page/6月19日.md "wikilink")にシングル「やさしい花びら/暖かい場所」にて[徳間ジャパンコミュニケーションズ](https://ja.wikipedia.org/wiki/徳間ジャパンコミュニケーションズ "wikilink")より[メジャー・デビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。その後も作品発表を続けるが、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月22日](../Page/2月22日.md "wikilink")に2枚組[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")『best best beret\!\!』の発表を以て解散した。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")にて結成。[1999年](../Page/1999年.md "wikilink")[6月19日](../Page/6月19日.md "wikilink")にシングル「やさしい花びら/暖かい場所」にて[徳間ジャパンコミュニケーションズ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")より[メジャー・デビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。その後も作品発表を続けるが、[2006年](../Page/2006年.md "wikilink")[2月22日](../Page/2月22日.md "wikilink")に2枚組[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")『best best beret\!\!』の発表を以て解散した。
 
 ## メンバー
 

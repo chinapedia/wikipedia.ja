@@ -1,7 +1,7 @@
 > この記事は[Witch](https://ja.wikipedia.org/wiki/Witch)から翻訳されています。
 
 
-**Witch**（ウィッチ）は、[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")[さいたま市](https://ja.wikipedia.org/wiki/さいたま市 "wikilink")に事業所を置いていた有限会社アルテミスが展開していた[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")のブランドである。[1999年](../Page/1999年.md "wikilink")に第1作『[Alive](../Page/Alive_\(Witch\).md "wikilink")』を発売、その後も『[Milkyway](../Page/Milkyway.md "wikilink")』シリーズを発売したが、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に活動を停止した。
+**Witch**（ウィッチ）は、[埼玉県](../Page/埼玉県.md "wikilink")[さいたま市](https://ja.wikipedia.org/wiki/さいたま市 "wikilink")に事業所を置いていた有限会社アルテミスが展開していた[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")のブランドである。[1999年](../Page/1999年.md "wikilink")に第1作『[Alive](../Page/Alive_\(Witch\).md "wikilink")』を発売、その後も『[Milkyway](../Page/Milkyway.md "wikilink")』シリーズを発売したが、[2005年](../Page/2005年.md "wikilink")に活動を停止した。
 
 姉妹ブランドに[ボーイズラブゲーム](../Page/ボーイズラブゲーム.md "wikilink")ブランドである「Katze」があった。
 
@@ -23,7 +23,7 @@
   - [2004年](../Page/2004年.md "wikilink")[5月28日](../Page/5月28日.md "wikilink") - [もふ×もきゅ 〜ご主人様のお世話します〜](https://ja.wikipedia.org/wiki/もふ×もきゅ_〜ご主人様のお世話します〜 "wikilink")
   - 2004年5月28日 - Milkyway DVD（1＋1.8＋2の詰め合わせ）
   - 2004年[6月30日](../Page/6月30日.md "wikilink") - Milkyway2.5（電撃姫8月号付録）
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月28日](../Page/4月28日.md "wikilink") - Milkyway3
+  - [2005年](../Page/2005年.md "wikilink")[4月28日](../Page/4月28日.md "wikilink") - Milkyway3
 
 ## 主なスタッフ
 

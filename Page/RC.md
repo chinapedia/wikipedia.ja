@@ -5,17 +5,17 @@ __NOTOC__  **RC**
 
 ## 一般名詞
 
-  - [ローマ・カトリック](https://ja.wikipedia.org/wiki/カトリック教会 "wikilink") ()
+  - [ローマ・カトリック](../Page/カトリック教会.md "wikilink") ()
 
   - [ラジオコントロール](https://ja.wikipedia.org/wiki/ラジオコントロール "wikilink") ()
 
-  - [遠隔操作](https://ja.wikipedia.org/wiki/遠隔操作 "wikilink") ()
+  - [遠隔操作](../Page/遠隔操作.md "wikilink") ()
 
   - [有筋コンクリート](https://ja.wikipedia.org/wiki/有筋コンクリート "wikilink") ()
 
       - [鉄筋コンクリート](../Page/鉄筋コンクリート.md "wikilink")
 
-  - [RC (野球)](https://ja.wikipedia.org/wiki/RC_\(野球\) "wikilink") ()
+  - [RC (野球)](../Page/RC_\(野球\).md "wikilink") ()
 
   - [リリース候補版](https://ja.wikipedia.org/wiki/リリース候補版 "wikilink") () - ソフトウェアの正式リリース直前のバージョン。
 
@@ -37,10 +37,10 @@ __NOTOC__  **RC**
 
 ## 地名、組織名など
 
-  - [レッジョ・カラブリア県](https://ja.wikipedia.org/wiki/レッジョ・カラブリア県 "wikilink") () - イタリアの県。
+  - [レッジョ・カラブリア県](../Page/レッジョ・カラブリア県.md "wikilink") () - イタリアの県。
   - [赤十字社](../Page/赤十字社.md "wikilink") ()。
-  - [ロータリークラブ](https://ja.wikipedia.org/wiki/ロータリークラブ "wikilink") ()。
-  - [RCサクセション](https://ja.wikipedia.org/wiki/RCサクセション "wikilink") - 日本のロックバンド。
+  - [ロータリークラブ](../Page/ロータリークラブ.md "wikilink") ()。
+  - [RCサクセション](../Page/RCサクセション.md "wikilink") - 日本のロックバンド。
   - 学校
       - [啓新書院](https://ja.wikipedia.org/wiki/啓新書院 "wikilink") () - 香港のインターナショナルスクール。
       - [ロバート・カレッジ](https://ja.wikipedia.org/wiki/ロバート・カレッジ "wikilink") () - トルコの高等学校。
@@ -54,9 +54,9 @@ __NOTOC__  **RC**
   - [ローヤルクラウン・コーラ](https://ja.wikipedia.org/wiki/ローヤルクラウン・コーラ "wikilink") ()
   - 自動車
       - [日野自動車](../Page/日野自動車.md "wikilink")がかつて生産していたバスの型式。[日野・ブルーリボン\#RE/RC系](https://ja.wikipedia.org/wiki/日野・ブルーリボン#RE/RC系 "wikilink")を参照
-      - 4代目[ヒュンダイ・アクセント](https://ja.wikipedia.org/wiki/ヒュンダイ・アクセント "wikilink")の形式の1つ。
+      - 4代目[ヒュンダイ・アクセント](../Page/ヒュンダイ・アクセント.md "wikilink")の形式の1つ。
       - [レクサス・RC](https://ja.wikipedia.org/wiki/レクサス・RC "wikilink")- トヨタ自動車がレクサスブランドで製造･販売する乗用車。
-  - [RigidChips](https://ja.wikipedia.org/wiki/RigidChips "wikilink") - 剛体シミュレーションソフト。
+  - [RigidChips](../Page/RigidChips.md "wikilink") - 剛体シミュレーションソフト。
 
 ## フィクション
 

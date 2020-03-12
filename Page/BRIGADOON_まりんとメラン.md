@@ -1,7 +1,7 @@
 > この記事は[BRIGADOON ](https://ja.wikipedia.org/wiki/BRIGADOON_)から翻訳されています。
 
 
-『**BRIGADOON まりんとメラン**』（ブリガドーン まりんとメラン）は、[WOWOW](../Page/WOWOW.md "wikilink")で[2000年](../Page/2000年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")から[2001年](../Page/2001年.md "wikilink")[2月9日](../Page/2月9日.md "wikilink")まで放送された、[サンライズ制作の](https://ja.wikipedia.org/wiki/サンライズ_\(アニメ制作会社\) "wikilink")[アニメ](../Page/アニメ.md "wikilink")。全26話。
+『**BRIGADOON まりんとメラン**』（ブリガドーン まりんとメラン）は、[WOWOW](../Page/WOWOW.md "wikilink")で[2000年](../Page/2000年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")から[2001年](../Page/2001年.md "wikilink")[2月9日](../Page/2月9日.md "wikilink")まで放送された、[サンライズ制作の](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")[アニメ](../Page/アニメ.md "wikilink")。全26話。
 
 ## 概要
 
@@ -11,38 +11,38 @@
 
 アニメ以外にも、[渡瀬のぞみ](https://ja.wikipedia.org/wiki/渡瀬のぞみ "wikilink")によるコミックス化もされたが、基本的にはアニメ版とは違うストーリーになっている。
 
-監督は『[勇者王ガオガイガー](../Page/勇者王ガオガイガー.md "wikilink")』『[ベターマン](https://ja.wikipedia.org/wiki/ベターマン "wikilink")』を手がけた[米たにヨシトモ](https://ja.wikipedia.org/wiki/米たにヨシトモ "wikilink")が務めているため 他の2作に繋がる裏設定も存在する。
+監督は『[勇者王ガオガイガー](../Page/勇者王ガオガイガー.md "wikilink")』『[ベターマン](../Page/ベターマン.md "wikilink")』を手がけた[米たにヨシトモ](../Page/米たにヨシトモ.md "wikilink")が務めているため 他の2作に繋がる裏設定も存在する。
 
 なお、海外の一部では『BRIGADOON』のタイトルで放送された。タイトルの「BRIGADOON」とは、スコットランドの民話で、100年に一度霧の中から現れる世界をモチーフにしている。
 
 ## あらすじ
 
-時は[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")（[昭和](../Page/昭和.md "wikilink")44年）。[大阪万博の開催まで一年をきったある日](https://ja.wikipedia.org/wiki/日本万国博覧会 "wikilink")、東京[下町](../Page/下町.md "wikilink")の[長屋](https://ja.wikipedia.org/wiki/長屋 "wikilink")に住む平凡な少女浅葱まりんは突如空に現われた異世界「ブリガドーン」からやってきた謎の生体兵器（モノマキア）に襲われる。
+時は[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")（[昭和](../Page/昭和.md "wikilink")44年）。[大阪万博の開催まで一年をきったある日](../Page/日本万国博覧会.md "wikilink")、東京[下町](../Page/下町.md "wikilink")の[長屋](../Page/長屋.md "wikilink")に住む平凡な少女浅葱まりんは突如空に現われた異世界「ブリガドーン」からやってきた謎の生体兵器（モノマキア）に襲われる。
 
-その時、[根津神社](https://ja.wikipedia.org/wiki/根津神社 "wikilink")に御[神体](https://ja.wikipedia.org/wiki/神体 "wikilink")として祭られていた[アンプル](https://ja.wikipedia.org/wiki/アンプル "wikilink")の中から別のモノマキアが現れ、まりんを救う。彼の名はメラン・ブルー。まりんを守るのが任務だという。二つの世界の運命をかけた戦いが始まる。
+その時、[根津神社](../Page/根津神社.md "wikilink")に御[神体](../Page/神体.md "wikilink")として祭られていた[アンプル](https://ja.wikipedia.org/wiki/アンプル "wikilink")の中から別のモノマキアが現れ、まりんを救う。彼の名はメラン・ブルー。まりんを守るのが任務だという。二つの世界の運命をかけた戦いが始まる。
 
 ## 登場人物
 
-ブリガドーン人以外のほとんどのキャラクターは名前に[色名](https://ja.wikipedia.org/wiki/色名 "wikilink")が含まれている。
+ブリガドーン人以外のほとんどのキャラクターは名前に[色名](../Page/色名.md "wikilink")が含まれている。
 
 ### 主要人物
 
   - 浅葱まりん（あさぎ まりん）
-    [声](../Page/声優.md "wikilink") - [KAORI](https://ja.wikipedia.org/wiki/KAORI. "wikilink")
-    この作品の主人公。13歳の中学1年生。[遠視](../Page/遠視.md "wikilink")のためにいつも[眼鏡](../Page/眼鏡.md "wikilink")をかけている。口癖は「あっは〜ん！」。妄想癖の持ち主で、作中でたびたびおかしな妄想をする。[捨て子](https://ja.wikipedia.org/wiki/捨て子 "wikilink")だったところをモト婆ちゃんに拾われ、長屋の人たちに育てられた。捨て子であったことや長屋住まいであることを理由に苛められることもあるが、たくましく生きる前向きで明るい女の子。新聞配達をして家計を助けている。クレイスと同様、モノマキアをアンプルから出し入れすることができる。なぜかモノマキアに命を狙われ、そのために周囲の人々からも誤解を受けるはめになってしまう。
+    [声](../Page/声優.md "wikilink") - [KAORI](../Page/KAORI..md "wikilink")
+    この作品の主人公。13歳の中学1年生。[遠視](../Page/遠視.md "wikilink")のためにいつも[眼鏡](../Page/眼鏡.md "wikilink")をかけている。口癖は「あっは〜ん！」。妄想癖の持ち主で、作中でたびたびおかしな妄想をする。[捨て子](../Page/捨て子.md "wikilink")だったところをモト婆ちゃんに拾われ、長屋の人たちに育てられた。捨て子であったことや長屋住まいであることを理由に苛められることもあるが、たくましく生きる前向きで明るい女の子。新聞配達をして家計を助けている。クレイスと同様、モノマキアをアンプルから出し入れすることができる。なぜかモノマキアに命を狙われ、そのために周囲の人々からも誤解を受けるはめになってしまう。
     地球の常識を知らず、暴走しがちだったメランに当初は困惑していたものの、自分を守るために戦う彼と一緒に過ごすうちに、次第に気持ちに変化が現れるようになる。
   - メラン・ブルー
-    声 - [大塚芳忠](https://ja.wikipedia.org/wiki/大塚芳忠 "wikilink")
+    声 - [大塚芳忠](../Page/大塚芳忠.md "wikilink")
     この作品のもう一人の主人公。正確な実年齢は不明だが、精神年齢は17歳。ブリガドーンの生体兵器（モノマキア）だが、まりんを守るのが任務だという。普段は小さなアンプルに収まっており、まりんが呼び出した時だけ外に出ることが可能。全体的なシルエットは人と同じだが皮膚の一部は金属質の素材で出来ており、右手は剣、左手は銃になっている。そのため物を掴んだりする場合は腰の部分に内蔵された作動肢（別名ペタリハンド）を使う。背中のウイングを展開させることで空を飛ぶこともでき、新幹線並みの速度を出すことも可能。普段顔は露出しているが戦闘時には体と同じ素材で顔も覆う。当初は機械的で無愛想な振る舞いをしていたが、まりんや長屋の人たちとの暮らしの中で徐々に人間らしい感情に目覚めて行く。ご飯を50杯も平らげるという、かなりの大食漢という意外な一面をもつ。一人称は「僕」。
     最初は任務としてまりんを守ることを考えていたが、次第に自らの意思でまりんを守りたいと思うようになる。
   - ロロ
-    声 - [新谷真弓](https://ja.wikipedia.org/wiki/新谷真弓 "wikilink")
+    声 - [新谷真弓](../Page/新谷真弓.md "wikilink")
     [猫](https://ja.wikipedia.org/wiki/猫 "wikilink")に似た容貌の謎の多い生き物。神出鬼没でしばしばまりんの前に現われ、助言や警告を行う。実はブリガドーン人でブリガドーン中枢議会のメンバーの一人。生活向上委員長という役職にある。おちゃらけた態度や不真面目な言動を取ることが多いため周囲からは嫌われているが実は優秀で友達思いの優しい性格の持ち主。体の色は緑。
   - 如月萌（きさらぎ もえ）
     声 - [齋藤彩夏](../Page/齋藤彩夏.md "wikilink")
     まりんの親友。おっとりしていて内気でまりんとは正反対の性格。まりんのことが大好きで、その感情はやや[同性愛](https://ja.wikipedia.org/wiki/同性愛 "wikilink")に近いものがあるものの、男の子に興味を示したこともある。[山の手](../Page/山の手.md "wikilink")に暮らし家はかなりの資産家だがそれを鼻にかけることはない。病弱ながらもまりんを思う気持ちは強く、同級生のいじめからまりんを助けようとしたこともある。母親(声 - [速水圭](https://ja.wikipedia.org/wiki/速水圭 "wikilink"))はまりんや長屋の人々を良く思っておらず、たびたび萌に付き合いを止めるように注意している。
   - 亜呂真（あろ まこと）
-    声 - [緑川光](https://ja.wikipedia.org/wiki/緑川光 "wikilink")
+    声 - [緑川光](../Page/緑川光.md "wikilink")
     まりんたちを見守る謎の少年。通称「あろま」。神出鬼没で世界中の様々な場所に現れ、未来に起きる事件をあらかじめ知っている素振りを見せる。モノマキアのことも知っている様子で、まりんに助言めいたヒントを与えることもある。食いしん坊でいつも何かを食べている（食べ物はご当地名物であることが多い）。まりんと初めて出会った時に「未来から来た歴史観測員?」と聞かれそれを肯定したが、その真相は後に明らかになる。
 
 ### 地球側の人物
@@ -50,31 +50,31 @@
 #### 長屋の住人
 
   - 浅葱モト（あさぎ モト）
-    声 - [愛河里花子](https://ja.wikipedia.org/wiki/愛河里花子 "wikilink")
+    声 - [愛河里花子](../Page/愛河里花子.md "wikilink")
     まりんの育ての親。小柄だがパワフルな肝っ玉おばあちゃんでまりんのことを実の娘のようにかわいがっている。異界の住人であるメランをあっさり受け入れるなど広い度量の持ち主。物語中盤、死別した夫の浅葱元との思い出が詰まった大阪万博にまりんと出かけ、モノマキア騒動に巻き込まれる。
   - 藍庵秀太（あいあん しゅうた）
-    声 - [田の中勇](https://ja.wikipedia.org/wiki/田の中勇 "wikilink")
-    75歳の老[発明家](https://ja.wikipedia.org/wiki/発明家 "wikilink")。いくつもの奇天烈な発明品を製作している。何の役にも立たない物もあるが彼が作ったものが事態の突破口になることも多い。また頭の回転も速く、長屋のブレーン的な役割をすることも。科学や発明とは人を幸せにするための物という確固とした信念を持った科学者の鑑のような人物。だが性格は気さくで親しみやすく、まりんのこともかわいがっている。モトや彼女の夫の元とは昔からの知り合いらしい。序盤では装着すると身動きの取れなかったジャミング装置を、再登場の時にはリストバンド状にまで小型化した。終盤、戦時中にある軍事施設で働いていた過去が明らかになる。
+    声 - [田の中勇](../Page/田の中勇.md "wikilink")
+    75歳の老[発明家](../Page/発明家.md "wikilink")。いくつもの奇天烈な発明品を製作している。何の役にも立たない物もあるが彼が作ったものが事態の突破口になることも多い。また頭の回転も速く、長屋のブレーン的な役割をすることも。科学や発明とは人を幸せにするための物という確固とした信念を持った科学者の鑑のような人物。だが性格は気さくで親しみやすく、まりんのこともかわいがっている。モトや彼女の夫の元とは昔からの知り合いらしい。序盤では装着すると身動きの取れなかったジャミング装置を、再登場の時にはリストバンド状にまで小型化した。終盤、戦時中にある軍事施設で働いていた過去が明らかになる。
   - マイク・ホワイト
-    声 - [岩田光央](https://ja.wikipedia.org/wiki/岩田光央 "wikilink")
+    声 - [岩田光央](../Page/岩田光央.md "wikilink")
     秀太を親分と呼び、助手をしているアメリカ人青年。かなり訛りのある日本語を使いその文法は微妙に間違っている。優しく陽気な性格の持ち主で、まりんとは年の離れた友達のような関係。密かに純に想いを寄せている。物語後半、彼が日本へ来ていた理由が明らかになる。
   - 桃井ひとえ、桃井ふたえ、桃井みつえ（ももい ひとえ、ももい ふたえ、ももい みつえ）
-    声 - [柚木涼香](https://ja.wikipedia.org/wiki/柚木涼香 "wikilink")
-    三つ子の女性。長屋の近くにある[駄菓子屋](https://ja.wikipedia.org/wiki/駄菓子屋 "wikilink")を経営している。いつも三人揃って行動し、しゃべる時も三人で流れるようにしゃべる。そのためまりんは彼女たちのことを「桃井のおばちゃんたち」と呼んでいる。小柄でふくよかな体型の、いわゆる「近所の気さくなおばちゃん」的な風貌。実際性格も三人揃って気さくで料理が得意なのも三人一緒。長屋では朝夕の食事は全員で揃って摂っているが、その全てをまかなう長屋の料理番でもある。独身。長屋に来客があるたび、お茶、ジュース、コーヒーなどそれぞれ別のものを出し、客がどれを選ぶかを競っている。
+    声 - [柚木涼香](../Page/柚木涼香.md "wikilink")
+    三つ子の女性。長屋の近くにある[駄菓子屋](../Page/駄菓子屋.md "wikilink")を経営している。いつも三人揃って行動し、しゃべる時も三人で流れるようにしゃべる。そのためまりんは彼女たちのことを「桃井のおばちゃんたち」と呼んでいる。小柄でふくよかな体型の、いわゆる「近所の気さくなおばちゃん」的な風貌。実際性格も三人揃って気さくで料理が得意なのも三人一緒。長屋では朝夕の食事は全員で揃って摂っているが、その全てをまかなう長屋の料理番でもある。独身。長屋に来客があるたび、お茶、ジュース、コーヒーなどそれぞれ別のものを出し、客がどれを選ぶかを競っている。
   - 鴇田純（ときた じゅん）
     声 - [荒木香恵](../Page/荒木香衣.md "wikilink")
     正の娘。[看護婦](https://ja.wikipedia.org/wiki/看護師 "wikilink")。酒に溺れる父親を抱えて働く苦労人だがそんな雰囲気は見せない。優しく面倒見のいい性格でまりんの姉的存在。物語中盤で長屋での変化のない日々に悩んでいた気持ちが明かされ、これまでの日常と決別するある選択をすることになる。
   - 鴇田正（ときた ただし）
-    声 - [高田裕司](https://ja.wikipedia.org/wiki/高田裕司_\(声優\) "wikilink")
-    純の父親。いつも酔っぱらっている。働きもせず、昼間から酔いどれているダメ親父。みゆき(声 - [鵜飼るみ子](https://ja.wikipedia.org/wiki/鵜飼るみ子 "wikilink"))という奥さんがいるが現在は家出中。娘の純には「人の気持ちが分かりすぎて飲まずにいられない」と評されている。酔っ払っていてもメランが初めて長屋に来た時は近所に口止めを行うように住人達に指示したりと、判断力と頭の回転はなかなかのもの。物語後半、ある事件をきっかけに酒を止めることになる。
+    声 - [高田裕司](../Page/高田裕司_\(声優\).md "wikilink")
+    純の父親。いつも酔っぱらっている。働きもせず、昼間から酔いどれているダメ親父。みゆき(声 - [鵜飼るみ子](../Page/鵜飼るみ子.md "wikilink"))という奥さんがいるが現在は家出中。娘の純には「人の気持ちが分かりすぎて飲まずにいられない」と評されている。酔っ払っていてもメランが初めて長屋に来た時は近所に口止めを行うように住人達に指示したりと、判断力と頭の回転はなかなかのもの。物語後半、ある事件をきっかけに酒を止めることになる。
   - 御納戸志朗（おなんど しろう）
-    彫り師。とても無口で作中は一度もしゃべらない。だが長屋の他の住人と同じくまりんのことは大事に思っている。[Vサインが得意で](https://ja.wikipedia.org/wiki/ピースサイン "wikilink")「ビシッ」という効果音までつくほど。
+    彫り師。とても無口で作中は一度もしゃべらない。だが長屋の他の住人と同じくまりんのことは大事に思っている。[Vサインが得意で](../Page/ピースサイン.md "wikilink")「ビシッ」という効果音までつくほど。
 
 #### 学校関係
 
   - 真乃みどり（まの みどり）
     声 - 柚木涼香
-    まりんの学校の3年生。[不良で口は悪いが優しい心の持ち主](https://ja.wikipedia.org/wiki/不良行為少年 "wikilink")。常に木刀を持っている。父親がおらず、みなしごのまりんに対しシンパシーを感じているようで、何かと世話を焼いてくれる。大人びており、まりんの精神的な成長を促してくれる人生の先輩のような存在。
+    まりんの学校の3年生。[不良で口は悪いが優しい心の持ち主](../Page/不良行為少年.md "wikilink")。常に木刀を持っている。父親がおらず、みなしごのまりんに対しシンパシーを感じているようで、何かと世話を焼いてくれる。大人びており、まりんの精神的な成長を促してくれる人生の先輩のような存在。
   - 原ちあさ（はら ちあさ）
     声 - 柚木涼香
     まりんのクラスの女性担任教師。23歳の新卒で、国語担当。思い込みが激しい。まりん宅への家庭訪問の際にモトに感銘を受け、先生と慕うようになる。
@@ -85,7 +85,7 @@
     声 - 荒木香恵
     まりんのクラスメイトで、たびたび彼女のスカートを覗き込もうとしたりしている。まりんに対して反抗的な態度をとる。
   - 丹膳隆（たんぜん たかし）
-    声 - [伊藤健太郎](https://ja.wikipedia.org/wiki/伊藤健太郎_\(声優\) "wikilink")
+    声 - [伊藤健太郎](../Page/伊藤健太郎_\(声優\).md "wikilink")
     まりんのクラスメイト。世界が破滅すると思い込んでいて、悲観的な性格。
   - 樺本達也（かばもと たつや）
     声 - 岩田光央
@@ -94,7 +94,7 @@
     声 - [西村ちなみ](../Page/西村ちなみ.md "wikilink")
     まりんのクラスメイト。いじめっ子グループのリーダーで、かなり前からまりんのことを孤児をネタにいじめていた。そのいじめも物語が進むに連れエスカレートし、まりんを精神的に追い詰めていくことになる。祖母がいる以外は家族構成は不明。
   - 海老茶たまみ（えびちゃ たまみ）
-    声 - [滝沢ロコ](https://ja.wikipedia.org/wiki/滝沢ロコ "wikilink")
+    声 - [滝沢ロコ](../Page/滝沢ロコ.md "wikilink")
     まりんのクラスメイト。A子らと共にまりんに意地悪な態度をとる。色黒で細身の長身。
   - 紺野わかな（こんの わかな）
     声 - [田丸楓](https://ja.wikipedia.org/wiki/田丸楓 "wikilink")
@@ -103,7 +103,7 @@
 #### その他の登場人物
 
   - かおりの母
-    声 - [瀧本富士子](https://ja.wikipedia.org/wiki/瀧本富士子 "wikilink")
+    声 - [瀧本富士子](../Page/瀧本富士子.md "wikilink")
     万博の騒動の際、かおりという名の娘を亡くした女。執拗にまりんを殺害しようと付け狙う。
 
 ### 異世界「ブリガドーン」の登場キャラクター
@@ -112,7 +112,7 @@
 
   - パイオン・シルヴァー
     声 - 高田裕司
-    銃剣士のモノマキア。武器として聖剣[エクスカリバー](../Page/エクスカリバー.md "wikilink")を持つ。[武士道](https://ja.wikipedia.org/wiki/武士道 "wikilink")をわきまえる。メランをブリガドーンへ連れ戻すことを目的に地球に現れる。
+    銃剣士のモノマキア。武器として聖剣[エクスカリバー](../Page/エクスカリバー.md "wikilink")を持つ。[武士道](../Page/武士道.md "wikilink")をわきまえる。メランをブリガドーンへ連れ戻すことを目的に地球に現れる。
   - エリュン・ガーネット
     声 - 荒木香恵
     銃剣士の女性モノマキア。遠距離攻撃型。冷酷な性格でメランの命を狙う。まりんを守ろうとするメランに対し強い憎しみを見せるなど、メランに対し特別の感情がある様子。
@@ -199,35 +199,35 @@
 
 ## スタッフ
 
-  - 企画 - [サンライズ](https://ja.wikipedia.org/wiki/サンライズ_\(アニメ制作会社\) "wikilink")
-  - 原案 - [矢立肇](../Page/矢立肇.md "wikilink")、[米たにヨシトモ](https://ja.wikipedia.org/wiki/米たにヨシトモ "wikilink")
+  - 企画 - [サンライズ](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")
+  - 原案 - [矢立肇](../Page/矢立肇.md "wikilink")、[米たにヨシトモ](../Page/米たにヨシトモ.md "wikilink")
   - 監督 - 米たにヨシトモ
-  - シリーズ構成・脚本 - [倉田英之](https://ja.wikipedia.org/wiki/倉田英之 "wikilink")
-  - キャラクター原案 - [水玉螢之丞](https://ja.wikipedia.org/wiki/水玉螢之丞 "wikilink")
-  - キャラクターデザイン - [木村貴宏](https://ja.wikipedia.org/wiki/木村貴宏 "wikilink")
+  - シリーズ構成・脚本 - [倉田英之](../Page/倉田英之.md "wikilink")
+  - キャラクター原案 - [水玉螢之丞](../Page/水玉螢之丞.md "wikilink")
+  - キャラクターデザイン - [木村貴宏](../Page/木村貴宏.md "wikilink")
   - アクションマスター - [まさひろ山根](https://ja.wikipedia.org/wiki/山根理宏 "wikilink")
   - 造型師 - 安藤賢司
-  - デザインワークス - [中原れい](../Page/中原れい.md "wikilink")、シンクポート、[横井孝二](https://ja.wikipedia.org/wiki/横井孝二 "wikilink")、宮豊
+  - デザインワークス - [中原れい](../Page/中原れい.md "wikilink")、シンクポート、[横井孝二](../Page/横井孝二.md "wikilink")、宮豊
   - 総作画監督 - 木村貴宏、まさひろ山根（第2話-第4話）
   - 美術監督 - 中村隆
   - 色彩設計 - 吉岡美由紀
   - 撮影監督 - 長谷川洋一
   - 編集 - 布施由美子
-  - 音響監督 - [大熊昭](https://ja.wikipedia.org/wiki/大熊昭 "wikilink")
-  - 音楽 - [吉野裕司](https://ja.wikipedia.org/wiki/吉野裕司 "wikilink")、[上野洋子](https://ja.wikipedia.org/wiki/上野洋子 "wikilink")
-  - 企画プロデューサー - [海部正樹](https://ja.wikipedia.org/wiki/海部正樹 "wikilink")、小林真一郎、杉田敦
+  - 音響監督 - [大熊昭](../Page/大熊昭.md "wikilink")
+  - 音楽 - [吉野裕司](https://ja.wikipedia.org/wiki/吉野裕司 "wikilink")、[上野洋子](../Page/上野洋子.md "wikilink")
+  - 企画プロデューサー - [海部正樹](../Page/海部正樹.md "wikilink")、小林真一郎、杉田敦
   - 音楽プロデューサー - [佐々木史朗](https://ja.wikipedia.org/wiki/佐々木史朗_\(音楽プロデューサー\) "wikilink")、福田正夫
   - プロデューサー - 染宮淳子、河内山隆、国崎久徳
-  - 製作 - サンライズ、[WOWOW](../Page/WOWOW.md "wikilink")、[バンダイビジュアル](https://ja.wikipedia.org/wiki/バンダイビジュアル "wikilink")
+  - 製作 - サンライズ、[WOWOW](../Page/WOWOW.md "wikilink")、[バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")
 
 ## 主題歌
 
   - オープニングテーマ「風の碧、海の翠」
-    作詞 - [米たにヨシトモ](https://ja.wikipedia.org/wiki/米たにヨシトモ "wikilink") / 作曲 - 吉野裕司 / 編曲 - Pralltriller / 歌 - [Ikuko](https://ja.wikipedia.org/wiki/Ikuko_\(歌手\) "wikilink")
+    作詞 - [米たにヨシトモ](../Page/米たにヨシトモ.md "wikilink") / 作曲 - 吉野裕司 / 編曲 - Pralltriller / 歌 - [Ikuko](https://ja.wikipedia.org/wiki/Ikuko_\(歌手\) "wikilink")
   - エンディングテーマ「虹色の宝物」
-    作詞・作曲 - [EPO](https://ja.wikipedia.org/wiki/EPO "wikilink") / 編曲 - [門倉聡](https://ja.wikipedia.org/wiki/門倉聡 "wikilink") / 歌 - KAORI（21話のみ、KAORI&齋藤彩夏）
+    作詞・作曲 - [EPO](../Page/EPO.md "wikilink") / 編曲 - [門倉聡](../Page/門倉聡.md "wikilink") / 歌 - KAORI（21話のみ、KAORI&齋藤彩夏）
   - 最終話エンディングテーマ「出逢いをア・リ・ガ・ト・ウ…」
-    作詞・歌 - KAORI / 作曲・編曲 - [河野伸](https://ja.wikipedia.org/wiki/河野伸 "wikilink")
+    作詞・歌 - KAORI / 作曲・編曲 - [河野伸](../Page/河野伸.md "wikilink")
 
 ## 各話リスト
 
@@ -247,9 +247,9 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>出会いは浅葱色</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/米たにヨシトモ" title="wikilink">米たにヨシトモ</a></p></td>
+<td><p><a href="../Page/米たにヨシトモ.md" title="wikilink">米たにヨシトモ</a></p></td>
 <td><p>木村貴宏</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/吉田徹" title="wikilink">吉田徹</a></p></td>
+<td><p><a href="../Page/吉田徹.md" title="wikilink">吉田徹</a></p></td>
 <td><p><strong><a href="../Page/2000年.md" title="wikilink">2000年</a></strong><br />
 <a href="../Page/7月21日.md" title="wikilink">7月21日</a></p></td>
 <td></td>
@@ -257,7 +257,7 @@
 <tr class="even">
 <td><p>2</p></td>
 <td><p>紺碧なるモノマキア</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/やまざきかずお" title="wikilink">やまざきかずお</a></p></td>
+<td><p><a href="../Page/やまざきかずお.md" title="wikilink">やまざきかずお</a></p></td>
 <td><p>吉村章</p></td>
 <td><p>寺岡巌</p></td>
 <td><p><a href="../Page/7月28日.md" title="wikilink">7月28日</a></p></td>
@@ -266,7 +266,7 @@
 <tr class="odd">
 <td><p>3</p></td>
 <td><p>鈍色き雲間から</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ワタナベシンイチ" title="wikilink">ワタナベシンイチ</a></p></td>
+<td><p><a href="../Page/ワタナベシンイチ.md" title="wikilink">ワタナベシンイチ</a></p></td>
 <td><p>山田弘和</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/しんぼたくろう" title="wikilink">しんぼたくろう</a></p></td>
 <td><p>米山浩平</p></td>
@@ -275,16 +275,16 @@
 <tr class="even">
 <td><p>4</p></td>
 <td><p>虹をもとめて</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/高松信司" title="wikilink">高松信司</a></p></td>
+<td><p><a href="../Page/高松信司.md" title="wikilink">高松信司</a></p></td>
 <td><p>伊崎知子</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/糸島雅彦" title="wikilink">糸島雅彦</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中谷誠一" title="wikilink">中谷誠一</a></p></td>
+<td><p><a href="../Page/中谷誠一.md" title="wikilink">中谷誠一</a></p></td>
 <td><p><a href="../Page/8月11日.md" title="wikilink">8月11日</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
 <td><p>ソーダ色の空の下</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大橋誉志光" title="wikilink">大橋誉志光</a></p></td>
+<td><p><a href="../Page/大橋誉志光.md" title="wikilink">大橋誉志光</a></p></td>
 <td><p>磨積良亜澄</p></td>
 <td><p>寺岡巌</p></td>
 <td><p><a href="../Page/8月25日.md" title="wikilink">8月25日</a></p></td>
@@ -302,11 +302,11 @@
 <tr class="odd">
 <td><p>7</p></td>
 <td><p>赫赫たる決戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/谷口悟朗" title="wikilink">谷口悟朗</a></p></td>
+<td><p><a href="../Page/谷口悟朗.md" title="wikilink">谷口悟朗</a></p></td>
 <td><p>山田弘和</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/玉川達文" title="wikilink">玉川達文</a></p></td>
+<td><p><a href="../Page/玉川達文.md" title="wikilink">玉川達文</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/山根理宏" title="wikilink">まさひろ山根</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/9月8日" title="wikilink">9月8日</a></p></td>
+<td><p><a href="../Page/9月8日.md" title="wikilink">9月8日</a></p></td>
 </tr>
 <tr class="even">
 <td><p>8</p></td>
@@ -329,8 +329,8 @@
 <tr class="even">
 <td><p>10</p></td>
 <td><p>大怪獣、燦爛!</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日高政光" title="wikilink">日高政光</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/久城りおん" title="wikilink">久城りおん</a></p></td>
+<td><p><a href="../Page/日高政光.md" title="wikilink">日高政光</a></p></td>
+<td><p><a href="../Page/久城りおん.md" title="wikilink">久城りおん</a></p></td>
 <td><p>糸島雅彦</p></td>
 <td><p>中谷誠一</p></td>
 <td><p><a href="../Page/9月29日.md" title="wikilink">9月29日</a></p></td>
@@ -347,16 +347,16 @@
 <tr class="even">
 <td><p>12</p></td>
 <td><p>漆黒からの巣立ち</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/加瀬充子" title="wikilink">加瀬充子</a></p></td>
+<td><p><a href="../Page/加瀬充子.md" title="wikilink">加瀬充子</a></p></td>
 <td><p>山田弘和</p></td>
 <td><p>しんぼたくろう</p></td>
 <td><p>米山浩平</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/10月13日" title="wikilink">10月13日</a></p></td>
+<td><p><a href="../Page/10月13日.md" title="wikilink">10月13日</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>13</p></td>
 <td><p>天井暗黒世界</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/高谷浩利" title="wikilink">高谷浩利</a></p></td>
+<td><p><a href="../Page/高谷浩利.md" title="wikilink">高谷浩利</a></p></td>
 <td><p>吉村章</p></td>
 <td><p>玉川達文</p></td>
 <td><p>まさひろ山根</p></td>
@@ -368,7 +368,7 @@
 <td><p>米たにヨシトモ</p></td>
 <td><p>伊崎知子</p></td>
 <td><p>寺岡巌</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/10月27日" title="wikilink">10月27日</a></p></td>
+<td><p><a href="../Page/10月27日.md" title="wikilink">10月27日</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -383,7 +383,7 @@
 <tr class="even">
 <td><p>16</p></td>
 <td><p>金ぴかの約束</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長岡康史" title="wikilink">長岡康史</a></p></td>
+<td><p><a href="../Page/長岡康史.md" title="wikilink">長岡康史</a></p></td>
 <td><p>久城りおん</p></td>
 <td><p>糸島雅彦</p></td>
 <td><p>中谷誠一</p></td>
@@ -442,7 +442,7 @@
 <td><p>山田弘和</p></td>
 <td><p>糸島雅彦</p></td>
 <td><p>まさひろ山根</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1月12日" title="wikilink">1月12日</a></p></td>
+<td><p><a href="../Page/1月12日.md" title="wikilink">1月12日</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>23</p></td>
@@ -506,10 +506,10 @@
 
 ## 関連項目
 
-  - [デジタルアニメ](https://ja.wikipedia.org/wiki/デジタルアニメ "wikilink")
-  - [大阪万博](https://ja.wikipedia.org/wiki/日本万国博覧会 "wikilink") - 本作品では1969年開催。
+  - [デジタルアニメ](../Page/デジタルアニメ.md "wikilink")
+  - [大阪万博](../Page/日本万国博覧会.md "wikilink") - 本作品では1969年開催。
   - [アポロ11号](../Page/アポロ11号.md "wikilink") - 本作品ではブリガドーン探査の目的で打ち上げられる。
-  - [三銃士](https://ja.wikipedia.org/wiki/三銃士 "wikilink")
+  - [三銃士](../Page/三銃士.md "wikilink")
 
 ## 外部リンク
 

@@ -1,7 +1,7 @@
 > この記事は[Gnus](https://ja.wikipedia.org/wiki/Gnus)から翻訳されています。
 
 
-**Gnus**（**ニューズ**、あるいは**グヌース**）は、[GNU Emacs上で動作する](https://ja.wikipedia.org/wiki/GNU_Emacs "wikilink")[ニュースリーダ](../Page/ネットニュース.md "wikilink")・[メールリーダ](../Page/電子メールクライアント.md "wikilink")。[Emacs Lispで実装されている](https://ja.wikipedia.org/wiki/Emacs_Lisp "wikilink")。
+**Gnus**（**ニューズ**、あるいは**グヌース**）は、[GNU Emacs上で動作する](../Page/GNU_Emacs.md "wikilink")[ニュースリーダ](../Page/ネットニュース.md "wikilink")・[メールリーダ](../Page/電子メールクライアント.md "wikilink")。[Emacs Lispで実装されている](../Page/Emacs_Lisp.md "wikilink")。
 
 現在どのメールリーダ・ニュースリーダでも一般的になった、**記事の[スレッド](../Page/スレッド.md "wikilink")表示**という機能をいち早く実現した他、多くの[アプリケーションソフトウェア](../Page/アプリケーションソフトウェア.md "wikilink")に影響を与えている。
 

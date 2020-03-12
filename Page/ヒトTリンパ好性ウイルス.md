@@ -3,7 +3,7 @@
 
 **ヒトTリンパ好性ウイルス**（ヒトティーリンパこうせいウイルス、*Human T-lymphotropic Virus*、*Human T-cell Leukemia Virus*、**HTLV**）は、[レトロウイルスの一種](../Page/レトロウイルス科.md "wikilink")。HTLV-I, II, III, IVがある。
 
-1.  HTLV-I: [成人T細胞白血病](https://ja.wikipedia.org/wiki/成人T細胞白血病 "wikilink") (ATL) の原因ウイルスとして知られる
+1.  HTLV-I: [成人T細胞白血病](../Page/成人T細胞白血病.md "wikilink") (ATL) の原因ウイルスとして知られる
 2.  HTLV-II:
 3.  HTLV-III:
 4.  HTLV-IV:
@@ -12,32 +12,32 @@
 
 特にHTLV-Iは最初に発見された疾患を起こすヒト[レトロウイルス](../Page/レトロウイルス科.md "wikilink")。類縁ウイルスに[サル](../Page/サル.md "wikilink")に感染するsimian T-lymphotropic virus (= STLV) がある。
 
-宿主である[ヒト](https://ja.wikipedia.org/wiki/ヒト "wikilink")の[T細胞](../Page/T細胞.md "wikilink")内では核内に移行し、ウイルスの[RNAから](../Page/リボ核酸.md "wikilink")[cDNAを逆転写により生成し](../Page/相補的DNA.md "wikilink")、cDNAは宿主[ゲノム](../Page/ゲノム.md "wikilink")DNAへ[インテグレーション](https://ja.wikipedia.org/wiki/インテグレーション "wikilink") (integration) する。integration siteはランダムで決まってはいない。組み込まれたウイルス由来DNAからウイルスRNA全長のmessenger mRNA (gag,pol mRNA) を生成する。全長mRNAは[スプライシング](https://ja.wikipedia.org/wiki/スプライシング "wikilink") (splicing) を受け、env mRNAとなる。env mRNAはさらにスプライシング (secondary splicing) を受けpX mRNAとなる。px mRNAは複製制御を担うp40<sup>*tax*</sup>/p27<sup>*rex*</sup> 蛋白をコードする。 これらのgag-pol, pX 各mRNAは、異なるopen reading frame(ORF)を持つため、もとのウイルスゲノムRNAが一本であっても、それぞれのmRNAは異なった蛋白をコードすることができる\[1\]。感染T細胞は必ずしも死滅するわけではない。そのため、T細胞から別のT細胞へ感染するほかに、感染したT細胞の増殖によるウイルス増殖もみられる。
+宿主である[ヒト](../Page/ヒト.md "wikilink")の[T細胞](../Page/T細胞.md "wikilink")内では核内に移行し、ウイルスの[RNAから](../Page/リボ核酸.md "wikilink")[cDNAを逆転写により生成し](../Page/相補的DNA.md "wikilink")、cDNAは宿主[ゲノム](../Page/ゲノム.md "wikilink")DNAへ[インテグレーション](https://ja.wikipedia.org/wiki/インテグレーション "wikilink") (integration) する。integration siteはランダムで決まってはいない。組み込まれたウイルス由来DNAからウイルスRNA全長のmessenger mRNA (gag,pol mRNA) を生成する。全長mRNAは[スプライシング](https://ja.wikipedia.org/wiki/スプライシング "wikilink") (splicing) を受け、env mRNAとなる。env mRNAはさらにスプライシング (secondary splicing) を受けpX mRNAとなる。px mRNAは複製制御を担うp40<sup>*tax*</sup>/p27<sup>*rex*</sup> 蛋白をコードする。 これらのgag-pol, pX 各mRNAは、異なるopen reading frame(ORF)を持つため、もとのウイルスゲノムRNAが一本であっても、それぞれのmRNAは異なった蛋白をコードすることができる\[1\]。感染T細胞は必ずしも死滅するわけではない。そのため、T細胞から別のT細胞へ感染するほかに、感染したT細胞の増殖によるウイルス増殖もみられる。
 
 HTLVはフリーのウイルス粒子による感染は効率が非常に悪いので\[2\]、ウイルスの感染には、感染細胞と非感染細胞の細胞間接触が必要である。
 
 ## HTLV-I
 
-[HTLV-1_EM_8241_lores.jpg](https://ja.wikipedia.org/wiki/File:HTLV-1_EM_8241_lores.jpg "fig:HTLV-1_EM_8241_lores.jpg") HTLV-1は[腫瘍ウイルス](https://ja.wikipedia.org/wiki/腫瘍ウイルス "wikilink")のひとつで、ウイルス保持者（[キャリアと呼ぶ](https://ja.wikipedia.org/wiki/無症候性キャリア "wikilink")）は生涯の何れかの時点でATL（=adult T-cell leukemia, [成人T細胞白血病](https://ja.wikipedia.org/wiki/成人T細胞白血病 "wikilink")）を発症する可能性がある。
+[HTLV-1_EM_8241_lores.jpg](https://ja.wikipedia.org/wiki/File:HTLV-1_EM_8241_lores.jpg "fig:HTLV-1_EM_8241_lores.jpg") HTLV-1は[腫瘍ウイルス](../Page/腫瘍ウイルス.md "wikilink")のひとつで、ウイルス保持者（[キャリアと呼ぶ](../Page/無症候性キャリア.md "wikilink")）は生涯の何れかの時点でATL（=adult T-cell leukemia, [成人T細胞白血病](../Page/成人T細胞白血病.md "wikilink")）を発症する可能性がある。
 
-[1977年](../Page/1977年.md "wikilink")に、[京都大学](../Page/京都大学.md "wikilink")の内山卓、高月清らによって、日本の九州出身の白血病患者には特有の[T細胞性白血病](https://ja.wikipedia.org/wiki/T細胞性白血病 "wikilink")が多いことから成人T細胞性白血病 (adult T-cell leukemia; ATL) という疾患概念を提唱した\[3\]\[4\]。その後、[1981年](https://ja.wikipedia.org/wiki/1981年 "wikilink")に、[京都大学](../Page/京都大学.md "wikilink")の[日沼頼夫](https://ja.wikipedia.org/wiki/日沼頼夫 "wikilink")らによってレトロウイルスが分離され「ATL virus (ATLV)」とした\[5\]。これは[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")に[アメリカ国立衛生研究所](https://ja.wikipedia.org/wiki/アメリカ国立衛生研究所 "wikilink")の[ロバート・ギャロ](https://ja.wikipedia.org/wiki/ロバート・ギャロ "wikilink")らが[菌状息肉症](https://ja.wikipedia.org/wiki/菌状息肉症 "wikilink")患者から分離した、ヒトから初めて発見されたレトロウイルスと同一のウイルスとのちに判明し\[6\]、名称はHuman T-cell leukemia virus type 1 (HTLV-1) と改められた。
+[1977年](../Page/1977年.md "wikilink")に、[京都大学](../Page/京都大学.md "wikilink")の内山卓、高月清らによって、日本の九州出身の白血病患者には特有の[T細胞性白血病](https://ja.wikipedia.org/wiki/T細胞性白血病 "wikilink")が多いことから成人T細胞性白血病 (adult T-cell leukemia; ATL) という疾患概念を提唱した\[3\]\[4\]。その後、[1981年](../Page/1981年.md "wikilink")に、[京都大学](../Page/京都大学.md "wikilink")の[日沼頼夫](../Page/日沼頼夫.md "wikilink")らによってレトロウイルスが分離され「ATL virus (ATLV)」とした\[5\]。これは[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")に[アメリカ国立衛生研究所](../Page/アメリカ国立衛生研究所.md "wikilink")の[ロバート・ギャロ](https://ja.wikipedia.org/wiki/ロバート・ギャロ "wikilink")らが[菌状息肉症](https://ja.wikipedia.org/wiki/菌状息肉症 "wikilink")患者から分離した、ヒトから初めて発見されたレトロウイルスと同一のウイルスとのちに判明し\[6\]、名称はHuman T-cell leukemia virus type 1 (HTLV-1) と改められた。
 
 このウイルスは、自然には性行為または哺乳などの水平感染により感染することが多いが、出産時、母体内での垂直感染もある。母乳感染は、母親がHTLV-Iキャリアであることが判明した場合、母乳哺育を行わずに人工乳を用いることによって回避できる。人工的には、血液曝露（感染リンパ球を含んだ輸血）により感染するが、[血漿](../Page/血漿.md "wikilink")成分輸血、血液製剤ではあまり感染しない。これはcell-to-cell infection（細胞から細胞へ感染）のためだといわれている。日本では現在、献血に際して抗体スクリーニングが行われており、輸血での感染のリスクは低い。また発症率は3-5%と低いため、HTLV-1キャリアであっても生涯発症しない場合もある。
 
 感染力は極めて弱く、大量の生きたリンパ球が入らないと感染しない。そのため、輸血・授乳・性行為を除けば通常生活での家族感染や職場等での感染はほぼ無く、特別の配慮は必要無い。
 
-[文化人類学](../Page/文化人類学.md "wikilink")的に、HTLV-Iの塩基配列を検討することによって、人類の移動を推測する研究もなされている\[7\]。夫婦・親子と感染するため、ヒト・ゲノムと同様に、一群のヒト集団（血族）の移動を示唆すると考えられる。 tax遺伝子を[T細胞](../Page/T細胞.md "wikilink")および[胸腺](https://ja.wikipedia.org/wiki/胸腺 "wikilink")細胞で発現させた[トランスジェニック](https://ja.wikipedia.org/wiki/トランスジェニック "wikilink")マウスではT細胞性白血病 / リンパ腫を発症する\[8\]。
+[文化人類学](../Page/文化人類学.md "wikilink")的に、HTLV-Iの塩基配列を検討することによって、人類の移動を推測する研究もなされている\[7\]。夫婦・親子と感染するため、ヒト・ゲノムと同様に、一群のヒト集団（血族）の移動を示唆すると考えられる。 tax遺伝子を[T細胞](../Page/T細胞.md "wikilink")および[胸腺](../Page/胸腺.md "wikilink")細胞で発現させた[トランスジェニック](https://ja.wikipedia.org/wiki/トランスジェニック "wikilink")マウスではT細胞性白血病 / リンパ腫を発症する\[8\]。
 
 ### 検査
 
   - 血清抗HTLV-1抗体
   - 感染細胞プロウイルス検査([サザンブロット](https://ja.wikipedia.org/wiki/サザンブロット "wikilink"))
-  - 白血病化しても[骨髄](https://ja.wikipedia.org/wiki/骨髄 "wikilink")浸潤は少ないため、[血小板](../Page/血小板.md "wikilink")減少を認めることは少ない。
+  - 白血病化しても[骨髄](../Page/骨髄.md "wikilink")浸潤は少ないため、[血小板](../Page/血小板.md "wikilink")減少を認めることは少ない。
   - 白血病化すると「flower cell」と呼ばれる独特なリンパ球を認める。
 
 ### 成人T細胞白血病・リンパ腫
 
-Adult T-cell leukemia (ATL) ともいう。 HTLV-I感染を原因とする[白血病](../Page/白血病.md "wikilink")/[悪性リンパ腫](https://ja.wikipedia.org/wiki/悪性リンパ腫 "wikilink")であり、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")、特に[九州](../Page/九州.md "wikilink")、[沖縄に非常に多いという特徴がある](../Page/沖縄県.md "wikilink")。ATLは初回から薬剤耐性を示すことが少なくなく、標準的な治療法が未だに確立していない。発症率は、キャリアで年間1,000人に1人\[9\]。
+Adult T-cell leukemia (ATL) ともいう。 HTLV-I感染を原因とする[白血病](../Page/白血病.md "wikilink")/[悪性リンパ腫](../Page/悪性リンパ腫.md "wikilink")であり、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")、特に[九州](../Page/九州.md "wikilink")、[沖縄に非常に多いという特徴がある](../Page/沖縄県.md "wikilink")。ATLは初回から薬剤耐性を示すことが少なくなく、標準的な治療法が未だに確立していない。発症率は、キャリアで年間1,000人に1人\[9\]。
 
 ### HTLV-I関連脊髄症
 
@@ -55,7 +55,7 @@ HAB (HTLV-I associated bronchitis)などがある。
 
 ### 分布と縄文人
 
-日本におけるHTLV-Iの分布は、[縄文人](https://ja.wikipedia.org/wiki/縄文人 "wikilink")との関連が指摘されている\[14\]。
+日本におけるHTLV-Iの分布は、[縄文人](../Page/縄文人.md "wikilink")との関連が指摘されている\[14\]。
 
 ## HTLV-II
 
@@ -74,7 +74,7 @@ HAB (HTLV-I associated bronchitis)などがある。
 ## 参考文献
 
   - HTLV-1と疾患　ISBN 9784830614200
-  - 感染症（[アステラス製薬](https://ja.wikipedia.org/wiki/アステラス製薬 "wikilink")発行）Vol.41 No.5 Seminar-感染症によっておこる癌-疫学、病態- (1)HTLV-1と成人T細胞性白血病
+  - 感染症（[アステラス製薬](../Page/アステラス製薬.md "wikilink")発行）Vol.41 No.5 Seminar-感染症によっておこる癌-疫学、病態- (1)HTLV-1と成人T細胞性白血病
 
 ## 関連項目
 

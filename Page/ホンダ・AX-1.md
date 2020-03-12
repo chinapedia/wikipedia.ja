@@ -1,31 +1,31 @@
 > この記事は[AX-1](https://ja.wikipedia.org/wiki/AX-1)から翻訳されています。
 
 
-**AX-1**（エーエックス ワン） は、[本田技研工業](../Page/本田技研工業.md "wikilink")がかつて製造販売していた[オートバイ](../Page/オートバイ.md "wikilink")である。本項ではエンジンを共用する[姉妹車](https://ja.wikipedia.org/wiki/姉妹車 "wikilink")の**XL Degree**（エックスエル ディグリー）についても解説を行う。
+**AX-1**（エーエックス ワン） は、[本田技研工業](../Page/本田技研工業.md "wikilink")がかつて製造販売していた[オートバイ](../Page/オートバイ.md "wikilink")である。本項ではエンジンを共用する[姉妹車](../Page/姉妹車.md "wikilink")の**XL Degree**（エックスエル ディグリー）についても解説を行う。
 
 ## AX-1
 
 [AX-1_Honda_Motercycle.jpg](https://ja.wikipedia.org/wiki/File:AX-1_Honda_Motercycle.jpg "fig:AX-1_Honda_Motercycle.jpg") [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")11月20日発表、同年12月15日発売\[1\]。車両名称は「モーターサイクルの中での新しいジャンル 新しい軸（**AX**IS）を提案する**1**本目」に由来する。
 
-型式名MD21。[排気量](https://ja.wikipedia.org/wiki/排気量 "wikilink")250cc[軽二輪クラスの](../Page/普通自動二輪車.md "wikilink")[デュアルパーパス](https://ja.wikipedia.org/wiki/デュアルパーパス "wikilink")モデルで『従来のランドスポーツバイクとスーパースポーツバイクの性格を合わせ持ち、より幅広い走行環境で楽しく快適に走行できる斬新なスタイリングのスポーツバイク\[2\]』として開発された。海外向け仕様も製造されたが、日本国内向け仕様は2回のマイナーチェンジを実施して約10年間販売された。
+型式名MD21。[排気量](../Page/排気量.md "wikilink")250cc[軽二輪クラスの](../Page/普通自動二輪車.md "wikilink")[デュアルパーパス](../Page/デュアルパーパス.md "wikilink")モデルで『従来のランドスポーツバイクとスーパースポーツバイクの性格を合わせ持ち、より幅広い走行環境で楽しく快適に走行できる斬新なスタイリングのスポーツバイク\[2\]』として開発された。海外向け仕様も製造されたが、日本国内向け仕様は2回のマイナーチェンジを実施して約10年間販売された。
 
 ### 車両解説
 
-車体は、ダイヤモンド型[フレームを採用](https://ja.wikipedia.org/wiki/フレーム_\(オートバイ\) "wikilink")。[マフラーをフレーム構造材の一部に組み入れるなどして軽量スリム化を実現](https://ja.wikipedia.org/wiki/マフラー_\(原動機\) "wikilink")。デュアル[ヘッドライトやメーター類を組み込んだ](https://ja.wikipedia.org/wiki/前照灯 "wikilink")[フェアリング](https://ja.wikipedia.org/wiki/フェアリング "wikilink")をフレームに固定するほか、リヤキャリアを標準装備。エンジン下部のポリプロピレン製スキッドプレートやフロントフォークブーツなどオフロード走行を考慮したパーツも装着された。
+車体は、ダイヤモンド型[フレームを採用](../Page/フレーム_\(オートバイ\).md "wikilink")。[マフラーをフレーム構造材の一部に組み入れるなどして軽量スリム化を実現](https://ja.wikipedia.org/wiki/マフラー_\(原動機\) "wikilink")。デュアル[ヘッドライトやメーター類を組み込んだ](../Page/前照灯.md "wikilink")[フェアリング](https://ja.wikipedia.org/wiki/フェアリング "wikilink")をフレームに固定するほか、リヤキャリアを標準装備。エンジン下部のポリプロピレン製スキッドプレートやフロントフォークブーツなどオフロード走行を考慮したパーツも装着された。
 
 [前輪](https://ja.wikipedia.org/wiki/フロントサスペンション_\(オートバイ\) "wikilink")[サスペンションがテレスコピック](https://ja.wikipedia.org/wiki/サスペンション_\(オートバイ\) "wikilink")、[後輪サスペンションがプロリンク式スイングアーム](https://ja.wikipedia.org/wiki/リヤサスペンション_\(オートバイ\) "wikilink")。ホイールは前19インチ/後16インチで21本[スポーク](../Page/スポーク.md "wikilink")型アルミキャスト製とし本モデル向けに専用設計とした90/100-19 55P（前）・120/90-16 63P（後）のチューブレスタイヤを装着。またブレーキは前後ともに油圧式シングル[ディスクとし](../Page/ディスクブレーキ.md "wikilink")、前ブレーキレバーはアジャスタブルタイプ、後ブレーキペダルは[ジュラルミン](../Page/ジュラルミン.md "wikilink")製を採用。
 
-搭載されるMD21E型[水冷](https://ja.wikipedia.org/wiki/水冷エンジン "wikilink")[4ストローク](../Page/4ストローク機関.md "wikilink")[DOHC](../Page/DOHC.md "wikilink")[単気筒エンジン](../Page/単気筒エンジン.md "wikilink")は、内径x行程：70.0x64.8（mm）・排気量249cc・[圧縮比](https://ja.wikipedia.org/wiki/圧縮比 "wikilink")11.0から最高出力29ps/8,500rpm・最大トルク2.6kg-m/7,500rpmのスペックをマーク。通常使用することが多い低・中速域で特に扱いやすく応答性に優れたトルク特性を重視しながら高回転でも伸びの良い出力特性を発揮させるチューニングがなされ、PD6B型[キャブレター](../Page/キャブレター.md "wikilink")・[CDI点火装置などの補機類を装着](https://ja.wikipedia.org/wiki/キャパシター・ディスチャージド・イグニッション "wikilink")。始動は[セルモーター](https://ja.wikipedia.org/wiki/セルモーター "wikilink")のみとし常時噛合式6速[マニュアルトランスミッション](https://ja.wikipedia.org/wiki/マニュアルトランスミッション "wikilink")を搭載する。また本エンジンは量産4ストロークエンジンとして[NSシリンダー](https://ja.wikipedia.org/wiki/NSシリンダー "wikilink")\[3\]を日本で初採用したほか、[エキゾーストマニホールド](https://ja.wikipedia.org/wiki/エキゾーストマニホールド "wikilink")は[ステンレス](https://ja.wikipedia.org/wiki/ステンレス "wikilink")製である。
+搭載されるMD21E型[水冷](../Page/水冷エンジン.md "wikilink")[4ストローク](../Page/4ストローク機関.md "wikilink")[DOHC](../Page/DOHC.md "wikilink")[単気筒エンジン](../Page/単気筒エンジン.md "wikilink")は、内径x行程：70.0x64.8（mm）・排気量249cc・[圧縮比](https://ja.wikipedia.org/wiki/圧縮比 "wikilink")11.0から最高出力29ps/8,500rpm・最大トルク2.6kg-m/7,500rpmのスペックをマーク。通常使用することが多い低・中速域で特に扱いやすく応答性に優れたトルク特性を重視しながら高回転でも伸びの良い出力特性を発揮させるチューニングがなされ、PD6B型[キャブレター](../Page/キャブレター.md "wikilink")・[CDI点火装置などの補機類を装着](https://ja.wikipedia.org/wiki/キャパシター・ディスチャージド・イグニッション "wikilink")。始動は[セルモーター](../Page/セルモーター.md "wikilink")のみとし常時噛合式6速[マニュアルトランスミッション](../Page/マニュアルトランスミッション.md "wikilink")を搭載する。また本エンジンは量産4ストロークエンジンとして[NSシリンダー](https://ja.wikipedia.org/wiki/NSシリンダー "wikilink")\[3\]を日本で初採用したほか、[エキゾーストマニホールド](../Page/エキゾーストマニホールド.md "wikilink")は[ステンレス](https://ja.wikipedia.org/wiki/ステンレス "wikilink")製である。
 
 #### 海外向け輸出仕様
 
-[NX250の名称で製造販売された](https://ja.wikipedia.org/wiki/:en:Honda_NX250 "wikilink")。フレーム・エンジンなどはほぼ同一であるが、外観は[NX125に近くよりオフでの使用を重視したもので以下の相違点がある](https://ja.wikipedia.org/wiki/ホンダ・NX125 "wikilink")。
+[NX250の名称で製造販売された](https://ja.wikipedia.org/wiki/:en:Honda_NX250 "wikilink")。フレーム・エンジンなどはほぼ同一であるが、外観は[NX125に近くよりオフでの使用を重視したもので以下の相違点がある](../Page/ホンダ・NX125.md "wikilink")。
 
   - 最高出力を26psに設定。
   - ヘッドライトをデュアルから丸型1灯へ変更。
   - ホイールをキャストからスポークへ変更。
   - タイヤサイズは同一のチューブ仕様。
-  - リヤブレーキが[ドラム式](https://ja.wikipedia.org/wiki/ドラムブレーキ "wikilink")。
+  - リヤブレーキが[ドラム式](../Page/ドラムブレーキ.md "wikilink")。
   - メーターパネルは文字盤目盛りならびに指針が赤色。
   - ラジエーターシュラウドをタンク後端までフルカバーし開口部を縦2段化。
   - テールランプ・リヤフェンダー・ウインカーを大型化。
@@ -44,7 +44,7 @@
       - エンジンの中・低速域応答性を向上。
       - サスペンションセッティングをやや硬めに変更。
       - リヤサイドフレームに独立式ヘルメットホルダーを設置。
-      - メーターパネルの[ウインカーインジケーターを左右独立式へ変更](https://ja.wikipedia.org/wiki/方向指示器 "wikilink")。
+      - メーターパネルの[ウインカーインジケーターを左右独立式へ変更](../Page/方向指示器.md "wikilink")。
       - 車体色をトラッドブルー・ロスホワイト・オブシディアンブラックの3色へ変更。
       - 標準現金価格：409,000円・日本国内販売目標：10,000台/年
 
@@ -55,7 +55,7 @@
       - フロントフォークの表面仕上げを[アルミ地肌を活かしたタイプに変更](../Page/アルミニウム.md "wikilink")。
       - ステンレス製エキゾーストマニホールドを[バブ加工を実施](https://ja.wikipedia.org/wiki/研磨 "wikilink")。
       - 前後アルミキャストホイールリム側面を切削加工仕上げへ変更。
-      - フロントならびにサイドカウル部の[ロゴを変更](https://ja.wikipedia.org/wiki/ロゴタイプ "wikilink")。
+      - フロントならびにサイドカウル部の[ロゴを変更](../Page/ロゴタイプ.md "wikilink")。
       - 車体色をラピスブルーメタリックのみへ変更。
       - 標準現金価格：449,000円・日本国内販売目標：700台/年
 
@@ -65,7 +65,7 @@
 
 ## XL Degree
 
-[Honda_XL250.JPG](https://ja.wikipedia.org/wiki/File:Honda_XL250.JPG "fig:Honda_XL250.JPG") [1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")4月26日発表、同月27日発売\[8\]。型式名MD26。ペットネームのDegree（ディグリー）は経度・緯度・温度計などの**度**を意味する英語である\[9\]。
+[Honda_XL250.JPG](https://ja.wikipedia.org/wiki/File:Honda_XL250.JPG "fig:Honda_XL250.JPG") [1991年](../Page/1991年.md "wikilink")4月26日発表、同月27日発売\[8\]。型式名MD26。ペットネームのDegree（ディグリー）は経度・緯度・温度計などの**度**を意味する英語である\[9\]。
 
 [1970年代](../Page/1970年代.md "wikilink")から[1980年代](../Page/1980年代.md "wikilink")半ばにかけて製造販売されていたデュアルパーパスモデルの[XLシリーズが](https://ja.wikipedia.org/wiki/ホンダ・XL "wikilink")[XLRシリーズに進化する一方で](https://ja.wikipedia.org/wiki/ホンダ・XLR "wikilink")、XLは元よりそれ以前の[SLシリーズからの開発基本スタンスである](https://ja.wikipedia.org/wiki/ホンダ・SL "wikilink")『より幅広いライダーに・より幅広い走行環境で・より楽しく軽快に』走行できる基本性能はどうあるべきかを徹底追求して開発された\[10\]。
 
@@ -81,7 +81,7 @@
 
 ### 遍歴
 
-  - [1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")4月26日発表、同月27日発売\[12\]
+  - [1991年](../Page/1991年.md "wikilink")4月26日発表、同月27日発売\[12\]
 
 <!-- end list -->
 
@@ -91,7 +91,7 @@
 
 :\* グリーンxホワイト
 
-  - [1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")4月24日発表、同月25日発売\[13\]
+  - [1992年](../Page/1992年.md "wikilink")4月24日発表、同月25日発売\[13\]
 
 <!-- end list -->
 
@@ -123,7 +123,7 @@
 
 :\* 後ブレーキを油圧式シングルディスク化
 
-:\* [ハロゲン](../Page/ハロゲンランプ.md "wikilink")[ヘッドランプを](https://ja.wikipedia.org/wiki/前照灯 "wikilink")35/36.5→60/50wへ強化
+:\* [ハロゲン](../Page/ハロゲンランプ.md "wikilink")[ヘッドランプを](../Page/前照灯.md "wikilink")35/36.5→60/50wへ強化
 
 :\* ナックルガードを標準装備化
 
@@ -203,7 +203,7 @@
 ## 関連項目
 
   - [ホンダ・XL](https://ja.wikipedia.org/wiki/ホンダ・XL "wikilink")
-  - [ホンダ・NX125](https://ja.wikipedia.org/wiki/ホンダ・NX125 "wikilink")
+  - [ホンダ・NX125](../Page/ホンダ・NX125.md "wikilink")
   - [:en:Honda_NX650_Dominator](https://ja.wikipedia.org/wiki/:en:Honda_NX650_Dominator "wikilink")
 
 [Category:ホンダのオートバイの車種](https://ja.wikipedia.org/wiki/Category:ホンダのオートバイの車種 "wikilink") [Category:デュアルパーパスの車種](https://ja.wikipedia.org/wiki/Category:デュアルパーパスの車種 "wikilink")

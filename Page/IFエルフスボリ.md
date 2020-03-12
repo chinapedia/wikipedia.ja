@@ -3,9 +3,9 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Boras_arena_17april_2005.jpg "wikilink")
 
-**イドロッツフェレニンゲン・エルフスボリ**（）は、[ヨーテボリ](https://ja.wikipedia.org/wiki/ヨーテボリ "wikilink")の隣に位置する都市、[ボロース](https://ja.wikipedia.org/wiki/ボロース "wikilink")に本拠地を置くサッカークラブである。
+**イドロッツフェレニンゲン・エルフスボリ**（）は、[ヨーテボリ](../Page/ヨーテボリ.md "wikilink")の隣に位置する都市、[ボロース](../Page/ボロース.md "wikilink")に本拠地を置くサッカークラブである。
 
-[1904年](../Page/1904年.md "wikilink")に設立された。中堅レベルの[クラブであったが](https://ja.wikipedia.org/wiki/クラブチーム "wikilink")、元[サウサンプトンFC](https://ja.wikipedia.org/wiki/サウサンプトンFC "wikilink")の[アンデシュ・スヴェンソン](https://ja.wikipedia.org/wiki/アンデシュ・スヴェンソン "wikilink")や[ステファン・イシザキ](https://ja.wikipedia.org/wiki/ステファン・イシザキ "wikilink")らを獲得し、2006年には、1961年以来のリーグ優勝を成し遂げた。
+[1904年](../Page/1904年.md "wikilink")に設立された。中堅レベルの[クラブであったが](../Page/クラブチーム.md "wikilink")、元[サウサンプトンFC](../Page/サウサンプトンFC.md "wikilink")の[アンデシュ・スヴェンソン](../Page/アンデシュ・スヴェンソン.md "wikilink")や[ステファン・イシザキ](../Page/ステファン・イシザキ.md "wikilink")らを獲得し、2006年には、1961年以来のリーグ優勝を成し遂げた。
 
 2007-08シーズン、[カルマルFF](https://ja.wikipedia.org/wiki/カルマルFF "wikilink")が[UEFAカップ](https://ja.wikipedia.org/wiki/UEFAカップ "wikilink")に出場する際にホームの試合会場として[ボロース・アレナ](https://ja.wikipedia.org/wiki/ボロース・アレナ "wikilink")を使用した。
 
@@ -83,7 +83,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/FCバーゼル" title="wikilink">バーゼル</a></p></td>
+<td><p><a href="../Page/FCバーゼル.md" title="wikilink">バーゼル</a></p></td>
 <td><p>2-1</p></td>
 <td><p>6-3</p></td>
 <td></td>
@@ -93,7 +93,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/スパルタ・ロッテルダム" title="wikilink">スパルタ・ロッテルダム</a></p></td>
+<td><p><a href="../Page/スパルタ・ロッテルダム.md" title="wikilink">スパルタ・ロッテルダム</a></p></td>
 <td><p>2-5</p></td>
 <td><p>3-4</p></td>
 <td></td>
@@ -123,7 +123,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/アイントラハト・フランクフルト" title="wikilink">フランクフルト</a></p></td>
+<td><p><a href="../Page/アイントラハト・フランクフルト.md" title="wikilink">フランクフルト</a></p></td>
 <td><p>0-2</p></td>
 <td><p>0-2</p></td>
 <td></td>
@@ -136,7 +136,7 @@
 <td><p>1967-68</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAインタートトカップ_1967-68" title="wikilink">UEFAインタートトカップ</a></p></td>
 <td><p>グループB3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヴェルダー・ブレーメン" title="wikilink">ヴェルダー・ブレーメン</a></p></td>
+<td><p><a href="../Page/ヴェルダー・ブレーメン.md" title="wikilink">ヴェルダー・ブレーメン</a></p></td>
 <td><p>2-2</p></td>
 <td><p>1-4</p></td>
 <td><p>'''3位</p></td>
@@ -153,7 +153,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/グラスホッパー・クラブ・チューリッヒ" title="wikilink">グラスホッパーズ</a></p></td>
+<td><p><a href="../Page/グラスホッパー・クラブ・チューリッヒ.md" title="wikilink">グラスホッパーズ</a></p></td>
 <td><p>5-2</p></td>
 <td><p>1-3</p></td>
 <td></td>
@@ -266,7 +266,7 @@
 <td><p>1978-79</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1978-79" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RCストラスブール" title="wikilink">ストラスブール</a></p></td>
+<td><p><a href="../Page/RCストラスブール.md" title="wikilink">ストラスブール</a></p></td>
 <td><p>2-0</p></td>
 <td><p>1-4</p></td>
 <td><p>'''3-4</p></td>
@@ -293,7 +293,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/VfLボーフム" title="wikilink">ボーフム</a></p></td>
+<td><p><a href="../Page/VfLボーフム.md" title="wikilink">ボーフム</a></p></td>
 <td><p>1–0</p></td>
 <td><p>2-1</p></td>
 <td></td>
@@ -306,7 +306,7 @@
 <td><p>1980-81</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1980-81" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セント・ミレンFC" title="wikilink">セント・ミレン</a></p></td>
+<td><p><a href="../Page/セント・ミレンFC.md" title="wikilink">セント・ミレン</a></p></td>
 <td><p>1–2</p></td>
 <td><p>0–0</p></td>
 <td><p>'''1–2</p></td>
@@ -333,7 +333,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/アイントラハト・ブラウンシュヴァイク" title="wikilink">ブラウンシュヴァイク</a></p></td>
+<td><p><a href="../Page/アイントラハト・ブラウンシュヴァイク.md" title="wikilink">ブラウンシュヴァイク</a></p></td>
 <td><p>1-0</p></td>
 <td><p>0-4</p></td>
 <td></td>
@@ -356,7 +356,7 @@
 <td><p>2001-02</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_2001-02" title="wikilink">UEFAカップ</a></p></td>
 <td><p>予選ラウンド</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/JKナルヴァ・トランス" title="wikilink">ナルヴァ・トランス</a></p></td>
+<td><p><a href="../Page/JKナルヴァ・トランス.md" title="wikilink">ナルヴァ・トランス</a></p></td>
 <td><p>5-0</p></td>
 <td><p>3-1</p></td>
 <td><p>'''8-1</p></td>
@@ -364,7 +364,7 @@
 </tr>
 <tr class="even">
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レギア・ワルシャワ" title="wikilink">レギア・ワルシャワ</a></p></td>
+<td><p><a href="../Page/レギア・ワルシャワ.md" title="wikilink">レギア・ワルシャワ</a></p></td>
 <td><p>1-6</p></td>
 <td><p>1-4</p></td>
 <td><p>'''2-10</p></td>
@@ -414,7 +414,7 @@
 </tr>
 <tr class="odd">
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/バレンシアCF" title="wikilink">バレンシア</a></p></td>
+<td><p><a href="../Page/バレンシアCF.md" title="wikilink">バレンシア</a></p></td>
 <td><p>1-2</p></td>
 <td><p>0-3</p></td>
 <td><p>'''1-5</p></td>
@@ -443,7 +443,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ACFフィオレンティーナ" title="wikilink">フィオレンティーナ</a></p></td>
+<td><p><a href="../Page/ACFフィオレンティーナ.md" title="wikilink">フィオレンティーナ</a></p></td>
 <td><p>style="background-color:#CFF" align="center" </p></td>
 <td><p>1-6</p></td>
 <td></td>
@@ -463,7 +463,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ビジャレアルCF" title="wikilink">ビジャレアル</a></p></td>
+<td><p><a href="../Page/ビジャレアルCF.md" title="wikilink">ビジャレアル</a></p></td>
 <td><p>style="background-color:#CFF" align="center" </p></td>
 <td><p>0-2</p></td>
 <td></td>
@@ -484,7 +484,7 @@
 </tr>
 <tr class="even">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハイバーニアンFC" title="wikilink">ハイバーニアン</a></p></td>
+<td><p><a href="../Page/ハイバーニアンFC.md" title="wikilink">ハイバーニアン</a></p></td>
 <td><p>2–0</p></td>
 <td><p>2-0</p></td>
 <td><p>'''4–0</p></td>
@@ -524,7 +524,7 @@
 </tr>
 <tr class="even">
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SCブラガ" title="wikilink">ブラガ</a></p></td>
+<td><p><a href="../Page/SCブラガ.md" title="wikilink">ブラガ</a></p></td>
 <td><p>2–0</p></td>
 <td><p>2-1</p></td>
 <td><p>'''4–1</p></td>
@@ -644,7 +644,7 @@
 </tr>
 <tr class="even">
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セルティックFC" title="wikilink">セルティック</a></p></td>
+<td><p><a href="../Page/セルティックFC.md" title="wikilink">セルティック</a></p></td>
 <td><p>0–0</p></td>
 <td><p>0–1</p></td>
 <td><p>'''0–1</p></td>
@@ -655,7 +655,7 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2013-14" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>プレーオフ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCノアシェラン" title="wikilink">ノアシェラン</a></p></td>
+<td><p><a href="../Page/FCノアシェラン.md" title="wikilink">ノアシェラン</a></p></td>
 <td><p>1–1</p></td>
 <td><p>1–0</p></td>
 <td><p>'''2–1</p></td>
@@ -664,7 +664,7 @@
 </tr>
 <tr class="even">
 <td><p>グループC</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スタンダール・リエージュ" title="wikilink">スタンダール・リエージュ</a></p></td>
+<td><p><a href="../Page/スタンダール・リエージュ.md" title="wikilink">スタンダール・リエージュ</a></p></td>
 <td><p>1–1</p></td>
 <td><p>3–1</p></td>
 <td><p>'''3位</p></td>
@@ -673,7 +673,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/レッドブル・ザルツブルク" title="wikilink">レッドブル・ザルツブルク</a></p></td>
+<td><p><a href="../Page/レッドブル・ザルツブルク.md" title="wikilink">レッドブル・ザルツブルク</a></p></td>
 <td><p>0–4</p></td>
 <td><p>0–1</p></td>
 <td></td>
@@ -789,13 +789,13 @@
 
   - [スヴェン・ヨナソン](https://ja.wikipedia.org/wiki/スヴェン・ヨナソン "wikilink") 1927-1946
 
-  - [トビアス・リンデロート](https://ja.wikipedia.org/wiki/トビアス・リンデロート "wikilink") 1996-1998
+  - [トビアス・リンデロート](../Page/トビアス・リンデロート.md "wikilink") 1996-1998
 
-  - [アンデシュ・スヴェンソン](https://ja.wikipedia.org/wiki/アンデシュ・スヴェンソン "wikilink") 1998-2001, 2005-2015
+  - [アンデシュ・スヴェンソン](../Page/アンデシュ・スヴェンソン.md "wikilink") 1998-2001, 2005-2015
 
-  - [ステファン・イシザキ](https://ja.wikipedia.org/wiki/ステファン・イシザキ "wikilink") 2006-2013, 2018-
+  - [ステファン・イシザキ](../Page/ステファン・イシザキ.md "wikilink") 2006-2013, 2018-
 
-  - [テディ・ルチッチ](https://ja.wikipedia.org/wiki/テディ・ルチッチ "wikilink") 2008-2010
+  - [テディ・ルチッチ](../Page/テディ・ルチッチ.md "wikilink") 2008-2010
 
   - [アンテ・コヴィッチ](https://ja.wikipedia.org/wiki/アンテ・コヴィッチ "wikilink") 2009-2011
 

@@ -10,9 +10,9 @@
 ## 歴史
 
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")
-      - 1月頃、Hirofumi（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")）、Luna（[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")）、Yoshitsugu（[ギター](../Page/ギター.md "wikilink")）、Hibari（[ドラム](../Page/ドラムセット.md "wikilink")）で結成。
+      - 1月頃、Hirofumi（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")）、Luna（[ベース](../Page/ベース_\(弦楽器\).md "wikilink")）、Yoshitsugu（[ギター](../Page/ギター.md "wikilink")）、Hibari（[ドラム](../Page/ドラムセット.md "wikilink")）で結成。
       - [12月26日](../Page/12月26日.md "wikilink")、Hibari脱退。
-  - [1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")
+  - [1992年](../Page/1992年.md "wikilink")
       - [12月23日](../Page/12月23日.md "wikilink")、Atsuhito (ドラム)加入
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")
       - [7月21日](../Page/7月21日.md "wikilink")、meldac(メルダック）からシングル『Dear song』でメジャーデビュー
@@ -23,7 +23,7 @@
   - [2011年](../Page/2011年.md "wikilink")
       - Hirofumi、Luna、Yoshitsuguで再結成。[10月23日](../Page/10月23日.md "wikilink")、[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")でのV-ROCK FESTIVAL 2011にて復活ライブを行った。
   - [2012年](../Page/2012年.md "wikilink")
-      - [2月18日](../Page/2月18日.md "wikilink")、[2月19日](../Page/2月19日.md "wikilink")に[OSAKA MUSE](https://ja.wikipedia.org/wiki/OSAKA_MUSE "wikilink")、[2月26日](https://ja.wikipedia.org/wiki/2月26日 "wikilink")に[赤坂BLITZ](https://ja.wikipedia.org/wiki/赤坂BLITZ "wikilink")にてライブを行う。
+      - [2月18日](../Page/2月18日.md "wikilink")、[2月19日](../Page/2月19日.md "wikilink")に[OSAKA MUSE](https://ja.wikipedia.org/wiki/OSAKA_MUSE "wikilink")、[2月26日](../Page/2月26日.md "wikilink")に[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")にてライブを行う。
   - [2013年](../Page/2013年.md "wikilink")
       - [8月2日](../Page/8月2日.md "wikilink")にOSAKA MUSE、[8月4日](../Page/8月4日.md "wikilink")に渋谷CLUB QUATTROでワンマンライブを行う
       - [9月16日](../Page/9月16日.md "wikilink")、渋谷Gladにて行われたアコースティックライブを以て、活動を終了。
@@ -38,20 +38,20 @@
       - 1999年の離脱後は、wipeを経て「山田浩文」名義でRaFF-CuSSを結成。
       - 2006年より「SUZUKI BED MUSIC」名義でソロ活動を開始。
       - 2014年、中村佳嗣と共にアコースティックユニット「yohiaco」を結成。以上3つの活動を並行して継続中。
-  - [Luna](https://ja.wikipedia.org/wiki/ルナ_\(曖昧さ回避\) "wikilink") （[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")）
+  - [Luna](../Page/ルナ_\(曖昧さ回避\).md "wikilink") （[ベース](../Page/ベース_\(弦楽器\).md "wikilink")）
       - [8月14日](../Page/8月14日.md "wikilink")生まれ、O型。
       - 1999年の活動停止後は、「深尾幸治」名義でRaff-Cussを結成。
-      - 2013年、元[SHAZNA](https://ja.wikipedia.org/wiki/SHAZNA "wikilink")のAOIと共にR2Y+J（リリィ・ジョーカー）を結成し、活動中。
+      - 2013年、元[SHAZNA](../Page/SHAZNA.md "wikilink")のAOIと共にR2Y+J（リリィ・ジョーカー）を結成し、活動中。
   - [Yoshitsugu](https://ja.wikipedia.org/wiki/Yoshitsugu "wikilink")／中村佳嗣 （[ギター](../Page/ギター.md "wikilink")）
       - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[11月19日](../Page/11月19日.md "wikilink")生まれ、O型。
       - 1999年の活動停止後は、山崎貴久と「caterine」を結成、再度メジャーデビューを果たすも2003年に解散。
-      - 以後は中村佳嗣として、[清春](https://ja.wikipedia.org/wiki/清春 "wikilink")、[TETSU69](https://ja.wikipedia.org/wiki/TETSU69 "wikilink")、[INORAN](https://ja.wikipedia.org/wiki/INORAN "wikilink")等のサポートを務め、またRaFF-CuSSのサポートも務める。
+      - 以後は中村佳嗣として、[清春](../Page/清春.md "wikilink")、[TETSU69](https://ja.wikipedia.org/wiki/TETSU69 "wikilink")、[INORAN](../Page/INORAN.md "wikilink")等のサポートを務め、またRaFF-CuSSのサポートも務める。
       - 2005年、自身のバンド「alcana」を結成。2014年には山田浩文と共にアコースティックユニット「yohiaco」を結成し、並行して活動を継続中。
 
 ### 元メンバー
 
   - [Hibari](https://ja.wikipedia.org/wiki/Hibari "wikilink") （ドラム）
-      - 結成時のメンバー。元[PRESENCE](https://ja.wikipedia.org/wiki/PRESENCE "wikilink")。1990年12月に脱退後、[MEGA STOPPERを結成](https://ja.wikipedia.org/wiki/MEGA_STOPPER "wikilink")。
+      - 結成時のメンバー。元[PRESENCE](../Page/PRESENCE.md "wikilink")。1990年12月に脱退後、[MEGA STOPPERを結成](https://ja.wikipedia.org/wiki/MEGA_STOPPER "wikilink")。
   - [Atsuhito](https://ja.wikipedia.org/wiki/Atsuhito "wikilink") （[ドラム](../Page/ドラムセット.md "wikilink")）
       - 1999年9月25日に脱退。以後は[POP](https://ja.wikipedia.org/wiki/POP_\(バンド\) "wikilink")、[RED SUNのサポートを経て](https://ja.wikipedia.org/wiki/RED_SUN "wikilink")、2001年「田渕淳仁」名義でISを結成。2007年に解散。
       - 2011年に再結成には、個人的な事情により不参加。
@@ -62,7 +62,7 @@
 ### サポートメンバー
 
   - [桐田勝治](https://ja.wikipedia.org/wiki/KATSUJI "wikilink")（ドラム）
-      - [Gargoyle](https://ja.wikipedia.org/wiki/Gargoyle "wikilink")、[ザ・クロマニヨンズ](https://ja.wikipedia.org/wiki/ザ・クロマニヨンズ "wikilink")のメンバー。2011年のV-ROCK FESTIVALにおいてサポートを務める。
+      - [Gargoyle](../Page/Gargoyle.md "wikilink")、[ザ・クロマニヨンズ](../Page/ザ・クロマニヨンズ.md "wikilink")のメンバー。2011年のV-ROCK FESTIVALにおいてサポートを務める。
   - LEVIN（ドラム）
       - [La'cryma Christiのメンバー](../Page/La'cryma_Christi.md "wikilink")。2012年のツアーライブにてサポートを務める。
   - [岡本唯史](https://ja.wikipedia.org/wiki/岡本唯史 "wikilink")
@@ -111,7 +111,7 @@
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p>1995年<a href="https://ja.wikipedia.org/wiki/10月18日" title="wikilink">10月18日</a></p></td>
+<td><p>1995年<a href="../Page/10月18日.md" title="wikilink">10月18日</a></p></td>
 <td><p><strong>君がすて去ろうとも</strong></p></td>
 <td><p>MEDR-80002</p></td>
 <td><ol>
@@ -182,7 +182,7 @@
 </tr>
 <tr class="even">
 <td><p>8th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1998年" title="wikilink">1998年</a><a href="https://ja.wikipedia.org/wiki/1月1日" title="wikilink">1月1日</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1998年" title="wikilink">1998年</a><a href="../Page/1月1日.md" title="wikilink">1月1日</a></p></td>
 <td><p><strong>Shine</strong></p></td>
 <td><p>MEDR-11113</p></td>
 <td><ol>
@@ -194,7 +194,7 @@
 </tr>
 <tr class="odd">
 <td><p>9th</p></td>
-<td><p>1998年<a href="https://ja.wikipedia.org/wiki/7月23日" title="wikilink">7月23日</a></p></td>
+<td><p>1998年<a href="../Page/7月23日.md" title="wikilink">7月23日</a></p></td>
 <td><p><strong>ALONE</strong></p></td>
 <td><p>MEDR-11117</p></td>
 <td><ol>
@@ -375,32 +375,32 @@
 
   - メジャー
 
-|     | 発売日                                                                                                          | タイトル              | 規格品番       |
-| --- | ------------------------------------------------------------------------------------------------------------ | ----------------- | ---------- |
-| 1st | [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月12日](../Page/3月12日.md "wikilink")                  | **LIVE FROM ASK** | MEVR-48008 |
-| 2nd | [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[7月24日](../Page/7月24日.md "wikilink")                  | **to the FLAT**   | MEVR-38101 |
-| 3rd | [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink") | **LINK**          | MEVR-48009 |
-|     |                                                                                                              |                   |            |
+|     | 発売日                                                                                         | タイトル              | 規格品番       |
+| --- | ------------------------------------------------------------------------------------------- | ----------------- | ---------- |
+| 1st | [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月12日](../Page/3月12日.md "wikilink") | **LIVE FROM ASK** | MEVR-48008 |
+| 2nd | [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[7月24日](../Page/7月24日.md "wikilink") | **to the FLAT**   | MEVR-38101 |
+| 3rd | [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[1月1日](../Page/1月1日.md "wikilink")   | **LINK**          | MEVR-48009 |
+|     |                                                                                             |                   |            |
 
 ## タイアップ
 
-| 曲名        | タイアップ                                                                              |
-| --------- | ---------------------------------------------------------------------------------- |
-| Dear Song | ANB系「mew」オープニング・テーマ                                                                |
-| 君がすて去ろうとも | ABC「[金曜玉手箱](https://ja.wikipedia.org/wiki/金乃玉手箱 "wikilink")」オープニング・テーマ             |
-| after     | ANB系「\[\[Jリーグ_A_GOGO                                                             |
-| 「メロディー」   | ANB系「[トゥナイト2](https://ja.wikipedia.org/wiki/トゥナイト2 "wikilink")」エンディング・テーマ          |
-| …love me  | ABC・ANB系「金之玉手箱」オープニング・テーマ                                                          |
-| 風に憧れて     | NTV系ドラマ「宝さがし」主題歌                                                                   |
-| Shine     | [三菱電機](../Page/三菱電機.md "wikilink")「携帯電話」CMソング                                      |
-| ALONE     | NTV系「[キスだけじゃイヤッ\!](https://ja.wikipedia.org/wiki/キスだけじゃイヤッ! "wikilink")」エンディング・テーマ |
+| 曲名        | タイアップ                                                                  |
+| --------- | ---------------------------------------------------------------------- |
+| Dear Song | ANB系「mew」オープニング・テーマ                                                    |
+| 君がすて去ろうとも | ABC「[金曜玉手箱](https://ja.wikipedia.org/wiki/金乃玉手箱 "wikilink")」オープニング・テーマ |
+| after     | ANB系「\[\[Jリーグ_A_GOGO                                                 |
+| 「メロディー」   | ANB系「[トゥナイト2](../Page/トゥナイト2.md "wikilink")」エンディング・テーマ                 |
+| …love me  | ABC・ANB系「金之玉手箱」オープニング・テーマ                                              |
+| 風に憧れて     | NTV系ドラマ「宝さがし」主題歌                                                       |
+| Shine     | [三菱電機](../Page/三菱電機.md "wikilink")「携帯電話」CMソング                          |
+| ALONE     | NTV系「[キスだけじゃイヤッ\!](../Page/キスだけじゃイヤッ!.md "wikilink")」エンディング・テーマ        |
 
 ## 関連項目
 
   - [Laputa](../Page/Laputa.md "wikilink")
-  - [ROUAGE](https://ja.wikipedia.org/wiki/ROUAGE "wikilink")
+  - [ROUAGE](../Page/ROUAGE.md "wikilink")
   - [Sleep My Dear](https://ja.wikipedia.org/wiki/Sleep_My_Dear "wikilink")
-  - [Lastier](https://ja.wikipedia.org/wiki/Lastier "wikilink")
+  - [Lastier](../Page/Lastier.md "wikilink")
 
 ## 外部リンク
 

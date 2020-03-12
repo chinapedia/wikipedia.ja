@@ -1,7 +1,7 @@
 > この記事は[GiFT](https://ja.wikipedia.org/wiki/GiFT)から翻訳されています。
 
 
-**GiFT**（ギフト）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[デュオ](https://ja.wikipedia.org/wiki/デュオ "wikilink")である。所属[事務所は](../Page/芸能事務所.md "wikilink")[アービング](https://ja.wikipedia.org/wiki/アービング_\(芸能プロダクション\) "wikilink")。[広島県](../Page/広島県.md "wikilink")出身。[2007年](../Page/2007年.md "wikilink")メジャーデビュー。[リュ・シウォン](https://ja.wikipedia.org/wiki/リュ・シウォン "wikilink")と親交が深く、楽曲提供を多数していた。 [2009年](../Page/2009年.md "wikilink")[4月11日](../Page/4月11日.md "wikilink")解散。
+**GiFT**（ギフト）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[デュオ](../Page/デュオ.md "wikilink")である。所属[事務所は](../Page/芸能事務所.md "wikilink")[アービング](../Page/アービング_\(芸能プロダクション\).md "wikilink")。[広島県](../Page/広島県.md "wikilink")出身。[2007年](../Page/2007年.md "wikilink")メジャーデビュー。[リュ・シウォン](../Page/リュ・シウォン.md "wikilink")と親交が深く、楽曲提供を多数していた。 [2009年](../Page/2009年.md "wikilink")[4月11日](../Page/4月11日.md "wikilink")解散。
 
 ## メンバー
 
@@ -68,13 +68,13 @@
 
 ### 楽曲提供
 
-1.  [リュ・シウォン](https://ja.wikipedia.org/wiki/リュ・シウォン "wikilink")「**桜**」
+1.  [リュ・シウォン](../Page/リュ・シウォン.md "wikilink")「**桜**」
 
 ## 関連項目
 
   - [ひろしまフラワーフェスティバル](../Page/ひろしまフラワーフェスティバル.md "wikilink")
-  - [広島県出身の人物一覧](https://ja.wikipedia.org/wiki/広島県出身の人物一覧 "wikilink")
-  - [青山メインランド](https://ja.wikipedia.org/wiki/青山メインランド "wikilink")
+  - [広島県出身の人物一覧](../Page/広島県出身の人物一覧.md "wikilink")
+  - [青山メインランド](../Page/青山メインランド.md "wikilink")
 
 ## 外部リンク
 

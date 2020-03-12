@@ -7,9 +7,9 @@
 
 [インドネシア人](https://ja.wikipedia.org/wiki/インドネシア人 "wikilink")の父と[日本人](https://ja.wikipedia.org/wiki/日本人 "wikilink")の母を持つ。
 
-シンガーソングライターになるきっかけとなったのは、10歳の誕生日に[ホイットニー・ヒューストン](https://ja.wikipedia.org/wiki/ホイットニー・ヒューストン "wikilink")の『I Will Always Love You』のCDを母親からプレゼントされてそれを聴いたことであり、13歳から[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")、[作曲](../Page/作曲.md "wikilink")を始める。
+シンガーソングライターになるきっかけとなったのは、10歳の誕生日に[ホイットニー・ヒューストン](../Page/ホイットニー・ヒューストン.md "wikilink")の『I Will Always Love You』のCDを母親からプレゼントされてそれを聴いたことであり、13歳から[作詞](../Page/作詞.md "wikilink")、[作曲](../Page/作曲.md "wikilink")を始める。
 
-15歳の時に『When You Believe』（[マライア・キャリー](https://ja.wikipedia.org/wiki/マライア・キャリー "wikilink")&ホイットニー・ヒューストン）を初めて大勢の人の前で歌う。ほぼ同じ時に『月』という曲を製作、この曲は後にこのことを耳にした[Tina](https://ja.wikipedia.org/wiki/Tina "wikilink")に提供されることとなる。
+15歳の時に『When You Believe』（[マライア・キャリー](https://ja.wikipedia.org/wiki/マライア・キャリー "wikilink")&ホイットニー・ヒューストン）を初めて大勢の人の前で歌う。ほぼ同じ時に『月』という曲を製作、この曲は後にこのことを耳にした[Tina](../Page/Tina.md "wikilink")に提供されることとなる。
 
 2007年[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")より、ミニアルバム『Daddy』をリリースしメジャーデビュー。
 
@@ -30,7 +30,7 @@
     1.  Flow with it
     2.  Pearl Drops
     3.  Air Rhythm - Home Grown Remix -
-3.  **切ないくらい、愛してた。**（2008年4月16日） - Lisa Halim feat.[JAY'ED](https://ja.wikipedia.org/wiki/JAY'ED "wikilink")名義
+3.  **切ないくらい、愛してた。**（2008年4月16日） - Lisa Halim feat.[JAY'ED](../Page/JAY'ED.md "wikilink")名義
     1.  切ないくらい、愛してた。
     2.  HOME
     3.  愛の花(LIVE VERSION)
@@ -76,7 +76,7 @@
 
 ### 楽曲提供
 
-1.  [Tina](https://ja.wikipedia.org/wiki/Tina "wikilink")「**月／キセキ**」（作詞／作曲）（2002年7月24日）
+1.  [Tina](../Page/Tina.md "wikilink")「**月／キセキ**」（作詞／作曲）（2002年7月24日）
 2.  [上戸彩](https://ja.wikipedia.org/wiki/上戸彩 "wikilink")「**私の太陽**」（作詞／コーラス参加）（2009年7月15日）
 3.  [クレンチ＆ブリスタ](https://ja.wikipedia.org/wiki/クレンチ＆ブリスタ "wikilink")「**ずっと二人で〜Eternal Love〜 feat. Lisa Halim**」（Featuring Vocal／詞共作）   （2009年10月7日）
 4.  [菅原紗由理](https://ja.wikipedia.org/wiki/菅原紗由理 "wikilink")「**Is This Love?**」（作詞）（2010年1月27日）
@@ -89,11 +89,11 @@
 
 ## ラジオ
 
-  - [HITS\! THE TOWN](https://ja.wikipedia.org/wiki/HITS!_THE_TOWN "wikilink") （2008年5月17日、ゲスト出演、[FM NACK5](https://ja.wikipedia.org/wiki/FM_NACK5 "wikilink")）
+  - [HITS\! THE TOWN](../Page/HITS!_THE_TOWN.md "wikilink") （2008年5月17日、ゲスト出演、[FM NACK5](https://ja.wikipedia.org/wiki/FM_NACK5 "wikilink")）
 
 ## 関連項目
 
-  - [2007年の音楽](https://ja.wikipedia.org/wiki/2007年の音楽 "wikilink")
+  - [2007年の音楽](../Page/2007年の音楽.md "wikilink")
 
 ## 外部リンク
 

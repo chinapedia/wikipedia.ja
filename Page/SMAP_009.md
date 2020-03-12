@@ -1,14 +1,14 @@
 > この記事は[SMAP 009](https://ja.wikipedia.org/wiki/SMAP_009)から翻訳されています。
 
 
-『**SMAP 009**』は、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の9枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。 [1996年](../Page/1996年.md "wikilink")[8月12日](../Page/8月12日.md "wikilink")に[ビクターエンタテインメントから発売された](https://ja.wikipedia.org/wiki/JVCケンウッド・ビクターエンタテインメント "wikilink")。
+『**SMAP 009**』は、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の9枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。 [1996年](../Page/1996年.md "wikilink")[8月12日](../Page/8月12日.md "wikilink")に[ビクターエンタテインメントから発売された](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")。
 
 ## 解説
 
   - [森且行](../Page/森且行.md "wikilink")脱退後初のアルバム。
   - 前作『[SMAP 008 TACOMAX](https://ja.wikipedia.org/wiki/SMAP_008_TACOMAX "wikilink")』からわずか5ヶ月でのリリースとなっている。森が脱退したことにより急遽製作されたものだと思われる。
   - 今作でも引き続きバック演奏に海外の超一流ミュージシャンを迎えている。
-  - 今作リリース前にリリースされた「[青いイナズマ](https://ja.wikipedia.org/wiki/青いイナズマ "wikilink")」は未収録である。
+  - 今作リリース前にリリースされた「[青いイナズマ](../Page/青いイナズマ.md "wikilink")」は未収録である。
 
 ## 収録曲
 
@@ -21,7 +21,7 @@
 3.  **波風も悪くない**
       -
         作詞：戸沢暢美 作曲・編曲：岩田雅之
-4.  **電話しようかな** - [木村拓哉](https://ja.wikipedia.org/wiki/木村拓哉 "wikilink")
+4.  **電話しようかな** - [木村拓哉](../Page/木村拓哉.md "wikilink")
       -
         作詞：小倉めぐみ 作曲：寺田一郎 編曲：岩田雅之
 5.  **君を抱きしめたい**
@@ -34,10 +34,10 @@
       -
         作詞：小倉めぐみ 作曲・編曲：岩田雅之
     <!-- end list -->
-      - [よみうりテレビ](https://ja.wikipedia.org/wiki/よみうりテレビ "wikilink")『[中居くん温泉](https://ja.wikipedia.org/wiki/中居くん温泉 "wikilink")』テーマソング
+      - [よみうりテレビ](https://ja.wikipedia.org/wiki/よみうりテレビ "wikilink")『[中居くん温泉](../Page/中居くん温泉.md "wikilink")』テーマソング
     <!-- end list -->
       -
-        2ndベストアルバム「[Wool](https://ja.wikipedia.org/wiki/WOOL_\(アルバム\) "wikilink")」にも収録されている。
+        2ndベストアルバム「[Wool](../Page/WOOL_\(アルバム\).md "wikilink")」にも収録されている。
 8.  **Harlem River Drive** - [草彅剛](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")
       -
         作詞：相田毅 作曲：野崎昌利 編曲：CHOKKAKU
@@ -58,21 +58,21 @@
 
 ### Relax
 
-  - Drums: [Omar Hakim](https://ja.wikipedia.org/wiki/オマー・ハキム "wikilink")
+  - Drums: [Omar Hakim](../Page/オマー・ハキム.md "wikilink")
   - Bass: [Will Lee](../Page/ウィル・リー.md "wikilink")
   - Guitar: [Hiram Bullock](https://ja.wikipedia.org/wiki/ハイラム・ブロック "wikilink")
   - Piano: [Greg Phillinganes](https://ja.wikipedia.org/wiki/グレッグ・フィリンゲインズ "wikilink")
-  - Alto Sax Solo: [Eric Marienthal](https://ja.wikipedia.org/wiki/エリック・マリエンサル "wikilink")
+  - Alto Sax Solo: [Eric Marienthal](../Page/エリック・マリエンサル.md "wikilink")
   - Chorus: [Makoto Matsushita](../Page/松下誠.md "wikilink")
   - The other Instrument: [Seikou Nagaoka](https://ja.wikipedia.org/wiki/長岡成貢 "wikilink")
 
 ### マラソン
 
-  - Drums: [Dave Weckl](https://ja.wikipedia.org/wiki/デイブ・ウェックル "wikilink")
-  - Bass: [Tony Levin](https://ja.wikipedia.org/wiki/トニー・レヴィン "wikilink")
-  - Guitar: [Dean Brown](https://ja.wikipedia.org/wiki/ディーン・ブラウン_\(ギタリスト\) "wikilink")
+  - Drums: [Dave Weckl](../Page/デイブ・ウェックル.md "wikilink")
+  - Bass: [Tony Levin](../Page/トニー・レヴィン.md "wikilink")
+  - Guitar: [Dean Brown](../Page/ディーン・ブラウン_\(ギタリスト\).md "wikilink")
   - Piano: [Philippe Saisse](../Page/フィリップ・セス.md "wikilink")
-  - Trumpet Solo : [Randy Brecker](https://ja.wikipedia.org/wiki/ランディ・ブレッカー "wikilink")
+  - Trumpet Solo : [Randy Brecker](../Page/ランディ・ブレッカー.md "wikilink")
   - East 4th Horns
       - Leader & Trombone: John Wheeler
       - Trumpets:John Allimark, Tony Kadleck
@@ -84,7 +84,7 @@
 
   - Drums: Dave Weckl
   - Piano: Philippe Saisse
-  - Tenor Sax Solo : [Michael Brecker](https://ja.wikipedia.org/wiki/マイケル・ブレッカー "wikilink")
+  - Tenor Sax Solo : [Michael Brecker](../Page/マイケル・ブレッカー.md "wikilink")
   - Chorus Masayuki lwata
   - The other Instrument: Masayuki lwata
 
@@ -124,7 +124,7 @@
 
   - Drums: Omar Hakim
   - the Stick: Tony Levin
-  - Guitar: [Ray Parker Jr.](https://ja.wikipedia.org/wiki/レイ・パーカー・ジュニア "wikilink")
+  - Guitar: [Ray Parker Jr.](../Page/レイ・パーカー・ジュニア.md "wikilink")
   - Tenor Sax Solo: Michael Brecker
   - East 4th Horns
       - Trombone: John Wheeler
@@ -136,7 +136,7 @@
 ### Harlen River Drive
 
   - Chorus: Masayuki Iwata
-  - All Instruments: [Chokkaku](https://ja.wikipedia.org/wiki/CHOKKAKU "wikilink")
+  - All Instruments: [Chokkaku](../Page/CHOKKAKU.md "wikilink")
 
 ### あの夏の日
 
@@ -149,8 +149,8 @@
 
 ### はだかの王様 ～シブトク つよく～
 
-  - Drums: [Bernard Purdie](https://ja.wikipedia.org/wiki/バーナード・パーディ "wikilink")
-  - Bass: [John Patitucci](https://ja.wikipedia.org/wiki/ジョン・パティトゥッチ "wikilink")
+  - Drums: [Bernard Purdie](../Page/バーナード・パーディ.md "wikilink")
+  - Bass: [John Patitucci](../Page/ジョン・パティトゥッチ.md "wikilink")
   - Guitar: Dean Brown
   - Chorus: Masayuki lwata
   - The other Instrument: [Kenichi Shondo](https://ja.wikipedia.org/wiki/庄野賢一 "wikilink")

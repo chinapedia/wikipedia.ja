@@ -1,7 +1,7 @@
 > この記事は[MUSEMENT](https://ja.wikipedia.org/wiki/MUSEMENT)から翻訳されています。
 
 
-**MUSEMENT**（ミューズメント）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のロックバンド**[カーネーション](https://ja.wikipedia.org/wiki/カーネーション_\(バンド\) "wikilink")**のメンバーであった**矢部浩志**の[ソロプロジェクト](https://ja.wikipedia.org/wiki/ソロプロジェクト "wikilink")である。2007年始動。
+**MUSEMENT**（ミューズメント）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のロックバンド**[カーネーション](../Page/カーネーション_\(バンド\).md "wikilink")**のメンバーであった**矢部浩志**の[ソロプロジェクト](https://ja.wikipedia.org/wiki/ソロプロジェクト "wikilink")である。2007年始動。
 
 ## ディスコグラフィー
 
@@ -15,7 +15,7 @@
     5.  Microsleep I
     6.  Silent Sun
     7.  Is My Life Shit?
-    8.  RED CHERRY & STRAWBERRY Feat.[鈴木祥子](https://ja.wikipedia.org/wiki/鈴木祥子 "wikilink")
+    8.  RED CHERRY & STRAWBERRY Feat.[鈴木祥子](../Page/鈴木祥子.md "wikilink")
     9.  Random Access Melody
     10. ストーリーズ
     11. Microsleep II
@@ -34,7 +34,7 @@
     6.  Happy Birthday feat.[武田カオリ](https://ja.wikipedia.org/wiki/武田カオリ "wikilink") (remix)
     7.  僕の頭はF-WORD feat.[安藤裕子](https://ja.wikipedia.org/wiki/安藤裕子_\(歌手\) "wikilink") (remix)
     8.  ストーリーズ feat.武田カオリ (remix)
-    9.  Red Cherry & Strawberry feat.[鈴木祥子](https://ja.wikipedia.org/wiki/鈴木祥子 "wikilink") (remix)
+    9.  Red Cherry & Strawberry feat.[鈴木祥子](../Page/鈴木祥子.md "wikilink") (remix)
     10. Landslide feat.[野見山睦未](https://ja.wikipedia.org/wiki/野見山睦未 "wikilink") (cover)
     11. アンダースカート feat.野見山睦未
     12. Jerusalem feat.野見山睦未 (cover)
@@ -44,17 +44,17 @@
 ## 参加ミュージシャン
 
   - [安藤裕子](https://ja.wikipedia.org/wiki/安藤裕子_\(歌手\) "wikilink")（作詞／ヴォーカル）
-  - [鈴木祥子](https://ja.wikipedia.org/wiki/鈴木祥子 "wikilink")（作詞／ヴォーカル）
+  - [鈴木祥子](../Page/鈴木祥子.md "wikilink")（作詞／ヴォーカル）
   - [武田カオリ](https://ja.wikipedia.org/wiki/武田カオリ "wikilink") from [TICA](https://ja.wikipedia.org/wiki/TICA "wikilink")（作詞／ヴォーカル）
   - [茂木ミユキ](https://ja.wikipedia.org/wiki/茂木ミユキ "wikilink")（作詞／ヴォーカル／Qコード演奏）
   - [長見順](https://ja.wikipedia.org/wiki/長見順 "wikilink")（ギター）
-  - [萩原健太](https://ja.wikipedia.org/wiki/萩原健太 "wikilink")（ギター）
+  - [萩原健太](../Page/萩原健太.md "wikilink")（ギター）
   - Mito from [クラムボン](https://ja.wikipedia.org/wiki/クラムボン "wikilink")（コーラス）
 
 ## 関連項目
 
-  - [カーネーション](https://ja.wikipedia.org/wiki/カーネーション_\(バンド\) "wikilink")
-  - [2007年の音楽](https://ja.wikipedia.org/wiki/2007年の音楽 "wikilink")
+  - [カーネーション](../Page/カーネーション_\(バンド\).md "wikilink")
+  - [2007年の音楽](../Page/2007年の音楽.md "wikilink")
 
 ## 外部リンク
 

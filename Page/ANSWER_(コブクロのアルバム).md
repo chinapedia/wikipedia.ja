@@ -5,18 +5,18 @@
 
 ## 概要
 
-現在、シングル（CP）化されている、「[遠まわり](https://ja.wikipedia.org/wiki/轍-わだち- "wikilink")」、及びアルバム「[grapefruits](https://ja.wikipedia.org/wiki/grapefruits "wikilink")」に含まれる「光」、アルバム「[CALLING](https://ja.wikipedia.org/wiki/CALLING_\(コブクロのアルバム\) "wikilink")」に含まれる「神風」が収録されている。なお、このアルバムに収録されている「光」は歌詞が若干異なる。
+現在、シングル（CP）化されている、「[遠まわり](../Page/轍-わだち-.md "wikilink")」、及びアルバム「[grapefruits](https://ja.wikipedia.org/wiki/grapefruits "wikilink")」に含まれる「光」、アルバム「[CALLING](https://ja.wikipedia.org/wiki/CALLING_\(コブクロのアルバム\) "wikilink")」に含まれる「神風」が収録されている。なお、このアルバムに収録されている「光」は歌詞が若干異なる。
 
 ## 収録曲
 
-1\. **[遠まわり](https://ja.wikipedia.org/wiki/轍-わだち- "wikilink")**
-(作詞・作曲:[小渕健太郎](https://ja.wikipedia.org/wiki/小渕健太郎 "wikilink")) 轍 -わだち-のシングルに収録されている。
+1\. **[遠まわり](../Page/轍-わだち-.md "wikilink")**
+(作詞・作曲:[小渕健太郎](../Page/小渕健太郎.md "wikilink")) 轍 -わだち-のシングルに収録されている。
 
 2\. **[光](https://ja.wikipedia.org/wiki/grapefruits "wikilink")**
 (作詞・作曲:小渕健太郎) 2ndアルバム"grapefruits"に収録されている。
 
 3\. **心に笑みを**
-(作詞・作曲:[黒田俊介](https://ja.wikipedia.org/wiki/黒田俊介 "wikilink")) コブクロの曲の中では数少ない黒田の作詞作曲。
+(作詞・作曲:[黒田俊介](../Page/黒田俊介.md "wikilink")) コブクロの曲の中では数少ない黒田の作詞作曲。
 
 4\. **坂道**
 (作詞・作曲:小渕健太郎)

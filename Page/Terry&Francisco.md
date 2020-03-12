@@ -1,11 +1,11 @@
 > この記事は[Terry\&Francisco](https://ja.wikipedia.org/wiki/Terry\&Francisco)から翻訳されています。
 
 
-**Terry\&Francisco**（テリー・アンド・フランシスコ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の音楽[デュオ](https://ja.wikipedia.org/wiki/デュオ "wikilink")である。
+**Terry\&Francisco**（テリー・アンド・フランシスコ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の音楽[デュオ](../Page/デュオ.md "wikilink")である。
 
 ## 概要
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")、[エイベックスよりメジャーデビュー](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。デビューシングルの収録曲『ためいきの銀河』が映画『[青春漫画〜僕らの恋愛シナリオ〜](https://ja.wikipedia.org/wiki/青春漫画〜僕らの恋愛シナリオ〜 "wikilink")』の日本でのテーマソングとして使用される。
+[2006年](../Page/2006年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")、[エイベックスよりメジャーデビュー](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。デビューシングルの収録曲『ためいきの銀河』が映画『[青春漫画〜僕らの恋愛シナリオ〜](https://ja.wikipedia.org/wiki/青春漫画〜僕らの恋愛シナリオ〜 "wikilink")』の日本でのテーマソングとして使用される。
 
 メジャーデビューまではインディーズで活動をしていた。。それは、。彼らの音楽については[秋元康](../Page/秋元康.md "wikilink")や[ムッシュかまやつ](https://ja.wikipedia.org/wiki/ムッシュかまやつ "wikilink")。
 
@@ -155,7 +155,7 @@ YICD-70024:通常価格盤</p></td>
 </tr>
 <tr class="even">
 <td><p>ウィンタークラシック</p></td>
-<td><p>日本テレビ系『<a href="https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER" title="wikilink">音楽戦士 MUSIC FIGHTER</a>』POWER PLAY<br />
+<td><p>日本テレビ系『<a href="../Page/音楽戦士_MUSIC_FIGHTER.md" title="wikilink">音楽戦士 MUSIC FIGHTER</a>』POWER PLAY<br />
 テレビ東京系『<a href="https://ja.wikipedia.org/wiki/心配さん" title="wikilink">心配さん</a>』2006年12月度エンディングテーマ<br />
 テレビ東京系「<a href="https://ja.wikipedia.org/wiki/怒りオヤジ3" title="wikilink">怒りオヤジ3</a>』2006年12月度エンディングテーマ</p></td>
 </tr>

@@ -16,7 +16,7 @@
 ## サービス一覧
 
   - iswebベーシック
-    最後まで運用されていた有料サービス。広告なし、300[MB](https://ja.wikipedia.org/wiki/メガバイト "wikilink")。
+    最後まで運用されていた有料サービス。広告なし、300[MB](../Page/メガバイト.md "wikilink")。
     [CGIは](../Page/Common_Gateway_Interface.md "wikilink")「iswebベーシック」では[Perl](../Page/Perl.md "wikilink")、[Python](../Page/Python.md "wikilink")、[Ruby](../Page/Ruby.md "wikilink")、[PHP](../Page/PHP_\(プログラミング言語\).md "wikilink")、[sendmail](https://ja.wikipedia.org/wiki/sendmail "wikilink")が使用可能。
     [URLは](https://ja.wikipedia.org/wiki/Universal_Resource_Locator "wikilink")「ユーザーID.web.infoseek.co.jp」。
   - iswebライト

@@ -1,11 +1,11 @@
 > この記事は[Alive \(Witch\)](https://ja.wikipedia.org/wiki/Alive_\(Witch\))から翻訳されています。
 
 
-『**Alive**』（アライヴ）は、[1999年](../Page/1999年.md "wikilink")[12月3日](../Page/12月3日.md "wikilink")に[Witch](https://ja.wikipedia.org/wiki/Witch "wikilink")から発売された[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")。
+『**Alive**』（アライヴ）は、[1999年](../Page/1999年.md "wikilink")[12月3日](../Page/12月3日.md "wikilink")に[Witch](../Page/Witch.md "wikilink")から発売された[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")。
 
 ## 概要
 
-正統な続編は存在しないが、18禁ゲームには数少ない様々な人間関係の絡み合うストーリーとなっており、リメイク版『Alive Renewal』も[2001年](../Page/2001年.md "wikilink")に製作されている。また、このストーリーの登場人物達の一部、またはその子孫達が、後に同じメーカーで発売される『[Milkyway](https://ja.wikipedia.org/wiki/Milkyway "wikilink")』シリーズで活躍する事になる。また、本作だけで物語の全貌を垣間見ることはできず、物語の謎を解き明かすには本作のほかに『Rebirth』、『Fake』、『Milkyway』、『Milkyway2』をプレイする必要がある。
+正統な続編は存在しないが、18禁ゲームには数少ない様々な人間関係の絡み合うストーリーとなっており、リメイク版『Alive Renewal』も[2001年](../Page/2001年.md "wikilink")に製作されている。また、このストーリーの登場人物達の一部、またはその子孫達が、後に同じメーカーで発売される『[Milkyway](../Page/Milkyway.md "wikilink")』シリーズで活躍する事になる。また、本作だけで物語の全貌を垣間見ることはできず、物語の謎を解き明かすには本作のほかに『Rebirth』、『Fake』、『Milkyway』、『Milkyway2』をプレイする必要がある。
 
 ## ストーリー
 
@@ -45,12 +45,12 @@
 ### Alive版
 
   - 「Alive」
-    作曲 - [Witch](https://ja.wikipedia.org/wiki/Witch "wikilink")
+    作曲 - [Witch](../Page/Witch.md "wikilink")
 
 ### Alive Renewal版
 
   - 「ALIVE」
-    作詞・作曲 - Witch / 編曲 - [小池雅也](https://ja.wikipedia.org/wiki/小池雅也 "wikilink") / 歌 - 非公開（Witch）
+    作詞・作曲 - Witch / 編曲 - [小池雅也](../Page/小池雅也.md "wikilink") / 歌 - 非公開（Witch）
       -
         ※ 2001年4月28日発売『Alive renewal Original Theme Song「ALIVE」』収録
         ※ 2003年8月29日発売『Witch Vocal Collection』収録

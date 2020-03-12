@@ -1,11 +1,11 @@
 > この記事は[Complete of PAMELAH at the BEING studio](https://ja.wikipedia.org/wiki/Complete_of_PAMELAH_at_the_BEING_studio)から翻訳されています。
 
 
-『**complete of PAMELAH at the BEING studio**』（コンプリート・オブ・パメラ・アット・ザ・ビーイング・スタジオ）は[PAMELAH](https://ja.wikipedia.org/wiki/PAMELAH "wikilink")のアルバム。
+『**complete of PAMELAH at the BEING studio**』（コンプリート・オブ・パメラ・アット・ザ・ビーイング・スタジオ）は[PAMELAH](../Page/PAMELAH.md "wikilink")のアルバム。
 
 ## 概要
 
-  - 全シングル曲に加え、 [水原由貴](https://ja.wikipedia.org/wiki/水原由貴 "wikilink")のソロ曲、さらに未発表曲を含むシングルコレクション的なアルバム。
+  - 全シングル曲に加え、 [水原由貴](../Page/水原由貴.md "wikilink")のソロ曲、さらに未発表曲を含むシングルコレクション的なアルバム。
   - 全曲リマスタリング、ライナーノーツ付き、スペシャルBOX仕様。
   - [2012年](../Page/2012年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")に価格を1680円に改めた再発盤が期間限定で発売された。
 
@@ -38,7 +38,7 @@
 ## 関連項目
 
   - [ビーイング](../Page/ビーイング.md "wikilink")
-  - [B-Gram RECORDS](https://ja.wikipedia.org/wiki/B-Gram_RECORDS "wikilink")
+  - [B-Gram RECORDS](../Page/B-Gram_RECORDS.md "wikilink")
   - [at the BEING studio](https://ja.wikipedia.org/wiki/at_the_BEING_studio "wikilink")
 
 [Category:At_the_BEING_studio](https://ja.wikipedia.org/wiki/Category:At_the_BEING_studio "wikilink") [Category:2003年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2003年のベスト・アルバム "wikilink") [Category:PAMELAHのベスト・アルバム](https://ja.wikipedia.org/wiki/Category:PAMELAHのベスト・アルバム "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")

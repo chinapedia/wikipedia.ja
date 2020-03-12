@@ -1,14 +1,14 @@
 > この記事は[Leon \(\)](https://ja.wikipedia.org/wiki/Leon_\(\))から翻訳されています。
 
 
-**Leon**（レオン、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[7月2日](../Page/7月2日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女子[プロレスラー](../Page/プロレスラー.md "wikilink")。本名：**高瀬 玲奈**（たかせ れな）。[アルシオン](https://ja.wikipedia.org/wiki/アルシオン "wikilink")のライセンスナンバー28。
+**Leon**（レオン、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[7月2日](../Page/7月2日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女子[プロレスラー](../Page/プロレスラー.md "wikilink")。本名：**高瀬 玲奈**（たかせ れな）。[アルシオン](../Page/アルシオン.md "wikilink")のライセンスナンバー28。
 
 ## 所属
 
-  - [アルシオン](https://ja.wikipedia.org/wiki/アルシオン "wikilink")（1999年 - 2003年）
+  - [アルシオン](../Page/アルシオン.md "wikilink")（1999年 - 2003年）
   - [メジャー女子プロレスAtoZ](../Page/AtoZ.md "wikilink")（2003年 - 2005年）
   - フリーランス（2005年 - 2007年）
-  - [JWP女子プロレス](https://ja.wikipedia.org/wiki/JWP女子プロレス "wikilink")（2007年 - 2017年）
+  - [JWP女子プロレス](../Page/JWP女子プロレス.md "wikilink")（2007年 - 2017年）
   - [PURE-J](https://ja.wikipedia.org/wiki/PURE-J "wikilink")女子プロレス（2017年 - ）
 
 ## 経歴
@@ -17,7 +17,7 @@
 
 <!-- end list -->
 
-  - 3月15日、[アルシオン](https://ja.wikipedia.org/wiki/アルシオン "wikilink")の[後楽園ホール](https://ja.wikipedia.org/wiki/後楽園ホール "wikilink")興行において、対[藤田愛](https://ja.wikipedia.org/wiki/藤田愛 "wikilink")戦でプロレスデビュー。
+  - 3月15日、[アルシオン](../Page/アルシオン.md "wikilink")の[後楽園ホール](../Page/後楽園ホール.md "wikilink")興行において、対[藤田愛](../Page/藤田愛.md "wikilink")戦でプロレスデビュー。
 
 <!-- end list -->
 
@@ -29,22 +29,22 @@
 
 <!-- end list -->
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
 
 <!-- end list -->
 
-  - 1月にAtoZを退団。そして[フリーランス](../Page/フリーランス.md "wikilink")で活動を開始し、また[マスクウーマンとなり](../Page/覆面レスラー.md "wikilink")[リングネーム](https://ja.wikipedia.org/wiki/リングネーム "wikilink")も**闘獣牙Leon**（とうじゅうきレオン）に改名した。
+  - 1月にAtoZを退団。そして[フリーランス](../Page/フリーランス.md "wikilink")で活動を開始し、また[マスクウーマンとなり](../Page/覆面レスラー.md "wikilink")[リングネーム](../Page/リングネーム.md "wikilink")も**闘獣牙Leon**（とうじゅうきレオン）に改名した。
   - 4月24日、M's Style一周年記念興行「Mab 〜夢を支配〜」のワンデートーナメントで優勝。
   - 11月より[M's Style所属となった](https://ja.wikipedia.org/wiki/M's_Style "wikilink")。
 
 <!-- end list -->
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")
+  - [2006年](../Page/2006年.md "wikilink")
 
 <!-- end list -->
 
-  - 1月15日、M's Style「アストレイア 〜希望の女神I〜」において、[浜田文子](https://ja.wikipedia.org/wiki/浜田文子 "wikilink")との対戦中に自らマスクを外し、素顔となり戦うも敗れた。
-  - 7月2日、[新宿FACE](../Page/新宿FACE.md "wikilink")（レディゴンまつり）において、アルシオンメモリアルマッチで素顔の高瀬玲奈として、対[AKINO](https://ja.wikipedia.org/wiki/AKINO_\(プロレスラー\) "wikilink")、[大向美智子](https://ja.wikipedia.org/wiki/大向美智子 "wikilink")、[江本敦子](../Page/江本敦子.md "wikilink")組と戦い、江本から勝利する。パートナーはかつて[付き人](../Page/付き人.md "wikilink")をしていた二上美紀子（[GAMI](https://ja.wikipedia.org/wiki/GAMI "wikilink")）\[1\]、[アジャ・コング](https://ja.wikipedia.org/wiki/アジャ・コング "wikilink")。試合後、誕生日を祝ってもらうが、大向のケーキ投げで金具により頬から流血してしまう。
+  - 1月15日、M's Style「アストレイア 〜希望の女神I〜」において、[浜田文子](../Page/浜田文子.md "wikilink")との対戦中に自らマスクを外し、素顔となり戦うも敗れた。
+  - 7月2日、[新宿FACE](../Page/新宿FACE.md "wikilink")（レディゴンまつり）において、アルシオンメモリアルマッチで素顔の高瀬玲奈として、対[AKINO](../Page/AKINO_\(プロレスラー\).md "wikilink")、[大向美智子](../Page/大向美智子.md "wikilink")、[江本敦子](../Page/江本敦子.md "wikilink")組と戦い、江本から勝利する。パートナーはかつて[付き人](../Page/付き人.md "wikilink")をしていた二上美紀子（[GAMI](../Page/GAMI.md "wikilink")）\[1\]、[アジャ・コング](../Page/アジャ・コング.md "wikilink")。試合後、誕生日を祝ってもらうが、大向のケーキ投げで金具により頬から流血してしまう。
   - 10月8日にM's Styleが解散となりフリーに。
 
 <!-- end list -->
@@ -53,7 +53,7 @@
 
 <!-- end list -->
 
-  - 1月14日の東京キネマ倶楽部大会で、以前から定期参戦していた[JWP女子プロレス](https://ja.wikipedia.org/wiki/JWP女子プロレス "wikilink")への入団を表明した。
+  - 1月14日の東京キネマ倶楽部大会で、以前から定期参戦していた[JWP女子プロレス](../Page/JWP女子プロレス.md "wikilink")への入団を表明した。
 
 <!-- end list -->
 
@@ -61,7 +61,7 @@
 
 <!-- end list -->
 
-  - 1月、「読みづらい」という理由から、[リングネーム](https://ja.wikipedia.org/wiki/リングネーム "wikilink")を「闘獣牙Leon」から「Leon」に改名。
+  - 1月、「読みづらい」という理由から、[リングネーム](../Page/リングネーム.md "wikilink")を「闘獣牙Leon」から「Leon」に改名。
 
 ## 得意技
 

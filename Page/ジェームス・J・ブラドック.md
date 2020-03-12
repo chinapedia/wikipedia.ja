@@ -5,17 +5,17 @@
 
 ## 来歴
 
-1929年7月18日、[トミー・ローラン](https://ja.wikipedia.org/wiki/トミー・ローラン "wikilink")の持つ世界[ライトヘビー級](https://ja.wikipedia.org/wiki/ライトヘビー級 "wikilink")王座に挑戦するも、15R判定負けし王座獲得ならず。直後から戦績に負けが込むようになり、しだいに王座挑戦の最前線からフェードアウトしていく。
+1929年7月18日、[トミー・ローラン](https://ja.wikipedia.org/wiki/トミー・ローラン "wikilink")の持つ世界[ライトヘビー級](../Page/ライトヘビー級.md "wikilink")王座に挑戦するも、15R判定負けし王座獲得ならず。直後から戦績に負けが込むようになり、しだいに王座挑戦の最前線からフェードアウトしていく。
 
 1934年にライセンスを失効され引退したが、試合をするチャンスを掴み[コーン・グリフィン](https://ja.wikipedia.org/wiki/コーン・グリフィン "wikilink")と[ジョン・ヘンリー・ルイス](https://ja.wikipedia.org/wiki/ジョン・ヘンリー・ルイス "wikilink")に勝利を収め、世界王座挑戦の機会を得る。
 
-1935年6月13日、[マックス・ベアの持つ世界](https://ja.wikipedia.org/wiki/マックス・ベア_\(ボクサー\) "wikilink")[ヘビー級](https://ja.wikipedia.org/wiki/ヘビー級 "wikilink")王座に挑戦。絶対不利の予想を覆し、15R判定勝ちを収めて世界王座を獲得した。
+1935年6月13日、[マックス・ベアの持つ世界](https://ja.wikipedia.org/wiki/マックス・ベア_\(ボクサー\) "wikilink")[ヘビー級](../Page/ヘビー級.md "wikilink")王座に挑戦。絶対不利の予想を覆し、15R判定勝ちを収めて世界王座を獲得した。
 
 1937年6月22日、初防衛戦で[ジョー・ルイス](../Page/ジョー・ルイス.md "wikilink")と対戦。8RKO負けを喫し王座から陥落した。
 
 1969年、ニュージャージー州ボクシングの殿堂入り。
 
-2001年、[国際ボクシング名誉の殿堂博物館](https://ja.wikipedia.org/wiki/国際ボクシング名誉の殿堂博物館 "wikilink")入り。
+2001年、[国際ボクシング名誉の殿堂博物館](../Page/国際ボクシング名誉の殿堂博物館.md "wikilink")入り。
 
 ## 戦績
 
@@ -28,10 +28,10 @@
 
 ## 関連項目
 
-  - [男子ボクサー一覧](https://ja.wikipedia.org/wiki/男子ボクサー一覧 "wikilink")
+  - [男子ボクサー一覧](../Page/男子ボクサー一覧.md "wikilink")
   - [世界ボクシング協会世界王者一覧](../Page/世界ボクシング協会世界王者一覧.md "wikilink")
-  - [国際ボクシング名誉の殿堂博物館](https://ja.wikipedia.org/wiki/国際ボクシング名誉の殿堂博物館 "wikilink")
-  - [世界ボクシング殿堂](https://ja.wikipedia.org/wiki/世界ボクシング殿堂 "wikilink")
+  - [国際ボクシング名誉の殿堂博物館](../Page/国際ボクシング名誉の殿堂博物館.md "wikilink")
+  - [世界ボクシング殿堂](../Page/世界ボクシング殿堂.md "wikilink")
   - [シンデレラマン](../Page/シンデレラマン.md "wikilink")
 
 ## 外部リンク

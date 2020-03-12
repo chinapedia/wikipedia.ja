@@ -1,7 +1,7 @@
 > この記事は[REINCARNATION \(\)](https://ja.wikipedia.org/wiki/REINCARNATION_\(\))から翻訳されています。
 
 
-『**REINCARNATION**』（リ・インカーネーション）は、[松任谷由実](../Page/松任谷由実.md "wikilink")（ユーミン）の14枚目のオリジナルアルバム。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[2月21日](../Page/2月21日.md "wikilink")に[東芝EMIからリリースされた](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")（[LP](../Page/レコード.md "wikilink")：ETP-90221、[CT](../Page/コンパクトカセット.md "wikilink")：ZH28-1300）。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[7月6日](../Page/7月6日.md "wikilink")～[1984年](../Page/1984年.md "wikilink")[2月9日](../Page/2月9日.md "wikilink")、『REINCARNATION』全国コンサートツアーが行われた。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[6月1日](../Page/6月1日.md "wikilink")に初[CD化](../Page/CD-DA.md "wikilink")（CA32-1140）。[1999年](../Page/1999年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")に[LPのブックレットを復刻し](../Page/レコード.md "wikilink")、[バーニー・グランドマン](https://ja.wikipedia.org/wiki/バーニー・グランドマン "wikilink")による[デジタルリマスタリングで音質を大幅に向上したリマスタリング](https://ja.wikipedia.org/wiki/デジタルリマスター "wikilink")[CD](../Page/CD-DA.md "wikilink")（TOCT-10647）と[LP](../Page/レコード.md "wikilink")（TOJT-10647）をリリース。
+『**REINCARNATION**』（リ・インカーネーション）は、[松任谷由実](../Page/松任谷由実.md "wikilink")（ユーミン）の14枚目のオリジナルアルバム。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[2月21日](../Page/2月21日.md "wikilink")に[東芝EMIからリリースされた](../Page/EMIミュージック・ジャパン.md "wikilink")（[LP](../Page/レコード.md "wikilink")：ETP-90221、[CT](../Page/コンパクトカセット.md "wikilink")：ZH28-1300）。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[7月6日](../Page/7月6日.md "wikilink")～[1984年](../Page/1984年.md "wikilink")[2月9日](../Page/2月9日.md "wikilink")、『REINCARNATION』全国コンサートツアーが行われた。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[6月1日](../Page/6月1日.md "wikilink")に初[CD化](../Page/CD-DA.md "wikilink")（CA32-1140）。[1999年](../Page/1999年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")に[LPのブックレットを復刻し](../Page/レコード.md "wikilink")、[バーニー・グランドマン](https://ja.wikipedia.org/wiki/バーニー・グランドマン "wikilink")による[デジタルリマスタリングで音質を大幅に向上したリマスタリング](../Page/デジタルリマスター.md "wikilink")[CD](../Page/CD-DA.md "wikilink")（TOCT-10647）と[LP](../Page/レコード.md "wikilink")（TOJT-10647）をリリース。
 
 ## 解説
 
@@ -20,12 +20,12 @@
         “輪廻転生”がテーマ。ライブビデオ『[1981 Yuming Visual Volume1](../Page/1981_Yuming_Visual_Volume1.md "wikilink")』に収録された「REINCARNATION」とは別歌詞。尚、プロモーション用に製作された非売品のアナログシングル盤では、曲の終わりがフェードアウトで終了するバージョンを聞くことが出来る。
 2.  **オールマイティー**
       -
-        前の曲のラストの[安藤まさひろのギターソロから流れるように続く](https://ja.wikipedia.org/wiki/安藤正容 "wikilink")。
+        前の曲のラストの[安藤まさひろのギターソロから流れるように続く](../Page/安藤正容.md "wikilink")。
 3.  **NIGHT WALKER**
 4.  **星空の誘惑**
 5.  **川景色**
       -
-        [相模川](../Page/相模川.md "wikilink")の川景色を歌った曲とされている。1982年の[石川セリ](https://ja.wikipedia.org/wiki/石川セリ "wikilink")への提供曲。
+        [相模川](../Page/相模川.md "wikilink")の川景色を歌った曲とされている。1982年の[石川セリ](../Page/石川セリ.md "wikilink")への提供曲。
 6.  **[ESPER](../Page/ESPER.md "wikilink")**（album version）
       -
         エフェクトの掛った英語のセリフで始まる。[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")にリリースされた14枚目のシングル曲を、リニューアルした作品。TBS『[ルージュの伝言](../Page/ルージュの伝言.md "wikilink")』で[間寛平](../Page/間寛平.md "wikilink")、[坂上香織](../Page/坂上香織.md "wikilink")主演でドラマ化された（第22話）。なお間は他のエピソードでもチョイ役で出演している。
@@ -38,21 +38,21 @@
 9.  **ハートはもうつぶやかない**
 10. **経（ふ）る時**
       -
-        [2002年](../Page/2002年.md "wikilink")[1月27日](../Page/1月27日.md "wikilink")に営業を終了した、[千鳥ヶ淵](https://ja.wikipedia.org/wiki/千鳥ヶ淵 "wikilink")沿いのフェヤーモントホテルのティールーム「ブラスリー・ドゥ・ラ・ヴェルデュール」から見た四季の風景を綴った曲。この中に出てくる老夫婦は『[ポセイドン・アドベンチャー](https://ja.wikipedia.org/wiki/ポセイドン・アドベンチャー "wikilink")』の老夫婦がモデルとされていて、この曲や「理想の夫婦」を語る際この映画を例に挙げている。苗場のライブでのリクエストで唄う場合には、[ライブ会場に配慮してラストのサビの部分を変えて唄っている](https://ja.wikipedia.org/wiki/プリンスホテル "wikilink")(さびれた→いつもの)。
+        [2002年](../Page/2002年.md "wikilink")[1月27日](../Page/1月27日.md "wikilink")に営業を終了した、[千鳥ヶ淵](https://ja.wikipedia.org/wiki/千鳥ヶ淵 "wikilink")沿いのフェヤーモントホテルのティールーム「ブラスリー・ドゥ・ラ・ヴェルデュール」から見た四季の風景を綴った曲。この中に出てくる老夫婦は『[ポセイドン・アドベンチャー](../Page/ポセイドン・アドベンチャー.md "wikilink")』の老夫婦がモデルとされていて、この曲や「理想の夫婦」を語る際この映画を例に挙げている。苗場のライブでのリクエストで唄う場合には、[ライブ会場に配慮してラストのサビの部分を変えて唄っている](../Page/プリンスホテル.md "wikilink")(さびれた→いつもの)。
 
 ## 参加ミュージシャン
 
   - ドラム：[林立夫](../Page/林立夫.md "wikilink")
   - ベース：[高水健司](https://ja.wikipedia.org/wiki/高水健司 "wikilink")
-  - キーボード：[松任谷正隆](https://ja.wikipedia.org/wiki/松任谷正隆 "wikilink")
-  - エレクトリック・ギター：[安藤まさひろ](https://ja.wikipedia.org/wiki/安藤正容 "wikilink")、[今剛](https://ja.wikipedia.org/wiki/今剛 "wikilink")、[松原正樹](../Page/松原正樹.md "wikilink")、[鈴木茂](../Page/鈴木茂_\(ギタリスト\).md "wikilink")
+  - キーボード：[松任谷正隆](../Page/松任谷正隆.md "wikilink")
+  - エレクトリック・ギター：[安藤まさひろ](../Page/安藤正容.md "wikilink")、[今剛](../Page/今剛.md "wikilink")、[松原正樹](../Page/松原正樹.md "wikilink")、[鈴木茂](../Page/鈴木茂_\(ギタリスト\).md "wikilink")
   - アコースティック・ギター：[瀬戸龍介](https://ja.wikipedia.org/wiki/瀬戸龍介 "wikilink")、[吉川忠英](../Page/吉川忠英.md "wikilink")
   - パーカッション：[浜口茂外也](https://ja.wikipedia.org/wiki/浜口茂外也 "wikilink")、[斎藤ノブ](https://ja.wikipedia.org/wiki/斎藤ノブ "wikilink")、Pecker
   - サキソフォン&フルート：[Jake H. Conception](https://ja.wikipedia.org/wiki/ジェイク・コンセプション "wikilink")
   - トランペット&フリューゲルホルン：[数原晋](../Page/数原晋.md "wikilink")
   - トロンボーン：新井英治
   - ストリングス：日色グループ
-  - コーラス：[BUZZ](https://ja.wikipedia.org/wiki/バズ_\(バンド\) "wikilink")、[Lilica、Leona、Clara](https://ja.wikipedia.org/wiki/EVE_\(歌手グループ\) "wikilink")、桐ヶ谷仁、桐ヶ谷"Bobby"俊博、[須藤薫](https://ja.wikipedia.org/wiki/須藤薫 "wikilink")、平塚文子、松任谷由実
+  - コーラス：[BUZZ](https://ja.wikipedia.org/wiki/バズ_\(バンド\) "wikilink")、[Lilica、Leona、Clara](https://ja.wikipedia.org/wiki/EVE_\(歌手グループ\) "wikilink")、桐ヶ谷仁、桐ヶ谷"Bobby"俊博、[須藤薫](../Page/須藤薫.md "wikilink")、平塚文子、松任谷由実
   - シンセサイザー・プログラミング：[浦田恵司](https://ja.wikipedia.org/wiki/浦田恵司 "wikilink")
 
 ## 脚注

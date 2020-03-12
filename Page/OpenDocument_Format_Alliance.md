@@ -1,7 +1,7 @@
 > この記事は[OpenDocument Format Alliance](https://ja.wikipedia.org/wiki/OpenDocument_Format_Alliance)から翻訳されています。
 
 
-**OpenDocument Format Alliance**（オープンドキュメント・フォーマット・アライアンス）は、[OpenDocument](../Page/OpenDocument.md "wikilink")の[ロビー活動](../Page/ロビー活動.md "wikilink")団体である。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月3日](../Page/3月3日.md "wikilink")に発足した。[2009年](../Page/2009年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")現在、607の団体が加盟している。\[1\]
+**OpenDocument Format Alliance**（オープンドキュメント・フォーマット・アライアンス）は、[OpenDocument](../Page/OpenDocument.md "wikilink")の[ロビー活動](../Page/ロビー活動.md "wikilink")団体である。[2006年](../Page/2006年.md "wikilink")[3月3日](../Page/3月3日.md "wikilink")に発足した。[2009年](../Page/2009年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")現在、607の団体が加盟している。\[1\]
 
 ## 加盟団体
 
@@ -51,7 +51,7 @@
   - APPS Global Pty Ltd
   - APRIL
   - ArcheTech Srl
-  - [Ark Linux](https://ja.wikipedia.org/wiki/Ark_Linux "wikilink")
+  - [Ark Linux](../Page/Ark_Linux.md "wikilink")
   - ARKNUS (Mexico)
   - Ars Aperta
   - ARsT Design / Stephane Rodriguez
@@ -109,10 +109,10 @@
   - China Standard Software Co.,Ltd. (CS2C)
   - ChinaSoft Resource Corporation
   - CIGNEX Technologies, Inc.
-  - [ブルーミントン(City of Bloomington)](https://ja.wikipedia.org/wiki/ブルーミントン_\(インディアナ州\) "wikilink")
-  - [フライブルク(City of Freiburg)](https://ja.wikipedia.org/wiki/フライブルク・イム・ブライスガウ "wikilink")
+  - [ブルーミントン(City of Bloomington)](../Page/ブルーミントン_\(インディアナ州\).md "wikilink")
+  - [フライブルク(City of Freiburg)](../Page/フライブルク・イム・ブライスガウ.md "wikilink")
   - City of Largo
-  - [シュヴェービッシュ・ハル of Schwaebisch Hall)](https://ja.wikipedia.org/wiki/シュヴェービッシュ・ハル "wikilink")(City
+  - [シュヴェービッシュ・ハル of Schwaebisch Hall)](../Page/シュヴェービッシュ・ハル.md "wikilink")(City
   - City of Vienna - ICT
   - Clark Marketing Ltd
   - Coeusoft SA
@@ -258,7 +258,7 @@
   - iHorizons
   - Illuminance Technologies
   - ImanTouch Cameroon
-  - [インド工科大学 Institutes of Technology)](https://ja.wikipedia.org/wiki/インド工科大学 "wikilink")(Indian(IIT)
+  - [インド工科大学 Institutes of Technology)](../Page/インド工科大学.md "wikilink")(Indian(IIT)
   - Individuelle Internet Loesungen | sbihl
   - Indy Associates
   - Informatica.Com.Md

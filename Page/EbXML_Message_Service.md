@@ -1,9 +1,9 @@
 > この記事は[EbXML Message Service](https://ja.wikipedia.org/wiki/EbXML_Message_Service)から翻訳されています。
 
 
-**ebXML Message Service** (**ebMS**) は、[ebXML](https://ja.wikipedia.org/wiki/ebXML "wikilink")の仕様のひとつで、企業間[電子商取引](../Page/電子商取引.md "wikilink")でやりとりするメッセージをインターネットを通じて伝送するための仕様である。[OASIS](https://ja.wikipedia.org/wiki/OASIS_\(組織\) "wikilink") ebXML Messaging Services技術委員会で仕様策定が行われている。
+**ebXML Message Service** (**ebMS**) は、[ebXML](https://ja.wikipedia.org/wiki/ebXML "wikilink")の仕様のひとつで、企業間[電子商取引](../Page/電子商取引.md "wikilink")でやりとりするメッセージをインターネットを通じて伝送するための仕様である。[OASIS](../Page/OASIS_\(組織\).md "wikilink") ebXML Messaging Services技術委員会で仕様策定が行われている。
 
-ebMSは[SOAPをベースとしており](../Page/SOAP_\(プロトコル\).md "wikilink")、企業間電子商取引に求められる安全性や信頼性をインターネット上で確保するための機構を追加している。とりわけ特徴的なのは、メッセージが確実に通信相手に届いたかどうかを保証する**信頼性通信** (reliable messaging) である。受領通知、リトライ、重複除去といった仕組みを組み合わせて信頼性を実現する仕様を定めている。この機構は[Webサービス](https://ja.wikipedia.org/wiki/Webサービス "wikilink")で同様の信頼性を実現する仕様[WS-Reliability](https://ja.wikipedia.org/wiki/WS-Reliability "wikilink")の元になった。
+ebMSは[SOAPをベースとしており](../Page/SOAP_\(プロトコル\).md "wikilink")、企業間電子商取引に求められる安全性や信頼性をインターネット上で確保するための機構を追加している。とりわけ特徴的なのは、メッセージが確実に通信相手に届いたかどうかを保証する**信頼性通信** (reliable messaging) である。受領通知、リトライ、重複除去といった仕組みを組み合わせて信頼性を実現する仕様を定めている。この機構は[Webサービス](../Page/Webサービス.md "wikilink")で同様の信頼性を実現する仕様[WS-Reliability](https://ja.wikipedia.org/wiki/WS-Reliability "wikilink")の元になった。
 
 ebMSバージョン2.0 (2002年) はOASIS標準として承認されたのち、[ISOに提出されてISO](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")/TS 15000-2として承認された。
 

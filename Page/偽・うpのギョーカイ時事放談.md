@@ -1,11 +1,11 @@
 > この記事は[p](https://ja.wikipedia.org/wiki/p)から翻訳されています。
 
 
-**偽・うpのギョーカイ時事放談**（にせ・うぷのギョーカイじじほうだん）は、パーソナリティの所属会社の作品プロモーションを目的としたトーク番組。第2期の**偽・うpのギョーカイ時事放談SUPER\!**（にせ・うぷのギョーカイじじほうだんスーパー\!）、第3期の**のら犬兄弟のギョーカイ時事放談**（のらいぬきょうだいのギョーカイじじほうだん）、第4期の**のら犬ブラザースのアニメ\!ギョーカイ時事放談**（のらいぬブラザースのアニメギョーカイじじほうだん）についても述べる。[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。CM提供は、どの番組も[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")（旧[メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")）が行っている。
+**偽・うpのギョーカイ時事放談**（にせ・うぷのギョーカイじじほうだん）は、パーソナリティの所属会社の作品プロモーションを目的としたトーク番組。第2期の**偽・うpのギョーカイ時事放談SUPER\!**（にせ・うぷのギョーカイじじほうだんスーパー\!）、第3期の**のら犬兄弟のギョーカイ時事放談**（のらいぬきょうだいのギョーカイじじほうだん）、第4期の**のら犬ブラザースのアニメ\!ギョーカイ時事放談**（のらいぬブラザースのアニメギョーカイじじほうだん）についても述べる。[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。CM提供は、どの番組も[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")（旧[メディアワークス](../Page/メディアワークス.md "wikilink")）が行っている。
 
 ## 概要
 
-ジェネオンエンタテインメント（開始当時）のプロデューサーの「偽まる」こと[川瀬浩平](https://ja.wikipedia.org/wiki/川瀬浩平 "wikilink")と、川瀬と親交の深いショウゲートのプロデューサー（開始当時）の「UPLIFT」こと[伊平崇耶](https://ja.wikipedia.org/wiki/伊平崇耶 "wikilink")が、『アニメに関連する人物をゲストに招いて話を聞き、プロデューサーとしての勉強をして、「売れないプロデューサー」という冠を返上すべくがんばっていこうという体でやっていく』インターネットラジオ番組としてスタート。
+ジェネオンエンタテインメント（開始当時）のプロデューサーの「偽まる」こと[川瀬浩平](../Page/川瀬浩平.md "wikilink")と、川瀬と親交の深いショウゲートのプロデューサー（開始当時）の「UPLIFT」こと[伊平崇耶](../Page/伊平崇耶.md "wikilink")が、『アニメに関連する人物をゲストに招いて話を聞き、プロデューサーとしての勉強をして、「売れないプロデューサー」という冠を返上すべくがんばっていこうという体でやっていく』インターネットラジオ番組としてスタート。
 
 2007年5月からキャララジオ内にて4回配信を行ったところ各方面から大きな反響があり、偽まるの上司の指示により同年10月から新番組としてスタートすることとなる。
 
@@ -39,11 +39,11 @@
   - \#1 ☆[上田耕行](https://ja.wikipedia.org/wiki/上田耕行 "wikilink")（ジェネオンエンタテインメント制作本部第2制作部　チーフプロデューサー）
   - \#2 ☆[Jenya](https://ja.wikipedia.org/wiki/Jenya "wikilink")（コーディネーター）
   - \#3 [浅野真澄](../Page/浅野真澄.md "wikilink")（声優）
-  - \#3,\#4 [生天目仁美](https://ja.wikipedia.org/wiki/生天目仁美 "wikilink")（声優）
+  - \#3,\#4 [生天目仁美](../Page/生天目仁美.md "wikilink")（声優）
 
 ## 偽・うpのギョーカイ時事放談SUPER\!
 
-2007年[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")-2008年[3月27日](../Page/3月27日.md "wikilink")：[RONDO ROBE公式サイトにて毎週木曜](https://ja.wikipedia.org/wiki/RONDO_ROBE "wikilink")19時00分に配信された。ジェネオンエンタテインメント・ショウゲート提供。
+2007年[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")-2008年[3月27日](../Page/3月27日.md "wikilink")：[RONDO ROBE公式サイトにて毎週木曜](../Page/RONDO_ROBE.md "wikilink")19時00分に配信された。ジェネオンエンタテインメント・ショウゲート提供。
 
 ### パーソナリティ
 
@@ -64,21 +64,21 @@
 
   - \#01,02 ☆ゲストなし
   - \#03,04 ☆里見哲朗（バーナムスタジオ アニメーションプロデューサー）
-  - \#05,06 [水島努](https://ja.wikipedia.org/wiki/水島努 "wikilink")（アニメ監督）・[山本寛](https://ja.wikipedia.org/wiki/山本寛_\(アニメ演出家\) "wikilink")（演出家）
+  - \#05,06 [水島努](../Page/水島努.md "wikilink")（アニメ監督）・[山本寛](../Page/山本寛_\(アニメ演出家\).md "wikilink")（演出家）
   - \#07,08 [ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")プロデューサー陣
-  - \#09,10 [後藤麻衣](https://ja.wikipedia.org/wiki/後藤麻衣_\(声優\) "wikilink")（声優）
+  - \#09,10 [後藤麻衣](../Page/後藤麻衣_\(声優\).md "wikilink")（声優）
   - \#11,12 ☆[松倉友二](../Page/松倉友二.md "wikilink")（[J.C.STAFF](../Page/ジェー・シー・スタッフ.md "wikilink") アニメーションプロデューサー）
   - \#13,14 生天目仁美（声優）
   - \#15,16 ☆[大和田秀樹](../Page/大和田秀樹.md "wikilink")（漫画家）
-  - 特別放送（年末公開録音） 生天目仁美・[伊藤静](https://ja.wikipedia.org/wiki/伊藤静 "wikilink")（声優）
-  - \#17,18 ☆里見哲朗・[杉本誠司](https://ja.wikipedia.org/wiki/杉本誠司 "wikilink")（[ニワンゴ](https://ja.wikipedia.org/wiki/ニワンゴ "wikilink")代表取締役）
-  - \#19,20 ☆[木谷高明](https://ja.wikipedia.org/wiki/木谷高明 "wikilink")（[ブシロード](https://ja.wikipedia.org/wiki/ブシロード "wikilink")代表取締役社長）
+  - 特別放送（年末公開録音） 生天目仁美・[伊藤静](../Page/伊藤静.md "wikilink")（声優）
+  - \#17,18 ☆里見哲朗・[杉本誠司](https://ja.wikipedia.org/wiki/杉本誠司 "wikilink")（[ニワンゴ](../Page/ニワンゴ.md "wikilink")代表取締役）
+  - \#19,20 ☆[木谷高明](../Page/木谷高明.md "wikilink")（[ブシロード](../Page/ブシロード.md "wikilink")代表取締役社長）
   - \#21,22 ☆佐藤進哉（[ビットウェイ](../Page/ビットウェイ.md "wikilink")アニ★ロコ事業部長）
   - \#23,24 ☆里見哲朗
 
 ### 備考
 
-  - 第4回配信分で、[ニコニコ動画](https://ja.wikipedia.org/wiki/ニコニコ動画 "wikilink")などインターネットを介した違法アップロードについて言及したところ、想定外の反響があり、ウェブ上のあちこちで取り上げられた。このことは後の配信分で半ば[黒歴史](../Page/黒歴史.md "wikilink")として話題にのぼることがある。また、このことがきっかけで第17回・第18回配信分でニワンゴ代表取締役の杉本誠司をゲストとして迎えることになる（一方で、第4回ゲストの里見哲朗は第2回ニコニコ国際映画祭の審査員として招待されている）。
+  - 第4回配信分で、[ニコニコ動画](../Page/ニコニコ動画.md "wikilink")などインターネットを介した違法アップロードについて言及したところ、想定外の反響があり、ウェブ上のあちこちで取り上げられた。このことは後の配信分で半ば[黒歴史](../Page/黒歴史.md "wikilink")として話題にのぼることがある。また、このことがきっかけで第17回・第18回配信分でニワンゴ代表取締役の杉本誠司をゲストとして迎えることになる（一方で、第4回ゲストの里見哲朗は第2回ニコニコ国際映画祭の審査員として招待されている）。
 
 ## 偽・うpのギョーカイ時事放談SUPER\! スペシャル\!
 
@@ -95,14 +95,14 @@
 
 ### ゲスト
 
-  - \#1 **[こはるびより](https://ja.wikipedia.org/wiki/こはるびより "wikilink")**　[喜多村英梨](https://ja.wikipedia.org/wiki/喜多村英梨 "wikilink")・[明坂聡美](https://ja.wikipedia.org/wiki/明坂聡美 "wikilink")（声優）
-  - \#2 **[灼眼のシャナ](https://ja.wikipedia.org/wiki/灼眼のシャナ "wikilink")**　[釘宮理恵](https://ja.wikipedia.org/wiki/釘宮理恵 "wikilink")・[日野聡](https://ja.wikipedia.org/wiki/日野聡 "wikilink")（声優）
-  - \#3 **[乃木坂春香の秘密](https://ja.wikipedia.org/wiki/乃木坂春香の秘密 "wikilink")**　[能登麻美子](https://ja.wikipedia.org/wiki/能登麻美子 "wikilink")、[後藤麻衣](https://ja.wikipedia.org/wiki/後藤麻衣_\(声優\) "wikilink")（声優）
-  - \#4 ☆**[撲殺天使ドクロちゃん](https://ja.wikipedia.org/wiki/撲殺天使ドクロちゃん "wikilink")**　[おかゆまさき](https://ja.wikipedia.org/wiki/おかゆまさき "wikilink")（小説家）・[三木一馬](https://ja.wikipedia.org/wiki/三木一馬 "wikilink")（メディアワークス [電撃文庫](../Page/電撃文庫.md "wikilink")編集部員） 電撃15年祭での公開録音の模様
+  - \#1 **[こはるびより](../Page/こはるびより.md "wikilink")**　[喜多村英梨](../Page/喜多村英梨.md "wikilink")・[明坂聡美](../Page/明坂聡美.md "wikilink")（声優）
+  - \#2 **[灼眼のシャナ](../Page/灼眼のシャナ.md "wikilink")**　[釘宮理恵](https://ja.wikipedia.org/wiki/釘宮理恵 "wikilink")・[日野聡](../Page/日野聡.md "wikilink")（声優）
+  - \#3 **[乃木坂春香の秘密](../Page/乃木坂春香の秘密.md "wikilink")**　[能登麻美子](https://ja.wikipedia.org/wiki/能登麻美子 "wikilink")、[後藤麻衣](../Page/後藤麻衣_\(声優\).md "wikilink")（声優）
+  - \#4 ☆**[撲殺天使ドクロちゃん](../Page/撲殺天使ドクロちゃん.md "wikilink")**　[おかゆまさき](../Page/おかゆまさき.md "wikilink")（小説家）・[三木一馬](https://ja.wikipedia.org/wiki/三木一馬 "wikilink")（メディアワークス [電撃文庫](../Page/電撃文庫.md "wikilink")編集部員） 電撃15年祭での公開録音の模様
 
 ## のら犬兄弟のギョーカイ時事放談\!
 
-2008年4月3日-2015年3月25日：[RONDO ROBE公式サイトにて毎週木曜](https://ja.wikipedia.org/wiki/RONDO_ROBE "wikilink")19時00分に配信（2011年の129回より毎週水曜19時00分に変更）。ジェネオンエンタテインメント（現ジェネオン・ユニバーサル\#1-\#140）・[日活](../Page/日活.md "wikilink")（\#103-\#271、生放送回のみ）・[ビッグローブ](https://ja.wikipedia.org/wiki/ビッグローブ "wikilink")アニメワン（\#103より生放送のみ）・キャララジオ（\#1-102まで、\#104より収録放送のみ）・マベリカ(\#30より)・バーナムスタジオ（\#272-）提供。CM提供はアスキー・メディアワークス・cafe apartment。
+2008年4月3日-2015年3月25日：[RONDO ROBE公式サイトにて毎週木曜](../Page/RONDO_ROBE.md "wikilink")19時00分に配信（2011年の129回より毎週水曜19時00分に変更）。ジェネオンエンタテインメント（現ジェネオン・ユニバーサル\#1-\#140）・[日活](../Page/日活.md "wikilink")（\#103-\#271、生放送回のみ）・[ビッグローブ](https://ja.wikipedia.org/wiki/ビッグローブ "wikilink")アニメワン（\#103より生放送のみ）・キャララジオ（\#1-102まで、\#104より収録放送のみ）・マベリカ(\#30より)・バーナムスタジオ（\#272-）提供。CM提供はアスキー・メディアワークス・cafe apartment。
 
 ### 沿革
 
@@ -131,50 +131,50 @@
   - \#01,02 ☆轟豊太（[エモーション](../Page/バンダイビジュアル.md "wikilink") プロデューサー）、[中山信宏](https://ja.wikipedia.org/wiki/中山信宏 "wikilink")（ジェネオンエンタテインメント制作本部第2制作部 プロデューサー）
   - \#03,04 渡辺隆（[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink") プロデューサー）、川原陽子（[ゴンゾ](../Page/ゴンゾ.md "wikilink") プロデューサー）、木立己百花（ゴンゾ プロモーター）
   - \#04 髙取昌史（ポニーキャニオン プロデューサー）
-  - \#06,07 ☆[山田真哉](https://ja.wikipedia.org/wiki/山田真哉 "wikilink")（公認会計士、「[さおだけ屋はなぜ潰れないのか?](https://ja.wikipedia.org/wiki/さおだけ屋はなぜ潰れないのか? "wikilink")」「[女子大生会計士の事件簿](../Page/女子大生会計士の事件簿.md "wikilink")」著者）
-  - \#08,09 ☆[大野修一](https://ja.wikipedia.org/wiki/大野修一 "wikilink")（[徳間書店](../Page/徳間書店.md "wikilink") [月刊COMICリュウ](https://ja.wikipedia.org/wiki/月刊COMICリュウ "wikilink")編集長）
+  - \#06,07 ☆[山田真哉](../Page/山田真哉.md "wikilink")（公認会計士、「[さおだけ屋はなぜ潰れないのか?](https://ja.wikipedia.org/wiki/さおだけ屋はなぜ潰れないのか? "wikilink")」「[女子大生会計士の事件簿](../Page/女子大生会計士の事件簿.md "wikilink")」著者）
+  - \#08,09 ☆[大野修一](../Page/大野修一.md "wikilink")（[徳間書店](../Page/徳間書店.md "wikilink") [月刊COMICリュウ](../Page/月刊COMICリュウ.md "wikilink")編集長）
   - \#12,13 ☆高橋祐馬（[アニプレックス](../Page/アニプレックス.md "wikilink") 宣伝プロデューサー）
   - \#13 ☆中山信宏（ジェネオンエンタテインメント制作本部第2制作部 プロデューサー）
-  - \#14 ☆[明治大学](https://ja.wikipedia.org/wiki/明治大学 "wikilink")アニメ・声優研究会
-  - \#16,17 高尾俊太郎（[学習研究社](../Page/学研ホールディングス.md "wikilink") [メガミマガジン](https://ja.wikipedia.org/wiki/メガミマガジン "wikilink")編集長）
+  - \#14 ☆[明治大学](../Page/明治大学.md "wikilink")アニメ・声優研究会
+  - \#16,17 高尾俊太郎（[学習研究社](../Page/学研ホールディングス.md "wikilink") [メガミマガジン](../Page/メガミマガジン.md "wikilink")編集長）
   - \#18,19 ☆おかゆまさき（小説家）、三木一馬（アスキー・メディアワークス [電撃文庫](../Page/電撃文庫.md "wikilink")編集部員）
-  - \#24,25 ☆[米たにヨシトモ](https://ja.wikipedia.org/wiki/米たにヨシトモ "wikilink")（アニメーション監督）
+  - \#24,25 ☆[米たにヨシトモ](../Page/米たにヨシトモ.md "wikilink")（アニメーション監督）
   - \#28 ☆松倉友二（J.C.STAFF アニメーションプロデューサー）
   - \#29 ☆山田真哉（公認会計士）、 伊平崇耶（UPLIFT 日活)
   - \#30 川瀬浩平（偽まる　ジェネオンエンタテインメント制作本部第2制作部 プロデューサー）
   - \#32,33 山田真哉（公認会計士）、野崎岳彦（[角川書店](../Page/角川書店.md "wikilink")第二編集部副部長）、女井正浩（[富士見書房](../Page/富士見書房.md "wikilink")[ドラゴンマガジン](https://ja.wikipedia.org/wiki/ドラゴンマガジン "wikilink")編集長）
-  - \#34,35 角川書店[ニュータイプロマンス編集部の女性編集者](https://ja.wikipedia.org/wiki/月刊ニュータイプ "wikilink")（糸井明日香、梅津友美、ロマ子）
-  - \#38,39 [筆谷芳行](https://ja.wikipedia.org/wiki/筆谷芳行 "wikilink")（[少年画報社](../Page/少年画報社.md "wikilink")[ヤングキングアワーズ](https://ja.wikipedia.org/wiki/ヤングキングアワーズ "wikilink")編集長）、上田耕行（ジェネオンエンタテインメント制作本部第2制作部 チーフプロデューサー）
+  - \#34,35 角川書店[ニュータイプロマンス編集部の女性編集者](../Page/月刊ニュータイプ.md "wikilink")（糸井明日香、梅津友美、ロマ子）
+  - \#38,39 [筆谷芳行](../Page/筆谷芳行.md "wikilink")（[少年画報社](../Page/少年画報社.md "wikilink")[ヤングキングアワーズ](../Page/ヤングキングアワーズ.md "wikilink")編集長）、上田耕行（ジェネオンエンタテインメント制作本部第2制作部 チーフプロデューサー）
   - \#40,41 大和田秀樹（漫画家）
   - \#42,43 [長島☆自演乙☆雄一郎](https://ja.wikipedia.org/wiki/長島☆自演乙☆雄一郎 "wikilink")（[コスプレ](../Page/コスプレ.md "wikilink")イヤー、[キックボクサー](https://ja.wikipedia.org/wiki/キックボクサー "wikilink")）
   - \#43 川瀬浩平（偽まる　ジェネオンエンタテインメント制作本部第2制作部 プロデューサー）、電話出演：中山信宏（ジェネオンエンタテインメント制作本部第2制作部 プロデューサー）
-  - \#44,45 [岩浪美和](https://ja.wikipedia.org/wiki/岩浪美和 "wikilink")（[音響監督](https://ja.wikipedia.org/wiki/音響監督 "wikilink")）
-  - \#48,49 武器屋桃太郎（[喜屋武ちあき](https://ja.wikipedia.org/wiki/喜屋武ちあき "wikilink")）、流原蓮次（[原田まりる](https://ja.wikipedia.org/wiki/原田まりる "wikilink")）（[腐男塾](https://ja.wikipedia.org/wiki/腐男塾 "wikilink")\[2\]）
+  - \#44,45 [岩浪美和](../Page/岩浪美和.md "wikilink")（[音響監督](../Page/音響監督.md "wikilink")）
+  - \#48,49 武器屋桃太郎（[喜屋武ちあき](../Page/喜屋武ちあき.md "wikilink")）、流原蓮次（[原田まりる](../Page/原田まりる.md "wikilink")）（[腐男塾](https://ja.wikipedia.org/wiki/腐男塾 "wikilink")\[2\]）
   - \#50,51 黒瀬真也（角川書店「Newtype THE LIVE 特撮ニュータイプ」編集部 副編集長）
   - \#52,53 [井上敏樹](../Page/井上敏樹.md "wikilink")（[脚本家](../Page/脚本家.md "wikilink")）
   - \#55 川瀬浩平（偽まる　ジェネオンエンタテインメント制作本部第2制作部 プロデューサー）
   - \#56,57 おかゆまさき（小説家）、三木一馬（アスキー・メディアワークス 電撃文庫編集部員）
   - \#60,61 高橋祐馬（アニプレックス 宣伝プロデューサー）、鈴木健太（アニプレックス 宣伝）
   - \#62,63 [桃井はるこ](../Page/桃井はるこ.md "wikilink")（声優）
-  - \#64,65 [生天目仁美](https://ja.wikipedia.org/wiki/生天目仁美 "wikilink")（声優）
-  - \#66 [伊瀬茉莉也](https://ja.wikipedia.org/wiki/伊瀬茉莉也 "wikilink")（声優）
+  - \#64,65 [生天目仁美](../Page/生天目仁美.md "wikilink")（声優）
+  - \#66 [伊瀬茉莉也](../Page/伊瀬茉莉也.md "wikilink")（声優）
   - \#66,67 中山信宏（ジェネオン・ユニバーサル・エンタテイメント制作本部第2制作部 プロデューサー）
   - \#68 里見哲朗、岩浪美和（音響監督）
   - \#69 里見哲朗、[板垣伸](../Page/板垣伸.md "wikilink")（アニメーション監督）
   - \#70 ギョーカイ時事放談！ SF スペシャル in 塩原
-  - \#71,72 [影山ヒロノブ](https://ja.wikipedia.org/wiki/影山ヒロノブ "wikilink")（歌手）
+  - \#71,72 [影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink")（歌手）
   - \#73 喜多村英梨（声優）　コミックマーケット公開録音76
   - \#74,75 塚本浩司（[COMIC ZIN](https://ja.wikipedia.org/wiki/COMIC_ZIN "wikilink") コミックバイヤー）
-  - \#76,77 [小林治](https://ja.wikipedia.org/wiki/小林治_\(ライター\) "wikilink")（フリーランスのアニメ系ライター・ラジオ番組構成作家）
+  - \#76,77 [小林治](../Page/小林治_\(ライター\).md "wikilink")（フリーランスのアニメ系ライター・ラジオ番組構成作家）
   - \#78,79 [田口清隆](https://ja.wikipedia.org/wiki/田口清隆 "wikilink")（特撮監督）
-  - \#82,83 [佐藤利奈](https://ja.wikipedia.org/wiki/佐藤利奈 "wikilink")（声優）
-  - \#88,89 ミサコ・ロックス（[NY在住](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink") [漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")）
+  - \#82,83 [佐藤利奈](../Page/佐藤利奈.md "wikilink")（声優）
+  - \#88,89 ミサコ・ロックス（[NY在住](../Page/ニューヨーク.md "wikilink") [漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")）
   - \#90,91 大和田秀樹（漫画家）
-  - \#92,93 [久松ゆのみ](https://ja.wikipedia.org/wiki/久松ゆのみ "wikilink")（漫画家、[リスナー](https://ja.wikipedia.org/wiki/リスナー "wikilink") こみゅ）
+  - \#92,93 [久松ゆのみ](https://ja.wikipedia.org/wiki/久松ゆのみ "wikilink")（漫画家、[リスナー](../Page/リスナー.md "wikilink") こみゅ）
   - \#95 中山信宏（ジェネオン・ユニバーサル・エンタテイメント制作本部第2制作部 プロデューサー）
   - \#96,97 [吉浦康裕](https://ja.wikipedia.org/wiki/吉浦康裕 "wikilink")、里見哲朗
   - \#98,99 100回直前スペシャル「素顔のレスキューファイアー全員緊急出場！」
-      - [岩本晶](https://ja.wikipedia.org/wiki/岩本晶 "wikilink")（[レスキューファイアー](https://ja.wikipedia.org/wiki/レスキューファイアー "wikilink")監督)、[久保翔](https://ja.wikipedia.org/wiki/久保翔 "wikilink")（炎タツヤ役）、[川田祐](https://ja.wikipedia.org/wiki/川田祐 "wikilink")（恵ユウマ役）、[中村優](https://ja.wikipedia.org/wiki/中村優 "wikilink")（雪リツカ役）、[福山一樹](https://ja.wikipedia.org/wiki/福山一樹 "wikilink")（葵ツバサ役）、[水野真典](https://ja.wikipedia.org/wiki/水野真典 "wikilink")（航ジュン役）
+      - [岩本晶](https://ja.wikipedia.org/wiki/岩本晶 "wikilink")（[レスキューファイアー](https://ja.wikipedia.org/wiki/レスキューファイアー "wikilink")監督)、[久保翔](https://ja.wikipedia.org/wiki/久保翔 "wikilink")（炎タツヤ役）、[川田祐](https://ja.wikipedia.org/wiki/川田祐 "wikilink")（恵ユウマ役）、[中村優](../Page/中村優.md "wikilink")（雪リツカ役）、[福山一樹](https://ja.wikipedia.org/wiki/福山一樹 "wikilink")（葵ツバサ役）、[水野真典](https://ja.wikipedia.org/wiki/水野真典 "wikilink")（航ジュン役）
   - \#100,101 100、101回スペシャル のら犬ファミリーの皆さん（里見哲朗、中山信宏、大和田秀樹、岩浪美和）
   - \#104 伊藤静
   - \#105 後藤麻衣
@@ -184,14 +184,14 @@
   - \#111 なかやまのぶひろのギョーカイ時事放談（中山信宏、生天目仁美）
   - \#114 三木一馬
   - \#116,117 藤津亮太（アニメ評論家）
-  - \#118 [坂巻学](https://ja.wikipedia.org/wiki/坂巻学 "wikilink")、[越田直樹](https://ja.wikipedia.org/wiki/越田直樹 "wikilink")、[市来光弘](https://ja.wikipedia.org/wiki/市来光弘 "wikilink")、三木一馬、[いとうのいぢ](https://ja.wikipedia.org/wiki/いとうのいぢ "wikilink")、鳩岡桃子（とある出版社のとあるWEBサイトの編集者）
+  - \#118 [坂巻学](https://ja.wikipedia.org/wiki/坂巻学 "wikilink")、[越田直樹](../Page/越田直樹.md "wikilink")、[市来光弘](../Page/市来光弘.md "wikilink")、三木一馬、[いとうのいぢ](../Page/いとうのいぢ.md "wikilink")、鳩岡桃子（とある出版社のとあるWEBサイトの編集者）
   - \#120,121,122 スタパ斎藤
   - \#123 鈴木健太（アニプレックス）、坪井亮祐（[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")）、笠井純（[メディアファクトリー](../Page/メディアファクトリー.md "wikilink")）
   - \#124,125,126 Yasuyuki Ueda（ジェネオン・ユニバーサル）
   - \#129 岩浪美和、中山信宏（生放送）
   - \#130,131 大和田秀樹
   - \#134,135 復活！峠のラジオ（佐藤利奈）
-  - \#136 [明坂聡美](https://ja.wikipedia.org/wiki/明坂聡美 "wikilink")、中山信宏（生放送）
+  - \#136 [明坂聡美](../Page/明坂聡美.md "wikilink")、中山信宏（生放送）
   - \#137,138 エスウッド鈴木
   - \#139,140 おかゆまさき、三木一馬
   - \#141 生天目仁美、後藤麻衣（生放送）
@@ -203,9 +203,9 @@
   - \#158 生天目仁美（電話ゲスト）（生放送）
   - \#160 [新人声優ユニット 名称未定](https://ja.wikipedia.org/wiki/SAY!_YOU!_SAY!_ME! "wikilink")（[古木のぞみ](https://ja.wikipedia.org/wiki/古木のぞみ "wikilink")、[藤村鼓乃美](https://ja.wikipedia.org/wiki/藤村鼓乃美 "wikilink")、[三上遥香](https://ja.wikipedia.org/wiki/三上遥香 "wikilink")、[森千早都](https://ja.wikipedia.org/wiki/森千早都 "wikilink")）
   - \#164 里見哲朗（[日本SF大会](../Page/日本SF大会.md "wikilink")）
-  - \#165,166 [清水香里](https://ja.wikipedia.org/wiki/清水香里 "wikilink")、[植田佳奈](https://ja.wikipedia.org/wiki/植田佳奈 "wikilink")
+  - \#165,166 [清水香里](../Page/清水香里.md "wikilink")、[植田佳奈](https://ja.wikipedia.org/wiki/植田佳奈 "wikilink")
   - \#167 [上坂すみれ](https://ja.wikipedia.org/wiki/上坂すみれ "wikilink") (生放送)
-  - \#169,170 岩浪美和、[森川智之](https://ja.wikipedia.org/wiki/森川智之 "wikilink")、[野島健児](https://ja.wikipedia.org/wiki/野島健児_\(声優\) "wikilink")
+  - \#169,170 岩浪美和、[森川智之](../Page/森川智之.md "wikilink")、[野島健児](../Page/野島健児_\(声優\).md "wikilink")
   - \#171 岩浪美和(生放送)
   - \#173,174 ABI（BDA：ブルーレイディスク・アソシエーション）、[山中隆弘](https://ja.wikipedia.org/wiki/山中隆弘 "wikilink")（[キングレコード](../Page/キングレコード.md "wikilink")）
   - \#178,179 生天目仁美
@@ -230,7 +230,7 @@
   - \#237,238 中山信宏、太田勝也（ジェネオン・ユニバーサル）
   - \#244 三木一馬、渡辺隆（アスキー・メディアワークス）、轟豊太（フロンティアワークス）、大和田智之（[BS11](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")） （公開録音）
   - \#245,246 鳩岡桃子（角川書店「月刊ニュータイプ」編集部員）
-  - \#247 田中潤一朗（[TBS](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")）、髙取昌史、野島鉄平（ポニーキャニオン） （生放送）
+  - \#247 田中潤一朗（[TBS](../Page/TBSテレビ.md "wikilink")）、髙取昌史、野島鉄平（ポニーキャニオン） （生放送）
   - \#252 森千早都（生放送）
   - \#257,258 青木健（ラーメン評論家・イラストレーター・漫画家）
   - \#259 藤村鼓乃美
@@ -239,7 +239,7 @@
   - \#272 アニメ仮面
   - \#279,280 髙取昌史
   - \#281,282 大和田秀樹（\#281 生放送）
-  - \#293,294 山口朋（[タカラトミー](https://ja.wikipedia.org/wiki/タカラトミー "wikilink") カード企画部）、白鳥男也 （タカラトミー）（\#293 生放送）
+  - \#293,294 山口朋（[タカラトミー](../Page/タカラトミー.md "wikilink") カード企画部）、白鳥男也 （タカラトミー）（\#293 生放送）
   - \#298\[3\] 岩浪美和、中山信宏（生放送）
   - \#304 [加隈亜衣](https://ja.wikipedia.org/wiki/加隈亜衣 "wikilink")
   - \#305 加隈亜衣、岩浪美和、松倉友二、山口朋（一部公開生放送）
@@ -255,10 +255,10 @@
 ### イベント
 
   - 2008年11月23日 日曜日　[新宿ロフトプラスワン](../Page/新宿ロフトプラスワン.md "wikilink")スペシャル（ゲスト：偽まる、後藤麻衣、おかゆまさき、三木一馬、[和田敦](https://ja.wikipedia.org/wiki/和田敦 "wikilink")、松倉友二）
-  - 2009年03月27日 金曜日　のら犬兄弟のギョーカイ時事放談 FESTIVAL（出演者：偽まる、ＵＰＬＩＦＴ、アニメ仮面、大和田秀樹、[佐藤利奈](https://ja.wikipedia.org/wiki/佐藤利奈 "wikilink")、松倉友二、岩浪美和、市川量也、中山信宏）
+  - 2009年03月27日 金曜日　のら犬兄弟のギョーカイ時事放談 FESTIVAL（出演者：偽まる、ＵＰＬＩＦＴ、アニメ仮面、大和田秀樹、[佐藤利奈](../Page/佐藤利奈.md "wikilink")、松倉友二、岩浪美和、市川量也、中山信宏）
   - 2009年07月05日 日曜日　のら犬兄弟ギョーカイ時事放談！ SFスペシャル in 塩原
-  - 2009年08月15日 土曜日　のら犬兄弟ギョーカイ時事放談！ in 東京ビッグサイト・コミックマーケット76 西4F企業ブースNo.232「ロンドロー​ブ」ブース前（出演者：偽まる、ＵＰＬＩＦＴ、アニメ仮面　会場で捕まえられてちょこっと出演者：[喜多村英梨](https://ja.wikipedia.org/wiki/喜多村英梨 "wikilink")、髙取昌史 補足：当イベント日のブースで、のら犬兄弟のTシャツが販売で完売）
-  - 2009年12月30日 水曜日　年末だよ！のら犬兄弟のギョーカイ時事放談スペシャル in [シアターTSUTAYA](https://ja.wikipedia.org/wiki/ユーロスペース "wikilink")[なう。](https://ja.wikipedia.org/wiki/Twitter "wikilink")（出演者：偽まる、ＵＰＬＩＦＴ、アニメ仮面、生天目仁美、岩浪美和、髙取昌史、渡辺隆、松倉友二、中山信宏、玉井☆豪）
+  - 2009年08月15日 土曜日　のら犬兄弟ギョーカイ時事放談！ in 東京ビッグサイト・コミックマーケット76 西4F企業ブースNo.232「ロンドロー​ブ」ブース前（出演者：偽まる、ＵＰＬＩＦＴ、アニメ仮面　会場で捕まえられてちょこっと出演者：[喜多村英梨](../Page/喜多村英梨.md "wikilink")、髙取昌史 補足：当イベント日のブースで、のら犬兄弟のTシャツが販売で完売）
+  - 2009年12月30日 水曜日　年末だよ！のら犬兄弟のギョーカイ時事放談スペシャル in [シアターTSUTAYA](https://ja.wikipedia.org/wiki/ユーロスペース "wikilink")[なう。](../Page/Twitter.md "wikilink")（出演者：偽まる、ＵＰＬＩＦＴ、アニメ仮面、生天目仁美、岩浪美和、髙取昌史、渡辺隆、松倉友二、中山信宏、玉井☆豪）
   - 2010年10月10日 日曜日　[徳島](https://ja.wikipedia.org/wiki/徳島 "wikilink") [マチ★アソビ](https://ja.wikipedia.org/wiki/マチ★アソビ "wikilink")公開録音\[4\]
   - 2011年02月19日 土曜日　のら犬兄弟のギョーカイ時事放談　ロフト復活編
   - 2011年05月14日 土曜日　のら犬兄弟のギョーカイ時事放談　心機一転スペシャル
@@ -310,33 +310,33 @@
 
 <div class="NavContent" style="text-align: left;">
 
-| 回数             | 配信日                                | タイトル・ゲスト                                                                                                                                                                                                                                                                | 備考                                                                                                                                 |
-| -------------- | ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| \#343          | [4月1日](../Page/4月1日.md "wikilink") | [中山信宏](https://ja.wikipedia.org/wiki/中山信宏 "wikilink")                                                                                                                                                                                                                   |                                                                                                                                    |
-| \#345-346      | 4月15日-22日                          | 和田敦（[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink") [電撃文庫](../Page/電撃文庫.md "wikilink")編集長）                                                                                                                                                                |                                                                                                                                    |
-| \#347-348      | 4月29日-5月6日                         | 飯田尚史                                                                                                                                                                                                                                                                    | 地鶏居酒屋で収録                                                                                                                           |
-| \#349          | 5月13日                              | 『のら犬トランスミッションバリケード [selector](https://ja.wikipedia.org/wiki/selector_infected_WIXOSS "wikilink") Special』                                                                                                                                                               | 「[selector infected WIXOSS](https://ja.wikipedia.org/wiki/selector_infected_WIXOSS "wikilink")」・「selector infected WIXOSS」の楽曲のみで構成 |
-| \#350-351      | 5月20日-27日                          | 安彦剛志（ソニー企業 舞台めぐりチームプロジェクトマネージャ　過去にABI名義で出演）                                                                                                                                                                                                                             |                                                                                                                                    |
-| \#352-353      | 6月3日-10日                           | 高取昌史（[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")プロデューサ）・松尾晃（ポニーキャニオン プロデューサ）                                                                                                                                                                                             | アニメ仮面欠席                                                                                                                            |
-| イベント           | 6月6日                               | 『のら犬ブラザースのアニメ\! ギョーカイ時事放談 例の青い円盤 SP』                                                                                                                                                                                                                                    |                                                                                                                                    |
-| \#354          | 6月17日                              | 坪内君憲（[ワーナー ブラザース ホーム エンターテイメント ジャパン](https://ja.wikipedia.org/wiki/ワーナー_ブラザース_ジャパン "wikilink") モバイルコンテンツ事業部）                                                                                                                                                            |                                                                                                                                    |
-| \#355          | 6月24日                              | 坪内君憲・[伊藤静](https://ja.wikipedia.org/wiki/伊藤静 "wikilink")                                                                                                                                                                                                                |                                                                                                                                    |
-| \#358          | 7月15日                              |                                                                                                                                                                                                                                                                         | 3月に行われた緊急生放送（収録ミスで冒頭10分が欠けたもの）を配信                                                                                                  |
-| \#359-360      | 7月22日-29日                          | 飯田尚史                                                                                                                                                                                                                                                                    |                                                                                                                                    |
-| \#361(生放送)-362 | 8月5日-12日                           | [松倉友二](../Page/松倉友二.md "wikilink")（[J.C.STAFF](../Page/ジェー・シー・スタッフ.md "wikilink") プロデューサー）                                                                                                                                                                              |                                                                                                                                    |
-| \#365(生放送)-366 | 9月2日-9日                            | 大澤信博（[EGG FIRM](https://ja.wikipedia.org/wiki/EGG_FIRM "wikilink") 代表取締役）                                                                                                                                                                                               |                                                                                                                                    |
-| イベント           | 9月12日                              | 『のら犬ブラザースのアニメ\! ギョーカイ時事放談 〜偽まる アニメ仮面 彼の地下にて、斯く語りき〜』                                                                                                                                                                                                                     |                                                                                                                                    |
-| \#367-368      | 9月16日-23日                          | [結](https://ja.wikipedia.org/wiki/結_\(女優\) "wikilink")                                                                                                                                                                                                                  |                                                                                                                                    |
-| \#369          | 9月30日                              | 南健（[フライングドッグ](https://ja.wikipedia.org/wiki/フライングドッグ "wikilink") 映像制作部プロデューサー）・中山信宏                                                                                                                                                                                     | アニメ仮面は欠席                                                                                                                           |
-| \#370          | 10月7日                              | [鈴木絵理](https://ja.wikipedia.org/wiki/鈴木絵理 "wikilink")・中山信宏                                                                                                                                                                                                              |                                                                                                                                    |
-| \#371          | 10月14日                             | 鈴木絵理                                                                                                                                                                                                                                                                    |                                                                                                                                    |
-| \#372-373      | 10月21日-28日                         | 兼田健一郎（[ラジオ大阪](https://ja.wikipedia.org/wiki/ラジオ大阪 "wikilink") 東京支社長）                                                                                                                                                                                                    |                                                                                                                                    |
-| 公開収録           | 10月31日                             | 『横須賀サブカルチャーフェスティバル』（ヨコカル祭）                                                                                                                                                                                                                                              |                                                                                                                                    |
-| \#375          | 11月11日                             | [岩浪美和](https://ja.wikipedia.org/wiki/岩浪美和 "wikilink")（[音響監督](https://ja.wikipedia.org/wiki/音響監督 "wikilink")）・[山中隆弘](https://ja.wikipedia.org/wiki/山中隆弘 "wikilink")（[キングレコード](../Page/キングレコード.md "wikilink")）・中山信宏・[千菅春香](https://ja.wikipedia.org/wiki/千菅春香 "wikilink") | 『横須賀サブカルチャーフェスティバル』での公開収録を配信                                                                                                       |
-| \#376-377      | 11月18日-25日                         | 数土直志（アニメ！アニメ！編集長）                                                                                                                                                                                                                                                       |                                                                                                                                    |
-| \#378(生放送)-379 | 12月2日-9日                           | 高取昌史（ポニーキャニオン ぽにきゃんBOOKS編集長）                                                                                                                                                                                                                                            |                                                                                                                                    |
-| イベント           | 12月12日                             | 『のら犬ブラザースのアニメ\! ギョーカイ時事放談 のら犬たちは荒野を目指す』                                                                                                                                                                                                                                 |                                                                                                                                    |
-| \#382          | 12月30日                             | 『のら犬トランスミッションバリケード』                                                                                                                                                                                                                                                     |                                                                                                                                    |
+| 回数             | 配信日                                | タイトル・ゲスト                                                                                                                                                                                                                          | 備考                                                                                                                                 |
+| -------------- | ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| \#343          | [4月1日](../Page/4月1日.md "wikilink") | [中山信宏](https://ja.wikipedia.org/wiki/中山信宏 "wikilink")                                                                                                                                                                             |                                                                                                                                    |
+| \#345-346      | 4月15日-22日                          | 和田敦（[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink") [電撃文庫](../Page/電撃文庫.md "wikilink")編集長）                                                                                                                          |                                                                                                                                    |
+| \#347-348      | 4月29日-5月6日                         | 飯田尚史                                                                                                                                                                                                                              | 地鶏居酒屋で収録                                                                                                                           |
+| \#349          | 5月13日                              | 『のら犬トランスミッションバリケード [selector](https://ja.wikipedia.org/wiki/selector_infected_WIXOSS "wikilink") Special』                                                                                                                         | 「[selector infected WIXOSS](https://ja.wikipedia.org/wiki/selector_infected_WIXOSS "wikilink")」・「selector infected WIXOSS」の楽曲のみで構成 |
+| \#350-351      | 5月20日-27日                          | 安彦剛志（ソニー企業 舞台めぐりチームプロジェクトマネージャ　過去にABI名義で出演）                                                                                                                                                                                       |                                                                                                                                    |
+| \#352-353      | 6月3日-10日                           | 高取昌史（[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")プロデューサ）・松尾晃（ポニーキャニオン プロデューサ）                                                                                                                                                       | アニメ仮面欠席                                                                                                                            |
+| イベント           | 6月6日                               | 『のら犬ブラザースのアニメ\! ギョーカイ時事放談 例の青い円盤 SP』                                                                                                                                                                                              |                                                                                                                                    |
+| \#354          | 6月17日                              | 坪内君憲（[ワーナー ブラザース ホーム エンターテイメント ジャパン](https://ja.wikipedia.org/wiki/ワーナー_ブラザース_ジャパン "wikilink") モバイルコンテンツ事業部）                                                                                                                      |                                                                                                                                    |
+| \#355          | 6月24日                              | 坪内君憲・[伊藤静](../Page/伊藤静.md "wikilink")                                                                                                                                                                                             |                                                                                                                                    |
+| \#358          | 7月15日                              |                                                                                                                                                                                                                                   | 3月に行われた緊急生放送（収録ミスで冒頭10分が欠けたもの）を配信                                                                                                  |
+| \#359-360      | 7月22日-29日                          | 飯田尚史                                                                                                                                                                                                                              |                                                                                                                                    |
+| \#361(生放送)-362 | 8月5日-12日                           | [松倉友二](../Page/松倉友二.md "wikilink")（[J.C.STAFF](../Page/ジェー・シー・スタッフ.md "wikilink") プロデューサー）                                                                                                                                        |                                                                                                                                    |
+| \#365(生放送)-366 | 9月2日-9日                            | 大澤信博（[EGG FIRM](https://ja.wikipedia.org/wiki/EGG_FIRM "wikilink") 代表取締役）                                                                                                                                                         |                                                                                                                                    |
+| イベント           | 9月12日                              | 『のら犬ブラザースのアニメ\! ギョーカイ時事放談 〜偽まる アニメ仮面 彼の地下にて、斯く語りき〜』                                                                                                                                                                               |                                                                                                                                    |
+| \#367-368      | 9月16日-23日                          | [結](https://ja.wikipedia.org/wiki/結_\(女優\) "wikilink")                                                                                                                                                                            |                                                                                                                                    |
+| \#369          | 9月30日                              | 南健（[フライングドッグ](../Page/フライングドッグ.md "wikilink") 映像制作部プロデューサー）・中山信宏                                                                                                                                                                  | アニメ仮面は欠席                                                                                                                           |
+| \#370          | 10月7日                              | [鈴木絵理](https://ja.wikipedia.org/wiki/鈴木絵理 "wikilink")・中山信宏                                                                                                                                                                        |                                                                                                                                    |
+| \#371          | 10月14日                             | 鈴木絵理                                                                                                                                                                                                                              |                                                                                                                                    |
+| \#372-373      | 10月21日-28日                         | 兼田健一郎（[ラジオ大阪](https://ja.wikipedia.org/wiki/ラジオ大阪 "wikilink") 東京支社長）                                                                                                                                                              |                                                                                                                                    |
+| 公開収録           | 10月31日                             | 『横須賀サブカルチャーフェスティバル』（ヨコカル祭）                                                                                                                                                                                                        |                                                                                                                                    |
+| \#375          | 11月11日                             | [岩浪美和](../Page/岩浪美和.md "wikilink")（[音響監督](../Page/音響監督.md "wikilink")）・[山中隆弘](https://ja.wikipedia.org/wiki/山中隆弘 "wikilink")（[キングレコード](../Page/キングレコード.md "wikilink")）・中山信宏・[千菅春香](https://ja.wikipedia.org/wiki/千菅春香 "wikilink") | 『横須賀サブカルチャーフェスティバル』での公開収録を配信                                                                                                       |
+| \#376-377      | 11月18日-25日                         | 数土直志（アニメ！アニメ！編集長）                                                                                                                                                                                                                 |                                                                                                                                    |
+| \#378(生放送)-379 | 12月2日-9日                           | 高取昌史（ポニーキャニオン ぽにきゃんBOOKS編集長）                                                                                                                                                                                                      |                                                                                                                                    |
+| イベント           | 12月12日                             | 『のら犬ブラザースのアニメ\! ギョーカイ時事放談 のら犬たちは荒野を目指す』                                                                                                                                                                                           |                                                                                                                                    |
+| \#382          | 12月30日                             | 『のら犬トランスミッションバリケード』                                                                                                                                                                                                               |                                                                                                                                    |
 
 </div>
 
@@ -410,7 +410,7 @@
 <td><p>#399</p></td>
 <td><p>5月4日</p></td>
 <td><p>『のら犬トランスミッションバリケード』<br />
-出演：飯田尚史・萩野谷昇（<a href="https://ja.wikipedia.org/wiki/スバルプランニング" title="wikilink">スバルプランニング</a>）</p></td>
+出演：飯田尚史・萩野谷昇（<a href="../Page/スバルプランニング.md" title="wikilink">スバルプランニング</a>）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -428,7 +428,7 @@
 <tr class="odd">
 <td><p>#404-405</p></td>
 <td><p>6月8日-15日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/くまのきよみ" title="wikilink">くまのきよみ</a>（<a href="../Page/作詞家.md" title="wikilink">作詞家</a>）</p></td>
+<td><p><a href="../Page/くまのきよみ.md" title="wikilink">くまのきよみ</a>（<a href="../Page/作詞家.md" title="wikilink">作詞家</a>）</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -496,13 +496,13 @@
 <td><p>#424</p></td>
 <td><p>10月26日</p></td>
 <td><p>『特集「井口裕香」Powerd by のら犬ブラザースのギョーカイ時事放談』<br />
-出演：中山信宏・土肥範子・<a href="https://ja.wikipedia.org/wiki/井口裕香" title="wikilink">井口裕香</a></p></td>
+出演：中山信宏・土肥範子・<a href="../Page/井口裕香.md" title="wikilink">井口裕香</a></p></td>
 <td><p>偽まる・アニメ仮面は欠席</p></td>
 </tr>
 <tr class="odd">
 <td><p>#425（生放送）-427</p></td>
 <td><p>11月2日-11月16日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/原田まりる" title="wikilink">原田まりる</a>（作家・コラムニスト・哲学ナビゲーター・元<a href="https://ja.wikipedia.org/wiki/風男塾" title="wikilink">風男塾</a>）</p></td>
+<td><p><a href="../Page/原田まりる.md" title="wikilink">原田まりる</a>（作家・コラムニスト・哲学ナビゲーター・元<a href="https://ja.wikipedia.org/wiki/風男塾" title="wikilink">風男塾</a>）</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -586,13 +586,13 @@
 <td><p>イベント</p></td>
 <td><p>3月25日</p></td>
 <td><p>『のら犬ブラザースのアニメ！ギョーカイ時事放談 のら犬フレンズ監督ってすごーいSP』<br />
-ゲスト：<a href="https://ja.wikipedia.org/wiki/水島努" title="wikilink">水島努</a>（アニメーション監督）</p></td>
+ゲスト：<a href="../Page/水島努.md" title="wikilink">水島努</a>（アニメーション監督）</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>#447-448</p></td>
 <td><p>4月12日-19日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/飯塚晴子" title="wikilink">飯塚晴子</a>（<a href="https://ja.wikipedia.org/wiki/アニメーター" title="wikilink">アニメーター</a>）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/飯塚晴子" title="wikilink">飯塚晴子</a>（<a href="../Page/アニメーター.md" title="wikilink">アニメーター</a>）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -604,7 +604,7 @@
 <tr class="even">
 <td><p>#452-453</p></td>
 <td><p>5月17日-24日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/明坂聡美" title="wikilink">明坂聡美</a></p></td>
+<td><p><a href="../Page/明坂聡美.md" title="wikilink">明坂聡美</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -734,14 +734,14 @@
 <tr class="odd">
 <td><p>#491</p></td>
 <td><p>4月4日(生放送)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/橋本ちなみ" title="wikilink">橋本ちなみ</a>・<a href="https://ja.wikipedia.org/wiki/加隈亜衣" title="wikilink">加隈亜衣</a>・<a href="https://ja.wikipedia.org/wiki/伊藤静" title="wikilink">伊藤静</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/橋本ちなみ" title="wikilink">橋本ちなみ</a>・<a href="https://ja.wikipedia.org/wiki/加隈亜衣" title="wikilink">加隈亜衣</a>・<a href="../Page/伊藤静.md" title="wikilink">伊藤静</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>#493</p></td>
 <td><p>5月2日</p></td>
 <td><p>『SF雑談（仮）』<br />
-出演：里見哲朗・<a href="https://ja.wikipedia.org/wiki/堺三保" title="wikilink">堺三保</a>（SF作家）・小浜徹也・<a href="https://ja.wikipedia.org/wiki/長谷敏司" title="wikilink">長谷敏司</a>（SF作家）</p></td>
+出演：里見哲朗・<a href="../Page/堺三保.md" title="wikilink">堺三保</a>（SF作家）・小浜徹也・<a href="../Page/長谷敏司.md" title="wikilink">長谷敏司</a>（SF作家）</p></td>
 <td><p>1月8日開催のイベント「SF雑談（仮）」を配信</p></td>
 </tr>
 <tr class="odd">
@@ -765,10 +765,10 @@
 
 ## 関連項目
 
-  - [川瀬浩平](https://ja.wikipedia.org/wiki/川瀬浩平 "wikilink")
+  - [川瀬浩平](../Page/川瀬浩平.md "wikilink")
       - [ジェネオンエンタテインメント](../Page/NBCユニバーサル・エンターテイメントジャパン.md "wikilink")
       - [ワーナー エンターテイメント ジャパン](https://ja.wikipedia.org/wiki/ワーナー_エンターテイメント_ジャパン "wikilink")
-  - [伊平崇耶](https://ja.wikipedia.org/wiki/伊平崇耶 "wikilink")
+  - [伊平崇耶](../Page/伊平崇耶.md "wikilink")
       - [ショウゲート](https://ja.wikipedia.org/wiki/ショウゲート "wikilink")
       - [日活](../Page/日活.md "wikilink")
   - [里見哲朗](https://ja.wikipedia.org/wiki/里見哲朗 "wikilink")

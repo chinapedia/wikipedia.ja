@@ -5,15 +5,15 @@
 
 ## 歴史
 
-2007年4月17日の後楽園大会にてそれまでアメリカへ修行していた[鷹木信悟](https://ja.wikipedia.org/wiki/鷹木信悟 "wikilink")が帰国。同時にセミファイナルの[タイフーンと](../Page/Typhoon_\(プロレス\).md "wikilink")[マッスル・アウトローズ](../Page/マッスル・アウトローズ.md "wikilink")との7vs7のイリミネーションマッチの試合後に登場。同時にタイフーンから[B×Bハルク](https://ja.wikipedia.org/wiki/B×Bハルク "wikilink")、マッスルからは[サイバー・コング](https://ja.wikipedia.org/wiki/サイバー・コング "wikilink")、更には1月にアメリカに修行中だった[YAMATOと共に新ユニットを結成](../Page/YAMATO_\(プロレスラー\).md "wikilink")。オリジナルメンバー全員がDRAGON GATE発足後にデビューしたメンバーである。
+2007年4月17日の後楽園大会にてそれまでアメリカへ修行していた[鷹木信悟](../Page/鷹木信悟.md "wikilink")が帰国。同時にセミファイナルの[タイフーンと](../Page/Typhoon_\(プロレス\).md "wikilink")[マッスル・アウトローズ](../Page/マッスル・アウトローズ.md "wikilink")との7vs7のイリミネーションマッチの試合後に登場。同時にタイフーンから[B×Bハルク](../Page/B×Bハルク.md "wikilink")、マッスルからは[サイバー・コング](https://ja.wikipedia.org/wiki/サイバー・コング "wikilink")、更には1月にアメリカに修行中だった[YAMATOと共に新ユニットを結成](../Page/YAMATO_\(プロレスラー\).md "wikilink")。オリジナルメンバー全員がDRAGON GATE発足後にデビューしたメンバーである。
 
 5月10日のメイン戦で鷹木、ハルク、コングの3人でタイフーンのCIMA、横須賀、斎藤の持つトライアングルゲートに挑戦し、見事勝利を挙げ見事トライアングル王者へ輝いた。
 
-また同じ日にそれまでマッスルのメンバーだった[ジャック・エバンス](../Page/ジャック・エバンス.md "wikilink")が助っ人と言う形で加入。YAMATOとタッグを組み、[土井成樹](https://ja.wikipedia.org/wiki/土井成樹 "wikilink")、[吉野正人](https://ja.wikipedia.org/wiki/吉野正人 "wikilink")を相手に勝利を挙げた。
+また同じ日にそれまでマッスルのメンバーだった[ジャック・エバンス](../Page/ジャック・エバンス.md "wikilink")が助っ人と言う形で加入。YAMATOとタッグを組み、[土井成樹](../Page/土井成樹.md "wikilink")、[吉野正人](../Page/吉野正人.md "wikilink")を相手に勝利を挙げた。
 
 順調に見えた新ユニットだったが、6月にYAMATOが左肩を、7月にはハルクが顎をそれぞれ負傷して戦線離脱してしまう。さらに7月にはジャック・エバンスもアメリカへ帰ってしまったため、8月のタッグリーグで鷹木とサイバーはセコンド不在の中で戦うと言う厳しい戦いに。しかしそれでも準優勝の結果を残した。
 
-同年9月には[DDTの](https://ja.wikipedia.org/wiki/DDTプロレスリング "wikilink")[飯伏幸太](https://ja.wikipedia.org/wiki/飯伏幸太 "wikilink")が助っ人としてやってきた。
+同年9月には[DDTの](../Page/DDTプロレスリング.md "wikilink")[飯伏幸太](../Page/飯伏幸太.md "wikilink")が助っ人としてやってきた。
 
 同年10月12日の後楽園大会でハルクとYAMATOが復帰。
 
@@ -25,18 +25,18 @@
 
 ## 誕生秘話
 
-アメリカで修行していた[鷹木信悟](https://ja.wikipedia.org/wiki/鷹木信悟 "wikilink")が、もともと1年で帰国することを決めており、その際、どのユニットに所属するか考えていた。ROH世界タッグ王座のパートナーであった[土井成樹](https://ja.wikipedia.org/wiki/土井成樹 "wikilink")が[マッスル・アウトローズ](../Page/マッスル・アウトローズ.md "wikilink")に所属しているので、通常ならば、そのまま入ることになるのだが、鷹木信悟が「それでは前と変わらない」と思い、自分世代のユニットを結成したいと考え、YAMATOとサイバー・コングとで話し合っている際に、鷹木信悟が[B×Bハルク](https://ja.wikipedia.org/wiki/B×Bハルク "wikilink")に「今の状況どう？」的なメールを数回して、B×Bハルクもこれに賛同して結成された。そして後楽園大会において、マイクアピール中のCIMAにハルクが襲撃してマッスルの側につくも、サイバーもGammaを襲撃して2人は握手を交わして、鷹木をリングに呼び込む。
+アメリカで修行していた[鷹木信悟](../Page/鷹木信悟.md "wikilink")が、もともと1年で帰国することを決めており、その際、どのユニットに所属するか考えていた。ROH世界タッグ王座のパートナーであった[土井成樹](../Page/土井成樹.md "wikilink")が[マッスル・アウトローズ](../Page/マッスル・アウトローズ.md "wikilink")に所属しているので、通常ならば、そのまま入ることになるのだが、鷹木信悟が「それでは前と変わらない」と思い、自分世代のユニットを結成したいと考え、YAMATOとサイバー・コングとで話し合っている際に、鷹木信悟が[B×Bハルク](../Page/B×Bハルク.md "wikilink")に「今の状況どう？」的なメールを数回して、B×Bハルクもこれに賛同して結成された。そして後楽園大会において、マイクアピール中のCIMAにハルクが襲撃してマッスルの側につくも、サイバーもGammaを襲撃して2人は握手を交わして、鷹木をリングに呼び込む。
 
 ## メンバー
 
-  - [鷹木信悟](https://ja.wikipedia.org/wiki/鷹木信悟 "wikilink")（リーダー）
-  - [B×Bハルク](https://ja.wikipedia.org/wiki/B×Bハルク "wikilink")
+  - [鷹木信悟](../Page/鷹木信悟.md "wikilink")（リーダー）
+  - [B×Bハルク](../Page/B×Bハルク.md "wikilink")
   - [サイバー・コング](https://ja.wikipedia.org/wiki/サイバー・コング "wikilink")
 
 ## サポートメンバー
 
-  - [飯伏幸太](https://ja.wikipedia.org/wiki/飯伏幸太 "wikilink")
-  - [忍](https://ja.wikipedia.org/wiki/忍_\(プロレスラー\) "wikilink")
+  - [飯伏幸太](../Page/飯伏幸太.md "wikilink")
+  - [忍](../Page/忍_\(プロレスラー\).md "wikilink")
 
 ## 外国人メンバー
 

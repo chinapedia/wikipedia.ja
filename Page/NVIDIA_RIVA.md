@@ -1,7 +1,7 @@
 > この記事は[NVIDIA RIVA](https://ja.wikipedia.org/wiki/NVIDIA_RIVA)から翻訳されています。
 
 
-**RIVA**（リーヴァ）は米[NVIDIA](https://ja.wikipedia.org/wiki/NVIDIA "wikilink")社のビデオチップ（[グラフィックアクセラレータ](https://ja.wikipedia.org/wiki/グラフィックアクセラレータ "wikilink")）である。 1990年代後半の[NVIDIA](https://ja.wikipedia.org/wiki/NVIDIA "wikilink")の成長を支えた。
+**RIVA**（リーヴァ）は米[NVIDIA](../Page/NVIDIA.md "wikilink")社のビデオチップ（[グラフィックアクセラレータ](../Page/グラフィックアクセラレータ.md "wikilink")）である。 1990年代後半の[NVIDIA](../Page/NVIDIA.md "wikilink")の成長を支えた。
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Canopus_RIVA_TNT.png "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Canopus_RIVA_TNT2_Ultra.png "wikilink")
 
@@ -11,9 +11,9 @@
 
 NVIDIAは、[Windows CEのカスタマイズ版が搭載された](https://ja.wikipedia.org/wiki/Windows_CE "wikilink")[セガ](https://ja.wikipedia.org/wiki/セガ "wikilink")の[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")（1998年発売）に向けてNV1を元にした**[NV2](https://ja.wikipedia.org/wiki/:en:NV2 "wikilink")**を設計したが、曲面描画エンジンは、DirectXを利用してゲームタイトルを移植することが難しく、多角形描画が一般的になりつつあったことから途中で中止された。
 
-この反省からNVIDIAは、多角形描画を採用しDirectXに対応、[Direct3D](https://ja.wikipedia.org/wiki/Direct3D "wikilink")の性能を追求したビデオチップ**NV3**を開発し、1997年に**RIVA 128**として発表した。RIVA 128の描画品質はあまり良くなかったが、描画速度が非常に高速であり高解像度のディスプレイもサポートしていた。また、RIVA 128は低価格であり多くのOEMメーカーが搭載ボードを販売した。
+この反省からNVIDIAは、多角形描画を採用しDirectXに対応、[Direct3D](../Page/Direct3D.md "wikilink")の性能を追求したビデオチップ**NV3**を開発し、1997年に**RIVA 128**として発表した。RIVA 128の描画品質はあまり良くなかったが、描画速度が非常に高速であり高解像度のディスプレイもサポートしていた。また、RIVA 128は低価格であり多くのOEMメーカーが搭載ボードを販売した。
 
-1998年にNVIDIAは、RIVA 128の後継としてDirectX 6に対応し、マルチテクスチャリング処理が可能となった**RIVA TNT**（開発コード名はNV4）を発表した\[1\]。RIVA TNTは2本のピクセルパイプラインを持ち（製品名のTNTはTwiN Texelからとられた）、24ビットの[Zバッファ](https://ja.wikipedia.org/wiki/Zバッファ "wikilink")を採用しており、描画品質も改善されている。また1999年には、RIVA TNTの後継として32ビットの[フレームバッファ](https://ja.wikipedia.org/wiki/フレームバッファ "wikilink")をもつ**RIVA TNT2**（開発コード名はNV5）を発表\[2\]、後に廉価版のRIVA TNT2 M64とRIVA TNT2 Vanta（ともに開発コード名はNV6）、チップセットにグラフィックコアを統合した[ALADDiN-TNT2なども販売された](https://ja.wikipedia.org/wiki/ALi "wikilink")。
+1998年にNVIDIAは、RIVA 128の後継としてDirectX 6に対応し、マルチテクスチャリング処理が可能となった**RIVA TNT**（開発コード名はNV4）を発表した\[1\]。RIVA TNTは2本のピクセルパイプラインを持ち（製品名のTNTはTwiN Texelからとられた）、24ビットの[Zバッファ](../Page/Zバッファ.md "wikilink")を採用しており、描画品質も改善されている。また1999年には、RIVA TNTの後継として32ビットの[フレームバッファ](https://ja.wikipedia.org/wiki/フレームバッファ "wikilink")をもつ**RIVA TNT2**（開発コード名はNV5）を発表\[2\]、後に廉価版のRIVA TNT2 M64とRIVA TNT2 Vanta（ともに開発コード名はNV6）、チップセットにグラフィックコアを統合した[ALADDiN-TNT2なども販売された](https://ja.wikipedia.org/wiki/ALi "wikilink")。
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:RIVA_128_NV_GPU.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:RIVA_128ZX_GPU.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:RIVA_TNT_GPU.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:RIVA_TNT2_Ultra_GPU.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:RIVA_TNT2_VANTA_GPU.jpg "wikilink")
 
@@ -45,7 +45,7 @@ NVIDIAは、[Windows CEのカスタマイズ版が搭載された](https://ja.wi
 
 ## 関連項目
 
-  - [NVIDIA](https://ja.wikipedia.org/wiki/NVIDIA "wikilink")
+  - [NVIDIA](../Page/NVIDIA.md "wikilink")
   - [Geforce](https://ja.wikipedia.org/wiki/Geforce "wikilink")
 
 ## 外部リンク

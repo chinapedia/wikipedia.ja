@@ -5,15 +5,15 @@
 
 ## 歴史
 
-2006年の年末、それまでDRAGON GATEの2大人気ユニットの[Blood Generationと](https://ja.wikipedia.org/wiki/Blood_Generation "wikilink")[Final M2Kが同じ時期に解散を発表](https://ja.wikipedia.org/wiki/M2K "wikilink")。
+2006年の年末、それまでDRAGON GATEの2大人気ユニットの[Blood Generationと](../Page/Blood_Generation.md "wikilink")[Final M2Kが同じ時期に解散を発表](../Page/M2K.md "wikilink")。
 
-2007年1月21日の神戸大会にてBlood Generationのリーダーだった[CIMAとFinal](https://ja.wikipedia.org/wiki/CIMA_\(プロレスラー\) "wikilink") M2Kのリーダーだった[横須賀享](https://ja.wikipedia.org/wiki/横須賀享 "wikilink")がタッグを組む。そしてメインでオープン・ザ・トライアングルゲート戦で勝利した[マッスル・アウトローズ](../Page/マッスル・アウトローズ.md "wikilink")が試合後も[Pos.HEARTS](https://ja.wikipedia.org/wiki/Pos.HEARTS "wikilink")に暴行を加えているところに横須賀が登場し、マッスルを蹴散らす。そして2月4日の博多大会でCIMAと[マット・サイダル](https://ja.wikipedia.org/wiki/マット・サイダル "wikilink")と組み、トライアングルのベルトに挑戦表明（この試合には敗れた）。
+2007年1月21日の神戸大会にてBlood Generationのリーダーだった[CIMAとFinal](https://ja.wikipedia.org/wiki/CIMA_\(プロレスラー\) "wikilink") M2Kのリーダーだった[横須賀享](../Page/横須賀享.md "wikilink")がタッグを組む。そしてメインでオープン・ザ・トライアングルゲート戦で勝利した[マッスル・アウトローズ](../Page/マッスル・アウトローズ.md "wikilink")が試合後も[Pos.HEARTS](https://ja.wikipedia.org/wiki/Pos.HEARTS "wikilink")に暴行を加えているところに横須賀が登場し、マッスルを蹴散らす。そして2月4日の博多大会でCIMAと[マット・サイダル](https://ja.wikipedia.org/wiki/マット・サイダル "wikilink")と組み、トライアングルのベルトに挑戦表明（この試合には敗れた）。
 
-2月23日の後楽園大会ではマッスルとのトライアングル戦に負けチームを解散となってしまった、Pos.HEARTSの[アンソニー・W・森と](https://ja.wikipedia.org/wiki/森隆行 "wikilink")[B×Bハルク](https://ja.wikipedia.org/wiki/B×Bハルク "wikilink")加入。（[スペル・シーサー](https://ja.wikipedia.org/wiki/スペル・シーサー "wikilink")はタイフーンには加入せず）そして[堀口元気](https://ja.wikipedia.org/wiki/堀口元気 "wikilink")のマッスル入りで[Do FIXERを解散した](https://ja.wikipedia.org/wiki/Do_FIXER "wikilink")[斎藤了](https://ja.wikipedia.org/wiki/斎藤了 "wikilink")と[ドラゴン・キッド](https://ja.wikipedia.org/wiki/ドラゴン・キッド "wikilink")が加入した。
+2月23日の後楽園大会ではマッスルとのトライアングル戦に負けチームを解散となってしまった、Pos.HEARTSの[アンソニー・W・森と](https://ja.wikipedia.org/wiki/森隆行 "wikilink")[B×Bハルク](../Page/B×Bハルク.md "wikilink")加入。（[スペル・シーサー](../Page/スペル・シーサー.md "wikilink")はタイフーンには加入せず）そして[堀口元気](../Page/堀口元気.md "wikilink")のマッスル入りで[Do FIXERを解散した](../Page/Do_FIXER.md "wikilink")[斎藤了](../Page/斎藤了.md "wikilink")と[ドラゴン・キッド](../Page/ドラゴン・キッド.md "wikilink")が加入した。
 
 3月25日の津大会にてマッスルの持っていたトライアングルのベルトを奪回に成功（メンバーはCIMA、横須賀、斎了。ちなみに3人とも元ドリームゲート王者）。
 
-順調に見えたタイフーンだったが、4月17日の後楽園大会でのマッスルとの7vs7のイリミネーションマッチで勝利した後にハルクがCIMAにキックを放ち離脱、そのまま[NEW HAZARDに移籍した](https://ja.wikipedia.org/wiki/NEW_HAZARD "wikilink")。
+順調に見えたタイフーンだったが、4月17日の後楽園大会でのマッスルとの7vs7のイリミネーションマッチで勝利した後にハルクがCIMAにキックを放ち離脱、そのまま[NEW HAZARDに移籍した](../Page/NEW_HAZARD.md "wikilink")。
 
 5月の後楽園大会ではそのNEW HAZARDにトライアングル戦で敗れ、タイフーン、NEW HAZARD、マッスルの3軍抗争となった。
 
@@ -23,7 +23,7 @@
 
 2008年2月にCIMAと斎了、3月にはCIMAとキッドが仲間割れ、更に横須賀と斎了にも揉め事が発生するなど結成以来最大の危機に陥ったが、4月のCIMAと斎了のドリームゲート戦、5月5日のリョウスカのツインゲート戴冠、金網6WAYマッチを通してなんとか全員が仲直りし改めてTyphoonの結束の強さを見せた。
 
-7月27日、[オープン・ザ・ドリームゲート王者決定戦後に](https://ja.wikipedia.org/wiki/オープン・ザ・ドリームゲート王座 "wikilink")[REAL HAZARDを追放された](https://ja.wikipedia.org/wiki/REAL_HAZARD "wikilink")[鷹木信悟](https://ja.wikipedia.org/wiki/鷹木信悟 "wikilink")をキッド、斎了が勧誘するも、断られる。しかし、アンソニーの張り手と罵倒により共闘していくことになった。
+7月27日、[オープン・ザ・ドリームゲート王者決定戦後に](https://ja.wikipedia.org/wiki/オープン・ザ・ドリームゲート王座 "wikilink")[REAL HAZARDを追放された](https://ja.wikipedia.org/wiki/REAL_HAZARD "wikilink")[鷹木信悟](../Page/鷹木信悟.md "wikilink")をキッド、斎了が勧誘するも、断られる。しかし、アンソニーの張り手と罵倒により共闘していくことになった。
 
 8月31日、鷹木が正式に加入。しかし、それを後から知らされたCIMAと享が微妙な反応を示し、亀裂が入る。
 
@@ -32,15 +32,15 @@
 ## メンバー
 
   - [CIMA](https://ja.wikipedia.org/wiki/CIMA_\(プロレスラー\) "wikilink")（リーダー）
-  - [ドラゴン・キッド](https://ja.wikipedia.org/wiki/ドラゴン・キッド "wikilink")
-  - [横須賀享](https://ja.wikipedia.org/wiki/横須賀享 "wikilink")
-  - [斎藤了](https://ja.wikipedia.org/wiki/斎藤了 "wikilink")
+  - [ドラゴン・キッド](../Page/ドラゴン・キッド.md "wikilink")
+  - [横須賀享](../Page/横須賀享.md "wikilink")
+  - [斎藤了](../Page/斎藤了.md "wikilink")
   - [アンソニー・W・森](https://ja.wikipedia.org/wiki/森隆行 "wikilink")
 
 ## サポートメンバー
 
-  - [K-ness.](https://ja.wikipedia.org/wiki/K-ness. "wikilink")
-  - [怨霊](https://ja.wikipedia.org/wiki/怨霊_\(プロレスラー\) "wikilink")
+  - [K-ness.](../Page/K-ness..md "wikilink")
+  - [怨霊](../Page/怨霊_\(プロレスラー\).md "wikilink")
 
 ## 外国人メンバー
 
@@ -49,9 +49,9 @@
 
 ## 元メンバー
 
-  - [B×Bハルク](https://ja.wikipedia.org/wiki/B×Bハルク "wikilink")（[NEW HAZARDに移籍](https://ja.wikipedia.org/wiki/NEW_HAZARD "wikilink")）
+  - [B×Bハルク](../Page/B×Bハルク.md "wikilink")（[NEW HAZARDに移籍](../Page/NEW_HAZARD.md "wikilink")）
   - [マット・サイダル](https://ja.wikipedia.org/wiki/マット・サイダル "wikilink")（[WWE](../Page/WWE.md "wikilink")に移籍するため退団）
-  - [鷹木信悟](https://ja.wikipedia.org/wiki/鷹木信悟 "wikilink")（追放）
+  - [鷹木信悟](../Page/鷹木信悟.md "wikilink")（追放）
 
 ## テーマ曲
 

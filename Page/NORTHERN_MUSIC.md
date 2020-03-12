@@ -1,26 +1,26 @@
 > この記事は[NORTHERN MUSIC](https://ja.wikipedia.org/wiki/NORTHERN_MUSIC)から翻訳されています。
 
 
-**NORTHERN MUSIC**（ノーザン ミュージック）は、[ビーイング](../Page/ビーイング.md "wikilink")の[レコードレーベル](../Page/レコードレーベル.md "wikilink")で、かつて存在した[レコード会社](https://ja.wikipedia.org/wiki/レコード会社 "wikilink")であったが、親会社の[ビーイング](../Page/ビーイング.md "wikilink")に吸収合併されると同時にBeingの一レーベルとなっており実質的には[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")のプライベートレーベルとなっている。
+**NORTHERN MUSIC**（ノーザン ミュージック）は、[ビーイング](../Page/ビーイング.md "wikilink")の[レコードレーベル](../Page/レコードレーベル.md "wikilink")で、かつて存在した[レコード会社](../Page/レコード会社.md "wikilink")であったが、親会社の[ビーイング](../Page/ビーイング.md "wikilink")に吸収合併されると同時にBeingの一レーベルとなっており実質的には[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")のプライベートレーベルとなっている。
 
 ## 所在地
 
-〒106-0032 [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[六本木](../Page/六本木.md "wikilink")5-2-2 ビーイングビル2F（現・トーマスビル）
+〒106-0032 [東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[六本木](../Page/六本木.md "wikilink")5-2-2 ビーイングビル2F（現・トーマスビル）
 
 ## 概要
 
-  - 名前の由来は伝説のバンド[The Beatlesの音楽出版社](https://ja.wikipedia.org/wiki/ビートルズ "wikilink")[Northern Songsからインスパイアされたもので](https://ja.wikipedia.org/wiki/:en:Northern_Songs "wikilink")、[長戸大幸](https://ja.wikipedia.org/wiki/長戸大幸 "wikilink")が、「The Beatlesのように長く良質な作品を残せるように」という願いを込めたものである。この後、長戸はビーイング代表の役職を退任した。（プロデューサーとしては継続）
+  - 名前の由来は伝説のバンド[The Beatlesの音楽出版社](../Page/ビートルズ.md "wikilink")[Northern Songsからインスパイアされたもので](https://ja.wikipedia.org/wiki/:en:Northern_Songs "wikilink")、[長戸大幸](https://ja.wikipedia.org/wiki/長戸大幸 "wikilink")が、「The Beatlesのように長く良質な作品を残せるように」という願いを込めたものである。この後、長戸はビーイング代表の役職を退任した。（プロデューサーとしては継続）
   - また、倉木麻衣のNORTHERN MUSIC移籍後初のシングル「[Silent love〜open my heart〜/BE WITH U](https://ja.wikipedia.org/wiki/Silent_love〜open_my_heart〜/BE_WITH_U "wikilink")」では、「Silent love〜open my heart〜」の作曲を外部に委託。アルバム「[ONE LIFE](https://ja.wikipedia.org/wiki/ONE_LIFE_\(倉木麻衣のアルバム\) "wikilink")」では、外部の作曲家や編曲家を起用。2008年の春より、活動を開始した、[梓が](https://ja.wikipedia.org/wiki/azusa_\(シンガーソングライター\) "wikilink")、ソロライブ時にビーイング外部のアーティストと対バンを行ったり、奄美FMのMCをつとめる等など、これまでのビーイングとは違い、外部との接触を積極的に行ってきた点も特徴として挙げられる。
   - [White Dreamや](../Page/White_Dream.md "wikilink")[LOOP](../Page/LOOP.md "wikilink")所属アーティストをバックアップしているレーベルでもある。
 
 ## 所属アーティスト
 
   - [倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")（[GIZA studioから移籍](../Page/GIZA_studio.md "wikilink") ）
-  - [滴草由実](../Page/滴草由実.md "wikilink")（[ZAIN RECORDSから移籍](https://ja.wikipedia.org/wiki/ZAIN_RECORDS "wikilink") ）
+  - [滴草由実](../Page/滴草由実.md "wikilink")（[ZAIN RECORDSから移籍](../Page/ZAIN_RECORDS.md "wikilink") ）
 
 ## 以前所属していたアーティスト
 
-  - [スパークリング☆ポイント](https://ja.wikipedia.org/wiki/スパークリング☆ポイント "wikilink")（2009年6月解散）
+  - [スパークリング☆ポイント](../Page/スパークリング☆ポイント.md "wikilink")（2009年6月解散）
   - [マイケル・アフリック](https://ja.wikipedia.org/wiki/マイケル・アフリック "wikilink")（国内盤を発売）
 
 ## カタログ
@@ -34,7 +34,7 @@ NORTHERN MUSIC : MANUFACTURED & DISTRIBUTED BY Being, Inc.
 <th><p>アーティスト</p></th>
 <th><p>タイトル</p></th>
 <th><p>発売日</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -92,7 +92,7 @@ VNCM-6005</p></td>
 <tr class="even">
 <td><p>シングル</p></td>
 <td><p>倉木麻衣</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/一秒ごとに_Love_for_you" title="wikilink">一秒ごとに Love for you</a></p></td>
+<td><p><a href="../Page/一秒ごとに_Love_for_you.md" title="wikilink">一秒ごとに Love for you</a></p></td>
 <td><p>2008年7月9日</p></td>
 <td><p>VNCM-6007<br />
 VNCM-6008</p></td>

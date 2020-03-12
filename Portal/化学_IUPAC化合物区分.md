@@ -6,13 +6,13 @@
 ### A
 
   - 1,1-diazenes - An alternative term for isodiazenes.
-  - acenes - [アセン](https://ja.wikipedia.org/wiki/アセン "wikilink") ; Polycyclic aromatic hydrocarbons
+  - acenes - [アセン](../Page/アセン.md "wikilink") ; Polycyclic aromatic hydrocarbons
   - [acetals](https://ja.wikipedia.org/wiki/w:acetals "wikilink") - [アセタール](../Page/アセタール.md "wikilink")
   - acetogenins - アセトゲニン polyketides
   - [acetonides](https://ja.wikipedia.org/wiki/w:acetonides "wikilink") - アセトニド ; Cyclic acetals
   - [acetylenes](https://ja.wikipedia.org/wiki/w:acetylenes "wikilink") - [アセチレン](../Page/アセチレン.md "wikilink")
   - acetylides - [アセチレン\#アセチリド](https://ja.wikipedia.org/wiki/アセチレン#アセチリド "wikilink")
-  - [acid anhydrides](https://ja.wikipedia.org/wiki/w:acid_anhydrides "wikilink") - [酸無水物](https://ja.wikipedia.org/wiki/酸無水物 "wikilink")
+  - [acid anhydrides](https://ja.wikipedia.org/wiki/w:acid_anhydrides "wikilink") - [酸無水物](../Page/酸無水物.md "wikilink")
   - acid thioanhydrides - チオ酸無水物
   - acids - See carboxylic acids, oxoacids, sulfonic acids, etc.
   - [aci-nitro compounds](https://ja.wikipedia.org/wiki/w:aci-nitro_compounds "wikilink") - See also azinic acids; aci-nitro compounds following nitro compounds.
@@ -38,7 +38,7 @@
   - [alditols](https://ja.wikipedia.org/wiki/w:alditols "wikilink") -
   - aldoketoses - アルドケトース
   - aldonic acids - [アルドン酸](https://ja.wikipedia.org/wiki/アルドン酸 "wikilink")
-  - [aldoses](https://ja.wikipedia.org/wiki/w:aldoses "wikilink") - [アルドース](https://ja.wikipedia.org/wiki/アルドース "wikilink")
+  - [aldoses](https://ja.wikipedia.org/wiki/w:aldoses "wikilink") - [アルドース](../Page/アルドース.md "wikilink")
   - aldoximes - アルドオキシム
   - [alicyclic compounds](https://ja.wikipedia.org/wiki/w:alicyclic_compounds "wikilink") - 脂環式化合物
   - [aliphatic compounds](https://ja.wikipedia.org/wiki/w:aliphatic_compounds "wikilink") - 脂式化合物
@@ -65,7 +65,7 @@
   - [amide hydrazones](https://ja.wikipedia.org/wiki/w:amide_hydrazones "wikilink") -
   - [amide oximes](https://ja.wikipedia.org/wiki/w:amide_oximes "wikilink") -
   - [amides](https://ja.wikipedia.org/wiki/w:amides "wikilink") - [アミド](https://ja.wikipedia.org/wiki/アミド "wikilink")
-  - [amidines](https://ja.wikipedia.org/wiki/w:amidines "wikilink") - [アミジン](https://ja.wikipedia.org/wiki/アミジン "wikilink")
+  - [amidines](https://ja.wikipedia.org/wiki/w:amidines "wikilink") - [アミジン](../Page/アミジン.md "wikilink")
   - [amidium ions](https://ja.wikipedia.org/wiki/w:amidium_ions "wikilink") -
   - [amidrazones](https://ja.wikipedia.org/wiki/w:amidrazones "wikilink") -
   - [aminals](https://ja.wikipedia.org/wiki/w:aminals "wikilink") -
@@ -141,7 +141,7 @@
   - azomethine ylides - アゾメチンイリド
   - azomethines - アゾメチン
   - [azonic acids](https://ja.wikipedia.org/wiki/w:azonic_acids "wikilink") -
-  - azoxy compounds - [アゾキシ化合物](https://ja.wikipedia.org/wiki/アゾキシ化合物 "wikilink")
+  - azoxy compounds - [アゾキシ化合物](../Page/アゾキシ化合物.md "wikilink")
 
 ### B
 
@@ -157,7 +157,7 @@
   - [bismuthanes](https://ja.wikipedia.org/wiki/w:bismuthanes "wikilink") -
   - [bismuthines](https://ja.wikipedia.org/wiki/w:bismuthines "wikilink") -
   - [bisphenols](https://ja.wikipedia.org/wiki/w:bisphenols "wikilink") - [ビスフェノール](https://ja.wikipedia.org/wiki/ビスフェノール "wikilink")
-  - [boranes](https://ja.wikipedia.org/wiki/w:boranes "wikilink") - [ボラン](https://ja.wikipedia.org/wiki/ボラン "wikilink")
+  - [boranes](https://ja.wikipedia.org/wiki/w:boranes "wikilink") - [ボラン](../Page/ボラン.md "wikilink")
   - [boranylidenes](https://ja.wikipedia.org/wiki/w:boranylidenes "wikilink") -
   - [borenes](https://ja.wikipedia.org/wiki/w:borenes "wikilink") -
   - [borinic acids](https://ja.wikipedia.org/wiki/w:borinic_acids "wikilink") -
@@ -178,7 +178,7 @@
   - [carbene metal complexes](https://ja.wikipedia.org/wiki/w:carbene_metal_complexes "wikilink") -
   - [carbene radical anions](https://ja.wikipedia.org/wiki/w:carbene_radical_anions "wikilink") -
   - [carbene radical cations](https://ja.wikipedia.org/wiki/w:carbene_radical_cations "wikilink") -
-  - [carbenes](https://ja.wikipedia.org/wiki/w:carbenes "wikilink") - [カルベン](https://ja.wikipedia.org/wiki/カルベン "wikilink")
+  - [carbenes](https://ja.wikipedia.org/wiki/w:carbenes "wikilink") - [カルベン](../Page/カルベン.md "wikilink")
   - [carbenium ions](https://ja.wikipedia.org/wiki/w:carbenium_ions "wikilink") -
   - [carbenoids](https://ja.wikipedia.org/wiki/w:carbenoids "wikilink") -
   - [carbinolamines](https://ja.wikipedia.org/wiki/w:carbinolamines "wikilink") -
@@ -205,11 +205,11 @@
   - [carbynium ions](https://ja.wikipedia.org/wiki/w:carbynium_ions "wikilink") -
   - [carotenes](https://ja.wikipedia.org/wiki/w:carotenes "wikilink") -
   - [carotenoids](https://ja.wikipedia.org/wiki/w:carotenoids "wikilink") - [カロテノイド](../Page/カロテノイド.md "wikilink")
-  - [catecholamines](https://ja.wikipedia.org/wiki/w:catecholamines "wikilink") - [カテコールアミン](https://ja.wikipedia.org/wiki/カテコールアミン "wikilink")
-  - [w:catenanes](https://ja.wikipedia.org/wiki/w:catenanes "wikilink") /catena compounds- [カテナン](https://ja.wikipedia.org/wiki/カテナン "wikilink")
+  - [catecholamines](https://ja.wikipedia.org/wiki/w:catecholamines "wikilink") - [カテコールアミン](../Page/カテコールアミン.md "wikilink")
+  - [w:catenanes](https://ja.wikipedia.org/wiki/w:catenanes "wikilink") /catena compounds- [カテナン](../Page/カテナン.md "wikilink")
   - [cavitands](https://ja.wikipedia.org/wiki/w:cavitands "wikilink") -
   - [w:cephalins](https://ja.wikipedia.org/wiki/w:cephalins "wikilink") (kephalins)　-
-  - [cephalosporins](https://ja.wikipedia.org/wiki/w:cephalosporins "wikilink") - [セファロスポリン](https://ja.wikipedia.org/wiki/セファロスポリン "wikilink")
+  - [cephalosporins](https://ja.wikipedia.org/wiki/w:cephalosporins "wikilink") - [セファロスポリン](../Page/セファロスポリン.md "wikilink")
   - [cephams](https://ja.wikipedia.org/wiki/w:cephams "wikilink") -
   - [cephems](https://ja.wikipedia.org/wiki/w:cephems "wikilink") -
   - [chalcones](https://ja.wikipedia.org/wiki/w:chalcones "wikilink") -
@@ -465,7 +465,7 @@
 
 ### H
 
-  - [macrolides](https://ja.wikipedia.org/wiki/w:macrolides "wikilink") - [マクロライド](https://ja.wikipedia.org/wiki/マクロライド "wikilink")
+  - [macrolides](https://ja.wikipedia.org/wiki/w:macrolides "wikilink") - [マクロライド](../Page/マクロライド.md "wikilink")
   - [mancude-ring systems](https://ja.wikipedia.org/wiki/w:mancude-ring_systems "wikilink") -
   - [mancunide-ring systems](https://ja.wikipedia.org/wiki/w:mancunide-ring_systems "wikilink") -
   - [Meisenheimer complexes/compounds/adducts](https://ja.wikipedia.org/wiki/w:Meisenheimer_complexes/compounds/adducts "wikilink") -

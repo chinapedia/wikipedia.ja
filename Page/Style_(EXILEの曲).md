@@ -5,13 +5,13 @@
 
 ## 概要　
 
-前作「[Your eyes only 〜曖昧なぼくの輪郭〜](https://ja.wikipedia.org/wiki/Your_eyes_only_〜曖昧なぼくの輪郭〜 "wikilink")」から3ヶ月ぶりのシングル。
+前作「[Your eyes only 〜曖昧なぼくの輪郭〜](../Page/Your_eyes_only_〜曖昧なぼくの輪郭〜.md "wikilink")」から3ヶ月ぶりのシングル。
 
 ## 収録曲
 
 1.  **Style** \[4:42\]
       -
-        作詞：[Kenn Kato](https://ja.wikipedia.org/wiki/Kenn_Kato "wikilink") / 作曲・編曲：[Face 2 fAKE](https://ja.wikipedia.org/wiki/Face_2_fAKE "wikilink")
+        作詞：[Kenn Kato](https://ja.wikipedia.org/wiki/Kenn_Kato "wikilink") / 作曲・編曲：[Face 2 fAKE](../Page/Face_2_fAKE.md "wikilink")
     <!-- end list -->
       - テレビ東京系『[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")』エンディングテーマ
 2.  **Style** (ajapai Remix) \[5:24\]
@@ -19,7 +19,7 @@
         編曲：[ajapai](https://ja.wikipedia.org/wiki/ajapai "wikilink") for ajapai entertainment
     <!-- end list -->
       - 表題曲のリミックスバージョン
-3.  **[Your eyes only 〜曖昧なぼくの輪郭〜](https://ja.wikipedia.org/wiki/Your_eyes_only_〜曖昧なぼくの輪郭〜 "wikilink")** (Eric Kupper Classic Mix) \[3:50\]
+3.  **[Your eyes only 〜曖昧なぼくの輪郭〜](../Page/Your_eyes_only_〜曖昧なぼくの輪郭〜.md "wikilink")** (Eric Kupper Classic Mix) \[3:50\]
       -
         作詞：Kenn Kato / 作曲：Face 2 fAKE / 編曲： Eric Kupper for Hysteria Productions
     <!-- end list -->

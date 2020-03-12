@@ -7,11 +7,11 @@
 
 [2001年](../Page/2001年.md "wikilink")11月、竹尾が中心となり前身となるバンドを結成。友人の紹介で渡會が加入。[2002年](../Page/2002年.md "wikilink")4月に越川、[2003年](../Page/2003年.md "wikilink")9月に菅野がそれぞれ加入。4人編成となる。
 
-2002年にバンド名を現在の名前に改名、その後渋谷や下北沢を中心に精力的なライブ活動を展開する。インディーズでリリースしたミニアルバムが好セールスを記録し、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")5月に[メジャー・デビュー](https://ja.wikipedia.org/wiki/メジャー・デビュー_\(音楽家\) "wikilink")。
+2002年にバンド名を現在の名前に改名、その後渋谷や下北沢を中心に精力的なライブ活動を展開する。インディーズでリリースしたミニアルバムが好セールスを記録し、[2007年](../Page/2007年.md "wikilink")5月に[メジャー・デビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。
 
 2008年7月度の『CDTV』EDに『茶の花』が採用された。
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[9月8日](https://ja.wikipedia.org/wiki/9月8日 "wikilink")のライブをもって越川が脱退。以降はサポートドラマーに武並“J.J.”俊明を迎え、制作・ライブ活動を行っている。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[9月8日](../Page/9月8日.md "wikilink")のライブをもって越川が脱退。以降はサポートドラマーに武並“J.J.”俊明を迎え、制作・ライブ活動を行っている。
 
 [2011年](../Page/2011年.md "wikilink")、インディーズレーベルに移籍。同年、業界初のオーダーメイドアルバムを発表する。
 
@@ -45,17 +45,17 @@
       - FoZZtoneの一部楽曲の作曲を手がける。
       - 活動休止後、2015年秋より「takekings」ギターボーカルとして活動。
   - **菅野信昭**（かんの のぶあき、 - ）
-      - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、コーラス担当。B型。福島県出身。愛称は『キャノン』。
+      - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")、コーラス担当。B型。福島県出身。愛称は『キャノン』。
       - FoZZtoneの一部楽曲の作曲を手がける。
       - 活動休止後は様々なアーティストのサポートに参加
 
-　　　セカイイチ・[the pillows](https://ja.wikipedia.org/wiki/the_pillows "wikilink")・[あいみょん](https://ja.wikipedia.org/wiki/あいみょん "wikilink")・[小田和奏](https://ja.wikipedia.org/wiki/No_Regret_Life "wikilink")・1031jp([the Hangovers](https://ja.wikipedia.org/wiki/The_HANGOVERS "wikilink"))・[カミナリグモ](https://ja.wikipedia.org/wiki/カミナリグモ "wikilink")・かけらフィルム
+　　　セカイイチ・[the pillows](https://ja.wikipedia.org/wiki/the_pillows "wikilink")・[あいみょん](https://ja.wikipedia.org/wiki/あいみょん "wikilink")・[小田和奏](../Page/No_Regret_Life.md "wikilink")・1031jp([the Hangovers](../Page/The_HANGOVERS.md "wikilink"))・[カミナリグモ](https://ja.wikipedia.org/wiki/カミナリグモ "wikilink")・かけらフィルム
 　　　渡會将士・[佐々木李子](https://ja.wikipedia.org/wiki/佐々木李子 "wikilink")・[ポルカドットスティングレイ](https://ja.wikipedia.org/wiki/ポルカドットスティングレイ "wikilink")・MANAMI・かさね・ニーナシェルカ・山口孝司・[上野優華](https://ja.wikipedia.org/wiki/上野優華 "wikilink")
 
 ## 過去に在籍したメンバー
 
   - **越山さん**（こしやまさん、不明 - ）
-      - [パグパイプ](https://ja.wikipedia.org/wiki/バグパイプ "wikilink")、[ギロ](https://ja.wikipedia.org/wiki/ギロ "wikilink")担当。血液型不明。出身不明。
+      - [パグパイプ](https://ja.wikipedia.org/wiki/バグパイプ "wikilink")、[ギロ](../Page/ギロ.md "wikilink")担当。血液型不明。出身不明。
       - 本ページの誤表記により、渡會のブログSTWIM2(Sometimes The World Is Mine2)に登場したメンバー。実際には存在せず、その誤表記も修正されている。
   - **越川慎介**（こしかわ しんすけ、1979年[1月13日](../Page/1月13日.md "wikilink") - ）
       - [ドラムス担当](../Page/ドラムセット.md "wikilink")。B型。千葉県出身。愛称は『こっしー』。
@@ -72,7 +72,7 @@
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>収録曲</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -80,20 +80,20 @@
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="../Page/9月5日.md" title="wikilink">9月5日</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/9月5日.md" title="wikilink">9月5日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/平らな世界" title="wikilink">平らな世界</a></p></td>
 <td><p>12cm<a href="../Page/コンパクトディスク.md" title="wikilink">CD</a></p></td>
 <td><p>TOCT-40121</p></td>
 <td><ol>
 <li>平らな世界</li>
 <li>蜃気楼</li>
-<li><a href="https://ja.wikipedia.org/wiki/虹の彼方に" title="wikilink">OVER THE RAINBOW</a></li>
+<li><a href="../Page/虹の彼方に.md" title="wikilink">OVER THE RAINBOW</a></li>
 </ol></td>
 <td><p>オリコン最高187位</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="../Page/12月5日.md" title="wikilink">12月5日</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/12月5日.md" title="wikilink">12月5日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/黒点_(FoZZtoneのシングル)" title="wikilink">黒点</a></p></td>
 <td><p>12cm<a href="../Page/コンパクトディスク.md" title="wikilink">CD</a></p></td>
 <td><p>TOCT-40176</p></td>
@@ -153,7 +153,7 @@
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>収録曲</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -364,7 +364,7 @@
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>収録曲</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -372,7 +372,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2004年" title="wikilink">2004年</a><a href="https://ja.wikipedia.org/wiki/11月3日" title="wikilink">11月3日</a></p></td>
+<td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><a href="https://ja.wikipedia.org/wiki/11月3日" title="wikilink">11月3日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/boat4" title="wikilink">boat4</a></p></td>
 <td><p>12cm<a href="../Page/コンパクトディスク.md" title="wikilink">CD</a></p></td>
 <td><p>TM-0003</p></td>
@@ -386,7 +386,7 @@
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/10月19日.md" title="wikilink">10月19日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/10月19日.md" title="wikilink">10月19日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/sundaydriver" title="wikilink">sundaydriver</a></p></td>
 <td><p>12cm<a href="../Page/コンパクトディスク.md" title="wikilink">CD</a></p></td>
 <td><p>TM-0004</p></td>
@@ -400,7 +400,7 @@
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/7月12日.md" title="wikilink">7月12日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/7月12日.md" title="wikilink">7月12日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/VERTIGO" title="wikilink">VERTIGO</a></p></td>
 <td><p>12cm<a href="../Page/コンパクトディスク.md" title="wikilink">CD</a></p></td>
 <td><p>TM-0005</p></td>
@@ -415,7 +415,7 @@
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="https://ja.wikipedia.org/wiki/5月9日" title="wikilink">5月9日</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/5月9日.md" title="wikilink">5月9日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/景色の都市" title="wikilink">景色の都市</a></p></td>
 <td><p>12cm<a href="../Page/コンパクトディスク.md" title="wikilink">CD</a></p></td>
 <td><p>TOCT-22281</p></td>
@@ -431,7 +431,7 @@
 </tr>
 <tr class="odd">
 <td><p>5th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="https://ja.wikipedia.org/wiki/7月23日" title="wikilink">7月23日</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/7月23日.md" title="wikilink">7月23日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ワインドアップ_(FoZZtoneのアルバム)" title="wikilink">ワインドアップ</a></p></td>
 <td><p>12cm<a href="../Page/コンパクトディスク.md" title="wikilink">CD</a></p></td>
 <td><p>TOCT-22293</p></td>
@@ -490,7 +490,7 @@
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>収録曲</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -539,7 +539,7 @@
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>収録候補曲</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -644,7 +644,7 @@
 <th><p>レンタル開始日</p></th>
 <th><p>タイトル</p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>収録曲</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -669,7 +669,7 @@
 <li>LOVE（Live ver.）</li>
 <li>Return to Earth DEMO 1</li>
 </ol></td>
-<td><p><a href="../Page/2014年.md" title="wikilink">2014年</a><a href="https://ja.wikipedia.org/wiki/10月31日" title="wikilink">10月31日</a>まで。<a href="https://ja.wikipedia.org/wiki/TSUTAYA" title="wikilink">TSUTAYA</a>限定無料レンタル盤。</p></td>
+<td><p><a href="../Page/2014年.md" title="wikilink">2014年</a><a href="../Page/10月31日.md" title="wikilink">10月31日</a>まで。<a href="https://ja.wikipedia.org/wiki/TSUTAYA" title="wikilink">TSUTAYA</a>限定無料レンタル盤。</p></td>
 </tr>
 </tbody>
 </table>
@@ -717,12 +717,12 @@
 <li>バーニング・ラヴ / <a href="https://ja.wikipedia.org/wiki/FAT_PROP" title="wikilink">FAT PROP</a></li>
 <li>サスピシャス・マインド / <a href="https://ja.wikipedia.org/wiki/S.M.N." title="wikilink">S.M.N.</a></li>
 <li>南風と太陽 / <a href="../Page/MONGOL800.md" title="wikilink">MONGOL800</a></li>
-<li>ラバーネッキン / <a href="https://ja.wikipedia.org/wiki/KING_BROTHERS" title="wikilink">KING BROTHERS</a></li>
+<li>ラバーネッキン / <a href="../Page/KING_BROTHERS.md" title="wikilink">KING BROTHERS</a></li>
 <li><strong>ハートブレイク・ホテル / FoZZtone</strong></li>
 <li>ラハイナ / <a href="https://ja.wikipedia.org/wiki/真空ホロウ" title="wikilink">真空ホロウ</a></li>
 <li>Rodeo star mate / <a href="https://ja.wikipedia.org/wiki/the_pillows" title="wikilink">the pillows</a></li>
-<li>パイナップル・プリンセス / <a href="https://ja.wikipedia.org/wiki/かりゆし58" title="wikilink">かりゆし58</a></li>
-<li>ハウンド・ドッグ / <a href="https://ja.wikipedia.org/wiki/HIFANA" title="wikilink">HIFANA</a>
+<li>パイナップル・プリンセス / <a href="../Page/かりゆし58.md" title="wikilink">かりゆし58</a></li>
+<li>ハウンド・ドッグ / <a href="../Page/HIFANA.md" title="wikilink">HIFANA</a>
 </div>
 </div></li>
 </ol></td>
@@ -747,7 +747,7 @@
 </div>
 </div></li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セカイイチ" title="wikilink">セカイイチ</a>とFoZZtone名義 オリコン最高54位</p></td>
+<td><p><a href="../Page/セカイイチ.md" title="wikilink">セカイイチ</a>とFoZZtone名義 オリコン最高54位</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2014年.md" title="wikilink">2014年</a><a href="../Page/11月19日.md" title="wikilink">11月19日</a></p></td>
@@ -808,11 +808,11 @@
 <li>切望のフリージア / <a href="https://ja.wikipedia.org/wiki/DaizyStripper" title="wikilink">DaizyStripper</a></li>
 <li>魂ドライブ / <a href="https://ja.wikipedia.org/wiki/カラーボトル" title="wikilink">カラーボトル</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Wild_Child" title="wikilink">Wild Child</a> / <a href="https://ja.wikipedia.org/wiki/moumoon" title="wikilink">moumoon</a></li>
-<li>折れないハート / <a href="https://ja.wikipedia.org/wiki/高取ヒデアキ" title="wikilink">高取ヒデアキ</a></li>
+<li>折れないハート / <a href="../Page/高取ヒデアキ.md" title="wikilink">高取ヒデアキ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/深海魚の夢は所詮、/アーティスト" title="wikilink">アーティスト</a> / <a href="https://ja.wikipedia.org/wiki/vistlip" title="wikilink">vistlip</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/鏡のデュアル・イズム/100%サイダーガール" title="wikilink">鏡のデュアル・イズム</a> / <a href="https://ja.wikipedia.org/wiki/petit_milady" title="wikilink">petit milady</a></li>
 <li><strong>GO WAY GO WAY / FoZZtone</strong></li>
-<li>Wonder Wings / <a href="https://ja.wikipedia.org/wiki/ダイアモンド☆ユカイ" title="wikilink">ダイアモンド☆ユカイ</a></li>
+<li>Wonder Wings / <a href="../Page/ダイアモンド☆ユカイ.md" title="wikilink">ダイアモンド☆ユカイ</a></li>
 <li>Challenge the GAME / REDMAN</li>
 </ol></td>
 <td><p>オリコン最高90位</p></td>
@@ -832,7 +832,7 @@
 |                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                             |
 | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **監督**                                                                                                                    | **曲名**                                                                                                                                                                                                                                                                                                                                                      |
-| [井上哲央](https://ja.wikipedia.org/wiki/井上哲央 "wikilink")                                                                     | 「[Elevator](https://www.youtube.com/watch?v=MpHtWSNa5o8)」「[LOVE](https://www.youtube.com/watch?v=DPPklmSSrlA)」「[Reach to Mars](https://www.youtube.com/watch?v=TG8A4iY7a2s)」「[音楽](https://www.youtube.com/watch?v=aX1UxhU73xg)」「[黒点](https://www.youtube.com/watch?v=kFR5MwzSH-w)」「[平らな世界](https://www.youtube.com/watch?v=_UrIwK2m1bA)」                    |
+| [井上哲央](../Page/井上哲央.md "wikilink")                                                                                        | 「[Elevator](https://www.youtube.com/watch?v=MpHtWSNa5o8)」「[LOVE](https://www.youtube.com/watch?v=DPPklmSSrlA)」「[Reach to Mars](https://www.youtube.com/watch?v=TG8A4iY7a2s)」「[音楽](https://www.youtube.com/watch?v=aX1UxhU73xg)」「[黒点](https://www.youtube.com/watch?v=kFR5MwzSH-w)」「[平らな世界](https://www.youtube.com/watch?v=_UrIwK2m1bA)」                    |
 | [北平誠治](https://ja.wikipedia.org/wiki/北平誠治 "wikilink")                                                                     | 「[GO WAY GO WAY](https://www.youtube.com/watch?v=S8eilh3QwsM)」「[NO WAY NO WAY](https://www.youtube.com/watch?v=S8eilh3QwsM)」「[NAME](https://www.youtube.com/watch?v=lvakUVzo3yo)」「[the world is mine](https://www.youtube.com/watch?v=u2evbYOEjJw)」「[春と鉛](https://www.youtube.com/watch?v=-nomb0qSIOc)」「[茶の花](https://www.youtube.com/watch?v=vatH83QcxVk)」 |
 | 北平誠治 / くぼめぐ                                                                                                               | 「[口笛男](https://www.youtube.com/watch?v=H585CYqrGkU)」                                                                                                                                                                                                                                                                                                        |
 | [くぼめぐ](https://ja.wikipedia.org/wiki/くぼめぐ "wikilink")                                                                     | 「[the imprinting](https://www.youtube.com/watch?v=LUKk1H-bPr4)」                                                                                                                                                                                                                                                                                             |
@@ -845,11 +845,11 @@
 
 ## タイアップ
 
-| 曲名            | タイアップ                                                                                                                                                         |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 平らな世界         | [TBS系](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")『[COUNT DOWN TV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")』2007年9月度エンディングテーマ |
-| 茶の花           | [TBS系](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")『[COUNT DOWN TV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")』2008年7月度エンディングテーマ |
-| GO WAY GO WAY | アニメ『[遊☆戯☆王ZEXAL II](https://ja.wikipedia.org/wiki/遊☆戯☆王ZEXAL "wikilink")』エンディングテーマ                                                                            |
+| 曲名            | タイアップ                                                                                                                                      |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 平らな世界         | [TBS系](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")『[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")』2007年9月度エンディングテーマ |
+| 茶の花           | [TBS系](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")『[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")』2008年7月度エンディングテーマ |
+| GO WAY GO WAY | アニメ『[遊☆戯☆王ZEXAL II](https://ja.wikipedia.org/wiki/遊☆戯☆王ZEXAL "wikilink")』エンディングテーマ                                                         |
 
 ## 主なライブ
 
@@ -861,7 +861,7 @@
   - 2011年 - Lodestone Tour IV "at the NEW WORLD"
   - 2011年 - Mama said "Yes\!" Papa said "Go\!"
       -
-        w/[カミナリグモ](https://ja.wikipedia.org/wiki/カミナリグモ "wikilink") / [LUNKHEAD](https://ja.wikipedia.org/wiki/LUNKHEAD "wikilink")
+        w/[カミナリグモ](https://ja.wikipedia.org/wiki/カミナリグモ "wikilink") / [LUNKHEAD](../Page/LUNKHEAD.md "wikilink")
   - 2012年 - FoZZtoneアコースティックワンマンライブ「yoroshuwoss-torinaharay 5/2夜」
   - 2012年 - FoZZtone『REC OK\! TOUR』
   - 2012年 - INNER KINGDOM TOUR
@@ -871,7 +871,7 @@
   - 2013年06月26日 - FoZZtone 購入者限定スペシャルアウトストアライブ＆公開インタビュー＆サイン会
   - 2013年07月09日〜08月09日（6公演） - REC OK\!「Reach to Mars」TOUR
       -
-        w/[DOES](https://ja.wikipedia.org/wiki/DOES "wikilink")/[the band apart](https://ja.wikipedia.org/wiki/the_band_apart "wikilink")/[MONOBRIGHT](https://ja.wikipedia.org/wiki/MONOBRIGHT "wikilink")/[GOING UNDER GROUND](https://ja.wikipedia.org/wiki/GOING_UNDER_GROUND "wikilink")
+        w/[DOES](https://ja.wikipedia.org/wiki/DOES "wikilink")/[the band apart](https://ja.wikipedia.org/wiki/the_band_apart "wikilink")/[MONOBRIGHT](https://ja.wikipedia.org/wiki/MONOBRIGHT "wikilink")/[GOING UNDER GROUND](../Page/GOING_UNDER_GROUND.md "wikilink")
   - 2013年09月07日 - 「Reach to Mars」TOUR FINAL
   - 2013年10月1日,24日 - バンドマンは愛を叫ぶ
   - 2014年03月20日 - 「バンドマンは愛を叫ぶ」レコ発ツアー
@@ -886,11 +886,11 @@
   - 2007年08月20日 - TREASURE05X 2007 ～30th road goes on 2nd day～
   - 2007年10月27日 - MINAMI WHEEL 2007
   - 2007年12月08日 - スペースシャワー列伝 第70巻 ～音袋(ネブクロ)の宴～
-  - 2007年12月28日 - [COUNTDOWN JAPAN](https://ja.wikipedia.org/wiki/COUNTDOWN_JAPAN "wikilink") 07/08
+  - 2007年12月28日 - [COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 07/08
   - 2008年07月20日 - 大船渡ロックフェスティバル'08
   - 2008年08月01日 - [ROCK IN JAPAN FESTIVAL](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink") 2008
   - 2008年08月01日 - TREASURE05X 2008 ～screaming triangle 1st day～
-  - 2008年10月05日 - [STAN](https://ja.wikipedia.org/wiki/STAN "wikilink")「STT～すごく楽しいツアー」
+  - 2008年10月05日 - [STAN](../Page/STAN.md "wikilink")「STT～すごく楽しいツアー」
   - 2008年11月01日 - MINAMI WHEEL 2008
   - 2008年12月28日 - COUNTDOWN JAPAN 08/09
   - 2009年03月22日・25日・27日・04月01日・05日 - VINTAGE LEAGUE TOUR 2009 "Seven Stars"
@@ -899,7 +899,7 @@
   - 2009年08月02日 - ROCK IN JAPAN FESTIVAL 2009
   - 2009年08月05日 - TREASURE05X 2009 ～one step closer～
   - 2009年12月29日 - COUNTDOWN JAPAN 09/10
-  - 2010年02月14日・24日 - [SNOWKEL](https://ja.wikipedia.org/wiki/シュノーケル_\(バンド\) "wikilink") THE LAST TOUR "素潜り"
+  - 2010年02月14日・24日 - [SNOWKEL](../Page/シュノーケル_\(バンド\).md "wikilink") THE LAST TOUR "素潜り"
   - 2010年05月02日 - [ARABAKI ROCK FEST.](../Page/ARABAKI_ROCK_FEST..md "wikilink")10
   - 2010年08月15日 - TREASURE05X 2010 ～PRECIOUS GENERATION 2ND DAY～
   - 2010年09月04日 - 秋の夜長SPECIAL～VSシリーズ
@@ -931,7 +931,7 @@
   - 2013年06月21日 - 大ナナイト vol.67
   - 2013年07月21日 - 夏びらきMUSIC FESTIVAL'13
   - 2013年07月28日 - [JOIN ALIVE](https://ja.wikipedia.org/wiki/JOIN_ALIVE "wikilink") 2013
-  - 2013年09月28日・29日 - [セカイイチ](https://ja.wikipedia.org/wiki/セカイイチ "wikilink") presents「光風動春」
+  - 2013年09月28日・29日 - [セカイイチ](../Page/セカイイチ.md "wikilink") presents「光風動春」
   - 2013年10月02日 - 岩崎慧(セカイイチ)+渡會将士(FoZZtone)
   - 2013年10月14日 - MINAMI WHEEL 2013
   - 2013年10月27日 - hibiya yaon 90th anniversary MUSIC MONSTERS SPECIAL 2013 ～Today, Tomorrow & Forever～
@@ -945,7 +945,7 @@
   - 2014年03月11日 - MASTER PEACE 2014
   - 2014年03月21日 - SANUKI ROCK COLOSSEUM(「セカイイチとFoZZtone」で出演)
   - 2014年03月22日 - BEAxZepp Fukuoka FX 2014(「セカイイチとFoZZtone」で出演)
-  - 2014年04月13日 - [GOING UNDER GROUND](https://ja.wikipedia.org/wiki/GOING_UNDER_GROUND "wikilink") TOUR 2014「ひとりぼっちになる日のために」
+  - 2014年04月13日 - [GOING UNDER GROUND](../Page/GOING_UNDER_GROUND.md "wikilink") TOUR 2014「ひとりぼっちになる日のために」
   - 2014年04月28日 - 南堀江knave「Who's Next」
   - 2014年04月29日 - 舞音楽祭-MAI ASIA MUSIC FESTIVAL 2014- (「セカイイチとFoZZtone」で出演)
   - 2014年07月19日 - 夏びらきMUSIC FESTIVAL'14 所沢(「セカイイチとFoZZtone」で出演)
@@ -962,7 +962,7 @@
 
   - [FoZZtone_official web site](http://www.fozztone.com)(2016年5月31日 閉鎖)
 
-  - [EMI Music Japan | FoZZtone](http://www.emimusic.jp/domestic/artists/fozztone/) - [EMIミュージック・ジャパン](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")による公式ページ
+  - [EMI Music Japan | FoZZtone](http://www.emimusic.jp/domestic/artists/fozztone/) - [EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink")による公式ページ
 
   -   - [渡會将士 official web site](https://wataraimasashi.com)
       - [takekings.com](http://takekings.com/)

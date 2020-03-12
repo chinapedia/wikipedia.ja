@@ -11,15 +11,15 @@
 
 「3拍子がメリーゴーランド風で良いねぇ。回る回るだねぇ。」などと言いつつ、山中湖合宿でこの曲の原形を作った時にhideが口ずさんでいたメロディーをI.N.A.がストリングスの音で弾き出した時、hideが「おっ、イイねぇ。ストリングス！」と言っていた。翌日、歌詞が完成し「memo2（仮）」は「HURRY GO ROUND」となり、仮のアコースティックギターと仮ボーカルをレコーディングし、I.N.A.がストリングス・パートをレコーディングしようかという段階でhideが、「この曲はもう（完成型が）見えたから終わり。おいといて『Spread Beaverのテーマ』やろう。」と言ったため、I.N.A.がストリングス・パートを「頭の中にセーブ」しておき、後に生のストリングスを録音した。
 
-hideは仮のギターしか録音していなかったため、本番のレコーディングでは[PATA](https://ja.wikipedia.org/wiki/PATA "wikilink")\[1\]と[KIYOSHI](https://ja.wikipedia.org/wiki/KIYOSHI "wikilink")がギターを弾いた\[2\]。そのため、『Ja,Zoo』に収められている楽曲では唯一hideが楽器を弾いていない。
+hideは仮のギターしか録音していなかったため、本番のレコーディングでは[PATA](../Page/PATA.md "wikilink")\[1\]と[KIYOSHI](../Page/KIYOSHI.md "wikilink")がギターを弾いた\[2\]。そのため、『Ja,Zoo』に収められている楽曲では唯一hideが楽器を弾いていない。
 
 元々は9月頃に出す予定で、カップリングにはSpread Beaverによる「[TELL ME](../Page/TELL_ME_\(hideの曲\).md "wikilink")」の一発録りを入れる予定だった。
 
 シングルは、1998年[11月2日](../Page/11月2日.md "wikilink")付のオリコン週間シングルランキングで最高2位を獲得した\[3\]。
 
-hide Seva \[C-Aid\]では[CHIROLYN](https://ja.wikipedia.org/wiki/CHIROLYN "wikilink")がアコギを弾きながらヴォーカルを務めた。その際、CHIROLYNが普段担当していたベースは[X JAPANの](../Page/X_JAPAN.md "wikilink")[HEATH](https://ja.wikipedia.org/wiki/HEATH "wikilink")が弾いた。
+hide Seva \[C-Aid\]では[CHIROLYN](../Page/CHIROLYN.md "wikilink")がアコギを弾きながらヴォーカルを務めた。その際、CHIROLYNが普段担当していたベースは[X JAPANの](../Page/X_JAPAN.md "wikilink")[HEATH](../Page/HEATH.md "wikilink")が弾いた。
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[5月2日](../Page/5月2日.md "wikilink")に、「[MISERY](https://ja.wikipedia.org/wiki/MISERY "wikilink")」「[Beauty & Stupid](https://ja.wikipedia.org/wiki/Beauty_&_Stupid "wikilink")」「[ROCKET DIVE](../Page/ROCKET_DIVE.md "wikilink")」「[ever free](https://ja.wikipedia.org/wiki/ever_free_\(hide_with_Spread_Beaverの曲\) "wikilink")」と共に[マキシシングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")化され、再発売された\[4\]。
+[2007年](../Page/2007年.md "wikilink")[5月2日](../Page/5月2日.md "wikilink")に、「[MISERY](../Page/MISERY.md "wikilink")」「[Beauty & Stupid](../Page/Beauty_&_Stupid.md "wikilink")」「[ROCKET DIVE](../Page/ROCKET_DIVE.md "wikilink")」「[ever free](https://ja.wikipedia.org/wiki/ever_free_\(hide_with_Spread_Beaverの曲\) "wikilink")」と共に[マキシシングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")化され、再発売された\[4\]。
 
 ## 収録曲
 
@@ -27,7 +27,7 @@ hide Seva \[C-Aid\]では[CHIROLYN](https://ja.wikipedia.org/wiki/CHIROLYN "wiki
 
 1.  **HURRY GO ROUND** \[5:04\]
       -
-        [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[スーパーテレビ情報最前線](https://ja.wikipedia.org/wiki/スーパーテレビ情報最前線 "wikilink")』エンディングテーマ\[5\]。
+        [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[スーパーテレビ情報最前線](../Page/スーパーテレビ情報最前線.md "wikilink")』エンディングテーマ\[5\]。
         hide 20th Memorial Projectとして、映画『HURRY GO ROUND』と同時期に制作が進められていたトリビュート・アルバム『hide TRIBUTE IMPULSE』の制作過程で、発売から20年越しボーカルの別テイクが発見された。この別テイクの音源は、オリジナルテイクのPATAによる[アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")の演奏に乗せられ、「**HURRY GO ROUND (hide vocal Take2)**」として映画の主題歌に採用された\[6\]。後にリリースされた『hide TRIBUTE IMPULSE』にも収録された\[7\]。
 2.  **HURRY GO ROUND (voiceless version)** \[5:02\]
 

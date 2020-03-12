@@ -17,7 +17,7 @@
 
 2011年にはバンドサウンドにシンセサイザーや打ち込みを取り入れた方向性の完成形ともいえるアルバム、『[For all the innocence](https://ja.wikipedia.org/wiki/For_all_the_innocence "wikilink")』をリリース。[SXSW](http://sxsw.com/)を含む3度目のUSツアーを敢行。秋に4度目のヨーロッパツアーを行った。
 
-2012年にはEP『[past, present, future](https://ja.wikipedia.org/wiki/past,_present,_future "wikilink")』リリース。[マイス・パレード](https://ja.wikipedia.org/wiki/マイス・パレード "wikilink")から[Carolineをゲストボーカルに迎え](https://ja.wikipedia.org/wiki/キャロライン・ラフキン "wikilink")、初の歌もの曲を中心に新たな境地へ到達している。2月に東京LIQUIDLOOM、大阪Shangri-Laにてワンマンライブ。1部は4人で初期の曲を中心に演奏し、2部は近年のエレクトロニックな曲群を、ゲストミュージシャンと共に生演奏で再現するスペシャルなライブとなった。2月、7月と2度のアジアツアー敢行。[RISING SUN ROCK FESTIVAL](https://ja.wikipedia.org/wiki/RISING_SUN_ROCK_FESTIVAL "wikilink")、[SUMMER SONIC出演](https://ja.wikipedia.org/wiki/SUMMER_SONIC "wikilink")。秋には4度目のUSツアーを行う。
+2012年にはEP『[past, present, future](https://ja.wikipedia.org/wiki/past,_present,_future "wikilink")』リリース。[マイス・パレード](../Page/マイス・パレード.md "wikilink")から[Carolineをゲストボーカルに迎え](https://ja.wikipedia.org/wiki/キャロライン・ラフキン "wikilink")、初の歌もの曲を中心に新たな境地へ到達している。2月に東京LIQUIDLOOM、大阪Shangri-Laにてワンマンライブ。1部は4人で初期の曲を中心に演奏し、2部は近年のエレクトロニックな曲群を、ゲストミュージシャンと共に生演奏で再現するスペシャルなライブとなった。2月、7月と2度のアジアツアー敢行。[RISING SUN ROCK FESTIVAL](https://ja.wikipedia.org/wiki/RISING_SUN_ROCK_FESTIVAL "wikilink")、[SUMMER SONIC出演](https://ja.wikipedia.org/wiki/SUMMER_SONIC "wikilink")。秋には4度目のUSツアーを行う。
 
 2013年、2年ぶり4枚目となる10曲収録のフルアルバム『[Installation](https://ja.wikipedia.org/wiki/Installation_\(アルバム\) "wikilink")』をリリース。日本とアメリカの2カ国でレコーディングが行われ、初期LITEのテクニカルでエモーショナルなリフやメロディと、シンセ導入以降のエレクトリック・ミュージックとの融合された作品となっている。また、同アルバムはアメリカのTopshelf Recordsからもリリースされた。また今作に合わせた海外ツアーも行なう。
 
@@ -109,7 +109,7 @@
 <td></td>
 <td><ol>
 <li>Rabbit</li>
-<li>Image Game (<a href="https://ja.wikipedia.org/wiki/DE_DE_MOUSE" title="wikilink">DE DE MOUSE</a> 4+1 remix)</li>
+<li>Image Game (<a href="../Page/DE_DE_MOUSE.md" title="wikilink">DE DE MOUSE</a> 4+1 remix)</li>
 </ol></td>
 <td><p>7inch vinyl/Digital</p></td>
 </tr>
@@ -439,7 +439,7 @@ IWTM-1009:CD+12inchアナログ盤</p></td>
 </ol>
 <ul>
 <li>2012年2月ワンマンライブ@恵比寿LIQUIDROOM</li>
-<li>ギターに戸高賢史(<a href="https://ja.wikipedia.org/wiki/ART-SCHOOL" title="wikilink">ART-SCHOOL</a>)、キーボードにシモリョー(<a href="https://ja.wikipedia.org/wiki/the_chef_cooks_me" title="wikilink">the chef cooks me</a>)、パーカッションにKAKUEI(<a href="https://ja.wikipedia.org/wiki/OVERGROUND_ACOUSTIC_UNDERGROUND" title="wikilink">OVERGROUND ACOUSTIC UNDERGROUND</a>)、ボーカルに<a href="https://ja.wikipedia.org/wiki/キャロライン・ラフキン" title="wikilink">キャロライン・ラフキン</a>(<a href="https://ja.wikipedia.org/wiki/マイス・パレード" title="wikilink">マイス・パレード</a>)、 コーラスにアチコ(Ropes)が参加。</li>
+<li>ギターに戸高賢史(<a href="../Page/ART-SCHOOL.md" title="wikilink">ART-SCHOOL</a>)、キーボードにシモリョー(<a href="https://ja.wikipedia.org/wiki/the_chef_cooks_me" title="wikilink">the chef cooks me</a>)、パーカッションにKAKUEI(<a href="../Page/OVERGROUND_ACOUSTIC_UNDERGROUND.md" title="wikilink">OVERGROUND ACOUSTIC UNDERGROUND</a>)、ボーカルに<a href="https://ja.wikipedia.org/wiki/キャロライン・ラフキン" title="wikilink">キャロライン・ラフキン</a>(<a href="../Page/マイス・パレード.md" title="wikilink">マイス・パレード</a>)、 コーラスにアチコ(Ropes)が参加。</li>
 </ul></td>
 <td><p>1,000枚限定生産</p></td>
 </tr>
@@ -488,12 +488,12 @@ IWTM-1009:CD+12inchアナログ盤</p></td>
 
 ### 参加作品
 
-| 発売日         | タイトル                                                                                                             | 規格品番       | 収録曲                             | 備考                   |
-| ----------- | ---------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------- | -------------------- |
-| 2006年11月22日 | **RadioheadTribute -Master’s Collection-**                                                                       | GYCL-10018 | 5.Everything In Its Right Place | get over the records |
-| 2011年03月02日 | **FREE THROW COMPILATION**                                                                                       | RDCA-9001  | DISC1-8.The Sun Sank            | HIP LAND MUSIC       |
-| 2012年02月08日 | **FREE THROW COMPILATION Vol.2**                                                                                 | RDCA-9006  | 3\. Pirates and Parakeets       | HIP LAND MUSIC       |
-| 2014年06月11日 | **The Broccasion -music inspired by [BACK DROP BOMB](https://ja.wikipedia.org/wiki/BACK_DROP_BOMB "wikilink")-** | CTCR-14827 | 10\. REMIND ME                  | cutting edge         |
+| 発売日         | タイトル                                                                                          | 規格品番       | 収録曲                             | 備考                   |
+| ----------- | --------------------------------------------------------------------------------------------- | ---------- | ------------------------------- | -------------------- |
+| 2006年11月22日 | **RadioheadTribute -Master’s Collection-**                                                    | GYCL-10018 | 5.Everything In Its Right Place | get over the records |
+| 2011年03月02日 | **FREE THROW COMPILATION**                                                                    | RDCA-9001  | DISC1-8.The Sun Sank            | HIP LAND MUSIC       |
+| 2012年02月08日 | **FREE THROW COMPILATION Vol.2**                                                              | RDCA-9006  | 3\. Pirates and Parakeets       | HIP LAND MUSIC       |
+| 2014年06月11日 | **The Broccasion -music inspired by [BACK DROP BOMB](../Page/BACK_DROP_BOMB.md "wikilink")-** | CTCR-14827 | 10\. REMIND ME                  | cutting edge         |
 
 ## ミュージックビデオ
 
@@ -517,7 +517,7 @@ IWTM-1009:CD+12inchアナログ盤</p></td>
   - 2010年09月15日〜19日 - Illuminate Release Tour
   - 2012年06月23日 - LITE PRESENTS SPECTRUM VOL.7
       -
-        w/[mouse on the keys](https://ja.wikipedia.org/wiki/mouse_on_the_keys "wikilink"), [環ROY](https://ja.wikipedia.org/wiki/環ROY "wikilink")×山本晃紀(LITE)×戸高賢史([ART-SCHOOL](https://ja.wikipedia.org/wiki/ART-SCHOOL "wikilink")/Ropes)
+        w/[mouse on the keys](https://ja.wikipedia.org/wiki/mouse_on_the_keys "wikilink"), [環ROY](https://ja.wikipedia.org/wiki/環ROY "wikilink")×山本晃紀(LITE)×戸高賢史([ART-SCHOOL](../Page/ART-SCHOOL.md "wikilink")/Ropes)
   - 2012年07月06日・07日 - Past, Present, Future asian tour 2012
       -
         香港・クアラルンプール
@@ -531,7 +531,7 @@ IWTM-1009:CD+12inchアナログ盤</p></td>
         スペイン・フランス・オランダ・ベルギー・イギリス・アイルランド・デンマーク
   - 2014年05月25日〜06月20日 - LITE Japan tour 2014「APPROACHES 3」
       -
-        w/[downy](https://ja.wikipedia.org/wiki/downy "wikilink")/DE DE MOUSE + his drummer(Akinori Yamamoto from LITE）/[avengers in sci-fi](https://ja.wikipedia.org/wiki/avengers_in_sci-fi "wikilink")/[OGRE YOU ASSHOLE](https://ja.wikipedia.org/wiki/OGRE_YOU_ASSHOLE "wikilink")/環ROYバンド(環ROY×戸高賢史×山本晃紀)/[LOSTAGE](https://ja.wikipedia.org/wiki/LOSTAGE "wikilink")/Tera Melos
+        w/[downy](https://ja.wikipedia.org/wiki/downy "wikilink")/DE DE MOUSE + his drummer(Akinori Yamamoto from LITE）/[avengers in sci-fi](https://ja.wikipedia.org/wiki/avengers_in_sci-fi "wikilink")/[OGRE YOU ASSHOLE](../Page/OGRE_YOU_ASSHOLE.md "wikilink")/環ROYバンド(環ROY×戸高賢史×山本晃紀)/[LOSTAGE](../Page/LOSTAGE.md "wikilink")/Tera Melos
   - 2014年09月10日〜20日 - LITE US TOUR 2014
   - 2015年03月23日〜29日 - LITE US TOUR 2015
       -
@@ -544,12 +544,12 @@ IWTM-1009:CD+12inchアナログ盤</p></td>
   - 2006年12月21日 - スペースシャワー列伝 第64巻 ～代官山・冬の陣～
   - 2007年07月14日 - New Audiogram ver. 1.2
   - 2007年07月29日 - [FUJI ROCK FESTIVAL](https://ja.wikipedia.org/wiki/FUJI_ROCK_FESTIVAL "wikilink") '07
-  - 2007年12月28日 - [COUNTDOWN JAPAN](https://ja.wikipedia.org/wiki/COUNTDOWN_JAPAN "wikilink") 07/08
-  - 2008年08月31日 - [RUSH BALL](https://ja.wikipedia.org/wiki/RUSH_BALL "wikilink") 2008
+  - 2007年12月28日 - [COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 07/08
+  - 2008年08月31日 - [RUSH BALL](../Page/RUSH_BALL.md "wikilink") 2008
   - 2008年12月28日 - COUNTDOWN JAPAN 08/09
   - 2009年03月03日・04日 - [サカナクション](https://ja.wikipedia.org/wiki/サカナクション "wikilink") SAKANAQUARIUM 2009 シンシロ
   - 2009年08月08日 - [SUMMER SONIC](https://ja.wikipedia.org/wiki/SUMMER_SONIC "wikilink") 2009
-  - 2010年02月06日 - [9mm Parabellum Bullet](https://ja.wikipedia.org/wiki/9mm_Parabellum_Bullet "wikilink") 命ノゼンマイ大巡業
+  - 2010年02月06日 - [9mm Parabellum Bullet](../Page/9mm_Parabellum_Bullet.md "wikilink") 命ノゼンマイ大巡業
   - 2010年07月31日 - FUJI ROCK FESTIVAL '10
   - 2011年01月08日 - BALLOONS presents "BOOOST\!\!\!"
   - 2011年08月21日 - Re:mix 2011
@@ -559,9 +559,9 @@ IWTM-1009:CD+12inchアナログ盤</p></td>
   - 2012年06月22日 - [rega](https://ja.wikipedia.org/wiki/rega "wikilink") SOLT & PLUM Tour
   - 2012年08月11日 - [RISING SUN ROCK FESTIVAL](https://ja.wikipedia.org/wiki/RISING_SUN_ROCK_FESTIVAL "wikilink") 2012 in EZO
   - 2012年08月18日 - SUMMER SONIC 2012
-  - 2012年09月05日 - [LOSALIOS](https://ja.wikipedia.org/wiki/LOSALIOS "wikilink")
+  - 2012年09月05日 - [LOSALIOS](../Page/LOSALIOS.md "wikilink")
   - 2012年11月17日 - SYNCHRONICITY '12 AUTUMN
-  - 2012年11月30日・12月01日 - [DE DE MOUSE](https://ja.wikipedia.org/wiki/DE_DE_MOUSE "wikilink")「sky was dark release tour」
+  - 2012年11月30日・12月01日 - [DE DE MOUSE](../Page/DE_DE_MOUSE.md "wikilink")「sky was dark release tour」
   - 2013年01月14日 - HighApps Vol.10 SPECIAL\!\! ～2013 New Year Rock Party\!～
   - 2013年01月27日 - New Audiogram ver.6"
   - 2013年04月21日 - わをん2013-春-
@@ -581,7 +581,7 @@ IWTM-1009:CD+12inchアナログ盤</p></td>
   - 2014年10月09日 - FREE THROW COMPILATION Vol.3 RELEASE TOUR FINAL"
   - 2014年10月15日 - スペースシャワー列伝 100巻記念公演 第106巻 踊躍歓喜の宴
   - 2014年10月17日・18日 - [avengers in sci-fi](https://ja.wikipedia.org/wiki/avengers_in_sci-fi "wikilink") "Home Chic Tour"
-  - 2014年10月25日 - [LOSTAGE](https://ja.wikipedia.org/wiki/LOSTAGE "wikilink") presents \[生活2014\]
+  - 2014年10月25日 - [LOSTAGE](../Page/LOSTAGE.md "wikilink") presents \[生活2014\]
   - 2014年12月06日 - HELLO INDIE 2014
   - 2014年12月17日・18日・19日 - [Adebisi Shank](https://ja.wikipedia.org/wiki/Adebisi_Shank "wikilink") Japan Tour 2014「This Is The Last Tour Of A Band Called Adebisi Shank」
   - 2014年12月22日 - RED RISING

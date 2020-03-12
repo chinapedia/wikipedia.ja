@@ -7,18 +7,18 @@
 
 通称第三期に発表したアルバムの中では唯一[シングル](../Page/シングル.md "wikilink")曲が含まれていないオリジナルアルバムである。オリジナルアルバムとしては約二年ぶりのリリースであった。
 
-また、このアルバム収録曲では「この世の果てまで」のみ[プロモーション・ビデオが存在する](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。the pillowsのメンバーが曲を演奏するのみのシンプルな作品に仕上げられている。
+また、このアルバム収録曲では「この世の果てまで」のみ[プロモーション・ビデオが存在する](../Page/ミュージック・ビデオ.md "wikilink")。the pillowsのメンバーが曲を演奏するのみのシンプルな作品に仕上げられている。
 
-このアルバムから山中はギターを10年以上使用してきた[ESP製テレキャスター](https://ja.wikipedia.org/wiki/イーエスピー "wikilink")・シンラインからフェンダーのサイクロンへと変えた。併せてアンプとエフェクターも変えた。
+このアルバムから山中はギターを10年以上使用してきた[ESP製テレキャスター](../Page/イーエスピー.md "wikilink")・シンラインからフェンダーのサイクロンへと変えた。併せてアンプとエフェクターも変えた。
 
-「Monster C.C」は[モハメド・アリ](../Page/モハメド・アリ.md "wikilink")について歌ったものであり、「Calvero」の歌詞は、[チャーリー・チャップリン](https://ja.wikipedia.org/wiki/チャーリー・チャップリン "wikilink")の映画『[ライムライト](https://ja.wikipedia.org/wiki/ライムライト_\(映画\) "wikilink")』を題材にしている。
+「Monster C.C」は[モハメド・アリ](../Page/モハメド・アリ.md "wikilink")について歌ったものであり、「Calvero」の歌詞は、[チャーリー・チャップリン](https://ja.wikipedia.org/wiki/チャーリー・チャップリン "wikilink")の映画『[ライムライト](../Page/ライムライト_\(映画\).md "wikilink")』を題材にしている。
 
 隠しトラックの「SON OF A BEACH」はアルバムのレコーディング期にシンイチロウがウクレレにはまっていたことがきっかけで録音したもの。題名は山中がつけたもので、曲目記載はないが歌詞カード内に隠し要素の形で曲名が記されている。
 
 ## 収録曲
 
   -
-    作詞・作曲：[山中さわお](https://ja.wikipedia.org/wiki/山中さわお "wikilink")（\#1-8, \#10-12）
+    作詞・作曲：[山中さわお](../Page/山中さわお.md "wikilink")（\#1-8, \#10-12）
     作曲：山中さわお（\#9, 隠しトラック）
 
 <!-- end list -->
@@ -28,7 +28,7 @@
 3.  **この世の果てまで**
       -
         ベスト・アルバム「[Once upon a time in the pillows](https://ja.wikipedia.org/wiki/Once_upon_a_time_in_the_pillows "wikilink")」収録曲
-        [トリビュート・アルバム](https://ja.wikipedia.org/wiki/トリビュート・アルバム "wikilink")「[SYNCHRONIZED ROCKERS](https://ja.wikipedia.org/wiki/SYNCHRONIZED_ROCKERS "wikilink")」収録曲
+        [トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")「[SYNCHRONIZED ROCKERS](../Page/SYNCHRONIZED_ROCKERS.md "wikilink")」収録曲
         トリビュート・アルバム「[ROCK AND SYMPATHY](https://ja.wikipedia.org/wiki/ROCK_AND_SYMPATHY "wikilink")」収録曲
 4.  **Monster C.C**
 5.  **Skim heaven**
@@ -42,7 +42,7 @@
 11. **Smile**
 12. **Calvero**
       -
-        後半部分には「SON OF A BEACH 」（[隠しトラック](https://ja.wikipedia.org/wiki/隠しトラック "wikilink")）が収録されている
+        後半部分には「SON OF A BEACH 」（[隠しトラック](../Page/隠しトラック.md "wikilink")）が収録されている
 
 ## 参考文献・出典
 

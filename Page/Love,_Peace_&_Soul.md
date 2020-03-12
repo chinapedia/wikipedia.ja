@@ -18,12 +18,12 @@
 
 ## 収録アルバム
 
-  - [To All Tha Dreamers](https://ja.wikipedia.org/wiki/To_All_Tha_Dreamers "wikilink")（\#1)
-  - [Single Collection](https://ja.wikipedia.org/wiki/Single_Collection_\(SOUL'd_OUTのアルバム\) "wikilink")（\#1)
-  - [Flip Side Collection](https://ja.wikipedia.org/wiki/Flip_Side_Collection "wikilink")（\#2、\#3)
+  - [To All Tha Dreamers](../Page/To_All_Tha_Dreamers.md "wikilink")（\#1)
+  - [Single Collection](../Page/Single_Collection_\(SOUL'd_OUTのアルバム\).md "wikilink")（\#1)
+  - [Flip Side Collection](../Page/Flip_Side_Collection.md "wikilink")（\#2、\#3)
 
 ## タイアップ
 
-  - [日本テレビ系ドラマ](../Page/日本テレビ放送網.md "wikilink")「[ライオン先生](https://ja.wikipedia.org/wiki/ライオン先生 "wikilink")」主題歌
+  - [日本テレビ系ドラマ](../Page/日本テレビ放送網.md "wikilink")「[ライオン先生](../Page/ライオン先生.md "wikilink")」主題歌
 
 [Category:2003年のシングル](https://ja.wikipedia.org/wiki/Category:2003年のシングル "wikilink") [Category:SOUL'd_OUTの楽曲](https://ja.wikipedia.org/wiki/Category:SOUL'd_OUTの楽曲 "wikilink") [Category:読売テレビ月曜10時枠の連続ドラマ主題歌](https://ja.wikipedia.org/wiki/Category:読売テレビ月曜10時枠の連続ドラマ主題歌 "wikilink") [Category:平和を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:平和を題材とした楽曲 "wikilink") [Category:楽曲_ら](https://ja.wikipedia.org/wiki/Category:楽曲_ら "wikilink")

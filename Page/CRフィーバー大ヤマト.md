@@ -1,25 +1,25 @@
 > この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
 
 
-**CRフィーバー大ヤマト**（しーあーる- だいやまと）は、[三共から](https://ja.wikipedia.org/wiki/三共_\(パチンコ\) "wikilink")[2002年](../Page/2002年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")ならびに[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[11月](../Page/11月.md "wikilink")に発売されたCR[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")機。
+**CRフィーバー大ヤマト**（しーあーる- だいやまと）は、[三共から](../Page/三共_\(パチンコ\).md "wikilink")[2002年](../Page/2002年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")ならびに[2004年](../Page/2004年.md "wikilink")[11月](../Page/11月.md "wikilink")に発売されたCR[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")機。
 
-[松本零士](../Page/松本零士.md "wikilink")原作の[OVA](../Page/OVA.md "wikilink")『大ヤマト零号』（後に[製作](https://ja.wikipedia.org/wiki/製作 "wikilink")会社[解散](https://ja.wikipedia.org/wiki/解散 "wikilink")とそれに伴う販売会社変更により『[大YAMATO零号](https://ja.wikipedia.org/wiki/大YAMATO零号 "wikilink")』に改題）をモチーフとしたタイアップ機。三共と松本零士の初の[コラボレーション](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")作品。登場[キャラクター](../Page/キャラクター.md "wikilink")や主役の[宇宙戦艦](../Page/宇宙戦艦.md "wikilink")の[デザイン](../Page/デザイン.md "wikilink")は[アニメ](../Page/アニメ.md "wikilink")『[宇宙戦艦ヤマト](https://ja.wikipedia.org/wiki/宇宙戦艦ヤマト "wikilink")』シリーズならびに[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")『[新宇宙戦艦ヤマト](https://ja.wikipedia.org/wiki/新宇宙戦艦ヤマト "wikilink")』に酷似している。
+[松本零士](../Page/松本零士.md "wikilink")原作の[OVA](../Page/OVA.md "wikilink")『大ヤマト零号』（後に[製作](https://ja.wikipedia.org/wiki/製作 "wikilink")会社[解散](https://ja.wikipedia.org/wiki/解散 "wikilink")とそれに伴う販売会社変更により『[大YAMATO零号](https://ja.wikipedia.org/wiki/大YAMATO零号 "wikilink")』に改題）をモチーフとしたタイアップ機。三共と松本零士の初の[コラボレーション](../Page/コラボレーション.md "wikilink")作品。登場[キャラクター](../Page/キャラクター.md "wikilink")や主役の[宇宙戦艦](../Page/宇宙戦艦.md "wikilink")の[デザイン](../Page/デザイン.md "wikilink")は[アニメ](../Page/アニメ.md "wikilink")『[宇宙戦艦ヤマト](https://ja.wikipedia.org/wiki/宇宙戦艦ヤマト "wikilink")』シリーズならびに[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")『[新宇宙戦艦ヤマト](../Page/新宇宙戦艦ヤマト.md "wikilink")』に酷似している。
 
 ## 概要
 
 2002年10月に『大ヤマト零号』のタイアップ機として『**CRフィーバー大ヤマト**』が登場。後の作品にも登場する「ガイーン」予告を初めて搭載した台だった。
 
-2004年11月に続編として『**CRフィーバー大ヤマト2**』が登場。『CRおそ松くん』（[DAIICHI](https://ja.wikipedia.org/wiki/大一商会 "wikilink")）とともに、確変割合の上限が撤廃された直後に登場した、新基準機第1号マシンでもあった。それまで有り得なかった連チャン性能の高さは大反響を呼び、大ヒットを記録した。
+2004年11月に続編として『**CRフィーバー大ヤマト2**』が登場。『CRおそ松くん』（[DAIICHI](../Page/大一商会.md "wikilink")）とともに、確変割合の上限が撤廃された直後に登場した、新基準機第1号マシンでもあった。それまで有り得なかった連チャン性能の高さは大反響を呼び、大ヒットを記録した。
 
-当時としては最大のサイズの液晶を搭載し、重厚な効果音とBGMが大きな特徴。『宇宙戦艦ヤマト』オープニングテーマ（作詞：[阿久悠](https://ja.wikipedia.org/wiki/阿久悠 "wikilink")、作・編曲：[宮川泰](../Page/宮川泰.md "wikilink")、唄：[ささきいさお](https://ja.wikipedia.org/wiki/ささきいさお "wikilink")）が使用された。前作ではスルーチャッカーだった部分は単なる飾りとなっていて、スルーチャッカーは別に付いている。また、ステージも前作のジャンプ台から波形のステージとなっているが、前作と同じくネカセによる性能の差は大きい。
+当時としては最大のサイズの液晶を搭載し、重厚な効果音とBGMが大きな特徴。『宇宙戦艦ヤマト』オープニングテーマ（作詞：[阿久悠](../Page/阿久悠.md "wikilink")、作・編曲：[宮川泰](../Page/宮川泰.md "wikilink")、唄：[ささきいさお](../Page/ささきいさお.md "wikilink")）が使用された。前作ではスルーチャッカーだった部分は単なる飾りとなっていて、スルーチャッカーは別に付いている。また、ステージも前作のジャンプ台から波形のステージとなっているが、前作と同じくネカセによる性能の差は大きい。
 
 リーチアクションは前作のスーパーリーチを踏襲した形になっているが、スペースゼロリーチ、ワープリーチから大ヤマト砲へ発展するという新しいシステムが加えられており、このシステムは後の『CRフィーバー銀河鉄道物語』『CRフィーバーキャプテンハーロック』にも採用されている。
 
 2007年11月に検定切れとなったが、検定切れギリギリまで撤去されずに設置されていたホールは多かった。ただし、多くのホールでは新型機との入れ替えが頻繁に行われているため、実際にプレイできるホールはごく少数だったが、認定を受けることで2010年11月まで設置を継続することも可能だった。
 
-このCRフィーバー大ヤマトシリーズのヒットの影で、「宇宙戦艦ヤマト」の著作権の帰属を主張する[東北新社](https://ja.wikipedia.org/wiki/東北新社 "wikilink")が、[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")6月に[著作権](../Page/著作権.md "wikilink")侵害と[不正競争防止法](https://ja.wikipedia.org/wiki/不正競争防止法 "wikilink")違反を理由に三共などを相手取って損害賠償や製造販売差し止めを求めて提訴。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月27日](../Page/12月27日.md "wikilink")に出た1審では「『フィーバー大ヤマト』と『宇宙戦艦ヤマト』との関連性はない」として原告・東北新社側の敗訴という判決が出されたが\[1\]\[2\]、東北新社側が控訴。のち[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月15日](../Page/12月15日.md "wikilink")に三共などメーカー側が東北新社に和解金2億5千万円を支払うことで和解が成立した\[3\]。
+このCRフィーバー大ヤマトシリーズのヒットの影で、「宇宙戦艦ヤマト」の著作権の帰属を主張する[東北新社](https://ja.wikipedia.org/wiki/東北新社 "wikilink")が、[2004年](../Page/2004年.md "wikilink")6月に[著作権](../Page/著作権.md "wikilink")侵害と[不正競争防止法](../Page/不正競争防止法.md "wikilink")違反を理由に三共などを相手取って損害賠償や製造販売差し止めを求めて提訴。[2006年](../Page/2006年.md "wikilink")[12月27日](../Page/12月27日.md "wikilink")に出た1審では「『フィーバー大ヤマト』と『宇宙戦艦ヤマト』との関連性はない」として原告・東北新社側の敗訴という判決が出されたが\[1\]\[2\]、東北新社側が控訴。のち[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月15日](../Page/12月15日.md "wikilink")に三共などメーカー側が東北新社に和解金2億5千万円を支払うことで和解が成立した\[3\]。
 
-なお同機種は、韓国において改造の上「ヤマトゲーム機」の名称で「パダイヤギ（[海物語](https://ja.wikipedia.org/wiki/海物語 "wikilink")）」と並んで代表的な[メダルチギ](https://ja.wikipedia.org/wiki/メダルチギ "wikilink")機種として使用されていた。こちらは主に釜山など韓国南部地方でよく使用されていた。
+なお同機種は、韓国において改造の上「ヤマトゲーム機」の名称で「パダイヤギ（[海物語](../Page/海物語.md "wikilink")）」と並んで代表的な[メダルチギ](../Page/メダルチギ.md "wikilink")機種として使用されていた。こちらは主に釜山など韓国南部地方でよく使用されていた。
 
 本項では「CRF大ヤマト2」について解説する。
 
@@ -104,7 +104,7 @@
       - 3\. ガイラー
       - 5\. ダイチ
       - 7\. オキ（[古代進](../Page/古代進.md "wikilink")に酷似）
-      - 8\. ホンゴウ（[森雪](https://ja.wikipedia.org/wiki/森雪 "wikilink")に酷似）
+      - 8\. ホンゴウ（[森雪](../Page/森雪.md "wikilink")に酷似）
   - 通常図柄
       - 2\. ティム
       - 4\. タネガシマ
@@ -238,7 +238,7 @@
 
 ## 関連項目
 
-  - [CRフィーバー銀河鉄道物語](https://ja.wikipedia.org/wiki/CRフィーバー銀河鉄道物語 "wikilink")
+  - [CRフィーバー銀河鉄道物語](../Page/CRフィーバー銀河鉄道物語.md "wikilink")
 
 ## 脚注
 

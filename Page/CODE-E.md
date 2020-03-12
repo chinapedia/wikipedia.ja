@@ -1,14 +1,14 @@
 > この記事は[CODE-E](https://ja.wikipedia.org/wiki/CODE-E)から翻訳されています。
 
 
-『**CODE-E**』（コードイー）、および『**Mission-E**』（ミッションイー）は、[スタジオディーン](https://ja.wikipedia.org/wiki/スタジオディーン "wikilink")制作の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[アニメ](../Page/アニメ.md "wikilink")作品。CODE-Eは[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")7月から[9月](../Page/9月.md "wikilink")まで、Mission-Eは2008年7月から9月まで放送されていた。また、2作品の間をつなぐエピソードとして漫画『**CODE-EX**』（コードイーエックス）、番外編として小説版『**CODE-E 遥かなる囁き**』も発表されている。
+『**CODE-E**』（コードイー）、および『**Mission-E**』（ミッションイー）は、[スタジオディーン](../Page/スタジオディーン.md "wikilink")制作の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[アニメ](../Page/アニメ.md "wikilink")作品。CODE-Eは[2007年](../Page/2007年.md "wikilink")7月から[9月](../Page/9月.md "wikilink")まで、Mission-Eは2008年7月から9月まで放送されていた。また、2作品の間をつなぐエピソードとして漫画『**CODE-EX**』（コードイーエックス）、番外編として小説版『**CODE-E 遥かなる囁き**』も発表されている。
 
 ## あらすじ
 
   - CODE-E
     [電磁波](../Page/電磁波.md "wikilink")事件多発\! 疑わしきは転校生?
     舞台は隕石が落下してから20年後の[2017年](../Page/2017年.md "wikilink")\[1\]。
-    [吉祥寺](https://ja.wikipedia.org/wiki/吉祥寺 "wikilink")にある高校に転校することになった海老原千波美は、感情が高ぶると周囲の[電子機器](https://ja.wikipedia.org/wiki/電子機器 "wikilink")を狂わせる能力『TYPE-E』の持ち主だった。本人の意志に関係なく発動する特殊能力のため、否応なくトラブル（電化製品にノイズを発生させたり、壊したりしてしまう）を引き起こしてしまう。ヒロインと科学バカの男子生徒とのドタバタラブコメである。
+    [吉祥寺](../Page/吉祥寺.md "wikilink")にある高校に転校することになった海老原千波美は、感情が高ぶると周囲の[電子機器](https://ja.wikipedia.org/wiki/電子機器 "wikilink")を狂わせる能力『TYPE-E』の持ち主だった。本人の意志に関係なく発動する特殊能力のため、否応なくトラブル（電化製品にノイズを発生させたり、壊したりしてしまう）を引き起こしてしまう。ヒロインと科学バカの男子生徒とのドタバタラブコメである。
   - CODE-EX
     CODE-Eの3年後、由真のもとに治療のためにやってきた少年、遠野克紀。しかし彼には由真達とは切っても切り離すことの出来ない大きな事情を抱えていた。そしてさらわれた克紀、由真は克紀を救うことが出来るのか。さらに彼女の特殊能力をとりまくある組織との因縁と、いつしか芽生えた2人の絆を描いた物語である。
   - Mission-E
@@ -21,31 +21,31 @@
 ### CODE-E・Mission-Eの登場人物
 
   - 海老原 千波美（えびはら ちなみ）
-    [声](../Page/声優.md "wikilink") - [橋本まい](https://ja.wikipedia.org/wiki/橋本まい "wikilink")
+    [声](../Page/声優.md "wikilink") - [橋本まい](../Page/橋本まい.md "wikilink")
     **CODE-Eでの主人公。**身体から電磁波を発する（実際は神経電流を外部に放出する）TYPE-Eの能力を持つが、その能力が原因で転校を繰り返してきた。真面目で気が弱いため、余計に感情が高ぶり易く、謝り癖が付いてしまっている。安満沢村の事件後は「OZ」のエージェントとして活動し、光太郎とは遠距離恋愛中だったが、あまりのバカップルぶりと進展の無さにしびれを切らした園美によって半ば強制的に婚約させられた。また、由真の元で体術の訓練を積んだ成果から身体能力は上がったが未だにドジである。
   - 君塚 麻織（きみづか まおり）
-    声 - [稲村優奈](https://ja.wikipedia.org/wiki/稲村優奈 "wikilink")
+    声 - [稲村優奈](../Page/稲村優奈.md "wikilink")
     **Mission-Eでの主人公**でTYPE-E能力者。千波美たちの通っていた高校に通いながら驚異的な身体能力を武器に「OZ」のエージェントとして千波美と行動している。千波美とケンカして一時OZを離脱したときに助けられて以降、アドルに恋心を抱いている。CODE-Eでも愛犬のろろたと共に作中で毎回登場し、エンディング映像にもただ1人出ていたが、当時は名前は登場せず、エンディングテーマの歌い手としてクレジットされるのみだった。
   - 斎橋 由真（さいはし ゆま）
-    声 - [水野理紗](https://ja.wikipedia.org/wiki/水野理紗 "wikilink")
-    **CODE-EXでの主人公**でTYPE-E能力者。神社の家に生まれ、弓道、合気道、古武術をたしなむ傍ら、自らの能力で近所の人たちにマッサージ治療を施している。史上初めて確認されたTYPE-Eであり、幼少時には赤松教授の人体実験の実験道具にされた辛い過去を持つ。千波美との出会いや克紀をめぐる一件を機に自分の能力に前向きになれるようになった。一件クールだが実は誰よりも世話好きでお節介な性格で、克紀に告白されてからは克紀のことになると取り乱す一面もある。[1970年代](../Page/1970年代.md "wikilink")の[SF映画](../Page/SF映画.md "wikilink")に詳しい。巫女を務めながら「OZ」にエージェントや操縦士（[ヘリコプター](../Page/ヘリコプター.md "wikilink")や[クルーザー](https://ja.wikipedia.org/wiki/クルーザー "wikilink")の操縦資格を持っている）として協力している。
+    声 - [水野理紗](../Page/水野理紗.md "wikilink")
+    **CODE-EXでの主人公**でTYPE-E能力者。神社の家に生まれ、弓道、合気道、古武術をたしなむ傍ら、自らの能力で近所の人たちにマッサージ治療を施している。史上初めて確認されたTYPE-Eであり、幼少時には赤松教授の人体実験の実験道具にされた辛い過去を持つ。千波美との出会いや克紀をめぐる一件を機に自分の能力に前向きになれるようになった。一件クールだが実は誰よりも世話好きでお節介な性格で、克紀に告白されてからは克紀のことになると取り乱す一面もある。[1970年代](../Page/1970年代.md "wikilink")の[SF映画](../Page/SF映画.md "wikilink")に詳しい。巫女を務めながら「OZ」にエージェントや操縦士（[ヘリコプター](../Page/ヘリコプター.md "wikilink")や[クルーザー](../Page/クルーザー.md "wikilink")の操縦資格を持っている）として協力している。
   - 巫 光太郎（かんなぎ こうたろう）
-    声 - [野村勝人](https://ja.wikipedia.org/wiki/野村勝人 "wikilink")
+    声 - [野村勝人](../Page/野村勝人.md "wikilink")
     科学バカ。楽天家で朴念仁。恋愛感情には疎く、園美の想いにも気付いていなかった。転校してきた千波美の特殊体質に気付き、研究をしていくうちに恋に落ち、安満沢村の一件以降はすっかりバカップルとなっている。その後は大学で神経系の知識を身につけたのち、園美らと共にOZを設立、北海道研究所の主任を務めているが、野菜の仕送りの度に本部に来ている（そのため、「野菜が届いた」という言葉は半ば「光太郎が来た」という隠語と化している）。「科学は人のためにある」が信条で座右の銘。
   - 九条 園美（くじょう そのみ）
     声 - [名塚佳織](../Page/名塚佳織.md "wikilink")
     あだ名は「そのその」。大金持ちのお嬢様で、光太郎の幼なじみで千波美が転校してくるまでは、好意を抱いていたが、光太郎の千波美への思いを受け入れたあとはスッパリ諦め、さっさと新しい恋人を作ってそのまま結婚してしまった（現在は一児の母）。ライバルだった千波美のこともそれ以降は親友として大切に思っているが、光太郎ともどもバカップルぶりと朴念仁ぶりにはイライラさせられっぱなしである。事件後、ファウンデーションの手からTYPE-E能力を持つ人々を守り手助けをする組織「OZ」を設立、良家の強みを生かした人脈も武器に代表として手腕を振るっている。
   - アドル・ブリンベルケ
-    声 - [神谷浩史](https://ja.wikipedia.org/wiki/神谷浩史 "wikilink")
+    声 - [神谷浩史](../Page/神谷浩史.md "wikilink")
     ミリスの双子の弟。千波美たちの学校に転入して来たドイツの留学生。千波美の情報を収集するために北欧のブリンガルドから来日した。事件後、「OZ」の対抗組織、ファウンデーションのエージェントとなる。姉であるミリスの件で、千波美を恨んでいる（ただし、本心ではファウンデーションの実験が原因だと言うことは知っていたが、麻織の想いを知るまで素直になれなかった）。犬のろろたが苦手。
   - 柊 登喜雄（ひいらぎ ときお）
-    声 - [矢尾一樹](https://ja.wikipedia.org/wiki/矢尾一樹 "wikilink")
+    声 - [矢尾一樹](../Page/矢尾一樹.md "wikilink")
     ファウンデーション創設者。赤松の危険な実験の影響からかTYPE-E能力を持つ人々に異常なまでの敵愾心を見せ、TYPE-Eを危険な存在だと信じ続けている。そして最終的にTYPE-Eを世間に公表しようとしていた。
   - 鬼里久（きりく）
-    声 - [遊佐浩二](https://ja.wikipedia.org/wiki/遊佐浩二 "wikilink")
+    声 - [遊佐浩二](../Page/遊佐浩二.md "wikilink")
     ファウンデーションのエージェント。少年時代に受けた赤松の実験によって男でありながらTYPE-E能力を持っている。赤松逮捕後はファウンデーション入りし、OZとの抗争状態を楽しんでいる。
   - 漆 丙五郎（うるし へいごろう）
-    声 - [上別府仁資](https://ja.wikipedia.org/wiki/上別府仁資 "wikilink")
+    声 - [上別府仁資](../Page/上別府仁資.md "wikilink")
     OZに園美の秘書兼参謀として務める中年の男性。膨大なデータを処理・解析し作戦の軸となっている。
   - 小松菜 圭子（こまつな けいこ）
     声 - [桃井はるこ](../Page/桃井はるこ.md "wikilink")
@@ -63,7 +63,7 @@
     声 - [天野由梨](../Page/天野由梨.md "wikilink")
     ファウンデーションと繋がりをもつTYPE-E能力者。その行動や情報源には謎が多く、麻織達の手助けをすることもあった。しかし、麻織には嫌われている。
   - 海老原 啓介（えびはら けいすけ）
-    声 - [塩屋浩三](https://ja.wikipedia.org/wiki/塩屋浩三 "wikilink")
+    声 - [塩屋浩三](../Page/塩屋浩三.md "wikilink")
     千波美の父親。小説家で東京と大阪を行き来しながら、普段は地下に篭って原稿を書いている。
   - 海老原 美月（えびはら みつき）
     声 - [平松晶子](../Page/平松晶子.md "wikilink")
@@ -99,17 +99,17 @@
   - 原作 - 笹原楓
   - 原案 - [榊一郎](../Page/榊一郎.md "wikilink")
   - 監督 - [加藤敏幸](https://ja.wikipedia.org/wiki/加藤敏幸_\(アニメ監督\) "wikilink")
-  - シリーズ構成 - [佐藤卓哉](https://ja.wikipedia.org/wiki/佐藤卓哉 "wikilink")
+  - シリーズ構成 - [佐藤卓哉](../Page/佐藤卓哉.md "wikilink")
   - キャラクターデザイン・総作画監督 - 斎藤哲人
   - 美術監督 - 伊東和宏
   - 色彩設計 - もちだたけし
   - 撮影監督 - 森下成一
   - 編集 - 松村正宏
-  - 音響監督 - [郷田ほづみ](https://ja.wikipedia.org/wiki/郷田ほづみ "wikilink")
-  - 音楽 - [かの香織](https://ja.wikipedia.org/wiki/かの香織 "wikilink")
+  - 音響監督 - [郷田ほづみ](../Page/郷田ほづみ.md "wikilink")
+  - 音楽 - [かの香織](../Page/かの香織.md "wikilink")
   - 番組プロデューサー - 水野政明、西本崇史
   - 制作 - [メ〜テレ](../Page/名古屋テレビ放送.md "wikilink")
-  - アニメーション制作 - [スタジオディーン](https://ja.wikipedia.org/wiki/スタジオディーン "wikilink")
+  - アニメーション制作 - [スタジオディーン](../Page/スタジオディーン.md "wikilink")
   - 製作 - [avex entertainment](https://ja.wikipedia.org/wiki/avex_entertainment "wikilink")、Studio DEEN
 
 ### 主題歌（第1期）
@@ -118,13 +118,13 @@
     ; 「E☆スキャンダル」
 
       -
-        作曲・編曲 - [かの香織](https://ja.wikipedia.org/wiki/かの香織 "wikilink")
+        作曲・編曲 - [かの香織](../Page/かの香織.md "wikilink")
 
   - エンディングテーマ
     ; 「きみからの奇跡」
 
       -
-        作詞・作曲・編曲 - かの香織 / 歌 - 君塚麻織（[稲村優奈](https://ja.wikipedia.org/wiki/稲村優奈 "wikilink")）
+        作詞・作曲・編曲 - かの香織 / 歌 - 君塚麻織（[稲村優奈](../Page/稲村優奈.md "wikilink")）
 
   - キャラクターソング
     ; 「恋はビリビリSENSATION\!」
@@ -149,7 +149,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>転校生と告白のこと。</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/佐藤卓哉" title="wikilink">佐藤卓哉</a></p></td>
+<td><p><a href="../Page/佐藤卓哉.md" title="wikilink">佐藤卓哉</a></p></td>
 <td><p>加藤敏幸</p></td>
 <td><p>斉藤哲人</p></td>
 <td></td>
@@ -157,15 +157,15 @@
 <tr class="even">
 <td><p>2</p></td>
 <td><p>科学と幸せのこと。</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/川瀬敏文" title="wikilink">川瀬敏文</a></p></td>
+<td><p><a href="../Page/川瀬敏文.md" title="wikilink">川瀬敏文</a></p></td>
 <td><p>加藤敏幸</p></td>
 <td><p>吉田俊司</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/沼田誠也" title="wikilink">沼田誠也</a></p></td>
+<td><p><a href="../Page/沼田誠也.md" title="wikilink">沼田誠也</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
 <td><p>電磁波と研究のこと。</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/西村純二" title="wikilink">西村ジュンジ</a></p></td>
+<td><p><a href="../Page/西村純二.md" title="wikilink">西村ジュンジ</a></p></td>
 <td><p>開祐二</p></td>
 <td><p>大久保修</p></td>
 <td></td>
@@ -189,7 +189,7 @@
 <tr class="even">
 <td><p>6</p></td>
 <td><p>巫女さんと修行のこと。</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/花田十輝" title="wikilink">花田十輝</a></p></td>
+<td><p><a href="../Page/花田十輝.md" title="wikilink">花田十輝</a></p></td>
 <td><p>葛谷直行</p></td>
 <td><p>小野田雄亮</p></td>
 <td><p>原田峰文</p></td>
@@ -199,7 +199,7 @@
 <td><p>外国人と初恋のこと。</p></td>
 <td><p>西村ジュンジ</p></td>
 <td><p>加藤敏幸</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/うえだしげる" title="wikilink">うえだしげる</a></p></td>
+<td><p><a href="../Page/うえだしげる.md" title="wikilink">うえだしげる</a></p></td>
 <td><p>沼田誠也</p></td>
 </tr>
 <tr class="even">
@@ -249,14 +249,14 @@
 
 ### 放送局（第1期）
 
-| 放送地域                                                | 放送局                                                                              | 放送期間                                                                                                                                                | 放送日時                                                        | 放送区分                                                                        | 備考                                                      |
-| --------------------------------------------------- | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------- |
-| [中京広域圏](../Page/広域放送.md "wikilink")                 | [メ〜テレ](../Page/名古屋テレビ放送.md "wikilink")                                           | [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[7月3日](https://ja.wikipedia.org/wiki/7月3日 "wikilink") - [9月18日](../Page/9月18日.md "wikilink") | 火曜 26時43分 - 27時13分                                          | [テレビ朝日系列](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink") | 制作局                                                     |
-| [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink") | [TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")                                | 2007年[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink") - [9月23日](../Page/9月23日.md "wikilink")                                                   | 日曜 23時30分 - 24時00分                                          | [独立UHF局](https://ja.wikipedia.org/wiki/全国独立UHF放送協議会 "wikilink")             | [アニフリ](https://ja.wikipedia.org/wiki/アニフリ "wikilink")枠内 |
-| [近畿広域圏](../Page/広域放送.md "wikilink")                 | [朝日放送](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")                          | 2007年[7月11日](../Page/7月11日.md "wikilink") - [9月26日](../Page/9月26日.md "wikilink")                                                                    | 水曜 26時51分 - 27時21分                                          | テレビ朝日系列                                                                     |                                                         |
-| [日本全域](../Page/全国放送.md "wikilink")                  | [BANDAI CHANNEL](https://ja.wikipedia.org/wiki/バンダイチャンネル "wikilink")             | 2007年[8月9日](../Page/8月9日.md "wikilink") - [10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")                                                   | 木曜 12時00分更新                                                 | [ネット配信](../Page/ネット配信.md "wikilink")                                        | \-                                                      |
-| [AT-X](../Page/アニメシアターX.md "wikilink")              | 2007年[8月19日](../Page/8月19日.md "wikilink") - [11月4日](../Page/11月4日.md "wikilink") | 日曜 12時30分 - 13時00分                                                                                                                                  | [CSチャンネル](https://ja.wikipedia.org/wiki/専門チャンネル "wikilink") | リピートあり                                                                      |                                                         |
-| [埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink") | [テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")                            | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink") - [6月19日](../Page/6月19日.md "wikilink") | 木曜 24時30分 - 25時00分                                          | 独立UHF局                                                                      | [アニたま](https://ja.wikipedia.org/wiki/アニたま "wikilink")枠内 |
+| 放送地域                                   | 放送局                                                                              | 放送期間                                                                                                                             | 放送日時                                     | 放送区分                                                                        | 備考                                                      |
+| -------------------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------- |
+| [中京広域圏](../Page/広域放送.md "wikilink")    | [メ〜テレ](../Page/名古屋テレビ放送.md "wikilink")                                           | [2007年](../Page/2007年.md "wikilink")[7月3日](../Page/7月3日.md "wikilink") - [9月18日](../Page/9月18日.md "wikilink")                    | 火曜 26時43分 - 27時13分                       | [テレビ朝日系列](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink") | 制作局                                                     |
+| [東京都](../Page/東京都.md "wikilink")       | [TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")                                | 2007年[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink") - [9月23日](../Page/9月23日.md "wikilink")                                | 日曜 23時30分 - 24時00分                       | [独立UHF局](https://ja.wikipedia.org/wiki/全国独立UHF放送協議会 "wikilink")             | [アニフリ](https://ja.wikipedia.org/wiki/アニフリ "wikilink")枠内 |
+| [近畿広域圏](../Page/広域放送.md "wikilink")    | [朝日放送](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")                          | 2007年[7月11日](../Page/7月11日.md "wikilink") - [9月26日](../Page/9月26日.md "wikilink")                                                 | 水曜 26時51分 - 27時21分                       | テレビ朝日系列                                                                     |                                                         |
+| [日本全域](../Page/全国放送.md "wikilink")     | [BANDAI CHANNEL](../Page/バンダイチャンネル.md "wikilink")                                | 2007年[8月9日](../Page/8月9日.md "wikilink") - [10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")                                | 木曜 12時00分更新                              | [ネット配信](../Page/ネット配信.md "wikilink")                                        | \-                                                      |
+| [AT-X](../Page/アニメシアターX.md "wikilink") | 2007年[8月19日](../Page/8月19日.md "wikilink") - [11月4日](../Page/11月4日.md "wikilink") | 日曜 12時30分 - 13時00分                                                                                                               | [CSチャンネル](../Page/専門チャンネル.md "wikilink") | リピートあり                                                                      |                                                         |
+| [埼玉県](../Page/埼玉県.md "wikilink")       | [テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")                            | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月3日](../Page/4月3日.md "wikilink") - [6月19日](../Page/6月19日.md "wikilink") | 木曜 24時30分 - 25時00分                       | 独立UHF局                                                                      | [アニたま](../Page/アニたま.md "wikilink")枠内                    |
 
 ## Mission-E
 
@@ -266,7 +266,7 @@
   - 原案・シリーズ構成 - 榊一郎
   - 監督 - 加藤敏幸
   - キャラクターデザイン・総作画監督 - 斎藤哲人
-  - メカデザイン - [菅沼栄治](https://ja.wikipedia.org/wiki/菅沼栄治 "wikilink")
+  - メカデザイン - [菅沼栄治](../Page/菅沼栄治.md "wikilink")
   - 美術監督 - 伊東和宏
   - 色彩設計 - もちだたけし
   - 撮影監督 - 森下成一
@@ -283,7 +283,7 @@
     ; 「E☆シークレッツ」
 
       -
-        作曲・編曲 - [かの香織](https://ja.wikipedia.org/wiki/かの香織 "wikilink")
+        作曲・編曲 - [かの香織](../Page/かの香織.md "wikilink")
 
   - エンディングテーマ
     ; 「[Feel so Easy\!](https://ja.wikipedia.org/wiki/Feel_so_Easy! "wikilink")」（第1・2・6・7・9・11話）
@@ -299,7 +299,7 @@
   - ; 「きみからの奇跡」（最終話）
 
       -
-        作詞・作曲・編曲 - かの香織 / 歌 - 君塚麻織（[稲村優奈](https://ja.wikipedia.org/wiki/稲村優奈 "wikilink")）
+        作詞・作曲・編曲 - かの香織 / 歌 - 君塚麻織（[稲村優奈](../Page/稲村優奈.md "wikilink")）
 
 ### 各話リスト（第2期）
 
@@ -326,7 +326,7 @@
 <tr class="even">
 <td><p>Mission 2</p></td>
 <td><p>女子校潜入大作戦!</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/川瀬敏文" title="wikilink">川瀬敏文</a></p></td>
+<td><p><a href="../Page/川瀬敏文.md" title="wikilink">川瀬敏文</a></p></td>
 <td><p>飯島正勝</p></td>
 <td><p>開祐二</p></td>
 <td><p>大久保修</p></td>
@@ -334,7 +334,7 @@
 <tr class="odd">
 <td><p>Mission 3</p></td>
 <td><p>黄昏の大作戦!</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/西村純二" title="wikilink">西村ジュンジ</a></p></td>
+<td><p><a href="../Page/西村純二.md" title="wikilink">西村ジュンジ</a></p></td>
 <td><p>神崎ユウジ</p></td>
 <td><p>中野彰子<br />
 Seo Jung-Duk<br />
@@ -344,7 +344,7 @@ Seo Jung-Duk<br />
 <tr class="even">
 <td><p>Mission 4</p></td>
 <td><p>北の大地で大作戦!</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/花田十輝" title="wikilink">花田十輝</a></p></td>
+<td><p><a href="../Page/花田十輝.md" title="wikilink">花田十輝</a></p></td>
 <td><p>松本佳久</p></td>
 <td><p>浅見松雄</p></td>
 <td><p>能條理行</p></td>
@@ -352,7 +352,7 @@ Seo Jung-Duk<br />
 <tr class="odd">
 <td><p>Mission 5</p></td>
 <td><p>GOGO WEST大作戦!（前編）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/佐藤卓哉" title="wikilink">佐藤卓哉</a></p></td>
+<td><p><a href="../Page/佐藤卓哉.md" title="wikilink">佐藤卓哉</a></p></td>
 <td><p>加藤敏幸</p></td>
 <td><p>小野田雄亮</p></td>
 <td><p>中野彰子<br />
@@ -363,7 +363,7 @@ Seo Jung-Duk<br />
 <td><p>GOGO WEST大作戦!（後編）</p></td>
 <td><p>榊一郎</p></td>
 <td><p>浅見松雄</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/青野厚司" title="wikilink">青野厚司</a></p></td>
+<td><p><a href="../Page/青野厚司.md" title="wikilink">青野厚司</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -426,24 +426,24 @@ Seo Jung-Duk<br />
 
 ### 放送局（第2期）
 
-| 放送地域                                                    | 放送局                                                                                                                              | 放送期間                                                                                                                                                | 放送日時                                                  | 放送区分                                                            | 備考     |
-| ------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | --------------------------------------------------------------- | ------ |
-| [栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")     | [とちぎテレビ](../Page/とちぎテレビ.md "wikilink")                                                                                           | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink") - [9月22日](../Page/9月22日.md "wikilink") | 月曜 25時05分 - 25時35分                                    | [独立UHF局](https://ja.wikipedia.org/wiki/全国独立UHF放送協議会 "wikilink") |        |
-| [千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")     | [チバテレビ](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink")                                                                        | 月曜 26時40分 - 27時10分                                                                                                                                  |                                                       |                                                                 |        |
-| [群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")     | [群馬テレビ](../Page/群馬テレビ.md "wikilink")                                                                                             | 2008年[7月9日](../Page/7月9日.md "wikilink") - [9月24日](../Page/9月24日.md "wikilink")                                                                      | 水曜 25時00分 - 25時30分                                    |                                                                 |        |
-| [岐阜県](../Page/岐阜県.md "wikilink")                        | [ぎふチャン](../Page/岐阜放送.md "wikilink")                                                                                              | 水曜 25時45分 - 26時15分                                                                                                                                  |                                                       |                                                                 |        |
-| [日本全域](../Page/全国放送.md "wikilink")                      | [AT-X](../Page/アニメシアターX.md "wikilink")                                                                                           | 2008年[7月10日](../Page/7月10日.md "wikilink") - [9月25日](../Page/9月25日.md "wikilink")                                                                    | 木曜 10時30分 - 11時00分                                    | [CSチャンネル](https://ja.wikipedia.org/wiki/専門チャンネル "wikilink")     | リピートあり |
-| [京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")     | [KBS京都](../Page/京都放送.md "wikilink")                                                                                              | 木曜 25時30分 - 26時00分                                                                                                                                  | 独立UHF局                                                |                                                                 |        |
-| [和歌山県](../Page/和歌山県.md "wikilink")                      | [テレビ和歌山](https://ja.wikipedia.org/wiki/テレビ和歌山 "wikilink")                                                                        | 木曜 25時40分 - 26時10分                                                                                                                                  |                                                       |                                                                 |        |
-| [奈良県](https://ja.wikipedia.org/wiki/奈良県 "wikilink")     | [奈良テレビ](https://ja.wikipedia.org/wiki/奈良テレビ放送 "wikilink")                                                                        | 木曜 26時30分 - 27時00分                                                                                                                                  |                                                       |                                                                 |        |
-| [埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")     | [テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")                                                                            | 2008年[7月12日](../Page/7月12日.md "wikilink") - [9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")                                                 | 土曜 26時00分 - 26時30分                                    |                                                                 |        |
-| [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")   | [tvk](../Page/テレビ神奈川.md "wikilink")                                                                                              | 土曜 28時00分 - 28時30分                                                                                                                                  |                                                       |                                                                 |        |
-| 日本全域                                                    | [BANDAI CHANNEL](https://ja.wikipedia.org/wiki/バンダイチャンネル "wikilink")                                                             | 2008年[7月14日](../Page/7月14日.md "wikilink") - [9月29日](../Page/9月29日.md "wikilink")                                                                    | 月曜 12時00分更新                                           | [ネット配信](../Page/ネット配信.md "wikilink")                            |        |
-| [BS11](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink") | [2009年](../Page/2009年.md "wikilink")[1月3日](../Page/1月3日.md "wikilink") - [3月21日](https://ja.wikipedia.org/wiki/3月21日 "wikilink") | 土曜 24時30分 - 25時00分                                                                                                                                  | [BS放送](https://ja.wikipedia.org/wiki/衛星放送 "wikilink") | 『[ANIME+](https://ja.wikipedia.org/wiki/アニメ+ "wikilink")』枠      |        |
+| 放送地域                                                    | 放送局                                                                                                           | 放送期間                                                                                                                                                | 放送日時                               | 放送区分                                                            | 備考     |
+| ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- | --------------------------------------------------------------- | ------ |
+| [栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")     | [とちぎテレビ](../Page/とちぎテレビ.md "wikilink")                                                                        | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink") - [9月22日](../Page/9月22日.md "wikilink") | 月曜 25時05分 - 25時35分                 | [独立UHF局](https://ja.wikipedia.org/wiki/全国独立UHF放送協議会 "wikilink") |        |
+| [千葉県](../Page/千葉県.md "wikilink")                        | [チバテレビ](../Page/千葉テレビ放送.md "wikilink")                                                                        | 月曜 26時40分 - 27時10分                                                                                                                                  |                                    |                                                                 |        |
+| [群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")     | [群馬テレビ](../Page/群馬テレビ.md "wikilink")                                                                          | 2008年[7月9日](../Page/7月9日.md "wikilink") - [9月24日](../Page/9月24日.md "wikilink")                                                                      | 水曜 25時00分 - 25時30分                 |                                                                 |        |
+| [岐阜県](../Page/岐阜県.md "wikilink")                        | [ぎふチャン](../Page/岐阜放送.md "wikilink")                                                                           | 水曜 25時45分 - 26時15分                                                                                                                                  |                                    |                                                                 |        |
+| [日本全域](../Page/全国放送.md "wikilink")                      | [AT-X](../Page/アニメシアターX.md "wikilink")                                                                        | 2008年[7月10日](../Page/7月10日.md "wikilink") - [9月25日](../Page/9月25日.md "wikilink")                                                                    | 木曜 10時30分 - 11時00分                 | [CSチャンネル](../Page/専門チャンネル.md "wikilink")                        | リピートあり |
+| [京都府](../Page/京都府.md "wikilink")                        | [KBS京都](../Page/京都放送.md "wikilink")                                                                           | 木曜 25時30分 - 26時00分                                                                                                                                  | 独立UHF局                             |                                                                 |        |
+| [和歌山県](../Page/和歌山県.md "wikilink")                      | [テレビ和歌山](https://ja.wikipedia.org/wiki/テレビ和歌山 "wikilink")                                                     | 木曜 25時40分 - 26時10分                                                                                                                                  |                                    |                                                                 |        |
+| [奈良県](../Page/奈良県.md "wikilink")                        | [奈良テレビ](https://ja.wikipedia.org/wiki/奈良テレビ放送 "wikilink")                                                     | 木曜 26時30分 - 27時00分                                                                                                                                  |                                    |                                                                 |        |
+| [埼玉県](../Page/埼玉県.md "wikilink")                        | [テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")                                                         | 2008年[7月12日](../Page/7月12日.md "wikilink") - [9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")                                                 | 土曜 26時00分 - 26時30分                 |                                                                 |        |
+| [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")   | [tvk](../Page/テレビ神奈川.md "wikilink")                                                                           | 土曜 28時00分 - 28時30分                                                                                                                                  |                                    |                                                                 |        |
+| 日本全域                                                    | [BANDAI CHANNEL](../Page/バンダイチャンネル.md "wikilink")                                                             | 2008年[7月14日](../Page/7月14日.md "wikilink") - [9月29日](../Page/9月29日.md "wikilink")                                                                    | 月曜 12時00分更新                        | [ネット配信](../Page/ネット配信.md "wikilink")                            |        |
+| [BS11](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink") | [2009年](../Page/2009年.md "wikilink")[1月3日](../Page/1月3日.md "wikilink") - [3月21日](../Page/3月21日.md "wikilink") | 土曜 24時30分 - 25時00分                                                                                                                                  | [BS放送](../Page/衛星放送.md "wikilink") | 『[ANIME+](https://ja.wikipedia.org/wiki/アニメ+ "wikilink")』枠      |        |
 
 ## CODE-EX
 
-『[月刊サンデージェネックス](https://ja.wikipedia.org/wiki/月刊サンデージェネックス "wikilink")』誌上で原尾有美子が連載していた。全2巻。アニメ第1期からの3年後の話で、CODE-EとMission-Eを繋ぐ内容になっており、事実上「Eシリーズ三部作」の第2部的な位置にある（CODE-Eが第1部、Mission-Eが第3部となる）。なお、こちらは斎橋由真が主人公を務めている。
+『[月刊サンデージェネックス](../Page/月刊サンデージェネックス.md "wikilink")』誌上で原尾有美子が連載していた。全2巻。アニメ第1期からの3年後の話で、CODE-EとMission-Eを繋ぐ内容になっており、事実上「Eシリーズ三部作」の第2部的な位置にある（CODE-Eが第1部、Mission-Eが第3部となる）。なお、こちらは斎橋由真が主人公を務めている。
 
   - [榊一郎](../Page/榊一郎.md "wikilink")・原尾有美子『CODE-EX』[小学館](../Page/小学館.md "wikilink")〈サンデーGXコミックス〉
     1.  2008年2月19日発売、ISBN 978-4-09-157124-3
@@ -451,7 +451,7 @@ Seo Jung-Duk<br />
 
 ## CODE-E 遙かなる囁き
 
-小学館・[ガガガ文庫](../Page/ガガガ文庫.md "wikilink")より発売。全1巻のオリジナルストーリー。原案の榊一郎が執筆、イラストは[緒方剛志](https://ja.wikipedia.org/wiki/緒方剛志 "wikilink")。接触型テレパスである萱村澪を主人公としたCODE-Eの半年後の話。
+小学館・[ガガガ文庫](../Page/ガガガ文庫.md "wikilink")より発売。全1巻のオリジナルストーリー。原案の榊一郎が執筆、イラストは[緒方剛志](../Page/緒方剛志.md "wikilink")。接触型テレパスである萱村澪を主人公としたCODE-Eの半年後の話。
 
   - 榊一郎『CODE-E 遙かなる囁き』[小学館](../Page/小学館.md "wikilink")〈[ガガガ文庫](../Page/ガガガ文庫.md "wikilink")〉 2008年7月18日発売、ISBN 978-4-09-451081-2
 

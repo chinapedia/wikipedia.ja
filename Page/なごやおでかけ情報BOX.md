@@ -1,11 +1,11 @@
 > この記事は[BOX](https://ja.wikipedia.org/wiki/BOX)から翻訳されています。
 
 
-『**なごやおでかけ情報BOX**』（なごやおでかけじょうほうボックス）は、[2003年](../Page/2003年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで[テレビ愛知](../Page/テレビ愛知.md "wikilink")で放送された[広報](https://ja.wikipedia.org/wiki/広報 "wikilink")番組。
+『**なごやおでかけ情報BOX**』（なごやおでかけじょうほうボックス）は、[2003年](../Page/2003年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで[テレビ愛知](../Page/テレビ愛知.md "wikilink")で放送された[広報](../Page/広報.md "wikilink")番組。
 
 ## 概要
 
-毎回[名古屋市](../Page/名古屋市.md "wikilink")内にある施設や同市内で開催されるイベントなどを紹介していた[ミニ番組](https://ja.wikipedia.org/wiki/ミニ番組 "wikilink")である。名古屋市が民間放送局に放送を委託していた番組の1つであり、かつては名古屋市の広報サイト内にもこの番組について紹介したページが存在していた。
+毎回[名古屋市](../Page/名古屋市.md "wikilink")内にある施設や同市内で開催されるイベントなどを紹介していた[ミニ番組](../Page/ミニ番組.md "wikilink")である。名古屋市が民間放送局に放送を委託していた番組の1つであり、かつては名古屋市の広報サイト内にもこの番組について紹介したページが存在していた。
 
 放送開始から1年間は土曜17:15枠で放送されていたが、2004年春の改編を機に土曜20:54枠へ移動した。その直後の時間帯には[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")製作の『[出没\!アド街ック天国](https://ja.wikipedia.org/wiki/出没!アド街ック天国 "wikilink")』が[テレビ東京系全国同時ネットで放送されており](https://ja.wikipedia.org/wiki/TXN "wikilink")、名古屋を専門に特集していたこの『おでかけ情報BOX』と、主に東京や関東各地の街について特集している『アド街』とで一定の流れを狙った編成がテレビ愛知では組まれていた。なお、『アド街』も過去に数回名古屋をテーマに取り上げたことがある。
 
@@ -18,10 +18,10 @@
 
 ## 出演者
 
-  - [高瀬桃子](https://ja.wikipedia.org/wiki/高瀬桃子 "wikilink") - 2006年4月から同年12月まで出演。
+  - [高瀬桃子](../Page/高瀬桃子.md "wikilink") - 2006年4月から同年12月まで出演。
   - [倉沢奈子](https://ja.wikipedia.org/wiki/倉沢奈子 "wikilink") - 2007年1月から2009年3月まで出演。
-  - [水口美希](https://ja.wikipedia.org/wiki/水口美希 "wikilink")（当時テレビ愛知アナウンサー） - 2009年4月から同年12月まで出演。
-  - [名越涼子](https://ja.wikipedia.org/wiki/名越涼子 "wikilink")（当時テレビ愛知アナウンサー） - 2010年1月から同年3月まで出演。
+  - [水口美希](../Page/水口美希.md "wikilink")（当時テレビ愛知アナウンサー） - 2009年4月から同年12月まで出演。
+  - [名越涼子](../Page/名越涼子.md "wikilink")（当時テレビ愛知アナウンサー） - 2010年1月から同年3月まで出演。
 
 ## その他の名古屋市広報番組
 

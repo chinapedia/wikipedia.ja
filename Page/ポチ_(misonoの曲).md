@@ -18,7 +18,7 @@
       - 作詞：misono、作曲・編曲：UMU
       - 集英社「MORE」CMソング
 2.  **11eleven**
-      - 作詞：misono、作曲：[北野正人](https://ja.wikipedia.org/wiki/北野正人 "wikilink")、編曲：久保田光太郎
+      - 作詞：misono、作曲：[北野正人](../Page/北野正人.md "wikilink")、編曲：久保田光太郎
 3.  '''ポチ -instrumental-
 4.  **11eleven -instrumental-**
 

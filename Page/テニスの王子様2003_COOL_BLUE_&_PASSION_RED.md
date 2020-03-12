@@ -1,7 +1,7 @@
 > この記事は[2003 COOL BLUE \& PASSION RED](https://ja.wikipedia.org/wiki/2003_COOL_BLUE_\&_PASSION_RED)から翻訳されています。
 
 
-**テニスの王子様2003 COOL BLUE**（テニスのおうじさま2003 クールブルー）および**テニスの王子様2003 PASSION RED**（テニスのおうじさま2003 パッションレッド）は、[2003年](../Page/2003年.md "wikilink")[2月20日](../Page/2月20日.md "wikilink")に[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")より同時発売された[ゲームボーイアドバンス](https://ja.wikipedia.org/wiki/ゲームボーイアドバンス "wikilink")用ソフト。
+**テニスの王子様2003 COOL BLUE**（テニスのおうじさま2003 クールブルー）および**テニスの王子様2003 PASSION RED**（テニスのおうじさま2003 パッションレッド）は、[2003年](../Page/2003年.md "wikilink")[2月20日](../Page/2月20日.md "wikilink")に[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")より同時発売された[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")用ソフト。
 
 漫画『[テニスの王子様](../Page/テニスの王子様.md "wikilink")』のゲーム化作品の1つ。
 
@@ -124,7 +124,7 @@
   - [テニスの王子様](../Page/テニスの王子様.md "wikilink") - 原作
   - [テニスの王子様 (ゲーム)](https://ja.wikipedia.org/wiki/テニスの王子様_\(ゲーム\) "wikilink")
       - [テニスの王子様 GENIUS BOYS ACADEMY](https://ja.wikipedia.org/wiki/テニスの王子様_GENIUS_BOYS_ACADEMY "wikilink") - GBAソフト。ゲームシステム上の前作品。
-      - [テニスの王子様2004 Stylish Silver & Glorious Gold](https://ja.wikipedia.org/wiki/テニスの王子様2004_Stylish_Silver_&_Glorious_Gold "wikilink") - GBAソフト。ゲームシステム上の次作品。
+      - [テニスの王子様2004 Stylish Silver & Glorious Gold](../Page/テニスの王子様2004_Stylish_Silver_&_Glorious_Gold.md "wikilink") - GBAソフト。ゲームシステム上の次作品。
       - [テニスの王子様 Aim at The Victory\!](https://ja.wikipedia.org/wiki/テニスの王子様_Aim_at_The_Victory! "wikilink") - GBAソフト。本作の体験版が収録されている。
 
 

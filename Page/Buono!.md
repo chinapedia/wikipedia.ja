@@ -7,11 +7,11 @@
 
   - 2007年、[Berryz工房](../Page/Berryz工房.md "wikilink")から[嗣永桃子](../Page/嗣永桃子.md "wikilink")と[夏焼雅](../Page/夏焼雅.md "wikilink")、[℃-ute](https://ja.wikipedia.org/wiki/℃-ute "wikilink")から[鈴木愛理を選抜し結成されたユニット](https://ja.wikipedia.org/wiki/鈴木愛理_\(ハロー!プロジェクト\) "wikilink")。
   - デビューから一貫して滝川洋がプロデューサーをつとめ、楽曲に[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")外部からの制作陣が多く関わり、ライブやPVにバックバンドを取り入れるなど、[ロックサウンド主体のユニットであることから](../Page/ロック_\(音楽\).md "wikilink")、[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")の中では例外的なユニットである。\[1\]
-  - 2007年から2010年まで放映された[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")「[しゅごキャラ\!](https://ja.wikipedia.org/wiki/しゅごキャラ! "wikilink")」\[2\]シリーズのテーマソングを担当。原作は講談社「[なかよし](../Page/なかよし.md "wikilink")」で好評連載中の作品で、5月には第32回[講談社漫画賞](https://ja.wikipedia.org/wiki/講談社漫画賞 "wikilink")の児童部門を受賞した\[3\]。番組終了後もCD制作やライブ活動を継続し、[ピザーラ](https://ja.wikipedia.org/wiki/ピザーラ "wikilink")やVIVAパエリアのCMに出演するなど多方面の活動にシフトしていった。
-  - 2009年、[日本青年館](https://ja.wikipedia.org/wiki/日本青年館 "wikilink")で初の単独ライブ。2010年からは年2回のペースでライブツアーをおこない、2012年2月にはパリでの単独公演を開催している\[4\]。また同年6月には、[日本武道館](https://ja.wikipedia.org/wiki/日本武道館 "wikilink")で開催された[ライブイベントに出演](https://ja.wikipedia.org/wiki/指原莉乃プロデュース『第一回ゆび祭り〜アイドル臨時総会〜』 "wikilink")、「[初恋サイダー](https://ja.wikipedia.org/wiki/初恋サイダー "wikilink")」を含む3曲を披露した\[5\]。
+  - 2007年から2010年まで放映された[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")「[しゅごキャラ\!](../Page/しゅごキャラ!.md "wikilink")」\[2\]シリーズのテーマソングを担当。原作は講談社「[なかよし](../Page/なかよし.md "wikilink")」で好評連載中の作品で、5月には第32回[講談社漫画賞](../Page/講談社漫画賞.md "wikilink")の児童部門を受賞した\[3\]。番組終了後もCD制作やライブ活動を継続し、[ピザーラ](../Page/ピザーラ.md "wikilink")やVIVAパエリアのCMに出演するなど多方面の活動にシフトしていった。
+  - 2009年、[日本青年館](../Page/日本青年館.md "wikilink")で初の単独ライブ。2010年からは年2回のペースでライブツアーをおこない、2012年2月にはパリでの単独公演を開催している\[4\]。また同年6月には、[日本武道館](../Page/日本武道館.md "wikilink")で開催された[ライブイベントに出演](https://ja.wikipedia.org/wiki/指原莉乃プロデュース『第一回ゆび祭り〜アイドル臨時総会〜』 "wikilink")、「[初恋サイダー](https://ja.wikipedia.org/wiki/初恋サイダー "wikilink")」を含む3曲を披露した\[5\]。
   - 2012年9月、大阪公演以降、単独でのライブは開催されず、[Berryz工房](../Page/Berryz工房.md "wikilink")および[℃-ute](https://ja.wikipedia.org/wiki/℃-ute "wikilink")の出演するライブイベントで楽曲を披露するなど、限定的な活動となっていた。\[6\]
-  - 2016年8月25日、[日本武道館](https://ja.wikipedia.org/wiki/日本武道館 "wikilink")において4年ぶりとなる単独コンサートを開催。チケットは即日完売\[7\]。同公演は海外含めた22会場で[ライブビューイング](https://ja.wikipedia.org/wiki/ライブビューイング "wikilink")も開催された\[8\]。4年ぶりとなるシングル「[ソラシド〜ねえねえ〜](https://ja.wikipedia.org/wiki/ソラシド〜ねえねえ〜 "wikilink") 」も同ライブで初披露された。
-  - ジャケット上のセンターは1stシングル「[ホントのじぶん](https://ja.wikipedia.org/wiki/ホントのじぶん "wikilink")」から3rdシングル「[Kiss\!Kiss\!Kiss\!](https://ja.wikipedia.org/wiki/Kiss!Kiss!Kiss! "wikilink")」までは夏焼雅、4thシングル「[ガチンコでいこう\!](https://ja.wikipedia.org/wiki/ガチンコでいこう! "wikilink")」から7thシングル「[MY BOY](https://ja.wikipedia.org/wiki/MY_BOY "wikilink")」は嗣永桃子、8thシングル「[Take It Easy\!](https://ja.wikipedia.org/wiki/Take_It_Easy! "wikilink")」からは鈴木愛理、13thシングル「[初恋サイダー/DEEP MIND](https://ja.wikipedia.org/wiki/初恋サイダー/DEEP_MIND "wikilink")」は嗣永桃子である。
+  - 2016年8月25日、[日本武道館](../Page/日本武道館.md "wikilink")において4年ぶりとなる単独コンサートを開催。チケットは即日完売\[7\]。同公演は海外含めた22会場で[ライブビューイング](../Page/ライブビューイング.md "wikilink")も開催された\[8\]。4年ぶりとなるシングル「[ソラシド〜ねえねえ〜](https://ja.wikipedia.org/wiki/ソラシド〜ねえねえ〜 "wikilink") 」も同ライブで初披露された。
+  - ジャケット上のセンターは1stシングル「[ホントのじぶん](../Page/ホントのじぶん.md "wikilink")」から3rdシングル「[Kiss\!Kiss\!Kiss\!](https://ja.wikipedia.org/wiki/Kiss!Kiss!Kiss! "wikilink")」までは夏焼雅、4thシングル「[ガチンコでいこう\!](../Page/ガチンコでいこう!.md "wikilink")」から7thシングル「[MY BOY](https://ja.wikipedia.org/wiki/MY_BOY "wikilink")」は嗣永桃子、8thシングル「[Take It Easy\!](https://ja.wikipedia.org/wiki/Take_It_Easy! "wikilink")」からは鈴木愛理、13thシングル「[初恋サイダー/DEEP MIND](https://ja.wikipedia.org/wiki/初恋サイダー/DEEP_MIND "wikilink")」は嗣永桃子である。
   - 気合い入れの言葉は『今日も美味しくいただきますっ\!\!』。\[9\]
   - 2017年5月22日、[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")においてラストライブ「[Buono\! ライブ 2017 〜Pienezza\!〜](https://ja.wikipedia.org/wiki/Buono!_ライブ_2017_〜Pienezza!〜 "wikilink")」を開催し\[10\]活動完了した。
 
@@ -52,7 +52,7 @@
 
   - キーボード/バンドマスター/編曲 ： eji（現カムロバウンス（2010年～））
   - ギター ： じゅんちゃん（[菅原潤子](https://ja.wikipedia.org/wiki/菅原潤子 "wikilink")）
-  - ドラムス ： cheeta（元[中ノ森BAND](https://ja.wikipedia.org/wiki/中ノ森BAND "wikilink")）
+  - ドラムス ： cheeta（元[中ノ森BAND](../Page/中ノ森BAND.md "wikilink")）
   - ベース ： きくちゃん（[菊池聖美](https://ja.wikipedia.org/wiki/菊池聖美 "wikilink")）
   - ベース ： なおみち（[岩崎なおみ](https://ja.wikipedia.org/wiki/岩崎なおみ "wikilink")）
   - ドラムス ： まいまい（[今村舞](https://ja.wikipedia.org/wiki/今村舞 "wikilink")）（元SUPER EGG MACHINE）
@@ -66,13 +66,13 @@
 **2007年**
 
   - 7月21日、[サンシャインシティ](../Page/サンシャインシティ.md "wikilink")噴水広場で開催された「なかよしフェスティバル2007」でユニット結成を発表。
-  - 8月22日、[パレットタウン](https://ja.wikipedia.org/wiki/パレットタウン "wikilink")パレットプラザでデビュー曲発表ライブを開催する。
-  - 9月15日、ラジオ番組「[CUTIE PARTY](https://ja.wikipedia.org/wiki/CUTIE_PARTY "wikilink")」に鈴木愛理がゲストで出演した際に『ホントのじぶん』が初オンエアされる。
-  - 9月30日、[横浜BLITZ](https://ja.wikipedia.org/wiki/横浜BLITZ "wikilink")で開催された「℃-uteライブツアー2007秋〜放課後のエッセンス〜」にゲスト出演\[11\]。
-  - 10月6日、アニメ「[しゅごキャラ\!](https://ja.wikipedia.org/wiki/しゅごキャラ! "wikilink")」が放送開始。オープニング・エンディングテーマ曲を担当。
-  - 10月7日・8日、[パシフィコ横浜](https://ja.wikipedia.org/wiki/パシフィコ横浜 "wikilink")で開催された「[モーニング娘。“熱っちぃ地球を冷ますんだっ。”文化祭](https://ja.wikipedia.org/wiki/モーニング娘。“熱っちぃ地球を冷ますんだっ。”文化祭 "wikilink")2007」のアニメ広場で『ホントのじぶん』を披露した\[12\]。
+  - 8月22日、[パレットタウン](../Page/パレットタウン.md "wikilink")パレットプラザでデビュー曲発表ライブを開催する。
+  - 9月15日、ラジオ番組「[CUTIE PARTY](../Page/CUTIE_PARTY.md "wikilink")」に鈴木愛理がゲストで出演した際に『ホントのじぶん』が初オンエアされる。
+  - 9月30日、[横浜BLITZ](../Page/横浜BLITZ.md "wikilink")で開催された「℃-uteライブツアー2007秋〜放課後のエッセンス〜」にゲスト出演\[11\]。
+  - 10月6日、アニメ「[しゅごキャラ\!](../Page/しゅごキャラ!.md "wikilink")」が放送開始。オープニング・エンディングテーマ曲を担当。
+  - 10月7日・8日、[パシフィコ横浜](https://ja.wikipedia.org/wiki/パシフィコ横浜 "wikilink")で開催された「[モーニング娘。“熱っちぃ地球を冷ますんだっ。”文化祭](../Page/モーニング娘。“熱っちぃ地球を冷ますんだっ。”文化祭.md "wikilink")2007」のアニメ広場で『ホントのじぶん』を披露した\[12\]。
   - 10月12日、Buono\!特設サイトを開設。\[13\]同時にブログ「くいしんBuono\!」を開始する。
-  - 11月17日、Buono\!デビュー記念イベントを[東京厚生年金会館](https://ja.wikipedia.org/wiki/東京厚生年金会館 "wikilink")で開催。同月25日には大阪 エル・シアターでも開催。
+  - 11月17日、Buono\!デビュー記念イベントを[東京厚生年金会館](../Page/東京厚生年金会館.md "wikilink")で開催。同月25日には大阪 エル・シアターでも開催。
 
 **2008年**
 
@@ -80,7 +80,7 @@
 
 **2009年**
 
-  - 2月11日・12日・14日・15日、[日本青年館](https://ja.wikipedia.org/wiki/日本青年館 "wikilink")で「Buono\!ライブ2009 〜ハイブリッド☆パンチ〜」を7公演（2月12日は1公演）を開催。一般向けとしては初のライブとなる。
+  - 2月11日・12日・14日・15日、[日本青年館](../Page/日本青年館.md "wikilink")で「Buono\!ライブ2009 〜ハイブリッド☆パンチ〜」を7公演（2月12日は1公演）を開催。一般向けとしては初のライブとなる。
   - 4月29日、Buono\!特設サイトがリニューアルし、同時にメンバーのブログの名前も「しゃべりんBuono\!」になった。
   - 5月24日に[ストックホルム](../Page/ストックホルム.md "wikilink")（[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")）で開催が計画されていた日本カルチャーイベント「Stockholm Japan Expo 2009」に出演予定だったが、主催者都合によりイベント自体が開催中止となる。\[14\]
   - 8月21日、FC会員限定のライブイベント「Rock'n Buono\!2」を[Zepp Tokyoで開催](https://ja.wikipedia.org/wiki/Zepp_Tokyo "wikilink")。
@@ -93,15 +93,15 @@
 
 **2011年**
 
-  - 2月2日、レコード会社を[アップフロントワークス](https://ja.wikipedia.org/wiki/アップフロントワークス "wikilink")（zetimaレーベル）へ移籍。第一弾シングル「[雑草のうた](https://ja.wikipedia.org/wiki/雑草のうた "wikilink")」を発売。
-  - 2月5日、[湘南ビーチFMで冠番組となるラジオ番組](https://ja.wikipedia.org/wiki/逗子・葉山コミュニティ放送 "wikilink")「MUSIC Buono\!」スタート。10月1日、「Café Buono\!」にリニューアル。
+  - 2月2日、レコード会社を[アップフロントワークス](../Page/アップフロントワークス.md "wikilink")（zetimaレーベル）へ移籍。第一弾シングル「[雑草のうた](https://ja.wikipedia.org/wiki/雑草のうた "wikilink")」を発売。
+  - 2月5日、[湘南ビーチFMで冠番組となるラジオ番組](../Page/逗子・葉山コミュニティ放送.md "wikilink")「MUSIC Buono\!」スタート。10月1日、「Café Buono\!」にリニューアル。
   - 10月29日、映画『ゴメンナサイ』で映画初主演を務める\[17\]。また、同映画の主題歌も担当する\[18\]。
   - 11月12日、子宮頸がん予防啓発プロジェクト　Hellosmile Live 2011 Autumn\[19\]に出演。
 
 **2012年**
 
   - 2月12日、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")のライブハウス[ムーランルージュ](https://ja.wikipedia.org/wiki/ムーランルージュ "wikilink")で初めての海外単独ライブを行った\[20\]。
-  - 6月25日、[指原莉乃プロデュース『第一回ゆび祭り〜アイドル臨時総会〜』](https://ja.wikipedia.org/wiki/指原莉乃プロデュース『第一回ゆび祭り〜アイドル臨時総会〜』 "wikilink")に出演\[21\]。Buono\!として初めて[日本武道館](https://ja.wikipedia.org/wiki/日本武道館 "wikilink")のステージを踏む。
+  - 6月25日、[指原莉乃プロデュース『第一回ゆび祭り〜アイドル臨時総会〜』](https://ja.wikipedia.org/wiki/指原莉乃プロデュース『第一回ゆび祭り〜アイドル臨時総会〜』 "wikilink")に出演\[21\]。Buono\!として初めて[日本武道館](../Page/日本武道館.md "wikilink")のステージを踏む。
 
 **2013年**
 
@@ -148,7 +148,7 @@
 <th><p>順</p></th>
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">オリコン</a><br />
+<th><p><a href="../Page/オリコンチャート.md" title="wikilink">オリコン</a><br />
 最高位</p></th>
 <th><p>作詞</p></th>
 <th><p>カップリング</p></th>
@@ -174,9 +174,9 @@
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p>2007年10月31日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ホントのじぶん" title="wikilink">ホントのじぶん</a></p></td>
+<td><p><a href="../Page/ホントのじぶん.md" title="wikilink">ホントのじぶん</a></p></td>
 <td><p>5位</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/岩里祐穂" title="wikilink">岩里祐穂</a></p></td>
+<td><p><a href="../Page/岩里祐穂.md" title="wikilink">岩里祐穂</a></p></td>
 <td><p>こころのたまご</p></td>
 </tr>
 <tr class="even">
@@ -188,7 +188,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/西川進" title="wikilink">西川進</a></p></td>
+<td><p><a href="../Page/西川進.md" title="wikilink">西川進</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -198,7 +198,7 @@
 <tr class="even">
 <td><p>2nd</p></td>
 <td><p>2008年2月6日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/恋愛ライダー" title="wikilink">恋愛{{unicode</a></p></td>
+<td><p><a href="../Page/恋愛ライダー.md" title="wikilink">恋愛{{unicode</a></p></td>
 <td><p>7位</p></td>
 <td><p>岩里祐穂</p></td>
 <td><p>じゃなきゃもったいないっ!</p></td>
@@ -246,7 +246,7 @@
 <tr class="even">
 <td><p>4th</p></td>
 <td><p>2008年8月20日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ガチンコでいこう!" title="wikilink">ガチンコでいこう!</a></p></td>
+<td><p><a href="../Page/ガチンコでいこう!.md" title="wikilink">ガチンコでいこう!</a></p></td>
 <td><p>6位</p></td>
 <td><p>岩里祐穂</p></td>
 <td><p>れでぃぱんさぁ</p></td>
@@ -296,7 +296,7 @@
 <td><p>2009年1月21日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/co・no・mi・chi" title="wikilink">co・no・mi・chi</a></p></td>
 <td><p>4位</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/三浦徳子" title="wikilink">三浦徳子</a></p></td>
+<td><p><a href="../Page/三浦徳子.md" title="wikilink">三浦徳子</a></p></td>
 <td><p>無敵の∞Power</p></td>
 </tr>
 <tr class="odd">
@@ -527,7 +527,7 @@ AKIRASTAR</p></td>
 <th><p>順</p></th>
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">オリコン</a><br />
+<th><p><a href="../Page/オリコンチャート.md" title="wikilink">オリコン</a><br />
 最高位</p></th>
 </tr>
 </thead>
@@ -535,7 +535,7 @@ AKIRASTAR</p></td>
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p>2008年2月20日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Café_Buono!" title="wikilink">Café Buono!</a></p></td>
+<td><p><a href="../Page/Café_Buono!.md" title="wikilink">Café Buono!</a></p></td>
 <td><p>11位</p></td>
 </tr>
 <tr class="even">
@@ -561,7 +561,7 @@ AKIRASTAR</p></td>
 <th><p>順</p></th>
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">オリコン</a><br />
+<th><p><a href="../Page/オリコンチャート.md" title="wikilink">オリコン</a><br />
 最高位</p></th>
 </tr>
 </thead>
@@ -589,7 +589,7 @@ AKIRASTAR</p></td>
 <th><p>順</p></th>
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">オリコン</a><br />
+<th><p><a href="../Page/オリコンチャート.md" title="wikilink">オリコン</a><br />
 最高位</p></th>
 </tr>
 </thead>
@@ -605,10 +605,10 @@ AKIRASTAR</p></td>
 
 #### 限定アルバム
 
-| 順   | 発売日        | タイトル                           | 説明                                                                      |
-| --- | ---------- | ------------------------------ | ----------------------------------------------------------------------- |
-| 1st | 2011年7月5日  | Buono\! CRUISE\[44\]           | ギタリスト[松原正樹](https://ja.wikipedia.org/wiki/松原正樹 "wikilink")がカバーアルバムを作った。 |
-| 2nd | 2012年2月12日 | Buono\! Paris Collection\[45\] | パリのコンサートで、Buono\!の曲コレクションCDがリリースされた。                                    |
+| 順   | 発売日        | タイトル                           | 説明                                                   |
+| --- | ---------- | ------------------------------ | ---------------------------------------------------- |
+| 1st | 2011年7月5日  | Buono\! CRUISE\[44\]           | ギタリスト[松原正樹](../Page/松原正樹.md "wikilink")がカバーアルバムを作った。 |
+| 2nd | 2012年2月12日 | Buono\! Paris Collection\[45\] | パリのコンサートで、Buono\!の曲コレクションCDがリリースされた。                 |
 
 ### 映像作品
 
@@ -620,7 +620,7 @@ AKIRASTAR</p></td>
 <th><p>順</p></th>
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">オリコン</a><br />
+<th><p><a href="../Page/オリコンチャート.md" title="wikilink">オリコン</a><br />
 最高位</p></th>
 </tr>
 </thead>
@@ -709,7 +709,7 @@ AKIRASTAR</p></td>
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
 <th><p>メディア</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">オリコン</a><br />
+<th><p><a href="../Page/オリコンチャート.md" title="wikilink">オリコン</a><br />
 最高位</p></th>
 </tr>
 </thead>
@@ -748,7 +748,7 @@ AKIRASTAR</p></td>
 <th><p>タイトル</p></th>
 <th><p>会場</p></th>
 <th><p>発売日</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">オリコン</a><br />
+<th><p><a href="../Page/オリコンチャート.md" title="wikilink">オリコン</a><br />
 最高位</p></th>
 </tr>
 </thead>
@@ -757,7 +757,7 @@ AKIRASTAR</p></td>
 <td><p>1st</p></td>
 <td><p>2009年2月15日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Buono!ライブ2009_〜ハイブリッド☆パンチ〜" title="wikilink">Buono!ライブ2009 〜ハイブリッド☆パンチ〜</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日本青年館" title="wikilink">日本青年館</a></p></td>
+<td><p><a href="../Page/日本青年館.md" title="wikilink">日本青年館</a></p></td>
 <td><p>2009年5月27日</p></td>
 <td><p>2位</p></td>
 </tr>
@@ -773,7 +773,7 @@ AKIRASTAR</p></td>
 <td><p>3rd</p></td>
 <td><p>2010年8月15日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Buono!_ライブツアー_2010_〜Rock&#39;n_Buono!_3〜" title="wikilink">Buono! ライブツアー 2010 〜Rock'n Buono! 3〜</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/横浜BLITZ" title="wikilink">横浜BLITZ</a></p></td>
+<td><p><a href="../Page/横浜BLITZ.md" title="wikilink">横浜BLITZ</a></p></td>
 <td><p>2010年11月10日</p></td>
 <td><p>5位</p></td>
 </tr>
@@ -789,7 +789,7 @@ AKIRASTAR</p></td>
 <td><p>5th</p></td>
 <td><p>2011年8月28日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Buono!_ライブツアー_2011_summer_〜Rock&#39;n_Buono!_4〜" title="wikilink">Buono! ライブツアー 2011 summer 〜Rock'n Buono! 4〜</a>（DVD/Blu-ray）[47]</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/横浜BLITZ" title="wikilink">横浜BLITZ</a></p></td>
+<td><p><a href="../Page/横浜BLITZ.md" title="wikilink">横浜BLITZ</a></p></td>
 <td><p>2011年12月7日</p></td>
 <td><p>DVD:21位/BD:19位</p></td>
 </tr>
@@ -805,7 +805,7 @@ AKIRASTAR</p></td>
 <td><p>7th</p></td>
 <td><p>2012年8月26日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/PIZZA-LA_Presents_Buono!_Delivery_LIVE_2012_〜愛をお届け!〜" title="wikilink">PIZZA-LA Presents Buono! Delivery LIVE 2012 〜愛をお届け!〜</a>(DVD/Blu-ray)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/横浜BLITZ" title="wikilink">横浜BLITZ</a></p></td>
+<td><p><a href="../Page/横浜BLITZ.md" title="wikilink">横浜BLITZ</a></p></td>
 <td><p>2012年12月12日</p></td>
 <td><p>DVD:13位/BD:TBA</p></td>
 </tr>
@@ -813,7 +813,7 @@ AKIRASTAR</p></td>
 <td><p>8th</p></td>
 <td><p>2016年8月25日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Buono!_Festa_2016" title="wikilink">Buono! Festa 2016</a>(DVD/Blu-ray)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日本武道館" title="wikilink">日本武道館</a></p></td>
+<td><p><a href="../Page/日本武道館.md" title="wikilink">日本武道館</a></p></td>
 <td><p>2016年11月23日</p></td>
 <td><p>DVD:6位/BD:2位</p></td>
 </tr>
@@ -892,7 +892,7 @@ AKIRASTAR</p></td>
 ### CM
 
   - フォーシーズ
-      - [ピザーラ](https://ja.wikipedia.org/wiki/ピザーラ "wikilink")
+      - [ピザーラ](../Page/ピザーラ.md "wikilink")
           - ダンス 篇 / ボーノ登場 篇（2008年11月）
               -
                 ※CMでは「ピザーラボーノ\!」というキャッチフレーズを使っている。
@@ -902,7 +902,7 @@ AKIRASTAR</p></td>
 
 ### ラジオ
 
-  - Viva\!Paella presents MUSIC Buono\!（2011年2月5日 - 9月24日、[湘南ビーチFM](https://ja.wikipedia.org/wiki/逗子・葉山コミュニティ放送 "wikilink"))
+  - Viva\!Paella presents MUSIC Buono\!（2011年2月5日 - 9月24日、[湘南ビーチFM](../Page/逗子・葉山コミュニティ放送.md "wikilink"))
   - PIZZA-LA presents Cafe Buono\!（2011年10月1日 - 2013年3月30日、湘南ビーチFM)
   - PIZZA-LA presents Torattoria Buono\!（2013年4月6日 - 2015年2月28日、湘南ビーチFM)
   - PIZZA-LA presents Torattoria Buono\! SP Patisserie Airi（2015年3月7日・2015年3月14日、湘南ビーチFM)
@@ -910,7 +910,7 @@ AKIRASTAR</p></td>
 
 ### ゲーム
 
-  - [Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")用ソフト「[ポップンミュージック](https://ja.wikipedia.org/wiki/pop'n_music "wikilink")」収録楽曲（2009年8月、[コナミデジタルエンタテインメント](https://ja.wikipedia.org/wiki/コナミデジタルエンタテインメント "wikilink")）
+  - [Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")用ソフト「[ポップンミュージック](https://ja.wikipedia.org/wiki/pop'n_music "wikilink")」収録楽曲（2009年8月、[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")）
       - ホントのじぶん（しゅごキャラ\!主題歌）
 
 ## ライブ・イベント
@@ -928,12 +928,12 @@ AKIRASTAR</p></td>
 ### 単独ライブ
 
   - [Buono\!ライブ2009 〜ハイブリッド☆パンチ〜](https://ja.wikipedia.org/wiki/Buono!ライブ2009_〜ハイブリッド☆パンチ〜 "wikilink")
-      - 2009年2月11日・12日・14日・15日 ： [日本青年館](https://ja.wikipedia.org/wiki/日本青年館 "wikilink")
+      - 2009年2月11日・12日・14日・15日 ： [日本青年館](../Page/日本青年館.md "wikilink")
 
 <!-- end list -->
 
   - Buono\!ファーストライブツアー2009 〜Winterフェスタ\!〜
-      - 2009年12月19日・20日 ： [東京厚生年金会館](https://ja.wikipedia.org/wiki/東京厚生年金会館 "wikilink")
+      - 2009年12月19日・20日 ： [東京厚生年金会館](../Page/東京厚生年金会館.md "wikilink")
       - 2009年12月27日 ： [Zepp Osaka](https://ja.wikipedia.org/wiki/Zepp_Osaka "wikilink")
       - 2009年12月28日 ： [Zepp Nagoya](https://ja.wikipedia.org/wiki/Zepp_Nagoya "wikilink")
   - [Buono\!ライブツアー2010 〜We are Buono\!〜](https://ja.wikipedia.org/wiki/Buono!ライブツアー2010_〜We_are_Buono!〜 "wikilink")
@@ -942,19 +942,19 @@ AKIRASTAR</p></td>
       - 2010年2月28日 ： [なんばHatch](https://ja.wikipedia.org/wiki/なんばHatch "wikilink")
   - [Buono\! ライブツアー 2010 〜Rock'n Buono\! 3〜](https://ja.wikipedia.org/wiki/Buono!_ライブツアー_2010_〜Rock'n_Buono!_3〜 "wikilink")
       - 2010年8月12日 ： なんばHatch
-      - 2010年8月14日・15日 ： [横浜BLITZ](https://ja.wikipedia.org/wiki/横浜BLITZ "wikilink")
+      - 2010年8月14日・15日 ： [横浜BLITZ](../Page/横浜BLITZ.md "wikilink")
       - 2010年8月17日 ： Zepp Nagoya
   - [Buono\! ライブ 2011 winter 〜Re;Buono\!〜](https://ja.wikipedia.org/wiki/Buono!_ライブ_2011_winter_〜Re;Buono!〜 "wikilink")
       - 2011年2月11日 ： 横浜BLITZ
-      - 2011年2月19日 ： [渋谷C.C.Lemonホール](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")
+      - 2011年2月19日 ： [渋谷C.C.Lemonホール](../Page/渋谷公会堂.md "wikilink")
       - 2011年2月20日 ： なんばHatch
   - [Buono\! ライブツアー 2011 summer 〜Rock'n Buono\! 4〜](https://ja.wikipedia.org/wiki/Buono!_ライブツアー_2011_summer_〜Rock'n_Buono!_4〜 "wikilink")
       - 2011年8月20日 ： [なんばHatch](https://ja.wikipedia.org/wiki/なんばHatch "wikilink")
       - 2011年8月22日 ： [Zepp Nagoya](https://ja.wikipedia.org/wiki/Zepp_Nagoya "wikilink")
-      - 2011年8月27日・28日 ： [横浜BLITZ](https://ja.wikipedia.org/wiki/横浜BLITZ "wikilink")
+      - 2011年8月27日・28日 ： [横浜BLITZ](../Page/横浜BLITZ.md "wikilink")
       - 2011年9月3日 ： 福岡・DRUM LOGOS
   - Buono\! Live in パリ（フランス）
-      - 2012年2月12日 ： [ムーラン・ルージュ](https://ja.wikipedia.org/wiki/ムーラン・ルージュ "wikilink")
+      - 2012年2月12日 ： [ムーラン・ルージュ](../Page/ムーラン・ルージュ.md "wikilink")
   - [Buono\! LIVE 2012 "R・E・A・L"](https://ja.wikipedia.org/wiki/Buono!_LIVE_2012_"R・E・A・L" "wikilink")
       - 2012年1月28日・29日 ： 横浜BLITZ
       - 2012年2月18日 ： なんばHatch
@@ -963,7 +963,7 @@ AKIRASTAR</p></td>
       - 2012年8月25日・26日 ： 横浜BLITZ
       - 2012年9月2日 ： なんばHatch
   - [Buono\! Festa 2016](https://ja.wikipedia.org/wiki/Buono!_Festa_2016 "wikilink")
-      - 2016年8月25日 ： [日本武道館](https://ja.wikipedia.org/wiki/日本武道館 "wikilink")
+      - 2016年8月25日 ： [日本武道館](../Page/日本武道館.md "wikilink")
   - [Buono\! ライブ 2017　<b xml:lang="en">〜</b>Pienezza\!<b xml:lang="en">〜</b>](https://ja.wikipedia.org/wiki/Buono!_ライブ_2017_〜Pienezza!〜 "wikilink")
       - 2017年5月22日 ： [横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")
 
@@ -985,7 +985,7 @@ AKIRASTAR</p></td>
   - 2008年9月27日 ： 4thシングル「ガチンコでいこう\!」リリースイベント
       - 9月27日 ： 品川ステラボール
   - 2008年11月24日 ： 5thシングル「ロッタラ ロッタラ」リリースイベント
-      - 11月24日 ： 東京・[山野ホール](https://ja.wikipedia.org/wiki/山野ホール "wikilink")
+      - 11月24日 ： 東京・[山野ホール](../Page/山野ホール.md "wikilink")
   - 2009年2月21日 ： 6thシングル「co・no・mi・chi」リリースイベント
       - 2月21日 ： 山野ホール
   - 2009年5月30日 ： 7thシングル「MY BOY」リリースイベント
@@ -999,7 +999,7 @@ AKIRASTAR</p></td>
   - 2010年2月14日 ： 10thシングル「Our Songs」リリースイベント
       - 2月14日 ： 山野ホール
   - 2011年2月12日 ： 11thシングル「雑草のうた」リリースイベント
-      - 2月12日 ： [赤坂BLITZ](https://ja.wikipedia.org/wiki/赤坂BLITZ "wikilink")
+      - 2月12日 ： [赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")
   - 2011年8月9日 ： 12thシングル「夏ダカラ\!」リリースイベント
       - 8月9日 ： 横浜BLITZ
   - 2012年1月18日 ： 13thシングル「初恋サイダー/DEEP MIND」リリースイベント
@@ -1009,8 +1009,8 @@ AKIRASTAR</p></td>
 
   - MELON GREETING（2009年10月15日、Shibuya O-EAST）
   - お台場合衆国2010 〜笑うBayには福きたる\!\!〜（2010年8月10日、東京都港区台場）\[49\]
-  - お台場合衆国2011（2011年8月23日、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[台場](https://ja.wikipedia.org/wiki/台場_\(東京都港区\) "wikilink")）
-  - [指原莉乃プロデュース『第一回ゆび祭り〜アイドル臨時総会〜』](https://ja.wikipedia.org/wiki/指原莉乃プロデュース『第一回ゆび祭り〜アイドル臨時総会〜』 "wikilink")（2012年6月25日、[日本武道館](https://ja.wikipedia.org/wiki/日本武道館 "wikilink")）\[50\]
+  - お台場合衆国2011（2011年8月23日、[東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[台場](https://ja.wikipedia.org/wiki/台場_\(東京都港区\) "wikilink")）
+  - [指原莉乃プロデュース『第一回ゆび祭り〜アイドル臨時総会〜』](https://ja.wikipedia.org/wiki/指原莉乃プロデュース『第一回ゆび祭り〜アイドル臨時総会〜』 "wikilink")（2012年6月25日、[日本武道館](../Page/日本武道館.md "wikilink")）\[50\]
 
 ## 書籍
 

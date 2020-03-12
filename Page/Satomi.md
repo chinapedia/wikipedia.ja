@@ -1,7 +1,7 @@
 > この記事は[Satomi](https://ja.wikipedia.org/wiki/Satomi)から翻訳されています。
 
 
-**Satomi**（サトミ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[作詞家](../Page/作詞家.md "wikilink")。所属事務所は[スマイルカンパニー](https://ja.wikipedia.org/wiki/スマイルカンパニー "wikilink")。
+**Satomi**（サトミ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[作詞家](../Page/作詞家.md "wikilink")。所属事務所は[スマイルカンパニー](../Page/スマイルカンパニー.md "wikilink")。
 
 ## 略歴
 
@@ -13,7 +13,7 @@
 
 2012年、JUJUの「[ありがとう](https://ja.wikipedia.org/wiki/ありがとう_\(JUJUの曲\) "wikilink")」、Fairiesの「[White Angel](https://ja.wikipedia.org/wiki/White_Angel "wikilink")」で[第54回日本レコード大賞](https://ja.wikipedia.org/wiki/第54回日本レコード大賞 "wikilink")優秀作品賞を受賞。
 
-同事務所に所属する[篠崎隆一](https://ja.wikipedia.org/wiki/篠崎隆一 "wikilink")（[作詞家](../Page/作詞家.md "wikilink")）と作詞ユニットdouble Sとしても活躍。
+同事務所に所属する[篠崎隆一](../Page/篠崎隆一.md "wikilink")（[作詞家](../Page/作詞家.md "wikilink")）と作詞ユニットdouble Sとしても活躍。
 
 ## エピソード
 
@@ -33,23 +33,23 @@
 ### 嗜好
 
   - 邦楽無知で、洋楽以外はほとんど聞かない。また[プロレス](../Page/プロレス.md "wikilink")と[アニメ](../Page/アニメ.md "wikilink")好き\[8\]。
-  - 趣味は、バス[フィッシング](https://ja.wikipedia.org/wiki/釣り "wikilink")・[ボディーボード](https://ja.wikipedia.org/wiki/ボディーボード "wikilink")・[スキー](../Page/スキー.md "wikilink")・[ピラティス](https://ja.wikipedia.org/wiki/ピラティス "wikilink")・[ホットヨガ](https://ja.wikipedia.org/wiki/ホットヨガ "wikilink")・トレーニング・ドライブ・温泉・食べ歩き。かなりアクティブな一面をTwitterにて公表している。
+  - 趣味は、バス[フィッシング](../Page/釣り.md "wikilink")・[ボディーボード](https://ja.wikipedia.org/wiki/ボディーボード "wikilink")・[スキー](../Page/スキー.md "wikilink")・[ピラティス](https://ja.wikipedia.org/wiki/ピラティス "wikilink")・[ホットヨガ](https://ja.wikipedia.org/wiki/ホットヨガ "wikilink")・トレーニング・ドライブ・温泉・食べ歩き。かなりアクティブな一面をTwitterにて公表している。
   - 愛猫の名前は、『マオ』『愛』。
 
 ## 代表作品
 
   - **[雪の華](https://ja.wikipedia.org/wiki/雪の華_\(曲\) "wikilink")**（[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")）
       -
-        中島の代表曲でもあり、2003年第45回日本レコード大賞で作詩賞を受賞した作品。後に、[徳永英明](https://ja.wikipedia.org/wiki/徳永英明 "wikilink")や朴孝信（パク・ヒョシン）がカヴァーする。
+        中島の代表曲でもあり、2003年第45回日本レコード大賞で作詩賞を受賞した作品。後に、[徳永英明](../Page/徳永英明.md "wikilink")や朴孝信（パク・ヒョシン）がカヴァーする。
   - **[月のしずく](../Page/月のしずく_\(柴咲コウの曲\).md "wikilink")**（RUI／[柴咲コウ](https://ja.wikipedia.org/wiki/柴咲コウ "wikilink")）
       -
-        柴咲が、映画『[黄泉がえり](../Page/黄泉がえり.md "wikilink")』で演じた役名で発売し、大ヒットした作品。後に、徳永英明や[エリック・マーティン](https://ja.wikipedia.org/wiki/エリック・マーティン "wikilink")がカヴァーする。
-  - **[Anniversary](https://ja.wikipedia.org/wiki/Anniversary_\(KinKi_Kidsの曲\) "wikilink")**（[KinKi Kids](../Page/KinKi_Kids.md "wikilink")）
+        柴咲が、映画『[黄泉がえり](../Page/黄泉がえり.md "wikilink")』で演じた役名で発売し、大ヒットした作品。後に、徳永英明や[エリック・マーティン](../Page/エリック・マーティン.md "wikilink")がカヴァーする。
+  - **[Anniversary](../Page/Anniversary_\(KinKi_Kidsの曲\).md "wikilink")**（[KinKi Kids](../Page/KinKi_Kids.md "wikilink")）
       -
-        KinKi Kidsの20枚目のシングル。これを記念したリアレンジバージョンも製作された。作曲は「[世界中の誰よりきっと](https://ja.wikipedia.org/wiki/世界中の誰よりきっと "wikilink")」（[中山美穂](https://ja.wikipedia.org/wiki/中山美穂 "wikilink")＆[WANDS](https://ja.wikipedia.org/wiki/WANDS "wikilink")）、「[負けないで](https://ja.wikipedia.org/wiki/負けないで "wikilink")」（[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")）、「[シーズン・イン・ザ・サン](../Page/シーズン・イン・ザ・サン_\(TUBEの曲\).md "wikilink")」（[TUBE](../Page/TUBE.md "wikilink")）、「[おどるポンポコリン](https://ja.wikipedia.org/wiki/おどるポンポコリン "wikilink")」（[B.B.クィーンズ](https://ja.wikipedia.org/wiki/B.B.クィーンズ "wikilink")）などを手がけたヒットメイカーの[織田哲郎](../Page/織田哲郎.md "wikilink")。後に、織田がセルフカバーする。
+        KinKi Kidsの20枚目のシングル。これを記念したリアレンジバージョンも製作された。作曲は「[世界中の誰よりきっと](../Page/世界中の誰よりきっと.md "wikilink")」（[中山美穂](../Page/中山美穂.md "wikilink")＆[WANDS](../Page/WANDS.md "wikilink")）、「[負けないで](../Page/負けないで.md "wikilink")」（[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")）、「[シーズン・イン・ザ・サン](../Page/シーズン・イン・ザ・サン_\(TUBEの曲\).md "wikilink")」（[TUBE](../Page/TUBE.md "wikilink")）、「[おどるポンポコリン](../Page/おどるポンポコリン.md "wikilink")」（[B.B.クィーンズ](../Page/B.B.クィーンズ.md "wikilink")）などを手がけたヒットメイカーの[織田哲郎](../Page/織田哲郎.md "wikilink")。後に、織田がセルフカバーする。
   - **雪白の月**（[KinKi Kids](../Page/KinKi_Kids.md "wikilink")）
       -
-        KinKi Kidsの22枚目のシングル「[SNOW\! SNOW\! SNOW\!](https://ja.wikipedia.org/wiki/SNOW!_SNOW!_SNOW! "wikilink")」のボーナストラックに収録された作品。メイン楽曲ではないが、KinKi Kidsデビュー10周年のファン投票では、BEST3に入っている。作曲は、「雪の華」「月のしずく」や「Kiss」（[Crystal Kay](https://ja.wikipedia.org/wiki/Crystal_Kay "wikilink")）などを手がけた[松本良喜](https://ja.wikipedia.org/wiki/松本良喜 "wikilink")。
+        KinKi Kidsの22枚目のシングル「[SNOW\! SNOW\! SNOW\!](../Page/SNOW!_SNOW!_SNOW!.md "wikilink")」のボーナストラックに収録された作品。メイン楽曲ではないが、KinKi Kidsデビュー10周年のファン投票では、BEST3に入っている。作曲は、「雪の華」「月のしずく」や「Kiss」（[Crystal Kay](https://ja.wikipedia.org/wiki/Crystal_Kay "wikilink")）などを手がけた[松本良喜](https://ja.wikipedia.org/wiki/松本良喜 "wikilink")。
 
 ## 作詞提供
 
@@ -73,13 +73,13 @@
 
 <!-- end list -->
 
-  - 「[It's a wonderful world.](https://ja.wikipedia.org/wiki/SAMPLE_BANG! "wikilink")」
+  - 「[It's a wonderful world.](../Page/SAMPLE_BANG!.md "wikilink")」
   - 「[Last Smile](https://ja.wikipedia.org/wiki/super.modern.artistic.performance "wikilink")」
-  - 「[La ＋ LOVE & PEACE](https://ja.wikipedia.org/wiki/SAMPLE_BANG! "wikilink")」[木村拓哉](https://ja.wikipedia.org/wiki/木村拓哉 "wikilink")ソロ曲
+  - 「[La ＋ LOVE & PEACE](../Page/SAMPLE_BANG!.md "wikilink")」[木村拓哉](../Page/木村拓哉.md "wikilink")ソロ曲
 
 <!-- end list -->
 
-  - [佐藤アツヒロ](https://ja.wikipedia.org/wiki/佐藤アツヒロ "wikilink")
+  - [佐藤アツヒロ](../Page/佐藤アツヒロ.md "wikilink")
 
 <!-- end list -->
 
@@ -91,7 +91,7 @@
 
 <!-- end list -->
 
-  - 「[UNLIMITED](https://ja.wikipedia.org/wiki/∞_INFINITY_〜LOVE_&_LIFE〜#収録曲 "wikilink")」[坂本昌行](https://ja.wikipedia.org/wiki/坂本昌行 "wikilink"), [森田剛](https://ja.wikipedia.org/wiki/森田剛 "wikilink"), [三宅健](https://ja.wikipedia.org/wiki/三宅健 "wikilink")ユニット曲
+  - 「[UNLIMITED](https://ja.wikipedia.org/wiki/∞_INFINITY_〜LOVE_&_LIFE〜#収録曲 "wikilink")」[坂本昌行](../Page/坂本昌行.md "wikilink"), [森田剛](https://ja.wikipedia.org/wiki/森田剛 "wikilink"), [三宅健](../Page/三宅健.md "wikilink")ユニット曲
 
 <!-- end list -->
 
@@ -99,21 +99,21 @@
 
 <!-- end list -->
 
-  - 「[情熱](https://ja.wikipedia.org/wiki/情熱_\(KinKi_Kidsの曲\) "wikilink")」― KTV/CX系ドラマ『ルーキー！』主題歌
-  - 「[Funky Party](https://ja.wikipedia.org/wiki/永遠のBLOODS "wikilink")」
+  - 「[情熱](../Page/情熱_\(KinKi_Kidsの曲\).md "wikilink")」― KTV/CX系ドラマ『ルーキー！』主題歌
+  - 「[Funky Party](../Page/永遠のBLOODS.md "wikilink")」
   - 「[心に夢を君には愛を](https://ja.wikipedia.org/wiki/心に夢を君には愛を "wikilink")」
   - 「[ギラ☆ギラ](https://ja.wikipedia.org/wiki/心に夢を君には愛を/ギラ☆ギラ "wikilink")」
   - 「[どらごん・ろ〜ど](https://ja.wikipedia.org/wiki/G_album_-24/7- "wikilink")」
-  - 「[Anniversary](https://ja.wikipedia.org/wiki/Anniversary_\(KinKi_Kidsの曲\) "wikilink")」
-  - 「[ビロードの闇](https://ja.wikipedia.org/wiki/ビロードの闇 "wikilink")」
-  - 「[雪白の月](https://ja.wikipedia.org/wiki/SNOW!_SNOW!_SNOW! "wikilink")」
-  - 「[夏模様](https://ja.wikipedia.org/wiki/夏模様_\(KinKi_Kidsの曲\) "wikilink")」
-  - 「[孤独の街角](https://ja.wikipedia.org/wiki/Harmony_of_December "wikilink")」
-  - 「[Parental Advisory Explicit Content](https://ja.wikipedia.org/wiki/I_album_-iD- "wikilink")」
-  - 「[Love is the mirage...](https://ja.wikipedia.org/wiki/I_album_-iD- "wikilink")」[堂本剛](../Page/堂本剛.md "wikilink")ソロ曲
-  - 「[永遠に](https://ja.wikipedia.org/wiki/永遠に_\(KinKi_Kidsの曲\) "wikilink")」
+  - 「[Anniversary](../Page/Anniversary_\(KinKi_Kidsの曲\).md "wikilink")」
+  - 「[ビロードの闇](../Page/ビロードの闇.md "wikilink")」
+  - 「[雪白の月](../Page/SNOW!_SNOW!_SNOW!.md "wikilink")」
+  - 「[夏模様](../Page/夏模様_\(KinKi_Kidsの曲\).md "wikilink")」
+  - 「[孤独の街角](../Page/Harmony_of_December.md "wikilink")」
+  - 「[Parental Advisory Explicit Content](../Page/I_album_-iD-.md "wikilink")」
+  - 「[Love is the mirage...](../Page/I_album_-iD-.md "wikilink")」[堂本剛](../Page/堂本剛.md "wikilink")ソロ曲
+  - 「[永遠に](../Page/永遠に_\(KinKi_Kidsの曲\).md "wikilink")」
   - 「[snapshot](https://ja.wikipedia.org/wiki/φ_\(アルバム\) "wikilink")」
-  - 「[Secret Code](https://ja.wikipedia.org/wiki/Secret_Code_\(KinKi_Kidsの曲\) "wikilink")」― フジテレビ系土曜ドラマ『33分探偵』主題歌
+  - 「[Secret Code](../Page/Secret_Code_\(KinKi_Kidsの曲\).md "wikilink")」― フジテレビ系土曜ドラマ『33分探偵』主題歌
   - 「[旅立ちの日](https://ja.wikipedia.org/wiki/約束_\(KinKi_Kidsの曲\) "wikilink")」
   - 「[深紅の花](https://ja.wikipedia.org/wiki/スワンソング_\(KinKi_Kidsの曲\) "wikilink")」
   - 「[つばさ -little wing-](https://ja.wikipedia.org/wiki/J_album "wikilink")」
@@ -138,9 +138,9 @@
 
 <!-- end list -->
 
-  - 「[紅く燃ゆる太陽](https://ja.wikipedia.org/wiki/紅く燃ゆる太陽 "wikilink")」― フジテレビ系『女子バレーボール ワールドグランプリ 2004』イメージソング
+  - 「[紅く燃ゆる太陽](../Page/紅く燃ゆる太陽.md "wikilink")」― フジテレビ系『女子バレーボール ワールドグランプリ 2004』イメージソング
   - 「[四銃士](https://ja.wikipedia.org/wiki/四銃士_\(NEWSの曲\) "wikilink")」― 読売テレビ・日本テレビ系アニメ『金田一少年の事件簿R』OPテーマ
-  - 「[Lovin' U](https://ja.wikipedia.org/wiki/NEWS_\(NEWSのアルバム\) "wikilink")」[手越祐也](https://ja.wikipedia.org/wiki/手越祐也 "wikilink")ソロ曲
+  - 「[Lovin' U](https://ja.wikipedia.org/wiki/NEWS_\(NEWSのアルバム\) "wikilink")」[手越祐也](../Page/手越祐也.md "wikilink")ソロ曲
 
 <!-- end list -->
 
@@ -223,7 +223,7 @@
 
 <!-- end list -->
 
-  - [野中藍](https://ja.wikipedia.org/wiki/野中藍 "wikilink")
+  - [野中藍](../Page/野中藍.md "wikilink")
 
 <!-- end list -->
 
@@ -253,7 +253,7 @@
 
 <!-- end list -->
 
-  - 逢坂大河（[釘宮理恵](https://ja.wikipedia.org/wiki/釘宮理恵 "wikilink")）・ 櫛枝実乃梨（[堀江由衣](https://ja.wikipedia.org/wiki/堀江由衣 "wikilink")）・ 川嶋亜美（[喜多村英梨](https://ja.wikipedia.org/wiki/喜多村英梨 "wikilink")）
+  - 逢坂大河（[釘宮理恵](https://ja.wikipedia.org/wiki/釘宮理恵 "wikilink")）・ 櫛枝実乃梨（[堀江由衣](https://ja.wikipedia.org/wiki/堀江由衣 "wikilink")）・ 川嶋亜美（[喜多村英梨](../Page/喜多村英梨.md "wikilink")）
 
 <!-- end list -->
 
@@ -261,13 +261,13 @@
 
 <!-- end list -->
 
-  - [May'n](https://ja.wikipedia.org/wiki/May'n "wikilink")
+  - [May'n](../Page/May'n.md "wikilink")
 
 <!-- end list -->
 
   - 「Get Ready」（Mike Wyzgowskiとの共作）
   - 「h@e me? h@e you\!」
-  - 「ユズレナイ想ヒ」― MBS・TBSアニメーション『[戦国BASARA](https://ja.wikipedia.org/wiki/戦国BASARA "wikilink")弐』挿入歌
+  - 「ユズレナイ想ヒ」― MBS・TBSアニメーション『[戦国BASARA](../Page/戦国BASARA.md "wikilink")弐』挿入歌
 
 <!-- end list -->
 
@@ -297,7 +297,7 @@
 
 <!-- end list -->
 
-  - [伊瀬茉莉也](https://ja.wikipedia.org/wiki/伊瀬茉莉也 "wikilink")
+  - [伊瀬茉莉也](../Page/伊瀬茉莉也.md "wikilink")
 
 <!-- end list -->
 
@@ -305,7 +305,7 @@
 
 <!-- end list -->
 
-  - [加藤英美里](https://ja.wikipedia.org/wiki/加藤英美里 "wikilink")
+  - [加藤英美里](../Page/加藤英美里.md "wikilink")
 
 <!-- end list -->
 
@@ -313,7 +313,7 @@
 
 <!-- end list -->
 
-  - [入野自由](https://ja.wikipedia.org/wiki/入野自由 "wikilink")
+  - [入野自由](../Page/入野自由.md "wikilink")
 
 <!-- end list -->
 
@@ -330,7 +330,7 @@
 
 <!-- end list -->
 
-  - [宮田幸季](https://ja.wikipedia.org/wiki/宮田幸季 "wikilink")
+  - [宮田幸季](../Page/宮田幸季.md "wikilink")
 
 <!-- end list -->
 
@@ -350,7 +350,7 @@
 
 <!-- end list -->
 
-  - [井口裕香](https://ja.wikipedia.org/wiki/井口裕香 "wikilink")
+  - [井口裕香](../Page/井口裕香.md "wikilink")
 
 <!-- end list -->
 
@@ -437,11 +437,11 @@
 <!-- end list -->
 
   - 「[雪の華](https://ja.wikipedia.org/wiki/雪の華_\(曲\) "wikilink")」― 明治製菓『boda』『galbo』CMソング
-  - 「[ひとり](https://ja.wikipedia.org/wiki/ひとり_\(中島美嘉の曲\) "wikilink")」― スクウェア・エニックス社ゲーム『ドラッグオンドラグーン2 封印の紅、背徳の黒』メインテーマ
+  - 「[ひとり](../Page/ひとり_\(中島美嘉の曲\).md "wikilink")」― スクウェア・エニックス社ゲーム『ドラッグオンドラグーン2 封印の紅、背徳の黒』メインテーマ
 
 <!-- end list -->
 
-  - [唐沢美帆](https://ja.wikipedia.org/wiki/唐沢美帆 "wikilink")
+  - [唐沢美帆](../Page/唐沢美帆.md "wikilink")
 
 <!-- end list -->
 
@@ -487,7 +487,7 @@
 
 <!-- end list -->
 
-  - [上原奈美](https://ja.wikipedia.org/wiki/上原奈美 "wikilink")
+  - [上原奈美](../Page/上原奈美.md "wikilink")
 
 <!-- end list -->
 
@@ -644,11 +644,11 @@
 
 <!-- end list -->
 
-  - [天童よしみ](https://ja.wikipedia.org/wiki/天童よしみ "wikilink")
+  - [天童よしみ](../Page/天童よしみ.md "wikilink")
 
 <!-- end list -->
 
-  - 「人生讃歌～[渡る世間は鬼ばかり](https://ja.wikipedia.org/wiki/渡る世間は鬼ばかり "wikilink")～」作曲:[羽田健太郎](https://ja.wikipedia.org/wiki/羽田健太郎 "wikilink")
+  - 「人生讃歌～[渡る世間は鬼ばかり](https://ja.wikipedia.org/wiki/渡る世間は鬼ばかり "wikilink")～」作曲:[羽田健太郎](../Page/羽田健太郎.md "wikilink")
 
 </div>
 
@@ -678,7 +678,7 @@
 
 <!-- end list -->
 
-  - [井上芳雄](https://ja.wikipedia.org/wiki/井上芳雄 "wikilink")
+  - [井上芳雄](../Page/井上芳雄.md "wikilink")
 
 <!-- end list -->
 
@@ -696,7 +696,7 @@
 
 <!-- end list -->
 
-  - [稲垣潤一](https://ja.wikipedia.org/wiki/稲垣潤一 "wikilink")
+  - [稲垣潤一](../Page/稲垣潤一.md "wikilink")
 
 <!-- end list -->
 
@@ -720,7 +720,7 @@
 
 <!-- end list -->
 
-  - [佐藤竹善](https://ja.wikipedia.org/wiki/佐藤竹善 "wikilink")
+  - [佐藤竹善](../Page/佐藤竹善.md "wikilink")
 
 <!-- end list -->
 
@@ -745,7 +745,7 @@
 
 <!-- end list -->
 
-  - [杉山清貴](https://ja.wikipedia.org/wiki/杉山清貴 "wikilink")
+  - [杉山清貴](../Page/杉山清貴.md "wikilink")
 
 <!-- end list -->
 
@@ -775,7 +775,7 @@
 
 <!-- end list -->
 
-  - [DJ Seckstream](https://ja.wikipedia.org/wiki/DJ_Deckstream "wikilink")
+  - [DJ Seckstream](../Page/DJ_Deckstream.md "wikilink")
 
 <!-- end list -->
 
@@ -828,7 +828,7 @@
 
 <!-- end list -->
 
-  - [ユンナ](https://ja.wikipedia.org/wiki/ユンナ "wikilink")
+  - [ユンナ](../Page/ユンナ.md "wikilink")
 
 <!-- end list -->
 
@@ -866,7 +866,7 @@
 
 <!-- end list -->
 
-  - [SunMin](https://ja.wikipedia.org/wiki/SunMin "wikilink")
+  - [SunMin](../Page/SunMin.md "wikilink")
 
 <!-- end list -->
 
@@ -929,7 +929,7 @@
 
 ## 小説
 
-  - 掛け違えたボタン（namco"[99のなみだ](https://ja.wikipedia.org/wiki/99のなみだ "wikilink")"収録）
+  - 掛け違えたボタン（namco"[99のなみだ](../Page/99のなみだ.md "wikilink")"収録）
 
 ## 脚注
 

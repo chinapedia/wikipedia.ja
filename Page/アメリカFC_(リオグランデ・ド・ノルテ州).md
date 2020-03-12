@@ -1,7 +1,7 @@
 > この記事は[FC \(\)](https://ja.wikipedia.org/wiki/FC_\(\))から翻訳されています。
 
 
-**アメリカFC** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[リオグランデ・ド・ノルテ州](https://ja.wikipedia.org/wiki/リオグランデ・ド・ノルテ州 "wikilink")[ナタール](https://ja.wikipedia.org/wiki/ナタール "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。2017年シーズンは[カンピオナート・ブラジレイロ・セリエD](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエD "wikilink")に所属。[同名クラブと区別するために](https://ja.wikipedia.org/wiki/アメリカFC "wikilink")**アメリカ・ジ・ナタール** (América de Natal) 、**アメリカ-RN** (América-RN) と表記されることも多い。
+**アメリカFC** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[リオグランデ・ド・ノルテ州](../Page/リオグランデ・ド・ノルテ州.md "wikilink")[ナタール](../Page/ナタール.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。2017年シーズンは[カンピオナート・ブラジレイロ・セリエD](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエD "wikilink")に所属。[同名クラブと区別するために](https://ja.wikipedia.org/wiki/アメリカFC "wikilink")**アメリカ・ジ・ナタール** (América de Natal) 、**アメリカ-RN** (América-RN) と表記されることも多い。
 
 [1914年](../Page/1914年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink")に創設された。クラブカラーとロゴは[リオデジャネイロ州](../Page/リオデジャネイロ州.md "wikilink")の[アメリカFCに因む](https://ja.wikipedia.org/wiki/アメリカFC_\(リオデジャネイロ州\) "wikilink")。ライバルは同じナタールの[ABC FC](https://ja.wikipedia.org/wiki/ABC_FC "wikilink")。
 
@@ -44,7 +44,7 @@
 
 ## 歴代所属選手
 
-  - [ジョエル・サンタナ](https://ja.wikipedia.org/wiki/ジョエル・サンタナ "wikilink") 1976-1980
+  - [ジョエル・サンタナ](../Page/ジョエル・サンタナ.md "wikilink") 1976-1980
 
   - [マリーニョ・シャガス](https://ja.wikipedia.org/wiki/フランシスコ・ダス・シャガス・マリーニョ "wikilink") 1985-1986
 

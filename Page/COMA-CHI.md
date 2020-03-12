@@ -5,15 +5,15 @@
 
 ## 略歴
 
-[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身。中学時代よりバンドのボーカリストとして活動を開始、その後[ヒップホップ](../Page/ヒップホップ.md "wikilink")へと傾倒していった。2003年からはラッパーとして[渋谷](../Page/渋谷.md "wikilink")・[六本木](../Page/六本木.md "wikilink")界隈の[クラブ](../Page/クラブ.md "wikilink")でライブを行うようになり頭角を現す。同年10月に行われた「SHINJUKU SPOKEN WORDS SLAM」で優勝。2004年「COMA-CHI」に改名。2005年に[両国国技館](../Page/両国国技館.md "wikilink")で行われた[B BOY PARK](https://ja.wikipedia.org/wiki/B_BOY_PARK "wikilink") [MCバトル](https://ja.wikipedia.org/wiki/MCバトル "wikilink")では女性初となる準優勝に輝く。
+[東京都](../Page/東京都.md "wikilink")出身。中学時代よりバンドのボーカリストとして活動を開始、その後[ヒップホップ](../Page/ヒップホップ.md "wikilink")へと傾倒していった。2003年からはラッパーとして[渋谷](../Page/渋谷.md "wikilink")・[六本木](../Page/六本木.md "wikilink")界隈の[クラブ](../Page/クラブ.md "wikilink")でライブを行うようになり頭角を現す。同年10月に行われた「SHINJUKU SPOKEN WORDS SLAM」で優勝。2004年「COMA-CHI」に改名。2005年に[両国国技館](../Page/両国国技館.md "wikilink")で行われた[B BOY PARK](../Page/B_BOY_PARK.md "wikilink") [MCバトル](https://ja.wikipedia.org/wiki/MCバトル "wikilink")では女性初となる準優勝に輝く。
 
-2006年には[インディーズ](../Page/インディーズ.md "wikilink")1stアルバム『DAY BEFORE BLUE』を[Da.Me.Records](https://ja.wikipedia.org/wiki/Da.Me.Records "wikilink")より発表。また[インディーズ](../Page/インディーズ.md "wikilink")レーベル「24区」を設立しヒップホップユニット「JUNK BEAT TOKYO」を結成。フルアルバム『J.B.T.WALKER VOL.1』を発表した。その後、[加藤ミリヤ](https://ja.wikipedia.org/wiki/加藤ミリヤ "wikilink")、[RIP SLYME](https://ja.wikipedia.org/wiki/RIP_SLYME "wikilink")、[DABO](https://ja.wikipedia.org/wiki/DABO "wikilink")といったメジャー、インディーズを問わず幅広いアーティストへの客演を行う。
+2006年には[インディーズ](../Page/インディーズ.md "wikilink")1stアルバム『DAY BEFORE BLUE』を[Da.Me.Records](../Page/Da.Me.Records.md "wikilink")より発表。また[インディーズ](../Page/インディーズ.md "wikilink")レーベル「24区」を設立しヒップホップユニット「JUNK BEAT TOKYO」を結成。フルアルバム『J.B.T.WALKER VOL.1』を発表した。その後、[加藤ミリヤ](https://ja.wikipedia.org/wiki/加藤ミリヤ "wikilink")、[RIP SLYME](../Page/RIP_SLYME.md "wikilink")、[DABO](../Page/DABO.md "wikilink")といったメジャー、インディーズを問わず幅広いアーティストへの客演を行う。
 
 2008年7月21日、都内のクラブで行われたヒップホップイベント「THE SHOW」にて[Knife Edge](https://ja.wikipedia.org/wiki/Knife_Edge "wikilink") / [ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")との契約を発表。
 
-2009年[2月4日](../Page/2月4日.md "wikilink")、アルバム『RED NAKED』でメジャー・デビュー。同年[6月10日](../Page/6月10日.md "wikilink")には、[KREVA](https://ja.wikipedia.org/wiki/KREVA "wikilink")や[川畑要](https://ja.wikipedia.org/wiki/川畑要 "wikilink")（[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")）、[青山テルマ](https://ja.wikipedia.org/wiki/青山テルマ "wikilink")との共演楽曲、[DJ HASEBEによるリミックスなどが収録された恋愛コンセプト](https://ja.wikipedia.org/wiki/DJ_HASEBE "wikilink")・アルバム『LOVE ME PLEASE\!』を発表。[Shibuya O-WESTにてリリースパーティーを行った](https://ja.wikipedia.org/wiki/Shibuya_O-WEST "wikilink")。
+2009年[2月4日](../Page/2月4日.md "wikilink")、アルバム『RED NAKED』でメジャー・デビュー。同年[6月10日](../Page/6月10日.md "wikilink")には、[KREVA](../Page/KREVA.md "wikilink")や[川畑要](../Page/川畑要.md "wikilink")（[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")）、[青山テルマ](https://ja.wikipedia.org/wiki/青山テルマ "wikilink")との共演楽曲、[DJ HASEBEによるリミックスなどが収録された恋愛コンセプト](../Page/DJ_HASEBE.md "wikilink")・アルバム『LOVE ME PLEASE\!』を発表。[Shibuya O-WESTにてリリースパーティーを行った](../Page/Shibuya_O-WEST.md "wikilink")。
 
-2010年4月21日には、自身初のシングルとなる『STEP UP\!』を発売。[RHYMESTER](https://ja.wikipedia.org/wiki/RHYMESTER "wikilink")の「KING OF STAGE VOL.8 MANIFEST RELEASE TOUR 2010」に帯同し、4月23日の[Zepp Sapporo](https://ja.wikipedia.org/wiki/Zepp "wikilink")、4月25日の[Zepp Nagoya](https://ja.wikipedia.org/wiki/Zepp "wikilink")、4月28日の[Zepp Osaka](https://ja.wikipedia.org/wiki/Zepp "wikilink")、4月29日の[Zepp Fukuoka](https://ja.wikipedia.org/wiki/Zepp "wikilink")、5月7日の[Zepp Tokyo各公演で披露](https://ja.wikipedia.org/wiki/Zepp "wikilink")。
+2010年4月21日には、自身初のシングルとなる『STEP UP\!』を発売。[RHYMESTER](../Page/RHYMESTER.md "wikilink")の「KING OF STAGE VOL.8 MANIFEST RELEASE TOUR 2010」に帯同し、4月23日の[Zepp Sapporo](../Page/Zepp.md "wikilink")、4月25日の[Zepp Nagoya](../Page/Zepp.md "wikilink")、4月28日の[Zepp Osaka](../Page/Zepp.md "wikilink")、4月29日の[Zepp Fukuoka](../Page/Zepp.md "wikilink")、5月7日の[Zepp Tokyo各公演で披露](../Page/Zepp.md "wikilink")。
 
 続いて5月26日には、メジャー2作目となるアルバム『Beauty or the Beast?』をリリース。
 
@@ -42,7 +42,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1st Album</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/2月18日.md" title="wikilink">2月18日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/2月18日.md" title="wikilink">2月18日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/DAY_BEFORE_BLUE" title="wikilink">DAY BEFORE BLUE</a></strong></p></td>
 <td><p>DMRCD-029T</p></td>
 <td><ol>
@@ -58,7 +58,7 @@
 <li>バイブレイション</li>
 <li>4seasons</li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Da.Me.Records" title="wikilink">Da.Me.Records</a></p></td>
+<td><p><a href="../Page/Da.Me.Records.md" title="wikilink">Da.Me.Records</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -97,10 +97,10 @@ PCCA-02934:通常盤</p></td>
 <li>Mr.Platonic</li>
 <li>Instinct</li>
 <li>selfish boy</li>
-<li>1 on 1 feat.<a href="https://ja.wikipedia.org/wiki/KREVA" title="wikilink">KREVA</a></li>
+<li>1 on 1 feat.<a href="../Page/KREVA.md" title="wikilink">KREVA</a></li>
 <li>Miss You feat.COMA-CHI</li>
 <li>sayonara</li>
-<li>perfect angel <a href="https://ja.wikipedia.org/wiki/DJ_HASEBE" title="wikilink">DJ HASEBE</a> Summer Luv Remix</li>
+<li>perfect angel <a href="../Page/DJ_HASEBE.md" title="wikilink">DJ HASEBE</a> Summer Luv Remix</li>
 <li>HEY BOY,HEY GIRL feat.COMA-CHI &amp; MICKY RICH</li>
 </ol>
 <p>初回限定盤DVD</p>
@@ -126,7 +126,7 @@ PCCA-02934:通常盤</p></td>
 <td><p>PCCA-70280</p></td>
 <td><ol>
 <li>STEP UP!</li>
-<li>Love symphony feat.<a href="https://ja.wikipedia.org/wiki/JAY&#39;ED" title="wikilink">JAY'ED</a></li>
+<li>Love symphony feat.<a href="../Page/JAY&#39;ED.md" title="wikilink">JAY'ED</a></li>
 <li>STEP UP!(Instrumental)</li>
 <li>Love symphony feat.JAY'ED(Instrumental)</li>
 </ol></td>
@@ -177,7 +177,7 @@ PCCA-02934:通常盤</p></td>
 <td><ol>
 <li>Flower of the sun</li>
 <li>Return of the bad girl</li>
-<li>Funky sauce pot feat.<a href="https://ja.wikipedia.org/wiki/韻シスト" title="wikilink">韻シスト</a></li>
+<li>Funky sauce pot feat.<a href="../Page/韻シスト.md" title="wikilink">韻シスト</a></li>
 <li>Deeper feat.Jaribu afrobeat arkestra</li>
 <li>Sun &amp; moon</li>
 <li>Mama used to say feat.CENTRAL</li>
@@ -194,10 +194,10 @@ PCCA-02934:通常盤</p></td>
 </table>
 
   - perfect angel（2009年2月4日）
-      - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系「[流派-R](https://ja.wikipedia.org/wiki/流派-R "wikilink")」2009年1月度オープニングテーマ
+      - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系「[流派-R](../Page/流派-R.md "wikilink")」2009年1月度オープニングテーマ
       - [テレビ大阪](../Page/テレビ大阪.md "wikilink")「[NIGHT CRUISING](../Page/NIGHT_CRUISING.md "wikilink")」2月度Monthly Push Up アーティスト
-      - [スペースシャワーTV](https://ja.wikipedia.org/wiki/スペースシャワーTV "wikilink") POWER PUSH\!
-      - [MTV](https://ja.wikipedia.org/wiki/MTV "wikilink") hot seat
+      - [スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink") POWER PUSH\!
+      - [MTV](../Page/MTV.md "wikilink") hot seat
       - [VMC](https://ja.wikipedia.org/wiki/ミュージックビデオ専門/VMC "wikilink") VIDEO OF THE MONTH
       - [myx](https://ja.wikipedia.org/wiki/myx "wikilink") recommend
   - STEP UP\!（2010年4月21日）
@@ -210,7 +210,7 @@ PCCA-02934:通常盤</p></td>
       - [テレビ愛知](../Page/テレビ愛知.md "wikilink")「[a-ha-N](https://ja.wikipedia.org/wiki/a-ha-N "wikilink")」5月度エンディングテーマ
       - [岩手めんこいテレビ](../Page/岩手めんこいテレビ.md "wikilink")「[BEATNIKS](https://ja.wikipedia.org/wiki/BEATNIKS "wikilink")」5月度エンディングテーマ
       - [NEC](https://ja.wikipedia.org/wiki/NEC "wikilink")「[LaVie](https://ja.wikipedia.org/wiki/LaVie "wikilink")」CMソング
-  - Love symphony feat. [JAY'ED](https://ja.wikipedia.org/wiki/JAY'ED "wikilink")（2010年4月21日）
+  - Love symphony feat. [JAY'ED](../Page/JAY'ED.md "wikilink")（2010年4月21日）
       - 日本テレビ系「音龍門」Baby Dragon's Gate
 
 ### 配信限定シングル
@@ -236,34 +236,34 @@ PCCA-02934:通常盤</p></td>
   - Can't Stop Feat. COMA-CHI / TARO SOUL（2006年6月3日）『SOUL SPITS』
   - Strange Voyage / DJ YAS feat. COMA-CHI produced by DJ YAS（2006年9月6日）V.A.『HIBACHI TIMES Vol.3』
   - Sun Will Shine feat. TARO SOUL & COMA-CHI / raythought（2006年10月18日）『raythough』
-  - こっち来てみな 〜Flow on〜 feat. COMA-CHI / [DABO](https://ja.wikipedia.org/wiki/DABO "wikilink")（2007年2月21日） 『B.M.W.Vol.1』
-  - The Bridge feat. COMA-CHI / [YA-KYIM](https://ja.wikipedia.org/wiki/YA-KYIM "wikilink")（2007年3月7日）『Can YA Feel?』
-  - park feat. [Keyco](https://ja.wikipedia.org/wiki/Keyco "wikilink") & COMA-CHI / [TWIGY](https://ja.wikipedia.org/wiki/TWIGY "wikilink")（2007年3月28日）『"AKASATANA" beats by PREFUSE 73』
+  - こっち来てみな 〜Flow on〜 feat. COMA-CHI / [DABO](../Page/DABO.md "wikilink")（2007年2月21日） 『B.M.W.Vol.1』
+  - The Bridge feat. COMA-CHI / [YA-KYIM](../Page/YA-KYIM.md "wikilink")（2007年3月7日）『Can YA Feel?』
+  - park feat. [Keyco](../Page/Keyco.md "wikilink") & COMA-CHI / [TWIGY](../Page/TWIGY.md "wikilink")（2007年3月28日）『"AKASATANA" beats by PREFUSE 73』
   - Friday Night feat. COMA-CHI / [DOSMOCCOS](https://ja.wikipedia.org/wiki/DOSMOCCOS "wikilink")（2007年4月4日）『MOCCOS MOST WANTED』
   - このままずっと朝まで Remix feat. COMA-CHI / [加藤ミリヤ](https://ja.wikipedia.org/wiki/加藤ミリヤ "wikilink")（2007年6月20日）『[Love is...](https://ja.wikipedia.org/wiki/Love_is..._\(加藤ミリヤの曲\) "wikilink")』
-  - LISTEN feat. COMA-CHI, DABO, [Mummy-D](https://ja.wikipedia.org/wiki/Mummy-D "wikilink") / [GAGLE](https://ja.wikipedia.org/wiki/GAGLE "wikilink")（2007年6月27日）『3PEAT』
+  - LISTEN feat. COMA-CHI, DABO, [Mummy-D](../Page/Mummy-D.md "wikilink") / [GAGLE](../Page/GAGLE.md "wikilink")（2007年6月27日）『3PEAT』
   - FUTURECHECKA feat. SIMON, COMA-CHI & TARO SOUL / 加藤ミリヤ（2007年10月17日）『[LALALA feat. 若旦那 (湘南乃風)／FUTURECHECKA feat. SIMON, COMA-CHI & TARO SOUL](https://ja.wikipedia.org/wiki/LALALA_\(曲\) "wikilink")』
-  - EVOLUTION (feat. COMA-CHI) / [RIP SLYME](https://ja.wikipedia.org/wiki/RIP_SLYME "wikilink")（2007年11月28日）『[FUNFAIR](https://ja.wikipedia.org/wiki/FUNFAIR "wikilink")』
-  - Darlin'×2 feat. COMA-CHI / [SATOMI'](https://ja.wikipedia.org/wiki/SATOMI' "wikilink")（2007年12月5日）『SINGS』
+  - EVOLUTION (feat. COMA-CHI) / [RIP SLYME](../Page/RIP_SLYME.md "wikilink")（2007年11月28日）『[FUNFAIR](../Page/FUNFAIR.md "wikilink")』
+  - Darlin'×2 feat. COMA-CHI / [SATOMI'](../Page/SATOMI'.md "wikilink")（2007年12月5日）『SINGS』
   - Levitation (Ver.2.0) feat. [U-Zipplain](../Page/ENBULL.md "wikilink") & Raythought & Chillset Two / [grooveman Spot](../Page/ENBULL.md "wikilink")（2007年12月8日）『RE:ETERNAL DEVELOPMENT \[Gold Star\]』
   - LOVE @ 1st Sight feat. COMA-CHI, [青山テルマ](https://ja.wikipedia.org/wiki/青山テルマ "wikilink") / [Mr.BEATS a.k.a. DJ CELORY](https://ja.wikipedia.org/wiki/DJ_CELORY "wikilink")（2008年1月16日）『BEAUTIFUL TOMORROW』
-  - FREE STYLE男女 feat. COMA-CHI / [LITTLE](https://ja.wikipedia.org/wiki/LITTLE "wikilink")（2008年5月8日）『["Yes"rhyme-dentity](https://ja.wikipedia.org/wiki/"Yes"rhyme-dentity "wikilink")』
-  - BABY'S CHOICE (CARAMEL DELIGHT MIX) ([HI-D](https://ja.wikipedia.org/wiki/HI-D "wikilink"), COMA-CHI) / TWIGY（2008年7月2日）『BABY'S CHOICE』
+  - FREE STYLE男女 feat. COMA-CHI / [LITTLE](../Page/LITTLE.md "wikilink")（2008年5月8日）『["Yes"rhyme-dentity](https://ja.wikipedia.org/wiki/"Yes"rhyme-dentity "wikilink")』
+  - BABY'S CHOICE (CARAMEL DELIGHT MIX) ([HI-D](../Page/HI-D.md "wikilink"), COMA-CHI) / TWIGY（2008年7月2日）『BABY'S CHOICE』
   - TOKYO TOKYO feat. COMA-CHI / [ARIA](../Page/ARIA_\(歌手\).md "wikilink")（2008年7月30日）『PHEROMONE』
-  - ジェネレーション 〜夜明け前〜 feat, COMA-CHI / [SONOMI](https://ja.wikipedia.org/wiki/SONOMI_\(歌手\) "wikilink")（2008年9月3日）『S.O.N.O』
+  - ジェネレーション 〜夜明け前〜 feat, COMA-CHI / [SONOMI](../Page/SONOMI_\(歌手\).md "wikilink")（2008年9月3日）『S.O.N.O』
   - Get Over feat. COMA-CHI / MC JUN（2008年10月20日）『STINGER』
   - HEY BOY, HEY GIRL feat. COMA-CHI & MICKY RICH / [PUSHIM](https://ja.wikipedia.org/wiki/PUSHIM "wikilink")（2008年10月22日）『ルネサンス』
-  - Unstoppable Train / COMA-CHI, DABO, YUTAKA from [Full Of Harmony](https://ja.wikipedia.org/wiki/Full_Of_Harmony "wikilink"), [KOHEI JAPAN](https://ja.wikipedia.org/wiki/KOHEI_JAPAN "wikilink")（2008年12月10日）V.A.『This is…』
-  - CYPHER feat. SYZZZY SYZZZA & COMA-CHI / [MICROPHONE PAGER](https://ja.wikipedia.org/wiki/MICROPHONE_PAGER "wikilink")（2009年1月21日）『王道楽士』
+  - Unstoppable Train / COMA-CHI, DABO, YUTAKA from [Full Of Harmony](../Page/Full_Of_Harmony.md "wikilink"), [KOHEI JAPAN](../Page/KOHEI_JAPAN.md "wikilink")（2008年12月10日）V.A.『This is…』
+  - CYPHER feat. SYZZZY SYZZZA & COMA-CHI / [MICROPHONE PAGER](../Page/MICROPHONE_PAGER.md "wikilink")（2009年1月21日）『王道楽士』
   - 灯かり消すな feat. COMA-CHI & BES / MICROPHONE PAGER（2009年1月21日）『王道楽士』
   - Coma-chi Freestyle / Budamunky（2009年1月29日）『Buda Session : the Mixtape』
   - Instinct / KANAME × COMA-CHI（2009年3月11日）[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")『[the CHEMISTRY joint album](https://ja.wikipedia.org/wiki/the_CHEMISTRY_joint_album "wikilink")』
-  - HOT MUSIK feat. COMA-CHI / [三浦大知](https://ja.wikipedia.org/wiki/三浦大知 "wikilink")（2009年9月16日）『[Who's The Man](https://ja.wikipedia.org/wiki/Who's_The_Man "wikilink")』
+  - HOT MUSIK feat. COMA-CHI / [三浦大知](../Page/三浦大知.md "wikilink")（2009年9月16日）『[Who's The Man](https://ja.wikipedia.org/wiki/Who's_The_Man "wikilink")』
   - Planet Shining（2009年9月16日）V.A.『[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink") TRIBUTE 〜maison de m-flo〜』
-  - 情熱のCarbonation with COMA-CHI, TARO SOUL, [TSUBOI](https://ja.wikipedia.org/wiki/TSUBOI "wikilink") ([アルファ](https://ja.wikipedia.org/wiki/アルファ_\(音楽グループ\) "wikilink")), [breakthrough](https://ja.wikipedia.org/wiki/breakthrough_\(アーティスト\) "wikilink") / [SOFFet](https://ja.wikipedia.org/wiki/SOFFet "wikilink")（2009年9月30日）『[Jam the Universe](https://ja.wikipedia.org/wiki/Jam_the_Universe "wikilink")』
-  - B-Boy + Girlイズム feat. COMA-CHI (Live in SUMMER SONIC) / [RHYMESTER](https://ja.wikipedia.org/wiki/RHYMESTER "wikilink")（2009年10月14日）『[ONCE AGAIN](https://ja.wikipedia.org/wiki/ONCE_AGAIN_\(RHYMESTERの曲\) "wikilink")』
+  - 情熱のCarbonation with COMA-CHI, TARO SOUL, [TSUBOI](https://ja.wikipedia.org/wiki/TSUBOI "wikilink") ([アルファ](../Page/アルファ_\(音楽グループ\).md "wikilink")), [breakthrough](https://ja.wikipedia.org/wiki/breakthrough_\(アーティスト\) "wikilink") / [SOFFet](../Page/SOFFet.md "wikilink")（2009年9月30日）『[Jam the Universe](https://ja.wikipedia.org/wiki/Jam_the_Universe "wikilink")』
+  - B-Boy + Girlイズム feat. COMA-CHI (Live in SUMMER SONIC) / [RHYMESTER](../Page/RHYMESTER.md "wikilink")（2009年10月14日）『[ONCE AGAIN](https://ja.wikipedia.org/wiki/ONCE_AGAIN_\(RHYMESTERの曲\) "wikilink")』
   - Three is the Magic Number feat. COMA-CHI / [Spontania](../Page/Spontania.md "wikilink")（2009年11月18日）『コラボレーションズ BEST』
-  - Family feat. KEN THE 390, SHUN & COMA-CHI / [清水翔太](https://ja.wikipedia.org/wiki/清水翔太 "wikilink")（2009年12月9日）『[君が好き](https://ja.wikipedia.org/wiki/君が好き_\(清水翔太の曲\) "wikilink")』
+  - Family feat. KEN THE 390, SHUN & COMA-CHI / [清水翔太](../Page/清水翔太.md "wikilink")（2009年12月9日）『[君が好き](https://ja.wikipedia.org/wiki/君が好き_\(清水翔太の曲\) "wikilink")』
   - Beauty and the Beast（2009年12月9日）V.A.『Mellow Disney 〜R\&B Revisited〜』
   - THE DOOR feat. COMA-CHI, [Baby M](https://ja.wikipedia.org/wiki/Baby_M "wikilink") / KEN THE 390（2010年4月7日）『NEW ORDER』
   - Ready Go Go / [DJ MAYUMI](https://ja.wikipedia.org/wiki/DJ_MAYUMI "wikilink")（2010年5月26日）『PARTY UP COLLECTION』
@@ -271,7 +271,7 @@ PCCA-02934:通常盤</p></td>
   - Love Hurts (feat. COMA-CHI) / [ティニーシャ・ケリー](https://ja.wikipedia.org/wiki/ティニーシャ・ケリー "wikilink")（2010年8月25日）『The 5th Element』
   - Paradise feat. COMA-CHI / [DJ KAWASAKI](../Page/DJ_KAWASAKI.md "wikilink")（2010年9月1日）『PARADISE』
   - トーキョー・ショック feat. COMA-CHI / RHYMESTER（2010年11月10日）『[Walk This Way](https://ja.wikipedia.org/wiki/Walk_This_Way "wikilink")』
-  - Endless Summer Feat. COMA-CHI / [Zeebra](https://ja.wikipedia.org/wiki/Zeebra "wikilink")（2011年12月14日）『[Black World／White Heat](https://ja.wikipedia.org/wiki/Black_World/White_Heat "wikilink")』
+  - Endless Summer Feat. COMA-CHI / [Zeebra](../Page/Zeebra.md "wikilink")（2011年12月14日）『[Black World／White Heat](https://ja.wikipedia.org/wiki/Black_World/White_Heat "wikilink")』
 
 ## ミュージックビデオ
 
@@ -279,18 +279,18 @@ PCCA-02934:通常盤</p></td>
 | ----------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
 | **監督**                                                                                                                  | **曲名**                                                         |
 | [イーズバック](https://ja.wikipedia.org/wiki/イーズバック "wikilink")                                                               | 「TIME 2 PARTY feat.AK-69」                                      |
-| イーズバック & HUNGER([GAGLE](https://ja.wikipedia.org/wiki/GAGLE "wikilink"))                                                | 「name tag (C-O-M-A-C-H-I)」                                     |
+| イーズバック & HUNGER([GAGLE](../Page/GAGLE.md "wikilink"))                                                                   | 「name tag (C-O-M-A-C-H-I)」                                     |
 | [工藤雅史](https://ja.wikipedia.org/wiki/工藤雅史 "wikilink")                                                                   | 「ミチバタ」                                                         |
 | [名取哲](https://ja.wikipedia.org/wiki/名取哲 "wikilink") & [HEART BOMB](https://ja.wikipedia.org/wiki/HEART_BOMB "wikilink") | 「sayonara」                                                     |
 | [VISIBLEX](https://ja.wikipedia.org/wiki/VISIBLEX "wikilink")                                                           | 「[perfect angel](https://www.youtube.com/watch?v=KKBnEPcfjWg)」 |
-| [村松亮太郎](https://ja.wikipedia.org/wiki/村松亮太郎 "wikilink")                                                                 | 「Heaven」                                                       |
+| [村松亮太郎](../Page/村松亮太郎.md "wikilink")                                                                                    | 「Heaven」                                                       |
 | [Hideaki Yoshikawa](https://ja.wikipedia.org/wiki/Hideaki_Yoshikawa "wikilink")                                         | 「[STEP UP\!](https://www.youtube.com/watch?v=psuyJGvQmdM)」     |
 |                                                                                                                         |                                                                |
 
 ## 主なライブ
 
-  - 2008年09月17日 - [LITTLE](https://ja.wikipedia.org/wiki/LITTLE "wikilink") CONCERT TOUR 2008「"YES"rhyme-dentity」
-  - 2010年07月29日 - [清水翔太](https://ja.wikipedia.org/wiki/清水翔太 "wikilink") Journey Tour 2010
+  - 2008年09月17日 - [LITTLE](../Page/LITTLE.md "wikilink") CONCERT TOUR 2008「"YES"rhyme-dentity」
+  - 2010年07月29日 - [清水翔太](../Page/清水翔太.md "wikilink") Journey Tour 2010
   - 2012年06月12日 - Tokyo City Grooves vol.11 ～ACOUSTIC HIP-HOPのススメ～
   - 2013年02月15日 - Tokyo City Grooves vol.11 ～ACOUSTIC HIP-HOPのススメ～
   - 2013年03月〜04月 - COMA-CHI GOLDEN SOURCE TOUR 2013
@@ -306,7 +306,7 @@ PCCA-02934:通常盤</p></td>
 
   -
   -
-  - [podcast『COMA-CHI MAIL BOX\!』](http://www.floor-net.jp/coma-chi/) - [ポッドキャスト](https://ja.wikipedia.org/wiki/ポッドキャスト "wikilink")番組
+  - [podcast『COMA-CHI MAIL BOX\!』](http://www.floor-net.jp/coma-chi/) - [ポッドキャスト](../Page/ポッドキャスト.md "wikilink")番組
 
   - [COMA-CHI襲来](http://www.spaceshowertv.com/blackfile/dai3/coma-chi_1.html) - [Black File](https://ja.wikipedia.org/wiki/Black_File "wikilink")
 

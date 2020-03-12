@@ -1,13 +1,13 @@
 > この記事は[IS-IS](https://ja.wikipedia.org/wiki/IS-IS)から翻訳されています。
 
 
-**IS-IS**（Intermediate System to Intermediate System、アイエスアイエス、あるいはアイエストゥアイエス）とは[ルーティング](https://ja.wikipedia.org/wiki/ルーティング "wikilink")[プロトコルの一種である](../Page/通信プロトコル.md "wikilink")。
+**IS-IS**（Intermediate System to Intermediate System、アイエスアイエス、あるいはアイエストゥアイエス）とは[ルーティング](../Page/ルーティング.md "wikilink")[プロトコルの一種である](../Page/通信プロトコル.md "wikilink")。
 
 ## 概要
 
-[自律システム](https://ja.wikipedia.org/wiki/自律システム_\(インターネット\) "wikilink") (AS) 内の[ルーティング](https://ja.wikipedia.org/wiki/ルーティング "wikilink")を行う[Interior Gateway Protocol](https://ja.wikipedia.org/wiki/Interior_Gateway_Protocol "wikilink")（IGP）の[通信プロトコル](../Page/通信プロトコル.md "wikilink")である。
+[自律システム](../Page/自律システム_\(インターネット\).md "wikilink") (AS) 内の[ルーティング](../Page/ルーティング.md "wikilink")を行う[Interior Gateway Protocol](../Page/Interior_Gateway_Protocol.md "wikilink")（IGP）の[通信プロトコル](../Page/通信プロトコル.md "wikilink")である。
 
-IS-ISは[国際標準化機構](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")（ISO）が策定した[開放型システム間相互接続](https://ja.wikipedia.org/wiki/開放型システム間相互接続 "wikilink")（OSI）のネットワーク層における[コネクションレス型通信](https://ja.wikipedia.org/wiki/コネクションレス型通信 "wikilink")サービスである [CLNS](https://ja.wikipedia.org/wiki/CLNS "wikilink")（Connectionless Network Service) 上の[IGPとして開発された](https://ja.wikipedia.org/wiki/Interior_Gateway_Protocol "wikilink")[ルーティングプロトコル](https://ja.wikipedia.org/wiki/ルーティングプロトコル "wikilink")である。
+IS-ISは[国際標準化機構](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")（ISO）が策定した[開放型システム間相互接続](https://ja.wikipedia.org/wiki/開放型システム間相互接続 "wikilink")（OSI）のネットワーク層における[コネクションレス型通信](https://ja.wikipedia.org/wiki/コネクションレス型通信 "wikilink")サービスである [CLNS](https://ja.wikipedia.org/wiki/CLNS "wikilink")（Connectionless Network Service) 上の[IGPとして開発された](../Page/Interior_Gateway_Protocol.md "wikilink")[ルーティングプロトコル](https://ja.wikipedia.org/wiki/ルーティングプロトコル "wikilink")である。
 
 プロトコルの内容としては[OSPFと同様の](https://ja.wikipedia.org/wiki/オープン・ショーテスト・パス・ファースト "wikilink")[リンクステート型](https://ja.wikipedia.org/wiki/ルーティング#LSA "wikilink")（LSA）のルーティングを行う。 元々OSPFは初期のIS-ISを参考にして作られており両者には類似点が多く含まれる。
 
@@ -23,7 +23,7 @@ IS-ISは[国際標準化機構](https://ja.wikipedia.org/wiki/国際標準化機
 
 ## Integrated IS-IS
 
-IS-ISはもともとOSIのためのルーティングプロトコルであり、[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")で使用されている[TCP/IP](https://ja.wikipedia.org/wiki/TCP/IP "wikilink")上での使用を前提とはしていない。 しかしIS-IS はそれ自体では評価も高いルーティングプロトコルであり、またOSIプロトコルスイートの制定当時 OSI陣営は TCP/IP から OSIプロトコルスイートへの移行のために既存の技術から OSIの規格にスムーズに移行する必要性があった。 このため自然と IS-IS を TCP/IP 上でも使用したいという要望が高まった。 これを受けて CLNS上でも IP上でも機能するように改良した規格が新たに発表された。 これが Integrated IS-IS（統合IS-IS）である。このプロトコルは[IPアドレス](../Page/IPアドレス.md "wikilink")を[MACアドレス](../Page/MACアドレス.md "wikilink")と同様の端末の識別用のアドレスとして使用し、ルーティング自体は CLNS独自のアドレスである [NSAP](https://ja.wikipedia.org/wiki/NSAP "wikilink")（Network Service Access Point)を使用して行うという方法が取られている。
+IS-ISはもともとOSIのためのルーティングプロトコルであり、[インターネット](../Page/インターネット.md "wikilink")で使用されている[TCP/IP](https://ja.wikipedia.org/wiki/TCP/IP "wikilink")上での使用を前提とはしていない。 しかしIS-IS はそれ自体では評価も高いルーティングプロトコルであり、またOSIプロトコルスイートの制定当時 OSI陣営は TCP/IP から OSIプロトコルスイートへの移行のために既存の技術から OSIの規格にスムーズに移行する必要性があった。 このため自然と IS-IS を TCP/IP 上でも使用したいという要望が高まった。 これを受けて CLNS上でも IP上でも機能するように改良した規格が新たに発表された。 これが Integrated IS-IS（統合IS-IS）である。このプロトコルは[IPアドレス](../Page/IPアドレス.md "wikilink")を[MACアドレス](../Page/MACアドレス.md "wikilink")と同様の端末の識別用のアドレスとして使用し、ルーティング自体は CLNS独自のアドレスである [NSAP](https://ja.wikipedia.org/wiki/NSAP "wikilink")（Network Service Access Point)を使用して行うという方法が取られている。
 
 OSI は TCP/IP に取って代わることはできずに撤退したため、OSIで策定されたほとんどのプロトコルは使われなくなったにもかかわらず IS-IS はこの Integrated IS-IS として現在も一部のシステムで使用されている。 [IPv6](https://ja.wikipedia.org/wiki/IPv6 "wikilink")に対する対応も[IETFにより策定され](../Page/Internet_Engineering_Task_Force.md "wikilink")、2008年10月に正式に公開された。
 
@@ -37,7 +37,7 @@ OSI は TCP/IP に取って代わることはできずに撤退したため、OS
 
   - [ルーティングプロトコル](https://ja.wikipedia.org/wiki/ルーティングプロトコル "wikilink")
   - [IEEE 802.1aq](https://ja.wikipedia.org/wiki/IEEE_802.1aq "wikilink") (Shortest Path Bridging)
-  - [Open Shortest Path First](https://ja.wikipedia.org/wiki/Open_Shortest_Path_First "wikilink")
+  - [Open Shortest Path First](../Page/Open_Shortest_Path_First.md "wikilink")
 
 ## 参考文献
 

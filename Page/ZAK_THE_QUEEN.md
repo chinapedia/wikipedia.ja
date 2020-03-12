@@ -12,10 +12,10 @@
 | 年    | グランプリ                                                            | 準グランプリ                                                  |
 | ---- | ---------------------------------------------------------------- | ------------------------------------------------------- |
 | 2004 | [竹内のぞみ](https://ja.wikipedia.org/wiki/竹内のぞみ "wikilink")          | 横山三菜子                                                   |
-| 2006 | [中山エリサ](https://ja.wikipedia.org/wiki/中山エリサ "wikilink")          | [中村果生莉](https://ja.wikipedia.org/wiki/中村果生莉 "wikilink") |
-| 2007 | [石田裕子](../Page/石田裕子.md "wikilink")                               | [京本有加](https://ja.wikipedia.org/wiki/京本有加 "wikilink")   |
-| 2008 | [手島優](https://ja.wikipedia.org/wiki/手島優 "wikilink")              | [滝ありさ](https://ja.wikipedia.org/wiki/滝ありさ "wikilink")   |
-| 2009 | [青山玲子](https://ja.wikipedia.org/wiki/青山玲子 "wikilink")            | [青木未央](https://ja.wikipedia.org/wiki/くぼたみか "wikilink")  |
+| 2006 | [中山エリサ](../Page/中山エリサ.md "wikilink")                             | [中村果生莉](../Page/中村果生莉.md "wikilink")                    |
+| 2007 | [石田裕子](../Page/石田裕子.md "wikilink")                               | [京本有加](../Page/京本有加.md "wikilink")                      |
+| 2008 | [手島優](https://ja.wikipedia.org/wiki/手島優 "wikilink")              | [滝ありさ](../Page/滝ありさ.md "wikilink")                      |
+| 2009 | [青山玲子](../Page/青山玲子.md "wikilink")                               | [青木未央](https://ja.wikipedia.org/wiki/くぼたみか "wikilink")  |
 | 2010 | [木村好珠](https://ja.wikipedia.org/wiki/木村好珠 "wikilink")            | [矢代梢](https://ja.wikipedia.org/wiki/矢代梢 "wikilink")     |
 | 2011 | [佐々木麻衣](https://ja.wikipedia.org/wiki/佐々木麻衣_\(タレント\) "wikilink") | [成島桃香](https://ja.wikipedia.org/wiki/桃香 "wikilink")     |
 | 2012 | [小柳歩](https://ja.wikipedia.org/wiki/小柳歩 "wikilink")              | [池田愛恵里](https://ja.wikipedia.org/wiki/池田愛恵里 "wikilink") |
@@ -25,7 +25,7 @@
 
 ### 備考
 
-  - 事務所別では[プラチナムプロダクション](https://ja.wikipedia.org/wiki/プラチナムプロダクション "wikilink")所属者が最も多い（2007年 - 2010年の4年連続）。
+  - 事務所別では[プラチナムプロダクション](../Page/プラチナムプロダクション.md "wikilink")所属者が最も多い（2007年 - 2010年の4年連続）。
 
 ## スタッフ
 

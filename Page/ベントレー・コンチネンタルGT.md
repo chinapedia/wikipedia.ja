@@ -1,17 +1,17 @@
 > この記事は[GT](https://ja.wikipedia.org/wiki/GT)から翻訳されています。
 
 
-**コンチネンタルGT**（*Continental GT* ）、**コンチネンタルGTC**（*Continental GTC* ）、**コンチネンタル・スーパースポーツ**（*Continental Supersports* ）、**コンチネンタル・スーパースポーツコンバーチブル**（*Continental Supersports* Convertible ）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の自動車メーカー[ベントレー](../Page/ベントレー.md "wikilink")が販売する[高級車](https://ja.wikipedia.org/wiki/高級車 "wikilink")である。
+**コンチネンタルGT**（*Continental GT* ）、**コンチネンタルGTC**（*Continental GTC* ）、**コンチネンタル・スーパースポーツ**（*Continental Supersports* ）、**コンチネンタル・スーパースポーツコンバーチブル**（*Continental Supersports* Convertible ）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の自動車メーカー[ベントレー](../Page/ベントレー.md "wikilink")が販売する[高級車](../Page/高級車.md "wikilink")である。
 
-**GT**は[コンチネンタルRの後継となる](https://ja.wikipedia.org/wiki/ベントレー・コンチネンタルR "wikilink")4シーターの[クーペ](../Page/クーペ.md "wikilink")であり、**GTC**は**GT**をベースとした[オープンカー](../Page/オープンカー.md "wikilink")である。**スーパースポーツ**は**GT**および**GTC**をベースにチューンアップと軽量化を行い、**GT**は2シーターの[クーペ](../Page/クーペ.md "wikilink")、**GTC**は4シーターの[オープンカー](../Page/オープンカー.md "wikilink")で表記は**GTC**ではなくコンバーチブルに変更した。姉妹車種として4ドア[セダン](../Page/セダン.md "wikilink")の[コンチネンタル・フライング・スパーが存在する](https://ja.wikipedia.org/wiki/ベントレー・コンチネンタル・フライング・スパー "wikilink")。
+**GT**は[コンチネンタルRの後継となる](https://ja.wikipedia.org/wiki/ベントレー・コンチネンタルR "wikilink")4シーターの[クーペ](../Page/クーペ.md "wikilink")であり、**GTC**は**GT**をベースとした[オープンカー](../Page/オープンカー.md "wikilink")である。**スーパースポーツ**は**GT**および**GTC**をベースにチューンアップと軽量化を行い、**GT**は2シーターの[クーペ](../Page/クーペ.md "wikilink")、**GTC**は4シーターの[オープンカー](../Page/オープンカー.md "wikilink")で表記は**GTC**ではなくコンバーチブルに変更した。姉妹車種として4ドア[セダン](../Page/セダン.md "wikilink")の[コンチネンタル・フライング・スパーが存在する](../Page/ベントレー・コンチネンタル・フライング・スパー.md "wikilink")。
 
 ## 初代 (2003年-2010年)
 
 2002年の[モンディアル・ド・ロトモビル](https://ja.wikipedia.org/wiki/モンディアル・ド・ロトモビル "wikilink")で**GT**のプロトタイプを発表。2003年の[サロン・アンテルナショナル・ド・ロト](../Page/サロン・アンテルナショナル・ド・ロト.md "wikilink")で量産型を発表した。
 
-エンジンは[フォルクスワーゲン](https://ja.wikipedia.org/wiki/フォルクスワーゲン "wikilink")製の6.0L [W型12気筒エンジンを](https://ja.wikipedia.org/wiki/W型エンジン "wikilink")[ツインターボ](https://ja.wikipedia.org/wiki/ツインターボ "wikilink")で過給したもので、最高出力は560PS/6,100rpm、最大トルクは66.3kgm/1,600rpmである。
+エンジンは[フォルクスワーゲン](https://ja.wikipedia.org/wiki/フォルクスワーゲン "wikilink")製の6.0L [W型12気筒エンジンを](../Page/W型エンジン.md "wikilink")[ツインターボ](../Page/ツインターボ.md "wikilink")で過給したもので、最高出力は560PS/6,100rpm、最大トルクは66.3kgm/1,600rpmである。
 
-トランスミッションは[ZF製マニュアルモード付き](https://ja.wikipedia.org/wiki/ZFフリードリヒスハーフェン "wikilink")6速[AT](../Page/オートマチックトランスミッション.md "wikilink")、駆動方式は[AWDである](../Page/四輪駆動.md "wikilink")。
+トランスミッションは[ZF製マニュアルモード付き](../Page/ZFフリードリヒスハーフェン.md "wikilink")6速[AT](../Page/オートマチックトランスミッション.md "wikilink")、駆動方式は[AWDである](../Page/四輪駆動.md "wikilink")。
 
 内装は天然木や本革を用いたイギリス車ならではの豪華なものとなっている。
 
@@ -23,9 +23,9 @@
 
   - GTC
 
-2006年の[ニューヨーク国際オートショー](https://ja.wikipedia.org/wiki/ニューヨーク国際オートショー "wikilink")で電動式ソフトトップを備える**GTC**を発表、同年10月に日本でも発売された。価格は2395万円。
+2006年の[ニューヨーク国際オートショー](../Page/ニューヨーク国際オートショー.md "wikilink")で電動式ソフトトップを備える**GTC**を発表、同年10月に日本でも発売された。価格は2395万円。
 
-ソフトトップは[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[カルマンが制作し](https://ja.wikipedia.org/wiki/カルマン_\(自動車\) "wikilink")、エンジンとトランスミッション、駆動方式は**GT**と同一である。
+ソフトトップは[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[カルマンが制作し](../Page/カルマン_\(自動車\).md "wikilink")、エンジンとトランスミッション、駆動方式は**GT**と同一である。
 
   - GTスピード
 
@@ -55,7 +55,7 @@
 
   - コンチネンタルGT
 
-新型コンチネンタルGTは2011年モデルとして発表された。2010年11月にクーペのみ発表された。初代から引き継がれるW12エンジンに加え、[アウディ](https://ja.wikipedia.org/wiki/アウディ "wikilink")との共同開発となる[気筒休止機構付](https://ja.wikipedia.org/wiki/気筒休止エンジン "wikilink")4.0L V8エンジンが搭載された\[1\]。
+新型コンチネンタルGTは2011年モデルとして発表された。2010年11月にクーペのみ発表された。初代から引き継がれるW12エンジンに加え、[アウディ](https://ja.wikipedia.org/wiki/アウディ "wikilink")との共同開発となる[気筒休止機構付](../Page/気筒休止エンジン.md "wikilink")4.0L V8エンジンが搭載された\[1\]。
 
 2011年2月、日本市場において発表された。価格は2,415万円で、同年6月から納車開始された\[2\]。
 
@@ -67,9 +67,9 @@
 
   - コンチネンタルGT3
 
-2013年の[グッドウッド・フェスティバル・オブ・スピード](https://ja.wikipedia.org/wiki/グッドウッド・フェスティバル・オブ・スピード "wikilink")で、コンチネンタルGTをベースにした[FIA-GT3レギュレーションに準じた競技用車両が発表された](https://ja.wikipedia.org/wiki/グループGT3 "wikilink")\[5\]。開発には[世界ラリー選手権](../Page/世界ラリー選手権.md "wikilink") (WRC) でフォードワークスとして知られる[Mスポーツ](https://ja.wikipedia.org/wiki/Mスポーツ "wikilink")が協力している\[6\]。
+2013年の[グッドウッド・フェスティバル・オブ・スピード](../Page/グッドウッド・フェスティバル・オブ・スピード.md "wikilink")で、コンチネンタルGTをベースにした[FIA-GT3レギュレーションに準じた競技用車両が発表された](https://ja.wikipedia.org/wiki/グループGT3 "wikilink")\[5\]。開発には[世界ラリー選手権](../Page/世界ラリー選手権.md "wikilink") (WRC) でフォードワークスとして知られる[Mスポーツ](https://ja.wikipedia.org/wiki/Mスポーツ "wikilink")が協力している\[6\]。
 
-エンジンは4.0L V8ツインターボエンジンを[ドライサンプ](https://ja.wikipedia.org/wiki/ドライサンプ "wikilink")化し大幅なパワーアップが施されているが、ベースになっているエンジン自体はコンチネンタルGT V8と同一である。しかし車体は見た目こそコンチネンタルGTであるが、2t以上の車重を限界まで軽量化を施し1t以上の軽量化に加え、GT3のレギュレーションに準じ4輪駆動から[トランスアクスル](https://ja.wikipedia.org/wiki/トランスアクスル "wikilink")の[FR駆動へと変更されている](https://ja.wikipedia.org/wiki/後輪駆動#フロントエンジン・リアドライブ方式 "wikilink")。2014年からデリバリーを開始すると同時に、ベントレーワークスチームによるブランパン耐久シリーズへの参戦を行い、参戦初年度でシリーズ2位を獲得した。
+エンジンは4.0L V8ツインターボエンジンを[ドライサンプ](../Page/ドライサンプ.md "wikilink")化し大幅なパワーアップが施されているが、ベースになっているエンジン自体はコンチネンタルGT V8と同一である。しかし車体は見た目こそコンチネンタルGTであるが、2t以上の車重を限界まで軽量化を施し1t以上の軽量化に加え、GT3のレギュレーションに準じ4輪駆動から[トランスアクスル](../Page/トランスアクスル.md "wikilink")の[FR駆動へと変更されている](https://ja.wikipedia.org/wiki/後輪駆動#フロントエンジン・リアドライブ方式 "wikilink")。2014年からデリバリーを開始すると同時に、ベントレーワークスチームによるブランパン耐久シリーズへの参戦を行い、参戦初年度でシリーズ2位を獲得した。
 
   - コンチネンタルGT3-R
 
@@ -99,12 +99,12 @@
 
 ## 氷上の最速記録
 
-2007年初頭、[WRCで](../Page/世界ラリー選手権.md "wikilink")4度のワールドチャンピオンに輝いた[ユハ・カンクネン](https://ja.wikipedia.org/wiki/ユハ・カンクネン "wikilink")がロールケージと[スパイクタイヤ](../Page/スパイクタイヤ.md "wikilink")を装着して、燃料系を[寒冷地仕様](https://ja.wikipedia.org/wiki/寒冷地仕様 "wikilink")とした**GT**で氷上の世界最速記録に挑戦した。[フィンランド](https://ja.wikipedia.org/wiki/フィンランド "wikilink")の[オウル](https://ja.wikipedia.org/wiki/オウル "wikilink")で、それまで[ブガッティ・EB110](https://ja.wikipedia.org/wiki/ブガッティ・EB110 "wikilink")が持っていた296km/hを大幅に上回る平均321.6km/h、最速331km/hを記録し、世界最速記録を塗り替えた。
+2007年初頭、[WRCで](../Page/世界ラリー選手権.md "wikilink")4度のワールドチャンピオンに輝いた[ユハ・カンクネン](../Page/ユハ・カンクネン.md "wikilink")がロールケージと[スパイクタイヤ](../Page/スパイクタイヤ.md "wikilink")を装着して、燃料系を[寒冷地仕様](../Page/寒冷地仕様.md "wikilink")とした**GT**で氷上の世界最速記録に挑戦した。[フィンランド](../Page/フィンランド.md "wikilink")の[オウル](../Page/オウル.md "wikilink")で、それまで[ブガッティ・EB110](../Page/ブガッティ・EB110.md "wikilink")が持っていた296km/hを大幅に上回る平均321.6km/h、最速331km/hを記録し、世界最速記録を塗り替えた。
 
 ## 関連項目
 
   - [ベントレー](../Page/ベントレー.md "wikilink")
-  - [コーンズ](https://ja.wikipedia.org/wiki/コーンズ "wikilink") - 日本での販売元
+  - [コーンズ](../Page/コーンズ.md "wikilink") - 日本での販売元
 
 ## 参考文献
 

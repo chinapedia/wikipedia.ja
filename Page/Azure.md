@@ -10,29 +10,29 @@
 ## 収録曲
 
 1.  **Heaven's Door**
-      - [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[作曲](../Page/作曲.md "wikilink")：米倉千尋、[編曲](../Page/編曲.md "wikilink")：aqua.t
-2.  **[星になるまで](https://ja.wikipedia.org/wiki/星になるまで "wikilink")**
-      - 作詞・作曲：[岡本真夜](https://ja.wikipedia.org/wiki/岡本真夜 "wikilink")、編曲：aqua.t
-      - 岡本は、[ミニアルバム](https://ja.wikipedia.org/wiki/ミニアルバム "wikilink")『[Wonderful Colors](https://ja.wikipedia.org/wiki/Wonderful_Colors "wikilink")』で、[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")している。
+      - [作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")：米倉千尋、[編曲](../Page/編曲.md "wikilink")：aqua.t
+2.  **[星になるまで](../Page/星になるまで.md "wikilink")**
+      - 作詞・作曲：[岡本真夜](../Page/岡本真夜.md "wikilink")、編曲：aqua.t
+      - 岡本は、[ミニアルバム](https://ja.wikipedia.org/wiki/ミニアルバム "wikilink")『[Wonderful Colors](https://ja.wikipedia.org/wiki/Wonderful_Colors "wikilink")』で、[セルフカバー](../Page/セルフカバー.md "wikilink")している。
 3.  **クローバー**
       - 作詞・作曲：[佐久間勉](https://ja.wikipedia.org/wiki/ハックルベリーフィン_\(バンド\) "wikilink")、編曲：高山和芽・aqua.t
-4.  **[約束の場所へ](https://ja.wikipedia.org/wiki/約束の場所へ "wikilink")**
+4.  **[約束の場所へ](../Page/約束の場所へ.md "wikilink")**
       - 作詞・作曲：米倉千尋、編曲：高山和芽・aqua.t
-      - [テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")「[カレイドスター](https://ja.wikipedia.org/wiki/カレイドスター "wikilink")」後期オープニングテーマ
-      - [ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")『[BEST OF CHIHIROX](https://ja.wikipedia.org/wiki/BEST_OF_CHIHIROX "wikilink")』にも、収録されている。
+      - [テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")「[カレイドスター](../Page/カレイドスター.md "wikilink")」後期オープニングテーマ
+      - [ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")『[BEST OF CHIHIROX](../Page/BEST_OF_CHIHIROX.md "wikilink")』にも、収録されている。
 5.  **Beehive**
-      - 作詞・作曲：[山中さわお](https://ja.wikipedia.org/wiki/山中さわお "wikilink")、編曲：aqua.t
+      - 作詞・作曲：[山中さわお](../Page/山中さわお.md "wikilink")、編曲：aqua.t
       - the pillowsはシングル『その未来は今』でセルフカバーしている。
 6.  **夢の地図**
       - 作詞・作曲：米倉千尋、編曲：aqua.t
 7.  **She**
-      - 作詞：[若松健治](https://ja.wikipedia.org/wiki/Baby_Boo "wikilink")、作曲：[瀬川忍](https://ja.wikipedia.org/wiki/Baby_Boo "wikilink")、編曲：脇丸諄一・aqua.t
+      - 作詞：[若松健治](../Page/Baby_Boo.md "wikilink")、作曲：[瀬川忍](../Page/Baby_Boo.md "wikilink")、編曲：脇丸諄一・aqua.t
 8.  **プレゼント**
       - 作詞・作曲：米倉千尋、編曲：高山和芽・aqua.t
 9.  **冬のひまわり**
       - 作詞・作曲：米倉千尋、編曲：aqua.t
 10. **エミリー**
-      - 作詞・作曲：[大江千里](https://ja.wikipedia.org/wiki/大江千里_\(アーティスト\) "wikilink")、編曲：高山和芽・aqua.t
+      - 作詞・作曲：[大江千里](../Page/大江千里_\(アーティスト\).md "wikilink")、編曲：高山和芽・aqua.t
 11. **飛べ！紙ヒコーキ**
       - 作詞・作曲：米倉千尋、編曲：aqua.t
 

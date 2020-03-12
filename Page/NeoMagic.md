@@ -5,7 +5,7 @@
 
 ## 概要
 
-いち早くEmbedded構造を採用し、ビデオメモリを統合したモバイルビデオチップを出荷していた。3D性能は低く[Direct3Dにも対応していなかったが](https://ja.wikipedia.org/wiki/DirectX "wikilink")、安価で実装面積が少ないという特徴を持つ。この為、[Windows 95から](https://ja.wikipedia.org/wiki/Windows_95 "wikilink")[Windows 98の時期には多くの大手メーカー製](https://ja.wikipedia.org/wiki/Windows_98 "wikilink")[ノートPCで採用された](../Page/ノートパソコン.md "wikilink")。しかし市場がノートPCに対してもより高い性能を求め始め、高性能なグラフィックコアを持つ[ATIや](https://ja.wikipedia.org/wiki/ATI_Technologies "wikilink")[S3といった](https://ja.wikipedia.org/wiki/S3_Graphics "wikilink")[デスクトップ](https://ja.wikipedia.org/wiki/デスクトップ "wikilink")向けビデオチップメーカーのモバイル市場への参入と、統合チップセットの進化により、同社は2000年にPC向けビデオチップ市場から撤退した。 以降は小型デバイス用メディアプロセッサ事業などを行っており、PC向けチップは手がけていない。
+いち早くEmbedded構造を採用し、ビデオメモリを統合したモバイルビデオチップを出荷していた。3D性能は低く[Direct3Dにも対応していなかったが](https://ja.wikipedia.org/wiki/DirectX "wikilink")、安価で実装面積が少ないという特徴を持つ。この為、[Windows 95から](https://ja.wikipedia.org/wiki/Windows_95 "wikilink")[Windows 98の時期には多くの大手メーカー製](https://ja.wikipedia.org/wiki/Windows_98 "wikilink")[ノートPCで採用された](../Page/ノートパソコン.md "wikilink")。しかし市場がノートPCに対してもより高い性能を求め始め、高性能なグラフィックコアを持つ[ATIや](../Page/ATI_Technologies.md "wikilink")[S3といった](../Page/S3_Graphics.md "wikilink")[デスクトップ](https://ja.wikipedia.org/wiki/デスクトップ "wikilink")向けビデオチップメーカーのモバイル市場への参入と、統合チップセットの進化により、同社は2000年にPC向けビデオチップ市場から撤退した。 以降は小型デバイス用メディアプロセッサ事業などを行っており、PC向けチップは手がけていない。
 
 ## 製品
 
@@ -17,7 +17,7 @@
 
 ### MagicMedia256シリーズ
 
-128bitのグラフィックエンジンを持ち、インターフェースはPCI。2.5MBのメモリと[AC'97準拠のサウンド機能を統合している](https://ja.wikipedia.org/wiki/Audio_Codec_97 "wikilink")。 MagicMedia 256XL+(NM2380)では6MB、MagicMedia 256AV+(NM2230)では3MBのビデオメモリをチップに内蔵する。
+128bitのグラフィックエンジンを持ち、インターフェースはPCI。2.5MBのメモリと[AC'97準拠のサウンド機能を統合している](../Page/Audio_Codec_97.md "wikilink")。 MagicMedia 256XL+(NM2380)では6MB、MagicMedia 256AV+(NM2230)では3MBのビデオメモリをチップに内蔵する。
 
 ## 関連項目
 

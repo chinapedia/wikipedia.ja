@@ -7,17 +7,17 @@
 
 ## 概要
 
-スポーツに関する[伝説](https://ja.wikipedia.org/wiki/伝説 "wikilink")（LEGEND）を、クイズ形式にして紹介する。
+スポーツに関する[伝説](../Page/伝説.md "wikilink")（LEGEND）を、クイズ形式にして紹介する。
 
 ## 放送日
 
   - 『SPORTS★LEGEND』時代
 
-| 回数  | 放送日時                                                                                                       | 備考    |
-| --- | ---------------------------------------------------------------------------------------------------------- | ----- |
-| 第1回 | [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月30日](../Page/12月30日.md "wikilink")23:20 - 翌0:20 |       |
-| 第2回 | [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月23日](../Page/4月23日.md "wikilink")21:00 - 22:48   |       |
-| 第3回 | 2007年[12月6日](../Page/12月6日.md "wikilink")19:00 - 20:54                                                     | \[1\] |
+| 回数  | 放送日時                                                                                    | 備考    |
+| --- | --------------------------------------------------------------------------------------- | ----- |
+| 第1回 | [2006年](../Page/2006年.md "wikilink")[12月30日](../Page/12月30日.md "wikilink")23:20 - 翌0:20 |       |
+| 第2回 | [2007年](../Page/2007年.md "wikilink")[4月23日](../Page/4月23日.md "wikilink")21:00 - 22:48   |       |
+| 第3回 | 2007年[12月6日](../Page/12月6日.md "wikilink")19:00 - 20:54                                  | \[1\] |
 
   - 『くりぃむしちゅーの\!THE★レジェンド→くりぃむしちゅーのレジェンド→THE★LEGEND2017→くりぃむしちゅーの\!レジェンド』時代
 
@@ -38,9 +38,9 @@
 
 ### 司会
 
-  - [くりぃむしちゅー](../Page/くりぃむしちゅー.md "wikilink")（[上田晋也](https://ja.wikipedia.org/wiki/上田晋也 "wikilink")、[有田哲平](../Page/有田哲平.md "wikilink")）
+  - [くりぃむしちゅー](../Page/くりぃむしちゅー.md "wikilink")（[上田晋也](../Page/上田晋也.md "wikilink")、[有田哲平](../Page/有田哲平.md "wikilink")）
   - [小林麻央](../Page/小林麻央.md "wikilink")（『SPORTS★LEGEND』時代の第1回・第2回）
-  - [夏目三久](https://ja.wikipedia.org/wiki/夏目三久 "wikilink")（日本テレビアナウンサー（当時）、『SPORTS★LEGEND』時代の第3回）
+  - [夏目三久](../Page/夏目三久.md "wikilink")（日本テレビアナウンサー（当時）、『SPORTS★LEGEND』時代の第3回）
   - [水卜麻美](https://ja.wikipedia.org/wiki/水卜麻美 "wikilink")（日本テレビアナウンサー、『くりぃむしちゅーの\!THE★レジェンド→くりぃむしちゅーのレジェンド』時代）
 
 ## スタッフ
@@ -50,7 +50,7 @@
 <!-- end list -->
 
   - 演出:柳沢英俊
-  - 構成:橋本大介、小野高義、[桝本壮志](https://ja.wikipedia.org/wiki/桝本壮志 "wikilink")
+  - 構成:橋本大介、小野高義、[桝本壮志](../Page/桝本壮志.md "wikilink")
   - TM:保刈寛之（『※』第5回-）
   - SW:小林宏義（『※』第6,7,9回-）
   - カメラ:松嶋賢一（『※』第4,6,7,9回-、第5,8回はSW）
@@ -59,15 +59,15 @@
   - 照明:村上洋平（『※』第10回）
   - 編集:西井一浩、東義則（共に『※』第10回）
   - MA:佐渡吉志広（『※』第6,7,9回-）
-  - 技術協力:[NiTRO](../Page/日テレ・テクニカル・リソーシズ.md "wikilink")、[スタジオヴェルト](https://ja.wikipedia.org/wiki/スタジオヴェルト "wikilink")
+  - 技術協力:[NiTRO](../Page/日テレ・テクニカル・リソーシズ.md "wikilink")、[スタジオヴェルト](../Page/スタジオヴェルト.md "wikilink")
   - 音効:高取謙（『※』第7回-）
-  - モニター:[ジャパンテレビ](https://ja.wikipedia.org/wiki/ジャパンテレビ "wikilink")
+  - モニター:[ジャパンテレビ](../Page/ジャパンテレビ.md "wikilink")
   - CGデザイン:キャニットG
   - 美術:櫻場千尋（『※』第9回-）
   - デザイン:道勧英樹、北原龍一
   - 美術協力:[日テレアート](https://ja.wikipedia.org/wiki/日テレアート "wikilink")
   - 写真協力:[アフロ](https://ja.wikipedia.org/wiki/アフロ_\(企業\) "wikilink")（『※』第10回、以前は映像協力）
-  - 協力:[日本ラグビーフットボール協会](https://ja.wikipedia.org/wiki/日本ラグビーフットボール協会 "wikilink")（『※』第10回）
+  - 協力:[日本ラグビーフットボール協会](../Page/日本ラグビーフットボール協会.md "wikilink")（『※』第10回）
   - 制作デスク:府川麻衣子
   - TK:坂本幸子（『※』第9回-、以前も担当）
   - リサーチ:正村和重、小西伸明、中原祐（中原→『※』第7回-、小西→『※』第10回）
@@ -77,14 +77,14 @@
   - チーフディレクター(『※』第9回-):綾部健二（『※』第10回、以前はディレクター►一時離脱）、井田隆寛（『※』第9回-、以前はディレクター►一時離脱）、井上伸正（『※』第10回、『※』第9回までは演出）
   - プロデューサー:吉無田剛、荻野陽介（荻野→『※』第9回-） / 紀内良彦、柳井千晴（柳井→『※』第6回まではAP、第7回からはP）、増田泰洋、吉村真人（吉村→『※』第9回-）、津田裕子（『※』第7回-）、二瓶剛、村田聡子（村田→『※』第5回-）
   - チーフプロデューサー:[道坂忠久](https://ja.wikipedia.org/wiki/道坂忠久 "wikilink")、今井田彩（今井田→『※』第9回-）
-  - 制作協力:[創輝](https://ja.wikipedia.org/wiki/創輝 "wikilink")、[AX-ON](../Page/日テレアックスオン.md "wikilink")、これから、[ZIPPY](https://ja.wikipedia.org/wiki/ジッピー・プロダクション "wikilink")、[passion](https://ja.wikipedia.org/wiki/パッション_\(テレビ制作会社\) "wikilink")
+  - 制作協力:[創輝](../Page/創輝.md "wikilink")、[AX-ON](../Page/日テレアックスオン.md "wikilink")、これから、[ZIPPY](../Page/ジッピー・プロダクション.md "wikilink")、[passion](https://ja.wikipedia.org/wiki/パッション_\(テレビ制作会社\) "wikilink")
   - 製作著作:日本テレビ
 
 ### 過去のスタッフ
 
-  - ナレーション:[平野義和](https://ja.wikipedia.org/wiki/平野義和 "wikilink")、[広中雅志](https://ja.wikipedia.org/wiki/広中雅志 "wikilink")、[小山力也](https://ja.wikipedia.org/wiki/小山力也 "wikilink")
-  - LEGEND様の声:[ガッツ石松](https://ja.wikipedia.org/wiki/ガッツ石松 "wikilink")
-  - 構成:[ヒロハラノブヒコ](https://ja.wikipedia.org/wiki/ヒロハラノブヒコ "wikilink")、[村上知行](https://ja.wikipedia.org/wiki/村上知行 "wikilink")、アサダアツシ、[ゴージャス染谷](https://ja.wikipedia.org/wiki/ゴージャス染谷 "wikilink")、鈴木大介、[鈴木浩介](https://ja.wikipedia.org/wiki/鈴木浩介 "wikilink")（鈴木浩→『※』第7回）
+  - ナレーション:[平野義和](../Page/平野義和.md "wikilink")、[広中雅志](../Page/広中雅志.md "wikilink")、[小山力也](https://ja.wikipedia.org/wiki/小山力也 "wikilink")
+  - LEGEND様の声:[ガッツ石松](../Page/ガッツ石松.md "wikilink")
+  - 構成:[ヒロハラノブヒコ](../Page/ヒロハラノブヒコ.md "wikilink")、[村上知行](https://ja.wikipedia.org/wiki/村上知行 "wikilink")、アサダアツシ、[ゴージャス染谷](https://ja.wikipedia.org/wiki/ゴージャス染谷 "wikilink")、鈴木大介、[鈴木浩介](https://ja.wikipedia.org/wiki/鈴木浩介 "wikilink")（鈴木浩→『※』第7回）
   - TM:江村多加司
   - SW:米田博之
   - カメラ:榎本丈之、荻野高康（荻野→『※』第5,8回）
@@ -105,7 +105,7 @@
   - 衣裳:須藤美和
   - 持ち道具:吉田美樹
   - メイク:菅原つや子
-  - 技術協力:[読売映像](https://ja.wikipedia.org/wiki/読売映像 "wikilink")、[八峯テレビ](https://ja.wikipedia.org/wiki/八峯テレビ "wikilink")、[mabu](https://ja.wikipedia.org/wiki/mabu "wikilink")
+  - 技術協力:[読売映像](https://ja.wikipedia.org/wiki/読売映像 "wikilink")、[八峯テレビ](../Page/八峯テレビ.md "wikilink")、[mabu](https://ja.wikipedia.org/wiki/mabu "wikilink")
   - 映像協力:[GPミュージアムソフト](https://ja.wikipedia.org/wiki/GPミュージアムソフト "wikilink")、[福岡放送](../Page/福岡放送.md "wikilink")
   - 海外コーディーネーター:ヴィエント
   - リサーチ:[フリード](https://ja.wikipedia.org/wiki/フリード_\(企業\) "wikilink")、喜多あおい、伊礼広蔵、佐藤直也、二宮アカリ（二宮→『※』第5,6回）、横山晋哉
@@ -118,9 +118,9 @@
   - 協力スタッフ（『※』第7回）:橋場アリソン、高橋靖、亀崎未沙、伊田孝、大本遼平
   - ディレクター:谷中憲、福永勇樹、如沢大介、長谷川孝、藤田飛鳥、藤木一葉、中野貴文、福田真司、福田一寛、今野恒、清水ヒロシ、長縄亮、原田誠之、武田雄一、長岡新、山泉貴弘、大楽和也、田中友洋、藤野智光、緑川大介、田中真之、本橋宏之、新山潤、新井聡史、石川直志、高橋正人、渡辺梢子、小澤博之、陣崎行夫、塚田直之、下村彩人（塚田・下村→『※』第9回）、利元智幸、内田浩（利元・内田→『※』第9回、以前も担当）、池田修大
   - スタジオ演出:芳住昌之
-  - プロデューサー:上原敏明、高島良子、[伊東修](https://ja.wikipedia.org/wiki/伊東修 "wikilink")、[下田明宏](https://ja.wikipedia.org/wiki/下田明宏_\(プロデューサー\) "wikilink")、萬屋智成、高橋研、荒谷多美、石井博、宮太一（宮→『※』第3回まではAP、第4-9回はP）、小島俊一、[栄永英幸](https://ja.wikipedia.org/wiki/栄永英幸 "wikilink")
-  - チーフプロデューサー:[吉川圭三](https://ja.wikipedia.org/wiki/吉川圭三 "wikilink")、黒岩直樹、[加藤幸二郎](https://ja.wikipedia.org/wiki/加藤幸二郎 "wikilink")、松原正典、木戸弘士（木戸→『※』第8回）
-  - 制作協力:[G-yama](https://ja.wikipedia.org/wiki/ジーヤマ "wikilink")、[マイ・プラン](https://ja.wikipedia.org/wiki/マイ・プラン "wikilink")、[U-FIELD](https://ja.wikipedia.org/wiki/ユーフィールド "wikilink")
+  - プロデューサー:上原敏明、高島良子、[伊東修](https://ja.wikipedia.org/wiki/伊東修 "wikilink")、[下田明宏](../Page/下田明宏_\(プロデューサー\).md "wikilink")、萬屋智成、高橋研、荒谷多美、石井博、宮太一（宮→『※』第3回まではAP、第4-9回はP）、小島俊一、[栄永英幸](https://ja.wikipedia.org/wiki/栄永英幸 "wikilink")
+  - チーフプロデューサー:[吉川圭三](../Page/吉川圭三.md "wikilink")、黒岩直樹、[加藤幸二郎](https://ja.wikipedia.org/wiki/加藤幸二郎 "wikilink")、松原正典、木戸弘士（木戸→『※』第8回）
+  - 制作協力:[G-yama](../Page/ジーヤマ.md "wikilink")、[マイ・プラン](../Page/マイ・プラン.md "wikilink")、[U-FIELD](https://ja.wikipedia.org/wiki/ユーフィールド "wikilink")
 
 ## 脚注
 
@@ -134,6 +134,6 @@
 
 1.  『[モクスペ](../Page/モクスペ.md "wikilink")』枠で「クラブのワールドカップ開幕前夜に世界一の伝説決定SP」として放送された。
 2.  関東地区のみ、22:54 - 23:00に事後枠『**まだまだレジェンド**』も別途放送。
-3.  [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")では通常編成時に土曜21時台に[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")『[木曜ドラマ](https://ja.wikipedia.org/wiki/木曜ドラマ_\(テレビ朝日\) "wikilink")』枠を遅れネットしているが、土曜21時をまたぐ特番のため、本番組の同時ネットを優先する。なお、福井放送でのテレビ朝日『木曜ドラマ』の遅れネットは通常より6時間繰り上げて対応。
+3.  [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")では通常編成時に土曜21時台に[テレビ朝日](../Page/テレビ朝日.md "wikilink")『[木曜ドラマ](../Page/木曜ドラマ_\(テレビ朝日\).md "wikilink")』枠を遅れネットしているが、土曜21時をまたぐ特番のため、本番組の同時ネットを優先する。なお、福井放送でのテレビ朝日『木曜ドラマ』の遅れネットは通常より6時間繰り上げて対応。
 4.  同日から[11月11日](../Page/11月11日.md "wikilink")までのイベント『[カラダWEEK](https://ja.wikipedia.org/wiki/カラダWEEK "wikilink")』の一環として放送。
 5.  同日から[11月10日](../Page/11月10日.md "wikilink")までのイベント『カラダWEEK』の一環として放送。

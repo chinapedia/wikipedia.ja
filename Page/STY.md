@@ -7,7 +7,7 @@
 
 ## 来歴
 
-高校生の頃初めて行ったという[クラブ](../Page/クラブ.md "wikilink")で[R\&Bや](../Page/リズム・アンド・ブルース.md "wikilink")[ヒップホップ](../Page/ヒップホップ.md "wikilink")といった[ブラックミュージック](../Page/ブラックミュージック.md "wikilink")に傾倒する。 自身名義によるシンガー・ラッパー活動に加え、[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[作曲](../Page/作曲.md "wikilink")、[プロデュース](https://ja.wikipedia.org/wiki/プロデュース "wikilink")、[トラックメイキング](../Page/編曲.md "wikilink")、コーラスアレンジメントなどで活躍中。
+高校生の頃初めて行ったという[クラブ](../Page/クラブ.md "wikilink")で[R\&Bや](../Page/リズム・アンド・ブルース.md "wikilink")[ヒップホップ](../Page/ヒップホップ.md "wikilink")といった[ブラックミュージック](../Page/ブラックミュージック.md "wikilink")に傾倒する。 自身名義によるシンガー・ラッパー活動に加え、[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")、[プロデュース](https://ja.wikipedia.org/wiki/プロデュース "wikilink")、[トラックメイキング](../Page/編曲.md "wikilink")、コーラスアレンジメントなどで活躍中。
 
 2015年より、音楽プロデュース以外にも、 「BLACKMAR / ブラッくまぁ」の[キャラクター](../Page/キャラクター.md "wikilink")[デザイン](../Page/デザイン.md "wikilink")・グッズのプロデュース\[2\]、及びアパレルブランド「77Y / ナナナナワイ」のプロデュース\[3\] にも着手。共に[クリエイティブ](https://ja.wikipedia.org/wiki/クリエイティブ "wikilink")[ディレクター](../Page/ディレクター.md "wikilink")を務め、活動の幅を広げている。
 
@@ -62,12 +62,12 @@
 
 <!-- end list -->
 
-  - 【[文化放送](https://ja.wikipedia.org/wiki/文化放送 "wikilink")：[宮野真守のRADIO SMILE](https://ja.wikipedia.org/wiki/宮野真守のRADIO_SMILE "wikilink")】
-      - （2016年5月14日ゲスト）司会：[宮野真守](https://ja.wikipedia.org/wiki/宮野真守 "wikilink")
+  - 【[文化放送](../Page/文化放送.md "wikilink")：[宮野真守のRADIO SMILE](https://ja.wikipedia.org/wiki/宮野真守のRADIO_SMILE "wikilink")】
+      - （2016年5月14日ゲスト）司会：[宮野真守](../Page/宮野真守.md "wikilink")
 
 ## エピソード
 
-  - [リミックス](https://ja.wikipedia.org/wiki/リミックス "wikilink")名に「Gin 'n Tonic」が付くのは、単に本人の[ジン・トニック](../Page/ジン・トニック.md "wikilink")好きによるものとの事。
+  - [リミックス](../Page/リミックス.md "wikilink")名に「Gin 'n Tonic」が付くのは、単に本人の[ジン・トニック](../Page/ジン・トニック.md "wikilink")好きによるものとの事。
 
 ## 脚注
 
@@ -96,4 +96,4 @@
 4.  プロデュース作品が多岐アーティストに渡り、2015年8月現在、未だ掲載に漏れている作品もあり、今後のページの煩雑化が予想される為、分割ページを作成。
 5.  「SWAG HOUSE」コーナーにて、2012年7月7日の、DJ AKiの[レジデント](https://ja.wikipedia.org/wiki/レジデント "wikilink")[パーティー](https://ja.wikipedia.org/wiki/パーティー "wikilink")、[06S](https://ja.wikipedia.org/wiki/06S "wikilink")内での**ASY**初お披露目の様子の写真が4ページに渡って掲載されている。ASYへのインタビューは特になく、記者の記事と、[登坂広臣](https://ja.wikipedia.org/wiki/登坂広臣 "wikilink")、[山下健二郎](https://ja.wikipedia.org/wiki/山下健二郎 "wikilink")、[岩田剛典](https://ja.wikipedia.org/wiki/岩田剛典 "wikilink")のそれぞれの感想が掲載されている。お披露目曲は「SEE THE LIGHTS」
 6.  [ONE AND ONLY番組ブログ](http://www.j-wave.co.jp/original/oneandonly/)（2015年6月8日から11日の[アーカイブ](../Page/アーカイブ.md "wikilink")に記事あり。2015年8月15日閲覧。）
-7.  出演メンバーや、配信日は事前に[Twitter](https://ja.wikipedia.org/wiki/Twitter "wikilink")で予告される事が多い。[Mixlr](https://ja.wikipedia.org/wiki/Mixlr "wikilink")配信。 <http://mixlr.com/djaki>
+7.  出演メンバーや、配信日は事前に[Twitter](../Page/Twitter.md "wikilink")で予告される事が多い。[Mixlr](https://ja.wikipedia.org/wiki/Mixlr "wikilink")配信。 <http://mixlr.com/djaki>

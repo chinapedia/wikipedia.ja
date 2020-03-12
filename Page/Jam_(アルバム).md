@@ -13,17 +13,17 @@
 
 1.  **ドルフィン・ソング**
       - 作詞・作曲：米倉千尋、編曲：aqua.t
-2.  **[Butterfly Kiss](https://ja.wikipedia.org/wiki/Butterfly_Kiss "wikilink")**
-      - 作詞：米倉千尋、作曲：[鵜島仁文](https://ja.wikipedia.org/wiki/鵜島仁文 "wikilink")、編曲：aqua.t
-      - テレビアニメ「[RAVE](https://ja.wikipedia.org/wiki/RAVE_\(漫画\) "wikilink")」オープニングテーマ
-3.  **[陽だまりをつれて](https://ja.wikipedia.org/wiki/陽だまりをつれて "wikilink")**
+2.  **[Butterfly Kiss](../Page/Butterfly_Kiss.md "wikilink")**
+      - 作詞：米倉千尋、作曲：[鵜島仁文](../Page/鵜島仁文.md "wikilink")、編曲：aqua.t
+      - テレビアニメ「[RAVE](../Page/RAVE_\(漫画\).md "wikilink")」オープニングテーマ
+3.  **[陽だまりをつれて](../Page/陽だまりをつれて.md "wikilink")**
       - 作詞・作曲：米倉千尋、編曲：aqua.t
-      - テレビ朝日「[内村プロデュース](https://ja.wikipedia.org/wiki/内村プロデュース "wikilink")」エンディングテーマ
+      - テレビ朝日「[内村プロデュース](../Page/内村プロデュース.md "wikilink")」エンディングテーマ
 4.  **甘い甘い毒**
       - 作詞・作曲：米倉千尋、編曲：aqua.t
 5.  **琥珀の揺りかご**
       - 作詞・作曲：米倉千尋、編曲：aqua.t
-      - テレビアニメ「[RAVE](https://ja.wikipedia.org/wiki/RAVE_\(漫画\) "wikilink")」エンディングテーマ
+      - テレビアニメ「[RAVE](../Page/RAVE_\(漫画\).md "wikilink")」エンディングテーマ
 6.  **濱のメリー**
       - 作詞・作曲：米倉千尋、編曲：aqua.t
       - 自身の出身地である[横浜に実在した](../Page/横浜市.md "wikilink")[メリーさん](https://ja.wikipedia.org/wiki/メリーさん "wikilink")の事を歌った楽曲である。
@@ -32,7 +32,7 @@
       - 宇宙は「そら」と読む
 8.  **It's a beautiful day**
       - 作詞・作曲：米倉千尋、編曲：aqua.t
-9.  **[Little Soldier](https://ja.wikipedia.org/wiki/Little_Soldier "wikilink")〜album version〜**
+9.  **[Little Soldier](../Page/Little_Soldier.md "wikilink")〜album version〜**
       - 作詞：米倉千尋、作曲：佐藤直之、編曲：勝又隆一
 10. **ライラックの花束を**
       - 作詞・作曲：米倉千尋、編曲：aqua.t

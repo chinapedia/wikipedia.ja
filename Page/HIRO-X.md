@@ -13,7 +13,7 @@
 
   - **ギター**　ARAKEN
   - **ギター**　TAKEO
-  - **ベース**　[Ikuo](https://ja.wikipedia.org/wiki/Ikuo "wikilink")
+  - **ベース**　[Ikuo](../Page/Ikuo.md "wikilink")
   - **ドラム**　YASUO
 
 ## シングル
@@ -41,13 +41,13 @@
       -
         [2003年](../Page/2003年.md "wikilink")[12月3日](../Page/12月3日.md "wikilink")
 4.  Calling
-    1.  Calling（文化放送「[テニスの王子様 オン・ザ・レイディオ](https://ja.wikipedia.org/wiki/テニスの王子様_オン・ザ・レイディオ "wikilink")」エンディングテーマ）
+    1.  Calling（文化放送「[テニスの王子様 オン・ザ・レイディオ](../Page/テニスの王子様_オン・ザ・レイディオ.md "wikilink")」エンディングテーマ）
     2.  君色グラフィティ
     3.  Calling（instrumental）
     4.  君色グラフィティ（instrumental）
     <!-- end list -->
       -
-        [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月5日](../Page/10月5日.md "wikilink")
+        [2005年](../Page/2005年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")
 
 <!-- end list -->
 
@@ -57,7 +57,7 @@
 
 <!-- end list -->
 
-  - ここであげた楽曲は、[キャラクターソング](https://ja.wikipedia.org/wiki/キャラクターソング "wikilink")を含め[NECインターチャネル](https://ja.wikipedia.org/wiki/NECインターチャネル "wikilink")（現[インデックスミュージック](https://ja.wikipedia.org/wiki/インデックスミュージック "wikilink")）より発売された。
+  - ここであげた楽曲は、[キャラクターソング](../Page/キャラクターソング.md "wikilink")を含め[NECインターチャネル](https://ja.wikipedia.org/wiki/NECインターチャネル "wikilink")（現[インデックスミュージック](https://ja.wikipedia.org/wiki/インデックスミュージック "wikilink")）より発売された。
 
 ## 外部リンク
 

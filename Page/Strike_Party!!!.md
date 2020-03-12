@@ -1,13 +1,13 @@
 > この記事は[Strike Party!!!](https://ja.wikipedia.org/wiki/Strike_Party!!!)から翻訳されています。
 
 
-「**Strike Party\!\!\!**」（ストライク パーティー\!\!）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性歌手グループ、[BeForU](https://ja.wikipedia.org/wiki/BeForU "wikilink")の4枚目のシングル、メジャーで2枚目のシングルである。
+「**Strike Party\!\!\!**」（ストライク パーティー\!\!）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性歌手グループ、[BeForU](../Page/BeForU.md "wikilink")の4枚目のシングル、メジャーで2枚目のシングルである。
 
 ## 解説
 
 [2007年](../Page/2007年.md "wikilink")[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink")に[avex modeより](https://ja.wikipedia.org/wiki/avex_mode "wikilink")「CDのみ」、「CD+DVD」の2形態で発売された。DVDには「Strike Party\!\!\!」の[プロモーションビデオ](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")、メイキングビデオが収録されている。
 
-[NHKテレビアニメ](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[MAJOR 3rd season](https://ja.wikipedia.org/wiki/メジャー_\(アニメ\) "wikilink")』前期エンディングテーマ。『[GuitarFreaks Яock×Rock](https://ja.wikipedia.org/wiki/GuitarFreaks "wikilink")V4』、『[DrumMania Яock×Rock](https://ja.wikipedia.org/wiki/DrumMania "wikilink")V4』提供曲。
+[NHKテレビアニメ](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[MAJOR 3rd season](../Page/メジャー_\(アニメ\).md "wikilink")』前期エンディングテーマ。『[GuitarFreaks Яock×Rock](https://ja.wikipedia.org/wiki/GuitarFreaks "wikilink")V4』、『[DrumMania Яock×Rock](https://ja.wikipedia.org/wiki/DrumMania "wikilink")V4』提供曲。
 
 ゲームではEXTREME（難易度）でのスネアの配置が原曲と違う。
 
@@ -15,7 +15,7 @@
 
 ### CD
 
-全曲 [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：[小坂りゆ](https://ja.wikipedia.org/wiki/小坂りゆ "wikilink")
+全曲 [作詞](../Page/作詞.md "wikilink")：[小坂りゆ](../Page/小坂りゆ.md "wikilink")
 
 1.  Strike Party\!\!\!
       -

@@ -18,21 +18,21 @@
 
 ## 概要
 
-翌日行われる中央競馬のレース予想を行う番組。[競馬専門紙の](https://ja.wikipedia.org/wiki/競馬新聞 "wikilink")[記者](../Page/記者.md "wikilink")や[トラックマン](https://ja.wikipedia.org/wiki/トラックマン "wikilink")などを解説者として東西一人ずつ迎え、予想を行う。
+翌日行われる中央競馬のレース予想を行う番組。[競馬専門紙の](../Page/競馬新聞.md "wikilink")[記者](../Page/記者.md "wikilink")や[トラックマン](../Page/トラックマン.md "wikilink")などを解説者として東西一人ずつ迎え、予想を行う。
 
-開催場の翌日の天気予報や芝・ダートの状態についても説明している。但し2013年1月からの1年間、初回放送の30分前に「[美馬怜子](https://ja.wikipedia.org/wiki/美馬怜子 "wikilink")の競馬場❤天気予報」が放送されたため割愛された。
+開催場の翌日の天気予報や芝・ダートの状態についても説明している。但し2013年1月からの1年間、初回放送の30分前に「[美馬怜子](../Page/美馬怜子.md "wikilink")の競馬場❤天気予報」が放送されたため割愛された。
 
 ### 司会
 
-  - [三遊亭五九楽](https://ja.wikipedia.org/wiki/三遊亭五九楽 "wikilink")（2010年から）
+  - [三遊亭五九楽](../Page/三遊亭五九楽.md "wikilink")（2010年から）
   - [秋田奈津子](https://ja.wikipedia.org/wiki/秋田奈津子 "wikilink")（2019年１月 - ）
 
 ### 過去の司会
 
-  - [松岡俊道](https://ja.wikipedia.org/wiki/松岡俊道 "wikilink")（2009年まで）
-  - [高瀬有紀子](https://ja.wikipedia.org/wiki/高瀬有紀子 "wikilink")
-  - [関野浩之](https://ja.wikipedia.org/wiki/関野浩之 "wikilink")
-  - [芦谷有香](https://ja.wikipedia.org/wiki/芦谷有香 "wikilink")
+  - [松岡俊道](../Page/松岡俊道.md "wikilink")（2009年まで）
+  - [高瀬有紀子](../Page/高瀬有紀子.md "wikilink")
+  - [関野浩之](../Page/関野浩之.md "wikilink")
+  - [芦谷有香](../Page/芦谷有香.md "wikilink")
   - [小島友実](https://ja.wikipedia.org/wiki/小島友実 "wikilink")
 
 ## コーナー

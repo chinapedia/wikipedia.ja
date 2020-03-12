@@ -1,13 +1,13 @@
 > この記事は[VIA Eden](https://ja.wikipedia.org/wiki/VIA_Eden)から翻訳されています。
 
 
-**VIA Eden**（ヴィア エデン） とは[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")[VIA Technologiesが推進するEdenPlatFormの中核に位置する](../Page/VIA_Technologies.md "wikilink")[x86](https://ja.wikipedia.org/wiki/x86 "wikilink")[CPU](../Page/CPU.md "wikilink")である。ほとんどの製品は取り外しのできない形で基板上に実装されている。パソコン用のみならず組み込み用途を強く意識した製品である。[セットトップボックス](https://ja.wikipedia.org/wiki/セットトップボックス "wikilink")、モバイル用、[POS用など低消費電力を期待される分野で多く採用が進んでいる](https://ja.wikipedia.org/wiki/POSシステム "wikilink")。名称でEdenという場合VIAのEdenシリーズすべてを指すので、以下の解説はそれぞれのシリーズに分けて解説する。
+**VIA Eden**（ヴィア エデン） とは[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")[VIA Technologiesが推進するEdenPlatFormの中核に位置する](../Page/VIA_Technologies.md "wikilink")[x86](https://ja.wikipedia.org/wiki/x86 "wikilink")[CPU](../Page/CPU.md "wikilink")である。ほとんどの製品は取り外しのできない形で基板上に実装されている。パソコン用のみならず組み込み用途を強く意識した製品である。[セットトップボックス](../Page/セットトップボックス.md "wikilink")、モバイル用、[POS用など低消費電力を期待される分野で多く採用が進んでいる](https://ja.wikipedia.org/wiki/POSシステム "wikilink")。名称でEdenという場合VIAのEdenシリーズすべてを指すので、以下の解説はそれぞれのシリーズに分けて解説する。
 
 ## Eden
 
-[Estherコアを採用しIBMの](https://ja.wikipedia.org/wiki/VIA_C7 "wikilink")90nm[SOI](https://ja.wikipedia.org/wiki/SOI "wikilink")プロセスで製造されている。近年のCPUから比べるとやや非力ではあるが、オフィス用としては十分な性能をもつ。特にその消費電力対性能比は特筆すべきところがある。現在日本のコンピューターメーカが採用している事例は少ないが、個人向けの[マザーボード](https://ja.wikipedia.org/wiki/マザーボード "wikilink")は多数出回っている。
+[Estherコアを採用しIBMの](../Page/VIA_C7.md "wikilink")90nm[SOI](../Page/SOI.md "wikilink")プロセスで製造されている。近年のCPUから比べるとやや非力ではあるが、オフィス用としては十分な性能をもつ。特にその消費電力対性能比は特筆すべきところがある。現在日本のコンピューターメーカが採用している事例は少ないが、個人向けの[マザーボード](../Page/マザーボード.md "wikilink")は多数出回っている。
 
-  - [FSB](https://ja.wikipedia.org/wiki/フロントサイドバス "wikilink")　400MHz　
+  - [FSB](../Page/フロントサイドバス.md "wikilink")　400MHz　
   - 動作周波数　400MHz - 1.2GHz
   - 消費電力　
       - 400MHz　2.5W
@@ -16,7 +16,7 @@
       - 1.2GHz　7W
   - 対応チップセット　VIA CN700
   - パッケージ　nanoBGA2 21mmx21mm
-  - 対応拡張命令　[MMX](https://ja.wikipedia.org/wiki/MMX "wikilink")、[SSE](https://ja.wikipedia.org/wiki/ストリーミングSIMD拡張命令 "wikilink")、SSE2、SSE3、[NXビット](https://ja.wikipedia.org/wiki/NXビット "wikilink")
+  - 対応拡張命令　[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/ストリーミングSIMD拡張命令.md "wikilink")、SSE2、SSE3、[NXビット](../Page/NXビット.md "wikilink")
   - ハードウエア処理命令　[AES暗号処理](../Page/Advanced_Encryption_Standard.md "wikilink"), [SHA-1](https://ja.wikipedia.org/wiki/SHA-1 "wikilink"), [SHA-2](https://ja.wikipedia.org/wiki/SHA-2 "wikilink")56
   - デュアルCPU対応
 
@@ -85,8 +85,8 @@
 ## 関連情報
 
   - [VIA Technologies](../Page/VIA_Technologies.md "wikilink")
-  - [VIA C3](https://ja.wikipedia.org/wiki/VIA_C3 "wikilink")
-  - [Geode](https://ja.wikipedia.org/wiki/Geode "wikilink")
+  - [VIA C3](../Page/VIA_C3.md "wikilink")
+  - [Geode](../Page/Geode.md "wikilink")
   - [組み込みシステム](../Page/組み込みシステム.md "wikilink")
 
 ## 外部リンク

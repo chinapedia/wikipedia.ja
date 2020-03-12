@@ -1,7 +1,7 @@
 > この記事は[XML Metadata Interchange](https://ja.wikipedia.org/wiki/XML_Metadata_Interchange)から翻訳されています。
 
 
-**XML Metadata Interchange**（**XMI**）とは、[Extensible Markup Language (XML)を使って](../Page/Extensible_Markup_Language.md "wikilink")[メタデータ](https://ja.wikipedia.org/wiki/メタデータ "wikilink")情報を交換する標準規格であり、[OMGが策定した](https://ja.wikipedia.org/wiki/Object_Management_Group "wikilink")。[Meta-Object Facility (MOF)で表現できるメタモデルに従うメタデータを扱うことができる](../Page/Meta-Object_Facility.md "wikilink")。XMIの典型的な利用法として、[UMLモデルの交換形式としての利用があるが](../Page/統一モデリング言語.md "wikilink")、他の言語のモデル（メタモデル）のシリアライズにも使うことができる。
+**XML Metadata Interchange**（**XMI**）とは、[Extensible Markup Language (XML)を使って](../Page/Extensible_Markup_Language.md "wikilink")[メタデータ](../Page/メタデータ.md "wikilink")情報を交換する標準規格であり、[OMGが策定した](../Page/Object_Management_Group.md "wikilink")。[Meta-Object Facility (MOF)で表現できるメタモデルに従うメタデータを扱うことができる](../Page/Meta-Object_Facility.md "wikilink")。XMIの典型的な利用法として、[UMLモデルの交換形式としての利用があるが](../Page/統一モデリング言語.md "wikilink")、他の言語のモデル（メタモデル）のシリアライズにも使うことができる。
 
 ## 概要
 
@@ -12,35 +12,35 @@ XML Metadata Interchange (XMI) の目的の1つとして、分散異機種混在
 XMI には以下の4つの業界標準が組み込まれている:
 
   - [XML](../Page/Extensible_Markup_Language.md "wikilink") - eXtensible Markup Language、[W3C標準](../Page/World_Wide_Web_Consortium.md "wikilink")。
-  - [UML](../Page/統一モデリング言語.md "wikilink") - Unified Modeling Language、[OMGのモデリング標準](https://ja.wikipedia.org/wiki/Object_Management_Group "wikilink")。
-  - [MOF](../Page/Meta-Object_Facility.md "wikilink") - Meta Object Facility、[OMGの](https://ja.wikipedia.org/wiki/Object_Management_Group "wikilink")[メタモデル](../Page/メタモデル.md "wikilink")記述用言語。
+  - [UML](../Page/統一モデリング言語.md "wikilink") - Unified Modeling Language、[OMGのモデリング標準](../Page/Object_Management_Group.md "wikilink")。
+  - [MOF](../Page/Meta-Object_Facility.md "wikilink") - Meta Object Facility、[OMGの](../Page/Object_Management_Group.md "wikilink")[メタモデル](../Page/メタモデル.md "wikilink")記述用言語。
   - MOF Mapping to XMI
 
 これら4つの標準が XMI に統合されることにより、分散システムのツール開発者がオブジェクトモデルや他のメタデータを共有できるようにすることを意図している。
 
 XMI にはいくつかのバージョン（1.0, 1.1, 1.2, 2.0, 2.1）がある。2.x は 1.x から大幅に変更されている。
 
-[メタデータ](https://ja.wikipedia.org/wiki/メタデータ "wikilink")を表現するための XML 標準は他にもある。最も新しいものとしては [Web Ontology Language (OWL)](https://ja.wikipedia.org/wiki/OWL "wikilink") がある。OWL は[Resource Description Framework (RDF)に基づいている](../Page/Resource_Description_Framework.md "wikilink")。
+[メタデータ](../Page/メタデータ.md "wikilink")を表現するための XML 標準は他にもある。最も新しいものとしては [Web Ontology Language (OWL)](../Page/OWL.md "wikilink") がある。OWL は[Resource Description Framework (RDF)に基づいている](../Page/Resource_Description_Framework.md "wikilink")。
 
 XMI は国際標準として採用された。
 
   -
-    [ISO](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")/[IEC](https://ja.wikipedia.org/wiki/国際電気標準会議 "wikilink") 19503:2005 Information technology -- XML Metadata Interchange (XMI)
+    [ISO](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")/[IEC](../Page/国際電気標準会議.md "wikilink") 19503:2005 Information technology -- XML Metadata Interchange (XMI)
 
 ## 関連項目
 
-  - [OWL](https://ja.wikipedia.org/wiki/OWL "wikilink")（Web Ontology Language）
+  - [OWL](../Page/OWL.md "wikilink")（Web Ontology Language）
   - [ドメイン固有言語](../Page/ドメイン固有言語.md "wikilink") (DSL)
   - [ドメイン固有モデリング](../Page/ドメイン固有モデリング.md "wikilink") (DSM)
   - [モデルベーステスト](../Page/モデルベーステスト.md "wikilink") (MBT)
   - [メタモデル](../Page/メタモデル.md "wikilink")
   - [モデル変換言語](../Page/モデル変換言語.md "wikilink")
   - [MOF](../Page/Meta-Object_Facility.md "wikilink")
-  - [QVT](https://ja.wikipedia.org/wiki/QVT "wikilink")
-  - [OCL](https://ja.wikipedia.org/wiki/Object_Constraint_Language "wikilink")
+  - [QVT](../Page/QVT.md "wikilink")
+  - [OCL](../Page/Object_Constraint_Language.md "wikilink")
   - [VIATRA](https://ja.wikipedia.org/wiki/VIATRA "wikilink")
-  - [ATL](https://ja.wikipedia.org/wiki/ATLAS_Transformation_Language "wikilink")
-  - [Common Warehouse Metamodel](https://ja.wikipedia.org/wiki/Common_Warehouse_Metamodel "wikilink")(CWM)
+  - [ATL](../Page/ATLAS_Transformation_Language.md "wikilink")
+  - [Common Warehouse Metamodel](../Page/Common_Warehouse_Metamodel.md "wikilink")(CWM)
   - [Eclipse Modeling Framework](https://ja.wikipedia.org/wiki/Eclipse_Modeling_Framework "wikilink") (EMF)
 
 ## 外部リンク

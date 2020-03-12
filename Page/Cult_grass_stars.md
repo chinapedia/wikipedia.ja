@@ -7,11 +7,11 @@
 
 [1996年](../Page/1996年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")発売。[CDと](../Page/コンパクトディスク.md "wikilink")[アナログの](../Page/レコード.md "wikilink")2タイプがあり、規格番号はCDがCOCA-13155、アナログがTERNG-004/005。
 
-[レディオヘッド](https://ja.wikipedia.org/wiki/レディオヘッド "wikilink")のアルバムなどを手掛けたエンジニア、[クリス・ブラウンを迎えた](https://ja.wikipedia.org/wiki/クリス・ブラウン_\(エンジニア\) "wikilink")[ロンドン](../Page/ロンドン.md "wikilink")[レコーディング作ということでも話題となったthee](../Page/録音.md "wikilink") michelle gun elephantのデビュー盤。当時から[ガレージ・パンク](https://ja.wikipedia.org/wiki/ガレージ・パンク "wikilink")、[ブルース](../Page/ブルース.md "wikilink")、[パブロック](https://ja.wikipedia.org/wiki/パブロック "wikilink")からの影響が色濃く見受けられる。
+[レディオヘッド](https://ja.wikipedia.org/wiki/レディオヘッド "wikilink")のアルバムなどを手掛けたエンジニア、[クリス・ブラウンを迎えた](https://ja.wikipedia.org/wiki/クリス・ブラウン_\(エンジニア\) "wikilink")[ロンドン](../Page/ロンドン.md "wikilink")[レコーディング作ということでも話題となったthee](../Page/録音.md "wikilink") michelle gun elephantのデビュー盤。当時から[ガレージ・パンク](https://ja.wikipedia.org/wiki/ガレージ・パンク "wikilink")、[ブルース](../Page/ブルース.md "wikilink")、[パブロック](../Page/パブロック.md "wikilink")からの影響が色濃く見受けられる。
 
 先行シングル曲でもある4曲目の「世界の終わり」は2003年に[幕張メッセ](../Page/幕張メッセ.md "wikilink")で行われた解散ライブのラストでも演奏された。
 
-また、1曲目である「トカゲ」はこのアルバムが出た当時のインタビューで[チバユウスケ](https://ja.wikipedia.org/wiki/チバユウスケ "wikilink")が「元ギタリストの[シガケイイチ](https://ja.wikipedia.org/wiki/シガケイイチ "wikilink")に捧げる歌」と述べていた。 メジャーアルバム1曲目にはこの歌を持ってこようと以前から思っていたとも語っていた。 尚、この曲は2003年に行われた解散ツアー、『LAST HEAVEN TOUR』での1曲目として何度か演奏された。
+また、1曲目である「トカゲ」はこのアルバムが出た当時のインタビューで[チバユウスケ](../Page/チバユウスケ.md "wikilink")が「元ギタリストの[シガケイイチ](https://ja.wikipedia.org/wiki/シガケイイチ "wikilink")に捧げる歌」と述べていた。 メジャーアルバム1曲目にはこの歌を持ってこようと以前から思っていたとも語っていた。 尚、この曲は2003年に行われた解散ツアー、『LAST HEAVEN TOUR』での1曲目として何度か演奏された。
 
 ## 収録曲
 
@@ -65,6 +65,6 @@
 3.  **眠らなきゃ**
 4.  **remember Amsterdam**
 
-全作詞：[チバユウスケ](https://ja.wikipedia.org/wiki/チバユウスケ "wikilink")（\#8, \#13はインストなので除く）　作曲・編曲：thee michelle gun elephant
+全作詞：[チバユウスケ](../Page/チバユウスケ.md "wikilink")（\#8, \#13はインストなので除く）　作曲・編曲：thee michelle gun elephant
 
 [Category:Thee_michelle_gun_elephantのアルバム](https://ja.wikipedia.org/wiki/Category:Thee_michelle_gun_elephantのアルバム "wikilink") [Category:1996年のアルバム](https://ja.wikipedia.org/wiki/Category:1996年のアルバム "wikilink") [Category:TRIADのアルバム](https://ja.wikipedia.org/wiki/Category:TRIADのアルバム "wikilink")

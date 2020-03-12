@@ -1,7 +1,7 @@
 > この記事は[THE MUSEUM](https://ja.wikipedia.org/wiki/THE_MUSEUM)から翻訳されています。
 
 
-『**THE MUSEUM**』（ザ・ミュージアム）は、[水樹奈々](../Page/水樹奈々.md "wikilink")の1枚目の[ベストアルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[2月7日](../Page/2月7日.md "wikilink")に[キングレコードから発売された](https://ja.wikipedia.org/wiki/キングレコードMM制作部 "wikilink")。
+『**THE MUSEUM**』（ザ・ミュージアム）は、[水樹奈々](../Page/水樹奈々.md "wikilink")の1枚目の[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink")に[キングレコードから発売された](https://ja.wikipedia.org/wiki/キングレコードMM制作部 "wikilink")。
 
 ## 概要
 
@@ -21,76 +21,76 @@ CDジャーナルは、「パワフルなヴォーカルが気持ちいい。徹
 
 1.  **[想い](../Page/想い_\(水樹奈々の曲\).md "wikilink")** \[4:34\]
       -
-        作詞：村野直球、作曲：住吉中、編曲：[牧野信博](https://ja.wikipedia.org/wiki/牧野信博 "wikilink")
+        作詞：村野直球、作曲：住吉中、編曲：[牧野信博](../Page/牧野信博.md "wikilink")
     <!-- end list -->
-      - [ドラマCD](https://ja.wikipedia.org/wiki/ドラマCD "wikilink")『[少年進化論](https://ja.wikipedia.org/wiki/少年進化論 "wikilink")』イメージソング
+      - [ドラマCD](../Page/ドラマCD.md "wikilink")『[少年進化論](../Page/少年進化論.md "wikilink")』イメージソング
 2.  **[Heaven Knows](../Page/Heaven_Knows.md "wikilink")** \[4:23\]
       -
         作詞：村野直球、作曲：住吉中、編曲：牧野信博
     <!-- end list -->
-      - [テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[RUN=DIM](https://ja.wikipedia.org/wiki/RUN=DIM "wikilink")』[エンディングテーマ](https://ja.wikipedia.org/wiki/主題歌 "wikilink")
-3.  **[The place of happiness](https://ja.wikipedia.org/wiki/The_place_of_happiness "wikilink")** \[3:43\]
+      - [テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[RUN=DIM](../Page/RUN=DIM.md "wikilink")』[エンディングテーマ](../Page/主題歌.md "wikilink")
+3.  **[The place of happiness](../Page/The_place_of_happiness.md "wikilink")** \[3:43\]
       -
         作詞：村野直球、作曲：住吉中、編曲：牧野信博
     <!-- end list -->
-      - [PS2ゲーム](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[ジェネレーションオブカオス](https://ja.wikipedia.org/wiki/ジェネレーションオブカオス "wikilink")』[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")
-4.  **[LOVE & HISTORY](https://ja.wikipedia.org/wiki/LOVE_&_HISTORY "wikilink")** \[4:32\]
+      - [PS2ゲーム](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[ジェネレーションオブカオス](../Page/ジェネレーションオブカオス.md "wikilink")』[主題歌](../Page/主題歌.md "wikilink")
+4.  **[LOVE & HISTORY](../Page/LOVE_&_HISTORY.md "wikilink")** \[4:32\]
       -
         作詞：村野直球、作曲：住吉中、編曲：牧野信博
     <!-- end list -->
-      - PS2ゲーム『[GENERATION OF CHAOS NEXT](https://ja.wikipedia.org/wiki/ジェネレーションオブカオス "wikilink")』主題歌
-5.  **[POWER GATE](https://ja.wikipedia.org/wiki/POWER_GATE "wikilink")** \[4:32\]
-      - 作詞・作曲・編曲：[矢吹俊郎](https://ja.wikipedia.org/wiki/矢吹俊郎 "wikilink")
+      - PS2ゲーム『[GENERATION OF CHAOS NEXT](../Page/ジェネレーションオブカオス.md "wikilink")』主題歌
+5.  **[POWER GATE](../Page/POWER_GATE.md "wikilink")** \[4:32\]
+      - 作詞・作曲・編曲：[矢吹俊郎](../Page/矢吹俊郎.md "wikilink")
       - [テレビ大阪](../Page/テレビ大阪.md "wikilink")『M-VOICE』エンディングテーマ
 6.  **[suddenly 〜巡り合えて〜](https://ja.wikipedia.org/wiki/suddenly_〜巡り合えて〜/Brilliant_Star "wikilink")** \[4:30\]
       -
         作詞・作曲・編曲：矢吹俊郎
     <!-- end list -->
       - テレビ大阪『M-VOICE』エンディングテーマ
-7.  **[New Sensation](https://ja.wikipedia.org/wiki/New_Sensation "wikilink")** \[4:32\]
+7.  **[New Sensation](../Page/New_Sensation.md "wikilink")** \[4:32\]
       -
         作詞・作曲・編曲：矢吹俊郎
     <!-- end list -->
-      - [尾崎商事](https://ja.wikipedia.org/wiki/菅公学生服 "wikilink")『カンコー学生服』[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
+      - [尾崎商事](../Page/菅公学生服.md "wikilink")『カンコー学生服』[CMソング](../Page/コマーシャルソング.md "wikilink")
 8.  **[still in the groove](https://ja.wikipedia.org/wiki/still_in_the_groove "wikilink")** \[4:28\]
       -
         作詞・作曲・編曲：矢吹俊郎
     <!-- end list -->
-      - [dwango](https://ja.wikipedia.org/wiki/ドワンゴ "wikilink")『[いろメロミックス](https://ja.wikipedia.org/wiki/いろメロミックス "wikilink")』CMソング
-9.  **[パノラマ-Panorama-](https://ja.wikipedia.org/wiki/パノラマ-Panorama- "wikilink")** \[4:29\]
+      - [dwango](../Page/ドワンゴ.md "wikilink")『[いろメロミックス](https://ja.wikipedia.org/wiki/いろメロミックス "wikilink")』CMソング
+9.  **[パノラマ-Panorama-](../Page/パノラマ-Panorama-.md "wikilink")** \[4:29\]
       -
-        作詞：水樹奈々、作曲：[本間昭光](https://ja.wikipedia.org/wiki/本間昭光 "wikilink")、編曲：本間昭光・[大平勉](https://ja.wikipedia.org/wiki/大平勉 "wikilink")
+        作詞：水樹奈々、作曲：[本間昭光](../Page/本間昭光.md "wikilink")、編曲：本間昭光・[大平勉](../Page/大平勉.md "wikilink")
     <!-- end list -->
-      - PS2用ゲームソフト『[ロスト・アヤ・ソフィア](https://ja.wikipedia.org/wiki/ロスト・アヤ・ソフィア "wikilink")』[オープニングテーマ](https://ja.wikipedia.org/wiki/主題歌 "wikilink")
+      - PS2用ゲームソフト『[ロスト・アヤ・ソフィア](https://ja.wikipedia.org/wiki/ロスト・アヤ・ソフィア "wikilink")』[オープニングテーマ](../Page/主題歌.md "wikilink")
 10. **[innocent starter](https://ja.wikipedia.org/wiki/innocent_starter "wikilink")** \[4:39\]
       -
-        作詞：水樹奈々、作曲・編曲：[大平勉](https://ja.wikipedia.org/wiki/大平勉 "wikilink")
+        作詞：水樹奈々、作曲・編曲：[大平勉](../Page/大平勉.md "wikilink")
     <!-- end list -->
-      - テレビアニメ『[魔法少女リリカルなのは](https://ja.wikipedia.org/wiki/魔法少女リリカルなのは "wikilink")』オープニングテーマ
-11. **[WILD EYES](https://ja.wikipedia.org/wiki/WILD_EYES "wikilink")** \[4:09\]
+      - テレビアニメ『[魔法少女リリカルなのは](../Page/魔法少女リリカルなのは.md "wikilink")』オープニングテーマ
+11. **[WILD EYES](../Page/WILD_EYES.md "wikilink")** \[4:09\]
       -
         作詞：水樹奈々、作曲・編曲：[飯田高広](https://ja.wikipedia.org/wiki/飯田高広 "wikilink")
     <!-- end list -->
-      - テレビアニメ『[バジリスク 〜甲賀忍法帖〜](https://ja.wikipedia.org/wiki/バジリスク_〜甲賀忍法帖〜 "wikilink")』エンディングテーマ
-12. **[ETERNAL BLAZE](https://ja.wikipedia.org/wiki/ETERNAL_BLAZE "wikilink")** \[5:06\]
+      - テレビアニメ『[バジリスク 〜甲賀忍法帖〜](../Page/バジリスク_〜甲賀忍法帖〜.md "wikilink")』エンディングテーマ
+12. **[ETERNAL BLAZE](../Page/ETERNAL_BLAZE.md "wikilink")** \[5:06\]
       -
-        作詞：水樹奈々、作曲・編曲：[上松範康](https://ja.wikipedia.org/wiki/上松範康 "wikilink")（[Elements Garden](https://ja.wikipedia.org/wiki/Elements_Garden "wikilink")）
+        作詞：水樹奈々、作曲・編曲：[上松範康](../Page/上松範康.md "wikilink")（[Elements Garden](../Page/Elements_Garden.md "wikilink")）
     <!-- end list -->
       - テレビアニメ『[魔法少女リリカルなのはA's](https://ja.wikipedia.org/wiki/魔法少女リリカルなのはA's "wikilink")』オープニングテーマ
-13. **[SUPER GENERATION](https://ja.wikipedia.org/wiki/SUPER_GENERATION "wikilink")** \[4:54\]
+13. **[SUPER GENERATION](../Page/SUPER_GENERATION.md "wikilink")** \[4:54\]
       -
-        作詞・作曲：水樹奈々、編曲：[藤田淳平](https://ja.wikipedia.org/wiki/藤田淳平 "wikilink")（Elements Garden）
+        作詞・作曲：水樹奈々、編曲：[藤田淳平](../Page/藤田淳平.md "wikilink")（Elements Garden）
     <!-- end list -->
-      - [テレビ朝日系列](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")『[やぐちひとり](https://ja.wikipedia.org/wiki/やぐちひとり "wikilink")』エンディングテーマ
+      - [テレビ朝日系列](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")『[やぐちひとり](../Page/やぐちひとり.md "wikilink")』エンディングテーマ
 14. **[Justice to Believe](https://ja.wikipedia.org/wiki/Justice_to_Believe/アオイイロ "wikilink") （MUSEUM STYLE）** \[7:10\]
       -
         作詞：水樹奈々、作曲・編曲：上松範康（Elements Garden）
 15. **Crystal Letter** \[5:02\] - 新曲
       -
-        作詞：[HIBIKI](https://ja.wikipedia.org/wiki/Hibiki "wikilink")、作曲：[藤末樹](https://ja.wikipedia.org/wiki/藤末樹 "wikilink")、編曲：[藤間仁](https://ja.wikipedia.org/wiki/藤間仁 "wikilink")（Elements Garden）
-        [PVは全てスタジオで撮影され](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、[人工雪](https://ja.wikipedia.org/wiki/人工雪 "wikilink")を降らせる等の試みが行われた\[3\]。
+        作詞：[HIBIKI](https://ja.wikipedia.org/wiki/Hibiki "wikilink")、作曲：[藤末樹](https://ja.wikipedia.org/wiki/藤末樹 "wikilink")、編曲：[藤間仁](../Page/藤間仁.md "wikilink")（Elements Garden）
+        [PVは全てスタジオで撮影され](../Page/ミュージック・ビデオ.md "wikilink")、[人工雪](https://ja.wikipedia.org/wiki/人工雪 "wikilink")を降らせる等の試みが行われた\[3\]。
     <!-- end list -->
-      - PS2用ゲームソフト『[WILD ARMS the Vth Vanguard](https://ja.wikipedia.org/wiki/ワイルドアームズ_ザ_フィフスヴァンガード "wikilink")』エンディングテーマ
+      - PS2用ゲームソフト『[WILD ARMS the Vth Vanguard](../Page/ワイルドアームズ_ザ_フィフスヴァンガード.md "wikilink")』エンディングテーマ
 16. **[TRANSMIGRATION](https://ja.wikipedia.org/wiki/supersonic_girl "wikilink") 2007** \[5:04\]
       -
         作詞：[奥井雅美](../Page/奥井雅美.md "wikilink")、作曲・編曲：矢吹俊郎
@@ -201,7 +201,7 @@ CDジャーナルは、「パワフルなヴォーカルが気持ちいい。徹
 
   - symth programming & key boards:akimitsu homma,tsutomu ohira
   - guitar:naoki hayashibe
-  - guitar solo:[itaru watanabe](https://ja.wikipedia.org/wiki/渡辺格_\(ミュージシャン\) "wikilink")
+  - guitar solo:[itaru watanabe](../Page/渡辺格_\(ミュージシャン\).md "wikilink")
   - chorus:masami okui,nana mizuki
 
 <!-- end list -->

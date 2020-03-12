@@ -5,7 +5,7 @@
 
 ## 解説
 
-前作「[紅](../Page/紅_\(Xの曲\).md "wikilink")」に続き、メジャー・デビュー・アルバム『[BLUE BLOOD](https://ja.wikipedia.org/wiki/BLUE_BLOOD "wikilink")』からのリカット・シングル。
+前作「[紅](../Page/紅_\(Xの曲\).md "wikilink")」に続き、メジャー・デビュー・アルバム『[BLUE BLOOD](../Page/BLUE_BLOOD.md "wikilink")』からのリカット・シングル。
 
 ライブではほぼ必ず演奏され、ファンとの合唱が行われる。
 
@@ -29,22 +29,22 @@
 ## 収録アルバム
 
   - **\#1**
-      - [BLUE BLOOD](https://ja.wikipedia.org/wiki/BLUE_BLOOD "wikilink")（スタジオアルバム、\#6）
-      - [X SINGLES](https://ja.wikipedia.org/wiki/X_SINGLES "wikilink")（ベストアルバム、\#3）
-      - [B.O.X 〜Best of X〜](https://ja.wikipedia.org/wiki/B.O.X_〜Best_of_X〜 "wikilink")（ベストアルバム、\#6）
-      - [BALLAD COLLECTION](https://ja.wikipedia.org/wiki/BALLAD_COLLECTION_\(X_JAPANのアルバム\) "wikilink")（ベストアルバム、\#3）
-      - [STAR BOX](https://ja.wikipedia.org/wiki/STAR_BOX_\(Xのアルバム\) "wikilink")（ベストアルバム、\#4）
+      - [BLUE BLOOD](../Page/BLUE_BLOOD.md "wikilink")（スタジオアルバム、\#6）
+      - [X SINGLES](../Page/X_SINGLES.md "wikilink")（ベストアルバム、\#3）
+      - [B.O.X 〜Best of X〜](../Page/B.O.X_〜Best_of_X〜.md "wikilink")（ベストアルバム、\#6）
+      - [BALLAD COLLECTION](../Page/BALLAD_COLLECTION_\(X_JAPANのアルバム\).md "wikilink")（ベストアルバム、\#3）
+      - [STAR BOX](../Page/STAR_BOX_\(Xのアルバム\).md "wikilink")（ベストアルバム、\#4）
       - [X JAPAN BEST 〜FAN'S SELECTION〜](../Page/X_JAPAN_BEST_〜FAN'S_SELECTION〜.md "wikilink")（ベストアルバム、\#3）
   - **\#2**
-      - [X SINGLES](https://ja.wikipedia.org/wiki/X_SINGLES "wikilink")（ベストアルバム、\#4）
+      - [X SINGLES](../Page/X_SINGLES.md "wikilink")（ベストアルバム、\#4）
 
 ## カバー
 
-日本のシンガーソングライター・[アンジェラ・アキ](https://ja.wikipedia.org/wiki/アンジェラ・アキ "wikilink")や、香港の歌手[アーロン・クォック](https://ja.wikipedia.org/wiki/アーロン・クォック "wikilink")、韓国の歌手[キム・ジョングクのコンサートでカバーされた](https://ja.wikipedia.org/wiki/キム・ジョングク_\(歌手\) "wikilink")。
+日本のシンガーソングライター・[アンジェラ・アキ](https://ja.wikipedia.org/wiki/アンジェラ・アキ "wikilink")や、香港の歌手[アーロン・クォック](https://ja.wikipedia.org/wiki/アーロン・クォック "wikilink")、韓国の歌手[キム・ジョングクのコンサートでカバーされた](../Page/キム・ジョングク_\(歌手\).md "wikilink")。
 
 2007年、[ガンズ・アンド・ローゼズ](https://ja.wikipedia.org/wiki/ガンズ・アンド・ローゼズ "wikilink")の来日公演にて、[ギタリスト](../Page/ギタリスト.md "wikilink")の[リチャード・フォータス](https://ja.wikipedia.org/wiki/リチャード・フォータス "wikilink")が、ソロ・コーナーでサビを演奏した。
 
-2008年に、[中村あゆみ](https://ja.wikipedia.org/wiki/中村あゆみ "wikilink")がアルバム『[VOICE](https://ja.wikipedia.org/wiki/VOICE_\(中村あゆみのアルバム\) "wikilink")』でカバーした。
+2008年に、[中村あゆみ](../Page/中村あゆみ.md "wikilink")がアルバム『[VOICE](https://ja.wikipedia.org/wiki/VOICE_\(中村あゆみのアルバム\) "wikilink")』でカバーした。
 
 ## 脚注
 

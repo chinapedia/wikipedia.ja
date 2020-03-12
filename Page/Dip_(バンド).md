@@ -1,15 +1,15 @@
 > この記事は[Dip \(\)](https://ja.wikipedia.org/wiki/Dip_\(\))から翻訳されています。
 
 
-**dip**（ディップ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[サイケデリック・ロック](https://ja.wikipedia.org/wiki/サイケデリック・ロック "wikilink")[バンド](https://ja.wikipedia.org/wiki/音楽バンド "wikilink")。
+**dip**（ディップ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[サイケデリック・ロック](../Page/サイケデリック・ロック.md "wikilink")[バンド](https://ja.wikipedia.org/wiki/音楽バンド "wikilink")。
 
 ## 概要
 
-[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")、[ヤマジカズヒデ](https://ja.wikipedia.org/wiki/ヤマジカズヒデ "wikilink")を中心に結成。前身は[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")から活動していたDIP THE FLAG。[1993年](../Page/1993年.md "wikilink")7月のファースト・アルバム『dip』はインディーズ・チャートで1位を獲得。同年12月にシングル「冷たいくらいに乾いたら」で[東芝EMIからメジャーデビューし](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")、数枚のアルバムを残す。中でも、サード・アルバム『love to sleep』は「[ぴあ](https://ja.wikipedia.org/wiki/ぴあ "wikilink")」の「90年代の名盤100」に選出されている。また、[豊田利晃](../Page/豊田利晃.md "wikilink")監督の映画『[ポルノスター](https://ja.wikipedia.org/wiki/ポルノスター "wikilink")』（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")公開）と『[ナイン・ソウルズ](../Page/ナイン・ソウルズ.md "wikilink")』（[2003年](../Page/2003年.md "wikilink")公開）ではサウンドトラックを担当している。
+[1991年](../Page/1991年.md "wikilink")、[ヤマジカズヒデ](../Page/ヤマジカズヒデ.md "wikilink")を中心に結成。前身は[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")から活動していたDIP THE FLAG。[1993年](../Page/1993年.md "wikilink")7月のファースト・アルバム『dip』はインディーズ・チャートで1位を獲得。同年12月にシングル「冷たいくらいに乾いたら」で[東芝EMIからメジャーデビューし](../Page/EMIミュージック・ジャパン.md "wikilink")、数枚のアルバムを残す。中でも、サード・アルバム『love to sleep』は「[ぴあ](../Page/ぴあ.md "wikilink")」の「90年代の名盤100」に選出されている。また、[豊田利晃](../Page/豊田利晃.md "wikilink")監督の映画『[ポルノスター](https://ja.wikipedia.org/wiki/ポルノスター "wikilink")』（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")公開）と『[ナイン・ソウルズ](../Page/ナイン・ソウルズ.md "wikilink")』（[2003年](../Page/2003年.md "wikilink")公開）ではサウンドトラックを担当している。
 
 ## メンバー
 
-  - [ヤマジカズヒデ](https://ja.wikipedia.org/wiki/ヤマジカズヒデ "wikilink")（[1966年](../Page/1966年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink") - ）：ボーカル、ギター
+  - [ヤマジカズヒデ](../Page/ヤマジカズヒデ.md "wikilink")（[1966年](../Page/1966年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink") - ）：ボーカル、ギター
 
 <!-- end list -->
 

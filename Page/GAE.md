@@ -1,7 +1,7 @@
 > この記事は[GAE](https://ja.wikipedia.org/wiki/GAE)から翻訳されています。
 
 
-**株式会社GAE**は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[武蔵野市](../Page/武蔵野市.md "wikilink")に本社を置く[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の企業。[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")の企画・制作・販売などを主業務とする。
+**株式会社GAE**は、[東京都](../Page/東京都.md "wikilink")[武蔵野市](../Page/武蔵野市.md "wikilink")に本社を置く[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の企業。[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")の企画・制作・販売などを主業務とする。
 
 旧社名は**株式会社グローバル・A・エンタテインメント**で、社名をよりわかりやすくするため、[2009年](../Page/2009年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")に商号変更した。
 
@@ -9,9 +9,9 @@
 
 ## 主な開発タイトル
 
-  - [悪代官シリーズ](https://ja.wikipedia.org/wiki/悪代官_\(ゲーム\) "wikilink")
+  - [悪代官シリーズ](../Page/悪代官_\(ゲーム\).md "wikilink")
   - 冒険\!ドンドコ島
-  - [クロニクル オブ ダンジョンメーカー](https://ja.wikipedia.org/wiki/クロニクル_オブ_ダンジョンメーカー "wikilink")
+  - [クロニクル オブ ダンジョンメーカー](../Page/クロニクル_オブ_ダンジョンメーカー.md "wikilink")
   - タムタム・パラダイス
   - 信長戦記
   - [大奥記](https://ja.wikipedia.org/wiki/大奥記 "wikilink")（開発：有限会社ダフト）
@@ -27,15 +27,15 @@
   - くるりんドーナツお菓子なレシピ
   - 「知識王」シリーズ
       - [「知識王」シリーズ トレインマスター](https://ja.wikipedia.org/wiki/「知識王」シリーズ_トレインマスター "wikilink")
-  - [世界はあたしでまわってる](https://ja.wikipedia.org/wiki/世界はあたしでまわってる "wikilink")
+  - [世界はあたしでまわってる](../Page/世界はあたしでまわってる.md "wikilink")
       - [世界はあたしでまわってる 光と闇のプリンセス](https://ja.wikipedia.org/wiki/世界はあたしでまわってる_光と闇のプリンセス "wikilink")
   - [注文しようぜ\!俺たちの世界](https://ja.wikipedia.org/wiki/注文しようぜ!俺たちの世界 "wikilink")
-  - 「[コスメちっく☆パラダイス](https://ja.wikipedia.org/wiki/コスメちっく☆パラダイス "wikilink")」シリーズ
+  - 「[コスメちっく☆パラダイス](../Page/コスメちっく☆パラダイス.md "wikilink")」シリーズ
       - コスメちっく☆パラダイス
       - コスメちっく☆パラダイス 〜メイクのキセキ〜
       - [コスメちっく☆パラダイス 〜キレイのマホウ〜](https://ja.wikipedia.org/wiki/コスメちっく☆パラダイス_〜キレイのマホウ〜 "wikilink")
   - [びっくり\! とびだす\! 魔法のペン](https://ja.wikipedia.org/wiki/びっくり!_とびだす!_魔法のペン "wikilink")
-  - [幻想水滸伝 紡がれし百年の時](https://ja.wikipedia.org/wiki/幻想水滸伝_紡がれし百年の時 "wikilink")（発売：[コナミデジタルエンタテインメント](https://ja.wikipedia.org/wiki/コナミデジタルエンタテインメント "wikilink")）
+  - [幻想水滸伝 紡がれし百年の時](https://ja.wikipedia.org/wiki/幻想水滸伝_紡がれし百年の時 "wikilink")（発売：[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")）
 
 ## 脚注
 

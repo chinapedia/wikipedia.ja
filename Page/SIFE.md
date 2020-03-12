@@ -11,26 +11,26 @@ SIFE 2012 World Cup のオープニングセレモニーで**Enactus**（Entrepe
 
 ### 第1回国内大会
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月6日](../Page/7月6日.md "wikilink")、[浜離宮朝日ホール](https://ja.wikipedia.org/wiki/浜離宮朝日ホール "wikilink")を会場に、日本国内7大学が参加して第1回国内大会が行われた。結果は以下。
+[2005年](../Page/2005年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink")、[浜離宮朝日ホール](https://ja.wikipedia.org/wiki/浜離宮朝日ホール "wikilink")を会場に、日本国内7大学が参加して第1回国内大会が行われた。結果は以下。
 
-  - 優勝校 - [高崎経済大学](https://ja.wikipedia.org/wiki/高崎経済大学 "wikilink")
+  - 優勝校 - [高崎経済大学](../Page/高崎経済大学.md "wikilink")
   - 準優勝校 - [慶應義塾大学](https://ja.wikipedia.org/wiki/慶應義塾大学 "wikilink")
 
 ### 第2回国内大会
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[5月30日](../Page/5月30日.md "wikilink")、有楽町朝日ホールを会場に、日本国内9大学が参加して第2回国内大会が行われた。結果は以下。
+[2006年](../Page/2006年.md "wikilink")[5月30日](../Page/5月30日.md "wikilink")、有楽町朝日ホールを会場に、日本国内9大学が参加して第2回国内大会が行われた。結果は以下。
 
-  - 優勝校 - [高崎経済大学](https://ja.wikipedia.org/wiki/高崎経済大学 "wikilink")
+  - 優勝校 - [高崎経済大学](../Page/高崎経済大学.md "wikilink")
   - 準優勝校 - [滋賀大学](../Page/滋賀大学.md "wikilink")
-  - SPIRITS of SIFE- [高千穂大学](https://ja.wikipedia.org/wiki/高千穂大学 "wikilink")
+  - SPIRITS of SIFE- [高千穂大学](../Page/高千穂大学.md "wikilink")
 
 ### 第3回国内大会
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[6月29日](../Page/6月29日.md "wikilink")、有楽町朝日ホールを会場に、日本国内9大学が参加して第3回国内大会が行われた。結果は以下。
+[2007年](../Page/2007年.md "wikilink")[6月29日](../Page/6月29日.md "wikilink")、有楽町朝日ホールを会場に、日本国内9大学が参加して第3回国内大会が行われた。結果は以下。
 
   - 優勝校 - [滋賀大学](../Page/滋賀大学.md "wikilink")
-  - 準優勝校 - [一橋大学](https://ja.wikipedia.org/wiki/一橋大学 "wikilink")
-  - SPIRITS of SIFE- [高千穂大学](https://ja.wikipedia.org/wiki/高千穂大学 "wikilink")
+  - 準優勝校 - [一橋大学](../Page/一橋大学.md "wikilink")
+  - SPIRITS of SIFE- [高千穂大学](../Page/高千穂大学.md "wikilink")
 
 ### 第4回国内大会
 
@@ -43,9 +43,9 @@ SIFE 2012 World Cup のオープニングセレモニーで**Enactus**（Entrepe
 
 ### 第5回国内大会
 
-[2009年](../Page/2009年.md "wikilink")[7月3日](https://ja.wikipedia.org/wiki/7月3日 "wikilink")に予選が国立青少年記念オリンピックセンターで、[7月4日](../Page/7月4日.md "wikilink")決勝大会が笹川記念館でおこなわれた。日本国内15大学が参加。
+[2009年](../Page/2009年.md "wikilink")[7月3日](../Page/7月3日.md "wikilink")に予選が国立青少年記念オリンピックセンターで、[7月4日](../Page/7月4日.md "wikilink")決勝大会が笹川記念館でおこなわれた。日本国内15大学が参加。
 
-  - 優勝校 - [関西学院大学](https://ja.wikipedia.org/wiki/関西学院大学 "wikilink")
+  - 優勝校 - [関西学院大学](../Page/関西学院大学.md "wikilink")
   - 準優勝校 - [滋賀県立大学](../Page/滋賀県立大学.md "wikilink")
   - ROOKIE AWARD- [滋賀県立大学](../Page/滋賀県立大学.md "wikilink")
   - ファカルティアドバイザーアワードbyKPMG　-　金泰旭（[広島市立大学](../Page/広島市立大学.md "wikilink")准教授）
@@ -58,12 +58,12 @@ SIFE 2012 World Cup のオープニングセレモニーで**Enactus**（Entrepe
 
 ### 第6回国内大会
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[7月2日](../Page/7月2日.md "wikilink")に予選が、[7月3日](https://ja.wikipedia.org/wiki/7月3日 "wikilink")に決勝大会が国立青少年記念オリンピックセンターでおこなわれた。日本国内14大学が参加。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[7月2日](../Page/7月2日.md "wikilink")に予選が、[7月3日](../Page/7月3日.md "wikilink")に決勝大会が国立青少年記念オリンピックセンターでおこなわれた。日本国内14大学が参加。
 
   - 優勝校 - [滋賀大学](../Page/滋賀大学.md "wikilink")
-  - 準優勝校 - [神戸芸術工科大学](https://ja.wikipedia.org/wiki/神戸芸術工科大学 "wikilink")
+  - 準優勝校 - [神戸芸術工科大学](../Page/神戸芸術工科大学.md "wikilink")
   - ROOKIE AWARD- [琉球大学](../Page/琉球大学.md "wikilink")
-  - ファカルティアドバイザーアワードbyKPMG　-　柊伸江（[神戸芸術工科大学](https://ja.wikipedia.org/wiki/神戸芸術工科大学 "wikilink")研究員）
+  - ファカルティアドバイザーアワードbyKPMG　-　柊伸江（[神戸芸術工科大学](../Page/神戸芸術工科大学.md "wikilink")研究員）
 
 <!-- end list -->
 

@@ -30,10 +30,10 @@ NBH長官
 
   - ナジ・ラヨシュ（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月1日](../Page/3月1日.md "wikilink") - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[9月9日](../Page/9月9日.md "wikilink")）
   - シモン・シャーンドル博士（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[9月10日](../Page/9月10日.md "wikilink") - [1994年](../Page/1994年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink")）
-  - ヴィドゥシュ・ティボル（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink") - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月31日](../Page/10月31日.md "wikilink")）
+  - ヴィドゥシュ・ティボル（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[1月1日](../Page/1月1日.md "wikilink") - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月31日](../Page/10月31日.md "wikilink")）
   - ドボカイ・ガーボル（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[11月1日](../Page/11月1日.md "wikilink") - [2002年](../Page/2002年.md "wikilink")[6月6日](../Page/6月6日.md "wikilink")）
-  - ジョハール・イシュトヴァーン博士（[2002年](../Page/2002年.md "wikilink")[7月15日](../Page/7月15日.md "wikilink") - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[7月27日](../Page/7月27日.md "wikilink")）
-  - ガランボシュ・ラヨシュ博士（[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[7月27日](../Page/7月27日.md "wikilink") - 現在）
+  - ジョハール・イシュトヴァーン博士（[2002年](../Page/2002年.md "wikilink")[7月15日](../Page/7月15日.md "wikilink") - [2004年](../Page/2004年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink")）
+  - ガランボシュ・ラヨシュ博士（[2004年](../Page/2004年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink") - 現在）
 
 ## 関連事項
 

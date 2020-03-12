@@ -11,7 +11,7 @@
 
   - RAY - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。
   - KEIICHI - [ギター](../Page/ギター.md "wikilink")担当。
-  - CHRIS - [ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。
+  - CHRIS - [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。
   - [LEON](https://ja.wikipedia.org/wiki/LEON_\(ドラマー\) "wikilink") - [ドラムス担当](../Page/ドラムセット.md "wikilink")。
 
 ## 作品
@@ -27,11 +27,11 @@
 
 ## 全日本プロドリフト選手権との関係
 
-[全日本プロドリフト選手権](https://ja.wikipedia.org/wiki/全日本プロドリフト選手権 "wikilink")からテーマソングタイアップへの打診があり、その後全日本プロドリフト選手権と結びつきが深くなり、全日本プロドリフト選手権の発展と共に8-BALLの知名度も上がっていった。なお、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に[ドラムのLEONが本名](../Page/ドラムセット.md "wikilink")(**比嘉礼音**)で[180SXに乗り](../Page/日産・180SX.md "wikilink")[D1ストリートリーガル](https://ja.wikipedia.org/wiki/D1ストリートリーガル "wikilink")に2回出場している。
+[全日本プロドリフト選手権](../Page/全日本プロドリフト選手権.md "wikilink")からテーマソングタイアップへの打診があり、その後全日本プロドリフト選手権と結びつきが深くなり、全日本プロドリフト選手権の発展と共に8-BALLの知名度も上がっていった。なお、[2006年](../Page/2006年.md "wikilink")に[ドラムのLEONが本名](../Page/ドラムセット.md "wikilink")(**比嘉礼音**)で[180SXに乗り](../Page/日産・180SX.md "wikilink")[D1ストリートリーガル](../Page/D1ストリートリーガル.md "wikilink")に2回出場している。
 
 ## 関連項目
 
-  - [全日本プロドリフト選手権](https://ja.wikipedia.org/wiki/全日本プロドリフト選手権 "wikilink")
+  - [全日本プロドリフト選手権](../Page/全日本プロドリフト選手権.md "wikilink")
   - [m.o.v.e](https://ja.wikipedia.org/wiki/m.o.v.e "wikilink")
 
 ## 外部リンク

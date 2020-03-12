@@ -1,21 +1,21 @@
 > この記事は[FUNFAIR](https://ja.wikipedia.org/wiki/FUNFAIR)から翻訳されています。
 
 
-『**FUNFAIR**』（ファンフェア）は、[RIP SLYMEの](https://ja.wikipedia.org/wiki/RIP_SLYME "wikilink")6枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。[2007年](../Page/2007年.md "wikilink")[11月28日](../Page/11月28日.md "wikilink")に、[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")から発売された。
+『**FUNFAIR**』（ファンフェア）は、[RIP SLYMEの](../Page/RIP_SLYME.md "wikilink")6枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[11月28日](../Page/11月28日.md "wikilink")に、[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")から発売された。
 
 ## 概要
 
-前作『[EPOCH](https://ja.wikipedia.org/wiki/EPOCH "wikilink")』からほぼ1年ぶりのオリジナルアルバム。
+前作『[EPOCH](../Page/EPOCH.md "wikilink")』からほぼ1年ぶりのオリジナルアルバム。
 
-本作の先行シングルである「[SPEED KING](../Page/SPEED_KING_\(曲\).md "wikilink")」と同じく、ジャケットには骸骨が写っているが、「SPEED KING」とは左右が逆になっており、様々なイラストが集まって骸骨を形成しているようなものになっている。なお、このイラストは「SPEED KING」の[PVの背景に登場しているものである](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。また、イラストの中に緑色で「R」「I」「P」の文字が隠れている。
+本作の先行シングルである「[SPEED KING](../Page/SPEED_KING_\(曲\).md "wikilink")」と同じく、ジャケットには骸骨が写っているが、「SPEED KING」とは左右が逆になっており、様々なイラストが集まって骸骨を形成しているようなものになっている。なお、このイラストは「SPEED KING」の[PVの背景に登場しているものである](../Page/ミュージック・ビデオ.md "wikilink")。また、イラストの中に緑色で「R」「I」「P」の文字が隠れている。
 
-初動売上は前作から減少したものの、『[グッジョブ\!](https://ja.wikipedia.org/wiki/グッジョブ!_\(アルバム\) "wikilink")』以来約2年3か月ぶり、オリジナルアルバムに限れば『[MASTERPIECE](https://ja.wikipedia.org/wiki/MASTERPIECE_\(RIP_SLYMEのアルバム\) "wikilink")』以来約3年1か月ぶりに[オリコンアルバムチャートトップ](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")3入りを記録した。なお、累計売上では前作を上回っている。
+初動売上は前作から減少したものの、『[グッジョブ\!](../Page/グッジョブ!_\(アルバム\).md "wikilink")』以来約2年3か月ぶり、オリジナルアルバムに限れば『[MASTERPIECE](../Page/MASTERPIECE_\(RIP_SLYMEのアルバム\).md "wikilink")』以来約3年1か月ぶりに[オリコンアルバムチャートトップ](../Page/オリコンチャート.md "wikilink")3入りを記録した。なお、累計売上では前作を上回っている。
 
-初回盤のみ特典ステッカー封入、100枚に1枚のスペシャルプレゼント用シール付き、[CM曲を務めた](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")[マクドナルド](../Page/マクドナルド.md "wikilink")「McWrap」クーポン券付きの金箔押し3面デジパック仕様。また、「SPEED KING」が「Wrap SLYME」キャンペーンCM曲に選出されたこともあり、マクドナルドの携帯サイトで応募した中から抽選で500人に本作のマクドナルドオリジナルバージョンの[コラボ記念ジャケット](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")[CDが当たるキャンペーンが実施された](https://ja.wikipedia.org/wiki/コンパクト・ディスク "wikilink")。
+初回盤のみ特典ステッカー封入、100枚に1枚のスペシャルプレゼント用シール付き、[CM曲を務めた](../Page/コマーシャルソング.md "wikilink")[マクドナルド](../Page/マクドナルド.md "wikilink")「McWrap」クーポン券付きの金箔押し3面デジパック仕様。また、「SPEED KING」が「Wrap SLYME」キャンペーンCM曲に選出されたこともあり、マクドナルドの携帯サイトで応募した中から抽選で500人に本作のマクドナルドオリジナルバージョンの[コラボ記念ジャケット](../Page/コラボレーション.md "wikilink")[CDが当たるキャンペーンが実施された](https://ja.wikipedia.org/wiki/コンパクト・ディスク "wikilink")。
 
 ## 制作に関して
 
-本作の制作は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に「I・N・G」、[11月](../Page/11月.md "wikilink")に「[熱帯夜](../Page/熱帯夜_\(RIP_SLYMEの曲\).md "wikilink")」、[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")に「Tales」がそれぞれ完成し、2007年に入った時点で既に3曲が出来上がっていたため、2007年[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")頃と早期から取り掛かり始めた\[1\]。また、早い段階で本作のテーマが「遊園地」として決定しており、作る上での指針があったため、作業は早く進行し、2007年夏頃にはほぼ完成していた\[2\]。しかし、詰めの最終作業が長引き、締め切りを可能な限り伸ばしたため、結局完成したのは期限ギリギリとなった\[3\]。
+本作の制作は、[2006年](../Page/2006年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に「I・N・G」、[11月](../Page/11月.md "wikilink")に「[熱帯夜](../Page/熱帯夜_\(RIP_SLYMEの曲\).md "wikilink")」、[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")に「Tales」がそれぞれ完成し、2007年に入った時点で既に3曲が出来上がっていたため、2007年[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")頃と早期から取り掛かり始めた\[1\]。また、早い段階で本作のテーマが「遊園地」として決定しており、作る上での指針があったため、作業は早く進行し、2007年夏頃にはほぼ完成していた\[2\]。しかし、詰めの最終作業が長引き、締め切りを可能な限り伸ばしたため、結局完成したのは期限ギリギリとなった\[3\]。
 
 気づいた人に気づいたことを任せ、任せたことに関しては根拠の無い反論を一切しない、という暗黙のルールがあり\[4\]、その結果、良い感じでメンバー個々の分担作業が進み、個人個人にゆとりができたという\[5\]。
 
@@ -31,7 +31,7 @@
 
 本作について[PES](../Page/PES.md "wikilink")は「もちろん、やるべきところではやってますけど、あんまり考えず、好きなように作って、ラップも別にやらなくても良いかな」と考えたらしく\[18\]、また、RYO-Zはラップは[韻を踏むものか](../Page/押韻.md "wikilink")、そうでなくてもいいのかという質問に対して「気持ちよければ、どっちでも良いと思いますけどね。あとは趣味ですよね。韻を踏んで気持ち良いならそれでも良いと思うし、そうしなくても聴かせられるなら、もっと何を伝えるのかっていう内容に重きを置いても良いんだろうし。俺はリズムに乗っかって、言葉をパーカッシヴに発していくのが楽しいんですけど、全然どっちもありだと思いますね」と語っており、あまり韻を踏む・踏まないはこだわっていないという\[19\]。
 
-シングル曲はRIP SLYMEのオリジナルアルバムとしては最少の2曲のみの収録だが、当初CD化未定とされていた「I・N・G」「Tales」が収録されたため、本作初出の「Remember」と合わせ、[タイアップ](https://ja.wikipedia.org/wiki/タイアップ "wikilink")曲は最多の5曲に及ぶ。なお、「I・N・G」「Tales」にはアルバム曲としては『グッジョブ\!』収録の「UNDER THE SUN」以来となるPVが製作されており、いずれもPVの一部がそのまま[CMの映像に使用されている](../Page/コマーシャルメッセージ.md "wikilink")。
+シングル曲はRIP SLYMEのオリジナルアルバムとしては最少の2曲のみの収録だが、当初CD化未定とされていた「I・N・G」「Tales」が収録されたため、本作初出の「Remember」と合わせ、[タイアップ](../Page/タイアップ.md "wikilink")曲は最多の5曲に及ぶ。なお、「I・N・G」「Tales」にはアルバム曲としては『グッジョブ\!』収録の「UNDER THE SUN」以来となるPVが製作されており、いずれもPVの一部がそのまま[CMの映像に使用されている](../Page/コマーシャルメッセージ.md "wikilink")。
 
 本作の特徴として、メンバーの中から2人ずつ選抜され、[MCを務めている楽曲が収録されており](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")、「残念ボーイ」（[ILMARI](../Page/ILMARI.md "wikilink")とPES）、「EVOLUTION」（RYO-ZとSU）、「Fa-a-ar」（RYO-ZとPES）がそれに該当する。ちなみに、キャスティングはRYO-Zの指示によるものである\[20\]。なお、このような企画を試みた動機として、ILMARIは「ふたりでやったり3人でやったり、今はいろいろやりたい時期なんです」と語っている\[21\]。そのため、メンバー全員が参加している楽曲が全15曲中8曲と少ない。
 
@@ -57,10 +57,10 @@
 
   - Introduction
     （作曲：DJ FUMIYA）
-    [インストゥルメンタル](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")。当初6パターンの楽曲が収録曲候補に挙がっており、その後2パターンに絞られ、最終的に聞きやすさを取ってこの曲に決定された\[22\]。
+    [インストゥルメンタル](../Page/器楽曲.md "wikilink")。当初6パターンの楽曲が収録曲候補に挙がっており、その後2パターンに絞られ、最終的に聞きやすさを取ってこの曲に決定された\[22\]。
   - NP
     （作詞：[RYO-Z](../Page/RYO-Z.md "wikilink"), [ILMARI](../Page/ILMARI.md "wikilink"), [PES](../Page/PES.md "wikilink") and [SU](../Page/SU_\(RIP_SLYME\).md "wikilink")　作曲：PES）
-    タイトルの「NP」は「No Probrem」の略。[ロカビリー](https://ja.wikipedia.org/wiki/ロカビリー "wikilink")テイストな曲調になっているが、作曲したPES曰く、意図的なものではなく、制作の過程で自然になっていったものだという\[23\]。
+    タイトルの「NP」は「No Probrem」の略。[ロカビリー](../Page/ロカビリー.md "wikilink")テイストな曲調になっているが、作曲したPES曰く、意図的なものではなく、制作の過程で自然になっていったものだという\[23\]。
   - Bubble Trouble
     （作詞：RYO-Z, ILMARI, PES and SU　作曲：DJ FUMIYA）
     ILMARI曰く、「本作の核となる曲」で\[24\]、シングル曲と当初から発表されていた「I・N・G」「Tales」を除けば、本作の収録曲の中で最も早く[着うた](../Page/着うた.md "wikilink")として配信された。
@@ -69,7 +69,7 @@
     14枚目のシングル曲。
   - Tales
     （作詞：RYO-Z,ILMARI,PES and SU　作曲：PES）
-    メンバー出演の[東京メトロ](https://ja.wikipedia.org/wiki/東京地下鉄 "wikilink")「TOKYO HEART」CM曲。[宮崎あおい](https://ja.wikipedia.org/wiki/宮崎あおい "wikilink")出演のPVが製作されており、RIP SLYMEのPVに宮崎が出演するのは「[Dandelion](../Page/Dandelion_\(RIP_SLYMEの曲\).md "wikilink")」以来となる。なお、PVの一部がそのままCMの映像に使用されている。CMのために書き下ろした楽曲であり、トラックはPESがCMの[イメージコンテを見て製作した](https://ja.wikipedia.org/wiki/絵コンテ "wikilink")\[25\]。なお、2006年[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")頃には既に完成しており\[26\]、本作の中では、「I・N・G」に次いで2番目に発表が早かった。[iTunes Storeのダウンロードランキングでは](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")3位を記録しており、シングル曲を除けば最も高い順位を記録している。
+    メンバー出演の[東京メトロ](https://ja.wikipedia.org/wiki/東京地下鉄 "wikilink")「TOKYO HEART」CM曲。[宮崎あおい](https://ja.wikipedia.org/wiki/宮崎あおい "wikilink")出演のPVが製作されており、RIP SLYMEのPVに宮崎が出演するのは「[Dandelion](../Page/Dandelion_\(RIP_SLYMEの曲\).md "wikilink")」以来となる。なお、PVの一部がそのままCMの映像に使用されている。CMのために書き下ろした楽曲であり、トラックはPESがCMの[イメージコンテを見て製作した](../Page/絵コンテ.md "wikilink")\[25\]。なお、2006年[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")頃には既に完成しており\[26\]、本作の中では、「I・N・G」に次いで2番目に発表が早かった。[iTunes Storeのダウンロードランキングでは](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")3位を記録しており、シングル曲を除けば最も高い順位を記録している。
   - 残念ボーイ
     （作詞：ILMARI and PES　作曲：Yu-ki Nakamura and ILMARI）
     RIP SLYMEのMCからはILMARIとPESのみ参加。タイトルはRYO-Zが[YOGGY](../Page/YOGGY.md "wikilink")に「残念ボーイ」と言われていたことに由来する\[27\]。PES曰く「すごく書きやすい曲」だったらしく、「RIP SLYMEらしいと思う」と語っている\[28\]。
@@ -78,19 +78,19 @@
     インストゥルメンタル。
   - EVOLUTION（feat.COMA-CHI）
     （作詞：RYO-Z, SU and COMA-CHI　作曲：usus）
-    RIP SLYMEのMCからはRYO-ZとSUのみ参加。[COMA-CHI](../Page/COMA-CHI.md "wikilink")と[フィーチャリング](https://ja.wikipedia.org/wiki/フィーチャリング "wikilink")した楽曲で、RIP SLYMEの楽曲に女性がクレジットされているのは比較的珍しい\[29\]。なお、作曲者のususとはSUのトラックメーカーネームである\[30\]。
+    RIP SLYMEのMCからはRYO-ZとSUのみ参加。[COMA-CHI](../Page/COMA-CHI.md "wikilink")と[フィーチャリング](../Page/フィーチャリング.md "wikilink")した楽曲で、RIP SLYMEの楽曲に女性がクレジットされているのは比較的珍しい\[29\]。なお、作曲者のususとはSUのトラックメーカーネームである\[30\]。
   - Fa-a-ar
     （作詞：RYO-Z and PES　作曲：DJ FUMIYA）
     RIP SLYMEのMCからはRYO-ZとPESのみ参加。RYO-Z曰く「意味のあることは言っていない曲」で、PESは「メジャーアルバムにこんな曲が収録されるなんて奇跡」と語っている\[31\]。
   - I・N・G
     （作詞：RYO-Z, ILMARI, PES and SU　作曲：DJ FUMIYA）
-    メンバー出演の「[MTV](https://ja.wikipedia.org/wiki/MTV "wikilink") presents "RIP style [VAIO](../Page/VAIO.md "wikilink")"」CM曲。PVも製作されており、PVの一部がそのままCMの映像に使用されている。「今、やりたいこと・したいこと」をテーマに、CMのために製作した、[スカ](../Page/スカ.md "wikilink")調の楽曲\[32\]。なお、2006年の「[ブロウ](../Page/ブロウ_\(曲\).md "wikilink")」発売時には既に完成しており\[33\]、本作の中で一番発表が早く、当初は配信限定曲として発表されていた。また、歌詞に「会話しing」「歯磨きing」など、「ing」を付けた造語が多数登場するが、この歌詞についてPESは「韻を踏んでるのか踏んでないのか、よく分からない」と話している\[34\]。
+    メンバー出演の「[MTV](../Page/MTV.md "wikilink") presents "RIP style [VAIO](../Page/VAIO.md "wikilink")"」CM曲。PVも製作されており、PVの一部がそのままCMの映像に使用されている。「今、やりたいこと・したいこと」をテーマに、CMのために製作した、[スカ](../Page/スカ.md "wikilink")調の楽曲\[32\]。なお、2006年の「[ブロウ](../Page/ブロウ_\(曲\).md "wikilink")」発売時には既に完成しており\[33\]、本作の中で一番発表が早く、当初は配信限定曲として発表されていた。また、歌詞に「会話しing」「歯磨きing」など、「ing」を付けた造語が多数登場するが、この歌詞についてPESは「韻を踏んでるのか踏んでないのか、よく分からない」と話している\[34\]。
   - concourse2
     （作曲：DJ FUMIYA）
     インストゥルメンタル。
   - Remember（RIP SLYME with MONGOL800）
     （作詞：RYO-Z, ILMARI, PES, SU and Kiyosaku　作曲：RIP SLYME and MONGOL800）
-    [MONGOL800](../Page/MONGOL800.md "wikilink")との[コラボレーション](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")曲。第86回[高校サッカー選手権応援歌](../Page/全国高等学校サッカー選手権大会.md "wikilink")。元々ILMARIとMONGOL800が[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")の「[MONSTER baSH](../Page/MONSTER_baSH.md "wikilink")」をきっかけに親交を深め、その際にコラボレーションの話が持ち上がり、本作の製作時期に丁度デモテープが出来上がったため、レコーディングに至ったという経緯がある\[35\]。
+    [MONGOL800](../Page/MONGOL800.md "wikilink")との[コラボレーション](../Page/コラボレーション.md "wikilink")曲。第86回[高校サッカー選手権応援歌](../Page/全国高等学校サッカー選手権大会.md "wikilink")。元々ILMARIとMONGOL800が[2005年](../Page/2005年.md "wikilink")の「[MONSTER baSH](../Page/MONSTER_baSH.md "wikilink")」をきっかけに親交を深め、その際にコラボレーションの話が持ち上がり、本作の製作時期に丁度デモテープが出来上がったため、レコーディングに至ったという経緯がある\[35\]。
   - [熱帯夜](../Page/熱帯夜_\(RIP_SLYMEの曲\).md "wikilink")
     （作詞・作曲：Luis Gonzaga, David Nasser Zedantes & Rip Slyme）
     13枚目のシングル曲。シングル版の歌詞カードには掲載されていなかった[顔文字](../Page/顔文字.md "wikilink")がSUのソロパート部分に追加されている。ただし、顔文字は歌唱しないため、歌自体は変わっていない。
@@ -99,7 +99,7 @@
     「Fa-a-ar」と同じく「意味のあることは言っていない曲」で\[36\]、RYO-Zが初めてプロデュースした楽曲\[37\]。トラックメイクをRYO-ZとSONPUBが担当し、RYO-Zは「絶対、SONPUBにカッコイイって言わせてやる\!」と思いながら作業していたという\[38\]。PESは不参加。
   - 流れの中で
     （作詞：RYO-Z, ILMARI, PES and SU　作曲：PES）
-    RYO-Z曰く、曲にラップを乗せていく作業で「かき回した」楽曲。作曲したPES自身も「難しい」と思ったらしく、RYO-Zは[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")でILMARIに「書き直したほうが良いっぽいよ」と聞かされたという。
+    RYO-Z曰く、曲にラップを乗せていく作業で「かき回した」楽曲。作曲したPES自身も「難しい」と思ったらしく、RYO-Zは[ニューヨーク](../Page/ニューヨーク.md "wikilink")でILMARIに「書き直したほうが良いっぽいよ」と聞かされたという。
 
 ## 参加ミュージシャン
 

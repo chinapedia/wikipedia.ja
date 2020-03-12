@@ -1,7 +1,7 @@
 > この記事は[Q-bus](https://ja.wikipedia.org/wiki/Q-bus)から翻訳されています。
 
 
-**Q-bus**(**LSI-11バス**とも呼ばれる)は、[ディジタル・イクイップメント・コーポレーション](../Page/ディジタル・イクイップメント・コーポレーション.md "wikilink")が製造した[PDPシリーズ](../Page/PDPシリーズ.md "wikilink")および[MicroVAXで使用された](https://ja.wikipedia.org/wiki/VAX "wikilink")[バス技術の一種](../Page/バス_\(コンピュータ\).md "wikilink")。
+**Q-bus**(**LSI-11バス**とも呼ばれる)は、[ディジタル・イクイップメント・コーポレーション](../Page/ディジタル・イクイップメント・コーポレーション.md "wikilink")が製造した[PDPシリーズ](../Page/PDPシリーズ.md "wikilink")および[MicroVAXで使用された](../Page/VAX.md "wikilink")[バス技術の一種](../Page/バス_\(コンピュータ\).md "wikilink")。
 
 Q-bus は[Unibus](../Page/Unibus.md "wikilink")のアドレス信号線とデータ信号線を重ね合わせることで共有し、低価格化したものである。これにより物理的にも小さくなり、基本的に同一の機能を低価格で実現した。
 

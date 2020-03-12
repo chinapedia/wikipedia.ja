@@ -1,7 +1,7 @@
 > この記事は[Unibus](https://ja.wikipedia.org/wiki/Unibus)から翻訳されています。
 
 
-[Unibus.jpg](https://ja.wikipedia.org/wiki/File:Unibus.jpg "fig:Unibus.jpg")（左）とUnibus対応基板\]\] **Unibus**(ユニバス)は、[ディジタル・イクイップメント・コーポレーション](../Page/ディジタル・イクイップメント・コーポレーション.md "wikilink")が製造した[PDP-11](../Page/PDP-11.md "wikilink")や初期の[VAX](https://ja.wikipedia.org/wiki/VAX "wikilink")で使用された初期の[バス技術の一種](../Page/バス_\(コンピュータ\).md "wikilink")。
+[Unibus.jpg](https://ja.wikipedia.org/wiki/File:Unibus.jpg "fig:Unibus.jpg")（左）とUnibus対応基板\]\] **Unibus**(ユニバス)は、[ディジタル・イクイップメント・コーポレーション](../Page/ディジタル・イクイップメント・コーポレーション.md "wikilink")が製造した[PDP-11](../Page/PDP-11.md "wikilink")や初期の[VAX](../Page/VAX.md "wikilink")で使用された初期の[バス技術の一種](../Page/バス_\(コンピュータ\).md "wikilink")。
 
 Unibusは72本の信号線から構成される(36本×2コネクタ)。電力供給線と接地線を除くと、56本の信号線から構成されている。[バックプレーン](../Page/バックプレーン.md "wikilink")やケーブルの形で存在する。ひとつのUnibusセグメントには最大20ノードのデバイスが接続可能で、セグメントとセグメントをバスリピーターで接続することもできる。
 

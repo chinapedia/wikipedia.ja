@@ -17,7 +17,7 @@
 
 ## JP2HAITIプロジェクト
 
-  - [2011年](../Page/2011年.md "wikilink")[2月2日](../Page/2月2日.md "wikilink")、[ハイチ地震 (2010年)により深刻なダメージを受けた](https://ja.wikipedia.org/wiki/ハイチ地震 "wikilink")[ハイチ](https://ja.wikipedia.org/wiki/ハイチ "wikilink")を復興させるチャリティ企画「JP2HAITIプロジェクト」として、シングル「[光 -Hikari-](https://ja.wikipedia.org/wiki/光_-Hikari- "wikilink")」を発売。DJ YUTAKAは45 a.k.a. SWING-O、[TOKU](https://ja.wikipedia.org/wiki/TOKU "wikilink")、[高木完](../Page/高木完.md "wikilink")、[武内享](https://ja.wikipedia.org/wiki/武内享 "wikilink")、[ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink")などとともに作曲を担当。
+  - [2011年](../Page/2011年.md "wikilink")[2月2日](../Page/2月2日.md "wikilink")、[ハイチ地震 (2010年)により深刻なダメージを受けた](https://ja.wikipedia.org/wiki/ハイチ地震 "wikilink")[ハイチ](https://ja.wikipedia.org/wiki/ハイチ "wikilink")を復興させるチャリティ企画「JP2HAITIプロジェクト」として、シングル「[光 -Hikari-](https://ja.wikipedia.org/wiki/光_-Hikari- "wikilink")」を発売。DJ YUTAKAは45 a.k.a. SWING-O、[TOKU](https://ja.wikipedia.org/wiki/TOKU "wikilink")、[高木完](../Page/高木完.md "wikilink")、[武内享](../Page/武内享.md "wikilink")、[ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink")などとともに作曲を担当。
 
 ## ディスコグラフィー
 
@@ -25,10 +25,10 @@
 
   - CHANCE -UNITED NATIONS EP （2000年7月19日）
   - UNITED NATIONS EP \#1 （2000年8月26日）
-  - Self Destruction feat. [ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink"), [K DUB SHINE](https://ja.wikipedia.org/wiki/K_DUB_SHINE "wikilink"), [RHYMESTER](https://ja.wikipedia.org/wiki/RHYMESTER "wikilink") + [KOHEI JAPAN](https://ja.wikipedia.org/wiki/KOHEI_JAPAN "wikilink") & [ラッパ我リヤ](https://ja.wikipedia.org/wiki/ラッパ我リヤ "wikilink") （2003年3月5日）
-  - サクセスのひみつ feat. [RHYMESTER](https://ja.wikipedia.org/wiki/RHYMESTER "wikilink") （2003年5月14日）
+  - Self Destruction feat. [ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink"), [K DUB SHINE](https://ja.wikipedia.org/wiki/K_DUB_SHINE "wikilink"), [RHYMESTER](../Page/RHYMESTER.md "wikilink") + [KOHEI JAPAN](../Page/KOHEI_JAPAN.md "wikilink") & [ラッパ我リヤ](../Page/ラッパ我リヤ.md "wikilink") （2003年3月5日）
+  - サクセスのひみつ feat. [RHYMESTER](../Page/RHYMESTER.md "wikilink") （2003年5月14日）
   - In Da Club (Bounce with Me) feat. [DABO](../Page/DABO.md "wikilink") （2003年6月11日）
-  - Original Flow feat. [ラッパ我リヤ](https://ja.wikipedia.org/wiki/ラッパ我リヤ "wikilink") （2003年8月20日）
+  - Original Flow feat. [ラッパ我リヤ](../Page/ラッパ我リヤ.md "wikilink") （2003年8月20日）
   - Revolution feat. [SPHERE of INFLUENCE](https://ja.wikipedia.org/wiki/SPHERE_of_INFLUENCE "wikilink") （2003年8月29日）
   - [deep blue](https://ja.wikipedia.org/wiki/deep_blue_\(DJ_YUTAKA_feat_大黒摩季の曲\) "wikilink") feat. [大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink") （2003年9月18日）
   - [光 -Hikari-](https://ja.wikipedia.org/wiki/光_-Hikari- "wikilink") （2011年2月2日） JP2HAITI名義
@@ -49,9 +49,9 @@
 
 ### 主なリミックス作品
 
-  - [キングギドラ](https://ja.wikipedia.org/wiki/KGDR "wikilink") 「トビスギ〜Don't Do It〜 (DJ YUTAKA Remix)」
+  - [キングギドラ](../Page/KGDR.md "wikilink") 「トビスギ〜Don't Do It〜 (DJ YUTAKA Remix)」
   - [JAMOSA](https://ja.wikipedia.org/wiki/JAMOSA "wikilink") 「STANDING STRONG DJ YUTAKA\&JiN REMIX」
-  - [DA PUMP](https://ja.wikipedia.org/wiki/DA_PUMP "wikilink") 「Com'on\! Be My Girl\! (DJ YUTAKA remix)」
+  - [DA PUMP](../Page/DA_PUMP.md "wikilink") 「Com'on\! Be My Girl\! (DJ YUTAKA remix)」
   - [BENNIE K](https://ja.wikipedia.org/wiki/BENNIE_K "wikilink") 「Superdome 813 Joint One Remix」
   - TVサントラ 「追跡のテーマ813 (DJ YUTAKA/Shingo.S) Remix feat. [童子-T](../Page/童子-T.md "wikilink")」
 

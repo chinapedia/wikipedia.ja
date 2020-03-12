@@ -12,7 +12,7 @@
 <!-- end list -->
 
   -
-    [山崎正和](https://ja.wikipedia.org/wiki/山崎正和 "wikilink") （元・[東亜大学](https://ja.wikipedia.org/wiki/東亜大学 "wikilink")学長、[大阪大学](https://ja.wikipedia.org/wiki/大阪大学 "wikilink")[名誉教授](../Page/名誉教授.md "wikilink")、[中央教育審議会](https://ja.wikipedia.org/wiki/中央教育審議会 "wikilink")前会長、[文化功労者](https://ja.wikipedia.org/wiki/文化功労者 "wikilink")）
+    [山崎正和](../Page/山崎正和.md "wikilink") （元・[東亜大学](../Page/東亜大学.md "wikilink")学長、[大阪大学](https://ja.wikipedia.org/wiki/大阪大学 "wikilink")[名誉教授](../Page/名誉教授.md "wikilink")、[中央教育審議会](../Page/中央教育審議会.md "wikilink")前会長、[文化功労者](../Page/文化功労者.md "wikilink")）
 
 <!-- end list -->
 
@@ -30,7 +30,7 @@
 <!-- end list -->
 
   -
-    岡本三宜 （元[東レ](https://ja.wikipedia.org/wiki/東レ "wikilink")）
+    岡本三宜 （元[東レ](../Page/東レ.md "wikilink")）
     [石黒周](https://ja.wikipedia.org/wiki/石黒周 "wikilink") （世界初の二足歩行ロボットの販売ベンチャー・ZMP株式会社を立ち上げた。）
     [小林哲夫](../Page/小林哲夫_\(会計学者\).md "wikilink")（[神戸大学](../Page/神戸大学.md "wikilink")[名誉教授](../Page/名誉教授.md "wikilink")）
     [林英夫](../Page/林英夫.md "wikilink") （元[関西大学](../Page/関西大学.md "wikilink")[教授](../Page/教授.md "wikilink")）

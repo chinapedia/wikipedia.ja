@@ -1,7 +1,7 @@
 > この記事は[2NHK](https://ja.wikipedia.org/wiki/2NHK)から翻訳されています。
 
 
-『**第2回NHK紅白歌合戦**』（だいにかいエヌエイチケイこうはくうたがっせん）は、[1952年](../Page/1952年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")27年）[1月3日](../Page/1月3日.md "wikilink")に[NHK東京放送会館](../Page/NHK東京放送会館.md "wikilink")第1スタジオで行われた、第2回目の[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")。19時30分から21時に[NHKで](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")された。
+『**第2回NHK紅白歌合戦**』（だいにかいエヌエイチケイこうはくうたがっせん）は、[1952年](../Page/1952年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")27年）[1月3日](../Page/1月3日.md "wikilink")に[NHK東京放送会館](../Page/NHK東京放送会館.md "wikilink")第1スタジオで行われた、第2回目の[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")。19時30分から21時に[NHKで](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[生放送](../Page/生放送.md "wikilink")された。
 
 ## 概要
 
@@ -15,7 +15,7 @@
   - 白組司会：[藤倉修一](../Page/藤倉修一.md "wikilink") - NHKアナウンサー。
   - 総合司会：[田辺正晴](https://ja.wikipedia.org/wiki/田辺正晴 "wikilink") - NHKアナウンサー。
 
-藤倉・田辺は前回から続投したが、紅組司会については前回担当の[加藤道子](https://ja.wikipedia.org/wiki/加藤道子 "wikilink")が「アドリブが利かない」と判断され丹下に交代となった。
+藤倉・田辺は前回から続投したが、紅組司会については前回担当の[加藤道子](../Page/加藤道子.md "wikilink")が「アドリブが利かない」と判断され丹下に交代となった。
 
 ### 出場歌手
 
@@ -64,7 +64,7 @@
 <td><p>江の島悲歌</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/轟夕起子" title="wikilink">轟夕起子</a>(初)</p></td>
+<td><p><a href="../Page/轟夕起子.md" title="wikilink">轟夕起子</a>(初)</p></td>
 <td><p>お使いは自転車に乗って<br />
 （腰抜け二挺拳銃、とする説あり）</p></td>
 </tr>
@@ -84,7 +84,7 @@
 （しのび泣く雨、とする説あり）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/渡辺はま子" title="wikilink">渡辺はま子</a>(2)</p></td>
+<td><p><a href="../Page/渡辺はま子.md" title="wikilink">渡辺はま子</a>(2)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/火の鳥_(渡辺はま子の曲)" title="wikilink">火の鳥</a><br />
 （<a href="https://ja.wikipedia.org/wiki/桑港のチャイナ街" title="wikilink">桑港のチャイナ街</a>、とする説あり）</p></td>
 </tr>
@@ -108,7 +108,7 @@
   - [正月](../Page/正月.md "wikilink")開催だったため、ステージ上方には「謹賀新年」のプレートが飾られた。
   - 前回で応援電話によりNHKの電話回線がパンクしたことに備え、今回は専用の特設電話が設置された。
   - 当初は[松島詩子](../Page/松島詩子.md "wikilink")が出場予定であったが、昼間に[日光で正月公演の後](../Page/日光市.md "wikilink")、乗っていた車がNHKへ向かう途中に[都電と衝突する事故を起こし重傷を負ったため出場が不可能になる](https://ja.wikipedia.org/wiki/東京都電車 "wikilink")。NHKは急遽[越路吹雪](../Page/越路吹雪.md "wikilink")に代役を依頼、受けた越路は自宅で[新年会](https://ja.wikipedia.org/wiki/新年会 "wikilink")の真っ最中で酒が入っていたが、代役を歌い上げた。松島の事故については、本番中に所轄の警視庁から特設電話に経過が混線し、状況が全国に知れ渡った。
-  - 両軍トリは2年連続で渡辺・藤山が担当。藤山は、この年開催された[ヘルシンキオリンピックのテーマソング](https://ja.wikipedia.org/wiki/1952年ヘルシンキオリンピック "wikilink")「[オリンピックの歌](https://ja.wikipedia.org/wiki/オリンピックの歌 "wikilink")」を歌った。
+  - 両軍トリは2年連続で渡辺・藤山が担当。藤山は、この年開催された[ヘルシンキオリンピックのテーマソング](../Page/1952年ヘルシンキオリンピック.md "wikilink")「[オリンピックの歌](https://ja.wikipedia.org/wiki/オリンピックの歌 "wikilink")」を歌った。
   - 優勝は白組。
   - 今回使用したマイクは、[東芝](../Page/東芝.md "wikilink")A型ベロシティーマイクロホンＯＢ-1028。
 

@@ -1,17 +1,17 @@
 > この記事は[JAZZ](https://ja.wikipedia.org/wiki/JAZZ)から翻訳されています。
 
 
-**熱帯JAZZ楽団**（ねったいジャズがくだん）は、日本の[ラテンジャズ](https://ja.wikipedia.org/wiki/ラテンジャズ "wikilink")・[ビッグバンド](../Page/ビッグバンド.md "wikilink")。[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")所属。[パーカッション](../Page/パーカッション.md "wikilink")奏者の[カルロス菅野](../Page/カルロス菅野.md "wikilink")（元[オルケスタ・デ・ラ・ルス](../Page/オルケスタ・デ・ラ・ルス.md "wikilink")）が[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")10月に結成した。
+**熱帯JAZZ楽団**（ねったいジャズがくだん）は、日本の[ラテンジャズ](../Page/ラテンジャズ.md "wikilink")・[ビッグバンド](../Page/ビッグバンド.md "wikilink")。[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")所属。[パーカッション](../Page/パーカッション.md "wikilink")奏者の[カルロス菅野](../Page/カルロス菅野.md "wikilink")（元[オルケスタ・デ・ラ・ルス](../Page/オルケスタ・デ・ラ・ルス.md "wikilink")）が[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")10月に結成した。
 
 実力派ミュージシャンをそろえた日本を代表するラテンジャズ・ビッグバンドである。これまでに発表したアルバムはオリジナルの他に著名ミュージシャンの楽曲にラテンアレンジを施した[カバー](../Page/カバー.md "wikilink")ナンバーを多く含み、広い層に親しまれている。また、国内外の[ジャズフェスティバル](https://ja.wikipedia.org/wiki/ジャズフェスティバル "wikilink")への出演を行っている。
 
 ## メンバー
 
   - [カルロス菅野](../Page/カルロス菅野.md "wikilink")（[Perc.](../Page/パーカッション.md "wikilink")）
-  - [美座良彦](https://ja.wikipedia.org/wiki/美座良彦 "wikilink")（[Timb.](https://ja.wikipedia.org/wiki/ティンバレス "wikilink")）
+  - [美座良彦](https://ja.wikipedia.org/wiki/美座良彦 "wikilink")（[Timb.](../Page/ティンバレス.md "wikilink")）
   - [岡本健太](https://ja.wikipedia.org/wiki/岡本健太 "wikilink")（[conga](../Page/コンガ.md "wikilink")）
   - [平川象士](https://ja.wikipedia.org/wiki/平川象士 "wikilink")([Dr.](https://ja.wikipedia.org/wiki/ドラムス "wikilink")）
-  - [高橋ゲタ夫](https://ja.wikipedia.org/wiki/高橋ゲタ夫 "wikilink")（[Bass](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")）
+  - [高橋ゲタ夫](https://ja.wikipedia.org/wiki/高橋ゲタ夫 "wikilink")（[Bass](../Page/ベース_\(弦楽器\).md "wikilink")）
   - [森村献](https://ja.wikipedia.org/wiki/森村献 "wikilink")（[Piano](../Page/ピアノ.md "wikilink")）
   - [佐々木史郎](https://ja.wikipedia.org/wiki/佐々木史郎 "wikilink")（[Tp.](../Page/トランペット.md "wikilink")）
   - [鈴木正則](https://ja.wikipedia.org/wiki/鈴木正則 "wikilink")（Tp.）
@@ -145,17 +145,17 @@ VIAJ-60006:DVD-AUDIO</p></td>
 <td><p>DISC1</p>
 <ol>
 <li><a href="https://ja.wikipedia.org/wiki/w:en:Getaway_(Earth,_Wind_&amp;_Fire_song)" title="wikilink">GETAWAY</a> (<a href="../Page/アース・ウィンド・アンド・ファイアー.md" title="wikilink">アース・ウィンド・アンド・ファイアー</a>)</li>
-<li><a href="https://ja.wikipedia.org/wiki/私のお気に入り" title="wikilink">MY FAVORITE THINGS</a> (<a href="../Page/サウンド・オブ・ミュージック.md" title="wikilink">サウンド・オブ・ミュージック</a>)</li>
+<li><a href="../Page/私のお気に入り.md" title="wikilink">MY FAVORITE THINGS</a> (<a href="../Page/サウンド・オブ・ミュージック.md" title="wikilink">サウンド・オブ・ミュージック</a>)</li>
 <li>OBATALA</li>
 <li>VENUS</li>
-<li><a href="https://ja.wikipedia.org/wiki/シング・シング・シング" title="wikilink">SING, SING, SING</a> (<a href="../Page/ルイ・プリマ.md" title="wikilink">ルイ・プリマ</a>)</li>
+<li><a href="../Page/シング・シング・シング.md" title="wikilink">SING, SING, SING</a> (<a href="../Page/ルイ・プリマ.md" title="wikilink">ルイ・プリマ</a>)</li>
 <li>DUENO DEL SOLOR</li>
 </ol>
 <p>DISC2</p>
 <ol>
 <li>MAMBO DE LA LUZ</li>
 <li>EPOCA DE ORO</li>
-<li><a href="https://ja.wikipedia.org/wiki/w:en:Sussudio" title="wikilink">SUSSUDIO</a> (<a href="https://ja.wikipedia.org/wiki/フィル・コリンズ" title="wikilink">フィル・コリンズ</a>)</li>
+<li><a href="https://ja.wikipedia.org/wiki/w:en:Sussudio" title="wikilink">SUSSUDIO</a> (<a href="../Page/フィル・コリンズ.md" title="wikilink">フィル・コリンズ</a>)</li>
 <li><a href="../Page/今夜はドント・ストップ.md" title="wikilink">DON'T STOP 'TIL YOU GET ENOUGH</a> (<a href="https://ja.wikipedia.org/wiki/マイケル・ジャクソン" title="wikilink">マイケル・ジャクソン</a>)</li>
 <li><a href="../Page/セプテンバー_(EW&amp;Fの曲).md" title="wikilink">SEPTEMBER</a> (<a href="../Page/アース・ウィンド・アンド・ファイアー.md" title="wikilink">アース・ウィンド・アンド・ファイアー</a>)</li>
 </ol></td>
@@ -333,7 +333,7 @@ VIAJ-60006:DVD-AUDIO</p></td>
 <td><ol>
 <li><a href="../Page/イン・ザ・ムード.md" title="wikilink">イン・ザ・ムード</a> (<a href="https://ja.wikipedia.org/wiki/ジョー・ガーランド" title="wikilink">ジョー・ガーランド</a>)</li>
 <li>石の刻印　～ファンタジー (アース・ウィンド・アンド・ファイアー)</li>
-<li><a href="https://ja.wikipedia.org/wiki/0011ナポレオン・ソロ" title="wikilink">ナポレオン・ソロ</a> (<a href="https://ja.wikipedia.org/wiki/ジェリー・ゴールドスミス" title="wikilink">ジェリー・ゴールドスミス</a>)</li>
+<li><a href="https://ja.wikipedia.org/wiki/0011ナポレオン・ソロ" title="wikilink">ナポレオン・ソロ</a> (<a href="../Page/ジェリー・ゴールドスミス.md" title="wikilink">ジェリー・ゴールドスミス</a>)</li>
 <li><a href="https://ja.wikipedia.org/wiki/セ・ラ・ヴィ" title="wikilink">セ・ラ・ヴィ</a> (<a href="https://ja.wikipedia.org/wiki/ロビー・ネビル" title="wikilink">ロビー・ネビル</a>)</li>
 <li><a href="https://ja.wikipedia.org/wiki/リベルタンゴ" title="wikilink">リベルタンゴ</a> (<a href="../Page/アストル・ピアソラ.md" title="wikilink">アストル・ピアソラ</a>)</li>
 <li><a href="https://ja.wikipedia.org/wiki/w:en:Sunny_(song)" title="wikilink">サニー</a> (<a href="https://ja.wikipedia.org/wiki/ボビー・ヘブ" title="wikilink">ボビー・ヘブ</a>)</li>
@@ -342,7 +342,7 @@ VIAJ-60006:DVD-AUDIO</p></td>
 <li><a href="https://ja.wikipedia.org/wiki/スター・トレック" title="wikilink">スター・トレック</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/w:en:Hip_to_Be_Square" title="wikilink">ヒップ・トゥ・ビー・スクエア</a> (<a href="../Page/ヒューイ・ルイス&amp;ザ・ニュース.md" title="wikilink">ヒューイ・ルイス&amp;ザ・ニュース</a>)</li>
 <li><a href="https://ja.wikipedia.org/wiki/急がば廻れ" title="wikilink">ウォーク・ドント・ラン</a> (ジョニー・スミス)</li>
-<li><a href="https://ja.wikipedia.org/wiki/ピック・アップ・ザ・ピーセズ" title="wikilink">ピック・アップ・ザ・ピーセズ</a> (<a href="https://ja.wikipedia.org/wiki/アヴェレイジ・ホワイト・バンド" title="wikilink">アヴェレイジ・ホワイト・バンド</a>)</li>
+<li><a href="https://ja.wikipedia.org/wiki/ピック・アップ・ザ・ピーセズ" title="wikilink">ピック・アップ・ザ・ピーセズ</a> (<a href="../Page/アヴェレイジ・ホワイト・バンド.md" title="wikilink">アヴェレイジ・ホワイト・バンド</a>)</li>
 <li>愛がすべて (<a href="../Page/スタイリスティックス.md" title="wikilink">スタイリスティックス</a>)</li>
 </ol></td>
 <td><p>ビクターエンタテインメント<br />
@@ -354,11 +354,11 @@ VIAJ-60006:DVD-AUDIO</p></td>
 <td><p><strong>熱帯JAZZ楽団 XVI～EASY LOVER～</strong></p></td>
 <td><p>VICJ-61702</p></td>
 <td><ol>
-<li><a href="https://ja.wikipedia.org/wiki/イージー・ラヴァー" title="wikilink">EASY LOVER</a> (<a href="../Page/フィリップ・ベイリー.md" title="wikilink">フィリップ・ベイリー</a>&amp;<a href="https://ja.wikipedia.org/wiki/フィル・コリンズ" title="wikilink">フィル・コリンズ</a>)</li>
+<li><a href="https://ja.wikipedia.org/wiki/イージー・ラヴァー" title="wikilink">EASY LOVER</a> (<a href="../Page/フィリップ・ベイリー.md" title="wikilink">フィリップ・ベイリー</a>&amp;<a href="../Page/フィル・コリンズ.md" title="wikilink">フィル・コリンズ</a>)</li>
 <li>LA DECISION 【作曲:HIDEAKI NAKAJI】</li>
-<li><a href="https://ja.wikipedia.org/wiki/君の瞳に恋してる" title="wikilink">CAN'T TAKE MY EYES OFF OF YOU</a> (<a href="https://ja.wikipedia.org/wiki/フランキー・ヴァリ" title="wikilink">フランキー・ヴァリ</a>)</li>
-<li><a href="https://ja.wikipedia.org/wiki/w:en:Get_Me_to_the_Church_on_Time" title="wikilink">GET ME TO THE CHURCH ON TIME</a> (<a href="https://ja.wikipedia.org/wiki/マイ・フェア・レディ" title="wikilink">マイ・フェア・レディ</a>)</li>
-<li><a href="https://ja.wikipedia.org/wiki/w:en:Synchronicity_I" title="wikilink">SYNCHRONICITY I</a> (<a href="https://ja.wikipedia.org/wiki/ポリス_(バンド)" title="wikilink">ポリス</a>)</li>
+<li><a href="../Page/君の瞳に恋してる.md" title="wikilink">CAN'T TAKE MY EYES OFF OF YOU</a> (<a href="https://ja.wikipedia.org/wiki/フランキー・ヴァリ" title="wikilink">フランキー・ヴァリ</a>)</li>
+<li><a href="https://ja.wikipedia.org/wiki/w:en:Get_Me_to_the_Church_on_Time" title="wikilink">GET ME TO THE CHURCH ON TIME</a> (<a href="../Page/マイ・フェア・レディ.md" title="wikilink">マイ・フェア・レディ</a>)</li>
+<li><a href="https://ja.wikipedia.org/wiki/w:en:Synchronicity_I" title="wikilink">SYNCHRONICITY I</a> (<a href="../Page/ポリス_(バンド).md" title="wikilink">ポリス</a>)</li>
 <li>EL ANIVERSARIO 【作曲:Ken Morimura】</li>
 <li><a href="https://ja.wikipedia.org/wiki/ホワット・ア・フール・ビリーヴス" title="wikilink">WHAT A FOOL BELIEVES</a> (<a href="../Page/ケニー・ロギンス.md" title="wikilink">ケニー・ロギンス</a>)</li>
 <li>THE MALTESE MELODY (ハーブアルパートとティファナ・ブラス)</li>
@@ -614,8 +614,8 @@ UPCH-29041</p></td>
 
 ## 関連項目
 
-  - [ラテン音楽](https://ja.wikipedia.org/wiki/ラテン音楽 "wikilink")
-  - [ラテンジャズ](https://ja.wikipedia.org/wiki/ラテンジャズ "wikilink")
+  - [ラテン音楽](../Page/ラテン音楽.md "wikilink")
+  - [ラテンジャズ](../Page/ラテンジャズ.md "wikilink")
 
 ## 外部リンク
 

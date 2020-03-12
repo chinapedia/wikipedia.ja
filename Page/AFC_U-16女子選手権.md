@@ -1,7 +1,7 @@
 > この記事は[AFC U-16](https://ja.wikipedia.org/wiki/AFC_U-16)から翻訳されています。
 
 
-**AFC U-16女子選手権**（）は、[アジアサッカー連盟](../Page/アジアサッカー連盟.md "wikilink")（AFC）が主催する、16歳以下の[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[女子サッカー](https://ja.wikipedia.org/wiki/女子サッカー "wikilink")の大陸選手権大会である。[2007年大会](https://ja.wikipedia.org/wiki/AFC_U-16女子選手権2007 "wikilink")（第2回）から[FIFA U-17女子ワールドカップの予選を兼ねている](../Page/FIFA_U-17女子ワールドカップ.md "wikilink")。
+**AFC U-16女子選手権**（）は、[アジアサッカー連盟](../Page/アジアサッカー連盟.md "wikilink")（AFC）が主催する、16歳以下の[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[女子サッカー](../Page/女子サッカー.md "wikilink")の大陸選手権大会である。[2007年大会](https://ja.wikipedia.org/wiki/AFC_U-16女子選手権2007 "wikilink")（第2回）から[FIFA U-17女子ワールドカップの予選を兼ねている](../Page/FIFA_U-17女子ワールドカップ.md "wikilink")。
 
 [2005年大会](https://ja.wikipedia.org/wiki/AFC_U-17女子選手権2005 "wikilink")（第1回）は17歳以下の選手による大会である「**AFC U-17女子選手権**」であった。また[2022年大会](https://ja.wikipedia.org/wiki/AFC_U-17女子選手権2022 "wikilink")（第9回）より、本大会開催年をFIFA U-17女子ワールドカップの前年から同年へ変更し（出場資格もU-17となる）、大会名も「**AFC U-17女子選手権**」（）に変更することが予定されている\[1\]。
 
@@ -36,7 +36,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/AFC_U-17女子選手権2005" title="wikilink">1</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
 <td></td>
 <td></td>
 <td><p><strong></strong></p></td>
@@ -242,8 +242,8 @@
 
 ## 関連項目
 
-  - [AFC U-19女子選手権](https://ja.wikipedia.org/wiki/AFC_U-19女子選手権 "wikilink") - AFCによる年代別の別カテゴリの大会
-  - [AFC U-16選手権](https://ja.wikipedia.org/wiki/AFC_U-16選手権 "wikilink") - AFCによる同年代の男子サッカーの大会
+  - [AFC U-19女子選手権](../Page/AFC_U-19女子選手権.md "wikilink") - AFCによる年代別の別カテゴリの大会
+  - [AFC U-16選手権](../Page/AFC_U-16選手権.md "wikilink") - AFCによる同年代の男子サッカーの大会
 
 ## 外部リンク
 

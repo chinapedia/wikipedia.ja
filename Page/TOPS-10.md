@@ -7,15 +7,15 @@
 
 TOPS-10は[共有メモリ](../Page/共有メモリ.md "wikilink")をサポートしており、マルチプレイヤー型の[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")の開発を可能とした。\[1\]というゲームはテキストベースの [Star Trek](../Page/スタートレック.md "wikilink") のようなゲームで、ユーザーは端末からコマンドを打ち込み、リアルタイムで互いに戦うことができた。
 
-他の特筆すべきアプリケーションとして FORUM がある。このアプリケーションはいわゆる「CBシミュレータ」の先駆けであり、現在では[チャット](../Page/チャット.md "wikilink")と言われるユーザー同士の会話を可能とするものである。このアプリケーションはマルチユーザー通信の可能性を示したもので、[CompuServe](https://ja.wikipedia.org/wiki/CompuServe "wikilink")のチャットが開発される要因のひとつとなった。
+他の特筆すべきアプリケーションとして FORUM がある。このアプリケーションはいわゆる「CBシミュレータ」の先駆けであり、現在では[チャット](../Page/チャット.md "wikilink")と言われるユーザー同士の会話を可能とするものである。このアプリケーションはマルチユーザー通信の可能性を示したもので、[CompuServe](../Page/CompuServe.md "wikilink")のチャットが開発される要因のひとつとなった。
 
-TOPS-10の[APIは非常に頑強であり](../Page/アプリケーションプログラミングインタフェース.md "wikilink")、UUO（Unimplemented User Operation; 未実装ユーザー命令）を利用した機構を使っている。UUOにより[システムコール](https://ja.wikipedia.org/wiki/システムコール "wikilink")は[機械語](../Page/機械語.md "wikilink")の一種のように実装された。このAPIはモニターコールと呼ばれ、当時の他のオペレーティングシステムに比較して非常に進んでいた。DECsystem-10のシステムプログラミングは単純で強力であり、それはこの非常に柔軟なAPIによるところが大きい。
+TOPS-10の[APIは非常に頑強であり](../Page/アプリケーションプログラミングインタフェース.md "wikilink")、UUO（Unimplemented User Operation; 未実装ユーザー命令）を利用した機構を使っている。UUOにより[システムコール](../Page/システムコール.md "wikilink")は[機械語](../Page/機械語.md "wikilink")の一種のように実装された。このAPIはモニターコールと呼ばれ、当時の他のオペレーティングシステムに比較して非常に進んでいた。DECsystem-10のシステムプログラミングは単純で強力であり、それはこの非常に柔軟なAPIによるところが大きい。
 
 TOPS-10は多数のキューから構成される面白い[スケジューラを備えていた](../Page/スケジューリング.md "wikilink")。TOPS-10では[プロセス](../Page/プロセス.md "wikilink")の優先順位に応じてキューを選択している（[多段フィードバックキュー](../Page/多段フィードバックキュー.md "wikilink")の原始的なものと言える）。また、ユーザーファイルとデバイスの独立性も特徴の1つである。
 
 ## リリース履歴
 
-PDP-6でのMonitorは1964年にリリースされた。PDP-10のKA10プロセッサをサポートしたのは1967年のリリース2.18からのことである。1970年のリリース5.01からTOPS-10に改称。リリース6.01（1974年5月）で初めて[仮想記憶](../Page/仮想記憶.md "wikilink")（[デマンドページング](https://ja.wikipedia.org/wiki/ページング方式 "wikilink")）を実装し、物理メモリ容量より大きなプログラムを実行できるようになった。リリース7.00から[対称型マルチプロセッシング](../Page/対称型マルチプロセッシング.md "wikilink")が可能となった（それまでは[マスタースレーブ](https://ja.wikipedia.org/wiki/マスタースレーブ "wikilink")方式）。最終リリースは1988年のリリース7.04である\[2\]。
+PDP-6でのMonitorは1964年にリリースされた。PDP-10のKA10プロセッサをサポートしたのは1967年のリリース2.18からのことである。1970年のリリース5.01からTOPS-10に改称。リリース6.01（1974年5月）で初めて[仮想記憶](../Page/仮想記憶.md "wikilink")（[デマンドページング](../Page/ページング方式.md "wikilink")）を実装し、物理メモリ容量より大きなプログラムを実行できるようになった。リリース7.00から[対称型マルチプロセッシング](../Page/対称型マルチプロセッシング.md "wikilink")が可能となった（それまでは[マスタースレーブ](https://ja.wikipedia.org/wiki/マスタースレーブ "wikilink")方式）。最終リリースは1988年のリリース7.04である\[2\]。
 
 ## 今日のTOPS-10
 
@@ -23,7 +23,7 @@ PDP-6でのMonitorは1964年にリリースされた。PDP-10のKA10プロセッ
 
 今日TOPS-10を動作させる最も簡単な方法は、適当な[エミュレータ](../Page/エミュレータ.md "wikilink")\[4\]\[5\]とOSの[システムイメージ](../Page/システムイメージ.md "wikilink")\[6\]を利用する方法である。また、元もとの配布用磁気テープの内容がアーカイブされているので、そこから構築することも可能である\[7\] \[8\]。
 
-[ポール・アレン](https://ja.wikipedia.org/wiki/ポール・アレン "wikilink")は歴史的コンピュータシステムを保守し公開しているが、その中にTOPS-10が動作する DECsystem-1090 も含まれる\[9\]。
+[ポール・アレン](../Page/ポール・アレン.md "wikilink")は歴史的コンピュータシステムを保守し公開しているが、その中にTOPS-10が動作する DECsystem-1090 も含まれる\[9\]。
 
 ## 実装されたプログラミング言語
 
@@ -50,19 +50,19 @@ TOPS-10の[アセンブラ](../Page/アセンブリ言語.md "wikilink")がTOPS-
 
   - [Pascal](../Page/Pascal.md "wikilink") - コンピュータ教育向けコンパイラ
 
-  - \- [CAI向け言語](https://ja.wikipedia.org/wiki/コンピュータ支援教育 "wikilink")
+  - \- [CAI向け言語](../Page/コンピュータ支援教育.md "wikilink")
 
   - [SAM76](https://ja.wikipedia.org/wiki/:en:SAM76 "wikilink")
 
   - [Simula](../Page/Simula.md "wikilink") - モデリング用コンパイラ
 
-  - [SNOBOL](https://ja.wikipedia.org/wiki/SNOBOL "wikilink") - 文字列処理用インタプリタ
+  - [SNOBOL](../Page/SNOBOL.md "wikilink") - 文字列処理用インタプリタ
 
 ## 脚注
 
 ## 関連項目
 
-  - [TOPS-20](https://ja.wikipedia.org/wiki/TOPS-20 "wikilink")
+  - [TOPS-20](../Page/TOPS-20.md "wikilink")
   - [コロッサル・ケーブ・アドベンチャー](https://ja.wikipedia.org/wiki/コロッサル・ケーブ・アドベンチャー "wikilink")
 
 [Category:オペレーティングシステム](https://ja.wikipedia.org/wiki/Category:オペレーティングシステム "wikilink") [Category:ディジタル・イクイップメント・コーポレーション](https://ja.wikipedia.org/wiki/Category:ディジタル・イクイップメント・コーポレーション "wikilink") [Category:1967年のソフトウェア](https://ja.wikipedia.org/wiki/Category:1967年のソフトウェア "wikilink")

@@ -1,25 +1,25 @@
 > この記事は[3NHK](https://ja.wikipedia.org/wiki/3NHK)から翻訳されています。
 
 
-『**第3回NHK紅白歌合戦**』（だいさんかいエヌエイチケイこうはくうたがっせん）は、[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")（昭和28年）[1月2日](../Page/1月2日.md "wikilink")に[NHK東京放送会館](../Page/NHK東京放送会館.md "wikilink")第1スタジオで行われた、第3回目の[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")。19時30分から21時に[NHKで](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")された。
+『**第3回NHK紅白歌合戦**』（だいさんかいエヌエイチケイこうはくうたがっせん）は、[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")（昭和28年）[1月2日](../Page/1月2日.md "wikilink")に[NHK東京放送会館](../Page/NHK東京放送会館.md "wikilink")第1スタジオで行われた、第3回目の[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")。19時30分から21時に[NHKで](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[生放送](../Page/生放送.md "wikilink")された。
 
 ## 概要
 
-この年は2月1日に[NHKテレビジョン放送開始を控えており](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")、テレビカメラ3台を持ち込んで実験放送が行われた。また、ラジオ単独での放送は今回までとなった。
+この年は2月1日に[NHKテレビジョン放送開始を控えており](../Page/NHK総合テレビジョン.md "wikilink")、テレビカメラ3台を持ち込んで実験放送が行われた。また、ラジオ単独での放送は今回までとなった。
 
 ## 出演者
 
 ### 司会者
 
   - 紅組司会：[本田寿賀](https://ja.wikipedia.org/wiki/本田寿賀 "wikilink") - NHKアナウンサー
-  - 白組司会：[宮田輝](https://ja.wikipedia.org/wiki/宮田輝 "wikilink") - NHKアナウンサー
-  - 総合司会：[志村正順](https://ja.wikipedia.org/wiki/志村正順 "wikilink") - NHKアナウンサー
+  - 白組司会：[宮田輝](../Page/宮田輝.md "wikilink") - NHKアナウンサー
+  - 総合司会：[志村正順](../Page/志村正順.md "wikilink") - NHKアナウンサー
 
 <!-- end list -->
 
   -
-    当初白組司会には過去2年間に引き続き[藤倉修一](../Page/藤倉修一.md "wikilink")を起用する予定だったが、藤倉の元に上層部からの「海外の放送事情を視察してこい」との命令が下り、3連投は立ち消えとなる。そこで藤倉の代役として白羽の矢が立ったのが、当時入局10年目の中堅だった宮田であり、そのソフトな語り口で自身が担当していた『のど自慢素人演芸会』（現：『[NHKのど自慢](https://ja.wikipedia.org/wiki/NHKのど自慢 "wikilink")』）や『[三つの歌](../Page/三つの歌.md "wikilink")』などを軒並みNHKの看板番組へと押し上げた実績が買われての抜擢だった。宮田は、この回を最初に史上最多の15回の司会を務めることとなる。
-    紅組司会は過去2年タレントの[加藤道子](https://ja.wikipedia.org/wiki/加藤道子 "wikilink")・[丹下キヨ子](https://ja.wikipedia.org/wiki/丹下キヨ子 "wikilink")がそれぞれ担当していたが、今回は本田が朗読の実力を買われて抜擢された。両組司会を局アナで固めた理由は聴取者が安心して番組を楽しめる、或いは出演歌手が安心して歌を歌ってもらえる環境を築き上げる必要があったためである。
+    当初白組司会には過去2年間に引き続き[藤倉修一](../Page/藤倉修一.md "wikilink")を起用する予定だったが、藤倉の元に上層部からの「海外の放送事情を視察してこい」との命令が下り、3連投は立ち消えとなる。そこで藤倉の代役として白羽の矢が立ったのが、当時入局10年目の中堅だった宮田であり、そのソフトな語り口で自身が担当していた『のど自慢素人演芸会』（現：『[NHKのど自慢](../Page/NHKのど自慢.md "wikilink")』）や『[三つの歌](../Page/三つの歌.md "wikilink")』などを軒並みNHKの看板番組へと押し上げた実績が買われての抜擢だった。宮田は、この回を最初に史上最多の15回の司会を務めることとなる。
+    紅組司会は過去2年タレントの[加藤道子](../Page/加藤道子.md "wikilink")・[丹下キヨ子](https://ja.wikipedia.org/wiki/丹下キヨ子 "wikilink")がそれぞれ担当していたが、今回は本田が朗読の実力を買われて抜擢された。両組司会を局アナで固めた理由は聴取者が安心して番組を楽しめる、或いは出演歌手が安心して歌を歌ってもらえる環境を築き上げる必要があったためである。
     総合司会については、過去2年間に加え前身『[紅白音楽試合](https://ja.wikipedia.org/wiki/紅白音楽試合 "wikilink")』時代から担当してきた[田辺正晴](https://ja.wikipedia.org/wiki/田辺正晴 "wikilink")に替わって志村が起用された。司会陣がNHKアナウンサーで固められるのは史上初。
     今回から実況アナウンサーが登場するようになる。初期ではこのポジションは「スポーツ」がコンセプトの一つであることから、一線級のスポーツアナウンサーが務めていた\[1\]。
 
@@ -44,8 +44,8 @@
 
 前回の出場歌手の中より不選出となった歌手は以下。
 
-  - 紅組:[池真理子](../Page/池真理子.md "wikilink")、[越路吹雪](../Page/越路吹雪.md "wikilink")、[久保幸江](../Page/久保幸江.md "wikilink")、[三条町子](../Page/三条町子.md "wikilink")、[轟夕起子](https://ja.wikipedia.org/wiki/轟夕起子 "wikilink")、[三原純子](../Page/三原純子.md "wikilink")
-  - 白組:[伊藤久男](https://ja.wikipedia.org/wiki/伊藤久男 "wikilink")、[宇都美清](https://ja.wikipedia.org/wiki/宇都美清 "wikilink")、[鈴木正夫](https://ja.wikipedia.org/wiki/鈴木正夫 "wikilink")、[瀬川伸](../Page/瀬川伸.md "wikilink")
+  - 紅組:[池真理子](../Page/池真理子.md "wikilink")、[越路吹雪](../Page/越路吹雪.md "wikilink")、[久保幸江](../Page/久保幸江.md "wikilink")、[三条町子](../Page/三条町子.md "wikilink")、[轟夕起子](../Page/轟夕起子.md "wikilink")、[三原純子](../Page/三原純子.md "wikilink")
+  - 白組:[伊藤久男](../Page/伊藤久男.md "wikilink")、[宇都美清](https://ja.wikipedia.org/wiki/宇都美清 "wikilink")、[鈴木正夫](../Page/鈴木正夫.md "wikilink")、[瀬川伸](../Page/瀬川伸.md "wikilink")
 
 ### 審査員
 
@@ -53,7 +53,7 @@
   - 今村 - [日本ビクター文芸部長](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")。
   - 伊藤 - [日本コロムビア](../Page/日本コロムビア.md "wikilink")文芸部長。
   - 清水 - [キングレコード](../Page/キングレコード.md "wikilink")文芸部長。
-  - 川崎 - [テイチク文芸部長](https://ja.wikipedia.org/wiki/テイチクエンタテインメント "wikilink")。
+  - 川崎 - [テイチク文芸部長](../Page/テイチクエンタテインメント.md "wikilink")。
   - 吉川義雄 - NHK文芸部長。
   - 聴取者代表1名
 
@@ -62,14 +62,14 @@
   - 前回と同じく、NHK東京放送会館ラジオ第1スタジオで公開収録。
   - 音声と映像は現存せず、写真が現存する。
   - [正月](../Page/正月.md "wikilink")開催だったため、ステージ上方には「謹賀新年」のプレートが飾られている。
-  - 上述のテレビジョンでの実験放送が実施されたことも影響してか、[前回出場した](../Page/第2回NHK紅白歌合戦.md "wikilink")[宝塚歌劇団](../Page/宝塚歌劇団.md "wikilink")出身のスター女優である[轟夕起子](https://ja.wikipedia.org/wiki/轟夕起子 "wikilink")、[池真理子](../Page/池真理子.md "wikilink")（三日月美夜子）、[越路吹雪](../Page/越路吹雪.md "wikilink")に続いて、今回も元[タカラジェンヌ](https://ja.wikipedia.org/wiki/タカラジェンヌ "wikilink")でスター女優の[乙羽信子](../Page/乙羽信子.md "wikilink")・[月丘夢路](../Page/月丘夢路.md "wikilink")・[久慈あさみ](../Page/久慈あさみ.md "wikilink")が歌手として揃って出場し、出場歌手の顔ぶれも一段と華やかになった。
+  - 上述のテレビジョンでの実験放送が実施されたことも影響してか、[前回出場した](../Page/第2回NHK紅白歌合戦.md "wikilink")[宝塚歌劇団](../Page/宝塚歌劇団.md "wikilink")出身のスター女優である[轟夕起子](../Page/轟夕起子.md "wikilink")、[池真理子](../Page/池真理子.md "wikilink")（三日月美夜子）、[越路吹雪](../Page/越路吹雪.md "wikilink")に続いて、今回も元[タカラジェンヌ](../Page/タカラジェンヌ.md "wikilink")でスター女優の[乙羽信子](../Page/乙羽信子.md "wikilink")・[月丘夢路](../Page/月丘夢路.md "wikilink")・[久慈あさみ](../Page/久慈あさみ.md "wikilink")が歌手として揃って出場し、出場歌手の顔ぶれも一段と華やかになった。
   - 優勝は白組。
-  - 今回使用したマイクは、司会者用に[RCA](https://ja.wikipedia.org/wiki/RCA "wikilink")-77D、歌手用に[東芝](../Page/東芝.md "wikilink")A型ベロシティーマイクロホンＯＢ-1028。
+  - 今回使用したマイクは、司会者用に[RCA](../Page/RCA.md "wikilink")-77D、歌手用に[東芝](../Page/東芝.md "wikilink")A型ベロシティーマイクロホンＯＢ-1028。
 
 ## 後日譚
 
-  - 紅白歌合戦はこの第3回までは正月番組であったが、[第4回は](https://ja.wikipedia.org/wiki/第4回NHK紅白歌合戦 "wikilink")12月31日の開催となり、以降毎年大晦日の開催となっている。そのため、1953年は1年で2度開催された。\[2\]
-  - [2017年](../Page/2017年.md "wikilink")[5月3日](../Page/5月3日.md "wikilink")、月丘の死去により今回の紅白出場者は全員が[鬼籍](https://ja.wikipedia.org/wiki/鬼籍 "wikilink")へ入った。歴代紅白の中で出場者全員が鬼籍へ入るのは初のことである（[第1回](../Page/第1回NHK紅白歌合戦.md "wikilink")（[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")）・第2回出場者の[菅原都々子](../Page/菅原都々子.md "wikilink")と第2回出場者[三条町子](../Page/三条町子.md "wikilink")はいずれも存命中であるものの、今回は不出場）。
+  - 紅白歌合戦はこの第3回までは正月番組であったが、[第4回は](../Page/第4回NHK紅白歌合戦.md "wikilink")12月31日の開催となり、以降毎年大晦日の開催となっている。そのため、1953年は1年で2度開催された。\[2\]
+  - [2017年](../Page/2017年.md "wikilink")[5月3日](../Page/5月3日.md "wikilink")、月丘の死去により今回の紅白出場者は全員が[鬼籍](../Page/鬼籍.md "wikilink")へ入った。歴代紅白の中で出場者全員が鬼籍へ入るのは初のことである（[第1回](../Page/第1回NHK紅白歌合戦.md "wikilink")（[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")）・第2回出場者の[菅原都々子](../Page/菅原都々子.md "wikilink")と第2回出場者[三条町子](../Page/三条町子.md "wikilink")はいずれも存命中であるものの、今回は不出場）。
 
 ## 脚注
 

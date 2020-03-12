@@ -1,7 +1,7 @@
 > この記事は[AFC U-19](https://ja.wikipedia.org/wiki/AFC_U-19)から翻訳されています。
 
 
-**AFC U-19女子選手権**（）は、[アジアサッカー連盟](../Page/アジアサッカー連盟.md "wikilink")（AFC）が主催する、19歳以下の[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[女子サッカー](https://ja.wikipedia.org/wiki/女子サッカー "wikilink")の大陸選手権大会である。[FIFA U-20女子ワールドカップの予選を兼ねている](../Page/FIFA_U-20女子ワールドカップ.md "wikilink")。
+**AFC U-19女子選手権**（）は、[アジアサッカー連盟](../Page/アジアサッカー連盟.md "wikilink")（AFC）が主催する、19歳以下の[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[女子サッカー](../Page/女子サッカー.md "wikilink")の大陸選手権大会である。[FIFA U-20女子ワールドカップの予選を兼ねている](../Page/FIFA_U-20女子ワールドカップ.md "wikilink")。
 
 [2022年大会より](https://ja.wikipedia.org/wiki/AFC_U-20女子選手権2022 "wikilink")、本大会開催年をFIFA U-20女子ワールドカップの前年から同年へ変更し（出場資格もU-20となる）、大会名も「**AFC U-20女子選手権**」（）に変更することが予定されている\[1\]。
 
@@ -58,7 +58,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/AFC_U-19女子選手権2006" title="wikilink">3</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>1 - 0</strong></p></td>
@@ -276,7 +276,7 @@
 ## 関連項目
 
   - [AFC U-16女子選手権](../Page/AFC_U-16女子選手権.md "wikilink") - AFCによる年代別の別カテゴリの大会
-  - [AFC U-19選手権](https://ja.wikipedia.org/wiki/AFC_U-19選手権 "wikilink") - AFCによる同年代の男子サッカーの大会
+  - [AFC U-19選手権](../Page/AFC_U-19選手権.md "wikilink") - AFCによる同年代の男子サッカーの大会
 
 ## 外部リンク
 

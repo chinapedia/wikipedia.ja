@@ -3,7 +3,7 @@
 
 **Pluribus**は、[BBNテクノロジーズ](../Page/BBNテクノロジーズ.md "wikilink")が[アーパネット](https://ja.wikipedia.org/wiki/アーパネット "wikilink")のパケット交換機として使うために設計した初期の[マルチプロセッサ](https://ja.wikipedia.org/wiki/マルチプロセッサ "wikilink")[コンピュータ](../Page/コンピュータ.md "wikilink")。そのデザインは後の[BBN Butterflyに影響を与えた](../Page/BBN_Butterfly.md "wikilink")。
 
-1972年、アーパネットでの第二世代の[Interface Message Processor](https://ja.wikipedia.org/wiki/Interface_Message_Processor "wikilink")(IMP)の必要性が明白になり、Pluribusの開発が始まった。当時、BBNは既に35箇所以上のアーパネットのサイトにIMPを設置していた。これらのIMPには[ハネウェル](https://ja.wikipedia.org/wiki/ハネウェル "wikilink")の 316 または 516 [ミニコンピュータ](https://ja.wikipedia.org/wiki/ミニコンピュータ "wikilink")が使われている。ネットワークの成長は、ノード数、ホスト数、端末数などの面で著しく、それに伴ってトラフィックや地理的な広がりも急速に伸びていた(当時、ヨーロッパとハワイを衛星通信で接続する計画もあった)。
+1972年、アーパネットでの第二世代の[Interface Message Processor](../Page/Interface_Message_Processor.md "wikilink")(IMP)の必要性が明白になり、Pluribusの開発が始まった。当時、BBNは既に35箇所以上のアーパネットのサイトにIMPを設置していた。これらのIMPには[ハネウェル](../Page/ハネウェル.md "wikilink")の 316 または 516 [ミニコンピュータ](../Page/ミニコンピュータ.md "wikilink")が使われている。ネットワークの成長は、ノード数、ホスト数、端末数などの面で著しく、それに伴ってトラフィックや地理的な広がりも急速に伸びていた(当時、ヨーロッパとハワイを衛星通信で接続する計画もあった)。
 
 設計目標はモジュール化されたマシンであり、[ローエンド](https://ja.wikipedia.org/wiki/ローエンド "wikilink")では 316 や 516 よりも小型低価格で、必要に応じて516の最大10倍のバンド幅と最大5倍の入出力デバイスを接続できる能力を実現できるものである。関連して、メモリ[アドレス空間](../Page/アドレス空間.md "wikilink")の拡大と信頼性の向上が重要とされた。
 

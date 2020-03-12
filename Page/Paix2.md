@@ -1,18 +1,18 @@
 > この記事は[Paix2](https://ja.wikipedia.org/wiki/Paix2)から翻訳されています。
 
 
-**Paix<sup>2</sup>**（**ペペ**）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")[デュオである](https://ja.wikipedia.org/wiki/二人組 "wikilink")。バンド名の意味は[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")で「[平和](../Page/平和.md "wikilink")」。
+**Paix<sup>2</sup>**（**ペペ**）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")[デュオである](../Page/二人組.md "wikilink")。バンド名の意味は[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")で「[平和](../Page/平和.md "wikilink")」。
 
-[刑務所](https://ja.wikipedia.org/wiki/刑務所 "wikilink")などでの慰問活動を精力的に行っているため、「[受刑者](https://ja.wikipedia.org/wiki/受刑者 "wikilink")の[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")」の愛称で呼ばれる。
+[刑務所](../Page/刑務所.md "wikilink")などでの慰問活動を精力的に行っているため、「[受刑者](../Page/受刑者.md "wikilink")の[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")」の愛称で呼ばれる。
 
 所属レコード会社は[日本コロムビア](../Page/日本コロムビア.md "wikilink")。
 
 ## メンバー
 
   - Manami（マナミ）
-    本名、北尾真奈美\[1\]。[2月7日](../Page/2月7日.md "wikilink")生まれ、[鳥取県](../Page/鳥取県.md "wikilink")[倉吉市](../Page/倉吉市.md "wikilink")出身\[2\]。デビュー前は[岡山大学固体地球研究センター技術補佐員だった](https://ja.wikipedia.org/wiki/岡山大学地球物質科学研究センター "wikilink")\[3\]。2014年より[保護司](https://ja.wikipedia.org/wiki/保護司 "wikilink")、2015年より矯正支援官。
+    本名、北尾真奈美\[1\]。[2月7日](../Page/2月7日.md "wikilink")生まれ、[鳥取県](../Page/鳥取県.md "wikilink")[倉吉市](../Page/倉吉市.md "wikilink")出身\[2\]。デビュー前は[岡山大学固体地球研究センター技術補佐員だった](../Page/岡山大学地球物質科学研究センター.md "wikilink")\[3\]。2014年より[保護司](../Page/保護司.md "wikilink")、2015年より矯正支援官。
   - Megumi（メグミ）
-    本名、井勝めぐみ\[4\]。[10月5日](../Page/10月5日.md "wikilink")生まれ、鳥取県[琴浦町](https://ja.wikipedia.org/wiki/琴浦町 "wikilink")出身\[5\]。デビュー前はの[看護師](https://ja.wikipedia.org/wiki/看護師 "wikilink")だった\[6\]。2014年より[保護司](https://ja.wikipedia.org/wiki/保護司 "wikilink")、2015年より矯正支援官。
+    本名、井勝めぐみ\[4\]。[10月5日](../Page/10月5日.md "wikilink")生まれ、鳥取県[琴浦町](../Page/琴浦町.md "wikilink")出身\[5\]。デビュー前はの[看護師](https://ja.wikipedia.org/wiki/看護師 "wikilink")だった\[6\]。2014年より[保護司](../Page/保護司.md "wikilink")、2015年より矯正支援官。
 
 ## 略歴
 
@@ -20,14 +20,14 @@
   - 2000年 - 「風のように春のように」で[インディーズ](../Page/インディーズ.md "wikilink")デビュー。
   - 2000年 - 全国の刑務所や[少年院](../Page/少年院.md "wikilink")などでの公演「Prisonコンサート」を開始。
   - 2001年-「風のように春のように」「元気だせよ」で日本コロムビアよりメジャーデビュー
-  - 2005年 - 「Prisonコンサート」の活動が評価され、[法務大臣](https://ja.wikipedia.org/wiki/法務大臣 "wikilink")の表彰を受ける。
-  - 2014年 - [法務省](../Page/法務省.md "wikilink")より[保護司](https://ja.wikipedia.org/wiki/保護司 "wikilink")に任命される\[7\]。
+  - 2005年 - 「Prisonコンサート」の活動が評価され、[法務大臣](../Page/法務大臣.md "wikilink")の表彰を受ける。
+  - 2014年 - [法務省](../Page/法務省.md "wikilink")より[保護司](../Page/保護司.md "wikilink")に任命される\[7\]。
   - 2015年 - 法務省より[矯正支援官](https://ja.wikipedia.org/wiki/矯正支援官 "wikilink")に任命される。
   - 2016年 - 「Prisonコンサート」400回の功績に対し、三度目の法務大臣表彰「感謝状」を授与される。
 
 ## Prisonコンサート
 
-活動の大きな特徴の一つが「Prisonコンサート」で、刑務所や少年院などの矯正施設で行う慰問活動である。開始のきっかけは、2000年に[一日署長](https://ja.wikipedia.org/wiki/一日署長 "wikilink")を務めた地元[鳥取県警](https://ja.wikipedia.org/wiki/鳥取県警 "wikilink")[倉吉警察署](https://ja.wikipedia.org/wiki/倉吉警察署 "wikilink")の勧めである\[8\]。
+活動の大きな特徴の一つが「Prisonコンサート」で、刑務所や少年院などの矯正施設で行う慰問活動である。開始のきっかけは、2000年に[一日署長](../Page/一日署長.md "wikilink")を務めた地元[鳥取県警](https://ja.wikipedia.org/wiki/鳥取県警 "wikilink")[倉吉警察署](../Page/倉吉警察署.md "wikilink")の勧めである\[8\]。
 
 ステージは主に、受刑者の心を動かすメッセージソングと、Megumiが看護師時代に患者の死に立ち会った際の語り等で構成され、受刑者たちを力づけると共に、命の尊さを訴えかける。受刑者の家族の苦悩やメッセージを読むこともある。
 
@@ -60,7 +60,7 @@
 
 ## 書籍
 
-  - SAYいっぱいをありがとう～塀の中から響く歌声～（[実業之日本社](https://ja.wikipedia.org/wiki/実業之日本社 "wikilink")）
+  - SAYいっぱいをありがとう～塀の中から響く歌声～（[実業之日本社](../Page/実業之日本社.md "wikilink")）
   - 逢えたらいいな～プリズン・コンサート３００回達成への道のり～（[鹿砦社](../Page/鹿砦社.md "wikilink")）
 
 ## 出演

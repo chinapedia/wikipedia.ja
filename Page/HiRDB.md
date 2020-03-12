@@ -5,7 +5,7 @@
 
 ## 概要
 
-HiRDBはデータベースを提供するHiRDBサーバとデータベースの検索・更新などを行うHiRDBクライアントで構成（[クライアントサーバモデル](../Page/クライアントサーバモデル.md "wikilink")）され、それぞれ[HP-UX](../Page/HP-UX.md "wikilink")、[AIX](https://ja.wikipedia.org/wiki/AIX "wikilink")、[Solaris](../Page/Solaris.md "wikilink")、[Linux](../Page/Linux.md "wikilink")、[WindowsなどのOS上で稼動する](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。 また、HiRDB上で動作する[SQL](../Page/SQL.md "wikilink")やユーザープログラムの開発キット（DevelopersKit）も提供されており、[C言語](../Page/C言語.md "wikilink")、[COBOL](../Page/COBOL.md "wikilink")、[Java](https://ja.wikipedia.org/wiki/Java "wikilink")などによるアプリケーション開発が可能となっている。
+HiRDBはデータベースを提供するHiRDBサーバとデータベースの検索・更新などを行うHiRDBクライアントで構成（[クライアントサーバモデル](../Page/クライアントサーバモデル.md "wikilink")）され、それぞれ[HP-UX](../Page/HP-UX.md "wikilink")、[AIX](../Page/AIX.md "wikilink")、[Solaris](../Page/Solaris.md "wikilink")、[Linux](../Page/Linux.md "wikilink")、[WindowsなどのOS上で稼動する](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。 また、HiRDB上で動作する[SQL](../Page/SQL.md "wikilink")やユーザープログラムの開発キット（DevelopersKit）も提供されており、[C言語](../Page/C言語.md "wikilink")、[COBOL](../Page/COBOL.md "wikilink")、[Java](https://ja.wikipedia.org/wiki/Java "wikilink")などによるアプリケーション開発が可能となっている。
 
 ## 関連項目
 

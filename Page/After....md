@@ -1,14 +1,14 @@
 > この記事は[After...](https://ja.wikipedia.org/wiki/After...)から翻訳されています。
 
 
-『**After...**』（アフター）は、[2003年](../Page/2003年.md "wikilink")[6月27日](../Page/6月27日.md "wikilink")に[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")[スペースプロジェクト](https://ja.wikipedia.org/wiki/スペースプロジェクト "wikilink")のブランド・**Ciel**より発売された[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")。及び、それを原作として制作され、[2007年](../Page/2007年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")に[ミルキーレーベル](https://ja.wikipedia.org/wiki/ミルキーレーベル "wikilink")より発売された[アダルトアニメ](../Page/アダルトアニメ.md "wikilink")。株式会社ジャックインザボックスのウェブサイト「[禁断のギャルゲー](https://ja.wikipedia.org/wiki/禁断のギャルゲー "wikilink")」より、[携帯電話ゲーム](https://ja.wikipedia.org/wiki/携帯電話ゲーム "wikilink")版も配信されている。
+『**After...**』（アフター）は、[2003年](../Page/2003年.md "wikilink")[6月27日](../Page/6月27日.md "wikilink")に[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")[スペースプロジェクト](../Page/スペースプロジェクト.md "wikilink")のブランド・**Ciel**より発売された[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")。及び、それを原作として制作され、[2007年](../Page/2007年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")に[ミルキーレーベル](../Page/ミルキーレーベル.md "wikilink")より発売された[アダルトアニメ](../Page/アダルトアニメ.md "wikilink")。株式会社ジャックインザボックスのウェブサイト「[禁断のギャルゲー](https://ja.wikipedia.org/wiki/禁断のギャルゲー "wikilink")」より、[携帯電話ゲーム](../Page/携帯電話ゲーム.md "wikilink")版も配信されている。
 
 ## 発売歴
 
   - 2003年6月27日 - Windows版発売。
   - 2003年[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink") - 外伝ストーリーとWindows用アクセサリー集を収録したファンディスク『After... -Sweet Kiss-』発売。
   - [2004年](../Page/2004年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink") - [ドリームキャスト](../Page/ドリームキャスト.md "wikilink")・[PlayStation 2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『After... 〜忘れえぬ絆〜』発売。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月26日](../Page/8月26日.md "wikilink") - 本編と『After... -Sweet Kiss-』のストーリーパートを収録した廉価版パッケージ『After... Story Edition』発売。
+  - [2005年](../Page/2005年.md "wikilink")[8月26日](../Page/8月26日.md "wikilink") - 本編と『After... -Sweet Kiss-』のストーリーパートを収録した廉価版パッケージ『After... Story Edition』発売。
   - [2007年](../Page/2007年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink") - アダルトアニメ版『After... THE ANIMATION』第1章発売。
   - [2007年](../Page/2007年.md "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink") - ダウンロード（Windows Vista対応）版『After...』発売。
 
@@ -16,7 +16,7 @@
 
 ### ストーリー
 
-霧ヶ杜学園（きりがもりがくえん）3年、[ワンダーフォーゲル](../Page/ワンダーフォーゲル.md "wikilink")部部員の**高鷲祐一**が、部活の友人の**滝谷紘太郎**、**我孫子慶生**、祐一の妹の**渚**、紘太郎の[幼馴染](https://ja.wikipedia.org/wiki/幼馴染 "wikilink")の**喜志陽子**、そして祐一の幼馴染の**汐宮香奈美**、と夏、秋、冬の学園生活を過ごしながら、学園生活最後の登山として冬の[日本アルプス](../Page/日本アルプス.md "wikilink")・[穂高縦走を目指してゆく](../Page/穂高岳.md "wikilink")。
+霧ヶ杜学園（きりがもりがくえん）3年、[ワンダーフォーゲル](../Page/ワンダーフォーゲル.md "wikilink")部部員の**高鷲祐一**が、部活の友人の**滝谷紘太郎**、**我孫子慶生**、祐一の妹の**渚**、紘太郎の[幼馴染](../Page/幼馴染.md "wikilink")の**喜志陽子**、そして祐一の幼馴染の**汐宮香奈美**、と夏、秋、冬の学園生活を過ごしながら、学園生活最後の登山として冬の[日本アルプス](../Page/日本アルプス.md "wikilink")・[穂高縦走を目指してゆく](../Page/穂高岳.md "wikilink")。
 
 上記はオフィシャルのストーリーコピーだが、実際には冬の穂高縦走登山に向かった後の出来事がこの物語の主軸となっている。
 
@@ -38,10 +38,10 @@
     声 - 無し / [木村伊蔵](https://ja.wikipedia.org/wiki/木村伊蔵 "wikilink")
     本作の主人公で霧ヶ杜学園3年。ワンダーフォーゲル部部員。冬の穂高縦走を目指している。[やぎ座](../Page/やぎ座.md "wikilink")生まれ、血液型A型。
   - 汐宮 香奈美（しおみや かなみ）
-    声 - [芹園みや](https://ja.wikipedia.org/wiki/芹園みや "wikilink")
+    声 - [芹園みや](../Page/芹園みや.md "wikilink")
     祐一の幼馴染で同級生。高鷲家にはよく出入りしていて、祐一とは親密な関係である。また、渚とも実の姉妹のような間柄である。[みずがめ座](../Page/みずがめ座.md "wikilink")生まれ、血液型AB型。
   - 高鷲 渚（たかわし なぎさ）
-    声 - [みちる](https://ja.wikipedia.org/wiki/みちる "wikilink") / [みる](https://ja.wikipedia.org/wiki/みる "wikilink")
+    声 - [みちる](https://ja.wikipedia.org/wiki/みちる "wikilink") / [みる](../Page/みる.md "wikilink")
     祐一の妹。霧ヶ杜学園1年。[うお座](../Page/うお座.md "wikilink")生まれ、血液型A型。
   - 喜志 陽子（きし ようこ）
     声 - [柘翁そのか](https://ja.wikipedia.org/wiki/柘翁そのか "wikilink") / [狭山美咲](https://ja.wikipedia.org/wiki/狭山美咲 "wikilink")
@@ -50,21 +50,21 @@
     声 - [神無月季](https://ja.wikipedia.org/wiki/神無月季 "wikilink")
     祐一の古くからの友人で、ワンダーフォーゲル部部員。陽子とは幼馴染であり、学園トップの成績を争うライバルでもある。[さそり座](../Page/さそり座.md "wikilink")生まれ、血液型O型。
   - 我孫子 慶生（あびこ けいしょう）
-    声 - [マルコ](https://ja.wikipedia.org/wiki/マルコ_\(声優\) "wikilink")
+    声 - [マルコ](../Page/マルコ_\(声優\).md "wikilink")
     祐一と紘太郎の中学からの友人で、ワンダーフォーゲル部部員。[おとめ座](../Page/おとめ座.md "wikilink")生まれ、血液型AB型。
   - 千早 美雪（ちはや みゆき）
     声 - [如月美琴](https://ja.wikipedia.org/wiki/如月美琴 "wikilink") / 無し
     祐一が夜の繁華街で偶然出会った女性。実は聡の婚約者であることが、後に判明する。[いて座](../Page/いて座.md "wikilink")生まれ、血液型B型。
   - 三日市 沙織（みっかいち さおり）
     声 - [深井晴花](https://ja.wikipedia.org/wiki/深井晴花 "wikilink")
-    祐一が夜の峠で出会った女性ライダーで、後に霧ヶ杜学園の[養護教諭](https://ja.wikipedia.org/wiki/養護教諭 "wikilink")となる。[おうし座](../Page/おうし座.md "wikilink")生まれ、血液型A型。
+    祐一が夜の峠で出会った女性ライダーで、後に霧ヶ杜学園の[養護教諭](../Page/養護教諭.md "wikilink")となる。[おうし座](../Page/おうし座.md "wikilink")生まれ、血液型A型。
   - 学文路 聡（かむろ さとし）
     声 - [機知通](https://ja.wikipedia.org/wiki/機知通 "wikilink") / 無し
     霧ヶ杜学園を創始した学文路家の御曹司だが、現在は家から飛び出しているため、美雪との関係もうまく行っていない。おうし座生まれ、血液型O型。
   - サイファ
     声 - [山口一樹](https://ja.wikipedia.org/wiki/山口一樹 "wikilink") / 無し
   - ルー
-    声 - [木村あやか](https://ja.wikipedia.org/wiki/木村あやか "wikilink") / 無し
+    声 - [木村あやか](../Page/木村あやか.md "wikilink") / 無し
     以上の2人は物語の鍵を握る存在。
 
 ### スタッフ
@@ -106,11 +106,11 @@
 
 ## アダルトアニメ版
 
-『**After... THE ANIMATION**』（アフター ジ・アニメーション）のタイトルで、[2007年](../Page/2007年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")に第1章が、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月25日](../Page/1月25日.md "wikilink")に第2章が[ミルキーレーベル](https://ja.wikipedia.org/wiki/ミルキーレーベル "wikilink")より発売された。全2巻。
+『**After... THE ANIMATION**』（アフター ジ・アニメーション）のタイトルで、[2007年](../Page/2007年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")に第1章が、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月25日](../Page/1月25日.md "wikilink")に第2章が[ミルキーレーベル](../Page/ミルキーレーベル.md "wikilink")より発売された。全2巻。
 
 シナリオはアダルトゲーム版のメインキャラクター設定を借りただけで、全くの別物。そのため、一部のキャラクターは登場しない。
 
-なお、Tonyが原画を担当したアダルトゲームを原作とするアダルトアニメとしては、本作第1章の前に[ひまじんより発売された](../Page/ゑにっく.md "wikilink")『[そらのいろ、みずのいろ](https://ja.wikipedia.org/wiki/そらのいろ、みずのいろ "wikilink")』上巻があるが、本作第1章はそれに作画面で大きく劣っている（動きや芝居は言うまでもなく、登場人物の顔や体型がデッサンレベルから崩壊しており、カット毎にコロコロ変わる）。しかし、第2章では若干の改善が施された。
+なお、Tonyが原画を担当したアダルトゲームを原作とするアダルトアニメとしては、本作第1章の前に[ひまじんより発売された](../Page/ゑにっく.md "wikilink")『[そらのいろ、みずのいろ](../Page/そらのいろ、みずのいろ.md "wikilink")』上巻があるが、本作第1章はそれに作画面で大きく劣っている（動きや芝居は言うまでもなく、登場人物の顔や体型がデッサンレベルから崩壊しており、カット毎にコロコロ変わる）。しかし、第2章では若干の改善が施された。
 
 ### スタッフ（アニメ）
 
@@ -146,7 +146,7 @@
 
 ## 関連項目
 
-  - [そらのいろ、みずのいろ](https://ja.wikipedia.org/wiki/そらのいろ、みずのいろ "wikilink") - アダルトアニメ版に汐宮香奈美・喜志陽子・高鷲渚がゲスト出演。
+  - [そらのいろ、みずのいろ](../Page/そらのいろ、みずのいろ.md "wikilink") - アダルトアニメ版に汐宮香奈美・喜志陽子・高鷲渚がゲスト出演。
 
 ## 外部リンク
 

@@ -1,11 +1,11 @@
 > この記事は[SoltyRei](https://ja.wikipedia.org/wiki/SoltyRei)から翻訳されています。
 
 
-『**SoltyRei**』（ソルティレイ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[アニメ](../Page/アニメ.md "wikilink")作品。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月6日](../Page/10月6日.md "wikilink")から[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[テレビ朝日](../Page/テレビ朝日.md "wikilink")等で放送された。
+『**SoltyRei**』（ソルティレイ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[アニメ](../Page/アニメ.md "wikilink")作品。[2005年](../Page/2005年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[テレビ朝日](../Page/テレビ朝日.md "wikilink")等で放送された。
 
 ## 概要
 
-機械仕掛けの少女・ソルティの成長と葛藤を描く内容の作品である。 [音泉](https://ja.wikipedia.org/wiki/音泉 "wikilink")による[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")（番組名は「[Solty Reidio](https://ja.wikipedia.org/wiki/Solty_Reidio "wikilink")」）や2005年12月9日から[月刊ComicREX](../Page/月刊ComicREX.md "wikilink")（[一迅社](https://ja.wikipedia.org/wiki/一迅社 "wikilink")）で『SoltyRei -赤の淑女-』として[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")が連載されるなど、[メディアミックス](../Page/メディアミックス.md "wikilink")も展開している。 [タブリエ・コミュニケーションズ](https://ja.wikipedia.org/wiki/タブリエ・コミュニケーションズ "wikilink")が運営するサポーターズコミュニティーサイト「[BEWE](../Page/BEWE.md "wikilink")」にて、SoltyReiサポーターズクラブ「**みんなのハンターズギルド**」が[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月27日](../Page/2月27日.md "wikilink")に開設された。
+機械仕掛けの少女・ソルティの成長と葛藤を描く内容の作品である。 [音泉](../Page/音泉.md "wikilink")による[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")（番組名は「[Solty Reidio](../Page/Solty_Reidio.md "wikilink")」）や2005年12月9日から[月刊ComicREX](../Page/月刊ComicREX.md "wikilink")（[一迅社](../Page/一迅社.md "wikilink")）で『SoltyRei -赤の淑女-』として[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")が連載されるなど、[メディアミックス](../Page/メディアミックス.md "wikilink")も展開している。 [タブリエ・コミュニケーションズ](../Page/タブリエ・コミュニケーションズ.md "wikilink")が運営するサポーターズコミュニティーサイト「[BEWE](../Page/BEWE.md "wikilink")」にて、SoltyReiサポーターズクラブ「**みんなのハンターズギルド**」が[2006年](../Page/2006年.md "wikilink")[2月27日](../Page/2月27日.md "wikilink")に開設された。
 
 ## ストーリー
 
@@ -45,7 +45,7 @@
 ### レギュラー・キャラクター
 
   - ソルティ・レヴァント
-    [声](../Page/声優.md "wikilink") - [斎藤桃子](https://ja.wikipedia.org/wiki/斎藤桃子 "wikilink")
+    [声](../Page/声優.md "wikilink") - [斎藤桃子](../Page/斎藤桃子.md "wikilink")
     本作の主人公。
     ロイの仕事中に空から降ってきた全身リゼンブル（ジェニュイン）の少女。
     身長153cm、誕生日は6月30日（演じる斎藤と同じ）。
@@ -54,7 +54,7 @@
     ロイたちと出会って“ソルティ”と名付けられた。かなり特殊な髪形をしている。ぴこぴこ動く触角のようなものは耳。
     本当の名前は**ディケ**（エウノミア・エイレネ・ディケの出典については[ホーライ](https://ja.wikipedia.org/wiki/ホーライ "wikilink")を参照）で３つある内のコンピューターの一つ。
   - ロイ・レヴァント
-    声 - [中田譲治](https://ja.wikipedia.org/wiki/中田譲治 "wikilink")
+    声 - [中田譲治](../Page/中田譲治.md "wikilink")
     男のハンター（賞金稼ぎ）。
     11月生まれ、40歳、身長197cm
     妻のサラを病気で亡くし、娘のリタもブラストフォールで行方不明になってしまったが、一人娘のリタは今でもどこかで生きていると信じて生きている。
@@ -106,39 +106,39 @@
     彼女も12年前の災害で両親が行方不明となっている。料理好きで内気な少女。
     ソルティが家出した際、家に泊めた。
   - ラリー・アンダーソン
-    声 - [田坂秀樹](https://ja.wikipedia.org/wiki/田坂秀樹 "wikilink")
+    声 - [田坂秀樹](../Page/田坂秀樹.md "wikilink")
     アンダーソン兄弟の長男であり、盗賊グループのリーダー。
     非常に兄弟思いで、身内に危害を加えるものには容赦をしない。
     ラリー曰く、盗賊団の正式名称は「なかよしアンダーソン・ブラザーズ」。
     22歳、身長191cm
   - アンディ・アンダーソン
-    声 - [鈴木達央](https://ja.wikipedia.org/wiki/鈴木達央 "wikilink")
+    声 - [鈴木達央](../Page/鈴木達央.md "wikilink")
     アンダーソン兄弟の次男であり、盗賊グループのメンバー。
     20歳、身長172cm。
     古いコンピュータなどのハッキングなど、情報処理など担当。終盤ではユートとその繋がりで行動を共にすることが多くなる。
     考えるよりも行動するタイプ。ローズのことを人一倍気に掛けている。
   - ユート・K・スティール
-    声 - [下野紘](https://ja.wikipedia.org/wiki/下野紘 "wikilink")
+    声 - [下野紘](../Page/下野紘.md "wikilink")
     リゼンブル技術者(自称)。
     20歳、身長172cm
     病院に勤めていたが、ソルティの健康診断を行っている際、ジェニュイン（全身リゼンブル）だということを発見、その後は、病院のメイン電源と直結した電極をソルティに付けて爆発させてしまい、病院をクビになってしまう。その後、「マーベリック・ハンターズオフィス」のメカニックとして所属し、ソルティに対して幾度もアタックをするようになる。
     現在の技術ではありえないソルティのリゼンブル技術に夢中である。
   - アシュレイ・リンクス
-    声 - [飛田展男](https://ja.wikipedia.org/wiki/飛田展男 "wikilink")
+    声 - [飛田展男](../Page/飛田展男.md "wikilink")
     R.U.C警備部事業部長。会議が嫌で抜け出したところ、ベンチに座っていたローズと知り合う。
     年齢不詳（外見程度は20代）、身長190cm
     人あたりは良く、プロシードメンバーからも熱い信頼を受けている。
     名前を何度も変えており、本当の名前は、ロック。
     ある目的からプロシードメンバーを切り捨て、ローズをR.U.Cに招き入れた。
   - イルミナ・キッシュ
-    声 - [稲村優奈](https://ja.wikipedia.org/wiki/稲村優奈 "wikilink")
+    声 - [稲村優奈](../Page/稲村優奈.md "wikilink")
     アシュレイの恋人であった女性。
   - ジョセフ
-    声 - [立木文彦](https://ja.wikipedia.org/wiki/立木文彦 "wikilink")
+    声 - [立木文彦](../Page/立木文彦.md "wikilink")
     町から離れた荒野に住む老人。自らを傍観者と呼ぶ世捨て人。ウィルと一緒に暮らしている。
     物語の真実を知るキーパーソン的人物でアシュレイを止めるため、傍観者を辞め、ロイたちに協力する。
   - サラ・レヴァント
-    声 - [近江知永](https://ja.wikipedia.org/wiki/近江知永 "wikilink")
+    声 - [近江知永](../Page/近江知永.md "wikilink")
     ロイの妻でミランダの親友。ブラストフォール以前に病気で他界。22歳。
 
 ### ゲスト・キャラクター
@@ -164,17 +164,17 @@
     声 - [石毛佐和](../Page/石毛佐和.md "wikilink")
     ソルティのはじめての友達だったが、ソルティの力を目の当たりにし恐怖で怯えてしまう（後日ドラマCDで仲直りした）。
   - ジャック・マクリーン
-    声 - [緒方文興](https://ja.wikipedia.org/wiki/緒方文興 "wikilink")
+    声 - [緒方文興](../Page/緒方文興.md "wikilink")
     死刑囚ナンバー11467実験体ナンバー4385。
     最新技術により全身の78パーセントまでリゼンブル化されているが実験中に逃走。電撃によりソルティを一時的に機能停止させた。最後はソルティによって胴体を貫かれ命を落とす。
   - デューイ・ブラック
-    声 - [仲野裕](https://ja.wikipedia.org/wiki/仲野裕 "wikilink")
+    声 - [仲野裕](../Page/仲野裕.md "wikilink")
     ソルティが健康診断を受けた病院の事務局長。
   - ナタリー・ローマン
     声 - [金月真美](../Page/金月真美.md "wikilink")
     ソルティが健康診断を受けた病院の事務局長秘書。
   - リタ・レヴァント / リタ・グレコー
-    声 - [永野愛](https://ja.wikipedia.org/wiki/永野愛 "wikilink")
+    声 - [永野愛](../Page/永野愛.md "wikilink")
     ブラストフォールの巻き込まれ目と足が不自由になった少女。
     ニューライツチャイルドと呼ばれるブラストフォールによる身元不明の乳幼児だった。ロイの娘とは別人でレヴァントという姓は市から与えられたもの。最終話ではメリルと共に人々が地下に避難するシーンで登場し、リゼンブル化の手術は成功したものと見られる。
   - ビンセント・グレコー
@@ -187,62 +187,62 @@
     声 - [速水奨](../Page/速水奨.md "wikilink")
     未登録市民のみを狙う殺人鬼。幼い頃ローズの初めての友人であるアイリーンを殺した。両腕がリフレクトコートを施したリゼンブルになっている。
   - ホウ・チュウ
-    声 - [大塚芳忠](https://ja.wikipedia.org/wiki/大塚芳忠 "wikilink")
+    声 - [大塚芳忠](../Page/大塚芳忠.md "wikilink")
     数年前ロイによって捕らえられた爆弾魔。自分の作る爆弾を芸術と信じている。
     ロイに深い恨みを抱いており、改造させた自らの腕を使ってより高度な爆弾を作り復讐を企てる。
     名前のホウ・チュウは大塚芳忠の名前から、本人の許可を得て付けられた。
   - ジェレミー・コルベール
-    声 - [永田亮子](https://ja.wikipedia.org/wiki/永田亮子 "wikilink")
+    声 - [永田亮子](../Page/永田亮子.md "wikilink")
     ユートの友人でエネルギー資源の研究をしている科学者。R.U.Cによる社会管理を崩すために行動するが失敗し、小規模なブラストフォールを起こしてしまう。
   - ヴォートル
-    声 - [渡部猛](https://ja.wikipedia.org/wiki/渡部猛 "wikilink")
+    声 - [渡部猛](../Page/渡部猛.md "wikilink")
     登録市民で八百屋をやっている。ブラストフォールで妻や子供を亡くしている。
   - ミィ
-    声 - [沢城みゆき](https://ja.wikipedia.org/wiki/沢城みゆき "wikilink")
+    声 - [沢城みゆき](../Page/沢城みゆき.md "wikilink")
     未登録市民。万引きの常習犯で、登録市民のことをよくは思っていない。猫耳がついているような髪形をしている。
     最終話の後半シーンにて、ヴォートルと共に成長した姿で登場し、彼を「お父さん」と呼んでいることから、ヴォートルの養子になった模様である。
   - 中華娘
-    声 - [真堂圭](https://ja.wikipedia.org/wiki/真堂圭 "wikilink")
+    声 - [真堂圭](../Page/真堂圭.md "wikilink")
     マーベリック・ハンターズオフィスやロイの部屋に出前を届けてくれる少女。
     中華料理屋「来来軒」の料理が下手なアルバイト。面接も「中華娘」で通したらしい。
   - アム・トランファ
-    声 - [生天目仁美](https://ja.wikipedia.org/wiki/生天目仁美 "wikilink")
+    声 - [生天目仁美](../Page/生天目仁美.md "wikilink")
     A.T.ハンターズオフィス所属のハンターで四肢はリゼンブル化している。通り名は「レッド・フォー・アム」と呼ばれ恐れられている。ハンターとしては優秀とはいえないが戦闘能力はかなりのものでシルビアとは良き友人。
     以前、ソルティと戦闘したことがありその際に両腕のリゼンブルを破壊された事がある、キレやすく大声を出すことからソルティからは敬遠されている。
     前述のソルティとの一件を描いた[月刊ComicREX](../Page/月刊ComicREX.md "wikilink")でのコミック版[SoltyRei -赤の淑女-の主人公で](https://ja.wikipedia.org/wiki/SoltyRei_-赤の淑女- "wikilink")、A.T.ハンターズオフィスは漫画作中で彼女が出会った『相棒』と共に立ち上げたオフィスである。
-    因みに同漫画の最後に収録されている、「ちょびっとソルティ劇場 -赤の淑女編-」にて「アムさんは[ツンデレ](https://ja.wikipedia.org/wiki/ツンデレ "wikilink")なんですね？」とソルティに問われており、その際「…同じ台詞後ろのオヤジ（ロイ）にも言ってやんな？」と返している。
+    因みに同漫画の最後に収録されている、「ちょびっとソルティ劇場 -赤の淑女編-」にて「アムさんは[ツンデレ](../Page/ツンデレ.md "wikilink")なんですね？」とソルティに問われており、その際「…同じ台詞後ろのオヤジ（ロイ）にも言ってやんな？」と返している。
     アニメには第EX話「すれ違うキモチで、想い合うココロで。」にて登場。
 
 ## スタッフ
 
   - 企画原案 - [Shuzilow.HA](../Page/Shuzilow.HA.md "wikilink")/[GONZO](../Page/ゴンゾ.md "wikilink")
-  - 監督 - [平池芳正](https://ja.wikipedia.org/wiki/平池芳正 "wikilink")
+  - 監督 - [平池芳正](../Page/平池芳正.md "wikilink")
   - 助監督 - 遠藤広隆
-  - シリーズ構成・脚本 - [木村暢](https://ja.wikipedia.org/wiki/木村暢 "wikilink")
+  - シリーズ構成・脚本 - [木村暢](../Page/木村暢.md "wikilink")
   - キャラクターデザイン・総作画監督 - [Shuzilow.HA](../Page/Shuzilow.HA.md "wikilink")
   - メカニックデザイン - [海老川兼武](../Page/海老川兼武.md "wikilink")
-  - コンセプトデザイン原案 - [園田健一](https://ja.wikipedia.org/wiki/園田健一 "wikilink")（銃、プリスーツデザイン）、[村田蓮爾](../Page/村田蓮爾.md "wikilink")（ローズバイクデザイン）、[前田真宏](https://ja.wikipedia.org/wiki/前田真宏_\(アニメ監督\) "wikilink")（ロイの車/ノンテロップ）
+  - コンセプトデザイン原案 - [園田健一](../Page/園田健一.md "wikilink")（銃、プリスーツデザイン）、[村田蓮爾](../Page/村田蓮爾.md "wikilink")（ローズバイクデザイン）、[前田真宏](../Page/前田真宏_\(アニメ監督\).md "wikilink")（ロイの車/ノンテロップ）
   - 美術監督 - 小濱俊裕
   - 色彩設定 - 大内綾
   - 撮影監督 - 田中浩介
   - 編集 - 廣瀬清志
-  - 音響監督 - [鶴岡陽太](https://ja.wikipedia.org/wiki/鶴岡陽太 "wikilink")
+  - 音響監督 - [鶴岡陽太](../Page/鶴岡陽太.md "wikilink")
   - 音楽 - [大森俊之](https://ja.wikipedia.org/wiki/大森俊之 "wikilink")
   - 音楽プロデューサー - 藤田純二、伊藤善之
   - 音楽制作 - [フューチャービジョンミュージック](https://ja.wikipedia.org/wiki/フューチャービジョンミュージック "wikilink")、[Mellow Head](https://ja.wikipedia.org/wiki/Mellow_Head "wikilink")
   - エグゼクティブプロデューサー - 梶田浩司
   - プロデューサー - 猪股一彦、西口なおみ
   - アニメーションプロデューサー - 福家日左夫
-  - アニメーション制作 - GONZO×[AIC](https://ja.wikipedia.org/wiki/アニメインターナショナルカンパニー "wikilink")
+  - アニメーション制作 - GONZO×[AIC](../Page/アニメインターナショナルカンパニー.md "wikilink")
   - 制作 - テレビ朝日
   - 製作 - ソルティーロックプロジェクト
 
 ## 主題歌
 
   - オープニング「[clover](https://ja.wikipedia.org/wiki/clover_\(meg_rockの曲\) "wikilink")」
-    作詞・作曲・歌 - [meg rock](https://ja.wikipedia.org/wiki/日向めぐみ "wikilink") / 編曲 - [加藤大祐](../Page/加藤大祐.md "wikilink")
+    作詞・作曲・歌 - [meg rock](../Page/日向めぐみ.md "wikilink") / 編曲 - [加藤大祐](../Page/加藤大祐.md "wikilink")
   - エンディング「[Float 〜空の彼方で〜](https://ja.wikipedia.org/wiki/Float_〜空の彼方で〜 "wikilink")」（第1話〜第11話、第13話〜第23話）
-    作詞・作曲 - [奥井雅美](../Page/奥井雅美.md "wikilink") / 編曲 - [市川淳](https://ja.wikipedia.org/wiki/市川淳 "wikilink") / 歌 - [近江知永](https://ja.wikipedia.org/wiki/近江知永 "wikilink")
+    作詞・作曲 - [奥井雅美](../Page/奥井雅美.md "wikilink") / 編曲 - [市川淳](https://ja.wikipedia.org/wiki/市川淳 "wikilink") / 歌 - [近江知永](../Page/近江知永.md "wikilink")
 
 ## 挿入歌
 
@@ -286,7 +286,7 @@
 <tr class="even">
 <td><p>Episode:1</p></td>
 <td><p>オーロラの降る街</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/平池芳正" title="wikilink">平池芳正</a></p></td>
+<td><p><a href="../Page/平池芳正.md" title="wikilink">平池芳正</a></p></td>
 <td><p>遠藤広隆</p></td>
 <td><p>原修一</p></td>
 <td><p>Vol.1</p></td>
@@ -391,7 +391,7 @@
 <tr class="odd">
 <td><p>Episode:14</p></td>
 <td><p>心覆う闇のために…</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/杉島邦久" title="wikilink">杉島邦久</a></p></td>
+<td><p><a href="../Page/杉島邦久.md" title="wikilink">杉島邦久</a></p></td>
 <td><p>山田弘和</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/越智博之" title="wikilink">越智博之</a></p></td>
 <td></td>
@@ -471,7 +471,7 @@
 <tr class="odd">
 <td><p>Episode:24</p></td>
 <td><p>これから</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/秋山勝仁" title="wikilink">秋山勝仁</a></p></td>
+<td><p><a href="../Page/秋山勝仁.md" title="wikilink">秋山勝仁</a></p></td>
 <td><p>仁昌寺義人</p></td>
 <td><p><a href="../Page/Shuzilow.HA.md" title="wikilink">Shuzilow.HA</a></p></td>
 <td></td>
@@ -504,7 +504,7 @@
 <tr class="odd">
 <td><p><a href="../Page/広域放送.md" title="wikilink">関東広域圏</a></p></td>
 <td><p><a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/10月6日.md" title="wikilink">10月6日</a> - <a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/3月30日.md" title="wikilink">3月30日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/10月6日.md" title="wikilink">10月6日</a> - <a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/3月30日.md" title="wikilink">3月30日</a></p></td>
 <td><p>木曜 26:40 - 27:10</p></td>
 </tr>
 <tr class="even">
@@ -521,7 +521,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/チャンネルNECO" title="wikilink">チャンネルNECO</a></p></td>
+<td><p><a href="../Page/チャンネルNECO.md" title="wikilink">チャンネルNECO</a></p></td>
 <td><p>2014年<a href="../Page/8月18日.md" title="wikilink">8月18日</a> -</p></td>
 <td><p>月曜 23:00 更新<br />
 （2014年10月以降は金曜 17:00更新）</p></td>
@@ -530,9 +530,9 @@
 </tbody>
 </table>
 
-テレビ朝日の放送については、年末年始の特番編成による休止があり（12月23日、12月29日、1月5日）、さらに2月16日には、2月15日に予定されていた[トリノオリンピック](https://ja.wikipedia.org/wiki/トリノオリンピック "wikilink")[ノルディック複合](https://ja.wikipedia.org/wiki/ノルディック複合 "wikilink")団体が、前半の[ジャンプについて](../Page/スキージャンプ.md "wikilink")、悪天候で競技が順延され中継が翌日振替になった影響で、同番組が急遽休止となった。そのため、3月30日は3話連続放送で最終回を迎えた。
+テレビ朝日の放送については、年末年始の特番編成による休止があり（12月23日、12月29日、1月5日）、さらに2月16日には、2月15日に予定されていた[トリノオリンピック](https://ja.wikipedia.org/wiki/トリノオリンピック "wikilink")[ノルディック複合](../Page/ノルディック複合.md "wikilink")団体が、前半の[ジャンプについて](../Page/スキージャンプ.md "wikilink")、悪天候で競技が順延され中継が翌日振替になった影響で、同番組が急遽休止となった。そのため、3月30日は3話連続放送で最終回を迎えた。
 
-[GyaOでは](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")2006年8月18日に全話一挙配信された。[チャンネルNECO](https://ja.wikipedia.org/wiki/チャンネルNECO "wikilink")では、CS・BS初となるEpisode:EX（地上波未放送話）を放映予定。
+[GyaOでは](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")2006年8月18日に全話一挙配信された。[チャンネルNECO](../Page/チャンネルNECO.md "wikilink")では、CS・BS初となるEpisode:EX（地上波未放送話）を放映予定。
 
 ## 関連商品
 
@@ -541,7 +541,7 @@
 | 巻数               | 発売日                                                                                         | 規格品番      |
 | ---------------- | ------------------------------------------------------------------------------------------- | --------- |
 | 初回限定版            |                                                                                             |           |
-| SoltyRei FILE.1  | [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月25日](../Page/1月25日.md "wikilink") | GDDL-1061 |
+| SoltyRei FILE.1  | [2006年](../Page/2006年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")                    | GDDL-1061 |
 | SoltyRei FILE.2  | 2006年[2月22日](../Page/2月22日.md "wikilink")                                                   | GDDL-1062 |
 | SoltyRei FILE.3  | 2006年[3月22日](../Page/3月22日.md "wikilink")                                                   | GDDL-1063 |
 | SoltyRei FILE.4  | 2006年[4月26日](../Page/4月26日.md "wikilink")                                                   | GDDL-1064 |

@@ -1,7 +1,7 @@
 > この記事は[Jig](https://ja.wikipedia.org/wiki/Jig)から翻訳されています。
 
 
-**jigブラウザ**（ジグブラウザ）は、[携帯電話](../Page/携帯電話.md "wikilink")からインターネット上のウェブページを閲覧するための[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")（[フルブラウザ](https://ja.wikipedia.org/wiki/フルブラウザ "wikilink")）である。株式会社[jig.jp](https://ja.wikipedia.org/wiki/jig.jp "wikilink")が[2004年](../Page/2004年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")に公開した。[2012年](../Page/2012年.md "wikilink")までに累計900万以上のユーザーに利用されている\[1\]。
+**jigブラウザ**（ジグブラウザ）は、[携帯電話](../Page/携帯電話.md "wikilink")からインターネット上のウェブページを閲覧するための[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")（[フルブラウザ](../Page/フルブラウザ.md "wikilink")）である。株式会社[jig.jp](https://ja.wikipedia.org/wiki/jig.jp "wikilink")が[2004年](../Page/2004年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")に公開した。[2012年](../Page/2012年.md "wikilink")までに累計900万以上のユーザーに利用されている\[1\]。
 
 ## 特徴
 
@@ -26,7 +26,7 @@ jigブラウザwebは[iモード](https://ja.wikipedia.org/wiki/iモード "wiki
 <!-- end list -->
 
   - jigブラウザ Ver9.X.Xi
-    jigブラウザ9をベースに2008年秋冬モデルの一部機種より採用された新たなiアプリAPIである[Starプロファイル](https://ja.wikipedia.org/wiki/Starプロファイル "wikilink")に対応したバージョン。[iウィジェット](https://ja.wikipedia.org/wiki/iウィジェット "wikilink")に対応し、Starプロファイルにてサポートされた端末機能（[タッチパネル](https://ja.wikipedia.org/wiki/タッチパネル "wikilink")、光[TOUCH CRUISER](https://ja.wikipedia.org/wiki/TOUCH_CRUISER "wikilink")）などにも対応した。
+    jigブラウザ9をベースに2008年秋冬モデルの一部機種より採用された新たなiアプリAPIである[Starプロファイル](https://ja.wikipedia.org/wiki/Starプロファイル "wikilink")に対応したバージョン。[iウィジェット](https://ja.wikipedia.org/wiki/iウィジェット "wikilink")に対応し、Starプロファイルにてサポートされた端末機能（[タッチパネル](../Page/タッチパネル.md "wikilink")、光[TOUCH CRUISER](https://ja.wikipedia.org/wiki/TOUCH_CRUISER "wikilink")）などにも対応した。
 
 <!-- end list -->
 
@@ -36,7 +36,7 @@ jigブラウザwebは[iモード](https://ja.wikipedia.org/wiki/iモード "wiki
 <!-- end list -->
 
   - jigブラウザ100KB Ver7.X.X
-    NTTドコモのFOMA90Xiシリーズ、F702iD, auのEZアプリ (Java) 対応機、および[SoftBank 3G対応機用のjigブラウザで](https://ja.wikipedia.org/wiki/SoftBank_3G "wikilink")、プログラムの容量は100KBである。このバージョンの特徴はjigletに対応していることであろう。
+    NTTドコモのFOMA90Xiシリーズ、F702iD, auのEZアプリ (Java) 対応機、および[SoftBank 3G対応機用のjigブラウザで](../Page/SoftBank_3G.md "wikilink")、プログラムの容量は100KBである。このバージョンの特徴はjigletに対応していることであろう。
 
 <!-- end list -->
 
@@ -46,7 +46,7 @@ jigブラウザwebは[iモード](https://ja.wikipedia.org/wiki/iモード "wiki
 <!-- end list -->
 
   -
-    auのEZアプリ([BREW](https://ja.wikipedia.org/wiki/BREW "wikilink"))対応機向けの開発は[KDDI](../Page/KDDI.md "wikilink")の承認が降りないため実現していない。
+    auのEZアプリ([BREW](../Page/BREW.md "wikilink"))対応機向けの開発は[KDDI](../Page/KDDI.md "wikilink")の承認が降りないため実現していない。
 
 <!-- end list -->
 
@@ -83,7 +83,7 @@ jigブラウザwebは[iモード](https://ja.wikipedia.org/wiki/iモード "wiki
 
 ## 支払い方法
 
-NTTドコモ、au、ソフトバンクモバイルでは、[コンビニ払い](../Page/コンビニエンスストア.md "wikilink")（ドコモ、auのみ）、Yahoo\!ウォレット、[ウェブマネー](https://ja.wikipedia.org/wiki/ウェブマネー "wikilink")、[モバイルSuica](../Page/モバイルSuica.md "wikilink")（[おサイフケータイ](https://ja.wikipedia.org/wiki/おサイフケータイ "wikilink")利用時）、[MobileEdy](https://ja.wikipedia.org/wiki/Edy "wikilink")（同。ドコモ、auのみ）、[クレジットカード](../Page/クレジットカード.md "wikilink")、[郵便振替](https://ja.wikipedia.org/wiki/郵便振替 "wikilink")、[銀行振込から選択して支払うことができる](https://ja.wikipedia.org/wiki/振込 "wikilink")。
+NTTドコモ、au、ソフトバンクモバイルでは、[コンビニ払い](../Page/コンビニエンスストア.md "wikilink")（ドコモ、auのみ）、Yahoo\!ウォレット、[ウェブマネー](../Page/ウェブマネー.md "wikilink")、[モバイルSuica](../Page/モバイルSuica.md "wikilink")（[おサイフケータイ](../Page/おサイフケータイ.md "wikilink")利用時）、[MobileEdy](https://ja.wikipedia.org/wiki/Edy "wikilink")（同。ドコモ、auのみ）、[クレジットカード](../Page/クレジットカード.md "wikilink")、[郵便振替](../Page/郵便振替.md "wikilink")、[銀行振込から選択して支払うことができる](../Page/振込.md "wikilink")。
 
 またソフトバンクモバイルのPCサイトブラウザ**非**搭載機種では「SoftBank通話料合算払い」を、ウィルコムでは「ウィルコム公式課金」を使用する。この場合は強制的に月額課金となる。
 

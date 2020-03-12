@@ -7,7 +7,7 @@
 
 各年内においてはメーカー別に分類し、さらにソフト名を50音順に並べた。
 
-学習ソフトや実用ソフト、ツール類、拡張ハードウェアや別売OSは一覧に含めていない。ゲームユーティリティーやデータ集は一覧に含む。[同人ソフトについては](../Page/同人ゲーム.md "wikilink")、[タケルで発売されたもののみ正規流通と看做して掲載した](https://ja.wikipedia.org/wiki/ソフトベンダーTAKERU "wikilink")。
+学習ソフトや実用ソフト、ツール類、拡張ハードウェアや別売OSは一覧に含めていない。ゲームユーティリティーやデータ集は一覧に含む。[同人ソフトについては](../Page/同人ゲーム.md "wikilink")、[タケルで発売されたもののみ正規流通と看做して掲載した](../Page/ソフトベンダーTAKERU.md "wikilink")。
 
 括弧内は発売月日（判明分のみ）、ソフト形態の順。
 
@@ -43,7 +43,7 @@
     ヘビーボクシング（ROM）
   - HAL研究所/[東芝](../Page/東芝.md "wikilink")
     ステップアップ（ROM）
-  - [T\&E SOFT](https://ja.wikipedia.org/wiki/T&E_SOFT "wikilink")
+  - [T\&E SOFT](../Page/T&E_SOFT.md "wikilink")
     3Dゴルフシミュレーション（TAPE）
     バトルシップ・クラプトンII（ROM）
     ピラミッド・ワープ（ROM）
@@ -84,7 +84,7 @@
     [モン太君のいち・に・さんすう](https://ja.wikipedia.org/wiki/モン太君のいち・に・さんすう "wikilink")（ROM）
   - [スペクトラ・ビデオ](https://ja.wikipedia.org/wiki/スペクトラ・ビデオ "wikilink")/アスキー
     スーパークロスフォース（ROM）
-  - [ゼネラル](https://ja.wikipedia.org/wiki/富士通ゼネラル "wikilink")
+  - [ゼネラル](../Page/富士通ゼネラル.md "wikilink")
     アクアポリスSOS（ROM）
     デビルズ・ヘブン（ROM）
     ハッスルチュミー（ROM）
@@ -97,7 +97,7 @@
     おみくじ（TAPE）
   - [ソニー](../Page/ソニー.md "wikilink")
     [クレイジートレイン](https://ja.wikipedia.org/wiki/ガッタンゴットン "wikilink")（ROM）
-    [マウザー](https://ja.wikipedia.org/wiki/マウザー "wikilink")（ROM）
+    [マウザー](../Page/マウザー.md "wikilink")（ROM）
     [プロッ太](https://ja.wikipedia.org/wiki/プロッ太 "wikilink")（ROM）
   - [タカラ](../Page/タカラ_\(玩具メーカー\).md "wikilink")
     リアルテニス（ROM）
@@ -116,7 +116,7 @@
   - [ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")
     あーみだーくじ（TAPE）
     ディジーボール（TAPE）
-  - [マイクロキャビン](https://ja.wikipedia.org/wiki/マイクロキャビン "wikilink")
+  - [マイクロキャビン](../Page/マイクロキャビン.md "wikilink")
     ダイヤモンドアドベンチャー（TAPE）
     [忍者くん](https://ja.wikipedia.org/wiki/忍者くん_\(マイクロキャビン\) "wikilink")（ROM）
     ピコピコ（TAPE）
@@ -245,7 +245,7 @@
 
     3Dウォータードライバー（TAPE）
 
-    [内藤国雄の詰将棋](https://ja.wikipedia.org/wiki/内藤國雄 "wikilink")（TAPE）
+    [内藤国雄の詰将棋](../Page/内藤國雄.md "wikilink")（TAPE）
 
     Mr.GOMOKU（TAPE）
 
@@ -276,7 +276,7 @@
 
     コナミの麻雀道場（ROM）
 
-    [サーカスチャーリー](https://ja.wikipedia.org/wiki/サーカスチャーリー "wikilink")（ROM）
+    [サーカスチャーリー](../Page/サーカスチャーリー.md "wikilink")（ROM）
 
     [ハイパースポーツ1](https://ja.wikipedia.org/wiki/ハイパーオリンピック'84 "wikilink")（ROM）
 
@@ -295,7 +295,7 @@
     [バッドランズ](https://ja.wikipedia.org/wiki/バッドランズ "wikilink")（LD）
 
   - [ジャレコ](../Page/ジャレコ.md "wikilink")
-    [エクセリオン](https://ja.wikipedia.org/wiki/エクセリオン "wikilink")（ROM）
+    [エクセリオン](../Page/エクセリオン.md "wikilink")（ROM）
 
     [TOP ROLLER](https://ja.wikipedia.org/wiki/TOP_ROLLER "wikilink")（ROM）
 
@@ -363,17 +363,17 @@
 
     バトルクロス（ROM）
 
-    [ミスタードゥvsユニコーンズ](https://ja.wikipedia.org/wiki/Mr._Do! "wikilink")（ROM）
+    [ミスタードゥvsユニコーンズ](../Page/Mr._Do!.md "wikilink")（ROM）
 
     [ロードランナー](../Page/ロードランナー.md "wikilink")（ROM/DISK）
 
   - [タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")
-    [フロントライン](https://ja.wikipedia.org/wiki/フロントライン_\(タイトー\) "wikilink")（ROM）
+    [フロントライン](../Page/フロントライン_\(タイトー\).md "wikilink")（ROM）
 
-  - [デービーソフト](https://ja.wikipedia.org/wiki/デービーソフト "wikilink")
+  - [デービーソフト](../Page/デービーソフト.md "wikilink")
     ゼクサス光速2,000光年（TAPE・QD）
 
-    [フラッピー](https://ja.wikipedia.org/wiki/FLAPPY "wikilink")（ROM/TAPE/QD）
+    [フラッピー](../Page/FLAPPY.md "wikilink")（ROM/TAPE/QD）
 
   - テクノソフト
     エキサイト四人麻雀（TAPE）
@@ -389,7 +389,7 @@
 
     D-DAY（ROM）
 
-  - [東芝EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")
+  - [東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")
     アクゥアタック（ROM）
 
     A.E.（ROM）
@@ -413,7 +413,7 @@
   - [ナムコ](../Page/バンダイナムコエンターテインメント.md "wikilink")
     [パックマン](https://ja.wikipedia.org/wiki/パックマン "wikilink")（1月18日、ROM）
 
-    [マッピー](https://ja.wikipedia.org/wiki/マッピー "wikilink")（1月18日、ROM）
+    [マッピー](../Page/マッピー.md "wikilink")（1月18日、ROM）
 
     [ギャラクシアン](../Page/ギャラクシアン.md "wikilink")（1月31日、ROM）
 
@@ -421,15 +421,15 @@
 
     [キング&バルーン](../Page/キング&バルーン.md "wikilink")（2月28日、ROM）
 
-    [ラリーX](https://ja.wikipedia.org/wiki/ラリーX "wikilink")（3月30日、ROM）
+    [ラリーX](../Page/ラリーX.md "wikilink")（3月30日、ROM）
 
-    [ディグダグ](https://ja.wikipedia.org/wiki/ディグダグ "wikilink")（5月25日、ROM）
+    [ディグダグ](../Page/ディグダグ.md "wikilink")（5月25日、ROM）
 
     [ギャラガ](../Page/ギャラガ.md "wikilink")（5月30日、ROM）
 
     [タンクバタリアン](../Page/タンクバタリアン.md "wikilink")(8月30日、ROM)
 
-    [ボスコニアン](https://ja.wikipedia.org/wiki/ボスコニアン "wikilink")（7月14日、ROM）
+    [ボスコニアン](../Page/ボスコニアン.md "wikilink")（7月14日、ROM）
 
   - [日本コロムビア](../Page/日本コロムビア.md "wikilink")
     キャプテンシェフ（ROM）
@@ -500,7 +500,7 @@
 
     [NUTS\&MILK](https://ja.wikipedia.org/wiki/NUTS&MILK "wikilink")（TAPE）
 
-    [バイナリィランド](https://ja.wikipedia.org/wiki/バイナリィランド "wikilink")（TAPE）
+    [バイナリィランド](../Page/バイナリィランド.md "wikilink")（TAPE）
 
     [バブルクンド1999](https://ja.wikipedia.org/wiki/バブルクンド1999 "wikilink")（TAPE）
 
@@ -546,7 +546,7 @@
 
     [プロジェクトA](../Page/プロジェクトA.md "wikilink")（TAPE）
 
-  - [ボーステック](https://ja.wikipedia.org/wiki/ボーステック "wikilink")/アスキー
+  - [ボーステック](../Page/ボーステック.md "wikilink")/アスキー
     アンティ（ROM）
 
   - ポリシー
@@ -554,10 +554,10 @@
 
     フォール・アウト（TAPE）
 
-  - [マイクロキャビン](https://ja.wikipedia.org/wiki/マイクロキャビン "wikilink")
+  - [マイクロキャビン](../Page/マイクロキャビン.md "wikilink")
     王将（TAPE/ROM）
 
-    [不思議の国のアリス](https://ja.wikipedia.org/wiki/不思議の国のアリス "wikilink")（TAPE）
+    [不思議の国のアリス](../Page/不思議の国のアリス.md "wikilink")（TAPE）
 
     ポーラスター（TAPE/QD）
 
@@ -602,8 +602,8 @@
 
 ## 1985年
 
-  - [BPS](https://ja.wikipedia.org/wiki/ビーピーエス "wikilink")/アスキー
-    [ザ・ブラックオニキス](https://ja.wikipedia.org/wiki/ザ・ブラックオニキス "wikilink")（ROM）
+  - [BPS](../Page/ビーピーエス.md "wikilink")/アスキー
+    [ザ・ブラックオニキス](../Page/ザ・ブラックオニキス.md "wikilink")（ROM）
   - HAL研究所
     [エッガーランドミステリー](https://ja.wikipedia.org/wiki/エッガーランドミステリー "wikilink")（ROM）
     [泳いでタンゴ](https://ja.wikipedia.org/wiki/泳いでタンゴ "wikilink")（ROM）
@@ -613,7 +613,7 @@
     [バラン数](https://ja.wikipedia.org/wiki/バラン数 "wikilink")（ROM）
     ホールインワン拡張コース（TAPE）
     ホールインワンプロフェッショナル（ROM）
-  - [KGD](https://ja.wikipedia.org/wiki/工画堂スタジオ "wikilink")/アスキー
+  - [KGD](../Page/工画堂スタジオ.md "wikilink")/アスキー
     [コズミックソルジャー](https://ja.wikipedia.org/wiki/コズミックソルジャー "wikilink")（DISK）
   - NEXA/アスキー
     [F16ファイティングファルコン](https://ja.wikipedia.org/wiki/F16ファイティングファルコン "wikilink")（ROM）
@@ -628,10 +628,10 @@
     グライダー（ROM）
     フェアリー（ROM）
   - [アイレム](https://ja.wikipedia.org/wiki/アイレム "wikilink")販売/アスキー
-    [聖拳アチョー](https://ja.wikipedia.org/wiki/スパルタンX_\(ゲーム\) "wikilink")（ROM）
+    [聖拳アチョー](../Page/スパルタンX_\(ゲーム\).md "wikilink")（ROM）
   - アクティビジョン/ポニーキャニオン
     [アルカザール](https://ja.wikipedia.org/wiki/アルカザール "wikilink")（ROM）
-    [ゴーストバスターズ](https://ja.wikipedia.org/wiki/ゴーストバスターズ "wikilink")（ROM/TAPE）
+    [ゴーストバスターズ](../Page/ゴーストバスターズ.md "wikilink")（ROM/TAPE）
     [パストファインダー](https://ja.wikipedia.org/wiki/パストファインダー "wikilink")（ROM）
     [ピットフォールII](https://ja.wikipedia.org/wiki/ピットフォールII "wikilink")（ROM）
     [マスターオブザランプ](https://ja.wikipedia.org/wiki/マスターオブザランプ "wikilink")（ROM）
@@ -663,7 +663,7 @@
   - カシオ計算機
     [アイスワールド](https://ja.wikipedia.org/wiki/アイスワールド "wikilink")（ROM）
     [イーグルファイター](https://ja.wikipedia.org/wiki/イーグルファイター "wikilink")（ROM）
-    [伊賀忍法帖](https://ja.wikipedia.org/wiki/伊賀忍法帖 "wikilink")（ROM）
+    [伊賀忍法帖](../Page/伊賀忍法帖.md "wikilink")（ROM）
     [カーファイター](https://ja.wikipedia.org/wiki/カーファイター "wikilink")（ROM）
     カシオワールドオープン（ROM）
     ゲームランド（ROM）
@@ -672,7 +672,7 @@
   - [学研](../Page/学研ホールディングス.md "wikilink")/東芝
     すいすいローラー（ROM）
   - キャリーラボ
-    [大脱走](https://ja.wikipedia.org/wiki/大脱走 "wikilink")（TAPE）
+    [大脱走](../Page/大脱走.md "wikilink")（TAPE）
   - [光栄](../Page/コーエー.md "wikilink")
     [団地妻の誘惑](../Page/ストロベリーポルノシリーズ.md "wikilink")（TAPE/DISK）
     [ナイトライフ](../Page/ストロベリーポルノシリーズ.md "wikilink")（TAPE/DISK）
@@ -680,7 +680,7 @@
   - コスモスコンピューター
     [カレイジアスペルセウス](https://ja.wikipedia.org/wiki/カレイジアスペルセウス "wikilink")（TAPE）
   - コナミ
-    [イーアルカンフー](https://ja.wikipedia.org/wiki/イー・アル・カンフー "wikilink")（ROM）
+    [イーアルカンフー](../Page/イー・アル・カンフー.md "wikilink")（ROM）
     [イーガー皇帝の逆襲](https://ja.wikipedia.org/wiki/イーガー皇帝の逆襲 "wikilink")（ROM）★
     [王家の谷](../Page/王家の谷_\(ゲーム\).md "wikilink")（ROM）
     コナミのゲームを10倍楽しむカートリッジ（ROM）
@@ -726,7 +726,7 @@
     スーパーサッカー（ROM）
     スーパーテニス（ROM）
     [スターブレーザー](https://ja.wikipedia.org/wiki/スターブレーザー "wikilink")（ROM）
-    [チョップリフター](https://ja.wikipedia.org/wiki/チョップリフター "wikilink")（ROM）
+    [チョップリフター](../Page/チョップリフター.md "wikilink")（ROM）
     [バンゲリングベイ](../Page/バンゲリングベイ.md "wikilink")（ROM）
     ミステリー・ザ・パーティ（DISK）
     [ロードランナー](../Page/ロードランナー.md "wikilink")II（ROM）
@@ -740,16 +740,16 @@
     [ラビアン](https://ja.wikipedia.org/wiki/ラビアン "wikilink")（TAPE）
     リバーチェイス（TAPE）
   - タイトー
-    [エレベーターアクション](https://ja.wikipedia.org/wiki/エレベーターアクション "wikilink")（ROM）
+    [エレベーターアクション](../Page/エレベーターアクション.md "wikilink")（ROM）
     [ザイゾログ](https://ja.wikipedia.org/wiki/ザイゾログ "wikilink")（ROM）
     [雀フレンド](https://ja.wikipedia.org/wiki/雀フレンド "wikilink")（ROM）
     [スイートアーコン](https://ja.wikipedia.org/wiki/スイートアーコン "wikilink")（ROM）
     [スペースインベーダー](../Page/スペースインベーダー.md "wikilink")（ROM）
-    [ちゃっくんぽっぷ](https://ja.wikipedia.org/wiki/ちゃっくんぽっぷ "wikilink")（ROM）
+    [ちゃっくんぽっぷ](../Page/ちゃっくんぽっぷ.md "wikilink")（ROM）
     [チョロQ](../Page/チョロQ.md "wikilink")（ROM）
   - デービーソフト
     [ゼクサスリミテッド](https://ja.wikipedia.org/wiki/ゼクサスリミテッド "wikilink")（ROM）
-    [フラッピーリミテッド](https://ja.wikipedia.org/wiki/FLAPPY "wikilink")（ROM）
+    [フラッピーリミテッド](../Page/FLAPPY.md "wikilink")（ROM）
     ヴォルガード（ROM/TAPE）
   - [東宝](../Page/東宝.md "wikilink")
     [ゴジラ](../Page/ゴジラ.md "wikilink")くん（ROM）
@@ -792,10 +792,10 @@
     ミラクルマシーン（TAPE）
     ワイルドキャット（ROM）
   - [日本デクスタ](https://ja.wikipedia.org/wiki/日本デクスタ "wikilink")
-    [忍者くん 魔城の冒険](https://ja.wikipedia.org/wiki/忍者くん_魔城の冒険 "wikilink")（ROM）
+    [忍者くん 魔城の冒険](../Page/忍者くん_魔城の冒険.md "wikilink")（ROM）
     ピピ（ROM）
-    [フォーメーションZ](https://ja.wikipedia.org/wiki/フォーメーションZ "wikilink")（ROM）
-  - [日本テレネット](https://ja.wikipedia.org/wiki/日本テレネット_\(ゲーム会社\) "wikilink")
+    [フォーメーションZ](../Page/フォーメーションZ.md "wikilink")（ROM）
+  - [日本テレネット](../Page/日本テレネット_\(ゲーム会社\).md "wikilink")
     アメリカントラック（ROM/TAPE）
     パイパー（TAPE）
   - 日本ビクター
@@ -805,8 +805,8 @@
     ビデオすくらんぶる（VHD）
     VROOM（VHD）
   - ハドソン
-    [コナミのプーヤン](https://ja.wikipedia.org/wiki/プーヤン "wikilink")（BEE CARD）
-    [サラダの国のトマト姫](https://ja.wikipedia.org/wiki/サラダの国のトマト姫 "wikilink")（TAPE）
+    [コナミのプーヤン](../Page/プーヤン.md "wikilink")（BEE CARD）
+    [サラダの国のトマト姫](../Page/サラダの国のトマト姫.md "wikilink")（TAPE）
     [ジェットセットウィリー](https://ja.wikipedia.org/wiki/ジェットセットウィリー "wikilink")（BEE CARD）
     [スターフォース](../Page/スターフォース.md "wikilink")（BEE CARD）
     [野球狂](https://ja.wikipedia.org/wiki/野球狂 "wikilink")（BEE CARD）
@@ -816,11 +816,11 @@
     ベースボール（TAPE）
     麻雀秘伝（TAPE）
   - [パック・イン・ビデオ](../Page/パック・イン・ビデオ.md "wikilink")
-    [ランボー](https://ja.wikipedia.org/wiki/ランボー "wikilink")（ROM）
+    [ランボー](../Page/ランボー.md "wikilink")（ROM）
   - パナソフト
     パナソフトのサッカー（ROM）
     パナソフトのラグビー（ROM）
-  - [ビクター音楽産業](https://ja.wikipedia.org/wiki/JVCケンウッド・ビクターエンタテインメント "wikilink")
+  - [ビクター音楽産業](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")
     モールモール（TAPE）
   - ビングソフト
     狂パックII（TAPE）
@@ -850,7 +850,7 @@
     ディジーバルーン（TAPE）
     ファイナルジャスティス（ROM）
     プロテクター（ROM）
-    [堀ちえみ](https://ja.wikipedia.org/wiki/堀ちえみ "wikilink")ストロベリーパズル（TAPE）
+    [堀ちえみ](../Page/堀ちえみ.md "wikilink")ストロベリーパズル（TAPE）
     窓ふき会社のスイングくん（ROM）
     ルナーボール（ROM）
     [連珠](../Page/連珠.md "wikilink")（ROM）
@@ -889,7 +889,7 @@
     [青い宇宙の冒険](https://ja.wikipedia.org/wiki/青い宇宙の冒険 "wikilink")（TAPE）
     [もうかりまっか?ぼちぼちでんな](https://ja.wikipedia.org/wiki/もうかりまっか?ぼちぼちでんな "wikilink")（TAPE）
   - ログインソフト
-    [オホーツクに消ゆ](https://ja.wikipedia.org/wiki/北海道連鎖殺人_オホーツクに消ゆ "wikilink")（TAPE）
+    [オホーツクに消ゆ](../Page/北海道連鎖殺人_オホーツクに消ゆ.md "wikilink")（TAPE）
 
 ## 1986年
 
@@ -904,7 +904,7 @@
     迷宮神話（ROM）
   - KGD/アスキー
     [Emmy](https://ja.wikipedia.org/wiki/Emmy "wikilink")II（DISK）
-  - [MSXマガジン](https://ja.wikipedia.org/wiki/MSXマガジン "wikilink")
+  - [MSXマガジン](../Page/MSXマガジン.md "wikilink")
     J.P.ウインクル（ROM）
   - T\&E SOFT
     [ハイドライド](https://ja.wikipedia.org/wiki/ハイドライド "wikilink")II（ROM）
@@ -922,7 +922,7 @@
     TZRグランプリライダー（ROM）
   - エニックス
     [軽井沢誘拐案内](../Page/軽井沢誘拐案内.md "wikilink")（ROM）
-    [地球戦士ライーザ](https://ja.wikipedia.org/wiki/地球戦士ライーザ "wikilink")（TAPE）
+    [地球戦士ライーザ](../Page/地球戦士ライーザ.md "wikilink")（TAPE）
     [TOKYOナンパストリート](https://ja.wikipedia.org/wiki/TOKYOナンパストリート "wikilink")（TAPE）
     [ドラゴンクエスト](../Page/ドラゴンクエスト.md "wikilink")（12月、ROM）※MSX1版
     ドラゴンクエスト（11月、ROM）※MSX2版
@@ -940,13 +940,13 @@
     [モアイの秘宝](https://ja.wikipedia.org/wiki/モアイの秘宝 "wikilink")（ROM）
     [闇の竜王ハデスの紋章](https://ja.wikipedia.org/wiki/闇の竜王ハデスの紋章 "wikilink")（ROM）
     [妖怪屋敷](https://ja.wikipedia.org/wiki/妖怪屋敷 "wikilink")（ROM）
-  - [カプコン](https://ja.wikipedia.org/wiki/カプコン "wikilink")
+  - [カプコン](../Page/カプコン.md "wikilink")
     [1942](../Page/1942_\(ゲーム\).md "wikilink")（ROM）※MSX1版
     1942（ROM）※MSX2版
-    [戦場の狼](https://ja.wikipedia.org/wiki/戦場の狼 "wikilink")（ROM）※MSX1版
+    [戦場の狼](../Page/戦場の狼.md "wikilink")（ROM）※MSX1版
     戦場の狼（ROM）※MSX2版
   - [ゲームアーツ](../Page/ゲームアーツ.md "wikilink")
-    [テグザー](https://ja.wikipedia.org/wiki/テグザー "wikilink")（ROM）
+    [テグザー](../Page/テグザー.md "wikilink")（ROM）
   - 光栄
     [蒼き狼と白き牝鹿](../Page/蒼き狼と白き牝鹿・ジンギスカン.md "wikilink")（TAPE）
     [三國志](../Page/三國志_\(ゲーム\).md "wikilink")（ROM）
@@ -956,11 +956,11 @@
   - コナミ
     [悪魔城ドラキュラ](../Page/悪魔城ドラキュラ_\(MSX2\).md "wikilink")（[10月30日](../Page/10月30日.md "wikilink")、ROM）
     [Qバート](https://ja.wikipedia.org/wiki/Qバート "wikilink")（ROM）
-    [グーニーズ](https://ja.wikipedia.org/wiki/グーニーズ_\(ゲーム\) "wikilink")（ROM）
+    [グーニーズ](../Page/グーニーズ_\(ゲーム\).md "wikilink")（ROM）
     [グラディウス](../Page/グラディウス_\(ゲーム\).md "wikilink")（ROM）
     [ツインビー](../Page/ツインビー.md "wikilink")（ROM）
     [魔城伝説](../Page/魔城伝説.md "wikilink")（ROM）★
-    [夢大陸アドベンチャー](https://ja.wikipedia.org/wiki/夢大陸アドベンチャー "wikilink")（9月、ROM）★
+    [夢大陸アドベンチャー](../Page/夢大陸アドベンチャー.md "wikilink")（9月、ROM）★
   - [コンパイル](../Page/コンパイル_\(企業\).md "wikilink")
     ガーディック（ROM）
   - サムソンSOFT
@@ -969,7 +969,7 @@
     アラモ（ROM）
     スーパートリトーン（ROM）
     トリトーン（ROM/TAPE）
-  - [システムソフト](https://ja.wikipedia.org/wiki/システムソフト "wikilink")
+  - [システムソフト](../Page/システムソフト.md "wikilink")
     [パズルパニック](https://ja.wikipedia.org/wiki/パズルパニック "wikilink")（ROM）
   - シャノアール
     [プロフェッショナル麻雀](https://ja.wikipedia.org/wiki/プロフェッショナル麻雀 "wikilink")（ROM）
@@ -977,8 +977,8 @@
     [キングスナイト](../Page/キングスナイト.md "wikilink")（ROM）
   - ソニー
     SF ZONE 1999（DISK）
-    [ガルフォース](https://ja.wikipedia.org/wiki/ガルフォース "wikilink")（ROM）
-    [キネティックコネクション](https://ja.wikipedia.org/wiki/キネティックコネクション "wikilink")（DISK）
+    [ガルフォース](../Page/ガルフォース.md "wikilink")（ROM）
+    [キネティックコネクション](../Page/キネティックコネクション.md "wikilink")（DISK）
     コースターレース（ROM）
     雀聖（ROM）
     渋滞パニックトラフィック（ROM）
@@ -1045,7 +1045,7 @@
     [ボンバーマンスペシャル](https://ja.wikipedia.org/wiki/ボンバーマンスペシャル "wikilink")（BEE CARD）
   - パナソフト
     パナソフトのベースボールII（ROM）
-  - [ハミングバードソフト](https://ja.wikipedia.org/wiki/ハミングバードソフト "wikilink")
+  - [ハミングバードソフト](../Page/ハミングバードソフト.md "wikilink")
     ガーニャン（TAPE）
   - ピクセル
     サンダーボルト（TAPE）
@@ -1059,14 +1059,14 @@
     ラリー（ROM）
   - ボーステック
     [トップルジップ](https://ja.wikipedia.org/wiki/トップルジップ "wikilink")（ROM）
-    [レリクス](https://ja.wikipedia.org/wiki/レリクス "wikilink")（ROM/TAPE）※MSX1版
+    [レリクス](../Page/レリクス.md "wikilink")（ROM/TAPE）※MSX1版
     レリクス（ROM）※MSX2版★
   - ポニーキャニオン
     アルファロイド（ROM）
     Othello（ROM）
     カモン！ピコ（ROM）
     ガルケイブ（ROM）
-    [ザナック](https://ja.wikipedia.org/wiki/ザナック_\(シューティングゲーム\) "wikilink")（ROM）
+    [ザナック](../Page/ザナック_\(シューティングゲーム\).md "wikilink")（ROM）
     ザナックEX（ROM）
     シティファイト（DISK）
     将棋（ROM）
@@ -1084,12 +1084,12 @@
     棋太平（ROM/DISK）
     は～りぃふぉっくすMSXスペシャル（ROM）
     ブラッガー（ROM）
-  - [マイクロネット](https://ja.wikipedia.org/wiki/マイクロネット_\(ゲーム会社\) "wikilink")
+  - [マイクロネット](../Page/マイクロネット_\(ゲーム会社\).md "wikilink")
     [フリッキー](../Page/フリッキー.md "wikilink")（ROM）
   - マジカルズゥ
     [スカイギャルド](https://ja.wikipedia.org/wiki/スカイギャルド "wikilink")（ROM）
   - メルソフト
-    [大脱走](https://ja.wikipedia.org/wiki/大脱走 "wikilink")（TAPE）
+    [大脱走](../Page/大脱走.md "wikilink")（TAPE）
     地底探検（TAPE）
   - ランドコンピュータ
     日本縦断（DISK）
@@ -1102,24 +1102,24 @@
     [伝説の聖戦士アシュギーネ](https://ja.wikipedia.org/wiki/伝説の聖戦士アシュギーネ "wikilink")（ROM）
   - GA夢/ホットビィ
     ア・ナ・ザ（ROM）
-    [フェアリーランドストーリー](https://ja.wikipedia.org/wiki/フェアリーランドストーリー "wikilink")（ROM）
+    [フェアリーランドストーリー](../Page/フェアリーランドストーリー.md "wikilink")（ROM）
   - HAL研究所
     [機動惑星スティルス](https://ja.wikipedia.org/wiki/機動惑星スティルス "wikilink")（ROM）
     [ずっこけやじきた隠密道中](https://ja.wikipedia.org/wiki/ずっこけやじきた隠密道中 "wikilink")（ROM）
-    [忍者くん 阿修羅の章](https://ja.wikipedia.org/wiki/忍者くん_魔城の冒険 "wikilink")（ROM）
+    [忍者くん 阿修羅の章](../Page/忍者くん_魔城の冒険.md "wikilink")（ROM）
   - HARD
     [ダブル・ヴィジョン 美少女写真館スペシャル\!](https://ja.wikipedia.org/wiki/ダブル・ヴィジョン_美少女写真館スペシャル! "wikilink")（ROM/DISK）
   - KGD
     [覇邪の封印](https://ja.wikipedia.org/wiki/覇邪の封印 "wikilink")（ROM）※MSX1版
     覇邪の封印（DISK）※MSX2版
   - [SNK](../Page/SNK_\(1978年設立の企業\).md "wikilink")
-    [怒](https://ja.wikipedia.org/wiki/怒_\(ゲーム\) "wikilink")（ROM）
+    [怒](../Page/怒_\(ゲーム\).md "wikilink")（ROM）
   - TYNESOFT(イギリス)
     EUROPEAN GAMES（TAPE）
   - T\&E SOFT
     [アシュギーネ虚空の牙城](https://ja.wikipedia.org/wiki/アシュギーネ虚空の牙城 "wikilink")（ROM）
     [スーパーレイドックミッションストライカー](../Page/レイドック.md "wikilink")（ROM）
-    [ディーヴァアスラの血流](https://ja.wikipedia.org/wiki/DAIVA "wikilink")（ROM）※MSX1版
+    [ディーヴァアスラの血流](../Page/DAIVA.md "wikilink")（ROM）※MSX1版
     ディーヴァソーマの杯（DISK）※MSX2版
     [ハイドライド](https://ja.wikipedia.org/wiki/ハイドライド "wikilink")3（ROM）※MSX1版
     ハイドライド3（ROM）※MSX2版
@@ -1134,7 +1134,7 @@
     リバイバー（DISK）
   - イーストキューブ
     [王子ビンビン物語それから白書](https://ja.wikipedia.org/wiki/王子ビンビン物語それから白書 "wikilink")（DISK）
-  - [ウルフチーム](https://ja.wikipedia.org/wiki/ウルフチーム "wikilink")
+  - [ウルフチーム](../Page/ウルフチーム.md "wikilink")
     ヤシャ（ROM/DISK）
   - エニックス
     [アニマルランド殺人事件](https://ja.wikipedia.org/wiki/アニマルランド殺人事件 "wikilink")（ROM）
@@ -1154,10 +1154,10 @@
     ボルフェスと5人の悪魔（ROM）
   - 光栄
     [三國志](../Page/三國志_\(ゲーム\).md "wikilink")（ROM/DISK）
-    [信長の野望・全国版](https://ja.wikipedia.org/wiki/信長の野望・全国版 "wikilink")（ROM）※MSX1版
+    [信長の野望・全国版](../Page/信長の野望・全国版.md "wikilink")（ROM）※MSX1版
     信長の野望全国版（ROM/DISK）※MSX2版
   - コスモスコンピューター/アイエスティー
-    [聖女伝説](https://ja.wikipedia.org/wiki/聖女伝説 "wikilink")（TAPE/DISK）
+    [聖女伝説](../Page/聖女伝説.md "wikilink")（TAPE/DISK）
   - コナミ
     [ウシャス](https://ja.wikipedia.org/wiki/ウシャス_\(ゲーム\) "wikilink")（ROM）
     [F1スピリット](https://ja.wikipedia.org/wiki/F1スピリット "wikilink")（ROM）
@@ -1166,8 +1166,8 @@
     [グラディウス2](https://ja.wikipedia.org/wiki/グラディウス2 "wikilink")（[8月22日](../Page/8月22日.md "wikilink")、ROM）★
     コナミの新10倍カートリッジ（ROM）
     [沙羅曼蛇](../Page/沙羅曼蛇_\(MSX\).md "wikilink")（ROM）★
-    [シャロム 魔城伝説III 完結編](https://ja.wikipedia.org/wiki/シャロム_魔城伝説III_完結編 "wikilink")（ROM）
-    [火の鳥 鳳凰編](https://ja.wikipedia.org/wiki/火の鳥_鳳凰編_\(MSX\) "wikilink")（ROM）
+    [シャロム 魔城伝説III 完結編](../Page/シャロム_魔城伝説III_完結編.md "wikilink")（ROM）
+    [火の鳥 鳳凰編](../Page/火の鳥_鳳凰編_\(MSX\).md "wikilink")（ROM）
     [魔城伝説II ガリウスの迷宮](https://ja.wikipedia.org/wiki/魔城伝説II_ガリウスの迷宮 "wikilink")（ROM）
     [メタルギア](../Page/メタルギア.md "wikilink")（[7月13日](../Page/7月13日.md "wikilink")、ROM）★
   - コンパイル
@@ -1184,13 +1184,13 @@
     ぼうけんろまん（ROM）
   - [ジャスト](../Page/ジャスト_\(ブランド\).md "wikilink")
     SFアダルトアドベンチャーエリカ（ROM）
-    スタートラップ[くりいむレモン](https://ja.wikipedia.org/wiki/くりいむレモン "wikilink")（ROM）
+    スタートラップ[くりいむレモン](../Page/くりいむレモン.md "wikilink")（ROM）
     [天使たちの午後](../Page/天使たちの午後.md "wikilink")（ROM）
   - ジャレコ
     [BREAKIN](https://ja.wikipedia.org/wiki/BREAKIN "wikilink")（ROM）
-    [ミシシッピー殺人事件](https://ja.wikipedia.org/wiki/ミシシッピー殺人事件 "wikilink")（ROM）
+    [ミシシッピー殺人事件](../Page/ミシシッピー殺人事件.md "wikilink")（ROM）
   - スクウェア
-    [エイリアン2](https://ja.wikipedia.org/wiki/エイリアン2 "wikilink")（ROM）
+    [エイリアン2](../Page/エイリアン2.md "wikilink")（ROM）
   - セイカロモックス/HAL研究所
     キックイット（ROM）
     スネイクイット（ROM）
@@ -1198,7 +1198,7 @@
   - 全流通
     シンデレラ・ペルデュ（DISK）
   - ソニー
-    [ガルフォース](https://ja.wikipedia.org/wiki/ガルフォース "wikilink") 創世の序曲（DISK）
+    [ガルフォース](../Page/ガルフォース.md "wikilink") 創世の序曲（DISK）
     [奇々怪界](https://ja.wikipedia.org/wiki/奇々怪界 "wikilink")（ROM）
     棋聖（ROM）
     [ザナドゥ](../Page/ザナドゥ_\(ゲーム\).md "wikilink")（DISK）※MSX2版
@@ -1234,14 +1234,14 @@
   - 東宝
     [ルパン三世カリオストロの城](https://ja.wikipedia.org/wiki/ルパン三世カリオストロの城 "wikilink")（ROM）
   - ナムコ
-    [ドラゴンバスター](https://ja.wikipedia.org/wiki/ドラゴンバスター "wikilink")（ROM）
+    [ドラゴンバスター](../Page/ドラゴンバスター.md "wikilink")（ROM）
   - 日本デクスタ
     エイリアン8（ROM）
     将軍（ROM）
     ストレンジループ（ROM）
   - 日本テレネット
     アンドロギュヌス（ROM）
-    [デジタル・デビル物語 女神転生](https://ja.wikipedia.org/wiki/デジタル・デビル物語_女神転生_\(日本テレネット\) "wikilink")（ROM）
+    [デジタル・デビル物語 女神転生](../Page/デジタル・デビル物語_女神転生_\(日本テレネット\).md "wikilink")（ROM）
     プロ野球ファンテレネットスタジアム（ROM/DISK）
   - 日本ファルコム
     [イース](https://ja.wikipedia.org/wiki/イースI "wikilink")（DISK）
@@ -1256,7 +1256,7 @@
     [ラビリンス魔王の迷宮](https://ja.wikipedia.org/wiki/ラビリンス魔王の迷宮 "wikilink")（ROM）
   - ハドソン
     [ジャガー5](https://ja.wikipedia.org/wiki/ジャガー5 "wikilink")（ROM）
-    [ダーウィン4078](https://ja.wikipedia.org/wiki/ダーウィン4078 "wikilink")（ROM）
+    [ダーウィン4078](../Page/ダーウィン4078.md "wikilink")（ROM）
   - ハミングバードソフト
     りっくとみっくの大冒険（ROM）
   - ビクター音楽産業
@@ -1307,7 +1307,7 @@
     激走ニャンクル（DISK）
     ファミクルパロディック（ROM）
   - BPS
-    [テトリス](https://ja.wikipedia.org/wiki/テトリス "wikilink")（DISK）※ROM版は1989年発売
+    [テトリス](../Page/テトリス.md "wikilink")（DISK）※ROM版は1989年発売
     M.U.L.E.（DISK）
   - GA夢/ホットビィ
     [中華大仙](../Page/中華大仙.md "wikilink")（DISK）
@@ -1404,7 +1404,7 @@
     [スナッチャー](../Page/スナッチャー.md "wikilink")（12月、DISK）
     [パロディウス](https://ja.wikipedia.org/wiki/パロディウス "wikilink")（ROM）★
   - コンパイル
-    [アレスタ](https://ja.wikipedia.org/wiki/アレスタ "wikilink")（ROM）★
+    [アレスタ](../Page/アレスタ.md "wikilink")（ROM）★
     [真・魔王ゴルベリアス](https://ja.wikipedia.org/wiki/真・魔王ゴルベリアス "wikilink")（DISK）
     [ディスクステーション](../Page/ディスクステーション.md "wikilink")創刊準備号（DISK）
     ディスクステーション創刊号（DISK）
@@ -1437,10 +1437,10 @@
   - [スキャップトラスト](https://ja.wikipedia.org/wiki/スキャップトラスト "wikilink")
     クリムゾン（ROM/DISK）
     [スターシップランデブー](https://ja.wikipedia.org/wiki/スターシップランデブー "wikilink")（DISK）
-    [ディープダンジョン](https://ja.wikipedia.org/wiki/ディープダンジョン "wikilink")魔洞戦記（ROM）
-    [ディープダンジョン](https://ja.wikipedia.org/wiki/ディープダンジョン "wikilink")勇士の紋章（ROM）
+    [ディープダンジョン](../Page/ディープダンジョン.md "wikilink")魔洞戦記（ROM）
+    [ディープダンジョン](../Page/ディープダンジョン.md "wikilink")勇士の紋章（ROM）
   - スタークラフト
-    [マイトアンドマジック](https://ja.wikipedia.org/wiki/マイト・アンド・マジック "wikilink")（DISK）
+    [マイトアンドマジック](../Page/マイト・アンド・マジック.md "wikilink")（DISK）
   - 全流通
     エクリン秘密の宝石箱（DISK）
     女子高生アイドルおさな妻奮戦記（DISK）
@@ -1464,7 +1464,7 @@
   - タイトー
     [アルカノイドII](https://ja.wikipedia.org/wiki/アルカノイドII "wikilink")（ROM）
     [京都龍の寺殺人事件](https://ja.wikipedia.org/wiki/京都龍の寺殺人事件 "wikilink")（ROM）
-    [ラスタンサーガ](https://ja.wikipedia.org/wiki/ラスタンサーガ "wikilink")（ROM）
+    [ラスタンサーガ](../Page/ラスタンサーガ.md "wikilink")（ROM）
   - チャンピオンソフト
     学園戦記（DISK）
     JIPSHI（DISK）
@@ -1498,7 +1498,7 @@
     [陽あたり良好\!ひだまり荘の仲間たち](https://ja.wikipedia.org/wiki/陽あたり良好!ひだまり荘の仲間たち "wikilink")（DISK）
     [ルパン三世バビロンの黄金伝説](https://ja.wikipedia.org/wiki/ルパン三世バビロンの黄金伝説 "wikilink")（ROM）
   - 徳間書店
-    [MSXFANファンダムライブラリ](https://ja.wikipedia.org/wiki/MSX・FAN "wikilink")1（ROM）
+    [MSXFANファンダムライブラリ](../Page/MSX・FAN.md "wikilink")1（ROM）
     MSXFANファンダムライブラリ2（ROM）
     MSXFANファンダムライブラリ3（ROM）
     MSXFANファンダムライブラリ4（DISK）
@@ -1506,7 +1506,7 @@
     ブロックターミネーター（DISK）
     マドンナの誘惑（DISK）
   - ナムコ
-    [イシターの復活](https://ja.wikipedia.org/wiki/イシターの復活 "wikilink")（[9月22日](../Page/9月22日.md "wikilink")、ROM）
+    [イシターの復活](../Page/イシターの復活.md "wikilink")（[9月22日](../Page/9月22日.md "wikilink")、ROM）
     [ゼビウス ファードラウト伝説](https://ja.wikipedia.org/wiki/ゼビウス_ファードラウト伝説 "wikilink")（[12月23日](../Page/12月23日.md "wikilink")、ROM）
   - 日本デクスタ
     ドルイド（ROM）
@@ -1516,14 +1516,14 @@
     ガーリーブロック（ROM）
     [紫醜罹](https://ja.wikipedia.org/wiki/紫醜罹 "wikilink")（DISK）
   - 日本ファルコム
-    [イースII](https://ja.wikipedia.org/wiki/イースII "wikilink")（DISK）
+    [イースII](../Page/イースII.md "wikilink")（DISK）
     [ドラゴンスレイヤーIV ドラスレファミリー](../Page/ドラゴンスレイヤーIV_ドラスレファミリー.md "wikilink")（ROM）※MSX1版
   - 日本物産
     制覇（DISK）
   - ハイスコア
     [ゾンビハンター](https://ja.wikipedia.org/wiki/ゾンビハンター "wikilink")（ROM）
   - ハドソン
-    [ボンバーキング](https://ja.wikipedia.org/wiki/ボンバーキング "wikilink")（ROM）
+    [ボンバーキング](../Page/ボンバーキング.md "wikilink")（ROM）
   - ハミングバードソフト
     ファイアボール（ROM）
   - ハート電子産業
@@ -1534,7 +1534,7 @@
     [井出洋介名人の実戦麻雀](https://ja.wikipedia.org/wiki/井出洋介名人の実戦麻雀 "wikilink")（ROM）
     [軍人将棋](../Page/軍人将棋.md "wikilink")（DISK）
     ザ・ゴルフ（ROM）※DISK版は1989年発売
-    [プレデター](https://ja.wikipedia.org/wiki/プレデター_\(映画\) "wikilink")（ROM）
+    [プレデター](../Page/プレデター_\(映画\).md "wikilink")（ROM）
     ラ・フェール失われた時を求めて（DISK）
   - ビクター音楽産業
     EDIPAL（DISK）
@@ -1611,7 +1611,7 @@
     エントヒューラー～妖精誘拐事件～（DISK）
   - HAL研究所
     パチプロ伝説（4月22日、ROM）
-    [田代まさしのプリンセスがいっぱい](https://ja.wikipedia.org/wiki/田代まさしのプリンセスがいっぱい "wikilink")（5月26日、DISK）
+    [田代まさしのプリンセスがいっぱい](../Page/田代まさしのプリンセスがいっぱい.md "wikilink")（5月26日、DISK）
   - HARD
     [はっちゃけあやよさん](https://ja.wikipedia.org/wiki/はっちゃけあやよさん "wikilink")（DISK）
     美少女コントロール（7月21日、DISK）
@@ -1653,7 +1653,7 @@
     花の清里～ペンションストーリー～（DISK）
   - [アリスソフト](../Page/アリスソフト.md "wikilink")
     イントルーダー桜屋敷の探索（8月10日、DISK）
-    [Rance -光をもとめて-](https://ja.wikipedia.org/wiki/Rance_-光をもとめて- "wikilink")（DISK）
+    [Rance -光をもとめて-](../Page/Rance_-光をもとめて-.md "wikilink")（DISK）
   - ウインキーソフト
     アメリカンサクセス（DISK）
   - ウェンディマガジン
@@ -1683,10 +1683,10 @@
     パピットショウ（5月20日、DISK）
   - ゲームアーツ
     ぎゅわんぶらあ自己中心派2自称！強豪雀士編（4月19日、ROM）
-    [ファイアーホークテクザー2](https://ja.wikipedia.org/wiki/テグザー "wikilink")（11月1日、DISK）
+    [ファイアーホークテクザー2](../Page/テグザー.md "wikilink")（11月1日、DISK）
   - 光栄
     [維新の嵐](../Page/維新の嵐.md "wikilink")（11月30日、ROM/12月20日、DISK）
-    [水滸伝・天命の誓い](https://ja.wikipedia.org/wiki/水滸伝・天命の誓い "wikilink")（11月1日、ROM/8月23日、DISK）
+    [水滸伝・天命の誓い](../Page/水滸伝・天命の誓い.md "wikilink")（11月1日、ROM/8月23日、DISK）
     [信長の野望・戦国群雄伝](../Page/信長の野望・戦国群雄伝.md "wikilink")（8月18日、ROM/7月7日、DISK）
   - コナミ
     激突ペナントレース2（8月30日、ROM）
@@ -1696,7 +1696,7 @@
     [スペースマンボウ](../Page/スペースマンボウ.md "wikilink")（12月21日、ROM）★
     [牌の魔術師](https://ja.wikipedia.org/wiki/牌の魔術師_\(ゲーム\) "wikilink")（ROM）
   - コンパイル
-    [アレスタ](https://ja.wikipedia.org/wiki/アレスタ "wikilink")2（11月22日、DISK）
+    [アレスタ](../Page/アレスタ.md "wikilink")2（11月22日、DISK）
     ディスクステーション3号（DISK）
     ディスクステーション4号（DISK）
     ディスクステーション5号（6月8日、DISK）
@@ -1725,7 +1725,7 @@
     [天使たちの午後](../Page/天使たちの午後.md "wikilink")III番外編（7月6日、DISK）
     ブレイカー（DISK）
   - スタークラフト
-    [マイトアンドマジックブック2](https://ja.wikipedia.org/wiki/マイト・アンド・マジック "wikilink")（5月3日、DISK）
+    [マイトアンドマジックブック2](../Page/マイト・アンド・マジック.md "wikilink")（5月3日、DISK）
     ローグアライアンス（10月20日、DISK）
   - スタジオパンサー
     [神の聖都](https://ja.wikipedia.org/wiki/神の聖都 "wikilink")（12月6日、DISK）
@@ -1809,14 +1809,14 @@
     [ファンタジーゾーン](https://ja.wikipedia.org/wiki/ファンタジーゾーン "wikilink")II（5月21日、ROM）
     マラヤの秘宝（ROM）
   - [ポニーテールソフト](https://ja.wikipedia.org/wiki/ポニーテールソフト "wikilink")
-    [ポッキー](https://ja.wikipedia.org/wiki/ポッキー_\(1989年のコンピュータゲーム\) "wikilink")（8月11日、DISK）
+    [ポッキー](../Page/ポッキー_\(1989年のコンピュータゲーム\).md "wikilink")（8月11日、DISK）
   - マイクロキャビン
     [スーパー大戦略](../Page/大戦略シリーズ.md "wikilink")（5月11日、DISK）※ROM版は1988年発売
     [サーク](../Page/サーク.md "wikilink")（12月7日、DISK）
     スーパー大戦略マップコレクション（9月22日、DISK）
     [倉庫番](../Page/倉庫番.md "wikilink")パーフェクト（11月20日、DISK）
-    [ファイナルファンタジー](https://ja.wikipedia.org/wiki/ファイナルファンタジー "wikilink")（12月22日、DISK）
-    [What'sMichael?](https://ja.wikipedia.org/wiki/ホワッツマイケル "wikilink")（5月18日、DISK）
+    [ファイナルファンタジー](../Page/ファイナルファンタジー.md "wikilink")（12月22日、DISK）
+    [What'sMichael?](../Page/ホワッツマイケル.md "wikilink")（5月18日、DISK）
   - マイクロネット
     アウトロー水滸伝（12月23日、DISK）
     極道陣取り（DISK）
@@ -1910,9 +1910,9 @@
   - 光栄
     [三國志II](../Page/三國志II.md "wikilink")（4月14日、ROM/4月14日、DISK）
     [大航海時代](../Page/大航海時代_\(ゲーム\).md "wikilink")（9月11日、ROM/9月27日、DISK）
-    [ランペルール](https://ja.wikipedia.org/wiki/ランペルール "wikilink")（12月15日、ROM/12月20日、DISK）
+    [ランペルール](../Page/ランペルール.md "wikilink")（12月15日、ROM/12月20日、DISK）
   - コナミ
-    [クォース](https://ja.wikipedia.org/wiki/クォース "wikilink")（3月9日、ROM）★
+    [クォース](../Page/クォース.md "wikilink")（3月9日、ROM）★
     [SDスナッチャー](../Page/スナッチャー.md "wikilink")（4月27日、DISK）
     [メタルギア2 ソリッドスネーク](../Page/メタルギア2_ソリッドスネーク.md "wikilink")（7月20日、ROM）★
   - コンパイル
@@ -1972,7 +1972,7 @@
     妖魔降臨（4月6日、DISK）
   - 日本テレネット
     アルバトロスIIマスターズヒストリー（4月3日、DISK）
-    [コラムス](https://ja.wikipedia.org/wiki/コラムス "wikilink")（12月14日、DISK）
+    [コラムス](../Page/コラムス.md "wikilink")（12月14日、DISK）
   - 日本ファルコム
     [ドラゴンスレイヤー英雄伝説](../Page/ドラゴンスレイヤー英雄伝説.md "wikilink")（8月7日、DISK）
   - 日本物産
@@ -1986,7 +1986,7 @@
   - ハミングバードソフト
     [ロードス島戦記 灰色の魔女](../Page/ロードス島戦記.md "wikilink")（3月16日、DISK）
     ロードス島戦記福神漬（7月13日、DISK）
-  - [バンプレスト](https://ja.wikipedia.org/wiki/バンプレスト "wikilink")
+  - [バンプレスト](../Page/バンプレスト.md "wikilink")
     [SDガンダムワールド ガチャポン戦士2 カプセル戦記](https://ja.wikipedia.org/wiki/SDガンダムワールド_ガチャポン戦士 "wikilink")（5月25日、DISK）
   - ビクター音楽産業
     ジャックニクラウスチャンピオンシップゴルフ（7月20日、DISK）
@@ -1996,7 +1996,7 @@
     MSフィールド機動戦士ガンダムプラスキット（7月14日、DISK）
     MSフィールド機動戦士ガンダムプラスキット付（7月14日、DISK）
   - フェアリーテール
-    [うろつき童子](https://ja.wikipedia.org/wiki/超神伝説うろつき童子 "wikilink")（7月21日、DISK）
+    [うろつき童子](../Page/超神伝説うろつき童子.md "wikilink")（7月21日、DISK）
     殺しのドレス
     殺しのドレス2（4月25日、DISK）
     リップスティックアドベンチャー2（6月20日、DISK）
@@ -2067,11 +2067,11 @@
     カクテルソフト増刊号（6月25日、DISK）
     きゃんきゃんバニースピリッツ（10月10日、DISK）
     COSMIC PSYCHO（9月14日、DISK）
-    [ナイキ](https://ja.wikipedia.org/wiki/ナイキ_\(1991年のコンピュータゲーム\) "wikilink")（7月、DISK）
+    [ナイキ](../Page/ナイキ_\(1991年のコンピュータゲーム\).md "wikilink")（7月、DISK）
   - 光栄
-    [伊忍道 打倒信長](https://ja.wikipedia.org/wiki/伊忍道_打倒信長 "wikilink")（11月13日、ROM/11月28日、DISK）
+    [伊忍道 打倒信長](../Page/伊忍道_打倒信長.md "wikilink")（11月13日、ROM/11月28日、DISK）
     [提督の決断](../Page/提督の決断.md "wikilink")（3月28日、ROM）
-    [信長の野望・武将風雲録](https://ja.wikipedia.org/wiki/信長の野望・武将風雲録 "wikilink")（5月23日、ROM/5月30日、DISK）
+    [信長の野望・武将風雲録](../Page/信長の野望・武将風雲録.md "wikilink")（5月23日、ROM/5月30日、DISK）
     [ロイヤルブラッド](../Page/ロイヤルブラッド.md "wikilink")（12月26日、ROM/12月26日、DISK）
   - コンパイル
     ゴルビーのパイプライン大作戦（4月12日、DISK）
@@ -2110,7 +2110,7 @@
   - バーディソフト
     CAL（DISK）
     CALII（11月8日、DISK）
-    [Thanatos](https://ja.wikipedia.org/wiki/Thanatos_-サナトス- "wikilink")（3月、DISK）
+    [Thanatos](../Page/Thanatos_-サナトス-.md "wikilink")（3月、DISK）
     ピアス（DISK）
     BEAST 淫獣の館（9月21日、DISK）
   - ハート電子産業
@@ -2138,7 +2138,7 @@
   - ポニーキャニオン
     AD\&D ヒーロー・オブ・ランス（9月21日、ROM）
   - マイクロキャビン
-    [幻影都市](https://ja.wikipedia.org/wiki/幻影都市 "wikilink")（12月25日、DISK）
+    [幻影都市](../Page/幻影都市.md "wikilink")（12月25日、DISK）
     サークガゼルの塔（10月4日、DISK）
   - マイティマイコンシステム
     プロの碁パート4（DISK）
@@ -2199,7 +2199,7 @@
   - フェアリーテール/サンタ・フェ
     美少女大図鑑（DISK）
   - ブラザー工業
-    [スーパーバトルスキンパニック](https://ja.wikipedia.org/wiki/バトルスキンパニック "wikilink")（7月7日、DISK）
+    [スーパーバトルスキンパニック](../Page/バトルスキンパニック.md "wikilink")（7月7日、DISK）
     [ピラミッドソーサリアン](../Page/ソーサリアン.md "wikilink")（4月27日、DISK）※パッケージ版
     ピラミッドソーサリアン（5月29日、DISK）※タケル版
     [戦国・ピラミッドソーサリアン](../Page/ソーサリアン.md "wikilink")（4月20日、DISK）※パッケージ版
@@ -2211,7 +2211,7 @@
   - マイクロキャビン
     [キャンペーン版大戦略II](../Page/大戦略シリーズ.md "wikilink")（6月11日、DISK）
     The Tower(?) of Cabin（DISK）
-    [プリンセスメーカー](https://ja.wikipedia.org/wiki/プリンセスメーカー "wikilink")（5月14日、DISK）
+    [プリンセスメーカー](../Page/プリンセスメーカー.md "wikilink")（5月14日、DISK）
 
 -----
 

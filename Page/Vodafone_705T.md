@@ -1,7 +1,7 @@
 > この記事は[Vodafone 705T](https://ja.wikipedia.org/wiki/Vodafone_705T)から翻訳されています。
 
 
-**Vodafone 705T**（ボーダフォン705T）及び、後の**SoftBank 705T**（ソフトバンク705T）は、[東芝](../Page/東芝.md "wikilink")が開発し、[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")（旧ボーダフォン日本法人）が販売している[W-CDMA](../Page/W-CDMA.md "wikilink")/[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")通信方式のVodafone 3G（現[SoftBank 3G](https://ja.wikipedia.org/wiki/SoftBank_3G "wikilink")）サービスを利用可能な[携帯電話](../Page/携帯電話.md "wikilink")端末。発売日は2006年6月3日。
+**Vodafone 705T**（ボーダフォン705T）及び、後の**SoftBank 705T**（ソフトバンク705T）は、[東芝](../Page/東芝.md "wikilink")が開発し、[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")（旧ボーダフォン日本法人）が販売している[W-CDMA](../Page/W-CDMA.md "wikilink")/[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")通信方式のVodafone 3G（現[SoftBank 3G](../Page/SoftBank_3G.md "wikilink")）サービスを利用可能な[携帯電話](../Page/携帯電話.md "wikilink")端末。発売日は2006年6月3日。
 
 ## スペック
 
@@ -15,7 +15,7 @@ UIなどのソフトウェアは[904Tと同等のもの](../Page/Vodafone_904T.m
   - [ソフトバンクモバイルの端末一覧](https://ja.wikipedia.org/wiki/ソフトバンクモバイルの端末一覧 "wikilink")
   - [音楽携帯](../Page/音楽携帯.md "wikilink")
   - [Play-T](https://ja.wikipedia.org/wiki/Play-T "wikilink")
-  - [倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")（本製品のイメージキャラクター・CMソングは[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月26日](../Page/7月26日.md "wikilink")に[エイベックスより発売される](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")「4 hot wave」収録の「人魚姫」）
+  - [倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")（本製品のイメージキャラクター・CMソングは[2006年](../Page/2006年.md "wikilink")[7月26日](../Page/7月26日.md "wikilink")に[エイベックスより発売される](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")「4 hot wave」収録の「人魚姫」）
 
 ## 外部リンク
 

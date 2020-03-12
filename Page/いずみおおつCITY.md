@@ -17,16 +17,16 @@
 
 ## アルザ泉大津
 
-いずみおおつCITYは、隣接している下記の施設と共に[アルザ泉大津](../Page/アルザ泉大津.md "wikilink")を構成している。このうち[ホテル](../Page/ホテル.md "wikilink")棟と[ダイエー](../Page/ダイエー.md "wikilink")棟は、アルザ通りを挟んで左右対称の姿をしている。なお、ホテル棟の[外壁には](https://ja.wikipedia.org/wiki/壁 "wikilink")「いずみおおつCITY」の[文字](../Page/文字.md "wikilink")が大きく書かれているのであるが、その建物自体はCITYではない。
+いずみおおつCITYは、隣接している下記の施設と共に[アルザ泉大津](../Page/アルザ泉大津.md "wikilink")を構成している。このうち[ホテル](../Page/ホテル.md "wikilink")棟と[ダイエー](../Page/ダイエー.md "wikilink")棟は、アルザ通りを挟んで左右対称の姿をしている。なお、ホテル棟の[外壁には](../Page/壁.md "wikilink")「いずみおおつCITY」の[文字](../Page/文字.md "wikilink")が大きく書かれているのであるが、その建物自体はCITYではない。
 
   - [ダイエー](../Page/ダイエー.md "wikilink")泉大津店・アルザタウン
-  - ホテルレイクアルスターアルザ泉大津（[2004年](../Page/2004年.md "wikilink")[9月](../Page/9月.md "wikilink")末までは[リーガホテルアルザ泉大津](https://ja.wikipedia.org/wiki/リーガロイヤルホテル "wikilink")。隣接する[泉北郡](../Page/泉北郡.md "wikilink")[忠岡町](https://ja.wikipedia.org/wiki/忠岡町 "wikilink")に本社を置き、[大阪市](../Page/大阪市.md "wikilink")内にて服飾卸事業を展開する「[カワサキ](https://ja.wikipedia.org/wiki/カワサキ_\(大阪府\) "wikilink")」が同ホテルを買収し、同社のブランド名である「レイクアルスター」に改称した。）
+  - ホテルレイクアルスターアルザ泉大津（[2004年](../Page/2004年.md "wikilink")[9月](../Page/9月.md "wikilink")末までは[リーガホテルアルザ泉大津](../Page/リーガロイヤルホテル.md "wikilink")。隣接する[泉北郡](../Page/泉北郡.md "wikilink")[忠岡町](https://ja.wikipedia.org/wiki/忠岡町 "wikilink")に本社を置き、[大阪市](../Page/大阪市.md "wikilink")内にて服飾卸事業を展開する「[カワサキ](../Page/カワサキ_\(大阪府\).md "wikilink")」が同ホテルを買収し、同社のブランド名である「レイクアルスター」に改称した。）
   - [アルザタワーズ](../Page/アルザタワーズ.md "wikilink")（グリーンタワー・ブルータワー）
 
 ## 系列施設
 
   - [CITY](https://ja.wikipedia.org/wiki/CITY "wikilink")
-      - [なんばCITY](https://ja.wikipedia.org/wiki/なんばCITY "wikilink")
+      - [なんばCITY](../Page/なんばCITY.md "wikilink")
   - [なんばパークス](../Page/なんばパークス.md "wikilink")
   - [プラットプラット](https://ja.wikipedia.org/wiki/プラットプラット "wikilink")
   - [ノバティながのNANKAI](https://ja.wikipedia.org/wiki/ノバティながのNANKAI "wikilink")
@@ -38,8 +38,8 @@
 
 ## 関連項目
 
-  - [とくしまCITY](https://ja.wikipedia.org/wiki/とくしまCITY "wikilink")（元系列。閉店）
-  - [しんかなCITY](https://ja.wikipedia.org/wiki/しんかなCITY "wikilink")（閉店）
+  - [とくしまCITY](../Page/とくしまCITY.md "wikilink")（元系列。閉店）
+  - [しんかなCITY](../Page/しんかなCITY.md "wikilink")（閉店）
 
 ## 外部リンク
 

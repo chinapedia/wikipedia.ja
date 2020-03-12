@@ -1,7 +1,7 @@
 > この記事は[ASH -ARCHAIC SEALED HEAT-](https://ja.wikipedia.org/wiki/ASH_-ARCHAIC_SEALED_HEAT-)から翻訳されています。
 
 
-『**ASH -ARCHAIC SEALED HEAT-**』（アルカイック シールド ヒート、略称:ASH）は、[ミストウォーカー](https://ja.wikipedia.org/wiki/ミストウォーカー "wikilink")が開発し[任天堂](../Page/任天堂.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")に発売された[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")専用の[シミュレーションRPG](https://ja.wikipedia.org/wiki/シミュレーションRPG "wikilink")。ニンテンドーDS用ソフトとしては初めて大容量2ギガビット（256メガバイト）のDSカードを採用しており、要所でクオリティの高いムービーが挿入される\[1\]。
+『**ASH -ARCHAIC SEALED HEAT-**』（アルカイック シールド ヒート、略称:ASH）は、[ミストウォーカー](../Page/ミストウォーカー.md "wikilink")が開発し[任天堂](../Page/任天堂.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")に発売された[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")専用の[シミュレーションRPG](https://ja.wikipedia.org/wiki/シミュレーションRPG "wikilink")。ニンテンドーDS用ソフトとしては初めて大容量2ギガビット（256メガバイト）のDSカードを採用しており、要所でクオリティの高いムービーが挿入される\[1\]。
 
 ## システム
 
@@ -60,7 +60,7 @@
     森の民。人間以外の生物と心を通わせる能力を持つ。ダンと共にアイシャの仲間となる。
   - マリティ:声：[植田佳奈](https://ja.wikipedia.org/wiki/植田佳奈 "wikilink")
     エースシン国の皇女。かなり強気な性格。アイシャと同じく火炎蛇を追っている。
-  - ジーカウェン:声：[宮野真守](https://ja.wikipedia.org/wiki/宮野真守 "wikilink")
+  - ジーカウェン:声：[宮野真守](../Page/宮野真守.md "wikilink")
     サムネルシア王国の傭兵。複数の剣を操る能力を持つ。謎に包まれている人物。
 
 ### スポット
@@ -70,15 +70,15 @@
     序盤のメンバーでは戦士として申し分ない高い戦闘能力を誇る。
   - クットロラン:声：[小野坂昌也](../Page/小野坂昌也.md "wikilink")
     未来から来た、感情・思考を持つ機導兵。機導兵のプログラムを書き換えるマシン、「ロジック・ボム」により正義感を持ち、未来を変えるためにアイシャたちと共に戦う。
-  - エースシン女王:声：[榊原良子](https://ja.wikipedia.org/wiki/榊原良子 "wikilink")
+  - エースシン女王:声：[榊原良子](../Page/榊原良子.md "wikilink")
     強力な魔導士であるとともに、エースシン国の女王であり、マリティの母。時には自らも戦闘に参加する。
 
 ## 主なスタッフ
 
   - エグゼクティブプロデューサー・シナリオ・ゲームデザイン：[坂口博信](../Page/坂口博信.md "wikilink")
   - プロデューサー：[田中謙介](https://ja.wikipedia.org/wiki/田中謙介 "wikilink")
-  - キャラクターデザイン：[皆葉英夫](https://ja.wikipedia.org/wiki/皆葉英夫 "wikilink")
-  - 音楽：[崎元仁](https://ja.wikipedia.org/wiki/崎元仁 "wikilink")
+  - キャラクターデザイン：[皆葉英夫](../Page/皆葉英夫.md "wikilink")
+  - 音楽：[崎元仁](../Page/崎元仁.md "wikilink")
 
 ## ドラマCD
 

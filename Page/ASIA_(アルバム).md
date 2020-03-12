@@ -1,13 +1,13 @@
 > この記事は[ASIA \(\)](https://ja.wikipedia.org/wiki/ASIA_\(\))から翻訳されています。
 
 
-『**ASIA**』（エイジア）は、[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")の4枚目のオリジナルアルバム。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月29日](../Page/3月29日.md "wikilink")に[rhythm zoneから発売](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。
+『**ASIA**』（エイジア）は、[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")の4枚目のオリジナルアルバム。[2006年](../Page/2006年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")に[rhythm zoneから発売](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要
 
-前作『[EXILE ENTERTAINMENT](https://ja.wikipedia.org/wiki/EXILE_ENTERTAINMENT "wikilink")』から2年3ヶ月ぶりのオリジナルアルバム。ライブ映像作品『[EXILE LIVE TOUR 2005 〜PERFECT LIVE "ASIA"〜](https://ja.wikipedia.org/wiki/EXILE_LIVE_TOUR_2005_〜PERFECT_LIVE_"ASIA"〜 "wikilink")』と同時発売で、この2作を以てボーカルの[SHUNがグループを脱退した](../Page/清木場俊介.md "wikilink")。
+前作『[EXILE ENTERTAINMENT](../Page/EXILE_ENTERTAINMENT.md "wikilink")』から2年3ヶ月ぶりのオリジナルアルバム。ライブ映像作品『[EXILE LIVE TOUR 2005 〜PERFECT LIVE "ASIA"〜](https://ja.wikipedia.org/wiki/EXILE_LIVE_TOUR_2005_〜PERFECT_LIVE_"ASIA"〜 "wikilink")』と同時発売で、この2作を以てボーカルの[SHUNがグループを脱退した](../Page/清木場俊介.md "wikilink")。
 
-ベストアルバム『[PERFECT BEST](https://ja.wikipedia.org/wiki/PERFECT_BEST_\(EXILEのアルバム\) "wikilink")』以降に発売された[GLAY](../Page/GLAY.md "wikilink")とのコラボレーション「[SCREAM](https://ja.wikipedia.org/wiki/SCREAM_\(GLAY×EXILEの曲\) "wikilink")」や、シングル「[EXIT](https://ja.wikipedia.org/wiki/EXIT_\(EXILEの曲\) "wikilink")」「[ただ…逢いたくて](https://ja.wikipedia.org/wiki/ただ…逢いたくて "wikilink")」、本作からの先行シングルである「[YES\!](https://ja.wikipedia.org/wiki/YES!_\(EXILEの曲\) "wikilink")」を含む全17曲を収録。『PERFECT BEST』以前に発売され、そちらに収録の「[Carry On/運命のヒト](https://ja.wikipedia.org/wiki/Carry_On/運命のヒト "wikilink")」「[real world](https://ja.wikipedia.org/wiki/real_world "wikilink")」「[HEART of GOLD](../Page/HEART_of_GOLD.md "wikilink")」「[HERO](../Page/HERO_\(EXILEの曲\).md "wikilink")」は未収録となった。
+ベストアルバム『[PERFECT BEST](../Page/PERFECT_BEST_\(EXILEのアルバム\).md "wikilink")』以降に発売された[GLAY](../Page/GLAY.md "wikilink")とのコラボレーション「[SCREAM](https://ja.wikipedia.org/wiki/SCREAM_\(GLAY×EXILEの曲\) "wikilink")」や、シングル「[EXIT](../Page/EXIT_\(EXILEの曲\).md "wikilink")」「[ただ…逢いたくて](../Page/ただ…逢いたくて.md "wikilink")」、本作からの先行シングルである「[YES\!](../Page/YES!_\(EXILEの曲\).md "wikilink")」を含む全17曲を収録。『PERFECT BEST』以前に発売され、そちらに収録の「[Carry On/運命のヒト](https://ja.wikipedia.org/wiki/Carry_On/運命のヒト "wikilink")」「[real world](https://ja.wikipedia.org/wiki/real_world "wikilink")」「[HEART of GOLD](../Page/HEART_of_GOLD.md "wikilink")」「[HERO](../Page/HERO_\(EXILEの曲\).md "wikilink")」は未収録となった。
 
 [CD](../Page/コンパクトディスク.md "wikilink")+[DVDの](../Page/DVD-Video.md "wikilink")2枚組、CDのみの2形態で発売。
 
@@ -22,11 +22,11 @@
         作曲・編曲：[原田憲](../Page/原田憲_\(ミュージシャン\).md "wikilink")
 2.  **Eastern Boyz 'N Eastern Girlz** (3:38)
       -
-        作詞：[MICHICO](https://ja.wikipedia.org/wiki/MICHICO "wikilink") / 作曲：T-Kura、MICHICO / 編曲：[T-Kura](https://ja.wikipedia.org/wiki/T-Kura "wikilink")
+        作詞：[MICHICO](../Page/MICHICO.md "wikilink") / 作曲：T-Kura、MICHICO / 編曲：[T-Kura](https://ja.wikipedia.org/wiki/T-Kura "wikilink")
     <!-- end list -->
       - 『music.jp』CMソング
       - ベストアルバム『[EXILE ENTERTAINMENT BEST](https://ja.wikipedia.org/wiki/EXILE_ENTERTAINMENT_BEST "wikilink")』に再録バージョンが収録。
-3.  **[EXIT](https://ja.wikipedia.org/wiki/EXIT_\(EXILEの曲\) "wikilink")** (4:30)
+3.  **[EXIT](../Page/EXIT_\(EXILEの曲\).md "wikilink")** (4:30)
       -
         作詞：[秋元康](../Page/秋元康.md "wikilink") / 作曲・編曲：[原一博](../Page/原一博.md "wikilink")
     <!-- end list -->
@@ -59,7 +59,7 @@
     <!-- end list -->
       - [GLAY](../Page/GLAY.md "wikilink")とのコラボレーションシングル
       - ベストアルバム『EXILE ENTERTAINMENT BEST』に再録バージョンが収録。
-10. **[STAY](https://ja.wikipedia.org/wiki/PERFECT_BEST_\(EXILEのアルバム\) "wikilink") (Sit Back Mix)** (4:47)
+10. **[STAY](../Page/PERFECT_BEST_\(EXILEのアルバム\).md "wikilink") (Sit Back Mix)** (4:47)
       -
         作詞：MICHICO / 作曲：T.KURA、MICHICO / 編曲：T.KURA
     <!-- end list -->
@@ -75,17 +75,17 @@
         作詞：[MATSU](https://ja.wikipedia.org/wiki/松本利夫 "wikilink") / 作曲・編曲：原一博
     <!-- end list -->
       - MATSUが初めて作詞した曲。
-13. **[YES\!](https://ja.wikipedia.org/wiki/YES!_\(EXILEの曲\) "wikilink")** (3:43)
+13. **[YES\!](../Page/YES!_\(EXILEの曲\).md "wikilink")** (3:43)
       -
         作詞：ATSUSHI / 作曲：山口寛雄 / 編曲：REO
     <!-- end list -->
       - 20thシングル
-14. **[DIAMOND](https://ja.wikipedia.org/wiki/EXIT_\(EXILEの曲\) "wikilink")** (4:53)
+14. **[DIAMOND](../Page/EXIT_\(EXILEの曲\).md "wikilink")** (4:53)
       -
         作詞：ATSUSHI / 作曲・編曲：h-wonder
     <!-- end list -->
       - 18thシングルカップリング
-15. **[ただ…逢いたくて](https://ja.wikipedia.org/wiki/ただ…逢いたくて "wikilink")** (5:31)
+15. **[ただ…逢いたくて](../Page/ただ…逢いたくて.md "wikilink")** (5:31)
       -
         作詞：[SHUN](../Page/清木場俊介.md "wikilink") / 作曲・編曲：春川仁志
     <!-- end list -->

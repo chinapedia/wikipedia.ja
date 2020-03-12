@@ -1,11 +1,11 @@
 > この記事は[TECHNODON REMIXES II](https://ja.wikipedia.org/wiki/TECHNODON_REMIXES_II)から翻訳されています。
 
 
-『**TECHNODON REMIXES II**』は[イエロー・マジック・オーケストラ](../Page/イエロー・マジック・オーケストラ.md "wikilink")（YMO）のアルバム『[テクノドン](https://ja.wikipedia.org/wiki/テクノドン "wikilink")』収録曲に対するリミックスアルバム。[1993年](../Page/1993年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink")に[東芝EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")/イーストワールドからリリースされた。
+『**TECHNODON REMIXES II**』は[イエロー・マジック・オーケストラ](../Page/イエロー・マジック・オーケストラ.md "wikilink")（YMO）のアルバム『[テクノドン](../Page/テクノドン.md "wikilink")』収録曲に対するリミックスアルバム。[1993年](../Page/1993年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink")に[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")/イーストワールドからリリースされた。
 
 ## 解説
 
-リミックスを手がけたのは[ジ・オーブ](https://ja.wikipedia.org/wiki/ジ・オーブ "wikilink")。楽曲はほとんど原形をとどめていない。
+リミックスを手がけたのは[ジ・オーブ](../Page/ジ・オーブ.md "wikilink")。楽曲はほとんど原形をとどめていない。
 
 アルバム『テクノドン』のリミックス盤は『[TECHNODON REMIXES I](../Page/TECHNODON_REMIXES_I.md "wikilink")』もある。
 
@@ -19,7 +19,7 @@
 
 ## 関連項目
 
-  - [テクノドン](https://ja.wikipedia.org/wiki/テクノドン "wikilink")
+  - [テクノドン](../Page/テクノドン.md "wikilink")
   - [TECHNODON REMIXES I](../Page/TECHNODON_REMIXES_I.md "wikilink")
 
 [Category:イエロー・マジック・オーケストラのリミックス・アルバム](https://ja.wikipedia.org/wiki/Category:イエロー・マジック・オーケストラのリミックス・アルバム "wikilink") [Category:1993年のリミックス・アルバム](https://ja.wikipedia.org/wiki/Category:1993年のリミックス・アルバム "wikilink") [Category:イーストワールドのアルバム](https://ja.wikipedia.org/wiki/Category:イーストワールドのアルバム "wikilink")

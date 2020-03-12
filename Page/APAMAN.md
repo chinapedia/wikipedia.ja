@@ -11,17 +11,17 @@
       - [8月](../Page/8月.md "wikilink") - 株式会社グリーンボックス管理の全株式を取得、子会社化。
       - 10月 - 株式会社ウェブポータルの株式を取得、子会社化。
   - [2003年](../Page/2003年.md "wikilink")（平成15年）[6月](../Page/6月.md "wikilink") - 株式会社グリーンボックス管理、株式会社ウェブポータルを[吸収合併](../Page/合併_\(企業\).md "wikilink")。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）
+  - [2005年](../Page/2005年.md "wikilink")（平成17年）
       - 3月 - （初代）[小倉興産](https://ja.wikipedia.org/wiki/小倉興産 "wikilink")株式会社の株式を取得、子会社化。
-      - [5月](https://ja.wikipedia.org/wiki/5月 "wikilink") - 株式会社鈴木工務店（後の[AS-SZKi](https://ja.wikipedia.org/wiki/AS-SZKi "wikilink")）と資本・業務提携を実施。
+      - [5月](https://ja.wikipedia.org/wiki/5月 "wikilink") - 株式会社鈴木工務店（後の[AS-SZKi](../Page/AS-SZKi.md "wikilink")）と資本・業務提携を実施。
       - [9月](../Page/9月.md "wikilink") - アパマンショップ北海道を吸収合併。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）[7月](https://ja.wikipedia.org/wiki/7月 "wikilink") - 株式会社アパマンショップネットワーク（後に、アパマンネットワークに名称変更）、株式会社アパマンショップリーシング、株式会社ASNアセットマネジメントに事業を分割・承継、持株会社体制に移行。「株式会社アパマンショップホールディングス」に商号変更。（初代）小倉興産株式会社を吸収合併。
+  - [2006年](../Page/2006年.md "wikilink")（平成18年）[7月](https://ja.wikipedia.org/wiki/7月 "wikilink") - 株式会社アパマンショップネットワーク（後に、アパマンネットワークに名称変更）、株式会社アパマンショップリーシング、株式会社ASNアセットマネジメントに事業を分割・承継、持株会社体制に移行。「株式会社アパマンショップホールディングス」に商号変更。（初代）小倉興産株式会社を吸収合併。
   - [2013年](../Page/2013年.md "wikilink")（平成25年）10月 - 株式会社アパマンショップリーシングが株式会社AS-SZKiを吸収合併。
   - [2018年](../Page/2018年.md "wikilink")（平成30年）1月 - 商号を「APAMAN株式会社」へ変更。
 
 ## グループ会社一覧
 
-  - [Apaman Network株式会社](https://ja.wikipedia.org/wiki/Apaman_Network "wikilink")
+  - [Apaman Network株式会社](../Page/Apaman_Network.md "wikilink")
       - Apaman Design株式会社
   - Apaman Property株式会社
       - 株式会社アメニティーハウス
@@ -38,7 +38,7 @@
   - fabbit株式会社
   - ecobike株式会社
   - 株式会社[あるあるCity](https://ja.wikipedia.org/wiki/あるあるCity "wikilink")
-  - 株式会社[システムソフト](https://ja.wikipedia.org/wiki/システムソフト "wikilink")（持分法適用関連会社）
+  - 株式会社[システムソフト](../Page/システムソフト.md "wikilink")（持分法適用関連会社）
 
 ## アパマンショップキャンペーンガール
 
@@ -47,8 +47,8 @@
 [2009年](../Page/2009年.md "wikilink")（平成21年）は不況により開催が見送られたため、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）が第4回開催となる。[2011年](../Page/2011年.md "wikilink")（平成23年）、[2012年](../Page/2012年.md "wikilink")（平成23年）も開催が見送られた。
 
   - 第1回（2006年）
-      - グランプリ：[岩崎千明](https://ja.wikipedia.org/wiki/岩崎千明 "wikilink")
-      - 準グランプリ：[河津海里](https://ja.wikipedia.org/wiki/河津海里 "wikilink")、[堀井沙織](../Page/堀井沙織.md "wikilink")、[芹沢ユカ](https://ja.wikipedia.org/wiki/芹沢ユカ "wikilink")、[佐倉真衣](https://ja.wikipedia.org/wiki/佐倉真衣 "wikilink")
+      - グランプリ：[岩崎千明](../Page/岩崎千明.md "wikilink")
+      - 準グランプリ：[河津海里](https://ja.wikipedia.org/wiki/河津海里 "wikilink")、[堀井沙織](../Page/堀井沙織.md "wikilink")、[芹沢ユカ](https://ja.wikipedia.org/wiki/芹沢ユカ "wikilink")、[佐倉真衣](../Page/佐倉真衣.md "wikilink")
   - 第2回（2007年）
       - グランプリ：[服部宏美](https://ja.wikipedia.org/wiki/服部宏美 "wikilink")
       - 準グランプリ：[月野碧](https://ja.wikipedia.org/wiki/月野碧 "wikilink")、[西原亜美](https://ja.wikipedia.org/wiki/西原亜美 "wikilink")
@@ -60,7 +60,7 @@
   - 第4回（2010年）
       - グランプリ：[永田怜奈](https://ja.wikipedia.org/wiki/永田怜奈 "wikilink")
       - 準グランプリ：[鈴木あすな](https://ja.wikipedia.org/wiki/鈴木あすな "wikilink")、[安武侑香](https://ja.wikipedia.org/wiki/安武侑香 "wikilink")
-      - 特別賞：[御秒奈々](https://ja.wikipedia.org/wiki/御秒奈々 "wikilink")
+      - 特別賞：[御秒奈々](../Page/御秒奈々.md "wikilink")
   - 第5回（2013年）
       - グランプリ：[渡邊小百合](https://ja.wikipedia.org/wiki/渡邊小百合 "wikilink")
       - 準グランプリ：[石井つかさ](https://ja.wikipedia.org/wiki/石井つかさ "wikilink")、[稲葉麻依](https://ja.wikipedia.org/wiki/稲葉麻依 "wikilink")
@@ -71,10 +71,10 @@
 ## 関連項目
 
   - [CHINTAI](../Page/CHINTAI.md "wikilink") - 旧賃貸情報ニュース社、賃貸物件ニュースの専門誌『週刊CHINTAI』の編集・発行元
-  - [エイブル](https://ja.wikipedia.org/wiki/エイブル "wikilink") - 上記会社の兄弟会社で、アパマン社のライバル会社でもある
+  - [エイブル](../Page/エイブル.md "wikilink") - 上記会社の兄弟会社で、アパマン社のライバル会社でもある
   - [コマーシャル・アールイー](https://ja.wikipedia.org/wiki/コマーシャル・アールイー "wikilink") - アパマン社は株主だったが、包括的業務提携を解消した
   - [アビスパ福岡](../Page/アビスパ福岡.md "wikilink") - 福岡市を本拠地とするサッカークラブで子会社のシステムソフトが筆頭株主。アビスパ社長の川森敬史はAPAMANの常務取締役。
-  - [札幌不動産仲介店舗ガス爆発事故](https://ja.wikipedia.org/wiki/札幌不動産仲介店舗ガス爆発事故 "wikilink") - 2018年12月16日に起きた[ガス爆発](https://ja.wikipedia.org/wiki/ガス爆発 "wikilink")事故。APAMAN子会社の「アパマンショップリーシング北海道」が運営する店舗で発生した。
+  - [札幌不動産仲介店舗ガス爆発事故](https://ja.wikipedia.org/wiki/札幌不動産仲介店舗ガス爆発事故 "wikilink") - 2018年12月16日に起きた[ガス爆発](../Page/ガス爆発.md "wikilink")事故。APAMAN子会社の「アパマンショップリーシング北海道」が運営する店舗で発生した。
 
 ## 外部リンク
 

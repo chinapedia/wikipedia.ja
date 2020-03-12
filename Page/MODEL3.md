@@ -1,7 +1,7 @@
 > この記事は[MODEL3](https://ja.wikipedia.org/wiki/MODEL3)から翻訳されています。
 
 
-**MODEL3**（モデルスリー）は[1996年](../Page/1996年.md "wikilink")にセガ（後の[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")）によって開発された[アーケードゲーム基板](https://ja.wikipedia.org/wiki/アーケードゲーム基板 "wikilink")である。
+**MODEL3**（モデルスリー）は[1996年](../Page/1996年.md "wikilink")にセガ（後の[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")）によって開発された[アーケードゲーム基板](../Page/アーケードゲーム基板.md "wikilink")である。
 
 ## 概要
 
@@ -20,7 +20,7 @@
   - Sound Chip: 2× [ヤマハ](../Page/ヤマハ.md "wikilink") [SCSP/YMF292-F](../Page/FM音源.md "wikilink") 128-step DSP, MIDIインターフェイス, 64ボイス, 4チャンネル, ROM最大 16.5 MB, PCM 64チャンネル
   - Main RAM: 8 MB
   - Audio RAM: 1 MB
-  - 特殊機能: [テクスチャーマッピング](https://ja.wikipedia.org/wiki/テクスチャマッピング "wikilink")、[トライリニアフィルタリング](https://ja.wikipedia.org/wiki/テクスチャフィルタリング#トリリニアフィルタリング "wikilink")、マイクロテクスチャリング、スペキュラーリフレクション、[グーローシェーディング](https://ja.wikipedia.org/wiki/グーローシェーディング "wikilink")、[フラットシェーディング](https://ja.wikipedia.org/wiki/フラットシェーディング "wikilink")、[アンチエイリアシング](https://ja.wikipedia.org/wiki/アンチエイリアス "wikilink")、[アルファブレンディング](https://ja.wikipedia.org/wiki/アルファブレンド "wikilink")
+  - 特殊機能: [テクスチャーマッピング](../Page/テクスチャマッピング.md "wikilink")、[トライリニアフィルタリング](https://ja.wikipedia.org/wiki/テクスチャフィルタリング#トリリニアフィルタリング "wikilink")、マイクロテクスチャリング、スペキュラーリフレクション、[グーローシェーディング](https://ja.wikipedia.org/wiki/グーローシェーディング "wikilink")、[フラットシェーディング](https://ja.wikipedia.org/wiki/フラットシェーディング "wikilink")、[アンチエイリアシング](../Page/アンチエイリアス.md "wikilink")、[アルファブレンディング](../Page/アルファブレンド.md "wikilink")
 
 <!-- end list -->
 
@@ -44,43 +44,43 @@
   - **Step 1.5**
       - [スカッドレース](https://ja.wikipedia.org/wiki/スカッドレース "wikilink")（1996年）
       - [ロスト・ワールド/ジュラシック・パーク](https://ja.wikipedia.org/wiki/ロスト・ワールド/ジュラシック・パーク "wikilink")（1997年）
-      - [ル・マン24](https://ja.wikipedia.org/wiki/ルマン24_\(アーケードゲーム\) "wikilink")（1997年）
-      - [バーチャストライカー](https://ja.wikipedia.org/wiki/バーチャストライカー "wikilink")2（1997年）
+      - [ル・マン24](../Page/ルマン24_\(アーケードゲーム\).md "wikilink")（1997年）
+      - [バーチャストライカー](../Page/バーチャストライカー.md "wikilink")2（1997年）
       - [スカッドレース](https://ja.wikipedia.org/wiki/スカッドレース "wikilink")プラス（1997年）
 
 <!-- end list -->
 
   - **Step 2.0**
-      - [ファイティングバイパーズ](https://ja.wikipedia.org/wiki/ファイティングバイパーズ "wikilink")2（1998年）
+      - [ファイティングバイパーズ](../Page/ファイティングバイパーズ.md "wikilink")2（1998年）
       - [スキーチャンプ](https://ja.wikipedia.org/wiki/スキーチャンプ "wikilink")（1998年）
       - [セガラリー2](https://ja.wikipedia.org/wiki/セガラリー2 "wikilink")（1998年）
       - [ハーレー・ダビッドソン\&L.A.ライダーズ](https://ja.wikipedia.org/wiki/ハーレー・ダビッドソン&L.A.ライダーズ "wikilink")（1998年）
       - [電脳戦機バーチャロン オラトリオ タングラム](../Page/電脳戦機バーチャロン.md "wikilink")（1998年）
-      - [バーチャストライカー '98](https://ja.wikipedia.org/wiki/バーチャストライカー "wikilink")2（1998年）
+      - [バーチャストライカー '98](../Page/バーチャストライカー.md "wikilink")2（1998年）
 
 <!-- end list -->
 
   - **Step 2.1**
-      - [デイトナUSA](https://ja.wikipedia.org/wiki/デイトナUSA "wikilink")2（1998年）
-      - [デイトナUSA](https://ja.wikipedia.org/wiki/デイトナUSA "wikilink")2パワーエディション（1998年）
+      - [デイトナUSA](../Page/デイトナUSA.md "wikilink")2（1998年）
+      - [デイトナUSA](../Page/デイトナUSA.md "wikilink")2パワーエディション（1998年）
       - [オーシャンハンター](https://ja.wikipedia.org/wiki/オーシャンハンター "wikilink")（1998年）
-      - [スパイクアウト](https://ja.wikipedia.org/wiki/スパイクアウト "wikilink")（1998年）
+      - [スパイクアウト](../Page/スパイクアウト.md "wikilink")（1998年）
       - [スターウォーズ・トリロジー・アーケード](https://ja.wikipedia.org/wiki/スターウォーズ・トリロジー・アーケード "wikilink")（1998年）
       - [ダートデビルズ](https://ja.wikipedia.org/wiki/ダートデビルズ "wikilink")（1998年）
-      - [L.A.マシンガンズ](https://ja.wikipedia.org/wiki/L.A.マシンガンズ "wikilink")（1998年）
-      - [マジカル・トロッコ・アドベンチャー](https://ja.wikipedia.org/wiki/マジカル・トロッコ・アドベンチャー "wikilink")（1998年）
-      - [バーチャストライカー '99](https://ja.wikipedia.org/wiki/バーチャストライカー "wikilink")2（1998年）
-      - [バーチャストライカー '99.1](https://ja.wikipedia.org/wiki/バーチャストライカー "wikilink")2（1999年）
-      - [スパイクアウト](https://ja.wikipedia.org/wiki/スパイクアウト "wikilink")・ファイナルエディション（1999年）
+      - [L.A.マシンガンズ](../Page/L.A.マシンガンズ.md "wikilink")（1998年）
+      - [マジカル・トロッコ・アドベンチャー](../Page/マジカル・トロッコ・アドベンチャー.md "wikilink")（1998年）
+      - [バーチャストライカー '99](../Page/バーチャストライカー.md "wikilink")2（1998年）
+      - [バーチャストライカー '99.1](../Page/バーチャストライカー.md "wikilink")2（1999年）
+      - [スパイクアウト](../Page/スパイクアウト.md "wikilink")・ファイナルエディション（1999年）
       - [救急車](https://ja.wikipedia.org/wiki/救急車_\(アーケードゲーム\) "wikilink")（1999年）
 
 ## 関連項目
 
   - [MODEL1](../Page/MODEL1.md "wikilink")
   - [MODEL2](../Page/MODEL2.md "wikilink")
-  - [NAOMI](https://ja.wikipedia.org/wiki/NAOMI "wikilink")
-  - [SEGAHIKARU](https://ja.wikipedia.org/wiki/SEGAHIKARU "wikilink")
-  - [LINDBERGH](https://ja.wikipedia.org/wiki/LINDBERGH "wikilink")
+  - [NAOMI](../Page/NAOMI.md "wikilink")
+  - [SEGAHIKARU](../Page/SEGAHIKARU.md "wikilink")
+  - [LINDBERGH](../Page/LINDBERGH.md "wikilink")
 
 ## 脚注
 

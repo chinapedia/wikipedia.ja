@@ -1,27 +1,27 @@
 > この記事は[HINOI](https://ja.wikipedia.org/wiki/HINOI)から翻訳されています。
 
 
-**HINOIチーム**（ひのいチーム）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")4人組[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")。[ヴィジョンファクトリー](https://ja.wikipedia.org/wiki/ヴィジョンファクトリー "wikilink")所属。レーベルは[SONIC GROOVE](https://ja.wikipedia.org/wiki/SONIC_GROOVE "wikilink")。2007年に活動を休止した。
+**HINOIチーム**（ひのいチーム）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")4人組[音楽ユニット](../Page/音楽ユニット.md "wikilink")。[ヴィジョンファクトリー](https://ja.wikipedia.org/wiki/ヴィジョンファクトリー "wikilink")所属。レーベルは[SONIC GROOVE](../Page/SONIC_GROOVE.md "wikilink")。2007年に活動を休止した。
 
 ## 略歴
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[5月18日](../Page/5月18日.md "wikilink")、シングル「IKE IKE」をリリース。
+  - [2005年](../Page/2005年.md "wikilink")[5月18日](../Page/5月18日.md "wikilink")、シングル「IKE IKE」をリリース。
   - 2005年12月14日、[SUPER EUROBEATの代表曲](https://ja.wikipedia.org/wiki/SUPER_EUROBEAT "wikilink")「NIGHT OF FIRE/PLAY WITH THE NUMBERS」をリリース。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")3月15日、アルバム『SUPER EURO PARTY（Supported by コリッキー）』をリリース。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")、竹中がヴィジョンファクトリー携帯サイトで携帯小説を連載開始。
+  - [2006年](../Page/2006年.md "wikilink")3月15日、アルバム『SUPER EURO PARTY（Supported by コリッキー）』をリリース。
+  - [2007年](../Page/2007年.md "wikilink")、竹中がヴィジョンファクトリー携帯サイトで携帯小説を連載開始。
   - 2007年2月7日、シングル「Dancin'\&Dreamin'」をリリース。
   - 2007年2月10日、ワンマンライブ『HINOIteam FIRST LIVE -Dancin' & Dreamin'2007-』をライブハウス[渋谷eggman](https://ja.wikipedia.org/wiki/渋谷eggman "wikilink")で昼夜2公演開催。
   - 2007年2月11日、ディスクピア日本橋店 音楽館6階イベントフロア。
   - 2007年5月2日、樋井がシングル「明日への光」をリリース。
-  - 2007年、[ラブベリー](https://ja.wikipedia.org/wiki/ラブベリー "wikilink")4月号が松岡脱退記事を掲載。ヴィジョンファクトリー携帯サイト上のプロフィールと日記「松岡桂花ですが何か問題でも??」抹消。
+  - 2007年、[ラブベリー](../Page/ラブベリー.md "wikilink")4月号が松岡脱退記事を掲載。ヴィジョンファクトリー携帯サイト上のプロフィールと日記「松岡桂花ですが何か問題でも??」抹消。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月1日](../Page/9月1日.md "wikilink")、ヴィジョンファクトリー携帯サイト上のHINOIチームページと小山の日記「ひかるは永遠 鶴は千年亀は万年」抹消。
 
 ## メンバー
 
-  - **[樋井明日香](../Page/樋井明日香.md "wikilink")**（ひのい あすか、、[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")[河内長野市](../Page/河内長野市.md "wikilink")出身、160cm）
+  - **[樋井明日香](../Page/樋井明日香.md "wikilink")**（ひのい あすか、、[大阪府](../Page/大阪府.md "wikilink")[河内長野市](../Page/河内長野市.md "wikilink")出身、160cm）
       -
         リーダー。結成前ソロ活動歴あり。特技：ケースバイケースで寝る。座右の銘：自分らしく→意外性
-  - **[小山ひかる](https://ja.wikipedia.org/wiki/小山ひかる "wikilink")**（こやま ひかる、、[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")出身、163cm）
+  - **[小山ひかる](https://ja.wikipedia.org/wiki/小山ひかる "wikilink")**（こやま ひかる、、[京都府](../Page/京都府.md "wikilink")出身、163cm）
       -
         特技：[メール](https://ja.wikipedia.org/wiki/メール "wikilink")早打ち。座右の銘：一生懸命
   - **[竹中里奈](https://ja.wikipedia.org/wiki/Rinana "wikilink")**（たけなか りな、、[兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")出身、162cm）
@@ -30,9 +30,9 @@
 
 ### 旧メンバー
 
-  - **[松岡桂花](https://ja.wikipedia.org/wiki/松岡桂花 "wikilink")**（まつおか けいか、、兵庫県神戸市出身、158cm）
+  - **[松岡桂花](../Page/松岡桂花.md "wikilink")**（まつおか けいか、、兵庫県神戸市出身、158cm）
       -
-        特技：[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")をする。可愛くなる方法を探る、オシャレをすること。座右の銘：根性
+        特技：[作詞](../Page/作詞.md "wikilink")をする。可愛くなる方法を探る、オシャレをすること。座右の銘：根性
 
 ## 作品
 
@@ -140,27 +140,27 @@ AVCD-16093</p></td>
 <tr class="odd">
 <td><p><strong>IKE IKE</strong></p></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/テレビ朝日" title="wikilink">テレビ朝日</a>系アニメ『<a href="https://ja.wikipedia.org/wiki/いちご100%" title="wikilink">いちご100%</a>』エンディングテーマ</li>
+<li><a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a>系アニメ『<a href="../Page/いちご100%.md" title="wikilink">いちご100%</a>』エンディングテーマ</li>
 <li><a href="../Page/中京テレビ放送.md" title="wikilink">中京テレビ</a>『<a href="../Page/サルヂエ.md" title="wikilink">サルヂエ</a>』エンディングテーマ</li>
-<li>中京テレビ『<a href="https://ja.wikipedia.org/wiki/少年チャンプル" title="wikilink">少年チャンプル</a> 』エンディングテーマ</li>
+<li>中京テレビ『<a href="../Page/少年チャンプル.md" title="wikilink">少年チャンプル</a> 』エンディングテーマ</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td><p><strong>PLAY WITH THE NUMBERS</strong></p></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>系『<a href="https://ja.wikipedia.org/wiki/Pinkの遺伝子" title="wikilink">Pinkの遺伝子</a>』エンディングテーマ</li>
+<li><a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>系『<a href="../Page/Pinkの遺伝子.md" title="wikilink">Pinkの遺伝子</a>』エンディングテーマ</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td><p><strong>YEAH!</strong></p></td>
 <td><ul>
-<li>テレビ東京系『<a href="https://ja.wikipedia.org/wiki/ポケモン☆サンデー" title="wikilink">ポケモン☆サンデー</a>』エンディングテーマ</li>
+<li>テレビ東京系『<a href="../Page/ポケモン☆サンデー.md" title="wikilink">ポケモン☆サンデー</a>』エンディングテーマ</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td><p><strong>NOW AND FOREVER</strong></p></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/TBSテレビ" title="wikilink">TBS系</a>『<a href="https://ja.wikipedia.org/wiki/アイチテル!" title="wikilink">アイチテル!</a>』エンディングテーマ</li>
+<li><a href="../Page/TBSテレビ.md" title="wikilink">TBS系</a>『<a href="../Page/アイチテル!.md" title="wikilink">アイチテル!</a>』エンディングテーマ</li>
 <li><a href="https://ja.wikipedia.org/wiki/ナルミヤ" title="wikilink">ナルミヤ</a>シンデレラオーディションテーマソング</li>
 </ul></td>
 </tr>
@@ -175,11 +175,11 @@ AVCD-16093</p></td>
 
 ## 出演
 
-  - [ミンナのテレビ](https://ja.wikipedia.org/wiki/ミンナのテレビ "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
+  - [ミンナのテレビ](../Page/ミンナのテレビ.md "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
   - [歌笑HOTヒット10](https://ja.wikipedia.org/wiki/歌笑HOTヒット10 "wikilink")（日本テレビ）
-  - [音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")（日本テレビ）
-  - [ウタワラ](https://ja.wikipedia.org/wiki/ウタワラ "wikilink")（日本テレビ）
-  - [Channel-a](https://ja.wikipedia.org/wiki/Channel-a "wikilink")（[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")）
+  - [音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")（日本テレビ）
+  - [ウタワラ](../Page/ウタワラ.md "wikilink")（日本テレビ）
+  - [Channel-a](../Page/Channel-a.md "wikilink")（[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")）
   - [月刊MelodiX\!](https://ja.wikipedia.org/wiki/月刊MelodiX! "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
   - V-net LUNCH BARKS（2006年4月25日 - 、[BARKS](https://ja.wikipedia.org/wiki/BARKS "wikilink") Podcast）\[2\]
   - HINOIチームの「ヒノチ革命」（2006年6月20日 - 12月、[パケラジ](https://ja.wikipedia.org/wiki/パケラジ "wikilink")）\[3\]
@@ -203,7 +203,7 @@ AVCD-16093</p></td>
 | 9  | **ON MY OWN**                | DONNA                                                                         | 松井五郎                                                  |
 | 10 | **HEY Mr.DJ**                | DOMINO（HEY Mr.DEE JAY）                                                        | kenko-p                                               |
 | 11 | **EVERYBODY DANCE**          | LOLITA                                                                        | kenko-p                                               |
-| 12 | **EMOTICONS**                | CHRISTINE（未発表）                                                                | [森由里子](https://ja.wikipedia.org/wiki/森由里子 "wikilink") |
+| 12 | **EMOTICONS**                | CHRISTINE（未発表）                                                                | [森由里子](../Page/森由里子.md "wikilink")                    |
 | 13 | **JAM JAM JAM**              | KIKI\&KIKA                                                                    | kenko-p                                               |
 | 14 | **AISHITERU**                | HINOIチーム                                                                      | HINOKY TEAM                                           |
 | 15 | **JUST FOR ME**              | VIVI                                                                          | kenko-p                                               |

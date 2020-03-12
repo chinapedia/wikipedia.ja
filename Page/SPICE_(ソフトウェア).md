@@ -40,7 +40,7 @@
     V1 2 0 5
     .END
 
-この例では前述の回路の両端（+側がノード 2 で-側がノード 0 ）に 5V の電圧を加えたことになる。 電源には直流のほか[正弦波](https://ja.wikipedia.org/wiki/正弦波 "wikilink")やパルス波形、[定電流源](https://ja.wikipedia.org/wiki/定電流源 "wikilink")なども指定できる。 電源も形式的には素子との位置づけであり他の素子同様、回路記述内に含める。 ノード 0 （グランド）は、必ず含まれていなくてはならない。 各部の電圧とは、指定した場所の電位とノード 0 との電位差として定義されている。
+この例では前述の回路の両端（+側がノード 2 で-側がノード 0 ）に 5V の電圧を加えたことになる。 電源には直流のほか[正弦波](../Page/正弦波.md "wikilink")やパルス波形、[定電流源](https://ja.wikipedia.org/wiki/定電流源 "wikilink")なども指定できる。 電源も形式的には素子との位置づけであり他の素子同様、回路記述内に含める。 ノード 0 （グランド）は、必ず含まれていなくてはならない。 各部の電圧とは、指定した場所の電位とノード 0 との電位差として定義されている。
 
 これを実際に動作させるには解析内容を指定する。
 
@@ -123,7 +123,7 @@
     　  Lxxx N+ N- value
 
   -
-    N+、N-は正負のノード、valueはインダクタンスで単位は[ヘンリー](https://ja.wikipedia.org/wiki/ヘンリー "wikilink")
+    N+、N-は正負のノード、valueはインダクタンスで単位は[ヘンリー](../Page/ヘンリー.md "wikilink")
 
 <!-- end list -->
 
@@ -377,9 +377,9 @@
   - spice3f (バークレイによる最終版)
   - ngspice (オープンソース版SPICEのひとつ)
   - Qucs (オープンソース版SPICEのひとつ[入手ページ](http://qucs.sourceforge.net/))
-  - HSPICE (meta software社開発、現[シノプシス](https://ja.wikipedia.org/wiki/シノプシス "wikilink"))
-  - PSpice (MicroSim社開発、現[ケイデンス・デザイン・システムズ](https://ja.wikipedia.org/wiki/ケイデンス・デザイン・システムズ "wikilink"))
-  - SmartSpice ([シルバコ](https://ja.wikipedia.org/wiki/シルバコ "wikilink")社 [入手ページ](https://www.silvaco.co.jp/products/analog_mixed_signal/smartspice.html))
+  - HSPICE (meta software社開発、現[シノプシス](../Page/シノプシス.md "wikilink"))
+  - PSpice (MicroSim社開発、現[ケイデンス・デザイン・システムズ](../Page/ケイデンス・デザイン・システムズ.md "wikilink"))
+  - SmartSpice ([シルバコ](../Page/シルバコ.md "wikilink")社 [入手ページ](https://www.silvaco.co.jp/products/analog_mixed_signal/smartspice.html))
   - LTSpice (リニアテクノロジ社配布 [入手ページ](http://www.linear-tech.co.jp/designtools/software/))
   - TINA-TI (テキサス・インスツルメンツ社配布 [入手ページ](http://www.tij.co.jp/tool/jp/tina-ti#descriptionArea))
 

@@ -1,7 +1,7 @@
 > この記事は[D.O](https://ja.wikipedia.org/wiki/D.O)から翻訳されています。
 
 
-**D.O**(ディー・オー、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink") - )は、[日本のヒップホップ](https://ja.wikipedia.org/wiki/日本のヒップホップ "wikilink")[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。[練馬区](https://ja.wikipedia.org/wiki/練馬区 "wikilink")在住。[練マザファッカー](https://ja.wikipedia.org/wiki/練マザファッカー "wikilink")の元リーダー。本名は君塚 慈容（きみづか しげやす）、旧姓は須藤（すどう）。
+**D.O**(ディー・オー、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink") - )は、[日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。[練馬区](https://ja.wikipedia.org/wiki/練馬区 "wikilink")在住。[練マザファッカー](https://ja.wikipedia.org/wiki/練マザファッカー "wikilink")の元リーダー。本名は君塚 慈容（きみづか しげやす）、旧姓は須藤（すどう）。
 
 ## 人物
 
@@ -12,8 +12,8 @@
 ## 略歴
 
   - 2006年、初のソロアルバム『JUST HUSTLIN' NOW』をリリース。
-  - 2007年、[TBSのバラエティー番組](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")『[リンカーン](https://ja.wikipedia.org/wiki/リンカーン_\(テレビ番組\) "wikilink")』内のコーナー「ウルリン滞在記」に出演、[中川剛にラップを指南した](https://ja.wikipedia.org/wiki/中川剛_\(お笑い芸人\) "wikilink")。語尾に「メ〜ン」をつける独特のしゃべり方が話題を呼んだ。
-  - 同年、「ジャパニーズ・レゲエやHIPHOPの各界における実力者・注目株が、[所ジョージ](https://ja.wikipedia.org/wiki/所ジョージ "wikilink")の名の下に大集合」という名目の音楽プロジェクトSETAGAYA MUSIC BASEに卍LINE（[窪塚洋介](../Page/窪塚洋介.md "wikilink")）、[山本"KID"徳郁らと共に参加](https://ja.wikipedia.org/wiki/山本徳郁 "wikilink")\[2\]。
+  - 2007年、[TBSのバラエティー番組](../Page/TBSテレビ.md "wikilink")『[リンカーン](../Page/リンカーン_\(テレビ番組\).md "wikilink")』内のコーナー「ウルリン滞在記」に出演、[中川剛にラップを指南した](https://ja.wikipedia.org/wiki/中川剛_\(お笑い芸人\) "wikilink")。語尾に「メ〜ン」をつける独特のしゃべり方が話題を呼んだ。
+  - 同年、「ジャパニーズ・レゲエやHIPHOPの各界における実力者・注目株が、[所ジョージ](https://ja.wikipedia.org/wiki/所ジョージ "wikilink")の名の下に大集合」という名目の音楽プロジェクトSETAGAYA MUSIC BASEに卍LINE（[窪塚洋介](../Page/窪塚洋介.md "wikilink")）、[山本"KID"徳郁らと共に参加](../Page/山本徳郁.md "wikilink")\[2\]。
   - 2009年、不祥事を起こし、予定されていた2ndアルバムの発売が中止になる（[後述](https://ja.wikipedia.org/wiki/#事件 "wikilink")）。
   - 2010年9月8日、ソロ活動再開のシングルとして、『I'm Back』を発売。
   - 2011年1月19日、約4年振りのアルバム『ネリル\&JO』を発売。
@@ -21,7 +21,7 @@
 
 ## 犯罪・逮捕歴
 
-2009年2月4日、[コカイン](https://ja.wikipedia.org/wiki/コカイン "wikilink")を所持・使用したとして[麻薬取締法](https://ja.wikipedia.org/wiki/麻薬取締法 "wikilink")違反の容疑で逮捕された。練マザファッカーのメンバーがCDショップ店舗にて[大麻](https://ja.wikipedia.org/wiki/大麻 "wikilink")を売り逮捕された事件に関連し、1月30日にD.Officeの事務所に[家宅捜索](https://ja.wikipedia.org/wiki/家宅捜索 "wikilink")が入り[若麒麟真一とD](https://ja.wikipedia.org/wiki/鈴川真一 "wikilink").Office社員で練マザファッカーのメンバーであるPIT GObが逮捕された際、自身も後から現場に現れ、定期入れの中に微量のコカインを所持しており、「我慢できなかったんスよ、勘弁してくださいよお巡りさん・・・」と供述したための逮捕された。同年4月20日、この事件で、懲役1年・執行猶予3年の有罪判決が言い渡された。
+2009年2月4日、[コカイン](../Page/コカイン.md "wikilink")を所持・使用したとして[麻薬取締法](https://ja.wikipedia.org/wiki/麻薬取締法 "wikilink")違反の容疑で逮捕された。練マザファッカーのメンバーがCDショップ店舗にて[大麻](https://ja.wikipedia.org/wiki/大麻 "wikilink")を売り逮捕された事件に関連し、1月30日にD.Officeの事務所に[家宅捜索](https://ja.wikipedia.org/wiki/家宅捜索 "wikilink")が入り[若麒麟真一とD](../Page/鈴川真一.md "wikilink").Office社員で練マザファッカーのメンバーであるPIT GObが逮捕された際、自身も後から現場に現れ、定期入れの中に微量のコカインを所持しており、「我慢できなかったんスよ、勘弁してくださいよお巡りさん・・・」と供述したための逮捕された。同年4月20日、この事件で、懲役1年・執行猶予3年の有罪判決が言い渡された。
 
 この逮捕に関連し、同年2月5日には、翌週の2月11日に発売が予定されていた2ndアルバム『JUST BALLIN' NOW』の発売中止が発表され、[エイベックスは](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")、D.Oが参加している全ての楽曲を配信停止した\[3\]。2008年10月に発表された又吉\&D.Oのアルバム『なめんなよ』の発売および配信も中止され、3月18日にリリースされる[ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink")の日本武道館ライブDVD『ZEEBRA 20th ANNIVERSARY THE LIVE ANIMAL in 武道館』は、D.Oの出演シーンを編集でカットしてリリースされる\[4\]。
 
@@ -57,13 +57,13 @@
 
 ### 参加作品
 
-  - [TWIGY](https://ja.wikipedia.org/wiki/TWIGY "wikilink") 「The Legendary Mr.Clifton」 （2001年10月17日）
+  - [TWIGY](../Page/TWIGY.md "wikilink") 「The Legendary Mr.Clifton」 （2001年10月17日）
 
 <!-- end list -->
 
   -
-    2\. 一等賞 feat. [MACKA-CHIN](https://ja.wikipedia.org/wiki/MACKA-CHIN "wikilink"), D.O and [Q](https://ja.wikipedia.org/wiki/ラッパ我リヤ "wikilink")
-    3\. T.K.O feat. [G.K.MARYAN](https://ja.wikipedia.org/wiki/G.K.MARYAN "wikilink"), D.O and WIGGY CLIFTON
+    2\. 一等賞 feat. [MACKA-CHIN](../Page/MACKA-CHIN.md "wikilink"), D.O and [Q](../Page/ラッパ我リヤ.md "wikilink")
+    3\. T.K.O feat. [G.K.MARYAN](../Page/G.K.MARYAN.md "wikilink"), D.O and WIGGY CLIFTON
 
 <!-- end list -->
 
@@ -85,7 +85,7 @@
 
 <!-- end list -->
 
-  - D.M.C (D.O, [MACCHO](https://ja.wikipedia.org/wiki/OZROSAURUS "wikilink"), [CORN HEAD](https://ja.wikipedia.org/wiki/CORN_HEAD "wikilink")) 「D.M.C」 （2002年8月8日）
+  - D.M.C (D.O, [MACCHO](../Page/OZROSAURUS.md "wikilink"), [CORN HEAD](../Page/CORN_HEAD.md "wikilink")) 「D.M.C」 （2002年8月8日）
 
 <!-- end list -->
 
@@ -104,7 +104,7 @@
 
 <!-- end list -->
 
-  - [妄走族](https://ja.wikipedia.org/wiki/妄走族 "wikilink") 「Project(妄)」 （2003年3月26日）
+  - [妄走族](../Page/妄走族.md "wikilink") 「Project(妄)」 （2003年3月26日）
 
 <!-- end list -->
 
@@ -119,7 +119,7 @@
 <!-- end list -->
 
   -
-    3\. 開放軍Ⅱ～確変キャバチャンREMIX feat. 565, [Kenta](https://ja.wikipedia.org/wiki/妄走族 "wikilink"), D.O, 秋田犬どぶ六
+    3\. 開放軍Ⅱ～確変キャバチャンREMIX feat. 565, [Kenta](../Page/妄走族.md "wikilink"), D.O, 秋田犬どぶ六
 
 <!-- end list -->
 
@@ -137,7 +137,7 @@
 <!-- end list -->
 
   -
-    8\. FABULOUS 5 feat. L-VOKAL, MEGA-G, [KM-MARKIT](https://ja.wikipedia.org/wiki/KM-MARKIT "wikilink"), D.O
+    8\. FABULOUS 5 feat. L-VOKAL, MEGA-G, [KM-MARKIT](../Page/KM-MARKIT.md "wikilink"), D.O
 
 <!-- end list -->
 
@@ -155,7 +155,7 @@
 <!-- end list -->
 
   -
-    9\. Time Is Money feat. G.K.MARYAN, D.O, [DELI](https://ja.wikipedia.org/wiki/DELI "wikilink")
+    9\. Time Is Money feat. G.K.MARYAN, D.O, [DELI](../Page/DELI.md "wikilink")
 
 <!-- end list -->
 
@@ -183,7 +183,7 @@
 <!-- end list -->
 
   -
-    9\. 解放軍'04 feat. RINO LATINA Ⅱ, 秋田犬どぶ六, [KENTA5RAS](https://ja.wikipedia.org/wiki/妄走族 "wikilink"), 565, D.O, G.K.MARYAN
+    9\. 解放軍'04 feat. RINO LATINA Ⅱ, 秋田犬どぶ六, [KENTA5RAS](../Page/妄走族.md "wikilink"), 565, D.O, G.K.MARYAN
 
 <!-- end list -->
 
@@ -192,8 +192,8 @@
 <!-- end list -->
 
   -
-    10\. ILLEGAL TRAFICKING feat. MISTA SMITH, KENTA5RAS, D.O, [剣桃太郎](https://ja.wikipedia.org/wiki/妄走族 "wikilink")
-    12\. TOKYO feat. [DEN](https://ja.wikipedia.org/wiki/妄走族 "wikilink"), [般若](https://ja.wikipedia.org/wiki/般若_\(ミュージシャン\) "wikilink"), D.O, G.K.MARYAN
+    10\. ILLEGAL TRAFICKING feat. MISTA SMITH, KENTA5RAS, D.O, [剣桃太郎](../Page/妄走族.md "wikilink")
+    12\. TOKYO feat. [DEN](../Page/妄走族.md "wikilink"), [般若](https://ja.wikipedia.org/wiki/般若_\(ミュージシャン\) "wikilink"), D.O, G.K.MARYAN
     15\. 565 PARTY feat. D.O
 
 <!-- end list -->
@@ -207,7 +207,7 @@
 
 <!-- end list -->
 
-  - [HI-D](https://ja.wikipedia.org/wiki/HI-D "wikilink") & TWIGY 「LOVE or HATE」 （2005年7月13日）
+  - [HI-D](../Page/HI-D.md "wikilink") & TWIGY 「LOVE or HATE」 （2005年7月13日）
 
 <!-- end list -->
 
@@ -232,7 +232,7 @@
 <!-- end list -->
 
   -
-    2\. 今夜決定 (RL2, [HAB I SCREAM](https://ja.wikipedia.org/wiki/SOUL_SCREAM "wikilink"), UZI, SHINNOSK8, NOB, D.O, [ZORRO](https://ja.wikipedia.org/wiki/妄走族 "wikilink"))
+    2\. 今夜決定 (RL2, [HAB I SCREAM](../Page/SOUL_SCREAM.md "wikilink"), UZI, SHINNOSK8, NOB, D.O, [ZORRO](../Page/妄走族.md "wikilink"))
 
 <!-- end list -->
 
@@ -293,7 +293,7 @@
 
 <!-- end list -->
 
-  - [TWIGY](https://ja.wikipedia.org/wiki/TWIGY "wikilink") 「TWIG」 （2006年5月10日）
+  - [TWIGY](../Page/TWIGY.md "wikilink") 「TWIG」 （2006年5月10日）
 
 <!-- end list -->
 
@@ -352,12 +352,12 @@
 
 <!-- end list -->
 
-  - [D.L](https://ja.wikipedia.org/wiki/DEV_LARGE "wikilink") 「THE ALBUM (ADMONITIONS)」 （2006年11月29日）
+  - [D.L](../Page/DEV_LARGE.md "wikilink") 「THE ALBUM (ADMONITIONS)」 （2006年11月29日）
 
 <!-- end list -->
 
   -
-    13\. GOD MOUTH (GOD BIRD pt.2) feat. K5R, TWINKLE, PRIMAL, 剣桃太郎, [GOCCI](https://ja.wikipedia.org/wiki/LUNCH_TIME_SPEAX "wikilink"), SUPERB, [RINO LATINA II](https://ja.wikipedia.org/wiki/RINO_LATINA_II "wikilink") & D.O
+    13\. GOD MOUTH (GOD BIRD pt.2) feat. K5R, TWINKLE, PRIMAL, 剣桃太郎, [GOCCI](../Page/LUNCH_TIME_SPEAX.md "wikilink"), SUPERB, [RINO LATINA II](../Page/RINO_LATINA_II.md "wikilink") & D.O
 
 <!-- end list -->
 
@@ -379,7 +379,7 @@
 
 <!-- end list -->
 
-  - [Da.Me.Records](https://ja.wikipedia.org/wiki/Da.Me.Records "wikilink")(オムニバス) 「月刊ラップ 第9号」 （2007年4月28日）
+  - [Da.Me.Records](../Page/Da.Me.Records.md "wikilink")(オムニバス) 「月刊ラップ 第9号」 （2007年4月28日）
 
 <!-- end list -->
 
@@ -547,12 +547,12 @@
 
 <!-- end list -->
 
-  - [DJ Deckstream](https://ja.wikipedia.org/wiki/DJ_Deckstream "wikilink") 「DRESS CODE」 （2014年12月10日）
+  - [DJ Deckstream](../Page/DJ_Deckstream.md "wikilink") 「DRESS CODE」 （2014年12月10日）
 
 <!-- end list -->
 
   -
-    5\. Most Beautiful In The World feat. [SEAMO](https://ja.wikipedia.org/wiki/SEAMO "wikilink") & D.O
+    5\. Most Beautiful In The World feat. [SEAMO](../Page/SEAMO.md "wikilink") & D.O
 
 <!-- end list -->
 
@@ -565,7 +565,7 @@
 
 <!-- end list -->
 
-  - [LIBRO](https://ja.wikipedia.org/wiki/LIBRO "wikilink")「GEAR」（2015年1月14日）
+  - [LIBRO](../Page/LIBRO.md "wikilink")「GEAR」（2015年1月14日）
 
 <!-- end list -->
 
@@ -628,7 +628,7 @@
 
 ## 著書
 
-  - 悪党の詩 D.O自伝（2019年9月、[彩図社](https://ja.wikipedia.org/wiki/彩図社 "wikilink")）\[6\]
+  - 悪党の詩 D.O自伝（2019年9月、[彩図社](../Page/彩図社.md "wikilink")）\[6\]
 
 ## 出演
 
@@ -638,16 +638,16 @@
 
 ### テレビ番組
 
-  - [リンカーン](https://ja.wikipedia.org/wiki/リンカーン_\(テレビ番組\) "wikilink")（2007年、TBS）
+  - [リンカーン](../Page/リンカーン_\(テレビ番組\).md "wikilink")（2007年、TBS）
   - [BAZOOKA\!\!\!](https://ja.wikipedia.org/wiki/BAZOOKA!!! "wikilink")
 
 ### CM
 
-  - 『[エクステ専門](https://ja.wikipedia.org/wiki/ヘアーエクステンション "wikilink")・女性専用[美容室](https://ja.wikipedia.org/wiki/美容所 "wikilink") Extentions （エクステンションズ）』（2008年） [松本莉緒](https://ja.wikipedia.org/wiki/松本莉緒 "wikilink")と共演
+  - 『[エクステ専門](../Page/ヘアーエクステンション.md "wikilink")・女性専用[美容室](../Page/美容所.md "wikilink") Extentions （エクステンションズ）』（2008年） [松本莉緒](../Page/松本莉緒.md "wikilink")と共演
 
 ## 関連項目
 
-  - [ツインテール](https://ja.wikipedia.org/wiki/ツインテール "wikilink")
+  - [ツインテール](../Page/ツインテール.md "wikilink")
   - [〜なめねこ又吉最強伝説〜なめんなよ\!](https://ja.wikipedia.org/wiki/〜なめねこ又吉最強伝説〜なめんなよ! "wikilink")（D.Oをモデルにしたキャラクターが登場、本人も単行本第3巻の帯にコメントを寄せている）
 
 ## 外部リンク

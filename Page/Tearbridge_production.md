@@ -12,7 +12,7 @@
 ## 業務内容
 
   - レーベル業務（レコード制作/宣伝業務全般）
-      - ※ただし、レーベル発売・販売業務は同系列のレコード会社・[エイベックス・マーケティングに委託](https://ja.wikipedia.org/wiki/エイベックス・エンタテインメント "wikilink")
+      - ※ただし、レーベル発売・販売業務は同系列のレコード会社・[エイベックス・マーケティングに委託](../Page/エイベックス・エンタテインメント.md "wikilink")
   - マネージメント(アーティスト/クリエイター)業務
   - プロデュース業務
   - 音楽出版業務等
@@ -21,13 +21,13 @@
 
   - [Every Little Thing](../Page/Every_Little_Thing.md "wikilink")
   - [globe](https://ja.wikipedia.org/wiki/globe "wikilink")
-  - [SEAMO](https://ja.wikipedia.org/wiki/SEAMO "wikilink")
+  - [SEAMO](../Page/SEAMO.md "wikilink")
   - [mihimaru GT](https://ja.wikipedia.org/wiki/mihimaru_GT "wikilink")
   - [the pillows](https://ja.wikipedia.org/wiki/the_pillows "wikilink")
-  - [TRAX](https://ja.wikipedia.org/wiki/TRAX "wikilink")
+  - [TRAX](../Page/TRAX.md "wikilink")
   - [RYUZO](https://ja.wikipedia.org/wiki/RYUZO "wikilink")
   - [玉木宏](https://ja.wikipedia.org/wiki/玉木宏 "wikilink")
-  - [Rinka](https://ja.wikipedia.org/wiki/梨花 "wikilink")
+  - [Rinka](../Page/梨花.md "wikilink")
 
 ## プロデュース業務
 
@@ -35,14 +35,14 @@
   - [大橋りえ](https://ja.wikipedia.org/wiki/大橋りえ "wikilink")
   - [All Japan Goith](https://ja.wikipedia.org/wiki/All_Japan_Goith "wikilink")
   - [camino](https://ja.wikipedia.org/wiki/camino_\(バンド\) "wikilink")
-  - ["キャプテンハッスル" 小川直也](https://ja.wikipedia.org/wiki/小川直也 "wikilink")
-  - [CEYREN](https://ja.wikipedia.org/wiki/CEYREN "wikilink")
+  - ["キャプテンハッスル" 小川直也](../Page/小川直也.md "wikilink")
+  - [CEYREN](../Page/CEYREN.md "wikilink")
   - [椿](https://ja.wikipedia.org/wiki/椿 "wikilink")
   - [day after tomorrow](https://ja.wikipedia.org/wiki/day_after_tomorrow "wikilink")
   - [plane](https://ja.wikipedia.org/wiki/plane "wikilink")
   - [Hoi Festa](https://ja.wikipedia.org/wiki/Hoi_Festa "wikilink")
   - [Rinka](https://ja.wikipedia.org/wiki/Rinka "wikilink")
-  - [SEAMO](https://ja.wikipedia.org/wiki/SEAMO "wikilink")
+  - [SEAMO](../Page/SEAMO.md "wikilink")
   - [mihimaru GT](https://ja.wikipedia.org/wiki/mihimaru_GT "wikilink")
   - [nangi](https://ja.wikipedia.org/wiki/nangi "wikilink")
 
@@ -59,7 +59,7 @@
 | 2012年02月29日 | 泪橋学園女子カバー部『P | アニソンかば～っぽいどNON STOP MIX』  |
 |             |              |                           |
 
-  - Atomic Monster Records ([広沢タダシ](https://ja.wikipedia.org/wiki/広沢タダシ "wikilink"))
+  - Atomic Monster Records ([広沢タダシ](../Page/広沢タダシ.md "wikilink"))
   - TAD SOUND
 
 | 発売日         | タイトル                                                                                        | 規格品番       |
@@ -75,13 +75,13 @@
 ### 提携業務
 
   - エイベックス
-      - [avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink")（[Every Little Thing](../Page/Every_Little_Thing.md "wikilink")、[globe](https://ja.wikipedia.org/wiki/globe "wikilink")（[avex globe](https://ja.wikipedia.org/wiki/avex_globe "wikilink")）、[TRAX](https://ja.wikipedia.org/wiki/TRAX "wikilink")、[the pillows](https://ja.wikipedia.org/wiki/the_pillows "wikilink")、[ストロボ](https://ja.wikipedia.org/wiki/ストロボ_\(バンド\) "wikilink")、[大島麻衣](https://ja.wikipedia.org/wiki/大島麻衣 "wikilink")）
+      - [avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink")（[Every Little Thing](../Page/Every_Little_Thing.md "wikilink")、[globe](https://ja.wikipedia.org/wiki/globe "wikilink")（[avex globe](https://ja.wikipedia.org/wiki/avex_globe "wikilink")）、[TRAX](../Page/TRAX.md "wikilink")、[the pillows](https://ja.wikipedia.org/wiki/the_pillows "wikilink")、[ストロボ](../Page/ストロボ_\(バンド\).md "wikilink")、[大島麻衣](../Page/大島麻衣.md "wikilink")）
       - [rhythm zone](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")（[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")）
   - エイベックス以外
-      - [ユニバーサル ミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")
-          - UNIVERSAL J（[mihimaru GT](https://ja.wikipedia.org/wiki/mihimaru_GT "wikilink")、[SEAMO](https://ja.wikipedia.org/wiki/SEAMO "wikilink")）
-          - [FETR](https://ja.wikipedia.org/wiki/Far_Eastern_Tribe_Records "wikilink")（[玉木宏](https://ja.wikipedia.org/wiki/玉木宏 "wikilink")）
-      - [EPIC Records Japan](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")（[nangi](https://ja.wikipedia.org/wiki/nangi "wikilink")）
+      - [ユニバーサル ミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")
+          - UNIVERSAL J（[mihimaru GT](https://ja.wikipedia.org/wiki/mihimaru_GT "wikilink")、[SEAMO](../Page/SEAMO.md "wikilink")）
+          - [FETR](../Page/Far_Eastern_Tribe_Records.md "wikilink")（[玉木宏](https://ja.wikipedia.org/wiki/玉木宏 "wikilink")）
+      - [EPIC Records Japan](../Page/エピックレコードジャパン.md "wikilink")（[nangi](https://ja.wikipedia.org/wiki/nangi "wikilink")）
 
 ## 所属アーティスト
 
@@ -91,7 +91,7 @@
 
 ### Atomic Monster Records
 
-  - [広沢タダシ](https://ja.wikipedia.org/wiki/広沢タダシ "wikilink") (2005年〜)（東芝EMIから移籍）
+  - [広沢タダシ](../Page/広沢タダシ.md "wikilink") (2005年〜)（東芝EMIから移籍）
 
 ## 過去所属アーティスト
 
@@ -112,13 +112,13 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/相沢巧弥子" title="wikilink">相沢巧弥子</a></p></td>
+<td><p><a href="../Page/相沢巧弥子.md" title="wikilink">相沢巧弥子</a></p></td>
 <td><p>あいざわくみこ</p></td>
 <td><p>2006年〜2008年</p></td>
 <td><p>活動停止</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/&quot;E&quot;qual" title="wikilink">"E"qual</a></p></td>
+<td><p><a href="../Page/&quot;E&quot;qual.md" title="wikilink">"E"qual</a></p></td>
 <td><p>イコール</p></td>
 <td><p>2008年〜2010年</p></td>
 <td><p>MS Entertainmentに移籍</p></td>
@@ -136,10 +136,10 @@
 <td><p>歌スタ</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/宇頭巻" title="wikilink">UZUMAKI</a></p></td>
+<td><p><a href="../Page/宇頭巻.md" title="wikilink">UZUMAKI</a></p></td>
 <td><p>うずまき</p></td>
 <td><p>2008年〜2010年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ユニバーサルミュージック_(日本)" title="wikilink">ユニバーサルから移籍</a></p></td>
+<td><p><a href="../Page/ユニバーサルミュージック_(日本).md" title="wikilink">ユニバーサルから移籍</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/w:en:Oh_No_Ono" title="wikilink">Oh No Ono</a></p></td>
@@ -160,7 +160,7 @@
 <td><p>「kainatsu」に改名。2012年Delicious Deli Recordsに移籍</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/勝手にしやがれ_(ジャズバンド)" title="wikilink">勝手にしやがれ</a></p>
+<td><p><a href="../Page/勝手にしやがれ_(ジャズバンド).md" title="wikilink">勝手にしやがれ</a></p>
 <ul>
 <li><a href="https://ja.wikipedia.org/wiki/武藤昭平" title="wikilink">武藤昭平</a></li>
 </ul></td>
@@ -168,11 +168,11 @@
 むとうしょうへい</p></td>
 <td><p>2008年〜2009年<br />
 2009年〜2010年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エピックレコードジャパン" title="wikilink">Epic Recordsから移籍</a><br />
-2011年<a href="https://ja.wikipedia.org/wiki/UKプロジェクト" title="wikilink">UKプロジェクト</a>に移籍</p></td>
+<td><p><a href="../Page/エピックレコードジャパン.md" title="wikilink">Epic Recordsから移籍</a><br />
+2011年<a href="../Page/UKプロジェクト.md" title="wikilink">UKプロジェクト</a>に移籍</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/金築卓也" title="wikilink">金築卓也</a></p></td>
+<td><p><a href="../Page/金築卓也.md" title="wikilink">金築卓也</a></p></td>
 <td><p>かなつきたくや</p></td>
 <td><p>2006年</p></td>
 <td><p>2011年自主レーベル&amp;事務所エリート・エンターテイメントを設立</p></td>
@@ -190,13 +190,13 @@
 <td><p>フォーライフ→WEED→<a href="../Page/GIZA_studio.md" title="wikilink">GIZA studio</a>→tearbridge→ポニーキャニオン</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/木山裕策" title="wikilink">木山裕策</a></p></td>
+<td><p><a href="../Page/木山裕策.md" title="wikilink">木山裕策</a></p></td>
 <td><p>きやまゆうさく</p></td>
 <td><p>2008年〜2009年</p></td>
 <td><p>2016年ユニバーサルミュージックに移籍</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/Good_Dog_Happy_Men" title="wikilink">Good Dog Happy Men</a></p></td>
+<td><p><a href="../Page/Good_Dog_Happy_Men.md" title="wikilink">Good Dog Happy Men</a></p></td>
 <td><p>グッドドッグハッピーメン</p></td>
 <td><p>2006年〜2010年</p></td>
 <td><p>2010年6月活動休止</p></td>
@@ -214,7 +214,7 @@
 <td><p>スウェーデンの音楽グループ</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/COKEHEAD_HIPSTERS" title="wikilink">COKEHEAD HIPSTERS</a></p></td>
+<td><p><a href="../Page/COKEHEAD_HIPSTERS.md" title="wikilink">COKEHEAD HIPSTERS</a></p></td>
 <td><p>コークヘッドヒップスターズ</p></td>
 <td><p>2011年</p></td>
 <td></td>
@@ -229,7 +229,7 @@
 <td><p><a href="../Page/斎藤誠.md" title="wikilink">斎藤誠</a></p></td>
 <td><p>さいとうまこと</p></td>
 <td><p>2007年〜2008年</p></td>
-<td><p><a href="../Page/日本コロムビア.md" title="wikilink">日本コロムビア</a>→<a href="https://ja.wikipedia.org/wiki/アルファレコード" title="wikilink">アルファレコード</a>→エピック→<a href="https://ja.wikipedia.org/wiki/エピックレコードジャパン" title="wikilink">アンティノスレコードから移籍</a></p></td>
+<td><p><a href="../Page/日本コロムビア.md" title="wikilink">日本コロムビア</a>→<a href="../Page/アルファレコード.md" title="wikilink">アルファレコード</a>→エピック→<a href="../Page/エピックレコードジャパン.md" title="wikilink">アンティノスレコードから移籍</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/THE_SAX_NIGHT" title="wikilink">THE SAX NIGHT</a></p></td>
@@ -268,10 +268,10 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/スチャダラパー" title="wikilink">スチャダラパー</a></p></td>
+<td><p><a href="../Page/スチャダラパー.md" title="wikilink">スチャダラパー</a></p></td>
 <td><p>スチャダラパー</p></td>
 <td><p>2008年〜2010年</p></td>
-<td><p>エピックソニー→<a href="https://ja.wikipedia.org/wiki/キューンレコード" title="wikilink">キューンソニー</a>→<a href="https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン" title="wikilink">東芝EMI</a>→<a href="https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン" title="wikilink">ワーナーミュージック・ジャパン</a>→<br />
+<td><p>エピックソニー→<a href="https://ja.wikipedia.org/wiki/キューンレコード" title="wikilink">キューンソニー</a>→<a href="../Page/EMIミュージック・ジャパン.md" title="wikilink">東芝EMI</a>→<a href="../Page/ワーナーミュージック・ジャパン.md" title="wikilink">ワーナーミュージック・ジャパン</a>→<br />
 インディーズ→ユニバーサルから移籍、現在は特定レーベル無所属</p></td>
 </tr>
 <tr class="even">
@@ -293,7 +293,7 @@
 <td><p>2011年P-VINEに移籍</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/セカイイチ" title="wikilink">セカイイチ</a></p></td>
+<td><p><a href="../Page/セカイイチ.md" title="wikilink">セカイイチ</a></p></td>
 <td><p>セカイイチ</p></td>
 <td><p>2010年〜2013年</p></td>
 <td><p>2014年自主レーベル「Anaheim Records」を設立</p></td>
@@ -305,7 +305,7 @@
 <td><p>2008年1月解散</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/多胡邦夫" title="wikilink">多胡邦夫</a></p></td>
+<td><p><a href="../Page/多胡邦夫.md" title="wikilink">多胡邦夫</a></p></td>
 <td><p>たごくにお</p></td>
 <td><p>2004年</p></td>
 <td></td>
@@ -323,7 +323,7 @@
 <td><p>イギリスの音楽グループ</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/土屋公平" title="wikilink">土屋公平</a></p></td>
+<td><p><a href="../Page/土屋公平.md" title="wikilink">土屋公平</a></p></td>
 <td><p>つちやこうへい</p></td>
 <td><p>2008年〜2009年</p></td>
 <td></td>
@@ -347,7 +347,7 @@
 <td><p>2015年1月31日をもって無期限活動休止</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/TOKYO_No.1_SOUL_SET" title="wikilink">TOKYO No.1 SOUL SET</a></p></td>
+<td><p><a href="../Page/TOKYO_No.1_SOUL_SET.md" title="wikilink">TOKYO No.1 SOUL SET</a></p></td>
 <td><p>トーキョーナンバーワンソウルセット</p></td>
 <td><p>2008年〜2011年</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/BMG_JAPAN" title="wikilink">江戸屋レコード</a>→<a href="https://ja.wikipedia.org/wiki/ビクターエンタテインメント" title="wikilink">SPEEDSTAR RECORDS</a>→tearbridge→avex trax</p></td>
@@ -365,13 +365,13 @@
 <td><p>活動停止</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/TRICERATOPS" title="wikilink">TRICERATOPS</a></p></td>
+<td><p><a href="../Page/TRICERATOPS.md" title="wikilink">TRICERATOPS</a></p></td>
 <td><p>トライセラトップス</p></td>
 <td><p>2008年〜2012年</p></td>
 <td><p>エピック→Victor→tearbridge→TRINITY ARTIST</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/TRIPLANE" title="wikilink">TRIPLANE</a></p></td>
+<td><p><a href="../Page/TRIPLANE.md" title="wikilink">TRIPLANE</a></p></td>
 <td><p>トライプレイン</p></td>
 <td><p>2004年〜2015年</p></td>
 <td><p>2017年自主レーベル「EZOGASHIMA LABEL」を設立</p></td>
@@ -395,7 +395,7 @@
 <td><p>2007年6月エピックレコードジャパンよりメジャーデビュー</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/難波章浩" title="wikilink">難波章浩 NAMBA-</a>-AKIHIRO</p></td>
+<td><p><a href="../Page/難波章浩.md" title="wikilink">難波章浩 NAMBA-</a>-AKIHIRO</p></td>
 <td><p>なんばあきひろ</p></td>
 <td><p>2010年〜2013年</p></td>
 <td><p>2013年ONECIRCLEに移籍しバンド<a href="https://ja.wikipedia.org/wiki/NAMBA69" title="wikilink">NAMBA69</a>を結成</p></td>
@@ -419,7 +419,7 @@
 <td><p>2013年3月活動休止</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/HI-D" title="wikilink">HI-D</a>-"RIDE"w/t new trial-</p></td>
+<td><p><a href="../Page/HI-D.md" title="wikilink">HI-D</a>-"RIDE"w/t new trial-</p></td>
 <td><p>ハイディー</p></td>
 <td><p>2009年</p></td>
 <td></td>
@@ -443,7 +443,7 @@
 <td><p>アメリカのバンド</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/BOO_BEE_BENZ" title="wikilink">BOO BEE BENZ</a></p></td>
+<td><p><a href="../Page/BOO_BEE_BENZ.md" title="wikilink">BOO BEE BENZ</a></p></td>
 <td><p>ブービーベンツ</p></td>
 <td><p>2005年</p></td>
 <td><p>2012年5月解散</p></td>
@@ -462,7 +462,7 @@ avex trax→UNIVERSAL SIGMA</p></td>
 <td><p>解散</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/PERIDOTS" title="wikilink">PERIDOTS</a></p></td>
+<td><p><a href="../Page/PERIDOTS.md" title="wikilink">PERIDOTS</a></p></td>
 <td><p>ペリドッツ</p></td>
 <td><p>2010年〜2013年</p></td>
 <td><p>東芝EMI→Island→tearbridge records→Bauxite Music wy.</p></td>
@@ -474,7 +474,7 @@ avex trax→UNIVERSAL SIGMA</p></td>
 <td><p>Daymare Recordingsに移籍</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ミサイルイノベーション" title="wikilink">ミサイルイノベーション</a></p></td>
+<td><p><a href="../Page/ミサイルイノベーション.md" title="wikilink">ミサイルイノベーション</a></p></td>
 <td><p>ミサイルイノベーション</p></td>
 <td><p>2005年〜2006年</p></td>
 <td></td>
@@ -486,7 +486,7 @@ avex trax→UNIVERSAL SIGMA</p></td>
 <td><p>バミューダ諸島出身のシンガー</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/三宅伸治" title="wikilink">三宅伸治</a></p></td>
+<td><p><a href="../Page/三宅伸治.md" title="wikilink">三宅伸治</a></p></td>
 <td><p>みやけしんじ</p></td>
 <td><p>2007年</p></td>
 <td></td>
@@ -510,7 +510,7 @@ avex trax→UNIVERSAL SIGMA</p></td>
 <td><p>オーストラリアのバンド</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ザ・ルーズドッグス" title="wikilink">ザ・ルーズドッグス</a></p></td>
+<td><p><a href="../Page/ザ・ルーズドッグス.md" title="wikilink">ザ・ルーズドッグス</a></p></td>
 <td><p>ザルーズドッグス</p></td>
 <td><p>2004年</p></td>
 <td><p>2005年cutting edgeに移籍。2010年6月解散</p></td>
@@ -522,7 +522,7 @@ avex trax→UNIVERSAL SIGMA</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ロードオブメジャー" title="wikilink">ロードオブメジャー</a></p></td>
+<td><p><a href="../Page/ロードオブメジャー.md" title="wikilink">ロードオブメジャー</a></p></td>
 <td><p>ロードオブメジャー</p></td>
 <td><p>2002年〜2004年</p></td>
 <td><p>2004年11月JUNK MUSEUMに移籍。2007年7月解散</p></td>
@@ -549,36 +549,36 @@ avex trax→UNIVERSAL SIGMA</p></td>
   - [五十嵐充](../Page/五十嵐充.md "wikilink")
   - [井筒"Growth"伸太郎](https://ja.wikipedia.org/wiki/井筒"Growth"伸太郎 "wikilink")
   - [伊橋成哉](https://ja.wikipedia.org/wiki/伊橋成哉 "wikilink")
-  - [大谷靖夫](https://ja.wikipedia.org/wiki/大谷靖夫 "wikilink")
+  - [大谷靖夫](../Page/大谷靖夫.md "wikilink")
   - [大西克巳](https://ja.wikipedia.org/wiki/大西克巳 "wikilink")
   - [Kenn Kato](https://ja.wikipedia.org/wiki/Kenn_Kato "wikilink")(作詞)
-  - [菊池一仁](https://ja.wikipedia.org/wiki/菊池一仁 "wikilink")
-  - [北野正人](https://ja.wikipedia.org/wiki/北野正人 "wikilink")
-  - [葛谷葉子](https://ja.wikipedia.org/wiki/葛谷葉子 "wikilink")
+  - [菊池一仁](../Page/菊池一仁.md "wikilink")
+  - [北野正人](../Page/北野正人.md "wikilink")
+  - [葛谷葉子](../Page/葛谷葉子.md "wikilink")
   - [佐原けい子](https://ja.wikipedia.org/wiki/佐原けい子 "wikilink")
-  - [鮫島巧](https://ja.wikipedia.org/wiki/鮫島巧 "wikilink")
+  - [鮫島巧](../Page/鮫島巧.md "wikilink")
   - [新刀康充](https://ja.wikipedia.org/wiki/新刀康充 "wikilink")
   - [鈴木大輔](https://ja.wikipedia.org/wiki/鈴木大輔_\(ミュージシャン\) "wikilink")
-  - [鈴木秋則](https://ja.wikipedia.org/wiki/鈴木秋則 "wikilink")
-  - [多胡邦夫](https://ja.wikipedia.org/wiki/多胡邦夫 "wikilink")
+  - [鈴木秋則](../Page/鈴木秋則.md "wikilink")
+  - [多胡邦夫](../Page/多胡邦夫.md "wikilink")
   - [tasuku](https://ja.wikipedia.org/wiki/tasuku "wikilink")
   - [檀上鎮孝](https://ja.wikipedia.org/wiki/檀上鎮孝 "wikilink")
-  - [中野雄太](https://ja.wikipedia.org/wiki/中野雄太 "wikilink")
+  - [中野雄太](../Page/中野雄太.md "wikilink")
   - [中村康就](https://ja.wikipedia.org/wiki/中村康就 "wikilink")
-  - [BOUNCEBACK](https://ja.wikipedia.org/wiki/BOUNCEBACK "wikilink")
+  - [BOUNCEBACK](../Page/BOUNCEBACK.md "wikilink")
   - [萩原慎太郎](https://ja.wikipedia.org/wiki/萩原慎太郎 "wikilink")
-  - [原田憲](https://ja.wikipedia.org/wiki/原田憲_\(ミュージシャン\) "wikilink")
-  - [HIKARI](https://ja.wikipedia.org/wiki/HIKARI "wikilink")
+  - [原田憲](../Page/原田憲_\(ミュージシャン\).md "wikilink")
+  - [HIKARI](../Page/HIKARI.md "wikilink")
   - [日比野元気](https://ja.wikipedia.org/wiki/日比野元気 "wikilink")
   - [日比野裕史](https://ja.wikipedia.org/wiki/日比野裕史 "wikilink")
-  - [水島康貴](https://ja.wikipedia.org/wiki/水島康貴 "wikilink")
+  - [水島康貴](../Page/水島康貴.md "wikilink")
   - [南俊介](https://ja.wikipedia.org/wiki/南俊介 "wikilink")
   - [三宅光幸](https://ja.wikipedia.org/wiki/三宅光幸 "wikilink")
   - [森元康介](https://ja.wikipedia.org/wiki/森元康介 "wikilink")
   - [山崎つとむ](https://ja.wikipedia.org/wiki/山崎つとむ "wikilink")
-  - [湯汲哲也](https://ja.wikipedia.org/wiki/湯汲哲也 "wikilink")
+  - [湯汲哲也](../Page/湯汲哲也.md "wikilink")
   - [吉田将樹](https://ja.wikipedia.org/wiki/吉田将樹 "wikilink")
-  - [渡辺徹](https://ja.wikipedia.org/wiki/渡辺徹_\(作曲家\) "wikilink")
+  - [渡辺徹](../Page/渡辺徹_\(作曲家\).md "wikilink")
 
 ## コンピレーションアルバム・サウンドトラック
 
@@ -614,7 +614,7 @@ avex trax→UNIVERSAL SIGMA</p></td>
 <li>LA work / Alyson</li>
 <li>Running in the dark / daiki</li>
 <li>small burg / the spinto band</li>
-<li>Surfrider Association / <a href="https://ja.wikipedia.org/wiki/ELLEGARDEN" title="wikilink">ELLEGARDEN</a></li>
+<li>Surfrider Association / <a href="../Page/ELLEGARDEN.md" title="wikilink">ELLEGARDEN</a></li>
 <li>Grow up / Alan Smithee</li>
 <li>Pointed Circle / ZARIGANI 5</li>
 <li>HOLD ON(English Ver.) / PULLTOP JUICE</li>
@@ -626,13 +626,13 @@ avex trax→UNIVERSAL SIGMA</p></td>
 </tr>
 <tr class="even">
 <td><p>2005年06月29日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/HINOKIO" title="wikilink">HINOKIO</a> Original Soundtrack</p></td>
+<td><p><a href="../Page/HINOKIO.md" title="wikilink">HINOKIO</a> Original Soundtrack</p></td>
 <td><p>TBCD-1020</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2006年09月20日</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/夜のピクニック" title="wikilink">夜のピクニック</a>」 INSPIRED BEST ALBUM</p></td>
+<td><p>「<a href="../Page/夜のピクニック.md" title="wikilink">夜のピクニック</a>」 INSPIRED BEST ALBUM</p></td>
 <td><p>NFCD-27028</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
@@ -711,7 +711,7 @@ NFCD-27119</p></td>
 </tr>
 <tr class="even">
 <td><p>2008年09月24日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/週刊真木よう子" title="wikilink">週刊真木よう子</a> ORIGINAL SOUNDTRACK</p></td>
+<td><p><a href="../Page/週刊真木よう子.md" title="wikilink">週刊真木よう子</a> ORIGINAL SOUNDTRACK</p></td>
 <td><p>NFCD-27120</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">

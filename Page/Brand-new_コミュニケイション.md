@@ -10,8 +10,8 @@
 ## 収録曲
 
 1.  **brand-new コミュニケイション**
-      - 作詞：Sora、作曲・編曲：[船山基紀](https://ja.wikipedia.org/wiki/船山基紀 "wikilink")
-      - アニメ『[鉄コミュニケイション](https://ja.wikipedia.org/wiki/鉄コミュニケイション "wikilink")』イメージソング
+      - 作詞：Sora、作曲・編曲：[船山基紀](../Page/船山基紀.md "wikilink")
+      - アニメ『[鉄コミュニケイション](../Page/鉄コミュニケイション.md "wikilink")』イメージソング
 2.  **ゆびきり**
       - 作詞：Sora、作曲・編曲：船山基紀
 3.  **花柄のワンピース**

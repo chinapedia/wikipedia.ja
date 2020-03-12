@@ -1,19 +1,19 @@
 > この記事は[ \(MC\)](https://ja.wikipedia.org/wiki/_\(MC\))から翻訳されています。
 
 
-**チャン・ユンジョン**（張允貞、, [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[8月16日](../Page/8月16日.md "wikilink") - ）は[韓国の女性](https://ja.wikipedia.org/wiki/大韓民国 "wikilink")[司会者](https://ja.wikipedia.org/wiki/司会者 "wikilink")である。[大邱市出身](../Page/大邱広域市.md "wikilink")。[淑明女子大学](https://ja.wikipedia.org/wiki/淑明女子大学 "wikilink")卒。[1988年](../Page/1988年.md "wikilink")準[ミス・ユニバース](https://ja.wikipedia.org/wiki/ミス・ユニバース "wikilink")受賞者。[身長](https://ja.wikipedia.org/wiki/身長 "wikilink")172cm、[体重](https://ja.wikipedia.org/wiki/体重 "wikilink")53kg。[趣味](https://ja.wikipedia.org/wiki/趣味 "wikilink")は、[音楽](../Page/音楽.md "wikilink")鑑賞。特技は、[舞踊](https://ja.wikipedia.org/wiki/舞踊 "wikilink")。
+**チャン・ユンジョン**（張允貞、, [1970年](../Page/1970年.md "wikilink")[8月16日](../Page/8月16日.md "wikilink") - ）は[韓国の女性](../Page/大韓民国.md "wikilink")[司会者](https://ja.wikipedia.org/wiki/司会者 "wikilink")である。[大邱市出身](../Page/大邱広域市.md "wikilink")。[淑明女子大学](https://ja.wikipedia.org/wiki/淑明女子大学 "wikilink")卒。[1988年](../Page/1988年.md "wikilink")準[ミス・ユニバース](../Page/ミス・ユニバース.md "wikilink")受賞者。[身長](../Page/身長.md "wikilink")172cm、[体重](../Page/体重.md "wikilink")53kg。[趣味](https://ja.wikipedia.org/wiki/趣味 "wikilink")は、[音楽](../Page/音楽.md "wikilink")鑑賞。特技は、[舞踊](https://ja.wikipedia.org/wiki/舞踊 "wikilink")。
 
 ## 来歴
 
-[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[8月16日](../Page/8月16日.md "wikilink")、[韓国](https://ja.wikipedia.org/wiki/大韓民国 "wikilink")[大邱市に生まれる](../Page/大邱広域市.md "wikilink")。[慶北芸術高等学](https://ja.wikipedia.org/wiki/慶北芸術高等学 "wikilink")（ キョンボクイェスルコドゥンハッキョ）、[淑明女子大学](https://ja.wikipedia.org/wiki/淑明女子大学 "wikilink")校（ スンミョンヨジャデハッキョ） 舞踊科（ ムヨングァ）に進む。
+[1970年](../Page/1970年.md "wikilink")[8月16日](../Page/8月16日.md "wikilink")、[韓国](../Page/大韓民国.md "wikilink")[大邱市に生まれる](../Page/大邱広域市.md "wikilink")。[慶北芸術高等学](https://ja.wikipedia.org/wiki/慶北芸術高等学 "wikilink")（ キョンボクイェスルコドゥンハッキョ）、[淑明女子大学](https://ja.wikipedia.org/wiki/淑明女子大学 "wikilink")校（ スンミョンヨジャデハッキョ） 舞踊科（ ムヨングァ）に進む。
 
-[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に「 （[ミス・コリア](https://ja.wikipedia.org/wiki/ミス・コリア "wikilink")正賞）」受賞、翌[1988年](../Page/1988年.md "wikilink")には[台北市](../Page/台北市.md "wikilink")で開かれた「[ミス・ユニバース世界大会](https://ja.wikipedia.org/wiki/ミス・ユニバース1988 "wikilink")」に出場し、準ミス・ユニバースを受賞。この大会で[日本の](https://ja.wikipedia.org/wiki/ミス・ユニバース・ジャパン "wikilink")[坂口美津穂](https://ja.wikipedia.org/wiki/坂口美津穂 "wikilink")は第4位に入った。
+[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に「 （[ミス・コリア](../Page/ミス・コリア.md "wikilink")正賞）」受賞、翌[1988年](../Page/1988年.md "wikilink")には[台北市](../Page/台北市.md "wikilink")で開かれた「[ミス・ユニバース世界大会](https://ja.wikipedia.org/wiki/ミス・ユニバース1988 "wikilink")」に出場し、準ミス・ユニバースを受賞。この大会で[日本の](../Page/ミス・ユニバース・ジャパン.md "wikilink")[坂口美津穂](https://ja.wikipedia.org/wiki/坂口美津穂 "wikilink")は第4位に入った。
 
-これを受け、韓国3大[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")[KBS（韓国放送公社）](https://ja.wikipedia.org/wiki/韓国放送公社 "wikilink")、[MBC（韓国文化放送）](https://ja.wikipedia.org/wiki/韓国文化放送 "wikilink")、[SBS（ソウル放送）を中心に多数の番組に出演して](https://ja.wikipedia.org/wiki/ソウル放送 "wikilink")[MC](../Page/MC.md "wikilink")（司会・進行）を務める。結婚後は、現在に至るまで出演数を減らしている。
+これを受け、韓国3大[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")[KBS（韓国放送公社）](../Page/韓国放送公社.md "wikilink")、[MBC（韓国文化放送）](https://ja.wikipedia.org/wiki/韓国文化放送 "wikilink")、[SBS（ソウル放送）を中心に多数の番組に出演して](https://ja.wikipedia.org/wiki/ソウル放送 "wikilink")[MC](../Page/MC.md "wikilink")（司会・進行）を務める。結婚後は、現在に至るまで出演数を減らしている。
 
 ## おもな出演歴
 
-  - [司会](https://ja.wikipedia.org/wiki/司会 "wikilink")
+  - [司会](../Page/司会.md "wikilink")
 
 [1988年](../Page/1988年.md "wikilink")-
 
@@ -42,7 +42,7 @@
   -
     チョニョックギルのFM （BBS）
 
-[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")-
+[1991年](../Page/1991年.md "wikilink")-
 
   - （トヨデヘンジン）
 
@@ -152,7 +152,7 @@
 
 <!-- end list -->
 
-  - [CM](https://ja.wikipedia.org/wiki/コマーシャルメッセージ "wikilink")
+  - [CM](../Page/コマーシャルメッセージ.md "wikilink")
 
 [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")
 

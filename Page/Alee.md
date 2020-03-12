@@ -3,7 +3,7 @@
 
 **alee**（アリー、[1973年](../Page/1973年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink") - ）は、[神戸市](../Page/神戸市.md "wikilink")[灘区](../Page/灘区.md "wikilink")出身のラジオ、スポーツイベントの[パーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")。
 
-本名は**有賀 功造**（ありが こうぞう）。又、所属[事務所の](../Page/芸能事務所.md "wikilink")[キャラでは](https://ja.wikipedia.org/wiki/キャラ_\(芸能プロダクション\) "wikilink")「**有賀alee功造**」名義で登録されている。
+本名は**有賀 功造**（ありが こうぞう）。又、所属[事務所の](../Page/芸能事務所.md "wikilink")[キャラでは](../Page/キャラ_\(芸能プロダクション\).md "wikilink")「**有賀alee功造**」名義で登録されている。
 
 ## 出演番組・イベント一覧
 
@@ -21,7 +21,7 @@
 
 <!-- end list -->
 
-  - X-TRAIL JAM in Tokyo Dome（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")/[東京ドーム](../Page/東京ドーム.md "wikilink")）
+  - X-TRAIL JAM in Tokyo Dome（[2005年](../Page/2005年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")/[東京ドーム](../Page/東京ドーム.md "wikilink")）
 
 <!-- end list -->
 
@@ -29,7 +29,7 @@
 
 <!-- end list -->
 
-  - [2006 FIFA ドイツ ワールドカップ](../Page/2006_FIFAワールドカップ.md "wikilink")[パブリックビューイング](https://ja.wikipedia.org/wiki/パブリックビューイング "wikilink")in[神戸ウイングスタジアム](../Page/御崎公園球技場.md "wikilink")
+  - [2006 FIFA ドイツ ワールドカップ](../Page/2006_FIFAワールドカップ.md "wikilink")[パブリックビューイング](../Page/パブリックビューイング.md "wikilink")in[神戸ウイングスタジアム](../Page/御崎公園球技場.md "wikilink")
 
 <!-- end list -->
 
@@ -37,7 +37,7 @@
 
 <!-- end list -->
 
-  - [レッドブル・エアレース・ワールドシリーズ](../Page/レッドブル・エアレース・ワールドシリーズ.md "wikilink")千葉大会 [千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[千葉市](../Page/千葉市.md "wikilink")[幕張海浜公園](https://ja.wikipedia.org/wiki/幕張海浜公園 "wikilink") 大会MC
+  - [レッドブル・エアレース・ワールドシリーズ](../Page/レッドブル・エアレース・ワールドシリーズ.md "wikilink")千葉大会 [千葉県](../Page/千葉県.md "wikilink")[千葉市](../Page/千葉市.md "wikilink")[幕張海浜公園](https://ja.wikipedia.org/wiki/幕張海浜公園 "wikilink") 大会MC
       - [2015年レッドブル・エアレース・ワールドシリーズ 千葉](https://ja.wikipedia.org/wiki/2015年レッドブル・エアレース・ワールドシリーズ_千葉 "wikilink")\[1\]
       - [2016年レッドブル・エアレース・ワールドシリーズ 千葉](https://ja.wikipedia.org/wiki/2016年レッドブル・エアレース・ワールドシリーズ_千葉 "wikilink")\[2\]
       - [2017年レッドブル・エアレース・ワールドシリーズ 千葉](https://ja.wikipedia.org/wiki/2017年レッドブル・エアレース・ワールドシリーズ_千葉 "wikilink")\[3\]

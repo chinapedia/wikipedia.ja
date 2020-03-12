@@ -1,11 +1,11 @@
 > この記事は[Studio Apartment](https://ja.wikipedia.org/wiki/Studio_Apartment)から翻訳されています。
 
 
-**Studio Apartment**（スタジオ・アパートメント）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")である。[2000年](../Page/2000年.md "wikilink")結成。
+**Studio Apartment**（スタジオ・アパートメント）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")である。[2000年](../Page/2000年.md "wikilink")結成。
 
 ## 略歴
 
-  - [2000年](../Page/2000年.md "wikilink")1月に、[DJとして活動している森田昌典が](https://ja.wikipedia.org/wiki/ディスクジョッキー "wikilink")、"APRIL SET"として活動経験を持つ阿部登と共に結成。後にBASS/PROGRAMERとして佐藤新二をメンバーに加える。
+  - [2000年](../Page/2000年.md "wikilink")1月に、[DJとして活動している森田昌典が](../Page/ディスクジョッキー.md "wikilink")、"APRIL SET"として活動経験を持つ阿部登と共に結成。後にBASS/PROGRAMERとして佐藤新二をメンバーに加える。
 
 <!-- end list -->
 
@@ -21,7 +21,7 @@
 
 <!-- end list -->
 
-  - 2006年には自身が主宰する[ダンスミュージック](https://ja.wikipedia.org/wiki/ダンスミュージック "wikilink")レーベル「Apt.」「Apt.International」を設立。[DAISHI DANCE](https://ja.wikipedia.org/wiki/DAISHI_DANCE "wikilink")、[Pax Japonica Grooveなどの日本人アーティストの発掘育成やTimmy](https://ja.wikipedia.org/wiki/Pax_Japonica_Groove "wikilink") Regisford等の海外アーティスト達の作品もリリースしている。\[1\]
+  - 2006年には自身が主宰する[ダンスミュージック](https://ja.wikipedia.org/wiki/ダンスミュージック "wikilink")レーベル「Apt.」「Apt.International」を設立。[DAISHI DANCE](../Page/DAISHI_DANCE.md "wikilink")、[Pax Japonica Grooveなどの日本人アーティストの発掘育成やTimmy](https://ja.wikipedia.org/wiki/Pax_Japonica_Groove "wikilink") Regisford等の海外アーティスト達の作品もリリースしている。\[1\]
 
 <!-- end list -->
 
@@ -29,72 +29,72 @@
 
 <!-- end list -->
 
-  - また、多数のアーティストの[プロデュース](https://ja.wikipedia.org/wiki/プロデュース "wikilink")及び[リミックス](https://ja.wikipedia.org/wiki/リミックス "wikilink")を担当している。その中でも[キマグレン](https://ja.wikipedia.org/wiki/キマグレン "wikilink")の「Life (STUDIO APARTMENT Remix)」は、リミックスながら200万ダウンロードを超えている。\[3\]
+  - また、多数のアーティストの[プロデュース](https://ja.wikipedia.org/wiki/プロデュース "wikilink")及び[リミックス](../Page/リミックス.md "wikilink")を担当している。その中でも[キマグレン](https://ja.wikipedia.org/wiki/キマグレン "wikilink")の「Life (STUDIO APARTMENT Remix)」は、リミックスながら200万ダウンロードを超えている。\[3\]
 
 <!-- end list -->
 
-  - 2018年3月、森田昌典が香港から金塊を密輸しようとしたとして、警視庁組織犯罪対策4課に、関税法違反や消費税法違反などの疑いで逮捕される。2018年6月、[東京地方裁判所](https://ja.wikipedia.org/wiki/東京地方裁判所 "wikilink")において懲役1年（執行猶予3年）および金塊没収の判決が言い渡された\[4\]。
+  - 2018年3月、森田昌典が香港から金塊を密輸しようとしたとして、警視庁組織犯罪対策4課に、関税法違反や消費税法違反などの疑いで逮捕される。2018年6月、[東京地方裁判所](../Page/東京地方裁判所.md "wikilink")において懲役1年（執行猶予3年）および金塊没収の判決が言い渡された\[4\]。
 
 ## メンバー
 
-  - **森田昌典**（もりたまさのり）[DJ](https://ja.wikipedia.org/wiki/ディスクジョッキー "wikilink")・[プロデューサー](../Page/プロデューサー.md "wikilink")・[リミキサー](https://ja.wikipedia.org/wiki/リミキサー "wikilink")・[コンポーザー](https://ja.wikipedia.org/wiki/コンポーザー "wikilink")・プログラマー
-  - **阿部登**（あべのぼる）[キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")・コンポーザー
+  - **森田昌典**（もりたまさのり）[DJ](../Page/ディスクジョッキー.md "wikilink")・[プロデューサー](../Page/プロデューサー.md "wikilink")・[リミキサー](https://ja.wikipedia.org/wiki/リミキサー "wikilink")・[コンポーザー](https://ja.wikipedia.org/wiki/コンポーザー "wikilink")・プログラマー
+  - **阿部登**（あべのぼる）[キーボード](../Page/キーボード_\(楽器\).md "wikilink")・コンポーザー
 
 ## ディスコグラフィー
 
 ### シングル
 
-|                                                                                                              |                                               |
-| ------------------------------------------------------------------------------------------------------------ | --------------------------------------------- |
-| リリース日                                                                                                        | タイトル                                          |
-| [2001年](../Page/2001年.md "wikilink")[5月12日](../Page/5月12日.md "wikilink")                                     | Voz Dos Anjos                                 |
-| 2001年[9月29日](../Page/9月29日.md "wikilink")                                                                    | Som Faz Furor                                 |
-| [2002年](../Page/2002年.md "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")                | Fantasma                                      |
-| [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink") | WORLD LINE EP01 -TIME-                        |
-| 2004年[4月30日](../Page/4月30日.md "wikilink")                                                                    | WORLD LINE EP02 -LIGHT-                       |
-| 2004年[6月23日](../Page/6月23日.md "wikilink")                                                                    | WORLD LINE EP03 -SPACE-                       |
-| 2004年[11月8日](../Page/11月8日.md "wikilink")                                                                    | Flight feat. Monique Bingham                  |
-| 2004年[11月12日](../Page/11月12日.md "wikilink")                                                                  | Beautiful day                                 |
-| [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月11日](../Page/3月11日.md "wikilink")                  | Journey / Isn't she lovely feat. Kenny Bobien |
-| 2005年[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")                                                   | Love is the answer feat. Joi Cardwell         |
-| 2005年[5月13日](../Page/5月13日.md "wikilink")                                                                    | We are lonely / Questo mondo immenso          |
-| 2005年[8月5日](../Page/8月5日.md "wikilink")                                                                      | One true love / Evolution ?                   |
-| 2005年[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")                                               | We are lonely feat. Terrance Downs            |
-| [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月2日](../Page/2月2日.md "wikilink")                    | One true love feat. Stephanie Cooke           |
-| 2006年7月7日                                                                                                    | Isn't she lovely feat. Kenny Bobien           |
-| 2006年7月7日                                                                                                    | Love is the answer feat. Joi Cardwell         |
-| 2006年11月24日                                                                                                  | The rising sun feat. Blaze                    |
-| 2006年[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")                                               | Siarre                                        |
-| 2006年[12月29日](https://ja.wikipedia.org/wiki/12月29日 "wikilink")                                               | Apt.classics                                  |
-| [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[3月23日](../Page/3月23日.md "wikilink")                  | Wonderful Tonight feat. Kimara Lovelace       |
-| 2007年[5月18日](../Page/5月18日.md "wikilink")                                                                    | Found Him feat. Monique Bingham               |
-| 2007年[7月13日](../Page/7月13日.md "wikilink")                                                                    | I'm In Love / Spirit Of Elephant              |
-| 2007年[9月14日](../Page/9月14日.md "wikilink")                                                                    | Beautiful Sunrise feat.AK                     |
-| [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月30日](../Page/4月30日.md "wikilink")                  | BRAND NEW START feat. MIHO FUKUHARA           |
+|                                                                                               |                                               |
+| --------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| リリース日                                                                                         | タイトル                                          |
+| [2001年](../Page/2001年.md "wikilink")[5月12日](../Page/5月12日.md "wikilink")                      | Voz Dos Anjos                                 |
+| 2001年[9月29日](../Page/9月29日.md "wikilink")                                                     | Som Faz Furor                                 |
+| [2002年](../Page/2002年.md "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink") | Fantasma                                      |
+| [2004年](../Page/2004年.md "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")     | WORLD LINE EP01 -TIME-                        |
+| 2004年[4月30日](../Page/4月30日.md "wikilink")                                                     | WORLD LINE EP02 -LIGHT-                       |
+| 2004年[6月23日](../Page/6月23日.md "wikilink")                                                     | WORLD LINE EP03 -SPACE-                       |
+| 2004年[11月8日](../Page/11月8日.md "wikilink")                                                     | Flight feat. Monique Bingham                  |
+| 2004年[11月12日](../Page/11月12日.md "wikilink")                                                   | Beautiful day                                 |
+| [2005年](../Page/2005年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink")                      | Journey / Isn't she lovely feat. Kenny Bobien |
+| 2005年[4月8日](../Page/4月8日.md "wikilink")                                                       | Love is the answer feat. Joi Cardwell         |
+| 2005年[5月13日](../Page/5月13日.md "wikilink")                                                     | We are lonely / Questo mondo immenso          |
+| 2005年[8月5日](../Page/8月5日.md "wikilink")                                                       | One true love / Evolution ?                   |
+| 2005年[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")                                | We are lonely feat. Terrance Downs            |
+| [2006年](../Page/2006年.md "wikilink")[2月2日](../Page/2月2日.md "wikilink")                        | One true love feat. Stephanie Cooke           |
+| 2006年7月7日                                                                                     | Isn't she lovely feat. Kenny Bobien           |
+| 2006年7月7日                                                                                     | Love is the answer feat. Joi Cardwell         |
+| 2006年11月24日                                                                                   | The rising sun feat. Blaze                    |
+| 2006年[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")                                | Siarre                                        |
+| 2006年[12月29日](../Page/12月29日.md "wikilink")                                                   | Apt.classics                                  |
+| [2007年](../Page/2007年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")                      | Wonderful Tonight feat. Kimara Lovelace       |
+| 2007年[5月18日](../Page/5月18日.md "wikilink")                                                     | Found Him feat. Monique Bingham               |
+| 2007年[7月13日](../Page/7月13日.md "wikilink")                                                     | I'm In Love / Spirit Of Elephant              |
+| 2007年[9月14日](../Page/9月14日.md "wikilink")                                                     | Beautiful Sunrise feat.AK                     |
+| [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月30日](../Page/4月30日.md "wikilink")   | BRAND NEW START feat. MIHO FUKUHARA           |
 
 ### 配信限定シングル
 
-|                                                                                                                |                                                                                                                                                                                                                                                                                           |
-| -------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| リリース日                                                                                                          | タイトル                                                                                                                                                                                                                                                                                      |
-| [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink") | Flight -Frankie Feliciano Remix - EP                                                                                                                                                                                                                                                      |
-| 2006年1月17日                                                                                                     | Flight -Scott Wozniak Remix - Single                                                                                                                                                                                                                                                      |
-| 2006年[5月24日](../Page/5月24日.md "wikilink")                                                                      | One True Love: Eric Kupper Remix - EP                                                                                                                                                                                                                                                     |
-| [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月29日](../Page/7月29日.md "wikilink")                    | WORLD MUSeUM -Digital Exclusive- - EP                                                                                                                                                                                                                                                     |
-| [2009年](../Page/2009年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")                    | Justifiable EP                                                                                                                                                                                                                                                                            |
-| 2009年[4月15日](../Page/4月15日.md "wikilink")                                                                      | Found Him -Kerri Chandler Remix- - EP                                                                                                                                                                                                                                                     |
-| 2009年[4月22日](../Page/4月22日.md "wikilink")                                                                      | The Rising Sun EP                                                                                                                                                                                                                                                                         |
-| 2009年[5月6日](../Page/5月6日.md "wikilink")                                                                        | I'm In Love -Rasmus Faber Remix- - EP                                                                                                                                                                                                                                                     |
-| 2009年[5月20日](../Page/5月20日.md "wikilink")                                                                      | Siarre -Sergio Flores Remix- - EP                                                                                                                                                                                                                                                         |
-| [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月24日](../Page/3月24日.md "wikilink")                    | BRAND NEW START feat. [MIHO FUKUHARA](https://ja.wikipedia.org/wiki/福原美穂 "wikilink")                                                                                                                                                                                                      |
-| 2010年[5月19日](../Page/5月19日.md "wikilink")                                                                      | STAY feat. STEVIE HOANG                                                                                                                                                                                                                                                                   |
-| 2010年[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")                                                   | MUSeUM EP                                                                                                                                                                                                                                                                                 |
-| 2011年[11月9日](../Page/11月9日.md "wikilink")                                                                      | キセキのうた feat. [Sugar Soul](https://ja.wikipedia.org/wiki/Sugar_Soul "wikilink"),[Zeebra](https://ja.wikipedia.org/wiki/Zeebra "wikilink"),[RYO the SKYWALKER](https://ja.wikipedia.org/wiki/RYO_the_SKYWALKER "wikilink"),[May J.](https://ja.wikipedia.org/wiki/May_J. "wikilink"), SIMON |
-| 2011年[12月21日](../Page/12月21日.md "wikilink")                                                                    | オーバーナイトセンセーション feat. [TRF](https://ja.wikipedia.org/wiki/TRF "wikilink")                                                                                                                                                                                                                  |
-| 2012年[2月8日](https://ja.wikipedia.org/wiki/2月8日 "wikilink")                                                     | 誰より君だけを feat. KG, MiChi                                                                                                                                                                                                                                                                   |
-| 2012年12月12日                                                                                                    | Red Zone                                                                                                                                                                                                                                                                                  |
-| 2019年9月6日                                                                                                      | Found Him feat. Monique Bingham                                                                                                                                                                                                                                                           |
-| 2019年10月7日                                                                                                     | Club Lonely feat. Joi Cardwell                                                                                                                                                                                                                                                            |
+|                                                                                             |                                                                                                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| リリース日                                                                                       | タイトル                                                                                                                                                                                                                                                |
+| [2006年](../Page/2006年.md "wikilink")[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink") | Flight -Frankie Feliciano Remix - EP                                                                                                                                                                                                                |
+| 2006年1月17日                                                                                  | Flight -Scott Wozniak Remix - Single                                                                                                                                                                                                                |
+| 2006年[5月24日](../Page/5月24日.md "wikilink")                                                   | One True Love: Eric Kupper Remix - EP                                                                                                                                                                                                               |
+| [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月29日](../Page/7月29日.md "wikilink") | WORLD MUSeUM -Digital Exclusive- - EP                                                                                                                                                                                                               |
+| [2009年](../Page/2009年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink") | Justifiable EP                                                                                                                                                                                                                                      |
+| 2009年[4月15日](../Page/4月15日.md "wikilink")                                                   | Found Him -Kerri Chandler Remix- - EP                                                                                                                                                                                                               |
+| 2009年[4月22日](../Page/4月22日.md "wikilink")                                                   | The Rising Sun EP                                                                                                                                                                                                                                   |
+| 2009年[5月6日](../Page/5月6日.md "wikilink")                                                     | I'm In Love -Rasmus Faber Remix- - EP                                                                                                                                                                                                               |
+| 2009年[5月20日](../Page/5月20日.md "wikilink")                                                   | Siarre -Sergio Flores Remix- - EP                                                                                                                                                                                                                   |
+| [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月24日](../Page/3月24日.md "wikilink") | BRAND NEW START feat. [MIHO FUKUHARA](https://ja.wikipedia.org/wiki/福原美穂 "wikilink")                                                                                                                                                                |
+| 2010年[5月19日](../Page/5月19日.md "wikilink")                                                   | STAY feat. STEVIE HOANG                                                                                                                                                                                                                             |
+| 2010年[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")                                | MUSeUM EP                                                                                                                                                                                                                                           |
+| 2011年[11月9日](../Page/11月9日.md "wikilink")                                                   | キセキのうた feat. [Sugar Soul](https://ja.wikipedia.org/wiki/Sugar_Soul "wikilink"),[Zeebra](../Page/Zeebra.md "wikilink"),[RYO the SKYWALKER](../Page/RYO_the_SKYWALKER.md "wikilink"),[May J.](https://ja.wikipedia.org/wiki/May_J. "wikilink"), SIMON |
+| 2011年[12月21日](../Page/12月21日.md "wikilink")                                                 | オーバーナイトセンセーション feat. [TRF](../Page/TRF.md "wikilink")                                                                                                                                                                                               |
+| 2012年[2月8日](../Page/2月8日.md "wikilink")                                                     | 誰より君だけを feat. KG, MiChi                                                                                                                                                                                                                             |
+| 2012年12月12日                                                                                 | Red Zone                                                                                                                                                                                                                                            |
+| 2019年9月6日                                                                                   | Found Him feat. Monique Bingham                                                                                                                                                                                                                     |
+| 2019年10月7日                                                                                  | Club Lonely feat. Joi Cardwell                                                                                                                                                                                                                      |
 
 ### アルバム
 
@@ -129,7 +129,7 @@
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2004年" title="wikilink">2004年</a><a href="https://ja.wikipedia.org/wiki/7月7日" title="wikilink">7月7日</a></p></td>
+<td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><a href="https://ja.wikipedia.org/wiki/7月7日" title="wikilink">7月7日</a></p></td>
 <td><p>WORLD LINE</p></td>
 <td><p>NWR-2007</p></td>
 <td><ol>
@@ -149,7 +149,7 @@
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/7月6日.md" title="wikilink">7月6日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/7月6日.md" title="wikilink">7月6日</a></p></td>
 <td><p>PEOPLE TO PEOPLE</p></td>
 <td><p>NWR-2008</p></td>
 <td><ol>
@@ -170,7 +170,7 @@
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="../Page/6月27日.md" title="wikilink">6月27日</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/6月27日.md" title="wikilink">6月27日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/FOR_HER_FOR_HIM_FOR_YOU" title="wikilink">FOR HER FOR HIM FOR YOU</a></p></td>
 <td><p>NWR-2023:初回限定盤<br />
 NWR-2024:通常盤</p></td>
@@ -246,16 +246,16 @@ NWR-2024:通常盤</p></td>
 <td><p>TOCT-28042</p></td>
 <td><ol>
 <li>はじまり</li>
-<li>ミス ユニバース feat. SU, ILMARI (from <a href="https://ja.wikipedia.org/wiki/RIP_SLYME" title="wikilink">RIP SLYME</a>), <a href="https://ja.wikipedia.org/wiki/黒木メイサ" title="wikilink">黒木メイサ</a></li>
-<li>朝までBaby feat. RYOJI (from <a href="https://ja.wikipedia.org/wiki/ケツメイシ" title="wikilink">ケツメイシ</a>)</li>
+<li>ミス ユニバース feat. SU, ILMARI (from <a href="../Page/RIP_SLYME.md" title="wikilink">RIP SLYME</a>), <a href="https://ja.wikipedia.org/wiki/黒木メイサ" title="wikilink">黒木メイサ</a></li>
+<li>朝までBaby feat. RYOJI (from <a href="../Page/ケツメイシ.md" title="wikilink">ケツメイシ</a>)</li>
 <li>羅武 暗怒 亞無亞危異 feat. <a href="../Page/氣志團.md" title="wikilink">氣志團</a></li>
 <li>間奏 其の1</li>
 <li>マイ デスティニー feat. SEEDA, AISHA</li>
 <li>誰より君だけを feat. KG, <a href="https://ja.wikipedia.org/wiki/MiChi" title="wikilink">MiChi</a></li>
-<li>キセキのうた feat. Sugar Soul, Zeebra, <a href="https://ja.wikipedia.org/wiki/RYO_the_SKYWALKER" title="wikilink">RYO the SKYWALKER</a>, <a href="https://ja.wikipedia.org/wiki/May_J." title="wikilink">May J.</a>, SIMON</li>
-<li>オーバーナイトセンセーション feat. <a href="https://ja.wikipedia.org/wiki/TRF" title="wikilink">TRF</a></li>
+<li>キセキのうた feat. Sugar Soul, Zeebra, <a href="../Page/RYO_the_SKYWALKER.md" title="wikilink">RYO the SKYWALKER</a>, <a href="https://ja.wikipedia.org/wiki/May_J." title="wikilink">May J.</a>, SIMON</li>
+<li>オーバーナイトセンセーション feat. <a href="../Page/TRF.md" title="wikilink">TRF</a></li>
 <li>オン ザ ウェイ feat. 福原美穂</li>
-<li>二人 feat. May J., <a href="https://ja.wikipedia.org/wiki/JAY&#39;ED" title="wikilink">JAY'ED</a></li>
+<li>二人 feat. May J., <a href="../Page/JAY&#39;ED.md" title="wikilink">JAY'ED</a></li>
 <li>間奏 其の2</li>
 <li>踊る侍 feat. <a href="https://ja.wikipedia.org/wiki/雅-MIYAVI-" title="wikilink">雅-MIYAVI-</a></li>
 </ol></td>
@@ -313,10 +313,10 @@ NWR-2024:通常盤</p></td>
 
 ### コラボレーションシングル
 
-|                                                                                                                |                                                                                                         |                                           |
-| -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
-| リリース日                                                                                                          | タイトル                                                                                                    | 解説                                        |
-| [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink") | Apt. Weapons / STUDIO APARTMENT × [DAISHI DANCE](https://ja.wikipedia.org/wiki/DAISHI_DANCE "wikilink") | [HMV](../Page/HMV.md "wikilink")限定コラボシングル |
+|                                                                                                                |                                                                                      |                                           |
+| -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ----------------------------------------- |
+| リリース日                                                                                                          | タイトル                                                                                 | 解説                                        |
+| [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink") | Apt. Weapons / STUDIO APARTMENT × [DAISHI DANCE](../Page/DAISHI_DANCE.md "wikilink") | [HMV](../Page/HMV.md "wikilink")限定コラボシングル |
 
 ## 関連作品 アウトワーク
 
@@ -325,11 +325,11 @@ NWR-2024:通常盤</p></td>
 |                                                                                                                                                |                                                                    |                                                                                    |                                                                                     |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | 発売日                                                                                                                                            | タイトル                                                               | アーティスト                                                                             | 収録されているアルバム                                                                         |
-| [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月19日](../Page/4月19日.md "wikilink")                                                    | C.M.M                                                              | [AYUSE KOZUE](https://ja.wikipedia.org/wiki/AYUSE_KOZUE "wikilink")                | 「[boyfriend](https://ja.wikipedia.org/wiki/boyfriend_\(AYUSE_KOZUEの曲\) "wikilink")」 |
-| 2006年[4月26日](../Page/4月26日.md "wikilink")                                                                                                      | Heroes                                                             | [Def Tech](https://ja.wikipedia.org/wiki/Def_Tech "wikilink")                      | 「[Catch The Wave](https://ja.wikipedia.org/wiki/Catch_The_Wave "wikilink")」         |
+| [2006年](../Page/2006年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")                                                                       | C.M.M                                                              | [AYUSE KOZUE](https://ja.wikipedia.org/wiki/AYUSE_KOZUE "wikilink")                | 「[boyfriend](https://ja.wikipedia.org/wiki/boyfriend_\(AYUSE_KOZUEの曲\) "wikilink")」 |
+| 2006年[4月26日](../Page/4月26日.md "wikilink")                                                                                                      | Heroes                                                             | [Def Tech](https://ja.wikipedia.org/wiki/Def_Tech "wikilink")                      | 「[Catch The Wave](../Page/Catch_The_Wave.md "wikilink")」                            |
 | 2006年[8月9日](../Page/8月9日.md "wikilink")                                                                                                        | These boots are made for walkin' -STUDIO APARTMENT Impulse Groove- | [伊藤由奈](https://ja.wikipedia.org/wiki/伊藤由奈 "wikilink")                              | 「[stuck on you](https://ja.wikipedia.org/wiki/stuck_on_you "wikilink")」             |
-| [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月17日](../Page/10月17日.md "wikilink")                                                  | Everytime                                                          | [arvin homa aya](https://ja.wikipedia.org/wiki/arvin_homa_aya "wikilink")          | 「Amazing」                                                                           |
-| [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月6日](https://ja.wikipedia.org/wiki/2月6日 "wikilink")                                   | Bitter...                                                          | [鈴木亜美](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink") joins S.A.(Studio Apartment) | 「[DOLCE](https://ja.wikipedia.org/wiki/DOLCE_\(鈴木亜美のアルバム\) "wikilink")」             |
+| [2006年](../Page/2006年.md "wikilink")[10月17日](../Page/10月17日.md "wikilink")                                                                     | Everytime                                                          | [arvin homa aya](https://ja.wikipedia.org/wiki/arvin_homa_aya "wikilink")          | 「Amazing」                                                                           |
+| [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月6日](../Page/2月6日.md "wikilink")                                                      | Bitter...                                                          | [鈴木亜美](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink") joins S.A.(Studio Apartment) | 「[DOLCE](https://ja.wikipedia.org/wiki/DOLCE_\(鈴木亜美のアルバム\) "wikilink")」             |
 | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[5月22日](../Page/5月22日.md "wikilink")〜[5月31日](../Page/5月31日.md "wikilink")期間限定（ダウンロードのみ） | Treasure                                                           | [ERIKA](https://ja.wikipedia.org/wiki/ERIKA "wikilink") × STUDIO APARTMENT         | 期間限定無料配信（CD化は未定）                                                                    |
 | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[6月30日](../Page/6月30日.md "wikilink")                                                    | FREE                                                               | Baby M                                                                             | 「Baby M」                                                                            |
 | 2014年10月1日                                                                                                                                     | ほほ笑みモード                                                            | 花澤香菜                                                                               | 「ほほ笑みモード」                                                                           |
@@ -354,7 +354,7 @@ NWR-2024:通常盤</p></td>
 </tr>
 <tr class="even">
 <td><p>2002年07月10日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Wyolica" title="wikilink">Wyolica</a>「One wish」</p></td>
+<td><p><a href="../Page/Wyolica.md" title="wikilink">Wyolica</a>「One wish」</p></td>
 <td><p>ESCL-2304</p></td>
 <td><p>One wish -Studio Apartment Remix Quatro Numero V-</p></td>
 </tr>
@@ -390,13 +390,13 @@ NWR-2024:通常盤</p></td>
 </tr>
 <tr class="even">
 <td><p>2005年11月16日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/瀧澤賢太郎" title="wikilink">KENTARO TAKIZAWA</a>「IMPRESSIVE TIME REMIXES」</p></td>
+<td><p><a href="../Page/瀧澤賢太郎.md" title="wikilink">KENTARO TAKIZAWA</a>「IMPRESSIVE TIME REMIXES」</p></td>
 <td><p>HCCD-9513</p></td>
 <td><p>Release Of Nature(Studio Apartment Remix)</p></td>
 </tr>
 <tr class="odd">
 <td><p>2005年11月30日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/DOUBLE_(歌手)" title="wikilink">DOUBLE</a>「<a href="https://ja.wikipedia.org/wiki/ROCK_THE_PARTY" title="wikilink">ROCK THE PARTY</a>」</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/DOUBLE_(歌手)" title="wikilink">DOUBLE</a>「<a href="../Page/ROCK_THE_PARTY.md" title="wikilink">ROCK THE PARTY</a>」</p></td>
 <td><p>FLCF-7101<br />
 FLCF-4087</p></td>
 <td><p>ROCK THE PARTY-STUDIO APARTMENT REMIX-</p></td>
@@ -442,11 +442,11 @@ WIND SONG STUDIO APARTMENT Remix</p></td>
 <td><p>2006年05月17日</p></td>
 <td><p>森田昌典「MUSeUM-Clio-」</p></td>
 <td><p>NWR-2012</p></td>
-<td><p>LET LIFE LOOSE （STUDIO APARTMENT REMIX)/ <a href="https://ja.wikipedia.org/wiki/DAISHI_DANCE" title="wikilink">DAISHI DANCE</a> feat. LORI FINE</p></td>
+<td><p>LET LIFE LOOSE （STUDIO APARTMENT REMIX)/ <a href="../Page/DAISHI_DANCE.md" title="wikilink">DAISHI DANCE</a> feat. LORI FINE</p></td>
 </tr>
 <tr class="odd">
 <td><p>2006年07月19日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/DAISHI_DANCE" title="wikilink">DAISHI DANCE</a>「the P.I.A.N.O. set」</p></td>
+<td><p><a href="../Page/DAISHI_DANCE.md" title="wikilink">DAISHI DANCE</a>「the P.I.A.N.O. set」</p></td>
 <td><p>NWR-2013</p></td>
 <td><p>LET LIFE LOOSE -STUDIO APARTMENT REMIX-</p></td>
 </tr>
@@ -492,7 +492,7 @@ THE RISING SUN -KEYAPELLA-/ STUDIO APARTMENT feat. BLAZE</p></td>
 </tr>
 <tr class="even">
 <td><p>2007年01月17日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Crystal_Kay" title="wikilink">Crystal Kay</a>「<a href="https://ja.wikipedia.org/wiki/きっと永遠に" title="wikilink">きっと永遠に</a>」</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Crystal_Kay" title="wikilink">Crystal Kay</a>「<a href="../Page/きっと永遠に.md" title="wikilink">きっと永遠に</a>」</p></td>
 <td><p>ESCL-2930</p></td>
 <td><p>きっと永遠に -STUDIO APARTMENT REMIX-</p></td>
 </tr>
@@ -553,7 +553,7 @@ CTCR-40260</p></td>
 </tr>
 <tr class="even">
 <td><p>2007年09月12日</p></td>
-<td><p>DOUBLE「<a href="https://ja.wikipedia.org/wiki/Reflex_Remix" title="wikilink">Reflex Remix</a>」</p></td>
+<td><p>DOUBLE「<a href="../Page/Reflex_Remix.md" title="wikilink">Reflex Remix</a>」</p></td>
 <td><p>FLCF-4190</p></td>
 <td><p>ROCK THE PARTY (STUDIO APARTMENT REMIX)</p></td>
 </tr>
@@ -626,7 +626,7 @@ BVCS-29070</p></td>
 </tr>
 <tr class="even">
 <td><p>2008年07月16日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/キマグレン" title="wikilink">キマグレン</a>「<a href="https://ja.wikipedia.org/wiki/ZUSHI" title="wikilink">ZUSHI</a>」</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/キマグレン" title="wikilink">キマグレン</a>「<a href="../Page/ZUSHI.md" title="wikilink">ZUSHI</a>」</p></td>
 <td><p>UMCK-1254</p></td>
 <td><p>LIFE(Smart Sports ver.) -STUDIO APARTMENT Remix-</p></td>
 </tr>
@@ -680,7 +680,7 @@ BVCS-29070</p></td>
 </tr>
 <tr class="odd">
 <td><p>2009年03月25日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ET-KING" title="wikilink">ET-KING</a>「<a href="https://ja.wikipedia.org/wiki/10-ten-" title="wikilink">10-ten-</a>」</p></td>
+<td><p><a href="../Page/ET-KING.md" title="wikilink">ET-KING</a>「<a href="https://ja.wikipedia.org/wiki/10-ten-" title="wikilink">10-ten-</a>」</p></td>
 <td><p>UPCH-1695</p></td>
 <td><p>ギフト(STUDIO APARTMENT Remix)</p></td>
 </tr>
@@ -699,7 +699,7 @@ Piano Solo by, 阿部 登 (STUDIO APARTMENT)</p></td>
 </tr>
 <tr class="even">
 <td><p>2009年04月29日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SOFFet" title="wikilink">SOFFet</a>「蒼空バラッド」</p></td>
+<td><p><a href="../Page/SOFFet.md" title="wikilink">SOFFet</a>「蒼空バラッド」</p></td>
 <td><p>RZCD-46163<br />
 RZCD-46164</p></td>
 <td><p>花 -STUDIO APARTMENT Remix-</p></td>
@@ -724,7 +724,7 @@ RZCD-46164</p></td>
 </tr>
 <tr class="even">
 <td><p>2010年03月31日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セルジオ・メンデス" title="wikilink">セルジオ・メンデス</a>「ボン・テンポ」</p></td>
+<td><p><a href="../Page/セルジオ・メンデス.md" title="wikilink">セルジオ・メンデス</a>「ボン・テンポ」</p></td>
 <td><p>UCCO-1095</p></td>
 <td><p>マシュ・ケ・ナダ (feat.ブラック・アイド・ピーズ) ＜STUDIO APARTMENT Edit＞<br />
 ≪日本盤ボーナス・トラック≫</p></td>
@@ -795,7 +795,7 @@ DFCL-1695</p></td>
 </tr>
 <tr class="odd">
 <td><p>2012年06月13日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/MAY&#39;S" title="wikilink">MAY'S</a>「Remaking 〜Remix Collection Vol.2〜」</p></td>
+<td><p><a href="../Page/MAY&#39;S.md" title="wikilink">MAY'S</a>「Remaking 〜Remix Collection Vol.2〜」</p></td>
 <td><p>KICS-1766</p></td>
 <td><p>Can't Say "I Love You" (STUDIO APARTMENT Remix)</p></td>
 </tr>
@@ -807,7 +807,7 @@ DFCL-1695</p></td>
 </tr>
 <tr class="odd">
 <td><p>2014年06月11日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ケツメイシ" title="wikilink">ケツメイシ</a>「<a href="https://ja.wikipedia.org/wiki/RHYTHM_OF_THE_SUN" title="wikilink">RHYTHM OF THE SUN</a>」</p></td>
+<td><p><a href="../Page/ケツメイシ.md" title="wikilink">ケツメイシ</a>「<a href="https://ja.wikipedia.org/wiki/RHYTHM_OF_THE_SUN" title="wikilink">RHYTHM OF THE SUN</a>」</p></td>
 <td><p>AVCD-83029B</p></td>
 <td><p>RHYTHM OF THE SUN (STUDIO APARTMENT Remix)</p></td>
 </tr>
@@ -819,10 +819,10 @@ DFCL-1695</p></td>
 </tr>
 <tr class="odd">
 <td><p>2015年04月29日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RIP_SLYME" title="wikilink">RIP SLYME</a>「<a href="https://ja.wikipedia.org/wiki/ピース/この道を行こう/ナイショデオネガイシマス" title="wikilink">ピース/この道を行こう/ナイショデオネガイシマス</a>」</p></td>
+<td><p><a href="../Page/RIP_SLYME.md" title="wikilink">RIP SLYME</a>「<a href="https://ja.wikipedia.org/wiki/ピース/この道を行こう/ナイショデオネガイシマス" title="wikilink">ピース/この道を行こう/ナイショデオネガイシマス</a>」</p></td>
 <td><p>WPCL-12082<br />
 WPCL-12083</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/楽園ベイベー" title="wikilink">楽園ベイベー</a> (STUDIO APARTMENT REMIX)</p></td>
+<td><p><a href="../Page/楽園ベイベー.md" title="wikilink">楽園ベイベー</a> (STUDIO APARTMENT REMIX)</p></td>
 </tr>
 <tr class="even">
 <td><p>2015年07月01日</p></td>

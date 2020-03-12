@@ -1,7 +1,7 @@
 > この記事は[Coup d\'Etat](https://ja.wikipedia.org/wiki/Coup_d\'Etat)から翻訳されています。
 
 
-'''coup d'Etat '''（クーデター）は、[2002年](../Page/2002年.md "wikilink")[6月19日](../Page/6月19日.md "wikilink") にリリースされた[Syrup 16gのメジャー](https://ja.wikipedia.org/wiki/Syrup_16g "wikilink")1枚目のアルバムである。
+'''coup d'Etat '''（クーデター）は、[2002年](../Page/2002年.md "wikilink")[6月19日](../Page/6月19日.md "wikilink") にリリースされた[Syrup 16gのメジャー](../Page/Syrup_16g.md "wikilink")1枚目のアルバムである。
 
 インディーズからメジャーに移籍した事により、自分の曲を売り物にする事も良しとしようという、五十嵐が自分自身に対してのクーデターを起こす、という事からこのタイトルがつけられた。「My loves sold」(＝俺の愛を売る）などのタイトルにもその姿勢が現れている\[1\]。
 
@@ -30,7 +30,7 @@
 12. **coup d'Etat**
       - 次曲の「空をなくす」のイントロ的なものでライブでも前奏的に用いる。ライブでは即興で歌詞を追加して歌うことが多い。
 13. **空をなくす**
-      - 元タイトルは向精神薬の[ソラナックス](https://ja.wikipedia.org/wiki/アルプラゾラム "wikilink")。
+      - 元タイトルは向精神薬の[ソラナックス](../Page/アルプラゾラム.md "wikilink")。
 14. **汚れたいだけ**
 
 ## 脚注

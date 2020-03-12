@@ -1,17 +1,17 @@
 > この記事は[LIXIL](https://ja.wikipedia.org/wiki/LIXIL)から翻訳されています。
 
 
-**LIXILリフォームショップ**とは株式会社[LIXIL](https://ja.wikipedia.org/wiki/LIXIL "wikilink")（旧[トステム](https://ja.wikipedia.org/wiki/トステム "wikilink")株式会社）が運営する住宅[リフォーム](https://ja.wikipedia.org/wiki/リフォーム "wikilink")の[フランチャイズ](../Page/フランチャイズ.md "wikilink")チェーン名である。
+**LIXILリフォームショップ**とは株式会社[LIXIL](https://ja.wikipedia.org/wiki/LIXIL "wikilink")（旧[トステム](../Page/トステム.md "wikilink")株式会社）が運営する住宅[リフォーム](../Page/リフォーム.md "wikilink")の[フランチャイズ](../Page/フランチャイズ.md "wikilink")チェーン名である。
 
-本項では前身名称である「**住まいプロ ホームウェル**（すまいプロ ホームウェル）」や「**トステムホームウェル**」並びに株式会社住生活グループ（現・株式会社[LIXILグループ](https://ja.wikipedia.org/wiki/LIXILグループ "wikilink")）のグループ会社だった同名企業も併せて述べる。
+本項では前身名称である「**住まいプロ ホームウェル**（すまいプロ ホームウェル）」や「**トステムホームウェル**」並びに株式会社住生活グループ（現・株式会社[LIXILグループ](../Page/LIXILグループ.md "wikilink")）のグループ会社だった同名企業も併せて述べる。
 
 ## ホームウェル
 
-前身の名称の一部 「ホームウェル（Home Well）」の由来は、住まいとくらしをより良くしたいという思いから。直営店「ホームウェルサテライト」を[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[墨田区](../Page/墨田区.md "wikilink")錦糸で営業していた。
+前身の名称の一部 「ホームウェル（Home Well）」の由来は、住まいとくらしをより良くしたいという思いから。直営店「ホームウェルサテライト」を[東京都](../Page/東京都.md "wikilink")[墨田区](../Page/墨田区.md "wikilink")錦糸で営業していた。
 
 2007年6月14日、社名を株式会社ハウジングワークスへ変更した。その後さらに株式会社トステムハウジングワークスに変更したが、2010年9月30日に解散した。
 
-住宅リフォームのフランチャイズとしてのホームウェルの事業は関連法人解散後も[トステム](https://ja.wikipedia.org/wiki/トステム "wikilink")本体により存続され、2011年4月の株式会社[LIXIL](https://ja.wikipedia.org/wiki/LIXIL "wikilink")発足後も「トステム」ブランドのまま継続して行ってきた。
+住宅リフォームのフランチャイズとしてのホームウェルの事業は関連法人解散後も[トステム](../Page/トステム.md "wikilink")本体により存続され、2011年4月の株式会社[LIXIL](https://ja.wikipedia.org/wiki/LIXIL "wikilink")発足後も「トステム」ブランドのまま継続して行ってきた。
 
 2012年7月1日に旧・株式会社[INAX](../Page/INAX.md "wikilink")が行っていた住宅リフォームのフランチャイズ「INAXリフォームLIFA」との再編により、「**LIXILリフォームチェーン**」を発足。異なるビジネスモデルを明確にするため2ブランドの統合は行わず、「トステムホームウェル」は"新築時の性能・機能を上回るリーズナブルな全面リフォームを提供する"というコンセプトを新たに掲げ、「住まいプロ ホームウェル」に改称した。
 

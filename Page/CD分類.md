@@ -9,40 +9,40 @@ CD分類は[1982年](../Page/1982年.md "wikilink")に[パリ](https://ja.wikipe
 
 ## 歴史
 
-[1975年](../Page/1975年.md "wikilink")[ケーラーと](https://ja.wikipedia.org/wiki/ジョージ・ケーラー "wikilink")[ミルスタインによって](https://ja.wikipedia.org/wiki/セーサル・ミルスタイン "wikilink")[モノクローナル抗体](../Page/モノクローナル抗体.md "wikilink")の作成方法が確立される\[4\]と、1970年代末から1980年代前半にかけて多くのモノクローナル抗体が樹立され、白血球の細胞表面に存在し白血球の機能や分化のマーカーとなる分子が多数同定された。しかし、同じ抗原に対し、研究者によって異なった名前がつけられるなど命名が混乱したため、ヒト白血球分化抗原 *human leucocyte differentiation antigens (HLDA)* に関する国際ワークショップが立ち上げられることとなり、第1回が[1982年](../Page/1982年.md "wikilink")に[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")で開催された。ここで多くのモノクローナル抗体を複数の施設で評価し、抗体の認識抗原の相同性をクラスタ解析で群別し、同一抗原に対する抗体とされた抗体群に同一のCD番号が振り分けられた\[5\]。第1回会議では約140種類の抗体からCD1〜CD15の15種類のCDが決定された\[6\]。
+[1975年](../Page/1975年.md "wikilink")[ケーラーと](https://ja.wikipedia.org/wiki/ジョージ・ケーラー "wikilink")[ミルスタインによって](../Page/セーサル・ミルスタイン.md "wikilink")[モノクローナル抗体](../Page/モノクローナル抗体.md "wikilink")の作成方法が確立される\[4\]と、1970年代末から1980年代前半にかけて多くのモノクローナル抗体が樹立され、白血球の細胞表面に存在し白血球の機能や分化のマーカーとなる分子が多数同定された。しかし、同じ抗原に対し、研究者によって異なった名前がつけられるなど命名が混乱したため、ヒト白血球分化抗原 *human leucocyte differentiation antigens (HLDA)* に関する国際ワークショップが立ち上げられることとなり、第1回が[1982年](../Page/1982年.md "wikilink")に[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")で開催された。ここで多くのモノクローナル抗体を複数の施設で評価し、抗体の認識抗原の相同性をクラスタ解析で群別し、同一抗原に対する抗体とされた抗体群に同一のCD番号が振り分けられた\[5\]。第1回会議では約140種類の抗体からCD1〜CD15の15種類のCDが決定された\[6\]。
 
-その後HLDAワークショップは2〜4年に1回ずつ開催され、多くのCD番号を決定した。もともとは白血球の表面抗原に対する抗体の分類を目的としたものであったが、赤血球や赤血球、血管内皮細胞、線維芽細胞などの細胞表面分子に対する抗体も含まれるようになったため、[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")HLDA委員会はワークショップの目的をヒト細胞分化抗原 *human cell differentiation molecules (HCDM)* の研究・分類に変更し\[7\]、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")よりワークショップの名称もHCDMワークショップに変更された。
+その後HLDAワークショップは2〜4年に1回ずつ開催され、多くのCD番号を決定した。もともとは白血球の表面抗原に対する抗体の分類を目的としたものであったが、赤血球や赤血球、血管内皮細胞、線維芽細胞などの細胞表面分子に対する抗体も含まれるようになったため、[2004年](../Page/2004年.md "wikilink")HLDA委員会はワークショップの目的をヒト細胞分化抗原 *human cell differentiation molecules (HCDM)* の研究・分類に変更し\[7\]、[2006年](../Page/2006年.md "wikilink")よりワークショップの名称もHCDMワークショップに変更された。
 
-| ワークショップ         | 開催年                                                     | 開催地                                                           | 定義CD\[8\] |
-| --------------- | ------------------------------------------------------- | ------------------------------------------------------------- | --------- |
-| 第1回HLDA会議\[9\]  | [1982年](../Page/1982年.md "wikilink")                    | [パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")             | CD1〜CDw15 |
-| 第2回HLDA会議       | [1984年](../Page/1984年.md "wikilink")                    | [ボストン](../Page/ボストン.md "wikilink")                            | 〜CDw26    |
-| 第3回HLDA会議       | [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") | [オックスフォード](https://ja.wikipedia.org/wiki/オックスフォード "wikilink") | 〜CD45R    |
-| 第4回HLDA会議       | [1989年](../Page/1989年.md "wikilink")                    | [ウィーン](https://ja.wikipedia.org/wiki/ウィーン "wikilink")         | 〜CDw78    |
-| 第5回HLDA会議\[10\] | [1993年](../Page/1993年.md "wikilink")                    | [ボストン](../Page/ボストン.md "wikilink")                            | 〜CDw130   |
-| 第6回HLDA会議\[11\] | [1996年](../Page/1996年.md "wikilink")                    | [神戸](../Page/神戸市.md "wikilink")                               | 〜CD166    |
-| 第7回HLDA会議\[12\] | [2000年](../Page/2000年.md "wikilink")                    | [ハロゲート](https://ja.wikipedia.org/wiki/ハロゲート "wikilink")       | 〜CD247    |
-| 第8回HLDA会議\[13\] | [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink") | [アデレード](https://ja.wikipedia.org/wiki/アデレード "wikilink")       | 〜CD339    |
-| 第9回HCDM会議       | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink") | [バルセロナ](../Page/バルセロナ.md "wikilink")                          | 〜CD364    |
-| 第10回HCDM会議      | [2014年](../Page/2014年.md "wikilink")                    | [ウロンゴン](https://ja.wikipedia.org/wiki/ウロンゴン "wikilink")       | 〜CD371    |
+| ワークショップ         | 開催年                                                     | 開催地                                                     | 定義CD\[8\] |
+| --------------- | ------------------------------------------------------- | ------------------------------------------------------- | --------- |
+| 第1回HLDA会議\[9\]  | [1982年](../Page/1982年.md "wikilink")                    | [パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")       | CD1〜CDw15 |
+| 第2回HLDA会議       | [1984年](../Page/1984年.md "wikilink")                    | [ボストン](../Page/ボストン.md "wikilink")                      | 〜CDw26    |
+| 第3回HLDA会議       | [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") | [オックスフォード](../Page/オックスフォード.md "wikilink")              | 〜CD45R    |
+| 第4回HLDA会議       | [1989年](../Page/1989年.md "wikilink")                    | [ウィーン](https://ja.wikipedia.org/wiki/ウィーン "wikilink")   | 〜CDw78    |
+| 第5回HLDA会議\[10\] | [1993年](../Page/1993年.md "wikilink")                    | [ボストン](../Page/ボストン.md "wikilink")                      | 〜CDw130   |
+| 第6回HLDA会議\[11\] | [1996年](../Page/1996年.md "wikilink")                    | [神戸](../Page/神戸市.md "wikilink")                         | 〜CD166    |
+| 第7回HLDA会議\[12\] | [2000年](../Page/2000年.md "wikilink")                    | [ハロゲート](https://ja.wikipedia.org/wiki/ハロゲート "wikilink") | 〜CD247    |
+| 第8回HLDA会議\[13\] | [2004年](../Page/2004年.md "wikilink")                    | [アデレード](../Page/アデレード.md "wikilink")                    | 〜CD339    |
+| 第9回HCDM会議       | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink") | [バルセロナ](../Page/バルセロナ.md "wikilink")                    | 〜CD364    |
+| 第10回HCDM会議      | [2014年](../Page/2014年.md "wikilink")                    | [ウロンゴン](../Page/ウロンゴン.md "wikilink")                    | 〜CD371    |
 
 ## CD番号の付け方
 
-CD番号は[ワークショップ](https://ja.wikipedia.org/wiki/ワークショップ "wikilink")で決定された順に番号を振ってあるだけであり、番号には特別な意味はない。また、既存のCD分子に複数の分子種が存在することが判明した場合にはCD1a〜CD1dのように枝番をつけるが、この枝番のつけ方にも定義はない。一方、ある種の細胞に限定した分布をする亜型が存在する抗原には、CD45Rのように後ろにR（restricted distributionのR）をつける。またCDとしての定義に満たない場合にはworkshop CD (CDw) として暫定的な番号をつける\[14\]。
+CD番号は[ワークショップ](../Page/ワークショップ.md "wikilink")で決定された順に番号を振ってあるだけであり、番号には特別な意味はない。また、既存のCD分子に複数の分子種が存在することが判明した場合にはCD1a〜CD1dのように枝番をつけるが、この枝番のつけ方にも定義はない。一方、ある種の細胞に限定した分布をする亜型が存在する抗原には、CD45Rのように後ろにR（restricted distributionのR）をつける。またCDとしての定義に満たない場合にはworkshop CD (CDw) として暫定的な番号をつける\[14\]。
 
 ## 主なCD抗原
 
-| CD番号                                                 | 別名                   | 主な発現細胞                                                                                                         | 機能                                                                       |
-| ---------------------------------------------------- | -------------------- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| [CD1](https://ja.wikipedia.org/wiki/CD1 "wikilink")d | R3                   | [APC](https://ja.wikipedia.org/wiki/抗原提示細胞 "wikilink")                                                         | MHCクラスI様分子。糖脂質やリン脂質を提示してNKTを活性化する                                        |
-| [CD4](https://ja.wikipedia.org/wiki/CD4 "wikilink")  | T4                   | [T](../Page/T細胞.md "wikilink")                                                                                 | MHCクラスII認識、HIVが感染する際の標的分子                                                |
-| [CD8](https://ja.wikipedia.org/wiki/CD8 "wikilink")α | T8                   | [T](../Page/T細胞.md "wikilink"), 骨髄系[DC](https://ja.wikipedia.org/wiki/樹状細胞 "wikilink")                         | MHCクラスI認識                                                                |
-| CD20                                                 | B1                   | B, 濾胞性[DC](https://ja.wikipedia.org/wiki/樹状細胞 "wikilink")                                                      | 成熟B細胞マーカー、[リツキシマブ](https://ja.wikipedia.org/wiki/リツキシマブ "wikilink")の標的分子 |
-| CD34                                                 |                      | 造血幹細胞                                                                                                          | 造血幹細胞マーカー                                                                |
-| CD80                                                 | B7.1, CD28L, CTLA-4L | 成熟[DC](https://ja.wikipedia.org/wiki/樹状細胞 "wikilink"), [MΦ](https://ja.wikipedia.org/wiki/マクロファージ "wikilink")  | T細胞活性化の共刺激分子、DCの成熟化マーカー                                                  |
-| CD86                                                 | B7.2                 | 活性化[DC](https://ja.wikipedia.org/wiki/樹状細胞 "wikilink"), [MΦ](https://ja.wikipedia.org/wiki/マクロファージ "wikilink") | T細胞活性化の共刺激分子、DCの成熟化マーカー                                                  |
-| CD133                                                |                      | 造血幹細胞                                                                                                          | 造血幹細胞マーカー                                                                |
-| CD134                                                | OX40                 | 活性化[T](../Page/T細胞.md "wikilink")                                                                              | T細胞の共刺激分子                                                                |
+| CD番号                                                 | 別名                   | 主な発現細胞                                                                   | 機能                                                    |
+| ---------------------------------------------------- | -------------------- | ------------------------------------------------------------------------ | ----------------------------------------------------- |
+| [CD1](https://ja.wikipedia.org/wiki/CD1 "wikilink")d | R3                   | [APC](../Page/抗原提示細胞.md "wikilink")                                      | MHCクラスI様分子。糖脂質やリン脂質を提示してNKTを活性化する                     |
+| [CD4](https://ja.wikipedia.org/wiki/CD4 "wikilink")  | T4                   | [T](../Page/T細胞.md "wikilink")                                           | MHCクラスII認識、HIVが感染する際の標的分子                             |
+| [CD8](https://ja.wikipedia.org/wiki/CD8 "wikilink")α | T8                   | [T](../Page/T細胞.md "wikilink"), 骨髄系[DC](../Page/樹状細胞.md "wikilink")      | MHCクラスI認識                                             |
+| CD20                                                 | B1                   | B, 濾胞性[DC](../Page/樹状細胞.md "wikilink")                                   | 成熟B細胞マーカー、[リツキシマブ](../Page/リツキシマブ.md "wikilink")の標的分子 |
+| CD34                                                 |                      | 造血幹細胞                                                                    | 造血幹細胞マーカー                                             |
+| CD80                                                 | B7.1, CD28L, CTLA-4L | 成熟[DC](../Page/樹状細胞.md "wikilink"), [MΦ](../Page/マクロファージ.md "wikilink")  | T細胞活性化の共刺激分子、DCの成熟化マーカー                               |
+| CD86                                                 | B7.2                 | 活性化[DC](../Page/樹状細胞.md "wikilink"), [MΦ](../Page/マクロファージ.md "wikilink") | T細胞活性化の共刺激分子、DCの成熟化マーカー                               |
+| CD133                                                |                      | 造血幹細胞                                                                    | 造血幹細胞マーカー                                             |
+| CD134                                                | OX40                 | 活性化[T](../Page/T細胞.md "wikilink")                                        | T細胞の共刺激分子                                             |
 
 ## 外部リンク
 

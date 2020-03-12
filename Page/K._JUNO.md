@@ -54,7 +54,7 @@
 ### [作詞家](../Page/作詞家.md "wikilink")としての参加
 
   - **[新海誠](../Page/新海誠.md "wikilink")** *comix wave*
-      - <small>2002</small> [ほしのこえ](../Page/ほしのこえ.md "wikilink") 主題歌 Through The Years And Far Away (Hello, Little Star) (作曲:[天門](https://ja.wikipedia.org/wiki/天門_\(作曲家\) "wikilink"))
+      - <small>2002</small> [ほしのこえ](../Page/ほしのこえ.md "wikilink") 主題歌 Through The Years And Far Away (Hello, Little Star) (作曲:[天門](../Page/天門_\(作曲家\).md "wikilink"))
 
 ## オフィシャルサイト
 

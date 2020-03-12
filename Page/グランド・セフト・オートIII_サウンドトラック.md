@@ -10,7 +10,7 @@
   -
     **局名：**Head Radio（ヘッド・レイディオ）
     **DJ：**マイク・ハント *Michael "Mike" Hunt* (Russ Mottla)
-    **ジャンル：**[ソフトロック](https://ja.wikipedia.org/wiki/ソフトロック "wikilink")、 [アダルト・コンテンポラリー](https://ja.wikipedia.org/wiki/アダルト・コンテンポラリー "wikilink")
+    **ジャンル：**[ソフトロック](../Page/ソフトロック.md "wikilink")、 [アダルト・コンテンポラリー](https://ja.wikipedia.org/wiki/アダルト・コンテンポラリー "wikilink")
     主人公が最初に聞くことになるラジオ局でもある。
 
 **曲リスト**
@@ -30,15 +30,15 @@
 **ジャンル：**[オペラ](../Page/オペラ.md "wikilink")
 **曲リスト**
 
-| 曲名                                                                                                         | アーティスト                                                             |
-| ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| *Non piu andrai farfallone amoroso*（もう飛ぶまいぞこの蝶々） - オペラ「[フィガロの結婚](../Page/フィガロの結婚.md "wikilink")」より         | [ヴォルフガング・アマデウス・モーツァルト](../Page/ヴォルフガング・アマデウス・モーツァルト.md "wikilink") |
-| *Chi mi frena in tal momento* - オペラ「[ランメルモールのルチア](https://ja.wikipedia.org/wiki/ランメルモールのルチア "wikilink")」より | [ガエターノ・ドニゼッティ](../Page/ガエターノ・ドニゼッティ.md "wikilink")                 |
-| *Libiamo ne'lieti calici*（乾杯の歌） - オペラ「[椿姫](../Page/椿姫_\(オペラ\).md "wikilink")」より                            | [ジュゼッペ・ヴェルディ](../Page/ジュゼッペ・ヴェルディ.md "wikilink")                   |
-| *Finch'han dal vino* - オペラ「[ドン・ジョヴァンニ](../Page/ドン・ジョヴァンニ.md "wikilink")」より                                 | [ヴォルフガング・アマデウス・モーツァルト](../Page/ヴォルフガング・アマデウス・モーツァルト.md "wikilink") |
-| *O mio babbino caro* - オペラ「[ジャンニ・スキッキ](https://ja.wikipedia.org/wiki/ジャンニ・スキッキ "wikilink")」より              | [ジャコモ・プッチーニ](../Page/ジャコモ・プッチーニ.md "wikilink")                     |
-| *La Donna è mobile* - オペラ「[リゴレット](https://ja.wikipedia.org/wiki/リゴレット "wikilink")」より                       | ジュゼッペ・ヴェルディ                                                        |
-|                                                                                                            |                                                                    |
+| 曲名                                                                                                 | アーティスト                                                             |
+| -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| *Non piu andrai farfallone amoroso*（もう飛ぶまいぞこの蝶々） - オペラ「[フィガロの結婚](../Page/フィガロの結婚.md "wikilink")」より | [ヴォルフガング・アマデウス・モーツァルト](../Page/ヴォルフガング・アマデウス・モーツァルト.md "wikilink") |
+| *Chi mi frena in tal momento* - オペラ「[ランメルモールのルチア](../Page/ランメルモールのルチア.md "wikilink")」より            | [ガエターノ・ドニゼッティ](../Page/ガエターノ・ドニゼッティ.md "wikilink")                 |
+| *Libiamo ne'lieti calici*（乾杯の歌） - オペラ「[椿姫](../Page/椿姫_\(オペラ\).md "wikilink")」より                    | [ジュゼッペ・ヴェルディ](../Page/ジュゼッペ・ヴェルディ.md "wikilink")                   |
+| *Finch'han dal vino* - オペラ「[ドン・ジョヴァンニ](../Page/ドン・ジョヴァンニ.md "wikilink")」より                         | [ヴォルフガング・アマデウス・モーツァルト](../Page/ヴォルフガング・アマデウス・モーツァルト.md "wikilink") |
+| *O mio babbino caro* - オペラ「[ジャンニ・スキッキ](../Page/ジャンニ・スキッキ.md "wikilink")」より                         | [ジャコモ・プッチーニ](../Page/ジャコモ・プッチーニ.md "wikilink")                     |
+| *La Donna è mobile* - オペラ「[リゴレット](../Page/リゴレット.md "wikilink")」より                                  | ジュゼッペ・ヴェルディ                                                        |
+|                                                                                                    |                                                                    |
 
 ### K-Jah
 
@@ -60,7 +60,7 @@
   -
     **局名：**Rise FM（ライズFM）
     **DJ：**アンドレ Andre The Accelerator (Andre)
-    **ジャンル：**[トランス](https://ja.wikipedia.org/wiki/トランス_\(音楽\) "wikilink")
+    **ジャンル：**[トランス](../Page/トランス_\(音楽\).md "wikilink")
 
 **曲リスト**
 
@@ -75,7 +75,7 @@
   -
     **局名：**Lips 106（リップス106）
     **DJ：**アンディー *Andee* (Shelley Miller)
-    **ジャンル：**[ポップ](https://ja.wikipedia.org/wiki/ポップ・ミュージック "wikilink")
+    **ジャンル：**[ポップ](../Page/ポップ・ミュージック.md "wikilink")
 
 **曲リスト**
 
@@ -115,7 +115,7 @@
   -
     **局名：**MSX FM（エムエスエックスFM）
     **DJ：**MCコードブレイカー、DJタイムコード *MC Codebreaker and DJ Timecode*
-    **ジャンル：**[ドラムンベース](https://ja.wikipedia.org/wiki/ドラムンベース "wikilink")
+    **ジャンル：**[ドラムンベース](../Page/ドラムンベース.md "wikilink")
 
 **曲リスト**
 
@@ -134,12 +134,12 @@
   -
     **局名：**Flashback 95.6（フラッシュバック95.6）
     **DJ：**トニー *Toni* (Maria Chambers)
-    **ジャンル：**[1980年代](../Page/1980年代.md "wikilink")[ポップ](https://ja.wikipedia.org/wiki/ポップ・ミュージック "wikilink")
+    **ジャンル：**[1980年代](../Page/1980年代.md "wikilink")[ポップ](../Page/ポップ・ミュージック.md "wikilink")
 
 **曲リスト**
 
   - [Paul Engemann](https://ja.wikipedia.org/wiki/Paul_Engemann "wikilink") - *[Push It to the Limit](https://ja.wikipedia.org/wiki/Scarface_\(Push_It_to_the_Limit\) "wikilink")*
-  - [Debbie Harry](https://ja.wikipedia.org/wiki/デボラ・ハリー "wikilink") - *Rush Rush*
+  - [Debbie Harry](../Page/デボラ・ハリー.md "wikilink") - *Rush Rush*
   - Amy Holland - *She's On Fire*
   - [Elizabeth Daily](https://ja.wikipedia.org/wiki/Elizabeth_Daily "wikilink") - *Shake It Up*
   - Elizabeth Daily - *I'm Hot Tonight*
@@ -157,7 +157,7 @@
 ## 関連項目
 
   - [Grand Theft Auto III](https://ja.wikipedia.org/wiki/Grand_Theft_Auto_III "wikilink")
-  - [スカーフェイス](https://ja.wikipedia.org/wiki/スカーフェイス_\(映画\) "wikilink") - FlashBack 95.6で流れるのはこの映画のサントラである。
+  - [スカーフェイス](../Page/スカーフェイス_\(映画\).md "wikilink") - FlashBack 95.6で流れるのはこの映画のサントラである。
 
 ## 外部リンク
 

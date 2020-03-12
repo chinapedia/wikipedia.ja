@@ -1,7 +1,7 @@
 > この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
 
 
-**サミュエル・レイ・ディレイニー**（**Samuel Ray "Chip" Delany, Jr.** , [1942年](../Page/1942年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[小説家](../Page/小説家.md "wikilink")、[SF作家](https://ja.wikipedia.org/wiki/SF作家 "wikilink")。1960年代後半以降のアメリカにおける[ニュー・ウェーブ](../Page/ニュー・ウェーブ_\(SF\).md "wikilink")、あるいは[スペキュレーティヴフィクション](https://ja.wikipedia.org/wiki/スペキュレーティヴフィクション "wikilink")の代表的な作家の一人。愛称はチップ(*Chip*)。日本での表記には**ディレイニー**\[1\]ほか**ディレーニイ**\[2\]、**ディレーニ**\[3\]もある。
+**サミュエル・レイ・ディレイニー**（**Samuel Ray "Chip" Delany, Jr.** , [1942年](../Page/1942年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[小説家](../Page/小説家.md "wikilink")、[SF作家](../Page/SF作家.md "wikilink")。1960年代後半以降のアメリカにおける[ニュー・ウェーブ](../Page/ニュー・ウェーブ_\(SF\).md "wikilink")、あるいは[スペキュレーティヴフィクション](https://ja.wikipedia.org/wiki/スペキュレーティヴフィクション "wikilink")の代表的な作家の一人。愛称はチップ(*Chip*)。日本での表記には**ディレイニー**\[1\]ほか**ディレーニイ**\[2\]、**ディレーニ**\[3\]もある。
 
 言語とリズム、そして構成にこだわり抜いたスタイルを特徴とし、流麗な文体で美しい光景と深い哲学的思索を描き出す、SF作家でも屈指の存在。暗喩を多用することにも特徴があり、物語の裏に別の物語を読み取ることもできる構成について、初期の代表作『エンパイア・スター』において世界の多面的な解釈の意味で使われた「マルチプレックス (*multiplex*)」という語によって、作品の多面的な読み方を示唆するとともにディレイニーを象徴させることも多い。
 
@@ -11,13 +11,13 @@
 
 ニューヨークの[ハーレム地区](https://ja.wikipedia.org/wiki/ハーレム地区 "wikilink")で、葬儀会社を営む父サミュエル・レイ・ディレイニーと、[ニューヨーク市立図書館](https://ja.wikipedia.org/wiki/ニューヨーク市立図書館 "wikilink")に勤める母マーガレット・ケアリー・ボイドの間に生まれる。父方の祖父ヘンリー・ベアド・ディレイニーは、奴隷解放後に学校経営者となり[米国聖公会](../Page/米国聖公会.md "wikilink")最初の黒人司教となった。その長女セアラ・ルイーズと次女アン・エリザベスは、奴隷制以来の家族史『セイディーとベッシー - アメリカ200年を生きた私たち』（1993年）を執筆し、ディレイニー姉妹として知られる\[4\]。
 
-ニューヨークの富裕層の子弟が通う名門私立のダルトン校を経て、ニューヨーク最難関の公立高校のブロンクス・ハイスクール・オブ・サイエンスで数学を専攻したが、在学中の17歳の時に書いた最初の長編小説で、[ブレッドローフ作家会議](https://ja.wikipedia.org/wiki/ブレッドローフ作家会議 "wikilink")の奨学金をうける。18歳の時に「セブンティーン」誌に作品が掲載され、[ニューヨーク市立大学](https://ja.wikipedia.org/wiki/ニューヨーク市立大学 "wikilink")に進学するが1年で中退、19歳で最初のSF小説『アプターの宝石』を[エース・ブックス](https://ja.wikipedia.org/wiki/エース・ブックス "wikilink")に投稿して出版され、SF作家としてスタートを切る。その後、テキサス湾([メキシコ湾](https://ja.wikipedia.org/wiki/メキシコ湾 "wikilink"))のエビ漁船に乗り組んだり、フォークシンガーとして[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")を彷徨したりしながら創作を続けた。1961年にブロンクス・ハイスクール時代に知り合ったユダヤ系アメリカ人の[詩人](../Page/詩人.md "wikilink")マリリン・ハッカーと結婚し一女を儲けた。
+ニューヨークの富裕層の子弟が通う名門私立のダルトン校を経て、ニューヨーク最難関の公立高校のブロンクス・ハイスクール・オブ・サイエンスで数学を専攻したが、在学中の17歳の時に書いた最初の長編小説で、[ブレッドローフ作家会議](https://ja.wikipedia.org/wiki/ブレッドローフ作家会議 "wikilink")の奨学金をうける。18歳の時に「セブンティーン」誌に作品が掲載され、[ニューヨーク市立大学](../Page/ニューヨーク市立大学.md "wikilink")に進学するが1年で中退、19歳で最初のSF小説『アプターの宝石』を[エース・ブックス](../Page/エース・ブックス.md "wikilink")に投稿して出版され、SF作家としてスタートを切る。その後、テキサス湾([メキシコ湾](../Page/メキシコ湾.md "wikilink"))のエビ漁船に乗り組んだり、フォークシンガーとして[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")を彷徨したりしながら創作を続けた。1961年にブロンクス・ハイスクール時代に知り合ったユダヤ系アメリカ人の[詩人](../Page/詩人.md "wikilink")マリリン・ハッカーと結婚し一女を儲けた。
 
-『ベータ2のバラッド』『エンパイアスター』などの初期の中編は、当時[エース・ブックス](https://ja.wikipedia.org/wiki/エース・ブックス "wikilink")から出ていた、2作を1冊にまとめたエース・ダブルというシリーズで出版された。23歳のときに第7作として発表した『[バベル‐17](https://ja.wikipedia.org/wiki/バベル‐17 "wikilink")』が[ネビュラ賞](https://ja.wikipedia.org/wiki/ネビュラ賞 "wikilink")を受賞して、一躍注目されるようになった。23歳の頃に自殺衝動に駆られて精神病院に入院、退院後にはニューロークで「天国の朝食」という[ヒッピー](https://ja.wikipedia.org/wiki/ヒッピー "wikilink")・コミューンに参加し、また同名のロックバンドで演奏活動を行う。1967年に自伝的要素と神話の統合という試みを行った長編『アインシュタイン交点』、及び短編「然り、そしてゴモラ」で[ネビュラ賞](https://ja.wikipedia.org/wiki/ネビュラ賞 "wikilink")を受賞した。1968年には中編「時は準宝石の螺旋のように」で[ヒューゴー賞](../Page/ヒューゴー賞.md "wikilink")とネビュラ賞をダブル受賞。
+『ベータ2のバラッド』『エンパイアスター』などの初期の中編は、当時[エース・ブックス](../Page/エース・ブックス.md "wikilink")から出ていた、2作を1冊にまとめたエース・ダブルというシリーズで出版された。23歳のときに第7作として発表した『[バベル‐17](https://ja.wikipedia.org/wiki/バベル‐17 "wikilink")』が[ネビュラ賞](../Page/ネビュラ賞.md "wikilink")を受賞して、一躍注目されるようになった。23歳の頃に自殺衝動に駆られて精神病院に入院、退院後にはニューロークで「天国の朝食」という[ヒッピー](../Page/ヒッピー.md "wikilink")・コミューンに参加し、また同名のロックバンドで演奏活動を行う。1967年に自伝的要素と神話の統合という試みを行った長編『アインシュタイン交点』、及び短編「然り、そしてゴモラ」で[ネビュラ賞](../Page/ネビュラ賞.md "wikilink")を受賞した。1968年には中編「時は準宝石の螺旋のように」で[ヒューゴー賞](../Page/ヒューゴー賞.md "wikilink")とネビュラ賞をダブル受賞。
 
 1970年から妻のマリリン・ハッカーと共同編集で、スペキュレイティブ・フィクションのアンソロジー「クォーク (*Quark*)」を、71年まで4冊を刊行、自身の新しいSF観を打ち出した。1974年にレズビアンの妻であるマリリン・ハッカーと離婚。
 
-70年代から90年代にかけてはノンフィクションや文学批評も数多く手がけ、1979年から87年には[剣と魔法](https://ja.wikipedia.org/wiki/剣と魔法 "wikilink")小説「ネヴェリヨン」シリーズも執筆。1975年に刊行された大作『ダールグレン』はSF界内外から高い評価を受けて70万部のベストセラーとなる。この年から[レスリー・フィードラー](https://ja.wikipedia.org/wiki/レスリー・フィードラー "wikilink")の推薦で[ニューヨーク州立大学](https://ja.wikipedia.org/wiki/ニューヨーク州立大学 "wikilink")の講師となり、続いて[ウィスコンシン大学](https://ja.wikipedia.org/wiki/ウィスコンシン大学 "wikilink")、[コーネル大学](https://ja.wikipedia.org/wiki/コーネル大学 "wikilink")などで教鞭をとり、2000年からは[テンプル大学](https://ja.wikipedia.org/wiki/テンプル大学 "wikilink")で[英米文学](https://ja.wikipedia.org/wiki/英米文学 "wikilink")と創作の専任教授となる。
+70年代から90年代にかけてはノンフィクションや文学批評も数多く手がけ、1979年から87年には[剣と魔法](https://ja.wikipedia.org/wiki/剣と魔法 "wikilink")小説「ネヴェリヨン」シリーズも執筆。1975年に刊行された大作『ダールグレン』はSF界内外から高い評価を受けて70万部のベストセラーとなる。この年から[レスリー・フィードラー](../Page/レスリー・フィードラー.md "wikilink")の推薦で[ニューヨーク州立大学](../Page/ニューヨーク州立大学.md "wikilink")の講師となり、続いて[ウィスコンシン大学](../Page/ウィスコンシン大学.md "wikilink")、[コーネル大学](../Page/コーネル大学.md "wikilink")などで教鞭をとり、2000年からは[テンプル大学](../Page/テンプル大学.md "wikilink")で[英米文学](https://ja.wikipedia.org/wiki/英米文学 "wikilink")と創作の専任教授となる。
 
 2007年にはフレッド・バーニー・テイラー監督による映画『博識の人、またはサミュエル・R・ディレイニー氏の人生と意見』が公開。2010年にはジェイ・シャイブが『ダールグレン』を脚色した演劇『都市の破壊者ベローナ』を、前衛劇場ザ・キッチンで上映した。
 
@@ -62,7 +62,7 @@
   - 右舷のワイン *Starboard Wine* 1984年
   - メッシナ海峡 *The Straits of Messina* 1989年
   - 長めの考察 *Longer Views* 1996年
-  - 『サイボーグ・フェミニズム』[ダナ・ハラウェイ](https://ja.wikipedia.org/wiki/ダナ・ハラウェイ "wikilink"),[ジェシカ・アマンダ・サーモンスン](https://ja.wikipedia.org/wiki/ジェシカ・アマンダ・サーモンスン "wikilink")との共著。「読むことの機能について、ダナ・ハラウェイ「サイボーグ宣言」を中心に」を収録。Reading at Work and Other Activities Frowned-on by Authority : a reading of Donna Haraway's "A Manifesto for Cyborgs"
+  - 『サイボーグ・フェミニズム』[ダナ・ハラウェイ](../Page/ダナ・ハラウェイ.md "wikilink"),[ジェシカ・アマンダ・サーモンスン](https://ja.wikipedia.org/wiki/ジェシカ・アマンダ・サーモンスン "wikilink")との共著。「読むことの機能について、ダナ・ハラウェイ「サイボーグ宣言」を中心に」を収録。Reading at Work and Other Activities Frowned-on by Authority : a reading of Donna Haraway's "A Manifesto for Cyborgs"
 
 ### 自伝・エッセイ
 
@@ -87,11 +87,11 @@ Quark（マリリン・ハッカーとの共編）
 
 ## 受賞歴
 
-  - バベル‐17 - 1966年[ネビュラ賞](https://ja.wikipedia.org/wiki/ネビュラ賞 "wikilink")長編部門
+  - バベル‐17 - 1966年[ネビュラ賞](../Page/ネビュラ賞.md "wikilink")長編部門
   - アインシュタイン交点 - 1967年ネビュラ賞長編部門
   - 然りそしてゴモラ - 1967年ネビュラ賞短編部門
   - 時は準宝石の螺旋のように - 1969年ネビュラ賞中短編部門、1970年[ヒューゴー賞](../Page/ヒューゴー賞.md "wikilink")短編部門
-  - バベル-17 - 1975年[ローカス賞](https://ja.wikipedia.org/wiki/ローカス賞 "wikilink")オールタイムベストSF 36位
+  - バベル-17 - 1975年[ローカス賞](../Page/ローカス賞.md "wikilink")オールタイムベストSF 36位
   - 1977年ローカス賞オールタイムベストSF作家 16位
   - ダールグレン - 1987年ローカス賞オールタイムベストSF 23位
   - 1986年ピルグリム賞（文学批評の業績に対して）
@@ -103,15 +103,15 @@ Quark（マリリン・ハッカーとの共編）
 
 ## 参考文献
 
-  - [巽孝之](https://ja.wikipedia.org/wiki/巽孝之 "wikilink")「解説 時は準宝石の螺旋のように」（『ダールグレン』[国書刊行会](https://ja.wikipedia.org/wiki/国書刊行会 "wikilink") 2011年）
+  - [巽孝之](../Page/巽孝之.md "wikilink")「解説 時は準宝石の螺旋のように」（『ダールグレン』[国書刊行会](../Page/国書刊行会.md "wikilink") 2011年）
 
 ## 外部リンク
 
-  - [Bread & Wine: An Erotic Tale of New York](http://www.alc.co.jp/eng/hontsu/book/0404/01.html)（[宮脇孝雄](https://ja.wikipedia.org/wiki/宮脇孝雄 "wikilink")による *Bread & Wine* 解説）
+  - [Bread & Wine: An Erotic Tale of New York](http://www.alc.co.jp/eng/hontsu/book/0404/01.html)（[宮脇孝雄](../Page/宮脇孝雄.md "wikilink")による *Bread & Wine* 解説）
 
 [Category:アメリカ合衆国のSF作家](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のSF作家 "wikilink") [Category:アフリカ系アメリカ人の小説家](https://ja.wikipedia.org/wiki/Category:アフリカ系アメリカ人の小説家 "wikilink") [Category:LGBTの小説家](https://ja.wikipedia.org/wiki/Category:LGBTの小説家 "wikilink") [Category:ヒューゴー賞作家](https://ja.wikipedia.org/wiki/Category:ヒューゴー賞作家 "wikilink") [Category:ネビュラ賞作家](https://ja.wikipedia.org/wiki/Category:ネビュラ賞作家 "wikilink") [Category:クィア理論家](https://ja.wikipedia.org/wiki/Category:クィア理論家 "wikilink") [Category:アメリカ合衆国の無神論者](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の無神論者 "wikilink") [Category:1942年生](https://ja.wikipedia.org/wiki/Category:1942年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
-1.  [早川書房](https://ja.wikipedia.org/wiki/早川書房 "wikilink")、[国書刊行会](https://ja.wikipedia.org/wiki/国書刊行会 "wikilink")において
-2.  [ハヤカワ・SF・シリーズ](https://ja.wikipedia.org/wiki/ハヤカワ・SF・シリーズ "wikilink")
+1.  [早川書房](../Page/早川書房.md "wikilink")、[国書刊行会](../Page/国書刊行会.md "wikilink")において
+2.  [ハヤカワ・SF・シリーズ](../Page/ハヤカワ・SF・シリーズ.md "wikilink")
 3.  [サンリオ](../Page/サンリオ.md "wikilink")
 4.  Delany, Sarah L and A. Elizabeth Delany with Amy Hill Hearth. *Having Our say:The Delany Sisters' First 100 Years.* 『セイディーとベッシー - アメリカ200年を生きた私たち』藤井ひろこ訳 講談社 1993年、『アメリカ黒人姉妹の一世紀 - 家族・差別・時代を語る』樋口映美訳 彩流社 2000年

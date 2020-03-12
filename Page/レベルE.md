@@ -5,13 +5,13 @@
 
 ## 概要
 
-[山形県](https://ja.wikipedia.org/wiki/山形県 "wikilink")を舞台に[オカルト](../Page/オカルト.md "wikilink")的な要素の強い、[宇宙人](../Page/宇宙人.md "wikilink")を題材とした[SF漫画](../Page/SF漫画.md "wikilink")。地球にやって来たドグラ星のバカ王子が暇つぶしに起こす悪ふざけを軸とした物語が[オムニバス](https://ja.wikipedia.org/wiki/オムニバス "wikilink")形式で展開される。
+[山形県](../Page/山形県.md "wikilink")を舞台に[オカルト](../Page/オカルト.md "wikilink")的な要素の強い、[宇宙人](../Page/宇宙人.md "wikilink")を題材とした[SF漫画](../Page/SF漫画.md "wikilink")。地球にやって来たドグラ星のバカ王子が暇つぶしに起こす悪ふざけを軸とした物語が[オムニバス](../Page/オムニバス.md "wikilink")形式で展開される。
 
-『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』誌上において[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")42号から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")3・4合併号まで掲載。『[幽☆遊☆白書](https://ja.wikipedia.org/wiki/幽☆遊☆白書 "wikilink")』に続く、作者3作目となる連載作品。「[アシスタントを使わず一人で描いたらどうなるか](https://ja.wikipedia.org/wiki/アシスタント_\(漫画\) "wikilink")」ということに挑戦した作品であるため、同誌としては異例の月1での連載となった。
+『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』誌上において[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")42号から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")3・4合併号まで掲載。『[幽☆遊☆白書](../Page/幽☆遊☆白書.md "wikilink")』に続く、作者3作目となる連載作品。「[アシスタントを使わず一人で描いたらどうなるか](../Page/アシスタント_\(漫画\).md "wikilink")」ということに挑戦した作品であるため、同誌としては異例の月1での連載となった。
 
-タイトルは冨樫が当時見ていた映画『[LEVEL4](https://ja.wikipedia.org/wiki/:en:Virus_\(1995_film\) "wikilink")』をもじってつけたが、[エイリアン](https://ja.wikipedia.org/wiki/エイリアン "wikilink") (Alien) の頭文字をEだと勘違いしていたため「レベルE」と命名された。担当にそれを指摘された冨樫は「『[E.T.](https://ja.wikipedia.org/wiki/E.T. "wikilink")』のEだ」と苦しくも弁解したと吐露している\[1\]。
+タイトルは冨樫が当時見ていた映画『[LEVEL4](https://ja.wikipedia.org/wiki/:en:Virus_\(1995_film\) "wikilink")』をもじってつけたが、[エイリアン](https://ja.wikipedia.org/wiki/エイリアン "wikilink") (Alien) の頭文字をEだと勘違いしていたため「レベルE」と命名された。担当にそれを指摘された冨樫は「『[E.T.](../Page/E.T..md "wikilink")』のEだ」と苦しくも弁解したと吐露している\[1\]。
 
-作中、山形県勢初のベスト8進出を熱望する[高校野球ファンが登場する](https://ja.wikipedia.org/wiki/日本の高校野球 "wikilink")。これは1995年発表当時、山形県勢は高校野球では春夏通じてベスト8に入ったことがなく、[新潟県](../Page/新潟県.md "wikilink")勢と共に下位に甘んじていたため。
+作中、山形県勢初のベスト8進出を熱望する[高校野球ファンが登場する](../Page/日本の高校野球.md "wikilink")。これは1995年発表当時、山形県勢は高校野球では春夏通じてベスト8に入ったことがなく、[新潟県](../Page/新潟県.md "wikilink")勢と共に下位に甘んじていたため。
 
 [2011年](../Page/2011年.md "wikilink")に[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列 ([TXN](https://ja.wikipedia.org/wiki/TXN "wikilink")) でアニメ化された。
 
@@ -33,7 +33,7 @@
   - バカ王子シリーズ（「バカ王子・地球襲来編」、「バカ王子・結婚編」、「バカ王・ハネムーン編」）
     狂言まわし的な役割をもつバカ王子が、特に中心に位置し、ストーリーに積極的に関るシリーズ。
   - カラーレンジャーシリーズ（「原色戦隊カラーレンジャー編」、「原色戦隊カラーレンジャー・人魚編」）
-    5人の小学生からなるカラーレンジャーを中心としたシリーズ。「原色戦隊カラーレンジャー編」はテレビゲーム『[RPGツクール](https://ja.wikipedia.org/wiki/RPGツクール "wikilink")』をモチーフとしている。
+    5人の小学生からなるカラーレンジャーを中心としたシリーズ。「原色戦隊カラーレンジャー編」はテレビゲーム『[RPGツクール](../Page/RPGツクール.md "wikilink")』をモチーフとしている。
   - その他（「食人鬼編」、「マクバク族サキ王女・ムコ探し編」、「高校野球地区予選編」）
     他のシリーズとの関連性の低い物。ただし「高校野球地区予選編」は「バカ王子・地球襲来編」との関係がやや高い。
 
@@ -45,9 +45,9 @@
 
 ### 食人鬼編
 
-[林間学校](https://ja.wikipedia.org/wiki/林間学校 "wikilink")の途中、同級生が同じ学校の何者かに喰われるところを偶然目撃してしまった悪ガキ4人組は、次は自分達の番ではないかと怯え、自己防衛のために犯人探しを始めた。しかしその矢先、4人の内の一人が姿を消す。いよいよ切羽詰った彼らは、知り合いの怪しい人物に助けを求め、とあるつぶれかけの精神クリニックを紹介される。
+[林間学校](../Page/林間学校.md "wikilink")の途中、同級生が同じ学校の何者かに喰われるところを偶然目撃してしまった悪ガキ4人組は、次は自分達の番ではないかと怯え、自己防衛のために犯人探しを始めた。しかしその矢先、4人の内の一人が姿を消す。いよいよ切羽詰った彼らは、知り合いの怪しい人物に助けを求め、とあるつぶれかけの精神クリニックを紹介される。
 
-この短編のみ王子が作中で描いた漫画（[劇中劇](https://ja.wikipedia.org/wiki/劇中劇 "wikilink")、アニメ版では[携帯のゲーム](https://ja.wikipedia.org/wiki/携帯電話ゲーム "wikilink")）となっている。
+この短編のみ王子が作中で描いた漫画（[劇中劇](../Page/劇中劇.md "wikilink")、アニメ版では[携帯のゲーム](../Page/携帯電話ゲーム.md "wikilink")）となっている。
 
 ### 原色戦隊カラーレンジャー編
 
@@ -59,7 +59,7 @@
 
 ### 高校野球地区予選編
 
-[夏の高校野球の](https://ja.wikipedia.org/wiki/全国高等学校野球選手権大会 "wikilink")[山形県](https://ja.wikipedia.org/wiki/山形県 "wikilink")予選。あと一勝で[甲子園という所まで進んだ雪隆たち如月高校野球部だったが](https://ja.wikipedia.org/wiki/阪神甲子園球場 "wikilink")、勝ち進むに従って突然部室の窓ガラスが割れるなど[ポルターガイスト現象](https://ja.wikipedia.org/wiki/ポルターガイスト現象 "wikilink")が頻繁に起こるという問題も抱えていた。それについて様々な推測をしながらも、目の前に迫った甲子園への興奮もあり、それ程問題にもしなかった雪隆たちだが、県予選決勝の日、突然今までで最大の怪奇現象に見舞われる。雪隆達の応援に行く途中、偶然その怪異を目撃したディスクン星人のラファティの知らせで事件を知ったクラフト達は、救出方法を模索する。
+[夏の高校野球の](https://ja.wikipedia.org/wiki/全国高等学校野球選手権大会 "wikilink")[山形県](../Page/山形県.md "wikilink")予選。あと一勝で[甲子園という所まで進んだ雪隆たち如月高校野球部だったが](https://ja.wikipedia.org/wiki/阪神甲子園球場 "wikilink")、勝ち進むに従って突然部室の窓ガラスが割れるなど[ポルターガイスト現象](../Page/ポルターガイスト現象.md "wikilink")が頻繁に起こるという問題も抱えていた。それについて様々な推測をしながらも、目の前に迫った甲子園への興奮もあり、それ程問題にもしなかった雪隆たちだが、県予選決勝の日、突然今までで最大の怪奇現象に見舞われる。雪隆達の応援に行く途中、偶然その怪異を目撃したディスクン星人のラファティの知らせで事件を知ったクラフト達は、救出方法を模索する。
 
 ### 原色戦隊カラーレンジャー・人魚編
 
@@ -77,26 +77,26 @@
 
 ### ドグラ星人・マグラ星人
 
-バカ王子の故郷であるドグラ星とその衛星であるマグラ星の人間。ドグラ星とマグラ星の間には古くからの支配従属的な因習が残っており、マグラ星の無血革命での解放を目指すマグラ同盟という結社が存在する。名前の由来は[夢野久作](../Page/夢野久作.md "wikilink")の小説「[ドグラ・マグラ](https://ja.wikipedia.org/wiki/ドグラ・マグラ "wikilink")」から。
+バカ王子の故郷であるドグラ星とその衛星であるマグラ星の人間。ドグラ星とマグラ星の間には古くからの支配従属的な因習が残っており、マグラ星の無血革命での解放を目指すマグラ同盟という結社が存在する。名前の由来は[夢野久作](../Page/夢野久作.md "wikilink")の小説「[ドグラ・マグラ](../Page/ドグラ・マグラ.md "wikilink")」から。
 
   - バカ王子（バカ＝キ＝エル・ドグラ）
-    [声](../Page/声優.md "wikilink") - [浪川大輔](https://ja.wikipedia.org/wiki/浪川大輔 "wikilink") / 子供時代 - [高倉有加](https://ja.wikipedia.org/wiki/高倉有加 "wikilink")
+    [声](../Page/声優.md "wikilink") - [浪川大輔](../Page/浪川大輔.md "wikilink") / 子供時代 - [高倉有加](https://ja.wikipedia.org/wiki/高倉有加 "wikilink")
     ドグラ星第1王子。全宇宙規模の会議へと参加するための移動中に地球に飛来。宇宙一とも称される天才的な頭脳を持つが、同時にその性格の悪さも比類なきものであり、人が真剣に悩んだり苦しんだりする姿を見るのが趣味で、「民衆の支持を下げずにいかに苦しめるか」といった意地悪にばかり能力を浪費している。自分が楽しむためには他人の迷惑など一切考えないが、生命には一切の危険が及ばないように配慮はしている(むしろ生命に危険があるほうが本人も楽しめる時間が減る)。多くの人や物を巻き込んでスケールの大きい悪戯を決行する割には、うかつなところがあり、それが原因で事態が思わぬ方向に進むことも。かなりの日本びいき。
     作中では一貫して「バカ王子」と呼ばれていたが、最終巻でそれが本名だったことが明らかになる。「原色戦隊カラーレンジャー・人魚編」以外の全編に登場し、ほぼ全てのエピソードで重要な役を担う。
   - クラフト隊長
     声 - [子安武人](../Page/子安武人.md "wikilink")
     ドグラ星王立護衛軍隊隊長で、王子護衛歴10年。生真面目そのものの実直な性格で、王子の悪巧みに対しいつも真っ向から諫言するが、そのために王子にオモチャにされ様々な嫌がらせを受けており、キレやすくなっている。王子に反撃を度々狙っているが、部下2人からは「悪人になれない」と評されている。ジンクスを気にするタイプ。「原色戦隊カラーレンジャー・人魚編」以外の全編に登場。
   - サド隊員
-    声 - [高塚正也](https://ja.wikipedia.org/wiki/高塚正也 "wikilink")
+    声 - [高塚正也](../Page/高塚正也.md "wikilink")
     王子護衛歴5年。冷静で理知的な性格。生態学者でもあるため、異星人の生態などの説明役を担うことが多い。ドグラ王・王妃への忠誠心から護衛を続けており、王子の性格の悪さについてはもはや諦めている模様。王子の奇行やいたずらで奈落の底に沈むクラフト隊長を慰め励ますという重要任務も担う。「原色戦隊カラーレンジャー・人魚編」以外の全編に登場。
   - コリン隊員
     声 - [朝比奈拓見](https://ja.wikipedia.org/wiki/朝比奈拓見 "wikilink")
     王子護衛歴1年。他の2人に比べると常識人で、その分影が薄い。ミーハーなところがあり、密かにある計画に加担していた。「原色戦隊カラーレンジャー・人魚編」以外の全編に登場。
   - モハン＝キ＝エト・ドグラ
-    声 - [日野聡](https://ja.wikipedia.org/wiki/日野聡 "wikilink")
+    声 - [日野聡](../Page/日野聡.md "wikilink")
     バカ王子の弟でドグラ星第2王子。兄と違って一本気で実直、民の信望も厚く、兄と違った意味での行動力も兼ね備えており、模範的指導者の様相を見せるが、どこか非常識な部分もある。兄を含めて国民のほとんどが彼に王になって欲しいと思っているが、本人は自分の役目は王となる兄を支えることと信じて疑わない。「バカ王子・結婚編」に登場。
   - ルナ＝ミ＝マド・マグラ
-    声 - [中川翔子](https://ja.wikipedia.org/wiki/中川翔子 "wikilink")
+    声 - [中川翔子](../Page/中川翔子.md "wikilink")
     マグラ星の第1王女。生まれる前からバカ王子の許嫁として運命付けられており、そのことを至上の喜びと考えている。結婚を避けようとしたバカ王子を相手に頭脳戦で完全勝利を収め、結婚に持ちこんだ。描かれている限りバカ王子との頭脳戦に勝利した唯一の存在。結婚後もバカ王子と2人で様々な[武勇伝](https://ja.wikipedia.org/wiki/武勇伝 "wikilink")を打ち立てたようである。「バカ王子・結婚編」、「バカ王・ハネムーン編」に登場。
   - カナ
     バカ王子とルナの娘。両親に似て非常に活発で理知的な性格のようで、おとなしく留守番すること自体がありえない。「バカ王・ハネムーン編」に後姿だけ登場。
@@ -104,31 +104,31 @@
 ### 地球人
 
   - 筒井 雪隆（つつい ゆきたか）
-    声 - [細谷佳正](https://ja.wikipedia.org/wiki/細谷佳正 "wikilink")
-    将来を有望視されている高校球児。突如、住み着いてきた王子に、いつもおちょくられている。すぐ頭に血が上る性格でその言動や気性の荒さからチンピラ扱いされている。中学高校と野球部所属で、中学時代は補欠ながらも全国優勝経験があり、高校1年で[レフトで](https://ja.wikipedia.org/wiki/左翼手 "wikilink")7番のレギュラーを獲得、2年で5番とクリンナップの一翼を担うまでに成長している。通称「如月高の核弾頭」。「食人鬼編」・「マクバク族サキ王女・ムコ探し編」・「原色戦隊カラーレンジャー・人魚編」以外に登場。アニメでは「食人鬼編」にも登場している。
+    声 - [細谷佳正](../Page/細谷佳正.md "wikilink")
+    将来を有望視されている高校球児。突如、住み着いてきた王子に、いつもおちょくられている。すぐ頭に血が上る性格でその言動や気性の荒さからチンピラ扱いされている。中学高校と野球部所属で、中学時代は補欠ながらも全国優勝経験があり、高校1年で[レフトで](../Page/左翼手.md "wikilink")7番のレギュラーを獲得、2年で5番とクリンナップの一翼を担うまでに成長している。通称「如月高の核弾頭」。「食人鬼編」・「マクバク族サキ王女・ムコ探し編」・「原色戦隊カラーレンジャー・人魚編」以外に登場。アニメでは「食人鬼編」にも登場している。
   - 江戸川 美歩（えどがわ みほ）
-    声 - [明坂聡美](https://ja.wikipedia.org/wiki/明坂聡美 "wikilink")
+    声 - [明坂聡美](../Page/明坂聡美.md "wikilink")
     雪隆の隣の部屋の住人で同級生。科学者の娘。アクティブかつアグレッシヴな性格から騒動に巻き込まれる（というより自ら巻き込まれた）。オカルトや超常現象などの分野に詳しい。「食人鬼編」・「マクバク族サキ王女・ムコ探し編」・「原色戦隊カラーレンジャー・人魚編」以外に登場。
   - 江戸川 蘭蔵（えどがわ らんぞう）
-    声 - [高塚正也](https://ja.wikipedia.org/wiki/高塚正也 "wikilink")
+    声 - [高塚正也](../Page/高塚正也.md "wikilink")
     [工学博士](https://ja.wikipedia.org/wiki/工学博士 "wikilink")。美歩の父。見た目は頑固オヤジだが、バカ王子の悪巧みに自ら手を貸す程度にはノリの良い性格をしている。「バカ王子・地球襲来編」に登場。
   - 悪ガキ4人組
     男子中学生の4人組。林間学校の最中、中学の同級生がおなじ学校の何者かに喰われるところを見てしまったがために事件に巻き込まれる。「食人鬼編」に登場。
       - 板倉（いたくら）
-        声 - [佐々木望](https://ja.wikipedia.org/wiki/佐々木望 "wikilink")
+        声 - [佐々木望](../Page/佐々木望.md "wikilink")
         髪は茶髪。本編の主役でモノローグ役も勤める、4人組のリーダー的存在。
       - 東尾（ひがしお）
-        声 - [興津和幸](https://ja.wikipedia.org/wiki/興津和幸 "wikilink")
+        声 - [興津和幸](../Page/興津和幸.md "wikilink")
         髪は長髪。クールで探求心が強い、つきあっている彼女がいる。
       - 野崎（のざき）
-        声 - [秋吉徹](https://ja.wikipedia.org/wiki/秋吉徹 "wikilink")
+        声 - [秋吉徹](../Page/秋吉徹.md "wikilink")
         髪は短髪。臆病で、犯人の影に常におびえている。
       - 山田（やまだ）
         声 - [倉富亮](https://ja.wikipedia.org/wiki/倉富亮 "wikilink")
         髪は真中分け。
   - 安田（やすだ）
     板倉達と同じ学校に通う女子中学生。林間学校の最中に山本の犠牲となる。「食人鬼編」に登場。
-    アニメ版では「[尋ね人](https://ja.wikipedia.org/wiki/行方不明 "wikilink")」のポスターが出る。フルネームは「安田みさこ」。
+    アニメ版では「[尋ね人](../Page/行方不明.md "wikilink")」のポスターが出る。フルネームは「安田みさこ」。
   - 安田の親友
     声 - [松嵜麗](https://ja.wikipedia.org/wiki/松嵜麗 "wikilink")
     安田の親友の女子中学生。山本に安田の消息をエサに呼び出されて、捕食される。
@@ -139,7 +139,7 @@
   - 坂本 奄悟（さかもと あんご）
     板倉達が慕う、風貌・人脈などがかなり怪しい人物。「食人鬼編」に登場。
   - 夢野 九四郎（ゆめの きゅうしろう）
-    声 - [木下浩之](https://ja.wikipedia.org/wiki/木下浩之 "wikilink")
+    声 - [木下浩之](../Page/木下浩之.md "wikilink")
     YUMENOメンタルクリニックの院長。奄悟が板倉達に紹介した怪しい精神科医。裏の顔は宇宙人・UMA事件の専門探偵。
     板倉達に高額な調査費用を提示する。雇っている受付嬢は､精神的に「危ねー女」｡「食人鬼編」に登場。
   - 幹久 今日子（みきひさ きょうこ）
@@ -150,27 +150,27 @@
 
 バカ王子が暇つぶしに考えた悪ふざけで無理やり結成させられた小学生5人からなる正義のヒーロー戦隊。
 
-腕輪を装備した状態で「○○チャージ」（○○はそれぞれに対応した色）と叫ぶことにより声の大きさに応じた時間だけカラーレンジャーに変身できる。[原色](https://ja.wikipedia.org/wiki/原色 "wikilink")戦隊の名前にあるように、それぞれ割り当てられた色ごとに特有の技を使うことができ、レベルが上がる毎に新たな能力が使える様になる。
+腕輪を装備した状態で「○○チャージ」（○○はそれぞれに対応した色）と叫ぶことにより声の大きさに応じた時間だけカラーレンジャーに変身できる。[原色](../Page/原色.md "wikilink")戦隊の名前にあるように、それぞれ割り当てられた色ごとに特有の技を使うことができ、レベルが上がる毎に新たな能力が使える様になる。
 
-『[RPGツクール](https://ja.wikipedia.org/wiki/RPGツクール "wikilink")』を[モチーフ](https://ja.wikipedia.org/wiki/モチーフ "wikilink")とした世界観を構築しているため、基本的には一般的な[RPGのシステムを踏襲しているが経験値は存在せず](../Page/コンピュータRPG.md "wikilink")、変身時間に応じてレベルが上がるため変身時間が経験値に相当する。なお、腕輪を装備している時はバカ王子が直接脳に語りかけることができ、逆に王子は装備者の周りの音を聞ける。レベル5くらいから徐々に実戦向な能力を覚えだし、また、それぞれの色が力を合わせることで違う色の力を使うこともできる（例・白と黒で灰色、退廃の力を使える）。
+『[RPGツクール](../Page/RPGツクール.md "wikilink")』を[モチーフ](https://ja.wikipedia.org/wiki/モチーフ "wikilink")とした世界観を構築しているため、基本的には一般的な[RPGのシステムを踏襲しているが経験値は存在せず](../Page/コンピュータRPG.md "wikilink")、変身時間に応じてレベルが上がるため変身時間が経験値に相当する。なお、腕輪を装備している時はバカ王子が直接脳に語りかけることができ、逆に王子は装備者の周りの音を聞ける。レベル5くらいから徐々に実戦向な能力を覚えだし、また、それぞれの色が力を合わせることで違う色の力を使うこともできる（例・白と黒で灰色、退廃の力を使える）。
 
 レベル100までは、レベルを1つ上げるのに約30分かかる。レベル100以降はレベルアップの時間が短縮されるかわりに、新しい魔法を覚えるのが10レベルごとになる。高度な魔法ほど唱えにくい。MPの消費量は魔法のレベルと同じで、レベル1の魔法はMPを1消費し、レベル3の魔法ならMPを3消費する。つまりレベル15の戦士はレベル2の魔法を7回、レベル1の魔法なら15回使えることになる。MPはしっかり睡眠をとることで回復する。
 
 「原色戦隊カラーレンジャー編」、「原色戦隊カラーレンジャー・人魚編」に登場。アニメでは「バカ王子・襲来編」、「バカ王子・結婚編」にも登場する。
 
   - 清水 良樹（しみず よしき）
-    声 - [金田アキ](https://ja.wikipedia.org/wiki/金田アキ "wikilink")
+    声 - [金田アキ](../Page/金田アキ.md "wikilink")
     青の戦士。水の力。共に[空手](https://ja.wikipedia.org/wiki/空手 "wikilink")を習っている横田とは仲がいいが、喧嘩をすることも多い。正直であっけらかんとした性格で、糸井理奈が好きなことを他の4人の前で公言している。作品内では彼が中心的役割で、常にみなの先頭に立つ。
     アニメ版では部屋の[表札](https://ja.wikipedia.org/wiki/表札 "wikilink")に「YO**SI**KI」と書かれていることを確認できる。
   - 赤川 太陽（あかがわ たいよう）
-    声 - [笹島かほる](https://ja.wikipedia.org/wiki/笹島かほる "wikilink")
+    声 - [笹島かほる](../Page/笹島かほる.md "wikilink")
     赤の戦士。炎の力。唯一ヒーローをやることに乗り気な少年。眼鏡の学級委員長で普段は生真面目だが、キレると何をするか分からないタイプ。いつも他の4人から何かとイヤなことを押し付けられるために、リーダーに就任（実際は清水が取り仕切ることが多い）。
   - 横田 国光（よこた くにみつ）
-    声 - [金谷ヒデユキ](https://ja.wikipedia.org/wiki/金谷ヒデユキ "wikilink")
+    声 - [金谷ヒデユキ](../Page/金谷ヒデユキ.md "wikilink")
     黄の戦士。光の力。清水と一緒に空手を習っており、気の合う喧嘩友達でもある。小学生なのに口ヒゲがあり、その立派な体格や顔、髪型もあいまって非常におっさんっぽいが、好きな女の子の名前は胸に秘めておきたいナイーブな一面も見せる。
   - 百池 治（ももち おさむ）
-    声 - [大原桃子](https://ja.wikipedia.org/wiki/大原桃子 "wikilink")
-    白の戦士。癒しの力。[プレイボーイ](https://ja.wikipedia.org/wiki/プレイボーイ "wikilink")で好きな女の子（本人談）が60人以上にのぼる。好みのタイプは「原色戦隊カラーレンジャー・人魚編」に登場した人魚のような性格の女性であるらしい。家は大金持ちで、祖父は5人の通う小学校の理事長。5000万くらいなら動かせるらしい。
+    声 - [大原桃子](../Page/大原桃子.md "wikilink")
+    白の戦士。癒しの力。[プレイボーイ](../Page/プレイボーイ.md "wikilink")で好きな女の子（本人談）が60人以上にのぼる。好みのタイプは「原色戦隊カラーレンジャー・人魚編」に登場した人魚のような性格の女性であるらしい。家は大金持ちで、祖父は5人の通う小学校の理事長。5000万くらいなら動かせるらしい。
   - 黛 真夜（まゆずみ まよ）
     声 - [高倉有加](https://ja.wikipedia.org/wiki/高倉有加 "wikilink")
     黒の戦士。闇の力。文化系硬派の知的な少年。非常にマイペースで物事に動じることがなく、5人の中でも少し変わった性格だが、それは状況を考察して仲間を導いたり、不可思議な状況を瞬時に受け入れたりと、良い方向に発揮されることが多い。家では頻繁に変身していたらしく、赤川よりもレベルが高い。
@@ -180,38 +180,38 @@
 雪隆の通う高校の野球部。個性派揃いだがチームワークは非常によい。キャプテンの岩田が「このチームで勝てなければ野球のルールの方がおかしい」と豪語するほどの実力をつけてきているが、地元新聞では控え層が薄いとも云われている。甲子園出場をかけた山形地方予選決勝戦当日、ある事件へと巻き込まれる。「高校野球地区予選編」に登場。
 
   - 岩田
-    声 - [名村幸太朗](https://ja.wikipedia.org/wiki/名村幸太朗 "wikilink")
-    野球部キャプテン。ポジション・[ライト](https://ja.wikipedia.org/wiki/右翼手 "wikilink")。性格も風貌も豪快かつ野性的で、如月高校「抱かれたくない男」2年連続堂々のナンバーワンだが、美人マネージャーを彼女に持つので本人は全く気にしていない。「みんなに感謝している」と秘かに涙を流す一面も。実家は硝子店。プロ志望で、希望球団は[阪神](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")。
+    声 - [名村幸太朗](../Page/名村幸太朗.md "wikilink")
+    野球部キャプテン。ポジション・[ライト](../Page/右翼手.md "wikilink")。性格も風貌も豪快かつ野性的で、如月高校「抱かれたくない男」2年連続堂々のナンバーワンだが、美人マネージャーを彼女に持つので本人は全く気にしていない。「みんなに感謝している」と秘かに涙を流す一面も。実家は硝子店。プロ志望で、希望球団は[阪神](../Page/阪神タイガース.md "wikilink")。
   - 江尻
     ポジション・[ピッチャー](../Page/投手.md "wikilink")。プロからも注目されているエース。無類の女好きで、女性の視線が集まればその球速は150キロを超えるらしい。しかし、走り込みが足りないため制球に難があり、後半バテるとも指摘されている。
   - 倉本
     声 - [高橋英則](https://ja.wikipedia.org/wiki/高橋英則 "wikilink")
-    ポジション・[キャッチャー](https://ja.wikipedia.org/wiki/捕手 "wikilink")。男前だが自称ホモのため、女関係はまじめ。野村に怪しい目線を送る。
+    ポジション・[キャッチャー](../Page/捕手.md "wikilink")。男前だが自称ホモのため、女関係はまじめ。野村に怪しい目線を送る。
   - 所沢
-    ポジション・[ファースト](https://ja.wikipedia.org/wiki/一塁手 "wikilink")。人がよさそうな顔だが[隠し玉が得意](https://ja.wikipedia.org/wiki/隠し球 "wikilink")。公式試合では使わないらしい。
+    ポジション・[ファースト](../Page/一塁手.md "wikilink")。人がよさそうな顔だが[隠し玉が得意](../Page/隠し球.md "wikilink")。公式試合では使わないらしい。
   - 佐藤
     声 - [坂巻学](https://ja.wikipedia.org/wiki/坂巻学 "wikilink")
-    ポジション・[セカンド](https://ja.wikipedia.org/wiki/二塁手 "wikilink")。座右の銘「可もなく不可もなく」を実践するかのように、地方予選決勝戦まで１つの三振も失策も無い代わりに、打率は2割そこそこ。
+    ポジション・[セカンド](../Page/二塁手.md "wikilink")。座右の銘「可もなく不可もなく」を実践するかのように、地方予選決勝戦まで１つの三振も失策も無い代わりに、打率は2割そこそこ。
   - 金光
     声 - [山端零](https://ja.wikipedia.org/wiki/山端零 "wikilink")
-    ポジション・[サード](https://ja.wikipedia.org/wiki/三塁手 "wikilink")。チーム一の技巧派。夜型人間のため色白。冷静でクール。
+    ポジション・[サード](../Page/三塁手.md "wikilink")。チーム一の技巧派。夜型人間のため色白。冷静でクール。
   - 寺門
-    ポジション・[ショート](https://ja.wikipedia.org/wiki/遊撃手 "wikilink")。野球歴2年だが、驚異的な練習量でレギュラーになった努力の天才。
+    ポジション・[ショート](../Page/遊撃手.md "wikilink")。野球歴2年だが、驚異的な練習量でレギュラーになった努力の天才。
     おそらく、能力者は彼である。
   - 野村
-    ポジション・[センター](https://ja.wikipedia.org/wiki/中堅手 "wikilink")。唯一の一年生レギュラーで俊足。可愛らしい顔立ちのため、ヤローの隠れファンが増加し、倉本の視線に怯えている。部室で起こるようになったポルターガイストの原因を独自に調べる過程で、この種の現象にある程度詳しくなった。
+    ポジション・[センター](../Page/中堅手.md "wikilink")。唯一の一年生レギュラーで俊足。可愛らしい顔立ちのため、ヤローの隠れファンが増加し、倉本の視線に怯えている。部室で起こるようになったポルターガイストの原因を独自に調べる過程で、この種の現象にある程度詳しくなった。
   - 藤井
     声 - [森谷里美](https://ja.wikipedia.org/wiki/森谷里美 "wikilink")
     野球部[マネージャー](https://ja.wikipedia.org/wiki/マネージャー#学校の部活動のマネージャー "wikilink")。美人だが、なぜかキャプテン岩田にぞっこん。
   - 田中
-    野球部の[控え選手](https://ja.wikipedia.org/wiki/サブメンバー "wikilink")。[甲子園球場で](https://ja.wikipedia.org/wiki/阪神甲子園球場 "wikilink")[巨人阪神戦を観戦したことがあった](https://ja.wikipedia.org/wiki/伝統の一戦 "wikilink")。その際、自分の名前のシールをベンチの下に貼り付ける。
+    野球部の[控え選手](../Page/サブメンバー.md "wikilink")。[甲子園球場で](https://ja.wikipedia.org/wiki/阪神甲子園球場 "wikilink")[巨人阪神戦を観戦したことがあった](../Page/伝統の一戦.md "wikilink")。その際、自分の名前のシールをベンチの下に貼り付ける。
 
 ### ディスクン星人
 
 宇宙有数の戦闘種族。彼らの手にかかって絶滅した宇宙種族は軽く三桁を越える。しかし種族揃って大の野球狂であるため、地球では野球が見られなくなることを恐れて、同じく野球狂であり仇敵であるエラル星人とも共存し大人しくしており、地球はディスクン星人とエラル星人が共存する唯一の星になっている。見た目は地球人とほとんど変わらず、地球の人間社会に普通に溶け込んで生活しており、雪隆達が住む寮の管理人もディスクン星人である。
 
   - 坂本 尽八（さかもと じんぱち）
-    声 - [辻親八](https://ja.wikipedia.org/wiki/辻親八 "wikilink")
+    声 - [辻親八](../Page/辻親八.md "wikilink")
     地球のディスクン星人の長を務める老人。野球選手として将来有望な雪隆の情報を詳しく教えてもらう代わりとして王子のドッキリに加担していた。「バカ王子・地球襲来編」に登場。
   - ラファティ
     声 - 秋吉徹
@@ -238,7 +238,7 @@
 雌のみで構成され、交配し子供を産むのは女王のみ。同種族の雄は一切存在せず、異種族の雄との交配によって繁殖を行う。このマクバク族と交配した種族の雄は種族全体が繁殖能力を失うこととなり、数世代で必ず滅びる。このため彼女達は“異種喰い”と呼ばれ宇宙の中でも恐れられている存在となっている。婿の選び方は本能に従った一目惚れ。女王も交配を行うのは生涯一度だけであり、交配後はその相手の種族の星に住み着く。
 
   - サキ王女
-    声 - [高梁碧](https://ja.wikipedia.org/wiki/高梁碧 "wikilink")
+    声 - [高梁碧](../Page/高梁碧.md "wikilink")
     マクバク族の王女。地球に外交視察という名目で、婿探しにくる。幹久今日子に一目ぼれする。「マクバク族サキ王女・ムコ探し編」に登場。
   - 女王
     マクバク族の現女王。巨大な蜂に似た昆虫のような容姿をしている。サキ同様、ヒト型の種族を好きになり交配したという。
@@ -248,10 +248,10 @@
   - クライブ
     ジャクリンS星の流動生物で、優秀な擬態能力をもつ。王子のペットであるが、本来は飼育禁止の生物。「バカ王子・地球襲来編」、「バカ王・ハネムーン編」に登場。
   - 立花先生
-    声 - [木下紗華](https://ja.wikipedia.org/wiki/木下紗華 "wikilink")
+    声 - [木下紗華](../Page/木下紗華.md "wikilink")
     清水たちのクラス担任を受け持つ教師で、実は宇宙人。本来[爬虫類](../Page/爬虫類.md "wikilink")の様な姿をしているが、屈光シールドを使うことにより人間に変装している。本職は暗殺者で、腕は一流。依頼があれば赤子も殺すと言われているが、実際には実行する気は全く無く赤子殺しの依頼金は高すぎて誰も払えないほどの額にしている(清水達曰く『悪人しか斬らないタイプ』)。夢は教師になること（実現）と宇宙中を旅行すること。暗殺業についている理由は、宇宙旅行の資金集めにもっともてっとり早いと思ったからである。現在、いっそのこと暗殺業を廃業して本気でこのまま教師を続けようかと思案中。また自分の生徒を娯楽目的で危険な目に遭わせるバカ王子を本気で始末しようかとも考えている。教師としては厳しさはあるが、生徒受けはいいらしい。「原色戦隊カラーレンジャー編」、「原色戦隊カラーレンジャー・人魚編」に登場。
   - イイダチ王
-    声 - [名村幸太朗](https://ja.wikipedia.org/wiki/名村幸太朗 "wikilink")
+    声 - [名村幸太朗](../Page/名村幸太朗.md "wikilink")
     ゲーム内の城の王。機械。
   - アパレル姫
     声 - 浪川大輔
@@ -262,7 +262,7 @@
     声 - [吉田聖子](https://ja.wikipedia.org/wiki/吉田聖子 "wikilink")
     魔王軍のボス。唯一特別に改造した人工知能が使われており、王子の手を離れたゲーム世界で実質的な創造主にあたり、自らを改造することも可能。しかし王子の、ゲーム目的のインプットを忘れるプログラムミスのせいで、自らの学習によって非常に善良な性格となってしまい、清水達とも仲良くなる。最終的にはゲームの舞台となった遊戯惑星を、機械模型たちの楽園にしたいと考えており、「親（バカ王子）のような人間にならないように」という決意を忘れないように、王子を幼くしたような外見を取っている。「原色戦隊カラーレンジャー編」に登場。
   - ツインテール＝マーメイド
-    声 - [大原さやか](https://ja.wikipedia.org/wiki/大原さやか "wikilink")
+    声 - [大原さやか](../Page/大原さやか.md "wikilink")
     ウォーキング = フィッシュとも呼ばれるホルン星の人魚。手の指間には水かきがあり、足を人間型・魚型と自在に変化できる能力を持つ。言葉の嘘・本当を音で見抜き、目前で嘘をつかれると本能的に舌で攻撃する性質を持つ。密漁業者達から金稼ぎの道具として利用されそうになるが清水達により助けられ、最後は海へと旅立ち新たなマーメイド仲間と出会いを果たす。また彼女がエピソード冒頭で重役を殺害したことで清水の父親のアメリカ転勤が白紙になったため結果として清水達への恩返しを果たしている。「原色戦隊カラーレンジャー・人魚編」に登場。
   - 革命商社クイーンツ
     金を目的とした誘拐屋。商談が失敗に終わると人質を虐殺し形だけの犯行声明をあげる。バカ王とルナ王妃を誘拐するがバカ王の策略にはまり自滅する。「バカ王・ハネムーン編」に登場。
@@ -271,7 +271,7 @@
 
 ## 舞台
 
-  - [山形](https://ja.wikipedia.org/wiki/山形県 "wikilink")
+  - [山形](../Page/山形県.md "wikilink")
     雪隆の高校がある場所であり、クラフト達も地球滞在の際には山形に住んでいる模様。「バカ王子・地球襲来編」・「高校野球地区予選編」・「バカ王子・結婚編」の舞台。
   - カルバリ星
     王子が遊戯専用惑星を買って造り上げた改造惑星。「原色戦隊カラーレンジャー編」に登場。
@@ -280,15 +280,15 @@
 
 ## テレビアニメ
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")10月23日より開催された「[ジャンプスーパーアニメツアー2010](https://ja.wikipedia.org/wiki/ジャンプフェスタ "wikilink")」にて、テレビアニメ化が発表され、[2011年](../Page/2011年.md "wikilink")1月から4月にかけて[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")ほかにて放送された。全13話。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")10月23日より開催された「[ジャンプスーパーアニメツアー2010](../Page/ジャンプフェスタ.md "wikilink")」にて、テレビアニメ化が発表され、[2011年](../Page/2011年.md "wikilink")1月から4月にかけて[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")ほかにて放送された。全13話。
 
-現代を意識した時代設定となっており、原作発表時にはなかった[薄型テレビ](https://ja.wikipedia.org/wiki/薄型テレビ "wikilink")や多機能携帯電話が作中に登場。原作最終話「Honeymoon...\!」以外のすべてのエピソードが映像化されている。ナレーションは[立木文彦](https://ja.wikipedia.org/wiki/立木文彦 "wikilink")が担当。
+現代を意識した時代設定となっており、原作発表時にはなかった[薄型テレビ](../Page/薄型テレビ.md "wikilink")や多機能携帯電話が作中に登場。原作最終話「Honeymoon...\!」以外のすべてのエピソードが映像化されている。ナレーションは[立木文彦](../Page/立木文彦.md "wikilink")が担当。
 
 ### スタッフ
 
   - 原作 - 冨樫義博（「レベルE」集英社ジャンプコミックス）
   - 監督 - 加藤敏幸
-  - シリーズ構成 - [花田十輝](https://ja.wikipedia.org/wiki/花田十輝 "wikilink")
+  - シリーズ構成 - [花田十輝](../Page/花田十輝.md "wikilink")
   - キャラクターデザイン・総作画監督 - 竹田逸子
   - ビジュアルコンセプト・3Dディレクター - [ソエジマヤスフミ](https://ja.wikipedia.org/wiki/ソエジマヤスフミ "wikilink")
   - 異星人文明デザイン - 小林武人
@@ -299,46 +299,46 @@
   - 撮影監督 - 石黒晴嗣
   - 3Dモデリング - 平将人、小林武人
   - 編集 - 廣瀬清志
-  - 音響監督 - [高桑一](https://ja.wikipedia.org/wiki/高桑一 "wikilink")
+  - 音響監督 - [高桑一](../Page/高桑一.md "wikilink")
   - 音響効果 - 北方将実
-  - 音楽 - [梁邦彦](https://ja.wikipedia.org/wiki/梁邦彦 "wikilink")
+  - 音楽 - [梁邦彦](../Page/梁邦彦.md "wikilink")
   - プロデューサー - 奈良初男、萩野賢、梶田浩司
   - アニメーションプロデューサー - 若松剛
-  - アニメーション制作 - [Studioぴえろ](https://ja.wikipedia.org/wiki/ぴえろ "wikilink")×[david production](https://ja.wikipedia.org/wiki/デイヴィッドプロダクション "wikilink")
+  - アニメーション制作 - [Studioぴえろ](../Page/ぴえろ.md "wikilink")×[david production](https://ja.wikipedia.org/wiki/デイヴィッドプロダクション "wikilink")
   - 製作 - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、Studioぴえろ
 
 ### キャスト
 
-  - ナレーション - [立木文彦](https://ja.wikipedia.org/wiki/立木文彦 "wikilink")
+  - ナレーション - [立木文彦](../Page/立木文彦.md "wikilink")
 
 ### 主題歌
 
   - オープニングテーマ「[コールドフィンガーガール](https://ja.wikipedia.org/wiki/コールドフィンガーガール "wikilink")」
     歌 - [栗山千明](https://ja.wikipedia.org/wiki/栗山千明 "wikilink") / 作詞・作曲 - [浅井健一](https://ja.wikipedia.org/wiki/浅井健一 "wikilink") / 編曲 - [PONTIACS](https://ja.wikipedia.org/wiki/PONTIACS "wikilink")
   - エンディングテーマ「[「夢」〜ムゲンノカナタ〜](https://ja.wikipedia.org/wiki/「夢」〜ムゲンノカナタ〜 "wikilink")」
-    歌 - [ViViD](https://ja.wikipedia.org/wiki/ViViD_\(バンド\) "wikilink") / 作詞 - シン / 作曲 - 零乃 / 編曲 - ViViD・[宅見将典](https://ja.wikipedia.org/wiki/宅見将典 "wikilink")
+    歌 - [ViViD](https://ja.wikipedia.org/wiki/ViViD_\(バンド\) "wikilink") / 作詞 - シン / 作曲 - 零乃 / 編曲 - ViViD・[宅見将典](../Page/宅見将典.md "wikilink")
   - 挿入歌「原色戦隊カラーレンジャーのうた」
     作詞 - 加藤敏幸 / 作曲 - [旭純](https://ja.wikipedia.org/wiki/旭純 "wikilink")
-    歌 - 王子（[浪川大輔](https://ja.wikipedia.org/wiki/浪川大輔 "wikilink")）（第6話使用分）、原色戦隊カラーレンジャー（赤川太陽（[笹島かほる](https://ja.wikipedia.org/wiki/笹島かほる "wikilink")）、清水良樹（[金田アキ](https://ja.wikipedia.org/wiki/金田アキ "wikilink")）、横田国光（[金谷ヒデユキ](https://ja.wikipedia.org/wiki/金谷ヒデユキ "wikilink")）、百地治（[大原桃子](https://ja.wikipedia.org/wiki/大原桃子 "wikilink")）、黛真夜（[高倉有加](https://ja.wikipedia.org/wiki/高倉有加 "wikilink")）（第7話使用分）
+    歌 - 王子（[浪川大輔](../Page/浪川大輔.md "wikilink")）（第6話使用分）、原色戦隊カラーレンジャー（赤川太陽（[笹島かほる](../Page/笹島かほる.md "wikilink")）、清水良樹（[金田アキ](../Page/金田アキ.md "wikilink")）、横田国光（[金谷ヒデユキ](../Page/金谷ヒデユキ.md "wikilink")）、百地治（[大原桃子](../Page/大原桃子.md "wikilink")）、黛真夜（[高倉有加](https://ja.wikipedia.org/wiki/高倉有加 "wikilink")）（第7話使用分）
     使用話数：第6話、第7話
 
 ### 各話リスト
 
-| 話数   | サブタイトル                         | 脚本                                                            | 絵コンテ                                                      | 演出                                                    | 作画監督                                                  | エピソード            |
-| ---- | ------------------------------ | ------------------------------------------------------------- | --------------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- | ---------------- |
-| \#01 | An alien on the planet         | [花田十輝](https://ja.wikipedia.org/wiki/花田十輝 "wikilink")         | 加藤敏幸                                                      | 竹田逸子                                                  | バカ王子・地球襲来編                                            |                  |
-| \#02 | Run after the man              | 加藤敏幸                                                          | 吉沢俊一                                                      | 小林亮                                                   |                                                       |                  |
-| \#03 | Risky Game\!                   | 向井正浩                                                          | 海老原雅夫                                                     |                                                       |                                                       |                  |
-| \#04 | From the DARKNESS              | [ソエジマヤスフミ](https://ja.wikipedia.org/wiki/ソエジマヤスフミ "wikilink") | 食人鬼編                                                      |                                                       |                                                       |                  |
-| \#05 | Here come Color ranger<nowiki> | </nowiki>                                                     | [ふでやすかずゆき](https://ja.wikipedia.org/wiki/筆安一幸 "wikilink") | [中原れい](../Page/中原れい.md "wikilink")\[2\]               | 梅本唯                                                   | 町田真一             |
-| \#06 | Dancing in the trap<nowiki>    | </nowiki>                                                     | [きみやしげる](https://ja.wikipedia.org/wiki/木宮茂 "wikilink")    | かどともあき                                                |                                                       |                  |
-| \#07 | Game over...\!?                | 光田史亮                                                          | 橋本英樹                                                      |                                                       |                                                       |                  |
-| \#08 | You're my darling\!            | [鈴木雅詞](https://ja.wikipedia.org/wiki/鈴木雅詞 "wikilink")         | 市村徹夫                                                      | 小林亮                                                   | マクバク族サキ王女・ムコ探し編                                       |                  |
-| \#09 | Love me tender                 | 西本由紀夫                                                         | 海老原雅夫                                                     |                                                       |                                                       |                  |
-| \#10 | Boy meets girl                 | ふでやすかずゆき                                                      | [大沼心](https://ja.wikipedia.org/wiki/大沼心 "wikilink")       | 平井義通                                                  | [青野厚司](https://ja.wikipedia.org/wiki/青野厚司 "wikilink") | 原色戦隊カラーレンジャー・人魚編 |
-| \#11 | Field of dreams\!              | 鈴木雅詞                                                          | [篠原俊哉](https://ja.wikipedia.org/wiki/篠原俊哉 "wikilink")     | かどともあき                                                | 高校野球地区予選編                                             |                  |
-| \#12 | Half moon...\!                 | 花田十輝                                                          | [島津裕行](https://ja.wikipedia.org/wiki/島津裕行 "wikilink")     | [津田尚克](https://ja.wikipedia.org/wiki/津田尚克 "wikilink") | バカ王子・結婚編                                              |                  |
-| \#13 | Full moon...\!                 | 加藤敏幸                                                          | 小林亮                                                       |                                                       |                                                       |                  |
+| 話数   | サブタイトル                         | 脚本                                                            | 絵コンテ                                                      | 演出                                                    | 作画監督                               | エピソード            |
+| ---- | ------------------------------ | ------------------------------------------------------------- | --------------------------------------------------------- | ----------------------------------------------------- | ---------------------------------- | ---------------- |
+| \#01 | An alien on the planet         | [花田十輝](../Page/花田十輝.md "wikilink")                            | 加藤敏幸                                                      | 竹田逸子                                                  | バカ王子・地球襲来編                         |                  |
+| \#02 | Run after the man              | 加藤敏幸                                                          | 吉沢俊一                                                      | 小林亮                                                   |                                    |                  |
+| \#03 | Risky Game\!                   | 向井正浩                                                          | 海老原雅夫                                                     |                                                       |                                    |                  |
+| \#04 | From the DARKNESS              | [ソエジマヤスフミ](https://ja.wikipedia.org/wiki/ソエジマヤスフミ "wikilink") | 食人鬼編                                                      |                                                       |                                    |                  |
+| \#05 | Here come Color ranger<nowiki> | </nowiki>                                                     | [ふでやすかずゆき](https://ja.wikipedia.org/wiki/筆安一幸 "wikilink") | [中原れい](../Page/中原れい.md "wikilink")\[2\]               | 梅本唯                                | 町田真一             |
+| \#06 | Dancing in the trap<nowiki>    | </nowiki>                                                     | [きみやしげる](https://ja.wikipedia.org/wiki/木宮茂 "wikilink")    | かどともあき                                                |                                    |                  |
+| \#07 | Game over...\!?                | 光田史亮                                                          | 橋本英樹                                                      |                                                       |                                    |                  |
+| \#08 | You're my darling\!            | [鈴木雅詞](https://ja.wikipedia.org/wiki/鈴木雅詞 "wikilink")         | 市村徹夫                                                      | 小林亮                                                   | マクバク族サキ王女・ムコ探し編                    |                  |
+| \#09 | Love me tender                 | 西本由紀夫                                                         | 海老原雅夫                                                     |                                                       |                                    |                  |
+| \#10 | Boy meets girl                 | ふでやすかずゆき                                                      | [大沼心](../Page/大沼心.md "wikilink")                          | 平井義通                                                  | [青野厚司](../Page/青野厚司.md "wikilink") | 原色戦隊カラーレンジャー・人魚編 |
+| \#11 | Field of dreams\!              | 鈴木雅詞                                                          | [篠原俊哉](../Page/篠原俊哉.md "wikilink")                        | かどともあき                                                | 高校野球地区予選編                          |                  |
+| \#12 | Half moon...\!                 | 花田十輝                                                          | [島津裕行](https://ja.wikipedia.org/wiki/島津裕行 "wikilink")     | [津田尚克](https://ja.wikipedia.org/wiki/津田尚克 "wikilink") | バカ王子・結婚編                           |                  |
+| \#13 | Full moon...\!                 | 加藤敏幸                                                          | 小林亮                                                       |                                                       |                                    |                  |
 
 ### 放送局
 
@@ -354,7 +354,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/広域放送" title="wikilink">関東広域圏</a></p></td>
+<td><p><a href="../Page/広域放送.md" title="wikilink">関東広域圏</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a></p></td>
 <td><p><a href="../Page/2011年.md" title="wikilink">2011年</a><a href="../Page/1月10日.md" title="wikilink">1月10日</a> - <a href="../Page/4月4日.md" title="wikilink">4月4日</a></p></td>
 <td><p>月曜 25時30分 - 26時00分[3]</p></td>
@@ -363,38 +363,38 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/愛知県" title="wikilink">愛知県</a></p></td>
 <td><p><a href="../Page/テレビ愛知.md" title="wikilink">テレビ愛知</a></p></td>
-<td><p>2011年<a href="https://ja.wikipedia.org/wiki/1月12日" title="wikilink">1月12日</a> - <a href="../Page/4月6日.md" title="wikilink">4月6日</a></p></td>
+<td><p>2011年<a href="../Page/1月12日.md" title="wikilink">1月12日</a> - <a href="../Page/4月6日.md" title="wikilink">4月6日</a></p></td>
 <td><p>水曜 25時58分 - 26時28分</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/大阪府" title="wikilink">大阪府</a></p></td>
+<td><p><a href="../Page/大阪府.md" title="wikilink">大阪府</a></p></td>
 <td><p><a href="../Page/テレビ大阪.md" title="wikilink">テレビ大阪</a></p></td>
-<td><p>2011年<a href="../Page/1月14日.md" title="wikilink">1月14日</a> - <a href="https://ja.wikipedia.org/wiki/4月8日" title="wikilink">4月8日</a></p></td>
+<td><p>2011年<a href="../Page/1月14日.md" title="wikilink">1月14日</a> - <a href="../Page/4月8日.md" title="wikilink">4月8日</a></p></td>
 <td><p>金曜 26時35分 - 27時05分</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/全国放送" title="wikilink">日本全域</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アニメシアターX" title="wikilink">AT-X</a></p></td>
+<td><p><a href="../Page/全国放送.md" title="wikilink">日本全域</a></p></td>
+<td><p><a href="../Page/アニメシアターX.md" title="wikilink">AT-X</a></p></td>
 <td><p>2011年<a href="https://ja.wikipedia.org/wiki/1月17日" title="wikilink">1月17日</a> - <a href="../Page/4月11日.md" title="wikilink">4月11日</a></p></td>
 <td><p>月曜 11時00分 - 11時30分<br />
 （リピート放送あり）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/衛星放送" title="wikilink">CS放送</a></p></td>
+<td><p><a href="../Page/衛星放送.md" title="wikilink">CS放送</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/滋賀県.md" title="wikilink">滋賀県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/びわ湖放送" title="wikilink">びわ湖放送</a></p></td>
+<td><p><a href="../Page/びわ湖放送.md" title="wikilink">びわ湖放送</a></p></td>
 <td><p>2011年<a href="../Page/1月21日.md" title="wikilink">1月21日</a> - <a href="../Page/4月22日.md" title="wikilink">4月22日</a></p></td>
 <td><p>金曜 26時00分 - 26時30分</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/全国独立放送協議会" title="wikilink">独立UHF局</a></p></td>
+<td><p><a href="../Page/全国独立放送協議会.md" title="wikilink">独立UHF局</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/鹿児島県" title="wikilink">鹿児島県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/鹿児島テレビ放送" title="wikilink">鹿児島テレビ</a></p></td>
+<td><p><a href="../Page/鹿児島県.md" title="wikilink">鹿児島県</a></p></td>
+<td><p><a href="../Page/鹿児島テレビ放送.md" title="wikilink">鹿児島テレビ</a></p></td>
 <td><p>|2011年<a href="../Page/3月10日.md" title="wikilink">3月10日</a> - <a href="../Page/6月3日.md" title="wikilink">6月3日</a></p></td>
 <td><p>木曜 26時10分 - 26時40分</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フジネットワーク" title="wikilink">フジテレビ系列</a></p></td>
+<td><p><a href="../Page/フジネットワーク.md" title="wikilink">フジテレビ系列</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -433,7 +433,7 @@
 
   - [レベルE | アニプレックス](https://www.aniplex.co.jp/level-e/index.html)
 
-  - [「奴は必ずその少し斜め上を行く！」ということでねんどろいど化ｹﾃｰｲ！「ねんどろいど 王子」！｜フィギュアメーカー・グッドスマイルカンパニー勤務 『カホタンブログ』](https://ameblo.jp/gsc-mikatan/entry-10897350108.html) - [グッドスマイルカンパニー](https://ja.wikipedia.org/wiki/グッドスマイルカンパニー "wikilink")から発売された王子の[ねんどろいど](https://ja.wikipedia.org/wiki/ねんどろいど "wikilink")を紹介。
+  - [「奴は必ずその少し斜め上を行く！」ということでねんどろいど化ｹﾃｰｲ！「ねんどろいど 王子」！｜フィギュアメーカー・グッドスマイルカンパニー勤務 『カホタンブログ』](https://ameblo.jp/gsc-mikatan/entry-10897350108.html) - [グッドスマイルカンパニー](../Page/グッドスマイルカンパニー.md "wikilink")から発売された王子の[ねんどろいど](https://ja.wikipedia.org/wiki/ねんどろいど "wikilink")を紹介。
 
 [Category:漫画作品_れ](https://ja.wikipedia.org/wiki/Category:漫画作品_れ "wikilink") [Category:週刊少年ジャンプの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年ジャンプの漫画作品 "wikilink") [Category:SF漫画作品](https://ja.wikipedia.org/wiki/Category:SF漫画作品 "wikilink") [Category:ギャグ漫画](https://ja.wikipedia.org/wiki/Category:ギャグ漫画 "wikilink") [Category:山形県を舞台とした作品](https://ja.wikipedia.org/wiki/Category:山形県を舞台とした作品 "wikilink") [Category:地球外生命体を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:地球外生命体を題材とした漫画作品 "wikilink") [Category:王子を主人公とした漫画作品](https://ja.wikipedia.org/wiki/Category:王子を主人公とした漫画作品 "wikilink") [Category:オムニバス漫画](https://ja.wikipedia.org/wiki/Category:オムニバス漫画 "wikilink") [Category:アニメ作品_れ](https://ja.wikipedia.org/wiki/Category:アニメ作品_れ "wikilink") [Category:2011年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2011年のテレビアニメ "wikilink") [Category:テレビ東京の深夜アニメ](https://ja.wikipedia.org/wiki/Category:テレビ東京の深夜アニメ "wikilink") [Category:ぴえろ](https://ja.wikipedia.org/wiki/Category:ぴえろ "wikilink") [Category:デイヴィッドプロダクション](https://ja.wikipedia.org/wiki/Category:デイヴィッドプロダクション "wikilink") [Category:アニプレックスのアニメ作品](https://ja.wikipedia.org/wiki/Category:アニプレックスのアニメ作品 "wikilink") [Category:ムービックのアニメ作品](https://ja.wikipedia.org/wiki/Category:ムービックのアニメ作品 "wikilink") [Category:ギャグアニメ](https://ja.wikipedia.org/wiki/Category:ギャグアニメ "wikilink") [Category:ジャンプ・コミックスのアニメ作品](https://ja.wikipedia.org/wiki/Category:ジャンプ・コミックスのアニメ作品 "wikilink") [Category:地球外生命体を題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:地球外生命体を題材としたアニメ作品 "wikilink") [Category:王子を主人公としたアニメ作品](https://ja.wikipedia.org/wiki/Category:王子を主人公としたアニメ作品 "wikilink")
 

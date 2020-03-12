@@ -1,15 +1,15 @@
 > この記事は[MS](https://ja.wikipedia.org/wiki/MS)から翻訳されています。
 
 
-**株式会社MSエンタテインメント** (MS Entertainment Inc.) は、日本の[芸能プロダクション](https://ja.wikipedia.org/wiki/芸能プロダクション "wikilink")。本社は[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")。
+**株式会社MSエンタテインメント** (MS Entertainment Inc.) は、日本の[芸能プロダクション](https://ja.wikipedia.org/wiki/芸能プロダクション "wikilink")。本社は[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")。
 
 ## 沿革
 
   - 1969年12月4日　有限会社ミュージカルステーション設立
-    [森山良子](../Page/森山良子.md "wikilink")、[五輪真弓](https://ja.wikipedia.org/wiki/五輪真弓 "wikilink")、[杉田二郎](https://ja.wikipedia.org/wiki/杉田二郎 "wikilink")、[丸山圭子](https://ja.wikipedia.org/wiki/丸山圭子 "wikilink")、北川とみ、川島康子、[本田路津子](https://ja.wikipedia.org/wiki/本田路津子 "wikilink")など数多くのアーティストマネジメント（業務提携を含む）および音楽原盤制作を行い、[加山雄三](https://ja.wikipedia.org/wiki/加山雄三 "wikilink")、[松任谷由実](../Page/松任谷由実.md "wikilink")、[オフコース](https://ja.wikipedia.org/wiki/オフコース "wikilink")、[チューリップ](https://ja.wikipedia.org/wiki/チューリップ_\(バンド\) "wikilink")、[甲斐バンド](https://ja.wikipedia.org/wiki/甲斐バンド "wikilink")、[桃井かおり](../Page/桃井かおり.md "wikilink")　などのコンサート制作を行う。
+    [森山良子](../Page/森山良子.md "wikilink")、[五輪真弓](../Page/五輪真弓.md "wikilink")、[杉田二郎](../Page/杉田二郎.md "wikilink")、[丸山圭子](../Page/丸山圭子.md "wikilink")、北川とみ、川島康子、[本田路津子](../Page/本田路津子.md "wikilink")など数多くのアーティストマネジメント（業務提携を含む）および音楽原盤制作を行い、[加山雄三](https://ja.wikipedia.org/wiki/加山雄三 "wikilink")、[松任谷由実](../Page/松任谷由実.md "wikilink")、[オフコース](https://ja.wikipedia.org/wiki/オフコース "wikilink")、[チューリップ](https://ja.wikipedia.org/wiki/チューリップ_\(バンド\) "wikilink")、[甲斐バンド](../Page/甲斐バンド.md "wikilink")、[桃井かおり](../Page/桃井かおり.md "wikilink")　などのコンサート制作を行う。
   - その後、1980年代には、有限会社ミュージカルステーションより、音響PA部門が株式会社オープンロードとして、舞台制作部門が株式会社オープリーランドとしてそれぞれ分社独立する。
   - 1986年6月　有限会社ミュージカルステーションより、アーティストマネジメント部門が分社独立し、株式会社MSアーティストプロダクツを設立。
-    [小林明子](https://ja.wikipedia.org/wiki/小林明子 "wikilink")、[永井真理子](../Page/永井真理子.md "wikilink")、[DREAMS COME TRUE](../Page/DREAMS_COME_TRUE.md "wikilink")、[辛島美登里](https://ja.wikipedia.org/wiki/辛島美登里 "wikilink")、[To Be Continued](https://ja.wikipedia.org/wiki/To_Be_Continued "wikilink")、[馬渡松子](https://ja.wikipedia.org/wiki/馬渡松子 "wikilink")、[Cocco](https://ja.wikipedia.org/wiki/Cocco "wikilink")など数多くのアーティストマネジメント、プロデュースを行う。
+    [小林明子](../Page/小林明子.md "wikilink")、[永井真理子](../Page/永井真理子.md "wikilink")、[DREAMS COME TRUE](../Page/DREAMS_COME_TRUE.md "wikilink")、[辛島美登里](https://ja.wikipedia.org/wiki/辛島美登里 "wikilink")、[To Be Continued](../Page/To_Be_Continued.md "wikilink")、[馬渡松子](../Page/馬渡松子.md "wikilink")、[Cocco](https://ja.wikipedia.org/wiki/Cocco "wikilink")など数多くのアーティストマネジメント、プロデュースを行う。
   - 1989年　音楽出版社　有限会社ステイゴールドミュージックパブリッシングインク設立。
   - 2005年　有限会社ミュージカルステーションと株式会社MSアーティストプロダクツが合併統合し、社名を現在の『株式会社MSエンタテインメント』に。
 
@@ -30,15 +30,15 @@
   - [ANTENA](https://ja.wikipedia.org/wiki/ANTENA_\(バンド\) "wikilink")
   - [vivid undress](https://ja.wikipedia.org/wiki/vivid_undress "wikilink")
   - [村上ゆき](https://ja.wikipedia.org/wiki/村上ゆき "wikilink")
-  - [島健](https://ja.wikipedia.org/wiki/島健 "wikilink")
-  - [小林明子](https://ja.wikipedia.org/wiki/小林明子 "wikilink")
+  - [島健](../Page/島健.md "wikilink")
+  - [小林明子](../Page/小林明子.md "wikilink")
   - [MOOMIN](https://ja.wikipedia.org/wiki/MOOMIN "wikilink")
-  - [堀込泰行](https://ja.wikipedia.org/wiki/堀込泰行 "wikilink")
-  - [大竹祐季](https://ja.wikipedia.org/wiki/大竹佑季 "wikilink")
+  - [堀込泰行](../Page/堀込泰行.md "wikilink")
+  - [大竹祐季](../Page/大竹佑季.md "wikilink")
 
 ### 俳優
 
-  - [川連廣明](https://ja.wikipedia.org/wiki/川連廣明 "wikilink")
+  - [川連廣明](../Page/川連廣明.md "wikilink")
   - [福場俊策](https://ja.wikipedia.org/wiki/福場俊策 "wikilink")
   - [黒川鮎美](https://ja.wikipedia.org/wiki/黒川鮎美 "wikilink")
   - [河野良祐](https://ja.wikipedia.org/wiki/河野良祐 "wikilink")
@@ -60,9 +60,9 @@
 
   - [Cocco](https://ja.wikipedia.org/wiki/Cocco "wikilink")
   - [DREAMS COME TRUE](../Page/DREAMS_COME_TRUE.md "wikilink")
-  - [新井昭乃](https://ja.wikipedia.org/wiki/新居昭乃 "wikilink")
-  - [五輪真弓](https://ja.wikipedia.org/wiki/五輪真弓 "wikilink")
-  - [小野リサ](https://ja.wikipedia.org/wiki/小野リサ "wikilink")
+  - [新井昭乃](../Page/新居昭乃.md "wikilink")
+  - [五輪真弓](../Page/五輪真弓.md "wikilink")
+  - [小野リサ](../Page/小野リサ.md "wikilink")
   - [辛島美登里](https://ja.wikipedia.org/wiki/辛島美登里 "wikilink")
   - [柴田淳](https://ja.wikipedia.org/wiki/柴田淳 "wikilink")
   - [冨田ラボ](https://ja.wikipedia.org/wiki/冨田ラボ "wikilink")・[冨田恵一](https://ja.wikipedia.org/wiki/冨田恵一 "wikilink")
@@ -71,7 +71,7 @@
   - サラ・オレイン
   - 田中秀典
   - 麻田浩
-  - [せんだみつお](https://ja.wikipedia.org/wiki/せんだみつお "wikilink")
+  - [せんだみつお](../Page/せんだみつお.md "wikilink")
 
 ## 脚注
 

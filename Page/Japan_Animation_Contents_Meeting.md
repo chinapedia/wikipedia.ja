@@ -1,11 +1,11 @@
 > この記事は[Japan Animation Contents Meeting](https://ja.wikipedia.org/wiki/Japan_Animation_Contents_Meeting)から翻訳されています。
 
 
-**Japan Animation Contents Meeting**(ジャパン アニメーション コンテンツ ミーティング)は、[JAPAN国際コンテンツフェスティバル](../Page/JAPAN国際コンテンツフェスティバル.md "wikilink")(COFESTA)の一環として[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")に新設されることとなった[アニメーション](../Page/アニメーション.md "wikilink")の展示会。通称**[JAM](https://ja.wikipedia.org/wiki/JAM "wikilink")**(ジャム)と呼ばれている。
+**Japan Animation Contents Meeting**(ジャパン アニメーション コンテンツ ミーティング)は、[JAPAN国際コンテンツフェスティバル](../Page/JAPAN国際コンテンツフェスティバル.md "wikilink")(COFESTA)の一環として[2007年](../Page/2007年.md "wikilink")に新設されることとなった[アニメーション](../Page/アニメーション.md "wikilink")の展示会。通称**[JAM](../Page/JAM.md "wikilink")**(ジャム)と呼ばれている。
 
 ## 概要
 
-アニメーションの[キャラクター](../Page/キャラクター.md "wikilink")や[ストーリー](https://ja.wikipedia.org/wiki/ストーリー "wikilink")を使用した[商品](../Page/商品.md "wikilink")化等、[ライセンスビジネス](https://ja.wikipedia.org/wiki/ライセンスビジネス "wikilink")の活性化を目的とし開催。キャラクター等を使用した商品[アイディア](https://ja.wikipedia.org/wiki/アイディア "wikilink")、[展覧会](https://ja.wikipedia.org/wiki/展覧会 "wikilink")、[地域活性化](https://ja.wikipedia.org/wiki/地域活性化 "wikilink")プロジェクト、[IT関連](../Page/情報技術.md "wikilink")、[キャラ弁](https://ja.wikipedia.org/wiki/キャラ弁 "wikilink")(キャラクター弁当)や[クリエイター](https://ja.wikipedia.org/wiki/クリエイター "wikilink")によるキャラクターの新[表現](https://ja.wikipedia.org/wiki/表現 "wikilink")など幅広いジャンルの[企画](https://ja.wikipedia.org/wiki/企画 "wikilink")が公募され、展示される。**アニメ・チャレンジオーディション**と、**アニメ・ビジネスショーケース**が展示会の柱となっている。
+アニメーションの[キャラクター](../Page/キャラクター.md "wikilink")や[ストーリー](https://ja.wikipedia.org/wiki/ストーリー "wikilink")を使用した[商品](../Page/商品.md "wikilink")化等、[ライセンスビジネス](https://ja.wikipedia.org/wiki/ライセンスビジネス "wikilink")の活性化を目的とし開催。キャラクター等を使用した商品[アイディア](https://ja.wikipedia.org/wiki/アイディア "wikilink")、[展覧会](../Page/展覧会.md "wikilink")、[地域活性化](https://ja.wikipedia.org/wiki/地域活性化 "wikilink")プロジェクト、[IT関連](../Page/情報技術.md "wikilink")、[キャラ弁](../Page/キャラ弁.md "wikilink")(キャラクター弁当)や[クリエイター](https://ja.wikipedia.org/wiki/クリエイター "wikilink")によるキャラクターの新[表現](https://ja.wikipedia.org/wiki/表現 "wikilink")など幅広いジャンルの[企画](https://ja.wikipedia.org/wiki/企画 "wikilink")が公募され、展示される。**アニメ・チャレンジオーディション**と、**アニメ・ビジネスショーケース**が展示会の柱となっている。
 
 ## 詳細
 
@@ -28,16 +28,16 @@
 ## 主催・協力
 
   - 主催
-      - [中間法人](../Page/中間法人.md "wikilink")[日本動画協会](https://ja.wikipedia.org/wiki/日本動画協会 "wikilink")(AJA)
+      - [中間法人](../Page/中間法人.md "wikilink")[日本動画協会](../Page/日本動画協会.md "wikilink")(AJA)
       - [経済産業省](../Page/経済産業省.md "wikilink")(METI)
   - 協力
       - [社団法人](../Page/社団法人.md "wikilink")[日本イベント産業振興協会](https://ja.wikipedia.org/wiki/日本イベント産業振興協会 "wikilink")(JACE)
 
 ## JAM2007
 
-  - 会期 : [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")10月4日〜10月7日（10月4日、5日はビジネスデー）
+  - 会期 : [2007年](../Page/2007年.md "wikilink")10月4日〜10月7日（10月4日、5日はビジネスデー）
   - 時間 :10:00〜17:00
-  - 会場 : [秋葉原UDX](https://ja.wikipedia.org/wiki/秋葉原UDX "wikilink")2階 [AKIBA SQUARE](https://ja.wikipedia.org/wiki/AKIBA_SQUARE "wikilink")(アキバ・スクエア) ほか（東京都千代田区外神田)
+  - 会場 : [秋葉原UDX](../Page/秋葉原UDX.md "wikilink")2階 [AKIBA SQUARE](https://ja.wikipedia.org/wiki/AKIBA_SQUARE "wikilink")(アキバ・スクエア) ほか（東京都千代田区外神田)
   - 入場料 :'''無料 '''
 
 ## 外部リンク

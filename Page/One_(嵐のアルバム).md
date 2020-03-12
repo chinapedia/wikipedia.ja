@@ -1,7 +1,7 @@
 > この記事は[One \(\)](https://ja.wikipedia.org/wiki/One_\(\))から翻訳されています。
 
 
-『**One**』（ワン）は、[嵐の](https://ja.wikipedia.org/wiki/嵐_\(グループ\) "wikilink")5枚目のオリジナル[アルバム](../Page/アルバム.md "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月3日](../Page/8月3日.md "wikilink")に[J Stormから発売された](https://ja.wikipedia.org/wiki/ジェイ・ストーム "wikilink")。
+『**One**』（ワン）は、[嵐の](../Page/嵐_\(グループ\).md "wikilink")5枚目のオリジナル[アルバム](../Page/アルバム.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[8月3日](../Page/8月3日.md "wikilink")に[J Stormから発売された](../Page/ジェイ・ストーム.md "wikilink")。
 
 ## 解説
 
@@ -9,7 +9,7 @@
 
 初回生産限定盤と通常盤の2種類で発売。
 
-初回生産限定盤にはDVDを付属。通常盤には[ボーナス・トラック](https://ja.wikipedia.org/wiki/ボーナス・トラック "wikilink")「風見鶏」が収録されている。
+初回生産限定盤にはDVDを付属。通常盤には[ボーナス・トラック](../Page/ボーナス・トラック.md "wikilink")「風見鶏」が収録されている。
 
 自身のアルバムとして初めてメンバーのソロナンバーが収録された。
 
@@ -34,27 +34,27 @@
 4.  **Lai-Lai-Lai**［3:46］
       -
         作詞：SPIN、作曲：[磯崎健史](https://ja.wikipedia.org/wiki/磯崎健史 "wikilink")、編曲：ha-j，吉岡たく
-        [テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")系「[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")」（2005年8月5日放送）で披露された。
+        [テレビ朝日](../Page/テレビ朝日.md "wikilink")系「[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")」（2005年8月5日放送）で披露された。
 5.  **Days**［3:41］
       -
         作詞：北川暁、作曲：[宮﨑歩](https://ja.wikipedia.org/wiki/宮﨑歩 "wikilink")、編曲：長岡成貢
 6.  **素晴らしき世界**［4:14］
       -
-        作詞：[オーノカズナリ](https://ja.wikipedia.org/wiki/オーノカズナリ "wikilink")，SPIN、Rap詞：櫻井翔、作曲：[松下典由](https://ja.wikipedia.org/wiki/松下典由 "wikilink")、編曲：石塚知生
+        作詞：[オーノカズナリ](../Page/オーノカズナリ.md "wikilink")，SPIN、Rap詞：櫻井翔、作曲：[松下典由](https://ja.wikipedia.org/wiki/松下典由 "wikilink")、編曲：石塚知生
     <!-- end list -->
       - 本作のリードトラック
       - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")『[まごまご嵐](https://ja.wikipedia.org/wiki/まごまご嵐 "wikilink")』エンディング・テーマ
     <!-- end list -->
       -
-        作詞者のオーノカズナリは[大野智](https://ja.wikipedia.org/wiki/大野智 "wikilink")と[二宮和也](https://ja.wikipedia.org/wiki/二宮和也 "wikilink")とは全く関係がない。
+        作詞者のオーノカズナリは[大野智](https://ja.wikipedia.org/wiki/大野智 "wikilink")と[二宮和也](../Page/二宮和也.md "wikilink")とは全く関係がない。
         もともとシングルとして発売するはずの曲だったが、諸事情によりアルバムのトラックになった。PVもつくられたが、お蔵入りした。
         3rdベストアルバム初回限定盤特典CDにも収録されている。
-7.  **[サクラ咲ケ](https://ja.wikipedia.org/wiki/サクラ咲ケ "wikilink")**［4:20］
+7.  **[サクラ咲ケ](../Page/サクラ咲ケ.md "wikilink")**［4:20］
       -
         作詞：相田毅、Rap詞：櫻井翔、作曲：谷本新、編曲：石塚知生
     <!-- end list -->
       - 14thシングル
-      - 櫻井翔出演「[城南予備校](https://ja.wikipedia.org/wiki/城南予備校 "wikilink")」CMソング
+      - 櫻井翔出演「[城南予備校](../Page/城南予備校.md "wikilink")」CMソング
 8.  **Rain**［3:31］- [大野智](https://ja.wikipedia.org/wiki/大野智 "wikilink")
       -
         作詞：IntoGroove、作曲：Peter Bjorklund，Joel Eriksson、編曲：安部潤
@@ -66,9 +66,9 @@
       -
         作詞：Axel G、作曲：Peter Bjorklund、編曲：ha-j，吉岡たく
         タイトルは「**with me**」の略。
-11. **秘密**［4:42］- [二宮和也](https://ja.wikipedia.org/wiki/二宮和也 "wikilink")
+11. **秘密**［4:42］- [二宮和也](../Page/二宮和也.md "wikilink")
       -
-        作詞・作曲：[磯貝サイモン](https://ja.wikipedia.org/wiki/磯貝サイモン "wikilink")、編曲：石塚知生
+        作詞・作曲：[磯貝サイモン](../Page/磯貝サイモン.md "wikilink")、編曲：石塚知生
 12. **夢でいいから**［4:52］- [櫻井翔](https://ja.wikipedia.org/wiki/櫻井翔 "wikilink")
       -
         作詞：栗原晋太郎，大神正慶、作曲：小田原弘、編曲：安部潤
@@ -102,14 +102,14 @@
 | **Lai-Lai-Lai**                                                                                                                                                                 | CDアルバム                                                                                                                                 |
 | **Days**                                                                                                                                                                        | CDアルバム                                                                                                                                 |
 | **素晴らしき世界**                                                                                                                                                                     | CDアルバム                                                                                                                                 |
-| ライブ映像                                                                                                                                                                           | 『[ARASHIC](https://ja.wikipedia.org/wiki/ARASHIC "wikilink")』〈初回限定盤〉                                                                   |
+| ライブ映像                                                                                                                                                                           | 『[ARASHIC](../Page/ARASHIC.md "wikilink")』〈初回限定盤〉                                                                                      |
 | 『[ARASHI AROUND ASIA 2008 in TOKYO](https://ja.wikipedia.org/wiki/ARASHI_AROUND_ASIA_2008_in_TOKYO "wikilink")』                                                                 |                                                                                                                                        |
 | CDアルバム                                                                                                                                                                          | 『[All the BEST\! 1999-2009](https://ja.wikipedia.org/wiki/All_the_BEST!_1999-2009 "wikilink")』〈初回限定盤〉                                  |
 | ライブ映像                                                                                                                                                                           | 『[ARASHI アラフェス'13 NATIONAL STADIUM 2013](https://ja.wikipedia.org/wiki/ARASHI_アラフェス'13_NATIONAL_STADIUM_2013 "wikilink")』              |
 | **サクラ咲ケ**                                                                                                                                                                       | CDシングル                                                                                                                                 |
-| ビデオ・クリップ                                                                                                                                                                        | 『[サクラ咲ケ](https://ja.wikipedia.org/wiki/サクラ咲ケ "wikilink")』〈初回生産限定盤〉                                                                     |
+| ビデオ・クリップ                                                                                                                                                                        | 『[サクラ咲ケ](../Page/サクラ咲ケ.md "wikilink")』〈初回生産限定盤〉                                                                                        |
 | CDアルバム                                                                                                                                                                          | 『One』                                                                                                                                  |
-| ライブ映像                                                                                                                                                                           | 『[ARASHIC](https://ja.wikipedia.org/wiki/ARASHIC "wikilink")』〈初回限定盤〉                                                                   |
+| ライブ映像                                                                                                                                                                           | 『[ARASHIC](../Page/ARASHIC.md "wikilink")』〈初回限定盤〉                                                                                      |
 | 『[ARASHI AROUND ASIA Thailand-Taiwan-Korea](https://ja.wikipedia.org/wiki/ARASHI_AROUND_ASIA_Thailand-Taiwan-Korea "wikilink")』                                                 |                                                                                                                                        |
 | 『[ARASHI AROUND ASIA+ in DOME](https://ja.wikipedia.org/wiki/ARASHI_AROUND_ASIA+_in_DOME "wikilink")』                                                                           |                                                                                                                                        |
 | 『[SUMMER TOUR 2007 FINAL Time -コトバノチカラ-](https://ja.wikipedia.org/wiki/SUMMER_TOUR_2007_FINAL_Time_-コトバノチカラ- "wikilink")』                                                       |                                                                                                                                        |
@@ -140,7 +140,7 @@
 | 『[ARASHI LIVE TOUR 2016-2017 Are You Happy?](https://ja.wikipedia.org/wiki/ARASHI_LIVE_TOUR_2016-2017_Are_You_Happy? "wikilink")』〈初回限定盤〉                                        |                                                                                                                                        |
 | **夢でいいから**                                                                                                                                                                      | CDアルバム                                                                                                                                 |
 | **Yes? No?**                                                                                                                                                                    | CDアルバム                                                                                                                                 |
-| ライブ映像                                                                                                                                                                           | 『[ARASHIC](https://ja.wikipedia.org/wiki/ARASHIC "wikilink")』〈初回限定盤〉                                                                   |
+| ライブ映像                                                                                                                                                                           | 『[ARASHIC](../Page/ARASHIC.md "wikilink")』〈初回限定盤〉                                                                                      |
 | 『[ARASHI AROUND ASIA Thailand-Taiwan-Korea](https://ja.wikipedia.org/wiki/ARASHI_AROUND_ASIA_Thailand-Taiwan-Korea "wikilink")』                                                 |                                                                                                                                        |
 | 『[SUMMER TOUR 2007 FINAL Time -コトバノチカラ-](https://ja.wikipedia.org/wiki/SUMMER_TOUR_2007_FINAL_Time_-コトバノチカラ- "wikilink")』                                                       |                                                                                                                                        |
 | CDアルバム                                                                                                                                                                          | 『[All the BEST\! 1999-2009](https://ja.wikipedia.org/wiki/All_the_BEST!_1999-2009 "wikilink")』〈初回限定盤〉                                  |

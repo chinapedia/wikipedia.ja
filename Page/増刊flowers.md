@@ -5,7 +5,7 @@
 
 ## 概要
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")6月、同社の『[月刊フラワーズ](https://ja.wikipedia.org/wiki/月刊フラワーズ "wikilink")』の増刊として『**凛花**』（りんか、年3回刊）の名で創刊された。[2012年](../Page/2012年.md "wikilink")6月14日に発売された第16号をもって休刊となったが、同年11月14日に『増刊flowers』と名を改めて新装刊された\[1\]。創刊号は『増刊flowers』2012年冬号（2012年12月号）となる。
+[2007年](../Page/2007年.md "wikilink")6月、同社の『[月刊フラワーズ](../Page/月刊フラワーズ.md "wikilink")』の増刊として『**凛花**』（りんか、年3回刊）の名で創刊された。[2012年](../Page/2012年.md "wikilink")6月14日に発売された第16号をもって休刊となったが、同年11月14日に『増刊flowers』と名を改めて新装刊された\[1\]。創刊号は『増刊flowers』2012年冬号（2012年12月号）となる。
 
 ## 連載作品
 
@@ -23,8 +23,8 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/雨無村役場産業課兼観光係" title="wikilink">雨無村役場産業課兼観光係</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/岩本ナオ" title="wikilink">岩本ナオ</a></p></td>
+<td><p><a href="../Page/雨無村役場産業課兼観光係.md" title="wikilink">雨無村役場産業課兼観光係</a></p></td>
+<td><p><a href="../Page/岩本ナオ.md" title="wikilink">岩本ナオ</a></p></td>
 <td><p>1号〈2007年6月〉</p></td>
 <td><p>9号〈2010年1月〉</p></td>
 <td><p>全9話</p></td>
@@ -38,7 +38,7 @@
 </tr>
 <tr class="odd">
 <td><p>異神変奏</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/近藤ようこ" title="wikilink">近藤ようこ</a></p></td>
+<td><p><a href="../Page/近藤ようこ.md" title="wikilink">近藤ようこ</a></p></td>
 <td><p>11号〈2010年10月〉</p></td>
 <td><p>16号〈2012年6月〉</p></td>
 <td><p>全6話</p></td>
@@ -86,7 +86,7 @@
 <td><p>新増刊へ移行</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/櫻狩り" title="wikilink">櫻狩り</a></p></td>
+<td><p><a href="../Page/櫻狩り.md" title="wikilink">櫻狩り</a></p></td>
 <td><p><a href="../Page/渡瀬悠宇.md" title="wikilink">渡瀬悠宇</a></p></td>
 <td><p>1号</p></td>
 <td><p>9号</p></td>
@@ -94,7 +94,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/子爵ヴァルモン〜危険な関係〜" title="wikilink">子爵ヴァルモン〜危険な関係〜</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/さいとうちほ" title="wikilink">さいとうちほ</a></p></td>
+<td><p><a href="../Page/さいとうちほ.md" title="wikilink">さいとうちほ</a></p></td>
 <td><p>7号〈2009年4月〉</p></td>
 <td><p>14号〈2011年10月〉</p></td>
 <td><p>全8話</p></td>
@@ -114,7 +114,7 @@
 <td><p>全6話</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/しろくまカフェ" title="wikilink">しろくまカフェ エスプレッソ</a></p></td>
+<td><p><a href="../Page/しろくまカフェ.md" title="wikilink">しろくまカフェ エスプレッソ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ヒガアロハ" title="wikilink">ヒガアロハ</a></p></td>
 <td><p>4号</p></td>
 <td><p>15号</p></td>
@@ -129,7 +129,7 @@
 </tr>
 <tr class="even">
 <td><p>ちづかマップ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/衿沢世衣子" title="wikilink">衿沢世衣子</a></p></td>
+<td><p><a href="../Page/衿沢世衣子.md" title="wikilink">衿沢世衣子</a></p></td>
 <td><p>11号</p></td>
 <td><p>16号</p></td>
 <td><p>新増刊へ移行</p></td>
@@ -142,7 +142,7 @@
 <td><p>新増刊へ移行</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/猫mix幻奇譚とらじ" title="wikilink">猫mix幻奇譚とらじ</a></p></td>
+<td><p><a href="../Page/猫mix幻奇譚とらじ.md" title="wikilink">猫mix幻奇譚とらじ</a></p></td>
 <td><p><a href="../Page/田村由美.md" title="wikilink">田村由美</a></p></td>
 <td><p>1号</p></td>
 <td><p>16号</p></td>
@@ -157,14 +157,14 @@
 </tr>
 <tr class="even">
 <td><p>100のしっぽ物語</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/奈知未佐子" title="wikilink">奈知未佐子</a><br />
+<td><p><a href="../Page/奈知未佐子.md" title="wikilink">奈知未佐子</a><br />
 （語り部：石川利昭）</p></td>
 <td><p>9号</p></td>
 <td><p>16号</p></td>
 <td><p>新増刊へ移行</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ふしぎ遊戯_玄武開伝" title="wikilink">ふしぎ遊戯 玄武開伝</a></p></td>
+<td><p><a href="../Page/ふしぎ遊戯_玄武開伝.md" title="wikilink">ふしぎ遊戯 玄武開伝</a></p></td>
 <td><p><a href="../Page/渡瀬悠宇.md" title="wikilink">渡瀬悠宇</a></p></td>
 <td><p>10号</p></td>
 <td><p>16号</p></td>
@@ -179,20 +179,20 @@
 </tr>
 <tr class="odd">
 <td><p>ヤマトナデシコ日和</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/清原なつの" title="wikilink">清原なつの</a></p></td>
+<td><p><a href="../Page/清原なつの.md" title="wikilink">清原なつの</a></p></td>
 <td><p>15号</p></td>
 <td><p>16号</p></td>
 <td><p>新増刊へ移行</p></td>
 </tr>
 <tr class="even">
 <td><p>山猫天使シリーズ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/名香智子" title="wikilink">名香智子</a></p></td>
+<td><p><a href="../Page/名香智子.md" title="wikilink">名香智子</a></p></td>
 <td><p>3号</p></td>
 <td><p>16号</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/依姫綺譚" title="wikilink">依姫綺譚</a></p></td>
+<td><p><a href="../Page/依姫綺譚.md" title="wikilink">依姫綺譚</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/江平洋巳" title="wikilink">江平洋巳</a></p></td>
 <td><p>1号</p></td>
 <td><p>14号</p></td>
@@ -203,21 +203,21 @@
 
 ### 増刊flowers
 
-  - [猫mix幻奇譚とらじ](https://ja.wikipedia.org/wiki/猫mix幻奇譚とらじ "wikilink")（[田村由美](../Page/田村由美.md "wikilink")）2012年冬号 - 連載中
+  - [猫mix幻奇譚とらじ](../Page/猫mix幻奇譚とらじ.md "wikilink")（[田村由美](../Page/田村由美.md "wikilink")）2012年冬号 - 連載中
   - トウカ草紙（[大野潤子](../Page/大野潤子.md "wikilink")）2012年冬号、※創刊号で完結。
-  - [ふしぎ遊戯 玄武開伝](https://ja.wikipedia.org/wiki/ふしぎ遊戯_玄武開伝 "wikilink")（[渡瀬悠宇](../Page/渡瀬悠宇.md "wikilink")）2012年冬号 - 2013年春号
-  - 100のしっぽ物語（[奈知未佐子](https://ja.wikipedia.org/wiki/奈知未佐子 "wikilink")、語り部：石川利昭）2012年冬号 -
+  - [ふしぎ遊戯 玄武開伝](../Page/ふしぎ遊戯_玄武開伝.md "wikilink")（[渡瀬悠宇](../Page/渡瀬悠宇.md "wikilink")）2012年冬号 - 2013年春号
+  - 100のしっぽ物語（[奈知未佐子](../Page/奈知未佐子.md "wikilink")、語り部：石川利昭）2012年冬号 -
   - 花食う乙女（[絹田村子](https://ja.wikipedia.org/wiki/絹田村子 "wikilink")）2012年冬号 -
-  - ヤマトナデシコ日和（[清原なつの](https://ja.wikipedia.org/wiki/清原なつの "wikilink")）2012年冬号 -
+  - ヤマトナデシコ日和（[清原なつの](../Page/清原なつの.md "wikilink")）2012年冬号 -
   - OL☆ロックンロール（[維村米人](https://ja.wikipedia.org/wiki/維村米人 "wikilink")）2012年冬号 -
-  - ちづかマップ（[衿沢世衣子](https://ja.wikipedia.org/wiki/衿沢世衣子 "wikilink")）2012年冬号 -
+  - ちづかマップ（[衿沢世衣子](../Page/衿沢世衣子.md "wikilink")）2012年冬号 -
   - [空挺懐古都市](https://ja.wikipedia.org/wiki/空挺懐古都市 "wikilink")（[石据カチル](https://ja.wikipedia.org/wiki/石据カチル "wikilink")）2012年冬号 - 2015年冬号
   - 逃げても逃げても（[ねむようこ](https://ja.wikipedia.org/wiki/ねむようこ "wikilink")）2012年冬号 -
-  - VSルパン（[さいとうちほ](https://ja.wikipedia.org/wiki/さいとうちほ "wikilink")）2012年冬号 -
+  - VSルパン（[さいとうちほ](../Page/さいとうちほ.md "wikilink")）2012年冬号 -
 
 ## 開始時期不明
 
-  - 朱い雀（[名香智子](https://ja.wikipedia.org/wiki/名香智子 "wikilink")）
+  - 朱い雀（[名香智子](../Page/名香智子.md "wikilink")）
   - うさギョロ\!（[まめもやし](https://ja.wikipedia.org/wiki/まめもやし "wikilink")）
   - おまけの柴子（[室山まゆみ](../Page/室山まゆみ.md "wikilink")）
   - 鎌倉逢魔が刻（大野潤子）

@@ -1,11 +1,11 @@
 > この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
 
 
-**オーランド・パイレーツFC**（）は、[南アフリカ共和国](https://ja.wikipedia.org/wiki/南アフリカ共和国 "wikilink")北東部の都市、[ヨハネスブルグ](https://ja.wikipedia.org/wiki/ヨハネスブルグ "wikilink")の[ソウェト](https://ja.wikipedia.org/wiki/ソウェト "wikilink")・オーランド地区に本拠を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
+**オーランド・パイレーツFC**（）は、[南アフリカ共和国](https://ja.wikipedia.org/wiki/南アフリカ共和国 "wikilink")北東部の都市、[ヨハネスブルグ](../Page/ヨハネスブルグ.md "wikilink")の[ソウェト](../Page/ソウェト.md "wikilink")・オーランド地区に本拠を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
 
 [1937年](../Page/1937年.md "wikilink")に創設された南アフリカ最古のサッカークラブである\[1\]。当初のクラブ名はオーランド・ボーイズ・クラブ (*Orlando Boys Club*) だったが、[1939年](../Page/1939年.md "wikilink")に現在のクラブ名に改められた。愛称はバッカニアーズ（*Buccaneers*, [海賊](../Page/海賊.md "wikilink")）。
 
-1995年には[コートジボワール](../Page/コートジボワール.md "wikilink")の[ASECミモザ](https://ja.wikipedia.org/wiki/ASECミモザ "wikilink")を決勝で降して[アフリカチャンピオンズカップに優勝した](https://ja.wikipedia.org/wiki/CAFチャンピオンズリーグ "wikilink")。
+1995年には[コートジボワール](../Page/コートジボワール.md "wikilink")の[ASECミモザ](../Page/ASECミモザ.md "wikilink")を決勝で降して[アフリカチャンピオンズカップに優勝した](../Page/CAFチャンピオンズリーグ.md "wikilink")。
 
 ## タイトル
 
@@ -56,7 +56,7 @@
 
 ### 国際タイトル
 
-  - **[CAFチャンピオンズリーグ](https://ja.wikipedia.org/wiki/CAFチャンピオンズリーグ "wikilink")：1回**
+  - **[CAFチャンピオンズリーグ](../Page/CAFチャンピオンズリーグ.md "wikilink")：1回**
 
 <!-- end list -->
 
@@ -110,7 +110,7 @@
 
   - [テコ・モディセ](https://ja.wikipedia.org/wiki/テコ・モディセ "wikilink") 2007-2011
 
-  - [ベネディクト・マッカーシー](https://ja.wikipedia.org/wiki/ベネディクト・マッカーシー "wikilink") 2011-2013
+  - [ベネディクト・マッカーシー](../Page/ベネディクト・マッカーシー.md "wikilink") 2011-2013
 
 ## 脚注
 

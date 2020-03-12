@@ -1,7 +1,7 @@
 > この記事は[Carry On my way](https://ja.wikipedia.org/wiki/Carry_On_my_way)から翻訳されています。
 
 
-『**Carry On my way**』（キャリー・オン・マイ・ウェイ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")グループ[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")の3枚目のオリジナル[アルバム](../Page/アルバム.md "wikilink")である。ファーストアルバムから4作連続（ベストアルバムを含む）で[オリコン初登場](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を獲得する大ヒットとなった。
+『**Carry On my way**』（キャリー・オン・マイ・ウェイ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")グループ[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")の3枚目のオリジナル[アルバム](../Page/アルバム.md "wikilink")である。ファーストアルバムから4作連続（ベストアルバムを含む）で[オリコン初登場](../Page/オリコンチャート.md "wikilink")1位を獲得する大ヒットとなった。
 
 ## 解説
 
@@ -13,7 +13,7 @@
 
 ## 収録曲
 
-  - 全曲とも作詞作曲:[伊秩弘将](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink")、編曲:[水島康貴](https://ja.wikipedia.org/wiki/水島康貴 "wikilink")
+  - 全曲とも作詞作曲:[伊秩弘将](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink")、編曲:[水島康貴](../Page/水島康貴.md "wikilink")
 
 <!-- end list -->
 

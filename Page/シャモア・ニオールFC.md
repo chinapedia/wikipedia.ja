@@ -1,13 +1,13 @@
 > この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
 
 
-**シャモア・ニオールテ・フットボール・クルブ**（**Chamois Niortais Football Club**）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[ニオール](https://ja.wikipedia.org/wiki/ニオール "wikilink")の[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。2015-16シーズンは[リーグ・ドゥ](../Page/リーグ・ドゥ.md "wikilink")（2部）に所属。
+**シャモア・ニオールテ・フットボール・クルブ**（**Chamois Niortais Football Club**）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[ニオール](../Page/ニオール.md "wikilink")の[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。2015-16シーズンは[リーグ・ドゥ](../Page/リーグ・ドゥ.md "wikilink")（2部）に所属。
 
 [1925年](../Page/1925年.md "wikilink")、地元のシャモア革（セーム革）工場の所有者シャルル・ボワノによって創設された。クラブエンブレムにはサッカーボールの上に立ったシャモアヤギが描かれている。
 
 1986-87シーズンの[ディビジョン2で](../Page/リーグ・ドゥ.md "wikilink")2位となり、1987-88シーズンにクラブ史上初の[ディビジョン1昇格を果たすが](../Page/リーグ・アン.md "wikilink")、わずか1シーズンで降格した。現在まで国内最上位リーグでプレイしたのはこの1シーズンのみ。
 
-[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")の[リーグカップでは決勝に進出するも](../Page/クープ・ドゥ・ラ・リーグ.md "wikilink")、[スタッド・ランス](https://ja.wikipedia.org/wiki/スタッド・ランス "wikilink")に[PK戦](../Page/PK戦.md "wikilink")の末に敗れて準優勝に終わった。
+[1991年](../Page/1991年.md "wikilink")の[リーグカップでは決勝に進出するも](../Page/クープ・ドゥ・ラ・リーグ.md "wikilink")、[スタッド・ランス](../Page/スタッド・ランス.md "wikilink")に[PK戦](../Page/PK戦.md "wikilink")の末に敗れて準優勝に終わった。
 
 ## タイトル
 
@@ -85,9 +85,9 @@
 
 ## 歴代所属選手
 
-  - [アベディ・ペレ](https://ja.wikipedia.org/wiki/アベディ・ペレ "wikilink") 1986-1987
+  - [アベディ・ペレ](../Page/アベディ・ペレ.md "wikilink") 1986-1987
 
-  - [ペギー・リュインドゥラ](https://ja.wikipedia.org/wiki/ペギー・リュインドゥラ "wikilink") 1997-1998
+  - [ペギー・リュインドゥラ](../Page/ペギー・リュインドゥラ.md "wikilink") 1997-1998
 
   - [ダニエル・クザン](../Page/ダニエル・クザン.md "wikilink") 1998-2000
 

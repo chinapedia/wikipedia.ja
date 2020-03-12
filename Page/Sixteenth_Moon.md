@@ -1,11 +1,11 @@
 > この記事は[Sixteenth Moon](https://ja.wikipedia.org/wiki/Sixteenth_Moon)から翻訳されています。
 
 
-『**Sixteenth Moon**』は、[THE BOOMおよび](https://ja.wikipedia.org/wiki/THE_BOOM "wikilink")[GANGA ZUMBAのボーカリスト](https://ja.wikipedia.org/wiki/GANGA_ZUMBA "wikilink")・[宮沢和史](https://ja.wikipedia.org/wiki/宮沢和史 "wikilink")が[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月18日](../Page/3月18日.md "wikilink")に[東芝EMIより発売した](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")、1stソロアルバムである。
+『**Sixteenth Moon**』は、[THE BOOMおよび](../Page/THE_BOOM.md "wikilink")[GANGA ZUMBAのボーカリスト](../Page/GANGA_ZUMBA.md "wikilink")・[宮沢和史](../Page/宮沢和史.md "wikilink")が[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月18日](../Page/3月18日.md "wikilink")に[東芝EMIより発売した](../Page/EMIミュージック・ジャパン.md "wikilink")、1stソロアルバムである。
 
 宮沢はTHE BOOMの[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")の第2期活動休止時に2枚のソロアルバムを作ることを計画、一枚は「原点回帰」、もう一枚は「今後の方向性」をテーマとしており、このアルバムはTHE BOOMで広げた音楽性から、宮沢自身が音楽活動を行うきっかけとなった英米の音楽に帰属するという「原点回帰」的なアルバムである。
 
-1997年12月、宮沢はレコーディングのために単身渡英。[ロンドン](../Page/ロンドン.md "wikilink")にて、宮沢が昔から大ファンであった[The Policeや](https://ja.wikipedia.org/wiki/ポリス_\(バンド\) "wikilink")[スティングのプロデュースを手がけた](../Page/スティング_\(ミュージシャン\).md "wikilink")[ヒュー・パジャム](https://ja.wikipedia.org/wiki/ヒュー・パジャム "wikilink")のプロデュースによりレコーディングが行われた。レコーディング時のミュージシャンもスティングのサポートメンバーが多く参加しており、味わい深くクオリティの高い作品になっている。
+1997年12月、宮沢はレコーディングのために単身渡英。[ロンドン](../Page/ロンドン.md "wikilink")にて、宮沢が昔から大ファンであった[The Policeや](../Page/ポリス_\(バンド\).md "wikilink")[スティングのプロデュースを手がけた](../Page/スティング_\(ミュージシャン\).md "wikilink")[ヒュー・パジャム](../Page/ヒュー・パジャム.md "wikilink")のプロデュースによりレコーディングが行われた。レコーディング時のミュージシャンもスティングのサポートメンバーが多く参加しており、味わい深くクオリティの高い作品になっている。
 
 レコーディング終了後、宮沢はもう一枚のアルバムのレコーディングのため、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")へ渡る。
 

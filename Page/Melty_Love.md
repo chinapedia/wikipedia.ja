@@ -1,17 +1,17 @@
 > この記事は[Melty Love](https://ja.wikipedia.org/wiki/Melty_Love)から翻訳されています。
 
 
-「**Melty Love**」（メルティ・ラヴ）は[SHAZNA](https://ja.wikipedia.org/wiki/SHAZNA "wikilink")の[メジャー・デビューシングル](https://ja.wikipedia.org/wiki/メジャー・デビュー_\(音楽家\) "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[8月27日](../Page/8月27日.md "wikilink")発売。
+「**Melty Love**」（メルティ・ラヴ）は[SHAZNA](../Page/SHAZNA.md "wikilink")の[メジャー・デビューシングル](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[8月27日](../Page/8月27日.md "wikilink")発売。
 
 ## 概要
 
-[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")系番組『所さんのこれアリなんじゃないの\!?』の[エンディングテーマとなり](https://ja.wikipedia.org/wiki/主題歌 "wikilink")、[オリコンシングルチャートで初登場](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")5位、最高2位を記録した。88万枚を売り上げ\[1\]、SHAZNA最大のヒット曲となった。
+[テレビ朝日](../Page/テレビ朝日.md "wikilink")系番組『所さんのこれアリなんじゃないの\!?』の[エンディングテーマとなり](../Page/主題歌.md "wikilink")、[オリコンシングルチャートで初登場](../Page/オリコンチャート.md "wikilink")5位、最高2位を記録した。88万枚を売り上げ\[1\]、SHAZNA最大のヒット曲となった。
 
 初回限定88888枚がパノラマジャケット仕様となり、特典としてメンバーのプリクラシールが付属された。
 
 [インディーズ](../Page/インディーズ.md "wikilink")時代から唄われている曲で、[アルバム](../Page/アルバム.md "wikilink")に収録されるたびに[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")かつリメイクされている。インディーズでは「Melty Case」「Promise Eve」、メジャーでは「GOLD SUN AND SILVER MOON」「1993 - 2000 OLDIES」にて収録されている。インディーズ時代からの変化は以下の通り。
 
-  - 「**Melty Case**」（1996年）収録・・・CD音源では最も古いバージョン。[イントロ](https://ja.wikipedia.org/wiki/イントロ "wikilink")は[IZAM](https://ja.wikipedia.org/wiki/IZAM "wikilink")の「Melty Love…」という繰り返し、AOIの[アルペジオ](https://ja.wikipedia.org/wiki/アルペジオ "wikilink")から成る。後に再録されたバージョンとは歌詞が所々違う。テンポはメジャーデビュー以降のものに近い。
+  - 「**Melty Case**」（1996年）収録・・・CD音源では最も古いバージョン。[イントロ](https://ja.wikipedia.org/wiki/イントロ "wikilink")は[IZAM](../Page/IZAM.md "wikilink")の「Melty Love…」という繰り返し、AOIの[アルペジオ](https://ja.wikipedia.org/wiki/アルペジオ "wikilink")から成る。後に再録されたバージョンとは歌詞が所々違う。テンポはメジャーデビュー以降のものに近い。
 
 <!-- end list -->
 
@@ -27,7 +27,7 @@
 
 <!-- end list -->
 
-  - 「**1993 - 2000 OLDIES**」（2000年）収録・・・今までのなかでは最もアップテンポ。さらにイントロ部分に長めの[アレンジが加わった](../Page/編曲.md "wikilink")。IZAMの歌い方が変わり、キーも更に高くなった他にAOI、NIYの[ギター](../Page/ギター.md "wikilink")・[ベースの音もそれぞれ大きくなった](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。[サビ](https://ja.wikipedia.org/wiki/サビ "wikilink")やブリッジ部分ではライブ版同様、女性コーラスが本格的になっている。後に「SINGLE BEST SHAZNA\&IZAM」（2007年）にもデビューヴァージョンとともに収録された。
+  - 「**1993 - 2000 OLDIES**」（2000年）収録・・・今までのなかでは最もアップテンポ。さらにイントロ部分に長めの[アレンジが加わった](../Page/編曲.md "wikilink")。IZAMの歌い方が変わり、キーも更に高くなった他にAOI、NIYの[ギター](../Page/ギター.md "wikilink")・[ベースの音もそれぞれ大きくなった](../Page/ベース_\(弦楽器\).md "wikilink")。[サビ](../Page/サビ.md "wikilink")やブリッジ部分ではライブ版同様、女性コーラスが本格的になっている。後に「SINGLE BEST SHAZNA\&IZAM」（2007年）にもデビューヴァージョンとともに収録された。
 
 カップリング曲の「Raspberry Time」は、1996年に発売されたアルバム「Raspberry Time」に収録されている音源の再録音源。こちらも後に「1993 - 2000 OLDIES」にてニューバージョンとして再録された。
 
@@ -40,10 +40,10 @@
 
 1.  **Melty Love**
       -
-        作詞:[IZAM](https://ja.wikipedia.org/wiki/IZAM "wikilink")/作曲:A・O・I
+        作詞:[IZAM](../Page/IZAM.md "wikilink")/作曲:A・O・I
 2.  **Raspberry Time**
       -
-        作詞:[IZAM](https://ja.wikipedia.org/wiki/IZAM "wikilink")/作曲:A・O・I
+        作詞:[IZAM](../Page/IZAM.md "wikilink")/作曲:A・O・I
 3.  **Melty Love(Non Vocal Version)**
 4.  **Raspberry Time(Non Vocal Version)**
 

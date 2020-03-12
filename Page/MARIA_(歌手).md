@@ -1,13 +1,13 @@
 > この記事は[MARIA \(\)](https://ja.wikipedia.org/wiki/MARIA_\(\))から翻訳されています。
 
 
-**MARIA**（マリア）は[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")出身の女性[歌手](../Page/歌手.md "wikilink")である。2002年[キングレコード](../Page/キングレコード.md "wikilink")よりメジャーデビュー。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")からは同じレコード会社に所属していた[中山美穂](https://ja.wikipedia.org/wiki/中山美穂 "wikilink")に数多くの楽曲を提供した。2004年より活動休止。
+**MARIA**（マリア）は[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")出身の女性[歌手](../Page/歌手.md "wikilink")である。2002年[キングレコード](../Page/キングレコード.md "wikilink")よりメジャーデビュー。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")からは同じレコード会社に所属していた[中山美穂](../Page/中山美穂.md "wikilink")に数多くの楽曲を提供した。2004年より活動休止。
 
 ## ディスコグラフィー
 
 ### シングル
 
-1.  **Smooth Operator**（2001年6月27日）[シャーデー](https://ja.wikipedia.org/wiki/シャーデー "wikilink")のカバー
+1.  **Smooth Operator**（2001年6月27日）[シャーデー](../Page/シャーデー.md "wikilink")のカバー
     1.  Smooth Operator
     2.  Killing Me Softly With His Songs
     3.  What's New
@@ -15,7 +15,7 @@
     5.  Killing Me Softly With His Songs(Blue Soul MIX)
     6.  Smooth Operator(Radio Edit)
     7.  Killing Me Softly With His Songs(Radio Edit)
-2.  **La Cienega Boulevard**（2002年6月26日）[ジャニス・イアン](https://ja.wikipedia.org/wiki/ジャニス・イアン "wikilink")のカバー
+2.  **La Cienega Boulevard**（2002年6月26日）[ジャニス・イアン](../Page/ジャニス・イアン.md "wikilink")のカバー
     1.  La Cienega Boulevard
     2.  Many Times
     3.  Moonlight Shadow
@@ -54,18 +54,18 @@
 ### 提供楽曲
 
   - 中山美穂
-      - シングル[Thinking About You〜あなたの夜を包みたい〜](https://ja.wikipedia.org/wiki/Thinking_about_you〜あなたの夜を包みたい〜 "wikilink")
-      - アルバム『[Mid Blue](https://ja.wikipedia.org/wiki/Mid_Blue "wikilink")』
-      - アルバム『[Deep Lip French](https://ja.wikipedia.org/wiki/Deep_Lip_French "wikilink")』
+      - シングル[Thinking About You〜あなたの夜を包みたい〜](../Page/Thinking_about_you〜あなたの夜を包みたい〜.md "wikilink")
+      - アルバム『[Mid Blue](../Page/Mid_Blue.md "wikilink")』
+      - アルバム『[Deep Lip French](../Page/Deep_Lip_French.md "wikilink")』
 
 ## 関連項目
 
-  - [都志見隆](https://ja.wikipedia.org/wiki/都志見隆 "wikilink")
+  - [都志見隆](../Page/都志見隆.md "wikilink")
   - [有川正沙子](../Page/有川正沙子.md "wikilink")
-  - [南佳孝](https://ja.wikipedia.org/wiki/南佳孝 "wikilink")
+  - [南佳孝](../Page/南佳孝.md "wikilink")
   - [松井五郎](https://ja.wikipedia.org/wiki/松井五郎 "wikilink")
   - [渡辺なつみ](../Page/渡辺なつみ_\(作詞家\).md "wikilink")
-  - [中山美穂](https://ja.wikipedia.org/wiki/中山美穂 "wikilink")
+  - [中山美穂](../Page/中山美穂.md "wikilink")
 
 ## 外部リンク
 

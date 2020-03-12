@@ -1,7 +1,7 @@
 > この記事は[PayPal](https://ja.wikipedia.org/wiki/PayPal)から翻訳されています。
 
 
-**PayPal Holdings Inc.**（ペイパル、）は、電子メールアカウントと[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")を利用した決済サービスを提供する[アメリカの企業である](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。PayPal口座間や[クレジットカード](../Page/クレジットカード.md "wikilink")での送金や入金を行う。
+**PayPal Holdings Inc.**（ペイパル、）は、電子メールアカウントと[インターネット](../Page/インターネット.md "wikilink")を利用した決済サービスを提供する[アメリカの企業である](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。PayPal口座間や[クレジットカード](../Page/クレジットカード.md "wikilink")での送金や入金を行う。
 
 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")にPayPal Inc.の社名で設立。[2002年](../Page/2002年.md "wikilink")に[eBay](https://ja.wikipedia.org/wiki/eBay "wikilink")に買収されその子会社となっていたが、[2015年](../Page/2015年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")にPayPal Holdings Inc.の社名で独立した\[1\]。なお、日本を含む同社の国際部門は、[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")（）を拠点としている。
 
@@ -27,9 +27,9 @@
 
 ### 送金
 
-  - 送金先の[メールアドレス](https://ja.wikipedia.org/wiki/メールアドレス "wikilink")を指定して、PayPal口座から送金を行う。口座の残高が不足している場合は、[クレジットカード](../Page/クレジットカード.md "wikilink")および登録してある銀行口座から引き落とされる。
+  - 送金先の[メールアドレス](../Page/メールアドレス.md "wikilink")を指定して、PayPal口座から送金を行う。口座の残高が不足している場合は、[クレジットカード](../Page/クレジットカード.md "wikilink")および登録してある銀行口座から引き落とされる。
   - 送金者に手数料は掛からないが、受け取り側には金額に応じて手数料が掛かる。
-  - [Skype](https://ja.wikipedia.org/wiki/Skype "wikilink")（3.2.0.53以降）からPayPal口座に送金することもできる。
+  - [Skype](../Page/Skype.md "wikilink")（3.2.0.53以降）からPayPal口座に送金することもできる。
 
 ### 入金
 

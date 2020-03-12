@@ -1,31 +1,31 @@
 > この記事は[Frosted Glass](https://ja.wikipedia.org/wiki/Frosted_Glass)から翻訳されています。
 
 
-『**Frosted Grass**』（フロステッド・グラス）は[栗林誠一郎](https://ja.wikipedia.org/wiki/栗林誠一郎 "wikilink")のアルバム。
+『**Frosted Grass**』（フロステッド・グラス）は[栗林誠一郎](../Page/栗林誠一郎.md "wikilink")のアルバム。
 
 ## 内容
 
-12曲中2曲はセルフカバー曲。最後の「Leave the Liar」は自身の英語詞。ギターは[DIMENSION](https://ja.wikipedia.org/wiki/DIMENSION "wikilink")の[増崎孝司](https://ja.wikipedia.org/wiki/増崎孝司 "wikilink")が全曲参加しており、事実上、栗林の専属ギタリストと言う形で定着した。
+12曲中2曲はセルフカバー曲。最後の「Leave the Liar」は自身の英語詞。ギターは[DIMENSION](../Page/DIMENSION.md "wikilink")の[増崎孝司](https://ja.wikipedia.org/wiki/増崎孝司 "wikilink")が全曲参加しており、事実上、栗林の専属ギタリストと言う形で定着した。
 
 ## 収録曲
 
 1.  **何故**
 2.  **Priority**
 3.  **永遠の少年たち**
-4.  **Those summer days** - 原曲:[B.B.クィーンズ](https://ja.wikipedia.org/wiki/B.B.クィーンズ "wikilink")「いとしのsummer days」
+4.  **Those summer days** - 原曲:[B.B.クィーンズ](../Page/B.B.クィーンズ.md "wikilink")「いとしのsummer days」
 5.  **君に言えない感情**
 6.  **I'll be with you**
 7.  **Bracing wind**
 8.  **こんなの愛じゃない**
 9.  **明日は来る**
 10. **気づけないほど君は**
-11. **バラードが泣いた夜** - 原曲:[Mi-Ke](https://ja.wikipedia.org/wiki/Mi-Ke "wikilink")「Please Please Me, LOVE」(作詞は[上杉昇](https://ja.wikipedia.org/wiki/上杉昇 "wikilink"))
+11. **バラードが泣いた夜** - 原曲:[Mi-Ke](../Page/Mi-Ke.md "wikilink")「Please Please Me, LOVE」(作詞は[上杉昇](../Page/上杉昇.md "wikilink"))
 12. **Leave the Liar**
 
 <!-- end list -->
 
   -
-    作詞:[牧穂エミ](https://ja.wikipedia.org/wiki/牧穂エミ "wikilink")(1,2,7,8)、[小田佳奈子](../Page/小田佳奈子.md "wikilink")(3〜6,9,11)、NORI(10)、栗林誠一郎(12)
+    作詞:[牧穂エミ](../Page/牧穂エミ.md "wikilink")(1,2,7,8)、[小田佳奈子](../Page/小田佳奈子.md "wikilink")(3〜6,9,11)、NORI(10)、栗林誠一郎(12)
     英訳詞:AMY(4)
     作曲・編曲:栗林誠一郎(1〜12)
 
@@ -43,10 +43,10 @@
 
 ## 関連項目
 
-  - [ROOMS RECORDS](https://ja.wikipedia.org/wiki/VERMILLION_RECORDS "wikilink")
+  - [ROOMS RECORDS](../Page/VERMILLION_RECORDS.md "wikilink")
   - [ビーイング](../Page/ビーイング.md "wikilink")
-  - [栗林誠一郎](https://ja.wikipedia.org/wiki/栗林誠一郎 "wikilink")
-  - [DIMENSION](https://ja.wikipedia.org/wiki/DIMENSION "wikilink")
+  - [栗林誠一郎](../Page/栗林誠一郎.md "wikilink")
+  - [DIMENSION](../Page/DIMENSION.md "wikilink")
       - [増崎孝司](https://ja.wikipedia.org/wiki/増崎孝司 "wikilink")
       - [勝田かず樹](https://ja.wikipedia.org/wiki/勝田かず樹 "wikilink")
       - [小野塚晃](../Page/小野塚晃.md "wikilink")

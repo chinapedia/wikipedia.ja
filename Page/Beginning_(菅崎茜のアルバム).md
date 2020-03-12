@@ -1,7 +1,7 @@
 > この記事は[Beginning \(\)](https://ja.wikipedia.org/wiki/Beginning_\(\))から翻訳されています。
 
 
-『**beginning**』（ビギニング）は[GIZA studioから発売された](../Page/GIZA_studio.md "wikilink")[菅崎茜](https://ja.wikipedia.org/wiki/菅崎茜 "wikilink")の1stアルバム。
+『**beginning**』（ビギニング）は[GIZA studioから発売された](../Page/GIZA_studio.md "wikilink")[菅崎茜](../Page/菅崎茜.md "wikilink")の1stアルバム。
 
 ## 内容
 
@@ -23,9 +23,9 @@
 4.  **いつまでも ずっと**
       -
         作曲：岡本仁志　編曲：[小林哲](../Page/小林哲.md "wikilink")
-5.  **[君の名前 呼ぶだけで](https://ja.wikipedia.org/wiki/君の名前_呼ぶだけで "wikilink")**
+5.  **[君の名前 呼ぶだけで](../Page/君の名前_呼ぶだけで.md "wikilink")**
       -
-        作曲・編曲：[徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")
+        作曲・編曲：[徳永暁人](../Page/徳永暁人.md "wikilink")
 6.  **君に会いたくて**
       -
         作曲：大野愛果　編曲：大賀好修
@@ -51,7 +51,7 @@
 ## レコーディング参加
 
   - 大賀好修 - ギター
-  - [近藤房之助](https://ja.wikipedia.org/wiki/近藤房之助 "wikilink") - ギター
+  - [近藤房之助](../Page/近藤房之助.md "wikilink") - ギター
   - 徳永暁人 - アコースティックギター、コーラス
   - 麻井寛史（[the★tambourines](https://ja.wikipedia.org/wiki/the★tambourines "wikilink")） - ベース
   - [宇徳敬子](https://ja.wikipedia.org/wiki/宇徳敬子 "wikilink") - コーラス

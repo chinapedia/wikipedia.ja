@@ -1,11 +1,11 @@
 > この記事は[No Pose](https://ja.wikipedia.org/wiki/No_Pose)から翻訳されています。
 
 
-『**No Pose**』（ノー・ポーズ）は[栗林誠一郎](https://ja.wikipedia.org/wiki/栗林誠一郎 "wikilink")のアルバム。
+『**No Pose**』（ノー・ポーズ）は[栗林誠一郎](../Page/栗林誠一郎.md "wikilink")のアルバム。
 
 ## 内容
 
-11曲中6曲は[牧穂エミ](https://ja.wikipedia.org/wiki/牧穂エミ "wikilink")による作詞。ただ、栗林の楽曲製作では、牧穂の起用は自作のみである。「[Rest of My Life](https://ja.wikipedia.org/wiki/Rest_of_My_Life "wikilink")」同様、ベースはWARWICK Thumb Bass 5ST MEC.のみを使用した。
+11曲中6曲は[牧穂エミ](../Page/牧穂エミ.md "wikilink")による作詞。ただ、栗林の楽曲製作では、牧穂の起用は自作のみである。「[Rest of My Life](../Page/Rest_of_My_Life.md "wikilink")」同様、ベースはWARWICK Thumb Bass 5ST MEC.のみを使用した。
 
 ## 収録曲
 
@@ -30,12 +30,12 @@
 ## 参加ミュージシャン
 
   - 栗林誠一郎 - ベース(\#1 - 4, 6 - 11)、キーボード(\#4, 8)、シンセサイザー(\#1 - 4, 6 - 11)、パーカッション(\#1, 11)、コーラス(\#1 - 4, 6 - 11)
-      - [増崎孝司](https://ja.wikipedia.org/wiki/増崎孝司 "wikilink")（[DIMENSION](https://ja.wikipedia.org/wiki/DIMENSION "wikilink")） - ギター(\#1 - 4, 7, 8, 10, 11)
+      - [増崎孝司](https://ja.wikipedia.org/wiki/増崎孝司 "wikilink")（[DIMENSION](../Page/DIMENSION.md "wikilink")） - ギター(\#1 - 4, 7, 8, 10, 11)
       - [小野塚晃](../Page/小野塚晃.md "wikilink")（DIMENSION） - ピアノ(\#1, 5)、ローズ・ピアノ(\#5, 9)
-      - [勝田一樹](https://ja.wikipedia.org/wiki/勝田一樹 "wikilink")（DIMENSION） - サックス(\#1, 3, 6, 8 - 10)
+      - [勝田一樹](../Page/勝田一樹.md "wikilink")（DIMENSION） - サックス(\#1, 3, 6, 8 - 10)
       - [青山純](../Page/青山純.md "wikilink") - ドラム(\#1 - 4, 11)
       - 佐々木史郎 - トランペット(\#1)
-      - 小林太（[BIG HORNS BEE](https://ja.wikipedia.org/wiki/BIG_HORNS_BEE "wikilink")） - トランペット(\#1)
+      - 小林太（[BIG HORNS BEE](../Page/BIG_HORNS_BEE.md "wikilink")） - トランペット(\#1)
       - 中路英明 - トロンボーン(\#1)
       - 加藤貴也 - シンセサイザーオペレーション(\#1, 2, 4, 6 - 11)
       - TAMA MUSIC Strings - ストリングスセクション(\#5)
@@ -43,8 +43,8 @@
 
 ## 関連項目
 
-  - [ROOMS RECORDS](https://ja.wikipedia.org/wiki/VERMILLION_RECORDS "wikilink")
+  - [ROOMS RECORDS](../Page/VERMILLION_RECORDS.md "wikilink")
   - [ビーイング](../Page/ビーイング.md "wikilink")
-  - [牧穂エミ](https://ja.wikipedia.org/wiki/牧穂エミ "wikilink")
+  - [牧穂エミ](../Page/牧穂エミ.md "wikilink")
 
 [Category:栗林誠一郎のアルバム](https://ja.wikipedia.org/wiki/Category:栗林誠一郎のアルバム "wikilink") [Category:Rooms_RECORDSのアルバム](https://ja.wikipedia.org/wiki/Category:Rooms_RECORDSのアルバム "wikilink") [Category:1997年のアルバム](https://ja.wikipedia.org/wiki/Category:1997年のアルバム "wikilink")

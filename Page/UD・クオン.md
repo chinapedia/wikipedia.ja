@@ -1,23 +1,23 @@
 > この記事は[UD](https://ja.wikipedia.org/wiki/UD)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Quon-dump.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Quon-mixer.jpg "wikilink") **クオン(Quon)**は、[UDトラックス](https://ja.wikipedia.org/wiki/UDトラックス "wikilink")（2010年1月31日までは日産ディーゼル工業）が2004年から製造販売する大型クラスのトラックである。[ビッグサムの後継車として登場した](https://ja.wikipedia.org/wiki/日産ディーゼル・ビッグサム "wikilink")。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Quon-dump.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Quon-mixer.jpg "wikilink") **クオン(Quon)**は、[UDトラックス](https://ja.wikipedia.org/wiki/UDトラックス "wikilink")（2010年1月31日までは日産ディーゼル工業）が2004年から製造販売する大型クラスのトラックである。[ビッグサムの後継車として登場した](../Page/日産ディーゼル・ビッグサム.md "wikilink")。
 
 ## 概要
 
 車名は「**久遠**」に由来。「[永久](https://ja.wikipedia.org/wiki/永久 "wikilink")」の同意語で、限りなく続く時の流れを意味する。
 
-大型トラックで、世界初のSRSニー[エアバッグ](https://ja.wikipedia.org/wiki/エアバッグ "wikilink")&ニープロテクタを採用、日本初のラウンド[コクピット](https://ja.wikipedia.org/wiki/コクピット "wikilink")を採用、マルチアシストシートを助手席に装備、クラス最大級となるキャブチルト角65°を実現した。
+大型トラックで、世界初のSRSニー[エアバッグ](../Page/エアバッグ.md "wikilink")&ニープロテクタを採用、日本初のラウンド[コクピット](https://ja.wikipedia.org/wiki/コクピット "wikilink")を採用、マルチアシストシートを助手席に装備、クラス最大級となるキャブチルト角65°を実現した。
 
 ビッグサムから15年ぶりの[フルモデルチェンジとなる](https://ja.wikipedia.org/wiki/モデルチェンジ_\(自動車\) "wikilink")。発売後約3ヶ月間はビッグサムとの併売であった。キャブバックパネルとダブルキャブ車のリアドアはビッグサムの流用。
 
-大型トラックで、世界初の[尿素SCR](https://ja.wikipedia.org/wiki/尿素SCR "wikilink")触媒を採用し、いち早く[平成17年排出ガス規制](https://ja.wikipedia.org/wiki/平成17年排出ガス規制 "wikilink")に適合した。エンジンは[V型を廃止して](https://ja.wikipedia.org/wiki/V型エンジン "wikilink")[直列6気筒](https://ja.wikipedia.org/wiki/直列6気筒 "wikilink")の[GE13系と](../Page/日産ディーゼル・GE13エンジン.md "wikilink")[MD92系に統合された](https://ja.wikipedia.org/wiki/日産ディーゼル・MD92エンジン "wikilink")。
+大型トラックで、世界初の[尿素SCR](https://ja.wikipedia.org/wiki/尿素SCR "wikilink")触媒を採用し、いち早く[平成17年排出ガス規制](https://ja.wikipedia.org/wiki/平成17年排出ガス規制 "wikilink")に適合した。エンジンは[V型を廃止して](../Page/V型エンジン.md "wikilink")[直列6気筒](../Page/直列6気筒.md "wikilink")の[GE13系と](../Page/日産ディーゼル・GE13エンジン.md "wikilink")[MD92系に統合された](../Page/日産ディーゼル・MD92エンジン.md "wikilink")。
 
-「FLENDS」（フレンズ）と名付けられた同社の尿素SCRシステムは、前段階の酸化[触媒](../Page/触媒.md "wikilink")に加え、[排気ガス](https://ja.wikipedia.org/wiki/排気ガス "wikilink")中に噴射される[尿素](../Page/尿素.md "wikilink")水の[AdBlueを](https://ja.wikipedia.org/wiki/アドブルー "wikilink")[還元剤](https://ja.wikipedia.org/wiki/還元剤 "wikilink")として[アンモニア](../Page/アンモニア.md "wikilink")を生成し、[NOxと結合させることで](../Page/窒素酸化物.md "wikilink")[窒素](../Page/窒素.md "wikilink")・[水](../Page/水.md "wikilink")・[二酸化炭素](../Page/二酸化炭素.md "wikilink")に分解するNOx後処理装置を搭載している。
+「FLENDS」（フレンズ）と名付けられた同社の尿素SCRシステムは、前段階の酸化[触媒](../Page/触媒.md "wikilink")に加え、[排気ガス](../Page/排気ガス.md "wikilink")中に噴射される[尿素](../Page/尿素.md "wikilink")水の[AdBlueを](https://ja.wikipedia.org/wiki/アドブルー "wikilink")[還元剤](../Page/還元剤.md "wikilink")として[アンモニア](../Page/アンモニア.md "wikilink")を生成し、[NOxと結合させることで](../Page/窒素酸化物.md "wikilink")[窒素](../Page/窒素.md "wikilink")・[水](../Page/水.md "wikilink")・[二酸化炭素](../Page/二酸化炭素.md "wikilink")に分解するNOx後処理装置を搭載している。
 
-大型トラックベースの総輪駆動[除雪車](https://ja.wikipedia.org/wiki/除雪車 "wikilink")では日本で生産している唯一の車種であり\[1\]、[日野自動車](../Page/日野自動車.md "wikilink")と[いすゞ自動車](../Page/いすゞ自動車.md "wikilink")に[OEM](../Page/OEM.md "wikilink")供給されている\[2\]。
+大型トラックベースの総輪駆動[除雪車](../Page/除雪車.md "wikilink")では日本で生産している唯一の車種であり\[1\]、[日野自動車](../Page/日野自動車.md "wikilink")と[いすゞ自動車](../Page/いすゞ自動車.md "wikilink")に[OEM](../Page/OEM.md "wikilink")供給されている\[2\]。
 
-[2017年](../Page/2017年.md "wikilink")に中型トラックの[コンドルが](https://ja.wikipedia.org/wiki/UD・コンドル "wikilink")、自社生産から[いすゞ・フォワード](https://ja.wikipedia.org/wiki/いすゞ・フォワード "wikilink")のOEMに変更されたのに伴い、国内で発売されるUDトラックスの車種では唯一の自社生産車種となった。
+[2017年](../Page/2017年.md "wikilink")に中型トラックの[コンドルが](../Page/UD・コンドル.md "wikilink")、自社生産から[いすゞ・フォワード](../Page/いすゞ・フォワード.md "wikilink")のOEMに変更されたのに伴い、国内で発売されるUDトラックスの車種では唯一の自社生産車種となった。
 
 ## 沿革
 
@@ -26,12 +26,12 @@
   - [2004年](../Page/2004年.md "wikilink")（[平成](../Page/平成.md "wikilink")16年）
       - [10月7日](../Page/10月7日.md "wikilink") - [平成17年排出ガス規制](https://ja.wikipedia.org/wiki/平成17年排出ガス規制 "wikilink")対応に向けFLENDS技術の実用化を宣言する。
       - [11月18日](../Page/11月18日.md "wikilink") - ビッグサムがフルモデルチェンジして、クオンとなる。（単車系:CD6x2/CG8x4/GVW25tクラス）
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）
+  - [2005年](../Page/2005年.md "wikilink")（平成17年）
       - [5月18日](../Page/5月18日.md "wikilink") - 6車系151車型をクオンシリーズに追加。
       - [6月1日](../Page/6月1日.md "wikilink") - 除雪車をフルモデルチェンジして追加。
       - [6月30日](../Page/6月30日.md "wikilink") - トラクタをフルモデルチェンジして追加。（12車系189車ラインナップ）
       - [10月3日](../Page/10月3日.md "wikilink") - [グッドデザイン賞](https://ja.wikipedia.org/wiki/グッドデザイン賞 "wikilink")を受賞\[3\]。（ADG-CD4ZA）
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）
+  - [2006年](../Page/2006年.md "wikilink")（平成18年）
       - [2月2日](../Page/2月2日.md "wikilink") - 日経産業新聞賞（日経優秀製品・サービス賞2005）を受賞。
       - [6月1日](../Page/6月1日.md "wikilink") - GKシリーズが[重量車燃費基準](../Page/重量車燃費基準.md "wikilink")を達成。
       - [9月26日](../Page/9月26日.md "wikilink") - 単車系が[重量車燃費基準](../Page/重量車燃費基準.md "wikilink")を達成、販売台数の約4割が[重量車燃費基準](../Page/重量車燃費基準.md "wikilink")を達成。
@@ -41,7 +41,7 @@
       - 10月 - [東風日産ディーゼル汽車](https://ja.wikipedia.org/wiki/東風日産ディーゼル汽車 "wikilink")（当時）での現地生産が開始され、第40回[東京モーターショー](../Page/東京モーターショー.md "wikilink")に中国向け仕様が出品される。これにより初めて左ハンドル仕様が販売されることになる。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）
       - 2月 - 「UDトラックス」への社名変更に伴い、エンブレムなどの意匠を一部変更。
-      - [4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink") - マイナーチェンジ。エンジンを[ABボルボ製ベースのGH](https://ja.wikipedia.org/wiki/ボルボ・グループ "wikilink")11（単車系）・GH13（トラクタ）に換装した他、FLENDSをSCR＋[NOx吸蔵還元触媒](../Page/NOx吸蔵還元触媒.md "wikilink")の併用式としてポスト新長期排出ガス規制に適合。また、ホイールをJIS規格の8スタッドからISO規格の10スタッドに変更。トランスミッションは2ペダルの「ESCOT-V」を新たに設定。内装ではメーターパネル内の[水温計](https://ja.wikipedia.org/wiki/水温計 "wikilink")をマルチディスプレイに統合し、代わりにAdBlue残量計を設置。ショートキャブ車は廃止された。
+      - [4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink") - マイナーチェンジ。エンジンを[ABボルボ製ベースのGH](../Page/ボルボ・グループ.md "wikilink")11（単車系）・GH13（トラクタ）に換装した他、FLENDSをSCR＋[NOx吸蔵還元触媒](../Page/NOx吸蔵還元触媒.md "wikilink")の併用式としてポスト新長期排出ガス規制に適合。また、ホイールをJIS規格の8スタッドからISO規格の10スタッドに変更。トランスミッションは2ペダルの「ESCOT-V」を新たに設定。内装ではメーターパネル内の[水温計](https://ja.wikipedia.org/wiki/水温計 "wikilink")をマルチディスプレイに統合し、代わりにAdBlue残量計を設置。ショートキャブ車は廃止された。
   - [2011年](../Page/2011年.md "wikilink")（平成23年）8月9日 - 一部改良。オプションだった追突警報装置「トラフィックアイ」を一部を除き標準装備化。 なおこれと連動する[衝突被害軽減ブレーキ](https://ja.wikipedia.org/wiki/衝突被害軽減ブレーキ "wikilink")「トラフィックアイブレーキ」については引き続きオプション扱い。
   - [2012年](../Page/2012年.md "wikilink")（平成24年）3月12日 - 一部改良。上記「トラフィックアイブレーキ」をカーゴ系に一部を除き標準装備化。
   - [2014年](../Page/2014年.md "wikilink")（平成26年）5月8日 - 一部改良。エンジンの改良、ESCOT-Vの制御改良などによる燃費向上や軽量化による積載量の増加が試みられた。また改良型の[衝突被害軽減ブレーキ](https://ja.wikipedia.org/wiki/衝突被害軽減ブレーキ "wikilink")（AEBS）を標準装備。車線逸脱警報（LDWS）をオプション設定。ミリ波レーダー取付位置がナンバープレート上部に変更された事に伴い、バンパー形状も一部変更（ダンプ仕様のみナンバープレート取付位置がレーダー右側にオフセットで配置）されている。また助手席側ウィンドウ下部に「Quon」の車種エンブレムが装着される。
@@ -51,7 +51,7 @@
       - 12月末 - 除雪車が2代目モデルへ移行のため生産終了。これにより名実共に初代モデルは全て生産終了となった。
 
 ファイル:Nissan_Diesel_Quon_truck,_2007.jpg|セミトラクタ ファイル:Quoninterior.jpg|車内 ファイル:UD-GW.jpg|中国仕様GW ファイル:MLIT-HDA Snowplow Car.jpg|CZ除雪車
-[北海道開発局](https://ja.wikipedia.org/wiki/北海道開発局 "wikilink")仕様
+[北海道開発局](../Page/北海道開発局.md "wikilink")仕様
 
 ### 2代目（2017年 - ）
 
@@ -63,7 +63,7 @@
       - 10月25日 - トラクタをフルモデルチェンジ\[6\]。
   - [2018年](../Page/2018年.md "wikilink")（平成30年）
       - 2月8日・9日 - 「ゆきみらい2018in富山」に、2代目をベースにした除雪車を参考出展\[7\]。
-      - 3月 - 除雪車をフルモデルチェンジ。除雪車はフロントにスノープラウが装着される関係上、[衝突被害軽減ブレーキ](https://ja.wikipedia.org/wiki/衝突被害軽減ブレーキ "wikilink")などは装備されない\[8\]ほか、総輪駆動の[特殊車両となる関係上](https://ja.wikipedia.org/wiki/特殊自動車 "wikilink")、総輪ディスクブレーキも装備されず従来通りの総輪[ドラムブレーキ](https://ja.wikipedia.org/wiki/ドラムブレーキ "wikilink")となる。
+      - 3月 - 除雪車をフルモデルチェンジ。除雪車はフロントにスノープラウが装着される関係上、[衝突被害軽減ブレーキ](https://ja.wikipedia.org/wiki/衝突被害軽減ブレーキ "wikilink")などは装備されない\[8\]ほか、総輪駆動の[特殊車両となる関係上](../Page/特殊自動車.md "wikilink")、総輪ディスクブレーキも装備されず従来通りの総輪[ドラムブレーキ](../Page/ドラムブレーキ.md "wikilink")となる。
 
 {{-}}
 
@@ -82,7 +82,7 @@
 <!-- end list -->
 
   - [GE13エンジン](../Page/日産ディーゼル・GE13エンジン.md "wikilink")
-  - [MD92エンジン](https://ja.wikipedia.org/wiki/日産ディーゼル・MD92エンジン "wikilink")
+  - [MD92エンジン](../Page/日産ディーゼル・MD92エンジン.md "wikilink")
 
 ## ミッション
 
@@ -132,24 +132,24 @@
 
   - ウイングバン - [日本フルハーフ](../Page/日本フルハーフ.md "wikilink")、[日本トレクス](../Page/日本トレクス.md "wikilink")
   - 冷蔵ウイングバン - 日本トレクス
-  - ダンプ - [新明和工業](../Page/新明和工業.md "wikilink")、[極東開発工業](https://ja.wikipedia.org/wiki/極東開発工業 "wikilink")
+  - ダンプ - [新明和工業](../Page/新明和工業.md "wikilink")、[極東開発工業](../Page/極東開発工業.md "wikilink")
 
 ## その他
 
 2008年までは日産ディーゼルの企業CMが放映されていて、このCMにクオンが登場する（これ以前はクオンとしてのCMが流れていた）。CMはテレビでは[TVSライオンズアワー](../Page/TVSライオンズアワー.md "wikilink")（[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink") 水曜日のみ）で、ラジオでは[文化放送ライオンズナイター](../Page/文化放送ライオンズナイター.md "wikilink")や[NACK5 SUNDAY LIONS](https://ja.wikipedia.org/wiki/NACK5_SATURDAY&SUNDAY_LIONS "wikilink")（[NACK5](../Page/エフエムナックファイブ.md "wikilink")）でそれぞれ流された。また、[日産・デュアリス](https://ja.wikipedia.org/wiki/日産・デュアリス "wikilink")のCMの最後に[ゼロの](../Page/ゼロ_\(輸送会社\).md "wikilink")[キャリアカー](../Page/キャリアカー.md "wikilink")として登場していた。
 
-2014年には[タカラトミー](https://ja.wikipedia.org/wiki/タカラトミー "wikilink")の玩具シリーズ「[トランスフォーマー](../Page/トランスフォーマー.md "wikilink")」30周年を記念したオフィシャルカー「[コンボイトレーラー](../Page/コンボイ_\(トランスフォーマー\).md "wikilink")」としてキャンペーン走行を行っている。名称はトレーラーだが、実際に使われているのは低床4軸のカーゴである。
+2014年には[タカラトミー](../Page/タカラトミー.md "wikilink")の玩具シリーズ「[トランスフォーマー](../Page/トランスフォーマー.md "wikilink")」30周年を記念したオフィシャルカー「[コンボイトレーラー](../Page/コンボイ_\(トランスフォーマー\).md "wikilink")」としてキャンペーン走行を行っている。名称はトレーラーだが、実際に使われているのは低床4軸のカーゴである。
 
 ## 関連項目
 
   - [UDトラックス](https://ja.wikipedia.org/wiki/UDトラックス "wikilink")
   - [UD・クエスター](https://ja.wikipedia.org/wiki/UD・クエスター "wikilink")
-  - [UD・コンドル](https://ja.wikipedia.org/wiki/UD・コンドル "wikilink")
-  - [日産ディーゼル・レゾナ](https://ja.wikipedia.org/wiki/日産ディーゼル・レゾナ "wikilink")
-  - [日産ディーゼル・ビッグサム](https://ja.wikipedia.org/wiki/日産ディーゼル・ビッグサム "wikilink")
+  - [UD・コンドル](../Page/UD・コンドル.md "wikilink")
+  - [日産ディーゼル・レゾナ](../Page/日産ディーゼル・レゾナ.md "wikilink")
+  - [日産ディーゼル・ビッグサム](../Page/日産ディーゼル・ビッグサム.md "wikilink")
   - [いすゞ・ギガ](../Page/いすゞ・ギガ.md "wikilink")
   - [三菱ふそう・スーパーグレート](../Page/三菱ふそう・スーパーグレート.md "wikilink")
-  - [日野・プロフィア](https://ja.wikipedia.org/wiki/日野・プロフィア "wikilink")
+  - [日野・プロフィア](../Page/日野・プロフィア.md "wikilink")
 
 ## 脚注
 

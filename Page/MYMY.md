@@ -5,7 +5,7 @@
 
 風刺コントグループ「[ザ・ニュースペーパー](../Page/ザ・ニュースペーパー.md "wikilink")」の創立メンバー。 「THE NEWS PAPER」在籍中には2000本以上のコントをこなしている。
 
-現在は、ニュースネタだけではなく、地域に密着した地元ネタ、[憲法9条](https://ja.wikipedia.org/wiki/憲法9条 "wikilink")、[男女参画](../Page/男女共同参画社会.md "wikilink")、[国民投票](https://ja.wikipedia.org/wiki/国民投票 "wikilink")、[裁判員制度](https://ja.wikipedia.org/wiki/裁判員制度 "wikilink")、[デジタル放送](https://ja.wikipedia.org/wiki/デジタル放送 "wikilink")、[税金](https://ja.wikipedia.org/wiki/税金 "wikilink")、[セクハラ](https://ja.wikipedia.org/wiki/セクハラ "wikilink")ネタなど講演会、パネルディスカッション、ディナーショー、お祭りなどにも出演して子供から大人まで楽しめる幅広いジャンルのパフォーマンスをおこなっている。
+現在は、ニュースネタだけではなく、地域に密着した地元ネタ、[憲法9条](https://ja.wikipedia.org/wiki/憲法9条 "wikilink")、[男女参画](../Page/男女共同参画社会.md "wikilink")、[国民投票](../Page/国民投票.md "wikilink")、[裁判員制度](../Page/裁判員制度.md "wikilink")、[デジタル放送](../Page/デジタル放送.md "wikilink")、[税金](https://ja.wikipedia.org/wiki/税金 "wikilink")、[セクハラ](https://ja.wikipedia.org/wiki/セクハラ "wikilink")ネタなど講演会、パネルディスカッション、ディナーショー、お祭りなどにも出演して子供から大人まで楽しめる幅広いジャンルのパフォーマンスをおこなっている。
 
 1997年に[スポニチ芸術大賞](https://ja.wikipedia.org/wiki/スポニチ芸術大賞 "wikilink")優秀賞受賞。
 
@@ -28,9 +28,9 @@
 ### 浜田太一
 
   - 生年月日　：1964年6月24日
-  - 出身地　　：[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")
+  - 出身地　　：[埼玉県](../Page/埼玉県.md "wikilink")
   - 血液型　　：O型
-  - 趣味　　　：[釣り](https://ja.wikipedia.org/wiki/釣り "wikilink")・[ドライブ](../Page/ドライブ.md "wikilink")
+  - 趣味　　　：[釣り](../Page/釣り.md "wikilink")・[ドライブ](../Page/ドライブ.md "wikilink")
   - 特技　　　：ワッカ芸
   - 身長　　　：175.5cm
   - 体重　　　：75kg
@@ -46,7 +46,7 @@
   - [日本テレビ](../Page/日本テレビ放送網.md "wikilink")　「ウルトラ7：00」「ザ・サンデー」　「ものまねグランプリ」
   - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")　 「上岡龍太郎にはダマされないぞ\!」「冗談画報」
   - [テレビ朝日](../Page/テレビ朝日.md "wikilink")　「ザ・テレビ演芸」「プレステージ」「ブラックNEWS」「ジャーナリズム最前線」
-  - [狭山ケーブルテレビ](https://ja.wikipedia.org/wiki/狭山ケーブルテレビ "wikilink")　「狭山元気でチャ茶ちゃ」
+  - [狭山ケーブルテレビ](../Page/狭山ケーブルテレビ.md "wikilink")　「狭山元気でチャ茶ちゃ」
 
 ### ライヴ
 

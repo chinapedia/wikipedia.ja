@@ -7,8 +7,8 @@
 
 <!-- end list -->
 
-  - [分角](https://ja.wikipedia.org/wiki/分_\(角度\) "wikilink") () - 角度の単位の「分」
-  - [M.O.A.（Minites Of Angle）](https://ja.wikipedia.org/wiki/:en:Minute_of_arc#FirearmsM.O.A. "wikilink") - [射撃](https://ja.wikipedia.org/wiki/射撃 "wikilink")において用いられる精度の単位。1 M.O.A.は「100[ヤード](../Page/ヤード.md "wikilink")(91.44[m](../Page/メートル.md "wikilink"))先において1[インチ](../Page/インチ.md "wikilink")(2.54[cm](../Page/センチメートル.md "wikilink"))」を意味し、[銃器](https://ja.wikipedia.org/wiki/銃器 "wikilink")の命中精度を数値で示す際や[照準器](https://ja.wikipedia.org/wiki/照準器 "wikilink")の調整を行う際に用いられる。　　
+  - [分角](../Page/分_\(角度\).md "wikilink") () - 角度の単位の「分」
+  - [M.O.A.（Minites Of Angle）](https://ja.wikipedia.org/wiki/:en:Minute_of_arc#FirearmsM.O.A. "wikilink") - [射撃](../Page/射撃.md "wikilink")において用いられる精度の単位。1 M.O.A.は「100[ヤード](../Page/ヤード.md "wikilink")(91.44[m](../Page/メートル.md "wikilink"))先において1[インチ](../Page/インチ.md "wikilink")(2.54[cm](../Page/センチメートル.md "wikilink"))」を意味し、[銃器](https://ja.wikipedia.org/wiki/銃器 "wikilink")の命中精度を数値で示す際や[照準器](../Page/照準器.md "wikilink")の調整を行う際に用いられる。　　
       - 英語において“MOA(Minites Of Angle)”とは“minute of arc”と同じく“角度の単位の「分」”を意味するため、射撃に関する用語として表記される際には、独自の値を用いていることを示すために“M**.**O**.**A**.**”と「**.**」を付けた表記とされている場合があるため留意を要する。
 
 <!-- end list -->
@@ -22,7 +22,7 @@
   - [Magnetic Field Oscillating Amplified Thruster](https://ja.wikipedia.org/wiki/Magnetic_Field_Oscillating_Amplified_Thruster "wikilink") - 磁場振動増幅スラスタ
   - [MOA (基本規約)](https://ja.wikipedia.org/wiki/MOA_\(基本規約\) "wikilink")() - イギリスなどにおける基本定款
   - [合意の覚書](https://ja.wikipedia.org/wiki/合意の覚書 "wikilink") () - [合意書](https://ja.wikipedia.org/wiki/合意書 "wikilink")、[協定](https://ja.wikipedia.org/wiki/協定 "wikilink")、[契約書](../Page/契約書.md "wikilink")などと訳される
-  - [メイキング・オブ・アメリカ](https://ja.wikipedia.org/wiki/メイキング・オブ・アメリカ "wikilink") () - [ミシガン大学](https://ja.wikipedia.org/wiki/ミシガン大学 "wikilink")と[コーネル大学](https://ja.wikipedia.org/wiki/コーネル大学 "wikilink")による電子図書館プロジェクト
+  - [メイキング・オブ・アメリカ](https://ja.wikipedia.org/wiki/メイキング・オブ・アメリカ "wikilink") () - [ミシガン大学](../Page/ミシガン大学.md "wikilink")と[コーネル大学](../Page/コーネル大学.md "wikilink")による電子図書館プロジェクト
   - [軍事活動地域](https://ja.wikipedia.org/wiki/軍事活動地域 "wikilink") ()
 
 <!-- end list -->
@@ -40,7 +40,7 @@
 
 <!-- end list -->
 
-  - 『[MOA](https://ja.wikipedia.org/wiki/MOA_\(アルバム\) "wikilink")』 - [Neat'sのアルバム](https://ja.wikipedia.org/wiki/新津由衣 "wikilink")。
+  - 『[MOA](https://ja.wikipedia.org/wiki/MOA_\(アルバム\) "wikilink")』 - [Neat'sのアルバム](../Page/新津由衣.md "wikilink")。
 
 <!-- end list -->
 
@@ -48,4 +48,4 @@
 
 <!-- end list -->
 
-  - ガイチ帝国が地球攻撃のために準備した最終兵器。（ゲーム『[ネクタリス](https://ja.wikipedia.org/wiki/ネクタリス "wikilink")』）
+  - ガイチ帝国が地球攻撃のために準備した最終兵器。（ゲーム『[ネクタリス](../Page/ネクタリス.md "wikilink")』）

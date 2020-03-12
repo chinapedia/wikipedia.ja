@@ -9,7 +9,7 @@
 
 『福島テレビ30年史』によると、この番組は25時台という遅い時間帯にも関わらず最高[視聴率](../Page/視聴率.md "wikilink")3%を記録したとされている。
 
-ちなみに、当時この番組の前の時間帯に放送されていた番組は『[プロ野球ニュース](../Page/プロ野球ニュース.md "wikilink")』で、この番組の終了後の時間帯には『[北野ファンクラブ](https://ja.wikipedia.org/wiki/北野ファンクラブ "wikilink")』を[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")である[フジテレビと](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[同時ネット](https://ja.wikipedia.org/wiki/同時ネット "wikilink")していた\[1\]。
+ちなみに、当時この番組の前の時間帯に放送されていた番組は『[プロ野球ニュース](../Page/プロ野球ニュース.md "wikilink")』で、この番組の終了後の時間帯には『[北野ファンクラブ](../Page/北野ファンクラブ.md "wikilink")』を[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")である[フジテレビと](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[同時ネット](https://ja.wikipedia.org/wiki/同時ネット "wikilink")していた\[1\]。
 
 1993年春の番組[改編](../Page/改編.md "wikilink")でこの番組が終了した後は、『北野ファンクラブ』の放送開始が10分繰り上がった（ただし、同番組はそれ以降はキー局より1週遅れての放送になった）。
 
@@ -17,4 +17,4 @@
 
 [Category:1991年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1991年のテレビ番組_\(日本\) "wikilink") [Category:福島テレビ番組](https://ja.wikipedia.org/wiki/Category:福島テレビ番組 "wikilink") [Category:東北地方のテレビのミニ番組](https://ja.wikipedia.org/wiki/Category:東北地方のテレビのミニ番組 "wikilink") [Category:東北地方の深夜テレビ番組](https://ja.wikipedia.org/wiki/Category:東北地方の深夜テレビ番組 "wikilink") [Category:東北地方のテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:東北地方のテレビの情報・ワイドショー番組 "wikilink")
 
-1.  この番組が始まる前も同じ編成だったが、開始前のこの10分枠は[天気予報](../Page/天気予報.md "wikilink")と[ミニ番組](https://ja.wikipedia.org/wiki/ミニ番組 "wikilink")を流していた。
+1.  この番組が始まる前も同じ編成だったが、開始前のこの10分枠は[天気予報](../Page/天気予報.md "wikilink")と[ミニ番組](../Page/ミニ番組.md "wikilink")を流していた。

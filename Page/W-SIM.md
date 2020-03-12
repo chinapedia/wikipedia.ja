@@ -13,7 +13,7 @@
 
 電波出力の大きな携帯電話では無線通信モジュール部分の発熱量が大きく、放熱のために一定以上の大きさが必要とされる\[2\]が、電波出力が小さいPHSでは小型モジュールに収めることが可能であり、通信モジュールと端末の分離に成功した。
 
-なお「SIM」と付いているものの、[第3世代移動通信システム](https://ja.wikipedia.org/wiki/第3世代移動通信システム "wikilink")などで用いられている[SIMカード](https://ja.wikipedia.org/wiki/SIMカード "wikilink")との互換性はない。
+なお「SIM」と付いているものの、[第3世代移動通信システム](../Page/第3世代移動通信システム.md "wikilink")などで用いられている[SIMカード](../Page/SIMカード.md "wikilink")との互換性はない。
 
 「WILLCOMコアモジュール戦略」では、W-SIMは個人・法人向け、[CSCエンジン](https://ja.wikipedia.org/wiki/CSCエンジン "wikilink")は法人向けと位置づけられている。2005年12月に「WILLCOMコアモジュール」の振興をはかることを目的とする「WILLCOMコアモジュールフォーラム」が設立された。
 
@@ -55,26 +55,26 @@
 
 ## 仕様
 
-| Pin No. | 信号名     | 内容                                                                                                                                             | 用途                                                   |
-| ------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
-| 1       | TXD     | [UART](../Page/UART.md "wikilink")送信シリアルデータ                                                                                                    | [シリアルインターフェース](../Page/シリアルポート.md "wikilink")        |
-| 2       | RXD     | UART受信シリアルデータ                                                                                                                                  |                                                      |
-| 3       | RTS     | UART送信データ[レディ](https://ja.wikipedia.org/wiki/レディ#Ready "wikilink")                                                                             |                                                      |
-| 4       | CTS     | UART送信レディ                                                                                                                                      |                                                      |
-| 5       | DTR     | UART受信レディ                                                                                                                                      |                                                      |
-| 6       | DCD     | UARTデータ[キャリア検出](https://ja.wikipedia.org/wiki/搬送波 "wikilink")                                                                                  |                                                      |
-| 7       | RI      | UARTリングインジケータ                                                                                                                                  |                                                      |
-| 8       | INS     | W-SIM検出信号                                                                                                                                      | [電源](https://ja.wikipedia.org/wiki/電源 "wikilink")、検出 |
-| 9       | Vcc     | 電源                                                                                                                                             |                                                      |
-| 10      | GND     | グランド                                                                                                                                           |                                                      |
-| 11      | PCMCLK  | [PCM](../Page/パルス符号変調.md "wikilink") [CODEC](https://ja.wikipedia.org/wiki/コーデック#音声圧縮のコーデック "wikilink")[クロック](../Page/サンプリング周波数.md "wikilink") | [音声](https://ja.wikipedia.org/wiki/音声 "wikilink")用   |
-| 12      | PCMSYNC | PCM CODEC[同期信号](https://ja.wikipedia.org/wiki/同期信号#デジタル伝送 "wikilink")                                                                          |                                                      |
-| 13      | PCMIN   | PCM CODECデータ入力                                                                                                                                 |                                                      |
-| 14      | PCMOUT  | PCM CODECデータ出力                                                                                                                                 |                                                      |
-| 15      | IF_SEL | I/F 通知信号                                                                                                                                       | インターフェース通知                                           |
-| 16      | DISP1   | 状態表示1                                                                                                                                          | [電界強度用](../Page/電場.md "wikilink")                    |
-| 17      | DISP2   | 状態表示2                                                                                                                                          |                                                      |
-| 18      | DISP3   | 状態表示3                                                                                                                                          |                                                      |
+| Pin No. | 信号名     | 内容                                                                                                                                             | 用途                                                 |
+| ------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| 1       | TXD     | [UART](../Page/UART.md "wikilink")送信シリアルデータ                                                                                                    | [シリアルインターフェース](../Page/シリアルポート.md "wikilink")      |
+| 2       | RXD     | UART受信シリアルデータ                                                                                                                                  |                                                    |
+| 3       | RTS     | UART送信データ[レディ](https://ja.wikipedia.org/wiki/レディ#Ready "wikilink")                                                                             |                                                    |
+| 4       | CTS     | UART送信レディ                                                                                                                                      |                                                    |
+| 5       | DTR     | UART受信レディ                                                                                                                                      |                                                    |
+| 6       | DCD     | UARTデータ[キャリア検出](https://ja.wikipedia.org/wiki/搬送波 "wikilink")                                                                                  |                                                    |
+| 7       | RI      | UARTリングインジケータ                                                                                                                                  |                                                    |
+| 8       | INS     | W-SIM検出信号                                                                                                                                      | [電源](../Page/電源.md "wikilink")、検出                  |
+| 9       | Vcc     | 電源                                                                                                                                             |                                                    |
+| 10      | GND     | グランド                                                                                                                                           |                                                    |
+| 11      | PCMCLK  | [PCM](../Page/パルス符号変調.md "wikilink") [CODEC](https://ja.wikipedia.org/wiki/コーデック#音声圧縮のコーデック "wikilink")[クロック](../Page/サンプリング周波数.md "wikilink") | [音声](https://ja.wikipedia.org/wiki/音声 "wikilink")用 |
+| 12      | PCMSYNC | PCM CODEC[同期信号](https://ja.wikipedia.org/wiki/同期信号#デジタル伝送 "wikilink")                                                                          |                                                    |
+| 13      | PCMIN   | PCM CODECデータ入力                                                                                                                                 |                                                    |
+| 14      | PCMOUT  | PCM CODECデータ出力                                                                                                                                 |                                                    |
+| 15      | IF_SEL | I/F 通知信号                                                                                                                                       | インターフェース通知                                         |
+| 16      | DISP1   | 状態表示1                                                                                                                                          | [電界強度用](../Page/電場.md "wikilink")                  |
+| 17      | DISP2   | 状態表示2                                                                                                                                          |                                                    |
+| 18      | DISP3   | 状態表示3                                                                                                                                          |                                                    |
 
 W-SIM[インターフェース概要](https://ja.wikipedia.org/wiki/インタフェース_\(情報技術\)#ハードウェアインタフェース "wikilink")
 
@@ -94,7 +94,7 @@ W-SIM[インターフェース概要](https://ja.wikipedia.org/wiki/インタフ
 
 ### RX410IN
 
-[ネットインデックス](https://ja.wikipedia.org/wiki/ネットインデックス "wikilink")製。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月25日](../Page/11月25日.md "wikilink")より対応端末に同梱されていた（単体販売は、なされなかった）。
+[ネットインデックス](https://ja.wikipedia.org/wiki/ネットインデックス "wikilink")製。[2005年](../Page/2005年.md "wikilink")[11月25日](../Page/11月25日.md "wikilink")より対応端末に同梱されていた（単体販売は、なされなかった）。
 
   - アンテナ部のカラー - グレー
   - パケット方式 - 4x/2x/1x
@@ -104,22 +104,22 @@ W-SIM[インターフェース概要](https://ja.wikipedia.org/wiki/インタフ
 
 ### RX420AL
 
-[エイビット](https://ja.wikipedia.org/wiki/エイビット "wikilink")製・[アルテル](../Page/アルテル.md "wikilink")販売 。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")発売。対応端末に同梱のほか、単体販売も行われていた。RX410INの仕様に加え、消費電力が下がり、高度化通信規格[W-OAM](https://ja.wikipedia.org/wiki/W-OAM "wikilink")に対応。通話中着信、リモートロックなどの機能が追加された。セットされる端末は、[ネットインデックス](https://ja.wikipedia.org/wiki/ネットインデックス "wikilink")製を除く一般音声端末に多い傾向がある。[2011年](../Page/2011年.md "wikilink")8月、[エイビット](https://ja.wikipedia.org/wiki/エイビット "wikilink")によるサポートが終了した。
+[エイビット](https://ja.wikipedia.org/wiki/エイビット "wikilink")製・[アルテル](../Page/アルテル.md "wikilink")販売 。[2006年](../Page/2006年.md "wikilink")[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")発売。対応端末に同梱のほか、単体販売も行われていた。RX410INの仕様に加え、消費電力が下がり、高度化通信規格[W-OAM](../Page/W-OAM.md "wikilink")に対応。通話中着信、リモートロックなどの機能が追加された。セットされる端末は、[ネットインデックス](https://ja.wikipedia.org/wiki/ネットインデックス "wikilink")製を除く一般音声端末に多い傾向がある。[2011年](../Page/2011年.md "wikilink")8月、[エイビット](https://ja.wikipedia.org/wiki/エイビット "wikilink")によるサポートが終了した。
 
   - アンテナ部のカラー - レッド
-  - パケット方式 - 4x/2x/1x（[W-OAM](https://ja.wikipedia.org/wiki/W-OAM "wikilink")対応）
+  - パケット方式 - 4x/2x/1x（[W-OAM](../Page/W-OAM.md "wikilink")対応）
   - 質量 - 約5g
   - ユーザーメモリ - 約1MB（電話帳約700件相当）
   - 国際ローミング対応国 - 台湾・タイ（ただし、ジャケットの対応状況に依存）
 
 ### RX420IN
 
-[ネットインデックス](https://ja.wikipedia.org/wiki/ネットインデックス "wikilink")製。[2007年](../Page/2007年.md "wikilink")[4月10日](../Page/4月10日.md "wikilink")発売。[W-OAM](https://ja.wikipedia.org/wiki/W-OAM "wikilink")対応など、基本性能はRX420ALと変わらないが、パケット通信時の消費電力が若干低減している。なお、PIAFS通信時はRX420ALより高い。
+[ネットインデックス](https://ja.wikipedia.org/wiki/ネットインデックス "wikilink")製。[2007年](../Page/2007年.md "wikilink")[4月10日](../Page/4月10日.md "wikilink")発売。[W-OAM](../Page/W-OAM.md "wikilink")対応など、基本性能はRX420ALと変わらないが、パケット通信時の消費電力が若干低減している。なお、PIAFS通信時はRX420ALより高い。
 
 以前は単体販売もされていた。また、以前RX410INが同梱されていた端末に同梱されるW-SIMは、当製品発売以降は、ネットインデックス製の音声端末・データ端末やシャープ製[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")を中心にこちらに差し替えられた。ただし、[WS008HA](https://ja.wikipedia.org/wiki/WS008HA "wikilink")等の例外はある。
 
   - アンテナ部のカラー - ブルー
-  - パケット方式 - 4x/2x/1x（[W-OAM](https://ja.wikipedia.org/wiki/W-OAM "wikilink")対応）
+  - パケット方式 - 4x/2x/1x（[W-OAM](../Page/W-OAM.md "wikilink")対応）
   - 質量 - 約8g
   - ユーザーメモリ - 約1MB（電話帳約700件相当）
   - 国際ローミング対応国 - 台湾・タイ（ただし、ジャケットの対応状況に依存）
@@ -138,7 +138,7 @@ W-SIM[インターフェース概要](https://ja.wikipedia.org/wiki/インタフ
 
 ### CM-G100
 
-[インベンテック・アプライアンシズ](https://ja.wikipedia.org/wiki/インベンテック・アプライアンシズ "wikilink") ([IAC](https://ja.wikipedia.org/wiki/IAC "wikilink")) 製。販売は、[テクニッコジャパン](https://ja.wikipedia.org/wiki/テクニッコジャパン "wikilink")（現・[TJC](https://ja.wikipedia.org/wiki/TJC "wikilink")）が輸入元として手がける。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月22日](../Page/4月22日.md "wikilink")に発売。対応端末には附属せず、オプション扱いで単体販売。また、ウィルコムブランドとしてではなく、[サードパーティー](https://ja.wikipedia.org/wiki/サードパーティー "wikilink")扱いとなり、[WS027SH](https://ja.wikipedia.org/wiki/WS027SH "wikilink")での利用については、ウィルコム・シャープの補償外となる。海外オペレータ発行の[SIMカード](https://ja.wikipedia.org/wiki/SIMカード "wikilink")（日本国内の携帯電話オペレータの[UIMカード](../Page/UIMカード.md "wikilink")を利用した[プラスティックローミング](https://ja.wikipedia.org/wiki/プラスティックローミング "wikilink")も可能）を汎用スロットがあるW-SIM対応ジャケット本体に装着することにより、GSM携帯電話として利用可能とする。
+[インベンテック・アプライアンシズ](https://ja.wikipedia.org/wiki/インベンテック・アプライアンシズ "wikilink") ([IAC](https://ja.wikipedia.org/wiki/IAC "wikilink")) 製。販売は、[テクニッコジャパン](https://ja.wikipedia.org/wiki/テクニッコジャパン "wikilink")（現・[TJC](https://ja.wikipedia.org/wiki/TJC "wikilink")）が輸入元として手がける。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月22日](../Page/4月22日.md "wikilink")に発売。対応端末には附属せず、オプション扱いで単体販売。また、ウィルコムブランドとしてではなく、[サードパーティー](../Page/サードパーティー.md "wikilink")扱いとなり、[WS027SH](https://ja.wikipedia.org/wiki/WS027SH "wikilink")での利用については、ウィルコム・シャープの補償外となる。海外オペレータ発行の[SIMカード](../Page/SIMカード.md "wikilink")（日本国内の携帯電話オペレータの[UIMカード](../Page/UIMカード.md "wikilink")を利用した[プラスティックローミング](https://ja.wikipedia.org/wiki/プラスティックローミング "wikilink")も可能）を汎用スロットがあるW-SIM対応ジャケット本体に装着することにより、GSM携帯電話として利用可能とする。
 
   - アンテナ部のカラー - オレンジ
   - パケット方式 - GPRS方式（900/1800/1900MHzのトライバンド）
@@ -150,7 +150,7 @@ W-SIM[インターフェース概要](https://ja.wikipedia.org/wiki/インタフ
 ネットインデックス製。[RX420IN](https://ja.wikipedia.org/wiki/RX420IN "wikilink")をベースに「WIPS」と呼ばれるMVNO事業者用機器認証機能が追加されている。データ通信サービス専用で、音声通話や[PIAFS](https://ja.wikipedia.org/wiki/PIAFS "wikilink")接続には非対応。 [So-net](https://ja.wikipedia.org/wiki/So-net "wikilink")が提供する[bitWarp PDA用にW](https://ja.wikipedia.org/wiki/bitWarp_PDA "wikilink")-ZERO3（WS003SH）とセットで販売された。なお[bitWarp PDAサービスを利用する際には](https://ja.wikipedia.org/wiki/bitWarp_PDA "wikilink")、W-ZERO3本体に専用の機器認証設定ツールをインストールすることが必須である。
 
   - アンテナ部のカラー - ブルー
-  - パケット方式 - 4x/2x/1x（[W-OAM](https://ja.wikipedia.org/wiki/W-OAM "wikilink")対応）
+  - パケット方式 - 4x/2x/1x（[W-OAM](../Page/W-OAM.md "wikilink")対応）
   - 質量 - 約8g
 
 ### WS012GS用W-SIM
@@ -159,10 +159,10 @@ W-SIM[インターフェース概要](https://ja.wikipedia.org/wiki/インタフ
 
 ### 中国網通版W-SIM
 
-中国網通集団ブロードバンド応用国家工程実験室有限公司製。2008年4月発売。中国独自のPIMカードに対応するため内部コマンドに互換性がなく、日本のSIM STYLE端末に挿入しても動作しない。仕様表に記載がないため、[W-OAM](https://ja.wikipedia.org/wiki/W-OAM "wikilink")への対応は不明\[8\]。なお、現在は[中国網通](https://ja.wikipedia.org/wiki/中国網通 "wikilink")は[中国聯通](https://ja.wikipedia.org/wiki/中国聯通 "wikilink")に吸収されているため、同社の[小霊通](https://ja.wikipedia.org/wiki/小霊通 "wikilink")部門は[中国聯通](https://ja.wikipedia.org/wiki/中国聯通 "wikilink")が手がけている。
+中国網通集団ブロードバンド応用国家工程実験室有限公司製。2008年4月発売。中国独自のPIMカードに対応するため内部コマンドに互換性がなく、日本のSIM STYLE端末に挿入しても動作しない。仕様表に記載がないため、[W-OAM](../Page/W-OAM.md "wikilink")への対応は不明\[8\]。なお、現在は[中国網通](../Page/中国網通.md "wikilink")は[中国聯通](https://ja.wikipedia.org/wiki/中国聯通 "wikilink")に吸収されているため、同社の[小霊通](https://ja.wikipedia.org/wiki/小霊通 "wikilink")部門は[中国聯通](https://ja.wikipedia.org/wiki/中国聯通 "wikilink")が手がけている。
 
   - アンテナ部のカラー - ブラック
-  - パケット方式 - 4x/2x/1x（[W-OAM](https://ja.wikipedia.org/wiki/W-OAM "wikilink")への対応は不明）
+  - パケット方式 - 4x/2x/1x（[W-OAM](../Page/W-OAM.md "wikilink")への対応は不明）
   - 質量 - 約10g
   - ユーザーメモリ - 不明
 
@@ -170,9 +170,9 @@ W-SIM[インターフェース概要](https://ja.wikipedia.org/wiki/インタフ
 
 SIM STYLE端末は基本的に「修理アシストサービス」の対象外だが、W-SIM自体は同サービスの対象となる。また、2007年7月よりWS005INおよびWS009KEが修理アシスト対象に追加され、それ以降に発売された音声端末ジャケットも修理アシスト対象となっている\[9\]。
 
-なお、現在WS013の型番が存在しないが、これは[海外で縁起が悪い数字のため欠番にした](https://ja.wikipedia.org/wiki/13_\(忌み数\) "wikilink")、とのこと\[10\]。
+なお、現在WS013の型番が存在しないが、これは[海外で縁起が悪い数字のため欠番にした](../Page/13_\(忌み数\).md "wikilink")、とのこと\[10\]。
 
-WS015SHは、WS016SHと同時期に[Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth "wikilink")認定を通過したが、2011年3月現在、未発表である。
+WS015SHは、WS016SHと同時期に[Bluetooth](../Page/Bluetooth.md "wikilink")認定を通過したが、2011年3月現在、未発表である。
 
 ### ウィルコムブランド
 
@@ -184,12 +184,12 @@ WS015SHは、WS016SHと同時期に[Bluetooth](https://ja.wikipedia.org/wiki/Blu
 <!-- end list -->
 
   - WS002IN / "DD" (Data Driver)
-    ネットインデックス製の[データ通信](https://ja.wikipedia.org/wiki/データ通信 "wikilink")端末。[USBアダプタとして動作する](../Page/ユニバーサル・シリアル・バス.md "wikilink")。
+    ネットインデックス製の[データ通信](../Page/データ通信.md "wikilink")端末。[USBアダプタとして動作する](../Page/ユニバーサル・シリアル・バス.md "wikilink")。
 
 <!-- end list -->
 
   - WS003SH / W-ZERO3
-    [シャープ](../Page/シャープ.md "wikilink")製の音声端末。[Windows Mobile搭載の](https://ja.wikipedia.org/wiki/Windows_Mobile "wikilink")[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")。
+    [シャープ](../Page/シャープ.md "wikilink")製の音声端末。[Windows Mobile搭載の](../Page/Windows_Mobile.md "wikilink")[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")。
 
 <!-- end list -->
 
@@ -224,7 +224,7 @@ WS015SHは、WS016SHと同時期に[Bluetooth](https://ja.wikipedia.org/wiki/Blu
 <!-- end list -->
 
   - WS014IN
-    ネットインデックス製の[データ通信](https://ja.wikipedia.org/wiki/データ通信 "wikilink")端末。W-SIM端末としては初の[PCカード](../Page/PCカード.md "wikilink")型端末。
+    ネットインデックス製の[データ通信](../Page/データ通信.md "wikilink")端末。W-SIM端末としては初の[PCカード](../Page/PCカード.md "wikilink")型端末。
 
 <!-- end list -->
 
@@ -238,7 +238,7 @@ WS015SHは、WS016SHと同時期に[Bluetooth](https://ja.wikipedia.org/wiki/Blu
 <!-- end list -->
 
   - WS020SH / WILLCOM 03
-    スマートフォン初の[ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")搭載端末。
+    スマートフォン初の[ワンセグ](../Page/ワンセグ.md "wikilink")搭載端末。
 
 <!-- end list -->
 
@@ -258,7 +258,7 @@ WS015SHは、WS016SHと同時期に[Bluetooth](https://ja.wikipedia.org/wiki/Blu
 <!-- end list -->
 
   - WS027SH / HYBRID W-ZERO3
-    シャープ製のPHS/UMTSのデュアルモードを実現した、WS011SHの後継機。[QWERTYキー](https://ja.wikipedia.org/wiki/QWERTYキー "wikilink")は省略され、スライドでテンキーが現れるギミックになっている。なお、W-SIMを入れ替えた上で汎用[UIM](https://ja.wikipedia.org/wiki/UIM "wikilink")スロットに[SIMカード](https://ja.wikipedia.org/wiki/SIMカード "wikilink")を挿入することにより、[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")携帯電話としても利用可能。
+    シャープ製のPHS/UMTSのデュアルモードを実現した、WS011SHの後継機。[QWERTYキー](https://ja.wikipedia.org/wiki/QWERTYキー "wikilink")は省略され、スライドでテンキーが現れるギミックになっている。なお、W-SIMを入れ替えた上で汎用[UIM](https://ja.wikipedia.org/wiki/UIM "wikilink")スロットに[SIMカード](../Page/SIMカード.md "wikilink")を挿入することにより、[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")携帯電話としても利用可能。
 
 画像:Ws002in_rx420al.jpg|"DD"（WS002IN） 画像:W-zero3_ws004sh.jpg|W-ZERO3（WS004SH） 画像:Wzero3es 1.jpg|W-ZERO3 \[es\]（WS007SH） 画像:WS009KE1157.jpg|9, nine（WS009KE）
 
@@ -270,9 +270,9 @@ WS015SHは、WS016SHと同時期に[Bluetooth](https://ja.wikipedia.org/wiki/Blu
 <!-- end list -->
 
   - スーパーワンセグTV Watch
-    NECシステムテクノロジー製の[腕時計](../Page/腕時計.md "wikilink")型音声端末。[ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")（1セグメント放送）の視聴機能のほか、W-SIMにも対応し、音声通話・メール・ブラウザ機能を利用できる。[アサヒビール](../Page/アサヒビール.md "wikilink")の[酒](../Page/酒.md "wikilink")類商品の懸賞プレゼント\[12\]として企画された限定[非売品](https://ja.wikipedia.org/wiki/非売品 "wikilink")であり、市販の予定はない。
+    NECシステムテクノロジー製の[腕時計](../Page/腕時計.md "wikilink")型音声端末。[ワンセグ](../Page/ワンセグ.md "wikilink")（1セグメント放送）の視聴機能のほか、W-SIMにも対応し、音声通話・メール・ブラウザ機能を利用できる。[アサヒビール](../Page/アサヒビール.md "wikilink")の[酒](../Page/酒.md "wikilink")類商品の懸賞プレゼント\[12\]として企画された限定[非売品](https://ja.wikipedia.org/wiki/非売品 "wikilink")であり、市販の予定はない。
   - SandgateWP
-    ソフィアシステムズ製の開発者向け端末。[OSとして](../Page/オペレーティングシステム.md "wikilink")[Linux](https://ja.wikipedia.org/wiki/Linux "wikilink")を搭載したリファレンスモデル\[13\]。
+    ソフィアシステムズ製の開発者向け端末。[OSとして](../Page/オペレーティングシステム.md "wikilink")[Linux](../Page/Linux.md "wikilink")を搭載したリファレンスモデル\[13\]。
   - 会議用スピーカーホン（KX-TS745JP）
     [パナソニック システムネットワークス製](https://ja.wikipedia.org/wiki/パナソニック_システムネットワークス "wikilink")。同社製のKX-TS730JPS（有線電話回線向け）をベースに開発された。音声通話（ウィルコム定額プラン利用を想定）により、遠隔地どうしの会議を実現するための法人向け端末。有線電話回線での使用も可能\[14\]。ウィルコムブランドの端末で010が欠けているのは、この端末が10番目だから\[15\]とされている。
   - つないでイーサ（OSX-1）
@@ -280,11 +280,11 @@ WS015SHは、WS016SHと同時期に[Bluetooth](https://ja.wikipedia.org/wiki/Blu
   - みっけ\! GPS
     [ヴァーゴウェーブ](https://ja.wikipedia.org/wiki/ヴァーゴウェーブ "wikilink")の開発した児童向け防犯システム。[防犯ブザー](../Page/防犯ブザー.md "wikilink")と通信端末のセットで、通信端末にW-SIMを利用している。[GPSを搭載し](../Page/グローバル・ポジショニング・システム.md "wikilink")、位置情報の発信や指定の3箇所＋110番などの特定番号相手のみの音声通話が可能となっている\[17\]。
   - Altel Smart speed（AS001）
-    アルテル製の[データ通信](https://ja.wikipedia.org/wiki/データ通信 "wikilink")端末。[USBアダプタとして動作する](../Page/ユニバーサル・シリアル・バス.md "wikilink")。同社製W-SIMのRX420AL専用で、同SIMの所有者に対しモニター用として、2007年7月の[ワイヤレスジャパン](https://ja.wikipedia.org/wiki/ワイヤレスジャパン "wikilink")2007で300台が、その後アルテル社Webサイト上で300台がプレゼントされた。
+    アルテル製の[データ通信](../Page/データ通信.md "wikilink")端末。[USBアダプタとして動作する](../Page/ユニバーサル・シリアル・バス.md "wikilink")。同社製W-SIMのRX420AL専用で、同SIMの所有者に対しモニター用として、2007年7月の[ワイヤレスジャパン](https://ja.wikipedia.org/wiki/ワイヤレスジャパン "wikilink")2007で300台が、その後アルテル社Webサイト上で300台がプレゼントされた。
   - カーナビ専用通信ユニットfor CARWINGS（WS012GS）
     [グループセンス](https://ja.wikipedia.org/wiki/グループセンス "wikilink")製の[日産自動車](../Page/日産自動車.md "wikilink")の提供する「カーウイングス」向け通信サービス「カーナビ専用サービス for CARWINGS」に対応した通信ユニット。通信ユニットの平型4芯オーディオケーブルを対応PHS・携帯電話に接続することで、ハンズフリーフォン機能として利用可能となっている\[18\]。
   - USB接続型SIM STYLE ジャケット（USB-WSIM）
-    I/O DATA製の[データ通信](https://ja.wikipedia.org/wiki/データ通信 "wikilink")端末。[USBアダプタとして動作する](../Page/ユニバーサル・シリアル・バス.md "wikilink")\[19\]。
+    I/O DATA製の[データ通信](../Page/データ通信.md "wikilink")端末。[USBアダプタとして動作する](../Page/ユニバーサル・シリアル・バス.md "wikilink")\[19\]。
   - [福山通運](https://ja.wikipedia.org/wiki/福山通運 "wikilink")ドライバー専用ハンディフォン
     福山通運のセールスドライバーが利用する専用のハンディフォン。従来、ハンディターミナルに携帯電話を接続して使用していたものをW-SIMにより一体化したもの\[20\]。
   - MR2100
@@ -292,13 +292,13 @@ WS015SHは、WS016SHと同時期に[Bluetooth](https://ja.wikipedia.org/wiki/Blu
   - カーナビ専用サービス for carrozzeria 向け通信ユニット（WS021GS/WS022IN）
     [パイオニア](https://ja.wikipedia.org/wiki/パイオニア "wikilink")が提供する[カーナビゲーションシステム](https://ja.wikipedia.org/wiki/カーナビゲーションシステム "wikilink")「[carrozzeria](../Page/カロッツェリア_\(AV機器\).md "wikilink")」で利用可能な「カーナビ専用サービス for carrozzeria」に対応した通信ユニット。WS021GS（[グループセンス](https://ja.wikipedia.org/wiki/グループセンス "wikilink")製）は、通信ユニットの平型4芯オーディオケーブルを対応PHS・携帯電話に接続することで、**着信のみ**ハンズフリーフォン機能として利用可能となっている\[22\]。
   - カーナビ専用サービス for internavi Premium Club 向け通信ユニット（WS017IN/BT001HK）
-    [本田技研工業](../Page/本田技研工業.md "wikilink")の提供する「インターナビ・プレミアムクラブ」で利用可能な「カーナビ専用サービス for internavi Premium Club」に対応した通信ユニット。WS017IN（ネットインデックス製）は、カーナビ本体とはUSBで接続する\[23\]。BT001HKは、[日立国際電気](https://ja.wikipedia.org/wiki/日立国際電気 "wikilink")製。
+    [本田技研工業](../Page/本田技研工業.md "wikilink")の提供する「インターナビ・プレミアムクラブ」で利用可能な「カーナビ専用サービス for internavi Premium Club」に対応した通信ユニット。WS017IN（ネットインデックス製）は、カーナビ本体とはUSBで接続する\[23\]。BT001HKは、[日立国際電気](../Page/日立国際電気.md "wikilink")製。
   - RZ-H220
     [シャープ](../Page/シャープ.md "wikilink")製のハンディターミナルスマートフォン。ベースはAdvanced/W-ZERO3\[es\]（WS011SH）\[24\]。
   - NS001U
-    [ネットインデックス](https://ja.wikipedia.org/wiki/ネットインデックス "wikilink")製の[データ通信](https://ja.wikipedia.org/wiki/データ通信 "wikilink")端末。[USBアダプタとして動作する](../Page/ユニバーサル・シリアル・バス.md "wikilink")\[25\]。他の通信カード系ジャケットと違いW-SIMを直接USBデバイスとして接続するジャケットであるため、W-SIM側のファームウェアの対応が必要であり、対応していないW-SIMでは全く使用できない。公式に対応しているのはRX420INのみ。またRX430ALはUSB動作モードを持ち、有志による非公式なドライバが存在する。
+    [ネットインデックス](https://ja.wikipedia.org/wiki/ネットインデックス "wikilink")製の[データ通信](../Page/データ通信.md "wikilink")端末。[USBアダプタとして動作する](../Page/ユニバーサル・シリアル・バス.md "wikilink")\[25\]。他の通信カード系ジャケットと違いW-SIMを直接USBデバイスとして接続するジャケットであるため、W-SIM側のファームウェアの対応が必要であり、対応していないW-SIMでは全く使用できない。公式に対応しているのはRX420INのみ。またRX430ALはUSB動作モードを持ち、有志による非公式なドライバが存在する。
   - WX-WSADP
-    [岩崎通信機](https://ja.wikipedia.org/wiki/岩崎通信機 "wikilink")製のPBX向けPHSアダプタ。最大2枚のW-SIMをISDN回線インターフェースに変換する。基本的には同社製のPBX装置向けで、公式に対応しているのはRX410INのみ。WXという型番になっているが、これは岩崎通信機の型番ルールに従ったもので、ウィルコムブランドの音声端末の型番とは関連性がない。
+    [岩崎通信機](../Page/岩崎通信機.md "wikilink")製のPBX向けPHSアダプタ。最大2枚のW-SIMをISDN回線インターフェースに変換する。基本的には同社製のPBX装置向けで、公式に対応しているのはRX410INのみ。WXという型番になっているが、これは岩崎通信機の型番ルールに従ったもので、ウィルコムブランドの音声端末の型番とは関連性がない。
 
 ## 脚注
 

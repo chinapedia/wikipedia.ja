@@ -1,7 +1,7 @@
 > この記事は[Optical Gravitational Lensing Experiment](https://ja.wikipedia.org/wiki/Optical_Gravitational_Lensing_Experiment)から翻訳されています。
 
 
-**Optical Gravitational Lensing Experiment**、略称**OGLE**（オーグル）とは、[ポーランド](../Page/ポーランド.md "wikilink")の[ワルシャワ大学](https://ja.wikipedia.org/wiki/ワルシャワ大学 "wikilink")が中心となって行っている、[重力マイクロレンズ](https://ja.wikipedia.org/wiki/重力マイクロレンズ "wikilink")を用いて[暗黒物質](../Page/暗黒物質.md "wikilink")を発見することを主目的とするプロジェクトである。[1992年](../Page/1992年.md "wikilink")のプロジェクト発足以降、副産物としていくつかの[太陽系外惑星](https://ja.wikipedia.org/wiki/太陽系外惑星 "wikilink")を発見している。プロジェクトを率いているのはワルシャワ大学の[アンジェイ・ウダルスキ](https://ja.wikipedia.org/wiki/アンジェイ・ウダルスキ "wikilink") () 教授。
+**Optical Gravitational Lensing Experiment**、略称**OGLE**（オーグル）とは、[ポーランド](../Page/ポーランド.md "wikilink")の[ワルシャワ大学](../Page/ワルシャワ大学.md "wikilink")が中心となって行っている、[重力マイクロレンズ](https://ja.wikipedia.org/wiki/重力マイクロレンズ "wikilink")を用いて[暗黒物質](../Page/暗黒物質.md "wikilink")を発見することを主目的とするプロジェクトである。[1992年](../Page/1992年.md "wikilink")のプロジェクト発足以降、副産物としていくつかの[太陽系外惑星](../Page/太陽系外惑星.md "wikilink")を発見している。プロジェクトを率いているのはワルシャワ大学の[アンジェイ・ウダルスキ](https://ja.wikipedia.org/wiki/アンジェイ・ウダルスキ "wikilink") () 教授。
 
 プロジェクトの主な観測対象は[マゼラン雲](https://ja.wikipedia.org/wiki/マゼラン雲 "wikilink")と[銀河系](../Page/銀河系.md "wikilink")の[バルジである](https://ja.wikipedia.org/wiki/銀河バルジ "wikilink")。[重力レンズ](../Page/重力レンズ.md "wikilink")現象を観測するためには、最低二つの天体が視線方向に重なる必要があるが、このような現象は前述のような星の密集しているところで観測される確率が高いためである。観測は主に[チリ](../Page/チリ.md "wikilink")の[ラス・カンパナス天文台](https://ja.wikipedia.org/wiki/ラス・カンパナス天文台 "wikilink")で行われている。[プリンストン大学](https://ja.wikipedia.org/wiki/プリンストン大学 "wikilink")と[カーネギー協会](https://ja.wikipedia.org/wiki/カーネギー協会 "wikilink")が計画に参加している。
 
@@ -21,7 +21,7 @@
 
 ## 関連項目
 
-  - [ボフダン・パチンスキ](https://ja.wikipedia.org/wiki/ボフダン・パチンスキ "wikilink")
+  - [ボフダン・パチンスキ](../Page/ボフダン・パチンスキ.md "wikilink")
   - [全天自動サーベイ](https://ja.wikipedia.org/wiki/全天自動サーベイ "wikilink")
   - [グジェゴシュ・ポイマンスキ](https://ja.wikipedia.org/wiki/グジェゴシュ・ポイマンスキ "wikilink")
 

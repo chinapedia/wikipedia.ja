@@ -5,7 +5,7 @@
 
 ## 概要
 
-[マリオによって檻に幽閉された](https://ja.wikipedia.org/wiki/マリオ_\(ゲームキャラクター\) "wikilink")[ドンキーコング](https://ja.wikipedia.org/wiki/ドンキーコング_\(ゲームキャラクター・初代\) "wikilink")\[1\]を、息子の[ドンキーコングジュニア](../Page/ドンキーコングJr._\(ゲームキャラクター\).md "wikilink")\[2\]が助けに向かう、一画面固定アクションゲーム。
+[マリオによって檻に幽閉された](https://ja.wikipedia.org/wiki/マリオ_\(ゲームキャラクター\) "wikilink")[ドンキーコング](../Page/ドンキーコング_\(ゲームキャラクター・初代\).md "wikilink")\[1\]を、息子の[ドンキーコングジュニア](../Page/ドンキーコングJr._\(ゲームキャラクター\).md "wikilink")\[2\]が助けに向かう、一画面固定アクションゲーム。
 
 ## ゲーム内容
 
@@ -19,18 +19,18 @@
 
   - [ジュニア](../Page/ドンキーコングJr._\(ゲームキャラクター\).md "wikilink")
     主人公（プレイヤーキャラクター）。前作の悪役であったドンキーコングの息子。
-  - パパ / [ドンキーコング](https://ja.wikipedia.org/wiki/ドンキーコング_\(ゲームキャラクター・初代\) "wikilink")
+  - パパ / [ドンキーコング](../Page/ドンキーコング_\(ゲームキャラクター・初代\).md "wikilink")
     本作での救出対象であり、前作でのレディ（[ポリーン](../Page/ポリーン.md "wikilink")）の役目にあたる。
   - [マリオ](https://ja.wikipedia.org/wiki/マリオ_\(ゲームキャラクター\) "wikilink")
-    前作の主人公で、本作の悪役。今作から個人名が付けられた。常に[鞭](https://ja.wikipedia.org/wiki/鞭 "wikilink")を持っており、鞭を叩いて敵キャラクターをジュニアに突撃させる。
+    前作の主人公で、本作の悪役。今作から個人名が付けられた。常に[鞭](../Page/鞭.md "wikilink")を持っており、鞭を叩いて敵キャラクターをジュニアに突撃させる。
     アーケード版では2人のマリオがドンキーコングを搬送する開始デモが存在する。このうちの片方が後の[ルイージなのかは明言されていない](../Page/ルイージ_\(ゲームキャラクター\).md "wikilink")。
   - スナップジョー
     1面と4面の敵キャラクター。赤色もしくは青色\[3\]の機械[ワニ](../Page/ワニ.md "wikilink")。
-    後に『[スーパードンキーコング2](https://ja.wikipedia.org/wiki/スーパードンキーコング2 "wikilink")』で同名の敵キャラが登場しているが、本作のものとは無関係である。
+    後に『[スーパードンキーコング2](../Page/スーパードンキーコング2.md "wikilink")』で同名の敵キャラが登場しているが、本作のものとは無関係である。
   - ニットピッカー
     2面と4面の敵キャラクター。2面では[ワシ](https://ja.wikipedia.org/wiki/ワシ "wikilink")の姿で、飛行する際に[卵](../Page/卵.md "wikilink")を投下する。4面では[カラス](../Page/カラス.md "wikilink")の姿で登場。
   - スパーク
-    3面の敵キャラクター。オレンジ色もしくは青色の[電気](https://ja.wikipedia.org/wiki/電気 "wikilink")物体で、それぞれ姿が異なる。
+    3面の敵キャラクター。オレンジ色もしくは青色の[電気](../Page/電気.md "wikilink")物体で、それぞれ姿が異なる。
 
 ## 移植版
 
@@ -54,7 +54,7 @@
 <td><p>1</p></td>
 <td><p>DONKEY KONG JUNIOR</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Atari_2600" title="wikilink">Atari 2600</a></p></td>
+<td><p><a href="../Page/Atari_2600.md" title="wikilink">Atari 2600</a></p></td>
 <td><p><a href="../Page/コレコ.md" title="wikilink">コレコ</a></p></td>
 <td><p>コレコ</p></td>
 <td><p><a href="../Page/ロムカセット.md" title="wikilink">ロムカセット</a></p></td>
@@ -146,7 +146,7 @@ SRD</p></td>
 <td><p>-</p></td>
 <td><p>任天堂</p></td>
 <td><p><a href="../Page/ダウンロード販売.md" title="wikilink">ダウンロード</a><br />
-（<a href="https://ja.wikipedia.org/wiki/バーチャルコンソール" title="wikilink">バーチャルコンソール</a>）</p></td>
+（<a href="../Page/バーチャルコンソール.md" title="wikilink">バーチャルコンソール</a>）</p></td>
 <td></td>
 <td><p>-</p></td>
 <td><p>ファミリーコンピュータ版の移植</p></td>
@@ -235,7 +235,7 @@ SRD</p></td>
 
 と表記されている。
 
-ドンキーコングJR.（1面と4面だけの2ステージ構成で難易度選択は無い）と[ドンキーコングJR.の算数遊び](https://ja.wikipedia.org/wiki/ドンキーコングJR.の算数遊び "wikilink")の一部（「＋－×÷EXERCISE」に相当）が収録されている。
+ドンキーコングJR.（1面と4面だけの2ステージ構成で難易度選択は無い）と[ドンキーコングJR.の算数遊び](../Page/ドンキーコングJR.の算数遊び.md "wikilink")の一部（「＋－×÷EXERCISE」に相当）が収録されている。
 
 ## 音楽
 
@@ -244,7 +244,7 @@ SRD</p></td>
   - [ファミコン・ミュージック](https://ja.wikipedia.org/wiki/ファミコン・ミュージック "wikilink")（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[5月25日](../Page/5月25日.md "wikilink")）
     [G.M.O.レコード](https://ja.wikipedia.org/wiki/G.M.O.レコード "wikilink")より発売されたアルバム内の一作品として収録されている。
   - ファミコン 20TH アニバーサリー オリジナル・サウンド・トラックス VOL.1（[2004年](../Page/2004年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink")）
-    [サイトロン・デジタルコンテンツ](https://ja.wikipedia.org/wiki/サイトロン・デジタルコンテンツ "wikilink")より発売されたCD内の一作品として収録されている。
+    [サイトロン・デジタルコンテンツ](../Page/サイトロン・デジタルコンテンツ.md "wikilink")より発売されたCD内の一作品として収録されている。
 
 ## スタッフ
 
@@ -252,8 +252,8 @@ SRD</p></td>
 
 <!-- end list -->
 
-  - スタッフ：山本雅央、西沢健治、MASAYOSHI.O、H.HOSHINO、[宮本茂](https://ja.wikipedia.org/wiki/宮本茂 "wikilink")、[坂本賀勇](https://ja.wikipedia.org/wiki/坂本賀勇 "wikilink")
-  - サウンド・デザイン：兼岡行男、[田中宏和](https://ja.wikipedia.org/wiki/田中宏和 "wikilink")
+  - スタッフ：山本雅央、西沢健治、MASAYOSHI.O、H.HOSHINO、[宮本茂](https://ja.wikipedia.org/wiki/宮本茂 "wikilink")、[坂本賀勇](../Page/坂本賀勇.md "wikilink")
+  - サウンド・デザイン：兼岡行男、[田中宏和](../Page/田中宏和.md "wikilink")
   - プロデューサー：[横井軍平](https://ja.wikipedia.org/wiki/横井軍平 "wikilink")
   - エグゼクティブ・プロデューサー：[山内溥](https://ja.wikipedia.org/wiki/山内溥 "wikilink")
 
@@ -264,7 +264,7 @@ SRD</p></td>
 <!-- end list -->
 
   - エグゼクティブ・プロデューサー：山内溥
-  - プロデューサー：[上村雅之](https://ja.wikipedia.org/wiki/上村雅之 "wikilink")
+  - プロデューサー：[上村雅之](../Page/上村雅之.md "wikilink")
   - コンセプト・デザイン：宮本茂
   - プログラム：[中郷俊彦](https://ja.wikipedia.org/wiki/中郷俊彦 "wikilink")
   - サウンド：兼岡行男、田中宏和
@@ -292,7 +292,7 @@ SRD</p></td>
 
 ## 関連項目
 
-  - [ドンキーコングJR.の算数遊び](https://ja.wikipedia.org/wiki/ドンキーコングJR.の算数遊び "wikilink")（[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")）
+  - [ドンキーコングJR.の算数遊び](../Page/ドンキーコングJR.の算数遊び.md "wikilink")（[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")）
 
 ## 外部リンク
 

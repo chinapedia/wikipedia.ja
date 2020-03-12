@@ -1,11 +1,11 @@
 > この記事は[W-OAM](https://ja.wikipedia.org/wiki/W-OAM)から翻訳されています。
 
 
-[WILLCOM-phs-station-8elements.jpg](https://ja.wikipedia.org/wiki/File:WILLCOM-phs-station-8elements.jpg "fig:WILLCOM-phs-station-8elements.jpg")　2004年\]\] [250px](https://ja.wikipedia.org/wiki/画像:Ws002in_rx420al.jpg "wikilink") **W-OAM**（ダブリュ・オーエーエム、ウィルコム・オーエーエム）は、[Y\!mobile](https://ja.wikipedia.org/wiki/Y!mobile "wikilink")(旧[ウィルコム](../Page/ウィルコム.md "wikilink"))の[高度化PHS](https://ja.wikipedia.org/wiki/高度化PHS "wikilink")による通信サービスの名称。*WILLCOM Optimized Adaptive Modulation*の略。
+[WILLCOM-phs-station-8elements.jpg](https://ja.wikipedia.org/wiki/File:WILLCOM-phs-station-8elements.jpg "fig:WILLCOM-phs-station-8elements.jpg")　2004年\]\] [250px](https://ja.wikipedia.org/wiki/画像:Ws002in_rx420al.jpg "wikilink") **W-OAM**（ダブリュ・オーエーエム、ウィルコム・オーエーエム）は、[Y\!mobile](https://ja.wikipedia.org/wiki/Y!mobile "wikilink")(旧[ウィルコム](../Page/ウィルコム.md "wikilink"))の[高度化PHS](../Page/高度化PHS.md "wikilink")による通信サービスの名称。*WILLCOM Optimized Adaptive Modulation*の略。
 
 ## 概要
 
-既存の[PHS](../Page/PHS.md "wikilink")規格の[変調方式](../Page/変調方式.md "wikilink")を改良し、データ通信の高速化・カバーエリアや屋内浸透度を向上させたものであり、「[高度化PHS](https://ja.wikipedia.org/wiki/高度化PHS "wikilink")」の一種である。かつて[次世代PHS](https://ja.wikipedia.org/wiki/次世代PHS "wikilink")と称されていた[XGP規格とは別物である](https://ja.wikipedia.org/wiki/eXtended_Global_Platform "wikilink")。
+既存の[PHS](../Page/PHS.md "wikilink")規格の[変調方式](../Page/変調方式.md "wikilink")を改良し、データ通信の高速化・カバーエリアや屋内浸透度を向上させたものであり、「[高度化PHS](../Page/高度化PHS.md "wikilink")」の一種である。かつて[次世代PHS](https://ja.wikipedia.org/wiki/次世代PHS "wikilink")と称されていた[XGP規格とは別物である](https://ja.wikipedia.org/wiki/eXtended_Global_Platform "wikilink")。
 
 W-OAM（[W-OAM typeGを含む](https://ja.wikipedia.org/wiki/#W-OAM_typeG "wikilink")）により通信しようとする場合には、W-OAM / typeGに対応した[端末](../Page/端末.md "wikilink")を使用して、W-OAMに対応した[基地局](https://ja.wikipedia.org/wiki/基地局 "wikilink")と通信する必要がある。通信しようとする基地局側がW-OAMに対応していない等の場合には、自動的に従来（現行PHS）の変調方式（1x/32k[bps](../Page/ビット毎秒.md "wikilink")）により通信する。なお、ここで言う*1x*とは、「\(n\)x : リンク数（束ねるマルチリンクの数）」に基づき、リンク数が1である事を示している。
 
@@ -13,7 +13,7 @@ W-OAM対応の基地局が設置された対応エリアは、大都市圏の高
 
 また、W-OAMによる通信においては、[無線](../Page/無線.md "wikilink")[伝送路](../Page/伝送路.md "wikilink")の状態（[電波](../Page/電波.md "wikilink")の状態）に応じて、良好な場合にはより高速な変調方式を、基地局との通信が不安定な場合(距離が離れている、障害物がある場合など)には低速だがよりエラーに強い変調方式を、自動的・動的に選択し変更する「[適応変調](https://ja.wikipedia.org/wiki/適応変調 "wikilink")」方式が採用されている。
 
-W-OAMの開始にあたって、トラフィックが高速・大容量化することによる[NTT](https://ja.wikipedia.org/wiki/日本電信電話 "wikilink")（[東日本](../Page/東日本電信電話.md "wikilink")・[西日本](../Page/西日本電信電話.md "wikilink")）[接続料](https://ja.wikipedia.org/wiki/接続料 "wikilink")の増加対策のために、NTT交換局内にITX（Ip Transit eXchange）というトラフィックバイパス装置を設置し、これにW-OAMを含めた基地局を接続して半ば独自網のネットワークを構築している。これにより、W-OAMに[音声通話定額制](https://ja.wikipedia.org/wiki/音声通話定額制 "wikilink")も含め増大するトラフィックがNTTの交換機・通信設備を経由することがなくなり、接続料の抜本的削減が可能となっている。
+W-OAMの開始にあたって、トラフィックが高速・大容量化することによる[NTT](../Page/日本電信電話.md "wikilink")（[東日本](../Page/東日本電信電話.md "wikilink")・[西日本](../Page/西日本電信電話.md "wikilink")）[接続料](https://ja.wikipedia.org/wiki/接続料 "wikilink")の増加対策のために、NTT交換局内にITX（Ip Transit eXchange）というトラフィックバイパス装置を設置し、これにW-OAMを含めた基地局を接続して半ば独自網のネットワークを構築している。これにより、W-OAMに[音声通話定額制](../Page/音声通話定額制.md "wikilink")も含め増大するトラフィックがNTTの交換機・通信設備を経由することがなくなり、接続料の抜本的削減が可能となっている。
 
 ## 通信方式
 
@@ -21,11 +21,11 @@ W-OAMの開始にあたって、トラフィックが高速・大容量化する
 
 ### W-OAM
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")2月23日の「W-OAM」サービス開始時は、従来のQPSKに加えて、より高速な[8PSK](https://ja.wikipedia.org/wiki/デジタル変調#位相偏移変調 "wikilink")（1x/51kbps）、より低速だがエラーに強い[BPSK](https://ja.wikipedia.org/wiki/デジタル変調#位相偏移変調 "wikilink")（1x/13kbps）が採用された。
+[2006年](../Page/2006年.md "wikilink")2月23日の「W-OAM」サービス開始時は、従来のQPSKに加えて、より高速な[8PSK](https://ja.wikipedia.org/wiki/デジタル変調#位相偏移変調 "wikilink")（1x/51kbps）、より低速だがエラーに強い[BPSK](https://ja.wikipedia.org/wiki/デジタル変調#位相偏移変調 "wikilink")（1x/13kbps）が採用された。
 
 現在W-OAMは、データ通信専用型端末のほか、[W-SIM](../Page/W-SIM.md "wikilink")や音声端末の一部にも採用されている。
 
-  - （対応[チップセット](../Page/チップセット.md "wikilink")） AX20Pシリーズ（P2チップセット）：スロット[ダイバーシティ](https://ja.wikipedia.org/wiki/ダイバーシティ "wikilink")ー、ハーフレート、無手順パケット、コアモジュール標準\[1\]。
+  - （対応[チップセット](../Page/チップセット.md "wikilink")） AX20Pシリーズ（P2チップセット）：スロット[ダイバーシティ](../Page/ダイバーシティ.md "wikilink")ー、ハーフレート、無手順パケット、コアモジュール標準\[1\]。
   - （対応チップセット） ML7257：スロットダイバーシティー、ハーフレート、CPU=[ARM7TDMI](https://ja.wikipedia.org/wiki/ARMアーキテクチャ#ARM7 "wikilink")\[2\]。
 
 ### W-OAM typeG
@@ -66,7 +66,7 @@ W-OAMの開始にあたって、トラフィックが高速・大容量化する
   - QAM(quadrature amplitude modulation)=[直交振幅変調](https://ja.wikipedia.org/wiki/デジタル変調#直交振幅変調 "wikilink")
   - \(n\)x : リンク数（束ねるマルチリンクの数）
 
-なお、エントランス回線（収容局⇔基地局間の回線）が従来型の[ISDN](../Page/ISDN.md "wikilink")の場合、その部分が[ボトルネック](https://ja.wikipedia.org/wiki/ボトルネック "wikilink")となり[スループット](../Page/スループット.md "wikilink")は**最大で512kbps程度に制限**されるため、[光回線等の](../Page/光通信.md "wikilink")[IP回線化が必要であるとしている](../Page/Internet_Protocol.md "wikilink")\[7\]。
+なお、エントランス回線（収容局⇔基地局間の回線）が従来型の[ISDN](../Page/ISDN.md "wikilink")の場合、その部分が[ボトルネック](../Page/ボトルネック.md "wikilink")となり[スループット](../Page/スループット.md "wikilink")は**最大で512kbps程度に制限**されるため、[光回線等の](../Page/光通信.md "wikilink")[IP回線化が必要であるとしている](../Page/Internet_Protocol.md "wikilink")\[7\]。
 
 **ISDNエントランス回線における、W-OAM typeGの端末最大スループット**
 
@@ -159,7 +159,7 @@ PlotData=
   - W-OAM対応（BPSK/QPSK/8PSK）
       - [AX520N](https://ja.wikipedia.org/wiki/AX520N "wikilink")
       - [AX420N](https://ja.wikipedia.org/wiki/AX420N "wikilink")
-      - [AX420S](https://ja.wikipedia.org/wiki/AX420S "wikilink")
+      - [AX420S](../Page/AX420S.md "wikilink")
   - W-OAM typeG対応（BPSK/QPSK/8PSK/16QAM/32QAM/64QAM）
       - [AX530S](https://ja.wikipedia.org/wiki/AX530S "wikilink")
       - [AX530IN](https://ja.wikipedia.org/wiki/AX530IN "wikilink")
@@ -242,7 +242,7 @@ PlotData=
 ### W-OAM対応W-SIMが接続可能なSIM STYLE端末
 
   - データ通信端末
-      - [WS002IN](https://ja.wikipedia.org/wiki/WS002IN "wikilink") / "DD"
+      - [WS002IN](../Page/WS002IN.md "wikilink") / "DD"
       - [WS008HA](https://ja.wikipedia.org/wiki/WS008HA "wikilink") [ExpressCard](../Page/ExpressCard.md "wikilink")アダプタ
       - [WS014IN](https://ja.wikipedia.org/wiki/WS014IN "wikilink")
   - 音声端末
@@ -274,7 +274,7 @@ PlotData=
 
 ## 関連項目
 
-  - [高度化PHS](https://ja.wikipedia.org/wiki/高度化PHS "wikilink")
+  - [高度化PHS](../Page/高度化PHS.md "wikilink")
   - [PHS](../Page/PHS.md "wikilink")
   - [ウィルコム](../Page/ウィルコム.md "wikilink")
   - [AIR-EDGE](../Page/AIR-EDGE.md "wikilink")

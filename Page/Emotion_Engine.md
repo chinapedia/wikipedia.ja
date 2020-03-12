@@ -1,7 +1,7 @@
 > この記事は[Emotion Engine](https://ja.wikipedia.org/wiki/Emotion_Engine)から翻訳されています。
 
 
-**Emotion Engine**（エモーション エンジン、略称: **EE**）は、[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink") (SCE) と[東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")によって開発され、主に[PlayStation 2向けに設計](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")・使用された[MIPS](https://ja.wikipedia.org/wiki/MIPSアーキテクチャ "wikilink") R5900ベースの[128ビット](https://ja.wikipedia.org/wiki/128ビット "wikilink")[RISC](../Page/RISC.md "wikilink")[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")である。実質的な後継は[PlayStation 3における](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")[Cell Broadband Engine](https://ja.wikipedia.org/wiki/Cell_Broadband_Engine "wikilink")。
+**Emotion Engine**（エモーション エンジン、略称: **EE**）は、[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink") (SCE) と[東芝](../Page/東芝.md "wikilink")によって開発され、主に[PlayStation 2向けに設計](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")・使用された[MIPS](../Page/MIPSアーキテクチャ.md "wikilink") R5900ベースの[128ビット](https://ja.wikipedia.org/wiki/128ビット "wikilink")[RISC](../Page/RISC.md "wikilink")[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")である。実質的な後継は[PlayStation 3における](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")[Cell Broadband Engine](../Page/Cell_Broadband_Engine.md "wikilink")。
 
 本項では、同じくSCEによって開発され、PS2向けに設計・使用された[GPU](../Page/Graphics_Processing_Unit.md "wikilink")・**Graphics Synthesizer**（グラフィックス シンセサイザ、略称: **GS**）についても扱う。
 
@@ -9,17 +9,17 @@
 
 ## 概要
 
-CPUコアの浮動小数点演算ユニット ([FPU](../Page/FPU.md "wikilink")) 以外に、[VLIW](https://ja.wikipedia.org/wiki/VLIW "wikilink")を採用した2系統のベクトル演算ユニット (VU: Vector Unit) を搭載する。そのためFPU及び2系統のVUを合計した浮動小数点演算能力は、ピーク時で 6.2 G[FLOPS](../Page/FLOPS.md "wikilink") となった。
+CPUコアの浮動小数点演算ユニット ([FPU](../Page/FPU.md "wikilink")) 以外に、[VLIW](../Page/VLIW.md "wikilink")を採用した2系統のベクトル演算ユニット (VU: Vector Unit) を搭載する。そのためFPU及び2系統のVUを合計した浮動小数点演算能力は、ピーク時で 6.2 G[FLOPS](../Page/FLOPS.md "wikilink") となった。
 
 また、[DMA](../Page/Direct_Memory_Access.md "wikilink")[コントローラが統合されており](https://ja.wikipedia.org/wiki/メモリコントローラー "wikilink")、内部の各ユニットを128bitバスで接続した世界初\[1\]の完全な128ビットプロセッサでもある。
 
 メインメモリとは、ラムバス社のDirect [RDRAM](../Page/RDRAM.md "wikilink")インターフェイス2チャネルにより3.2 GB/sのメモリ帯域で接続されている。また、イメージプロセッシングユニットと呼ばれる[MPEG-2](../Page/MPEG-2.md "wikilink")デコーダユニットを内蔵し、MPEG-2形式のビデオを単体で再生する能力を持つ。
 
-PS2が発売される前の1999年、当時のSCE社長だった[久夛良木健](../Page/久夛良木健.md "wikilink")はこのチップをゲーム機での採用だけにとどまらずマルチメディアワークステーションにも活用する構想を明らかにしていた\[2\]が（詳しくは[\#GScube 16を参照](https://ja.wikipedia.org/wiki/#GScube_16 "wikilink")）、結果としてソニー製品としてはPS2と[PSX](../Page/PSX.md "wikilink")、[WEGA](https://ja.wikipedia.org/wiki/ベガ_\(テレビ\) "wikilink")\[3\]、[QUALIA](https://ja.wikipedia.org/wiki/QUALIA "wikilink") 005\[4\]以外での採用は特になかった。ちなみに久夛良木はPS3のCPUであるCell Broadband Engineでも同様の構想を明らかにしていた\[5\]。
+PS2が発売される前の1999年、当時のSCE社長だった[久夛良木健](../Page/久夛良木健.md "wikilink")はこのチップをゲーム機での採用だけにとどまらずマルチメディアワークステーションにも活用する構想を明らかにしていた\[2\]が（詳しくは[\#GScube 16を参照](https://ja.wikipedia.org/wiki/#GScube_16 "wikilink")）、結果としてソニー製品としてはPS2と[PSX](../Page/PSX.md "wikilink")、[WEGA](../Page/ベガ_\(テレビ\).md "wikilink")\[3\]、[QUALIA](../Page/QUALIA.md "wikilink") 005\[4\]以外での採用は特になかった。ちなみに久夛良木はPS3のCPUであるCell Broadband Engineでも同様の構想を明らかにしていた\[5\]。
 
-また、[ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")（ゲームメーカー）と[山佐](https://ja.wikipedia.org/wiki/山佐 "wikilink")（パチスロメーカー）がパチスロ用基板「P246」を共同開発する際、GSと共にEEも採用された。
+また、[ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")（ゲームメーカー）と[山佐](../Page/山佐.md "wikilink")（パチスロメーカー）がパチスロ用基板「P246」を共同開発する際、GSと共にEEも採用された。
 
-初期のPS3にもPlayStation 2用ゲームソフトの[互換性](https://ja.wikipedia.org/wiki/互換性 "wikilink")を確保するためにEE+GSが搭載されている。その後GSしか搭載していない一部モデルを経てPS3におけるPS2ゲームソフトの互換性は廃止された。
+初期のPS3にもPlayStation 2用ゲームソフトの[互換性](../Page/互換性.md "wikilink")を確保するためにEE+GSが搭載されている。その後GSしか搭載していない一部モデルを経てPS3におけるPS2ゲームソフトの互換性は廃止された。
 
 ### 各世代のEE、GSの比較表
 
@@ -101,7 +101,7 @@ PS2が発売される前の1999年、当時のSCE社長だった[久夛良木健
 
 ### 概要
 
-4[MBの](https://ja.wikipedia.org/wiki/メガバイト "wikilink")[DRAM](https://ja.wikipedia.org/wiki/DRAM "wikilink")を[混載](https://ja.wikipedia.org/wiki/eDRAM "wikilink")\[11\]したことによって、2560 bit（内訳は読み込み 1024 bit、書き込み 1024 bit、テクスチャ 512 bit）という超広帯域の[バス幅を備え](../Page/バス_\(コンピュータ\).md "wikilink")、合計48[GB](../Page/ギガバイト.md "wikilink")/秒という転送速度が特徴。 その他のスペックとしては、ピクセルエンジンと呼ばれるパイプラインを16基備え、147.456 MHzで動作する。なお集積トランジスタ数は4300万、250 nmプロセス製造でダイ面積が279 mm<sup>2</sup>となっており、発表当時としてはPC向けハイエンドチップの2倍以上の規模であった。
+4[MBの](../Page/メガバイト.md "wikilink")[DRAM](https://ja.wikipedia.org/wiki/DRAM "wikilink")を[混載](https://ja.wikipedia.org/wiki/eDRAM "wikilink")\[11\]したことによって、2560 bit（内訳は読み込み 1024 bit、書き込み 1024 bit、テクスチャ 512 bit）という超広帯域の[バス幅を備え](../Page/バス_\(コンピュータ\).md "wikilink")、合計48[GB](../Page/ギガバイト.md "wikilink")/秒という転送速度が特徴。 その他のスペックとしては、ピクセルエンジンと呼ばれるパイプラインを16基備え、147.456 MHzで動作する。なお集積トランジスタ数は4300万、250 nmプロセス製造でダイ面積が279 mm<sup>2</sup>となっており、発表当時としてはPC向けハイエンドチップの2倍以上の規模であった。
 
 ## GScube 16
 

@@ -5,7 +5,7 @@
 
 ## 概要
 
-NTTドコモと、韓国の携帯電話事業者[KTF](https://ja.wikipedia.org/wiki/KTF "wikilink")（当時、現在は親会社と合併して[KT](https://ja.wikipedia.org/wiki/KT_\(通信企業\) "wikilink") ）が[コネクサス・モバイル・アライアンス](https://ja.wikipedia.org/wiki/コネクサス・モバイル・アライアンス "wikilink")の取り組みのなかで共同調達した機種である。ドコモのFOMA端末では最初に発売されたUSB端子型になる。
+NTTドコモと、韓国の携帯電話事業者[KTF](../Page/KTF.md "wikilink")（当時、現在は親会社と合併して[KT](https://ja.wikipedia.org/wiki/KT_\(通信企業\) "wikilink") ）が[コネクサス・モバイル・アライアンス](https://ja.wikipedia.org/wiki/コネクサス・モバイル・アライアンス "wikilink")の取り組みのなかで共同調達した機種である。ドコモのFOMA端末では最初に発売されたUSB端子型になる。
 
 対応通信形式は日本国内では、[FOMAハイスピード](../Page/FOMAハイスピード.md "wikilink")に対応。受信最大7.2Mbps、送信最大384kbpsに対応。ハイスピードエリア外では送受信最大384kbpsに対応する。日本国外では、W-CDMAネットワークでのローミング ([WORLD WING](../Page/WORLD_WING.md "wikilink")) が可能な端末である。
 

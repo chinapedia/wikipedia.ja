@@ -1,13 +1,13 @@
 > この記事は[IVAN](https://ja.wikipedia.org/wiki/IVAN)から翻訳されています。
 
 
-**IVAN**（アイヴァン、[1984年](../Page/1984年.md "wikilink")[2月9日](../Page/2月9日.md "wikilink") - ）は、日本の[ファッションモデル](https://ja.wikipedia.org/wiki/ファッションモデル "wikilink")、[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[タレント](../Page/タレント.md "wikilink")。[レプロエンタテインメント](https://ja.wikipedia.org/wiki/レプロエンタテインメント "wikilink")所属。本名は**Liera Manuel Ivan**（リエラ マヌエル イヴァン）、日本名は**笠原明**。父が[日本人](https://ja.wikipedia.org/wiki/日本人 "wikilink")と[スペイン人](../Page/スペイン人.md "wikilink")の[ハーフ](https://ja.wikipedia.org/wiki/ハーフ "wikilink")、母がメキシコ人。[メキシコ](../Page/メキシコ.md "wikilink")国籍\[1\]。趣味は[アクセサリー](https://ja.wikipedia.org/wiki/アクセサリー "wikilink")作り、友達作り。特技は[英語](../Page/英語.md "wikilink")、[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")、ナチュラルフードコーディネート、カラーコーディネート。
+**IVAN**（アイヴァン、[1984年](../Page/1984年.md "wikilink")[2月9日](../Page/2月9日.md "wikilink") - ）は、日本の[ファッションモデル](../Page/ファッションモデル.md "wikilink")、[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[タレント](../Page/タレント.md "wikilink")。[レプロエンタテインメント](../Page/レプロエンタテインメント.md "wikilink")所属。本名は**Liera Manuel Ivan**（リエラ マヌエル イヴァン）、日本名は**笠原明**。父が[日本人](https://ja.wikipedia.org/wiki/日本人 "wikilink")と[スペイン人](../Page/スペイン人.md "wikilink")の[ハーフ](https://ja.wikipedia.org/wiki/ハーフ "wikilink")、母がメキシコ人。[メキシコ](../Page/メキシコ.md "wikilink")国籍\[1\]。趣味は[アクセサリー](https://ja.wikipedia.org/wiki/アクセサリー "wikilink")作り、友達作り。特技は[英語](../Page/英語.md "wikilink")、[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")、ナチュラルフードコーディネート、カラーコーディネート。
 
 ## 来歴
 
-メキシコ生まれ。1歳の時に[奈良](https://ja.wikipedia.org/wiki/奈良 "wikilink")へ移住。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に第1回[沖縄アクターズスクール](https://ja.wikipedia.org/wiki/沖縄アクターズスクール "wikilink")[全国](https://ja.wikipedia.org/wiki/全国 "wikilink")[オーディション](https://ja.wikipedia.org/wiki/オーディション "wikilink")[グランプリ](https://ja.wikipedia.org/wiki/グランプリ "wikilink")に唯一の男子出場者で選ばれ約1年間、歌やダンスのレッスンを受ける。その後渡米し[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")の高校に進学。卒業後帰国し、モデル活動を始める。[2004年](../Page/2004年.md "wikilink")には[パリコレのモデルに選ばれ世界のトップモデルとしても活躍](https://ja.wikipedia.org/wiki/パリ・コレクション "wikilink")。[2007年](../Page/2007年.md "wikilink")から[PENICILLIN](../Page/PENICILLIN.md "wikilink")のヴォーカリストである[HAKUEI](https://ja.wikipedia.org/wiki/HAKUEI "wikilink")の全面プロデュースによる音楽活動も始める。しかしその後は、音楽活動の方向性の違いや金銭トラブルなどにより旧所属事務所の寮を飛び出して突然[失踪](https://ja.wikipedia.org/wiki/失踪 "wikilink")、一時は[ホームレス](../Page/ホームレス.md "wikilink")も経験した\[2\]。
+メキシコ生まれ。1歳の時に[奈良](../Page/奈良.md "wikilink")へ移住。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に第1回[沖縄アクターズスクール](../Page/沖縄アクターズスクール.md "wikilink")[全国](https://ja.wikipedia.org/wiki/全国 "wikilink")[オーディション](../Page/オーディション.md "wikilink")[グランプリ](../Page/グランプリ.md "wikilink")に唯一の男子出場者で選ばれ約1年間、歌やダンスのレッスンを受ける。その後渡米し[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")の高校に進学。卒業後帰国し、モデル活動を始める。[2004年](../Page/2004年.md "wikilink")には[パリコレのモデルに選ばれ世界のトップモデルとしても活躍](../Page/パリ・コレクション.md "wikilink")。[2007年](../Page/2007年.md "wikilink")から[PENICILLIN](../Page/PENICILLIN.md "wikilink")のヴォーカリストである[HAKUEI](../Page/HAKUEI.md "wikilink")の全面プロデュースによる音楽活動も始める。しかしその後は、音楽活動の方向性の違いや金銭トラブルなどにより旧所属事務所の寮を飛び出して突然[失踪](https://ja.wikipedia.org/wiki/失踪 "wikilink")、一時は[ホームレス](../Page/ホームレス.md "wikilink")も経験した\[2\]。
 
-2013年[9月28日](../Page/9月28日.md "wikilink")放送の『[有吉大反省会](https://ja.wikipedia.org/wiki/有吉反省会 "wikilink")』（[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")）に初出演した際に、自ら「[オネエ](https://ja.wikipedia.org/wiki/オネエ言葉#オネエ "wikilink")」であることを[告白](../Page/カミングアウト.md "wikilink")\[3\]。以降、[トランスジェンダー](https://ja.wikipedia.org/wiki/トランスジェンダー "wikilink")タレントとして活動している。2014年度[ブレイクタレントランキング](https://ja.wikipedia.org/wiki/タレント番組出演本数ランキング "wikilink")2位。
+2013年[9月28日](../Page/9月28日.md "wikilink")放送の『[有吉大反省会](https://ja.wikipedia.org/wiki/有吉反省会 "wikilink")』（[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")）に初出演した際に、自ら「[オネエ](https://ja.wikipedia.org/wiki/オネエ言葉#オネエ "wikilink")」であることを[告白](../Page/カミングアウト.md "wikilink")\[3\]。以降、[トランスジェンダー](../Page/トランスジェンダー.md "wikilink")タレントとして活動している。2014年度[ブレイクタレントランキング](https://ja.wikipedia.org/wiki/タレント番組出演本数ランキング "wikilink")2位。
 
 ## 著書
 
@@ -26,10 +26,10 @@
   - サウンドキッズ（2007年8月、[テレビ熊本](../Page/テレビ熊本.md "wikilink")）
   - INDIES HOT LINE（2007年8月、[スカイパーフェクTV\!](../Page/スカパー!プレミアムサービス.md "wikilink")267ch）
   - パロパロmini（2007年9月、[テレビユー福島](../Page/テレビユー福島.md "wikilink")）
-  - [FreePass〜音楽専科〜](https://ja.wikipedia.org/wiki/FreePass〜音楽専科〜 "wikilink")（2007年9月、[テレビせとうち](../Page/テレビせとうち.md "wikilink")）
+  - [FreePass〜音楽専科〜](../Page/FreePass〜音楽専科〜.md "wikilink")（2007年9月、[テレビせとうち](../Page/テレビせとうち.md "wikilink")）
   - [有吉反省会](https://ja.wikipedia.org/wiki/有吉反省会 "wikilink")（2013年9月28日 - 、[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")） - レギュラー反省人
   - [UTAGE\!](https://ja.wikipedia.org/wiki/UTAGE! "wikilink")（2014年4月21日 - 、TBS）
-  - [痛快\!明石家電視台](https://ja.wikipedia.org/wiki/痛快!明石家電視台 "wikilink")（2015年9月 - 、[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")） - 不定期出演
+  - [痛快\!明石家電視台](../Page/痛快!明石家電視台.md "wikilink")（2015年9月 - 、[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")） - 不定期出演
   - [くりぃむクイズ ミラクル9](https://ja.wikipedia.org/wiki/くりぃむクイズ_ミラクル9 "wikilink")（テレビ朝日） - 不定期出演
 
 ### ウェブテレビ
@@ -43,11 +43,11 @@
 
 ### 舞台
 
-  - ミュージカル『[RENT](https://ja.wikipedia.org/wiki/レント_\(ミュージカル\) "wikilink")』（2015年9月8日 - 10月9日、[シアタークリエ](https://ja.wikipedia.org/wiki/シアタークリエ "wikilink")） - エンジェル 役
+  - ミュージカル『[RENT](../Page/レント_\(ミュージカル\).md "wikilink")』（2015年9月8日 - 10月9日、[シアタークリエ](../Page/シアタークリエ.md "wikilink")） - エンジェル 役
 
 ### ミュージックビデオ
 
-  - [安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")『[WANT ME, WANT ME](https://ja.wikipedia.org/wiki/WANT_ME,_WANT_ME "wikilink")』（2005年4月6日）
+  - [安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")『[WANT ME, WANT ME](../Page/WANT_ME,_WANT_ME.md "wikilink")』（2005年4月6日）
   - [感覚ピエロ](https://ja.wikipedia.org/wiki/感覚ピエロ "wikilink")『疑問疑答』（2017年6月7日）
 
 ## モデル活動
@@ -56,16 +56,16 @@
 
 <!-- end list -->
 
-  - [MEN'S NON-NO](https://ja.wikipedia.org/wiki/MEN'S_NON-NO "wikilink")
+  - [MEN'S NON-NO](../Page/MEN'S_NON-NO.md "wikilink")
   - smartMAX
-  - [POPEYE](https://ja.wikipedia.org/wiki/POPEYE "wikilink")
+  - [POPEYE](../Page/POPEYE.md "wikilink")
   - [FINEBOYS](https://ja.wikipedia.org/wiki/FINEBOYS "wikilink")
   - Esquire
   - HUgE
-  - [KERA](https://ja.wikipedia.org/wiki/KERA "wikilink")　　
+  - [KERA](../Page/KERA.md "wikilink")　　
   - GQ JAPAN
   - 月間デビュー
-  - [女性自身](https://ja.wikipedia.org/wiki/女性自身 "wikilink")
+  - [女性自身](../Page/女性自身.md "wikilink")
 
 <!-- end list -->
 
@@ -78,7 +78,7 @@
   - N.HOOLYWOOD（東京コレクション）
   - issey miyake（東京コレクション）
   - Solid Homme（ソウルコレクション）
-  - [John Galliano](../Page/ジョン・ガリアーノ.md "wikilink")（[パリ・コレクション](https://ja.wikipedia.org/wiki/パリ・コレクション "wikilink")）
+  - [John Galliano](../Page/ジョン・ガリアーノ.md "wikilink")（[パリ・コレクション](../Page/パリ・コレクション.md "wikilink")）
 
 ## 音楽作品
 

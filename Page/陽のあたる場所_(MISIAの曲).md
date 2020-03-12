@@ -16,7 +16,7 @@
 <!-- end list -->
 
 1.  **陽のあたる場所 (ORIGINAL MIX)**
-    （作詞:MISIA & [佐々木潤](https://ja.wikipedia.org/wiki/佐々木潤 "wikilink")　作曲:佐々木潤）
+    （作詞:MISIA & [佐々木潤](../Page/佐々木潤.md "wikilink")　作曲:佐々木潤）
 2.  **陽のあたる場所 (NEW SOUL RIVER DUB)**
     （作詞:MISIA & 佐々木潤　作曲:佐々木潤）
 

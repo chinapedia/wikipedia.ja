@@ -5,15 +5,15 @@
 
 ## 概要
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月7日](../Page/10月7日.md "wikilink")に「**ほっとないと22**」として放送開始。毎週火曜22時の放送だったが、JNN系列の自主編成時間帯（[TBSでは](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")「[そこが知りたい](https://ja.wikipedia.org/wiki/そこが知りたい "wikilink")」）に放送していたため、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")10月より19時に時間帯移動となり「**ほっとないとHOKKAIDO**」にタイトルを改めた。
+[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月7日](../Page/10月7日.md "wikilink")に「**ほっとないと22**」として放送開始。毎週火曜22時の放送だったが、JNN系列の自主編成時間帯（[TBSでは](../Page/TBSテレビ.md "wikilink")「[そこが知りたい](../Page/そこが知りたい.md "wikilink")」）に放送していたため、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")10月より19時に時間帯移動となり「**ほっとないとHOKKAIDO**」にタイトルを改めた。
 
-[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")10月、バラエティ番組「[ムーブ](https://ja.wikipedia.org/wiki/ムーブ_\(バラエティー\) "wikilink")」開始に伴い、火曜20時に枠移動。安定した視聴率を獲得していたが、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")3月をもって放送終了。その後はTBSの同時ネット（「[見ればなっとく\!](https://ja.wikipedia.org/wiki/見ればなっとく! "wikilink")」）となり現在に至る。
+[1992年](../Page/1992年.md "wikilink")10月、バラエティ番組「[ムーブ](../Page/ムーブ_\(バラエティー\).md "wikilink")」開始に伴い、火曜20時に枠移動。安定した視聴率を獲得していたが、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")3月をもって放送終了。その後はTBSの同時ネット（「[見ればなっとく\!](https://ja.wikipedia.org/wiki/見ればなっとく! "wikilink")」）となり現在に至る。
 
 スポンサーは道内全域向けと道内各局別をあわせたものとなっており、テロップ表示していた札幌局以外の地域では各局毎でブルーバックまたはグリーンバックでスポンサーが表示されていた（TBSからの特別番組による休止の場合の当該時間帯は道内全域向けのスポンサーのみ放送し、道内各局別のスポンサーCMは休止となっていた）。
 
 ## 番組内容
 
-「22」時代は「地域密着番組」を謳い文句に放送していた。「HOKKAIDO」になってからは初期は「22」時代同様「地域密着番組」だったが、後に視聴者参加のクイズ番組（電話により解答。当初は「知っTELねっと」というサブタイトルが付いていた）にリニューアル。ちなみに電話をかける条件としては、番号の末尾だけではなく、[市外局番](https://ja.wikipedia.org/wiki/市外局番 "wikilink")にも条件が定まっており、「**011の地域（[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")・[江別市](../Page/江別市.md "wikilink")・広島町（現：[北広島市](../Page/北広島市.md "wikilink")）・[南幌町](https://ja.wikipedia.org/wiki/南幌町 "wikilink")）**」と「**011以外の地域**」に分かれていた。なお、電話による解答権は2人までとなっていた。また、正解した場合は「ほっと」「ないと」「HOKKAIDO」と書かれた3つのボックスの中から1つ選ぶが、中に入っている賞品は問題ごとに位置が入れ替わっている（賞品そのものは週替りで登場するが、名産品から家電品まで多種多様だった）。
+「22」時代は「地域密着番組」を謳い文句に放送していた。「HOKKAIDO」になってからは初期は「22」時代同様「地域密着番組」だったが、後に視聴者参加のクイズ番組（電話により解答。当初は「知っTELねっと」というサブタイトルが付いていた）にリニューアル。ちなみに電話をかける条件としては、番号の末尾だけではなく、[市外局番](../Page/市外局番.md "wikilink")にも条件が定まっており、「**011の地域（[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")・[江別市](../Page/江別市.md "wikilink")・広島町（現：[北広島市](../Page/北広島市.md "wikilink")）・[南幌町](../Page/南幌町.md "wikilink")）**」と「**011以外の地域**」に分かれていた。なお、電話による解答権は2人までとなっていた。また、正解した場合は「ほっと」「ないと」「HOKKAIDO」と書かれた3つのボックスの中から1つ選ぶが、中に入っている賞品は問題ごとに位置が入れ替わっている（賞品そのものは週替りで登場するが、名産品から家電品まで多種多様だった）。
 
 末期（1996年頃）は「快傑調査室」としてロケ企画が中心となっていた。
 
@@ -23,15 +23,15 @@
 
 ## 出演者
 
-  - [小川和幸](https://ja.wikipedia.org/wiki/小川和幸 "wikilink")（アナウンサー）「快傑調査室」レポーター
+  - [小川和幸](../Page/小川和幸.md "wikilink")（アナウンサー）「快傑調査室」レポーター
   - [桜井宏](https://ja.wikipedia.org/wiki/桜井宏_\(アナウンサー\) "wikilink")（アナウンサー）最末期「クイズここが考えどこ」司会
   - [島森則夫](https://ja.wikipedia.org/wiki/島森則夫 "wikilink")（当時はアナウンサー、現在はニュースデスク担当）中期のクイズ番組と「怪傑調査室」司会
   - [藪淳一](https://ja.wikipedia.org/wiki/藪淳一 "wikilink")（当時はアナウンサー、現在は大学講師兼幼稚園理事長）
-  - [渡辺陽子](https://ja.wikipedia.org/wiki/渡辺陽子 "wikilink")（アナウンサー）
+  - [渡辺陽子](../Page/渡辺陽子.md "wikilink")（アナウンサー）
   - [沢口孝夫](https://ja.wikipedia.org/wiki/沢口孝夫 "wikilink")（当時はアナウンサー）「22」時代からの初期
   - [中村浩美](../Page/中村浩美.md "wikilink")（ジャーナリスト） 「22」時代からの初期　
   - [浅野英美](https://ja.wikipedia.org/wiki/浅野英美 "wikilink")（当時はアナウンサー）「快傑調査室」レポーター
-  - [卓田和広](https://ja.wikipedia.org/wiki/卓田和広 "wikilink")（アナウンサー）「快傑調査室」レポーター
+  - [卓田和広](../Page/卓田和広.md "wikilink")（アナウンサー）「快傑調査室」レポーター
   - [猪田弘美](https://ja.wikipedia.org/wiki/猪田弘美 "wikilink")（当時は大学生、プレゼントガイド）
 
 [Category:北海道放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:北海道放送のテレビ番組 "wikilink") [Category:ローカルテレビ局のクイズ番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局のクイズ番組 "wikilink") [Category:北海道のテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:北海道のテレビの情報・ワイドショー番組 "wikilink") [Category:1986年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1986年のテレビ番組_\(日本\) "wikilink") [Category:視聴者参加型クイズ番組](https://ja.wikipedia.org/wiki/Category:視聴者参加型クイズ番組 "wikilink")

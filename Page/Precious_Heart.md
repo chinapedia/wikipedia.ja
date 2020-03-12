@@ -5,26 +5,26 @@
 
 ## 解説
 
-  - 前作「[旅立ちはフリージア](../Page/旅立ちはフリージア.md "wikilink")」より1年2ヶ月ぶりにリリースされたシングル。作曲は当時、同じレコード会社に在籍していた[PRINCESS PRINCESSの](https://ja.wikipedia.org/wiki/プリンセス_プリンセス "wikilink")[奥居香](https://ja.wikipedia.org/wiki/岸谷香 "wikilink")。
+  - 前作「[旅立ちはフリージア](../Page/旅立ちはフリージア.md "wikilink")」より1年2ヶ月ぶりにリリースされたシングル。作曲は当時、同じレコード会社に在籍していた[PRINCESS PRINCESSの](../Page/プリンセス_プリンセス.md "wikilink")[奥居香](../Page/岸谷香.md "wikilink")。
   - 作詞は松田本人で、海外進出の夢や自身の生き様を表す内容であり、後の全米進出の布石となっている。
-  - 松田本人が出演した[SUBARU](https://ja.wikipedia.org/wiki/スバル "wikilink")「[レックス](../Page/スバル・レックス.md "wikilink") ai」の[CMソングとなっていた](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。
-  - 今作の[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")最高位が2位止まりだったため、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")の「[風は秋色／Eighteen](https://ja.wikipedia.org/wiki/風は秋色/Eighteen "wikilink")」以来継続していた連続1位記録は24作で途切れた。
+  - 松田本人が出演した[SUBARU](https://ja.wikipedia.org/wiki/スバル "wikilink")「[レックス](../Page/スバル・レックス.md "wikilink") ai」の[CMソングとなっていた](../Page/コマーシャルソング.md "wikilink")。
+  - 今作の[オリコンチャート](../Page/オリコンチャート.md "wikilink")最高位が2位止まりだったため、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")の「[風は秋色／Eighteen](https://ja.wikipedia.org/wiki/風は秋色/Eighteen "wikilink")」以来継続していた連続1位記録は24作で途切れた。
 
 ## 収録曲
 
 1.  Precious Heart (4分26秒)（SUBARU｢レックス ai｣CMソング）
-      - 作詞：Seiko Matsuda／作曲：[奥居香](https://ja.wikipedia.org/wiki/岸谷香 "wikilink")／編曲：[笹路正徳](https://ja.wikipedia.org/wiki/笹路正徳 "wikilink")
+      - 作詞：Seiko Matsuda／作曲：[奥居香](../Page/岸谷香.md "wikilink")／編曲：[笹路正徳](../Page/笹路正徳.md "wikilink")
 2.  恋の魔法でCatch Your Heart(4分59秒)
-      - 作詞：Seiko Matsuda／作曲：[井上ヨシマサ](../Page/井上ヨシマサ.md "wikilink")／編曲：[大村雅朗](https://ja.wikipedia.org/wiki/大村雅朗 "wikilink")
+      - 作詞：Seiko Matsuda／作曲：[井上ヨシマサ](../Page/井上ヨシマサ.md "wikilink")／編曲：[大村雅朗](../Page/大村雅朗.md "wikilink")
 
 ## 関連作品
 
   - **Precious Heart**
       - Precious Moment
-      - [Bible](https://ja.wikipedia.org/wiki/Bible_\(アルバム\) "wikilink")
+      - [Bible](../Page/Bible_\(アルバム\).md "wikilink")
       - [Bible III](https://ja.wikipedia.org/wiki/Bible_III "wikilink")
-      - [Complete Bible](https://ja.wikipedia.org/wiki/Complete_Bible "wikilink")
-      - [SEIKO SUITE](https://ja.wikipedia.org/wiki/SEIKO_SUITE "wikilink")
+      - [Complete Bible](../Page/Complete_Bible.md "wikilink")
+      - [SEIKO SUITE](../Page/SEIKO_SUITE.md "wikilink")
       - [Premium Diamond Bible](https://ja.wikipedia.org/wiki/Premium_Diamond_Bible "wikilink")
       - [Diamond Bible](https://ja.wikipedia.org/wiki/Diamond_Bible "wikilink")
       - [SEIKO STORY〜80's HITS COLLECTION〜](https://ja.wikipedia.org/wiki/SEIKO_STORY〜80's_HITS_COLLECTION〜 "wikilink")

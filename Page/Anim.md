@@ -1,7 +1,7 @@
 > この記事は[Anim](https://ja.wikipedia.org/wiki/Anim)から翻訳されています。
 
 
-**Anim**（**アニム**）は株式会社エスアイエスプランニングの[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランド。[フランス書院](https://ja.wikipedia.org/wiki/フランス書院 "wikilink")の[官能小説](../Page/官能小説.md "wikilink")を原作としたゲームを複数発売している。凌辱色の強い内容とNTRが特徴のブランドである。
+**Anim**（**アニム**）は株式会社エスアイエスプランニングの[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランド。[フランス書院](../Page/フランス書院.md "wikilink")の[官能小説](../Page/官能小説.md "wikilink")を原作としたゲームを複数発売している。凌辱色の強い内容とNTRが特徴のブランドである。
 
 ## 作品一覧
 
@@ -27,7 +27,7 @@
 
 <!-- end list -->
 
-  - [わかつきひかる](https://ja.wikipedia.org/wiki/わかつきひかる "wikilink")原作
+  - [わかつきひかる](../Page/わかつきひかる.md "wikilink")原作
 
 <!-- end list -->
 

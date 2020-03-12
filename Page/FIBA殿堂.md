@@ -1,9 +1,9 @@
 > この記事は[FIBA](https://ja.wikipedia.org/wiki/FIBA)から翻訳されています。
 
 
-**FIBA殿堂**（―でんどう、**FIBA Hall of Fame**）は、[国際バスケットボール連盟](https://ja.wikipedia.org/wiki/国際バスケットボール連盟 "wikilink")（FIBA）が[バスケットボール](../Page/バスケットボール.md "wikilink")界の発展及び普及に貢献した選手を称えるために設置した施設である。
+**FIBA殿堂**（―でんどう、**FIBA Hall of Fame**）は、[国際バスケットボール連盟](../Page/国際バスケットボール連盟.md "wikilink")（FIBA）が[バスケットボール](../Page/バスケットボール.md "wikilink")界の発展及び普及に貢献した選手を称えるために設置した施設である。
 
-[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・アルコベンダスに設置。
+[1991年](../Page/1991年.md "wikilink")、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・アルコベンダスに設置。
 
 ## 殿堂入り人物
 
@@ -104,7 +104,7 @@
   - [Renato Righetto](https://ja.wikipedia.org/wiki/Renato_Righetto "wikilink")（[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・審判員）
   - [エミリアーノ・ロドリゲス](https://ja.wikipedia.org/wiki/エミリアーノ・ロドリゲス "wikilink")（[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・選手）
   - [Liliana Ronchetti](https://ja.wikipedia.org/wiki/Liliana_Ronchetti "wikilink")（[イタリア](../Page/イタリア.md "wikilink")・選手）
-  - [ビル・ラッセル](https://ja.wikipedia.org/wiki/ビル・ラッセル "wikilink")（[米国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・選手）
+  - [ビル・ラッセル](../Page/ビル・ラッセル.md "wikilink")（[米国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・選手）
 
 ### S
 
@@ -115,7 +115,7 @@
   - [Radomir Shaper](https://ja.wikipedia.org/wiki/Radomir_Shaper "wikilink")（[セルビア](../Page/セルビア.md "wikilink")・功労者）
   - [ディーン・スミス](https://ja.wikipedia.org/wiki/ディーン・スミス_\(\) "wikilink")（[米国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・コーチ）
   - Togo Renan Soares - see Kanela
-  - [デビッド・スターン](https://ja.wikipedia.org/wiki/デビッド・スターン "wikilink")（[米国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・功労者）
+  - [デビッド・スターン](../Page/デビッド・スターン.md "wikilink")（[米国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・功労者）
   - [Borislav Stanković](https://ja.wikipedia.org/wiki/Borislav_Stanković "wikilink")（[セルビア](../Page/セルビア.md "wikilink")・功労者）
   - [Edward S. Steitz](https://ja.wikipedia.org/wiki/Ed_Steitz "wikilink")（[米国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・功労者）
 
@@ -133,7 +133,7 @@
 
 ### Y
 
-  - （[韓国](https://ja.wikipedia.org/wiki/大韓民国 "wikilink")・功労者）
+  - （[韓国](../Page/大韓民国.md "wikilink")・功労者）
 
 ### Z
 

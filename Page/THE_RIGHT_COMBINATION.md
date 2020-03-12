@@ -5,7 +5,7 @@
 
 ## 解説
 
-  - Seiko and Donnie Wahlberg名義でリリースされた。当時人気絶頂だったアイドルグループ[NEW KIDS ON THE BLOCKの](../Page/ニュー・キッズ・オン・ザ・ブロック.md "wikilink")[Donnie Wahlbergとの](../Page/ドニー・ウォルバーグ.md "wikilink")[デュエット](https://ja.wikipedia.org/wiki/デュエット "wikilink")曲であった。バックコーラスとしてNEW KIDS ON THE BLOCKも参加している。
+  - Seiko and Donnie Wahlberg名義でリリースされた。当時人気絶頂だったアイドルグループ[NEW KIDS ON THE BLOCKの](../Page/ニュー・キッズ・オン・ザ・ブロック.md "wikilink")[Donnie Wahlbergとの](../Page/ドニー・ウォルバーグ.md "wikilink")[デュエット](../Page/デュエット.md "wikilink")曲であった。バックコーラスとしてNEW KIDS ON THE BLOCKも参加している。
 
 <!-- end list -->
 
@@ -17,7 +17,7 @@
 
 <!-- end list -->
 
-  - Seiko and Donnie Wahlbergバージョンとして発売される前に、日本語バージョンが[森川由加里](https://ja.wikipedia.org/wiki/森川由加里 "wikilink")のアルバム『SHOW ME』(1987年)に収録されている。こちらのデュエットボーカルは[Sing Like Talkingで正式デビュー前の](https://ja.wikipedia.org/wiki/Sing_Like_Talking "wikilink")[佐藤竹善](https://ja.wikipedia.org/wiki/佐藤竹善 "wikilink")。
+  - Seiko and Donnie Wahlbergバージョンとして発売される前に、日本語バージョンが[森川由加里](../Page/森川由加里.md "wikilink")のアルバム『SHOW ME』(1987年)に収録されている。こちらのデュエットボーカルは[Sing Like Talkingで正式デビュー前の](https://ja.wikipedia.org/wiki/Sing_Like_Talking "wikilink")[佐藤竹善](../Page/佐藤竹善.md "wikilink")。
 
 <!-- end list -->
 
@@ -49,14 +49,14 @@
 
   - **THE RIGHT COMBINATION**
       - [Seiko](https://ja.wikipedia.org/wiki/Seiko_\(アルバム\) "wikilink")
-      - [Sweet Memories'93](https://ja.wikipedia.org/wiki/Sweet_Memories'93 "wikilink")
-      - [Complete Bible](https://ja.wikipedia.org/wiki/Complete_Bible "wikilink")
+      - [Sweet Memories'93](../Page/Sweet_Memories'93.md "wikilink")
+      - [Complete Bible](../Page/Complete_Bible.md "wikilink")
   - **LOVER'S PARADISE**
-      - [Complete Bible](https://ja.wikipedia.org/wiki/Complete_Bible "wikilink")
+      - [Complete Bible](../Page/Complete_Bible.md "wikilink")
 
 ## 関連項目
 
-  - [1990年の音楽](https://ja.wikipedia.org/wiki/1990年の音楽 "wikilink")
+  - [1990年の音楽](../Page/1990年の音楽.md "wikilink")
 
 [Category:松田聖子の楽曲](https://ja.wikipedia.org/wiki/Category:松田聖子の楽曲 "wikilink") [Category:1990年のシングル](https://ja.wikipedia.org/wiki/Category:1990年のシングル "wikilink") [Category:楽曲_ら](https://ja.wikipedia.org/wiki/Category:楽曲_ら "wikilink")
 

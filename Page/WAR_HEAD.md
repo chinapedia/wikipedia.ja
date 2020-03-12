@@ -1,7 +1,7 @@
 > この記事は[WAR HEAD](https://ja.wikipedia.org/wiki/WAR_HEAD)から翻訳されています。
 
 
-**WAR HEAD**（ウォー・ヘッド）は、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[7月21日](../Page/7月21日.md "wikilink")に[アルファレコード](https://ja.wikipedia.org/wiki/アルファレコード "wikilink")（現・[アルファミュージック](https://ja.wikipedia.org/wiki/アルファミュージック "wikilink")）より発売された[坂本龍一](../Page/坂本龍一.md "wikilink")初の[シングル](../Page/シングル.md "wikilink")。
+**WAR HEAD**（ウォー・ヘッド）は、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[7月21日](../Page/7月21日.md "wikilink")に[アルファレコード](../Page/アルファレコード.md "wikilink")（現・[アルファミュージック](https://ja.wikipedia.org/wiki/アルファミュージック "wikilink")）より発売された[坂本龍一](../Page/坂本龍一.md "wikilink")初の[シングル](../Page/シングル.md "wikilink")。
 
 ## 解説
 
@@ -30,7 +30,7 @@
 ### WAR HEAD
 
   - Voice : Chris Mosdell
-  - Guitars : [Kenji Omura](https://ja.wikipedia.org/wiki/大村憲司 "wikilink")
+  - Guitars : [Kenji Omura](../Page/大村憲司.md "wikilink")
   - Drums : [Yukihiro Takahashi](../Page/高橋幸宏.md "wikilink")
   - Bass : [Haruomi Hosono](../Page/細野晴臣.md "wikilink")
   - Other All Instruments : Ryuichi Sakamoto
@@ -44,5 +44,5 @@
 
 [Category:1980年のシングル](https://ja.wikipedia.org/wiki/Category:1980年のシングル "wikilink") [Category:坂本龍一の楽曲](https://ja.wikipedia.org/wiki/Category:坂本龍一の楽曲 "wikilink") [Category:坂本龍一が制作した楽曲](https://ja.wikipedia.org/wiki/Category:坂本龍一が制作した楽曲 "wikilink") [Category:アルファレコードのシングル](https://ja.wikipedia.org/wiki/Category:アルファレコードのシングル "wikilink") [Category:1980年のデビュー・シングル](https://ja.wikipedia.org/wiki/Category:1980年のデビュー・シングル "wikilink") [Category:楽曲_う](https://ja.wikipedia.org/wiki/Category:楽曲_う "wikilink")
 
-1.  坂本龍一『[US](https://ja.wikipedia.org/wiki/US_\(坂本龍一のアルバム\) "wikilink")』収載「全曲コメント」
+1.  坂本龍一『[US](../Page/US_\(坂本龍一のアルバム\).md "wikilink")』収載「全曲コメント」
 2.  現在は“NEW LEX”として営業。

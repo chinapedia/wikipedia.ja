@@ -1,11 +1,11 @@
 > この記事は[SIAM SHADE XI COMPLETE BEST HEART OF ROCK](https://ja.wikipedia.org/wiki/SIAM_SHADE_XI_COMPLETE_BEST_HEART_OF_ROCK)から翻訳されています。
 
 
-『**SIAM SHADE XI COMPLETE BEST 〜HEART OF ROCK〜**』（シャムシェイド・イレブン コンプリート・ベスト ハート・オブ・ロック）は、[SIAM SHADEの](https://ja.wikipedia.org/wiki/SIAM_SHADE "wikilink")[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。[2007年](../Page/2007年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")発売。
+『**SIAM SHADE XI COMPLETE BEST 〜HEART OF ROCK〜**』（シャムシェイド・イレブン コンプリート・ベスト ハート・オブ・ロック）は、[SIAM SHADEの](../Page/SIAM_SHADE.md "wikilink")[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。[2007年](../Page/2007年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")発売。
 
 ## 解説
 
-  - バンド初のコンプリートベストアルバムで、同年[11月18日](../Page/11月18日.md "wikilink")に[日本武道館](https://ja.wikipedia.org/wiki/日本武道館 "wikilink")でライブが行われる為、復習の為に完成されたアルバム。
+  - バンド初のコンプリートベストアルバムで、同年[11月18日](../Page/11月18日.md "wikilink")に[日本武道館](../Page/日本武道館.md "wikilink")でライブが行われる為、復習の為に完成されたアルバム。
   - ファンの人気投票（投票人数は約6000人）によって選ばれた全30曲（順位・投票数は後述）を2枚組に分けて収録されている（ただし、30位以内に入っていない曲も収録されている）。
   - 2枚のCDの他、DVDも付いてくる。
   - 「HEART OF ROCK」は、ライブのタイトルにかけており、「心からロックを愛し続ける」という意味がある。

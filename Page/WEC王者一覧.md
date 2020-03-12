@@ -95,7 +95,7 @@
 <tbody>
 <tr class="odd">
 <td><p>初</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フランク・シャムロック" title="wikilink">フランク・シャムロック</a></p></td>
+<td><p><a href="../Page/フランク・シャムロック.md" title="wikilink">フランク・シャムロック</a></p></td>
 <td><p>2003年3月27日 - 2003年8月</p></td>
 <td><p>0</p></td>
 <td></td>
@@ -109,7 +109,7 @@
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジェイソン・ランバート" title="wikilink">ジェイソン・ランバート</a></p></td>
+<td><p><a href="../Page/ジェイソン・ランバート.md" title="wikilink">ジェイソン・ランバート</a></p></td>
 <td><p>2005年1月22日 - 2005年10月</p></td>
 <td><p>0</p></td>
 <td></td>
@@ -217,10 +217,10 @@
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/パウロ・フィリオ" title="wikilink">パウロ・フィリオ</a></p></td>
+<td><p><a href="../Page/パウロ・フィリオ.md" title="wikilink">パウロ・フィリオ</a></p></td>
 <td><p>2007年8月5日 - 2008年12月3日</p></td>
 <td><p>1</p></td>
-<td><p>○ <a href="https://ja.wikipedia.org/wiki/チェール・ソネン" title="wikilink">チェール・ソネン</a>（WEC 31）</p></td>
+<td><p>○ <a href="../Page/チェール・ソネン.md" title="wikilink">チェール・ソネン</a>（WEC 31）</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -292,16 +292,16 @@
 <td><p>空位</p></td>
 <td><p>2006年12月11日 - 2007年3月24日</p></td>
 <td><p>-</p></td>
-<td><p>パイルの<a href="https://ja.wikipedia.org/wiki/International_Fight_League" title="wikilink">IFL移籍により空位</a></p></td>
+<td><p>パイルの<a href="../Page/International_Fight_League.md" title="wikilink">IFL移籍により空位</a></p></td>
 </tr>
 <tr class="even">
 <td><p>5</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カーロス・コンディット" title="wikilink">カーロス・コンディット</a></p></td>
+<td><p><a href="../Page/カーロス・コンディット.md" title="wikilink">カーロス・コンディット</a></p></td>
 <td><p>2007年3月24日 - 2009年2月3日</p></td>
 <td><p>3</p></td>
 <td><p>○ <a href="https://ja.wikipedia.org/wiki/ブロック・ラーソン" title="wikilink">ブロック・ラーソン</a>（WEC 29）<br />
 ○ カーロ・プラター（WEC 32）<br />
-○ <a href="https://ja.wikipedia.org/wiki/三浦広光" title="wikilink">三浦広光</a>（WEC 35）</p></td>
+○ <a href="../Page/三浦広光.md" title="wikilink">三浦広光</a>（WEC 35）</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -352,7 +352,7 @@
 <td><p>空位</p></td>
 <td><p>不詳 - 2004年10月21日</p></td>
 <td><p>-</p></td>
-<td><p>メレンデスの<a href="https://ja.wikipedia.org/wiki/修斗" title="wikilink">修斗</a>移籍により空位</p></td>
+<td><p>メレンデスの<a href="../Page/修斗.md" title="wikilink">修斗</a>移籍により空位</p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
@@ -364,7 +364,7 @@
 </tr>
 <tr class="even">
 <td><p>4</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エルメス・フランカ" title="wikilink">エルメス・フランカ</a></p></td>
+<td><p><a href="../Page/エルメス・フランカ.md" title="wikilink">エルメス・フランカ</a></p></td>
 <td><p>2006年3月17日 - 2006年12月11日</p></td>
 <td><p>2</p></td>
 <td><p>○ ブランドン・オルセン（WEC 21）<br />
@@ -445,7 +445,7 @@
 ○ <a href="https://ja.wikipedia.org/wiki/ドミニク・クルーズ" title="wikilink">ドミニク・クルーズ</a>（WEC 26）<br />
 ○ チャンス・ファーラー（WEC 28）<br />
 ○ <a href="../Page/ジェフ・カラン.md" title="wikilink">ジェフ・カラン</a>（WEC 31）<br />
-○ <a href="https://ja.wikipedia.org/wiki/ジェンス・パルヴァー" title="wikilink">ジェンス・パルヴァー</a>（WEC 34）</p></td>
+○ <a href="../Page/ジェンス・パルヴァー.md" title="wikilink">ジェンス・パルヴァー</a>（WEC 34）</p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
@@ -461,7 +461,7 @@
 <td><p>2009年11月18日 - 2010年11月20日</p></td>
 <td><p>2</p></td>
 <td><p>○ ユライア・フェイバー（<a href="https://ja.wikipedia.org/wiki/WEC_48" title="wikilink">WEC 48</a>）<br />
-○ <a href="https://ja.wikipedia.org/wiki/マニー・ガンブリャン" title="wikilink">マニー・ガンブリャン</a>（<a href="https://ja.wikipedia.org/wiki/WEC_51" title="wikilink">WEC 51</a>）</p></td>
+○ <a href="../Page/マニー・ガンブリャン.md" title="wikilink">マニー・ガンブリャン</a>（<a href="https://ja.wikipedia.org/wiki/WEC_51" title="wikilink">WEC 51</a>）</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -495,17 +495,17 @@
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/チェイス・ビービー" title="wikilink">チェイス・ビービー</a></p></td>
+<td><p><a href="../Page/チェイス・ビービー.md" title="wikilink">チェイス・ビービー</a></p></td>
 <td><p>2007年3月24日 - 2008年2月13日</p></td>
 <td><p>1</p></td>
-<td><p>○ <a href="https://ja.wikipedia.org/wiki/ハニ・ヤヒーラ" title="wikilink">ハニ・ヤヒーラ</a>（WEC 30）</p></td>
+<td><p>○ <a href="../Page/ハニ・ヤヒーラ.md" title="wikilink">ハニ・ヤヒーラ</a>（WEC 30）</p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ミゲール・トーレス" title="wikilink">ミゲール・トーレス</a></p></td>
 <td><p>2008年2月13日 - 2009年8月9日</p></td>
 <td><p>3</p></td>
-<td><p>○ <a href="https://ja.wikipedia.org/wiki/前田吉朗" title="wikilink">前田吉朗</a>（WEC 34）<br />
+<td><p>○ <a href="../Page/前田吉朗.md" title="wikilink">前田吉朗</a>（WEC 34）<br />
 ○ <a href="https://ja.wikipedia.org/wiki/マニー・タピア" title="wikilink">マニー・タピア</a>（WEC 37）<br />
 ○ <a href="https://ja.wikipedia.org/wiki/水垣偉弥" title="wikilink">水垣偉弥</a>（<a href="https://ja.wikipedia.org/wiki/WEC_40" title="wikilink">WEC 40</a>）</p></td>
 </tr>
@@ -581,7 +581,7 @@
 <tbody>
 <tr class="odd">
 <td><p>初</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テリー・マーティン" title="wikilink">テリー・マーティン</a></p></td>
+<td><p><a href="../Page/テリー・マーティン.md" title="wikilink">テリー・マーティン</a></p></td>
 <td><p>2005年3月17日 - 2006年12月11日</p></td>
 <td><p>1</p></td>
 <td><p>○ キース・ベリー（WEC 24）</p></td>

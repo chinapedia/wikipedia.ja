@@ -1,7 +1,7 @@
 > この記事は[UNCAF2007](https://ja.wikipedia.org/wiki/UNCAF2007)から翻訳されています。
 
 
-**UNCAFカップ2007**（）は、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[2月8日](https://ja.wikipedia.org/wiki/2月8日 "wikilink")から[2月18日](../Page/2月18日.md "wikilink")にかけて、[エルサルバドル](https://ja.wikipedia.org/wiki/エルサルバドル "wikilink")で開催された第9回目の[UNCAFカップである](../Page/コパ・セントロアメリカーナ.md "wikilink")。[2007 CONCACAFゴールドカップの予選を兼ね](https://ja.wikipedia.org/wiki/2007_CONCACAFゴールドカップ "wikilink")、上位5か国が出場権を得た。
+**UNCAFカップ2007**（）は、[2007年](../Page/2007年.md "wikilink")[2月8日](../Page/2月8日.md "wikilink")から[2月18日](../Page/2月18日.md "wikilink")にかけて、[エルサルバドル](https://ja.wikipedia.org/wiki/エルサルバドル "wikilink")で開催された第9回目の[UNCAFカップである](../Page/コパ・セントロアメリカーナ.md "wikilink")。[2007 CONCACAFゴールドカップの予選を兼ね](../Page/2007_CONCACAFゴールドカップ.md "wikilink")、上位5か国が出場権を得た。
 
 ## 結果
 
@@ -84,8 +84,8 @@
   -
 ## 関連項目
 
-  - [2007 CONCACAFゴールドカップ](https://ja.wikipedia.org/wiki/2007_CONCACAFゴールドカップ "wikilink")
-  - [カリビアンカップ2007](https://ja.wikipedia.org/wiki/カリビアンカップ2007 "wikilink")
+  - [2007 CONCACAFゴールドカップ](../Page/2007_CONCACAFゴールドカップ.md "wikilink")
+  - [カリビアンカップ2007](../Page/カリビアンカップ2007.md "wikilink")
 
 ## 外部リンク
 

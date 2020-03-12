@@ -1,7 +1,7 @@
 > この記事は[DOS \(OS\)](https://ja.wikipedia.org/wiki/DOS_\(OS\))から翻訳されています。
 
 
-[FreeDOS_Beta_9_pre-release5_(command_line_interface)_on_Bochs_sshot20040912.png](https://ja.wikipedia.org/wiki/File:FreeDOS_Beta_9_pre-release5_\(command_line_interface\)_on_Bochs_sshot20040912.png "fig:FreeDOS_Beta_9_pre-release5_(command_line_interface)_on_Bochs_sshot20040912.png")の画面例。\]\] **ディスクオペレーティングシステム**（、**DOS**、ディーオーエス、ドス）は、[磁気ディスク装置](https://ja.wikipedia.org/wiki/磁気ディスク装置 "wikilink")を使用可能とした[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")の名称または通称。初期（1956年の[IBM 305 RAMAC以前](https://ja.wikipedia.org/wiki/IBM_305_RAMAC "wikilink")）のオペレーティングシステムは、[補助記憶装置](../Page/補助記憶装置.md "wikilink")として磁気ディスク装置は使用できなかったため、対比としてこの名称が使用された。大別して以下が存在する。
+[FreeDOS_Beta_9_pre-release5_(command_line_interface)_on_Bochs_sshot20040912.png](https://ja.wikipedia.org/wiki/File:FreeDOS_Beta_9_pre-release5_\(command_line_interface\)_on_Bochs_sshot20040912.png "fig:FreeDOS_Beta_9_pre-release5_(command_line_interface)_on_Bochs_sshot20040912.png")の画面例。\]\] **ディスクオペレーティングシステム**（、**DOS**、ディーオーエス、ドス）は、[磁気ディスク装置](../Page/磁気ディスク装置.md "wikilink")を使用可能とした[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")の名称または通称。初期（1956年の[IBM 305 RAMAC以前](https://ja.wikipedia.org/wiki/IBM_305_RAMAC "wikilink")）のオペレーティングシステムは、[補助記憶装置](../Page/補助記憶装置.md "wikilink")として磁気ディスク装置は使用できなかったため、対比としてこの名称が使用された。大別して以下が存在する。
 
   - [メインフレーム](../Page/メインフレーム.md "wikilink")用の[IBM](../Page/IBM.md "wikilink") [DOS/360およびその後継](https://ja.wikipedia.org/wiki/z/VSE "wikilink") (1960年代以降)
   - [パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")用の[PC DOSおよび](https://ja.wikipedia.org/wiki/IBM_PC_DOS "wikilink")[MS-DOS](../Page/MS-DOS.md "wikilink")。広義にはその前身、後継、互換、類似などを含む。(1980年代以降)
@@ -15,13 +15,13 @@
 
   - [CP/M](https://ja.wikipedia.org/wiki/CP/M "wikilink") (8080用)
       - [CP/M-86](https://ja.wikipedia.org/wiki/CP/M-86 "wikilink")、[CCP/M](https://ja.wikipedia.org/wiki/CCP/M "wikilink")、[C-DOS](https://ja.wikipedia.org/wiki/C-DOS "wikilink") (8086用)
-  - [86-DOS](https://ja.wikipedia.org/wiki/86-DOS "wikilink") (別名 QDOS、1980年)
-  - **[PC DOS](https://ja.wikipedia.org/wiki/IBM_PC_DOS "wikilink")** (1981年、[IBM PC用として登場](https://ja.wikipedia.org/wiki/IBM_PC "wikilink")。V4、V5はIBM DOS)
+  - [86-DOS](../Page/86-DOS.md "wikilink") (別名 QDOS、1980年)
+  - **[PC DOS](https://ja.wikipedia.org/wiki/IBM_PC_DOS "wikilink")** (1981年、[IBM PC用として登場](../Page/IBM_PC.md "wikilink")。V4、V5はIBM DOS)
   - **[MS-DOS](../Page/MS-DOS.md "wikilink")** (1982年、PC DOSの[OEM](../Page/OEM.md "wikilink")版として登場)
   - [DOS Plus](https://ja.wikipedia.org/wiki/DOS_Plus "wikilink") (1985年)
-  - [DR-DOS](https://ja.wikipedia.org/wiki/DR-DOS "wikilink") (1988年、[デジタルリサーチ](../Page/デジタルリサーチ.md "wikilink")社の互換DOS。後の[Novell](../Page/ノベル_\(企業\).md "wikilink") DOS、OpenDOS）
+  - [DR-DOS](../Page/DR-DOS.md "wikilink") (1988年、[デジタルリサーチ](../Page/デジタルリサーチ.md "wikilink")社の互換DOS。後の[Novell](../Page/ノベル_\(企業\).md "wikilink") DOS、OpenDOS）
   - [PTS-DOS](https://ja.wikipedia.org/wiki/PTS-DOS "wikilink") (1991年)
-  - [FreeDOS](https://ja.wikipedia.org/wiki/FreeDOS "wikilink") (1994年)
+  - [FreeDOS](../Page/FreeDOS.md "wikilink") (1994年)
   - [AmigaDOS](https://ja.wikipedia.org/wiki/AmigaDOS "wikilink")
   - [AMSDOS](https://ja.wikipedia.org/wiki/AMSDOS "wikilink")
   - [ANDOS](https://ja.wikipedia.org/wiki/ANDOS "wikilink")
@@ -54,11 +54,11 @@ Apple IIの[DISK機能拡張もDOS](https://ja.wikipedia.org/wiki/ディスク "
 
 ### DISK-BASIC
 
-[Microsoft BASIC系の](https://ja.wikipedia.org/wiki/Microsoft_BASIC "wikilink")[BASIC](../Page/BASIC.md "wikilink")[インタプリタ](../Page/インタプリタ.md "wikilink")では、[フロッピーディスク](../Page/フロッピーディスク.md "wikilink")の普及に伴い、インタプリタの拡張機能としてディスク関連機能が搭載されるようになった。これも、広義のDOSの一種と言うことができる。当初はオプションであったが、フロッピーディスクさらにはハードディスクの普及の本格化に伴い、標準的な機能として含まれるようになった。[MS-DOS](../Page/MS-DOS.md "wikilink")等がDOSの[デファクトスタンダード](../Page/デファクトスタンダード.md "wikilink")としての地位を確立するまで、利用された。
+[Microsoft BASIC系の](../Page/Microsoft_BASIC.md "wikilink")[BASIC](../Page/BASIC.md "wikilink")[インタプリタ](../Page/インタプリタ.md "wikilink")では、[フロッピーディスク](../Page/フロッピーディスク.md "wikilink")の普及に伴い、インタプリタの拡張機能としてディスク関連機能が搭載されるようになった。これも、広義のDOSの一種と言うことができる。当初はオプションであったが、フロッピーディスクさらにはハードディスクの普及の本格化に伴い、標準的な機能として含まれるようになった。[MS-DOS](../Page/MS-DOS.md "wikilink")等がDOSの[デファクトスタンダード](../Page/デファクトスタンダード.md "wikilink")としての地位を確立するまで、利用された。
 
 ### S-OS SWORD
 
-[Oh\!X\#S-OS](https://ja.wikipedia.org/wiki/Oh!X#S-OS "wikilink")を参照。雑誌『[Oh\!X](https://ja.wikipedia.org/wiki/Oh!X "wikilink")』に掲載されたマシン語モニタ。サブルーチンの入出力条件があらかじめ定義されており、移植された対象では同じアプリケーションが動作する。前身である"MACE"ではテープのみをサポート。
+[Oh\!X\#S-OS](https://ja.wikipedia.org/wiki/Oh!X#S-OS "wikilink")を参照。雑誌『[Oh\!X](../Page/Oh!X.md "wikilink")』に掲載されたマシン語モニタ。サブルーチンの入出力条件があらかじめ定義されており、移植された対象では同じアプリケーションが動作する。前身である"MACE"ではテープのみをサポート。
 
 ### X68000
 

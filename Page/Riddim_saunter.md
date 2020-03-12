@@ -5,7 +5,7 @@
 
 ## 来歴
 
-2002年結成。都内でのライブを中心に活動。 2003年発売のコンピレーション "NIW\! STOCKS" に参加後は活動を全国に広げる一方、単独音源の制作に入る。 2003年には "SKAVILL TOKYO" "蓮沼 FINAL" で[日比谷野外音楽堂](https://ja.wikipedia.org/wiki/日比谷野外音楽堂 "wikilink")のステージに出演。 さらに、[恵比寿MILK](https://ja.wikipedia.org/wiki/恵比寿MILK "wikilink")にてクラブイベント "CRED" を主催。 2005年に入り、シングルの発売、コンピレーションの参加、7inchのリリースを繰り返し、1st ALBUM "CURRENT" をリリース。 [渋谷クアトロ](https://ja.wikipedia.org/wiki/渋谷クアトロ "wikilink")でのファイナルを含む、30ヵ所の全国ツアーを成功させる。 その後、メンバーの脱退、新メンバーの加入経て、2006年夏、"RISING SUN ROOK FESTIVAL in EZO" からは5人編成で活動した。 2011年9月3日、[中野サンプラザ](https://ja.wikipedia.org/wiki/中野サンプラザ "wikilink")にて行われた"FAREWELL PARTY"をもって、解散。 解散後、田中は[Keishi Tanaka名義でソロ活動](https://ja.wikipedia.org/wiki/Keishi_Tanaka "wikilink")、佐藤と古川は[KONCOS](https://ja.wikipedia.org/wiki/KONCOS "wikilink")を結成、濱田は[QUATTROへ加入し活動している](https://ja.wikipedia.org/wiki/QUATTRO_\(バンド\) "wikilink")。
+2002年結成。都内でのライブを中心に活動。 2003年発売のコンピレーション "NIW\! STOCKS" に参加後は活動を全国に広げる一方、単独音源の制作に入る。 2003年には "SKAVILL TOKYO" "蓮沼 FINAL" で[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")のステージに出演。 さらに、[恵比寿MILK](https://ja.wikipedia.org/wiki/恵比寿MILK "wikilink")にてクラブイベント "CRED" を主催。 2005年に入り、シングルの発売、コンピレーションの参加、7inchのリリースを繰り返し、1st ALBUM "CURRENT" をリリース。 [渋谷クアトロ](https://ja.wikipedia.org/wiki/渋谷クアトロ "wikilink")でのファイナルを含む、30ヵ所の全国ツアーを成功させる。 その後、メンバーの脱退、新メンバーの加入経て、2006年夏、"RISING SUN ROOK FESTIVAL in EZO" からは5人編成で活動した。 2011年9月3日、[中野サンプラザ](../Page/中野サンプラザ.md "wikilink")にて行われた"FAREWELL PARTY"をもって、解散。 解散後、田中は[Keishi Tanaka名義でソロ活動](https://ja.wikipedia.org/wiki/Keishi_Tanaka "wikilink")、佐藤と古川は[KONCOS](https://ja.wikipedia.org/wiki/KONCOS "wikilink")を結成、濱田は[QUATTROへ加入し活動している](https://ja.wikipedia.org/wiki/QUATTRO_\(バンド\) "wikilink")。
 
 ## メンバー
 
@@ -38,7 +38,7 @@
 | 10th  | 2008年12月25日 | **WALTZ OF THE TWINS-双星のワルツ-**                                                                                 | NEP-020 |
 | 11th  | 2009年10月04日 | **Days Lead**                                                                                                  | NLP-010 |
 | スプリット | 2010年08月04日 | **KEEP YOU HAPPY / Sweet & Still**([THE BAWDIESとのスプリット](https://ja.wikipedia.org/wiki/THE_BAWDIES "wikilink")) | NEP-25  |
-| スプリット | 2010年09月08日 | **亜熱帯ガール/Happy Talk**([カジヒデキ](https://ja.wikipedia.org/wiki/カジヒデキ "wikilink")とのスプリット)                          | NEP-26  |
+| スプリット | 2010年09月08日 | **亜熱帯ガール/Happy Talk**([カジヒデキ](../Page/カジヒデキ.md "wikilink")とのスプリット)                                             | NEP-26  |
 | 12th  | 2010年12月15日 | **Guest of a Christmas / She is all**                                                                          | NEP-28  |
 |       |             |                                                                                                                |         |
 
@@ -121,7 +121,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/12月9日.md" title="wikilink">12月9日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/12月9日.md" title="wikilink">12月9日</a></p></td>
 <td><p><strong>CURRENT</strong></p></td>
 <td><p>NIW-12</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -150,7 +150,7 @@
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="../Page/9月7日.md" title="wikilink">9月7日</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/9月7日.md" title="wikilink">9月7日</a></p></td>
 <td><p><strong>Think, Lad &amp; Lass</strong></p></td>
 <td><p>NIW-022</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -218,7 +218,7 @@
 <div class="NavContent" style="text-align:left;">
 <ol>
 <li>Instro (Radio Acoustique Version)</li>
-<li>MUSIC BY.(<a href="https://ja.wikipedia.org/wiki/CUBISMO_GRAFICO" title="wikilink">CUBISMO GRAFICO</a> CLIMB MIX)</li>
+<li>MUSIC BY.(<a href="../Page/CUBISMO_GRAFICO.md" title="wikilink">CUBISMO GRAFICO</a> CLIMB MIX)</li>
 <li>The Three Wishes Of A Dwarf (kiiiiiii &amp; DJ codomo Remix)</li>
 <li>Hey, Please Tip Me Off (33Hz Remix)</li>
 <li>Dear Joyce (Avalon Remix)</li>
@@ -319,7 +319,7 @@
 </tr>
 <tr class="even">
 <td><p>2007年9月12日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Q;indivi" title="wikilink">Q;indivi</a>「ivy;」</strong></p></td>
+<td><p><strong><a href="../Page/Q;indivi.md" title="wikilink">Q;indivi</a>「ivy;」</strong></p></td>
 <td><p>AVCD-23358B</p></td>
 <td><p>DISC2-2.Just (RIDDIM PHYSICAL Remix) Remixed by riddim saunter</p></td>
 <td><p>avex trax</p></td>
@@ -430,7 +430,7 @@
 ## 主な出演イベント
 
   - 2005年04月14日 - スペースシャワー列伝 第49巻 ～界雷(かいらい)の宴～
-  - 2006年06月11日 - [RUSH BALL](https://ja.wikipedia.org/wiki/RUSH_BALL "wikilink")★8
+  - 2006年06月11日 - [RUSH BALL](../Page/RUSH_BALL.md "wikilink")★8
   - 2006年08月19日 - [RISING SUN ROCK FESTIVAL](https://ja.wikipedia.org/wiki/RISING_SUN_ROCK_FESTIVAL "wikilink") 2006 in EZO
   - 2006年08月27日 - RUSH BALL 2006
   - 2006年12月11日 - スペースシャワー列伝 第64巻 ～代官山・冬の陣～
@@ -446,23 +446,23 @@
   - 2010年03月27日・28日・30日 - [BIGMAMA](https://ja.wikipedia.org/wiki/BIGMAMA "wikilink")「and yet, we move～正しいツアーの廻り方～2周目」
   - 2010年04月10日 - [THE BAWDIES](https://ja.wikipedia.org/wiki/THE_BAWDIES "wikilink")「FREE FOR ALL vol.3」
   - 2010年05月09日 - [he](https://ja.wikipedia.org/wiki/he_\(バンド\) "wikilink") presents "Three lines on Paper" Tour
-  - 2010年05月14日 - [THE CHERRY COKE$](https://ja.wikipedia.org/wiki/THE_CHERRY_COKE$ "wikilink") 10th Anniversary Plot -Extra Circuit-
-  - 2010年05月16日 - FM802 & SPACE SHOWER TV presents [SWEET LOVE SHOWER](https://ja.wikipedia.org/wiki/SWEET_LOVE_SHOWER "wikilink") 2010 SPRING
+  - 2010年05月14日 - [THE CHERRY COKE$](../Page/THE_CHERRY_COKE$.md "wikilink") 10th Anniversary Plot -Extra Circuit-
+  - 2010年05月16日 - FM802 & SPACE SHOWER TV presents [SWEET LOVE SHOWER](../Page/SWEET_LOVE_SHOWER.md "wikilink") 2010 SPRING
   - 2010年06月02日 - THE BAWDIES "THERE'S NO TURNING BACK" TOUR 2010
   - 2010年06月04日 - [SISTER JET](https://ja.wikipedia.org/wiki/SISTER_JET "wikilink") presents"our world"
   - 2010年06月10日 - VIENDA\! 4th ANNIVERSARY
   - 2010年06月28日 - MOBSTYLES 10th Anniversary Party \[PASSAGE POINT\]
   - 2010年08月01日 - FUJI ROCK FESTIVAL '10
   - 2010年08月18日・19日 - [te'](https://ja.wikipedia.org/wiki/te' "wikilink")「 敢えて、理解を望み縺れ尽く音声や文字の枠外での『約束』を。」 release tour
-  - 2010年09月09日 - [Myspace](https://ja.wikipedia.org/wiki/Myspace "wikilink") x [LOW IQ 01](https://ja.wikipedia.org/wiki/LOW_IQ_01 "wikilink") presents MUSIC MAGIC vol.02
+  - 2010年09月09日 - [Myspace](../Page/Myspace.md "wikilink") x [LOW IQ 01](https://ja.wikipedia.org/wiki/LOW_IQ_01 "wikilink") presents MUSIC MAGIC vol.02
   - 2010年09月14日 - [Fat Prop](https://ja.wikipedia.org/wiki/Fat_Prop "wikilink") TOUR 2010 -THE DIE IS CAST-
   - 2010年10月23日 - ボロフェスタ 2010
   - 2010年11月22日 - FUJI ROCK FESTIVAL '10 AFTER PARTY
-  - 2010年12月05日・07日・09日 - [BRAHMAN](https://ja.wikipedia.org/wiki/BRAHMAN "wikilink") Tour -Hands and Feet 6-
+  - 2010年12月05日・07日・09日 - [BRAHMAN](../Page/BRAHMAN.md "wikilink") Tour -Hands and Feet 6-
   - 2010年12月10日 - CLUB SNOOZER 15TH ANNIVERSARY PARTY
   - 2010年12月20日 - CANNABIS 10th ANNIVERSARY PARTY
   - 2010年12月31日 - VINTAGE ROCK std. COUNTDOWN "GT2011"
-  - 2011年02月23日 - [DOPING PANDA](https://ja.wikipedia.org/wiki/DOPING_PANDA "wikilink") DP SUMMIT season1 FINAL TOUR
+  - 2011年02月23日 - [DOPING PANDA](../Page/DOPING_PANDA.md "wikilink") DP SUMMIT season1 FINAL TOUR
   - 2011年03月21日 - SANUKI ROCK COLOSSEUM 2011
   - 2011年05月28日 - Rock on the Rock '11
 

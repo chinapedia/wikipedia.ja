@@ -1,15 +1,15 @@
 > この記事は[Lucky \(\)](https://ja.wikipedia.org/wiki/Lucky_\(\))から翻訳されています。
 
 
-『**Lucky**』（ラッキー）は[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[7月6日](../Page/7月6日.md "wikilink")にリリースされた渡辺美里の7枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")。
+『**Lucky**』（ラッキー）は[1991年](../Page/1991年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink")にリリースされた渡辺美里の7枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")。
 
 ## 解説
 
   - ジャケットは白・青・黄色を基調としたものになっている。この3色は「Luckyカラー」としてこの年のツアーステージセット、衣装などにも反映している。
-  - [大村雅朗](https://ja.wikipedia.org/wiki/大村雅朗 "wikilink")が編曲に復帰、アルバム『[ribbon](https://ja.wikipedia.org/wiki/ribbon_\(渡辺美里のアルバム\) "wikilink")』以来となる。
-  - 「ライオン・ドリーム」「めまい」「大冒険」の3曲は[BARBEE BOYSの](https://ja.wikipedia.org/wiki/BARBEE_BOYS "wikilink")[いまみちともたか](https://ja.wikipedia.org/wiki/いまみちともたか "wikilink")がレコーディングに参加している。
+  - [大村雅朗](../Page/大村雅朗.md "wikilink")が編曲に復帰、アルバム『[ribbon](https://ja.wikipedia.org/wiki/ribbon_\(渡辺美里のアルバム\) "wikilink")』以来となる。
+  - 「ライオン・ドリーム」「めまい」「大冒険」の3曲は[BARBEE BOYSの](../Page/BARBEE_BOYS.md "wikilink")[いまみちともたか](../Page/いまみちともたか.md "wikilink")がレコーディングに参加している。
   - アルバムのテーマは「ハードポップ」。
-  - 「夏が来た\!」は[大江千里らと見に行った](https://ja.wikipedia.org/wiki/大江千里_\(アーティスト\) "wikilink")[ボン・ジョヴィ](https://ja.wikipedia.org/wiki/ボン・ジョヴィ "wikilink")のライブに影響されて制作された。
+  - 「夏が来た\!」は[大江千里らと見に行った](../Page/大江千里_\(アーティスト\).md "wikilink")[ボン・ジョヴィ](../Page/ボン・ジョヴィ.md "wikilink")のライブに影響されて制作された。
   - 「JUMP」はこの近年で起こっていた[湾岸戦争](../Page/湾岸戦争.md "wikilink")に対する渡辺の想いが入っている。
   - 「タイムトンネル天国」は[TM NETWORKの](../Page/TM_NETWORK.md "wikilink")[宇都宮隆](https://ja.wikipedia.org/wiki/宇都宮隆 "wikilink")がコーラスで参加している。
 
@@ -20,7 +20,7 @@
 <!-- end list -->
 
 1.  **[夏が来た\!](https://ja.wikipedia.org/wiki/夏が来た!_\(渡辺美里の曲\) "wikilink")**
-      - 作曲：[大江千里](https://ja.wikipedia.org/wiki/大江千里_\(アーティスト\) "wikilink")、編曲：[大村雅朗](https://ja.wikipedia.org/wiki/大村雅朗 "wikilink")
+      - 作曲：[大江千里](../Page/大江千里_\(アーティスト\).md "wikilink")、編曲：[大村雅朗](../Page/大村雅朗.md "wikilink")
 2.  **ライオン・ドリーム**
       - 作曲：[伊秩弘将](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink")、編曲：大村雅朗
 3.  **[卒業](https://ja.wikipedia.org/wiki/卒業_\(渡辺美里の曲\) "wikilink")**
@@ -30,18 +30,18 @@
 5.  **はだかの気持**
       - 作曲・編曲：[岡村靖幸](../Page/岡村靖幸.md "wikilink")
 6.  **恋する人魚**
-      - 作曲・編曲：[佐橋佳幸](https://ja.wikipedia.org/wiki/佐橋佳幸 "wikilink")
+      - 作曲・編曲：[佐橋佳幸](../Page/佐橋佳幸.md "wikilink")
           - シングル「夏が来た\!」カップリング曲
 7.  **めまい**
       - 作曲：渡辺美里、編曲：大村雅朗
 8.  **タイムトンネル天国**
-      - 作曲：[奈良部匠平](https://ja.wikipedia.org/wiki/奈良部匠平 "wikilink")&[Joe Mardin](https://ja.wikipedia.org/wiki/:en:Joe_Mardin "wikilink")、編曲：Joe Mardin&奈良部匠平
+      - 作曲：[奈良部匠平](../Page/奈良部匠平.md "wikilink")&[Joe Mardin](https://ja.wikipedia.org/wiki/:en:Joe_Mardin "wikilink")、編曲：Joe Mardin&奈良部匠平
 9.  **さよならバレンタイン**
       - 作曲：渡辺美里、編曲：奈良部匠平\&Joe Mardin
 10. **大冒険**
       - 作曲・編曲：奈良部匠平
 11. **画用紙**
-      - 作曲：伊秩弘将、編曲：[清水信之](https://ja.wikipedia.org/wiki/清水信之 "wikilink")
+      - 作曲：伊秩弘将、編曲：[清水信之](../Page/清水信之.md "wikilink")
 12. **JUMP**
       - 作曲・編曲：小室哲哉
 13. **Kick Off**
@@ -52,23 +52,23 @@
 
 **[夏が来た\!](https://ja.wikipedia.org/wiki/夏が来た!_\(渡辺美里の曲\) "wikilink")**
 
-  - Drums : [青山純](https://ja.wikipedia.org/wiki/青山純 "wikilink")
-  - E. Bass : [有賀啓雄](https://ja.wikipedia.org/wiki/有賀啓雄 "wikilink")
-  - E. Guitar : [Sahashi](https://ja.wikipedia.org/wiki/佐橋佳幸 "wikilink")
-  - Synth : [大村雅朗](https://ja.wikipedia.org/wiki/大村雅朗 "wikilink")
+  - Drums : [青山純](../Page/青山純.md "wikilink")
+  - E. Bass : [有賀啓雄](../Page/有賀啓雄.md "wikilink")
+  - E. Guitar : [Sahashi](../Page/佐橋佳幸.md "wikilink")
+  - Synth : [大村雅朗](../Page/大村雅朗.md "wikilink")
   - Synth Operator : 迫田到 & [石川鉄男](https://ja.wikipedia.org/wiki/石川鉄男 "wikilink")
-  - Background Vocals : [大江千里](https://ja.wikipedia.org/wiki/大江千里_\(アーティスト\) "wikilink"), Old and New & [MISATO](../Page/渡辺美里.md "wikilink")
+  - Background Vocals : [大江千里](../Page/大江千里_\(アーティスト\).md "wikilink"), Old and New & [MISATO](../Page/渡辺美里.md "wikilink")
 
 **ライオン・ドリーム**
 
   - Drums : 青山純
   - E. Bass : 有賀啓雄
   - E. Guitar : Sahashi
-  - E. Guitar Solo : [いまみちともたか](https://ja.wikipedia.org/wiki/いまみちともたか "wikilink")
+  - E. Guitar Solo : [いまみちともたか](../Page/いまみちともたか.md "wikilink")
   - H. Organ : [西本明](https://ja.wikipedia.org/wiki/西本明 "wikilink")
   - Synth : 大村雅朗
   - Synth Operator : 迫田到 & 石川鉄男
-  - Background Vocals : [葛城哲哉](https://ja.wikipedia.org/wiki/葛城哲哉 "wikilink") & MISATO
+  - Background Vocals : [葛城哲哉](../Page/葛城哲哉.md "wikilink") & MISATO
 
 **[卒業](https://ja.wikipedia.org/wiki/卒業_\(渡辺美里の曲\) "wikilink")**
 
@@ -79,13 +79,13 @@
 
 **[クリスマスまで待てない](https://ja.wikipedia.org/wiki/クリスマスまで待てない_\(雪だるまversion\)/JUMP_\(大魔神Version\) "wikilink")**
 
-  - Drums : [山木秀夫](https://ja.wikipedia.org/wiki/山木秀夫 "wikilink")
+  - Drums : [山木秀夫](../Page/山木秀夫.md "wikilink")
   - E. Bass : 有賀啓雄
   - H. Organ : 西本明
   - Synth : 大村雅朗
-  - E. Guitar : [白井良明](https://ja.wikipedia.org/wiki/白井良明_\(音楽家\) "wikilink")
+  - E. Guitar : [白井良明](../Page/白井良明_\(音楽家\).md "wikilink")
   - A & E. Guitar : Sahashi
-  - Sax : [中村哲](https://ja.wikipedia.org/wiki/中村哲_\(作曲家\) "wikilink")
+  - Sax : [中村哲](../Page/中村哲_\(作曲家\).md "wikilink")
   - Synth Operator : 迫田到
   - Background Vocals : MISATO
 
@@ -94,7 +94,7 @@
   - Drums : [伊藤真視](https://ja.wikipedia.org/wiki/伊藤真視 "wikilink")
   - E. Bass : [根岸孝旨](../Page/根岸孝旨.md "wikilink")
   - Trp : 沢田秀浩
-  - Cla, F・horn & Sax : [山本拓夫](https://ja.wikipedia.org/wiki/山本拓夫 "wikilink")
+  - Cla, F・horn & Sax : [山本拓夫](../Page/山本拓夫.md "wikilink")
   - Synth Operator : 松井隆雄
   - Whistle : 山本拓夫 & MISATO
   - Background Vocals : [岡村靖幸](../Page/岡村靖幸.md "wikilink"), 山本拓夫, 松井隆雄 & MISATO
@@ -102,7 +102,7 @@
 
 **[恋する人魚](https://ja.wikipedia.org/wiki/夏が来た!_\(渡辺美里の曲\) "wikilink")**
 
-  - Drums : [小田原豊](https://ja.wikipedia.org/wiki/小田原豊 "wikilink")
+  - Drums : [小田原豊](../Page/小田原豊.md "wikilink")
   - E. Bass : 有賀啓雄
   - E. Guitar : Sahashi
   - Synth : 西本明
@@ -153,7 +153,7 @@
   - Electronics & E. Guitar : 清水信之
   - Synth Operator : 清水信之
   - Fairlight Operator : 田端元
-  - Background Vocals : [安部恭弘](https://ja.wikipedia.org/wiki/安部恭弘 "wikilink")
+  - Background Vocals : [安部恭弘](../Page/安部恭弘.md "wikilink")
 
 **JUMP**
 

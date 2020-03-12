@@ -7,7 +7,7 @@
 
   - シングル「メリーゴーランド」と、「いつか きっと」のカップリング曲「Winter Melody」は未収録である。
   - 先行シングルである「BIG WAVE やってきた」は、リリース後に[北海道南西沖地震](https://ja.wikipedia.org/wiki/北海道南西沖地震 "wikilink")が発生した影響で、TV等メディアでのオンエアが自粛された。また一部の店舗では当アルバムも含めて販売が自粛された。
-  - 今作から[小林武史](../Page/小林武史.md "wikilink")がサウンドプロデューサーとして参加、小林と親交のあったギタリストの[小倉博和](https://ja.wikipedia.org/wiki/小倉博和 "wikilink")も初参加しており、のちに渡辺美里のバンマスも務めることになる。他に[岡村靖幸](../Page/岡村靖幸.md "wikilink")、[Richard Dodd](https://ja.wikipedia.org/wiki/:en:Richard_Dodd "wikilink")、[デーモン小暮等がコーラスで参加](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink")。またデビューアルバムから楽曲を提供していた[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")や[大江千里が今作では参加していない](https://ja.wikipedia.org/wiki/大江千里_\(アーティスト\) "wikilink")。
+  - 今作から[小林武史](../Page/小林武史.md "wikilink")がサウンドプロデューサーとして参加、小林と親交のあったギタリストの[小倉博和](../Page/小倉博和.md "wikilink")も初参加しており、のちに渡辺美里のバンマスも務めることになる。他に[岡村靖幸](../Page/岡村靖幸.md "wikilink")、[Richard Dodd](https://ja.wikipedia.org/wiki/:en:Richard_Dodd "wikilink")、[デーモン小暮等がコーラスで参加](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink")。またデビューアルバムから楽曲を提供していた[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")や[大江千里が今作では参加していない](../Page/大江千里_\(アーティスト\).md "wikilink")。
   - 初回プレス盤のみピクチャーレーベル仕様。
 
 ## 収録曲
@@ -19,9 +19,9 @@
 1.  **ブランニューヘブン**
       - 作曲・編曲：[小林武史](../Page/小林武史.md "wikilink")
 2.  **Overture (Instrumental)**
-      - 作曲・編曲：[奈良部匠平](https://ja.wikipedia.org/wiki/奈良部匠平 "wikilink")
+      - 作曲・編曲：[奈良部匠平](../Page/奈良部匠平.md "wikilink")
 3.  **ジャングル チャイルド**
-      - 作曲：[岡村靖幸](../Page/岡村靖幸.md "wikilink")、編曲：[大村雅朗](https://ja.wikipedia.org/wiki/大村雅朗 "wikilink")
+      - 作曲：[岡村靖幸](../Page/岡村靖幸.md "wikilink")、編曲：[大村雅朗](../Page/大村雅朗.md "wikilink")
 4.  **[BIG WAVE やってきた](https://ja.wikipedia.org/wiki/BIG_WAVE_やってきた/素直に泣ける日_笑える日 "wikilink")**
       - 作曲：岡村靖幸、編曲：小林武史
 5.  **Nude**
@@ -29,7 +29,7 @@
 6.  **I WILL BE ALRIGHT**
       - 作曲・編曲：小林武史
 7.  **[いつか きっと](https://ja.wikipedia.org/wiki/いつか_きっと "wikilink")**
-      - 作曲・編曲：[石井恭史](https://ja.wikipedia.org/wiki/石井妥師 "wikilink")
+      - 作曲・編曲：[石井恭史](../Page/石井妥師.md "wikilink")
     <!-- end list -->
       -
         シングル盤よりフェードアウトが早い
@@ -53,25 +53,25 @@
 
 **ブランニューヘブン**
 
-  - Drums : [小田原豊](https://ja.wikipedia.org/wiki/小田原豊 "wikilink")
+  - Drums : [小田原豊](../Page/小田原豊.md "wikilink")
   - E. bass : [美久月千晴](https://ja.wikipedia.org/wiki/美久月千晴 "wikilink")
   - E. guitar : [長田進](../Page/Dr.StrangeLove.md "wikilink")
   - Keyboards & Sampling cutting guitar : [小林武史](../Page/小林武史.md "wikilink")
   - Tambourine : ヤヒロトモヒロ
-  - Horn arrangement : [山本拓夫](https://ja.wikipedia.org/wiki/山本拓夫 "wikilink")
+  - Horn arrangement : [山本拓夫](../Page/山本拓夫.md "wikilink")
   - Trumpet : 荒木敏夫
-  - Trombone : [村田陽一](https://ja.wikipedia.org/wiki/村田陽一 "wikilink")
+  - Trombone : [村田陽一](../Page/村田陽一.md "wikilink")
   - Tenor & Baritone saxophone : 山本拓夫
   - Synth. programming : 松本賢
   - Background vocals : Melody, Wornell Jones and [Misato](../Page/渡辺美里.md "wikilink")
 
 **Overture (Instrumental)**
 
-  - Drums : [坂口良治](https://ja.wikipedia.org/wiki/坂口良治 "wikilink")
+  - Drums : [坂口良治](../Page/坂口良治.md "wikilink")
   - E. bass : [小原礼](../Page/小原礼.md "wikilink")
-  - E. guitar : [林部直樹](https://ja.wikipedia.org/wiki/林部直樹 "wikilink")
-  - Keyboards : [奈良部匠平](https://ja.wikipedia.org/wiki/奈良部匠平 "wikilink")
-  - E. guitar : [小倉博和](https://ja.wikipedia.org/wiki/小倉博和 "wikilink")
+  - E. guitar : [林部直樹](../Page/林部直樹.md "wikilink")
+  - Keyboards : [奈良部匠平](../Page/奈良部匠平.md "wikilink")
+  - E. guitar : [小倉博和](../Page/小倉博和.md "wikilink")
   - Trumpet : 荒木敏夫
   - Trombone : 村田陽一
   - Alto saxohphone : 小池修
@@ -81,9 +81,9 @@
 **ジャングル チャイルド**
 
   - A. & E. guitar : [岡村靖幸](../Page/岡村靖幸.md "wikilink")
-  - E. guitar : [葛城哲哉](https://ja.wikipedia.org/wiki/葛城哲哉 "wikilink")
+  - E. guitar : [葛城哲哉](../Page/葛城哲哉.md "wikilink")
   - A. guitar : 小倉博和
-  - Keyboards : [大村雅朗](https://ja.wikipedia.org/wiki/大村雅朗 "wikilink")
+  - Keyboards : [大村雅朗](../Page/大村雅朗.md "wikilink")
   - Horn section : Solid Brass
   - Horn arrangement : 村田陽一
   - Tenor saxophone : 村田陽一
@@ -97,7 +97,7 @@
 
   - Drums : 小田原豊
   - E. bass : 樋沢達彦
-  - E. guitar : [佐橋佳幸](https://ja.wikipedia.org/wiki/佐橋佳幸 "wikilink")
+  - E. guitar : [佐橋佳幸](../Page/佐橋佳幸.md "wikilink")
   - A. guitar : 長田進
   - Keyboards : 小林武史
   - Percussions : 三沢またろう
@@ -129,7 +129,7 @@
 
   - Guitars : 鈴川真樹
   - Harmonica : 八木のぶお
-  - Keyboards : [石井恭史](https://ja.wikipedia.org/wiki/石井妥師 "wikilink")
+  - Keyboards : [石井恭史](../Page/石井妥師.md "wikilink")
   - Synth. programming : 山下努 and 橋本茂昭
   - Background vocals : Misato
 
@@ -154,7 +154,7 @@
 
 **さえない20代**
 
-  - Sampling E. bass : [有賀啓雄](https://ja.wikipedia.org/wiki/有賀啓雄 "wikilink")
+  - Sampling E. bass : [有賀啓雄](../Page/有賀啓雄.md "wikilink")
   - E. guitar : 小倉博和 and [白井良明](https://ja.wikipedia.org/wiki/白井良明 "wikilink")
   - Slide-guitar : 佐橋佳幸
   - Keyboards : 大村雅朗
@@ -162,7 +162,7 @@
   - Horn arrangement : 村田陽一
   - Synth. programming : 石川鉄男
   - Hammond organ : Cat
-  - Background vocals : 佐橋佳幸, [坪倉唯子](https://ja.wikipedia.org/wiki/坪倉唯子 "wikilink"), [村田和人](https://ja.wikipedia.org/wiki/村田和人 "wikilink") and Misato
+  - Background vocals : 佐橋佳幸, [坪倉唯子](../Page/坪倉唯子.md "wikilink"), [村田和人](../Page/村田和人.md "wikilink") and Misato
   - Chorus arrangement : 佐橋佳幸
 
 **はじめて**
@@ -173,7 +173,7 @@
   - Harmonica :八木のぶお
   - Strings : Joe Strings
   - Synth. programming : 石川鉄男
-  - Background vocals : [安部恭弘](https://ja.wikipedia.org/wiki/安部恭弘 "wikilink"), 村田和人 and Misato
+  - Background vocals : [安部恭弘](../Page/安部恭弘.md "wikilink"), 村田和人 and Misato
 
 **[素直に泣ける日 笑える日](https://ja.wikipedia.org/wiki/BIG_WAVE_やってきた/素直に泣ける日_笑える日 "wikilink") (Re-Mix)**
 

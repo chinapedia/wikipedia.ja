@@ -5,7 +5,7 @@
 
 ## 概要
 
-日本での販売元は[エーアンドエー](https://ja.wikipedia.org/wiki/エーアンドエー "wikilink")株式会社である。動作環境は[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")および[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。2次元および3次元の座標系内での[ベクトル](https://ja.wikipedia.org/wiki/ベクトル "wikilink")データとして、作図のほか[データベース](../Page/データベース.md "wikilink")・[表計算](https://ja.wikipedia.org/wiki/表計算 "wikilink")・3D[レンダリングなどの機能を備えている](https://ja.wikipedia.org/wiki/レンダリング_\(コンピュータ\) "wikilink")。基本的にベクトルデータを取り扱うが、[プレゼンテーション](https://ja.wikipedia.org/wiki/プレゼンテーション "wikilink")データへの貼り付けや[テクスチャー](https://ja.wikipedia.org/wiki/テクスチャー "wikilink")として[ラスタ](https://ja.wikipedia.org/wiki/ラスタ "wikilink")データを取り込んで使うことも可能である。
+日本での販売元は[エーアンドエー](https://ja.wikipedia.org/wiki/エーアンドエー "wikilink")株式会社である。動作環境は[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")および[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。2次元および3次元の座標系内での[ベクトル](../Page/ベクトル.md "wikilink")データとして、作図のほか[データベース](../Page/データベース.md "wikilink")・[表計算](https://ja.wikipedia.org/wiki/表計算 "wikilink")・3D[レンダリングなどの機能を備えている](../Page/レンダリング_\(コンピュータ\).md "wikilink")。基本的にベクトルデータを取り扱うが、[プレゼンテーション](../Page/プレゼンテーション.md "wikilink")データへの貼り付けや[テクスチャー](https://ja.wikipedia.org/wiki/テクスチャー "wikilink")として[ラスタ](../Page/ラスタ.md "wikilink")データを取り込んで使うことも可能である。
 
 ## 用途
 
@@ -34,7 +34,7 @@ Diehl Graphsoft Inc（その後Nemetschek AG（ドイツ）に買収され、Nem
 
 2008年、バージョン名を年号に。NVの意向をより反映した現行のラインナップへ。同時に高額化が進み、個人事業主や小企業では導入が難しくなった。プラグインオブジェクトも販売されるものが主流となった。Vectorworks サービスセレクトがスタート、実質的な年間契約制に。有料セミナーも頻繁に行われるようになる。
 
-2015年3月現在、最新バージョンは2015（Version 20.0に相当）。Mac版はVersion 12.5以降で[Intel Mac](https://ja.wikipedia.org/wiki/Intel_Mac "wikilink")（[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")製[プロセッサ](../Page/プロセッサ.md "wikilink")を搭載したMac）にも対応している。
+2015年3月現在、最新バージョンは2015（Version 20.0に相当）。Mac版はVersion 12.5以降で[Intel Mac](../Page/Intel_Mac.md "wikilink")（[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")製[プロセッサ](../Page/プロセッサ.md "wikilink")を搭載したMac）にも対応している。
 
 ## レンダラー
 

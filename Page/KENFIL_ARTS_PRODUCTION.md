@@ -1,7 +1,7 @@
 > この記事は[KENFIL ARTS PRODUCTION](https://ja.wikipedia.org/wiki/KENFIL_ARTS_PRODUCTION)から翻訳されています。
 
 
-**KENFIL ARTS PRODUCTION**（和文名：**ケンフィル・アーツ・プロダクション**）は、主に[映画](../Page/映画.md "wikilink")、[コマーシャルの製作を中心とする](https://ja.wikipedia.org/wiki/コマーシャルメッセージ "wikilink")[制作プロダクション](../Page/制作プロダクション.md "wikilink")である。[映画監督](../Page/映画監督.md "wikilink")の[小野寺昭憲](../Page/小野寺昭憲.md "wikilink")によって創設された。本部は[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[川崎市](../Page/川崎市.md "wikilink")にあり、[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")、[福井県](../Page/福井県.md "wikilink")に支部が置かれている。
+**KENFIL ARTS PRODUCTION**（和文名：**ケンフィル・アーツ・プロダクション**）は、主に[映画](../Page/映画.md "wikilink")、[コマーシャルの製作を中心とする](../Page/コマーシャルメッセージ.md "wikilink")[制作プロダクション](../Page/制作プロダクション.md "wikilink")である。[映画監督](../Page/映画監督.md "wikilink")の[小野寺昭憲](../Page/小野寺昭憲.md "wikilink")によって創設された。本部は[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[川崎市](../Page/川崎市.md "wikilink")にあり、[大阪府](../Page/大阪府.md "wikilink")、[福井県](../Page/福井県.md "wikilink")に支部が置かれている。
 
 ## 概要
 
@@ -12,14 +12,14 @@
 ### 沿革
 
   - [1996年](../Page/1996年.md "wikilink")（平成8年）8月　前身であるKENSHOW ONODERA PRODUCTIONを[福井県](../Page/福井県.md "wikilink")[福井市](../Page/福井市.md "wikilink")に創設
-  - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")（平成16年）5月　本部を[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[川崎市](../Page/川崎市.md "wikilink")に移転、KENFIL ARTS PRODUCTIONに改称
+  - [2004年](../Page/2004年.md "wikilink")（平成16年）5月　本部を[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[川崎市](../Page/川崎市.md "wikilink")に移転、KENFIL ARTS PRODUCTIONに改称
 
 ### 事業内容
 
   - 劇映画を始めとする映像作品の[企画](https://ja.wikipedia.org/wiki/企画 "wikilink")・[製作](https://ja.wikipedia.org/wiki/製作 "wikilink")・[宣伝](../Page/宣伝.md "wikilink")・配給事業
   - CF、VP、販促用ビデオ等の各種映像制作、[映像編集](../Page/映像編集.md "wikilink")事業
   - ウェブ用映像制作、[映像編集](../Page/映像編集.md "wikilink")、エンコーディング、[ストリーミング](../Page/ストリーミング.md "wikilink")配信事業
-  - 映画・映像音楽制作、音響・[効果音](https://ja.wikipedia.org/wiki/効果音 "wikilink")（SE）制作事業
+  - 映画・映像音楽制作、音響・[効果音](../Page/効果音.md "wikilink")（SE）制作事業
   - 前各号に付随する一切の関連業務
 
 ## 所属スタッフ
@@ -47,8 +47,8 @@
 
 ## 関連項目
 
-  - [東京ソーダ水](https://ja.wikipedia.org/wiki/東京ソーダ水 "wikilink") - 製作協力した[ドキュメンタリー映画](https://ja.wikipedia.org/wiki/ドキュメンタリー映画 "wikilink")
-  - [福井青春革命](https://ja.wikipedia.org/wiki/福井青春革命 "wikilink") - 製作したドキュメンタリー映画
+  - [東京ソーダ水](../Page/東京ソーダ水.md "wikilink") - 製作協力した[ドキュメンタリー映画](https://ja.wikipedia.org/wiki/ドキュメンタリー映画 "wikilink")
+  - [福井青春革命](../Page/福井青春革命.md "wikilink") - 製作したドキュメンタリー映画
   - [福井青春物語](../Page/福井青春物語.md "wikilink") - 製作協力したロードショー映画
 
 ## 外部リンク

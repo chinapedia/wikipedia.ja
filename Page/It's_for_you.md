@@ -1,33 +1,33 @@
 > この記事は[It\'s for you](https://ja.wikipedia.org/wiki/It\'s_for_you)から翻訳されています。
 
 
-『**It's for you**』（イッツ フォー ユー）は[三枝夕夏 IN dbの](https://ja.wikipedia.org/wiki/三枝夕夏_IN_db "wikilink")2nd[シングル](../Page/シングル.md "wikilink")。
+『**It's for you**』（イッツ フォー ユー）は[三枝夕夏 IN dbの](../Page/三枝夕夏_IN_db.md "wikilink")2nd[シングル](../Page/シングル.md "wikilink")。
 
 ## 内容
 
   - オリコンチャートで初登場20位を記録し、前作より順位が大幅に上昇した。
-  - [蜷川実花](https://ja.wikipedia.org/wiki/蜷川実花 "wikilink")の写真集『a piece of heaven』を見てからインスパイアされた情景を元に書いた\[1\]。
+  - [蜷川実花](../Page/蜷川実花.md "wikilink")の写真集『a piece of heaven』を見てからインスパイアされた情景を元に書いた\[1\]。
 
 ## 収録曲
 
-全作詞：[三枝夕夏](https://ja.wikipedia.org/wiki/三枝夕夏 "wikilink")、全編曲：[池田大介](https://ja.wikipedia.org/wiki/池田大介_\(編曲家\) "wikilink")
+全作詞：[三枝夕夏](../Page/三枝夕夏.md "wikilink")、全編曲：[池田大介](../Page/池田大介_\(編曲家\).md "wikilink")
 
 1.  **It's for you**
       -
-        作曲：[川島だりあ](https://ja.wikipedia.org/wiki/川島だりあ "wikilink")
+        作曲：[川島だりあ](../Page/川島だりあ.md "wikilink")
     <!-- end list -->
       - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[天使な小生意気](../Page/天使な小生意気.md "wikilink")』エンディングテーマ。
 2.  **Magic Summer**
       -
-        作曲：[徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")
+        作曲：[徳永暁人](../Page/徳永暁人.md "wikilink")
 3.  **It's for you 〜Acoustic version〜** featuring [Yoshinobu Ohga](../Page/大賀好修.md "wikilink")（guitar） from [nothin' but love](https://ja.wikipedia.org/wiki/nothin'_but_love "wikilink")
 4.  It's for you 〜Instrumental〜
 
 ## 収録アルバム
 
-  - [三枝夕夏 IN db 1st 〜君と約束した優しいあの場所まで〜](https://ja.wikipedia.org/wiki/三枝夕夏_IN_db_1st_〜君と約束した優しいあの場所まで〜 "wikilink")（\#3）
-  - [Secret\&Lies](https://ja.wikipedia.org/wiki/Secret&Lies "wikilink")（\#1）
-  - [三枝夕夏 IN d-best 〜Smile\&Tears〜](https://ja.wikipedia.org/wiki/三枝夕夏_IN_d-best_〜Smile&Tears〜 "wikilink")（\#1）
+  - [三枝夕夏 IN db 1st 〜君と約束した優しいあの場所まで〜](../Page/三枝夕夏_IN_db_1st_〜君と約束した優しいあの場所まで〜.md "wikilink")（\#3）
+  - [Secret\&Lies](../Page/Secret&Lies.md "wikilink")（\#1）
+  - [三枝夕夏 IN d-best 〜Smile\&Tears〜](../Page/三枝夕夏_IN_d-best_〜Smile&Tears〜.md "wikilink")（\#1）
   - [U-ka saegusa IN db Final Best](https://ja.wikipedia.org/wiki/U-ka_saegusa_IN_db_Final_Best "wikilink")（\#1）
   - [GIZA studio Masterpiece BLEND 2002](https://ja.wikipedia.org/wiki/GIZA_studio_Masterpiece_BLEND_2002 "wikilink")（\#1）
 

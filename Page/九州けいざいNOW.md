@@ -3,13 +3,13 @@
 
 『**九州けいざいNOW**』（きゅうしゅうけいざいナウ）は、[TVQ九州放送](../Page/TVQ九州放送.md "wikilink")で[2000年](../Page/2000年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink")から[2011年](../Page/2011年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで放送していた[経済](../Page/経済.md "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。
 
-かつては[スカパー\!e2の](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink")[インターローカルTV](https://ja.wikipedia.org/wiki/インターローカルTV "wikilink")でも放送されていた。また、[スターフライヤー](https://ja.wikipedia.org/wiki/スターフライヤー "wikilink")機内でも録画されたものが見ることができる。
+かつては[スカパー\!e2の](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink")[インターローカルTV](../Page/インターローカルTV.md "wikilink")でも放送されていた。また、[スターフライヤー](../Page/スターフライヤー.md "wikilink")機内でも録画されたものが見ることができる。
 
 ## 番組概要
 
 タイトルの通り、[九州地方](https://ja.wikipedia.org/wiki/九州地方 "wikilink")の経済情報に特化した番組である。取材範囲は、福岡のテレビ局にしてはかなり広く、九州全域、そしてアジアなどにも及んでいる。 日本経済新聞の編集部長や大学教授、九州経済調査協会、東京商工リサーチなどの専門家が九州経済についてコメントし、ミクロからマクロまで幅広い見方で展開、一方で女性コメンテーターが主婦目線での見方でコメントする。
 
-2008年3月までのタイトル表記は「九州経済NOW」だった。また改編により2011年3月26日をもって11年間に及ぶ歴史に幕を閉じた。後継番組は[中島浩二](https://ja.wikipedia.org/wiki/中島浩二 "wikilink")が進行する『**[ぐっ\!ジョブ〜九州ゲンキ主義経済〜](https://ja.wikipedia.org/wiki/ぐっ!ジョブ〜九州ゲンキ主義経済〜 "wikilink")**』。放送時間はこの番組の当初と同じ30分に戻る。
+2008年3月までのタイトル表記は「九州経済NOW」だった。また改編により2011年3月26日をもって11年間に及ぶ歴史に幕を閉じた。後継番組は[中島浩二](../Page/中島浩二.md "wikilink")が進行する『**[ぐっ\!ジョブ〜九州ゲンキ主義経済〜](https://ja.wikipedia.org/wiki/ぐっ!ジョブ〜九州ゲンキ主義経済〜 "wikilink")**』。放送時間はこの番組の当初と同じ30分に戻る。
 
 なお、日本経済新聞のほかに西日本新聞の協力を受けている。
 
@@ -32,28 +32,28 @@
 
   - 毎週土曜9:00 - 9:55
       -
-        以前は9:30 - 9:55だったが、9:00から放送されていた『[ばりすご☆ボイガー7](https://ja.wikipedia.org/wiki/ばりすご☆ボイガー7 "wikilink")』が[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に枠移動となったため、そのまま枠を拡大した。
+        以前は9:30 - 9:55だったが、9:00から放送されていた『[ばりすご☆ボイガー7](../Page/ばりすご☆ボイガー7.md "wikilink")』が[2006年](../Page/2006年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に枠移動となったため、そのまま枠を拡大した。
 
 ## 出演者
 
   - [福井康子](https://ja.wikipedia.org/wiki/福井康子 "wikilink")（キャスター、2010年4月から。[都市経済研究所](https://ja.wikipedia.org/wiki/都市経済研究所 "wikilink")主任研究員）
-  - [山本圭介](https://ja.wikipedia.org/wiki/山本圭介_\(アナウンサー\) "wikilink")（キャスター、2008年10月から）
-  - [天野貴子](https://ja.wikipedia.org/wiki/天野貴子 "wikilink")（リポーター、2008年10月から）
+  - [山本圭介](../Page/山本圭介_\(アナウンサー\).md "wikilink")（キャスター、2008年10月から）
+  - [天野貴子](../Page/天野貴子.md "wikilink")（リポーター、2008年10月から）
       -
         フリー時代は「発掘\!アマノート」を担当。義山退社を受け2010年4月に正式にTVQアナウンサーとなった。
-  - [村田友紀](https://ja.wikipedia.org/wiki/村田友紀 "wikilink")（リポーター）
-  - [田尻敏明](https://ja.wikipedia.org/wiki/田尻敏明 "wikilink")（ナレーション）
+  - [村田友紀](../Page/村田友紀.md "wikilink")（リポーター）
+  - [田尻敏明](../Page/田尻敏明.md "wikilink")（ナレーション）
 
 スタジオには、九州の経済界や財界などから[ゲスト](https://ja.wikipedia.org/wiki/ゲスト "wikilink")や[コメンテーター](../Page/コメンテーター.md "wikilink")を招いている。ゲストは特集からエンディングまで出演していることが多い。コメンテーターは通常、男女1名ずつ出演する。
 
 ### 過去の出演者
 
-  - [加地良光](https://ja.wikipedia.org/wiki/加地良光 "wikilink")（司会）
-  - [加治屋朋子](https://ja.wikipedia.org/wiki/城井朋子 "wikilink")（現姓:城井、元TVQアナウンサー）
+  - [加地良光](../Page/加地良光.md "wikilink")（司会）
+  - [加治屋朋子](../Page/城井朋子.md "wikilink")（現姓:城井、元TVQアナウンサー）
       -
         2006年春に退社するまで、一人で番組のメインを務めていた。
-  - [山田美保](https://ja.wikipedia.org/wiki/山田美保 "wikilink")（[岩手朝日テレビ](../Page/岩手朝日テレビ.md "wikilink")より移籍）
-  - [義山望](https://ja.wikipedia.org/wiki/義山望 "wikilink")（[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")より移籍、2008年10月から1年半キャスターを務めた後退社。それ以前はリポーター）
+  - [山田美保](../Page/山田美保.md "wikilink")（[岩手朝日テレビ](../Page/岩手朝日テレビ.md "wikilink")より移籍）
+  - [義山望](../Page/義山望.md "wikilink")（[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")より移籍、2008年10月から1年半キャスターを務めた後退社。それ以前はリポーター）
 
 ほか
 

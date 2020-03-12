@@ -23,9 +23,9 @@
 2.  **20th Century Children**
       - 作曲：渡辺美里・小林武史、編曲：小林武史
 3.  **[真夏のサンタクロース](https://ja.wikipedia.org/wiki/真夏のサンタクロース "wikilink")**
-      - 作曲：渡辺美里・[佐橋佳幸](https://ja.wikipedia.org/wiki/佐橋佳幸 "wikilink")、編曲：小林武史
+      - 作曲：渡辺美里・[佐橋佳幸](../Page/佐橋佳幸.md "wikilink")、編曲：小林武史
 4.  **SHOUT［ココロの花びら］**
-      - 作曲：[みやもとこうじ](https://ja.wikipedia.org/wiki/宮本浩次_\(シンガーソングライター\) "wikilink")、編曲：小林武史
+      - 作曲：[みやもとこうじ](../Page/宮本浩次_\(シンガーソングライター\).md "wikilink")、編曲：小林武史
 5.  **初恋**
       - 作曲：みやもとこうじ、編曲：小林武史
 6.  **CHANGE**
@@ -33,7 +33,7 @@
 7.  **BABY**
       - 作曲：渡辺美里・佐橋佳幸、編曲：小林武史
 8.  **[チェリーが3つ並ばない](https://ja.wikipedia.org/wiki/チェリーが3つ並ばない "wikilink")**
-      - 作曲：[石井恭史](https://ja.wikipedia.org/wiki/石井妥師 "wikilink")、編曲：小林武史
+      - 作曲：[石井恭史](../Page/石井妥師.md "wikilink")、編曲：小林武史
 9.  **こんな風の日には**
       - 作曲：みやもとこうじ、編曲：Richard Dodd
           - シングル「チェリーが3つ並ばない」カップリング曲
@@ -47,9 +47,9 @@
 
 **あなたの全部**
 
-  - A. & E. guitar : [藤井謙二](https://ja.wikipedia.org/wiki/藤井謙二 "wikilink")
+  - A. & E. guitar : [藤井謙二](../Page/藤井謙二.md "wikilink")
   - Keyboards : [小林武史](../Page/小林武史.md "wikilink")
-  - Tenor & Baritone saxophone : [山本拓夫](https://ja.wikipedia.org/wiki/山本拓夫 "wikilink")
+  - Tenor & Baritone saxophone : [山本拓夫](../Page/山本拓夫.md "wikilink")
   - Synth. programming : 角谷仁宣
   - Background vocals : [Misato](../Page/渡辺美里.md "wikilink")
 
@@ -58,44 +58,44 @@
   - E. guitar : [長田進](../Page/Dr.StrangeLove.md "wikilink")
   - Keyboards : 小林武史
   - Trumpet : 荒木敏夫
-  - Trombone : [村田陽一](https://ja.wikipedia.org/wiki/村田陽一 "wikilink")
-  - Tenor & Baritone saxophone : [山本拓夫](https://ja.wikipedia.org/wiki/山本拓夫 "wikilink")
+  - Trombone : [村田陽一](../Page/村田陽一.md "wikilink")
+  - Tenor & Baritone saxophone : [山本拓夫](../Page/山本拓夫.md "wikilink")
   - Synth. programming : 角谷仁宣
   - Drums programming : [石川鉄男](https://ja.wikipedia.org/wiki/石川鉄男 "wikilink"), 高安錬太郎
-  - Background vocals : [葛城哲哉](https://ja.wikipedia.org/wiki/葛城哲哉 "wikilink"), Misato
+  - Background vocals : [葛城哲哉](../Page/葛城哲哉.md "wikilink"), Misato
   - Horn arrangement : 山本拓夫
 
 **[真夏のサンタクロース](https://ja.wikipedia.org/wiki/真夏のサンタクロース "wikilink")**
 
-  - Drums : [小田原豊](https://ja.wikipedia.org/wiki/小田原豊 "wikilink")
-  - A. & E. guitar : [佐橋佳幸](https://ja.wikipedia.org/wiki/佐橋佳幸 "wikilink")
+  - Drums : [小田原豊](../Page/小田原豊.md "wikilink")
+  - A. & E. guitar : [佐橋佳幸](../Page/佐橋佳幸.md "wikilink")
   - Keyboards : 小林武史
   - Synth. programming : 角谷仁宣
-  - Background vocals : [安部恭弘](https://ja.wikipedia.org/wiki/安部恭弘 "wikilink"), Misato
+  - Background vocals : [安部恭弘](../Page/安部恭弘.md "wikilink"), Misato
 
 **SHOUT［ココロの花びら］**
 
   - Drums : 小田原豊
-  - E. guitar : [藤井謙二](https://ja.wikipedia.org/wiki/藤井謙二 "wikilink"), [是永巧一](https://ja.wikipedia.org/wiki/是永巧一 "wikilink")
+  - E. guitar : [藤井謙二](../Page/藤井謙二.md "wikilink"), [是永巧一](../Page/是永巧一.md "wikilink")
   - Percussions : 大石真理恵
   - Keyboards : 小林武史
   - Synth. programming : 角谷仁宣
-  - Background vocals : [デーモン小暮](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink"), [坪倉唯子](https://ja.wikipedia.org/wiki/坪倉唯子 "wikilink"), Misato
+  - Background vocals : [デーモン小暮](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink"), [坪倉唯子](../Page/坪倉唯子.md "wikilink"), Misato
 
 **初恋**
 
   - Drums : 小田原豊
   - E. bass : [美久月千晴](https://ja.wikipedia.org/wiki/美久月千晴 "wikilink")
   - E. guitar : 藤井謙二
-  - A. guitar : [宮本浩次](https://ja.wikipedia.org/wiki/宮本浩次_\(シンガーソングライター\) "wikilink")
+  - A. guitar : [宮本浩次](../Page/宮本浩次_\(シンガーソングライター\).md "wikilink")
   - Keyboards : 小林武史
   - Cornet : 古田俊博, [栃本浩規](https://ja.wikipedia.org/wiki/栃本浩規 "wikilink")
   - Euphonium : 村田陽一
   - French horn : Eiko Tada
-  - Strings : [金子飛鳥](https://ja.wikipedia.org/wiki/金子飛鳥 "wikilink") Strings
+  - Strings : [金子飛鳥](../Page/金子飛鳥.md "wikilink") Strings
   - Synth. programming : 角谷仁宣
   - Background vocals : Misato
-  - Horn & Strings arrangement : [門倉聡](https://ja.wikipedia.org/wiki/門倉聡 "wikilink")
+  - Horn & Strings arrangement : [門倉聡](../Page/門倉聡.md "wikilink")
 
 **CHANGE**
 
@@ -113,18 +113,18 @@
 
 **BABY**
 
-  - E. guitar : 長田進, [小倉博和](https://ja.wikipedia.org/wiki/小倉博和 "wikilink")
+  - E. guitar : 長田進, [小倉博和](../Page/小倉博和.md "wikilink")
   - Keyboards : 小林武史
   - Flugelhorn & Trumpet : 荒木敏夫
   - Tenor saxophone : 山本拓夫
   - Synth. programming : 角谷仁宣, 高安錬太郎
-  - Background vocals : 坪倉唯子, [村田和人](https://ja.wikipedia.org/wiki/村田和人 "wikilink") and Misato
+  - Background vocals : 坪倉唯子, [村田和人](../Page/村田和人.md "wikilink") and Misato
   - Horn arrangement : 山本拓夫
 
 **[チェリーが3つ並ばない](https://ja.wikipedia.org/wiki/チェリーが3つ並ばない "wikilink")**
 
-  - E. bass : [有賀啓雄](https://ja.wikipedia.org/wiki/有賀啓雄 "wikilink")
-  - A. & E. guitars : [石井恭史](https://ja.wikipedia.org/wiki/石井妥師 "wikilink")
+  - E. bass : [有賀啓雄](../Page/有賀啓雄.md "wikilink")
+  - A. & E. guitars : [石井恭史](../Page/石井妥師.md "wikilink")
   - E. guitar : 葛城哲哉
   - Keyboards : 小林武史
   - Tenor & Baritone saxophone : 山本拓夫
@@ -152,7 +152,7 @@
   - E. bass : 有賀啓雄
   - A. & E. guitars(M's GRETCH) : 佐橋佳幸
   - Bouzouki : 佐橋佳幸
-  - Keyboards : [難波弘之](https://ja.wikipedia.org/wiki/難波弘之 "wikilink"), 斎藤有太
+  - Keyboards : [難波弘之](../Page/難波弘之.md "wikilink"), 斎藤有太
   - Synth. programming : 石川鉄男
   - Background vocals : 坪倉唯子, [斎藤誠](../Page/斎藤誠.md "wikilink"), 佐橋佳幸, Richard Dodd, Misato
 

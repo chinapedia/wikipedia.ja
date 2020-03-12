@@ -5,37 +5,37 @@
 
 ## 概要
 
-[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に結成された初代 **J.D.K.**BANDと[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")に結成された**jdk**BAND（θ）の2つのバンドがある。「[Falcom Sound Team jdk (J.D.K.)](../Page/Falcom_Sound_Team_jdk.md "wikilink")」はファルコムのサウンドチームの総称であるため、ファルコムの楽曲に関して[作曲](../Page/作曲.md "wikilink")を行わない J.D.K.BAND とはまったく別ものである。
+[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に結成された初代 **J.D.K.**BANDと[2007年](../Page/2007年.md "wikilink")に結成された**jdk**BAND（θ）の2つのバンドがある。「[Falcom Sound Team jdk (J.D.K.)](../Page/Falcom_Sound_Team_jdk.md "wikilink")」はファルコムのサウンドチームの総称であるため、ファルコムの楽曲に関して[作曲](../Page/作曲.md "wikilink")を行わない J.D.K.BAND とはまったく別ものである。
 
 ## 初代 J.D.K.BAND
 
-[岸本友彦](https://ja.wikipedia.org/wiki/岸本友彦 "wikilink")をリーダーとして[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に結成された[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")バンドである。[ジャパニーズ・メタル](https://ja.wikipedia.org/wiki/ジャパニーズ・メタル "wikilink")系のバンドを経てきたメンバーで構成されているため、曲の大半を[ハードロック](../Page/ハードロック.md "wikilink")で占めるが、[プログレや](../Page/プログレッシブ・ロック.md "wikilink")[バラード](../Page/バラード.md "wikilink")などもある。[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")から[1993年](../Page/1993年.md "wikilink")の夏には、セガ（後の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）の[S.S.T.BAND](https://ja.wikipedia.org/wiki/S.S.T.BAND "wikilink")や[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")の[ZUNTATA](../Page/ZUNTATA.md "wikilink")、[カプコン](https://ja.wikipedia.org/wiki/カプコン "wikilink")の[アルフライラ](https://ja.wikipedia.org/wiki/アルフライラ "wikilink")、コナミ（後の[コナミホールディングス](../Page/コナミホールディングス.md "wikilink")）の[矩形波倶楽部](https://ja.wikipedia.org/wiki/矩形波倶楽部 "wikilink")などと共に2日間にわたり、[中野サンプラザ](https://ja.wikipedia.org/wiki/中野サンプラザ "wikilink")や[日本青年館](https://ja.wikipedia.org/wiki/日本青年館 "wikilink")などで『[ゲームミュージックフェスティバル](https://ja.wikipedia.org/wiki/ゲームミュージックフェスティバル "wikilink")』というライブ活動も行っていた。[1994年](../Page/1994年.md "wikilink")頃に初代J.D.K.BANDは解散し、メンバーはそれぞれソロ活動を続けている。
+[岸本友彦](https://ja.wikipedia.org/wiki/岸本友彦 "wikilink")をリーダーとして[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に結成された[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")バンドである。[ジャパニーズ・メタル](../Page/ジャパニーズ・メタル.md "wikilink")系のバンドを経てきたメンバーで構成されているため、曲の大半を[ハードロック](../Page/ハードロック.md "wikilink")で占めるが、[プログレや](../Page/プログレッシブ・ロック.md "wikilink")[バラード](../Page/バラード.md "wikilink")などもある。[1991年](../Page/1991年.md "wikilink")から[1993年](../Page/1993年.md "wikilink")の夏には、セガ（後の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）の[S.S.T.BAND](../Page/S.S.T.BAND.md "wikilink")や[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")の[ZUNTATA](../Page/ZUNTATA.md "wikilink")、[カプコン](../Page/カプコン.md "wikilink")の[アルフライラ](https://ja.wikipedia.org/wiki/アルフライラ "wikilink")、コナミ（後の[コナミホールディングス](../Page/コナミホールディングス.md "wikilink")）の[矩形波倶楽部](https://ja.wikipedia.org/wiki/矩形波倶楽部 "wikilink")などと共に2日間にわたり、[中野サンプラザ](../Page/中野サンプラザ.md "wikilink")や[日本青年館](../Page/日本青年館.md "wikilink")などで『[ゲームミュージックフェスティバル](../Page/ゲームミュージックフェスティバル.md "wikilink")』というライブ活動も行っていた。[1994年](../Page/1994年.md "wikilink")頃に初代J.D.K.BANDは解散し、メンバーはそれぞれソロ活動を続けている。
 
 ### メンバー
 
 岸本友彦をリーダーとして、全員がプロのミュージシャンで構成されている。
 
   - [岸本友彦](https://ja.wikipedia.org/wiki/岸本友彦 "wikilink") ([ムルバス](https://ja.wikipedia.org/wiki/ムルバス "wikilink") - [REACTION](https://ja.wikipedia.org/wiki/REACTION "wikilink") - [エモーション](https://ja.wikipedia.org/wiki/エモーション_\(バンド\) "wikilink")) アレンジ、ベース、Vocal担当
-  - [松川純一郎](https://ja.wikipedia.org/wiki/松川純一郎 "wikilink") (元[SABBRABELLS](https://ja.wikipedia.org/wiki/SABBRABELLS "wikilink") - エモーション) ギター担当
-  - [高梨康治](https://ja.wikipedia.org/wiki/高梨康治 "wikilink") (元[ヘレン](https://ja.wikipedia.org/wiki/ヘレン_\(バンド\) "wikilink") - 刃 - yaiba - など) キーボード担当
+  - [松川純一郎](https://ja.wikipedia.org/wiki/松川純一郎 "wikilink") (元[SABBRABELLS](../Page/SABBRABELLS.md "wikilink") - エモーション) ギター担当
+  - [高梨康治](../Page/高梨康治.md "wikilink") (元[ヘレン](https://ja.wikipedia.org/wiki/ヘレン_\(バンド\) "wikilink") - 刃 - yaiba - など) キーボード担当
   - [日下部"Burny"正則](https://ja.wikipedia.org/wiki/日下部"Burny"正則 "wikilink") (元[スナイパー](https://ja.wikipedia.org/wiki/スナイパー_\(バンド\) "wikilink") - B.R.J.、Gracious、Jill's Projectなど) ギター担当
   - [DIE](https://ja.wikipedia.org/wiki/DIE "wikilink") Side Vocal担当
-  - [白田一秀](https://ja.wikipedia.org/wiki/白田一秀 "wikilink") (元[PRESENCE](https://ja.wikipedia.org/wiki/PRESENCE "wikilink")) ギター担当
+  - [白田一秀](https://ja.wikipedia.org/wiki/白田一秀 "wikilink") (元[PRESENCE](../Page/PRESENCE.md "wikilink")) ギター担当
   - [山下弥生](https://ja.wikipedia.org/wiki/山下弥生 "wikilink") Vocal担当
   - [長織有加](https://ja.wikipedia.org/wiki/長織有加 "wikilink") Vocal担当
-  - [川菜翠](https://ja.wikipedia.org/wiki/KAORI. "wikilink")
+  - [川菜翠](../Page/KAORI..md "wikilink")
 
 メンバーは時期によって入れ替わっている。
 
 ## 新生 jdkBAND
 
-初代J.D.K.BAND解散から13年の時を経てメンバーを一新し、2007年7月に女性2人を含む6人組ユニットとして新生**jdkBAND**が結成された。ロックバンドながら[ヴァイオリニスト](../Page/ヴァイオリニスト.md "wikilink")がメンバーにいるのも特徴のひとつである。また、バンド名のスペルも「J.D.K.」から小文字の「jdk」へ変更されている。2007年[9月29日](../Page/9月29日.md "wikilink")の「[イース誕生](https://ja.wikipedia.org/wiki/イースシリーズ "wikilink")20周年記念」の[大阪](../Page/大阪.md "wikilink")ライブでデビューを果たし、翌月[10月8日](../Page/10月8日.md "wikilink")には[東京](https://ja.wikipedia.org/wiki/東京 "wikilink")のclub goodmanでもライブが行われ、同ライブハウスの過去観客動員数最高記録を大幅に塗り替えた。[2014年](../Page/2014年.md "wikilink")[9月13日](../Page/9月13日.md "wikilink")には[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")（[台北](https://ja.wikipedia.org/wiki/台北 "wikilink")レガシー）でのライブを大成功に収める。[2015年](../Page/2015年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")に日本橋三井ホールにて行われたFalcom jdk BAND SUPER LIVE ～KISEKI 10th Anniversary～をもって新生jdkBANDは再びメンバーを大幅に入れ替えることとなり、同年[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink")に日本ファルコムは新生**ファルコムjdkバンドθ**（シータ）の立ち上げを発表した\[1\]。メンバーは同年[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")に同社の公式[Twitter](https://ja.wikipedia.org/wiki/Twitter "wikilink")を通じて発表され\[2\]、ヴァイオリンの[水谷美月](https://ja.wikipedia.org/wiki/水谷美月 "wikilink")以外全員が新メンバーとなった\[3\]。同[10月17日](../Page/10月17日.md "wikilink")に[吉祥寺CLUB SEATAで初ライブ](https://ja.wikipedia.org/wiki/吉祥寺CLUB_SEATA "wikilink")「Falcom jdk BAND θ Live」を開催している\[4\]\[5\]。
+初代J.D.K.BAND解散から13年の時を経てメンバーを一新し、2007年7月に女性2人を含む6人組ユニットとして新生**jdkBAND**が結成された。ロックバンドながら[ヴァイオリニスト](../Page/ヴァイオリニスト.md "wikilink")がメンバーにいるのも特徴のひとつである。また、バンド名のスペルも「J.D.K.」から小文字の「jdk」へ変更されている。2007年[9月29日](../Page/9月29日.md "wikilink")の「[イース誕生](../Page/イースシリーズ.md "wikilink")20周年記念」の[大阪](../Page/大阪.md "wikilink")ライブでデビューを果たし、翌月[10月8日](../Page/10月8日.md "wikilink")には[東京](../Page/東京.md "wikilink")のclub goodmanでもライブが行われ、同ライブハウスの過去観客動員数最高記録を大幅に塗り替えた。[2014年](../Page/2014年.md "wikilink")[9月13日](../Page/9月13日.md "wikilink")には[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")（[台北](https://ja.wikipedia.org/wiki/台北 "wikilink")レガシー）でのライブを大成功に収める。[2015年](../Page/2015年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")に日本橋三井ホールにて行われたFalcom jdk BAND SUPER LIVE ～KISEKI 10th Anniversary～をもって新生jdkBANDは再びメンバーを大幅に入れ替えることとなり、同年[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink")に日本ファルコムは新生**ファルコムjdkバンドθ**（シータ）の立ち上げを発表した\[1\]。メンバーは同年[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")に同社の公式[Twitter](../Page/Twitter.md "wikilink")を通じて発表され\[2\]、ヴァイオリンの[水谷美月](https://ja.wikipedia.org/wiki/水谷美月 "wikilink")以外全員が新メンバーとなった\[3\]。同[10月17日](../Page/10月17日.md "wikilink")に[吉祥寺CLUB SEATAで初ライブ](../Page/吉祥寺CLUB_SEATA.md "wikilink")「Falcom jdk BAND θ Live」を開催している\[4\]\[5\]。
 
 ### メンバー
 
   - [神藤由東大](https://ja.wikipedia.org/wiki/神藤由東大 "wikilink")（バイオリン、リーダー\[6\]\[7\]）
   - [小寺可南子](https://ja.wikipedia.org/wiki/小寺可南子 "wikilink")（ヴォーカル）
-  - [イカルス渡辺](https://ja.wikipedia.org/wiki/イカルス渡辺 "wikilink")（ヴォーカル）
+  - [イカルス渡辺](../Page/イカルス渡辺.md "wikilink")（ヴォーカル）
   - [水谷美月](https://ja.wikipedia.org/wiki/水谷美月 "wikilink")（バイオリン）
   - [寺前甲](https://ja.wikipedia.org/wiki/寺前甲 "wikilink")（ギター）
   - [井上央一](https://ja.wikipedia.org/wiki/井上央一 "wikilink")（ギター）
@@ -70,21 +70,21 @@
 
 ## バンド名の由来
 
-アルバム『[イースIV](https://ja.wikipedia.org/wiki/イースIV "wikilink") VS [風の伝説ザナドゥ](https://ja.wikipedia.org/wiki/風の伝説ザナドゥ "wikilink") J.D.K.BAND4』付属の[ライナーノーツ](https://ja.wikipedia.org/wiki/ライナーノーツ "wikilink")によると、名付け親は日本ファルコムの創業者（現会長）の[加藤正幸](https://ja.wikipedia.org/wiki/加藤正幸 "wikilink")。J.D.K.は『ジャパン・ダイナマイト・キッズ』または『ジャンピング・デジタル・キッズ』の略とされる。
+アルバム『[イースIV](../Page/イースIV.md "wikilink") VS [風の伝説ザナドゥ](../Page/風の伝説ザナドゥ.md "wikilink") J.D.K.BAND4』付属の[ライナーノーツ](../Page/ライナーノーツ.md "wikilink")によると、名付け親は日本ファルコムの創業者（現会長）の[加藤正幸](https://ja.wikipedia.org/wiki/加藤正幸 "wikilink")。J.D.K.は『ジャパン・ダイナマイト・キッズ』または『ジャンピング・デジタル・キッズ』の略とされる。
 
 ## アルバム
 
 ### J.D.K.BAND
 
-発売は全て[キングレコード](../Page/キングレコード.md "wikilink")の[ファルコムレーベル](https://ja.wikipedia.org/wiki/ファルコムレーベル "wikilink")から。
+発売は全て[キングレコード](../Page/キングレコード.md "wikilink")の[ファルコムレーベル](../Page/ファルコムレーベル.md "wikilink")から。
 
-  - [イースIII](https://ja.wikipedia.org/wiki/イースIII "wikilink") J.D.K.Special（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月21日](https://ja.wikipedia.org/wiki/3月21日 "wikilink")発売）
-  - J.D.K.BAND 1（[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink")発売）
+  - [イースIII](../Page/イースIII.md "wikilink") J.D.K.Special（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月21日](../Page/3月21日.md "wikilink")発売）
+  - J.D.K.BAND 1（[1991年](../Page/1991年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")発売）
   - J.D.K.BAND 2 - ダルク・ファクトの逆襲（1991年[9月5日](../Page/9月5日.md "wikilink")発売）
   - パーフェクトコレクション [イース 天空の神殿](https://ja.wikipedia.org/wiki/イース_\(OVA\) "wikilink") Vol.1 J.D.K.BAND編（[1993年](../Page/1993年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")発売）
   - パーフェクトコレクション イース 天空の神殿 Vol.3 J.D.K.BAND編（1993年[6月23日](../Page/6月23日.md "wikilink")発売）
   - Falcom Vocal Special J.D.K.BAND 3（1993年[7月21日](../Page/7月21日.md "wikilink")発売）
-  - [イースIV](https://ja.wikipedia.org/wiki/イースIV "wikilink") VS [風の伝説ザナドゥ](https://ja.wikipedia.org/wiki/風の伝説ザナドゥ "wikilink") J.D.K.BAND4（[1994年](../Page/1994年.md "wikilink")[4月30日](../Page/4月30日.md "wikilink")発売）
+  - [イースIV](../Page/イースIV.md "wikilink") VS [風の伝説ザナドゥ](../Page/風の伝説ザナドゥ.md "wikilink") J.D.K.BAND4（[1994年](../Page/1994年.md "wikilink")[4月30日](../Page/4月30日.md "wikilink")発売）
 
 ### jdkBAND
 
@@ -106,14 +106,14 @@
 
 ## 関連項目
 
-  - [S.S.T.BAND](https://ja.wikipedia.org/wiki/S.S.T.BAND "wikilink") - セガ（後の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")並びに[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")）の楽曲を演奏するバンド
-  - [C.S.T.BAND](https://ja.wikipedia.org/wiki/C.S.T.BAND "wikilink") - [コンパイルのサウンドチームの総称](../Page/コンパイル_\(企業\).md "wikilink")
+  - [S.S.T.BAND](../Page/S.S.T.BAND.md "wikilink") - セガ（後の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")並びに[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")）の楽曲を演奏するバンド
+  - [C.S.T.BAND](../Page/C.S.T.BAND.md "wikilink") - [コンパイルのサウンドチームの総称](../Page/コンパイル_\(企業\).md "wikilink")
   - [ZUNTATA](../Page/ZUNTATA.md "wikilink") - [タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")のサウンドチームの総称
-  - [コナミ矩形波倶楽部](https://ja.wikipedia.org/wiki/コナミ矩形波倶楽部 "wikilink") - [コナミのサウンドチームの総称](../Page/コナミホールディングス.md "wikilink")
+  - [コナミ矩形波倶楽部](../Page/コナミ矩形波倶楽部.md "wikilink") - [コナミのサウンドチームの総称](../Page/コナミホールディングス.md "wikilink")
   - [GAMADELIC](https://ja.wikipedia.org/wiki/ゲーマデリック "wikilink") - [データイースト](../Page/データイースト.md "wikilink")のサウンドチームおよびバンド
-  - [ALFH LYRA](https://ja.wikipedia.org/wiki/ALFH_LYRA "wikilink")（旧名はアルフ・ライラ・ワ・ライラ） - [カプコン](https://ja.wikipedia.org/wiki/カプコン "wikilink")の楽曲を演奏する[ガールズバンド](https://ja.wikipedia.org/wiki/ガールズバンド "wikilink")
+  - [ALFH LYRA](https://ja.wikipedia.org/wiki/ALFH_LYRA "wikilink")（旧名はアルフ・ライラ・ワ・ライラ） - [カプコン](../Page/カプコン.md "wikilink")の楽曲を演奏する[ガールズバンド](../Page/ガールズバンド.md "wikilink")
   - [SNK新世界楽曲雑技団](https://ja.wikipedia.org/wiki/SNK新世界楽曲雑技団 "wikilink") - [SNKのサウンドチームおよびバンド](../Page/SNK_\(1978年設立の企業\).md "wikilink")
-  - [ファルコムレーベル](https://ja.wikipedia.org/wiki/ファルコムレーベル "wikilink") - J.D.K.BANDのCDを発売していた[レコードレーベル](../Page/レコードレーベル.md "wikilink")
+  - [ファルコムレーベル](../Page/ファルコムレーベル.md "wikilink") - J.D.K.BANDのCDを発売していた[レコードレーベル](../Page/レコードレーベル.md "wikilink")
   - [Falcom Sound Team jdk](../Page/Falcom_Sound_Team_jdk.md "wikilink") - 日本ファルコムのサウンドチームの総称
   - [MARS SIXTEEN](https://ja.wikipedia.org/wiki/MARS_SIXTEEN "wikilink") - 日本ファルコムの多くのゲームタイトルのＴシャツを手がけるファッションブランド、jdk BANDの全てのTシャツを作成
   - [神藤由東大](https://ja.wikipedia.org/wiki/神藤由東大 "wikilink") - ファルコム作品およびj.d.k.BANDの編曲に携わる

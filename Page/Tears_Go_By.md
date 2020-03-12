@@ -1,19 +1,19 @@
 > この記事は[Tears Go By](https://ja.wikipedia.org/wiki/Tears_Go_By)から翻訳されています。
 
 
-『**Tears Go By**』（ティアーズ・ゴー・バイ）は[三枝夕夏 IN dbの](https://ja.wikipedia.org/wiki/三枝夕夏_IN_db "wikilink")3rdシングル。
+『**Tears Go By**』（ティアーズ・ゴー・バイ）は[三枝夕夏 IN dbの](../Page/三枝夕夏_IN_db.md "wikilink")3rdシングル。
 
 ## 内容
 
-  - [大野愛果](https://ja.wikipedia.org/wiki/大野愛果 "wikilink")作曲であり、両者のコラボレーションはこの作品が初となる。
+  - [大野愛果](../Page/大野愛果.md "wikilink")作曲であり、両者のコラボレーションはこの作品が初となる。
   - 16ビートの曲で、歌入れに2ヶ月かけた。デビュー以来初めて壁に打ち当たった想い出に残る曲だという。三枝が10パート以上のコーラスを入れた上に、大野愛果と[宇徳敬子](https://ja.wikipedia.org/wiki/宇徳敬子 "wikilink")もコーラスを重ねている。\[1\]
-  - [CD-EXTRA仕様となっており](https://ja.wikipedia.org/wiki/CD_EXTRA "wikilink")、「[Whenever I think of you](../Page/Whenever_I_think_of_you.md "wikilink")」の[プロモーションビデオ等が収録されている](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。
+  - [CD-EXTRA仕様となっており](../Page/CD_EXTRA.md "wikilink")、「[Whenever I think of you](../Page/Whenever_I_think_of_you.md "wikilink")」の[プロモーションビデオ等が収録されている](../Page/ミュージック・ビデオ.md "wikilink")。
 
 ## 収録曲
 
 1.  **Tears Go By**
       -
-        作詞：[三枝夕夏](https://ja.wikipedia.org/wiki/三枝夕夏 "wikilink")、作曲：[大野愛果](https://ja.wikipedia.org/wiki/大野愛果 "wikilink")、編曲：[徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")
+        作詞：[三枝夕夏](../Page/三枝夕夏.md "wikilink")、作曲：[大野愛果](../Page/大野愛果.md "wikilink")、編曲：[徳永暁人](../Page/徳永暁人.md "wikilink")
     <!-- end list -->
       - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[天使な小生意気](../Page/天使な小生意気.md "wikilink")』エンディングテーマ。
 2.  **[It's for you](../Page/It's_for_you.md "wikilink") 〜Wondering Love Destiny night clubbers mix〜**
@@ -21,8 +21,8 @@
 
 ## 収録アルバム
 
-  - [Secret\&Lies](https://ja.wikipedia.org/wiki/Secret&Lies "wikilink")（\#1）
-  - [三枝夕夏 IN d-best 〜Smile\&Tears〜](https://ja.wikipedia.org/wiki/三枝夕夏_IN_d-best_〜Smile&Tears〜 "wikilink")（\#1）
+  - [Secret\&Lies](../Page/Secret&Lies.md "wikilink")（\#1）
+  - [三枝夕夏 IN d-best 〜Smile\&Tears〜](../Page/三枝夕夏_IN_d-best_〜Smile&Tears〜.md "wikilink")（\#1）
   - [U-ka saegusa IN db Final Best](https://ja.wikipedia.org/wiki/U-ka_saegusa_IN_db_Final_Best "wikilink")（\#1）
 
 ## 脚注

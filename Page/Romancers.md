@@ -1,11 +1,11 @@
 > この記事は[Romancers](https://ja.wikipedia.org/wiki/Romancers)から翻訳されています。
 
 
-『**Romancers**』（ロマンサーズ）は、[浅美裕子](https://ja.wikipedia.org/wiki/浅美裕子 "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。
+『**Romancers**』（ロマンサーズ）は、[浅美裕子](../Page/浅美裕子.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。
 
 ## あらすじ
 
-中学生の汀宝良は、言葉を操る「ロマンサー」という特殊な能力を持ち、その能力で「請負い屋」として[警察](https://ja.wikipedia.org/wiki/警察 "wikilink")が手に負えない事件を解決する。
+中学生の汀宝良は、言葉を操る「ロマンサー」という特殊な能力を持ち、その能力で「請負い屋」として[警察](../Page/警察.md "wikilink")が手に負えない事件を解決する。
 
 ## 設定
 
@@ -25,7 +25,7 @@
     幼少時は悲惨な環境で育ち、この能力が元で[虐待](https://ja.wikipedia.org/wiki/虐待 "wikilink")する父親を殺してしまい荒れていたが、脇坂と加賀見によって更生する。請負い屋をしながら行方不明になった加賀見を探している。
     [6月1日](../Page/6月1日.md "wikilink")生まれの双子座で13歳。血液型はAB型で身長は149cm、体重は52kgである。
   - 脇坂純一（わきさか じゅんいち）
-    宝良の保護者兼同居人兼仕事のパートナー。本業は[刑事](https://ja.wikipedia.org/wiki/刑事 "wikilink")であり、階級は[警部補](https://ja.wikipedia.org/wiki/警部補 "wikilink")。
+    宝良の保護者兼同居人兼仕事のパートナー。本業は[刑事](../Page/刑事.md "wikilink")であり、階級は[警部補](../Page/警部補.md "wikilink")。
     口が悪く、よく宝良をからかって楽しんでいるが、本心では宝良を大事に思い、自ら憎まれ役を演じている。一日40本煙草を吸うヘビースモーカー。
     宝良が[虫垂炎](../Page/虫垂炎.md "wikilink")で入院していた時に仲良くなった友弘の兄で、宝良とは過去に面識がある。かつて加賀見とパートナーを組んでいた。
     [7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")生まれのかに座で28歳。血液型はB型で身長は183cm、体重は80kgである。

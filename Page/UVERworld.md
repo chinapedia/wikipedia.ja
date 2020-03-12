@@ -1,25 +1,25 @@
 > この記事は[UVERworld](https://ja.wikipedia.org/wiki/UVERworld)から翻訳されています。
 
 
-**UVERworld**（ウーバーワールド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の6人組[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")\[1\]\[2\]。愛称は「**UVER**」など。2000年結成。所属事務所は[POWERPLAY](https://ja.wikipedia.org/wiki/POWERPLAY "wikilink")。レーベルは[ソニー・ミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")傘下の[gr8\!records](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ#レーベル "wikilink")。公式ファンクラブは「**Neo SOUND WAVE**」である。
+**UVERworld**（ウーバーワールド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の6人組[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")\[1\]\[2\]。愛称は「**UVER**」など。2000年結成。所属事務所は[POWERPLAY](https://ja.wikipedia.org/wiki/POWERPLAY "wikilink")。レーベルは[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")傘下の[gr8\!records](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ#レーベル "wikilink")。公式ファンクラブは「**Neo SOUND WAVE**」である。
 
 ## 概要
 
   - 2000年6月6日、UVERworldの前身である**SOUND極ROAD**（サウンドごくロード）を結成。当時は現在の6人に加え、もう一人のボーカル担当RYOHEIを合わせた7人構成だった。
   - 現在のバンド名「UVERworld」は、「SOUND極ROAD」からの改名時、500以上の候補から彰が提案した「〜world」と、「超える」の意味を持つ[ドイツ語](../Page/ドイツ語.md "wikilink")「」と[英語](../Page/英語.md "wikilink")「」とを混ぜ合わせた造語で、バンド名の意味は「**自分達の世界をも越える**」\[3\]。
-  - インディーズ時代、新人発掘の為ライブを観に来ていたソニー・ミュージックレコーズの村松俊亮代表取締役社長から「どんなアーティストになりたいか」と質問された際、TAKUYA∞は**「[日本武道館](https://ja.wikipedia.org/wiki/日本武道館 "wikilink")でライブが出来るアーティスト」**と答えたという\[4\]。その念願通り、2008年12月5日に初の日本武道館単独公演を敢行。因みに、その質問をされた時点では、まだ社長とは分かっていなかった。その後、2004年10月に大阪のライブハウス、ベイサイドジェニーでのライブにて正式に契約した。ちなみに、TAKUYA∞とRYOHEIでツインボーカルをしていた時は二人で**Ace∞trigger**と名乗っていた。
+  - インディーズ時代、新人発掘の為ライブを観に来ていたソニー・ミュージックレコーズの村松俊亮代表取締役社長から「どんなアーティストになりたいか」と質問された際、TAKUYA∞は**「[日本武道館](../Page/日本武道館.md "wikilink")でライブが出来るアーティスト」**と答えたという\[4\]。その念願通り、2008年12月5日に初の日本武道館単独公演を敢行。因みに、その質問をされた時点では、まだ社長とは分かっていなかった。その後、2004年10月に大阪のライブハウス、ベイサイドジェニーでのライブにて正式に契約した。ちなみに、TAKUYA∞とRYOHEIでツインボーカルをしていた時は二人で**Ace∞trigger**と名乗っていた。
   - 2004年11月27日に上京してから、3rdアルバム『[PROGLUTION](https://ja.wikipedia.org/wiki/PROGLUTION "wikilink")』を発売する頃まで、メンバー全員で[大田区](https://ja.wikipedia.org/wiki/大田区 "wikilink")の一軒家で同居生活をしていた。その後は、TAKUYA∞がその家を引き継ぎ、2階を「core ability studio」というプライベートスタジオに改築。その後TAKUYA∞は転居し、現在は高層マンションの自宅に「New core ability studio」を構えている。\[5\]
   - UVERworldファンのことは、「Crew」（クルー）と呼ばれる。
-  - デビュー以降、[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")に「[just Melody](https://ja.wikipedia.org/wiki/just_Melody "wikilink")」で初出演して以降TV出演も頻繁に行ってきたが、2013年以降はテレビ出演を控えるようになった。理由としては「テレビはリハーサルが十分に出来ないから」「歌詞の全てを伝えきれないから」「テレビに出る時間をトレーニングや曲作りに回したいから」などTAKUYA∞が様々挙げている。なお、ミュージックステーションの出演は東京ドーム公演前日に出演した「[NO.1](https://ja.wikipedia.org/wiki/NO.1_\(UVERworldの曲\) "wikilink")」が最後であり、テレビでの歌唱出演は、[COUNT DOWN TVでの](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")「[THE OVER](https://ja.wikipedia.org/wiki/THE_OVER "wikilink")」の披露が最後であった。しかし、2017年7月1日に[日本テレビで放送された大型音楽特番](../Page/日本テレビ放送網.md "wikilink")『[THE MUSIC DAY](https://ja.wikipedia.org/wiki/THE_MUSIC_DAY "wikilink")』に出演をし、6年振りにテレビ番組にてパフォーマンスを行った。曲は「[DECIDED](https://ja.wikipedia.org/wiki/DECIDED "wikilink")」「[CHANCE\!](https://ja.wikipedia.org/wiki/CHANCE!_\(UVERworldの曲\) "wikilink")」。また、6人体制になってからのテレビ出演は今回が初である。\[6\]また、同年7月28日に[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")で放送される、『ミュージックステーション』にも出演決定しており、「DECIDED」を披露した。また、「Mステ」の出演は、約7年振りとなる。\[7\]2019年12月13日(金)、同月に発売した10thアルバム「UNSER」に収録されている「AFTER LIFE」を披露。約2年ぶりの出演である。これを皮切りに、新曲リリースした時などはテレビ出演する機会が増えている。
+  - デビュー以降、[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")に「[just Melody](https://ja.wikipedia.org/wiki/just_Melody "wikilink")」で初出演して以降TV出演も頻繁に行ってきたが、2013年以降はテレビ出演を控えるようになった。理由としては「テレビはリハーサルが十分に出来ないから」「歌詞の全てを伝えきれないから」「テレビに出る時間をトレーニングや曲作りに回したいから」などTAKUYA∞が様々挙げている。なお、ミュージックステーションの出演は東京ドーム公演前日に出演した「[NO.1](https://ja.wikipedia.org/wiki/NO.1_\(UVERworldの曲\) "wikilink")」が最後であり、テレビでの歌唱出演は、[COUNT DOWN TVでの](../Page/COUNT_DOWN_TV.md "wikilink")「[THE OVER](https://ja.wikipedia.org/wiki/THE_OVER "wikilink")」の披露が最後であった。しかし、2017年7月1日に[日本テレビで放送された大型音楽特番](../Page/日本テレビ放送網.md "wikilink")『[THE MUSIC DAY](https://ja.wikipedia.org/wiki/THE_MUSIC_DAY "wikilink")』に出演をし、6年振りにテレビ番組にてパフォーマンスを行った。曲は「[DECIDED](https://ja.wikipedia.org/wiki/DECIDED "wikilink")」「[CHANCE\!](../Page/CHANCE!_\(UVERworldの曲\).md "wikilink")」。また、6人体制になってからのテレビ出演は今回が初である。\[6\]また、同年7月28日に[テレビ朝日](../Page/テレビ朝日.md "wikilink")で放送される、『ミュージックステーション』にも出演決定しており、「DECIDED」を披露した。また、「Mステ」の出演は、約7年振りとなる。\[7\]2019年12月13日(金)、同月に発売した10thアルバム「UNSER」に収録されている「AFTER LIFE」を披露。約2年ぶりの出演である。これを皮切りに、新曲リリースした時などはテレビ出演する機会が増えている。
 
 ### マスコットキャラクター
 
-  - 「[D-tecnoLife](https://ja.wikipedia.org/wiki/D-tecnoLife "wikilink")」から、1stアルバム「[Timeless](https://ja.wikipedia.org/wiki/Timeless_\(UVERworldのアルバム\) "wikilink")」までのジャケットで使われていたバンドのマスコットキャラクターの名前はUVERちゃん（ウーバーちゃん）である。由来は特にない。このキャラクターの作者はアメリカのキャラクターデザイナーであるDavid Horvath（ディビット・ホーバス）である。デビュー当時はUVERちゃんがデザインされたジャケットが使われてきたが、その後デザイナーとの契約が切れたためか、現在は使われていない。
-  - 2015年の15&10 Anniversary TOURからは「[7日目の決意](https://ja.wikipedia.org/wiki/7日目の決意 "wikilink")」や「[0 CHOIR](https://ja.wikipedia.org/wiki/0̸_CHOIR "wikilink")」のジャケットに載っている幸運のカエルがマスコットキャラクターとしてぬいぐるみとフィギュアがグッズとして売り出された。デザイナーはTAKUYA∞の友人。2016のARENA TOURからは関係者用入口や会場内で着ぐるみが目撃されている。モチーフは[コケガエル](https://ja.wikipedia.org/wiki/コケガエル "wikilink")。
+  - 「[D-tecnoLife](../Page/D-tecnoLife.md "wikilink")」から、1stアルバム「[Timeless](../Page/Timeless_\(UVERworldのアルバム\).md "wikilink")」までのジャケットで使われていたバンドのマスコットキャラクターの名前はUVERちゃん（ウーバーちゃん）である。由来は特にない。このキャラクターの作者はアメリカのキャラクターデザイナーであるDavid Horvath（ディビット・ホーバス）である。デビュー当時はUVERちゃんがデザインされたジャケットが使われてきたが、その後デザイナーとの契約が切れたためか、現在は使われていない。
+  - 2015年の15&10 Anniversary TOURからは「[7日目の決意](https://ja.wikipedia.org/wiki/7日目の決意 "wikilink")」や「[0 CHOIR](https://ja.wikipedia.org/wiki/0̸_CHOIR "wikilink")」のジャケットに載っている幸運のカエルがマスコットキャラクターとしてぬいぐるみとフィギュアがグッズとして売り出された。デザイナーはTAKUYA∞の友人。2016のARENA TOURからは関係者用入口や会場内で着ぐるみが目撃されている。モチーフは[コケガエル](../Page/コケガエル.md "wikilink")。
 
 ### 音楽性
 
-インディーズ時代よりバンドによる生楽器と、打ち込みによる同期演奏、ラップや[ヒューマンビートボックス](https://ja.wikipedia.org/wiki/ヒューマンビートボックス "wikilink")、[エフェクト](https://ja.wikipedia.org/wiki/エフェクト "wikilink")を用いたボーカルなど、多種多様な要素を含んだミクスチャーサウンドが特徴。ジャンルとしては[オルタナティブ・ロック](https://ja.wikipedia.org/wiki/オルタナティブ・ロック "wikilink")、[ハードロック](../Page/ハードロック.md "wikilink")、[ヒップホップ](https://ja.wikipedia.org/wiki/日本のヒップホップ "wikilink")、[R\&B](https://ja.wikipedia.org/wiki/コンテンポラリー・R&B "wikilink")、[エレクトロニカ](../Page/電子音楽.md "wikilink")、[ラテン](https://ja.wikipedia.org/wiki/ラテン "wikilink")などを内包している。また、ギターでは王道の[ディストーション](https://ja.wikipedia.org/wiki/ディストーション "wikilink")サウンドが殆ど使われていないため、ベースやドラムがより前面に出されている。
+インディーズ時代よりバンドによる生楽器と、打ち込みによる同期演奏、ラップや[ヒューマンビートボックス](../Page/ヒューマンビートボックス.md "wikilink")、[エフェクト](https://ja.wikipedia.org/wiki/エフェクト "wikilink")を用いたボーカルなど、多種多様な要素を含んだミクスチャーサウンドが特徴。ジャンルとしては[オルタナティブ・ロック](https://ja.wikipedia.org/wiki/オルタナティブ・ロック "wikilink")、[ハードロック](../Page/ハードロック.md "wikilink")、[ヒップホップ](../Page/日本のヒップホップ.md "wikilink")、[R\&B](../Page/コンテンポラリー・R&B.md "wikilink")、[エレクトロニカ](../Page/電子音楽.md "wikilink")、[ラテン](https://ja.wikipedia.org/wiki/ラテン "wikilink")などを内包している。また、ギターでは王道の[ディストーション](https://ja.wikipedia.org/wiki/ディストーション "wikilink")サウンドが殆ど使われていないため、ベースやドラムがより前面に出されている。
 
 ## これまでの活動
 
@@ -52,7 +52,7 @@
 #### 2004年
 
   - 2月28日、HUCKLEBERRYにてUVERworld主催の対バンライブイベントを開催。
-  - 10月、ベイサイドジェニーにてソニー・ミュージックレコーズの[社長](https://ja.wikipedia.org/wiki/社長 "wikilink")がUVERworldを目撃。ライブ当日夜に[契約](../Page/契約.md "wikilink")を締結した。**gr8\!records**に所属が決定し、その後[メジャー](https://ja.wikipedia.org/wiki/メジャーレーベル "wikilink")[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")が決定。[インディーズ](../Page/インディーズ.md "wikilink")の頃は、手売りのみで3000枚のCDが完売する程度であり、レコード契約以前に所属事務所が決まっていた。
+  - 10月、ベイサイドジェニーにてソニー・ミュージックレコーズの[社長](../Page/社長.md "wikilink")がUVERworldを目撃。ライブ当日夜に[契約](../Page/契約.md "wikilink")を締結した。**gr8\!records**に所属が決定し、その後[メジャー](https://ja.wikipedia.org/wiki/メジャーレーベル "wikilink")[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")が決定。[インディーズ](../Page/インディーズ.md "wikilink")の頃は、手売りのみで3000枚のCDが完売する程度であり、レコード契約以前に所属事務所が決まっていた。
   - 11月27日、メジャーデビューに向けて上京、6人での共同生活を開始。
 
 ### 2005年 - 2007年:メジャーデビュー - 『Timeless』- 活動休止
@@ -74,15 +74,15 @@
 #### 2006年
 
   - 1月25日、3rdシングル「just Melody」を発売。
-  - 2月15日、1st[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")『**Timeless**』を発売。
+  - 2月15日、1st[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")『**Timeless**』を発売。
   - 3月9日、[ゴールドディスク大賞](https://ja.wikipedia.org/wiki/ゴールドディスク大賞 "wikilink")で2005年度の**ニュー・アーティスト・オブ・ザ・イヤー**を受賞。
-  - 3月 - 4月、初の全国[ツアー](https://ja.wikipedia.org/wiki/ツアー "wikilink")「UVERworld Timeless TOUR 2006」を開催。
-  - 5月17日、4thシングル「[Colors of the Heart](https://ja.wikipedia.org/wiki/Colors_of_the_Heart "wikilink")」を発売。
-  - 8月2日、5thシングル「[SHAMROCK](https://ja.wikipedia.org/wiki/SHAMROCK_\(曲\) "wikilink")」を発売。
+  - 3月 - 4月、初の全国[ツアー](../Page/ツアー.md "wikilink")「UVERworld Timeless TOUR 2006」を開催。
+  - 5月17日、4thシングル「[Colors of the Heart](../Page/Colors_of_the_Heart.md "wikilink")」を発売。
+  - 8月2日、5thシングル「[SHAMROCK](../Page/SHAMROCK_\(曲\).md "wikilink")」を発売。
   - 8月5日、[しらさわグリーンパーク](https://ja.wikipedia.org/wiki/しらさわグリーンパーク "wikilink")野球場にてロックフェスティバル「TORORO ROCK FES in Shirasawa 2006」に出演。初の野外フェス出演となる。
   - 9月14日 - 10月9日、2度目の全国ツアー「Live everyday as though it were last.」を開催。
   - 10月7日 - 11月12日、[学園祭](https://ja.wikipedia.org/wiki/学園祭 "wikilink")ツアーを敢行。
-  - 11月15日、6thシングル「[君の好きなうた](https://ja.wikipedia.org/wiki/君の好きなうた "wikilink")」を発売。
+  - 11月15日、6thシングル「[君の好きなうた](../Page/君の好きなうた.md "wikilink")」を発売。
   - 11月22日、1stアルバム『Timeless』の再発盤を発売。
   - 12月15日、TAKUYA∞が[公務執行妨害](https://ja.wikipedia.org/wiki/公務執行妨害 "wikilink")の現行犯で逮捕・拘留\[8\]された事が報道され、活動を自粛・休止。発売を控えていた2ndアルバムなど関連商品の発売が延期とされた。
   - 12月20日、初のライブDVD『[LIVE at SHIBUYA-AX from Timeless TOUR 2006](https://ja.wikipedia.org/wiki/LIVE_at_SHIBUYA-AX_from_Timeless_TOUR_2006 "wikilink")』を発売。
@@ -97,15 +97,15 @@
 
   - 2月20日、初のアーティストブック「CLASSWORD」を発売。
 
-  - 2月21日、発売を延期していた2ndオリジナルアルバム『**[BUGRIGHT](https://ja.wikipedia.org/wiki/BUGRIGHT "wikilink")**』を発売。TAKUYA∞が起こした事件の反省の形の一つとして、ネット配信限定『UVER家のTV』開始。
+  - 2月21日、発売を延期していた2ndオリジナルアルバム『**[BUGRIGHT](../Page/BUGRIGHT.md "wikilink")**』を発売。TAKUYA∞が起こした事件の反省の形の一つとして、ネット配信限定『UVER家のTV』開始。
 
   - 3月 - 4月、全国ツアー「UVERworld BUGRIGHT TOUR 2007」を開催。4月26日から4月30日には追加公演「UVERworld BUGRIGHT TOUR 2007 〜Toward endscape〜」も開催。
 
   - 5月30日、7thシングル「[endscape](https://ja.wikipedia.org/wiki/endscape "wikilink")」を発売。
 
-  - 8月8日、8thシングル「[シャカビーチ〜Laka Laka La〜](https://ja.wikipedia.org/wiki/シャカビーチ〜Laka_Laka_La〜 "wikilink")」を発売。
+  - 8月8日、8thシングル「[シャカビーチ〜Laka Laka La〜](../Page/シャカビーチ〜Laka_Laka_La〜.md "wikilink")」を発売。
 
-  - 8月20日、[STUDIO COASTにて](https://ja.wikipedia.org/wiki/STUDIO_COAST "wikilink")、8thシングル購入者限定特別ライブ「UVERworld DoSummer\!voices 〜what we need〜」を開催。
+  - 8月20日、[STUDIO COASTにて](../Page/STUDIO_COAST.md "wikilink")、8thシングル購入者限定特別ライブ「UVERworld DoSummer\!voices 〜what we need〜」を開催。
 
   - 10月- 11月、学園祭ツアーを敢行。
 
@@ -118,7 +118,7 @@
   - 3月18日 - 6月6日、初のホールツアー「UVERworld PROGLUTION TOUR 2008」を開催（追加公演含む）。
   - 6月11日、10thシングル「[激動/Just break the limit\!](https://ja.wikipedia.org/wiki/激動/Just_break_the_limit! "wikilink")」を発売。
   - 7月15日、初のライブドキュメントブック「UVERworld PROGLUTION TOUR 2008 THE DOCUMENT」を発売。
-  - 9月10日、11thシングル「[恋いしくて](https://ja.wikipedia.org/wiki/恋いしくて "wikilink")」を発売。
+  - 9月10日、11thシングル「[恋いしくて](../Page/恋いしくて.md "wikilink")」を発売。
   - 9月20日 - 9月30日、「UVERworld PROGLUTION TOUR 2008」でのライブ映像などのドキュメントムービーを全国11箇所の会場で上映するイベント「PROGLUTION TOUR ドキュメントムービー「core ability」」を開催。
   - 10月1日、2枚目のライブDVD『[PROGLUTION TOUR 2008](https://ja.wikipedia.org/wiki/PROGLUTION_TOUR_2008 "wikilink")』を発売。シングル、アルバム、DVDを通じてUVERworld初のオリコン週間チャート1位を獲得する。
   - 10月3日 - 10月29日、初のファンクラブ会員限定ライブツアー「UVERworld」を開催。
@@ -126,7 +126,7 @@
   - 11月19日、12thシングル「[儚くも永久のカナシ](https://ja.wikipedia.org/wiki/儚くも永久のカナシ "wikilink")」を発売。**CDでは初のオリコン週間シングルランキング1位を獲得**\[9\]。
   - 12月5日、日本武道館にて、単発ライブ開催。**UVERworld初の日本武道館単独公演となる**。
   - 12月13日、大阪城ホールにて、単発ライブ開催。初の大阪城ホール単独公演。
-  - 12月25日、日本武道館にて、単発ライブ「UVERworld 2008 Premium LIVE on Xmas」を開催。このライブは同月5日に行われた日本武道館単独公演の追加公演であり、クリスマスライブでもある。この年から始まった、日本武道館でのUVERworldのクリスマスライブではライブの最初に有名なクリスマスソングをカバーしており、この年は[ジョン・レノン](../Page/ジョン・レノン.md "wikilink")と[オノ・ヨーコ](../Page/オノ・ヨーコ.md "wikilink")の「[Happy Xmas (War Is Over)](https://ja.wikipedia.org/wiki/ハッピー・クリスマス（戦争は終った） "wikilink")」をカバーした。
+  - 12月25日、日本武道館にて、単発ライブ「UVERworld 2008 Premium LIVE on Xmas」を開催。このライブは同月5日に行われた日本武道館単独公演の追加公演であり、クリスマスライブでもある。この年から始まった、日本武道館でのUVERworldのクリスマスライブではライブの最初に有名なクリスマスソングをカバーしており、この年は[ジョン・レノン](../Page/ジョン・レノン.md "wikilink")と[オノ・ヨーコ](../Page/オノ・ヨーコ.md "wikilink")の「[Happy Xmas (War Is Over)](../Page/ハッピー・クリスマス（戦争は終った）.md "wikilink")」をカバーした。
 
 #### 2009年
 
@@ -138,7 +138,7 @@
   - 10月28日、14thシングル「[哀しみはきっと](https://ja.wikipedia.org/wiki/哀しみはきっと "wikilink")」を発売。
   - 10月 - 11月、学園祭ツアーを敢行。
   - 11月6日 - 12月15日、全国ツアー「UVERworld Autumn Tour 2009」を開催。
-  - 12月9日、初の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『**[Neo SOUND BEST](https://ja.wikipedia.org/wiki/Neo_SOUND_BEST "wikilink")**』を発売。
+  - 12月9日、初の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『**[Neo SOUND BEST](https://ja.wikipedia.org/wiki/Neo_SOUND_BEST "wikilink")**』を発売。
   - 12月25日、日本武道館にてUVERworldのファンクラブ会員限定のクリスマスライブ「<small>Neo SOUND WAVE PRESENTS</small> UVERworld 2009 PREMIUM LIVE ON X'MAS」を開催。この年は[WHAM\!の](../Page/ワム!.md "wikilink")「[Last Christmas](https://ja.wikipedia.org/wiki/ラスト・クリスマス_\(ワム!の曲\) "wikilink")」をカバーした。
 
 #### 2010年
@@ -170,7 +170,7 @@
 
   - 3月28日、21stシングル「[7th Trigger](https://ja.wikipedia.org/wiki/7th_Trigger "wikilink")」を発売。
   - 4月4日、6枚目のライブDVD『**[UVERworld 2011 Premium LIVE on Xmas at Nippon Budokan](https://ja.wikipedia.org/wiki/UVERworld_2011_Premium_LIVE_on_Xmas_at_Nippon_Budokan "wikilink")**』を発売。
-  - 4月27日・29日、音楽雑誌『PATi-PATi』主催のライブイベント「PATi★Night Episode UW」を[Zepp Namba及びZepp](https://ja.wikipedia.org/wiki/Zepp "wikilink") Divercity Tokyoにて開催。
+  - 4月27日・29日、音楽雑誌『PATi-PATi』主催のライブイベント「PATi★Night Episode UW」を[Zepp Namba及びZepp](../Page/Zepp.md "wikilink") Divercity Tokyoにて開催。
   - 5月2日、『**UVERworld 2011 Premium LIVE on Xmas at Nippon Budokan【Blu-ray】**』を発売。
   - 5月- 7月、全国ツアー「UVERworld LIVE Tour 2012」を開催。
   - 8月22日、初のドキュメンタリー映画「[UVERworld DOCUMENTARY THE SONG](https://ja.wikipedia.org/wiki/UVERworld_DOCUMENTARY_THE_SONG "wikilink")」の全国ロードショー開始。
@@ -194,7 +194,7 @@
 #### 2014年
 
   - 3月19日、2枚目のPVクリップ集DVD『[UVERworld Video Complete -act.2-](https://ja.wikipedia.org/wiki/UVERworld_Video_Complete_-act.2- "wikilink")』を発売。
-  - 3月26日、これまで[サポートメンバーとして活動してきたSEIKAが](https://ja.wikipedia.org/wiki/バックバンド "wikilink")、[マニピュレーター](https://ja.wikipedia.org/wiki/マニピュレーター "wikilink")、[サックスの誠果としてUVERworld正式メンバーに加入することが発表された](../Page/サクソフォーン.md "wikilink")。
+  - 3月26日、これまで[サポートメンバーとして活動してきたSEIKAが](https://ja.wikipedia.org/wiki/バックバンド "wikilink")、[マニピュレーター](../Page/マニピュレーター.md "wikilink")、[サックスの誠果としてUVERworld正式メンバーに加入することが発表された](../Page/サクソフォーン.md "wikilink")。
   - 3月27日、初の[京セラドーム](https://ja.wikipedia.org/wiki/京セラドーム "wikilink")大阪公演が同年7月5日に行われることが発表された。
   - 6月18日、26thシングル「7日目の決意」を発売。
   - 7月2日、8thアルバム『0̸ CHOIR』を発売。
@@ -257,19 +257,19 @@
 #### 2020年
 
   - 2月にメンバーの生誕祭ライブを含む「UVERworld LIVE HOUSE TOUR 2020」を開催した。2月26日、27日のZepp Sapporo公演と3月7日、8日の豊洲PIT公演は新型コロナウイルスの影響で中止となった。
-  - 3月4日、36th Single「[AS ONE](https://ja.wikipedia.org/wiki/AS_ONE_\(UVERworldの曲\) "wikilink")」を発売予定。
+  - 3月4日、36th Single「[AS ONE](../Page/AS_ONE_\(UVERworldの曲\).md "wikilink")」を発売予定。
 
 ## メンバー
 
 ### TAKUYA∞
 
-**TAKUYA∞**（たくや）。ボーカル、ラップ、プログラミング。[既婚](../Page/結婚.md "wikilink")。TAKUYA∞の[∞](https://ja.wikipedia.org/wiki/∞ "wikilink")は「可能性は無限大」という意味が込められている。∞は読まない。星座は[射手座](https://ja.wikipedia.org/wiki/射手座 "wikilink")、血液型は[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")、身長は168cm、体重は56kg。
+**TAKUYA∞**（たくや）。ボーカル、ラップ、プログラミング。[既婚](../Page/結婚.md "wikilink")。TAKUYA∞の[∞](../Page/∞.md "wikilink")は「可能性は無限大」という意味が込められている。∞は読まない。星座は[射手座](https://ja.wikipedia.org/wiki/射手座 "wikilink")、血液型は[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")、身長は168cm、体重は56kg。
 
   - 担当
 
 <!-- end list -->
 
-  - ほぼ全ての楽曲の[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")、[作曲](../Page/作曲.md "wikilink")を手掛ける。「人に聴かせられないようなダサイ曲を創る」というのが趣味で、9thシングル「浮世CROSSING」のカップリング曲「energy」は元々そのような曲として作っていた。
+  - ほぼ全ての楽曲の[作詞](../Page/作詞.md "wikilink")、[作曲](../Page/作曲.md "wikilink")を手掛ける。「人に聴かせられないようなダサイ曲を創る」というのが趣味で、9thシングル「浮世CROSSING」のカップリング曲「energy」は元々そのような曲として作っていた。
   - ボーカルを主に担当し、歌唱においてはラップやヒューマンビートボックス、ダミ声、[ファルセット](../Page/ファルセット.md "wikilink")、口笛などあらゆる唱法を使い分ける。
   - ボーカル以外にもギター、ベース、ピアノ、[ドラム](https://ja.wikipedia.org/wiki/ドラム "wikilink")などの楽器を弾くことができるマルチプレイヤーである。
   - 人生で最初に作った曲のタイトルは、「殺しちまいな」である。2曲目が「リングにかけろ」、3曲目が「午前4時のワイングラス」であり、全て中学1年生の時に作った。またその後の少年時代にも、姉に歌ってもらう という前提で作った「神様におねがい」や、20歳手前で作った「極道マムシの兄弟」などもある。
@@ -280,15 +280,15 @@
 
 <!-- end list -->
 
-  - 土や草のある土地で子育てをしたいという両親の意向で、幼少期に大阪府から滋賀県に転居。幼少時に信人と出会い、親友となる。[草津市立草津中学校](https://ja.wikipedia.org/wiki/草津市立草津中学校 "wikilink")1年生のときの学園祭で、TAKUYA∞の姉がボーカル、信人の兄がベースをしているバンドに刺激を受け、信人ともう一人の友人を誘いバンドを結成。中学卒業後、ライブハウスでバイトしたりしていた。中学時代の髪型は[モヒカン](https://ja.wikipedia.org/wiki/モヒカン "wikilink")だった。
+  - 土や草のある土地で子育てをしたいという両親の意向で、幼少期に大阪府から滋賀県に転居。幼少時に信人と出会い、親友となる。[草津市立草津中学校](../Page/草津市立草津中学校.md "wikilink")1年生のときの学園祭で、TAKUYA∞の姉がボーカル、信人の兄がベースをしているバンドに刺激を受け、信人ともう一人の友人を誘いバンドを結成。中学卒業後、ライブハウスでバイトしたりしていた。中学時代の髪型は[モヒカン](https://ja.wikipedia.org/wiki/モヒカン "wikilink")だった。
   - 滋賀県で生まれ育ったことについて、当初は交通の利便性等 さまざまな面でハンディキャップを背負っているような劣等感があったというが、UVERworldは滋賀で結成しデビューを勝ち取り、今では滋賀が大好きだという。また、曲作りのために月の半分を実家で過ごすこともある。
   - インディーズ時代、SOUND極ROADと掛け持ちでバンド「[ファットピープス](https://ja.wikipedia.org/wiki/ファットピープス "wikilink")」を結成し、滋賀、大阪を中心にライブ活動を行っていたが、UVERworldのメジャーデビューが決まると同時に解散。この時のメンバーの1人であるAKIはUVERworldの一部楽曲に参加している。
-  - 2006年12月11日に[公務執行妨害罪で現行犯逮捕](https://ja.wikipedia.org/wiki/公務の執行を妨害する罪 "wikilink")\[12\]され、翌日[書類送検](https://ja.wikipedia.org/wiki/書類送検 "wikilink")されると共に釈放。
+  - 2006年12月11日に[公務執行妨害罪で現行犯逮捕](../Page/公務の執行を妨害する罪.md "wikilink")\[12\]され、翌日[書類送検](../Page/書類送検.md "wikilink")されると共に釈放。
   - 尊敬する人物はtickに所属していたReigo5である。好きな言葉もReigo5からの言葉である「願い続ける想いは、いつか色付く」であり、4thシングル「Colors of the Heart」の歌詞にもその言葉が登場する。また、Reigo5の「志-kokorozashi-」という曲を11thシングル「恋いしくて」のカップリング曲としてカバーしている。また、2009年2月25日発売のtickの1stシングル「キズナ」のカップリング曲「All I Want」のReigo5が歌っている部分をTAKUYA∞が担当した。
   - 血液型は、自宅出産であったこともあり自分でも分からなかったが、2008年12月25日の日本武道館でのクリスマスライブ「UVERworld 2008 Premium LIVE on Xmas」でのMCでB型と公表した。
   - 非喫煙者である。また年に3回程度しか飲酒をしない。2016年のアリーナツアーからは高音が出しづらくなった事をきっかけに[カフェイン](../Page/カフェイン.md "wikilink")を摂ることやめ、[黒豆茶](https://ja.wikipedia.org/wiki/黒豆茶 "wikilink")などを嗜むようになっている。食生活はグルテンフリーを軸とした肉と野菜のみである。2011年より毎日10kmのランニングを欠かさず行っている。本人曰く、「UVERworldがこれからどうなっていくべきなのか、自分はどう生きて行けば良いのか」と言うことを頭に思い浮かべながら走っているという。
   - 一時期、出会ったファンを家に住まわせていたことがあり、その時のトラブルは小銭をパクられたぐらいだった。
-  - 西川貴教、[ONE OK ROCKの](https://ja.wikipedia.org/wiki/ONE_OK_ROCK "wikilink")[Taka](https://ja.wikipedia.org/wiki/森田貴寛 "wikilink")、[175R](../Page/175R.md "wikilink")の[SHOGO](../Page/SHOGO.md "wikilink")、[Aqua Timezの太志](https://ja.wikipedia.org/wiki/Aqua_Timez "wikilink")、[シドの](https://ja.wikipedia.org/wiki/シド_\(バンド\) "wikilink")[マオ](https://ja.wikipedia.org/wiki/マオ_\(シド\) "wikilink")、[flumpool](https://ja.wikipedia.org/wiki/flumpool "wikilink")の[山村隆太](https://ja.wikipedia.org/wiki/山村隆太 "wikilink")、元[JELLY→](https://ja.wikipedia.org/wiki/JELLY→ "wikilink")で現在はLAID BACK OCEANで活動しているヤフミ、[10-FEET](https://ja.wikipedia.org/wiki/10-FEET "wikilink")、[マキシマム ザ ホルモン](https://ja.wikipedia.org/wiki/マキシマム_ザ_ホルモン "wikilink")、[ROTTENGRAFFTY](https://ja.wikipedia.org/wiki/ROTTENGRAFFTY "wikilink")、[HOME MADE 家族の](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")[MICRO](https://ja.wikipedia.org/wiki/MICRO_\(ラッパー\) "wikilink")、[JOY](https://ja.wikipedia.org/wiki/JOY_\(ファッションモデル\) "wikilink")、[山崎裕太](https://ja.wikipedia.org/wiki/山崎裕太 "wikilink")、[IMALU](https://ja.wikipedia.org/wiki/IMALU "wikilink")、[綾野剛](https://ja.wikipedia.org/wiki/綾野剛 "wikilink")などと交友関係がある。特に西川とは同郷ということもあり、TAKUYA∞に限らずUVERworld全員が交流しており、西川主催の[イナズマロックフェス](https://ja.wikipedia.org/wiki/イナズマロックフェス "wikilink")にも度々出演している。ヤフミとは家族ぐるみでの交流があり、本人曰く「*心友*」だという。[プロ野球](https://ja.wikipedia.org/wiki/プロ野球 "wikilink")・[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")[投手](../Page/投手.md "wikilink")の[武田翔太](https://ja.wikipedia.org/wiki/武田翔太 "wikilink")とも親交があり、2015年は武田が先発登板した7月1日の対[埼玉西武ライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")戦（東京ドーム）をベースの信人と、9月17日のソフトバンクが[パシフィック・リーグ](https://ja.wikipedia.org/wiki/パシフィック・リーグ "wikilink")連覇を果たした対西武戦（[福岡ヤフオク\!ドーム](https://ja.wikipedia.org/wiki/福岡ヤフオク!ドーム "wikilink")）を観戦している\[13\]。
+  - 西川貴教、[ONE OK ROCKの](../Page/ONE_OK_ROCK.md "wikilink")[Taka](https://ja.wikipedia.org/wiki/森田貴寛 "wikilink")、[175R](../Page/175R.md "wikilink")の[SHOGO](../Page/SHOGO.md "wikilink")、[Aqua Timezの太志](https://ja.wikipedia.org/wiki/Aqua_Timez "wikilink")、[シドの](../Page/シド_\(バンド\).md "wikilink")[マオ](https://ja.wikipedia.org/wiki/マオ_\(シド\) "wikilink")、[flumpool](https://ja.wikipedia.org/wiki/flumpool "wikilink")の[山村隆太](https://ja.wikipedia.org/wiki/山村隆太 "wikilink")、元[JELLY→](https://ja.wikipedia.org/wiki/JELLY→ "wikilink")で現在はLAID BACK OCEANで活動しているヤフミ、[10-FEET](../Page/10-FEET.md "wikilink")、[マキシマム ザ ホルモン](https://ja.wikipedia.org/wiki/マキシマム_ザ_ホルモン "wikilink")、[ROTTENGRAFFTY](../Page/ROTTENGRAFFTY.md "wikilink")、[HOME MADE 家族の](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")[MICRO](../Page/MICRO_\(ラッパー\).md "wikilink")、[JOY](https://ja.wikipedia.org/wiki/JOY_\(ファッションモデル\) "wikilink")、[山崎裕太](../Page/山崎裕太.md "wikilink")、[IMALU](https://ja.wikipedia.org/wiki/IMALU "wikilink")、[綾野剛](../Page/綾野剛.md "wikilink")などと交友関係がある。特に西川とは同郷ということもあり、TAKUYA∞に限らずUVERworld全員が交流しており、西川主催の[イナズマロックフェス](https://ja.wikipedia.org/wiki/イナズマロックフェス "wikilink")にも度々出演している。ヤフミとは家族ぐるみでの交流があり、本人曰く「*心友*」だという。[プロ野球](../Page/プロ野球.md "wikilink")・[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")[投手](../Page/投手.md "wikilink")の[武田翔太](https://ja.wikipedia.org/wiki/武田翔太 "wikilink")とも親交があり、2015年は武田が先発登板した7月1日の対[埼玉西武ライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")戦（東京ドーム）をベースの信人と、9月17日のソフトバンクが[パシフィック・リーグ](https://ja.wikipedia.org/wiki/パシフィック・リーグ "wikilink")連覇を果たした対西武戦（[福岡ヤフオク\!ドーム](https://ja.wikipedia.org/wiki/福岡ヤフオク!ドーム "wikilink")）を観戦している\[13\]。
   - 2016年6月19日、オフィシャルサイトにて一般女性との入籍を発表した。\[14\]
 
 ### 克哉
@@ -301,15 +301,15 @@
 
   - 初期の頃より作曲も担当する。
   - 幼少時、克哉の通っていた保育園にTAKUYA∞が移ってきて、そこで出会っている。ただ、その頃はあくまで面識があるだけであり、信人が居たこともあり特別仲が良いわけではなかった。
-  - 姉がギターをやっていた事がきっかけで、[音楽](../Page/音楽.md "wikilink")に興味を持つようになる。その他にも[キーボードやドラムなども姉の影響を受け](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink") 演奏するようになる。また、ボーカルを一時期担当していたこともある。
+  - 姉がギターをやっていた事がきっかけで、[音楽](../Page/音楽.md "wikilink")に興味を持つようになる。その他にも[キーボードやドラムなども姉の影響を受け](../Page/キーボード_\(楽器\).md "wikilink") 演奏するようになる。また、ボーカルを一時期担当していたこともある。
   - 克哉が通ってた中学では、他校に「ギターがメッチャ上手い奴がいる」とTAKUYA∞の事が噂になっていた。
   - 20歳の頃にTAKUYA∞に誘われ信人と一緒にバンドを結成。
-  - ギターは主にポール・リード・スミスのCustom 24や22、513やPaul's Guitar、[ディーンのHardtailを使う](https://ja.wikipedia.org/wiki/ディーン_\(楽器メーカー\) "wikilink")。近年はさらに[グレッチ](https://ja.wikipedia.org/wiki/グレッチ "wikilink")のホワイトファルコン、[フェンダーの](https://ja.wikipedia.org/wiki/フェンダー_\(楽器メーカー\) "wikilink")[ストラトキャスター](https://ja.wikipedia.org/wiki/ストラトキャスター "wikilink")も使用している。
+  - ギターは主にポール・リード・スミスのCustom 24や22、513やPaul's Guitar、[ディーンのHardtailを使う](https://ja.wikipedia.org/wiki/ディーン_\(楽器メーカー\) "wikilink")。近年はさらに[グレッチ](../Page/グレッチ.md "wikilink")のホワイトファルコン、[フェンダーの](../Page/フェンダー_\(楽器メーカー\).md "wikilink")[ストラトキャスター](https://ja.wikipedia.org/wiki/ストラトキャスター "wikilink")も使用している。
   - 料理が得意。ファンクラブ限定で自身が作った料理をファンにふるまう企画「リストランテ克哉」を開催したり、スイーツ作りにはまっている。また同居生活時代は、克哉が料理担当であった。食事ができるまで、他は全員 部屋に篭って個人の時間を楽しんでいるため、料理が完成したら克哉が全員を呼びに行く。たまに『これ俺食べられん』と言われて困ることがあった。その時はその都度食事を一から希望通りに作り直していた。
   - メンバー曰く、相当酒癖が悪いといわれる。メンバー5人を数時間説教し、信人だけは更に半日以上説教したことがある。
   - ライブなどでメガネを着用する事があるが、最近はあまり着用しなくなっている。
   - UVERworldのリーダーが克哉である理由は、RYOHEIが結婚を機にバンドを辞めたとき、TAKUYA∞は、「あ〜このままこのバンドも終わってしまうんだろうな〜、」と思っていたところ、克哉が「TAKUYA∞\!お前が1人でボーカルをやれ\!このバンドは終わらさへんぞ\!」と言う克哉の一言でUVERworldは立て直し、今の快進撃に至って居ることからリーダーになった。また、TAKUYA∞は「全体が把握できる人は中々居ないけど、克哉は本当にそれが上手くて、バランスを取ることも出来る。リーダーがもし自分のままだったら今のUVERworldはきっと無かった。」と語っている。
-  - 影響を受けた[ギタリスト](../Page/ギタリスト.md "wikilink")に[布袋寅泰](../Page/布袋寅泰.md "wikilink")を挙げている（[CDでーた](https://ja.wikipedia.org/wiki/CDでーた "wikilink") 2010年12月号より）。最初に手にしたギターも友人から貰った[フェルナンデスの布袋モデルである](https://ja.wikipedia.org/wiki/フェルナンデス_\(楽器メーカー\) "wikilink")。
+  - 影響を受けた[ギタリスト](../Page/ギタリスト.md "wikilink")に[布袋寅泰](../Page/布袋寅泰.md "wikilink")を挙げている（[CDでーた](https://ja.wikipedia.org/wiki/CDでーた "wikilink") 2010年12月号より）。最初に手にしたギターも友人から貰った[フェルナンデスの布袋モデルである](../Page/フェルナンデス_\(楽器メーカー\).md "wikilink")。
   - 2017年 4月16日、公式オフィシャルサイトにて、デビュー前から付き合っていた女性と結婚を発表。
   - UVERworldメンバーの中では唯一専門学校卒業である。
 
@@ -323,7 +323,7 @@
 
   - 中学校の文化祭で兄がベースを弾いているのを見たことがきっかけで音楽に興味を持った。
   - TAKUYA∞とは幼稚園からの幼馴染みで、小学4年まで同じクラスだった。そのため、信人の幼き日々のエピソードのほとんどは、ボーカルであるTAKUYA∞によって語られることが多い。
-  - 小学生時代には、休み時間にお菓子のたけのこの里の中身を全部出して机に並べ、「ほらたくや！！！見てみ、たけのこの里や！！」と自慢したり、身体測定の日に「たくや、どうしよう....俺今日これしか履くものなかってん....」と語り 妹の[パンツ](https://ja.wikipedia.org/wiki/パンツ "wikilink")を履いたりと、奇想天外な行動を少年時代から行っていた。
+  - 小学生時代には、休み時間にお菓子のたけのこの里の中身を全部出して机に並べ、「ほらたくや！！！見てみ、たけのこの里や！！」と自慢したり、身体測定の日に「たくや、どうしよう....俺今日これしか履くものなかってん....」と語り 妹の[パンツ](../Page/パンツ.md "wikilink")を履いたりと、奇想天外な行動を少年時代から行っていた。
   - 中学在学中に自身の兄とTAKUYA∞の姉が組んだバンドに影響を受け、学園祭の有志発表に出るためTAKUYA∞とバンドを結成。
   - 自動車免許取得合宿で県外に出ている間に、TAKUYA∞が真太郎をスカウトし、信人だけ外されたまま、後のUVERworldである『SOUND極ROAD』が結成された。免許取得後、TAKUYA∞からライブの誘いを受け、腹を立てながらも最前列でライブを見た。その後、TAKUYA∞に頼み込みバンドの正式加入が決定。メンバーの中では一番物を壊すブレイカー。
   - 好物はエビだが、海鮮[アレルギー](../Page/アレルギー.md "wikilink")であるため、遠慮するようにしている。しかし最近はアレルギーを気にせず食べているらしい。
@@ -332,7 +332,7 @@
   - バンドメンバーに加入するまで大工のアルバイトをしており、その給料で楽器を購入していた。ノルマや機材を買うなどでお金が足りない場合は、使わなくなったベースを売って資金とした。また、自身のピアス穴は釘で開けた。
   - おふざけでソロ曲を歌ったり、メンバーにいじられることが多いことからUVERworldの中では「お笑い担当」である。NO.1やREVERSIのカップリング曲内では、お笑い担当としての力を発揮している。また、[小豆島](../Page/小豆島.md "wikilink")という字が読めず、『おまめじま や！』と読むなど 天然である。
   - 基本的に落ち着いた髪形だが、「」の追加公演中にはブレイズにもしていた。
-  - ベースは基本的にWarwickの「Streamer Stage I」を使用する。11thシングル「恋いしくて」ではFender Jazz Bassのヴィンテージベースを使用。なお曲によって4弦ベースと5弦ベースを使い分けており、奏法も[ピック奏法](https://ja.wikipedia.org/wiki/ピック奏法 "wikilink")、[スラップ奏法](https://ja.wikipedia.org/wiki/スラップ奏法 "wikilink")、[フィンガー・ピッキング](https://ja.wikipedia.org/wiki/フィンガー・ピッキング "wikilink")と様々な奏法を使い分けている。最近では  のオーダーメイドで、最低音のB（通常の5弦）からD（通常の2弦）までの4弦ベースを使用している。
+  - ベースは基本的にWarwickの「Streamer Stage I」を使用する。11thシングル「恋いしくて」ではFender Jazz Bassのヴィンテージベースを使用。なお曲によって4弦ベースと5弦ベースを使い分けており、奏法も[ピック奏法](../Page/ピック奏法.md "wikilink")、[スラップ奏法](../Page/スラップ奏法.md "wikilink")、[フィンガー・ピッキング](../Page/フィンガー・ピッキング.md "wikilink")と様々な奏法を使い分けている。最近では  のオーダーメイドで、最低音のB（通常の5弦）からD（通常の2弦）までの4弦ベースを使用している。
   - 影響を受けたアーティストに[X JAPAN](../Page/X_JAPAN.md "wikilink")・[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")・[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")を挙げ、[tetsuya](https://ja.wikipedia.org/wiki/tetsuya "wikilink")と「PATI-PATI」誌上で対談したことがある。
   - 2017年 9月26日、公式オフィシャルサイトにて、長年支えてくれていた女性と結婚を発表。
 
@@ -374,10 +374,10 @@
   - 共同生活時代の家事担当はゴミ捨てであり、他メンバーが分別をしないため、キレてゴミ箱を蹴ったことがある。
   - 単独や共作も含めて作曲を担当することも多く、TAKUYA∞と一緒に作曲をする事も少なくない。
   - インディーズ時代の目標は、2006年3月に閉店した大阪府のライブハウス・ベイサイドジェニーをソールドアウトにすることだった。
-  - 影響を受けたギタリストに（[Hi-STANDARD](https://ja.wikipedia.org/wiki/Hi-STANDARD "wikilink")）を挙げている（CDでーた 2010年12月号より）。彰自身も、 のトレードマークである「金髪」、「短パン」のスタイルにしていた時期があったという。
+  - 影響を受けたギタリストに（[Hi-STANDARD](../Page/Hi-STANDARD.md "wikilink")）を挙げている（CDでーた 2010年12月号より）。彰自身も、 のトレードマークである「金髪」、「短パン」のスタイルにしていた時期があったという。
   - ギターはポール・リード・スミスをメインとして「」などを使用し、他にもディーン社の「」や、「99/100騙しの哲」ではフェンダー社の「」を使用している。[アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")のパートも担当しているが、その時は借り物の「Gibson J-45」を使用していた（現在は自分で別のアコギがあるが、今も目的のJ-45を探している）。
   - 奏法は主に、ストレッチ奏法、フラジオレット、[マシンガン・ピッキング](https://ja.wikipedia.org/wiki/マシンガン・ピッキング "wikilink")、[カッティング](https://ja.wikipedia.org/wiki/カッティング "wikilink")である。
-  - アメリカのガールズ・ロック・シンガー、[BECCA](https://ja.wikipedia.org/wiki/BECCA "wikilink")のシングル「」（[MBS](../Page/毎日放送.md "wikilink")・[TBS系アニメ](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")『[黒執事](../Page/黒執事.md "wikilink")』エンディングテーマ）、デビューアルバム『』の収録曲「」「」のギターを担当した。
+  - アメリカのガールズ・ロック・シンガー、[BECCA](https://ja.wikipedia.org/wiki/BECCA "wikilink")のシングル「」（[MBS](../Page/毎日放送.md "wikilink")・[TBS系アニメ](../Page/TBSテレビ.md "wikilink")『[黒執事](../Page/黒執事.md "wikilink")』エンディングテーマ）、デビューアルバム『』の収録曲「」「」のギターを担当した。
   - インディーズの頃はベースを担当。
   - TAKUYA∞は、「メンバーの中で一番しっかりしてるのは実は彰だと思う」と述べている。
   - TAKUYA∞と同じくTVが苦手であり、出演時もまともに目を合わせることもあまり無い。メンバーから話を振られない限りは自発的に話すことはまず無い。
@@ -387,7 +387,7 @@
 
 ### 真太郎
 
-**真太郎**（しんたろう）。[ドラム](https://ja.wikipedia.org/wiki/ドラマー "wikilink")。既婚。星座は[さそり座](../Page/さそり座.md "wikilink")、血液型はO型。
+**真太郎**（しんたろう）。[ドラム](../Page/ドラマー.md "wikilink")。既婚。星座は[さそり座](../Page/さそり座.md "wikilink")、血液型はO型。
 
   - 人物
 
@@ -403,7 +403,7 @@
   - 同居生活時代において、 真太郎と信人が6畳の部屋で一緒に過ごしてた時、「いびきがうるさい！」と信人に怒られた。本人は「寝てるからわからない」と言って、改善の意思は見せなかった。
   - ライブでのMCやラジオ番組で下ネタ発言をするなど、自他共に認める変態キャラであるが、メンバーや昔からの知り合いからは「実はマジメ」と言われている。しかし本人はキャラを徹底しており否定している。
   - 「〜流れ・空虚・THIS WORD〜」、「AWAYOKUBA-斬る」での掛け声も担当している。（ライブでも同様）。
-  - 影響を受けたアーティストにHi-STANDARD、[中村達也](https://ja.wikipedia.org/wiki/中村達也_\(ドラマー\) "wikilink")([BLANKEY JET CITY](https://ja.wikipedia.org/wiki/BLANKEY_JET_CITY "wikilink")）を挙げている。
+  - 影響を受けたアーティストにHi-STANDARD、[中村達也](../Page/中村達也_\(ドラマー\).md "wikilink")([BLANKEY JET CITY](../Page/BLANKEY_JET_CITY.md "wikilink")）を挙げている。
   - 2017年2月12日、一般女性との入籍を発表\[16\]。
     <div class="NavFrame" style="clear:both;border:0;">
 
@@ -431,16 +431,16 @@
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p>2005年7月6日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/D-tecnoLife" title="wikilink">D-tecnoLife</a></strong></p></td>
+<td><p><strong><a href="../Page/D-tecnoLife.md" title="wikilink">D-tecnoLife</a></strong></p></td>
 <td><p>CD</p></td>
 <td><p>SRCL-5922</p></td>
 <td><p>4位</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Timeless_(UVERworldのアルバム)" title="wikilink">Timeless</a></p></td>
+<td><p><a href="../Page/Timeless_(UVERworldのアルバム).md" title="wikilink">Timeless</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
 <td><p>2005年10月26日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/CHANCE!_(UVERworldの曲)" title="wikilink">CHANCE!</a></strong></p></td>
+<td><p><strong><a href="../Page/CHANCE!_(UVERworldの曲).md" title="wikilink">CHANCE!</a></strong></p></td>
 <td><p>SRCL-5999</p></td>
 <td><p>5位</p></td>
 <td></td>
@@ -460,17 +460,17 @@ SRCL-6232（通常盤）</p></td>
 <tr class="even">
 <td><p>4th</p></td>
 <td><p>2006年5月17日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Colors_of_the_Heart" title="wikilink">Colors of the Heart</a></strong></p></td>
+<td><p><strong><a href="../Page/Colors_of_the_Heart.md" title="wikilink">Colors of the Heart</a></strong></p></td>
 <td><p>SRCL-6280〜6281（初回生産限定盤）<br />
 SRCL-6282（通常盤）</p></td>
 <td><p>3位</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BUGRIGHT" title="wikilink">BUGRIGHT</a></p></td>
+<td><p><a href="../Page/BUGRIGHT.md" title="wikilink">BUGRIGHT</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>5th</p></td>
 <td><p>2006年8月2日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/SHAMROCK_(曲)" title="wikilink">SHAMROCK</a></strong></p></td>
+<td><p><strong><a href="../Page/SHAMROCK_(曲).md" title="wikilink">SHAMROCK</a></strong></p></td>
 <td><p>SRCL-6384〜6385（初回生産限定盤）<br />
 SRCL-6386（通常盤）</p></td>
 <td><p>6位</p></td>
@@ -480,7 +480,7 @@ SRCL-6386（通常盤）</p></td>
 <tr class="even">
 <td><p>6th</p></td>
 <td><p>2006年11月15日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/君の好きなうた" title="wikilink">君の好きなうた</a></strong></p></td>
+<td><p><strong><a href="../Page/君の好きなうた.md" title="wikilink">君の好きなうた</a></strong></p></td>
 <td><p>SRCL-6441〜6442（初回生産限定盤）<br />
 SRCL-6443（通常盤）</p></td>
 <td><p>2位</p></td>
@@ -500,7 +500,7 @@ SRCL-6559（通常盤）</p></td>
 <tr class="even">
 <td><p>8th</p></td>
 <td><p>2007年8月8日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/シャカビーチ〜Laka_Laka_La〜" title="wikilink">シャカビーチ〜Laka Laka La〜</a></strong></p></td>
+<td><p><strong><a href="../Page/シャカビーチ〜Laka_Laka_La〜.md" title="wikilink">シャカビーチ〜Laka Laka La〜</a></strong></p></td>
 <td><p>SRCL-6621〜6622（初回生産限定盤）<br />
 SRCL-6623（通常盤）</p></td>
 <td><p>2位</p></td>
@@ -510,7 +510,7 @@ SRCL-6623（通常盤）</p></td>
 <tr class="odd">
 <td><p>9th</p></td>
 <td><p>2007年11月14日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/浮世CROSSING" title="wikilink">浮世CROSSING</a></strong></p></td>
+<td><p><strong><a href="../Page/浮世CROSSING.md" title="wikilink">浮世CROSSING</a></strong></p></td>
 <td><p>SRCL-6645〜6646（初回生産限定盤）<br />
 SRCL-6647（通常盤）</p></td>
 <td><p>3位</p></td>
@@ -530,7 +530,7 @@ SRCL-6794（通常盤）</p></td>
 <tr class="odd">
 <td><p>11th</p></td>
 <td><p>2008年9月10日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/恋いしくて" title="wikilink">恋いしくて</a></strong></p></td>
+<td><p><strong><a href="../Page/恋いしくて.md" title="wikilink">恋いしくて</a></strong></p></td>
 <td><p>SRCL-6838〜6839（初回生産限定盤）<br />
 SRCL-6840（通常盤）</p></td>
 <td></td>
@@ -792,7 +792,7 @@ SRCL-11306（期間生産限定盤）</p></td>
 <tr class="even">
 <td><p>36th</p></td>
 <td><p>2020年3月4日（予定）</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/AS_ONE_(UVERworldの曲)" title="wikilink">AS ONE</a></strong></p></td>
+<td><p><strong><a href="../Page/AS_ONE_(UVERworldの曲).md" title="wikilink">AS ONE</a></strong></p></td>
 <td><p>CD＋<a href="../Page/DVD.md" title="wikilink">DVD</a><br />
 CD</p></td>
 <td><p>SRCL-11447〜11448（初回生産限定盤）<br />
@@ -838,7 +838,7 @@ SRCL-11449（通常盤）</p></td>
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p>2006年2月15日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Timeless_(UVERworldのアルバム)" title="wikilink">Timeless</a></strong></p></td>
+<td><p><strong><a href="../Page/Timeless_(UVERworldのアルバム).md" title="wikilink">Timeless</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/CD" title="wikilink">CD</a></p></td>
 <td><p>SRCL-6240</p></td>
 <td><p>5位</p></td>
@@ -846,7 +846,7 @@ SRCL-11449（通常盤）</p></td>
 <tr class="even">
 <td><p>2nd</p></td>
 <td><p>2007年2月21日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/BUGRIGHT" title="wikilink">BUGRIGHT</a></strong></p></td>
+<td><p><strong><a href="../Page/BUGRIGHT.md" title="wikilink">BUGRIGHT</a></strong></p></td>
 <td><p>CD+DVD<br />
 CD</p></td>
 <td><p>SRCL-6462〜6463（初回生産限定盤）<br />
@@ -1260,7 +1260,7 @@ SRXL-53〜54（通常盤Blu-ray）</p></td>
 <td><p>「<a href="https://www.youtube.com/watch?v=iv9FzgXAX5Y">BABY BORN &amp; GO/KINJITO</a>」 「<a href="https://www.youtube.com/watch?v=2uPzLcizRZ8">THE SONG</a>」 「<a href="https://www.youtube.com/watch?v=baJhnSJMZ98">7日目の決意 vol.02</a>」 「<a href="https://www.youtube.com/watch?v=quQ0USQgl2k">7日目の決意 vol.01</a>」 「<a href="https://m.youtube.com/watch?v=icpc0UVUZgM">PRAYING RUN</a>」</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/大喜多正毅" title="wikilink">大喜多正毅</a></p></td>
+<td><p><a href="../Page/大喜多正毅.md" title="wikilink">大喜多正毅</a></p></td>
 <td><p>「<a href="https://www.youtube.com/watch?v=WAvV0H5kY_o">CHANCE!</a>」 「<a href="https://www.youtube.com/watch?v=hC8v7N721c4">just Melody</a>」 「<a href="https://www.youtube.com/watch?v=ZIEQDjrAdwE">儚くも永久のカナシ</a>」 『<a href="https://www.youtube.com/watch?v=baZGH7TqBhA">LIVE at Avaco Studio</a>』 「<a href="https://www.youtube.com/watch?v=FAU7NyiqwQY">7th Trigger</a>」 「<a href="https://www.youtube.com/watch?v=VvCuJRKj32E">AWAYOKUBA-斬る</a>」 「<a href="https://www.youtube.com/watch?v=rF7WJmrLL-g">REVERSI</a>」 「<a href="https://www.youtube.com/watch?v=zsdAN_vjMIg">IMPACT</a>」「<a href="https://www.youtube.com/watch?v=MYaVtNmYfuU">誰が言った</a>」 「<a href="https://www.youtube.com/watch?v=zw5wH_Tr21U">僕の言葉ではない これは僕達の言葉</a>」 「<a href="https://m.youtube.com/watch?v=Pwht_zL3_go">I LOVE THE WORLD</a>」「<a href="https://m.youtube.com/watch?v=eDOG59BEcg0">WE ARE GO</a>」 「<a href="https://m.youtube.com/watch?v=nDaVvnbVIkw">DECIDED Short Ver.</a>」 「<a href="https://www.youtube.com/watch?v=0zLxFAlS29A">ODD FUTURE</a>」 「<a href="https://youtube.com/watch?v=FHDMSpwz4jw">Touch off Short Ver.</a>」 「<a href="https://youtube.com/watch?v=vG4aY5ocnlg">ROB THE FRONTIER</a>」 「AS ONE」</p></td>
 </tr>
 <tr class="even">
@@ -1272,7 +1272,7 @@ SRXL-53〜54（通常盤Blu-ray）</p></td>
 <td><p>「<a href="https://www.youtube.com/watch?v=IITjr6Ysh60">D-tecnoLife</a>」 「<a href="https://www.youtube.com/watch?v=9KpAtOAohV8">SHAMROCK</a>」 「<a href="https://www.youtube.com/watch?v=gErh5d3gpVk">Colors of the Heart</a>」 「<a href="https://www.youtube.com/watch?v=_F6iL239Sac">君の好きなうた</a>」 「<a href="https://www.youtube.com/watch?v=-RmW6tf2PSE">恋いしくて</a>」</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/久保茂昭" title="wikilink">久保茂昭</a></p></td>
+<td><p><a href="../Page/久保茂昭.md" title="wikilink">久保茂昭</a></p></td>
 <td><p>「<a href="https://www.youtube.com/watch?v=4Hh43kQ43uE">endscape</a>」 「<a href="https://www.youtube.com/watch?v=kk9djuXCmCY">シャカビーチ~Laka Laka La~</a>」</p></td>
 </tr>
 <tr class="odd">
@@ -1320,7 +1320,7 @@ SRXL-53〜54（通常盤Blu-ray）</p></td>
 <tbody>
 <tr class="odd">
 <td><p>2010年3月10日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/宇頭巻" title="wikilink">UZUMAKI</a></p></td>
+<td><p><a href="../Page/宇頭巻.md" title="wikilink">UZUMAKI</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/DIO_NEW_SOURCE" title="wikilink">DIO NEW SOURCE</a></p></td>
 <td><p>12cmCD</p></td>
 <td><p>NFCD-27247</p></td>
@@ -1381,7 +1381,7 @@ SVWC-7481<br />
 </tr>
 <tr class="even">
 <td><p>2006年12月20日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/The_songs_for_DEATH_NOTE_the_movie_〜the_Last_name_TRIBUTE〜" title="wikilink">The songs for DEATH NOTE the movie<br />
+<td><p><a href="../Page/The_songs_for_DEATH_NOTE_the_movie_〜the_Last_name_TRIBUTE〜.md" title="wikilink">The songs for DEATH NOTE the movie<br />
 〜the Last name TRIBUTE〜</a></p></td>
 <td><p>12cmCD</p></td>
 <td><p>SRCL-6459〜6460<br />
@@ -1607,20 +1607,20 @@ UVERworldの**SOUND極ROAD**時代のデモCD。発売年は2003年である\[17
 <td><p>◆<a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>系連続テレビアニメ『<a href="https://ja.wikipedia.org/wiki/BLEACH_(アニメ)" title="wikilink">BLEACH</a>』第2期OPテーマ<br />
 ◆<a href="https://ja.wikipedia.org/wiki/PlayStation_2" title="wikilink">PS2用ゲームソフト</a>『BLEACH 選ばれし魂』主題歌<br />
 ◆PS2用ゲームソフト『BLEACH 選ばれし魂』CMソング<br />
-◆<a href="https://ja.wikipedia.org/wiki/ゲームボーイアドバンス" title="wikilink">GBA用ゲームソフト</a>『<a href="https://ja.wikipedia.org/wiki/BLEACH_アドバンス_紅に染まる尸魂界" title="wikilink">BLEACH アドバンス 紅に染まる尸魂界</a>』主題歌<br />
+◆<a href="../Page/ゲームボーイアドバンス.md" title="wikilink">GBA用ゲームソフト</a>『<a href="https://ja.wikipedia.org/wiki/BLEACH_アドバンス_紅に染まる尸魂界" title="wikilink">BLEACH アドバンス 紅に染まる尸魂界</a>』主題歌<br />
 ◆GBA用ゲームソフト『BLEACH アドバンス 紅に染まる尸魂界』CMソング</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/D-tecnoLife" title="wikilink">D-tecnoLife</a>」<br />
-『<a href="https://ja.wikipedia.org/wiki/Timeless_(UVERworldのアルバム)" title="wikilink">Timeless</a>』<br />
+<td><p>「<a href="../Page/D-tecnoLife.md" title="wikilink">D-tecnoLife</a>」<br />
+『<a href="../Page/Timeless_(UVERworldのアルバム).md" title="wikilink">Timeless</a>』<br />
 『<a href="https://ja.wikipedia.org/wiki/Neo_SOUND_BEST" title="wikilink">Neo SOUND BEST</a>』<br />
 </p></td>
 </tr>
 <tr class="even">
 <td><p><strong>CHANCE!</strong></p></td>
-<td><p>◆<a href="https://ja.wikipedia.org/wiki/PlayStation_Portable" title="wikilink">PSP用ゲームソフト</a>『BLEACH ヒート・ザ・ソウル2』主題歌<br />
+<td><p>◆<a href="../Page/PlayStation_Portable.md" title="wikilink">PSP用ゲームソフト</a>『BLEACH ヒート・ザ・ソウル2』主題歌<br />
 ◆PSP用ゲームソフト『BLEACH ヒート・ザ・ソウル2』CMソング<br />
-◆<a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ系連続テレビドラマ</a>『<a href="https://ja.wikipedia.org/wiki/ダンドリ娘" title="wikilink">ダンドリ娘</a>』エンディングテーマ</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/CHANCE!_(UVERworldの曲)" title="wikilink">CHANCE!</a>」<br />
-『<a href="https://ja.wikipedia.org/wiki/Timeless_(UVERworldのアルバム)" title="wikilink">Timeless</a>』<br />
+◆<a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ系連続テレビドラマ</a>『<a href="../Page/ダンドリ娘.md" title="wikilink">ダンドリ娘</a>』エンディングテーマ</p></td>
+<td><p>「<a href="../Page/CHANCE!_(UVERworldの曲).md" title="wikilink">CHANCE!</a>」<br />
+『<a href="../Page/Timeless_(UVERworldのアルバム).md" title="wikilink">Timeless</a>』<br />
 『<a href="https://ja.wikipedia.org/wiki/Neo_SOUND_BEST" title="wikilink">Neo SOUND BEST</a>』<br />
 『<a href="https://ja.wikipedia.org/wiki/ALL_TIME_BEST_(UVERworldのアルバム)" title="wikilink">ALL TIME BEST</a>』</p></td>
 <td></td>
@@ -1628,18 +1628,18 @@ UVERworldの**SOUND極ROAD**時代のデモCD。発売年は2003年である\[17
 <tr class="odd">
 <td><p>2006年</p></td>
 <td><p><strong>Colors of the Heart</strong></p></td>
-<td><p>◆<a href="https://ja.wikipedia.org/wiki/MBSテレビ" title="wikilink">MBS</a>・TBS系連続テレビアニメ『<a href="https://ja.wikipedia.org/wiki/BLOOD+" title="wikilink">BLOOD+</a>』第3期OPテーマ</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/Colors_of_the_Heart" title="wikilink">Colors of the Heart</a>」<br />
-『<a href="https://ja.wikipedia.org/wiki/BUGRIGHT" title="wikilink">BUGRIGHT</a>』<br />
+<td><p>◆<a href="https://ja.wikipedia.org/wiki/MBSテレビ" title="wikilink">MBS</a>・TBS系連続テレビアニメ『<a href="../Page/BLOOD+.md" title="wikilink">BLOOD+</a>』第3期OPテーマ</p></td>
+<td><p>「<a href="../Page/Colors_of_the_Heart.md" title="wikilink">Colors of the Heart</a>」<br />
+『<a href="../Page/BUGRIGHT.md" title="wikilink">BUGRIGHT</a>』<br />
 『<a href="https://ja.wikipedia.org/wiki/ALL_TIME_BEST_(UVERworldのアルバム)" title="wikilink">ALL TIME BEST</a>』</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>SHAMROCK</strong></p></td>
-<td><p>◆フジテレビ系連続テレビドラマ『<a href="https://ja.wikipedia.org/wiki/ダンドリ。〜Dance☆Drill〜" title="wikilink">ダンドリ。〜Dance☆Drill〜</a>』主題歌<br />
+<td><p>◆フジテレビ系連続テレビドラマ『<a href="../Page/ダンドリ。〜Dance☆Drill〜.md" title="wikilink">ダンドリ。〜Dance☆Drill〜</a>』主題歌<br />
 ◆フジテレビ系連続テレビドラマ『ダンドリ娘』主題歌<br />
 ◆音楽配信サービスサイト『<a href="https://ja.wikipedia.org/wiki/music.jp" title="wikilink">music.jp</a>』CMソング</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/SHAMROCK_(曲)" title="wikilink">SHAMROCK</a>」<br />
-『<a href="https://ja.wikipedia.org/wiki/BUGRIGHT" title="wikilink">BUGRIGHT</a>』<br />
+<td><p>「<a href="../Page/SHAMROCK_(曲).md" title="wikilink">SHAMROCK</a>」<br />
+『<a href="../Page/BUGRIGHT.md" title="wikilink">BUGRIGHT</a>』<br />
 『<a href="https://ja.wikipedia.org/wiki/Neo_SOUND_BEST" title="wikilink">Neo SOUND BEST</a>』<br />
 『<a href="https://ja.wikipedia.org/wiki/ALL_TIME_BEST_(UVERworldのアルバム)" title="wikilink">ALL TIME BEST</a>』</p></td>
 <td></td>
@@ -1647,8 +1647,8 @@ UVERworldの**SOUND極ROAD**時代のデモCD。発売年は2003年である\[17
 <tr class="odd">
 <td><p><strong>君の好きなうた</strong></p></td>
 <td><p>◆TBS系連続バラエティテレビ番組『<a href="../Page/恋するハニカミ!.md" title="wikilink">恋するハニカミ!</a>』第17期テーマソング</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/君の好きなうた" title="wikilink">君の好きなうた</a>」<br />
-『<a href="https://ja.wikipedia.org/wiki/BUGRIGHT" title="wikilink">BUGRIGHT</a>』<br />
+<td><p>「<a href="../Page/君の好きなうた.md" title="wikilink">君の好きなうた</a>」<br />
+『<a href="../Page/BUGRIGHT.md" title="wikilink">BUGRIGHT</a>』<br />
 『<a href="https://ja.wikipedia.org/wiki/Neo_SOUND_BEST" title="wikilink">Neo SOUND BEST</a>』<br />
 『<a href="https://ja.wikipedia.org/wiki/ALL_TIME_BEST_(UVERworldのアルバム)" title="wikilink">ALL TIME BEST</a>』</p></td>
 <td></td>
@@ -1656,8 +1656,8 @@ UVERworldの**SOUND極ROAD**時代のデモCD。発売年は2003年である\[17
 <tr class="even">
 <td><p>2007年</p></td>
 <td><p><strong>ゼロの答</strong></p></td>
-<td><p>◆PS2用ゲームソフト『<a href="https://ja.wikipedia.org/wiki/無双OROCHI" title="wikilink">無双OROCHI</a>』CMソング</p></td>
-<td><p>『<a href="https://ja.wikipedia.org/wiki/BUGRIGHT" title="wikilink">BUGRIGHT</a>』<br />
+<td><p>◆PS2用ゲームソフト『<a href="../Page/無双OROCHI.md" title="wikilink">無双OROCHI</a>』CMソング</p></td>
+<td><p>『<a href="../Page/BUGRIGHT.md" title="wikilink">BUGRIGHT</a>』<br />
 『<a href="https://ja.wikipedia.org/wiki/Neo_SOUND_BEST" title="wikilink">Neo SOUND BEST</a>』</p></td>
 </tr>
 <tr class="odd">
@@ -1669,8 +1669,8 @@ UVERworldの**SOUND極ROAD**時代のデモCD。発売年は2003年である\[17
 </tr>
 <tr class="even">
 <td><p><strong>浮世CROSSING</strong></p></td>
-<td><p>◆日本テレビ系連続テレビドラマ『<a href="https://ja.wikipedia.org/wiki/働きマン" title="wikilink">働きマン</a>』主題歌</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/浮世CROSSING" title="wikilink">浮世CROSSING</a>」<br />
+<td><p>◆日本テレビ系連続テレビドラマ『<a href="../Page/働きマン.md" title="wikilink">働きマン</a>』主題歌</p></td>
+<td><p>「<a href="../Page/浮世CROSSING.md" title="wikilink">浮世CROSSING</a>」<br />
 『<a href="https://ja.wikipedia.org/wiki/PROGLUTION" title="wikilink">PROGLUTION</a>』<br />
 『<a href="https://ja.wikipedia.org/wiki/Neo_SOUND_BEST" title="wikilink">Neo SOUND BEST</a>』</p></td>
 <td></td>
@@ -1678,7 +1678,7 @@ UVERworldの**SOUND極ROAD**時代のデモCD。発売年は2003年である\[17
 <tr class="odd">
 <td><p>2008年</p></td>
 <td><p><strong>激動</strong></p></td>
-<td><p>◆テレビ東京系連続テレビアニメ『<a href="https://ja.wikipedia.org/wiki/D.Gray-man" title="wikilink">D.Gray-man</a>』第4期OPテーマ</p></td>
+<td><p>◆テレビ東京系連続テレビアニメ『<a href="../Page/D.Gray-man.md" title="wikilink">D.Gray-man</a>』第4期OPテーマ</p></td>
 <td><p>「<a href="https://ja.wikipedia.org/wiki/激動/Just_break_the_limit!" title="wikilink">激動/Just break the limit!</a>」<br />
 『<a href="https://ja.wikipedia.org/wiki/AwakEVE" title="wikilink">AwakEVE</a>』<br />
 『<a href="https://ja.wikipedia.org/wiki/Neo_SOUND_BEST" title="wikilink">Neo SOUND BEST</a>』<br />
@@ -1686,7 +1686,7 @@ UVERworldの**SOUND極ROAD**時代のデモCD。発売年は2003年である\[17
 </tr>
 <tr class="even">
 <td><p><strong>Just break the limit!</strong></p></td>
-<td><p>◆<a href="../Page/大塚製薬.md" title="wikilink">大塚製薬</a><a href="https://ja.wikipedia.org/wiki/ポカリスエット" title="wikilink">ポカリスエット</a>単独提供ミニドラマ『<a href="https://ja.wikipedia.org/wiki/ブカツの天使" title="wikilink">ブカツの天使</a>』主題歌（中部・南東北）<br />
+<td><p>◆<a href="../Page/大塚製薬.md" title="wikilink">大塚製薬</a><a href="../Page/ポカリスエット.md" title="wikilink">ポカリスエット</a>単独提供ミニドラマ『<a href="https://ja.wikipedia.org/wiki/ブカツの天使" title="wikilink">ブカツの天使</a>』主題歌（中部・南東北）<br />
 ◆大塚製薬ポカリスエットCMソング（中部・南東北）</p></td>
 <td><p>「<a href="https://ja.wikipedia.org/wiki/激動/Just_break_the_limit!" title="wikilink">激動/Just break the limit!</a>」<br />
 『<a href="https://ja.wikipedia.org/wiki/AwakEVE" title="wikilink">AwakEVE</a>』</p></td>
@@ -1799,7 +1799,7 @@ UVERworldの**SOUND極ROAD**時代のデモCD。発売年は2003年である\[17
 <tr class="odd">
 <td><p>2015年</p></td>
 <td><p><strong>Collide</strong></p></td>
-<td><p>◆映画『<a href="https://ja.wikipedia.org/wiki/新宿スワン" title="wikilink">新宿スワン</a>』挿入歌</p></td>
+<td><p>◆映画『<a href="../Page/新宿スワン.md" title="wikilink">新宿スワン</a>』挿入歌</p></td>
 <td><p>「<a href="https://ja.wikipedia.org/wiki/僕の言葉ではない_これは僕達の言葉" title="wikilink">僕の言葉ではない これは僕達の言葉</a>」<br />
 『<a href="https://ja.wikipedia.org/wiki/TYCOON" title="wikilink">TYCOON</a>』</p></td>
 </tr>
@@ -1882,7 +1882,7 @@ UVERworldの**SOUND極ROAD**時代のデモCD。発売年は2003年である\[17
 <tr class="odd">
 <td><p>2019年</p></td>
 <td><p><strong>Touch off</strong></p></td>
-<td><p>◆<a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ系</a><a href="https://ja.wikipedia.org/wiki/ノイタミナ" title="wikilink">ノイタミナ</a>枠アニメ『<a href="https://ja.wikipedia.org/wiki/約束のネバーランド" title="wikilink">約束のネバーランド</a>』オープニングテーマ</p></td>
+<td><p>◆<a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ系</a><a href="../Page/ノイタミナ.md" title="wikilink">ノイタミナ</a>枠アニメ『<a href="https://ja.wikipedia.org/wiki/約束のネバーランド" title="wikilink">約束のネバーランド</a>』オープニングテーマ</p></td>
 <td><p>｢<a href="https://ja.wikipedia.org/wiki/Touch_off" title="wikilink">Touch off</a>｣<br />
 『<a href="https://ja.wikipedia.org/wiki/UNSER_(UVERworldのアルバム)" title="wikilink">UNSER</a>』</p></td>
 </tr>
@@ -1913,7 +1913,7 @@ UVERworldの**SOUND極ROAD**時代のデモCD。発売年は2003年である\[17
 ### ラジオ
 
   - [UVER家のラジオ](https://ja.wikipedia.org/wiki/UVERworldのcore_ability_studioに再び集合! "wikilink") <small>（2006年10月 - 12月）</small>
-  - [RADIO SESSIONS](https://ja.wikipedia.org/wiki/RADIO_SESSIONS "wikilink") <small>（2007年5月 - 2008年4月 - 2009年3月）</small>
+  - [RADIO SESSIONS](../Page/RADIO_SESSIONS.md "wikilink") <small>（2007年5月 - 2008年4月 - 2009年3月）</small>
   - UVERworldのcore ability studioに再び集合\! <small>（2010年4月 - 2018年3月）</small>
 
 ## 書籍
@@ -1923,7 +1923,7 @@ UVERworldの**SOUND極ROAD**時代のデモCD。発売年は2003年である\[17
 |     | 発売日        | タイトル                              | 出版社                                                           | [図書コード](https://ja.wikipedia.org/wiki/ISBN "wikilink") |
 | --- | ---------- | --------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------ |
 | 1st | 2007年2月20日 | CLASSWORD                         | [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")                  | ISBN 9784789730303                                     |
-| 2nd | 2008年3月10日 | GUN-PROGLUTION                    | [@ぴあ](https://ja.wikipedia.org/wiki/ぴあ "wikilink")            | ISBN 9784835616865                                     |
+| 2nd | 2008年3月10日 | GUN-PROGLUTION                    | [@ぴあ](../Page/ぴあ.md "wikilink")                               | ISBN 9784835616865                                     |
 | 3rd | 2011年9月28日 | COREstory,COREability,COREhistory | [ソニーマガジンズ](https://ja.wikipedia.org/wiki/ソニーマガジンズ "wikilink") | ISBN 9784789734905                                     |
 
 **ドキュメントブック**
@@ -1964,7 +1964,7 @@ SHAMROCK</p></td>
 <tr class="odd">
 <td><p>2006年12月20日</p></td>
 <td><p>BAND SCORE UVERworld Timeless</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シンコーミュージック・エンタテイメント" title="wikilink">SHINKO MUSIC ENTERTAINMENT CO.,LTD.</a></p></td>
+<td><p><a href="../Page/シンコーミュージック・エンタテイメント.md" title="wikilink">SHINKO MUSIC ENTERTAINMENT CO.,LTD.</a></p></td>
 <td><p>ISBN 9784401353200</p></td>
 </tr>
 <tr class="even">
@@ -1999,7 +1999,7 @@ endscape</p></td>
 <td><p>2010年1月25日</p></td>
 <td><p>PIANO SOLO<br />
 UVERworld ベスト・セレクション</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヤマハミュージックメディア" title="wikilink">yamaha music media</a></p></td>
+<td><p><a href="../Page/ヤマハミュージックメディア.md" title="wikilink">yamaha music media</a></p></td>
 <td><p>ISBN 9784636852097</p></td>
 </tr>
 <tr class="odd">
@@ -3005,7 +3005,7 @@ GOLD</p></td>
 <td><p>2月11日</p></td>
 <td><p><strong>UVERworld KING'S PARADE 2017</strong></p></td>
 <td><p>さいたまスーパーアリーナ</p></td>
-<td><p>男性限定公演。当時のUVERworld史上最大規模で行われる<a href="https://ja.wikipedia.org/wiki/男祭り_(UVERworldのコンサート)" title="wikilink">男祭り</a>。</p></td>
+<td><p>男性限定公演。当時のUVERworld史上最大規模で行われる<a href="../Page/男祭り_(UVERworldのコンサート).md" title="wikilink">男祭り</a>。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -3711,7 +3711,7 @@ ver. MUSIC MATCH!UVERworld×シド</p></td>
 <tr class="odd">
 <td><p>2009年</p></td>
 <td><p>1月24日-1月25日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オンタマ" title="wikilink">オンタマ</a>カーニバル2009 (1)</p></td>
+<td><p><a href="../Page/オンタマ.md" title="wikilink">オンタマ</a>カーニバル2009 (1)</p></td>
 <td><p>横浜アリーナ</p></td>
 <td><p>出演は1月24日のみ</p></td>
 </tr>
@@ -3948,7 +3948,7 @@ Presented by シミズオクト</a>2016</p></td>
 </tr>
 <tr class="odd">
 <td><p>12月28日 - 12月31日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/COUNTDOWN_JAPAN" title="wikilink">rockin'on presents COUNTDOWN JAPAN 16/17</a>[25]</p></td>
+<td><p><a href="../Page/COUNTDOWN_JAPAN.md" title="wikilink">rockin'on presents COUNTDOWN JAPAN 16/17</a>[25]</p></td>
 <td><p>幕張メッセ</p></td>
 <td><p>出演は12月31日のみ。</p></td>
 <td></td>
@@ -3983,14 +3983,14 @@ Presented by シミズオクト</a>2016</p></td>
 </tr>
 <tr class="even">
 <td><p>8月11日 - 8月12日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ライジング・サン・ロックフェスティバル" title="wikilink">RISING SUN ROCK FESTIVAL 2017 in EZO</a></p></td>
+<td><p><a href="../Page/ライジング・サン・ロックフェスティバル.md" title="wikilink">RISING SUN ROCK FESTIVAL 2017 in EZO</a></p></td>
 <td><p>石狩湾新港樽川ふ頭横野外特設ステージ</p></td>
 <td><p>出演は8月11日のみ。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>8月19日 - 8月20日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サマーソニック" title="wikilink">SUMMER SONIC 2017</a></p></td>
+<td><p><a href="../Page/サマーソニック.md" title="wikilink">SUMMER SONIC 2017</a></p></td>
 <td><p>ZOZO マリンスタジアム &amp; 幕張メッセ（千葉）<br />
 舞洲SONIC PARK（大阪）</p></td>
 <td><p>19日は千葉、20日は大阪に出演。</p></td>
@@ -4318,7 +4318,7 @@ Presented by シミズオクト</a>2016</p></td>
 2.
 3.
 4.  「Pati-Pati」 2007年7月号より
-5.  「[JUNON](https://ja.wikipedia.org/wiki/JUNON "wikilink")」2011年5月号、「SOUND DESIGNER」2011年7月号より。
+5.  「[JUNON](../Page/JUNON.md "wikilink")」2011年5月号、「SOUND DESIGNER」2011年7月号より。
 6.  [THE MUSIC DAY 願いが叶う夏｜日本テレビ](http://www.ntv.co.jp/musicday/artist/)
 7.  [次回「Mステ」に7年ぶりUVERworld、NMB48、BREAKERZ、JUMPら](https://headlines.yahoo.co.jp/hl?a=20170721-00000128-natalien-musi)
 8.

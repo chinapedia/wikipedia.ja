@@ -5,13 +5,13 @@
 
 ## 概要
 
-[マーシャルアーツ](https://ja.wikipedia.org/wiki/マーシャルアーツ "wikilink")のチャンピオンだった主人公の地球司令部国防軍のエージェント、キャプテン・ブレイク・ハンターが、何者かにさらわれた。気づくと主人公は異世界に立っており、襲いかかる敵を倒しながら脱出を試みる。
+[マーシャルアーツ](../Page/マーシャルアーツ.md "wikilink")のチャンピオンだった主人公の地球司令部国防軍のエージェント、キャプテン・ブレイク・ハンターが、何者かにさらわれた。気づくと主人公は異世界に立っており、襲いかかる敵を倒しながら脱出を試みる。
 
-ゲームの開発は、[バイオハザードの様な多彩なカメラワーク視点のアドベンチャーゲーム的要素に](../Page/バイオハザード_\(ゲーム\).md "wikilink")、[鉄拳2](https://ja.wikipedia.org/wiki/鉄拳2 "wikilink")の様な格闘ゲームの要素を合わせ持ったゲームを作ったら、もしかしたら面白くなるのでは？と、配信元の[パブリッシャー](https://ja.wikipedia.org/wiki/パブリッシャー "wikilink")の[エレクトロニック・アーツ](https://ja.wikipedia.org/wiki/エレクトロニック・アーツ "wikilink")によって広告され、難しかったが、ASC GamesリリースでGray Matter Interactiveの開発者らによりこのゲームの開発がされ、Perfect Weaponのゲームが作られた。バイオハザードや鉄拳などの人気ゲームの要素を合わせたゲームを作ったら面白くなるのでは、と言うコンセプトで作られたゲームであったものの、操作性の悪さなど含めてうまく融合しておらず、評価はいまいちであまり良くなかった。因みにこのゲームの開発元のGray Matter Interactiveは、このゲームと似たような多彩なカメラワーク視点に格闘ゲーム的要素を合わせたシステム路線で、[アクレイム社から発売の](https://ja.wikipedia.org/wiki/アクレイム・エンタテインメント "wikilink")[The Crow: City of Angels](https://ja.wikipedia.org/wiki/:en:The_Crow:_City_of_Angels_\(video_game\) "wikilink")（ザ・クロウ、日本でもプレイステーション、[セガサターン](../Page/セガサターン.md "wikilink")にて発売されている）と言うアクションゲームも開発している。
+ゲームの開発は、[バイオハザードの様な多彩なカメラワーク視点のアドベンチャーゲーム的要素に](../Page/バイオハザード_\(ゲーム\).md "wikilink")、[鉄拳2](../Page/鉄拳2.md "wikilink")の様な格闘ゲームの要素を合わせ持ったゲームを作ったら、もしかしたら面白くなるのでは？と、配信元の[パブリッシャー](https://ja.wikipedia.org/wiki/パブリッシャー "wikilink")の[エレクトロニック・アーツ](../Page/エレクトロニック・アーツ.md "wikilink")によって広告され、難しかったが、ASC GamesリリースでGray Matter Interactiveの開発者らによりこのゲームの開発がされ、Perfect Weaponのゲームが作られた。バイオハザードや鉄拳などの人気ゲームの要素を合わせたゲームを作ったら面白くなるのでは、と言うコンセプトで作られたゲームであったものの、操作性の悪さなど含めてうまく融合しておらず、評価はいまいちであまり良くなかった。因みにこのゲームの開発元のGray Matter Interactiveは、このゲームと似たような多彩なカメラワーク視点に格闘ゲーム的要素を合わせたシステム路線で、[アクレイム社から発売の](https://ja.wikipedia.org/wiki/アクレイム・エンタテインメント "wikilink")[The Crow: City of Angels](https://ja.wikipedia.org/wiki/:en:The_Crow:_City_of_Angels_\(video_game\) "wikilink")（ザ・クロウ、日本でもプレイステーション、[セガサターン](../Page/セガサターン.md "wikilink")にて発売されている）と言うアクションゲームも開発している。
 
 またASC Gamesがリリースして続編の*Perfect Weapon 2*（元は*Final Weapon*とも呼ばれた）の開発もする予定だったが、結局キャンセルされ開発されなかった。
 
-バイオハザードの様な多彩なカメラワークのアドベンチャーゲームや鉄拳の様な格闘ゲームのシステムの他に、[ダブルドラゴン](https://ja.wikipedia.org/wiki/ダブルドラゴン "wikilink")や[ファイナルファイト](https://ja.wikipedia.org/wiki/ファイナルファイト "wikilink")の様な[ベルトスクロールアクションゲーム](https://ja.wikipedia.org/wiki/ベルトスクロールアクションゲーム "wikilink")の影響を受けていると思われる。また[Fighting Force](https://ja.wikipedia.org/wiki/:en:Fighting_Force "wikilink")（[メタルフィスト](https://ja.wikipedia.org/wiki/メタルフィスト "wikilink")）はある程度、このゲームの影響を受けているところがあると思われる。
+バイオハザードの様な多彩なカメラワークのアドベンチャーゲームや鉄拳の様な格闘ゲームのシステムの他に、[ダブルドラゴン](https://ja.wikipedia.org/wiki/ダブルドラゴン "wikilink")や[ファイナルファイト](../Page/ファイナルファイト.md "wikilink")の様な[ベルトスクロールアクションゲーム](../Page/ベルトスクロールアクションゲーム.md "wikilink")の影響を受けていると思われる。また[Fighting Force](https://ja.wikipedia.org/wiki/:en:Fighting_Force "wikilink")（[メタルフィスト](https://ja.wikipedia.org/wiki/メタルフィスト "wikilink")）はある程度、このゲームの影響を受けているところがあると思われる。
 
 ## ゲームシステムと問題点
 

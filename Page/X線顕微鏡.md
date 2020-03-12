@@ -5,7 +5,7 @@
 
 ## 概要
 
-[可視光](https://ja.wikipedia.org/wiki/可視光 "wikilink")に比べて波長の短いX線を使用するため、空間分解能が高い画像を得ることができる可能性があり、注目されている。観測法としては結像型・走査型が、観測手段によりX線吸収・位相変化・[蛍光X線](https://ja.wikipedia.org/wiki/蛍光X線 "wikilink")などの利用がある。強度の強い光源が必要となるため、主に[シンクロトロン放射光](https://ja.wikipedia.org/wiki/シンクロトロン放射光 "wikilink")を利用して発達している。用いられる[光学素子](https://ja.wikipedia.org/wiki/光学素子 "wikilink")として最も代表的なのは[ゾーンプレート](https://ja.wikipedia.org/wiki/ゾーンプレート "wikilink")である。現在の分解能は 15 nm が最高値である。
+[可視光](https://ja.wikipedia.org/wiki/可視光 "wikilink")に比べて波長の短いX線を使用するため、空間分解能が高い画像を得ることができる可能性があり、注目されている。観測法としては結像型・走査型が、観測手段によりX線吸収・位相変化・[蛍光X線](../Page/蛍光X線.md "wikilink")などの利用がある。強度の強い光源が必要となるため、主に[シンクロトロン放射光](https://ja.wikipedia.org/wiki/シンクロトロン放射光 "wikilink")を利用して発達している。用いられる[光学素子](https://ja.wikipedia.org/wiki/光学素子 "wikilink")として最も代表的なのは[ゾーンプレート](https://ja.wikipedia.org/wiki/ゾーンプレート "wikilink")である。現在の分解能は 15 nm が最高値である。
 
 ## 用途
 
@@ -25,7 +25,7 @@
 ## 関連項目
 
   - [電子顕微鏡](https://ja.wikipedia.org/wiki/電子顕微鏡 "wikilink")
-  - [X線回折](https://ja.wikipedia.org/wiki/X線回折 "wikilink")
+  - [X線回折](../Page/X線回折.md "wikilink")
   - [顕微鏡](../Page/顕微鏡.md "wikilink")
 
 [Category:顕微鏡](https://ja.wikipedia.org/wiki/Category:顕微鏡 "wikilink") [Category:X線](https://ja.wikipedia.org/wiki/Category:X線 "wikilink")

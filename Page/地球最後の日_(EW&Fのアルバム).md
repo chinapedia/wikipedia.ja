@@ -1,9 +1,9 @@
 > この記事は[ \(EW\&F\)](https://ja.wikipedia.org/wiki/_\(EW\&F\))から翻訳されています。
 
 
-『**地球最後の日**』（Last Days and Time）は、[アース・ウィンド・アンド・ファイアー](../Page/アース・ウィンド・アンド・ファイアー.md "wikilink")のスタジオ・アルバム。[ワーナーから](https://ja.wikipedia.org/wiki/ワーナー・ブラザース・レコード "wikilink")[コロムビアに移籍してからの第](https://ja.wikipedia.org/wiki/コロムビア・レコード "wikilink")1弾。
+『**地球最後の日**』（Last Days and Time）は、[アース・ウィンド・アンド・ファイアー](../Page/アース・ウィンド・アンド・ファイアー.md "wikilink")のスタジオ・アルバム。[ワーナーから](../Page/ワーナー・ブラザース・レコード.md "wikilink")[コロムビアに移籍してからの第](../Page/コロムビア・レコード.md "wikilink")1弾。
 
-初期のワーナー期より、体制を変えた時期であり、歌手に[フィリップ・ベイリー](../Page/フィリップ・ベイリー.md "wikilink")、ギタリストに[アル・マッケイ](https://ja.wikipedia.org/wiki/アル・マッケイ "wikilink")を迎えた、[ジャズ・ファンク](https://ja.wikipedia.org/wiki/ジャズ・ファンク "wikilink")の要素が強いアルバム。
+初期のワーナー期より、体制を変えた時期であり、歌手に[フィリップ・ベイリー](../Page/フィリップ・ベイリー.md "wikilink")、ギタリストに[アル・マッケイ](https://ja.wikipedia.org/wiki/アル・マッケイ "wikilink")を迎えた、[ジャズ・ファンク](../Page/ジャズ・ファンク.md "wikilink")の要素が強いアルバム。
 
 ジャケットの絵は[マティ・クラーワイン](https://ja.wikipedia.org/wiki/マティ・クラーワイン "wikilink")\[1\]。
 

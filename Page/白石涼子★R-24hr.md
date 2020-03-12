@@ -1,7 +1,7 @@
 > この記事は[R-24hr](https://ja.wikipedia.org/wiki/R-24hr)から翻訳されています。
 
 
-『**白石涼子★R-24hr**』（しらいしりょうこあーるにじゅうよん）は、[スターチャイルド](https://ja.wikipedia.org/wiki/スターチャイルド "wikilink")HPすたちゃまにあ内[スタチャインターネットラジオ](https://ja.wikipedia.org/wiki/スタチャインターネットラジオ "wikilink")で[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")10月から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月9日](../Page/3月9日.md "wikilink")まで配信されていた[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。2008年[3月3日](../Page/3月3日.md "wikilink")の第123回で更新終了。
+『**白石涼子★R-24hr**』（しらいしりょうこあーるにじゅうよん）は、[スターチャイルド](../Page/スターチャイルド.md "wikilink")HPすたちゃまにあ内[スタチャインターネットラジオ](https://ja.wikipedia.org/wiki/スタチャインターネットラジオ "wikilink")で[2005年](../Page/2005年.md "wikilink")10月から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月9日](../Page/3月9日.md "wikilink")まで配信されていた[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。2008年[3月3日](../Page/3月3日.md "wikilink")の第123回で更新終了。
 
 [キャッチフレーズ](https://ja.wikipedia.org/wiki/キャッチフレーズ "wikilink")は、「"R"涼子の楽しいおしゃべりが"24hr"24時間いつでも聞けちゃうインターネットラジオ配信〜★★」（番組HPより引用）。
 
@@ -10,7 +10,7 @@
 ## パーソナリティ
 
   - [白石涼子](https://ja.wikipedia.org/wiki/白石涼子 "wikilink")（各コーナーには、本人が演じる別の[キャラクター](../Page/キャラクター.md "wikilink")が登場する）
-  - [矢野了平](https://ja.wikipedia.org/wiki/矢野了平 "wikilink")（番組内での呼称は「りょうへいたん」で定着しつつある）
+  - [矢野了平](../Page/矢野了平.md "wikilink")（番組内での呼称は「りょうへいたん」で定着しつつある）
 
 ## 配信終了時にあったコーナー
 
@@ -42,10 +42,10 @@
 
   - **No.1ホスト涼の男の条件**
 
-白石涼子演じるNo.1[ホスト涼がリスナー](https://ja.wikipedia.org/wiki/ホストクラブ "wikilink")（基本的に男性のリスナー）を真の男性へと磨き上げていくコーナー。リスナーが送ってきたある行動がモテる男の行動であるか否かを「モテる」「モテない」という掛け声でジャッジする。
+白石涼子演じるNo.1[ホスト涼がリスナー](../Page/ホストクラブ.md "wikilink")（基本的に男性のリスナー）を真の男性へと磨き上げていくコーナー。リスナーが送ってきたある行動がモテる男の行動であるか否かを「モテる」「モテない」という掛け声でジャッジする。
 
   - **BG-R**
 
-リスナーが自身の「楽しかったこと」「嬉しかったこと」「切なかったこと」等の[エピソード](https://ja.wikipedia.org/wiki/エピソード "wikilink")とそれに合う[BGMを](https://ja.wikipedia.org/wiki/バックグラウンドミュージック "wikilink")「R」、「In Bloom」の中から選んで送る。そのエピソードをそのBGMにのせて紹介するコーナー。
+リスナーが自身の「楽しかったこと」「嬉しかったこと」「切なかったこと」等の[エピソード](https://ja.wikipedia.org/wiki/エピソード "wikilink")とそれに合う[BGMを](../Page/バックグラウンドミュージック.md "wikilink")「R」、「In Bloom」の中から選んで送る。そのエピソードをそのBGMにのせて紹介するコーナー。
 
 [Category:インターネット配信のアニラジ](https://ja.wikipedia.org/wiki/Category:インターネット配信のアニラジ "wikilink") [Category:白石涼子](https://ja.wikipedia.org/wiki/Category:白石涼子 "wikilink") [Category:2005年の日本のWebラジオ](https://ja.wikipedia.org/wiki/Category:2005年の日本のWebラジオ "wikilink")

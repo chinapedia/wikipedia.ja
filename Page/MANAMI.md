@@ -7,7 +7,7 @@
 
 ## 人物・来歴
 
-  - [2003年](../Page/2003年.md "wikilink")に「[目黒笑売塾](https://ja.wikipedia.org/wiki/目黒笑売塾 "wikilink")」を卒業してから、お笑いジェンヌ入りをし、ライブにも出演していたが、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")3月に突然の芸人廃業宣言。現在はキックボクサーとして、[伊原道場](https://ja.wikipedia.org/wiki/伊原道場 "wikilink")でトレーニングをしている。
+  - [2003年](../Page/2003年.md "wikilink")に「[目黒笑売塾](https://ja.wikipedia.org/wiki/目黒笑売塾 "wikilink")」を卒業してから、お笑いジェンヌ入りをし、ライブにも出演していたが、[2006年](../Page/2006年.md "wikilink")3月に突然の芸人廃業宣言。現在はキックボクサーとして、[伊原道場](https://ja.wikipedia.org/wiki/伊原道場 "wikilink")でトレーニングをしている。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月7日](../Page/12月7日.md "wikilink")まで[芸能人女子フットサル](../Page/芸能人女子フットサル.md "wikilink")チーム「[XANADU loves NHC](../Page/XANADU_loves_NHC.md "wikilink")」に所属していた。
   - 芸名を[ローマ字](https://ja.wikipedia.org/wiki/ローマ字 "wikilink")表記にしたのは、[MEGUMI](https://ja.wikipedia.org/wiki/MEGUMI "wikilink")の向こうを張ってということだそうである。
   - [2012年](../Page/2012年.md "wikilink")春にお披露目予定の[Volume IIでリーダーであったが](https://ja.wikipedia.org/wiki/LLPW-X#Volume_II "wikilink")、負傷したためデビュー前に退団している。

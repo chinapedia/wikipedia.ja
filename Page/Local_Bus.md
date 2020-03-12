@@ -10,7 +10,7 @@
 <!-- end list -->
 
   -
-    [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")[作曲](../Page/作曲.md "wikilink")
+    [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[作詞](../Page/作詞.md "wikilink")[作曲](../Page/作曲.md "wikilink")
     福岡県[飯塚市](../Page/飯塚市.md "wikilink")出身
 
 <!-- end list -->
@@ -21,11 +21,11 @@
 
   -
     [ギター](../Page/ギター.md "wikilink")
-    福岡県[鞍手郡](../Page/鞍手郡.md "wikilink")[宮田町](https://ja.wikipedia.org/wiki/宮田町 "wikilink")（現・[宮若市](https://ja.wikipedia.org/wiki/宮若市 "wikilink")）出身
+    福岡県[鞍手郡](../Page/鞍手郡.md "wikilink")[宮田町](https://ja.wikipedia.org/wiki/宮田町 "wikilink")（現・[宮若市](../Page/宮若市.md "wikilink")）出身
 
 ## 概要
 
-共通の友達を通じて知り合い、1998年に結成。メジャーデビュー前は3人で活動をしていたが、日にちを重ねるうちに現メンバーのユニット形式となる。 local busの名前の由来は、二人の共通項が、福岡県の田舎であったことから、「local」　「bus」は同じ目的地に向かっていくことから、音楽という同じ目的地に向かっていこうという意味がある。 2002年10月9日にＣＤアルバム「ansa-」でメジャーデビュー。続いて2002年11月20日に2ndアルバム「椋鳥ロビン」を発売し、2003年6月4日、3rdアルバム「8 trees mountain」を発売した。2004年3月17日シングル「桜見丘」を発売、また「桜見丘」は、PlayStation 2用ゲーム『ポポロクロイス 月の掟の冒険』[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")、テレビ東京系アニメ『ポポロクロイス』後半[エンディングテーマとして起用された](https://ja.wikipedia.org/wiki/主題歌#エンディング "wikilink")。
+共通の友達を通じて知り合い、1998年に結成。メジャーデビュー前は3人で活動をしていたが、日にちを重ねるうちに現メンバーのユニット形式となる。 local busの名前の由来は、二人の共通項が、福岡県の田舎であったことから、「local」　「bus」は同じ目的地に向かっていくことから、音楽という同じ目的地に向かっていこうという意味がある。 2002年10月9日にＣＤアルバム「ansa-」でメジャーデビュー。続いて2002年11月20日に2ndアルバム「椋鳥ロビン」を発売し、2003年6月4日、3rdアルバム「8 trees mountain」を発売した。2004年3月17日シングル「桜見丘」を発売、また「桜見丘」は、PlayStation 2用ゲーム『ポポロクロイス 月の掟の冒険』[主題歌](../Page/主題歌.md "wikilink")、テレビ東京系アニメ『ポポロクロイス』後半[エンディングテーマとして起用された](https://ja.wikipedia.org/wiki/主題歌#エンディング "wikilink")。
 
 [BMG JAPAN所属](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。
 

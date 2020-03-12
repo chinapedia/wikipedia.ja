@@ -3,7 +3,7 @@
 
 『**LUNACY**』（ルナシー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")・[LUNA SEAの](../Page/LUNA_SEA.md "wikilink")7枚目のオリジナル[アルバム](../Page/アルバム.md "wikilink")であり、終幕前のオリジナルアルバムとしては最後の作品である。初回限定盤は特殊ジャケット仕様。
 
-2007年12月5日に、リマスター盤、そして「gravity」「TONIGHT」「[LOVE SONG](../Page/LOVE_SONG_\(LUNA_SEAの曲\).md "wikilink")」の[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")が収録された[DVD](../Page/DVD.md "wikilink")との2枚組で[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック "wikilink")より再発された。
+2007年12月5日に、リマスター盤、そして「gravity」「TONIGHT」「[LOVE SONG](../Page/LOVE_SONG_\(LUNA_SEAの曲\).md "wikilink")」の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")が収録された[DVD](../Page/DVD.md "wikilink")との2枚組で[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック "wikilink")より再発された。
 
 ## 解説
 
@@ -14,19 +14,19 @@
 
 ## 収録曲
 
-全[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：[LUNA SEA](../Page/LUNA_SEA.md "wikilink")
+全[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：[LUNA SEA](../Page/LUNA_SEA.md "wikilink")
 
 1.  **Be Awake**
       -
-        [SUGIZO](https://ja.wikipedia.org/wiki/SUGIZO "wikilink")原曲。
+        [SUGIZO](../Page/SUGIZO.md "wikilink")原曲。
         詞はSUGIZOによるもの。
         冒頭には複数のライブ会場での[ファン](../Page/ファン.md "wikilink")の歓声を[サンプリング](../Page/サンプリング.md "wikilink")したものが収録されている。
 2.  **Sweetest Coma Again feat. DJ KRUSH**
       -
-        [J原曲](https://ja.wikipedia.org/wiki/J_\(ミュージシャン\) "wikilink")。[映画](../Page/映画.md "wikilink")「[007 ワールド・イズ・ノット・イナフ](../Page/007_ワールド・イズ・ノット・イナフ.md "wikilink")」日本版テーマ曲で、今作リリース前に日本版の[サウンドトラック](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")にも収録された（なお、サウンドトラックに収録されているヴァージョンとは[アウトロ](../Page/アウトロ.md "wikilink")が異なり、サウンドトラックが[フェード](../Page/フェード.md "wikilink")アウトであるのに対して、本作ではDJ KRUSHの[スクラッチで締め括られている](https://ja.wikipedia.org/wiki/ディスクジョッキー#スクラッチ "wikilink")）。詞はJと[RYUICHI](https://ja.wikipedia.org/wiki/RYUICHI "wikilink")によるもの。
+        [J原曲](../Page/J_\(ミュージシャン\).md "wikilink")。[映画](../Page/映画.md "wikilink")「[007 ワールド・イズ・ノット・イナフ](../Page/007_ワールド・イズ・ノット・イナフ.md "wikilink")」日本版テーマ曲で、今作リリース前に日本版の[サウンドトラック](../Page/サウンドトラック.md "wikilink")にも収録された（なお、サウンドトラックに収録されているヴァージョンとは[アウトロ](../Page/アウトロ.md "wikilink")が異なり、サウンドトラックが[フェード](../Page/フェード.md "wikilink")アウトであるのに対して、本作ではDJ KRUSHの[スクラッチで締め括られている](https://ja.wikipedia.org/wiki/ディスクジョッキー#スクラッチ "wikilink")）。詞はJと[RYUICHI](https://ja.wikipedia.org/wiki/RYUICHI "wikilink")によるもの。
 3.  **[gravity](../Page/Gravity_\(LUNA_SEAの曲\).md "wikilink")**
       -
-        [INORAN](https://ja.wikipedia.org/wiki/INORAN "wikilink")原曲。12th[シングル](../Page/シングル.md "wikilink")。[映画](../Page/映画.md "wikilink") / [テレビ朝日](../Page/テレビ朝日.md "wikilink")系[ドラマ](../Page/テレビドラマ.md "wikilink")「[アナザヘヴン](https://ja.wikipedia.org/wiki/アナザヘヴン "wikilink")」[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")。
+        [INORAN](../Page/INORAN.md "wikilink")原曲。12th[シングル](../Page/シングル.md "wikilink")。[映画](../Page/映画.md "wikilink") / [テレビ朝日](../Page/テレビ朝日.md "wikilink")系[ドラマ](../Page/テレビドラマ.md "wikilink")「[アナザヘヴン](../Page/アナザヘヴン.md "wikilink")」[主題歌](../Page/主題歌.md "wikilink")。
 4.  **KISS feat. DJ KRUSH**
       -
         SUGIZO原曲。
@@ -55,7 +55,7 @@
         間奏のソロはSUGIZOがヴァイオリンを用いて演奏している。また「a Vision」と同様にSUGIZOが7弦ギターを用いて演奏している楽曲でもある。ライヴではドラムとベースの演奏から始まり、ヴァイオリンソロの箇所はギターで再現している。
 10. **[TONIGHT](../Page/TONIGHT_\(LUNA_SEAの曲\).md "wikilink")**
       -
-        J原曲。13thシングル。「[WOWOW](../Page/WOWOW.md "wikilink") [EURO2000サッカー欧州選手権](https://ja.wikipedia.org/wiki/UEFA欧州選手権 "wikilink")」イメージソング。
+        J原曲。13thシングル。「[WOWOW](../Page/WOWOW.md "wikilink") [EURO2000サッカー欧州選手権](../Page/UEFA欧州選手権.md "wikilink")」イメージソング。
 11. **Crazy About You**
       -
         J原曲。

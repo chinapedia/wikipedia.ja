@@ -1,7 +1,7 @@
 > この記事は[WEST21](https://ja.wikipedia.org/wiki/WEST21)から翻訳されています。
 
 
-『**West21**』（ウエスト・トゥエンティーワン）は、[1999年](../Page/1999年.md "wikilink")[11月2日](../Page/11月2日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで[読売テレビで放送されていた](../Page/讀賣テレビ放送.md "wikilink")[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")。全427回。
+『**West21**』（ウエスト・トゥエンティーワン）は、[1999年](../Page/1999年.md "wikilink")[11月2日](../Page/11月2日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで[読売テレビで放送されていた](../Page/讀賣テレビ放送.md "wikilink")[音楽番組](../Page/音楽番組.md "wikilink")。全427回。
 
 ## 概要
 
@@ -20,19 +20,19 @@
 
 ### メインパーソナリティ
 
-  - [まこと](https://ja.wikipedia.org/wiki/まこと_\(ミュージシャン\) "wikilink")（[シャ乱Q](../Page/シャ乱Q.md "wikilink")）
+  - [まこと](../Page/まこと_\(ミュージシャン\).md "wikilink")（[シャ乱Q](../Page/シャ乱Q.md "wikilink")）
 
 ### アシスタント
 
-  - [山川牧](https://ja.wikipedia.org/wiki/山川牧 "wikilink")（2005年9月 - 2006年6月）
+  - [山川牧](../Page/山川牧.md "wikilink")（2005年9月 - 2006年6月）
   - [小林杏奈](https://ja.wikipedia.org/wiki/小林杏奈 "wikilink")（読売テレビアナウンサー、 不明 - 2008年3月）
 
 ## スタッフ
 
   - ナレーター：[橋本のりこ](../Page/橋本のりこ.md "wikilink")
   - プロデューサー：中島恭助
-  - チーフプロデューサー：[梅田尚哉](https://ja.wikipedia.org/wiki/梅田尚哉 "wikilink")
-  - 制作協力：[アッシュ](https://ja.wikipedia.org/wiki/アッシュ_\(制作プロダクション\) "wikilink")
+  - チーフプロデューサー：[梅田尚哉](../Page/梅田尚哉.md "wikilink")
+  - 制作協力：[アッシュ](../Page/アッシュ_\(制作プロダクション\).md "wikilink")
   - 制作著作：ytv
 
 ## 関連項目

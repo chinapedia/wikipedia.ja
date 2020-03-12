@@ -1,7 +1,7 @@
 > この記事は[-GARO- ](https://ja.wikipedia.org/wiki/-GARO-_)から翻訳されています。
 
 
-『**牙狼〈GARO〉スペシャル 白夜の魔獣**』（ガロスペシャル びゃくやのまじゅう）は、[CSファミリー劇場にて](../Page/ファミリー劇場.md "wikilink")[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（[平成](../Page/平成.md "wikilink")18年）[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")に放送された特撮テレビドラマ。前編は12月15日、後編は12月22日放送。2005年のテレビドラマ『[牙狼〈GARO〉](https://ja.wikipedia.org/wiki/牙狼-GARO- "wikilink")』の後日談として製作された\[1\]。ファミリー劇場10周年記念作品\[2\]。
+『**牙狼〈GARO〉スペシャル 白夜の魔獣**』（ガロスペシャル びゃくやのまじゅう）は、[CSファミリー劇場にて](../Page/ファミリー劇場.md "wikilink")[2006年](../Page/2006年.md "wikilink")（[平成](../Page/平成.md "wikilink")18年）[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")に放送された特撮テレビドラマ。前編は12月15日、後編は12月22日放送。2005年のテレビドラマ『[牙狼〈GARO〉](../Page/牙狼-GARO-.md "wikilink")』の後日談として製作された\[1\]。ファミリー劇場10周年記念作品\[2\]。
 
 2007年には前後編を一本にまとめ未公開シーンも追加した「長編版」が制作された。
 
@@ -87,7 +87,7 @@
 
 ## キャスト
 
-  - 冴島鋼牙 - [小西大樹](https://ja.wikipedia.org/wiki/小西遼生 "wikilink")
+  - 冴島鋼牙 - [小西大樹](../Page/小西遼生.md "wikilink")
   - 涼邑零 - [藤田玲](../Page/藤田玲.md "wikilink")
   - 山刀翼 - [山本匠馬](../Page/山本匠馬.md "wikilink")
   - 山刀鈴 - [柴本優澄美](https://ja.wikipedia.org/wiki/柴本優澄美 "wikilink")
@@ -98,13 +98,13 @@
   - 我雷法師 - [角替和枝](../Page/角替和枝.md "wikilink")
   - 阿門法師 - [麿赤児](https://ja.wikipedia.org/wiki/麿赤児 "wikilink")
   - 冴島りん - [田代純子](https://ja.wikipedia.org/wiki/田代純子 "wikilink")
-  - 冴島大河 - [渡辺裕之](https://ja.wikipedia.org/wiki/渡辺裕之 "wikilink")
+  - 冴島大河 - [渡辺裕之](../Page/渡辺裕之.md "wikilink")
   - 日向 - [富田稔](../Page/富田稔.md "wikilink")
   - 暁 - [安永昇](https://ja.wikipedia.org/wiki/安永昇 "wikilink")
   - 黄花 - [ANN](https://ja.wikipedia.org/wiki/ANN "wikilink")
   - 満寿 - [沙織](https://ja.wikipedia.org/wiki/沙織 "wikilink")
   - 番犬所神官 - [綾田俊樹](../Page/綾田俊樹.md "wikilink")
-  - 幼少鋼牙 - [澤畠流星](https://ja.wikipedia.org/wiki/澤畠流星 "wikilink")
+  - 幼少鋼牙 - [澤畠流星](../Page/澤畠流星.md "wikilink")
   - 幼少邪美 - [兼尾端穂](https://ja.wikipedia.org/wiki/兼尾端穂 "wikilink")
   - 公園の若い男 - [大久保卓朗](https://ja.wikipedia.org/wiki/大久保卓朗 "wikilink")
   - 公園の女 - [城間恵子](../Page/城間恵子.md "wikilink")
@@ -113,18 +113,18 @@
   - サラリーマン後輩 - [山名秦正](https://ja.wikipedia.org/wiki/山名秦正 "wikilink")
   - トイレの女 - [比壽愛](https://ja.wikipedia.org/wiki/比壽愛 "wikilink")
   - 鋼牙（2歳） - [城定修平](https://ja.wikipedia.org/wiki/城定修平 "wikilink")
-  - オーロラのシルエット - [あいか瞬](https://ja.wikipedia.org/wiki/あいか瞬 "wikilink")
+  - オーロラのシルエット - [あいか瞬](../Page/あいか瞬.md "wikilink")
   - 死者の霊 - [小林裕子](https://ja.wikipedia.org/wiki/小林裕子 "wikilink")、[我妻恵美子](https://ja.wikipedia.org/wiki/我妻恵美子 "wikilink")、[高桑昌子](https://ja.wikipedia.org/wiki/高桑昌子 "wikilink")
   - ホラー・アオムシ - [こしげなみへい](../Page/こしげなみへい.md "wikilink")
-  - バラゴ - [京本政樹](https://ja.wikipedia.org/wiki/京本政樹 "wikilink")（特別・友情出演）
+  - バラゴ - [京本政樹](../Page/京本政樹.md "wikilink")（特別・友情出演）
 
 ### 声の出演
 
-  - 魔導輪ザルバ - [影山ヒロノブ](https://ja.wikipedia.org/wiki/影山ヒロノブ "wikilink")
+  - 魔導輪ザルバ - [影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink")
   - 魔導具シルヴァ - [折笠愛](../Page/折笠愛.md "wikilink")
   - 魔導具ゴルバ - [緒方賢一](../Page/緒方賢一.md "wikilink")
   - 魔戒樹 - [奥田ゆかり](https://ja.wikipedia.org/wiki/奥田ゆかり "wikilink")
-  - ホラー・レギュレイス - [広瀬正志](https://ja.wikipedia.org/wiki/広瀬正志 "wikilink")
+  - ホラー・レギュレイス - [広瀬正志](../Page/広瀬正志.md "wikilink")
 
 ### スーツアクター
 
@@ -136,17 +136,17 @@
 ## スタッフ
 
   - 企画・製作 - 『牙狼〈GARO〉 白夜の魔獣』製作委員会
-  - 原作・総監督 - [雨宮慶太](https://ja.wikipedia.org/wiki/雨宮慶太 "wikilink")
+  - 原作・総監督 - [雨宮慶太](../Page/雨宮慶太.md "wikilink")
   - 脚本 - [江良至](https://ja.wikipedia.org/wiki/江良至 "wikilink")
   - 設定 - [田口恵](https://ja.wikipedia.org/wiki/田口恵 "wikilink")
   - アクション監督 - [横山誠](../Page/横山誠.md "wikilink")
   - エグゼクティブ・プロデューサー - [二宮清隆](https://ja.wikipedia.org/wiki/二宮清隆 "wikilink")、[久保聡](https://ja.wikipedia.org/wiki/久保聡 "wikilink")
   - プロデューサー - [宇田川美雪](https://ja.wikipedia.org/wiki/宇田川美雪 "wikilink")、[夏井佳奈子](https://ja.wikipedia.org/wiki/夏井佳奈子 "wikilink")、[菅野知津子](https://ja.wikipedia.org/wiki/菅野知津子 "wikilink")
-  - 製作プロデューサー - [武田佳典](https://ja.wikipedia.org/wiki/武田佳典 "wikilink")、[nob](https://ja.wikipedia.org/wiki/nob "wikilink")（[オムニバス・ジャパン](https://ja.wikipedia.org/wiki/オムニバス・ジャパン "wikilink")）、[梨木友徳](https://ja.wikipedia.org/wiki/梨木友徳 "wikilink")（[sabot6課](https://ja.wikipedia.org/wiki/sabot6課 "wikilink")）
+  - 製作プロデューサー - [武田佳典](https://ja.wikipedia.org/wiki/武田佳典 "wikilink")、[nob](https://ja.wikipedia.org/wiki/nob "wikilink")（[オムニバス・ジャパン](../Page/オムニバス・ジャパン.md "wikilink")）、[梨木友徳](https://ja.wikipedia.org/wiki/梨木友徳 "wikilink")（[sabot6課](https://ja.wikipedia.org/wiki/sabot6課 "wikilink")）
   - ラインプロデューサー - [柳内孝一](https://ja.wikipedia.org/wiki/柳内孝一 "wikilink")
   - VFXスパーバイザー - [小坂一順](https://ja.wikipedia.org/wiki/小坂一順 "wikilink")（オムニバス・ジャパン）
-  - 音楽プロデューサー - [井上俊次](https://ja.wikipedia.org/wiki/井上俊次 "wikilink")
-  - 音楽 - [栗山善親](https://ja.wikipedia.org/wiki/栗山善親 "wikilink")、[澤野弘之](../Page/澤野弘之.md "wikilink")、[寺田志保](https://ja.wikipedia.org/wiki/寺田志保 "wikilink")、[太田浩一](https://ja.wikipedia.org/wiki/太田浩一 "wikilink")、[木下伸司](https://ja.wikipedia.org/wiki/木下伸司 "wikilink")
+  - 音楽プロデューサー - [井上俊次](../Page/井上俊次.md "wikilink")
+  - 音楽 - [栗山善親](https://ja.wikipedia.org/wiki/栗山善親 "wikilink")、[澤野弘之](../Page/澤野弘之.md "wikilink")、[寺田志保](../Page/寺田志保.md "wikilink")、[太田浩一](https://ja.wikipedia.org/wiki/太田浩一 "wikilink")、[木下伸司](https://ja.wikipedia.org/wiki/木下伸司 "wikilink")
   - 特殊衣装 - [竹田団吾](../Page/竹田団吾.md "wikilink")、[JAP工房](https://ja.wikipedia.org/wiki/JAP工房 "wikilink")、[SERIKA](https://ja.wikipedia.org/wiki/SERIKA "wikilink")
   - 特殊メイク - [MEU](https://ja.wikipedia.org/wiki/MEU "wikilink")
   - 制作 - オムニバス・ジャパン

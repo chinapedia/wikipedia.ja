@@ -5,37 +5,37 @@
 
 ## 作品内容と反響
 
-[鎌倉時代](https://ja.wikipedia.org/wiki/鎌倉時代 "wikilink")中期、北条氏嫡流[得宗](../Page/得宗.md "wikilink")家に生まれた若き執権・[北条時宗](../Page/北条時宗.md "wikilink")を主人公に、[宝治合戦](https://ja.wikipedia.org/wiki/宝治合戦 "wikilink")や[二月騒動](https://ja.wikipedia.org/wiki/二月騒動 "wikilink")といった幕府内部の抗争および[元王朝襲来を国際的スケールで描く](https://ja.wikipedia.org/wiki/元寇 "wikilink")。
+[鎌倉時代](../Page/鎌倉時代.md "wikilink")中期、北条氏嫡流[得宗](../Page/得宗.md "wikilink")家に生まれた若き執権・[北条時宗](../Page/北条時宗.md "wikilink")を主人公に、[宝治合戦](https://ja.wikipedia.org/wiki/宝治合戦 "wikilink")や[二月騒動](../Page/二月騒動.md "wikilink")といった幕府内部の抗争および[元王朝襲来を国際的スケールで描く](https://ja.wikipedia.org/wiki/元寇 "wikilink")。
 
-原作は[高橋克彦](https://ja.wikipedia.org/wiki/高橋克彦 "wikilink")の『時宗』であり、『[炎立つ](https://ja.wikipedia.org/wiki/炎立つ_\(NHK大河ドラマ\) "wikilink")』（[1993年](../Page/1993年.md "wikilink")～[1994年](../Page/1994年.md "wikilink")）と同様に脚本と並行して執筆した。主役の[和泉元彌](https://ja.wikipedia.org/wiki/和泉元彌 "wikilink")は大河ドラマ初出演で、脚本担当の[井上由美子も大河ドラマ初執筆](https://ja.wikipedia.org/wiki/井上由美子_\(脚本家\) "wikilink")。ストーリーは原作と異なっている。
+原作は[高橋克彦](../Page/高橋克彦.md "wikilink")の『時宗』であり、『[炎立つ](../Page/炎立つ_\(NHK大河ドラマ\).md "wikilink")』（[1993年](../Page/1993年.md "wikilink")～[1994年](../Page/1994年.md "wikilink")）と同様に脚本と並行して執筆した。主役の[和泉元彌](../Page/和泉元彌.md "wikilink")は大河ドラマ初出演で、脚本担当の[井上由美子も大河ドラマ初執筆](../Page/井上由美子_\(脚本家\).md "wikilink")。ストーリーは原作と異なっている。
 
-鎌倉時代中期を舞台とした作品は大河ドラマ史上初めてで、現在も本作以外に存在しない\[1\]。 『[太平記](../Page/太平記_\(NHK大河ドラマ\).md "wikilink")』（1991年放送）とは近時代であり、作中でも幼少期の[北条高時](../Page/北条高時.md "wikilink")や[足利尊氏](https://ja.wikipedia.org/wiki/足利尊氏 "wikilink")を登場させるなど、それを強調する演出もなされた（ただしナレーションを務めた[覚山尼](https://ja.wikipedia.org/wiki/覚山尼 "wikilink")が史実より長く生きているため両者と会ったことになっているが、本来覚山尼は二人が幼い時に他界している）。また、時宗の母・涼子（[葛西殿](https://ja.wikipedia.org/wiki/葛西殿 "wikilink")）については[毛利季光](https://ja.wikipedia.org/wiki/毛利季光 "wikilink")の娘という説が採用され、これに関連する形で[毛利家が](../Page/毛利氏.md "wikilink")[相模の本領を失って](../Page/相模国.md "wikilink")[安芸に追われる原因となった](../Page/安芸国.md "wikilink")[宝治合戦](https://ja.wikipedia.org/wiki/宝治合戦 "wikilink")の顛末を描いている。
+鎌倉時代中期を舞台とした作品は大河ドラマ史上初めてで、現在も本作以外に存在しない\[1\]。 『[太平記](../Page/太平記_\(NHK大河ドラマ\).md "wikilink")』（1991年放送）とは近時代であり、作中でも幼少期の[北条高時](../Page/北条高時.md "wikilink")や[足利尊氏](https://ja.wikipedia.org/wiki/足利尊氏 "wikilink")を登場させるなど、それを強調する演出もなされた（ただしナレーションを務めた[覚山尼](../Page/覚山尼.md "wikilink")が史実より長く生きているため両者と会ったことになっているが、本来覚山尼は二人が幼い時に他界している）。また、時宗の母・涼子（[葛西殿](https://ja.wikipedia.org/wiki/葛西殿 "wikilink")）については[毛利季光](../Page/毛利季光.md "wikilink")の娘という説が採用され、これに関連する形で[毛利家が](../Page/毛利氏.md "wikilink")[相模の本領を失って](../Page/相模国.md "wikilink")[安芸に追われる原因となった](../Page/安芸国.md "wikilink")[宝治合戦](https://ja.wikipedia.org/wiki/宝治合戦 "wikilink")の顛末を描いている。
 
-この作品までの大河ドラマでは未踏の時代を取り上げ、元寇を題材に西洋人の貿易商人や[高麗](../Page/高麗.md "wikilink")使節、[イスラム教](https://ja.wikipedia.org/wiki/イスラム教 "wikilink")徒の宰相、[元王朝初代皇帝](../Page/元_\(王朝\).md "wikilink")[世祖までが登場する世界スケールの構想となり](../Page/クビライ.md "wikilink")、[中国や](../Page/中華人民共和国.md "wikilink")[モンゴル](https://ja.wikipedia.org/wiki/モンゴル "wikilink")での海外ロケも行われた。
+この作品までの大河ドラマでは未踏の時代を取り上げ、元寇を題材に西洋人の貿易商人や[高麗](../Page/高麗.md "wikilink")使節、[イスラム教](../Page/イスラム教.md "wikilink")徒の宰相、[元王朝初代皇帝](../Page/元_\(王朝\).md "wikilink")[世祖までが登場する世界スケールの構想となり](../Page/クビライ.md "wikilink")、[中国や](../Page/中華人民共和国.md "wikilink")[モンゴル](https://ja.wikipedia.org/wiki/モンゴル "wikilink")での海外ロケも行われた。
 
-ご当地となる[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")[早良区](../Page/早良区.md "wikilink")の[シーサイドももち](../Page/シーサイドももち.md "wikilink")公園内には、[謝国明](https://ja.wikipedia.org/wiki/謝国明 "wikilink")館・[少弐氏](https://ja.wikipedia.org/wiki/少弐氏 "wikilink")館・唐人街など中世の[博多](../Page/博多.md "wikilink")を再現した中世博多展示会場が設けられ、オープンロケが行われ、同年には「中世博多展」が開催された。一方の[鎌倉](../Page/鎌倉.md "wikilink")市街の様子は、[横浜市](https://ja.wikipedia.org/wiki/横浜市 "wikilink")[青葉区の](../Page/青葉区_\(横浜市\).md "wikilink")[緑山スタジオ・シティ](https://ja.wikipedia.org/wiki/緑山スタジオ・シティ "wikilink")の屋外スタジオにおいて中世の鎌倉市街を再現して撮影された。
+ご当地となる[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")[早良区](../Page/早良区.md "wikilink")の[シーサイドももち](../Page/シーサイドももち.md "wikilink")公園内には、[謝国明](https://ja.wikipedia.org/wiki/謝国明 "wikilink")館・[少弐氏](../Page/少弐氏.md "wikilink")館・唐人街など中世の[博多](../Page/博多.md "wikilink")を再現した中世博多展示会場が設けられ、オープンロケが行われ、同年には「中世博多展」が開催された。一方の[鎌倉](../Page/鎌倉.md "wikilink")市街の様子は、[横浜市](../Page/横浜市.md "wikilink")[青葉区の](../Page/青葉区_\(横浜市\).md "wikilink")[緑山スタジオ・シティ](../Page/緑山スタジオ・シティ.md "wikilink")の屋外スタジオにおいて中世の鎌倉市街を再現して撮影された。
 
-主役の[和泉元彌](https://ja.wikipedia.org/wiki/和泉元彌 "wikilink")は[伝統芸能](https://ja.wikipedia.org/wiki/伝統芸能 "wikilink")界からでは『[元禄繚乱](https://ja.wikipedia.org/wiki/元禄繚乱 "wikilink")』の[中村勘九郎（のちの十八代目勘三郎）からわずか](https://ja.wikipedia.org/wiki/中村勘三郎_\(18代目\) "wikilink")2年後の大河主人公役抜擢であり、[能](../Page/能.md "wikilink")・[狂言](../Page/狂言.md "wikilink")界から初めて。また本作の前年、2000年の[NHK紅白歌合戦](https://ja.wikipedia.org/wiki/NHK紅白歌合戦 "wikilink")の白組司会を務めた。
+主役の[和泉元彌](../Page/和泉元彌.md "wikilink")は[伝統芸能](https://ja.wikipedia.org/wiki/伝統芸能 "wikilink")界からでは『[元禄繚乱](../Page/元禄繚乱.md "wikilink")』の[中村勘九郎（のちの十八代目勘三郎）からわずか](../Page/中村勘三郎_\(18代目\).md "wikilink")2年後の大河主人公役抜擢であり、[能](../Page/能.md "wikilink")・[狂言](../Page/狂言.md "wikilink")界から初めて。また本作の前年、2000年の[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")の白組司会を務めた。
 
-[北条時頼](../Page/北条時頼.md "wikilink")役の[渡辺謙](../Page/渡辺謙.md "wikilink")は1987年『[独眼竜政宗](../Page/独眼竜政宗_\(NHK大河ドラマ\).md "wikilink")』、1993～1994年の『炎立つ』以来の出演で、[急性骨髄性白血病](https://ja.wikipedia.org/wiki/急性骨髄性白血病 "wikilink")の長期療養からの復帰後第一作目となった。また、『独眼竜政宗』で[伊達政宗](../Page/伊達政宗.md "wikilink")の父[伊達輝宗](../Page/伊達輝宗.md "wikilink")を演じた、[謝国明](https://ja.wikipedia.org/wiki/謝国明 "wikilink")役の[北大路欣也](https://ja.wikipedia.org/wiki/北大路欣也 "wikilink")との共演となった。
+[北条時頼](../Page/北条時頼.md "wikilink")役の[渡辺謙](../Page/渡辺謙.md "wikilink")は1987年『[独眼竜政宗](../Page/独眼竜政宗_\(NHK大河ドラマ\).md "wikilink")』、1993～1994年の『炎立つ』以来の出演で、[急性骨髄性白血病](https://ja.wikipedia.org/wiki/急性骨髄性白血病 "wikilink")の長期療養からの復帰後第一作目となった。また、『独眼竜政宗』で[伊達政宗](../Page/伊達政宗.md "wikilink")の父[伊達輝宗](../Page/伊達輝宗.md "wikilink")を演じた、[謝国明](https://ja.wikipedia.org/wiki/謝国明 "wikilink")役の[北大路欣也](../Page/北大路欣也.md "wikilink")との共演となった。
 
-初回放送の「鎌倉大激震」での蒙古の大船団、後半放送の「蒙古襲来」「弘安の役」での蒙古の大群の上陸の様子など、[デジタル合成](https://ja.wikipedia.org/wiki/デジタル合成 "wikilink")や[コンピューターグラフィックス](https://ja.wikipedia.org/wiki/コンピューターグラフィックス "wikilink")を駆使し、スケールの大きな迫力ある映像で再現。前作『葵 徳川三代』に続く2度目の全編[ハイビジョン](../Page/ハイビジョン.md "wikilink")作品となる\[2\]。
+初回放送の「鎌倉大激震」での蒙古の大船団、後半放送の「蒙古襲来」「弘安の役」での蒙古の大群の上陸の様子など、[デジタル合成](../Page/デジタル合成.md "wikilink")や[コンピューターグラフィックス](https://ja.wikipedia.org/wiki/コンピューターグラフィックス "wikilink")を駆使し、スケールの大きな迫力ある映像で再現。前作『葵 徳川三代』に続く2度目の全編[ハイビジョン](../Page/ハイビジョン.md "wikilink")作品となる\[2\]。
 
-平均視聴率は18.5%、最高視聴率は21.2%（視聴率は[関東地区](https://ja.wikipedia.org/wiki/関東地方 "wikilink")・[ビデオリサーチ](https://ja.wikipedia.org/wiki/ビデオリサーチ "wikilink")社調べ）\[3\]。
+平均視聴率は18.5%、最高視聴率は21.2%（視聴率は[関東地区](https://ja.wikipedia.org/wiki/関東地方 "wikilink")・[ビデオリサーチ](../Page/ビデオリサーチ.md "wikilink")社調べ）\[3\]。
 
 ## オープニング
 
-オープニングのテーマ曲で流れる[モンゴル](https://ja.wikipedia.org/wiki/モンゴル "wikilink")民謡[オルティンドー](https://ja.wikipedia.org/wiki/オルティンドー "wikilink")の歌い手[ノロヴバンザド](https://ja.wikipedia.org/wiki/ノロヴバンザド "wikilink")の歌声と、番組最後の紀行コーナーで流れる曲「蒼風」（正式バージョンとテレビバージョンがある）は、[山下洋輔](https://ja.wikipedia.org/wiki/山下洋輔 "wikilink")の演奏である。また全編[3DCGで描かれたオープニングは](../Page/3次元コンピュータグラフィックス.md "wikilink")、モンゴルの原野から大海原、そして宇宙にまで飛び火する壮大なストーリーが描かれており、歴代大河のオープニングの中では最もダイナミックな構成となっている。これは、主人公・時宗が夢の中でまだ見ぬ広大な大陸に思いを馳せる、というアイデアから生まれたものである（ただし、時宗存命時には存在しない建造物も登場する）。なお冒頭の「北条時宗」を表す題字とともに、無数にうごめいている文字は、クビライの生涯の中で戦ってきたライバル達の名前である。また、「北条時宗」の文字も[モンゴル文字](../Page/モンゴル文字.md "wikilink")風の字体デザインになっている[参考・NHKオンデマンド](https://www.nhk-ondemand.jp/program/P201200093400000/)。ドラマの内容にあわせて映像の細かい部分を回毎に変化させていったこともそれまでの大河ドラマのオープニングにはない試みであった。
+オープニングのテーマ曲で流れる[モンゴル](https://ja.wikipedia.org/wiki/モンゴル "wikilink")民謡[オルティンドー](https://ja.wikipedia.org/wiki/オルティンドー "wikilink")の歌い手[ノロヴバンザド](../Page/ノロヴバンザド.md "wikilink")の歌声と、番組最後の紀行コーナーで流れる曲「蒼風」（正式バージョンとテレビバージョンがある）は、[山下洋輔](../Page/山下洋輔.md "wikilink")の演奏である。また全編[3DCGで描かれたオープニングは](../Page/3次元コンピュータグラフィックス.md "wikilink")、モンゴルの原野から大海原、そして宇宙にまで飛び火する壮大なストーリーが描かれており、歴代大河のオープニングの中では最もダイナミックな構成となっている。これは、主人公・時宗が夢の中でまだ見ぬ広大な大陸に思いを馳せる、というアイデアから生まれたものである（ただし、時宗存命時には存在しない建造物も登場する）。なお冒頭の「北条時宗」を表す題字とともに、無数にうごめいている文字は、クビライの生涯の中で戦ってきたライバル達の名前である。また、「北条時宗」の文字も[モンゴル文字](../Page/モンゴル文字.md "wikilink")風の字体デザインになっている[参考・NHKオンデマンド](https://www.nhk-ondemand.jp/program/P201200093400000/)。ドラマの内容にあわせて映像の細かい部分を回毎に変化させていったこともそれまでの大河ドラマのオープニングにはない試みであった。
 
 ## 映像ソフト化の状況
 
-2016年現在、VHS・DVDともに総集編(前後編形式、ともに99分)しか商品化されておらず、通常放送回が映像ソフト化される見通しは今のところ立っていない。総集編のみが公開されている作品としては、唯一のハイビジョン製作の作品である(封印状態にある[2003年](../Page/2003年.md "wikilink")の『[武蔵 MUSASHI](https://ja.wikipedia.org/wiki/武蔵_MUSASHI "wikilink")』を除く)。その一方で、番組公開ライブラリーとNHKオンデマンドではその総集編が公開されている。
+2016年現在、VHS・DVDともに総集編(前後編形式、ともに99分)しか商品化されておらず、通常放送回が映像ソフト化される見通しは今のところ立っていない。総集編のみが公開されている作品としては、唯一のハイビジョン製作の作品である(封印状態にある[2003年](../Page/2003年.md "wikilink")の『[武蔵 MUSASHI](../Page/武蔵_MUSASHI.md "wikilink")』を除く)。その一方で、番組公開ライブラリーとNHKオンデマンドではその総集編が公開されている。
 
 本作は大河ドラマとして初めて副音声解説がついた作品であり、この解説は総集編DVDでも聞くことができる。
 
 ## あらすじ
 
-相次ぐ[飢饉](https://ja.wikipedia.org/wiki/飢饉 "wikilink")で人々が飢え苦しみ、社会が混乱の様を呈していた鎌倉中期。鎌倉幕府第5代[執権](../Page/執権.md "wikilink")・北条時頼の嫡子として得宗家に生を受けた時宗は、幼少時には父・時頼から多大な影響を受け、博多商人謝国明や松浦党の娘桐子らと出合い国際的視野を広めるが、異母兄である時輔とは確執が生じていた。
+相次ぐ[飢饉](../Page/飢饉.md "wikilink")で人々が飢え苦しみ、社会が混乱の様を呈していた鎌倉中期。鎌倉幕府第5代[執権](../Page/執権.md "wikilink")・北条時頼の嫡子として得宗家に生を受けた時宗は、幼少時には父・時頼から多大な影響を受け、博多商人謝国明や松浦党の娘桐子らと出合い国際的視野を広めるが、異母兄である時輔とは確執が生じていた。
 
 やがて時宗は第8代執権に就任し、時輔や幕府内の反得宗勢力との争いなど相次ぐ苦難に翻弄される。
 
@@ -45,7 +45,7 @@
 
 ### 北条得宗家とその家臣
 
-  - [正寿丸→北条時宗](../Page/北条時宗.md "wikilink")：[小池城太朗](https://ja.wikipedia.org/wiki/小池城太朗 "wikilink")→[浅利陽介](https://ja.wikipedia.org/wiki/浅利陽介 "wikilink")→[和泉元彌](https://ja.wikipedia.org/wiki/和泉元彌 "wikilink")
+  - [正寿丸→北条時宗](../Page/北条時宗.md "wikilink")：[小池城太朗](../Page/小池城太朗.md "wikilink")→[浅利陽介](../Page/浅利陽介.md "wikilink")→[和泉元彌](../Page/和泉元彌.md "wikilink")
 
 <!-- end list -->
 
@@ -55,7 +55,7 @@
 
 <!-- end list -->
 
-  - [宝寿丸→北条時利→北条時輔](https://ja.wikipedia.org/wiki/北条時輔 "wikilink")：[太田光輝](https://ja.wikipedia.org/wiki/太田光輝 "wikilink")→[東海孝之助](https://ja.wikipedia.org/wiki/東海孝之助 "wikilink")→[崎本大海](https://ja.wikipedia.org/wiki/崎本大海 "wikilink")→[渡部篤郎](../Page/渡部篤郎.md "wikilink")
+  - [宝寿丸→北条時利→北条時輔](../Page/北条時輔.md "wikilink")：[太田光輝](https://ja.wikipedia.org/wiki/太田光輝 "wikilink")→[東海孝之助](../Page/東海孝之助.md "wikilink")→[崎本大海](../Page/崎本大海.md "wikilink")→[渡部篤郎](../Page/渡部篤郎.md "wikilink")
 
 <!-- end list -->
 
@@ -63,7 +63,7 @@
     時宗の異母兄。時宗と相対する存在として描かれるもう一人の主人公。
     幼い頃より、弟・時宗を思いやる優しい兄だったが、一方で、側室の子であったため時頼から冷遇される。そのため、時宗に対して愛憎が入り交じる複雑な感情を抱くようになってゆく。
     時宗が成長すると意見対立が目立つようになり、時宗により六波羅探題南方に追いやられる。
-    時宗の命による[二月騒動](https://ja.wikipedia.org/wiki/二月騒動 "wikilink")で殺害されたと思われていたが、左腕が不自由になる重傷を負いながらも北条義宗の手引きによって一命を取り留め、密かに脱出。その後あちこちを流浪し、蒙古軍にも協力したが、その真意は日本と蒙古との和解を願っての行動である事が明かされる。最終話で時宗と和解しその最期を看取った後、家臣の服部正左衛門と共に世界の果てを目指し旅立って行った。
+    時宗の命による[二月騒動](../Page/二月騒動.md "wikilink")で殺害されたと思われていたが、左腕が不自由になる重傷を負いながらも北条義宗の手引きによって一命を取り留め、密かに脱出。その後あちこちを流浪し、蒙古軍にも協力したが、その真意は日本と蒙古との和解を願っての行動である事が明かされる。最終話で時宗と和解しその最期を看取った後、家臣の服部正左衛門と共に世界の果てを目指し旅立って行った。
 
 <!-- end list -->
 
@@ -88,7 +88,7 @@
 
 <!-- end list -->
 
-  - [祝子（のりこ）→覚山尼](https://ja.wikipedia.org/wiki/覚山尼 "wikilink")／語り：[吉谷彩子](https://ja.wikipedia.org/wiki/吉谷彩子 "wikilink")→[児玉真菜](https://ja.wikipedia.org/wiki/児玉真菜 "wikilink")→[西田ひかる](../Page/西田ひかる.md "wikilink")→[十朱幸代](https://ja.wikipedia.org/wiki/十朱幸代 "wikilink")（十朱は語り兼任）
+  - [祝子（のりこ）→覚山尼](../Page/覚山尼.md "wikilink")／語り：[吉谷彩子](https://ja.wikipedia.org/wiki/吉谷彩子 "wikilink")→[児玉真菜](../Page/児玉真菜.md "wikilink")→[西田ひかる](../Page/西田ひかる.md "wikilink")→[十朱幸代](../Page/十朱幸代.md "wikilink")（十朱は語り兼任）
 
 <!-- end list -->
 
@@ -143,7 +143,7 @@
 
 <!-- end list -->
 
-  - [北条時利](https://ja.wikipedia.org/wiki/北条時朝 "wikilink")：[清水響](https://ja.wikipedia.org/wiki/清水響 "wikilink")→[中野勇士](https://ja.wikipedia.org/wiki/中野勇士 "wikilink")→[鈴木藤丸](https://ja.wikipedia.org/wiki/鈴木藤丸 "wikilink")
+  - [北条時利](https://ja.wikipedia.org/wiki/北条時朝 "wikilink")：[清水響](https://ja.wikipedia.org/wiki/清水響 "wikilink")→[中野勇士](../Page/中野勇士.md "wikilink")→[鈴木藤丸](../Page/鈴木藤丸.md "wikilink")
 
 <!-- end list -->
 
@@ -152,7 +152,7 @@
 
 <!-- end list -->
 
-  - 篤子：[朝田帆香](https://ja.wikipedia.org/wiki/朝田帆香 "wikilink")→[福田麻由子](https://ja.wikipedia.org/wiki/福田麻由子 "wikilink")
+  - 篤子：[朝田帆香](https://ja.wikipedia.org/wiki/朝田帆香 "wikilink")→[福田麻由子](../Page/福田麻由子.md "wikilink")
 
 <!-- end list -->
 
@@ -161,7 +161,7 @@
 
 <!-- end list -->
 
-  - [福寿丸→北条宗政](https://ja.wikipedia.org/wiki/北条宗政 "wikilink")：[松川真之介](https://ja.wikipedia.org/wiki/松川真之介 "wikilink")→[川原一馬](https://ja.wikipedia.org/wiki/川原一馬 "wikilink")→[比留間由哲](https://ja.wikipedia.org/wiki/比留間由哲 "wikilink")
+  - [福寿丸→北条宗政](../Page/北条宗政.md "wikilink")：[松川真之介](https://ja.wikipedia.org/wiki/松川真之介 "wikilink")→[川原一馬](../Page/川原一馬.md "wikilink")→[比留間由哲](../Page/比留間由哲.md "wikilink")
 
 <!-- end list -->
 
@@ -175,16 +175,16 @@
 <!-- end list -->
 
   -
-    宗政の妻、政村の娘。[オカメのような器量なしの](https://ja.wikipedia.org/wiki/おかめ "wikilink")[醜女だが](https://ja.wikipedia.org/wiki/不細工 "wikilink")、彼を妻として愛していたようで、宗政の死には号泣していた。
+    宗政の妻、政村の娘。[オカメのような器量なしの](https://ja.wikipedia.org/wiki/おかめ "wikilink")[醜女だが](../Page/不細工.md "wikilink")、彼を妻として愛していたようで、宗政の死には号泣していた。
 
 <!-- end list -->
 
-  - [八郎→平頼綱](https://ja.wikipedia.org/wiki/平頼綱 "wikilink")：[北村一輝](../Page/北村一輝.md "wikilink")
+  - [八郎→平頼綱](../Page/平頼綱.md "wikilink")：[北村一輝](../Page/北村一輝.md "wikilink")
 
 <!-- end list -->
 
   -
-    みなしごの生まれであり、[安達泰盛](https://ja.wikipedia.org/wiki/安達泰盛 "wikilink")の命で[北条長時](../Page/北条長時.md "wikilink")を暗殺したことを経て時宗に仕え、平盛綱の養子となる。得宗家[御内人](https://ja.wikipedia.org/wiki/御内人 "wikilink")として栄進していく。
+    みなしごの生まれであり、[安達泰盛](../Page/安達泰盛.md "wikilink")の命で[北条長時](../Page/北条長時.md "wikilink")を暗殺したことを経て時宗に仕え、平盛綱の養子となる。得宗家[御内人](../Page/御内人.md "wikilink")として栄進していく。
     粗暴かつ権謀術数を厭わぬ性格で、しばしば狂気をのぞかせるが、時宗のことは崇拝しており、自身の出自と長時暗殺の真実を全て打ち明けた上で絶対の忠誠を誓う。
     [日蓮](../Page/日蓮.md "wikilink")に「偽りを生きる者」と断じられ、日蓮を激しく憎悪する。
     祥子殺害をきっかけに時宗からの扱いが冷淡になり、「汚名を晴らせ」と九州へ送られ、宗政や九州御家人たちとともに文永の役を戦った。戦場でも倒した蒙古兵を何度も斬りつけるなど狂気の一面をのぞかせた。
@@ -219,35 +219,35 @@
 
 <!-- end list -->
 
-  - 服部正左衛門：[室田日出男](https://ja.wikipedia.org/wiki/室田日出男 "wikilink")
+  - 服部正左衛門：[室田日出男](../Page/室田日出男.md "wikilink")
 
 <!-- end list -->
 
   -
-    小山氏の家臣だったが、祥子の付き人として時輔のもとに送られ、時輔夫妻に仕える。時輔と祥子に献身的に尽くした。二月騒動の後、時宗への遺恨を強める憔悴した祥子を諫めながら祥子に寛大な処置が下るよう尽力した。しかし祥子が頼綱に殺害された後は時宗を憎悪し、得宗家に仕えることを拒否して[悪党](https://ja.wikipedia.org/wiki/悪党 "wikilink")に身を落とした。蒙古襲来の最中、戦争を強行する時宗を批判して対峙した。後に時輔が生きていたことを知ると再び彼に従い、共に世界の果てを目指して旅立って行った。
+    小山氏の家臣だったが、祥子の付き人として時輔のもとに送られ、時輔夫妻に仕える。時輔と祥子に献身的に尽くした。二月騒動の後、時宗への遺恨を強める憔悴した祥子を諫めながら祥子に寛大な処置が下るよう尽力した。しかし祥子が頼綱に殺害された後は時宗を憎悪し、得宗家に仕えることを拒否して[悪党](../Page/悪党.md "wikilink")に身を落とした。蒙古襲来の最中、戦争を強行する時宗を批判して対峙した。後に時輔が生きていたことを知ると再び彼に従い、共に世界の果てを目指して旅立って行った。
 
 <!-- end list -->
 
-  - 如月：[清川虹子](https://ja.wikipedia.org/wiki/清川虹子 "wikilink")
+  - 如月：[清川虹子](../Page/清川虹子.md "wikilink")
 
 <!-- end list -->
 
   -
-    六波羅探題南方に任じられて京へ赴任した時輔に付けられた老女。南方が長年空席だった影響で、蜘蛛の巣の張った荒れ放題の役宅で時輔を迎えた。非常に高齢であり、[源頼朝](https://ja.wikipedia.org/wiki/源頼朝 "wikilink")が六波羅に京都守護所を置いてから79年にわたって仕えてきたと語る。
+    六波羅探題南方に任じられて京へ赴任した時輔に付けられた老女。南方が長年空席だった影響で、蜘蛛の巣の張った荒れ放題の役宅で時輔を迎えた。非常に高齢であり、[源頼朝](../Page/源頼朝.md "wikilink")が六波羅に京都守護所を置いてから79年にわたって仕えてきたと語る。
 
 ### 北条一門
 
-  - [北条重時](https://ja.wikipedia.org/wiki/北条重時 "wikilink")：[平幹二朗](https://ja.wikipedia.org/wiki/平幹二朗 "wikilink")
+  - [北条重時](../Page/北条重時.md "wikilink")：[平幹二朗](../Page/平幹二朗.md "wikilink")
 
 <!-- end list -->
 
   -
-    [極楽寺流北条家当主](https://ja.wikipedia.org/wiki/北条氏_\(極楽寺流\) "wikilink")、長時・義政・梨子の父。泰盛の義父（舅）。[北条政子](../Page/北条政子.md "wikilink")の甥。政村の兄。
+    [極楽寺流北条家当主](../Page/北条氏_\(極楽寺流\).md "wikilink")、長時・義政・梨子の父。泰盛の義父（舅）。[北条政子](../Page/北条政子.md "wikilink")の甥。政村の兄。
     六波羅探題北方を務めていたが、一族の重鎮として、時頼の求めに応じて京から鎌倉に戻る。涼子の養父となることで、時頼との婚礼が円滑に行われるようにした。長時が自分をからかった民衆を斬った一件では長時を守ろうとして一騒動を起こす。その後、病に倒れるが、死の間際に政村に対して「長時に災いをもたらすならば、決して許さぬ」と遺言を残す。
 
 <!-- end list -->
 
-  - [北条長時](../Page/北条長時.md "wikilink")：[川崎麻世](https://ja.wikipedia.org/wiki/川崎麻世 "wikilink")
+  - [北条長時](../Page/北条長時.md "wikilink")：[川崎麻世](../Page/川崎麻世.md "wikilink")
 
 <!-- end list -->
 
@@ -257,7 +257,7 @@
 
 <!-- end list -->
 
-  - [北条義宗](https://ja.wikipedia.org/wiki/北条義宗 "wikilink")：[宮迫博之](https://ja.wikipedia.org/wiki/宮迫博之 "wikilink")
+  - [北条義宗](../Page/北条義宗.md "wikilink")：[宮迫博之](https://ja.wikipedia.org/wiki/宮迫博之 "wikilink")
 
 <!-- end list -->
 
@@ -267,7 +267,7 @@
 
 <!-- end list -->
 
-  - [北条時茂](https://ja.wikipedia.org/wiki/北条時茂 "wikilink")：[羽賀研二](https://ja.wikipedia.org/wiki/羽賀研二 "wikilink")
+  - [北条時茂](../Page/北条時茂.md "wikilink")：[羽賀研二](https://ja.wikipedia.org/wiki/羽賀研二 "wikilink")
 
 <!-- end list -->
 
@@ -276,7 +276,7 @@
 
 <!-- end list -->
 
-  - 秀子（しゅうこ）：[英由佳](https://ja.wikipedia.org/wiki/英由佳 "wikilink")
+  - 秀子（しゅうこ）：[英由佳](../Page/英由佳.md "wikilink")
 
 <!-- end list -->
 
@@ -285,7 +285,7 @@
 
 <!-- end list -->
 
-  - [北条義政](https://ja.wikipedia.org/wiki/北条義政 "wikilink")：[渡辺徹](https://ja.wikipedia.org/wiki/渡辺徹_\(俳優\) "wikilink")
+  - [北条義政](../Page/北条義政.md "wikilink")：[渡辺徹](https://ja.wikipedia.org/wiki/渡辺徹_\(俳優\) "wikilink")
 
 <!-- end list -->
 
@@ -307,7 +307,7 @@
 
 <!-- end list -->
 
-  - [北条実時](https://ja.wikipedia.org/wiki/北条実時 "wikilink")：[池畑慎之介](https://ja.wikipedia.org/wiki/池畑慎之介 "wikilink")
+  - [北条実時](../Page/北条実時.md "wikilink")：[池畑慎之介](../Page/池畑慎之介.md "wikilink")
 
 <!-- end list -->
 
@@ -317,7 +317,7 @@
 
 <!-- end list -->
 
-  - [北条顕時](https://ja.wikipedia.org/wiki/北条顕時 "wikilink")：[山口馬木也](https://ja.wikipedia.org/wiki/山口馬木也 "wikilink")
+  - [北条顕時](../Page/北条顕時.md "wikilink")：[山口馬木也](../Page/山口馬木也.md "wikilink")
 
 <!-- end list -->
 
@@ -327,7 +327,7 @@
 
 <!-- end list -->
 
-  - 周子：[増田恵子](https://ja.wikipedia.org/wiki/増田恵子 "wikilink")
+  - 周子：[増田恵子](../Page/増田恵子.md "wikilink")
 
 <!-- end list -->
 
@@ -354,7 +354,7 @@
 
 <!-- end list -->
 
-  - [北条時広](https://ja.wikipedia.org/wiki/北条時広 "wikilink")：[石橋蓮司](../Page/石橋蓮司.md "wikilink")
+  - [北条時広](../Page/北条時広.md "wikilink")：[石橋蓮司](../Page/石橋蓮司.md "wikilink")
 
 <!-- end list -->
 
@@ -363,7 +363,7 @@
 
 <!-- end list -->
 
-  - [北条時章](https://ja.wikipedia.org/wiki/北条時章 "wikilink")：[白竜](https://ja.wikipedia.org/wiki/白竜_\(俳優\) "wikilink")
+  - [北条時章](../Page/北条時章.md "wikilink")：[白竜](../Page/白竜_\(俳優\).md "wikilink")
 
 <!-- end list -->
 
@@ -373,17 +373,17 @@
 
 <!-- end list -->
 
-  - [北条教時](https://ja.wikipedia.org/wiki/北条教時 "wikilink")：[鈴木祐二](https://ja.wikipedia.org/wiki/神尾佑 "wikilink")
+  - [北条教時](../Page/北条教時.md "wikilink")：[鈴木祐二](../Page/神尾佑.md "wikilink")
 
 <!-- end list -->
 
   -
     時章の異母弟。
-    時章や姉の桔梗とともに得宗家打倒を狙う。時章に比べて血気盛んな性格で、すぐに激昂するため時章に制止されることも多い。蒙古の国書をめぐる評定の席でも「使者を切り捨てよ」といった蒙古に対する強硬意見を主張した。後に桔梗の指示を受けて、時宗の息子の幸寿丸の乗る輿を配下に襲撃させるが失敗。[二月騒動](https://ja.wikipedia.org/wiki/二月騒動 "wikilink")で敗死した。
+    時章や姉の桔梗とともに得宗家打倒を狙う。時章に比べて血気盛んな性格で、すぐに激昂するため時章に制止されることも多い。蒙古の国書をめぐる評定の席でも「使者を切り捨てよ」といった蒙古に対する強硬意見を主張した。後に桔梗の指示を受けて、時宗の息子の幸寿丸の乗る輿を配下に襲撃させるが失敗。[二月騒動](../Page/二月騒動.md "wikilink")で敗死した。
 
 ### 御家人
 
-  - [安達泰盛](https://ja.wikipedia.org/wiki/安達泰盛 "wikilink")：[柳葉敏郎](../Page/柳葉敏郎.md "wikilink")
+  - [安達泰盛](../Page/安達泰盛.md "wikilink")：[柳葉敏郎](../Page/柳葉敏郎.md "wikilink")
 
 <!-- end list -->
 
@@ -403,7 +403,7 @@
 
 <!-- end list -->
 
-  - [安達義景](https://ja.wikipedia.org/wiki/安達義景 "wikilink")：[小野武彦](https://ja.wikipedia.org/wiki/小野武彦 "wikilink")
+  - [安達義景](../Page/安達義景.md "wikilink")：[小野武彦](../Page/小野武彦.md "wikilink")
 
 <!-- end list -->
 
@@ -422,7 +422,7 @@
 
 <!-- end list -->
 
-  - [三浦泰村](https://ja.wikipedia.org/wiki/三浦泰村 "wikilink")：[津嘉山正種](../Page/津嘉山正種.md "wikilink")
+  - [三浦泰村](../Page/三浦泰村.md "wikilink")：[津嘉山正種](../Page/津嘉山正種.md "wikilink")
 
 <!-- end list -->
 
@@ -432,7 +432,7 @@
 
 <!-- end list -->
 
-  - [三浦光村](https://ja.wikipedia.org/wiki/三浦光村 "wikilink")：[遠藤憲一](https://ja.wikipedia.org/wiki/遠藤憲一 "wikilink")
+  - [三浦光村](../Page/三浦光村.md "wikilink")：[遠藤憲一](../Page/遠藤憲一.md "wikilink")
 
 <!-- end list -->
 
@@ -442,7 +442,7 @@
 
 <!-- end list -->
 
-  - [毛利季光](https://ja.wikipedia.org/wiki/毛利季光 "wikilink")：[高橋英樹](https://ja.wikipedia.org/wiki/高橋英樹_\(俳優\) "wikilink")
+  - [毛利季光](../Page/毛利季光.md "wikilink")：[高橋英樹](../Page/高橋英樹_\(俳優\).md "wikilink")
 
 <!-- end list -->
 
@@ -452,7 +452,7 @@
 
 <!-- end list -->
 
-  - 藤子（とうこ）→藤泉尼：[大谷直子](https://ja.wikipedia.org/wiki/大谷直子 "wikilink")
+  - 藤子（とうこ）→藤泉尼：[大谷直子](../Page/大谷直子.md "wikilink")
 
 <!-- end list -->
 
@@ -462,7 +462,7 @@
 
 <!-- end list -->
 
-  - [足利泰氏](https://ja.wikipedia.org/wiki/足利泰氏 "wikilink")：[西岡德馬](https://ja.wikipedia.org/wiki/西岡徳馬 "wikilink")
+  - [足利泰氏](../Page/足利泰氏.md "wikilink")：[西岡德馬](../Page/西岡徳馬.md "wikilink")
 
 <!-- end list -->
 
@@ -473,7 +473,7 @@
 
 <!-- end list -->
 
-  - 桔梗：[原田美枝子](https://ja.wikipedia.org/wiki/原田美枝子 "wikilink")
+  - 桔梗：[原田美枝子](../Page/原田美枝子.md "wikilink")
 
 <!-- end list -->
 
@@ -483,7 +483,7 @@
 
 <!-- end list -->
 
-  - [足利利氏→足利頼氏](https://ja.wikipedia.org/wiki/足利頼氏 "wikilink")：[厚木拓郎](https://ja.wikipedia.org/wiki/厚木拓郎 "wikilink")→[安藤一平](https://ja.wikipedia.org/wiki/安藤一平 "wikilink")→[尾美としのり](https://ja.wikipedia.org/wiki/尾美としのり "wikilink")
+  - [足利利氏→足利頼氏](../Page/足利頼氏.md "wikilink")：[厚木拓郎](https://ja.wikipedia.org/wiki/厚木拓郎 "wikilink")→[安藤一平](https://ja.wikipedia.org/wiki/安藤一平 "wikilink")→[尾美としのり](../Page/尾美としのり.md "wikilink")
 
 <!-- end list -->
 
@@ -494,7 +494,7 @@
 
 <!-- end list -->
 
-  - [足利家時](https://ja.wikipedia.org/wiki/足利家時 "wikilink")：[内山昂輝](https://ja.wikipedia.org/wiki/内山昂輝 "wikilink")→[俊藤光利](https://ja.wikipedia.org/wiki/俊藤光利 "wikilink")
+  - [足利家時](../Page/足利家時.md "wikilink")：[内山昂輝](../Page/内山昂輝.md "wikilink")→[俊藤光利](../Page/俊藤光利.md "wikilink")
 
 <!-- end list -->
 
@@ -503,7 +503,7 @@
 
 <!-- end list -->
 
-  - [足利高氏](https://ja.wikipedia.org/wiki/足利尊氏 "wikilink")：[三觜要介](https://ja.wikipedia.org/wiki/三觜要介 "wikilink")
+  - [足利高氏](https://ja.wikipedia.org/wiki/足利尊氏 "wikilink")：[三觜要介](../Page/三觜要介.md "wikilink")
 
 <!-- end list -->
 
@@ -512,7 +512,7 @@
 
 <!-- end list -->
 
-  - [高師氏](https://ja.wikipedia.org/wiki/高師氏 "wikilink")：[江原真二郎](https://ja.wikipedia.org/wiki/江原真二郎 "wikilink")
+  - [高師氏](https://ja.wikipedia.org/wiki/高師氏 "wikilink")：[江原真二郎](../Page/江原真二郎.md "wikilink")
 
 <!-- end list -->
 
@@ -530,7 +530,7 @@
 
 <!-- end list -->
 
-  - [少弐資能](https://ja.wikipedia.org/wiki/少弐資能 "wikilink")：[野口貴史](https://ja.wikipedia.org/wiki/野口貴史 "wikilink")
+  - [少弐資能](../Page/少弐資能.md "wikilink")：[野口貴史](https://ja.wikipedia.org/wiki/野口貴史 "wikilink")
 
 <!-- end list -->
 
@@ -539,7 +539,7 @@
 
 <!-- end list -->
 
-  - [少弐景資](https://ja.wikipedia.org/wiki/少弐景資 "wikilink")：[川野太郎](https://ja.wikipedia.org/wiki/川野太郎 "wikilink")
+  - [少弐景資](../Page/少弐景資.md "wikilink")：[川野太郎](../Page/川野太郎.md "wikilink")
 
 <!-- end list -->
 
@@ -549,7 +549,7 @@
 
 <!-- end list -->
 
-  - [竹崎季長](https://ja.wikipedia.org/wiki/竹崎季長 "wikilink")：[うじきつよし](../Page/うじきつよし.md "wikilink")
+  - [竹崎季長](../Page/竹崎季長.md "wikilink")：[うじきつよし](../Page/うじきつよし.md "wikilink")
 
 <!-- end list -->
 
@@ -559,7 +559,7 @@
 
 <!-- end list -->
 
-  - [菊池武房](https://ja.wikipedia.org/wiki/菊池武房 "wikilink")：[小西博之](https://ja.wikipedia.org/wiki/小西博之 "wikilink")
+  - [菊池武房](../Page/菊池武房.md "wikilink")：[小西博之](../Page/小西博之.md "wikilink")
 
 <!-- end list -->
 
@@ -569,7 +569,7 @@
 
 <!-- end list -->
 
-  - [大友頼泰](https://ja.wikipedia.org/wiki/大友頼泰 "wikilink")：[飯島大介](https://ja.wikipedia.org/wiki/飯島大介 "wikilink")
+  - [大友頼泰](../Page/大友頼泰.md "wikilink")：[飯島大介](../Page/飯島大介.md "wikilink")
 
 <!-- end list -->
 
@@ -578,7 +578,7 @@
 
 <!-- end list -->
 
-  - [島津久経](https://ja.wikipedia.org/wiki/島津久経 "wikilink")：[大木聡](https://ja.wikipedia.org/wiki/大木聡 "wikilink")
+  - [島津久経](../Page/島津久経.md "wikilink")：[大木聡](https://ja.wikipedia.org/wiki/大木聡 "wikilink")
 
 <!-- end list -->
 
@@ -587,7 +587,7 @@
 
 <!-- end list -->
 
-  - [河野通有](https://ja.wikipedia.org/wiki/河野通有 "wikilink")：[奈佐健臣](https://ja.wikipedia.org/wiki/奈佐健臣 "wikilink")
+  - [河野通有](../Page/河野通有.md "wikilink")：[奈佐健臣](https://ja.wikipedia.org/wiki/奈佐健臣 "wikilink")
 
 <!-- end list -->
 
@@ -603,11 +603,11 @@
 
   -
     九州の御家人。
-    [蒙古襲来](https://ja.wikipedia.org/wiki/蒙古襲来 "wikilink")の際に[一騎討ち](https://ja.wikipedia.org/wiki/一騎討ち "wikilink")の作法にのっとって敵と戦おうとしたが、自身の先祖やその武勲を述べている最中に敵の攻撃を受けて死去。
+    [蒙古襲来](https://ja.wikipedia.org/wiki/蒙古襲来 "wikilink")の際に[一騎討ち](../Page/一騎討ち.md "wikilink")の作法にのっとって敵と戦おうとしたが、自身の先祖やその武勲を述べている最中に敵の攻撃を受けて死去。
 
 <!-- end list -->
 
-  - [平景隆](https://ja.wikipedia.org/wiki/平景隆 "wikilink")：[角田信朗](https://ja.wikipedia.org/wiki/角田信朗 "wikilink")
+  - [平景隆](../Page/平景隆.md "wikilink")：[角田信朗](../Page/角田信朗.md "wikilink")
 
 <!-- end list -->
 
@@ -617,7 +617,7 @@
 
 <!-- end list -->
 
-  - 浅川平八郎：[庄司永建](https://ja.wikipedia.org/wiki/庄司永建 "wikilink")
+  - 浅川平八郎：[庄司永建](../Page/庄司永建.md "wikilink")
 
 <!-- end list -->
 
@@ -626,7 +626,7 @@
 
 <!-- end list -->
 
-  - [天野常世](https://ja.wikipedia.org/wiki/佐野源左衛門 "wikilink")：[宇崎竜童](https://ja.wikipedia.org/wiki/宇崎竜童 "wikilink")
+  - [天野常世](https://ja.wikipedia.org/wiki/佐野源左衛門 "wikilink")：[宇崎竜童](../Page/宇崎竜童.md "wikilink")
 
 <!-- end list -->
 
@@ -655,7 +655,7 @@
 
 <!-- end list -->
 
-  - [中原師連](https://ja.wikipedia.org/wiki/中原師連 "wikilink")：[堀部隆一](https://ja.wikipedia.org/wiki/堀部隆一 "wikilink")
+  - [中原師連](https://ja.wikipedia.org/wiki/中原師連 "wikilink")：[堀部隆一](../Page/堀部隆一.md "wikilink")
 
 <!-- end list -->
 
@@ -664,7 +664,7 @@
 
 <!-- end list -->
 
-  - [佐々木氏信](https://ja.wikipedia.org/wiki/佐々木氏信 "wikilink")：[九太朗](https://ja.wikipedia.org/wiki/九太朗 "wikilink")
+  - [佐々木氏信](../Page/佐々木氏信.md "wikilink")：[九太朗](https://ja.wikipedia.org/wiki/九太朗 "wikilink")
 
 <!-- end list -->
 
@@ -673,7 +673,7 @@
 
 ### 将軍・朝廷・公家
 
-  - [九条頼経](https://ja.wikipedia.org/wiki/九条頼経 "wikilink")：[宇梶剛士](https://ja.wikipedia.org/wiki/宇梶剛士 "wikilink")
+  - [九条頼経](https://ja.wikipedia.org/wiki/九条頼経 "wikilink")：[宇梶剛士](../Page/宇梶剛士.md "wikilink")
 
 <!-- end list -->
 
@@ -701,7 +701,7 @@
 
 <!-- end list -->
 
-  - [宗尊親王](../Page/宗尊親王.md "wikilink")：[相ヶ瀬龍史](https://ja.wikipedia.org/wiki/相ヶ瀬龍史 "wikilink")→[吹越満](https://ja.wikipedia.org/wiki/吹越満 "wikilink")
+  - [宗尊親王](../Page/宗尊親王.md "wikilink")：[相ヶ瀬龍史](../Page/相ヶ瀬龍史.md "wikilink")→[吹越満](../Page/吹越満.md "wikilink")
 
 <!-- end list -->
 
@@ -721,7 +721,7 @@
 
 <!-- end list -->
 
-  - [惟康王→惟康親王](../Page/惟康親王.md "wikilink")：[小阪風真](https://ja.wikipedia.org/wiki/小阪風真 "wikilink")→[山内翼](https://ja.wikipedia.org/wiki/山内翼 "wikilink")→[藤沼豊](https://ja.wikipedia.org/wiki/藤沼豊 "wikilink")
+  - [惟康王→惟康親王](../Page/惟康親王.md "wikilink")：[小阪風真](../Page/小阪風真.md "wikilink")→[山内翼](https://ja.wikipedia.org/wiki/山内翼 "wikilink")→[藤沼豊](https://ja.wikipedia.org/wiki/藤沼豊 "wikilink")
 
 <!-- end list -->
 
@@ -735,11 +735,11 @@
 <!-- end list -->
 
   -
-    第88代天皇。宗尊親王と亀山天皇の父。鎌倉を野蛮と蔑んでいるが、かつて[忠成王との皇位継承争いで北条の力を借りた経緯から幕府からの要求を断れず](https://ja.wikipedia.org/wiki/岩倉宮忠成王 "wikilink")、宗尊親王更迭や惟康王擁立を認めた。
+    第88代天皇。宗尊親王と亀山天皇の父。鎌倉を野蛮と蔑んでいるが、かつて[忠成王との皇位継承争いで北条の力を借りた経緯から幕府からの要求を断れず](../Page/岩倉宮忠成王.md "wikilink")、宗尊親王更迭や惟康王擁立を認めた。
 
 <!-- end list -->
 
-  - [亀山天皇](../Page/亀山天皇.md "wikilink")：[松田洋治](https://ja.wikipedia.org/wiki/松田洋治 "wikilink")
+  - [亀山天皇](../Page/亀山天皇.md "wikilink")：[松田洋治](../Page/松田洋治.md "wikilink")
 
 <!-- end list -->
 
@@ -748,7 +748,7 @@
 
 <!-- end list -->
 
-  - [近衛基平](https://ja.wikipedia.org/wiki/近衛基平 "wikilink")：[宮内敦士](https://ja.wikipedia.org/wiki/宮内敦士 "wikilink")
+  - [近衛基平](../Page/近衛基平.md "wikilink")：[宮内敦士](../Page/宮内敦士.md "wikilink")
 
 <!-- end list -->
 
@@ -758,7 +758,7 @@
 
 <!-- end list -->
 
-  - [一条実経](https://ja.wikipedia.org/wiki/一条実経 "wikilink")：[井上順](https://ja.wikipedia.org/wiki/井上順 "wikilink")
+  - [一条実経](../Page/一条実経.md "wikilink")：[井上順](../Page/井上順.md "wikilink")
 
 <!-- end list -->
 
@@ -767,12 +767,12 @@
 
 <!-- end list -->
 
-  - [西園寺実氏](https://ja.wikipedia.org/wiki/西園寺実氏 "wikilink")：[大木実](https://ja.wikipedia.org/wiki/大木実 "wikilink")
+  - [西園寺実氏](../Page/西園寺実氏.md "wikilink")：[大木実](https://ja.wikipedia.org/wiki/大木実 "wikilink")
 
 <!-- end list -->
 
   -
-    元太政大臣。[関東申次](https://ja.wikipedia.org/wiki/関東申次 "wikilink")。
+    元太政大臣。[関東申次](../Page/関東申次.md "wikilink")。
 
 ### 蒙古・大元・高麗
 
@@ -796,7 +796,7 @@
 
 <!-- end list -->
 
-  - [チャブイ](https://ja.wikipedia.org/wiki/チャブイ "wikilink")：[シュウレンホアル](https://ja.wikipedia.org/wiki/シュウレンホアル "wikilink")
+  - [チャブイ](../Page/チャブイ.md "wikilink")：[シュウレンホアル](https://ja.wikipedia.org/wiki/シュウレンホアル "wikilink")
 
 <!-- end list -->
 
@@ -805,7 +805,7 @@
 
 <!-- end list -->
 
-  - [チンキム](https://ja.wikipedia.org/wiki/チンキム "wikilink")：
+  - [チンキム](../Page/チンキム.md "wikilink")：
 
 <!-- end list -->
 
@@ -814,7 +814,7 @@
 
 <!-- end list -->
 
-  - [アフマド](https://ja.wikipedia.org/wiki/アフマド・ファナーカティー "wikilink")：
+  - [アフマド](../Page/アフマド・ファナーカティー.md "wikilink")：
 
 <!-- end list -->
 
@@ -859,7 +859,7 @@
 
 <!-- end list -->
 
-  - [潘阜](https://ja.wikipedia.org/wiki/潘阜 "wikilink")：[錦野旦](https://ja.wikipedia.org/wiki/錦野旦 "wikilink")
+  - [潘阜](https://ja.wikipedia.org/wiki/潘阜 "wikilink")：[錦野旦](../Page/錦野旦.md "wikilink")
 
 <!-- end list -->
 
@@ -878,7 +878,7 @@
 
 <!-- end list -->
 
-  - [洪茶丘](https://ja.wikipedia.org/wiki/洪茶丘 "wikilink")：[翁華栄](https://ja.wikipedia.org/wiki/翁華栄 "wikilink")
+  - [洪茶丘](../Page/洪茶丘.md "wikilink")：[翁華栄](https://ja.wikipedia.org/wiki/翁華栄 "wikilink")
 
 <!-- end list -->
 
@@ -887,7 +887,7 @@
 
 <!-- end list -->
 
-  - [金方慶](https://ja.wikipedia.org/wiki/金方慶 "wikilink")：[戴書華](https://ja.wikipedia.org/wiki/戴書華 "wikilink")
+  - [金方慶](../Page/金方慶.md "wikilink")：[戴書華](https://ja.wikipedia.org/wiki/戴書華 "wikilink")
 
 <!-- end list -->
 
@@ -905,7 +905,7 @@
 
 ### その他
 
-  - [謝国明](https://ja.wikipedia.org/wiki/謝国明 "wikilink")：[北大路欣也](https://ja.wikipedia.org/wiki/北大路欣也 "wikilink")
+  - [謝国明](https://ja.wikipedia.org/wiki/謝国明 "wikilink")：[北大路欣也](../Page/北大路欣也.md "wikilink")
 
 <!-- end list -->
 
@@ -915,7 +915,7 @@
 
 <!-- end list -->
 
-  - 美岬：[藤あや子](https://ja.wikipedia.org/wiki/藤あや子 "wikilink")
+  - 美岬：[藤あや子](../Page/藤あや子.md "wikilink")
 
 <!-- end list -->
 
@@ -924,7 +924,7 @@
 
 <!-- end list -->
 
-  - 謝太郎：[松重豊](https://ja.wikipedia.org/wiki/松重豊 "wikilink")
+  - 謝太郎：[松重豊](../Page/松重豊.md "wikilink")
 
 <!-- end list -->
 
@@ -933,7 +933,7 @@
 
 <!-- end list -->
 
-  - 蓮華：[神田うの](https://ja.wikipedia.org/wiki/神田うの "wikilink")
+  - 蓮華：[神田うの](../Page/神田うの.md "wikilink")
 
 <!-- end list -->
 
@@ -947,12 +947,12 @@
 <!-- end list -->
 
   -
-    水軍[松浦党](https://ja.wikipedia.org/wiki/松浦党 "wikilink")の頭領。
+    水軍[松浦党](../Page/松浦党.md "wikilink")の頭領。
     謝国明と親しく、諸国見聞中の時頼・時宗親子とも交流。[蒙古襲来](https://ja.wikipedia.org/wiki/蒙古襲来 "wikilink")の際に息子たちを蒙古兵に殺され、その恨みを晴らすために大元に渡ってクビライを暗殺しようとするが、討ち取られた。
 
 <!-- end list -->
 
-  - 桐子（とうこ）：[磯部詩織](https://ja.wikipedia.org/wiki/磯部詩織 "wikilink")→[邑野未亜](https://ja.wikipedia.org/wiki/邑野みあ "wikilink")→[木村佳乃](https://ja.wikipedia.org/wiki/木村佳乃 "wikilink")
+  - 桐子（とうこ）：[磯部詩織](https://ja.wikipedia.org/wiki/磯部詩織 "wikilink")→[邑野未亜](../Page/邑野みあ.md "wikilink")→[木村佳乃](https://ja.wikipedia.org/wiki/木村佳乃 "wikilink")
 
 <!-- end list -->
 
@@ -983,7 +983,7 @@
 
 <!-- end list -->
 
-  - [佐志勇](https://ja.wikipedia.org/wiki/佐志勇 "wikilink")：[常盤祐貴](https://ja.wikipedia.org/wiki/常盤祐貴 "wikilink")→[工藤幾未](https://ja.wikipedia.org/wiki/工藤幾未 "wikilink")→[吉守京太](https://ja.wikipedia.org/wiki/吉守京太 "wikilink")
+  - [佐志勇](https://ja.wikipedia.org/wiki/佐志勇 "wikilink")：[常盤祐貴](../Page/常盤祐貴.md "wikilink")→[工藤幾未](https://ja.wikipedia.org/wiki/工藤幾未 "wikilink")→[吉守京太](https://ja.wikipedia.org/wiki/吉守京太 "wikilink")
 
 <!-- end list -->
 
@@ -1002,19 +1002,19 @@
 
 <!-- end list -->
 
-  - [日蓮](../Page/日蓮.md "wikilink")：[奥田瑛二](https://ja.wikipedia.org/wiki/奥田瑛二 "wikilink")
+  - [日蓮](../Page/日蓮.md "wikilink")：[奥田瑛二](../Page/奥田瑛二.md "wikilink")
 
 <!-- end list -->
 
   -
-    日蓮宗の開祖。[立正安国論](https://ja.wikipedia.org/wiki/立正安国論 "wikilink")を著し、繰り返し他宗や幕府を批判する。
+    日蓮宗の開祖。[立正安国論](../Page/立正安国論.md "wikilink")を著し、繰り返し他宗や幕府を批判する。
     時宗の母涼子は公然と幕府を批判する彼に関心を持ち、しばしば彼のもとを訪れて意見を通わせていた。
     平頼綱と初めてあった際、彼を「偽りを生きる者」と看破し、以降頼綱から激しい憎しみを向けられる。
     頼綱の主導で幕府に処刑されかかるも、涼子や祝子の説得を受けた時宗により寸前のところで助命された。
 
 <!-- end list -->
 
-  - [無学祖元](https://ja.wikipedia.org/wiki/無学祖元 "wikilink")：[筒井康隆](../Page/筒井康隆.md "wikilink")
+  - [無学祖元](../Page/無学祖元.md "wikilink")：[筒井康隆](../Page/筒井康隆.md "wikilink")
 
 <!-- end list -->
 
@@ -1023,34 +1023,34 @@
 
 ## スタッフ
 
-  - 原案：[高橋克彦](https://ja.wikipedia.org/wiki/高橋克彦 "wikilink")（『時宗』より）
-  - 脚本：[井上由美子](https://ja.wikipedia.org/wiki/井上由美子_\(脚本家\) "wikilink")
-  - 音楽・指揮：[栗山和樹](https://ja.wikipedia.org/wiki/栗山和樹 "wikilink")
+  - 原案：[高橋克彦](../Page/高橋克彦.md "wikilink")（『時宗』より）
+  - 脚本：[井上由美子](../Page/井上由美子_\(脚本家\).md "wikilink")
+  - 音楽・指揮：[栗山和樹](../Page/栗山和樹.md "wikilink")
   - テーマ音楽演奏：[NHK交響楽団](../Page/NHK交響楽団.md "wikilink")
-  - テーマ音楽指揮：[尾高忠明](https://ja.wikipedia.org/wiki/尾高忠明 "wikilink")
-  - 演奏・歌：[ジェフリー・バルバダクス](https://ja.wikipedia.org/wiki/ジェフリー・バルバダクス "wikilink")、[ノロヴバンザド](https://ja.wikipedia.org/wiki/ノロヴバンザド "wikilink")、[東京オペラシンガーズ](https://ja.wikipedia.org/wiki/東京オペラシンガーズ "wikilink")
-  - ピアノ演奏（「時宗紀行」のみ）：[山下洋輔](https://ja.wikipedia.org/wiki/山下洋輔 "wikilink")
-  - 時代考証：[奥富敬之](https://ja.wikipedia.org/wiki/奥富敬之 "wikilink")、[杉山正明](https://ja.wikipedia.org/wiki/杉山正明 "wikilink")
-  - 風俗考証：[二木謙一](https://ja.wikipedia.org/wiki/二木謙一 "wikilink")
+  - テーマ音楽指揮：[尾高忠明](../Page/尾高忠明.md "wikilink")
+  - 演奏・歌：[ジェフリー・バルバダクス](https://ja.wikipedia.org/wiki/ジェフリー・バルバダクス "wikilink")、[ノロヴバンザド](../Page/ノロヴバンザド.md "wikilink")、[東京オペラシンガーズ](https://ja.wikipedia.org/wiki/東京オペラシンガーズ "wikilink")
+  - ピアノ演奏（「時宗紀行」のみ）：[山下洋輔](../Page/山下洋輔.md "wikilink")
+  - 時代考証：[奥富敬之](../Page/奥富敬之.md "wikilink")、[杉山正明](../Page/杉山正明.md "wikilink")
+  - 風俗考証：[二木謙一](../Page/二木謙一.md "wikilink")
   - 建築考証：[平井聖](https://ja.wikipedia.org/wiki/平井聖 "wikilink")
-  - 衣裳考証：[小泉清子](https://ja.wikipedia.org/wiki/小泉清子 "wikilink")
+  - 衣裳考証：[小泉清子](../Page/小泉清子.md "wikilink")
   - 船舶考証：[山形欣哉](https://ja.wikipedia.org/wiki/山形欣哉 "wikilink")
   - 所作指導：[西川箕之助](https://ja.wikipedia.org/wiki/西川箕之助 "wikilink")
   - 殺陣武術指導：[林邦史朗](https://ja.wikipedia.org/wiki/林邦史朗 "wikilink")
   - 馬術指導：[日馬伸](https://ja.wikipedia.org/wiki/日馬伸 "wikilink")
   - 御所ことば指導：[堀井令以知](https://ja.wikipedia.org/wiki/堀井令以知 "wikilink")、[井上裕季子](https://ja.wikipedia.org/wiki/井上裕季子 "wikilink")
-  - モンゴル語指導：[フフバートル](https://ja.wikipedia.org/wiki/フフバートル "wikilink")
+  - モンゴル語指導：[フフバートル](../Page/フフバートル.md "wikilink")
   - 高麗語指導：[金裕鴻](https://ja.wikipedia.org/wiki/金裕鴻 "wikilink")
   - 中国語指導：[呉梅](https://ja.wikipedia.org/wiki/呉梅 "wikilink")
   - 熊本ことば指導：[山田孝子](https://ja.wikipedia.org/wiki/山田孝子 "wikilink")
   - 琵琶指導：[須田誠舟](https://ja.wikipedia.org/wiki/須田誠舟 "wikilink")
   - 書道指導：[望月暁云](https://ja.wikipedia.org/wiki/望月暁云 "wikilink")
-  - 副音声解説：[佐久田脩](https://ja.wikipedia.org/wiki/佐久田脩 "wikilink")
+  - 副音声解説：[佐久田脩](../Page/佐久田脩.md "wikilink")
   - 資料提供：[石川教張](https://ja.wikipedia.org/wiki/石川教張 "wikilink")
   - コーディネーター：[張加貝](https://ja.wikipedia.org/wiki/張加貝 "wikilink")、[李岳林](https://ja.wikipedia.org/wiki/李岳林 "wikilink")
   - タイトル映像：[内山嗣康](https://ja.wikipedia.org/wiki/内山嗣康 "wikilink")、[アルバート・ボノフ](https://ja.wikipedia.org/wiki/アルバート・ボノフ "wikilink")
-  - 撮影協力：[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")、福岡県[志摩町](https://ja.wikipedia.org/wiki/志摩町_\(福岡県\) "wikilink")、[長崎県](../Page/長崎県.md "wikilink")[長崎市](https://ja.wikipedia.org/wiki/長崎市 "wikilink")、長崎県[高島町](https://ja.wikipedia.org/wiki/高島町_\(長崎県\) "wikilink")（現・長崎市）、[岩手県](../Page/岩手県.md "wikilink")[江刺市](https://ja.wikipedia.org/wiki/江刺市 "wikilink")（現・[奥州市](https://ja.wikipedia.org/wiki/奥州市 "wikilink")）、[円覚寺](../Page/円覚寺.md "wikilink")、[東慶寺](../Page/東慶寺.md "wikilink")、内蒙古映画制作所、[みちのく北方漁船博物館](https://ja.wikipedia.org/wiki/みちのく北方漁船博物館 "wikilink")
-  - 語り：[十朱幸代](https://ja.wikipedia.org/wiki/十朱幸代 "wikilink")、[松本和也](https://ja.wikipedia.org/wiki/松本和也 "wikilink")アナウンサー（アバンタイトル）、[高橋美鈴](https://ja.wikipedia.org/wiki/高橋美鈴 "wikilink")アナウンサー（時宗紀行）
+  - 撮影協力：[福岡県](../Page/福岡県.md "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")、福岡県[志摩町](https://ja.wikipedia.org/wiki/志摩町_\(福岡県\) "wikilink")、[長崎県](../Page/長崎県.md "wikilink")[長崎市](../Page/長崎市.md "wikilink")、長崎県[高島町](../Page/高島町_\(長崎県\).md "wikilink")（現・長崎市）、[岩手県](../Page/岩手県.md "wikilink")[江刺市](../Page/江刺市.md "wikilink")（現・[奥州市](../Page/奥州市.md "wikilink")）、[円覚寺](../Page/円覚寺.md "wikilink")、[東慶寺](../Page/東慶寺.md "wikilink")、内蒙古映画制作所、[みちのく北方漁船博物館](../Page/みちのく北方漁船博物館.md "wikilink")
+  - 語り：[十朱幸代](../Page/十朱幸代.md "wikilink")、[松本和也](../Page/松本和也.md "wikilink")アナウンサー（アバンタイトル）、[高橋美鈴](https://ja.wikipedia.org/wiki/高橋美鈴 "wikilink")アナウンサー（時宗紀行）
   - 制作統括：[阿部康彦](https://ja.wikipedia.org/wiki/阿部康彦 "wikilink")
   - 制作：[山本秀人](https://ja.wikipedia.org/wiki/山本秀人 "wikilink")、[出水有三](https://ja.wikipedia.org/wiki/出水有三 "wikilink")
   - 美術：稲葉寿一、鈴木利明、斉藤健治
@@ -1068,58 +1068,58 @@
 
 ### 放送日程
 
-| 放送回                                                                                                                                        | 放送日    | サブタイトル         | 演出    |
-| ------------------------------------------------------------------------------------------------------------------------------------------ | ------ | -------------- | ----- |
-| 第1回                                                                                                                                        | 1月7日   | 鎌倉大激震          | 吉村芳之  |
-| 第2回                                                                                                                                        | 1月14日  | ふたりの母          |       |
-| 第3回                                                                                                                                        | 1月21日  | 兄弟落差           |       |
-| 第4回                                                                                                                                        | 1月28日  | 反抗             |       |
-| 第5回                                                                                                                                        | 2月4日   | 波乱の旅           | 吉川邦夫  |
-| 第6回                                                                                                                                        | 2月11日  | 博多恋心           |       |
-| 第7回                                                                                                                                        | 2月18日  | 執権修行           |       |
-| 第8回                                                                                                                                        | 2月25日  | 逃げた花嫁          | 吉村芳之  |
-| 第9回                                                                                                                                        | 3月4日   | 決闘由比ヶ浜         |       |
-| 第10回                                                                                                                                       | 3月11日  | ひとり立ち          |       |
-| 第11回                                                                                                                                       | 3月18日  | 時頼絶命           | 吉川邦夫  |
-| 第12回                                                                                                                                       | 3月25日  | 暗殺             |       |
-| 第13回                                                                                                                                       | 4月1日   | 大いなる岐路         | 吉村芳之  |
-| 第14回                                                                                                                                       | 4月8日   | 兄の追放           |       |
-| 第15回                                                                                                                                       | 4月15日  | 母上ご乱心          | 渡邊良雄  |
-| 第16回                                                                                                                                       | 4月22日  | 将軍すげ替え         |       |
-| 第17回                                                                                                                                       | 4月29日  | クビライの影         | 吉川邦夫  |
-| 第18回                                                                                                                                       | 5月6日   | 国書来る           |       |
-| 第19回                                                                                                                                       | 5月13日  | 戦か属国か          | 城谷厚司  |
-| 第20回                                                                                                                                       | 5月20日  | 十八歳の執権         |       |
-| 第21回                                                                                                                                       | 5月27日  | 初陣             | 吉川邦夫  |
-| 第22回                                                                                                                                       | 6月3日   | 京の闇            | 吉村芳之  |
-| 第23回                                                                                                                                       | 6月10日  | 人質             | 吉田浩樹  |
-| 第24回                                                                                                                                       | 6月17日  | 高麗からの文         | 吉村芳之  |
-| 第25回                                                                                                                                       | 6月24日  | 最後通告           | 城谷厚司  |
-| 第26回                                                                                                                                       | 7月1日   | 兄弟の絆           | 吉田浩樹  |
-| 第27回                                                                                                                                       | 7月8日   | ご謀反許さず         | 吉村芳之  |
-| 第28回                                                                                                                                       | 7月15日  | あの兄を討て！        |       |
-| 第29回                                                                                                                                       | 7月22日  | さらば兄上          |       |
-| 第30回                                                                                                                                       | 7月29日  | 長老死す           | 城谷厚司  |
-| 第31回                                                                                                                                       | 8月5日   | 出撃命令           |       |
-| 第32回                                                                                                                                       | 8月12日  | いざ博多へ！         | 真鍋斎   |
-| 第33回                                                                                                                                       | 8月19日  | 蒙古襲来前夜         |       |
-| 第34回                                                                                                                                       | 8月26日  | 蒙古襲来〈1〉九百隻の大船団 | 吉村芳之  |
-| 第35回                                                                                                                                       | 9月2日   | 蒙古襲来〈2〉奮戦！ 水軍城 |       |
-| 第36回                                                                                                                                       | 9月9日   | 蒙古襲来〈3〉 博多炎上   | 真鍋斎   |
-| 第37回                                                                                                                                       | 9月16日  | 謎の撤兵           | 吉村芳之  |
-| 第38回                                                                                                                                       | 9月23日  | 攻めか守りか         | 城谷厚司  |
-| 第39回                                                                                                                                       | 9月30日  | ねらわれた姫君        |       |
-| 第40回                                                                                                                                       | 10月7日  | 消えた使節団         | 吉田浩樹  |
-| 第41回                                                                                                                                       | 10月14日 | 斬るべからず         | 吉村芳之  |
-| 第42回                                                                                                                                       | 10月21日 | いのち尽きるとも       | 真鍋斎   |
-| 第43回                                                                                                                                       | 10月28日 | 幕府分裂           | 松浦善之助 |
-| 第44回                                                                                                                                       | 11月4日  | 妻のなみだ          | 勝田夏子  |
-| 第45回                                                                                                                                       | 11月11日 | わが祖国           | 吉村芳之  |
-| 第46回                                                                                                                                       | 11月18日 | クビライを討て！       |       |
-| 第47回                                                                                                                                       | 11月25日 | 弘安の役           | 勝田夏子  |
-| 第48回                                                                                                                                       | 12月2日  | 運命の嵐           | 吉村芳之  |
-| 最終回                                                                                                                                        | 12月9日  | 永遠の旅           |       |
-| 平均視聴率 18.5%（視聴率は[関東地区](https://ja.wikipedia.org/wiki/関東地方 "wikilink")・[ビデオリサーチ](https://ja.wikipedia.org/wiki/ビデオリサーチ "wikilink")社調べ）\[4\] |        |                |       |
+| 放送回                                                                                                                     | 放送日    | サブタイトル         | 演出    |
+| ----------------------------------------------------------------------------------------------------------------------- | ------ | -------------- | ----- |
+| 第1回                                                                                                                     | 1月7日   | 鎌倉大激震          | 吉村芳之  |
+| 第2回                                                                                                                     | 1月14日  | ふたりの母          |       |
+| 第3回                                                                                                                     | 1月21日  | 兄弟落差           |       |
+| 第4回                                                                                                                     | 1月28日  | 反抗             |       |
+| 第5回                                                                                                                     | 2月4日   | 波乱の旅           | 吉川邦夫  |
+| 第6回                                                                                                                     | 2月11日  | 博多恋心           |       |
+| 第7回                                                                                                                     | 2月18日  | 執権修行           |       |
+| 第8回                                                                                                                     | 2月25日  | 逃げた花嫁          | 吉村芳之  |
+| 第9回                                                                                                                     | 3月4日   | 決闘由比ヶ浜         |       |
+| 第10回                                                                                                                    | 3月11日  | ひとり立ち          |       |
+| 第11回                                                                                                                    | 3月18日  | 時頼絶命           | 吉川邦夫  |
+| 第12回                                                                                                                    | 3月25日  | 暗殺             |       |
+| 第13回                                                                                                                    | 4月1日   | 大いなる岐路         | 吉村芳之  |
+| 第14回                                                                                                                    | 4月8日   | 兄の追放           |       |
+| 第15回                                                                                                                    | 4月15日  | 母上ご乱心          | 渡邊良雄  |
+| 第16回                                                                                                                    | 4月22日  | 将軍すげ替え         |       |
+| 第17回                                                                                                                    | 4月29日  | クビライの影         | 吉川邦夫  |
+| 第18回                                                                                                                    | 5月6日   | 国書来る           |       |
+| 第19回                                                                                                                    | 5月13日  | 戦か属国か          | 城谷厚司  |
+| 第20回                                                                                                                    | 5月20日  | 十八歳の執権         |       |
+| 第21回                                                                                                                    | 5月27日  | 初陣             | 吉川邦夫  |
+| 第22回                                                                                                                    | 6月3日   | 京の闇            | 吉村芳之  |
+| 第23回                                                                                                                    | 6月10日  | 人質             | 吉田浩樹  |
+| 第24回                                                                                                                    | 6月17日  | 高麗からの文         | 吉村芳之  |
+| 第25回                                                                                                                    | 6月24日  | 最後通告           | 城谷厚司  |
+| 第26回                                                                                                                    | 7月1日   | 兄弟の絆           | 吉田浩樹  |
+| 第27回                                                                                                                    | 7月8日   | ご謀反許さず         | 吉村芳之  |
+| 第28回                                                                                                                    | 7月15日  | あの兄を討て！        |       |
+| 第29回                                                                                                                    | 7月22日  | さらば兄上          |       |
+| 第30回                                                                                                                    | 7月29日  | 長老死す           | 城谷厚司  |
+| 第31回                                                                                                                    | 8月5日   | 出撃命令           |       |
+| 第32回                                                                                                                    | 8月12日  | いざ博多へ！         | 真鍋斎   |
+| 第33回                                                                                                                    | 8月19日  | 蒙古襲来前夜         |       |
+| 第34回                                                                                                                    | 8月26日  | 蒙古襲来〈1〉九百隻の大船団 | 吉村芳之  |
+| 第35回                                                                                                                    | 9月2日   | 蒙古襲来〈2〉奮戦！ 水軍城 |       |
+| 第36回                                                                                                                    | 9月9日   | 蒙古襲来〈3〉 博多炎上   | 真鍋斎   |
+| 第37回                                                                                                                    | 9月16日  | 謎の撤兵           | 吉村芳之  |
+| 第38回                                                                                                                    | 9月23日  | 攻めか守りか         | 城谷厚司  |
+| 第39回                                                                                                                    | 9月30日  | ねらわれた姫君        |       |
+| 第40回                                                                                                                    | 10月7日  | 消えた使節団         | 吉田浩樹  |
+| 第41回                                                                                                                    | 10月14日 | 斬るべからず         | 吉村芳之  |
+| 第42回                                                                                                                    | 10月21日 | いのち尽きるとも       | 真鍋斎   |
+| 第43回                                                                                                                    | 10月28日 | 幕府分裂           | 松浦善之助 |
+| 第44回                                                                                                                    | 11月4日  | 妻のなみだ          | 勝田夏子  |
+| 第45回                                                                                                                    | 11月11日 | わが祖国           | 吉村芳之  |
+| 第46回                                                                                                                    | 11月18日 | クビライを討て！       |       |
+| 第47回                                                                                                                    | 11月25日 | 弘安の役           | 勝田夏子  |
+| 第48回                                                                                                                    | 12月2日  | 運命の嵐           | 吉村芳之  |
+| 最終回                                                                                                                     | 12月9日  | 永遠の旅           |       |
+| 平均視聴率 18.5%（視聴率は[関東地区](https://ja.wikipedia.org/wiki/関東地方 "wikilink")・[ビデオリサーチ](../Page/ビデオリサーチ.md "wikilink")社調べ）\[4\] |        |                |       |
 
 ### 総集編
 
@@ -1142,7 +1142,7 @@
 
 [Category:2001年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2001年のテレビドラマ "wikilink") [Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:NHK福岡](https://ja.wikipedia.org/wiki/Category:NHK福岡 "wikilink") [Category:井上由美子脚本のテレビドラマ](https://ja.wikipedia.org/wiki/Category:井上由美子脚本のテレビドラマ "wikilink") [Category:高橋克彦原作のテレビドラマ](https://ja.wikipedia.org/wiki/Category:高橋克彦原作のテレビドラマ "wikilink") [Category:鎌倉時代を舞台とした作品](https://ja.wikipedia.org/wiki/Category:鎌倉時代を舞台とした作品 "wikilink") [Category:元寇を題材とした作品](https://ja.wikipedia.org/wiki/Category:元寇を題材とした作品 "wikilink") [Category:神奈川県を舞台とした作品](https://ja.wikipedia.org/wiki/Category:神奈川県を舞台とした作品 "wikilink") [Category:福岡県を舞台とした作品](https://ja.wikipedia.org/wiki/Category:福岡県を舞台とした作品 "wikilink") [Category:モンゴル帝国を舞台とした作品](https://ja.wikipedia.org/wiki/Category:モンゴル帝国を舞台とした作品 "wikilink") [Category:元朝を舞台とした作品](https://ja.wikipedia.org/wiki/Category:元朝を舞台とした作品 "wikilink") [Category:テレビドラマ連動データ放送](https://ja.wikipedia.org/wiki/Category:テレビドラマ連動データ放送 "wikilink") [Category:NHKオンデマンド配信番組](https://ja.wikipedia.org/wiki/Category:NHKオンデマンド配信番組 "wikilink") [Category:北条時宗](https://ja.wikipedia.org/wiki/Category:北条時宗 "wikilink") [Category:クビライ](https://ja.wikipedia.org/wiki/Category:クビライ "wikilink")
 
-1.  1979年放送の『[草燃える](https://ja.wikipedia.org/wiki/草燃える "wikilink")』は鎌倉時代前期、1991年放送の『[太平記](../Page/太平記_\(NHK大河ドラマ\).md "wikilink")』は鎌倉時代後期を扱った
+1.  1979年放送の『[草燃える](../Page/草燃える.md "wikilink")』は鎌倉時代前期、1991年放送の『[太平記](../Page/太平記_\(NHK大河ドラマ\).md "wikilink")』は鎌倉時代後期を扱った
 2.  鈴木嘉一『大河ドラマの50年』、中央公論新社、2011年
 3.  [ビデオリサーチ NHK大河ドラマ 過去の視聴率データ](http://www.videor.co.jp/data/ratedata/program/03taiga.htm)
 4.

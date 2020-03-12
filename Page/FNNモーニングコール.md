@@ -5,9 +5,9 @@
 
 ## 番組の概要
 
-前身の『[FNNモーニングワイド ニュース&スポーツ](https://ja.wikipedia.org/wiki/FNNモーニングワイド_ニュース&スポーツ "wikilink")』を[目玉マーク](https://ja.wikipedia.org/wiki/目玉マーク "wikilink")登場に伴いリニューアル、改題してスタートされた。
+前身の『[FNNモーニングワイド ニュース&スポーツ](../Page/FNNモーニングワイド_ニュース&スポーツ.md "wikilink")』を[目玉マーク](../Page/目玉マーク.md "wikilink")登場に伴いリニューアル、改題してスタートされた。
 
-1989年4月、『[トークシャワー](https://ja.wikipedia.org/wiki/トークシャワー "wikilink")』の開始に伴い30分番組に縮小。さらに1990年4月に『[FNN朝駆け第一報\!](../Page/FNN朝駆け第一報!.md "wikilink")』の開始に伴い、番組は4年間の放送に幕を閉じた。
+1989年4月、『[トークシャワー](../Page/トークシャワー.md "wikilink")』の開始に伴い30分番組に縮小。さらに1990年4月に『[FNN朝駆け第一報\!](../Page/FNN朝駆け第一報!.md "wikilink")』の開始に伴い、番組は4年間の放送に幕を閉じた。
 
 この番組以前から、産経新聞が協力しており、フジテレビにおいては、提供表示の後に「協力　サンケイ(1988年から1990年までは協力　産經)」と表示されていた。
 
@@ -15,11 +15,11 @@
 
 <!-- end list -->
 
-  - [関西テレビでは当番組開始以前からローカル差し替えが多かったことから](../Page/関西テレビ放送.md "wikilink")、独自タイトルの『[ザ・モーニング630](https://ja.wikipedia.org/wiki/ザ・モーニング630 "wikilink")』（1988年以降は『[朝特急630](https://ja.wikipedia.org/wiki/朝特急630 "wikilink")』）というタイトルとし、全国ニュース枠以外は基本的に自社制作の内容に差し替えていた。また、『トークシャワー』の開始により本編が30分枠となった1989年度は全国ネットパートを『トークシャワー』に集約した上で全編自社制作とされ、全国ニュースについてもフジテレビのニュース素材を流用して自社のスタジオから伝えていた。このため、この時期の朝のFNNニュースのネットは週末を除いて事実上途絶えていた。
+  - [関西テレビでは当番組開始以前からローカル差し替えが多かったことから](../Page/関西テレビ放送.md "wikilink")、独自タイトルの『[ザ・モーニング630](../Page/ザ・モーニング630.md "wikilink")』（1988年以降は『[朝特急630](https://ja.wikipedia.org/wiki/朝特急630 "wikilink")』）というタイトルとし、全国ニュース枠以外は基本的に自社制作の内容に差し替えていた。また、『トークシャワー』の開始により本編が30分枠となった1989年度は全国ネットパートを『トークシャワー』に集約した上で全編自社制作とされ、全国ニュースについてもフジテレビのニュース素材を流用して自社のスタジオから伝えていた。このため、この時期の朝のFNNニュースのネットは週末を除いて事実上途絶えていた。
 
 <!-- end list -->
 
-  - [東海テレビでも](../Page/東海テレビ放送.md "wikilink")、ローカル差し替え枠を多く確保しており、毎日40分間程度を自社制作していた。ローカル差し替え枠では開始当初、いずれも東海テレビの当時の局アナウンサーだった[磯野正典](https://ja.wikipedia.org/wiki/磯野正典 "wikilink")アナウンサーと[岡山玲子](https://ja.wikipedia.org/wiki/岡山玲子 "wikilink")\[1\]のコンビが、後に[宗宮修一](https://ja.wikipedia.org/wiki/宗宮修一 "wikilink")、[猪谷香](https://ja.wikipedia.org/wiki/猪谷香 "wikilink")らがキャスターを担当した。
+  - [東海テレビでも](../Page/東海テレビ放送.md "wikilink")、ローカル差し替え枠を多く確保しており、毎日40分間程度を自社制作していた。ローカル差し替え枠では開始当初、いずれも東海テレビの当時の局アナウンサーだった[磯野正典](../Page/磯野正典.md "wikilink")アナウンサーと[岡山玲子](https://ja.wikipedia.org/wiki/岡山玲子 "wikilink")\[1\]のコンビが、後に[宗宮修一](https://ja.wikipedia.org/wiki/宗宮修一 "wikilink")、[猪谷香](https://ja.wikipedia.org/wiki/猪谷香 "wikilink")らがキャスターを担当した。
 
 ## 放送時間
 
@@ -66,7 +66,7 @@
 
 ### 番組初期（1986年4月 - 1987年3月）
 
-FNN初の大型ニュースワイド番組『[FNNモーニングワイド ニュース&スポーツ](https://ja.wikipedia.org/wiki/FNNモーニングワイド_ニュース&スポーツ "wikilink")』（[鹿内信隆](https://ja.wikipedia.org/wiki/鹿内信隆 "wikilink")時代末期に放送開始）の後継番組で、当時のフジテレビ会長だった[鹿内春雄](https://ja.wikipedia.org/wiki/鹿内春雄 "wikilink")のめざしていた「やわらかいニュース番組を」というコンセプトで放送が開始された。
+FNN初の大型ニュースワイド番組『[FNNモーニングワイド ニュース&スポーツ](../Page/FNNモーニングワイド_ニュース&スポーツ.md "wikilink")』（[鹿内信隆](../Page/鹿内信隆.md "wikilink")時代末期に放送開始）の後継番組で、当時のフジテレビ会長だった[鹿内春雄](../Page/鹿内春雄.md "wikilink")のめざしていた「やわらかいニュース番組を」というコンセプトで放送が開始された。
 
 さらに、キャスターとして起用された川端は入社3年目、長野は入社2年目とフレッシュな顔ぶれ。さらにこの2人は、番組のテーマソング『気分は、はじけるピーチ』を歌い、レコード発売もされた。コーナーはニュース、スポーツのほか、[ネット局](https://ja.wikipedia.org/wiki/ネット局 "wikilink")リレー中継も放送された。また、[新宿](https://ja.wikipedia.org/wiki/新宿区 "wikilink")・[スタジオアルタ](../Page/スタジオアルタ.md "wikilink")前からの生中継も毎日行われたほか、海外ニュースや、ファッション情報や、洋楽情報も放送。コーナーキャスターには[バイリンガルDJの](https://ja.wikipedia.org/wiki/二言語話者 "wikilink")[西森マリー](https://ja.wikipedia.org/wiki/西森マリー "wikilink")が起用された。
 
@@ -82,7 +82,7 @@ FNN初の大型ニュースワイド番組『[FNNモーニングワイド ニュ
 
 ### 番組末期（1989年4月 - 1990年3月）
 
-1989年4月以降、中継や企画コーナーなどの要素をすべて、7:00からの新番組『[トークシャワー](https://ja.wikipedia.org/wiki/トークシャワー "wikilink")』に譲り、ストレートニュース番組となる。リニューアル1年後の1990年3月30日に番組は終了。[鹿内宏明](https://ja.wikipedia.org/wiki/鹿内宏明 "wikilink")会長の肝いりで同年4月2日から、6時台を55分のワイドニュース『[FNN朝駆け第一報\!](../Page/FNN朝駆け第一報!.md "wikilink")』、7時台を若者向け情報番組『[グッドモーニングジャパン](../Page/グッドモーニングジャパン.md "wikilink")』へと分割した。
+1989年4月以降、中継や企画コーナーなどの要素をすべて、7:00からの新番組『[トークシャワー](../Page/トークシャワー.md "wikilink")』に譲り、ストレートニュース番組となる。リニューアル1年後の1990年3月30日に番組は終了。[鹿内宏明](../Page/鹿内宏明.md "wikilink")会長の肝いりで同年4月2日から、6時台を55分のワイドニュース『[FNN朝駆け第一報\!](../Page/FNN朝駆け第一報!.md "wikilink")』、7時台を若者向け情報番組『[グッドモーニングジャパン](../Page/グッドモーニングジャパン.md "wikilink")』へと分割した。
 
 ## ネット状況
 
@@ -122,10 +122,10 @@ FNN初の大型ニュースワイド番組『[FNNモーニングワイド ニュ
 <td><p><a href="../Page/秋田県.md" title="wikilink">秋田県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/秋田テレビ" title="wikilink">秋田テレビ</a>(AKT)</p></td>
 <td><p>FNN/<a href="https://ja.wikipedia.org/wiki/All-nippon_News_Network" title="wikilink">ANN</a>→FNN</p></td>
-<td><p>1987年3月まで<a href="https://ja.wikipedia.org/wiki/テレビ朝日" title="wikilink">テレビ朝日</a>の『<a href="../Page/ANNニュースセブン.md" title="wikilink">ANNニュースセブン</a>』も放送のため7:00で<a href="https://ja.wikipedia.org/wiki/飛び降り_(放送)" title="wikilink">飛び降り</a></p></td>
+<td><p>1987年3月まで<a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a>の『<a href="../Page/ANNニュースセブン.md" title="wikilink">ANNニュースセブン</a>』も放送のため7:00で<a href="https://ja.wikipedia.org/wiki/飛び降り_(放送)" title="wikilink">飛び降り</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/山形県" title="wikilink">山形県</a></p></td>
+<td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
 <td><p><a href="../Page/山形テレビ.md" title="wikilink">山形テレビ</a>(YTS)</p></td>
 <td><p>FNN</p></td>
 <td></td>
@@ -175,14 +175,14 @@ FNN初の大型ニュースワイド番組『[FNNモーニングワイド ニュ
 <tr class="odd">
 <td><p><a href="../Page/広域放送.md" title="wikilink">中京広域圏</a></p></td>
 <td><p><a href="../Page/東海テレビ放送.md" title="wikilink">東海テレビ</a>(THK)</p></td>
-<td><p>『<a href="https://ja.wikipedia.org/wiki/FNN東海テレビモーニングコール" title="wikilink">FNN東海テレビモーニングコール</a>』に改題</p></td>
+<td><p>『<a href="../Page/FNN東海テレビモーニングコール.md" title="wikilink">FNN東海テレビモーニングコール</a>』に改題</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/広域放送.md" title="wikilink">近畿広域圏</a></p></td>
 <td><p><a href="../Page/関西テレビ放送.md" title="wikilink">関西テレビ</a>(KTV)</p></td>
-<td><p>『<a href="https://ja.wikipedia.org/wiki/ザ・モーニング630" title="wikilink">ザ・モーニング630</a>』→『朝特急630』に内包<br />
-1989年度は『<a href="https://ja.wikipedia.org/wiki/トークシャワー" title="wikilink">トークシャワー</a>』を除いて非ネット</p></td>
+<td><p>『<a href="../Page/ザ・モーニング630.md" title="wikilink">ザ・モーニング630</a>』→『朝特急630』に内包<br />
+1989年度は『<a href="../Page/トークシャワー.md" title="wikilink">トークシャワー</a>』を除いて非ネット</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -192,7 +192,7 @@ FNN初の大型ニュースワイド番組『[FNNモーニングワイド ニュ
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/岡山県・香川県の放送" title="wikilink">岡山県・香川県</a></p></td>
+<td><p><a href="../Page/岡山県・香川県の放送.md" title="wikilink">岡山県・香川県</a></p></td>
 <td><p><a href="../Page/岡山放送.md" title="wikilink">岡山放送</a>(OHK)</p></td>
 <td></td>
 <td></td>
@@ -210,9 +210,9 @@ FNN初の大型ニュースワイド番組『[FNNモーニングワイド ニュ
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/テレビ西日本.md" title="wikilink">テレビ西日本</a>(TNC)</p></td>
-<td><p>『<a href="https://ja.wikipedia.org/wiki/TNCモーニングコール" title="wikilink">TNCモーニングコール</a>』に改題</p></td>
+<td><p>『<a href="../Page/TNCモーニングコール.md" title="wikilink">TNCモーニングコール</a>』に改題</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -246,10 +246,10 @@ FNN初の大型ニュースワイド番組『[FNNモーニングワイド ニュ
 
 <!-- end list -->
 
-  - **山形テレビ**ではネット中期のころ、この番組のローカルパートとして、『**FNNモーニングコールやまがた**』という山形県内のニュースと気象情報の箱番組を放送した経験がある。 詳しくは[山形テレビ番組一覧](https://ja.wikipedia.org/wiki/山形テレビ番組一覧 "wikilink")を参照。
+  - **山形テレビ**ではネット中期のころ、この番組のローカルパートとして、『**FNNモーニングコールやまがた**』という山形県内のニュースと気象情報の箱番組を放送した経験がある。 詳しくは[山形テレビ番組一覧](../Page/山形テレビ番組一覧.md "wikilink")を参照。
   - **東海テレビ**では内容差し替えにとどまらず、番組テーマ曲「気分は、はじけるピーチ」までも、わざわざ東海テレビ担当キャスター（[宗宮修一](https://ja.wikipedia.org/wiki/宗宮修一 "wikilink")・[岡山玲子](https://ja.wikipedia.org/wiki/岡山玲子 "wikilink")など番組を担当したアナウンサーやタレント）が歌ったバージョンを製作して使用した。また[中部地方](../Page/中部地方.md "wikilink")向け（[新潟総合テレビ](https://ja.wikipedia.org/wiki/新潟総合テレビ "wikilink")を除く）に放送していたコーナーがあった（1986年10月から半年間）。
   - **テレビ西日本**では女性2人がキャスターを務めた。
-  - **沖縄テレビ**では前番組の『FNNモーニングワイド ニュース&スポーツ』では『[FNNテレビ朝刊](https://ja.wikipedia.org/wiki/FNNテレビ朝刊 "wikilink")』に改題し、7時15分からの[飛び乗りで最後の](https://ja.wikipedia.org/wiki/飛び乗り_\(放送\) "wikilink")10分間のみのネットだったが、本番組の開始と同時に[フルネット](https://ja.wikipedia.org/wiki/フルネット "wikilink")となった。その際、同局の放送開始時間を7:00から本番組開始時間の6:30に繰り上げた。
+  - **沖縄テレビ**では前番組の『FNNモーニングワイド ニュース&スポーツ』では『[FNNテレビ朝刊](../Page/FNNテレビ朝刊.md "wikilink")』に改題し、7時15分からの[飛び乗りで最後の](https://ja.wikipedia.org/wiki/飛び乗り_\(放送\) "wikilink")10分間のみのネットだったが、本番組の開始と同時に[フルネット](https://ja.wikipedia.org/wiki/フルネット "wikilink")となった。その際、同局の放送開始時間を7:00から本番組開始時間の6:30に繰り上げた。
 
 ### 備考
 
@@ -261,14 +261,14 @@ FNN初の大型ニュースワイド番組『[FNNモーニングワイド ニュ
 
 同時期にスタートした情報番組
 
-  - [美味しんぼ倶楽部](https://ja.wikipedia.org/wiki/美味しんぼ倶楽部 "wikilink")
+  - [美味しんぼ倶楽部](../Page/美味しんぼ倶楽部.md "wikilink")
 
 [この番組の事前に放送された番組](https://ja.wikipedia.org/wiki/フジテレビ系列早朝の情報番組枠 "wikilink")
 
   - [朝のプロ野球ニュース](../Page/プロ野球ニュース.md "wikilink")（1986年4月 - 1986年9月、6:00 - 6:30）
   - [黄金世代\!](https://ja.wikipedia.org/wiki/黄金世代! "wikilink")（1986年10月 - 1987年3月、同上）
   - [早起きチャンネル520](https://ja.wikipedia.org/wiki/早起きチャンネル520 "wikilink")（1987年7月 - 1988年9月、5:20 - 6:00→5:20 - 5:57）
-  - [プロ野球ニュース](../Page/プロ野球ニュース.md "wikilink")（前日分の[再放送](https://ja.wikipedia.org/wiki/再放送 "wikilink")）（1988年10月 - 1990年3月、5:45 - 6:30）
+  - [プロ野球ニュース](../Page/プロ野球ニュース.md "wikilink")（前日分の[再放送](../Page/再放送.md "wikilink")）（1988年10月 - 1990年3月、5:45 - 6:30）
 
 [Category:FNN番組の歴史](https://ja.wikipedia.org/wiki/Category:FNN番組の歴史 "wikilink") [Category:フジテレビの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビの帯番組の歴史 "wikilink") [Category:フジテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:フジテレビの情報・ワイドショー番組 "wikilink") [Category:1986年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1986年のテレビ番組_\(日本\) "wikilink")
 

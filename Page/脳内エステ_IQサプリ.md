@@ -1,25 +1,25 @@
 > この記事は[ IQ](https://ja.wikipedia.org/wiki/_IQ)から翻訳されています。
 
 
-『**脳内エステ IQサプリ**』（のうないエステ アイキューサプリ）は、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列で](../Page/フジネットワーク.md "wikilink")[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")（[平成](../Page/平成.md "wikilink")16年）[4月24日](../Page/4月24日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")（平成21年）[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")まで毎週[土曜日](../Page/土曜日.md "wikilink")19:00-19:57([JST](../Page/日本標準時.md "wikilink"))に放送されていた[パズル](../Page/パズル.md "wikilink")・[クイズ](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。2006年1月以降は、[字幕放送](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")、[ハイビジョン制作](https://ja.wikipedia.org/wiki/ハイビジョン制作 "wikilink")が実施された。通称は『**IQサプリ**』。
+『**脳内エステ IQサプリ**』（のうないエステ アイキューサプリ）は、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列で](../Page/フジネットワーク.md "wikilink")[2004年](../Page/2004年.md "wikilink")（[平成](../Page/平成.md "wikilink")16年）[4月24日](../Page/4月24日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")（平成21年）[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")まで毎週[土曜日](../Page/土曜日.md "wikilink")19:00-19:57([JST](../Page/日本標準時.md "wikilink"))に放送されていた[パズル](../Page/パズル.md "wikilink")・[クイズ](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。2006年1月以降は、[字幕放送](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")、[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")が実施された。通称は『**IQサプリ**』。
 
 ## 概要
 
 いわゆる解答者の知識に比重を置く通常の[クイズ](../Page/クイズ.md "wikilink")とは異なり、発想の転換・ひらめきを必要とするパズル問題（[IQ問題](../Page/知能指数.md "wikilink")）をメインとする。
 
-改編期の深夜枠・関東ローカルの単発番組として何度か放送されたものが、[2003年](../Page/2003年.md "wikilink")12月29日（月）23:30 - 24:30に全国ネットの[特別番組](https://ja.wikipedia.org/wiki/特別番組 "wikilink")として放送された。[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[4月24日](../Page/4月24日.md "wikilink")からレギュラー番組となり、毎週[土曜日](../Page/土曜日.md "wikilink")19:00 - 19:57（[JST](../Page/日本標準時.md "wikilink")）に[テレビ大分](https://ja.wikipedia.org/wiki/テレビ大分 "wikilink")を除く系列27局で放送された（テレビ大分は時差ネット）。
+改編期の深夜枠・関東ローカルの単発番組として何度か放送されたものが、[2003年](../Page/2003年.md "wikilink")12月29日（月）23:30 - 24:30に全国ネットの[特別番組](../Page/特別番組.md "wikilink")として放送された。[2004年](../Page/2004年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink")からレギュラー番組となり、毎週[土曜日](../Page/土曜日.md "wikilink")19:00 - 19:57（[JST](../Page/日本標準時.md "wikilink")）に[テレビ大分](../Page/テレビ大分.md "wikilink")を除く系列27局で放送された（テレビ大分は時差ネット）。
 
 [FNS各局は](../Page/フジネットワーク.md "wikilink")[日本民間放送連盟](../Page/日本民間放送連盟.md "wikilink")が定めた基準に従い、「児童・青少年に見ていただきたい番組」に推奨していた。
 
-[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[10月23日](../Page/10月23日.md "wikilink")は、[新潟県中越地震](https://ja.wikipedia.org/wiki/新潟県中越地震 "wikilink")による『FNN報道特別番組』の放送に従い休止。
+[2004年](../Page/2004年.md "wikilink")[10月23日](../Page/10月23日.md "wikilink")は、[新潟県中越地震](https://ja.wikipedia.org/wiki/新潟県中越地震 "wikilink")による『FNN報道特別番組』の放送に従い休止。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月30日](../Page/12月30日.md "wikilink")に放送100回を達成。それを記念して『**脳内エステ IQサプリ 第100回超特大生放送SP**』と題して、2時間半の生放送が行われた。
+[2006年](../Page/2006年.md "wikilink")[12月30日](../Page/12月30日.md "wikilink")に放送100回を達成。それを記念して『**脳内エステ IQサプリ 第100回超特大生放送SP**』と題して、2時間半の生放送が行われた。
 
 2008年3月までは[地上デジタルテレビ放送](../Page/地上デジタルテレビ放送.md "wikilink")の[データ放送](../Page/データ放送.md "wikilink")との連動により、視聴者もモヤッとやスッキリの疑似体験ができた。モヤッとボールは右側に表示されたマスターのアニメーションの上に貯まり、モヤッとボールの数とラッキーナンバーが一致するとIQサプリのボードゲームの応募権が得られた。その他、先週の宿題サプリの答えや「サプリdeだ〜れ」の情報の閲覧、一部の放送回では1問だけ問題に参加する事ができた。
 
 2008年4月から9月までは問題が「脳トレQ」と呼ばれるようになり、脳トレを意識した問題が多くなった。さらに、同年10月から12月は宇宙を舞台にブラックマスターと対決する内容に変更、翌年1月から3月は問題が「常識IQ」と呼ばれて一般常識を問う問題がメインになるなど、番組の趣向が大幅に変化した（詳細は後述）。
 
-そして、2009年3月14日放送分をもってレギュラー放送は終了し、約5年間の放送に終止符を打った。総問題数は**2863問**だった。2009年4月からの後番組は『[爆笑レッドカーペット](https://ja.wikipedia.org/wiki/爆笑レッドカーペット "wikilink")』（[水曜日](../Page/水曜日.md "wikilink")22時台から枠移動。土曜日19時台では2010年3月まで放送）。『レッドカーペット』のMCでもある[今田耕司](../Page/今田耕司.md "wikilink")は、同枠に引き続き出演していた。
+そして、2009年3月14日放送分をもってレギュラー放送は終了し、約5年間の放送に終止符を打った。総問題数は**2863問**だった。2009年4月からの後番組は『[爆笑レッドカーペット](../Page/爆笑レッドカーペット.md "wikilink")』（[水曜日](../Page/水曜日.md "wikilink")22時台から枠移動。土曜日19時台では2010年3月まで放送）。『レッドカーペット』のMCでもある[今田耕司](../Page/今田耕司.md "wikilink")は、同枠に引き続き出演していた。
 
 2013年1月22日の『[カスペ\!](../Page/カスペ!.md "wikilink")』枠（19:00 - 20:54）にて、『**復活\!IQサプリ2013 天才軍団に立ち向かえ\!最強スッキリ王大決定戦SP**』と題して、レギュラー放送終了以来の約4年ぶりに特別番組として復活。以降、2013年5月28日・2013年10月15日・2014年5月20日に同枠にて、復活特別番組が計4回放送された。
 
@@ -35,7 +35,7 @@
 
 #### 過去の司会
 
-  - [篠井英介](https://ja.wikipedia.org/wiki/篠井英介 "wikilink")：パイロット版「（IQ）プレゼンター」そして｢モヤッと｣の音声も担当している
+  - [篠井英介](../Page/篠井英介.md "wikilink")：パイロット版「（IQ）プレゼンター」そして｢モヤッと｣の音声も担当している
 
 ### 主任
 
@@ -44,7 +44,7 @@
 ### 秘書（司会補佐）
 
   - [小島奈津子](https://ja.wikipedia.org/wiki/小島奈津子 "wikilink")（初回 - 2005年10月29日、初代秘書）:11月5日放送分をもって降板（当日は解答者で出演）し、中野が引き継いだ。その後、2006年7月1日放送分にVTRで出演。
-  - [中野美奈子](https://ja.wikipedia.org/wiki/中野美奈子 "wikilink")（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")8月13日・20日、2005年11月5日 - 最終回・2013年特番（1月・10月分）・2014年特番、2代目秘書）:2005年8月に小島の代理で2回担当し、同年11月より正式に就任。
+  - [中野美奈子](../Page/中野美奈子.md "wikilink")（[2005年](../Page/2005年.md "wikilink")8月13日・20日、2005年11月5日 - 最終回・2013年特番（1月・10月分）・2014年特番、2代目秘書）:2005年8月に小島の代理で2回担当し、同年11月より正式に就任。
   - [本田朋子](https://ja.wikipedia.org/wiki/本田朋子 "wikilink")（2009年1月17日のみ、秘書代理）:中野が解答者として出演したため、代理担当。
   - [加藤綾子](https://ja.wikipedia.org/wiki/加藤綾子 "wikilink")（2013年特番（1月・5月分、3代目秘書）:1月は中野と共に、5月は単独で担当。10月は問題VTRで出演。
   - [久慈暁子](https://ja.wikipedia.org/wiki/久慈暁子 "wikilink")（2019年特番、4代目秘書）
@@ -52,12 +52,12 @@
 ### レギュラー時代の解答者
 
   - [石塚英彦](../Page/石塚英彦.md "wikilink")（[ホンジャマカ](../Page/ホンジャマカ.md "wikilink")）:当初は準レギュラーで、2004年10月から最終回までレギュラー出演\[4\]。
-  - [ウエンツ瑛士](https://ja.wikipedia.org/wiki/ウエンツ瑛士 "wikilink")\[5\]
+  - [ウエンツ瑛士](../Page/ウエンツ瑛士.md "wikilink")\[5\]
   - [磯野貴理子](../Page/磯野貴理子.md "wikilink")\[6\]:『カスぺ\!』での特番にも4回全て出演した。
   - [カンニング竹山](https://ja.wikipedia.org/wiki/竹山隆範 "wikilink")\[7\]。:対ブラックマスター時代は、ブラックファイターズ側で出演。2014年特番にも出演した。
   - [えなりかずき](../Page/えなりかずき.md "wikilink"):『カスぺ\!』での特番にも4回全て出演した。
   - [山崎邦正](../Page/月亭方正.md "wikilink")\[8\]:主に2時間スペシャルの時のみ出演（レギュラー放送での初出演は2005年12月3日）。
-  - [世界のナベアツ](https://ja.wikipedia.org/wiki/桂三度 "wikilink"):当初は「世界のナベアツサプリ」のコーナーに出演し（解答者としての初出演は、2008年8月16日放送分）、リニューアル後はブラックファイターズの一員として出演。
+  - [世界のナベアツ](../Page/桂三度.md "wikilink"):当初は「世界のナベアツサプリ」のコーナーに出演し（解答者としての初出演は、2008年8月16日放送分）、リニューアル後はブラックファイターズの一員として出演。
 
 ### コーナーでの出題
 
@@ -67,9 +67,9 @@
 
 ### ナレーター
 
-  - [古川登志夫](https://ja.wikipedia.org/wiki/古川登志夫 "wikilink")（2008年9月20日放送分まで）※最終回、および復活特番で復帰。
-  - [鈴木麻里子](https://ja.wikipedia.org/wiki/鈴木麻里子 "wikilink")（2008年9月20日放送分まで）※最終回、および復活特番で復帰。
-  - [稲田徹](https://ja.wikipedia.org/wiki/稲田徹 "wikilink")
+  - [古川登志夫](../Page/古川登志夫.md "wikilink")（2008年9月20日放送分まで）※最終回、および復活特番で復帰。
+  - [鈴木麻里子](../Page/鈴木麻里子.md "wikilink")（2008年9月20日放送分まで）※最終回、および復活特番で復帰。
+  - [稲田徹](../Page/稲田徹.md "wikilink")
 
 <!-- end list -->
 
@@ -80,22 +80,22 @@
 
   - [吉崎典子](../Page/吉崎典子.md "wikilink")（フジテレビアナウンサー ナレーター陣で唯一深夜時代から担当している）
   - [三石琴乃](../Page/三石琴乃.md "wikilink")（2008年10月からレギュラー放送最終回まで）
-  - [吉田伸男](https://ja.wikipedia.org/wiki/吉田伸男 "wikilink")（フジテレビアナウンサー）
-  - [増田晋](https://ja.wikipedia.org/wiki/増田晋_\(声優\) "wikilink")（「IQミュージアム」出題VTR）
-  - [掛川裕彦](https://ja.wikipedia.org/wiki/掛川裕彦 "wikilink")（「スーパースローサプリ」出題VTR）
-  - [真地勇志](https://ja.wikipedia.org/wiki/真地勇志 "wikilink")（「アドベンチャーサプリ」出題VTR）
-  - 岡安章介（[ななめ45°](https://ja.wikipedia.org/wiki/ななめ45° "wikilink")）（「電光掲示BaaaaN」出題VTR）
-  - [山下恵理子](https://ja.wikipedia.org/wiki/山下恵理子 "wikilink")（2013年特番）
+  - [吉田伸男](../Page/吉田伸男.md "wikilink")（フジテレビアナウンサー）
+  - [増田晋](../Page/増田晋_\(声優\).md "wikilink")（「IQミュージアム」出題VTR）
+  - [掛川裕彦](../Page/掛川裕彦.md "wikilink")（「スーパースローサプリ」出題VTR）
+  - [真地勇志](../Page/真地勇志.md "wikilink")（「アドベンチャーサプリ」出題VTR）
+  - 岡安章介（[ななめ45°](../Page/ななめ45°.md "wikilink")）（「電光掲示BaaaaN」出題VTR）
+  - [山下恵理子](../Page/山下恵理子.md "wikilink")（2013年特番）
   - [田代尚子](https://ja.wikipedia.org/wiki/田代尚子 "wikilink")（フジテレビアナウンサー・2014年特番）
-  - [レニー・ハート](https://ja.wikipedia.org/wiki/レニー・ハート "wikilink")（オープニングのタイトルコールを担当）
-  - [立木文彦](https://ja.wikipedia.org/wiki/立木文彦 "wikilink")（上記のタイトルコール後に担当する）
-  - [滝口順平](https://ja.wikipedia.org/wiki/滝口順平 "wikilink")（問題VTR）
+  - [レニー・ハート](../Page/レニー・ハート.md "wikilink")（オープニングのタイトルコールを担当）
+  - [立木文彦](../Page/立木文彦.md "wikilink")（上記のタイトルコール後に担当する）
+  - [滝口順平](../Page/滝口順平.md "wikilink")（問題VTR）
   - [青野武](../Page/青野武.md "wikilink")（問題VTR）
   - [八奈見乗児](../Page/八奈見乗児.md "wikilink")（問題VTR）
-  - [キートン山田](https://ja.wikipedia.org/wiki/キートン山田 "wikilink")（[ちびまる子ちゃん](../Page/ちびまる子ちゃん.md "wikilink")とのコラボ時のみ）
-  - [小山力也](https://ja.wikipedia.org/wiki/小山力也 "wikilink")（[24 -TWENTY FOUR-の](https://ja.wikipedia.org/wiki/24_-TWENTY_FOUR- "wikilink")[ジャック・バウアー](https://ja.wikipedia.org/wiki/ジャック・バウアー "wikilink")として一時期）
-  - [田中信夫](https://ja.wikipedia.org/wiki/田中信夫 "wikilink")（問題VTR、[川口浩探検隊シリーズのパロディー](../Page/水曜スペシャル.md "wikilink")）
-  - [木村匡也](https://ja.wikipedia.org/wiki/木村匡也 "wikilink")（後枠『[めちゃ<sup>2</sup>イケてるッ\!](https://ja.wikipedia.org/wiki/めちゃ×2イケてるッ! "wikilink")』が本番組のSPで休止の際に登場）
+  - [キートン山田](../Page/キートン山田.md "wikilink")（[ちびまる子ちゃん](../Page/ちびまる子ちゃん.md "wikilink")とのコラボ時のみ）
+  - [小山力也](https://ja.wikipedia.org/wiki/小山力也 "wikilink")（[24 -TWENTY FOUR-の](https://ja.wikipedia.org/wiki/24_-TWENTY_FOUR- "wikilink")[ジャック・バウアー](../Page/ジャック・バウアー.md "wikilink")として一時期）
+  - [田中信夫](../Page/田中信夫.md "wikilink")（問題VTR、[川口浩探検隊シリーズのパロディー](../Page/水曜スペシャル.md "wikilink")）
+  - [木村匡也](../Page/木村匡也.md "wikilink")（後枠『[めちゃ<sup>2</sup>イケてるッ\!](../Page/めちゃ×2イケてるッ!.md "wikilink")』が本番組のSPで休止の際に登場）
 
 ### 主なパネラーの席順（レギュラー放送時）
 
@@ -152,17 +152,17 @@
 
 パイロット版では、パネラー席に「スッキリ」「ヤラレタ」（初回のみ）「モヤッと」の3つの入れ口があり、正解発表の後での感想をそれぞれのボールの入れ口に対応する色（スッキリ＝ピンク、ヤラレタ＝オレンジ、モヤッと＝緑）を入れていった。モヤッとのみ、マスター頭上のカプセルにたまる。ボールを入れると、スッキリはすんなり落ちるのに対し、モヤッとはゆっくり落ちる。当時は入れられるボールの数は一問につき最大5個であった。当時はモヤッとボールに突起が付いておらず、スッキリフラワーの登場と同時に突起が付けられた。
 
-パイロット版およびレギュラー放送初期は心理テストに近い内容だったが、[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")10月以降はクイズの要素が増えたため実質的にクイズ番組となった。
+パイロット版およびレギュラー放送初期は心理テストに近い内容だったが、[2004年](../Page/2004年.md "wikilink")10月以降はクイズの要素が増えたため実質的にクイズ番組となった。
 
 まれに「スッキリ」の判定を出した後で、解答は偶然当たったが意味や理由が間違っていたことをパネラーが認めた場合や、誤字や脱字があった場合は\[12\]、正解を取り消されスッキリフラワーを没収されることがある。
 
 #### パーフェクトスッキリ
 
-「**パーフェクトスッキリ**」とは、ウォーミングアップの早押し問題および一部の番組半ばに行われる連帯責任型のサプリ（なかとりサプリや絶叫サプリなど）を**除く**サプリ問題を全問正解することである\[13\]。「パーフェクトスッキリ」を達成するとファンファーレが鳴り、秘書から「パーフェクトタスッキリ」と呼ばれる[襷が贈呈される](https://ja.wikipedia.org/wiki/たすき "wikilink")。
+「**パーフェクトスッキリ**」とは、ウォーミングアップの早押し問題および一部の番組半ばに行われる連帯責任型のサプリ（なかとりサプリや絶叫サプリなど）を**除く**サプリ問題を全問正解することである\[13\]。「パーフェクトスッキリ」を達成するとファンファーレが鳴り、秘書から「パーフェクトタスッキリ」と呼ばれる[襷が贈呈される](../Page/たすき.md "wikilink")。
 
 #### パーフェクトモヤッと
 
-「パーフェクトスッキリ」とは逆に、サプリ文字や変身サプリーズなどのオープニング問題を含む、**その日出題される全てのサプリに正解できないこと**を「**パーフェクトモヤッと**」と呼ぶ。一部の番組半ばに行われる連帯責任型の「なかとりサプリ」や「IQラプリ」など**パーフェクトスッキリのカウント対象にならないサプリは、仮にスッキリできたとしても、パーフェクトモヤッとから逃れることができない**。この不名誉な記録を達成した人は、[間寛平](../Page/間寛平.md "wikilink")と[かとうかず子](https://ja.wikipedia.org/wiki/かとうかず子 "wikilink")のみ。
+「パーフェクトスッキリ」とは逆に、サプリ文字や変身サプリーズなどのオープニング問題を含む、**その日出題される全てのサプリに正解できないこと**を「**パーフェクトモヤッと**」と呼ぶ。一部の番組半ばに行われる連帯責任型の「なかとりサプリ」や「IQラプリ」など**パーフェクトスッキリのカウント対象にならないサプリは、仮にスッキリできたとしても、パーフェクトモヤッとから逃れることができない**。この不名誉な記録を達成した人は、[間寛平](../Page/間寛平.md "wikilink")と[かとうかず子](../Page/かとうかず子.md "wikilink")のみ。
 
 #### モヤッとボール
 
@@ -202,7 +202,7 @@
 
 サプリメントで正解（スッキリ）すると獲得できるゴールドモヤっとボールを集める。
 
-ラストミッション「ブラックマスター危機一髪」で、ブラックマスターと直接対決。ここまで獲得したゴールドモヤっとボールの数10個につき1本の剣と交換。代表者\[18\]が1本ずつ、「[黒ひげ危機一発](https://ja.wikipedia.org/wiki/黒ひげ危機一発 "wikilink")」の要領で、樽の穴に剣を刺していく。6個（初回スペシャルのみ10個）の内1つだけある当たりの穴（予めブラックマスターが、サイコロを振って当たり番号〈初登場から2回目は視聴者のみ公開だったが、それ以降の回は視聴者にも非公開〉を決定）に刺すことができればサプリ連合軍の勝利で、ブラックマスターの頭上に大きなモヤ玉（IQミュージアムで使用していた物）が落下する。全部の剣を刺しても当たりの穴に刺すことができていなければサプリ連合軍の敗北で、5秒のカウントダウンの後、モヤっとシャワー（連合軍メンバーの頭上めがけて、大量のモヤっとボールが降り注ぐ）の罰がある（この回の当たり番号の発表は、罰を受けた後にブラックマスターが口頭で発表する）。
+ラストミッション「ブラックマスター危機一髪」で、ブラックマスターと直接対決。ここまで獲得したゴールドモヤっとボールの数10個につき1本の剣と交換。代表者\[18\]が1本ずつ、「[黒ひげ危機一発](../Page/黒ひげ危機一発.md "wikilink")」の要領で、樽の穴に剣を刺していく。6個（初回スペシャルのみ10個）の内1つだけある当たりの穴（予めブラックマスターが、サイコロを振って当たり番号〈初登場から2回目は視聴者のみ公開だったが、それ以降の回は視聴者にも非公開〉を決定）に刺すことができればサプリ連合軍の勝利で、ブラックマスターの頭上に大きなモヤ玉（IQミュージアムで使用していた物）が落下する。全部の剣を刺しても当たりの穴に刺すことができていなければサプリ連合軍の敗北で、5秒のカウントダウンの後、モヤっとシャワー（連合軍メンバーの頭上めがけて、大量のモヤっとボールが降り注ぐ）の罰がある（この回の当たり番号の発表は、罰を受けた後にブラックマスターが口頭で発表する）。
 
 2009年1月24日放送分から再リニューアル。サプリ連合軍対ブラックマスターという図式がなくなって各々の位置付けも元に戻り、再び個人戦になる。モヤッとボール及びモヤッとホールは存在しない。サプリメントが「常識IQ問題」と呼ばれるようになり、（一般常識を問う）クイズ色が強くなった。出題時の表示もIQ値から常識IQ値に変更されている。1問正解する毎に1ポイントが加算され、この合計値で解答者の常識IQレベルを評価、番組の最後に秘書が常識IQ値が最高および最低となった解答者を発表する。
 
@@ -216,7 +216,7 @@
 
 ### 紅白IQスッキリ合戦SP
 
-2005年5月7日放送。今田耕司率いる白組と、磯野貴理子率いる紅組がスッキリ数を競い合う。レギュラー陣以外の名前テロップには[本家に合わせて出演回数を表示していた](https://ja.wikipedia.org/wiki/NHK紅白歌合戦 "wikilink")。
+2005年5月7日放送。今田耕司率いる白組と、磯野貴理子率いる紅組がスッキリ数を競い合う。レギュラー陣以外の名前テロップには[本家に合わせて出演回数を表示していた](../Page/NHK紅白歌合戦.md "wikilink")。
 
 ### 芸能界スッキリキング決定戦SP
 
@@ -232,7 +232,7 @@
 
 ### 真冬のスッキリバトル90分SP
 
-2009年1月17日 18:30 - 19:57に放送されたが、一部地域（[仙台放送](../Page/仙台放送.md "wikilink")・[新潟総合テレビ](https://ja.wikipedia.org/wiki/新潟総合テレビ "wikilink")・[東海テレビ](../Page/東海テレビ放送.md "wikilink")・[関西テレビ](../Page/関西テレビ放送.md "wikilink")・[テレビ愛媛](../Page/テレビ愛媛.md "wikilink")）では19時から1時間版に編集されて放送された。短縮放送の局への配慮から、最初の30分は『[もしもツアーズ](https://ja.wikipedia.org/wiki/もしもツアーズ "wikilink")』とほぼ同じ内容のVTRの途中に特産品などの問題を出していたため、実質的なクイズの部分は60分版と変わらなかった。全てのコーナーが、サプリ連合軍12人対ブラックファイターズ7人（中野秘書含む）の対抗戦形式になっており、合計スッキリ数（得点）を競った。 翌週から再リニューアルされた事により、ブラックマスターとの対決はこの回をもって終了した。
+2009年1月17日 18:30 - 19:57に放送されたが、一部地域（[仙台放送](../Page/仙台放送.md "wikilink")・[新潟総合テレビ](https://ja.wikipedia.org/wiki/新潟総合テレビ "wikilink")・[東海テレビ](../Page/東海テレビ放送.md "wikilink")・[関西テレビ](../Page/関西テレビ放送.md "wikilink")・[テレビ愛媛](../Page/テレビ愛媛.md "wikilink")）では19時から1時間版に編集されて放送された。短縮放送の局への配慮から、最初の30分は『[もしもツアーズ](../Page/もしもツアーズ.md "wikilink")』とほぼ同じ内容のVTRの途中に特産品などの問題を出していたため、実質的なクイズの部分は60分版と変わらなかった。全てのコーナーが、サプリ連合軍12人対ブラックファイターズ7人（中野秘書含む）の対抗戦形式になっており、合計スッキリ数（得点）を競った。 翌週から再リニューアルされた事により、ブラックマスターとの対決はこの回をもって終了した。
 
 ### 復活\!IQサプリ2013 天才軍団に立ち向かえ\!最強スッキリ王大決定戦SP
 
@@ -240,7 +240,7 @@
 
 ### また復活\!IQサプリ2013 東大・京大に立ち向かえ\!最強スッキリ王大決定戦SP
 
-2013年5月28日 19:00 - 20:54に『カスペ\!』枠で放送。視聴率は10.5%。前回のSPと同じルールで行われた（引っ掛け問題のみ例外）。開会宣言は[ウィル・スミス](https://ja.wikipedia.org/wiki/ウィル・スミス "wikilink")が担当。今回は秘書が正式に加藤になった。[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")・[京都大学](../Page/京都大学.md "wikilink")出身・在学の6人が「天才席」で解答したが、途中で成績により天才席のメンバーが入れ替わった。
+2013年5月28日 19:00 - 20:54に『カスペ\!』枠で放送。視聴率は10.5%。前回のSPと同じルールで行われた（引っ掛け問題のみ例外）。開会宣言は[ウィル・スミス](../Page/ウィル・スミス.md "wikilink")が担当。今回は秘書が正式に加藤になった。[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")・[京都大学](../Page/京都大学.md "wikilink")出身・在学の6人が「天才席」で解答したが、途中で成績により天才席のメンバーが入れ替わった。
 
 ### IQサプリ あなたのアタマは何歳?秋の最強スッキリ脳大決定戦SP
 
@@ -248,7 +248,7 @@
 
 ### IQサプリ 最強スッキリペア大決定戦SP
 
-2014年5月20日 19:00 - 20:54に『カスペ\!』枠で放送。開会宣言は[ヒュー・ジャックマン](https://ja.wikipedia.org/wiki/ヒュー・ジャックマン "wikilink")。レギュラー時代の「スッキリペア決定戦」同様、9組のペア戦でスッキリ数を競う。ただし、今田のみサプリ文字まで1人で、合体漢字から[西内まりや](https://ja.wikipedia.org/wiki/西内まりや "wikilink")が合流する形での参戦。モノサプリは4組と5組に分かれて挑戦した。優勝ペアにはクリスタル&ゴールドモヤッとボールが与えられた。
+2014年5月20日 19:00 - 20:54に『カスペ\!』枠で放送。開会宣言は[ヒュー・ジャックマン](../Page/ヒュー・ジャックマン.md "wikilink")。レギュラー時代の「スッキリペア決定戦」同様、9組のペア戦でスッキリ数を競う。ただし、今田のみサプリ文字まで1人で、合体漢字から[西内まりや](https://ja.wikipedia.org/wiki/西内まりや "wikilink")が合流する形での参戦。モノサプリは4組と5組に分かれて挑戦した。優勝ペアにはクリスタル&ゴールドモヤッとボールが与えられた。
 
 ### IQサプリ 令和も超スッキリスペシャル\!
 
@@ -258,23 +258,23 @@
 
 #### FNS26時間テレビ
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月16日](../Page/7月16日.md "wikilink")、『[FNS26時間テレビ 国民的なおもしろさ\!史上最大\!\!真夏のクイズ祭り 26時間ぶっ通しスペシャル](https://ja.wikipedia.org/wiki/FNS26時間テレビ_\(2006年\) "wikilink")』の1コーナーとして、朝9時頃から番組初の[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")が行われた。スペシャルゲストとして[中居正広](../Page/中居正広.md "wikilink")（当時[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")のリーダーで、同年の『FNS26時間テレビ』の総合司会）・[細木数子](https://ja.wikipedia.org/wiki/細木数子 "wikilink")が出演。一部の問題（サプリ文字・名探偵加恋）も生で出題。ラストは通常マスターが受けるモヤっとボールの雨を中居が被った。
+[2006年](../Page/2006年.md "wikilink")[7月16日](../Page/7月16日.md "wikilink")、『[FNS26時間テレビ 国民的なおもしろさ\!史上最大\!\!真夏のクイズ祭り 26時間ぶっ通しスペシャル](../Page/FNS26時間テレビ_\(2006年\).md "wikilink")』の1コーナーとして、朝9時頃から番組初の[生放送](../Page/生放送.md "wikilink")が行われた。スペシャルゲストとして[中居正広](../Page/中居正広.md "wikilink")（当時[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")のリーダーで、同年の『FNS26時間テレビ』の総合司会）・[細木数子](https://ja.wikipedia.org/wiki/細木数子 "wikilink")が出演。一部の問題（サプリ文字・名探偵加恋）も生で出題。ラストは通常マスターが受けるモヤっとボールの雨を中居が被った。
 
 #### 放送100回記念
 
-2006年[12月30日](../Page/12月30日.md "wikilink")、放送100回を記念して『芸能界IQランキング大決定』を生放送を実施。放送時間は18:30 - 20:54。携帯電話を使用して視聴者も問題に参加することができた。問題の中には[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[第57回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第57回NHK紅白歌合戦 "wikilink")』に出演する大物歌手（[小林幸子](../Page/小林幸子.md "wikilink")）の衣装が盗まれたという設定のもと、[ビビる大木](https://ja.wikipedia.org/wiki/ビビる大木 "wikilink")と小林が[NHKホール](https://ja.wikipedia.org/wiki/NHKホール "wikilink")の前で生中継で出題する問題もあった。また、番組内で磯野貴理子の「磯野貴理」への改名が発表された（2011年7月から再度「磯野貴理子」に戻している）。
+2006年[12月30日](../Page/12月30日.md "wikilink")、放送100回を記念して『芸能界IQランキング大決定』を生放送を実施。放送時間は18:30 - 20:54。携帯電話を使用して視聴者も問題に参加することができた。問題の中には[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[第57回NHK紅白歌合戦](../Page/第57回NHK紅白歌合戦.md "wikilink")』に出演する大物歌手（[小林幸子](../Page/小林幸子.md "wikilink")）の衣装が盗まれたという設定のもと、[ビビる大木](https://ja.wikipedia.org/wiki/ビビる大木 "wikilink")と小林が[NHKホール](../Page/NHKホール.md "wikilink")の前で生中継で出題する問題もあった。また、番組内で磯野貴理子の「磯野貴理」への改名が発表された（2011年7月から再度「磯野貴理子」に戻している）。
 
 #### クリスマスプレゼント企画
 
-2008年12月13日放送分で実施。事前収録の本編の途中に生放送のパートが挟まれ、[サンタクロース](https://ja.wikipedia.org/wiki/サンタクロース "wikilink")の衣装を着た中野とウエンツによる本編の内容に関する2択クイズの出題が行われた。
+2008年12月13日放送分で実施。事前収録の本編の途中に生放送のパートが挟まれ、[サンタクロース](../Page/サンタクロース.md "wikilink")の衣装を着た中野とウエンツによる本編の内容に関する2択クイズの出題が行われた。
 
 ### 歴代優勝者
 
   - 第1回芸能界IQランキング大決定SP **[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")（株）チーム**（山崎邦正ほか）
-  - 第2回芸能界IQランキング大決定SP **個性派奥様チーム**（磯野貴理子、[千秋](https://ja.wikipedia.org/wiki/千秋_\(タレント\) "wikilink")、[柴田理恵](https://ja.wikipedia.org/wiki/柴田理恵 "wikilink")）
-  - 第3回芸能界IQランキング大決定SP **「[ローレライ](https://ja.wikipedia.org/wiki/ローレライ_\(映画\) "wikilink")」チーム**（[柳葉敏郎](../Page/柳葉敏郎.md "wikilink")、[石黒賢](https://ja.wikipedia.org/wiki/石黒賢 "wikilink")、[ピエール瀧](https://ja.wikipedia.org/wiki/ピエール瀧 "wikilink")）
+  - 第2回芸能界IQランキング大決定SP **個性派奥様チーム**（磯野貴理子、[千秋](../Page/千秋_\(タレント\).md "wikilink")、[柴田理恵](https://ja.wikipedia.org/wiki/柴田理恵 "wikilink")）
+  - 第3回芸能界IQランキング大決定SP **「[ローレライ](../Page/ローレライ_\(映画\).md "wikilink")」チーム**（[柳葉敏郎](../Page/柳葉敏郎.md "wikilink")、[石黒賢](https://ja.wikipedia.org/wiki/石黒賢 "wikilink")、[ピエール瀧](https://ja.wikipedia.org/wiki/ピエール瀧 "wikilink")）
   - 紅白IQスッキリ合戦SP **白組チーム**
-  - 第4回芸能界IQランキング大決定SP **チーム若手**（[ホリ](https://ja.wikipedia.org/wiki/ホリ_\(タレント\) "wikilink")、[まちゃまちゃ](https://ja.wikipedia.org/wiki/まちゃまちゃ "wikilink")、[スピードワゴン](../Page/スピードワゴン.md "wikilink")）
+  - 第4回芸能界IQランキング大決定SP **チーム若手**（[ホリ](../Page/ホリ_\(タレント\).md "wikilink")、[まちゃまちゃ](../Page/まちゃまちゃ.md "wikilink")、[スピードワゴン](../Page/スピードワゴン.md "wikilink")）
   - 第5回芸能界IQランキング大決定SP **IQレッドチーム**（今田耕司、ウエンツ瑛士、カンニング竹山）
   - 芸能界スッキリキング決定戦SP **石塚英彦**
   - 第6回芸能界IQランキング大決定SP **IQサプリチーム**（今田耕司、石塚英彦、ウエンツ瑛士）
@@ -284,13 +284,13 @@
   - 解けなくて恥ずかしいのはいったい誰なのよSP **芸能界連合軍団チーム**
   - 第8回芸能界IQランキング大決定SP **チームヤングマン**（[西城秀樹](https://ja.wikipedia.org/wiki/西城秀樹 "wikilink")、[松嶋尚美](../Page/松嶋尚美.md "wikilink")、カンニング竹山）
   - 第9回芸能界IQランキング大決定SP **IQサプリチーム**（今田耕司、石塚英彦、ウエンツ瑛士）
-  - 第10回芸能界IQランキング大決定SP **インテリチーム**（[麻木久仁子](https://ja.wikipedia.org/wiki/麻木久仁子 "wikilink")、[アグネス・チャン](https://ja.wikipedia.org/wiki/アグネス・チャン "wikilink")、[本村健太郎](https://ja.wikipedia.org/wiki/本村健太郎 "wikilink")）
+  - 第10回芸能界IQランキング大決定SP **インテリチーム**（[麻木久仁子](https://ja.wikipedia.org/wiki/麻木久仁子 "wikilink")、[アグネス・チャン](https://ja.wikipedia.org/wiki/アグネス・チャン "wikilink")、[本村健太郎](../Page/本村健太郎.md "wikilink")）
   - 真冬のスッキリバトル90分SP **サプリ連合軍**
-  - 復活\!IQサプリ2013 天才軍団に立ち向かえ\!最強スッキリ王大決定戦SP **[山西惇](https://ja.wikipedia.org/wiki/山西惇 "wikilink")**
+  - 復活\!IQサプリ2013 天才軍団に立ち向かえ\!最強スッキリ王大決定戦SP **[山西惇](../Page/山西惇.md "wikilink")**
   - また復活\!IQサプリ2013 東大・京大に立ち向かえ\!最強スッキリ王大決定戦SP **山西惇**
-  - IQサプリ あなたのアタマは何歳?秋の最強スッキリ王大決定戦SP **[佐藤二朗](https://ja.wikipedia.org/wiki/佐藤二朗 "wikilink")**
-  - IQサプリ 最強スッキリペア大決定戦SP **チーム実は照れ屋さん**（[的場浩司](https://ja.wikipedia.org/wiki/的場浩司 "wikilink")、[千原ジュニア](https://ja.wikipedia.org/wiki/千原ジュニア "wikilink")）
-  - IQサプリ 令和も超スッキリスペシャル\! **チーム令和**（[超特急](https://ja.wikipedia.org/wiki/超特急_\(音楽グループ\) "wikilink")、[河北麻友子](https://ja.wikipedia.org/wiki/河北麻友子 "wikilink")、[霜降り明星](https://ja.wikipedia.org/wiki/霜降り明星 "wikilink")、[登坂淳一](https://ja.wikipedia.org/wiki/登坂淳一 "wikilink")）
+  - IQサプリ あなたのアタマは何歳?秋の最強スッキリ王大決定戦SP **[佐藤二朗](../Page/佐藤二朗.md "wikilink")**
+  - IQサプリ 最強スッキリペア大決定戦SP **チーム実は照れ屋さん**（[的場浩司](../Page/的場浩司.md "wikilink")、[千原ジュニア](../Page/千原ジュニア.md "wikilink")）
+  - IQサプリ 令和も超スッキリスペシャル\! **チーム令和**（[超特急](https://ja.wikipedia.org/wiki/超特急_\(音楽グループ\) "wikilink")、[河北麻友子](../Page/河北麻友子.md "wikilink")、[霜降り明星](https://ja.wikipedia.org/wiki/霜降り明星 "wikilink")、[登坂淳一](../Page/登坂淳一.md "wikilink")）
 
 ## 書籍
 
@@ -351,7 +351,7 @@
 
 番組側が認めた問題間違いが存在する。また問題間違いではないが、引っ掛けが過ぎてかなり無理のある問題は多数ある。
 
-  - 数字を変換する問題で「8の真ん中に横棒をさして0/0」と言う分数を使ったことで視聴者から抗議があり、専門家からも**数学上ありえない分数**（[ゼロ除算](https://ja.wikipedia.org/wiki/ゼロ除算 "wikilink")を参照のこと）との指摘があった。このため、番組サイトでお詫びが掲載され後述の書籍には、0/0の部分は除いた状態で収録されている。
+  - 数字を変換する問題で「8の真ん中に横棒をさして0/0」と言う分数を使ったことで視聴者から抗議があり、専門家からも**数学上ありえない分数**（[ゼロ除算](../Page/ゼロ除算.md "wikilink")を参照のこと）との指摘があった。このため、番組サイトでお詫びが掲載され後述の書籍には、0/0の部分は除いた状態で収録されている。
   - 「縦8cm、横5cm、厚さ1cmのタイルで正方形を作るには最低何枚必要か」という問題で正解は「**5枚**（5枚を重ねて横から見れば5cm×5cmの正方形になる）」というものだった。しかし視聴者から「**4枚でも可能**（3枚を重ねて残りの1枚を8cmの辺に縦にしてつければ8cm×8cmの正方形になる）」という抗議があった。この問題について番組サイトにお詫びが掲載され、書籍にも4枚の解答が収録されている。
 
 ## スタッフ
@@ -359,9 +359,9 @@
 ### レギュラー時
 
   - 企画:熊谷剛（フジテレビ）
-  - 構成:ブランチ（[小笠原英樹](https://ja.wikipedia.org/wiki/小笠原英樹 "wikilink")）/[北本かつら](https://ja.wikipedia.org/wiki/北本かつら "wikilink")、[酒井健作](https://ja.wikipedia.org/wiki/酒井健作 "wikilink")、[渡辺健久](https://ja.wikipedia.org/wiki/渡辺健久 "wikilink")、[板垣寿美](https://ja.wikipedia.org/wiki/板垣寿美 "wikilink")、[川野将一](https://ja.wikipedia.org/wiki/川野将一 "wikilink")
-  - 問題作成:[龍田力](https://ja.wikipedia.org/wiki/龍田力 "wikilink")、川野将一 、[伊藤のぶゆき](https://ja.wikipedia.org/wiki/伊藤のぶゆき "wikilink")、[青井曽良](https://ja.wikipedia.org/wiki/青井曽良 "wikilink")、[水野将良](https://ja.wikipedia.org/wiki/水野将良 "wikilink")、金和成、井上修、佐藤がっかり、[水野圭祐](https://ja.wikipedia.org/wiki/水野圭祐 "wikilink")、[栗原崇](https://ja.wikipedia.org/wiki/栗原崇 "wikilink")、[藤本裕](https://ja.wikipedia.org/wiki/藤本裕_\(放送作家\) "wikilink")、[長谷川大雲](https://ja.wikipedia.org/wiki/長谷川大雲 "wikilink")、岸本雄生、小山賢太郎、多羅正崇、藤原昭彦、[山本てつじ](https://ja.wikipedia.org/wiki/山本てつじ "wikilink")、[矢野了平](https://ja.wikipedia.org/wiki/矢野了平 "wikilink")、石原大二郎、笠原泰徳、よねもと大語、堀内康浩、田守伸也
-  - 問題監修:[雅孝司](https://ja.wikipedia.org/wiki/雅孝司 "wikilink")/[高橋浩徳](https://ja.wikipedia.org/wiki/高橋浩徳 "wikilink")（深夜 第1回目のみ）
+  - 構成:ブランチ（[小笠原英樹](https://ja.wikipedia.org/wiki/小笠原英樹 "wikilink")）/[北本かつら](../Page/北本かつら.md "wikilink")、[酒井健作](../Page/酒井健作.md "wikilink")、[渡辺健久](https://ja.wikipedia.org/wiki/渡辺健久 "wikilink")、[板垣寿美](https://ja.wikipedia.org/wiki/板垣寿美 "wikilink")、[川野将一](../Page/川野将一.md "wikilink")
+  - 問題作成:[龍田力](https://ja.wikipedia.org/wiki/龍田力 "wikilink")、川野将一 、[伊藤のぶゆき](https://ja.wikipedia.org/wiki/伊藤のぶゆき "wikilink")、[青井曽良](https://ja.wikipedia.org/wiki/青井曽良 "wikilink")、[水野将良](https://ja.wikipedia.org/wiki/水野将良 "wikilink")、金和成、井上修、佐藤がっかり、[水野圭祐](https://ja.wikipedia.org/wiki/水野圭祐 "wikilink")、[栗原崇](https://ja.wikipedia.org/wiki/栗原崇 "wikilink")、[藤本裕](https://ja.wikipedia.org/wiki/藤本裕_\(放送作家\) "wikilink")、[長谷川大雲](https://ja.wikipedia.org/wiki/長谷川大雲 "wikilink")、岸本雄生、小山賢太郎、多羅正崇、藤原昭彦、[山本てつじ](https://ja.wikipedia.org/wiki/山本てつじ "wikilink")、[矢野了平](../Page/矢野了平.md "wikilink")、石原大二郎、笠原泰徳、よねもと大語、堀内康浩、田守伸也
+  - 問題監修:[雅孝司](../Page/雅孝司.md "wikilink")/[高橋浩徳](https://ja.wikipedia.org/wiki/高橋浩徳 "wikilink")（深夜 第1回目のみ）
   - 漢字監修:阿辻哲次
   - TD/SW:大嶋徹（共同テレビ）
   - CAM:菊池謙（共同テレビ）
@@ -370,7 +370,7 @@
   - PA:白鳥慎一郎
   - LD:岩村信夫
   - 美術:木村文洋
-  - デザイン:[きくちまさと](https://ja.wikipedia.org/wiki/きくちまさと "wikilink")
+  - デザイン:[きくちまさと](../Page/きくちまさと.md "wikilink")
   - 美術進行:横守剛
   - 大道具:葛西剛太
   - 電飾:古谷裕一
@@ -397,7 +397,7 @@
   - 演出:井坂周二（テレビジョンフィールド）、川本良樹（R-1）、稲村健（ピボーテ）、鈴木優（共同テレビ）
   - プロデューサー:今野貴之（共同テレビ/ベイシス）、林田竜一（R-1）
   - アソシエイトプロデューサー:河田宣正（共同テレビ）
-  - 制作協力:[共同テレビ](../Page/共同テレビジョン.md "wikilink")/[ベイシス](https://ja.wikipedia.org/wiki/ベイシス "wikilink")、[ロール・ワン](https://ja.wikipedia.org/wiki/ロール・ワン "wikilink")、[テレビジョンフィールド](https://ja.wikipedia.org/wiki/テレビジョンフィールド "wikilink")、[ジョイマン](https://ja.wikipedia.org/wiki/ジョイマン "wikilink")、ピボーテ
+  - 制作協力:[共同テレビ](../Page/共同テレビジョン.md "wikilink")/[ベイシス](../Page/ベイシス.md "wikilink")、[ロール・ワン](../Page/ロール・ワン.md "wikilink")、[テレビジョンフィールド](../Page/テレビジョンフィールド.md "wikilink")、[ジョイマン](../Page/ジョイマン.md "wikilink")、ピボーテ
   - 制作著作:フジテレビ
 
 ### 復活特番
@@ -414,7 +414,7 @@
   - PA:白鳥慎一郎
   - LD:毛利克也
   - 美術プロデューサー:木村文洋
-  - デザイン:[別所晃吉](https://ja.wikipedia.org/wiki/別所晃吉 "wikilink")
+  - デザイン:[別所晃吉](../Page/別所晃吉.md "wikilink")
   - 美術進行:横山勇、村瀬大
   - 大道具制作:卜部徹夫
   - 大道具操作:田中秀和
@@ -444,7 +444,7 @@
   - 編成企画:永竹里早（フジテレビ、第1回）、細貝康介（フジテレビ、第4回）
   - 構成:川野将一、矢野了平（矢野は第1回が問題作成、第3回は構成担当）
   - 問題:龍田力、青井曽良、石原大二郎、水野将良、岸本雄生、加藤ゆうた、西沢あつと、塩見直矢、坂野真希、伊藤のぶゆき、井上修
-  - リサーチ:[フォーミュレーション](https://ja.wikipedia.org/wiki/フォーミュレーション "wikilink")
+  - リサーチ:[フォーミュレーション](../Page/フォーミュレーション.md "wikilink")
   - CAM:伴野匡（共同テレビ）
   - VE:石井雅紀（共同テレビ、第1回）、郡司洋（共同テレビ、第3回）、岡部菜穂子（共同テレビ、第4回）
   - LD:岩村信夫（第1回）
@@ -514,7 +514,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/山形県" title="wikilink">山形県</a></p></td>
+<td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
 <td><p><a href="../Page/さくらんぼテレビジョン.md" title="wikilink">さくらんぼテレビ</a></p></td>
 <td></td>
 <td></td>
@@ -621,7 +621,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/テレビ西日本.md" title="wikilink">テレビ西日本</a></p></td>
 <td></td>
 <td></td>
@@ -658,7 +658,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/鹿児島県" title="wikilink">鹿児島県</a></p></td>
+<td><p><a href="../Page/鹿児島県.md" title="wikilink">鹿児島県</a></p></td>
 <td><p><a href="../Page/鹿児島テレビ放送.md" title="wikilink">鹿児島テレビ</a></p></td>
 <td><p>フジテレビ系列</p></td>
 <td></td>
@@ -697,7 +697,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/大分県.md" title="wikilink">大分県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビ大分" title="wikilink">テレビ大分</a></p></td>
+<td><p><a href="../Page/テレビ大分.md" title="wikilink">テレビ大分</a></p></td>
 <td><p>日本テレビ系列<br />
 フジテレビ系列</p></td>
 <td><p>遅れネット[24]</p></td>
@@ -719,14 +719,14 @@
 [Category:フジテレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビのバラエティ番組の歴史 "wikilink") [Category:フジテレビのクイズ番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビのクイズ番組の歴史 "wikilink") [Category:データ放送連動番組](https://ja.wikipedia.org/wiki/Category:データ放送連動番組 "wikilink") [Category:2003年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のテレビ番組_\(日本\) "wikilink") [Category:2004年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2004年のテレビ番組_\(日本\) "wikilink") [Category:共同テレビ](https://ja.wikipedia.org/wiki/Category:共同テレビ "wikilink") [Category:伊東四朗](https://ja.wikipedia.org/wiki/Category:伊東四朗 "wikilink") [Category:今田耕司](https://ja.wikipedia.org/wiki/Category:今田耕司 "wikilink") [Category:カスペ\!](https://ja.wikipedia.org/wiki/Category:カスペ! "wikilink") [Category:金曜プレミアム](https://ja.wikipedia.org/wiki/Category:金曜プレミアム "wikilink")
 
 1.  [フジテレビ：異例の低改編率　「番組定着のためのがまん」](http://mainichi.jp/articles/20170306/dyo/00m/200/008000c)
-2.  北海道文化放送は『[みんスポBASEBALL](../Page/野球道_\(フジテレビ系列\).md "wikilink")』・[北海道日本ハムファイターズ](../Page/北海道日本ハムファイターズ.md "wikilink")対[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")放送のため6月16日の13:00 - 14:50に、関西テレビは『プロ野球中継』・[オリックス・バファローズ](https://ja.wikipedia.org/wiki/オリックス・バファローズ "wikilink")対[阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")放送のため6月16日の12:00 - 13:59に放送。
+2.  北海道文化放送は『[みんスポBASEBALL](../Page/野球道_\(フジテレビ系列\).md "wikilink")』・[北海道日本ハムファイターズ](../Page/北海道日本ハムファイターズ.md "wikilink")対[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")放送のため6月16日の13:00 - 14:50に、関西テレビは『プロ野球中継』・[オリックス・バファローズ](../Page/オリックス・バファローズ.md "wikilink")対[阪神タイガース](../Page/阪神タイガース.md "wikilink")放送のため6月16日の12:00 - 13:59に放送。
 3.
 4.  『カスぺ\!』及び『金曜プレミアム』での特番時代はどちらも[裏](https://ja.wikipedia.org/wiki/火曜サプライズ "wikilink")[番組のレギュラーである関係上](../Page/ぴったんこカン・カン.md "wikilink")、出演出来なかった。
 5.  『カスぺ\!』での特番時代は[裏番組のレギュラー](https://ja.wikipedia.org/wiki/火曜サプライズ "wikilink")、『金曜プレミアム』での特番時代は海外留学中である関係上、出演出来なかった。
 6.  2007年1月から最終回までは**磯野貴理**の芸名で出演。
 7.  2007年2月24日放送分と8月18日放送分は、『[M-1グランプリ](../Page/M-1グランプリ.md "wikilink")』における臨時ユニット『竹山崎』としてコンビで出演。
 8.
-9.  2007年[8月18日](../Page/8月18日.md "wikilink")放送分では「IQミラーまちがい8」の特別ルールにより、最後まで抜けられなかった今田が「IQファーム」に転落し、SPゲスト「藤本軍団」にこの席を奪われる。このペナルティにより今田は番組を降板となり、翌週8月25日放送分は2代目サプリリーダーとなった[藤本敏史](https://ja.wikipedia.org/wiki/藤本敏史 "wikilink")がこの席に座る。今田復帰後は、その回のみ藤本とタッグを組んだ。
+9.  2007年[8月18日](../Page/8月18日.md "wikilink")放送分では「IQミラーまちがい8」の特別ルールにより、最後まで抜けられなかった今田が「IQファーム」に転落し、SPゲスト「藤本軍団」にこの席を奪われる。このペナルティにより今田は番組を降板となり、翌週8月25日放送分は2代目サプリリーダーとなった[藤本敏史](../Page/藤本敏史.md "wikilink")がこの席に座る。今田復帰後は、その回のみ藤本とタッグを組んだ。
 10. 2005年12月3日放送分は石塚が欠席（代わりに、問題VTRで出演）したため、[パパイヤ鈴木](../Page/パパイヤ鈴木.md "wikilink")が代わりに石塚の席に座った。
 11. 2007年4月からは「モヤッと」と書かれていた部分がデジタル式のモニターにリニューアルされた。特番時代は、2007年3月以前のシンプルな物に戻っている。また、モヤッとホールにモヤッとボール以外の物を入れると、CGで燃えて消滅する。
 12. 例として、[中川家](../Page/中川家.md "wikilink")がマスター伊東の事を「**伊藤さん**」と書き間違えて没収された事がある。

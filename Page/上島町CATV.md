@@ -7,11 +7,11 @@
 
 ### 弓削局
 
-  - 愛媛県越智郡上島町（[弓削地区](https://ja.wikipedia.org/wiki/弓削町_\(愛媛県\) "wikilink")）
+  - 愛媛県越智郡上島町（[弓削地区](../Page/弓削町_\(愛媛県\).md "wikilink")）
 
 ### 魚島局
 
-  - 愛媛県越智郡上島町（[魚島地区](https://ja.wikipedia.org/wiki/魚島村 "wikilink")）
+  - 愛媛県越智郡上島町（[魚島地区](../Page/魚島村.md "wikilink")）
 
 ## 主な放送チャンネル
 
@@ -35,7 +35,7 @@
 <tr class="odd">
 <td><p>弓削局</p></td>
 <td><p><a href="../Page/NHK松山放送局.md" title="wikilink">NHK松山</a><br />
-<a href="https://ja.wikipedia.org/wiki/NHK広島放送局" title="wikilink">NHK広島</a></p></td>
+<a href="../Page/NHK広島放送局.md" title="wikilink">NHK広島</a></p></td>
 <td><p>NHK松山<br />
 NHK広島</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/南海放送" title="wikilink">南海放送</a><br />
@@ -67,25 +67,25 @@ NHK広島</p></td>
 
 ### 地上波テレビ局
 
-| デジタル    | 放送局                                                                                               |
-| ------- | ------------------------------------------------------------------------------------------------- |
-| 弓削局     | 魚島局                                                                                               |
-| TV011   | [NHK松山](../Page/NHK松山放送局.md "wikilink")[総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink") |
-| TV011-1 |                                                                                                   |
-| TV021   | NHK松山[教育](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")                                   |
-| TV021-1 |                                                                                                   |
-| TV031   |                                                                                                   |
-| TV041   | [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")                                             |
-| TV041-1 |                                                                                                   |
-| TV051   | [愛媛朝日テレビ](../Page/愛媛朝日テレビ.md "wikilink")                                                          |
-| TV051-1 |                                                                                                   |
-|         | TV051-1                                                                                           |
-| TV061   | [あいテレビ](../Page/あいテレビ.md "wikilink")                                                              |
-|         | TV061-1                                                                                           |
-| TV071   | [テレビせとうち](../Page/テレビせとうち.md "wikilink")                                                          |
-| TV081   | [テレビ愛媛](../Page/テレビ愛媛.md "wikilink")                                                              |
-| TV081-1 |                                                                                                   |
-| TV111   | シマテレビ                                                                                             |
+| デジタル    | 放送局                                                                            |
+| ------- | ------------------------------------------------------------------------------ |
+| 弓削局     | 魚島局                                                                            |
+| TV011   | [NHK松山](../Page/NHK松山放送局.md "wikilink")[総合](../Page/NHK総合テレビジョン.md "wikilink") |
+| TV011-1 |                                                                                |
+| TV021   | NHK松山[教育](../Page/NHK教育テレビジョン.md "wikilink")                                   |
+| TV021-1 |                                                                                |
+| TV031   |                                                                                |
+| TV041   | [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")                          |
+| TV041-1 |                                                                                |
+| TV051   | [愛媛朝日テレビ](../Page/愛媛朝日テレビ.md "wikilink")                                       |
+| TV051-1 |                                                                                |
+|         | TV051-1                                                                        |
+| TV061   | [あいテレビ](../Page/あいテレビ.md "wikilink")                                           |
+|         | TV061-1                                                                        |
+| TV071   | [テレビせとうち](../Page/テレビせとうち.md "wikilink")                                       |
+| TV081   | [テレビ愛媛](../Page/テレビ愛媛.md "wikilink")                                           |
+| TV081-1 |                                                                                |
+| TV111   | シマテレビ                                                                          |
 
 ### BSデジタル放送
 
@@ -99,7 +99,7 @@ NHK広島</p></td>
 <tbody>
 <tr class="odd">
 <td><p>101</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK_BS1" title="wikilink">NHK BS1</a></p></td>
+<td><p><a href="../Page/NHK_BS1.md" title="wikilink">NHK BS1</a></p></td>
 </tr>
 <tr class="even">
 <td><p>103</p></td>
@@ -155,7 +155,7 @@ NHK広島</p></td>
 </tr>
 <tr class="odd">
 <td><p>222</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ワールド・ハイビジョン・チャンネル" title="wikilink">BS12 トゥエルビ</a></p></td>
+<td><p><a href="../Page/ワールド・ハイビジョン・チャンネル.md" title="wikilink">BS12 トゥエルビ</a></p></td>
 </tr>
 <tr class="even">
 <td><p>231〜233</p></td>
@@ -163,11 +163,11 @@ NHK広島</p></td>
 </tr>
 <tr class="odd">
 <td><p>234</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/グリーンチャンネル" title="wikilink">グリーンチャンネル</a></p></td>
+<td><p><a href="../Page/グリーンチャンネル.md" title="wikilink">グリーンチャンネル</a></p></td>
 </tr>
 <tr class="even">
 <td><p>236</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アニマックス" title="wikilink">BSアニマックス</a></p></td>
+<td><p><a href="../Page/アニマックス.md" title="wikilink">BSアニマックス</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>238</p></td>
@@ -196,7 +196,7 @@ NHK広島</p></td>
 </tr>
 <tr class="odd">
 <td><p>251</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/釣りビジョン" title="wikilink">BS釣りビジョン</a></p></td>
+<td><p><a href="../Page/釣りビジョン.md" title="wikilink">BS釣りビジョン</a></p></td>
 </tr>
 <tr class="even">
 <td><p>252</p></td>
@@ -204,11 +204,11 @@ NHK広島</p></td>
 </tr>
 <tr class="odd">
 <td><p>255</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日本映画専門チャンネル" title="wikilink">BS日本映画専門チャンネル</a></p></td>
+<td><p><a href="../Page/日本映画専門チャンネル.md" title="wikilink">BS日本映画専門チャンネル</a></p></td>
 </tr>
 <tr class="even">
 <td><p>256</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ディズニー・チャンネル" title="wikilink">ディズニー・チャンネル</a></p></td>
+<td><p><a href="../Page/ディズニー・チャンネル.md" title="wikilink">ディズニー・チャンネル</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>258</p></td>
@@ -228,15 +228,15 @@ NHK広島</p></td>
 
 ### ラジオ局
 
-| 周波数(MHz) | 放送局                                                                                            |
-| -------- | ---------------------------------------------------------------------------------------------- |
-| 弓削局      | 魚島局                                                                                            |
-| 79.1     | [FM愛媛](../Page/エフエム愛媛.md "wikilink")                                                           |
-| 80.9     | [NHK松山](../Page/NHK松山放送局.md "wikilink")[FM](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink") |
+| 周波数(MHz) | 放送局                                                                         |
+| -------- | --------------------------------------------------------------------------- |
+| 弓削局      | 魚島局                                                                         |
+| 79.1     | [FM愛媛](../Page/エフエム愛媛.md "wikilink")                                        |
+| 80.9     | [NHK松山](../Page/NHK松山放送局.md "wikilink")[FM](../Page/NHK-FM放送.md "wikilink") |
 
 ## 区域外再放送の問題
 
-上島町CATVでデジタル化が遅れていた原因に、[区域外再放送](https://ja.wikipedia.org/wiki/区域外再放送 "wikilink")の問題がある。
+上島町CATVでデジタル化が遅れていた原因に、[区域外再放送](../Page/区域外再放送.md "wikilink")の問題がある。
 
 地理的にも経済的にも[広島県](../Page/広島県.md "wikilink")であると言える[上島町](https://ja.wikipedia.org/wiki/上島町 "wikilink")であるが、[テレビせとうち](../Page/テレビせとうち.md "wikilink")、[中国放送](../Page/中国放送.md "wikilink")、[広島テレビ](../Page/広島テレビ放送.md "wikilink")、[広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")、[テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")が区域外再放送を認めないからである。特に[テレビせとうち](../Page/テレビせとうち.md "wikilink")が入らないことになると、契約者は[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列の番組を見られなくなる。
 
@@ -246,7 +246,7 @@ NHK広島</p></td>
 
 ## 全町CATV事業
 
-上島町情報通信基盤整備事業が実施され、[生名村](https://ja.wikipedia.org/wiki/生名村 "wikilink")地区・[岩城村](https://ja.wikipedia.org/wiki/岩城村 "wikilink")地区もサービスエリアとなる予定である。光ファイバーを加入者世帯に敷設する方式で町全域が整備される。これにより、愛媛県の地上デジタル放送6波、広島県の地上デジタル放送6波と、BS放送10波の視聴が可能となり、インターネットサービスは[フレッツ光](https://ja.wikipedia.org/wiki/フレッツ光 "wikilink")マイタウンネクストを利用して1Gbpsの高速通信ができる。また、「告知端末機」による「お知らせ」や「緊急放送」の実施予定がある。
+上島町情報通信基盤整備事業が実施され、[生名村](../Page/生名村.md "wikilink")地区・[岩城村](../Page/岩城村.md "wikilink")地区もサービスエリアとなる予定である。光ファイバーを加入者世帯に敷設する方式で町全域が整備される。これにより、愛媛県の地上デジタル放送6波、広島県の地上デジタル放送6波と、BS放送10波の視聴が可能となり、インターネットサービスは[フレッツ光](https://ja.wikipedia.org/wiki/フレッツ光 "wikilink")マイタウンネクストを利用して1Gbpsの高速通信ができる。また、「告知端末機」による「お知らせ」や「緊急放送」の実施予定がある。
 
   - 上島町情報通信基盤整備事業のご案内 [1](http://www.town.kamijima.ehime.jp/file/open/1235480496_818505_1758_pdf1.pdf)
   - 「地域イントラネット基盤施設整備事業」及び「地域情報通信基盤整備推進交付金」の交付を決定≪上島町、四万十町の情報通信基盤整備を支援≫ [2](http://www.soumu.go.jp/soutsu/shikoku/press/2008press/200808/2008082802.html)
@@ -255,8 +255,8 @@ NHK広島</p></td>
 ## 関連項目
 
   - [ケーブルテレビ局の一覧](../Page/ケーブルテレビ局の一覧.md "wikilink")
-  - [区域外再放送](https://ja.wikipedia.org/wiki/区域外再放送 "wikilink")
-  - [セットトップボックス](https://ja.wikipedia.org/wiki/セットトップボックス "wikilink")
+  - [区域外再放送](../Page/区域外再放送.md "wikilink")
+  - [セットトップボックス](../Page/セットトップボックス.md "wikilink")
   - [ケーブルテレビ向けCS放送](../Page/ケーブルテレビ向けCS放送.md "wikilink")
   - [デジタルチューナー](https://ja.wikipedia.org/wiki/デジタルチューナー "wikilink")
   - [ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")

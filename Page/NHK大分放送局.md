@@ -1,27 +1,27 @@
 > この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
 
 
-[thumb全景](https://ja.wikipedia.org/wiki/ファイル:Oita_Oasis_Hiroba_21_1.jpg "wikilink")\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:NHK大分放送局入口.JPG "wikilink") **NHK大分放送局**（エヌエイチケイおおいたほうそうきょく）は、[大分県](../Page/大分県.md "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](https://ja.wikipedia.org/wiki/日本放送協会放送局の一覧 "wikilink")。テレビとラジオで[県域放送](../Page/県域放送.md "wikilink")を行っている。
+[thumb全景](https://ja.wikipedia.org/wiki/ファイル:Oita_Oasis_Hiroba_21_1.jpg "wikilink")\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:NHK大分放送局入口.JPG "wikilink") **NHK大分放送局**（エヌエイチケイおおいたほうそうきょく）は、[大分県](../Page/大分県.md "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。テレビとラジオで[県域放送](../Page/県域放送.md "wikilink")を行っている。
 
 ## 概要
 
-[1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")[6月20日](../Page/6月20日.md "wikilink")、[大分市](../Page/大分市.md "wikilink")西大分において、[コールサイン](https://ja.wikipedia.org/wiki/識別信号 "wikilink")**「JOIP」**[周波数](../Page/周波数.md "wikilink")700[kc](https://ja.wikipedia.org/wiki/キロヘルツ "wikilink")、[出力](https://ja.wikipedia.org/wiki/空中線電力 "wikilink")500[Wでラジオ開局](../Page/ワット.md "wikilink")、[1959年](../Page/1959年.md "wikilink")8月には[テレビ](../Page/テレビ.md "wikilink")ジョン放送が始まった。[九州](../Page/九州.md "wikilink")では[佐賀とともに後発組である](https://ja.wikipedia.org/wiki/NHK佐賀放送局 "wikilink")。
+[1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")[6月20日](../Page/6月20日.md "wikilink")、[大分市](../Page/大分市.md "wikilink")西大分において、[コールサイン](https://ja.wikipedia.org/wiki/識別信号 "wikilink")**「JOIP」**[周波数](../Page/周波数.md "wikilink")700[kc](https://ja.wikipedia.org/wiki/キロヘルツ "wikilink")、[出力](../Page/空中線電力.md "wikilink")500[Wでラジオ開局](../Page/ワット.md "wikilink")、[1959年](../Page/1959年.md "wikilink")8月には[テレビ](../Page/テレビ.md "wikilink")ジョン放送が始まった。[九州](../Page/九州.md "wikilink")では[佐賀とともに後発組である](../Page/NHK佐賀放送局.md "wikilink")。
 
 ## 沿革
 
-  - [1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")（昭和16年）6月 - **社団法人日本放送協会大分放送局**、大分市神崎（現在の[NHK平原ラジオ放送所](https://ja.wikipedia.org/wiki/NHK平原ラジオ放送所 "wikilink")）に開局（局長以下16名）。
+  - [1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")（昭和16年）6月 - **社団法人日本放送協会大分放送局**、大分市神崎（現在の[NHK平原ラジオ放送所](../Page/NHK平原ラジオ放送所.md "wikilink")）に開局（局長以下16名）。
   - [1950年](../Page/1950年.md "wikilink")（昭和25年）6月1日 - [放送法](../Page/放送法.md "wikilink")施行に伴い社団法人日本放送協会が解散。[特殊法人](../Page/特殊法人.md "wikilink")としての**日本放送協会**が設立され一切の権利義務を継承。
-  - [1954年](../Page/1954年.md "wikilink")（昭和29年）2月 - 第3回[別府大分毎日マラソン](https://ja.wikipedia.org/wiki/別府大分毎日マラソン "wikilink")大会ラジオ中継開始。
+  - [1954年](../Page/1954年.md "wikilink")（昭和29年）2月 - 第3回[別府大分毎日マラソン](../Page/別府大分毎日マラソン.md "wikilink")大会ラジオ中継開始。
   - [1959年](../Page/1959年.md "wikilink")（昭和34年）8月 - 総合テレビ放送開始。
   - [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")（昭和36年）5月 - ローカル放送開始。
   - [1962年](../Page/1962年.md "wikilink")（昭和37年）12月 - 教育テレビ（現：Eテレ）放送開始。
   - [1962年](../Page/1962年.md "wikilink")（昭和37年）12月 - 大分市東春日町1-2へ移転。
   - [1963年](../Page/1963年.md "wikilink")（昭和38年） - カラー放送開始。
   - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")（昭和44年）3月 - FM放送開始。
-  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）9月 - 新会館（大分市高砂町の[OASISひろば21](https://ja.wikipedia.org/wiki/OASISひろば21 "wikilink")）へ移転。
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）9月 - 新会館（大分市高砂町の[OASISひろば21](../Page/OASISひろば21.md "wikilink")）へ移転。
   - [2001年](../Page/2001年.md "wikilink")（平成13年）6月 - 開局60周年。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）11月1日 - [地上デジタル放送の試験放送](../Page/地上デジタルテレビ放送.md "wikilink")（サイマル放送）開始。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）12月1日 - 地上デジタル放送開始。
+  - [2006年](../Page/2006年.md "wikilink")（平成18年）11月1日 - [地上デジタル放送の試験放送](../Page/地上デジタルテレビ放送.md "wikilink")（サイマル放送）開始。
+  - [2006年](../Page/2006年.md "wikilink")（平成18年）12月1日 - 地上デジタル放送開始。
   - [2011年](../Page/2011年.md "wikilink")（平成23年）7月24日 - アナログ放送終了。
 
 ## 主なテレビの送信所・中継局
@@ -46,11 +46,11 @@
 [リモコンキーID](../Page/リモコンキーID.md "wikilink")：**【1】**
 
   - 大分：15ch　1kW（十文字原）
-  - 野津原：15ch　3W　[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")（平成19年）9月開局　（坊主山）
-  - 大分東：15ch　1W　[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")（平成19年）9月開局 （[横江山](https://ja.wikipedia.org/wiki/横江山 "wikilink")）
-  - 玖珠：15ch　10W　[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")（平成19年）12月開局　（崩平山）
-  - 中津：15ch　40W　[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）3月開局　（[八面山](https://ja.wikipedia.org/wiki/八面山_\(大分県\) "wikilink")）
-  - [三重](https://ja.wikipedia.org/wiki/三重中継局_\(大分県\) "wikilink")：17ch　10W　[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")（平成19年）12月開局　（佩楯山）
+  - 野津原：15ch　3W　[2007年](../Page/2007年.md "wikilink")（平成19年）9月開局　（坊主山）
+  - 大分東：15ch　1W　[2007年](../Page/2007年.md "wikilink")（平成19年）9月開局 （[横江山](https://ja.wikipedia.org/wiki/横江山 "wikilink")）
+  - 玖珠：15ch　10W　[2007年](../Page/2007年.md "wikilink")（平成19年）12月開局　（崩平山）
+  - 中津：15ch　40W　[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）3月開局　（[八面山](../Page/八面山_\(大分県\).md "wikilink")）
+  - [三重](https://ja.wikipedia.org/wiki/三重中継局_\(大分県\) "wikilink")：17ch　10W　[2007年](../Page/2007年.md "wikilink")（平成19年）12月開局　（佩楯山）
   - 日田：15ch　 3W　[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）7月開局　（尾当山）
   - 佐伯：15ch 10W　[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）12月開局　（波越山）
 
@@ -58,14 +58,14 @@
 
 [コールサイン](https://ja.wikipedia.org/wiki/識別信号 "wikilink")：**JOIP-TV**
 
-  - 大分：3ch　映像3kW／音声750W（[別府市](../Page/別府市.md "wikilink")[十文字原](https://ja.wikipedia.org/wiki/十文字原テレビ・FM放送所 "wikilink")）
-  - [中津](../Page/中津市.md "wikilink")：48ch　映像100W／音声25W(中津市[三光](https://ja.wikipedia.org/wiki/三光村 "wikilink")[八面山](https://ja.wikipedia.org/wiki/八面山_\(大分県\) "wikilink"))
-  - [日田](../Page/日田市.md "wikilink")：5ch　映像16W／音声4W（日田市[尾当山](https://ja.wikipedia.org/wiki/日田テレビ・FM中継局 "wikilink")）
-  - [佐伯](https://ja.wikipedia.org/wiki/佐伯市 "wikilink")：7ch　映像30W／音声7.5W（佐伯市[波越山](https://ja.wikipedia.org/wiki/佐伯中継局 "wikilink")）
-  - [竹田](https://ja.wikipedia.org/wiki/竹田市 "wikilink")：8ch　映像3W／音声750mW（豊後大野市朝地町[三宅山](https://ja.wikipedia.org/wiki/三宅山 "wikilink")）
-  - [三重](https://ja.wikipedia.org/wiki/豊後大野市 "wikilink")：58ch　映像100W／音声25W（豊後大野市三重町[佩楯山](https://ja.wikipedia.org/wiki/佩楯山 "wikilink")）
-  - [国東](https://ja.wikipedia.org/wiki/国東市 "wikilink")：56ch　映像100W／音声25W（国東市[小門山](https://ja.wikipedia.org/wiki/小門山 "wikilink")）
-  - [玖珠](https://ja.wikipedia.org/wiki/玖珠町 "wikilink")：53ch　映像100W／音声25W（[九重町](https://ja.wikipedia.org/wiki/九重町 "wikilink")[崩平山](https://ja.wikipedia.org/wiki/崩平山 "wikilink")）
+  - 大分：3ch　映像3kW／音声750W（[別府市](../Page/別府市.md "wikilink")[十文字原](../Page/十文字原テレビ・FM放送所.md "wikilink")）
+  - [中津](../Page/中津市.md "wikilink")：48ch　映像100W／音声25W(中津市[三光](../Page/三光村.md "wikilink")[八面山](../Page/八面山_\(大分県\).md "wikilink"))
+  - [日田](../Page/日田市.md "wikilink")：5ch　映像16W／音声4W（日田市[尾当山](../Page/日田テレビ・FM中継局.md "wikilink")）
+  - [佐伯](../Page/佐伯市.md "wikilink")：7ch　映像30W／音声7.5W（佐伯市[波越山](https://ja.wikipedia.org/wiki/佐伯中継局 "wikilink")）
+  - [竹田](../Page/竹田市.md "wikilink")：8ch　映像3W／音声750mW（豊後大野市朝地町[三宅山](https://ja.wikipedia.org/wiki/三宅山 "wikilink")）
+  - [三重](../Page/豊後大野市.md "wikilink")：58ch　映像100W／音声25W（豊後大野市三重町[佩楯山](https://ja.wikipedia.org/wiki/佩楯山 "wikilink")）
+  - [国東](../Page/国東市.md "wikilink")：56ch　映像100W／音声25W（国東市[小門山](https://ja.wikipedia.org/wiki/小門山 "wikilink")）
+  - [玖珠](../Page/玖珠町.md "wikilink")：53ch　映像100W／音声25W（[九重町](../Page/九重町.md "wikilink")[崩平山](../Page/崩平山.md "wikilink")）
 
 ### 教育テレビジョン
 
@@ -75,11 +75,11 @@
 [リモコンキーID](../Page/リモコンキーID.md "wikilink")：**【2】**
 
   - 大分：14ch　1kW（十文字原）
-  - 野津原：14ch　3W　[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")（平成19年）9月開局
-  - 大分東：14ch　1W　[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")（平成19年）9月開局
-  - 玖珠：23ch　10W　[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")（平成19年）12月開局
+  - 野津原：14ch　3W　[2007年](../Page/2007年.md "wikilink")（平成19年）9月開局
+  - 大分東：14ch　1W　[2007年](../Page/2007年.md "wikilink")（平成19年）9月開局
+  - 玖珠：23ch　10W　[2007年](../Page/2007年.md "wikilink")（平成19年）12月開局
   - 中津：14ch　40W　[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）3月開局
-  - 三重：16ch　10W　[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")（平成19年）月開局
+  - 三重：16ch　10W　[2007年](../Page/2007年.md "wikilink")（平成19年）月開局
   - 日田：20ch　 3W　[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）7月開局
   - 佐伯：14ch 10W　[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）5月開局
 
@@ -102,12 +102,12 @@
 
 コールサイン：**JOIP**
 
-  - 大分：639kHz　5kW（[大分市](../Page/大分市.md "wikilink")生石、[NHK平原ラジオ放送所](https://ja.wikipedia.org/wiki/NHK平原ラジオ放送所 "wikilink")※[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[11月23日](../Page/11月23日.md "wikilink") - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[7月31日](../Page/7月31日.md "wikilink")は、819kHzで送信していた）
+  - 大分：639kHz　5kW（[大分市](../Page/大分市.md "wikilink")生石、[NHK平原ラジオ放送所](../Page/NHK平原ラジオ放送所.md "wikilink")※[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[11月23日](../Page/11月23日.md "wikilink") - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[7月31日](../Page/7月31日.md "wikilink")は、819kHzで送信していた）
   - 中津：981kHz　100W（[中津市](../Page/中津市.md "wikilink")下池永字錆矢堂、局舎及びアンテナは[OBSラジオ](https://ja.wikipedia.org/wiki/大分放送 "wikilink")[中津中継局](https://ja.wikipedia.org/wiki/中津中継局 "wikilink")と共用）
   - 日田：1026kHz　100W（[日田市](../Page/日田市.md "wikilink")高瀬字銭渕町、[NHK日田ラジオ中継局](https://ja.wikipedia.org/wiki/NHK日田ラジオ中継局 "wikilink")）
-  - 佐伯：1161kHz　100W（[佐伯市](https://ja.wikipedia.org/wiki/佐伯市 "wikilink")野岡、局舎及びアンテナはOBSラジオ[佐伯ラジオ中継局](https://ja.wikipedia.org/wiki/佐伯ラジオ中継局 "wikilink")と共用）
-  - 竹田：1323kHz　100W（[竹田市](https://ja.wikipedia.org/wiki/竹田市 "wikilink")飛田川字荒巻、[NHK竹田ラジオ中継局](https://ja.wikipedia.org/wiki/NHK竹田ラジオ中継局 "wikilink")）
-  - 玖珠：1341kHz　100W（[玖珠郡](../Page/玖珠郡.md "wikilink")[玖珠町](https://ja.wikipedia.org/wiki/玖珠町 "wikilink")岩室、[NHK玖珠ラジオ中継局](https://ja.wikipedia.org/wiki/NHK玖珠ラジオ中継局 "wikilink")）
+  - 佐伯：1161kHz　100W（[佐伯市](../Page/佐伯市.md "wikilink")野岡、局舎及びアンテナはOBSラジオ[佐伯ラジオ中継局](https://ja.wikipedia.org/wiki/佐伯ラジオ中継局 "wikilink")と共用）
+  - 竹田：1323kHz　100W（[竹田市](../Page/竹田市.md "wikilink")飛田川字荒巻、[NHK竹田ラジオ中継局](https://ja.wikipedia.org/wiki/NHK竹田ラジオ中継局 "wikilink")）
+  - 玖珠：1341kHz　100W（[玖珠郡](../Page/玖珠郡.md "wikilink")[玖珠町](../Page/玖珠町.md "wikilink")岩室、[NHK玖珠ラジオ中継局](https://ja.wikipedia.org/wiki/NHK玖珠ラジオ中継局 "wikilink")）
 
 <!-- end list -->
 
@@ -124,9 +124,9 @@
 <!-- end list -->
 
   -
-    ※中津市周辺は[NHK山口第2放送のエリア](https://ja.wikipedia.org/wiki/NHK山口放送局 "wikilink")
+    ※中津市周辺は[NHK山口第2放送のエリア](../Page/NHK山口放送局.md "wikilink")
     ※日田市周辺は[NHK福岡第2放送のエリア](../Page/NHK福岡放送局.md "wikilink")
-    ※竹田市・玖珠町周辺は[NHK熊本第2放送のエリア](https://ja.wikipedia.org/wiki/NHK熊本放送局 "wikilink")
+    ※竹田市・玖珠町周辺は[NHK熊本第2放送のエリア](../Page/NHK熊本放送局.md "wikilink")
 
 ### FM放送
 
@@ -187,14 +187,14 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/横井健吉" title="wikilink">横井健吉</a></p></td>
+<td><p><a href="../Page/横井健吉.md" title="wikilink">横井健吉</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/NHKグローバルメディアサービス" title="wikilink">G-Media出向</a></p></td>
 <td><p>放送部副部長<br />
 大分県のニュース<br />
 5時いろラジオ</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/寺澤敏行" title="wikilink">寺澤敏行</a></p></td>
+<td><p><a href="../Page/寺澤敏行.md" title="wikilink">寺澤敏行</a></p></td>
 <td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/いろどりOITA" title="wikilink">いろどりOITA</a><br />
 （キャスター）<br />
@@ -202,18 +202,18 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ホルコムジャック和馬" title="wikilink">ホルコムジャック和馬</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK岡山放送局" title="wikilink">岡山</a></p></td>
+<td><p><a href="../Page/NHK岡山放送局.md" title="wikilink">岡山</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/富田典保" title="wikilink">富田典保</a>*</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK岐阜放送局" title="wikilink">岐阜</a></p></td>
+<td><p><a href="../Page/NHK岐阜放送局.md" title="wikilink">岐阜</a></p></td>
 <td><p>大分県のニュース<br />
 5時いろラジオ</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/佐竹祐人" title="wikilink">佐竹祐人</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK静岡放送局" title="wikilink">静岡</a></p></td>
+<td><p><a href="../Page/NHK静岡放送局.md" title="wikilink">静岡</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

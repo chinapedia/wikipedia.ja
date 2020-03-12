@@ -1,7 +1,7 @@
 > この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
 
 
-**Sマチック**（**エスマチック**）とは[本田技研工業](https://ja.wikipedia.org/wiki/本田技研工業 "wikilink")（ホンダ）が開発した4輪車用マニュアルモード付きの[オートマチックトランスミッション](../Page/オートマチックトランスミッション.md "wikilink")及び、 2輪車用電子制御式[無段変速機](https://ja.wikipedia.org/wiki/無段変速機 "wikilink")（CVT）のことである。
+**Sマチック**（**エスマチック**）とは[本田技研工業](../Page/本田技研工業.md "wikilink")（ホンダ）が開発した4輪車用マニュアルモード付きの[オートマチックトランスミッション](../Page/オートマチックトランスミッション.md "wikilink")及び、 2輪車用電子制御式[無段変速機](../Page/無段変速機.md "wikilink")（CVT）のことである。
 
 ## 概要
 
@@ -11,13 +11,13 @@
 
 4代目[レジェンドのマイナーチェンジ以降のパドルシフトを採用している車種においては](../Page/ホンダ・レジェンド.md "wikilink")、同様の機構でありながら「Sマチック」の名称が使われていない。それらは、「Dポジション」のままでもパドルを操作することによりギア選択をすることが可能で、一定時間パドルを操作しないと通常の「自動変速モード」に自動復帰する。
 
-類似システムとして、ホンダマルチマチック（[CVT](https://ja.wikipedia.org/wiki/無段変速機 "wikilink")：HMM）に「マニュアルモード」を組み合わせたもの（HMM-S）も存在する。
+類似システムとして、ホンダマルチマチック（[CVT](../Page/無段変速機.md "wikilink")：HMM）に「マニュアルモード」を組み合わせたもの（HMM-S）も存在する。
 
 シビックの販売終了以降新型モデルで搭載されている車種はない。
 
 ### 2輪車用CVT
 
-中型スクーター、2代目[フォルツァ](https://ja.wikipedia.org/wiki/ホンダ・フォルツァ "wikilink")（MF08）に搭載された電子制御式を「Sマチック」、3代目フォルツァ（MF10）の高級グレード フォルツァZ、およびFAZE（MF11）TYPE-Sに搭載された電子制御式7速マニュアルモード付きを「SマチックEvo」と名付けている。
+中型スクーター、2代目[フォルツァ](../Page/ホンダ・フォルツァ.md "wikilink")（MF08）に搭載された電子制御式を「Sマチック」、3代目フォルツァ（MF10）の高級グレード フォルツァZ、およびFAZE（MF11）TYPE-Sに搭載された電子制御式7速マニュアルモード付きを「SマチックEvo」と名付けている。
 
 ## 現在搭載されている車種
 
@@ -33,8 +33,8 @@
 
   - 4速AT
       - [プレリュード](../Page/ホンダ・プレリュード.md "wikilink")
-      - [アコード](../Page/ホンダ・アコード.md "wikilink")／ [トルネオ](https://ja.wikipedia.org/wiki/ホンダ・トルネオ "wikilink")
-      - [インスパイア](../Page/ホンダ・インスパイア.md "wikilink")／ [セイバー](https://ja.wikipedia.org/wiki/ホンダ・セイバー "wikilink")
+      - [アコード](../Page/ホンダ・アコード.md "wikilink")／ [トルネオ](../Page/ホンダ・トルネオ.md "wikilink")
+      - [インスパイア](../Page/ホンダ・インスパイア.md "wikilink")／ [セイバー](../Page/ホンダ・セイバー.md "wikilink")
       - [オデッセイ](https://ja.wikipedia.org/wiki/ホンダ・オデッセイ "wikilink")
   - 5速AT
       - インスパイア
@@ -53,6 +53,6 @@
 
 ## 関連項目
 
-  - [ホンダマチック](https://ja.wikipedia.org/wiki/ホンダマチック "wikilink")：ホンダ独自開発の半自動 / 自動変速機。
+  - [ホンダマチック](../Page/ホンダマチック.md "wikilink")：ホンダ独自開発の半自動 / 自動変速機。
 
 [Category:自動車トランスミッション技術](https://ja.wikipedia.org/wiki/Category:自動車トランスミッション技術 "wikilink") [Category:本田技研工業の自動車技術](https://ja.wikipedia.org/wiki/Category:本田技研工業の自動車技術 "wikilink")

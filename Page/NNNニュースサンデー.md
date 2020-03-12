@@ -1,21 +1,21 @@
 > この記事は[NNN](https://ja.wikipedia.org/wiki/NNN)から翻訳されています。
 
 
-『**NNNニュースサンデー**』（エヌエヌエヌ ニュースサンデー）とは、[1996年](../Page/1996年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")から[日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")（[NNN](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")）で放送されている[ニュース番組](../Page/報道番組.md "wikilink")（[手話ニュース](https://ja.wikipedia.org/wiki/手話ニュース "wikilink")）である。放送時間は毎週日曜日 6:15 - 6:30 （[JST](../Page/日本標準時.md "wikilink")）。民放の全国ニュースとしては、[2019年](../Page/2019年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")放送分まで唯一の手話ニュース番組となっていた（[2019年](../Page/2019年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")から土日朝の「[JNNニュース](../Page/JNNニュース.md "wikilink")」においても手話通訳が導入された為、現在は2番組となっている（土曜朝の手話通訳はJNNのみ））。
+『**NNNニュースサンデー**』（エヌエヌエヌ ニュースサンデー）とは、[1996年](../Page/1996年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")から[日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")（[NNN](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")）で放送されている[ニュース番組](../Page/報道番組.md "wikilink")（[手話ニュース](../Page/手話ニュース.md "wikilink")）である。放送時間は毎週日曜日 6:15 - 6:30 （[JST](../Page/日本標準時.md "wikilink")）。民放の全国ニュースとしては、[2019年](../Page/2019年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")放送分まで唯一の手話ニュース番組となっていた（[2019年](../Page/2019年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")から土日朝の「[JNNニュース](../Page/JNNニュース.md "wikilink")」においても手話通訳が導入された為、現在は2番組となっている（土曜朝の手話通訳はJNNのみ））。
 
 ## 概要
 
-長年放送された『**[NNN朝のニュース](https://ja.wikipedia.org/wiki/NNN朝のニュース "wikilink")**』からタイトルを変更した番組である。『[日本テレビ小鳩文化事業団](https://ja.wikipedia.org/wiki/日本テレビ小鳩文化事業団 "wikilink")』の協力による同時[手話通訳](../Page/手話通訳.md "wikilink")放送が行われており、6:28（2014年9月28日までは6:58）までCMは一切放送されない。最初は[明治生命](https://ja.wikipedia.org/wiki/明治安田生命 "wikilink")（当時、現：明治安田生命）がスポンサーに付いていた（ただしCMは流れていなかった）。2003年9月に明治生命（提供読みは**「明るい社会づくりに奉仕する明治生命」**のちの**「ゆたかな明日へ 明治生命」**だった）がスポンサーから撤退したが、現在でも手話通訳は続いている。[報道特別番組](https://ja.wikipedia.org/wiki/報道特別番組 "wikilink")と重なった場合は番組休止と共に手話通訳も休止になる。
+長年放送された『**[NNN朝のニュース](../Page/NNN朝のニュース.md "wikilink")**』からタイトルを変更した番組である。『[日本テレビ小鳩文化事業団](../Page/日本テレビ小鳩文化事業団.md "wikilink")』の協力による同時[手話通訳](../Page/手話通訳.md "wikilink")放送が行われており、6:28（2014年9月28日までは6:58）までCMは一切放送されない。最初は[明治生命](https://ja.wikipedia.org/wiki/明治安田生命 "wikilink")（当時、現：明治安田生命）がスポンサーに付いていた（ただしCMは流れていなかった）。2003年9月に明治生命（提供読みは**「明るい社会づくりに奉仕する明治生命」**のちの**「ゆたかな明日へ 明治生命」**だった）がスポンサーから撤退したが、現在でも手話通訳は続いている。[報道特別番組](../Page/報道特別番組.md "wikilink")と重なった場合は番組休止と共に手話通訳も休止になる。
 
 『[24時間テレビ 「愛は地球を救う」](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink")』放送時においては、2004年以前には途中でイベント放送を打ち切り、6:45にはニューススタジオに移っていた（武道館アナウンサーが「（途中ですが、）ここでニュースです」とアナウンスを入れる。ただし、武道館ではイベントを続行させる）。この時のBGMは、ニュースサンデー（朝のニュース時代から）のオープニングの後、「手話通訳同時放送」のコメント（後述）をする際にバックでかかっていた曲である。しかし、2005年からはアナウンスの後に「NNNニュースサンデー」のロゴを挿入するようになった（ただし、枠が10分間であるためローカル枠は6:53頃（通常より3、4分早い）から）。2011年放送分のタイムテーブルでは6:45 - 6:57までとなっている。
 
-セットは2016年12月4日から『[news every.](https://ja.wikipedia.org/wiki/news_every. "wikilink")』（2006年3月までは『[ニュース朝いち430](../Page/ニュース朝いち430.md "wikilink")』のセット、2016年11月27日までは『[Oha\!4 NEWS LIVE](https://ja.wikipedia.org/wiki/Oha!4_NEWS_LIVE "wikilink")』のセット）のセットから放送している（麹町の頃は『[NNNニュースプラス1](../Page/NNNニュースプラス1.md "wikilink")』のセットから放送していた）。 また、2004年2月29日に汐留に移転して初めて生放送した番組が本番組である（この時の放送は当時担当していた[延友陽子](https://ja.wikipedia.org/wiki/延友陽子 "wikilink")）。汐留に移転後初回は通常とは異なり、報道スタジオではなく報道局顔出しブース(通称報道フロア)から放送された。
+セットは2016年12月4日から『[news every.](https://ja.wikipedia.org/wiki/news_every. "wikilink")』（2006年3月までは『[ニュース朝いち430](../Page/ニュース朝いち430.md "wikilink")』のセット、2016年11月27日までは『[Oha\!4 NEWS LIVE](../Page/Oha!4_NEWS_LIVE.md "wikilink")』のセット）のセットから放送している（麹町の頃は『[NNNニュースプラス1](../Page/NNNニュースプラス1.md "wikilink")』のセットから放送していた）。 また、2004年2月29日に汐留に移転して初めて生放送した番組が本番組である（この時の放送は当時担当していた[延友陽子](https://ja.wikipedia.org/wiki/延友陽子 "wikilink")）。汐留に移転後初回は通常とは異なり、報道スタジオではなく報道局顔出しブース(通称報道フロア)から放送された。
 
 2011年10月9日からは編成上の音声が[ステレオに変更されスタジオ音声はBGMや効果音も含めて](../Page/ステレオ放送.md "wikilink")[モノラル音源の状態だったが](https://ja.wikipedia.org/wiki/モノラル放送 "wikilink")、2016年4月3日からフルステレオ放送になった。
 
 一般的には「ニュースサンデー」と呼ばれているが、番組表上では「NNNニュース・サンデー」と区切って表記されている。なお、『**NNN ミヤギテレビニュースサンデー**』（[ミヤギテレビ](../Page/宮城テレビ放送.md "wikilink")）\[1\]のようにタイトルを差し替えて放送する局もある。
 
-[2014年](../Page/2014年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")より、日本テレビにおいて『[遠くへ行きたい](https://ja.wikipedia.org/wiki/遠くへ行きたい_\(テレビ番組\) "wikilink")』（[読売テレビ制作](../Page/讀賣テレビ放送.md "wikilink")、制作局より30分[先行ネット](https://ja.wikipedia.org/wiki/先行ネット "wikilink")）を6:30 - 7:00に放送することとなったため、本番組の放送時間が30分繰り上げられ、6:15 - 6:30に変更された。なお、枠移動後の2015年度・2016年度は『24時間テレビ』放送時は6:45 - 6:57に放送していたが、2017年度からは6:43 - 6:55に繰り上げて放送されている。
+[2014年](../Page/2014年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")より、日本テレビにおいて『[遠くへ行きたい](../Page/遠くへ行きたい_\(テレビ番組\).md "wikilink")』（[読売テレビ制作](../Page/讀賣テレビ放送.md "wikilink")、制作局より30分[先行ネット](../Page/先行ネット.md "wikilink")）を6:30 - 7:00に放送することとなったため、本番組の放送時間が30分繰り上げられ、6:15 - 6:30に変更された。なお、枠移動後の2015年度・2016年度は『24時間テレビ』放送時は6:45 - 6:57に放送していたが、2017年度からは6:43 - 6:55に繰り上げて放送されている。
 
 画面右下に手話通訳を流すため、画面下部の字幕スーパーは左詰めで表示される。また地方局発のニュース映像では、生中継の場合を除き基本的には日テレ側で字幕を挿入するが、ニュース読みは当番組の担当キャスターが生で読む場合と地方局のアナウンサーが収録で読む場合のいずれかに分かれている。
 
@@ -44,7 +44,7 @@
 
   -
     赤の円の中に「」。円の下には「」の表記。
-    当番組の他『[NNNニュースサタデー](https://ja.wikipedia.org/wiki/NNNニュースサタデー "wikilink")』、『[NNNニュース](https://ja.wikipedia.org/wiki/NNNニュース "wikilink")』も同時に変更。当番組は赤とした。これに対し、『NNNニュース』は黄緑、『NNNニュースサタデー』は[水色](../Page/水色.md "wikilink")である。
+    当番組の他『[NNNニュースサタデー](../Page/NNNニュースサタデー.md "wikilink")』、『[NNNニュース](../Page/NNNニュース.md "wikilink")』も同時に変更。当番組は赤とした。これに対し、『NNNニュース』は黄緑、『NNNニュースサタデー』は[水色](../Page/水色.md "wikilink")である。
     この代からCGがハイビジョン対応になっており、オープニングでは「S」をイメージした赤と白のバックが移動し、ニュース映像をバックにCGを形成する。エンディングでは終了直前に右上に番組ロゴ、その下にピンク縁取り・白抜きの「END」の文字が回転し終了する。BGMはオープニングはテンポが早く、エンディングではややゆったりとしている。。
 
 <!-- end list -->
@@ -73,7 +73,7 @@
 <tr class="odd">
 <td><p>1996.4.7</p></td>
 <td><p>2000.3.26</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/野口敦史" title="wikilink">野口敦史</a><sup>1</sup></p></td>
+<td><p><a href="../Page/野口敦史.md" title="wikilink">野口敦史</a><sup>1</sup></p></td>
 </tr>
 <tr class="even">
 <td><p>2000.4.2</p></td>
@@ -88,7 +88,7 @@
 <tr class="even">
 <td><p>2002.4.7</p></td>
 <td><p>2003.9.28</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/河本香織" title="wikilink">河本香織</a></p></td>
+<td><p><a href="../Page/河本香織.md" title="wikilink">河本香織</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2003.10.5</p></td>
@@ -98,17 +98,17 @@
 <tr class="even">
 <td><p>2004.10.3</p></td>
 <td><p>2005.3.27</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/新谷保志" title="wikilink">新谷保志</a><sup>1</sup></p></td>
+<td><p><a href="../Page/新谷保志.md" title="wikilink">新谷保志</a><sup>1</sup></p></td>
 </tr>
 <tr class="odd">
 <td><p>2005.4.3</p></td>
 <td><p>2005.9.25</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/藤井貴彦" title="wikilink">藤井貴彦</a></p></td>
+<td><p><a href="../Page/藤井貴彦.md" title="wikilink">藤井貴彦</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2005.10.2</p></td>
 <td><p>2010.3.28</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山下美穂子" title="wikilink">山下美穂子</a><sup>1</sup></p></td>
+<td><p><a href="../Page/山下美穂子.md" title="wikilink">山下美穂子</a><sup>1</sup></p></td>
 </tr>
 <tr class="odd">
 <td><p>2010.4.4</p></td>
@@ -230,9 +230,9 @@
 ### 備考
 
   - 担当アナウンサーは全員[日本テレビアナウンサー](https://ja.wikipedia.org/wiki/日本テレビのアナウンサー一覧 "wikilink")（野口、河本、河合、加藤、古市、上田は当時）。
-  - 山下はスポーツ中継への出演を優先するため、2007年10月から2009年9月までは[杉上佐智枝](https://ja.wikipedia.org/wiki/杉上佐智枝 "wikilink")（『ストレイトニュース』と兼務）、2009年10月以降は加藤が代役を務めた。
+  - 山下はスポーツ中継への出演を優先するため、2007年10月から2009年9月までは[杉上佐智枝](../Page/杉上佐智枝.md "wikilink")（『ストレイトニュース』と兼務）、2009年10月以降は加藤が代役を務めた。
   - 上田はスポーツ中継への出演を優先するため、[山本紘之](https://ja.wikipedia.org/wiki/山本紘之 "wikilink")が代役を務めることが多かった。
-  - 高塚は気象予報士、元[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")アナウンサー。高塚担当以前は[日本気象協会](https://ja.wikipedia.org/wiki/日本気象協会 "wikilink")の予報官が出演していた。2008年4月から天気画面には、お天気マスコットの[そらジロー](https://ja.wikipedia.org/wiki/そらジロー "wikilink")が登場。
+  - 高塚は気象予報士、元[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")アナウンサー。高塚担当以前は[日本気象協会](../Page/日本気象協会.md "wikilink")の予報官が出演していた。2008年4月から天気画面には、お天気マスコットの[そらジロー](../Page/そらジロー.md "wikilink")が登場。
       - 高塚は「ニュースサンデー」と「[お昼のニュース](https://ja.wikipedia.org/wiki/日本テレビ系列昼ニュース枠 "wikilink")」の合間の時間、かつて生放送で行われたNNN24の気象情報で解説をしていた。日テレNEWS24では生天気を原則行わないため出演していない）。ただし、[台風](../Page/台風.md "wikilink")接近時など重大な気象事案発生時は、[シューイチ](https://ja.wikipedia.org/wiki/シューイチ "wikilink")で気象解説等を行う場合がある。
 
 ## 番組内容
@@ -249,7 +249,7 @@
 
   - 原則として番組終了は6:27.45であるが、6:28.00や6:28.15で終了したりすることがたびたびあり変則的である。
   - 過去にはニュースフラッシュがあり、BGMはかつて『[日曜夕刊](../Page/NNN日曜夕刊.md "wikilink")』で使われていたものと同じだった。
-  - なお、天気コーナーでバックに流れるBGMは長らく[ノーマン・ブラウン](https://ja.wikipedia.org/wiki/ノーマン・ブラウン "wikilink")の「TOGETHER AT LAST」が2016年3月27日まで使用されていたが、同年4月3日からは別のBGMに変更された。地方局への配慮のため、ローカル枠の直前に一旦BGMがフェードアウトする。
+  - なお、天気コーナーでバックに流れるBGMは長らく[ノーマン・ブラウン](../Page/ノーマン・ブラウン.md "wikilink")の「TOGETHER AT LAST」が2016年3月27日まで使用されていたが、同年4月3日からは別のBGMに変更された。地方局への配慮のため、ローカル枠の直前に一旦BGMがフェードアウトする。
 
 ## ネット局
 
@@ -274,7 +274,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/札幌テレビ放送" title="wikilink">札幌テレビ</a>（STV）</p></td>
+<td><p><a href="../Page/札幌テレビ放送.md" title="wikilink">札幌テレビ</a>（STV）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -303,7 +303,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/山形県" title="wikilink">山形県</a></p></td>
+<td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
 <td><p><a href="../Page/山形放送.md" title="wikilink">山形放送</a>（YBC）</p></td>
 <td></td>
 <td></td>
@@ -394,7 +394,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/岡山県・香川県の放送" title="wikilink">香川県・岡山県</a></p></td>
+<td><p><a href="../Page/岡山県・香川県の放送.md" title="wikilink">香川県・岡山県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/西日本放送テレビ" title="wikilink">西日本放送</a>（RNC）</p></td>
 <td></td>
 <td></td>
@@ -412,14 +412,14 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/福岡放送.md" title="wikilink">福岡放送</a>（FBS）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/長崎県.md" title="wikilink">長崎県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長崎国際テレビ" title="wikilink">長崎国際テレビ</a>（NIB）</p></td>
+<td><p><a href="../Page/長崎国際テレビ.md" title="wikilink">長崎国際テレビ</a>（NIB）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -431,13 +431,13 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/大分県.md" title="wikilink">大分県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビ大分" title="wikilink">テレビ大分</a>（TOS）[2]</p></td>
+<td><p><a href="../Page/テレビ大分.md" title="wikilink">テレビ大分</a>（TOS）[2]</p></td>
 <td><p>日本テレビ系列<br />
 <a href="../Page/フジニュースネットワーク.md" title="wikilink">フジテレビ系列</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/鹿児島県" title="wikilink">鹿児島県</a></p></td>
+<td><p><a href="../Page/鹿児島県.md" title="wikilink">鹿児島県</a></p></td>
 <td><p><a href="../Page/鹿児島讀賣テレビ.md" title="wikilink">鹿児島読売テレビ</a>（KYT）</p></td>
 <td><p>日本テレビ系列</p></td>
 <td></td>
@@ -450,11 +450,11 @@
 ## 関連項目
 
   - [NNN News Network）](https://ja.wikipedia.org/wiki/NNN "wikilink")（Nippon
-  - [NNNニュース](https://ja.wikipedia.org/wiki/NNNニュース "wikilink")
+  - [NNNニュース](../Page/NNNニュース.md "wikilink")
   - [日テレNEWS24](https://ja.wikipedia.org/wiki/日テレNEWS24 "wikilink")（旧：NNN24）
-  - [NHK手話ニュース](https://ja.wikipedia.org/wiki/NHK手話ニュース "wikilink")
-  - [RAB耳の新聞](https://ja.wikipedia.org/wiki/RAB耳の新聞 "wikilink") - 2014年9月まで、放送時間がほぼ重複していた青森放送ラジオで放送される視覚障害者向けの番組。
-  - [京都新聞ニュース](https://ja.wikipedia.org/wiki/京都新聞ニュース "wikilink")（[京都放送](../Page/京都放送.md "wikilink")） - 民放ローカルニュースでの手話通訳実施番組。
+  - [NHK手話ニュース](../Page/NHK手話ニュース.md "wikilink")
+  - [RAB耳の新聞](../Page/RAB耳の新聞.md "wikilink") - 2014年9月まで、放送時間がほぼ重複していた青森放送ラジオで放送される視覚障害者向けの番組。
+  - [京都新聞ニュース](../Page/京都新聞ニュース.md "wikilink")（[京都放送](../Page/京都放送.md "wikilink")） - 民放ローカルニュースでの手話通訳実施番組。
   - [KKBスーパーJチャンネル](https://ja.wikipedia.org/wiki/KKBスーパーJチャンネル "wikilink")（[鹿児島放送](../Page/鹿児島放送.md "wikilink")） - 民放ローカルニュースでの手話通訳実施番組。手話通訳は2011年終了。
 
 [Category:1996年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1996年のテレビ番組_\(日本\) "wikilink") [Category:NNN番組](https://ja.wikipedia.org/wiki/Category:NNN番組 "wikilink") [Category:手話番組](https://ja.wikipedia.org/wiki/Category:手話番組 "wikilink") [Category:日本テレビの一社提供番組](https://ja.wikipedia.org/wiki/Category:日本テレビの一社提供番組 "wikilink") [Category:三菱グループ単独提供番組](https://ja.wikipedia.org/wiki/Category:三菱グループ単独提供番組 "wikilink") [Category:明治安田生命保険](https://ja.wikipedia.org/wiki/Category:明治安田生命保険 "wikilink") [Category:24時間テレビ](https://ja.wikipedia.org/wiki/Category:24時間テレビ "wikilink")

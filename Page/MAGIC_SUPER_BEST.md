@@ -1,7 +1,7 @@
 > この記事は[MAGIC SUPER BEST](https://ja.wikipedia.org/wiki/MAGIC_SUPER_BEST)から翻訳されています。
 
 
-**MAGIC SUPER BEST**（マジック・スーパー・ベスト）は[MAGIC](https://ja.wikipedia.org/wiki/マジック_\(バンド\) "wikilink")4枚目のベストアルバム。
+**MAGIC SUPER BEST**（マジック・スーパー・ベスト）は[MAGIC](../Page/マジック_\(バンド\).md "wikilink")4枚目のベストアルバム。
 
 ## 内容
 
@@ -11,7 +11,7 @@
 
 1.  [STREET ANGEL](https://ja.wikipedia.org/wiki/STREET_ANGEL "wikilink")
       -
-        作詞：[上澤津孝](https://ja.wikipedia.org/wiki/上澤津孝 "wikilink")　作曲：[久米浩司](https://ja.wikipedia.org/wiki/久米浩司 "wikilink")　編曲：MAGIC
+        作詞：[上澤津孝](../Page/上澤津孝.md "wikilink")　作曲：[久米浩司](https://ja.wikipedia.org/wiki/久米浩司 "wikilink")　編曲：MAGIC
 2.  ブラッディ・マリーの夜
       -
         作詞：上澤津孝　作曲:[山口憲一](../Page/山口憲一.md "wikilink")　編曲：MAGIC
@@ -30,9 +30,9 @@
 7.  [マリアのように抱きしめてくれ](https://ja.wikipedia.org/wiki/マリアのように抱きしめてくれ "wikilink")
       -
         作詞：上澤津孝　作曲：山口憲一・久米浩司　編曲：MAGIC
-8.  [あの夏が聴こえてくる](https://ja.wikipedia.org/wiki/あの夏が聴こえてくる "wikilink")
+8.  [あの夏が聴こえてくる](../Page/あの夏が聴こえてくる.md "wikilink")
       -
-        作詞：[小田佳奈子](https://ja.wikipedia.org/wiki/小田佳奈子 "wikilink")　作曲・編曲：[織田哲郎](../Page/織田哲郎.md "wikilink")
+        作詞：[小田佳奈子](../Page/小田佳奈子.md "wikilink")　作曲・編曲：[織田哲郎](../Page/織田哲郎.md "wikilink")
 9.  [SUMMER ROSE](https://ja.wikipedia.org/wiki/SUMMER_ROSE "wikilink")
       -
         作詞：[松井五郎](https://ja.wikipedia.org/wiki/松井五郎 "wikilink") 作曲・編曲：魚海洋司
@@ -41,7 +41,7 @@
         作詞：上澤津孝・松井五郎　作曲・編曲：織田哲郎
 11. [STAND UP, BOY](https://ja.wikipedia.org/wiki/STAND_UP,_BOY "wikilink")
       -
-        作詞：[竜真知子](https://ja.wikipedia.org/wiki/竜真知子 "wikilink")　作曲・編曲：[NOBODY](https://ja.wikipedia.org/wiki/NOBODY_\(ロックバンド\) "wikilink")
+        作詞：[竜真知子](../Page/竜真知子.md "wikilink")　作曲・編曲：[NOBODY](../Page/NOBODY_\(ロックバンド\).md "wikilink")
 12. 自転車
       -
         作詞：上澤津孝　作曲：山口憲一　編曲：MAGIC

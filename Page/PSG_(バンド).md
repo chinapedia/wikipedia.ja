@@ -15,12 +15,12 @@
 
   - [村井研次郎](../Page/村井研次郎.md "wikilink")（[プロデューサー](../Page/音楽プロデューサー.md "wikilink")）
   - [山本ヤマモ雅俊](https://ja.wikipedia.org/wiki/山本雅俊 "wikilink")（[プロレス](../Page/プロレス.md "wikilink")・[格闘技](../Page/格闘技.md "wikilink")プロデューサー）
-  - [声](https://ja.wikipedia.org/wiki/コスプレ声 "wikilink")（[フィーチャリング](https://ja.wikipedia.org/wiki/フィーチャリング "wikilink")・[ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")、マルチ[コスプレタレント](https://ja.wikipedia.org/wiki/コスプレイヤー "wikilink")） - [芸名](../Page/芸名.md "wikilink")は[徳南晴一郎](https://ja.wikipedia.org/wiki/徳南晴一郎 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")『怪談 人間時計』の登場人物より
-  - [白川りさ](https://ja.wikipedia.org/wiki/白川りさ "wikilink")（フィーチャリング・ヴォーカル、[雑食](https://ja.wikipedia.org/wiki/雑食 "wikilink")[腐女子](../Page/腐女子.md "wikilink")） - 「雑食」は「[ジャンル](../Page/ジャンル.md "wikilink")にこだわらない」という意味
+  - [声](https://ja.wikipedia.org/wiki/コスプレ声 "wikilink")（[フィーチャリング](../Page/フィーチャリング.md "wikilink")・[ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")、マルチ[コスプレタレント](https://ja.wikipedia.org/wiki/コスプレイヤー "wikilink")） - [芸名](../Page/芸名.md "wikilink")は[徳南晴一郎](../Page/徳南晴一郎.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")『怪談 人間時計』の登場人物より
+  - [白川りさ](../Page/白川りさ.md "wikilink")（フィーチャリング・ヴォーカル、[雑食](../Page/雑食.md "wikilink")[腐女子](../Page/腐女子.md "wikilink")） - 「雑食」は「[ジャンル](../Page/ジャンル.md "wikilink")にこだわらない」という意味
 
 ### 旧メンバー
 
-  - [安藤バキュラ](https://ja.wikipedia.org/wiki/安藤バキュラ "wikilink") - 元・ゲーム会社[課長](https://ja.wikipedia.org/wiki/課長 "wikilink")
+  - [安藤バキュラ](https://ja.wikipedia.org/wiki/安藤バキュラ "wikilink") - 元・ゲーム会社[課長](../Page/課長.md "wikilink")
 
 ## ディスコグラフィ
 
@@ -28,18 +28,18 @@
 
   - 『PSG〜PicopicoSoundGeneration〜』（2007年7月25日、EXAT-01）
     1.  魔法大漢 ブラズァ〜☆ガイ
-    2.  [ハッピー☆マテリアル](https://ja.wikipedia.org/wiki/ハッピー☆マテリアル "wikilink") -
+    2.  [ハッピー☆マテリアル](../Page/ハッピー☆マテリアル.md "wikilink") -
     3.  [プラチナ](../Page/プラチナ_\(坂本真綾の曲\).md "wikilink")
     4.  [トップをねらえ\!](../Page/トップをねらえ!.md "wikilink") [メドレー](../Page/メドレー.md "wikilink")
     5.  [ETERNAL BLAZE](../Page/ETERNAL_BLAZE.md "wikilink")
-    6.  [禁じられた遊び](https://ja.wikipedia.org/wiki/禁じられた遊び_\(ALI_PROJECTの曲\) "wikilink")
-    7.  魔法大漢 ブラズァ〜☆ガイ ([uneffected version](https://ja.wikipedia.org/wiki/器楽曲 "wikilink"))
+    6.  [禁じられた遊び](../Page/禁じられた遊び_\(ALI_PROJECTの曲\).md "wikilink")
+    7.  魔法大漢 ブラズァ〜☆ガイ ([uneffected version](../Page/器楽曲.md "wikilink"))
     8.  ハッピー☆マテリアル (uneffected version)
     9.  プラチナ (uneffected version)
     10. トップをねらえ\! (uneffected version)
     11. ETERNAL BLAZE (uneffected version)
     12. 禁じられた遊び (uneffected version)
-    13. [POP STAR](https://ja.wikipedia.org/wiki/POP_STAR "wikilink") (uneffected version)
+    13. [POP STAR](../Page/POP_STAR.md "wikilink") (uneffected version)
 
 ## 外部リンク
 

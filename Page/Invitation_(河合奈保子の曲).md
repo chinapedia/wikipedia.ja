@@ -1,7 +1,7 @@
 > この記事は[Invitation \(\)](https://ja.wikipedia.org/wiki/Invitation_\(\))から翻訳されています。
 
 
-「**Invitation**」（インビテーション）は、[河合奈保子](https://ja.wikipedia.org/wiki/河合奈保子 "wikilink")が[1982年](../Page/1982年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")にリリースした11枚目のシングルである([EP](https://ja.wikipedia.org/wiki/レコード#レコード盤の形状 "wikilink"): AH-280)。
+「**Invitation**」（インビテーション）は、[河合奈保子](../Page/河合奈保子.md "wikilink")が[1982年](../Page/1982年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")にリリースした11枚目のシングルである([EP](https://ja.wikipedia.org/wiki/レコード#レコード盤の形状 "wikilink"): AH-280)。
 
 ## 解説
 
@@ -10,14 +10,14 @@
 ## 収録曲
 
 1.  Invitation
-      - 作詞・作曲:[竹内まりや](https://ja.wikipedia.org/wiki/竹内まりや "wikilink")／編曲:[大村雅朗](https://ja.wikipedia.org/wiki/大村雅朗 "wikilink")
+      - 作詞・作曲:[竹内まりや](https://ja.wikipedia.org/wiki/竹内まりや "wikilink")／編曲:[大村雅朗](../Page/大村雅朗.md "wikilink")
 2.  木枯らしの乙女たち
-      - 作詞:[尾関昌也](https://ja.wikipedia.org/wiki/尾関昌也 "wikilink")／作曲:尾関裕司／編曲:[若草恵](https://ja.wikipedia.org/wiki/若草恵 "wikilink")
+      - 作詞:[尾関昌也](https://ja.wikipedia.org/wiki/尾関昌也 "wikilink")／作曲:尾関裕司／編曲:[若草恵](../Page/若草恵.md "wikilink")
 
 ## 関連項目
 
-  - [1982年の音楽](https://ja.wikipedia.org/wiki/1982年の音楽 "wikilink")
-  - [1983年の音楽](https://ja.wikipedia.org/wiki/1983年の音楽 "wikilink")
+  - [1982年の音楽](../Page/1982年の音楽.md "wikilink")
+  - [1983年の音楽](../Page/1983年の音楽.md "wikilink")
 
 ## 脚注
 

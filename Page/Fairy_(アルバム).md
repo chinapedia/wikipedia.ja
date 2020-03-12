@@ -5,12 +5,12 @@
 
 ## 解説
 
-  - 2004年12月頃からオンエアされ、愛娘・[神田沙也加](../Page/神田沙也加.md "wikilink")（当時の芸名は「SAYAKA」）との共演も話題となった[大京](https://ja.wikipedia.org/wiki/大京 "wikilink")ライオンズマンションの[コマーシャルソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")「[永遠さえ感じた夜](../Page/永遠さえ感じた夜.md "wikilink")」、歌詞なしのインストゥルメンタル曲を含む全11曲を収録。
+  - 2004年12月頃からオンエアされ、愛娘・[神田沙也加](../Page/神田沙也加.md "wikilink")（当時の芸名は「SAYAKA」）との共演も話題となった[大京](../Page/大京.md "wikilink")ライオンズマンションの[コマーシャルソング](../Page/コマーシャルソング.md "wikilink")「[永遠さえ感じた夜](../Page/永遠さえ感じた夜.md "wikilink")」、歌詞なしのインストゥルメンタル曲を含む全11曲を収録。
   - 初回生産分のみ透明三方背ボックス入り。また、3ヵ月ごと計4枚の卓上サイズカレンダー付き。
   - オリコンアルバムヒットチャートのベストテンにランクインし、アルバムベストテン・ランクイン数が女性歌手部門で[松任谷由実](../Page/松任谷由実.md "wikilink")と並び歴代第1位になった（2005年4月当時の記録）。
   - 例年は5・6月頃の初夏に発売されることが多いオリジナルアルバムであるが、今作は4月に発売された。歌詞に「春」という言葉の出てくる曲もある。なお、当時25年のキャリアの中で、4月にオリジナル・アルバムが発売されたのは初めてであった。
   - アルバムに連動した夏のコンサートツアー「SEIKO MATSUDA CONCERT TOUR 2005 fairy」が行われたが、当アルバムからの披露は3曲にとどまった。同年11月23日に[DVD](../Page/DVD.md "wikilink")商品化済。
-  - ジャケット・インナーフォトは[篠山紀信](../Page/篠山紀信.md "wikilink")。アルバム「[『LOVE』 Seiko Matsuda 20th Anniversary Best Selection](https://ja.wikipedia.org/wiki/『LOVE』_Seiko_Matsuda_20th_Anniversary_Best_Selection "wikilink")」（2000年11月29日）以来であった。コンサートの[日本武道館](https://ja.wikipedia.org/wiki/日本武道館 "wikilink")公演では、関係者席に座る篠山氏がステージ上の松田から紹介された。隣の席には夫人で、日本の「[女性アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")」の先駆者と云われる機会が多い "シンシア" こと[南沙織](https://ja.wikipedia.org/wiki/南沙織 "wikilink")の姿も見受けられた。なお、2006年6月14日に発売された『[Cynthia Premium](../Page/Cynthia_Premium.md "wikilink")』（南沙織 歌手デビュー35周年記念商品）の解説本で、「カラオケでよく歌うのは聖子ちゃんの曲」というエピソードを披露している。
+  - ジャケット・インナーフォトは[篠山紀信](../Page/篠山紀信.md "wikilink")。アルバム「[『LOVE』 Seiko Matsuda 20th Anniversary Best Selection](../Page/『LOVE』_Seiko_Matsuda_20th_Anniversary_Best_Selection.md "wikilink")」（2000年11月29日）以来であった。コンサートの[日本武道館](../Page/日本武道館.md "wikilink")公演では、関係者席に座る篠山氏がステージ上の松田から紹介された。隣の席には夫人で、日本の「[女性アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")」の先駆者と云われる機会が多い "シンシア" こと[南沙織](https://ja.wikipedia.org/wiki/南沙織 "wikilink")の姿も見受けられた。なお、2006年6月14日に発売された『[Cynthia Premium](../Page/Cynthia_Premium.md "wikilink")』（南沙織 歌手デビュー35周年記念商品）の解説本で、「カラオケでよく歌うのは聖子ちゃんの曲」というエピソードを披露している。
   - タイトルの和訳は「妖精」。コンサートのオープニング映像やグッズにも妖精のシルエットをモチーフとしたキャラクターが使用されていた。
 
 ## 収録曲
@@ -32,7 +32,7 @@
 
 ## 関連項目
 
-  - [大京](https://ja.wikipedia.org/wiki/大京 "wikilink")ライオンズマンション
+  - [大京](../Page/大京.md "wikilink")ライオンズマンション
 
 ## 関連人物
 

@@ -3,7 +3,7 @@
 
 『**エアーマネジメントII 航空王をめざせ**』（エアーマネジメントツー こうくうおうをめざせ、*Aerobiz Supersonic*）は、[光栄](../Page/コーエー.md "wikilink")（現・[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")）のビジネス[シミュレーションゲーム](../Page/シミュレーションゲーム.md "wikilink")。[1993年](../Page/1993年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")に[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")で発売された後、[メガドライブ](../Page/メガドライブ.md "wikilink")と[PC-9801に移植されたが](../Page/PC-9800シリーズ.md "wikilink")、PC-98版は若干の改良が加えられている。なお、[2004年](../Page/2004年.md "wikilink")[2月20日](../Page/2月20日.md "wikilink")にはPC-98版を復刻収録した[Windows用](../Page/Microsoft_Windows_XP.md "wikilink")「[コーエー25周年パックVol](https://ja.wikipedia.org/wiki/コーエー25周年記念パック "wikilink").7」が発売され、その後、単品販売もされている。
 
-前作『[エアーマネジメント](https://ja.wikipedia.org/wiki/エアーマネジメント "wikilink")』との最大の相違点として、現在の航空ビジネスで主流になっている「ハブ&スポーク」の概念をゲームに導入。[東南アジア](../Page/東南アジア.md "wikilink")・[中東](../Page/中東.md "wikilink")・[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")・[アフリカ](../Page/アフリカ.md "wikilink")・[北アメリカ](../Page/北アメリカ.md "wikilink")・[南アメリカ](../Page/南アメリカ.md "wikilink")・[オセアニア](../Page/オセアニア.md "wikilink")の7エリア中、本社を置くエリアを含む6エリアでトップシェアを獲得するのが目的。
+前作『[エアーマネジメント](../Page/エアーマネジメント.md "wikilink")』との最大の相違点として、現在の航空ビジネスで主流になっている「ハブ&スポーク」の概念をゲームに導入。[東南アジア](../Page/東南アジア.md "wikilink")・[中東](../Page/中東.md "wikilink")・[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")・[アフリカ](../Page/アフリカ.md "wikilink")・[北アメリカ](../Page/北アメリカ.md "wikilink")・[南アメリカ](../Page/南アメリカ.md "wikilink")・[オセアニア](../Page/オセアニア.md "wikilink")の7エリア中、本社を置くエリアを含む6エリアでトップシェアを獲得するのが目的。
 
 ## 概要
 
@@ -16,7 +16,7 @@ PC-98版のみの追加要素
 
   - 1955年から2020年までぶっ通しのシナリオ5「過去から未来へ」がある。
   - 決められた拠点都市だけでなく、全ての都市に本社・支社を置くことが可能。
-  - 路線ごとに[エコノミー](https://ja.wikipedia.org/wiki/エコノミークラス "wikilink")・[ビジネス](https://ja.wikipedia.org/wiki/ビジネスクラス "wikilink")・[ファーストの](https://ja.wikipedia.org/wiki/ファーストクラス "wikilink")3段階で座席を配分したり、サービスの質を変化させたりする細かい設定が求められる。逆に、採算を度外視して全席ファーストの豪華リゾート線を作ると言ったことも可能。
+  - 路線ごとに[エコノミー](../Page/エコノミークラス.md "wikilink")・[ビジネス](../Page/ビジネスクラス.md "wikilink")・[ファーストの](../Page/ファーストクラス.md "wikilink")3段階で座席を配分したり、サービスの質を変化させたりする細かい設定が求められる。逆に、採算を度外視して全席ファーストの豪華リゾート線を作ると言ったことも可能。
 
 ## 設定
 
@@ -30,13 +30,13 @@ PC-98版のみの追加要素
 
 シナリオ2「大量輸送時代」
 
-  - [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")4月～[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")1月
-  - [アエロスパシアル](https://ja.wikipedia.org/wiki/アエロスパシアル "wikilink")社の[コンコルド](../Page/コンコルド.md "wikilink")が登場するのはこのシナリオのみ。
-  - [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")7月に[大阪](../Page/大阪.md "wikilink")で[万国博覧会が開催される](https://ja.wikipedia.org/wiki/日本万国博覧会 "wikilink")。
+  - [1970年](../Page/1970年.md "wikilink")4月～[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")1月
+  - [アエロスパシアル](../Page/アエロスパシアル.md "wikilink")社の[コンコルド](../Page/コンコルド.md "wikilink")が登場するのはこのシナリオのみ。
+  - [1970年](../Page/1970年.md "wikilink")7月に[大阪](../Page/大阪.md "wikilink")で[万国博覧会が開催される](../Page/日本万国博覧会.md "wikilink")。
 
 シナリオ3「世界を覆う航路網」
 
-  - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")4月～[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")1月
+  - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")4月～[2005年](../Page/2005年.md "wikilink")1月
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")7月に[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")が[ペレストロイカ](../Page/ペレストロイカ.md "wikilink")を実施、東西陣営間の航空機発注が自由化される。
   - [1996年](../Page/1996年.md "wikilink")の[アトランタ五輪](https://ja.wikipedia.org/wiki/アトランタ五輪 "wikilink")まではほぼ史実通りだが、[2000年](../Page/2000年.md "wikilink")以降の五輪開催地は主要都市の中からランダムで決定される。
 
@@ -56,13 +56,13 @@ PC-98版のみの追加要素
   - 都市名・エリアの表記、国の変遷はゲーム中で使用されているものに従っている（史実と異なる場合がある）。
   - ★は本社・支社の建設が可能な拠点都市。PC-98版では、拠点都市とそれ以外の都市の区別は無い。
 
-#### [アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")エリア
+#### [アジア](../Page/アジア.md "wikilink")エリア
 
   -  [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")
 
-:\*[東京](https://ja.wikipedia.org/wiki/東京 "wikilink")★、[大阪](https://ja.wikipedia.org/wiki/大阪市 "wikilink")、[札幌](https://ja.wikipedia.org/wiki/札幌市 "wikilink")、[福岡](https://ja.wikipedia.org/wiki/福岡市 "wikilink")
+:\*[東京](../Page/東京.md "wikilink")★、[大阪](../Page/大阪市.md "wikilink")、[札幌](https://ja.wikipedia.org/wiki/札幌市 "wikilink")、[福岡](https://ja.wikipedia.org/wiki/福岡市 "wikilink")
 
-  -  [韓国](https://ja.wikipedia.org/wiki/大韓民国 "wikilink")
+  -  [韓国](../Page/大韓民国.md "wikilink")
 
 :\*[ソウル](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")★
 
@@ -88,7 +88,7 @@ PC-98版のみの追加要素
 
   -  [フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")
 
-:\*[マニラ](../Page/マニラ.md "wikilink")★、[セブ](https://ja.wikipedia.org/wiki/メトロ・セブ "wikilink")
+:\*[マニラ](../Page/マニラ.md "wikilink")★、[セブ](../Page/メトロ・セブ.md "wikilink")
 
   -  [タイ](../Page/タイ王国.md "wikilink")
 
@@ -100,17 +100,17 @@ PC-98版のみの追加要素
 
   -  ソビエト →  [ロシア](../Page/ロシア.md "wikilink") →  [EC](https://ja.wikipedia.org/wiki/欧州連合 "wikilink")
 
-:\*[ハバロフスク](https://ja.wikipedia.org/wiki/ハバロフスク "wikilink")★
+:\*[ハバロフスク](../Page/ハバロフスク.md "wikilink")★
 
 #### [中東エリア](../Page/中近東.md "wikilink")
 
   -  [インド](../Page/インド.md "wikilink")
 
-:\*[ニューデリー](../Page/ニューデリー.md "wikilink")★、[カルカッタ](../Page/コルカタ.md "wikilink")、[ボンベイ](https://ja.wikipedia.org/wiki/ムンバイ "wikilink")
+:\*[ニューデリー](../Page/ニューデリー.md "wikilink")★、[カルカッタ](../Page/コルカタ.md "wikilink")、[ボンベイ](../Page/ムンバイ.md "wikilink")
 
   -  [パキスタン](../Page/パキスタン.md "wikilink")
 
-:\*[カラチ](https://ja.wikipedia.org/wiki/カラチ "wikilink")、[イスラマバード](https://ja.wikipedia.org/wiki/イスラマバード "wikilink")
+:\*[カラチ](../Page/カラチ.md "wikilink")、[イスラマバード](../Page/イスラマバード.md "wikilink")
 
   -  ソビエト →  [ウズベキスタン](../Page/ウズベキスタン.md "wikilink")
 
@@ -128,11 +128,11 @@ PC-98版のみの追加要素
 
   -  ソビエト →  [ロシア](../Page/ロシア.md "wikilink") →  [EC](https://ja.wikipedia.org/wiki/欧州連合 "wikilink")
 
-:\*[モスクワ](https://ja.wikipedia.org/wiki/モスクワ "wikilink")★、[ロストフ](../Page/ロストフ・ナ・ドヌ.md "wikilink")
+:\*[モスクワ](../Page/モスクワ.md "wikilink")★、[ロストフ](../Page/ロストフ・ナ・ドヌ.md "wikilink")
 
   -  ソビエト → [border](https://ja.wikipedia.org/wiki/画像:Flag_of_Belarus_\(1918,_1991-1995\).svg "wikilink") [ベラルーシ](../Page/ベラルーシ.md "wikilink") →  [EC](https://ja.wikipedia.org/wiki/欧州連合 "wikilink")
 
-:\*[ミンスク](https://ja.wikipedia.org/wiki/ミンスク "wikilink")
+:\*[ミンスク](../Page/ミンスク.md "wikilink")
 
   -  ソビエト →  [ウクライナ](../Page/ウクライナ.md "wikilink") →  EC
 
@@ -140,7 +140,7 @@ PC-98版のみの追加要素
 
   -  [ノルウェー](../Page/ノルウェー.md "wikilink") →  EC
 
-:\*[オスロ](https://ja.wikipedia.org/wiki/オスロ "wikilink")
+:\*[オスロ](../Page/オスロ.md "wikilink")
 
   -  [スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink") →  EC
 
@@ -148,9 +148,9 @@ PC-98版のみの追加要素
 
   -  [デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink") →  EC
 
-:\*[コペンハーゲン](https://ja.wikipedia.org/wiki/コペンハーゲン "wikilink")
+:\*[コペンハーゲン](../Page/コペンハーゲン.md "wikilink")
 
-  -  [フィンランド](https://ja.wikipedia.org/wiki/フィンランド "wikilink") →  EC
+  -  [フィンランド](../Page/フィンランド.md "wikilink") →  EC
 
 :\*[ヘルシンキ](../Page/ヘルシンキ.md "wikilink")
 
@@ -192,7 +192,7 @@ PC-98版のみの追加要素
 
   -  [フランス](https://ja.wikipedia.org/wiki/フランス "wikilink") →  EC
 
-:\*[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")★、[ニース](https://ja.wikipedia.org/wiki/ニース "wikilink")
+:\*[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")★、[ニース](../Page/ニース.md "wikilink")
 
   -  [スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink") →  EC
 
@@ -202,7 +202,7 @@ PC-98版のみの追加要素
 
   -  [エジプト](../Page/エジプト.md "wikilink")
 
-:\*[カイロ](https://ja.wikipedia.org/wiki/カイロ "wikilink")★
+:\*[カイロ](../Page/カイロ.md "wikilink")★
 
   -  [リビア](https://ja.wikipedia.org/wiki/リビア "wikilink")
 
@@ -214,15 +214,15 @@ PC-98版のみの追加要素
 
   -  フランス →  [チュニジア](../Page/チュニジア.md "wikilink")
 
-:\*[チュニス](https://ja.wikipedia.org/wiki/チュニス "wikilink")★
+:\*[チュニス](../Page/チュニス.md "wikilink")★
 
   -  フランス →  [アルジェリア](../Page/アルジェリア.md "wikilink")
 
-:\*[アルジェ](https://ja.wikipedia.org/wiki/アルジェ "wikilink")
+:\*[アルジェ](../Page/アルジェ.md "wikilink")
 
   -  イギリス →  [ナイジェリア](../Page/ナイジェリア.md "wikilink")
 
-:\*[ラゴス](https://ja.wikipedia.org/wiki/ラゴス "wikilink")
+:\*[ラゴス](../Page/ラゴス.md "wikilink")
 
   -  イギリス →  [ケニア](../Page/ケニア.md "wikilink")
 
@@ -236,7 +236,7 @@ PC-98版のみの追加要素
 
   -  [アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")
 
-:\*[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")★、[ワシントン](../Page/ワシントンD.C..md "wikilink")★、[アトランタ](../Page/アトランタ.md "wikilink")★、[シカゴ](../Page/シカゴ.md "wikilink")★、[ダラス](../Page/ダラス.md "wikilink")★、[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")★、[フィラデルフィア](../Page/フィラデルフィア.md "wikilink")、[マイアミ](../Page/マイアミ.md "wikilink")、[ヒューストン](../Page/ヒューストン.md "wikilink")、[デンバー](../Page/デンバー.md "wikilink")、[フェニックス](https://ja.wikipedia.org/wiki/フェニックス_\(アリゾナ州\) "wikilink")、[シアトル](../Page/シアトル.md "wikilink")、[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")、[ホノルル](../Page/ホノルル.md "wikilink")
+:\*[ニューヨーク](../Page/ニューヨーク.md "wikilink")★、[ワシントン](../Page/ワシントンD.C..md "wikilink")★、[アトランタ](../Page/アトランタ.md "wikilink")★、[シカゴ](../Page/シカゴ.md "wikilink")★、[ダラス](../Page/ダラス.md "wikilink")★、[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")★、[フィラデルフィア](../Page/フィラデルフィア.md "wikilink")、[マイアミ](../Page/マイアミ.md "wikilink")、[ヒューストン](../Page/ヒューストン.md "wikilink")、[デンバー](../Page/デンバー.md "wikilink")、[フェニックス](../Page/フェニックス_\(アリゾナ州\).md "wikilink")、[シアトル](../Page/シアトル.md "wikilink")、[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")、[ホノルル](../Page/ホノルル.md "wikilink")
 
 #### [南アメリカエリア](https://ja.wikipedia.org/wiki/中南米 "wikilink")
 
@@ -246,15 +246,15 @@ PC-98版のみの追加要素
 
   -  [キューバ](../Page/キューバ.md "wikilink")
 
-:\*[ハバナ](https://ja.wikipedia.org/wiki/ハバナ "wikilink")★
+:\*[ハバナ](../Page/ハバナ.md "wikilink")★
 
   -  イギリス →  [ジャマイカ](../Page/ジャマイカ.md "wikilink")
 
-:\*[キングストン](https://ja.wikipedia.org/wiki/キングストン_\(ジャマイカ\) "wikilink")
+:\*[キングストン](../Page/キングストン_\(ジャマイカ\).md "wikilink")
 
   -  [ペルー](https://ja.wikipedia.org/wiki/ペルー "wikilink")
 
-:\*[リマ](https://ja.wikipedia.org/wiki/リマ "wikilink")
+:\*[リマ](../Page/リマ.md "wikilink")
 
   -  [ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")
 
@@ -266,13 +266,13 @@ PC-98版のみの追加要素
 
   -  [チリ](../Page/チリ.md "wikilink")
 
-:\*[サンティアゴ](https://ja.wikipedia.org/wiki/サンティアゴ_\(チリ\) "wikilink")
+:\*[サンティアゴ](../Page/サンティアゴ_\(チリ\).md "wikilink")
 
 #### [南太平洋エリア](../Page/オセアニア.md "wikilink")
 
-  -  [オーストラリア](https://ja.wikipedia.org/wiki/オーストラリア "wikilink")
+  -  [オーストラリア](../Page/オーストラリア.md "wikilink")
 
-:\*[シドニー](https://ja.wikipedia.org/wiki/シドニー "wikilink")★、[パース](https://ja.wikipedia.org/wiki/パース_\(西オーストラリア州\) "wikilink")★、[ブリスベン](../Page/ブリスベン.md "wikilink")、[メルボルン](https://ja.wikipedia.org/wiki/メルボルン "wikilink")、[アデレード](https://ja.wikipedia.org/wiki/アデレード "wikilink")
+:\*[シドニー](../Page/シドニー.md "wikilink")★、[パース](../Page/パース_\(西オーストラリア州\).md "wikilink")★、[ブリスベン](../Page/ブリスベン.md "wikilink")、[メルボルン](../Page/メルボルン.md "wikilink")、[アデレード](../Page/アデレード.md "wikilink")
 
   -  [ニュージーランド](../Page/ニュージーランド.md "wikilink")
 
@@ -288,7 +288,7 @@ PC-98版のみの追加要素
 
   -  [タヒチ](https://ja.wikipedia.org/wiki/タヒチ "wikilink")
 
-:\*[パペーテ](https://ja.wikipedia.org/wiki/パペーテ "wikilink")
+:\*[パペーテ](../Page/パペーテ.md "wikilink")
 
 ## 登場航空機一覧
 
@@ -300,38 +300,38 @@ PC-98版のみの追加要素
 
 | シリーズ                                                              | 機種名      | 座席数     | 航続距離    | 価格      | 発売年   |
 | ----------------------------------------------------------------- | -------- | ------- | ------- | ------- | ----- |
-| [B707系](https://ja.wikipedia.org/wiki/ボーイング707 "wikilink")        | B707-120 | 140席    | 6700km  | $4230万  | 1958年 |
+| [B707系](../Page/ボーイング707.md "wikilink")                           | B707-120 | 140席    | 6700km  | $4230万  | 1958年 |
 | B707-320                                                          | 160席     | 8900km  | $5500万  | 1960年   |       |
-| [B727系](https://ja.wikipedia.org/wiki/ボーイング727 "wikilink")        | B727-100 | 110席    | 3700km  | $2640万  | 1964年 |
+| [B727系](../Page/ボーイング727.md "wikilink")                           | B727-100 | 110席    | 3700km  | $2640万  | 1964年 |
 | B727-200                                                          | 150席     | 4200km  | $3300万  | 1967年   |       |
-| [B737系](https://ja.wikipedia.org/wiki/ボーイング737 "wikilink")        | B737-200 | 110席    | 2400km  | $2400万  | 1968年 |
+| [B737系](../Page/ボーイング737.md "wikilink")                           | B737-200 | 110席    | 2400km  | $2400万  | 1968年 |
 | B737-300                                                          | 120席     | 2600km  | $3100万  | 1985年   |       |
 | [B747系](https://ja.wikipedia.org/wiki/ボーイング747 "wikilink")        | B747-200 | 450席    | 10800km | $11550万 | 1970年 |
 | B747-300                                                          | 500席     | 10800km | $12500万 | 1983年   |       |
 | [B747-400](https://ja.wikipedia.org/wiki/ボーイング747-400 "wikilink") | 550席     | 11500km | $15000万 | 1989年   |       |
 | [B757系](https://ja.wikipedia.org/wiki/ボーイング757 "wikilink")        | B757     | 200席    | 4700km  | $3250万  | 1985年 |
-| [B767系](https://ja.wikipedia.org/wiki/ボーイング767 "wikilink")        | B767     | 230席    | 6500km  | $3500万  | 1985年 |
+| [B767系](../Page/ボーイング767.md "wikilink")                           | B767     | 230席    | 6500km  | $3500万  | 1985年 |
 | [B777系](../Page/ボーイング777.md "wikilink")                           | B777     | 360席    | 8800km  | $6000万  | 1996年 |
 
 ダグラス社製　（[マクドネル・ダグラス](../Page/マクドネル・ダグラス.md "wikilink")）
 
-| シリーズ                                                                | 機種名    | 座席数    | 航続距離    | 価格      | 発売年   |
-| ------------------------------------------------------------------- | ------ | ------ | ------- | ------- | ----- |
-| [DC-6系](https://ja.wikipedia.org/wiki/ダグラス_DC-6 "wikilink")         | DC6    | 80席    | 6400km  | $1120万  | 1947年 |
-| [DC-8系](https://ja.wikipedia.org/wiki/ダグラス_DC-8 "wikilink")         | DC8-30 | 140席   | 8200km  | $4800万  | 1959年 |
-| DC8-50                                                              | 150席   | 9700km | $4950万  | 1961年   |       |
-| DC8-60                                                              | 240席   | 9500km | $5100万  | 1967年   |       |
-| [DC-9系](https://ja.wikipedia.org/wiki/マクドネル・ダグラス_DC-9 "wikilink")   | DC9-30 | 120席   | 2400km  | $2080万  | 1966年 |
-| [DC-10系](https://ja.wikipedia.org/wiki/マクドネル・ダグラス_DC-10 "wikilink") | DC10   | 350席   | 8900km  | $7500万  | 1971年 |
-| [MD-80系](../Page/マクドネル・ダグラス_MD-80.md "wikilink")                    | MD80   | 150席   | 5700km  | $3000万  | 1981年 |
-| [MD-11系](../Page/マクドネル・ダグラス_MD-11.md "wikilink")                    | MD-11  | 360席   | 12400km | $10200万 | 1991年 |
+| シリーズ                                                        | 機種名    | 座席数    | 航続距離    | 価格      | 発売年   |
+| ----------------------------------------------------------- | ------ | ------ | ------- | ------- | ----- |
+| [DC-6系](https://ja.wikipedia.org/wiki/ダグラス_DC-6 "wikilink") | DC6    | 80席    | 6400km  | $1120万  | 1947年 |
+| [DC-8系](../Page/ダグラス_DC-8.md "wikilink")                    | DC8-30 | 140席   | 8200km  | $4800万  | 1959年 |
+| DC8-50                                                      | 150席   | 9700km | $4950万  | 1961年   |       |
+| DC8-60                                                      | 240席   | 9500km | $5100万  | 1967年   |       |
+| [DC-9系](../Page/マクドネル・ダグラス_DC-9.md "wikilink")              | DC9-30 | 120席   | 2400km  | $2080万  | 1966年 |
+| [DC-10系](../Page/マクドネル・ダグラス_DC-10.md "wikilink")            | DC10   | 350席   | 8900km  | $7500万  | 1971年 |
+| [MD-80系](../Page/マクドネル・ダグラス_MD-80.md "wikilink")            | MD80   | 150席   | 5700km  | $3000万  | 1981年 |
+| [MD-11系](../Page/マクドネル・ダグラス_MD-11.md "wikilink")            | MD-11  | 360席   | 12400km | $10200万 | 1991年 |
 
 　[ロッキード](../Page/ロッキード.md "wikilink")社製
 
-| シリーズ                                                                    | 機種名   | 座席数  | 航続距離   | 価格     | 発売年   |
-| ----------------------------------------------------------------------- | ----- | ---- | ------ | ------ | ----- |
-| [L-1049系](https://ja.wikipedia.org/wiki/ロッキード_コンステレーション "wikilink")     | L1049 | 90席  | 7600km | $2420万 | 1951年 |
-| [L-1011系](https://ja.wikipedia.org/wiki/ロッキード_L-1011_トライスター "wikilink") | L1011 | 350席 | 7200km | $8800万 | 1972年 |
+| シリーズ                                                 | 機種名   | 座席数  | 航続距離   | 価格     | 発売年   |
+| ---------------------------------------------------- | ----- | ---- | ------ | ------ | ----- |
+| [L-1049系](../Page/ロッキード_コンステレーション.md "wikilink")     | L1049 | 90席  | 7600km | $2420万 | 1951年 |
+| [L-1011系](../Page/ロッキード_L-1011_トライスター.md "wikilink") | L1011 | 350席 | 7200km | $8800万 | 1972年 |
 
 ### ヨーロッパ製
 
@@ -341,9 +341,9 @@ PC-98版のみの追加要素
 | ----------------------------------------------------------------- | ---- | ------ | ------- | ------- | ----- |
 | [A300系](https://ja.wikipedia.org/wiki/エアバスA300 "wikilink")        | A300 | 350席   | 5800km  | $6000万  | 1975年 |
 | [A300-600](https://ja.wikipedia.org/wiki/エアバスA300-600 "wikilink") | 370席 | 8800km | $6200万  | 1985年   |       |
-| [A310系](https://ja.wikipedia.org/wiki/エアバスA310 "wikilink")        | A310 | 280席   | 9600km  | $4750万  | 1985年 |
+| [A310系](../Page/エアバスA310.md "wikilink")                           | A310 | 280席   | 9600km  | $4750万  | 1985年 |
 | [A320系](../Page/エアバスA320.md "wikilink")                           | A320 | 180席   | 6700km  | $2800万  | 1982年 |
-| [A340系](https://ja.wikipedia.org/wiki/エアバスA340 "wikilink")        | A340 | 330席   | 14200km | $11000万 | 1993年 |
+| [A340系](../Page/エアバスA340.md "wikilink")                           | A340 | 330席   | 14200km | $11000万 | 1993年 |
 
 その他
 
@@ -370,7 +370,7 @@ PC-98版のみの追加要素
 <td><p>1959年</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/アエロスパシアル" title="wikilink">アエロスパシアル</a>社製</p></td>
+<td><p><a href="../Page/アエロスパシアル.md" title="wikilink">アエロスパシアル</a>社製</p></td>
 <td><p><a href="../Page/コンコルド.md" title="wikilink">コンコルド</a>系</p></td>
 <td><p>コンコルド</p></td>
 <td><p>120席</p></td>
@@ -380,7 +380,7 @@ PC-98版のみの追加要素
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ヴィッカース・アームストロング" title="wikilink">ビッカース社製</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ビッカース_バイカウント" title="wikilink">バイカウント系</a></p></td>
+<td><p><a href="../Page/ビッカース_バイカウント.md" title="wikilink">バイカウント系</a></p></td>
 <td><p>バイカウント</p></td>
 <td><p>70席</p></td>
 <td><p>2700km</p></td>
@@ -392,27 +392,27 @@ PC-98版のみの追加要素
 
 ### ソビエト/ロシア製
 
-　[イリユーシン社製](https://ja.wikipedia.org/wiki/S・V・イリユーシン記念航空複合体 "wikilink")
+　[イリユーシン社製](../Page/S・V・イリユーシン記念航空複合体.md "wikilink")
 
-| シリーズ                                                             | 機種名      | 座席数    | 航続距離    | 価格     | 発売年   |
-| ---------------------------------------------------------------- | -------- | ------ | ------- | ------ | ----- |
-| [Il-62系](https://ja.wikipedia.org/wiki/Il-62_\(航空機\) "wikilink") | IL62     | 150席   | 7900km  | $3000万 | 1965年 |
-| IL62MK                                                           | 170席     | 8800km | $3400万  | 1978年  |       |
-| IL62M                                                            | 160席     | 9000km | $3200万  | 1970年  |       |
-| [Il-86系](https://ja.wikipedia.org/wiki/Il-86_\(航空機\) "wikilink") | IL86     | 360席   | 4100km  | $4620万 | 1981年 |
-| [Il-96系](https://ja.wikipedia.org/wiki/Il-96_\(航空機\) "wikilink") | IL96-300 | 300席   | 11000km | $4500万 | 1988年 |
+| シリーズ                                          | 機種名      | 座席数    | 航続距離    | 価格     | 発売年   |
+| --------------------------------------------- | -------- | ------ | ------- | ------ | ----- |
+| [Il-62系](../Page/Il-62_\(航空機\).md "wikilink") | IL62     | 150席   | 7900km  | $3000万 | 1965年 |
+| IL62MK                                        | 170席     | 8800km | $3400万  | 1978年  |       |
+| IL62M                                         | 160席     | 9000km | $3200万  | 1970年  |       |
+| [Il-86系](../Page/Il-86_\(航空機\).md "wikilink") | IL86     | 360席   | 4100km  | $4620万 | 1981年 |
+| [Il-96系](../Page/Il-96_\(航空機\).md "wikilink") | IL96-300 | 300席   | 11000km | $4500万 | 1988年 |
 
-　[ツポレフ](https://ja.wikipedia.org/wiki/ツポレフ "wikilink")社製
+　[ツポレフ](../Page/ツポレフ.md "wikilink")社製
 
-| シリーズ                                                               | 機種名   | 座席数    | 航続距離   | 価格     | 発売年   |
-| ------------------------------------------------------------------ | ----- | ------ | ------ | ------ | ----- |
-| [Tu-104系](https://ja.wikipedia.org/wiki/Tu-104_\(航空機\) "wikilink") | TU104 | 50席    | 4000km | $1500万 | 1955年 |
-| [Tu-124系](https://ja.wikipedia.org/wiki/Tu-124_\(航空機\) "wikilink") | TU124 | 40席    | 5600km | $2000万 | 1962年 |
-| [Tu-134系](https://ja.wikipedia.org/wiki/Tu-134_\(航空機\) "wikilink") | TU134 | 70席    | 3700km | $2200万 | 1967年 |
-| [Tu-144系](https://ja.wikipedia.org/wiki/Tu-144_\(航空機\) "wikilink") | TU144 | 140席   | 4200km | $9000万 | 1977年 |
-| [Tu-154系](https://ja.wikipedia.org/wiki/Tu-154_\(航空機\) "wikilink") | TU154 | 150席   | 3900km | $2400万 | 1972年 |
-| TU154B                                                             | 160席  | 4000km | $2800万 | 1977年  |       |
-| [Tu-204系](https://ja.wikipedia.org/wiki/Tu-204_\(航空機\) "wikilink") | TU204 | 210席   | 4600km | $2600万 | 1989年 |
+| シリーズ                                            | 機種名   | 座席数    | 航続距離   | 価格     | 発売年   |
+| ----------------------------------------------- | ----- | ------ | ------ | ------ | ----- |
+| [Tu-104系](../Page/Tu-104_\(航空機\).md "wikilink") | TU104 | 50席    | 4000km | $1500万 | 1955年 |
+| [Tu-124系](../Page/Tu-124_\(航空機\).md "wikilink") | TU124 | 40席    | 5600km | $2000万 | 1962年 |
+| [Tu-134系](../Page/Tu-134_\(航空機\).md "wikilink") | TU134 | 70席    | 3700km | $2200万 | 1967年 |
+| [Tu-144系](../Page/Tu-144_\(航空機\).md "wikilink") | TU144 | 140席   | 4200km | $9000万 | 1977年 |
+| [Tu-154系](../Page/Tu-154_\(航空機\).md "wikilink") | TU154 | 150席   | 3900km | $2400万 | 1972年 |
+| TU154B                                          | 160席  | 4000km | $2800万 | 1977年  |       |
+| [Tu-204系](../Page/Tu-204_\(航空機\).md "wikilink") | TU204 | 210席   | 4600km | $2600万 | 1989年 |
 
 ### 架空の機材
 
@@ -435,7 +435,7 @@ PC-98版のみの追加要素
 
   - スーパーファミコン版
 
-ゲーム誌『ファミコン通信』の「クロスレビュー」では8・5・7・7の合計27点（満40点）、『[ファミリーコンピュータMagazine](https://ja.wikipedia.org/wiki/ファミリーコンピュータMagazine "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、19.45点（満30点）となっている\[1\]。この得点はスーパーファミコン全ソフトの中で228位（323本中、1993年時点）となっている\[2\]。また、『SUPER FAMICOM Magazine』1993年8月情報号特別付録の「スーパーファミコンオールカタログ'93」では、「前作22あった都市が89と約4倍になって、より高度な企業戦略が必要になった。また、シナリオの数も4つになっていて、長くゲームを楽しめるようになっている」と紹介されている\[3\]。
+ゲーム誌『ファミコン通信』の「クロスレビュー」では8・5・7・7の合計27点（満40点）、『[ファミリーコンピュータMagazine](../Page/ファミリーコンピュータMagazine.md "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、19.45点（満30点）となっている\[1\]。この得点はスーパーファミコン全ソフトの中で228位（323本中、1993年時点）となっている\[2\]。また、『SUPER FAMICOM Magazine』1993年8月情報号特別付録の「スーパーファミコンオールカタログ'93」では、「前作22あった都市が89と約4倍になって、より高度な企業戦略が必要になった。また、シナリオの数も4つになっていて、長くゲームを楽しめるようになっている」と紹介されている\[3\]。
 
 | 項目 | キャラクタ | 音楽   | 操作性  | 熱中度  | お買得度 | オリジナリティ | 総合    |
 | -- | ----- | ---- | ---- | ---- | ---- | ------- | ----- |
@@ -449,13 +449,13 @@ PC-98版のみの追加要素
 
 <!-- end list -->
 
-  - ゲーム誌『[メガドライブFAN](https://ja.wikipedia.org/wiki/ドリームキャストFAN "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、18.8点（満30点）となっている\[5\]。
+  - ゲーム誌『[メガドライブFAN](../Page/ドリームキャストFAN.md "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、18.8点（満30点）となっている\[5\]。
 
 | 項目 | キャラクタ | 音楽  | お買得度 | 操作性 | 熱中度 | オリジナリティ | 総合   |
 | -- | ----- | --- | ---- | --- | --- | ------- | ---- |
 | 得点 | 3.4   | 3.0 | 2.9  | 3.4 | 2.9 | 3.2     | 18.8 |
 
-  - ゲーム本『メガドライブ大全』（[2004年](../Page/2004年.md "wikilink")、[太田出版](https://ja.wikipedia.org/wiki/太田出版 "wikilink")）では、「今回からはハブ拠点都市が設定され、ハブに乗り入れないと地方都市への航路が開けないところがよりリアルになっている。操作性も向上、ボリュームもアップした正当進化版と言える」と評されている\[6\]。
+  - ゲーム本『メガドライブ大全』（[2004年](../Page/2004年.md "wikilink")、[太田出版](../Page/太田出版.md "wikilink")）では、「今回からはハブ拠点都市が設定され、ハブに乗り入れないと地方都市への航路が開けないところがよりリアルになっている。操作性も向上、ボリュームもアップした正当進化版と言える」と評されている\[6\]。
 
 ## 脚注
 

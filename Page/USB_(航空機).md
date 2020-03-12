@@ -6,14 +6,14 @@
 `| 名称=`[`Flag_of_the_Soviet_Union_1923.svg`](https://ja.wikipedia.org/wiki/File:Flag_of_the_Soviet_Union_1923.svg "fig:Flag_of_the_Soviet_Union_1923.svg")` `
 `| 画像=`
 `| キャプション=`
-`| 用途=`[`練習機`](https://ja.wikipedia.org/wiki/練習機 "wikilink")
+`| 用途=`[`練習機`](../Page/練習機.md "wikilink")
 `| 分類=練習訓練爆撃機`
-`| 設計者=`[`Flag_of_the_Soviet_Union_1923.svg`](https://ja.wikipedia.org/wiki/File:Flag_of_the_Soviet_Union_1923.svg "fig:Flag_of_the_Soviet_Union_1923.svg")` `[`アルハーンゲリスキイ試作設計局`](https://ja.wikipedia.org/wiki/A・A・アルハーンゲリスキイ記念試作設計局 "wikilink")
+`| 設計者=`[`Flag_of_the_Soviet_Union_1923.svg`](https://ja.wikipedia.org/wiki/File:Flag_of_the_Soviet_Union_1923.svg "fig:Flag_of_the_Soviet_Union_1923.svg")` `[`アルハーンゲリスキイ試作設計局`](../Page/A・A・アルハーンゲリスキイ記念試作設計局.md "wikilink")
 `| 製造者=`[`Flag_of_the_Soviet_Union_1923.svg`](https://ja.wikipedia.org/wiki/File:Flag_of_the_Soviet_Union_1923.svg "fig:Flag_of_the_Soviet_Union_1923.svg")` `[`第22工場`](https://ja.wikipedia.org/wiki/第22工場 "wikilink")
 `| 運用者=`
 `| 運用者 more=`
 
-  -   - [Red_Army_flag.svg](https://ja.wikipedia.org/wiki/File:Red_Army_flag.svg "fig:Red_Army_flag.svg") [赤色空軍](https://ja.wikipedia.org/wiki/赤色空軍 "wikilink")
+  -   - [Red_Army_flag.svg](https://ja.wikipedia.org/wiki/File:Red_Army_flag.svg "fig:Red_Army_flag.svg") [赤色空軍](../Page/赤色空軍.md "wikilink")
       - [Flag_of_Finland.svg](https://ja.wikipedia.org/wiki/File:Flag_of_Finland.svg "fig:Flag_of_Finland.svg") [フィンランド空軍](https://ja.wikipedia.org/wiki/フィンランド空軍 "wikilink")
 
 `| 初飛行年月日=`[`1938年`](../Page/1938年.md "wikilink")
@@ -24,13 +24,13 @@
 `| 運用状況=退役`
 `| ユニットコスト=`
 
-}} **USB**([ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink"):****<small>ウーエーズベー</small>)は、[ソ連の](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[A・A・アルハーンゲリスキイ記念試作設計局](https://ja.wikipedia.org/wiki/A・A・アルハーンゲリスキイ記念試作設計局 "wikilink")の開発した双発中型の[練習訓練爆撃機](https://ja.wikipedia.org/wiki/練習機 "wikilink")()である。
+}} **USB**([ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink"):****<small>ウーエーズベー</small>)は、[ソ連の](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[A・A・アルハーンゲリスキイ記念試作設計局](../Page/A・A・アルハーンゲリスキイ記念試作設計局.md "wikilink")の開発した双発中型の[練習訓練爆撃機](../Page/練習機.md "wikilink")()である。
 
 ## 概要
 
-[ツポレフ](https://ja.wikipedia.org/wiki/ツポレフ "wikilink")設計局において[高速爆撃機](https://ja.wikipedia.org/wiki/高速爆撃機 "wikilink")() [SBを開発した](https://ja.wikipedia.org/wiki/SB_\(航空機\) "wikilink")[アレクサーンドル・アレクサーンドロヴィチ・アルハーンゲリスキイ](https://ja.wikipedia.org/wiki/アレクサンドル・アルハーンゲリスキイ "wikilink")()は、その派生型のひとつとして練習機の開発に取り組んだ。[SBが大量に生産され部隊配備されたため](https://ja.wikipedia.org/wiki/SB_\(航空機\) "wikilink")、機体に習熟するための専用の練習訓練機が必要となったのである。
+[ツポレフ](../Page/ツポレフ.md "wikilink")設計局において[高速爆撃機](https://ja.wikipedia.org/wiki/高速爆撃機 "wikilink")() [SBを開発した](https://ja.wikipedia.org/wiki/SB_\(航空機\) "wikilink")[アレクサーンドル・アレクサーンドロヴィチ・アルハーンゲリスキイ](https://ja.wikipedia.org/wiki/アレクサンドル・アルハーンゲリスキイ "wikilink")()は、その派生型のひとつとして練習機の開発に取り組んだ。[SBが大量に生産され部隊配備されたため](https://ja.wikipedia.org/wiki/SB_\(航空機\) "wikilink")、機体に習熟するための専用の練習訓練機が必要となったのである。
 
-開発は、[1937年](../Page/1937年.md "wikilink")に開始された。[M-100A](https://ja.wikipedia.org/wiki/M-100_\(エンジン\) "wikilink")[液冷エンジン](https://ja.wikipedia.org/wiki/液冷エンジン "wikilink")を搭載したSB-2M-100Aが基礎として選ばれ、これに二重操縦装置付きのキャビンが取り付けられることとなった。しかしながら、新しいキャビンは[操縦士の作業効率と機体の飛行性能を低下させることが判明した](https://ja.wikipedia.org/wiki/パイロット_\(航空\) "wikilink")。そのため、操縦士席を取り外して代わりに開放式の飛行教官席F-1を取り付けることとされた。
+開発は、[1937年](../Page/1937年.md "wikilink")に開始された。[M-100A](https://ja.wikipedia.org/wiki/M-100_\(エンジン\) "wikilink")[液冷エンジン](../Page/液冷エンジン.md "wikilink")を搭載したSB-2M-100Aが基礎として選ばれ、これに二重操縦装置付きのキャビンが取り付けられることとなった。しかしながら、新しいキャビンは[操縦士の作業効率と機体の飛行性能を低下させることが判明した](https://ja.wikipedia.org/wiki/パイロット_\(航空\) "wikilink")。そのため、操縦士席を取り外して代わりに開放式の飛行教官席F-1を取り付けることとされた。
 
 [1938年](../Page/1938年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink")から[16日にかけて](../Page/3月16日.md "wikilink")、F-1を装備したSBは国家試験に供せられた。練習機開発のため、[第22工場](https://ja.wikipedia.org/wiki/第22工場 "wikilink")で生産された量産型のSBが1 機使用された。この機体には専用の訓練生席が備え付けられたが、教官席にも操縦装置とすべての計器が搭載されていた。試験は成功裏に終了した。1938年の内に110組の練習機用キャビンが製造され、その内29組が新造機に装備され、残る81組は改修キットとして[航空学校](https://ja.wikipedia.org/wiki/航空学校 "wikilink")や前線部隊に送られた。
 
@@ -55,8 +55,8 @@
 ## 運用国
 
   - [Flag_of_the_Soviet_Union_1923.svg](https://ja.wikipedia.org/wiki/File:Flag_of_the_Soviet_Union_1923.svg "fig:Flag_of_the_Soviet_Union_1923.svg") [ソ連](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")
-    [空軍](https://ja.wikipedia.org/wiki/赤色空軍 "wikilink")
-  - [Flag_of_Finland.svg](https://ja.wikipedia.org/wiki/File:Flag_of_Finland.svg "fig:Flag_of_Finland.svg") [フィンランド](https://ja.wikipedia.org/wiki/フィンランド "wikilink")
+    [空軍](../Page/赤色空軍.md "wikilink")
+  - [Flag_of_Finland.svg](https://ja.wikipedia.org/wiki/File:Flag_of_Finland.svg "fig:Flag_of_Finland.svg") [フィンランド](../Page/フィンランド.md "wikilink")
     [フィンランド空軍](https://ja.wikipedia.org/wiki/フィンランド空軍 "wikilink")
 
 ## 関連項目

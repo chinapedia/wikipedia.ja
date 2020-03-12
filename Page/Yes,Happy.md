@@ -1,18 +1,18 @@
 > この記事は[Yes,Happy](https://ja.wikipedia.org/wiki/Yes,Happy)から翻訳されています。
 
 
-「**Yes,Happy**」（いえす はっぴー）は、[モンゴル](https://ja.wikipedia.org/wiki/モンゴル "wikilink")出身の女性[歌手](../Page/歌手.md "wikilink")[オユンナ](https://ja.wikipedia.org/wiki/オユンナ "wikilink")の2枚目の[シングル](../Page/シングル.md "wikilink")。
+「**Yes,Happy**」（いえす はっぴー）は、[モンゴル](https://ja.wikipedia.org/wiki/モンゴル "wikilink")出身の女性[歌手](../Page/歌手.md "wikilink")[オユンナ](../Page/オユンナ.md "wikilink")の2枚目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 解説
 
 [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[11月21日](../Page/11月21日.md "wikilink")に[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")よりリリースされた。
 
-1990年の[カネボウ化粧品](https://ja.wikipedia.org/wiki/カネボウ化粧品 "wikilink")冬のイメージソング。
+1990年の[カネボウ化粧品](../Page/カネボウ化粧品.md "wikilink")冬のイメージソング。
 
 ## 収録曲
 
 1.  Yes,Happy
-      - 作詞: [阿木燿子](https://ja.wikipedia.org/wiki/阿木燿子 "wikilink")、作曲: [宇崎竜童](https://ja.wikipedia.org/wiki/宇崎竜童 "wikilink")、編曲: 松浦晃久
+      - 作詞: [阿木燿子](../Page/阿木燿子.md "wikilink")、作曲: [宇崎竜童](../Page/宇崎竜童.md "wikilink")、編曲: 松浦晃久
 2.  [天の子守歌](../Page/天の子守歌.md "wikilink")（[モンゴル](https://ja.wikipedia.org/wiki/モンゴル "wikilink")語ヴァージョン）
       - 作詞: エルデネツェツェグ、作曲: オユンナ
 

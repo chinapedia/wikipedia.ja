@@ -1,7 +1,7 @@
 > この記事は[BAAD \(\)](https://ja.wikipedia.org/wiki/BAAD_\(\))から翻訳されています。
 
 
-『**BAAD**』（バード）はロックバンド[BAAD](https://ja.wikipedia.org/wiki/BAAD "wikilink")のアルバム。
+『**BAAD**』（バード）はロックバンド[BAAD](../Page/BAAD.md "wikilink")のアルバム。
 
 ## 内容
 
@@ -15,30 +15,30 @@
 4.  **Just Take My Heart**
 5.  **WILD THING**
 6.  **傷付いても止まらないでいたい**
-7.  **[愛したい愛せない](https://ja.wikipedia.org/wiki/愛したい愛せない "wikilink")**
+7.  **[愛したい愛せない](../Page/愛したい愛せない.md "wikilink")**
 8.  **街は優しく色づいていく**
 9.  **I will never say good-bye**
-10. **[どんな時でもHold Me Tight](https://ja.wikipedia.org/wiki/どんな時でもHold_Me_Tight "wikilink")**
+10. **[どんな時でもHold Me Tight](../Page/どんな時でもHold_Me_Tight.md "wikilink")**
 
 <!-- end list -->
 
   -
     作詞:山田恭二(1～10)
-    作曲:[多々納好夫](https://ja.wikipedia.org/wiki/多々納好夫 "wikilink")(1)、[大田紳一郎](../Page/大田紳一郎.md "wikilink")(2～6、8、9)、羽田一郎(7)、瀬木祐未子(10)
-    編曲:[明石昌夫](https://ja.wikipedia.org/wiki/明石昌夫 "wikilink")(1～6、8～10)、[葉山たけし](../Page/葉山たけし.md "wikilink")(7)
+    作曲:[多々納好夫](../Page/多々納好夫.md "wikilink")(1)、[大田紳一郎](../Page/大田紳一郎.md "wikilink")(2～6、8、9)、羽田一郎(7)、瀬木祐未子(10)
+    編曲:[明石昌夫](../Page/明石昌夫.md "wikilink")(1～6、8～10)、[葉山たけし](../Page/葉山たけし.md "wikilink")(7)
 
 ## 参加ミュージシャン
 
-  - [生沢佑一](https://ja.wikipedia.org/wiki/生沢佑一 "wikilink")([TWINZER](../Page/TWINZER.md "wikilink")) - コーラス
-  - [勝田かず樹](https://ja.wikipedia.org/wiki/勝田かず樹 "wikilink")([DIMENSION](https://ja.wikipedia.org/wiki/DIMENSION "wikilink")) - サックス
-  - [増田隆宣](https://ja.wikipedia.org/wiki/増田隆宣 "wikilink") - オルガン
+  - [生沢佑一](../Page/生沢佑一.md "wikilink")([TWINZER](../Page/TWINZER.md "wikilink")) - コーラス
+  - [勝田かず樹](https://ja.wikipedia.org/wiki/勝田かず樹 "wikilink")([DIMENSION](../Page/DIMENSION.md "wikilink")) - サックス
+  - [増田隆宣](../Page/増田隆宣.md "wikilink") - オルガン
   - 葉山たけし - ギター、プログラミング
   - 明石昌夫 - プログラミング
 
 ## 関連項目
 
   - [ビーイング](../Page/ビーイング.md "wikilink")
-  - [BAAD](https://ja.wikipedia.org/wiki/BAAD "wikilink")
+  - [BAAD](../Page/BAAD.md "wikilink")
       - [大田紳一郎](../Page/大田紳一郎.md "wikilink")
 
 [Category:ZAIN_RECORDSのアルバム](https://ja.wikipedia.org/wiki/Category:ZAIN_RECORDSのアルバム "wikilink") [Category:BAADのアルバム](https://ja.wikipedia.org/wiki/Category:BAADのアルバム "wikilink") [Category:1994年のアルバム](https://ja.wikipedia.org/wiki/Category:1994年のアルバム "wikilink")

@@ -1,13 +1,13 @@
 > この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
 
 
-**TVチューナー**（テレビチューナー）とは、[テレビ](../Page/テレビ.md "wikilink")[放送](../Page/放送.md "wikilink")を受信するための機器、部品、あるいはその部品を含む[集積回路](../Page/集積回路.md "wikilink")や[基板](https://ja.wikipedia.org/wiki/基板 "wikilink")（[拡張カード](https://ja.wikipedia.org/wiki/拡張カード "wikilink")など）をいう。
+**TVチューナー**（テレビチューナー）とは、[テレビ](../Page/テレビ.md "wikilink")[放送](../Page/放送.md "wikilink")を受信するための機器、部品、あるいはその部品を含む[集積回路](../Page/集積回路.md "wikilink")や[基板](../Page/基板.md "wikilink")（[拡張カード](../Page/拡張カード.md "wikilink")など）をいう。
 
-[受信機を内蔵していないモニタ](../Page/テレビ受像機.md "wikilink")、あるいはテレビに実装された放送波以外を受信し映像信号を出力する[BS・CSチューナーなどについては一般的に](../Page/衛星放送.md "wikilink")[セットトップボックス](https://ja.wikipedia.org/wiki/セットトップボックス "wikilink")と同義で扱われることが多い。
+[受信機を内蔵していないモニタ](../Page/テレビ受像機.md "wikilink")、あるいはテレビに実装された放送波以外を受信し映像信号を出力する[BS・CSチューナーなどについては一般的に](../Page/衛星放送.md "wikilink")[セットトップボックス](../Page/セットトップボックス.md "wikilink")と同義で扱われることが多い。
 
-また初期の[薄型テレビ](https://ja.wikipedia.org/wiki/薄型テレビ "wikilink")では、チューナーユニットがディスプレイユニットと別筐体の製品も数多く見受けられた。
+また初期の[薄型テレビ](../Page/薄型テレビ.md "wikilink")では、チューナーユニットがディスプレイユニットと別筐体の製品も数多く見受けられた。
 
-テレビ本体や録画機器などによっては、チューナーを複数内蔵している機器も存在する。機種にもよるが、テレビ単体機では複数番組を同時に視聴でき、[テレビデオ](https://ja.wikipedia.org/wiki/テレビデオ "wikilink")等では録画中に[裏番組](https://ja.wikipedia.org/wiki/裏番組 "wikilink")を視聴できる。HDDレコーダー（主にHDDを内蔵した[DVDレコーダー](../Page/DVDレコーダー.md "wikilink")・[BDレコーダー](https://ja.wikipedia.org/wiki/BDレコーダー "wikilink")）が普及してからは、チューナーを2 - 3系統搭載して複数番組の同時録画が可能なモデルも多く発売されている。
+テレビ本体や録画機器などによっては、チューナーを複数内蔵している機器も存在する。機種にもよるが、テレビ単体機では複数番組を同時に視聴でき、[テレビデオ](../Page/テレビデオ.md "wikilink")等では録画中に[裏番組](../Page/裏番組.md "wikilink")を視聴できる。HDDレコーダー（主にHDDを内蔵した[DVDレコーダー](../Page/DVDレコーダー.md "wikilink")・[BDレコーダー](https://ja.wikipedia.org/wiki/BDレコーダー "wikilink")）が普及してからは、チューナーを2 - 3系統搭載して複数番組の同時録画が可能なモデルも多く発売されている。
 
 ## パソコンにおける形態
 
@@ -17,7 +17,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:I-O_Data_GV-MVP-RZ.jpg "wikilink") [ViXS_XCode_II-L.jpg](https://ja.wikipedia.org/wiki/File:ViXS_XCode_II-L.jpg "fig:ViXS_XCode_II-L.jpg")製ハードウェアエンコードチップのXCode II-L\]\] [パソコン内に映像](../Page/パーソナルコンピュータ.md "wikilink")・音声データとして取り込んだ上でパソコンの画面などに表示する。 テレビチューナー自体にはテレビを視聴する機能しかない。
 
-パソコン連携のテレビチューナーは、ビデオ信号をパソコンに取り込む[キャプチャ機能を併せ持っている](https://ja.wikipedia.org/wiki/キャプチャ_\(録画ソフト\) "wikilink")。そのため、テレビキャプチャという表現が一般的でパソコンのHDDに録画することもできる。
+パソコン連携のテレビチューナーは、ビデオ信号をパソコンに取り込む[キャプチャ機能を併せ持っている](../Page/キャプチャ_\(録画ソフト\).md "wikilink")。そのため、テレビキャプチャという表現が一般的でパソコンのHDDに録画することもできる。
 
 コンポジット入力やS端子入力も備えていることが多い。動画としてのデータサイズを小さくするためのハードウェアエンコード機能を備えたものもある。
 
@@ -51,10 +51,10 @@
 
 ## 関連項目
 
-  - [地上デジタルテレビ放送](../Page/地上デジタルテレビ放送.md "wikilink") - [ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")
+  - [地上デジタルテレビ放送](../Page/地上デジタルテレビ放送.md "wikilink") - [ワンセグ](../Page/ワンセグ.md "wikilink")
   - [衛星放送](../Page/衛星放送.md "wikilink")
   - [ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")
-  - [セットトップボックス](https://ja.wikipedia.org/wiki/セットトップボックス "wikilink")
+  - [セットトップボックス](../Page/セットトップボックス.md "wikilink")
 
 [Category:テレビ受像機](https://ja.wikipedia.org/wiki/Category:テレビ受像機 "wikilink") [Category:パソコンの周辺機器](https://ja.wikipedia.org/wiki/Category:パソコンの周辺機器 "wikilink") [Category:放送の視聴](https://ja.wikipedia.org/wiki/Category:放送の視聴 "wikilink")
 

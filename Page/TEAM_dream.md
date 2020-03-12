@@ -7,7 +7,7 @@
 
   - 2005年4月 TEAM dream設立
   - 2005年10月 宇津木めぐみ加入
-  - 2006年4月 [長州小力](https://ja.wikipedia.org/wiki/長州小力 "wikilink")監督、公式戦優勝
+  - 2006年4月 [長州小力](../Page/長州小力.md "wikilink")監督、公式戦優勝
   - 2006年11月 スフィアリーグ すかいらーくグループシリーズ 年間総合優勝
   - 2007年5月 橘に代わり高本がキャプテン
   - 2008年4月 解散
@@ -15,18 +15,18 @@
 ## スポンサー
 
   - [プロアクティブ・ソリューション](https://ja.wikipedia.org/wiki/プロアクティブ・ソリューション "wikilink")
-  - ユニフォームサプライヤー - [アンブロ](https://ja.wikipedia.org/wiki/アンブロ "wikilink")
+  - ユニフォームサプライヤー - [アンブロ](../Page/アンブロ.md "wikilink")
 
 ## メンバー
 
-  - [長州小力](https://ja.wikipedia.org/wiki/長州小力 "wikilink")（監督）
-  - [阿久津貴志](https://ja.wikipedia.org/wiki/阿久津貴志 "wikilink")（コーチ）
+  - [長州小力](../Page/長州小力.md "wikilink")（監督）
+  - [阿久津貴志](../Page/阿久津貴志.md "wikilink")（コーチ）
   - [高本彩](https://ja.wikipedia.org/wiki/高本彩 "wikilink")（キャプテン、アラ）
   - [阿部絵里恵](https://ja.wikipedia.org/wiki/阿部絵里恵 "wikilink")（ピヴォ）
   - [中島麻未](https://ja.wikipedia.org/wiki/中島麻未 "wikilink")（フィクソ）
   - [西田静香](https://ja.wikipedia.org/wiki/西田静香 "wikilink")（アラ、フィクソ）
-  - [橘佳奈](https://ja.wikipedia.org/wiki/橘佳奈 "wikilink")（ゴレイロ）
-  - [長谷部優](https://ja.wikipedia.org/wiki/長谷部優 "wikilink")（ピヴォ）
+  - [橘佳奈](../Page/橘佳奈.md "wikilink")（ゴレイロ）
+  - [長谷部優](../Page/長谷部優.md "wikilink")（ピヴォ）
   - [山本紗也加](https://ja.wikipedia.org/wiki/山本紗也加 "wikilink")（アラ）
   - 草野真梨絵（フィクソ）
   - 高梨桃子（アラ）
@@ -37,16 +37,16 @@
   - [松永涼子](https://ja.wikipedia.org/wiki/松永涼子 "wikilink")（アラ、ピヴォ）
   - [はるか](https://ja.wikipedia.org/wiki/294_\(グループ\)#メンバー "wikilink")（ゴレイロ）
   - [石坂結](https://ja.wikipedia.org/wiki/石坂結 "wikilink")（ピヴォ）
-  - [嘉陽愛子](https://ja.wikipedia.org/wiki/嘉陽愛子 "wikilink")（ピヴォ）
-  - [宇津木めぐみ](https://ja.wikipedia.org/wiki/宇津木めぐみ "wikilink")（アラ）
-  - [近野成美](https://ja.wikipedia.org/wiki/近野成美 "wikilink")（ - 2005年6月）
-  - [小島由利絵](https://ja.wikipedia.org/wiki/小島由利絵 "wikilink")（ - 2005年6月）
+  - [嘉陽愛子](../Page/嘉陽愛子.md "wikilink")（ピヴォ）
+  - [宇津木めぐみ](../Page/宇津木めぐみ.md "wikilink")（アラ）
+  - [近野成美](../Page/近野成美.md "wikilink")（ - 2005年6月）
+  - [小島由利絵](../Page/小島由利絵.md "wikilink")（ - 2005年6月）
   - [松浦勝人](https://ja.wikipedia.org/wiki/松浦勝人 "wikilink")（監督、- 2006年3月）
   - 野嶋倫（コーチ、- 2006年3月）
   - 垣本右近（コーチ、- 2006年11月）
-  - [海老沢神菜](https://ja.wikipedia.org/wiki/海老沢神菜 "wikilink")（ - 2007年4月）
+  - [海老沢神菜](../Page/海老沢神菜.md "wikilink")（ - 2007年4月）
   - [絵梨華](https://ja.wikipedia.org/wiki/絵梨華 "wikilink")（ - 2007年4月）
-  - [杉林沙織](https://ja.wikipedia.org/wiki/杉林沙織 "wikilink")（ - 2007年4月）
+  - [杉林沙織](../Page/杉林沙織.md "wikilink")（ - 2007年4月）
 
 ## 戦績
 
@@ -96,7 +96,7 @@
   - 7月17日 練習試合 杉林：左手首骨折
   - 7月21日 練習試合 チーム初勝利
   - 7月26日『すかいらーくグループCUP』
-  - 8月6日『ローソンカップ－夢フットサル』[徳島県鳴門総合運動公園陸上競技場](https://ja.wikipedia.org/wiki/徳島県鳴門総合運動公園陸上競技場 "wikilink")、対ヴォルテス/一般混成、エキシビジョン、ミニライブ
+  - 8月6日『ローソンカップ－夢フットサル』[徳島県鳴門総合運動公園陸上競技場](../Page/徳島県鳴門総合運動公園陸上競技場.md "wikilink")、対ヴォルテス/一般混成、エキシビジョン、ミニライブ
   - 8月6日 - 30日『すかいらーくグループ冒険王リーグ』
   - 8月20日 冒険王 中島：[肋骨骨折](https://ja.wikipedia.org/wiki/肋骨骨折 "wikilink") 公式戦初得点、公式戦初勝利
   - 8月21日 冒険王 西田：顔面にボール当たる
@@ -130,21 +130,21 @@
   - 2月9日 - 10日 スフィア選抜で練習
   - 2月12日『第1回 チャレンジCUP』準優勝
   - 2月13日 練習試合 紅白戦、avex屋上フットサルコート
-  - 2月23日『スフィア すかいらーくシリーズ 2ndステージ』、高本：前転、敗戦後[ガッタスサポーターによる](https://ja.wikipedia.org/wiki/Gatas_Brilhantes_H.P. "wikilink")「ドリーム」コール
+  - 2月23日『スフィア すかいらーくシリーズ 2ndステージ』、高本：前転、敗戦後[ガッタスサポーターによる](../Page/Gatas_Brilhantes_H.P..md "wikilink")「ドリーム」コール
   - 2月28日 高本：ロンドリーナジュニアの練習に参加
   - 3月30日 練習試合 対ヤンジャン、対ミスマガ
   - 4月4日 練習試合 対ザナドゥー
   - 4月6日『スフィア すかいらーくシリーズ 3rdステージ』宇津木：右足首内側靱帯損傷
   - 4月15日 関東リーグのオールスターゲーム『Jam！』観戦
   - 4月16日『第2回 チャレンジCUP』決勝トーナメント準々決勝敗退
-  - 4月18日『[KICK IN\! GAROTAS フットサルTV](https://ja.wikipedia.org/wiki/KICK_IN!_GAROTAS_フットサルTV "wikilink")』高本：カレッツァ小島と対談、TV収録
-  - 4月20日『[恋するフットサル](https://ja.wikipedia.org/wiki/恋するフットサル "wikilink")』橘：ミスマガ時東、監督安田大サーカス・団長と共演、TV収録
+  - 4月18日『[KICK IN\! GAROTAS フットサルTV](../Page/KICK_IN!_GAROTAS_フットサルTV.md "wikilink")』高本：カレッツァ小島と対談、TV収録
+  - 4月20日『[恋するフットサル](../Page/恋するフットサル.md "wikilink")』橘：ミスマガ時東、監督安田大サーカス・団長と共演、TV収録
   - 4月20日 高本、宇津木：ロンドリーナレディースの練習に参加
   - 4月28日 練習試合 対蹴竹G
   - 5月9日 練習試合 対アサイ
   - 5月10日 練習試合 山本：親指負傷
   - 5月11日『スフィア すかいらーくシリーズ 4thステージ』
-  - 6月10日『KIRIN SUPPORTERS' STATION CUP エキシビジョンマッチ』[横浜赤レンガ倉庫](https://ja.wikipedia.org/wiki/横浜赤レンガ倉庫 "wikilink")内イベント広場B、ゴレイロ：宇津木/阿部
+  - 6月10日『KIRIN SUPPORTERS' STATION CUP エキシビジョンマッチ』[横浜赤レンガ倉庫](../Page/横浜赤レンガ倉庫.md "wikilink")内イベント広場B、ゴレイロ：宇津木/阿部
   - 6月18日『第3回 チャレンジCUP』予選グループD 1位通過、決勝トーナメント優勝
   - 7月7日『第1回 グッドウィルカップ』
   - 7月17日『お台場冒険王“真夏の女王”決定戦』

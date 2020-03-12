@@ -1,17 +1,17 @@
 > この記事は[GA](https://ja.wikipedia.org/wiki/GA)から翻訳されています。
 
 
-**GA文庫**（ジーエーぶんこ）は、[SBクリエイティブ](https://ja.wikipedia.org/wiki/SBクリエイティブ "wikilink")（旧社名・ソフトバンククリエイティブ）が刊行する[ライトノベル](../Page/ライトノベル.md "wikilink")系の[文庫](../Page/文庫.md "wikilink")レーベル。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月14日](../Page/1月14日.md "wikilink")創刊。
+**GA文庫**（ジーエーぶんこ）は、[SBクリエイティブ](../Page/SBクリエイティブ.md "wikilink")（旧社名・ソフトバンククリエイティブ）が刊行する[ライトノベル](../Page/ライトノベル.md "wikilink")系の[文庫](../Page/文庫.md "wikilink")レーベル。[2006年](../Page/2006年.md "wikilink")[1月14日](../Page/1月14日.md "wikilink")創刊。
 
 ## 概要
 
-創刊当初は編集部において作品投稿の受け付けのみを行っていたが[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")2月、公募新人賞として[GA文庫大賞](../Page/GA文庫大賞.md "wikilink")及びGA文庫テーマ大賞を創設。同年8月より[ムック](https://ja.wikipedia.org/wiki/ムック_\(出版\) "wikilink")『GAマガジン』を発刊している。
+創刊当初は編集部において作品投稿の受け付けのみを行っていたが[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")2月、公募新人賞として[GA文庫大賞](../Page/GA文庫大賞.md "wikilink")及びGA文庫テーマ大賞を創設。同年8月より[ムック](../Page/ムック_\(出版\).md "wikilink")『GAマガジン』を発刊している。
 
 主に少年少女向けの作品を取り扱っており、幅広い層にも人気が高く、近年ではメディアミックスの展開も続々と進行している。
 
-収録作品はオリジナル作品の他「[戦塵外史](https://ja.wikipedia.org/wiki/戦塵外史 "wikilink")」シリーズ（初出：[角川スニーカー文庫](https://ja.wikipedia.org/wiki/角川スニーカー文庫 "wikilink")及び[角川ノベルズ](https://ja.wikipedia.org/wiki/角川ノベルズ "wikilink")）や「[デモンズサモナー](https://ja.wikipedia.org/wiki/デモンズサモナー "wikilink")」（初出：[サークル文庫](https://ja.wikipedia.org/wiki/サークル文庫 "wikilink")）、「[ここは魔法少年育成センター](https://ja.wikipedia.org/wiki/ここは魔法少年育成センター "wikilink")」（初出：[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")/[EXノベルズ](../Page/EXノベルズ.md "wikilink")）等の過去に他社から刊行された作品の再録や「[ナハトイェーガー](https://ja.wikipedia.org/wiki/ナハトイェーガー "wikilink")」「[ジョン平とぼくと](https://ja.wikipedia.org/wiki/ジョン平とぼくと "wikilink")」「[迷宮街クロニクル](https://ja.wikipedia.org/wiki/迷宮街クロニクル "wikilink")」等の創刊当時としては珍しい[オンライン小説](../Page/オンライン小説.md "wikilink")として発表された作品が比較的多い。他のレーベルに多く見られる[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")や[アニメ](../Page/アニメ.md "wikilink")・[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")の[小説化](../Page/小説化.md "wikilink")作品は創刊から1年ほど主力タイトルである「[神曲奏界ポリフォニカ](https://ja.wikipedia.org/wiki/神曲奏界ポリフォニカ "wikilink")」を除き存在しなかったが、[2007年](../Page/2007年.md "wikilink")に「[アルトネリコ](../Page/アルトネリコ.md "wikilink")」が刊行されて以降、「[ブラックマジック](https://ja.wikipedia.org/wiki/ブラックマジック_M-66 "wikilink")」や「[マップス](https://ja.wikipedia.org/wiki/マップス "wikilink")」など[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")原作の[シェアード・ワールド](https://ja.wikipedia.org/wiki/シェアード・ワールド "wikilink")作品も刊行、2008年刊の「[神曲奏界ポリフォニカRPG](https://ja.wikipedia.org/wiki/神曲奏界ポリフォニカRPG "wikilink")」で[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")関連にも対象ジャンルを拡大している。
+収録作品はオリジナル作品の他「[戦塵外史](https://ja.wikipedia.org/wiki/戦塵外史 "wikilink")」シリーズ（初出：[角川スニーカー文庫](https://ja.wikipedia.org/wiki/角川スニーカー文庫 "wikilink")及び[角川ノベルズ](https://ja.wikipedia.org/wiki/角川ノベルズ "wikilink")）や「[デモンズサモナー](https://ja.wikipedia.org/wiki/デモンズサモナー "wikilink")」（初出：[サークル文庫](https://ja.wikipedia.org/wiki/サークル文庫 "wikilink")）、「[ここは魔法少年育成センター](https://ja.wikipedia.org/wiki/ここは魔法少年育成センター "wikilink")」（初出：[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")/[EXノベルズ](../Page/EXノベルズ.md "wikilink")）等の過去に他社から刊行された作品の再録や「[ナハトイェーガー](https://ja.wikipedia.org/wiki/ナハトイェーガー "wikilink")」「[ジョン平とぼくと](https://ja.wikipedia.org/wiki/ジョン平とぼくと "wikilink")」「[迷宮街クロニクル](https://ja.wikipedia.org/wiki/迷宮街クロニクル "wikilink")」等の創刊当時としては珍しい[オンライン小説](../Page/オンライン小説.md "wikilink")として発表された作品が比較的多い。他のレーベルに多く見られる[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")や[アニメ](../Page/アニメ.md "wikilink")・[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")の[小説化](../Page/小説化.md "wikilink")作品は創刊から1年ほど主力タイトルである「[神曲奏界ポリフォニカ](../Page/神曲奏界ポリフォニカ.md "wikilink")」を除き存在しなかったが、[2007年](../Page/2007年.md "wikilink")に「[アルトネリコ](../Page/アルトネリコ.md "wikilink")」が刊行されて以降、「[ブラックマジック](../Page/ブラックマジック_M-66.md "wikilink")」や「[マップス](https://ja.wikipedia.org/wiki/マップス "wikilink")」など[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")原作の[シェアード・ワールド](../Page/シェアード・ワールド.md "wikilink")作品も刊行、2008年刊の「[神曲奏界ポリフォニカRPG](https://ja.wikipedia.org/wiki/神曲奏界ポリフォニカRPG "wikilink")」で[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")関連にも対象ジャンルを拡大している。
 
-かつてソフトバンククリエイティブが発売していた漫画[単行本](../Page/単行本.md "wikilink")レーベル・[フレックスコミックス](https://ja.wikipedia.org/wiki/フレックスコミックス "wikilink")と双方の折り込みチラシへ広告を相互出稿している他、[ウェブコミック](https://ja.wikipedia.org/wiki/ウェブコミック "wikilink")誌『[FlexComixブラッド](../Page/FlexComixブラッド.md "wikilink")』及び『[FlexComixネクスト](https://ja.wikipedia.org/wiki/FlexComixネクスト "wikilink")』で「神曲奏界ポリフォニカ」「[メイド刑事](../Page/メイド刑事.md "wikilink")」「[おと×まほ](../Page/おと×まほ.md "wikilink")」等の[漫画化](https://ja.wikipedia.org/wiki/漫画化 "wikilink")作品が連載されていたが\[1\]、[2011年](../Page/2011年.md "wikilink")にフレックスコミックスがソフトバンク傘下を離脱した前後からは[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")（スクエニ）の雑誌に漫画化作品が掲載されることが多くなった。次第にガンガンONLINEとGA文庫との交流が深まり、契約コラボレーションする形で「ガンガンGA」という特設サイトも設けられている。故に小説、漫画、映像、ゲーム、商品化などで両社の利益向上の糧となっている。また、文庫オリジナル作品の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")化が発表された前後からはライトノベル市場で競合関係にある[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")（[角川書店](../Page/角川書店.md "wikilink")・[富士見書房](../Page/富士見書房.md "wikilink")）や[集英社](../Page/集英社.md "wikilink")の雑誌でも漫画化作品が連載されている。「GA文庫マガジン」に連載された作品に限り、自社販売となっている。
+かつてソフトバンククリエイティブが発売していた漫画[単行本](../Page/単行本.md "wikilink")レーベル・[フレックスコミックス](../Page/フレックスコミックス.md "wikilink")と双方の折り込みチラシへ広告を相互出稿している他、[ウェブコミック](../Page/ウェブコミック.md "wikilink")誌『[FlexComixブラッド](../Page/FlexComixブラッド.md "wikilink")』及び『[FlexComixネクスト](https://ja.wikipedia.org/wiki/FlexComixネクスト "wikilink")』で「神曲奏界ポリフォニカ」「[メイド刑事](../Page/メイド刑事.md "wikilink")」「[おと×まほ](../Page/おと×まほ.md "wikilink")」等の[漫画化](https://ja.wikipedia.org/wiki/漫画化 "wikilink")作品が連載されていたが\[1\]、[2011年](../Page/2011年.md "wikilink")にフレックスコミックスがソフトバンク傘下を離脱した前後からは[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")（スクエニ）の雑誌に漫画化作品が掲載されることが多くなった。次第にガンガンONLINEとGA文庫との交流が深まり、契約コラボレーションする形で「ガンガンGA」という特設サイトも設けられている。故に小説、漫画、映像、ゲーム、商品化などで両社の利益向上の糧となっている。また、文庫オリジナル作品の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")化が発表された前後からはライトノベル市場で競合関係にある[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")（[角川書店](../Page/角川書店.md "wikilink")・[富士見書房](../Page/富士見書房.md "wikilink")）や[集英社](../Page/集英社.md "wikilink")の雑誌でも漫画化作品が連載されている。「GA文庫マガジン」に連載された作品に限り、自社販売となっている。
 
 [アニメ](../Page/アニメ.md "wikilink")化作品は長らくゲーム原作（但し、[メディアミックス](../Page/メディアミックス.md "wikilink")の中心は小説に移った状態）の「神曲奏界ポリフォニカ」のみであったが、[2012年](../Page/2012年.md "wikilink")から文庫オリジナル作品から「[這いよれ\! ニャル子さん](https://ja.wikipedia.org/wiki/這いよれ!_ニャル子さん "wikilink")」シリーズ、「[織田信奈の野望](https://ja.wikipedia.org/wiki/織田信奈の野望 "wikilink")」\[2\]「[俺の彼女と幼なじみが修羅場すぎる](https://ja.wikipedia.org/wiki/俺の彼女と幼なじみが修羅場すぎる "wikilink")」などが相次いでアニメ化された\[3\]。この他、実写では「メイド刑事」が[ドラマ化](../Page/テレビドラマ.md "wikilink")、「[ライトノベルの楽しい書き方](https://ja.wikipedia.org/wiki/ライトノベルの楽しい書き方 "wikilink")」が映画化されている。
 
@@ -25,11 +25,11 @@ GA文庫編集部が製作を担当している画集・設定資料集・ファ
 
 ### GAマガジン
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")8月に発刊した[ムック](https://ja.wikipedia.org/wiki/ムック_\(出版\) "wikilink")。不定期刊。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")8月に発刊した[ムック](../Page/ムック_\(出版\).md "wikilink")。不定期刊。
 
   - Vol.1 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[8月9日](../Page/8月9日.md "wikilink")発売
       -
-        付録：「[神曲奏界ポリフォニカ](https://ja.wikipedia.org/wiki/神曲奏界ポリフォニカ "wikilink")」コーティカルテ[抱き枕](../Page/抱き枕.md "wikilink")カバー・「おと×まほ」イメージソングCD
+        付録：「[神曲奏界ポリフォニカ](../Page/神曲奏界ポリフォニカ.md "wikilink")」コーティカルテ[抱き枕](../Page/抱き枕.md "wikilink")カバー・「おと×まほ」イメージソングCD
   -
   - Vol.2 [2009年](../Page/2009年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink")発売
       -
@@ -47,7 +47,7 @@ GA文庫編集部が製作を担当している画集・設定資料集・ファ
 
 ### GAマガジンクリエイターズ
 
-GA文庫のイラストを纏めた[ムック](https://ja.wikipedia.org/wiki/ムック_\(出版\) "wikilink")。不定期刊。
+GA文庫のイラストを纏めた[ムック](../Page/ムック_\(出版\).md "wikilink")。不定期刊。
 
   - Vol.1 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月24日](../Page/3月24日.md "wikilink")発売
       -

@@ -1,7 +1,7 @@
 > この記事は[ PART3](https://ja.wikipedia.org/wiki/_PART3)から翻訳されています。
 
 
-『**バック・トゥ・ザ・フューチャー PART3**』（*Back to the Future Part III*）は、[1990年の](https://ja.wikipedia.org/wiki/1990年の映画 "wikilink")[アメリカ映画で](https://ja.wikipedia.org/wiki/アメリカ合衆国の映画 "wikilink")、映画『[バック・トゥ・ザ・フューチャー PART2](../Page/バック・トゥ・ザ・フューチャー_PART2.md "wikilink")』の続編。[『バック・トゥ・ザ・フューチャー』シリーズ](../Page/バック・トゥ・ザ・フューチャーシリーズ.md "wikilink")3部作の3番目で完結編にあたる。[SF映画](../Page/SF映画.md "wikilink")。
+『**バック・トゥ・ザ・フューチャー PART3**』（*Back to the Future Part III*）は、[1990年の](../Page/1990年の映画.md "wikilink")[アメリカ映画で](../Page/アメリカ合衆国の映画.md "wikilink")、映画『[バック・トゥ・ザ・フューチャー PART2](../Page/バック・トゥ・ザ・フューチャー_PART2.md "wikilink")』の続編。[『バック・トゥ・ザ・フューチャー』シリーズ](../Page/バック・トゥ・ザ・フューチャーシリーズ.md "wikilink")3部作の3番目で完結編にあたる。[SF映画](../Page/SF映画.md "wikilink")。
 
 ## あらすじ
 
@@ -51,14 +51,14 @@
 <tr class="even">
 <td><p><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クリストファー・ロイド" title="wikilink">クリストファー・ロイド</a></p></td>
+<td><p><a href="../Page/クリストファー・ロイド.md" title="wikilink">クリストファー・ロイド</a></p></td>
 <td><p><a href="../Page/青野武.md" title="wikilink">青野武</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><br />
 </p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/トーマス・F・ウィルソン" title="wikilink">トーマス・F・ウィルソン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/谷口節" title="wikilink">谷口節</a></p></td>
+<td><p><a href="../Page/谷口節.md" title="wikilink">谷口節</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ビフ・タネン<br />
@@ -87,14 +87,14 @@
 <tr class="even">
 <td><p>ジェニファー・パーカー<br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エリザベス・シュー" title="wikilink">エリザベス・シュー</a></p></td>
+<td><p><a href="../Page/エリザベス・シュー.md" title="wikilink">エリザベス・シュー</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>ストリックランド保安官<br />
 </p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジェームズ・トールカン" title="wikilink">ジェームズ・トールカン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大木民夫" title="wikilink">大木民夫</a></p></td>
+<td><p><a href="../Page/大木民夫.md" title="wikilink">大木民夫</a></p></td>
 </tr>
 <tr class="even">
 <td><p>チェスター (バーテンダー)<br />
@@ -105,32 +105,32 @@
 <tr class="odd">
 <td><p>酒場の老人#1</p></td>
 <td><p>パット・バトラム</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/藤城裕士" title="wikilink">藤城裕士</a></p></td>
+<td><p><a href="../Page/藤城裕士.md" title="wikilink">藤城裕士</a></p></td>
 </tr>
 <tr class="even">
 <td><p>酒場の老人#2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ハリー・ケリー・ジュニア" title="wikilink">ハリー・ケリー・ジュニア</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/伊井篤史" title="wikilink">伊井篤史</a></p></td>
+<td><p><a href="../Page/伊井篤史.md" title="wikilink">伊井篤史</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>酒場の老人#3</p></td>
 <td><p>ダブ・テイラー</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/石森達幸" title="wikilink">石森達幸</a></p></td>
+<td><p><a href="../Page/石森達幸.md" title="wikilink">石森達幸</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ビュフォードのギャング仲間#1</p></td>
 <td><p>クリストファー・ワイン</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/星野充昭" title="wikilink">星野充昭</a></p></td>
+<td><p><a href="../Page/星野充昭.md" title="wikilink">星野充昭</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ビュフォードのギャング仲間#2</p></td>
 <td><p>ショーン・サリバン</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/古田信幸" title="wikilink">古田信幸</a></p></td>
+<td><p><a href="../Page/古田信幸.md" title="wikilink">古田信幸</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ビュフォードのギャング仲間#3</p></td>
 <td><p>マイク・ワトソン　</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小室正幸" title="wikilink">小室正幸</a></p></td>
+<td><p><a href="../Page/小室正幸.md" title="wikilink">小室正幸</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ヒューバート町長<br />
@@ -146,7 +146,7 @@
 <tr class="odd">
 <td><p>コルト銃のセールスマン</p></td>
 <td><p>バートン・ギリアム</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/池田勝" title="wikilink">池田勝</a></p></td>
+<td><p><a href="../Page/池田勝.md" title="wikilink">池田勝</a></p></td>
 </tr>
 <tr class="even">
 <td><p>有刺鉄線のセールスマン</p></td>
@@ -161,7 +161,7 @@
 <tr class="even">
 <td><p>ストリックランドの息子</p></td>
 <td><p>ケイレブ・ヘンリー</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/亀井芳子" title="wikilink">亀井芳子</a></p></td>
+<td><p><a href="../Page/亀井芳子.md" title="wikilink">亀井芳子</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ストリックランドの副官</p></td>
@@ -171,7 +171,7 @@
 <tr class="even">
 <td><p>ダグラス・J・ニードルズ<br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フリー_(ミュージシャン)" title="wikilink">フリー</a></p></td>
+<td><p><a href="../Page/フリー_(ミュージシャン).md" title="wikilink">フリー</a></p></td>
 <td><p>古田信幸</p></td>
 </tr>
 <tr class="odd">
@@ -261,7 +261,7 @@
 </table>
 
   - ソフト版日本語吹替 - VHS・LD・DVD・BDに収録。
-  - テレビ朝日版日本語吹替 - 初回放送[1993年](../Page/1993年.md "wikilink")[10月10日](../Page/10月10日.md "wikilink")21:02-23:19『[日曜洋画劇場](https://ja.wikipedia.org/wiki/日曜洋画劇場 "wikilink")』。※「テレビ朝日開局35周年特別企画」として放送。
+  - テレビ朝日版日本語吹替 - 初回放送[1993年](../Page/1993年.md "wikilink")[10月10日](../Page/10月10日.md "wikilink")21:02-23:19『[日曜洋画劇場](../Page/日曜洋画劇場.md "wikilink")』。※「テレビ朝日開局35周年特別企画」として放送。
   - 日本テレビ版日本語吹替 - 初回放送[2001年](../Page/2001年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")『[金曜ロードショー](https://ja.wikipedia.org/wiki/金曜ロードショー "wikilink")』。
 
 <!-- end list -->
@@ -277,26 +277,26 @@
 
 ## スタッフ
 
-  - 監督：[ロバート・ゼメキス](https://ja.wikipedia.org/wiki/ロバート・ゼメキス "wikilink")
-  - 製作総指揮：[スティーヴン・スピルバーグ](../Page/スティーヴン・スピルバーグ.md "wikilink")、[フランク・マーシャル](https://ja.wikipedia.org/wiki/フランク・マーシャル "wikilink")、[キャスリーン・ケネディ](https://ja.wikipedia.org/wiki/キャスリーン・ケネディ "wikilink")
+  - 監督：[ロバート・ゼメキス](../Page/ロバート・ゼメキス.md "wikilink")
+  - 製作総指揮：[スティーヴン・スピルバーグ](../Page/スティーヴン・スピルバーグ.md "wikilink")、[フランク・マーシャル](../Page/フランク・マーシャル.md "wikilink")、[キャスリーン・ケネディ](../Page/キャスリーン・ケネディ.md "wikilink")
   - 製作：[ボブ・ゲイル](https://ja.wikipedia.org/wiki/ボブ・ゲイル "wikilink")、ニール・カントン
   - 脚本：ロバート・ゼメキス、ボブ・ゲイル
   - 音楽：[アラン・シルヴェストリ](../Page/アラン・シルヴェストリ.md "wikilink")
   - 撮影：[ディーン・カンディ](../Page/ディーン・カンディ.md "wikilink")
-  - SFX：[ILM](https://ja.wikipedia.org/wiki/インダストリアル・ライト&マジック "wikilink")
+  - SFX：[ILM](../Page/インダストリアル・ライト&マジック.md "wikilink")
 
 ## テレビ放送履歴
 
 | 回数   | テレビ局                                                                   | 番組名                                                                      | 放送日                                                                                           | 放送時間        | 吹替版     |
 | ---- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- | ----------- | ------- |
-| 初回   | [テレビ朝日](../Page/テレビ朝日.md "wikilink")                                   | [日曜洋画劇場](https://ja.wikipedia.org/wiki/日曜洋画劇場 "wikilink")                | [1993年](../Page/1993年.md "wikilink")[10月10日](../Page/10月10日.md "wikilink")                    | 21:02-23:19 | テレビ朝日版  |
-| 2回目  | [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")             | [ゴールデン洋画劇場](https://ja.wikipedia.org/wiki/ゴールデン洋画劇場 "wikilink")          | [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[1月7日](../Page/1月7日.md "wikilink")     | 21:03-23:19 |         |
+| 初回   | [テレビ朝日](../Page/テレビ朝日.md "wikilink")                                   | [日曜洋画劇場](../Page/日曜洋画劇場.md "wikilink")                                   | [1993年](../Page/1993年.md "wikilink")[10月10日](../Page/10月10日.md "wikilink")                    | 21:02-23:19 | テレビ朝日版  |
+| 2回目  | [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")             | [ゴールデン洋画劇場](../Page/ゴールデン洋画劇場.md "wikilink")                             | [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[1月7日](../Page/1月7日.md "wikilink")     | 21:03-23:19 |         |
 | 3回目  | [日本テレビ](../Page/日本テレビ放送網.md "wikilink")                                | [金曜ロードショー](https://ja.wikipedia.org/wiki/金曜ロードショー "wikilink")            | [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[11月28日](../Page/11月28日.md "wikilink") |             |         |
-| 4回目  | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")                | [木曜洋画劇場](https://ja.wikipedia.org/wiki/木曜洋画劇場 "wikilink")                | [1999年](../Page/1999年.md "wikilink")[3月4日](../Page/3月4日.md "wikilink")                        | 21:02-22:54 |         |
+| 4回目  | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")                | [木曜洋画劇場](../Page/木曜洋画劇場.md "wikilink")                                   | [1999年](../Page/1999年.md "wikilink")[3月4日](../Page/3月4日.md "wikilink")                        | 21:02-22:54 |         |
 | 5回目  | 日本テレビ                                                                  | 金曜ロードショー                                                                 | [2001年](../Page/2001年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")                      | 21:03-23:19 | 日本テレビ版  |
 | 6回目  | [2003年](../Page/2003年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink") | テレビ朝日版                                                                   |                                                                                               |             |         |
-| 7回目  | テレビ東京                                                                  | [木曜洋画劇場](https://ja.wikipedia.org/wiki/木曜洋画劇場 "wikilink")                | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月17日](../Page/11月17日.md "wikilink") | 21:00-22:54 |         |
-| 8回目  | [午後のロードショー](https://ja.wikipedia.org/wiki/午後のロードショー "wikilink")        | [2009年](../Page/2009年.md "wikilink")[6月10日](../Page/6月10日.md "wikilink") | 13:30-15:30                                                                                   |             |         |
+| 7回目  | テレビ東京                                                                  | [木曜洋画劇場](../Page/木曜洋画劇場.md "wikilink")                                   | [2005年](../Page/2005年.md "wikilink")[11月17日](../Page/11月17日.md "wikilink")                    | 21:00-22:54 |         |
+| 8回目  | [午後のロードショー](../Page/午後のロードショー.md "wikilink")                           | [2009年](../Page/2009年.md "wikilink")[6月10日](../Page/6月10日.md "wikilink") | 13:30-15:30                                                                                   |             |         |
 | 9回目  | [BSテレビ東京](../Page/BSテレビ東京.md "wikilink")                               | [シネマクラッシュ](https://ja.wikipedia.org/wiki/シネマクラッシュ "wikilink")            | [2018年](../Page/2018年.md "wikilink")[7月11日](../Page/7月11日.md "wikilink")                      | 19:40-21:54 | BSジャパン版 |
 | 10回目 | 新春シネマスペシャル                                                             | [2020年](../Page/2020年.md "wikilink")[1月3日](../Page/1月3日.md "wikilink")   | 23:00-翌1:15                                                                                   |             |         |
 |      |                                                                        |                                                                          |                                                                                               |             |         |
@@ -309,7 +309,7 @@
 
 ### 音楽
 
-[ZZトップ](https://ja.wikipedia.org/wiki/ZZトップ "wikilink")が主題歌「Doubleback」を提供し本編にも登場（1885年のフェスティバル会場のバンドマン役。ダンスのシーンで「[オクラホマミキサー](https://ja.wikipedia.org/wiki/オクラホマミキサー "wikilink")」、「[いとしのクレメンタイン](https://ja.wikipedia.org/wiki/いとしのクレメンタイン "wikilink")」を演奏する他、お馴染みのギター回しも披露）しているが、これはこの作品の大ファンである彼らの意向による。しかし、本作のサウンドトラック盤には、この主題歌は契約会社の問題の関係でオリジナル・バージョンが収録されておらず、代わりに劇中でも流れている、カントリー調にアレンジされたアコースティック・バージョン（インストゥルメンタル）が収録されている。
+[ZZトップ](../Page/ZZトップ.md "wikilink")が主題歌「Doubleback」を提供し本編にも登場（1885年のフェスティバル会場のバンドマン役。ダンスのシーンで「[オクラホマミキサー](../Page/オクラホマミキサー.md "wikilink")」、「[いとしのクレメンタイン](https://ja.wikipedia.org/wiki/いとしのクレメンタイン "wikilink")」を演奏する他、お馴染みのギター回しも披露）しているが、これはこの作品の大ファンである彼らの意向による。しかし、本作のサウンドトラック盤には、この主題歌は契約会社の問題の関係でオリジナル・バージョンが収録されておらず、代わりに劇中でも流れている、カントリー調にアレンジされたアコースティック・バージョン（インストゥルメンタル）が収録されている。
 
 フェスティバルのシーン（時計台のカウントダウン後）で演奏されている曲は[1876年](../Page/1876年.md "wikilink")に作られた[自由の喊声](https://ja.wikipedia.org/wiki/自由の喊声 "wikilink")（Battle Cry of Freedom）である。
 
@@ -319,7 +319,7 @@
 
 ### オマージュ
 
-ビュフォード・タネン（ビフ・タネンの曽祖父）との対決においてマーティがポンチョの下に鉄板を仕込むシーンは、[クリント・イーストウッド](../Page/クリント・イーストウッド.md "wikilink")主演『[荒野の用心棒](../Page/荒野の用心棒.md "wikilink")』のオマージュである 。この他にも、鏡に映った自分に銃を向けて「You Talkin' To Me?（俺に言ってるのか?）」と挑発するシーンは『[タクシー・ドライバー](https://ja.wikipedia.org/wiki/タクシードライバー_\(1976年の映画\) "wikilink")』の有名シーンのパロディであり、同シーンでは他にも『[ダーティーハリー](https://ja.wikipedia.org/wiki/ダーティーハリー "wikilink")』の「Go ahead. Make my day.（やれよ。楽しませてくれ）」というセリフも引用している。デロリアンで1885年にタイムスリップした直後、インディアンに追われ、騎兵隊に遭遇する場面は『[駅馬車](https://ja.wikipedia.org/wiki/駅馬車_\(1939年の映画\) "wikilink")』のパロディとみられる。日本語翻訳ではドクの子供らの名前がジュールスとバーンになっているが、元はJulesとVerne。空想科学小説の祖、[ジュール・ベルヌ](https://ja.wikipedia.org/wiki/ジュール・ベルヌ "wikilink")に因んでいる。
+ビュフォード・タネン（ビフ・タネンの曽祖父）との対決においてマーティがポンチョの下に鉄板を仕込むシーンは、[クリント・イーストウッド](../Page/クリント・イーストウッド.md "wikilink")主演『[荒野の用心棒](../Page/荒野の用心棒.md "wikilink")』のオマージュである 。この他にも、鏡に映った自分に銃を向けて「You Talkin' To Me?（俺に言ってるのか?）」と挑発するシーンは『[タクシー・ドライバー](../Page/タクシードライバー_\(1976年の映画\).md "wikilink")』の有名シーンのパロディであり、同シーンでは他にも『[ダーティーハリー](https://ja.wikipedia.org/wiki/ダーティーハリー "wikilink")』の「Go ahead. Make my day.（やれよ。楽しませてくれ）」というセリフも引用している。デロリアンで1885年にタイムスリップした直後、インディアンに追われ、騎兵隊に遭遇する場面は『[駅馬車](../Page/駅馬車_\(1939年の映画\).md "wikilink")』のパロディとみられる。日本語翻訳ではドクの子供らの名前がジュールスとバーンになっているが、元はJulesとVerne。空想科学小説の祖、[ジュール・ベルヌ](https://ja.wikipedia.org/wiki/ジュール・ベルヌ "wikilink")に因んでいる。
 
 ## 小説版との相違
 
@@ -327,7 +327,7 @@
 
 映画版では未公開シーンとなっている（DVDに収録）が、終盤のタネンとの決闘の直前、ストリックランド保安官はタネンに撃ち殺される。そのため、容疑が「パインシティーの駅馬車強奪」ではなく「ストリックランド保安官殺害」となっている。ストリックランド保安官が決闘後の逮捕シーンに出てこないのは、そのためである。
 
-ビュフォード・タネンとの決闘に勝利したマーティにコルト・ピースメーカーのガンベルトを渡しに来る少年は、映画版ではすぐに立ち去るだけだが、小説版ではマーティがポンチョの下に仕込んだ即席防弾チョッキに興味を示し、周りの大人から「あっちへ行きな、D.W.」、「グリフィスの坊主を押さえようったって誰も止められやしないさ」と言われており、後の映画監督・[D・W・グリフィス](https://ja.wikipedia.org/wiki/D・W・グリフィス "wikilink")であると思わせる記述がある。
+ビュフォード・タネンとの決闘に勝利したマーティにコルト・ピースメーカーのガンベルトを渡しに来る少年は、映画版ではすぐに立ち去るだけだが、小説版ではマーティがポンチョの下に仕込んだ即席防弾チョッキに興味を示し、周りの大人から「あっちへ行きな、D.W.」、「グリフィスの坊主を押さえようったって誰も止められやしないさ」と言われており、後の映画監督・[D・W・グリフィス](../Page/D・W・グリフィス.md "wikilink")であると思わせる記述がある。
 
 ## その他
 

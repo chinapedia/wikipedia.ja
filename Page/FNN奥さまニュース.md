@@ -1,7 +1,7 @@
 > この記事は[FNN](https://ja.wikipedia.org/wiki/FNN)から翻訳されています。
 
 
-『**サンケイ奥さまニュースFNN**』（サンケイおくさまニュースエフエヌエヌ）は、[FNN加盟局と一部の非加盟局で放送されていた](../Page/フジニュースネットワーク.md "wikilink")[フジテレビ製作の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[スポットニュース](https://ja.wikipedia.org/wiki/スポットニュース "wikilink")である。協力：サンケイ（[産経新聞](https://ja.wikipedia.org/wiki/産経新聞 "wikilink")）。フジテレビでは[1966年](../Page/1966年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[1982年](../Page/1982年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで放送。
+『**サンケイ奥さまニュースFNN**』（サンケイおくさまニュースエフエヌエヌ）は、[FNN加盟局と一部の非加盟局で放送されていた](../Page/フジニュースネットワーク.md "wikilink")[フジテレビ製作の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[スポットニュース](../Page/スポットニュース.md "wikilink")である。協力：サンケイ（[産経新聞](https://ja.wikipedia.org/wiki/産経新聞 "wikilink")）。フジテレビでは[1966年](../Page/1966年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[1982年](../Page/1982年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで放送。
 
 ## 放送時間
 
@@ -49,7 +49,7 @@
 
 岩手放送・福島テレビ・山梨放送・四国放送・高知放送の5局は、FNN非加盟にもかかわらずタイトルを差し替えないで放送していた（福島テレビは1971年10月以降[FNSに加盟](../Page/フジネットワーク.md "wikilink")）。また岩手放送・福島テレビ・テレビ山口は[JNN排他協定](https://ja.wikipedia.org/wiki/JNN排他協定 "wikilink")の例外措置として[産業経済新聞社](../Page/産業経済新聞社.md "wikilink")配給番組に準じた扱いで放送された。
 
-  - [青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink") - FNN・FNSともに非加盟であるため、『**奥さまニュース**』というタイトルに差し替えていた。タイトル表示は[ブルーバック](https://ja.wikipedia.org/wiki/ブルーバック "wikilink")。14:55 - 15:00の5分間のみの放送。
+  - [青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink") - FNN・FNSともに非加盟であるため、『**奥さまニュース**』というタイトルに差し替えていた。タイトル表示は[ブルーバック](../Page/ブルーバック.md "wikilink")。14:55 - 15:00の5分間のみの放送。
   - 岩手放送（現・[IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")）
   - [福島テレビ](../Page/福島テレビ.md "wikilink") - 1968年10月からネット開始。福島中央テレビ開局でネットを打ち切るが1971年10月からネット再開\[1\]。FNNには1983年に加盟。
   - [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")

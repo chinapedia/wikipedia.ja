@@ -3,7 +3,7 @@
 
 『**YOU**』（ユー）は、[集英社](../Page/集英社.md "wikilink")が発行した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")。1980年12月創刊。毎月15日に発売された。
 
-レディースコミック誌の先駆けで、読者は20代後半から50代と幅が広い。多数の姉妹誌・増刊がある。同誌に掲載された作品の内、『[ぽっかぽか](../Page/ぽっかぽか.md "wikilink")』や『[研修医なな子](https://ja.wikipedia.org/wiki/研修医なな子 "wikilink")』『[ごくせん](../Page/ごくせん.md "wikilink")』『[ハガネの女](https://ja.wikipedia.org/wiki/ハガネの女 "wikilink")』『[デカワンコ](https://ja.wikipedia.org/wiki/デカワンコ "wikilink")』『[アスコーマーチ\!〜県立明日香工業高校行進曲〜](https://ja.wikipedia.org/wiki/アスコーマーチ!〜県立明日香工業高校行進曲〜 "wikilink")』などが[テレビドラマ](../Page/テレビドラマ.md "wikilink")（実写）化されている。なかでも『ぽっかぽか』と『[ごくせん](https://ja.wikipedia.org/wiki/ごくせん_\(テレビドラマ\) "wikilink")』のテレビドラマは数回シリーズ化された。
+レディースコミック誌の先駆けで、読者は20代後半から50代と幅が広い。多数の姉妹誌・増刊がある。同誌に掲載された作品の内、『[ぽっかぽか](../Page/ぽっかぽか.md "wikilink")』や『[研修医なな子](../Page/研修医なな子.md "wikilink")』『[ごくせん](../Page/ごくせん.md "wikilink")』『[ハガネの女](https://ja.wikipedia.org/wiki/ハガネの女 "wikilink")』『[デカワンコ](https://ja.wikipedia.org/wiki/デカワンコ "wikilink")』『[アスコーマーチ\!〜県立明日香工業高校行進曲〜](https://ja.wikipedia.org/wiki/アスコーマーチ!〜県立明日香工業高校行進曲〜 "wikilink")』などが[テレビドラマ](../Page/テレビドラマ.md "wikilink")（実写）化されている。なかでも『ぽっかぽか』と『[ごくせん](../Page/ごくせん_\(テレビドラマ\).md "wikilink")』のテレビドラマは数回シリーズ化された。
 
 2018年11月号（10月15日発売）を最後に休刊した\[1\]。
 
@@ -24,20 +24,20 @@
   - [1991年](../Page/1991年.md "wikilink") - 姉妹誌『**アフター5YOU**』が6月25日に創刊。『ブライダルYOU』、『YOU-all』が休刊。
   - [1993年](../Page/1993年.md "wikilink") - リニューアルし、月2回刊化。発売日は毎月1日・15日。表記は**（comic for your life） YOU**に。『OFFICE YOU』が隔月刊化。『ミステリーYOU』が休刊。
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - 『アフター5YOU』が10月1日に休刊。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") - 『ヤングユー』が休刊。連載作品は『**YOU**』と『[コーラス](https://ja.wikipedia.org/wiki/Cocohana "wikilink")』に引き継がれた。
+  - [2005年](../Page/2005年.md "wikilink") - 『ヤングユー』が休刊。連載作品は『**YOU**』と『[コーラス](../Page/Cocohana.md "wikilink")』に引き継がれた。
   - [2011年](../Page/2011年.md "wikilink") - 11月15日、月2回刊から月刊誌に移行。同時に『**月刊YOU**』に改題\[4\]。
   - [2018年](../Page/2018年.md "wikilink") - 11月号（10月15日発売）を最後に休刊\[5\]。
 
 ## 休刊後の各連載作品の移籍先
 
-  - 『[Cocohana](https://ja.wikipedia.org/wiki/Cocohana "wikilink")』移籍\[6\]
+  - 『[Cocohana](../Page/Cocohana.md "wikilink")』移籍\[6\]
       - [王妃マルゴ](https://ja.wikipedia.org/wiki/王妃マルゴ_\(漫画\) "wikilink")（[萩尾望都](../Page/萩尾望都.md "wikilink")）：2012年9月号 -
       - 僕のオリオン（[川端志季](https://ja.wikipedia.org/wiki/川端志季 "wikilink")）：2018年3月号 -
       - トラさん（板羽皆）：2014年1月号 -
   - 『[ザ マーガレット](https://ja.wikipedia.org/wiki/ザ_マーガレット "wikilink")』移籍\[7\]
       - 歌うたいの黒兎（[石井まゆみ](https://ja.wikipedia.org/wiki/石井まゆみ "wikilink")）：2018年6月号 -
-      - もいちどあなたに（[ひうらさとる](https://ja.wikipedia.org/wiki/ひうらさとる "wikilink")）：2018年5月号 -
-      - まんまるポタジェ（[あいざわ遥](https://ja.wikipedia.org/wiki/あいざわ遥 "wikilink")）：2015年2月号 -
+      - もいちどあなたに（[ひうらさとる](../Page/ひうらさとる.md "wikilink")）：2018年5月号 -
+      - まんまるポタジェ（[あいざわ遥](../Page/あいざわ遥.md "wikilink")）：2015年2月号 -
       - 王朝モザイク（[木原敏江](../Page/木原敏江.md "wikilink")）：2018年5月号 -
   - 『[Cookie](../Page/Cookie_\(雑誌\).md "wikilink")』移籍\[8\]
       - [おそ松さん](https://ja.wikipedia.org/wiki/おそ松さん "wikilink")（[シタラマサコ](https://ja.wikipedia.org/wiki/シタラマサコ "wikilink")）：2016年2月号 -
@@ -46,7 +46,7 @@
       - 蘭と葵（[上田倫子](../Page/上田倫子.md "wikilink")）：2016年6月号 -
       - はるはなのみの（河井英槻）：2015年5月号 -
   - 『[少年ジャンプ+](https://ja.wikipedia.org/wiki/少年ジャンプ+ "wikilink")』移籍\[10\]
-      - [群青にサイレン](https://ja.wikipedia.org/wiki/群青にサイレン "wikilink")（[桃栗みかん](https://ja.wikipedia.org/wiki/河下水希 "wikilink")）：2015年8月号 -
+      - [群青にサイレン](https://ja.wikipedia.org/wiki/群青にサイレン "wikilink")（[桃栗みかん](../Page/河下水希.md "wikilink")）：2015年8月号 -
   - 休刊号にて完結\[11\]
       - [ダメな私に恋してください](https://ja.wikipedia.org/wiki/ダメな私に恋してください "wikilink")R（[中原アヤ](../Page/中原アヤ.md "wikilink")）：2016年11月号 - 2018年11月号
       - 殿\*姫\*王子（[宮川匡代](../Page/宮川匡代.md "wikilink")）：2017年1月号 - 2018年11月号
@@ -54,7 +54,7 @@
 
 ## 主な掲載作品
 
-  - [あいざわ遥](https://ja.wikipedia.org/wiki/あいざわ遥 "wikilink")「まんまるポタジェ」
+  - [あいざわ遥](../Page/あいざわ遥.md "wikilink")「まんまるポタジェ」
   - [あまねかずみ](https://ja.wikipedia.org/wiki/あまねかずみ "wikilink") 「[こちら椿産婦人科](https://ja.wikipedia.org/wiki/こちら椿産婦人科 "wikilink")」
   - [アキヤマ香](https://ja.wikipedia.org/wiki/アキヤマ香 "wikilink")「[アスコーマーチ\!〜県立明日香工業高校行進曲〜](https://ja.wikipedia.org/wiki/アスコーマーチ!〜県立明日香工業高校行進曲〜 "wikilink")」「[僕のおとうさん](https://ja.wikipedia.org/wiki/僕のおとうさん "wikilink")」
   - [秋本尚美](https://ja.wikipedia.org/wiki/秋本尚美 "wikilink")「[ぬくぬく](https://ja.wikipedia.org/wiki/ぬくぬく "wikilink")」「[まぐろと僕とコハダ＋](https://ja.wikipedia.org/wiki/まぐろと僕とコハダ＋ "wikilink")」
@@ -77,22 +77,22 @@
   - [シタラマサコ](https://ja.wikipedia.org/wiki/シタラマサコ "wikilink") 「[おそ松さん](https://ja.wikipedia.org/wiki/おそ松さん#書籍 "wikilink")」「美少女戦士だった人。zero」
   - [柴田あや子](https://ja.wikipedia.org/wiki/柴田あや子 "wikilink") 「[白き海の伝説](https://ja.wikipedia.org/wiki/白き海の伝説 "wikilink")」
   - [島津郷子](https://ja.wikipedia.org/wiki/島津郷子 "wikilink") 「[ナース・ステーション](https://ja.wikipedia.org/wiki/ナース・ステーション_\(漫画\) "wikilink")」
-  - [高橋由佳利](https://ja.wikipedia.org/wiki/高橋由佳利 "wikilink") 「トルコで私も考えた・リターンズ」
+  - [高橋由佳利](../Page/高橋由佳利.md "wikilink") 「トルコで私も考えた・リターンズ」
   - [立原あゆみ](../Page/立原あゆみ.md "wikilink") 「夢人」
   - [津雲むつみ](../Page/津雲むつみ.md "wikilink") 「[恋ひ恋ひて](https://ja.wikipedia.org/wiki/恋ひ恋ひて "wikilink")」「[蒼い家](https://ja.wikipedia.org/wiki/蒼い家 "wikilink")」「[瑠璃色幻花](https://ja.wikipedia.org/wiki/瑠璃色幻花 "wikilink")」「[花衣夢衣](../Page/花衣夢衣.md "wikilink")」「[風の輪舞](../Page/風の輪舞.md "wikilink")」「[空と海と蜃気楼と](https://ja.wikipedia.org/wiki/空と海と蜃気楼と "wikilink")」「[暁の海を征け](https://ja.wikipedia.org/wiki/暁の海を征け "wikilink")」
   - [中原アヤ](../Page/中原アヤ.md "wikilink") 「[ダメな私に恋してください](https://ja.wikipedia.org/wiki/ダメな私に恋してください "wikilink")」
   - [奈知未佐子](../Page/奈知未佐子.md "wikilink") 「[風から聞いた話](https://ja.wikipedia.org/wiki/風から聞いた話 "wikilink")」
   - [のがみけい](https://ja.wikipedia.org/wiki/のがみけい "wikilink") 「[魔女の宴](https://ja.wikipedia.org/wiki/魔女の宴 "wikilink")」「[夜のミューズ](https://ja.wikipedia.org/wiki/夜のミューズ "wikilink")」「[月の雫](https://ja.wikipedia.org/wiki/月の雫_\(漫画\) "wikilink")」
-  - [萩岩睦美](https://ja.wikipedia.org/wiki/萩岩睦美 "wikilink") 「がんこちゃん」
+  - [萩岩睦美](../Page/萩岩睦美.md "wikilink") 「がんこちゃん」
   - [萩尾望都](../Page/萩尾望都.md "wikilink") 「[王妃マルゴ](https://ja.wikipedia.org/wiki/王妃マルゴ_\(漫画\) "wikilink")」
   - [深見じゅん](../Page/深見じゅん.md "wikilink") 「[ぽっかぽか](../Page/ぽっかぽか.md "wikilink")」「[甘い棘](https://ja.wikipedia.org/wiki/甘い棘 "wikilink")」「[おんなの彩](https://ja.wikipedia.org/wiki/おんなの彩 "wikilink")」「[ナイトメア悪夢](https://ja.wikipedia.org/wiki/ナイトメア悪夢 "wikilink")」「[彼岸恋](https://ja.wikipedia.org/wiki/彼岸恋 "wikilink")」
   - [深谷かほる](../Page/深谷かほる.md "wikilink") 「[カンナさーん\!](https://ja.wikipedia.org/wiki/カンナさーん! "wikilink")」「[ハガネの女](https://ja.wikipedia.org/wiki/ハガネの女 "wikilink")」
   - [福原ヒロ子](https://ja.wikipedia.org/wiki/福原ヒロ子 "wikilink") 「裁きの家」
-  - [星崎真紀](https://ja.wikipedia.org/wiki/星崎真紀 "wikilink") 「[ひみつな奥さん](../Page/ひみつな奥さん.md "wikilink")」「|新ひみつな奥さん」「[ステージママの分際で\!](https://ja.wikipedia.org/wiki/ステージママの分際で! "wikilink")」
-  - [松本ぷりっつ](https://ja.wikipedia.org/wiki/松本ぷりっつ "wikilink")「[にじいろあっちゃん](https://ja.wikipedia.org/wiki/にじいろあっちゃん "wikilink")」
-  - [桃栗みかん](https://ja.wikipedia.org/wiki/河下水希 "wikilink")「群青にサイレン」
+  - [星崎真紀](../Page/星崎真紀.md "wikilink") 「[ひみつな奥さん](../Page/ひみつな奥さん.md "wikilink")」「|新ひみつな奥さん」「[ステージママの分際で\!](https://ja.wikipedia.org/wiki/ステージママの分際で! "wikilink")」
+  - [松本ぷりっつ](../Page/松本ぷりっつ.md "wikilink")「[にじいろあっちゃん](https://ja.wikipedia.org/wiki/にじいろあっちゃん "wikilink")」
+  - [桃栗みかん](../Page/河下水希.md "wikilink")「群青にサイレン」
   - [もりたじゅん](https://ja.wikipedia.org/wiki/もりたじゅん "wikilink") 「[ニシンとシシャモ](https://ja.wikipedia.org/wiki/ニシンとシシャモ "wikilink")」「[大借金](https://ja.wikipedia.org/wiki/大借金 "wikilink")」「[マイ・プア・レディー](https://ja.wikipedia.org/wiki/マイ・プア・レディー "wikilink")」
-  - [森本梢子](../Page/森本梢子.md "wikilink") 「[わたしがママよ](https://ja.wikipedia.org/wiki/わたしがママよ "wikilink")」「[研修医なな子](https://ja.wikipedia.org/wiki/研修医なな子 "wikilink")」「[ごくせん](../Page/ごくせん.md "wikilink")」「[デカワンコ](https://ja.wikipedia.org/wiki/デカワンコ "wikilink")」「[高台家の人々](https://ja.wikipedia.org/wiki/高台家の人々 "wikilink")」
+  - [森本梢子](../Page/森本梢子.md "wikilink") 「[わたしがママよ](https://ja.wikipedia.org/wiki/わたしがママよ "wikilink")」「[研修医なな子](../Page/研修医なな子.md "wikilink")」「[ごくせん](../Page/ごくせん.md "wikilink")」「[デカワンコ](https://ja.wikipedia.org/wiki/デカワンコ "wikilink")」「[高台家の人々](https://ja.wikipedia.org/wiki/高台家の人々 "wikilink")」
   - [山下和美](../Page/山下和美.md "wikilink") 「[寿町美女御殿](https://ja.wikipedia.org/wiki/寿町美女御殿 "wikilink")」「[数寄です\!](https://ja.wikipedia.org/wiki/数寄です! "wikilink")」
   - [わたなべまさこ](../Page/わたなべまさこ.md "wikilink") 「[美少年](https://ja.wikipedia.org/wiki/美少年_\(漫画\) "wikilink")」
 
@@ -143,7 +143,7 @@
     1990年創刊。1991年休刊。
 
   - YOU\&SUPER JUMP
-    『YOU』の創刊20周年記念企画のひとつ。誌名の通り青年誌『[スーパージャンプ](https://ja.wikipedia.org/wiki/スーパージャンプ "wikilink")』との合同増刊で、雑誌コードは『スーパージャンプ』2002年9月5日増刊号。
+    『YOU』の創刊20周年記念企画のひとつ。誌名の通り青年誌『[スーパージャンプ](../Page/スーパージャンプ.md "wikilink")』との合同増刊で、雑誌コードは『スーパージャンプ』2002年9月5日増刊号。
 
   - YOUスペシャル
 

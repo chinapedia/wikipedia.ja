@@ -1,13 +1,13 @@
 > この記事は[GATE SQUARE](https://ja.wikipedia.org/wiki/GATE_SQUARE)から翻訳されています。
 
 
-**潮見GATE SQUARE**（しおみゲートスクエア）は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")[潮見](../Page/潮見.md "wikilink")に所在する[オフィスビル](../Page/オフィスビル.md "wikilink")。[三菱地所](../Page/三菱地所.md "wikilink")が転貸している。
+**潮見GATE SQUARE**（しおみゲートスクエア）は、[東京都](../Page/東京都.md "wikilink")[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")[潮見](../Page/潮見.md "wikilink")に所在する[オフィスビル](../Page/オフィスビル.md "wikilink")。[三菱地所](../Page/三菱地所.md "wikilink")が転貸している。
 
-2010年2月15日まで、[内田洋行](https://ja.wikipedia.org/wiki/内田洋行 "wikilink")が潮見オフィスとして使用していた。移転直後、ドイツの投資ファンドであるユニオンインベストメントが約200億円で買収した\[1\]。後に、名称を「潮見GATE SQUARE」と改称した\[2\]。
+2010年2月15日まで、[内田洋行](../Page/内田洋行.md "wikilink")が潮見オフィスとして使用していた。移転直後、ドイツの投資ファンドであるユニオンインベストメントが約200億円で買収した\[1\]。後に、名称を「潮見GATE SQUARE」と改称した\[2\]。
 
 2014年夏には、[だいこう証券ビジネス](https://ja.wikipedia.org/wiki/だいこう証券ビジネス "wikilink")が東京に分散しているオフィスを集約するため本社を移転\[3\]。
 
-「[踊る大捜査線](../Page/踊る大捜査線.md "wikilink")」の湾岸警察署のロケ地(外観･エントランス)として使用されていたことで知られる（『[踊る大捜査線 THE MOVIE3 ヤツらを解放せよ\!](https://ja.wikipedia.org/wiki/踊る大捜査線_THE_MOVIE3_ヤツらを解放せよ! "wikilink")』の冒頭シーンまで）。ちなみに内田洋行の本社ビルとして使用されていた当時1階ロビーには、湾岸署の模型が置かれていた。刑事課のシーンは、連ドラ初期の頃は[フジテレビ本社屋のV](https://ja.wikipedia.org/wiki/FCGビル "wikilink")4スタジオにて、以降は劇場版も含めて[東宝スタジオ](https://ja.wikipedia.org/wiki/東宝スタジオ "wikilink")にて撮影が行われた。
+「[踊る大捜査線](../Page/踊る大捜査線.md "wikilink")」の湾岸警察署のロケ地(外観･エントランス)として使用されていたことで知られる（『[踊る大捜査線 THE MOVIE3 ヤツらを解放せよ\!](https://ja.wikipedia.org/wiki/踊る大捜査線_THE_MOVIE3_ヤツらを解放せよ! "wikilink")』の冒頭シーンまで）。ちなみに内田洋行の本社ビルとして使用されていた当時1階ロビーには、湾岸署の模型が置かれていた。刑事課のシーンは、連ドラ初期の頃は[フジテレビ本社屋のV](https://ja.wikipedia.org/wiki/FCGビル "wikilink")4スタジオにて、以降は劇場版も含めて[東宝スタジオ](../Page/東宝スタジオ.md "wikilink")にて撮影が行われた。
 
 ## 関連
 

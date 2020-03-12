@@ -1,7 +1,7 @@
 > この記事は[ \(NHK-FM\)](https://ja.wikipedia.org/wiki/_\(NHK-FM\))から翻訳されています。
 
 
-『**ミュージック・スクエア**』（Music Square）は、かつて[NHK-FMで放送されていた](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")。
+『**ミュージック・スクエア**』（Music Square）は、かつて[NHK-FMで放送されていた](../Page/NHK-FM放送.md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽番組](../Page/音楽番組.md "wikilink")。
 
 ## 概要
 
@@ -20,31 +20,31 @@
       - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")：21:00 - 22:30
   - リニューアル後
       - 1995年4月 - [1996年](../Page/1996年.md "wikilink")3月：21:00 - 22:45　
-      - 1996年4月 - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")3月：21:00 - 22:35
+      - 1996年4月 - [2006年](../Page/2006年.md "wikilink")3月：21:00 - 22:35
       - 2006年4月 - [2009年](../Page/2009年.md "wikilink")3月：21:10 - 22:45
 
 <!-- end list -->
 
   -
-    [NHK交響楽団](../Page/NHK交響楽団.md "wikilink")定期演奏会生中継の演目が通常放送枠に収まりきらない場合、放送時間を繰り下げる事があったが、2006年度から[NHKラジオ第1放送](https://ja.wikipedia.org/wiki/NHKラジオ第1放送 "wikilink")同時の「[NHK今日のニュース](https://ja.wikipedia.org/wiki/NHK今日のニュース "wikilink")」が延長されたことと、「[ベストオブクラシック](https://ja.wikipedia.org/wiki/ベストオブクラシック "wikilink")」が19:30から21:10の枠で放送されるようになり、N響演奏会の延長スライドが殆どなくなった。
+    [NHK交響楽団](../Page/NHK交響楽団.md "wikilink")定期演奏会生中継の演目が通常放送枠に収まりきらない場合、放送時間を繰り下げる事があったが、2006年度から[NHKラジオ第1放送](../Page/NHKラジオ第1放送.md "wikilink")同時の「[NHK今日のニュース](https://ja.wikipedia.org/wiki/NHK今日のニュース "wikilink")」が延長されたことと、「[ベストオブクラシック](../Page/ベストオブクラシック.md "wikilink")」が19:30から21:10の枠で放送されるようになり、N響演奏会の延長スライドが殆どなくなった。
 
 <!-- end list -->
 
   - 再放送
-    [2000年代](../Page/2000年代.md "wikilink")中後半の一時期、日曜深夜枠（23:00 - 24:35）で定期的に金曜日分の[再放送](https://ja.wikipedia.org/wiki/再放送 "wikilink")が行われていた。状況によって再放送枠にて[特番](https://ja.wikipedia.org/wiki/特別番組 "wikilink")（[後述](https://ja.wikipedia.org/wiki/#過去に行われた特集・企画・特番 "wikilink")）や通常放送を行っており、[2007年](../Page/2007年.md "wikilink")9月21日の「TOP20カウントダウン」は特別番組により放送休止となったが、同年9月23日の日曜深夜枠において通常のレギュラー本放送扱いで「TOP20カウントダウン」の放送を行った。
+    [2000年代](../Page/2000年代.md "wikilink")中後半の一時期、日曜深夜枠（23:00 - 24:35）で定期的に金曜日分の[再放送](../Page/再放送.md "wikilink")が行われていた。状況によって再放送枠にて[特番](../Page/特別番組.md "wikilink")（[後述](https://ja.wikipedia.org/wiki/#過去に行われた特集・企画・特番 "wikilink")）や通常放送を行っており、[2007年](../Page/2007年.md "wikilink")9月21日の「TOP20カウントダウン」は特別番組により放送休止となったが、同年9月23日の日曜深夜枠において通常のレギュラー本放送扱いで「TOP20カウントダウン」の放送を行った。
 
 <!-- end list -->
 
   - 休止
-    祝日は「[今日は一日○○三昧](https://ja.wikipedia.org/wiki/今日は一日○○三昧 "wikilink")」など特集番組放送のため番組が休止となることが多かった。他に、8月の[お盆](https://ja.wikipedia.org/wiki/お盆 "wikilink")付近の二週間程度と12月最終週・1月第一週付近の二週間程度、番組が休止となっていた（うち12月最終週は「[バイロイト音楽祭](https://ja.wikipedia.org/wiki/バイロイト音楽祭 "wikilink")」を放送）。
+    祝日は「[今日は一日○○三昧](../Page/今日は一日○○三昧.md "wikilink")」など特集番組放送のため番組が休止となることが多かった。他に、8月の[お盆](../Page/お盆.md "wikilink")付近の二週間程度と12月最終週・1月第一週付近の二週間程度、番組が休止となっていた（うち12月最終週は「[バイロイト音楽祭](../Page/バイロイト音楽祭.md "wikilink")」を放送）。
 
 ## リニューアル前（1990年4月 - 1995年3月）
 
 [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")にアーティストらが日替わりでパーソナリティを務める番組としてスタート。リニューアル前の最後の放送は[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")。
 
   - 月曜日
-      - [渋谷陽一](https://ja.wikipedia.org/wiki/渋谷陽一 "wikilink")（ - 1993年3月）
-      - [奥居香](https://ja.wikipedia.org/wiki/岸谷香 "wikilink")（1993年4月 - 1994年3月）
+      - [渋谷陽一](../Page/渋谷陽一.md "wikilink")（ - 1993年3月）
+      - [奥居香](../Page/岸谷香.md "wikilink")（1993年4月 - 1994年3月）
       - [藤井フミヤ](../Page/藤井フミヤ.md "wikilink")（1994年4月 - 1995年3月）
   - 火曜日
       - [桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")（ - 1993年3月）
@@ -64,9 +64,9 @@
 
 ## リニューアル後（1995年4月 - 2009年3月）
 
-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")、別番組であった「ミュージックパイロット」とフォーマットを交換する形で内容がリニューアルされた。
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[4月3日](../Page/4月3日.md "wikilink")、別番組であった「ミュージックパイロット」とフォーマットを交換する形で内容がリニューアルされた。
 
-月 - 木曜日は、パーソナリティ・番組スタッフ・各種コーナー・[リクエストにて選曲された](https://ja.wikipedia.org/wiki/リクエスト番組 "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")・[ポップスを中心とした楽曲を流す部分と](../Page/ポピュラー音楽.md "wikilink")、ゲストコーナーにて構成。金曜日はメインとなる[カウントダウンと各種コーナーにて構成されていた](https://ja.wikipedia.org/wiki/カウントダウン番組 "wikilink")。主な[リスナー](https://ja.wikipedia.org/wiki/リスナー "wikilink")は若者層や熱心な音楽ファンであり、末期においても週1500通の[はがき](https://ja.wikipedia.org/wiki/はがき "wikilink")や[メールが番組に寄せられていた](../Page/電子メール.md "wikilink")\[1\]。
+月 - 木曜日は、パーソナリティ・番組スタッフ・各種コーナー・[リクエストにて選曲された](../Page/リクエスト番組.md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")・[ポップスを中心とした楽曲を流す部分と](../Page/ポピュラー音楽.md "wikilink")、ゲストコーナーにて構成。金曜日はメインとなる[カウントダウンと各種コーナーにて構成されていた](../Page/カウントダウン番組.md "wikilink")。主な[リスナー](../Page/リスナー.md "wikilink")は若者層や熱心な音楽ファンであり、末期においても週1500通の[はがき](../Page/はがき.md "wikilink")や[メールが番組に寄せられていた](../Page/電子メール.md "wikilink")\[1\]。
 
 パーソナリティーについても、日替わり形式を事実上やめて、月-金曜日まで1人で担当するようになったが、[1996年](../Page/1996年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")からは月-木曜日担当と金曜日担当とに分けて2人が担当するようになった。この体裁は同時刻後番組の「[ミュージックライン](https://ja.wikipedia.org/wiki/ミュージックライン "wikilink")」においても踏襲されている（但し左記番組は金曜日の放送が[2011年](../Page/2011年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")を持って休止となった）。
 
@@ -75,10 +75,10 @@
 ### 歴代パーソナリティ
 
   - 月曜日 - 木曜日
-      - [中村貴子](https://ja.wikipedia.org/wiki/中村貴子 "wikilink")（1995年4月3日 - 2000年3月30日）
-      - [玉川美沙](https://ja.wikipedia.org/wiki/玉川美沙 "wikilink")（2000年4月3日 - 2002年3月28日）
+      - [中村貴子](../Page/中村貴子.md "wikilink")（1995年4月3日 - 2000年3月30日）
+      - [玉川美沙](../Page/玉川美沙.md "wikilink")（2000年4月3日 - 2002年3月28日）
       - [窪田有美](https://ja.wikipedia.org/wiki/窪田有美 "wikilink")（2002年4月1日 - 2005年3月31日）
-      - [間宮優希](https://ja.wikipedia.org/wiki/間宮優希 "wikilink")（2005年4月4日 - 2008年3月27日）
+      - [間宮優希](../Page/間宮優希.md "wikilink")（2005年4月4日 - 2008年3月27日）
       - [宮原亜矢](https://ja.wikipedia.org/wiki/宮原亜矢 "wikilink")（2008年3月31日 - 2009年3月27日）
           -
             2004年4月から4年間担当した金曜日から担当替え。
@@ -86,7 +86,7 @@
       - 中村貴子（1995年7月7日 - 1996年9月27日）
           -
             1995年4月 - 6月は月 - 木と同じ構成。
-      - [村上遙](https://ja.wikipedia.org/wiki/Mi-Ke "wikilink")（1996年10月4日 - 1997年3月28日）
+      - [村上遙](../Page/Mi-Ke.md "wikilink")（1996年10月4日 - 1997年3月28日）
       - [高木理恵](https://ja.wikipedia.org/wiki/高木理恵 "wikilink")（1997年4月4日 - 2004年3月26日）
       - 宮原亜矢（2004年4月2日 - 2008年3月28日）
       - [Happyだんばら](https://ja.wikipedia.org/wiki/Happyだんばら "wikilink")（2008年4月4日 - 2009年3月27日）
@@ -119,7 +119,7 @@
       - エンディング
   - 金曜日
       -
-        リクエストや[CD売上を集計したカウントダウンプログラム](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")『TOP20カウントダウン』をメインに注目アーティストなどを紹介するコーナーなどを間に挟み進行する。
+        リクエストや[CD売上を集計したカウントダウンプログラム](../Page/オリコンチャート.md "wikilink")『TOP20カウントダウン』をメインに注目アーティストなどを紹介するコーナーなどを間に挟み進行する。
     <!-- end list -->
       - オープニング
       - 先週のTOP5おさらい
@@ -149,7 +149,7 @@
 
   - [公開録音](https://ja.wikipedia.org/wiki/公開録音 "wikilink")
       -
-        一度だけ[1996年](../Page/1996年.md "wikilink")に行われた。ゲストは、[高野寛](../Page/高野寛.md "wikilink")・[瀬戸朝香](../Page/瀬戸朝香.md "wikilink")・プレイグス・[浅井健一](https://ja.wikipedia.org/wiki/浅井健一 "wikilink")（当時[BLANKEY JET CITY](https://ja.wikipedia.org/wiki/BLANKEY_JET_CITY "wikilink")）。
+        一度だけ[1996年](../Page/1996年.md "wikilink")に行われた。ゲストは、[高野寛](../Page/高野寛.md "wikilink")・[瀬戸朝香](../Page/瀬戸朝香.md "wikilink")・プレイグス・[浅井健一](https://ja.wikipedia.org/wiki/浅井健一 "wikilink")（当時[BLANKEY JET CITY](../Page/BLANKEY_JET_CITY.md "wikilink")）。
   - アーティストカウントダウン
   - アーティストヒストリー
   - プロデューサーウィーク
@@ -169,10 +169,10 @@
 
 ## エピソード
 
-  - 従来、ライヴ会場の告知をする場合、宣伝にあたるとして具体的な施設名を言わなかった（[日本武道館](../Page/日本武道館.md "wikilink")を「東京・[九段下](https://ja.wikipedia.org/wiki/九段下 "wikilink")」、[NHKホール](https://ja.wikipedia.org/wiki/NHKホール "wikilink")のことを「NHKのそばにあるホール」など）が、2007年秋頃から解禁された。
+  - 従来、ライヴ会場の告知をする場合、宣伝にあたるとして具体的な施設名を言わなかった（[日本武道館](../Page/日本武道館.md "wikilink")を「東京・[九段下](https://ja.wikipedia.org/wiki/九段下 "wikilink")」、[NHKホール](../Page/NHKホール.md "wikilink")のことを「NHKのそばにあるホール」など）が、2007年秋頃から解禁された。
   - [おとぎ話の風間洋隆](https://ja.wikipedia.org/wiki/おとぎ話_\(バンド\) "wikilink")\[7\]や元[椿屋四重奏](../Page/椿屋四重奏.md "wikilink")の中田裕二\[8\]のように、当番組のリスナーであったことがきっかけで音楽活動を始めたことを告白するミュージシャンもいる。
-  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")6月1日の放送（収録は5月17日）で、ゲスト出演していた[THE BLUE HEARTSが突然の解散発表を行った](https://ja.wikipedia.org/wiki/THE_BLUE_HEARTS "wikilink")。パーソナリティを含めた殆どのスタッフに知らされていなかったため、収録現場は騒然となったという\[9\]。この状況は翌日6月2日の新聞で取り上げられた。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")12月15日のTOP20カウントダウンにランクインした[UVERworld](../Page/UVERworld.md "wikilink")は、タイトルのみが紹介され曲は流れなかったが、同日にボーカルのTAKUYA∞が[公務執行妨害](https://ja.wikipedia.org/wiki/公務執行妨害 "wikilink")で[逮捕](../Page/逮捕.md "wikilink")されたことが影響したものと考えられる\[10\]。
+  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")6月1日の放送（収録は5月17日）で、ゲスト出演していた[THE BLUE HEARTSが突然の解散発表を行った](../Page/THE_BLUE_HEARTS.md "wikilink")。パーソナリティを含めた殆どのスタッフに知らされていなかったため、収録現場は騒然となったという\[9\]。この状況は翌日6月2日の新聞で取り上げられた。
+  - [2006年](../Page/2006年.md "wikilink")12月15日のTOP20カウントダウンにランクインした[UVERworld](../Page/UVERworld.md "wikilink")は、タイトルのみが紹介され曲は流れなかったが、同日にボーカルのTAKUYA∞が[公務執行妨害](https://ja.wikipedia.org/wiki/公務執行妨害 "wikilink")で[逮捕](../Page/逮捕.md "wikilink")されたことが影響したものと考えられる\[10\]。
 
 ## 後継番組
 

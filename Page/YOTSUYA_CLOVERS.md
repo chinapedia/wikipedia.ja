@@ -5,9 +5,9 @@
 
 ## 概要・経歴
 
-  - 太田プロダクションの新人女性タレント、若手女性芸人、新人女優、新人アイドルなどを集めて社内の新人タレント養成機関の一部として[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")7月に結成。人気のあるタレントをメンバーに起用するのではなく、無名タレントを起用し、他チームの人気タレントメンバーをお手本に芸能界で成功するための経験を積ませることに重点を置いている。スフィアリーグ発足当時は無名のメンバーばかりだったが、その後卒業メンバーから、[柳原可奈子](https://ja.wikipedia.org/wiki/柳原可奈子 "wikilink")・[麦芽](../Page/麦芽_\(お笑い\).md "wikilink")（[小出真保](https://ja.wikipedia.org/wiki/小出真保 "wikilink")・[鈴木奈都](https://ja.wikipedia.org/wiki/鈴木奈都 "wikilink")）、現役メンバーからは、[おかもとまり](https://ja.wikipedia.org/wiki/おかもとまり "wikilink")などチームからテレビ界で活躍の場を広げたメンバーが他チームよりも続出している。
+  - 太田プロダクションの新人女性タレント、若手女性芸人、新人女優、新人アイドルなどを集めて社内の新人タレント養成機関の一部として[2005年](../Page/2005年.md "wikilink")7月に結成。人気のあるタレントをメンバーに起用するのではなく、無名タレントを起用し、他チームの人気タレントメンバーをお手本に芸能界で成功するための経験を積ませることに重点を置いている。スフィアリーグ発足当時は無名のメンバーばかりだったが、その後卒業メンバーから、[柳原可奈子](https://ja.wikipedia.org/wiki/柳原可奈子 "wikilink")・[麦芽](../Page/麦芽_\(お笑い\).md "wikilink")（[小出真保](../Page/小出真保.md "wikilink")・[鈴木奈都](../Page/鈴木奈都.md "wikilink")）、現役メンバーからは、[おかもとまり](https://ja.wikipedia.org/wiki/おかもとまり "wikilink")などチームからテレビ界で活躍の場を広げたメンバーが他チームよりも続出している。
   - スフィアリーグでは2006年の5thステージで準優勝を果たす。チームの合言葉は四葉クローバーの花言葉である“good fortune”（幸運）で、ユニフォームの背中下に書かれていたが、現在使用するユニフォームには書かれていない。
-  - 2007年7月のスフィアリーグ冒険王大会では、[日本フットサルリーグ](https://ja.wikipedia.org/wiki/日本フットサルリーグ "wikilink")（Fリーグ）元年のプロモーションキャンペーンとして、[名古屋オーシャンズ](https://ja.wikipedia.org/wiki/名古屋オーシャンズ "wikilink")と同モデルのユニフォーム（オーシャンズレッド）で登場した。
+  - 2007年7月のスフィアリーグ冒険王大会では、[日本フットサルリーグ](https://ja.wikipedia.org/wiki/日本フットサルリーグ "wikilink")（Fリーグ）元年のプロモーションキャンペーンとして、[名古屋オーシャンズ](../Page/名古屋オーシャンズ.md "wikilink")と同モデルのユニフォーム（オーシャンズレッド）で登場した。
   - 会社方針（フットサル活動は3年間のみ）の影響で、2008年12月をもって任期満了の卒業メンバーが6名もチームから去った。現在、第3期メンバー中心のメンバー構成で、ゼロからのスタートを2009年1月からスタートさせた。20歳前後のメンバーが中心で一気に若返った。
   - 2018年9月、『魔法のダイエットpresents芸能人女子フットサルリーグ2018-19』として芸能人女子フットサルリーグが再開。リーグ参加する\[1\]。
 
@@ -15,7 +15,7 @@
 
 2010年7月現在
 
-  - チームアドバイザー兼終身名誉監督　[眞境名オスカー](https://ja.wikipedia.org/wiki/眞境名オスカー "wikilink")（前・名古屋オーシャンズ監督）
+  - チームアドバイザー兼終身名誉監督　[眞境名オスカー](../Page/眞境名オスカー.md "wikilink")（前・名古屋オーシャンズ監督）
   - ヘッドディレクター　[鈴木俊之介](https://ja.wikipedia.org/wiki/鈴木俊之介 "wikilink")（JFA公認C級コーチ・障害者スポーツ指導員 他）
 
 <!-- end list -->
@@ -36,30 +36,30 @@
   - [川口典子](https://ja.wikipedia.org/wiki/川口典子 "wikilink")（ - 2006年12月29日）
   - [関谷友美](https://ja.wikipedia.org/wiki/関谷友美 "wikilink")（ - 2006年12月29日）
   - [梅澤理恵](https://ja.wikipedia.org/wiki/梅澤理恵 "wikilink")（ - 2006年12月29日）
-  - [小松世奈](https://ja.wikipedia.org/wiki/桜井せな "wikilink")（現・桜井せな、- 2006年12月29日、その後2008年1月に[chakuchaku J.bに移籍](https://ja.wikipedia.org/wiki/chakuchaku_J.b "wikilink")）
-  - [小出真保](https://ja.wikipedia.org/wiki/小出真保 "wikilink")（ - 2006年12月29日）
-  - [鈴木奈都](https://ja.wikipedia.org/wiki/鈴木奈都 "wikilink")（ - 2006年12月29日）
+  - [小松世奈](../Page/桜井せな.md "wikilink")（現・桜井せな、- 2006年12月29日、その後2008年1月に[chakuchaku J.bに移籍](https://ja.wikipedia.org/wiki/chakuchaku_J.b "wikilink")）
+  - [小出真保](../Page/小出真保.md "wikilink")（ - 2006年12月29日）
+  - [鈴木奈都](../Page/鈴木奈都.md "wikilink")（ - 2006年12月29日）
   - [斉藤リコ](http://blog.livedoor.jp/r_babystar)（ - 2007年6月3日）
       -
-        [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[8月11日](../Page/8月11日.md "wikilink")、[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")出身。埼玉県内などで[路上ライブ](../Page/路上ライブ.md "wikilink")を行っていた、[インディーズ](../Page/インディーズ.md "wikilink")のロックバンド『baby-star』のボーカル。身長150cm。血液型はAB型。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")途中からに加入、ポジションは[フィクソ、アラ](https://ja.wikipedia.org/wiki/日本のフットサル#ポジション名 "wikilink")、背番号は「3」。フットサル選手時代は[ゴーグル](https://ja.wikipedia.org/wiki/ゴーグル "wikilink")をしていた時が多かった。守備力の高さを評価されたこともあった（[TV LIFE Web 2006年11月26日](http://www.tvlife.jp/news/061126_02.php)（36行～37行目）より）。2006年の[すかいらーくグループシリーズでは](https://ja.wikipedia.org/wiki/2005-2006シーズンのスフィアリーグ#すかいらーくグループシリーズ "wikilink")「ニューヒロイン賞」を受賞。[2009年](../Page/2009年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")末に、一部ブログ等で亡くなったことが明らかになる（[1](http://mijun32.exblog.jp/tags/%E6%96%89%E8%97%A4%E3%83%AA%E3%82%B3/)、\[[http://labola.jp/diary/306406\]より](http://labola.jp/diary/306406%5Dより)）。
+        [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[8月11日](../Page/8月11日.md "wikilink")、[埼玉県](../Page/埼玉県.md "wikilink")出身。埼玉県内などで[路上ライブ](../Page/路上ライブ.md "wikilink")を行っていた、[インディーズ](../Page/インディーズ.md "wikilink")のロックバンド『baby-star』のボーカル。身長150cm。血液型はAB型。[2006年](../Page/2006年.md "wikilink")途中からに加入、ポジションは[フィクソ、アラ](https://ja.wikipedia.org/wiki/日本のフットサル#ポジション名 "wikilink")、背番号は「3」。フットサル選手時代は[ゴーグル](../Page/ゴーグル.md "wikilink")をしていた時が多かった。守備力の高さを評価されたこともあった（[TV LIFE Web 2006年11月26日](http://www.tvlife.jp/news/061126_02.php)（36行～37行目）より）。2006年の[すかいらーくグループシリーズでは](https://ja.wikipedia.org/wiki/2005-2006シーズンのスフィアリーグ#すかいらーくグループシリーズ "wikilink")「ニューヒロイン賞」を受賞。[2009年](../Page/2009年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")末に、一部ブログ等で亡くなったことが明らかになる（[1](http://mijun32.exblog.jp/tags/%E6%96%89%E8%97%A4%E3%83%AA%E3%82%B3/)、\[[http://labola.jp/diary/306406\]より](http://labola.jp/diary/306406%5Dより)）。
   - みらい（ - 2007年8月3日）
       -
         [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[5月15日](../Page/5月15日.md "wikilink")生まれ、[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")出身。身長150cm、血液型はA型。2007年に入団したが短期間で退団。
   - [幸坂ゆか](http://yaplog.jp/yuka0219/)（ - 2007年9月9日）
       -
         [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[2月19日](../Page/2月19日.md "wikilink")生まれ、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身。身長164cm、血液型はA型。2007年に入団したが短期間で退団。
-  - [伊藤雅子](https://ja.wikipedia.org/wiki/伊藤雅子 "wikilink")（ - 2008年1月11日）
+  - [伊藤雅子](../Page/伊藤雅子.md "wikilink")（ - 2008年1月11日）
   - [清水香苗](https://ja.wikipedia.org/wiki/清水香苗 "wikilink")（ - 2008年3月30日）
   - [高坂友衣](https://ja.wikipedia.org/wiki/高坂友衣 "wikilink")（ - 2008年12月21日）
-  - [栗田育美](https://ja.wikipedia.org/wiki/本日は晴天なり_\(お笑い芸人\) "wikilink")（ - 2008年12月21日）
+  - [栗田育美](../Page/本日は晴天なり_\(お笑い芸人\).md "wikilink")（ - 2008年12月21日）
   - 八尾南（ - 2008年12月21日）
-  - [高田千尋](https://ja.wikipedia.org/wiki/高田千尋 "wikilink")（ - 2008年12月21日）
-  - [朝倉みず希](https://ja.wikipedia.org/wiki/朝倉みず希 "wikilink")（ - 2008年12月21日、その後2009年7月にchakuchaku J.bに移籍）
-  - [おぎたともこ](https://ja.wikipedia.org/wiki/おぎたともこ "wikilink")（ - 2008年12月21日）
-  - [村田千鶴](https://ja.wikipedia.org/wiki/村田千鶴 "wikilink")（ - 2008年12月21日）
+  - [高田千尋](../Page/高田千尋.md "wikilink")（ - 2008年12月21日）
+  - [朝倉みず希](../Page/朝倉みず希.md "wikilink")（ - 2008年12月21日、その後2009年7月にchakuchaku J.bに移籍）
+  - [おぎたともこ](../Page/おぎたともこ.md "wikilink")（ - 2008年12月21日）
+  - [村田千鶴](../Page/村田千鶴.md "wikilink")（ - 2008年12月21日）
   - 小田原彩（ - 2008年12月21日）
       -
-        [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[3月23日](../Page/3月23日.md "wikilink")生まれ、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身。身長158cm、スリーサイズは[B](https://ja.wikipedia.org/wiki/バスト "wikilink")82・[W](../Page/ウエスト.md "wikilink")58・[H](https://ja.wikipedia.org/wiki/尻 "wikilink")83。血液型はA型。愛称は**「アチャ」**。[2007年](../Page/2007年.md "wikilink")入団、背番号は「6」。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[11月28日](../Page/11月28日.md "wikilink")更新の『アチャブログ』にて「違う形で頑張っていく」ことになったことを報告し、退団。『[宇宙一せまい授業\!](https://ja.wikipedia.org/wiki/宇宙一せまい授業! "wikilink")』（[あっ\!とおどろく放送局](https://ja.wikipedia.org/wiki/あっ!とおどろく放送局 "wikilink")）、『[シバトラ](https://ja.wikipedia.org/wiki/シバトラ "wikilink")』（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）第1話（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")放送）に出演。
+        [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[3月23日](../Page/3月23日.md "wikilink")生まれ、[東京都](../Page/東京都.md "wikilink")出身。身長158cm、スリーサイズは[B](../Page/バスト.md "wikilink")82・[W](../Page/ウエスト.md "wikilink")58・[H](../Page/尻.md "wikilink")83。血液型はA型。愛称は**「アチャ」**。[2007年](../Page/2007年.md "wikilink")入団、背番号は「6」。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[11月28日](../Page/11月28日.md "wikilink")更新の『アチャブログ』にて「違う形で頑張っていく」ことになったことを報告し、退団。『[宇宙一せまい授業\!](https://ja.wikipedia.org/wiki/宇宙一せまい授業! "wikilink")』（[あっ\!とおどろく放送局](../Page/あっ!とおどろく放送局.md "wikilink")）、『[シバトラ](https://ja.wikipedia.org/wiki/シバトラ "wikilink")』（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）第1話（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")放送）に出演。
   - アフロ奈美恵（ - 2009年1月15日）
   - 奈良鹿子（ - 2009年1月15日）
   - [枚田菜々子](https://ja.wikipedia.org/wiki/枚田菜々子 "wikilink")

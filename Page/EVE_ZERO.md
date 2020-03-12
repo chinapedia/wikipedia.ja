@@ -1,13 +1,13 @@
 > この記事は[EVE ZERO](https://ja.wikipedia.org/wiki/EVE_ZERO)から翻訳されています。
 
 
-『**EVE ZERO**』（イブ ゼロ）は、[ゲームビレッジ](https://ja.wikipedia.org/wiki/ゲームビレッジ "wikilink")から発売された[ゲームソフト](../Page/ゲームソフト.md "wikilink")。「[EVEシリーズ](https://ja.wikipedia.org/wiki/EVEシリーズ "wikilink")」4作目。
+『**EVE ZERO**』（イブ ゼロ）は、[ゲームビレッジ](https://ja.wikipedia.org/wiki/ゲームビレッジ "wikilink")から発売された[ゲームソフト](../Page/ゲームソフト.md "wikilink")。「[EVEシリーズ](../Page/EVEシリーズ.md "wikilink")」4作目。
 
-[2000年](../Page/2000年.md "wikilink")3月に[PlayStation版が発売され](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")、その後[Windows版](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")（『**EVE ZERO 〜ark of the matter〜**』）と[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")版（『**EVE ZERO完全版**』）が発売されている。
+[2000年](../Page/2000年.md "wikilink")3月に[PlayStation版が発売され](../Page/PlayStation_\(ゲーム機\).md "wikilink")、その後[Windows版](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")（『**EVE ZERO 〜ark of the matter〜**』）と[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")版（『**EVE ZERO完全版**』）が発売されている。
 
 ## 概要
 
-1作目『[EVE burst error](https://ja.wikipedia.org/wiki/EVE_burst_error "wikilink")』の2年前が舞台。主人公は1作目と同じく探偵「天城小次郎」と捜査官「法条まりな」。2人の主人公を操作しストーリーを進めていくマルチサイト[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")である。『EVE burst error』に間接的に繋がるストーリーだが、後付けでシナリオライターも異なるため、物語上の矛盾点も生じている。また、主人公の2人は『EVE burst error』で初めて出会っている設定なので、本作で直接顔を合わせる事は無い。
+1作目『[EVE burst error](../Page/EVE_burst_error.md "wikilink")』の2年前が舞台。主人公は1作目と同じく探偵「天城小次郎」と捜査官「法条まりな」。2人の主人公を操作しストーリーを進めていくマルチサイト[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")である。『EVE burst error』に間接的に繋がるストーリーだが、後付けでシナリオライターも異なるため、物語上の矛盾点も生じている。また、主人公の2人は『EVE burst error』で初めて出会っている設定なので、本作で直接顔を合わせる事は無い。
 
 ### 基本システム
 
@@ -39,15 +39,15 @@ EVEシリーズの伝統である「2人の主人公の違った視点から1つ
   - **法条 まりな**（ほうじょう まりな）声：[三石琴乃](../Page/三石琴乃.md "wikilink")
   - **トア・ノバルティス**(Torah Novartis)声：[桑島法子](../Page/桑島法子.md "wikilink")
   - **榊原 真**（さかきばら しん）声：[保志総一朗](../Page/保志総一朗.md "wikilink")
-  - **桂木 弥生**（かつらぎ やよい）声：[本多知恵子](https://ja.wikipedia.org/wiki/本多知恵子 "wikilink")
+  - **桂木 弥生**（かつらぎ やよい）声：[本多知恵子](../Page/本多知恵子.md "wikilink")
   - **柴田 茜**（しばた あかね）声：[かないみか](../Page/かないみか.md "wikilink")
   - **桂木 源三郎**（かつらぎ げんざぶろう）声：[納谷悟朗](../Page/納谷悟朗.md "wikilink")
   - **甲野 三郎**（こうの さぶろう）声：[野沢那智](../Page/野沢那智.md "wikilink")
-  - **高畠豊**（たかばたけ ゆたか） 声：[飛田展男](https://ja.wikipedia.org/wiki/飛田展男 "wikilink")
+  - **高畠豊**（たかばたけ ゆたか） 声：[飛田展男](../Page/飛田展男.md "wikilink")
   - **仁科 秀人**（にしな ひでひと） 声：[肝付兼太](../Page/肝付兼太.md "wikilink")
   - **ルース・ブラッチフォード** 声：[勝生真沙子](../Page/勝生真沙子.md "wikilink")
   - **二階堂 進**（にかいどう すすむ） 声：[上田祐司](https://ja.wikipedia.org/wiki/上田祐司 "wikilink")
-  - **シャサ・ノバルティス** 声：[堀内賢雄](https://ja.wikipedia.org/wiki/堀内賢雄 "wikilink")
-  - **グレン** 声：[飯塚昭三](https://ja.wikipedia.org/wiki/飯塚昭三 "wikilink")
+  - **シャサ・ノバルティス** 声：[堀内賢雄](../Page/堀内賢雄.md "wikilink")
+  - **グレン** 声：[飯塚昭三](../Page/飯塚昭三.md "wikilink")
 
 [Category:EVEシリーズ](https://ja.wikipedia.org/wiki/Category:EVEシリーズ "wikilink") [Category:2000年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2000年のコンピュータゲーム "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:ドリームキャスト用ソフト](https://ja.wikipedia.org/wiki/Category:ドリームキャスト用ソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink")

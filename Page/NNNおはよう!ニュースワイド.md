@@ -14,9 +14,9 @@ NNN系列の朝の全国ニュース番組であった『[NNN朝のニュース]
 \*印は当時日本テレビアナウンサー。
 
   - [本多当一郎](../Page/本多当一郎.md "wikilink")（初期） \*
-  - [久保晴生](https://ja.wikipedia.org/wiki/久保晴生 "wikilink")（初期） \*
-  - [秋元秀雄](https://ja.wikipedia.org/wiki/秋元秀雄 "wikilink")（後期）
-  - [國弘正雄](https://ja.wikipedia.org/wiki/國弘正雄 "wikilink")（後期）
+  - [久保晴生](../Page/久保晴生.md "wikilink")（初期） \*
+  - [秋元秀雄](../Page/秋元秀雄.md "wikilink")（後期）
+  - [國弘正雄](../Page/國弘正雄.md "wikilink")（後期）
   - [神山喜久子](https://ja.wikipedia.org/wiki/神山喜久子 "wikilink") \*
   - [小池裕美子](../Page/小池裕美子_\(アナウンサー\).md "wikilink") \*
 
@@ -42,7 +42,7 @@ NNN系列の朝の全国ニュース番組であった『[NNN朝のニュース]
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/札幌テレビ放送" title="wikilink">札幌テレビ</a></p></td>
+<td><p><a href="../Page/札幌テレビ放送.md" title="wikilink">札幌テレビ</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -71,7 +71,7 @@ NNN系列の朝の全国ニュース番組であった『[NNN朝のニュース]
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/山形県" title="wikilink">山形県</a></p></td>
+<td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
 <td><p><a href="../Page/山形放送.md" title="wikilink">山形放送</a></p></td>
 <td></td>
 <td></td>
@@ -169,7 +169,7 @@ NNN系列の朝の全国ニュース番組であった『[NNN朝のニュース]
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/福岡放送.md" title="wikilink">福岡放送</a></p></td>
 <td></td>
 <td></td>

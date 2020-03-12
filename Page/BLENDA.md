@@ -1,7 +1,7 @@
 > この記事は[BLENDA](https://ja.wikipedia.org/wiki/BLENDA)から翻訳されています。
 
 
-『**BLENDA**』（ブレンダ）は、[角川春樹事務所](https://ja.wikipedia.org/wiki/角川春樹事務所 "wikilink")が発売していた女性向け[ファッション](../Page/ファッション.md "wikilink")[雑誌](../Page/雑誌.md "wikilink")。
+『**BLENDA**』（ブレンダ）は、[角川春樹事務所](../Page/角川春樹事務所.md "wikilink")が発売していた女性向け[ファッション](../Page/ファッション.md "wikilink")[雑誌](../Page/雑誌.md "wikilink")。
 
 ## 来歴
 

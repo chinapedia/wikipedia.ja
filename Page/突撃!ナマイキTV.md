@@ -1,15 +1,15 @@
 > この記事は[!TV](https://ja.wikipedia.org/wiki/!TV)から翻訳されています。
 
 
-『**突撃\!ナマイキTV**』（とつげき\!ナマイキテレビ）とは、[東日本放送](../Page/東日本放送.md "wikilink")で毎週月 - 金曜日の9:55 - 11:05に放送されているローカル[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。「ナマイキ」は「生（[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")）で行く」という意味で付けられている。
+『**突撃\!ナマイキTV**』（とつげき\!ナマイキテレビ）とは、[東日本放送](../Page/東日本放送.md "wikilink")で毎週月 - 金曜日の9:55 - 11:05に放送されているローカル[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。「ナマイキ」は「生（[生放送](../Page/生放送.md "wikilink")）で行く」という意味で付けられている。
 
 ## 概要
 
-2003年3月28日に東日本放送の[夕方ワイド番組](https://ja.wikipedia.org/wiki/夕方ワイド番組 "wikilink")『[夕方ワイドあなたにCue\!](../Page/夕方ワイドあなたにCue!.md "wikilink")』が終了した後、同年4月7日から時間帯を午前10時台に移動する形で新たに放送が開始された番組で、宮城県では平日10時台唯一の[ローカル番組](https://ja.wikipedia.org/wiki/ローカル番組 "wikilink")である。司会は[本間秋彦](../Page/本間秋彦.md "wikilink")とKHBアナウンサーの[白澤奈緒子](../Page/白澤奈緒子.md "wikilink")。2008年4月から2010年3月の間は、白澤の産休のため[岩手佳代子](https://ja.wikipedia.org/wiki/岩手佳代子 "wikilink")が代理で司会を務めた。
+2003年3月28日に東日本放送の[夕方ワイド番組](../Page/夕方ワイド番組.md "wikilink")『[夕方ワイドあなたにCue\!](../Page/夕方ワイドあなたにCue!.md "wikilink")』が終了した後、同年4月7日から時間帯を午前10時台に移動する形で新たに放送が開始された番組で、宮城県では平日10時台唯一の[ローカル番組](../Page/ローカル番組.md "wikilink")である。司会は[本間秋彦](../Page/本間秋彦.md "wikilink")とKHBアナウンサーの[白澤奈緒子](../Page/白澤奈緒子.md "wikilink")。2008年4月から2010年3月の間は、白澤の産休のため[岩手佳代子](../Page/岩手佳代子.md "wikilink")が代理で司会を務めた。
 
 直前の番組『[スーパーモーニング](../Page/スーパーモーニング.md "wikilink")』が時間拡大版を実施していた場合にも、休止せずに通常放送をすることが多かったため、『スーパーモーニング』の放送時間が延長される場合は途中で飛び降りを実施していた。
 
-また、2004年には祝日時の放送において放送時間を11:24まで延長し、スキー場や[仙台港](https://ja.wikipedia.org/wiki/仙台港 "wikilink")（この時は本間の趣味である釣り大会を開催）などからの中継が行われた。
+また、2004年には祝日時の放送において放送時間を11:24まで延長し、スキー場や[仙台港](../Page/仙台港.md "wikilink")（この時は本間の趣味である釣り大会を開催）などからの中継が行われた。
 
 2013年4月1日の放送で番組開始10周年を迎え、2015年4月8日の放送で放送回数3000回を迎えた。
 
@@ -61,7 +61,7 @@
 <tr class="even">
 <td><p>2008年3月31日</p></td>
 <td><p>2010年3月26日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/岩手佳代子" title="wikilink">岩手佳代子</a></p></td>
+<td><p><a href="../Page/岩手佳代子.md" title="wikilink">岩手佳代子</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -78,14 +78,14 @@
 <td><p>2012年7月25日</p></td>
 <td><p>2013年3月29日</p></td>
 <td><p><a href="../Page/佐藤智恵子.md" title="wikilink">佐藤智恵子</a><sup>1</sup></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/なべくらみほ" title="wikilink">なべくらみほ</a></p></td>
+<td><p><a href="../Page/なべくらみほ.md" title="wikilink">なべくらみほ</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/若月貴代" title="wikilink">若月貴代</a></strong></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/高野萌" title="wikilink">高野萌</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>2013年4月1日</p></td>
 <td><p>2014年3月28日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/高山香織" title="wikilink">高山香織</a><sup>3</sup></p></td>
+<td><p><a href="../Page/高山香織.md" title="wikilink">高山香織</a><sup>3</sup></p></td>
 <td><p><strong><a href="../Page/竹内真理.md" title="wikilink">竹内真理</a></strong></p></td>
 <td><p><strong>若月貴代</strong></p></td>
 <td></td>
@@ -182,8 +182,8 @@
 
 <!-- end list -->
 
-  - [宮田敬子](https://ja.wikipedia.org/wiki/宮田敬子 "wikilink")（月曜日、2018年4月2日 - ）
-  - [なべくらみほ](https://ja.wikipedia.org/wiki/なべくらみほ "wikilink")（火曜日、2015年3月30日 - 、2018年3月までは月・火曜日担当）
+  - [宮田敬子](../Page/宮田敬子.md "wikilink")（月曜日、2018年4月2日 - ）
+  - [なべくらみほ](../Page/なべくらみほ.md "wikilink")（火曜日、2015年3月30日 - 、2018年3月までは月・火曜日担当）
   - [千葉めぐみ](https://ja.wikipedia.org/wiki/千葉めぐみ_\(ローカルタレント・フリーアナウンサー\) "wikilink")（水曜日、2015年4月1日 - 、 2015年9月24日までは水・木曜日担当）
   - [風間みなみ](https://ja.wikipedia.org/wiki/風間みなみ "wikilink")（木曜日、2018年4月5日 - ）
   - [きぬ](../Page/きぬ_\(タレント\).md "wikilink")（金曜日、2014年4月 - ）
@@ -194,8 +194,8 @@
 
 <!-- end list -->
 
-  - [島田周彦](https://ja.wikipedia.org/wiki/島田周彦 "wikilink")（[ティーライズ所属](https://ja.wikipedia.org/wiki/お笑い集団ティーライズ "wikilink")）
-  - [ストロングスタイル](https://ja.wikipedia.org/wiki/ストロングスタイル_\(お笑いコンビ\) "wikilink")（[ティーライズ所属](https://ja.wikipedia.org/wiki/お笑い集団ティーライズ "wikilink")）
+  - [島田周彦](https://ja.wikipedia.org/wiki/島田周彦 "wikilink")（[ティーライズ所属](../Page/お笑い集団ティーライズ.md "wikilink")）
+  - [ストロングスタイル](https://ja.wikipedia.org/wiki/ストロングスタイル_\(お笑いコンビ\) "wikilink")（[ティーライズ所属](../Page/お笑い集団ティーライズ.md "wikilink")）
   - [ティーナ・カリーナ](https://ja.wikipedia.org/wiki/ティーナ・カリーナ "wikilink")
   - 千葉めぐみ
   - [まつトミ](https://ja.wikipedia.org/wiki/まつトミ "wikilink")
@@ -207,14 +207,14 @@
 
 ### 過去の出演者
 
-  - [大江和美](https://ja.wikipedia.org/wiki/大江和美 "wikilink")（[日本気象協会](https://ja.wikipedia.org/wiki/日本気象協会 "wikilink")東北支局）（ - 2010年3月26日、「ゴゴ天」担当）
+  - [大江和美](https://ja.wikipedia.org/wiki/大江和美 "wikilink")（[日本気象協会](../Page/日本気象協会.md "wikilink")東北支局）（ - 2010年3月26日、「ゴゴ天」担当）
   - [奈良岡希実子](https://ja.wikipedia.org/wiki/奈良岡希実子 "wikilink")（日本気象協会東北支局）（2010年3月29日 - 2014年3月28日、お天気情報担当）
   - [樋口康弘](https://ja.wikipedia.org/wiki/樋口康弘 "wikilink")（日本気象協会東北支局）（2014年3月31日 - 2015年3月27日、お天気情報担当）
   - [綾木紫乃](https://ja.wikipedia.org/wiki/綾木紫乃 "wikilink")（日本気象協会東北支局）（2015年3月30日 - 8月21日、お天気情報担当）
   - [菅原ゆうこ](https://ja.wikipedia.org/wiki/菅原ゆうこ "wikilink")（ - 2010年3月26日、「デパスパ一番のり」火曜日担当）
   - [野口あき子](https://ja.wikipedia.org/wiki/野口亜紀子 "wikilink")（2003年4月 - 2010年3月26日、「デパスパ一番のり」金曜日担当）
   - [あべだいち](https://ja.wikipedia.org/wiki/あべだいち "wikilink")（元・ハンプティダンプティ）（ - 2010年5月26日、リポーター・「園児でGO\!」担当）
-  - [ふじポン](https://ja.wikipedia.org/wiki/ふじポン "wikilink")（2008年3月31日 - 2010年12月23日、「デパスパ一番のり」木曜日担当）
+  - [ふじポン](../Page/ふじポン.md "wikilink")（2008年3月31日 - 2010年12月23日、「デパスパ一番のり」木曜日担当）
   - あやか（[チェリブロ](https://ja.wikipedia.org/wiki/チェリブロ "wikilink")）（ - 2010年8月24日、リポーター、結婚のため番組を降板）
   - なつみ（[チェリブロ](https://ja.wikipedia.org/wiki/チェリブロ "wikilink")）（ - 2012年10月25日、リポーター・「デパスパ一番のり」木曜日担当、産休のため番組を降板）
   - [シャベルカー](https://ja.wikipedia.org/wiki/シャベルカー "wikilink")（ティーライズ所属）
@@ -254,13 +254,13 @@
 
 ## 主なコーナー
 
-|     |                                                                           |                                                                          |
-| --- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| 月曜日 | **[イオン仙台店](https://ja.wikipedia.org/wiki/イオン仙台店 "wikilink")**             | [エスパル仙台店](https://ja.wikipedia.org/wiki/エスパル仙台店 "wikilink")              |
-| 火曜日 | **[仙台三越](https://ja.wikipedia.org/wiki/仙台三越 "wikilink")**                 | [セルバ](../Page/セルバ_\(ショッピングセンター\).md "wikilink")                          |
-| 水曜日 | [三井アウトレットパーク仙台港](https://ja.wikipedia.org/wiki/三井アウトレットパーク仙台港 "wikilink") | **[さくら野百貨店](https://ja.wikipedia.org/wiki/さくら野百貨店 "wikilink")仙台店**       |
-| 木曜日 | [仙台パルコ](../Page/仙台パルコ.md "wikilink")                                      | **[ザ・モール仙台長町](https://ja.wikipedia.org/wiki/ザ・モール仙台長町 "wikilink")**\[2\] |
-| 金曜日 | **[藤崎](https://ja.wikipedia.org/wiki/藤崎_\(百貨店\) "wikilink")**             | [アエル](https://ja.wikipedia.org/wiki/アエル_\(仙台市\) "wikilink")              |
+|     |                                                                           |                                                                    |
+| --- | ------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| 月曜日 | **[イオン仙台店](https://ja.wikipedia.org/wiki/イオン仙台店 "wikilink")**             | [エスパル仙台店](https://ja.wikipedia.org/wiki/エスパル仙台店 "wikilink")        |
+| 火曜日 | **[仙台三越](https://ja.wikipedia.org/wiki/仙台三越 "wikilink")**                 | [セルバ](../Page/セルバ_\(ショッピングセンター\).md "wikilink")                    |
+| 水曜日 | [三井アウトレットパーク仙台港](https://ja.wikipedia.org/wiki/三井アウトレットパーク仙台港 "wikilink") | **[さくら野百貨店](https://ja.wikipedia.org/wiki/さくら野百貨店 "wikilink")仙台店** |
+| 木曜日 | [仙台パルコ](../Page/仙台パルコ.md "wikilink")                                      | **[ザ・モール仙台長町](../Page/ザ・モール仙台長町.md "wikilink")**\[2\]              |
+| 金曜日 | **[藤崎](../Page/藤崎_\(百貨店\).md "wikilink")**                                | [アエル](../Page/アエル_\(仙台市\).md "wikilink")                           |
 
 2016年4月現在における中継先<small>（太字は従前からの中継先）</small>
 
@@ -278,15 +278,15 @@
 
   - 今日の特集（月〜木曜日）
       -
-        リポーターがグルメ情報や観光情報などを紹介するコーナー。本間秋彦や横須賀真奈美も時折リポーターとして登場することがある。夏季の木曜日には「お仕事こんにちは」という河野珠実によるさまざまな職業の体験リポートのシリーズや、冬季の木曜日には「温泉女」という[センダイガールズプロレスリング](https://ja.wikipedia.org/wiki/センダイガールズプロレスリング "wikilink")の所属レスラーによる温泉リポートのシリーズが紹介されたこともある。
+        リポーターがグルメ情報や観光情報などを紹介するコーナー。本間秋彦や横須賀真奈美も時折リポーターとして登場することがある。夏季の木曜日には「お仕事こんにちは」という河野珠実によるさまざまな職業の体験リポートのシリーズや、冬季の木曜日には「温泉女」という[センダイガールズプロレスリング](../Page/センダイガールズプロレスリング.md "wikilink")の所属レスラーによる温泉リポートのシリーズが紹介されたこともある。
 
 <!-- end list -->
 
   - ナマなキッチン
       -
         横須賀が実際にスタジオにて調理しながら料理レシピを紹介するコーナー。2011年9月までは本間も共に登場しており、その後は横須賀が単独でコーナーを担当するようになったが、2014年4月から再び本間もコーナーに登場して調理を担当している。当初は、金曜日には酒のおつまみ（月1回は薬膳料理）を紹介していた。横須賀が不在の場合には事前に収録している。料理が完成した後にはスタジオ内の出演者が試食する。横須賀の不在時や短縮放送時にはその場で試食する。
-        2014年10月からは、横須賀の代わりに[パティシエ](https://ja.wikipedia.org/wiki/パティシエ "wikilink")が登場して、スタジオにて調理しながら菓子レシピを紹介するコーナー「ナマなスイーツ」が不定期で放送されるようになり、2015年に入ってからは毎週金曜日に同内容のコーナーが放送されている。
-        また、2016年5月19日からは毎週木曜日に、横須賀の代わりに[ホテルメトロポリタン仙台](https://ja.wikipedia.org/wiki/ホテルメトロポリタン仙台 "wikilink")に所属するシェフが登場して料理レシピを紹介するようになっている。
+        2014年10月からは、横須賀の代わりに[パティシエ](../Page/パティシエ.md "wikilink")が登場して、スタジオにて調理しながら菓子レシピを紹介するコーナー「ナマなスイーツ」が不定期で放送されるようになり、2015年に入ってからは毎週金曜日に同内容のコーナーが放送されている。
+        また、2016年5月19日からは毎週木曜日に、横須賀の代わりに[ホテルメトロポリタン仙台](../Page/ホテルメトロポリタン仙台.md "wikilink")に所属するシェフが登場して料理レシピを紹介するようになっている。
 
 <!-- end list -->
 
@@ -343,7 +343,7 @@
         視聴者から寄せられた情報に基づき、東日本放送の若手アナウンサーが現地へと赴いて取材するコーナー。
   - シンデレラの部屋（木曜日）
       -
-        視聴者からの相談に対して[ニューハーフ](https://ja.wikipedia.org/wiki/ニューハーフ "wikilink")3人組が答えるコーナー。
+        視聴者からの相談に対して[ニューハーフ](../Page/ニューハーフ.md "wikilink")3人組が答えるコーナー。
   - みわのMamaCoco（水曜日）
       -
         菅原美話とかれんの母娘が出演し、地元出版社[プレスアート](../Page/プレスアート.md "wikilink")発行の子育て支援雑誌『[mama\*coco](https://ja.wikipedia.org/wiki/プレスアート#mama*coco "wikilink")』とのタイアップで、子連れでも楽しめるスポットやショップを紹介していた。

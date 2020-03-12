@@ -1,13 +1,13 @@
 > この記事は[Bless4](https://ja.wikipedia.org/wiki/Bless4)から翻訳されています。
 
 
-**bless4**（ブレスフォー）は、4人兄妹の[バイリンガル](https://ja.wikipedia.org/wiki/二言語話者 "wikilink")・[コーラス](../Page/合唱.md "wikilink")・[ダンス](https://ja.wikipedia.org/wiki/ダンス "wikilink")・[グループ](https://ja.wikipedia.org/wiki/グループ "wikilink")、[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")。[2003年](../Page/2003年.md "wikilink")[5月7日](../Page/5月7日.md "wikilink")に、[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[メジャーリーグ](https://ja.wikipedia.org/wiki/メジャーリーグ "wikilink")中継2003[テーマソング](https://ja.wikipedia.org/wiki/テーマソング "wikilink")『Good Morning\! Mr.Sunshine』でメジャーデビュー。 __TOC__
+**bless4**（ブレスフォー）は、4人兄妹の[バイリンガル](https://ja.wikipedia.org/wiki/二言語話者 "wikilink")・[コーラス](../Page/合唱.md "wikilink")・[ダンス](../Page/ダンス.md "wikilink")・[グループ](https://ja.wikipedia.org/wiki/グループ "wikilink")、[音楽ユニット](../Page/音楽ユニット.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[5月7日](../Page/5月7日.md "wikilink")に、[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[メジャーリーグ](https://ja.wikipedia.org/wiki/メジャーリーグ "wikilink")中継2003[テーマソング](https://ja.wikipedia.org/wiki/テーマソング "wikilink")『Good Morning\! Mr.Sunshine』でメジャーデビュー。 __TOC__
 
 ## メンバー
 
   - **AKASHI**（アカシ、 - ）
       - 本名：川満 証（かわみつ あかし）。
-      - 川満アート・テイメント[代表取締役](https://ja.wikipedia.org/wiki/代表取締役 "wikilink")
+      - 川満アート・テイメント[代表取締役](../Page/代表取締役.md "wikilink")
       - 身長：173cm、血液型B型
   - **KANASA**（カナサ、 - ）
       - 本名：川満 愛（かわみつ かなさ）。
@@ -142,7 +142,7 @@
 
 <!-- end list -->
 
-  - [テレビ東京系](https://ja.wikipedia.org/wiki/テレビ東京系 "wikilink")TVアニメーション『[アクエリオンEVOL](https://ja.wikipedia.org/wiki/アクエリオンEVOL "wikilink")』の主題歌「[君の神話〜アクエリオン第二章](https://ja.wikipedia.org/wiki/君の神話〜アクエリオン第二章 "wikilink")」をAKINO with bless4名義として担当、ED曲「月光シンフォニア」をAKINO & AIKI from bless4名義として担当し、2012年[2月27日](../Page/2月27日.md "wikilink")付[オリコンウィークリーチャートにて](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")3位を獲得し、グループ初となるトップ3入りを果たした。
+  - [テレビ東京系](https://ja.wikipedia.org/wiki/テレビ東京系 "wikilink")TVアニメーション『[アクエリオンEVOL](https://ja.wikipedia.org/wiki/アクエリオンEVOL "wikilink")』の主題歌「[君の神話〜アクエリオン第二章](https://ja.wikipedia.org/wiki/君の神話〜アクエリオン第二章 "wikilink")」をAKINO with bless4名義として担当、ED曲「月光シンフォニア」をAKINO & AIKI from bless4名義として担当し、2012年[2月27日](../Page/2月27日.md "wikilink")付[オリコンウィークリーチャートにて](../Page/オリコンチャート.md "wikilink")3位を獲得し、グループ初となるトップ3入りを果たした。
 
 <!-- end list -->
 
@@ -186,14 +186,14 @@ AKINOのソロ作品関連については[AKINO from bless4ディスコグラフ
 <tr class="odd">
 <td><p>3rd</p></td>
 <td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><a href="../Page/2月25日.md" title="wikilink">2月25日</a>（沖縄限定発売盤）<br />
-2004年<a href="https://ja.wikipedia.org/wiki/10月13日" title="wikilink">10月13日</a>（全国流通盤）</p></td>
+2004年<a href="../Page/10月13日.md" title="wikilink">10月13日</a>（全国流通盤）</p></td>
 <td><p><strong>ガジュマルの下で</strong></p></td>
 <td><p>BVCR-19635</p></td>
 <td><p>99位</p></td>
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/1月19日.md" title="wikilink">1月19日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/1月19日.md" title="wikilink">1月19日</a></p></td>
 <td><p><strong>123</strong></p></td>
 <td><p>BVCR-19638</p></td>
 <td><p>99位</p></td>
@@ -224,21 +224,21 @@ AKINOのソロ作品関連については[AKINO from bless4ディスコグラフ
 
 ### アルバム
 
-| 枚   | 発売日                                                                                       | タイトル                | 規格品番       | 最高位 |
-| --- | ----------------------------------------------------------------------------------------- | ------------------- | ---------- | --- |
-| 1st | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月2日](../Page/2月2日.md "wikilink") | **ALL 4 ONE**       | BVCR-14023 | 圏外  |
-| 2nd | [2011年](../Page/2011年.md "wikilink")[11月2日](../Page/11月2日.md "wikilink")                  | **夢つむぎ**            | KATC-01121 |     |
-| 3rd | 2019年6月5日予定                                                                               | **WE ARE WARRIORS** |            |     |
+| 枚   | 発売日                                                                      | タイトル                | 規格品番       | 最高位 |
+| --- | ------------------------------------------------------------------------ | ------------------- | ---------- | --- |
+| 1st | [2005年](../Page/2005年.md "wikilink")[2月2日](../Page/2月2日.md "wikilink")   | **ALL 4 ONE**       | BVCR-14023 | 圏外  |
+| 2nd | [2011年](../Page/2011年.md "wikilink")[11月2日](../Page/11月2日.md "wikilink") | **夢つむぎ**            | KATC-01121 |     |
+| 3rd | 2019年6月5日予定                                                              | **WE ARE WARRIORS** |            |     |
 
   - ALL 4 ONE（2005年[2月2日](../Page/2月2日.md "wikilink")）
-      - With you (Album Version)：[雫石スキー場](https://ja.wikipedia.org/wiki/雫石スキー場 "wikilink")2005年TVCFイメージソング
+      - With you (Album Version)：[雫石スキー場](../Page/雫石スキー場.md "wikilink")2005年TVCFイメージソング
       - Don't Look Back：[佐藤製薬](../Page/佐藤製薬.md "wikilink")『ストナリニS』CMソング
   - [スティッチ\!](https://ja.wikipedia.org/wiki/スティッチ! "wikilink")オリジナルサウンドトラック（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月28日](../Page/4月28日.md "wikilink")）に参加。
       - \#8.ひとりじゃない
       - \#11.スティッチ・イズ・カミング
   - 夢つむぎ（[2011年](../Page/2011年.md "wikilink")[1月12日](../Page/1月12日.md "wikilink")）
       - 絆の花：島サミット（東京文化交流親善コミュニティー）テーマ曲
-      - 龍AGARE\!：[オリックス・バファローズ](https://ja.wikipedia.org/wiki/オリックス・バファローズ "wikilink")[丹羽将弥](https://ja.wikipedia.org/wiki/丹羽将弥 "wikilink")[選手](https://ja.wikipedia.org/wiki/選手 "wikilink")[応援歌](../Page/応援歌.md "wikilink")
+      - 龍AGARE\!：[オリックス・バファローズ](../Page/オリックス・バファローズ.md "wikilink")[丹羽将弥](https://ja.wikipedia.org/wiki/丹羽将弥 "wikilink")[選手](https://ja.wikipedia.org/wiki/選手 "wikilink")[応援歌](../Page/応援歌.md "wikilink")
       - Get Luck：月刊中古トラック情報誌『[GETRUCK](https://ja.wikipedia.org/wiki/ゲットラック "wikilink")』CMソング
 
 ### AIKI from bless4名義
@@ -249,19 +249,19 @@ AKINOのソロ作品関連については[AKINO from bless4ディスコグラフ
 
 ## タイアップ
 
-| 楽曲                         | タイアップ                                                                                                                |
-| -------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| Good Morning\! Mr.Sunshine | [フジテレビメジャーリーグ中継テーマソング](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")                                            |
-| ガジュマルの下で                   | [佐藤製薬](../Page/佐藤製薬.md "wikilink")『ストナ』CMソング                                                                         |
-| 123                        | [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[みんなのうた](https://ja.wikipedia.org/wiki/みんなのうた "wikilink")』使用曲 |
-| 絆の花                        | 島サミット（東京文化交流親善コミュニティー）テーマ曲                                                                                           |
-| With you                   | [雫石スキー場](https://ja.wikipedia.org/wiki/雫石スキー場 "wikilink")2005年TVCFイメージソング                                            |
+| 楽曲                         | タイアップ                                                                                             |
+| -------------------------- | ------------------------------------------------------------------------------------------------- |
+| Good Morning\! Mr.Sunshine | [フジテレビメジャーリーグ中継テーマソング](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")                         |
+| ガジュマルの下で                   | [佐藤製薬](../Page/佐藤製薬.md "wikilink")『ストナ』CMソング                                                      |
+| 123                        | [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[みんなのうた](../Page/みんなのうた.md "wikilink")』使用曲 |
+| 絆の花                        | 島サミット（東京文化交流親善コミュニティー）テーマ曲                                                                        |
+| With you                   | [雫石スキー場](../Page/雫石スキー場.md "wikilink")2005年TVCFイメージソング                                            |
 
 ## テレビ番組
 
   - [最高\!ブギウギナイト](../Page/最高!ブギウギナイト.md "wikilink")
   - [魅惑のスタンダードポップス](https://ja.wikipedia.org/wiki/魅惑のスタンダードポップス "wikilink")
-  - [さんまのSUPERからくりTV](https://ja.wikipedia.org/wiki/さんまのSUPERからくりTV "wikilink")「第7回芸能人替え歌王決定戦」（TBS 2011年）[水木一郎](../Page/水木一郎.md "wikilink")、[竹本孝之](../Page/竹本孝之.md "wikilink")と出演。第3位獲得。
+  - [さんまのSUPERからくりTV](../Page/さんまのSUPERからくりTV.md "wikilink")「第7回芸能人替え歌王決定戦」（TBS 2011年）[水木一郎](../Page/水木一郎.md "wikilink")、[竹本孝之](../Page/竹本孝之.md "wikilink")と出演。第3位獲得。
   - 「[アニソンぷらす](https://ja.wikipedia.org/wiki/アニソンぷらす "wikilink")」LIVE 2012（テレビ東京 2012年1月2日24:30〜25:30）
   - 「[アニぱら音楽館](https://ja.wikipedia.org/wiki/アニぱら音楽館 "wikilink")」＃354（2012年10月2日初回放送）
   - 「[ハモネプ](https://ja.wikipedia.org/wiki/ハモネプ "wikilink") スター☆リーグ」（2012年6月12日）第1回に水木一郎らと出場し、優勝。以後、第3回、第4回にも出演。

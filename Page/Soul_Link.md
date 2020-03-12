@@ -6,11 +6,11 @@
 | アニメ {{Infobox animanga/TVAnime | 原作= Navel | 監督= 所俊克 | シリーズ構成= 所俊克 | 脚本= [長谷川勝己](../Page/長谷川勝己.md "wikilink")、[静谷伊佐夫](https://ja.wikipedia.org/wiki/静谷伊佐夫 "wikilink") | キャラクターデザイン= [渡辺義弘](https://ja.wikipedia.org/wiki/渡邊義弘_\(アニメーター\) "wikilink") | 音楽= [澤野弘之](../Page/澤野弘之.md "wikilink") | アニメーション制作= [ピクチャーマジック](../Page/ピクチャーマジック.md "wikilink") | 製作= Soul Link メディア Project | 放送局= [放送局を参照](https://ja.wikipedia.org/wiki/#放送局 "wikilink") | 放送開始= 2006年4月 | 放送終了= 9月 | 話数= 全12話 }} |
 | ------------------------------ | --------- | ------- | ----------- | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- | -------------------------------------- | ------------------------------------------------------- | -------------------------- | ------------------------------------------------------------ | ------------- | -------- | ----------- |
 
-『**Soul Link**』（ソウル リンク）は、[Navel](https://ja.wikipedia.org/wiki/Navel "wikilink")から[2004年](../Page/2004年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink")に発売された[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")、およびそれを原作として制作された[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")である。
+『**Soul Link**』（ソウル リンク）は、[Navel](../Page/Navel.md "wikilink")から[2004年](../Page/2004年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink")に発売された[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")、およびそれを原作として制作された[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")である。
 
 ## 概要
 
-近未来世界の[宇宙ステーション](../Page/宇宙ステーション.md "wikilink")を舞台とした[SFアドベンチャーゲームで](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")『[SHUFFLE\!](https://ja.wikipedia.org/wiki/SHUFFLE! "wikilink")』に続くNavelの第2作。[鈴平ひろ](https://ja.wikipedia.org/wiki/鈴平ひろ "wikilink")にとっては、初の単独原画作品となる。当初はブランド3作目として予定されていたが、諸事情により繰り上がった\[1\]。
+近未来世界の[宇宙ステーション](../Page/宇宙ステーション.md "wikilink")を舞台とした[SFアドベンチャーゲームで](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")『[SHUFFLE\!](../Page/SHUFFLE!.md "wikilink")』に続くNavelの第2作。[鈴平ひろ](https://ja.wikipedia.org/wiki/鈴平ひろ "wikilink")にとっては、初の単独原画作品となる。当初はブランド3作目として予定されていたが、諸事情により繰り上がった\[1\]。
 
 一般ユーザーでも受け入れやすい内容を意識した『SHUFFLE\!』と違い、「男性主人公が2人」「ヒロインの陵辱シーンがある」「選択肢が多く、バッドエンドが多い」といったよりゲーム性やサスペンスを重視した難易度の高い内容となっている。
 
@@ -18,7 +18,7 @@
 
 2006年4月にはテレビアニメ化された。詳細は[アニメを参照](https://ja.wikipedia.org/wiki/#アニメ "wikilink")。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[6月29日](../Page/6月29日.md "wikilink")には[インターチャネル](../Page/インターチャネル.md "wikilink")から[PlayStation 2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『**Soul Link EXTENSION**』（ソウル リンク エクステンション）が発売された。新キャラクターならびに新規CGが追加されるとともに、シナリオの容量が増加されている。シナリオは、PC版では触れられなかった部分についても補完されている。
+[2006年](../Page/2006年.md "wikilink")[6月29日](../Page/6月29日.md "wikilink")には[インターチャネル](../Page/インターチャネル.md "wikilink")から[PlayStation 2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『**Soul Link EXTENSION**』（ソウル リンク エクステンション）が発売された。新キャラクターならびに新規CGが追加されるとともに、シナリオの容量が増加されている。シナリオは、PC版では触れられなかった部分についても補完されている。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[6月25日](../Page/6月25日.md "wikilink")、ヒント機能などの新要素を加えたフルリメイク版『**Soul Link ULTIMATE**』（ソウル リンク アルティメット）がNavelから発売された。『[ね〜PON?×らいPON\!](https://ja.wikipedia.org/wiki/ね〜PON?×らいPON! "wikilink")』に入っていた後日談2本も、「アフターストーリー」という形で収録されている。鈴平ひろは新規パッケージと店舗特典1枚で参加している\[2\]。
 
@@ -33,13 +33,13 @@
 ### メインキャラクター
 
   - 相澤 秀平（あいざわ しゅうへい）
-    声 - [ヘルシー太郎](../Page/ヘルシー太郎.md "wikilink") / [伊藤健太郎](https://ja.wikipedia.org/wiki/伊藤健太郎_\(声優\) "wikilink") / 幼少期 - [小林ゆう](https://ja.wikipedia.org/wiki/小林ゆう "wikilink")（TVアニメ）
+    声 - [ヘルシー太郎](../Page/ヘルシー太郎.md "wikilink") / [伊藤健太郎](../Page/伊藤健太郎_\(声優\).md "wikilink") / 幼少期 - [小林ゆう](https://ja.wikipedia.org/wiki/小林ゆう "wikilink")（TVアニメ）
     誕生日：4月12日。身長：178cm。
     主人公の一人。中央士官学校本科2年。頭脳明晰にして運動神経抜群であり、予科（少年科）を2年[飛び級](../Page/飛び級.md "wikilink")して本科に入学したエリート。予科では「10年に1人の天才」とまで呼ばれた。行動力があり正義感も強いが、少々デリカシーに欠け一般常識に疎いところがある軽い性格の持ち主。時々、正体不明の淫夢を見る。アリエス占拠後は、仲間達を代表するリーダー的存在となる。
     セラリアによってアリエス搭乗前に肉体へスキュラ細胞を注入されたため**スキュラ**化してしまうが、ひたすら自我を保ち続けていた。
     後日談では、七央と結婚してななみと3人で暮らしている。
   - 相澤 涼太（あいざわ りょうた）
-    声 - [小池竹蔵](../Page/小池竹蔵.md "wikilink") / [荻原秀樹](../Page/荻原秀樹.md "wikilink") / 幼少期 - [結城みづほ](https://ja.wikipedia.org/wiki/結城みづほ "wikilink") / [井ノ上奈々](https://ja.wikipedia.org/wiki/井ノ上奈々 "wikilink")（TVアニメ）
+    声 - [小池竹蔵](../Page/小池竹蔵.md "wikilink") / [荻原秀樹](../Page/荻原秀樹.md "wikilink") / 幼少期 - [結城みづほ](https://ja.wikipedia.org/wiki/結城みづほ "wikilink") / [井ノ上奈々](../Page/井ノ上奈々.md "wikilink")（TVアニメ）
     誕生日：9月10日。身長：171cm。
     主人公の一人。秀平の弟。中央士官学校予科3年。おっとりとしたマイペース派で\[3\]、争いごとは好きではない。やや引っ込み思案で、周囲に振り回されやすいが、正しいと信じたことは譲らない。秀平がいない間、仲間をまとめるリーダー的存在となった。
     小さい頃に両親は[病死](https://ja.wikipedia.org/wiki/病死 "wikilink")してしまっていたが、兄の秀平がいつもとなりにいたからこそ寂しさは無かった事が沙佳ルートで明らかになる。
@@ -49,13 +49,13 @@
     アニメではイラストや物語展開上では主人公であったものの、ゲームとは違いあまり活躍できなかった。
     後日談では、沙佳と恋人同士になっている。
   - 森崎 七央（もりさき なお）
-    声 - [長澤仁美](https://ja.wikipedia.org/wiki/長澤仁美 "wikilink") / [佐久間紅美](https://ja.wikipedia.org/wiki/佐久間紅美 "wikilink")
+    声 - [長澤仁美](https://ja.wikipedia.org/wiki/長澤仁美 "wikilink") / [佐久間紅美](../Page/佐久間紅美.md "wikilink")
     誕生日：10月19日。身長：161cm。スリーサイズ：B90/W60/H86。
-    中央士官学校予科4年。医療班に所属。ナイチンゲールへの憧れから看護師を志す。相澤兄弟の[幼馴染](https://ja.wikipedia.org/wiki/幼馴染 "wikilink")で秀平の恋人。ピンクの髪を持つ清楚な美少女。母性的・家庭的でお菓子作りが趣味(ただし編み物は苦手)。他人へは優しく親切に接する。真面目で努力家なしっかり者ではあるが、お嬢様育ちのためか、やや[天然ボケ](../Page/天然ボケ.md "wikilink")が入っている。
+    中央士官学校予科4年。医療班に所属。ナイチンゲールへの憧れから看護師を志す。相澤兄弟の[幼馴染](../Page/幼馴染.md "wikilink")で秀平の恋人。ピンクの髪を持つ清楚な美少女。母性的・家庭的でお菓子作りが趣味(ただし編み物は苦手)。他人へは優しく親切に接する。真面目で努力家なしっかり者ではあるが、お嬢様育ちのためか、やや[天然ボケ](../Page/天然ボケ.md "wikilink")が入っている。
     **スキュラ**化した秀平と交わった折、**ハーフ・スキュラ**の稲月ななみを産み落とす。ゲーム終盤になるまで、本人もそのことは知らなかった。
     後日談では、秀平と結婚してななみと3人で暮らしている。
   - 永瀬 沙佳（ながせ さやか）
-    声 - [豪徳寺愛子](https://ja.wikipedia.org/wiki/豪徳寺愛子 "wikilink") / [増田ゆき](https://ja.wikipedia.org/wiki/増田ゆき "wikilink")
+    声 - [豪徳寺愛子](https://ja.wikipedia.org/wiki/豪徳寺愛子 "wikilink") / [増田ゆき](../Page/増田ゆき.md "wikilink")
     誕生日：12月10日。身長：160cm。スリーサイズ：B83/W57/H81。
     中央士官学校予科3年。黒髪ロングの活発な美少女。積極的であり責任感が強い。他人への面倒見が良く周囲からの人望も厚い。予科では委員長を務めている。涼太に好意を持っている。
     乗り物マニアであり、将来は[パイロットを目指している](https://ja.wikipedia.org/wiki/パイロット_\(航空\) "wikilink")。既に大半の乗り物の操縦免許を取得済み。乗り物の運転にかけては天才的なセンスを持っているが、乗ったときには性格が変わる。
@@ -75,14 +75,14 @@
     後日談では、[媚薬](../Page/媚薬.md "wikilink")を使って涼太と沙佳の仲を進展させようとするも、誤って自分も飲んでしまい、3Pで処女喪失することに。
     アニメの最終話では、和彦がカレンと恋路の関係を抱いているのを見て彼女に兄を託す。
   - ユウ＝ヤマナミ
-    声 - [碧](https://ja.wikipedia.org/wiki/碧_\(声優\) "wikilink") / [嶋方淳子](https://ja.wikipedia.org/wiki/嶋方淳子 "wikilink")
+    声 - [碧](https://ja.wikipedia.org/wiki/碧_\(声優\) "wikilink") / [嶋方淳子](../Page/嶋方淳子.md "wikilink")
     誕生日：11月8日。身長：168cm。スリーサイズ：B89/W61/H86。
-    アリエスに取り残された民間人女性。緑色ロングの髪は後ろをゴムで縛って横[ポニーテール](https://ja.wikipedia.org/wiki/ポニーテール "wikilink")にしている。寡黙で冷静沈着だが他人との接触を嫌い、いつも単独行動を貫いている。異常なまでに落ち着き払っているので周囲からその素性を怪しまれている。
+    アリエスに取り残された民間人女性。緑色ロングの髪は後ろをゴムで縛って横[ポニーテール](../Page/ポニーテール.md "wikilink")にしている。寡黙で冷静沈着だが他人との接触を嫌い、いつも単独行動を貫いている。異常なまでに落ち着き払っているので周囲からその素性を怪しまれている。
     正体は、ハララクス内の別勢力に雇われた傭兵。その戦闘能力は高い。一時は秀平と対決するが、後に涼太や沙佳達のグループと行動を共にする仲間となる。
     単独行動を主に求めているうえに誰かに庇われるのを嫌い、意地っ張りな性格であり、カレンとはいつも口喧嘩をする。しかし本当は優しくてカレンのハイキックを庇い、倒れた涼太を看病する。
     アメリカ合衆国出身。貧しい母子家庭で育つ。自分の過去を話した涼太に、母親が自分をかばって死んだ事で自分が助けられるのが[トラウマ](https://ja.wikipedia.org/wiki/トラウマ "wikilink")である事が見抜かれてから、涼太に対してはさらに親しくなり、沙佳と親しく話していた時には嫉妬する感情が芽生える。
   - カレン＝タチバナ
-    声 - [倉田まりや](https://ja.wikipedia.org/wiki/倉田まりや "wikilink")（リメイク版のみ） / [庄子裕衣](https://ja.wikipedia.org/wiki/庄子裕衣 "wikilink")
+    声 - [倉田まりや](../Page/倉田まりや.md "wikilink")（リメイク版のみ） / [庄子裕衣](../Page/庄子裕衣.md "wikilink")
     誕生日：4月18日。身長：163cm。
     PS2版及びリメイク版で追加された新キャラクター。[南アメリカ大陸](../Page/南アメリカ大陸.md "wikilink")の出身だが[日系人](https://ja.wikipedia.org/wiki/日系人 "wikilink")の血を引いており、日本語が堪能。元々は正規の軍人であったが、現在はハララクスの一員\[5\]。戦闘能力は高く、勘も鋭い。ただし人情に弱いところがあり、そして若さゆえの暴走もある。
     面倒見が良く、ななみから預かっていたくーちゃんから親しまれている。
@@ -94,13 +94,13 @@
 ### サブキャラクター
 
   - 稲月 ななみ（いなつき ななみ）
-    声 - [まきいづみ](https://ja.wikipedia.org/wiki/まきいづみ "wikilink") / [柳瀬なつみ](https://ja.wikipedia.org/wiki/やなせなつみ "wikilink")
+    声 - [まきいづみ](../Page/まきいづみ.md "wikilink") / [柳瀬なつみ](../Page/やなせなつみ.md "wikilink")
     誕生日：1月1日。
     民間人の少女。いつも笑顔でいるムードメーカー。お菓子が大好きな食いしん坊。性格は外見同様に子供っぽいが、やたら物覚えが良く勘も鋭い。秀平と七央を強く慕っており、また涼太に好意を抱いている。
     実はスキュラ化した秀平と七央の間に生まれた子供で、人間と**スキュラ**（謎の液体生命体）の細胞を併せ持つ**ハーフ・スキュラ**。その情報吸収能力は目覚しいものがある。彼女の隠された能力（スキュラの弱点である[ガン](https://ja.wikipedia.org/wiki/ガン "wikilink")細胞の移植、スキュラ自身は因子がないため、発ガンしない）がセラリアには致命的なものとなる。アニメではシンからその秘密を聞かされてセラリアに触れるだけでそれを打ち倒す。
     後日談では、結婚した秀平・七央と共に3人で暮らしている。
   - 杉本 亜弥（すぎもと あや）
-    声 - [芹園みや](https://ja.wikipedia.org/wiki/芹園みや "wikilink")（PC版）、[芳田まり](https://ja.wikipedia.org/wiki/芳田まり "wikilink")（リメイク版） / [南條愛乃](https://ja.wikipedia.org/wiki/南條愛乃 "wikilink")
+    声 - [芹園みや](../Page/芹園みや.md "wikilink")（PC版）、[芳田まり](https://ja.wikipedia.org/wiki/芳田まり "wikilink")（リメイク版） / [南條愛乃](../Page/南條愛乃.md "wikilink")
     誕生日：8月29日。身長：155cm。
     アリエスに取り残された民間人。沙佳の親友。海外生活が長く、外国語学科のある学校に通っている。おとなしく内気で、将来の夢は花屋だという夢見がちな少女。ハララクスに拉致された彼女のことを沙佳は心配していた。5人組少年アイドルグループSNIPEの追っかけ。
     PC版では服の設定があるにも関わらず、裸の陵辱シーンしか出番がなかった。しかしPS2版では凌辱シーンがなくなり、英語しか話せないゲイルたちと日本語しか話せない捕虜たちとの間の通訳となっている。後にゲイルと行動を共にするようになり、第3章の準ヒロインに昇格する。リメイク版ではゲイルとのHシーンが追加された。
@@ -118,13 +118,13 @@
   - 森本 茂道（もりもと しげみち）
     声 - [長野勇](https://ja.wikipedia.org/wiki/長野勇 "wikilink") / [若本規夫](../Page/若本規夫.md "wikilink")
     誕生日：2月4日\[7\]。
-    アリエスの副責任者。自らを「ダンディ」と呼ぶ[ユーモア](https://ja.wikipedia.org/wiki/ユーモア "wikilink")のある男性。アリエス占拠時は、大人の男性として活躍する。一人暮らしが長いせいか、そこそこ料理が得意。趣味は、バイオリンと手品。
+    アリエスの副責任者。自らを「ダンディ」と呼ぶ[ユーモア](../Page/ユーモア.md "wikilink")のある男性。アリエス占拠時は、大人の男性として活躍する。一人暮らしが長いせいか、そこそこ料理が得意。趣味は、バイオリンと手品。
     [離婚](../Page/離婚.md "wikilink")した妻との間に娘（永瀬沙佳）がいる。
     ゲームではアリエス脱出時に調子の悪い作業機に乗っていた沙佳（沙佳ルートでは涼汰と共に）スキュラ・サーヴァント達から救う為に自分が劣りになって死んでしまうが、第三章でななみのハーフ・スキュラとしての力によって生き返り、秀平達と共に脱出をする。
     後日談では、ななみのパーティ開催時に娘の沙佳と親子の再会を果たす。
     アニメではスキュラ・サーヴァントから涼太や沙佳達を庇い撃たれ、涼汰に自分の娘を護って欲しいと頼み死亡する。
   - ゲイル＝ランティス
-    声 - [岡田浩司](https://ja.wikipedia.org/wiki/岡田浩司 "wikilink") / [長嶝高士](https://ja.wikipedia.org/wiki/長嶝高士 "wikilink")
+    声 - [岡田浩司](https://ja.wikipedia.org/wiki/岡田浩司 "wikilink") / [長嶝高士](../Page/長嶝高士.md "wikilink")
     誕生日：7月12日\[8\]。
     ハララクス実行部隊リーダーの男。実戦経験豊富なプロのテロリスト。口調が下品で気が短く、すぐ頭に血が上る。しかしその能力は高く、部下想いであるため、部下からは慕われている。PS2版では貧民街出身で、少年時代に貧困から弟達が衰弱死している。
     実は黒幕のセラリアに利用されたに過ぎなかった。PC版ではその生死について語られていないが、PS2版ではセラリアに占拠された後の行動について描かれている。
@@ -134,15 +134,15 @@
     声 - 岡田浩司 / 長嶝高士（ゲイルとの2役）
     [再生医学](../Page/再生医学.md "wikilink")の研究に携わる[教授](../Page/教授.md "wikilink")。秀平達の心強い味方。アリエスの外から、通信でサポートする。セラリア同様、優秀な研究者である。
   - クーちゃん
-    声 - 中華（PC版）、ようこ（リメイク版） / [安倍ようこ](https://ja.wikipedia.org/wiki/安倍ようこ "wikilink")
-    アリエス内で生まれ、従業員に飼われていたミニチュア[コーギー犬](https://ja.wikipedia.org/wiki/ウェルシュ・コーギー "wikilink")。宇宙へ行った犬・[クドリャフカから名づけられた](../Page/ライカ_\(犬\).md "wikilink")。アリエスで出会ったななみと仲良くなる。PC版で声を出しているのは[Navel](https://ja.wikipedia.org/wiki/Navel "wikilink")の[イラストレーター](../Page/イラストレーター.md "wikilink")である[西又葵](https://ja.wikipedia.org/wiki/西又葵 "wikilink")の飼い犬「中華」。
+    声 - 中華（PC版）、ようこ（リメイク版） / [安倍ようこ](../Page/安倍ようこ.md "wikilink")
+    アリエス内で生まれ、従業員に飼われていたミニチュア[コーギー犬](../Page/ウェルシュ・コーギー.md "wikilink")。宇宙へ行った犬・[クドリャフカから名づけられた](../Page/ライカ_\(犬\).md "wikilink")。アリエスで出会ったななみと仲良くなる。PC版で声を出しているのは[Navel](../Page/Navel.md "wikilink")の[イラストレーター](../Page/イラストレーター.md "wikilink")である[西又葵](../Page/西又葵.md "wikilink")の飼い犬「中華」。
     後日談では、秀平・七央・ななみ一家に飼われている。
     アニメの最終話では、セラリアに返り討ちにされようとするななみを助ける為に現われる。大きく吼え続けてセラリアに注意を自分に向けた事がきっかけでななみに勝機を与える大きな役目を果たした。
   - アリア
     声 - 芹園みや（リメイク版）
     リメイク版でのみ登場。ユウとは異なる組織に所属するスパイの少女。アリエスに潜入し、ゲイルの行動をサポートすることと、アリエス内の情報を組織の上層部に報告する任務を帯びていたが、その存在を危険視したセラリアによってロッカーに閉じこめられる。
   - セラリア＝マーカライト
-    声 - [岩間信子](https://ja.wikipedia.org/wiki/岩間信子 "wikilink") / [手塚ちはる](https://ja.wikipedia.org/wiki/手塚ちはる "wikilink")
+    声 - [岩間信子](https://ja.wikipedia.org/wiki/岩間信子 "wikilink") / [手塚ちはる](../Page/手塚ちはる.md "wikilink")
     誕生日：11月4日。身長：171cm。スリーサイズ：B98/W63/H93。
     中央士官学校の女性教官。合衆国国籍の軍人であるが、「特別交流プログラム」制度によって招かれた臨時講師であり、予科では英語、機械技術、特別演習を教えている。眼鏡をかけた冷静な姿はクールに見えるが情熱家である。
     実はハララクスによるアリエス占拠事件の黒幕で、不老不死の肉体を持つ**パーフェクト・スキュラ**。優しく貞淑な顔は見せかけで、本性は冷酷非情で淫乱な[サディスト](https://ja.wikipedia.org/wiki/サディスト "wikilink")。ハララクスとは一時的な協力関係を結んでいるに過ぎず、彼女がゲイルらを利用しているにすぎない。自らのスキュラ細胞を他の生物に移し、自由に操ることができる。このスキュラはサーバント（下僕）とマリオネット（操り人形）の2種類が存在し、マリオネットは完全な彼女の支配下である。本性を現すと、眼鏡を外し、髪を伸ばした姿になる。また、士官学校の制服の下には、ボンテージ風の衣装を着込んでいる。
@@ -171,13 +171,13 @@
 
 ## ゲーム・スタッフ
 
-  - 制作 - [Navel](https://ja.wikipedia.org/wiki/Navel "wikilink")
+  - 制作 - [Navel](../Page/Navel.md "wikilink")
   - 企画・脚本 - 藤海琢樹
   - キャラクターデザイン・原画 - [鈴平ひろ](https://ja.wikipedia.org/wiki/鈴平ひろ "wikilink")
   - CG監修・背景監修：斉藤陽子
   - 音楽 - [アッチョリケ](https://ja.wikipedia.org/wiki/アッチョリケ "wikilink")
   - 背景美術 - [草薙](https://ja.wikipedia.org/wiki/草薙_\(アニメ制作会社\) "wikilink")
-  - オープニングムービー - tsukune.（[Iris motion graphics](https://ja.wikipedia.org/wiki/Iris_motion_graphics "wikilink")）（PC版）、[RMG](https://ja.wikipedia.org/wiki/Rainbow-Motion-Graphics "wikilink")（リメイク版）
+  - オープニングムービー - tsukune.（[Iris motion graphics](../Page/Iris_motion_graphics.md "wikilink")）（PC版）、[RMG](../Page/Rainbow-Motion-Graphics.md "wikilink")（リメイク版）
 
 ## 主題歌
 
@@ -195,11 +195,11 @@
         作詞・作曲 - 橋本みゆき / 編曲 - [鈴木マサキ](https://ja.wikipedia.org/wiki/鈴木マサキ "wikilink") / 歌 - 橋本みゆき
   - PCリメイク版オープニングテーマ「**[Defy Gravity（Not Found 2010）](https://ja.wikipedia.org/wiki/Cross_Illusion "wikilink")**」\[9\]
       -
-        作詞 - 藤海琢樹 / 作曲 - アッチョリケ / 編曲 - [Blasterhead](https://ja.wikipedia.org/wiki/Blasterhead "wikilink") / 歌 - [美郷あき](https://ja.wikipedia.org/wiki/美郷あき "wikilink")
+        作詞 - 藤海琢樹 / 作曲 - アッチョリケ / 編曲 - [Blasterhead](../Page/Blasterhead.md "wikilink") / 歌 - [美郷あき](../Page/美郷あき.md "wikilink")
 
 ## アニメ
 
-2006年4月から6月まで、[AT-X](../Page/アニメシアターX.md "wikilink")・[チバテレビ](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink")・[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")・[tvk](../Page/テレビ神奈川.md "wikilink")・[三重テレビ](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")・[KBS京都で放送された](../Page/京都放送.md "wikilink")（全12話+特別編）。
+2006年4月から6月まで、[AT-X](../Page/アニメシアターX.md "wikilink")・[チバテレビ](../Page/千葉テレビ放送.md "wikilink")・[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")・[tvk](../Page/テレビ神奈川.md "wikilink")・[三重テレビ](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")・[KBS京都で放送された](../Page/京都放送.md "wikilink")（全12話+特別編）。
 
 なおAT-Xでは第3話より15歳未満視聴制限をかけ、地上波各局とは違うバージョンが放送されている。また2006年12月からの再放送は「ディレクターズ・カット版」と銘打たれ、視聴制限も第1話からに変更された。
 
@@ -217,7 +217,7 @@
   - 音楽プロデューサー - 伊藤善之
   - 音楽制作 - [Mellow Head](https://ja.wikipedia.org/wiki/Mellow_Head "wikilink")
   - 音響監督 - [飯田里樹](https://ja.wikipedia.org/wiki/飯田里樹 "wikilink")
-  - エグゼクティブ プロデューサー - 赤松智、[川村明廣](https://ja.wikipedia.org/wiki/川村明廣 "wikilink")、中村直樹、[井上俊次](https://ja.wikipedia.org/wiki/井上俊次 "wikilink")、武村哲司
+  - エグゼクティブ プロデューサー - 赤松智、[川村明廣](https://ja.wikipedia.org/wiki/川村明廣 "wikilink")、中村直樹、[井上俊次](../Page/井上俊次.md "wikilink")、武村哲司
   - プロデューサー - 石塚治寿、井出美恵、山崎明日香、櫻井優香、田所達也
   - 制作プロデューサー - 佐久間敏郎、三上孝一
   - アニメーション制作 - [ピクチャーマジック](../Page/ピクチャーマジック.md "wikilink")
@@ -371,9 +371,9 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/千葉県" title="wikilink">千葉県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/千葉テレビ放送" title="wikilink">ちばテレビ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/4月1日.md" title="wikilink">4月1日</a> -</p></td>
+<td><p><a href="../Page/千葉県.md" title="wikilink">千葉県</a></p></td>
+<td><p><a href="../Page/千葉テレビ放送.md" title="wikilink">ちばテレビ</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/4月1日.md" title="wikilink">4月1日</a> -</p></td>
 <td><p>土曜 25:35 - 26:05</p></td>
 <td><p><a href="../Page/全国独立放送協議会.md" title="wikilink">独立UHF局</a></p></td>
 <td></td>
@@ -388,7 +388,7 @@
 リピート放送あり</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/埼玉県" title="wikilink">埼玉県</a></p></td>
+<td><p><a href="../Page/埼玉県.md" title="wikilink">埼玉県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/テレビ埼玉" title="wikilink">テレ玉</a></p></td>
 <td><p>2006年<a href="../Page/4月6日.md" title="wikilink">4月6日</a> -</p></td>
 <td><p>木曜 25:30 - 26:00</p></td>
@@ -396,7 +396,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/京都府" title="wikilink">京都府</a></p></td>
+<td><p><a href="../Page/京都府.md" title="wikilink">京都府</a></p></td>
 <td><p><a href="../Page/京都放送.md" title="wikilink">KBS京都</a></p></td>
 <td></td>
 <td></td>
@@ -426,7 +426,7 @@
 
 ### CD
 
-[ランティス](https://ja.wikipedia.org/wiki/ランティス "wikilink")（オンザラン含む）より発売
+[ランティス](../Page/ランティス.md "wikilink")（オンザラン含む）より発売
 
   - Soul Link オリジナルサウンドトラック
       -
@@ -493,10 +493,10 @@
       - 下巻 2005年7月15日発売 ISBN 4-86133-049-1
           -
             [ソフトガレージ](https://ja.wikipedia.org/wiki/ソフトガレージ "wikilink")刊 著：神尾丈治
-            Navel原作の[ジュブナイルポルノ](https://ja.wikipedia.org/wiki/ジュブナイルポルノ "wikilink")は本作のみ。
+            Navel原作の[ジュブナイルポルノ](../Page/ジュブナイルポルノ.md "wikilink")は本作のみ。
   - Soul Linkアンソロジーノベル（JIVE CHARACTER NOVELS）
       -
-        [ジャイブ](https://ja.wikipedia.org/wiki/ジャイブ "wikilink")刊 2005年7月25日発売 ISBN 4-86176-167-0
+        [ジャイブ](../Page/ジャイブ.md "wikilink")刊 2005年7月25日発売 ISBN 4-86176-167-0
 
 ### コミックス
 
@@ -504,10 +504,10 @@
       -
         全1巻 2006年4月10日発売 ISBN 4-04-713809-6
         [角川書店](../Page/角川書店.md "wikilink")刊 原作：Navel 著：今ノ夜きよし
-        「[コンプエース](https://ja.wikipedia.org/wiki/月刊コンプエース "wikilink")」Vol.1（2005年3月）からVol.3（2005年9月）まで連載。第1章のストーリーが中心。
+        「[コンプエース](../Page/月刊コンプエース.md "wikilink")」Vol.1（2005年3月）からVol.3（2005年9月）まで連載。第1章のストーリーが中心。
   - Soul Link（ミッシィコミックス）
       -
-        [宙出版](https://ja.wikipedia.org/wiki/宙出版 "wikilink")刊 2005年5月24日発売 ISBN 4-7767-1620-8
+        [宙出版](../Page/宙出版.md "wikilink")刊 2005年5月24日発売 ISBN 4-7767-1620-8
         アンソロジーコミック。
 
 ### その他書籍
@@ -518,12 +518,12 @@
         キャラクター紹介、設定原画・線画、スタッフインタビュー、書き下ろし小説が収録されている。表紙は七央、沙佳。
   - Soul Link プレミアムファンブック
       -
-        [宙出版](https://ja.wikipedia.org/wiki/宙出版 "wikilink")刊 2005年6月7日発売 ISBN 4-7767-9179-X
+        [宙出版](../Page/宙出版.md "wikilink")刊 2005年6月7日発売 ISBN 4-7767-9179-X
         キャラクター紹介、全ストーリー、イベントCG、販促イラスト、スタッフインタビュー、イベントラフ資料集が収録されている。表紙は七央、沙佳、亜希。
 
 ## 関連項目
 
-  - [ねぶら](https://ja.wikipedia.org/wiki/ねぶら "wikilink")
+  - [ねぶら](../Page/ねぶら.md "wikilink")
   - [ね〜PON?×らいPON\!](https://ja.wikipedia.org/wiki/ね〜PON?×らいPON! "wikilink")：ゲームクリアの特典の1つとして本作の後日談シナリオが収録されている。
 
 ## 脚注

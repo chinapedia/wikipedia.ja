@@ -19,7 +19,7 @@
 
 ### 野外観測を行う分野
 
-[地球科学](../Page/地球科学.md "wikilink")、[土木工学](../Page/土木工学.md "wikilink")など野外で観測や測定あるいは採集を行う分野では、現場にある状態、あるいは現場で実際に観測や測定を行うことを  と呼ぶ。「実験室内・収蔵庫内」「遠隔探査（[リモートセンシング](https://ja.wikipedia.org/wiki/リモートセンシング "wikilink")）」「計算上・理論上」などに対立する概念である。
+[地球科学](../Page/地球科学.md "wikilink")、[土木工学](../Page/土木工学.md "wikilink")など野外で観測や測定あるいは採集を行う分野では、現場にある状態、あるいは現場で実際に観測や測定を行うことを  と呼ぶ。「実験室内・収蔵庫内」「遠隔探査（[リモートセンシング](../Page/リモートセンシング.md "wikilink")）」「計算上・理論上」などに対立する概念である。
 
 ### 言語学
 
@@ -57,7 +57,7 @@
 
   - In situを命名に使用した物
 
-:\*[レーシック](https://ja.wikipedia.org/wiki/レーシック "wikilink")(正式名称:LASER(-assisted) in situ κερατόμῑλευσις(keratomileusis)) - laserを用いた眼科手術。
+:\*[レーシック](../Page/レーシック.md "wikilink")(正式名称:LASER(-assisted) in situ κερατόμῑλευσις(keratomileusis)) - laserを用いた眼科手術。
 
 :\*[インシチュリーチング](https://ja.wikipedia.org/wiki/インシチュリーチング "wikilink") - 鉱脈にパイプを通し溶媒を流し込み、鉱物が溶けた貴液を吸い出す採掘法
 

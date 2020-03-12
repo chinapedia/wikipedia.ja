@@ -1,11 +1,11 @@
 > この記事は[P](https://ja.wikipedia.org/wiki/P)から翻訳されています。
 
 
-**ホルスト・P・ホルスト**（**Horst P. Horst**, **Horst Paul Albert Bohrmann**, [1906年](../Page/1906年.md "wikilink")[8月14日](../Page/8月14日.md "wikilink") - [1999年](../Page/1999年.md "wikilink")[11月19日](../Page/11月19日.md "wikilink")）は、戦間期[ファッション写真](https://ja.wikipedia.org/wiki/ファッション写真 "wikilink")の完成者。[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")出身で、のち[アメリカで活躍した](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。雑誌『[ヴォーグ](https://ja.wikipedia.org/wiki/ヴォーグ_\(雑誌\) "wikilink")』などでの活躍で知られる。第一流のモデルを完璧に構成されたスタジオで撮影するというスタイルを完成させた。
+**ホルスト・P・ホルスト**（**Horst P. Horst**, **Horst Paul Albert Bohrmann**, [1906年](../Page/1906年.md "wikilink")[8月14日](../Page/8月14日.md "wikilink") - [1999年](../Page/1999年.md "wikilink")[11月19日](../Page/11月19日.md "wikilink")）は、戦間期[ファッション写真](../Page/ファッション写真.md "wikilink")の完成者。[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")出身で、のち[アメリカで活躍した](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。雑誌『[ヴォーグ](../Page/ヴォーグ_\(雑誌\).md "wikilink")』などでの活躍で知られる。第一流のモデルを完璧に構成されたスタジオで撮影するというスタイルを完成させた。
 
 ハンブルクの学校や[ル・コルビュジエ](../Page/ル・コルビュジエ.md "wikilink")の事務所で建築を学んだ経験がある。一方で、写真についての教育を受けた経験はない。
 
-また、[ジョージ・ホイニンゲン＝ヒューン](https://ja.wikipedia.org/wiki/ジョージ・ホイニンゲン＝ヒューン "wikilink")とは、写真家のデビューのきっかけを与えられたということもあり、のちのちまで交流を続けることになる。
+また、[ジョージ・ホイニンゲン＝ヒューン](../Page/ジョージ・ホイニンゲン＝ヒューン.md "wikilink")とは、写真家のデビューのきっかけを与えられたということもあり、のちのちまで交流を続けることになる。
 
 戦後も写真家として活躍した。
 

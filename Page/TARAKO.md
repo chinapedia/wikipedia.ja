@@ -1,35 +1,35 @@
 > この記事は[TARAKO](https://ja.wikipedia.org/wiki/TARAKO)から翻訳されています。
 
 
-**TARAKO**（たらこ、[1960年](../Page/1960年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[声優](../Page/声優.md "wikilink")、[ナレーター](https://ja.wikipedia.org/wiki/ナレーター "wikilink")、[女優](../Page/俳優.md "wikilink")、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")、[脚本家](../Page/脚本家.md "wikilink")。[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")[太田市](https://ja.wikipedia.org/wiki/太田市 "wikilink")出身。[トルバドール音楽事務所](https://ja.wikipedia.org/wiki/トルバドール音楽事務所 "wikilink")所属。
+**TARAKO**（たらこ、[1960年](../Page/1960年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[声優](../Page/声優.md "wikilink")、[ナレーター](https://ja.wikipedia.org/wiki/ナレーター "wikilink")、[女優](../Page/俳優.md "wikilink")、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")、[脚本家](../Page/脚本家.md "wikilink")。[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")[太田市](../Page/太田市.md "wikilink")出身。[トルバドール音楽事務所](../Page/トルバドール音楽事務所.md "wikilink")所属。
 
 ## 経歴
 
-[群馬県立太田女子高等学校](https://ja.wikipedia.org/wiki/群馬県立太田女子高等学校 "wikilink")卒業。
+[群馬県立太田女子高等学校](../Page/群馬県立太田女子高等学校.md "wikilink")卒業。
 
-声優デビューは[1981年](https://ja.wikipedia.org/wiki/1981年 "wikilink")、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[うる星やつら](https://ja.wikipedia.org/wiki/うる星やつら_\(アニメ\) "wikilink")』で演じた幼稚園児役。同アニメのヒロイン・ラム役の[オーディション](https://ja.wikipedia.org/wiki/オーディション "wikilink")を受けるも落選。ただその際に、その特徴ある声がスタッフに気に入られ、ほぼ毎回脇役として出演していた。
+声優デビューは[1981年](../Page/1981年.md "wikilink")、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[うる星やつら](https://ja.wikipedia.org/wiki/うる星やつら_\(アニメ\) "wikilink")』で演じた幼稚園児役。同アニメのヒロイン・ラム役の[オーディション](../Page/オーディション.md "wikilink")を受けるも落選。ただその際に、その特徴ある声がスタッフに気に入られ、ほぼ毎回脇役として出演していた。
 
-[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")からは、『[ちびまる子ちゃん](https://ja.wikipedia.org/wiki/ちびまる子ちゃん#アニメ "wikilink")』で主人公・まる子役を担当。同作品が人気作になったこともあり、知名度を上げ[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")の[司会](https://ja.wikipedia.org/wiki/司会 "wikilink")としても活動。ナレーションの仕事も数多くこなしている。
+[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")からは、『[ちびまる子ちゃん](https://ja.wikipedia.org/wiki/ちびまる子ちゃん#アニメ "wikilink")』で主人公・まる子役を担当。同作品が人気作になったこともあり、知名度を上げ[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")の[司会](../Page/司会.md "wikilink")としても活動。ナレーションの仕事も数多くこなしている。
 
-シンガーソングライターとしてのデビューは、1983年に発表したLPアルバム「とっておきの瞬間」\[1\]。一時は[ビーイング](https://ja.wikipedia.org/wiki/ビーイング "wikilink")のプロデュース下だったという時代もある。その関係で[沢田聖子](https://ja.wikipedia.org/wiki/沢田聖子 "wikilink")と友人になり、彼女が木曜の[パーソナリティを務めていたラジオ番組](../Page/ラジオパーソナリティ.md "wikilink")『[はいぱぁナイト](../Page/はいぱぁナイト.md "wikilink")』（[KBS京都](https://ja.wikipedia.org/wiki/京都放送 "wikilink")）にてたびたびゲストで出演しては彼女と2人で「かしまし漫才」ばりのトークを展開していた。
+シンガーソングライターとしてのデビューは、1983年に発表したLPアルバム「とっておきの瞬間」\[1\]。一時は[ビーイング](../Page/ビーイング.md "wikilink")のプロデュース下だったという時代もある。その関係で[沢田聖子](../Page/沢田聖子.md "wikilink")と友人になり、彼女が木曜の[パーソナリティを務めていたラジオ番組](../Page/ラジオパーソナリティ.md "wikilink")『[はいぱぁナイト](../Page/はいぱぁナイト.md "wikilink")』（[KBS京都](../Page/京都放送.md "wikilink")）にてたびたびゲストで出演しては彼女と2人で「かしまし漫才」ばりのトークを展開していた。
 
-演劇集団WAKUを主宰し、[舞台](../Page/舞台.md "wikilink")の作・[演出](https://ja.wikipedia.org/wiki/演出 "wikilink")・出演も数多く手掛けている。
+演劇集団WAKUを主宰し、[舞台](../Page/舞台.md "wikilink")の作・[演出](../Page/演出.md "wikilink")・出演も数多く手掛けている。
 
 ## 特色
 
-活発で幼い子供の役が多いが、『[HUNTER×HUNTER](https://ja.wikipedia.org/wiki/HUNTER×HUNTER_\(1999年のアニメ\) "wikilink")』のセンリツ、『[ノワール](https://ja.wikipedia.org/wiki/ノワール_\(アニメ\) "wikilink")』のアルテナのような落ち着いた大人の女性の役もこなす。
+活発で幼い子供の役が多いが、『[HUNTER×HUNTER](https://ja.wikipedia.org/wiki/HUNTER×HUNTER_\(1999年のアニメ\) "wikilink")』のセンリツ、『[ノワール](../Page/ノワール_\(アニメ\).md "wikilink")』のアルテナのような落ち着いた大人の女性の役もこなす。
 
 ## 人物・エピソード
 
-[芸名](https://ja.wikipedia.org/wiki/芸名 "wikilink")は、学生時代、『[サザエさん](https://ja.wikipedia.org/wiki/サザエさん "wikilink")』の息子のフグ田タラオ（タラちゃん）のようなしゃべり方だったために友人から付けられたニックネーム「タラ子（『**タラ**』に女の**子**から）」に由来する。これをローマ字表記にし、芸名とした。ルビについては[片仮名](../Page/片仮名.md "wikilink")標記で行われる場合もあるが(主に新聞のテレビ欄で行われる)、事務所の公式プロフィールでは[平仮名](../Page/平仮名.md "wikilink")表記であり本稿でもそれに従っている。また、『[しぜんとあそぼ](https://ja.wikipedia.org/wiki/しぜんとあそぼ "wikilink")』出演時には**たらこ**と平仮名表記で紹介された。
+[芸名](../Page/芸名.md "wikilink")は、学生時代、『[サザエさん](../Page/サザエさん.md "wikilink")』の息子のフグ田タラオ（タラちゃん）のようなしゃべり方だったために友人から付けられたニックネーム「タラ子（『**タラ**』に女の**子**から）」に由来する。これをローマ字表記にし、芸名とした。ルビについては[片仮名](../Page/片仮名.md "wikilink")標記で行われる場合もあるが(主に新聞のテレビ欄で行われる)、事務所の公式プロフィールでは[平仮名](../Page/平仮名.md "wikilink")表記であり本稿でもそれに従っている。また、『[しぜんとあそぼ](../Page/しぜんとあそぼ.md "wikilink")』出演時には**たらこ**と平仮名表記で紹介された。
 
-『ちびまる子ちゃん』の[オーディション](https://ja.wikipedia.org/wiki/オーディション "wikilink")で主役であるまる子に選ばれたのは、TARAKOの声が原作者のさくらももこの声とそっくりだったためである。また、TARAKO自身も同アニメで脚本を担当したこともある。
+『ちびまる子ちゃん』の[オーディション](../Page/オーディション.md "wikilink")で主役であるまる子に選ばれたのは、TARAKOの声が原作者のさくらももこの声とそっくりだったためである。また、TARAKO自身も同アニメで脚本を担当したこともある。
 
 歌手の[イルカにも声がそっくりである](https://ja.wikipedia.org/wiki/イルカ_\(歌手\) "wikilink")。それが縁で同作のエンディングテーマ『針切りじいさんのロケンロール』（歌・[植木等](https://ja.wikipedia.org/wiki/植木等 "wikilink")）で共にコーラス担当した。
 
 [1988年](../Page/1988年.md "wikilink")の夏に、[名古屋](../Page/名古屋.md "wikilink")でライブを終えた後にファンの女性スタッフから差し入れとして好物の生[タラコ](https://ja.wikipedia.org/wiki/タラコ "wikilink")の[おにぎり](https://ja.wikipedia.org/wiki/おにぎり "wikilink")をもらい、宿泊先のホテルで就寝前に夜食として食べた後の深夜、[食あたりを訴えて入院した事があった](https://ja.wikipedia.org/wiki/食中毒 "wikilink")\[2\]。翌日に退院したが、歌が歌える程度には回復しておらず、ライブは急遽トークショーに変更された\[3\]。半年後に同じライブハウスで女性スタッフと再会するも食あたりのことは言えなかった\[4\]。このエピソードは『[トリビアの泉 〜素晴らしきムダ知識〜](../Page/トリビアの泉_〜素晴らしきムダ知識〜.md "wikilink")』で取り上げられ、『ちびまる子ちゃん』スタッフが製作したアニメによって紹介され、TARAKOが本人役で出演している\[5\]。
 
-[趣味](https://ja.wikipedia.org/wiki/趣味 "wikilink")は[作詩](https://ja.wikipedia.org/wiki/作詩 "wikilink")、[空](https://ja.wikipedia.org/wiki/空 "wikilink")を見ること\[6\]。
+[趣味](https://ja.wikipedia.org/wiki/趣味 "wikilink")は[作詩](https://ja.wikipedia.org/wiki/作詩 "wikilink")、[空](../Page/空.md "wikilink")を見ること\[6\]。
 
 ## 出演
 
@@ -47,91 +47,91 @@
 
 ### 吹き替え
 
-  - [原始家族フリントストーン](https://ja.wikipedia.org/wiki/原始家族フリントストーン "wikilink")（バンバン）
-  - [ゴーストバスターズ2](https://ja.wikipedia.org/wiki/ゴーストバスターズ2 "wikilink")（ジャニーン・メルニッツ〈[アニー・ポッツ](https://ja.wikipedia.org/wiki/アニー・ポッツ "wikilink")〉）※フジテレビ版（日本語吹替完全収録版Blu-ray BOX収録）
+  - [原始家族フリントストーン](../Page/原始家族フリントストーン.md "wikilink")（バンバン）
+  - [ゴーストバスターズ2](../Page/ゴーストバスターズ2.md "wikilink")（ジャニーン・メルニッツ〈[アニー・ポッツ](../Page/アニー・ポッツ.md "wikilink")〉）※フジテレビ版（日本語吹替完全収録版Blu-ray BOX収録）
   - [ネバーエンディング・ストーリー3](https://ja.wikipedia.org/wiki/ネバーエンディング・ストーリー#ネバーエンディング・ストーリー3 "wikilink")（ジュニア）※ソフト版
 
 ### CD
 
-  - CDドラマ [英雄伝説III 〜白き魔女〜「わかたれた湖」](https://ja.wikipedia.org/wiki/英雄伝説III_白き魔女 "wikilink")（バンバン）
-  - CDドラマ [風の伝説ザナドゥ ヒロイン達の誕生日](https://ja.wikipedia.org/wiki/風の伝説ザナドゥ "wikilink")II（クルル）
+  - CDドラマ [英雄伝説III 〜白き魔女〜「わかたれた湖」](../Page/英雄伝説III_白き魔女.md "wikilink")（バンバン）
+  - CDドラマ [風の伝説ザナドゥ ヒロイン達の誕生日](../Page/風の伝説ザナドゥ.md "wikilink")II（クルル）
   - CDドラマ TARAKOぱっぱらパラダイス（TARAKOねーさん、クルル、ナイル、バンバン、おばーさん）
   - ボーカルソング集 Noir blanc dans NOIR 〜黒の中の白〜 Disk1（アルテナ）
-  - [ぽっぷるメイル](https://ja.wikipedia.org/wiki/ぽっぷるメイル "wikilink")パラダイス4、ぽっぷるメイルパラダイス5（ナイル）
-  - [Falcom](https://ja.wikipedia.org/wiki/日本ファルコム "wikilink") Vocal Collection IV (“STAND UP” “ONLY ONE” ボーカル）
+  - [ぽっぷるメイル](../Page/ぽっぷるメイル.md "wikilink")パラダイス4、ぽっぷるメイルパラダイス5（ナイル）
+  - [Falcom](../Page/日本ファルコム.md "wikilink") Vocal Collection IV (“STAND UP” “ONLY ONE” ボーカル）
 
 ### ラジオ
 
 ※は[インターネット配信](../Page/インターネットラジオ.md "wikilink")。
 
-  - TARAKOファルコムぴーヒャララ（[TBSラジオ](https://ja.wikipedia.org/wiki/TBSラジオ "wikilink")）
-  - [MOONLIGHT 抱きしめて\!\!](https://ja.wikipedia.org/wiki/MOONLIGHT_抱きしめて!! "wikilink")（[文化放送](https://ja.wikipedia.org/wiki/文化放送 "wikilink") [花王](https://ja.wikipedia.org/wiki/花王 "wikilink")提供、月 - 金 23:00 - 23:30、1991年4月 - 同年9月） - 案内役
+  - TARAKOファルコムぴーヒャララ（[TBSラジオ](../Page/TBSラジオ.md "wikilink")）
+  - [MOONLIGHT 抱きしめて\!\!](https://ja.wikipedia.org/wiki/MOONLIGHT_抱きしめて!! "wikilink")（[文化放送](../Page/文化放送.md "wikilink") [花王](../Page/花王.md "wikilink")提供、月 - 金 23:00 - 23:30、1991年4月 - 同年9月） - 案内役
   - TARAKOアイランド（地方局向け）
-  - [さくらももこ](../Page/さくらももこ.md "wikilink")の[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")（1992年1月 、[ニッポン放送](https://ja.wikipedia.org/wiki/ニッポン放送 "wikilink")）ゲスト
+  - [さくらももこ](../Page/さくらももこ.md "wikilink")の[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")（1992年1月 、[ニッポン放送](../Page/ニッポン放送.md "wikilink")）ゲスト
 
 ### CM
 
-  - [まる子登場](https://ja.wikipedia.org/wiki/ちびまる子ちゃん "wikilink")
-      - [丸美屋](https://ja.wikipedia.org/wiki/丸美屋 "wikilink") 「ちびまる子ちゃんカレー」
-      - [ポッカコーポレーション](https://ja.wikipedia.org/wiki/ポッカサッポロフード&ビバレッジ "wikilink") 「つぶコーンスープ」
-      - [サニックス](https://ja.wikipedia.org/wiki/サニックス "wikilink")
-      - [東洋水産](https://ja.wikipedia.org/wiki/東洋水産 "wikilink") 「マルちゃんラーメン」
+  - [まる子登場](../Page/ちびまる子ちゃん.md "wikilink")
+      - [丸美屋](../Page/丸美屋.md "wikilink") 「ちびまる子ちゃんカレー」
+      - [ポッカコーポレーション](../Page/ポッカサッポロフード&ビバレッジ.md "wikilink") 「つぶコーンスープ」
+      - [サニックス](../Page/サニックス.md "wikilink")
+      - [東洋水産](../Page/東洋水産.md "wikilink") 「マルちゃんラーメン」
       - [森永製菓](https://ja.wikipedia.org/wiki/森永製菓 "wikilink")「ミルクココア」
       - [ミツウロコ](https://ja.wikipedia.org/wiki/ミツウロコ "wikilink")
-      - [エーザイ](https://ja.wikipedia.org/wiki/エーザイ "wikilink")・[ファイザー](https://ja.wikipedia.org/wiki/ファイザー "wikilink") 「認知症あんないダイヤル」
-      - [アニマックス](https://ja.wikipedia.org/wiki/アニマックス "wikilink")・ちびまる子ちゃんCM
+      - [エーザイ](../Page/エーザイ.md "wikilink")・[ファイザー](../Page/ファイザー.md "wikilink") 「認知症あんないダイヤル」
+      - [アニマックス](../Page/アニマックス.md "wikilink")・ちびまる子ちゃんCM
       - [宝くじ](https://ja.wikipedia.org/wiki/宝くじ "wikilink") 「ちびまる子ちゃんスクラッチ」
       - [ケーズデンキ](https://ja.wikipedia.org/wiki/ケーズホールディングス "wikilink")
   - 川鉄システム開発 - 本人が登場、BGMに「あなたが大好き」が流れた
   - [セゾンカード](https://ja.wikipedia.org/wiki/セゾンカード "wikilink")
   - [アルネットホーム](https://ja.wikipedia.org/wiki/アルネットホーム "wikilink") (FM NACK5) ナレーション
-  - [キャッスルボウル](https://ja.wikipedia.org/wiki/キャッスルボウル "wikilink")（[中京広域圏ローカル](https://ja.wikipedia.org/wiki/広域放送 "wikilink")）1994年放送のバージョンで、歌が起用された
-  - [セイコーエプソン](https://ja.wikipedia.org/wiki/セイコーエプソン "wikilink")・[カラリオ](https://ja.wikipedia.org/wiki/カラリオ "wikilink") - ナレーション
-  - [セガトイズ](https://ja.wikipedia.org/wiki/セガトイズ "wikilink")・ズーズーペット（2010年）
-  - [ディズニー](https://ja.wikipedia.org/wiki/ウォルト・ディズニー・カンパニー "wikilink")・[ピクサー](https://ja.wikipedia.org/wiki/ピクサー・アニメーション・スタジオ "wikilink") 「[Mr.インクレディブル](https://ja.wikipedia.org/wiki/Mr.インクレディブル "wikilink")」 - ナレーション
+  - [キャッスルボウル](https://ja.wikipedia.org/wiki/キャッスルボウル "wikilink")（[中京広域圏ローカル](../Page/広域放送.md "wikilink")）1994年放送のバージョンで、歌が起用された
+  - [セイコーエプソン](../Page/セイコーエプソン.md "wikilink")・[カラリオ](../Page/カラリオ.md "wikilink") - ナレーション
+  - [セガトイズ](../Page/セガトイズ.md "wikilink")・ズーズーペット（2010年）
+  - [ディズニー](../Page/ウォルト・ディズニー・カンパニー.md "wikilink")・[ピクサー](https://ja.wikipedia.org/wiki/ピクサー・アニメーション・スタジオ "wikilink") 「[Mr.インクレディブル](../Page/Mr.インクレディブル.md "wikilink")」 - ナレーション
   - ディズニー・ピクサー 「[レミーのおいしいレストラン](https://ja.wikipedia.org/wiki/レミーのおいしいレストラン "wikilink")」 - ナレーション
-  - [日本自動車工業会](https://ja.wikipedia.org/wiki/日本自動車工業会 "wikilink")・安全運転啓発ラジオCM - ナレーション
-  - [日本広告審査機構](https://ja.wikipedia.org/wiki/日本広告審査機構 "wikilink") - ナレーション
-  - 公共広告機構（現：[ACジャパン](https://ja.wikipedia.org/wiki/ACジャパン "wikilink")） - 海の男たちは、山の男たちになった（2004年、九州地区限定） - ナレーション
+  - [日本自動車工業会](../Page/日本自動車工業会.md "wikilink")・安全運転啓発ラジオCM - ナレーション
+  - [日本広告審査機構](../Page/日本広告審査機構.md "wikilink") - ナレーション
+  - 公共広告機構（現：[ACジャパン](../Page/ACジャパン.md "wikilink")） - 海の男たちは、山の男たちになった（2004年、九州地区限定） - ナレーション
   - [バンダイ](../Page/バンダイ.md "wikilink")・まじかる☆タルるートくん玩具 - ナレーション
-  - [ルタオ](https://ja.wikipedia.org/wiki/ルタオ "wikilink")・ドゥーブルフロマージュ（フジテレビでのみ放映） - ナレーション
+  - [ルタオ](../Page/ルタオ.md "wikilink")・ドゥーブルフロマージュ（フジテレビでのみ放映） - ナレーション
   - ディズニー・ピクサー 「[カーズ2](https://ja.wikipedia.org/wiki/カーズ2 "wikilink")」ブルーレイ\&DVD発売 - ナレーション
-  - [武田薬品工業](https://ja.wikipedia.org/wiki/武田薬品工業 "wikilink") 「ベンザエース カプレット」 - 歌
+  - [武田薬品工業](../Page/武田薬品工業.md "wikilink") 「ベンザエース カプレット」 - 歌
   - [明治乳業](https://ja.wikipedia.org/wiki/明治乳業 "wikilink") 「ブルガリア のむヨーグルト」と〜ろりんつぶつぶ篇 - 歌
   - [ヤヨイ化学工業](https://ja.wikipedia.org/wiki/ヤヨイ化学工業 "wikilink") 「壁紙川柳」「インテリア川柳」ナレーション
   - TOYAMAハッピーライフキャンペーン2015-キャラクター吹替
 
 ### ナレーション
 
-  - [イキだね\!わたしの東京時間](https://ja.wikipedia.org/wiki/イキだね!わたしの東京時間 "wikilink")（2010年4月2日 - 9月24日、[NHK総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")）
-  - [イチオシ\!2泊3日の旅](https://ja.wikipedia.org/wiki/イチオシ!2泊3日の旅 "wikilink")（2014年4月 - 9月、[BS日テレ](https://ja.wikipedia.org/wiki/BS日本 "wikilink")）おしゃべり
-  - [おこめ](https://ja.wikipedia.org/wiki/おこめ_\(学校放送\) "wikilink")（2001年4月12日 - 2009年3月11日、[NHK教育](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")）
-  - [しぜんとあそぼ](https://ja.wikipedia.org/wiki/しぜんとあそぼ "wikilink")「山の春夏秋冬」（2002年、NHK教育) ※たらこ表記
-  - [かんさい情報ネットten\!](https://ja.wikipedia.org/wiki/かんさい情報ネットten. "wikilink")（2013年1月8日、[読売テレビ](https://ja.wikipedia.org/wiki/讀賣テレビ放送 "wikilink")）「島でたった1人の小学生」コーナー
+  - [イキだね\!わたしの東京時間](https://ja.wikipedia.org/wiki/イキだね!わたしの東京時間 "wikilink")（2010年4月2日 - 9月24日、[NHK総合](../Page/NHK総合テレビジョン.md "wikilink")）
+  - [イチオシ\!2泊3日の旅](https://ja.wikipedia.org/wiki/イチオシ!2泊3日の旅 "wikilink")（2014年4月 - 9月、[BS日テレ](../Page/BS日本.md "wikilink")）おしゃべり
+  - [おこめ](https://ja.wikipedia.org/wiki/おこめ_\(学校放送\) "wikilink")（2001年4月12日 - 2009年3月11日、[NHK教育](../Page/NHK教育テレビジョン.md "wikilink")）
+  - [しぜんとあそぼ](../Page/しぜんとあそぼ.md "wikilink")「山の春夏秋冬」（2002年、NHK教育) ※たらこ表記
+  - [かんさい情報ネットten\!](https://ja.wikipedia.org/wiki/かんさい情報ネットten. "wikilink")（2013年1月8日、[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")）「島でたった1人の小学生」コーナー
   - [心ゆさぶれ\!先輩ROCK YOU](https://ja.wikipedia.org/wiki/心ゆさぶれ!先輩ROCK_YOU "wikilink")（2010年4月3日 - 2015年3月28日、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
   - ゴシップ猫 サマンサの1日（アニマル・プラネット）
   - [こじゃんと土佐流](https://ja.wikipedia.org/wiki/こじゃんと土佐流 "wikilink")シリーズ（2009年12月 - 2011年12月、BS日テレ）不定期放送
-  - [ザ・ジャッジ\! 〜得する法律ファイル](https://ja.wikipedia.org/wiki/ザ・ジャッジ!_〜得する法律ファイル "wikilink")（2002年4月 - 2004年12月、フジテレビ）「これって罪じゃないの」コーナー
-  - [しあわせ家族計画](https://ja.wikipedia.org/wiki/しあわせ家族計画 "wikilink")（1998年10月 - 2000年9月13日、[TBS](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")）
-  - [知っトク地図帳](https://ja.wikipedia.org/wiki/知っトク地図帳 "wikilink")（2011年 - 2016年、[NHK Eテレ](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")）
-  - [スッキリ\!\!](https://ja.wikipedia.org/wiki/スッキリ!! "wikilink")（日本テレビ）2010年10月4日、「きょうの特集「教師になった[乙武洋匡](https://ja.wikipedia.org/wiki/乙武洋匡 "wikilink") 1年間に密着」、2011年6月10日「ベッキーが見た被災地の今」
+  - [ザ・ジャッジ\! 〜得する法律ファイル](../Page/ザ・ジャッジ!_〜得する法律ファイル.md "wikilink")（2002年4月 - 2004年12月、フジテレビ）「これって罪じゃないの」コーナー
+  - [しあわせ家族計画](../Page/しあわせ家族計画.md "wikilink")（1998年10月 - 2000年9月13日、[TBS](../Page/TBSテレビ.md "wikilink")）
+  - [知っトク地図帳](https://ja.wikipedia.org/wiki/知っトク地図帳 "wikilink")（2011年 - 2016年、[NHK Eテレ](../Page/NHK教育テレビジョン.md "wikilink")）
+  - [スッキリ\!\!](https://ja.wikipedia.org/wiki/スッキリ!! "wikilink")（日本テレビ）2010年10月4日、「きょうの特集「教師になった[乙武洋匡](../Page/乙武洋匡.md "wikilink") 1年間に密着」、2011年6月10日「ベッキーが見た被災地の今」
   - [世界の日本人妻は見た\!](https://ja.wikipedia.org/wiki/世界の日本人妻は見た! "wikilink")（2013年4月16日 - 2017年9月19日、[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）
-  - [銭形金太郎](https://ja.wikipedia.org/wiki/銭形金太郎 "wikilink")（2002年10月10日 - 2007年12月19日、テレビ朝日）
-  - [タカトシ×くりぃむのペケ×ポン](https://ja.wikipedia.org/wiki/ペケ×ポン "wikilink")（フジテレビ）「お買物ママさん」コーナー
-  - [探検王国 そんなことアルマジロ](https://ja.wikipedia.org/wiki/探検王国_そんなことアルマジロ "wikilink")（1996年4月7日 - 1998年3月29日、[朝日放送](https://ja.wikipedia.org/wiki/朝日放送テレビ "wikilink")）
+  - [銭形金太郎](../Page/銭形金太郎.md "wikilink")（2002年10月10日 - 2007年12月19日、テレビ朝日）
+  - [タカトシ×くりぃむのペケ×ポン](../Page/ペケ×ポン.md "wikilink")（フジテレビ）「お買物ママさん」コーナー
+  - [探検王国 そんなことアルマジロ](../Page/探検王国_そんなことアルマジロ.md "wikilink")（1996年4月7日 - 1998年3月29日、[朝日放送](../Page/朝日放送テレビ.md "wikilink")）
   - [地球テレビ エル・ムンド（2012年度まで）→エル・ムンド（2013年度）](https://ja.wikipedia.org/wiki/地球テレビ_エル・ムンド "wikilink")（NHK BS1）
       - 世界自転車探検部（NHK BS1）2013年度にエル・ムンドから独立して不定期番組
   - [チャンピオンズ〜達人のワザが世界を救う〜](https://ja.wikipedia.org/wiki/チャンピオンズ〜達人のワザが世界を救う〜 "wikilink")（2008年10月16日 - 2009年9月17日、テレビ東京）
   - [ちょこっとイイコト 〜岡村ほんこん・しあわせプロジェクト〜](https://ja.wikipedia.org/wiki/ちょこっとイイコト_〜岡村ほんこん・しあわせプロジェクト〜 "wikilink")（2011年4月29日 - 2012年3月16日、テレビ東京）
   - [徳さんのお遍路さん 四国八十八カ所 心の旅](https://ja.wikipedia.org/wiki/徳さんのお遍路さん_四国八十八カ所_心の旅 "wikilink")（2012年10月7日 - 2014年3月30日、BS-TBS）
   - [土曜スペシャル](https://ja.wikipedia.org/wiki/土曜スペシャル_\(テレビ東京\) "wikilink")（テレビ東京）
-      - クチコミ[B級グルメ](https://ja.wikipedia.org/wiki/B級グルメ "wikilink")ベスト30（2010年12月4日）
+      - クチコミ[B級グルメ](../Page/B級グルメ.md "wikilink")ベスト30（2010年12月4日）
       - 太川・蛭子のローカル鉄道寄り道旅（2018年9月8日、2018年12月8日）
-  - [news every.](https://ja.wikipedia.org/wiki/news_every. "wikilink")（日本テレビ）「そらジローあのね」での[そらジロー](https://ja.wikipedia.org/wiki/そらジロー "wikilink")役及び特集コーナーのナレーション
-  - [ほっと@アジア](https://ja.wikipedia.org/wiki/ほっと@アジア "wikilink")（[NHK BS1](https://ja.wikipedia.org/wiki/NHK_BS1 "wikilink")）
-  - [女神のマルシェ](https://ja.wikipedia.org/wiki/女神のマルシェ "wikilink")（2012年4月 - 、日本テレビ）
-  - [Ya-Ya-yah](https://ja.wikipedia.org/wiki/Ya-Ya-yah_\(テレビ番組\) "wikilink")（2007年4月 - 10月、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）「Oh\!yah（親）孝行デビュー」コーナー
-  - [夢のちから](https://ja.wikipedia.org/wiki/夢のちから "wikilink")（2007年4月7日 - 2010年9月11日、[東海テレビ](https://ja.wikipedia.org/wiki/東海テレビ放送 "wikilink")）
+  - [news every.](https://ja.wikipedia.org/wiki/news_every. "wikilink")（日本テレビ）「そらジローあのね」での[そらジロー](../Page/そらジロー.md "wikilink")役及び特集コーナーのナレーション
+  - [ほっと@アジア](https://ja.wikipedia.org/wiki/ほっと@アジア "wikilink")（[NHK BS1](../Page/NHK_BS1.md "wikilink")）
+  - [女神のマルシェ](../Page/女神のマルシェ.md "wikilink")（2012年4月 - 、日本テレビ）
+  - [Ya-Ya-yah](../Page/Ya-Ya-yah_\(テレビ番組\).md "wikilink")（2007年4月 - 10月、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）「Oh\!yah（親）孝行デビュー」コーナー
+  - [夢のちから](../Page/夢のちから.md "wikilink")（2007年4月7日 - 2010年9月11日、[東海テレビ](../Page/東海テレビ放送.md "wikilink")）
   - [ニッポンぶらり鉄道旅](https://ja.wikipedia.org/wiki/ニッポンぶらり鉄道旅 "wikilink")（2014年4月3日 - 、[NHK BSプレミアム](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")）
   - [7daysTVスペシャル かぞくムービーAWARD2015 笑いと涙の瞬間、集めました](https://ja.wikipedia.org/wiki/7daysTV#かぞくムービーAWARD "wikilink")（2015年5月15日、日本テレビ）
   - 世界ふしぎ大冒険\!TBS60年の貴重映像を大公開～もう見られない世界・幻の瞬間（2018年3月17日、TBS）
@@ -139,27 +139,27 @@
 
 ### テレビ番組
 
-※は[インターネット配信](https://ja.wikipedia.org/wiki/インターネットテレビ "wikilink")。
+※は[インターネット配信](../Page/インターネットテレビ.md "wikilink")。
 
-  - [クイズ&ゲーム太郎と花子](https://ja.wikipedia.org/wiki/クイズ&ゲーム太郎と花子 "wikilink")（フジテレビ）司会
-  - [ザ・ラスベガス](https://ja.wikipedia.org/wiki/ザ・ラスベガス "wikilink")（読売テレビ）（不定期出演）
-  - こだわりTV PRE★STAGE（[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")）MC
-  - [なるほど\!ザ・ワールド](https://ja.wikipedia.org/wiki/なるほど!ザ・ワールド "wikilink")（フジテレビ）リポーター
-  - [スーパーゲートボール](https://ja.wikipedia.org/wiki/スーパーゲートボール "wikilink")（[日本レジャーチャンネル](https://ja.wikipedia.org/wiki/日本レジャーチャンネル "wikilink")）実況
+  - [クイズ&ゲーム太郎と花子](../Page/クイズ&ゲーム太郎と花子.md "wikilink")（フジテレビ）司会
+  - [ザ・ラスベガス](../Page/ザ・ラスベガス.md "wikilink")（読売テレビ）（不定期出演）
+  - こだわりTV PRE★STAGE（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）MC
+  - [なるほど\!ザ・ワールド](../Page/なるほど!ザ・ワールド.md "wikilink")（フジテレビ）リポーター
+  - [スーパーゲートボール](https://ja.wikipedia.org/wiki/スーパーゲートボール "wikilink")（[日本レジャーチャンネル](../Page/日本レジャーチャンネル.md "wikilink")）実況
 
 ### テレビドラマ
 
   - [時間ですよ たびたび](https://ja.wikipedia.org/wiki/時間ですよ#時間ですよ_たびたび（全13回） "wikilink")（1988年）DJの声
-  - [映画みたいな恋したい](https://ja.wikipedia.org/wiki/映画みたいな恋したい "wikilink")（1992年） ※はじめてのドラマ出演
+  - [映画みたいな恋したい](../Page/映画みたいな恋したい.md "wikilink")（1992年） ※はじめてのドラマ出演
   - [世にも奇妙な物語 20周年スペシャル・春 〜人気番組競演編〜](https://ja.wikipedia.org/wiki/世にも奇妙な物語_20周年スペシャル・春_〜人気番組競演編〜 "wikilink")「まる子と会える町」（2010年）さくらももこ（まる子）の声
 
 ### 映画
 
-  - [釣りバカ日誌3](https://ja.wikipedia.org/wiki/釣りバカ日誌3 "wikilink")（1990年）香織 役
+  - [釣りバカ日誌3](../Page/釣りバカ日誌3.md "wikilink")（1990年）香織 役
 
 ### オリジナルビデオ・DVD
 
-  - [こどもちゃれんじ](https://ja.wikipedia.org/wiki/こどもちゃれんじ "wikilink")・[しまじろう](https://ja.wikipedia.org/wiki/しまじろう "wikilink")シリーズ（[ベネッセコーポレーション](https://ja.wikipedia.org/wiki/ベネッセコーポレーション "wikilink")） - 本人役、ナレーションなど
+  - [こどもちゃれんじ](../Page/こどもちゃれんじ.md "wikilink")・[しまじろう](https://ja.wikipedia.org/wiki/しまじろう "wikilink")シリーズ（[ベネッセコーポレーション](https://ja.wikipedia.org/wiki/ベネッセコーポレーション "wikilink")） - 本人役、ナレーションなど
 
 ### その他
 
@@ -172,7 +172,7 @@
 ### シングル
 
   - 夢みるワンダーランド/ナゾナゾ夢の国（キャニオン、1983年10月）
-  - 不思議うふふ（キャニオン、1984年7月21日。[古川登志夫](https://ja.wikipedia.org/wiki/古川登志夫 "wikilink")の「シャバダバだけど」B面）
+  - 不思議うふふ（キャニオン、1984年7月21日。[古川登志夫](../Page/古川登志夫.md "wikilink")の「シャバダバだけど」B面）
   - 誘惑ゲーム/九月の風にのせて（キャニオン、1984年9月21日）
   - オレ タルるート/キミと世界征服\!?（日本コロムビア、1990年10月1日）
   - あなたが大好き/笑顔（BMGビクター、1990年11月7日）
@@ -183,7 +183,7 @@
   - はみがき音頭/ブレックファースト・イン・ドリーム（アポロン、1992年10月5日）
   - おじいさんへのおてがみ/でっかいキャンバス（アポロン、1992年11月5日）
   - JUST LIKE A MOTHER/みかんにKissして（ポリスター、1995年1月25日）
-  - アララの呪文（[ポニーキャニオン](https://ja.wikipedia.org/wiki/ポニーキャニオン "wikilink")、2004年7月10日。[爆笑問題](https://ja.wikipedia.org/wiki/爆笑問題 "wikilink")（[爆チュー問題](https://ja.wikipedia.org/wiki/爆チュー問題 "wikilink")）とのコラボレーション）
+  - アララの呪文（[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")、2004年7月10日。[爆笑問題](../Page/爆笑問題.md "wikilink")（[爆チュー問題](../Page/爆チュー問題.md "wikilink")）とのコラボレーション）
 
 ### アルバム
 
@@ -201,7 +201,7 @@
 
 ### 作詞
 
-  - [とんがり帽子のメモル](https://ja.wikipedia.org/wiki/とんがり帽子のメモル "wikilink")（日本コロムビア、1984年3月21日。歌：[山野さと子](https://ja.wikipedia.org/wiki/山野さと子 "wikilink")）
+  - [とんがり帽子のメモル](../Page/とんがり帽子のメモル.md "wikilink")（日本コロムビア、1984年3月21日。歌：[山野さと子](../Page/山野さと子.md "wikilink")）
 
 ### ライブビデオ
 
@@ -209,7 +209,7 @@
 
 ## 脚本
 
-  - [ちびまる子ちゃん](https://ja.wikipedia.org/wiki/ちびまる子ちゃん "wikilink")
+  - [ちびまる子ちゃん](../Page/ちびまる子ちゃん.md "wikilink")
   - ハッピーカムカム（[アニメミライ](https://ja.wikipedia.org/wiki/若手アニメーター育成プロジェクト "wikilink")2015参加作品）
 
 ## 出典

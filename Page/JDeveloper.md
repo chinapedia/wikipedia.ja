@@ -1,7 +1,7 @@
 > この記事は[JDeveloper](https://ja.wikipedia.org/wiki/JDeveloper)から翻訳されています。
 
 
-**JDeveloper**は、[オラクルが開発する](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")[統合開発環境](../Page/統合開発環境.md "wikilink") (IDE)。元々[JBuilder](https://ja.wikipedia.org/wiki/JBuilder "wikilink")のソースから派生した[Java](https://ja.wikipedia.org/wiki/Java "wikilink")用のIDEであったが、バージョン9.0.2以降で、それ自身をJavaで完全に記述しなおすことにより完全なオリジナルIDEとして生まれ変わっている。
+**JDeveloper**は、[オラクルが開発する](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")[統合開発環境](../Page/統合開発環境.md "wikilink") (IDE)。元々[JBuilder](../Page/JBuilder.md "wikilink")のソースから派生した[Java](https://ja.wikipedia.org/wiki/Java "wikilink")用のIDEであったが、バージョン9.0.2以降で、それ自身をJavaで完全に記述しなおすことにより完全なオリジナルIDEとして生まれ変わっている。
 
 ## JDeveloperの機能
 
@@ -25,11 +25,11 @@ JUnitテストコードの生成、テスト実行を行うことができる。
 
 ### Antプラグイン
 
-ビルドシステム[antと連携できる](https://ja.wikipedia.org/wiki/Apache_Ant "wikilink")。ant は、Unix系のコマンド [make](https://ja.wikipedia.org/wiki/make "wikilink") を置き換えるプログラムで、Makefile に相当する各ソースコードの依存関係を XML により記述する。antは、Java により書かれており、ウェブサーバで知られる [Apache](https://ja.wikipedia.org/wiki/Apacheソフトウェア財団 "wikilink") プロジェクトに開発されている。
+ビルドシステム[antと連携できる](../Page/Apache_Ant.md "wikilink")。ant は、Unix系のコマンド [make](https://ja.wikipedia.org/wiki/make "wikilink") を置き換えるプログラムで、Makefile に相当する各ソースコードの依存関係を XML により記述する。antは、Java により書かれており、ウェブサーバで知られる [Apache](../Page/Apacheソフトウェア財団.md "wikilink") プロジェクトに開発されている。
 
 ### リファクタリング
 
-[リファクタリングについては](https://ja.wikipedia.org/wiki/リファクタリング_\(プログラミング\) "wikilink")、getter, setterメソッドの自動生成や、クラス名・メソッド名の変更(使用しているコード側のクラス名・メソッド名も変更される)、メソッドの移動や抽出などをウィザード形式で行ってくれる。
+[リファクタリングについては](../Page/リファクタリング_\(プログラミング\).md "wikilink")、getter, setterメソッドの自動生成や、クラス名・メソッド名の変更(使用しているコード側のクラス名・メソッド名も変更される)、メソッドの移動や抽出などをウィザード形式で行ってくれる。
 
 ### コード編集支援
 

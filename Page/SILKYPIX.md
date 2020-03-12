@@ -9,7 +9,7 @@
 
 バージョン3からは「SILKYPIX RAW Bridge」と呼ばれる機構を搭載、これにより[JPEG](../Page/JPEG.md "wikilink")や[TIFFの画像データを内部で拡張し](../Page/Tagged_Image_File_Format.md "wikilink")、RAW現像と同等の感覚でレタッチを施すことが可能となっている。
 
-一方でマシンに高負荷がかかる事でも知られ、「ドスパラ」を運営する[サードウェーブ](https://ja.wikipedia.org/wiki/サードウェーブ "wikilink")からはSILKYPIX公認のハイスペックPCがリリースされているほどであったが、近年ではCPUの処理能力が上がったため、一般向けの機種でも快適に動作する。
+一方でマシンに高負荷がかかる事でも知られ、「ドスパラ」を運営する[サードウェーブ](../Page/サードウェーブ.md "wikilink")からはSILKYPIX公認のハイスペックPCがリリースされているほどであったが、近年ではCPUの処理能力が上がったため、一般向けの機種でも快適に動作する。
 
 販売形態としては[ダウンロード販売](../Page/ダウンロード販売.md "wikilink")のほか、パッケージ販売も行われている。また、以前は機能を限定した[無料版も配布されていた](../Page/フリーウェア.md "wikilink")。
 
@@ -59,7 +59,7 @@ SILKYPIXのエンジンを組み込んだ製品には、自社製品だけでは
   - デイジーコラージュ（市川ソフトラボラトリー）
   - PENTAX PHOTO Laboratory 3/PENTAX PHOTO Browser 3（[ペンタックス](../Page/ペンタックス.md "wikilink")）
   - PENTAX Digital Camera Utility 4（[ペンタックス](../Page/ペンタックス.md "wikilink")）
-  - Digital Photographer for Windows（[アイフォー](https://ja.wikipedia.org/wiki/アイフォー "wikilink")（現[イーフロンティア](../Page/イーフロンティア.md "wikilink")））
+  - Digital Photographer for Windows（[アイフォー](../Page/アイフォー.md "wikilink")（現[イーフロンティア](../Page/イーフロンティア.md "wikilink")））
   - RAW FILE CONVERTER EX 2.0 powered by SILKYPIX （[富士フイルム](../Page/富士フイルム.md "wikilink")）
   - SILKYPIX Developer Studio SE （[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")）
   - Nikon Capture NX-D （[ニコン](../Page/ニコン.md "wikilink")）

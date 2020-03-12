@@ -3,25 +3,25 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Dcf77.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Low_cost_DCF77_receiver.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Dcf_weite.jpg "wikilink")
 
-**DCF77** は、[長波](../Page/長波.md "wikilink")[時報](../Page/時報.md "wikilink")信号と周波数[標準電波](https://ja.wikipedia.org/wiki/標準電波 "wikilink")局である。
+**DCF77** は、[長波](../Page/長波.md "wikilink")[時報](../Page/時報.md "wikilink")信号と周波数[標準電波](../Page/標準電波.md "wikilink")局である。
 
-その最初と予備の[送信機](https://ja.wikipedia.org/wiki/送信機 "wikilink")は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[フランクフルト南東およそ](../Page/フランクフルト・アム・マイン.md "wikilink")25kmの[マインフリンゲン](https://ja.wikipedia.org/wiki/マインフリンゲン "wikilink")（）に位置する。かつては、ドイツ連邦の[理工学研究所の](../Page/物理学.md "wikilink")  （PTB）によって運営されていたが、現在は  （[ドイツテレコム](https://ja.wikipedia.org/wiki/ドイツテレコム "wikilink")の子会社）が代わって運営している。DCF77は、1959年から周波数標準局として運行し、時刻と日付情報は1973年に追加された。
+その最初と予備の[送信機](../Page/送信機.md "wikilink")は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[フランクフルト南東およそ](../Page/フランクフルト・アム・マイン.md "wikilink")25kmの[マインフリンゲン](https://ja.wikipedia.org/wiki/マインフリンゲン "wikilink")（）に位置する。かつては、ドイツ連邦の[理工学研究所の](../Page/物理学.md "wikilink")  （PTB）によって運営されていたが、現在は  （[ドイツテレコム](../Page/ドイツテレコム.md "wikilink")の子会社）が代わって運営している。DCF77は、1959年から周波数標準局として運行し、時刻と日付情報は1973年に追加された。
 
 ## 信号
 
-77.5kHzの[搬送波](https://ja.wikipedia.org/wiki/搬送波 "wikilink")信号（キャリア信号）は、[ブラウンシュヴァイク](https://ja.wikipedia.org/wiki/ブラウンシュヴァイク "wikilink")にあるドイツのマスタークロックに接続される[原子時計](../Page/原子時計.md "wikilink")から生成される。50kWの比較的高出力で、フランクフルトから約2000kmまで、信号はヨーロッパの大部分で受信が可能である。（信号の[伝播と局所の干渉次第でさらに遠くでも受信が可能](https://ja.wikipedia.org/wiki/電波伝播 "wikilink")。例を挙げると、受信状態が良好であれば、干渉の少ない夜間にポルトガルで受信出来る。）
+77.5kHzの[搬送波](https://ja.wikipedia.org/wiki/搬送波 "wikilink")信号（キャリア信号）は、[ブラウンシュヴァイク](../Page/ブラウンシュヴァイク.md "wikilink")にあるドイツのマスタークロックに接続される[原子時計](../Page/原子時計.md "wikilink")から生成される。50kWの比較的高出力で、フランクフルトから約2000kmまで、信号はヨーロッパの大部分で受信が可能である。（信号の[伝播と局所の干渉次第でさらに遠くでも受信が可能](../Page/電波伝播.md "wikilink")。例を挙げると、受信状態が良好であれば、干渉の少ない夜間にポルトガルで受信出来る。）
 
-その信号は振幅変調、パルス幅コード化された1ビット毎秒のデータ信号として伝わる。このデータ信号は、長さ511ビットの疑似ランダムシーケンス（[直接シーケンス・スペクトラム拡散](https://ja.wikipedia.org/wiki/スペクトラム拡散#直接拡散 "wikilink")（DSSS）変調）を使っているキャリアの上へ[位相変調](https://ja.wikipedia.org/wiki/位相変調 "wikilink")される。送信データは、下記の情報を毎分を繰り返す、
+その信号は振幅変調、パルス幅コード化された1ビット毎秒のデータ信号として伝わる。このデータ信号は、長さ511ビットの疑似ランダムシーケンス（[直接シーケンス・スペクトラム拡散](https://ja.wikipedia.org/wiki/スペクトラム拡散#直接拡散 "wikilink")（DSSS）変調）を使っているキャリアの上へ[位相変調](../Page/位相変調.md "wikilink")される。送信データは、下記の情報を毎分を繰り返す、
 
   - 現在の日付と時間、
   - [うるう秒予告ビット](../Page/閏秒.md "wikilink")、
   - [サマータイムビット](../Page/夏時間.md "wikilink")、
   - プライマリー/バックアップ送信機の識別ビット
-  - いくつかの[パリティビット](https://ja.wikipedia.org/wiki/パリティビット "wikilink")。
+  - いくつかの[パリティビット](../Page/パリティビット.md "wikilink")。
 
-2003年より、タイムコードでそれまで未使用の14ビットが、[民間防衛](https://ja.wikipedia.org/wiki/民間防衛 "wikilink")緊急信号のために使われた。これは実験的なサービスで、ドイツの民間防衛サイレンのネットワークと置き換わる日が来る事を目途している。
+2003年より、タイムコードでそれまで未使用の14ビットが、[民間防衛](../Page/民間防衛.md "wikilink")緊急信号のために使われた。これは実験的なサービスで、ドイツの民間防衛サイレンのネットワークと置き換わる日が来る事を目途している。
 
-[コールサイン](https://ja.wikipedia.org/wiki/識別信号 "wikilink")（呼出符号）DCF77 は、D=（ドイツ）、C=（長波信号）、F=（フランクフルト）、77=周波数77.5kHzを意味する。それはモールス信号で、必要に応じて[ITU](../Page/国際電気通信連合.md "wikilink") 国際電気電信条約付属[無線通信規則](https://ja.wikipedia.org/wiki/無線通信規則 "wikilink")（）の第19条（"[Identification of Stations](http://life.itu.ch/radioclub/rr/art19.htm) /電波局の識別"）に要求され1時間毎に3回送信された。しかし、モールス式の信号が、第2の目印の[信号対雑音比](https://ja.wikipedia.org/wiki/SN比 "wikilink")（SN比）を低下させることが判明し、いずれにしてもDCF77信号がその周知の特性のために国際的に容易に識別されたので、この慣行は2004年に中止された。
+[コールサイン](https://ja.wikipedia.org/wiki/識別信号 "wikilink")（呼出符号）DCF77 は、D=（ドイツ）、C=（長波信号）、F=（フランクフルト）、77=周波数77.5kHzを意味する。それはモールス信号で、必要に応じて[ITU](../Page/国際電気通信連合.md "wikilink") 国際電気電信条約付属[無線通信規則](https://ja.wikipedia.org/wiki/無線通信規則 "wikilink")（）の第19条（"[Identification of Stations](http://life.itu.ch/radioclub/rr/art19.htm) /電波局の識別"）に要求され1時間毎に3回送信された。しかし、モールス式の信号が、第2の目印の[信号対雑音比](../Page/SN比.md "wikilink")（SN比）を低下させることが判明し、いずれにしてもDCF77信号がその周知の特性のために国際的に容易に識別されたので、この慣行は2004年に中止された。
 
 ## 利用
 
@@ -29,7 +29,7 @@
 
 ## 関連項目
 
-  - [JJY](https://ja.wikipedia.org/wiki/JJY "wikilink") （日本の[標準電波](https://ja.wikipedia.org/wiki/標準電波 "wikilink")）
+  - [JJY](../Page/JJY.md "wikilink") （日本の[標準電波](../Page/標準電波.md "wikilink")）
 
 ## 外部リンク
 

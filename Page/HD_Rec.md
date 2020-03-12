@@ -5,13 +5,13 @@
 
 ## 概要
 
-HD Recは[HD DVD向けに策定されたビデオ記録用](../Page/HD_DVD.md "wikilink")[アプリケーションフォーマットである](https://ja.wikipedia.org/wiki/フォーマット_\(ストレージ\)#アプリケーションフォーマット "wikilink")[HD DVD-Videoや](https://ja.wikipedia.org/wiki/HD_DVD#HD_DVD-Video "wikilink")[HD DVD-VR](https://ja.wikipedia.org/wiki/HD_DVD#HD_DVD-VR "wikilink")（HDVRと省略される場合もある）を使用して記録型DVDに記録する規格である\[1\]。従来のDVDで採用されていたビデオ用アプリケーションフォーマットである[DVD-Video](../Page/DVD-Video.md "wikilink")や[DVD-VR](https://ja.wikipedia.org/wiki/DVD-VR "wikilink")の規格では不可能だったハイビジョン映像の記録を可能にした。HD DVDに採用されている著作権保護機構 ([AACS](https://ja.wikipedia.org/wiki/Advanced_Access_Content_System "wikilink")) に対応しており、著作権保護機構が必要なハイビジョン放送の録画にも対応している。
+HD Recは[HD DVD向けに策定されたビデオ記録用](../Page/HD_DVD.md "wikilink")[アプリケーションフォーマットである](https://ja.wikipedia.org/wiki/フォーマット_\(ストレージ\)#アプリケーションフォーマット "wikilink")[HD DVD-Videoや](https://ja.wikipedia.org/wiki/HD_DVD#HD_DVD-Video "wikilink")[HD DVD-VR](https://ja.wikipedia.org/wiki/HD_DVD#HD_DVD-VR "wikilink")（HDVRと省略される場合もある）を使用して記録型DVDに記録する規格である\[1\]。従来のDVDで採用されていたビデオ用アプリケーションフォーマットである[DVD-Video](../Page/DVD-Video.md "wikilink")や[DVD-VR](../Page/DVD-VR.md "wikilink")の規格では不可能だったハイビジョン映像の記録を可能にした。HD DVDに採用されている著作権保護機構 ([AACS](../Page/Advanced_Access_Content_System.md "wikilink")) に対応しており、著作権保護機構が必要なハイビジョン放送の録画にも対応している。
 
-類似のフォーマットとして[Blu-ray Discのアプリケーションフォーマットで記録型DVDに記録する](../Page/Blu-ray_Disc.md "wikilink")[AVCREC](../Page/AVCREC.md "wikilink")という規格がBlu-ray Disc Associationで策定されているが、AVCRECはアプリケーションフォーマットに[BDAV](https://ja.wikipedia.org/wiki/BDAV "wikilink")を使用しておりHD DVD-VRを使用するHD Recとは再生互換性がない\[2\]。DVDフォーラムで公式に承認された規格だがHD DVDベースということで[東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")のみが採用し、同社のHD DVD撤退後も同社の[DVDレコーダー](../Page/DVDレコーダー.md "wikilink")にのみ採用されている。
+類似のフォーマットとして[Blu-ray Discのアプリケーションフォーマットで記録型DVDに記録する](../Page/Blu-ray_Disc.md "wikilink")[AVCREC](../Page/AVCREC.md "wikilink")という規格がBlu-ray Disc Associationで策定されているが、AVCRECはアプリケーションフォーマットに[BDAV](../Page/BDAV.md "wikilink")を使用しておりHD DVD-VRを使用するHD Recとは再生互換性がない\[2\]。DVDフォーラムで公式に承認された規格だがHD DVDベースということで[東芝](../Page/東芝.md "wikilink")のみが採用し、同社のHD DVD撤退後も同社の[DVDレコーダー](../Page/DVDレコーダー.md "wikilink")にのみ採用されている。
 
 ### 利用できるメディア
 
-3倍速以上の再生ができる記録型DVDメディアが利用できる\[3\]。またAACSの著作権保護機構を利用する際に[CPRM](https://ja.wikipedia.org/wiki/CPRM "wikilink")のメディアIDで代用するため、著作権保護機構を利用する際にはCPRM対応メディアである必要がある。
+3倍速以上の再生ができる記録型DVDメディアが利用できる\[3\]。またAACSの著作権保護機構を利用する際に[CPRM](../Page/CPRM.md "wikilink")のメディアIDで代用するため、著作権保護機構を利用する際にはCPRM対応メディアである必要がある。
 
   - DVD-R
   - DVD-R DL
@@ -22,13 +22,13 @@ HD Recは[HD DVD向けに策定されたビデオ記録用](../Page/HD_DVD.md "w
 
 ### 映像フォーマット
 
-アプリケーションフォーマットはHD DVDと同一のHD DVD-Video及びHD DVD-VR (HDVR) でありHD DVDで利用できる[MPEG-2](../Page/MPEG-2.md "wikilink")、[H.264](https://ja.wikipedia.org/wiki/H.264 "wikilink")、[VC-1](https://ja.wikipedia.org/wiki/VC-1 "wikilink")の映像圧縮方式（[コーデック](../Page/コーデック.md "wikilink")）が利用できる。従って、利用可能な条件のDVDメディアにHD DVDのアプリケーションフォーマットを利用することで従来のDVD記録映像（[MPEG2-PS](https://ja.wikipedia.org/wiki/MPEG-2システム#プログラムストリーム "wikilink")、[標準画質映像](https://ja.wikipedia.org/wiki/標準画質映像 "wikilink")、[VR録画](https://ja.wikipedia.org/wiki/DVD-VR "wikilink")）に加えてデジタル放送信号の直接記録（[MPEG2-TS](https://ja.wikipedia.org/wiki/MPEG-2システム#トランスポートストリーム "wikilink")、[ハイビジョン](../Page/ハイビジョン.md "wikilink")/標準画質映像、TS録画）や更にそれらをH.264で圧縮変換（エンコード）した映像を記録（TSE録画）する事が可能になった。これにより、従来のDVD-VideoやDVD-VRでフォーマットされたDVDよりも高画質・長時間の記録が可能になった。ハイビジョン記録可能時間は片面1層のDVDに約20分〜2時間15分、片面2層に約40分〜4時間18分程度である（記録時間は製品や画質モードに依存する）。
+アプリケーションフォーマットはHD DVDと同一のHD DVD-Video及びHD DVD-VR (HDVR) でありHD DVDで利用できる[MPEG-2](../Page/MPEG-2.md "wikilink")、[H.264](../Page/H.264.md "wikilink")、[VC-1](../Page/VC-1.md "wikilink")の映像圧縮方式（[コーデック](../Page/コーデック.md "wikilink")）が利用できる。従って、利用可能な条件のDVDメディアにHD DVDのアプリケーションフォーマットを利用することで従来のDVD記録映像（[MPEG2-PS](https://ja.wikipedia.org/wiki/MPEG-2システム#プログラムストリーム "wikilink")、[標準画質映像](../Page/標準画質映像.md "wikilink")、[VR録画](../Page/DVD-VR.md "wikilink")）に加えてデジタル放送信号の直接記録（[MPEG2-TS](https://ja.wikipedia.org/wiki/MPEG-2システム#トランスポートストリーム "wikilink")、[ハイビジョン](../Page/ハイビジョン.md "wikilink")/標準画質映像、TS録画）や更にそれらをH.264で圧縮変換（エンコード）した映像を記録（TSE録画）する事が可能になった。これにより、従来のDVD-VideoやDVD-VRでフォーマットされたDVDよりも高画質・長時間の記録が可能になった。ハイビジョン記録可能時間は片面1層のDVDに約20分〜2時間15分、片面2層に約40分〜4時間18分程度である（記録時間は製品や画質モードに依存する）。
 
 HD Recにより録画したDVDは、従来のDVD映像（MPEG2-PS、標準画質映像）を記録したものであってもHD RecもしくはHD DVDの再生に対応した機器でなければ再生できない。一方、従来のDVD用ビデオフォーマットであるDVD-VideoやDVD-VRで記録されたディスクの再生・録画には用いる機器の機能としてそれらに対応しているかどうかに依存する。2009年2月現在販売されているHD Rec対応機は全てDVD-Video及びDVD-VRに対応していて、これらで記録されたディスクの再生が可能なほか記録型DVDをDVD-VideoフォーマットまたはDVD-VRフォーマットしてこれらの記録モードでの録画が可能となっている。
 
 ### 著作権保護機構
 
-著作権保護機構には[AACSを利用している](https://ja.wikipedia.org/wiki/Advanced_Access_Content_System "wikilink")。AACSで必要な128ビットのメディアIDの代わりに、CPRMディスクのメディアID（[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")）を利用する。
+著作権保護機構には[AACSを利用している](../Page/Advanced_Access_Content_System.md "wikilink")。AACSで必要な128ビットのメディアIDの代わりに、CPRMディスクのメディアID（[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")）を利用する。
 
 ## 策定までの経緯
 
@@ -46,8 +46,8 @@ HD Recにより録画したDVDは、従来のDVD映像（MPEG2-PS、標準画質
 <!-- end list -->
 
   -   - [11月1日](../Page/11月1日.md "wikilink")、[松下電器産業が対抗規格](https://ja.wikipedia.org/wiki/パナソニック "wikilink")・AVCRECに対応したBDレコーダー/DVDレコーダーを発売。
-      - [12月14日](../Page/12月14日.md "wikilink")、東芝がHD Rec対応HD DVDレコーダー[VARDIA](https://ja.wikipedia.org/wiki/VARDIA "wikilink")「RD-A301」を発売\[5\]。
-      - [12月21日](../Page/12月21日.md "wikilink")、東芝はHD DVD-RWとHD Recでの記録、再生に対応したノート型パソコン「[Qosmio](https://ja.wikipedia.org/wiki/Qosmio "wikilink") F40・G40」を発売。ただしHD Recへの記録はHDビデオカメラからの映像のみで、地上デジタル放送の記録はできない。
+      - [12月14日](../Page/12月14日.md "wikilink")、東芝がHD Rec対応HD DVDレコーダー[VARDIA](../Page/VARDIA.md "wikilink")「RD-A301」を発売\[5\]。
+      - [12月21日](../Page/12月21日.md "wikilink")、東芝はHD DVD-RWとHD Recでの記録、再生に対応したノート型パソコン「[Qosmio](../Page/Qosmio.md "wikilink") F40・G40」を発売。ただしHD Recへの記録はHDビデオカメラからの映像のみで、地上デジタル放送の記録はできない。
 
   - 2008年
 
@@ -73,7 +73,7 @@ HD Recにより録画したDVDは、従来のDVD映像（MPEG2-PS、標準画質
 
   - 2012年
 
-      - [7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink")、東芝がBlu-rayレコーダー REGZAブルーレイ「DBR-Z260」「DBR-Z250」を発表。HD Recの再生のみ対応。
+      - [7月23日](../Page/7月23日.md "wikilink")、東芝がBlu-rayレコーダー REGZAブルーレイ「DBR-Z260」「DBR-Z250」を発表。HD Recの再生のみ対応。
 
   - 2013年
 
@@ -87,7 +87,7 @@ HD Recにより録画したDVDは、従来のDVD映像（MPEG2-PS、標準画質
 
   - [HD DVD](../Page/HD_DVD.md "wikilink")
   - [AACS](https://ja.wikipedia.org/wiki/AACS "wikilink")
-  - [CPRM](https://ja.wikipedia.org/wiki/CPRM "wikilink")
+  - [CPRM](../Page/CPRM.md "wikilink")
   - [AVCREC](../Page/AVCREC.md "wikilink") - 対抗規格
 
 [Category:ビデオディスク](https://ja.wikipedia.org/wiki/Category:ビデオディスク "wikilink") [Category:光ディスク](https://ja.wikipedia.org/wiki/Category:光ディスク "wikilink") [Category:DVD](https://ja.wikipedia.org/wiki/Category:DVD "wikilink")
@@ -97,12 +97,12 @@ HD Recにより録画したDVDは、従来のDVD映像（MPEG2-PS、標準画質
 3.  [ケースイが斬る\!東芝「RD-A301」 − 開発者・片岡氏に聞く「HD Rec」のメリット](http://www.phileweb.com/news/d-av/200710/31/19729.html)、Phile・web、2007年[10月31日](../Page/10月31日.md "wikilink")
 4.  [DVDフォーラム、「Japan Conference 2002」を開催](http://www.watch.impress.co.jp/av/docs/20021003/dvdforum.htm)、AV watch、2007年[10月3日](../Page/10月3日.md "wikilink")
 5.  [東芝の新HD DVD/HDDレコーダ「RD-A301」が14日販売開始](http://www.watch.impress.co.jp/av/docs/20071214/toshiba1.htm)、AVwatch、2007年[12月14日](../Page/12月14日.md "wikilink")
-6.  [ハードディスク\&DVDレコーダー「ヴァルディア」新商品の発売について](http://www.toshiba.co.jp/about/press/2008_05/pr_j1501.htm)、[東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")プレスリリース、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月15日](../Page/5月15日.md "wikilink")
-7.  [“くっきり高精細技術”「XDE」 搭載のハードディスク\&DVDレコーダー「ヴァルディア」の新商品発売について](http://www.toshiba.co.jp/about/press/2008_09/pr_j1804.htm)、[東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")プレスリリース、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月18日](../Page/9月18日.md "wikilink")
-8.  [業界で初めて外付けUSBハードディスクの増設に対応した ハイビジョンレコーダー「ヴァルディア（VARDIA）」の発売について](http://www.toshiba.co.jp/about/press/2009_08/pr_j0601.htm)、[東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")プレスリリース、[2009年](../Page/2009年.md "wikilink")[8月6日](../Page/8月6日.md "wikilink")
-9.  [ブルーレイディスクレコーダー「ヴァルディア（VARDIA）」の発売について](http://www.toshiba.co.jp/about/press/2010_01/pr_j1401.htm)、[東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")プレスリリース、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月14日](../Page/1月14日.md "wikilink")
-10. [ハイビジョンレコーダー「ヴァルディア（VARDIA）」の新商品発売について](http://www.toshiba.co.jp/about/press/2010_01/pr_j2101.htm)、[東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")プレスリリース、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月21日](../Page/1月21日.md "wikilink")
-11. [3D対応のブルーレイディスクレコーダー「レグザブルーレイ」の発売について](http://www.toshiba.co.jp/about/press/2010_07/pr_j2802.htm)、[東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")プレスリリース、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[7月28日](../Page/7月28日.md "wikilink")
-12. [「レグザ（REGZA）ハイビジョンレコーダー」の発売について](http://www.toshiba.co.jp/about/press/2010_08/pr_j1901.htm)、[東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")プレスリリース、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[8月19日](../Page/8月19日.md "wikilink")
-13. [録画機能などの基本性能を大幅に向上させた ブルーレイディスクレコーダー「レグザブルーレイ」の発売について](http://www.toshiba.co.jp/about/press/2011_04/pr_j2002.htm)、[東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")プレスリリース、[2011年](../Page/2011年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")
-14. [地デジ放送6チャンネル分を15日分録画して一時保管する レグザブルーレイ「レグザサーバー　DBR-M190」他の発売について](http://www.toshiba.co.jp/about/press/2011_10/pr_j0301.htm)、[東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")プレスリリース、[2011年](../Page/2011年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")
+6.  [ハードディスク\&DVDレコーダー「ヴァルディア」新商品の発売について](http://www.toshiba.co.jp/about/press/2008_05/pr_j1501.htm)、[東芝](../Page/東芝.md "wikilink")プレスリリース、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月15日](../Page/5月15日.md "wikilink")
+7.  [“くっきり高精細技術”「XDE」 搭載のハードディスク\&DVDレコーダー「ヴァルディア」の新商品発売について](http://www.toshiba.co.jp/about/press/2008_09/pr_j1804.htm)、[東芝](../Page/東芝.md "wikilink")プレスリリース、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月18日](../Page/9月18日.md "wikilink")
+8.  [業界で初めて外付けUSBハードディスクの増設に対応した ハイビジョンレコーダー「ヴァルディア（VARDIA）」の発売について](http://www.toshiba.co.jp/about/press/2009_08/pr_j0601.htm)、[東芝](../Page/東芝.md "wikilink")プレスリリース、[2009年](../Page/2009年.md "wikilink")[8月6日](../Page/8月6日.md "wikilink")
+9.  [ブルーレイディスクレコーダー「ヴァルディア（VARDIA）」の発売について](http://www.toshiba.co.jp/about/press/2010_01/pr_j1401.htm)、[東芝](../Page/東芝.md "wikilink")プレスリリース、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月14日](../Page/1月14日.md "wikilink")
+10. [ハイビジョンレコーダー「ヴァルディア（VARDIA）」の新商品発売について](http://www.toshiba.co.jp/about/press/2010_01/pr_j2101.htm)、[東芝](../Page/東芝.md "wikilink")プレスリリース、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月21日](../Page/1月21日.md "wikilink")
+11. [3D対応のブルーレイディスクレコーダー「レグザブルーレイ」の発売について](http://www.toshiba.co.jp/about/press/2010_07/pr_j2802.htm)、[東芝](../Page/東芝.md "wikilink")プレスリリース、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[7月28日](../Page/7月28日.md "wikilink")
+12. [「レグザ（REGZA）ハイビジョンレコーダー」の発売について](http://www.toshiba.co.jp/about/press/2010_08/pr_j1901.htm)、[東芝](../Page/東芝.md "wikilink")プレスリリース、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[8月19日](../Page/8月19日.md "wikilink")
+13. [録画機能などの基本性能を大幅に向上させた ブルーレイディスクレコーダー「レグザブルーレイ」の発売について](http://www.toshiba.co.jp/about/press/2011_04/pr_j2002.htm)、[東芝](../Page/東芝.md "wikilink")プレスリリース、[2011年](../Page/2011年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")
+14. [地デジ放送6チャンネル分を15日分録画して一時保管する レグザブルーレイ「レグザサーバー　DBR-M190」他の発売について](http://www.toshiba.co.jp/about/press/2011_10/pr_j0301.htm)、[東芝](../Page/東芝.md "wikilink")プレスリリース、[2011年](../Page/2011年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")

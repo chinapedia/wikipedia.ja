@@ -1,11 +1,11 @@
 > この記事は[Organic](https://ja.wikipedia.org/wiki/Organic)から翻訳されています。
 
 
-『**organic**』（オーガニック）は、[2002年](../Page/2002年.md "wikilink")[12月11日](../Page/12月11日.md "wikilink")に発売された[MY LITTLE LOVERの](https://ja.wikipedia.org/wiki/My_Little_Lover "wikilink")[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")[アルバム](../Page/アルバム.md "wikilink")。発売元は[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")。
+『**organic**』（オーガニック）は、[2002年](../Page/2002年.md "wikilink")[12月11日](../Page/12月11日.md "wikilink")に発売された[MY LITTLE LOVERの](https://ja.wikipedia.org/wiki/My_Little_Lover "wikilink")[セルフカバー](../Page/セルフカバー.md "wikilink")[アルバム](../Page/アルバム.md "wikilink")。発売元は[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")。
 
 ## 解説
 
-  - 「[singles](https://ja.wikipedia.org/wiki/singles_\(MY_LITTLE_LOVERのアルバム\) "wikilink")」以来1年振りとなるアルバム。MY LITTLE LOVERの曲をアコースティック・アレンジで[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")したアルバム。
+  - 「[singles](https://ja.wikipedia.org/wiki/singles_\(MY_LITTLE_LOVERのアルバム\) "wikilink")」以来1年振りとなるアルバム。MY LITTLE LOVERの曲をアコースティック・アレンジで[セルフカバー](../Page/セルフカバー.md "wikilink")したアルバム。
   - 2002年8月31日にインターネットにて放送されたスタジオライブ**「UNPLUGGED VIA INTERNET live tour from private studio to WWW.」**の音源をアルバム化したもの。
   - オリジナル盤は紙ジャケット仕様であったが、2008年にエイベックスから再発された際、通常のプラケース仕様に再デザインされている。
 
@@ -40,7 +40,7 @@
         13thシングル
 6.  **[Hello, Again 〜昔からある場所〜](../Page/Hello,_Again_〜昔からある場所〜.md "wikilink")**
       -
-        作詞:小林武史 作曲:[藤井謙二](https://ja.wikipedia.org/wiki/藤井謙二 "wikilink") & 小林武史 編曲:小林武史
+        作詞:小林武史 作曲:[藤井謙二](../Page/藤井謙二.md "wikilink") & 小林武史 編曲:小林武史
         3rdシングル
 7.  **[Free](https://ja.wikipedia.org/wiki/evergreen_\(MY_LITTLE_LOVERのアルバム\) "wikilink")**
       -

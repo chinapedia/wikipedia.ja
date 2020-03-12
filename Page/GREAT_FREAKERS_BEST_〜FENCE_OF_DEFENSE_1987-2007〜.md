@@ -24,7 +24,7 @@ FODとしては、[1999年](../Page/1999年.md "wikilink")の『[LOGICAL AESTHET
     　（作詞:FENCE OF DEFENSE　作曲:西村麻聡　編曲:FENCE OF DEFENSE）
       - 1stシングル、及び1stアルバム『FENCE OF DEFENSE』収録曲。
 3.  **LIGHTHOUSE**
-    　（作詞:[K.INOJO](https://ja.wikipedia.org/wiki/K.INOJO "wikilink")　作曲:西村麻聡　編曲:FENCE OF DEFENSE）
+    　（作詞:[K.INOJO](../Page/K.INOJO.md "wikilink")　作曲:西村麻聡　編曲:FENCE OF DEFENSE）
       - 2ndアルバム『[FENCE OF DEFENSE II](../Page/FENCE_OF_DEFENSE_II.md "wikilink")』収録曲。
 4.  **FREAKS**
     　（作詞:K.INOJO　作曲:西村麻聡　編曲:FENCE OF DEFENSE）
@@ -51,7 +51,7 @@ FODとしては、[1999年](../Page/1999年.md "wikilink")の『[LOGICAL AESTHET
     　（作詞:早咲めぐみ/FENCE OF DEFENSE　作曲:FENCE OF DEFENSE　編曲:FENCE OF DEFENSE）
       - 6thアルバム『[digitaglam FOD VI](https://ja.wikipedia.org/wiki/digitaglam_FOD_VI "wikilink")』収録曲。
 12. **STANDING ALONE**
-    　（作詞:[大塚純子](https://ja.wikipedia.org/wiki/大塚純子 "wikilink")　作曲:西村麻聡　編曲:FENCE OF DEFENSE）
+    　（作詞:[大塚純子](../Page/大塚純子.md "wikilink")　作曲:西村麻聡　編曲:FENCE OF DEFENSE）
       - 12thシングル両A面曲、及び7thアルバム『[FENCE OF DEFENSE VII RIDE](../Page/FENCE_OF_DEFENSE_VII_RIDE.md "wikilink")』収録曲。
 13. **COME ON**
     　（作詞:[尾上文](https://ja.wikipedia.org/wiki/尾上文 "wikilink")　作曲:西村麻聡　編曲:FENCE OF DEFENSE）
@@ -66,13 +66,13 @@ FODとしては、[1999年](../Page/1999年.md "wikilink")の『[LOGICAL AESTHET
 ### DISC 2
 
 1.  **SHOCK\!\!**
-    　（作詞:[山本英美](https://ja.wikipedia.org/wiki/山本英美 "wikilink")　作曲:西村麻聡/北島健二/山田亘　編曲:FENCE OF DEFENSE）
+    　（作詞:[山本英美](../Page/山本英美.md "wikilink")　作曲:西村麻聡/北島健二/山田亘　編曲:FENCE OF DEFENSE）
       - 9thアルバム『[hot dogs](https://ja.wikipedia.org/wiki/hot_dogs "wikilink")』収録曲。
 2.  **そんなのないぜ**
-    　（作詞:[大塚純子](https://ja.wikipedia.org/wiki/大塚純子 "wikilink")/早咲めぐみ　作曲:西村麻聡/北島健二/山田亘　編曲:FENCE OF DEFENSE）
+    　（作詞:[大塚純子](../Page/大塚純子.md "wikilink")/早咲めぐみ　作曲:西村麻聡/北島健二/山田亘　編曲:FENCE OF DEFENSE）
       - 9thアルバム『hot dogs』収録曲。
 3.  **AVARICE\!\!**
-    　（作詞:[田村直美](https://ja.wikipedia.org/wiki/田村直美 "wikilink")　作曲:西村麻聡　編曲:FENCE OF DEFENSE）
+    　（作詞:[田村直美](../Page/田村直美.md "wikilink")　作曲:西村麻聡　編曲:FENCE OF DEFENSE）
       - 10thアルバム『[XXX](../Page/XXX_\(アルバム\).md "wikilink")』収録曲。
 4.  **[遥か〜SAILING FOR MY DREAM〜](https://ja.wikipedia.org/wiki/遥か〜SAILING_FOR_MY_DREAM〜 "wikilink")**
     　（作詞:室井美樹　作曲:西村麻聡　編曲:FENCE OF DEFENSE）

@@ -1,19 +1,19 @@
 > この記事は[JINGI](https://ja.wikipedia.org/wiki/JINGI)から翻訳されています。
 
 
-「**JINGI・愛してもらいます**」（じんぎ・あいしてもらいます）は、[中山美穂](https://ja.wikipedia.org/wiki/中山美穂 "wikilink")の6枚目の[シングル](../Page/シングル.md "wikilink")。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[7月15日](../Page/7月15日.md "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")からリリースされた（CDS:KIDS-93）。
+「**JINGI・愛してもらいます**」（じんぎ・あいしてもらいます）は、[中山美穂](../Page/中山美穂.md "wikilink")の6枚目の[シングル](../Page/シングル.md "wikilink")。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[7月15日](../Page/7月15日.md "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")からリリースされた（CDS:KIDS-93）。
 
 ## 解説
 
   - 表題作は自身主演の[東映](../Page/東映.md "wikilink")映画『[ビー・バップ・ハイスクール 高校与太郎哀歌](../Page/ビー・バップ・ハイスクール_高校与太郎哀歌.md "wikilink")』主題歌である。
   - 前シングル発売から約2ヶ月後のリリース、次シングルのリリースも1ヶ月後と非常に短いスパンでのリリースであった。この年だけで5枚のシングルをリリースし5枚全てが年間シングルチャートの100位以内にランクインしている。
-  - デモテープを作った[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")は「イントロ、Aメロ、Bメロ、サビとコード進行が全部同じだ、同じ4小節が4つ並んでいる」と自分の力量の無さに打ちのめされていたが、それを[クレッシェンド](https://ja.wikipedia.org/wiki/クレッシェンド "wikilink")に上げていった[大村雅朗](https://ja.wikipedia.org/wiki/大村雅朗 "wikilink")の仕上げ方に衝撃を受けた\[1\]。
+  - デモテープを作った[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")は「イントロ、Aメロ、Bメロ、サビとコード進行が全部同じだ、同じ4小節が4つ並んでいる」と自分の力量の無さに打ちのめされていたが、それを[クレッシェンド](https://ja.wikipedia.org/wiki/クレッシェンド "wikilink")に上げていった[大村雅朗](../Page/大村雅朗.md "wikilink")の仕上げ方に衝撃を受けた\[1\]。
 
 ## 収録曲
 
 :;1.JINGI・愛してもらいます
 
-::作詞 - [松本隆](../Page/松本隆.md "wikilink") / 作曲 - [小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink") / 編曲 - [大村雅朗](https://ja.wikipedia.org/wiki/大村雅朗 "wikilink")
+::作詞 - [松本隆](../Page/松本隆.md "wikilink") / 作曲 - [小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink") / 編曲 - [大村雅朗](../Page/大村雅朗.md "wikilink")
 
 :;2.Rising Love
 
@@ -25,7 +25,7 @@
 ## 収録アルバム
 
   - JINGI・愛してもらいます
-      - [COLLECTION](https://ja.wikipedia.org/wiki/COLLECTION "wikilink")　
+      - [COLLECTION](../Page/COLLECTION.md "wikilink")　
       - [Complete SINGLES BOX](https://ja.wikipedia.org/wiki/Complete_SINGLES_BOX "wikilink")
       - THE GRATEST HITS 小室哲哉・作品集A（オムニバスアルバム）
       - [風街図鑑 作詞活動30周年記念](https://ja.wikipedia.org/wiki/風街図鑑 "wikilink")〜松本隆（作詞家活動30周年記念[CD-BOX](https://ja.wikipedia.org/wiki/CD-BOX "wikilink")）
@@ -41,7 +41,7 @@
 
 ## カバー
 
-  - [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") - CDデビュー前に[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[TK MUSIC CLAMP](https://ja.wikipedia.org/wiki/TK_MUSIC_CLAMP "wikilink")』で歌唱。(1995年)
+  - [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") - CDデビュー前に[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[TK MUSIC CLAMP](../Page/TK_MUSIC_CLAMP.md "wikilink")』で歌唱。(1995年)
 
 ## 脚注
 

@@ -1,7 +1,7 @@
 > この記事は[JET](https://ja.wikipedia.org/wiki/JET)から翻訳されています。
 
 
-『**ライデンファイターズJET**』（ライデンファイターズジェット、**RAIDEN FIGHTERS JET**）は、[セイブ開発](../Page/セイブ開発.md "wikilink")が[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に販売した[アーケード用縦スクロール](../Page/アーケードゲーム.md "wikilink")[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")。『[ライデンファイターズ](../Page/ライデンファイターズ.md "wikilink")』シリーズ3作目（『[雷電](https://ja.wikipedia.org/wiki/雷電_\(シューティングゲーム\) "wikilink")』シリーズでは6作目）。
+『**ライデンファイターズJET**』（ライデンファイターズジェット、**RAIDEN FIGHTERS JET**）は、[セイブ開発](../Page/セイブ開発.md "wikilink")が[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に販売した[アーケード用縦スクロール](../Page/アーケードゲーム.md "wikilink")[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")。『[ライデンファイターズ](../Page/ライデンファイターズ.md "wikilink")』シリーズ3作目（『[雷電](../Page/雷電_\(シューティングゲーム\).md "wikilink")』シリーズでは6作目）。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 雷電シリーズでは、大元のセイブ開発が制作したものでは最後の作品にあたる。
 
-前々作、前作同様、長らく家庭用ゲーム機への移植はされていなかったが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月27日](../Page/3月27日.md "wikilink")に[サクセスよりシリーズ](https://ja.wikipedia.org/wiki/サクセス_\(ゲーム会社\) "wikilink")3作が『**[ライデンファイターズ エイシズ](https://ja.wikipedia.org/wiki/ライデンファイターズ_エイシズ "wikilink")**』として[Xbox 360にて発売された](../Page/Xbox_360.md "wikilink")。また、[iOSおよび](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")[Android](https://ja.wikipedia.org/wiki/Android "wikilink")端末向けにシリーズ3作と初代『雷電』を1本に収録した『ライデン レガシー』（RAIDEN LEGACY）が[2012年](../Page/2012年.md "wikilink")[12月4日](../Page/12月4日.md "wikilink")にDotEmu社より配信開始された。
+前々作、前作同様、長らく家庭用ゲーム機への移植はされていなかったが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月27日](../Page/3月27日.md "wikilink")に[サクセスよりシリーズ](../Page/サクセス_\(ゲーム会社\).md "wikilink")3作が『**[ライデンファイターズ エイシズ](../Page/ライデンファイターズ_エイシズ.md "wikilink")**』として[Xbox 360にて発売された](../Page/Xbox_360.md "wikilink")。また、[iOSおよび](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")[Android](../Page/Android.md "wikilink")端末向けにシリーズ3作と初代『雷電』を1本に収録した『ライデン レガシー』（RAIDEN LEGACY）が[2012年](../Page/2012年.md "wikilink")[12月4日](../Page/12月4日.md "wikilink")にDotEmu社より配信開始された。
 
 ## ストーリー
 
@@ -19,7 +19,7 @@
 
 ゲームスタート時に自機を選択する。全5+2ステージ、1周エンド。
 
-ステージ1から5はシミュレータによる仮想戦闘。戦績により次のステージが変更され、戦績によってはステージ5でゲームオーバーとなる。一定以上の戦績を収める（特定のステージを通過する）と、自機が最新機「イクシオン」に変更され（隠し機体選択時を除く）実戦ステージ1,2へ突入する。なお、この形式は『[イメージファイト](https://ja.wikipedia.org/wiki/イメージファイト "wikilink")』や『[電脳戦機バーチャロン](../Page/電脳戦機バーチャロン.md "wikilink")』に類似する。
+ステージ1から5はシミュレータによる仮想戦闘。戦績により次のステージが変更され、戦績によってはステージ5でゲームオーバーとなる。一定以上の戦績を収める（特定のステージを通過する）と、自機が最新機「イクシオン」に変更され（隠し機体選択時を除く）実戦ステージ1,2へ突入する。なお、この形式は『[イメージファイト](../Page/イメージファイト.md "wikilink")』や『[電脳戦機バーチャロン](../Page/電脳戦機バーチャロン.md "wikilink")』に類似する。
 
 稼働日数が一定以上が経過するとゲームモードを選択できるようになる。一定以下の日数でも、隠しコマンドで選択可能。ゲームモードは以下の通り。
 
@@ -32,7 +32,7 @@
 
 ### 操作方法
 
-8方向レバーと2ボタン（ショット、[ボンバー](https://ja.wikipedia.org/wiki/ボム_\(シューティングゲーム\) "wikilink")）で[自機](../Page/自機.md "wikilink")を操作する。ショットにはメインウェポンとサブウェポンが存在し、ショットボタンでメインウェポンとサブウェポンを同時に発射する。
+8方向レバーと2ボタン（ショット、[ボンバー](../Page/ボム_\(シューティングゲーム\).md "wikilink")）で[自機](../Page/自機.md "wikilink")を操作する。ショットにはメインウェポンとサブウェポンが存在し、ショットボタンでメインウェポンとサブウェポンを同時に発射する。
 
 ### アイテム
 

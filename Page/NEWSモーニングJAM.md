@@ -5,15 +5,15 @@
 
 ## 概要
 
-タイトルに "NEWS" とあるが、実際には制作局バラエティ班主導の制作体制（プロデューサーには、後に『[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")』を担当する[佐藤哲也](https://ja.wikipedia.org/wiki/佐藤哲也 "wikilink")や、『[たけしの誰でもピカソ](https://ja.wikipedia.org/wiki/たけしの誰でもピカソ "wikilink")』などを手がけた[伊藤成人](https://ja.wikipedia.org/wiki/伊藤成人 "wikilink")が名を連ねた）で、報道局制作のニュースは番組のオープニング直後とエンディング前にそれぞれ3分挿入される程度だった。内容的には若者向けのトレンド情報やトークなど、かつての『[おはようスタジオ](../Page/おはようスタジオ.md "wikilink")』を現代的に再構築したような構成だった。 中でも「ウフフの金曜日」と早朝番組風ではない特殊な画面構成だった「ゲゲゲの月曜日」は[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")『[北野ファンクラブ](https://ja.wikipedia.org/wiki/北野ファンクラブ "wikilink")』の[つきざわけんじ](https://ja.wikipedia.org/wiki/つきざわけんじ "wikilink")が構成演出していた。
+タイトルに "NEWS" とあるが、実際には制作局バラエティ班主導の制作体制（プロデューサーには、後に『[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")』を担当する[佐藤哲也](https://ja.wikipedia.org/wiki/佐藤哲也 "wikilink")や、『[たけしの誰でもピカソ](../Page/たけしの誰でもピカソ.md "wikilink")』などを手がけた[伊藤成人](https://ja.wikipedia.org/wiki/伊藤成人 "wikilink")が名を連ねた）で、報道局制作のニュースは番組のオープニング直後とエンディング前にそれぞれ3分挿入される程度だった。内容的には若者向けのトレンド情報やトークなど、かつての『[おはようスタジオ](../Page/おはようスタジオ.md "wikilink")』を現代的に再構築したような構成だった。 中でも「ウフフの金曜日」と早朝番組風ではない特殊な画面構成だった「ゲゲゲの月曜日」は[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")『[北野ファンクラブ](../Page/北野ファンクラブ.md "wikilink")』の[つきざわけんじ](https://ja.wikipedia.org/wiki/つきざわけんじ "wikilink")が構成演出していた。
 
-なお、当時のこの時間帯のスポンサーには『[ビジネスマンNEWS](https://ja.wikipedia.org/wiki/ビジネスマンNEWS "wikilink")』時代より[東京工業品取引所](https://ja.wikipedia.org/wiki/東京工業品取引所 "wikilink")があったのだが、番組スタイルに合わないためか開始1か月で降板し、スポンサードを夕方の『[TXNニュース THIS EVENING](../Page/TXNニュース_THIS_EVENING.md "wikilink")』に移動した。以降、2009年3月まで（『[NEWS FINE](https://ja.wikipedia.org/wiki/NEWS_FINE "wikilink")』）夕方のニュース番組のスポンサーとして定着していた。
+なお、当時のこの時間帯のスポンサーには『[ビジネスマンNEWS](../Page/ビジネスマンNEWS.md "wikilink")』時代より[東京工業品取引所](https://ja.wikipedia.org/wiki/東京工業品取引所 "wikilink")があったのだが、番組スタイルに合わないためか開始1か月で降板し、スポンサードを夕方の『[TXNニュース THIS EVENING](../Page/TXNニュース_THIS_EVENING.md "wikilink")』に移動した。以降、2009年3月まで（『[NEWS FINE](https://ja.wikipedia.org/wiki/NEWS_FINE "wikilink")』）夕方のニュース番組のスポンサーとして定着していた。
 
 ## 出演者
 
-  - [池谷亨](https://ja.wikipedia.org/wiki/池谷亨 "wikilink")（メインMC）
+  - [池谷亨](../Page/池谷亨.md "wikilink")（メインMC）
   - [西野妙子](https://ja.wikipedia.org/wiki/西野妙子 "wikilink")
-  - 岩崎由実（放送終了後[川原みなみ](https://ja.wikipedia.org/wiki/川原みなみ "wikilink")に改名）
+  - 岩崎由実（放送終了後[川原みなみ](../Page/川原みなみ.md "wikilink")に改名）
   - [羽田恵理香](https://ja.wikipedia.org/wiki/羽田恵理香 "wikilink")
   - [坂木優子](../Page/坂木優子.md "wikilink")
   - [三井ゆり](../Page/三井ゆり.md "wikilink")（金曜担当）
@@ -38,8 +38,8 @@
 ## この時期の他局の早朝番組
 
   - NHK『[NHKニュースおはよう日本](../Page/NHKニュースおはよう日本.md "wikilink")』6:00 - 8:15（番組自体は放送時間が4:30 - 8:00に起伏拡大して現在も放送継続中。）
-  - 日本テレビ『[ジパングあさ6](https://ja.wikipedia.org/wiki/ジパングあさ6 "wikilink")』5:59 - 7:00／『[ズームイン\!\!朝\!](../Page/ズームイン!!朝!.md "wikilink")』7:00 - 8:30
-  - TBS『[オンタイム](../Page/あなたにオンタイム.md "wikilink")』5:30 - 6:50／『[フレッシュ\!](https://ja.wikipedia.org/wiki/ザ・フレッシュ! "wikilink")』6:50 - 8:30
+  - 日本テレビ『[ジパングあさ6](../Page/ジパングあさ6.md "wikilink")』5:59 - 7:00／『[ズームイン\!\!朝\!](../Page/ズームイン!!朝!.md "wikilink")』7:00 - 8:30
+  - TBS『[オンタイム](../Page/あなたにオンタイム.md "wikilink")』5:30 - 6:50／『[フレッシュ\!](../Page/ザ・フレッシュ!.md "wikilink")』6:50 - 8:30
   - フジテレビ『[めざましテレビ](https://ja.wikipedia.org/wiki/めざましテレビ "wikilink")』5:55 - 8:00（番組自体は放送時間が4:55 - 8:00に拡大して現在も放送継続中。）
   - テレビ朝日『[ANNニュースフレッシュ](../Page/ANNニュースフレッシュ.md "wikilink")』6:30 - 6:45／『[新やじうまワイド](../Page/やじうまワイド.md "wikilink")』6:45 - 8:00
 

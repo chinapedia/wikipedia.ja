@@ -22,9 +22,9 @@ APS-Hサイズの撮像素子を使用したカメラボディは種類が少な
 | メーカー・機種                                                                                    | 発売日         | 撮像素子                                                                                             | 備考                                                             |
 | ------------------------------------------------------------------------------------------ | ----------- | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------- |
 | [キヤノン EOS-1D](../Page/キヤノン_EOS-1D.md "wikilink")                                           | 2001年12月    | 28.7×19.1mm 有効画素約415万 [CCDセンサー](../Page/CCDイメージセンサ.md "wikilink")                                |                                                                |
-| [キヤノン EOS-1D MarkII](https://ja.wikipedia.org/wiki/キヤノン_EOS-1D#EOS-1D_MarkII "wikilink")   | 2004年4月     | 28.7×19.1mm 有効画素約820万 [CMOSセンサー](https://ja.wikipedia.org/wiki/CMOSイメージセンサ "wikilink")           |                                                                |
+| [キヤノン EOS-1D MarkII](https://ja.wikipedia.org/wiki/キヤノン_EOS-1D#EOS-1D_MarkII "wikilink")   | 2004年4月     | 28.7×19.1mm 有効画素約820万 [CMOSセンサー](../Page/CMOSイメージセンサ.md "wikilink")                              |                                                                |
 | [キヤノン EOS-1D MarkIIN](https://ja.wikipedia.org/wiki/キヤノン_EOS-1D#EOS-1D_MarkIIN "wikilink") | 2005年9月     | 28.7×19.1mm 有効画素約820万 CMOSセンサー                                                                   |                                                                |
-| [ライカ M8](https://ja.wikipedia.org/wiki/M8_\(カメラ\) "wikilink")                              | 2006年11月    | 27×18mm 有効画素約1,030万 CCDセンサー                                                                      | [レンジファインダー](../Page/レンジファインダーカメラ.md "wikilink")                |
+| [ライカ M8](../Page/M8_\(カメラ\).md "wikilink")                                                 | 2006年11月    | 27×18mm 有効画素約1,030万 CCDセンサー                                                                      | [レンジファインダー](../Page/レンジファインダーカメラ.md "wikilink")                |
 | [キヤノン EOS-1D MarkIII](https://ja.wikipedia.org/wiki/キヤノン_EOS-1D#EOS-1D_MarkIII "wikilink") | 2007年5月     | 28.1×18.7mm 有効画素約1,010万 CMOSセンサー                                                                 |                                                                |
 | ライカ M8.2                                                                                   | 2008年10月23日 | 27×18mm 有効画素約1,030万 CCDセンサー                                                                      | レンジファインダー                                                      |
 | [キヤノン EOS-1D MarkIV](https://ja.wikipedia.org/wiki/キヤノン_EOS-1D#EOS-1D_MarkIV "wikilink")   | 2009年12月26日 | 27.9×18.6mm 有効画素約1,610万 CMOSセンサー                                                                 | 動画撮影対応                                                         |
@@ -33,7 +33,7 @@ APS-Hサイズの撮像素子を使用したカメラボディは種類が少な
 ## 関連事項
 
   - [固体撮像素子](../Page/固体撮像素子.md "wikilink")
-  - [35mmフルサイズ](https://ja.wikipedia.org/wiki/35mmフルサイズ "wikilink")
+  - [35mmフルサイズ](../Page/35mmフルサイズ.md "wikilink")
   - [APS-Cサイズ](../Page/APS-Cサイズ.md "wikilink")
   - [フォーサーズ・システム](https://ja.wikipedia.org/wiki/フォーサーズ・システム "wikilink")
 

@@ -3,7 +3,7 @@
 
 [Windows XP](../Page/Microsoft_Windows_XP.md "wikilink"){{・}}[Vista](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink"){{・}}[7](../Page/Microsoft_Windows_7.md "wikilink"){{・}}[8](https://ja.wikipedia.org/wiki/Microsoft_Windows_8 "wikilink"){{・}}[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink"){{・}}[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink"){{・}}[Android](../Page/Android.md "wikilink") | 種別 = [インスタントメッセンジャー](../Page/インスタントメッセンジャー.md "wikilink") | ライセンス = [プロプライエタリ](../Page/プロプライエタリ・ソフトウェア.md "wikilink") | 公式サイト = <http://www.aim.com/> }}
 
-**AOL Instant Messenger**（略称：*AIM*）は、米[AOL](https://ja.wikipedia.org/wiki/AOL "wikilink")が配布していた[インスタントメッセンジャー](../Page/インスタントメッセンジャー.md "wikilink")。インスタントメッセージやファイル転送の機能を備える。
+**AOL Instant Messenger**（略称：*AIM*）は、米[AOL](../Page/AOL.md "wikilink")が配布していた[インスタントメッセンジャー](../Page/インスタントメッセンジャー.md "wikilink")。インスタントメッセージやファイル転送の機能を備える。
 
 ## 概要
 
@@ -11,9 +11,9 @@
 
 かつてのAOLのシェアの大きさから多くのユーザと多数の互換[クライアントソフトが存在し](../Page/クライアント_\(コンピュータ\).md "wikilink")、[MSN Messengerや](https://ja.wikipedia.org/wiki/MSN_Messenger "wikilink")[Yahoo\! Messengerと並ぶインスタントメッセージソフトだった](../Page/Yahoo!_Messenger.md "wikilink")。
 
-2016年現在においての公式クライアントは、[Windows版と](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")版、及びに[iOS版と](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")[Android](../Page/Android.md "wikilink")版である。互換クライアントを利用すれば[Linux](https://ja.wikipedia.org/wiki/Linux "wikilink")等の環境からも利用できる。公式サイトからWeb版へのサインインも可能。 なお利用にはAOLの[アカウント](https://ja.wikipedia.org/wiki/アカウント "wikilink")かスクリーンネーム、あるいは.Macのアカウントが必要。
+2016年現在においての公式クライアントは、[Windows版と](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")版、及びに[iOS版と](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")[Android](../Page/Android.md "wikilink")版である。互換クライアントを利用すれば[Linux](../Page/Linux.md "wikilink")等の環境からも利用できる。公式サイトからWeb版へのサインインも可能。 なお利用にはAOLの[アカウント](../Page/アカウント.md "wikilink")かスクリーンネーム、あるいは.Macのアカウントが必要。
 
-またAOLでは[ICQ](https://ja.wikipedia.org/wiki/ICQ "wikilink")ネットワークの運営も行っていたため、かつてはICQクライアントとメッセージをやり取りすることもできた。（現在のバージョンでは不可能）
+またAOLでは[ICQ](../Page/ICQ.md "wikilink")ネットワークの運営も行っていたため、かつてはICQクライアントとメッセージをやり取りすることもできた。（現在のバージョンでは不可能）
 
 AOLの事業を現在運営している[Verizon Communicationsの子会社](https://ja.wikipedia.org/wiki/Verizon_Communications "wikilink")[Oath](https://ja.wikipedia.org/wiki/Oath "wikilink")が2017年10月6日に12月15日（米国時間）をもってサービスを終了することを発表した\[3\]。
 
@@ -21,7 +21,7 @@ AOLの事業を現在運営している[Verizon Communicationsの子会社](http
 
 ## OSCARプロトコル
 
-AOL Instant Messengerで採用されている[プロトコル](../Page/プロトコル.md "wikilink")はOSCARと呼ばれ、原則的に非公開のプロトコルである。このOSCARプロトコルを独自に解析し実装したソフトウェアは数多くあったものの、運営元のAOLではこれら[サードパーティー](https://ja.wikipedia.org/wiki/サードパーティー "wikilink")製ソフトウェアによるアクセスを自社ネットワークへの「[クラッキング](../Page/クラッキング_\(コンピューター用語\).md "wikilink")」であるとして、アクセスを遮断するなど厳しい態度を取り続けてきた\[5\]\[6\]\[7\]。しかし2004年以降、互換クライアントのアクセスを遮断したという話は聞かない\[8\]。 Appleの[iChat](https://ja.wikipedia.org/wiki/iChat "wikilink")のAIM対応はAOLから承認され、公式な実装を使用している\[9\]\[10\]。
+AOL Instant Messengerで採用されている[プロトコル](../Page/プロトコル.md "wikilink")はOSCARと呼ばれ、原則的に非公開のプロトコルである。このOSCARプロトコルを独自に解析し実装したソフトウェアは数多くあったものの、運営元のAOLではこれら[サードパーティー](../Page/サードパーティー.md "wikilink")製ソフトウェアによるアクセスを自社ネットワークへの「[クラッキング](../Page/クラッキング_\(コンピューター用語\).md "wikilink")」であるとして、アクセスを遮断するなど厳しい態度を取り続けてきた\[5\]\[6\]\[7\]。しかし2004年以降、互換クライアントのアクセスを遮断したという話は聞かない\[8\]。 Appleの[iChat](https://ja.wikipedia.org/wiki/iChat "wikilink")のAIM対応はAOLから承認され、公式な実装を使用している\[9\]\[10\]。
 
 2006年3月6日にOpen AIMのSDKが提供され\[11\]、2008年3月5日には仕様が一部公開されている\[12\]。 しかし、互換クライアントの開発者は独自に仕様を解析し実装しているようである。現在では[オープンソース](../Page/オープンソース.md "wikilink")の互換クライアントも数多くあり、その[ソースコード](../Page/ソースコード.md "wikilink")を読むことでOSCARプロトコルを知ることができる。
 
@@ -32,7 +32,7 @@ AOL Instant Messengerで採用されている[プロトコル](../Page/プロト
   - [XMPP](../Page/Extensible_Messaging_and_Presence_Protocol.md "wikilink")
   - [Kopete](https://ja.wikipedia.org/wiki/Kopete "wikilink")
   - [Miranda IM](https://ja.wikipedia.org/wiki/Miranda_IM "wikilink")（英語版）
-  - [Pidgin](https://ja.wikipedia.org/wiki/Pidgin "wikilink") (旧称：Gaim)
+  - [Pidgin](../Page/Pidgin.md "wikilink") (旧称：Gaim)
   - TerraIM（英語版）
   - Emacs 版：TNT（英語版）
   - [Trillian](https://ja.wikipedia.org/wiki/Trillian "wikilink")（英語版）

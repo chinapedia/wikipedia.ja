@@ -1,15 +1,15 @@
 > この記事は[MAQuillAGE](https://ja.wikipedia.org/wiki/MAQuillAGE)から翻訳されています。
 
 
-**MAQuillAGE**（マキアージュ）は、[化粧品](../Page/化粧品.md "wikilink")メーカーの[資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")が[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（[平成](../Page/平成.md "wikilink")17年）[8月21日](../Page/8月21日.md "wikilink")より販売しているトータル[メーキャップ](https://ja.wikipedia.org/wiki/メーキャップ "wikilink")[ブランド](../Page/ブランド.md "wikilink")の名称である。[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")で  （ マキヤージュ\[1\]）とは「[化粧](../Page/化粧.md "wikilink")」の意。
+**MAQuillAGE**（マキアージュ）は、[化粧品](../Page/化粧品.md "wikilink")メーカーの[資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")が[2005年](../Page/2005年.md "wikilink")（[平成](../Page/平成.md "wikilink")17年）[8月21日](../Page/8月21日.md "wikilink")より販売しているトータル[メーキャップ](https://ja.wikipedia.org/wiki/メーキャップ "wikilink")[ブランド](../Page/ブランド.md "wikilink")の名称である。[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")で  （ マキヤージュ\[1\]）とは「[化粧](../Page/化粧.md "wikilink")」の意。
 
 ## 経緯
 
 資生堂は、これまで消費の多様化に応えるため100を超えるブランドを発表してきたが、収益力の低下を招き、化粧品市場は頭打ちになっていた。この状況を打開するため、2005年（平成17年）に入り「メガブランド構想」を打ち出し、ブランド数を絞り込む戦略に方針転換を始めた。
 
-その第1弾として、同社の主力ブランドでいずれも年間売上が約200億円である、ポイントメーキャップ（[口紅](https://ja.wikipedia.org/wiki/口紅 "wikilink")や[アイシャドー](https://ja.wikipedia.org/wiki/アイシャドー "wikilink")など）のブランド「[ピエヌ](https://ja.wikipedia.org/wiki/ピエヌ "wikilink")」とベースメーキャップ（[ファンデーションなど](../Page/ファンデーション_\(化粧品\).md "wikilink")）のブランド「[プラウディア](https://ja.wikipedia.org/wiki/資生堂・プラウディア "wikilink")」を統合\[2\] して、新ブランド「MAQuillAGE」を立ち上げることを発表し、発売後1年間で500億円の売り上げを目標にすることとした。
+その第1弾として、同社の主力ブランドでいずれも年間売上が約200億円である、ポイントメーキャップ（[口紅](../Page/口紅.md "wikilink")や[アイシャドー](../Page/アイシャドー.md "wikilink")など）のブランド「[ピエヌ](../Page/ピエヌ.md "wikilink")」とベースメーキャップ（[ファンデーションなど](../Page/ファンデーション_\(化粧品\).md "wikilink")）のブランド「[プラウディア](../Page/資生堂・プラウディア.md "wikilink")」を統合\[2\] して、新ブランド「MAQuillAGE」を立ち上げることを発表し、発売後1年間で500億円の売り上げを目標にすることとした。
 
-「MAQuillAGE」は、資生堂のブランドの中では過去最大規模の40億円の宣伝費を投じ、初代[イメージモデルには](../Page/キャラクター.md "wikilink")[女優の](../Page/俳優.md "wikilink")[篠原涼子](https://ja.wikipedia.org/wiki/篠原涼子 "wikilink")、[伊東美咲](https://ja.wikipedia.org/wiki/伊東美咲 "wikilink")、[蛯原友里](https://ja.wikipedia.org/wiki/蛯原友里 "wikilink")、[栗山千明](https://ja.wikipedia.org/wiki/栗山千明 "wikilink")の4人を起用した。また、[イメージソングとして](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")[山田タマル](https://ja.wikipedia.org/wiki/山田タマル "wikilink")の「[My Brand New Eden](https://ja.wikipedia.org/wiki/My_Brand_New_Eden "wikilink")」が[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）冬のプロモーションまで使用された。 ※その後の変遷については下記参照。
+「MAQuillAGE」は、資生堂のブランドの中では過去最大規模の40億円の宣伝費を投じ、初代[イメージモデルには](../Page/キャラクター.md "wikilink")[女優の](../Page/俳優.md "wikilink")[篠原涼子](https://ja.wikipedia.org/wiki/篠原涼子 "wikilink")、[伊東美咲](https://ja.wikipedia.org/wiki/伊東美咲 "wikilink")、[蛯原友里](https://ja.wikipedia.org/wiki/蛯原友里 "wikilink")、[栗山千明](https://ja.wikipedia.org/wiki/栗山千明 "wikilink")の4人を起用した。また、[イメージソングとして](../Page/コマーシャルソング.md "wikilink")[山田タマル](https://ja.wikipedia.org/wiki/山田タマル "wikilink")の「[My Brand New Eden](../Page/My_Brand_New_Eden.md "wikilink")」が[2006年](../Page/2006年.md "wikilink")（平成18年）冬のプロモーションまで使用された。 ※その後の変遷については下記参照。
 
 ### MAQuillAGEにまつわる主な出来事
 
@@ -22,12 +22,12 @@
 
   -
     同日にはタイアップ番組として[日本テレビ系で](../Page/日本テレビ放送網.md "wikilink")『Tokyo美人物語〜本当のキレイを探す旅〜』が22:00～23:30(JST)の時間に放送され、イメージモデルの4人が出演した。
-    通常、この時間は『[おしゃれイズム](https://ja.wikipedia.org/wiki/おしゃれイズム "wikilink")』が放送される時間帯であるため、通常の番組構成を変更しての放送であった。
+    通常、この時間は『[おしゃれイズム](../Page/おしゃれイズム.md "wikilink")』が放送される時間帯であるため、通常の番組構成を変更しての放送であった。
     また、放送時間中のCMでは60秒のスペシャルバージョンが何度か放送された。
 
 <!-- end list -->
 
-  - 2006年[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink") 日本テレビ系で『[マキアージュ ドラマスペシャル ウーマンズ・アイランド〜彼女たちの選択〜](https://ja.wikipedia.org/wiki/ウーマンズ・アイランド〜彼女たちの選択〜 "wikilink")』が放送された（出演：篠原涼子、栗山千明、蛯原友里）。
+  - 2006年[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink") 日本テレビ系で『[マキアージュ ドラマスペシャル ウーマンズ・アイランド〜彼女たちの選択〜](../Page/ウーマンズ・アイランド〜彼女たちの選択〜.md "wikilink")』が放送された（出演：篠原涼子、栗山千明、蛯原友里）。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月21日](../Page/7月21日.md "wikilink") ファッションデザイナーの[クリストファー・ケイン](https://ja.wikipedia.org/wiki/クリストファー・ケイン "wikilink")とコラボレートした新製品を発売。
   - [2009年](../Page/2009年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink") 中国への導入に伴い、[ユニバーサル・ピクチャーズ](https://ja.wikipedia.org/wiki/ユニバーサル・ピクチャーズ "wikilink")と技術協力により、理想の顔立ちと「美の黄金バランス」を実現できるメーキャップブランドへとリニューアル。
   - 2008年[7月21日](../Page/7月21日.md "wikilink") ファッションデザイナーの[アレキサンダー・ワン](https://ja.wikipedia.org/wiki/アレキサンダー・ワン "wikilink")とコラボレートした新製品を発売。

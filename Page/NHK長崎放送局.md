@@ -1,24 +1,24 @@
 > この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
 
 
-**NHK長崎放送局**（エヌエイチケイながさきほうそうきょく）は、[長崎県](../Page/長崎県.md "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局である](https://ja.wikipedia.org/wiki/日本放送協会放送局の一覧 "wikilink")。テレビとラジオで県域放送を行っている。
+**NHK長崎放送局**（エヌエイチケイながさきほうそうきょく）は、[長崎県](../Page/長崎県.md "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局である](../Page/日本放送協会放送局の一覧.md "wikilink")。テレビとラジオで県域放送を行っている。
 
-かつて[NHK佐世保放送局が長崎県の北部を受け持っていたが](https://ja.wikipedia.org/wiki/NHK佐世保支局 "wikilink")、現在は支局となっている。
+かつて[NHK佐世保放送局が長崎県の北部を受け持っていたが](../Page/NHK佐世保支局.md "wikilink")、現在は支局となっている。
 
 ## 沿革
 
-  - [1933年](../Page/1933年.md "wikilink")（昭和8年）[9月20日](../Page/9月20日.md "wikilink") - **[社団法人](https://ja.wikipedia.org/wiki/社団法人 "wikilink")日本放送協会長崎放送局**開局 （[呼出符号](https://ja.wikipedia.org/wiki/識別信号 "wikilink")：JOAG）。
+  - [1933年](../Page/1933年.md "wikilink")（昭和8年）[9月20日](../Page/9月20日.md "wikilink") - **[社団法人](../Page/社団法人.md "wikilink")日本放送協会長崎放送局**開局 （[呼出符号](https://ja.wikipedia.org/wiki/識別信号 "wikilink")：JOAG）。
   - [1945年](../Page/1945年.md "wikilink")（昭和20年）8月9日 - [原爆により壊滅](https://ja.wikipedia.org/wiki/長崎市への原子爆弾投下 "wikilink")、放送局の機能停止。
   - 1945年（昭和20年）[8月13日](../Page/8月13日.md "wikilink") - 放送再開。
   - [1950年](../Page/1950年.md "wikilink")（昭和25年）[6月1日](../Page/6月1日.md "wikilink") - [放送法](../Page/放送法.md "wikilink")施行に伴い社団法人日本放送協会が解散。[特殊法人](../Page/特殊法人.md "wikilink")としての**日本放送協会**が設立され一切の権利義務を継承。
   - [1958年](../Page/1958年.md "wikilink")（昭和33年）12月22日 - 総合テレビジョン放送開始。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）[12月1日](../Page/12月1日.md "wikilink") - 地上デジタル放送開始（[長崎市](https://ja.wikipedia.org/wiki/長崎市 "wikilink")[稲佐山](https://ja.wikipedia.org/wiki/稲佐山 "wikilink")から送信）。
+  - [2006年](../Page/2006年.md "wikilink")（平成18年）[12月1日](../Page/12月1日.md "wikilink") - 地上デジタル放送開始（[長崎市](../Page/長崎市.md "wikilink")[稲佐山](../Page/稲佐山.md "wikilink")から送信）。
   - [2011年](../Page/2011年.md "wikilink")（平成23年）[1月24日](../Page/1月24日.md "wikilink") - [対馬市](../Page/対馬市.md "wikilink")内のアナログテレビ中継局のうち、[厳原中継局](https://ja.wikipedia.org/wiki/厳原中継局 "wikilink")を除く5局（南厳原（みなみいづはら）、佐須奈（さすな）、対馬伊奈（つしまいな）、志多留（したる）、比田勝（ひたかつ））が先行廃止（[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")・[テレビ長崎](../Page/テレビ長崎.md "wikilink")も同様）。
   - 2011年（平成23年）[7月24日](../Page/7月24日.md "wikilink") - アナログ放送終了。
 
 ## 所在地
 
-  - 〒850-8603　[長崎市](https://ja.wikipedia.org/wiki/長崎市 "wikilink")西坂町1番1号
+  - 〒850-8603　[長崎市](../Page/長崎市.md "wikilink")西坂町1番1号
 
 ## 主なテレビのチャンネル
 
@@ -48,8 +48,8 @@
 #### アナログ
 
   - コールサイン：JOAG-TV
-  - 長崎：3ch 映像1kW／音声250W（[稲佐山](https://ja.wikipedia.org/wiki/稲佐山 "wikilink")）
-  - [佐世保](../Page/佐世保市.md "wikilink")：8ch 映像1kW／音声250W（[烏帽子岳](https://ja.wikipedia.org/wiki/烏帽子岳_\(佐世保市\) "wikilink")）
+  - 長崎：3ch 映像1kW／音声250W（[稲佐山](../Page/稲佐山.md "wikilink")）
+  - [佐世保](../Page/佐世保市.md "wikilink")：8ch 映像1kW／音声250W（[烏帽子岳](../Page/烏帽子岳_\(佐世保市\).md "wikilink")）
 
 <!-- end list -->
 
@@ -156,9 +156,9 @@
 
 #### 放送エリアに関する特記事項
 
-  - [島原半島](https://ja.wikipedia.org/wiki/島原半島 "wikilink")では、ラジオ第2放送は[熊本局がカバーしている](../Page/NHK熊本放送局.md "wikilink")。
-  - 1990年度に[松浦市](https://ja.wikipedia.org/wiki/松浦市 "wikilink")の高法知岳と[壱岐市](../Page/壱岐市.md "wikilink")の岳ノ辻との間に固定無線回線（FPU）が設けられる以前、壱岐市と[対馬市](../Page/対馬市.md "wikilink")ではテレビとFMは[福岡局のエリアだった](../Page/NHK福岡放送局.md "wikilink")。現在、FMの厳原局、郷ノ浦局は佐世保局を[エア受けしている](https://ja.wikipedia.org/wiki/エアチェック "wikilink")。
-  - [佐世保支局が放送局扱いだった時は総合では](https://ja.wikipedia.org/wiki/NHK佐世保支局 "wikilink")「JOAG（-TV）・JOAQ（-TV）」、教育では「JOAC（-TV）・JOAZ（-TV）」の2つのコールサインをアナウンスしていた。
+  - [島原半島](../Page/島原半島.md "wikilink")では、ラジオ第2放送は[熊本局がカバーしている](../Page/NHK熊本放送局.md "wikilink")。
+  - 1990年度に[松浦市](../Page/松浦市.md "wikilink")の高法知岳と[壱岐市](../Page/壱岐市.md "wikilink")の岳ノ辻との間に固定無線回線（FPU）が設けられる以前、壱岐市と[対馬市](../Page/対馬市.md "wikilink")ではテレビとFMは[福岡局のエリアだった](../Page/NHK福岡放送局.md "wikilink")。現在、FMの厳原局、郷ノ浦局は佐世保局を[エア受けしている](../Page/エアチェック.md "wikilink")。
+  - [佐世保支局が放送局扱いだった時は総合では](../Page/NHK佐世保支局.md "wikilink")「JOAG（-TV）・JOAQ（-TV）」、教育では「JOAC（-TV）・JOAZ（-TV）」の2つのコールサインをアナウンスしていた。
 
 ## 支局
 
@@ -177,7 +177,7 @@
   - ながさきスペシャル（不定期）
   - [長崎平和祈念式典](https://ja.wikipedia.org/wiki/長崎原爆犠牲者慰霊平和祈念式典#中継 "wikilink")（毎年8月9日 10:30 - 11:50）
 
-※[全国高等学校野球選手権大会](https://ja.wikipedia.org/wiki/全国高等学校野球選手権大会 "wikilink")を[飛び降り](https://ja.wikipedia.org/wiki/飛び降り "wikilink")（Eテレへの振り替えなし）で[九州](../Page/九州.md "wikilink")・[沖縄ブロックで放送されていたが](../Page/沖縄県.md "wikilink")、2000年から全国で放送されるようになった\[1\]。
+※[全国高等学校野球選手権大会](https://ja.wikipedia.org/wiki/全国高等学校野球選手権大会 "wikilink")を[飛び降り](../Page/飛び降り.md "wikilink")（Eテレへの振り替えなし）で[九州](../Page/九州.md "wikilink")・[沖縄ブロックで放送されていたが](../Page/沖縄県.md "wikilink")、2000年から全国で放送されるようになった\[1\]。
 
 ### 教育テレビ
 
@@ -227,12 +227,12 @@
 （キャスター）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/黒氏康博" title="wikilink">黒氏康博</a></p></td>
+<td><p><a href="../Page/黒氏康博.md" title="wikilink">黒氏康博</a></p></td>
 <td><p><a href="../Page/NHK熊本放送局.md" title="wikilink">熊本</a></p></td>
 <td><p>長崎県のニュース</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/三橋大樹" title="wikilink">三橋大樹</a></p></td>
+<td><p><a href="../Page/三橋大樹.md" title="wikilink">三橋大樹</a></p></td>
 <td><p><a href="../Page/NHK宇都宮放送局.md" title="wikilink">宇都宮</a></p></td>
 <td></td>
 </tr>
@@ -287,7 +287,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/斎藤綾乃" title="wikilink">斎藤綾乃</a></p></td>
+<td><p><a href="../Page/斎藤綾乃.md" title="wikilink">斎藤綾乃</a></p></td>
 <td><p><a href="../Page/NHK沖縄放送局.md" title="wikilink">沖縄</a></p></td>
 <td><p>イブニング長崎</p></td>
 </tr>
@@ -298,7 +298,7 @@
 
 ## 関連項目
 
-  - [臨時災害放送局](https://ja.wikipedia.org/wiki/臨時災害放送局 "wikilink")（1991年～96年に[雲仙普賢岳火山活動に伴う](../Page/雲仙岳.md "wikilink")「NHK島原放送局」呼出符号JOBGが開設）
+  - [臨時災害放送局](../Page/臨時災害放送局.md "wikilink")（1991年～96年に[雲仙普賢岳火山活動に伴う](../Page/雲仙岳.md "wikilink")「NHK島原放送局」呼出符号JOBGが開設）
 
 ## 外部リンク
 

@@ -2,13 +2,13 @@
 
 
 [thumb|right|260px|上空より撮影したSPring-8サイト全景
-SPring-8蓄積リング棟（中央の円環状建物）および [SACLA](https://ja.wikipedia.org/wiki/SACLA "wikilink")（左上方の直線状建物）](https://ja.wikipedia.org/wiki/ファイル:SPring-8.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:SPring-8_2007_12img_pano.jpg "wikilink")  **SPring-8**（スプリングエイト、**S**uper **P**hoton **ring-8** GeV）は、[兵庫県](../Page/兵庫県.md "wikilink")[佐用郡](../Page/佐用郡.md "wikilink")[佐用町](https://ja.wikipedia.org/wiki/佐用町 "wikilink")光都一丁目1番1号、[播磨科学公園都市](https://ja.wikipedia.org/wiki/播磨科学公園都市 "wikilink")内に位置する大型[放射光](../Page/放射光.md "wikilink")施設。[電子](https://ja.wikipedia.org/wiki/電子 "wikilink")を加速・貯蔵するための[加速器](https://ja.wikipedia.org/wiki/加速器 "wikilink")群と発生した放射光を利用するための実験施設および各種付属施設から成る。名前の8は電子の最大加速エネルギーである8[GeVに因んでつけられた](../Page/電子ボルト.md "wikilink")。
+SPring-8蓄積リング棟（中央の円環状建物）および [SACLA](https://ja.wikipedia.org/wiki/SACLA "wikilink")（左上方の直線状建物）](https://ja.wikipedia.org/wiki/ファイル:SPring-8.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:SPring-8_2007_12img_pano.jpg "wikilink")  **SPring-8**（スプリングエイト、**S**uper **P**hoton **ring-8** GeV）は、[兵庫県](../Page/兵庫県.md "wikilink")[佐用郡](../Page/佐用郡.md "wikilink")[佐用町](../Page/佐用町.md "wikilink")光都一丁目1番1号、[播磨科学公園都市](../Page/播磨科学公園都市.md "wikilink")内に位置する大型[放射光](../Page/放射光.md "wikilink")施設。[電子](https://ja.wikipedia.org/wiki/電子 "wikilink")を加速・貯蔵するための[加速器](../Page/加速器.md "wikilink")群と発生した放射光を利用するための実験施設および各種付属施設から成る。名前の8は電子の最大加速エネルギーである8[GeVに因んでつけられた](../Page/電子ボルト.md "wikilink")。
 
 ## 概要
 
 輝度・エネルギー・指向性などの点で世界最高クラスの放射光を発生させることができる。エネルギーが数[keVから](../Page/電子ボルト.md "wikilink")100keV程度の[X線](../Page/X線.md "wikilink")領域の光を中心に利用されるが、よりエネルギーの低い[赤外線](../Page/赤外線.md "wikilink")を発生させることも可能である。またレーザービームを[逆コンプトン散乱させることによって最大](https://ja.wikipedia.org/wiki/コンプトン効果#逆コンプトン散乱 "wikilink")2.4GeVの単色[ガンマ線](../Page/ガンマ線.md "wikilink")を作り出すこともできる。
 
-[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")から[日本原子力研究所](https://ja.wikipedia.org/wiki/日本原子力研究所 "wikilink")（原研）と[理化学研究所](https://ja.wikipedia.org/wiki/理化学研究所 "wikilink")（理研）が共同で建設を開始し、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")10月から供用を開始した\[1\]。両研究所が高輝度光科学研究センター（[特定先端大型研究施設の共用の促進に関する法律](https://ja.wikipedia.org/wiki/特定先端大型研究施設の共用の促進に関する法律 "wikilink")に基づく登録施設利用促進機関）に施設の運転・管理を委託\[2\]。整備費は1,319億円。所在地は兵庫県[佐用郡](../Page/佐用郡.md "wikilink")[佐用町](https://ja.wikipedia.org/wiki/佐用町 "wikilink")光都一丁目1番1号。なお、敷地の一部は[赤穂郡](../Page/赤穂郡.md "wikilink")[上郡町](../Page/上郡町.md "wikilink")と[たつの市](https://ja.wikipedia.org/wiki/たつの市 "wikilink")[新宮町にまたがっており](../Page/新宮町_\(兵庫県\).md "wikilink")、播磨科学公園都市の一角に位置する。
+[1991年](../Page/1991年.md "wikilink")から[日本原子力研究所](../Page/日本原子力研究所.md "wikilink")（原研）と[理化学研究所](https://ja.wikipedia.org/wiki/理化学研究所 "wikilink")（理研）が共同で建設を開始し、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")10月から供用を開始した\[1\]。両研究所が高輝度光科学研究センター（[特定先端大型研究施設の共用の促進に関する法律](https://ja.wikipedia.org/wiki/特定先端大型研究施設の共用の促進に関する法律 "wikilink")に基づく登録施設利用促進機関）に施設の運転・管理を委託\[2\]。整備費は1,319億円。所在地は兵庫県[佐用郡](../Page/佐用郡.md "wikilink")[佐用町](../Page/佐用町.md "wikilink")光都一丁目1番1号。なお、敷地の一部は[赤穂郡](../Page/赤穂郡.md "wikilink")[上郡町](../Page/上郡町.md "wikilink")と[たつの市](../Page/たつの市.md "wikilink")[新宮町にまたがっており](../Page/新宮町_\(兵庫県\).md "wikilink")、播磨科学公園都市の一角に位置する。
 
 ### 一般見学
 
@@ -16,13 +16,13 @@ SPring-8蓄積リング棟（中央の円環状建物）および [SACLA](https:
 
 ### 併設施設
 
-敷地内には、SPring-8とビーム光源を共有し、[ナノテクノロジー](../Page/ナノテクノロジー.md "wikilink")[研究開発](https://ja.wikipedia.org/wiki/研究開発 "wikilink")などに使用される中型放射光施設[ニュースバル](https://ja.wikipedia.org/wiki/ニュースバル "wikilink")（[兵庫県立大学](../Page/兵庫県立大学.md "wikilink")高度産業科学技術研究所）がある。また、実験設備の一部をSPring-8と共用する[X線自由電子レーザー](https://ja.wikipedia.org/wiki/X線自由電子レーザー "wikilink")施設([SACLA](https://ja.wikipedia.org/wiki/SACLA "wikilink"))が2012年より供用運転を開始している。
+敷地内には、SPring-8とビーム光源を共有し、[ナノテクノロジー](../Page/ナノテクノロジー.md "wikilink")[研究開発](../Page/研究開発.md "wikilink")などに使用される中型放射光施設[ニュースバル](https://ja.wikipedia.org/wiki/ニュースバル "wikilink")（[兵庫県立大学](../Page/兵庫県立大学.md "wikilink")高度産業科学技術研究所）がある。また、実験設備の一部をSPring-8と共用する[X線自由電子レーザー](../Page/X線自由電子レーザー.md "wikilink")施設([SACLA](https://ja.wikipedia.org/wiki/SACLA "wikilink"))が2012年より供用運転を開始している。
 
 ## 施設諸元
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Sp8-3972.JPG "wikilink") [SP8_chuou.JPG](https://ja.wikipedia.org/wiki/File:SP8_chuou.JPG "fig:SP8_chuou.JPG")
 
-  - 線型[加速器](https://ja.wikipedia.org/wiki/加速器 "wikilink") - 全長：140m/加速エネルギー：1GeV
+  - 線型[加速器](../Page/加速器.md "wikilink") - 全長：140m/加速エネルギー：1GeV
   - [シンクロトロン](../Page/シンクロトロン.md "wikilink") - 周長：396m/電子エネルギー：8GeVまで加速
   - 蓄積リング - 周長：1,436m
   - ビームライン:62本（2008年1月現在49本が稼動\[4\]）、長さは通常光源から80mまでだが、300m、1,000mのものも設置可能である。
@@ -179,7 +179,7 @@ SPring-8蓄積リング棟（中央の円環状建物）および [SACLA](https:
 <td><p><strong>BL15XU</strong></p></td>
 <td><p>高エネルギー帯域先端材料解析</p></td>
 <td><p>0.5 - 60 keV</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/物質・材料研究機構" title="wikilink">物質・材料研究機構</a></p></td>
+<td><p><a href="../Page/物質・材料研究機構.md" title="wikilink">物質・材料研究機構</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -240,7 +240,7 @@ SPring-8蓄積リング棟（中央の円環状建物）および [SACLA](https:
 <td><p>JAEA 重元素科学I</p></td>
 <td><p>35 - 70 keV<br />
 3 - 37 keV</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日本原子力研究開発機構" title="wikilink">原子力機構</a></p></td>
+<td><p><a href="../Page/日本原子力研究開発機構.md" title="wikilink">原子力機構</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -331,7 +331,7 @@ SPring-8蓄積リング棟（中央の円環状建物）および [SACLA](https:
 <td><p><strong>BL33XU</strong></p></td>
 <td><p>豊田</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/豊田中央研究所" title="wikilink">豊田中央研究所</a>[8]</p></td>
+<td><p><a href="../Page/豊田中央研究所.md" title="wikilink">豊田中央研究所</a>[8]</p></td>
 <td><p>光源はテーパ付アンジュレータと高速回転のコンパクト分光器により、数10msecの時間分解能の時分割XAFSが可能</p></td>
 </tr>
 <tr class="odd">
@@ -437,7 +437,7 @@ SPring-8蓄積リング棟（中央の円環状建物）および [SACLA](https:
 <tr class="odd">
 <td><p><strong>BL45XU</strong></p></td>
 <td><p>理研 構造生物学I</p></td>
-<td><p>6.8 - 14.0 keV （<a href="https://ja.wikipedia.org/wiki/X線小角散乱" title="wikilink">SAXS用</a>）<br />
+<td><p>6.8 - 14.0 keV （<a href="../Page/X線小角散乱.md" title="wikilink">SAXS用</a>）<br />
 7.5 - 14.0 keV （PX用）</p></td>
 <td><p>理研</p></td>
 <td></td>
@@ -470,13 +470,13 @@ SPring-8蓄積リング棟（中央の円環状建物）および [SACLA](https:
 
 国内の各大学および理研や原研による学術利用だけでなく、[製薬](../Page/製薬.md "wikilink")会社、[製鉄](https://ja.wikipedia.org/wiki/製鉄 "wikilink")会社など、30社以上の産業利用や海外の研究機関の利用もあり、専用のビームラインが設けられている場合もある。2008年度には、今まで他社と共同でビームラインを利用していた[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")が、単独企業としては初めて専用のビームライン (BL33XU) の新設に着手する\[10\]。
 
-1998年の[和歌山毒物カレー事件](https://ja.wikipedia.org/wiki/和歌山毒物カレー事件 "wikilink")では、使用された毒物の組成を調べるためにSPring-8が使用された。亜ヒ酸に含まれる特定の不純物元素の量を比較して異同識別が行われたが、このための重元素不純物の検出にSPring-8の性能が必要とされたためである\[11\]。
+1998年の[和歌山毒物カレー事件](../Page/和歌山毒物カレー事件.md "wikilink")では、使用された毒物の組成を調べるためにSPring-8が使用された。亜ヒ酸に含まれる特定の不純物元素の量を比較して異同識別が行われたが、このための重元素不純物の検出にSPring-8の性能が必要とされたためである\[11\]。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")の映画「[神様のパズル](https://ja.wikipedia.org/wiki/神様のパズル#.E6.98.A0.E7.94.BB "wikilink")」では施設内が撮影に使用されている。
 
 ## アクセス
 
-  - [相生駅から](https://ja.wikipedia.org/wiki/相生駅_\(兵庫県\) "wikilink")[ウエスト神姫](https://ja.wikipedia.org/wiki/ウエスト神姫 "wikilink")、SPring-8行きで約40分
+  - [相生駅から](https://ja.wikipedia.org/wiki/相生駅_\(兵庫県\) "wikilink")[ウエスト神姫](../Page/ウエスト神姫.md "wikilink")、SPring-8行きで約40分
   - [姫路駅](https://ja.wikipedia.org/wiki/姫路駅 "wikilink")から[神姫バス](../Page/神姫バス.md "wikilink")（急行）、SPring-8行きで約1時間10分（平日のみ1日3往復運行）
 
 ## 脚注
@@ -489,7 +489,7 @@ SPring-8蓄積リング棟（中央の円環状建物）および [SACLA](https:
 
   - [シンクロトロン放射](https://ja.wikipedia.org/wiki/シンクロトロン放射 "wikilink")
   - [ニュースバル](https://ja.wikipedia.org/wiki/ニュースバル "wikilink")（放射光施設）
-  - [日本原子力研究開発機構](https://ja.wikipedia.org/wiki/日本原子力研究開発機構 "wikilink")
+  - [日本原子力研究開発機構](../Page/日本原子力研究開発機構.md "wikilink")
   - [東北放射光施設計画](https://ja.wikipedia.org/wiki/東北放射光施設計画 "wikilink")
 
 ## 外部リンク

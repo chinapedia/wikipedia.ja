@@ -1,7 +1,7 @@
 > この記事は[FNN](https://ja.wikipedia.org/wiki/FNN)から翻訳されています。
 
 
-『**FNN東海テレニュース**』（エフエヌエヌとうかいテレニュース）は、[東海テレビで放送されている](../Page/東海テレビ放送.md "wikilink")[中日新聞](https://ja.wikipedia.org/wiki/中日新聞 "wikilink")制作協力のローカル[ニュース番組である](../Page/報道番組.md "wikilink")。
+『**FNN東海テレニュース**』（エフエヌエヌとうかいテレニュース）は、[東海テレビで放送されている](../Page/東海テレビ放送.md "wikilink")[中日新聞](../Page/中日新聞.md "wikilink")制作協力のローカル[ニュース番組である](../Page/報道番組.md "wikilink")。
 
 ## 放送時間
 
@@ -15,7 +15,7 @@
 
   -
     ローカルニュース枠。2018年3月31日までは『[THE NEWSα Pick](https://ja.wikipedia.org/wiki/THE_NEWSα_Pick "wikilink")』のタイトルを差し替えていた。
-    ※20:57 - 21:00は、[プロ野球](https://ja.wikipedia.org/wiki/プロ野球 "wikilink")シーズン中には『[ドラゴンズTODAY](https://ja.wikipedia.org/wiki/ドラゴンズTODAY "wikilink")』を、シーズンオフには[天気予報](../Page/天気予報.md "wikilink")を放送。
+    ※20:57 - 21:00は、[プロ野球](../Page/プロ野球.md "wikilink")シーズン中には『[ドラゴンズTODAY](../Page/ドラゴンズTODAY.md "wikilink")』を、シーズンオフには[天気予報](../Page/天気予報.md "wikilink")を放送。
     過去、『FNNニュース』時代には、この枠の番組名を『[東海フラッシュニュース](https://ja.wikipedia.org/wiki/東海フラッシュニュース "wikilink")』としていた。
 
 <!-- end list -->
@@ -65,12 +65,12 @@
   - [ユアタイム クイック](https://ja.wikipedia.org/wiki/ユアタイム_クイック "wikilink")
   - [産経テレニュースFNN](https://ja.wikipedia.org/wiki/産経テレニュースFNN "wikilink")
   - [FNNニュース](https://ja.wikipedia.org/wiki/FNNニュース "wikilink")
-  - [FNNニュース・明日の天気](https://ja.wikipedia.org/wiki/FNNニュース・明日の天気 "wikilink")
+  - [FNNニュース・明日の天気](../Page/FNNニュース・明日の天気.md "wikilink")
   - [FNNスピーク](../Page/FNNスピーク.md "wikilink")
   - [FNNスピークWeekend](https://ja.wikipedia.org/wiki/FNNスピークWeekend "wikilink")
-  - [FNN東海テレビスピーク](https://ja.wikipedia.org/wiki/FNN東海テレビスピーク "wikilink")
+  - [FNN東海テレビスピーク](../Page/FNN東海テレビスピーク.md "wikilink")
   - [東海テレビニュースポスト](https://ja.wikipedia.org/wiki/東海テレビニュースポスト "wikilink")
-  - [ドラゴンズTODAY](https://ja.wikipedia.org/wiki/ドラゴンズTODAY "wikilink")
+  - [ドラゴンズTODAY](../Page/ドラゴンズTODAY.md "wikilink")
 
 ## 外部リンク
 
@@ -83,4 +83,4 @@
 1.  フジテレビで『[THE NEWSα Pick](https://ja.wikipedia.org/wiki/THE_NEWSα_Pick "wikilink")』が終了したため現在は月曜の[痛快TV スカッとジャパン](https://ja.wikipedia.org/wiki/痛快TV_スカッとジャパン "wikilink")（20:00 - 21:00）、火曜の[潜在能力テスト](https://ja.wikipedia.org/wiki/潜在能力テスト "wikilink")(20:00 - 21:00)、水曜の[林修のニッポンドリル](https://ja.wikipedia.org/wiki/林修のニッポンドリル "wikilink")（20:00 - 21:00）、木曜の[奇跡体験\!アンビリバボー](../Page/奇跡体験!アンビリバボー.md "wikilink")（19:57 - 21:00）、金曜の[でんじろうのTHE実験](https://ja.wikipedia.org/wiki/でんじろうのTHE実験 "wikilink")（20:00 - 21:00）、土曜の[芸能人が本気で考えた\!ドッキリGP](https://ja.wikipedia.org/wiki/芸能人が本気で考えた!ドッキリGP "wikilink")（20:00 - 21:00）の放送時間が21：00までと各々6分増えたのだが東海テレビは当番組を放送するため最後まで放送することなく20:54で飛び降りている。その為各番組のエンディング部分がカットされているため不自然な終わり方をしている。
 2.  2007年9月30日までは - 6:10。2016年3月27日までは、『[産経テレニュースFNN](https://ja.wikipedia.org/wiki/産経テレニュースFNN "wikilink")』のタイトルを差し替え。
 3.  『FNNニュース』のパートのみ。2004年10月度から2014年度までは0:00 - 0:15
-4.  番組自体は0:15 - 1:05（2007年度まで - 1:15）の『[すぽると\!](../Page/すぽると!.md "wikilink")サタデースペシャル』との[コンプレックス扱いである](https://ja.wikipedia.org/wiki/コンプレックス_\(番組形式\) "wikilink")。
+4.  番組自体は0:15 - 1:05（2007年度まで - 1:15）の『[すぽると\!](../Page/すぽると!.md "wikilink")サタデースペシャル』との[コンプレックス扱いである](../Page/コンプレックス_\(番組形式\).md "wikilink")。

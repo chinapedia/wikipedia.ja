@@ -1,17 +1,17 @@
 > この記事は[PC](https://ja.wikipedia.org/wiki/PC)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:HP_Tablet_PC_running_Windows_XP_\(Tablet_PC_edition\)_\(2006\).jpg "wikilink") TC1100シリーズ\]\] **タブレットPC**（英語：tablet PC）とは、2001年に発表された、タッチインターフェースに対応したマイクロソフト社の[Microsoft Windows XP Tablet PC Edition及びその後継OSがインストールされた](../Page/Microsoft_Windows_XP.md "wikilink")[タブレットの一種](https://ja.wikipedia.org/wiki/タブレット_\(コンピュータ\) "wikilink")。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:HP_Tablet_PC_running_Windows_XP_\(Tablet_PC_edition\)_\(2006\).jpg "wikilink") TC1100シリーズ\]\] **タブレットPC**（英語：tablet PC）とは、2001年に発表された、タッチインターフェースに対応したマイクロソフト社の[Microsoft Windows XP Tablet PC Edition及びその後継OSがインストールされた](../Page/Microsoft_Windows_XP.md "wikilink")[タブレットの一種](../Page/タブレット_\(コンピュータ\).md "wikilink")。
 
 平板状の外形を備え、タッチパネルあるいはペン入力操作（タッチインターフェース\[1\]）に対応した[ディスプレイ](https://ja.wikipedia.org/wiki/ディスプレイ "wikilink")を搭載している。
 
-なお、「[タブレット](https://ja.wikipedia.org/wiki/タブレット_\(コンピュータ\) "wikilink")[PC](../Page/パーソナルコンピュータ.md "wikilink")」と言う表記は、[タブレット端末](https://ja.wikipedia.org/wiki/タブレット_\(コンピュータ\) "wikilink")（タブレット型コンピュータ）全般を指すこともある。
+なお、「[タブレット](../Page/タブレット_\(コンピュータ\).md "wikilink")[PC](../Page/パーソナルコンピュータ.md "wikilink")」と言う表記は、[タブレット端末](../Page/タブレット_\(コンピュータ\).md "wikilink")（タブレット型コンピュータ）全般を指すこともある。
 
-特に本稿では、いわゆるパソコン用OSである [x86](https://ja.wikipedia.org/wiki/x86 "wikilink")/[x64](https://ja.wikipedia.org/wiki/x64 "wikilink")版 Windows に対応したものについて扱う。[Windows Mobile](https://ja.wikipedia.org/wiki/Windows_Mobile "wikilink")、[Windows RTや](https://ja.wikipedia.org/wiki/Microsoft_Windows_RT "wikilink")[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")、Androidがインストールされたモデルについては対象外とする（これらの一部として、本項モデルの後継である[Microsoft Surfaceがある](https://ja.wikipedia.org/wiki/Microsoft_Surface "wikilink")。）。
+特に本稿では、いわゆるパソコン用OSである [x86](https://ja.wikipedia.org/wiki/x86 "wikilink")/[x64](https://ja.wikipedia.org/wiki/x64 "wikilink")版 Windows に対応したものについて扱う。[Windows Mobile](../Page/Windows_Mobile.md "wikilink")、[Windows RTや](https://ja.wikipedia.org/wiki/Microsoft_Windows_RT "wikilink")[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")、Androidがインストールされたモデルについては対象外とする（これらの一部として、本項モデルの後継である[Microsoft Surfaceがある](https://ja.wikipedia.org/wiki/Microsoft_Surface "wikilink")。）。
 
 ## 概要
 
-タブレットPCでは[携帯情報端末](https://ja.wikipedia.org/wiki/携帯情報端末 "wikilink")などと同様に指もしくはペン型の[ポインティングデバイス](../Page/ポインティングデバイス.md "wikilink")で[液晶ディスプレイ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")の表面に実装された[タッチパネル](https://ja.wikipedia.org/wiki/タッチパネル "wikilink")をなぞることで、[マウスと同様の操作と](../Page/マウス_\(コンピュータ\).md "wikilink")、手書き文字や絵・図形などの入力ができる。マウス操作に比べてコンピュータに不慣れな人でも直感的に操作できるとされ\[2\]\[3\]、本体を片手で保持して立ち仕事などでも使用できる。
+タブレットPCでは[携帯情報端末](../Page/携帯情報端末.md "wikilink")などと同様に指もしくはペン型の[ポインティングデバイス](../Page/ポインティングデバイス.md "wikilink")で[液晶ディスプレイ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")の表面に実装された[タッチパネル](../Page/タッチパネル.md "wikilink")をなぞることで、[マウスと同様の操作と](../Page/マウス_\(コンピュータ\).md "wikilink")、手書き文字や絵・図形などの入力ができる。マウス操作に比べてコンピュータに不慣れな人でも直感的に操作できるとされ\[2\]\[3\]、本体を片手で保持して立ち仕事などでも使用できる。
 
 タブレットPCの構想は20世紀末からあったが、実際の製品は、2002年にWindows XP Tablet PC Editionが登場した時点でハードウェア各社から対応製品が登場した。
 
@@ -33,7 +33,7 @@
 
   -
     キーボードが裏返るタイプはヒンジ機構以外は通常のノートPCとほぼ同じ形態であるが、タブレット形態で使うには嵩張るため、ノートパソコン形態メインでとりあえずタブレット形態でも利用できる使い方が想定されている。
-    かつてのタブレットPCは大半がこのタイプで、大抵の場合、ディスプレイとキーボードは1点支持の首振回転式ヒンジで繋がれており、キーボード打鍵面が内側にディスプレイ表示面が外側に向くよう折り畳めるようになっていた。かつての[Ultra-Mobile PCの大半はこのタイプだった](https://ja.wikipedia.org/wiki/Ultra-Mobile_PC "wikilink")。Windows 8が搭載されるようになった以降のものは、2軸ヒンジを使用して簡易的に360度回転する（キーボード打鍵面が外側に向く）ものがほとんどである。
+    かつてのタブレットPCは大半がこのタイプで、大抵の場合、ディスプレイとキーボードは1点支持の首振回転式ヒンジで繋がれており、キーボード打鍵面が内側にディスプレイ表示面が外側に向くよう折り畳めるようになっていた。かつての[Ultra-Mobile PCの大半はこのタイプだった](../Page/Ultra-Mobile_PC.md "wikilink")。Windows 8が搭載されるようになった以降のものは、2軸ヒンジを使用して簡易的に360度回転する（キーボード打鍵面が外側に向く）ものがほとんどである。
 
 <!-- end list -->
 
@@ -71,7 +71,7 @@
 
 ## マイクロソフト社製オペレーティングシステムの対応
 
-同様のカテゴリのPCで以前から[タッチパネルPC](https://ja.wikipedia.org/wiki/タッチパネルPC "wikilink")という製品が存在していた。タブレットPCと異なり、ペン入力等の機能が標準でサポートされていなかったため、各社各様に[インターフェース](https://ja.wikipedia.org/wiki/インタフェース_\(情報技術\) "wikilink")、[デバイスドライバ](../Page/デバイスドライバ.md "wikilink")、[ユーティリティ](https://ja.wikipedia.org/wiki/ユーティリティ "wikilink")、[文字認識](https://ja.wikipedia.org/wiki/文字認識 "wikilink")機能等の仕様がバラバラで統一されていなかった。一部に小売されている物も存在はしたが、専ら産業用途に使われていた。しかし2005年に富士通より「P8210」というタッチパネル型のタブレットPCも登場した。2007年以降はタッチパネルを搭載したUltra-Mobile PCも各社から発売されたが、マシンスペックの問題等で、Windows VistaでもWindows XP Tablet PC Editionでもなく、Windows XP Home Editionにドライバやユーティリティー等を実装して販売された製品も存在した。
+同様のカテゴリのPCで以前から[タッチパネルPC](https://ja.wikipedia.org/wiki/タッチパネルPC "wikilink")という製品が存在していた。タブレットPCと異なり、ペン入力等の機能が標準でサポートされていなかったため、各社各様に[インターフェース](../Page/インタフェース_\(情報技術\).md "wikilink")、[デバイスドライバ](../Page/デバイスドライバ.md "wikilink")、[ユーティリティ](https://ja.wikipedia.org/wiki/ユーティリティ "wikilink")、[文字認識](https://ja.wikipedia.org/wiki/文字認識 "wikilink")機能等の仕様がバラバラで統一されていなかった。一部に小売されている物も存在はしたが、専ら産業用途に使われていた。しかし2005年に富士通より「P8210」というタッチパネル型のタブレットPCも登場した。2007年以降はタッチパネルを搭載したUltra-Mobile PCも各社から発売されたが、マシンスペックの問題等で、Windows VistaでもWindows XP Tablet PC Editionでもなく、Windows XP Home Editionにドライバやユーティリティー等を実装して販売された製品も存在した。
 
 以降のWindows OSでは、標準でペンタブレット入力デバイスでの使用を考慮した設計となっており、ソフトウェア・キーボードの搭載やタブレットを用いた入力スタイルなどが自由に選択可能となっている。
 
@@ -85,7 +85,7 @@
 
   - ペンによる操作
 
-  - [手書き文字認識](https://ja.wikipedia.org/wiki/手書き文字認識 "wikilink")
+  - [手書き文字認識](../Page/手書き文字認識.md "wikilink")
 
   - 音声認識
 
@@ -94,9 +94,9 @@
       - [{{Lang](https://ja.wikipedia.org/wiki/Tablet_PC_入力パネル "wikilink")
 
       -
-      - [付箋](https://ja.wikipedia.org/wiki/付箋 "wikilink")
+      - [付箋](../Page/付箋.md "wikilink")
 
-      - [インクボール](https://ja.wikipedia.org/wiki/インクボール "wikilink")
+      - [インクボール](../Page/インクボール.md "wikilink")
 
   - における、インク機能の利用
 
@@ -130,7 +130,7 @@
 
 ###
 
-2009年に発売された[Windows 7では](https://ja.wikipedia.org/wiki/Microsoft_Windows_7 "wikilink")、Vista以上にタブレットデバイスに対応した機能が拡張されている。「Windowsタッチ」\[11\]機能が標準搭載され、2本以上の指による操作「[マルチタッチ](https://ja.wikipedia.org/wiki/マルチタッチ "wikilink")」によるズームや回転といった操作も行えるようになった。以降、タッチパネル液晶ディスプレイを備えたノートPCやディスプレイ一体型PCが多く登場するようになった。これらの製品はマルチタッチ対応のため、ペンではなく指で操作するのが主流となっていった。タッチパネルの他にキーボードとマウス/タッチパッドも備える場合が多い。このカテゴリに対して特定の名称があるわけではない。
+2009年に発売された[Windows 7では](../Page/Microsoft_Windows_7.md "wikilink")、Vista以上にタブレットデバイスに対応した機能が拡張されている。「Windowsタッチ」\[11\]機能が標準搭載され、2本以上の指による操作「[マルチタッチ](https://ja.wikipedia.org/wiki/マルチタッチ "wikilink")」によるズームや回転といった操作も行えるようになった。以降、タッチパネル液晶ディスプレイを備えたノートPCやディスプレイ一体型PCが多く登場するようになった。これらの製品はマルチタッチ対応のため、ペンではなく指で操作するのが主流となっていった。タッチパネルの他にキーボードとマウス/タッチパッドも備える場合が多い。このカテゴリに対して特定の名称があるわけではない。
 
 ###
 
@@ -145,7 +145,7 @@ Windows 8では、iOSやAndroidといったライバルOSのUIを強く意識し
   -
   - [ノートパソコン](../Page/ノートパソコン.md "wikilink")
 
-  - [ポータブルデータターミナル](https://ja.wikipedia.org/wiki/ポータブルデータターミナル "wikilink")
+  - [ポータブルデータターミナル](../Page/ポータブルデータターミナル.md "wikilink")
 
 ## 外部リンク
 

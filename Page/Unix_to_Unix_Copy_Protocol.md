@@ -1,11 +1,11 @@
 > この記事は[Unix to Unix Copy Protocol](https://ja.wikipedia.org/wiki/Unix_to_Unix_Copy_Protocol)から翻訳されています。
 
 
-**Unix to Unix Copy Protocol**（ユニックス トゥ ユニックス コピー プロトコル、**UUCP**）は、[UNIX](../Page/UNIX.md "wikilink")マシン同士でデータ転送を行う[通信プロトコル](../Page/通信プロトコル.md "wikilink")の一種。初期の[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")の通信手段として広く使われていた。
+**Unix to Unix Copy Protocol**（ユニックス トゥ ユニックス コピー プロトコル、**UUCP**）は、[UNIX](../Page/UNIX.md "wikilink")マシン同士でデータ転送を行う[通信プロトコル](../Page/通信プロトコル.md "wikilink")の一種。初期の[インターネット](../Page/インターネット.md "wikilink")の通信手段として広く使われていた。
 
-料金[定額制](https://ja.wikipedia.org/wiki/定額制 "wikilink")の電話回線において、または電話料金が安い夜間だけに、ファイルを転送したり、転送すべきデータが一定以上蓄積されたら転送するなど、[ダイヤルアップで使うことが想定されている](https://ja.wikipedia.org/wiki/ダイヤルアップ接続 "wikilink")。
+料金[定額制](../Page/定額制.md "wikilink")の電話回線において、または電話料金が安い夜間だけに、ファイルを転送したり、転送すべきデータが一定以上蓄積されたら転送するなど、[ダイヤルアップで使うことが想定されている](../Page/ダイヤルアップ接続.md "wikilink")。
 
-[専用線](https://ja.wikipedia.org/wiki/専用線 "wikilink")が非常に高価であった初期のインターネットでは広く使われていたが、インターネットプロトコルとして[TCP/IPが採用され](https://ja.wikipedia.org/wiki/インターネット・プロトコル・スイート "wikilink")、さらに通信料金が安くなり、インターネット接続が高速化され、また[定額制](https://ja.wikipedia.org/wiki/定額制 "wikilink")・[常時接続](https://ja.wikipedia.org/wiki/常時接続 "wikilink")が当たり前になった現在では、そのような環境にない国や地域を除いて、あまり使われない。
+[専用線](../Page/専用線.md "wikilink")が非常に高価であった初期のインターネットでは広く使われていたが、インターネットプロトコルとして[TCP/IPが採用され](../Page/インターネット・プロトコル・スイート.md "wikilink")、さらに通信料金が安くなり、インターネット接続が高速化され、また[定額制](../Page/定額制.md "wikilink")・[常時接続](../Page/常時接続.md "wikilink")が当たり前になった現在では、そのような環境にない国や地域を除いて、あまり使われない。
 
 UUCPが依然使われている例として、[通信衛星](../Page/通信衛星.md "wikilink")による非常に高価な通信手段しかない洋上の[船舶](https://ja.wikipedia.org/wiki/船舶 "wikilink")におけるメール交換が上げられる。
 
@@ -18,9 +18,9 @@ UUCP全盛の時代においては、**[バケツリレー](https://ja.wikipedia
   - [uuencode](https://ja.wikipedia.org/wiki/uuencode "wikilink")
   - [パソコン通信](../Page/パソコン通信.md "wikilink")
   - [パケット通信 (アマチュア無線)](../Page/パケット通信_\(アマチュア無線\).md "wikilink") - [RBBS](https://ja.wikipedia.org/wiki/RBBS "wikilink")、[AX.25](https://ja.wikipedia.org/wiki/AX.25 "wikilink")等
-  - [ダイヤルアップ接続](https://ja.wikipedia.org/wiki/ダイヤルアップ接続 "wikilink")
-  - [ストアアンドフォワード](https://ja.wikipedia.org/wiki/ストアアンドフォワード "wikilink")
-  - [インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")
+  - [ダイヤルアップ接続](../Page/ダイヤルアップ接続.md "wikilink")
+  - [ストアアンドフォワード](../Page/ストアアンドフォワード.md "wikilink")
+  - [インターネット](../Page/インターネット.md "wikilink")
 
 ## 外部リンク
 

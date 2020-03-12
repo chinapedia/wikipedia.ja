@@ -1,25 +1,25 @@
 > この記事は[CLIE](https://ja.wikipedia.org/wiki/CLIE)から翻訳されています。
 
 
-**CLIE**/**CLIÉ**（クリエ）は、[ソニー](../Page/ソニー.md "wikilink")が開発・製造・販売していた、[Palm OSを搭載する](../Page/Garnet_OS.md "wikilink")[PDA](https://ja.wikipedia.org/wiki/携帯情報端末 "wikilink")。CLIEとは、"Communication Linkage for Information & [Entertainment](https://ja.wikipedia.org/wiki/エンタテインメント "wikilink")"の頭文字をとった造語である。2005年7月出荷終了。
+**CLIE**/**CLIÉ**（クリエ）は、[ソニー](../Page/ソニー.md "wikilink")が開発・製造・販売していた、[Palm OSを搭載する](../Page/Garnet_OS.md "wikilink")[PDA](../Page/携帯情報端末.md "wikilink")。CLIEとは、"Communication Linkage for Information & [Entertainment](https://ja.wikipedia.org/wiki/エンタテインメント "wikilink")"の頭文字をとった造語である。2005年7月出荷終了。
 
 ## 概要
 
 オリジナルのPalm OSの機能に頼らず、独自の拡張によっていち早く高解像度（）のカラー液晶を搭載 し、[デジタルカメラ](../Page/デジタルカメラ.md "wikilink")を搭載するなどした端末を発売し、画像や音楽プレーヤーとして使えるマルチメディア路線を選んで成功を収めた。
 
-同社ではCLIEを「パーソナル・デジタル・アシスタンツ」ではなく、「パーソナル・[エンターテインメント](../Page/エンターテインメント.md "wikilink")・[オーガナイザー](https://ja.wikipedia.org/wiki/手帳 "wikilink")」としており、ビジネス用途としてよりもむしろエンターテインメントツールとして、これまでPDAと縁の無かった層の人々によって使われることを想定している機種が多かった。
+同社ではCLIEを「パーソナル・デジタル・アシスタンツ」ではなく、「パーソナル・[エンターテインメント](../Page/エンターテインメント.md "wikilink")・[オーガナイザー](../Page/手帳.md "wikilink")」としており、ビジネス用途としてよりもむしろエンターテインメントツールとして、これまでPDAと縁の無かった層の人々によって使われることを想定している機種が多かった。
 
 元々PDAは使える電力に限りがあり、高速な[CPU](../Page/CPU.md "wikilink")を積んで動画処理をおこなうには向いていない。また、[Palm](../Page/Palm.md "wikilink")というデバイスは電池交換あるいは充電一回で長期間使えることに重点が置かれていて、マルチメディア志向ではなかった。だがソニーはCLIEに比較的高速のCPUを採用した。電池寿命は同社がそれまでに培ってきた省電力技術を凝らして対処を計っていたと推測される。また 、PEG-N700C以降は日本語表示がきれいな320×320ドットの[ハイレゾリューション](https://ja.wikipedia.org/wiki/ハイレゾリューション "wikilink")（以下ハイレゾ）液晶を搭載、他のPalmメーカーを日本市場から撤退させた。
 
 また、外部[メモリ](https://ja.wikipedia.org/wiki/メモリ "wikilink")としては、同社の[メモリースティック](../Page/メモリースティック.md "wikilink")を採用、自社製品とのシームレスな連携を謳っていた（独自の仕様変更のため、[MacとのSyncにはサードパーティによるツールが別途必要となった](../Page/Macintosh.md "wikilink")）。中には[CFメモリーカードを外部メモリとして利用できる機種もある](../Page/コンパクトフラッシュ.md "wikilink")。
 
-オーソドックスなPalmスタイルのモデルには固執せず、本体下部の上下スクロールボタンとソニーお得意のジョグダイヤルを搭載した上で機能を分けてみたり、TJ25などの後期モデルではジョグダイヤル自体を上下スクロールボタンの位置に埋め込み上下左右の入力を模索した。PEG-NX80Vなど、本体を開くと[キーボードが現れるモデルも発売された](https://ja.wikipedia.org/wiki/キーボード_\(コンピュータ\) "wikilink")。[グラフィティ](https://ja.wikipedia.org/wiki/グラフィティ "wikilink")領域が固定的ではなく、画面の一部に表示される「バーチャルグラフィティ」とも呼ばれる形式のモデルもあり、さらには[漢字](../Page/漢字.md "wikilink")・[かな](../Page/かな.md "wikilink")を直接入力できる[デクマ手書き入力](https://ja.wikipedia.org/wiki/デクマ手書き入力 "wikilink")ソフトウェアを搭載している機種もあった。
+オーソドックスなPalmスタイルのモデルには固執せず、本体下部の上下スクロールボタンとソニーお得意のジョグダイヤルを搭載した上で機能を分けてみたり、TJ25などの後期モデルではジョグダイヤル自体を上下スクロールボタンの位置に埋め込み上下左右の入力を模索した。PEG-NX80Vなど、本体を開くと[キーボードが現れるモデルも発売された](../Page/キーボード_\(コンピュータ\).md "wikilink")。[グラフィティ](../Page/グラフィティ.md "wikilink")領域が固定的ではなく、画面の一部に表示される「バーチャルグラフィティ」とも呼ばれる形式のモデルもあり、さらには[漢字](../Page/漢字.md "wikilink")・[かな](../Page/かな.md "wikilink")を直接入力できる[デクマ手書き入力](https://ja.wikipedia.org/wiki/デクマ手書き入力 "wikilink")ソフトウェアを搭載している機種もあった。
 
-日本向け端末には[日本語入力システム](https://ja.wikipedia.org/wiki/日本語入力システム "wikilink")として「[ATOK Pocket](../Page/ATOK.md "wikilink")」を採用している。
+日本向け端末には[日本語入力システム](../Page/日本語入力システム.md "wikilink")として「[ATOK Pocket](../Page/ATOK.md "wikilink")」を採用している。
 
-PEG-N700Cなどの音楽再生に重点を置いたモデルには、[ウォークマン](https://ja.wikipedia.org/wiki/ウォークマン "wikilink")のようなリモコンつきイヤフォンが標準装備されていた。
+PEG-N700Cなどの音楽再生に重点を置いたモデルには、[ウォークマン](../Page/ウォークマン.md "wikilink")のようなリモコンつきイヤフォンが標準装備されていた。
 
-PEG-UX50などの横長のワイド液晶モデルに至っては、いわゆる[電子辞書](https://ja.wikipedia.org/wiki/電子辞書 "wikilink")のようなスタイルで、他の一般的なPalmデバイスとは異なる外見をしていた。
+PEG-UX50などの横長のワイド液晶モデルに至っては、いわゆる[電子辞書](../Page/電子辞書.md "wikilink")のようなスタイルで、他の一般的なPalmデバイスとは異なる外見をしていた。
 
 VFS（Virtual File System）、画面の縦横切り替え方式など、ソニーが提唱した方式をPalm OSに採用された事などがあったが、各Palm OS採用メーカーにおけるハードウェア的追加部分の差異や、ソフトウェアの共有がなされていなかった事などからPalm OSとしての共通化はなされなかった。
 
@@ -29,7 +29,7 @@ Palm OSを含めたPDA全体の進化が[スマートフォン](https://ja.wikip
 
 ### PEG-S300/PEG-S500C
 
-[2000年](../Page/2000年.md "wikilink")発売。PalmOS3.5搭載。 初代CLIE。Palmにジョグダイヤル・メモリースティック・スロットを加えた。 ハードウェアボタンが手でもスタイラスでも押しやすくデザインされている。 PEG-S500Cはカラーだったが、バックライト用ELの性能から、非常に暗かった。 PEG-S300は後に[VAIO](https://ja.wikipedia.org/wiki/VAIO "wikilink") PCV-LX30/BPとのセット販売が行われた。
+[2000年](../Page/2000年.md "wikilink")発売。PalmOS3.5搭載。 初代CLIE。Palmにジョグダイヤル・メモリースティック・スロットを加えた。 ハードウェアボタンが手でもスタイラスでも押しやすくデザインされている。 PEG-S500Cはカラーだったが、バックライト用ELの性能から、非常に暗かった。 PEG-S300は後に[VAIO](../Page/VAIO.md "wikilink") PCV-LX30/BPとのセット販売が行われた。
 
 ### PEG-N700C
 
@@ -65,7 +65,7 @@ Palm OSを含めたPDA全体の進化が[スマートフォン](https://ja.wikip
 
 ### PEG-NZ90
 
-PalmOS5搭載。[QWERTYキーボード](https://ja.wikipedia.org/wiki/QWERTYキーボード "wikilink")搭載、折りたたみ型CLIE。 エンターテイメントツールとしてのCLIEシリーズの集大成ともいえる機種。NRに始まったWingスタイルを継承しつつも、カメラが200万画素のCCDカメラになり、[Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth "wikilink")を内蔵。カメラは従来機と異なり回転はしない。 ハードウェアキーボードの下に「[FeliCa](../Page/FeliCa.md "wikilink")リーダー」を内蔵し、この部分に[Suica](../Page/Suica.md "wikilink")や[Edy](https://ja.wikipedia.org/wiki/Edy "wikilink")カードをかざすことで、その残高などを照会できる。 [フラッグシップモデル](https://ja.wikipedia.org/wiki/フラッグシップモデル "wikilink")だけあり機能も盛りだくさんだったが、その分カメラ使用時の駆動時間が短いなどツメの甘さも指摘された。
+PalmOS5搭載。[QWERTYキーボード](https://ja.wikipedia.org/wiki/QWERTYキーボード "wikilink")搭載、折りたたみ型CLIE。 エンターテイメントツールとしてのCLIEシリーズの集大成ともいえる機種。NRに始まったWingスタイルを継承しつつも、カメラが200万画素のCCDカメラになり、[Bluetooth](../Page/Bluetooth.md "wikilink")を内蔵。カメラは従来機と異なり回転はしない。 ハードウェアキーボードの下に「[FeliCa](../Page/FeliCa.md "wikilink")リーダー」を内蔵し、この部分に[Suica](../Page/Suica.md "wikilink")や[Edy](https://ja.wikipedia.org/wiki/Edy "wikilink")カードをかざすことで、その残高などを照会できる。 [フラッグシップモデル](https://ja.wikipedia.org/wiki/フラッグシップモデル "wikilink")だけあり機能も盛りだくさんだったが、その分カメラ使用時の駆動時間が短いなどツメの甘さも指摘された。
 
 ### PEG-TG50
 
@@ -81,7 +81,7 @@ PalmOS4搭載。 PEG-SJ30の後継機種。音楽再生機能の追加やCPUをD
 
 ### PEG-UX50
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Sonyux50-2.jpg "wikilink")  [2003年](../Page/2003年.md "wikilink")8月に発売。PalmOS5.2搭載。[QWERTYキーボード](https://ja.wikipedia.org/wiki/QWERTYキーボード "wikilink")搭載、折りたたみ型CLIE。 CLIEのWingスタイル同様の液晶部分が回転するスタイルを採用し横型だった、2002年12月に[シャープ](../Page/シャープ.md "wikilink")から発売された「[ザウルス](https://ja.wikipedia.org/wiki/ザウルス "wikilink") SL-C700」とほぼ同じ形をとり、さらに「世界最小・最軽量」を謳った機種。 [ノートパソコン](../Page/ノートパソコン.md "wikilink")を小型化したような外観をしており、Wingスタイルなので液晶部分を回転させ畳んだ形でも使用できる。 Bluetooth、無線LAN、フルキーボード、31万画素の回転カメラのほか、約22Mの内蔵メディアを搭載した。 この機種からOSの仕様が変わったため、FM音源が非搭載になった。 この機種から手書き入力ソフト[GraffitiがGraffiti](https://ja.wikipedia.org/wiki/グラフィティ_\(Palm\) "wikilink")2に変更された。PalmOS5.2が搭載されている機種にはGraffiti2が搭載されている。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Sonyux50-2.jpg "wikilink")  [2003年](../Page/2003年.md "wikilink")8月に発売。PalmOS5.2搭載。[QWERTYキーボード](https://ja.wikipedia.org/wiki/QWERTYキーボード "wikilink")搭載、折りたたみ型CLIE。 CLIEのWingスタイル同様の液晶部分が回転するスタイルを採用し横型だった、2002年12月に[シャープ](../Page/シャープ.md "wikilink")から発売された「[ザウルス](../Page/ザウルス.md "wikilink") SL-C700」とほぼ同じ形をとり、さらに「世界最小・最軽量」を謳った機種。 [ノートパソコン](../Page/ノートパソコン.md "wikilink")を小型化したような外観をしており、Wingスタイルなので液晶部分を回転させ畳んだ形でも使用できる。 Bluetooth、無線LAN、フルキーボード、31万画素の回転カメラのほか、約22Mの内蔵メディアを搭載した。 この機種からOSの仕様が変わったため、FM音源が非搭載になった。 この機種から手書き入力ソフト[GraffitiがGraffiti](https://ja.wikipedia.org/wiki/グラフィティ_\(Palm\) "wikilink")2に変更された。PalmOS5.2が搭載されている機種にはGraffiti2が搭載されている。
 
 ### PEG-TJ25
 
@@ -89,15 +89,15 @@ PalmOS4搭載。 PEG-SJ30の後継機種。音楽再生機能の追加やCPUをD
 
 ### PEG-TJ37
 
-[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")発売。PalmOS5.2搭載。PEG-TJ25をベースに作られたモデルで、メモリが16Mから32Mになり、カメラが搭載され、音楽プレイヤーとしても利用可能である。 同時発売のPEG-TH55の売れ行きが好調だったため、こちらは早々に生産終了になった。
+[2004年](../Page/2004年.md "wikilink")発売。PalmOS5.2搭載。PEG-TJ25をベースに作られたモデルで、メモリが16Mから32Mになり、カメラが搭載され、音楽プレイヤーとしても利用可能である。 同時発売のPEG-TH55の売れ行きが好調だったため、こちらは早々に生産終了になった。
 
 ### PEG-TH55
 
-[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")発売。PalmOS5.2搭載。ストレート型で初めてワイドハイレゾ液晶（ソフトウェアグラフィティ）を搭載した。 標準色のブラックの他に限定色のセレブレッドも存在する。 無線LANを内蔵し、HotSyncも無線LANで行える。 クリエオーガナイザーと呼ばれる紙の手帳の使い勝手を目指したソフトウェアが搭載されていたが、この機種のCPU（Sony Handheld Engine）では力不足のため、動作が緩慢だった。 欧州版は[Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth "wikilink")を搭載しているが、日本版には搭載されていない。 駆動時間がシリーズ中で最長と推測される。 [メモリースティック](../Page/メモリースティック.md "wikilink")ROMによる辞書ソフトを同梱した派生モデルPEG-TH55DKも発売された。
+[2004年](../Page/2004年.md "wikilink")発売。PalmOS5.2搭載。ストレート型で初めてワイドハイレゾ液晶（ソフトウェアグラフィティ）を搭載した。 標準色のブラックの他に限定色のセレブレッドも存在する。 無線LANを内蔵し、HotSyncも無線LANで行える。 クリエオーガナイザーと呼ばれる紙の手帳の使い勝手を目指したソフトウェアが搭載されていたが、この機種のCPU（Sony Handheld Engine）では力不足のため、動作が緩慢だった。 欧州版は[Bluetooth](../Page/Bluetooth.md "wikilink")を搭載しているが、日本版には搭載されていない。 駆動時間がシリーズ中で最長と推測される。 [メモリースティック](../Page/メモリースティック.md "wikilink")ROMによる辞書ソフトを同梱した派生モデルPEG-TH55DKも発売された。
 
 ### PEG-VZ90
 
-[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")9月発売。PalmOS5.2.1搭載。480×320ドット表示対応3.8型のカラー有機ELディスプレイを搭載し、動画や写真の閲覧に特化している。 事実上、日本語[Palm](../Page/Palm.md "wikilink") PDAおよびCLIEの最終製品となる。
+[2004年](../Page/2004年.md "wikilink")9月発売。PalmOS5.2.1搭載。480×320ドット表示対応3.8型のカラー有機ELディスプレイを搭載し、動画や写真の閲覧に特化している。 事実上、日本語[Palm](../Page/Palm.md "wikilink") PDAおよびCLIEの最終製品となる。
 
 ## 脚注
 
@@ -105,14 +105,14 @@ PalmOS4搭載。 PEG-SJ30の後継機種。音楽再生機能の追加やCPUをD
 
   - [Palm](../Page/Palm.md "wikilink")
   - [Palm OS](https://ja.wikipedia.org/wiki/Palm_OS "wikilink")
-  - [携帯情報端末](https://ja.wikipedia.org/wiki/携帯情報端末 "wikilink") (PDA)
+  - [携帯情報端末](../Page/携帯情報端末.md "wikilink") (PDA)
   - [スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")
   - [ソニー](../Page/ソニー.md "wikilink")
   - [ATOK](../Page/ATOK.md "wikilink") - 一部機種に搭載
   - [mylo](https://ja.wikipedia.org/wiki/mylo "wikilink") - CLIEの後継にあたる[携帯端末](https://ja.wikipedia.org/wiki/携帯端末 "wikilink")
   - [Xperia](https://ja.wikipedia.org/wiki/Xperia "wikilink") - myloの後継にあたるスマートフォン
   - [Walkman](https://ja.wikipedia.org/wiki/Walkman "wikilink")
-  - [ソニーモバイルコミュニケーションズ](https://ja.wikipedia.org/wiki/ソニーモバイルコミュニケーションズ "wikilink")
+  - [ソニーモバイルコミュニケーションズ](../Page/ソニーモバイルコミュニケーションズ.md "wikilink")
 
 ## 外部リンク
 

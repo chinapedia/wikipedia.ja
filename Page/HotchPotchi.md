@@ -1,7 +1,7 @@
 > この記事は[HotchPotchi](https://ja.wikipedia.org/wiki/HotchPotchi)から翻訳されています。
 
 
-**Hotch Potchi**（ハッチ ポッチ）は、[スターダストプロモーション](https://ja.wikipedia.org/wiki/スターダストプロモーション "wikilink")に所属していた男性グループである。
+**Hotch Potchi**（ハッチ ポッチ）は、[スターダストプロモーション](../Page/スターダストプロモーション.md "wikilink")に所属していた男性グループである。
 
 スターダストプロモーションの「ボーイズオーディション」をきっかけに結成され、ライブやイベント出演を中心に活動。
 
@@ -11,7 +11,7 @@
 
 <!-- end list -->
 
-  - 12月頃 - 黒川洋介・川﨑健・火向俊平・神谷隼也人の4人で結成。毎週日曜日に渋谷[NHKホール](https://ja.wikipedia.org/wiki/NHKホール "wikilink")付近で路上ライブを行うようになる。
+  - 12月頃 - 黒川洋介・川﨑健・火向俊平・神谷隼也人の4人で結成。毎週日曜日に渋谷[NHKホール](../Page/NHKホール.md "wikilink")付近で路上ライブを行うようになる。
 
 <!-- end list -->
 
@@ -68,7 +68,7 @@
 ## メンバー
 
   - [越山凌太](https://ja.wikipedia.org/wiki/白水萌生 "wikilink")
-  - [井澤勇貴](https://ja.wikipedia.org/wiki/井澤勇貴 "wikilink")
+  - [井澤勇貴](../Page/井澤勇貴.md "wikilink")
 
 ### 弟分
 
@@ -96,7 +96,7 @@
 
   - 仙道直也
   - 神崎竜之祐
-  - [福山聖二](https://ja.wikipedia.org/wiki/福山聖二 "wikilink")
+  - [福山聖二](../Page/福山聖二.md "wikilink")
 
 ## 出演
 
@@ -110,7 +110,7 @@
 
 ### CDシングル
 
-1.  [Surfin'Dog](https://ja.wikipedia.org/wiki/Surfin'Dog "wikilink")（2007年8月8日） - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[ペット大集合\!ポチたま](../Page/ペット大集合!ポチたま.md "wikilink")』ネロくんテーマソング
+1.  [Surfin'Dog](../Page/Surfin'Dog.md "wikilink")（2007年8月8日） - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[ペット大集合\!ポチたま](../Page/ペット大集合!ポチたま.md "wikilink")』ネロくんテーマソング
 2.  [こんにちワンからワンツースリー](https://ja.wikipedia.org/wiki/こんにちワンからワンツースリー "wikilink")（2007年12月5日）
 
 ### 配信

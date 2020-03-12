@@ -1,7 +1,7 @@
 > この記事は[1st ](https://ja.wikipedia.org/wiki/1st_)から翻訳されています。
 
 
-『**1st 超ベリーズ**』（ファースト ちょうベリーズ）は、[Berryz工房](../Page/Berryz工房.md "wikilink")の1枚目の[アルバム](../Page/アルバム.md "wikilink")。[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")\[1\]、[アップフロントワークス](https://ja.wikipedia.org/wiki/アップフロントワークス "wikilink")の[PICCOLO TOWNレーベル](https://ja.wikipedia.org/wiki/アップフロントワークス "wikilink")（販売元は[キングレコード](../Page/キングレコード.md "wikilink")）より発売。
+『**1st 超ベリーズ**』（ファースト ちょうベリーズ）は、[Berryz工房](../Page/Berryz工房.md "wikilink")の1枚目の[アルバム](../Page/アルバム.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")\[1\]、[アップフロントワークス](../Page/アップフロントワークス.md "wikilink")の[PICCOLO TOWNレーベル](../Page/アップフロントワークス.md "wikilink")（販売元は[キングレコード](../Page/キングレコード.md "wikilink")）より発売。
 
 ## 概要
 
@@ -15,22 +15,22 @@
 
 1.  **[あなたなしでは生きてゆけない](../Page/あなたなしでは生きてゆけない.md "wikilink")** \[3:58\]
       -
-        編曲：[AKIRA](https://ja.wikipedia.org/wiki/AKIRA_\(PALM_DRIVE\) "wikilink")
+        編曲：[AKIRA](../Page/AKIRA_\(PALM_DRIVE\).md "wikilink")
         1stシングル。
 2.  **[ピリリと行こう\!](../Page/ピリリと行こう!.md "wikilink")** \[3:38\]
       -
-        編曲：[平田祥一郎](https://ja.wikipedia.org/wiki/平田祥一郎 "wikilink")
+        編曲：[平田祥一郎](../Page/平田祥一郎.md "wikilink")
         3rdシングル。
 3.  **日直 〜芸能人の会話〜** \[3:20\]
       -
         編曲：[田中直](https://ja.wikipedia.org/wiki/田中直 "wikilink")
 4.  **[ファイティングポーズはダテじゃない\!](../Page/ファイティングポーズはダテじゃない!.md "wikilink")** \[3:28\]
       -
-        編曲：[高橋諭一](https://ja.wikipedia.org/wiki/高橋諭一 "wikilink")
+        編曲：[高橋諭一](../Page/高橋諭一.md "wikilink")
         2ndシングル。
 5.  **恋はひっぱりだこ** \[4:28\]
       -
-        編曲：[鈴木俊介](https://ja.wikipedia.org/wiki/鈴木俊介 "wikilink")
+        編曲：[鈴木俊介](../Page/鈴木俊介.md "wikilink")
 6.  **蝉** \[4:20\]
       -
         編曲：高橋諭一
@@ -45,7 +45,7 @@
         編曲：平田祥一郎
 10. **Bye Bye またね** \[4:45\]
       -
-        編曲：[小西貴雄](https://ja.wikipedia.org/wiki/小西貴雄 "wikilink")
+        編曲：[小西貴雄](../Page/小西貴雄.md "wikilink")
 11. **あなたなしでは生きてゆけない（FUNKY remix）** \[4:13\]
       -
         編曲：田中直

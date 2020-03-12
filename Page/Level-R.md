@@ -5,9 +5,9 @@
 
 ## 沿革（日本語版）
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月15日](../Page/12月15日.md "wikilink")から[12月17日](../Page/12月17日.md "wikilink")まで通信機能などのチェックのため技術テスト
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[2月2日](../Page/2月2日.md "wikilink")から[2月16日](../Page/2月16日.md "wikilink")までクローズドβテスト
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月27日](../Page/4月27日.md "wikilink")よりオープンβテスト
+  - [2006年](../Page/2006年.md "wikilink")[12月15日](../Page/12月15日.md "wikilink")から[12月17日](../Page/12月17日.md "wikilink")まで通信機能などのチェックのため技術テスト
+  - [2007年](../Page/2007年.md "wikilink")[2月2日](../Page/2月2日.md "wikilink")から[2月16日](../Page/2月16日.md "wikilink")までクローズドβテスト
+  - [2007年](../Page/2007年.md "wikilink")[4月27日](../Page/4月27日.md "wikilink")よりオープンβテスト
       - 長らくオープンβテスト期間が続く。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[10月21日](../Page/10月21日.md "wikilink")より正式サービス開始。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月1日](../Page/2月1日.md "wikilink")、サービス終了告知が行われた[1](http://www.level-r.jp/live/news.aspx?seq=519&page=0)
@@ -19,9 +19,9 @@
 
 Invictus Gamesが開発した物理エンジンを使用しているため、車が何かに衝突・接触した時にダメージを受けると、車が壊れたり操作がしにくくなったりする。修理機能やコース復帰機能があるため、初心者やレースゲームが苦手な人にもプレイしやすい設計となっている。
 
-対戦時の通信に[P2P方式を採用しており](../Page/Peer_to_Peer.md "wikilink")、データを高速でやり取りすることで通信遅延を減らす工夫がされている。なお、クローズドβテスト以降は[クライアント/サーバ方式も併用する形となっている](https://ja.wikipedia.org/wiki/クライアントサーバモデル "wikilink")。
+対戦時の通信に[P2P方式を採用しており](../Page/Peer_to_Peer.md "wikilink")、データを高速でやり取りすることで通信遅延を減らす工夫がされている。なお、クローズドβテスト以降は[クライアント/サーバ方式も併用する形となっている](../Page/クライアントサーバモデル.md "wikilink")。
 
-コースには東京の[丸の内](../Page/丸の内.md "wikilink")や[皇居](../Page/皇居.md "wikilink")周辺、[丹沢山](https://ja.wikipedia.org/wiki/丹沢山 "wikilink")の山間部など実在の道路をモデルとしたコースもあった。
+コースには東京の[丸の内](../Page/丸の内.md "wikilink")や[皇居](../Page/皇居.md "wikilink")周辺、[丹沢山](../Page/丹沢山.md "wikilink")の山間部など実在の道路をモデルとしたコースもあった。
 
 ## ゲームシステム
 
@@ -52,7 +52,7 @@ Invictus Gamesが開発した物理エンジンを使用しているため、車
   - 1968年式　Invictus [Phoenix 400 HO](https://ja.wikipedia.org/wiki/ポンティアック・ファイヤーバード#初代 "wikilink")
   - 1984年式　Invictus [Corall Spire GTi](https://ja.wikipedia.org/wiki/スズキ・カルタス#初代（1983年_-_1988年） "wikilink")
   - 1984年式　Invictus Ranger 4x4
-  - 1985年式　Invictus [Spiedo Forte](https://ja.wikipedia.org/wiki/ランチア・デルタS4 "wikilink")
+  - 1985年式　Invictus [Spiedo Forte](../Page/ランチア・デルタS4.md "wikilink")
 
 **1990年代**
 
@@ -64,13 +64,13 @@ Invictus Gamesが開発した物理エンジンを使用しているため、車
 **2000～2005年**
 
   - 2000年式　Invictus [Quadro SF-6](https://ja.wikipedia.org/wiki/アウディ・80#B4 "wikilink")
-  - 2000年式　[Lion Executive Sedan](https://ja.wikipedia.org/wiki/プジョー・306 "wikilink")
+  - 2000年式　[Lion Executive Sedan](../Page/プジョー・306.md "wikilink")
   - 2003年式　Invictus [Panama GT Ray](https://ja.wikipedia.org/wiki/ポルシェ・996 "wikilink")
   - 2004年式　Invictus Buggy Evo2
 
 **2006年以降**
 
-  - 2007年式　Invictus [Lagoon Destroyer 4x4](https://ja.wikipedia.org/wiki/キャデラック・エスカレード "wikilink")
+  - 2007年式　Invictus [Lagoon Destroyer 4x4](../Page/キャデラック・エスカレード.md "wikilink")
   - 2007年式　[Corus S3](https://ja.wikipedia.org/wiki/オペル・コルサ#3代目_コルサ-C "wikilink")
   - 2007年式　Invictus [Stallion GT](https://ja.wikipedia.org/wiki/フォード・マスタング#6代目（2005年_-_2014年） "wikilink")
   - 2007年式　Invictus [Harpoon GT](https://ja.wikipedia.org/wiki/ダッジ・チャージャー#3代目（LX型/2005年-） "wikilink")
@@ -82,37 +82,37 @@ Invictus Gamesが開発した物理エンジンを使用しているため、車
 **[トヨタ](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")**
 
   - 1967年式　[2000GT](../Page/トヨタ・2000GT.md "wikilink")
-  - 1985年式　[カローラ(スプリンタートレノ)GTS](../Page/トヨタ・スプリンタートレノ.md "wikilink") 3dr.（[AE86](https://ja.wikipedia.org/wiki/トヨタ・AE86 "wikilink")）
-  - 1997年式　[MR2](https://ja.wikipedia.org/wiki/トヨタ・MR2 "wikilink") GT-S（SW20）
-  - 2006年式　[4ランナー(ハイラックスサーフ)Sport](https://ja.wikipedia.org/wiki/トヨタ・ハイラックスサーフ "wikilink") 4wd
+  - 1985年式　[カローラ(スプリンタートレノ)GTS](../Page/トヨタ・スプリンタートレノ.md "wikilink") 3dr.（[AE86](../Page/トヨタ・AE86.md "wikilink")）
+  - 1997年式　[MR2](../Page/トヨタ・MR2.md "wikilink") GT-S（SW20）
+  - 2006年式　[4ランナー(ハイラックスサーフ)Sport](../Page/トヨタ・ハイラックスサーフ.md "wikilink") 4wd
 
 **[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")**
 
   - 1985年式　[サバンナRX-7](../Page/マツダ・RX-7.md "wikilink") GTリミテッド日本仕様車（FC3S）
-  - 1999年式　[クセドス6（ユーノス500)](https://ja.wikipedia.org/wiki/マツダ・ユーノス500 "wikilink")
+  - 1999年式　[クセドス6（ユーノス500)](../Page/マツダ・ユーノス500.md "wikilink")
   - 2002年式　[RX-7](../Page/マツダ・RX-7.md "wikilink") スピリットR タイプA（FD3S）
   - 2003年式　[RX-8](../Page/マツダ・RX-8.md "wikilink") タイプS日本仕様車
 
-**[ホンダ](https://ja.wikipedia.org/wiki/本田技研工業 "wikilink")**
+**[ホンダ](../Page/本田技研工業.md "wikilink")**
 
   - 1991年式　[シビックVTi](../Page/ホンダ・シビック.md "wikilink")（EG6）
   - 2002年式　[NSX-R](../Page/ホンダ・NSX.md "wikilink")（NA2）
   - 2003年式　[S2000](../Page/ホンダ・S2000.md "wikilink")（AP1）
-  - 2004年式　[シビックタイプR](https://ja.wikipedia.org/wiki/ホンダ・シビックタイプR "wikilink")（EP3）
+  - 2004年式　[シビックタイプR](../Page/ホンダ・シビックタイプR.md "wikilink")（EP3）
 
 **[三菱](https://ja.wikipedia.org/wiki/三菱自動車 "wikilink")**
 
-  - 2006年式　[アウトランダー(エアトレック・スポーツギア)](https://ja.wikipedia.org/wiki/三菱・エアトレック "wikilink") LS AWD
+  - 2006年式　[アウトランダー(エアトレック・スポーツギア)](../Page/三菱・エアトレック.md "wikilink") LS AWD
   - 2006年式　[ランサーエボリューション](../Page/三菱・ランサーエボリューション.md "wikilink")Ⅸ MR
 
 **[スバル](https://ja.wikipedia.org/wiki/富士重工業 "wikilink")**
 
   - 2006年式　[インプレッサWRX](../Page/スバル・インプレッサ.md "wikilink") STi（鷹目）
 
-**[GM](https://ja.wikipedia.org/wiki/ゼネラルモーターズ "wikilink")**
+**[GM](../Page/ゼネラルモーターズ.md "wikilink")**
 
-  - 2005年式　[ハマー・H3](https://ja.wikipedia.org/wiki/ハマー_\(自動車\) "wikilink") アルファ
-  - 2007年式　[シボレー・コルベット](https://ja.wikipedia.org/wiki/シボレー・コルベット "wikilink")C6 LS2
+  - 2005年式　[ハマー・H3](../Page/ハマー_\(自動車\).md "wikilink") アルファ
+  - 2007年式　[シボレー・コルベット](../Page/シボレー・コルベット.md "wikilink")C6 LS2
   - 2008年式　[シボレー・カマロ](../Page/シボレー・カマロ.md "wikilink")コンセプト
 
 ### パーツ
@@ -135,7 +135,7 @@ Invictus Gamesが開発した物理エンジンを使用しているため、車
 
 ### Funモード
 
-レース以外で対戦するモード。 CTF（Catch The Flag（旗取り））モードやエクスプローラーモード、[ドリフト](https://ja.wikipedia.org/wiki/ドリフト走行 "wikilink")、[ドラッグモードがあった](https://ja.wikipedia.org/wiki/ドラッグレース "wikilink")。
+レース以外で対戦するモード。 CTF（Catch The Flag（旗取り））モードやエクスプローラーモード、[ドリフト](../Page/ドリフト走行.md "wikilink")、[ドラッグモードがあった](https://ja.wikipedia.org/wiki/ドラッグレース "wikilink")。
 
 ### ミッションモード
 

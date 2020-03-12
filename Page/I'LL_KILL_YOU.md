@@ -15,14 +15,14 @@
 
 1.  **I'LL KILL YOU**
       - 作詞・作曲:[YOSHIKI](../Page/YOSHIKI.md "wikilink")　編曲:X
-      - 後に、[アルバム](../Page/アルバム.md "wikilink")『[Vanishing Vision](https://ja.wikipedia.org/wiki/Vanishing_Vision "wikilink")』に収録されたものとは、テンポ、ギターソロ、歌詞の一部が異なる。
+      - 後に、[アルバム](../Page/アルバム.md "wikilink")『[Vanishing Vision](../Page/Vanishing_Vision.md "wikilink")』に収録されたものとは、テンポ、ギターソロ、歌詞の一部が異なる。
 2.  **BREAK THE DARKNESS**
       - 作詞・作曲:YOSHIKI　編曲:X
       - 後に、オムニバス・アルバム『HEAVY METAL FORCE III』に収録されたものとは、曲調等が大幅に異なる。シングル・バージョンはライブ記録音源が無い。
 
 ## カバー曲
 
-  - [フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[シンフォニックブラックメタル](https://ja.wikipedia.org/wiki/シンフォニックブラックメタル "wikilink")バンド、[アノレクシア・ネルヴォサ](https://ja.wikipedia.org/wiki/アノレクシア・ネルヴォサ "wikilink")が、「I'LL KILL YOU」をカバーしている。同曲は、アノレクシア・ネルヴォサの4thアルバム『Redemption Process』の日本盤（[サウンドホリック](https://ja.wikipedia.org/wiki/サウンドホリック "wikilink")）に[ボーナス・トラック](https://ja.wikipedia.org/wiki/ボーナス・トラック "wikilink")として収録されている。
+  - [フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[シンフォニックブラックメタル](https://ja.wikipedia.org/wiki/シンフォニックブラックメタル "wikilink")バンド、[アノレクシア・ネルヴォサ](https://ja.wikipedia.org/wiki/アノレクシア・ネルヴォサ "wikilink")が、「I'LL KILL YOU」をカバーしている。同曲は、アノレクシア・ネルヴォサの4thアルバム『Redemption Process』の日本盤（[サウンドホリック](../Page/サウンドホリック.md "wikilink")）に[ボーナス・トラック](../Page/ボーナス・トラック.md "wikilink")として収録されている。
 
 <!-- end list -->
 

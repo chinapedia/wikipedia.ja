@@ -7,7 +7,7 @@
 
 主に23歳以下のメンバーで構成されているが、トップチームの選手もコンディション調整や怪我の回復途上にある段階で出場することもある。
 
-以前は、[チェスターフィールドにある](https://ja.wikipedia.org/wiki/チェスターフィールド_\(イングランド\) "wikilink")[レクリエーション・グラウンドや](https://ja.wikipedia.org/wiki/レクリエーション・グラウンド_\(オールダーショット\) "wikilink")、[ブレントフォード](https://ja.wikipedia.org/wiki/ブレントフォード "wikilink")にある[グリフィン・パーク](https://ja.wikipedia.org/wiki/グリフィン・パーク "wikilink")をホームとして使っていたが、現在は、クラブの練習場でもあるをホームとして使用している。
+以前は、[チェスターフィールドにある](https://ja.wikipedia.org/wiki/チェスターフィールド_\(イングランド\) "wikilink")[レクリエーション・グラウンドや](../Page/レクリエーション・グラウンド_\(オールダーショット\).md "wikilink")、[ブレントフォード](https://ja.wikipedia.org/wiki/ブレントフォード "wikilink")にある[グリフィン・パーク](../Page/グリフィン・パーク.md "wikilink")をホームとして使っていたが、現在は、クラブの練習場でもあるをホームとして使用している。
 
 ## 略歴
 
@@ -26,7 +26,7 @@
 
 ### DF
 
-  - [ジョン・テリー](https://ja.wikipedia.org/wiki/ジョン・テリー "wikilink")
+  - [ジョン・テリー](../Page/ジョン・テリー.md "wikilink")
 
   - [ファン・アーンホルト](https://ja.wikipedia.org/wiki/パトリック・ファン・アーンホルト "wikilink")
 

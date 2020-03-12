@@ -1,7 +1,7 @@
 > この記事は[8otto](https://ja.wikipedia.org/wiki/8otto)から翻訳されています。
 
 
-**8otto**（オットー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の4人組[バンド](../Page/バンド_\(音楽\).md "wikilink")。[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")出身。マエノソノマサキがボーカルとドラムスを務める、ドラムボーカルの編成となっている。
+**8otto**（オットー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の4人組[バンド](../Page/バンド_\(音楽\).md "wikilink")。[大阪府](../Page/大阪府.md "wikilink")出身。マエノソノマサキがボーカルとドラムスを務める、ドラムボーカルの編成となっている。
 
 ## メンバー
 
@@ -12,17 +12,17 @@
 
 ## 来歴
 
-1999年に前身となるバンド Sugar for a dime を結成。その後メンバーチェンジを繰り返し、2004年8月に現在のメンバー・バンド名となる。自主制作CDの発表や精力的なライブ活動を行い、同年11月には渡米しライブやレコーディングを行う。[ザ・ストロークス](https://ja.wikipedia.org/wiki/ザ・ストロークス "wikilink")の2ndアルバム『ルーム・オン・ファイア』のエンジニア、ヨシオカトシカズの全面プロデュースの下、2006年7月に1stアルバム『we do vibration』を発売。
+1999年に前身となるバンド Sugar for a dime を結成。その後メンバーチェンジを繰り返し、2004年8月に現在のメンバー・バンド名となる。自主制作CDの発表や精力的なライブ活動を行い、同年11月には渡米しライブやレコーディングを行う。[ザ・ストロークス](../Page/ザ・ストロークス.md "wikilink")の2ndアルバム『ルーム・オン・ファイア』のエンジニア、ヨシオカトシカズの全面プロデュースの下、2006年7月に1stアルバム『we do vibration』を発売。
 
 [CD](https://ja.wikipedia.org/wiki/CD "wikilink")に収録されている[楽曲](https://ja.wikipedia.org/wiki/楽曲 "wikilink")はほとんどが[一発録り](https://ja.wikipedia.org/wiki/一発録り "wikilink")である。（『Ashes To Ashes 』以降は多重録音も多用）
 
 [ザ・ラプチャー](https://ja.wikipedia.org/wiki/ザ・ラプチャー "wikilink")JAPAN TOURのオープニングアクトに抜擢される\[1\]。2006年10月にアルバム『Real』で[BMG JAPANよりメジャーデビューした](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。
 
-2008年7月に[ASIAN KUNG-FU GENERATION企画フェス](https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION "wikilink")[ASIAN KUNG-FU GENERATION presents NANO-MUGEN FES.に](https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION_presents_NANO-MUGEN_FES. "wikilink")2日目のトップバッターとして出演し、知名度が上昇する、そして同年9月に初シングル「BOMB」を発売。
+2008年7月に[ASIAN KUNG-FU GENERATION企画フェス](../Page/ASIAN_KUNG-FU_GENERATION.md "wikilink")[ASIAN KUNG-FU GENERATION presents NANO-MUGEN FES.に](../Page/ASIAN_KUNG-FU_GENERATION_presents_NANO-MUGEN_FES..md "wikilink")2日目のトップバッターとして出演し、知名度が上昇する、そして同年9月に初シングル「BOMB」を発売。
 
 2009年3月、[日本ガイシホール](https://ja.wikipedia.org/wiki/日本ガイシホール "wikilink")にて[オアシスのオープニングアクトとして出演](https://ja.wikipedia.org/wiki/オアシス_\(バンド\) "wikilink")\[2\]。
 
-[サマーソニック](https://ja.wikipedia.org/wiki/サマーソニック "wikilink")、[ライジング・サン・ロック・フェスティバル](https://ja.wikipedia.org/wiki/ライジング・サン・ロック・フェスティバル "wikilink")、[ROCK IN JAPAN FESTIVAL](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink")、[ARABAKI ROCK FEST.](../Page/ARABAKI_ROCK_FEST..md "wikilink")、[COUNTDOWN JAPANなどのFESや](https://ja.wikipedia.org/wiki/COUNTDOWN_JAPAN "wikilink") [浅井健一](https://ja.wikipedia.org/wiki/浅井健一 "wikilink")Johnny Hell Tourなど、多数のイベント、ツアーに出演。
+[サマーソニック](../Page/サマーソニック.md "wikilink")、[ライジング・サン・ロック・フェスティバル](https://ja.wikipedia.org/wiki/ライジング・サン・ロック・フェスティバル "wikilink")、[ROCK IN JAPAN FESTIVAL](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink")、[ARABAKI ROCK FEST.](../Page/ARABAKI_ROCK_FEST..md "wikilink")、[COUNTDOWN JAPANなどのFESや](../Page/COUNTDOWN_JAPAN.md "wikilink") [浅井健一](https://ja.wikipedia.org/wiki/浅井健一 "wikilink")Johnny Hell Tourなど、多数のイベント、ツアーに出演。
 
 初の全国ワンマンツアー、日本全国47都道府県ツアーなどを行い2010年1月、オフィシャルサイトにてLIVE活動休止を発表する。
 
@@ -32,7 +32,7 @@
 
 2012年4月、初のUK\&Paris TOUR、Great Ecape等に出演。 8月8日には8otto結成8周年を記念し自主企画『One or Eight』を開催した。
 
-マエノソノ マサキがボーカルとしてイギリス在住の[フィーダー](https://ja.wikipedia.org/wiki/フィーダー_\(バンド\) "wikilink")(Feeder)のベーシスト[タカ・ヒロセ](https://ja.wikipedia.org/wiki/タカ・ヒロセ "wikilink")、元[フィーダーのサポートギタリストDEAN](https://ja.wikipedia.org/wiki/フィーダー_\(バンド\) "wikilink")、[LUNA SEAの](../Page/LUNA_SEA.md "wikilink")[INORAN](https://ja.wikipedia.org/wiki/INORAN "wikilink")とともにMuddy Apesを開始。
+マエノソノ マサキがボーカルとしてイギリス在住の[フィーダー](../Page/フィーダー_\(バンド\).md "wikilink")(Feeder)のベーシスト[タカ・ヒロセ](https://ja.wikipedia.org/wiki/タカ・ヒロセ "wikilink")、元[フィーダーのサポートギタリストDEAN](../Page/フィーダー_\(バンド\).md "wikilink")、[LUNA SEAの](../Page/LUNA_SEA.md "wikilink")[INORAN](../Page/INORAN.md "wikilink")とともにMuddy Apesを開始。
 
 2013年、8otto新曲制作スタート。
 
@@ -320,9 +320,9 @@
   - 2007年04月29日 - [ARABAKI ROCK FEST.](../Page/ARABAKI_ROCK_FEST..md "wikilink")07
   - 2007年08月11日・12日 - SUMMER SONIC 2007
   - 2007年08月17日 - [RISING SUN ROCK FESTIVAL](https://ja.wikipedia.org/wiki/RISING_SUN_ROCK_FESTIVAL "wikilink") 2007 in EZO
-  - 2007年12月28日 - [COUNTDOWN JAPAN](https://ja.wikipedia.org/wiki/COUNTDOWN_JAPAN "wikilink") 07/08
+  - 2007年12月28日 - [COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 07/08
   - 2008年05月11日 - BEA presents F-X 2008
-  - 2008年07月21日 - [ASIAN KUNG-FU GENERATION presents NANO-MUGEN FES.](https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION_presents_NANO-MUGEN_FES. "wikilink")2008
+  - 2008年07月21日 - [ASIAN KUNG-FU GENERATION presents NANO-MUGEN FES.](../Page/ASIAN_KUNG-FU_GENERATION_presents_NANO-MUGEN_FES..md "wikilink")2008
   - 2008年08月02日 - [ROCK IN JAPAN FESTIVAL](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink") 2008
   - 2009年01月22日 - [DOES](https://ja.wikipedia.org/wiki/DOES "wikilink") 東名阪福 ツーマン巡業「2×4」
   - 2009年03月11日 - [un kie](https://ja.wikipedia.org/wiki/un_kie "wikilink") vs 8otto
@@ -331,7 +331,7 @@
   - 2009年08月02日 - ROCK IN JAPAN FESTIVAL 2009
   - 2009年08月15日 - RISING SUN ROCK FESTIVAL 2009 in EZO
   - 2009年10月25日 - [FRONTIER BACKYARD](https://ja.wikipedia.org/wiki/FRONTIER_BACKYARD "wikilink") 2009 「NEO CLASSICAL」
-  - 2009年11月23日 - [OGRE YOU ASSHOLE](https://ja.wikipedia.org/wiki/OGRE_YOU_ASSHOLE "wikilink")『フォグランプ』 Release Tour
+  - 2009年11月23日 - [OGRE YOU ASSHOLE](../Page/OGRE_YOU_ASSHOLE.md "wikilink")『フォグランプ』 Release Tour
   - 2009年12月21日 - New Audiogram ver.3
   - 2011年01月26日 - [マッカーサーアコンチ](https://ja.wikipedia.org/wiki/マッカーサーアコンチ "wikilink") NEWアルバム"感受性ドン\!" リリースパーティ 「ドタマカチワルゾNIGHT 大阪編」
   - 2011年07月29日 - [FUJI ROCK FESTIVAL](https://ja.wikipedia.org/wiki/FUJI_ROCK_FESTIVAL "wikilink") '11
@@ -343,10 +343,10 @@
   - 2012年08月25日 - ONE Music Camp 2012
   - 2012年08月25日 - Re:mix 2012
   - 2012年09月26日 - HighApps x New Audiogram \#01
-  - 2012年11月03日 - [ASPARAGUS](https://ja.wikipedia.org/wiki/ASPARAGUS "wikilink") 10th ANNIVERSARY "PARACHUTE TOUR" supported by FLAKE RECORDS
-  - 2012年12月07日 - [GOOD4NOTHING](https://ja.wikipedia.org/wiki/GOOD4NOTHING "wikilink") "ALL THE AWESOME DUDES TOUR" 2012-2013
+  - 2012年11月03日 - [ASPARAGUS](../Page/ASPARAGUS.md "wikilink") 10th ANNIVERSARY "PARACHUTE TOUR" supported by FLAKE RECORDS
+  - 2012年12月07日 - [GOOD4NOTHING](../Page/GOOD4NOTHING.md "wikilink") "ALL THE AWESOME DUDES TOUR" 2012-2013
   - 2012年12月14日 - FANDANGO 25th ANNIVERSARY
-  - 2012年12月18日 - [BRAHMAN](https://ja.wikipedia.org/wiki/BRAHMAN "wikilink") presents tantrism vol.8
+  - 2012年12月18日 - [BRAHMAN](../Page/BRAHMAN.md "wikilink") presents tantrism vol.8
   - 2013年03月19日 - Destroy Before Reading vol.19 "FRONTIER BACKYARD vs 8otto"
   - 2013年03月20日 - SAKAI MEETING
   - 2013年05月22日〜29日 - [デズモンド・アンド・ザ・チュチュス](https://ja.wikipedia.org/wiki/デズモンド・アンド・ザ・チュチュス "wikilink") JAPAN TOUR 2013 TONE FLAKES Vol.45
@@ -364,7 +364,7 @@
   - 2014年10月03日 - Rimeout Goodies Vol.1
   - 2014年11月25日 - スペースシャワー列伝 100巻記念公演 第122巻 洒落の宴
   - 2014年12月14日 - FRONTIER BACKYARD 10th anniversary presents "10 surroundings"
-  - 2015年03月27日 - [HUSKING BEE](https://ja.wikipedia.org/wiki/HUSKING_BEE "wikilink") presents New Peace
+  - 2015年03月27日 - [HUSKING BEE](../Page/HUSKING_BEE.md "wikilink") presents New Peace
   - 2015年03月28日 - IMAIKE GO NOW 2015
   - 2015年10月11日 - MINAMI WHEEL 2015
   - 2017年10月21日 - LOSTAGE presents 生活2017

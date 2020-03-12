@@ -3,7 +3,7 @@
 
 **MEN'S 5**（メンズファイブ）は、日本の[ポピュラー音楽](../Page/ポピュラー音楽.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。
 
-[フジテレビ系で](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[1996年](../Page/1996年.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")まで放送された[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[みどりのマキバオー](https://ja.wikipedia.org/wiki/みどりのマキバオー "wikilink")』のエンディングテーマ『とってもウマナミ』や、[コミックソング](../Page/コミックソング.md "wikilink")『[“ヘーコキ”ましたね](https://ja.wikipedia.org/wiki/“ヘーコキ”ましたね "wikilink")』のヒットで知られる。
+[フジテレビ系で](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[1996年](../Page/1996年.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")まで放送された[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[みどりのマキバオー](../Page/みどりのマキバオー.md "wikilink")』のエンディングテーマ『とってもウマナミ』や、[コミックソング](../Page/コミックソング.md "wikilink")『[“ヘーコキ”ましたね](https://ja.wikipedia.org/wiki/“ヘーコキ”ましたね "wikilink")』のヒットで知られる。
 
 ## メンバー
 
@@ -23,10 +23,10 @@
   - 1991年 アルバム「[裏メンズ5](https://ja.wikipedia.org/wiki/裏メンズ5 "wikilink")」（インディーズ）
   - 1991年12月シングル「サンディー（本名はヨシヲ）」（[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")）
   - 1994年 有線放送大賞新人賞『[“ヘーコキ”ましたね](https://ja.wikipedia.org/wiki/“ヘーコキ”ましたね "wikilink")』発売。
-  - 1996年 「とってもウマナミ」（[君の瞳に恋してる](https://ja.wikipedia.org/wiki/君の瞳に恋してる "wikilink")、[ジンギスカン等のフレーズ引用アリ](../Page/ジンギスカン_\(曲\).md "wikilink")）が「[みどりのマキバオー](https://ja.wikipedia.org/wiki/みどりのマキバオー "wikilink")」のエンディング曲として使われ大ヒット。
-  - 1997年 [ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")から[東芝EMIに移籍](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")。
+  - 1996年 「とってもウマナミ」（[君の瞳に恋してる](../Page/君の瞳に恋してる.md "wikilink")、[ジンギスカン等のフレーズ引用アリ](../Page/ジンギスカン_\(曲\).md "wikilink")）が「[みどりのマキバオー](../Page/みどりのマキバオー.md "wikilink")」のエンディング曲として使われ大ヒット。
+  - 1997年 [ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")から[東芝EMIに移籍](../Page/EMIミュージック・ジャパン.md "wikilink")。
   - 1997年 キッコーマン焼き肉のたれのCMソング「アッパレですね」
-  - 1999年? [東芝EMIと契約解除](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")。
+  - 1999年? [東芝EMIと契約解除](../Page/EMIミュージック・ジャパン.md "wikilink")。
   - 2002年 インディーズとしての活動に戻る
 
 ## ディスコグラフィ
@@ -41,7 +41,7 @@
 6.  **[本当の僕じゃない\!\!](https://ja.wikipedia.org/wiki/本当の僕じゃない!! "wikilink")** （1995年11月17日発売）
 7.  **[恋のブランニュー・ラーゲ](https://ja.wikipedia.org/wiki/恋のブランニュー・ラーゲ "wikilink")** （1996年11月21日発売）
 8.  **[アッパレですね！](https://ja.wikipedia.org/wiki/アッパレですね！ "wikilink")** （1997年8月8日発売）
-9.  **[ハッピーライフ](https://ja.wikipedia.org/wiki/ハッピーライフ "wikilink")** （1998年7月29日発売）
+9.  **[ハッピーライフ](../Page/ハッピーライフ.md "wikilink")** （1998年7月29日発売）
 10. **[才能の証明](https://ja.wikipedia.org/wiki/才能の証明 "wikilink")** （1998年11月26日発売）
 11. **[安定のバラード](https://ja.wikipedia.org/wiki/安定のバラード "wikilink")** （2001年3月23日発売）
 
@@ -70,11 +70,11 @@
 
 ## 備考
 
-  - [金山一彦](https://ja.wikipedia.org/wiki/金山一彦 "wikilink")のバックバンドとして集まったメンバーがライブの幕間にその後の芸風となるコミカルなライブパフォーマンスを行い、それが元でバンド結成となった。
-  - 今田太郎・淡谷三治は元[ビブラストーン](../Page/ビブラストーン.md "wikilink")のメンバーである。ビブラストーンの元メンバーの[近田春夫](https://ja.wikipedia.org/wiki/近田春夫 "wikilink")も初期のMEN'S5の活動に協力していた。
+  - [金山一彦](../Page/金山一彦.md "wikilink")のバックバンドとして集まったメンバーがライブの幕間にその後の芸風となるコミカルなライブパフォーマンスを行い、それが元でバンド結成となった。
+  - 今田太郎・淡谷三治は元[ビブラストーン](../Page/ビブラストーン.md "wikilink")のメンバーである。ビブラストーンの元メンバーの[近田春夫](../Page/近田春夫.md "wikilink")も初期のMEN'S5の活動に協力していた。
   - 陣次郎は[近田春夫&ビブラトーンズ](https://ja.wikipedia.org/wiki/近田春夫&ビブラトーンズ "wikilink")のメンバーであった[窪田晴男](https://ja.wikipedia.org/wiki/窪田晴男 "wikilink")からアドバイスを受けことがきっかけでプロミュージシャンとなった。
-  - [コミックソング](../Page/コミックソング.md "wikilink")、[替え歌](https://ja.wikipedia.org/wiki/替え歌 "wikilink")のレパートリーが多い。
-  - 1990年代中期、[JFN系ラジオ番組](https://ja.wikipedia.org/wiki/全国FM放送協議会 "wikilink")「[遊びの殿堂](https://ja.wikipedia.org/wiki/遊びの殿堂 "wikilink")」のパーソナリティーを務めていた。
+  - [コミックソング](../Page/コミックソング.md "wikilink")、[替え歌](../Page/替え歌.md "wikilink")のレパートリーが多い。
+  - 1990年代中期、[JFN系ラジオ番組](../Page/全国FM放送協議会.md "wikilink")「[遊びの殿堂](https://ja.wikipedia.org/wiki/遊びの殿堂 "wikilink")」のパーソナリティーを務めていた。
   - 盆帆与四は絵本作家としても活動し、「とべない鳥ぴーちゃん」の原作とDVD音楽を担当した\[1\]。
 
 ## 脚注

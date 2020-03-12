@@ -1,7 +1,7 @@
 > この記事は[DS](https://ja.wikipedia.org/wiki/DS)から翻訳されています。
 
 
-『**若林史江のDS株レッスン♪**』（わかばやしふみえのでぃーえすかぶれっすん）は、株初心者を対象に作られた株シミュレーターゲームソフトである。 著名女性トレーダーの[若林史江](https://ja.wikipedia.org/wiki/若林史江 "wikilink")と、ネット証券会社[イー・トレード証券](https://ja.wikipedia.org/wiki/イー・トレード証券 "wikilink")、[松井証券](https://ja.wikipedia.org/wiki/松井証券 "wikilink")、[楽天証券](https://ja.wikipedia.org/wiki/楽天証券 "wikilink")、[カブドットコム証券](https://ja.wikipedia.org/wiki/カブドットコム証券 "wikilink")、オリックス証券が監修した。 若林史江のアドバイスを受けながら、ネット証券会社5社のトレーディングツールを使ってリアルな株トレーディングを楽しく実践的に学べる。
+『**若林史江のDS株レッスン♪**』（わかばやしふみえのでぃーえすかぶれっすん）は、株初心者を対象に作られた株シミュレーターゲームソフトである。 著名女性トレーダーの[若林史江](https://ja.wikipedia.org/wiki/若林史江 "wikilink")と、ネット証券会社[イー・トレード証券](https://ja.wikipedia.org/wiki/イー・トレード証券 "wikilink")、[松井証券](../Page/松井証券.md "wikilink")、[楽天証券](https://ja.wikipedia.org/wiki/楽天証券 "wikilink")、[カブドットコム証券](https://ja.wikipedia.org/wiki/カブドットコム証券 "wikilink")、オリックス証券が監修した。 若林史江のアドバイスを受けながら、ネット証券会社5社のトレーディングツールを使ってリアルな株トレーディングを楽しく実践的に学べる。
 
 ## スタッフ
 
@@ -15,17 +15,17 @@
 ## 関連項目
 
   - [若林史江](https://ja.wikipedia.org/wiki/若林史江 "wikilink")
-  - [夜な夜なニュースいぢり X-Radio バツラジ](https://ja.wikipedia.org/wiki/夜な夜なニュースいぢり_X-Radio_バツラジ "wikilink")
+  - [夜な夜なニュースいぢり X-Radio バツラジ](../Page/夜な夜なニュースいぢり_X-Radio_バツラジ.md "wikilink")
   - [株式売買トレーナー カブトレ\!](https://ja.wikipedia.org/wiki/株式売買トレーナー_カブトレ! "wikilink")
 
 <!-- end list -->
 
   -
-    [コナミデジタルエンタテインメント](https://ja.wikipedia.org/wiki/コナミデジタルエンタテインメント "wikilink")より2006年12月14日発売の株式をテーマにしたニンテンドーDSソフト。
+    [コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")より2006年12月14日発売の株式をテーマにしたニンテンドーDSソフト。
 
 <!-- end list -->
 
-  - [株トレーダー瞬](https://ja.wikipedia.org/wiki/株トレーダー瞬 "wikilink")
+  - [株トレーダー瞬](../Page/株トレーダー瞬.md "wikilink")
 
 ## 外部リンク
 

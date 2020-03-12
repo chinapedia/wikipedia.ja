@@ -1,11 +1,11 @@
 > この記事は[FK](https://ja.wikipedia.org/wiki/FK)から翻訳されています。
 
 
-**FKゼタ・ゴルボヴツィ**（[キリル文字](../Page/キリル文字.md "wikilink")表記: , [ラテン文字](../Page/ラテン文字.md "wikilink")表記: ）は、[モンテネグロ](https://ja.wikipedia.org/wiki/モンテネグロ "wikilink")・[ポドゴリツァ](https://ja.wikipedia.org/wiki/ポドゴリツァ "wikilink")郊外の[ゴルボヴツィ](https://ja.wikipedia.org/wiki/ゴルボヴツィ "wikilink")の[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
+**FKゼタ・ゴルボヴツィ**（[キリル文字](../Page/キリル文字.md "wikilink")表記: , [ラテン文字](../Page/ラテン文字.md "wikilink")表記: ）は、[モンテネグロ](../Page/モンテネグロ.md "wikilink")・[ポドゴリツァ](../Page/ポドゴリツァ.md "wikilink")郊外の[ゴルボヴツィ](https://ja.wikipedia.org/wiki/ゴルボヴツィ "wikilink")の[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
 
 1927年に**FKダニツァ** (**, **) として創設され、1945年に**FKナプレダク** (**, **)、1955年に**FKゼタ**に改名した。
 
-クラブは1996年に元JSO（秘密警察特殊作戦部隊）で実業家のラドイーツァ・“ラーヨ”・ボージョヴィッチに買収された。1999-2000シーズンに2部東リーグで優勝して、クラブ史上初の1部リーグ昇格を決めた。2004-05シーズンは[レッドスター・ベオグラード](https://ja.wikipedia.org/wiki/レッドスター・ベオグラード "wikilink")、[パルチザン・ベオグラード](https://ja.wikipedia.org/wiki/パルチザン・ベオグラード "wikilink")に次ぐ3位となり、翌シーズンの[UEFAカップ予備戦出場権を得た](../Page/UEFAヨーロッパリーグ.md "wikilink")。
+クラブは1996年に元JSO（秘密警察特殊作戦部隊）で実業家のラドイーツァ・“ラーヨ”・ボージョヴィッチに買収された。1999-2000シーズンに2部東リーグで優勝して、クラブ史上初の1部リーグ昇格を決めた。2004-05シーズンは[レッドスター・ベオグラード](../Page/レッドスター・ベオグラード.md "wikilink")、[パルチザン・ベオグラード](../Page/パルチザン・ベオグラード.md "wikilink")に次ぐ3位となり、翌シーズンの[UEFAカップ予備戦出場権を得た](../Page/UEFAヨーロッパリーグ.md "wikilink")。
 
 2006-07シーズンから始まった[プルヴァ・ツルノゴルスカ・フドバルスカ・リーガ](https://ja.wikipedia.org/wiki/プルヴァ・ツルノゴルスカ・フドバルスカ・リーガ "wikilink")では初代王者に輝いた。
 
@@ -60,7 +60,7 @@
 <td><p>2005-06</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_2005-06" title="wikilink">UEFAカップ</a></p></td>
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NKシロキ・ブリイェグ" title="wikilink">シロキ・ブリイェグ</a></p></td>
+<td><p><a href="../Page/NKシロキ・ブリイェグ.md" title="wikilink">シロキ・ブリイェグ</a></p></td>
 <td><p>0–1</p></td>
 <td><p>1–4</p></td>
 <td><p>'''1-5</p></td>
@@ -88,7 +88,7 @@
 </tr>
 <tr class="even">
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レンジャーズFC" title="wikilink">レンジャーズ</a></p></td>
+<td><p><a href="../Page/レンジャーズFC.md" title="wikilink">レンジャーズ</a></p></td>
 <td><p>0–1</p></td>
 <td><p>0–2</p></td>
 <td><p>'''0-3</p></td>
@@ -100,7 +100,7 @@
 <td><p>2008-09</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_2008-09" title="wikilink">UEFAカップ</a></p></td>
 <td><p>予選1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NKインテルブロック・リュブリャナ" title="wikilink">インテルブロック・リュブリャナ</a></p></td>
+<td><p><a href="../Page/NKインテルブロック・リュブリャナ.md" title="wikilink">インテルブロック・リュブリャナ</a></p></td>
 <td><p>1–1</p></td>
 <td><p>0–1</p></td>
 <td><p>'''1-2</p></td>
@@ -113,7 +113,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/FCダチア・キシナウ" title="wikilink">ダチア・キシナウ</a></p></td>
 <td><p>1-1</p></td>
 <td><p>0-0</p></td>
-<td><p>'''1-1 (<a href="https://ja.wikipedia.org/wiki/アウェーゴール" title="wikilink">a</a>)</p></td>
+<td><p>'''1-1 (<a href="../Page/アウェーゴール.md" title="wikilink">a</a>)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
 <tr class="odd">
@@ -148,7 +148,7 @@
 </tr>
 <tr class="even">
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FKサラエヴォ" title="wikilink">サラエヴォ</a></p></td>
+<td><p><a href="../Page/FKサラエヴォ.md" title="wikilink">サラエヴォ</a></p></td>
 <td><p>1–0</p></td>
 <td><p>1–2</p></td>
 <td><p>'''2-2 (a)</p></td>
@@ -158,7 +158,7 @@
 </tr>
 <tr class="odd">
 <td><p>プレーオフ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PSVアイントホーフェン" title="wikilink">PSV</a></p></td>
+<td><p><a href="../Page/PSVアイントホーフェン.md" title="wikilink">PSV</a></p></td>
 <td><p>0–5</p></td>
 <td><p>0–9</p></td>
 <td><p>'''0-14</p></td>
@@ -170,7 +170,7 @@
 <td><p>2017-18</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2017-18" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>予選1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FKジェリェズニチャル・サラエヴォ" title="wikilink">ジェリェズニチャル</a></p></td>
+<td><p><a href="../Page/FKジェリェズニチャル・サラエヴォ.md" title="wikilink">ジェリェズニチャル</a></p></td>
 <td><p>2–2</p></td>
 <td><p>0–1</p></td>
 <td><p>'''2-3</p></td>

@@ -1,11 +1,11 @@
 > この記事は[And world tour final 20060409](https://ja.wikipedia.org/wiki/And_world_tour_final_20060409)から翻訳されています。
 
 
-**and world tour final 20060409"**（アンド・ワールド・ツアー・ファイナル・）は、[ACIDMAN](../Page/ACIDMAN.md "wikilink")の5thDVD。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月19日](../Page/7月19日.md "wikilink")に[東芝EMIから発売](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")。
+**and world tour final 20060409"**（アンド・ワールド・ツアー・ファイナル・）は、[ACIDMAN](../Page/ACIDMAN.md "wikilink")の5thDVD。[2006年](../Page/2006年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink")に[東芝EMIから発売](../Page/EMIミュージック・ジャパン.md "wikilink")。
 
 ## 概要
 
-初のライブDVDとして、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月9日](../Page/4月9日.md "wikilink")の[Zepp Tokyoで行われた](https://ja.wikipedia.org/wiki/Zepp_Tokyo "wikilink")“and world”ツアーファイナルの模様を完全収録している。一部の曲ではバックにある映像とリンクしているものがある。“and world”ツアーはすべての公演において曲順が同じであったが、この最終日の最終曲にのみ、「廻る、巡る、その核へ」が披露された。また、ライブの他にリハーサル及びツアー中のオフショットも収録。
+初のライブDVDとして、[2006年](../Page/2006年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink")の[Zepp Tokyoで行われた](https://ja.wikipedia.org/wiki/Zepp_Tokyo "wikilink")“and world”ツアーファイナルの模様を完全収録している。一部の曲ではバックにある映像とリンクしているものがある。“and world”ツアーはすべての公演において曲順が同じであったが、この最終日の最終曲にのみ、「廻る、巡る、その核へ」が披露された。また、ライブの他にリハーサル及びツアー中のオフショットも収録。
 
 なお、曲の間のMCにて「**一悟の激痩せ日記帳・最終報告**」が行われている。
 
@@ -20,11 +20,11 @@
       -
 4.  **[River](https://ja.wikipedia.org/wiki/and_world "wikilink")**
       -
-5.  **[swayed](https://ja.wikipedia.org/wiki/Loop_\(アルバム\) "wikilink")**
+5.  **[swayed](../Page/Loop_\(アルバム\).md "wikilink")**
       -
-6.  **[波、白く](https://ja.wikipedia.org/wiki/Loop_\(アルバム\) "wikilink")**
+6.  **[波、白く](../Page/Loop_\(アルバム\).md "wikilink")**
       -
-7.  **[赤橙](https://ja.wikipedia.org/wiki/創_\(アルバム\) "wikilink")**
+7.  **[赤橙](../Page/創_\(アルバム\).md "wikilink")**
       -
 8.  **[プラタナス](https://ja.wikipedia.org/wiki/and_world "wikilink")**
       -
@@ -37,13 +37,13 @@
       -
 12. **[季節の灯](https://ja.wikipedia.org/wiki/and_world "wikilink")**
       -
-13. **[リピート](https://ja.wikipedia.org/wiki/Loop_\(アルバム\) "wikilink")**
+13. **[リピート](../Page/Loop_\(アルバム\).md "wikilink")**
       -
 14. **[stay on land](https://ja.wikipedia.org/wiki/and_world "wikilink")**
       -
 15. **[銀河の街](https://ja.wikipedia.org/wiki/and_world "wikilink")**
       -
-16. **[アイソトープ](https://ja.wikipedia.org/wiki/Loop_\(アルバム\) "wikilink")**
+16. **[アイソトープ](../Page/Loop_\(アルバム\).md "wikilink")**
       -
 17. **[FREAK OUT](https://ja.wikipedia.org/wiki/equal_\(アルバム\) "wikilink")**
       -
@@ -51,10 +51,10 @@
       -
 19. **[and world](https://ja.wikipedia.org/wiki/and_world "wikilink")**
       -
-20. **[造花が笑う](https://ja.wikipedia.org/wiki/創_\(アルバム\) "wikilink")**
+20. **[造花が笑う](../Page/創_\(アルバム\).md "wikilink")**
       -
         アンコール1
-21. **[飛光](https://ja.wikipedia.org/wiki/Loop_\(アルバム\) "wikilink")**
+21. **[飛光](../Page/Loop_\(アルバム\).md "wikilink")**
       -
         アンコール2
 22. **[廻る、巡る、その核へ](https://ja.wikipedia.org/wiki/equal_\(アルバム\) "wikilink")**

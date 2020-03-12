@@ -1,19 +1,19 @@
 > この記事は[PowerEdge](https://ja.wikipedia.org/wiki/PowerEdge)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Knams-15-knsq-12.jpg "wikilink") **PowerEdge**(パワーエッジ)は、[デル](https://ja.wikipedia.org/wiki/デル "wikilink")が[1996年](../Page/1996年.md "wikilink")より発売している[サーバ](../Page/サーバ.md "wikilink")のブランド名である。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Knams-15-knsq-12.jpg "wikilink") **PowerEdge**(パワーエッジ)は、[デル](../Page/デル.md "wikilink")が[1996年](../Page/1996年.md "wikilink")より発売している[サーバ](../Page/サーバ.md "wikilink")のブランド名である。
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")第1四半期の世界PCサーバ市場シェアでは出荷台数ベースで24.1%（第2位、[ガートナー](https://ja.wikipedia.org/wiki/ガートナー "wikilink")調べ）、[2009年](../Page/2009年.md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")国内PCサーバ市場シェアでは同じく13.7%（第4位、[ノークリサーチ](https://ja.wikipedia.org/wiki/ノークリサーチ "wikilink")調べ）を占めている。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")第1四半期の世界PCサーバ市場シェアでは出荷台数ベースで24.1%（第2位、[ガートナー](../Page/ガートナー.md "wikilink")調べ）、[2009年](../Page/2009年.md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")国内PCサーバ市場シェアでは同じく13.7%（第4位、[ノークリサーチ](https://ja.wikipedia.org/wiki/ノークリサーチ "wikilink")調べ）を占めている。
 
-PowerEdge の大多数は[x86](https://ja.wikipedia.org/wiki/x86 "wikilink")の[PCサーバ](https://ja.wikipedia.org/wiki/PCサーバ "wikilink")だが、初期には[Itanium](https://ja.wikipedia.org/wiki/Itanium "wikilink")搭載モデルも存在した。フォームファクタ（形状）により、[ブレードサーバ](../Page/ブレードサーバ.md "wikilink")、[ラックマウントサーバ](https://ja.wikipedia.org/wiki/ラックマウントサーバ "wikilink")、[タワーサーバ](https://ja.wikipedia.org/wiki/タワーサーバ "wikilink")の3種類があり、[個人事業主](https://ja.wikipedia.org/wiki/個人事業主 "wikilink")や[SOHO](https://ja.wikipedia.org/wiki/SOHO "wikilink")向けのエントリークラスのものから、大企業向けの4ソケット対応製品まで幅広いラインアップを擁する。
+PowerEdge の大多数は[x86](https://ja.wikipedia.org/wiki/x86 "wikilink")の[PCサーバ](../Page/PCサーバ.md "wikilink")だが、初期には[Itanium](../Page/Itanium.md "wikilink")搭載モデルも存在した。フォームファクタ（形状）により、[ブレードサーバ](../Page/ブレードサーバ.md "wikilink")、[ラックマウントサーバ](https://ja.wikipedia.org/wiki/ラックマウントサーバ "wikilink")、[タワーサーバ](https://ja.wikipedia.org/wiki/タワーサーバ "wikilink")の3種類があり、[個人事業主](../Page/個人事業主.md "wikilink")や[SOHO](https://ja.wikipedia.org/wiki/SOHO "wikilink")向けのエントリークラスのものから、大企業向けの4ソケット対応製品まで幅広いラインアップを擁する。
 
-以前は内蔵する[CPU](../Page/CPU.md "wikilink")は全て[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")製のものを使用していたが、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に[AMD製のCPUを内蔵したものも発表された](https://ja.wikipedia.org/wiki/アドバンスト・マイクロ・デバイセズ "wikilink")。現在では[Celeron](https://ja.wikipedia.org/wiki/Celeron "wikilink")、[Pentium](https://ja.wikipedia.org/wiki/Pentium "wikilink")、[Core 2 Duo](https://ja.wikipedia.org/wiki/Intel_Core_2 "wikilink")、[Xeon](../Page/Xeon.md "wikilink")、[Opteron](https://ja.wikipedia.org/wiki/Opteron "wikilink")および[Sempron](https://ja.wikipedia.org/wiki/Sempron "wikilink")を搭載したモデルがラインアップされており、[クアッドコア](https://ja.wikipedia.org/wiki/クアッドコア "wikilink")製品も目立ってきている。
+以前は内蔵する[CPU](../Page/CPU.md "wikilink")は全て[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")製のものを使用していたが、[2006年](../Page/2006年.md "wikilink")に[AMD製のCPUを内蔵したものも発表された](https://ja.wikipedia.org/wiki/アドバンスト・マイクロ・デバイセズ "wikilink")。現在では[Celeron](https://ja.wikipedia.org/wiki/Celeron "wikilink")、[Pentium](https://ja.wikipedia.org/wiki/Pentium "wikilink")、[Core 2 Duo](../Page/Intel_Core_2.md "wikilink")、[Xeon](../Page/Xeon.md "wikilink")、[Opteron](https://ja.wikipedia.org/wiki/Opteron "wikilink")および[Sempron](../Page/Sempron.md "wikilink")を搭載したモデルがラインアップされており、[クアッドコア](https://ja.wikipedia.org/wiki/クアッドコア "wikilink")製品も目立ってきている。
 
 他のメーカと違う独特の筐体とシステムを使用しており、汎用品による部品の交換ができない場合が多い。このため多くの場合部品の交換はデルのサポートを通して行わなければならない。
 
 ## 現行機種
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[11月](../Page/11月.md "wikilink")に行われたデル第10世代PowerEdgeサーバの発表と同時に、サーバ製品のラインアップが一新され型番のネーミングルールが変更となった。これにより製品型番は従来の数字3桁ないし4桁のものから一律に「**PowerEdge TXXX**」（Tはアルファベット1文字、XXXは3桁の数字）と表されるようになった。型番の意味は次の通り。
+[2007年](../Page/2007年.md "wikilink")[11月](../Page/11月.md "wikilink")に行われたデル第10世代PowerEdgeサーバの発表と同時に、サーバ製品のラインアップが一新され型番のネーミングルールが変更となった。これにより製品型番は従来の数字3桁ないし4桁のものから一律に「**PowerEdge TXXX**」（Tはアルファベット1文字、XXXは3桁の数字）と表されるようになった。型番の意味は次の通り。
 
 | 型番 数字 1桁目 | ソケット数  | グレード   |
 | --------- | ------ | ------ |
@@ -30,7 +30,7 @@ PowerEdge の大多数は[x86](https://ja.wikipedia.org/wiki/x86 "wikilink")の[
 ソケット数およびグレード
 
   - T（アルファベット）:フォームファクタ（T:タワー、R:ラック、M:ブレード）
-    X（数字 1桁目）:[CPUソケット](https://ja.wikipedia.org/wiki/CPUソケット "wikilink")数ならびにグレード（右表参照）
+    X（数字 1桁目）:[CPUソケット](../Page/CPUソケット.md "wikilink")数ならびにグレード（右表参照）
     X（数字 2桁目）:システム更新の世代
     X（数字 3桁目）:プロセッサの種類（0:インテル、5:AMD）
 
@@ -95,6 +95,6 @@ PowerEdge の大多数は[x86](https://ja.wikipedia.org/wiki/x86 "wikilink")の[
 
 ## 関連項目
 
-  - [PCサーバ](https://ja.wikipedia.org/wiki/PCサーバ "wikilink")
+  - [PCサーバ](../Page/PCサーバ.md "wikilink")
 
 [Category:サーバ_(ハードウェア)](https://ja.wikipedia.org/wiki/Category:サーバ_\(ハードウェア\) "wikilink")

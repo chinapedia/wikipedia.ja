@@ -1,11 +1,11 @@
 > この記事は[ the movie](https://ja.wikipedia.org/wiki/_the_movie)から翻訳されています。
 
 
-『**アンフェア the movie**』（アンフェア ザ ムービー）は、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[3月17日](../Page/3月17日.md "wikilink")に全国[東宝](../Page/東宝.md "wikilink")系で公開された[篠原涼子](https://ja.wikipedia.org/wiki/篠原涼子 "wikilink")主演の[日本映画](../Page/日本映画.md "wikilink")。
+『**アンフェア the movie**』（アンフェア ザ ムービー）は、[2007年](../Page/2007年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")に全国[東宝](../Page/東宝.md "wikilink")系で公開された[篠原涼子](https://ja.wikipedia.org/wiki/篠原涼子 "wikilink")主演の[日本映画](../Page/日本映画.md "wikilink")。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に[関西テレビ](../Page/関西テレビ放送.md "wikilink")・[共同テレビ制作](../Page/共同テレビジョン.md "wikilink")・[フジテレビ系列で放送された](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")『**[アンフェア](https://ja.wikipedia.org/wiki/アンフェア "wikilink")**』の劇場版1作目。連続ドラマが好評だったため、1年余りで映画化された。
+[2006年](../Page/2006年.md "wikilink")に[関西テレビ](../Page/関西テレビ放送.md "wikilink")・[共同テレビ制作](../Page/共同テレビジョン.md "wikilink")・[フジテレビ系列で放送された](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")『**[アンフェア](../Page/アンフェア.md "wikilink")**』の劇場版1作目。連続ドラマが好評だったため、1年余りで映画化された。
 
-本作は『**[アンフェア the special コード・ブレーキング〜暗号解読](https://ja.wikipedia.org/wiki/アンフェア "wikilink")**』の直接の続編であり、連続ドラマ・スペシャルドラマに残っていた全ての謎が明かされるが、また新たな謎を残す。本作の宣伝では「雪平夏見、最後の事件。」といったキャッチコピーが使用されたが、[2011年](../Page/2011年.md "wikilink")に続編となる映画第2作『**[アンフェア the answer](https://ja.wikipedia.org/wiki/アンフェア_the_answer "wikilink")**』が公開され、完結編は[2015年](../Page/2015年.md "wikilink")公開の映画第3作『**[アンフェア the end](https://ja.wikipedia.org/wiki/アンフェア_the_end "wikilink")**』まで持ち越された\[1\]。
+本作は『**[アンフェア the special コード・ブレーキング〜暗号解読](../Page/アンフェア.md "wikilink")**』の直接の続編であり、連続ドラマ・スペシャルドラマに残っていた全ての謎が明かされるが、また新たな謎を残す。本作の宣伝では「雪平夏見、最後の事件。」といったキャッチコピーが使用されたが、[2011年](../Page/2011年.md "wikilink")に続編となる映画第2作『**[アンフェア the answer](https://ja.wikipedia.org/wiki/アンフェア_the_answer "wikilink")**』が公開され、完結編は[2015年](../Page/2015年.md "wikilink")公開の映画第3作『**[アンフェア the end](https://ja.wikipedia.org/wiki/アンフェア_the_end "wikilink")**』まで持ち越された\[1\]。
 
 ## 概要
 
@@ -25,12 +25,12 @@
 
   - 雪平 夏見（ゆきひら なつみ）
     演 - [篠原涼子](https://ja.wikipedia.org/wiki/篠原涼子 "wikilink")
-    [警視庁公安部](https://ja.wikipedia.org/wiki/警視庁公安部 "wikilink")公安総務課主任 [警部補](https://ja.wikipedia.org/wiki/警部補 "wikilink")。
-    元[警視庁](../Page/警視庁.md "wikilink")[刑事部](https://ja.wikipedia.org/wiki/刑事部 "wikilink")捜査一課主任。バツイチ子持ちで夫と娘とは別居中の超敏腕女性刑事。大酒飲みで、“無駄に美人”。15年前に刑事であった父親を殺した犯人を突き止めるため、短期大学から警察学校を卒業後警察官になる。自身の真っ直ぐかつ強固な信念が災いとなって、かつて引き起こしてしまった事件をきっかけに夫の和夫や娘の美央とは別居しているが、娘に対する愛情は深い。
+    [警視庁公安部](../Page/警視庁公安部.md "wikilink")公安総務課主任 [警部補](../Page/警部補.md "wikilink")。
+    元[警視庁](../Page/警視庁.md "wikilink")[刑事部](../Page/刑事部.md "wikilink")捜査一課主任。バツイチ子持ちで夫と娘とは別居中の超敏腕女性刑事。大酒飲みで、“無駄に美人”。15年前に刑事であった父親を殺した犯人を突き止めるため、短期大学から警察学校を卒業後警察官になる。自身の真っ直ぐかつ強固な信念が災いとなって、かつて引き起こしてしまった事件をきっかけに夫の和夫や娘の美央とは別居しているが、娘に対する愛情は深い。
     自身を狙った車両爆破事件で負傷し入院していた美央がテログループによる占拠事件に巻き込まれてしまい、人質となった警察庁長官への対応を優先した捜査本部からも美央を見殺しにすると突き付けられてしまい、三上や斉木と共に病院に乗り込み美央の救出に向かう。
   - 斉木 陣（さいき じん）
     演 - [江口洋介](https://ja.wikipedia.org/wiki/江口洋介 "wikilink")
-    警視庁公安部公安総務課管理官 [警視](https://ja.wikipedia.org/wiki/警視 "wikilink")。
+    警視庁公安部公安総務課管理官 [警視](../Page/警視.md "wikilink")。
     雪平の上司。下戸で甘党。金平糖をよく食べている。公安No.1と言われるほどの優れた手腕を持つ。6年前に警察内部の裏金について調べていたところを、自分の身代わりに婚約者が車両爆破事件に巻き込まれてしまった過去を持つ。
     単身で潜入した雪平を援護すべく彼女を追って病院に潜入するが、実は彼こそが事件の黒幕であり、裏で取引していた蓮見を射殺してUSBメモリを奪った後、駆け付けた後藤をも騙し討ちで銃撃し致命傷を負わせる。上層部の首を挿げ替えるだけの後藤のやり方は甘いと見限っており、後藤に全ての罪を着せて事件を終わらせ自らは政府の関係者と取引し、強大な権力に対抗するための同等の権力の後ろ盾を手に入れようとしていた。しかし終盤でビルの屋上にて何者かに狙撃され、雪平に不正データ入りのUSBメモリを託して死亡する。
   - 三上 薫（みかみ かおる）
@@ -40,41 +40,41 @@
     単身で病院内に乗り込もうとする雪平を制止しようとするが振り切られ、共に潜入する。待ち受けていたテログループの足止めを買って出るも捕縛されるが、特に危害も受けないまま解放される。
   - 山路 哲夫（やまじ てつお）
     演 - [寺島進](https://ja.wikipedia.org/wiki/寺島進 "wikilink")
-    警視庁刑事部捜査一課 特殊班管理官 [警視](https://ja.wikipedia.org/wiki/警視 "wikilink")。
+    警視庁刑事部捜査一課 特殊班管理官 [警視](../Page/警視.md "wikilink")。
     捜査一課管理官だったが前作の事件の責任を取り更迭された。今作では特殊班の管理官に昇格している。
     今回の事件の捜査本部の指揮を務め、上層部の意向を唯々諾々と指示する。
   - 小久保 祐二（こくぼ ゆうじ）
     演 - [阿部サダヲ](../Page/阿部サダヲ.md "wikilink")
-    警視庁刑事部捜査一課[管理官](https://ja.wikipedia.org/wiki/管理官 "wikilink") 警視。
+    警視庁刑事部捜査一課[管理官](../Page/管理官.md "wikilink") 警視。
     雪平の前の上司で、彼女を徹底的に嫌っている。
   - 後藤 国明（ごとう くにあき）
-    演 - [椎名桔平](https://ja.wikipedia.org/wiki/椎名桔平 "wikilink")
-    テロリストグループのリーダー。かつては警察OBであり[SATを経て警察学校の教官にもなっており](https://ja.wikipedia.org/wiki/特殊急襲部隊 "wikilink")、同期であった山路からも「彼ほど部下からの信頼の厚い人間はいない」「SAT始まって以来の名指揮官」と評されている。正義感が強く入江に関する不正を内部告発しようとしたが、無実の罪で収監され8年間を刑務所で過ごすこととなる。
+    演 - [椎名桔平](../Page/椎名桔平.md "wikilink")
+    テロリストグループのリーダー。かつては警察OBであり[SATを経て警察学校の教官にもなっており](../Page/特殊急襲部隊.md "wikilink")、同期であった山路からも「彼ほど部下からの信頼の厚い人間はいない」「SAT始まって以来の名指揮官」と評されている。正義感が強く入江に関する不正を内部告発しようとしたが、無実の罪で収監され8年間を刑務所で過ごすこととなる。
     今回の病院占拠事件の首謀者であり、身代金のやり取りに紛れて警察上層部のPCをハッキングし警察内部の不正の証拠となる機密データを手に入れ公表することで、上層部を一掃し新たな理想の警察組織を築くというクーデター計画を目論んでいた。自身を慕うかつての仲間や教え子たちを集めて人質籠城事件を引き起こし、さらにはバイオテロの予告を行い動かさせた入江のPCをハッキングして機密ファイルを入手させることに成功するが、裏で共謀していた斉木の裏切りにより銃撃されて致命傷を負う。なおも執念で起き上がり病原菌の入ったカプセルを突き付けるが、直後にSATの一斉射撃を受けて死亡する。
   - 戸田（とだ）
-    演 - [成宮寛貴](https://ja.wikipedia.org/wiki/成宮寛貴 "wikilink")
+    演 - [成宮寛貴](../Page/成宮寛貴.md "wikilink")
     テログループのメンバー。病院占拠の実行犯の一人であり、リーダーである後藤に心から心酔している。バイオテロ計画で使用する細菌を取り出す際に防護服が破れ、細菌に感染する。このことで弱気になってしまうが、一緒にいた美央に優しく接され心が和らぐようになる。
   - 氷川（ひかわ）
-    演 - [工藤俊作](https://ja.wikipedia.org/wiki/工藤俊作_\(俳優\) "wikilink")
+    演 - [工藤俊作](../Page/工藤俊作_\(俳優\).md "wikilink")
     第1SAT隊中隊長。昭和39年9月19日生まれ。病院占拠事件で突入するが、実は隊全員がテロリストの仲間。突入直後にテロリストからの銃撃で全滅したかのように装って後藤と合流する。その後に追加投入された第2SAT隊を待ち伏せして射殺する。また、この映画の前編に当たる「コード・ブレーキング 暗号解読」では、警察OB連続殺人の実行犯。
   - 蓮見 杏奈（はすみ あんな）
     演 - [濱田マリ](https://ja.wikipedia.org/wiki/濱田マリ "wikilink")
-    元警視庁刑事部捜査一課 情報解析係 [巡査部長](https://ja.wikipedia.org/wiki/巡査部長 "wikilink")。
+    元警視庁刑事部捜査一課 情報解析係 [巡査部長](../Page/巡査部長.md "wikilink")。
     極端な拝金主義者であり金のことしか頭になく、かつて親友だった雪平を裏切り誘拐事件を引き起こすも、後に自身が殺害されかけ今回占拠された病院に収容されていた。
     裏で前々から今回の病院占拠計画に協力しており、パソコンの扱いの慣れを活かして施設内のセキュリティ操作や捜査本部へのハッキングによる機密ファイルの回収を実行する。
     今回も実のところ金以外の事には興味はなく、終盤で仲間を射殺し逃亡しようとしたものの、自分自身も斉木に裏切られ射殺される。
   - 入江（いりえ）
     演 - [大杉漣](../Page/大杉漣.md "wikilink")
-    警察庁次長 [警視監](https://ja.wikipedia.org/wiki/警視監 "wikilink")。
+    警察庁次長 [警視監](../Page/警視監.md "wikilink")。
     警察の面子を重視し、次期警察庁長官のポストを狙っている。篠崎長官を人質に取られるも彼の死も織り込み済みでテログループの要求を突き返したものの、後藤に過去に行っていた不正の証拠とバイオテロ実行の天秤を突き付けられ、自身のPCを経由しての80億円の振り込みを要求される。PCは蓮見の手で機密ファイルのハッキングに使用された上、その80億円は斉木よって匿名での犯罪被害者支援団体への寄付に回された。
   - 警視総監
-    演 - [寺田農](https://ja.wikipedia.org/wiki/寺田農 "wikilink")
+    演 - [寺田農](../Page/寺田農.md "wikilink")
     [警視総監](../Page/警視総監.md "wikilink")。病院内に警察庁長官がいたため立てこもり事件の監督に関わる。警察の面子を重視し、取り残された美央を見捨てるよう指示した。
   - 篠崎（しのざき）
-    演 - [浜田晃](https://ja.wikipedia.org/wiki/浜田晃 "wikilink")
-    [警察庁長官](https://ja.wikipedia.org/wiki/警察庁長官 "wikilink")。豊洲警察病院に検査入院していたところを立て籠り犯の人質に取られ、警察が要求を呑まなかったことで射殺された。
+    演 - [浜田晃](../Page/浜田晃.md "wikilink")
+    [警察庁長官](../Page/警察庁長官.md "wikilink")。豊洲警察病院に検査入院していたところを立て籠り犯の人質に取られ、警察が要求を呑まなかったことで射殺された。
   - 佐藤 美央（さとう みお）
-    演 - [向井地美音](https://ja.wikipedia.org/wiki/向井地美音 "wikilink")
+    演 - [向井地美音](../Page/向井地美音.md "wikilink")
     雪平の娘。
     雪平を狙った爆破事件の身代わりとなり負傷し豊洲警察病院に入院するが、そこで発生した立てこもり事件に巻き込まれた上、さらにテログループが用意した病原菌に感染してしまう。
   - 浩子（ひろこ）
@@ -87,24 +87,24 @@
     演 - [遠山景織子](https://ja.wikipedia.org/wiki/遠山景織子 "wikilink")
     斉木の元婚約者。6年前に斉木の身代わりとなり爆破事故に巻き込まれ、一命は取り留めたものの全身に火傷を負って車椅子生活を余儀なくされ、その後飛び降り自殺によって命を落とした。
   - 葉子の母
-    演 - [朝加真由美](https://ja.wikipedia.org/wiki/朝加真由美 "wikilink")
+    演 - [朝加真由美](../Page/朝加真由美.md "wikilink")
 
 ## スタッフ
 
-  - 原作 - [秦建日子](https://ja.wikipedia.org/wiki/秦建日子 "wikilink")『[推理小説](https://ja.wikipedia.org/wiki/推理小説_\(小説\) "wikilink")』（[河出書房新社](https://ja.wikipedia.org/wiki/河出書房新社 "wikilink")）
-  - 監督 - [小林義則](https://ja.wikipedia.org/wiki/小林義則 "wikilink")
-  - 脚本 - [佐藤嗣麻子](https://ja.wikipedia.org/wiki/佐藤嗣麻子 "wikilink")
-  - 音楽 - [住友紀人](https://ja.wikipedia.org/wiki/住友紀人 "wikilink")
-  - 主題歌 - [伊藤由奈](https://ja.wikipedia.org/wiki/伊藤由奈 "wikilink")「[I'm Here](../Page/I'm_Here_\(伊藤由奈の曲\).md "wikilink")」（[STUDIOSEVEN Recordings](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")）
+  - 原作 - [秦建日子](../Page/秦建日子.md "wikilink")『[推理小説](https://ja.wikipedia.org/wiki/推理小説_\(小説\) "wikilink")』（[河出書房新社](../Page/河出書房新社.md "wikilink")）
+  - 監督 - [小林義則](../Page/小林義則.md "wikilink")
+  - 脚本 - [佐藤嗣麻子](../Page/佐藤嗣麻子.md "wikilink")
+  - 音楽 - [住友紀人](../Page/住友紀人.md "wikilink")
+  - 主題歌 - [伊藤由奈](https://ja.wikipedia.org/wiki/伊藤由奈 "wikilink")「[I'm Here](../Page/I'm_Here_\(伊藤由奈の曲\).md "wikilink")」（[STUDIOSEVEN Recordings](../Page/ソニー・ミュージックレコーズ.md "wikilink")）
   - 劇中歌 - 伊藤由奈「[Reason Why](https://ja.wikipedia.org/wiki/I'm_Here_\(伊藤由奈の曲\)#収録曲 "wikilink")」（STUDIOSEVEN Recordings）
-  - 企画 - 籏啓祝、[清水賢治](https://ja.wikipedia.org/wiki/清水賢治 "wikilink")、[市川南](https://ja.wikipedia.org/wiki/市川南_\(映画プロデューサー\) "wikilink")
+  - 企画 - 籏啓祝、[清水賢治](../Page/清水賢治.md "wikilink")、[市川南](https://ja.wikipedia.org/wiki/市川南_\(映画プロデューサー\) "wikilink")
   - 製作 - 谷泰三、[亀山千広](../Page/亀山千広.md "wikilink")、[島谷能成](https://ja.wikipedia.org/wiki/島谷能成 "wikilink")
-  - エグゼクティブプロデューサー - [臼井裕詞](https://ja.wikipedia.org/wiki/臼井裕詞 "wikilink")
-  - プロデューサー - [吉條英希](https://ja.wikipedia.org/wiki/吉條英希 "wikilink")、[稲田秀樹](https://ja.wikipedia.org/wiki/稲田秀樹 "wikilink")
+  - エグゼクティブプロデューサー - [臼井裕詞](../Page/臼井裕詞.md "wikilink")
+  - プロデューサー - [吉條英希](../Page/吉條英希.md "wikilink")、[稲田秀樹](../Page/稲田秀樹.md "wikilink")
   - ラインプロデューサー - 小林正知
   - 撮影 - 大石弘宣
   - 照明 - 花岡正光
-  - 美術 - [柳川和央](https://ja.wikipedia.org/wiki/柳川和央 "wikilink")
+  - 美術 - [柳川和央](../Page/柳川和央.md "wikilink")
   - 録音 - [芦原邦雄](https://ja.wikipedia.org/wiki/芦原邦雄 "wikilink")
   - 編集 - 穂垣順之助
   - 映像 - 吉川博文
@@ -122,7 +122,7 @@
 
 ## 関連商品
 
-  - アンフェア the movie オフィシャルガイドブック（2007年3月7日発売、[東京ニュース通信社](https://ja.wikipedia.org/wiki/東京ニュース通信社 "wikilink")）
+  - アンフェア the movie オフィシャルガイドブック（2007年3月7日発売、[東京ニュース通信社](../Page/東京ニュース通信社.md "wikilink")）
   - アンフェア the movie オリジナル・サウンドトラック（2007年3月21日発売、[ソニー・ミュージックエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")）
   - 小説 アンフェア the movie（2007年4月6日発売、[ワニブックス](../Page/ワニブックス.md "wikilink")）
 
@@ -131,7 +131,7 @@
   - **アンフェア the movie DVD**（2枚組・2007.9.19）
       - ディスク1：本編DVD
           - 映像特典 キャスト・スタッフプロフィール
-          - 音声特典 オーディオコメンタリー（[小林義則](https://ja.wikipedia.org/wiki/小林義則 "wikilink")監督×[臼井裕詞](https://ja.wikipedia.org/wiki/臼井裕詞 "wikilink")エグゼクティブ・プロデューサー×[吉條英希](https://ja.wikipedia.org/wiki/吉條英希 "wikilink")&[稲田秀樹](https://ja.wikipedia.org/wiki/稲田秀樹 "wikilink")プロデューサー×MC：[笠井信輔](../Page/笠井信輔.md "wikilink")フジテレビアナウンサー）
+          - 音声特典 オーディオコメンタリー（[小林義則](../Page/小林義則.md "wikilink")監督×[臼井裕詞](../Page/臼井裕詞.md "wikilink")エグゼクティブ・プロデューサー×[吉條英希](../Page/吉條英希.md "wikilink")&[稲田秀樹](../Page/稲田秀樹.md "wikilink")プロデューサー×MC：[笠井信輔](../Page/笠井信輔.md "wikilink")フジテレビアナウンサー）
       - ディスク2：特典DVD
           - メイキング
               - 〜アンフェアなのは誰\!?〜「アンフェア the movie」完全攻略
@@ -150,19 +150,19 @@
 
 興行収入27億2000万円（全国東宝洋画系）。
 
-本作品の公開に先駆け、メイキング番組をCS放送の[日本映画専門チャンネル](https://ja.wikipedia.org/wiki/日本映画専門チャンネル "wikilink")、[フジテレビ721・739](../Page/フジテレビワンツーネクスト.md "wikilink")、[関西テレビ☆京都チャンネル](https://ja.wikipedia.org/wiki/関西テレビ☆京都チャンネル "wikilink")でそれぞれ放送したほか、[地上波](../Page/地上波.md "wikilink")[フジテレビ系列](../Page/フジテレビ系列.md "wikilink")各局でもテレビシリーズ再放送と同時に放送した。
+本作品の公開に先駆け、メイキング番組をCS放送の[日本映画専門チャンネル](../Page/日本映画専門チャンネル.md "wikilink")、[フジテレビ721・739](../Page/フジテレビワンツーネクスト.md "wikilink")、[関西テレビ☆京都チャンネル](../Page/関西テレビ☆京都チャンネル.md "wikilink")でそれぞれ放送したほか、[地上波](../Page/地上波.md "wikilink")[フジテレビ系列](../Page/フジテレビ系列.md "wikilink")各局でもテレビシリーズ再放送と同時に放送した。
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[3月17日](../Page/3月17日.md "wikilink")に行われる初日舞台挨拶の模様（12:30 - 14:30）を、日本映画専門チャンネルフジテレビ739、関西テレビ☆京都チャンネルで3チャンネル同時生中継する（フジテレビ721でも17:00 - 19:00にディレイ放送するほか、各チャンネルで順次リピート放送あり）。
+[2007年](../Page/2007年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")に行われる初日舞台挨拶の模様（12:30 - 14:30）を、日本映画専門チャンネルフジテレビ739、関西テレビ☆京都チャンネルで3チャンネル同時生中継する（フジテレビ721でも17:00 - 19:00にディレイ放送するほか、各チャンネルで順次リピート放送あり）。
 
-一部の劇場（[しおりが余っている劇場](https://ja.wikipedia.org/wiki/栞 "wikilink")）では、販売促進用に配布されていた「アンフェアなのは誰か?」と書かれたしおりを劇場[パンフレット](https://ja.wikipedia.org/wiki/パンフレット "wikilink")購入者に配布していると思われる（全てのパンフレットにしおりがついていると思われていたが、一部劇場ではパンフレットにしおりがついていない状態で[販売](../Page/販売.md "wikilink")されている場合があった）。
+一部の劇場（[しおりが余っている劇場](../Page/栞.md "wikilink")）では、販売促進用に配布されていた「アンフェアなのは誰か?」と書かれたしおりを劇場[パンフレット](../Page/パンフレット.md "wikilink")購入者に配布していると思われる（全てのパンフレットにしおりがついていると思われていたが、一部劇場ではパンフレットにしおりがついていない状態で[販売](../Page/販売.md "wikilink")されている場合があった）。
 
-[わたらせフィルムコミッション](https://ja.wikipedia.org/wiki/わたらせフィルムコミッション "wikilink")の仲介により、篠原涼子の出身地である[桐生市](https://ja.wikipedia.org/wiki/桐生市 "wikilink")に隣接する、[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")[太田市](../Page/太田市.md "wikilink")の太田市役所が劇中に登場する豊洲警察病院として使われている。また太田市の人々が[エキストラ](https://ja.wikipedia.org/wiki/エキストラ "wikilink")として協力した。
+[わたらせフィルムコミッション](../Page/わたらせフィルムコミッション.md "wikilink")の仲介により、篠原涼子の出身地である[桐生市](../Page/桐生市.md "wikilink")に隣接する、[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")[太田市](../Page/太田市.md "wikilink")の太田市役所が劇中に登場する豊洲警察病院として使われている。また太田市の人々が[エキストラ](../Page/エキストラ.md "wikilink")として協力した。
 
 ## テレビ放送
 
 | 回数 | テレビ局                                                                       | 番組名（放送枠名）                                                                | 放送日                                                                                         | 放送時間          | 放送分数 | 視聴率   |
 | -- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- | ------------- | ---- | ----- |
-| 1  | [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")                    | [土曜プレミアム](https://ja.wikipedia.org/wiki/土曜プレミアム "wikilink")              | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月12日](../Page/4月12日.md "wikilink") | 21:00 - 23:10 | 130分 | 17.6% |
+| 1  | [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")                    | [土曜プレミアム](../Page/土曜プレミアム.md "wikilink")                                 | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月12日](../Page/4月12日.md "wikilink") | 21:00 - 23:10 | 130分 | 17.6% |
 | ２  | [2009年](../Page/2009年.md "wikilink")[4月18日](../Page/4月18日.md "wikilink")   | 13.3%                                                                    |                                                                                             |               |      |       |
 | ３  | [2011年](../Page/2011年.md "wikilink")[9月17日](../Page/9月17日.md "wikilink")   |                                                                          |                                                                                             |               |      |       |
 | ４  | [2013年](../Page/2013年.md "wikilink")[10月19日](../Page/10月19日.md "wikilink") | 11.0%                                                                    |                                                                                             |               |      |       |

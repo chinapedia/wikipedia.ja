@@ -3,15 +3,15 @@
 
 [250pxギャラリア](https://ja.wikipedia.org/wiki/ファイル:DFS_GALLERIA_OKINAWA01.JPG "wikilink")・沖縄\]\] [250px](https://ja.wikipedia.org/wiki/ファイル:DFS-Okinawa2.JPG "wikilink")
 
-**DFSギャラリア・沖縄**（ディーエフエスギャラリア・おきなわ）は、[沖縄県](../Page/沖縄県.md "wikilink")[那覇市](../Page/那覇市.md "wikilink")にある[免税店](https://ja.wikipedia.org/wiki/免税店 "wikilink")である。運営は**沖縄ディーエフエス**株式会社で、[LVMH](https://ja.wikipedia.org/wiki/LVMH "wikilink")グループの[外資系企業](https://ja.wikipedia.org/wiki/外資系企業 "wikilink")である。
+**DFSギャラリア・沖縄**（ディーエフエスギャラリア・おきなわ）は、[沖縄県](../Page/沖縄県.md "wikilink")[那覇市](../Page/那覇市.md "wikilink")にある[免税店](../Page/免税店.md "wikilink")である。運営は**沖縄ディーエフエス**株式会社で、[LVMH](../Page/LVMH.md "wikilink")グループの[外資系企業](https://ja.wikipedia.org/wiki/外資系企業 "wikilink")である。
 
 ## 概要
 
-[2002年](../Page/2002年.md "wikilink")の[沖縄振興特別措置法](https://ja.wikipedia.org/wiki/沖縄振興特別措置法 "wikilink")の改正によって設けられた[特定免税店制度に基づく免税店である](https://ja.wikipedia.org/wiki/特定免税店制度_\(沖縄\) "wikilink")。[LVMH](https://ja.wikipedia.org/wiki/LVMH "wikilink")のブランドを中心とした[香水](../Page/香水.md "wikilink")や[宝石](../Page/宝石.md "wikilink")などの高級ブランド品を日本国内に居ながらにして免税で買うことができる日本唯一にして最大を誇り、沖縄振興の一端を担っている。（[ルイ・ヴィトン](https://ja.wikipedia.org/wiki/ルイ・ヴィトン "wikilink")、[シャネル](../Page/シャネル.md "wikilink")などの市内店出店を除く）。
+[2002年](../Page/2002年.md "wikilink")の[沖縄振興特別措置法](https://ja.wikipedia.org/wiki/沖縄振興特別措置法 "wikilink")の改正によって設けられた[特定免税店制度に基づく免税店である](../Page/特定免税店制度_\(沖縄\).md "wikilink")。[LVMH](../Page/LVMH.md "wikilink")のブランドを中心とした[香水](../Page/香水.md "wikilink")や[宝石](../Page/宝石.md "wikilink")などの高級ブランド品を日本国内に居ながらにして免税で買うことができる日本唯一にして最大を誇り、沖縄振興の一端を担っている。（[ルイ・ヴィトン](../Page/ルイ・ヴィトン.md "wikilink")、[シャネル](../Page/シャネル.md "wikilink")などの市内店出店を除く）。
 
-DFSギャラリア建設前は、[マチナトハウジングエリア](https://ja.wikipedia.org/wiki/マチナトハウジングエリア "wikilink")の一部、および[那覇新都心](https://ja.wikipedia.org/wiki/那覇新都心 "wikilink")内に新たに土地を確保して移築された[佛立寺](https://ja.wikipedia.org/wiki/佛立寺 "wikilink")の大部分だった。着工前は、[中華民国](https://ja.wikipedia.org/wiki/中華民国 "wikilink")資本の35階建てホテルや、地球環境センタービルという[温室効果ガス](https://ja.wikipedia.org/wiki/温室効果ガス "wikilink")削減機能を有したビルの建設予定地だったが、いずれも事実上の白紙撤回。施設の北側に水道タンクを抱える丘が見えるが、ここは第2次世界大戦時に米軍からシュガーローフ(日本名：安里52高地)と呼ばれ、[沖縄戦](https://ja.wikipedia.org/wiki/沖縄戦 "wikilink")の激戦地のひとつとして知られる「[シュガーローフの戦い](../Page/シュガーローフの戦い.md "wikilink")」のあった場所である。DFS建設時にも2発の不発弾が見つかった。
+DFSギャラリア建設前は、[マチナトハウジングエリア](https://ja.wikipedia.org/wiki/マチナトハウジングエリア "wikilink")の一部、および[那覇新都心](../Page/那覇新都心.md "wikilink")内に新たに土地を確保して移築された[佛立寺](https://ja.wikipedia.org/wiki/佛立寺 "wikilink")の大部分だった。着工前は、[中華民国](../Page/中華民国.md "wikilink")資本の35階建てホテルや、地球環境センタービルという[温室効果ガス](../Page/温室効果ガス.md "wikilink")削減機能を有したビルの建設予定地だったが、いずれも事実上の白紙撤回。施設の北側に水道タンクを抱える丘が見えるが、ここは第2次世界大戦時に米軍からシュガーローフ(日本名：安里52高地)と呼ばれ、[沖縄戦](https://ja.wikipedia.org/wiki/沖縄戦 "wikilink")の激戦地のひとつとして知られる「[シュガーローフの戦い](../Page/シュガーローフの戦い.md "wikilink")」のあった場所である。DFS建設時にも2発の不発弾が見つかった。
 
-また、那覇空港から19分で到達する[ゆいレール](../Page/沖縄都市モノレール線.md "wikilink")[おもろまち駅](https://ja.wikipedia.org/wiki/おもろまち駅 "wikilink")に直結した入口側には、県内最大の[レンタカー](https://ja.wikipedia.org/wiki/レンタカー "wikilink")デポがあり、ここを発着点とした観光も可能となっている。館内にはレストランやカフェが併設されており、ショッピングの疲れを癒せると同時に、時として有名人を呼んだ大きなイベントを行っており、 ショッピング以外でも県内の情報発信基地として目が離せない存在である。
+また、那覇空港から19分で到達する[ゆいレール](../Page/沖縄都市モノレール線.md "wikilink")[おもろまち駅](https://ja.wikipedia.org/wiki/おもろまち駅 "wikilink")に直結した入口側には、県内最大の[レンタカー](../Page/レンタカー.md "wikilink")デポがあり、ここを発着点とした観光も可能となっている。館内にはレストランやカフェが併設されており、ショッピングの疲れを癒せると同時に、時として有名人を呼んだ大きなイベントを行っており、 ショッピング以外でも県内の情報発信基地として目が離せない存在である。
 
 展開する商品群もアウトレットとは異なり、最新商品が3割前後程度安く購入することが出来る。しかも季節によってはブランド品でもセール対象になるものも多く、免税価格からさらにセール価格となるので、さらにお買い得となるようである。
 
@@ -19,7 +19,7 @@ DFSギャラリア建設前は、[マチナトハウジングエリア](https://
 
 ## 免税対象者
 
-[那覇空港](../Page/那覇空港.md "wikilink")発の[日本本土行](https://ja.wikipedia.org/wiki/本土 "wikilink")（[奄美地方](https://ja.wikipedia.org/wiki/奄美地方 "wikilink")を含む）または[国際線の](https://ja.wikipedia.org/wiki/航空路 "wikilink")[航空券](../Page/航空券.md "wikilink")所持者が対象である。沖縄県内在住者であっても沖縄県外に出域する場合は免税品の購入が可能である。
+[那覇空港](../Page/那覇空港.md "wikilink")発の[日本本土行](../Page/本土.md "wikilink")（[奄美地方](https://ja.wikipedia.org/wiki/奄美地方 "wikilink")を含む）または[国際線の](../Page/航空路.md "wikilink")[航空券](../Page/航空券.md "wikilink")所持者が対象である。沖縄県内在住者であっても沖縄県外に出域する場合は免税品の購入が可能である。
 
 以前は沖縄県外に出域する国内線旅客のみ対象であったが、現在では国外に出国する国際線旅客も利用可能。おもろまちのギャラリア・沖縄で購入の場合は出発2時間前（国際線旅客は3時間前）までに購入の手続きを済ませ、品物は空港の制限区域内の受取カウンターで受け取ることになる。空港内店舗で購入の場合は搭乗便出発の15分前まで購入が可能である。(ただし、空港店の営業時間は20:30まで。)
 
@@ -43,10 +43,10 @@ DFSギャラリア建設前は、[マチナトハウジングエリア](https://
 ## 関連項目
 
   - [沖縄振興特別措置法](https://ja.wikipedia.org/wiki/沖縄振興特別措置法 "wikilink")
-  - [免税店](https://ja.wikipedia.org/wiki/免税店 "wikilink")
+  - [免税店](../Page/免税店.md "wikilink")
   - [DFSギャラリア](https://ja.wikipedia.org/wiki/DFSギャラリア "wikilink")
-  - [特定免税店制度 (沖縄)](https://ja.wikipedia.org/wiki/特定免税店制度_\(沖縄\) "wikilink")
-  - [那覇新都心](https://ja.wikipedia.org/wiki/那覇新都心 "wikilink")
+  - [特定免税店制度 (沖縄)](../Page/特定免税店制度_\(沖縄\).md "wikilink")
+  - [那覇新都心](../Page/那覇新都心.md "wikilink")
 
 ## 外部リンク
 

@@ -5,15 +5,15 @@
 
 ## 概要
 
-[Java](https://ja.wikipedia.org/wiki/Java "wikilink")を基盤として開発され,ウィンドウズ/リナックス/マックなど様々なプラットフォームをサポートしたデスクトップオフィススイートであるThinkfree Officeは,既存の[Java](https://ja.wikipedia.org/wiki/Java "wikilink")基盤から脱皮し,2016年からはC++ベースの新しいウィンドウズ用の製品を発売して,現在,[Android](https://ja.wikipedia.org/wiki/Android "wikilink")及び[IOS (アップル)用のネイティブアプリを提供している](https://ja.wikipedia.org/wiki/IOS_\(アップル\) "wikilink")。
+[Java](https://ja.wikipedia.org/wiki/Java "wikilink")を基盤として開発され,ウィンドウズ/リナックス/マックなど様々なプラットフォームをサポートしたデスクトップオフィススイートであるThinkfree Officeは,既存の[Java](https://ja.wikipedia.org/wiki/Java "wikilink")基盤から脱皮し,2016年からはC++ベースの新しいウィンドウズ用の製品を発売して,現在,[Android](../Page/Android.md "wikilink")及び[IOS (アップル)用のネイティブアプリを提供している](https://ja.wikipedia.org/wiki/IOS_\(アップル\) "wikilink")。
 
 また,ウェブブラウザ基盤の製品では,2018年6月から[Amazon Web Services](https://ja.wikipedia.org/wiki/Amazon_Web_Services "wikilink") WorkDocsサービス上で、Hancom Thinkfree Office Online による Microsoft Office ファイルのリアルタイムでの作成、共同編集が可能となっている\[1\]。製作会社[hancom](https://ja.wikipedia.org/wiki/hancom "wikilink")のNetffice24でも同時に提供されている。
 
-日本ではパッケージ版のThinkfree Office（2016対応版）、Thinkfree Office NEO、Thinkfree Office NEO 2019などが[ソースネクスト](https://ja.wikipedia.org/wiki/ソースネクスト "wikilink")から販売されている。
+日本ではパッケージ版のThinkfree Office（2016対応版）、Thinkfree Office NEO、Thinkfree Office NEO 2019などが[ソースネクスト](../Page/ソースネクスト.md "wikilink")から販売されている。
 
 ## 関連項目
 
-  - [オフィススイートの比較](https://ja.wikipedia.org/wiki/オフィススイートの比較 "wikilink")
+  - [オフィススイートの比較](../Page/オフィススイートの比較.md "wikilink")
 
 ## 脚注
 

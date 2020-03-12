@@ -1,15 +1,15 @@
 > この記事は[Self](https://ja.wikipedia.org/wiki/Self)から翻訳されています。
 
 
-**Self** は、「[プロトタイプ](https://ja.wikipedia.org/wiki/プロトタイプベース "wikilink")」の概念に基づいた[オブジェクト指向](../Page/オブジェクト指向プログラミング.md "wikilink")[プログラミング言語](../Page/プログラミング言語.md "wikilink")である。[1980年代](../Page/1980年代.md "wikilink")から[1990年代](../Page/1990年代.md "wikilink")にかけて言語設計の実験的システムとして使われていたが、[2018年](../Page/2018年.md "wikilink")、Self の開発は続けられており、Self言語自身で書かれた Selfバーチャルマシンを構築する Klein プロジェクトが進められ、2006年7月にバージョン 4.3 がリリースされた。
+**Self** は、「[プロトタイプ](../Page/プロトタイプベース.md "wikilink")」の概念に基づいた[オブジェクト指向](../Page/オブジェクト指向プログラミング.md "wikilink")[プログラミング言語](../Page/プログラミング言語.md "wikilink")である。[1980年代](../Page/1980年代.md "wikilink")から[1990年代](../Page/1990年代.md "wikilink")にかけて言語設計の実験的システムとして使われていたが、[2018年](../Page/2018年.md "wikilink")、Self の開発は続けられており、Self言語自身で書かれた Selfバーチャルマシンを構築する Klein プロジェクトが進められ、2006年7月にバージョン 4.3 がリリースされた。
 
 ## 歴史
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")、[パロアルト研究所](https://ja.wikipedia.org/wiki/パロアルト研究所 "wikilink")で働いていたDavid UngarとRandall SmithがSelfを設計した。[Smalltalk](../Page/Smalltalk.md "wikilink")-80が一般にリリースされて産業界から真剣に受け止められ始めていることから、[オブジェクト指向](../Page/オブジェクト指向プログラミング.md "wikilink")[プログラミング言語](../Page/プログラミング言語.md "wikilink")の研究をさらに進めることを目的として行われた。彼らは[スタンフォード大学](../Page/スタンフォード大学.md "wikilink")に移り、Selfの作業を進め、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に最初のコンパイラを完成させた。そして、言語だけではなくSelfのシステム全体を構築することに注力することになった。
+[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")、[パロアルト研究所](../Page/パロアルト研究所.md "wikilink")で働いていたDavid UngarとRandall SmithがSelfを設計した。[Smalltalk](../Page/Smalltalk.md "wikilink")-80が一般にリリースされて産業界から真剣に受け止められ始めていることから、[オブジェクト指向](../Page/オブジェクト指向プログラミング.md "wikilink")[プログラミング言語](../Page/プログラミング言語.md "wikilink")の研究をさらに進めることを目的として行われた。彼らは[スタンフォード大学](../Page/スタンフォード大学.md "wikilink")に移り、Selfの作業を進め、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に最初のコンパイラを完成させた。そして、言語だけではなくSelfのシステム全体を構築することに注力することになった。
 
-一般への最初のリリースは[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")であり、翌年には彼らチームは[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")に移り、さらに Selfに関する作業を続けた。その後、何回かのリリースが行われ、1995年のバージョン 4.0リリースで長い活動休止状態に入った。最近のバージョン 4.2は[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")にリリースされ、[Mac OS Xと](https://ja.wikipedia.org/wiki/macOS "wikilink")[Solaris](../Page/Solaris.md "wikilink")上で動作した。
+一般への最初のリリースは[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")であり、翌年には彼らチームは[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")に移り、さらに Selfに関する作業を続けた。その後、何回かのリリースが行われ、1995年のバージョン 4.0リリースで長い活動休止状態に入った。最近のバージョン 4.2は[2004年](../Page/2004年.md "wikilink")にリリースされ、[Mac OS Xと](https://ja.wikipedia.org/wiki/macOS "wikilink")[Solaris](../Page/Solaris.md "wikilink")上で動作した。
 
-Selfはいくつかの言語に概念的な影響を与えた。特筆すべきものとしては、[アップル・ニュートン](https://ja.wikipedia.org/wiki/アップル・ニュートン "wikilink")の[NewtonScript](https://ja.wikipedia.org/wiki/NewtonScript "wikilink")と、動的ウェブページ構築に使われる[JavaScript](../Page/JavaScript.md "wikilink")がある。他に、[Io言語](https://ja.wikipedia.org/wiki/Io_\(プログラミング言語\) "wikilink")、[Cel言語](https://ja.wikipedia.org/wiki/Cel言語 "wikilink")、[Agora](https://ja.wikipedia.org/wiki/Agora "wikilink")などがある。
+Selfはいくつかの言語に概念的な影響を与えた。特筆すべきものとしては、[アップル・ニュートン](../Page/アップル・ニュートン.md "wikilink")の[NewtonScript](https://ja.wikipedia.org/wiki/NewtonScript "wikilink")と、動的ウェブページ構築に使われる[JavaScript](../Page/JavaScript.md "wikilink")がある。他に、[Io言語](../Page/Io_\(プログラミング言語\).md "wikilink")、[Cel言語](https://ja.wikipedia.org/wiki/Cel言語 "wikilink")、[Agora](https://ja.wikipedia.org/wiki/Agora "wikilink")などがある。
 
 ## プロトタイプベース・プログラミング
 
@@ -86,7 +86,7 @@ Smalltalk-80 では、同じ式が次のように記述される:
 
 ### 継承/委譲
 
-理論上、全ての Self オブジェクトはスタンドアロンな実体である。Self にはクラスもメタクラスもない。あるオブジェクトを変更しても他には影響がないが、影響があったほうがよい場合もある。通常、オブジェクトは自身のローカルなスロットへのメッセージしか認識しないが、「親」オブジェクトを指定するスロットを持つことによって、そのオブジェクト自身が解釈できないメッセージを親オブジェクトに**委譲**することができる。スロット名の後ろにアスタリスクがあるものは親へのポインタとなる。このような手法で、クラスベースの言語で[継承機能が担っていることを実現する](https://ja.wikipedia.org/wiki/継承_\(プログラミング\) "wikilink")。委譲によって[名前空間](../Page/名前空間.md "wikilink")や[スコープ](https://ja.wikipedia.org/wiki/スコープ "wikilink")といった機能も実装できる。
+理論上、全ての Self オブジェクトはスタンドアロンな実体である。Self にはクラスもメタクラスもない。あるオブジェクトを変更しても他には影響がないが、影響があったほうがよい場合もある。通常、オブジェクトは自身のローカルなスロットへのメッセージしか認識しないが、「親」オブジェクトを指定するスロットを持つことによって、そのオブジェクト自身が解釈できないメッセージを親オブジェクトに**委譲**することができる。スロット名の後ろにアスタリスクがあるものは親へのポインタとなる。このような手法で、クラスベースの言語で[継承機能が担っていることを実現する](../Page/継承_\(プログラミング\).md "wikilink")。委譲によって[名前空間](../Page/名前空間.md "wikilink")や[スコープ](../Page/スコープ.md "wikilink")といった機能も実装できる。
 
 ### 特徴
 
@@ -130,7 +130,7 @@ Vehicle という単純なクラスのリファクタリングで乗用車とト
 
 ## 環境
 
-Self の特徴の1つとして、Smalltalk システムが使っていた[仮想機械](../Page/仮想機械.md "wikilink")と同様の仕組みに基づいている点が挙げられる。つまり、Self のプログラムは[C言語](../Page/C言語.md "wikilink")などとは異なり、それ[単独では機能しない](https://ja.wikipedia.org/wiki/スタンドアローン "wikilink")。常に実行環境が必要となる。しかし、このようになっているため、Self 環境は強力なデバッグツールを提供できる。プログラムを任意の時点で停止させ、コードや値を変更し、実行を再開させるといったことが可能である。
+Self の特徴の1つとして、Smalltalk システムが使っていた[仮想機械](../Page/仮想機械.md "wikilink")と同様の仕組みに基づいている点が挙げられる。つまり、Self のプログラムは[C言語](../Page/C言語.md "wikilink")などとは異なり、それ[単独では機能しない](../Page/スタンドアローン.md "wikilink")。常に実行環境が必要となる。しかし、このようになっているため、Self 環境は強力なデバッグツールを提供できる。プログラムを任意の時点で停止させ、コードや値を変更し、実行を再開させるといったことが可能である。
 
 さらに、Self 環境はオブジェクトを素早くかつ継続的に変更することを考慮している。「クラス」設計のリファクタリングは、単に既存のメソッドを新しいオブジェクトに引っ張ってくればよいだけである。メソッドの評価のような単純な作業は、コピーを作って、メソッドをコピーに引っ張ってきて、そこで修正すればよい。他のシステムとは異なり、その新たなオブジェクトだけが新しいコードを持っており、テストするにも他に影響が発生しない。そのメソッドがうまく動いたら、それを元のオブジェクトに戻せばよい。
 
@@ -138,7 +138,7 @@ Self の特徴の1つとして、Smalltalk システムが使っていた[仮想
 
 Self の VM（仮想機械）は C言語と比較して（一部のベンチマークで）約半分程度の性能を達成している。
 
-これは[ジャストインタイムコンパイル(JIT)方式によるもので](https://ja.wikipedia.org/wiki/ジャストインタイムコンパイル方式 "wikilink")、特に研究が進んでいる部分である。特に、起動当初はインタプリタとして実行し、よく送信されるメッセージや繰り返し実行されるコードの検出（プロファイリング）を行い、そのようなコードのみをコンパイルするadaptive compilationという技術は最初Selfの処理系で実装され、後にJavaの[HotSpot](https://ja.wikipedia.org/wiki/HotSpot "wikilink")で採用された。
+これは[ジャストインタイムコンパイル(JIT)方式によるもので](https://ja.wikipedia.org/wiki/ジャストインタイムコンパイル方式 "wikilink")、特に研究が進んでいる部分である。特に、起動当初はインタプリタとして実行し、よく送信されるメッセージや繰り返し実行されるコードの検出（プロファイリング）を行い、そのようなコードのみをコンパイルするadaptive compilationという技術は最初Selfの処理系で実装され、後にJavaの[HotSpot](../Page/HotSpot.md "wikilink")で採用された。
 
 ### ガベージコレクション
 

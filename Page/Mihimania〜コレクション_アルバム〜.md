@@ -1,7 +1,7 @@
 > この記事は[Mihimania ](https://ja.wikipedia.org/wiki/Mihimania_)から翻訳されています。
 
 
-『**mihimania〜コレクション アルバム〜**』（ミヒマニア　コレクション アルバム）は、[mihimaru GTの](https://ja.wikipedia.org/wiki/mihimaru_GT "wikilink")、裏[ベストともいえる](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")[アルバム](../Page/アルバム.md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月15日](../Page/11月15日.md "wikilink")リリース。限定10万枚。発売元は、[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。
+『**mihimania〜コレクション アルバム〜**』（ミヒマニア　コレクション アルバム）は、[mihimaru GTの](https://ja.wikipedia.org/wiki/mihimaru_GT "wikilink")、裏[ベストともいえる](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")[アルバム](../Page/アルバム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[11月15日](../Page/11月15日.md "wikilink")リリース。限定10万枚。発売元は、[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
 
 ## 解説
 
@@ -12,7 +12,7 @@
 
 ## 収録曲
 
-1.  **[The 7 Wonders](https://ja.wikipedia.org/wiki/気分上々↑↑ "wikilink")**
+1.  **[The 7 Wonders](../Page/気分上々↑↑.md "wikilink")**
       - 作詞：mitsuyuki miyake / 作曲：mitsuyuki miyake
     <!-- end list -->
       -
@@ -22,7 +22,7 @@
     <!-- end list -->
       -
         2ndシングル「帰ろう歌」のカップリング曲で、原曲より[キーが](https://ja.wikipedia.org/wiki/調 "wikilink")[半音](../Page/半音.md "wikilink")低い。タイトルはユニット名の候補のひとつだったという。
-3.  **[プライスレス](https://ja.wikipedia.org/wiki/ユルメのレイデ "wikilink") -TAKE 06-**
+3.  **[プライスレス](../Page/ユルメのレイデ.md "wikilink") -TAKE 06-**
       - 作詞：hiroko and mitsuyuki miyake / 作曲：mitsuyuki miyake
     <!-- end list -->
       -
@@ -33,7 +33,7 @@
     <!-- end list -->
       -
         結成当初からあったという、切なさを歌った新曲。アルバム『[mihimania collection](https://ja.wikipedia.org/wiki/mihimania_collection "wikilink")』にも収録されている。
-5.  **[travel](https://ja.wikipedia.org/wiki/願〜negai〜 "wikilink") -TAKE 06-**
+5.  **[travel](../Page/願〜negai〜.md "wikilink") -TAKE 06-**
       - 作詞：hiroko and mitsuyuki miyake / 作曲：mitsuyuki miyake
     <!-- end list -->
       -
@@ -43,7 +43,7 @@
     <!-- end list -->
       -
         4thシングル「H.P.S.J. -mihimaru Ball MIX-／So Merry Christmas」の2曲目で、原曲よりキーは半音低いが[転調](../Page/転調.md "wikilink")して同じになる。カメリアダイアモンドCMソング。
-        この曲の[PVは](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、[法政大学](https://ja.wikipedia.org/wiki/法政大学 "wikilink")の学生との共同制作。なおPVは[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[2月28日](../Page/2月28日.md "wikilink")に再発売されるアルバム『[mihimarhythm](https://ja.wikipedia.org/wiki/mihimarhythm "wikilink")』『[mihimalife](https://ja.wikipedia.org/wiki/mihimalife "wikilink")』『[mihimagic](https://ja.wikipedia.org/wiki/mihimagic "wikilink")』の[DVD](../Page/DVD.md "wikilink")に収録される。
+        この曲の[PVは](../Page/ミュージック・ビデオ.md "wikilink")、[法政大学](https://ja.wikipedia.org/wiki/法政大学 "wikilink")の学生との共同制作。なおPVは[2007年](../Page/2007年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")に再発売されるアルバム『[mihimarhythm](https://ja.wikipedia.org/wiki/mihimarhythm "wikilink")』『[mihimalife](https://ja.wikipedia.org/wiki/mihimalife "wikilink")』『[mihimagic](https://ja.wikipedia.org/wiki/mihimagic "wikilink")』の[DVD](../Page/DVD.md "wikilink")に収録される。
 
 ## 外部リンク
 

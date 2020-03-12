@@ -9,11 +9,11 @@
 
 <!-- end list -->
 
-  - 今作は、[1996年](../Page/1996年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")リリースの[山崎まさよし](https://ja.wikipedia.org/wiki/山崎まさよし "wikilink")のシングル「[セロリ](https://ja.wikipedia.org/wiki/セロリ_\(山崎まさよしの曲\) "wikilink")」を[清水信之](https://ja.wikipedia.org/wiki/清水信之 "wikilink")がアレンジし、SMAPが[カバー](../Page/カバー.md "wikilink")したものである。オリジナルでは作詞・作曲のクレジットは本名の「山崎将義」名義としているが、本作では「山崎まさよし」名義としている。
+  - 今作は、[1996年](../Page/1996年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")リリースの[山崎まさよし](https://ja.wikipedia.org/wiki/山崎まさよし "wikilink")のシングル「[セロリ](../Page/セロリ_\(山崎まさよしの曲\).md "wikilink")」を[清水信之](../Page/清水信之.md "wikilink")がアレンジし、SMAPが[カバー](../Page/カバー.md "wikilink")したものである。オリジナルでは作詞・作曲のクレジットは本名の「山崎将義」名義としているが、本作では「山崎まさよし」名義としている。
 
 <!-- end list -->
 
-  - グループ7回目の出場となる『[第48回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第48回NHK紅白歌合戦 "wikilink")』では、「ダイナマイトセロリ\!」と称して、前作の「[ダイナマイト](../Page/ダイナマイト_\(SMAPの曲\).md "wikilink")」とのメドレー形式で披露された(歌唱順は「セロリ」 → 「ダイナマイト」の順)。また、2005年の『[第56回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第56回NHK紅白歌合戦 "wikilink")』で実施された「[スキウタ〜紅白みんなでアンケート〜](https://ja.wikipedia.org/wiki/スキウタ〜紅白みんなでアンケート〜 "wikilink")」ではオリジナルと合計した集計で、白組の42位にランクインした。
+  - グループ7回目の出場となる『[第48回NHK紅白歌合戦](../Page/第48回NHK紅白歌合戦.md "wikilink")』では、「ダイナマイトセロリ\!」と称して、前作の「[ダイナマイト](../Page/ダイナマイト_\(SMAPの曲\).md "wikilink")」とのメドレー形式で披露された(歌唱順は「セロリ」 → 「ダイナマイト」の順)。また、2005年の『[第56回NHK紅白歌合戦](../Page/第56回NHK紅白歌合戦.md "wikilink")』で実施された「[スキウタ〜紅白みんなでアンケート〜](../Page/スキウタ〜紅白みんなでアンケート〜.md "wikilink")」ではオリジナルと合計した集計で、白組の42位にランクインした。
 
 <!-- end list -->
 
@@ -21,7 +21,7 @@
 
 ## チャート成績
 
-  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[5月26日](../Page/5月26日.md "wikilink")付の[オリコン週間シングルチャートで](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")、初週20.1万枚を売り上げた。
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[5月26日](../Page/5月26日.md "wikilink")付の[オリコン週間シングルチャートで](../Page/オリコンチャート.md "wikilink")、初週20.1万枚を売り上げた。
   - 累計売上は73.2万枚（[オリコン](../Page/オリコン.md "wikilink")調べ）。
 
 ## 収録曲
@@ -38,7 +38,7 @@
         [MVでは](https://ja.wikipedia.org/wiki/ミュージックビデオ "wikilink")、木村がギターを演奏している。
 2.  **まぁいいか**
       -
-        作詞:[森浩美](../Page/森浩美.md "wikilink") / 作曲:寺田一郎 / 編曲:[CHOKKAKU](https://ja.wikipedia.org/wiki/CHOKKAKU "wikilink")
+        作詞:[森浩美](../Page/森浩美.md "wikilink") / 作曲:寺田一郎 / 編曲:[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")
 3.  セロリ（music track）
 4.  まぁいいか（music track）
 

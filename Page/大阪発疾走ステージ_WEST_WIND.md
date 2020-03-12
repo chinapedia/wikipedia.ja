@@ -1,7 +1,7 @@
 > この記事は[ WEST WIND](https://ja.wikipedia.org/wiki/_WEST_WIND)から翻訳されています。
 
 
-『**大阪発疾走ステージ WEST WIND**』（おおさかはつしっそうステージ うえすとうぃんど）は、[NHK大阪放送局](../Page/NHK大阪放送局.md "wikilink")製作で[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[2月25日](../Page/2月25日.md "wikilink")（第4週日曜日）に[NHK衛星第2テレビジョン](https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン "wikilink")で放送された[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。2007年[4月29日](../Page/4月29日.md "wikilink")よりレギュラー放送開始。
+『**大阪発疾走ステージ WEST WIND**』（おおさかはつしっそうステージ うえすとうぃんど）は、[NHK大阪放送局](../Page/NHK大阪放送局.md "wikilink")製作で[2007年](../Page/2007年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")（第4週日曜日）に[NHK衛星第2テレビジョン](../Page/NHK衛星第2テレビジョン.md "wikilink")で放送された[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。2007年[4月29日](../Page/4月29日.md "wikilink")よりレギュラー放送開始。
 
 ## 内容
 
@@ -9,7 +9,7 @@
 
 ## 放送時間
 
-[BS2での放送時間は](https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン "wikilink")、以下の通りである。
+[BS2での放送時間は](../Page/NHK衛星第2テレビジョン.md "wikilink")、以下の通りである。
 
   - 第1回（2007年2月25日放送）、第2回（2007年4月29日放送）から第9回（2008年2月24日放送）まで：日曜21:00 - 21:48
   - 第10回（2008年4月27日放送）から第29回（2010年3月7日放送）まで：日曜18:00 - 18:48
@@ -19,22 +19,22 @@
 
 ### 第1回（2007年2月25日放送）
 
-  - MC：[チュートリアル](https://ja.wikipedia.org/wiki/チュートリアル_\(お笑いコンビ\) "wikilink")（[徳井義実](../Page/徳井義実.md "wikilink")・[福田充徳](../Page/福田充徳.md "wikilink")）
-  - [アジアン](https://ja.wikipedia.org/wiki/アジアン "wikilink")
+  - MC：[チュートリアル](../Page/チュートリアル_\(お笑いコンビ\).md "wikilink")（[徳井義実](../Page/徳井義実.md "wikilink")・[福田充徳](../Page/福田充徳.md "wikilink")）
+  - [アジアン](../Page/アジアン.md "wikilink")
   - [abingdon boys school](https://ja.wikipedia.org/wiki/abingdon_boys_school "wikilink")
-  - [THE イナズマ戦隊](https://ja.wikipedia.org/wiki/THE_イナズマ戦隊 "wikilink")
-  - [スマイル](https://ja.wikipedia.org/wiki/スマイル_\(お笑いコンビ\) "wikilink")
+  - [THE イナズマ戦隊](../Page/THE_イナズマ戦隊.md "wikilink")
+  - [スマイル](../Page/スマイル_\(お笑いコンビ\).md "wikilink")
   - [Tommy heavenly6](https://ja.wikipedia.org/wiki/Tommy_heavenly6 "wikilink")
-  - [Fonogenico](https://ja.wikipedia.org/wiki/Fonogenico "wikilink")
+  - [Fonogenico](../Page/Fonogenico.md "wikilink")
 
 ### 第2回（2007年4月29日放送）
 
-  - MC:[ブラックマヨネーズ](https://ja.wikipedia.org/wiki/ブラックマヨネーズ "wikilink")（[吉田敬](https://ja.wikipedia.org/wiki/吉田敬 "wikilink")・[小杉竜一](https://ja.wikipedia.org/wiki/小杉竜一 "wikilink")）
-  - [アンダーグラフ](https://ja.wikipedia.org/wiki/アンダーグラフ "wikilink")
-  - [ET-KING](https://ja.wikipedia.org/wiki/ET-KING "wikilink")
-  - [少年カミカゼ](https://ja.wikipedia.org/wiki/少年カミカゼ "wikilink")
+  - MC:[ブラックマヨネーズ](../Page/ブラックマヨネーズ.md "wikilink")（[吉田敬](../Page/吉田敬.md "wikilink")・[小杉竜一](../Page/小杉竜一.md "wikilink")）
+  - [アンダーグラフ](../Page/アンダーグラフ.md "wikilink")
+  - [ET-KING](../Page/ET-KING.md "wikilink")
+  - [少年カミカゼ](../Page/少年カミカゼ.md "wikilink")
   - [天津](https://ja.wikipedia.org/wiki/天津_\(お笑い\) "wikilink")
-  - [NON STYLE](https://ja.wikipedia.org/wiki/NON_STYLE "wikilink")
+  - [NON STYLE](../Page/NON_STYLE.md "wikilink")
   - [RAG FAIR](../Page/RAG_FAIR.md "wikilink")
 
 ### 第3回（2007年5月27日放送）
@@ -42,30 +42,30 @@
   - MC:[陣内智則](../Page/陣内智則.md "wikilink")
   - [オレスカバンド](https://ja.wikipedia.org/wiki/オレスカバンド "wikilink")
   - [ザ50回転ズ](../Page/ザ50回転ズ.md "wikilink")
-  - [ダイアン](https://ja.wikipedia.org/wiki/ダイアン "wikilink")
-  - [橘慶太](https://ja.wikipedia.org/wiki/橘慶太 "wikilink")
-  - [DEPAPEPE](https://ja.wikipedia.org/wiki/DEPAPEPE "wikilink")
+  - [ダイアン](../Page/ダイアン.md "wikilink")
+  - [橘慶太](../Page/橘慶太.md "wikilink")
+  - [DEPAPEPE](../Page/DEPAPEPE.md "wikilink")
   - [とろサーモン](https://ja.wikipedia.org/wiki/とろサーモン_\(お笑いコンビ\) "wikilink")
 
 ### 第4回（2007年6月17日放送）
 
-  - MC:[サバンナ](https://ja.wikipedia.org/wiki/サバンナ_\(お笑いコンビ\) "wikilink")（[高橋茂雄](https://ja.wikipedia.org/wiki/高橋茂雄 "wikilink")・[八木真澄](https://ja.wikipedia.org/wiki/八木真澄 "wikilink")）
-  - [青空](https://ja.wikipedia.org/wiki/青空_\(お笑い\) "wikilink")
+  - MC:[サバンナ](../Page/サバンナ_\(お笑いコンビ\).md "wikilink")（[高橋茂雄](../Page/高橋茂雄.md "wikilink")・[八木真澄](../Page/八木真澄.md "wikilink")）
+  - [青空](../Page/青空_\(お笑い\).md "wikilink")
   - abingdon boys school
-  - [ガガガSP](https://ja.wikipedia.org/wiki/ガガガSP "wikilink")
+  - [ガガガSP](../Page/ガガガSP.md "wikilink")
   - [タイナカサチ](https://ja.wikipedia.org/wiki/タイナカサチ "wikilink")
   - [プラスマイナス](https://ja.wikipedia.org/wiki/プラスマイナス "wikilink")
-  - [ライムライト](https://ja.wikipedia.org/wiki/ライムライト_\(音楽グループ\) "wikilink")
+  - [ライムライト](../Page/ライムライト_\(音楽グループ\).md "wikilink")
 
 ### 第5回（2007年9月23日放送）
 
   - MC:陣内智則
   - abingdon boys school
   - SEAMO
-  - [ストリーク](https://ja.wikipedia.org/wiki/ストリーク "wikilink")
+  - [ストリーク](../Page/ストリーク.md "wikilink")
   - [藤崎マーケット](../Page/藤崎マーケット.md "wikilink")
   - [茉奈 佳奈](https://ja.wikipedia.org/wiki/茉奈_佳奈 "wikilink")
-  - [ムラマサ☆](https://ja.wikipedia.org/wiki/ムラマサ☆ "wikilink")
+  - [ムラマサ☆](../Page/ムラマサ☆.md "wikilink")
 
 ### 第6回（2007年10月28日放送）
 
@@ -73,49 +73,49 @@
   - [植村花菜](https://ja.wikipedia.org/wiki/植村花菜 "wikilink")
   - [片山ブレイカーズ](https://ja.wikipedia.org/wiki/片山ブレイカーズ "wikilink") & [ザ☆ロケンローパーティ](https://ja.wikipedia.org/wiki/ザ☆ロケンローパーティ "wikilink")
   - [ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink")
-  - [Skoop On Somebody](https://ja.wikipedia.org/wiki/Skoop_On_Somebody "wikilink")
+  - [Skoop On Somebody](../Page/Skoop_On_Somebody.md "wikilink")
   - [span\!](https://ja.wikipedia.org/wiki/span! "wikilink")
   - プラスマイナス
 
 ### 第7回（2007年11月25日放送）
 
-  - MC:[南海キャンディーズ](https://ja.wikipedia.org/wiki/南海キャンディーズ "wikilink")（[山里亮太](https://ja.wikipedia.org/wiki/山里亮太 "wikilink")・[山崎静代](https://ja.wikipedia.org/wiki/山崎静代 "wikilink")）
+  - MC:[南海キャンディーズ](../Page/南海キャンディーズ.md "wikilink")（[山里亮太](../Page/山里亮太.md "wikilink")・[山崎静代](../Page/山崎静代.md "wikilink")）
   - [愛内里菜](https://ja.wikipedia.org/wiki/愛内里菜 "wikilink")
-  - [Acid Black Cherry](https://ja.wikipedia.org/wiki/Acid_Black_Cherry "wikilink")
-  - [Gulliver Get](https://ja.wikipedia.org/wiki/Gulliver_Get "wikilink")
+  - [Acid Black Cherry](../Page/Acid_Black_Cherry.md "wikilink")
+  - [Gulliver Get](../Page/Gulliver_Get.md "wikilink")
   - [ギャロップ](../Page/ギャロップ_\(お笑い\).md "wikilink")
   - [guckle](https://ja.wikipedia.org/wiki/guckle "wikilink")
-  - [ジャルジャル](https://ja.wikipedia.org/wiki/ジャルジャル "wikilink")
+  - [ジャルジャル](../Page/ジャルジャル.md "wikilink")
   - [mihimaru GT](https://ja.wikipedia.org/wiki/mihimaru_GT "wikilink")
 
 ### 第8回（2008年1月27日放送）
 
   - MC:サバンナ
-  - [AZU](https://ja.wikipedia.org/wiki/AZU "wikilink")
-  - [F-BLOOD](https://ja.wikipedia.org/wiki/F-BLOOD "wikilink")
+  - [AZU](../Page/AZU.md "wikilink")
+  - [F-BLOOD](../Page/F-BLOOD.md "wikilink")
   - THE イナズマ戦隊
   - スマイル
   - ダイアン
-  - [Lead](https://ja.wikipedia.org/wiki/Lead "wikilink")
+  - [Lead](../Page/Lead.md "wikilink")
 
 ### 第9回（2008年2月24日放送）
 
-  - MC:[フットボールアワー](../Page/フットボールアワー.md "wikilink")（[岩尾望](https://ja.wikipedia.org/wiki/岩尾望 "wikilink")・[後藤輝基](https://ja.wikipedia.org/wiki/後藤輝基 "wikilink")）
-  - [Acid Black Cherry](https://ja.wikipedia.org/wiki/Acid_Black_Cherry "wikilink")
+  - MC:[フットボールアワー](../Page/フットボールアワー.md "wikilink")（[岩尾望](../Page/岩尾望.md "wikilink")・[後藤輝基](../Page/後藤輝基.md "wikilink")）
+  - [Acid Black Cherry](../Page/Acid_Black_Cherry.md "wikilink")
   - [いきものがかり](https://ja.wikipedia.org/wiki/いきものがかり "wikilink")
-  - [銀シャリ](https://ja.wikipedia.org/wiki/銀シャリ_\(お笑い\) "wikilink")
-  - [ジャンクション](https://ja.wikipedia.org/wiki/ファミリーレストラン_\(お笑いコンビ\) "wikilink")
-  - [SPLAY](https://ja.wikipedia.org/wiki/SPLAY "wikilink")
+  - [銀シャリ](../Page/銀シャリ_\(お笑い\).md "wikilink")
+  - [ジャンクション](../Page/ファミリーレストラン_\(お笑いコンビ\).md "wikilink")
+  - [SPLAY](../Page/SPLAY.md "wikilink")
   - 茉奈 佳奈
 
 ### 第10回（2008年4月27日放送）
 
   - MC:フットボールアワー
-  - [ET-KING](https://ja.wikipedia.org/wiki/ET-KING "wikilink")
+  - [ET-KING](../Page/ET-KING.md "wikilink")
   - [w-inds.](https://ja.wikipedia.org/wiki/w-inds. "wikilink")
   - NON STYLE
-  - [美元智衣](https://ja.wikipedia.org/wiki/美元智衣 "wikilink")
-  - [天竺鼠](https://ja.wikipedia.org/wiki/天竺鼠 "wikilink")
+  - [美元智衣](../Page/美元智衣.md "wikilink")
+  - [天竺鼠](../Page/天竺鼠.md "wikilink")
   - [玉置成実](../Page/玉置成実.md "wikilink")
 
 ### 第11回（2008年5月25日放送）
@@ -125,7 +125,7 @@
   - [SCANDAL](https://ja.wikipedia.org/wiki/SCANDAL_\(日本のバンド\) "wikilink")
   - [谷村奈南](https://ja.wikipedia.org/wiki/谷村奈南 "wikilink")
   - [T.M.Revolution](../Page/T.M.Revolution.md "wikilink")
-  - [中山功太](https://ja.wikipedia.org/wiki/中山功太 "wikilink")
+  - [中山功太](../Page/中山功太.md "wikilink")
   - [笑い飯](../Page/笑い飯.md "wikilink")
 
 ### 第12回（2008年6月22日放送）
@@ -133,27 +133,27 @@
   - MC:フットボールアワー
   - [上木彩矢](https://ja.wikipedia.org/wiki/上木彩矢 "wikilink")
   - [SunSet Swish](https://ja.wikipedia.org/wiki/SunSet_Swish "wikilink")
-  - [AAA](https://ja.wikipedia.org/wiki/AAA_\(音楽グループ\) "wikilink")（男性メンバーのみ）
-  - [千鳥](https://ja.wikipedia.org/wiki/千鳥_\(お笑いコンビ\) "wikilink")
+  - [AAA](../Page/AAA_\(音楽グループ\).md "wikilink")（男性メンバーのみ）
+  - [千鳥](../Page/千鳥_\(お笑いコンビ\).md "wikilink")
   - [misono](https://ja.wikipedia.org/wiki/misono "wikilink")
-  - [モンスターエンジン](https://ja.wikipedia.org/wiki/モンスターエンジン "wikilink")
-  - [\!wagero\!](https://ja.wikipedia.org/wiki/!wagero! "wikilink")
+  - [モンスターエンジン](../Page/モンスターエンジン.md "wikilink")
+  - [\!wagero\!](../Page/!wagero!.md "wikilink")
 
 ### 第13回（2008年7月27日放送）
 
   - MC:サバンナ
   - [RSP](../Page/RSP_\(音楽グループ\).md "wikilink")
-  - [Kanade](https://ja.wikipedia.org/wiki/Kanade "wikilink")
+  - [Kanade](../Page/Kanade.md "wikilink")
   - ガガガSP
-  - [鎌鼬](https://ja.wikipedia.org/wiki/かまいたち_\(お笑いコンビ\) "wikilink")
+  - [鎌鼬](../Page/かまいたち_\(お笑いコンビ\).md "wikilink")
   - [キッサコ](https://ja.wikipedia.org/wiki/キッサコ "wikilink")
-  - [矢野・兵動](https://ja.wikipedia.org/wiki/矢野・兵動 "wikilink")
+  - [矢野・兵動](../Page/矢野・兵動.md "wikilink")
 
 ### 第14回（2008年9月28日放送）
 
   - MC:ブラックマヨネーズ
   - アジアン
-  - [中孝介](https://ja.wikipedia.org/wiki/中孝介 "wikilink")
+  - [中孝介](../Page/中孝介.md "wikilink")
   - [Emi Maria](https://ja.wikipedia.org/wiki/Emi_Maria "wikilink")
   - [大脇里村ゼミナール](../Page/大脇里村ゼミナール.md "wikilink")
   - 谷村奈南
@@ -172,7 +172,7 @@
 
 ### 第16回（2008年11月23日放送）
 
-  - MC:[ザ・プラン9](https://ja.wikipedia.org/wiki/ザ・プラン9 "wikilink")
+  - MC:[ザ・プラン9](../Page/ザ・プラン9.md "wikilink")
   - ET-KING
   - w-inds.
   - ギャロップ
@@ -185,15 +185,15 @@
 
   - MC:フットボールアワー
   - [相川七瀬](https://ja.wikipedia.org/wiki/相川七瀬 "wikilink")
-  - [ARIA](https://ja.wikipedia.org/wiki/ARIA_\(歌手\) "wikilink")
+  - [ARIA](../Page/ARIA_\(歌手\).md "wikilink")
   - ギャロップ
-  - [中村あゆみ](https://ja.wikipedia.org/wiki/中村あゆみ "wikilink")
+  - [中村あゆみ](../Page/中村あゆみ.md "wikilink")
   - 藤崎マーケット
   - [MAX](https://ja.wikipedia.org/wiki/MAX_\(音楽グループ\) "wikilink")
 
 ### 第18回（2009年2月22日放送）
 
-  - MC:笑い飯（[西田幸治](https://ja.wikipedia.org/wiki/西田幸治 "wikilink")・[哲夫](https://ja.wikipedia.org/wiki/中西哲夫 "wikilink")）
+  - MC:笑い飯（[西田幸治](../Page/西田幸治.md "wikilink")・[哲夫](../Page/中西哲夫.md "wikilink")）
   - Acid Black Cherry
   - abingdon boys school
   - [UNCHAIN](../Page/UNCHAIN.md "wikilink")
@@ -204,11 +204,11 @@
 
 ### 第19回（2009年3月22日放送）
 
-  - MC:[バッファロー吾郎](../Page/バッファロー吾郎.md "wikilink")（[竹若元博](https://ja.wikipedia.org/wiki/竹若元博 "wikilink")・[木村明浩](https://ja.wikipedia.org/wiki/バッファロー吾郎A "wikilink")）
+  - MC:[バッファロー吾郎](../Page/バッファロー吾郎.md "wikilink")（[竹若元博](../Page/竹若元博.md "wikilink")・[木村明浩](../Page/バッファロー吾郎A.md "wikilink")）
   - 愛内里菜
   - アンダーグラフ
-  - [木山裕策](https://ja.wikipedia.org/wiki/木山裕策 "wikilink")
-  - [2丁拳銃](https://ja.wikipedia.org/wiki/2丁拳銃 "wikilink")
+  - [木山裕策](../Page/木山裕策.md "wikilink")
+  - [2丁拳銃](../Page/2丁拳銃.md "wikilink")
   - [福井舞](https://ja.wikipedia.org/wiki/ふくい舞 "wikilink")
   - 茉奈 佳奈
   - [野性爆弾](https://ja.wikipedia.org/wiki/野性爆弾 "wikilink")
@@ -221,46 +221,46 @@
   - オレスカバンド
   - ギャロップ
   - [THE冠](https://ja.wikipedia.org/wiki/THE冠 "wikilink")
-  - [スーパーマラドーナ](https://ja.wikipedia.org/wiki/スーパーマラドーナ "wikilink")
-  - [セカイイチ](https://ja.wikipedia.org/wiki/セカイイチ "wikilink")
+  - [スーパーマラドーナ](../Page/スーパーマラドーナ.md "wikilink")
+  - [セカイイチ](../Page/セカイイチ.md "wikilink")
 
 ### 第21回（2009年5月24日放送）
 
-  - MC:[なだぎ武](https://ja.wikipedia.org/wiki/なだぎ武 "wikilink")（ザ・プラン9）、[ヤナギブソン](https://ja.wikipedia.org/wiki/ヤナギブソン "wikilink")（ザ・プラン9）
+  - MC:[なだぎ武](../Page/なだぎ武.md "wikilink")（ザ・プラン9）、[ヤナギブソン](../Page/ヤナギブソン.md "wikilink")（ザ・プラン9）
   - abingdon boys school
   - w-inds.
   - ガガガSP
-  - [かまいたち](https://ja.wikipedia.org/wiki/かまいたち_\(お笑いコンビ\) "wikilink")
-  - [筋肉少女帯](https://ja.wikipedia.org/wiki/筋肉少女帯 "wikilink")
+  - [かまいたち](../Page/かまいたち_\(お笑いコンビ\).md "wikilink")
+  - [筋肉少女帯](../Page/筋肉少女帯.md "wikilink")
   - [クロスバー直撃](https://ja.wikipedia.org/wiki/クロスバー直撃 "wikilink")
 
 ### 第22回（2009年6月28日放送）
 
   - MC:バッファロー吾郎
-  - [阪井あゆみ](https://ja.wikipedia.org/wiki/阪井あゆみ "wikilink")
+  - [阪井あゆみ](../Page/阪井あゆみ.md "wikilink")
   - [シャンプーハット](https://ja.wikipedia.org/wiki/シャンプーハット_\(お笑いコンビ\) "wikilink")
   - SCANDAL
-  - [天竺鼠](https://ja.wikipedia.org/wiki/天竺鼠 "wikilink")
+  - [天竺鼠](../Page/天竺鼠.md "wikilink")
   - [西野カナ](https://ja.wikipedia.org/wiki/西野カナ "wikilink")
   - [BENI](https://ja.wikipedia.org/wiki/BENI "wikilink")
   - RAG FAIR
 
 ### 第23回（2009年7月26日放送）
 
-  - MC:[FUJIWARA](../Page/FUJIWARA.md "wikilink")（[藤本敏史](https://ja.wikipedia.org/wiki/藤本敏史 "wikilink")・[原西孝幸](../Page/原西孝幸.md "wikilink")）
+  - MC:[FUJIWARA](../Page/FUJIWARA.md "wikilink")（[藤本敏史](../Page/藤本敏史.md "wikilink")・[原西孝幸](../Page/原西孝幸.md "wikilink")）
   - ET-KING
   - [ジェイムス](https://ja.wikipedia.org/wiki/ジェイムス "wikilink")
-  - [ジャンクション](https://ja.wikipedia.org/wiki/ファミリーレストラン_\(お笑いコンビ\) "wikilink")
-  - [DA PUMP](https://ja.wikipedia.org/wiki/DA_PUMP "wikilink")
+  - [ジャンクション](../Page/ファミリーレストラン_\(お笑いコンビ\).md "wikilink")
+  - [DA PUMP](../Page/DA_PUMP.md "wikilink")
   - [BRIGHT](https://ja.wikipedia.org/wiki/BRIGHT_\(ダンスボーカルグループ\) "wikilink")
   - mihimaru GT
 
 #### コーナー出演
 
   - [代走みつくに](../Page/代走みつくに.md "wikilink")
-  - [テント](https://ja.wikipedia.org/wiki/テント_\(漫談家\) "wikilink")
+  - [テント](../Page/テント_\(漫談家\).md "wikilink")
   - [ぬまっち](https://ja.wikipedia.org/wiki/ぬまっち_\(お笑い芸人\) "wikilink")
-  - [ビタミンS](https://ja.wikipedia.org/wiki/ビタミンS "wikilink")
+  - [ビタミンS](../Page/ビタミンS.md "wikilink")
   - [三浦マイルド](https://ja.wikipedia.org/wiki/三浦マイルド "wikilink")
 
 ### 第24回（2009年8月30日放送）
@@ -271,7 +271,7 @@
   - [STEEL PANTHER](https://ja.wikipedia.org/wiki/STEEL_PANTHER "wikilink")
   - プラスマイナス
   - [モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")
-  - [Lead](https://ja.wikipedia.org/wiki/Lead "wikilink")
+  - [Lead](../Page/Lead.md "wikilink")
   - 笑い飯
 
 ### 第25回（2009年9月27日放送）
@@ -281,15 +281,15 @@
   - ET-KING
   - ギャロップ
   - [℃-ute](https://ja.wikipedia.org/wiki/℃-ute "wikilink")
-  - [JAY'ED](https://ja.wikipedia.org/wiki/JAY'ED "wikilink")
-  - [スムルース](https://ja.wikipedia.org/wiki/スムルース "wikilink")
+  - [JAY'ED](../Page/JAY'ED.md "wikilink")
+  - [スムルース](../Page/スムルース.md "wikilink")
 
 ### 第26回（2009年10月25日放送）
 
   - MC:なだぎ武（ザ・プラン9）、[浅越ゴエ](../Page/浅越ゴエ.md "wikilink")（ザ・プラン9）
   - ゴスペラーズ
   - [GAG少年楽団](https://ja.wikipedia.org/wiki/GAG少年楽団 "wikilink")
-  - [Chicago Poodle](https://ja.wikipedia.org/wiki/Chicago_Poodle "wikilink")
+  - [Chicago Poodle](../Page/Chicago_Poodle.md "wikilink")
   - 西野カナ
   - [BES](https://ja.wikipedia.org/wiki/BES_\(歌手\) "wikilink")
   - モンスターエンジン
@@ -299,30 +299,30 @@
   - abingdon boys school
   - [175R](../Page/175R.md "wikilink")
   - [UVERworld](../Page/UVERworld.md "wikilink")
-  - [SEAMO](https://ja.wikipedia.org/wiki/SEAMO "wikilink")
+  - [SEAMO](../Page/SEAMO.md "wikilink")
   - [世界のナベアツ](../Page/桂三度.md "wikilink")
   - T.M.Revolution
   - [tetsu](https://ja.wikipedia.org/wiki/tetsuya "wikilink")（[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")）
-  - [BUCK-TICK](https://ja.wikipedia.org/wiki/BUCK-TICK "wikilink")
-  - [風味堂](https://ja.wikipedia.org/wiki/風味堂 "wikilink")
+  - [BUCK-TICK](../Page/BUCK-TICK.md "wikilink")
+  - [風味堂](../Page/風味堂.md "wikilink")
   - [HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")
-  - [八木真澄](https://ja.wikipedia.org/wiki/八木真澄 "wikilink")（サバンナ）
-  - [ライセンス](https://ja.wikipedia.org/wiki/ライセンス_\(お笑いコンビ\) "wikilink")
+  - [八木真澄](../Page/八木真澄.md "wikilink")（サバンナ）
+  - [ライセンス](../Page/ライセンス_\(お笑いコンビ\).md "wikilink")
   - [LINDBERG](../Page/LINDBERG.md "wikilink")
 
 ### 第28回（2010年1月31日放送）
 
   - MC:フットボールアワー
-  - [エレクトリック・イール・ショック](https://ja.wikipedia.org/wiki/Electric_Eel_Shock "wikilink")
+  - [エレクトリック・イール・ショック](../Page/Electric_Eel_Shock.md "wikilink")
   - [GIRL NEXT DOOR](https://ja.wikipedia.org/wiki/GIRL_NEXT_DOOR "wikilink")
   - [Juliet](https://ja.wikipedia.org/wiki/Juliet_\(音楽ユニット\) "wikilink")
   - [新選組リアン](https://ja.wikipedia.org/wiki/新選組リアン "wikilink")
   - SCANDAL
-  - [sonomi](https://ja.wikipedia.org/wiki/SONOMI_\(歌手\) "wikilink")
+  - [sonomi](../Page/SONOMI_\(歌手\).md "wikilink")
   - [フレディー](https://ja.wikipedia.org/wiki/フレディー "wikilink")
   - モンスターエンジン
   - [いがわゆり蚊](../Page/いがわゆり蚊.md "wikilink")
-  - [今別府直之](https://ja.wikipedia.org/wiki/今別府直之 "wikilink")
+  - [今別府直之](../Page/今別府直之.md "wikilink")
   - クロスバー直撃
   - [極悪連合](https://ja.wikipedia.org/wiki/モストデンジャラストリオ "wikilink")
   - 代走みつくに
@@ -334,11 +334,11 @@
   - MC：フットボールアワー
   - ギャロップ
   - 極悪連合
-  - [サンボマスター](https://ja.wikipedia.org/wiki/サンボマスター "wikilink")
+  - [サンボマスター](../Page/サンボマスター.md "wikilink")
   - AAA
   - [BAKI](https://ja.wikipedia.org/wiki/BAKI "wikilink")
   - [初音](https://ja.wikipedia.org/wiki/初音_\(歌手\) "wikilink")
-  - [フラワーカンパニーズ](https://ja.wikipedia.org/wiki/フラワーカンパニーズ "wikilink")
+  - [フラワーカンパニーズ](../Page/フラワーカンパニーズ.md "wikilink")
 
 ### 第30回（2010年4月23日放送）
 
@@ -366,7 +366,7 @@
   - MC:フットボールアワー
   - GIRL NEXT DOOR
   - [さかいゆう](https://ja.wikipedia.org/wiki/さかいゆう "wikilink")
-  - [ザ\!\!トラベラーズplus](https://ja.wikipedia.org/wiki/地元応援バラエティ_このへん!!トラベラー#ザ!!トラベラーズ "wikilink")（[トータルテンボス](https://ja.wikipedia.org/wiki/トータルテンボス "wikilink")、[オリエンタルラジオ](https://ja.wikipedia.org/wiki/オリエンタルラジオ "wikilink")）
+  - [ザ\!\!トラベラーズplus](https://ja.wikipedia.org/wiki/地元応援バラエティ_このへん!!トラベラー#ザ!!トラベラーズ "wikilink")（[トータルテンボス](../Page/トータルテンボス.md "wikilink")、[オリエンタルラジオ](../Page/オリエンタルラジオ.md "wikilink")）
   - [ステレオポニー](https://ja.wikipedia.org/wiki/ステレオポニー "wikilink")
   - セカイイチ
   - 中山功太
@@ -374,8 +374,8 @@
 
 ### 第33回（2010年7月30日放送）
 
-  - MC:[キングコング](../Page/キングコング_\(お笑いコンビ\).md "wikilink")（[西野亮廣](https://ja.wikipedia.org/wiki/西野亮廣 "wikilink")・[梶原雄太](https://ja.wikipedia.org/wiki/梶原雄太 "wikilink")）
-  - [AZU](https://ja.wikipedia.org/wiki/AZU "wikilink")
+  - MC:[キングコング](../Page/キングコング_\(お笑いコンビ\).md "wikilink")（[西野亮廣](../Page/西野亮廣.md "wikilink")・[梶原雄太](../Page/梶原雄太.md "wikilink")）
+  - [AZU](../Page/AZU.md "wikilink")
   - [UNCHAIN](../Page/UNCHAIN.md "wikilink")
   - [SKE48](https://ja.wikipedia.org/wiki/SKE48 "wikilink")
   - T.M.Revolution
@@ -387,13 +387,13 @@
   - THE 冠
   - [スマイレージ](https://ja.wikipedia.org/wiki/アンジュルム "wikilink")
   - [SEX MACHINEGUNS](../Page/SEX_MACHINEGUNS.md "wikilink")
-  - [ダイノジ](https://ja.wikipedia.org/wiki/ダイノジ "wikilink")
+  - [ダイノジ](../Page/ダイノジ.md "wikilink")
   - [秦基博](https://ja.wikipedia.org/wiki/秦基博 "wikilink")
-  - [マーティ・フリードマン](https://ja.wikipedia.org/wiki/マーティ・フリードマン "wikilink")
+  - [マーティ・フリードマン](../Page/マーティ・フリードマン.md "wikilink")
   - ヤナギブソン
 
 ## 関連項目
 
-  - [ザ少年倶楽部](https://ja.wikipedia.org/wiki/ザ少年倶楽部 "wikilink") - かつてサンデーヤングミュージック枠で放送されていた音楽バラエティ番組。第1 - 3週日曜で放送されていた。
+  - [ザ少年倶楽部](../Page/ザ少年倶楽部.md "wikilink") - かつてサンデーヤングミュージック枠で放送されていた音楽バラエティ番組。第1 - 3週日曜で放送されていた。
 
 [Category:NHK_BS2の番組](https://ja.wikipedia.org/wiki/Category:NHK_BS2の番組 "wikilink") [Category:NHK_BSのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK_BSのバラエティ番組の歴史 "wikilink") [Category:NHK_BSの音楽番組](https://ja.wikipedia.org/wiki/Category:NHK_BSの音楽番組 "wikilink") [Category:テレビの演芸番組](https://ja.wikipedia.org/wiki/Category:テレビの演芸番組 "wikilink") [Category:吉本興業の番組](https://ja.wikipedia.org/wiki/Category:吉本興業の番組 "wikilink") [Category:2007年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のテレビ番組_\(日本\) "wikilink") [Category:NHK大阪](https://ja.wikipedia.org/wiki/Category:NHK大阪 "wikilink")

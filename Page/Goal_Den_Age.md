@@ -1,7 +1,7 @@
 > この記事は[Goal Den Age](https://ja.wikipedia.org/wiki/Goal_Den_Age)から翻訳されています。
 
 
-『**Goal Den Age**』（ゴールデンエイジ）は、『[マガジンSPECIAL](https://ja.wikipedia.org/wiki/マガジンSPECIAL "wikilink")』に連載されていた[サッカー漫画](https://ja.wikipedia.org/wiki/スポーツ漫画#サッカー漫画 "wikilink")。原作[綱本将也](https://ja.wikipedia.org/wiki/綱本将也 "wikilink")・作画[高岡永生](https://ja.wikipedia.org/wiki/高岡永生 "wikilink")。全3巻。
+『**Goal Den Age**』（ゴールデンエイジ）は、『[マガジンSPECIAL](../Page/マガジンSPECIAL.md "wikilink")』に連載されていた[サッカー漫画](https://ja.wikipedia.org/wiki/スポーツ漫画#サッカー漫画 "wikilink")。原作[綱本将也](../Page/綱本将也.md "wikilink")・作画[高岡永生](https://ja.wikipedia.org/wiki/高岡永生 "wikilink")。全3巻。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 ## あらすじ
 
-主人公藤山は[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")は引き分けでは意味はない！必ず得点を決めて勝利する！というどこまでに前進をするタイプの超攻撃FW。しかし高校入学後一度も勝利はなかった。そこへ全日本U-16の[スカウトが藤山の元に来る](https://ja.wikipedia.org/wiki/スカウト_\(勧誘\) "wikilink")。実情は全ユースのただの噛ませ犬でしかない寄せ集めのチームであった。しかし監督の思惑はただのかませ犬ではなく正代表に取って代わろうとするものだった…
+主人公藤山は[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")は引き分けでは意味はない！必ず得点を決めて勝利する！というどこまでに前進をするタイプの超攻撃FW。しかし高校入学後一度も勝利はなかった。そこへ全日本U-16の[スカウトが藤山の元に来る](../Page/スカウト_\(勧誘\).md "wikilink")。実情は全ユースのただの噛ませ犬でしかない寄せ集めのチームであった。しかし監督の思惑はただのかませ犬ではなく正代表に取って代わろうとするものだった…
 
 ## 登場人物
 
@@ -17,7 +17,7 @@
 
   - 藤山 和哉（ふじやま かずや）
     背番号9 FW 1989年8月19日生まれ 176cm 63kg 右利き
-    恵海高校 → 協会選抜 → U16代表 → [FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink") → [ラシン・サンタンデール](https://ja.wikipedia.org/wiki/ラシン・サンタンデール "wikilink") → 五輪代表
+    恵海高校 → 協会選抜 → U16代表 → [FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink") → [ラシン・サンタンデール](../Page/ラシン・サンタンデール.md "wikilink") → 五輪代表
     この漫画の主人公。獣のように貪欲にゴールを目指す典型的なFW、得意技は消えるオフ・ザ・ボールの動き。
     ちなみにモデルになった選手は[ヴィッセル神戸](../Page/ヴィッセル神戸.md "wikilink")の[大久保嘉人](../Page/大久保嘉人.md "wikilink")。
   - 宝生 ひな
@@ -28,7 +28,7 @@
   - 大宮 司
     背番号5 CB
     協会選抜 → U16代表 → 大学（名前は不明） → 五輪代表コーチ
-    広い視野と的確な指示をする理想的なキャプテンシーを持つ、フィジカルが弱くプロの誘いを断り大学に進むと同時に[コーチ](https://ja.wikipedia.org/wiki/コーチ "wikilink")への道を歩む。ひなのことを思っているがその面で如月に対抗心を燃やす。
+    広い視野と的確な指示をする理想的なキャプテンシーを持つ、フィジカルが弱くプロの誘いを断り大学に進むと同時に[コーチ](../Page/コーチ.md "wikilink")への道を歩む。ひなのことを思っているがその面で如月に対抗心を燃やす。
     家庭では弟思いで弟の名は勇二、幸三、史郎、大悟おそらく五人兄弟。
   - 陣野
     背番号10 トップ下
@@ -96,9 +96,9 @@
 
 ## 書誌情報
 
-  - [綱本将也](https://ja.wikipedia.org/wiki/綱本将也 "wikilink")・[高岡永生](https://ja.wikipedia.org/wiki/高岡永生 "wikilink")『Goal Den Age』講談社〈講談社コミックス（少年マガジンコミックス）〉
-    1.  [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink")発売、ISBN 4-06-363688-7
+  - [綱本将也](../Page/綱本将也.md "wikilink")・[高岡永生](https://ja.wikipedia.org/wiki/高岡永生 "wikilink")『Goal Den Age』講談社〈講談社コミックス（少年マガジンコミックス）〉
+    1.  [2006年](../Page/2006年.md "wikilink")[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink")発売、ISBN 4-06-363688-7
     2.  2006年[9月15日](../Page/9月15日.md "wikilink")発売、ISBN 4-06-363726-3
-    3.  [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[2月16日](../Page/2月16日.md "wikilink")発売、ISBN 4-06-363797-2
+    3.  [2007年](../Page/2007年.md "wikilink")[2月16日](../Page/2月16日.md "wikilink")発売、ISBN 4-06-363797-2
 
 [Category:漫画作品_こ](https://ja.wikipedia.org/wiki/Category:漫画作品_こ "wikilink") [Category:サッカー漫画](https://ja.wikipedia.org/wiki/Category:サッカー漫画 "wikilink") [Category:マガジンSPECIAL](https://ja.wikipedia.org/wiki/Category:マガジンSPECIAL "wikilink")

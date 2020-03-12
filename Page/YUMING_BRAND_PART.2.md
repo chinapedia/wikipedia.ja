@@ -1,7 +1,7 @@
 > この記事は[YUMING BRAND PART.2](https://ja.wikipedia.org/wiki/YUMING_BRAND_PART.2)から翻訳されています。
 
 
-『**YUMING BRAND PART.2**』（ユーミン・ブランド・パート・ツー）は、[1979年](../Page/1979年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")に発売された[荒井由実の編集盤である](../Page/松任谷由実.md "wikilink")。[1976年](../Page/1976年.md "wikilink")にリリースされたベスト盤『[YUMING BRAND](https://ja.wikipedia.org/wiki/YUMING_BRAND "wikilink")』の続編ということになっているが、[アルファレコード](https://ja.wikipedia.org/wiki/アルファレコード "wikilink")によってアーティストの意思とは関係なく発売された類のアルバム（非公式ベスト・アルバム）であるため、[EMIミュージック・ジャパン](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")内の彼女の公式ウェブサイトの[ディスコグラフィー](https://ja.wikipedia.org/wiki/ディスコグラフィー "wikilink")には掲載されていない。
+『**YUMING BRAND PART.2**』（ユーミン・ブランド・パート・ツー）は、[1979年](../Page/1979年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")に発売された[荒井由実の編集盤である](../Page/松任谷由実.md "wikilink")。[1976年](../Page/1976年.md "wikilink")にリリースされたベスト盤『[YUMING BRAND](../Page/YUMING_BRAND.md "wikilink")』の続編ということになっているが、[アルファレコード](../Page/アルファレコード.md "wikilink")によってアーティストの意思とは関係なく発売された類のアルバム（非公式ベスト・アルバム）であるため、[EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink")内の彼女の公式ウェブサイトの[ディスコグラフィー](https://ja.wikipedia.org/wiki/ディスコグラフィー "wikilink")には掲載されていない。
 
 アルファレコードの[レコード](../Page/レコード.md "wikilink")・[CD制作撤退に伴い](../Page/CD-DA.md "wikilink")、現在は廃盤である。
 
@@ -52,6 +52,6 @@
 <!-- end list -->
 
   - 作詞・作曲：荒井由実
-  - 編曲：[松任谷正隆](https://ja.wikipedia.org/wiki/松任谷正隆 "wikilink")(except track A-6,B-6)、荒井由実&キャラメル・ママ(track A-6,B-6)
+  - 編曲：[松任谷正隆](../Page/松任谷正隆.md "wikilink")(except track A-6,B-6)、荒井由実&キャラメル・ママ(track A-6,B-6)
 
 [Category:Yumingのベスト・アルバム](https://ja.wikipedia.org/wiki/Category:Yumingのベスト・アルバム "wikilink") [Category:1979年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:1979年のベスト・アルバム "wikilink")

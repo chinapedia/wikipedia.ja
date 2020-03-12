@@ -1,13 +1,13 @@
 > この記事は[ELEVEN \(\)](https://ja.wikipedia.org/wiki/ELEVEN_\(\))から翻訳されています。
 
 
-『**ELEVEN**』(イレヴン)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")・[B'z](../Page/B'z.md "wikilink")の11作目の[オリジナル・アルバムである](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。[2000年](../Page/2000年.md "wikilink")[12月6日](../Page/12月6日.md "wikilink")に[Rooms RECORDSよりリリース](https://ja.wikipedia.org/wiki/VERMILLION_RECORDS "wikilink")。
+『**ELEVEN**』(イレヴン)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の11作目の[オリジナル・アルバムである](../Page/スタジオ・アルバム.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[12月6日](../Page/12月6日.md "wikilink")に[Rooms RECORDSよりリリース](../Page/VERMILLION_RECORDS.md "wikilink")。
 
 ## 概要
 
 1999年リリースの前作『[Brotherhood](../Page/Brotherhood_\(B'zのアルバム\).md "wikilink")』から1年5か月ぶりとなるオリジナルアルバム。2000年にリリースされたシングル4曲（バージョン違いも含む）を含めた14曲を収録している。初回特典には、B'zの2001年度カレンダーが付属していた\[1\]\[2\]。
 
-ジャケットデザインは、女性が[馬に乗って競馬のレースで独走している様子のイラストになっており](https://ja.wikipedia.org/wiki/競走馬 "wikilink")、オリジナル・アルバムとしては『[The 7th Blues](../Page/The_7th_Blues.md "wikilink")』以来メンバーが登場していないデザイン\[3\]。このイラストのモデルとなったのは1994年の[ジャパンカップ](https://ja.wikipedia.org/wiki/ジャパンカップ "wikilink")で、そのレースで[マーベラスクラウン](https://ja.wikipedia.org/wiki/マーベラスクラウン "wikilink")が優勝した瞬間の写真を加工して使用している。その他、歌詞カードにはB'zのメンバーが馬に乗っている写真などが使用されており、デザイナーの「独走しているB'zを表現したい」というアイデアによって、全体的に競走馬をテーマにした仕様となっている\[4\]。
+ジャケットデザインは、女性が[馬に乗って競馬のレースで独走している様子のイラストになっており](https://ja.wikipedia.org/wiki/競走馬 "wikilink")、オリジナル・アルバムとしては『[The 7th Blues](../Page/The_7th_Blues.md "wikilink")』以来メンバーが登場していないデザイン\[3\]。このイラストのモデルとなったのは1994年の[ジャパンカップ](https://ja.wikipedia.org/wiki/ジャパンカップ "wikilink")で、そのレースで[マーベラスクラウン](../Page/マーベラスクラウン.md "wikilink")が優勝した瞬間の写真を加工して使用している。その他、歌詞カードにはB'zのメンバーが馬に乗っている写真などが使用されており、デザイナーの「独走しているB'zを表現したい」というアイデアによって、全体的に競走馬をテーマにした仕様となっている\[4\]。
 
 アルバムタイトル『**ELEVEN**』はコンセプトやテーマが全くなかったため、このアルバムが「11枚目のオリジナルアルバム」だったことから付けられた\[5\]。
 
@@ -36,20 +36,20 @@
 1.  <span style="border: 1px solid; font-weight: bold; font-family: serif;"> I </span> (0:24)
       -
         曲名表記は<span style="border: 1px solid; font-weight: bold; font-family: serif;">   </span>（四角）の中に「<span style="font-weight: bold; font-family: serif;">I</span>」の文字が入った記号。松本によると、このマークは譜面を書くときに使うリハーサル・マークとのことで、「<span style="font-weight: bold; font-family: serif;">I</span>」は、「イントロ」あるいは「イントロダクション」の頭文字を意味している。
-        [打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")で作られた約24秒の[インストゥルメンタルで](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")、今まで発表されたB'zの楽曲の中で最も演奏時間が短い。歌詞カードに歌詞は一切記載されていないが、何度か「B'z ELEVEN」というコーラスが重ねられている。曲順を決める際、頭に何か欲しいということで急遽制作された。曲の終了と同時に次の曲へと繋ぐ。
-        [稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")が床から這い出てくる[ミュージックビデオも制作されている](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。
+        [打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")で作られた約24秒の[インストゥルメンタルで](../Page/器楽曲.md "wikilink")、今まで発表されたB'zの楽曲の中で最も演奏時間が短い。歌詞カードに歌詞は一切記載されていないが、何度か「B'z ELEVEN」というコーラスが重ねられている。曲順を決める際、頭に何か欲しいということで急遽制作された。曲の終了と同時に次の曲へと繋ぐ。
+        [稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")が床から這い出てくる[ミュージックビデオも制作されている](../Page/ミュージック・ビデオ.md "wikilink")。
         翌年に行われたアルバムツアー『[B'z LIVE-GYM 2001 "ELEVEN"](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_2001_-ELEVEN- "wikilink")』では、[佐世保](https://ja.wikipedia.org/wiki/佐世保 "wikilink")公演からロングバージョンでオープニング[SE](../Page/SE.md "wikilink")に使用された。
 2.  **Seventh Heaven** (4:10)
       -
         ジム・シャンパンとの共同作業で制作された曲。『ELEVEN』にはアルバムタイトル曲（表題曲）が存在しない中で、本アルバムの代表曲という位置付けになっている\[10\]。
         アルバム制作過程の16曲目に制作された曲で、「juice」と同時期に制作された\[11\]。元々は[ホーンのないファンキーな雰囲気の曲だった](../Page/管楽器.md "wikilink")。
-        [ベースは](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")「[FIREBALL](../Page/FIREBALL_\(B'zの曲\).md "wikilink")」以来、松本が演奏している\[12\]。松本によると、メインとなるギターのリフが跳ねているビートだったという事で、ベース担当に雰囲気を伝えて演奏してもらうよりも、自分がベースを弾いたほうがノリが合うと思ったためとのこと。「FIREBALL」の時は借り物のベースを使用していたが、今回は後輩から譲ってもらったという松本の私物のベースで演奏している\[13\]。
+        [ベースは](../Page/ベース_\(弦楽器\).md "wikilink")「[FIREBALL](../Page/FIREBALL_\(B'zの曲\).md "wikilink")」以来、松本が演奏している\[12\]。松本によると、メインとなるギターのリフが跳ねているビートだったという事で、ベース担当に雰囲気を伝えて演奏してもらうよりも、自分がベースを弾いたほうがノリが合うと思ったためとのこと。「FIREBALL」の時は借り物のベースを使用していたが、今回は後輩から譲ってもらったという松本の私物のベースで演奏している\[13\]。
         曲名は「第7天国」「最上天」という意味の他に「最高の気分」「至福のとき」という意味がある。稲葉によると、タイトルの「Seventh Heaven」は仮歌の段階ですでに存在していて、本歌詞の作成時に日本語で韻を踏むような歌詞にしていったとのこと\[14\]。
         ショートバージョンのミュージックビデオが製作されており、当時放送されていた『[笑う犬の冒険](https://ja.wikipedia.org/wiki/笑う犬の冒険 "wikilink")』のコント「テリーとドリー」の一部をパロディとして取り入れている。
         2000年の『[ミュージックステーションスペシャル スーパーライブ2000](https://ja.wikipedia.org/wiki/ミュージックステーションスーパーライブ#第9回（2000年） "wikilink")』で「今夜月の見える丘に」と共に披露された\[15\]。
 3.  **信じるくらいいいだろう** (3:39)
       -
-        イントロから[サビ](../Page/サビ.md "wikilink")、間奏まで[リフ](https://ja.wikipedia.org/wiki/リフ "wikilink")で構成されている。そのためギター[ソロがないが](../Page/ソロ_\(音楽\).md "wikilink")、意図した事ではなくて自然とそうなった。
+        イントロから[サビ](../Page/サビ.md "wikilink")、間奏まで[リフ](../Page/リフ.md "wikilink")で構成されている。そのためギター[ソロがないが](../Page/ソロ_\(音楽\).md "wikilink")、意図した事ではなくて自然とそうなった。
         普段の松本はメロディから作曲していくスタイルだが、この頃は周りから「リフ魔」と呼ばれるほど、リフから作曲することが多かったという。
         歌詞は稲葉によると「絶望寸前の人間の最後の望み…」。
         アルバムツアーでは序盤の一部会場のみで演奏されていた。
@@ -62,8 +62,8 @@
         翌年のアルバムツアーではオープニングを飾った。
 6.  **煌めく人** (2:57)
       -
-        [ラップ](../Page/ラップ.md "wikilink")を用いた[ミクスチャー・ロック](https://ja.wikipedia.org/wiki/ミクスチャー・ロック "wikilink")を意識した楽曲。
-        L.A.でリフが出来ており、メンバー曰く「[レイジ・アゲインスト・ザ・マシーン](https://ja.wikipedia.org/wiki/レイジ・アゲインスト・ザ・マシーン "wikilink")みたいなのがやりたかった」という。稲葉は「こういうのもやっといたほうが勉強だと思って、松本さんに練習させてもらった曲」と語っている。
+        [ラップ](../Page/ラップ.md "wikilink")を用いた[ミクスチャー・ロック](../Page/ミクスチャー・ロック.md "wikilink")を意識した楽曲。
+        L.A.でリフが出来ており、メンバー曰く「[レイジ・アゲインスト・ザ・マシーン](../Page/レイジ・アゲインスト・ザ・マシーン.md "wikilink")みたいなのがやりたかった」という。稲葉は「こういうのもやっといたほうが勉強だと思って、松本さんに練習させてもらった曲」と語っている。
 7.  **[May](../Page/May_\(B'zの曲\).md "wikilink")** (4:19)
       -
         28thシングル。
@@ -78,7 +78,7 @@
         ロックと[ストリングスを交えた](../Page/弦楽器.md "wikilink")7分32秒に及ぶ[バラード](../Page/バラード.md "wikilink")で、リメイク版を除くB'zのオリジナル楽曲では最も演奏時間が長い\[18\]。
         初めは[ピアノ](../Page/ピアノ.md "wikilink")によるイントロの後、稲葉の[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")と松本の[アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")の伴奏のみで演奏されるが、中盤から他の楽器も参加して激しくなってくる。
         歌詞は外国人プロデューサーの元で何をやってもOKテイクが出ず八方塞がりだった心境が反映されていると稲葉は語っている。
-        この曲のデモ音源が、マストアルバム『[B'z The "Mixture"](../Page/B'z_The_"Mixture".md "wikilink")』に[シークレット・トラックに収録されている](https://ja.wikipedia.org/wiki/隠しトラック "wikilink")(現在は視聴不可)。その際はアコースティック・ギターを用いた全編英語詞によるバージョンだった。
+        この曲のデモ音源が、マストアルバム『[B'z The "Mixture"](../Page/B'z_The_"Mixture".md "wikilink")』に[シークレット・トラックに収録されている](../Page/隠しトラック.md "wikilink")(現在は視聴不可)。その際はアコースティック・ギターを用いた全編英語詞によるバージョンだった。
 10. **TOKYO DEVIL** (3:26)
       -
         パット・リーガンとの共同作業で制作された曲。
@@ -89,7 +89,7 @@
       -
         「信じるくらいいいだろう」同様、リフ先行で作曲が行われた曲。
         メンバー曰く、今回やりたかったことの理想形。
-        間奏の[ブルースハープは稲葉が担当](https://ja.wikipedia.org/wiki/ハーモニカ "wikilink")。松本はこの曲をシングルにしたかったとか。前曲や次曲と曲間がない。
+        間奏の[ブルースハープは稲葉が担当](../Page/ハーモニカ.md "wikilink")。松本はこの曲をシングルにしたかったとか。前曲や次曲と曲間がない。
         翌年に行われた『[B'z SHOWCASE "コブシヲニギレ"](https://ja.wikipedia.org/wiki/LIVE-GYM_#2001年 "wikilink")』のサブタイトルにもなった。
 12. **Thinking of you** (4:30)
       -
@@ -112,11 +112,11 @@
 
 ## 参加ミュージシャン
 
-  - [松本孝弘](../Page/松本孝弘.md "wikilink"):[ギター](../Page/ギター.md "wikilink")、全曲[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")、[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink") (\#2)
-  - [稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink"):[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、全曲[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・編曲、[ブルースハープ](https://ja.wikipedia.org/wiki/ハーモニカ "wikilink") (\#11)
+  - [松本孝弘](../Page/松本孝弘.md "wikilink"):[ギター](../Page/ギター.md "wikilink")、全曲[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")、[ベース](../Page/ベース_\(弦楽器\).md "wikilink") (\#2)
+  - [稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink"):[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、全曲[作詞](../Page/作詞.md "wikilink")・編曲、[ブルースハープ](../Page/ハーモニカ.md "wikilink") (\#11)
   - [大島康祐](../Page/大島こうすけ.md "wikilink"):編曲 (\#7)
   - [池田大介](../Page/池田大介_\(編曲家\).md "wikilink"):ストリングスアレンジ (\#4)、ストリングス&コーラスアレンジ (\#9)
-  - [明石昌夫](https://ja.wikipedia.org/wiki/明石昌夫 "wikilink"):ベース (\#3.6.10.11)
+  - [明石昌夫](../Page/明石昌夫.md "wikilink"):ベース (\#3.6.10.11)
   - バカボン鈴木:ベース (\#7.9)
   - [満園庄太郎](../Page/満園庄太郎.md "wikilink"):ベース (\#13)
   - 中村“キタロー”幸司:ベース (\#4.12.14)
@@ -124,11 +124,11 @@
   - [ブライアン・ティッシー](https://ja.wikipedia.org/wiki/ブライアン・ティッシー "wikilink"):[ドラム](../Page/ドラムセット.md "wikilink") (\#2.5.8)
   - [黒瀬蛙一](../Page/黒瀬蛙一.md "wikilink"):ドラム (\#3.6.10.11.13)
   - [山木秀夫](../Page/山木秀夫.md "wikilink"):ドラム (\#4.9.12.14)
-  - [小野塚晃](../Page/小野塚晃.md "wikilink")(from [DIMENSION](https://ja.wikipedia.org/wiki/DIMENSION "wikilink")):[ピアノ](../Page/ピアノ.md "wikilink")(\#4.7.9.14)
+  - [小野塚晃](../Page/小野塚晃.md "wikilink")(from [DIMENSION](../Page/DIMENSION.md "wikilink")):[ピアノ](../Page/ピアノ.md "wikilink")(\#4.7.9.14)
   - [篠崎Strings](https://ja.wikipedia.org/wiki/篠崎正嗣 "wikilink"):[ストリングス](../Page/弦楽器.md "wikilink")(\#4.9)
   - TAMA MUSIC:[コーラス](https://ja.wikipedia.org/wiki/コーラス "wikilink") (\#9)
   - 畠山“hakkai”勝紀:[チャイニーズゴング](../Page/ゴング.md "wikilink") (\#10)
-  - [徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink"):[クラビネット](../Page/クラビネット.md "wikilink") (\#2)
+  - [徳永暁人](../Page/徳永暁人.md "wikilink"):[クラビネット](../Page/クラビネット.md "wikilink") (\#2)
   - 佐々木史郎([オルケスタ・デ・ラ・ルス](../Page/オルケスタ・デ・ラ・ルス.md "wikilink")):[トランペット](../Page/トランペット.md "wikilink") (\#2)
   - 小林太(オルケスタ・デ・ラ・ルス):トランペット (\#2)
   - [河合わかば](https://ja.wikipedia.org/wiki/河合わかば "wikilink")(オルケスタ・デ・ラ・ルス):[トロンボーン](../Page/トロンボーン.md "wikilink") (\#2)

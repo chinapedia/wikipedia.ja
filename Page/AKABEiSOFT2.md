@@ -1,20 +1,20 @@
 > この記事は[AKABEiSOFT2](https://ja.wikipedia.org/wiki/AKABEiSOFT2)から翻訳されています。
 
 
-**有限会社AKABEiSOFT2**（あかべぇそふとつぅ）は、[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")の製作会社である。[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")[中央区](../Page/中央区_\(福岡市\).md "wikilink")[赤坂に本社を置く](https://ja.wikipedia.org/wiki/赤坂_\(福岡市\) "wikilink")。\[1\]
+**有限会社AKABEiSOFT2**（あかべぇそふとつぅ）は、[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")の製作会社である。[福岡県](../Page/福岡県.md "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")[中央区](../Page/中央区_\(福岡市\).md "wikilink")[赤坂に本社を置く](../Page/赤坂_\(福岡市\).md "wikilink")。\[1\]
 
 ## 概要
 
-前身は[同人誌](../Page/同人誌.md "wikilink")および[同人ソフト](https://ja.wikipedia.org/wiki/同人ソフト "wikilink")サークルの「**AKABEiSOFT**」（あかべぇそふと）であり、同サークルは『[スクールランブル](../Page/スクールランブル.md "wikilink")』のパロディでその名が知られるようになる。[2004年](../Page/2004年.md "wikilink")冬に一次創作物発行を「**AKABEiSOFT**」、[二次創作物](https://ja.wikipedia.org/wiki/二次創作物 "wikilink")発行を「**有葉と愉快な仲間達**」（あるふぁとゆかいななかまたち）に名義分離し、翌[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に前者を法人化し、社名を「有限会社AKABEiSOFT2」、ブランド名を「あかべぇそふとつぅ」とした。これに伴い同人サークルとしての「AKABEiSOFT」は「有葉と愉快な仲間達」に吸収合併され、原画担当スタッフ[有葉](https://ja.wikipedia.org/wiki/有葉 "wikilink")（あるふぁ）の[個人サークルの名義となる](../Page/同人サークル.md "wikilink")。なお、正式発表はされていないが、同人ソフトの開発はあかべぇそふとつぅの発足に伴い事実上終了しており、新規発行は同人誌のみである。社内カンパニーとして株式会社[エフォルダム](https://ja.wikipedia.org/wiki/エフォルダム "wikilink")があったが、2014年4月16日をもって解散した。
+前身は[同人誌](../Page/同人誌.md "wikilink")および[同人ソフト](../Page/同人ソフト.md "wikilink")サークルの「**AKABEiSOFT**」（あかべぇそふと）であり、同サークルは『[スクールランブル](../Page/スクールランブル.md "wikilink")』のパロディでその名が知られるようになる。[2004年](../Page/2004年.md "wikilink")冬に一次創作物発行を「**AKABEiSOFT**」、[二次創作物](https://ja.wikipedia.org/wiki/二次創作物 "wikilink")発行を「**有葉と愉快な仲間達**」（あるふぁとゆかいななかまたち）に名義分離し、翌[2005年](../Page/2005年.md "wikilink")に前者を法人化し、社名を「有限会社AKABEiSOFT2」、ブランド名を「あかべぇそふとつぅ」とした。これに伴い同人サークルとしての「AKABEiSOFT」は「有葉と愉快な仲間達」に吸収合併され、原画担当スタッフ[有葉](https://ja.wikipedia.org/wiki/有葉 "wikilink")（あるふぁ）の[個人サークルの名義となる](../Page/同人サークル.md "wikilink")。なお、正式発表はされていないが、同人ソフトの開発はあかべぇそふとつぅの発足に伴い事実上終了しており、新規発行は同人誌のみである。社内カンパニーとして株式会社[エフォルダム](https://ja.wikipedia.org/wiki/エフォルダム "wikilink")があったが、2014年4月16日をもって解散した。
 
 2019年3月31日に[株式会社グリーンウッド関連ブランドのホームページ等が有限会社AKABEiSOFT](../Page/Light.md "wikilink")2に引き継がれた。\[2\]\[3\]
 
 ## 沿革
 
   - [2000年](../Page/2000年.md "wikilink") - KEY氏を代表とする同人ゲームサークル「AKABEi SOFT」結成。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") - 有限会社AKABEiSOFT2を設立。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月2日](../Page/2月2日.md "wikilink") - 「あかべぇそふとつぅ」サイトオープン。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink") - 社内カンパニーとして株式会社[エフォルダム](https://ja.wikipedia.org/wiki/エフォルダム "wikilink")を設立。
+  - [2005年](../Page/2005年.md "wikilink") - 有限会社AKABEiSOFT2を設立。
+  - [2005年](../Page/2005年.md "wikilink")[2月2日](../Page/2月2日.md "wikilink") - 「あかべぇそふとつぅ」サイトオープン。
+  - [2006年](../Page/2006年.md "wikilink") - 社内カンパニーとして株式会社[エフォルダム](https://ja.wikipedia.org/wiki/エフォルダム "wikilink")を設立。
   - [2007年](../Page/2007年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink") - 「しゃんぐりら」サイトオープン。
   - [2007年](../Page/2007年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink") - 「暁WORKS」サイトオープン。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月19日](../Page/7月19日.md "wikilink") - 「暁WORKS-黒-」サイトオープン。
@@ -28,7 +28,7 @@
   - [2011年](../Page/2011年.md "wikilink")[4月30日](../Page/4月30日.md "wikilink") - 「てぃ〜ぐる」サイトオープン。
   - [2012年](../Page/2012年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink") - あかべぇそふとつぅグループ再編の為、「しゃんぐりら」・「しゃんぐりらすまーと」・「あっぷりけ-妹-」・「暁WORKS-黒-」・「team IT's」・「team it'sみんと」・「shallot」・「スペルマニアックス」をあかべぇそふとすりぃに統廃合。「暁WORKS-響-」が「hibiki」としてリニューアル。
   - [2013年](../Page/2013年.md "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink") - 「Nostalgic Chord」サイトオープンおよび新規立ち上げ\[4\]。
-  - [2014年](../Page/2014年.md "wikilink")[4月16日](https://ja.wikipedia.org/wiki/4月16日 "wikilink") - 「エフォルダムソフト」が解散。
+  - [2014年](../Page/2014年.md "wikilink")[4月16日](../Page/4月16日.md "wikilink") - 「エフォルダムソフト」が解散。
   - [2015年](../Page/2015年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink") - 「エフォルダムソフト」の一部ゲーム（『恋騎士 Purely Kiss』『銃騎士 Cutie Bullet』）の版権を移動保有化
   - [2019年](../Page/2019年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink") - 「Campus」の版権を移動保有化\[5\]
 
@@ -50,7 +50,7 @@
 <!-- end list -->
 
   - 2004年[12月30日](../Page/12月30日.md "wikilink") - SCHOOL×SCHOOL
-      - 『[スクールランブル](../Page/スクールランブル.md "wikilink")』の18禁パロディアドベンチャーゲーム。[コミックマーケット](../Page/コミックマーケット.md "wikilink")67で先行発売、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月20日](../Page/1月20日.md "wikilink")一部書店に委託販売。
+      - 『[スクールランブル](../Page/スクールランブル.md "wikilink")』の18禁パロディアドベンチャーゲーム。[コミックマーケット](../Page/コミックマーケット.md "wikilink")67で先行発売、[2005年](../Page/2005年.md "wikilink")[1月20日](../Page/1月20日.md "wikilink")一部書店に委託販売。
 
 <!-- end list -->
 
@@ -58,7 +58,7 @@
 
 <!-- end list -->
 
-  - 2005年[1月21日](../Page/1月21日.md "wikilink") - [A profile](https://ja.wikipedia.org/wiki/その横顔を見つめてしまう〜A_Profile_完全版〜 "wikilink")（ア・プロフィール）
+  - 2005年[1月21日](../Page/1月21日.md "wikilink") - [A profile](../Page/その横顔を見つめてしまう〜A_Profile_完全版〜.md "wikilink")（ア・プロフィール）
 
 <!-- end list -->
 
@@ -80,8 +80,8 @@
   - 2005年[5月27日](../Page/5月27日.md "wikilink") - [魂響〜たまゆら〜](../Page/魂響〜たまゆら〜.md "wikilink")
   - 2005年[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink") - 魂響〜陵辱side〜
   - 2005年[11月25日](../Page/11月25日.md "wikilink") - [車輪の国、向日葵の少女](../Page/車輪の国、向日葵の少女.md "wikilink")
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月24日](../Page/3月24日.md "wikilink") - [その横顔を見つめてしまう〜A Profile 完全版〜](https://ja.wikipedia.org/wiki/その横顔を見つめてしまう〜A_Profile_完全版〜 "wikilink")
-  - 2006年[9月29日](../Page/9月29日.md "wikilink") - [こんな娘がいたら僕はもう…\!\!](https://ja.wikipedia.org/wiki/こんな娘がいたら僕はもう…!! "wikilink")
+  - [2006年](../Page/2006年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink") - [その横顔を見つめてしまう〜A Profile 完全版〜](../Page/その横顔を見つめてしまう〜A_Profile_完全版〜.md "wikilink")
+  - 2006年[9月29日](../Page/9月29日.md "wikilink") - [こんな娘がいたら僕はもう…\!\!](../Page/こんな娘がいたら僕はもう…!!.md "wikilink")
   - [2007年](../Page/2007年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink") - [車輪の国、悠久の少年少女](../Page/車輪の国、悠久の少年少女.md "wikilink")
   - 2007年[7月26日](../Page/7月26日.md "wikilink") - [魂響〜円環の絆〜](../Page/魂響〜たまゆら〜.md "wikilink")
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月31日](../Page/1月31日.md "wikilink") - あかべぇそふとつぅデスクトップアクセサリー集『[赤箱](https://ja.wikipedia.org/wiki/赤箱 "wikilink")』
@@ -284,7 +284,7 @@
 <!-- end list -->
 
   - 2007年[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink") - THE BEST GAME VOCALS OF あかべぇそふとつぅ
-      - [Five Recordsより発売のボーカルコレクション](https://ja.wikipedia.org/wiki/5pb. "wikilink")。オフィシャルサイトでの告知は行っていない。
+      - [Five Recordsより発売のボーカルコレクション](../Page/5pb..md "wikilink")。オフィシャルサイトでの告知は行っていない。
   - 2008年[8月15日](../Page/8月15日.md "wikilink") - G線上の魔王CHARACTER SONG CD 宇佐美ハル
       - [ArielWave](https://ja.wikipedia.org/wiki/ArielWave "wikilink")より発売のキャラクターソング。
   - 2009年[4月24日](../Page/4月24日.md "wikilink") - G線上の魔王オリジナルサウンドコレクション
@@ -309,7 +309,7 @@
 ## Webラジオ
 
   - 橘まおと花澤さくらのあかべぇらじお
-    [橘まお](https://ja.wikipedia.org/wiki/橘まお "wikilink")と[花澤さくら](https://ja.wikipedia.org/wiki/花澤さくら "wikilink")がパーソナリティを務める情報バラエティラジオ番組\[12\]。2017年7月14日から2018年6月22日まで[音泉](https://ja.wikipedia.org/wiki/音泉 "wikilink")にて配信された。毎週金曜日更新。
+    [橘まお](https://ja.wikipedia.org/wiki/橘まお "wikilink")と[花澤さくら](https://ja.wikipedia.org/wiki/花澤さくら "wikilink")がパーソナリティを務める情報バラエティラジオ番組\[12\]。2017年7月14日から2018年6月22日まで[音泉](../Page/音泉.md "wikilink")にて配信された。毎週金曜日更新。
 
 ## 脚注
 
@@ -317,7 +317,7 @@
 
   - [エフォルダム](https://ja.wikipedia.org/wiki/エフォルダム "wikilink")
   - [アダルトゲームメーカー一覧](../Page/アダルトゲームメーカー一覧.md "wikilink")
-  - [福山芳樹](https://ja.wikipedia.org/wiki/福山芳樹 "wikilink") - 『置き場がない！』の主題歌を担当し、ブランド内初の男性歌手である。
+  - [福山芳樹](../Page/福山芳樹.md "wikilink") - 『置き場がない！』の主題歌を担当し、ブランド内初の男性歌手である。
   - [太陽の子](https://ja.wikipedia.org/wiki/太陽の子_\(ゲーム\) "wikilink")
 
 ## 外部リンク
@@ -341,7 +341,7 @@
 5.
 6.
 7.  株式会社エフォルダムから販売された。
-8.  2010年 [TECH GIANセールスランキング](https://ja.wikipedia.org/wiki/TECH_GIAN "wikilink")1位。
+8.  2010年 [TECH GIANセールスランキング](../Page/TECH_GIAN.md "wikilink")1位。
 9.
 10.
 11.

@@ -5,19 +5,19 @@
 
 ## 概要
 
-『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』（WJ、[集英社](../Page/集英社.md "wikilink")）誌上において[1994年](../Page/1994年.md "wikilink")43号から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")9号まで連載された。前作『[こもれ陽の下で…](https://ja.wikipedia.org/wiki/こもれ陽の下で… "wikilink")』に続き、作者4作目となる連載作品である。単行本は[ジャンプ・コミックス](https://ja.wikipedia.org/wiki/ジャンプ・コミックス "wikilink")より、全2巻が刊行された。
+『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』（WJ、[集英社](../Page/集英社.md "wikilink")）誌上において[1994年](../Page/1994年.md "wikilink")43号から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")9号まで連載された。前作『[こもれ陽の下で…](../Page/こもれ陽の下で….md "wikilink")』に続き、作者4作目となる連載作品である。単行本は[ジャンプ・コミックス](../Page/ジャンプ・コミックス.md "wikilink")より、全2巻が刊行された。
 
 刑務医として故郷に帰って来た無鉄砲な女性主人公が、自身の治療理念に基づき、患者の病気の原因を取り除くためにと行動していくさまを描く。
 
 タイトルは主人公の性格に由来し、[英語](../Page/英語.md "wikilink")で「無鉄砲」をあらわす "r**a**sh" から名付けられたものであるが、「殺到する」などを意味し[ラッシュ時](../Page/ラッシュ時.md "wikilink")などとして日本語にも定着している "r**u**sh" と間違えられることが多かった\[1\]。
 
-わずか16話で[打ち切られ](https://ja.wikipedia.org/wiki/打ち切り "wikilink")、北条の連載作の中で最も短い作品となっている。後に北条は本作の失敗原因として、自分の好きなように描いた前作『こもれ陽の下で…』とは反対に担当の意向に出来るだけ添うように描く中、なぁなぁになってしまったこと、そして主人公のキャラクター付けに失敗したことを懐述している\[2\]。
+わずか16話で[打ち切られ](../Page/打ち切り.md "wikilink")、北条の連載作の中で最も短い作品となっている。後に北条は本作の失敗原因として、自分の好きなように描いた前作『こもれ陽の下で…』とは反対に担当の意向に出来るだけ添うように描く中、なぁなぁになってしまったこと、そして主人公のキャラクター付けに失敗したことを懐述している\[2\]。
 
-次作『[F.COMPO](../Page/F.COMPO.md "wikilink")』から北条は連載の場を青年誌に移しており、本作が『WJ』誌上、そして少年誌における最後の連載作品となっている（読切はこの後も『[少年たちのいた夏 〜Melody of Jenny〜](https://ja.wikipedia.org/wiki/少年たちのいた夏_〜Melody_of_Jenny〜 "wikilink")』収録の3編を掲載している）。
+次作『[F.COMPO](../Page/F.COMPO.md "wikilink")』から北条は連載の場を青年誌に移しており、本作が『WJ』誌上、そして少年誌における最後の連載作品となっている（読切はこの後も『[少年たちのいた夏 〜Melody of Jenny〜](../Page/少年たちのいた夏_〜Melody_of_Jenny〜.md "wikilink")』収録の3編を掲載している）。
 
 ## あらすじ
 
-東京の帝都医科大学に勤務していた**朝霞勇希**（あさかゆうき）が突如、地元の大月[刑務所](https://ja.wikipedia.org/wiki/刑務所 "wikilink")の刑務医として帰郷、様々な事件に首を突っ込んでは騒ぎを大きくしながらも、なんとか無事に解決していく。そして体の治療だけではなく、病気の原因となっていることを取り除く心の治療のために、[麻薬](../Page/麻薬.md "wikilink")組織の解体へと身を乗り出していく……。
+東京の帝都医科大学に勤務していた**朝霞勇希**（あさかゆうき）が突如、地元の大月[刑務所](../Page/刑務所.md "wikilink")の刑務医として帰郷、様々な事件に首を突っ込んでは騒ぎを大きくしながらも、なんとか無事に解決していく。そして体の治療だけではなく、病気の原因となっていることを取り除く心の治療のために、[麻薬](../Page/麻薬.md "wikilink")組織の解体へと身を乗り出していく……。
 
 ## 登場人物
 
@@ -44,9 +44,9 @@
 #### 囚人とその関係者
 
   - 徳さん
-    大月刑務所に収容されている[受刑者](https://ja.wikipedia.org/wiki/受刑者 "wikilink")の老人。早くに勇希と知り合い仲良くなる。何度も収容されており、刑務所内に詳しい。
+    大月刑務所に収容されている[受刑者](../Page/受刑者.md "wikilink")の老人。早くに勇希と知り合い仲良くなる。何度も収容されており、刑務所内に詳しい。
   - 尾形 利展（おがた としのり）
-    娘を殺害しようとした秋山に対する暴行で[過剰防衛とされ](https://ja.wikipedia.org/wiki/正当防衛#相当性の要件（過剰防衛） "wikilink")、大月刑務所に収容される。偽名を使い面会に訪れた秋山を見て、[過換気症候群](https://ja.wikipedia.org/wiki/過換気症候群 "wikilink")を起こす。
+    娘を殺害しようとした秋山に対する暴行で[過剰防衛とされ](https://ja.wikipedia.org/wiki/正当防衛#相当性の要件（過剰防衛） "wikilink")、大月刑務所に収容される。偽名を使い面会に訪れた秋山を見て、[過換気症候群](../Page/過換気症候群.md "wikilink")を起こす。
   - 尾形 美咲（おがた みさき）
     利展の一人娘で、秋山にストーカーされている。父の気持ちを汲み、父の出所前に[挙式を行おうとするが](../Page/結婚式.md "wikilink")、仮出所した秋山に再び狙われる。
   - 秋山（あきやま）
@@ -56,12 +56,12 @@
   - 入江 重臣（いりえ しげおみ）
     元帝都医科大学の教授で新田の同期。新田の暴走に気付きながらも止められなかったことを悔やみ、新田の逮捕後に辞職し、[新宿](../Page/新宿.md "wikilink")で[ホームレス](../Page/ホームレス.md "wikilink")となっていた。
   - 菊池 信之（きくち のぶゆき）
-    大月刑務所に収容されている受刑者。かつてはブラッディローズと呼ばれるボスの元でコカイン密売組織の幹部をしており、ブラッディローズの[情夫でもあった](https://ja.wikipedia.org/wiki/愛人 "wikilink")。
+    大月刑務所に収容されている受刑者。かつてはブラッディローズと呼ばれるボスの元でコカイン密売組織の幹部をしており、ブラッディローズの[情夫でもあった](../Page/愛人.md "wikilink")。
 
 ### 麻薬密売組織
 
   - 阿部 尚久（あべ なおひさ）
-    [コカイン](https://ja.wikipedia.org/wiki/コカイン "wikilink")[密輸](../Page/密輸.md "wikilink")組織のボス。かつてはブラッディローズの組織の一員であったが、彼女を裏切り組織を乗っ取った。表向きは輸入業者。
+    [コカイン](../Page/コカイン.md "wikilink")[密輸](../Page/密輸.md "wikilink")組織のボス。かつてはブラッディローズの組織の一員であったが、彼女を裏切り組織を乗っ取った。表向きは輸入業者。
   - 辻井 憲治（つじい けんじ）
     阿部からコカインを買い付け、[暴力団](https://ja.wikipedia.org/wiki/暴力団 "wikilink")等に売りつける仲買人。
   - 早川 敏信（はやかわ としのぶ）
@@ -90,11 +90,11 @@
 
 サブタイトルには、一部を除き、映画のタイトルが引用されており、以下がその引用元である。
 
-第2話『[眠れる森の美女](https://ja.wikipedia.org/wiki/眠れる森の美女 "wikilink")』　第3話『[花嫁の父](https://ja.wikipedia.org/wiki/花嫁の父 "wikilink")』　第4話『夜の訪問者』　第6話『[恐怖の報酬](../Page/恐怖の報酬.md "wikilink")』　第7話『[ミスター・グッドバーを探して](https://ja.wikipedia.org/wiki/ミスター・グッドバーを探して "wikilink")』　第8話『[ゲッタウェイ](https://ja.wikipedia.org/wiki/ゲッタウェイ "wikilink")』　第10話『[告白](../Page/告白.md "wikilink")』　第11話『[美女と野獣](https://ja.wikipedia.org/wiki/美女と野獣 "wikilink")』　第12話『[スカーフェイス](https://ja.wikipedia.org/wiki/スカーフェイス_\(映画\) "wikilink")』又は『[暗黒街の顔役](https://ja.wikipedia.org/wiki/暗黒街の顔役_\(1932年の映画\) "wikilink")』　第13話『[友情ある説得](../Page/友情ある説得.md "wikilink")』　第14話『奴らを高く吊るせ\!』　第15話『[逃亡者](https://ja.wikipedia.org/wiki/逃亡者 "wikilink")』
+第2話『[眠れる森の美女](../Page/眠れる森の美女.md "wikilink")』　第3話『[花嫁の父](https://ja.wikipedia.org/wiki/花嫁の父 "wikilink")』　第4話『夜の訪問者』　第6話『[恐怖の報酬](../Page/恐怖の報酬.md "wikilink")』　第7話『[ミスター・グッドバーを探して](../Page/ミスター・グッドバーを探して.md "wikilink")』　第8話『[ゲッタウェイ](../Page/ゲッタウェイ.md "wikilink")』　第10話『[告白](../Page/告白.md "wikilink")』　第11話『[美女と野獣](../Page/美女と野獣.md "wikilink")』　第12話『[スカーフェイス](../Page/スカーフェイス_\(映画\).md "wikilink")』又は『[暗黒街の顔役](../Page/暗黒街の顔役_\(1932年の映画\).md "wikilink")』　第13話『[友情ある説得](../Page/友情ある説得.md "wikilink")』　第14話『奴らを高く吊るせ\!』　第15話『[逃亡者](../Page/逃亡者.md "wikilink")』
 
 ## 書誌情報
 
-  - 北条司『RASH\!\!』集英社〈[ジャンプ・コミックス](https://ja.wikipedia.org/wiki/ジャンプ・コミックス "wikilink")〉
+  - 北条司『RASH\!\!』集英社〈[ジャンプ・コミックス](../Page/ジャンプ・コミックス.md "wikilink")〉
     1.  1995年2月8日発行 ISBN 4-08-871777-5
     2.  1995年5月16日発行 ISBN 4-08-871778-3
 
@@ -102,12 +102,12 @@
 
 ## 関連項目
 
-  - [こもれ陽の下で…](https://ja.wikipedia.org/wiki/こもれ陽の下で… "wikilink") - 前の連載作品。
-  - [少年たちのいた夏 〜Melody of Jenny〜](https://ja.wikipedia.org/wiki/少年たちのいた夏_〜Melody_of_Jenny〜 "wikilink") - 本作と『F.COMPO』の間に描かれた短編を収録。
+  - [こもれ陽の下で…](../Page/こもれ陽の下で….md "wikilink") - 前の連載作品。
+  - [少年たちのいた夏 〜Melody of Jenny〜](../Page/少年たちのいた夏_〜Melody_of_Jenny〜.md "wikilink") - 本作と『F.COMPO』の間に描かれた短編を収録。
   - [F.COMPO](../Page/F.COMPO.md "wikilink") - 次の連載作品。
   - [キャッツ♥アイ](../Page/キャッツ・アイ.md "wikilink") - 警察内の[モブキャラクター](../Page/モブキャラクター.md "wikilink")として同作の平野と武内が本作に登場している。
 
 [Category:漫画作品_ら](https://ja.wikipedia.org/wiki/Category:漫画作品_ら "wikilink") [Category:週刊少年ジャンプの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年ジャンプの漫画作品 "wikilink") [Category:医療漫画](https://ja.wikipedia.org/wiki/Category:医療漫画 "wikilink") [Category:医師を主人公とした漫画作品](https://ja.wikipedia.org/wiki/Category:医師を主人公とした漫画作品 "wikilink") [Category:刑務所を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:刑務所を舞台とした漫画作品 "wikilink") [Category:北条司](https://ja.wikipedia.org/wiki/Category:北条司 "wikilink")
 
-1.  [北条司](../Page/北条司.md "wikilink")『RASH\!\! 1巻』[集英社](../Page/集英社.md "wikilink")〈[ジャンプ・コミックス](https://ja.wikipedia.org/wiki/ジャンプ・コミックス "wikilink")〉、表紙そで
+1.  [北条司](../Page/北条司.md "wikilink")『RASH\!\! 1巻』[集英社](../Page/集英社.md "wikilink")〈[ジャンプ・コミックス](../Page/ジャンプ・コミックス.md "wikilink")〉、表紙そで
 2.  北条司「北条司 インタビュー」『北条司 漫画家20周年記念 イラストレーションズ』集英社、105頁

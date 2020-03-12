@@ -5,11 +5,11 @@
 
 ## 概要
 
-[グラビアアイドル](https://ja.wikipedia.org/wiki/グラビアアイドル "wikilink")[原幹恵](https://ja.wikipedia.org/wiki/原幹恵 "wikilink")の[ドラマ](../Page/ドラマ.md "wikilink")初[主演](../Page/主演.md "wikilink")作品。『[牙狼-GARO-](https://ja.wikipedia.org/wiki/牙狼-GARO- "wikilink")』を手がけた[ディープサイド](https://ja.wikipedia.org/wiki/ディープサイド "wikilink")による製作で、スタッフにも『牙狼』のメンバーや特撮番組にゆかりのあるスタッフが複数参加している。
+[グラビアアイドル](https://ja.wikipedia.org/wiki/グラビアアイドル "wikilink")[原幹恵](https://ja.wikipedia.org/wiki/原幹恵 "wikilink")の[ドラマ](../Page/ドラマ.md "wikilink")初[主演](../Page/主演.md "wikilink")作品。『[牙狼-GARO-](../Page/牙狼-GARO-.md "wikilink")』を手がけた[ディープサイド](https://ja.wikipedia.org/wiki/ディープサイド "wikilink")による製作で、スタッフにも『牙狼』のメンバーや特撮番組にゆかりのあるスタッフが複数参加している。
 
 永井豪・作家生活40周年の記念作品である。物語中盤の第14話より「第二幕」とも言うべき新章に突入し、ストーリーの重要な部分に展開している。また、DVD第9巻よりTV未放送のスペシャルエピソード（第26話）を収録している\[1\]。
 
-本作最大の特徴である3人のキューティーハニーによる群像劇を筆頭に、異様に無垢で天真爛漫なハニーの性格、大きく様変わりしたパンサークローの設定など、原作や過去のリメイク作品と比べても特に独自の設定・要素が多い。一方で、売り出し中のグラビアアイドルを多数起用したお色気ドラマ的な見た目とは裏腹に、[横山誠](https://ja.wikipedia.org/wiki/横山誠 "wikilink")総監督による高レベルのアクションと、シリーズ構成の[井上敏樹](../Page/井上敏樹.md "wikilink")による人間の闇を描く展開によって、ハードバイオレンスドラマになっている。さらに最終回のラストは、テレビアニメのキューティーハニーに続くような終わり方がなされている。
+本作最大の特徴である3人のキューティーハニーによる群像劇を筆頭に、異様に無垢で天真爛漫なハニーの性格、大きく様変わりしたパンサークローの設定など、原作や過去のリメイク作品と比べても特に独自の設定・要素が多い。一方で、売り出し中のグラビアアイドルを多数起用したお色気ドラマ的な見た目とは裏腹に、[横山誠](../Page/横山誠.md "wikilink")総監督による高レベルのアクションと、シリーズ構成の[井上敏樹](../Page/井上敏樹.md "wikilink")による人間の闇を描く展開によって、ハードバイオレンスドラマになっている。さらに最終回のラストは、テレビアニメのキューティーハニーに続くような終わり方がなされている。
 
 ## ストーリー
 
@@ -22,7 +22,7 @@
 ### 主要人物
 
   -  / キューティーハニー
-    本作の主人公。白薔薇学園に通う高校2年生\[2\]だが、その正体は如月光史郎博士によって作られた[アンドロイド](https://ja.wikipedia.org/wiki/アンドロイド "wikilink")。誕生日・血液型はミキ・ユキと同じで、それぞれ[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[2月26日](https://ja.wikipedia.org/wiki/2月26日 "wikilink")、B型（建前上の記録）。過去作とは異なり、普段の容姿は黒髪のセミロングをツインテールにしているが、ハニーフラッシュすることで、赤い髪の女戦士・キューティーハニーに変身し、パンサークローと戦いを繰り広げる。武器は原作と同じ**シルバーフルーレ**。モパーソナルエンブレムは[ハート](https://ja.wikipedia.org/wiki/ハート_\(シンボル\) "wikilink")。「ハニーブーメラン」は登場しないが、代わりにシスターミキがブーメラン型の武器を操る（下記参照）。
+    本作の主人公。白薔薇学園に通う高校2年生\[2\]だが、その正体は如月光史郎博士によって作られた[アンドロイド](https://ja.wikipedia.org/wiki/アンドロイド "wikilink")。誕生日・血液型はミキ・ユキと同じで、それぞれ[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[2月26日](../Page/2月26日.md "wikilink")、B型（建前上の記録）。過去作とは異なり、普段の容姿は黒髪のセミロングをツインテールにしているが、ハニーフラッシュすることで、赤い髪の女戦士・キューティーハニーに変身し、パンサークローと戦いを繰り広げる。武器は原作と同じ**シルバーフルーレ**。モパーソナルエンブレムは[ハート](https://ja.wikipedia.org/wiki/ハート_\(シンボル\) "wikilink")。「ハニーブーメラン」は登場しないが、代わりにシスターミキがブーメラン型の武器を操る（下記参照）。
     基本設定は過去作のハニーと同一だが、性格設定が大きく異なり、「クールで美しい女性」だった原作とは打って変わって極端な天然ボケで、人を疑うことを知らない純真無垢な少女として描かれている。戦闘能力はミキ、ユキと比べても低いが、その分成長速度は速く、戦いを経験するごとに強くなっていく。戦闘スタイルとしては自分のバストやヒップを用いたお色気要素の強い攻撃を織り交ぜつつ、3人の中では比較的ヒーロー的な戦いを見せる。高速での移動を必要とする場合には原作同様「ハリケーンハニー」に変身するが、本作では青を基調にファイヤーパターンを取り入れた原作と異なるデザインであり、変身後は同様のカラーリングのマシンを駆る。他にも多彩に姿を変えるのは原作と同様だが、前述の設定に基づくと言うよりは、潜入捜査やバイトなどのために必要に応じて姿を変えている印象が強い。
     3人の中では唯一完全な**ハニーシステム**（空中元素固定装置）を持つが、それでも体内に蓄積された余剰エネルギーを定期的に放出しないと「暴走ハニー」化してしまう。暴走の兆候は異常な睡眠であり、暴走時のハニーは髪の色が金髪になり、メイクもきつめに変わって挑発的な表情を見せる。また全身から高熱を発し、触れた物は金属であれ水であれ蒸発してしまう。ヘッドギアを装着させ余剰エネルギーを放出することによって暴走状態は解消するが、放出後は意識を失い、その後意識を取り戻してもしばらくはフラッシュできない。
     物語終盤でユキによって空中元素固定装置を取り外されて完全に機能停止したが、ミキの装置を移植されることによって復活した。最終決戦時のハニーフラッシュでは髪に青のメッシュが入り、ミキのボディースーツとブーメランカッターを携えた、ハニーとミキとが一つになったことを象徴する姿（**ランブルハニー**）となっている。そして早見からミキの遺志を伝えられ、ユキを救うためにハニーフラッシュで分解して、ユキとも一つになった。
@@ -32,13 +32,13 @@
     原作以上に頼りなく、ハニーと共に戦うと言うより、事件に巻き込まれてはヒーローであるハニーに助けられる存在。一度パンサークローの手によって改造人間にされたこともあり、その際は医学知識と技能をダウンロードしたハニーの手術により元に戻ることができた。
     しかし、最終決戦でユキからハニーのことを託され、共にパンサークローと戦う相棒となる。その頃には以前のような頼りなさは鳴りを潜め、[拳銃](../Page/拳銃.md "wikilink")を手に戦闘員とも渡り合うようになった。
   -  / シスターミキ
-    ドラマ版のオリジナルキャラクター。ハニーフラッシュすることで、「青いキューティーハニー」、シスターミキとなる。変身すると髪に青いメッシュが入る。鋭い[角](https://ja.wikipedia.org/wiki/角 "wikilink")を有する[ブーメラン](../Page/ブーメラン.md "wikilink")型のカッター武器**ブーメランブル**を操る。モパーソナルエンブレムは[スペード](https://ja.wikipedia.org/wiki/スペード_\(シンボル\) "wikilink")。アンドロイドであるハニーとは違い、如月光史郎博士によって、改造された。
+    ドラマ版のオリジナルキャラクター。ハニーフラッシュすることで、「青いキューティーハニー」、シスターミキとなる。変身すると髪に青いメッシュが入る。鋭い[角](../Page/角.md "wikilink")を有する[ブーメラン](../Page/ブーメラン.md "wikilink")型のカッター武器**ブーメランブル**を操る。モパーソナルエンブレムは[スペード](https://ja.wikipedia.org/wiki/スペード_\(シンボル\) "wikilink")。アンドロイドであるハニーとは違い、如月光史郎博士によって、改造された。
     影があり、他人との交流を嫌うクールな性格。頭脳明晰で冷静な判断力を持っており、身体能力にも優れる。白薔薇学園への転入以前は女子更生施設に入っていた。かつては家族のあるごく普通の少女（両親の名前は早乙女進、岬）であったが、娘を失って狂気に走った如月博士に亡き娘と同じ誕生日・血液型であると言うだけで両親を殺害され、ハニーシステムを組み込まれた。以後偽りの記憶を与えられて博士の娘として育てられてきたが、偶然読んだ博士の日記により失われた記憶と実の両親の死の真相、さらに博士がミキを失敗作と見限ったことを知り逆上、博士を殺害して脱走した。3人のうちで最初に生まれた、いわばプロトタイプである彼女は空中元素固定装置に欠陥があり、体から鉄釘や鎖などの異物が湧き出る症状に苦しんでいた。戦闘力はハニーより格上、肉弾戦と飛蹴技も得意。また、フラッシュが身体への負担が大きいためか変身を解いた後などに気を失って倒れてしまうこともままあった。
     ハニーとの交流により感情を取り戻しつつあったが、自らを父の敵と狙うユキの目の前で身体機能の限界が訪れ、全身を異物に貫かれて、一度は機能停止した。その後彼女に異常な執着を見せるパンサークロー幹部・烏川真由美の手によって蘇りはしたが、空中元素固定装置は未だ不完全なままであり、死の運命から逃れられないことを知る。そのため烏川に頼み、空中元素固定装置をハニーに移植することで全てを託し、「自分はハニーの中で生きる」と言い残し息絶えた。しかし、自身の装置をハニーに移植したことで、望み通りミキはハニーの中で生き続けることとなった（最終決戦時でのハニーの姿はミキがハニーの中で生きている象徴である）。
   -  / シスターユキ
-    ドラマ版のオリジナルキャラクター。ハニーフラッシュすることで、「白いキューティーハニー」、シスターユキとなる。変身すると髪が白いロングヘアになる。鋭利な[刃](https://ja.wikipedia.org/wiki/刃 "wikilink")を有するリング状の武器**プラチナチャクラム**を操る。モパーソナルエンブレムは[ダイヤ](https://ja.wikipedia.org/wiki/ダイヤ_\(シンボル\) "wikilink")。
+    ドラマ版のオリジナルキャラクター。ハニーフラッシュすることで、「白いキューティーハニー」、シスターユキとなる。変身すると髪が白いロングヘアになる。鋭利な[刃](../Page/刃.md "wikilink")を有するリング状の武器**プラチナチャクラム**を操る。モパーソナルエンブレムは[ダイヤ](https://ja.wikipedia.org/wiki/ダイヤ_\(シンボル\) "wikilink")。
     大財閥・剣持家の令嬢で、感覚が世間離れしており、ハニー以上の天然ボケ。ハニーに女性としてほれ込んでおり、常に一緒にいる早見に対して激しい嫉妬心を燃やす。不治の病に侵されて入院していたが、如月博士によって治療と改造を施され、娘の身代わりとして育てられていた。しかし、やはり彼女も完全な作品ではなかったため、養子にやったという名目で、如月博士の造ったアンドロイドである剣持夫妻に育てられる。家族はミキと同様に如月博士に殺されたものと思われるが、記憶を操作されており、如月博士を父として慕っていた。
-    戦闘力は他の2人よりはるかに抜きん出ており、パンサークロー幹部を圧倒するレベルにある。[中国拳法](https://ja.wikipedia.org/wiki/中国拳法 "wikilink")の[気功](../Page/気功.md "wikilink")のような[衝撃波](https://ja.wikipedia.org/wiki/衝撃波 "wikilink")攻撃と、[バレエ](../Page/バレエ.md "wikilink")の動きを交えた戦闘スタイルは優雅さを感じさせるが、一方で敵に対する冷酷さも伺わせ、相手が手負いであろうと一切容赦しない。加えて後に精神が暴走を始めて以降は相手に絶望感や恐怖心を植え付ける幻覚を伴う精神攻撃をも披露しており、中条に死の恐怖を与え、ハニーさえも戦意を喪失してしまった。
+    戦闘力は他の2人よりはるかに抜きん出ており、パンサークロー幹部を圧倒するレベルにある。[中国拳法](https://ja.wikipedia.org/wiki/中国拳法 "wikilink")の[気功](../Page/気功.md "wikilink")のような[衝撃波](../Page/衝撃波.md "wikilink")攻撃と、[バレエ](../Page/バレエ.md "wikilink")の動きを交えた戦闘スタイルは優雅さを感じさせるが、一方で敵に対する冷酷さも伺わせ、相手が手負いであろうと一切容赦しない。加えて後に精神が暴走を始めて以降は相手に絶望感や恐怖心を植え付ける幻覚を伴う精神攻撃をも披露しており、中条に死の恐怖を与え、ハニーさえも戦意を喪失してしまった。
     当初は天真爛漫なお嬢様だったが、やがてミキ同様体から人形や鉄球などの異物が湧き出るという異変が生じ、更に出生の謎に悩まされた果てに感情が暴走し始め、白薔薇学園に転入しクラスメイトを手なづけてハニーを孤立させ、傷心のハニーに近づくなど陰湿な企みを巡らすようになる。そして全身を異物に貫かれて機能停止したミキの姿を目の当たりにし、死の恐怖にとらわれた彼女は生き延びるためにハニーの空中元素固定装置を狙う。その後ハニー共々パンサークロー幹部・田中弘美の手に落ち、ハニーの空中元素固定装置を移植されて田中に洗脳され、彼女に従うことになってしまう。一度は洗脳を振り切り、自らが世界を支配する野望を抱き、襲ってきた中条と渡を瞬殺するが、一瞬の隙を突かれて制御装置を取り付けられ、再び田中の傀儡に戻ってしまった。洗脳後の姿は額に黒いクリスタル（ダイヤ型）が浮かび、胸のエンブレムがダイヤからクラブ（にみえるように制御装置が覆っている）となり、邪悪な姿（**シスターユキ・スノーホワイト**）となってしまった。その後ハニーによって制御装置を破壊されるもその意志は完全に暴走しており、ハニーを殺して唯一無二の絶対的存在になろうとする。ただ、その意志に抵抗するように戦いながら涙を流していた。最後にハニーをハニーフラッシュで分解しようとするが、逆にハニーに分解され、ハニーと一つになった。最終決戦後、ハニーが眠りについているわずかな間に早見の前に現れ、ハニーのことを託して、ミキとともに表舞台から去る。ただし、彼女もミキ同様ハニーの中で生き続けている。
 
 ### パンサークロー
@@ -100,10 +100,10 @@
     ハニーの接近戦用武器である。原作とデザインが異なり、本作は細身の剣が特徴。ハニーシステムと配合して用いられ、物質やパンサークローの戦闘員などを分解している。
 
   - ブーメランブル
-    ミキの專用武器である。鋭い角を有する大きなカッター状のブーメランのような武器であり、相手を投げる攻撃や接近戦の使用もできる。ミキが身体の負担を増加させていることに伴い、ブーメランブルも[錆](https://ja.wikipedia.org/wiki/錆 "wikilink")を生じるようになる。
+    ミキの專用武器である。鋭い角を有する大きなカッター状のブーメランのような武器であり、相手を投げる攻撃や接近戦の使用もできる。ミキが身体の負担を増加させていることに伴い、ブーメランブルも[錆](../Page/錆.md "wikilink")を生じるようになる。
 
   - プラチナチャクラム
-    ユキの專用武器である。鋭利な刃を付けるリング状の[チャクラム](https://ja.wikipedia.org/wiki/チャクラム "wikilink")。ブーメランブルと同じ、回転させ投げる攻撃や接近戦の使用もできる。
+    ユキの專用武器である。鋭利な刃を付けるリング状の[チャクラム](../Page/チャクラム.md "wikilink")。ブーメランブルと同じ、回転させ投げる攻撃や接近戦の使用もできる。
 
   - ハリケーンマグザム
     ハリケーンハニーが使用する[ビッグスクーター](https://ja.wikipedia.org/wiki/スクーター#ビッグスクーター "wikilink")。
@@ -122,16 +122,16 @@
 
   - 如月ハニー：[原幹恵](https://ja.wikipedia.org/wiki/原幹恵 "wikilink")
   - 早見青児：[山本匠馬](../Page/山本匠馬.md "wikilink")
-  - 早乙女ミキ：[水崎綾女](https://ja.wikipedia.org/wiki/水崎綾女 "wikilink")
+  - 早乙女ミキ：[水崎綾女](../Page/水崎綾女.md "wikilink")
   - 剣持ユキ：[竹田真恋人](https://ja.wikipedia.org/wiki/竹田真恋人 "wikilink")
-  - 秋夏子：[小松愛](https://ja.wikipedia.org/wiki/小松愛 "wikilink")
+  - 秋夏子：[小松愛](../Page/小松愛.md "wikilink")
   - 源さん：[なぎら健壱](../Page/なぎら健壱.md "wikilink")
-  - 中条有次：[村上幸平](https://ja.wikipedia.org/wiki/村上幸平 "wikilink")
-  - デューク渡：[マーク武蔵](https://ja.wikipedia.org/wiki/マーク武蔵 "wikilink")
-  - 烏川真由美：[エリカ](https://ja.wikipedia.org/wiki/小田エリカ "wikilink")
+  - 中条有次：[村上幸平](../Page/村上幸平.md "wikilink")
+  - デューク渡：[マーク武蔵](../Page/マーク武蔵.md "wikilink")
+  - 烏川真由美：[エリカ](../Page/小田エリカ.md "wikilink")
   - 田中弘美：[ふせえり](https://ja.wikipedia.org/wiki/ビシバシステム#ふせえり "wikilink")
   - 田中作之助：[喜多川務](https://ja.wikipedia.org/wiki/喜多川務 "wikilink")
-  - 宏子：[湯川舞](https://ja.wikipedia.org/wiki/湯川舞 "wikilink")
+  - 宏子：[湯川舞](../Page/湯川舞.md "wikilink")
   - 梢：[伊田麻友香](https://ja.wikipedia.org/wiki/伊田麻友香 "wikilink")
   - 彩：[宮下舞花](https://ja.wikipedia.org/wiki/宮下舞花 "wikilink")
   - 担任の先生：[栃谷善太郎](https://ja.wikipedia.org/wiki/栃谷善太郎 "wikilink")
@@ -140,58 +140,58 @@
 
 括弧内は出演回。
 
-  - 山下奈々：[山本彩乃](https://ja.wikipedia.org/wiki/山本彩乃 "wikilink")（1）
-  - 山下次郎：[中泉英雄](https://ja.wikipedia.org/wiki/中泉英雄 "wikilink")（1）
+  - 山下奈々：[山本彩乃](../Page/山本彩乃.md "wikilink")（1）
+  - 山下次郎：[中泉英雄](../Page/中泉英雄.md "wikilink")（1）
   - 釣り堀の老人：[浅井明](https://ja.wikipedia.org/wiki/浅井明 "wikilink")（1、2、7）
-  - ベッドの女：[かすみ果穂](https://ja.wikipedia.org/wiki/かすみ果穂 "wikilink")（1、7）
-  - 川原篤：[辻本祐樹](https://ja.wikipedia.org/wiki/辻本祐樹 "wikilink")（2）
+  - ベッドの女：[かすみ果穂](../Page/かすみ果穂.md "wikilink")（1、7）
+  - 川原篤：[辻本祐樹](../Page/辻本祐樹.md "wikilink")（2）
   - 渡辺由美：[佐々木維子](https://ja.wikipedia.org/wiki/佐々木維子 "wikilink")（2）
   - 水野陽子：[彩月貴央](https://ja.wikipedia.org/wiki/彩月貴央 "wikilink")（2）
   - 山崎：[小田桐一](https://ja.wikipedia.org/wiki/小田桐一 "wikilink")（2）
-  - 宮田佳代：[小野まりえ](https://ja.wikipedia.org/wiki/小野まりえ "wikilink")（2、3、4、5）
+  - 宮田佳代：[小野まりえ](../Page/小野まりえ.md "wikilink")（2、3、4、5）
   - 国屋真美：[坂本亜里紗](https://ja.wikipedia.org/wiki/坂本亜里紗 "wikilink")（2、3、4、5）
   - 松田：[藤本道](https://ja.wikipedia.org/wiki/藤本道 "wikilink")（3）
-  - スーツの男：[吉田瑞穂](https://ja.wikipedia.org/wiki/吉田瑞穂_\(スーツアクター\) "wikilink")（3）
+  - スーツの男：[吉田瑞穂](../Page/吉田瑞穂_\(スーツアクター\).md "wikilink")（3）
   - 古林：[島根さだよし](https://ja.wikipedia.org/wiki/島根さだよし "wikilink")（3、4）
   - 江口：[小林でび](https://ja.wikipedia.org/wiki/小林でび "wikilink")（3、4）
   - 瀬田医院長：[大嶋守立](https://ja.wikipedia.org/wiki/大嶋守立 "wikilink")（3、4）
   - 鬼頭教官：[橋本亜紀](https://ja.wikipedia.org/wiki/橋本亜紀 "wikilink")（2、5）
   - 白川所長：[根岸大介](https://ja.wikipedia.org/wiki/根岸大介 "wikilink")（5）
   - トモヒロ：[加藤トモヒロ](https://ja.wikipedia.org/wiki/加藤トモヒロ "wikilink")（5）
-  - ズイマロ：[粟島瑞丸](https://ja.wikipedia.org/wiki/粟島瑞丸 "wikilink")（5）
+  - ズイマロ：[粟島瑞丸](../Page/粟島瑞丸.md "wikilink")（5）
   - エリカ：[田井中蘭](../Page/宇佐美蘭.md "wikilink")（6）
-  - アンナ：[吉田もも](https://ja.wikipedia.org/wiki/吉田もも "wikilink")（6）
-  - ミズホ：[矢口聖来](https://ja.wikipedia.org/wiki/矢口聖来 "wikilink")（6）
+  - アンナ：[吉田もも](../Page/吉田もも.md "wikilink")（6）
+  - ミズホ：[矢口聖来](../Page/矢口聖来.md "wikilink")（6）
   - [緋田康人](../Page/緋田康人.md "wikilink")（6）
-  - [山本浩司](https://ja.wikipedia.org/wiki/山本浩司_\(俳優\) "wikilink")（6）
+  - [山本浩司](../Page/山本浩司_\(俳優\).md "wikilink")（6）
   - 野村（ノブナガ）：[白石タダシ](https://ja.wikipedia.org/wiki/白石タダシ "wikilink")（7）
   - 車の女：[庄司ゆうこ](https://ja.wikipedia.org/wiki/庄司ゆうこ "wikilink")（7）
-  - 蛤学園の生徒：[安倍エレナ](https://ja.wikipedia.org/wiki/安倍エレナ "wikilink")（8、12）
+  - 蛤学園の生徒：[安倍エレナ](../Page/安倍エレナ.md "wikilink")（8、12）
   - 烏川真由美（怪人体）：[MiWa](https://ja.wikipedia.org/wiki/MiWa "wikilink")（8）
-  - ユキの父：[堀内正美](https://ja.wikipedia.org/wiki/堀内正美 "wikilink")（9、15、16、23）
+  - ユキの父：[堀内正美](../Page/堀内正美.md "wikilink")（9、15、16、23）
   - [北山雅康](../Page/北山雅康.md "wikilink")（9）
-  - 弓岡真治：[山口祥行](https://ja.wikipedia.org/wiki/山口祥行 "wikilink")（13）
-  - 木島大介：[吉岡毅志](https://ja.wikipedia.org/wiki/吉岡毅志 "wikilink")（13）
+  - 弓岡真治：[山口祥行](../Page/山口祥行.md "wikilink")（13）
+  - 木島大介：[吉岡毅志](../Page/吉岡毅志.md "wikilink")（13）
   - 沢口真一：粟島瑞丸（13）
   - 田辺隆：[舘昌美](https://ja.wikipedia.org/wiki/舘昌美 "wikilink")（13）
   - トンネル：[斎藤弘勝](https://ja.wikipedia.org/wiki/斎藤弘勝 "wikilink")（14他）
-  - エンジン：[島岡安芸和](https://ja.wikipedia.org/wiki/島岡安芸和 "wikilink")（14他）
-  - スパイ：[螢雪次朗](https://ja.wikipedia.org/wiki/螢雪次朗 "wikilink")（14）
+  - エンジン：[島岡安芸和](../Page/島岡安芸和.md "wikilink")（14他）
+  - スパイ：[螢雪次朗](../Page/螢雪次朗.md "wikilink")（14）
   - 根本真幸：[藤沢大悟](../Page/藤沢大悟.md "wikilink")（15、17）
-  - 夏樹：[江口ヒロミ](https://ja.wikipedia.org/wiki/江口ヒロミ "wikilink")（17）
+  - 夏樹：[江口ヒロミ](../Page/江口ヒロミ.md "wikilink")（17）
   - 税務署員：[甲斐将馬](https://ja.wikipedia.org/wiki/甲斐将馬 "wikilink")（20）
-  - 真央：[岡あゆみ](https://ja.wikipedia.org/wiki/岡あゆみ "wikilink") (25)
+  - 真央：[岡あゆみ](../Page/岡あゆみ.md "wikilink") (25)
   - 如月の娘：[高橋明子](https://ja.wikipedia.org/wiki/高橋明子 "wikilink") (26)
-  - 如月光史郎博士（声）：[谷口節](https://ja.wikipedia.org/wiki/谷口節 "wikilink")（21、23、26）
+  - 如月光史郎博士（声）：[谷口節](../Page/谷口節.md "wikilink")（21、23、26）
   - 如月光史郎博士：[永井豪](../Page/永井豪.md "wikilink")（26）
 
 ## スタッフ
 
   - 原作：[永井豪](../Page/永井豪.md "wikilink")
-  - 総監督：[横山誠](https://ja.wikipedia.org/wiki/横山誠 "wikilink")
-  - 監督：横山誠、[宮坂武志](https://ja.wikipedia.org/wiki/宮坂武志 "wikilink")、[本田隆一](https://ja.wikipedia.org/wiki/本田隆一 "wikilink")、[田﨑竜太](https://ja.wikipedia.org/wiki/田崎竜太 "wikilink")、[雨宮慶太](https://ja.wikipedia.org/wiki/雨宮慶太 "wikilink")
+  - 総監督：[横山誠](../Page/横山誠.md "wikilink")
+  - 監督：横山誠、[宮坂武志](https://ja.wikipedia.org/wiki/宮坂武志 "wikilink")、[本田隆一](https://ja.wikipedia.org/wiki/本田隆一 "wikilink")、[田﨑竜太](../Page/田崎竜太.md "wikilink")、[雨宮慶太](../Page/雨宮慶太.md "wikilink")
   - シリーズ構成：[井上敏樹](../Page/井上敏樹.md "wikilink")
-  - 脚本：井上敏樹、[犬飼和彦](https://ja.wikipedia.org/wiki/犬飼和彦 "wikilink")、[戸塚直樹](https://ja.wikipedia.org/wiki/戸塚直樹 "wikilink")、[長谷川圭一](https://ja.wikipedia.org/wiki/長谷川圭一 "wikilink")、[三条陸](https://ja.wikipedia.org/wiki/三条陸 "wikilink")、[石橋大助](https://ja.wikipedia.org/wiki/石橋大助 "wikilink")
+  - 脚本：井上敏樹、[犬飼和彦](https://ja.wikipedia.org/wiki/犬飼和彦 "wikilink")、[戸塚直樹](https://ja.wikipedia.org/wiki/戸塚直樹 "wikilink")、[長谷川圭一](../Page/長谷川圭一.md "wikilink")、[三条陸](../Page/三条陸.md "wikilink")、[石橋大助](https://ja.wikipedia.org/wiki/石橋大助 "wikilink")
   - キャラクターデザイン：[出渕裕](../Page/出渕裕.md "wikilink")
   - 音楽：[渡辺剛](../Page/渡辺剛_\(キーボード奏者\).md "wikilink")
   - 製作：[ブロードマークス](https://ja.wikipedia.org/wiki/ブロードマークス "wikilink")、[ディープサイド](https://ja.wikipedia.org/wiki/ディープサイド "wikilink")
@@ -199,29 +199,29 @@
 
 ## 主題歌
 
-オープニングテーマは、シリーズ伝統のクロードQと渡辺岳夫による主題歌を踏襲。[ランティス](https://ja.wikipedia.org/wiki/ランティス "wikilink")所属の音楽ユニット、[ワイルド三人娘](https://ja.wikipedia.org/wiki/ワイルド三人娘 "wikilink")が担当する。エンディングテーマは、3人のキューティーハニーをイメージした3曲が用意され、それぞれの主役回に合わせて使い分けられる。また、各ハニーが死亡した回は追悼バージョン（エンディング自体がモノクロ）となる演出が取られたり、クライマックスシーンで流されるという演出も取られた。
+オープニングテーマは、シリーズ伝統のクロードQと渡辺岳夫による主題歌を踏襲。[ランティス](../Page/ランティス.md "wikilink")所属の音楽ユニット、[ワイルド三人娘](../Page/ワイルド三人娘.md "wikilink")が担当する。エンディングテーマは、3人のキューティーハニーをイメージした3曲が用意され、それぞれの主役回に合わせて使い分けられる。また、各ハニーが死亡した回は追悼バージョン（エンディング自体がモノクロ）となる演出が取られたり、クライマックスシーンで流されるという演出も取られた。
 
   - オープニングテーマ
     「[キューティーハニー](https://ja.wikipedia.org/wiki/キューティーハニー_\(曲\) "wikilink")」
       -
-        作詞：クロードQ 作曲：渡辺岳夫 編曲：渡辺剛 歌：[ワイルド三人娘](https://ja.wikipedia.org/wiki/ワイルド三人娘 "wikilink")
+        作詞：クロードQ 作曲：渡辺岳夫 編曲：渡辺剛 歌：[ワイルド三人娘](../Page/ワイルド三人娘.md "wikilink")
   - エンディングテーマ
     「[BUT,metamorphosis](https://ja.wikipedia.org/wiki/BUT,metamorphosis "wikilink")」（キューティーハニーのテーマ）
       -
-        作詞：[畑亜貴](https://ja.wikipedia.org/wiki/畑亜貴 "wikilink") 作曲・編曲：[黒須克彦](https://ja.wikipedia.org/wiki/黒須克彦 "wikilink") 歌：[栗林みな実](../Page/栗林みな実.md "wikilink")
+        作詞：[畑亜貴](../Page/畑亜貴.md "wikilink") 作曲・編曲：[黒須克彦](../Page/黒須克彦.md "wikilink") 歌：[栗林みな実](../Page/栗林みな実.md "wikilink")
     「I lost the place」（シスターミキのテーマ）
       -
-        作詞：畑亜貴 作曲・編曲：黒須克彦 歌：[美郷あき](https://ja.wikipedia.org/wiki/美郷あき "wikilink")
+        作詞：畑亜貴 作曲・編曲：黒須克彦 歌：[美郷あき](../Page/美郷あき.md "wikilink")
     「吐息Scarlet...」（シスターユキのテーマ）
       -
         作詞：[こだまさおり](https://ja.wikipedia.org/wiki/こだまさおり "wikilink") 作曲・編曲：[大久保薫](https://ja.wikipedia.org/wiki/大久保薫 "wikilink") 歌：[結城アイラ](../Page/結城アイラ.md "wikilink")
     「Follow you 〜君とともに〜」（スペシャルエピソードのテーマ）
       -
-        作詞・作曲：[影山ヒロノブ](https://ja.wikipedia.org/wiki/影山ヒロノブ "wikilink") 編曲：[須藤賢一](https://ja.wikipedia.org/wiki/須藤賢一 "wikilink") 歌：影山ヒロノブ
+        作詞・作曲：[影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink") 編曲：[須藤賢一](https://ja.wikipedia.org/wiki/須藤賢一 "wikilink") 歌：影山ヒロノブ
   - 挿入歌
     「[アウトサイダー](https://ja.wikipedia.org/wiki/Instinct "wikilink")」
       -
-        作詞：[谷山紀章](https://ja.wikipedia.org/wiki/谷山紀章 "wikilink") 作曲・編曲：[飯塚昌明](https://ja.wikipedia.org/wiki/飯塚昌明 "wikilink") 歌：[GRANRODEO](https://ja.wikipedia.org/wiki/GRANRODEO "wikilink")
+        作詞：[谷山紀章](../Page/谷山紀章.md "wikilink") 作曲・編曲：[飯塚昌明](../Page/飯塚昌明.md "wikilink") 歌：[GRANRODEO](../Page/GRANRODEO.md "wikilink")
 
 ## 放映リスト
 
@@ -242,7 +242,7 @@
 <td><p>第1話</p></td>
 <td><p>ハニーフラッシュ!</p></td>
 <td><p><a href="../Page/井上敏樹.md" title="wikilink">井上敏樹</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/横山誠" title="wikilink">横山誠</a></p></td>
+<td><p><a href="../Page/横山誠.md" title="wikilink">横山誠</a></p></td>
 </tr>
 <tr class="even">
 <td><p>10月9日</p></td>
@@ -291,7 +291,7 @@
 <td><p>11月20日</p></td>
 <td><p>第8話</p></td>
 <td><p>危険なレッスン!</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/田崎竜太" title="wikilink">田﨑竜太</a></p></td>
+<td><p><a href="../Page/田崎竜太.md" title="wikilink">田﨑竜太</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -320,14 +320,14 @@
 <td><p>12月18日</p></td>
 <td><p>第12話</p></td>
 <td><p>欲望のハーモニー!</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長谷川圭一" title="wikilink">長谷川圭一</a></p></td>
+<td><p><a href="../Page/長谷川圭一.md" title="wikilink">長谷川圭一</a></p></td>
 <td><p>宮坂武志</p></td>
 </tr>
 <tr class="odd">
 <td><p>12月25日</p></td>
 <td><p>第13話</p></td>
 <td><p>合コンしちゃうぞ!</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/三条陸" title="wikilink">三条陸</a></p></td>
+<td><p><a href="../Page/三条陸.md" title="wikilink">三条陸</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -358,7 +358,7 @@
 <td><p>第17話</p></td>
 <td><p>悪魔のアンサンブル!</p></td>
 <td><p>犬飼和彦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/雨宮慶太" title="wikilink">雨宮慶太</a></p></td>
+<td><p><a href="../Page/雨宮慶太.md" title="wikilink">雨宮慶太</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2月5日</p></td>
@@ -447,14 +447,14 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/TXN" title="wikilink">テレビ東京系列</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/TVQ九州放送.md" title="wikilink">TVQ九州放送</a></p></td>
 <td><p>2007年10月4日 - 2008年3月27日</p></td>
 <td><p>木曜 26時48分 - 27時18分</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/大阪府" title="wikilink">大阪府</a></p></td>
+<td><p><a href="../Page/大阪府.md" title="wikilink">大阪府</a></p></td>
 <td><p><a href="../Page/テレビ大阪.md" title="wikilink">テレビ大阪</a>（TVO）</p></td>
 <td><p>2007年10月6日 - 2008年3月29日</p></td>
 <td><p>土曜 26時05分 - 26時35分</p></td>
@@ -475,7 +475,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/岡山県・香川県の放送" title="wikilink">岡山県・香川県</a></p></td>
+<td><p><a href="../Page/岡山県・香川県の放送.md" title="wikilink">岡山県・香川県</a></p></td>
 <td><p><a href="../Page/テレビせとうち.md" title="wikilink">テレビせとうち</a>（TSC）</p></td>
 <td><p>2007年10月13日 - 2008年4月5日</p></td>
 <td><p>土曜 26時10分 - 26時40分</p></td>
@@ -511,7 +511,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/全国放送.md" title="wikilink">全国放送</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東映チャンネル" title="wikilink">東映チャンネル</a><br />
+<td><p><a href="../Page/東映チャンネル.md" title="wikilink">東映チャンネル</a><br />
 （本放送）</p></td>
 <td><p>2008年7月4日 - 12月19日</p></td>
 <td><p>「スーパーヒロイン<br />
@@ -558,14 +558,14 @@
 </tbody>
 </table>
 
-  - 2007年10月9日のテレビ東京での第2話およびテレビ愛知での第1話は、[クライマックスシリーズ](https://ja.wikipedia.org/wiki/クライマックスシリーズ "wikilink")第1ステージ放送延長のため、放送開始時間が40分繰り下げられた。
+  - 2007年10月9日のテレビ東京での第2話およびテレビ愛知での第1話は、[クライマックスシリーズ](../Page/クライマックスシリーズ.md "wikilink")第1ステージ放送延長のため、放送開始時間が40分繰り下げられた。
   - 主演・原幹恵の出身地、新潟県の放送局であるTeNYの公式サイト内では系列外の番組にも関わらず特設サイトが設置されていた。
   - 福島県は同番組が[東北地方](https://ja.wikipedia.org/wiki/東北地方 "wikilink")で唯一ネットされている県となった。次番組は[ゴルゴ13](../Page/ゴルゴ13.md "wikilink")を放送した。ちなみに東北地方の中心地・[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")では放送されなかった。
-  - テレビせとうちは前作は[瀬戸の花嫁で次番組はテレビ大阪と同じく](https://ja.wikipedia.org/wiki/瀬戸の花嫁_\(漫画\)#テレビアニメ "wikilink")[ヴァンパイア騎士](https://ja.wikipedia.org/wiki/ヴァンパイア騎士 "wikilink")を放送した。
+  - テレビせとうちは前作は[瀬戸の花嫁で次番組はテレビ大阪と同じく](https://ja.wikipedia.org/wiki/瀬戸の花嫁_\(漫画\)#テレビアニメ "wikilink")[ヴァンパイア騎士](../Page/ヴァンパイア騎士.md "wikilink")を放送した。
   - ファミリー劇場にて、DVD限定版の第26回まで放送。
   - ファミリー劇場では、放送に入る前に、「この番組は、オリジナルを尊重して放送致します。」という断りテロップが入った。
   - ファミリー劇場での2013年1月6日放送分は、28時00分時点で、[EPG](https://ja.wikipedia.org/wiki/EPG "wikilink")の番組枠が区切られた。
-  - [バンダイチャンネル](https://ja.wikipedia.org/wiki/バンダイチャンネル "wikilink")でも配信されている\[3\]。なお、内容はテレビ版をベースにしている。
+  - [バンダイチャンネル](../Page/バンダイチャンネル.md "wikilink")でも配信されている\[3\]。なお、内容はテレビ版をベースにしている。
 
 ## 関連商品
 

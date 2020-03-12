@@ -19,15 +19,15 @@
 
   - \- [ディノ・ゾフ](../Page/ディノ・ゾフ.md "wikilink")
 
-  - \- [ボビー・ムーア](https://ja.wikipedia.org/wiki/ボビー・ムーア "wikilink")
+  - \- [ボビー・ムーア](../Page/ボビー・ムーア.md "wikilink")
 
-  - \- [ジョン・チャールズ](https://ja.wikipedia.org/wiki/ジョン・チャールズ "wikilink")
+  - \- [ジョン・チャールズ](../Page/ジョン・チャールズ.md "wikilink")
 
   - \- [オレグ・ブロヒン](../Page/オレグ・ブロヒン.md "wikilink")
 
-  - \- [マルト・ポーム](https://ja.wikipedia.org/wiki/マルト・ポーム "wikilink")
+  - \- [マルト・ポーム](../Page/マルト・ポーム.md "wikilink")
 
-  - \- [ヘルベルト・プロハスカ](https://ja.wikipedia.org/wiki/ヘルベルト・プロハスカ "wikilink")
+  - \- [ヘルベルト・プロハスカ](../Page/ヘルベルト・プロハスカ.md "wikilink")
 
   - \- [ヨハン・クライフ](https://ja.wikipedia.org/wiki/ヨハン・クライフ "wikilink")
 
@@ -39,7 +39,7 @@
 
   - \- [ヴァシリス・ハツィパナギス](https://ja.wikipedia.org/wiki/ヴァシリス・ハツィパナギス "wikilink")
 
-  - \- [ダヴォール・シューケル](https://ja.wikipedia.org/wiki/ダヴォール・シューケル "wikilink")
+  - \- [ダヴォール・シューケル](../Page/ダヴォール・シューケル.md "wikilink")
 
   - \- [マッシモ・ボニーニ](https://ja.wikipedia.org/wiki/マッシモ・ボニーニ "wikilink")
 
@@ -57,21 +57,21 @@
 
   - \- [ブランコ・オブラク](https://ja.wikipedia.org/wiki/ブランコ・オブラク "wikilink")
 
-  - \- [ドラガン・ジャイッチ](https://ja.wikipedia.org/wiki/ドラガン・ジャイッチ "wikilink")
+  - \- [ドラガン・ジャイッチ](../Page/ドラガン・ジャイッチ.md "wikilink")
 
   - \- [ヨゼフ・マソプスト](../Page/ヨゼフ・マソプスト.md "wikilink")
 
-  - \- [ミカエル・ラウドルップ](https://ja.wikipedia.org/wiki/ミカエル・ラウドルップ "wikilink")
+  - \- [ミカエル・ラウドルップ](../Page/ミカエル・ラウドルップ.md "wikilink")
 
-  - \- [フリッツ・ヴァルター](https://ja.wikipedia.org/wiki/フリッツ・ヴァルター "wikilink")
+  - \- [フリッツ・ヴァルター](../Page/フリッツ・ヴァルター.md "wikilink")
 
-  - \- [ハカン・シュキュル](https://ja.wikipedia.org/wiki/ハカン・シュキュル "wikilink")
+  - \- [ハカン・シュキュル](../Page/ハカン・シュキュル.md "wikilink")
 
   - \- [ルネ・ブラツェット](../Page/ルネ・ブラツェット.md "wikilink")
 
   - \- [フェレンツ・プスカシュ](../Page/フェレンツ・プスカシュ.md "wikilink")
 
-  - \- [ヤリ・リトマネン](https://ja.wikipedia.org/wiki/ヤリ・リトマネン "wikilink")
+  - \- [ヤリ・リトマネン](../Page/ヤリ・リトマネン.md "wikilink")
 
   - \- [アブラハム・レーキン](https://ja.wikipedia.org/wiki/アブラハム・レーキン "wikilink")
 
@@ -79,7 +79,7 @@
 
   - \- [フリスト・ストイチコフ](../Page/フリスト・ストイチコフ.md "wikilink")
 
-  - \- [セルゲイ・アレイニコフ](https://ja.wikipedia.org/wiki/セルゲイ・アレイニコフ "wikilink")
+  - \- [セルゲイ・アレイニコフ](../Page/セルゲイ・アレイニコフ.md "wikilink")
 
   - \- [ポール・ヴァン・ヒムスト](https://ja.wikipedia.org/wiki/ポール・ヴァン・ヒムスト "wikilink")
 
@@ -97,7 +97,7 @@
 
   - \- [アレクサンドルス・スタルコフス](https://ja.wikipedia.org/wiki/アレクサンドルス・スタルコフス "wikilink")
 
-  - \- [アルミナス・ナルベコヴァス](https://ja.wikipedia.org/wiki/アルミナス・ナルベコヴァス "wikilink")
+  - \- [アルミナス・ナルベコヴァス](../Page/アルミナス・ナルベコヴァス.md "wikilink")
 
   - \- [ライナー・ハスラー](https://ja.wikipedia.org/wiki/ライナー・ハスラー "wikilink")
 

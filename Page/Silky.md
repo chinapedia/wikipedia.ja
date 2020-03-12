@@ -13,7 +13,7 @@
 
 ## 掲載作品
 
-  - イシャコイ（[林久美子](https://ja.wikipedia.org/wiki/林久美子 "wikilink")）
+  - イシャコイ（[林久美子](../Page/林久美子.md "wikilink")）
   - 一筆入婚\!（[高田りえ](../Page/高田りえ.md "wikilink")）
   - [おいしいオット・ライフ](https://ja.wikipedia.org/wiki/おいしいオット・ライフ "wikilink")（[ほしのゆみ](https://ja.wikipedia.org/wiki/ほしのゆみ "wikilink")）
   - おれのものになりなさい〜女執事の恋〜（[水谷京子](https://ja.wikipedia.org/wiki/水谷京子 "wikilink")）
@@ -23,7 +23,7 @@
   - [抱いて抱いて抱いて♥ダーリン](https://ja.wikipedia.org/wiki/抱いて抱いて抱いてダーリン "wikilink")、M式プリンセス（[酒井美羽](../Page/酒井美羽.md "wikilink")）
   - てきとーロンドナー（[玖保キリコ](../Page/玖保キリコ.md "wikilink")）
   - [何度生まれかわっても](https://ja.wikipedia.org/wiki/天使契約 "wikilink")（宮川匡代）
-  - ニュースになりたいっ\!（[杜野亜希](https://ja.wikipedia.org/wiki/杜野亜希 "wikilink")）
+  - ニュースになりたいっ\!（[杜野亜希](../Page/杜野亜希.md "wikilink")）
   - [パズルゲーム☆トレジャー→パズルゲーム☆Pro](https://ja.wikipedia.org/wiki/パズルゲーム☆はいすくーる "wikilink")（[野間美由紀](../Page/野間美由紀.md "wikilink")）
   - [パパ\!? パタリロ](https://ja.wikipedia.org/wiki/パタリロ#番外作品 "wikilink")（[魔夜峰央](../Page/魔夜峰央.md "wikilink")）
   - ぷりぷりふたごシスターズ（[ももせたまみ](../Page/ももせたまみ.md "wikilink")）※単行本1巻発行に合わせて『ツインぴーくす』より改題
@@ -34,16 +34,16 @@
   - あなたがわたしと暮らしたら（[山田可南](../Page/山田可南.md "wikilink")）
   - いっしょに歩こう（[たなかしんこ](https://ja.wikipedia.org/wiki/たなかしんこ "wikilink")）
   - 祝田さん（[入江紀子](../Page/入江紀子.md "wikilink")）
-  - [おかあさんの卵](https://ja.wikipedia.org/wiki/おかあさんの卵 "wikilink")（[星崎真紀](https://ja.wikipedia.org/wiki/星崎真紀 "wikilink")）
+  - [おかあさんの卵](https://ja.wikipedia.org/wiki/おかあさんの卵 "wikilink")（[星崎真紀](../Page/星崎真紀.md "wikilink")）
       - （外部リンク）
   - 奥様はセイコちゃん（[中西裕](https://ja.wikipedia.org/wiki/中西裕 "wikilink")）
-  - 女ともだちRIEKO（[長浜幸子](https://ja.wikipedia.org/wiki/長浜幸子 "wikilink")）
+  - 女ともだちRIEKO（[長浜幸子](../Page/長浜幸子.md "wikilink")）
   - 風家族（[立原あゆみ](../Page/立原あゆみ.md "wikilink")）
   - [キッチン パレット〜小麦の恋愛風味 修行仕立て〜](https://ja.wikipedia.org/wiki/キッチン_パレット〜小麦の恋愛風味_修行仕立て〜 "wikilink")（[高田りえ](../Page/高田りえ.md "wikilink")）
   - [Kiss and Fight](https://ja.wikipedia.org/wiki/Kiss_and_Fight "wikilink")（[宮川匡代](../Page/宮川匡代.md "wikilink")）
   - 結婚クッキングBOOK（星崎真紀）
   - [幸せな食卓](https://ja.wikipedia.org/wiki/幸せな食卓 "wikilink")（[遠藤淑子](../Page/遠藤淑子.md "wikilink")）
-  - [子子家庭は危機一髪](https://ja.wikipedia.org/wiki/子子家庭は危機一髪 "wikilink")（[いがらしゆみこ](https://ja.wikipedia.org/wiki/いがらしゆみこ "wikilink")、原作：[赤川次郎](../Page/赤川次郎.md "wikilink")）
+  - [子子家庭は危機一髪](../Page/子子家庭は危機一髪.md "wikilink")（[いがらしゆみこ](https://ja.wikipedia.org/wiki/いがらしゆみこ "wikilink")、原作：[赤川次郎](../Page/赤川次郎.md "wikilink")）
   - [くるくるシニカル](../Page/シニカル・ヒステリー・アワー.md "wikilink")（[玖保キリコ](../Page/玖保キリコ.md "wikilink")）
   - 社長秘書室シリーズ（[高口里純](../Page/高口里純.md "wikilink")）
   - 自由律（立原あゆみ）
@@ -52,13 +52,13 @@
   - [象の背中 -追憶のベッド-](../Page/象の背中.md "wikilink")（[林久美子](https://ja.wikipedia.org/wiki/林久美子_\(漫画家\) "wikilink")、原作：[秋元康](../Page/秋元康.md "wikilink")）
   - 橘屋繁盛記（[高橋もとこ](https://ja.wikipedia.org/wiki/高橋もとこ "wikilink")）
   - たとえ世界に背いても（長江朋美）
-  - デパートの女神（[杜野亜希](https://ja.wikipedia.org/wiki/杜野亜希 "wikilink")）
+  - デパートの女神（[杜野亜希](../Page/杜野亜希.md "wikilink")）
   - [デリカレ](https://ja.wikipedia.org/wiki/デリカレ "wikilink")（[松苗あけみ](../Page/松苗あけみ.md "wikilink")）
   - [天使契約](https://ja.wikipedia.org/wiki/天使契約 "wikilink")（宮川匡代）
   - トラブル・メーカー（[伊万里すみ子](https://ja.wikipedia.org/wiki/伊万里すみ子 "wikilink")）
   - なんぎな奥さん（入江紀子）
   - [バニティ・リーグ](https://ja.wikipedia.org/wiki/バニティ・リーグ "wikilink")（宮川匡代）
-  - [ハムスターの研究レポート](https://ja.wikipedia.org/wiki/ハムスターの研究レポート "wikilink")（[大雪師走](https://ja.wikipedia.org/wiki/大雪師走 "wikilink")）
+  - [ハムスターの研究レポート](../Page/ハムスターの研究レポート.md "wikilink")（[大雪師走](../Page/大雪師走.md "wikilink")）
   - 101回目のトラバーユ（[酒井美羽](../Page/酒井美羽.md "wikilink")）
   - [ファミリーアワー](https://ja.wikipedia.org/wiki/ファミリーアワー "wikilink")（[遠藤淑子](../Page/遠藤淑子.md "wikilink")）
   - 夫婦は天下のまわりもの（酒井美羽）
@@ -106,7 +106,7 @@
 
 ## 単行本レーベル
 
-『Silky』『Love Silky』及びそれらの増刊号で発表された作品は、基本的に**白泉社レディースコミックス**（略称は**HLC**）に収録して発売される。ただし、『Love Silky』で新連載された作品に関しては、**[花とゆめコミックス](https://ja.wikipedia.org/wiki/花とゆめコミックス "wikilink")スペシャル**（略称は**HCS**）からの発売となる。いずれも判型は基本的に新書版となっている（ただし、1990年代まで発売されたHLCについてはB6版で発売されていた）。
+『Silky』『Love Silky』及びそれらの増刊号で発表された作品は、基本的に**白泉社レディースコミックス**（略称は**HLC**）に収録して発売される。ただし、『Love Silky』で新連載された作品に関しては、**[花とゆめコミックス](../Page/花とゆめコミックス.md "wikilink")スペシャル**（略称は**HCS**）からの発売となる。いずれも判型は基本的に新書版となっている（ただし、1990年代まで発売されたHLCについてはB6版で発売されていた）。
 HLCは実質的に『Silky』のみを対象にしているため、単行本の表紙には正方形型の『HLC Silky PRESENTS』ロゴが入っている。ただし、当初は『Silky』だけでなく、同時期に創刊された『SERIE』（1985年7月創刊、1990年9月休刊）やその姉妹誌『SERIE MYSTERY』（1988年2月創刊、1997年5月休刊）なども対象にしていた。
 
 ## 脚注

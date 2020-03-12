@@ -3,23 +3,23 @@
 
 **アレン・M・サムナー級駆逐艦** () は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中に建造された[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[駆逐艦](../Page/駆逐艦.md "wikilink")の艦級。
 
-先行する[フレッチャー級の拡大発展型であるが](../Page/フレッチャー級駆逐艦.md "wikilink")、艦のバランスと航続性能の限界が指摘され、さらに改良された[ギアリング級へと移行した](https://ja.wikipedia.org/wiki/ギアリング級駆逐艦 "wikilink")。第二次世界大戦後も艦隊駆逐艦の一翼を担い、近代化改修を受けつつ[1970年代](../Page/1970年代.md "wikilink")まで運用されていたほか、多くの退役艦が同盟国で再就役し、一部艦は[1990年代](../Page/1990年代.md "wikilink")まで現役であった。
+先行する[フレッチャー級の拡大発展型であるが](../Page/フレッチャー級駆逐艦.md "wikilink")、艦のバランスと航続性能の限界が指摘され、さらに改良された[ギアリング級へと移行した](../Page/ギアリング級駆逐艦.md "wikilink")。第二次世界大戦後も艦隊駆逐艦の一翼を担い、近代化改修を受けつつ[1970年代](../Page/1970年代.md "wikilink")まで運用されていたほか、多くの退役艦が同盟国で再就役し、一部艦は[1990年代](../Page/1990年代.md "wikilink")まで現役であった。
 
 ## 設計
 
 本級は当初、フレッチャー級の改良型として、[38口径5インチ単装砲](https://ja.wikipedia.org/wiki/Mk_12_5インチ砲 "wikilink")6基の搭載を計画した。しかし設計途中で、同じMk.12砲を連装に配したMk.38砲塔が実用化され、ネックになっていた損傷時の応急操作も発電機能力の増強で対応できる見通しが立った\[1\]ことからこちらが採用され、前部に2基を背負式に、後部に1基を搭載することとされた。このような経緯から、設計面ではおおむね同級のものが踏襲されているが、2・3番砲の射界を確保するため、上部構造物は減高された。なお初期建造艦では、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")式の後部が暴露された構造が採用されていたが、用兵側から不評であり、後に改修された。また、1基あたり約50トンもの大重量となる連装砲塔を前部に2基搭載したことによって艦首側の重量が増加し、予備浮力が減少したことから、特に荒天時の凌波性低下が顕著であったほか、船体にかかる負荷も大きいという問題があった\[2\]。またフレッチャー級では1枚舵であったのに対し、本級より2枚舵とされている\[3\]。
 
-主機関も同様にフレッチャー級のものがベースとされており、主ボイラーは[バブコック・アンド・ウィルコックス](https://ja.wikipedia.org/wiki/バブコック・アンド・ウィルコックス "wikilink")（B\&W）社製の重油専焼式[水管ボイラーを](https://ja.wikipedia.org/wiki/ボイラー#水管ボイラー "wikilink")4缶、主機は[ゼネラル・エレクトリック](https://ja.wikipedia.org/wiki/ゼネラル・エレクトリック "wikilink")（GE）社製のオール・ギヤード[蒸気タービン](../Page/蒸気タービン.md "wikilink")と、いずれも同形式である。船体が大型化していることから、速力はやや低下した。また蒸気圧力はに低下している\[4\]。
+主機関も同様にフレッチャー級のものがベースとされており、主ボイラーは[バブコック・アンド・ウィルコックス](../Page/バブコック・アンド・ウィルコックス.md "wikilink")（B\&W）社製の重油専焼式[水管ボイラーを](https://ja.wikipedia.org/wiki/ボイラー#水管ボイラー "wikilink")4缶、主機は[ゼネラル・エレクトリック](../Page/ゼネラル・エレクトリック.md "wikilink")（GE）社製のオール・ギヤード[蒸気タービン](../Page/蒸気タービン.md "wikilink")と、いずれも同形式である。船体が大型化していることから、速力はやや低下した。また蒸気圧力はに低下している\[4\]。
 
-燃料搭載量は[重油](https://ja.wikipedia.org/wiki/重油 "wikilink")538 t、航続力は15ノットで6,500海里と、フレッチャー級と同性能で計画されたが、戦時では同速力で4,220海里と、既に航続距離の低落傾向が指摘されていたフレッチャー級の4,490海里よりもさらに短縮していたことから、用兵側の不満を買った。当時、艦隊主力が高速の[航空母艦](../Page/航空母艦.md "wikilink")に切り替わり、巡航速力が向上していたことから、これは特に問題であった\[5\]\[6\]。
+燃料搭載量は[重油](../Page/重油.md "wikilink")538 t、航続力は15ノットで6,500海里と、フレッチャー級と同性能で計画されたが、戦時では同速力で4,220海里と、既に航続距離の低落傾向が指摘されていたフレッチャー級の4,490海里よりもさらに短縮していたことから、用兵側の不満を買った。当時、艦隊主力が高速の[航空母艦](../Page/航空母艦.md "wikilink")に切り替わり、巡航速力が向上していたことから、これは特に問題であった\[5\]\[6\]。
 
 ## 装備
 
-上記の通り、本級では、[主砲](https://ja.wikipedia.org/wiki/主砲 "wikilink")として[38口径5インチ両用砲を](https://ja.wikipedia.org/wiki/Mk_12_5インチ砲 "wikilink")3基の連装砲塔に配して、計6門を搭載しており、同砲5門搭載のフレッチャー級と比して砲撃戦力は向上した。また連装砲塔の採用によって甲板上のスペースが活用できるようになったことから[高角機銃も大幅に増強されており](../Page/対空砲.md "wikilink")、当初より1番煙突両舷に[ボフォース 40mm機銃の連装砲架が各](https://ja.wikipedia.org/wiki/ボフォース_40mm機関砲 "wikilink")1基、2番煙突後方の右舷側と後部[魚雷発射管](https://ja.wikipedia.org/wiki/魚雷発射管 "wikilink")の左舷側に4連装砲架が各1基の計12門が搭載されていた。その後、[日本軍](https://ja.wikipedia.org/wiki/日本軍 "wikilink")の[特別攻撃隊](https://ja.wikipedia.org/wiki/特別攻撃隊 "wikilink")の脅威が深刻となったことから、後部魚雷発射管をバーターに、4連装砲架がさらに1基搭載されている\[7\]。
+上記の通り、本級では、[主砲](../Page/主砲.md "wikilink")として[38口径5インチ両用砲を](https://ja.wikipedia.org/wiki/Mk_12_5インチ砲 "wikilink")3基の連装砲塔に配して、計6門を搭載しており、同砲5門搭載のフレッチャー級と比して砲撃戦力は向上した。また連装砲塔の採用によって甲板上のスペースが活用できるようになったことから[高角機銃も大幅に増強されており](../Page/対空砲.md "wikilink")、当初より1番煙突両舷に[ボフォース 40mm機銃の連装砲架が各](../Page/ボフォース_40mm機関砲.md "wikilink")1基、2番煙突後方の右舷側と後部[魚雷発射管](../Page/魚雷発射管.md "wikilink")の左舷側に4連装砲架が各1基の計12門が搭載されていた。その後、[日本軍](../Page/日本軍.md "wikilink")の[特別攻撃隊](https://ja.wikipedia.org/wiki/特別攻撃隊 "wikilink")の脅威が深刻となったことから、後部魚雷発射管をバーターに、4連装砲架がさらに1基搭載されている\[7\]。
 
-[USS_Waldron_(DD-699)_underway_at_sea,_in_1964_(NH_96835-KN).jpg](https://ja.wikipedia.org/wiki/File:USS_Waldron_\(DD-699\)_underway_at_sea,_in_1964_\(NH_96835-KN\).jpg "fig:USS_Waldron_(DD-699)_underway_at_sea,_in_1964_(NH_96835-KN).jpg") [戦後](../Page/戦後.md "wikilink")、水中高速潜の普及・[原子力潜水艦](../Page/原子力潜水艦.md "wikilink")の登場に伴い、[護衛駆逐艦](https://ja.wikipedia.org/wiki/護衛駆逐艦 "wikilink")より高速な艦隊駆逐艦に[対潜戦](https://ja.wikipedia.org/wiki/対潜戦 "wikilink")能力が求められるようになったことから、1950年代初頭には爆雷投下軌条を撤去して[ヘッジホッグ](https://ja.wikipedia.org/wiki/ヘッジホッグ_\(兵器\) "wikilink")[対潜迫撃砲](https://ja.wikipedia.org/wiki/対潜迫撃砲 "wikilink")を搭載し、また[ソナー](../Page/ソナー.md "wikilink")を旧式のサーチライト・ソナーから新型のスキャニング・ソナーである[AN/SQS-4](https://ja.wikipedia.org/wiki/AN/SQS-4 "wikilink")に換装する改修が行われた。また40mm・20mm機銃も、戦後に実用化された新型両用砲である[Mk.33 3インチ連装速射砲に換装されている](https://ja.wikipedia.org/wiki/Mk_33_3インチ砲 "wikilink")。
+[USS_Waldron_(DD-699)_underway_at_sea,_in_1964_(NH_96835-KN).jpg](https://ja.wikipedia.org/wiki/File:USS_Waldron_\(DD-699\)_underway_at_sea,_in_1964_\(NH_96835-KN\).jpg "fig:USS_Waldron_(DD-699)_underway_at_sea,_in_1964_(NH_96835-KN).jpg") [戦後](../Page/戦後.md "wikilink")、水中高速潜の普及・[原子力潜水艦](../Page/原子力潜水艦.md "wikilink")の登場に伴い、[護衛駆逐艦](../Page/護衛駆逐艦.md "wikilink")より高速な艦隊駆逐艦に[対潜戦](../Page/対潜戦.md "wikilink")能力が求められるようになったことから、1950年代初頭には爆雷投下軌条を撤去して[ヘッジホッグ](../Page/ヘッジホッグ_\(兵器\).md "wikilink")[対潜迫撃砲](https://ja.wikipedia.org/wiki/対潜迫撃砲 "wikilink")を搭載し、また[ソナー](../Page/ソナー.md "wikilink")を旧式のサーチライト・ソナーから新型のスキャニング・ソナーである[AN/SQS-4](https://ja.wikipedia.org/wiki/AN/SQS-4 "wikilink")に換装する改修が行われた。また40mm・20mm機銃も、戦後に実用化された新型両用砲である[Mk.33 3インチ連装速射砲に換装されている](https://ja.wikipedia.org/wiki/Mk_33_3インチ砲 "wikilink")。
 
-その後、[1959年](../Page/1959年.md "wikilink")から[1960年代](../Page/1960年代.md "wikilink")初頭には、その時点で現役にあった本級の相当数（32隻）を対象として、[FRAM-II改修が行われた](https://ja.wikipedia.org/wiki/:en:Fleet_Rehabilitation_and_Modernization#FRAM_II "wikilink")。これは艦齢を5年分延長し、レーダーを更新する（対空捜索用は[AN/SPS-29](https://ja.wikipedia.org/wiki/AN/SPS-29 "wikilink") / [37](https://ja.wikipedia.org/wiki/AN/SPS-29 "wikilink") / [40のいずれか一つ](https://ja.wikipedia.org/wiki/AN/SPS-40 "wikilink")、対水上捜索用は[AN/SPS-10](https://ja.wikipedia.org/wiki/AN/SPS-10 "wikilink")）とともに、5連装長魚雷発射管と爆雷装備をバーターとして対潜長魚雷発射管、[3連装短魚雷発射管](https://ja.wikipedia.org/wiki/Mk_32_短魚雷発射管 "wikilink")、[QH-50 DASHなど新世代の](https://ja.wikipedia.org/wiki/QH-50_DASH "wikilink")[対潜兵器](https://ja.wikipedia.org/wiki/対潜兵器 "wikilink")を搭載するものであった。また一部艦にはAN/SQA-10[可変深度ソナー](https://ja.wikipedia.org/wiki/可変深度ソナー "wikilink")も搭載された\[8\]\[9\]\[10\]。
+その後、[1959年](../Page/1959年.md "wikilink")から[1960年代](../Page/1960年代.md "wikilink")初頭には、その時点で現役にあった本級の相当数（32隻）を対象として、[FRAM-II改修が行われた](https://ja.wikipedia.org/wiki/:en:Fleet_Rehabilitation_and_Modernization#FRAM_II "wikilink")。これは艦齢を5年分延長し、レーダーを更新する（対空捜索用は[AN/SPS-29](https://ja.wikipedia.org/wiki/AN/SPS-29 "wikilink") / [37](https://ja.wikipedia.org/wiki/AN/SPS-29 "wikilink") / [40のいずれか一つ](https://ja.wikipedia.org/wiki/AN/SPS-40 "wikilink")、対水上捜索用は[AN/SPS-10](https://ja.wikipedia.org/wiki/AN/SPS-10 "wikilink")）とともに、5連装長魚雷発射管と爆雷装備をバーターとして対潜長魚雷発射管、[3連装短魚雷発射管](https://ja.wikipedia.org/wiki/Mk_32_短魚雷発射管 "wikilink")、[QH-50 DASHなど新世代の](https://ja.wikipedia.org/wiki/QH-50_DASH "wikilink")[対潜兵器](../Page/対潜兵器.md "wikilink")を搭載するものであった。また一部艦にはAN/SQA-10[可変深度ソナー](https://ja.wikipedia.org/wiki/可変深度ソナー "wikilink")も搭載された\[8\]\[9\]\[10\]。
 
 ## 配備
 
@@ -137,7 +137,7 @@
 </tr>
 <tr class="odd">
 <td><p>DD-723</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウォーク_(DD-723)" title="wikilink">ウォーク</a><br />
+<td><p><a href="../Page/ウォーク_(DD-723).md" title="wikilink">ウォーク</a><br />
 <a href="https://ja.wikipedia.org/wiki/:en:USS_Walke_(DD-723)" title="wikilink">USS <em>Walke</em></a></p></td>
 </tr>
 <tr class="even">
@@ -177,7 +177,7 @@
 </tr>
 <tr class="odd">
 <td><p>DD-731</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マドックス_(DD-731)" title="wikilink">マドックス</a><br />
+<td><p><a href="../Page/マドックス_(DD-731).md" title="wikilink">マドックス</a><br />
 <a href="https://ja.wikipedia.org/wiki/:en:USS_Maddox_(DD-731)" title="wikilink">USS <em>Maddox</em></a></p></td>
 </tr>
 <tr class="even">
@@ -187,7 +187,7 @@
 </tr>
 <tr class="odd">
 <td><p>DD-733</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マナート・L・エベール_(駆逐艦)" title="wikilink">マナート・L・エベール</a><br />
+<td><p><a href="../Page/マナート・L・エベール_(駆逐艦).md" title="wikilink">マナート・L・エベール</a><br />
 <a href="https://ja.wikipedia.org/wiki/:en:USS_Mannert_L._Abele_(DD-733)" title="wikilink">USS <em>Mannert L. Abele</em></a></p></td>
 </tr>
 <tr class="even">
@@ -233,7 +233,7 @@ DM-28</p></td>
 </tr>
 <tr class="odd">
 <td><p>DD-741</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ドレクスラー_(駆逐艦)" title="wikilink">ドレクスラー</a><br />
+<td><p><a href="../Page/ドレクスラー_(駆逐艦).md" title="wikilink">ドレクスラー</a><br />
 <a href="https://ja.wikipedia.org/wiki/:en:USS_Drexler_(DD-741)" title="wikilink">USS <em>Drexler</em></a></p></td>
 </tr>
 <tr class="even">
@@ -403,7 +403,7 @@ DM-34</p></td>
 </tr>
 <tr class="even">
 <td><p>DD-857</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブリストル_(DD-857)" title="wikilink">ブリストル</a><br />
+<td><p><a href="../Page/ブリストル_(DD-857).md" title="wikilink">ブリストル</a><br />
 <a href="https://ja.wikipedia.org/wiki/:en:USS_Bristol_(DD-857)" title="wikilink">USS <em>Bristol</em></a></p></td>
 </tr>
 </tbody>
@@ -411,7 +411,7 @@ DM-34</p></td>
 
 ### アメリカ国外での運用
 
-[300px](https://ja.wikipedia.org/wiki/ファイル:Iranian_destroyer_Babr_\(D-61\)_underway_on_1_November_1977_\(6420606\).jpg "wikilink") [SAMの単装発射筒をそれぞれ](../Page/艦対空ミサイル.md "wikilink")2基ずつ搭載している。\[11\]\]\] 退役後、20隻以上が[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")や[大韓民国](https://ja.wikipedia.org/wiki/大韓民国 "wikilink")、[トルコ](../Page/トルコ.md "wikilink")、[パフラヴィー朝](../Page/パフラヴィー朝.md "wikilink")下[イラン](../Page/イラン.md "wikilink")等の[西側諸国](https://ja.wikipedia.org/wiki/西側諸国 "wikilink")に供与された。
+[300px](https://ja.wikipedia.org/wiki/ファイル:Iranian_destroyer_Babr_\(D-61\)_underway_on_1_November_1977_\(6420606\).jpg "wikilink") [SAMの単装発射筒をそれぞれ](../Page/艦対空ミサイル.md "wikilink")2基ずつ搭載している。\[11\]\]\] 退役後、20隻以上が[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")や[大韓民国](../Page/大韓民国.md "wikilink")、[トルコ](../Page/トルコ.md "wikilink")、[パフラヴィー朝](../Page/パフラヴィー朝.md "wikilink")下[イラン](../Page/イラン.md "wikilink")等の[西側諸国](../Page/西側諸国.md "wikilink")に供与された。
 
   -
   -

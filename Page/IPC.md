@@ -6,17 +6,17 @@
   - [CPU](../Page/CPU.md "wikilink")における  または 。
   - [割り込み処理通信](https://ja.wikipedia.org/wiki/割り込み処理通信 "wikilink")
   - [インターネットプロトコル](https://ja.wikipedia.org/wiki/インターネットプロトコル "wikilink")を用いた[通信](../Page/通信.md "wikilink") 。
-  - [国際特許分類](https://ja.wikipedia.org/wiki/国際特許分類 "wikilink") 。
+  - [国際特許分類](../Page/国際特許分類.md "wikilink") 。
   - [国際農業食料貿易政策協議会](https://ja.wikipedia.org/wiki/国際農業食料貿易政策協議会 "wikilink") 。
-  - [国際パラリンピック委員会](https://ja.wikipedia.org/wiki/国際パラリンピック委員会 "wikilink") 。
+  - [国際パラリンピック委員会](../Page/国際パラリンピック委員会.md "wikilink") 。
   - [インターナショナル・パシフィック・カレッジ](https://ja.wikipedia.org/wiki/インターナショナル・パシフィック・カレッジ "wikilink") 。
   - [IPC (エレクトロニクス)](https://ja.wikipedia.org/wiki/IPC_\(エレクトロニクス\) "wikilink")  - プリント回路協会。
   - [国際郵便機構](https://ja.wikipedia.org/wiki/国際郵便機構 "wikilink") (International Post Corporation)
-  - [インクリメント・ピー](https://ja.wikipedia.org/wiki/インクリメント・ピー "wikilink") 。
+  - [インクリメント・ピー](../Page/インクリメント・ピー.md "wikilink") 。
   - [アイピーシー](https://ja.wikipedia.org/wiki/アイピーシー "wikilink")  - かつて存在した日本の出版社。
   - [アイピーシーワールド](https://ja.wikipedia.org/wiki/アイピーシー・ワールド "wikilink")
-  - [人工多能性幹細胞](https://ja.wikipedia.org/wiki/人工多能性幹細胞 "wikilink") 。
-  - [樹状細胞](https://ja.wikipedia.org/wiki/樹状細胞 "wikilink") 。
+  - [人工多能性幹細胞](../Page/人工多能性幹細胞.md "wikilink") 。
+  - [樹状細胞](../Page/樹状細胞.md "wikilink") 。
   - [飯田町紙流通センター](https://ja.wikipedia.org/wiki/飯田町紙流通センター "wikilink") 。
   - [暫間的間接覆髄法](https://ja.wikipedia.org/wiki/暫間的間接覆髄法 "wikilink") 。
   - 国際調達センター  - 類義語として[国際調達事務所](https://ja.wikipedia.org/wiki/国際調達事務所 "wikilink")（IPO）がある。

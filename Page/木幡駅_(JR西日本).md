@@ -3,9 +3,9 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:NEC_0112.jpg "wikilink")
 
-**木幡駅**（こはたえき）は、[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")[宇治市](../Page/宇治市.md "wikilink")木幡大瀬戸にある、[西日本旅客鉄道](https://ja.wikipedia.org/wiki/西日本旅客鉄道 "wikilink")（JR西日本）[奈良線](../Page/奈良線.md "wikilink")の[駅である](https://ja.wikipedia.org/wiki/鉄道駅 "wikilink")。駅番号は**JR-D07**。
+**木幡駅**（こはたえき）は、[京都府](../Page/京都府.md "wikilink")[宇治市](../Page/宇治市.md "wikilink")木幡大瀬戸にある、[西日本旅客鉄道](../Page/西日本旅客鉄道.md "wikilink")（JR西日本）[奈良線](../Page/奈良線.md "wikilink")の[駅である](../Page/鉄道駅.md "wikilink")。駅番号は**JR-D07**。
 
-JRの駅名は「こ**は**た」であるが、近隣にある[京阪](https://ja.wikipedia.org/wiki/京阪電気鉄道 "wikilink")[宇治線の](../Page/京阪宇治線.md "wikilink")[木幡駅は](https://ja.wikipedia.org/wiki/木幡駅_\(京阪\) "wikilink")「こ**わ**た」と、それぞれ読み方が異なる。また、駅周辺の一部地名には「こ**ば**た」と読むものもある。
+JRの駅名は「こ**は**た」であるが、近隣にある[京阪](../Page/京阪電気鉄道.md "wikilink")[宇治線の](../Page/京阪宇治線.md "wikilink")[木幡駅は](../Page/木幡駅_\(京阪\).md "wikilink")「こ**わ**た」と、それぞれ読み方が異なる。また、駅周辺の一部地名には「こ**ば**た」と読むものもある。
 
 ## 歴史
 
@@ -21,19 +21,19 @@ JRの駅名は「こ**は**た」であるが、近隣にある[京阪](https://
 
 ### 沿革
 
-  - [1896年](../Page/1896年.md "wikilink")（[明治](../Page/明治.md "wikilink")29年）[1月25日](../Page/1月25日.md "wikilink") - [奈良鉄道](https://ja.wikipedia.org/wiki/奈良鉄道 "wikilink")の[桃山駅](https://ja.wikipedia.org/wiki/桃山駅 "wikilink") - [玉水駅](https://ja.wikipedia.org/wiki/玉水駅 "wikilink")間延伸にともないに開業する。
+  - [1896年](../Page/1896年.md "wikilink")（[明治](../Page/明治.md "wikilink")29年）[1月25日](../Page/1月25日.md "wikilink") - [奈良鉄道](../Page/奈良鉄道.md "wikilink")の[桃山駅](../Page/桃山駅.md "wikilink") - [玉水駅](https://ja.wikipedia.org/wiki/玉水駅 "wikilink")間延伸にともないに開業する。
   - [1905年](../Page/1905年.md "wikilink")（明治38年）[2月7日](../Page/2月7日.md "wikilink") - 会社合併により[関西鉄道](../Page/関西鉄道.md "wikilink")の駅となる。
   - [1907年](../Page/1907年.md "wikilink")（明治40年）[10月1日](../Page/10月1日.md "wikilink") - 関西鉄道が[国有化され](../Page/鉄道国有法.md "wikilink")、[帝国鉄道庁](https://ja.wikipedia.org/wiki/帝国鉄道庁 "wikilink")（国有鉄道）所管となる。
   - [1909年](../Page/1909年.md "wikilink")（明治42年）[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink") - 線路名称が制定され、[奈良線](../Page/奈良線.md "wikilink")の所属となる。
-  - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（[昭和](../Page/昭和.md "wikilink")62年）[4月1日](../Page/4月1日.md "wikilink") - [国鉄分割民営化](https://ja.wikipedia.org/wiki/国鉄分割民営化 "wikilink")により、[西日本旅客鉄道](https://ja.wikipedia.org/wiki/西日本旅客鉄道 "wikilink")（JR西日本）の駅となる。
-  - [1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")（[平成](../Page/平成.md "wikilink")4年）[11月1日](../Page/11月1日.md "wikilink") - [みどりの窓口](../Page/みどりの窓口.md "wikilink")の営業を開始する\[8\]。
+  - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（[昭和](../Page/昭和.md "wikilink")62年）[4月1日](../Page/4月1日.md "wikilink") - [国鉄分割民営化](../Page/国鉄分割民営化.md "wikilink")により、[西日本旅客鉄道](../Page/西日本旅客鉄道.md "wikilink")（JR西日本）の駅となる。
+  - [1992年](../Page/1992年.md "wikilink")（[平成](../Page/平成.md "wikilink")4年）[11月1日](../Page/11月1日.md "wikilink") - [みどりの窓口](../Page/みどりの窓口.md "wikilink")の営業を開始する\[8\]。
   - [2001年](../Page/2001年.md "wikilink")（平成13年）[3月3日](../Page/3月3日.md "wikilink") - [ダイヤ改正](../Page/ダイヤ改正.md "wikilink")に伴い中線の使用を廃止し、線路を撤去する。これにより、2面3線から2面2線となる。
   - [2003年](../Page/2003年.md "wikilink")（平成15年）[11月1日](../Page/11月1日.md "wikilink") - [ICカード](../Page/ICカード.md "wikilink")「[ICOCA](../Page/ICOCA.md "wikilink")」の利用が可能となる\[9\]。
   - [2012年](../Page/2012年.md "wikilink")（平成24年）
       - [4月15日](../Page/4月15日.md "wikilink") - 線路が撤去されていた中線部分に再度線路を敷設し、新2番線として使用を開始する。これにより、旧2番線は廃止される。
       - [7月](https://ja.wikipedia.org/wiki/7月 "wikilink") - 木幡踏切の改良工事が完了\[10\]。
   - [2018年](../Page/2018年.md "wikilink")（平成30年）
-      - [3月17日](../Page/3月17日.md "wikilink") - [駅ナンバリング](https://ja.wikipedia.org/wiki/駅ナンバリング "wikilink")が導入され、使用を開始。
+      - [3月17日](../Page/3月17日.md "wikilink") - [駅ナンバリング](../Page/駅ナンバリング.md "wikilink")が導入され、使用を開始。
       - [6月30日](../Page/6月30日.md "wikilink") - エレベーター、多機能トイレの使用を開始\[11\]。
       - [10月6日](../Page/10月6日.md "wikilink") - 新駅舎の使用を開始。
 
@@ -41,7 +41,7 @@ JRの駅名は「こ**は**た」であるが、近隣にある[京阪](https://
 
 [相対式ホーム](https://ja.wikipedia.org/wiki/相対式ホーム "wikilink")2面2線を持つ行違い可能な[地上駅](../Page/地上駅.md "wikilink")。もとは2面3線であったが、2001年3月のダイヤ改正後に[一線スルー](../Page/一線スルー.md "wikilink")に変更された際、中線の2番線が撤去され旧3番線が新2番線となった。その後、2012年4月には構内にある木幡踏切の道路延長短縮（後述）のため中線跡を活用する形で旧2番線を復帰させ新2番線を廃止した\[12\]\[13\]。
 
-[宇治駅が管理し](../Page/宇治駅_\(JR西日本\).md "wikilink")、[JR西日本交通サービス](https://ja.wikipedia.org/wiki/JR西日本交通サービス "wikilink")が駅業務を受託\[14\]している[業務委託駅である](https://ja.wikipedia.org/wiki/日本の鉄道駅#業務委託駅 "wikilink")。
+[宇治駅が管理し](../Page/宇治駅_\(JR西日本\).md "wikilink")、[JR西日本交通サービス](../Page/JR西日本交通サービス.md "wikilink")が駅業務を受託\[14\]している[業務委託駅である](https://ja.wikipedia.org/wiki/日本の鉄道駅#業務委託駅 "wikilink")。
 
 [ICカード乗車券](../Page/乗車カード.md "wikilink")「[ICOCA](../Page/ICOCA.md "wikilink")」\[15\]を利用することができる。
 
@@ -168,19 +168,19 @@ JRの駅名は「こ**は**た」であるが、近隣にある[京阪](https://
 
 ## 駅周辺
 
-  - [木幡駅](https://ja.wikipedia.org/wiki/木幡駅_\(京阪\) "wikilink")（[京阪](https://ja.wikipedia.org/wiki/京阪電気鉄道 "wikilink")[宇治線](../Page/京阪宇治線.md "wikilink")） - 西に徒歩5分ほど。
+  - [木幡駅](../Page/木幡駅_\(京阪\).md "wikilink")（[京阪](../Page/京阪電気鉄道.md "wikilink")[宇治線](../Page/京阪宇治線.md "wikilink")） - 西に徒歩5分ほど。
   - [宇治陵](https://ja.wikipedia.org/wiki/宇治陵 "wikilink")
   - 願行寺
   - [許波多神社](https://ja.wikipedia.org/wiki/許波多神社#木幡の許波多神社 "wikilink")
   - 木幡緑道 - *[\#歴史](https://ja.wikipedia.org/wiki/#歴史 "wikilink")の項目を参照。*
-  - [宇治警察署](https://ja.wikipedia.org/wiki/宇治警察署 "wikilink")木幡（こはた）交番 - 駅南東5分ほど。
+  - [宇治警察署](../Page/宇治警察署.md "wikilink")木幡（こはた）交番 - 駅南東5分ほど。
   - 京都医療[少年院](../Page/少年院.md "wikilink")
-  - [京都府道7号京都宇治線](https://ja.wikipedia.org/wiki/京都府道7号京都宇治線 "wikilink")
-  - [京都府立東宇治高等学校](https://ja.wikipedia.org/wiki/京都府立東宇治高等学校 "wikilink")
+  - [京都府道7号京都宇治線](../Page/京都府道7号京都宇治線.md "wikilink")
+  - [京都府立東宇治高等学校](../Page/京都府立東宇治高等学校.md "wikilink")
   - [宇治市立木幡中学校](https://ja.wikipedia.org/wiki/宇治市立木幡中学校 "wikilink")
   - 洛陽第二幼稚園
   - 宇治木幡郵便局
-  - [京都アニメーション](https://ja.wikipedia.org/wiki/京都アニメーション "wikilink") - 駅前に本社スタジオが存在する。
+  - [京都アニメーション](../Page/京都アニメーション.md "wikilink") - 駅前に本社スタジオが存在する。
   - [パナソニックエレクトロニックデバイス](../Page/パナソニックグループ.md "wikilink") キャパシタビジネスユニット\[16\]
   - 松殿山荘
 
@@ -198,14 +198,14 @@ JRの駅名は「こ**は**た」であるが、近隣にある[京阪](https://
         普通
 
           -
-            [六地蔵駅](https://ja.wikipedia.org/wiki/六地蔵駅 "wikilink") (JR-D06) - **木幡駅 (JR-D07)** - [黄檗駅](https://ja.wikipedia.org/wiki/黄檗駅 "wikilink") (JR-D08)
+            [六地蔵駅](https://ja.wikipedia.org/wiki/六地蔵駅 "wikilink") (JR-D06) - **木幡駅 (JR-D07)** - [黄檗駅](../Page/黄檗駅.md "wikilink") (JR-D08)
 
 ## 脚注
 
 ## 関連項目
 
   - [日本の鉄道駅一覧](../Page/日本の鉄道駅一覧.md "wikilink")
-  - [日本の同一駅名・同一市町村で所在地が異なる駅の一覧](https://ja.wikipedia.org/wiki/日本の同一駅名・同一市町村で所在地が異なる駅の一覧 "wikilink")
+  - [日本の同一駅名・同一市町村で所在地が異なる駅の一覧](../Page/日本の同一駅名・同一市町村で所在地が異なる駅の一覧.md "wikilink")
 
 ## 外部リンク
 

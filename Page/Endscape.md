@@ -1,7 +1,7 @@
 > この記事は[Endscape](https://ja.wikipedia.org/wiki/Endscape)から翻訳されています。
 
 
-「**endscape**」（エンドスケープ）は、[UVERworld](../Page/UVERworld.md "wikilink")の7枚目の[シングル](../Page/シングル.md "wikilink")である。発売元は、[gr8\!records](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")(SME)。
+「**endscape**」（エンドスケープ）は、[UVERworld](../Page/UVERworld.md "wikilink")の7枚目の[シングル](../Page/シングル.md "wikilink")である。発売元は、[gr8\!records](../Page/ソニー・ミュージックレコーズ.md "wikilink")(SME)。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 初回限定盤には特典DVD、『[地球へ…](../Page/地球へ….md "wikilink")』描き下ろしワイドキャップステッカー・特製タロットカード付。
 
-[PVはUVERworldでは初の](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")[CGを使用し](../Page/コンピュータグラフィックス.md "wikilink")、またこれまでのUVERworldにはなかった白の世界観を見せている。監督は[w-inds.](https://ja.wikipedia.org/wiki/w-inds. "wikilink")の「[Long Road](https://ja.wikipedia.org/wiki/Long_Road "wikilink")」や[伊藤由奈](https://ja.wikipedia.org/wiki/伊藤由奈 "wikilink")の「Stuck on you」「losin'」などでメガホンを取った[久保茂昭](../Page/久保茂昭.md "wikilink")。またPVでのメンバーのジャンプした数は、今作のPVが一番多い。
+[PVはUVERworldでは初の](../Page/ミュージック・ビデオ.md "wikilink")[CGを使用し](../Page/コンピュータグラフィックス.md "wikilink")、またこれまでのUVERworldにはなかった白の世界観を見せている。監督は[w-inds.](https://ja.wikipedia.org/wiki/w-inds. "wikilink")の「[Long Road](../Page/Long_Road.md "wikilink")」や[伊藤由奈](https://ja.wikipedia.org/wiki/伊藤由奈 "wikilink")の「Stuck on you」「losin'」などでメガホンを取った[久保茂昭](../Page/久保茂昭.md "wikilink")。またPVでのメンバーのジャンプした数は、今作のPVが一番多い。
 
 また、TAKUYA∞は2ndアルバム『[BUGRIGHT](../Page/BUGRIGHT.md "wikilink")』のリードトラック「ゼロの答」のPVでは黒髪の短髪だったが、今作では金髪にしている。
 
@@ -28,7 +28,7 @@
 1.  **endscape**
     :\***<small>作詞:TAKUYA∞　/　作曲:UVERworld　/　編曲:UVERworld , [平出悟](https://ja.wikipedia.org/wiki/平出悟 "wikilink")</small>**
       -
-        [MBS](../Page/毎日放送.md "wikilink")・[TBS系連続テレビアニメ](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")『[地球へ…](../Page/地球へ….md "wikilink")』第一期オープニングテーマ。前奏の部分を長くするか短くするかでTAKUYA∞とメンバー4人の意見が分かれた曲。結局シングルバージョンはTAKUYA∞の意見通りに前奏を長くし、メンバー4人の短めの前奏は3rdアルバム『[PROGLUTION](https://ja.wikipedia.org/wiki/PROGLUTION "wikilink")』でアルバムバージョンで使われた。
+        [MBS](../Page/毎日放送.md "wikilink")・[TBS系連続テレビアニメ](../Page/TBSテレビ.md "wikilink")『[地球へ…](../Page/地球へ….md "wikilink")』第一期オープニングテーマ。前奏の部分を長くするか短くするかでTAKUYA∞とメンバー4人の意見が分かれた曲。結局シングルバージョンはTAKUYA∞の意見通りに前奏を長くし、メンバー4人の短めの前奏は3rdアルバム『[PROGLUTION](https://ja.wikipedia.org/wiki/PROGLUTION "wikilink")』でアルバムバージョンで使われた。
         ライブでは2009年以来披露されていなかったが、2018年の彰生誕祭で9年越しに披露された。
         仮タイトルは「TERA」
 2.  **UNKNOWN ORCHESTRA**

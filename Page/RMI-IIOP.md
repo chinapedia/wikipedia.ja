@@ -1,13 +1,13 @@
 > この記事は[RMI-IIOP](https://ja.wikipedia.org/wiki/RMI-IIOP)から翻訳されています。
 
 
-**RMI-IIOP**（RMI オーバー IIOP）とは、[CORBAシステム上の](../Page/Common_Object_Request_Broker_Architecture.md "wikilink")[Java](https://ja.wikipedia.org/wiki/Java "wikilink") [RMIインタフェースを指す](https://ja.wikipedia.org/wiki/Java_Remote_Method_Invocation "wikilink")。
+**RMI-IIOP**（RMI オーバー IIOP）とは、[CORBAシステム上の](../Page/Common_Object_Request_Broker_Architecture.md "wikilink")[Java](https://ja.wikipedia.org/wiki/Java "wikilink") [RMIインタフェースを指す](../Page/Java_Remote_Method_Invocation.md "wikilink")。
 
 ## 概要
 
-この標準は、CORBA の利点を保ちつつ、CORBA アプリケーションの開発を単純化するべく作成された。RMI-IIOP は、CORBA 構造体、共用体、シーケンス、配列、文字列などを置換するコンテナとして働く Object by Value の概念に基づいている（[CORBAの項目を参照](https://ja.wikipedia.org/wiki/Common_Object_Request_Broker_Architecture#Objects_by_Value_\(OBV\) "wikilink")）。[IDLは使われていない](https://ja.wikipedia.org/wiki/インタフェース記述言語 "wikilink")。代わりに自動的にデータ構造定義を推定し、[リフレクション機構で必要なデータを集める](https://ja.wikipedia.org/wiki/リフレクション_\(情報工学\) "wikilink")。CORBA では転送すべきデータ構造ごとに補助的なクラスを生成する必要があるが、RMI-IIOP ではリモートオブジェクト向けに生成されたコードを使うだけでよい。生成すべきコード量が少ないため、メモリ使用量も減らせる。
+この標準は、CORBA の利点を保ちつつ、CORBA アプリケーションの開発を単純化するべく作成された。RMI-IIOP は、CORBA 構造体、共用体、シーケンス、配列、文字列などを置換するコンテナとして働く Object by Value の概念に基づいている（[CORBAの項目を参照](https://ja.wikipedia.org/wiki/Common_Object_Request_Broker_Architecture#Objects_by_Value_\(OBV\) "wikilink")）。[IDLは使われていない](../Page/インタフェース記述言語.md "wikilink")。代わりに自動的にデータ構造定義を推定し、[リフレクション機構で必要なデータを集める](../Page/リフレクション_\(情報工学\).md "wikilink")。CORBA では転送すべきデータ構造ごとに補助的なクラスを生成する必要があるが、RMI-IIOP ではリモートオブジェクト向けに生成されたコードを使うだけでよい。生成すべきコード量が少ないため、メモリ使用量も減らせる。
 
-CORBA と RMI-IIOP はどちらも通信規格の [GIOP](https://ja.wikipedia.org/wiki/GIOP "wikilink") を使用している。RMI-IIOP のデータ構造について、必要ならば[IDLを生成することも可能で](https://ja.wikipedia.org/wiki/インタフェース記述言語 "wikilink")、それを使って、RMI-IIOP と 純粋な CORBA アプリケーションの相互運用を行うことも可能である。
+CORBA と RMI-IIOP はどちらも通信規格の [GIOP](../Page/GIOP.md "wikilink") を使用している。RMI-IIOP のデータ構造について、必要ならば[IDLを生成することも可能で](../Page/インタフェース記述言語.md "wikilink")、それを使って、RMI-IIOP と 純粋な CORBA アプリケーションの相互運用を行うことも可能である。
 
 RMI-IIOP の最近のバージョンでは標準の[サーバントクラスからサーバントを生成できる](https://ja.wikipedia.org/wiki/サーバント_\(CORBA\) "wikilink")。これを使うと CORBA の ORB に手動で接続でき、Portable Object Adapter、Portable Interceptor、CORBA のネーミングサービスなどの各種 CORBA 機能に接続可能である。
 
@@ -143,11 +143,11 @@ ORB スレッドが開始した後で、以下のコードを実行する:
 
 最初にサーバ、次にクライアントがそれぞれ別のマシン上で開始される（同一マシンの別プロセスでもよい）。サーバは *The client says: it is raining* と表示する。クライアントは **And the answer is:** *Yes, it is raining, it is raining, it is raining..* と表示する。
 
-ここに示したコードは[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")の Java 1.5 と [GNU Classpath](https://ja.wikipedia.org/wiki/GNU_Classpath "wikilink") 0.95 で動作する。
+ここに示したコードは[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")の Java 1.5 と [GNU Classpath](../Page/GNU_Classpath.md "wikilink") 0.95 で動作する。
 
 ## 略語利用の法的問題
 
-IIOP という略称は[OMGの商標であり](https://ja.wikipedia.org/wiki/Object_Management_Group "wikilink")、利用には注意が必要である。このプロトコルは GIOP 上にあるため、GIOPを利用しているとした方がよい場合もある。これは間違いではないが、やや正確さを欠く（GIOP の実装は他にも様々存在する）。詳しくは[GIOP](https://ja.wikipedia.org/wiki/GIOP "wikilink")を参照されたい。
+IIOP という略称は[OMGの商標であり](../Page/Object_Management_Group.md "wikilink")、利用には注意が必要である。このプロトコルは GIOP 上にあるため、GIOPを利用しているとした方がよい場合もある。これは間違いではないが、やや正確さを欠く（GIOP の実装は他にも様々存在する）。詳しくは[GIOP](../Page/GIOP.md "wikilink")を参照されたい。
 
 ## 外部リンク
 

@@ -1,7 +1,7 @@
 > この記事は[NEXAVE](https://ja.wikipedia.org/wiki/NEXAVE)から翻訳されています。
 
 
-**NEXAVE**（ネクサーブ）は、株式会社[シマノ](../Page/シマノ.md "wikilink")が開発、販売する[シティサイクル](https://ja.wikipedia.org/wiki/シティサイクル "wikilink")向け[コンポーネントである](../Page/コンポーネント_\(自転車\).md "wikilink")。NEXAVEとは、「Next」と「Avenue」を合成したシマノによる造語である\[1\]。
+**NEXAVE**（ネクサーブ）は、株式会社[シマノ](../Page/シマノ.md "wikilink")が開発、販売する[シティサイクル](../Page/シティサイクル.md "wikilink")向け[コンポーネントである](../Page/コンポーネント_\(自転車\).md "wikilink")。NEXAVEとは、「Next」と「Avenue」を合成したシマノによる造語である\[1\]。
 
 ## 概要
 

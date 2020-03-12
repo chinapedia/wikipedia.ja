@@ -1,7 +1,7 @@
 > この記事は[GIOP](https://ja.wikipedia.org/wiki/GIOP)から翻訳されています。
 
 
-**GIOP**（General Inter-ORB Protocol）とは、[分散コンピューティング](../Page/分散コンピューティング.md "wikilink")における[Object Request Broker](https://ja.wikipedia.org/wiki/Object_Request_Broker "wikilink")(ORB)間の抽象[プロトコルである](../Page/通信プロトコル.md "wikilink")。このプロトコルに関する標準規格は[Object Management Group](https://ja.wikipedia.org/wiki/Object_Management_Group "wikilink")(OMG)が管理している。
+**GIOP**（General Inter-ORB Protocol）とは、[分散コンピューティング](../Page/分散コンピューティング.md "wikilink")における[Object Request Broker](https://ja.wikipedia.org/wiki/Object_Request_Broker "wikilink")(ORB)間の抽象[プロトコルである](../Page/通信プロトコル.md "wikilink")。このプロトコルに関する標準規格は[Object Management Group](../Page/Object_Management_Group.md "wikilink")(OMG)が管理している。
 
 **IIOP**（Internet Inter-ORB Protocol）とは、[TCP/IP](https://ja.wikipedia.org/wiki/TCP/IP "wikilink")上の **GIOP** の実装である。つまり、抽象プロトコルである GIOP の実体化である。
 

@@ -5,13 +5,13 @@
 
 ## 概要
 
-  - [ダンス☆マン](../Page/ダンス☆マン.md "wikilink")のアレンジによる楽曲としては最後のシングルとなる楽曲。間奏ではセンターの[矢口真里](https://ja.wikipedia.org/wiki/矢口真里 "wikilink")が中央で[コサックダンス](https://ja.wikipedia.org/wiki/コサックダンス "wikilink")風の[ダンス](https://ja.wikipedia.org/wiki/ダンス "wikilink")を踊り、初の「センターポジション」となる（ちなみに間奏はロシア歌曲『[カリンカ](https://ja.wikipedia.org/wiki/カリンカ "wikilink")』をアレンジしている）。発売時のアーティスト写真では前列中央で、ジャケット写真でも前列に位置する。このシングルは「ザ・[童謡ポップス](https://ja.wikipedia.org/wiki/童謡ポップス "wikilink")2〜春のうた集〜」と同時発売。
-  - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列『[アイドルをさがせ\!](https://ja.wikipedia.org/wiki/アイドルをさがせ! "wikilink")』のオープニングテーマ
-  - [TBS](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")『[2002年ソルトレークシティオリンピック](https://ja.wikipedia.org/wiki/2002年ソルトレークシティオリンピック "wikilink")』の[テーマソングであり](https://ja.wikipedia.org/wiki/主題歌 "wikilink")、[安倍なつみ](../Page/安倍なつみ.md "wikilink")は[和泉元彌](https://ja.wikipedia.org/wiki/和泉元彌 "wikilink")と共に同局のオリンピック番組キャスターを務めた。
-  - [タカラ](../Page/タカラ_\(玩具メーカー\).md "wikilink")「[e-kara](https://ja.wikipedia.org/wiki/e-kara "wikilink")N」の[CMでモーニング娘](https://ja.wikipedia.org/wiki/コマーシャルメッセージ "wikilink")。メンバーが[妖精](../Page/妖精.md "wikilink")に扮し、「[魔女](../Page/魔女.md "wikilink")の魔法で[カエル](../Page/カエル.md "wikilink")の姿に変えられたメンバーの魔法を解くため、[加護亜依](../Page/加護亜依.md "wikilink")が本楽曲を歌う」というものが制作され、2002年[6月3日](../Page/6月3日.md "wikilink")から放送された\[1\]。
-  - [カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")の「[モーニングコーヒー (2002version)](https://ja.wikipedia.org/wiki/モーニングコーヒー "wikilink")」は歌唱パートが入れ替わったメジャーデビュー曲の[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")である。
+  - [ダンス☆マン](../Page/ダンス☆マン.md "wikilink")のアレンジによる楽曲としては最後のシングルとなる楽曲。間奏ではセンターの[矢口真里](https://ja.wikipedia.org/wiki/矢口真里 "wikilink")が中央で[コサックダンス](https://ja.wikipedia.org/wiki/コサックダンス "wikilink")風の[ダンス](../Page/ダンス.md "wikilink")を踊り、初の「センターポジション」となる（ちなみに間奏はロシア歌曲『[カリンカ](https://ja.wikipedia.org/wiki/カリンカ "wikilink")』をアレンジしている）。発売時のアーティスト写真では前列中央で、ジャケット写真でも前列に位置する。このシングルは「ザ・[童謡ポップス](../Page/童謡ポップス.md "wikilink")2〜春のうた集〜」と同時発売。
+  - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列『[アイドルをさがせ\!](../Page/アイドルをさがせ!.md "wikilink")』のオープニングテーマ
+  - [TBS](../Page/TBSテレビ.md "wikilink")『[2002年ソルトレークシティオリンピック](https://ja.wikipedia.org/wiki/2002年ソルトレークシティオリンピック "wikilink")』の[テーマソングであり](../Page/主題歌.md "wikilink")、[安倍なつみ](../Page/安倍なつみ.md "wikilink")は[和泉元彌](../Page/和泉元彌.md "wikilink")と共に同局のオリンピック番組キャスターを務めた。
+  - [タカラ](../Page/タカラ_\(玩具メーカー\).md "wikilink")「[e-kara](https://ja.wikipedia.org/wiki/e-kara "wikilink")N」の[CMでモーニング娘](../Page/コマーシャルメッセージ.md "wikilink")。メンバーが[妖精](../Page/妖精.md "wikilink")に扮し、「[魔女](../Page/魔女.md "wikilink")の魔法で[カエル](../Page/カエル.md "wikilink")の姿に変えられたメンバーの魔法を解くため、[加護亜依](../Page/加護亜依.md "wikilink")が本楽曲を歌う」というものが制作され、2002年[6月3日](../Page/6月3日.md "wikilink")から放送された\[1\]。
+  - [カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")の「[モーニングコーヒー (2002version)](../Page/モーニングコーヒー.md "wikilink")」は歌唱パートが入れ替わったメジャーデビュー曲の[セルフカバー](../Page/セルフカバー.md "wikilink")である。
     :\* デビューからこの年まで4年間、モーニングコーヒー（原曲、もしくはアレンジ版）のレコーディングに参加していないメンバーは[市井紗耶香](../Page/市井紗耶香.md "wikilink")だけである。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[9月26日](../Page/9月26日.md "wikilink")に発売されたコンピレーションアルバム『[つんく♂ベスト作品集(上)「シャ乱Q〜モーニング娘。」〜つんく♂芸能生活15周年記念アルバム〜](https://ja.wikipedia.org/wiki/つんく♂ベスト作品集\(上\)「シャ乱Q〜モーニング娘。」〜つんく♂芸能生活15周年記念アルバム〜 "wikilink")』に収録されており、付属のブックレットにはこの曲のパート割りが記載されている。
+  - [2007年](../Page/2007年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")に発売されたコンピレーションアルバム『[つんく♂ベスト作品集(上)「シャ乱Q〜モーニング娘。」〜つんく♂芸能生活15周年記念アルバム〜](../Page/つんく♂ベスト作品集\(上\)「シャ乱Q〜モーニング娘。」〜つんく♂芸能生活15周年記念アルバム〜.md "wikilink")』に収録されており、付属のブックレットにはこの曲のパート割りが記載されている。
 
 ## 収録曲
 
@@ -22,7 +22,7 @@
         編曲：ダンス☆マン
 2.  **モーニングコーヒー (2002version)**
       -
-        編曲：[鈴木俊介](https://ja.wikipedia.org/wiki/鈴木俊介 "wikilink")
+        編曲：[鈴木俊介](../Page/鈴木俊介.md "wikilink")
 3.  そうだ\! We're ALIVE (Instrumental)
 
 ## 参加メンバー
@@ -36,19 +36,19 @@
 ## 参加ミュージシャン
 
   - ダンス☆マン\&THE BAND☆MAN (1)
-      - [D.J.ICHIRO](https://ja.wikipedia.org/wiki/ピストン西沢 "wikilink") - [ターンテーブル](https://ja.wikipedia.org/wiki/ターンテーブル "wikilink")
-      - [WATA-BOO](https://ja.wikipedia.org/wiki/渡部チェル "wikilink") - [キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")
+      - [D.J.ICHIRO](../Page/ピストン西沢.md "wikilink") - [ターンテーブル](https://ja.wikipedia.org/wiki/ターンテーブル "wikilink")
+      - [WATA-BOO](../Page/渡部チェル.md "wikilink") - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")
       - JUMP MAN - [ギター](../Page/ギター.md "wikilink")
       - HYU HYU - [ドラム](../Page/ドラムセット.md "wikilink")
       - STAGE CHAKKA MAN - [パーカッション](../Page/パーカッション.md "wikilink")
       - RELIEF○MAN - [ベース](https://ja.wikipedia.org/wiki/ベースギター "wikilink")&ギター
   - つんく - [コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")(1,2)
   - [江口信夫](https://ja.wikipedia.org/wiki/江口信夫 "wikilink") - ドラム(2)
-  - [沖山優司](https://ja.wikipedia.org/wiki/沖山優司 "wikilink") - ベース(2)
-  - [鈴木俊介](https://ja.wikipedia.org/wiki/鈴木俊介 "wikilink") - ギター(2)
-  - [中西康晴](https://ja.wikipedia.org/wiki/中西康晴 "wikilink") - [ピアノ](../Page/ピアノ.md "wikilink")(2)
+  - [沖山優司](../Page/沖山優司.md "wikilink") - ベース(2)
+  - [鈴木俊介](../Page/鈴木俊介.md "wikilink") - ギター(2)
+  - [中西康晴](../Page/中西康晴.md "wikilink") - [ピアノ](../Page/ピアノ.md "wikilink")(2)
   - 河合代介 - キーボード(2)
-  - 田井基良 - [タンバリン](https://ja.wikipedia.org/wiki/タンバリン "wikilink")(2)
+  - 田井基良 - [タンバリン](../Page/タンバリン.md "wikilink")(2)
 
 ## 脚注
 

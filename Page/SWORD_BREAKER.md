@@ -1,9 +1,9 @@
 > この記事は[SWORD BREAKER](https://ja.wikipedia.org/wiki/SWORD_BREAKER)から翻訳されています。
 
 
-『**SWORD BREAKER**』（ソードブレイカー）は、[2002年](../Page/2002年.md "wikilink")に[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")で連載された[梅澤春人の](https://ja.wikipedia.org/wiki/梅澤春人 "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")および作中に登場する武具の名称である。同年35号から51号まで連載された。
+『**SWORD BREAKER**』（ソードブレイカー）は、[2002年](../Page/2002年.md "wikilink")に[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")で連載された[梅澤春人の](../Page/梅澤春人.md "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")および作中に登場する武具の名称である。同年35号から51号まで連載された。
 
-単行本は全2巻。[ハイ・ファンタジー](https://ja.wikipedia.org/wiki/ハイ・ファンタジー "wikilink")を題材とした[ファンタジー漫画](../Page/ファンタジー漫画.md "wikilink")で、従来の作品とは違った独特の絵のタッチや、本作の敵であるアバルの信徒のキャラクター造形などが特徴的である。
+単行本は全2巻。[ハイ・ファンタジー](../Page/ハイ・ファンタジー.md "wikilink")を題材とした[ファンタジー漫画](../Page/ファンタジー漫画.md "wikilink")で、従来の作品とは違った独特の絵のタッチや、本作の敵であるアバルの信徒のキャラクター造形などが特徴的である。
 
 ## あらすじ
 

@@ -1,15 +1,15 @@
 > この記事は[Just Melody](https://ja.wikipedia.org/wiki/Just_Melody)から翻訳されています。
 
 
-「**just Melody**」（ジャスト・メロディー）は、[UVERworld](../Page/UVERworld.md "wikilink")の3枚目の[シングル](../Page/シングル.md "wikilink")である。発売元は、[gr8\!records](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")(SME)。
+「**just Melody**」（ジャスト・メロディー）は、[UVERworld](../Page/UVERworld.md "wikilink")の3枚目の[シングル](../Page/シングル.md "wikilink")である。発売元は、[gr8\!records](../Page/ソニー・ミュージックレコーズ.md "wikilink")(SME)。
 
 ## 概要
 
-1stアルバム『[Timeless](https://ja.wikipedia.org/wiki/Timeless_\(UVERworldのアルバム\) "wikilink")』からの先行シングル。
+1stアルバム『[Timeless](../Page/Timeless_\(UVERworldのアルバム\).md "wikilink")』からの先行シングル。
 
 初動は前作とほぼ変わらないが、自身唯一のトップ10入りを逃したのと同時に、売り上げも彼らのシングル作品のなかで最低の売り上げとなった。
 
-この曲で[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")系音楽番組『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』に初登場し一番最後に披露された。
+この曲で[テレビ朝日](../Page/テレビ朝日.md "wikilink")系音楽番組『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』に初登場し一番最後に披露された。
 
 キャッチコピーは、『*オリコン2作連続トップ5入りの注目バンドUVERworld ニューシングル！*』。
 
@@ -23,7 +23,7 @@
     :\***<small>作詞:TAKUYA∞ , Alice ice　/　作曲:TAKUYA∞ , 彰　/　編曲:UVERworld , [平出悟](https://ja.wikipedia.org/wiki/平出悟 "wikilink")</small>**
       -
         インディーズの頃のタイトルは「癒音」
-        テーマは「春に向けての旅立ち」であり、イントロ部分は[教会](../Page/教会.md "wikilink")をイメージして作られている。[PVは](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")[都内](../Page/都内.md "wikilink")の[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")にて一般公募で選ばれた約500名の[エキストラ](https://ja.wikipedia.org/wiki/エキストラ "wikilink")と共に[撮影](https://ja.wikipedia.org/wiki/撮影 "wikilink")している。PVの監督は前作に続いて[大喜多正毅](../Page/大喜多正毅.md "wikilink")。
+        テーマは「春に向けての旅立ち」であり、イントロ部分は[教会](../Page/教会.md "wikilink")をイメージして作られている。[PVは](../Page/ミュージック・ビデオ.md "wikilink")[都内](../Page/都内.md "wikilink")の[ライブハウス](../Page/ライブハウス.md "wikilink")にて一般公募で選ばれた約500名の[エキストラ](../Page/エキストラ.md "wikilink")と共に[撮影](../Page/撮影.md "wikilink")している。PVの監督は前作に続いて[大喜多正毅](../Page/大喜多正毅.md "wikilink")。
 2.  **Revolve**
     :\***<small>作詞:TAKUYA∞ , Alice ice　/　作曲:TAKUYA∞　/　編曲:UVERworld , 平出悟</small>**
       -
@@ -31,7 +31,7 @@
 3.  **D-tecnoLife <small>(RYUKYUDISKO REMIX)</small>**
     :\***<small>作詞:TAKUYA∞　/　作曲:TAKUYA∞　/　編曲:RYUKYUDISKO</small>**
       -
-        UVERworldの1stシングル「[D-tecnoLife](https://ja.wikipedia.org/wiki/D-tecnoLife "wikilink")」を、[RYUKYUDISKO](https://ja.wikipedia.org/wiki/RYUKYUDISKO "wikilink")がリミックスしたヴァージョン。
+        UVERworldの1stシングル「[D-tecnoLife](../Page/D-tecnoLife.md "wikilink")」を、[RYUKYUDISKO](https://ja.wikipedia.org/wiki/RYUKYUDISKO "wikilink")がリミックスしたヴァージョン。
 
 ## 初回生産限定盤
 
@@ -45,7 +45,7 @@
 
 ### その他
 
-初回版の[ジャケットは](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")[蛍光](https://ja.wikipedia.org/wiki/蛍光 "wikilink")カラー仕様。
+初回版の[ジャケットは](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")[蛍光](../Page/蛍光.md "wikilink")カラー仕様。
 
 ## 初回仕様限定盤
 
@@ -69,7 +69,7 @@
 
 ## 関連項目
 
-  - [2006年の音楽](https://ja.wikipedia.org/wiki/2006年の音楽 "wikilink")
+  - [2006年の音楽](../Page/2006年の音楽.md "wikilink")
 
 [en:Just Melody](https://ja.wikipedia.org/wiki/en:Just_Melody "wikilink")
 

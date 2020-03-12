@@ -1,7 +1,7 @@
 > この記事は[Lifetime Respect](https://ja.wikipedia.org/wiki/Lifetime_Respect)から翻訳されています。
 
 
-「**Lifetime Respect**」（ライフタイム・リスペクト）は、日本の[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[三木道三](https://ja.wikipedia.org/wiki/三木道三 "wikilink")の11枚目の[シングル](../Page/シングル.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[5月23日](../Page/5月23日.md "wikilink")発売。発売元は[徳間ジャパンコミュニケーションズ](https://ja.wikipedia.org/wiki/徳間ジャパンコミュニケーションズ "wikilink")。なお、本稿では他のミュージシャンによるカバーについても述べる。
+「**Lifetime Respect**」（ライフタイム・リスペクト）は、日本の[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[三木道三](https://ja.wikipedia.org/wiki/三木道三 "wikilink")の11枚目の[シングル](../Page/シングル.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[5月23日](../Page/5月23日.md "wikilink")発売。発売元は[徳間ジャパンコミュニケーションズ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")。なお、本稿では他のミュージシャンによるカバーについても述べる。
 
 ## 解説
 
@@ -11,9 +11,9 @@
 
 本作発売時には既に[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")発売の[同名アルバムへの収録が決定しており](https://ja.wikipedia.org/wiki/Lifetime_Respect_\(アルバム\) "wikilink")、アルバム発売と同時にチャートから降下し、それほどロングヒットとはならなかったものの、累計売上は約90万枚まで伸び、同年のヒット作となった。アルバムも本作同様ヒットし、オリコンアルバムチャートで最高位2位を記録した。
 
-歌詞に「[Sex](https://ja.wikipedia.org/wiki/Sex "wikilink")」という単語があることから、テレビでの放送では[その部分が自粛されることがあった](https://ja.wikipedia.org/wiki/放送コード "wikilink")。
+歌詞に「[Sex](https://ja.wikipedia.org/wiki/Sex "wikilink")」という単語があることから、テレビでの放送では[その部分が自粛されることがあった](../Page/放送コード.md "wikilink")。
 
-[レイザーラモンRG](https://ja.wikipedia.org/wiki/レイザーラモンRG "wikilink")が[ハッスル](https://ja.wikipedia.org/wiki/ハッスル_\(プロレス\) "wikilink")（[プロレス](../Page/プロレス.md "wikilink")）時代に入場テーマ曲として使用しており、「あるあるをやる前はこれだった」と語っている\[2\]。
+[レイザーラモンRG](../Page/レイザーラモンRG.md "wikilink")が[ハッスル](https://ja.wikipedia.org/wiki/ハッスル_\(プロレス\) "wikilink")（[プロレス](../Page/プロレス.md "wikilink")）時代に入場テーマ曲として使用しており、「あるあるをやる前はこれだった」と語っている\[2\]。
 
 ## 収録曲
 
@@ -26,11 +26,11 @@
 
 ## 他のミュージシャンのアルバムへの収録
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[6月13日](../Page/6月13日.md "wikilink")に発売された[DJ MASTERKEYのアルバム](https://ja.wikipedia.org/wiki/DJ_MASTERKEY "wikilink")『FROM THE STREETS Vol.2』にLifetime Respectと明日の風が収録されている。
+[2007年](../Page/2007年.md "wikilink")[6月13日](../Page/6月13日.md "wikilink")に発売された[DJ MASTERKEYのアルバム](../Page/DJ_MASTERKEY.md "wikilink")『FROM THE STREETS Vol.2』にLifetime Respectと明日の風が収録されている。
 
 ## カバー
 
-オリジナル発売から約6年後の[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")に、[RSPによって](../Page/RSP_\(音楽グループ\).md "wikilink")「**Lifetime Respect -女編-**」というタイトルでカバーされ、12cmマキシ[シングル](../Page/シングル.md "wikilink")は同年[8月8日](../Page/8月8日.md "wikilink")に[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で発売された（リリース元は[SMR](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")）。三木道三への[アンサーソング](https://ja.wikipedia.org/wiki/アンサーソング "wikilink")という位置づけで、三木の歌唱も作品内の一部分で取り入れられている。
+オリジナル発売から約6年後の[2007年](../Page/2007年.md "wikilink")に、[RSPによって](../Page/RSP_\(音楽グループ\).md "wikilink")「**Lifetime Respect -女編-**」というタイトルでカバーされ、12cmマキシ[シングル](../Page/シングル.md "wikilink")は同年[8月8日](../Page/8月8日.md "wikilink")に[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で発売された（リリース元は[SMR](../Page/ソニー・ミュージックレコーズ.md "wikilink")）。三木道三への[アンサーソング](https://ja.wikipedia.org/wiki/アンサーソング "wikilink")という位置づけで、三木の歌唱も作品内の一部分で取り入れられている。
 
   - 収録曲
 

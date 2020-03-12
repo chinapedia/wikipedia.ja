@@ -5,9 +5,9 @@
 
 ## 概要
 
-「D-tecnoLife」の発売のすぐ後には、『[BLEACH　ヒート・ザ・ソウル2](https://ja.wikipedia.org/wiki/BLEACH_〜ヒート・ザ・ソウル〜 "wikilink")』の[CMで頻繁に流れていた](https://ja.wikipedia.org/wiki/コマーシャルメッセージ "wikilink")。 また、真太郎はこの曲について「自分の調子や上達を感じる基準にもなる曲」と語っている。 さらに、この曲で『[CDTV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")』、『[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』に初出演した。インディ―ズ時代最初に出来上がったバンドの原点の作品でもある。
+「D-tecnoLife」の発売のすぐ後には、『[BLEACH　ヒート・ザ・ソウル2](../Page/BLEACH_〜ヒート・ザ・ソウル〜.md "wikilink")』の[CMで頻繁に流れていた](../Page/コマーシャルメッセージ.md "wikilink")。 また、真太郎はこの曲について「自分の調子や上達を感じる基準にもなる曲」と語っている。 さらに、この曲で『[CDTV](../Page/COUNT_DOWN_TV.md "wikilink")』、『[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』に初出演した。インディ―ズ時代最初に出来上がったバンドの原点の作品でもある。
 
-テレビドラマ『[ダンドリ娘](../Page/ダンドリ娘.md "wikilink")』の[エンディングテーマに](https://ja.wikipedia.org/wiki/主題歌 "wikilink")、主題歌の5thシングル「[SHAMROCK](https://ja.wikipedia.org/wiki/SHAMROCK_\(曲\) "wikilink")」と共に起用された。
+テレビドラマ『[ダンドリ娘](../Page/ダンドリ娘.md "wikilink")』の[エンディングテーマに](../Page/主題歌.md "wikilink")、主題歌の5thシングル「[SHAMROCK](../Page/SHAMROCK_\(曲\).md "wikilink")」と共に起用された。
 
 キャッチコピーは『*デビューでオリコン初登場4位を記録したウーバー新曲！*』。
 
@@ -26,7 +26,7 @@ UVERｗorldのシングルで初動が一番低い（14155枚）が、2011年あ
 1.  **CHANCE\!**
       -
         作詞:TAKUYA∞　/　作曲:TAKUYA∞　/　編曲:UVERworld,[平出悟](https://ja.wikipedia.org/wiki/平出悟 "wikilink")　
-        [PlayStation Portable用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")『BLEACH ヒート・ザ・ソウル2』オープニングテーマ
+        [PlayStation Portable用ゲームソフト](../Page/PlayStation_Portable.md "wikilink")『BLEACH ヒート・ザ・ソウル2』オープニングテーマ
         [インディーズ](../Page/インディーズ.md "wikilink")時代に、手売りのCDとして発売された曲でPVも自分達で手がけた。ちなみに、このシングルのPVの撮影地は[埼玉県立大学](../Page/埼玉県立大学.md "wikilink")。PVの監督は[大喜多正毅](../Page/大喜多正毅.md "wikilink")。また、この作品からPVが[ハイビジョン](../Page/ハイビジョン.md "wikilink")で製作されるようになった。その為、デビュー曲以外のPVは基本的にハイビジョン製作となっている。
 2.  **PRIME**
       -
@@ -43,7 +43,7 @@ UVERｗorldのシングルで初動が一番低い（14155枚）が、2011年あ
 ## 収録作品
 
 1.  CHANCE\!
-      - 1stスタジオ・アルバム『[Timeless](https://ja.wikipedia.org/wiki/Timeless_\(UVERworldのアルバム\) "wikilink")』
+      - 1stスタジオ・アルバム『[Timeless](../Page/Timeless_\(UVERworldのアルバム\).md "wikilink")』
       - 1stベスト・アルバム『[-Neo SOUND BEST-](https://ja.wikipedia.org/wiki/-Neo_SOUND_BEST- "wikilink")』に「CHANCE\! (Re-Sing ver.)」として再レコーディングされて収録。
       - 2ndベスト・アルバム『[ALL TIME BEST](https://ja.wikipedia.org/wiki/ALL_TIME_BEST_\(UVERworldのアルバム\) "wikilink")(Disc 1)』
 2.  PRIME
@@ -56,8 +56,8 @@ UVERｗorldのシングルで初動が一番低い（14155枚）が、2011年あ
 ## 関連項目
 
   - [UVERworld](../Page/UVERworld.md "wikilink")
-  - [gr8\! records](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")
-  - [2005年の音楽](https://ja.wikipedia.org/wiki/2005年の音楽 "wikilink")
+  - [gr8\! records](../Page/ソニー・ミュージックレコーズ.md "wikilink")
+  - [2005年の音楽](../Page/2005年の音楽.md "wikilink")
   - [BLEACH](https://ja.wikipedia.org/wiki/BLEACH_\(アニメ\) "wikilink")
 
 [en:Chance\!](https://ja.wikipedia.org/wiki/en:Chance! "wikilink")

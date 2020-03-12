@@ -5,7 +5,7 @@
 
 ## 解説
 
-  - [プレイステーション3専用ソフト](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")『[FolksSoul -失われた伝承-](../Page/FolksSoul_-失われた伝承-.md "wikilink")』主題歌。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[5月22日](../Page/5月22日.md "wikilink")より「PLAYSTATION Store」と「FolksSoul -失われた伝承-公式[サイト](../Page/ウェブサイト.md "wikilink")」にて主題歌「Nephilim」を使用したプロモーションビデオが配信されている。
+  - [プレイステーション3専用ソフト](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")『[FolksSoul -失われた伝承-](../Page/FolksSoul_-失われた伝承-.md "wikilink")』主題歌。[2007年](../Page/2007年.md "wikilink")[5月22日](../Page/5月22日.md "wikilink")より「PLAYSTATION Store」と「FolksSoul -失われた伝承-公式[サイト](../Page/ウェブサイト.md "wikilink")」にて主題歌「Nephilim」を使用したプロモーションビデオが配信されている。
   - 初回版には、通常版とは異なる3大特典付き。
 
 :\#オリジナル学生手帳封入。
@@ -19,12 +19,12 @@
 ## 収録曲
 
 1.  **Nephilim**
-      - 作詞：[西川貴教](../Page/西川貴教.md "wikilink") / 作曲：[岸利至](https://ja.wikipedia.org/wiki/岸利至 "wikilink") / 編曲：abingdon boys school
+      - 作詞：[西川貴教](../Page/西川貴教.md "wikilink") / 作曲：[岸利至](../Page/岸利至.md "wikilink") / 編曲：abingdon boys school
     <!-- end list -->
       -
         PS3専用ソフト『FolksSoul -失われた伝承-』主題歌。
 2.  **LOST REASON**
-      - 作詞：西川貴教 / 作曲:[柴崎浩](https://ja.wikipedia.org/wiki/柴崎浩 "wikilink") / 編曲：abingdon boys school
+      - 作詞：西川貴教 / 作曲:[柴崎浩](../Page/柴崎浩.md "wikilink") / 編曲：abingdon boys school
 
 ## 収録アルバム
 
@@ -42,8 +42,8 @@
 
 ## 参加ミュージシャン
 
-  - [長谷川浩二](https://ja.wikipedia.org/wiki/長谷川浩二 "wikilink")：[ドラム](../Page/ドラムセット.md "wikilink")（\#1,2）
-  - [IKUO](https://ja.wikipedia.org/wiki/Ikuo "wikilink")：[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")（\#1,2）
+  - [長谷川浩二](../Page/長谷川浩二.md "wikilink")：[ドラム](../Page/ドラムセット.md "wikilink")（\#1,2）
+  - [IKUO](../Page/Ikuo.md "wikilink")：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")（\#1,2）
 
 ## 関連項目
 

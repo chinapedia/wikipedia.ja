@@ -1,17 +1,17 @@
 > この記事は[DAISHI DANCE](https://ja.wikipedia.org/wiki/DAISHI_DANCE)から翻訳されています。
 
 
-**DAISHI DANCE**（ダイシ・ダンス、[1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink")-）は、日本の男性[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[DJ](https://ja.wikipedia.org/wiki/ディスクジョッキー "wikilink")、リミキサー。
+**DAISHI DANCE**（ダイシ・ダンス、[1976年](../Page/1976年.md "wikilink")-）は、日本の男性[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[DJ](../Page/ディスクジョッキー.md "wikilink")、リミキサー。
 
 ## 概要
 
 現在は日本でDJ活動をしているが、自身のCDをリリースする以前の頃は地元の[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")を中心に活動していた。
 
-DJだけでなくその為の楽曲制作も積極的であり、以前はメロディアスな哀愁[ハウスミュージックが特徴だったが](https://ja.wikipedia.org/wiki/ハウス_\(音楽\) "wikilink")、2012年頃からは[EDM色が強くなっている](https://ja.wikipedia.org/wiki/エレクトロニック・ダンス・ミュージック "wikilink")。
+DJだけでなくその為の楽曲制作も積極的であり、以前はメロディアスな哀愁[ハウスミュージックが特徴だったが](../Page/ハウス_\(音楽\).md "wikilink")、2012年頃からは[EDM色が強くなっている](https://ja.wikipedia.org/wiki/エレクトロニック・ダンス・ミュージック "wikilink")。
 
 3台の[ターンテーブル](https://ja.wikipedia.org/wiki/ターンテーブル "wikilink")を駆使したハイブリッドでカッティングエッジなDJスタイルを採っている。
 
-以前は[STUDIO APARTMENTや](../Page/Studio_Apartment.md "wikilink")、[FreeTEMPO](https://ja.wikipedia.org/wiki/FreeTEMPO "wikilink")らと数多くのイベントに参加。かつて六本木に存在したクラブ・YELLOWで、不定期ではあるがSTUDIO APARTMENTの森田昌典と「MUSeUM」というレギュラーイベントを行っていた。2008年5月より東京・新木場[ageHa](https://ja.wikipedia.org/wiki/ageHa "wikilink")では「POOL HOUSE」というレギュラーPartyを担当後、現在はアリーナにてレギュラーパーティ「the L.O.N.G. set」を行っている。
+以前は[STUDIO APARTMENTや](../Page/Studio_Apartment.md "wikilink")、[FreeTEMPO](../Page/FreeTEMPO.md "wikilink")らと数多くのイベントに参加。かつて六本木に存在したクラブ・YELLOWで、不定期ではあるがSTUDIO APARTMENTの森田昌典と「MUSeUM」というレギュラーイベントを行っていた。2008年5月より東京・新木場[ageHa](https://ja.wikipedia.org/wiki/ageHa "wikilink")では「POOL HOUSE」というレギュラーPartyを担当後、現在はアリーナにてレギュラーパーティ「the L.O.N.G. set」を行っている。
 
 その他にも、各種フェスやクラブのゲストDJ、ファッションイベントのバックDJなど多彩な活動を見せている。
 
@@ -31,7 +31,7 @@ DJだけでなくその為の楽曲制作も積極的であり、以前はメロ
 </tr>
 <tr class="even">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/7月19日.md" title="wikilink">7月19日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/7月19日.md" title="wikilink">7月19日</a></p></td>
 <td></td>
 <td><p>NWR-2013</p></td>
 <td><p>{{hidden</p></td>
@@ -51,7 +51,7 @@ DJだけでなくその為の楽曲制作も積極的であり、以前はメロ
 </tr>
 <tr class="odd">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="../Page/10月3日.md" title="wikilink">10月3日</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/10月3日.md" title="wikilink">10月3日</a></p></td>
 <td></td>
 <td><p>NWR-2025</p></td>
 <td><p>{{hidden</p></td>
@@ -77,12 +77,12 @@ DJだけでなくその為の楽曲制作も積極的であり、以前はメロ
 <td><p>XNAE-10016</p></td>
 <td><p>{{hidden</p></td>
 <td><ol>
-<li><a href="../Page/天空の城ラピュタ.md" title="wikilink">天空の城ラピュタ</a>:<a href="https://ja.wikipedia.org/wiki/君をのせて_(井上あずみの曲)" title="wikilink">君をのせて</a> feat. <a href="https://ja.wikipedia.org/wiki/麻衣_(歌手)" title="wikilink">麻衣</a></li>
+<li><a href="../Page/天空の城ラピュタ.md" title="wikilink">天空の城ラピュタ</a>:<a href="../Page/君をのせて_(井上あずみの曲).md" title="wikilink">君をのせて</a> feat. <a href="../Page/麻衣_(歌手).md" title="wikilink">麻衣</a></li>
 <li><a href="../Page/千と千尋の神隠し.md" title="wikilink">千と千尋の神隠し</a>: あの夏へ</li>
 <li><a href="https://ja.wikipedia.org/wiki/となりのトトロ" title="wikilink">となりのトトロ</a>: 風のとおり道</li>
 <li><a href="../Page/おもひでぽろぽろ.md" title="wikilink">おもひでぽろぽろ</a>:The Rose feat. Lori Fine (COLDFEET)</li>
 <li><a href="../Page/魔女の宅急便.md" title="wikilink">魔女の宅急便</a>: 海の見える街</li>
-<li><a href="https://ja.wikipedia.org/wiki/ハウルの動く城" title="wikilink">ハウルの動く城</a>:人生のメリーゴーランド</li>
+<li><a href="../Page/ハウルの動く城.md" title="wikilink">ハウルの動く城</a>:人生のメリーゴーランド</li>
 <li><a href="https://ja.wikipedia.org/wiki/風の谷のナウシカ" title="wikilink">風の谷のナウシカ</a>:ナウシカ・レクイエム</li>
 <li>風の谷のナウシカ: 風の伝説</li>
 <li><a href="../Page/もののけ姫.md" title="wikilink">もののけ姫</a>: もののけ姫</li>
@@ -107,9 +107,9 @@ DJだけでなくその為の楽曲制作も積極的であり、以前はメロ
 <li>MY LIFE (DAISHI DANCE Remix) / HARDSOUL feat.RON CARROLL</li>
 <li>Ascension (DAISHI DANCE Remix) / PAX JAPONICA GROOVE</li>
 <li>Sunset (DAISHI DANCE Remix) / KAT</li>
-<li>Fiesta (DAISHI DANCE Remix -english ver.) / <a href="https://ja.wikipedia.org/wiki/CLAZZIQUAI_PROJECT" title="wikilink">CLAZZIQUAI PROJECT</a></li>
+<li>Fiesta (DAISHI DANCE Remix -english ver.) / <a href="../Page/CLAZZIQUAI_PROJECT.md" title="wikilink">CLAZZIQUAI PROJECT</a></li>
 <li>Star Surfer (DAISHI DANCE Remix) / <a href="../Page/元気ロケッツ.md" title="wikilink">Genki Rockets</a></li>
-<li>HARMONY (DAISHI DANCE Remix) / <a href="https://ja.wikipedia.org/wiki/FreeTEMPO" title="wikilink">FreeTEMPO</a></li>
+<li>HARMONY (DAISHI DANCE Remix) / <a href="../Page/FreeTEMPO.md" title="wikilink">FreeTEMPO</a></li>
 <li>Through The Fire (DAISHI DANCE Dramatic Anthem) / GTS feat.Melodie Sexton</li>
 </ol>
 <p>DISC2</p>
@@ -158,8 +158,8 @@ DJだけでなくその為の楽曲制作も積極的であり、以前はメロ
 <li>FOREVER FRIENDS feat.COLDFEET &amp; arvin homa aya</li>
 <li>Spectacle. feat.Chieko Kinbara</li>
 <li>Beautiful This Earth (EXTENDED PIANO mix) feat.麻衣</li>
-<li>Renovation. feat.<a href="https://ja.wikipedia.org/wiki/吉田兄弟" title="wikilink">吉田兄弟</a> &amp; <a href="https://ja.wikipedia.org/wiki/井上鑑" title="wikilink">井上鑑</a></li>
-<li>SUNSET IN THE LAKE feat.Yoshiki of <a href="https://ja.wikipedia.org/wiki/姫神" title="wikilink">姫神</a></li>
+<li>Renovation. feat.<a href="../Page/吉田兄弟.md" title="wikilink">吉田兄弟</a> &amp; <a href="../Page/井上鑑.md" title="wikilink">井上鑑</a></li>
+<li>SUNSET IN THE LAKE feat.Yoshiki of <a href="../Page/姫神.md" title="wikilink">姫神</a></li>
 <li>Planetarium.</li>
 <li>Journey To The Sky feat.Oh Jieun</li>
 <li>Find My Way feat.blanc.</li>
@@ -398,7 +398,7 @@ DJだけでなくその為の楽曲制作も積極的であり、以前はメロ
 <td><ol>
 <li>君をのせて（JPN ver.) / DAISHI DANCE feat.麻衣</li>
 <li>やさしさに包まれたなら / DAISHI DANCE feat.GILLE</li>
-<li>カントリー・ロード（JPN ver.) / DAISHI DANCE feat.<a href="https://ja.wikipedia.org/wiki/本名陽子" title="wikilink">本名陽子</a></li>
+<li>カントリー・ロード（JPN ver.) / DAISHI DANCE feat.<a href="../Page/本名陽子.md" title="wikilink">本名陽子</a></li>
 <li>風のとおり道 / DAISHI DANCE feat.吉田兄弟</li>
 <li>アシタカとサン / DAISHI DANCE</li>
 <li>Arrietty's Song / DAISHI DANCE feat.Cecile Corbel</li>
@@ -532,11 +532,11 @@ mixed by DAISHI DANCE</strong></p></td>
 <td><p>タイトル</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/3月31日.md" title="wikilink">3月31日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/3月31日.md" title="wikilink">3月31日</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="../Page/2月16日.md" title="wikilink">2月16日</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/2月16日.md" title="wikilink">2月16日</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -560,7 +560,7 @@ mixed by DAISHI DANCE</strong></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="https://ja.wikipedia.org/wiki/5月3日" title="wikilink">5月3日</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/5月3日.md" title="wikilink">5月3日</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -568,21 +568,21 @@ mixed by DAISHI DANCE</strong></p></td>
 
 ### 関連作品
 
-|                                                                                                              |                                                                                                                                                                |
-| ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| リリース日                                                                                                        | タイトル                                                                                                                                                           |
-| [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[5月9日](https://ja.wikipedia.org/wiki/5月9日 "wikilink") | Various Artists「[Francfranc](https://ja.wikipedia.org/wiki/Francfranc "wikilink") presents space program 「EVER WHITE」 Compiled by DAISHI DANCE」                |
-| [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月9日](../Page/4月9日.md "wikilink")                    | DAISHI DANCE／[DJ KAWASAKI](https://ja.wikipedia.org/wiki/DJ_KAWASAKI "wikilink")「KING OF NEW YORK3 〜Mixed by DAISHI DANCE & DJ KAWASAKI〜」                      |
-| 2008年[10月29日](../Page/10月29日.md "wikilink")                                                                  | Various Artists「Francfranc feat. DAISHI DANCE EVER DANCE...EVER RELAX....」                                                                                     |
-| [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[7月21日](../Page/7月21日.md "wikilink")                  | DAISHI DANCE × [→Pia-no-jaC←](https://ja.wikipedia.org/wiki/→Pia-no-jaC← "wikilink")「PIANO project.」（ヴィレッジヴァンガード限定流通盤）                                         |
-| 2010年[8月4日](../Page/8月4日.md "wikilink")                                                                      | DAISHI DANCE × →Pia-no-jaC←「PIANO project.」（通常盤）                                                                                                               |
-| [2011年](../Page/2011年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")                                       | DAISHI DANCE & MITOMI TOKOTO project. Limited Express「PARTY LINE」                                                                                              |
-| 2011年[11月23日](../Page/11月23日.md "wikilink")                                                                  | [MUCC](https://ja.wikipedia.org/wiki/MUCC "wikilink")「[アルカディア featuring DAISHI DANCE](https://ja.wikipedia.org/wiki/アルカディア_featuring_DAISHI_DANCE "wikilink")」 |
-| 2014年[1月22日](../Page/1月22日.md "wikilink")                                                                    | [加藤ミリヤ](https://ja.wikipedia.org/wiki/加藤ミリヤ "wikilink")「Love/Affection (DAISHI DANCE REMIX)」                                                                   |
-| 2015年[3月4日](../Page/3月4日.md "wikilink")                                                                      | [中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")「Memory (feat.DAISHI DANCE)」                                                                              |
-| 2015年[4月29日](../Page/4月29日.md "wikilink")                                                                    | [吉田兄弟](https://ja.wikipedia.org/wiki/吉田兄弟 "wikilink")「百花繚乱 (DAISHI DANCE REMIX)」                                                                               |
-| 2015年[7月1日](../Page/7月1日.md "wikilink")                                                                      | [Kis-My-Ft2](https://ja.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")「[ダイスキデス -Remix by DAISHI DANCE-](https://ja.wikipedia.org/wiki/KIS-MY-WORLD "wikilink")」     |
-| 2015年[7月29日](../Page/7月29日.md "wikilink")                                                                    | 加藤ミリヤ「Love Forever (DAISHI DANCE REMIX)」                                                                                                                       |
+|                                                                                             |                                                                                                                                             |
+| ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| リリース日                                                                                       | タイトル                                                                                                                                        |
+| [2007年](../Page/2007年.md "wikilink")[5月9日](../Page/5月9日.md "wikilink")                      | Various Artists「[Francfranc](../Page/Francfranc.md "wikilink") presents space program 「EVER WHITE」 Compiled by DAISHI DANCE」                |
+| [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月9日](../Page/4月9日.md "wikilink")   | DAISHI DANCE／[DJ KAWASAKI](../Page/DJ_KAWASAKI.md "wikilink")「KING OF NEW YORK3 〜Mixed by DAISHI DANCE & DJ KAWASAKI〜」                      |
+| 2008年[10月29日](../Page/10月29日.md "wikilink")                                                 | Various Artists「Francfranc feat. DAISHI DANCE EVER DANCE...EVER RELAX....」                                                                  |
+| [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[7月21日](../Page/7月21日.md "wikilink") | DAISHI DANCE × [→Pia-no-jaC←](https://ja.wikipedia.org/wiki/→Pia-no-jaC← "wikilink")「PIANO project.」（ヴィレッジヴァンガード限定流通盤）                      |
+| 2010年[8月4日](../Page/8月4日.md "wikilink")                                                     | DAISHI DANCE × →Pia-no-jaC←「PIANO project.」（通常盤）                                                                                            |
+| [2011年](../Page/2011年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")                      | DAISHI DANCE & MITOMI TOKOTO project. Limited Express「PARTY LINE」                                                                           |
+| 2011年[11月23日](../Page/11月23日.md "wikilink")                                                 | [MUCC](../Page/MUCC.md "wikilink")「[アルカディア featuring DAISHI DANCE](https://ja.wikipedia.org/wiki/アルカディア_featuring_DAISHI_DANCE "wikilink")」 |
+| 2014年[1月22日](../Page/1月22日.md "wikilink")                                                   | [加藤ミリヤ](https://ja.wikipedia.org/wiki/加藤ミリヤ "wikilink")「Love/Affection (DAISHI DANCE REMIX)」                                                |
+| 2015年[3月4日](../Page/3月4日.md "wikilink")                                                     | [中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")「Memory (feat.DAISHI DANCE)」                                                           |
+| 2015年[4月29日](../Page/4月29日.md "wikilink")                                                   | [吉田兄弟](../Page/吉田兄弟.md "wikilink")「百花繚乱 (DAISHI DANCE REMIX)」                                                                               |
+| 2015年[7月1日](../Page/7月1日.md "wikilink")                                                     | [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")「[ダイスキデス -Remix by DAISHI DANCE-](https://ja.wikipedia.org/wiki/KIS-MY-WORLD "wikilink")」     |
+| 2015年[7月29日](../Page/7月29日.md "wikilink")                                                   | 加藤ミリヤ「Love Forever (DAISHI DANCE REMIX)」                                                                                                    |
 
 ### オムニバス参加
 
@@ -898,7 +898,7 @@ AVCD-23907</p></td>
   - 2014年05月25日 - NICE TIME 2014
   - 2014年08月02日 - [ROCK IN JAPAN FESTIVAL](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink") 2014
   - 2014年08月03日 - UMI-POP'14×TAKENOKO\!\!\!
-  - 2014年08月08日 - [MTV](https://ja.wikipedia.org/wiki/MTV "wikilink") ZUSHI FES 14 supported by RIVIERA
+  - 2014年08月08日 - [MTV](../Page/MTV.md "wikilink") ZUSHI FES 14 supported by RIVIERA
   - 2014年08月15日 - RISING SUN ROCK FESTIVAL 2014 in EZO(「→Pia-no-jaC← × DAISHI DANCE」として出演)
   - 2014年08月24日 - TOKYO ALLMIX FESTIVAL'14
   - 2014年08月30日 - OTODAMA BEACH PARTY 2014

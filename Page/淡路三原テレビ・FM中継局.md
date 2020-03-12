@@ -5,7 +5,7 @@
 
 ## 概要
 
-[緑パーキングエリア](https://ja.wikipedia.org/wiki/緑パーキングエリア "wikilink")の南西にある細谷山に設置されている中継局で、[NHK神戸放送局](../Page/NHK神戸放送局.md "wikilink")･[NHK大阪放送局](../Page/NHK大阪放送局.md "wikilink")と[在阪広域民放テレビ局及び](https://ja.wikipedia.org/wiki/在阪テレビジョン放送局 "wikilink")[サンテレビジョン](../Page/サンテレビジョン.md "wikilink")と[Kiss-FM KOBEの中継局が置かれ](https://ja.wikipedia.org/wiki/兵庫エフエム放送 "wikilink")、南あわじ市の旧緑町・旧三原町のほぼ全域、同市旧西淡町・旧南淡町の一部地域、洲本市の一部地域に電波を発射している。なお、[諭鶴羽山](https://ja.wikipedia.org/wiki/諭鶴羽山 "wikilink")にも電波塔があるが、こちらは放送用電波は発射されていない。
+[緑パーキングエリア](../Page/緑パーキングエリア.md "wikilink")の南西にある細谷山に設置されている中継局で、[NHK神戸放送局](../Page/NHK神戸放送局.md "wikilink")･[NHK大阪放送局](../Page/NHK大阪放送局.md "wikilink")と[在阪広域民放テレビ局及び](../Page/在阪テレビジョン放送局.md "wikilink")[サンテレビジョン](../Page/サンテレビジョン.md "wikilink")と[Kiss-FM KOBEの中継局が置かれ](https://ja.wikipedia.org/wiki/兵庫エフエム放送 "wikilink")、南あわじ市の旧緑町・旧三原町のほぼ全域、同市旧西淡町・旧南淡町の一部地域、洲本市の一部地域に電波を発射している。なお、[諭鶴羽山](../Page/諭鶴羽山.md "wikilink")にも電波塔があるが、こちらは放送用電波は発射されていない。
 
 ## 放送送信施設概要
 
@@ -16,10 +16,10 @@
 <tr class="header">
 <th><p><a href="../Page/リモコンキーID.md" title="wikilink">リモコン<br />
 キーID</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/日本のテレビジョン放送局" title="wikilink">放送局名</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/チャンネル_(テレビ放送)" title="wikilink">物理<br />
+<th><p><a href="../Page/日本のテレビジョン放送局.md" title="wikilink">放送局名</a></p></th>
+<th><p><a href="../Page/チャンネル_(テレビ放送).md" title="wikilink">物理<br />
 チャンネル</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/空中線電力" title="wikilink">空中線<br />
+<th><p><a href="../Page/空中線電力.md" title="wikilink">空中線<br />
 電力</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/実効放射電力" title="wikilink">ERP</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/放送#放送対象地域" title="wikilink">放送対象地域</a></p></th>
@@ -32,7 +32,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a><br />
-<a href="../Page/NHK神戸放送局.md" title="wikilink">神戸</a><a href="https://ja.wikipedia.org/wiki/NHK総合テレビジョン" title="wikilink">総合</a></p></td>
+<a href="../Page/NHK神戸放送局.md" title="wikilink">神戸</a><a href="../Page/NHK総合テレビジョン.md" title="wikilink">総合</a></p></td>
 <td><p>22</p></td>
 <td><p>3W</p></td>
 <td><p>12.5W</p></td>
@@ -44,7 +44,7 @@
 <tr class="even">
 <td><p>2</p></td>
 <td><p>NHK<br />
-<a href="../Page/NHK大阪放送局.md" title="wikilink">大阪</a><a href="https://ja.wikipedia.org/wiki/NHK教育テレビジョン" title="wikilink">教育</a></p></td>
+<a href="../Page/NHK大阪放送局.md" title="wikilink">大阪</a><a href="../Page/NHK教育テレビジョン.md" title="wikilink">教育</a></p></td>
 <td><p>13</p></td>
 <td><p><a href="../Page/全国放送.md" title="wikilink">全国</a></p></td>
 <td></td>
@@ -66,7 +66,7 @@
 </tbody>
 </table>
 
-  - デジタルテレビ中継局は、[2009年](../Page/2009年.md "wikilink")[2月26日](https://ja.wikipedia.org/wiki/2月26日 "wikilink")に[予備免許](https://ja.wikipedia.org/wiki/予備免許 "wikilink")交付、[3月2日](../Page/3月2日.md "wikilink")から[29日まで](../Page/3月29日.md "wikilink")[試験放送](https://ja.wikipedia.org/wiki/試験放送 "wikilink")実施、[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")に本免許交付、[3月30日](../Page/3月30日.md "wikilink")から本放送開始。
+  - デジタルテレビ中継局は、[2009年](../Page/2009年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink")に[予備免許](../Page/予備免許.md "wikilink")交付、[3月2日](../Page/3月2日.md "wikilink")から[29日まで](../Page/3月29日.md "wikilink")[試験放送](../Page/試験放送.md "wikilink")実施、[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")に本免許交付、[3月30日](../Page/3月30日.md "wikilink")から本放送開始。
 
 ### 地上アナログテレビ放送
 
@@ -133,7 +133,7 @@
 <td><p><a href="../Page/広域放送.md" title="wikilink">近畿広域圏</a></p></td>
 <td><p>6,482世帯</p></td>
 <td><p>在阪広域民放局は<br />
-<a href="https://ja.wikipedia.org/wiki/センチメートル波" title="wikilink">SHFでの送信</a>。</p></td>
+<a href="../Page/センチメートル波.md" title="wikilink">SHFでの送信</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p>75</p></td>
@@ -171,7 +171,7 @@
 </tbody>
 </table>
 
-  - 在阪民放広域テレビ局は、[生駒山](https://ja.wikipedia.org/wiki/生駒山 "wikilink")からの電波を受信していたが、[1994年](../Page/1994年.md "wikilink")[9月4日](../Page/9月4日.md "wikilink")に開港した[関西空港の影響](https://ja.wikipedia.org/wiki/関西国際空港 "wikilink")（関西国際空港の航空機に電波が反射するなど）で受信環境が悪化し、受信環境改善のために[関西国際空港株式会社が免許人となる中継局](https://ja.wikipedia.org/wiki/関西国際空港_\(企業\) "wikilink")（淡路三原SHFテレビ中継局）を[1996年](../Page/1996年.md "wikilink")[11月7日](../Page/11月7日.md "wikilink")に開局させたものである。
+  - 在阪民放広域テレビ局は、[生駒山](../Page/生駒山.md "wikilink")からの電波を受信していたが、[1994年](../Page/1994年.md "wikilink")[9月4日](../Page/9月4日.md "wikilink")に開港した[関西空港の影響](https://ja.wikipedia.org/wiki/関西国際空港 "wikilink")（関西国際空港の航空機に電波が反射するなど）で受信環境が悪化し、受信環境改善のために[関西国際空港株式会社が免許人となる中継局](https://ja.wikipedia.org/wiki/関西国際空港_\(企業\) "wikilink")（淡路三原SHFテレビ中継局）を[1996年](../Page/1996年.md "wikilink")[11月7日](../Page/11月7日.md "wikilink")に開局させたものである。
   - なお、アナログUHF送信をしていたNHKとSUNはデジタル中継局を開設したが、アナログSHF送信の在阪広域民放テレビ局の中継局はデジタル化に該当せず、[2011年](../Page/2011年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")をもって廃止された。
 
 ### FMラジオ放送
@@ -202,7 +202,7 @@ FM KOBE</a></p></td>
 <tr class="even">
 <td><p>82.9MHz</p></td>
 <td><p>NHK<br />
-神戸<a href="https://ja.wikipedia.org/wiki/NHK-FM放送" title="wikilink">FM</a></p></td>
+神戸<a href="../Page/NHK-FM放送.md" title="wikilink">FM</a></p></td>
 <td></td>
 <td></td>
 <td></td>

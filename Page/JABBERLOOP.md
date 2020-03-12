@@ -6,23 +6,23 @@
 ## メンバー
 
   - MAKOTO
-    長友誠（ナガトモマコト）、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[5月13日](../Page/5月13日.md "wikilink") - 、[宮崎県高千穂町出身](https://ja.wikipedia.org/wiki/宮崎県出身の人物一覧 "wikilink")、[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+    長友誠（ナガトモマコト）、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[5月13日](../Page/5月13日.md "wikilink") - 、[宮崎県高千穂町出身](../Page/宮崎県出身の人物一覧.md "wikilink")、[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
     [トランペット](../Page/トランペット.md "wikilink")、[フリューゲルホルン](../Page/フリューゲルホルン.md "wikilink")担当。
     [大阪芸術大学](../Page/大阪芸術大学.md "wikilink")卒。大阪芸術大学ジャズ研究会出身。
     2005年3月、加入。
   - DAISUKE
-    後藤大輔（ゴトウダイスケ）、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[10月29日](../Page/10月29日.md "wikilink") - 、[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")[京都市](../Page/京都市.md "wikilink")出身、[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+    後藤大輔（ゴトウダイスケ）、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[10月29日](../Page/10月29日.md "wikilink") - 、[京都府](../Page/京都府.md "wikilink")[京都市](../Page/京都市.md "wikilink")出身、[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
     [サックス](../Page/サクソフォーン.md "wikilink")（アルト、ソプラノ、テナー）担当。
     大阪音楽大学卒。元K-106。
   - MELTEN
     岸本亮（キシモトリョウ）、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[2月13日](../Page/2月13日.md "wikilink") - 、京都府京都市出身、[AB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
-    [キーボード担当](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")。
+    [キーボード担当](../Page/キーボード_\(楽器\).md "wikilink")。
     [fox capture planにも所属](https://ja.wikipedia.org/wiki/fox_capture_plan "wikilink")。
     大阪音楽大学卒。
     2005年3月、加入。
   - YUKI
     永田雄樹（ナガタユウキ）、[1979年](../Page/1979年.md "wikilink")[6月23日](../Page/6月23日.md "wikilink") - 、[滋賀県](../Page/滋賀県.md "wikilink")[彦根市](https://ja.wikipedia.org/wiki/彦根市 "wikilink")出身、B型。
-    [ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。
+    [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。
 
 ### 元メンバー
 
@@ -59,7 +59,7 @@
 
   - 2006年
 
-:\* 3月、[青木カレン](https://ja.wikipedia.org/wiki/青木カレン "wikilink")と共演。
+:\* 3月、[青木カレン](../Page/青木カレン.md "wikilink")と共演。
 
 :\* 5月、西日本ツアー（京都、大阪、宮崎、福岡、大分、長崎）。
 
@@ -75,7 +75,7 @@
 
 :\* 4月、Shibuya PLUGにて隔月イベントを開催。JABBERLOOPとPLUGがコラボレーションした「INFINITE」となる。
 
-:\* 5月、ロンドンのMukatsuku Records（Nik Weston主宰）より12inch [EP](https://ja.wikipedia.org/wiki/EP "wikilink")『UGETSU』をリリース。デビュー前から国内はもとより[Gilles Peterson](https://ja.wikipedia.org/wiki/ジャイルス・ピーターソン "wikilink")、Juergen(Jazzanova)、Patrick Forge(Da Lata)など、海外のトップDJがプレイ。[BS朝日にて](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")「Groovin' Jazz Night」放送。須永辰緒と共にゲスト出演する。
+:\* 5月、ロンドンのMukatsuku Records（Nik Weston主宰）より12inch [EP](https://ja.wikipedia.org/wiki/EP "wikilink")『UGETSU』をリリース。デビュー前から国内はもとより[Gilles Peterson](../Page/ジャイルス・ピーターソン.md "wikilink")、Juergen(Jazzanova)、Patrick Forge(Da Lata)など、海外のトップDJがプレイ。[BS朝日にて](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")「Groovin' Jazz Night」放送。須永辰緒と共にゲスト出演する。
 
 :\* 6月、京都CLUB METROにてThe Five Corners QuintetのトランペッターJukka Eskolaと共演。須永辰緒の夜ジャズにてNicola Conte Bandと共演。
 
@@ -97,13 +97,13 @@
 
 :\* 1月、横浜Motion Blueの「afrontier」にゲストで出演する。swatch銀座店の春夏コレクションパーティーにゲスト出演する。
 
-:\* 2月、渋谷JZ Bratでの[SIMBAD](https://ja.wikipedia.org/wiki/SIMBAD "wikilink")のリリースパーティーにゲスト出演する。[鈴木亜美](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")のアルバム『[DOLCE](https://ja.wikipedia.org/wiki/DOLCE_\(鈴木亜美のアルバム\) "wikilink")』の[ROCKETMAN](https://ja.wikipedia.org/wiki/ROCKETMAN "wikilink")のプロデュースにDAISUKE、MAKOTOが参加する。「COOL TO KOOL」に2回目の出演。
+:\* 2月、渋谷JZ Bratでの[SIMBAD](../Page/SIMBAD.md "wikilink")のリリースパーティーにゲスト出演する。[鈴木亜美](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")のアルバム『[DOLCE](https://ja.wikipedia.org/wiki/DOLCE_\(鈴木亜美のアルバム\) "wikilink")』の[ROCKETMAN](https://ja.wikipedia.org/wiki/ROCKETMAN "wikilink")のプロデュースにDAISUKE、MAKOTOが参加する。「COOL TO KOOL」に2回目の出演。
 
-:\* 3月、[佐藤竹善](https://ja.wikipedia.org/wiki/佐藤竹善 "wikilink")のリミックスアルバム『CORNERSTONES DOMESTIC MIX at the lounge』にリミックスで参加する。西麻布[YELLOW](https://ja.wikipedia.org/wiki/YELLOW "wikilink")にて『Nouvelle Vague』のリリースパーティーに出演する。コンピレーションアルバム『jazz & flowers』にDJ ShinsukeとDJ Nicheによる青木カレンのリミックスが収録される。「夜ジャズ Experience」に初めてメインアクトとして出演する。
+:\* 3月、[佐藤竹善](../Page/佐藤竹善.md "wikilink")のリミックスアルバム『CORNERSTONES DOMESTIC MIX at the lounge』にリミックスで参加する。西麻布[YELLOW](https://ja.wikipedia.org/wiki/YELLOW "wikilink")にて『Nouvelle Vague』のリリースパーティーに出演する。コンピレーションアルバム『jazz & flowers』にDJ ShinsukeとDJ Nicheによる青木カレンのリミックスが収録される。「夜ジャズ Experience」に初めてメインアクトとして出演する。
 
 :\* 5月、コンピレーションアルバム『Nu-Jazz Conference @ Tokyo』に「MISSING MY BIRD」「ATMOSPHERE ENTRY」「IN:GROOVE」の3曲が収録される。宮崎国際ストリート音楽祭にゲスト出演。
 
-:\* 6月、[青木カレン](https://ja.wikipedia.org/wiki/青木カレン "wikilink")の3rdアルバム『SHINING』にプロデュースで2曲参加する。[dorlis](https://ja.wikipedia.org/wiki/dorlis "wikilink")のアルバム『swingin' singin' playin'』にプロデュースで参加する。FASCINATED SESSIONのアルバム『FASCINATED SESSION』にDAISUKE、MAKOTO、YOHEIが合わせて6曲で参加する。
+:\* 6月、[青木カレン](../Page/青木カレン.md "wikilink")の3rdアルバム『SHINING』にプロデュースで2曲参加する。[dorlis](https://ja.wikipedia.org/wiki/dorlis "wikilink")のアルバム『swingin' singin' playin'』にプロデュースで参加する。FASCINATED SESSIONのアルバム『FASCINATED SESSION』にDAISUKE、MAKOTO、YOHEIが合わせて6曲で参加する。
 
 :\* 7月、[コロムビアミュージックエンタテインメントより初のワークスアルバム](../Page/日本コロムビア.md "wikilink")『Infinite Works』をリリース。[堤真一](../Page/堤真一.md "wikilink")主演の映画『[クライマーズ・ハイ](../Page/クライマーズ・ハイ.md "wikilink")』のオリジナル・サウンドトラックに参加する。
 
@@ -386,7 +386,7 @@
 
   - JAZZ DANCER 2（[タワーレコード](../Page/タワーレコード.md "wikilink")コンピレーションアルバム）
       - ATMOSPHERE ENTRY
-  - [青木カレン](https://ja.wikipedia.org/wiki/青木カレン "wikilink") 2ndアルバム「Groovin' Jazz Night presents Karen」
+  - [青木カレン](../Page/青木カレン.md "wikilink") 2ndアルバム「Groovin' Jazz Night presents Karen」
       - MY FAVORITE THINGS
       - SMELLS LIKE TEEN SPIRIT
   - [瀧澤賢太郎](../Page/瀧澤賢太郎.md "wikilink") 3rdアルバム「HEART TO HEART」
@@ -403,7 +403,7 @@
       - INTERLUDE
   - [鈴木亜美](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink") 2ndアルバム「[DOLCE](https://ja.wikipedia.org/wiki/DOLCE_\(鈴木亜美のアルバム\) "wikilink")」
       - アイノウタ feat.[YOU THE ROCK★](https://ja.wikipedia.org/wiki/YOU_THE_ROCK★ "wikilink")（DAISUKE、MAKOTOのみの参加）
-  - [佐藤竹善](https://ja.wikipedia.org/wiki/佐藤竹善 "wikilink")([SING LIKE TALKING](https://ja.wikipedia.org/wiki/SING_LIKE_TALKING "wikilink"))「CORNERSTONES DOMESTIC MIX at the lounge」
+  - [佐藤竹善](../Page/佐藤竹善.md "wikilink")([SING LIKE TALKING](https://ja.wikipedia.org/wiki/SING_LIKE_TALKING "wikilink"))「CORNERSTONES DOMESTIC MIX at the lounge」
       - 生まれ来る子供たちのために（JABBERLOOP Remix)
   - フレイバー・オブ・ラウンジ－ダリア（コンピレーションアルバム）
       - MY FAVORITE THINGS
@@ -425,7 +425,7 @@
       - Look To The Sky
   - クライマーズ・ハイ サウンドトラック
       - Mona Lisa（covered by JABBERLOOP）
-  - [SOULHEAD](https://ja.wikipedia.org/wiki/SOULHEAD "wikilink") 4thアルバム「SOULHEAD」
+  - [SOULHEAD](../Page/SOULHEAD.md "wikilink") 4thアルバム「SOULHEAD」
       - Cosmic Walking（DAISUKE、MAKOTOのみの参加）
   - DJ MAKOTO \[SOULED OUT\]
       - UNTOLD（RE:MIX by JABBERLOOP）

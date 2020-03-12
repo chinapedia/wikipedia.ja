@@ -1,7 +1,7 @@
 > この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:NHK-Hakodate-03.jpg "wikilink") **NHK亀田ラジオ放送所**（エヌエイチケイかめだラジオほうそうじょ）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[函館市](../Page/函館市.md "wikilink")にある[NHK函館放送局](https://ja.wikipedia.org/wiki/NHK函館放送局 "wikilink")の[AMラジオ放送の](../Page/中波放送.md "wikilink")[送信施設](https://ja.wikipedia.org/wiki/送信所 "wikilink")。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:NHK-Hakodate-03.jpg "wikilink") **NHK亀田ラジオ放送所**（エヌエイチケイかめだラジオほうそうじょ）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[函館市](../Page/函館市.md "wikilink")にある[NHK函館放送局](../Page/NHK函館放送局.md "wikilink")の[AMラジオ放送の](../Page/中波放送.md "wikilink")[送信施設](../Page/送信所.md "wikilink")。
 
 なおここでは函館市汐見町にあった旧送信所についても参考として記述する。
 
@@ -26,9 +26,9 @@
 <thead>
 <tr class="header">
 <th><p><a href="../Page/周波数.md" title="wikilink">周波数</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/日本のラジオ放送局" title="wikilink">放送局名</a></p></th>
+<th><p><a href="../Page/日本のラジオ放送局.md" title="wikilink">放送局名</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/識別信号#呼出符号" title="wikilink">呼出符号</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/空中線電力" title="wikilink">空中線<br />
+<th><p><a href="../Page/空中線電力.md" title="wikilink">空中線<br />
 電力</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/放送#放送対象地域" title="wikilink">放送対象地域</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/放送#放送区域" title="wikilink">放送区域<br />
@@ -40,7 +40,7 @@
 <tr class="odd">
 <td><p>675<a href="https://ja.wikipedia.org/wiki/キロヘルツ" title="wikilink">kHz</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a><br />
-<a href="https://ja.wikipedia.org/wiki/NHK函館放送局" title="wikilink">函館</a><a href="https://ja.wikipedia.org/wiki/NHKラジオ第1放送" title="wikilink">第1</a></p></td>
+<a href="../Page/NHK函館放送局.md" title="wikilink">函館</a><a href="../Page/NHKラジオ第1放送.md" title="wikilink">第1</a></p></td>
 <td><p>JOVK</p></td>
 <td><p>5kW</p></td>
 <td><p>道南圏<br />
@@ -51,7 +51,7 @@
 <tr class="even">
 <td><p>1467kHz</p></td>
 <td><p>NHK<br />
-函館<a href="https://ja.wikipedia.org/wiki/NHKラジオ第2放送" title="wikilink">第2</a></p></td>
+函館<a href="../Page/NHKラジオ第2放送.md" title="wikilink">第2</a></p></td>
 <td><p>JOVB</p></td>
 <td><p>1kW</p></td>
 <td><p><a href="../Page/全国放送.md" title="wikilink">全国</a></p></td>
@@ -73,18 +73,18 @@
 
   - [函館市](../Page/函館市.md "wikilink")
   - [日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")
-      - [NHK函館放送局](https://ja.wikipedia.org/wiki/NHK函館放送局 "wikilink")
-          - [NHKラジオ第1放送](https://ja.wikipedia.org/wiki/NHKラジオ第1放送 "wikilink")
+      - [NHK函館放送局](../Page/NHK函館放送局.md "wikilink")
+          - [NHKラジオ第1放送](../Page/NHKラジオ第1放送.md "wikilink")
       - [NHK札幌放送局](../Page/NHK札幌放送局.md "wikilink")
-          - [NHKラジオ第2放送](https://ja.wikipedia.org/wiki/NHKラジオ第2放送 "wikilink")
+          - [NHKラジオ第2放送](../Page/NHKラジオ第2放送.md "wikilink")
   - 民間放送
-      - [HBC函館ラジオ送信所](https://ja.wikipedia.org/wiki/HBC函館ラジオ送信所 "wikilink")
+      - [HBC函館ラジオ送信所](../Page/HBC函館ラジオ送信所.md "wikilink")
       - [STV函館ラジオ送信所](https://ja.wikipedia.org/wiki/STV函館ラジオ送信所 "wikilink")
   - 中継局
-      - [江差ラジオ中継局](https://ja.wikipedia.org/wiki/江差ラジオ中継局 "wikilink")
-      - [北桧山ラジオ中継局](https://ja.wikipedia.org/wiki/北桧山ラジオ中継局 "wikilink")
-      - [NHK松前ラジオ中継局](https://ja.wikipedia.org/wiki/NHK松前ラジオ中継局 "wikilink")
-  - [函館山テレビ・FM放送所](https://ja.wikipedia.org/wiki/函館山テレビ・FM放送所 "wikilink") - NHKテレビ・FM送信所についての記事
+      - [江差ラジオ中継局](../Page/江差ラジオ中継局.md "wikilink")
+      - [北桧山ラジオ中継局](../Page/北桧山ラジオ中継局.md "wikilink")
+      - [NHK松前ラジオ中継局](../Page/NHK松前ラジオ中継局.md "wikilink")
+  - [函館山テレビ・FM放送所](../Page/函館山テレビ・FM放送所.md "wikilink") - NHKテレビ・FM送信所についての記事
 
 ## 脚注
 

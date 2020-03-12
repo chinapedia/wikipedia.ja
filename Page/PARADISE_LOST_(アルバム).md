@@ -1,16 +1,16 @@
 > この記事は[PARADISE LOST \(\)](https://ja.wikipedia.org/wiki/PARADISE_LOST_\(\))から翻訳されています。
 
 
-『**PARADISE LOST**』（パラダイスロスト）は[ART-SCHOOL](https://ja.wikipedia.org/wiki/ART-SCHOOL "wikilink")の3作目となるオリジナル・アルバムである。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月19日](../Page/10月19日.md "wikilink")発売。
+『**PARADISE LOST**』（パラダイスロスト）は[ART-SCHOOL](../Page/ART-SCHOOL.md "wikilink")の3作目となるオリジナル・アルバムである。[2005年](../Page/2005年.md "wikilink")[10月19日](../Page/10月19日.md "wikilink")発売。
 
 ## 概要
 
-[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")移籍後初のフル・アルバム。エンジニアに[トニー・ドゥーガン](https://ja.wikipedia.org/wiki/トニー・ドゥーガン "wikilink")、[デイヴ・フリッドマン](https://ja.wikipedia.org/wiki/デイヴ・フリッドマン "wikilink")などを起用し、[グラスゴー](../Page/グラスゴー.md "wikilink")でレコーディングし、[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")で[マスタリング](https://ja.wikipedia.org/wiki/マスタリング "wikilink")を行った。
+[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")移籍後初のフル・アルバム。エンジニアに[トニー・ドゥーガン](https://ja.wikipedia.org/wiki/トニー・ドゥーガン "wikilink")、[デイヴ・フリッドマン](https://ja.wikipedia.org/wiki/デイヴ・フリッドマン "wikilink")などを起用し、[グラスゴー](../Page/グラスゴー.md "wikilink")でレコーディングし、[ニューヨーク](../Page/ニューヨーク.md "wikilink")で[マスタリング](../Page/マスタリング.md "wikilink")を行った。
 
 ## 参加アーティスト
 
-  - [ACO](https://ja.wikipedia.org/wiki/ACO "wikilink")
-  - **バリー・バーンズ**--[モグワイ](https://ja.wikipedia.org/wiki/モグワイ "wikilink")
+  - [ACO](../Page/ACO.md "wikilink")
+  - **バリー・バーンズ**--[モグワイ](../Page/モグワイ.md "wikilink")
   - **エマ・ポロック**--[デルガドス](https://ja.wikipedia.org/wiki/デルガドス "wikilink")
 
 ## 収録曲

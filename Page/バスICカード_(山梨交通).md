@@ -1,7 +1,7 @@
 > この記事は[IC \(\)](https://ja.wikipedia.org/wiki/IC_\(\))から翻訳されています。
 
 
-[Yamanashikotsu-BusICcard.JPG](https://ja.wikipedia.org/wiki/File:Yamanashikotsu-BusICcard.JPG "fig:Yamanashikotsu-BusICcard.JPG") **バスICカード**は[山梨交通](https://ja.wikipedia.org/wiki/山梨交通 "wikilink")グループで発売していた[乗車カード](../Page/乗車カード.md "wikilink")で、非接触型[ICカード](../Page/ICカード.md "wikilink")である。[PASMO](https://ja.wikipedia.org/wiki/PASMO "wikilink")導入により廃止された。それまでも他社において地域や路線を限定してバス用のICカードが導入された例はあったが、導入当初からほぼ全社的な展開を前提に導入したのは、日本のバス事業者においては山梨交通が初めてである。また本項では、[2002年](../Page/2002年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")よりサービス開始した[クレジットカード](../Page/クレジットカード.md "wikilink")一体型の**山梨交通OMCカード**についても記述する。同社ではこれを「世界初の交通系ICカード一体型クレジットカード」としている。以下本項では「山梨交通OMCカード」については、愛称である「バスOMCカード」と記述する。
+[Yamanashikotsu-BusICcard.JPG](https://ja.wikipedia.org/wiki/File:Yamanashikotsu-BusICcard.JPG "fig:Yamanashikotsu-BusICcard.JPG") **バスICカード**は[山梨交通](../Page/山梨交通.md "wikilink")グループで発売していた[乗車カード](../Page/乗車カード.md "wikilink")で、非接触型[ICカード](../Page/ICカード.md "wikilink")である。[PASMO](../Page/PASMO.md "wikilink")導入により廃止された。それまでも他社において地域や路線を限定してバス用のICカードが導入された例はあったが、導入当初からほぼ全社的な展開を前提に導入したのは、日本のバス事業者においては山梨交通が初めてである。また本項では、[2002年](../Page/2002年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")よりサービス開始した[クレジットカード](../Page/クレジットカード.md "wikilink")一体型の**山梨交通OMCカード**についても記述する。同社ではこれを「世界初の交通系ICカード一体型クレジットカード」としている。以下本項では「山梨交通OMCカード」については、愛称である「バスOMCカード」と記述する。
 
 ## 概要
 
@@ -47,7 +47,7 @@
 
 #### バスOMCカード
 
-交通系ICカードと国際ブランドのクレジットカード（[マスターカード](../Page/マスターカード.md "wikilink")）を一体化したもので、山梨交通では「世界で初めて」としている。[OMCカード](https://ja.wikipedia.org/wiki/OMCカード "wikilink")との提携カードで、定期券・回数券カードの機能を併せ持つが、定期券なしでも発行可能。年会費は無料。
+交通系ICカードと国際ブランドのクレジットカード（[マスターカード](../Page/マスターカード.md "wikilink")）を一体化したもので、山梨交通では「世界で初めて」としている。[OMCカード](../Page/OMCカード.md "wikilink")との提携カードで、定期券・回数券カードの機能を併せ持つが、定期券なしでも発行可能。年会費は無料。
 
 発行時には回数券のチャージはされていないため、発行後にチャージするか、手持ちの回数券カードの残額を移行する必要がある。本カードにはデポジットは設定されていないので、回数券カードから残額を移行した場合、回数券カードのデポジットは返却される。クレジットカードでの回数券チャージは窓口のみ可能。リボルビング払いも選択できる。
 
@@ -70,8 +70,8 @@
 
 下記事業者の一般路線（廃止代替路線を含む）で利用可能だった。
 
-  - [山梨交通](https://ja.wikipedia.org/wiki/山梨交通 "wikilink")（[PASMO](https://ja.wikipedia.org/wiki/PASMO "wikilink")へ切り替えた為、2015年11月30日を以て廃止となった。）
-  - [山交タウンコーチ](../Page/山交タウンコーチ.md "wikilink")（[PASMO](https://ja.wikipedia.org/wiki/PASMO "wikilink")へ切り替えた為、2016年12月11日を以て廃止となった。）
+  - [山梨交通](../Page/山梨交通.md "wikilink")（[PASMO](../Page/PASMO.md "wikilink")へ切り替えた為、2015年11月30日を以て廃止となった。）
+  - [山交タウンコーチ](../Page/山交タウンコーチ.md "wikilink")（[PASMO](../Page/PASMO.md "wikilink")へ切り替えた為、2016年12月11日を以て廃止となった。）
 
 ### 乗り継ぎ割引
 
@@ -84,18 +84,18 @@
 
 以下の箇所で販売している他、山梨交通グループのバス車内でチャージすることもできた。
 
-  - [甲府駅](https://ja.wikipedia.org/wiki/甲府駅 "wikilink")前山梨交通バスセンター（[甲府駅バスターミナル](https://ja.wikipedia.org/wiki/甲府駅バスターミナル "wikilink")構内）
-  - [山梨交通](https://ja.wikipedia.org/wiki/山梨交通 "wikilink")本社
+  - [甲府駅](https://ja.wikipedia.org/wiki/甲府駅 "wikilink")前山梨交通バスセンター（[甲府駅バスターミナル](../Page/甲府駅バスターミナル.md "wikilink")構内）
+  - [山梨交通](../Page/山梨交通.md "wikilink")本社
   - 山交トラベル湯村（[オギノ湯村ショッピングセンター](https://ja.wikipedia.org/wiki/オギノ湯村ショッピングセンター "wikilink")内）
-  - [韮崎駅](https://ja.wikipedia.org/wiki/韮崎駅 "wikilink")前バス案内所
-  - [山交タウンコーチ甲府営業所](https://ja.wikipedia.org/wiki/山交タウンコーチ甲府営業所 "wikilink")（[山梨交通敷島営業所](https://ja.wikipedia.org/wiki/山梨交通敷島営業所 "wikilink")構内）
+  - [韮崎駅](../Page/韮崎駅.md "wikilink")前バス案内所
+  - [山交タウンコーチ甲府営業所](https://ja.wikipedia.org/wiki/山交タウンコーチ甲府営業所 "wikilink")（[山梨交通敷島営業所](../Page/山梨交通敷島営業所.md "wikilink")構内）
   - [山交タウンコーチ韮崎営業所](https://ja.wikipedia.org/wiki/山交タウンコーチ韮崎営業所 "wikilink")
   - [山交タウンコーチ身延営業所](https://ja.wikipedia.org/wiki/山交タウンコーチ身延営業所 "wikilink")
   - [山交タウンコーチ静岡営業所](https://ja.wikipedia.org/wiki/山交タウンコーチ静岡営業所 "wikilink")
 
 ## 沿革
 
-  - 1998年 - 導入計画を開始、基本的な機能について検討。三陽電気製作所（当時。現・[レシップ](https://ja.wikipedia.org/wiki/レシップ "wikilink")）と[NTTデータ](https://ja.wikipedia.org/wiki/NTTデータ "wikilink")と共同で着手。
+  - 1998年 - 導入計画を開始、基本的な機能について検討。三陽電気製作所（当時。現・[レシップ](../Page/レシップ.md "wikilink")）と[NTTデータ](../Page/NTTデータ.md "wikilink")と共同で着手。
   - 1999年7月 - バスICカードのシステム開発開始。
   - 1999年10月 - 山宮循環線等で1ヶ月にわたり、モニターによる実証試験を行なう。
   - 2000年2月28日 - 山梨県内の山梨交通本体の一般路線バス全車両において導入、使用開始。
@@ -110,23 +110,23 @@
 
 ## 特記事項
 
-  - 高速バス・定期観光バスでは利用できない。また広河原線でも利用できない（紙式回数券のみ利用できた）。ただし高速バスの甲府 - 新宿線では[PASMO](https://ja.wikipedia.org/wiki/PASMO "wikilink")・[Suica](../Page/Suica.md "wikilink")が利用できる。
+  - 高速バス・定期観光バスでは利用できない。また広河原線でも利用できない（紙式回数券のみ利用できた）。ただし高速バスの甲府 - 新宿線では[PASMO](../Page/PASMO.md "wikilink")・[Suica](../Page/Suica.md "wikilink")が利用できる。
   - 山梨交通のバスICカードはPASMO・Suica等の交通系ICカードとシステムの互換性がなく、相互利用はできない。
   - 過去に高速バスの入出庫を客扱いしていた、甲府駅 - 敷島営業所の快速バスでの利用も出来なかった。
-  - 2015年2月、山梨県からの補助金を活用し、路線バスに[PASMO](https://ja.wikipedia.org/wiki/PASMO "wikilink")・[Suica](../Page/Suica.md "wikilink")などの交通系ICカードを2015年度後半を目処に導入するという報道があった。\[2\]。その後、2015年8月5日に山梨交通からPASMO導入に関しての公式な発表がされ、2015年11月30日を以て、山梨交通が直轄する路線ではバスICカードは廃止されたが、山交タウンコーチが管轄する路線では引き続きバスICカードが使用していたが、2016年12月11日を以て山交タウンコーチでもPASMOへの切り替えにより、運用が終了した。
+  - 2015年2月、山梨県からの補助金を活用し、路線バスに[PASMO](../Page/PASMO.md "wikilink")・[Suica](../Page/Suica.md "wikilink")などの交通系ICカードを2015年度後半を目処に導入するという報道があった。\[2\]。その後、2015年8月5日に山梨交通からPASMO導入に関しての公式な発表がされ、2015年11月30日を以て、山梨交通が直轄する路線ではバスICカードは廃止されたが、山交タウンコーチが管轄する路線では引き続きバスICカードが使用していたが、2016年12月11日を以て山交タウンコーチでもPASMOへの切り替えにより、運用が終了した。
 
 ## 参考文献
 
-  - 『山梨交通60年史 : 甲府盆地の暮らしとともに』山梨交通 監修、[BJエディターズ](https://ja.wikipedia.org/wiki/バス・ジャパン "wikilink") 発行、2006年6月、。
+  - 『山梨交通60年史 : 甲府盆地の暮らしとともに』山梨交通 監修、[BJエディターズ](../Page/バス・ジャパン.md "wikilink") 発行、2006年6月、。
 
 ## 脚注
 
 ## 関連項目
 
-  - [山梨交通](https://ja.wikipedia.org/wiki/山梨交通 "wikilink")
+  - [山梨交通](../Page/山梨交通.md "wikilink")
   - [乗車カード](../Page/乗車カード.md "wikilink")
   - [ICカード](../Page/ICカード.md "wikilink")
-  - [PASMO](https://ja.wikipedia.org/wiki/PASMO "wikilink")
+  - [PASMO](../Page/PASMO.md "wikilink")
 
 ## 外部リンク
 

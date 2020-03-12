@@ -5,15 +5,15 @@
 
 ## 略歴
 
-  - [2002年](../Page/2002年.md "wikilink")、[オーディション](https://ja.wikipedia.org/wiki/オーディション "wikilink")番組「[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")」の「超歌姫オーディション」に勝ち抜き、[R and Cより](https://ja.wikipedia.org/wiki/よしもとアール・アンド・シー "wikilink")**勝又亜依子**としてデビュー。
-  - [2004年](../Page/2004年.md "wikilink")、[ユニバーサルシグマに移籍し](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")、**ahhco**に改名。
+  - [2002年](../Page/2002年.md "wikilink")、[オーディション](../Page/オーディション.md "wikilink")番組「[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")」の「超歌姫オーディション」に勝ち抜き、[R and Cより](https://ja.wikipedia.org/wiki/よしもとアール・アンド・シー "wikilink")**勝又亜依子**としてデビュー。
+  - [2004年](../Page/2004年.md "wikilink")、[ユニバーサルシグマに移籍し](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")、**ahhco**に改名。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")、プロジェクト：**Heartbeat**（ハービー）を始動して、以後、同名称で活動している。
 
 ## ディスコグラフィー
 
 ### シングル
 
-1.  **KEEP ON YOUR SIDE**（2002年1月23日）[亀田誠治](https://ja.wikipedia.org/wiki/亀田誠治 "wikilink")・[久保こーじ](https://ja.wikipedia.org/wiki/久保こーじ "wikilink")・[島野聡](https://ja.wikipedia.org/wiki/島野聡 "wikilink")共同プロデュース。[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")「[ソルトレイクシティオリンピック](https://ja.wikipedia.org/wiki/ソルトレイクシティオリンピック "wikilink")」テーマ曲。オリコン16位
+1.  **KEEP ON YOUR SIDE**（2002年1月23日）[亀田誠治](../Page/亀田誠治.md "wikilink")・[久保こーじ](https://ja.wikipedia.org/wiki/久保こーじ "wikilink")・[島野聡](https://ja.wikipedia.org/wiki/島野聡 "wikilink")共同プロデュース。[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")「[ソルトレイクシティオリンピック](https://ja.wikipedia.org/wiki/ソルトレイクシティオリンピック "wikilink")」テーマ曲。オリコン16位
     1.  KEEP ON YOUR SIDE\[5:22\]
           -
             作詞：Chang Jung／作曲・編曲：亀田誠治・島野聡・久保こーじ
@@ -25,8 +25,8 @@
 2.  **Respect**（2002年6月26日）オリコン96位
     1.  Respect\[4:33\]
           -
-            作詞：[牧穂エミ](https://ja.wikipedia.org/wiki/牧穂エミ "wikilink")・勝又亜依子／作曲・編曲：島野聡
-            [NTV系](../Page/日本テレビネットワーク協議会.md "wikilink")「[ダウンタウンDX](https://ja.wikipedia.org/wiki/ダウンタウンDX "wikilink")」エンディングテーマ/TX系「[流派-R](https://ja.wikipedia.org/wiki/流派-R "wikilink")」エンディングテーマ
+            作詞：[牧穂エミ](../Page/牧穂エミ.md "wikilink")・勝又亜依子／作曲・編曲：島野聡
+            [NTV系](../Page/日本テレビネットワーク協議会.md "wikilink")「[ダウンタウンDX](https://ja.wikipedia.org/wiki/ダウンタウンDX "wikilink")」エンディングテーマ/TX系「[流派-R](../Page/流派-R.md "wikilink")」エンディングテーマ
     2.  Who do you love…\[5:20\]
           -
             作詞：牧穂エミ・勝又亜依子／作曲・編曲：島野聡
@@ -36,7 +36,7 @@
     1.  I need you in my life\[4:58\]
           -
             作詞：勝又亜依子／作曲：Nanami／編曲：[長岡成貢](https://ja.wikipedia.org/wiki/長岡成貢 "wikilink")
-            [TBS系](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")「[ロンロバ・ハイティーンブギ](https://ja.wikipedia.org/wiki/ロンロバ! "wikilink")」エンディングテーマ
+            [TBS系](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")「[ロンロバ・ハイティーンブギ](../Page/ロンロバ!.md "wikilink")」エンディングテーマ
     2.  Stay\[4:42\]
           -
             作詞・作曲：四方規之／編曲：大坪稔明
@@ -52,7 +52,7 @@
             作詞：ahhco／作曲：[Mr.BEATS](https://ja.wikipedia.org/wiki/DJ_CELORY "wikilink")／作曲：ahhco
     3.  steppin'\[4:20\]
           -
-            作詞：ahhco／作曲：[井上ヨシマサ](https://ja.wikipedia.org/wiki/井上ヨシマサ "wikilink")／編曲：HASE-T
+            作詞：ahhco／作曲：[井上ヨシマサ](../Page/井上ヨシマサ.md "wikilink")／編曲：HASE-T
     4.  yes i do (Instrumental)\[5:31\]
     5.  ahh-c-o (Instrumental)\[3:52\]
 6.  **Jumpin**' 配信限定
@@ -64,7 +64,7 @@
     1.  made in love\[4:52\]
     2.  yes i do\[5:29
     3.  流星\[4:35\]
-    4.  SHAKER SHAKER feat. SKIPP from [INDEMORAL](https://ja.wikipedia.org/wiki/INDEMORAL "wikilink") \[4:04\]
+    4.  SHAKER SHAKER feat. SKIPP from [INDEMORAL](../Page/INDEMORAL.md "wikilink") \[4:04\]
     5.  ahh-c-o\[3:52\]
     6.  about us\[4:30\]
     7.  topazin'\[4:38\]
@@ -104,9 +104,9 @@
 
 ## 関連項目
 
-  - [愛知県出身の人物一覧](https://ja.wikipedia.org/wiki/愛知県出身の人物一覧 "wikilink")
+  - [愛知県出身の人物一覧](../Page/愛知県出身の人物一覧.md "wikilink")
   - [ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")
-  - [しんドル](https://ja.wikipedia.org/wiki/しんドル "wikilink")
+  - [しんドル](../Page/しんドル.md "wikilink")
 
 ## 外部リンク
 

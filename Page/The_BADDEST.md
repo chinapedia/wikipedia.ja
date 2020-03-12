@@ -1,7 +1,7 @@
 > この記事は[The BADDEST](https://ja.wikipedia.org/wiki/The_BADDEST)から翻訳されています。
 
 
-『**the BADDEST**』（ザ・バデスト）は、[久保田利伸](https://ja.wikipedia.org/wiki/久保田利伸 "wikilink")の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。[1989年](../Page/1989年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink")発売。発売元はCBSソニー（現・[ソニー・ミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")）。
+『**the BADDEST**』（ザ・バデスト）は、[久保田利伸](../Page/久保田利伸.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[1989年](../Page/1989年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink")発売。発売元はCBSソニー（現・[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")）。
 
 ## 解説
 
@@ -10,7 +10,7 @@
   - 全編ニューリミックス、一部リテイクをプリンスのペイズリーパークスタジオで施した。半分がアルバム未収録曲。
   - 『Oh, What A Night\!』は「キリンメッツ」のCM用の曲として作られ、最初はレコード化の予定がなかったが、レコード化の要望が多く、このアルバムにて初レコード化となった。
   - 『PSYCHIC BEAT』は2ndアルバムの最初に収録されているが、このアルバムにてリニューアルされて収録された。
-  - [2009年](../Page/2009年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")、[SME Recordsより](https://ja.wikipedia.org/wiki/エスエムイーレコーズ "wikilink")[Blu-spec CD仕様の完全限定生産盤がリリースされた](https://ja.wikipedia.org/wiki/ブルースペックCD "wikilink")。
+  - [2009年](../Page/2009年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")、[SME Recordsより](../Page/エスエムイーレコーズ.md "wikilink")[Blu-spec CD仕様の完全限定生産盤がリリースされた](https://ja.wikipedia.org/wiki/ブルースペックCD "wikilink")。
   - ちなみに『流星のサドル』は[ブリヂストン](../Page/ブリヂストン.md "wikilink")「INTER CITY」のCM曲として使用していた。
   - 発売にあたり、JRと当時の[帝都高速度交通営団](../Page/帝都高速度交通営団.md "wikilink")（営団地下鉄）に車内吊りポスターを掲示するプロモーションを行った\[1\]。
   - 1990年1月末時点で、レコード会社発表の出荷枚数は170万枚\[2\]。

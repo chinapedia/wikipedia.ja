@@ -5,7 +5,7 @@
 
 ## 解説
 
-  - [MBS](../Page/毎日放送.md "wikilink")・[TBS系アニメ](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")『[DARKER THAN BLACK -黒の契約者-](../Page/DARKER_THAN_BLACK_-黒の契約者-.md "wikilink")』オープニングテーマ。
+  - [MBS](../Page/毎日放送.md "wikilink")・[TBS系アニメ](../Page/TBSテレビ.md "wikilink")『[DARKER THAN BLACK -黒の契約者-](../Page/DARKER_THAN_BLACK_-黒の契約者-.md "wikilink")』オープニングテーマ。
   - 「HOWLING」の意味は、「吠える」である。
   - 初回版には、通常版と異なる4つの特典がある。
 
@@ -22,7 +22,7 @@
 
 ## 収録曲
 
-全曲　作詞:[西川貴教](../Page/西川貴教.md "wikilink")　作曲:[柴崎浩](https://ja.wikipedia.org/wiki/柴崎浩 "wikilink")　編曲:abingdon boys school　
+全曲　作詞:[西川貴教](../Page/西川貴教.md "wikilink")　作曲:[柴崎浩](../Page/柴崎浩.md "wikilink")　編曲:abingdon boys school　
 
 1.  **HOWLING**
       -
@@ -37,8 +37,8 @@
 
 ## 参加ミュージシャン
 
-  - [長谷川浩二](https://ja.wikipedia.org/wiki/長谷川浩二 "wikilink")：[ドラム](../Page/ドラムセット.md "wikilink")（\#1,2）
-  - [IKUO](https://ja.wikipedia.org/wiki/Ikuo "wikilink")：[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")（\#1,2）
+  - [長谷川浩二](../Page/長谷川浩二.md "wikilink")：[ドラム](../Page/ドラムセット.md "wikilink")（\#1,2）
+  - [IKUO](../Page/Ikuo.md "wikilink")：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")（\#1,2）
   - [Lynne Hobday](https://ja.wikipedia.org/wiki/Lynne_Hobday "wikilink")：Female Voice（\#1）
 
 ## 関連項目

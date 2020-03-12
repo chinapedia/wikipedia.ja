@@ -5,9 +5,9 @@
 
 ## 概要
 
-[珍スポット](https://ja.wikipedia.org/wiki/珍スポット "wikilink")、巨大建造物、[大仏](../Page/大仏.md "wikilink")、珍建築、[B級グルメ](https://ja.wikipedia.org/wiki/B級グルメ "wikilink")、[工場](../Page/工場.md "wikilink")、[ダム](../Page/ダム.md "wikilink")、珍寺、地下空間、[水門](https://ja.wikipedia.org/wiki/水門 "wikilink")、[廃墟](https://ja.wikipedia.org/wiki/廃墟 "wikilink")、[戦争遺跡](https://ja.wikipedia.org/wiki/戦争遺跡 "wikilink")など、通常の旅行ガイドブックが取り上げない日本の姿を紹介する雑誌。「日本の《異空間》探険マガジン」がキャッチコピー。
+[珍スポット](https://ja.wikipedia.org/wiki/珍スポット "wikilink")、巨大建造物、[大仏](../Page/大仏.md "wikilink")、珍建築、[B級グルメ](../Page/B級グルメ.md "wikilink")、[工場](../Page/工場.md "wikilink")、[ダム](../Page/ダム.md "wikilink")、珍寺、地下空間、[水門](../Page/水門.md "wikilink")、[廃墟](../Page/廃墟.md "wikilink")、[戦争遺跡](../Page/戦争遺跡.md "wikilink")など、通常の旅行ガイドブックが取り上げない日本の姿を紹介する雑誌。「日本の《異空間》探険マガジン」がキャッチコピー。
 
-2008年6月にはその海外版である『ワンダーWORLD』を刊行。2010年6月から[CS放送](https://ja.wikipedia.org/wiki/CS放送 "wikilink")の[MONDO TVでTV版である](https://ja.wikipedia.org/wiki/MONDO_TV "wikilink")『日本の《異空間》探検番組 ワンダーJAPAN TV』が放送された（全26回 & [軍艦島](https://ja.wikipedia.org/wiki/軍艦島 "wikilink")SPECIAL）。
+2008年6月にはその海外版である『ワンダーWORLD』を刊行。2010年6月から[CS放送](https://ja.wikipedia.org/wiki/CS放送 "wikilink")の[MONDO TVでTV版である](../Page/MONDO_TV.md "wikilink")『日本の《異空間》探検番組 ワンダーJAPAN TV』が放送された（全26回 & [軍艦島](https://ja.wikipedia.org/wiki/軍艦島 "wikilink")SPECIAL）。
 
 ## 関係誌
 
@@ -21,8 +21,8 @@
 ## 関連項目
 
   - [珍スポット](https://ja.wikipedia.org/wiki/珍スポット "wikilink")
-  - [秘宝館](https://ja.wikipedia.org/wiki/秘宝館 "wikilink")
-  - [廃墟](https://ja.wikipedia.org/wiki/廃墟 "wikilink")
+  - [秘宝館](../Page/秘宝館.md "wikilink")
+  - [廃墟](../Page/廃墟.md "wikilink")
 
 ## 外部リンク
 

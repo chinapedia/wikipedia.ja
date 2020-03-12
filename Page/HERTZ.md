@@ -15,13 +15,13 @@
         作詞：小森まなみ／作曲：[伊藤銀次](../Page/伊藤銀次.md "wikilink")／編曲：[丸山恵市](https://ja.wikipedia.org/wiki/丸山恵市 "wikilink")
 2.  **リクエストはSweet Kiss**
       -
-        作詞・作曲：[松宮恭子](https://ja.wikipedia.org/wiki/松宮恭子 "wikilink")／編曲：[馬飼野康二](https://ja.wikipedia.org/wiki/馬飼野康二 "wikilink")
+        作詞・作曲：[松宮恭子](https://ja.wikipedia.org/wiki/松宮恭子 "wikilink")／編曲：[馬飼野康二](../Page/馬飼野康二.md "wikilink")
 3.  **つらいねロストラブ**
       -
-        作詞：[佐伯健三](../Page/サエキけんぞう.md "wikilink")／作曲：[沖山優司](https://ja.wikipedia.org/wiki/沖山優司 "wikilink")／編曲：馬飼野康二
+        作詞：[佐伯健三](../Page/サエキけんぞう.md "wikilink")／作曲：[沖山優司](../Page/沖山優司.md "wikilink")／編曲：馬飼野康二
 4.  **そして次の夏が来た**
       -
-        作詞：[松本一起](https://ja.wikipedia.org/wiki/松本一起 "wikilink")／作曲：伊藤銀次／編曲：馬飼野康二
+        作詞：[松本一起](../Page/松本一起.md "wikilink")／作曲：伊藤銀次／編曲：馬飼野康二
 5.  **LOVE ME BACK**
       -
         作詞：[Suzanne K. Kim](https://ja.wikipedia.org/wiki/Suzanne_K._Kim "wikilink")／作曲・編曲：馬飼野康二

@@ -1,11 +1,11 @@
 > この記事は[W-inds.THE SYSTEM OF ALIVE](https://ja.wikipedia.org/wiki/W-inds.THE_SYSTEM_OF_ALIVE)から翻訳されています。
 
 
-『**w-inds.〜THE SYSTEM OF ALIVE〜**』（ウィンズ 〜ザ・システム・オブ・アライヴ〜）は、[w-inds.](https://ja.wikipedia.org/wiki/w-inds. "wikilink")の2枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。[パッケージ](../Page/パッケージ.md "wikilink")、[ジャケット](https://ja.wikipedia.org/wiki/ジャケット "wikilink")違いの通常盤、初回盤（共にCDのみ／[コピーコントロールCD仕様](https://ja.wikipedia.org/wiki/CCCD "wikilink")）の2形態で[2002年](../Page/2002年.md "wikilink")[12月18日](../Page/12月18日.md "wikilink")発売。
+『**w-inds.〜THE SYSTEM OF ALIVE〜**』（ウィンズ 〜ザ・システム・オブ・アライヴ〜）は、[w-inds.](https://ja.wikipedia.org/wiki/w-inds. "wikilink")の2枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[パッケージ](../Page/パッケージ.md "wikilink")、[ジャケット](../Page/ジャケット.md "wikilink")違いの通常盤、初回盤（共にCDのみ／[コピーコントロールCD仕様](https://ja.wikipedia.org/wiki/CCCD "wikilink")）の2形態で[2002年](../Page/2002年.md "wikilink")[12月18日](../Page/12月18日.md "wikilink")発売。
 
 ## 解説
 
-1stアルバム『[w-inds.〜1st message〜](https://ja.wikipedia.org/wiki/w-inds.〜1st_message〜 "wikilink")』よりちょうど1年ぶりのリリースとなった2ndオリジナルアルバム。シングル「[try your emotion](https://ja.wikipedia.org/wiki/try_your_emotion "wikilink")」「[Another Days](https://ja.wikipedia.org/wiki/Another_Days "wikilink")」「[Because of you](https://ja.wikipedia.org/wiki/Because_of_you_\(w-inds.の曲\) "wikilink")」「[NEW PARADISE](https://ja.wikipedia.org/wiki/NEW_PARADISE "wikilink")」の4枚の[シングル](../Page/シングル.md "wikilink")（内1曲はヴァージョン違い）に加え、リード曲として歌番組『[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）にて披露された「SOMEHOW」を含む全14曲を収録。
+1stアルバム『[w-inds.〜1st message〜](https://ja.wikipedia.org/wiki/w-inds.〜1st_message〜 "wikilink")』よりちょうど1年ぶりのリリースとなった2ndオリジナルアルバム。シングル「[try your emotion](https://ja.wikipedia.org/wiki/try_your_emotion "wikilink")」「[Another Days](../Page/Another_Days.md "wikilink")」「[Because of you](../Page/Because_of_you_\(w-inds.の曲\).md "wikilink")」「[NEW PARADISE](../Page/NEW_PARADISE.md "wikilink")」の4枚の[シングル](../Page/シングル.md "wikilink")（内1曲はヴァージョン違い）に加え、リード曲として歌番組『[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）にて披露された「SOMEHOW」を含む全14曲を収録。
 
 一度、アルバム・[タイトル](https://ja.wikipedia.org/wiki/タイトル "wikilink")は『Baby Maybe』と告知された。
 
@@ -15,13 +15,13 @@
 
 “恋せよ乙女”と歌う収録曲「fever」（M4）は、1980年代後半に絶大なる人気を博した[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")、[デビー・ギブソン](https://ja.wikipedia.org/wiki/デビー・ギブソン "wikilink")が書き下ろした楽曲である（共作）。
 
-収録曲「Baby Maybe」（M5）は、古くは[シカゴや](../Page/シカゴ_\(バンド\).md "wikilink")[オリビア・ニュートンジョン](https://ja.wikipedia.org/wiki/オリビア・ニュートンジョン "wikilink")、近年では[クリスティーナ・アギレラ](https://ja.wikipedia.org/wiki/クリスティーナ・アギレラ "wikilink")（[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")曲「[Genie in a Bottle](https://ja.wikipedia.org/wiki/:en:Genie_in_a_Bottle "wikilink")」）や元[デスティニーズ・チャイルド](https://ja.wikipedia.org/wiki/デスティニーズ・チャイルド "wikilink")のメンバーである[ケリー・ローランド等](https://ja.wikipedia.org/wiki/:en:Kelly_Rowland "wikilink")、人気アーティストを多数組手掛けるアメリカ合衆国屈指の[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")であり[コンポーザーである](../Page/作曲家.md "wikilink")[スティーヴ・キプナーの書き下ろし楽曲である](https://ja.wikipedia.org/wiki/:en:Steve_Kipner "wikilink")（共作）。また、今アルバム収録曲でもある6thシングル「Because of you」での抜擢を経て、今アルバムからその後のw-inds.の多くの作品の[クレジットに名を連ねることになる](https://ja.wikipedia.org/wiki/クレジットタイトル "wikilink")[shungo.](https://ja.wikipedia.org/wiki/shungo. "wikilink")が作詞を担当。夢のために恋人の元を去る主人公とその恋人との[空港](../Page/空港.md "wikilink")での別れ際を描いた今作品は、彼の[十八番](../Page/十八番.md "wikilink")とも言える世界観に仕上がっている。当初アルバムのタイトル・ソングになるはずであったが、初アナウンス後、「THE SYSTEM OF ALIVE」（M6）に変更された模様。今アルバムで「SOMEHOW」と並びスタッフ受け（大人受け）のいい楽曲であったという。（月刊誌『[JUNON](https://ja.wikipedia.org/wiki/JUNON "wikilink")』インタビュー記事より）尚、後にこの楽曲の[続編](../Page/続編.md "wikilink")が2曲制作される。（「[Night Flight 〜夜間飛行〜](https://ja.wikipedia.org/wiki/Night_Flight_〜夜間飛行〜 "wikilink")」「[Deny](https://ja.wikipedia.org/wiki/Deny "wikilink")」）
+収録曲「Baby Maybe」（M5）は、古くは[シカゴや](../Page/シカゴ_\(バンド\).md "wikilink")[オリビア・ニュートンジョン](https://ja.wikipedia.org/wiki/オリビア・ニュートンジョン "wikilink")、近年では[クリスティーナ・アギレラ](../Page/クリスティーナ・アギレラ.md "wikilink")（[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")曲「[Genie in a Bottle](https://ja.wikipedia.org/wiki/:en:Genie_in_a_Bottle "wikilink")」）や元[デスティニーズ・チャイルド](../Page/デスティニーズ・チャイルド.md "wikilink")のメンバーである[ケリー・ローランド等](https://ja.wikipedia.org/wiki/:en:Kelly_Rowland "wikilink")、人気アーティストを多数組手掛けるアメリカ合衆国屈指の[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")であり[コンポーザーである](../Page/作曲家.md "wikilink")[スティーヴ・キプナーの書き下ろし楽曲である](https://ja.wikipedia.org/wiki/:en:Steve_Kipner "wikilink")（共作）。また、今アルバム収録曲でもある6thシングル「Because of you」での抜擢を経て、今アルバムからその後のw-inds.の多くの作品の[クレジットに名を連ねることになる](../Page/クレジットタイトル.md "wikilink")[shungo.](https://ja.wikipedia.org/wiki/shungo. "wikilink")が作詞を担当。夢のために恋人の元を去る主人公とその恋人との[空港](../Page/空港.md "wikilink")での別れ際を描いた今作品は、彼の[十八番](../Page/十八番.md "wikilink")とも言える世界観に仕上がっている。当初アルバムのタイトル・ソングになるはずであったが、初アナウンス後、「THE SYSTEM OF ALIVE」（M6）に変更された模様。今アルバムで「SOMEHOW」と並びスタッフ受け（大人受け）のいい楽曲であったという。（月刊誌『[JUNON](../Page/JUNON.md "wikilink")』インタビュー記事より）尚、後にこの楽曲の[続編](../Page/続編.md "wikilink")が2曲制作される。（「[Night Flight 〜夜間飛行〜](https://ja.wikipedia.org/wiki/Night_Flight_〜夜間飛行〜 "wikilink")」「[Deny](https://ja.wikipedia.org/wiki/Deny "wikilink")」）
 
-収録曲「THANK YOU」（M9）、「I still love you」（M10）、「Top of the world」（M14）を手掛けるT.M.Oは、[T2ya](https://ja.wikipedia.org/wiki/T2ya "wikilink")の音楽制作プロジェクト名。
+収録曲「THANK YOU」（M9）、「I still love you」（M10）、「Top of the world」（M14）を手掛けるT.M.Oは、[T2ya](../Page/T2ya.md "wikilink")の音楽制作プロジェクト名。
 
-収録曲「[This Time 〜願い〜](https://ja.wikipedia.org/wiki/This_Time_〜願い〜 "wikilink")」は、w-inds.公式携帯サイト"[w-inds.tv](http://w-inds.mcan.jp/)"でリリース直後に行われた今アルバム収録曲の人気投票で1位を獲得。人気楽曲として、同じく今アルバム収録曲「SOMEHOW」と併せて[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")『[w-inds.〜bestracks〜](https://ja.wikipedia.org/wiki/w-inds.bestracks "wikilink")』に収録された。なお、同楽曲は2010年に[日本テレビ](../Page/日本テレビ放送網.md "wikilink")『[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")』の企画で、当時出産を控えていた[青木さやか](../Page/青木さやか.md "wikilink")への子守唄オムニバスアルバム収録曲として再レコーディングされている。（一般向けのCD化および配信はない。）
+収録曲「[This Time 〜願い〜](https://ja.wikipedia.org/wiki/This_Time_〜願い〜 "wikilink")」は、w-inds.公式携帯サイト"[w-inds.tv](http://w-inds.mcan.jp/)"でリリース直後に行われた今アルバム収録曲の人気投票で1位を獲得。人気楽曲として、同じく今アルバム収録曲「SOMEHOW」と併せて[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")『[w-inds.〜bestracks〜](https://ja.wikipedia.org/wiki/w-inds.bestracks "wikilink")』に収録された。なお、同楽曲は2010年に[日本テレビ](../Page/日本テレビ放送網.md "wikilink")『[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")』の企画で、当時出産を控えていた[青木さやか](../Page/青木さやか.md "wikilink")への子守唄オムニバスアルバム収録曲として再レコーディングされている。（一般向けのCD化および配信はない。）
 
-今アルバムは[葉山拓亮](https://ja.wikipedia.org/wiki/葉山拓亮 "wikilink")が手掛ける楽曲が半数を占める。
+今アルバムは[葉山拓亮](../Page/葉山拓亮.md "wikilink")が手掛ける楽曲が半数を占める。
 
 ## CD収録曲
 
@@ -50,12 +50,12 @@
 <tbody>
 <tr class="odd">
 <td><p>M-2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NEW_PARADISE" title="wikilink">NEW PARADISE</a></p></td>
+<td><p><a href="../Page/NEW_PARADISE.md" title="wikilink">NEW PARADISE</a></p></td>
 <td><p>未確認</p></td>
 </tr>
 <tr class="even">
 <td><p>M-7</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Because_of_you_(w-inds.の曲)" title="wikilink">Because of you</a></p></td>
+<td><p><a href="../Page/Because_of_you_(w-inds.の曲).md" title="wikilink">Because of you</a></p></td>
 <td><p>未確認</p></td>
 </tr>
 <tr class="odd">
@@ -66,7 +66,7 @@
 </tr>
 <tr class="even">
 <td><p>M-12</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Another_Days" title="wikilink">Another Days</a></p></td>
+<td><p><a href="../Page/Another_Days.md" title="wikilink">Another Days</a></p></td>
 <td><p><a href="../Page/ファミリーマート.md" title="wikilink">ファミリーマート</a>『M/F/C』<a href="https://ja.wikipedia.org/wiki/CMソング" title="wikilink">CMソング</a></p></td>
 </tr>
 </tbody>

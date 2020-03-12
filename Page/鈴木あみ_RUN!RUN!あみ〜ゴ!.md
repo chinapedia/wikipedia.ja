@@ -32,11 +32,11 @@
 
 ## 備考
 
-後番組として、「[田中麗奈ハートをあげるっ](https://ja.wikipedia.org/wiki/田中麗奈ハートをあげるっ "wikilink")」が日曜23時台から移動。空いた日曜23時枠は23時30分から放送されていた「allnightnippon Sunday Special」を拡大した上で「[中澤裕子](../Page/中澤裕子.md "wikilink")のaiinightnippon Sunday Special」がスタートした。
+後番組として、「[田中麗奈ハートをあげるっ](../Page/田中麗奈ハートをあげるっ.md "wikilink")」が日曜23時台から移動。空いた日曜23時枠は23時30分から放送されていた「allnightnippon Sunday Special」を拡大した上で「[中澤裕子](../Page/中澤裕子.md "wikilink")のaiinightnippon Sunday Special」がスタートした。
 
 ## 関連項目
 
-  - [ニッポン放送番組一覧](https://ja.wikipedia.org/wiki/ニッポン放送番組一覧 "wikilink")
-  - [SONY Night Square](https://ja.wikipedia.org/wiki/SONY_Night_Square "wikilink")
+  - [ニッポン放送番組一覧](../Page/ニッポン放送番組一覧.md "wikilink")
+  - [SONY Night Square](../Page/SONY_Night_Square.md "wikilink")
 
 [Category:1998年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1998年のラジオ番組_\(日本\) "wikilink") [Category:ニッポン放送の番組の歴史](https://ja.wikipedia.org/wiki/Category:ニッポン放送の番組の歴史 "wikilink") [Category:ニッポン放送のバラエティ番組](https://ja.wikipedia.org/wiki/Category:ニッポン放送のバラエティ番組 "wikilink")

@@ -1,16 +1,16 @@
 > この記事は[HERTZ IIKey Station](https://ja.wikipedia.org/wiki/HERTZ_IIKey_Station)から翻訳されています。
 
 
-『**HERTZ II〜ハートのKey Station〜**』（ヘルツセカンド ハートのキーステーション）は、[小森まなみ](../Page/小森まなみ.md "wikilink")2作目のアルバムである。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[8月21日](../Page/8月21日.md "wikilink")、[スターチャイルド](https://ja.wikipedia.org/wiki/スターチャイルド "wikilink")より発売された。[1993年](../Page/1993年.md "wikilink")[4月30日](../Page/4月30日.md "wikilink")に再発売されている。
+『**HERTZ II〜ハートのKey Station〜**』（ヘルツセカンド ハートのキーステーション）は、[小森まなみ](../Page/小森まなみ.md "wikilink")2作目のアルバムである。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[8月21日](../Page/8月21日.md "wikilink")、[スターチャイルド](../Page/スターチャイルド.md "wikilink")より発売された。[1993年](../Page/1993年.md "wikilink")[4月30日](../Page/4月30日.md "wikilink")に再発売されている。
 
 ## 解説
 
-  - 「ガラスのダイアリー」を除き小森本人の[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")であり、以後小森が自らほとんどの曲で作詞を手掛けるようになる。
-  - 前作に引き続き、[編曲](../Page/編曲.md "wikilink")を全曲[馬飼野康二](https://ja.wikipedia.org/wiki/馬飼野康二 "wikilink")が担当し、作曲にも様々なアーティストが参加している。
+  - 「ガラスのダイアリー」を除き小森本人の[作詞](../Page/作詞.md "wikilink")であり、以後小森が自らほとんどの曲で作詞を手掛けるようになる。
+  - 前作に引き続き、[編曲](../Page/編曲.md "wikilink")を全曲[馬飼野康二](../Page/馬飼野康二.md "wikilink")が担当し、作曲にも様々なアーティストが参加している。
 
 ## 収録曲
 
-  - 全曲編曲：[馬飼野康二](https://ja.wikipedia.org/wiki/馬飼野康二 "wikilink")
+  - 全曲編曲：[馬飼野康二](../Page/馬飼野康二.md "wikilink")
 
 <!-- end list -->
 
@@ -25,13 +25,13 @@
         作詞：小森まなみ／作曲：[伊藤銀次](../Page/伊藤銀次.md "wikilink")
 4.  **カモミールの午後**
       -
-        作詞：小森まなみ／作曲：[沖山優司](https://ja.wikipedia.org/wiki/沖山優司 "wikilink")
+        作詞：小森まなみ／作曲：[沖山優司](../Page/沖山優司.md "wikilink")
 5.  **HAPPY BIRTHDAY**
       -
-        作詞：小森まなみ／作曲：[楠瀬誠志郎](https://ja.wikipedia.org/wiki/楠瀬誠志郎 "wikilink")
+        作詞：小森まなみ／作曲：[楠瀬誠志郎](../Page/楠瀬誠志郎.md "wikilink")
 6.  **君のルール**
       -
-        作詞：小森まなみ／作曲：[PANTA](https://ja.wikipedia.org/wiki/パンタ_\(歌手\) "wikilink")
+        作詞：小森まなみ／作曲：[PANTA](../Page/パンタ_\(歌手\).md "wikilink")
 7.  **魔法のルーペ**
       -
         作詞：小森まなみ／作曲：馬飼野康二

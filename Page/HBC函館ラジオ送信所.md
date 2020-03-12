@@ -1,7 +1,7 @@
 > この記事は[HBC](https://ja.wikipedia.org/wiki/HBC)から翻訳されています。
 
 
-**HBC函館ラジオ送信所**（エイチビーシーはこだてラジオそうしんじょ）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[北斗市](https://ja.wikipedia.org/wiki/北斗市 "wikilink")の旧[亀田郡](https://ja.wikipedia.org/wiki/亀田郡 "wikilink")[大野町にある](https://ja.wikipedia.org/wiki/大野町_\(北海道\) "wikilink")[北海道放送](../Page/北海道放送.md "wikilink")（[HBCラジオ](../Page/HBCラジオ.md "wikilink")）の[中波放送](../Page/中波放送.md "wikilink")[送信所](https://ja.wikipedia.org/wiki/送信所 "wikilink")である。
+**HBC函館ラジオ送信所**（エイチビーシーはこだてラジオそうしんじょ）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[北斗市](../Page/北斗市.md "wikilink")の旧[亀田郡](../Page/亀田郡.md "wikilink")[大野町にある](../Page/大野町_\(北海道\).md "wikilink")[北海道放送](../Page/北海道放送.md "wikilink")（[HBCラジオ](../Page/HBCラジオ.md "wikilink")）の[中波放送](../Page/中波放送.md "wikilink")[送信所](../Page/送信所.md "wikilink")である。
 
 ## 概要
 
@@ -14,9 +14,9 @@
 <tr class="header">
 <th><p><a href="../Page/周波数.md" title="wikilink">周波数</a><br />
 （<a href="https://ja.wikipedia.org/wiki/キロヘルツ" title="wikilink">kHz</a>）</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/日本のラジオ放送局" title="wikilink">放送局名</a></p></th>
+<th><p><a href="../Page/日本のラジオ放送局.md" title="wikilink">放送局名</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/識別信号" title="wikilink">コールサイン</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/空中線電力" title="wikilink">空中線<br />
+<th><p><a href="../Page/空中線電力.md" title="wikilink">空中線<br />
 電力</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/放送#放送対象地域" title="wikilink">放送対象地域</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/放送#放送区域" title="wikilink">放送区域</a><br />
@@ -39,12 +39,12 @@
 </tbody>
 </table>
 
-  - 1991年8月、[江差町](https://ja.wikipedia.org/wiki/江差町 "wikilink")と[北檜山町](https://ja.wikipedia.org/wiki/北檜山町 "wikilink")（現:[せたな町](https://ja.wikipedia.org/wiki/せたな町 "wikilink")北檜山区）の[檜山地区に](https://ja.wikipedia.org/wiki/檜山振興局 "wikilink")、夜間の近隣諸国からの混信による難聴地域解消のため[中継局](../Page/中継局.md "wikilink")を開局。
+  - 1991年8月、[江差町](../Page/江差町.md "wikilink")と[北檜山町](../Page/北檜山町.md "wikilink")（現:[せたな町](../Page/せたな町.md "wikilink")北檜山区）の[檜山地区に](https://ja.wikipedia.org/wiki/檜山振興局 "wikilink")、夜間の近隣諸国からの混信による難聴地域解消のため[中継局](../Page/中継局.md "wikilink")を開局。
 
 ## 放送エリア
 
   - 渡島管内・檜山管内・[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")全域（青森県の場合、夜間は札幌親局1287kHz経由でも受信可）。
-  - 檜山管内のほぼ全域では、[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")（[平成](../Page/平成.md "wikilink")3年）に開局した[江差ラジオ中継局](https://ja.wikipedia.org/wiki/江差ラジオ中継局 "wikilink")と[北桧山ラジオ中継局](https://ja.wikipedia.org/wiki/北桧山ラジオ中継局 "wikilink")でカバーしている。
+  - 檜山管内のほぼ全域では、[1991年](../Page/1991年.md "wikilink")（[平成](../Page/平成.md "wikilink")3年）に開局した[江差ラジオ中継局](../Page/江差ラジオ中継局.md "wikilink")と[北桧山ラジオ中継局](../Page/北桧山ラジオ中継局.md "wikilink")でカバーしている。
 
 ## 送信所置局住所
 
@@ -56,7 +56,7 @@
 
 ## 関連項目
 
-  - [北斗市](https://ja.wikipedia.org/wiki/北斗市 "wikilink")
+  - [北斗市](../Page/北斗市.md "wikilink")
   - [北海道放送](../Page/北海道放送.md "wikilink")
   - [HBCラジオ](../Page/HBCラジオ.md "wikilink")
 

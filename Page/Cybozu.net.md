@@ -5,7 +5,7 @@
 
 ## 概要
 
-株式会社[サイバーエージェント](https://ja.wikipedia.org/wiki/サイバーエージェント "wikilink")、[サイボウズ](https://ja.wikipedia.org/wiki/サイボウズ "wikilink")株式会社、株式会社[ECナビ](https://ja.wikipedia.org/wiki/ECナビ "wikilink")の合弁会社として[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")11月1日設立。
+株式会社[サイバーエージェント](https://ja.wikipedia.org/wiki/サイバーエージェント "wikilink")、[サイボウズ](../Page/サイボウズ.md "wikilink")株式会社、株式会社[ECナビ](https://ja.wikipedia.org/wiki/ECナビ "wikilink")の合弁会社として[2005年](../Page/2005年.md "wikilink")11月1日設立。
 
 『日本のビジネスパーソンをもっと元気に！』をスローガンに、ビジネスに役立つ情報を集約したビジネスポータルサイト、cybozu.netを運営。月間ページビュー数が約1,800万PVとアクセスが多い。
 
@@ -15,10 +15,10 @@
 
 ## 沿革
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")11月 - サイバーエージェント、サイボウズ、ECナビの合同出資により設立
+  - [2005年](../Page/2005年.md "wikilink")11月 - サイバーエージェント、サイボウズ、ECナビの合同出資により設立
   - 2005年12月 - LA FABRIQUEにて、cybozu.nite 2.0をFeedpathと合同開催
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")2月 - [渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")道玄坂に社屋を移転
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")2月 - [渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")南平台に社屋を移転
+  - [2006年](../Page/2006年.md "wikilink")2月 - [渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")道玄坂に社屋を移転
+  - [2007年](../Page/2007年.md "wikilink")2月 - [渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")南平台に社屋を移転
   - 2007年4月 - ビジネスマナー・知識トレーニングサービス「bizトレ」をリリース
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月 - [渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")神泉町に社屋を移転
   - 2009年9月 - 代表取締役CEO交代（宇佐美　進典より椿　奈緒子）

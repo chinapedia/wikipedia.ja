@@ -7,11 +7,11 @@
 
 練馬アニメーション協議会会員
 
-東京都練馬区に有限会社Wishを創立。 [2009年](../Page/2009年.md "wikilink")、『[メタルファイト ベイブレード](https://ja.wikipedia.org/wiki/メタルファイト_ベイブレード "wikilink")』で初の[グロス請け](https://ja.wikipedia.org/wiki/グロス請け "wikilink")を行った。
+東京都練馬区に有限会社Wishを創立。 [2009年](../Page/2009年.md "wikilink")、『[メタルファイト ベイブレード](https://ja.wikipedia.org/wiki/メタルファイト_ベイブレード "wikilink")』で初の[グロス請け](../Page/グロス請け.md "wikilink")を行った。
 
 1980年に開設された日本サンライズ（現：サンライズ）の仕上げ部門が1987年の組織改変に伴い独立し、発足した仕上スタジオである有限会社エムアイがその前身である。2005年には、エムアイより現在の代表取締役（当時は取締役）である佐々木尚子が独立し、東京都練馬区に有限会社Wishを創立。同年にエムアイとの間に営業譲渡契約を果たし、仕上・作画業務の全てを譲り受けて現在に至る。現在、数多くの仕上げグロスを請け負っており、仕上げ業務では国内大手のスタジオである。
 
-多くの作品の場合、「**Wish**」「**WISH**」「**wish**」と[クレジットされる](https://ja.wikipedia.org/wiki/クレジットタイトル "wikilink")。
+多くの作品の場合、「**Wish**」「**WISH**」「**wish**」と[クレジットされる](../Page/クレジットタイトル.md "wikilink")。
 
 ## 関連人物
 
@@ -34,13 +34,13 @@
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
   - [蛯名秀和](https://ja.wikipedia.org/wiki/蛯名秀和 "wikilink")
-  - [竹内順子](https://ja.wikipedia.org/wiki/竹内順子 "wikilink")
+  - [竹内順子](../Page/竹内順子.md "wikilink")
 
 </div>
 
 ## 関連項目
 
-  - [色彩設定](https://ja.wikipedia.org/wiki/色彩設定 "wikilink")
+  - [色彩設定](../Page/色彩設定.md "wikilink")
   - [アニメ制作会社一覧](https://ja.wikipedia.org/wiki/アニメ制作会社#日本のアニメ制作会社一覧 "wikilink")
 
 ## 外部リンク

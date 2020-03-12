@@ -3,7 +3,7 @@
 
 『**Natural Another One**』（ナチュラル アナザーワン）は、[2003年](../Page/2003年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")に[F\&C FC03より発売された](../Page/F&C.md "wikilink")[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲームである](../Page/恋愛ゲーム_\(ゲームジャンル\).md "wikilink")。**NAO**と略される場合もある。
 
-本項では[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")に[DreamSoft](https://ja.wikipedia.org/wiki/DreamSoft "wikilink")より発売された続編『**Natural Another One 2nd -Belladonna-**』についても記述する。
+本項では[2005年](../Page/2005年.md "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")に[DreamSoft](https://ja.wikipedia.org/wiki/DreamSoft "wikilink")より発売された続編『**Natural Another One 2nd -Belladonna-**』についても記述する。
 
 ## Natural Another One
 
@@ -18,7 +18,7 @@
     彼の家族は彼を出来の悪い男とみているようで、彼自身も同様に家族を蔑み、嫌っている。また、母違いの兄がいるが、母違いのためか非常に仲が悪い。
     ゲーム開始時点で名前の変更が可能。
   - 湖川 水緒（こがわ みなお）
-    声：[成瀬未亜](https://ja.wikipedia.org/wiki/成瀬未亜 "wikilink")
+    声：[成瀬未亜](../Page/成瀬未亜.md "wikilink")
     主人公が勤める予備校の生徒。主人公のことが好きなあまりすすんで奴隷となる健気な少女。
   - 牧瀬 遥（まきせ はるか）
     声：[YUKI](https://ja.wikipedia.org/wiki/YUKI_\(声優\) "wikilink")
@@ -51,13 +51,13 @@
   - 風早 草平（かざはや そうへい）
     [2月3日](../Page/2月3日.md "wikilink")生まれ。主人公。大学生だがあまり大学に顔は見せない。女性遍歴は多いが樹に関しては別れた後も特別視している。母違いの弟がいるが、母違いのためか非常に仲が悪い。
   - 八千草 樹（やちぐさ いつき）
-    [声](../Page/声優.md "wikilink")：[かわしまりの](https://ja.wikipedia.org/wiki/かわしまりの "wikilink")
+    [声](../Page/声優.md "wikilink")：[かわしまりの](../Page/かわしまりの.md "wikilink")
     [12月3日](../Page/12月3日.md "wikilink")生まれ。草平と昔交際していたが、家のために隆三の元へ嫁ぐ。そのため遺産相続順位の筆頭となっている。
   - 硯 碧葉（すずり あおば）
     声：[風音](https://ja.wikipedia.org/wiki/風音_\(声優\) "wikilink")
     [7月19日](../Page/7月19日.md "wikilink")生まれ。八千草家に仕える[メイド](../Page/メイド.md "wikilink")で、現在は樹専属。草平に敵対的な言動をし、八千草家以外の人間に対し総じて物騒な態度をとることが多い。
   - 八千草 響果（やちぐさ きょうか）
-    声：[中家志穂](https://ja.wikipedia.org/wiki/中家志穂 "wikilink")
+    声：[中家志穂](../Page/中家志穂.md "wikilink")
     [3月24日](../Page/3月24日.md "wikilink")生まれ。隆三の娘である双子姉妹の姉。小さい頃の事故の影響で言葉を失っている。草平は表向きには彼女の家庭教師という立場。
   - 八千草 蜜音（やちぐさ みつね）
     声：中家菜穂

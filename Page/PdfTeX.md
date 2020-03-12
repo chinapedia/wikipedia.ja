@@ -1,9 +1,9 @@
 > この記事は[PdfTeX](https://ja.wikipedia.org/wiki/PdfTeX)から翻訳されています。
 
 
-**pdf** (**pdfTeX**) は、[](../Page/TeX.md "wikilink") から派生した[組版](../Page/組版.md "wikilink")処理ソフトウェアである。<span style="font-variant: small-caps">Hàn</span> Thế Thành が開発した。 と pdf の一番の違いは、 が [DVI](https://ja.wikipedia.org/wiki/DVI_\(ファイルフォーマット\) "wikilink") ファイルを出力するのに対して、pdf が [PDF](../Page/Portable_Document_Format.md "wikilink") ファイルを直接出力する点である。PDF と密に連携できるため、[ハイパーテキスト](../Page/ハイパーテキスト.md "wikilink")リンクや目次といった機能が使用でき、[hyperref](https://ja.wikipedia.org/wiki/hyperref "wikilink") のようなパッケージを使える。一方で DVI から [PostScript](../Page/PostScript.md "wikilink") への変換過程で使える [PSTricks](https://ja.wikipedia.org/wiki/PSTricks "wikilink") のようなパッケージとは連携できないが、同様の機能を持つ [pdftricks](https://ja.wikipedia.org/wiki/pdftricks "wikilink") が作られている。
+**pdf** (**pdfTeX**) は、[](../Page/TeX.md "wikilink") から派生した[組版](../Page/組版.md "wikilink")処理ソフトウェアである。<span style="font-variant: small-caps">Hàn</span> Thế Thành が開発した。 と pdf の一番の違いは、 が [DVI](https://ja.wikipedia.org/wiki/DVI_\(ファイルフォーマット\) "wikilink") ファイルを出力するのに対して、pdf が [PDF](../Page/Portable_Document_Format.md "wikilink") ファイルを直接出力する点である。PDF と密に連携できるため、[ハイパーテキスト](../Page/ハイパーテキスト.md "wikilink")リンクや目次といった機能が使用でき、[hyperref](https://ja.wikipedia.org/wiki/hyperref "wikilink") のようなパッケージを使える。一方で DVI から [PostScript](../Page/PostScript.md "wikilink") への変換過程で使える [PSTricks](../Page/PSTricks.md "wikilink") のようなパッケージとは連携できないが、同様の機能を持つ [pdftricks](https://ja.wikipedia.org/wiki/pdftricks "wikilink") が作られている。
 
-pdf から DVI 出力を得ることも可能である。この DVI 出力は  と基本的には同じだが、pdf 独自のマイクロ組版機能が有効になっていると異なった出力となる。さらに、[](../Page/LaTeX.md "wikilink") や [](https://ja.wikipedia.org/wiki/ConTeXt "wikilink") などといったソフトウェアは  のための単純な[マクロパッケージであるため](https://ja.wikipedia.org/wiki/マクロ_\(コンピュータ用語\) "wikilink")、pdf とも連携可能である。`pdflatex` では、標準的な  マクロを使った文書について pdf プログラムが呼び出されて組版処理が行われる。
+pdf から DVI 出力を得ることも可能である。この DVI 出力は  と基本的には同じだが、pdf 独自のマイクロ組版機能が有効になっていると異なった出力となる。さらに、[](../Page/LaTeX.md "wikilink") や [](../Page/ConTeXt.md "wikilink") などといったソフトウェアは  のための単純な[マクロパッケージであるため](../Page/マクロ_\(コンピュータ用語\).md "wikilink")、pdf とも連携可能である。`pdflatex` では、標準的な  マクロを使った文書について pdf プログラムが呼び出されて組版処理が行われる。
 
 ## 機能
 

@@ -1,7 +1,7 @@
 > この記事は[LAULA](https://ja.wikipedia.org/wiki/LAULA)から翻訳されています。
 
 
-**LAULA**（ラウラ）は[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[藤沢市](../Page/藤沢市.md "wikilink")出身の[ハワイアン](https://ja.wikipedia.org/wiki/ハワイアン "wikilink")[デュオ](https://ja.wikipedia.org/wiki/デュオ "wikilink")である。1999年に3人組として結成。2000年5月に現在のメンバーとなる。[2004年](../Page/2004年.md "wikilink")よりデビュー。
+**LAULA**（ラウラ）は[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[藤沢市](../Page/藤沢市.md "wikilink")出身の[ハワイアン](https://ja.wikipedia.org/wiki/ハワイアン "wikilink")[デュオ](../Page/デュオ.md "wikilink")である。1999年に3人組として結成。2000年5月に現在のメンバーとなる。[2004年](../Page/2004年.md "wikilink")よりデビュー。
 
 ## メンバー
 
@@ -36,7 +36,7 @@
 
 ## 関連項目
 
-  - [京都\!ちゃちゃちゃっ](https://ja.wikipedia.org/wiki/京都!ちゃちゃちゃっ "wikilink")
+  - [京都\!ちゃちゃちゃっ](../Page/京都!ちゃちゃちゃっ.md "wikilink")
 
 ## 外部リンク
 

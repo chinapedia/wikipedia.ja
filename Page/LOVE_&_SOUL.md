@@ -1,13 +1,13 @@
 > この記事は[LOVE \& SOUL](https://ja.wikipedia.org/wiki/LOVE_\&_SOUL)から翻訳されています。
 
 
-**LOVE & SOUL**（ラブ アンド ソウル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[J-POP](../Page/J-POP.md "wikilink")グループである[ET-KING](https://ja.wikipedia.org/wiki/ET-KING "wikilink")のメジャー1枚目の[アルバム](../Page/アルバム.md "wikilink")。発売元は、[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。
+**LOVE & SOUL**（ラブ アンド ソウル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[J-POP](../Page/J-POP.md "wikilink")グループである[ET-KING](../Page/ET-KING.md "wikilink")のメジャー1枚目の[アルバム](../Page/アルバム.md "wikilink")。発売元は、[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
 
 ## 概要
 
   - 初回生産限定盤はDVD付きである。
   - DVDには[麒麟淡麗](https://ja.wikipedia.org/wiki/麒麟淡麗 "wikilink")＜生＞CM&メイキング映像が収録されている。
-  - ジャケット写真には2代目[トヨタ・クラウン](https://ja.wikipedia.org/wiki/トヨタ・クラウン "wikilink")が写っている。
+  - ジャケット写真には2代目[トヨタ・クラウン](../Page/トヨタ・クラウン.md "wikilink")が写っている。
 
 ## 収録曲
 
@@ -51,7 +51,7 @@
         2ndシングル
 11. **たいまつ**(4:12)
       -
-        作曲：イトキン/DJ BOOBY、Produced by [DJ BOOBY](https://ja.wikipedia.org/wiki/DJ_BOOBY "wikilink") & イトキン
+        作曲：イトキン/DJ BOOBY、Produced by [DJ BOOBY](../Page/DJ_BOOBY.md "wikilink") & イトキン
 12. **7ドアーズ・バス**(4:12)
       -
         作曲：イトキン、Produced by SHANTY-NOB

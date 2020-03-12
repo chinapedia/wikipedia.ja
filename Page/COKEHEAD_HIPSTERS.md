@@ -80,7 +80,7 @@
 <li>I NEED TO TELL YOU SOMETHING</li>
 <li>HURDLE</li>
 <li>I KNOW(WHAT YOU WANT)</li>
-<li>TOO DRUNK TO FUCK（<a href="https://ja.wikipedia.org/wiki/デッド・ケネディーズ" title="wikilink">デッド・ケネディーズ</a>のカバー）</li>
+<li>TOO DRUNK TO FUCK（<a href="../Page/デッド・ケネディーズ.md" title="wikilink">デッド・ケネディーズ</a>のカバー）</li>
 </ol>
 <p>アナログ盤にはSHAKKAZOMBIEのTSUCCHIによるENDING TRACKが収録されていた</p>
 </div>
@@ -320,17 +320,17 @@ TOWER RECORDS特典CD</p></td>
 <ol>
 <li>CONCRETE JUNGLE / <a href="../Page/スペシャルズ.md" title="wikilink">スペシャルズ</a></li>
 <li>BAT MAN / <a href="https://ja.wikipedia.org/wiki/w:en:Mucky_Pup" title="wikilink">Mucky Pup</a></li>
-<li>MY SHARONA / <a href="https://ja.wikipedia.org/wiki/ザ・ナック" title="wikilink">ザ・ナック</a></li>
+<li>MY SHARONA / <a href="../Page/ザ・ナック.md" title="wikilink">ザ・ナック</a></li>
 <li>WE WILL ROCK YOU / <a href="../Page/クイーン_(バンド).md" title="wikilink">クイーン</a></li>
-<li>VIDEO KILLED THE RADIO STAR / <a href="https://ja.wikipedia.org/wiki/バグルス" title="wikilink">バグルス</a></li>
-<li>BLUE MONDAY / <a href="https://ja.wikipedia.org/wiki/ニュー・オーダー" title="wikilink">ニュー・オーダー</a></li>
-<li>GIRLS / <a href="https://ja.wikipedia.org/wiki/ビースティ・ボーイズ" title="wikilink">ビースティ・ボーイズ</a></li>
+<li>VIDEO KILLED THE RADIO STAR / <a href="../Page/バグルス.md" title="wikilink">バグルス</a></li>
+<li>BLUE MONDAY / <a href="../Page/ニュー・オーダー.md" title="wikilink">ニュー・オーダー</a></li>
+<li>GIRLS / <a href="../Page/ビースティ・ボーイズ.md" title="wikilink">ビースティ・ボーイズ</a></li>
 <li>THAT'S ENOUGH / <a href="../Page/スナッフ_(バンド).md" title="wikilink">スナッフ</a></li>
 <li>WALK LIKE AN EGYPTIAN / バグルス</li>
 <li>FUNKYTOWN / <a href="https://ja.wikipedia.org/wiki/リップス・インク" title="wikilink">リップス・インク</a></li>
 <li>COME ON EILEEN / <a href="https://ja.wikipedia.org/wiki/デキシーズ・ミッドナイト・ランナーズ" title="wikilink">デキシーズ・ミッドナイト・ランナーズ</a></li>
 <li>SMASH IT UP / <a href="../Page/ダムド.md" title="wikilink">ダムド</a></li>
-<li>TOO DRUNK TO FUCK / <a href="https://ja.wikipedia.org/wiki/デッド・ケネディーズ" title="wikilink">デッド・ケネディーズ</a></li>
+<li>TOO DRUNK TO FUCK / <a href="../Page/デッド・ケネディーズ.md" title="wikilink">デッド・ケネディーズ</a></li>
 </ol>
 <p><br />
 1,2,8,9曲目は再レコーディング、3,6,7,10,12曲目は限定販売されたCOVERHEAD HIPSTERS(5 Tracks)に先行収録</p>
@@ -550,7 +550,7 @@ POPDVD-104:通常盤</p></td>
 
 \#:参加バンド
 
-\#:SCAFULL KING , [BACK DROP BOMB](https://ja.wikipedia.org/wiki/BACK_DROP_BOMB "wikilink") , [BRAHMAN](https://ja.wikipedia.org/wiki/BRAHMAN "wikilink") , [COCOBAT](https://ja.wikipedia.org/wiki/COCOBAT "wikilink") , [Hi-STANDARD](https://ja.wikipedia.org/wiki/Hi-STANDARD "wikilink") ,
+\#:SCAFULL KING , [BACK DROP BOMB](../Page/BACK_DROP_BOMB.md "wikilink") , [BRAHMAN](../Page/BRAHMAN.md "wikilink") , [COCOBAT](https://ja.wikipedia.org/wiki/COCOBAT "wikilink") , [Hi-STANDARD](../Page/Hi-STANDARD.md "wikilink") ,
 
 \#:GMF , RUDE BONES , [ALL LIVING THINGS](https://ja.wikipedia.org/wiki/ALL_LIVING_THINGS "wikilink") , [WRENCH](https://ja.wikipedia.org/wiki/WRENCH "wikilink") , [ABNORMALS](../Page/ABNORMALS.md "wikilink")
 
@@ -565,7 +565,7 @@ POPDVD-104:通常盤</p></td>
         w/BRAHMAN
   - 2009年01月30日 - COKEHEAD HIPSTERS pre. PLAYBACK IN THE 90'S CIRCLE VOL.5
       -
-        w/BRAHMAN / COCOBAT / WRENCH / [難波章浩](https://ja.wikipedia.org/wiki/難波章浩 "wikilink") -AKIHIRO NAMBA-
+        w/BRAHMAN / COCOBAT / WRENCH / [難波章浩](../Page/難波章浩.md "wikilink") -AKIHIRO NAMBA-
   - 2009年03月19日 - COKEHEAD HIPSTERS pre. PLAYBACK IN THE CIRCLE
       -
         w/[DUCK MISSILE](https://ja.wikipedia.org/wiki/DUCK_MISSILE "wikilink") / [ハカイハヤブサ](https://ja.wikipedia.org/wiki/ハカイハヤブサ "wikilink")
@@ -583,7 +583,7 @@ POPDVD-104:通常盤</p></td>
         w/[STEP LIGHTLY](https://ja.wikipedia.org/wiki/STEP_LIGHTLY "wikilink")
   - 2016年04月08日 - COKEHEAD HIPSTERS pre. PLAYBACK IN THE CIRCLE
       -
-        w/[HUSKING BEE](https://ja.wikipedia.org/wiki/HUSKING_BEE "wikilink")
+        w/[HUSKING BEE](../Page/HUSKING_BEE.md "wikilink")
 
 ### 出演イベント
 
@@ -596,10 +596,10 @@ POPDVD-104:通常盤</p></td>
   - 2011年11月19日 - KAIKOO POPWAVE FESTIVAL 2011
   - 2012年02月25日 - DEVILOCK NIGHT THE FINAL～Thank you and Good bye～
   - 2012年08月30日 - TOKYO DISCOPIA by bloc del'echo
-  - 2012年10月08日 - [HAWAIIAN6](https://ja.wikipedia.org/wiki/HAWAIIAN6 "wikilink") presents ECHOES 2012
+  - 2012年10月08日 - [HAWAIIAN6](../Page/HAWAIIAN6.md "wikilink") presents ECHOES 2012
   - 2012年10月21日 - タワーレコード難波店10周年記念イベント「ミナミの10王～ロックの匂いがしよるでぇッ\!～」
   - 2012年11月17日 - THINGS WE SAY VOL.11
-  - 2013年03月05日 - [難波章浩 NAMBA-](https://ja.wikipedia.org/wiki/難波章浩 "wikilink")-AKIHIRO「WAKE UP\!\!\! 2013 -ETERNAL BONDS TOUR-」
+  - 2013年03月05日 - [難波章浩 NAMBA-](../Page/難波章浩.md "wikilink")-AKIHIRO「WAKE UP\!\!\! 2013 -ETERNAL BONDS TOUR-」
   - 2013年03月20日 - PLAYBACK IN THE CIRCLE vol.14
   - 2013年04月27日 - Pangea2周年記念【agartha20130427】
   - 2013年07月14日 - THINGS WE SAY VOL.18
@@ -622,12 +622,12 @@ POPDVD-104:通常盤</p></td>
   - 2015年09月06日 - DESTINY FESTIVAL 2015
   - 2015年09月20日 - PUNKAFOOLIC\! SHIBUYA CRASH 2015
   - 2015年10月02日 - KLUB COUNTER ACTION 20th Anniversary
-  - 2015年11月14日 - [BRAHMAN](https://ja.wikipedia.org/wiki/BRAHMAN "wikilink") 尽未来際 ～尽未来祭～
+  - 2015年11月14日 - [BRAHMAN](../Page/BRAHMAN.md "wikilink") 尽未来際 ～尽未来祭～
   - 2016年01月17日 - 夜明け前 其の三十四
 
 ## 関連項目
 
-  - [日本のパンク・ロック](https://ja.wikipedia.org/wiki/日本のパンク・ロック "wikilink")
+  - [日本のパンク・ロック](../Page/日本のパンク・ロック.md "wikilink")
   - [Super Junky Monkey](../Page/Super_Junky_Monkey.md "wikilink")
   - [NIAGARA 33](https://ja.wikipedia.org/wiki/NIAGARA_33 "wikilink")
   - [LO-LITE](https://ja.wikipedia.org/wiki/LO-LITE "wikilink")

@@ -1,9 +1,9 @@
 > この記事は[Id TECH5](https://ja.wikipedia.org/wiki/Id_TECH5)から翻訳されています。
 
 
-**id TECH5**は、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[6月11日](../Page/6月11日.md "wikilink")（米国時間）に[アメリカのゲーム開発会社](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[id Softwareが](https://ja.wikipedia.org/wiki/id_Software "wikilink")、[WWDC](https://ja.wikipedia.org/wiki/WWDC "wikilink")2007にて公表した3D[ゲームエンジン](https://ja.wikipedia.org/wiki/ゲームエンジン "wikilink")の名称である。
+**id TECH5**は、[2007年](../Page/2007年.md "wikilink")[6月11日](../Page/6月11日.md "wikilink")（米国時間）に[アメリカのゲーム開発会社](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[id Softwareが](https://ja.wikipedia.org/wiki/id_Software "wikilink")、[WWDC](https://ja.wikipedia.org/wiki/WWDC "wikilink")2007にて公表した3D[ゲームエンジン](../Page/ゲームエンジン.md "wikilink")の名称である。
 
-同社としては、第5世代目のゲームエンジンとなる。ターゲットプラットフォームは、[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[PC](../Page/パーソナルコンピュータ.md "wikilink")、[Xbox 360](https://ja.wikipedia.org/wiki/Xbox_360 "wikilink")、[プレイステーション3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、[Mac OS Xとなっており](https://ja.wikipedia.org/wiki/macOS "wikilink")、従来、Windows向けPCゲームのみをターゲットとしてきた同社としては大きな方向転換となる。
+同社としては、第5世代目のゲームエンジンとなる。ターゲットプラットフォームは、[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[PC](../Page/パーソナルコンピュータ.md "wikilink")、[Xbox 360](../Page/Xbox_360.md "wikilink")、[プレイステーション3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、[Mac OS Xとなっており](https://ja.wikipedia.org/wiki/macOS "wikilink")、従来、Windows向けPCゲームのみをターゲットとしてきた同社としては大きな方向転換となる。
 
 2011年にリリースされた[Rage](https://ja.wikipedia.org/wiki/Rage "wikilink")に採用された。
 
@@ -23,7 +23,7 @@ id TECH5は、テクスチャ容量の制限を完全に廃止することによ
 
 ## 採用タイトル
 
-2007年8月2日（米国時間）にテキサス州ダラスで開催された id Software社主催の恒例[LANパーティー](https://ja.wikipedia.org/wiki/LANパーティー "wikilink")「[QuakeCon](https://ja.wikipedia.org/wiki/QuakeCon "wikilink")2007」において発表された、新作タイトル「[RAGE](https://ja.wikipedia.org/wiki/RAGE "wikilink")」のゲームエンジンとして使用されている。同作は、[DOOM](https://ja.wikipedia.org/wiki/DOOM "wikilink")や[Quake](https://ja.wikipedia.org/wiki/Quake "wikilink")といった同社の過去のヒット作のフランチャイズではなく、完全な新作となっている。また、従来と同様にゲームエンジンビジネスの目玉として、他社にライセンスされていくものと思われる。
+2007年8月2日（米国時間）にテキサス州ダラスで開催された id Software社主催の恒例[LANパーティー](../Page/LANパーティー.md "wikilink")「[QuakeCon](https://ja.wikipedia.org/wiki/QuakeCon "wikilink")2007」において発表された、新作タイトル「[RAGE](https://ja.wikipedia.org/wiki/RAGE "wikilink")」のゲームエンジンとして使用されている。同作は、[DOOM](../Page/DOOM.md "wikilink")や[Quake](../Page/Quake.md "wikilink")といった同社の過去のヒット作のフランチャイズではなく、完全な新作となっている。また、従来と同様にゲームエンジンビジネスの目玉として、他社にライセンスされていくものと思われる。
 
 ## id Software ゲームエンジンの歴史
 

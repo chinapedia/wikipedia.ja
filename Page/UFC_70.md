@@ -1,7 +1,7 @@
 > この記事は[UFC 70](https://ja.wikipedia.org/wiki/UFC_70)から翻訳されています。
 
 
-**UFC 70: Nations Collide**（ユーエフシー・セブンティ：ネイションズ・コライド）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月21日](../Page/4月21日.md "wikilink")、[イングランド](../Page/イングランド.md "wikilink")・[マンチェスター](../Page/マンチェスター.md "wikilink")の[マンチェスター・イブニング・ニュース・アリーナ](https://ja.wikipedia.org/wiki/マンチェスター・イブニング・ニュース・アリーナ "wikilink")で開催された。
+**UFC 70: Nations Collide**（ユーエフシー・セブンティ：ネイションズ・コライド）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2007年](../Page/2007年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink")、[イングランド](../Page/イングランド.md "wikilink")・[マンチェスター](../Page/マンチェスター.md "wikilink")の[マンチェスター・イブニング・ニュース・アリーナ](https://ja.wikipedia.org/wiki/マンチェスター・イブニング・ニュース・アリーナ "wikilink")で開催された。
 
 大会は全世界にPPV配信され、Spikeによって6時間遅れで北米に無料放送された。
 
@@ -9,7 +9,7 @@
 
 サブタイトル「Nations Collide（国々の激突）」の通り、様々な国籍の選手が参加。なお、各階級いずれもタイトル戦は行われず。メインイベントではヘビー級王座挑戦者決定戦が行われ、[ガブリエル・ゴンザーガ](../Page/ガブリエル・ゴンザーガ.md "wikilink")が[ミルコ・クロコップ](../Page/ミルコ・クロコップ.md "wikilink")に勝利した。
 
-なお、本大会ではPRIDEヘビー級の強豪[ファブリシオ・ヴェウドゥム](https://ja.wikipedia.org/wiki/ファブリシオ・ヴェウドゥム "wikilink")がUFCに初参戦したが、[アンドレイ・アルロフスキー](https://ja.wikipedia.org/wiki/アンドレイ・アルロフスキー "wikilink")に判定負けを喫し、黒星デビューとなった。
+なお、本大会ではPRIDEヘビー級の強豪[ファブリシオ・ヴェウドゥム](../Page/ファブリシオ・ヴェウドゥム.md "wikilink")がUFCに初参戦したが、[アンドレイ・アルロフスキー](../Page/アンドレイ・アルロフスキー.md "wikilink")に判定負けを喫し、黒星デビューとなった。
 
 キャリア9戦全勝の[テリー・エティム](https://ja.wikipedia.org/wiki/テリー・エティム "wikilink")、マット・グライス、9戦無敗のエジベルト・クロコタがUFCデビュー。
 
@@ -19,33 +19,33 @@
 
   - 第1試合 ウェルター級 5分5R
     ○  [ポール・テイラー](https://ja.wikipedia.org/wiki/ポール・テイラー_\(格闘家\) "wikilink") vs.  エジベルト・クロコタ ×
-    3R 0:37 TKO（レフェリーストップ：右ハイキック→[パウンド](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    3R 0:37 TKO（レフェリーストップ：右ハイキック→[パウンド](../Page/グラウンドパンチ.md "wikilink")）
   - 第2試合 ウェルター級 5分5R
-    ○  [ジェス・リアウディン](https://ja.wikipedia.org/wiki/ジェス・リアウディン "wikilink") vs.  [デニス・シヴァー](https://ja.wikipedia.org/wiki/デニス・シヴァー "wikilink") ×
-    1R 1:21 [腕ひしぎ十字固め](https://ja.wikipedia.org/wiki/腕挫十字固 "wikilink")
+    ○  [ジェス・リアウディン](../Page/ジェス・リアウディン.md "wikilink") vs.  [デニス・シヴァー](https://ja.wikipedia.org/wiki/デニス・シヴァー "wikilink") ×
+    1R 1:21 [腕ひしぎ十字固め](../Page/腕挫十字固.md "wikilink")
   - 第3試合 ライトヘビー級 5分3R
-    ○  [アレッシオ・サカラ](https://ja.wikipedia.org/wiki/アレッシオ・サカラ "wikilink") vs.  ビクター・ヴァリマキ ×
-    1R 1:44 TKO（レフェリーストップ：[パウンド](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    ○  [アレッシオ・サカラ](../Page/アレッシオ・サカラ.md "wikilink") vs.  ビクター・ヴァリマキ ×
+    1R 1:44 TKO（レフェリーストップ：[パウンド](../Page/グラウンドパンチ.md "wikilink")）
   - 第4試合 ライト級 5分3R
     ○  ジュニオール・アスンソン vs.  デビッド・リー ×
-    2R 1:55 [チョークスリーパー](https://ja.wikipedia.org/wiki/裸絞 "wikilink")
+    2R 1:55 [チョークスリーパー](../Page/裸絞.md "wikilink")
   - 第5試合 ライト級 5分3R
     ○  [テリー・エティム](https://ja.wikipedia.org/wiki/テリー・エティム "wikilink") vs.  マット・グライス ×
-    1R 4:38 [フロントチョーク](https://ja.wikipedia.org/wiki/フロントチョーク "wikilink")
+    1R 4:38 [フロントチョーク](../Page/フロントチョーク.md "wikilink")
 
 ### メインカード
 
   - 第6試合 ヘビー級 5分3R
-    ○  [シーク・コンゴ](https://ja.wikipedia.org/wiki/シーク・コンゴ "wikilink") vs.  [アスエリオ・シウバ](../Page/アスエリオ・シウバ.md "wikilink") ×
+    ○  [シーク・コンゴ](../Page/シーク・コンゴ.md "wikilink") vs.  [アスエリオ・シウバ](../Page/アスエリオ・シウバ.md "wikilink") ×
     3R終了 判定2-0（29-28、29-28、28-28）
   - 第7試合 ライトヘビー級 5分3R
-    ○  [リョート・マチダ](https://ja.wikipedia.org/wiki/リョート・マチダ "wikilink") vs.  デビッド・ヒース ×
+    ○  [リョート・マチダ](../Page/リョート・マチダ.md "wikilink") vs.  デビッド・ヒース ×
     3R終了 判定3-0（30-27、30-26、30-27）
   - 第8試合 ライトヘビー級 5分3R
     ○  [マイケル・ビスピン](../Page/マイケル・ビスピン.md "wikilink") vs.  [エルヴィス・シノシック](../Page/エルヴィス・シノシック.md "wikilink") ×
-    2R 1:40 TKO（レフェリーストップ：[パウンド](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    2R 1:40 TKO（レフェリーストップ：[パウンド](../Page/グラウンドパンチ.md "wikilink")）
   - 第9試合 ヘビー級 5分3R
-    ○  [アンドレイ・アルロフスキー](https://ja.wikipedia.org/wiki/アンドレイ・アルロフスキー "wikilink") vs.  [ファブリシオ・ヴェウドゥム](https://ja.wikipedia.org/wiki/ファブリシオ・ヴェウドゥム "wikilink") ×
+    ○  [アンドレイ・アルロフスキー](../Page/アンドレイ・アルロフスキー.md "wikilink") vs.  [ファブリシオ・ヴェウドゥム](../Page/ファブリシオ・ヴェウドゥム.md "wikilink") ×
     3R終了 判定3-0（30-27、30-27、30-27）
   - 第10試合 ヘビー級王座挑戦者決定戦 5分3R
     ○  [ガブリエル・ゴンザーガ](../Page/ガブリエル・ゴンザーガ.md "wikilink") vs.  [ミルコ・クロコップ](../Page/ミルコ・クロコップ.md "wikilink") ×

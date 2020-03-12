@@ -5,21 +5,21 @@
 
 ## 概要
 
-[ごっつええ感じ](https://ja.wikipedia.org/wiki/ごっつええ感じ "wikilink")終了以降、コント制作から遠ざかっていた松本が、ミュージシャンがアルバムをリリースするように定期的に作品をリリースしたい、またテレビ番組でのコントのような一過性のお笑いではない、後世に残るお笑いを目指して制作された。 松本はセットなど細部にまでこだわり、総制作費は約1億円と言われている。 VOL. は数字ではなく果物のイラストで表されており、それぞれ副題が冠されているが特に意味は無い。 出演者には相方の[浜田をはじめとする往年のごっつメンバーに加え](https://ja.wikipedia.org/wiki/浜田雅功 "wikilink")、[ココリコ](../Page/ココリコ.md "wikilink")も起用された。 遠近法を利用してキャラクターの大小を表現する方法などの実験的な手法も用いられている。 テレビでのコントと違い、スタッフの笑い声はVOL.ぶどうの[園子](https://ja.wikipedia.org/wiki/園子 "wikilink")以外入っていない。
+[ごっつええ感じ](https://ja.wikipedia.org/wiki/ごっつええ感じ "wikilink")終了以降、コント制作から遠ざかっていた松本が、ミュージシャンがアルバムをリリースするように定期的に作品をリリースしたい、またテレビ番組でのコントのような一過性のお笑いではない、後世に残るお笑いを目指して制作された。 松本はセットなど細部にまでこだわり、総制作費は約1億円と言われている。 VOL. は数字ではなく果物のイラストで表されており、それぞれ副題が冠されているが特に意味は無い。 出演者には相方の[浜田をはじめとする往年のごっつメンバーに加え](../Page/浜田雅功.md "wikilink")、[ココリコ](../Page/ココリコ.md "wikilink")も起用された。 遠近法を利用してキャラクターの大小を表現する方法などの実験的な手法も用いられている。 テレビでのコントと違い、スタッフの笑い声はVOL.ぶどうの[園子](https://ja.wikipedia.org/wiki/園子 "wikilink")以外入っていない。
 
 ## 出演
 
   - [ダウンタウン](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")
       - [松本人志](../Page/松本人志.md "wikilink")
-      - [浜田雅功](https://ja.wikipedia.org/wiki/浜田雅功 "wikilink")
+      - [浜田雅功](../Page/浜田雅功.md "wikilink")
   - [今田耕司](../Page/今田耕司.md "wikilink")
   - [東野幸治](../Page/東野幸治.md "wikilink")
-  - [130R](https://ja.wikipedia.org/wiki/130R "wikilink")
-      - [板尾創路](https://ja.wikipedia.org/wiki/板尾創路 "wikilink")
+  - [130R](../Page/130R.md "wikilink")
+      - [板尾創路](../Page/板尾創路.md "wikilink")
       - [蔵野孝洋](https://ja.wikipedia.org/wiki/蔵野孝洋 "wikilink")
   - [木村祐一](../Page/木村祐一.md "wikilink")
   - [ココリコ](../Page/ココリコ.md "wikilink")
-      - [遠藤章造](https://ja.wikipedia.org/wiki/遠藤章造 "wikilink")
+      - [遠藤章造](../Page/遠藤章造.md "wikilink")
       - [田中直樹](../Page/田中直樹_\(お笑い芸人\).md "wikilink")
 
 ## シリーズと内容
@@ -40,7 +40,7 @@
 ### Vol. バナナ「親切」（1998年）
 
   - ZURU ZURU
-    オスの雑種犬、コジロウ（松本）が動物病院にやってくる。獣医（今田）は彼の性器が腐ってるのに驚く。なんと[イタチ](https://ja.wikipedia.org/wiki/イタチ "wikilink")と交尾してしまったと言うのだ。コジロウはなんとかならないかとせがむが、医者は切るしかないと断言。犬はしぶしぶその決断を受け入れるのだが…。
+    オスの雑種犬、コジロウ（松本）が動物病院にやってくる。獣医（今田）は彼の性器が腐ってるのに驚く。なんと[イタチ](../Page/イタチ.md "wikilink")と交尾してしまったと言うのだ。コジロウはなんとかならないかとせがむが、医者は切るしかないと断言。犬はしぶしぶその決断を受け入れるのだが…。
   - マイクロフィルム
     中国系マフィアの一味、劉（松本）・楊（板尾）・呉（東野）・周（田中）。4人は自らの命運を左右するマイクロフィルムを盗んだ敵組織のスパイ（遠藤）を捕まえ、リンチにかけていた。そんな中、とある一撃でスパイの肛門から大便まみれの短銃やヌンチャクが出るという現象が発生。いぶかしがる4人だが、このスパイがなんでも飲み込める特異体質の人間ではないかと悟り、またマイクロフィルムを飲み込んでいるはずだと断定する。肛門からマイクロフィルムを出させるため、4人はさらにスパイを殴り続けていくのだが…。
   - むﾞん
@@ -61,7 +61,7 @@
     とある寿司屋では、大将（板尾）が握った寿司が、極端に歯並びの悪い店員の女（松本）によって次々とつぶされていく。タバコを買いに女が外へ出て行くと、我慢していた客達（今田、木村、東野）は、大将に寿司をつぶすのを止めて欲しいと伝える。しかし何故か大将の態度は煮え切らない…。
   - 巨人殺人
     関（松本）・稲葉（板尾）・アキ（木村）・太一（今田）の4人は、奈良の大仏ほどもある巨人の坂東にいつも虐げられていた。そんな彼らのうっぷんは溜まりに溜まり、4人はついに坂東の殺害を決心。アキの知り合い・シン（東野）と共に計画を練り、なんとか坂東を殺害することに成功する。しかし5人は新たな問題点に遭遇する。それはどうやって巨人・坂東の遺体を隠すかであった…。
-  - [荒城の月](https://ja.wikipedia.org/wiki/荒城の月 "wikilink")
+  - [荒城の月](../Page/荒城の月.md "wikilink")
     下水道に住む初老の夫婦（夫…浜田、妻…松本）は、トイレに来た子供たちをさらい楽団を結成させている。そして「みんなが上を見るから妬み・嫉みが生まれる。下を見れば皆平等！」「上こそ下界、上こそ肥溜」といったイデオロギー教育を施している。しかしそんな夫婦の努力もむなしく、地上では警察と子供たちの親による奪還計画が進められていた…。
   - 園子
     かつていくつかの一発ギャグをヒットさせ、テレビで大活躍するも、今は落ち目の落語家・京丸（松本）。そんな京丸の妻・園子が亡くなった。一門の一京（板尾）・三京（東野）・四京（遠藤）は憔悴しきった師匠の京丸を心配していた。そこへ今はテレビで大活躍中の二番弟子・二京（今田）がテレビ局社員（木村・田中）を伴って弔問に訪れる。テレビ局の人間が来たことを知り、京丸は何とか芸人としてのテンションを保ちつつ、皆の前に顔を出す。そこで京丸は、園子の最後の言葉が「もう一回、テレビであなたを見たかった」であったことを伝え、この言葉をきっかけに一大決心をしたと伝える。その一大決心とは…？
@@ -73,25 +73,25 @@
 
 ## スタッフ
 
-  - 制作：[大崎洋](https://ja.wikipedia.org/wiki/大崎洋 "wikilink")
+  - 制作：[大崎洋](../Page/大崎洋.md "wikilink")
   - プロデューサー：[岡本昭彦](../Page/岡本昭彦.md "wikilink")
-  - 演出・プロデューサー：[白岩久弥](https://ja.wikipedia.org/wiki/白岩久弥 "wikilink")
+  - 演出・プロデューサー：[白岩久弥](../Page/白岩久弥.md "wikilink")
   - ディレクター：
       - [西田二郎](../Page/西田二郎.md "wikilink")（りんご「約束」：『げんこつ』『都…』『古賀』『ミックス』）
       - [高須光聖](../Page/高須光聖.md "wikilink")（りんご「約束」：『げんこつ』『都…』『古賀』『ミックス』）
       - 高橋純（りんご「約束」：『システムキッチン』）
-  - 作・構成：松本人志・[倉本美津留](https://ja.wikipedia.org/wiki/倉本美津留 "wikilink")、高須光聖、木村祐一、江間浩司、[川野将一](../Page/川野将一.md "wikilink")●
+  - 作・構成：松本人志・[倉本美津留](../Page/倉本美津留.md "wikilink")、高須光聖、木村祐一、江間浩司、[川野将一](../Page/川野将一.md "wikilink")●
 
 <!-- end list -->
 
   - <制作スタッフ>
-      - 制作スタッフ：[藤原寛](https://ja.wikipedia.org/wiki/藤原寛 "wikilink")、清水和成、白仁田佳恵、木本公敏、乾純、市岡秀晃
+      - 制作スタッフ：[藤原寛](../Page/藤原寛.md "wikilink")、清水和成、白仁田佳恵、木本公敏、乾純、市岡秀晃
       - 演出補：金城聖門、[並木慶](https://ja.wikipedia.org/wiki/並木慶 "wikilink")、加藤伸一
 
 <!-- end list -->
 
   - <美術スタッフ>
-      - 美術プロデューサー：[松沢由之](https://ja.wikipedia.org/wiki/松沢由之 "wikilink")
+      - 美術プロデューサー：[松沢由之](../Page/松沢由之.md "wikilink")
       - セットデザイン：野口陽介
       - アートコーディネーター：林勇
       - 衣裳：高堂のりこ・石倉真也、坂充央、長谷川雅子、松井美佳、山岡かおり
@@ -154,19 +154,19 @@
 
 <!-- end list -->
 
-  - 美術協力：[フジアール](../Page/フジアール.md "wikilink")、フローティングアイランドジャパン、Office MAKISE、[東宝舞台](https://ja.wikipedia.org/wiki/東宝舞台 "wikilink")、[テレフィット](https://ja.wikipedia.org/wiki/テレフィット "wikilink")、[山田かつら](https://ja.wikipedia.org/wiki/山田かつら "wikilink")、[ヤマモリ](https://ja.wikipedia.org/wiki/ヤマモリ_\(アクリル装飾\) "wikilink")、[野沢園](https://ja.wikipedia.org/wiki/野沢園 "wikilink")、東京特殊効果、興進電化、CAVIN、レプリカ
-  - 技術協力：[ニユーテレス](https://ja.wikipedia.org/wiki/ニユーテレス "wikilink")、[FLT](https://ja.wikipedia.org/wiki/フジライティング・アンド・テクノロジイ "wikilink")、Cobra、パンサーニシノ、爽風企画新社
-  - 協力：[東京メディアシティ](https://ja.wikipedia.org/wiki/東京メディアシティ "wikilink")、[レモンスタジオ](../Page/レモンスタジオ.md "wikilink")、[IMAGICA](https://ja.wikipedia.org/wiki/IMAGICA "wikilink")、[日本テレビビデオ](https://ja.wikipedia.org/wiki/日本テレビビデオ "wikilink")、松風、COM、[J-WORKS](https://ja.wikipedia.org/wiki/J-WORKS "wikilink")、IZUMI MUSIC OFFICE、atomic studio、大川直人写真事務所、Skydive Japan、[古賀プロダクション](https://ja.wikipedia.org/wiki/古賀プロダクション "wikilink")、[セントラル子供劇団](https://ja.wikipedia.org/wiki/セントラル子供劇団 "wikilink")、佐藤動物プロ、[NET WEB](https://ja.wikipedia.org/wiki/ネットウエブ "wikilink")、[オフィスバックアップ](https://ja.wikipedia.org/wiki/バックアップメディア "wikilink")、[クラッシュアウト](https://ja.wikipedia.org/wiki/ビーダッシュ "wikilink")
+  - 美術協力：[フジアール](../Page/フジアール.md "wikilink")、フローティングアイランドジャパン、Office MAKISE、[東宝舞台](../Page/東宝舞台.md "wikilink")、[テレフィット](https://ja.wikipedia.org/wiki/テレフィット "wikilink")、[山田かつら](https://ja.wikipedia.org/wiki/山田かつら "wikilink")、[ヤマモリ](https://ja.wikipedia.org/wiki/ヤマモリ_\(アクリル装飾\) "wikilink")、[野沢園](https://ja.wikipedia.org/wiki/野沢園 "wikilink")、東京特殊効果、興進電化、CAVIN、レプリカ
+  - 技術協力：[ニユーテレス](../Page/ニユーテレス.md "wikilink")、[FLT](../Page/フジライティング・アンド・テクノロジイ.md "wikilink")、Cobra、パンサーニシノ、爽風企画新社
+  - 協力：[東京メディアシティ](../Page/東京メディアシティ.md "wikilink")、[レモンスタジオ](../Page/レモンスタジオ.md "wikilink")、[IMAGICA](https://ja.wikipedia.org/wiki/IMAGICA "wikilink")、[日本テレビビデオ](https://ja.wikipedia.org/wiki/日本テレビビデオ "wikilink")、松風、COM、[J-WORKS](../Page/J-WORKS.md "wikilink")、IZUMI MUSIC OFFICE、atomic studio、大川直人写真事務所、Skydive Japan、[古賀プロダクション](https://ja.wikipedia.org/wiki/古賀プロダクション "wikilink")、[セントラル子供劇団](https://ja.wikipedia.org/wiki/セントラル子供劇団 "wikilink")、佐藤動物プロ、[NET WEB](../Page/ネットウエブ.md "wikilink")、[オフィスバックアップ](../Page/バックアップメディア.md "wikilink")、[クラッシュアウト](../Page/ビーダッシュ.md "wikilink")
 
 <!-- end list -->
 
-  - 制作協力：[ワイズビジョン](https://ja.wikipedia.org/wiki/ワイズビジョン "wikilink")
+  - 制作協力：[ワイズビジョン](../Page/ワイズビジョン.md "wikilink")
   - 製作著作：[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")
 
 ## 関連項目
 
   - [ダウンタウンのごっつええ感じ](../Page/ダウンタウンのごっつええ感じ.md "wikilink")
-  - [一人ごっつ](https://ja.wikipedia.org/wiki/一人ごっつ "wikilink")
+  - [一人ごっつ](../Page/一人ごっつ.md "wikilink")
   - [大日本人](../Page/大日本人.md "wikilink")
 
 [Category:ダウンタウン](https://ja.wikipedia.org/wiki/Category:ダウンタウン "wikilink") [Category:日本のオリジナルビデオ](https://ja.wikipedia.org/wiki/Category:日本のオリジナルビデオ "wikilink") [Category:よしもとアール・アンド・シーの映像作品](https://ja.wikipedia.org/wiki/Category:よしもとアール・アンド・シーの映像作品 "wikilink")

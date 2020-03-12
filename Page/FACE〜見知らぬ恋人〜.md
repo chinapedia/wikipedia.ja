@@ -1,7 +1,7 @@
 > この記事は[FACE](https://ja.wikipedia.org/wiki/FACE)から翻訳されています。
 
 
-『**FACE〜見知らぬ恋人〜**』（フェイス みしらぬこいびと）は、[2001年](../Page/2001年.md "wikilink")[1月10日](../Page/1月10日.md "wikilink")より[3月7日](../Page/3月7日.md "wikilink")まで毎週水曜日22:00 - 22:54（[JST](../Page/日本標準時.md "wikilink")）に、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")[系列の](../Page/日本テレビネットワーク協議会.md "wikilink")「[水曜ドラマ](https://ja.wikipedia.org/wiki/水曜ドラマ_\(日本テレビ\) "wikilink")」枠で放送されていた日本の[テレビドラマ](../Page/テレビドラマ.md "wikilink")。主演は[高橋克典](https://ja.wikipedia.org/wiki/高橋克典 "wikilink")と[仲間由紀恵](https://ja.wikipedia.org/wiki/仲間由紀恵 "wikilink")。
+『**FACE〜見知らぬ恋人〜**』（フェイス みしらぬこいびと）は、[2001年](../Page/2001年.md "wikilink")[1月10日](../Page/1月10日.md "wikilink")より[3月7日](../Page/3月7日.md "wikilink")まで毎週水曜日22:00 - 22:54（[JST](../Page/日本標準時.md "wikilink")）に、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")[系列の](../Page/日本テレビネットワーク協議会.md "wikilink")「[水曜ドラマ](../Page/水曜ドラマ_\(日本テレビ\).md "wikilink")」枠で放送されていた日本の[テレビドラマ](../Page/テレビドラマ.md "wikilink")。主演は[高橋克典](../Page/高橋克典.md "wikilink")と[仲間由紀恵](https://ja.wikipedia.org/wiki/仲間由紀恵 "wikilink")。
 
 [多重人格](https://ja.wikipedia.org/wiki/多重人格 "wikilink")者をテーマとした作品。原作は[もりたゆうこ](https://ja.wikipedia.org/wiki/もりたゆうこ "wikilink")の漫画『愛してる』。
 
@@ -13,7 +13,7 @@
 
   - 主人公
 
-:\* 水野択己 - [高橋克典](https://ja.wikipedia.org/wiki/高橋克典 "wikilink")
+:\* 水野択己 - [高橋克典](../Page/高橋克典.md "wikilink")
 
 :: 中途入社で横浜交易に入社してきたエリートシステムエンジニア。
 
@@ -39,7 +39,7 @@
 
 :\* 石川渚（早紀の同僚） - [黒坂真美](https://ja.wikipedia.org/wiki/黒坂真美 "wikilink")
 
-:\* 岡田貢（早紀の上司） - [山口祐一郎](https://ja.wikipedia.org/wiki/山口祐一郎 "wikilink")
+:\* 岡田貢（早紀の上司） - [山口祐一郎](../Page/山口祐一郎.md "wikilink")
 
   -
 
@@ -50,7 +50,7 @@
 
 :\* 水野真理子（拓己の妹・亮を愛してしまう） - [畑野浩子](https://ja.wikipedia.org/wiki/畑野浩子 "wikilink")
 
-:\* 水野賢治 - [山田明郷](https://ja.wikipedia.org/wiki/山田明郷 "wikilink")
+:\* 水野賢治 - [山田明郷](../Page/山田明郷.md "wikilink")
 
 :\* 水野貴子 - [山口果林](../Page/山口果林.md "wikilink")
 
@@ -58,9 +58,9 @@
 
   - 相沢家
 
-:\* 相沢久江 - [根岸季衣](https://ja.wikipedia.org/wiki/根岸季衣 "wikilink")
+:\* 相沢久江 - [根岸季衣](../Page/根岸季衣.md "wikilink")
 
-:\* 相沢祐二（早紀の義父） - [松澤一之](https://ja.wikipedia.org/wiki/松澤一之 "wikilink")
+:\* 相沢祐二（早紀の義父） - [松澤一之](../Page/松澤一之.md "wikilink")
 
   -
 
@@ -87,8 +87,8 @@
   - オープニングテーマ - [MY LITTLE LOVER](https://ja.wikipedia.org/wiki/My_Little_Lover "wikilink")「[Shooting star 〜シューティングスター〜](https://ja.wikipedia.org/wiki/Shooting_star_〜シューティングスター〜 "wikilink")」
   - エンディングテーマ - [郷ひろみ](../Page/郷ひろみ.md "wikilink")「[Only for you-この永遠がある限り-](../Page/Only_for_you-この永遠がある限り-.md "wikilink")」
   - 挿入歌 - 高橋克典・仲間由紀恵「[愛してる](https://ja.wikipedia.org/wiki/愛してる_\(高橋克典_with_仲間由紀恵の曲\) "wikilink")」
-  - 音楽プロデューサー - [志田博英](https://ja.wikipedia.org/wiki/志田博英 "wikilink")
-  - サウンドデザイン - [仲西匡](https://ja.wikipedia.org/wiki/仲西匡 "wikilink")
+  - 音楽プロデューサー - [志田博英](../Page/志田博英.md "wikilink")
+  - サウンドデザイン - [仲西匡](../Page/仲西匡.md "wikilink")
   - プロデュース - 西憲彦、北島和久、大塚泰之
   - 美術デザイン - [高野雅裕](https://ja.wikipedia.org/wiki/高野雅裕 "wikilink")、柳谷雅美
 
@@ -179,7 +179,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>平均視聴率 9.84%（視聴率は<a href="https://ja.wikipedia.org/wiki/関東地方" title="wikilink">関東地区</a>・<a href="https://ja.wikipedia.org/wiki/ビデオリサーチ" title="wikilink">ビデオリサーチ</a>社調べ）</p></td>
+<td><p>平均視聴率 9.84%（視聴率は<a href="https://ja.wikipedia.org/wiki/関東地方" title="wikilink">関東地区</a>・<a href="../Page/ビデオリサーチ.md" title="wikilink">ビデオリサーチ</a>社調べ）</p></td>
 <td></td>
 <td></td>
 <td></td>

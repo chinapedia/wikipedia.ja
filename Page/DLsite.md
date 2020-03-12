@@ -11,12 +11,12 @@
   - [2001年](../Page/2001年.md "wikilink")1月 - 有限会社アオキシステムが株式会社エイシスに改組され、サイト名がDLsite.comへ変更される。
   - [2003年](../Page/2003年.md "wikilink")3月 - デジタルメディアマート（現[DMM.com](../Page/DMM.com.md "wikilink")）と提携し、DMM.ADULT（現DMM.R18）の同人コーナーを受託。
   - [2004年](../Page/2004年.md "wikilink")2月 - 公式サイトを全面リニューアル、[英語](../Page/英語.md "wikilink")版のサービスを開始。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")1月 - 運営会社のエイシスが[ライブドア](https://ja.wikipedia.org/wiki/ライブドア "wikilink")傘下となる。
+  - [2005年](../Page/2005年.md "wikilink")1月 - 運営会社のエイシスが[ライブドア](../Page/ライブドア.md "wikilink")傘下となる。
   - 2005年8月 - DMMとの提携を解消。
   - [2009年](../Page/2009年.md "wikilink")3月 - [携帯電話](../Page/携帯電話.md "wikilink")向けサービス「DLsite Mobile」を開設。
   - 2009年5月 - 姉妹サイト・GAME999を開設。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")4月 - 登録[サークル数が](../Page/同人サークル.md "wikilink")10000を突破。
-  - 2010年5月 - 運営会社のエイシスがライブドア傘下を離れ、[ゲオ](https://ja.wikipedia.org/wiki/ゲオ "wikilink")の完全子会社となる\[1\]。
+  - 2010年5月 - 運営会社のエイシスがライブドア傘下を離れ、[ゲオ](../Page/ゲオ.md "wikilink")の完全子会社となる\[1\]。
   - 2011年5月 - 公式サイトを7年ぶりに全面リニューアルし、審査団体別のカテゴリ撤廃などの再編を実施。
   - 2016年5月 - TAIWAN G2 Corporationが「DLsite.com台灣版」を提供開始。
   - 2016年8月 - アメリカ合衆国のダウンロード販売サービス[ImagineVR](https://ja.wikipedia.org/wiki/ImagineVR "wikilink")との業務提携を開始\[2\]。
@@ -46,7 +46,7 @@
 
 ### DLsite.com Maniax
 
-成人向け同人作品（[Lilithや](https://ja.wikipedia.org/wiki/リリス_\(ブランド\) "wikilink")[softhouse-seal](https://ja.wikipedia.org/wiki/softhouse-seal "wikilink")、[Norn](https://ja.wikipedia.org/wiki/Norn "wikilink")などの「企業同人」も含まれる）。
+成人向け同人作品（[Lilithや](../Page/リリス_\(ブランド\).md "wikilink")[softhouse-seal](https://ja.wikipedia.org/wiki/softhouse-seal "wikilink")、[Norn](https://ja.wikipedia.org/wiki/Norn "wikilink")などの「企業同人」も含まれる）。
 
 ### DLsite.com Professional
 
@@ -58,14 +58,14 @@
 
 ### DLsite.com Books
 
-  - [成人向け漫画](https://ja.wikipedia.org/wiki/成人向け漫画 "wikilink")・[ジュブナイルポルノ](https://ja.wikipedia.org/wiki/ジュブナイルポルノ "wikilink")など商業ベースの電子書籍。かつて「DLsite Cosplay」にあった[コスプレ](../Page/コスプレ.md "wikilink")写真集のも本カテゴリに統合されている。
+  - [成人向け漫画](https://ja.wikipedia.org/wiki/成人向け漫画 "wikilink")・[ジュブナイルポルノ](../Page/ジュブナイルポルノ.md "wikilink")など商業ベースの電子書籍。かつて「DLsite Cosplay」にあった[コスプレ](../Page/コスプレ.md "wikilink")写真集のも本カテゴリに統合されている。
 
 ### Girl's Maniax
 
-2011年のリニューアルに際し、2005年に吸収合併したDLfunの「花まるネット」の流れを汲む「Hanamaru」から「Girls Maniax」へ改名。これに伴い、マスコットキャラクターも速瀬みさきがデザインを担当したHanamaru時代の「花木」と「幾丸」からササキ身汁デザインの新キャラクター2名（名前募集中、声優は[鳥海浩輔](https://ja.wikipedia.org/wiki/鳥海浩輔 "wikilink")・[武内健](https://ja.wikipedia.org/wiki/武内健 "wikilink")）に交替している。
+2011年のリニューアルに際し、2005年に吸収合併したDLfunの「花まるネット」の流れを汲む「Hanamaru」から「Girls Maniax」へ改名。これに伴い、マスコットキャラクターも速瀬みさきがデザインを担当したHanamaru時代の「花木」と「幾丸」からササキ身汁デザインの新キャラクター2名（名前募集中、声優は[鳥海浩輔](../Page/鳥海浩輔.md "wikilink")・[武内健](../Page/武内健.md "wikilink")）に交替している。
 
   - 同人 - 成人向けを含む女性向け同人作品。
-  - 電子書籍 - ボーイズラブコミック・TLコミック・BLゲーム・[乙女ゲーム](https://ja.wikipedia.org/wiki/乙女ゲーム "wikilink")などの女性向け商業作品。
+  - 電子書籍 - ボーイズラブコミック・TLコミック・BLゲーム・[乙女ゲーム](../Page/乙女ゲーム.md "wikilink")などの女性向け商業作品。
 
 ### DLsite.com G
 
@@ -124,7 +124,7 @@
   - プロップDL On-Line（株式会社オーバーワークス運営） - 運営サイトの閉鎖により、2012年7月提携解消。
   - アぷろ～ど\!（オーバーワークス運営） - 運営サイトの閉鎖により、2012年7月提携解消。
   - DLパフェ（インターピア株式会社運営） - 運営サイトの閉鎖により、2013年3月28日に終了。
-  - [デジガールストア](https://ja.wikipedia.org/wiki/デジガールストア "wikilink")（[ベクター運営](https://ja.wikipedia.org/wiki/ベクター_\(企業\) "wikilink")） - 2013年6月提携解消。2014年1月15日に閉鎖。
+  - [デジガールストア](https://ja.wikipedia.org/wiki/デジガールストア "wikilink")（[ベクター運営](../Page/ベクター_\(企業\).md "wikilink")） - 2013年6月提携解消。2014年1月15日に閉鎖。
   - もえこみ (ミラージュ株式会社運営) - 運営サイトの閉鎖により、2013年10月提携解消。
   - FRANKEN([ジャム・ティービー運営](https://ja.wikipedia.org/wiki/カルチュア・コンビニエンス・クラブ#グループ企業 "wikilink")) - super media mallに統合。
   - ラブコミ.com (ジャム・ティービー運営) - 2013年9月提携解消。

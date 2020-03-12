@@ -31,20 +31,20 @@ There's sorrow in the news today. Former Beatle, John Lennon was shot and fatall
 ## スタッフ
 
   - プロデュース : オフコース
-  - © 1981 [Pacific Music Publishing Co., Ltd.](https://ja.wikipedia.org/wiki/フジパシフィックミュージック "wikilink") & FAIRWAY MUSIC Co., LTD.
+  - © 1981 [Pacific Music Publishing Co., Ltd.](../Page/フジパシフィックミュージック.md "wikilink") & FAIRWAY MUSIC Co., LTD.
 
 ## カヴァー
 
 ### I LOVE YOU
 
-| アーティスト                                                                                                                                                | 収録作品（初出のみ）                              | 発売日                                                                        | 規格 | [品番](https://ja.wikipedia.org/wiki/規格品番 "wikilink") |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | -------------------------------------------------------------------------- | -- | --------------------------------------------------- |
-| [LOGIC SYSTEM](https://ja.wikipedia.org/wiki/LOGIC_SYSTEM "wikilink")                                                                                 | Venus\[7\]                              | [1981年](../Page/1981年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")   | LP | ETP-90139                                           |
-| [EVE](https://ja.wikipedia.org/wiki/EVE_\(歌手グループ\) "wikilink")                                                                                        | I Love You.\[8\]                        | [1991年](../Page/1991年.md "wikilink")[8月23日](../Page/8月23日.md "wikilink")   | CD | SRCL-2128                                           |
-| [米倉利紀](../Page/米倉利紀.md "wikilink")                                                                                                                    | 21世紀への贈りもの                              | [1999年](../Page/1999年.md "wikilink")[11月10日](../Page/11月10日.md "wikilink") | CD | WPCV-10044                                          |
-| [小林香織](https://ja.wikipedia.org/wiki/小林香織 "wikilink")                                                                                                 | LUV SAX                                 | [2009年](../Page/2009年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink") | CD | VICJ-61614                                          |
-| DG-10（[今井麻美](https://ja.wikipedia.org/wiki/今井麻美 "wikilink")、[長谷川明子](https://ja.wikipedia.org/wiki/長谷川明子 "wikilink")、[又吉愛](../Page/又吉愛.md "wikilink")） | LOVE SYNTHESIZER\!                      | [2009年](../Page/2009年.md "wikilink")[9月18日](../Page/9月18日.md "wikilink")   | CD | VGCD-0172                                           |
-| [土岐麻子](https://ja.wikipedia.org/wiki/土岐麻子 "wikilink")                                                                                                 | CASSETTEFUL DAYS 〜Japanese Pops Covers〜 | [2012年](../Page/2012年.md "wikilink")[10月10日](../Page/10月10日.md "wikilink") | CD | RZCD-59190                                          |
+| アーティスト                                                                                                          | 収録作品（初出のみ）                              | 発売日                                                                        | 規格 | [品番](../Page/規格品番.md "wikilink") |
+| --------------------------------------------------------------------------------------------------------------- | --------------------------------------- | -------------------------------------------------------------------------- | -- | -------------------------------- |
+| [LOGIC SYSTEM](https://ja.wikipedia.org/wiki/LOGIC_SYSTEM "wikilink")                                           | Venus\[7\]                              | [1981年](../Page/1981年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")   | LP | ETP-90139                        |
+| [EVE](https://ja.wikipedia.org/wiki/EVE_\(歌手グループ\) "wikilink")                                                  | I Love You.\[8\]                        | [1991年](../Page/1991年.md "wikilink")[8月23日](../Page/8月23日.md "wikilink")   | CD | SRCL-2128                        |
+| [米倉利紀](../Page/米倉利紀.md "wikilink")                                                                              | 21世紀への贈りもの                              | [1999年](../Page/1999年.md "wikilink")[11月10日](../Page/11月10日.md "wikilink") | CD | WPCV-10044                       |
+| [小林香織](https://ja.wikipedia.org/wiki/小林香織 "wikilink")                                                           | LUV SAX                                 | [2009年](../Page/2009年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink") | CD | VICJ-61614                       |
+| DG-10（[今井麻美](../Page/今井麻美.md "wikilink")、[長谷川明子](../Page/長谷川明子.md "wikilink")、[又吉愛](../Page/又吉愛.md "wikilink")） | LOVE SYNTHESIZER\!                      | [2009年](../Page/2009年.md "wikilink")[9月18日](../Page/9月18日.md "wikilink")   | CD | VGCD-0172                        |
+| [土岐麻子](https://ja.wikipedia.org/wiki/土岐麻子 "wikilink")                                                           | CASSETTEFUL DAYS 〜Japanese Pops Covers〜 | [2012年](../Page/2012年.md "wikilink")[10月10日](../Page/10月10日.md "wikilink") | CD | RZCD-59190                       |
 
 ## 脚注
 
@@ -58,7 +58,7 @@ There's sorrow in the news today. Former Beatle, John Lennon was shot and fatall
 
 [Category:オフコースの楽曲](https://ja.wikipedia.org/wiki/Category:オフコースの楽曲 "wikilink") [Category:小田和正が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小田和正が制作した楽曲 "wikilink") [Category:エキスプレスのシングル](https://ja.wikipedia.org/wiki/Category:エキスプレスのシングル "wikilink") [Category:1981年のシングル](https://ja.wikipedia.org/wiki/Category:1981年のシングル "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")
 
-1.  『[SELECTION 1978-81](https://ja.wikipedia.org/wiki/SELECTION_1978-81 "wikilink")』 [1981年](../Page/1981年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")発売 EXPRESS ⁄ [TOSHIBA EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink") LP:ETP-90106
+1.  『[SELECTION 1978-81](https://ja.wikipedia.org/wiki/SELECTION_1978-81 "wikilink")』 [1981年](../Page/1981年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")発売 EXPRESS ⁄ [TOSHIBA EMI](../Page/EMIミュージック・ジャパン.md "wikilink") LP:ETP-90106
 2.  『[I LOVE YOU](https://ja.wikipedia.org/wiki/I_LOVE_YOU_\(オフコースのアルバム\) "wikilink")』 [1982年](../Page/1982年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")発売 EXPRESS ⁄ TOSHIBA EMI LP:ETP-90180
 3.
 4.  「[キラキラ](../Page/キラキラ_\(小田和正の曲\).md "wikilink")」 [2002年](../Page/2002年.md "wikilink")[2月27日](../Page/2月27日.md "wikilink")発売 Little Tokyo ⁄ [FUNHOUSE](https://ja.wikipedia.org/wiki/BMG_JAPAN#ファンハウス "wikilink") CD:FHCL-5004

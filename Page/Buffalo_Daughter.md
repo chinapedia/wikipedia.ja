@@ -9,9 +9,9 @@
 
 ## その他
 
-  - 大野曰くバンド名の由来は「バンドの力強いサウンドを表すbuffalo（[スイギュウ](https://ja.wikipedia.org/wiki/スイギュウ "wikilink")）」と「女の子がメンバーなのでdaughter（娘）」を組み合わせたもの。\[1\]
+  - 大野曰くバンド名の由来は「バンドの力強いサウンドを表すbuffalo（[スイギュウ](../Page/スイギュウ.md "wikilink")）」と「女の子がメンバーなのでdaughter（娘）」を組み合わせたもの。\[1\]
   - 小川の脱退以来決まったドラマーはおらず、必要な場合はその都度サポートメンバーを起用する。
-  - [TB-303](https://ja.wikipedia.org/wiki/TB-303 "wikilink")、[TR-606](https://ja.wikipedia.org/wiki/TR-606 "wikilink")（[Roland TR-606](https://ja.wikipedia.org/wiki/:en:Roland_TR-606 "wikilink")）や[ミニモーグなどの電子楽器を使うことで知られる](https://ja.wikipedia.org/wiki/モーグ・シンセサイザー "wikilink")。
+  - [TB-303](https://ja.wikipedia.org/wiki/TB-303 "wikilink")、[TR-606](https://ja.wikipedia.org/wiki/TR-606 "wikilink")（[Roland TR-606](https://ja.wikipedia.org/wiki/:en:Roland_TR-606 "wikilink")）や[ミニモーグなどの電子楽器を使うことで知られる](../Page/モーグ・シンセサイザー.md "wikilink")。
   - 日本国内のみならず海外での活動も活発に行っている。
   - 2006年には、雑誌『ニューズウィーク日本版』の"世界が尊敬する日本人100人"に選ばれる\[2\]。
   - バンドのグラフィックデザインなどはムーグが担当する。
@@ -20,7 +20,7 @@
 ## メンバー
 
   - [シュガー吉永](https://ja.wikipedia.org/wiki/シュガー吉永 "wikilink")（シュガー よしなが、[1966年](../Page/1966年.md "wikilink")[11月11日](../Page/11月11日.md "wikilink") - ） - [ギター](../Page/ギター.md "wikilink")、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[シーケンサー](https://ja.wikipedia.org/wiki/シーケンサー_\(音楽\) "wikilink")
-  - [大野由美子](https://ja.wikipedia.org/wiki/大野由美子 "wikilink")（おおの ゆみこ、[1966年](../Page/1966年.md "wikilink")[6月20日](../Page/6月20日.md "wikilink") - ） - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、ボーカル、[オルガン](../Page/オルガン.md "wikilink")
+  - [大野由美子](https://ja.wikipedia.org/wiki/大野由美子 "wikilink")（おおの ゆみこ、[1966年](../Page/1966年.md "wikilink")[6月20日](../Page/6月20日.md "wikilink") - ） - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")、ボーカル、[オルガン](../Page/オルガン.md "wikilink")
   - [山本ムーグ](https://ja.wikipedia.org/wiki/山本ムーグ "wikilink")（やまもと ムーグ、[1959年](../Page/1959年.md "wikilink")[10月16日](../Page/10月16日.md "wikilink") - ）- [ターンテーブル](https://ja.wikipedia.org/wiki/ターンテーブル "wikilink")、ボーカル
 
 ### 過去に在籍したメンバー
@@ -29,7 +29,7 @@
 
 ### サポートメンバー
 
-  - [松下敦](https://ja.wikipedia.org/wiki/松下敦 "wikilink") - ドラムス（元[ズボンズ](https://ja.wikipedia.org/wiki/ズボンズ "wikilink")、現[ZAZEN BOYS](https://ja.wikipedia.org/wiki/ZAZEN_BOYS "wikilink")）
+  - [松下敦](https://ja.wikipedia.org/wiki/松下敦 "wikilink") - ドラムス（元[ズボンズ](../Page/ズボンズ.md "wikilink")、現[ZAZEN BOYS](../Page/ZAZEN_BOYS.md "wikilink")）
   - [茂木欣一](../Page/茂木欣一.md "wikilink") - ドラムス（[東京スカパラダイスオーケストラ](../Page/東京スカパラダイスオーケストラ.md "wikilink")、[フィッシュマンズ](../Page/フィッシュマンズ.md "wikilink")）
 
 ## ディスコグラフィー
@@ -294,7 +294,7 @@
 <td><p>DISC1 Konjac-tion</p>
 <ol>
 <li>Hit-it-go-round : Party is about to begin [1:07]</li>
-<li>Le Cheval Blanc feat. <a href="https://ja.wikipedia.org/wiki/カヒミ・カリィ" title="wikilink">カヒミ・カリィ</a> on voice [5:49]</li>
+<li>Le Cheval Blanc feat. <a href="../Page/カヒミ・カリィ.md" title="wikilink">カヒミ・カリィ</a> on voice [5:49]</li>
 <li>Golden Leaves feat. Pismo on vocal [6:33]</li>
 <li>Calling Out From The World Of Echoes [3:04]</li>
 <li>Love &amp; Food feat. <a href="https://ja.wikipedia.org/wiki/坂本慎太郎" title="wikilink">坂本慎太郎</a> on vocal [5:54]</li>
@@ -309,11 +309,11 @@
 <ol>
 <li>Le Cheval Blanc Remixed by しんなりちゃん [4:52]</li>
 <li>Calling Out From The World Of Echoes Remixed by VARO [5:36]</li>
-<li>Golden Leaves Remixed by <a href="https://ja.wikipedia.org/wiki/チボ・マット" title="wikilink">チボ・マット</a> featuring Nels Cline on guitars [4:59]</li>
+<li>Golden Leaves Remixed by <a href="../Page/チボ・マット.md" title="wikilink">チボ・マット</a> featuring Nels Cline on guitars [4:59]</li>
 <li>The Legend Remixed by シャーロット・ケンプ・ミュール of the Goastt and Jared Samuel of Invisible Familiars, featuring ショーン・レノン [3:26]</li>
 <li>Vicious Circle Remixed by 石原洋 at Peace Music Tokyo [7:28]</li>
 <li>Love &amp; Food Remixed by 永井聖一 [3:26]</li>
-<li>Bring Back 80’　Remixed by <a href="https://ja.wikipedia.org/wiki/砂原良徳" title="wikilink">砂原良徳</a> [4:48]</li>
+<li>Bring Back 80’　Remixed by <a href="../Page/砂原良徳.md" title="wikilink">砂原良徳</a> [4:48]</li>
 <li>Les Sirènes (Instrumental) [6:18]</li>
 <li>Don’t Stop The Music Remixed by Greeen Linez [4:54]</li>
 <li>Oui Oui (Demo) [3:21]</li>
@@ -346,7 +346,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1998年09月23日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/カーネーション_(バンド)" title="wikilink">カーネーション</a>『<a href="https://ja.wikipedia.org/wiki/EDO_RIVER" title="wikilink">EDO RIVER</a>』</strong></p></td>
+<td><p><strong><a href="../Page/カーネーション_(バンド).md" title="wikilink">カーネーション</a>『<a href="https://ja.wikipedia.org/wiki/EDO_RIVER" title="wikilink">EDO RIVER</a>』</strong></p></td>
 <td><p>COCA-11881</p></td>
 <td><p>12.Love Experience(コーラスで大野由美子が参加)</p></td>
 </tr>
@@ -446,22 +446,22 @@
   - 2013年08月24日 - ONE Music Camp 2013
   - 2014年07月27日 - FUJI ROCK FESTIVAL '14
   - 2014年12月02日 - [DEERHOOF](../Page/ディアフーフ.md "wikilink") JAPAN TOUR 2014
-  - 2015年10月21日 - [SEAGULL SCREAMING KISS HER KISS HER](https://ja.wikipedia.org/wiki/SEAGULL_SCREAMING_KISS_HER_KISS_HER "wikilink")「ETERNAL ADOLESCENCE TOUR」
+  - 2015年10月21日 - [SEAGULL SCREAMING KISS HER KISS HER](../Page/SEAGULL_SCREAMING_KISS_HER_KISS_HER.md "wikilink")「ETERNAL ADOLESCENCE TOUR」
   - 2015年10月25日 - STEREO RECORDS 10th ANNIVERSARY
 
 ## 関連項目
 
-  - [ビースティ・ボーイズ](https://ja.wikipedia.org/wiki/ビースティ・ボーイズ "wikilink") （ビースティ主催のGrand Royalからワールドワイドデビュー）
-  - [チボ・マット](https://ja.wikipedia.org/wiki/チボ・マット "wikilink") （Grand Royalのレーベルメイト）
+  - [ビースティ・ボーイズ](../Page/ビースティ・ボーイズ.md "wikilink") （ビースティ主催のGrand Royalからワールドワイドデビュー）
+  - [チボ・マット](../Page/チボ・マット.md "wikilink") （Grand Royalのレーベルメイト）
   - [小山田圭吾](https://ja.wikipedia.org/wiki/小山田圭吾 "wikilink")
-  - [エール](https://ja.wikipedia.org/wiki/エール_\(バンド\) "wikilink")
+  - [エール](../Page/エール_\(バンド\).md "wikilink")
   - [CHARA](https://ja.wikipedia.org/wiki/CHARA "wikilink")（アルバム「Strange Fruits」に参加）
   - [KAKATO](https://ja.wikipedia.org/wiki/KAKATO "wikilink") ([環ROY](https://ja.wikipedia.org/wiki/環ROY "wikilink")×[鎮座DOPENESS](https://ja.wikipedia.org/wiki/鎮座DOPENESS "wikilink")) （「New Rock 20th feat. KAKATO」ReDiscover収録）
   - [日暮愛葉](../Page/日暮愛葉.md "wikilink") （「Beautiful You 20th feat.日暮愛葉&有島コレスケ」ReDiscover収録）
   - [有島コレスケ](https://ja.wikipedia.org/wiki/有島コレスケ "wikilink") （「Beautiful You 20th feat.日暮愛葉&有島コレスケ」ReDiscover収録）
   - [立花ハジメ](../Page/立花ハジメ.md "wikilink") （「Socks, Drugs and Rock'n'roll Live (Sax, Drugs and Rock'n'roll) feat.立花ハジメ」ReDiscover収録、7インチジャケット・デザイン等）
   - [Avec Avec](https://ja.wikipedia.org/wiki/Avec_Avec "wikilink") （「バルーン Remix by Avec Avec」ReDiscover収録）
-  - [カヒミ・カリィ](https://ja.wikipedia.org/wiki/カヒミ・カリィ "wikilink") （「Le Cheval Blanc feat. カヒミ カリィ on voice 」Konjac-tion収録）
+  - [カヒミ・カリィ](../Page/カヒミ・カリィ.md "wikilink") （「Le Cheval Blanc feat. カヒミ カリィ on voice 」Konjac-tion収録）
   - [Pismo](https://ja.wikipedia.org/wiki/Pismo "wikilink") （「Golden Leaves feat. Pismo on vocal」Konjac-tion収録）
   - [レイ・ハラカミ](../Page/レイ・ハラカミ.md "wikilink") （「Golden Leaves feat. Pismo on vocal」アレンジ、Konjac-tion収録）
   - [坂本慎太郎](https://ja.wikipedia.org/wiki/坂本慎太郎 "wikilink") （「Love & Food feat. 坂本慎太郎 on vocal 、Konjac-tion収録　\*坂本慎太郎の初フィーチャリング・ボーカル曲）
@@ -472,7 +472,7 @@
   - [Charlotte Kemp Muhl](https://ja.wikipedia.org/wiki/Charlotte_Kemp_Muhl "wikilink") （「The Legend」 Remix、Konjac-tion収録）
   - [石原洋](https://ja.wikipedia.org/wiki/石原洋 "wikilink") （「Vicious Circle」Remix、Konjac-tion収録、ゆらゆら帝国サウンドプロデューサー）
   - [永井聖一](../Page/相対性理論_\(バンド\).md "wikilink") （「Love & Food」Remix、Konjac-tion収録、相対性理論）
-  - [砂原良徳](https://ja.wikipedia.org/wiki/砂原良徳 "wikilink") （「Bring Back 80’」Remix、Konjac-tion収録）
+  - [砂原良徳](../Page/砂原良徳.md "wikilink") （「Bring Back 80’」Remix、Konjac-tion収録）
   - [Greeen Linez](https://ja.wikipedia.org/wiki/Greeen_Linez "wikilink") （「Don't Stop The Music」Remix、Konjac-tion収録）
 
 ## 脚注

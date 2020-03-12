@@ -3,11 +3,11 @@
 
 **LOHAS**（ロハス、ローハス）とは、[英語](../Page/英語.md "wikilink")の "" ([健康](../Page/健康.md "wikilink")で[持続可能な](../Page/持続可能性.md "wikilink")、またこれを重視する[生活様式](https://ja.wikipedia.org/wiki/生活様式 "wikilink")) の頭文字をとった略語で、「健康と地球環境」意識の高い[ライフスタイル](https://ja.wikipedia.org/wiki/ライフスタイル "wikilink")を指す用語である\[1\]。
 
-元々は、1990年後半にアメリカの西部[コロラド州](../Page/コロラド州.md "wikilink")[ボルダー周辺で生まれたもので](https://ja.wikipedia.org/wiki/ボルダー_\(コロラド州\) "wikilink")、社会学者のポール・レイ (P. H. Ray) と心理学者のシェリー・アンダーソン (S. R. Anderson) による全米10万人以上を対象にした社会調査を基に生み出されたマーケティングコンセプトである\[2\]。彼らはこの調査から、TraditionalsやModernsに属さない層「カルチュアル・クリエイティブ」(CC) という層を導き出した。この層は、エコロジーや環境、人間関係、平和、社会主義などの世界的な課題や、自己実現、自己表現など自分に高い関心を持つ層であり、全米で5000万人がこのような価値観を持つとされた。この結果に対し、エコロジー製品企業ガイアム (Gaiam) の社長ジルカ・リサビ (J. Rysavy) がレイに提案し、ロハス (LOHAS) というマーケティングコンセプトが生まれた\[3\]。
+元々は、1990年後半にアメリカの西部[コロラド州](../Page/コロラド州.md "wikilink")[ボルダー周辺で生まれたもので](../Page/ボルダー_\(コロラド州\).md "wikilink")、社会学者のポール・レイ (P. H. Ray) と心理学者のシェリー・アンダーソン (S. R. Anderson) による全米10万人以上を対象にした社会調査を基に生み出されたマーケティングコンセプトである\[2\]。彼らはこの調査から、TraditionalsやModernsに属さない層「カルチュアル・クリエイティブ」(CC) という層を導き出した。この層は、エコロジーや環境、人間関係、平和、社会主義などの世界的な課題や、自己実現、自己表現など自分に高い関心を持つ層であり、全米で5000万人がこのような価値観を持つとされた。この結果に対し、エコロジー製品企業ガイアム (Gaiam) の社長ジルカ・リサビ (J. Rysavy) がレイに提案し、ロハス (LOHAS) というマーケティングコンセプトが生まれた\[3\]。
 
 アメリカでは毎年LOHAS市場を拡大するためのLOHAS会議が開催されている。[2002年](../Page/2002年.md "wikilink")、[日本経済新聞](../Page/日本経済新聞.md "wikilink")がLOHASを紹介する記事を掲載した。
 
-[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[2004年](../Page/2004年.md "wikilink")（平成16年）頃から[ライフスタイル](https://ja.wikipedia.org/wiki/ライフスタイル "wikilink")を表現する[言葉](https://ja.wikipedia.org/wiki/言葉 "wikilink")として注目されたが、現在は[定義](https://ja.wikipedia.org/wiki/定義 "wikilink")が曖昧な[バズワード](https://ja.wikipedia.org/wiki/バズワード "wikilink")の一つとして扱われている。定義の曖昧さを逆手に取りエコロジカルな[イメージ](https://ja.wikipedia.org/wiki/イメージ "wikilink")を[商品](../Page/商品.md "wikilink")や[ビジネス](../Page/ビジネス.md "wikilink")に関連付けるために用いられることも少なくない。
+[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[2004年](../Page/2004年.md "wikilink")（平成16年）頃から[ライフスタイル](https://ja.wikipedia.org/wiki/ライフスタイル "wikilink")を表現する[言葉](https://ja.wikipedia.org/wiki/言葉 "wikilink")として注目されたが、現在は[定義](https://ja.wikipedia.org/wiki/定義 "wikilink")が曖昧な[バズワード](../Page/バズワード.md "wikilink")の一つとして扱われている。定義の曖昧さを逆手に取りエコロジカルな[イメージ](../Page/イメージ.md "wikilink")を[商品](../Page/商品.md "wikilink")や[ビジネス](../Page/ビジネス.md "wikilink")に関連付けるために用いられることも少なくない。
 
 ## 世界展開
 
@@ -21,8 +21,8 @@
 
 [日本経済新聞](../Page/日本経済新聞.md "wikilink")が2002年（平成14年）9月、大和田順子によるLOHASを紹介する記事を掲載。その後、月刊誌『[ソトコト](https://ja.wikipedia.org/wiki/ソトコト "wikilink")』が2004年（平成16年）4月号でロハス特集を組むなど、マスメディアが注目したことでロハスが広まっていった。2005年（平成17年）より、イースクエアがNMIと同様の調査を日本でも行っている。同年の調査によると、日本の[成人](https://ja.wikipedia.org/wiki/成人 "wikilink")の29 %がLOHAS層だという（他、NOMADICS: 27 %、CENTRISTS: 28 %、INDIFFERENTS: 16 %）。
 
-  - 日本では、「[健康](../Page/健康.md "wikilink")と[環境](../Page/環境.md "wikilink")を志向するライフスタイル」と意訳され、[スローライフ](https://ja.wikipedia.org/wiki/スローライフ "wikilink")や[エコに続いて広まった](../Page/エコロジー.md "wikilink")。一般的には、健康や[癒し](https://ja.wikipedia.org/wiki/癒し "wikilink")・環境やエコに関連した商品や[サービス](../Page/サービス.md "wikilink")を総称してロハスと呼び、ロハス的な事・物に興味を持つ人をロハスピープルと呼ぶ。[2011年](../Page/2011年.md "wikilink")（平成23年）からは[太陽光発電](../Page/太陽光発電.md "wikilink")分野においてロハスグループが注目され、さらにLOHAS層が増加した。
-  - 他人に対し、同じライフスタイルを無理に[啓蒙](https://ja.wikipedia.org/wiki/啓蒙 "wikilink")しようとしたり、或いは無理をしてまで自己のライフスタイルとして教条的に貫徹させようとしている人に対し、批判的立場から[皮肉](https://ja.wikipedia.org/wiki/皮肉 "wikilink")を込めて「ほっこりすと」という[蔑称](https://ja.wikipedia.org/wiki/蔑称 "wikilink")も[造語](https://ja.wikipedia.org/wiki/造語 "wikilink")された。
+  - 日本では、「[健康](../Page/健康.md "wikilink")と[環境](../Page/環境.md "wikilink")を志向するライフスタイル」と意訳され、[スローライフ](../Page/スローライフ.md "wikilink")や[エコに続いて広まった](../Page/エコロジー.md "wikilink")。一般的には、健康や[癒し](../Page/癒し.md "wikilink")・環境やエコに関連した商品や[サービス](../Page/サービス.md "wikilink")を総称してロハスと呼び、ロハス的な事・物に興味を持つ人をロハスピープルと呼ぶ。[2011年](../Page/2011年.md "wikilink")（平成23年）からは[太陽光発電](../Page/太陽光発電.md "wikilink")分野においてロハスグループが注目され、さらにLOHAS層が増加した。
+  - 他人に対し、同じライフスタイルを無理に[啓蒙](https://ja.wikipedia.org/wiki/啓蒙 "wikilink")しようとしたり、或いは無理をしてまで自己のライフスタイルとして教条的に貫徹させようとしている人に対し、批判的立場から[皮肉](https://ja.wikipedia.org/wiki/皮肉 "wikilink")を込めて「ほっこりすと」という[蔑称](https://ja.wikipedia.org/wiki/蔑称 "wikilink")も[造語](../Page/造語.md "wikilink")された。
 
 ## ビジネスとしてのロハス
 
@@ -33,15 +33,15 @@
 頭文字をとってSHAPEと呼ばれている
 
   - Sustainable Economy（持続可能な経済）
-    [グリーン都市計画](https://ja.wikipedia.org/wiki/グリーン都市計画 "wikilink")、[SRI](https://ja.wikipedia.org/wiki/SRI "wikilink")、[省エネルギー](https://ja.wikipedia.org/wiki/省エネルギー "wikilink")商品、[代替エネルギー](https://ja.wikipedia.org/wiki/代替エネルギー "wikilink")、[フェアトレード](https://ja.wikipedia.org/wiki/フェアトレード "wikilink")等。
+    [グリーン都市計画](https://ja.wikipedia.org/wiki/グリーン都市計画 "wikilink")、[SRI](https://ja.wikipedia.org/wiki/SRI "wikilink")、[省エネルギー](../Page/省エネルギー.md "wikilink")商品、[代替エネルギー](https://ja.wikipedia.org/wiki/代替エネルギー "wikilink")、[フェアトレード](https://ja.wikipedia.org/wiki/フェアトレード "wikilink")等。
   - Healthy Lifestyle（健康的なライフスタイル）
-    [自然食品](https://ja.wikipedia.org/wiki/自然食品 "wikilink")、[サプリメント](https://ja.wikipedia.org/wiki/サプリメント "wikilink")、[オーガニック](https://ja.wikipedia.org/wiki/オーガニック "wikilink")、[マクロビオティック](https://ja.wikipedia.org/wiki/マクロビオティック "wikilink")等。
+    [自然食品](https://ja.wikipedia.org/wiki/自然食品 "wikilink")、[サプリメント](../Page/サプリメント.md "wikilink")、[オーガニック](https://ja.wikipedia.org/wiki/オーガニック "wikilink")、[マクロビオティック](../Page/マクロビオティック.md "wikilink")等。
   - Alternative Healthcare（[代替医療](../Page/代替医療.md "wikilink")）
     [ホメオパシー](../Page/ホメオパシー.md "wikilink")、[アーユルヴェーダ](../Page/アーユルヴェーダ.md "wikilink")、[自然治療](https://ja.wikipedia.org/wiki/自然治療 "wikilink")、[東洋医学](https://ja.wikipedia.org/wiki/東洋医学 "wikilink")、[鍼治療](https://ja.wikipedia.org/wiki/鍼治療 "wikilink")、[レイキ](../Page/レイキ.md "wikilink")等。
   - Personal Development（自己開発）
-    [メンタルトレーニング](https://ja.wikipedia.org/wiki/メンタルトレーニング "wikilink")、[スピリチュアル](../Page/スピリチュアル.md "wikilink")、[ヨガ](https://ja.wikipedia.org/wiki/ヨガ "wikilink")、[ピラティス](https://ja.wikipedia.org/wiki/ピラティス "wikilink")、[瞑想](https://ja.wikipedia.org/wiki/瞑想 "wikilink")法、[自己啓発](https://ja.wikipedia.org/wiki/自己啓発 "wikilink")、アート、能力開発等。
+    [メンタルトレーニング](https://ja.wikipedia.org/wiki/メンタルトレーニング "wikilink")、[スピリチュアル](../Page/スピリチュアル.md "wikilink")、[ヨガ](https://ja.wikipedia.org/wiki/ヨガ "wikilink")、[ピラティス](https://ja.wikipedia.org/wiki/ピラティス "wikilink")、[瞑想](../Page/瞑想.md "wikilink")法、[自己啓発](../Page/自己啓発.md "wikilink")、アート、能力開発等。
   - Ecological Lifestyle（エコなライフスタイル）
-    [リフォーム](https://ja.wikipedia.org/wiki/リフォーム "wikilink")、[環境配慮住宅](https://ja.wikipedia.org/wiki/環境配慮住宅 "wikilink")、家庭用品、[エコツーリズム](https://ja.wikipedia.org/wiki/エコツーリズム "wikilink")等。
+    [リフォーム](../Page/リフォーム.md "wikilink")、[環境配慮住宅](https://ja.wikipedia.org/wiki/環境配慮住宅 "wikilink")、家庭用品、[エコツーリズム](../Page/エコツーリズム.md "wikilink")等。
 
 ## 消費者としてのロハス
 
@@ -54,7 +54,7 @@
 [有限責任中間法人](https://ja.wikipedia.org/wiki/有限責任中間法人 "wikilink")。[ロハスクラブ](https://ja.wikipedia.org/wiki/ロハスクラブ "wikilink")の活動内容は、「ロハス商品の審査・承認」、「ロハスマークの発行・許諾」、「ロハスデザイン大賞の運営」「ロハス・ライセンスビジネスの展開」と発表されている。
 
   - 代表：[小黒一三](../Page/小黒一三.md "wikilink")（トド・プレス代表、『[ソトコト](https://ja.wikipedia.org/wiki/ソトコト "wikilink")』編集長　J-WAVE『[LOHAS TALK](../Page/LOHAS_TALK.md "wikilink")』ホスト）
-  - 理事：[坂本龍一](../Page/坂本龍一.md "wikilink")（音楽家）、[福岡伸一](https://ja.wikipedia.org/wiki/福岡伸一 "wikilink")（分子生物学者・青山学院大学理工学部教授）、大井法子（弁護士・虎ノ門総合法律事務所）、[長友啓典](https://ja.wikipedia.org/wiki/長友啓典 "wikilink")（アートディレクター・K2）
+  - 理事：[坂本龍一](../Page/坂本龍一.md "wikilink")（音楽家）、[福岡伸一](../Page/福岡伸一.md "wikilink")（分子生物学者・青山学院大学理工学部教授）、大井法子（弁護士・虎ノ門総合法律事務所）、[長友啓典](../Page/長友啓典.md "wikilink")（アートディレクター・K2）
 
 #### ロハスデザイン大賞
 
@@ -149,33 +149,33 @@
 
   - [ソトコト](https://ja.wikipedia.org/wiki/ソトコト "wikilink")（木楽舎）
   - [MYLOHAS](https://ja.wikipedia.org/wiki/MYLOHAS "wikilink")（[インフォバーン](https://ja.wikipedia.org/wiki/インフォバーン "wikilink")）
-  - ku:nel（[クウネル](https://ja.wikipedia.org/wiki/クウネル "wikilink")）（[マガジンハウス](https://ja.wikipedia.org/wiki/マガジンハウス "wikilink")）
-  - 日経エコロジー（[日経BP](https://ja.wikipedia.org/wiki/日経BP "wikilink")）
-  - [通販生活](https://ja.wikipedia.org/wiki/通販生活 "wikilink")（[カタログハウス](https://ja.wikipedia.org/wiki/カタログハウス "wikilink")）
+  - ku:nel（[クウネル](https://ja.wikipedia.org/wiki/クウネル "wikilink")）（[マガジンハウス](../Page/マガジンハウス.md "wikilink")）
+  - 日経エコロジー（[日経BP](../Page/日経BP.md "wikilink")）
+  - [通販生活](../Page/通販生活.md "wikilink")（[カタログハウス](https://ja.wikipedia.org/wiki/カタログハウス "wikilink")）
 
 ## TV・ラジオ番組
 
-  - [LOHAS SUNDAY](https://ja.wikipedia.org/wiki/LOHAS_SUNDAY "wikilink")（[J-WAVE](../Page/J-WAVE.md "wikilink") [王理恵](https://ja.wikipedia.org/wiki/王理恵 "wikilink")がナビゲーターを務める）
-  - [LOHAS TALK](../Page/LOHAS_TALK.md "wikilink")（同上 [Jam the WORLD内](https://ja.wikipedia.org/wiki/Jam_the_WORLD "wikilink") ナビゲータは[小黒一三](../Page/小黒一三.md "wikilink")）
+  - [LOHAS SUNDAY](../Page/LOHAS_SUNDAY.md "wikilink")（[J-WAVE](../Page/J-WAVE.md "wikilink") [王理恵](../Page/王理恵.md "wikilink")がナビゲーターを務める）
+  - [LOHAS TALK](../Page/LOHAS_TALK.md "wikilink")（同上 [Jam the WORLD内](../Page/Jam_the_WORLD.md "wikilink") ナビゲータは[小黒一三](../Page/小黒一三.md "wikilink")）
   - Love our Bay（[ベイエフエム](../Page/ベイエフエム.md "wikilink") 開局 - 2011年9月）
   - Dr.月尾 地球の方程式（[TBSニュースバード](https://ja.wikipedia.org/wiki/TBSニュースバード "wikilink")のTV番組。5回にわたりLOHASを取り上げた）
-  - ロハスな生活（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink"): 2005年7月 - 9月、ナレーター: [大橋マキ](https://ja.wikipedia.org/wiki/大橋マキ "wikilink")、企画構成：[わぐりたかし](https://ja.wikipedia.org/wiki/わぐりたかし "wikilink")）
+  - ロハスな生活（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink"): 2005年7月 - 9月、ナレーター: [大橋マキ](https://ja.wikipedia.org/wiki/大橋マキ "wikilink")、企画構成：[わぐりたかし](../Page/わぐりたかし.md "wikilink")）
   - Happy\! LOHAS（[BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink"): 2006年4月 - 2007年9月、ナビゲーター: 大橋マキ、企画構成: わぐりたかし　「ソトコト」のTV版）
-  - しあわせロハス（BS朝日: 2007年10月 -、ナビゲーター: [SHIHO](https://ja.wikipedia.org/wiki/SHIHO_\(ファッションモデル\) "wikilink")）
+  - しあわせロハス（BS朝日: 2007年10月 -、ナビゲーター: [SHIHO](../Page/SHIHO_\(ファッションモデル\).md "wikilink")）
 
 ## 風刺作品
 
   - アニメ「[ザ・シンプソンズ](https://ja.wikipedia.org/wiki/ザ・シンプソンズ "wikilink")」
-      - [シーズン22](https://ja.wikipedia.org/wiki/ザ・シンプソンズのエピソード一覧#シーズン22 "wikilink") 第10回「[クールママの集い](https://ja.wikipedia.org/wiki/クールママの集い "wikilink")（原題："[Moms I'd Like to Forget](https://ja.wikipedia.org/wiki/:en:Moms_I'd_Like_to_Forget "wikilink")"）」（[専門チャンネル](https://ja.wikipedia.org/wiki/専門チャンネル "wikilink")[FOX](https://ja.wikipedia.org/wiki/フォックス放送 "wikilink")）
+      - [シーズン22](https://ja.wikipedia.org/wiki/ザ・シンプソンズのエピソード一覧#シーズン22 "wikilink") 第10回「[クールママの集い](https://ja.wikipedia.org/wiki/クールママの集い "wikilink")（原題："[Moms I'd Like to Forget](https://ja.wikipedia.org/wiki/:en:Moms_I'd_Like_to_Forget "wikilink")"）」（[専門チャンネル](../Page/専門チャンネル.md "wikilink")[FOX](../Page/フォックス放送.md "wikilink")）
       - [シーズン24](https://ja.wikipedia.org/wiki/ザ・シンプソンズのエピソード一覧#シーズン24 "wikilink") 第7回「[目指せ、クールダディー](https://ja.wikipedia.org/wiki/目指せ、クールダディー "wikilink")（原題："[The Day the Earth Stood Cool](https://ja.wikipedia.org/wiki/:en:The_Day_the_Earth_Stood_Cool "wikilink")"）」（専門チャンネルFOX）
       - [シーズン28](https://ja.wikipedia.org/wiki/ザ・シンプソンズのエピソード一覧#シーズン28 "wikilink") 第14回「[山を越えるチリドッグ](https://ja.wikipedia.org/wiki/山を越えるチリドッグ "wikilink")（原題："[Fatzcarraldo](https://ja.wikipedia.org/wiki/:en:Fatzcarraldo "wikilink")"）」（専門チャンネルFOX）
-  - コミックス・アニメ・ドラマ「[笑ゥせぇるすまん](https://ja.wikipedia.org/wiki/笑ゥせぇるすまん "wikilink")」
+  - コミックス・アニメ・ドラマ「[笑ゥせぇるすまん](../Page/笑ゥせぇるすまん.md "wikilink")」
       - 第60回 「家庭菜園」
       - 第77回 「クリーン症候群」
       - 第98回 「ブルー・アイ・ジャパニーズ」
-  - 映画「[ケロッグ博士](https://ja.wikipedia.org/wiki/ケロッグ博士_\(映画\) "wikilink")（The Road to Wellville）」（[1994年](../Page/1994年.md "wikilink")、アメリカ作品） - 監督：[アラン・パーカー](https://ja.wikipedia.org/wiki/アラン・パーカー "wikilink")、主演：[アンソニー・ホプキンス](https://ja.wikipedia.org/wiki/アンソニー・ホプキンス "wikilink")
-  - コミックス・ドラマ「[ホットマン](https://ja.wikipedia.org/wiki/ホットマン "wikilink")」
-  - コミックス・アニメ・映画「[デトロイト・メタル・シティ](https://ja.wikipedia.org/wiki/デトロイト・メタル・シティ "wikilink")」
+  - 映画「[ケロッグ博士](https://ja.wikipedia.org/wiki/ケロッグ博士_\(映画\) "wikilink")（The Road to Wellville）」（[1994年](../Page/1994年.md "wikilink")、アメリカ作品） - 監督：[アラン・パーカー](../Page/アラン・パーカー.md "wikilink")、主演：[アンソニー・ホプキンス](../Page/アンソニー・ホプキンス.md "wikilink")
+  - コミックス・ドラマ「[ホットマン](../Page/ホットマン.md "wikilink")」
+  - コミックス・アニメ・映画「[デトロイト・メタル・シティ](../Page/デトロイト・メタル・シティ.md "wikilink")」
 
 ## 脚注
 
@@ -189,12 +189,12 @@
 
   - [エコロジー](../Page/エコロジー.md "wikilink")
   - [有機農家](https://ja.wikipedia.org/wiki/有機農家 "wikilink")
-  - [癒し](https://ja.wikipedia.org/wiki/癒し "wikilink")
-  - [企業の社会的責任](https://ja.wikipedia.org/wiki/企業の社会的責任 "wikilink")
-  - [もったいない](https://ja.wikipedia.org/wiki/もったいない "wikilink")
-  - [コミュニティ・ビジネス](https://ja.wikipedia.org/wiki/コミュニティ・ビジネス "wikilink")
+  - [癒し](../Page/癒し.md "wikilink")
+  - [企業の社会的責任](../Page/企業の社会的責任.md "wikilink")
+  - [もったいない](../Page/もったいない.md "wikilink")
+  - [コミュニティ・ビジネス](../Page/コミュニティ・ビジネス.md "wikilink")
   - [身土不二\#食運動での「身土不二」](https://ja.wikipedia.org/wiki/身土不二#食運動での「身土不二」 "wikilink")
-  - [エコファシズム](https://ja.wikipedia.org/wiki/エコファシズム "wikilink")
+  - [エコファシズム](../Page/エコファシズム.md "wikilink")
 
 ## 外部リンク
 

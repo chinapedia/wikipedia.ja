@@ -1,7 +1,7 @@
 > この記事は[-Human Being-](https://ja.wikipedia.org/wiki/-Human_Being-)から翻訳されています。
 
 
-『**生命あるものはみな-Human Being-**』（いのちあるものはみな-Human Being-）は、[モンゴル出身の](https://ja.wikipedia.org/wiki/モンゴル国 "wikilink")[歌手](../Page/歌手.md "wikilink")[オユンナ](https://ja.wikipedia.org/wiki/オユンナ "wikilink")の4th[アルバム](../Page/アルバム.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月18日](../Page/2月18日.md "wikilink")に[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")よりリリースされた。
+『**生命あるものはみな-Human Being-**』（いのちあるものはみな-Human Being-）は、[モンゴル出身の](https://ja.wikipedia.org/wiki/モンゴル国 "wikilink")[歌手](../Page/歌手.md "wikilink")[オユンナ](../Page/オユンナ.md "wikilink")の4th[アルバム](../Page/アルバム.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月18日](../Page/2月18日.md "wikilink")に[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")よりリリースされた。
 
 ## 解説
 
@@ -13,7 +13,7 @@
 ## 収録曲
 
 1.  星のプラトー
-      - 作詞: [藤公之介](https://ja.wikipedia.org/wiki/藤公之介 "wikilink")、作曲: オユンナ、編曲: 川崎康宏
+      - 作詞: [藤公之介](../Page/藤公之介.md "wikilink")、作曲: オユンナ、編曲: 川崎康宏
 2.  エンジェル・キッス
       - 作詞: 藤公之介、作曲: オユンナ、編曲: 川崎康宏
 3.  A･Brand-New Mind
@@ -33,7 +33,7 @@
 10. 生命あるものはみな
       - 作詞: 藤公之介、作曲: オユンナ、編曲: 川崎康宏
 11. ヒロシマの少女の折鶴 ※ボーナストラック
-      - 作詞: ヤオホラン・インヘ、作曲: ダリザフ・ダッシニャム、編曲: [倉田信雄](https://ja.wikipedia.org/wiki/倉田信雄 "wikilink")
+      - 作詞: ヤオホラン・インヘ、作曲: ダリザフ・ダッシニャム、編曲: [倉田信雄](../Page/倉田信雄.md "wikilink")
 12. ときめきの夕暮れ　※ボーナストラック
       - 作詞/作曲: オユンナ、編曲: 川崎康宏
 13. 天の子守歌1998　※ボーナストラック

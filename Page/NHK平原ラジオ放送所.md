@@ -1,13 +1,13 @@
 > この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
 
 
-**NHK平原ラジオ放送所**（えぬえいちけいひらばるらじおほうそうじょ）は、[NHK大分放送局](../Page/NHK大分放送局.md "wikilink")の[ラジオ第1放送と](https://ja.wikipedia.org/wiki/NHKラジオ第1放送 "wikilink")[ラジオ第2放送の送信施設の名称である](https://ja.wikipedia.org/wiki/NHKラジオ第2放送 "wikilink")。なお、本項では**NHK大分平原テレビ中継局（総合テレビのみ/季節混信対策局）**についても記す。
+**NHK平原ラジオ放送所**（えぬえいちけいひらばるらじおほうそうじょ）は、[NHK大分放送局](../Page/NHK大分放送局.md "wikilink")の[ラジオ第1放送と](../Page/NHKラジオ第1放送.md "wikilink")[ラジオ第2放送の送信施設の名称である](../Page/NHKラジオ第2放送.md "wikilink")。なお、本項では**NHK大分平原テレビ中継局（総合テレビのみ/季節混信対策局）**についても記す。
 
 ## 概要
 
   - 所在地：大分県大分市神崎字上白木平原128
   - もともと放送局として開設。その後スタジオ部分はテレビ放送開始により市街地へ移転した。
-  - テレビ中継局は、[十文字原テレビ・FM放送所](../Page/十文字原テレビ・FM放送所.md "wikilink")から送出するアナログ総合テレビがVHF3chのため、気象条件の影響（[スポラディックE層](https://ja.wikipedia.org/wiki/スポラディックE層 "wikilink")の発生）を受けやすいことから設置。
+  - テレビ中継局は、[十文字原テレビ・FM放送所](../Page/十文字原テレビ・FM放送所.md "wikilink")から送出するアナログ総合テレビがVHF3chのため、気象条件の影響（[スポラディックE層](../Page/スポラディックE層.md "wikilink")の発生）を受けやすいことから設置。
   - 地上デジタル放送はUHF波で送信しているため、中継局は設置していない。
 
 ## 沿革
@@ -22,10 +22,10 @@
 
 ### AMラジオ放送
 
-| 系統名                                                          | [コールサイン](https://ja.wikipedia.org/wiki/識別信号 "wikilink") | [周波数](../Page/周波数.md "wikilink") | [空中線電力](https://ja.wikipedia.org/wiki/空中線電力 "wikilink") | [放送対象地域](https://ja.wikipedia.org/wiki/放送#放送対象地域 "wikilink") | [放送区域内世帯数](https://ja.wikipedia.org/wiki/放送#放送区域 "wikilink") |
-| ------------------------------------------------------------ | ------------------------------------------------------- | -------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [ラジオ第1](https://ja.wikipedia.org/wiki/NHKラジオ第1放送 "wikilink") | JOIP                                                    | 639kHz                           | 音声5kW                                                   | [大分県](../Page/大分県.md "wikilink")                             | \-                                                           |
-| [ラジオ第2](https://ja.wikipedia.org/wiki/NHKラジオ第2放送 "wikilink") | JOID                                                    | 1467kHz                          | 音声1kW                                                   | [全国放送](../Page/全国放送.md "wikilink")                           | \-                                                           |
+| 系統名                                       | [コールサイン](https://ja.wikipedia.org/wiki/識別信号 "wikilink") | [周波数](../Page/周波数.md "wikilink") | [空中線電力](../Page/空中線電力.md "wikilink") | [放送対象地域](https://ja.wikipedia.org/wiki/放送#放送対象地域 "wikilink") | [放送区域内世帯数](https://ja.wikipedia.org/wiki/放送#放送区域 "wikilink") |
+| ----------------------------------------- | ------------------------------------------------------- | -------------------------------- | ------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [ラジオ第1](../Page/NHKラジオ第1放送.md "wikilink") | JOIP                                                    | 639kHz                           | 音声5kW                                | [大分県](../Page/大分県.md "wikilink")                             | \-                                                           |
+| [ラジオ第2](../Page/NHKラジオ第2放送.md "wikilink") | JOID                                                    | 1467kHz                          | 音声1kW                                | [全国放送](../Page/全国放送.md "wikilink")                           | \-                                                           |
 
 ### テレビ放送 (大分平原中継局)
 
@@ -35,8 +35,8 @@
 <thead>
 <tr class="header">
 <th><p>系統名</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/チャンネル_(テレビ放送)" title="wikilink">チャンネル</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/空中線電力" title="wikilink">空中線電力</a></p></th>
+<th><p><a href="../Page/チャンネル_(テレビ放送).md" title="wikilink">チャンネル</a></p></th>
+<th><p><a href="../Page/空中線電力.md" title="wikilink">空中線電力</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/実効放射電力" title="wikilink">ERP</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/放送#放送対象地域" title="wikilink">放送対象地域</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/放送#放送区域" title="wikilink">放送区域内世帯数</a></p></th>
@@ -44,7 +44,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/NTSC.md" title="wikilink">アナログ</a><a href="https://ja.wikipedia.org/wiki/NHK総合テレビジョン" title="wikilink">総合</a></p></td>
+<td><p><a href="../Page/NTSC.md" title="wikilink">アナログ</a><a href="../Page/NHK総合テレビジョン.md" title="wikilink">総合</a></p></td>
 <td><p>19ch</p></td>
 <td><p>映像30W<br />
 /音声7.5W</p></td>
@@ -65,7 +65,7 @@
 <!-- end list -->
 
   - [十文字原テレビ・FM放送所](../Page/十文字原テレビ・FM放送所.md "wikilink")
-  - [八面山](https://ja.wikipedia.org/wiki/八面山_\(大分県\) "wikilink")
+  - [八面山](../Page/八面山_\(大分県\).md "wikilink")
   - [OBS杵築ラジオ放送所](https://ja.wikipedia.org/wiki/OBS杵築ラジオ放送所 "wikilink")
 
 <!-- end list -->

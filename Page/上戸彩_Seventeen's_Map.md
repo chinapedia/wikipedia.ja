@@ -9,11 +9,11 @@
 
   - [2002年](../Page/2002年.md "wikilink")10月-[2003年](../Page/2003年.md "wikilink")9月（17歳）…『上戸彩 Seventeen’s map』
   - 2003年9月-[2004年](../Page/2004年.md "wikilink")9月（18歳）…『上戸彩 Eighteen's Road』
-  - 2004年9月-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")9月（19歳）…『上戸彩 Nineteen’sナイン』
-  - 2005年9月-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")9月（20歳) …『上戸彩 ハタチにハイタッチ\!』
-  - 2006年9月-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")4月（21歳）…『上戸彩 21ピース\!』
+  - 2004年9月-[2005年](../Page/2005年.md "wikilink")9月（19歳）…『上戸彩 Nineteen’sナイン』
+  - 2005年9月-[2006年](../Page/2006年.md "wikilink")9月（20歳) …『上戸彩 ハタチにハイタッチ\!』
+  - 2006年9月-[2007年](../Page/2007年.md "wikilink")4月（21歳）…『上戸彩 21ピース\!』
 
-各タイトルは約1年続いたが、最後の『上戸彩 21ピース\!』だけは、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")の[春](../Page/春.md "wikilink")[改編](../Page/改編.md "wikilink")で上戸彩がドラマの撮影のため番組を降板、そして、半年で終了した。後番組は[長澤まさみ](https://ja.wikipedia.org/wiki/長澤まさみ "wikilink")がパーソナリティーをつとめる『長澤まさみ タイトル未定（仮）』（現：[長澤まさみSweet Hertz](https://ja.wikipedia.org/wiki/長澤まさみSweet_Hertz "wikilink")）。
+各タイトルは約1年続いたが、最後の『上戸彩 21ピース\!』だけは、[2007年](../Page/2007年.md "wikilink")の[春](../Page/春.md "wikilink")[改編](../Page/改編.md "wikilink")で上戸彩がドラマの撮影のため番組を降板、そして、半年で終了した。後番組は[長澤まさみ](https://ja.wikipedia.org/wiki/長澤まさみ "wikilink")がパーソナリティーをつとめる『長澤まさみ タイトル未定（仮）』（現：[長澤まさみSweet Hertz](../Page/長澤まさみSweet_Hertz.md "wikilink")）。
 
   - 番組終了から2年9ヶ月後の2009年[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")に事実上の復活特番となる『上戸彩 24\!』が放送された。（ニッポン放送のみ放送）
 
@@ -21,7 +21,7 @@
 
 全国20[局でネット放送されていた](https://ja.wikipedia.org/wiki/ラジオ局 "wikilink")。ただし、全期間通じてのネット局はニッポン放送と[山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink")のみで、各々のシーズンのネット局は10局前後。
 
-ネット局のほとんどはニッポン放送系列の[NRN](../Page/全国ラジオネットワーク.md "wikilink")。ただし上戸彩の母の出身地である[沖縄県](../Page/沖縄県.md "wikilink")では、NRNの[ラジオ沖縄](https://ja.wikipedia.org/wiki/ラジオ沖縄 "wikilink")ではなく、[JRNの](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")[琉球放送](https://ja.wikipedia.org/wiki/琉球放送 "wikilink")で放送された。
+ネット局のほとんどはニッポン放送系列の[NRN](../Page/全国ラジオネットワーク.md "wikilink")。ただし上戸彩の母の出身地である[沖縄県](../Page/沖縄県.md "wikilink")では、NRNの[ラジオ沖縄](https://ja.wikipedia.org/wiki/ラジオ沖縄 "wikilink")ではなく、[JRNの](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")[琉球放送](../Page/琉球放送.md "wikilink")で放送された。
 
 便宜上、改変を4月1日、10月1日からとして表記し、シリーズ全放送の局は**太字**である。
 
@@ -30,7 +30,7 @@
   - [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink") - 2005年10月～2007年3月（1年6ヶ月）
   - [山形放送](../Page/山形放送.md "wikilink") - 2002年10月～2003年3月（1年）
   - [ラジオ福島](../Page/ラジオ福島.md "wikilink") - 2002年10月～2003年3月、2004年10月～2005年3月（計1年）
-  - [茨城放送](https://ja.wikipedia.org/wiki/茨城放送 "wikilink") - 2003年10月～2004年9月（1年）
+  - [茨城放送](../Page/茨城放送.md "wikilink") - 2003年10月～2004年9月（1年）
   - [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink") - 2002年10月～2003年3月、2005年4月～2006年3月（計1年6ヶ月）
   - [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink") - 2004年10月～2005年9月（1年）
   - [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink") - 2003年10月～2004年3月、2004年10月～2005年3月（計1年）
@@ -45,7 +45,7 @@
   - [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink") - 2004年4月～2006年3月（2年）
   - [大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink") - 2005年4月～2007年3月（2年）
   - [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink") - 2002年10月～2003年3月、2006年10月～2007年3月（計1年）
-  - [琉球放送](https://ja.wikipedia.org/wiki/琉球放送 "wikilink") - 2003年3月～2007年3月（4年）
+  - [琉球放送](../Page/琉球放送.md "wikilink") - 2003年3月～2007年3月（4年）
 
 ## キー局での放送時間
 
@@ -71,7 +71,7 @@
 
 ### Eighteen's Road
 
-  - 誰も知らないラブレター - 誰かが誰かに（人とは限らない）出した[ラブレターを募集](https://ja.wikipedia.org/wiki/恋文 "wikilink")
+  - 誰も知らないラブレター - 誰かが誰かに（人とは限らない）出した[ラブレターを募集](../Page/恋文.md "wikilink")
   - 痛いほど燃える上戸双六 - [サイコロ](../Page/サイコロ.md "wikilink")を振って、出た数字のマスに書いてある痛い（肉体的な痛いではない）指令にチャレンジする。2009年放送の復活特番でもこの企画が行われた。
 
 ### Nineteen’sナイン
@@ -84,21 +84,21 @@
 #### ゲスト
 
   - [石垣佑磨](https://ja.wikipedia.org/wiki/石垣佑磨 "wikilink")
-  - [小栗旬](https://ja.wikipedia.org/wiki/小栗旬 "wikilink")
+  - [小栗旬](../Page/小栗旬.md "wikilink")
 
 ### ハタチにハイタッチ\!
 
   - 『ハタチにハイタッチ\!』というタイトルは一般公募。
   - To the reading
-  - ハイテンションプリーズ - 当時上戸主演で放送されたフジテレビ系[連続ドラマ](https://ja.wikipedia.org/wiki/連続ドラマ "wikilink")『[アテンションプリーズ](https://ja.wikipedia.org/wiki/アテンションプリーズ "wikilink")』にちなんだコーナー。リスナーから送られたメールで、どれだけ上戸のテンションが上がったかでロッテのお[菓子](../Page/菓子.md "wikilink")をプレゼントした。回数を重ねるごとにお菓子の量が増えていった。
+  - ハイテンションプリーズ - 当時上戸主演で放送されたフジテレビ系[連続ドラマ](https://ja.wikipedia.org/wiki/連続ドラマ "wikilink")『[アテンションプリーズ](../Page/アテンションプリーズ.md "wikilink")』にちなんだコーナー。リスナーから送られたメールで、どれだけ上戸のテンションが上がったかでロッテのお[菓子](../Page/菓子.md "wikilink")をプレゼントした。回数を重ねるごとにお菓子の量が増えていった。
 
 ### 21ピース\!
 
 ## 関連項目
 
-  - [ロッテヤンスタNo1](https://ja.wikipedia.org/wiki/ロッテヤンスタNo1 "wikilink")（[1970年代](../Page/1970年代.md "wikilink")後半-[1980年代](../Page/1980年代.md "wikilink")に放送された公開生放送のアイドル歌謡ショー番組）
+  - [ロッテヤンスタNo1](../Page/ロッテヤンスタNo1.md "wikilink")（[1970年代](../Page/1970年代.md "wikilink")後半-[1980年代](../Page/1980年代.md "wikilink")に放送された公開生放送のアイドル歌謡ショー番組）
   - [上戸彩のオールナイトニッポン](https://ja.wikipedia.org/wiki/上戸彩のオールナイトニッポン "wikilink") - 上戸彩がパーソナリティを担当した番組
-  - [十七歳の地図](https://ja.wikipedia.org/wiki/十七歳の地図_\(アルバム\) "wikilink") - 英題が同名の[尾崎豊](https://ja.wikipedia.org/wiki/尾崎豊 "wikilink")の[オリジナル・アルバム](https://ja.wikipedia.org/wiki/オリジナル・アルバム "wikilink")。
-  - [SONY Night Square](https://ja.wikipedia.org/wiki/SONY_Night_Square "wikilink")
+  - [十七歳の地図](../Page/十七歳の地図_\(アルバム\).md "wikilink") - 英題が同名の[尾崎豊](../Page/尾崎豊.md "wikilink")の[オリジナル・アルバム](https://ja.wikipedia.org/wiki/オリジナル・アルバム "wikilink")。
+  - [SONY Night Square](../Page/SONY_Night_Square.md "wikilink")
 
 [Category:上戸彩](https://ja.wikipedia.org/wiki/Category:上戸彩 "wikilink") [Category:ニッポン放送のバラエティ番組](https://ja.wikipedia.org/wiki/Category:ニッポン放送のバラエティ番組 "wikilink") [Category:ニッポン放送のトーク番組](https://ja.wikipedia.org/wiki/Category:ニッポン放送のトーク番組 "wikilink") [Category:女優のラジオ番組](https://ja.wikipedia.org/wiki/Category:女優のラジオ番組 "wikilink") [Category:2002年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2002年のラジオ番組_\(日本\) "wikilink") [Category:ニッポン放送の番組の歴史](https://ja.wikipedia.org/wiki/Category:ニッポン放送の番組の歴史 "wikilink")

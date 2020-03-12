@@ -16,9 +16,9 @@
 
 1.  **GOTHICA (SYMPHONY NO.1)**
 2.  **FADED〜色褪せたアルバム**
-3.  **[Angel Eyes](https://ja.wikipedia.org/wiki/Angel_Eyes_\(m.o.v.eの曲\) "wikilink")**
-      - [MBS](../Page/毎日放送.md "wikilink")/[TBS系](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")『[世界バリバリ★バリュー](../Page/世界バリバリ★バリュー.md "wikilink")』エンディング曲
-4.  **[DISCO TIME](https://ja.wikipedia.org/wiki/DISCO_TIME "wikilink")**
+3.  **[Angel Eyes](../Page/Angel_Eyes_\(m.o.v.eの曲\).md "wikilink")**
+      - [MBS](../Page/毎日放送.md "wikilink")/[TBS系](../Page/TBSテレビ.md "wikilink")『[世界バリバリ★バリュー](../Page/世界バリバリ★バリュー.md "wikilink")』エンディング曲
+4.  **[DISCO TIME](../Page/DISCO_TIME.md "wikilink")**
       - ウタカタ10月度 MONTHLY RECOMMENDO/TBS系『エンタメキャッチ』オープニングテーマ
 5.  **WHITE FOX**
 6.  **THIS IS MY HEARTACHE**
@@ -26,11 +26,11 @@
       - [セガ](https://ja.wikipedia.org/wiki/セガ "wikilink")ゲームソフト『[頭文字D](../Page/頭文字D.md "wikilink") STREET STAGE』CM曲
       - アーケードゲーム『頭文字D ARCADE STAGE 4』エンディング曲
 8.  **MISHA (SKIT)**
-9.  **[FREAKY PLANET](https://ja.wikipedia.org/wiki/FREAKY_PLANET "wikilink")**
+9.  **[FREAKY PLANET](../Page/FREAKY_PLANET.md "wikilink")**
 10. **GIRL (you WANNA MOVE)**
 11. **DISINFECTED GENERATION**
-      - [マイルドセブン](https://ja.wikipedia.org/wiki/メビウス_\(たばこ\) "wikilink") JAPAN CROSS GAME MASTERS SBX 2006 イメージ曲
-12. **[雷鳴-out of kontrol-](https://ja.wikipedia.org/wiki/雷鳴-out_of_kontrol- "wikilink")**
+      - [マイルドセブン](../Page/メビウス_\(たばこ\).md "wikilink") JAPAN CROSS GAME MASTERS SBX 2006 イメージ曲
+12. **[雷鳴-out of kontrol-](../Page/雷鳴-out_of_kontrol-.md "wikilink")**
       - 第21回東日本女子駅伝大会 テーマ曲
       - アーケードゲーム『[頭文字D ARCADE STAGE](../Page/頭文字D_ARCADE_STAGE.md "wikilink") 4』オープニング曲
 13. **SAIL AWAY**
@@ -43,8 +43,8 @@
 2.  **MAKING**
 3.  **頭文字D TALK SESSION**
 4.  **ANIMAX SUMMER FES.2005@ODAIBA**
-      - **M-1 『[DOGFIGHT](https://ja.wikipedia.org/wiki/DOGFIGHT "wikilink")』**
-      - **M-2 『[GHETTO BLASTER](https://ja.wikipedia.org/wiki/GHETTO_BLASTER "wikilink")』**
+      - **M-1 『[DOGFIGHT](../Page/DOGFIGHT.md "wikilink")』**
+      - **M-2 『[GHETTO BLASTER](../Page/GHETTO_BLASTER.md "wikilink")』**
       - **M-3 『[Noizy Tribe](https://ja.wikipedia.org/wiki/How_To_See_You_Again/Noizy_Tribe "wikilink")』**
       - **M-4 『[Gamble Rumble](../Page/Gamble_Rumble.md "wikilink")』**
 5.  **AKIRA YAMAOKA iFUTURELIST SPECIAL MOVIE**

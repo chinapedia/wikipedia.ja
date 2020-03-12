@@ -1,7 +1,7 @@
 > この記事は[N](https://ja.wikipedia.org/wiki/N)から翻訳されています。
 
 
-**トヨタ・N型エンジン**（トヨタ・Nがたエンジン）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[水冷](https://ja.wikipedia.org/wiki/水冷エンジン "wikilink")[直列4気筒](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink")[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")の[系列である](https://ja.wikipedia.org/wiki/トヨタのエンジン系列名 "wikilink")。
+**トヨタ・N型エンジン**（トヨタ・Nがたエンジン）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[水冷](../Page/水冷エンジン.md "wikilink")[直列4気筒](../Page/直列4気筒.md "wikilink")[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")の[系列である](../Page/トヨタのエンジン系列名.md "wikilink")。
 
 ## 概要
 
@@ -11,7 +11,7 @@
 
 ## 系譜
 
-  - [エンジン型式一覧の](https://ja.wikipedia.org/wiki/トヨタのエンジン型式一覧 "wikilink")[自動車用エンジンの系譜を参照](https://ja.wikipedia.org/wiki/トヨタのエンジン型式一覧#自動車用エンジンの系譜 "wikilink")。
+  - [エンジン型式一覧の](../Page/トヨタのエンジン型式一覧.md "wikilink")[自動車用エンジンの系譜を参照](https://ja.wikipedia.org/wiki/トヨタのエンジン型式一覧#自動車用エンジンの系譜 "wikilink")。
 
 ## 型式
 
@@ -32,7 +32,7 @@
 <!-- end list -->
 
   - 搭載車種（車両型式）
-      - （初）3代目[スターレット](https://ja.wikipedia.org/wiki/トヨタ・スターレット "wikilink")1500ディーゼル（NP70）
+      - （初）3代目[スターレット](../Page/トヨタ・スターレット.md "wikilink")1500ディーゼル（NP70）
       - 4代目スターレット1500ディーゼル（NP80）
       - 5代目スターレット1500ディーゼル（NP90）
 
@@ -59,9 +59,9 @@
 
 ## 関連項目
 
-  - [トヨタ・NDエンジン](https://ja.wikipedia.org/wiki/トヨタ・NDエンジン "wikilink")
+  - [トヨタ・NDエンジン](../Page/トヨタ・NDエンジン.md "wikilink")
   - [トヨタのエンジン型式命名規則](https://ja.wikipedia.org/wiki/トヨタのエンジン型式命名規則 "wikilink")
-  - [トヨタのエンジン系列名](https://ja.wikipedia.org/wiki/トヨタのエンジン系列名 "wikilink")
-  - [トヨタのエンジン型式一覧](https://ja.wikipedia.org/wiki/トヨタのエンジン型式一覧 "wikilink")
+  - [トヨタのエンジン系列名](../Page/トヨタのエンジン系列名.md "wikilink")
+  - [トヨタのエンジン型式一覧](../Page/トヨタのエンジン型式一覧.md "wikilink")
 
 [Category:トヨタ自動車のエンジン](https://ja.wikipedia.org/wiki/Category:トヨタ自動車のエンジン "wikilink")

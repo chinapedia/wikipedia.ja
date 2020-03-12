@@ -29,7 +29,7 @@
 
 <!-- end list -->
 
-  - **[川野武文](https://ja.wikipedia.org/wiki/川野武文 "wikilink")**（宮崎放送 執行役員・ラジオ局長等兼任）
+  - **[川野武文](../Page/川野武文.md "wikilink")**（宮崎放送 執行役員・ラジオ局長等兼任）
   - [坂井淳子](https://ja.wikipedia.org/wiki/坂井淳子 "wikilink")
 
 ## 放送時間
@@ -44,7 +44,7 @@
   - 13:30　交通情報
   - 13:35　日替わりコーナー④(火・木曜日のみ)
   - 13:50　[MRTラジオパワープレイ 音楽魂](https://ja.wikipedia.org/wiki/MRTラジオパワープレイ_音楽魂 "wikilink")
-  - 14:00　[夕刊デイリー](https://ja.wikipedia.org/wiki/夕刊デイリー "wikilink")タイム
+  - 14:00　[夕刊デイリー](../Page/夕刊デイリー.md "wikilink")タイム
   - 14:05　JR九州インフォメーション
   - 14:15　日替わりコーナー①
   - 14:25　みやざきゴルフ天国
@@ -54,7 +54,7 @@
   - 15:10　日替わりコーナー③
   - 15:30　みやこのじょうドキドキナビ([都城市](https://ja.wikipedia.org/wiki/都城市 "wikilink")の広報番組)
 
-[2004年](../Page/2004年.md "wikilink")7月スタート。放送開始当初の番組名は｢ウエルネス都城｣だったが、都城市及び[北諸県郡](../Page/北諸県郡.md "wikilink")4町の合併を境に、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")7月に現代タイトルになった。
+[2004年](../Page/2004年.md "wikilink")7月スタート。放送開始当初の番組名は｢ウエルネス都城｣だったが、都城市及び[北諸県郡](../Page/北諸県郡.md "wikilink")4町の合併を境に、[2005年](../Page/2005年.md "wikilink")7月に現代タイトルになった。
 
   - 15:45　飛び出せスクーピー
   - 15:50　青果市情報

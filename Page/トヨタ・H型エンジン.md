@@ -1,31 +1,31 @@
 > この記事は[H](https://ja.wikipedia.org/wiki/H)から翻訳されています。
 
 
-**トヨタ・H型エンジン**（トヨタ・Hがたエンジン）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[水冷](https://ja.wikipedia.org/wiki/水冷エンジン "wikilink")[直列6気筒](https://ja.wikipedia.org/wiki/直列6気筒 "wikilink")[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")の系列である。
+**トヨタ・H型エンジン**（トヨタ・Hがたエンジン）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[水冷](../Page/水冷エンジン.md "wikilink")[直列6気筒](../Page/直列6気筒.md "wikilink")[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")の系列である。
 
 ## 概要
 
-[水冷](https://ja.wikipedia.org/wiki/水冷エンジン "wikilink")[直列6気筒](https://ja.wikipedia.org/wiki/直列6気筒 "wikilink")[OHV](https://ja.wikipedia.org/wiki/OHV "wikilink")[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")
+[水冷](../Page/水冷エンジン.md "wikilink")[直列6気筒](../Page/直列6気筒.md "wikilink")[OHV](../Page/OHV.md "wikilink")[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")
 
   - 生産期間
       - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")2月 - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")1月
 
 ## 系譜
 
-  - [エンジン型式一覧の](https://ja.wikipedia.org/wiki/トヨタのエンジン型式一覧 "wikilink")[自動車用エンジンの系譜を参照](https://ja.wikipedia.org/wiki/トヨタのエンジン型式一覧#自動車用エンジンの系譜 "wikilink")。
+  - [エンジン型式一覧の](../Page/トヨタのエンジン型式一覧.md "wikilink")[自動車用エンジンの系譜を参照](https://ja.wikipedia.org/wiki/トヨタのエンジン型式一覧#自動車用エンジンの系譜 "wikilink")。
 
 ## 型式
 
 ### H
 
-  - 種類：[OHV](https://ja.wikipedia.org/wiki/OHV "wikilink") 12バルブ [過流室式](https://ja.wikipedia.org/wiki/燃焼室#副室式 "wikilink")
+  - 種類：[OHV](../Page/OHV.md "wikilink") 12バルブ [過流室式](https://ja.wikipedia.org/wiki/燃焼室#副室式 "wikilink")
   - 排気量：3.567L
   - 内径×行程：88.0×98.0(mm)
   - 圧縮比：21.0
   - 参考出力：67kW(91PS)/3,600rpm
   - 参考トルク：204N·m(20.8kg·m)/2,200rpm
   - （初）トヨタ・ウエポンキャリア（HQ15）
-  - （初）2代目[ダイナ](https://ja.wikipedia.org/wiki/トヨタ・ダイナ "wikilink")（HU15）
+  - （初）2代目[ダイナ](../Page/トヨタ・ダイナ.md "wikilink")（HU15）
   - [ランドクルーザー](https://ja.wikipedia.org/wiki/トヨタ・ランドクルーザー "wikilink")40系ロング（HJ45）のみ
 
 ### 2H
@@ -67,9 +67,9 @@
 ## 関連項目
 
   - [トヨタ・HZエンジン](https://ja.wikipedia.org/wiki/トヨタ・HZエンジン "wikilink")
-  - [トヨタ・HDエンジン](https://ja.wikipedia.org/wiki/トヨタ・HDエンジン "wikilink")
+  - [トヨタ・HDエンジン](../Page/トヨタ・HDエンジン.md "wikilink")
   - [トヨタのエンジン型式命名規則](https://ja.wikipedia.org/wiki/トヨタのエンジン型式命名規則 "wikilink")
-  - [トヨタのエンジン系列名](https://ja.wikipedia.org/wiki/トヨタのエンジン系列名 "wikilink")
-  - [トヨタのエンジン型式一覧](https://ja.wikipedia.org/wiki/トヨタのエンジン型式一覧 "wikilink")
+  - [トヨタのエンジン系列名](../Page/トヨタのエンジン系列名.md "wikilink")
+  - [トヨタのエンジン型式一覧](../Page/トヨタのエンジン型式一覧.md "wikilink")
 
 [Category:トヨタ自動車のエンジン](https://ja.wikipedia.org/wiki/Category:トヨタ自動車のエンジン "wikilink")

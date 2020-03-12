@@ -1,9 +1,9 @@
 > この記事は[GAKIKAME](https://ja.wikipedia.org/wiki/GAKIKAME)から翻訳されています。
 
 
-**GAKI・KAME**（ガキカメ）は、[FM-FUJIの](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")\[1\]。毎週土曜23:00～24:00の[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")の番組『[Hello\! Project Night](https://ja.wikipedia.org/wiki/Hello!_Project_Night "wikilink")』の後半23:30～24:00に放送されていた\[2\]。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月7日](../Page/4月7日.md "wikilink")放送開始。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")放送終了。
+**GAKI・KAME**（ガキカメ）は、[FM-FUJIの](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")\[1\]。毎週土曜23:00～24:00の[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")の番組『[Hello\! Project Night](https://ja.wikipedia.org/wiki/Hello!_Project_Night "wikilink")』の後半23:30～24:00に放送されていた\[2\]。[2007年](../Page/2007年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")放送開始。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")放送終了。
 
-なお、『Hello\! Project Night』の前半23:00～23:30は、[℃-ute](https://ja.wikipedia.org/wiki/℃-ute "wikilink")の[矢島舞美](../Page/矢島舞美.md "wikilink")・[鈴木愛理](https://ja.wikipedia.org/wiki/鈴木愛理_\(ハロー!プロジェクト\) "wikilink")・[岡井千聖](https://ja.wikipedia.org/wiki/岡井千聖 "wikilink")がパーソナリティを務める「[CUTIE PARTY](https://ja.wikipedia.org/wiki/CUTIE_PARTY "wikilink")」であった\[3\]\[4\]。
+なお、『Hello\! Project Night』の前半23:00～23:30は、[℃-ute](https://ja.wikipedia.org/wiki/℃-ute "wikilink")の[矢島舞美](../Page/矢島舞美.md "wikilink")・[鈴木愛理](https://ja.wikipedia.org/wiki/鈴木愛理_\(ハロー!プロジェクト\) "wikilink")・[岡井千聖](../Page/岡井千聖.md "wikilink")がパーソナリティを務める「[CUTIE PARTY](../Page/CUTIE_PARTY.md "wikilink")」であった\[3\]\[4\]。
 
 ## 放送時間
 
@@ -56,7 +56,7 @@
 ## 備考
 
   - 2007年[10月20日](../Page/10月20日.md "wikilink")の放送では、たまたまスタジオを訪れていた[安倍なつみ](../Page/安倍なつみ.md "wikilink")が1分ほど出演した。
-  - 本番組終了後もFM-FUJIでは、[真野恵里菜](https://ja.wikipedia.org/wiki/真野恵里菜 "wikilink")の「[MANO-DELI](https://ja.wikipedia.org/wiki/MANO-DELI "wikilink")」、[鞘師里保](https://ja.wikipedia.org/wiki/鞘師里保 "wikilink")の「[RIHO-DELI](https://ja.wikipedia.org/wiki/RIHO-DELI "wikilink")」、モーニング娘｡12期メンバーの「モーニング娘。'15 12期日記」「モーニング娘。'19のモーニングダイアリー」「こぶしファクトリーの夜空で逢いましょう」と[ハロプロ](https://ja.wikipedia.org/wiki/ハロプロ "wikilink")枠の番組が継続して放送されている。
+  - 本番組終了後もFM-FUJIでは、[真野恵里菜](../Page/真野恵里菜.md "wikilink")の「[MANO-DELI](https://ja.wikipedia.org/wiki/MANO-DELI "wikilink")」、[鞘師里保](https://ja.wikipedia.org/wiki/鞘師里保 "wikilink")の「[RIHO-DELI](https://ja.wikipedia.org/wiki/RIHO-DELI "wikilink")」、モーニング娘｡12期メンバーの「モーニング娘。'15 12期日記」「モーニング娘。'19のモーニングダイアリー」「こぶしファクトリーの夜空で逢いましょう」と[ハロプロ](https://ja.wikipedia.org/wiki/ハロプロ "wikilink")枠の番組が継続して放送されている。
 
 ## 脚注
 

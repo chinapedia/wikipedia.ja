@@ -4,9 +4,9 @@
 **TMT**
 
   - [TMT (アパレルブランド)](https://ja.wikipedia.org/wiki/TMT_\(アパレルブランド\) "wikilink") - 日本のアパレルブランド。
-  - [東京ミッドタウン](https://ja.wikipedia.org/wiki/東京ミッドタウン "wikilink") () - 東京都港区の再開発地区。
+  - [東京ミッドタウン](../Page/東京ミッドタウン.md "wikilink") () - 東京都港区の再開発地区。
   - [日本交通管理技術協会](https://ja.wikipedia.org/wiki/日本交通管理技術協会 "wikilink") ()
-  - [30メートル望遠鏡](https://ja.wikipedia.org/wiki/30メートル望遠鏡 "wikilink") () - ハワイに建設準備中の大型望遠鏡。
+  - [30メートル望遠鏡](../Page/30メートル望遠鏡.md "wikilink") () - ハワイに建設準備中の大型望遠鏡。
   - [東京メトロポリタンテレビジョン](../Page/東京メトロポリタンテレビジョン.md "wikilink")の設立当時の略称 ()
   - [トヨタモビリティ東京](https://ja.wikipedia.org/wiki/トヨタモビリティ東京 "wikilink")の略称（Toyota Mobility Tokyo）
   - \[\[:en:Toyota Motor Thailand|

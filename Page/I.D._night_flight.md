@@ -23,29 +23,29 @@
   - 第2回『ONLY YOU』（MAKANA）
   - 第3回『Use Your Words』（Owen）
   - 第4回『』（）
-  - 第5回『Suddenly』（[ラウル・ミドン](https://ja.wikipedia.org/wiki/ラウル・ミドン "wikilink")）
+  - 第5回『Suddenly』（[ラウル・ミドン](../Page/ラウル・ミドン.md "wikilink")）
   - 第6回『Another Sunny Day 』（BELLE AND SEBASTIAN）
-  - 第7回『She Will Be Loved』（[マルーン5](https://ja.wikipedia.org/wiki/マルーン5 "wikilink")）
+  - 第7回『She Will Be Loved』（[マルーン5](../Page/マルーン5.md "wikilink")）
   - 第8回『Live Forever』（[オアシス](https://ja.wikipedia.org/wiki/オアシス_\(バンド\) "wikilink")）
-  - 第9回『PUT YOUR MONEY WHERE YOUR MOUTH IS』（[ジェット](https://ja.wikipedia.org/wiki/ジェット_\(バンド\) "wikilink")）
+  - 第9回『PUT YOUR MONEY WHERE YOUR MOUTH IS』（[ジェット](../Page/ジェット_\(バンド\).md "wikilink")）
   - 第10回『Your Voice(sings with 土岐麻子)』（中塚武）
   - 第11回『New Slang』（THE SHINS）
-  - 第12回『Early Christmas Morning』（[シンディ・ローパー](https://ja.wikipedia.org/wiki/シンディ・ローパー "wikilink")）
+  - 第12回『Early Christmas Morning』（[シンディ・ローパー](../Page/シンディ・ローパー.md "wikilink")）
   - 第13回『指輪』（[坂本真綾](https://ja.wikipedia.org/wiki/坂本真綾 "wikilink")）
   - 第14回『Here Today』（Fugu）
-  - 第15回『[Someone to Watch over Me](https://ja.wikipedia.org/wiki/サムワン・トゥ・ウォッチ・オーバー・ミー "wikilink")』（[リッキー・リー・ジョーンズ](https://ja.wikipedia.org/wiki/リッキー・リー・ジョーンズ "wikilink")）
-  - 第16回『エイリアンズ 』（[キリンジ](https://ja.wikipedia.org/wiki/キリンジ "wikilink")）
+  - 第15回『[Someone to Watch over Me](../Page/サムワン・トゥ・ウォッチ・オーバー・ミー.md "wikilink")』（[リッキー・リー・ジョーンズ](../Page/リッキー・リー・ジョーンズ.md "wikilink")）
+  - 第16回『エイリアンズ 』（[キリンジ](../Page/キリンジ.md "wikilink")）
   - 第17回『Walking Under Green Leaves』（Spymob）
   - 第18回『Not Anymore 』（The KBC）
   - 第19回『PARKING LOTS』（FUGU）
   - 第20回『Can I Stay』（Ray Lamontagne）
   - 第21回『That Tattoo Isn't Funny Anymore』（Owen）
   - 第22回『UNTRUE』（solveig ）
-  - 第23回『Sanctuary』（[ナタリー・インブルーリア](https://ja.wikipedia.org/wiki/ナタリー・インブルーリア "wikilink")）
+  - 第23回『Sanctuary』（[ナタリー・インブルーリア](../Page/ナタリー・インブルーリア.md "wikilink")）
   - 第24回『Candylion』（gruff rtys）
   - 第25回『Shakespeare』（[スーザン・ケイグル](https://ja.wikipedia.org/wiki/スーザン・ケイグル "wikilink")）
   - 第26回『ドリーミング』（坂本真綾）
-  - 第27回『Back to Black』（[エイミー・ワインハウス](https://ja.wikipedia.org/wiki/エイミー・ワインハウス "wikilink")）
+  - 第27回『Back to Black』（[エイミー・ワインハウス](../Page/エイミー・ワインハウス.md "wikilink")）
   - 第28回『Those Dancing Days Are Gone』（Carla Bruni）
   - 第29回『Thinking About You』（[ノラ・ジョーンズ](https://ja.wikipedia.org/wiki/ノラ・ジョーンズ "wikilink")）
   - 第30回『Again & Again 』（The Bird and the Bee）
@@ -91,7 +91,7 @@
 
 ## 関連項目
 
-  - [ビタミンM](https://ja.wikipedia.org/wiki/ビタミンM_\(ラジオ番組\) "wikilink")
+  - [ビタミンM](../Page/ビタミンM_\(ラジオ番組\).md "wikilink")
 
 ## 外部リンク
 

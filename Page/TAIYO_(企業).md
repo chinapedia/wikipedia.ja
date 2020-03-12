@@ -1,7 +1,7 @@
 > この記事は[TAIYO \(\)](https://ja.wikipedia.org/wiki/TAIYO_\(\))から翻訳されています。
 
 
-**株式会社TAIYO**（タイヨー、）は、油圧・空気圧機器の製造を行う企業。本社は[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](https://ja.wikipedia.org/wiki/大阪市 "wikilink")[東淀川区](../Page/東淀川区.md "wikilink")に所在。
+**株式会社TAIYO**（タイヨー、）は、油圧・空気圧機器の製造を行う企業。本社は[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[東淀川区](../Page/東淀川区.md "wikilink")に所在。
 
 ## 沿革
 
@@ -10,8 +10,8 @@
   - [1993年](../Page/1993年.md "wikilink") - 会社更生手続開始申請。
   - [2001年](../Page/2001年.md "wikilink") - 会社更生手続終結。
   - [2002年](../Page/2002年.md "wikilink") - パーカー・ハネフィンと提携。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[7月1日](../Page/7月1日.md "wikilink") - 太陽鉄工株式会社から現社名に変更。
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink") - [東京証券取引所](https://ja.wikipedia.org/wiki/東京証券取引所 "wikilink")2部に上場。
+  - [2007年](../Page/2007年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink") - 太陽鉄工株式会社から現社名に変更。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink") - [東京証券取引所](../Page/東京証券取引所.md "wikilink")2部に上場。
   - [2012年](../Page/2012年.md "wikilink")3月 - パーカー・ハネフィンが公開買付けの結果、持株比率を97.82％とする\[1\]。
   - [2012年](../Page/2012年.md "wikilink")6月 - パーカー・ハネフィンの完全子会社となる。
 
@@ -19,7 +19,7 @@
 
   - 油圧第一事業部（[山口県](../Page/山口県.md "wikilink")[美祢市](../Page/美祢市.md "wikilink")）
   - 油圧第二事業部（本社所在地と同じ）
-  - 空気圧事業部（[茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")[下妻市](../Page/下妻市.md "wikilink")）
+  - 空気圧事業部（[茨城県](../Page/茨城県.md "wikilink")[下妻市](../Page/下妻市.md "wikilink")）
   - システム事業部（本社所在地と同じ）
   - NP事業部（本社所在地と同じ）
   - SE事業部（本社所在地と同じ）

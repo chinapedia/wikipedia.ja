@@ -1,18 +1,18 @@
 > この記事は[L](https://ja.wikipedia.org/wiki/L)から翻訳されています。
 
 
-**トヨタ・L型エンジン**（トヨタ・Lがたエンジン）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[水冷](https://ja.wikipedia.org/wiki/水冷エンジン "wikilink")[直列4気筒](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink")[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")の系列である。
+**トヨタ・L型エンジン**（トヨタ・Lがたエンジン）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[水冷](../Page/水冷エンジン.md "wikilink")[直列4気筒](../Page/直列4気筒.md "wikilink")[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")の系列である。
 
 ## 概要
 
   - 生産期間
-      - [1977年](../Page/1977年.md "wikilink")9月 - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")6月（国内向け）
-  - トヨタ初の[タイミングベルト](https://ja.wikipedia.org/wiki/タイミングベルト "wikilink")（[コグドベルト](https://ja.wikipedia.org/wiki/コグドベルト "wikilink")）駆動[SOHC](../Page/SOHC.md "wikilink")エンジン
+      - [1977年](../Page/1977年.md "wikilink")9月 - [2007年](../Page/2007年.md "wikilink")6月（国内向け）
+  - トヨタ初の[タイミングベルト](../Page/タイミングベルト.md "wikilink")（[コグドベルト](https://ja.wikipedia.org/wiki/コグドベルト "wikilink")）駆動[SOHC](../Page/SOHC.md "wikilink")エンジン
   - ベルト駆動分配型燃料噴射ポンプ方式
 
 ## 系譜
 
-  - [エンジン型式一覧の](https://ja.wikipedia.org/wiki/トヨタのエンジン型式一覧 "wikilink")[自動車用エンジンの系譜を参照](https://ja.wikipedia.org/wiki/トヨタのエンジン型式一覧#自動車用エンジンの系譜 "wikilink")。
+  - [エンジン型式一覧の](../Page/トヨタのエンジン型式一覧.md "wikilink")[自動車用エンジンの系譜を参照](https://ja.wikipedia.org/wiki/トヨタのエンジン型式一覧#自動車用エンジンの系譜 "wikilink")。
 
 ## 型式
 
@@ -30,16 +30,16 @@
 <!-- end list -->
 
   - 搭載車種（車両型式）
-      - （初）5代目[クラウン](https://ja.wikipedia.org/wiki/トヨタ・クラウン "wikilink")
+      - （初）5代目[クラウン](../Page/トヨタ・クラウン.md "wikilink")
       - 3代目[マークII](../Page/トヨタ・マークII.md "wikilink")
-      - 2代目[チェイサー (LX60系)](https://ja.wikipedia.org/wiki/トヨタ・チェイサー "wikilink")
-      - [ハイエース](https://ja.wikipedia.org/wiki/トヨタ・ハイエース "wikilink")
+      - 2代目[チェイサー (LX60系)](../Page/トヨタ・チェイサー.md "wikilink")
+      - [ハイエース](../Page/トヨタ・ハイエース.md "wikilink")
       - [トヨエース](../Page/トヨタ・トヨエース.md "wikilink")
-      - [ブリザード](https://ja.wikipedia.org/wiki/トヨタ・ブリザード "wikilink")（LD10/10V）
+      - [ブリザード](../Page/トヨタ・ブリザード.md "wikilink")（LD10/10V）
 
 ### 2L
 
-[Toyota_Hilux_engine_2.jpg](https://ja.wikipedia.org/wiki/File:Toyota_Hilux_engine_2.jpg "fig:Toyota_Hilux_engine_2.jpg")向け[ハイラックス](https://ja.wikipedia.org/wiki/トヨタ・ハイラックス "wikilink")\]\]
+[Toyota_Hilux_engine_2.jpg](https://ja.wikipedia.org/wiki/File:Toyota_Hilux_engine_2.jpg "fig:Toyota_Hilux_engine_2.jpg")向け[ハイラックス](../Page/トヨタ・ハイラックス.md "wikilink")\]\]
 
   - 種類：SOHC 8バルブ
   - 排気量：2.446L
@@ -68,8 +68,8 @@
   - 搭載車種（車両型式）
       - ハイエース
       - [マークII](../Page/トヨタ・マークII.md "wikilink")
-      - [クレスタ](https://ja.wikipedia.org/wiki/トヨタ・クレスタ "wikilink")
-      - [チェイサー](https://ja.wikipedia.org/wiki/トヨタ・チェイサー "wikilink")
+      - [クレスタ](../Page/トヨタ・クレスタ.md "wikilink")
+      - [チェイサー](../Page/トヨタ・チェイサー.md "wikilink")
       - クラウン
       - ブリザード（LD20/20V）
 
@@ -132,7 +132,7 @@
 <!-- end list -->
 
 1.  71kW(97ps)/3,800rpm（乗用車）
-2.  71kW(97ps)/3,800rpm（[RV](https://ja.wikipedia.org/wiki/レクリエーショナル・ビークル "wikilink")）
+2.  71kW(97ps)/3,800rpm（[RV](../Page/レクリエーショナル・ビークル.md "wikilink")）
 
 <!-- end list -->
 
@@ -153,8 +153,8 @@
       - クラウンステーションワゴン
       - [コンフォート](../Page/トヨタ・コンフォート.md "wikilink")
       - ハイエースワゴン
-      - [ハイラックスサーフ](https://ja.wikipedia.org/wiki/トヨタ・ハイラックスサーフ "wikilink")
-      - [ランドクルーザープラド](https://ja.wikipedia.org/wiki/トヨタ・ランドクルーザープラド "wikilink")
+      - [ハイラックスサーフ](../Page/トヨタ・ハイラックスサーフ.md "wikilink")
+      - [ランドクルーザープラド](../Page/トヨタ・ランドクルーザープラド.md "wikilink")
 
 ### 2L-THE
 
@@ -199,9 +199,9 @@
 
   - 搭載車種（車両型式）
       - ハイエース（バン・ワゴン4WD・100系前期型）
-      - [ランドクルーザー70ライト系](https://ja.wikipedia.org/wiki/トヨタ・ランドクルーザープラド "wikilink")（ランドクルーザー II / ランドクルーザープラド70系 海外向け）
+      - [ランドクルーザー70ライト系](../Page/トヨタ・ランドクルーザープラド.md "wikilink")（ランドクルーザー II / ランドクルーザープラド70系 海外向け）
       - ランドクルーザープラド（90系 海外向け）
-      - [ハイラックス](https://ja.wikipedia.org/wiki/トヨタ・ハイラックス "wikilink")（80 / 100系）
+      - [ハイラックス](../Page/トヨタ・ハイラックス.md "wikilink")（80 / 100系）
       - [4ランナー](https://ja.wikipedia.org/wiki/:en:Toyota_4Runner#Second_generation_\(1989–1995\) "wikilink") / ハイラックスサーフ（130系 海外向け）
 
 ### 5L
@@ -243,7 +243,7 @@
 
   - [トヨタ・KZエンジン](../Page/トヨタ・KZエンジン.md "wikilink")
   - [トヨタのエンジン型式命名規則](https://ja.wikipedia.org/wiki/トヨタのエンジン型式命名規則 "wikilink")
-  - [トヨタのエンジン系列名](https://ja.wikipedia.org/wiki/トヨタのエンジン系列名 "wikilink")
-  - [トヨタのエンジン型式一覧](https://ja.wikipedia.org/wiki/トヨタのエンジン型式一覧 "wikilink")
+  - [トヨタのエンジン系列名](../Page/トヨタのエンジン系列名.md "wikilink")
+  - [トヨタのエンジン型式一覧](../Page/トヨタのエンジン型式一覧.md "wikilink")
 
 [Category:トヨタ自動車のエンジン](https://ja.wikipedia.org/wiki/Category:トヨタ自動車のエンジン "wikilink") [Category:ダイハツ工業のエンジン](https://ja.wikipedia.org/wiki/Category:ダイハツ工業のエンジン "wikilink")

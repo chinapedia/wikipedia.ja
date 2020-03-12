@@ -1,15 +1,15 @@
 > この記事は[P](https://ja.wikipedia.org/wiki/P)から翻訳されています。
 
 
-[Toyota_3P_engine.jpg](https://ja.wikipedia.org/wiki/File:Toyota_3P_engine.jpg "fig:Toyota_3P_engine.jpg")用）\]\] **トヨタ・P型エンジン**（トヨタ・Pがたエンジン）は、[トヨタ自動車工業](https://ja.wikipedia.org/wiki/トヨタ自動車工業 "wikilink")（現・[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")）が製造していた[水冷](https://ja.wikipedia.org/wiki/水冷エンジン "wikilink")[直列4気筒](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink")[ガソリンエンジン](https://ja.wikipedia.org/wiki/ガソリンエンジン "wikilink")の系列である。
+[Toyota_3P_engine.jpg](https://ja.wikipedia.org/wiki/File:Toyota_3P_engine.jpg "fig:Toyota_3P_engine.jpg")用）\]\] **トヨタ・P型エンジン**（トヨタ・Pがたエンジン）は、[トヨタ自動車工業](https://ja.wikipedia.org/wiki/トヨタ自動車工業 "wikilink")（現・[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")）が製造していた[水冷](../Page/水冷エンジン.md "wikilink")[直列4気筒](../Page/直列4気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")の系列である。
 
 ## 概要
 
-[サイドバルブ](https://ja.wikipedia.org/wiki/サイドバルブ "wikilink")の動弁系で、登場時から旧弊と評されていた、同社の[S型(初代)エンジンを置き換えるために開発された](../Page/トヨタ・S型エンジン_\(初代\).md "wikilink")。 [OHV](https://ja.wikipedia.org/wiki/OHV "wikilink")となった他、S型に比べ、[内径×行程の比率がスクエア](https://ja.wikipedia.org/wiki/ボアストローク比 "wikilink")=1に近づいている。
+[サイドバルブ](../Page/サイドバルブ.md "wikilink")の動弁系で、登場時から旧弊と評されていた、同社の[S型(初代)エンジンを置き換えるために開発された](../Page/トヨタ・S型エンジン_\(初代\).md "wikilink")。 [OHV](../Page/OHV.md "wikilink")となった他、S型に比べ、[内径×行程の比率がスクエア](../Page/ボアストローク比.md "wikilink")=1に近づいている。
 
 ## 系譜
 
-  - [エンジン型式一覧の](https://ja.wikipedia.org/wiki/トヨタのエンジン型式一覧 "wikilink")[自動車用エンジンの系譜を参照](https://ja.wikipedia.org/wiki/トヨタのエンジン型式一覧#自動車用エンジンの系譜 "wikilink")。
+  - [エンジン型式一覧の](../Page/トヨタのエンジン型式一覧.md "wikilink")[自動車用エンジンの系譜を参照](https://ja.wikipedia.org/wiki/トヨタのエンジン型式一覧#自動車用エンジンの系譜 "wikilink")。
 
 ## 型式
 
@@ -64,13 +64,13 @@
   - コロナピックアップ（PT47）
   - トヨペット・ライトスタウト（PK32）
   - ハイエース（PH10）
-  - 3FG（[豊田自動織機](https://ja.wikipedia.org/wiki/豊田自動織機 "wikilink")製・[フォークリフト](https://ja.wikipedia.org/wiki/フォークリフト "wikilink")）
-  - 4FG（[豊田自動織機](https://ja.wikipedia.org/wiki/豊田自動織機 "wikilink")製・[フォークリフト](https://ja.wikipedia.org/wiki/フォークリフト "wikilink")）
+  - 3FG（[豊田自動織機](../Page/豊田自動織機.md "wikilink")製・[フォークリフト](../Page/フォークリフト.md "wikilink")）
+  - 4FG（[豊田自動織機](../Page/豊田自動織機.md "wikilink")製・[フォークリフト](../Page/フォークリフト.md "wikilink")）
 
 ### 4P - 1,500cc
 
-  - 1ｔ系12型後期～15型前期（[小松フォークリフト製](https://ja.wikipedia.org/wiki/コマツユーティリティ "wikilink")・[フォークリフト](https://ja.wikipedia.org/wiki/フォークリフト "wikilink")）
-  - 5FG（[豊田自動織機](https://ja.wikipedia.org/wiki/豊田自動織機 "wikilink")製・[フォークリフト](https://ja.wikipedia.org/wiki/フォークリフト "wikilink")）
+  - 1ｔ系12型後期～15型前期（[小松フォークリフト製](../Page/コマツユーティリティ.md "wikilink")・[フォークリフト](../Page/フォークリフト.md "wikilink")）
+  - 5FG（[豊田自動織機](../Page/豊田自動織機.md "wikilink")製・[フォークリフト](../Page/フォークリフト.md "wikilink")）
 
 　
 
@@ -84,7 +84,7 @@
 
   - [トヨタ・K型エンジン](../Page/トヨタ・K型エンジン.md "wikilink")
   - [トヨタのエンジン型式命名規則](https://ja.wikipedia.org/wiki/トヨタのエンジン型式命名規則 "wikilink")
-  - [トヨタのエンジン系列名](https://ja.wikipedia.org/wiki/トヨタのエンジン系列名 "wikilink")
-  - [トヨタのエンジン型式一覧](https://ja.wikipedia.org/wiki/トヨタのエンジン型式一覧 "wikilink")
+  - [トヨタのエンジン系列名](../Page/トヨタのエンジン系列名.md "wikilink")
+  - [トヨタのエンジン型式一覧](../Page/トヨタのエンジン型式一覧.md "wikilink")
 
 [Category:トヨタ自動車のエンジン](https://ja.wikipedia.org/wiki/Category:トヨタ自動車のエンジン "wikilink")

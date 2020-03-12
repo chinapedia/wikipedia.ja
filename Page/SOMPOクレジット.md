@@ -1,14 +1,14 @@
 > この記事は[SOMPO](https://ja.wikipedia.org/wiki/SOMPO)から翻訳されています。
 
 
-**SOMPOクレジット株式会社**（そんぽクレジット）は、[損害保険ジャパン日本興亜](https://ja.wikipedia.org/wiki/損害保険ジャパン日本興亜 "wikilink")の系列会社であり、[UCカード](https://ja.wikipedia.org/wiki/UCカード "wikilink")のブラザーズカンパニーである。
+**SOMPOクレジット株式会社**（そんぽクレジット）は、[損害保険ジャパン日本興亜](https://ja.wikipedia.org/wiki/損害保険ジャパン日本興亜 "wikilink")の系列会社であり、[UCカード](../Page/UCカード.md "wikilink")のブラザーズカンパニーである。
 
 ## 商品・サービス
 
   - 提携パーソナルローン - 損害保険ジャパン日本興亜との提携企業または団体勤務者専用の優遇ローン
   - マイカーローン - 一般向けのインターネット募集専用自動車（[バイク](https://ja.wikipedia.org/wiki/バイク "wikilink")を含む）ローン
   - クレジットカード
-      - 損保ジャパン日本興亜[UCカード](https://ja.wikipedia.org/wiki/UCカード "wikilink")/損保ジャパン日本興亜UCゴールドカード - 「損保ジャパンカード」後継のクレジットカード、券面に[VISAロゴも明記されている](https://ja.wikipedia.org/wiki/Visa "wikilink")。
+      - 損保ジャパン日本興亜[UCカード](../Page/UCカード.md "wikilink")/損保ジャパン日本興亜UCゴールドカード - 「損保ジャパンカード」後継のクレジットカード、券面に[VISAロゴも明記されている](../Page/Visa.md "wikilink")。
       - 損保ジャパン日本興亜[JCBカード](../Page/ジェーシービー.md "wikilink")/損保ジャパン日本興亜JCBゴールドカード - 商号変更に伴って、2014年9月より取扱を開始
 
 ## 沿革

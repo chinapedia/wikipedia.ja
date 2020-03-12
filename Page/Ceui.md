@@ -1,11 +1,11 @@
 > この記事は[Ceui](https://ja.wikipedia.org/wiki/Ceui)から翻訳されています。
 
 
-**Ceui**（セイ、[1月31日](../Page/1月31日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")出身。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+**Ceui**（セイ、[1月31日](../Page/1月31日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。[千葉県](../Page/千葉県.md "wikilink")出身。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
 
 ## 人物
 
-主に[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")や[PCゲームの](../Page/パソコンゲーム.md "wikilink")[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")を歌っている。
+主に[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")や[PCゲームの](../Page/パソコンゲーム.md "wikilink")[主題歌](../Page/主題歌.md "wikilink")を歌っている。
 
 Ceui（セイ）はポルトガルで「空」の意味「CEU」に「i（愛）」を加え、星という意味の造語が由来\[1\]。
 
@@ -17,22 +17,22 @@ Ceui（セイ）はポルトガルで「空」の意味「CEU」に「i（愛）
 
 ### シングル
 
-|      | 発売日                                                                                                              | タイトル                                                                                    | 規格品番       | [オリコン最高位](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink") |
-| ---- | ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------ |
-| 1st  | [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[2月21日](../Page/2月21日.md "wikilink")                      | **微睡みの楽園**                                                                              | LHCM-1029  | 146位                                                         |
-| 2nd  | 2007年[5月23日](../Page/5月23日.md "wikilink")                                                                        | **[mellow melody](https://ja.wikipedia.org/wiki/mellow_melody "wikilink")**             | LACM-4372  | 41位                                                          |
-| 3rd  | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink") | **[神々の詩](https://ja.wikipedia.org/wiki/神々の詩_\(Ceuiの曲\) "wikilink")**                    | LACM-4538  | 30位                                                          |
-| 4th  | [2009年](../Page/2009年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")                                         | **光と闇と時の果て**                                                                            | LACM-4570  | 89位                                                          |
-| 5th  | 2009年[5月13日](../Page/5月13日.md "wikilink")                                                                        | **[espacio](https://ja.wikipedia.org/wiki/espacio "wikilink")**                         | LACM-4607  | 60位                                                          |
-| 6th  | 2009年[5月27日](../Page/5月27日.md "wikilink")                                                                        | **[聖戦スペクタル](https://ja.wikipedia.org/wiki/聖戦スペクタル "wikilink")**                         | LACM-4620  | 154位                                                         |
-| 7th  | 2009年[8月5日](../Page/8月5日.md "wikilink")                                                                          | **センティフォリア**                                                                            | LASM-4023  | 155位                                                         |
-| 8th  | 2009年[8月26日](../Page/8月26日.md "wikilink")                                                                        | **[プリズム](https://ja.wikipedia.org/wiki/プリズム_\(Ceuiの曲\) "wikilink")**                    | LACM-4643  | 圏外                                                           |
-| 9th  | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[8月11日](../Page/8月11日.md "wikilink")                      | **[Truth Of My Destiny](https://ja.wikipedia.org/wiki/Truth_Of_My_Destiny "wikilink")** | LACM-4734  | 75位                                                          |
-| 10th | 2010年[10月27日](https://ja.wikipedia.org/wiki/10月27日 "wikilink")                                                   | **[Last Inferno](https://ja.wikipedia.org/wiki/Last_Inferno "wikilink")**               | LACM-4748  | 64位                                                          |
-| 11th | [2011年](../Page/2011年.md "wikilink")[11月9日](../Page/11月9日.md "wikilink")                                         | **[Stardust Melodia](https://ja.wikipedia.org/wiki/Stardust_Melodia "wikilink")**       | LACM-4875  | 26位                                                          |
-| 12th | [2012年](../Page/2012年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")                                           | **[風のなかのプリムローズ](https://ja.wikipedia.org/wiki/風のなかのプリムローズ "wikilink")**                 | LASM-4145  | 63位                                                          |
-| 13th | [2013年](../Page/2013年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")                                         | **[奏愛カレンデュラ](https://ja.wikipedia.org/wiki/奏愛カレンデュラ "wikilink")**                       | LACA-14114 | 92位                                                          |
-| 14th | [2014年](../Page/2014年.md "wikilink")[11月5日](../Page/11月5日.md "wikilink")                                         | **Pandora**                                                                             | LACM-14294 | 140位                                                         |
+|      | 発売日                                                                                                              | タイトル                                                                                    | 規格品番       | [オリコン最高位](../Page/オリコンチャート.md "wikilink") |
+| ---- | ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ---------- | ----------------------------------------- |
+| 1st  | [2007年](../Page/2007年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")                                         | **微睡みの楽園**                                                                              | LHCM-1029  | 146位                                      |
+| 2nd  | 2007年[5月23日](../Page/5月23日.md "wikilink")                                                                        | **[mellow melody](https://ja.wikipedia.org/wiki/mellow_melody "wikilink")**             | LACM-4372  | 41位                                       |
+| 3rd  | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink") | **[神々の詩](https://ja.wikipedia.org/wiki/神々の詩_\(Ceuiの曲\) "wikilink")**                    | LACM-4538  | 30位                                       |
+| 4th  | [2009年](../Page/2009年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")                                         | **光と闇と時の果て**                                                                            | LACM-4570  | 89位                                       |
+| 5th  | 2009年[5月13日](../Page/5月13日.md "wikilink")                                                                        | **[espacio](https://ja.wikipedia.org/wiki/espacio "wikilink")**                         | LACM-4607  | 60位                                       |
+| 6th  | 2009年[5月27日](../Page/5月27日.md "wikilink")                                                                        | **[聖戦スペクタル](https://ja.wikipedia.org/wiki/聖戦スペクタル "wikilink")**                         | LACM-4620  | 154位                                      |
+| 7th  | 2009年[8月5日](../Page/8月5日.md "wikilink")                                                                          | **センティフォリア**                                                                            | LASM-4023  | 155位                                      |
+| 8th  | 2009年[8月26日](../Page/8月26日.md "wikilink")                                                                        | **[プリズム](https://ja.wikipedia.org/wiki/プリズム_\(Ceuiの曲\) "wikilink")**                    | LACM-4643  | 圏外                                        |
+| 9th  | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[8月11日](../Page/8月11日.md "wikilink")                      | **[Truth Of My Destiny](https://ja.wikipedia.org/wiki/Truth_Of_My_Destiny "wikilink")** | LACM-4734  | 75位                                       |
+| 10th | 2010年[10月27日](../Page/10月27日.md "wikilink")                                                                      | **[Last Inferno](https://ja.wikipedia.org/wiki/Last_Inferno "wikilink")**               | LACM-4748  | 64位                                       |
+| 11th | [2011年](../Page/2011年.md "wikilink")[11月9日](../Page/11月9日.md "wikilink")                                         | **[Stardust Melodia](https://ja.wikipedia.org/wiki/Stardust_Melodia "wikilink")**       | LACM-4875  | 26位                                       |
+| 12th | [2012年](../Page/2012年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")                                           | **[風のなかのプリムローズ](https://ja.wikipedia.org/wiki/風のなかのプリムローズ "wikilink")**                 | LASM-4145  | 63位                                       |
+| 13th | [2013年](../Page/2013年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")                                         | **[奏愛カレンデュラ](https://ja.wikipedia.org/wiki/奏愛カレンデュラ "wikilink")**                       | LACA-14114 | 92位                                       |
+| 14th | [2014年](../Page/2014年.md "wikilink")[11月5日](../Page/11月5日.md "wikilink")                                         | **Pandora**                                                                             | LACM-14294 | 140位                                      |
 
 ### アルバム
 
@@ -72,7 +72,7 @@ Ceui（セイ）はポルトガルで「空」の意味「CEU」に「i（愛）
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
-<td><p>2011年<a href="https://ja.wikipedia.org/wiki/5月3日" title="wikilink">5月3日</a></p></td>
+<td><p>2011年<a href="../Page/5月3日.md" title="wikilink">5月3日</a></p></td>
 <td><p><strong>First Eden</strong></p></td>
 <td><p>TICE-1001</p></td>
 <td><p>T-INFINITY</p></td>
@@ -202,7 +202,7 @@ Ceui（セイ）はポルトガルで「空」の意味「CEU」に「i（愛）
 <!-- end list -->
 
   - あらたな光
-      - 作詞：Ceui / 作曲：[石川智久](https://ja.wikipedia.org/wiki/石川智久 "wikilink") / 編曲：小高光太郎
+      - 作詞：Ceui / 作曲：[石川智久](../Page/石川智久.md "wikilink") / 編曲：小高光太郎
 
 <!-- end list -->
 
@@ -240,7 +240,7 @@ Ceui（セイ）はポルトガルで「空」の意味「CEU」に「i（愛）
 
   - 伝勇伝音頭
       - Webラジオ『伝説の勇者の伝説のラジオ』より
-      - 作詞：Ceui / 作曲・編曲：仲村美悠 / 歌：[結城アイラ](https://ja.wikipedia.org/wiki/結城アイラ "wikilink")・Ceui with 伝勇伝ラジオの仲間たち
+      - 作詞：Ceui / 作曲・編曲：仲村美悠 / 歌：[結城アイラ](../Page/結城アイラ.md "wikilink")・Ceui with 伝勇伝ラジオの仲間たち
 
 <!-- end list -->
 
@@ -387,7 +387,7 @@ Ceui（セイ）はポルトガルで「空」の意味「CEU」に「i（愛）
 <!-- end list -->
 
   -
-    2013年1月25日発売 / PAM-0164 / [ぱじゃまソフト](https://ja.wikipedia.org/wiki/ぱじゃまソフト "wikilink")
+    2013年1月25日発売 / PAM-0164 / [ぱじゃまソフト](../Page/ぱじゃまソフト.md "wikilink")
 
   - いますぐお兄ちゃんに妹だっていいたい\! ボーカルアルバム
 
@@ -450,7 +450,7 @@ Ceui（セイ）はポルトガルで「空」の意味「CEU」に「i（愛）
 <!-- end list -->
 
   -
-    2016年7月27日発売 / KSLA-0117 / [Key Sounds Label](https://ja.wikipedia.org/wiki/Key_Sounds_Label "wikilink")
+    2016年7月27日発売 / KSLA-0117 / [Key Sounds Label](../Page/Key_Sounds_Label.md "wikilink")
 
   - solfa works best album「chronicle 〜the sun〜」
 
@@ -524,7 +524,7 @@ Ceui（セイ）はポルトガルで「空」の意味「CEU」に「i（愛）
 <!-- end list -->
 
   - シンソウノイズ
-      - Ceui×[霜月はるか](https://ja.wikipedia.org/wiki/霜月はるか "wikilink")のツインボーカル
+      - Ceui×[霜月はるか](../Page/霜月はるか.md "wikilink")のツインボーカル
 
 <!-- end list -->
 
@@ -558,7 +558,7 @@ Ceui（セイ）はポルトガルで「空」の意味「CEU」に「i（愛）
 <!-- end list -->
 
   -
-    2012年9月28日 / [HOOKSOFT](https://ja.wikipedia.org/wiki/HOOKSOFT "wikilink")
+    2012年9月28日 / [HOOKSOFT](../Page/HOOKSOFT.md "wikilink")
 
   - 『王の耳には届かない！』オリジナルサントラ
 
@@ -605,7 +605,7 @@ Ceui（セイ）はポルトガルで「空」の意味「CEU」に「i（愛）
 <!-- end list -->
 
   - 「宵闇の唄」「生と死を別つ境界の古井戸」
-      - 作詞・作曲・編曲：[Revo](https://ja.wikipedia.org/wiki/Revo "wikilink")
+      - 作詞・作曲・編曲：[Revo](../Page/Revo.md "wikilink")
 
 <!-- end list -->
 
@@ -626,99 +626,99 @@ Ceui（セイ）はポルトガルで「空」の意味「CEU」に「i（愛）
 
 ### タイアップ
 
-| 楽曲                              | タイアップ                                                                                                                                                                                | 年数                                                                                |
-| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------- |
-| 微睡みの楽園                          | [テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[京四郎と永遠の空](https://ja.wikipedia.org/wiki/京四郎と永遠の空 "wikilink")』エンディングテーマ                                                    | 2007年                                                                             |
-| mellow melody                   | テレビアニメ『[sola](https://ja.wikipedia.org/wiki/sola "wikilink")』エンディングテーマ                                                                                                               |                                                                                   |
-| 敏感な風景                           | テレビアニメ『sola』イメージソング                                                                                                                                                                  |                                                                                   |
-| 始まりへの旅                          | テレビアニメ『sola』イメージソング                                                                                                                                                                  |                                                                                   |
-| あらたな光                           | [PCゲーム](https://ja.wikipedia.org/wiki/PCゲーム "wikilink")『[エターナルファンタジー](https://ja.wikipedia.org/wiki/エターナルファンタジー "wikilink")』挿入歌                                                      | 2008年                                                                             |
-| 神々の詩                            | [オンラインゲーム](../Page/オンラインゲーム.md "wikilink")『[ラグナロクオンライン](../Page/ラグナロクオンライン.md "wikilink")』6thアニバーサリーイメージソング                                                                          |                                                                                   |
-| brilliant world                 | テレビアニメ『[テイルズ オブ ジ アビス](https://ja.wikipedia.org/wiki/テイルズ_オブ_ジ_アビス "wikilink")』イメージソング                                                                                               | 2009年                                                                             |
-| カリス                             | テレビアニメ『テイルズ オブ ジ アビス』イメージソング                                                                                                                                                         |                                                                                   |
-| Frozen Tear                     | [PS2](https://ja.wikipedia.org/wiki/PS2 "wikilink")ゲーム『[Clear 〜新しい風の吹く丘で〜](https://ja.wikipedia.org/wiki/Clear_〜新しい風の吹く丘で〜 "wikilink")』オープニングテーマ                                     |                                                                                   |
-| 光と闇と時の果て                        | テレビアニメ『[空を見上げる少女の瞳に映る世界](https://ja.wikipedia.org/wiki/MUNTOシリーズ "wikilink")』エンディングテーマ                                                                                               |                                                                                   |
-| 心の翼                             | テレビアニメ『空を見上げる少女の瞳に映る世界』最終話エンディングテーマ                                                                                                                                                  |                                                                                   |
-| 羽化                              | テレビアニメ『空を見上げる少女の瞳に映る世界』イメージソング                                                                                                                                                       |                                                                                   |
-| パラノイア                           | テレビアニメ『空を見上げる少女の瞳に映る世界』イメージソング                                                                                                                                                       |                                                                                   |
-| espacio                         | テレビアニメ『[宇宙をかける少女](https://ja.wikipedia.org/wiki/宇宙をかける少女 "wikilink")』後期エンディングテーマ                                                                                                     |                                                                                   |
-| 聖戦スペクタル                         | PCゲーム『[ヴァルキリーコンプレックス](https://ja.wikipedia.org/wiki/ヴァルキリーコンプレックス "wikilink")』オープニングテーマ                                                                                              |                                                                                   |
-| 永久のコトバ                          | PCゲーム『ヴァルキリーコンプレックス』挿入歌                                                                                                                                                              |                                                                                   |
-| dreamscape(Ceui名義ver.)          | PCゲーム『[最終試験くじら〜Departures〜](https://ja.wikipedia.org/wiki/最終試験くじら〜Departures〜 "wikilink")』オープニングテーマ                                                                                  |                                                                                   |
-| センティフォリア                        | テレビアニメ『[青い花](https://ja.wikipedia.org/wiki/青い花_\(漫画\) "wikilink")』エンディングテーマ                                                                                                          |                                                                                   |
-| プリズム                            | PCゲーム『[プリティ☆ウィッチ☆アカデミー\!](https://ja.wikipedia.org/wiki/プリティ☆ウィッチ☆アカデミー! "wikilink")』オープニングテーマ                                                                                       |                                                                                   |
-| crystal pain                    | PCゲーム『プリティ☆ウィッチ☆アカデミー\!』挿入歌                                                                                                                                                          |                                                                                   |
-| After the deluge                | PCゲーム『プリティ☆ウィッチ☆アカデミー\!』エンディングテーマ                                                                                                                                                    |                                                                                   |
-| Eternal Flow                    | PCゲーム『[Cross Days](https://ja.wikipedia.org/wiki/Cross_Days "wikilink")』イメージソング                                                                                                      | 2010年                                                                             |
-| Truth Of My Destiny             | テレビアニメ『[伝説の勇者の伝説](https://ja.wikipedia.org/wiki/伝説の勇者の伝説 "wikilink")』前期エンディングテーマ                                                                                                     |                                                                                   |
-| Last Inferno                    | テレビアニメ『伝説の勇者の伝説』後期オープニングテーマ                                                                                                                                                          |                                                                                   |
-| Energy                          | テレビアニメ『伝説の勇者の伝説』挿入歌                                                                                                                                                                  |                                                                                   |
-| My Sweet Stories                | PCゲーム『[uni.](https://ja.wikipedia.org/wiki/uni. "wikilink")』エンディングテーマ                                                                                                                |                                                                                   |
-| Jewelry Time                    | PCゲーム『[恋と選挙とチョコレート](https://ja.wikipedia.org/wiki/恋と選挙とチョコレート "wikilink")』エンディングテーマ                                                                                                  | 2011年                                                                             |
-| Asphodelus -アスフォデルス-            | PCゲーム『[穢翼のユースティア](https://ja.wikipedia.org/wiki/穢翼のユースティア "wikilink")』オープニングテーマ                                                                                                      |                                                                                   |
-| 親愛なる世界へ                         | PCゲーム『穢翼のユースティア』エンディングテーマ                                                                                                                                                            |                                                                                   |
-| Stardust Melodia                | テレビアニメ『[境界線上のホライゾン](https://ja.wikipedia.org/wiki/境界線上のホライゾン "wikilink")』エンディングテーマ -Side Horizon-                                                                                    |                                                                                   |
-| 風のなかのプリムローズ                     | テレビアニメ『[恋と選挙とチョコレート](https://ja.wikipedia.org/wiki/恋と選挙とチョコレート "wikilink")』エンディングテーマ                                                                                                 | 2012年                                                                             |
-| COLORFUL DAYS                   |                                                                                                                                                                                      | PCゲーム『[いろとりどりのヒカリ](https://ja.wikipedia.org/wiki/いろとりどりのセカイ "wikilink")』エンディングテーマ |
-| ストレイトシープ                        | PCゲーム『[大図書館の羊飼い a good librarian like a good shepherd](https://ja.wikipedia.org/wiki/大図書館の羊飼い_a_good_librarian_like_a_good_shepherd "wikilink")』イメージテーマ                              |                                                                                   |
-| Dear Smile                      | PCゲーム『[大図書館の羊飼い a good librarian like a good shepherd](https://ja.wikipedia.org/wiki/大図書館の羊飼い_a_good_librarian_like_a_good_shepherd "wikilink")』サブエンディングテーマ                          |                                                                                   |
-| Love you…                       | PCゲーム『[LOVELY QUEST](https://ja.wikipedia.org/wiki/LOVELY_QUEST "wikilink")』挿入歌                                                                                                      |                                                                                   |
-| Propylaia                       | [ドラマCD](https://ja.wikipedia.org/wiki/ドラマCD "wikilink")『穢翼のユースティア』オープニングテーマ                                                                                                          |                                                                                   |
-| Snow Bird                       | ドラマCD『穢翼のユースティア』第1章エンディングテーマ                                                                                                                                                         |                                                                                   |
-| セレスティアラ                         | ドラマCD『穢翼のユースティア』第2章エンディングテーマ                                                                                                                                                         |                                                                                   |
-| Stigmata                        | ドラマCD『穢翼のユースティア』第3章エンディングテーマ                                                                                                                                                         |                                                                                   |
-| Pabilio                         | ドラマCD『穢翼のユースティア』第4章エンディングテーマ                                                                                                                                                         |                                                                                   |
-| Anistemi                        | ドラマCD『穢翼のユースティア』第5章エンディングテーマ                                                                                                                                                         |                                                                                   |
-| 希望［Espoir］                      | ドラマCD『穢翼のユースティア』第6章エンディングテーマ                                                                                                                                                         |                                                                                   |
-| シャル ウヰ ダンス                      | [OVA](../Page/OVA.md "wikilink")『[華ヤカ哉、我ガ一族 キネトグラフ](https://ja.wikipedia.org/wiki/華ヤカ哉、我ガ一族_キネトグラフ "wikilink")』エンディングテーマ                                                             | 2013年                                                                             |
-| 夏の終わりのニルヴァーナ                    | PCゲーム『[夏の終わりのニルヴァーナ](https://ja.wikipedia.org/wiki/夏の終わりのニルヴァーナ "wikilink")』オープニングテーマ                                                                                                |                                                                                   |
-| moratorium                      | PCゲーム『夏の終わりのニルヴァーナ』エンディングテーマ                                                                                                                                                         |                                                                                   |
-| 今、歩き出す君へ                        | PCゲーム『[いますぐお兄ちゃんに妹だっていいたい\!](https://ja.wikipedia.org/wiki/いますぐお兄ちゃんに妹だっていいたい! "wikilink")』挿入歌                                                                                       |                                                                                   |
-| It's All Right\!                | PCゲーム『Guardian☆Place〜ドエスな妹と3人の嫁〜』オープニングテーマ                                                                                                                                           |                                                                                   |
-| flowering bride                 | PCゲーム『[百花繚乱エリクシル](https://ja.wikipedia.org/wiki/百花繚乱エリクシル "wikilink")』エンディングテーマ                                                                                                      |                                                                                   |
-| 奏愛カレンデュラ                        | テレビアニメ『[八犬伝―東方八犬異聞― 第2期](https://ja.wikipedia.org/wiki/八犬伝―東方八犬異聞― "wikilink")』エンディングテーマ                                                                                             |                                                                                   |
-| brand new day                   | PCゲーム『[星ノ音サンクチュアリ](https://ja.wikipedia.org/wiki/星ノ音サンクチュアリ "wikilink")』オープニングテーマ                                                                                                    |                                                                                   |
-| MeltyMoment                     | PCゲーム『[MeltyMoment -メルティモーメント-](https://ja.wikipedia.org/wiki/MeltyMoment_-メルティモーメント- "wikilink")』オープニングテーマ                                                                          | 2014年                                                                             |
-| world in vivid colors           | PCゲーム『レーシャル・マージ』エンディングテーマ                                                                                                                                                            |                                                                                   |
-| smile days                      | PCゲーム『あやかしコントラクト』エンディングテーマ                                                                                                                                                           |                                                                                   |
-| 星織ユメミライ                         | PCゲーム『[星織ユメミライ](https://ja.wikipedia.org/wiki/星織ユメミライ "wikilink")』オープニングテーマ                                                                                                          |                                                                                   |
-| After snow ―白き永遠―               | PCゲーム『[アストラエアの白き永遠](https://ja.wikipedia.org/wiki/アストラエアの白き永遠 "wikilink")』グランドエンディングテーマ                                                                                              |                                                                                   |
-| primal                          | PCゲーム『[PRIMAL×HEARTS](https://ja.wikipedia.org/wiki/PRIMAL×HEARTS "wikilink")』オープニングテーマ                                                                                              |                                                                                   |
-| Pandora                         | [PSP](https://ja.wikipedia.org/wiki/PSP "wikilink")・[PSVita](https://ja.wikipedia.org/wiki/PSVita "wikilink")ゲーム『[カレイドイヴ](https://ja.wikipedia.org/wiki/カレイドイヴ "wikilink")』オープニングテーマ |                                                                                   |
-| ミライサーキット                        | PCゲーム『[ココロ@ファンクション\!](https://ja.wikipedia.org/wiki/ココロ@ファンクション! "wikilink") NEO』メインテーマ                                                                                              |                                                                                   |
-| smile again                     | PCゲーム『[PRIMAL×HEARTS2](https://ja.wikipedia.org/wiki/PRIMAL×HEARTS2 "wikilink")』オープニングテーマ                                                                                            | 2015年                                                                             |
-| and...                          | PCゲーム『[あなたをオトコにしてあげる\!](https://ja.wikipedia.org/wiki/あなたをオトコにしてあげる! "wikilink")』エンディングテーマ                                                                                           | 2016年                                                                             |
-| Finest Sky                      | PCゲーム『見上げてごらん、夜空の星を FINE DAYS』オープニングテーマ                                                                                                                                              |                                                                                   |
-| 銀色、遥か                           | PCゲーム『[銀色、遥か](https://ja.wikipedia.org/wiki/銀色、遥か "wikilink")』オープニングテーマ                                                                                                              |                                                                                   |
-| 雪のエルフィンリート                      | PS Vitaゲーム『アストラエアの白き永遠 White Eternity』挿入歌                                                                                                                                            |                                                                                   |
-| 夢の記憶                            | PCゲーム『[キミトユメミシ](https://ja.wikipedia.org/wiki/キミトユメミシ "wikilink")』エンディングテーマ                                                                                                          |                                                                                   |
-| Worlds Pain                     | [劇場版アニメ](https://ja.wikipedia.org/wiki/劇場版アニメ "wikilink")『[planetarian](https://ja.wikipedia.org/wiki/planetarian "wikilink")』イメージソング                                                |                                                                                   |
-| Into the Journey                | [PS4](https://ja.wikipedia.org/wiki/PS4 "wikilink")ソフト『[フィリスのアトリエ 〜不思議な旅の錬金術士〜](https://ja.wikipedia.org/wiki/フィリスのアトリエ_〜不思議な旅の錬金術士〜 "wikilink")』グランドエンディングテーマ                       |                                                                                   |
-| シンソウノイズ                         | PCゲーム『シンソウノイズ〜受信探偵の事件簿〜』オープニングテーマ                                                                                                                                                    |                                                                                   |
-| coclea                          | PCゲーム『仄暗き時の果てより』エンディングテーマ                                                                                                                                                            |                                                                                   |
-| stand inside destiny            | PCゲーム『王の耳には届かない！』エンディングテーマ                                                                                                                                                           |                                                                                   |
-| Dreams come true -花咲き誇る、地球のもとで- | PCゲーム『アストラエアの白き永遠Finale』エンディングテーマ                                                                                                                                                    | 2017年                                                                             |
-| my lovely day                   | PCゲーム『彼女と俺の恋愛日常』イメージソング                                                                                                                                                              |                                                                                   |
-| First Love Syndrome             | PCゲーム『初恋＊シンドローム』主題歌                                                                                                                                                                  |                                                                                   |
-| 春音＊ベール                          | PCゲーム『[春音アリス\*グラム](https://ja.wikipedia.org/wiki/春音アリス*グラム "wikilink")』オープニングテーマ                                                                                                     |                                                                                   |
-| melty love                      | PCゲーム『あまいえ』オープニングテーマ                                                                                                                                                                 |                                                                                   |
-| クローマ                            | 『リディー＆スールのアトリエ ～不思議な絵画の錬金術士～』オープニングテーマ                                                                                                                                               |                                                                                   |
-| Last Healing                    | 『あいりすミスティリア\!〜少女のつむぐ夢の秘跡〜』テーマ曲                                                                                                                                                       |                                                                                   |
-| Pure Circuit                    | PCゲーム『君と目覚める幾つかの方法』オープニングテーマ                                                                                                                                                         | 2018年                                                                             |
-| 栖鴉の綿(せいあのわた）                    | PCゲーム『未来ラジオと人工鳩』オープニングテーマ                                                                                                                                                            |                                                                                   |
-| Jewelry Kiss                    | PCゲーム『姫と乙女のヤキモチＬＯＶＥ』オープニングテーマ                                                                                                                                                        |                                                                                   |
-| 君に花                             | PCゲーム『その花が咲いたら、また僕は君に出逢う』オープニングテーマ                                                                                                                                                   |                                                                                   |
-| Have a live day                 | PCゲーム『白恋サクラ\*グラム』主題歌                                                                                                                                                                 | 2019年                                                                             |
-| 僕たちの詩                           | PCゲーム『月の彼方で逢いましょう(つきかな)』エンディング曲                                                                                                                                                      |                                                                                   |
-| Buddy                           |                                                                                                                                                                                      | PCゲーム『流星ワールドアクター』エンディング曲                                                          |
-| study steady day\!              | PCゲーム『スタディ§ステディ』オープニングテーマ曲                                                                                                                                                           |                                                                                   |
-|                                 |                                                                                                                                                                                      |                                                                                   |
+| 楽曲                              | タイアップ                                                                                                                                                             | 年数                                                                                |
+| ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| 微睡みの楽園                          | [テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[京四郎と永遠の空](../Page/京四郎と永遠の空.md "wikilink")』エンディングテーマ                                                    | 2007年                                                                             |
+| mellow melody                   | テレビアニメ『[sola](https://ja.wikipedia.org/wiki/sola "wikilink")』エンディングテーマ                                                                                            |                                                                                   |
+| 敏感な風景                           | テレビアニメ『sola』イメージソング                                                                                                                                               |                                                                                   |
+| 始まりへの旅                          | テレビアニメ『sola』イメージソング                                                                                                                                               |                                                                                   |
+| あらたな光                           | [PCゲーム](https://ja.wikipedia.org/wiki/PCゲーム "wikilink")『[エターナルファンタジー](https://ja.wikipedia.org/wiki/エターナルファンタジー "wikilink")』挿入歌                                   | 2008年                                                                             |
+| 神々の詩                            | [オンラインゲーム](../Page/オンラインゲーム.md "wikilink")『[ラグナロクオンライン](../Page/ラグナロクオンライン.md "wikilink")』6thアニバーサリーイメージソング                                                       |                                                                                   |
+| brilliant world                 | テレビアニメ『[テイルズ オブ ジ アビス](../Page/テイルズ_オブ_ジ_アビス.md "wikilink")』イメージソング                                                                                               | 2009年                                                                             |
+| カリス                             | テレビアニメ『テイルズ オブ ジ アビス』イメージソング                                                                                                                                      |                                                                                   |
+| Frozen Tear                     | [PS2](https://ja.wikipedia.org/wiki/PS2 "wikilink")ゲーム『[Clear 〜新しい風の吹く丘で〜](https://ja.wikipedia.org/wiki/Clear_〜新しい風の吹く丘で〜 "wikilink")』オープニングテーマ                  |                                                                                   |
+| 光と闇と時の果て                        | テレビアニメ『[空を見上げる少女の瞳に映る世界](https://ja.wikipedia.org/wiki/MUNTOシリーズ "wikilink")』エンディングテーマ                                                                            |                                                                                   |
+| 心の翼                             | テレビアニメ『空を見上げる少女の瞳に映る世界』最終話エンディングテーマ                                                                                                                               |                                                                                   |
+| 羽化                              | テレビアニメ『空を見上げる少女の瞳に映る世界』イメージソング                                                                                                                                    |                                                                                   |
+| パラノイア                           | テレビアニメ『空を見上げる少女の瞳に映る世界』イメージソング                                                                                                                                    |                                                                                   |
+| espacio                         | テレビアニメ『[宇宙をかける少女](https://ja.wikipedia.org/wiki/宇宙をかける少女 "wikilink")』後期エンディングテーマ                                                                                  |                                                                                   |
+| 聖戦スペクタル                         | PCゲーム『[ヴァルキリーコンプレックス](https://ja.wikipedia.org/wiki/ヴァルキリーコンプレックス "wikilink")』オープニングテーマ                                                                           |                                                                                   |
+| 永久のコトバ                          | PCゲーム『ヴァルキリーコンプレックス』挿入歌                                                                                                                                           |                                                                                   |
+| dreamscape(Ceui名義ver.)          | PCゲーム『[最終試験くじら〜Departures〜](../Page/最終試験くじら〜Departures〜.md "wikilink")』オープニングテーマ                                                                                  |                                                                                   |
+| センティフォリア                        | テレビアニメ『[青い花](https://ja.wikipedia.org/wiki/青い花_\(漫画\) "wikilink")』エンディングテーマ                                                                                       |                                                                                   |
+| プリズム                            | PCゲーム『[プリティ☆ウィッチ☆アカデミー\!](https://ja.wikipedia.org/wiki/プリティ☆ウィッチ☆アカデミー! "wikilink")』オープニングテーマ                                                                    |                                                                                   |
+| crystal pain                    | PCゲーム『プリティ☆ウィッチ☆アカデミー\!』挿入歌                                                                                                                                       |                                                                                   |
+| After the deluge                | PCゲーム『プリティ☆ウィッチ☆アカデミー\!』エンディングテーマ                                                                                                                                 |                                                                                   |
+| Eternal Flow                    | PCゲーム『[Cross Days](https://ja.wikipedia.org/wiki/Cross_Days "wikilink")』イメージソング                                                                                   | 2010年                                                                             |
+| Truth Of My Destiny             | テレビアニメ『[伝説の勇者の伝説](../Page/伝説の勇者の伝説.md "wikilink")』前期エンディングテーマ                                                                                                     |                                                                                   |
+| Last Inferno                    | テレビアニメ『伝説の勇者の伝説』後期オープニングテーマ                                                                                                                                       |                                                                                   |
+| Energy                          | テレビアニメ『伝説の勇者の伝説』挿入歌                                                                                                                                               |                                                                                   |
+| My Sweet Stories                | PCゲーム『[uni.](https://ja.wikipedia.org/wiki/uni. "wikilink")』エンディングテーマ                                                                                             |                                                                                   |
+| Jewelry Time                    | PCゲーム『[恋と選挙とチョコレート](https://ja.wikipedia.org/wiki/恋と選挙とチョコレート "wikilink")』エンディングテーマ                                                                               | 2011年                                                                             |
+| Asphodelus -アスフォデルス-            | PCゲーム『[穢翼のユースティア](https://ja.wikipedia.org/wiki/穢翼のユースティア "wikilink")』オープニングテーマ                                                                                   |                                                                                   |
+| 親愛なる世界へ                         | PCゲーム『穢翼のユースティア』エンディングテーマ                                                                                                                                         |                                                                                   |
+| Stardust Melodia                | テレビアニメ『[境界線上のホライゾン](https://ja.wikipedia.org/wiki/境界線上のホライゾン "wikilink")』エンディングテーマ -Side Horizon-                                                                 |                                                                                   |
+| 風のなかのプリムローズ                     | テレビアニメ『[恋と選挙とチョコレート](https://ja.wikipedia.org/wiki/恋と選挙とチョコレート "wikilink")』エンディングテーマ                                                                              | 2012年                                                                             |
+| COLORFUL DAYS                   |                                                                                                                                                                   | PCゲーム『[いろとりどりのヒカリ](https://ja.wikipedia.org/wiki/いろとりどりのセカイ "wikilink")』エンディングテーマ |
+| ストレイトシープ                        | PCゲーム『[大図書館の羊飼い a good librarian like a good shepherd](https://ja.wikipedia.org/wiki/大図書館の羊飼い_a_good_librarian_like_a_good_shepherd "wikilink")』イメージテーマ           |                                                                                   |
+| Dear Smile                      | PCゲーム『[大図書館の羊飼い a good librarian like a good shepherd](https://ja.wikipedia.org/wiki/大図書館の羊飼い_a_good_librarian_like_a_good_shepherd "wikilink")』サブエンディングテーマ       |                                                                                   |
+| Love you…                       | PCゲーム『[LOVELY QUEST](https://ja.wikipedia.org/wiki/LOVELY_QUEST "wikilink")』挿入歌                                                                                   |                                                                                   |
+| Propylaia                       | [ドラマCD](../Page/ドラマCD.md "wikilink")『穢翼のユースティア』オープニングテーマ                                                                                                          |                                                                                   |
+| Snow Bird                       | ドラマCD『穢翼のユースティア』第1章エンディングテーマ                                                                                                                                      |                                                                                   |
+| セレスティアラ                         | ドラマCD『穢翼のユースティア』第2章エンディングテーマ                                                                                                                                      |                                                                                   |
+| Stigmata                        | ドラマCD『穢翼のユースティア』第3章エンディングテーマ                                                                                                                                      |                                                                                   |
+| Pabilio                         | ドラマCD『穢翼のユースティア』第4章エンディングテーマ                                                                                                                                      |                                                                                   |
+| Anistemi                        | ドラマCD『穢翼のユースティア』第5章エンディングテーマ                                                                                                                                      |                                                                                   |
+| 希望［Espoir］                      | ドラマCD『穢翼のユースティア』第6章エンディングテーマ                                                                                                                                      |                                                                                   |
+| シャル ウヰ ダンス                      | [OVA](../Page/OVA.md "wikilink")『[華ヤカ哉、我ガ一族 キネトグラフ](https://ja.wikipedia.org/wiki/華ヤカ哉、我ガ一族_キネトグラフ "wikilink")』エンディングテーマ                                          | 2013年                                                                             |
+| 夏の終わりのニルヴァーナ                    | PCゲーム『[夏の終わりのニルヴァーナ](https://ja.wikipedia.org/wiki/夏の終わりのニルヴァーナ "wikilink")』オープニングテーマ                                                                             |                                                                                   |
+| moratorium                      | PCゲーム『夏の終わりのニルヴァーナ』エンディングテーマ                                                                                                                                      |                                                                                   |
+| 今、歩き出す君へ                        | PCゲーム『[いますぐお兄ちゃんに妹だっていいたい\!](https://ja.wikipedia.org/wiki/いますぐお兄ちゃんに妹だっていいたい! "wikilink")』挿入歌                                                                    |                                                                                   |
+| It's All Right\!                | PCゲーム『Guardian☆Place〜ドエスな妹と3人の嫁〜』オープニングテーマ                                                                                                                        |                                                                                   |
+| flowering bride                 | PCゲーム『[百花繚乱エリクシル](https://ja.wikipedia.org/wiki/百花繚乱エリクシル "wikilink")』エンディングテーマ                                                                                   |                                                                                   |
+| 奏愛カレンデュラ                        | テレビアニメ『[八犬伝―東方八犬異聞― 第2期](../Page/八犬伝―東方八犬異聞―.md "wikilink")』エンディングテーマ                                                                                             |                                                                                   |
+| brand new day                   | PCゲーム『[星ノ音サンクチュアリ](https://ja.wikipedia.org/wiki/星ノ音サンクチュアリ "wikilink")』オープニングテーマ                                                                                 |                                                                                   |
+| MeltyMoment                     | PCゲーム『[MeltyMoment -メルティモーメント-](https://ja.wikipedia.org/wiki/MeltyMoment_-メルティモーメント- "wikilink")』オープニングテーマ                                                       | 2014年                                                                             |
+| world in vivid colors           | PCゲーム『レーシャル・マージ』エンディングテーマ                                                                                                                                         |                                                                                   |
+| smile days                      | PCゲーム『あやかしコントラクト』エンディングテーマ                                                                                                                                        |                                                                                   |
+| 星織ユメミライ                         | PCゲーム『[星織ユメミライ](https://ja.wikipedia.org/wiki/星織ユメミライ "wikilink")』オープニングテーマ                                                                                       |                                                                                   |
+| After snow ―白き永遠―               | PCゲーム『[アストラエアの白き永遠](https://ja.wikipedia.org/wiki/アストラエアの白き永遠 "wikilink")』グランドエンディングテーマ                                                                           |                                                                                   |
+| primal                          | PCゲーム『[PRIMAL×HEARTS](https://ja.wikipedia.org/wiki/PRIMAL×HEARTS "wikilink")』オープニングテーマ                                                                           |                                                                                   |
+| Pandora                         | [PSP](../Page/PSP.md "wikilink")・[PSVita](https://ja.wikipedia.org/wiki/PSVita "wikilink")ゲーム『[カレイドイヴ](https://ja.wikipedia.org/wiki/カレイドイヴ "wikilink")』オープニングテーマ |                                                                                   |
+| ミライサーキット                        | PCゲーム『[ココロ@ファンクション\!](https://ja.wikipedia.org/wiki/ココロ@ファンクション! "wikilink") NEO』メインテーマ                                                                           |                                                                                   |
+| smile again                     | PCゲーム『[PRIMAL×HEARTS2](https://ja.wikipedia.org/wiki/PRIMAL×HEARTS2 "wikilink")』オープニングテーマ                                                                         | 2015年                                                                             |
+| and...                          | PCゲーム『[あなたをオトコにしてあげる\!](https://ja.wikipedia.org/wiki/あなたをオトコにしてあげる! "wikilink")』エンディングテーマ                                                                        | 2016年                                                                             |
+| Finest Sky                      | PCゲーム『見上げてごらん、夜空の星を FINE DAYS』オープニングテーマ                                                                                                                           |                                                                                   |
+| 銀色、遥か                           | PCゲーム『[銀色、遥か](https://ja.wikipedia.org/wiki/銀色、遥か "wikilink")』オープニングテーマ                                                                                           |                                                                                   |
+| 雪のエルフィンリート                      | PS Vitaゲーム『アストラエアの白き永遠 White Eternity』挿入歌                                                                                                                         |                                                                                   |
+| 夢の記憶                            | PCゲーム『[キミトユメミシ](https://ja.wikipedia.org/wiki/キミトユメミシ "wikilink")』エンディングテーマ                                                                                       |                                                                                   |
+| Worlds Pain                     | [劇場版アニメ](https://ja.wikipedia.org/wiki/劇場版アニメ "wikilink")『[planetarian](https://ja.wikipedia.org/wiki/planetarian "wikilink")』イメージソング                             |                                                                                   |
+| Into the Journey                | [PS4](https://ja.wikipedia.org/wiki/PS4 "wikilink")ソフト『[フィリスのアトリエ 〜不思議な旅の錬金術士〜](https://ja.wikipedia.org/wiki/フィリスのアトリエ_〜不思議な旅の錬金術士〜 "wikilink")』グランドエンディングテーマ    |                                                                                   |
+| シンソウノイズ                         | PCゲーム『シンソウノイズ〜受信探偵の事件簿〜』オープニングテーマ                                                                                                                                 |                                                                                   |
+| coclea                          | PCゲーム『仄暗き時の果てより』エンディングテーマ                                                                                                                                         |                                                                                   |
+| stand inside destiny            | PCゲーム『王の耳には届かない！』エンディングテーマ                                                                                                                                        |                                                                                   |
+| Dreams come true -花咲き誇る、地球のもとで- | PCゲーム『アストラエアの白き永遠Finale』エンディングテーマ                                                                                                                                 | 2017年                                                                             |
+| my lovely day                   | PCゲーム『彼女と俺の恋愛日常』イメージソング                                                                                                                                           |                                                                                   |
+| First Love Syndrome             | PCゲーム『初恋＊シンドローム』主題歌                                                                                                                                               |                                                                                   |
+| 春音＊ベール                          | PCゲーム『[春音アリス\*グラム](https://ja.wikipedia.org/wiki/春音アリス*グラム "wikilink")』オープニングテーマ                                                                                  |                                                                                   |
+| melty love                      | PCゲーム『あまいえ』オープニングテーマ                                                                                                                                              |                                                                                   |
+| クローマ                            | 『リディー＆スールのアトリエ ～不思議な絵画の錬金術士～』オープニングテーマ                                                                                                                            |                                                                                   |
+| Last Healing                    | 『あいりすミスティリア\!〜少女のつむぐ夢の秘跡〜』テーマ曲                                                                                                                                    |                                                                                   |
+| Pure Circuit                    | PCゲーム『君と目覚める幾つかの方法』オープニングテーマ                                                                                                                                      | 2018年                                                                             |
+| 栖鴉の綿(せいあのわた）                    | PCゲーム『未来ラジオと人工鳩』オープニングテーマ                                                                                                                                         |                                                                                   |
+| Jewelry Kiss                    | PCゲーム『姫と乙女のヤキモチＬＯＶＥ』オープニングテーマ                                                                                                                                     |                                                                                   |
+| 君に花                             | PCゲーム『その花が咲いたら、また僕は君に出逢う』オープニングテーマ                                                                                                                                |                                                                                   |
+| Have a live day                 | PCゲーム『白恋サクラ\*グラム』主題歌                                                                                                                                              | 2019年                                                                             |
+| 僕たちの詩                           | PCゲーム『月の彼方で逢いましょう(つきかな)』エンディング曲                                                                                                                                   |                                                                                   |
+| Buddy                           |                                                                                                                                                                   | PCゲーム『流星ワールドアクター』エンディング曲                                                          |
+| study steady day\!              | PCゲーム『スタディ§ステディ』オープニングテーマ曲                                                                                                                                        |                                                                                   |
+|                                 |                                                                                                                                                                   |                                                                                   |
 
 ### 楽曲・作詞提供
 
   - [大原さやか](../Page/大原さやか.md "wikilink")『Moon Cradle 〜天の喚び声〜』 - 作詞を担当
   - kira『dreamscape』 - 作詞を担当
-  - [結城アイラ](https://ja.wikipedia.org/wiki/結城アイラ "wikilink")『孤高の迷宮』 - 作詞を担当
+  - [結城アイラ](../Page/結城アイラ.md "wikilink")『孤高の迷宮』 - 作詞を担当
   - [ゆかな](../Page/ゆかな.md "wikilink")『風紡ぎのアリア』 - 作詞を担当
   - [ちっち](https://ja.wikipedia.org/wiki/ちっち "wikilink")『Luminous 〜終わらない物語〜』 - 作詞・コーラスを担当
   - [清水愛](../Page/清水愛.md "wikilink")『NUOVA STORIA』 - 作曲を担当（[小高光太郎](../Page/小高光太郎.md "wikilink")と共同）
@@ -849,7 +849,7 @@ Ceui（セイ）はポルトガルで「空」の意味「CEU」に「i（愛）
 </tr>
 <tr class="even">
 <td><p>2014年11月8日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/仙台MACANA" title="wikilink">仙台MACANA</a></p></td>
+<td><p><a href="../Page/仙台MACANA.md" title="wikilink">仙台MACANA</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1069,7 +1069,7 @@ Anime Song 公演〜ルビー〜</strong></p></td>
 <tr class="odd">
 <td><p>2011年7月7日</p></td>
 <td><p><strong>「Sound Horizon Live Tour 2011 －第一次領土復興遠征－</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHKホール" title="wikilink">NHKホール</a></p></td>
+<td><p><a href="../Page/NHKホール.md" title="wikilink">NHKホール</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2011年7月13日</p></td>
@@ -1093,7 +1093,7 @@ Anime Song 公演〜ルビー〜</strong></p></td>
 </tr>
 <tr class="even">
 <td><p>2011年8月12日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/神戸国際会館" title="wikilink">神戸国際会館</a>こくさいホール</p></td>
+<td><p><a href="../Page/神戸国際会館.md" title="wikilink">神戸国際会館</a>こくさいホール</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1129,7 +1129,7 @@ Anime Song 公演〜ルビー〜</strong></p></td>
 <tr class="odd">
 <td><p>2013年1月20日</p></td>
 <td><p><strong>いますぐ恋と選挙と妹だっていいたい!</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中野サンプラザ" title="wikilink">中野サンプラザ</a>ホール</p></td>
+<td><p><a href="../Page/中野サンプラザ.md" title="wikilink">中野サンプラザ</a>ホール</p></td>
 </tr>
 <tr class="even">
 <td><p>2013年2月17日</p></td>
@@ -1175,17 +1175,17 @@ Anime Song 公演〜ルビー〜</strong></p></td>
 <tr class="even">
 <td><p>2014年3月13日</p></td>
 <td><p><strong>ONE OF THE MILLIONPresents〜ヴィジュアニ祭〜</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SHIBUYA-AX" title="wikilink">SHIBUYA-AX</a></p></td>
+<td><p><a href="../Page/SHIBUYA-AX.md" title="wikilink">SHIBUYA-AX</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2014年7月20日</p></td>
 <td><p><strong>15th Anniversary Liveランティス祭り2014<br />
 〜つなぐぜ!アニソンの”わ”!〜</strong></p></td>
-<td><p>三重・<a href="https://ja.wikipedia.org/wiki/ナガシマスパーランド" title="wikilink">ナガシマスパーランド</a>芝生広場・野外特設ステージ</p></td>
+<td><p>三重・<a href="../Page/ナガシマスパーランド.md" title="wikilink">ナガシマスパーランド</a>芝生広場・野外特設ステージ</p></td>
 </tr>
 <tr class="even">
 <td><p>2014年9月15日</p></td>
-<td><p>東京・<a href="https://ja.wikipedia.org/wiki/潮風公園" title="wikilink">潮風公園</a>（太陽の広場・野外特設ステージ）</p></td>
+<td><p>東京・<a href="../Page/潮風公園.md" title="wikilink">潮風公園</a>（太陽の広場・野外特設ステージ）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1202,12 +1202,12 @@ Anime Song 公演〜ルビー〜</strong></p></td>
 <tr class="odd">
 <td><p>2015年10月25日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/EGG_-Extra_Games_Garden-" title="wikilink">EGG -Extra Games Garden-</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アクアパーク品川" title="wikilink">品川ステラボール</a></p></td>
+<td><p><a href="../Page/アクアパーク品川.md" title="wikilink">品川ステラボール</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2015年12月29日</p></td>
 <td><p><strong>sprite LIVE 2015</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ディファ有明" title="wikilink">ディファ有明</a></p></td>
+<td><p><a href="../Page/ディファ有明.md" title="wikilink">ディファ有明</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2016年8月12日</p></td>
@@ -1233,7 +1233,7 @@ Anime Song 公演〜ルビー〜</strong></p></td>
 <tr class="odd">
 <td><p>2016年11月26日</p></td>
 <td><p><strong>かわいい感じジャパン番外編〜桃知&amp;うさぎ生誕祭</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロフト_(ライブハウス)" title="wikilink">新宿LOFT</a></p></td>
+<td><p><a href="../Page/ロフト_(ライブハウス).md" title="wikilink">新宿LOFT</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2017年2月4日</p></td>
@@ -1255,7 +1255,7 @@ Anime Song 公演〜ルビー〜</strong></p></td>
 <td><p>2017年3月25日 - 26日</p></td>
 <td><p><strong>日越文化交流イベント<br />
 『Fes TOUCH Spring 2017 in HCMC』</strong>[11]</p></td>
-<td><p>ホーチミン市 <a href="https://ja.wikipedia.org/wiki/イオンモール" title="wikilink">イオンモール</a> タンフーセラドン</p></td>
+<td><p>ホーチミン市 <a href="../Page/イオンモール.md" title="wikilink">イオンモール</a> タンフーセラドン</p></td>
 </tr>
 <tr class="even">
 <td><p>2017年5月7日</p></td>

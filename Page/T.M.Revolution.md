@@ -1,29 +1,29 @@
 > この記事は[T.M.Revolution](https://ja.wikipedia.org/wiki/T.M.Revolution)から翻訳されています。
 
 
-**T.M.Revolution**（ティー・エム・レボリューション）は、[西川貴教](https://ja.wikipedia.org/wiki/西川貴教 "wikilink")の[ソロプロジェクト](https://ja.wikipedia.org/wiki/一人バンド "wikilink")。略称は**T.M.R**、**TM**など。[浅倉大介](https://ja.wikipedia.org/wiki/浅倉大介 "wikilink")が[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")にリリースした自身のソロシングル「[BLACK OR WHITE?](https://ja.wikipedia.org/wiki/BLACK_OR_WHITE? "wikilink")」に、ゲストボーカルとして西川を起用した事がきっかけとなりプロジェクトが発足した。
+**T.M.Revolution**（ティー・エム・レボリューション）は、[西川貴教](../Page/西川貴教.md "wikilink")の[ソロプロジェクト](../Page/一人バンド.md "wikilink")。略称は**T.M.R**、**TM**など。[浅倉大介](../Page/浅倉大介.md "wikilink")が[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")にリリースした自身のソロシングル「[BLACK OR WHITE?](https://ja.wikipedia.org/wiki/BLACK_OR_WHITE? "wikilink")」に、ゲストボーカルとして西川を起用した事がきっかけとなりプロジェクトが発足した。
 
 ## 名前の由来
 
 "**T**akanori **M**akes **R**evolution"（貴教が革命を起こす）の頭文字を取ったものである。また、西川貴教という一個人の名義ではなく、プロデューサー（浅倉大介）や関係者、また全てのファンも一緒に歩んで行くという意味が込められたプロジェクトの名称である。
 
-なお、この名称は浅倉大介がサポートメンバーを務めていた[TM NETWORKに由来していると推測されるが](https://ja.wikipedia.org/wiki/TM_NETWORK "wikilink")、浅倉は著書の中で「似ている事には後で気が付いた」と述べている。一方、浅倉はテレビやラジオ等で[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")に「TMの名前を使わせて貰います」と直接電話した事を語っている。
+なお、この名称は浅倉大介がサポートメンバーを務めていた[TM NETWORKに由来していると推測されるが](../Page/TM_NETWORK.md "wikilink")、浅倉は著書の中で「似ている事には後で気が付いた」と述べている。一方、浅倉はテレビやラジオ等で[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")に「TMの名前を使わせて貰います」と直接電話した事を語っている。
 
 ## 来歴
 
 ### デビューまでの経緯
 
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")
-      - 1月1日、[浅倉大介](https://ja.wikipedia.org/wiki/浅倉大介 "wikilink")と[貴水博之](https://ja.wikipedia.org/wiki/貴水博之 "wikilink")によるユニット[accessが活動休止](https://ja.wikipedia.org/wiki/access_\(音楽ユニット\) "wikilink")。
-      - 3月6日、[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")「[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")」公開収録において浅倉、貴水がソロ活動を発表。浅倉は他アーティストのプロデュースを含むソロ活動を開始する。この頃、ヘアメイクを担当する美容院SMOKERの美容師・[横原義雄](https://ja.wikipedia.org/wiki/横原義雄 "wikilink")が、浅倉のシングルに参加するボーカリストの一人として、西川を紹介する。西川は[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")にバンド[Luis-Mary](https://ja.wikipedia.org/wiki/Luis-Mary "wikilink")のボーカルとしてデビューするが、売り上げの不振や音楽性の違いなどにより[1993年](../Page/1993年.md "wikilink")に脱退していた。
+      - 1月1日、[浅倉大介](../Page/浅倉大介.md "wikilink")と[貴水博之](../Page/貴水博之.md "wikilink")によるユニット[accessが活動休止](https://ja.wikipedia.org/wiki/access_\(音楽ユニット\) "wikilink")。
+      - 3月6日、[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")「[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")」公開収録において浅倉、貴水がソロ活動を発表。浅倉は他アーティストのプロデュースを含むソロ活動を開始する。この頃、ヘアメイクを担当する美容院SMOKERの美容師・[横原義雄](https://ja.wikipedia.org/wiki/横原義雄 "wikilink")が、浅倉のシングルに参加するボーカリストの一人として、西川を紹介する。西川は[1991年](../Page/1991年.md "wikilink")にバンド[Luis-Mary](../Page/Luis-Mary.md "wikilink")のボーカルとしてデビューするが、売り上げの不振や音楽性の違いなどにより[1993年](../Page/1993年.md "wikilink")に脱退していた。
       - 5月25日、「浅倉大介 expd. 西川貴教」名義でリリースされたシングル「[BLACK OR WHITE?](https://ja.wikipedia.org/wiki/BLACK_OR_WHITE? "wikilink")」に、ゲストボーカリストとして西川が参加。オリコンベスト20入りを果たす。
-      - 7月18日〜9月5日にかけて行われた、浅倉大介・[葛城哲哉](https://ja.wikipedia.org/wiki/葛城哲哉 "wikilink")・[木根尚登](https://ja.wikipedia.org/wiki/木根尚登 "wikilink")によるライブイベント「What Jam?」に西川がゲスト出演。前出の「BLACK OR WHITE?」や[TM NETWORK](https://ja.wikipedia.org/wiki/TM_NETWORK "wikilink")、[accessの楽曲を歌った](https://ja.wikipedia.org/wiki/Access_\(音楽ユニット\) "wikilink")。以後、浅倉大介トータル・プロデュースによるソロ・プロジェクト「T.M.Revolution」が始動した。
+      - 7月18日〜9月5日にかけて行われた、浅倉大介・[葛城哲哉](../Page/葛城哲哉.md "wikilink")・[木根尚登](https://ja.wikipedia.org/wiki/木根尚登 "wikilink")によるライブイベント「What Jam?」に西川がゲスト出演。前出の「BLACK OR WHITE?」や[TM NETWORK](../Page/TM_NETWORK.md "wikilink")、[accessの楽曲を歌った](../Page/Access_\(音楽ユニット\).md "wikilink")。以後、浅倉大介トータル・プロデュースによるソロ・プロジェクト「T.M.Revolution」が始動した。
       - なお、西川と浅倉はプロジェクト発足に際して3つの約束を結んだ。この約束は、デビューより2年8か月後に達成される。
-        1.  シングルで[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を獲得すること
+        1.  シングルで[オリコンチャート](../Page/オリコンチャート.md "wikilink")1位を獲得すること
               - 1997年10月、6thシングル「WHITE BREATH」にて達成。
         2.  アルバムでミリオンセラーを達成すること
               - 1998年2月、3rdアルバム『triple joker』にて達成。
-        3.  （国内で最大規模の屋内コンサート会場である）[東京ドーム](https://ja.wikipedia.org/wiki/東京ドーム "wikilink")でライブを行うこと
+        3.  （国内で最大規模の屋内コンサート会場である）[東京ドーム](../Page/東京ドーム.md "wikilink")でライブを行うこと
               - 1999年3月、「T.M.R.LIVE REVOLUTION'99 -THE FORCE-」にて達成。
       - 12月、西川貴教公式ファンクラブ「turbo」が開設される。2006年の[abingdon boys schoolデビューまでは西川の活動がほとんどT](https://ja.wikipedia.org/wiki/abingdon_boys_school "wikilink").M.R.でのものに限定されており、turboもT.M.R.のファンクラブと同等のものとなっていた。
 
@@ -35,19 +35,19 @@
       - 8月12日、1stアルバム『MAKES REVOLUTION』をリリース。
       - 11月11日、3rdシングル「HEART OF SWORD 〜夜明け前〜」をリリース。オリコン最高位は16位であったがアニメ「[るろうに剣心 -明治剣客浪漫譚-](https://ja.wikipedia.org/wiki/るろうに剣心_-明治剣客浪漫譚-_\(アニメ\) "wikilink")」エンディングテーマに起用されたことなどからロングセールスを果たし、多数の音楽番組に出演するきっかけを作る。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")
-      - 1月6日、以後8年半に及ぶライフワークとなるラジオ番組「[西川貴教のオールナイトニッポン](https://ja.wikipedia.org/wiki/西川貴教のオールナイトニッポン "wikilink")」が始まる。
+      - 1月6日、以後8年半に及ぶライフワークとなるラジオ番組「[西川貴教のオールナイトニッポン](../Page/西川貴教のオールナイトニッポン.md "wikilink")」が始まる。
       - 2月21日、2ndアルバム『restoration LEVEL→3』をリリース。
       - 4月21日、4thシングル「LEVEL 4」をリリース。
       - 7月1日、5thシングル「HIGH PRESSURE」をリリース。初のオリコンベスト10入りを果たす。
-      - 10月22日、6thシングル「WHITE BREATH」をリリース。初のオリコンシングルチャート1位を獲得し、[ミリオンセラー](https://ja.wikipedia.org/wiki/ミリオンセラー "wikilink")（約103万枚）を記録した。1つ目の約束を達成。
-      - 12月31日、「WHITE BREATH」で[紅白歌合戦に初出場した](https://ja.wikipedia.org/wiki/第48回NHK紅白歌合戦 "wikilink")。
+      - 10月22日、6thシングル「WHITE BREATH」をリリース。初のオリコンシングルチャート1位を獲得し、[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")（約103万枚）を記録した。1つ目の約束を達成。
+      - 12月31日、「WHITE BREATH」で[紅白歌合戦に初出場した](../Page/第48回NHK紅白歌合戦.md "wikilink")。
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")
       - 1月21日、3rdアルバム『triple joker』をリリース。ミリオンセラー（約250万枚）を記録した。2つ目の約束を達成。
       - 2月25日、7thシングル「蒼い霹靂〜JOG edit〜」をリリース。
       - 6月24日、8thシングル「HOT LIMIT」をリリース。2作目のオリコンシングルチャート1位を獲得。
       - 10月7日、9thシングル「THUNDERBIRD」をリリース。
       - 10月28日、10thシングル「Burnin' X'mas」をリリース。
-      - 12月31日、「THUNDERBIRD」で[紅白歌合戦に](https://ja.wikipedia.org/wiki/第49回NHK紅白歌合戦 "wikilink")2年連続で出場した。
+      - 12月31日、「THUNDERBIRD」で[紅白歌合戦に](../Page/第49回NHK紅白歌合戦.md "wikilink")2年連続で出場した。
   - [1999年](../Page/1999年.md "wikilink")
       - 2月3日、11thシングル「WILD RUSH」をリリース。
       - 3月10日、4thアルバム『THE FORCE』をリリース。
@@ -63,7 +63,7 @@
       - 11月17日、3rdシングル「雪幻-winter dust-」をリリース。
   - [2000年](../Page/2000年.md "wikilink")
       - 2月2日、T.M.R-eとしての一連のリリースの締めくくりとして、アルバム『Suite Season』をリリース。
-      - アリーナツアーを敢行。ミュージカル「リトルショップオブホラーズ」、[TBSドラマ](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")『[ビューティフルライフ](https://ja.wikipedia.org/wiki/ビューティフルライフ "wikilink")』へ出演した。
+      - アリーナツアーを敢行。ミュージカル「リトルショップオブホラーズ」、[TBSドラマ](../Page/TBSテレビ.md "wikilink")『[ビューティフルライフ](../Page/ビューティフルライフ.md "wikilink")』へ出演した。
       - 3月のライブにて「T.M.Revolutionの封印解除」を宣言。これによりT.M.R-eはその使命を終え、以後T.M.R.としての活動を再開する。
 
 ### T.M.Revolution 再始動
@@ -71,7 +71,7 @@
   - [2000年](../Page/2000年.md "wikilink")
       - 4月19日、12thシングル「BLACK OR WHITE? version3」をリリース。「浅倉大介expd.西川貴教」名義でリリースされた同名曲をリアレンジ。西川はこれを「T.M.R-eからT.M.R.への橋渡し」としており、「HEAT CAPACITY」が本当のT.M.R.再開を意味するシングルとしている。
       - 5月24日、13thシングル「HEAT CAPACITY」をリリース。
-      - 8月、夏の野外ライブ「SUMMER CRUSH」を[横浜スタジアム](https://ja.wikipedia.org/wiki/横浜スタジアム "wikilink")・[大阪](../Page/大阪.md "wikilink")WTCオープンエアステージなどで開催し数万人を動員。2002年にも会場を変え再び開催される。
+      - 8月、夏の野外ライブ「SUMMER CRUSH」を[横浜スタジアム](../Page/横浜スタジアム.md "wikilink")・[大阪](../Page/大阪.md "wikilink")WTCオープンエアステージなどで開催し数万人を動員。2002年にも会場を変え再び開催される。
       - 9月6日、14thシングル「魔弾 〜Der Freischütz〜/LOVE SAVER」をリリース。
       - 10月12日、5thアルバム『progress』をリリース。
   - [2001年](../Page/2001年.md "wikilink")
@@ -82,24 +82,24 @@
       - 10月30日、17thシングル「INVOKE」をリリース。
   - [2003年](../Page/2003年.md "wikilink")
       - 3月26日、6thアルバム『coordinate』をリリース。レーベル移籍前の最後のリリースとなる。
-      - 8月、デビュー時より所属していた[アンティノスレコード](https://ja.wikipedia.org/wiki/アンティノスレコード "wikilink")から[エピックレコードジャパン](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")へ移籍（アンティノスレコードは2002年にエピックレコードジャパンに吸収合併され同社の一レーベルとなり、2004年に運営終了）。なお、移籍後初のリリースは11月のDVD『SONIC WARP the Visual Fields』。
-      - 12月、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性ソロアーティストとしては初めての試みである、男性限定ライブを[渋谷](https://ja.wikipedia.org/wiki/渋谷 "wikilink")クラブクアトロで決行。以後、この男性限定ライブは毎年恒例となっている。
-  - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")
+      - 8月、デビュー時より所属していた[アンティノスレコード](https://ja.wikipedia.org/wiki/アンティノスレコード "wikilink")から[エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink")へ移籍（アンティノスレコードは2002年にエピックレコードジャパンに吸収合併され同社の一レーベルとなり、2004年に運営終了）。なお、移籍後初のリリースは11月のDVD『SONIC WARP the Visual Fields』。
+      - 12月、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性ソロアーティストとしては初めての試みである、男性限定ライブを[渋谷](../Page/渋谷.md "wikilink")クラブクアトロで決行。以後、この男性限定ライブは毎年恒例となっている。
+  - [2004年](../Page/2004年.md "wikilink")
       - 2月25日、18thシングル「Albireo -アルビレオ-」をリリース。移籍後初のシングル。
       - 3月17日、7thアルバム『SEVENTH HEAVEN』をリリース。
       - 7月28日、19thシングル「Web of Night」をリリース。
       - 11月3日、20thシングル「ignited -イグナイテッド-」をリリース。「HOT LIMIT」以来、6年ぶり、3作目のオリコンシングルチャート1位を獲得。また、同チャート史上900作目の1位獲得作品となった。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
       - 1月26日、8thアルバム『vertical infinity』をリリース。
       - 2005年から2006年末まで、T.M.Revolutionデビュー10周年として、様々な活動が行われた。
-          - 『西川貴教のオールナイトニッポン』プロデュースで、T.M.Revolutionの歴代の衣装を着た[ハローキティ](https://ja.wikipedia.org/wiki/ハローキティ "wikilink")との[コラボレーション](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")作品が全国の[東急ハンズ](https://ja.wikipedia.org/wiki/東急ハンズ "wikilink")・[ファミリーマート](https://ja.wikipedia.org/wiki/ファミリーマート "wikilink")で販売された。
-          - 8月17日、21stシングル「vestige -ヴェスティージ-」をリリース。4作目のオリコンシングルチャート1位を獲得。[新宿](https://ja.wikipedia.org/wiki/新宿 "wikilink")ステーションスクエアにて初のゲリラライブを決行。
-      - 12月31日、「WHITE BREATH」で7年ぶり3度目の[紅白歌合戦出場を果たした](https://ja.wikipedia.org/wiki/第56回NHK紅白歌合戦 "wikilink")。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")
+          - 『西川貴教のオールナイトニッポン』プロデュースで、T.M.Revolutionの歴代の衣装を着た[ハローキティ](../Page/ハローキティ.md "wikilink")との[コラボレーション](../Page/コラボレーション.md "wikilink")作品が全国の[東急ハンズ](../Page/東急ハンズ.md "wikilink")・[ファミリーマート](../Page/ファミリーマート.md "wikilink")で販売された。
+          - 8月17日、21stシングル「vestige -ヴェスティージ-」をリリース。4作目のオリコンシングルチャート1位を獲得。[新宿](../Page/新宿.md "wikilink")ステーションスクエアにて初のゲリラライブを決行。
+      - 12月31日、「WHITE BREATH」で7年ぶり3度目の[紅白歌合戦出場を果たした](../Page/第56回NHK紅白歌合戦.md "wikilink")。
+  - [2006年](../Page/2006年.md "wikilink")
       - 1月1日、リクエストセルフカバーベストアルバム『UNDER:COVER』をリリース。ファンからのリクエストを元に人気の高い曲をライブ風のリアレンジにて再収録。
       - デビュー記念日である5月13日には[ユニバーサル・スタジオ・ジャパン](https://ja.wikipedia.org/wiki/ユニバーサル・スタジオ・ジャパン "wikilink")にて記念パレードを行った。
       - 6月7日、ベストアルバム『1000000000000』をリリース。2作目のオリコンアルバムチャート1位を獲得。6月21日にはシングル22曲に加え、「Meteor -ミーティア-」「Zips」のPVを収録した同名ベストDVDも発売された。
-      - 8月に8年振りの[日本武道館](https://ja.wikipedia.org/wiki/日本武道館 "wikilink")、及び[大阪城ホール](https://ja.wikipedia.org/wiki/大阪城ホール "wikilink")でのライブが実現した。
+      - 8月に8年振りの[日本武道館](../Page/日本武道館.md "wikilink")、及び[大阪城ホール](../Page/大阪城ホール.md "wikilink")でのライブが実現した。
       - 西川の誕生日である9月19日には再びユニバーサル・スタジオ・ジャパンで、[ピーターパン](https://ja.wikipedia.org/wiki/ピーターパン "wikilink")のネバーランドとのコラボライブを行った。
       - 11月9日より東京・大阪・名古屋・仙台・福岡の5都市を巡る衣装展「TIME SLICE DECADE」を開催。
       - この年の年末恒例のファンクラブ会員限定ライブは過去最多の全10公演を敢行した。
@@ -114,19 +114,19 @@
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")
       - 3月3日、配信限定シングル「Lakers」をリリース。
       - 3月24日、『機動戦士ガンダムSEED』のタイアップ曲を収録したミニアルバム『X42S-REVOLUTION』をリリース。
-      - 5月13日、2011年に迎えるT.M.Revolutionデビュー15周年を記念して特設サイトが開設され、同時に西川による公式[Twitter](https://ja.wikipedia.org/wiki/Twitter "wikilink")が開始される。
+      - 5月13日、2011年に迎えるT.M.Revolutionデビュー15周年を記念して特設サイトが開設され、同時に西川による公式[Twitter](../Page/Twitter.md "wikilink")が開始される。
       - 8月11日、2年2か月振りとなる23rdシングル「Naked arms/SWORD SUMMIT」をリリース。両A面シングルは2000年の「魔弾 〜Der Freischütz〜/LOVE SAVER」以来9年11か月振り。
       - 9月18日・19日の2日間に「イナズマロックフェス2010」を昨年に引き続き開催。19日のステージでシークレットゲストとして浅倉大介が出演し、新曲「Pearl in the shell」と「SWORD SUMMIT」を共に披露した。西川と浅倉が共演したのは2000年以来10年振りのことである。
       - 12月1日、24thシングル「Save The One, Save The All」をリリース。
   - [2011年](../Page/2011年.md "wikilink")
       - 4月20日、6年振りとなる9thアルバム『CLOUD NINE』をリリース。
-      - 5月13日、[サンリオピューロランド](https://ja.wikipedia.org/wiki/サンリオピューロランド "wikilink")で、T.M.R.15th × Sanrio Puroland 20th Collaboration Event　「Thousands Morning Refrain ～僕らの夜明け～」と題したスペシャルイベントを開催。\[1\]
+      - 5月13日、[サンリオピューロランド](../Page/サンリオピューロランド.md "wikilink")で、T.M.R.15th × Sanrio Puroland 20th Collaboration Event　「Thousands Morning Refrain ～僕らの夜明け～」と題したスペシャルイベントを開催。\[1\]
       - 6月24日、25thシングル「FLAGS」をリリース。
       - 8月28日、[Animelo Summer Live](https://ja.wikipedia.org/wiki/Animelo_Summer_Live "wikilink") 2011-rainbow-にシークレットゲストとして初参加。
       - 11月16日、『戦国BASARA』のタイアップ曲を収録した2作目のミニアルバム『宴 -UTAGE-』をリリース。
   - [2013年](../Page/2013年.md "wikilink")
       - 2月27日、15周年記念としてリクエストセルフカバーベストアルバムの第2弾『UNDER:COVER 2』をリリース。
-      - 5月15日、[水樹奈々](https://ja.wikipedia.org/wiki/水樹奈々 "wikilink")とのコラボレーションシングル「[Preserved Roses](https://ja.wikipedia.org/wiki/Preserved_Roses "wikilink")」を**T.M.Revolution×水樹奈々**名義でリリース。
+      - 5月15日、[水樹奈々](../Page/水樹奈々.md "wikilink")とのコラボレーションシングル「[Preserved Roses](https://ja.wikipedia.org/wiki/Preserved_Roses "wikilink")」を**T.M.Revolution×水樹奈々**名義でリリース。
       - 8月7日、配信限定シングル「Summer Blizzard」をリリース。
       - 10月23日、水樹奈々とのコラボレーションシングル「[革命デュアリズム](https://ja.wikipedia.org/wiki/革命デュアリズム "wikilink")」を**水樹奈々×T.M.Revolution**名義でリリース。
       - 11月6日、配信限定シングル「HEAVEN ONLY KNOWS 〜Get the Power〜」をリリース。
@@ -185,7 +185,7 @@
 <tr class="odd">
 <td><p>3rd</p></td>
 <td><p>1996年<a href="../Page/11月11日.md" title="wikilink">11月11日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/HEART_OF_SWORD_〜夜明け前〜" title="wikilink">HEART OF SWORD 〜夜明け前〜</a></strong></p></td>
+<td><p><strong><a href="../Page/HEART_OF_SWORD_〜夜明け前〜.md" title="wikilink">HEART OF SWORD 〜夜明け前〜</a></strong></p></td>
 <td><p>作詞：井上秋緒<br />
 作曲：浅倉大介<br />
 編曲：浅倉大介</p></td>
@@ -194,7 +194,7 @@
 <tr class="even">
 <td><p>4th</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1997年" title="wikilink">1997年</a><a href="../Page/4月21日.md" title="wikilink">4月21日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/LEVEL_4_(曲)" title="wikilink">LEVEL 4</a></strong></p></td>
+<td><p><strong><a href="../Page/LEVEL_4_(曲).md" title="wikilink">LEVEL 4</a></strong></p></td>
 <td><p>作詞：井上秋緒<br />
 作曲：浅倉大介<br />
 編曲：浅倉大介</p></td>
@@ -203,7 +203,7 @@
 <tr class="odd">
 <td><p>5th</p></td>
 <td><p>1997年<a href="../Page/7月1日.md" title="wikilink">7月1日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/HIGH_PRESSURE" title="wikilink">HIGH PRESSURE</a></strong></p></td>
+<td><p><strong><a href="../Page/HIGH_PRESSURE.md" title="wikilink">HIGH PRESSURE</a></strong></p></td>
 <td><p>作詞：井上秋緒<br />
 作曲：浅倉大介<br />
 編曲：浅倉大介</p></td>
@@ -212,7 +212,7 @@
 <tr class="even">
 <td><p>6th</p></td>
 <td><p>1997年<a href="../Page/10月22日.md" title="wikilink">10月22日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/WHITE_BREATH" title="wikilink">WHITE BREATH</a></strong></p></td>
+<td><p><strong><a href="../Page/WHITE_BREATH.md" title="wikilink">WHITE BREATH</a></strong></p></td>
 <td><p>作詞：井上秋緒<br />
 作曲：浅倉大介<br />
 編曲：浅倉大介</p></td>
@@ -221,7 +221,7 @@
 <tr class="odd">
 <td><p>7th</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1998年" title="wikilink">1998年</a><a href="../Page/2月25日.md" title="wikilink">2月25日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/蒼い霹靂〜JOG_edit〜" title="wikilink">蒼い霹靂〜JOG edit〜</a></strong></p></td>
+<td><p><strong><a href="../Page/蒼い霹靂〜JOG_edit〜.md" title="wikilink">蒼い霹靂〜JOG edit〜</a></strong></p></td>
 <td><p>作詞：井上秋緒<br />
 作曲：浅倉大介<br />
 編曲：浅倉大介</p></td>
@@ -230,7 +230,7 @@
 <tr class="even">
 <td><p>8th</p></td>
 <td><p>1998年<a href="../Page/6月24日.md" title="wikilink">6月24日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/HOT_LIMIT" title="wikilink">HOT LIMIT</a></strong></p></td>
+<td><p><strong><a href="../Page/HOT_LIMIT.md" title="wikilink">HOT LIMIT</a></strong></p></td>
 <td><p>作詞：井上秋緒<br />
 作曲：浅倉大介<br />
 編曲：浅倉大介</p></td>
@@ -302,7 +302,7 @@
 <tr class="even">
 <td><p>16th</p></td>
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a><a href="../Page/2月20日.md" title="wikilink">2月20日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Out_Of_Orbit_-Triple_ZERO-" title="wikilink">Out Of Orbit 〜Triple ZERO〜</a></strong></p></td>
+<td><p><strong><a href="../Page/Out_Of_Orbit_-Triple_ZERO-.md" title="wikilink">Out Of Orbit 〜Triple ZERO〜</a></strong></p></td>
 <td><p>作詞：井上秋緒<br />
 作曲：浅倉大介<br />
 編曲：浅倉大介</p></td>
@@ -311,7 +311,7 @@
 <tr class="odd">
 <td><p>17th</p></td>
 <td><p>2002年<a href="../Page/10月30日.md" title="wikilink">10月30日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/INVOKE" title="wikilink">INVOKE</a></strong></p></td>
+<td><p><strong><a href="../Page/INVOKE.md" title="wikilink">INVOKE</a></strong></p></td>
 <td><p>作詞：井上秋緒<br />
 作曲：浅倉大介<br />
 編曲：浅倉大介</p></td>
@@ -319,7 +319,7 @@
 </tr>
 <tr class="even">
 <td><p>18th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2004年" title="wikilink">2004年</a><a href="../Page/2月25日.md" title="wikilink">2月25日</a></p></td>
+<td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><a href="../Page/2月25日.md" title="wikilink">2月25日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Albireo_-アルビレオ-" title="wikilink">Albireo -アルビレオ-</a></strong></p></td>
 <td><p>作詞：井上秋緒<br />
 作曲：浅倉大介<br />
@@ -346,7 +346,7 @@
 </tr>
 <tr class="odd">
 <td><p>21st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/8月17日.md" title="wikilink">8月17日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/8月17日.md" title="wikilink">8月17日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/vestige_-ヴェスティージ-" title="wikilink">vestige -ヴェスティージ-</a></strong></p></td>
 <td><p>作詞：井上秋緒<br />
 作曲：浅倉大介<br />
@@ -455,7 +455,7 @@
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p>1999年<a href="../Page/6月23日.md" title="wikilink">6月23日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/陽炎-KAGEROH-" title="wikilink">陽炎-KAGEROH-</a></strong></p></td>
+<td><p><strong><a href="../Page/陽炎-KAGEROH-.md" title="wikilink">陽炎-KAGEROH-</a></strong></p></td>
 <td><p>作詞：井上秋緒<br />
 作曲：浅倉大介<br />
 編曲：浅倉大介</p></td>
@@ -464,7 +464,7 @@
 <tr class="even">
 <td><p>2nd</p></td>
 <td><p>1999年<a href="../Page/9月22日.md" title="wikilink">9月22日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/月虹-GEKKOH-" title="wikilink">月虹-GEKKOH-</a></strong></p></td>
+<td><p><strong><a href="../Page/月虹-GEKKOH-.md" title="wikilink">月虹-GEKKOH-</a></strong></p></td>
 <td><p>作詞：井上秋緒<br />
 作曲：浅倉大介<br />
 編曲：浅倉大介</p></td>
@@ -473,7 +473,7 @@
 <tr class="odd">
 <td><p>3rd</p></td>
 <td><p>1999年<a href="../Page/11月17日.md" title="wikilink">11月17日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/雪幻-winter_dust-" title="wikilink">雪幻-winter dust-</a></strong></p></td>
+<td><p><strong><a href="../Page/雪幻-winter_dust-.md" title="wikilink">雪幻-winter dust-</a></strong></p></td>
 <td><p>作詞：井上秋緒<br />
 作曲：浅倉大介<br />
 編曲：浅倉大介</p></td>
@@ -604,10 +604,10 @@
 
 |      | 発売日                                                                                         | タイトル                                                                                                  | 最高位 |
 | ---- | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | --- |
-| 1st  | 1996年[8月12日](../Page/8月12日.md "wikilink")                                                   | **[MAKES REVOLUTION](https://ja.wikipedia.org/wiki/MAKES_REVOLUTION "wikilink")**                     | 20位 |
+| 1st  | 1996年[8月12日](../Page/8月12日.md "wikilink")                                                   | **[MAKES REVOLUTION](../Page/MAKES_REVOLUTION.md "wikilink")**                                        | 20位 |
 | 2nd  | 1997年[2月21日](../Page/2月21日.md "wikilink")                                                   | **[restoration LEVEL→3](https://ja.wikipedia.org/wiki/restoration_LEVEL→3 "wikilink")**               | 5位  |
 | 3rd  | 1998年[1月21日](../Page/1月21日.md "wikilink")                                                   | **[triple joker](https://ja.wikipedia.org/wiki/triple_joker "wikilink")**                             | 1位※ |
-| 4th  | 1999年[3月10日](../Page/3月10日.md "wikilink")                                                   | **[The Force](https://ja.wikipedia.org/wiki/The_Force "wikilink")**                                   | 2位※ |
+| 4th  | 1999年[3月10日](../Page/3月10日.md "wikilink")                                                   | **[The Force](../Page/The_Force.md "wikilink")**                                                      | 2位※ |
 | 5th  | 2000年[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")                              | **[progress](https://ja.wikipedia.org/wiki/progress_\(T.M.Revolutionのアルバム\) "wikilink")**             | 3位※ |
 | 6th  | [2003年](../Page/2003年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink") | **[coordinate](https://ja.wikipedia.org/wiki/coordinate "wikilink")**                                 | 9位※ |
 | 7th  | 2004年[3月17日](../Page/3月17日.md "wikilink")                                                   | **[SEVENTH HEAVEN](https://ja.wikipedia.org/wiki/SEVENTH_HEAVEN_\(T.M.Revolutionのアルバム\) "wikilink")** | 6位★ |
@@ -617,9 +617,9 @@
 
 **the end of genesis T.M.R.evolution turbo type D**
 
-|     | 発売日                                     | タイトル                                                                      | 最高位 |
-| --- | --------------------------------------- | ------------------------------------------------------------------------- | --- |
-| 1st | 2000年[2月2日](../Page/2月2日.md "wikilink") | **[Suite Season](https://ja.wikipedia.org/wiki/Suite_Season "wikilink")** | 2位※ |
+|     | 発売日                                     | タイトル                                                   | 最高位 |
+| --- | --------------------------------------- | ------------------------------------------------------ | --- |
+| 1st | 2000年[2月2日](../Page/2月2日.md "wikilink") | **[Suite Season](../Page/Suite_Season.md "wikilink")** | 2位※ |
 
 #### ミニアルバム
 
@@ -630,11 +630,11 @@
 
 #### ベストアルバム
 
-|     | 発売日                                                                                       | タイトル                                                                                                                    | 最高位 |
-| --- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | --- |
-| 1st | 2002年[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")                                | **[B★E★S★T](https://ja.wikipedia.org/wiki/B★E★S★T "wikilink")**                                                         | 4位※ |
-| 2nd | [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[6月7日](../Page/6月7日.md "wikilink") | **[1000000000000](https://ja.wikipedia.org/wiki/1000000000000_\(アルバム\) "wikilink")**                                    | 1位  |
-| 3rd | 2016年[5月11日](../Page/5月11日.md "wikilink")                                                 | **[2020 -T.M.Revolution ALL TIME BEST-](https://ja.wikipedia.org/wiki/2020_-T.M.Revolution_ALL_TIME_BEST- "wikilink")** | 1位  |
+|     | 発売日                                                                    | タイトル                                                                                                                    | 最高位 |
+| --- | ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | --- |
+| 1st | 2002年[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")             | **[B★E★S★T](../Page/B★E★S★T.md "wikilink")**                                                                            | 4位※ |
+| 2nd | [2006年](../Page/2006年.md "wikilink")[6月7日](../Page/6月7日.md "wikilink") | **[1000000000000](../Page/1000000000000_\(アルバム\).md "wikilink")**                                                       | 1位  |
+| 3rd | 2016年[5月11日](../Page/5月11日.md "wikilink")                              | **[2020 -T.M.Revolution ALL TIME BEST-](https://ja.wikipedia.org/wiki/2020_-T.M.Revolution_ALL_TIME_BEST- "wikilink")** | 1位  |
 
 #### コンピレーションアルバム
 
@@ -650,10 +650,10 @@
 
 #### リクエストセルフカバーベストアルバム
 
-|     | 発売日                                                        | タイトル                                                                        | 最高位 |
-| --- | ---------------------------------------------------------- | --------------------------------------------------------------------------- | --- |
-| 1st | 2006年[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink") | **[UNDER:COVER](https://ja.wikipedia.org/wiki/UNDER:COVER "wikilink")**     | 8位  |
-| 2nd | 2013年[2月27日](../Page/2月27日.md "wikilink")                  | **[UNDER:COVER 2](https://ja.wikipedia.org/wiki/UNDER:COVER_2 "wikilink")** | 4位  |
+|     | 発売日                                       | タイトル                                                                        | 最高位 |
+| --- | ----------------------------------------- | --------------------------------------------------------------------------- | --- |
+| 1st | 2006年[1月1日](../Page/1月1日.md "wikilink")   | **[UNDER:COVER](../Page/UNDER:COVER.md "wikilink")**                        | 8位  |
+| 2nd | 2013年[2月27日](../Page/2月27日.md "wikilink") | **[UNDER:COVER 2](https://ja.wikipedia.org/wiki/UNDER:COVER_2 "wikilink")** | 4位  |
 
 #### ライブアルバム
 
@@ -678,8 +678,8 @@
 
   - [DAynamite Mix Juice1-you know beat?-](https://ja.wikipedia.org/wiki/DAynamite_Mix_Juice1-you_know_beat?- "wikilink")（2000年[7月19日](../Page/7月19日.md "wikilink")）
       - 浅倉大介プロデュース楽曲のリミックスコンピレーションアルバム。T.M.R.から5曲、T.M.R-eから1曲参加。
-  - [Lif-e-Motions](https://ja.wikipedia.org/wiki/Lif-e-Motions "wikilink")（2006年[2月15日](../Page/2月15日.md "wikilink")）
-      - [TRF](https://ja.wikipedia.org/wiki/TRF "wikilink")の9thアルバム。Disc2『Silver and Gold dance -meets T.M.Revolution-』で参加。
+  - [Lif-e-Motions](../Page/Lif-e-Motions.md "wikilink")（2006年[2月15日](../Page/2月15日.md "wikilink")）
+      - [TRF](../Page/TRF.md "wikilink")の9thアルバム。Disc2『Silver and Gold dance -meets T.M.Revolution-』で参加。
 
 #### CD-ROM
 
@@ -707,7 +707,7 @@
 7.  T.M.R.LIVE REVOLUTION'02 -B★E★S★T- SPECIAL -SUMMER CRUSH 2002-（2002年[2月14日](../Page/2月14日.md "wikilink")）◆
       - ここまでが[アンティノスレコード](https://ja.wikipedia.org/wiki/アンティノスレコード "wikilink")での作品。以上全てのDVDは当初、一般のCDアルバムに採用されるようなCDケースサイズの形で発売されていたが、後にエピックレコードよりトールケース仕様で大幅に値下げされて再発売された。
 8.  SONIC WARP the Visual Fields（2003年11月19日）●◆
-      - [エピックレコードに移籍して初めての作品](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")。「SONIC WARP」という名前は、自身のソニー（ソニー・ミュージックエンタテインメント）内移籍をもじったもの。
+      - [エピックレコードに移籍して初めての作品](../Page/エピックレコードジャパン.md "wikilink")。「SONIC WARP」という名前は、自身のソニー（ソニー・ミュージックエンタテインメント）内移籍をもじったもの。
 9.  T.M.Revolution SEVENTH HEAVEN T.M.R.LIVE REVOLUTION'04（2005年[3月24日](../Page/3月24日.md "wikilink")）◆
 10. [10th Anniversary Complete Visual Collection of T.M.Revolution『1000000000000』-billion-](https://ja.wikipedia.org/wiki/1000000000000_\(アルバム\)#10th_Anniversary_Complete_Visual_Collection_of_T.M.Revolution『1000000000000』-billion- "wikilink")（2006年[6月21日](../Page/6月21日.md "wikilink")）●
 11. T.M.Revolution T.M.R.LIVE REVOLUTION'06-UNDER:COVER-（2007年[4月18日](../Page/4月18日.md "wikilink")）◆
@@ -763,7 +763,7 @@
 
   - るろうに剣心-明治剣客浪漫譚-維新激闘編オリジナル・サウンドトラック（1996年[12月12日](../Page/12月12日.md "wikilink")）
   - るろうに剣心-明治剣客浪漫譚-オリジナル・サウンドトラック 3（1997年[4月21日](../Page/4月21日.md "wikilink")）
-  - るろうに剣心-明治剣客浪漫譚-ベスト・テーマ・コレクション（1998年[3月21日](https://ja.wikipedia.org/wiki/3月21日 "wikilink")）
+  - るろうに剣心-明治剣客浪漫譚-ベスト・テーマ・コレクション（1998年[3月21日](../Page/3月21日.md "wikilink")）
   - るろうに剣心-明治剣客浪漫譚-Premium Collection（1999[12月18日](../Page/12月18日.md "wikilink")）
   - るろうに剣心-明治剣客浪漫譚-COMPLETE CD-BOX（2002年[9月19日](../Page/9月19日.md "wikilink")）
   - 機動戦士ガンダムSEED ORIGINAL SOUNDTRACK 3（2003年[9月21日](../Page/9月21日.md "wikilink")）
@@ -814,20 +814,20 @@
       - T.M.R.LIVE REVOLUTION'03 -satellite-
       - T.M.R.YEAR COUNT DOWN PARTY LIVE REVOLUTION REMIX VII
       - T.M.R.LIVE REVOLUTION'03 -Strikes Back-\[6\]
-  - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")
+  - [2004年](../Page/2004年.md "wikilink")
       - T.M.R.LIVE REVOLUTION'04 -SEVENTH HEAVEN-
       - T.M.R.YEAR COUNT DOWN PARTY LIVE REVOLUTION REMIX VIII
       - T.M.R.LIVE REVOLUTION'04 -Strikes Back II-\[7\]
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
       - T.M.R.LIVE REVOLUTION'05 -vertical infinity-
       - T.M.R.YEAR COUNT DOWN PARTY LIVE REVOLUTION REMIX IX
       - T.M.R.LIVE REVOLUTION'05 -Strikes Back III-\[8\]
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")
+  - [2006年](../Page/2006年.md "wikilink")
       - T.M.R.LIVE REVOLUTION'06 -UNDER:COVER-
       - T.M.R.LIVE REVOLUTION'06 -UNDER:COVER- ARENA STYLE Version
       - T.M.R.YEAR COUNT DOWN PARTY LIVE REVOLUTION REMIX X
       - T.M.R.LIVE REVOLUTION'06 -Strikes Back IV-\[9\]
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")
+  - [2007年](../Page/2007年.md "wikilink")
       - T.M.R.YEAR COUNT DOWN PARTY LIVE REVOLUTION REMIX XI
       - T.M.R.LIVE REVOLUTION'07 -Strikes Back V-\[10\]
       - T.M.R.YEAR COUNT DOWN PARTY '07-'08 LIVE REVOLUTION REMIX XI（年越しライブ。入場者制限を設けず、一般枠にも開放）
@@ -874,52 +874,52 @@
 
 ### サポートメンバー
 
-  - [ギター](https://ja.wikipedia.org/wiki/ギター "wikilink")
-      - [葛城哲哉](https://ja.wikipedia.org/wiki/葛城哲哉 "wikilink") (1996年)
-      - [JAKE](https://ja.wikipedia.org/wiki/JAKE "wikilink") (1995年、1998年〜1999年2月) (ex.[GUNIW TOOLS](https://ja.wikipedia.org/wiki/GUNIW_TOOLS "wikilink"))
+  - [ギター](../Page/ギター.md "wikilink")
+      - [葛城哲哉](../Page/葛城哲哉.md "wikilink") (1996年)
+      - [JAKE](https://ja.wikipedia.org/wiki/JAKE "wikilink") (1995年、1998年〜1999年2月) (ex.[GUNIW TOOLS](../Page/GUNIW_TOOLS.md "wikilink"))
       - [一戸賢司](https://ja.wikipedia.org/wiki/一戸賢司 "wikilink")(1996年〜1997年4月)
-      - [西尾智浩](https://ja.wikipedia.org/wiki/西尾智浩 "wikilink")(1996年8月〜1997年4月)(ex.[JUSTY-NASTY](https://ja.wikipedia.org/wiki/JUSTY-NASTY "wikilink"))
+      - [西尾智浩](https://ja.wikipedia.org/wiki/西尾智浩 "wikilink")(1996年8月〜1997年4月)(ex.[JUSTY-NASTY](../Page/JUSTY-NASTY.md "wikilink"))
       - [後藤孝顕](https://ja.wikipedia.org/wiki/後藤孝顕 "wikilink")(1997年8月〜12月)
       - [伊東正](https://ja.wikipedia.org/wiki/伊東正 "wikilink")(1997年11月〜1998年4月)
       - [大橋イサム](https://ja.wikipedia.org/wiki/大橋イサム "wikilink")（1998年〜2001年）
-      - [SUNAO](https://ja.wikipedia.org/wiki/SUNAO "wikilink")（1998年7月〜1999年2月、2000年8月〜2014年）([abingdon boys school](https://ja.wikipedia.org/wiki/abingdon_boys_school "wikilink"))
-      - [柴崎浩](https://ja.wikipedia.org/wiki/柴崎浩 "wikilink")（2004年〜）(ex.[WANDS](https://ja.wikipedia.org/wiki/WANDS "wikilink")、[abingdon boys school](https://ja.wikipedia.org/wiki/abingdon_boys_school "wikilink")）
+      - [SUNAO](../Page/SUNAO.md "wikilink")（1998年7月〜1999年2月、2000年8月〜2014年）([abingdon boys school](https://ja.wikipedia.org/wiki/abingdon_boys_school "wikilink"))
+      - [柴崎浩](../Page/柴崎浩.md "wikilink")（2004年〜）(ex.[WANDS](../Page/WANDS.md "wikilink")、[abingdon boys school](https://ja.wikipedia.org/wiki/abingdon_boys_school "wikilink")）
       - [Leda](https://ja.wikipedia.org/wiki/Leda_\(ギタリスト\) "wikilink")（2013年4月）（ex.[DELUHI](https://ja.wikipedia.org/wiki/DELUHI "wikilink")）
       - [菰口雄矢](https://ja.wikipedia.org/wiki/菰口雄矢 "wikilink")（2015年〜)
 
 <!-- end list -->
 
-  - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
       - [白須衛治](https://ja.wikipedia.org/wiki/白須衛治 "wikilink")（1995年〜1999年10月）
       - [山田章典](https://ja.wikipedia.org/wiki/山田章典 "wikilink")(1999年11月）〜2004年）
-      - [Ikuo](https://ja.wikipedia.org/wiki/Ikuo "wikilink")（2005年〜）([BULL ZEICHEN 88](https://ja.wikipedia.org/wiki/BULL_ZEICHEN_88 "wikilink")、[Rayflower](https://ja.wikipedia.org/wiki/Rayflower "wikilink")、[Mitsuru Matsuoka EARNEST DRIVE](https://ja.wikipedia.org/wiki/Mitsuru_Matsuoka_EARNEST_DRIVE "wikilink"))
+      - [Ikuo](../Page/Ikuo.md "wikilink")（2005年〜）([BULL ZEICHEN 88](../Page/BULL_ZEICHEN_88.md "wikilink")、[Rayflower](https://ja.wikipedia.org/wiki/Rayflower "wikilink")、[Mitsuru Matsuoka EARNEST DRIVE](https://ja.wikipedia.org/wiki/Mitsuru_Matsuoka_EARNEST_DRIVE "wikilink"))
 
 <!-- end list -->
 
-  - [ドラム](https://ja.wikipedia.org/wiki/ドラムセット "wikilink")
+  - [ドラム](../Page/ドラムセット.md "wikilink")
       - [大光亘](https://ja.wikipedia.org/wiki/大光亘 "wikilink")（1995年〜1996年5月）
       - [柴田尚](https://ja.wikipedia.org/wiki/柴田尚 "wikilink")（1996年5月〜1997年）
-      - [EBY](https://ja.wikipedia.org/wiki/EBY "wikilink")（1998年〜2000年4月）（ex.[ZI:KILL](https://ja.wikipedia.org/wiki/ZI:KILL "wikilink")）
-      - [上領亘](https://ja.wikipedia.org/wiki/上領亘 "wikilink")（2000年7月〜8月）（ex.[GRASS VALLEY](https://ja.wikipedia.org/wiki/GRASS_VALLEY "wikilink")、[SOFT BALLET](https://ja.wikipedia.org/wiki/SOFT_BALLET "wikilink"))
-      - [渡辺豊](https://ja.wikipedia.org/wiki/渡辺豊 "wikilink")（2000年8月〜2003年）
-      - [淳士](https://ja.wikipedia.org/wiki/淳士 "wikilink")（2004年〜2007年）（[SIAM SHADE](https://ja.wikipedia.org/wiki/SIAM_SHADE "wikilink")、[BULL ZEICHEN 88](https://ja.wikipedia.org/wiki/BULL_ZEICHEN_88 "wikilink")、Mitsuru Matsuoka EARNEST DRIVE）
-      - [JOE](https://ja.wikipedia.org/wiki/JOE_\(ドラマー\) "wikilink")（2008年）（ex.[SEX MACHINEGUNS](https://ja.wikipedia.org/wiki/SEX_MACHINEGUNS "wikilink")、[DASEIN](https://ja.wikipedia.org/wiki/DASEIN "wikilink")）
-      - [長谷川浩二](https://ja.wikipedia.org/wiki/長谷川浩二 "wikilink")（2008年9月〜2014年）
+      - [EBY](https://ja.wikipedia.org/wiki/EBY "wikilink")（1998年〜2000年4月）（ex.[ZI:KILL](../Page/ZI:KILL.md "wikilink")）
+      - [上領亘](../Page/上領亘.md "wikilink")（2000年7月〜8月）（ex.[GRASS VALLEY](https://ja.wikipedia.org/wiki/GRASS_VALLEY "wikilink")、[SOFT BALLET](../Page/SOFT_BALLET.md "wikilink"))
+      - [渡辺豊](../Page/渡辺豊.md "wikilink")（2000年8月〜2003年）
+      - [淳士](../Page/淳士.md "wikilink")（2004年〜2007年）（[SIAM SHADE](../Page/SIAM_SHADE.md "wikilink")、[BULL ZEICHEN 88](../Page/BULL_ZEICHEN_88.md "wikilink")、Mitsuru Matsuoka EARNEST DRIVE）
+      - [JOE](../Page/JOE_\(ドラマー\).md "wikilink")（2008年）（ex.[SEX MACHINEGUNS](../Page/SEX_MACHINEGUNS.md "wikilink")、[DASEIN](../Page/DASEIN.md "wikilink")）
+      - [長谷川浩二](../Page/長谷川浩二.md "wikilink")（2008年9月〜2014年）
       - [SASSY](https://ja.wikipedia.org/wiki/SASSY "wikilink")（2013年）（元[HIGH and MIGHTY COLOR](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")、[INKT](https://ja.wikipedia.org/wiki/INKT "wikilink")）
       - [山崎慶](https://ja.wikipedia.org/wiki/山崎慶 "wikilink")（2015年〜)
 
 <!-- end list -->
 
-  - [キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")
-      - [浅倉大介](https://ja.wikipedia.org/wiki/浅倉大介 "wikilink")（1995年〜1996年8月、1999年3月～2000年4月）([access](https://ja.wikipedia.org/wiki/access_\(音楽ユニット\) "wikilink"))
+  - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")
+      - [浅倉大介](../Page/浅倉大介.md "wikilink")（1995年〜1996年8月、1999年3月～2000年4月）([access](https://ja.wikipedia.org/wiki/access_\(音楽ユニット\) "wikilink"))
       - [菅原旭成](https://ja.wikipedia.org/wiki/菅原旭成 "wikilink")（1996年12月)
       - [至今日太](https://ja.wikipedia.org/wiki/至今日太 "wikilink")（1997年8月)
       - [青木庸和](https://ja.wikipedia.org/wiki/青木庸和 "wikilink")（1997年11月〜1999年2月）
-      - [大島こうすけ](https://ja.wikipedia.org/wiki/大島こうすけ "wikilink")（2011年〜 ※不定期、2016年〜) (元[WANDS](https://ja.wikipedia.org/wiki/WANDS "wikilink"))
+      - [大島こうすけ](../Page/大島こうすけ.md "wikilink")（2011年〜 ※不定期、2016年〜) (元[WANDS](../Page/WANDS.md "wikilink"))
 
 <!-- end list -->
 
-  - [マニピュレーター](https://ja.wikipedia.org/wiki/マニピュレーター "wikilink")
+  - [マニピュレーター](../Page/マニピュレーター.md "wikilink")
       - 鈴木覚（2002年〜）
 
 ## タイアップ一覧
@@ -934,7 +934,7 @@
 <tbody>
 <tr class="odd">
 <td><p>独裁 -monopolize-</p></td>
-<td><p>TV番組「<a href="https://ja.wikipedia.org/wiki/週刊スタミナ天国" title="wikilink">週刊スタミナ天国</a>」OPテーマソング</p></td>
+<td><p>TV番組「<a href="../Page/週刊スタミナ天国.md" title="wikilink">週刊スタミナ天国</a>」OPテーマソング</p></td>
 </tr>
 <tr class="even">
 <td><p>臍淑女 〜ヴィーナス〜</p></td>
@@ -946,11 +946,11 @@
 </tr>
 <tr class="even">
 <td><p>LEVEL 4</p></td>
-<td><p>ゲームソフト「<a href="https://ja.wikipedia.org/wiki/モータートゥーン・グランプリ" title="wikilink">モータートゥーン・グランプリ</a>」CMソング</p></td>
+<td><p>ゲームソフト「<a href="../Page/モータートゥーン・グランプリ.md" title="wikilink">モータートゥーン・グランプリ</a>」CMソング</p></td>
 </tr>
 <tr class="odd">
 <td><p>HIGH PRESSURE</p></td>
-<td><p>CM「<a href="https://ja.wikipedia.org/wiki/ロッテ" title="wikilink">ロッテ</a>・Sweetieアイス」テーマソング</p></td>
+<td><p>CM「<a href="../Page/ロッテ.md" title="wikilink">ロッテ</a>・Sweetieアイス」テーマソング</p></td>
 </tr>
 <tr class="even">
 <td><p>WHITE BREATH</p></td>
@@ -958,19 +958,19 @@
 </tr>
 <tr class="odd">
 <td><p>MID-NITE WARRIORS</p></td>
-<td><p>ラジオ番組「<a href="https://ja.wikipedia.org/wiki/岩男潤子と荘口彰久のスーパーアニメガヒットTOP10" title="wikilink">岩男潤子と荘口彰久のスーパーアニメガヒットTOP10</a>」テーマソング</p></td>
+<td><p>ラジオ番組「<a href="../Page/岩男潤子と荘口彰久のスーパーアニメガヒットTOP10.md" title="wikilink">岩男潤子と荘口彰久のスーパーアニメガヒットTOP10</a>」テーマソング</p></td>
 </tr>
 <tr class="even">
 <td><p>蒼い霹靂 〜JOG Edit〜</p></td>
-<td><p>CM「<a href="https://ja.wikipedia.org/wiki/ヤマハ・ジョグ" title="wikilink">ヤマハ・ジョグ</a>」テーマソング・西川貴教出演</p></td>
+<td><p>CM「<a href="../Page/ヤマハ・ジョグ.md" title="wikilink">ヤマハ・ジョグ</a>」テーマソング・西川貴教出演</p></td>
 </tr>
 <tr class="odd">
 <td><p>HOT LIMIT</p></td>
-<td><p>CM「<a href="https://ja.wikipedia.org/wiki/アサヒ飲料" title="wikilink">アサヒ飲料</a>・<a href="https://ja.wikipedia.org/wiki/三ツ矢サイダー" title="wikilink">三ツ矢サイダー</a>」テーマソング</p></td>
+<td><p>CM「<a href="../Page/アサヒ飲料.md" title="wikilink">アサヒ飲料</a>・<a href="../Page/三ツ矢サイダー.md" title="wikilink">三ツ矢サイダー</a>」テーマソング</p></td>
 </tr>
 <tr class="even">
 <td><p>THUNDERBIRD</p></td>
-<td><p>TV番組「<a href="https://ja.wikipedia.org/wiki/日立_世界・ふしぎ発見!" title="wikilink">日立 世界・ふしぎ発見!</a>」EDテーマソング</p></td>
+<td><p>TV番組「<a href="../Page/日立_世界・ふしぎ発見!.md" title="wikilink">日立 世界・ふしぎ発見!</a>」EDテーマソング</p></td>
 </tr>
 <tr class="odd">
 <td><p>WILD RUSH</p></td>
@@ -982,7 +982,7 @@
 </tr>
 <tr class="odd">
 <td><p>LOVE SAVER</p></td>
-<td><p>TV番組「<a href="https://ja.wikipedia.org/wiki/スーパーサッカー_(TBSのサッカー番組)" title="wikilink">スーパーサッカー</a>」テーマソング</p></td>
+<td><p>TV番組「<a href="../Page/スーパーサッカー_(TBSのサッカー番組).md" title="wikilink">スーパーサッカー</a>」テーマソング</p></td>
 </tr>
 <tr class="even">
 <td><p>BOARDING</p></td>
@@ -990,12 +990,12 @@
 </tr>
 <tr class="odd">
 <td><p>BRIGADE</p></td>
-<td><p>映画・日本公開版「<a href="https://ja.wikipedia.org/wiki/ダイナソー" title="wikilink">ダイナソー</a>」SPECIAL INSPIRING SONG（劇場にて上映前に使用）</p></td>
+<td><p>映画・日本公開版「<a href="../Page/ダイナソー.md" title="wikilink">ダイナソー</a>」SPECIAL INSPIRING SONG（劇場にて上映前に使用）</p></td>
 </tr>
 <tr class="even">
 <td><p>INVOKE -インヴォーク-</p></td>
 <td><p>TVアニメ「<a href="../Page/機動戦士ガンダムSEED.md" title="wikilink">機動戦士ガンダムSEED</a>」OPテーマソング<br />
-ゲームソフト「<a href="https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_連合vs.Z.A.F.T." title="wikilink">機動戦士ガンダムSEED 連合vs.Z.A.F.T.</a>」OPテーマソング</p></td>
+ゲームソフト「<a href="../Page/機動戦士ガンダムSEED_連合vs.Z.A.F.T..md" title="wikilink">機動戦士ガンダムSEED 連合vs.Z.A.F.T.</a>」OPテーマソング</p></td>
 </tr>
 <tr class="odd">
 <td><p>Meteor -ミーティア-</p></td>
@@ -1004,11 +1004,11 @@ TVアニメ「機動戦士ガンダムSEED DESTINY」挿入歌</p></td>
 </tr>
 <tr class="even">
 <td><p>Albireo -アルビレオ-</p></td>
-<td><p>TV番組「<a href="https://ja.wikipedia.org/wiki/AX_MUSIC-TV" title="wikilink">AX MUSIC-TV</a>」AX POWER PLAY #049</p></td>
+<td><p>TV番組「<a href="../Page/AX_MUSIC-TV.md" title="wikilink">AX MUSIC-TV</a>」AX POWER PLAY #049</p></td>
 </tr>
 <tr class="odd">
 <td><p>Zips</p></td>
-<td><p>玩具「<a href="https://ja.wikipedia.org/wiki/ガンダムSEED_MSV" title="wikilink">ガンダムSEED MSV</a>」テーマソング<br />
+<td><p>玩具「<a href="../Page/ガンダムSEED_MSV.md" title="wikilink">ガンダムSEED MSV</a>」テーマソング<br />
 ゲームソフト「<a href="https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_終わらない明日へ" title="wikilink">機動戦士ガンダムSEED 終わらない明日へ</a>」テーマソング<br />
 アニメ「機動戦士ガンダムSEED スペシャルエディションI 『虚空の戦場』」挿入歌<br />
 アニメ「機動戦士ガンダムSEED DESTINY スペシャルエディション 『砕かれた世界』」挿入歌<br />
@@ -1016,16 +1016,16 @@ TVアニメ「機動戦士ガンダムSEED DESTINY」挿入歌</p></td>
 </tr>
 <tr class="even">
 <td><p>Wheel of fortune</p></td>
-<td><p>TV番組「<a href="https://ja.wikipedia.org/wiki/フォーミュラ・ニッポン" title="wikilink">Formula Nippon</a>」テーマソング</p></td>
+<td><p>TV番組「<a href="../Page/フォーミュラ・ニッポン.md" title="wikilink">Formula Nippon</a>」テーマソング</p></td>
 </tr>
 <tr class="odd">
 <td><p>Web of Night (English Version)</p></td>
-<td><p>映画・日本公開版「<a href="https://ja.wikipedia.org/wiki/スパイダーマン2" title="wikilink">スパイダーマン2</a>」テーマソング</p></td>
+<td><p>映画・日本公開版「<a href="../Page/スパイダーマン2.md" title="wikilink">スパイダーマン2</a>」テーマソング</p></td>
 </tr>
 <tr class="even">
 <td><p>ignited -イグナイテッド-</p></td>
-<td><p>TVアニメ「<a href="https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_DESTINY" title="wikilink">機動戦士ガンダムSEED DESTINY</a>」OPテーマソング<br />
-ゲームソフト「<a href="https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_DESTINY_連合vs.Z.A.F.T.II" title="wikilink">機動戦士ガンダムSEED DESTINY 連合vs.Z.A.F.T.II</a>」OPテーマソング</p></td>
+<td><p>TVアニメ「<a href="../Page/機動戦士ガンダムSEED_DESTINY.md" title="wikilink">機動戦士ガンダムSEED DESTINY</a>」OPテーマソング<br />
+ゲームソフト「<a href="../Page/機動戦士ガンダムSEED_DESTINY_連合vs.Z.A.F.T.II.md" title="wikilink">機動戦士ガンダムSEED DESTINY 連合vs.Z.A.F.T.II</a>」OPテーマソング</p></td>
 </tr>
 <tr class="odd">
 <td><p>CHASE/THE THRILL</p></td>
@@ -1037,10 +1037,10 @@ TVアニメ「機動戦士ガンダムSEED DESTINY」挿入歌</p></td>
 </tr>
 <tr class="odd">
 <td><p>crosswise</p></td>
-<td><p>ゲームソフト「<a href="https://ja.wikipedia.org/wiki/戦国BASARA" title="wikilink">戦国BASARA</a>」「戦国BASARA X」テーマソング</p></td>
+<td><p>ゲームソフト「<a href="../Page/戦国BASARA.md" title="wikilink">戦国BASARA</a>」「戦国BASARA X」テーマソング</p></td>
 </tr>
 <tr class="even">
-<td><p>Zips （<a href="https://ja.wikipedia.org/wiki/UNDER:COVER" title="wikilink">UNDER:COVER</a>収録版）</p></td>
+<td><p>Zips （<a href="../Page/UNDER:COVER.md" title="wikilink">UNDER:COVER</a>収録版）</p></td>
 <td><p>アニメ「機動戦士ガンダムSEED DESTINY スペシャルエディションI 『砕かれた世界』」DVD収録版・挿入歌</p></td>
 </tr>
 <tr class="odd">
@@ -1057,15 +1057,15 @@ TVアニメ「機動戦士ガンダムSEED DESTINY」挿入歌</p></td>
 </tr>
 <tr class="even">
 <td><p>Lakers</p></td>
-<td><p>「第65回<a href="https://ja.wikipedia.org/wiki/びわ湖毎日マラソン" title="wikilink">びわ湖毎日マラソン</a>大会」イメージソング</p></td>
+<td><p>「第65回<a href="../Page/びわ湖毎日マラソン.md" title="wikilink">びわ湖毎日マラソン</a>大会」イメージソング</p></td>
 </tr>
 <tr class="odd">
 <td><p>Naked arms</p></td>
-<td><p>ゲームソフト「<a href="https://ja.wikipedia.org/wiki/戦国BASARA" title="wikilink">戦国BASARA</a>3」OPテーマソング</p></td>
+<td><p>ゲームソフト「<a href="../Page/戦国BASARA.md" title="wikilink">戦国BASARA</a>3」OPテーマソング</p></td>
 </tr>
 <tr class="even">
 <td><p>SWORD SUMMIT</p></td>
-<td><p>TVアニメ「<a href="https://ja.wikipedia.org/wiki/戦国BASARA" title="wikilink">戦国BASARA</a>弐」OPテーマソング</p></td>
+<td><p>TVアニメ「<a href="../Page/戦国BASARA.md" title="wikilink">戦国BASARA</a>弐」OPテーマソング</p></td>
 </tr>
 <tr class="odd">
 <td><p>Save The One, Save The All</p></td>
@@ -1073,12 +1073,12 @@ TVアニメ「機動戦士ガンダムSEED DESTINY」挿入歌</p></td>
 </tr>
 <tr class="even">
 <td><p>Thousands Morning Refrain</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サンリオピューロランド" title="wikilink">サンリオピューロランド</a>20周年イメージソング</p></td>
+<td><p><a href="../Page/サンリオピューロランド.md" title="wikilink">サンリオピューロランド</a>20周年イメージソング</p></td>
 </tr>
 <tr class="odd">
 <td><p>FLAGS</p></td>
-<td><p>映画「<a href="https://ja.wikipedia.org/wiki/戦国BASARA" title="wikilink">劇場版 戦国BASARA -The Last Party-</a>」主題歌<br />
-ゲームソフト「<a href="https://ja.wikipedia.org/wiki/戦国BASARA" title="wikilink">戦国BASARA クロニクルヒーローズ</a>」テーマソング</p></td>
+<td><p>映画「<a href="../Page/戦国BASARA.md" title="wikilink">劇場版 戦国BASARA -The Last Party-</a>」主題歌<br />
+ゲームソフト「<a href="../Page/戦国BASARA.md" title="wikilink">戦国BASARA クロニクルヒーローズ</a>」テーマソング</p></td>
 </tr>
 <tr class="even">
 <td><p>The party must go on</p></td>
@@ -1086,7 +1086,7 @@ TVアニメ「機動戦士ガンダムSEED DESTINY」挿入歌</p></td>
 </tr>
 <tr class="odd">
 <td><p>UTAGE</p></td>
-<td><p>ゲームソフト「<a href="https://ja.wikipedia.org/wiki/戦国BASARA" title="wikilink">戦国BASARA 宴</a>3」テーマソング</p></td>
+<td><p>ゲームソフト「<a href="../Page/戦国BASARA.md" title="wikilink">戦国BASARA 宴</a>3」テーマソング</p></td>
 </tr>
 <tr class="even">
 <td><p>Preserved Roses</p></td>
@@ -1106,7 +1106,7 @@ TVアニメ「機動戦士ガンダムSEED DESTINY」挿入歌</p></td>
 </tr>
 <tr class="even">
 <td><p>Count ZERO</p></td>
-<td><p>ゲームソフト「<a href="https://ja.wikipedia.org/wiki/戦国BASARA" title="wikilink">戦国BASARA</a>4」OPテーマソング</p></td>
+<td><p>ゲームソフト「<a href="../Page/戦国BASARA.md" title="wikilink">戦国BASARA</a>4」OPテーマソング</p></td>
 </tr>
 <tr class="odd">
 <td><p>突キ破レル-Time to SMASH！</p></td>
@@ -1118,11 +1118,11 @@ TVアニメ「機動戦士ガンダムSEED DESTINY」挿入歌</p></td>
 </tr>
 <tr class="odd">
 <td><p>Phantom Pain</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/池田模範堂" title="wikilink">池田模範堂</a>「デリケアM's」<a href="https://ja.wikipedia.org/wiki/コマーシャルソング" title="wikilink">CMソング</a>[19]</p></td>
+<td><p><a href="../Page/池田模範堂.md" title="wikilink">池田模範堂</a>「デリケアM's」<a href="../Page/コマーシャルソング.md" title="wikilink">CMソング</a>[19]</p></td>
 </tr>
 <tr class="even">
 <td><p>DOUBLE-DEAL</p></td>
-<td><p>ゲームソフト「<a href="https://ja.wikipedia.org/wiki/戦国BASARA" title="wikilink">戦国BASARA 皇</a>4」OPテーマソング</p></td>
+<td><p>ゲームソフト「<a href="../Page/戦国BASARA.md" title="wikilink">戦国BASARA 皇</a>4」OPテーマソング</p></td>
 </tr>
 <tr class="odd">
 <td><p>AMAKAZE -天風-</p></td>
@@ -1134,7 +1134,7 @@ TVアニメ「機動戦士ガンダムSEED DESTINY」挿入歌</p></td>
 </tr>
 <tr class="odd">
 <td><p>Committed RED</p></td>
-<td><p>ゲームソフト「<a href="https://ja.wikipedia.org/wiki/戦国BASARA" title="wikilink">戦国BASARA 真田幸村伝</a>」主題歌</p></td>
+<td><p>ゲームソフト「<a href="../Page/戦国BASARA.md" title="wikilink">戦国BASARA 真田幸村伝</a>」主題歌</p></td>
 </tr>
 <tr class="even">
 <td><p>RAIMEI</p></td>
@@ -1145,14 +1145,14 @@ TVアニメ「機動戦士ガンダムSEED DESTINY」挿入歌</p></td>
 
 ## 関連項目
 
-  - [西川貴教](https://ja.wikipedia.org/wiki/西川貴教 "wikilink")
-  - [浅倉大介](https://ja.wikipedia.org/wiki/浅倉大介 "wikilink")
-  - [井上秋緒](https://ja.wikipedia.org/wiki/井上秋緒 "wikilink")
+  - [西川貴教](../Page/西川貴教.md "wikilink")
+  - [浅倉大介](../Page/浅倉大介.md "wikilink")
+  - [井上秋緒](../Page/井上秋緒.md "wikilink")
   - [abingdon boys school](https://ja.wikipedia.org/wiki/アビングドンボーイズスクール "wikilink")
   - [HIGH and MIGHTY COLOR](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")
   - [ソニー・ミュージックエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")
   - [アンティノスレコード](https://ja.wikipedia.org/wiki/アンティノスレコード "wikilink")
-  - [エピックレコードジャパン](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")
+  - [エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink")
 
 ## 脚注
 
@@ -1171,7 +1171,7 @@ TVアニメ「機動戦士ガンダムSEED DESTINY」挿入歌</p></td>
   -
 [Category:T.M.Revolution](https://ja.wikipedia.org/wiki/Category:T.M.Revolution "wikilink") [Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:エピックレコードジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのアーティスト "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:1996年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1996年に結成した音楽グループ "wikilink")
 
-1.  [T.M.Revolution、15周年記念イベントに5千人が集結](http://rn.oricon.co.jp/news/rankingnews/87694/full/)（[オリコン](https://ja.wikipedia.org/wiki/オリコン "wikilink")、2011年5月14日）
+1.  [T.M.Revolution、15周年記念イベントに5千人が集結](http://rn.oricon.co.jp/news/rankingnews/87694/full/)（[オリコン](../Page/オリコン.md "wikilink")、2011年5月14日）
 2.
 3.  「YEAR COUNT DOWN PARTY」シリーズは、西川貴教公式ファンクラブ「turbo」会員のみ参加可能である。
 4.  1999年の「THE FORCE」は初の東京ドーム公演。

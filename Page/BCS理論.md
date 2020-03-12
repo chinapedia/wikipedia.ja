@@ -1,11 +1,11 @@
 > この記事は[BCS](https://ja.wikipedia.org/wiki/BCS)から翻訳されています。
 
 
-**BCS理論**（ビーシーエスりろん、BCS theory、**B**ardeen **C**ooper **S**chrieffer）とは、1911年の[超伝導](../Page/超伝導.md "wikilink")現象発見以来、初めてこの現象を微視的に解明した理論。1957年に米国、イリノイ大学の[ジョン・バーディーン](https://ja.wikipedia.org/wiki/ジョン・バーディーン "wikilink")、[レオン・クーパー](https://ja.wikipedia.org/wiki/レオン・クーパー "wikilink")、[ジョン・ロバート・シュリーファー](https://ja.wikipedia.org/wiki/ジョン・ロバート・シュリーファー "wikilink")の三人によって提唱された。三人の名前の頭文字からBCSと付けられた。この理論によると超伝導[転移温度](https://ja.wikipedia.org/wiki/転移温度 "wikilink")や比熱などが、式により表される。三人はこの業績により1972年のノーベル物理学賞を受賞した。
+**BCS理論**（ビーシーエスりろん、BCS theory、**B**ardeen **C**ooper **S**chrieffer）とは、1911年の[超伝導](../Page/超伝導.md "wikilink")現象発見以来、初めてこの現象を微視的に解明した理論。1957年に米国、イリノイ大学の[ジョン・バーディーン](../Page/ジョン・バーディーン.md "wikilink")、[レオン・クーパー](../Page/レオン・クーパー.md "wikilink")、[ジョン・ロバート・シュリーファー](../Page/ジョン・ロバート・シュリーファー.md "wikilink")の三人によって提唱された。三人の名前の頭文字からBCSと付けられた。この理論によると超伝導[転移温度](https://ja.wikipedia.org/wiki/転移温度 "wikilink")や比熱などが、式により表される。三人はこの業績により1972年のノーベル物理学賞を受賞した。
 
 ## 概要
 
-[1911年](../Page/1911年.md "wikilink")、[カマリン・オンネスによって発見された](https://ja.wikipedia.org/wiki/ヘイケ・カメルリング・オネス "wikilink")[超伝導](../Page/超伝導.md "wikilink")は、その後多くの研究者の注目を浴び、数多くの実験的、理論的研究がなされた。しかしながら、実験面では多くの成果が得られた半面、理論的な面での解明は遅々として進まなかった。1950年には超伝導体の[同位体](../Page/同位体.md "wikilink")で転移温度が異なることが発見された。これに着目したJ.バーディーン（当時、ベル研究所、のちにイリノイ大学教授）は、直感的に[フォノン](../Page/フォノン.md "wikilink")（[抵抗](https://ja.wikipedia.org/wiki/抵抗 "wikilink")の微視的単位）に超伝導の原因があるとし、研究を進めた。1956年バーディーンがイリノイに招聘したL.クーパーが、フォノンを媒介とする電子対ではエネルギーが下がることを発見した。続いて、J.バーディーン教授の大学院生であったJ.シュリーファーが超伝導状態を表す波動関数を導いて、解明の土台を築いた。そしてカマリン・オンネスの発見から40年以上経った、[1957年](../Page/1957年.md "wikilink")、[バーディーン](https://ja.wikipedia.org/wiki/ジョン・バーディーン "wikilink")、[クーパー](https://ja.wikipedia.org/wiki/レオン・クーパー "wikilink")、[シュリーファーの三人によって提唱された超伝導を説明する理論](https://ja.wikipedia.org/wiki/ジョン・ロバート・シュリーファー "wikilink")（**BCS理論**）により一応の決着を見た\[1\]。ボーズ-アインシュタイン凝縮と超伝導は、ボゴリューボフによって示されたいわゆる[ボゴリューボフ変換](https://ja.wikipedia.org/wiki/ボゴリューボフ変換 "wikilink")を通して、同時に解明することができる。
+[1911年](../Page/1911年.md "wikilink")、[カマリン・オンネスによって発見された](../Page/ヘイケ・カメルリング・オネス.md "wikilink")[超伝導](../Page/超伝導.md "wikilink")は、その後多くの研究者の注目を浴び、数多くの実験的、理論的研究がなされた。しかしながら、実験面では多くの成果が得られた半面、理論的な面での解明は遅々として進まなかった。1950年には超伝導体の[同位体](../Page/同位体.md "wikilink")で転移温度が異なることが発見された。これに着目したJ.バーディーン（当時、ベル研究所、のちにイリノイ大学教授）は、直感的に[フォノン](../Page/フォノン.md "wikilink")（[抵抗](https://ja.wikipedia.org/wiki/抵抗 "wikilink")の微視的単位）に超伝導の原因があるとし、研究を進めた。1956年バーディーンがイリノイに招聘したL.クーパーが、フォノンを媒介とする電子対ではエネルギーが下がることを発見した。続いて、J.バーディーン教授の大学院生であったJ.シュリーファーが超伝導状態を表す波動関数を導いて、解明の土台を築いた。そしてカマリン・オンネスの発見から40年以上経った、[1957年](../Page/1957年.md "wikilink")、[バーディーン](../Page/ジョン・バーディーン.md "wikilink")、[クーパー](../Page/レオン・クーパー.md "wikilink")、[シュリーファーの三人によって提唱された超伝導を説明する理論](../Page/ジョン・ロバート・シュリーファー.md "wikilink")（**BCS理論**）により一応の決着を見た\[1\]。ボーズ-アインシュタイン凝縮と超伝導は、ボゴリューボフによって示されたいわゆる[ボゴリューボフ変換](https://ja.wikipedia.org/wiki/ボゴリューボフ変換 "wikilink")を通して、同時に解明することができる。
 
 超伝導状態を実現するためには電子系が何らかの凝集状態にある必要がある。しかし、[電子](https://ja.wikipedia.org/wiki/電子 "wikilink")は[フェルミ粒子](../Page/フェルミ粒子.md "wikilink")であり、[パウリの排他律](https://ja.wikipedia.org/wiki/パウリの排他律 "wikilink")からくる制限により、そのままでは凝集できない。
 
@@ -17,7 +17,7 @@ BCS理論では電子-格子相互作用を介して電子同士が[フォノン
 
 ## より詳細
 
-単純な金属を考え、伝導電子は[電子ガス](https://ja.wikipedia.org/wiki/電子ガス "wikilink")模型で記述できるとする。電子間に有効的な引力 (\(-g,g>0\)) が存在すると考え、引力の働く状態を記述する電子ガスの[ハミルトニアン](../Page/ハミルトニアン.md "wikilink")は、系の体積を\(V\)として、
+単純な金属を考え、伝導電子は[電子ガス](../Page/電子ガス.md "wikilink")模型で記述できるとする。電子間に有効的な引力 (\(-g,g>0\)) が存在すると考え、引力の働く状態を記述する電子ガスの[ハミルトニアン](../Page/ハミルトニアン.md "wikilink")は、系の体積を\(V\)として、
 
 c_{\\mathbf{k} \\sigma}^{\\dagger} c_{\\mathbf{k} \\sigma} - {g \\over V} {\\sum_{\\mathbf{k}, \\mathbf{k'}, \\mathbf{q}}}' c_{\\mathbf{k} + \\mathbf{q} \\uparrow}^{\\dagger} c_{-\\mathbf{k} \\downarrow}^{\\dagger} c_{-\\mathbf{k}' \\downarrow} c_{\\mathbf{k}'+\\mathbf{q} \\uparrow} </math>}}
 
@@ -47,7 +47,7 @@ c_{\\mathbf{k} \\sigma}^{\\dagger} c_{\\mathbf{k} \\sigma} - {g \\over V} {\\sum
 
 ## エネルギーギャップの存在
 
-超伝導の特徴は、励起に対して[エネルギーギャップ](https://ja.wikipedia.org/wiki/エネルギーギャップ "wikilink")が存在することである（注：ギャップレス、つまりギャップの存在しない場合もある）。ただ、これは半導体、絶縁体における[バンドギャップ](../Page/バンドギャップ.md "wikilink")とは異なり、ギャップの存在に関わらず、超伝導状態では[永久電流](https://ja.wikipedia.org/wiki/永久電流 "wikilink")が流れる。このギャップの存在により、超伝導状態は非磁性な不純物による散乱などの影響を受け難くなっている。
+超伝導の特徴は、励起に対して[エネルギーギャップ](../Page/エネルギーギャップ.md "wikilink")が存在することである（注：ギャップレス、つまりギャップの存在しない場合もある）。ただ、これは半導体、絶縁体における[バンドギャップ](../Page/バンドギャップ.md "wikilink")とは異なり、ギャップの存在に関わらず、超伝導状態では[永久電流](https://ja.wikipedia.org/wiki/永久電流 "wikilink")が流れる。このギャップの存在により、超伝導状態は非磁性な不純物による散乱などの影響を受け難くなっている。
 
 ## 高温超伝導に関して
 
@@ -66,12 +66,12 @@ BCS理論から予想される超伝導[転移温度](https://ja.wikipedia.org/w
 
 ## 関連項目
 
-  - [ジョン・バーディーン](https://ja.wikipedia.org/wiki/ジョン・バーディーン "wikilink") (John Bardeen)
-  - [レオン・クーパー](https://ja.wikipedia.org/wiki/レオン・クーパー "wikilink") (Leon Neil Cooper)
-  - [ジョン・ロバート・シュリーファー](https://ja.wikipedia.org/wiki/ジョン・ロバート・シュリーファー "wikilink") (John Robert Schrieffer)
+  - [ジョン・バーディーン](../Page/ジョン・バーディーン.md "wikilink") (John Bardeen)
+  - [レオン・クーパー](../Page/レオン・クーパー.md "wikilink") (Leon Neil Cooper)
+  - [ジョン・ロバート・シュリーファー](../Page/ジョン・ロバート・シュリーファー.md "wikilink") (John Robert Schrieffer)
 
 ## 外部リンク
 
 [Category:超伝導](https://ja.wikipedia.org/wiki/Category:超伝導 "wikilink") [Category:エポニム](https://ja.wikipedia.org/wiki/Category:エポニム "wikilink")
 
-1.  J. Bardeen, L. Cooper and J. R. Schrieffer, ["Theory of superconductivity,"](http://yclept.ucdavis.edu/course/242/Publ/BCSa.pdf) [Phys. Rev.](https://ja.wikipedia.org/wiki/フィジカル・レビュー "wikilink") **108** (1957) 1175.
+1.  J. Bardeen, L. Cooper and J. R. Schrieffer, ["Theory of superconductivity,"](http://yclept.ucdavis.edu/course/242/Publ/BCSa.pdf) [Phys. Rev.](../Page/フィジカル・レビュー.md "wikilink") **108** (1957) 1175.

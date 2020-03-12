@@ -3,20 +3,20 @@
 
 「**Going History**」（ゴーイング ヒストリー）は、1995年12月6日にリリースされた[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")の シングル。
 
-発売元は[スターチャイルド](https://ja.wikipedia.org/wiki/スターチャイルド "wikilink")・販売元は[キングレコード](../Page/キングレコード.md "wikilink")（KIDA-124）。
+発売元は[スターチャイルド](../Page/スターチャイルド.md "wikilink")・販売元は[キングレコード](../Page/キングレコード.md "wikilink")（KIDA-124）。
 
 ## 概要
 
-  - TBSラジオ『[MEGU・OMO 街へ出よう](https://ja.wikipedia.org/wiki/MEGU・OMO_街へ出よう "wikilink")』内で放送されていた[ラジオドラマ](https://ja.wikipedia.org/wiki/ラジオドラマ "wikilink")『[スレイヤーズEX.（えくすとら）](https://ja.wikipedia.org/wiki/スレイヤーズ_\(アニメ\)#ラジオドラマ "wikilink")』のテーマソング
-  - アルバム『[Bertemu](https://ja.wikipedia.org/wiki/Bertemu "wikilink")』リリースの際、プロモーションの意味も込めビデオクリップが制作された。その映像は後に発売されたベストアルバム『[VINTAGE S](https://ja.wikipedia.org/wiki/VINTAGE_S "wikilink")』の初回限定盤特典お宝ビデオに収録されている。
+  - TBSラジオ『[MEGU・OMO 街へ出よう](https://ja.wikipedia.org/wiki/MEGU・OMO_街へ出よう "wikilink")』内で放送されていた[ラジオドラマ](../Page/ラジオドラマ.md "wikilink")『[スレイヤーズEX.（えくすとら）](https://ja.wikipedia.org/wiki/スレイヤーズ_\(アニメ\)#ラジオドラマ "wikilink")』のテーマソング
+  - アルバム『[Bertemu](../Page/Bertemu.md "wikilink")』リリースの際、プロモーションの意味も込めビデオクリップが制作された。その映像は後に発売されたベストアルバム『[VINTAGE S](../Page/VINTAGE_S.md "wikilink")』の初回限定盤特典お宝ビデオに収録されている。
 
 ## 記録
 
-  - [オリコン](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")・週間シングルチャートでの当時の自己最高位を更新した。
+  - [オリコン](../Page/オリコンチャート.md "wikilink")・週間シングルチャートでの当時の自己最高位を更新した。
 
 ## 収録曲
 
-  - 全作詞：[有森聡美](https://ja.wikipedia.org/wiki/有森聡美 "wikilink")、作曲：[佐藤英敏](https://ja.wikipedia.org/wiki/佐藤英敏 "wikilink")、編曲：小野沢篤
+  - 全作詞：[有森聡美](https://ja.wikipedia.org/wiki/有森聡美 "wikilink")、作曲：[佐藤英敏](../Page/佐藤英敏.md "wikilink")、編曲：小野沢篤
 
 <!-- end list -->
 
@@ -31,7 +31,7 @@
 
   - **Going History**
       -
-        『[Bertemu](https://ja.wikipedia.org/wiki/Bertemu "wikilink")』、『[VINTAGE S](https://ja.wikipedia.org/wiki/VINTAGE_S "wikilink")』、『[スレイヤーズMEGUMIX](https://ja.wikipedia.org/wiki/スレイヤーズMEGUMIX "wikilink")』
+        『[Bertemu](../Page/Bertemu.md "wikilink")』、『[VINTAGE S](../Page/VINTAGE_S.md "wikilink")』、『[スレイヤーズMEGUMIX](../Page/スレイヤーズMEGUMIX.md "wikilink")』
   - **灼熱の恋**
       -
         『Bertemu』、『スレイヤーズMEGUMIX』

@@ -6,7 +6,7 @@
 ## メンバー
 
   - **ICHIDAI**（ボーカル）
-      - [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")生まれ。東京都出身。1999年にはICHIDAIのソロプロジェクトを始動し、2003年には『[仮面ライダー555](../Page/仮面ライダー555.md "wikilink")』の挿入歌『EGO～eyes glazing over』を担当した。
+      - [1970年](../Page/1970年.md "wikilink")生まれ。東京都出身。1999年にはICHIDAIのソロプロジェクトを始動し、2003年には『[仮面ライダー555](../Page/仮面ライダー555.md "wikilink")』の挿入歌『EGO～eyes glazing over』を担当した。
   - **GENTA**（ギター）
   - **JUNYA**（ベース）1996年6月脱退。
   - **HIRO**（ドラム）
@@ -26,7 +26,7 @@
 1.  **Come On News**（1994年7月25日）
 2.  **PLASTIC SUMMER**（1995年8月25日）
 3.  **CRAZY CRAZY**（1995年11月25日）
-4.  **BREAK YOURSELF**（1996年4月5日）「[パワーレンジャー](https://ja.wikipedia.org/wiki/マイティ・モーフィン・パワーレンジャー "wikilink")」エンディングテーマ
+4.  **BREAK YOURSELF**（1996年4月5日）「[パワーレンジャー](../Page/マイティ・モーフィン・パワーレンジャー.md "wikilink")」エンディングテーマ
 5.  **好きだよずっと好きでした**（1996年7月22日）
 6.  **ALTERNATIVE SINGLE FILE**（1996年11月5日）リミックスシングル
 7.  **今すぐ逢いたい抱きしめたい**（1997年2月5日）
@@ -35,7 +35,7 @@
 10. **月とカメレオン**（1997年11月6日）
 11. **FAKE**（1998年10月21日）
 12. **Charisuma Feelin**（1999年11月21日）
-13. **PLASTIC SUMMER**（2007年8月22日）「[スキバラ](https://ja.wikipedia.org/wiki/スキバラ "wikilink")」エンディングテーマ
+13. **PLASTIC SUMMER**（2007年8月22日）「[スキバラ](../Page/スキバラ.md "wikilink")」エンディングテーマ
 
 ### アルバム
 

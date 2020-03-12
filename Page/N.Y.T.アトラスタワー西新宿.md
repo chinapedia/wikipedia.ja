@@ -3,11 +3,11 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Atlastower-nishishinjyuku1.jpg "wikilink")
 
-**N.Y.T.アトラスタワー西新宿**（エヌ・ワイ・ティーアトラスタワーにししんじゅく）は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")[西新宿](https://ja.wikipedia.org/wiki/西新宿 "wikilink")六丁目にある[超高層マンション](https://ja.wikipedia.org/wiki/超高層マンション "wikilink")。
+**N.Y.T.アトラスタワー西新宿**（エヌ・ワイ・ティーアトラスタワーにししんじゅく）は、[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")[西新宿](../Page/西新宿.md "wikilink")六丁目にある[超高層マンション](../Page/超高層マンション.md "wikilink")。
 
 ## 概要
 
-[十二社通り沿いにあり](https://ja.wikipedia.org/wiki/東京都道新宿副都心十三号線 "wikilink")、[西新宿三井ビル](https://ja.wikipedia.org/wiki/西新宿三井ビル "wikilink")および[新宿スクエアタワーに隣接する総戸数](https://ja.wikipedia.org/wiki/新宿アイタウン "wikilink")224戸の分譲[マンション](https://ja.wikipedia.org/wiki/マンション "wikilink")。西新宿六丁目西第7地区市街地再開発組合が施行者として建設した。同組合には旭化成ホームズが参加しており、住戸の分譲は旭化成ホームズによって行われた。
+[十二社通り沿いにあり](../Page/東京都道新宿副都心十三号線.md "wikilink")、[西新宿三井ビル](https://ja.wikipedia.org/wiki/西新宿三井ビル "wikilink")および[新宿スクエアタワーに隣接する総戸数](../Page/新宿アイタウン.md "wikilink")224戸の分譲[マンション](https://ja.wikipedia.org/wiki/マンション "wikilink")。西新宿六丁目西第7地区市街地再開発組合が施行者として建設した。同組合には旭化成ホームズが参加しており、住戸の分譲は旭化成ホームズによって行われた。
 
 ## 沿革
 

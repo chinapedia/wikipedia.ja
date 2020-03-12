@@ -1,7 +1,7 @@
 > この記事は[Baby\'s Breath \(\)](https://ja.wikipedia.org/wiki/Baby\'s_Breath_\(\))から翻訳されています。
 
 
-「**Baby's Breath**」（ベイビーズ・ブレス）は、[田村ゆかり](https://ja.wikipedia.org/wiki/田村ゆかり "wikilink")の3作目の[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[8月7日](../Page/8月7日.md "wikilink") 、[KONAMIより発売](https://ja.wikipedia.org/wiki/コナミレーベル "wikilink")。（販売元は[キングレコード](../Page/キングレコード.md "wikilink")）
+「**Baby's Breath**」（ベイビーズ・ブレス）は、[田村ゆかり](https://ja.wikipedia.org/wiki/田村ゆかり "wikilink")の3作目の[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[8月7日](../Page/8月7日.md "wikilink") 、[KONAMIより発売](../Page/コナミレーベル.md "wikilink")。（販売元は[キングレコード](../Page/キングレコード.md "wikilink")）
 
 ## 解説
 
@@ -9,9 +9,9 @@
 
 1.  **Baby's Breath**\[4:18\]
       -
-        作詞：[三井ゆきこ](https://ja.wikipedia.org/wiki/三井ゆきこ "wikilink")、作曲：[cota](https://ja.wikipedia.org/wiki/大津美紀 "wikilink")、編曲：岩本正樹
+        作詞：[三井ゆきこ](https://ja.wikipedia.org/wiki/三井ゆきこ "wikilink")、作曲：[cota](../Page/大津美紀.md "wikilink")、編曲：岩本正樹
     <!-- end list -->
-      - [ラジオ](../Page/ラジオ.md "wikilink")「[田村ゆかりのはぁとのためいき](https://ja.wikipedia.org/wiki/田村ゆかりのはぁとのためいき "wikilink")」[オープニングテーマ](https://ja.wikipedia.org/wiki/主題歌 "wikilink")（2002年7月〜10月）
+      - [ラジオ](../Page/ラジオ.md "wikilink")「[田村ゆかりのはぁとのためいき](https://ja.wikipedia.org/wiki/田村ゆかりのはぁとのためいき "wikilink")」[オープニングテーマ](../Page/主題歌.md "wikilink")（2002年7月〜10月）
       - PVが制作されており、DVD『[Sweet chick girl](https://ja.wikipedia.org/wiki/Sweet_chick_girl "wikilink")』に収録されている。
 2.  **わがままな I LOVE YOU** \[4:35\]
       -

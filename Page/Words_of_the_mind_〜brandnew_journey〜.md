@@ -23,7 +23,7 @@
 
 ## 関連項目
 
-  - [2000年の音楽](https://ja.wikipedia.org/wiki/2000年の音楽 "wikilink")
+  - [2000年の音楽](../Page/2000年の音楽.md "wikilink")
 
 ## 外部リンク
 

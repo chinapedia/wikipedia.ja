@@ -5,11 +5,11 @@
 
 ## 概要
 
-一人の射手が[肩](https://ja.wikipedia.org/wiki/肩 "wikilink")に担いで照準・射撃する個人携行式システムであり、主な目標は[装甲車両であるが](../Page/装甲戦闘車両.md "wikilink")、[建築物](../Page/建築物.md "wikilink")や[野戦築城](https://ja.wikipedia.org/wiki/野戦築城 "wikilink")、さらには低空を飛行する[ヘリコプター](../Page/ヘリコプター.md "wikilink")への攻撃能力も備える。
+一人の射手が[肩](../Page/肩.md "wikilink")に担いで照準・射撃する個人携行式システムであり、主な目標は[装甲車両であるが](../Page/装甲戦闘車両.md "wikilink")、[建築物](../Page/建築物.md "wikilink")や[野戦築城](https://ja.wikipedia.org/wiki/野戦築城 "wikilink")、さらには低空を飛行する[ヘリコプター](../Page/ヘリコプター.md "wikilink")への攻撃能力も備える。
 
-誘導方式は有線[SACLOSである](https://ja.wikipedia.org/wiki/半自動指令照準線一致誘導方式 "wikilink")。[ミサイル](../Page/ミサイル.md "wikilink")を発射する際、発射直後に低速となる「ソフトランチ」方式を採用、後方爆風を局限し、発射スペースの制限をいくらか緩やかにすることが可能となった。これは、[市街戦](https://ja.wikipedia.org/wiki/市街戦 "wikilink")で効果的に使われることを可能にした。
+誘導方式は有線[SACLOSである](https://ja.wikipedia.org/wiki/半自動指令照準線一致誘導方式 "wikilink")。[ミサイル](../Page/ミサイル.md "wikilink")を発射する際、発射直後に低速となる「ソフトランチ」方式を採用、後方爆風を局限し、発射スペースの制限をいくらか緩やかにすることが可能となった。これは、[市街戦](../Page/市街戦.md "wikilink")で効果的に使われることを可能にした。
 
-ミサイル本体は、それから加速し4.3秒で600mに到達、その最大速度は245m/sであり、加速支持[モーター](https://ja.wikipedia.org/wiki/モーター "wikilink")を有する。弾体は飛翔中、目標の発熱源を確認しつつ[パルス](https://ja.wikipedia.org/wiki/パルス "wikilink")信号で誘導装置に伝達する。
+ミサイル本体は、それから加速し4.3秒で600mに到達、その最大速度は245m/sであり、加速支持[モーター](https://ja.wikipedia.org/wiki/モーター "wikilink")を有する。弾体は飛翔中、目標の発熱源を確認しつつ[パルス](../Page/パルス.md "wikilink")信号で誘導装置に伝達する。
 
 [MBDA](../Page/MBDA.md "wikilink")社の説明によれば、7,000回のモーター実射を行い、そのうちの95%が命中したと発表した。
 

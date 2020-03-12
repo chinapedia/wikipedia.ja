@@ -10,28 +10,28 @@
 1.  **HEART BREAK \[日本語\]**
 2.  **SNEAK AWAY**（c/w）
       -
-        「[東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink") ウォーキー」TV-CMソング。
+        「[東芝](../Page/東芝.md "wikilink") ウォーキー」TV-CMソング。
 
 ## 参加者クレジット
 
   - 日本語詞
       -
-        [湯川れい子](https://ja.wikipedia.org/wiki/湯川れい子 "wikilink") (\#1)
-  - [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[作曲](../Page/作曲.md "wikilink")
+        [湯川れい子](../Page/湯川れい子.md "wikilink") (\#1)
+  - [作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")
       -
         John Wilson、 Joe Jackson, Stephen Wilson (\#1)
         John Wilson、 Gail Johnson (\#2)
   - [編曲](../Page/編曲.md "wikilink")
       -
-        [大村憲司](https://ja.wikipedia.org/wiki/大村憲司 "wikilink")、 John Wilson (\#1)
+        [大村憲司](../Page/大村憲司.md "wikilink")、 John Wilson (\#1)
         John Wilson (\#2)
 
 ## 収録アルバム
 
   - HEART BREAK
-      - [OVERSEA](https://ja.wikipedia.org/wiki/OVERSEA "wikilink") （1987年6月22日） - 英語
+      - [OVERSEA](../Page/OVERSEA.md "wikilink") （1987年6月22日） - 英語
       - DISPA 1987 （1988年1月25日） - ライブバージョン
-      - [Look over my shoulder](https://ja.wikipedia.org/wiki/Look_over_my_shoulder "wikilink") （1988年10月26日）
+      - [Look over my shoulder](../Page/Look_over_my_shoulder.md "wikilink") （1988年10月26日）
       - best now （1989年9月13日,1990年11月14日）
       - Big Artist Best Collection （1994年12月7日）
       - TWIN BEST （1998年5月13日）
@@ -43,7 +43,7 @@
 <!-- end list -->
 
   - SNEAK AWAY
-      - [OVERSEA](https://ja.wikipedia.org/wiki/OVERSEA "wikilink") （1987年6月22日）
+      - [OVERSEA](../Page/OVERSEA.md "wikilink") （1987年6月22日）
       - DISPA 1987 （1988年1月25日） - ライブバージョン
       - best now （1989年9月13日,1990年11月14日）
       - Big Artist Best Collection （1994年12月7日）
@@ -53,7 +53,7 @@
 ## TV
 
   - [歌のトップテン](../Page/歌のトップテン.md "wikilink")
-  - [オールナイトフジ](https://ja.wikipedia.org/wiki/オールナイトフジ "wikilink")
+  - [オールナイトフジ](../Page/オールナイトフジ.md "wikilink")
   - [ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")
   - [ミュージックスクエア](https://ja.wikipedia.org/wiki/ミュージックスクエア "wikilink")
   - [ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")

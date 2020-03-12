@@ -1,11 +1,11 @@
 > この記事は[JFE](https://ja.wikipedia.org/wiki/JFE)から翻訳されています。
 
 
-**JFEスチール西日本製鉄所**（ジェイエフイースチールにしにほんせいてつしょ）は、[広島県](../Page/広島県.md "wikilink")[福山市](../Page/福山市.md "wikilink")鋼管町1番地および[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")[倉敷市](../Page/倉敷市.md "wikilink")[水島川崎通り](https://ja.wikipedia.org/wiki/水島地域 "wikilink")1丁目にある[JFEスチール](https://ja.wikipedia.org/wiki/JFEスチール "wikilink")の[銑鋼一貫製鉄所](https://ja.wikipedia.org/wiki/銑鋼一貫製鉄所 "wikilink")。福山地区と倉敷地区に分かれている。管理業務事務所は福山地区に所在。
+**JFEスチール西日本製鉄所**（ジェイエフイースチールにしにほんせいてつしょ）は、[広島県](../Page/広島県.md "wikilink")[福山市](../Page/福山市.md "wikilink")鋼管町1番地および[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")[倉敷市](../Page/倉敷市.md "wikilink")[水島川崎通り](../Page/水島地域.md "wikilink")1丁目にある[JFEスチール](https://ja.wikipedia.org/wiki/JFEスチール "wikilink")の[銑鋼一貫製鉄所](https://ja.wikipedia.org/wiki/銑鋼一貫製鉄所 "wikilink")。福山地区と倉敷地区に分かれている。管理業務事務所は福山地区に所在。
 
 ## 概要
 
-[日本鋼管](https://ja.wikipedia.org/wiki/日本鋼管 "wikilink")と[川崎製鉄](https://ja.wikipedia.org/wiki/川崎製鉄 "wikilink")の合併に伴い誕生。
+[日本鋼管](https://ja.wikipedia.org/wiki/日本鋼管 "wikilink")と[川崎製鉄](../Page/川崎製鉄.md "wikilink")の合併に伴い誕生。
 
 ## 福山地区
 
@@ -26,7 +26,7 @@
 
   - [鋼板](../Page/鋼板.md "wikilink")
   - [H形鋼](https://ja.wikipedia.org/wiki/H形鋼 "wikilink")
-  - [鋼管](https://ja.wikipedia.org/wiki/鋼管 "wikilink")
+  - [鋼管](../Page/鋼管.md "wikilink")
   - [軌条](https://ja.wikipedia.org/wiki/レール "wikilink")
 
 ### 高炉
@@ -43,7 +43,7 @@
   - 〒721-8510
       -
         広島県福山市鋼管町1番地
-  - [JR](https://ja.wikipedia.org/wiki/西日本旅客鉄道 "wikilink")[福山駅](../Page/福山駅.md "wikilink")下車　[中国バス](../Page/中国バス.md "wikilink")鋼管町下車（所要時間約25分）
+  - [JR](../Page/西日本旅客鉄道.md "wikilink")[福山駅](../Page/福山駅.md "wikilink")下車　[中国バス](../Page/中国バス.md "wikilink")鋼管町下車（所要時間約25分）
       - 日本鋼管時代は「鋼管正門前」と名乗っていたが、JFE成立後「鋼管町」に改名した。
       - 以前は笠岡・井原・幕山団地・大谷台団地・東福山駅等各方面行があり、[井笠鉄道](https://ja.wikipedia.org/wiki/井笠鉄道 "wikilink")も乗り入れていたが、現在は福山駅前からの3系統（手城・鋼管町経由鋼管病院行、深津隧道・鋼管病院経由鋼管町行、深津隧道・ローズタウン・鋼管病院経由鋼管町行）の3系統のみの運行となった。
 
@@ -77,11 +77,11 @@
   - 〒712-8511
       -
         岡山県倉敷市水島川崎通り1丁目
-  - [JR](https://ja.wikipedia.org/wiki/西日本旅客鉄道 "wikilink")[倉敷駅](../Page/倉敷駅.md "wikilink")下車
+  - [JR](../Page/西日本旅客鉄道.md "wikilink")[倉敷駅](../Page/倉敷駅.md "wikilink")下車
       -
         [両備バスJFE正門下車](../Page/両備ホールディングス.md "wikilink")（所要時間約30分）
   - JR[新倉敷駅](../Page/新倉敷駅.md "wikilink")下車
-  - [水島臨海鉄道](../Page/水島臨海鉄道.md "wikilink")[水島駅](https://ja.wikipedia.org/wiki/水島駅 "wikilink")下車
+  - [水島臨海鉄道](../Page/水島臨海鉄道.md "wikilink")[水島駅](../Page/水島駅.md "wikilink")下車
 
 ### 工場開放
 
@@ -91,10 +91,10 @@
 
 ## 関連項目
 
-  - [JFE西日本硬式野球部](https://ja.wikipedia.org/wiki/JFE西日本硬式野球部 "wikilink")
+  - [JFE西日本硬式野球部](../Page/JFE西日本硬式野球部.md "wikilink")
   - [JFEスチール西日本サッカー部](https://ja.wikipedia.org/wiki/JFEスチール西日本サッカー部 "wikilink")
-  - [日本鋼管サッカー部](https://ja.wikipedia.org/wiki/日本鋼管サッカー部 "wikilink")
-  - [永野重雄](https://ja.wikipedia.org/wiki/永野重雄 "wikilink")
+  - [日本鋼管サッカー部](../Page/日本鋼管サッカー部.md "wikilink")
+  - [永野重雄](../Page/永野重雄.md "wikilink")
   - [北野嘉久](https://ja.wikipedia.org/wiki/北野嘉久 "wikilink")（元副所長）
 
 ## 外部リンク

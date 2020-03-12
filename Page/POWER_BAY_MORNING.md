@@ -37,7 +37,7 @@
       - 木曜：[ジェフユナイテッド市原・千葉](https://ja.wikipedia.org/wiki/ジェフユナイテッド市原・千葉 "wikilink")Spirits～WIN BY ALL … ジェフ千葉を応援するコーナー。試合結果や選手インタビューなどを紹介。2016年3月までは金曜に放送。
       - 金曜：シバサチスコープ
   - 8:55 エンディング
-    …9:00からの後続番組「[miracle\!\!](https://ja.wikipedia.org/wiki/miracle!! "wikilink")」（月～木）の[ANNA](https://ja.wikipedia.org/wiki/ANNA "wikilink")、「[MOTIVE\!\!](https://ja.wikipedia.org/wiki/MOTIVE!! "wikilink")」（金曜）の[安東弘樹](https://ja.wikipedia.org/wiki/安東弘樹 "wikilink")・[宮島咲良](../Page/宮島咲良.md "wikilink")とクロストークを行う。
+    …9:00からの後続番組「[miracle\!\!](https://ja.wikipedia.org/wiki/miracle!! "wikilink")」（月～木）の[ANNA](../Page/ANNA.md "wikilink")、「[MOTIVE\!\!](https://ja.wikipedia.org/wiki/MOTIVE!! "wikilink")」（金曜）の[安東弘樹](../Page/安東弘樹.md "wikilink")・[宮島咲良](../Page/宮島咲良.md "wikilink")とクロストークを行う。
 
 この他、ニュース・天気予報・交通情報を挿入。[Updatesも参照のこと](https://ja.wikipedia.org/wiki/Updates_\(ベイエフエム\) "wikilink")。
 
@@ -46,7 +46,7 @@
   - bayfm WEATHER UPDATES ― 5:11，5:33，6:03，6:34，7:00，8:04，8:39
     … ベイエリアとその周辺の天気予報。7:00はウェザーニューズのキャスターから伝えてもらう。5時台の天気でフリートークを、7:00では番組テーマに沿ったトークを展開し、最後にキャスターが「いってらっしゃい」と言ってコーナーが終わる。
   - bayfm TRAFFIC UPDATES ― 6:36（首），7:06（千），7:20（首），7:46（千），8:06（首），8:23（千），8:46（千）
-    … [首都高速道路](https://ja.wikipedia.org/wiki/首都高速道路 "wikilink")ならびに首都圏の高速道路と一般道路の情報を、[日本道路交通情報センター](https://ja.wikipedia.org/wiki/日本道路交通情報センター "wikilink")（JARTIC）から伝える。（首）は首都高速センター、（千）は千葉センターと中継。スタジオからは鉄道情報も併せて伝える。
+    … [首都高速道路](https://ja.wikipedia.org/wiki/首都高速道路 "wikilink")ならびに首都圏の高速道路と一般道路の情報を、[日本道路交通情報センター](../Page/日本道路交通情報センター.md "wikilink")（JARTIC）から伝える。（首）は首都高速センター、（千）は千葉センターと中継。スタジオからは鉄道情報も併せて伝える。
   - bayfm AIRLINE UPDATES ― 8:12
     … 羽田空港の発着便の情報をビッグバードのキャスターが伝える。
 
@@ -57,7 +57,7 @@
   - 月曜日
       - [西田新](https://ja.wikipedia.org/wiki/西田新 "wikilink")（2019年4月1日 - ）
   - 火 - 木曜日
-      - [光永亮太](https://ja.wikipedia.org/wiki/光永亮太 "wikilink")（2018年4月3日 - ）
+      - [光永亮太](../Page/光永亮太.md "wikilink")（2018年4月3日 - ）
     <!-- end list -->
       -
         2015年4月1日 - 2018年3月29日は水・木曜日担当
@@ -70,11 +70,11 @@
 ### 過去のDJ
 
   - [酒井道代](../Page/酒井道代.md "wikilink")（2005年10月7日 - 2006年12月29日／2007年7月6日 - 2010年3月26日：金曜日）
-  - [帆足由美](https://ja.wikipedia.org/wiki/帆足由美 "wikilink")（2007年1月5日 - 3月30日：金曜日） - 酒井の産休に伴う代役
+  - [帆足由美](../Page/帆足由美.md "wikilink")（2007年1月5日 - 3月30日：金曜日） - 酒井の産休に伴う代役
   - [我山亜希子](https://ja.wikipedia.org/wiki/我山亜希子 "wikilink")（2007年4月6日 - 6月29日：金曜日） - 同上
-  - [小島嵩弘](https://ja.wikipedia.org/wiki/小島嵩弘 "wikilink")（2005年10月3日 - 2012年6月26日：月・火曜日 → 2012年7月4日 - 2015年3月25日：水・木曜日）
-  - [きゃんひとみ](https://ja.wikipedia.org/wiki/きゃんひとみ "wikilink")（2010年4月2日 - 2016年3月25日：金曜日）
-  - [斉藤りさ](https://ja.wikipedia.org/wiki/斉藤りさ "wikilink")（2005年10月5日 - 2012年6月28日：水・木曜日 → 2012年7月2日 - 2018年3月27日：月・火曜日）
+  - [小島嵩弘](../Page/小島嵩弘.md "wikilink")（2005年10月3日 - 2012年6月26日：月・火曜日 → 2012年7月4日 - 2015年3月25日：水・木曜日）
+  - [きゃんひとみ](../Page/きゃんひとみ.md "wikilink")（2010年4月2日 - 2016年3月25日：金曜日）
+  - [斉藤りさ](../Page/斉藤りさ.md "wikilink")（2005年10月5日 - 2012年6月28日：水・木曜日 → 2012年7月2日 - 2018年3月27日：月・火曜日）
 
 <!-- end list -->
 
@@ -102,7 +102,7 @@
   - 中川倫子（2016年1月13日、1月14日） - 光永（水曜、木曜）の遅い夏休みのため
   - [曽根由希江](../Page/曽根由希江.md "wikilink")（2016年2月10日、「bayfm UPDATES」は情報アナウンサーが代わりに担当） - 光永がインフルエンザによる体調不良のため
   - 酒井道代（2016年2月11日） - 同上
-  - [SINJI](https://ja.wikipedia.org/wiki/SINJI "wikilink")（2016年11月1日） - 斉藤（火曜）の遅い夏休みのため（※前日の月曜は光永が代理）
+  - [SINJI](../Page/SINJI.md "wikilink")（2016年11月1日） - 斉藤（火曜）の遅い夏休みのため（※前日の月曜は光永が代理）
   - [西田新](https://ja.wikipedia.org/wiki/西田新 "wikilink")（2019年1月23日） - 光永の冬休みのため
 
 <!-- end list -->

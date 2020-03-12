@@ -5,7 +5,7 @@
 
 ## 解説
 
-本作と同月発売のアルバム『[CANCEL](../Page/CANCEL_\(本田美奈子.のアルバム\).md "wikilink")』にもゲスト参加した[ゲイリー・ムーア](https://ja.wikipedia.org/wiki/ゲイリー・ムーア "wikilink")が書き下ろした楽曲。[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")として1986年10月に「クライング・イン・ザ・シャドウ」というタイトルでシングルとしてリリースされ、後にアルバム『[ワイルド・フロンティア](https://ja.wikipedia.org/wiki/ワイルド・フロンティア "wikilink")』のCDにのみ収録された。
+本作と同月発売のアルバム『[CANCEL](../Page/CANCEL_\(本田美奈子.のアルバム\).md "wikilink")』にもゲスト参加した[ゲイリー・ムーア](../Page/ゲイリー・ムーア.md "wikilink")が書き下ろした楽曲。[セルフカバー](../Page/セルフカバー.md "wikilink")として1986年10月に「クライング・イン・ザ・シャドウ」というタイトルでシングルとしてリリースされ、後にアルバム『[ワイルド・フロンティア](https://ja.wikipedia.org/wiki/ワイルド・フロンティア "wikilink")』のCDにのみ収録された。
 
 ## 収録曲
 
@@ -19,7 +19,7 @@
         [秋元康](../Page/秋元康.md "wikilink")
   - 作詞作曲
       -
-        [Gary Moore](https://ja.wikipedia.org/wiki/ゲイリー・ムーア "wikilink") (\#1)
+        [Gary Moore](../Page/ゲイリー・ムーア.md "wikilink") (\#1)
         Tom Farmer, David Farmer, Eddy Golga (\#2)
   - 編曲
       -
@@ -31,7 +31,7 @@
       - [MINAKO COLLECTION](../Page/MINAKO_COLLECTION.md "wikilink") （1986年12月20日）
       - ゴールデンベスト ニューベストナウ （1987年6月5日）
       - DISPA 1987 （1988年1月25日） - ライブバージョン
-      - [Look over my shoulder](https://ja.wikipedia.org/wiki/Look_over_my_shoulder "wikilink") （1988年10月26日）
+      - [Look over my shoulder](../Page/Look_over_my_shoulder.md "wikilink") （1988年10月26日）
       - バラード・コレクション（1989年6月7日）
       - best now （1989年9月13日,1990年11月14日）
       - Big Artist Best Collection （1994年12月7日）
@@ -50,19 +50,19 @@
 
 ## TV
 
-  - [アイドルオンステージ](https://ja.wikipedia.org/wiki/アイドルオンステージ "wikilink")
+  - [アイドルオンステージ](../Page/アイドルオンステージ.md "wikilink")
   - [歌のトップテン](../Page/歌のトップテン.md "wikilink")
   - [歌謡ドッキリ大放送](https://ja.wikipedia.org/wiki/歌謡ドッキリ大放送 "wikilink")
-  - [歌謡びんびんハウス](https://ja.wikipedia.org/wiki/歌謡びんびんハウス "wikilink")
-  - [クイズ・ドレミファドン\!](https://ja.wikipedia.org/wiki/クイズ・ドレミファドン! "wikilink")
+  - [歌謡びんびんハウス](../Page/歌謡びんびんハウス.md "wikilink")
+  - [クイズ・ドレミファドン\!](../Page/クイズ・ドレミファドン!.md "wikilink")
   - 決定\!'87ミスユニバース日本代表
   - [ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")
-  - [新宿音楽祭](https://ja.wikipedia.org/wiki/新宿音楽祭 "wikilink")
-  - [スーパージョッキー](https://ja.wikipedia.org/wiki/スーパージョッキー "wikilink")
-  - [スターどっきり（秘）報告](https://ja.wikipedia.org/wiki/スターどっきり（秘）報告 "wikilink")
+  - [新宿音楽祭](../Page/新宿音楽祭.md "wikilink")
+  - [スーパージョッキー](../Page/スーパージョッキー.md "wikilink")
+  - [スターどっきり（秘）報告](../Page/スターどっきり（秘）報告.md "wikilink")
   - [ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")
   - [ミュージックフェア](../Page/ミュージックフェア.md "wikilink")
-  - [ヤング歌謡大賞・新人グランプリ](https://ja.wikipedia.org/wiki/ヤング歌謡大賞・新人グランプリ "wikilink")
+  - [ヤング歌謡大賞・新人グランプリ](../Page/ヤング歌謡大賞・新人グランプリ.md "wikilink")
   - [ヤングスタジオ101](https://ja.wikipedia.org/wiki/ヤングスタジオ101 "wikilink")
   - [夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink")DELUXE
   - 夢の乱入者

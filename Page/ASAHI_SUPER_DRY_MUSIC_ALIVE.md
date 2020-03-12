@@ -1,7 +1,7 @@
 > この記事は[ASAHI SUPER DRY MUSIC ALIVE](https://ja.wikipedia.org/wiki/ASAHI_SUPER_DRY_MUSIC_ALIVE)から翻訳されています。
 
 
-『**ASAHI SUPER DRY MUSIC ALIVE**』（アサヒスーパードライ・ミュージックアライブ）は、[JFN系で放送されたラジオ番組](https://ja.wikipedia.org/wiki/全国FM放送協議会 "wikilink")。
+『**ASAHI SUPER DRY MUSIC ALIVE**』（アサヒスーパードライ・ミュージックアライブ）は、[JFN系で放送されたラジオ番組](../Page/全国FM放送協議会.md "wikilink")。
 
 ## 概要
 
@@ -34,7 +34,7 @@
 <!-- end list -->
 
   -
-    [佐藤賢治が某所で開かれた](https://ja.wikipedia.org/wiki/佐藤賢治_\(ナレーター\) "wikilink")『声博』のコンパニオンとして登場。
+    [佐藤賢治が某所で開かれた](../Page/佐藤賢治_\(ナレーター\).md "wikilink")『声博』のコンパニオンとして登場。
 
 <!-- end list -->
 
@@ -44,12 +44,12 @@
 <!-- end list -->
 
   -
-    石井が番組の男性[ADに](https://ja.wikipedia.org/wiki/アシスタントディレクター "wikilink")『次世代メイク』を施しつつ進行した。また、[ジェームス小野田](https://ja.wikipedia.org/wiki/ジェームス小野田 "wikilink")がコメント出演した。
+    石井が番組の男性[ADに](../Page/アシスタントディレクター.md "wikilink")『次世代メイク』を施しつつ進行した。また、[ジェームス小野田](https://ja.wikipedia.org/wiki/ジェームス小野田 "wikilink")がコメント出演した。
 
 <!-- end list -->
 
   - ストリート
-  - [ビアンコネロ](https://ja.wikipedia.org/wiki/ビアンコネロ "wikilink")\[2\]
+  - [ビアンコネロ](../Page/ビアンコネロ.md "wikilink")\[2\]
   - 雨
   - ウェディング・ソング
   - 夏フェス
@@ -57,7 +57,7 @@
   - CDジャケット
   - ダンディズム
   - BGM
-  - [Leyona](https://ja.wikipedia.org/wiki/Leyona "wikilink")\[4\]
+  - [Leyona](../Page/Leyona.md "wikilink")\[4\]
   - アート
   - ラジオ
 
@@ -82,13 +82,13 @@
 
 <!-- end list -->
 
-  - [Chocolat](https://ja.wikipedia.org/wiki/Chocolat "wikilink") & [Akito](https://ja.wikipedia.org/wiki/GREAT3 "wikilink")\[6\]
+  - [Chocolat](../Page/Chocolat.md "wikilink") & [Akito](../Page/GREAT3.md "wikilink")\[6\]
   - ラブ
 
 <!-- end list -->
 
   -
-    『竜也と生電話』回。[ハートブレイカー限定でリスナーとトークをした](https://ja.wikipedia.org/wiki/失恋 "wikilink")。
+    『竜也と生電話』回。[ハートブレイカー限定でリスナーとトークをした](../Page/失恋.md "wikilink")。
 
 <!-- end list -->
 
@@ -106,7 +106,7 @@
 <!-- end list -->
 
   -
-    『[米 〜Best of Best〜](https://ja.wikipedia.org/wiki/米_〜Best_of_Best〜 "wikilink")』の発売と米米CLUBのデビュー20周年を記念し、ゲストのジェームス小野田とともに今だから言えるトークを展開した。
+    『[米 〜Best of Best〜](../Page/米_〜Best_of_Best〜.md "wikilink")』の発売と米米CLUBのデビュー20周年を記念し、ゲストのジェームス小野田とともに今だから言えるトークを展開した。
 
 <!-- end list -->
 
@@ -134,7 +134,7 @@
 
 <!-- end list -->
 
-  - [THC\!\!](https://ja.wikipedia.org/wiki/THC!! "wikilink")\[9\]
+  - [THC\!\!](../Page/THC!!.md "wikilink")\[9\]
   - 賀正コンピ
   - ワンっ\!
   - ビート
@@ -156,7 +156,7 @@
 <!-- end list -->
 
   -
-    [久保田利伸](https://ja.wikipedia.org/wiki/久保田利伸 "wikilink")がゲスト出演した。
+    [久保田利伸](../Page/久保田利伸.md "wikilink")がゲスト出演した。
 
 <!-- end list -->
 
@@ -224,7 +224,7 @@
 <!-- end list -->
 
   -
-    [スガシカオ](https://ja.wikipedia.org/wiki/スガシカオ "wikilink")がゲスト出演した。
+    [スガシカオ](../Page/スガシカオ.md "wikilink")がゲスト出演した。
 
 <!-- end list -->
 
@@ -325,11 +325,11 @@
 <!-- end list -->
 
   -
-    [スキマスイッチ](https://ja.wikipedia.org/wiki/スキマスイッチ "wikilink")がゲスト出演した。
+    [スキマスイッチ](../Page/スキマスイッチ.md "wikilink")がゲスト出演した。
 
 <!-- end list -->
 
-  - [ガンダム](https://ja.wikipedia.org/wiki/機動戦士ガンダム "wikilink")
+  - [ガンダム](../Page/機動戦士ガンダム.md "wikilink")
 
 <!-- end list -->
 
@@ -343,7 +343,7 @@
 <!-- end list -->
 
   -
-    このミュージックポイントの元ネタは『[山下達郎のサンデー・ソングブック](https://ja.wikipedia.org/wiki/山下達郎のサンデー・ソングブック "wikilink")』のレギュラープログラム『棚からひとつかみ』であり、オープニングの『MUSIC POINT』発表時に石井が山下に対し平謝りしていた。[BON](https://ja.wikipedia.org/wiki/大久保謙作 "wikilink")、[フラッシュ金子がゲスト出演した](https://ja.wikipedia.org/wiki/金子隆博 "wikilink")。
+    このミュージックポイントの元ネタは『[山下達郎のサンデー・ソングブック](../Page/山下達郎のサンデー・ソングブック.md "wikilink")』のレギュラープログラム『棚からひとつかみ』であり、オープニングの『MUSIC POINT』発表時に石井が山下に対し平謝りしていた。[BON](../Page/大久保謙作.md "wikilink")、[フラッシュ金子がゲスト出演した](../Page/金子隆博.md "wikilink")。
 
 <!-- end list -->
 
@@ -396,7 +396,7 @@
 <!-- end list -->
 
   -
-    『SPECIAL EDITION』の発表回で[好色人種](https://ja.wikipedia.org/wiki/好色人種 "wikilink")がゲスト出演し、この間に制作した楽曲である「爛漫＠エビバディ」を披露した\[19\]。
+    『SPECIAL EDITION』の発表回で[好色人種](../Page/好色人種.md "wikilink")がゲスト出演し、この間に制作した楽曲である「爛漫＠エビバディ」を披露した\[19\]。
 
 <!-- end list -->
 
@@ -433,4 +433,4 @@
 20. 石井曰く、『休み下手』らしい。
 21. ラジオネーム『ボブボビBON』として紹介された。メール内容は内輪ネタが満載だった。
 22. ラジオネーム『みーちゃん』として紹介されたが、すぐに正体を明かし兄が少年時代にしでかした出来事を暴露した。
-23. ラジオネーム『雷おやじ』として紹介された。なお、石井は[散文詩](https://ja.wikipedia.org/wiki/散文詩 "wikilink")じみた小野田の投稿を読みあげたのち、「どうせ出すのならわかりやすいメールをお願いします」と発言した。
+23. ラジオネーム『雷おやじ』として紹介された。なお、石井は[散文詩](../Page/散文詩.md "wikilink")じみた小野田の投稿を読みあげたのち、「どうせ出すのならわかりやすいメールをお願いします」と発言した。

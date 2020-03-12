@@ -3,13 +3,13 @@
 
 **八戸テレビ・FM中継局**（はちのへてれびえふえむちゅうけいきょく）は、[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")[三戸郡](../Page/三戸郡.md "wikilink")に置かれているテレビとFMラジオの中継局。
 
-[階上町](https://ja.wikipedia.org/wiki/階上町 "wikilink")にテレビの中継局が、[南部町にラジオの中継局がある](https://ja.wikipedia.org/wiki/南部町_\(青森県\) "wikilink")。
+[階上町](../Page/階上町.md "wikilink")にテレビの中継局が、[南部町にラジオの中継局がある](../Page/南部町_\(青森県\).md "wikilink")。
 
 ## 中継局概要
 
 ### デジタルテレビ放送
 
-階上岳の山頂付近にある\[1\]**大びらき**\[2\]\[3\]には、在青テレビ局の[デジタル八戸中継局が設置されており](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")、[八戸市](https://ja.wikipedia.org/wiki/八戸市 "wikilink")や[三沢市](../Page/三沢市.md "wikilink")、[十和田市](https://ja.wikipedia.org/wiki/十和田市 "wikilink")などの[南部地方の大部分をカバーしている](https://ja.wikipedia.org/wiki/南部地方_\(青森県\) "wikilink")。なお、当山を含む地域が2013年5月24日に三陸復興国立公園に編入された\[4\]ため、青森県内の送信施設としては、[十和田湖中継局に次いで](https://ja.wikipedia.org/wiki/十和田湖テレビ中継局 "wikilink")2番目の国立公園内にある送信施設となった。
+階上岳の山頂付近にある\[1\]**大びらき**\[2\]\[3\]には、在青テレビ局の[デジタル八戸中継局が設置されており](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")、[八戸市](https://ja.wikipedia.org/wiki/八戸市 "wikilink")や[三沢市](../Page/三沢市.md "wikilink")、[十和田市](https://ja.wikipedia.org/wiki/十和田市 "wikilink")などの[南部地方の大部分をカバーしている](../Page/南部地方_\(青森県\).md "wikilink")。なお、当山を含む地域が2013年5月24日に三陸復興国立公園に編入された\[4\]ため、青森県内の送信施設としては、[十和田湖中継局に次いで](https://ja.wikipedia.org/wiki/十和田湖テレビ中継局 "wikilink")2番目の国立公園内にある送信施設となった。
 
 [thumb](https://ja.wikipedia.org/wiki/画像:Hashikamidake-BroadcastRelayPlace-NHK01.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/画像:Hashikamidake-BroadcastRelayPlace-ABA01.jpg "wikilink")
 
@@ -19,9 +19,9 @@
 <th><p><a href="../Page/リモコンキーID.md" title="wikilink">リモコン<br />
 番号</a></p></th>
 <th><p>放送局名</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/チャンネル_(テレビ放送)" title="wikilink">チャンネル<br />
+<th><p><a href="../Page/チャンネル_(テレビ放送).md" title="wikilink">チャンネル<br />
 番号</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/空中線電力" title="wikilink">空中線<br />
+<th><p><a href="../Page/空中線電力.md" title="wikilink">空中線<br />
 電力</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/実効輻射電力" title="wikilink">実効輻射電力</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/放送#放送対象地域" title="wikilink">放送対象地域</a></p></th>
@@ -41,14 +41,14 @@
 <td><p>3.5kW[10][11][12]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/青森県" title="wikilink">青森県</a></p></td>
 <td><p>約16万3000世帯[13]</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><br />
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><br />
 <a href="../Page/8月1日.md" title="wikilink">8月1日</a></p></td>
 <td><p>大びらき[14]</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a><br />
-<a href="https://ja.wikipedia.org/wiki/NHK青森放送局" title="wikilink">青森</a><a href="https://ja.wikipedia.org/wiki/NHK教育テレビジョン" title="wikilink">教育</a></p></td>
+<a href="../Page/NHK青森放送局.md" title="wikilink">青森</a><a href="../Page/NHK教育テレビジョン.md" title="wikilink">教育</a></p></td>
 <td><p>14</p></td>
 <td><p><a href="../Page/全国放送.md" title="wikilink">全国</a></p></td>
 <td></td>
@@ -60,7 +60,7 @@
 <tr class="odd">
 <td><p>3</p></td>
 <td><p>|NHK<br />
-青森<a href="https://ja.wikipedia.org/wiki/NHK総合テレビジョン" title="wikilink">総合</a></p></td>
+青森<a href="../Page/NHK総合テレビジョン.md" title="wikilink">総合</a></p></td>
 <td><p>20</p></td>
 <td><p>青森県</p></td>
 <td></td>
@@ -96,9 +96,9 @@
 </tbody>
 </table>
 
-  - デジタルテレビ中継局は、全局[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[7月27日](../Page/7月27日.md "wikilink")から[試験放送](https://ja.wikipedia.org/wiki/試験放送 "wikilink")実施、[7月30日](../Page/7月30日.md "wikilink")に本免許交付、[8月1日](../Page/8月1日.md "wikilink")から本放送開始。
+  - デジタルテレビ中継局は、全局[2007年](../Page/2007年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink")から[試験放送](../Page/試験放送.md "wikilink")実施、[7月30日](../Page/7月30日.md "wikilink")に本免許交付、[8月1日](../Page/8月1日.md "wikilink")から本放送開始。
 
-  - デジタルの放送エリアは、[三沢市](../Page/三沢市.md "wikilink")・[上北郡](../Page/上北郡.md "wikilink")[七戸町](https://ja.wikipedia.org/wiki/七戸町 "wikilink")・上北郡[おいらせ町](https://ja.wikipedia.org/wiki/おいらせ町 "wikilink")の全域と[八戸市](https://ja.wikipedia.org/wiki/八戸市 "wikilink")・[十和田市](https://ja.wikipedia.org/wiki/十和田市 "wikilink")・上北郡[六戸町](https://ja.wikipedia.org/wiki/六戸町 "wikilink")・上北郡[東北町](https://ja.wikipedia.org/wiki/東北町 "wikilink")・上北郡[六ヶ所村](https://ja.wikipedia.org/wiki/六ヶ所村 "wikilink")・[三戸郡](../Page/三戸郡.md "wikilink")[階上町](https://ja.wikipedia.org/wiki/階上町 "wikilink")・三戸郡[五戸町](../Page/五戸町.md "wikilink")・三戸郡[南部町の各一部地域](https://ja.wikipedia.org/wiki/南部町_\(青森県\) "wikilink")。
+  - デジタルの放送エリアは、[三沢市](../Page/三沢市.md "wikilink")・[上北郡](../Page/上北郡.md "wikilink")[七戸町](../Page/七戸町.md "wikilink")・上北郡[おいらせ町](../Page/おいらせ町.md "wikilink")の全域と[八戸市](https://ja.wikipedia.org/wiki/八戸市 "wikilink")・[十和田市](https://ja.wikipedia.org/wiki/十和田市 "wikilink")・上北郡[六戸町](../Page/六戸町.md "wikilink")・上北郡[東北町](../Page/東北町.md "wikilink")・上北郡[六ヶ所村](https://ja.wikipedia.org/wiki/六ヶ所村 "wikilink")・[三戸郡](../Page/三戸郡.md "wikilink")[階上町](../Page/階上町.md "wikilink")・三戸郡[五戸町](../Page/五戸町.md "wikilink")・三戸郡[南部町の各一部地域](../Page/南部町_\(青森県\).md "wikilink")。
 
   - 。
 
@@ -170,7 +170,7 @@
 音声9.75kW</p></td>
 <td><p>青森県</p></td>
 <td><p>約16万2000世帯</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1991年" title="wikilink">1991年</a><br />
+<td><p><a href="../Page/1991年.md" title="wikilink">1991年</a><br />
 <a href="../Page/10月1日.md" title="wikilink">10月1日</a></p></td>
 <td><p>階上岳[21]</p></td>
 </tr>
@@ -180,7 +180,7 @@
 青森テレビ</p></td>
 <td><p>映像38kW/<br />
 音声9.5kW</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1970年" title="wikilink">1970年</a><br />
+<td><p><a href="../Page/1970年.md" title="wikilink">1970年</a><br />
 <a href="../Page/8月13日.md" title="wikilink">8月13日</a>[22]</p></td>
 <td></td>
 <td></td>
@@ -191,7 +191,7 @@
 </table>
 
   - 2011年7月24日をもってすべて廃止された。
-  - 当中継局は、標高約130mと低い標高地点に置かれているため、エリアカバーできない地域に[八戸沢里テレビ中継局](../Page/八戸沢里テレビ中継局.md "wikilink")や[階上テレビ中継局](../Page/階上テレビ中継局.md "wikilink")及び[NHK浜須賀中継局が](https://ja.wikipedia.org/wiki/NHK八戸浜須賀テレビ中継局 "wikilink")、それぞれ置かれていた。なお、デジタル放送については、階上岳からの電波でカバーされたため、置局予定はなく、当地に置かれているテレビ中継局は、2011年7月24日をもって廃止された。
+  - 当中継局は、標高約130mと低い標高地点に置かれているため、エリアカバーできない地域に[八戸沢里テレビ中継局](../Page/八戸沢里テレビ中継局.md "wikilink")や[階上テレビ中継局](../Page/階上テレビ中継局.md "wikilink")及び[NHK浜須賀中継局が](../Page/NHK八戸浜須賀テレビ中継局.md "wikilink")、それぞれ置かれていた。なお、デジタル放送については、階上岳からの電波でカバーされたため、置局予定はなく、当地に置かれているテレビ中継局は、2011年7月24日をもって廃止された。
   - 2009年、三戸郡および十和田市方面の地上デジタル放送開局に伴い、旧NHK総合鉄塔にデジタル放送中継伝送用のTTLパラボラが増設された。これにより、現在はFM送信所およびデジタル放送固定局の役割を負っている。
 
 ### NHK-FM、エフエム青森中継局
@@ -227,7 +227,7 @@
 <tr class="even">
 <td><p>81.8</p></td>
 <td><p>NHK<br />
-青森<a href="https://ja.wikipedia.org/wiki/NHK-FM放送" title="wikilink">FM放送</a></p></td>
+青森<a href="../Page/NHK-FM放送.md" title="wikilink">FM放送</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1969年" title="wikilink">1969年</a><a href="../Page/3月1日.md" title="wikilink">3月1日</a>[30]<br />
 （<a href="../Page/1965年.md" title="wikilink">1965年</a><a href="../Page/3月22日.md" title="wikilink">3月22日</a>[31]）[32]</p></td>
 <td></td>

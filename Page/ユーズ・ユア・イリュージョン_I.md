@@ -1,7 +1,7 @@
 > この記事は[ I](https://ja.wikipedia.org/wiki/_I)から翻訳されています。
 
 
-**ユーズ・ユア・イリュージョンI**（Use Your Illusion I）は、[ガンズ・アンド・ローゼズ](https://ja.wikipedia.org/wiki/ガンズ・アンド・ローゼズ "wikilink")の2枚目の[スタジオ・アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。
+**ユーズ・ユア・イリュージョンI**（Use Your Illusion I）は、[ガンズ・アンド・ローゼズ](https://ja.wikipedia.org/wiki/ガンズ・アンド・ローゼズ "wikilink")の2枚目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 解説
 
@@ -9,15 +9,15 @@
 
 本作より、マット・ソーラム（ドラム）とディジー・リード（キーボード）が加入。
 
-「バッド・オブセッション」に[マイケル・モンロー](https://ja.wikipedia.org/wiki/マイケル・モンロー "wikilink")が、「ザ・ガーデン」に[アリス・クーパー](https://ja.wikipedia.org/wiki/アリス・クーパー "wikilink")がゲスト参加。「コーマ」は、ライブで滅多に披露されない曲である。
+「バッド・オブセッション」に[マイケル・モンロー](../Page/マイケル・モンロー.md "wikilink")が、「ザ・ガーデン」に[アリス・クーパー](../Page/アリス・クーパー.md "wikilink")がゲスト参加。「コーマ」は、ライブで滅多に披露されない曲である。
 
-シングル・カットは、1991年に「[Live and Let Die](https://ja.wikipedia.org/wiki/007_死ぬのは奴らだ_\(曲\) "wikilink")」(全米33位)、「Don't Cry」(全米10位)。翌1992年に「November Rain」(全米3位)。「Garden of Eden」はビデオ・シングルとしてリリースされた。
+シングル・カットは、1991年に「[Live and Let Die](../Page/007_死ぬのは奴らだ_\(曲\).md "wikilink")」(全米33位)、「Don't Cry」(全米10位)。翌1992年に「November Rain」(全米3位)。「Garden of Eden」はビデオ・シングルとしてリリースされた。
 
 ## 収録曲
 
 1.  ライト・ネクスト・ドア・トゥ・ヘル "Right Next Door to Hell"（Stradlin'/Caltia/Rose） - 3:02
 2.  ダスト・アンド・ボーンズ "Dust N' Bones"（Stradlin'/McKagan/Slash） - 4:58
-3.  [リヴ・アンド・レット・ダイ](https://ja.wikipedia.org/wiki/007_死ぬのは奴らだ_\(曲\) "wikilink") "Live and Let Die"（P.McCartney/L.McCartney） - 3:03
+3.  [リヴ・アンド・レット・ダイ](../Page/007_死ぬのは奴らだ_\(曲\).md "wikilink") "Live and Let Die"（P.McCartney/L.McCartney） - 3:03
 4.  [ドント・クライ](https://ja.wikipedia.org/wiki/ドント・クライ "wikilink") "Don't Cry(Original)"（Stradlin'/Rose） - 4:44
 5.  パーフェクト・クライム "Perfect Crime"（Stradlin'/Slash/Rose） - 2:23
 6.  ユー・エイント・ザ・ファースト "You Ain't the First"（Stradlin'） - 2:36
@@ -34,10 +34,10 @@
 
 ## 参加ミュージシャン
 
-  - [アクセル・ローズ](https://ja.wikipedia.org/wiki/アクセル・ローズ "wikilink") - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ピアノ](../Page/ピアノ.md "wikilink")、[キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")、[シンセサイザー](../Page/シンセサイザー.md "wikilink")・プログラミング
-  - [スラッシュ](https://ja.wikipedia.org/wiki/スラッシュ_\(ミュージシャン\) "wikilink") - [ギター](../Page/ギター.md "wikilink")、バックグラウンド・ボーカル
-  - [イジー・ストラドリン](https://ja.wikipedia.org/wiki/イジー・ストラドリン "wikilink") - ボーカル(on 2.)、ギター、バックグラウンド・ボーカル
-  - [ダフ・マッケイガン](https://ja.wikipedia.org/wiki/ダフ・マッケイガン "wikilink") - [ベース](../Page/エレクトリックベース.md "wikilink")、バックグラウンド・ボーカル
+  - [アクセル・ローズ](../Page/アクセル・ローズ.md "wikilink") - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ピアノ](../Page/ピアノ.md "wikilink")、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、[シンセサイザー](../Page/シンセサイザー.md "wikilink")・プログラミング
+  - [スラッシュ](../Page/スラッシュ_\(ミュージシャン\).md "wikilink") - [ギター](../Page/ギター.md "wikilink")、バックグラウンド・ボーカル
+  - [イジー・ストラドリン](../Page/イジー・ストラドリン.md "wikilink") - ボーカル(on 2.)、ギター、バックグラウンド・ボーカル
+  - [ダフ・マッケイガン](../Page/ダフ・マッケイガン.md "wikilink") - [ベース](../Page/エレクトリックベース.md "wikilink")、バックグラウンド・ボーカル
   - [マット・ソーラム](https://ja.wikipedia.org/wiki/マット・ソーラム "wikilink") - [ドラムス](../Page/ドラムセット.md "wikilink")、[パーカッション](../Page/パーカッション.md "wikilink")、バックグラウンド・ボーカル
   - [ディジー・リード](https://ja.wikipedia.org/wiki/ディジー・リード "wikilink") - キーボード
 
@@ -50,10 +50,10 @@
   - シャノン・フーン - バックグラウンド・ボーカル(on 3. 4. 10. 11.)
   - Johann Langlie - シンセサイザー・プログラミング(on 3. 10. 12.)、サウンド・エフェクト(on 16.)
   - ティム・ドイル - [タンブリン](https://ja.wikipedia.org/wiki/タンブリン "wikilink")(on 6.)
-  - [マイケル・モンロー](https://ja.wikipedia.org/wiki/マイケル・モンロー "wikilink") - [ハーモニカ](https://ja.wikipedia.org/wiki/ハーモニカ "wikilink")(on 7.)、[サックス](../Page/サクソフォーン.md "wikilink")(on 7.)
+  - [マイケル・モンロー](../Page/マイケル・モンロー.md "wikilink") - [ハーモニカ](../Page/ハーモニカ.md "wikilink")(on 7.)、[サックス](../Page/サクソフォーン.md "wikilink")(on 7.)
   - ステュアート・ベイリー - バックグラウンド・ボーカル(on 10.)
   - Reba Shaw - バックグラウンド・ボーカル(on 10.)
-  - [アリス・クーパー](https://ja.wikipedia.org/wiki/アリス・クーパー "wikilink") - ボーカル(on 11.)
+  - [アリス・クーパー](../Page/アリス・クーパー.md "wikilink") - ボーカル(on 11.)
   - ウエスト・アーキーン - [アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")(on 11.)
   - マイク・クリンク - ナットクラッカー(on 15.)
   - ブルース・フォスター - サウンド・エフェクト(on 16.)

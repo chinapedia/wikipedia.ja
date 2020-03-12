@@ -5,7 +5,7 @@
 
 ## 解説
 
-  - [TBS系ドラマ](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")『[パパはニュースキャスター](https://ja.wikipedia.org/wiki/パパはニュースキャスター "wikilink")』の主題歌に採用され、本田も本人役で出演した（第1話）。
+  - [TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[パパはニュースキャスター](../Page/パパはニュースキャスター.md "wikilink")』の主題歌に採用され、本田も本人役で出演した（第1話）。
 
 ## 収録曲
 
@@ -13,7 +13,7 @@
 
 1.  **Oneway Generation**
       -
-        TBS系ドラマ「[パパはニュースキャスター](https://ja.wikipedia.org/wiki/パパはニュースキャスター "wikilink")」主題歌。
+        TBS系ドラマ「[パパはニュースキャスター](../Page/パパはニュースキャスター.md "wikilink")」主題歌。
 2.  **心のアラーム響かせて**（c/w）
 
 ## 収録アルバム
@@ -21,7 +21,7 @@
   - Oneway Generation
       - ゴールデンベスト ニューベストナウ （1987年6月5日）
       - DISPA 1987 （1988年1月25日） - ライブバージョン
-      - [Look over my shoulder](https://ja.wikipedia.org/wiki/Look_over_my_shoulder "wikilink") （1988年10月26日）
+      - [Look over my shoulder](../Page/Look_over_my_shoulder.md "wikilink") （1988年10月26日）
       - best now （1989年9月13日、1990年11月14日）
       - SHANGRI-LA BEST POP COLLECTION （1990年12月12日）
       - Big Artist Best Collection （1994年12月7日）
@@ -29,10 +29,10 @@
       - 2000 millennium BEST （2000年5月24日）
       - [GOLDEN☆BEST 本田美奈子](https://ja.wikipedia.org/wiki/GOLDEN☆BEST_本田美奈子 "wikilink") （2003年6月25日）
       - 本田美奈子BOX （2004年12月15日）
-      - [LIFE](https://ja.wikipedia.org/wiki/LIFE_\(本田美奈子.のアルバム\) "wikilink") -Minako Honda. Premium Best- （2005年5月21日）
+      - [LIFE](../Page/LIFE_\(本田美奈子.のアルバム\).md "wikilink") -Minako Honda. Premium Best- （2005年5月21日）
       - NEW BEST 1500 （2005年8月24日）
       - CD & DVD THE BEST （2005年12月7日）
-      - [ANGEL VOICE 〜本田美奈子.メモリアル・ベスト〜](https://ja.wikipedia.org/wiki/ANGEL_VOICE_〜本田美奈子.メモリアル・ベスト〜 "wikilink")（2007年4月18日）
+      - [ANGEL VOICE 〜本田美奈子.メモリアル・ベスト〜](../Page/ANGEL_VOICE_〜本田美奈子.メモリアル・ベスト〜.md "wikilink")（2007年4月18日）
 
 <!-- end list -->
 
@@ -43,21 +43,21 @@
 
   - [歌のトップテン](../Page/歌のトップテン.md "wikilink")
   - [オレたちひょうきん族](../Page/オレたちひょうきん族.md "wikilink")
-  - [歌謡びんびんハウス](https://ja.wikipedia.org/wiki/歌謡びんびんハウス "wikilink")
+  - [歌謡びんびんハウス](../Page/歌謡びんびんハウス.md "wikilink")
   - [ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")
-  - [スーパージョッキー](https://ja.wikipedia.org/wiki/スーパージョッキー "wikilink")
-  - [パパはニュースキャスター](https://ja.wikipedia.org/wiki/パパはニュースキャスター "wikilink")
+  - [スーパージョッキー](../Page/スーパージョッキー.md "wikilink")
+  - [パパはニュースキャスター](../Page/パパはニュースキャスター.md "wikilink")
   - [ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")
   - [夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink")DELUXE
   - [ロッテ 歌のアルバムNOW](../Page/ロッテ_歌のアルバム.md "wikilink")
 
 ## Thinking Dogsによるカバー
 
-日本のロックバンド・[Thinking Dogsは](https://ja.wikipedia.org/wiki/Thinking_Dogs "wikilink")、「Oneway Generation」をカバーしている。このカバー曲は、本田がオリジナル曲を発売して30年後の[2017年](../Page/2017年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")にバンドの5作目のシングルとして[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレーベルズ "wikilink")（[ソニー・ミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink") gr8\!recordsレーベル）から発売された。
+日本のロックバンド・[Thinking Dogsは](https://ja.wikipedia.org/wiki/Thinking_Dogs "wikilink")、「Oneway Generation」をカバーしている。このカバー曲は、本田がオリジナル曲を発売して30年後の[2017年](../Page/2017年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")にバンドの5作目のシングルとして[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレーベルズ "wikilink")（[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink") gr8\!recordsレーベル）から発売された。
 
 楽曲のシングルCDは初回生産限定盤、通常盤の計2種類がリリースされた。初回生産限定盤のみDVDが付属している。
 
-また、カップリング曲には、それぞれカバー曲で「[DESIRE -情熱-](https://ja.wikipedia.org/wiki/DESIRE_-情熱- "wikilink")」（[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")）、「[待つわ](https://ja.wikipedia.org/wiki/待つわ "wikilink")」（[あみん](https://ja.wikipedia.org/wiki/あみん "wikilink")）が収録されている\[1\]。
+また、カップリング曲には、それぞれカバー曲で「[DESIRE -情熱-](../Page/DESIRE_-情熱-.md "wikilink")」（[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")）、「[待つわ](../Page/待つわ.md "wikilink")」（[あみん](../Page/あみん.md "wikilink")）が収録されている\[1\]。
 
 ### メディアでの使用
 

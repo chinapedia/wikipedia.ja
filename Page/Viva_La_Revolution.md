@@ -1,11 +1,11 @@
 > この記事は[Viva La Revolution](https://ja.wikipedia.org/wiki/Viva_La_Revolution)から翻訳されています。
 
 
-『**Viva La Revolution**』（ヴィヴァ・ラ・レヴォリューション）は、[Dragon Ashの](https://ja.wikipedia.org/wiki/Dragon_Ash "wikilink")5枚目のアルバム（フルアルバムとしては3枚目）。[1999年](../Page/1999年.md "wikilink")[7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink") にリリースされた。
+『**Viva La Revolution**』（ヴィヴァ・ラ・レヴォリューション）は、[Dragon Ashの](../Page/Dragon_Ash.md "wikilink")5枚目のアルバム（フルアルバムとしては3枚目）。[1999年](../Page/1999年.md "wikilink")[7月23日](../Page/7月23日.md "wikilink") にリリースされた。
 
 ## 概要
 
-シングル「Let yourself go, Let myself go」「I LOVE HIP HOP」「Grateful Days」のヒットにより注目を集め、約180万枚の売り上げを記録した。アルバムタイトルの意味は「革命万歳」であり、ジャケットには[ウジェーヌ・ドラクロワ](../Page/ウジェーヌ・ドラクロワ.md "wikilink")が[1830年](../Page/1830年.md "wikilink")に製作した「[民衆を導く自由の女神](https://ja.wikipedia.org/wiki/民衆を導く自由の女神 "wikilink")」を真似た絵が描かれている。[CMでは父である](https://ja.wikipedia.org/wiki/コマーシャルメッセージ "wikilink")[古谷一行](https://ja.wikipedia.org/wiki/古谷一行 "wikilink")との共演を果たしており、その模様は「LILY DA VIDEO」で見ることができる。アルバムの前半はヒップホップの要素が強く、後半はロックの要素が強い。
+シングル「Let yourself go, Let myself go」「I LOVE HIP HOP」「Grateful Days」のヒットにより注目を集め、約180万枚の売り上げを記録した。アルバムタイトルの意味は「革命万歳」であり、ジャケットには[ウジェーヌ・ドラクロワ](../Page/ウジェーヌ・ドラクロワ.md "wikilink")が[1830年](../Page/1830年.md "wikilink")に製作した「[民衆を導く自由の女神](../Page/民衆を導く自由の女神.md "wikilink")」を真似た絵が描かれている。[CMでは父である](../Page/コマーシャルメッセージ.md "wikilink")[古谷一行](../Page/古谷一行.md "wikilink")との共演を果たしており、その模様は「LILY DA VIDEO」で見ることができる。アルバムの前半はヒップホップの要素が強く、後半はロックの要素が強い。
 
 ## 収録曲
 
@@ -22,7 +22,7 @@
       -
         シングル「Let yourself go, Let myself go」カップリング。
 5.  **Attention**
-6.  **[Let yourself go, Let myself go](https://ja.wikipedia.org/wiki/Let_yourself_go,_Let_myself_go "wikilink")**
+6.  **[Let yourself go, Let myself go](../Page/Let_yourself_go,_Let_myself_go.md "wikilink")**
       -
         4thシングル
 7.  **Dark cherries**
@@ -46,7 +46,7 @@
 13. **Viva la revolution**
       -
         アルバムのタイトルナンバー。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[5月25日](../Page/5月25日.md "wikilink")に発売されたTin StarのVivaをサンプリングした曲。
-14. **[Grateful Days](https://ja.wikipedia.org/wiki/Grateful_Days "wikilink")**
+14. **[Grateful Days](../Page/Grateful_Days.md "wikilink")**
       -
         5thシングル。配信版には収録されていない。
 15. **Outro**

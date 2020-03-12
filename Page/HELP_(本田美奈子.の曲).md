@@ -25,7 +25,7 @@
       - [MINAKO COLLECTION](../Page/MINAKO_COLLECTION.md "wikilink") （1986年12月20日）
       - ゴールデンベスト ニューベストナウ （1987年6月5日）
       - DISPA 1987 （1988年1月25日） - ライブバージョン
-      - [Look over my shoulder](https://ja.wikipedia.org/wiki/Look_over_my_shoulder "wikilink") （1988年10月26日）
+      - [Look over my shoulder](../Page/Look_over_my_shoulder.md "wikilink") （1988年10月26日）
       - best now （1989年9月13日、1990年11月14日）
       - Stand up -BEST BEAT COLLECTION- （1990年12月12日）
       - Big Artist Best Collection （1994年12月7日）
@@ -34,7 +34,7 @@
       - [GOLDEN☆BEST 本田美奈子](https://ja.wikipedia.org/wiki/GOLDEN☆BEST_本田美奈子 "wikilink") （2003年6月25日）
       - 本田美奈子BOX （2004年12月15日）
       - CD & DVD THE BEST （2005年12月7日）
-      - [ANGEL VOICE 〜本田美奈子.メモリアル・ベスト〜](https://ja.wikipedia.org/wiki/ANGEL_VOICE_〜本田美奈子.メモリアル・ベスト〜 "wikilink")（2007年4月18日）
+      - [ANGEL VOICE 〜本田美奈子.メモリアル・ベスト〜](../Page/ANGEL_VOICE_〜本田美奈子.メモリアル・ベスト〜.md "wikilink")（2007年4月18日）
 
 <!-- end list -->
 
@@ -46,10 +46,10 @@
 
   - [あなたが選ぶ全日本歌謡音楽祭](https://ja.wikipedia.org/wiki/全日本歌謡音楽祭 "wikilink")
   - [歌のトップテン](../Page/歌のトップテン.md "wikilink")
-  - [オールナイトフジ](https://ja.wikipedia.org/wiki/オールナイトフジ "wikilink")
-  - [スーパージョッキー](https://ja.wikipedia.org/wiki/スーパージョッキー "wikilink")
+  - [オールナイトフジ](../Page/オールナイトフジ.md "wikilink")
+  - [スーパージョッキー](../Page/スーパージョッキー.md "wikilink")
   - [ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")
-  - [日本テレビ音楽祭](https://ja.wikipedia.org/wiki/日本テレビ音楽祭 "wikilink")
+  - [日本テレビ音楽祭](../Page/日本テレビ音楽祭.md "wikilink")
   - [広島平和音楽祭](https://ja.wikipedia.org/wiki/広島平和音楽祭 "wikilink")
   - [夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink")DELUXE
 

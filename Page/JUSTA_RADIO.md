@@ -1,14 +1,14 @@
 > この記事は[JUSTA RADIO](https://ja.wikipedia.org/wiki/JUSTA_RADIO)から翻訳されています。
 
 
-**JUSTA RADIO**（ジャスタ・レディオ）は[TOKYO FMで放送されていた](../Page/エフエム東京.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。 パーソナリティは[茂木欣一](https://ja.wikipedia.org/wiki/茂木欣一 "wikilink")（[東京スカパラダイスオーケストラ](../Page/東京スカパラダイスオーケストラ.md "wikilink")）。2003年4月放送開始。2011年3月26日放送終了。放送時間、ネット局などが時期によって異なっていた。
+**JUSTA RADIO**（ジャスタ・レディオ）は[TOKYO FMで放送されていた](../Page/エフエム東京.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。 パーソナリティは[茂木欣一](../Page/茂木欣一.md "wikilink")（[東京スカパラダイスオーケストラ](../Page/東京スカパラダイスオーケストラ.md "wikilink")）。2003年4月放送開始。2011年3月26日放送終了。放送時間、ネット局などが時期によって異なっていた。
 
 ## ネット局
 
   - 2003年4月 - 2004年3月：この期間だけ、[ジャパンエフエムネットワーク](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")制作。一部放送局で放送。
-  - 2004年4月 - 2005年9月：これ以降はTOKYO FM制作。『MOTHER MUSIC RECORDS』として放送。[JFN全国](https://ja.wikipedia.org/wiki/全国FM放送協議会 "wikilink")38局ネット。*→[MOTHER MUSIC RECORDSを参照](https://ja.wikipedia.org/wiki/MOTHER_MUSIC_RECORDS "wikilink")*
+  - 2004年4月 - 2005年9月：これ以降はTOKYO FM制作。『MOTHER MUSIC RECORDS』として放送。[JFN全国](../Page/全国FM放送協議会.md "wikilink")38局ネット。*→[MOTHER MUSIC RECORDSを参照](../Page/MOTHER_MUSIC_RECORDS.md "wikilink")*
   - 2005年10月 - 2006年3月：『エンジャパンpresents JUSTA RADIO』として放送。TOKYO FM、[FM OSAKA](../Page/エフエム大阪.md "wikilink")、[FM AICHIの](../Page/エフエム愛知.md "wikilink")3局だけで放送。
-  - 2006年4月 - 2007年3月：『Shell Sound Ignition - JUSTA RADIO』として放送。JFN全国38局ネット。*→[Shell Sound Ignitionを参照](https://ja.wikipedia.org/wiki/Shell_Sound_Ignition "wikilink")*
+  - 2006年4月 - 2007年3月：『Shell Sound Ignition - JUSTA RADIO』として放送。JFN全国38局ネット。*→[Shell Sound Ignitionを参照](../Page/Shell_Sound_Ignition.md "wikilink")*
   - 2007年4月 - 2007年9月：番組名が『JUSTA RADIO』となる。引き続きJFN全国38局ネット放送。
   - 2007年10月 - 2010年3月：番組がTOKYO FMローカル放送へ変わり、金曜深夜に放送。
   - 2010年4月 - 2010年6月：金曜深夜から金曜夜に移動。

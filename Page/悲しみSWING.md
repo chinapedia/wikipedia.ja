@@ -18,13 +18,13 @@
         西木栄二 (\#1,\#2)
   - 編曲
       -
-        [大村憲司](https://ja.wikipedia.org/wiki/大村憲司 "wikilink") (\#1,\#2)
+        [大村憲司](../Page/大村憲司.md "wikilink") (\#1,\#2)
 
 ## 収録アルバム
 
   - 悲しみSWING
-      - [Midnight Swing](https://ja.wikipedia.org/wiki/Midnight_Swing "wikilink") （1987年12月16日）
-      - [Look over my shoulder](https://ja.wikipedia.org/wiki/Look_over_my_shoulder "wikilink") （1988年10月26日）
+      - [Midnight Swing](../Page/Midnight_Swing.md "wikilink") （1987年12月16日）
+      - [Look over my shoulder](../Page/Look_over_my_shoulder.md "wikilink") （1988年10月26日）
       - バラード・コレクション（1989年6月7日）
       - best now （1989年9月13日,1990年11月14日）
       - Big Artist Best Collection （1994年12月7日）
@@ -43,9 +43,9 @@
 ## TV出演
 
   - [歌のトップテン](../Page/歌のトップテン.md "wikilink")
-  - [クイズ・ドレミファドン\!](https://ja.wikipedia.org/wiki/クイズ・ドレミファドン! "wikilink")
+  - [クイズ・ドレミファドン\!](../Page/クイズ・ドレミファドン!.md "wikilink")
   - [ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")
-  - [スーパージョッキー](https://ja.wikipedia.org/wiki/スーパージョッキー "wikilink")
+  - [スーパージョッキー](../Page/スーパージョッキー.md "wikilink")
   - [ミュージックスクエア](https://ja.wikipedia.org/wiki/ミュージックスクエア "wikilink")
   - [ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")
   - [ヤングスタジオ101](https://ja.wikipedia.org/wiki/ヤングスタジオ101 "wikilink")

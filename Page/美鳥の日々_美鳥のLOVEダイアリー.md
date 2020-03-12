@@ -8,7 +8,7 @@
 パーソナリティーの[中原麻衣](https://ja.wikipedia.org/wiki/中原麻衣 "wikilink")が美鳥のキャラになり切って、リスナーからの恋愛相談などに答える番組。大まかな流れは下記の通り。
 
   - 美鳥の日記（美鳥の視点による日記の朗読）
-  - オープニング（曲：[宿題](https://ja.wikipedia.org/wiki/ホームワーク_\(中原麻衣のアルバム\) "wikilink")/ 中原麻衣）
+  - オープニング（曲：[宿題](../Page/ホームワーク_\(中原麻衣のアルバム\).md "wikilink")/ 中原麻衣）
   - CM
   - トーク
       - 恋愛相談（リスナーからのハガキ・メールに答える）
@@ -21,7 +21,7 @@
 ## 基本情報
 
   - **放送期間：**2004年1月3日～9月25日
-  - **放送局：**[ラジオ大阪](https://ja.wikipedia.org/wiki/大阪放送 "wikilink")・[TBSラジオ](../Page/TBSラジオ.md "wikilink")・[BEAT☆Net Radio\!](https://ja.wikipedia.org/wiki/BEAT☆Net_Radio! "wikilink")（インターネット配信）
+  - **放送局：**[ラジオ大阪](../Page/大阪放送.md "wikilink")・[TBSラジオ](../Page/TBSラジオ.md "wikilink")・[BEAT☆Net Radio\!](../Page/BEAT☆Net_Radio!.md "wikilink")（インターネット配信）
   - **パーソナリティー：**中原麻衣
   - **放送時間**（放送期間中変更なし・15分間）
 
@@ -31,7 +31,7 @@
 
 ## 関連商品
 
-  - 『美鳥の日々 美鳥のLOVEダイアリーCD』 - 2004年[8月4日](../Page/8月4日.md "wikilink")に[ランティス](https://ja.wikipedia.org/wiki/ランティス "wikilink")から発売されたラジオCDで、本番組の特別版を収録している。ゲストとして[rino](https://ja.wikipedia.org/wiki/rino "wikilink")、[井上和郎](https://ja.wikipedia.org/wiki/井上和郎 "wikilink")、[アツミサオリ](https://ja.wikipedia.org/wiki/アツミサオリ "wikilink")が出演している。
+  - 『美鳥の日々 美鳥のLOVEダイアリーCD』 - 2004年[8月4日](../Page/8月4日.md "wikilink")に[ランティス](../Page/ランティス.md "wikilink")から発売されたラジオCDで、本番組の特別版を収録している。ゲストとして[rino](https://ja.wikipedia.org/wiki/rino "wikilink")、[井上和郎](../Page/井上和郎.md "wikilink")、[アツミサオリ](../Page/アツミサオリ.md "wikilink")が出演している。
 
 ## 関連項目
 

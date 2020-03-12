@@ -1,7 +1,7 @@
 > この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
 
 
-**国鉄・JR線路名称一覧**（こくてつ・JRせんろめいしょういちらん）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[国有鉄道及び](../Page/日本国有鉄道.md "wikilink")[JR](../Page/JR.md "wikilink")に所属する、あるいは所属していた[鉄道路線](../Page/鉄道路線.md "wikilink")[名称の一覧である](https://ja.wikipedia.org/wiki/鉄道路線の名称 "wikilink")。
+**国鉄・JR線路名称一覧**（こくてつ・JRせんろめいしょういちらん）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[国有鉄道及び](../Page/日本国有鉄道.md "wikilink")[JR](../Page/JR.md "wikilink")に所属する、あるいは所属していた[鉄道路線](../Page/鉄道路線.md "wikilink")[名称の一覧である](../Page/鉄道路線の名称.md "wikilink")。
 
 国有鉄道の線路名称は、[1909年](../Page/1909年.md "wikilink")（明治42年）[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")に公布された**国有鉄道線路名称**（明治42年鉄道院告示第54号）によって制定されたものである。この際に[鉄道院に所属する鉄道路線は](https://ja.wikipedia.org/wiki/鉄道省 "wikilink")23部72路線に区分され、以降、必要に応じて改正が行われ、現行のJR各社の線路名称にまで引き継がれている。
 
@@ -31,7 +31,7 @@
       - [山陽新幹線](https://ja.wikipedia.org/wiki/山陽新幹線 "wikilink")（幹）　※新大阪 - 新神戸間
   - [山手線](https://ja.wikipedia.org/wiki/山手線 "wikilink")（幹）　…　1972年7月15日　山手線（東北線の部）から分離、移動
   - [赤羽線](https://ja.wikipedia.org/wiki/赤羽線 "wikilink")（幹）　…　1972年7月15日　山手線（東北線の部）から分離、移動
-  - [南武線](https://ja.wikipedia.org/wiki/南武線 "wikilink")（幹）　…　1944年4月1日　[南武鉄道買収により制定](https://ja.wikipedia.org/wiki/太平洋不動産 "wikilink")
+  - [南武線](https://ja.wikipedia.org/wiki/南武線 "wikilink")（幹）　…　1944年4月1日　[南武鉄道買収により制定](../Page/太平洋不動産.md "wikilink")
   - [鶴見線](https://ja.wikipedia.org/wiki/鶴見線 "wikilink")（幹）　…　1943年7月1日　[鶴見臨港鉄道](../Page/鶴見臨港鉄道.md "wikilink")買収により制定
   - [武蔵野線](https://ja.wikipedia.org/wiki/武蔵野線 "wikilink")（幹）　…　1973年4月1日　新規開業により制定
   - [横浜線](https://ja.wikipedia.org/wiki/横浜線 "wikilink")（幹）　…　1910年4月1日　横浜鉄道借入により制定。1917年10月1日買収
@@ -43,12 +43,12 @@
   - [伊東線](https://ja.wikipedia.org/wiki/伊東線 "wikilink")（幹）　…　1935年3月30日　新規開業により制定
   - [身延線](https://ja.wikipedia.org/wiki/身延線 "wikilink")（地）　…　1938年10月1日　富士身延鉄道借入により制定。1941年5月1日買収
   - [清水港線](https://ja.wikipedia.org/wiki/清水港線 "wikilink")（1）　…　1944年12月1日　東海道本線貨物支線を旅客扱開始にともない分離し制定。1984年4月1日　廃止
-  - [二俣線](https://ja.wikipedia.org/wiki/天竜浜名湖鉄道天竜浜名湖線 "wikilink")（2-1）　…　1940年6月1日　二俣東線から改称。1987年3月15日廃止（[天竜浜名湖鉄道](https://ja.wikipedia.org/wiki/天竜浜名湖鉄道 "wikilink")に転換）
+  - [二俣線](https://ja.wikipedia.org/wiki/天竜浜名湖鉄道天竜浜名湖線 "wikilink")（2-1）　…　1940年6月1日　二俣東線から改称。1987年3月15日廃止（[天竜浜名湖鉄道](../Page/天竜浜名湖鉄道.md "wikilink")に転換）
       - 二俣東線　…　1936年12月1日　二俣線を改称。1940年6月1日二俣線に改称
       - 二俣線　…　1935年4月17日　新規開業により制定。1936年12月1日　二俣東線に改称。
   - 二俣西線　…　1936年12月1日　新規開業により制定。1940年6月1日　二俣線に編入
-  - [飯田線](https://ja.wikipedia.org/wiki/飯田線 "wikilink")（地）　…　1943年8月1日　[豊川鉄道](https://ja.wikipedia.org/wiki/豊川鉄道 "wikilink")、[鳳来寺鉄道](https://ja.wikipedia.org/wiki/鳳来寺鉄道 "wikilink")、[三信鉄道](https://ja.wikipedia.org/wiki/三信鉄道 "wikilink")、[伊那電気鉄道](https://ja.wikipedia.org/wiki/伊那電気鉄道 "wikilink")買収により制定
-  - [岡多線](https://ja.wikipedia.org/wiki/愛知環状鉄道線 "wikilink")（3-1）　…　1970年10月1日　新規開業により制定。1988年1月31日廃止（[愛知環状鉄道](https://ja.wikipedia.org/wiki/愛知環状鉄道 "wikilink")に転換）
+  - [飯田線](https://ja.wikipedia.org/wiki/飯田線 "wikilink")（地）　…　1943年8月1日　[豊川鉄道](https://ja.wikipedia.org/wiki/豊川鉄道 "wikilink")、[鳳来寺鉄道](../Page/鳳来寺鉄道.md "wikilink")、[三信鉄道](../Page/三信鉄道.md "wikilink")、[伊那電気鉄道](https://ja.wikipedia.org/wiki/伊那電気鉄道 "wikilink")買収により制定
+  - [岡多線](https://ja.wikipedia.org/wiki/愛知環状鉄道線 "wikilink")（3-1）　…　1970年10月1日　新規開業により制定。1988年1月31日廃止（[愛知環状鉄道](../Page/愛知環状鉄道.md "wikilink")に転換）
   - \*[武豊線](https://ja.wikipedia.org/wiki/武豊線 "wikilink")（地）
   - 高山線　…　1920年11月1日　新規開業により制定。1934年10月25日　高山本線に改称し、[高山線の部に移動](https://ja.wikipedia.org/wiki/#高山線の部 "wikilink")
   - 越美南線　…　1923年10月5日　新規開業により制定。1934年10月25日高山線の部に移動
@@ -67,7 +67,7 @@
 
 ## 北陸線の部
 
-  - \*[北陸本線](https://ja.wikipedia.org/wiki/北陸本線 "wikilink")（幹）
+  - \*[北陸本線](../Page/北陸本線.md "wikilink")（幹）
   - [柳ヶ瀬線](https://ja.wikipedia.org/wiki/柳ヶ瀬線 "wikilink")　…　1957年10月1日　北陸本線から分離。1964年5月11日廃止
   - [小浜線](../Page/小浜線.md "wikilink")（地）　…　1917年12月15日　新規開業により制定
   - [越美北線](../Page/越美北線.md "wikilink")（地）　…　1960年12月15日　新規開業により制定
@@ -75,13 +75,13 @@
   - \*[七尾線](../Page/七尾線.md "wikilink")（地）
   - [能登線](https://ja.wikipedia.org/wiki/のと鉄道能登線 "wikilink")（3-1）　…　1959年6月15日　新規開業により制定。1988年3月25日廃止（[のと鉄道](../Page/のと鉄道.md "wikilink")に転換）
   - [城端線](../Page/城端線.md "wikilink")（地）　…　1942年8月1日　中越線から改称
-      - 中越線　…　1920年9月1日　[中越鉄道](https://ja.wikipedia.org/wiki/中越鉄道 "wikilink")買収により制定。1942年8月1日　城端線に改称
+      - 中越線　…　1920年9月1日　[中越鉄道](../Page/中越鉄道.md "wikilink")買収により制定。1942年8月1日　城端線に改称
   - [氷見線](../Page/氷見線.md "wikilink")（地）　…　1922年9月2日　氷見軽便線を改称
       - 氷見軽便線　…　1920年9月1日　中越鉄道買収により制定。1922年9月2日　氷見線に改称
   - [新湊線](../Page/新湊線.md "wikilink")（幹）　…　1922年9月2日　新湊軽便線を改称
       - 新湊軽便線　…　1920年9月1日　中越鉄道買収により制定。1922年9月2日　新湊線に改称
   - 飛越線　…　1927年9月1日　新規開業により制定。1934年10月25日　高山本線に編入
-  - [富山港線](https://ja.wikipedia.org/wiki/富山地方鉄道富山港線 "wikilink")（地）　…　1943年6月1日　[富山地方鉄道](../Page/富山地方鉄道.md "wikilink")（富岩線）買収により制定。2006年3月1日廃止（[富山ライトレール](https://ja.wikipedia.org/wiki/富山ライトレール "wikilink")に転換）
+  - [富山港線](https://ja.wikipedia.org/wiki/富山地方鉄道富山港線 "wikilink")（地）　…　1943年6月1日　[富山地方鉄道](../Page/富山地方鉄道.md "wikilink")（富岩線）買収により制定。2006年3月1日廃止（[富山ライトレール](../Page/富山ライトレール.md "wikilink")に転換）
   - 大糸北線　…　1934年11月14日　新規開業により制定。1957年8月15日　大糸線に編入
 
 ## 高山線の部
@@ -206,7 +206,7 @@
   - \*[参宮線](https://ja.wikipedia.org/wiki/参宮線 "wikilink")　…　1959年7月15日　一部を紀勢本線に編入し、[紀勢線の部に移動](https://ja.wikipedia.org/wiki/#紀勢線の部 "wikilink")
   - [名松線](https://ja.wikipedia.org/wiki/名松線 "wikilink")　…　1929年8月25日　新規開業により制定。1959年7月15日　紀勢線の部に移動
   - 紀勢東線　…　1923年3月20日　新規開業により制定。1959年7月15日　紀勢本線（紀勢線の部）に編入
-  - 紀勢中線　…　1934年7月1日　[新宮鉄道](https://ja.wikipedia.org/wiki/新宮鉄道 "wikilink")買収により制定。1940年8月8日　紀勢西線に編入
+  - 紀勢中線　…　1934年7月1日　[新宮鉄道](../Page/新宮鉄道.md "wikilink")買収により制定。1940年8月8日　紀勢西線に編入
   - \*[草津線](../Page/草津線.md "wikilink")（幹）
   - [信楽線](../Page/信楽高原鐵道信楽線.md "wikilink")（1）　…　1933年5月8日　新規開業により制定。1987年7月13日　廃止（[信楽高原鐵道](../Page/信楽高原鐵道.md "wikilink")に転換）
   - \*[奈良線](../Page/奈良線.md "wikilink")（幹）
@@ -339,7 +339,7 @@
   - [羽越本線](https://ja.wikipedia.org/wiki/羽越本線 "wikilink")（幹）　…　1925年11月20日　羽越線を改称
       - 羽越線（2代）　…　1924年7月31日　羽越線（初代）を編入し村上線（[信越線の部](https://ja.wikipedia.org/wiki/#信越線の部 "wikilink")）を改称。1925年11月20日　羽越本線に改称
       - 羽越線（初代）　…　1924年4月20日　陸羽東線の一部を編入し羽越北線（[奥羽線の部](https://ja.wikipedia.org/wiki/#奥羽線の部 "wikilink")）を改称。羽越線の部を創設
-  - [赤谷線](https://ja.wikipedia.org/wiki/赤谷線 "wikilink")（1）　…　1925年11月20日　新規開業により制定。1984年4月1日　廃止
+  - [赤谷線](../Page/赤谷線.md "wikilink")（1）　…　1925年11月20日　新規開業により制定。1984年4月1日　廃止
   - [白新線](https://ja.wikipedia.org/wiki/白新線 "wikilink")（幹）　…　1952年12月23日　新規開業により制定
   - 米坂西線　…　1931年8月10日　新規開業により制定。1936年8月31日　米坂線（奥羽線の部）に編入
   - [矢島線](https://ja.wikipedia.org/wiki/由利高原鉄道鳥海山ろく線 "wikilink")（1）　…　1937年9月1日　横荘鉄道買収により制定。1985年10月1日　廃止（[由利高原鉄道](../Page/由利高原鉄道.md "wikilink")に転換）
@@ -443,7 +443,7 @@
   - [香椎線](https://ja.wikipedia.org/wiki/香椎線 "wikilink")（地）　…　1944年5月1日　[西日本鉄道](https://ja.wikipedia.org/wiki/西日本鉄道 "wikilink")（糟屋線）買収により制定
   - \*[篠栗線](https://ja.wikipedia.org/wiki/篠栗線 "wikilink")（幹）
   - [勝田線](https://ja.wikipedia.org/wiki/勝田線 "wikilink")（1）　…　1944年5月1日　西日本鉄道（宇美線）買収により制定　1985年4月1日　廃止
-  - 筑肥線　…　1937年10月1日　[北九州鉄道](https://ja.wikipedia.org/wiki/北九州鉄道 "wikilink")買収により制定。1983年3月22日　[長崎線の部に移動](https://ja.wikipedia.org/wiki/#長崎線の部 "wikilink")
+  - 筑肥線　…　1937年10月1日　[北九州鉄道](../Page/北九州鉄道.md "wikilink")買収により制定。1983年3月22日　[長崎線の部に移動](https://ja.wikipedia.org/wiki/#長崎線の部 "wikilink")
   - [博多南線](../Page/博多南線.md "wikilink")（幹）　…　1990年4月1日　新規開業により制定
   - [甘木線](https://ja.wikipedia.org/wiki/甘木鉄道甘木線 "wikilink")（1）　…　1939年4月28日　新規開業により制定。1986年4月1日　廃止（甘木鉄道に転換）
   - 久大線　…　1928年12月24日　新規開業により制定。1935年5月25日　[久大線の部に移動](https://ja.wikipedia.org/wiki/#久大線の部 "wikilink")
@@ -511,10 +511,10 @@
   - [添田線](https://ja.wikipedia.org/wiki/添田線 "wikilink")（1）　…　1960年4月1日　日田線から分離。1985年4月1日　廃止
   - \*[田川線](https://ja.wikipedia.org/wiki/平成筑豊鉄道田川線 "wikilink")（1）　…　1989年10月1日　廃止（[平成筑豊鉄道](../Page/平成筑豊鉄道.md "wikilink")に転換）
   - \*宮床線　…　1943年7月1日　糸田線（[筑豊線の部](https://ja.wikipedia.org/wiki/#筑豊線の部 "wikilink")）に編入
-  - 大湯線　…　1922年12月1日　[大湯鉄道](https://ja.wikipedia.org/wiki/大湯鉄道 "wikilink")買収により制定。1934年11月15日　久大線に編入
+  - 大湯線　…　1922年12月1日　[大湯鉄道](../Page/大湯鉄道.md "wikilink")買収により制定。1934年11月15日　久大線に編入
   - 犬飼線　…　1922年9月2日　犬飼軽便線を改称。1928年12月2日　豊肥本線に編入
       - 犬飼軽便線　…　1914年4月1日　新規開業により制定。1922年9月2日　犬飼線に改称
-  - [高千穂線](https://ja.wikipedia.org/wiki/高千穂鉄道高千穂線 "wikilink")（2-1）　1972年7月22日　日ノ影線を改称。1989年4月28日　廃止（[高千穂鉄道](https://ja.wikipedia.org/wiki/高千穂鉄道 "wikilink")に転換）
+  - [高千穂線](https://ja.wikipedia.org/wiki/高千穂鉄道高千穂線 "wikilink")（2-1）　1972年7月22日　日ノ影線を改称。1989年4月28日　廃止（[高千穂鉄道](../Page/高千穂鉄道.md "wikilink")に転換）
       - 日ノ影線　…　1935年2月20日　新規開業により制定。1972年7月22日　高千穂線に改称
   - [細島線](https://ja.wikipedia.org/wiki/細島線 "wikilink")　…　1923年12月15日　宮崎線の部から移動。1972年2月1日　日豊本線（貨物支線）に編入
   - [妻線](https://ja.wikipedia.org/wiki/妻線 "wikilink")（1）　…　1923年12月15日　宮崎線の部から移動。1984年12月1日　廃止
@@ -687,10 +687,10 @@
 
 1946年2月1日　部削除
 
-  - [樺太東線](https://ja.wikipedia.org/wiki/樺太東線 "wikilink")　…　1943年4月1日　[樺太庁鉄道](https://ja.wikipedia.org/wiki/樺太庁鉄道 "wikilink")編入により制定。
-  - [豊真線](https://ja.wikipedia.org/wiki/豊真線 "wikilink")　…　1943年4月1日　樺太庁鉄道編入により制定。
-  - [川上線](https://ja.wikipedia.org/wiki/川上線 "wikilink")　…　1943年4月1日　樺太庁鉄道編入により制定。
-  - [樺太西線](https://ja.wikipedia.org/wiki/樺太西線 "wikilink")　…　1943年4月1日　樺太庁鉄道編入により制定。
+  - [樺太東線](../Page/樺太東線.md "wikilink")　…　1943年4月1日　[樺太庁鉄道](https://ja.wikipedia.org/wiki/樺太庁鉄道 "wikilink")編入により制定。
+  - [豊真線](../Page/豊真線.md "wikilink")　…　1943年4月1日　樺太庁鉄道編入により制定。
+  - [川上線](../Page/川上線.md "wikilink")　…　1943年4月1日　樺太庁鉄道編入により制定。
+  - [樺太西線](../Page/樺太西線.md "wikilink")　…　1943年4月1日　樺太庁鉄道編入により制定。
 
 ## 脚注
 

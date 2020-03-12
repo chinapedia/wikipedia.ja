@@ -1,17 +1,17 @@
 > この記事は[Open Database Connectivity](https://ja.wikipedia.org/wiki/Open_Database_Connectivity)から翻訳されています。
 
 
-**Open Database Connectivity** (**ODBC**) は、[関係データベース管理システム](../Page/関係データベース管理システム.md "wikilink") (RDBMS) にアクセスするための共通[インタフェース](https://ja.wikipedia.org/wiki/インタフェース_\(情報技術\) "wikilink") ([API](../Page/アプリケーションプログラミングインタフェース.md "wikilink"))である。
+**Open Database Connectivity** (**ODBC**) は、[関係データベース管理システム](../Page/関係データベース管理システム.md "wikilink") (RDBMS) にアクセスするための共通[インタフェース](../Page/インタフェース_\(情報技術\).md "wikilink") ([API](../Page/アプリケーションプログラミングインタフェース.md "wikilink"))である。
 
-データへのアクセスを統一化することを目的としており、たとえばクライアント／サーバ型ではない[Microsoft Accessの管理するデータベースファイル](https://ja.wikipedia.org/wiki/Microsoft_Access "wikilink") (MDB) や、そもそもRDBMSではない[CSVファイルへのアクセスなども](../Page/Comma-Separated_Values.md "wikilink")、それに対応するODBCドライバがあれば、他の一般的なデータベースへのアクセスするのと同様な方法で利用することが可能になる。
+データへのアクセスを統一化することを目的としており、たとえばクライアント／サーバ型ではない[Microsoft Accessの管理するデータベースファイル](../Page/Microsoft_Access.md "wikilink") (MDB) や、そもそもRDBMSではない[CSVファイルへのアクセスなども](../Page/Comma-Separated_Values.md "wikilink")、それに対応するODBCドライバがあれば、他の一般的なデータベースへのアクセスするのと同様な方法で利用することが可能になる。
 
-ODBCは、主に[Windows上で利用されることが多いが](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Linux](https://ja.wikipedia.org/wiki/Linux "wikilink")、[UNIX](../Page/UNIX.md "wikilink")などで利用されるケースもある。
+ODBCは、主に[Windows上で利用されることが多いが](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")、[UNIX](../Page/UNIX.md "wikilink")などで利用されるケースもある。
 
 ## 概要
 
 従来、データベースアプリケーションは、RDBMSベンダーが製品とともに配布するユーティリティや埋め込みSQLにより開発されてきたが、[C言語](../Page/C言語.md "wikilink")上のAPIレベルで統一したインターフェイスとしてデータベースに接続するためのAPIをまとめたのが、[マイクロソフト](../Page/マイクロソフト.md "wikilink")が1992年に発表した「ODBC」である。
 
-その後、ODBC3.0では、[X/Open](https://ja.wikipedia.org/wiki/X/Open "wikilink")[コンソーシアム](https://ja.wikipedia.org/wiki/コンソーシアム "wikilink")と[ISOで進められていた標準化にあわせることとなり](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")、これは1995年に「[SQL/CLI](https://ja.wikipedia.org/wiki/Call_Level_Interface "wikilink")」として[SQL](../Page/SQL.md "wikilink")標準の一部となった。
+その後、ODBC3.0では、[X/Open](https://ja.wikipedia.org/wiki/X/Open "wikilink")[コンソーシアム](../Page/コンソーシアム.md "wikilink")と[ISOで進められていた標準化にあわせることとなり](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")、これは1995年に「[SQL/CLI](../Page/Call_Level_Interface.md "wikilink")」として[SQL](../Page/SQL.md "wikilink")標準の一部となった。
 
 X/OpenとISOが進めていたSQL/CLIは、ODBCの有用性から業界標準となったODBCを標準規格化するための試みであり、それにマイクロソフトが同調した形で標準化がなされた経緯がある。そのため、ODBCもしくはSQL/CLIは多くのRDBMSでサポートされており、且つ、ODBCはほとんどの場合でSQL/CLIのスーパーセットとなっている。
 

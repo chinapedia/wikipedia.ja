@@ -3,21 +3,21 @@
 
 **MIRACLE LINUX**（ミラクル・リナックス）は、[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")の一つ。日本の[ミラクル・リナックス](https://ja.wikipedia.org/wiki/ミラクル・リナックス "wikilink")株式会社によって開発されていた。[Oracle Databaseのインストールが簡単なLinuxとして販売が開始された](../Page/Oracle_Database.md "wikilink")。しかし販売開始まもなく[Red Hat LinuxがOracle](../Page/Red_Hat_Linux.md "wikilink") Databaseのインストールに対応したことや、米国[オラクルが](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")[Oracle Enterprise Linuxをリリースしたことやオラクルが自社でRed](https://ja.wikipedia.org/wiki/Oracle_Enterprise_Linux "wikilink") Hat Linuxのサポートまで行うようになり、“Oracle Databaseに特化したLinuxディストリビューション”としてのMIRACLE LINUXはほとんど意味を持たなくなった\[1\]。
 
-**ミラクル・リナックス株式会社**は、国産Linux OSベンダーとして、2000年に[日本オラクル](https://ja.wikipedia.org/wiki/日本オラクル "wikilink")などが出資して設立された。当初は日本オラクルを中心とした株主構成となっていたが、米国オラクルの意向で日本オラクルは株式を売却し、[日本電気](../Page/日本電気.md "wikilink")、[オービックビジネスコンサルタント](../Page/オービックビジネスコンサルタント.md "wikilink")、サンブリッジ、[日立製作所](../Page/日立製作所.md "wikilink")、[NTTデータ](https://ja.wikipedia.org/wiki/NTTデータ "wikilink")、[大塚商会](https://ja.wikipedia.org/wiki/大塚商会 "wikilink")等が主要株主となった\[2\]のち、2014年7月に、[ソフトバンク・テクノロジー](https://ja.wikipedia.org/wiki/ソフトバンク・テクノロジー "wikilink")株式会社が子会社化した\[3\]。
+**ミラクル・リナックス株式会社**は、国産Linux OSベンダーとして、2000年に[日本オラクル](../Page/日本オラクル.md "wikilink")などが出資して設立された。当初は日本オラクルを中心とした株主構成となっていたが、米国オラクルの意向で日本オラクルは株式を売却し、[日本電気](../Page/日本電気.md "wikilink")、[オービックビジネスコンサルタント](../Page/オービックビジネスコンサルタント.md "wikilink")、サンブリッジ、[日立製作所](../Page/日立製作所.md "wikilink")、[NTTデータ](../Page/NTTデータ.md "wikilink")、[大塚商会](../Page/大塚商会.md "wikilink")等が主要株主となった\[2\]のち、2014年7月に、[ソフトバンク・テクノロジー](https://ja.wikipedia.org/wiki/ソフトバンク・テクノロジー "wikilink")株式会社が子会社化した\[3\]。
 
 米国オラクルがOracle Enterprise Linuxをリリースしたことに併せ、親会社であった日本オラクルはミラクルリナックスからの資金引き上げと営業支援の打ち切りを行っている。
 
-2017年10月1日付けで[サイバートラスト](https://ja.wikipedia.org/wiki/サイバートラスト "wikilink")と合併。合併はミラクル・リナックスを存続会社とする吸収合併方式だが、商号はサイバートラストに変更された\[4\]。
+2017年10月1日付けで[サイバートラスト](../Page/サイバートラスト.md "wikilink")と合併。合併はミラクル・リナックスを存続会社とする吸収合併方式だが、商号はサイバートラストに変更された\[4\]。
 
 ## 特徴
 
-Oracle Databaseはインストールする際に[ネットワークや](https://ja.wikipedia.org/wiki/コンピュータネットワーク "wikilink")[カーネル](../Page/カーネル.md "wikilink")などの設定が必要であるが、MIRACLE LINUXではそれらがあらかじめOracle Databaseの推奨値になっており、最低限の操作でインストールできるようになっていた。そのためリリースした当初は日本の大企業を中心に支持された。
+Oracle Databaseはインストールする際に[ネットワークや](../Page/コンピュータネットワーク.md "wikilink")[カーネル](../Page/カーネル.md "wikilink")などの設定が必要であるが、MIRACLE LINUXではそれらがあらかじめOracle Databaseの推奨値になっており、最低限の操作でインストールできるようになっていた。そのためリリースした当初は日本の大企業を中心に支持された。
 
-ミラクル・リナックス社は設立当初、[Debian](../Page/Debian.md "wikilink")やRed Hat Linuxに並ぶLinuxのディストリビューターを目指していたが、[Turbolinux](../Page/Turbolinux.md "wikilink")をベースにVer1.0をリリースした。その後、Turbolinuxが衰退したことにより利用継続が難しくなったが、ミラクル・リナックス社にも独自のディストリビューションを開発する力がなかったため、Ver2.0からはRed Hat Linuxがベースになった。Ver3.0以降は、[Asianux](https://ja.wikipedia.org/wiki/Asianux "wikilink")プロジェクトとしての共同開発となった。 サイバートラストとの合併後も引き続き Asianux Server == MIRACLE LINUX として、旧社名を残しつつ販売している。
+ミラクル・リナックス社は設立当初、[Debian](../Page/Debian.md "wikilink")やRed Hat Linuxに並ぶLinuxのディストリビューターを目指していたが、[Turbolinux](../Page/Turbolinux.md "wikilink")をベースにVer1.0をリリースした。その後、Turbolinuxが衰退したことにより利用継続が難しくなったが、ミラクル・リナックス社にも独自のディストリビューションを開発する力がなかったため、Ver2.0からはRed Hat Linuxがベースになった。Ver3.0以降は、[Asianux](../Page/Asianux.md "wikilink")プロジェクトとしての共同開発となった。 サイバートラストとの合併後も引き続き Asianux Server == MIRACLE LINUX として、旧社名を残しつつ販売している。
 
 ## 関連項目
 
-  - [Asianux](https://ja.wikipedia.org/wiki/Asianux "wikilink")
+  - [Asianux](../Page/Asianux.md "wikilink")
 
 ## 注釈
 

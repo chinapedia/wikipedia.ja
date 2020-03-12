@@ -1,17 +1,17 @@
 > この記事は[SEED ASTRAY](https://ja.wikipedia.org/wiki/SEED_ASTRAY)から翻訳されています。
 
 
-『**機動戦士ガンダムSEED ASTRAY**』（きどうせんしガンダムシード アストレイ）は、テレビアニメ『[機動戦士ガンダムSEED](../Page/機動戦士ガンダムSEED.md "wikilink")』および『[機動戦士ガンダムSEED DESTINY](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_DESTINY "wikilink")』の[サンライズ公式の外伝作品である](https://ja.wikipedia.org/wiki/サンライズ_\(アニメ制作会社\) "wikilink")。「ASTRAY」とは作中に登場する主役[モビルスーツ](../Page/モビルスーツ.md "wikilink") (MS) の名称で、「王道ではない」という意味が込められている。
+『**機動戦士ガンダムSEED ASTRAY**』（きどうせんしガンダムシード アストレイ）は、テレビアニメ『[機動戦士ガンダムSEED](../Page/機動戦士ガンダムSEED.md "wikilink")』および『[機動戦士ガンダムSEED DESTINY](../Page/機動戦士ガンダムSEED_DESTINY.md "wikilink")』の[サンライズ公式の外伝作品である](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")。「ASTRAY」とは作中に登場する主役[モビルスーツ](../Page/モビルスーツ.md "wikilink") (MS) の名称で、「王道ではない」という意味が込められている。
 
 ## 概要
 
-複数の作家の手で複数の雑誌に展開されているが、その全てを統括するのは[千葉智宏](https://ja.wikipedia.org/wiki/千葉智宏 "wikilink")（[スタジオオルフェ](https://ja.wikipedia.org/wiki/スタジオオルフェ "wikilink")）であり、彼のシナリオに基づいて全てのストーリーが有機的に関連している。『SEED』第30話で爆発に巻き込まれた[キラ・ヤマト](https://ja.wikipedia.org/wiki/キラ・ヤマト "wikilink")がどのように生存したのかなど、TVシリーズとの繋がりを意識したエピソードも幾つか製作されている。また、多少設定に変更があるものの『SEED ASTRAY』は模型店の店頭プロモーション用に映像化されている\[1\]。
+複数の作家の手で複数の雑誌に展開されているが、その全てを統括するのは[千葉智宏](https://ja.wikipedia.org/wiki/千葉智宏 "wikilink")（[スタジオオルフェ](https://ja.wikipedia.org/wiki/スタジオオルフェ "wikilink")）であり、彼のシナリオに基づいて全てのストーリーが有機的に関連している。『SEED』第30話で爆発に巻き込まれた[キラ・ヤマト](../Page/キラ・ヤマト.md "wikilink")がどのように生存したのかなど、TVシリーズとの繋がりを意識したエピソードも幾つか製作されている。また、多少設定に変更があるものの『SEED ASTRAY』は模型店の店頭プロモーション用に映像化されている\[1\]。
 
 この項目では、第1作の『機動戦士ガンダムSEED ASTRAY』から『機動戦士ガンダムSEED ASTRAY 天空の皇女』までのシリーズ全般について扱う。登場人物については[機動戦士ガンダムSEED ASTRAYシリーズの登場人物を参照のこと](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_ASTRAYシリーズの登場人物 "wikilink")。
 
 ## 機動戦士ガンダムSEED ASTRAY
 
-**機動戦士ガンダムSEED ASTRAY**（**きどうせんしガンダムシード アストレイ**）は、「[月刊ガンダムエース](https://ja.wikipedia.org/wiki/ガンダムエース "wikilink")」（漫画）、「[月刊少年エース](https://ja.wikipedia.org/wiki/月刊少年エース "wikilink")」（漫画）、「[電撃ホビーマガジン](https://ja.wikipedia.org/wiki/電撃ホビーマガジン "wikilink")」（ジオラマストーリー）、「[ザ・スニーカー](https://ja.wikipedia.org/wiki/ザ・スニーカー "wikilink")」（小説）の4誌で展開された作品である。
+**機動戦士ガンダムSEED ASTRAY**（**きどうせんしガンダムシード アストレイ**）は、「[月刊ガンダムエース](../Page/ガンダムエース.md "wikilink")」（漫画）、「[月刊少年エース](https://ja.wikipedia.org/wiki/月刊少年エース "wikilink")」（漫画）、「[電撃ホビーマガジン](../Page/電撃ホビーマガジン.md "wikilink")」（ジオラマストーリー）、「[ザ・スニーカー](../Page/ザ・スニーカー.md "wikilink")」（小説）の4誌で展開された作品である。
 
 それぞれの雑誌で別のストーリーが進行し、各雑誌版を独立した作品として読めるだけではなく、全てのストーリーを読むことで雑誌を越えた伏線が理解できるように考慮されており、より広い世界観を表現するものとなっている。
 
@@ -28,7 +28,7 @@
 
 <!-- end list -->
 
-  - 漫画「機動戦士ガンダムSEED ASTRAY R」[戸田泰成](https://ja.wikipedia.org/wiki/戸田泰成 "wikilink")
+  - 漫画「機動戦士ガンダムSEED ASTRAY R」[戸田泰成](../Page/戸田泰成.md "wikilink")
     少年エース連載版。豪快な絵柄が特徴。単行本は全4巻。
 
 <!-- end list -->
@@ -61,7 +61,7 @@
       - ムック2 ISBN 4-8402-2530-3
       - 単行本 ISBN 978-4840231992
   - [小説](../Page/小説.md "wikilink")「機動戦士ガンダムSEED ASTRAY」千葉智宏 著
-    ザ・スニーカー連載版。単行本（[角川スニーカー文庫](https://ja.wikipedia.org/wiki/角川スニーカー文庫 "wikilink")）は全2巻。イラスト：[緒方剛志](https://ja.wikipedia.org/wiki/緒方剛志 "wikilink")
+    ザ・スニーカー連載版。単行本（[角川スニーカー文庫](https://ja.wikipedia.org/wiki/角川スニーカー文庫 "wikilink")）は全2巻。イラスト：[緒方剛志](../Page/緒方剛志.md "wikilink")
 
 <!-- end list -->
 
@@ -70,11 +70,11 @@
 
 <!-- end list -->
 
-  - OVA（店頭プロモーション用）「機動戦士ガンダムSEED MSV ASTRAY」[谷田部勝義](https://ja.wikipedia.org/wiki/谷田部勝義 "wikilink")
+  - OVA（店頭プロモーション用）「機動戦士ガンダムSEED MSV ASTRAY」[谷田部勝義](../Page/谷田部勝義.md "wikilink")
 
 ## 機動戦士ガンダムSEED X ASTRAY
 
-**機動戦士ガンダムSEED X ASTRAY**（きどうせんしガンダムシード エックス アストレイ）は、「[月刊ガンダムエース](https://ja.wikipedia.org/wiki/ガンダムエース "wikilink")」に連載された漫画作品である。漫画は[ときた洸一](../Page/ときた洸一.md "wikilink")が担当している。
+**機動戦士ガンダムSEED X ASTRAY**（きどうせんしガンダムシード エックス アストレイ）は、「[月刊ガンダムエース](../Page/ガンダムエース.md "wikilink")」に連載された漫画作品である。漫画は[ときた洸一](../Page/ときた洸一.md "wikilink")が担当している。
 
 ガンダムエース版『ASTRAY』の続編で、SEEDのアニメ本編「PHASE-46 - 47」における空白の2か月間に起こった出来事を描いている。このストーリーでは新キャラクターである[プレア・レヴェリーと](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_ASTRAYシリーズの登場人物#プレア・レヴェリー "wikilink")[カナード・パルスとの対決をメインに描き](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_ASTRAYシリーズの登場人物#カナード・パルス "wikilink")、前作の主人公であるロウ・ギュールや叢雲劾はサブとして登場している。
 
@@ -88,11 +88,11 @@
 
 ## 機動戦士ガンダムSEED DESTINY ASTRAY
 
-**機動戦士ガンダムSEED DESTINY ASTRAY**（きどうせんしガンダムシード デスティニー アストレイ）は、『ASTRAY』の続編であり、同じく「月刊ガンダムエース」（漫画）、「電撃ホビーマガジン」（ジオラマストーリー）、「[ザ・スニーカー](https://ja.wikipedia.org/wiki/ザ・スニーカー "wikilink")」（小説）の3誌で展開されていた。
+**機動戦士ガンダムSEED DESTINY ASTRAY**（きどうせんしガンダムシード デスティニー アストレイ）は、『ASTRAY』の続編であり、同じく「月刊ガンダムエース」（漫画）、「電撃ホビーマガジン」（ジオラマストーリー）、「[ザ・スニーカー](../Page/ザ・スニーカー.md "wikilink")」（小説）の3誌で展開されていた。
 
-『[SEED DESTINY](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_DESTINY "wikilink")』のTVシリーズ放送中は『SEED』の最終話終了後から、続編である『SEED DESTINY』までの約2年間を主な舞台としていたが、TVシリーズの終了以降は『SEED DESTINY』の中で描かれなかった裏事情を描くエピソードに突入した。
+『[SEED DESTINY](../Page/機動戦士ガンダムSEED_DESTINY.md "wikilink")』のTVシリーズ放送中は『SEED』の最終話終了後から、続編である『SEED DESTINY』までの約2年間を主な舞台としていたが、TVシリーズの終了以降は『SEED DESTINY』の中で描かれなかった裏事情を描くエピソードに突入した。
 
-主人公は、新たに戦争カメラマンの[ジェス・リブルと](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_ASTRAYシリーズの登場人物#ジェス・リブル "wikilink")、彼がロウ・ギュールから譲り受けたMS「[アストレイ アウトフレーム](https://ja.wikipedia.org/wiki/ガンダムアストレイ_アウトフレーム "wikilink")」となった。これまでに登場したサーペントテールやカナード・パルスなどのキャラクターも登場するが、あくまで脇役である。
+主人公は、新たに戦争カメラマンの[ジェス・リブルと](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_ASTRAYシリーズの登場人物#ジェス・リブル "wikilink")、彼がロウ・ギュールから譲り受けたMS「[アストレイ アウトフレーム](../Page/ガンダムアストレイ_アウトフレーム.md "wikilink")」となった。これまでに登場したサーペントテールやカナード・パルスなどのキャラクターも登場するが、あくまで脇役である。
 
   - 漫画「機動戦士ガンダムSEED DESTINY ASTRAY」ときた洸一
     ガンダムエースで引き続き連載。単行本は全4巻。
@@ -166,7 +166,7 @@
 <!-- end list -->
 
   -
-    「[SEED DESTINY MSV](https://ja.wikipedia.org/wiki/ガンダムSEED_MSV "wikilink")」の「extra.01」として『アストレイ ゴールドフレーム天ミナ 攻防一体追加型ビームシールド「オキツノカガミ」装備型』の画稿と模型作例が掲載。
+    「[SEED DESTINY MSV](../Page/ガンダムSEED_MSV.md "wikilink")」の「extra.01」として『アストレイ ゴールドフレーム天ミナ 攻防一体追加型ビームシールド「オキツノカガミ」装備型』の画稿と模型作例が掲載。
 
 <!-- end list -->
 
@@ -199,7 +199,7 @@
 
 **機動戦士ガンダムSEED C.E.73 Δ ASTRAY**（きどうせんしガンダムシード コズミック・イラななじゅうさん デルタ アストレイ）は『DESTINY ASTRAY』の続編として描かれた物語で、「ガンダムエース」で連載された漫画作品である。担当はときた洸一。
 
-物語はロウたちが火星に行き、そして火星に住む人々＝マーシャンの若者たちがとある任務のために地球圏に飛来したことから始まり、その後ユニウスセブンが地球に落下する事件以降から[デスティニープラン](https://ja.wikipedia.org/wiki/デスティニープラン "wikilink")発表直後までが描かれた。
+物語はロウたちが火星に行き、そして火星に住む人々＝マーシャンの若者たちがとある任務のために地球圏に飛来したことから始まり、その後ユニウスセブンが地球に落下する事件以降から[デスティニープラン](../Page/デスティニープラン.md "wikilink")発表直後までが描かれた。
 
 またあるエピソードの裏側を書いた「機動戦士ガンダムSEED C.E.73 -STARGAZER- SPECIAL STAGE」が電撃ホビーマガジン（以下DHM）2006年12月号に掲載された。後に後日談とも言える「機動戦士ガンダムSEED C.E.73 STARGAZER PHANTOM PAIN REPORT」がDHM 2007年6 - 9月号にて連載された\[5\]。
 
@@ -259,7 +259,7 @@
 
 ## 機動戦士ガンダムSEED DESTINY ASTRAY R
 
-**機動戦士ガンダムSEED DESTINY ASTRAY R**（きどうせんしガンダムシード デスティニー アストレイ アール）は、『[月刊ホビージャパン](https://ja.wikipedia.org/wiki/月刊ホビージャパン "wikilink")』2013年6月号から2014年5月号まで連載された作品。
+**機動戦士ガンダムSEED DESTINY ASTRAY R**（きどうせんしガンダムシード デスティニー アストレイ アール）は、『[月刊ホビージャパン](../Page/月刊ホビージャパン.md "wikilink")』2013年6月号から2014年5月号まで連載された作品。
 
 ロウ・ギュールの視点で展開される。時間軸的に『Δ ASTRAY』と重複しているが（ロウが火星より地球圏へと帰還し、レッドフレームをディアゴから回収後の状態からスタートしている）、あくまでもロウ視点での自身の体験した出来事をメインとした構成となっている。
 
@@ -272,7 +272,7 @@
 
 ## 機動戦士ガンダムSEED DESTINY ASTRAY B
 
-**機動戦士ガンダムSEED DESTINY ASTRAY B**（きどうせんしガンダムシード デスティニー アストレイ ビー）は、『[電撃ホビーマガジン](https://ja.wikipedia.org/wiki/電撃ホビーマガジン "wikilink")』2013年6月号から2014年5月号まで連載された作品。小説本編は公式HPでの掲載で、『電撃ホビーマガジン』では小説のショート版と模型作例が掲載されている。
+**機動戦士ガンダムSEED DESTINY ASTRAY B**（きどうせんしガンダムシード デスティニー アストレイ ビー）は、『[電撃ホビーマガジン](../Page/電撃ホビーマガジン.md "wikilink")』2013年6月号から2014年5月号まで連載された作品。小説本編は公式HPでの掲載で、『電撃ホビーマガジン』では小説のショート版と模型作例が掲載されている。
 
 叢雲劾の視点で展開される。劾とゆかりの深い男・[ダンテ・ゴルディジャーニ率いる傭兵コンビとの戦いを描いている](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_ASTRAYシリーズの登場人物#ダンテ・ゴルディジャーニ "wikilink")。時間軸的には『DESTINY ASTRAY』の「南米独立戦争編」より後、「インパルス開発編」より前の時期である。
 
@@ -285,7 +285,7 @@
 
 ## 機動戦士ガンダムSEED ASTRAY 天空の皇女
 
-**機動戦士ガンダムSEED ASTRAY 天空の皇女**（きどうせんしガンダムシード アストレイ てんくうのプリンセス）は、『[ガンダムエース](https://ja.wikipedia.org/wiki/ガンダムエース "wikilink")』2015年10月号から2019年3月号まで連載された漫画作品で、現時点での『ASTRAY』シリーズ最新作。ときた洸一が作画を担当するが、ときたは同誌にて既に『[ガンダムEXA VS](https://ja.wikipedia.org/wiki/ガンダムEXA "wikilink")』を連載しており、2作同時連載となったため、本作は不定期連載の形をとっていたが、『ガンダムEXA VS』完結後の2017年8月号より通常連載に昇格している。
+**機動戦士ガンダムSEED ASTRAY 天空の皇女**（きどうせんしガンダムシード アストレイ てんくうのプリンセス）は、『[ガンダムエース](../Page/ガンダムエース.md "wikilink")』2015年10月号から2019年3月号まで連載された漫画作品で、現時点での『ASTRAY』シリーズ最新作。ときた洸一が作画を担当するが、ときたは同誌にて既に『[ガンダムEXA VS](https://ja.wikipedia.org/wiki/ガンダムEXA "wikilink")』を連載しており、2作同時連載となったため、本作は不定期連載の形をとっていたが、『ガンダムEXA VS』完結後の2017年8月号より通常連載に昇格している。
 
 『SEED DESTINY』終了後のC.E.を舞台に、ロンド・ミナ・サハクが自らの後継者候補に選んだ2人の少女[風花・アジャーと](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_ASTRAYシリーズの登場人物#風花・アジャー "wikilink")[ラス・ウィンスレットの成長物語を描く](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_ASTRAYシリーズの登場人物#ラス・ウィンスレット "wikilink")。物語の中で、[ウィンスレット・ワールド・コンツェルン社という企業や](https://ja.wikipedia.org/wiki/コズミック・イラの勢力#ウィンスレット・ワールド・コンツェルン社 "wikilink")[商業組合という組織が登場している](https://ja.wikipedia.org/wiki/コズミック・イラの勢力#商業組合 "wikilink")。
 

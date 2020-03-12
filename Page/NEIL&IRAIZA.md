@@ -5,20 +5,20 @@
 
 ## 経歴
 
-山下洋がリーダーを務めるロックバンド、フリーダム・スィートに在籍していた[松田岳二](https://ja.wikipedia.org/wiki/松田岳二 "wikilink")、[堀江博久](../Page/堀江博久.md "wikilink")によって[1996年](../Page/1996年.md "wikilink")に結成\[1\]。堀江博久がキーボード、松田岳二がパーカッション担当。主に堀江がボーカルを担当しているが、松田が担当している楽曲もある。
+山下洋がリーダーを務めるロックバンド、フリーダム・スィートに在籍していた[松田岳二](../Page/松田岳二.md "wikilink")、[堀江博久](../Page/堀江博久.md "wikilink")によって[1996年](../Page/1996年.md "wikilink")に結成\[1\]。堀江博久がキーボード、松田岳二がパーカッション担当。主に堀江がボーカルを担当しているが、松田が担当している楽曲もある。
 
-[2011年](../Page/2011年.md "wikilink")以降はライブ活動を休止していたが、[2015年](../Page/2015年.md "wikilink")に行われた[カジヒデキ](https://ja.wikipedia.org/wiki/カジヒデキ "wikilink")、Konkosとのライブ「FIVE IDLE RAINMANS」で復活した\[2\]。
+[2011年](../Page/2011年.md "wikilink")以降はライブ活動を休止していたが、[2015年](../Page/2015年.md "wikilink")に行われた[カジヒデキ](../Page/カジヒデキ.md "wikilink")、Konkosとのライブ「FIVE IDLE RAINMANS」で復活した\[2\]。
 
 ## メンバー
 
-  - **[松田岳二](https://ja.wikipedia.org/wiki/松田岳二 "wikilink")** (まつだ がくじ、[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[2月21日](../Page/2月21日.md "wikilink") - )：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[パーカッション](../Page/パーカッション.md "wikilink")
+  - **[松田岳二](../Page/松田岳二.md "wikilink")** (まつだ がくじ、[1970年](../Page/1970年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink") - )：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[パーカッション](../Page/パーカッション.md "wikilink")
 
 <!-- end list -->
 
   -
 
       -
-        愛称「チャーベ」。[広島県](../Page/広島県.md "wikilink")出身。[DJとしても活動](https://ja.wikipedia.org/wiki/ディスクジョッキー "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")からソロユニット[CUBISMO GRAFICOを開始](../Page/CUBISMO_GRAFICO.md "wikilink")。2003年からCUBISMO GRAFICO FIVEでも活動する。
+        愛称「チャーベ」。[広島県](../Page/広島県.md "wikilink")出身。[DJとしても活動](../Page/ディスクジョッキー.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")からソロユニット[CUBISMO GRAFICOを開始](../Page/CUBISMO_GRAFICO.md "wikilink")。2003年からCUBISMO GRAFICO FIVEでも活動する。
 
 <!-- end list -->
 
@@ -29,7 +29,7 @@
   -
 
       -
-        [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身。[SINGER SONGER](https://ja.wikipedia.org/wiki/SINGER_SONGER "wikilink")、[pupaなどで活動するほか](https://ja.wikipedia.org/wiki/pupa_\(バンド\) "wikilink")、[コーネリアス](https://ja.wikipedia.org/wiki/小山田圭吾 "wikilink")、[GREAT3](https://ja.wikipedia.org/wiki/GREAT3 "wikilink")、[PLAGUES](../Page/PLAGUES.md "wikilink")、[LOVE PSYCHEDELICO](https://ja.wikipedia.org/wiki/LOVE_PSYCHEDELICO "wikilink")、[Cocco](https://ja.wikipedia.org/wiki/Cocco "wikilink")、[木村カエラ](https://ja.wikipedia.org/wiki/木村カエラ "wikilink")、[くるり](../Page/くるり.md "wikilink")、[MASTER LOW](https://ja.wikipedia.org/wiki/MASTER_LOW "wikilink") のサポートを担当。
+        [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身。[SINGER SONGER](../Page/SINGER_SONGER.md "wikilink")、[pupaなどで活動するほか](https://ja.wikipedia.org/wiki/pupa_\(バンド\) "wikilink")、[コーネリアス](https://ja.wikipedia.org/wiki/小山田圭吾 "wikilink")、[GREAT3](../Page/GREAT3.md "wikilink")、[PLAGUES](../Page/PLAGUES.md "wikilink")、[LOVE PSYCHEDELICO](https://ja.wikipedia.org/wiki/LOVE_PSYCHEDELICO "wikilink")、[Cocco](https://ja.wikipedia.org/wiki/Cocco "wikilink")、[木村カエラ](https://ja.wikipedia.org/wiki/木村カエラ "wikilink")、[くるり](../Page/くるり.md "wikilink")、[MASTER LOW](https://ja.wikipedia.org/wiki/MASTER_LOW "wikilink") のサポートを担当。
 
 ## ディスコグラフィー
 
@@ -364,10 +364,10 @@ ESC-009</p></td>
 <td><p>COCP-50864</p></td>
 <td><ol>
 <li>MOD TRACK / <a href="https://ja.wikipedia.org/wiki/ザ・ハイロウズ" title="wikilink">ザ・ハイロウズ</a></li>
-<li>NEVER MIND / <a href="https://ja.wikipedia.org/wiki/ザ・コレクターズ" title="wikilink">ザ・コレクターズ</a></li>
+<li>NEVER MIND / <a href="../Page/ザ・コレクターズ.md" title="wikilink">ザ・コレクターズ</a></li>
 <li>JUST A LITTLE BIT OF YOUR SOUL ～alternate version～ / <a href="../Page/東京スカパラダイスオーケストラ.md" title="wikilink">東京スカパラダイスオーケストラ</a></li>
 <li>東京ディスコナイト / <a href="https://ja.wikipedia.org/wiki/スクーターズ" title="wikilink">スクーターズ</a></li>
-<li>HIGHER THAN THE SUN / <a href="https://ja.wikipedia.org/wiki/Cymbals" title="wikilink">Cymbals</a></li>
+<li>HIGHER THAN THE SUN / <a href="../Page/Cymbals.md" title="wikilink">Cymbals</a></li>
 <li><strong>TWO FIVE ONE FOUR ZERO / NEIL &amp; IRAIZA</strong></li>
 <li>TOKYO MONE¥ / <a href="https://ja.wikipedia.org/wiki/Blue_Beat_Players" title="wikilink">Blue Beat Players</a></li>
 <li>THE MODS ARE ALRIGHT / <a href="https://ja.wikipedia.org/wiki/THE_SHAMROCK" title="wikilink">THE SHAMROCK</a></li>

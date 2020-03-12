@@ -19,7 +19,7 @@ AcidPlanet主催の[ビースティー・ボーイズ](https://ja.wikipedia.org/
   - [E-girls](https://ja.wikipedia.org/wiki/E-girls "wikilink")
       -
         「**Easy come, Easy go**」(配信Single / 2019)
-        「**Making Life\!**」(Album "E.G.11" / 2018) [UHA味覚糖](https://ja.wikipedia.org/wiki/味覚糖 "wikilink")「e-maのど飴」CMソング
+        「**Making Life\!**」(Album "E.G.11" / 2018) [UHA味覚糖](../Page/味覚糖.md "wikilink")「e-maのど飴」CMソング
         「**CANDY SMILE (New Version)**」(Album "E.G.11" / 2018)
         「**ごめんなさいのKissing You (New Version)**」(Album "E.G.11" / 2018)
         「**STRAWBERRY サディスティック (New Version)**」(Album "E.G.11" / 2018)
@@ -33,7 +33,7 @@ AcidPlanet主催の[ビースティー・ボーイズ](https://ja.wikipedia.org/
         「**RYDEEN 〜Dance All Night**」(Album / 2014年)
         「**CHEWING GUM**」(Album / 2014年)
         「**Go Lady\!\!**」(CW / 2014年)
-        「**CANDY SMILE**」(Single / 2013年) [UHA味覚糖](https://ja.wikipedia.org/wiki/味覚糖 "wikilink")「e-maのど飴」CMソング
+        「**CANDY SMILE**」(Single / 2013年) [UHA味覚糖](../Page/味覚糖.md "wikilink")「e-maのど飴」CMソング
   - [Poppy](https://ja.wikipedia.org/wiki/Poppy "wikilink")
       -
         「**Moshi Moshi (CLARABELL Remix)**」(Remix / 2018年)
@@ -49,14 +49,14 @@ AcidPlanet主催の[ビースティー・ボーイズ](https://ja.wikipedia.org/
         「**No No No**」(Album / 2012年)
         「**Freedom**」(Album / 2012年)
         「**GARDEN (CLARABELL KONG RIDE FIX)**」(Remix / 2012年)
-  - [Lead](https://ja.wikipedia.org/wiki/Lead "wikilink")
+  - [Lead](../Page/Lead.md "wikilink")
       -
         「**トーキョーフィーバー**」(Single / 2017年)
   - [miracle<sup>2</sup>](https://ja.wikipedia.org/wiki/アイドル×戦士ミラクルちゅーんず!#アイドルグループ『miracle2』 "wikilink")
       -
         「**Catch Me\!**」(Arrangement / 2017年)
         「**ハートのジュエル**」(Arrangement / 2017年)
-  - [9nine](https://ja.wikipedia.org/wiki/9nine "wikilink")
+  - [9nine](../Page/9nine.md "wikilink")
       -
         「**HAPPY 7 DAYS**」(Single / 2015年)
         「**SUMMER SUMMER SUMMER**」(CW / 2015年)
@@ -121,7 +121,7 @@ AcidPlanet主催の[ビースティー・ボーイズ](https://ja.wikipedia.org/
     3.  Clara Is A Punk Rocker
     4.  FABRIC
     5.  CRASH ABOUT
-    6.  BEAM sweet def sixteen mix by [Buffalo Daughter](https://ja.wikipedia.org/wiki/Buffalo_Daughter "wikilink")
+    6.  BEAM sweet def sixteen mix by [Buffalo Daughter](../Page/Buffalo_Daughter.md "wikilink")
 
 ## 関連項目
 

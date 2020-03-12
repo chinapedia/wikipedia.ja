@@ -8,13 +8,13 @@
   - [鈴木羊](https://ja.wikipedia.org/wiki/鈴木羊 "wikilink")（すずき ひつじ）
     [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")担当。
   - 大野豊（おおの ゆたか）
-    [ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。
+    [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。
   - 中里晋康（なかざと のぶやす）
     [ドラムス担当](../Page/ドラムセット.md "wikilink")。
 
 ## 略歴
 
-1998年、イーストウェスト・ジャパン（のちの[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")）よりメジャーデビューアルバム「カラスが鳴いてホームレスがこたえる」、シングル「ナツノマボロシ」「ウララ」発売。
+1998年、イーストウェスト・ジャパン（のちの[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")）よりメジャーデビューアルバム「カラスが鳴いてホームレスがこたえる」、シングル「ナツノマボロシ」「ウララ」発売。
 
 [2000年](../Page/2000年.md "wikilink")、インディーズレーベルよりマキシシングル「HAPPY?」「魂をゆさぶれ」発売後、突如解散。
 
@@ -30,7 +30,7 @@
 
   - **カラスが鳴いてホームレスがこたえる** （1998年6月25日、AMCM-4381）
   - **ナツノマボロシ**
-      - [TBS系アニメ](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")『[浦安鉄筋家族](https://ja.wikipedia.org/wiki/浦安鉄筋家族 "wikilink")』主題歌
+      - [TBS系アニメ](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")『[浦安鉄筋家族](../Page/浦安鉄筋家族.md "wikilink")』主題歌
       - 作詞: 鈴木将人、作曲: SHEEP
   - **ウ・ラ・ラ**
   - **HAPPY?**

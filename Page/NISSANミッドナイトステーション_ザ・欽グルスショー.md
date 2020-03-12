@@ -1,21 +1,21 @@
 > この記事は[NISSAN ](https://ja.wikipedia.org/wiki/NISSAN_)から翻訳されています。
 
 
-『**[NISSANミッドナイトステーション](https://ja.wikipedia.org/wiki/NISSANミッドナイトステーション "wikilink") ザ・欽グルスショー**』（にっさんミッドナイトステーション ザ・きんグルスショー、英字表記：*NISSAN Midnight Station The Kingles Show*\[1\]）は、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")10月から[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")まで[TBSラジオ](../Page/TBSラジオ.md "wikilink")で月曜日から金曜日（[1984年](../Page/1984年.md "wikilink")4月から1985年3月まで月曜日から土曜日）の、24:00から25:00まで放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
+『**[NISSANミッドナイトステーション](../Page/NISSANミッドナイトステーション.md "wikilink") ザ・欽グルスショー**』（にっさんミッドナイトステーション ザ・きんグルスショー、英字表記：*NISSAN Midnight Station The Kingles Show*\[1\]）は、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")10月から[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")まで[TBSラジオ](../Page/TBSラジオ.md "wikilink")で月曜日から金曜日（[1984年](../Page/1984年.md "wikilink")4月から1985年3月まで月曜日から土曜日）の、24:00から25:00まで放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
 
 TBSラジオから配布されていた番組表等に『**ニッサンミッドナイトステーション ザ・欽グルスショウ**』の表記も用いられている。
 
 開始から[1984年](../Page/1984年.md "wikilink")4月までは、『**NISSANミッドナイトステーション ザ・欽グルス電リク60分**』（にっさんミッドナイトステーション ザ・きんグルスでんリクろくじっぷん）というタイトルで放送された。
 
-一貫して[日産自動車](https://ja.wikipedia.org/wiki/日産自動車 "wikilink")（NISSAN）[一社提供](https://ja.wikipedia.org/wiki/一社提供 "wikilink")による[冠スポンサー番組](https://ja.wikipedia.org/wiki/冠スポンサー番組 "wikilink")だった。
+一貫して[日産自動車](../Page/日産自動車.md "wikilink")（NISSAN）[一社提供](../Page/一社提供.md "wikilink")による[冠スポンサー番組](https://ja.wikipedia.org/wiki/冠スポンサー番組 "wikilink")だった。
 
 ## 概要
 
-  - 当時[萩本欽一](../Page/萩本欽一.md "wikilink")のバラエティ番組にレギュラー出演し、[欽ちゃんファミリー](https://ja.wikipedia.org/wiki/欽ちゃんファミリー "wikilink")と言われていたタレントたちが日替りで出演。[関根勤](../Page/関根勤.md "wikilink")、[小堺一機](../Page/小堺一機.md "wikilink")、[斉藤清六](https://ja.wikipedia.org/wiki/斉藤清六 "wikilink")、[山口良一](../Page/山口良一.md "wikilink")はこの前の時間帯、21時〜23時台で放送されていた『[るんるんナイト ワオ\!](../Page/るんるんナイト_ワオ!.md "wikilink")』のパーソナリティから引き続きこの番組に出演した。関根、小堺の[コサキン](../Page/コサキン.md "wikilink")（るんるん時代まではコサラビ）コンビはこの後も2009年3月までTBSラジオでパーソナリティを務め続けた。
+  - 当時[萩本欽一](../Page/萩本欽一.md "wikilink")のバラエティ番組にレギュラー出演し、[欽ちゃんファミリー](../Page/欽ちゃんファミリー.md "wikilink")と言われていたタレントたちが日替りで出演。[関根勤](../Page/関根勤.md "wikilink")、[小堺一機](../Page/小堺一機.md "wikilink")、[斉藤清六](https://ja.wikipedia.org/wiki/斉藤清六 "wikilink")、[山口良一](../Page/山口良一.md "wikilink")はこの前の時間帯、21時〜23時台で放送されていた『[るんるんナイト ワオ\!](../Page/るんるんナイト_ワオ!.md "wikilink")』のパーソナリティから引き続きこの番組に出演した。関根、小堺の[コサキン](../Page/コサキン.md "wikilink")（るんるん時代まではコサラビ）コンビはこの後も2009年3月までTBSラジオでパーソナリティを務め続けた。
   - タイトルはキング（萩本欽一）以外の欽ちゃんファミリーの番組ということで「キング留守」から命名。
-  - 初期の頃は前番組『[そこのけ\!電リク60分](https://ja.wikipedia.org/wiki/NISSANミッドナイトステーション_そこのけ!電リク_ザ・ベスト10 "wikilink")』から引き続き[電リク](https://ja.wikipedia.org/wiki/電リク "wikilink")という形式は引き継いだが、本番組ではバラエティ色が強くなっていた。[1984年](../Page/1984年.md "wikilink")4月からは土曜日の同じ時間で放送されていた『[そこのけ\!電リク ザ・ベスト10](https://ja.wikipedia.org/wiki/NISSANミッドナイトステーション_そこのけ!電リク_ザ・ベスト10 "wikilink")』の枠を吸収し、月曜日から土曜日までの放送となった。なお、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")4月には土曜日枠が無くなり、再び月曜日から金曜日までの放送となる。
-  - 番組のテーマ曲とジングルは[中原めいこ](https://ja.wikipedia.org/wiki/中原めいこ "wikilink")の歌によるもの（タイトル「アナタの魔法にかかりそう…」 - [アルバム](../Page/アルバム.md "wikilink")CD「ミ・ン・ト」に収録）で、『○曜日のあなたは･･･』で始まる曲は各曜日ごとに歌詞が違っていた。
-  - [1984年](../Page/1984年.md "wikilink")[11月19日](../Page/11月19日.md "wikilink")から[11月24日](../Page/11月24日.md "wikilink")までは[原宿](../Page/原宿.md "wikilink")の[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")『ペニーレイン』から中継放送。リスナーを集めたイベント、『欽グルスファンの集い』も[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")他3回行われた\[2\]。
+  - 初期の頃は前番組『[そこのけ\!電リク60分](https://ja.wikipedia.org/wiki/NISSANミッドナイトステーション_そこのけ!電リク_ザ・ベスト10 "wikilink")』から引き続き[電リク](../Page/電リク.md "wikilink")という形式は引き継いだが、本番組ではバラエティ色が強くなっていた。[1984年](../Page/1984年.md "wikilink")4月からは土曜日の同じ時間で放送されていた『[そこのけ\!電リク ザ・ベスト10](https://ja.wikipedia.org/wiki/NISSANミッドナイトステーション_そこのけ!電リク_ザ・ベスト10 "wikilink")』の枠を吸収し、月曜日から土曜日までの放送となった。なお、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")4月には土曜日枠が無くなり、再び月曜日から金曜日までの放送となる。
+  - 番組のテーマ曲とジングルは[中原めいこ](../Page/中原めいこ.md "wikilink")の歌によるもの（タイトル「アナタの魔法にかかりそう…」 - [アルバム](../Page/アルバム.md "wikilink")CD「ミ・ン・ト」に収録）で、『○曜日のあなたは･･･』で始まる曲は各曜日ごとに歌詞が違っていた。
+  - [1984年](../Page/1984年.md "wikilink")[11月19日](../Page/11月19日.md "wikilink")から[11月24日](../Page/11月24日.md "wikilink")までは[原宿](../Page/原宿.md "wikilink")の[ライブハウス](../Page/ライブハウス.md "wikilink")『ペニーレイン』から中継放送。リスナーを集めたイベント、『欽グルスファンの集い』も[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")他3回行われた\[2\]。
 
 ## パーソナリティ
 
@@ -25,15 +25,15 @@ TBSラジオから配布されていた番組表等に『**ニッサンミッド
 
 **火曜日**
 
-  - [佐藤B作](https://ja.wikipedia.org/wiki/佐藤B作 "wikilink")、山口良一 （1983年10月 - 1984年3月）
-  - 西山浩司、藤本正則（[見栄晴](https://ja.wikipedia.org/wiki/見栄晴 "wikilink")） （1984年4月 - 1985年3月）
-  - 斉藤清六、[倉沢淳美](https://ja.wikipedia.org/wiki/倉沢淳美 "wikilink")、[高橋真美](https://ja.wikipedia.org/wiki/高橋真美 "wikilink") （1985年4月 - 1985年10月）
+  - [佐藤B作](../Page/佐藤B作.md "wikilink")、山口良一 （1983年10月 - 1984年3月）
+  - 西山浩司、藤本正則（[見栄晴](../Page/見栄晴.md "wikilink")） （1984年4月 - 1985年3月）
+  - 斉藤清六、[倉沢淳美](../Page/倉沢淳美.md "wikilink")、[高橋真美](../Page/高橋真美.md "wikilink") （1985年4月 - 1985年10月）
 
 **水曜日**
 
-  - [風見慎吾](https://ja.wikipedia.org/wiki/風見しんご "wikilink")、[小西博之](https://ja.wikipedia.org/wiki/小西博之 "wikilink") （1983年10月 - 1984年3月）
+  - [風見慎吾](../Page/風見しんご.md "wikilink")、[小西博之](../Page/小西博之.md "wikilink") （1983年10月 - 1984年3月）
   - 倉沢淳美、高橋真美 （1984年4月 - 1985年3月）
-  - [高橋等](https://ja.wikipedia.org/wiki/高橋等_\(放送作家\) "wikilink")、[野咲たみこ](https://ja.wikipedia.org/wiki/野咲たみこ "wikilink") （1985年4月 - 1985年10月）
+  - [高橋等](https://ja.wikipedia.org/wiki/高橋等_\(放送作家\) "wikilink")、[野咲たみこ](../Page/野咲たみこ.md "wikilink") （1985年4月 - 1985年10月）
 
 **木曜日**
 
@@ -43,8 +43,8 @@ TBSラジオから配布されていた番組表等に『**ニッサンミッド
 **金曜日**
 
   - 関根勤、小堺一機 （1983年10月 - 1984年3月）
-  - 佐藤B作、[清水由貴子](https://ja.wikipedia.org/wiki/清水由貴子 "wikilink") （1984年4月 - 1985年3月）
-  - 佐藤B作、小西博之、[天久美智子](https://ja.wikipedia.org/wiki/あめくみちこ "wikilink") （1985年4月 - 1985年10月）
+  - 佐藤B作、[清水由貴子](../Page/清水由貴子.md "wikilink") （1984年4月 - 1985年3月）
+  - 佐藤B作、小西博之、[天久美智子](../Page/あめくみちこ.md "wikilink") （1985年4月 - 1985年10月）
 
 **土曜日**
 
@@ -68,7 +68,7 @@ TBSラジオから配布されていた番組表等に『**ニッサンミッド
 <!-- end list -->
 
   -
-    それまでの『るんるんナイト コサラビワオ\!』で行われていたリスナーの物まね企画をコーナー化。全5問で、第1・2・4問は関根のやる物まねが何なのかを当てる問題（第4問は超難問の「擬音コーナー」）で1問10点。第3・5問はリスナー自身が物まねを披露し、合格すると得点が倍になる。高得点を取ったリスナーには[シール](https://ja.wikipedia.org/wiki/シール "wikilink")と番組表の入った**欽グルス袋**が贈られ、100点満点獲得者には「スタジオにご招待」か「自宅をコサキンが訪問」のどちらかの特典があった。初代の満点獲得者である、[大場久美子](../Page/大場久美子.md "wikilink")と[岸田今日子](https://ja.wikipedia.org/wiki/岸田今日子 "wikilink")の声を使い分けるなどの芸で出演した「クーミン」と呼ばれる女性リスナーが番組内で話題になった\[3\]。
+    それまでの『るんるんナイト コサラビワオ\!』で行われていたリスナーの物まね企画をコーナー化。全5問で、第1・2・4問は関根のやる物まねが何なのかを当てる問題（第4問は超難問の「擬音コーナー」）で1問10点。第3・5問はリスナー自身が物まねを披露し、合格すると得点が倍になる。高得点を取ったリスナーには[シール](../Page/シール.md "wikilink")と番組表の入った**欽グルス袋**が贈られ、100点満点獲得者には「スタジオにご招待」か「自宅をコサキンが訪問」のどちらかの特典があった。初代の満点獲得者である、[大場久美子](../Page/大場久美子.md "wikilink")と[岸田今日子](../Page/岸田今日子.md "wikilink")の声を使い分けるなどの芸で出演した「クーミン」と呼ばれる女性リスナーが番組内で話題になった\[3\]。
 
 <!-- end list -->
 
@@ -168,7 +168,7 @@ TBSラジオから配布されていた番組表等に『**ニッサンミッド
 <!-- end list -->
 
   -
-    レコードのB面曲（CDでいうカップリング曲）の名曲を紹介。コーナーテーマ曲は、もちろん[Gメン'75](https://ja.wikipedia.org/wiki/Gメン'75 "wikilink")のテーマであった。
+    レコードのB面曲（CDでいうカップリング曲）の名曲を紹介。コーナーテーマ曲は、もちろん[Gメン'75](../Page/Gメン'75.md "wikilink")のテーマであった。
 
 ## イベント・エピソード
 
@@ -180,12 +180,12 @@ TBSラジオから配布されていた番組表等に『**ニッサンミッド
 
 （出典：\[4\]）
 
-  - [1984年](../Page/1984年.md "wikilink")1月頃から、番組中に[粘土](../Page/粘土.md "wikilink")作りなどの[ウニ](../Page/ウニ.md "wikilink")の作品がコサキンの番組に贈られてくるようになり、その中で当時リスナーだった[秋葉隆史](https://ja.wikipedia.org/wiki/秋葉隆史 "wikilink")（現在はテレビ[ディレクター](../Page/ディレクター.md "wikilink")）から[ラジコン](https://ja.wikipedia.org/wiki/ラジコン "wikilink")で動くウニが贈られてきたことがきっかけで本格的に番組中でブームになり、同年[4月28日](../Page/4月28日.md "wikilink")には[TBSホール](https://ja.wikipedia.org/wiki/TBSホール "wikilink")で約2000人のリスナーを集めた「**ウニ展**」が開催されるまでになった。
-  - 1984年[4月1日](../Page/4月1日.md "wikilink")にはコサキンの2人を交えたイベント、**[高尾山](../Page/高尾山.md "wikilink")ハイキング**が行われた。この前日の[3月31日](../Page/3月31日.md "wikilink")の放送の最後で、[エイプリルフール](https://ja.wikipedia.org/wiki/エイプリルフール "wikilink")のようなつもりで二人がちょっとだけ言っただけだったが、[降雪](https://ja.wikipedia.org/wiki/降雪 "wikilink")の天気の中で[高尾山ケーブルカーの](https://ja.wikipedia.org/wiki/高尾登山電鉄 "wikilink")[清滝駅の前には約](https://ja.wikipedia.org/wiki/高尾登山電鉄の駅 "wikilink")100人のリスナーが集まっていた。頂上では「絶叫大会」などが行われた。
-  - この当時、同じ事務所の[車だん吉](https://ja.wikipedia.org/wiki/車だん吉 "wikilink")のネタで番組が盛り上がっていたことがあり、「周りにいっぱい[ハニワがある](../Page/埴輪.md "wikilink")[古墳](https://ja.wikipedia.org/wiki/古墳 "wikilink")に住んでいる」といったネタがきっかけでこの年の5月頃からハニワ作品がリスナーから贈られてくるようになった。前述のウニと同じ様にこれも番組中でブームになり、この年の[8月3日](../Page/8月3日.md "wikilink")にはコサキンの2人も参加し、リスナーはハニワの仮装で集まったバスツアー「**ハニワだよ\!全員集合**」が[富士急ハイランド](https://ja.wikipedia.org/wiki/富士急ハイランド "wikilink")で、同年[11月18日](../Page/11月18日.md "wikilink")には「**ハニワ展**」がTBSホールで行われた。
-  - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")の放送では、「[腹痛](https://ja.wikipedia.org/wiki/腹痛 "wikilink")がする」と言って関根が途中でスタジオを抜け出し、残った小堺が放送作家の[鶴間政行](https://ja.wikipedia.org/wiki/鶴間政行 "wikilink")と一緒に番組を進めていたが、数分後に関根が[トレンチコート](../Page/トレンチコート.md "wikilink")に[茶色](../Page/茶色.md "wikilink")の[タートルネック](https://ja.wikipedia.org/wiki/タートルネック "wikilink")という、当時[TBSテレビ](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")で放送されていたドラマ『[少女に何が起ったか](https://ja.wikipedia.org/wiki/少女に何が起ったか "wikilink")』の中で[宇津井健](https://ja.wikipedia.org/wiki/宇津井健 "wikilink")がしていた格好と同じ様な姿で「窓辺に立つぞうです」と言って現れ、小堺が笑い転げていたということがあった。実は関根、鶴間とディレクターの門脇覚が小堺向けに仕掛けたものだったという（これがリスナー間では「**窓辺に立つぞう事件**」と言われている）。この3週間後には今度は小堺が「雑誌の取材と撮影でスタジオ入りが遅れる」として関根を仕掛けようとし、関根と当時のマネージャーと2人で番組を進めているところへ[ブリーフ](https://ja.wikipedia.org/wiki/ブリーフ "wikilink")1枚に[トイレットペーパー](../Page/トイレットペーパー.md "wikilink")を体中にぐるぐる巻きにした姿で現れるということをしたが、関根には「今までずっとその姿で撮影していたの」と思い込まれて全くウケなかったという。
+  - [1984年](../Page/1984年.md "wikilink")1月頃から、番組中に[粘土](../Page/粘土.md "wikilink")作りなどの[ウニ](../Page/ウニ.md "wikilink")の作品がコサキンの番組に贈られてくるようになり、その中で当時リスナーだった[秋葉隆史](../Page/秋葉隆史.md "wikilink")（現在はテレビ[ディレクター](../Page/ディレクター.md "wikilink")）から[ラジコン](https://ja.wikipedia.org/wiki/ラジコン "wikilink")で動くウニが贈られてきたことがきっかけで本格的に番組中でブームになり、同年[4月28日](../Page/4月28日.md "wikilink")には[TBSホール](https://ja.wikipedia.org/wiki/TBSホール "wikilink")で約2000人のリスナーを集めた「**ウニ展**」が開催されるまでになった。
+  - 1984年[4月1日](../Page/4月1日.md "wikilink")にはコサキンの2人を交えたイベント、**[高尾山](../Page/高尾山.md "wikilink")ハイキング**が行われた。この前日の[3月31日](../Page/3月31日.md "wikilink")の放送の最後で、[エイプリルフール](https://ja.wikipedia.org/wiki/エイプリルフール "wikilink")のようなつもりで二人がちょっとだけ言っただけだったが、[降雪](../Page/降雪.md "wikilink")の天気の中で[高尾山ケーブルカーの](https://ja.wikipedia.org/wiki/高尾登山電鉄 "wikilink")[清滝駅の前には約](https://ja.wikipedia.org/wiki/高尾登山電鉄の駅 "wikilink")100人のリスナーが集まっていた。頂上では「絶叫大会」などが行われた。
+  - この当時、同じ事務所の[車だん吉](../Page/車だん吉.md "wikilink")のネタで番組が盛り上がっていたことがあり、「周りにいっぱい[ハニワがある](../Page/埴輪.md "wikilink")[古墳](https://ja.wikipedia.org/wiki/古墳 "wikilink")に住んでいる」といったネタがきっかけでこの年の5月頃からハニワ作品がリスナーから贈られてくるようになった。前述のウニと同じ様にこれも番組中でブームになり、この年の[8月3日](../Page/8月3日.md "wikilink")にはコサキンの2人も参加し、リスナーはハニワの仮装で集まったバスツアー「**ハニワだよ\!全員集合**」が[富士急ハイランド](https://ja.wikipedia.org/wiki/富士急ハイランド "wikilink")で、同年[11月18日](../Page/11月18日.md "wikilink")には「**ハニワ展**」がTBSホールで行われた。
+  - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")の放送では、「[腹痛](../Page/腹痛.md "wikilink")がする」と言って関根が途中でスタジオを抜け出し、残った小堺が放送作家の[鶴間政行](../Page/鶴間政行.md "wikilink")と一緒に番組を進めていたが、数分後に関根が[トレンチコート](../Page/トレンチコート.md "wikilink")に[茶色](../Page/茶色.md "wikilink")の[タートルネック](https://ja.wikipedia.org/wiki/タートルネック "wikilink")という、当時[TBSテレビ](../Page/TBSテレビ.md "wikilink")で放送されていたドラマ『[少女に何が起ったか](../Page/少女に何が起ったか.md "wikilink")』の中で[宇津井健](../Page/宇津井健.md "wikilink")がしていた格好と同じ様な姿で「窓辺に立つぞうです」と言って現れ、小堺が笑い転げていたということがあった。実は関根、鶴間とディレクターの門脇覚が小堺向けに仕掛けたものだったという（これがリスナー間では「**窓辺に立つぞう事件**」と言われている）。この3週間後には今度は小堺が「雑誌の取材と撮影でスタジオ入りが遅れる」として関根を仕掛けようとし、関根と当時のマネージャーと2人で番組を進めているところへ[ブリーフ](../Page/ブリーフ.md "wikilink")1枚に[トイレットペーパー](../Page/トイレットペーパー.md "wikilink")を体中にぐるぐる巻きにした姿で現れるということをしたが、関根には「今までずっとその姿で撮影していたの」と思い込まれて全くウケなかったという。
   - 1985年[3月30日](../Page/3月30日.md "wikilink")の放送で、小堺が当時[横浜大洋ホエールズの](https://ja.wikipedia.org/wiki/横浜ベイスターズ "wikilink")「**[高木豊](../Page/高木豊.md "wikilink")[内野手](../Page/内野手.md "wikilink")**」を「**たかぎとようちやしゅ**」を読み間違え、以降も番組（コサキン）でたびたびネタにされた。
-  - 1985年5月頃から、[バーブ佐竹](https://ja.wikipedia.org/wiki/バーブ佐竹 "wikilink")の曲「青いゴムゾーリ」が番組中で盛り上がり始め、この翌年[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[7月28日](../Page/7月28日.md "wikilink")に[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[鎌倉市](../Page/鎌倉市.md "wikilink")の[由比ヶ浜](https://ja.wikipedia.org/wiki/由比ヶ浜 "wikilink")で行われた「**青いゴムゾーリ投げ大会**」につながっていった。
+  - 1985年5月頃から、[バーブ佐竹](../Page/バーブ佐竹.md "wikilink")の曲「青いゴムゾーリ」が番組中で盛り上がり始め、この翌年[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[7月28日](../Page/7月28日.md "wikilink")に[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[鎌倉市](../Page/鎌倉市.md "wikilink")の[由比ヶ浜](../Page/由比ヶ浜.md "wikilink")で行われた「**青いゴムゾーリ投げ大会**」につながっていった。
   - この他番組イベントとしては、1985年[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")に「コサキン七夕の集い」が、同年[8月29日](../Page/8月29日.md "wikilink")には「コサキンスポーツフェア・野球大会」が行われている。
 
 ## 脚注
@@ -197,7 +197,7 @@ TBSラジオから配布されていた番組表等に『**ニッサンミッド
 
 [Category:NISSANミッドナイトステーション](https://ja.wikipedia.org/wiki/Category:NISSANミッドナイトステーション "wikilink") [Category:欽ちゃんファミリー](https://ja.wikipedia.org/wiki/Category:欽ちゃんファミリー "wikilink") [Category:コサキン](https://ja.wikipedia.org/wiki/Category:コサキン "wikilink") [Category:1983年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1983年のラジオ番組_\(日本\) "wikilink") [Category:継続中にタイトルが変更された作品](https://ja.wikipedia.org/wiki/Category:継続中にタイトルが変更された作品 "wikilink")
 
-1.  当時の番組[ノベルティ](https://ja.wikipedia.org/wiki/ノベルティ "wikilink")グッズを参考に記述。
-2.  月刊[ラジオパラダイス](https://ja.wikipedia.org/wiki/ラジオパラダイス "wikilink") 1987年6月号「コサキン大特集」より。
+1.  当時の番組[ノベルティ](../Page/ノベルティ.md "wikilink")グッズを参考に記述。
+2.  月刊[ラジオパラダイス](../Page/ラジオパラダイス.md "wikilink") 1987年6月号「コサキン大特集」より。
 3.
 4.

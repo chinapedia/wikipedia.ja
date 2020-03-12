@@ -9,7 +9,7 @@
 
 ## 第1回
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月10日](../Page/10月10日.md "wikilink")、[六本木ヴェルファーレ](https://ja.wikipedia.org/wiki/六本木ヴェルファーレ "wikilink")で開催。
+[2005年](../Page/2005年.md "wikilink")[10月10日](../Page/10月10日.md "wikilink")、[六本木ヴェルファーレ](https://ja.wikipedia.org/wiki/六本木ヴェルファーレ "wikilink")で開催。
 
 ### 出演者
 
@@ -17,20 +17,20 @@
 
 <!-- end list -->
 
-  - [Hi69](https://ja.wikipedia.org/wiki/Hi69 "wikilink")
-  - [Gamma](https://ja.wikipedia.org/wiki/Gamma "wikilink")
-  - [GENTARO](https://ja.wikipedia.org/wiki/GENTARO "wikilink")
-  - [大石真翔](https://ja.wikipedia.org/wiki/大石真翔 "wikilink")
-  - [大向美智子](https://ja.wikipedia.org/wiki/大向美智子 "wikilink")
-  - [AKINO](https://ja.wikipedia.org/wiki/AKINO_\(プロレスラー\) "wikilink")
+  - [Hi69](../Page/Hi69.md "wikilink")
+  - [Gamma](../Page/Gamma.md "wikilink")
+  - [GENTARO](../Page/GENTARO.md "wikilink")
+  - [大石真翔](../Page/大石真翔.md "wikilink")
+  - [大向美智子](../Page/大向美智子.md "wikilink")
+  - [AKINO](../Page/AKINO_\(プロレスラー\).md "wikilink")
 
 <!-- end list -->
 
-  - [西口プロレス](https://ja.wikipedia.org/wiki/西口プロレス "wikilink")
+  - [西口プロレス](../Page/西口プロレス.md "wikilink")
 
 <!-- end list -->
 
-  - [長州小力](https://ja.wikipedia.org/wiki/長州小力 "wikilink")
+  - [長州小力](../Page/長州小力.md "wikilink")
   - [アントニオ小猪木](https://ja.wikipedia.org/wiki/アントニオ小猪木 "wikilink")
   - [超能力少年ダイジ](https://ja.wikipedia.org/wiki/超能力少年ダイジ "wikilink")
   - [グッドニュースアレン](https://ja.wikipedia.org/wiki/グッドニュースアレン "wikilink")
@@ -54,7 +54,7 @@
 
 <!-- end list -->
 
-  - [HIBIKILLA](https://ja.wikipedia.org/wiki/HIBIKILLA "wikilink")
+  - [HIBIKILLA](../Page/HIBIKILLA.md "wikilink")
 
 <!-- end list -->
 
@@ -94,7 +94,7 @@
 
 <!-- end list -->
 
-  - [鮎貝健](https://ja.wikipedia.org/wiki/鮎貝健 "wikilink")
+  - [鮎貝健](../Page/鮎貝健.md "wikilink")
 
 <!-- end list -->
 
@@ -107,7 +107,7 @@
 
 ## 第2回
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[6月27日](../Page/6月27日.md "wikilink")、六本木ヴェルファーレで開催。
+[2006年](../Page/2006年.md "wikilink")[6月27日](../Page/6月27日.md "wikilink")、六本木ヴェルファーレで開催。
 
 ### 出演者
 
@@ -115,28 +115,28 @@
 
 <!-- end list -->
 
-  - [大向美智子](https://ja.wikipedia.org/wiki/大向美智子 "wikilink")
-  - [浜田文子](https://ja.wikipedia.org/wiki/浜田文子 "wikilink")
-  - [植松寿絵](https://ja.wikipedia.org/wiki/植松寿絵 "wikilink")
-  - [木村響子](https://ja.wikipedia.org/wiki/木村響子 "wikilink")
-  - [大石真翔](https://ja.wikipedia.org/wiki/大石真翔 "wikilink")
-  - [アップルみゆき](https://ja.wikipedia.org/wiki/ハイビスカスみぃ "wikilink")
-  - [GAMI](https://ja.wikipedia.org/wiki/GAMI "wikilink")
+  - [大向美智子](../Page/大向美智子.md "wikilink")
+  - [浜田文子](../Page/浜田文子.md "wikilink")
+  - [植松寿絵](../Page/植松寿絵.md "wikilink")
+  - [木村響子](../Page/木村響子.md "wikilink")
+  - [大石真翔](../Page/大石真翔.md "wikilink")
+  - [アップルみゆき](../Page/ハイビスカスみぃ.md "wikilink")
+  - [GAMI](../Page/GAMI.md "wikilink")
   - [川嵜風馬](https://ja.wikipedia.org/wiki/川嵜風馬 "wikilink")
-  - [忍](https://ja.wikipedia.org/wiki/忍_\(プロレスラー\) "wikilink")
+  - [忍](../Page/忍_\(プロレスラー\).md "wikilink")
   - [ミラニートコレクションa.t.](https://ja.wikipedia.org/wiki/大椙努 "wikilink")
   - [JKO](https://ja.wikipedia.org/wiki/JKO "wikilink")
-  - [YOSHIYA](https://ja.wikipedia.org/wiki/YOSHIYA "wikilink")
-  - [チョコボール向井](https://ja.wikipedia.org/wiki/チョコボール向井 "wikilink")
+  - [YOSHIYA](../Page/YOSHIYA.md "wikilink")
+  - [チョコボール向井](../Page/チョコボール向井.md "wikilink")
   - [清水基嗣](../Page/清水基嗣.md "wikilink")
 
 ## 第3回
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月9日](../Page/10月9日.md "wikilink")、六本木ヴェルファーレで開催。
+[2006年](../Page/2006年.md "wikilink")[10月9日](../Page/10月9日.md "wikilink")、六本木ヴェルファーレで開催。
 
 ## 第4回
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[2月4日](../Page/2月4日.md "wikilink")、[渋谷asia](https://ja.wikipedia.org/wiki/渋谷asia "wikilink")で開催。
+[2007年](../Page/2007年.md "wikilink")[2月4日](../Page/2月4日.md "wikilink")、[渋谷asia](https://ja.wikipedia.org/wiki/渋谷asia "wikilink")で開催。
 
 ### 出演者
 
@@ -144,28 +144,28 @@
 
 <!-- end list -->
 
-  - [KAZMA](https://ja.wikipedia.org/wiki/KAZMA_SAKAMOTO "wikilink")
+  - [KAZMA](../Page/KAZMA_SAKAMOTO.md "wikilink")
   - [ミラニートコレクションa.t.](https://ja.wikipedia.org/wiki/大椙努 "wikilink")
-  - [アップルみゆき](https://ja.wikipedia.org/wiki/ハイビスカスみぃ "wikilink")
-  - [大石真翔](https://ja.wikipedia.org/wiki/大石真翔 "wikilink")
-  - [旭志織](https://ja.wikipedia.org/wiki/旭志織 "wikilink")
-  - [バンビ](https://ja.wikipedia.org/wiki/バンビ_\(プロレスラー\) "wikilink")
-  - [大向美智子](https://ja.wikipedia.org/wiki/大向美智子 "wikilink")
-  - [浜田文子](https://ja.wikipedia.org/wiki/浜田文子 "wikilink")
-  - [アジャ・コング](https://ja.wikipedia.org/wiki/アジャ・コング "wikilink")
+  - [アップルみゆき](../Page/ハイビスカスみぃ.md "wikilink")
+  - [大石真翔](../Page/大石真翔.md "wikilink")
+  - [旭志織](../Page/旭志織.md "wikilink")
+  - [バンビ](../Page/バンビ_\(プロレスラー\).md "wikilink")
+  - [大向美智子](../Page/大向美智子.md "wikilink")
+  - [浜田文子](../Page/浜田文子.md "wikilink")
+  - [アジャ・コング](../Page/アジャ・コング.md "wikilink")
   - [アメージング・コング](https://ja.wikipedia.org/wiki/アメージング・コング "wikilink")
 
 ## 第5回
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[3月9日](../Page/3月9日.md "wikilink")、[東京ドームシティアトラクションズ](../Page/東京ドームシティアトラクションズ.md "wikilink")で開催。
+[2007年](../Page/2007年.md "wikilink")[3月9日](../Page/3月9日.md "wikilink")、[東京ドームシティアトラクションズ](../Page/東京ドームシティアトラクションズ.md "wikilink")で開催。
 
 ## 第6回
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月13日](../Page/4月13日.md "wikilink")、渋谷asiaで開催。
+[2007年](../Page/2007年.md "wikilink")[4月13日](../Page/4月13日.md "wikilink")、渋谷asiaで開催。
 
 ## 第7回
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[5月19日](../Page/5月19日.md "wikilink")、渋谷asiaで開催。
+[2007年](../Page/2007年.md "wikilink")[5月19日](../Page/5月19日.md "wikilink")、渋谷asiaで開催。
 
 ## 外部リンク
 

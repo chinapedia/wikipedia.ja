@@ -1,11 +1,11 @@
 > この記事は[Neko Mimi Mode](https://ja.wikipedia.org/wiki/Neko_Mimi_Mode)から翻訳されています。
 
 
-『**Neko Mimi Mode**』（ネコミミモード）は、[2004年](../Page/2004年.md "wikilink")に発表されたの[ラウンジ・ミュージック](https://ja.wikipedia.org/wiki/ラウンジ・ミュージック "wikilink")である。[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系[深夜アニメ](https://ja.wikipedia.org/wiki/深夜アニメ "wikilink")『[月詠 〜MOON PHASE〜](https://ja.wikipedia.org/wiki/月詠 "wikilink")』オープニングテーマ。
+『**Neko Mimi Mode**』（ネコミミモード）は、[2004年](../Page/2004年.md "wikilink")に発表されたの[ラウンジ・ミュージック](../Page/ラウンジ・ミュージック.md "wikilink")である。[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系[深夜アニメ](../Page/深夜アニメ.md "wikilink")『[月詠 〜MOON PHASE〜](../Page/月詠.md "wikilink")』オープニングテーマ。
 
 ## 概要
 
-本楽曲は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女子高生](https://ja.wikipedia.org/wiki/女子高生 "wikilink")の声を[サンプリング](../Page/サンプリング.md "wikilink")に用いたディミトリの楽曲「Love Love Mode」（アルバム『』収録）の[セルフパロディであり](https://ja.wikipedia.org/wiki/パロディ "wikilink")、女子高生のかわりに『月詠』のヒロインである葉月（[声](../Page/声優.md "wikilink")：[斎藤千和](https://ja.wikipedia.org/wiki/斎藤千和 "wikilink")）を用いたことで話題となった。キャッチコピーは『[萌え](../Page/萌え.md "wikilink")ラウンジ』。
+本楽曲は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女子高生](../Page/女子高生.md "wikilink")の声を[サンプリング](../Page/サンプリング.md "wikilink")に用いたディミトリの楽曲「Love Love Mode」（アルバム『』収録）の[セルフパロディであり](../Page/パロディ.md "wikilink")、女子高生のかわりに『月詠』のヒロインである葉月（[声](../Page/声優.md "wikilink")：[斎藤千和](https://ja.wikipedia.org/wiki/斎藤千和 "wikilink")）を用いたことで話題となった。キャッチコピーは『[萌え](../Page/萌え.md "wikilink")ラウンジ』。
 
 ## 収録曲
 

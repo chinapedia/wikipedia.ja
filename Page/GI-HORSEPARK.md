@@ -1,15 +1,15 @@
 > この記事は[GI-HORSEPARK](https://ja.wikipedia.org/wiki/GI-HORSEPARK)から翻訳されています。
 
 
-『**GI-HORSEPARK**』（ジーワンホースパーク）は[コナミデジタルエンタテインメント](https://ja.wikipedia.org/wiki/コナミデジタルエンタテインメント "wikilink")の[メダルゲーム](https://ja.wikipedia.org/wiki/メダルゲーム "wikilink")で、[競馬](../Page/競馬.md "wikilink")ゲームとして[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に稼働した。
+『**GI-HORSEPARK**』（ジーワンホースパーク）は[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")の[メダルゲーム](../Page/メダルゲーム.md "wikilink")で、[競馬](../Page/競馬.md "wikilink")ゲームとして[2005年](../Page/2005年.md "wikilink")に稼働した。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")にはバージョンアップ版である『EX』が、[2009年](../Page/2009年.md "wikilink")12月からは3代目となる『GX』が、[2011年](../Page/2011年.md "wikilink")9月からは4代目となる『JUDGMENT』（ジャッジメント）が稼動開始した。またEX以降は通常版の他に『[GI TURFWILD](https://ja.wikipedia.org/wiki/GI_TURFWILD "wikilink")』用筐体からのコンバージョン版であるSTD版が用意されている。
+[2006年](../Page/2006年.md "wikilink")にはバージョンアップ版である『EX』が、[2009年](../Page/2009年.md "wikilink")12月からは3代目となる『GX』が、[2011年](../Page/2011年.md "wikilink")9月からは4代目となる『JUDGMENT』（ジャッジメント）が稼動開始した。またEX以降は通常版の他に『[GI TURFWILD](../Page/GI_TURFWILD.md "wikilink")』用筐体からのコンバージョン版であるSTD版が用意されている。
 
 [e-AMUSEMENT](https://ja.wikipedia.org/wiki/e-AMUSEMENT "wikilink")対応で、他店舗との対戦レースや全国大会を行っている。継続的なプレイのために、12ケタのパスワードを利用した情報保存システムを採用していたが、EX/EX STD以降では、[e-AMUSEMENT PASSを利用するようになった](https://ja.wikipedia.org/wiki/e-AMUSEMENT_PASS "wikilink")。
 
 ## 概要
 
-[2004年](../Page/2004年.md "wikilink")のJRAレーシングプログラムに基づき、実在のレースを1年周期でゲームが循環する（ただし一部の重賞競走のローテーションとなっている）。GX/GX STDでは、[2009年](../Page/2009年.md "wikilink")のレーシングプログラムに基づいている。[ヴィクトリアマイル](https://ja.wikipedia.org/wiki/ヴィクトリアマイル "wikilink")の追加や、[ジャパンカップダートの距離変更などが該当する](../Page/チャンピオンズカップ_\(中央競馬\).md "wikilink")。また、ゲーム中に用意されている「VSレース」はランダムに選ばれた店舗同士の競走馬が対決するレースで、競馬場・馬場・距離はランダムに決められる。
+[2004年](../Page/2004年.md "wikilink")のJRAレーシングプログラムに基づき、実在のレースを1年周期でゲームが循環する（ただし一部の重賞競走のローテーションとなっている）。GX/GX STDでは、[2009年](../Page/2009年.md "wikilink")のレーシングプログラムに基づいている。[ヴィクトリアマイル](../Page/ヴィクトリアマイル.md "wikilink")の追加や、[ジャパンカップダートの距離変更などが該当する](../Page/チャンピオンズカップ_\(中央競馬\).md "wikilink")。また、ゲーム中に用意されている「VSレース」はランダムに選ばれた店舗同士の競走馬が対決するレースで、競馬場・馬場・距離はランダムに決められる。
 
 ゲーム中の馬・騎手は全て実名で登場する。実況は関東のレースが[山本直也](../Page/山本直也.md "wikilink")、関西のレースが[小林雅巳](https://ja.wikipedia.org/wiki/小林雅巳 "wikilink")が担当している。
 
@@ -56,7 +56,7 @@
 
 ## 関連記事
 
-  - [GI TURFWILD](https://ja.wikipedia.org/wiki/GI_TURFWILD "wikilink") - 事実上の前身作品
+  - [GI TURFWILD](../Page/GI_TURFWILD.md "wikilink") - 事実上の前身作品
   - [MILLIONET](https://ja.wikipedia.org/wiki/MILLIONET "wikilink") - GXシリーズより対応（ミリオンジャックポット・ミリオンランカー）
 
 ## 脚注

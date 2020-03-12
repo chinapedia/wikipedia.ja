@@ -232,7 +232,7 @@ TKCA-73442:通常盤</p></td>
 <td><p><strong>キャノンボール2</strong></p></td>
 <td><p>PCD-22031</p></td>
 <td><ol>
-<li>Strat / <a href="https://ja.wikipedia.org/wiki/Locofrank" title="wikilink">相撲茶屋</a></li>
+<li>Strat / <a href="../Page/Locofrank.md" title="wikilink">相撲茶屋</a></li>
 <li>Restart / <a href="https://ja.wikipedia.org/wiki/Margaline" title="wikilink">Margaline</a></li>
 <li>Find Out / <a href="https://ja.wikipedia.org/wiki/Radiant_Heat" title="wikilink">Radiant Heat</a></li>
 <li><strong>Wax / PINKLOOP</strong></li>
@@ -248,7 +248,7 @@ TKCA-73442:通常盤</p></td>
 <li>ありがとう / <a href="https://ja.wikipedia.org/wiki/Three_Piece_Island" title="wikilink">Three Piece Island</a></li>
 <li>サヨナラ... / <a href="https://ja.wikipedia.org/wiki/ナルシストザムライ" title="wikilink">ナルシストザムライ</a></li>
 <li>ブレイブハート / <a href="https://ja.wikipedia.org/wiki/Bomb_Shop" title="wikilink">Bomb Shop</a></li>
-<li>「心箱」「キャノンボール」 / <a href="https://ja.wikipedia.org/wiki/SABOTEN" title="wikilink">SABOTEN</a></li>
+<li>「心箱」「キャノンボール」 / <a href="../Page/SABOTEN.md" title="wikilink">SABOTEN</a></li>
 </ol></td>
 <td><p>P-VINE</p></td>
 </tr>
@@ -265,14 +265,14 @@ TKCA-73442:通常盤</p></td>
 <td><p>KIDS-13004</p></td>
 <td><ol>
 <li>2000 LIGHT YEARS AWAY / SUMMER RHYME</li>
-<li>PULLING TEETH / <a href="https://ja.wikipedia.org/wiki/SABOTEN" title="wikilink">SABOTEN</a></li>
+<li>PULLING TEETH / <a href="../Page/SABOTEN.md" title="wikilink">SABOTEN</a></li>
 <li>BASKET CASE / BACKLASH</li>
 <li><strong>SHE / PINKLOOP</strong></li>
 <li>IN THE END / <a href="https://ja.wikipedia.org/wiki/SHACHI" title="wikilink">SHACHI</a>+MASASUCKS(FULL SCRATCH)</li>
 <li>NICE GUYS FINISH LAST / SKANK PUNKS</li>
 <li>HITCHIN' A RIDE / 髑髏首</li>
 <li>SCATTERED / <a href="https://ja.wikipedia.org/wiki/maegashira" title="wikilink">maegashira</a></li>
-<li>GOOD RIDDANCE-TIME OF YOUR LIFE / <a href="https://ja.wikipedia.org/wiki/PARKING_OUT" title="wikilink">PARKING OUT</a></li>
+<li>GOOD RIDDANCE-TIME OF YOUR LIFE / <a href="../Page/PARKING_OUT.md" title="wikilink">PARKING OUT</a></li>
 <li>BLOOD, SEX AND BOOZE / FUNGUS</li>
 <li>CHURCH ON SUNDAY / STEREO VISION</li>
 <li>MISERY / OXYDOL</li>
@@ -288,10 +288,10 @@ TKCA-73442:通常盤</p></td>
 <td><p>IKCK-1002</p></td>
 <td><ol>
 <li><strong>MUSIQ / <a href="../Page/鴨川_(バンド).md" title="wikilink">鴨川</a>&amp;PINKLOOP</strong></li>
-<li>フェオレ / <a href="https://ja.wikipedia.org/wiki/SABOTEN" title="wikilink">SABOTEN</a></li>
+<li>フェオレ / <a href="../Page/SABOTEN.md" title="wikilink">SABOTEN</a></li>
 <li>PATRUSH / 鴨川</li>
 <li><strong>120 / PINKLOOP</strong></li>
-<li>人生の湯 / <a href="https://ja.wikipedia.org/wiki/PAN_(バンド)" title="wikilink">PAN</a></li>
+<li>人生の湯 / <a href="../Page/PAN_(バンド).md" title="wikilink">PAN</a></li>
 <li>あとがき / SABOTE</li>
 <li><strong>YOU KNOW WHAT I MEAN? / PINKLOOP</strong></li>
 <li>少しだけ雨の日 / PAN</li>
@@ -305,11 +305,11 @@ TKCA-73442:通常盤</p></td>
 <td><p>EX'''</p></td>
 <td><p>RUCI-2007</p></td>
 <td><ol>
-<li>No.13 / <a href="https://ja.wikipedia.org/wiki/ELLEGARDEN" title="wikilink">ELLEGARDEN</a></li>
+<li>No.13 / <a href="../Page/ELLEGARDEN.md" title="wikilink">ELLEGARDEN</a></li>
 <li>Mouse Molding / ELLEGARDEN</li>
-<li>REBEL FIRE / <a href="https://ja.wikipedia.org/wiki/LAST_ALLIANCE" title="wikilink">LAST ALLIANCE</a></li>
+<li>REBEL FIRE / <a href="../Page/LAST_ALLIANCE.md" title="wikilink">LAST ALLIANCE</a></li>
 <li>プラネタリウム / LAST ALLIANCE</li>
-<li>BLACK FLYS / <a href="https://ja.wikipedia.org/wiki/NICOTINE" title="wikilink">NICOTINE</a></li>
+<li>BLACK FLYS / <a href="../Page/NICOTINE.md" title="wikilink">NICOTINE</a></li>
 <li>SONG ABOUT A GREEN AGE / NICOTINE</li>
 <li>End of pain / <a href="https://ja.wikipedia.org/wiki/WRONG_SCALE" title="wikilink">WRONG SCALE</a></li>
 <li>S.S / WRONG SCALE</li>
@@ -403,7 +403,7 @@ TKCA-73442:通常盤</p></td>
 <li>Don't Hate Me / <a href="https://ja.wikipedia.org/wiki/SLIME_BALL" title="wikilink">SLIME BALL</a></li>
 <li>All That I Know / <a href="https://ja.wikipedia.org/wiki/enie_meenie" title="wikilink">enie meenie</a></li>
 <li>Action&amp;Action / <a href="https://ja.wikipedia.org/wiki/UNLIMITS" title="wikilink">UNLIMITS</a></li>
-<li>Holiday / <a href="https://ja.wikipedia.org/wiki/MARS_EURYTHMICS" title="wikilink">MARS EURYTHMICS</a></li>
+<li>Holiday / <a href="../Page/MARS_EURYTHMICS.md" title="wikilink">MARS EURYTHMICS</a></li>
 <li>Out Of Reach / <a href="https://ja.wikipedia.org/wiki/CALENDARS" title="wikilink">CALENDARS</a></li>
 <li>Fall From Grace / <a href="https://ja.wikipedia.org/wiki/FINE_LINES" title="wikilink">FINE LINES</a></li>
 <li>Waking On A Wire / <a href="https://ja.wikipedia.org/wiki/TRIBAL_CHAIR" title="wikilink">TRIBAL CHAIR</a></li>
@@ -425,12 +425,12 @@ TKCA-73442:通常盤</p></td>
 <li>JINGLE BELL ROCK / <a href="https://ja.wikipedia.org/wiki/HOTSQUALL" title="wikilink">HOTSQUALL</a></li>
 <li>JINGLE BELLS / <a href="https://ja.wikipedia.org/wiki/BACK_LIFT" title="wikilink">BACK LIFT</a></li>
 <li>We Wish you a Merry Christmas / <a href="https://ja.wikipedia.org/wiki/MARGALINE" title="wikilink">MARGALINE</a></li>
-<li>Santa Claus Is Comin' To Town / <a href="https://ja.wikipedia.org/wiki/SABOTEN" title="wikilink">SABOTEN</a></li>
+<li>Santa Claus Is Comin' To Town / <a href="../Page/SABOTEN.md" title="wikilink">SABOTEN</a></li>
 <li>LAST CHRISTMAS / <a href="https://ja.wikipedia.org/wiki/HOT_DOG" title="wikilink">HOT DOG</a></li>
 <li>STEP INTO CHRISTMAS / <a href="https://ja.wikipedia.org/wiki/Boobie_Trap" title="wikilink">Boobie Trap</a></li>
 <li>クリスマス / <a href="https://ja.wikipedia.org/wiki/SpecialThanks" title="wikilink">SpecialThanks</a> &amp; <a href="https://ja.wikipedia.org/wiki/i_GO" title="wikilink">i GO</a></li>
 <li>FELIZ NAVIDAD / <a href="https://ja.wikipedia.org/wiki/S.M.N." title="wikilink">S.M.N.</a></li>
-<li>ジンジンジングルベル / <a href="https://ja.wikipedia.org/wiki/PAN_(バンド)" title="wikilink">PAN</a></li>
+<li>ジンジンジングルベル / <a href="../Page/PAN_(バンド).md" title="wikilink">PAN</a></li>
 <li><strong>Christmas Wish / PINKLOOP</strong></li>
 <li>Rudolph The Red-Nosed Reindeer / <a href="https://ja.wikipedia.org/wiki/SMASH_UP" title="wikilink">SMASH UP</a></li>
 <li>I SAW MOMMY KISSING SANTA CLAUS / <a href="https://ja.wikipedia.org/wiki/NUGGET" title="wikilink">NUGGET</a></li>
@@ -466,21 +466,21 @@ TKCA-73442:通常盤</p></td>
 
 ## タイアップ
 
-| 曲名                       | タイアップ                                                                                                                                              |
-| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Computerized Personality | [TBS系](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")「[サスケマニア](https://ja.wikipedia.org/wiki/サスケマニア "wikilink")」エンディングテーマ                        |
-| Kiss Me,Darling          | [tvk](../Page/テレビ神奈川.md "wikilink")「[Music B.B.](https://ja.wikipedia.org/wiki/Music_B.B. "wikilink")」オープニングテーマ                                    |
-| Hope                     | [NHK-FM](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")「[ミュージックスクエア](https://ja.wikipedia.org/wiki/ミュージックスクエア_\(NHK-FM\) "wikilink")」エンディングテーマ |
-| Love Smile               | [日本テレビ](../Page/日本テレビ放送網.md "wikilink")「[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")」エンディングテーマ                |
+| 曲名                       | タイアップ                                                                                                            |
+| ------------------------ | ---------------------------------------------------------------------------------------------------------------- |
+| Computerized Personality | [TBS系](../Page/TBSテレビ.md "wikilink")「[サスケマニア](../Page/サスケマニア.md "wikilink")」エンディングテーマ                            |
+| Kiss Me,Darling          | [tvk](../Page/テレビ神奈川.md "wikilink")「[Music B.B.](https://ja.wikipedia.org/wiki/Music_B.B. "wikilink")」オープニングテーマ  |
+| Hope                     | [NHK-FM](../Page/NHK-FM放送.md "wikilink")「[ミュージックスクエア](../Page/ミュージックスクエア_\(NHK-FM\).md "wikilink")」エンディングテーマ     |
+| Love Smile               | [日本テレビ](../Page/日本テレビ放送網.md "wikilink")「[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")」エンディングテーマ |
 
 ## 主な出演イベント
 
   - 2005年04月09日 - [OVER ARM THROW](https://ja.wikipedia.org/wiki/OVER_ARM_THROW "wikilink") presents FORCE OUT
   - 2007年09月04日 - [マキシマム ザ ホルモン](https://ja.wikipedia.org/wiki/マキシマム_ザ_ホルモン "wikilink") ぶっ生き返すTOUR
-  - 2007年12月04日・08日 - [10-FEET](https://ja.wikipedia.org/wiki/10-FEET "wikilink") "STONE COLD BREAK" TOUR 2007～どうしたい年\!～
+  - 2007年12月04日・08日 - [10-FEET](../Page/10-FEET.md "wikilink") "STONE COLD BREAK" TOUR 2007～どうしたい年\!～
   - 2008年08月18日 - TREASURE05X 2008 ～screaming triangle 3rd day～
   - 2008年09月20日 - MASTER COLISEUM '08
-  - 2008年10月27日 - [ROTTENGRAFFTY](https://ja.wikipedia.org/wiki/ROTTENGRAFFTY "wikilink") presents ポルノ超特急2008 ～響都の陣～
+  - 2008年10月27日 - [ROTTENGRAFFTY](../Page/ROTTENGRAFFTY.md "wikilink") presents ポルノ超特急2008 ～響都の陣～
   - 2012年02月05日 - [SECRET 7 LINE](https://ja.wikipedia.org/wiki/SECRET_7_LINE "wikilink") pre.THICK FESTIVAL 2012
   - 2012年10月06日・07日・08日 - UNIONWAY FEST 2012
   - 2012年11月17日 - ONE VILLAGE NIGHT～秋の陣～

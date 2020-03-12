@@ -1,7 +1,7 @@
 > この記事は[ \(TOKIO\)](https://ja.wikipedia.org/wiki/_\(TOKIO\))から翻訳されています。
 
 
-「**リリック**」は、[TOKIO](../Page/TOKIO.md "wikilink")の46枚目の[シングル](../Page/シングル.md "wikilink")。[2013年](../Page/2013年.md "wikilink")[2月20日](../Page/2月20日.md "wikilink")に[J Stormから発売された](https://ja.wikipedia.org/wiki/ジェイ・ストーム "wikilink")。
+「**リリック**」は、[TOKIO](../Page/TOKIO.md "wikilink")の46枚目の[シングル](../Page/シングル.md "wikilink")。[2013年](../Page/2013年.md "wikilink")[2月20日](../Page/2月20日.md "wikilink")に[J Stormから発売された](../Page/ジェイ・ストーム.md "wikilink")。
 
 ## 概要
 
@@ -29,7 +29,7 @@
         ベストアルバム「[HEART](https://ja.wikipedia.org/wiki/HEART_\(TOKIOのアルバム\) "wikilink")」では、ファン投票シングル部門第1位を獲得した。
 2.  **アリア**※
       -
-        作詞・作曲・編曲：[HIKARI](https://ja.wikipedia.org/wiki/HIKARI "wikilink")、Strings Arrengement：[KAM](https://ja.wikipedia.org/wiki/KAM_\(編曲家\) "wikilink")
+        作詞・作曲・編曲：[HIKARI](../Page/HIKARI.md "wikilink")、Strings Arrengement：[KAM](https://ja.wikipedia.org/wiki/KAM_\(編曲家\) "wikilink")
 3.  **Pocket**※
       -
         作詞・作曲：[小久保淳平](../Page/小久保淳平.md "wikilink")、編曲：[大西省吾](https://ja.wikipedia.org/wiki/大西省吾 "wikilink")

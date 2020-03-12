@@ -6,7 +6,7 @@
 ## 経歴
 
   - 1998年
-    元[MOON CHILDの](https://ja.wikipedia.org/wiki/MOON_CHILD_\(バンド\) "wikilink")[ドラマー](https://ja.wikipedia.org/wiki/ドラマー "wikilink")・**樫山圭**と、元[REDIEAN;MODE](https://ja.wikipedia.org/wiki/REDIEAN;MODE "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")**YUHTO**が中心となり結成。
+    元[MOON CHILDの](../Page/MOON_CHILD_\(バンド\).md "wikilink")[ドラマー](../Page/ドラマー.md "wikilink")・**樫山圭**と、元[REDIEAN;MODE](https://ja.wikipedia.org/wiki/REDIEAN;MODE "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")**YUHTO**が中心となり結成。
   - 1998年12月
     [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")に**SHINGO**、[ベーシスト](../Page/ベーシスト.md "wikilink")に**MITSUO**を加え、初ライブを行う。
   - [1999年](../Page/1999年.md "wikilink")初頭
@@ -18,7 +18,7 @@
   - 1999年9月
     新ベーシストに、**TAKE**が加入。
   - 1999年9月21日
-    ミニアルバム**『KING-GONG』**を、[PS COMPANYよりリリース](https://ja.wikipedia.org/wiki/PS_COMPANY "wikilink")。
+    ミニアルバム**『KING-GONG』**を、[PS COMPANYよりリリース](../Page/PS_COMPANY.md "wikilink")。
   - [2000年](../Page/2000年.md "wikilink")初頭
     ボーカル・嘉郎が、俳優への転向の為脱退。
   - 2000年6月
@@ -76,7 +76,7 @@
 
 ## 関連項目
 
-  - [MOON CHILD](https://ja.wikipedia.org/wiki/MOON_CHILD_\(バンド\) "wikilink")
+  - [MOON CHILD](../Page/MOON_CHILD_\(バンド\).md "wikilink")
   - [REDIEAN;MODE](https://ja.wikipedia.org/wiki/REDIEAN;MODE "wikilink")
   - [superbrunch](https://ja.wikipedia.org/wiki/superbrunch "wikilink")
   - [Salty-Sugar](../Page/Salty-Sugar.md "wikilink")

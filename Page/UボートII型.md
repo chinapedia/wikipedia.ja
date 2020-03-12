@@ -1,7 +1,7 @@
 > この記事は[UII](https://ja.wikipedia.org/wiki/UII)から翻訳されています。
 
 
-**UボートII型** (U-Boot-Klasse II) は[ドイツ海軍](https://ja.wikipedia.org/wiki/ドイツ海軍 "wikilink")の[潜水艦](../Page/潜水艦.md "wikilink")で、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")で用いられた。IIA、IIB、IIC、IIDの四つに細分化される。
+**UボートII型** (U-Boot-Klasse II) は[ドイツ海軍](../Page/ドイツ海軍.md "wikilink")の[潜水艦](../Page/潜水艦.md "wikilink")で、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")で用いられた。IIA、IIB、IIC、IIDの四つに細分化される。
 
 ## 概要
 
@@ -19,7 +19,7 @@
 
   -
     IIA型は[キールのドイッチュ](https://ja.wikipedia.org/wiki/キール_\(都市\) "wikilink")・ヴェルケ社で6隻が建造され、全艦が[1935年](../Page/1935年.md "wikilink")に就役した。本型は250tと小型のため、扱いやすく、その良好な水中運動性は兵たちに賞賛されたという。
-    しかし、航続力がないなど、実戦用の潜水艦としては性能不足であり、より大型の[VII型などが就役するに従って](https://ja.wikipedia.org/wiki/UボートVII型 "wikilink")、練習潜水艦として使用されるようになった。
+    しかし、航続力がないなど、実戦用の潜水艦としては性能不足であり、より大型の[VII型などが就役するに従って](../Page/UボートVII型.md "wikilink")、練習潜水艦として使用されるようになった。
 
 <!-- end list -->
 
@@ -28,8 +28,8 @@
 [U-9_IWM_HU_1012.jpg](https://ja.wikipedia.org/wiki/File:U-9_IWM_HU_1012.jpg "fig:U-9_IWM_HU_1012.jpg")
 
   -
-    IIA型に続いて建造されたIIB型は航続距離を改善するため、IIA型の船体を1.8m延長し、燃料搭載量を12tから21tに増やした型である。ドイッチュ・ヴェルケ社及びキールのゲルマニア造船所と[フレンスブルク](https://ja.wikipedia.org/wiki/フレンスブルク "wikilink")のフレンダー社で[1935年](../Page/1935年.md "wikilink")から翌年にかけて18隻、[1940年](../Page/1940年.md "wikilink")に2隻の計20隻が建造された。
-    本型は大半の艦が実戦を経験しており、一部の艦は[第30Uボート戦隊](https://ja.wikipedia.org/wiki/第30Uボート戦隊 "wikilink")に編入、分解されて[黒海](../Page/黒海.md "wikilink")に運ばれ[コンスタンツァ](https://ja.wikipedia.org/wiki/コンスタンツァ "wikilink")を基地として実戦配備されて戦果を上げている。
+    IIA型に続いて建造されたIIB型は航続距離を改善するため、IIA型の船体を1.8m延長し、燃料搭載量を12tから21tに増やした型である。ドイッチュ・ヴェルケ社及びキールのゲルマニア造船所と[フレンスブルク](../Page/フレンスブルク.md "wikilink")のフレンダー社で[1935年](../Page/1935年.md "wikilink")から翌年にかけて18隻、[1940年](../Page/1940年.md "wikilink")に2隻の計20隻が建造された。
+    本型は大半の艦が実戦を経験しており、一部の艦は[第30Uボート戦隊](https://ja.wikipedia.org/wiki/第30Uボート戦隊 "wikilink")に編入、分解されて[黒海](../Page/黒海.md "wikilink")に運ばれ[コンスタンツァ](../Page/コンスタンツァ.md "wikilink")を基地として実戦配備されて戦果を上げている。
 
 <!-- end list -->
 
@@ -188,7 +188,7 @@
 ## 関連項目
 
   - [潜水艦](../Page/潜水艦.md "wikilink")
-  - [ドイツ海軍](https://ja.wikipedia.org/wiki/ドイツ海軍 "wikilink")
+  - [ドイツ海軍](../Page/ドイツ海軍.md "wikilink")
   - [Uボート](https://ja.wikipedia.org/wiki/Uボート "wikilink")
   - [第30Uボート戦隊](https://ja.wikipedia.org/wiki/第30Uボート戦隊 "wikilink")
 

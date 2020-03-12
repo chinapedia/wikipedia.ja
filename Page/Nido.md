@@ -1,20 +1,20 @@
 > この記事は[Nido](https://ja.wikipedia.org/wiki/Nido)から翻訳されています。
 
 
-**nido**（ニドー）は[Dragon Ashの古谷建志らによる](https://ja.wikipedia.org/wiki/Dragon_Ash "wikilink")[バンド形式の音楽プロジェクトである](../Page/バンド_\(音楽\).md "wikilink")。2003年結成。映像と音楽の融合をテーマに映画音楽など幅広い活動を行っている。
+**nido**（ニドー）は[Dragon Ashの古谷建志らによる](../Page/Dragon_Ash.md "wikilink")[バンド形式の音楽プロジェクトである](../Page/バンド_\(音楽\).md "wikilink")。2003年結成。映像と音楽の融合をテーマに映画音楽など幅広い活動を行っている。
 
 ## メンバー
 
-  - **古谷建志（[降谷建志](https://ja.wikipedia.org/wiki/降谷建志 "wikilink")）**
+  - **古谷建志（[降谷建志](../Page/降谷建志.md "wikilink")）**
   - **[武田真治](../Page/武田真治.md "wikilink")**
-  - **上杉俊佑**（ex.[SBK](https://ja.wikipedia.org/wiki/スケボーキング "wikilink")）
+  - **上杉俊佑**（ex.[SBK](../Page/スケボーキング.md "wikilink")）
   - **吉川寛**
 
 ## ディスコグラフィー
 
 ### アルバム
 
-1.  **motion picture soundtrack**（2005年9月21日）映画「[ギミー・ヘブン](https://ja.wikipedia.org/wiki/ギミー・ヘブン "wikilink")」のサントラ
+1.  **motion picture soundtrack**（2005年9月21日）映画「[ギミー・ヘブン](../Page/ギミー・ヘブン.md "wikilink")」のサントラ
     1.  tsumuji
     2.  phobia
     3.  8mm
@@ -30,8 +30,8 @@
     13.
 ## 関連項目
 
-  - [降谷建志](https://ja.wikipedia.org/wiki/降谷建志 "wikilink")
-  - [ギミー・ヘブン](https://ja.wikipedia.org/wiki/ギミー・ヘブン "wikilink")
+  - [降谷建志](../Page/降谷建志.md "wikilink")
+  - [ギミー・ヘブン](../Page/ギミー・ヘブン.md "wikilink")
   - [やわらかい生活](https://ja.wikipedia.org/wiki/やわらかい生活 "wikilink")
   - [マラノーチェ](https://ja.wikipedia.org/wiki/マラノーチェ "wikilink")
 

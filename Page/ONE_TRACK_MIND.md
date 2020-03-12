@@ -7,13 +7,13 @@
 
 1996年、元*'RED HOT ROCKIN' HOOD*のBAGIを中心に結成。
 
-[スカ](../Page/スカ.md "wikilink")、[ロック](../Page/ロック_\(音楽\).md "wikilink")、[パンク](../Page/パンク・ロック.md "wikilink")、[サイコビリー](https://ja.wikipedia.org/wiki/サイコビリー "wikilink")、R\&B、80'sに影響を受けたサウンドで、ホーン・セクションに加えて[ロカビリー](https://ja.wikipedia.org/wiki/ロカビリー "wikilink")等に用いられる
+[スカ](../Page/スカ.md "wikilink")、[ロック](../Page/ロック_\(音楽\).md "wikilink")、[パンク](../Page/パンク・ロック.md "wikilink")、[サイコビリー](../Page/サイコビリー.md "wikilink")、R\&B、80'sに影響を受けたサウンドで、ホーン・セクションに加えて[ロカビリー](../Page/ロカビリー.md "wikilink")等に用いられる
 
-ウッドベース（[コントラバス](../Page/コントラバス.md "wikilink")）による[スラップ奏法](https://ja.wikipedia.org/wiki/スラップ奏法 "wikilink")を多用しているのが特徴。
+ウッドベース（[コントラバス](../Page/コントラバス.md "wikilink")）による[スラップ奏法](../Page/スラップ奏法.md "wikilink")を多用しているのが特徴。
 
-バンド名の由来は[Johnny Thundersの曲名から](https://ja.wikipedia.org/wiki/ジョニー・サンダース "wikilink")。
+バンド名の由来は[Johnny Thundersの曲名から](../Page/ジョニー・サンダース.md "wikilink")。
 
-1998年3月、[SNAIL RAMP率いる竹村のSchool](https://ja.wikipedia.org/wiki/SNAIL_RAMP "wikilink") Bus Recordsよりシングル「AT LAST」をリリース。
+1998年3月、[SNAIL RAMP率いる竹村のSchool](../Page/SNAIL_RAMP.md "wikilink") Bus Recordsよりシングル「AT LAST」をリリース。
 
 2012年12月25日、バンマスだったBAGIが急性心不全のため死去（享年42）
 
@@ -28,7 +28,7 @@
   - KYON2（アルト・サックス）
   - MIYAMOTO（ウッドベース）
   - AZU（キーボード）
-  - AJ (ギター) （ex [CURIO](https://ja.wikipedia.org/wiki/CURIO "wikilink")）
+  - AJ (ギター) （ex [CURIO](../Page/CURIO.md "wikilink")）
 
 ### ゲスト参加中のメンバー
 
@@ -46,7 +46,7 @@
   - BAGI (ドラム) - （[2012年](../Page/2012年.md "wikilink")[12月25日](../Page/12月25日.md "wikilink")逝去）
   - MAITA (ウッドベース)
   - マサキ（ギター）
-  - [山口れお](https://ja.wikipedia.org/wiki/山口れお "wikilink")(トランペット)
+  - [山口れお](../Page/山口れお.md "wikilink")(トランペット)
   - HIROTO (ギター)（ex [FC FIVE](https://ja.wikipedia.org/wiki/FC_FIVE "wikilink")）
   - シロウ (ウッドベース) (現THE FLATZ)
   - 海野 (ウッドベース)
@@ -59,7 +59,7 @@
   - とら様 (ウッドベース)（現DOG'GIE DOGG）
   - 中村（T-SAX）
   - YU (キーボード、ピアノ)
-  - アキオ(ギター)（[KOOLOGI](https://ja.wikipedia.org/wiki/KOOLOGI "wikilink") ex.[SNAIL RAMP](https://ja.wikipedia.org/wiki/SNAIL_RAMP "wikilink")）
+  - アキオ(ギター)（[KOOLOGI](../Page/KOOLOGI.md "wikilink") ex.[SNAIL RAMP](../Page/SNAIL_RAMP.md "wikilink")）
   - UC OHZEKI（ウッドベース　ex.東京カンカンリズム）
   - NOBUAKI NISHIZAWA（ギター）（ex UNCABA AUTHENTIC BAND / IDORATER）
   - ANI-KEY（キーボード）（ex.BRAVE LION）
@@ -82,7 +82,7 @@
 
   - TOO MUCH TOO COVER（2006/08） [LASTRUM CORPORATION](https://ja.wikipedia.org/wiki/LASTRUM_CORPORATION "wikilink") LACD-0092
       - SAINT THOMAS ([Sony Rollins](https://ja.wikipedia.org/wiki/Sony_Rollins "wikilink"))/FUN×4 ([大瀧詠一](../Page/大瀧詠一.md "wikilink"))/BITTER SWEET SAMBA/ONLY YOU
-      - ジャングル・ブギ（[笠置シヅ子](https://ja.wikipedia.org/wiki/笠置シヅ子 "wikilink")）/Enjoy Yourself（[The Specials](https://ja.wikipedia.org/wiki/The_Specials "wikilink")）
+      - ジャングル・ブギ（[笠置シヅ子](../Page/笠置シヅ子.md "wikilink")）/Enjoy Yourself（[The Specials](https://ja.wikipedia.org/wiki/The_Specials "wikilink")）
 
 ### シングル
 
@@ -94,12 +94,12 @@
 ### スプリット
 
   - DOUBLE BED　with バナナシェイクス (2000/02) [DIWPHALANX RECORDS](https://ja.wikipedia.org/wiki/DIWPHALANX_RECORDS "wikilink") PX-45/PXLP-45
-      - MANIC MONDAY([バングルス](https://ja.wikipedia.org/wiki/バングルス "wikilink")) / JOIN US
+      - MANIC MONDAY([バングルス](../Page/バングルス.md "wikilink")) / JOIN US
 
 ### オムニバス
 
   - BEST HIT S.K.A. （2004/06）[cutting edge](https://ja.wikipedia.org/wiki/cutting_edge "wikilink")　CTCR-14357
-      - MANIC MONDAY([バングルス](https://ja.wikipedia.org/wiki/バングルス "wikilink"))
+      - MANIC MONDAY([バングルス](../Page/バングルス.md "wikilink"))
   - ASIAN SKA FOUNDATION （2003/08）AUTR-01
       - D-skas (Dos Caras Edition)
   - SMASH In LA-PPISCH \! （1999/11）[TIGER HOLE](https://ja.wikipedia.org/wiki/TIGER_HOLE "wikilink")　THUC-1001
@@ -107,17 +107,17 @@
 
 ## その他
 
-2ndアルバムThe WORLDに収録されている「Master Of Drop Kick」は[新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")　第52代[IWGP](https://ja.wikipedia.org/wiki/IWGP "wikilink")ジュニアヘビー級チャンピオン 元[CMLL](https://ja.wikipedia.org/wiki/CMLL "wikilink")世界ウェルター級チャンピオン[田口隆祐](https://ja.wikipedia.org/wiki/田口隆祐 "wikilink")選手の入場テーマとして使用されている。
+2ndアルバムThe WORLDに収録されている「Master Of Drop Kick」は[新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")　第52代[IWGP](../Page/IWGP.md "wikilink")ジュニアヘビー級チャンピオン 元[CMLL](../Page/CMLL.md "wikilink")世界ウェルター級チャンピオン[田口隆祐](../Page/田口隆祐.md "wikilink")選手の入場テーマとして使用されている。
 
 ## 関連項目
 
-  - [SNAIL RAMP](https://ja.wikipedia.org/wiki/SNAIL_RAMP "wikilink")
-  - [KOOLOGI](https://ja.wikipedia.org/wiki/KOOLOGI "wikilink")
-  - [CURIO](https://ja.wikipedia.org/wiki/CURIO "wikilink")
+  - [SNAIL RAMP](../Page/SNAIL_RAMP.md "wikilink")
+  - [KOOLOGI](../Page/KOOLOGI.md "wikilink")
+  - [CURIO](../Page/CURIO.md "wikilink")
   - [東京⇔LONDON化計画](https://ja.wikipedia.org/wiki/東京⇔LONDON化計画 "wikilink")
-  - [田口隆祐](https://ja.wikipedia.org/wiki/田口隆祐 "wikilink")
+  - [田口隆祐](../Page/田口隆祐.md "wikilink")
   - [新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")
-  - [山口れお](https://ja.wikipedia.org/wiki/山口れお "wikilink")
+  - [山口れお](../Page/山口れお.md "wikilink")
   - [東ケト会](../Page/東ケト会.md "wikilink")（ボーカルのZAKOは怪しい雑魚釣り隊の料理長、小迫剛）
 
 ## 外部リンク

@@ -5,7 +5,7 @@
 
 ## キャスター
 
-  - 初代：[磯野正典](https://ja.wikipedia.org/wiki/磯野正典 "wikilink")・[岡山玲子](https://ja.wikipedia.org/wiki/岡山玲子 "wikilink")
+  - 初代：[磯野正典](../Page/磯野正典.md "wikilink")・[岡山玲子](https://ja.wikipedia.org/wiki/岡山玲子 "wikilink")
   - 2代目：[宗宮修一](https://ja.wikipedia.org/wiki/宗宮修一 "wikilink")・[猪谷香](https://ja.wikipedia.org/wiki/猪谷香 "wikilink")
   - ほか
 
@@ -27,9 +27,9 @@
 ## 関連項目
 
   - [FNNモーニングコール](../Page/FNNモーニングコール.md "wikilink")
-  - [NBSモーニングコール](https://ja.wikipedia.org/wiki/NBSモーニングコール "wikilink")（[長野放送](../Page/長野放送.md "wikilink")）
+  - [NBSモーニングコール](../Page/NBSモーニングコール.md "wikilink")（[長野放送](../Page/長野放送.md "wikilink")）
   - [朝特急630](https://ja.wikipedia.org/wiki/朝特急630 "wikilink")（[関西テレビ](../Page/関西テレビ放送.md "wikilink")）
-  - [TNCモーニングコール](https://ja.wikipedia.org/wiki/TNCモーニングコール "wikilink")（[テレビ西日本](../Page/テレビ西日本.md "wikilink")）
-  - [FNN東海テレビニュース工場](https://ja.wikipedia.org/wiki/FNN東海テレビニュース工場 "wikilink") → [FNN東海テレビDATE LINE](https://ja.wikipedia.org/wiki/FNN東海テレビDATE_LINE "wikilink") - 同時期に東海テレビが放送していた深夜のニュース番組。
+  - [TNCモーニングコール](../Page/TNCモーニングコール.md "wikilink")（[テレビ西日本](../Page/テレビ西日本.md "wikilink")）
+  - [FNN東海テレビニュース工場](https://ja.wikipedia.org/wiki/FNN東海テレビニュース工場 "wikilink") → [FNN東海テレビDATE LINE](../Page/FNN東海テレビDATE_LINE.md "wikilink") - 同時期に東海テレビが放送していた深夜のニュース番組。
 
 [Category:1986年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1986年のテレビ番組_\(日本\) "wikilink") [Category:東海テレビの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:東海テレビの帯番組の歴史 "wikilink") [Category:東海テレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:東海テレビの情報・ワイドショー番組 "wikilink") [Category:東海・北陸地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:東海・北陸地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:中日新聞社のニュース番組](https://ja.wikipedia.org/wiki/Category:中日新聞社のニュース番組 "wikilink")

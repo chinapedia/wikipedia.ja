@@ -1,7 +1,7 @@
 > この記事は[WALL](https://ja.wikipedia.org/wiki/WALL)から翻訳されています。
 
 
-**WALL株式会社**（うぉーる）は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")に本社を置く法人向けのマッチングサイト運営会社である。旧社名は株式会社オフィスミル。2015年2月に現社名へ変更した\[1\]
+**WALL株式会社**（うぉーる）は、[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")に本社を置く法人向けのマッチングサイト運営会社である。旧社名は株式会社オフィスミル。2015年2月に現社名へ変更した\[1\]
 
 ## 会社概要
 

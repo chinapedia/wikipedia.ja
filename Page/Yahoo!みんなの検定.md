@@ -1,11 +1,11 @@
 > この記事は[Yahoo!](https://ja.wikipedia.org/wiki/Yahoo!)から翻訳されています。
 
 
-**Yahoo\!みんなの検定**（ヤフーみんなのけんてい）は、『[Yahoo\!インターネット検定](https://ja.wikipedia.org/wiki/Yahoo!インターネット検定 "wikilink")』とは別に手作り[検定](https://ja.wikipedia.org/wiki/検定 "wikilink")として、[Yahoo\! JAPANの](https://ja.wikipedia.org/wiki/Yahoo!_JAPAN "wikilink")[ID](../Page/ID.md "wikilink")登録者のみが作成できる検定である。IDがなくても受験はできる。 略して「みん検」などと呼ばれる。
+**Yahoo\!みんなの検定**（ヤフーみんなのけんてい）は、『[Yahoo\!インターネット検定](../Page/Yahoo!インターネット検定.md "wikilink")』とは別に手作り[検定](https://ja.wikipedia.org/wiki/検定 "wikilink")として、[Yahoo\! JAPANの](../Page/Yahoo!_JAPAN.md "wikilink")[ID](../Page/ID.md "wikilink")登録者のみが作成できる検定である。IDがなくても受験はできる。 略して「みん検」などと呼ばれる。
 
 ## 概要
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで、検定を受験するか、作成した検定を受験されることでポイントが付与されるキャンペーンが行われていた(受験する場合は1回につき1ポイント、受験される場合は1人につき1ポイント)。しかしながら、[ID](../Page/ID.md "wikilink")が削除されたり、ポイントが無効になったりという[トラブル](https://ja.wikipedia.org/wiki/トラブル "wikilink")もあった。
+[2007年](../Page/2007年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで、検定を受験するか、作成した検定を受験されることでポイントが付与されるキャンペーンが行われていた(受験する場合は1回につき1ポイント、受験される場合は1人につき1ポイント)。しかしながら、[ID](../Page/ID.md "wikilink")が削除されたり、ポイントが無効になったりという[トラブル](https://ja.wikipedia.org/wiki/トラブル "wikilink")もあった。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月4日](../Page/4月4日.md "wikilink")に、ベータ版から正式版へリニューアルされた。
 

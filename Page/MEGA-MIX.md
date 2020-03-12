@@ -19,18 +19,18 @@ SANCHEは[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "
 
 ## メンバー
 
-  - **[SAM](https://ja.wikipedia.org/wiki/SAM_\(ダンサー\) "wikilink")** … 現[TRF](../Page/TRF.md "wikilink")。
+  - **[SAM](../Page/SAM_\(ダンサー\).md "wikilink")** … 現[TRF](../Page/TRF.md "wikilink")。
   - **OZ** … ダンサー、格闘家として活動。
   - **CHIHARU** … 現TRF。
   - **HIROKO** … 石川浩子。ダンサー、振付師として活動。
   - **KAORU** … 原田薫。ダンサー、振付師として活動。[THE CONVOYの振り付けなどもしている](../Page/THE_CONVOY.md "wikilink")。
-  - **JUN** … ダンスグループ、GYPSYより参加。日本に初めてカポエラを伝えると同時に「CAPOEIRA JAPON」を発足。2001年「Meltin'Pot」を結成し、現在も意欲的に活動中。他にも[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")、[MAX](https://ja.wikipedia.org/wiki/MAX_\(音楽グループ\) "wikilink")、[DA PUMPらの振付を手掛ける](https://ja.wikipedia.org/wiki/DA_PUMP "wikilink")。
+  - **JUN** … ダンスグループ、GYPSYより参加。日本に初めてカポエラを伝えると同時に「CAPOEIRA JAPON」を発足。2001年「Meltin'Pot」を結成し、現在も意欲的に活動中。他にも[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")、[MAX](https://ja.wikipedia.org/wiki/MAX_\(音楽グループ\) "wikilink")、[DA PUMPらの振付を手掛ける](../Page/DA_PUMP.md "wikilink")。
   - **OUJI** … ダンスグループ、Jungleより参加。
   - **EIJI** … ダンスグループ、Jungleより参加。
   - **GOTO** … 現[sound cream steppers](https://ja.wikipedia.org/wiki/sound_cream_steppers "wikilink")。
   - **YUKI** … ダンスグループ、DE LA DANCEより参加。現sound cream steppers。
   - **HORIE** … 現sound cream steppers。
-  - **SANCHE** … 阿部雄三。ニューヨークで[ジャニー喜多川](../Page/ジャニー喜多川.md "wikilink")にスカウトされたのをきっかけに[少年隊](https://ja.wikipedia.org/wiki/少年隊 "wikilink")のバックダンサーになり、ジャニーズ事務所のアイドルたちの振り付け師として現在も活躍。
+  - **SANCHE** … 阿部雄三。ニューヨークで[ジャニー喜多川](../Page/ジャニー喜多川.md "wikilink")にスカウトされたのをきっかけに[少年隊](../Page/少年隊.md "wikilink")のバックダンサーになり、ジャニーズ事務所のアイドルたちの振り付け師として現在も活躍。
   - **ETSU** … 現TRF。
   - **MASAKO** … ダンスグループ、DE LA DANCEより参加。後にDJ MASAKOとして活動。
   - **IZUMI** … 振り付け師として活動し、後に映画『[バックダンサーズ\!](https://ja.wikipedia.org/wiki/バックダンサーズ! "wikilink")』の振り付けを担当。また[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")のライブ演出を長年に渡って手掛けている。

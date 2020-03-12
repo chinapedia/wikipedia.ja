@@ -33,7 +33,7 @@
 
   - 事業所
       - 本社 - [三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")[伊勢市](../Page/伊勢市.md "wikilink")朝熊町4383番326
-      - 東京本社 - [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")丸の内1-8-3　丸の内トラストタワー本館6階
+      - 東京本社 - [東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")丸の内1-8-3　丸の内トラストタワー本館6階
   - 安全試験所
       - 本社新安全試験棟 - 三重県伊勢市朝熊町3600番18
   - EMC試験所
@@ -47,7 +47,7 @@
 
   - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")（[昭和](../Page/昭和.md "wikilink")55年） - [三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")[伊勢市](../Page/伊勢市.md "wikilink")に株式会社エーペックス・インターナショナルが創立。
   - [2003年](../Page/2003年.md "wikilink")（[平成](../Page/平成.md "wikilink")15年） - [UL](https://ja.wikipedia.org/wiki/アメリカ保険業者安全試験所 "wikilink") (Underwriters Laboratories Inc.) の日本法人であった株式会社ユーエル日本と、株式会社 エーペックス・インターナショナルが合併。株式会社ユーエルエーペックスが設立。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年） - 東京都千代田区に東京本社を開設
+  - [2005年](../Page/2005年.md "wikilink")（平成17年） - 東京都千代田区に東京本社を開設
   - [2007年](../Page/2007年.md "wikilink")（平成19年）4月26日 - 社名を株式会社UL Japanへ変更。
   - [2009年](../Page/2009年.md "wikilink")（平成21年）6月 - 神奈川県平塚市に、湘南EMC試験所を開所
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）9月 - 伊勢本社敷地内に、PV試験所を開所

@@ -1,7 +1,7 @@
 > この記事は[BOX](https://ja.wikipedia.org/wiki/BOX)から翻訳されています。
 
 
-『**こだわりミュージックBOX**』（こだわりミュージックボックス）は、[文化放送](../Page/文化放送.md "wikilink")が制作していた地方局向けの[裏送り](https://ja.wikipedia.org/wiki/裏送り "wikilink")のリクエスト[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。放送期間は[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月4日](../Page/4月4日.md "wikilink")より[2000年](../Page/2000年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで。
+『**こだわりミュージックBOX**』（こだわりミュージックボックス）は、[文化放送](../Page/文化放送.md "wikilink")が制作していた地方局向けの[裏送り](../Page/裏送り.md "wikilink")のリクエスト[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。放送期間は[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月4日](../Page/4月4日.md "wikilink")より[2000年](../Page/2000年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで。
 
 月曜から金曜まで文化放送のアナウンサーが日替わりで、リスナーからのリクエストやエピソードに応えていた。
 
@@ -11,13 +11,13 @@
 
 ## パーソナリティ
 
-  - [月曜日](../Page/月曜日.md "wikilink")…[水谷加奈](https://ja.wikipedia.org/wiki/水谷加奈 "wikilink")
-  - [火曜日](../Page/火曜日.md "wikilink")…[太田英明](https://ja.wikipedia.org/wiki/太田英明 "wikilink")
-  - [水曜日](../Page/水曜日.md "wikilink")…[藤木千穂](https://ja.wikipedia.org/wiki/藤木千穂 "wikilink")
-  - [木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink")…[飯塚治](../Page/飯塚治.md "wikilink")
-  - [金曜日](../Page/金曜日.md "wikilink")…[永野景子](https://ja.wikipedia.org/wiki/永野景子 "wikilink")
+  - [月曜日](../Page/月曜日.md "wikilink")…[水谷加奈](../Page/水谷加奈.md "wikilink")
+  - [火曜日](../Page/火曜日.md "wikilink")…[太田英明](../Page/太田英明.md "wikilink")
+  - [水曜日](../Page/水曜日.md "wikilink")…[藤木千穂](../Page/藤木千穂.md "wikilink")
+  - [木曜日](../Page/木曜日.md "wikilink")…[飯塚治](../Page/飯塚治.md "wikilink")
+  - [金曜日](../Page/金曜日.md "wikilink")…[永野景子](../Page/永野景子.md "wikilink")
 
-このほかにも[吉田涙子](https://ja.wikipedia.org/wiki/吉田涙子 "wikilink")、[砂山圭大郎](https://ja.wikipedia.org/wiki/砂山圭大郎 "wikilink")が担当していた。
+このほかにも[吉田涙子](../Page/吉田涙子.md "wikilink")、[砂山圭大郎](../Page/砂山圭大郎.md "wikilink")が担当していた。
 
 ## 番組をネットしていた局
 
@@ -38,7 +38,7 @@
 
 ## 関連番組
 
-  - [ラジオアミューズメントパーク](https://ja.wikipedia.org/wiki/ラジオアミューズメントパーク "wikilink")
+  - [ラジオアミューズメントパーク](../Page/ラジオアミューズメントパーク.md "wikilink")
 
 ## 脚注
 

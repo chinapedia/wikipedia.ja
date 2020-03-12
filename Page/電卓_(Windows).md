@@ -7,11 +7,11 @@
 
 ## 概要
 
-文字通り、[電卓](../Page/電卓.md "wikilink")風のUIにより計算が行えるソフトウェアで、デフォルトのモードでは一般的な[四則演算](https://ja.wikipedia.org/wiki/四則演算 "wikilink")が行える。さらに[関数電卓](https://ja.wikipedia.org/wiki/関数電卓 "wikilink")モードもあり、そちらでは[関数や](https://ja.wikipedia.org/wiki/関数_\(数学\) "wikilink")、[2進数](https://ja.wikipedia.org/wiki/2進数 "wikilink")・[8進数](https://ja.wikipedia.org/wiki/8進数 "wikilink")・[16進数](https://ja.wikipedia.org/wiki/16進数 "wikilink")といった進数演算などが行える。計算した結果は[クリップボード](https://ja.wikipedia.org/wiki/クリップボード "wikilink")経由で別のソフトウェアにペーストすることができる。
+文字通り、[電卓](../Page/電卓.md "wikilink")風のUIにより計算が行えるソフトウェアで、デフォルトのモードでは一般的な[四則演算](https://ja.wikipedia.org/wiki/四則演算 "wikilink")が行える。さらに[関数電卓](../Page/関数電卓.md "wikilink")モードもあり、そちらでは[関数や](../Page/関数_\(数学\).md "wikilink")、[2進数](https://ja.wikipedia.org/wiki/2進数 "wikilink")・[8進数](https://ja.wikipedia.org/wiki/8進数 "wikilink")・[16進数](https://ja.wikipedia.org/wiki/16進数 "wikilink")といった進数演算などが行える。計算した結果は[クリップボード](../Page/クリップボード.md "wikilink")経由で別のソフトウェアにペーストすることができる。
 
 [Windows Vistaまで大きく変化はなかったが](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink")、[Windows 7で文字通りの](../Page/Microsoft_Windows_7.md "wikilink")「電卓」風の外観に変わり、「プログラマ」と「統計」の2つのモードが追加された。その他の機能も大幅に強化されている\[3\]。
 
-なお、Windowsに限らず、同様のソフトウェアはその他のオペレーティングシステムやデスクトップ環境にも標準で用意されていることが多い（[Mac OSには](https://ja.wikipedia.org/wiki/Mac_OS "wikilink")[計算機](https://ja.wikipedia.org/wiki/計算機_\(ソフトウェア\) "wikilink")、[GNOME](../Page/GNOME.md "wikilink")には[GNOME 電卓](https://ja.wikipedia.org/wiki/GNOME_電卓 "wikilink")、[KDE](../Page/KDE.md "wikilink")には[KCalc](https://ja.wikipedia.org/wiki/KCalc "wikilink")など）。また、複雑な計算処理を伴う場合には[表計算ソフト](../Page/表計算ソフト.md "wikilink")（Microsoftの場合は[Microsoft Excel](https://ja.wikipedia.org/wiki/Microsoft_Excel "wikilink")、その他[OpenOffice.org](../Page/OpenOffice.org.md "wikilink")など）を利用するという方法もある。
+なお、Windowsに限らず、同様のソフトウェアはその他のオペレーティングシステムやデスクトップ環境にも標準で用意されていることが多い（[Mac OSには](https://ja.wikipedia.org/wiki/Mac_OS "wikilink")[計算機](../Page/計算機_\(ソフトウェア\).md "wikilink")、[GNOME](../Page/GNOME.md "wikilink")には[GNOME 電卓](https://ja.wikipedia.org/wiki/GNOME_電卓 "wikilink")、[KDE](../Page/KDE.md "wikilink")には[KCalc](https://ja.wikipedia.org/wiki/KCalc "wikilink")など）。また、複雑な計算処理を伴う場合には[表計算ソフト](../Page/表計算ソフト.md "wikilink")（Microsoftの場合は[Microsoft Excel](https://ja.wikipedia.org/wiki/Microsoft_Excel "wikilink")、その他[OpenOffice.org](../Page/OpenOffice.org.md "wikilink")など）を利用するという方法もある。
 
 Windows 10ではUWPアプリのみの搭載となった。ただし[Long Term Servicing Branch版には](https://ja.wikipedia.org/wiki/Microsoft_Windows_10#Long_Term_Servicing_Branch_.28LTSB.29 "wikilink")[従来のデスクトップ アプリが同梱されている](https://ja.wikipedia.org/wiki/Microsoft_Windows_10#アプリケーション "wikilink")。
 

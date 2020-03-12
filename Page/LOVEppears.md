@@ -7,7 +7,7 @@
 
 ## 解説
 
-オリジナルアルバムとしては前作『[A Song for ××](https://ja.wikipedia.org/wiki/A_Song_for_×× "wikilink")』から、わずか10ヶ月後の発売となった。 11thシングル「[appears](https://ja.wikipedia.org/wiki/appears "wikilink")」との同時発売。シングルカットを含むとシングル11曲を収録しており、実質ベストアルバム的な内容となっている。
+オリジナルアルバムとしては前作『[A Song for ××](../Page/A_Song_for_××.md "wikilink")』から、わずか10ヶ月後の発売となった。 11thシングル「[appears](https://ja.wikipedia.org/wiki/appears "wikilink")」との同時発売。シングルカットを含むとシングル11曲を収録しており、実質ベストアルバム的な内容となっている。
 
 アルバムのタイトルである「LOVEppears」は「LOVE」と「appears」からの造語。また、オリジナルアルバムでは本作で初めて浜崎のシンボルマークである「」のロゴ表記が用いられ、以後の作品にも継承されている。
 
@@ -17,7 +17,7 @@
 
 ### DISC2の内容
 
-[CD EXTRA部分には浜崎本人の](https://ja.wikipedia.org/wiki/CD_EXTRA "wikilink")「おはよう」などの声やこれまでに浜崎が出演した作品のCM集、ジャケットの写真撮影風景などが収録されている。CD部分には、リミックスバージョンのメドレーと、1stアルバム『[A Song for ××](https://ja.wikipedia.org/wiki/A_Song_for_×× "wikilink")』収録曲のリミックスが収録されている。
+[CD EXTRA部分には浜崎本人の](../Page/CD_EXTRA.md "wikilink")「おはよう」などの声やこれまでに浜崎が出演した作品のCM集、ジャケットの写真撮影風景などが収録されている。CD部分には、リミックスバージョンのメドレーと、1stアルバム『[A Song for ××](../Page/A_Song_for_××.md "wikilink")』収録曲のリミックスが収録されている。
 
 ## チャート成績
 
@@ -29,7 +29,7 @@
 
 初回生産限定盤には、縦長デジパック透明スリーヴ仕様、特設サイトアクセスカードが封入されている\[2\]。
 
-本リリースに先駆け、自身の誕生日にあたる[10月2日](../Page/10月2日.md "wikilink")にこれまでに発表されたデビュー曲「[poker face](https://ja.wikipedia.org/wiki/poker_face_\(浜崎あゆみの曲\) "wikilink")」から最新アルバム『[M(A)DE IN JAPAN](https://ja.wikipedia.org/wiki/M\(A\)DE_IN_JAPAN "wikilink")』の間にリリースされた、100曲以上の[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")を動画サイト[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")においてフル尺で一挙解禁された\[3\]ほか、本リリース同日には、今作に収録されている「TO BE」と「appears」から2本のリリックビデオが公開された\[4\]。また10月11日には、本アルバムDISC1収録の全16曲がリマスター音源の配信が先行として行われた\[5\]。
+本リリースに先駆け、自身の誕生日にあたる[10月2日](../Page/10月2日.md "wikilink")にこれまでに発表されたデビュー曲「[poker face](https://ja.wikipedia.org/wiki/poker_face_\(浜崎あゆみの曲\) "wikilink")」から最新アルバム『[M(A)DE IN JAPAN](https://ja.wikipedia.org/wiki/M\(A\)DE_IN_JAPAN "wikilink")』の間にリリースされた、100曲以上の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")を動画サイト[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")においてフル尺で一挙解禁された\[3\]ほか、本リリース同日には、今作に収録されている「TO BE」と「appears」から2本のリリックビデオが公開された\[4\]。また10月11日には、本アルバムDISC1収録の全16曲がリマスター音源の配信が先行として行われた\[5\]。
 
 ## 収録曲
 
@@ -43,61 +43,61 @@
 
 1.  **Introduction**
       -
-        作曲・編曲：[HΛL](https://ja.wikipedia.org/wiki/HΛL "wikilink")
+        作曲・編曲：[HΛL](../Page/HΛL.md "wikilink")
         インスト
-2.  **[Fly high](https://ja.wikipedia.org/wiki/Fly_high_\(浜崎あゆみの曲\) "wikilink")**
+2.  **[Fly high](../Page/Fly_high_\(浜崎あゆみの曲\).md "wikilink")**
       -
-        作曲：[D・A・I](https://ja.wikipedia.org/wiki/長尾大 "wikilink")、編曲：HΛL
+        作曲：[D・A・I](../Page/長尾大.md "wikilink")、編曲：HΛL
         後に13thシングルとしてシングルカット
-3.  **[Trauma](https://ja.wikipedia.org/wiki/A_\(シングル\) "wikilink")**
+3.  **[Trauma](../Page/A_\(シングル\).md "wikilink")**
       -
         作曲：D・A・I、編曲：[鈴木直人](https://ja.wikipedia.org/wiki/鈴木直人_\(音楽プロデューサー\) "wikilink")＆D・A・I
-        10thシングル「[A](https://ja.wikipedia.org/wiki/A_\(シングル\) "wikilink")」収録曲
-        [日本たばこ産業](https://ja.wikipedia.org/wiki/日本たばこ産業 "wikilink")「[桃の天然水](https://ja.wikipedia.org/wiki/桃の天然水 "wikilink")」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
+        10thシングル「[A](../Page/A_\(シングル\).md "wikilink")」収録曲
+        [日本たばこ産業](https://ja.wikipedia.org/wiki/日本たばこ産業 "wikilink")「[桃の天然水](../Page/桃の天然水.md "wikilink")」[CMソング](../Page/コマーシャルソング.md "wikilink")
 4.  **And Then**
       -
-        作曲：[星野靖彦](https://ja.wikipedia.org/wiki/星野靖彦 "wikilink")、編曲：[菊地圭介](https://ja.wikipedia.org/wiki/菊地圭介 "wikilink")
+        作曲：[星野靖彦](https://ja.wikipedia.org/wiki/星野靖彦 "wikilink")、編曲：[菊地圭介](../Page/菊地圭介.md "wikilink")
         花王ソフィーナ「オーブ(AUBE)」イメージソング
 5.  **[immature](https://ja.wikipedia.org/wiki/appears "wikilink") "Album Version"**
       -
-        作曲：[菊池一仁](https://ja.wikipedia.org/wiki/菊池一仁 "wikilink")、編曲：HΛL
+        作曲：[菊池一仁](../Page/菊池一仁.md "wikilink")、編曲：HΛL
         11thシングルのカップリング
-6.  **[Boys & Girls](https://ja.wikipedia.org/wiki/Boys_&_Girls_\(浜崎あゆみの曲\) "wikilink")**
+6.  **[Boys & Girls](../Page/Boys_&_Girls_\(浜崎あゆみの曲\).md "wikilink")**
       -
         作曲：D・A・I、編曲：鈴木直人＆D・A・I
         9thシングル
         [花王](../Page/花王.md "wikilink")「AUBE」CMソング
-7.  **[TO BE](https://ja.wikipedia.org/wiki/TO_BE "wikilink")**
+7.  **[TO BE](../Page/TO_BE.md "wikilink")**
       -
         作曲：D・A・I、編曲：鈴木直人＆D・A・I
         8thシングル
-        [日本たばこ産業](https://ja.wikipedia.org/wiki/日本たばこ産業 "wikilink")「[桃の天然水](https://ja.wikipedia.org/wiki/桃の天然水 "wikilink")」CMソング
-8.  **[End roll](https://ja.wikipedia.org/wiki/A_\(シングル\) "wikilink")**
+        [日本たばこ産業](https://ja.wikipedia.org/wiki/日本たばこ産業 "wikilink")「[桃の天然水](../Page/桃の天然水.md "wikilink")」CMソング
+8.  **[End roll](../Page/A_\(シングル\).md "wikilink")**
       -
         作曲：D・A・I、編曲：鈴木直人＆D・A・I
-        10thシングル「[A](https://ja.wikipedia.org/wiki/A_\(シングル\) "wikilink")」収録曲
+        10thシングル「[A](../Page/A_\(シングル\).md "wikilink")」収録曲
 9.  **P.S II**
       -
         作曲：桑原秀明、編曲：HΛL
-        前作『[A Song for ××](https://ja.wikipedia.org/wiki/A_Song_for_×× "wikilink")』収録の「POWDER SNOW」をアレンジしたもの
-10. **[WHATEVER](https://ja.wikipedia.org/wiki/WHATEVER_\(浜崎あゆみの曲\) "wikilink") "Dub's 1999 Remix"**
+        前作『[A Song for ××](../Page/A_Song_for_××.md "wikilink")』収録の「POWDER SNOW」をアレンジしたもの
+10. **[WHATEVER](../Page/WHATEVER_\(浜崎あゆみの曲\).md "wikilink") "Dub's 1999 Remix"**
       -
         作曲：菊池一仁、編曲：[宮崎"D・M・X"泉](https://ja.wikipedia.org/wiki/Dub_Master_X "wikilink")
         6thシングル。シングル版である"Version M"を7分弱に尺伸ばししたExtented版
-11. **[too late](https://ja.wikipedia.org/wiki/A_\(シングル\) "wikilink")**
+11. **[too late](../Page/A_\(シングル\).md "wikilink")**
       -
         作曲：D・A・I、編曲：鈴木直人＆D・A・I
-        10thシングル「[A](https://ja.wikipedia.org/wiki/A_\(シングル\) "wikilink")」収録曲
+        10thシングル「[A](../Page/A_\(シングル\).md "wikilink")」収録曲
         [本田技研工業](../Page/本田技研工業.md "wikilink")「[ジョルノクレア](../Page/ホンダ・ジョルノクレア.md "wikilink")」CMソング
 12. **[appears](https://ja.wikipedia.org/wiki/appears "wikilink") "Album Version"**
       -
         作曲：菊池一仁、編曲：HΛL
         11thシングル
-13. **[monochrome](https://ja.wikipedia.org/wiki/A_\(シングル\) "wikilink")**
+13. **[monochrome](../Page/A_\(シングル\).md "wikilink")**
       -
         作曲：D・A・I、編曲：鈴木直人＆D・A・I
-        10thシングル「[A](https://ja.wikipedia.org/wiki/A_\(シングル\) "wikilink")」収録曲
-        [日本たばこ産業](https://ja.wikipedia.org/wiki/日本たばこ産業 "wikilink")「[桃の天然水](https://ja.wikipedia.org/wiki/桃の天然水 "wikilink")」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
+        10thシングル「[A](../Page/A_\(シングル\).md "wikilink")」収録曲
+        [日本たばこ産業](https://ja.wikipedia.org/wiki/日本たばこ産業 "wikilink")「[桃の天然水](../Page/桃の天然水.md "wikilink")」[CMソング](../Page/コマーシャルソング.md "wikilink")
 14. **Interlude**
       -
         作曲・編曲：鈴木直人
@@ -127,7 +127,7 @@
 2.  ayu's HOUSE MEGA-MIX "N.S House Mix"
       -
         Remixed by Shoji Ueda
-3.  [A Song for ××](https://ja.wikipedia.org/wiki/A_Song_for_×× "wikilink") "MILLENNIUM MIX"
+3.  [A Song for ××](../Page/A_Song_for_××.md "wikilink") "MILLENNIUM MIX"
 4.  POWDER SNOW "Acoustic Orchestra Version"
 5.  FRIEND II "MAKE MY MAD MIX"
 

@@ -7,7 +7,7 @@
 
 ## 概要
 
-[夜叉のリーダーだったジョ](https://ja.wikipedia.org/wiki/Yacha "wikilink")・ジンスが夜叉を解散後、兵役期間(兵役義務)に入り、軍生活の中で見た日本のダンスグループZOOのダンス映像を見て衝撃を受け、除隊後、新しいグループを企画する。当時の韓国ではヒップホップが主流を果たせなかった時代だったため、ジョ・ジンスはその魅力を見つけた。日本のグループ[ZOOをベンチマークして](https://ja.wikipedia.org/wiki/ZOO_\(ダンス&ボーカルユニット\) "wikilink")、混成グループZAMを結成した。当初は10人以上のメンバーが在籍していたが、最終的に5人組になったとされている。
+[夜叉のリーダーだったジョ](https://ja.wikipedia.org/wiki/Yacha "wikilink")・ジンスが夜叉を解散後、兵役期間(兵役義務)に入り、軍生活の中で見た日本のダンスグループZOOのダンス映像を見て衝撃を受け、除隊後、新しいグループを企画する。当時の韓国ではヒップホップが主流を果たせなかった時代だったため、ジョ・ジンスはその魅力を見つけた。日本のグループ[ZOOをベンチマークして](../Page/ZOO_\(ダンス&ボーカルユニット\).md "wikilink")、混成グループZAMを結成した。当初は10人以上のメンバーが在籍していたが、最終的に5人組になったとされている。
 
 [1992年](../Page/1992年.md "wikilink")「**私は止まらない<난 멈추지 않는다>**」で[DSPメディア](https://ja.wikipedia.org/wiki/DSPメディア "wikilink")からデビュー。
 
@@ -37,7 +37,7 @@
 
 ## エピソード
 
-  - デビュー曲「私は止まらない」のパフォーマンスを見てみると、実際に[ZOOの](https://ja.wikipedia.org/wiki/ZOO_\(ダンス&ボーカルユニット\) "wikilink")[Choo Choo TRAINの振り付けを取り入れていることが分かる](https://ja.wikipedia.org/wiki/Choo_Choo_TRAIN "wikilink")。
+  - デビュー曲「私は止まらない」のパフォーマンスを見てみると、実際に[ZOOの](../Page/ZOO_\(ダンス&ボーカルユニット\).md "wikilink")[Choo Choo TRAINの振り付けを取り入れていることが分かる](../Page/Choo_Choo_TRAIN.md "wikilink")。
   - 3集のタイトル曲「自分の理由」が[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")の[太陽のSEASON](https://ja.wikipedia.org/wiki/太陽のSEASON "wikilink")の導入部分を盗作しているという疑惑があった。
   - 2017年に同じ[DSPメディア](https://ja.wikipedia.org/wiki/DSPメディア "wikilink")からデビューした[KARD](https://ja.wikipedia.org/wiki/KARD "wikilink")は、男女混成グループとしてZAMの後輩と言えるグループである。
 

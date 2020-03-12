@@ -1,7 +1,7 @@
 > この記事は[Melon](https://ja.wikipedia.org/wiki/Melon)から翻訳されています。
 
 
-『**melon**』（メロン）は[祥伝社](https://ja.wikipedia.org/wiki/祥伝社 "wikilink")が毎月発行していた女子小中学生向け[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")。
+『**melon**』（メロン）は[祥伝社](../Page/祥伝社.md "wikilink")が毎月発行していた女子小中学生向け[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")。
 
 ## 概要
 
@@ -12,10 +12,10 @@
 ## 主なメロモ
 
   - [浜千咲](../Page/泉里香.md "wikilink")
-  - [近野成美](https://ja.wikipedia.org/wiki/近野成美 "wikilink")
+  - [近野成美](../Page/近野成美.md "wikilink")
   - [成海璃子](https://ja.wikipedia.org/wiki/成海璃子 "wikilink")
-  - [谷口紗耶香](https://ja.wikipedia.org/wiki/谷口紗耶香 "wikilink")
-  - [篠原愛実](https://ja.wikipedia.org/wiki/篠原愛実 "wikilink")
+  - [谷口紗耶香](../Page/谷口紗耶香.md "wikilink")
+  - [篠原愛実](../Page/篠原愛実.md "wikilink")
   - [瀧本美織](https://ja.wikipedia.org/wiki/瀧本美織 "wikilink")
   - [垣内彩未](../Page/垣内彩未.md "wikilink")
   - 高山紗希
@@ -23,16 +23,16 @@
   - 千葉美瑛子
   - [小山愛理](https://ja.wikipedia.org/wiki/小山愛理 "wikilink")
   - 北川愛
-  - [出村真実](https://ja.wikipedia.org/wiki/上野真未 "wikilink")
+  - [出村真実](../Page/上野真未.md "wikilink")
   - 仲川美穂
-  - [三原勇希](https://ja.wikipedia.org/wiki/三原勇希 "wikilink")
-  - [田野アサミ](https://ja.wikipedia.org/wiki/田野アサミ "wikilink")
-  - [高橋由真](https://ja.wikipedia.org/wiki/高橋由真 "wikilink")
+  - [三原勇希](../Page/三原勇希.md "wikilink")
+  - [田野アサミ](../Page/田野アサミ.md "wikilink")
+  - [高橋由真](../Page/高橋由真.md "wikilink")
   - [羽根有里](../Page/はねゆり.md "wikilink")
-  - [青谷優衣](https://ja.wikipedia.org/wiki/青谷優衣 "wikilink")
-  - [上原千夏子](https://ja.wikipedia.org/wiki/Nanami "wikilink")
-  - [村川絵梨](https://ja.wikipedia.org/wiki/村川絵梨 "wikilink")
-  - [杉林沙織](https://ja.wikipedia.org/wiki/杉林沙織 "wikilink")
+  - [青谷優衣](../Page/青谷優衣.md "wikilink")
+  - [上原千夏子](../Page/Nanami.md "wikilink")
+  - [村川絵梨](../Page/村川絵梨.md "wikilink")
+  - [杉林沙織](../Page/杉林沙織.md "wikilink")
   - 早川奈那
   - [滝口ミラ](https://ja.wikipedia.org/wiki/滝口ミラ "wikilink")
   - [スヨン](https://ja.wikipedia.org/wiki/スヨン "wikilink")
@@ -41,7 +41,7 @@
 
   - [nicola](https://ja.wikipedia.org/wiki/ニコラ_\(雑誌\) "wikilink")（[新潮社](../Page/新潮社.md "wikilink")）
   - [ピチレモン](../Page/ピチレモン.md "wikilink")（[学習研究社](../Page/学研ホールディングス.md "wikilink")）
-  - [Hana\*chu→](../Page/Hanachu.md "wikilink")（[主婦の友社](https://ja.wikipedia.org/wiki/主婦の友社 "wikilink")）
+  - [Hana\*chu→](../Page/Hanachu.md "wikilink")（[主婦の友社](../Page/主婦の友社.md "wikilink")）
   - [ラブベリー](../Page/ラブベリー.md "wikilink")（[徳間書店](../Page/徳間書店.md "wikilink")）
   - [CANDy](https://ja.wikipedia.org/wiki/CANDy "wikilink")（[白泉社](../Page/白泉社.md "wikilink")）
 

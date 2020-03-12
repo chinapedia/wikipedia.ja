@@ -1,7 +1,7 @@
 > この記事は[AWAKE \(WANDS\)](https://ja.wikipedia.org/wiki/AWAKE_\(WANDS\))から翻訳されています。
 
 
-『**AWAKE**』（アウェイク）は[WANDS](https://ja.wikipedia.org/wiki/WANDS "wikilink")の5枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。
+『**AWAKE**』（アウェイク）は[WANDS](../Page/WANDS.md "wikilink")の5枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 内容
 
@@ -34,7 +34,7 @@ CDジャーナルは、「相変わらず、メロディアスで[ポップで](
 <!-- end list -->
 
 1.  **AWAKE**
-      - [ミズノ](https://ja.wikipedia.org/wiki/ミズノ "wikilink")“INTERNATIONAL”CMイメージソング。第3期では唯一となるテレビ出演で披露された楽曲でもある｡
+      - [ミズノ](../Page/ミズノ.md "wikilink")“INTERNATIONAL”CMイメージソング。第3期では唯一となるテレビ出演で披露された楽曲でもある｡
       - このアルバムの表題曲でもあり、曲名は「3人で何ができるか?」っていう所で探し、「昨日とは違う自分」みたいな、そう言う「目の覚める感じ」って言うのを出したかったと考え、アルバムタイトルにもしたと杉元が語っている\[13\]。また、間奏部分の英語の台詞は、杉元が担当している\[14\]。
       - 当時、生ドラム版とかポップ版とか様々なアレンジのバージョンがあった\[15\]。
       - ｢BEST OF WANDS VIDEO HISTORY｣にPVが収録されている｡
@@ -53,7 +53,7 @@ CDジャーナルは、「相変わらず、メロディアスで[ポップで](
       - 歌詞は、[モラトリアム](https://ja.wikipedia.org/wiki/モラトリアム "wikilink")について歌った内容となっている。
 8.  **Time washed away**
       - [シンセサイザー](../Page/シンセサイザー.md "wikilink")と[ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")を主体としたバラード曲で、2分22秒とアルバムの中で最も短い。歌詞は、かつての恋人を回想する内容となっている。
-9.  **[明日もし君が壊れても](https://ja.wikipedia.org/wiki/明日もし君が壊れても "wikilink")**
+9.  **[明日もし君が壊れても](../Page/明日もし君が壊れても.md "wikilink")**
       - 14thシングル。
 10. **Still in love**
       - 木村・杉元による共作であり、木村が曲作りに飽きて気分転換に杉元の家に行った時に、メロディーは杉元と一緒に作ったと語っている\[20\]。歌詞は、恋人の心変わりについて歌った内容となっている。
@@ -63,7 +63,7 @@ CDジャーナルは、「相変わらず、メロディアスで[ポップで](
 11. **Please tell me Jesus**
       - デモの段階ではバラード曲だったが\[22\]、アレンジによって劇的にロックバージョンに変わったと杉元が述べている\[23\]。
       - このことに関しては、アルバム制作の終わりの段階に近づいた時にノリノリの曲が欲しいと考え、本曲のメロディーが良かったため、バラードからノリのいい曲に仕上げてみたと木村が当時のラジオで語っていた\[24\]。また、木村は本曲の印象としては、「とりあえずちょっと[プログレ的な](../Page/プログレッシブ・ロック.md "wikilink")"イッチャッタ"感じなんですよね。」と語っている\[25\]。
-12. **[錆びついたマシンガンで今を撃ち抜こう](https://ja.wikipedia.org/wiki/錆びついたマシンガンで今を撃ち抜こう "wikilink")**
+12. **[錆びついたマシンガンで今を撃ち抜こう](../Page/錆びついたマシンガンで今を撃ち抜こう.md "wikilink")**
       - 12thシングル。シングルバージョンと若干ミックスを変更させている。
 13. **Where there's a will…**
       - 歌詞は、旅立ちについて歌っている。
@@ -71,19 +71,19 @@ CDジャーナルは、「相変わらず、メロディアスで[ポップで](
 
 ## 参加ミュージシャン
 
-### [WANDS](https://ja.wikipedia.org/wiki/WANDS "wikilink")
+### [WANDS](../Page/WANDS.md "wikilink")
 
-  - Vocal：[和久二郎](https://ja.wikipedia.org/wiki/松元治郎 "wikilink")
+  - Vocal：[和久二郎](../Page/松元治郎.md "wikilink")
   - Guitar：[杉元一生](../Page/安保"Suginho"一生.md "wikilink")
-  - Keyboards：[木村真也](https://ja.wikipedia.org/wiki/木村真也 "wikilink")
+  - Keyboards：[木村真也](../Page/木村真也.md "wikilink")
 
 ### ゲストミュージシャン
 
 **Brand New Love**
 
   - Guitar：[綿貫正顕](../Page/綿貫正顕.md "wikilink")
-  - Keyboards：[小野塚晃](../Page/小野塚晃.md "wikilink") (from [DIMENSION](https://ja.wikipedia.org/wiki/DIMENSION "wikilink"))
-  - Chorus：[生沢佑一](https://ja.wikipedia.org/wiki/生沢佑一 "wikilink"), [川島だりあ](https://ja.wikipedia.org/wiki/川島だりあ "wikilink"), [大田紳一郎](../Page/大田紳一郎.md "wikilink"), 高原由妃, 伊藤強
+  - Keyboards：[小野塚晃](../Page/小野塚晃.md "wikilink") (from [DIMENSION](../Page/DIMENSION.md "wikilink"))
+  - Chorus：[生沢佑一](../Page/生沢佑一.md "wikilink"), [川島だりあ](../Page/川島だりあ.md "wikilink"), [大田紳一郎](../Page/大田紳一郎.md "wikilink"), 高原由妃, 伊藤強
   - Rap：[大島康祐](../Page/大島こうすけ.md "wikilink"), 佐々木美和
   - Voice：[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")
 
@@ -132,7 +132,7 @@ CDジャーナルは、「相変わらず、メロディアスで[ポップで](
 2.  [FM FUJI](https://ja.wikipedia.org/wiki/FM_FUJI "wikilink") スーパーフリークサンデー「アーティストボイス」ゲスト出演時(1999年10月17日放送)
 3.  [TOKYO FM](../Page/エフエム東京.md "wikilink") 「NESCAFE EXCELLA　ゲストタイム〜ソフィアモーニング・カフェ」 ゲスト出演時(1999年10月15日放送)
 4.  [WANDS BIOGRAPHY](http://www.being.co.jp/wands/bio/index.html) (WANDS公式サイトより) ※「1999 27.Oct.」の項を参照
-5.  [FM yokohama](https://ja.wikipedia.org/wiki/横浜エフエム放送 "wikilink")「ザ・ランキング」ゲスト出演時(1999年10月21日放送)
+5.  [FM yokohama](../Page/横浜エフエム放送.md "wikilink")「ザ・ランキング」ゲスト出演時(1999年10月21日放送)
 6.  FM yokohama「ザ・リクエスト」ゲスト出演時(1999年10月29日放送)
 7.
 8.

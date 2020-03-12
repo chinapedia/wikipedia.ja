@@ -1,7 +1,7 @@
 > この記事は[TORCH](https://ja.wikipedia.org/wiki/TORCH)から翻訳されています。
 
 
-**TORCH症候群**（トーチしょうこうぐん、）とは、母体の症状は軽微であるのに対して、[妊娠](../Page/妊娠.md "wikilink")中の感染によって[胎児](https://ja.wikipedia.org/wiki/胎児 "wikilink")に奇形または重篤な母子感染症を引き起こす恐れのある[疾患](https://ja.wikipedia.org/wiki/疾患 "wikilink")の総称である\[1\]\[2\]。
+**TORCH症候群**（トーチしょうこうぐん、）とは、母体の症状は軽微であるのに対して、[妊娠](../Page/妊娠.md "wikilink")中の感染によって[胎児](../Page/胎児.md "wikilink")に奇形または重篤な母子感染症を引き起こす恐れのある[疾患](https://ja.wikipedia.org/wiki/疾患 "wikilink")の総称である\[1\]\[2\]。
 
 以下の[英語](../Page/英語.md "wikilink")の頭文字をとって名付けられている\[3\]。
 

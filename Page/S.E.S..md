@@ -12,12 +12,12 @@
 
 ## 概要
 
-韓国芸能界で本格的・継続的に成功した初の女性アイドルグループである。彼女たちの成功に刺激され、[Fin.K.L（ピンクル）](https://ja.wikipedia.org/wiki/ピンクル "wikilink")、[Baby V.O.X](https://ja.wikipedia.org/wiki/Baby_V.O.X "wikilink")、[Sugar](https://ja.wikipedia.org/wiki/Sugar_\(韓国の音楽グループ\) "wikilink")、[Jewelry等が続々とデビューした](../Page/ジュエリー_\(音楽グループ\).md "wikilink")。[韓国経済危機最中の](../Page/アジア通貨危機.md "wikilink")1998年には海外からの観光客誘致を呼びかけるCMに出演し[金大中](https://ja.wikipedia.org/wiki/金大中 "wikilink")大統領（当時）と共演した。
+韓国芸能界で本格的・継続的に成功した初の女性アイドルグループである。彼女たちの成功に刺激され、[Fin.K.L（ピンクル）](../Page/ピンクル.md "wikilink")、[Baby V.O.X](https://ja.wikipedia.org/wiki/Baby_V.O.X "wikilink")、[Sugar](../Page/Sugar_\(韓国の音楽グループ\).md "wikilink")、[Jewelry等が続々とデビューした](../Page/ジュエリー_\(音楽グループ\).md "wikilink")。[韓国経済危機最中の](../Page/アジア通貨危機.md "wikilink")1998年には海外からの観光客誘致を呼びかけるCMに出演し[金大中](../Page/金大中.md "wikilink")大統領（当時）と共演した。
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")10月、[バップ](https://ja.wikipedia.org/wiki/バップ "wikilink")から『めぐりあう世界』をリリースし日本デビュー。
-[2000年](../Page/2000年.md "wikilink")5月、[エイベックスに移籍](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。「[週刊少年マガジン](https://ja.wikipedia.org/wiki/週刊少年マガジン "wikilink")」など少年誌のグラビア掲載や「[THE夜もヒッパレ](https://ja.wikipedia.org/wiki/THE夜もヒッパレ "wikilink")」や「[恋ボーイ恋ガール](https://ja.wikipedia.org/wiki/恋ボーイ恋ガール "wikilink")」などにも出演していたが、当時はまだ[韓流](../Page/韓流.md "wikilink")ブームが起きる前で韓国芸能に対する関心が低かったためにセールス的には不本意な結果に終わった。
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")10月、[バップ](../Page/バップ.md "wikilink")から『めぐりあう世界』をリリースし日本デビュー。
+[2000年](../Page/2000年.md "wikilink")5月、[エイベックスに移籍](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。「[週刊少年マガジン](https://ja.wikipedia.org/wiki/週刊少年マガジン "wikilink")」など少年誌のグラビア掲載や「[THE夜もヒッパレ](../Page/THE夜もヒッパレ.md "wikilink")」や「[恋ボーイ恋ガール](../Page/恋ボーイ恋ガール.md "wikilink")」などにも出演していたが、当時はまだ[韓流](../Page/韓流.md "wikilink")ブームが起きる前で韓国芸能に対する関心が低かったためにセールス的には不本意な結果に終わった。
 
-メンバーのシューは[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身の在日韓国人3世で日本語ネイティブのため、日韓両国で[V6とデュエット曲](../Page/V6_\(グループ\).md "wikilink")「[One](https://ja.wikipedia.org/wiki/Feel_your_breeze/one "wikilink")」を発表、またV6メンバーの[井ノ原快彦](https://ja.wikipedia.org/wiki/井ノ原快彦 "wikilink")主演の舞台『東亜悲恋』やデジタルフォトドラマ「NO KISS」にも出演した。所属事務所だった[SMエンターテインメント](../Page/SMエンターテインメント.md "wikilink")は彼女達の日本での活動経験を踏まえて[BoA](../Page/BoA.md "wikilink")、[東方神起](https://ja.wikipedia.org/wiki/東方神起 "wikilink")、[少女時代などを次々と日本に進出させ](https://ja.wikipedia.org/wiki/少女時代_\(音楽グループ\) "wikilink")、今日の[K-POP](https://ja.wikipedia.org/wiki/K-POP "wikilink")ブームの礎を築いた。ユジンは[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")・[グアム](../Page/グアム.md "wikilink")出身、シューは日本出身の[在日韓国人](https://ja.wikipedia.org/wiki/在日韓国人 "wikilink")というように、海外進出を視野に入れて帰国子女をメンバーに入れる手法はSMだけでなく他事務所のアイドルグループでも踏襲されている。
+メンバーのシューは[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身の在日韓国人3世で日本語ネイティブのため、日韓両国で[V6とデュエット曲](../Page/V6_\(グループ\).md "wikilink")「[One](https://ja.wikipedia.org/wiki/Feel_your_breeze/one "wikilink")」を発表、またV6メンバーの[井ノ原快彦](../Page/井ノ原快彦.md "wikilink")主演の舞台『東亜悲恋』やデジタルフォトドラマ「NO KISS」にも出演した。所属事務所だった[SMエンターテインメント](../Page/SMエンターテインメント.md "wikilink")は彼女達の日本での活動経験を踏まえて[BoA](../Page/BoA.md "wikilink")、[東方神起](https://ja.wikipedia.org/wiki/東方神起 "wikilink")、[少女時代などを次々と日本に進出させ](https://ja.wikipedia.org/wiki/少女時代_\(音楽グループ\) "wikilink")、今日の[K-POP](https://ja.wikipedia.org/wiki/K-POP "wikilink")ブームの礎を築いた。ユジンは[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")・[グアム](../Page/グアム.md "wikilink")出身、シューは日本出身の[在日韓国人](https://ja.wikipedia.org/wiki/在日韓国人 "wikilink")というように、海外進出を視野に入れて帰国子女をメンバーに入れる手法はSMだけでなく他事務所のアイドルグループでも踏襲されている。
 
 S.E.S解散後、パダはミュージカル俳優とソロ歌手、ユジンは俳優、シューはテレビタレント、ミュージカルを中心に活動してきた。
 
@@ -25,22 +25,22 @@ S.E.S解散後、パダはミュージカル俳優とソロ歌手、ユジンは
 
 ## エピソード
 
-  - ファンクラブおよびファンの総称は『Friends』。公式応援カラーと応援用[風船](https://ja.wikipedia.org/wiki/風船 "wikilink")の色は紫\[5\]。
+  - ファンクラブおよびファンの総称は『Friends』。公式応援カラーと応援用[風船](../Page/風船.md "wikilink")の色は紫\[5\]。
 
 <!-- end list -->
 
-  - S.E.S.の所属事務所だった[SMエンターテインメント](../Page/SMエンターテインメント.md "wikilink")の創業者兼オーナーである[イ・スマン](https://ja.wikipedia.org/wiki/イ・スマン "wikilink")は当初、同事務所所属の男性グループ[H.O.T.](https://ja.wikipedia.org/wiki/H.O.T. "wikilink")を日本でデビューさせるつもりだったが、当時の韓国では[兵役](https://ja.wikipedia.org/wiki/兵役 "wikilink")未了の男性が海外を頻繁に行き来することは難しかったため断念し、代わりにS.E.S.が日本進出第一号になった。
+  - S.E.S.の所属事務所だった[SMエンターテインメント](../Page/SMエンターテインメント.md "wikilink")の創業者兼オーナーである[イ・スマン](https://ja.wikipedia.org/wiki/イ・スマン "wikilink")は当初、同事務所所属の男性グループ[H.O.T.](../Page/H.O.T..md "wikilink")を日本でデビューさせるつもりだったが、当時の韓国では[兵役](https://ja.wikipedia.org/wiki/兵役 "wikilink")未了の男性が海外を頻繁に行き来することは難しかったため断念し、代わりにS.E.S.が日本進出第一号になった。
   - S.E.S.の日本進出が失敗に終わったため、イ・スマンは日本ではヒットさせるまでに時間が掛かることを痛感し、その期間を逆算して次はもっと若い歌手を送り込もうと社運を賭けたプロジェクトを起こし、その結果[BoA](../Page/BoA.md "wikilink")の日本進出成功につながった。また、S.E.S.は韓国で人気絶頂の時に日本での活動を優先したため、本国での人気低下を招いた面があるとされている。[少女時代の日本デビューでは](https://ja.wikipedia.org/wiki/少女時代_\(音楽グループ\) "wikilink")、SMはS.E.S.の失敗を教訓として、曲選びからデビューイベントの内容、時期まで慎重に吟味したという\[6\]。このように、S.E.S.の日本進出が苦戦した経験を、SMは後輩達の日本進出成功に生かしていると言えるだろう。
   - デビュー前は、中国語も話せるソイという女性も加えた4人組グループとし、各メンバーがそれぞれ英語、日本語、朝鮮語、中国語を話せるというグループ構成にする予定だったが、ソイが抜けたので、結果的に3人組としてデビューした。イ・スマンも、「S.E.Sは実は4人だったんですよ。中国語が出来る子も入れて4人だったんですが、デビューさせる直前に中国語のできる彼女の個人的な理由で抜けることになりました」\[7\] と語っていた。なお、ソイはのちに、女性グループ[T.T.MA](https://ja.wikipedia.org/wiki/T.T.MA "wikilink")（ティティマ）\[8\]のメンバーとしてデビューし、現在はギタリストのチャン・ジュンソンと一緒にRASPBERRY FIELDという2人組ユニットのボーカルとして活動しており\[9\]、彼女の姉はソロ歌手のHeyである\[10\]。
   - 日本の芸能マスコミでは、S.E.Sを当時の日本の人気アイドルグループ「[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")」になぞらえ、「韓国の[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")」として紹介することが多かった。また、現在の韓国アイドルとは違いS.E.Sは、日本のアイドルグループに近いイメージ・雰囲気があった。
   - 『めぐりあう世界』『夢をかさねて』『（愛）という名の誇り』などの作曲を[島野聡](https://ja.wikipedia.org/wiki/島野聡 "wikilink")が手がけた関係で、同じく彼の作である[MISIA](https://ja.wikipedia.org/wiki/MISIA "wikilink")『[つつみ込むように…](../Page/つつみ込むように….md "wikilink")』を韓国でカヴァーしたこともある（第4集「A letter from Greenland」収録、韓国でのタイトルは『Show me your love』）。
   - 1999年頃、メンバー全員が頭を金髪にしたために、韓国[KBS放送から出演禁止に指定された事があった](../Page/韓国放送公社.md "wikilink")。KBSは公営放送であることから、芸能人は若者に多大な影響力を持つため、模範的な外見であることを当時は要求していたからである\[11\]。
   - 2001年には帰国子女のユジンと在日韓国人のシュー、同じく帰国子女の神話のエンディが通学していた外国人学校が韓国の大検資格を有していなかったことが発覚。ユジンは既に入学し一年通った高麗大学の、シューとエンディは合格したばかりの韓国外国語大学の入学取消という騒動もあった。合格の経緯が特殊才能保有者試験という特別枠だったため、その点でも世間の批判にさらされた\[12\]。
-  - 韓国の大手芸能事務所の一つである[DSPメディア](https://ja.wikipedia.org/wiki/DSPメディア "wikilink")（旧・テソン企画）は、[SMエンターテインメント](../Page/SMエンターテインメント.md "wikilink")所属のS.E.Sに対抗する形で、女性4人組[Fin.K.L（ピンクル）をデビューさせたが](https://ja.wikipedia.org/wiki/ピンクル "wikilink")、その後もSMの[東方神起](https://ja.wikipedia.org/wiki/東方神起 "wikilink")に対するDSPの[SS501](https://ja.wikipedia.org/wiki/SS501 "wikilink")、SMの[少女時代に対するDSPの](https://ja.wikipedia.org/wiki/少女時代_\(音楽グループ\) "wikilink")[KARA](https://ja.wikipedia.org/wiki/KARA "wikilink")といった形で両社の競合関係が続くことになる。
+  - 韓国の大手芸能事務所の一つである[DSPメディア](https://ja.wikipedia.org/wiki/DSPメディア "wikilink")（旧・テソン企画）は、[SMエンターテインメント](../Page/SMエンターテインメント.md "wikilink")所属のS.E.Sに対抗する形で、女性4人組[Fin.K.L（ピンクル）をデビューさせたが](../Page/ピンクル.md "wikilink")、その後もSMの[東方神起](https://ja.wikipedia.org/wiki/東方神起 "wikilink")に対するDSPの[SS501](../Page/SS501.md "wikilink")、SMの[少女時代に対するDSPの](https://ja.wikipedia.org/wiki/少女時代_\(音楽グループ\) "wikilink")[KARA](https://ja.wikipedia.org/wiki/KARA "wikilink")といった形で両社の競合関係が続くことになる。
   - ユジンはデビュー当時から“韓国のオリビア・ハッセー”の愛称がつく美貌で人気が高く、現在でもMnet「ゲット・イット・ビューティー」の初代MCを務めるなど‘ビューティ・アイコン’として認知されている。2000年代初頭というアイドルが女優に転身する例は殆ど無かった時代に、アイドルから女優へ転身し成功した1人である。現在もテレビドラマを中心に女優としての活動をメインにしている。
   - シューは2010年のインタビューで、S.E.S.時代を「華やかなとき」と表現し「当時は本当にたくさん仕事をしましたが、振り返ってみるとからっぽでした。そのときにわたしが持っていたのは、人気、ファンなど、永遠のものではなかったんですから。ですが日本でミュージカルに出演し、その状況をちゃんと乗り越え、今はとても心に余裕が出てきたので、華やかなときに戻れと言われても、そうしたいとは思いません」とコメントしている\[13\]。
   - 2010年4月、シューがプロバスケット選手[イム・ヒョソン](https://ja.wikipedia.org/wiki/イム・ヒョソン "wikilink")(仁川電子ランド)と結婚\[14\]。結婚式では元メンバー3人全員が集まったことで、「S.E.Sのプチ再結成」として話題になった\[15\]。同年6月23日午前2時30分に、[ソウル](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")・江南の病院で男の子を出産した\[16\]。
-  - 2011年7月には、ユジンが俳優の[キ・テヨン](https://ja.wikipedia.org/wiki/キ・テヨン "wikilink")と結婚した。この2人が知り合ったのは、[MBCドラマ](https://ja.wikipedia.org/wiki/文化放送_\(韓国\) "wikilink")『恋人づくり』の共演したのがきっかけである\[17\]。7月23日に[京畿道](../Page/京畿道.md "wikilink")安養のソウル中央教会で行われた結婚式には、元S.E.S.メンバーだけでなく多くの芸能人も出席した。
+  - 2011年7月には、ユジンが俳優の[キ・テヨン](https://ja.wikipedia.org/wiki/キ・テヨン "wikilink")と結婚した。この2人が知り合ったのは、[MBCドラマ](../Page/文化放送_\(韓国\).md "wikilink")『恋人づくり』の共演したのがきっかけである\[17\]。7月23日に[京畿道](../Page/京畿道.md "wikilink")安養のソウル中央教会で行われた結婚式には、元S.E.S.メンバーだけでなく多くの芸能人も出席した。
   - パダは、ミュージカル「[美女はつらいの](../Page/カンナさん大成功です!.md "wikilink")」に2008年から主演（カン・ハンビョル役）を務めていて、数々の賞を受賞した。2011年10月8日〜11月6日に日本・[大阪松竹座](../Page/大阪松竹座.md "wikilink")で行われた公演では、[KARA](https://ja.wikipedia.org/wiki/KARA "wikilink")のギュリと共にダブルキャストで主演を務めた。『[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")』2011年10月8日付夕刊で、パダはギュリと共にインタビューに応じたが、パダはS.E.S時代について、「当時、韓国のアイドルが日本のテレビに出るなんて大変だったし、どちらの国でも奇異の目で見られた。」「誰もいなかった時代に頑張った経験は自信になっている」と振り返った。ギュリは、「先に道を切り開いた人のおかげ、感謝している」と語った。ちなみに、パダとギュリは、同じく安養（アニャン）芸術高校の出身で、専攻も同じく演劇である。
   - 2017年3月、パダが9歳年下の一般人(実業家)と結婚。全員が既婚者となった。
 
@@ -212,7 +212,7 @@ S.E.S解散後、パダはミュージカル俳優とソロ歌手、ユジンは
 <p><small>60位</p></td>
 <td><center>
 <p><small>8,930枚</p></td>
-<td><p><small><a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ系</a>「<a href="https://ja.wikipedia.org/wiki/恋ボーイ恋ガール" title="wikilink">恋ボーイ恋ガール</a>」エンディングテーマ</p></td>
+<td><p><small><a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ系</a>「<a href="../Page/恋ボーイ恋ガール.md" title="wikilink">恋ボーイ恋ガール</a>」エンディングテーマ</p></td>
 </tr>
 <tr class="odd">
 <td><p><small>4th</p></td>
@@ -243,7 +243,7 @@ S.E.S解散後、パダはミュージカル俳優とソロ歌手、ユジンは
 <p><small>100位</p></td>
 <td><center>
 <p><small>2,030枚</p></td>
-<td><p><small><a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ系</a>「<a href="https://ja.wikipedia.org/wiki/週刊ストーリーランド" title="wikilink">週刊ストーリーランド</a>」エンディングテーマ</p></td>
+<td><p><small><a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ系</a>「<a href="../Page/週刊ストーリーランド.md" title="wikilink">週刊ストーリーランド</a>」エンディングテーマ</p></td>
 </tr>
 <tr class="even">
 <td><p><small>7th</p></td>
@@ -253,7 +253,7 @@ S.E.S解散後、パダはミュージカル俳優とソロ歌手、ユジンは
 <p><small>—</p></td>
 <td><center>
 <p><small>—</p></td>
-<td><p><small>映画「<a href="https://ja.wikipedia.org/wiki/The_AURORA_海のオーロラ" title="wikilink">The AURORA 海のオーロラ</a>」主題歌</p></td>
+<td><p><small>映画「<a href="../Page/The_AURORA_海のオーロラ.md" title="wikilink">The AURORA 海のオーロラ</a>」主題歌</p></td>
 </tr>
 <tr class="odd">
 <td><p><small>8th</p></td>
@@ -263,7 +263,7 @@ S.E.S解散後、パダはミュージカル俳優とソロ歌手、ユジンは
 <p><small>—</p></td>
 <td><center>
 <p><small>—</p></td>
-<td><p><small><a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ系</a>「<a href="https://ja.wikipedia.org/wiki/週刊ストーリーランド" title="wikilink">週刊ストーリーランド</a>」エンディングテーマ</p></td>
+<td><p><small><a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ系</a>「<a href="../Page/週刊ストーリーランド.md" title="wikilink">週刊ストーリーランド</a>」エンディングテーマ</p></td>
 </tr>
 </tbody>
 </table>
@@ -323,9 +323,9 @@ S.E.S解散後、パダはミュージカル俳優とソロ歌手、ユジンは
 
 ##### DVD,VHS
 
-| <small>                                                           | <small>タイトル              | <small>発売日        |
-| ----------------------------------------------------------------- | ------------------------ | ----------------- |
-| <small>[PV集](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink") | <small>S.E.S VIDEO CLIPS | <small>2000年8月23日 |
+| <small>                                        | <small>タイトル              | <small>発売日        |
+| ---------------------------------------------- | ------------------------ | ----------------- |
+| <small>[PV集](../Page/ミュージック・ビデオ.md "wikilink") | <small>S.E.S VIDEO CLIPS | <small>2000年8月23日 |
 
 #### avex
 
@@ -343,9 +343,9 @@ S.E.S解散後、パダはミュージカル俳優とソロ歌手、ユジンは
 
 ##### DVD
 
-| <small>                                                           | <small>タイトル            | <small>発売日        |
-| ----------------------------------------------------------------- | ---------------------- | ----------------- |
-| <small>[PV集](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink") | <small>BRILLIANT CLIPS | <small>2003年6月25日 |
+| <small>                                        | <small>タイトル            | <small>発売日        |
+| ---------------------------------------------- | ---------------------- | ----------------- |
+| <small>[PV集](../Page/ミュージック・ビデオ.md "wikilink") | <small>BRILLIANT CLIPS | <small>2003年6月25日 |
 
 ## 出演
 
@@ -353,15 +353,15 @@ S.E.S解散後、パダはミュージカル俳優とソロ歌手、ユジンは
 
 #### レギュラー
 
-  - [DAIBAッテキ\!\!](https://ja.wikipedia.org/wiki/DAIBAッテキ!! "wikilink") （[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
-  - [恋ボーイ恋ガール](https://ja.wikipedia.org/wiki/恋ボーイ恋ガール "wikilink") （[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
+  - [DAIBAッテキ\!\!](../Page/DAIBAッテキ!!.md "wikilink") （[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
+  - [恋ボーイ恋ガール](../Page/恋ボーイ恋ガール.md "wikilink") （[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
 
 #### 音楽番組
 
   - [HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink") （[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")） - 1998年12月7日、1999年2月22日、7月12日
   - [MUSIC STATION](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink") （[テレビ朝日](../Page/テレビ朝日.md "wikilink")）- 2002年6月21日 （[V6](../Page/V6_\(グループ\).md "wikilink") with Shoo）
   - [POP JAM](https://ja.wikipedia.org/wiki/ポップジャム "wikilink") （[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")） - 1999年7月10日
-  - [Music Jump](https://ja.wikipedia.org/wiki/Music_Jump "wikilink") （[NHK-BS2](https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン "wikilink")） - 1999年7月4日
+  - [Music Jump](https://ja.wikipedia.org/wiki/Music_Jump "wikilink") （[NHK-BS2](../Page/NHK衛星第2テレビジョン.md "wikilink")） - 1999年7月4日
   - [MMM](https://ja.wikipedia.org/wiki/MMM_\(音楽番組\) "wikilink") （[日本テレビ](../Page/日本テレビ放送網.md "wikilink")） - 2000年1月29日、4月21日、8月4日
   - [青春のポップス](../Page/青春のポップス.md "wikilink") （[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")） - 1998年4月、9月13日
   - 日刊！ひっと （[日本テレビ](../Page/日本テレビ放送網.md "wikilink")） - 1998年10月22日、1999年2月18日、6月25日
@@ -372,12 +372,12 @@ S.E.S解散後、パダはミュージカル俳優とソロ歌手、ユジンは
 
 #### バラエティ番組
 
-  - [THE夜もヒッパレ](https://ja.wikipedia.org/wiki/THE夜もヒッパレ "wikilink") （[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）- 1998年5月2日、7月18日、9月5日、10月17日、11月14日、11月28日、12月19日、1999年3月13日、3月20日、7月10日、8月7日、2000年4月22日、6月17日
-  - [スーパーJOCKEY](https://ja.wikipedia.org/wiki/スーパージョッキー "wikilink") （[日本テレビ](../Page/日本テレビ放送網.md "wikilink")） - 1998年10月18日
+  - [THE夜もヒッパレ](../Page/THE夜もヒッパレ.md "wikilink") （[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）- 1998年5月2日、7月18日、9月5日、10月17日、11月14日、11月28日、12月19日、1999年3月13日、3月20日、7月10日、8月7日、2000年4月22日、6月17日
+  - [スーパーJOCKEY](../Page/スーパージョッキー.md "wikilink") （[日本テレビ](../Page/日本テレビ放送網.md "wikilink")） - 1998年10月18日
   - [森田一義アワー 笑っていいとも\!](https://ja.wikipedia.org/wiki/森田一義アワー_笑っていいとも! "wikilink") （[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）- 1999年6月23日
   - [24時間テレビ 「愛は地球を救う」](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink") （[日本テレビ](../Page/日本テレビ放送網.md "wikilink")） - 1999年8月22日
-  - [フルーツサンデー](https://ja.wikipedia.org/wiki/フルーツサンデー "wikilink")（[NHK-BS2](https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン "wikilink")） - 1999年6月25日
-  - Week And Joy（[NHK-BS2](https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン "wikilink")） - 1998年7月25日
+  - [フルーツサンデー](https://ja.wikipedia.org/wiki/フルーツサンデー "wikilink")（[NHK-BS2](../Page/NHK衛星第2テレビジョン.md "wikilink")） - 1999年6月25日
+  - Week And Joy（[NHK-BS2](../Page/NHK衛星第2テレビジョン.md "wikilink")） - 1998年7月25日
   - 眞夜中の王國 （[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")） - 1999年2月26日、2000年5月18日
   - 寢ドキッ （[日本テレビ](../Page/日本テレビ放送網.md "wikilink")） - 1998年9月25日、10月16日、1999年1月30日、2月26日、6月24日、12月2日、2000年4月20日、7月27日、8月24日
   - 伝説音舗うれる堂 （[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")） - 1999年7月9日
@@ -386,13 +386,13 @@ S.E.S解散後、パダはミュージカル俳優とソロ歌手、ユジンは
 
   - Precious Harmony （[Bay FM](../Page/ベイエフエム.md "wikilink")）- 1999年4月 \~ 2000年9月
   - [SUPER FREAK SUNDAY](../Page/SUPER_FREAK_SUNDAY.md "wikilink") （[FM富士](https://ja.wikipedia.org/wiki/FM富士 "wikilink")） - 1999年6月20日
-  - [BAY LINE 7300](https://ja.wikipedia.org/wiki/BAY_LINE_7300 "wikilink") （[Bay FM](../Page/ベイエフエム.md "wikilink")）- 1999年6月22日
-  - [HITS\! THE TOWN](https://ja.wikipedia.org/wiki/HITS!_THE_TOWN "wikilink")（[Nack5](https://ja.wikipedia.org/wiki/Nack5 "wikilink")）- 1999年6月26日
+  - [BAY LINE 7300](../Page/BAY_LINE_7300.md "wikilink") （[Bay FM](../Page/ベイエフエム.md "wikilink")）- 1999年6月22日
+  - [HITS\! THE TOWN](../Page/HITS!_THE_TOWN.md "wikilink")（[Nack5](https://ja.wikipedia.org/wiki/Nack5 "wikilink")）- 1999年6月26日
   - Come on\! funky lips （[QR](https://ja.wikipedia.org/wiki/QR "wikilink")）- 1999年6月30日
   - J-HITS POWER STATION （[FM富士](https://ja.wikipedia.org/wiki/FM富士 "wikilink")） - 2000年1月6日
   - [SOUND SPEC.](https://ja.wikipedia.org/wiki/SOUND_SPEC. "wikilink") （[FM富士](https://ja.wikipedia.org/wiki/FM富士 "wikilink")） - 2000年4月22日
   - Studio H （[TOKYO FM](../Page/エフエム東京.md "wikilink")）- 2000年5月4日
-  - Saturday Night Hot Request （[NHK FM](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")） - 2000年5月6日
+  - Saturday Night Hot Request （[NHK FM](../Page/NHK-FM放送.md "wikilink")） - 2000年5月6日
   - Super World Count Down （[TOKYO FM](../Page/エフエム東京.md "wikilink")）- 2000年5月20日
   - J-POP Brand-new Special （[Music Bird](https://ja.wikipedia.org/wiki/Music_Bird "wikilink")）- 2000年5月21日
   - Brand New Disk （[FM富士](https://ja.wikipedia.org/wiki/FM富士 "wikilink")） - 2000年6月2日
@@ -402,7 +402,7 @@ S.E.S解散後、パダはミュージカル俳優とソロ歌手、ユジンは
 
 #### 韓国
 
-  - 1998年 [農心](https://ja.wikipedia.org/wiki/農心 "wikilink") 『[セウカン](https://ja.wikipedia.org/wiki/セウカン "wikilink")』
+  - 1998年 [農心](../Page/農心.md "wikilink") 『[セウカン](https://ja.wikipedia.org/wiki/セウカン "wikilink")』
   - 1998年 韓国広報CM
   - 2000年 ETUDE
   - 2000年 東亜大塚 『[ファイブミニ](https://ja.wikipedia.org/wiki/ファイブミニ "wikilink")』

@@ -11,7 +11,7 @@
 
 1.  **お誂え向きのDestiny**
       -
-        作詞・作曲：[川島だりあ](https://ja.wikipedia.org/wiki/川島だりあ "wikilink") 編曲：[池田大介](../Page/池田大介_\(編曲家\).md "wikilink")
+        作詞・作曲：[川島だりあ](../Page/川島だりあ.md "wikilink") 編曲：[池田大介](../Page/池田大介_\(編曲家\).md "wikilink")
 2.  **あした天気になぁれ**
       -
         作詞：KEY WEST CLUB 作曲・編曲：[寺尾広](../Page/寺尾広.md "wikilink")
@@ -26,7 +26,7 @@
 1.  **お誂え向きのDestiny**
 2.  **Dancing Island**
       -
-        作詞：[亜蘭知子](../Page/亜蘭知子.md "wikilink") 作曲：[宝仙明伽音](https://ja.wikipedia.org/wiki/宝仙明伽音 "wikilink") 編曲：[明石昌夫](https://ja.wikipedia.org/wiki/明石昌夫 "wikilink")
+        作詞：[亜蘭知子](../Page/亜蘭知子.md "wikilink") 作曲：[宝仙明伽音](https://ja.wikipedia.org/wiki/宝仙明伽音 "wikilink") 編曲：[明石昌夫](../Page/明石昌夫.md "wikilink")
 3.  **Mind's Holiday**
       -
         作詞：亜蘭知子 作曲：JIN 編曲：明石昌夫
@@ -35,7 +35,7 @@
         作詞：亜蘭知子 作曲：寺尾広 編曲：明石昌夫
 5.  **Simple Question**
       -
-        作詞：亜蘭知子 作曲：[野呂一生](https://ja.wikipedia.org/wiki/野呂一生 "wikilink") 編曲：明石昌夫
+        作詞：亜蘭知子 作曲：[野呂一生](../Page/野呂一生.md "wikilink") 編曲：明石昌夫
 6.  **Summer Vacation**
       -
         作詞・作曲：MILK 編曲：明石昌夫

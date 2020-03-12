@@ -1,13 +1,13 @@
 > この記事は[BS](https://ja.wikipedia.org/wiki/BS)から翻訳されています。
 
 
-『**BS世界のドキュメンタリー**』（ビーエスせかいのドキュメンタリー）は、[2004年](../Page/2004年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")に放送を開始した[NHK BS1の](https://ja.wikipedia.org/wiki/NHK_BS1 "wikilink")[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")番組である。世界各地で制作されたドキュメンタリーを放送する。
+『**BS世界のドキュメンタリー**』（ビーエスせかいのドキュメンタリー）は、[2004年](../Page/2004年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")に放送を開始した[NHK BS1の](../Page/NHK_BS1.md "wikilink")[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")番組である。世界各地で制作されたドキュメンタリーを放送する。
 
 日本の放送局とは異なる視点やカメラワークで作られた番組を[日本語](../Page/日本語.md "wikilink")で視聴できる貴重な機会を提供する番組である。放送される番組には。
 
 ## 概要
 
-世界各国の[公共放送](../Page/公共放送.md "wikilink")局・[民間放送](../Page/民間放送.md "wikilink")局・[映像制作会社などの制作](https://ja.wikipedia.org/wiki/番組制作会社 "wikilink")、もしくはこれらと[NHKの国際共同制作によるドキュメンタリー作品を](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、主に日本語[吹き替え](https://ja.wikipedia.org/wiki/吹き替え "wikilink")版を基本に、一部を[日本語字幕](../Page/日本語字幕.md "wikilink")でバージョニングしたものを放送する。主音声は日本語で、副音声は原語（多くは英語）で放送される。『**[BSドキュメンタリー](../Page/BSドキュメンタリー.md "wikilink")**』を統合した[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[11月](../Page/11月.md "wikilink")から[2011年](../Page/2011年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")まではNHK制作、およびNHKと日本国内の制作会社の共同制作によるドキュメンタリーも放送しており\[1\]、この場合は外国語副音声はなかった。
+世界各国の[公共放送](../Page/公共放送.md "wikilink")局・[民間放送](../Page/民間放送.md "wikilink")局・[映像制作会社などの制作](../Page/番組制作会社.md "wikilink")、もしくはこれらと[NHKの国際共同制作によるドキュメンタリー作品を](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、主に日本語[吹き替え](../Page/吹き替え.md "wikilink")版を基本に、一部を[日本語字幕](../Page/日本語字幕.md "wikilink")でバージョニングしたものを放送する。主音声は日本語で、副音声は原語（多くは英語）で放送される。『**[BSドキュメンタリー](../Page/BSドキュメンタリー.md "wikilink")**』を統合した[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[11月](../Page/11月.md "wikilink")から[2011年](../Page/2011年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")まではNHK制作、およびNHKと日本国内の制作会社の共同制作によるドキュメンタリーも放送しており\[1\]、この場合は外国語副音声はなかった。
 
 前身となる番組は[NHK衛星第1で](https://ja.wikipedia.org/wiki/NHK衛星第1テレビジョン "wikilink")2004年[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで放送された『**[BSプライムタイム](https://ja.wikipedia.org/wiki/BSプライムタイム "wikilink")**』で、日本国外で制作された作品の放送を『**BS世界のドキュメンタリー**』に、国内で制作された作品の放送を『**BSドキュメンタリー**』に分割する形となる。
 
@@ -20,7 +20,7 @@
       -
         放送時間は通常49分ないし50分だが、放送する作品の時間がまちまちなため放送枠を短縮する場合もあり、40分未満だった放送回もある。50分を超える作品は複数編に分けて放送する場合もあるが、ときには半分程度に編集・再構成して放送する場合もある。
     <!-- end list -->
-      - 2010年度までは上半期は21時台まで「[NHKプロ野球](../Page/NHKプロ野球.md "wikilink")」等スポーツ中継があるため火曜 - 金曜の0:00 - 0:50（前日24:00 - 24:50）、野球が無い下半期は[2009年](../Page/2009年.md "wikilink")度までは21:00 - 21:50だったが、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")度はスポーツ中継の枠確保や、「[きょうの世界](https://ja.wikipedia.org/wiki/きょうの世界 "wikilink")」の放送時間短縮（同[3月29日](../Page/3月29日.md "wikilink")以後）の観点から23:00 - 23:50に移った。
+      - 2010年度までは上半期は21時台まで「[NHKプロ野球](../Page/NHKプロ野球.md "wikilink")」等スポーツ中継があるため火曜 - 金曜の0:00 - 0:50（前日24:00 - 24:50）、野球が無い下半期は[2009年](../Page/2009年.md "wikilink")度までは21:00 - 21:50だったが、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")度はスポーツ中継の枠確保や、「[きょうの世界](../Page/きょうの世界.md "wikilink")」の放送時間短縮（同[3月29日](../Page/3月29日.md "wikilink")以後）の観点から23:00 - 23:50に移った。
       - 2011年度は23時台に「[地球テレビ エル・ムンド](https://ja.wikipedia.org/wiki/地球テレビ_エル・ムンド "wikilink")」が定時編成されることなどもあり、1年を通して24時からの放送となった。なお金曜深夜（土曜未明）は新設番組「[ドキュメンタリーWAVE](https://ja.wikipedia.org/wiki/ドキュメンタリーWAVE "wikilink")」の枠となった。
       - 2015年（平成27年）11月9日からは、「[ワールドスポーツMLB](https://ja.wikipedia.org/wiki/ワールドスポーツMLB "wikilink")」\[2\]が[アメリカ大リーグのオフシーズン期間に突入し](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")、月・火曜21:00 - 21:45に「ワールドスポーツSOCCER」として放送されることから、その空き枠となる23:00 - 23:50に時間枠を移して放送する\[3\]。
           - これ以後も、年度上半期（4月-11月初め）は従前の火-金曜の0時-0時50分（月-木曜24時-24時50分）、下半期（11月中旬-3月）は月-木曜の23時-23時50分の放送枠が定着している。
@@ -52,7 +52,7 @@
 
 ## 関連項目
 
-  - [NHKアーカイブス](https://ja.wikipedia.org/wiki/NHKアーカイブス "wikilink")
+  - [NHKアーカイブス](../Page/NHKアーカイブス.md "wikilink")
   - [NHKスペシャル](../Page/NHKスペシャル.md "wikilink")
   - [BSドキュメンタリー](../Page/BSドキュメンタリー.md "wikilink")
   - [ドキュメンタリーWAVE](https://ja.wikipedia.org/wiki/ドキュメンタリーWAVE "wikilink")
@@ -63,7 +63,7 @@
       -
         NHKと日本国外の制作者の国際共同制作によるドキュメンタリーを放送する番組。『BS世界のドキュメンタリー』と同一の日本語版を放送する場合があった。2011年6月に終了。
   - [テレビ局一覧](../Page/テレビ局一覧.md "wikilink")
-  - [映像系制作プロダクション一覧](https://ja.wikipedia.org/wiki/映像系制作プロダクション一覧 "wikilink")
+  - [映像系制作プロダクション一覧](../Page/映像系制作プロダクション一覧.md "wikilink")
 
 ## 外部リンク
 

@@ -5,11 +5,11 @@
 
 ## 内容
 
-11曲中8曲は[佐々木美和](https://ja.wikipedia.org/wiki/佐々木美和 "wikilink")の作詞による。「LIVE」は元[ZYYG](https://ja.wikipedia.org/wiki/ZYYG "wikilink")の[高山征輝](../Page/高山征輝.md "wikilink")による唯一の提供曲である。
+11曲中8曲は[佐々木美和](https://ja.wikipedia.org/wiki/佐々木美和 "wikilink")の作詞による。「LIVE」は元[ZYYG](../Page/ZYYG.md "wikilink")の[高山征輝](../Page/高山征輝.md "wikilink")による唯一の提供曲である。
 
 ## 批評
 
-『CDジャーナル』は「[サントス・アンナ](https://ja.wikipedia.org/wiki/サントス・アンナ "wikilink")のポジティブなパワフル歌唱を活かしながらラテン・コンセプトとアイドル・ポップスの融合に成功している」と評した\[1\]。
+『CDジャーナル』は「[サントス・アンナ](../Page/サントス・アンナ.md "wikilink")のポジティブなパワフル歌唱を活かしながらラテン・コンセプトとアイドル・ポップスの融合に成功している」と評した\[1\]。
 
 ## 収録曲
 
@@ -18,7 +18,7 @@
         作詞：佐々木美和　作曲・編曲：[小澤正澄](../Page/小澤正澄.md "wikilink")
 2.  だいじょうぶ\!\! my friend
       -
-        作詞：佐々木美和　作曲・ホーンアレンジ：[徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")　編曲：[DJ ME-YA](../Page/DJ_ME-YA.md "wikilink")
+        作詞：佐々木美和　作曲・ホーンアレンジ：[徳永暁人](../Page/徳永暁人.md "wikilink")　編曲：[DJ ME-YA](../Page/DJ_ME-YA.md "wikilink")
 3.  LIVE
       -
         作詞：[凛々](../Page/凛々.md "wikilink")　作曲：高山征輝　編曲：林良
@@ -33,7 +33,7 @@
         作詞：佐々木美和　作曲・編曲：小澤正澄
 7.  White
       -
-        作詞：佐々木美和　作曲：[輝門](https://ja.wikipedia.org/wiki/輝門 "wikilink")　編曲：大島こうすけ
+        作詞：佐々木美和　作曲：[輝門](../Page/輝門.md "wikilink")　編曲：大島こうすけ
 8.  世界の始まりのように
       -
         作詞：佐々木美和　作曲：大島こうすけ、編曲：DJ ME-YA
@@ -51,7 +51,7 @@
 
   - 小澤正澄 - ギター
   - [後藤康二](../Page/後藤康二.md "wikilink") - ギター
-  - [増崎孝司](https://ja.wikipedia.org/wiki/増崎孝司 "wikilink")（[DIMENSION](https://ja.wikipedia.org/wiki/DIMENSION "wikilink")） - ギター
+  - [増崎孝司](https://ja.wikipedia.org/wiki/増崎孝司 "wikilink")（[DIMENSION](../Page/DIMENSION.md "wikilink")） - ギター
   - 八木のぶお - ハーモニカ
   - 岩田見希 - コーラス
   - [宇徳敬子](https://ja.wikipedia.org/wiki/宇徳敬子 "wikilink") - コーラス

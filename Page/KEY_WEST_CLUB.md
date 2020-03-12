@@ -1,7 +1,7 @@
 > この記事は[KEY WEST CLUB](https://ja.wikipedia.org/wiki/KEY_WEST_CLUB)から翻訳されています。
 
 
-**KEY WEST CLUB**（キー・ウェスト・クラブ）は、「[桜っ子クラブ](../Page/桜っ子クラブ.md "wikilink")さくら組」の中谷美紀、東恵子による日本のアイドルデュオ。所属プロダクションは[スターダストプロモーション](https://ja.wikipedia.org/wiki/スターダストプロモーション "wikilink")、音楽制作は[ビーイング](../Page/ビーイング.md "wikilink")が担当。
+**KEY WEST CLUB**（キー・ウェスト・クラブ）は、「[桜っ子クラブ](../Page/桜っ子クラブ.md "wikilink")さくら組」の中谷美紀、東恵子による日本のアイドルデュオ。所属プロダクションは[スターダストプロモーション](../Page/スターダストプロモーション.md "wikilink")、音楽制作は[ビーイング](../Page/ビーイング.md "wikilink")が担当。
 
 ## メンバー
 
@@ -12,18 +12,18 @@
 
 ### シングル
 
-  - [お誂え向きのDestiny](https://ja.wikipedia.org/wiki/お誂え向きのDestiny "wikilink")(1991/11/21)
-  - [UNBELIEVABLE](https://ja.wikipedia.org/wiki/UNBELIEVABLE "wikilink")(1992/04/22)
+  - [お誂え向きのDestiny](../Page/お誂え向きのDestiny.md "wikilink")(1991/11/21)
+  - [UNBELIEVABLE](../Page/UNBELIEVABLE.md "wikilink")(1992/04/22)
   - [夢はマジョリカ・セニョリータ](https://ja.wikipedia.org/wiki/夢はマジョリカ・セニョリータ "wikilink")(1992/08/21)
 
 ### アルバム
 
-  - [お誂え向きのDestiny](https://ja.wikipedia.org/wiki/お誂え向きのDestiny "wikilink")(1991/12/18)
-  - [UNBELIEVABLE](https://ja.wikipedia.org/wiki/UNBELIEVABLE "wikilink")(1992/06/21)
+  - [お誂え向きのDestiny](../Page/お誂え向きのDestiny.md "wikilink")(1991/12/18)
+  - [UNBELIEVABLE](../Page/UNBELIEVABLE.md "wikilink")(1992/06/21)
 
 ### CM
 
-  - [キリンレモン](https://ja.wikipedia.org/wiki/キリンレモン "wikilink")セレクト([キリンビバレッジ](../Page/キリンビバレッジ.md "wikilink"))
+  - [キリンレモン](../Page/キリンレモン.md "wikilink")セレクト([キリンビバレッジ](../Page/キリンビバレッジ.md "wikilink"))
 
 ## 関連項目
 

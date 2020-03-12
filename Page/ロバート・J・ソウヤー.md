@@ -1,9 +1,9 @@
 > この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
 
 
-**ロバート・ジェームズ・ソウヤー**（Robert James Sawyer, [1960年](../Page/1960年.md "wikilink")[4月29日](../Page/4月29日.md "wikilink") - ）は、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の[SF作家](../Page/SF作家.md "wikilink")\[1\]。2012年時点までに22作の長編を出版しており\[2\]、*[アナログ](https://ja.wikipedia.org/wiki/アスタウンディング "wikilink")*、*[アメージング・ストーリーズ](https://ja.wikipedia.org/wiki/アメージング・ストーリーズ "wikilink")*、*[On Spec](https://ja.wikipedia.org/wiki/:en:On_Spec "wikilink")*、*[ネイチャー](https://ja.wikipedia.org/wiki/ネイチャー "wikilink")* といった雑誌や多くのアンソロジーにSF短編を発表している\[3\]\[4\]。小説についての賞を14回受賞しており\[5\]\[6\]、[ネビュラ賞](../Page/ネビュラ賞.md "wikilink") (1995)\[7\]、[ヒューゴー賞](../Page/ヒューゴー賞.md "wikilink") (2003)\[8\]、[ジョン・W・キャンベル記念賞](https://ja.wikipedia.org/wiki/ジョン・W・キャンベル記念賞 "wikilink") (2006)\[9\] も受賞している。
+**ロバート・ジェームズ・ソウヤー**（Robert James Sawyer, [1960年](../Page/1960年.md "wikilink")[4月29日](../Page/4月29日.md "wikilink") - ）は、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の[SF作家](../Page/SF作家.md "wikilink")\[1\]。2012年時点までに22作の長編を出版しており\[2\]、*[アナログ](../Page/アスタウンディング.md "wikilink")*、*[アメージング・ストーリーズ](../Page/アメージング・ストーリーズ.md "wikilink")*、*[On Spec](https://ja.wikipedia.org/wiki/:en:On_Spec "wikilink")*、*[ネイチャー](https://ja.wikipedia.org/wiki/ネイチャー "wikilink")* といった雑誌や多くのアンソロジーにSF短編を発表している\[3\]\[4\]。小説についての賞を14回受賞しており\[5\]\[6\]、[ネビュラ賞](../Page/ネビュラ賞.md "wikilink") (1995)\[7\]、[ヒューゴー賞](../Page/ヒューゴー賞.md "wikilink") (2003)\[8\]、[ジョン・W・キャンベル記念賞](../Page/ジョン・W・キャンベル記念賞.md "wikilink") (2006)\[9\] も受賞している。
 
-[オタワ](../Page/オタワ.md "wikilink")生まれの[トロント](../Page/トロント.md "wikilink")育ち\[10\]。[トロント](../Page/トロント.md "wikilink")の[ライアソン大学](https://ja.wikipedia.org/wiki/ライアソン大学 "wikilink")でラジオとテレビの芸術 (Radio and Television Arts、RTA) を学び、1982年に卒業\[11\]。現在は[オンタリオ州](../Page/オンタリオ州.md "wikilink")[ミシサガに在住](https://ja.wikipedia.org/wiki/ミシサガ_\(オンタリオ州\) "wikilink")。
+[オタワ](../Page/オタワ.md "wikilink")生まれの[トロント](../Page/トロント.md "wikilink")育ち\[10\]。[トロント](../Page/トロント.md "wikilink")の[ライアソン大学](https://ja.wikipedia.org/wiki/ライアソン大学 "wikilink")でラジオとテレビの芸術 (Radio and Television Arts、RTA) を学び、1982年に卒業\[11\]。現在は[オンタリオ州](../Page/オンタリオ州.md "wikilink")[ミシサガに在住](../Page/ミシサガ_\(オンタリオ州\).md "wikilink")。
 
 2000年に[コンタクト・ジャパン](https://ja.wikipedia.org/wiki/コンタクト・ジャパン "wikilink")のイベントで来日した。
 
@@ -37,13 +37,13 @@
 
 ## 編集と学術的な仕事
 
-作家として以外に、[Fitzhenry & Whiteside](https://ja.wikipedia.org/wiki/:en:Fitzhenry_&_Whiteside "wikilink") という出版社の一部である Red Deer Press の[インプリント](https://ja.wikipedia.org/wiki/インプリント "wikilink") [Robert J. Sawyer Books](http://www.robertjsawyerbooks.com) の編集を担当している\[23\]。また、*[The New York Review of Science Fiction](https://ja.wikipedia.org/wiki/:en:The_New_York_Review_of_Science_Fiction "wikilink")* 誌に寄稿し\[24\]、*The Canadian Encyclopedia* ではサイエンス・フィクションの専門家として協力している\[25\]。[L・ロン・ハバード](../Page/L・ロン・ハバード.md "wikilink")の開催したコンテスト [Writers of the Future](https://ja.wikipedia.org/wiki/:en:Writers_of_the_Future "wikilink") では審査員を務めた\[26\]。
+作家として以外に、[Fitzhenry & Whiteside](https://ja.wikipedia.org/wiki/:en:Fitzhenry_&_Whiteside "wikilink") という出版社の一部である Red Deer Press の[インプリント](../Page/インプリント.md "wikilink") [Robert J. Sawyer Books](http://www.robertjsawyerbooks.com) の編集を担当している\[23\]。また、*[The New York Review of Science Fiction](https://ja.wikipedia.org/wiki/:en:The_New_York_Review_of_Science_Fiction "wikilink")* 誌に寄稿し\[24\]、*The Canadian Encyclopedia* ではサイエンス・フィクションの専門家として協力している\[25\]。[L・ロン・ハバード](../Page/L・ロン・ハバード.md "wikilink")の開催したコンテスト [Writers of the Future](https://ja.wikipedia.org/wiki/:en:Writers_of_the_Future "wikilink") では審査員を務めた\[26\]。
 
 ## 映画とテレビ
 
-2009年には『[フラッシュフォワード](https://ja.wikipedia.org/wiki/フラッシュフォワード "wikilink")』がアメリカ[ABCでテレビドラマ化された](https://ja.wikipedia.org/wiki/アメリカン・ブロードキャスティング・カンパニー "wikilink")（ただしストーリーはまったく異なる）。パイロット版は、[デヴィッド・S・ゴイヤー](https://ja.wikipedia.org/wiki/デヴィッド・S・ゴイヤー "wikilink")と[ブラノン・ブラガ](https://ja.wikipedia.org/wiki/ブラノン・ブラガ "wikilink")が脚本を書き、ゴイヤーが監督を務め、[ジョセフ・ファインズ](https://ja.wikipedia.org/wiki/ジョセフ・ファインズ "wikilink")と[ソーニャ・ヴァルゲル](https://ja.wikipedia.org/wiki/ソーニャ・ヴァルゲル "wikilink")が出演した\[27\]。若干の調整を経て、第1シーズンは22話で構成されることになった\[28\]。ソウヤーはストーリー監修を務め\[29\]、第19話「軌道修正」では自ら脚本を書いた\[30\]。
+2009年には『[フラッシュフォワード](https://ja.wikipedia.org/wiki/フラッシュフォワード "wikilink")』がアメリカ[ABCでテレビドラマ化された](../Page/アメリカン・ブロードキャスティング・カンパニー.md "wikilink")（ただしストーリーはまったく異なる）。パイロット版は、[デヴィッド・S・ゴイヤー](https://ja.wikipedia.org/wiki/デヴィッド・S・ゴイヤー "wikilink")と[ブラノン・ブラガ](https://ja.wikipedia.org/wiki/ブラノン・ブラガ "wikilink")が脚本を書き、ゴイヤーが監督を務め、[ジョセフ・ファインズ](https://ja.wikipedia.org/wiki/ジョセフ・ファインズ "wikilink")と[ソーニャ・ヴァルゲル](https://ja.wikipedia.org/wiki/ソーニャ・ヴァルゲル "wikilink")が出演した\[27\]。若干の調整を経て、第1シーズンは22話で構成されることになった\[28\]。ソウヤーはストーリー監修を務め\[29\]、第19話「軌道修正」では自ら脚本を書いた\[30\]。
 
-2005年から2006年にかけて放送された『[チャーリー・ジェイド](https://ja.wikipedia.org/wiki/チャーリー・ジェイド "wikilink")』のシリーズ原案を書いている。2003年には『[ロボテック](https://ja.wikipedia.org/wiki/ロボテック "wikilink")』のコンセプト関連の仕事もしている。[CBCラジオのSFドキュメンタリーシリーズ](https://ja.wikipedia.org/wiki/カナダ放送協会 "wikilink") *Ideas* で脚本やナレーションを担当し、カナダの [Vision TV](https://ja.wikipedia.org/wiki/:en:Vision_TV "wikilink") のドキュメンタリーシリーズ *Supernatural Investigator*（2009年1月27日放送開始）でもホスト役を務めていた\[31\]。また、[CBCが制作したドキュメンタリー](https://ja.wikipedia.org/wiki/カナダ放送協会 "wikilink") *The Planet of the Doctor* ではイギリスのSFテレビ番組『[ドクター・フー](https://ja.wikipedia.org/wiki/ドクター・フー "wikilink")』をソウヤーが分析している\[32\]。[TVOntarioの](https://ja.wikipedia.org/wiki/:en:TVOntario "wikilink") *[Saturday Night at the Movies](https://ja.wikipedia.org/wiki/:en:Saturday_Night_at_the_Movies "wikilink")* にもよく出演し、[SF映画](../Page/SF映画.md "wikilink")にコメントしている。
+2005年から2006年にかけて放送された『[チャーリー・ジェイド](https://ja.wikipedia.org/wiki/チャーリー・ジェイド "wikilink")』のシリーズ原案を書いている。2003年には『[ロボテック](https://ja.wikipedia.org/wiki/ロボテック "wikilink")』のコンセプト関連の仕事もしている。[CBCラジオのSFドキュメンタリーシリーズ](../Page/カナダ放送協会.md "wikilink") *Ideas* で脚本やナレーションを担当し、カナダの [Vision TV](https://ja.wikipedia.org/wiki/:en:Vision_TV "wikilink") のドキュメンタリーシリーズ *Supernatural Investigator*（2009年1月27日放送開始）でもホスト役を務めていた\[31\]。また、[CBCが制作したドキュメンタリー](../Page/カナダ放送協会.md "wikilink") *The Planet of the Doctor* ではイギリスのSFテレビ番組『[ドクター・フー](https://ja.wikipedia.org/wiki/ドクター・フー "wikilink")』をソウヤーが分析している\[32\]。[TVOntarioの](https://ja.wikipedia.org/wiki/:en:TVOntario "wikilink") *[Saturday Night at the Movies](https://ja.wikipedia.org/wiki/:en:Saturday_Night_at_the_Movies "wikilink")* にもよく出演し、[SF映画](../Page/SF映画.md "wikilink")にコメントしている。
 
 ## 教育と講演
 
@@ -59,7 +59,7 @@
 
 ### 国際的評価
 
-ソウヤー作品はニューヨークの出版社から出版されており、13か国語に翻訳されている（ブルガリア語、中国語、チェコ語、オランダ語、フランス語、ドイツ語、イタリア語、日本語、韓国語、ポーランド語、ロシア語、セルビア語、スペイン語）\[39\]。国際的な賞も受賞しており、[ヒューゴー賞](../Page/ヒューゴー賞.md "wikilink")（[ワールドコン](../Page/ワールドコン.md "wikilink")参加者の投票）、[ネビュラ賞](../Page/ネビュラ賞.md "wikilink")（[アメリカSFファンタジー作家協会](https://ja.wikipedia.org/wiki/アメリカSFファンタジー作家協会 "wikilink")の会員による選考）、[ジョン・W・キャンベル記念賞](https://ja.wikipedia.org/wiki/ジョン・W・キャンベル記念賞 "wikilink")なども受賞している\[40\]。
+ソウヤー作品はニューヨークの出版社から出版されており、13か国語に翻訳されている（ブルガリア語、中国語、チェコ語、オランダ語、フランス語、ドイツ語、イタリア語、日本語、韓国語、ポーランド語、ロシア語、セルビア語、スペイン語）\[39\]。国際的な賞も受賞しており、[ヒューゴー賞](../Page/ヒューゴー賞.md "wikilink")（[ワールドコン](../Page/ワールドコン.md "wikilink")参加者の投票）、[ネビュラ賞](../Page/ネビュラ賞.md "wikilink")（[アメリカSFファンタジー作家協会](https://ja.wikipedia.org/wiki/アメリカSFファンタジー作家協会 "wikilink")の会員による選考）、[ジョン・W・キャンベル記念賞](../Page/ジョン・W・キャンベル記念賞.md "wikilink")なども受賞している\[40\]。
 
 ### 文壇
 
@@ -79,7 +79,7 @@
       - 『ゴールデン・フリース』、『ターミナル・エクスペリメント』、『スタープレックス』、『フラッシュフォワード』、*Relativity*、"Biding Time"、*Wake*、*Watch*
   - [アーサー・エリス賞](../Page/アーサー・エリス賞.md "wikilink")
       - 「爬虫類のごとく…」
-  - [ジョン・W・キャンベル記念賞](https://ja.wikipedia.org/wiki/ジョン・W・キャンベル記念賞 "wikilink")
+  - [ジョン・W・キャンベル記念賞](../Page/ジョン・W・キャンベル記念賞.md "wikilink")
       - *Mindscan*\[44\]
 
 ## 作品
@@ -103,7 +103,7 @@
       - 『ヒューマン ―人類―』*Humans*（[2003年](../Page/2003年.md "wikilink")）
       - 『ハイブリッド ―新種―』*Hybrids*（2003年）
   - *Relativity*（[2004年](../Page/2004年.md "wikilink")）
-  - *Mindscan*（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")）
+  - *Mindscan*（[2005年](../Page/2005年.md "wikilink")）
   - *Rollback* （2007年）
   - *Identity Theft and Other Stories* - 短編集（2008年）
   - WWW三部作

@@ -5,9 +5,9 @@
 
 ## 解説
 
-前作『[LOVEppears](https://ja.wikipedia.org/wiki/LOVEppears "wikilink")』以来、約10か月ぶりのオリジナル・アルバム。17thシングル「[SURREAL](https://ja.wikipedia.org/wiki/SURREAL "wikilink")」と同時発売。全身豹柄のジャケットが大きく話題になった。
+前作『[LOVEppears](../Page/LOVEppears.md "wikilink")』以来、約10か月ぶりのオリジナル・アルバム。17thシングル「[SURREAL](../Page/SURREAL.md "wikilink")」と同時発売。全身豹柄のジャケットが大きく話題になった。
 
-シングル「[SURREAL](https://ja.wikipedia.org/wiki/SURREAL "wikilink")」およびDVD「[ayumi hamasaki concert tour 2000 A 第1幕](https://ja.wikipedia.org/wiki/ayumi_hamasaki_concert_tour_2000_A_第1幕 "wikilink")」と同時発売され、オリコンでは3部門とも初登場同時1位となる、史上初の3冠達成となった。
+シングル「[SURREAL](../Page/SURREAL.md "wikilink")」およびDVD「[ayumi hamasaki concert tour 2000 A 第1幕](https://ja.wikipedia.org/wiki/ayumi_hamasaki_concert_tour_2000_A_第1幕 "wikilink")」と同時発売され、オリコンでは3部門とも初登場同時1位となる、史上初の3冠達成となった。
 
 発売前から予約だけで300万枚突破と報道されていたが、実際は初週で168.3万枚を売り上げ、累計枚数は約290万枚となり、2000年度年間ランキング2位を記録。オリジナルアルバムとしては自身最大のヒット作となっている。本作は日本の歴代CDアルバム売上ランキング（オリジナル・ベスト）において23位を記録している。
 
@@ -28,10 +28,10 @@
 2.  **Duty**
       -
         作曲：原田憲/編曲：[鈴木直人](https://ja.wikipedia.org/wiki/鈴木直人_\(音楽プロデューサー\) "wikilink")、原田憲
-        [たかの友梨](https://ja.wikipedia.org/wiki/たかの友梨 "wikilink")ビューティクリニック[CM曲](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
+        [たかの友梨](../Page/たかの友梨.md "wikilink")ビューティクリニック[CM曲](../Page/コマーシャルソング.md "wikilink")
 3.  **[vogue](https://ja.wikipedia.org/wiki/vogue_\(浜崎あゆみの曲\) "wikilink")**
       -
-        作曲：[菊池一仁](https://ja.wikipedia.org/wiki/菊池一仁 "wikilink")/編曲：鈴木直人、菊池一仁
+        作曲：[菊池一仁](../Page/菊池一仁.md "wikilink")/編曲：鈴木直人、菊池一仁
         14thシングル
         [コーセー](../Page/コーセー.md "wikilink")「VISEE（ヴィセ）」CMソング
 4.  **End of the World**
@@ -41,17 +41,17 @@
 5.  **SCAR**
       -
         作曲：[多胡邦夫](../Page/多胡邦夫.md "wikilink")/編曲：鈴木直人
-6.  **[Far away](https://ja.wikipedia.org/wiki/Far_away_\(浜崎あゆみの曲\) "wikilink")**
+6.  **[Far away](../Page/Far_away_\(浜崎あゆみの曲\).md "wikilink")**
       -
-        作曲：[D・A・I](https://ja.wikipedia.org/wiki/長尾大 "wikilink")、菊池一仁/編曲：[HΛL](https://ja.wikipedia.org/wiki/HΛL "wikilink")
+        作曲：[D・A・I](../Page/長尾大.md "wikilink")、菊池一仁/編曲：[HΛL](../Page/HΛL.md "wikilink")
         15thシングル
         [ツーカー](../Page/ツーカー.md "wikilink")セルラー東京・東海CMソング
-7.  **[SURREAL](https://ja.wikipedia.org/wiki/SURREAL "wikilink")**
+7.  **[SURREAL](../Page/SURREAL.md "wikilink")**
       -
         作曲：菊池一仁/編曲：HΛL
         17thシングル
         フジビューティ（たかの友梨ビューティクリニック）「恋する白肌」CMソング（実際のCMで流れた曲は「Duty」）
-8.  **[AUDIENCE](https://ja.wikipedia.org/wiki/AUDIENCE "wikilink")**
+8.  **[AUDIENCE](../Page/AUDIENCE.md "wikilink")**
       -
         作曲：D・A・I/編曲：HΛL
         18thシングルとしてシングルカット
@@ -60,7 +60,7 @@
       -
         作曲：D・A・I/編曲：鈴木直人
         16thシングル
-        [フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")（[月9](https://ja.wikipedia.org/wiki/月9 "wikilink")枠）『[天気予報の恋人](../Page/天気予報の恋人.md "wikilink")』[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")
+        [フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")（[月9](../Page/月9.md "wikilink")枠）『[天気予報の恋人](../Page/天気予報の恋人.md "wikilink")』[主題歌](../Page/主題歌.md "wikilink")
 10. **teddy bear**
       -
         作曲：D・A・I/編曲：小林信吾

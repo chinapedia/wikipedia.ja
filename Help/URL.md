@@ -9,7 +9,7 @@
 
 ウィキペディア日本語版の [URIは](../Page/Uniform_Resource_Identifier.md "wikilink") <https://ja.wikipedia.org/> です。
 
-各記事のURIは、このアドレスの後に、`wiki/ページ名` を続けます。半角空白は、[アンダースコア](https://ja.wikipedia.org/wiki/アンダースコア "wikilink") `_` に置換されたものとなります。
+各記事のURIは、このアドレスの後に、`wiki/ページ名` を続けます。半角空白は、[アンダースコア](../Page/アンダースコア.md "wikilink") `_` に置換されたものとなります。
 
 | 記事名                                                               | 通常のURI                                     | 引数形式のURI                                                |
 | ----------------------------------------------------------------- | ------------------------------------------ | ------------------------------------------------------- |
@@ -20,7 +20,7 @@
 
 ### パーセントエンコーディング
 
-なお、[ブラウザ](https://ja.wikipedia.org/wiki/ブラウザ "wikilink")の[アドレスバー](https://ja.wikipedia.org/wiki/アドレスバー "wikilink")では日本語を直接指定するとうまく動作しない場合があります。その場合は、[UTF-8](../Page/UTF-8.md "wikilink")の[パーセントエンコーディング](https://ja.wikipedia.org/wiki/パーセントエンコーディング "wikilink")に変換します。
+なお、[ブラウザ](https://ja.wikipedia.org/wiki/ブラウザ "wikilink")の[アドレスバー](https://ja.wikipedia.org/wiki/アドレスバー "wikilink")では日本語を直接指定するとうまく動作しない場合があります。その場合は、[UTF-8](../Page/UTF-8.md "wikilink")の[パーセントエンコーディング](../Page/パーセントエンコーディング.md "wikilink")に変換します。
 
   - ワインでは、`%E3%83%AF%E3%82%A4%E3%83%B3` となります。URIは以下です。
   - <https://ja.wikipedia.org/wiki/%E3%83%AF%E3%82%A4%E3%83%B3>

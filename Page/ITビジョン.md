@@ -1,19 +1,19 @@
 > この記事は[IT](https://ja.wikipedia.org/wiki/IT)から翻訳されています。
 
 
-**ITビジョン**（アイティービジョン, IT Vision）は、[1996年](../Page/1996年.md "wikilink")から[2003年](../Page/2003年.md "wikilink")\[1\]にかけて日本国内で実施された[アナログテレビ向け](../Page/NTSC.md "wikilink")[データ放送](../Page/データ放送.md "wikilink")の規格および愛称である。この名はInter Text（インターテキスト）の頭文字から取られた。[東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")を中心とした団体により規格化され、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列の一部と[WOWOW](../Page/WOWOW.md "wikilink")で放送が行われた。
+**ITビジョン**（アイティービジョン, IT Vision）は、[1996年](../Page/1996年.md "wikilink")から[2003年](../Page/2003年.md "wikilink")\[1\]にかけて日本国内で実施された[アナログテレビ向け](../Page/NTSC.md "wikilink")[データ放送](../Page/データ放送.md "wikilink")の規格および愛称である。この名はInter Text（インターテキスト）の頭文字から取られた。[東芝](../Page/東芝.md "wikilink")を中心とした団体により規格化され、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列の一部と[WOWOW](../Page/WOWOW.md "wikilink")で放送が行われた。
 
 ## 解説
 
 テレビ東京では1996年10月から放送を開始し、系列局の[テレビ大阪](../Page/テレビ大阪.md "wikilink")では1997年6月から、[テレビ愛知](../Page/テレビ愛知.md "wikilink")では1997年12月から、[TVQ九州放送](../Page/TVQ九州放送.md "wikilink")では1999年4月から順次放送を開始した。ただし[テレビ北海道](../Page/テレビ北海道.md "wikilink")、[テレビせとうち](../Page/テレビせとうち.md "wikilink")では実施されなかった。このほか[WOWOW](../Page/WOWOW.md "wikilink")でも1998年4月から放送が開始された。
 
-ITビジョンは既存のテレビ放送と通信網の利用、[リモコン](https://ja.wikipedia.org/wiki/リモコン "wikilink")による容易な操作を両立させた双方向テレビの実現を目的に開発された。アメリカ合衆国のウィンク・コミュニケーションズ社による開発技術の流用、表示対象機器は一般の[テレビ受像機](../Page/テレビ受像機.md "wikilink")とすること、テレビ番組との連動・補完を主目的としたデータ番組の送信および[電話回線](https://ja.wikipedia.org/wiki/電話回線 "wikilink")を用いた双方向通信への対応を特徴とした\[2\]。ITビジョン向けデータ放送は[垂直帰線区間](https://ja.wikipedia.org/wiki/垂直帰線区間 "wikilink")の10番目から13番目 (10H-13H) へ重畳され、テレビ放送とともに送信された。データ番組制作や受信データの運営管理には東芝の関連会社メディアサーブが関わった。
+ITビジョンは既存のテレビ放送と通信網の利用、[リモコン](../Page/リモコン.md "wikilink")による容易な操作を両立させた双方向テレビの実現を目的に開発された。アメリカ合衆国のウィンク・コミュニケーションズ社による開発技術の流用、表示対象機器は一般の[テレビ受像機](../Page/テレビ受像機.md "wikilink")とすること、テレビ番組との連動・補完を主目的としたデータ番組の送信および[電話回線](../Page/電話回線.md "wikilink")を用いた双方向通信への対応を特徴とした\[2\]。ITビジョン向けデータ放送は[垂直帰線区間](https://ja.wikipedia.org/wiki/垂直帰線区間 "wikilink")の10番目から13番目 (10H-13H) へ重畳され、テレビ放送とともに送信された。データ番組制作や受信データの運営管理には東芝の関連会社メディアサーブが関わった。
 
 東芝は単体のITビジョンチューナーを発売するとともに、ほぼ全ての多機能型ワイドテレビ、ハイビジョンテレビへITビジョンチューナーを組み込み、2000年まで新モデルの開発・販売を継続した。東芝以外には[松下電器産業](https://ja.wikipedia.org/wiki/パナソニック "wikilink")、[ソニー](../Page/ソニー.md "wikilink")、[日本ビクター](../Page/日本ビクター.md "wikilink")も対応受信機を発売した。この中には東芝の[OEM](../Page/OEM.md "wikilink")供給品も含まれた。
 
 アナログテレビを対象としたデータ多重放送としては日本国内で最初にサービスを開始し、番組連動データ放送のほか、テレビ番組とは連動しない独立データ放送や、放送波を用いずに電話回線のみで情報を送受信するオンラインサービスも実施した。この他[テレビジョン文字多重放送](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")、[ファクシミリ](https://ja.wikipedia.org/wiki/ファクシミリ "wikilink")、[携帯電話](../Page/携帯電話.md "wikilink")と連動したサービスの提供や、受信機を地方自治体の情報端末として利用する実験も行われた\[3\]。
 
-しかし受信機や放送局が限られたため普及はせず、[ISDB](../Page/ISDB.md "wikilink")方式による[デジタルテレビ放送](https://ja.wikipedia.org/wiki/デジタルテレビ放送 "wikilink")の開始により同等のサービスが提供されたこと、さらに[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")の普及に伴い役割を終え、WOWOWでは[BSデジタル放送開始の](https://ja.wikipedia.org/wiki/日本における衛星放送#BSデジタル "wikilink")[2000年](../Page/2000年.md "wikilink")に放送を終了した。テレビ東京でも[地上デジタルテレビ放送の開始に合わせ独立データ放送を](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")[2003年](../Page/2003年.md "wikilink")10月に、連動データ放送も2003年12月に終了した。
+しかし受信機や放送局が限られたため普及はせず、[ISDB](../Page/ISDB.md "wikilink")方式による[デジタルテレビ放送](../Page/デジタルテレビ放送.md "wikilink")の開始により同等のサービスが提供されたこと、さらに[インターネット](../Page/インターネット.md "wikilink")の普及に伴い役割を終え、WOWOWでは[BSデジタル放送開始の](https://ja.wikipedia.org/wiki/日本における衛星放送#BSデジタル "wikilink")[2000年](../Page/2000年.md "wikilink")に放送を終了した。テレビ東京でも[地上デジタルテレビ放送の開始に合わせ独立データ放送を](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")[2003年](../Page/2003年.md "wikilink")10月に、連動データ放送も2003年12月に終了した。
 
 ## 受信方法とチューナー
 
@@ -43,14 +43,14 @@ ITビジョンではテレビ番組との連動の有無、データの受信方
 
 ## 連動番組の例
 
-  - [いい旅・夢気分](https://ja.wikipedia.org/wiki/にっぽん!いい旅 "wikilink")・[ドライブ A GO\!GO\!](https://ja.wikipedia.org/wiki/ドラGO! "wikilink") - 観光地、施設などの紹介。
-  - [おはスタ](https://ja.wikipedia.org/wiki/おはスタ "wikilink") - 番組開始から終了までデータ放送を起動しながら視聴すると番組オリジナルグッズが当たる懸賞への応募権が得られた。
-  - [女と愛とミステリー](https://ja.wikipedia.org/wiki/女と愛とミステリー "wikilink") - あらすじや出演者の紹介。
+  - [いい旅・夢気分](../Page/にっぽん!いい旅.md "wikilink")・[ドライブ A GO\!GO\!](../Page/ドラGO!.md "wikilink") - 観光地、施設などの紹介。
+  - [おはスタ](../Page/おはスタ.md "wikilink") - 番組開始から終了までデータ放送を起動しながら視聴すると番組オリジナルグッズが当たる懸賞への応募権が得られた。
+  - [女と愛とミステリー](../Page/女と愛とミステリー.md "wikilink") - あらすじや出演者の紹介。
   - [開運\!なんでも鑑定団](../Page/開運!なんでも鑑定団.md "wikilink") - 番組の品物鑑定と連動したゲームへの参加と応募。
   - [神谷町LIVE](https://ja.wikipedia.org/wiki/神谷町LIVE "wikilink")
-  - [木曜洋画劇場](https://ja.wikipedia.org/wiki/木曜洋画劇場 "wikilink")・[午後のロードショー](https://ja.wikipedia.org/wiki/午後のロードショー "wikilink") - 放送中の映画の解説。評価の送付による懸賞への応募。
-  - [レディス4](https://ja.wikipedia.org/wiki/レディス4 "wikilink") - 通販コーナーで紹介される商品の購入申し込みなど。
-  - IT's アクセス - ITビジョンの宣伝・普及を目的とした東芝およびメディアサーブ提供の情報バラエティ番組。[テレゴング](https://ja.wikipedia.org/wiki/テレゴング "wikilink")とITビジョン端末による視聴者投票を実施し、ITビジョンのイメージCMも放送された。
+  - [木曜洋画劇場](../Page/木曜洋画劇場.md "wikilink")・[午後のロードショー](../Page/午後のロードショー.md "wikilink") - 放送中の映画の解説。評価の送付による懸賞への応募。
+  - [レディス4](../Page/レディス4.md "wikilink") - 通販コーナーで紹介される商品の購入申し込みなど。
+  - IT's アクセス - ITビジョンの宣伝・普及を目的とした東芝およびメディアサーブ提供の情報バラエティ番組。[テレゴング](../Page/テレゴング.md "wikilink")とITビジョン端末による視聴者投票を実施し、ITビジョンのイメージCMも放送された。
 
 ## 脚注
 

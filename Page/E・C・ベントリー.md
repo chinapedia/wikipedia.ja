@@ -7,7 +7,7 @@
 
 1875年[ロンドン](../Page/ロンドン.md "wikilink")に生まれ、セント・ポール学院に入学。そこで1歳年上の[ギルバート・ケイス・チェスタートン](https://ja.wikipedia.org/wiki/ギルバート・ケイス・チェスタートン "wikilink")に出会い、二人の交友は後にチェスタートンが『木曜の男』をベントリーに、ベントリーが『トレント最後の事件』をチェスタートンに捧げるなど終生に及んだ。その後[オックスフォード大学](../Page/オックスフォード大学.md "wikilink")のマートン・カレッジにて学び、[1896年](../Page/1896年.md "wikilink")にはオックスフォード・ユニオン ([Oxford Union](https://ja.wikipedia.org/wiki/:en:Oxford_Union "wikilink")) と呼ばれる学生討論会の会長を務める。
 
-[1902年](../Page/1902年.md "wikilink")から『[デイリー・ニューズ](https://ja.wikipedia.org/wiki/デイリー・ニューズ_\(イギリス\) "wikilink")』紙、次いで『[デイリー・テレグラフ](https://ja.wikipedia.org/wiki/デイリー・テレグラフ "wikilink")』紙の編集に関わりつつ、作品を発表していく。1905年最初の刊行作品となる詩集 *Biography for Beginners* が発表される。洗礼名である E・Clerihew 名義で発売されたこの作品は、同様のスタイルの四行詩を総称して「[クレリヒュー](https://ja.wikipedia.org/wiki/クレリヒュー "wikilink")」と呼ぶようになる等後世に影響を残し、その後二冊続編が刊行された。
+[1902年](../Page/1902年.md "wikilink")から『[デイリー・ニューズ](https://ja.wikipedia.org/wiki/デイリー・ニューズ_\(イギリス\) "wikilink")』紙、次いで『[デイリー・テレグラフ](../Page/デイリー・テレグラフ.md "wikilink")』紙の編集に関わりつつ、作品を発表していく。1905年最初の刊行作品となる詩集 *Biography for Beginners* が発表される。洗礼名である E・Clerihew 名義で発売されたこの作品は、同様のスタイルの四行詩を総称して「[クレリヒュー](https://ja.wikipedia.org/wiki/クレリヒュー "wikilink")」と呼ぶようになる等後世に影響を残し、その後二冊続編が刊行された。
 
 [1913年](../Page/1913年.md "wikilink")に、フィリップ・トレントを探偵役とした推理長編『トレント最後の事件』を発表。作品は従来の推理小説から一歩脱却した歴史的名作として知られ、後世においてはその後の推理小説黄金時代の先駆的作品と位置づけられている。
 
@@ -27,11 +27,11 @@
 
   - [トレント最後の事件](https://ja.wikipedia.org/wiki/トレント最後の事件 "wikilink") *Trent's Last Case* 1913年 - 推理小説に、[恋愛](../Page/恋愛.md "wikilink")要素を取り入れた嚆矢ともいわれる作品。
       -
-        [大久保康雄](https://ja.wikipedia.org/wiki/大久保康雄 "wikilink")訳、創元推理文庫
+        [大久保康雄](../Page/大久保康雄.md "wikilink")訳、創元推理文庫
   - トレント自身の事件 *Trent's Own Case* 1936年
   - トレント乗り出す *Trent Intervenes* 1938年 - 時系列で「トレント最後の事件」より後の事件も含まれている。
       -
-        好野理恵訳、[国書刊行会](https://ja.wikipedia.org/wiki/国書刊行会 "wikilink")、2000年
+        好野理恵訳、[国書刊行会](../Page/国書刊行会.md "wikilink")、2000年
     <!-- end list -->
       - ほんもののタバード
       - 絶妙のショット

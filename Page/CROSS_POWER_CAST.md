@@ -1,11 +1,11 @@
 > この記事は[CROSS POWER CAST](https://ja.wikipedia.org/wiki/CROSS_POWER_CAST)から翻訳されています。
 
 
-**CROSS POWER CAST**（クロス・パワー・キャスト）は、[CROSS FMで放送されていた](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。通称「**パワキャス**」。放送期間は[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月3日](../Page/4月3日.md "wikilink") - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月30日](../Page/9月30日.md "wikilink")。[天神](https://ja.wikipedia.org/wiki/天神_\(福岡市\) "wikilink")[岩田屋](../Page/岩田屋.md "wikilink")新館にある局の[サテライトスタジオ](https://ja.wikipedia.org/wiki/サテライトスタジオ "wikilink")「**天神きらめき通りスタジオ**」からの公開[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")。
+**CROSS POWER CAST**（クロス・パワー・キャスト）は、[CROSS FMで放送されていた](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。通称「**パワキャス**」。放送期間は[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink") - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月30日](../Page/9月30日.md "wikilink")。[天神](../Page/天神_\(福岡市\).md "wikilink")[岩田屋](../Page/岩田屋.md "wikilink")新館にある局の[サテライトスタジオ](../Page/サテライトスタジオ.md "wikilink")「**天神きらめき通りスタジオ**」からの公開[生放送](../Page/生放送.md "wikilink")。
 
 ## 概要
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")までこの時間に放送されていた「[CROSS Transfer 9/3](https://ja.wikipedia.org/wiki/CROSS_Transfer "wikilink")」「[AIR MAGAZINE](../Page/AIR_MAGAZINE.md "wikilink")」「[TENJIN APRES-MIDI](https://ja.wikipedia.org/wiki/TENJIN_APRES-MIDI "wikilink")」の3枠を統合し、さらに「[CROSS SUPER SUNDAY](../Page/CROSS_SUPER_SUNDAY.md "wikilink")」（スパサン）の日中パート（2006年春の放送時間縮小で消滅）のエッセンスを加える形でスタート。
+  - [2006年](../Page/2006年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")までこの時間に放送されていた「[CROSS Transfer 9/3](https://ja.wikipedia.org/wiki/CROSS_Transfer "wikilink")」「[AIR MAGAZINE](../Page/AIR_MAGAZINE.md "wikilink")」「[TENJIN APRES-MIDI](https://ja.wikipedia.org/wiki/TENJIN_APRES-MIDI "wikilink")」の3枠を統合し、さらに「[CROSS SUPER SUNDAY](../Page/CROSS_SUPER_SUNDAY.md "wikilink")」（スパサン）の日中パート（2006年春の放送時間縮小で消滅）のエッセンスを加える形でスタート。
   - [2007年](../Page/2007年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")、放送時間・ナビゲーター・コーナーなど、リニューアルを行った。
   - [NTT DoCoMo九州と協力し](../Page/エヌ・ティ・ティ・ドコモ九州.md "wikilink")、[FOMA](../Page/FOMA.md "wikilink")の動画配信サービス「[Vライブ](../Page/Vライブ.md "wikilink")」で生放送中のスタジオの様子を配信する試みも行っていた。
   - [2007年](../Page/2007年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで、放送開始の3分ほど前からスタジオ内の声を収録し、**「パワキャス・ダイアリー」**として[ポッドキャスティング](https://ja.wikipedia.org/wiki/ポッドキャスティング "wikilink")配信していた。
@@ -13,7 +13,7 @@
 ### スパサンとの関係
 
   - 2006年4月3日-2007年3月30日の放送では、以下の理由より、スパサンの兄弟番組の色が強かった。
-      - 前番組担当[ナビゲーターのうち](../Page/ディスクジョッキー.md "wikilink")、[八木徹](https://ja.wikipedia.org/wiki/八木徹 "wikilink")（2006年春からは[YAGI RADIO担当](https://ja.wikipedia.org/wiki/やぎラッチョー! "wikilink")）、[信川竜太](../Page/信川竜太.md "wikilink")（同じく[信川スポーツ](https://ja.wikipedia.org/wiki/信川スポーツ "wikilink")担当）、[植原史子](https://ja.wikipedia.org/wiki/植原史子 "wikilink")（Rapid Transfer担当）の3人は別枠に移った
+      - 前番組担当[ナビゲーターのうち](../Page/ディスクジョッキー.md "wikilink")、[八木徹](../Page/八木徹.md "wikilink")（2006年春からは[YAGI RADIO担当](../Page/やぎラッチョー!.md "wikilink")）、[信川竜太](../Page/信川竜太.md "wikilink")（同じく[信川スポーツ](https://ja.wikipedia.org/wiki/信川スポーツ "wikilink")担当）、[植原史子](https://ja.wikipedia.org/wiki/植原史子 "wikilink")（Rapid Transfer担当）の3人は別枠に移った
       - スパサンのナビゲーターである[モーリーと](../Page/モーリー_\(パーソナリティ\).md "wikilink")[ナオト](../Page/ナオト.md "wikilink")が参加していた
       - スパサン日中パートからスタイルを変えて引き継いだコーナーがあった
       - 番組内の[ジングルがよく似ていた](https://ja.wikipedia.org/wiki/ジングル_\(ラジオ\) "wikilink")
@@ -30,10 +30,10 @@
 
 ## ナビゲーター
 
-  - [栗田善太郎](https://ja.wikipedia.org/wiki/栗田善太郎 "wikilink")（月曜～木曜）
+  - [栗田善太郎](../Page/栗田善太郎.md "wikilink")（月曜～木曜）
       -
         2006年4月がCROSS FMでの初ナビゲーターであった。
-  - [立山律子](https://ja.wikipedia.org/wiki/立山律子 "wikilink")（月曜、水曜）
+  - [立山律子](../Page/立山律子.md "wikilink")（月曜、水曜）
       -
         「AIR MAGAZINE」より引き続き担当。
   - [ルーシー](../Page/ルーシー_\(DJ\).md "wikilink")（火曜、木曜）
@@ -66,7 +66,7 @@
         福岡で長年活躍する[クラブ](../Page/クラブ.md "wikilink")DJ。
         この番組の後、『[CINEMA CAFE](https://ja.wikipedia.org/wiki/CINEMA_CAFE "wikilink")』を担当。
   - ☆[しらいえこ](../Page/しらいえこ.md "wikilink")（火曜）
-  - [立山律子](https://ja.wikipedia.org/wiki/立山律子 "wikilink")（水曜、木曜）
+  - [立山律子](../Page/立山律子.md "wikilink")（水曜、木曜）
   - ☆栗田善太郎（水曜）
   - ☆[祐也](https://ja.wikipedia.org/wiki/祐也 "wikilink")（木曜）
       -
@@ -92,7 +92,7 @@
         サテライトスタジオであるためよくファンも集まっているが、大物になってくると周辺の警備の関係で登場までシークレットという形が取られる他、アーティストによっては事前録音にしたり、生出演でもスタジオのブラインドを閉めるなどして非公開にして行われることもある（同局の他の番組でも同様の措置がとられる）。
   - SNAP SHOT（13:50-）
       -
-        [タイ国政府観光庁が](../Page/タイ王国.md "wikilink")[スポンサー](https://ja.wikipedia.org/wiki/スポンサー "wikilink")。
+        [タイ国政府観光庁が](../Page/タイ王国.md "wikilink")[スポンサー](../Page/スポンサー.md "wikilink")。
         タイの話題や豆知識、また普段なかなかラジオでは聴けないタイのヒット曲などを送る。
         コーナー自体はこの枠で90年代後半から続く長寿企画。
   - パワコレ（14:10-）
@@ -109,7 +109,7 @@
         「13th」は局が開局13年であることにちなむ。
   - Heart to heart
       -
-        クロスクラブカードが[スポンサー](https://ja.wikipedia.org/wiki/スポンサー "wikilink")。
+        クロスクラブカードが[スポンサー](../Page/スポンサー.md "wikilink")。
         [心理テスト](https://ja.wikipedia.org/wiki/心理テスト "wikilink")を出題し、リスナーに電話をつなげてリスナーに回答してもらってリスナーとナビゲーターの深層心理を探るコーナー。
         前番組「[TENJIN APRES-MIDI](https://ja.wikipedia.org/wiki/TENJIN_APRES-MIDI "wikilink")」にもクロスクラブカードがスポンサーになっていたコーナー「**HAPPY STYLE A to Z**」があり、毎週金曜日は心理テストだった。
   - 明るい家族計画（月・水・金）
@@ -123,7 +123,7 @@
   - ミュージックランキング（金）
       -
         以前スパサンで放送されていたものと同じ内容。
-        過去の[オリコンシングルチャートを紹介](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")。
+        過去の[オリコンシングルチャートを紹介](../Page/オリコンチャート.md "wikilink")。
   - 昼下がりの奥さん いらっしゃ～い
       -
         パワキャスを聴きながらまったりと午後のひとときを過ごしている奥様と電話を繋ぎ、世間話や危ない話のサイコロトークで盛り上がる。
@@ -132,8 +132,8 @@
 
 ## 関連項目
 
-  - [PAO〜N](https://ja.wikipedia.org/wiki/PAO〜N "wikilink") - [KBCラジオ](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")のラジオ番組
+  - [PAO〜N](../Page/PAO〜N.md "wikilink") - [KBCラジオ](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")のラジオ番組
       -
-        [栗田善太郎](https://ja.wikipedia.org/wiki/栗田善太郎 "wikilink")は2004年4月から2008年9月まで、この番組の金曜に出演していた。
+        [栗田善太郎](../Page/栗田善太郎.md "wikilink")は2004年4月から2008年9月まで、この番組の金曜に出演していた。
 
 [Category:CROSS_FMの帯番組](https://ja.wikipedia.org/wiki/Category:CROSS_FMの帯番組 "wikilink") [Category:2006年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のラジオ番組_\(日本\) "wikilink")

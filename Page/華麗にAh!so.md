@@ -9,7 +9,7 @@
 
 司会は[研ナオコ](../Page/研ナオコ.md "wikilink")。[ホテル](../Page/ホテル.md "wikilink")を舞台とした設定で、前半はロビーでのトークと客室でのコント（[ダブルベッド](https://ja.wikipedia.org/wiki/ダブルベッド "wikilink")）、後半は音楽番組という構成だった。
 
-1991年の[吉沢秋絵](https://ja.wikipedia.org/wiki/吉沢秋絵 "wikilink")降板後は、アシスタントが月単位のマンスリー制となる。同時に大幅なリニューアルを行う。 1990年以降のオープニングは[ZOOの](https://ja.wikipedia.org/wiki/ZOO_\(ダンス&ボーカルユニット\) "wikilink")[PVが毎回流され](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、ZOOがゲスト出演することも多かった。
+1991年の[吉沢秋絵](../Page/吉沢秋絵.md "wikilink")降板後は、アシスタントが月単位のマンスリー制となる。同時に大幅なリニューアルを行う。 1990年以降のオープニングは[ZOOの](../Page/ZOO_\(ダンス&ボーカルユニット\).md "wikilink")[PVが毎回流され](../Page/ミュージック・ビデオ.md "wikilink")、ZOOがゲスト出演することも多かった。
 
 エンディングは研ナオコのPVが主に流れていたが、[ジョン・ロビンソンの](https://ja.wikipedia.org/wiki/ジョン・ロビンソン_\(DJ\) "wikilink")「TOKYO GO」が流れていた時期もあった（1994年頃）。
 
@@ -18,7 +18,7 @@
 ## 放送時間
 
   - 金曜日23:25 - 23:55。
-      - 『[ニュースステーション](../Page/ニュースステーション.md "wikilink")』の放送時間拡大（年末最後の放送）や『[大相撲ダイジェスト](../Page/大相撲ダイジェスト.md "wikilink")』、『[速報\!甲子園への道](https://ja.wikipedia.org/wiki/速報!甲子園への道 "wikilink")』、『[熱闘甲子園](https://ja.wikipedia.org/wiki/熱闘甲子園 "wikilink")』による放送時間変更も度々あった。
+      - 『[ニュースステーション](../Page/ニュースステーション.md "wikilink")』の放送時間拡大（年末最後の放送）や『[大相撲ダイジェスト](../Page/大相撲ダイジェスト.md "wikilink")』、『[速報\!甲子園への道](../Page/速報!甲子園への道.md "wikilink")』、『[熱闘甲子園](../Page/熱闘甲子園.md "wikilink")』による放送時間変更も度々あった。
       - 年末年始の放送は時間枠が拡大されていた（通常は30分の所が1時間になって放送されていた。23:25 - 0:25か23:55 - 0:55）。
 
 ## ネット局
@@ -32,36 +32,36 @@
 ### レギュラー
 
   - [研ナオコ](../Page/研ナオコ.md "wikilink")（司会）
-  - [吉沢秋絵](https://ja.wikipedia.org/wiki/吉沢秋絵 "wikilink")（アシスタント）（1988年4月 - 1991年3月） - 研とは同じ事務所だった。
+  - [吉沢秋絵](../Page/吉沢秋絵.md "wikilink")（アシスタント）（1988年4月 - 1991年3月） - 研とは同じ事務所だった。
 
-尚、メイン司会の研は1989年4月 - 9月まで出産準備のため番組を一時降板。その間は[由紀さおり](https://ja.wikipedia.org/wiki/由紀さおり "wikilink")、[中原理恵](https://ja.wikipedia.org/wiki/中原理恵 "wikilink")、[片岡鶴太郎](../Page/片岡鶴太郎.md "wikilink")らが代理司会を務めていた。
+尚、メイン司会の研は1989年4月 - 9月まで出産準備のため番組を一時降板。その間は[由紀さおり](../Page/由紀さおり.md "wikilink")、[中原理恵](../Page/中原理恵.md "wikilink")、[片岡鶴太郎](../Page/片岡鶴太郎.md "wikilink")らが代理司会を務めていた。
 
 ### 主なゲスト・マンスリーなど（順不同）
 
   - [とんねるず](../Page/とんねるず.md "wikilink")（1988年にゲストで出演。当時はあちこちのバラエティにゲスト出演していた。）
-  - [柳沢慎吾](https://ja.wikipedia.org/wiki/柳沢慎吾 "wikilink")
+  - [柳沢慎吾](../Page/柳沢慎吾.md "wikilink")
   - [松本伊代](../Page/松本伊代.md "wikilink")（研は彼女をこいつと客に紹介していた）
   - [美川憲一](../Page/美川憲一.md "wikilink")（若い人や一目ぼれについて真剣に話をしていた事がある）
   - [谷村新司](../Page/谷村新司.md "wikilink")（研に曲を提供している。番組ではさそり座の女を歌う）
   - [田原俊彦](../Page/田原俊彦.md "wikilink")
   - [志村けん](../Page/志村けん.md "wikilink")　　
   - [コロッケ](../Page/コロッケ_\(タレント\).md "wikilink")
-  - [清水アキラ](https://ja.wikipedia.org/wiki/清水アキラ "wikilink")
-  - [グッチ裕三](https://ja.wikipedia.org/wiki/グッチ裕三 "wikilink")（当時は冬樹と一緒に出ていた）
-  - [モト冬樹](https://ja.wikipedia.org/wiki/モト冬樹 "wikilink")（当時は裕三と一緒に出ていた）
+  - [清水アキラ](../Page/清水アキラ.md "wikilink")
+  - [グッチ裕三](../Page/グッチ裕三.md "wikilink")（当時は冬樹と一緒に出ていた）
+  - [モト冬樹](../Page/モト冬樹.md "wikilink")（当時は裕三と一緒に出ていた）
   - [チェッカーズ](../Page/チェッカーズ.md "wikilink")（解散する年に出演し、Blue Moon Stoneを歌う）
-  - [中尾ミエ](https://ja.wikipedia.org/wiki/中尾ミエ "wikilink")
+  - [中尾ミエ](../Page/中尾ミエ.md "wikilink")
   - [狩人](../Page/狩人.md "wikilink")（消えた芸能人とか懐かし芸能人での出演依頼を断っていたことを番組で述べる）
   - [間寛平](../Page/間寛平.md "wikilink")
   - [峰竜太](../Page/峰竜太.md "wikilink")
-  - [ピーター](https://ja.wikipedia.org/wiki/池畑慎之介 "wikilink")（テレビ朝日の旧社名が日本教育テレビだと語る）
-  - [ZOO](https://ja.wikipedia.org/wiki/ZOO_\(ダンス&ボーカルユニット\) "wikilink")（音楽グループの出演としては最多）
+  - [ピーター](../Page/池畑慎之介.md "wikilink")（テレビ朝日の旧社名が日本教育テレビだと語る）
+  - [ZOO](../Page/ZOO_\(ダンス&ボーカルユニット\).md "wikilink")（音楽グループの出演としては最多）
   - [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")（1991年に出演し、歌唱力にピーターが大笑いした）
   - [片岡鶴太郎](../Page/片岡鶴太郎.md "wikilink")
   - [デーモン小暮閣下](https://ja.wikipedia.org/wiki/デーモン小暮閣下 "wikilink")
-  - [BaBe](https://ja.wikipedia.org/wiki/BaBe "wikilink")（パジャマ姿のBaBeを所ジョージがインタビュー。歌はFull Moon Night）
-  - [諸星和己](https://ja.wikipedia.org/wiki/諸星和己 "wikilink")
-  - [光GENJI](https://ja.wikipedia.org/wiki/光GENJI "wikilink")（1993年にゲスト出演したが、[内海光司](https://ja.wikipedia.org/wiki/内海光司 "wikilink")が京都へ桜見物を兼ねた温泉旅行へ行き、京都のホテルへ一泊二日せざるを得ない状況になったため欠席、内海を除く6人での出演となった。）
+  - [BaBe](../Page/BaBe.md "wikilink")（パジャマ姿のBaBeを所ジョージがインタビュー。歌はFull Moon Night）
+  - [諸星和己](../Page/諸星和己.md "wikilink")
+  - [光GENJI](../Page/光GENJI.md "wikilink")（1993年にゲスト出演したが、[内海光司](../Page/内海光司.md "wikilink")が京都へ桜見物を兼ねた温泉旅行へ行き、京都のホテルへ一泊二日せざるを得ない状況になったため欠席、内海を除く6人での出演となった。）
   - [中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")（初回ゲスト）
 
 ## スタッフ
@@ -76,7 +76,7 @@
   - 照明：市川一弘（[共立](../Page/共立_\(照明\).md "wikilink")）、窪田秀樹（[サンライズアート](../Page/サンライズアート.md "wikilink")）
   - 音声：宮沢庸介（テレビ朝日）、藤田洋幸（[ブル](https://ja.wikipedia.org/wiki/ブル_\(テレビ技術会社\) "wikilink")）
   - 編集：正木俊行（[IMAGICA](https://ja.wikipedia.org/wiki/IMAGICA "wikilink")）
-  - 音響効果：古屋暢・西野有彦（以上[4-Legs](https://ja.wikipedia.org/wiki/4-Legs "wikilink")）
+  - 音響効果：古屋暢・西野有彦（以上[4-Legs](../Page/4-Legs.md "wikilink")）
   - MA：円城寺暁（IMAGICA）
   - TK：柳瀬美枝
   - 美術：佐藤由基男（テレビ朝日）
@@ -96,7 +96,7 @@
 ## 関連項目
 
   - [だぅもありがと\!](../Page/だぅもありがと!.md "wikilink")
-  - [金曜ナイトドラマ](https://ja.wikipedia.org/wiki/金曜ナイトドラマ "wikilink")
+  - [金曜ナイトドラマ](../Page/金曜ナイトドラマ.md "wikilink")
 
 [Category:1988年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1988年のテレビ番組_\(日本\) "wikilink") [Category:テレビ朝日の深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ朝日の深夜番組の歴史 "wikilink") [Category:テレビ朝日の音楽番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日の音楽番組 "wikilink") [Category:テレビ朝日のバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ朝日のバラエティ番組の歴史 "wikilink") [Category:研ナオコ](https://ja.wikipedia.org/wiki/Category:研ナオコ "wikilink")
 

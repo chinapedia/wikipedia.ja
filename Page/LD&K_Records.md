@@ -1,11 +1,11 @@
 > この記事は[LD\&K Records](https://ja.wikipedia.org/wiki/LD\&K_Records)から翻訳されています。
 
 
-**LD\&K Records**（エル・ディー・アンド・ケイ・レコード）は、日本の[インディーズ](../Page/インディーズ.md "wikilink")[レコード会社](https://ja.wikipedia.org/wiki/レコード会社 "wikilink")。[代表取締役](https://ja.wikipedia.org/wiki/代表取締役 "wikilink")は、[大谷秀政](https://ja.wikipedia.org/wiki/大谷秀政 "wikilink")（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")生まれ）。
+**LD\&K Records**（エル・ディー・アンド・ケイ・レコード）は、日本の[インディーズ](../Page/インディーズ.md "wikilink")[レコード会社](../Page/レコード会社.md "wikilink")。[代表取締役](../Page/代表取締役.md "wikilink")は、[大谷秀政](https://ja.wikipedia.org/wiki/大谷秀政 "wikilink")（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")生まれ）。
 
 [株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")エル・ディー・アンド・ケイは[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に[有限会社](../Page/有限会社.md "wikilink")として設立、[2004年](../Page/2004年.md "wikilink")より[日本レコード協会](../Page/日本レコード協会.md "wikilink")準[会員](https://ja.wikipedia.org/wiki/会員 "wikilink")。
 
-[渋谷](../Page/渋谷.md "wikilink")に[カフェ](https://ja.wikipedia.org/wiki/カフェ "wikilink")「宇田川カフェ」や「桜丘カフェ」[バー](../Page/バー_\(酒場\).md "wikilink")「宇田川ラヴァーズロック」を、[赤坂に](../Page/赤坂_\(東京都港区\).md "wikilink")[イタリアン](https://ja.wikipedia.org/wiki/イタリアン "wikilink")[レストラン](../Page/レストラン.md "wikilink")「オーセンティカ」を、[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")としてチェルシーホテル（渋谷）、 シャングリ・ラ（[梅田](../Page/梅田.md "wikilink")）、那覇セントラル（[沖縄](https://ja.wikipedia.org/wiki/沖縄 "wikilink")）を経営している。
+[渋谷](../Page/渋谷.md "wikilink")に[カフェ](../Page/カフェ.md "wikilink")「宇田川カフェ」や「桜丘カフェ」[バー](../Page/バー_\(酒場\).md "wikilink")「宇田川ラヴァーズロック」を、[赤坂に](../Page/赤坂_\(東京都港区\).md "wikilink")[イタリアン](https://ja.wikipedia.org/wiki/イタリアン "wikilink")[レストラン](../Page/レストラン.md "wikilink")「オーセンティカ」を、[ライブハウス](../Page/ライブハウス.md "wikilink")としてチェルシーホテル（渋谷）、 シャングリ・ラ（[梅田](../Page/梅田.md "wikilink")）、那覇セントラル（[沖縄](https://ja.wikipedia.org/wiki/沖縄 "wikilink")）を経営している。
 
 幅広いジャンルの音楽を扱い、これまでに200枚以上のリリースがある。
 
@@ -13,8 +13,8 @@
 
   - [宇田川別館バンド](https://ja.wikipedia.org/wiki/宇田川別館バンド "wikilink") (2017年〜)
   - [打首獄門同好会](https://ja.wikipedia.org/wiki/打首獄門同好会 "wikilink") (2010年〜)
-  - [ガガガSP](https://ja.wikipedia.org/wiki/ガガガSP "wikilink") (2000年〜2001年,2007年〜)2002年から2006年まで[ソニー・ミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")に所属。
-  - [かりゆし58](https://ja.wikipedia.org/wiki/かりゆし58 "wikilink") (2006年〜)
+  - [ガガガSP](../Page/ガガガSP.md "wikilink") (2000年〜2001年,2007年〜)2002年から2006年まで[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")に所属。
+  - [かりゆし58](../Page/かりゆし58.md "wikilink") (2006年〜)
   - [グミ](https://ja.wikipedia.org/wiki/グミ_\(バンド\) "wikilink") (2017年〜)
   - [日食なつこ](https://ja.wikipedia.org/wiki/日食なつこ "wikilink") (2012年〜)
   - [ドラマチックアラスカ](https://ja.wikipedia.org/wiki/ドラマチックアラスカ "wikilink") (2013年〜)
@@ -46,7 +46,7 @@
   - [CooDoo's](https://ja.wikipedia.org/wiki/CooDoo's "wikilink") (2002年〜2005年)
   - [Counter Reset](https://ja.wikipedia.org/wiki/Counter_Reset "wikilink") (2010年)
   - [Cybophonia](https://ja.wikipedia.org/wiki/Cybophonia "wikilink") (2003年)
-  - [Cymbals](https://ja.wikipedia.org/wiki/Cymbals "wikilink") (1997年〜1998年)
+  - [Cymbals](../Page/Cymbals.md "wikilink") (1997年〜1998年)
       - [土岐麻子](https://ja.wikipedia.org/wiki/土岐麻子 "wikilink") (2004年〜2006年,2009年,2012年)
   - [Daffy Strike](https://ja.wikipedia.org/wiki/Daffy_Strike "wikilink") (2006年〜2008年)
   - [DATSUN320](https://ja.wikipedia.org/wiki/DATSUN320 "wikilink") (2009年〜2011年)
@@ -54,9 +54,9 @@
   - [DRINKPED](https://ja.wikipedia.org/wiki/DRINKPED "wikilink") (2010年)
   - [Electric Heavy Land](https://ja.wikipedia.org/wiki/Electric_Heavy_Land "wikilink") (1997年)
   - [else'](https://ja.wikipedia.org/wiki/else' "wikilink") (1997年〜2001年)
-  - [esrevnoc](https://ja.wikipedia.org/wiki/esrevnoc "wikilink") (2001年)[エピックレコードジャパン](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")より移籍。同年活動休止。
+  - [esrevnoc](https://ja.wikipedia.org/wiki/esrevnoc "wikilink") (2001年)[エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink")より移籍。同年活動休止。
   - [Fee](https://ja.wikipedia.org/wiki/Fee "wikilink") (2008年〜2010年)
-  - [flex life](https://ja.wikipedia.org/wiki/flex_life "wikilink") (2000年〜2001年)2002年[zetimaよりメジャーデビュー](https://ja.wikipedia.org/wiki/アップフロントワークス "wikilink")(-2004年)。
+  - [flex life](https://ja.wikipedia.org/wiki/flex_life "wikilink") (2000年〜2001年)2002年[zetimaよりメジャーデビュー](../Page/アップフロントワークス.md "wikilink")(-2004年)。
   - [GIANT CHOP](https://ja.wikipedia.org/wiki/GIANT_CHOP "wikilink") (1999年〜2000年)
   - [GOLLBETTY](../Page/GOLLBETTY.md "wikilink") (2006年〜2007年)2008年[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")よりメジャーデビュー。2010年会三
   - [GHOST COMPANY](https://ja.wikipedia.org/wiki/GHOST_COMPANY "wikilink") (2011年〜2014年)
@@ -66,12 +66,12 @@
   - [Hystoic Vein](https://ja.wikipedia.org/wiki/Hystoic_Vein "wikilink") (2011年)
   - [JACKAL SUS4](https://ja.wikipedia.org/wiki/JACKAL_SUS4 "wikilink") (2007年〜2008年)
   - [JAWEYE](https://ja.wikipedia.org/wiki/JAWEYE "wikilink") (2011年〜2014年)2015年Active-Standby Recordsに移籍。
-  - [Keito Blow](../Page/Keito_Blow.md "wikilink") (2002年,2004年〜2008年)2002年から2003年まで[ソニー・ミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")に所属。
+  - [Keito Blow](../Page/Keito_Blow.md "wikilink") (2002年,2004年〜2008年)2002年から2003年まで[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")に所属。
   - [KENSHU](https://ja.wikipedia.org/wiki/KENSHU "wikilink") (2008年)
-  - [KING BROTHERS](../Page/KING_BROTHERS.md "wikilink") (1999年)2001年[東芝EMIよりメジャーデビュー](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")。
+  - [KING BROTHERS](../Page/KING_BROTHERS.md "wikilink") (1999年)2001年[東芝EMIよりメジャーデビュー](../Page/EMIミュージック・ジャパン.md "wikilink")。
   - [hitori＃9](https://ja.wikipedia.org/wiki/hitori＃9 "wikilink") (2009年)
   - [knotlamp](https://ja.wikipedia.org/wiki/knotlamp "wikilink") (2007年〜2011年)2012年[Imperial Recordsよりメジャーデビュー](../Page/インペリアルレコード_\(日本\).md "wikilink")。2013年活動休止
-  - [LOOSELY](../Page/LOOSELY.md "wikilink") (2002年)2003年[エピックレコードジャパン](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")よりメジャーデビュー
+  - [LOOSELY](../Page/LOOSELY.md "wikilink") (2002年)2003年[エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink")よりメジャーデビュー
   - [LOVERS ROCREW](https://ja.wikipedia.org/wiki/LOVERS_ROCREW "wikilink") (2009年)
   - [Lucy In The Sky](https://ja.wikipedia.org/wiki/Lucy_In_The_Sky "wikilink") (2008年)
   - [Matthew Pitts](https://ja.wikipedia.org/wiki/Matthew_Pitts "wikilink") (2007年)
@@ -113,7 +113,7 @@
   - [Twinklestars](https://ja.wikipedia.org/wiki/Twinklestars "wikilink") (2011年)
   - [Uri Geller](https://ja.wikipedia.org/wiki/Uri_Geller "wikilink") (2005年)
   - [vice versa](https://ja.wikipedia.org/wiki/vice_versa "wikilink") (2006年)
-  - [yes,mama ok?](https://ja.wikipedia.org/wiki/yes,mama_ok? "wikilink") ([金剛地武志](https://ja.wikipedia.org/wiki/金剛地武志 "wikilink")) (1995年)
+  - [yes,mama ok?](https://ja.wikipedia.org/wiki/yes,mama_ok? "wikilink") ([金剛地武志](../Page/金剛地武志.md "wikilink")) (1995年)
   - [アオキマミ](https://ja.wikipedia.org/wiki/アオキマミ "wikilink") (2010年)
   - [アメリカ☆ヤング](https://ja.wikipedia.org/wiki/アメリカ☆ヤング "wikilink") (2001年)
   - [池田正典](https://ja.wikipedia.org/wiki/池田正典 "wikilink") (2009年)
@@ -127,14 +127,14 @@
   - [こどもぱんくオーケストラ](https://ja.wikipedia.org/wiki/こどもぱんくオーケストラ "wikilink") (2012年)
   - [紺風少年](https://ja.wikipedia.org/wiki/紺風少年 "wikilink") (2007年)
   - [五月女五月](https://ja.wikipedia.org/wiki/五月女五月 "wikilink")(さおとめさつき) (2011年〜2012年)2014年活動終了
-  - [スカポンタス](https://ja.wikipedia.org/wiki/スカポンタス "wikilink") (2007年)[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")より移籍。2008年活動休止
+  - [スカポンタス](../Page/スカポンタス.md "wikilink") (2007年)[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")より移籍。2008年活動休止
   - [ストレイテナー](https://ja.wikipedia.org/wiki/ストレイテナー "wikilink") (2000年〜2001年)自主レーベル「ghost record」を経て2003年東芝EMIよりメジャーデビュー。
   - [青春シャンプー](https://ja.wikipedia.org/wiki/青春シャンプー "wikilink") (2009年〜2011年)
   - [青春ミッドナイトランナーズ](https://ja.wikipedia.org/wiki/青春ミッドナイトランナーズ "wikilink") (2002年〜2007年)
   - [セックスマシーン](https://ja.wikipedia.org/wiki/セックスマシーン "wikilink") (2002年〜2005年)
   - [ちぇるしぃ](https://ja.wikipedia.org/wiki/ちぇるしぃ "wikilink") (1999年)
   - [チャッカマンズ](https://ja.wikipedia.org/wiki/チャッカマンズ "wikilink") (2003年)
-  - [つじあやの](https://ja.wikipedia.org/wiki/つじあやの "wikilink") (1998年)1999年[SPEEDSTAR RECORDSよりメジャーデビュー](https://ja.wikipedia.org/wiki/SPEEDSTAR_RECORDS "wikilink")。
+  - [つじあやの](https://ja.wikipedia.org/wiki/つじあやの "wikilink") (1998年)1999年[SPEEDSTAR RECORDSよりメジャーデビュー](../Page/SPEEDSTAR_RECORDS.md "wikilink")。
   - [中ノ森文子](../Page/中ノ森文子.md "wikilink") (2012年)
   - [夏待ちレスター](https://ja.wikipedia.org/wiki/夏待ちレスター "wikilink") (2005年〜2006年)
   - [なめくじバスターズ](https://ja.wikipedia.org/wiki/なめくじバスターズ "wikilink") (2004年)
@@ -143,13 +143,13 @@
   - [パク・ヘジン](https://ja.wikipedia.org/wiki/パク・ヘジン "wikilink") (2011年)
   - [バズマザーズ](https://ja.wikipedia.org/wiki/バズマザーズ "wikilink") (2015年)
   - [晴晴゛](../Page/晴晴゛.md "wikilink") (2003年)同年7月ソニーレコードよりメジャーデビュー。2005年7月28日解散。
-  - [ヒダカトオル](https://ja.wikipedia.org/wiki/ヒダカトオル "wikilink")([BEAT CRUSADERS](https://ja.wikipedia.org/wiki/BEAT_CRUSADERS "wikilink")、アーティストとしてではなく社員として勤めていた｡)
+  - [ヒダカトオル](https://ja.wikipedia.org/wiki/ヒダカトオル "wikilink")([BEAT CRUSADERS](../Page/BEAT_CRUSADERS.md "wikilink")、アーティストとしてではなく社員として勤めていた｡)
   - [ビンジョウバカネ](https://ja.wikipedia.org/wiki/ビンジョウバカネ "wikilink") (2005年)
   - [フレアオッズ](https://ja.wikipedia.org/wiki/フレアオッズ "wikilink") (2008年)
   - [舞華](https://ja.wikipedia.org/wiki/舞華 "wikilink") (2014年)
   - [まえだまえだ](https://ja.wikipedia.org/wiki/まえだまえだ "wikilink") (2008年)
-  - [牧伸二](https://ja.wikipedia.org/wiki/牧伸二 "wikilink") (1995年)
-  - [マニ★ラバ](https://ja.wikipedia.org/wiki/マニ★ラバ "wikilink") (2003年)2004年自主レーベル「青森レコード」設立。2007年解散。
+  - [牧伸二](../Page/牧伸二.md "wikilink") (1995年)
+  - [マニ★ラバ](../Page/マニ★ラバ.md "wikilink") (2003年)2004年自主レーベル「青森レコード」設立。2007年解散。
   - [みうらじゅん](../Page/みうらじゅん.md "wikilink") (1999年〜2013年)
       - みうらじゅん&[安齋肇](https://ja.wikipedia.org/wiki/安齋肇 "wikilink") (2004年〜2013年)
       - [ブロンソンズ](../Page/ブロンソンズ.md "wikilink") (2003年)再発
@@ -196,7 +196,7 @@ living, dining and kitchen records (1995年 - )
 </tr>
 <tr class="even">
 <td><p>1995年10月10日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/牧伸二" title="wikilink">牧伸二</a>『ウクレレ人生』</p></td>
+<td><p><a href="../Page/牧伸二.md" title="wikilink">牧伸二</a>『ウクレレ人生』</p></td>
 <td><p>10-LDKCD</p></td>
 </tr>
 <tr class="odd">
@@ -241,7 +241,7 @@ living, dining and kitchen records (1995年 - )
 </tr>
 <tr class="odd">
 <td><p>1997年05月25日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Cymbals" title="wikilink">Cymbals</a>『Neat, or Cymbal!』</p></td>
+<td><p><a href="../Page/Cymbals.md" title="wikilink">Cymbals</a>『Neat, or Cymbal!』</p></td>
 <td><p>57-LDKCD</p></td>
 </tr>
 <tr class="even">
@@ -667,7 +667,7 @@ living, dining and kitchen records (1995年 - )
 </tr>
 <tr class="even">
 <td><p>2007年04月11日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/かりゆし58" title="wikilink">かりゆし58</a>『<a href="https://ja.wikipedia.org/wiki/手と手_(かりゆし58の曲)" title="wikilink">手と手</a>』</p></td>
+<td><p><a href="../Page/かりゆし58.md" title="wikilink">かりゆし58</a>『<a href="https://ja.wikipedia.org/wiki/手と手_(かりゆし58の曲)" title="wikilink">手と手</a>』</p></td>
 <td><p>182-LDKCD</p></td>
 </tr>
 <tr class="odd">
@@ -707,7 +707,7 @@ living, dining and kitchen records (1995年 - )
 </tr>
 <tr class="even">
 <td><p>2007年10月09日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スカポンタス" title="wikilink">スカポンタス</a>『STARS』</p></td>
+<td><p><a href="../Page/スカポンタス.md" title="wikilink">スカポンタス</a>『STARS』</p></td>
 <td><p>190-LDKCD</p></td>
 </tr>
 <tr class="odd">
@@ -1162,7 +1162,7 @@ LDCD-50033</p></td>
 </tr>
 <tr class="even">
 <td><p>2005年01月26日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/牧伸二" title="wikilink">牧伸二</a>『牧伸二のウクレレ人生』</p></td>
+<td><p><a href="../Page/牧伸二.md" title="wikilink">牧伸二</a>『牧伸二のウクレレ人生』</p></td>
 <td><p>LDCD-50015</p></td>
 </tr>
 <tr class="odd">
@@ -1303,7 +1303,7 @@ LDCD-50048</p></td>
 </tr>
 <tr class="even">
 <td><p>2009年02月04日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/かりゆし58" title="wikilink">かりゆし58</a>『<a href="https://ja.wikipedia.org/wiki/さよなら_(かりゆし58の曲)" title="wikilink">さよなら</a>』</p></td>
+<td><p><a href="../Page/かりゆし58.md" title="wikilink">かりゆし58</a>『<a href="https://ja.wikipedia.org/wiki/さよなら_(かりゆし58の曲)" title="wikilink">さよなら</a>』</p></td>
 <td><p>LDCD-50053B<br />
 LDCD-50054</p></td>
 </tr>
@@ -1426,7 +1426,7 @@ LDCD-50094</p></td>
 </tr>
 <tr class="even">
 <td><p>2013年12月18日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ガガガSP" title="wikilink">ガガガSP</a>『<a href="https://ja.wikipedia.org/wiki/くだまき男の飽き足らん生活" title="wikilink">くだまき男の飽き足らん生活</a>』</p></td>
+<td><p><a href="../Page/ガガガSP.md" title="wikilink">ガガガSP</a>『<a href="https://ja.wikipedia.org/wiki/くだまき男の飽き足らん生活" title="wikilink">くだまき男の飽き足らん生活</a>』</p></td>
 <td><p>LDCD-50096</p></td>
 </tr>
 <tr class="odd">
@@ -1582,7 +1582,7 @@ LDCD-50130</p></td>
 <tbody>
 <tr class="odd">
 <td><p>2007年01月24日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ガガガSP" title="wikilink">ガガガSP</a>『<a href="https://ja.wikipedia.org/wiki/神戸駅_(曲)" title="wikilink">神戸駅</a>』</p></td>
+<td><p><a href="../Page/ガガガSP.md" title="wikilink">ガガガSP</a>『<a href="https://ja.wikipedia.org/wiki/神戸駅_(曲)" title="wikilink">神戸駅</a>』</p></td>
 <td><p>OSRCD-1</p></td>
 </tr>
 <tr class="even">
@@ -1726,7 +1726,7 @@ Run Run Run Records: [パンク系](../Page/パンク・ロック.md "wikilink")
 </tr>
 <tr class="even">
 <td><p>2000年12月25日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ガガガSP" title="wikilink">ガガガSP</a>『<a href="https://ja.wikipedia.org/wiki/京子ちゃん" title="wikilink">京子ちゃん</a>』</p></td>
+<td><p><a href="../Page/ガガガSP.md" title="wikilink">ガガガSP</a>『<a href="https://ja.wikipedia.org/wiki/京子ちゃん" title="wikilink">京子ちゃん</a>』</p></td>
 <td><p>R3RCD-008</p></td>
 <td></td>
 </tr>
@@ -1855,7 +1855,7 @@ Run Run Run Records: [パンク系](../Page/パンク・ロック.md "wikilink")
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>キング オブ クイーン / <a href="https://ja.wikipedia.org/wiki/ガガガSP" title="wikilink">ガガガSP</a></li>
+<li>キング オブ クイーン / <a href="../Page/ガガガSP.md" title="wikilink">ガガガSP</a></li>
 <li>いい人どまり / <a href="https://ja.wikipedia.org/wiki/セックスマシーン" title="wikilink">セックスマシーン</a></li>
 <li>走れメロス / <a href="https://ja.wikipedia.org/wiki/ミラクルオブライフ" title="wikilink">ミラクルオブライフ</a></li>
 <li>窓の外の青春 / <a href="https://ja.wikipedia.org/wiki/逆EDGE" title="wikilink">逆EDGE</a></li>
@@ -2079,7 +2079,7 @@ Run Run Run Records: [パンク系](../Page/パンク・ロック.md "wikilink")
 </tr>
 <tr class="odd">
 <td><p>2006年02月22日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/かりゆし58" title="wikilink">かりゆし58</a>『恋人よ』</p></td>
+<td><p><a href="../Page/かりゆし58.md" title="wikilink">かりゆし58</a>『恋人よ』</p></td>
 <td><p>R3RCD-050</p></td>
 <td></td>
 </tr>
@@ -2452,11 +2452,11 @@ living records tokyo\* (2003年 - 2014年)
 <ol>
 <li>Just for you / <a href="../Page/BAGDAD_CAFE_THE_trench_town.md" title="wikilink">BAGDAD CAFE THE trench town</a></li>
 <li>Become One / <a href="https://ja.wikipedia.org/wiki/a_million_bamboo" title="wikilink">a million bamboo</a></li>
-<li>ロカビリー横丁 / <a href="https://ja.wikipedia.org/wiki/大西ユカリと新世界" title="wikilink">大西ユカリと新世界</a></li>
+<li>ロカビリー横丁 / <a href="../Page/大西ユカリと新世界.md" title="wikilink">大西ユカリと新世界</a></li>
 <li>how I wish (feat. Mama! Milk) / <a href="https://ja.wikipedia.org/wiki/flex_Life" title="wikilink">flex Life</a></li>
 <li>Omoiyari / <a href="https://ja.wikipedia.org/wiki/cutman-booche" title="wikilink">cutman-booche</a></li>
 <li>sones / <a href="https://ja.wikipedia.org/wiki/mama!_Milk" title="wikilink">mama! Milk</a></li>
-<li>クローバーテール / <a href="https://ja.wikipedia.org/wiki/高鈴" title="wikilink">高鈴</a></li>
+<li>クローバーテール / <a href="../Page/高鈴.md" title="wikilink">高鈴</a></li>
 <li>spring break / <a href="https://ja.wikipedia.org/wiki/みちしたの音楽" title="wikilink">みちしたの音楽</a></li>
 <li>真実のミュゼット・ワルツ / <a href="https://ja.wikipedia.org/wiki/リュクサンブール公園" title="wikilink">リュクサンブール公園</a></li>
 <li>箱舟 / <a href="https://ja.wikipedia.org/wiki/Sugar_Mama" title="wikilink">Sugar Mama</a></li>

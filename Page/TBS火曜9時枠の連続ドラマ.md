@@ -5,17 +5,17 @@
 
 ## 歴史
 
-[1970年代](../Page/1970年代.md "wikilink")から[1980年代](../Page/1980年代.md "wikilink")前半にかけて、[TBSの](../Page/TBSテレビ.md "wikilink")[ゴールデンタイム](https://ja.wikipedia.org/wiki/ゴールデンタイム "wikilink")は“ドラマのTBS”と呼ばれるほど一週間に10 - 12本のテレビドラマ枠（54分）を擁した番組編成であり、特に[1975年](../Page/1975年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[1976年](../Page/1976年.md "wikilink")前半の[プライムタイム](https://ja.wikipedia.org/wiki/プライムタイム "wikilink")には[海外ドラマ](../Page/海外ドラマ.md "wikilink")や[時代劇](../Page/時代劇.md "wikilink")も含め16本（プライムタイムの4分の3を占める）もあり、また「[ケンちゃんシリーズ](https://ja.wikipedia.org/wiki/ケンちゃんシリーズ "wikilink")」や「[ウルトラシリーズ](https://ja.wikipedia.org/wiki/ウルトラシリーズ "wikilink")」、「[ブラザー劇場](../Page/ブラザー劇場.md "wikilink")」のような30分枠のドラマも数本存在した。火曜日9時台のドラマ枠は[ホームドラマ](https://ja.wikipedia.org/wiki/ホームドラマ "wikilink")をこの放送枠の主軸とし、[森繁久彌](https://ja.wikipedia.org/wiki/森繁久彌 "wikilink")や[山岡久乃](https://ja.wikipedia.org/wiki/山岡久乃 "wikilink")、[関口宏](../Page/関口宏.md "wikilink")、[細川俊之](https://ja.wikipedia.org/wiki/細川俊之 "wikilink")、[西田敏行](../Page/西田敏行.md "wikilink")、[古谷一行](https://ja.wikipedia.org/wiki/古谷一行 "wikilink")、[泉ピン子](../Page/泉ピン子.md "wikilink")らがこの枠で放送された作品に数多く出演した。1980年代後半は10 - 20代をターゲットにした作品を中心とし、『[毎度おさわがせします](../Page/毎度おさわがせします.md "wikilink")』や『[夏・体験物語](https://ja.wikipedia.org/wiki/夏・体験物語 "wikilink")』に出演した[中山美穂](https://ja.wikipedia.org/wiki/中山美穂 "wikilink")はこれらの作品の大ヒットで人気アイドル女優としての地位を確立した。
+[1970年代](../Page/1970年代.md "wikilink")から[1980年代](../Page/1980年代.md "wikilink")前半にかけて、[TBSの](../Page/TBSテレビ.md "wikilink")[ゴールデンタイム](https://ja.wikipedia.org/wiki/ゴールデンタイム "wikilink")は“ドラマのTBS”と呼ばれるほど一週間に10 - 12本のテレビドラマ枠（54分）を擁した番組編成であり、特に[1975年](../Page/1975年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[1976年](../Page/1976年.md "wikilink")前半の[プライムタイム](../Page/プライムタイム.md "wikilink")には[海外ドラマ](../Page/海外ドラマ.md "wikilink")や[時代劇](../Page/時代劇.md "wikilink")も含め16本（プライムタイムの4分の3を占める）もあり、また「[ケンちゃんシリーズ](../Page/ケンちゃんシリーズ.md "wikilink")」や「[ウルトラシリーズ](https://ja.wikipedia.org/wiki/ウルトラシリーズ "wikilink")」、「[ブラザー劇場](../Page/ブラザー劇場.md "wikilink")」のような30分枠のドラマも数本存在した。火曜日9時台のドラマ枠は[ホームドラマ](../Page/ホームドラマ.md "wikilink")をこの放送枠の主軸とし、[森繁久彌](../Page/森繁久彌.md "wikilink")や[山岡久乃](../Page/山岡久乃.md "wikilink")、[関口宏](../Page/関口宏.md "wikilink")、[細川俊之](../Page/細川俊之.md "wikilink")、[西田敏行](../Page/西田敏行.md "wikilink")、[古谷一行](../Page/古谷一行.md "wikilink")、[泉ピン子](../Page/泉ピン子.md "wikilink")らがこの枠で放送された作品に数多く出演した。1980年代後半は10 - 20代をターゲットにした作品を中心とし、『[毎度おさわがせします](../Page/毎度おさわがせします.md "wikilink")』や『[夏・体験物語](../Page/夏・体験物語.md "wikilink")』に出演した[中山美穂](../Page/中山美穂.md "wikilink")はこれらの作品の大ヒットで人気アイドル女優としての地位を確立した。
 
 本枠は1987年秋の改編でドラマ枠が月曜21時枠への移動\[1\]により一旦休止しているが、1992年10月 - 1995年9月の間に火曜20時台のドラマ枠が移動してきた形で一時復活している。
 
-本枠での放送作品は第1期、第2期ともに[テレパック](https://ja.wikipedia.org/wiki/テレパック "wikilink")や木下プロダクション（現:[ドリマックス・テレビジョン](../Page/ドリマックス・テレビジョン.md "wikilink")）などの外注作品が主体であった。
+本枠での放送作品は第1期、第2期ともに[テレパック](../Page/テレパック.md "wikilink")や木下プロダクション（現:[ドリマックス・テレビジョン](../Page/ドリマックス・テレビジョン.md "wikilink")）などの外注作品が主体であった。
 
 ## 主な作品リスト
 
 ### 1973年10月-1987年9月
 
-1970年代は主に[テレパック](https://ja.wikipedia.org/wiki/テレパック "wikilink")制作、80年代は主に[木下プロダクションによる作品がこの枠で多く放送された](../Page/ドリマックス・テレビジョン.md "wikilink")。
+1970年代は主に[テレパック](../Page/テレパック.md "wikilink")制作、80年代は主に[木下プロダクションによる作品がこの枠で多く放送された](../Page/ドリマックス・テレビジョン.md "wikilink")。
 
   - [あんたがたどこさ(第1シリーズ)](https://ja.wikipedia.org/wiki/あんたがたどこさ_\(テレビドラマ\)#第1シリーズ "wikilink")（テレパック制作）
   - [おんな家族](https://ja.wikipedia.org/wiki/おんな家族 "wikilink")（テレパック制作）
@@ -29,7 +29,7 @@
   - [八甲田山](https://ja.wikipedia.org/wiki/八甲田山死の彷徨#テレビドラマ版 "wikilink")（[東京映画](https://ja.wikipedia.org/wiki/東京映画 "wikilink")制作）
   - [三男三女婿一匹(第2シリーズ)](https://ja.wikipedia.org/wiki/三男三女婿一匹#三男三女婿一匹（第2シリーズ） "wikilink")（テレパック制作）
   - [混声の森](https://ja.wikipedia.org/wiki/混声の森 "wikilink")（テレパック制作）
-  - [人はそれをスキャンダルという](https://ja.wikipedia.org/wiki/人はそれをスキャンダルという "wikilink")（[大映テレビ](https://ja.wikipedia.org/wiki/大映テレビ "wikilink")制作）
+  - [人はそれをスキャンダルという](https://ja.wikipedia.org/wiki/人はそれをスキャンダルという "wikilink")（[大映テレビ](../Page/大映テレビ.md "wikilink")制作）
   - [やる気満々](https://ja.wikipedia.org/wiki/やる気満々 "wikilink")（テレパック制作）
   - [三男三女婿一匹III](https://ja.wikipedia.org/wiki/三男三女婿一匹#三男三女婿一匹III "wikilink")（テレパック制作）
   - [あゝ野麦峠](https://ja.wikipedia.org/wiki/あゝ野麦峠#テレビドラマ "wikilink")（東京映画制作）
@@ -45,13 +45,13 @@
   - [看護婦日記 パートI](https://ja.wikipedia.org/wiki/看護婦日記_パートI "wikilink")（テレパック制作）
   - [年ごろ家族](https://ja.wikipedia.org/wiki/年ごろ家族 "wikilink")（木下プロダクション制作）
   - [シンデレラの財布](https://ja.wikipedia.org/wiki/シンデレラの財布 "wikilink")（テレパック制作）
-  - [鬼龍院花子の生涯](https://ja.wikipedia.org/wiki/鬼龍院花子の生涯#テレビドラマ_\(1984年\) "wikilink")（[東阪企画](https://ja.wikipedia.org/wiki/東阪企画 "wikilink")制作）
+  - [鬼龍院花子の生涯](https://ja.wikipedia.org/wiki/鬼龍院花子の生涯#テレビドラマ_\(1984年\) "wikilink")（[東阪企画](../Page/東阪企画.md "wikilink")制作）
   - [離婚テキレイ期](https://ja.wikipedia.org/wiki/離婚テキレイ期 "wikilink")（テレパック制作）
   - [毎度おさわがせします(第1シリーズ)](https://ja.wikipedia.org/wiki/毎度おさわがせします#第1シリーズ "wikilink")（木下プロダクション制作）
   - [ガンコおやじに敬礼](https://ja.wikipedia.org/wiki/ガンコおやじに敬礼 "wikilink")（オフィス・ヘンミ制作）
   - [サーティーン・ボーイ](../Page/サーティーン・ボーイ.md "wikilink")（[ヴァンフィル](https://ja.wikipedia.org/wiki/ヴァンフィル "wikilink")制作）
   - [夏・体験物語(パート1)](https://ja.wikipedia.org/wiki/夏・体験物語#パート1 "wikilink")（木下プロダクション制作）
-  - [OH\!わが友よ](https://ja.wikipedia.org/wiki/OH!わが友よ "wikilink")（[国際放映](https://ja.wikipedia.org/wiki/国際放映 "wikilink")制作）
+  - [OH\!わが友よ](https://ja.wikipedia.org/wiki/OH!わが友よ "wikilink")（[国際放映](../Page/国際放映.md "wikilink")制作）
   - [毎度おさわがせします(第2シリーズ)](https://ja.wikipedia.org/wiki/毎度おさわがせします#第2シリーズ "wikilink")（木下プロダクション制作）
   - [お坊っチャマにはわかるまい\!](../Page/お坊っチャマにはわかるまい!.md "wikilink")（木下プロダクション制作）
   - [夏・体験物語(パート2)](https://ja.wikipedia.org/wiki/夏・体験物語#パート2 "wikilink")（木下プロダクション制作）
@@ -64,17 +64,17 @@
 
 「私の運命」以外は外部制作となっている。
 
-  - [デパート\!秋物語](https://ja.wikipedia.org/wiki/デパート!秋物語 "wikilink")（大映テレビ制作）
+  - [デパート\!秋物語](../Page/デパート!秋物語.md "wikilink")（大映テレビ制作）
   - [いつか好きだと言って](https://ja.wikipedia.org/wiki/いつか好きだと言って "wikilink")（[ホリプロ](../Page/ホリプロ.md "wikilink")制作）
-  - [さくらももこランド・谷口六三商店](https://ja.wikipedia.org/wiki/さくらももこランド・谷口六三商店 "wikilink")（[KANOX](https://ja.wikipedia.org/wiki/KANOX "wikilink")制作）
-  - [新幹線物語'93夏](https://ja.wikipedia.org/wiki/新幹線物語'93夏 "wikilink")（[近藤照男プロダクション](https://ja.wikipedia.org/wiki/近藤照男プロダクション "wikilink")制作）
-  - [憎しみに微笑んで](https://ja.wikipedia.org/wiki/憎しみに微笑んで "wikilink")（木下プロダクション制作）
+  - [さくらももこランド・谷口六三商店](../Page/さくらももこランド・谷口六三商店.md "wikilink")（[KANOX](https://ja.wikipedia.org/wiki/KANOX "wikilink")制作）
+  - [新幹線物語'93夏](../Page/新幹線物語'93夏.md "wikilink")（[近藤照男プロダクション](../Page/近藤照男プロダクション.md "wikilink")制作）
+  - [憎しみに微笑んで](../Page/憎しみに微笑んで.md "wikilink")（木下プロダクション制作）
   - [ひとの不幸は蜜の味](https://ja.wikipedia.org/wiki/ひとの不幸は蜜の味 "wikilink")（テレパック制作）
-  - [スチュワーデスの恋人](https://ja.wikipedia.org/wiki/スチュワーデスの恋人 "wikilink")（大映テレビ制作）
-  - [毎度ゴメンなさぁい](https://ja.wikipedia.org/wiki/毎度ゴメンなさぁい "wikilink")（[AVEC制作](https://ja.wikipedia.org/wiki/アベクカンパニー "wikilink")）
+  - [スチュワーデスの恋人](../Page/スチュワーデスの恋人.md "wikilink")（大映テレビ制作）
+  - [毎度ゴメンなさぁい](../Page/毎度ゴメンなさぁい.md "wikilink")（[AVEC制作](../Page/アベクカンパニー.md "wikilink")）
   - [私の運命](../Page/私の運命.md "wikilink")（TBS自社制作、2クール放送）
-  - [毎度おジャマしまぁす](https://ja.wikipedia.org/wiki/毎度おジャマしまぁす "wikilink")（AVEC制作）
-  - [夏\!デパート物語](https://ja.wikipedia.org/wiki/夏!デパート物語 "wikilink")（大映テレビ制作）
+  - [毎度おジャマしまぁす](../Page/毎度おジャマしまぁす.md "wikilink")（AVEC制作）
+  - [夏\!デパート物語](../Page/夏!デパート物語.md "wikilink")（大映テレビ制作）
 
 ## 放映ネット局
 
@@ -128,7 +128,7 @@
 <td><p>1981年3月から1987年3月まではテレビ朝日系列とのクロスネット局</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/山形県" title="wikilink">山形県</a></p></td>
+<td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
 <td><p><a href="../Page/山形テレビ.md" title="wikilink">山形テレビ</a></p></td>
 <td><p>第1期のみ</p></td>
 <td></td>
@@ -277,7 +277,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/RKB毎日放送" title="wikilink">RKB毎日放送</a></p></td>
 <td></td>
 <td></td>
@@ -314,7 +314,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/沖縄県.md" title="wikilink">沖縄県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/琉球放送" title="wikilink">琉球放送</a></p></td>
+<td><p><a href="../Page/琉球放送.md" title="wikilink">琉球放送</a></p></td>
 <td></td>
 <td></td>
 </tr>

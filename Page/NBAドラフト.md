@@ -50,11 +50,11 @@ NBAのドラフト抽選(ロッタリー)は、前シーズンにプレーオフ
 
 ### 1984年以前
 
-初期のドラフトでは前シーズンの成績の悪い順で指名が行なわれていたが、チームの地域に所属する選手を指名できる特別な*地域指名(テリトリー・ピック)ルール*による指名ができた。もしチームがこの権利を行使したい場合は、1巡目指名権は没収された。この特別ルールは1966年に改定されるまで続いた。 1966年に各ディビジョンの最下位チームの間で[コイントス](https://ja.wikipedia.org/wiki/コイントス "wikilink")で決定される方式が導入された。抽選該当チーム以外は勝率の悪い順で指名する方式で、1984年まで続いた。
+初期のドラフトでは前シーズンの成績の悪い順で指名が行なわれていたが、チームの地域に所属する選手を指名できる特別な*地域指名(テリトリー・ピック)ルール*による指名ができた。もしチームがこの権利を行使したい場合は、1巡目指名権は没収された。この特別ルールは1966年に改定されるまで続いた。 1966年に各ディビジョンの最下位チームの間で[コイントス](../Page/コイントス.md "wikilink")で決定される方式が導入された。抽選該当チーム以外は勝率の悪い順で指名する方式で、1984年まで続いた。
 
 ### 1985-1989年初期抽選方式
 
-1985年から前シーズンにプレーオフに出場できなかったチーム全てで同確率で抽選が行われるシステムに変更された。封筒に該当チーム名を記載したカードを入れ、順番に選択し、指名順位を決定した。1984年までのドラフトが勝率の低い順から指名が出来る制度であり、注目選手であった[パトリック・ユーイング](https://ja.wikipedia.org/wiki/パトリック・ユーイング "wikilink")を獲得するため、リーグ最低勝率を目指して下位チームがわざと負ける事態を招いたことによる。この事例のような高順位を獲得するためにレギュラーシーズンで手を抜くこと([タンク](../Page/タンク.md "wikilink"))を防ぐためである。
+1985年から前シーズンにプレーオフに出場できなかったチーム全てで同確率で抽選が行われるシステムに変更された。封筒に該当チーム名を記載したカードを入れ、順番に選択し、指名順位を決定した。1984年までのドラフトが勝率の低い順から指名が出来る制度であり、注目選手であった[パトリック・ユーイング](../Page/パトリック・ユーイング.md "wikilink")を獲得するため、リーグ最低勝率を目指して下位チームがわざと負ける事態を招いたことによる。この事例のような高順位を獲得するためにレギュラーシーズンで手を抜くこと([タンク](../Page/タンク.md "wikilink"))を防ぐためである。
 
 ### 1990年以降の現抽選方式
 
@@ -82,31 +82,31 @@ NBAのドラフト抽選(ロッタリー)は、前シーズンにプレーオフ
 
 ## 歴史
 
-[1947年](../Page/1947年.md "wikilink")、[ワッツ・ミサカ](https://ja.wikipedia.org/wiki/ワッツ・ミサカ "wikilink")\[9\]が[ニューヨーク・ニックス](https://ja.wikipedia.org/wiki/ニューヨーク・ニックス "wikilink")に日系人では初めて指名された。
+[1947年](../Page/1947年.md "wikilink")、[ワッツ・ミサカ](https://ja.wikipedia.org/wiki/ワッツ・ミサカ "wikilink")\[9\]が[ニューヨーク・ニックス](../Page/ニューヨーク・ニックス.md "wikilink")に日系人では初めて指名された。
 
 [1962年](../Page/1962年.md "wikilink")、が高卒の選手では初めて指名された。
 
 [1965年](../Page/1965年.md "wikilink")、双子の[トム・バン・アースデール](https://ja.wikipedia.org/wiki/トム・バン・アースデール "wikilink")、[ディック・バン・アースデール](https://ja.wikipedia.org/wiki/ディック・バン・アースデール "wikilink")がそれぞれドラフトで指名された。
 
-[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")、[マイカル・トンプソン](https://ja.wikipedia.org/wiki/マイカル・トンプソン "wikilink")が[ポートランド・トレイルブレイザーズ](https://ja.wikipedia.org/wiki/ポートランド・トレイルブレイザーズ "wikilink")にアメリカ合衆国以外出身の選手として初めて1位で指名された。
+[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")、[マイカル・トンプソン](https://ja.wikipedia.org/wiki/マイカル・トンプソン "wikilink")が[ポートランド・トレイルブレイザーズ](../Page/ポートランド・トレイルブレイザーズ.md "wikilink")にアメリカ合衆国以外出身の選手として初めて1位で指名された。
 
-[1981年](../Page/1981年.md "wikilink")、[岡山恭崇](https://ja.wikipedia.org/wiki/岡山恭崇 "wikilink")が[ゴールデンステート・ウォリアーズ](https://ja.wikipedia.org/wiki/ゴールデンステート・ウォリアーズ "wikilink")に日本人プレイヤーとして初めて指名されたが\[10\]、米国でプレイすることはなかった。岡山は、NBAドラフトで指名された史上最も長身の選手として知られている。
+[1981年](../Page/1981年.md "wikilink")、[岡山恭崇](../Page/岡山恭崇.md "wikilink")が[ゴールデンステート・ウォリアーズ](../Page/ゴールデンステート・ウォリアーズ.md "wikilink")に日本人プレイヤーとして初めて指名されたが\[10\]、米国でプレイすることはなかった。岡山は、NBAドラフトで指名された史上最も長身の選手として知られている。
 
-[1984年](../Page/1984年.md "wikilink")、[ヒューストン・ロケッツ](https://ja.wikipedia.org/wiki/ヒューストン・ロケッツ "wikilink")が2年連続全体1位指名権を獲得、[アキーム・オラジュワン](https://ja.wikipedia.org/wiki/アキーム・オラジュワン "wikilink")を指名して、前年に指名した[ラルフ・サンプソン](../Page/ラルフ・サンプソン.md "wikilink")と共に「[ツイン・タワー](../Page/ツインタワー_\(バスケットボール\).md "wikilink")」を形成した。また、この年、[マイケル・ジョーダン](../Page/マイケル・ジョーダン.md "wikilink")が全体3位で指名されている。この年のドラフトでは[カール・ルイス](../Page/カール・ルイス.md "wikilink")が指名されているがNBA入りすることなく陸上競技に専念した。
+[1984年](../Page/1984年.md "wikilink")、[ヒューストン・ロケッツ](../Page/ヒューストン・ロケッツ.md "wikilink")が2年連続全体1位指名権を獲得、[アキーム・オラジュワン](../Page/アキーム・オラジュワン.md "wikilink")を指名して、前年に指名した[ラルフ・サンプソン](../Page/ラルフ・サンプソン.md "wikilink")と共に「[ツイン・タワー](../Page/ツインタワー_\(バスケットボール\).md "wikilink")」を形成した。また、この年、[マイケル・ジョーダン](../Page/マイケル・ジョーダン.md "wikilink")が全体3位で指名されている。この年のドラフトでは[カール・ルイス](../Page/カール・ルイス.md "wikilink")が指名されているがNBA入りすることなく陸上競技に専念した。
 
-[1993年](../Page/1993年.md "wikilink")、[オーランド・マジック](https://ja.wikipedia.org/wiki/オーランド・マジック "wikilink")が2年連続1位指名を獲得した。[シャキール・オニール](https://ja.wikipedia.org/wiki/シャキール・オニール "wikilink")を前年指名したのに次いで、41勝41敗とプレーオフに進出した[インディアナ・ペイサーズ](https://ja.wikipedia.org/wiki/インディアナ・ペイサーズ "wikilink")と同じ勝利数で終えたが惜しくもプレーオフに出場できなかった代わりに奇跡的な確率だった全体1位指名権を得た。[クリス・ウェバー](https://ja.wikipedia.org/wiki/クリス・ウェバー "wikilink")を指名して、ドラフト後に[アンファニー・ハーダウェイ](../Page/アンファニー・ハーダウェイ.md "wikilink")とトレードを行なった。
+[1993年](../Page/1993年.md "wikilink")、[オーランド・マジック](../Page/オーランド・マジック.md "wikilink")が2年連続1位指名を獲得した。[シャキール・オニール](../Page/シャキール・オニール.md "wikilink")を前年指名したのに次いで、41勝41敗とプレーオフに進出した[インディアナ・ペイサーズ](../Page/インディアナ・ペイサーズ.md "wikilink")と同じ勝利数で終えたが惜しくもプレーオフに出場できなかった代わりに奇跡的な確率だった全体1位指名権を得た。[クリス・ウェバー](../Page/クリス・ウェバー.md "wikilink")を指名して、ドラフト後に[アンファニー・ハーダウェイ](../Page/アンファニー・ハーダウェイ.md "wikilink")とトレードを行なった。
 
-[2000年](../Page/2000年.md "wikilink")、[ミネソタ・ティンバーウルブズ](https://ja.wikipedia.org/wiki/ミネソタ・ティンバーウルブズ "wikilink")と[ジョー・スミス](https://ja.wikipedia.org/wiki/ジョー・スミス "wikilink")の間で、サラリーキャップ規定に反した契約が交わされていたことが発覚し、ティンバーウルブズは5年間ドラフト1巡目指名権を剥奪された（[2003年](../Page/2003年.md "wikilink")、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")は獲得が認められた）。
+[2000年](../Page/2000年.md "wikilink")、[ミネソタ・ティンバーウルブズ](../Page/ミネソタ・ティンバーウルブズ.md "wikilink")と[ジョー・スミス](../Page/ジョー・スミス.md "wikilink")の間で、サラリーキャップ規定に反した契約が交わされていたことが発覚し、ティンバーウルブズは5年間ドラフト1巡目指名権を剥奪された（[2003年](../Page/2003年.md "wikilink")、[2005年](../Page/2005年.md "wikilink")は獲得が認められた）。
 
-[2001年](../Page/2001年.md "wikilink")、[ケビン・ガーネット](https://ja.wikipedia.org/wiki/ケビン・ガーネット "wikilink")、[コービー・ブライアント](https://ja.wikipedia.org/wiki/コービー・ブライアント "wikilink")ら高卒選手の活躍を受け、19歳の[クワミ・ブラウン](../Page/クワミ・ブラウン.md "wikilink")が高卒では史上初の1位で[ワシントン・ウィザーズ](https://ja.wikipedia.org/wiki/ワシントン・ウィザーズ "wikilink")に指名された。
+[2001年](../Page/2001年.md "wikilink")、[ケビン・ガーネット](../Page/ケビン・ガーネット.md "wikilink")、[コービー・ブライアント](../Page/コービー・ブライアント.md "wikilink")ら高卒選手の活躍を受け、19歳の[クワミ・ブラウン](../Page/クワミ・ブラウン.md "wikilink")が高卒では史上初の1位で[ワシントン・ウィザーズ](../Page/ワシントン・ウィザーズ.md "wikilink")に指名された。
 
-[2002年](../Page/2002年.md "wikilink")、[中国出身の](../Page/中華人民共和国.md "wikilink")[姚明](https://ja.wikipedia.org/wiki/姚明 "wikilink")が米国人や米国の大学でプレイしていた選手以外としては初めて1位で[ヒューストン・ロケッツ](https://ja.wikipedia.org/wiki/ヒューストン・ロケッツ "wikilink")に指名され、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")には連続で外国出身の選手が1位で指名された（2006年の[イタリア](../Page/イタリア.md "wikilink")出身[アンドレア・バルニャーニ](../Page/アンドレア・バルニャーニ.md "wikilink")は欧州人初）。
+[2002年](../Page/2002年.md "wikilink")、[中国出身の](../Page/中華人民共和国.md "wikilink")[姚明](../Page/姚明.md "wikilink")が米国人や米国の大学でプレイしていた選手以外としては初めて1位で[ヒューストン・ロケッツ](../Page/ヒューストン・ロケッツ.md "wikilink")に指名され、[2005年](../Page/2005年.md "wikilink")、[2006年](../Page/2006年.md "wikilink")には連続で外国出身の選手が1位で指名された（2006年の[イタリア](../Page/イタリア.md "wikilink")出身[アンドレア・バルニャーニ](../Page/アンドレア・バルニャーニ.md "wikilink")は欧州人初）。
 
-2001年から2010年は[マディソン・スクエア・ガーデン](https://ja.wikipedia.org/wiki/マディソン・スクエア・ガーデン "wikilink")での開催が続いたが、2011年、2012年は[MSGが改修工事が行われている関係で](https://ja.wikipedia.org/wiki/マディソン・スクエア・ガーデン "wikilink")、ニュージャージー州ニューアークの[プルデンシャル・センター](../Page/プルデンシャル・センター.md "wikilink")で開催された。2013年、2014年は[バークレイズ・センター](https://ja.wikipedia.org/wiki/バークレイズ・センター "wikilink")で開催された。
+2001年から2010年は[マディソン・スクエア・ガーデン](../Page/マディソン・スクエア・ガーデン.md "wikilink")での開催が続いたが、2011年、2012年は[MSGが改修工事が行われている関係で](../Page/マディソン・スクエア・ガーデン.md "wikilink")、ニュージャージー州ニューアークの[プルデンシャル・センター](../Page/プルデンシャル・センター.md "wikilink")で開催された。2013年、2014年は[バークレイズ・センター](https://ja.wikipedia.org/wiki/バークレイズ・センター "wikilink")で開催された。
 
 ## テレビ放送
 
-1980年よりアメリカのケーブルテレビ向け娯楽専門テレビ放送局で、現在は3大ネットワークの[NBC](https://ja.wikipedia.org/wiki/NBC "wikilink")などと共に、[NBCユニバーサル](https://ja.wikipedia.org/wiki/NBCユニバーサル "wikilink")の傘下にある[USAネットワーク](../Page/USAネットワーク.md "wikilink")で、1984年まで放映されており、NHL,NFLも同年から放送を開始している。1985年からは米タイム・ワーナー傘下の[ターナー・ブロードキャスティング・システム](../Page/ターナー・ブロードキャスティング・システム.md "wikilink")が運営する[TBS (アメリカのテレビジョン放送)で](https://ja.wikipedia.org/wiki/TBS_\(アメリカのテレビジョン放送\) "wikilink")"NBA on TBS"パッケージの一部として放送を開始し、1990年から2002年は"NBA on [TNT](../Page/TNT.md "wikilink")"に移動した。[ESPN](../Page/ESPN.md "wikilink")が2002年にNBCから放送権を獲得し2003年から“NBA on ESPN”で放送が開始し現在に至っている。
+1980年よりアメリカのケーブルテレビ向け娯楽専門テレビ放送局で、現在は3大ネットワークの[NBC](../Page/NBC.md "wikilink")などと共に、[NBCユニバーサル](../Page/NBCユニバーサル.md "wikilink")の傘下にある[USAネットワーク](../Page/USAネットワーク.md "wikilink")で、1984年まで放映されており、NHL,NFLも同年から放送を開始している。1985年からは米タイム・ワーナー傘下の[ターナー・ブロードキャスティング・システム](../Page/ターナー・ブロードキャスティング・システム.md "wikilink")が運営する[TBS (アメリカのテレビジョン放送)で](https://ja.wikipedia.org/wiki/TBS_\(アメリカのテレビジョン放送\) "wikilink")"NBA on TBS"パッケージの一部として放送を開始し、1990年から2002年は"NBA on [TNT](../Page/TNT.md "wikilink")"に移動した。[ESPN](../Page/ESPN.md "wikilink")が2002年にNBCから放送権を獲得し2003年から“NBA on ESPN”で放送が開始し現在に至っている。
 
 ## 1位指名選手一覧
 
@@ -176,25 +176,25 @@ NBAのドラフト抽選(ロッタリー)は、前シーズンにプレーオフ
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/センター_(バスケットボール)" title="wikilink">C</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カンザス州立大学" title="wikilink">カンザス州立大学</a></p></td>
+<td><p><a href="../Page/センター_(バスケットボール).md" title="wikilink">C</a></p></td>
+<td><p><a href="../Page/カンザス州立大学.md" title="wikilink">カンザス州立大学</a></p></td>
 <td></td>
 <td><p>?</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1950年のNBAドラフト" title="wikilink">1950</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ボストン・セルティックス" title="wikilink">ボストン・セルティックス</a></p></td>
+<td><p><a href="../Page/ボストン・セルティックス.md" title="wikilink">ボストン・セルティックス</a></p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/センター_(バスケットボール)" title="wikilink">C</a></p></td>
+<td><p><a href="../Page/センター_(バスケットボール).md" title="wikilink">C</a></p></td>
 <td><p><a href="../Page/ボーリング・グリーン州立大学.md" title="wikilink">ボーリング・グリーン州立大学</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1951年のNBAドラフト" title="wikilink">1951</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ワシントン・ウィザーズ" title="wikilink">ボルティモア・ブレッツ</a></p></td>
+<td><p><a href="../Page/ワシントン・ウィザーズ.md" title="wikilink">ボルティモア・ブレッツ</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -205,18 +205,18 @@ NBAのドラフト抽選(ロッタリー)は、前シーズンにプレーオフ
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1952年のNBAドラフト" title="wikilink">1952</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アトランタ・ホークス" title="wikilink">ミルウォーキー・ホークス</a></p></td>
+<td><p><a href="../Page/アトランタ・ホークス.md" title="wikilink">ミルウォーキー・ホークス</a></p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/センター_(バスケットボール)" title="wikilink">C</a></p></td>
+<td><p><a href="../Page/センター_(バスケットボール).md" title="wikilink">C</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ウェストバージニア大学" title="wikilink">ウェストバージニア大学</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1953年のNBAドラフト" title="wikilink">1953</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ワシントン・ウィザーズ" title="wikilink">ボルティモア・ブレッツ</a></p></td>
+<td><p><a href="../Page/ワシントン・ウィザーズ.md" title="wikilink">ボルティモア・ブレッツ</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/レイ・フェリックス" title="wikilink">レイ・フェリックス</a></strong></p></td>
 <td></td>
 <td></td>
@@ -227,7 +227,7 @@ NBAのドラフト抽選(ロッタリー)は、前シーズンにプレーオフ
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1954年のNBAドラフト" title="wikilink">1954</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ワシントン・ウィザーズ" title="wikilink">ボルティモア・ブレッツ</a></p></td>
+<td><p><a href="../Page/ワシントン・ウィザーズ.md" title="wikilink">ボルティモア・ブレッツ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フランク・セルヴィ" title="wikilink">フランク・セルヴィ</a></p></td>
 <td></td>
 <td></td>
@@ -238,29 +238,29 @@ NBAのドラフト抽選(ロッタリー)は、前シーズンにプレーオフ
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1955年のNBAドラフト" title="wikilink">1955</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アトランタ・ホークス" title="wikilink">ミルウォーキー・ホークス</a></p></td>
+<td><p><a href="../Page/アトランタ・ホークス.md" title="wikilink">ミルウォーキー・ホークス</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デュケイン大学" title="wikilink">デュケイン大学</a></p></td>
+<td><p><a href="../Page/デュケイン大学.md" title="wikilink">デュケイン大学</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1956年のNBAドラフト" title="wikilink">1956</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サクラメント・キングス" title="wikilink">ロチェスター・ロイヤルズ</a></p></td>
+<td><p><a href="../Page/サクラメント・キングス.md" title="wikilink">ロチェスター・ロイヤルズ</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デュケイン大学" title="wikilink">デュケイン大学</a></p></td>
+<td><p><a href="../Page/デュケイン大学.md" title="wikilink">デュケイン大学</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1957年のNBAドラフト" title="wikilink">1957</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サクラメント・キングス" title="wikilink">シンシナティ・ロイヤルズ</a></p></td>
+<td><p><a href="../Page/サクラメント・キングス.md" title="wikilink">シンシナティ・ロイヤルズ</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -282,19 +282,19 @@ NBAのドラフト抽選(ロッタリー)は、前シーズンにプレーオフ
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1959年のNBAドラフト" title="wikilink">1959</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サクラメント・キングス" title="wikilink">シンシナティ・ロイアルズ</a></p></td>
+<td><p><a href="../Page/サクラメント・キングス.md" title="wikilink">シンシナティ・ロイアルズ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ボブ・ブーザー" title="wikilink">ボブ・ブーザー</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/バスケットボール#フォワード（F）" title="wikilink">Forward</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カンザス州立大学" title="wikilink">カンザス州立大学</a></p></td>
+<td><p><a href="../Page/カンザス州立大学.md" title="wikilink">カンザス州立大学</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1960年のNBAドラフト" title="wikilink">1960</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サクラメント・キングス" title="wikilink">シンシナティ・ロイアルズ</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/オスカー・ロバートソン" title="wikilink">オスカー・ロバートソン</a></strong></p></td>
+<td><p><a href="../Page/サクラメント・キングス.md" title="wikilink">シンシナティ・ロイアルズ</a></p></td>
+<td><p><strong><a href="../Page/オスカー・ロバートソン.md" title="wikilink">オスカー・ロバートソン</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -304,18 +304,18 @@ NBAのドラフト抽選(ロッタリー)は、前シーズンにプレーオフ
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1961年のNBAドラフト" title="wikilink">1961</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ワシントン・ウィザーズ" title="wikilink">シカゴ・パッカーズ</a></p></td>
+<td><p><a href="../Page/ワシントン・ウィザーズ.md" title="wikilink">シカゴ・パッカーズ</a></p></td>
 <td><p><strong><a href="../Page/ウォルト・ベラミー.md" title="wikilink">ウォルト・ベラミー</a></strong></p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/センター_(バスケットボール)" title="wikilink">C</a></p></td>
+<td><p><a href="../Page/センター_(バスケットボール).md" title="wikilink">C</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/インディアナ大学" title="wikilink">インディアナ大学</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1962年のNBAドラフト" title="wikilink">1962</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ワシントン・ウィザーズ" title="wikilink">シカゴ・ゼファーズ</a></p></td>
+<td><p><a href="../Page/ワシントン・ウィザーズ.md" title="wikilink">シカゴ・ゼファーズ</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -326,29 +326,29 @@ NBAのドラフト抽選(ロッタリー)は、前シーズンにプレーオフ
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1963年のNBAドラフト" title="wikilink">1963</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ニューヨーク・ニックス" title="wikilink">ニューヨーク・ニックス</a></p></td>
+<td><p><a href="../Page/ニューヨーク・ニックス.md" title="wikilink">ニューヨーク・ニックス</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/シューティングガード" title="wikilink">SG</a>/<a href="https://ja.wikipedia.org/wiki/スモールフォワード" title="wikilink">SF</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デューク大学" title="wikilink">デューク大学</a></p></td>
+<td><p><a href="../Page/デューク大学.md" title="wikilink">デューク大学</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1964年のNBAドラフト" title="wikilink">1964</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ニューヨーク・ニックス" title="wikilink">ニューヨーク・ニックス</a></p></td>
+<td><p><a href="../Page/ニューヨーク・ニックス.md" title="wikilink">ニューヨーク・ニックス</a></p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/パワーフォワード" title="wikilink">PF</a>/<a href="https://ja.wikipedia.org/wiki/センター_(バスケットボール)" title="wikilink">C</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/パワーフォワード" title="wikilink">PF</a>/<a href="../Page/センター_(バスケットボール).md" title="wikilink">C</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/テキサス大学エルパソ校" title="wikilink">テキサス大学エルパソ校</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1965年のNBAドラフト" title="wikilink">1965</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ゴールデンステート・ウォリアーズ" title="wikilink">サンフランシスコウォリアーズ</a></p></td>
+<td><p><a href="../Page/ゴールデンステート・ウォリアーズ.md" title="wikilink">サンフランシスコウォリアーズ</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -359,18 +359,18 @@ NBAのドラフト抽選(ロッタリー)は、前シーズンにプレーオフ
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1966年のNBAドラフト" title="wikilink">1966</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ニューヨーク・ニックス" title="wikilink">ニューヨーク・ニックス</a></p></td>
+<td><p><a href="../Page/ニューヨーク・ニックス.md" title="wikilink">ニューヨーク・ニックス</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/カジー・ラッセル" title="wikilink">カジー・ラッセル</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/シューティングガード" title="wikilink">SG</a>/<a href="https://ja.wikipedia.org/wiki/スモールフォワード" title="wikilink">SF</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミシガン大学" title="wikilink">ミシガン大学</a></p></td>
+<td><p><a href="../Page/ミシガン大学.md" title="wikilink">ミシガン大学</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1967年のNBAドラフト" title="wikilink">1967</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デトロイト・ピストンズ" title="wikilink">デトロイト・ピストンズ</a></p></td>
+<td><p><a href="../Page/デトロイト・ピストンズ.md" title="wikilink">デトロイト・ピストンズ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジミー・ウォーカー_(バスケットボール)" title="wikilink">ジミー・ウォーカー</a></p></td>
 <td></td>
 <td></td>
@@ -381,62 +381,62 @@ NBAのドラフト抽選(ロッタリー)は、前シーズンにプレーオフ
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1968年のNBAドラフト" title="wikilink">1968</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヒューストン・ロケッツ" title="wikilink">サンディエゴ・ロケッツ</a></p></td>
+<td><p><a href="../Page/ヒューストン・ロケッツ.md" title="wikilink">サンディエゴ・ロケッツ</a></p></td>
 <td><p><a href="../Page/エルヴィン・ヘイズ.md" title="wikilink">エルヴィン・ヘイズ</a></p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/パワーフォワード" title="wikilink">PF</a>/<a href="https://ja.wikipedia.org/wiki/センター_(バスケットボール)" title="wikilink">C</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/パワーフォワード" title="wikilink">PF</a>/<a href="../Page/センター_(バスケットボール).md" title="wikilink">C</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ヒューストン大学" title="wikilink">ヒューストン大学</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1969年のNBAドラフト" title="wikilink">1969</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミルウォーキー・バックス" title="wikilink">ミルウォーキー・バックス</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/カリーム・アブドゥル＝ジャバー" title="wikilink">ルー・アルシンド(カリーム・アブドゥル＝ジャバー)</a></strong></p></td>
+<td><p><a href="../Page/ミルウォーキー・バックス.md" title="wikilink">ミルウォーキー・バックス</a></p></td>
+<td><p><strong><a href="../Page/カリーム・アブドゥル＝ジャバー.md" title="wikilink">ルー・アルシンド(カリーム・アブドゥル＝ジャバー)</a></strong></p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/センター_(バスケットボール)" title="wikilink">C</a></p></td>
+<td><p><a href="../Page/センター_(バスケットボール).md" title="wikilink">C</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UCLA" title="wikilink">UCLA</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1970年のNBAドラフト" title="wikilink">1970</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デトロイト・ピストンズ" title="wikilink">デトロイト・ピストンズ</a></p></td>
+<td><p><a href="../Page/デトロイト・ピストンズ.md" title="wikilink">デトロイト・ピストンズ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ボブ・レイニア" title="wikilink">ボブ・レイニア</a></p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/センター_(バスケットボール)" title="wikilink">C</a></p></td>
+<td><p><a href="../Page/センター_(バスケットボール).md" title="wikilink">C</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/セント・ボナベンチャー大学" title="wikilink">セント・ボナベンチャー大学</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1971年のNBAドラフト" title="wikilink">1971</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クリーブランド・キャバリアーズ" title="wikilink">クリーブランド・キャバリアーズ</a></p></td>
+<td><p><a href="../Page/クリーブランド・キャバリアーズ.md" title="wikilink">クリーブランド・キャバリアーズ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/オースティン・カー" title="wikilink">オースティン・カー</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/バスケットボール#ガード（G）" title="wikilink">Guard</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ノートルダム大学" title="wikilink">ノートルダム大学</a></p></td>
+<td><p><a href="../Page/ノートルダム大学.md" title="wikilink">ノートルダム大学</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1972年のNBAドラフト" title="wikilink">1972</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ポートランド・トレイルブレイザーズ" title="wikilink">ポートランド・トレイルブレイザーズ</a></p></td>
+<td><p><a href="../Page/ポートランド・トレイルブレイザーズ.md" title="wikilink">ポートランド・トレイルブレイザーズ</a></p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/センター_(バスケットボール)" title="wikilink">C</a></p></td>
+<td><p><a href="../Page/センター_(バスケットボール).md" title="wikilink">C</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ロヨラ大学" title="wikilink">ロヨラ大学</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1973年のNBAドラフト" title="wikilink">1973</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フィラデルフィア・セブンティシクサーズ" title="wikilink">フィラデルフィア・76サーズ</a></p></td>
+<td><p><a href="../Page/フィラデルフィア・セブンティシクサーズ.md" title="wikilink">フィラデルフィア・76サーズ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ダグ・コリンズ" title="wikilink">ダグ・コリンズ</a></p></td>
 <td></td>
 <td></td>
@@ -447,29 +447,29 @@ NBAのドラフト抽選(ロッタリー)は、前シーズンにプレーオフ
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1974年のNBAドラフト" title="wikilink">1974</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ポートランド・トレイルブレイザーズ" title="wikilink">ポートランド・トレイルブレイザーズ</a></p></td>
+<td><p><a href="../Page/ポートランド・トレイルブレイザーズ.md" title="wikilink">ポートランド・トレイルブレイザーズ</a></p></td>
 <td><p><a href="../Page/ビル・ウォルトン.md" title="wikilink">ビル・ウォルトン</a></p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/センター_(バスケットボール)" title="wikilink">C</a></p></td>
+<td><p><a href="../Page/センター_(バスケットボール).md" title="wikilink">C</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UCLA" title="wikilink">UCLA</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1975年のNBAドラフト" title="wikilink">1975</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アトランタ・ホークス" title="wikilink">アトランタ・ホークス</a></p></td>
+<td><p><a href="../Page/アトランタ・ホークス.md" title="wikilink">アトランタ・ホークス</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/デイヴィッド・トンプソン_(バスケットボール)" title="wikilink">デビッド・トンプソン</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/シューティングガード" title="wikilink">SG</a>/<a href="https://ja.wikipedia.org/wiki/スモールフォワード" title="wikilink">SF</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ノースカロライナ州立大学" title="wikilink">ノースカロライナ州立大学</a></p></td>
+<td><p><a href="../Page/ノースカロライナ州立大学.md" title="wikilink">ノースカロライナ州立大学</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1976年のNBAドラフト" title="wikilink">1976</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヒューストン・ロケッツ" title="wikilink">ヒューストン・ロケッツ</a></p></td>
+<td><p><a href="../Page/ヒューストン・ロケッツ.md" title="wikilink">ヒューストン・ロケッツ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジョン・ルーカス" title="wikilink">ジョン・ルーカス</a></p></td>
 <td></td>
 <td></td>
@@ -480,18 +480,18 @@ NBAのドラフト抽選(ロッタリー)は、前シーズンにプレーオフ
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1977年のNBAドラフト" title="wikilink">1977</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミルウォーキー・バックス" title="wikilink">ミルウォーキー・バックス</a></p></td>
+<td><p><a href="../Page/ミルウォーキー・バックス.md" title="wikilink">ミルウォーキー・バックス</a></p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/センター_(バスケットボール)" title="wikilink">C</a></p></td>
+<td><p><a href="../Page/センター_(バスケットボール).md" title="wikilink">C</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/インディアナ大学" title="wikilink">インディアナ大学</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1978年のNBAドラフト" title="wikilink">1978</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ポートランド・トレイルブレイザーズ" title="wikilink">ポートランド・トレイルブレイザーズ</a></p></td>
+<td><p><a href="../Page/ポートランド・トレイルブレイザーズ.md" title="wikilink">ポートランド・トレイルブレイザーズ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/マイカル・トンプソン" title="wikilink">マイカル・トンプソン</a></p></td>
 <td></td>
 <td></td>
@@ -507,24 +507,24 @@ NBAのドラフト抽選(ロッタリー)は、前シーズンにプレーオフ
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミシガン州立大学" title="wikilink">ミシガン州立大学</a></p></td>
+<td><p><a href="../Page/ミシガン州立大学.md" title="wikilink">ミシガン州立大学</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1980年のNBAドラフト" title="wikilink">1980</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ゴールデンステート・ウォリアーズ" title="wikilink">ゴールデンステート・ウォリアーズ</a></p></td>
+<td><p><a href="../Page/ゴールデンステート・ウォリアーズ.md" title="wikilink">ゴールデンステート・ウォリアーズ</a></p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/センター_(バスケットボール)" title="wikilink">C</a></p></td>
+<td><p><a href="../Page/センター_(バスケットボール).md" title="wikilink">C</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/パーデュー大学" title="wikilink">パーデュー大学</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1981年のNBAドラフト" title="wikilink">1981</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ダラス・マーベリックス" title="wikilink">ダラス・マーベリックス</a></p></td>
+<td><p><a href="../Page/ダラス・マーベリックス.md" title="wikilink">ダラス・マーベリックス</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -546,33 +546,33 @@ NBAのドラフト抽選(ロッタリー)は、前シーズンにプレーオフ
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1983年のNBAドラフト" title="wikilink">1983</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヒューストン・ロケッツ" title="wikilink">ヒューストン・ロケッツ</a></p></td>
+<td><p><a href="../Page/ヒューストン・ロケッツ.md" title="wikilink">ヒューストン・ロケッツ</a></p></td>
 <td><p>'''<a href="../Page/ラルフ・サンプソン.md" title="wikilink">ラルフ・サンプソン</a></p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/センター_(バスケットボール)" title="wikilink">C</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/バージニア大学" title="wikilink">バージニア大学</a></p></td>
+<td><p><a href="../Page/センター_(バスケットボール).md" title="wikilink">C</a></p></td>
+<td><p><a href="../Page/バージニア大学.md" title="wikilink">バージニア大学</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1985年のNBAドラフト" title="wikilink">1985</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ニューヨーク・ニックス" title="wikilink">ニューヨーク・ニックス</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/パトリック・ユーイング" title="wikilink">パトリック・ユーイング</a></strong></p></td>
+<td><p><a href="../Page/ニューヨーク・ニックス.md" title="wikilink">ニューヨーク・ニックス</a></p></td>
+<td><p><strong><a href="../Page/パトリック・ユーイング.md" title="wikilink">パトリック・ユーイング</a></strong></p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/センター_(バスケットボール)" title="wikilink">C</a></p></td>
+<td><p><a href="../Page/センター_(バスケットボール).md" title="wikilink">C</a></p></td>
 <td><p><a href="../Page/ジョージタウン大学.md" title="wikilink">ジョージタウン大学</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1986年のNBAドラフト" title="wikilink">1986</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クリーブランド・キャバリアーズ" title="wikilink">クリーブランド・キャバリアーズ</a></p></td>
+<td><p><a href="../Page/クリーブランド・キャバリアーズ.md" title="wikilink">クリーブランド・キャバリアーズ</a></p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/センター_(バスケットボール)" title="wikilink">C</a></p></td>
+<td><p><a href="../Page/センター_(バスケットボール).md" title="wikilink">C</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ノースカロライナ大学" title="wikilink">ノースカロライナ大学</a></p></td>
 <td></td>
 <td></td>
@@ -580,32 +580,32 @@ NBAのドラフト抽選(ロッタリー)は、前シーズンにプレーオフ
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1987年のNBAドラフト" title="wikilink">1987</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/サンアントニオ・スパーズ" title="wikilink">サンアントニオ・スパーズ</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/デビッド・ロビンソン" title="wikilink">デビッド・ロビンソン</a></strong></p></td>
+<td><p><strong><a href="../Page/デビッド・ロビンソン.md" title="wikilink">デビッド・ロビンソン</a></strong></p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/センター_(バスケットボール)" title="wikilink">C</a></p></td>
+<td><p><a href="../Page/センター_(バスケットボール).md" title="wikilink">C</a></p></td>
 <td><p><a href="../Page/海軍兵学校_(アメリカ合衆国).md" title="wikilink">海軍兵学校</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1988年のNBAドラフト" title="wikilink">1988</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロサンゼルス・クリッパーズ" title="wikilink">ロサンゼルス・クリッパーズ</a></p></td>
+<td><p><a href="../Page/ロサンゼルス・クリッパーズ.md" title="wikilink">ロサンゼルス・クリッパーズ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ダニー・マニング" title="wikilink">ダニー・マニング</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/バスケットボール#フォワード（F）" title="wikilink">Forward</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カンザス大学" title="wikilink">カンザス大学</a></p></td>
+<td><p><a href="../Page/カンザス大学.md" title="wikilink">カンザス大学</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1989年のNBAドラフト" title="wikilink">1989</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サクラメント・キングス" title="wikilink">サクラメント・キングス</a></p></td>
+<td><p><a href="../Page/サクラメント・キングス.md" title="wikilink">サクラメント・キングス</a></p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/センター_(バスケットボール)" title="wikilink">C</a></p></td>
+<td><p><a href="../Page/センター_(バスケットボール).md" title="wikilink">C</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ルイスビル大学" title="wikilink">ルイスビル大学</a></p></td>
 <td></td>
 <td></td>
@@ -617,7 +617,7 @@ NBAのドラフト抽選(ロッタリー)は、前シーズンにプレーオフ
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シラキュース大学" title="wikilink">シラキュース大学</a></p></td>
+<td><p><a href="../Page/シラキュース大学.md" title="wikilink">シラキュース大学</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -634,29 +634,29 @@ NBAのドラフト抽選(ロッタリー)は、前シーズンにプレーオフ
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1992年のNBAドラフト" title="wikilink">1992</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オーランド・マジック" title="wikilink">オーランド・マジック</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/シャキール・オニール" title="wikilink">シャキール・オニール</a></strong></p></td>
+<td><p><a href="../Page/オーランド・マジック.md" title="wikilink">オーランド・マジック</a></p></td>
+<td><p><strong><a href="../Page/シャキール・オニール.md" title="wikilink">シャキール・オニール</a></strong></p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/センター_(バスケットボール)" title="wikilink">C</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ルイジアナ州立大学" title="wikilink">ルイジアナ州立大学</a></p></td>
+<td><p><a href="../Page/センター_(バスケットボール).md" title="wikilink">C</a></p></td>
+<td><p><a href="../Page/ルイジアナ州立大学.md" title="wikilink">ルイジアナ州立大学</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1993年のNBAドラフト" title="wikilink">1993</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オーランド・マジック" title="wikilink">オーランド・マジック</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/クリス・ウェバー" title="wikilink">クリス・ウェバー</a></strong></p></td>
+<td><p><a href="../Page/オーランド・マジック.md" title="wikilink">オーランド・マジック</a></p></td>
+<td><p><strong><a href="../Page/クリス・ウェバー.md" title="wikilink">クリス・ウェバー</a></strong></p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/バスケットボール#フォワード（F）" title="wikilink">Forward</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミシガン大学" title="wikilink">ミシガン大学</a></p></td>
+<td><p><a href="../Page/ミシガン大学.md" title="wikilink">ミシガン大学</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1994年のNBAドラフト" title="wikilink">1994</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミルウォーキー・バックス" title="wikilink">ミルウォーキー・バックス</a></p></td>
+<td><p><a href="../Page/ミルウォーキー・バックス.md" title="wikilink">ミルウォーキー・バックス</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/グレン・ロビンソン" title="wikilink">グレン・ロビンソン</a></p></td>
 <td></td>
 <td></td>
@@ -667,8 +667,8 @@ NBAのドラフト抽選(ロッタリー)は、前シーズンにプレーオフ
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1995年のNBAドラフト" title="wikilink">1995</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ゴールデンステート・ウォリアーズ" title="wikilink">ゴールデンステート・ウォリアーズ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョー・スミス" title="wikilink">ジョー・スミス</a></p></td>
+<td><p><a href="../Page/ゴールデンステート・ウォリアーズ.md" title="wikilink">ゴールデンステート・ウォリアーズ</a></p></td>
+<td><p><a href="../Page/ジョー・スミス.md" title="wikilink">ジョー・スミス</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/バスケットボール#フォワード（F）" title="wikilink">Forward</a></p></td>
@@ -678,8 +678,8 @@ NBAのドラフト抽選(ロッタリー)は、前シーズンにプレーオフ
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1996年のNBAドラフト" title="wikilink">1996</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フィラデルフィア・セブンティシクサーズ" title="wikilink">フィラデルフィア・76サーズ</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/アレン・アイバーソン" title="wikilink">アレン・アイバーソン</a></strong></p></td>
+<td><p><a href="../Page/フィラデルフィア・セブンティシクサーズ.md" title="wikilink">フィラデルフィア・76サーズ</a></p></td>
+<td><p><strong><a href="../Page/アレン・アイバーソン.md" title="wikilink">アレン・アイバーソン</a></strong></p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/バスケットボール#ガード（G）" title="wikilink">Guard</a></p></td>
@@ -690,40 +690,40 @@ NBAのドラフト抽選(ロッタリー)は、前シーズンにプレーオフ
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1997年のNBAドラフト" title="wikilink">1997</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/サンアントニオ・スパーズ" title="wikilink">サンアントニオ・スパーズ</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ティム・ダンカン" title="wikilink">ティム・ダンカン</a></strong></p></td>
+<td><p><strong><a href="../Page/ティム・ダンカン.md" title="wikilink">ティム・ダンカン</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウェイクフォレスト大学" title="wikilink">ウェイクフォレスト大学</a></p></td>
+<td><p><a href="../Page/ウェイクフォレスト大学.md" title="wikilink">ウェイクフォレスト大学</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1998年のNBAドラフト" title="wikilink">1998</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロサンゼルス・クリッパーズ" title="wikilink">ロサンゼルス・クリッパーズ</a></p></td>
+<td><p><a href="../Page/ロサンゼルス・クリッパーズ.md" title="wikilink">ロサンゼルス・クリッパーズ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/マイケル・オロウォカンディ" title="wikilink">マイケル・オロウォカンディ</a></p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/センター_(バスケットボール)" title="wikilink">C</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/パシフィック大学" title="wikilink">パシフィック大学</a></p></td>
+<td><p><a href="../Page/センター_(バスケットボール).md" title="wikilink">C</a></p></td>
+<td><p><a href="../Page/パシフィック大学.md" title="wikilink">パシフィック大学</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1999年のNBAドラフト" title="wikilink">1999</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シカゴ・ブルズ" title="wikilink">シカゴ・ブルズ</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/エルトン・ブランド" title="wikilink">エルトン・ブランド</a></strong></p></td>
+<td><p><a href="../Page/シカゴ・ブルズ.md" title="wikilink">シカゴ・ブルズ</a></p></td>
+<td><p><strong><a href="../Page/エルトン・ブランド.md" title="wikilink">エルトン・ブランド</a></strong></p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/バスケットボール#フォワード（F）" title="wikilink">Forward</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デューク大学" title="wikilink">デューク大学</a></p></td>
+<td><p><a href="../Page/デューク大学.md" title="wikilink">デューク大学</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2000年のNBAドラフト.md" title="wikilink">2000</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ニュージャージー・ネッツ" title="wikilink">ニュージャージー・ネッツ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ケニオン・マーティン" title="wikilink">ケニオン・マーティン</a></p></td>
+<td><p><a href="../Page/ケニオン・マーティン.md" title="wikilink">ケニオン・マーティン</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/バスケットボール#フォワード（F）" title="wikilink">Forward</a></p></td>
@@ -732,85 +732,85 @@ NBAのドラフト抽選(ロッタリー)は、前シーズンにプレーオフ
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2001年のNBAドラフト" title="wikilink">2001</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ワシントン・ウィザーズ" title="wikilink">ワシントン・ウィザーズ</a></p></td>
+<td><p><a href="../Page/2001年のNBAドラフト.md" title="wikilink">2001</a></p></td>
+<td><p><a href="../Page/ワシントン・ウィザーズ.md" title="wikilink">ワシントン・ウィザーズ</a></p></td>
 <td><p><a href="../Page/クワミ・ブラウン.md" title="wikilink">クワミ・ブラウン</a></p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/センター_(バスケットボール)" title="wikilink">C</a></p></td>
+<td><p><a href="../Page/センター_(バスケットボール).md" title="wikilink">C</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/グリン・アカデミー高" title="wikilink">グリン・アカデミー高</a> (<a href="https://ja.wikipedia.org/wiki/ブランズウィック_(ジョージア州)" title="wikilink">ブランズウィック</a>)</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/2002年のNBAドラフト" title="wikilink">2002</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヒューストン・ロケッツ" title="wikilink">ヒューストン・ロケッツ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/姚明" title="wikilink">姚明</a>(ヤオ・ミン)</p></td>
+<td><p><a href="../Page/ヒューストン・ロケッツ.md" title="wikilink">ヒューストン・ロケッツ</a></p></td>
+<td><p><a href="../Page/姚明.md" title="wikilink">姚明</a>(ヤオ・ミン)</p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/センター_(バスケットボール)" title="wikilink">C</a></p></td>
+<td><p><a href="../Page/センター_(バスケットボール).md" title="wikilink">C</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/シャンハイ・シャークス" title="wikilink">シャンハイ・シャークス</a> (<a href="https://ja.wikipedia.org/wiki/Chinese_Basketball_Association" title="wikilink">China</a>)</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/2003年のNBAドラフト" title="wikilink">2003</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クリーブランド・キャバリアーズ" title="wikilink">クリーブランド・キャバリアーズ</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/レブロン・ジェームズ" title="wikilink">レブロン・ジェームズ</a></strong></p></td>
+<td><p><a href="../Page/クリーブランド・キャバリアーズ.md" title="wikilink">クリーブランド・キャバリアーズ</a></p></td>
+<td><p><strong><a href="../Page/レブロン・ジェームズ.md" title="wikilink">レブロン・ジェームズ</a></strong></p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/バスケットボール#フォワード（F）" title="wikilink">Forward</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セント・ビンセント＝セント・メアリー高校" title="wikilink">セント・ビンセント＝セント・メアリー高校</a> (<a href="https://ja.wikipedia.org/wiki/アクロン_(オハイオ州)" title="wikilink">アクロン</a>)</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/セント・ビンセント＝セント・メアリー高校" title="wikilink">セント・ビンセント＝セント・メアリー高校</a> (<a href="../Page/アクロン_(オハイオ州).md" title="wikilink">アクロン</a>)</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/2004年のNBAドラフト" title="wikilink">2004</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オーランド・マジック" title="wikilink">オーランド・マジック</a></p></td>
+<td><p><a href="../Page/オーランド・マジック.md" title="wikilink">オーランド・マジック</a></p></td>
 <td><p><a href="../Page/ドワイト・ハワード.md" title="wikilink">ドワイト・ハワード</a></p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/センター_(バスケットボール)" title="wikilink">C</a></p></td>
+<td><p><a href="../Page/センター_(バスケットボール).md" title="wikilink">C</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/サウスウェスト・アトランタ・クリスチャン校" title="wikilink">サウスウェスト・アトランタ・クリスチャン校</a> (<a href="../Page/アトランタ.md" title="wikilink">アトランタ</a>)</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/2005年のNBAドラフト" title="wikilink">2005</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミルウォーキー・バックス" title="wikilink">ミルウォーキー・バックス</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アンドリュー・ボーガット" title="wikilink">アンドリュー・ボーガット</a></p></td>
+<td><p><a href="../Page/ミルウォーキー・バックス.md" title="wikilink">ミルウォーキー・バックス</a></p></td>
+<td><p><a href="../Page/アンドリュー・ボーガット.md" title="wikilink">アンドリュー・ボーガット</a></p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/センター_(バスケットボール)" title="wikilink">C</a></p></td>
+<td><p><a href="../Page/センター_(バスケットボール).md" title="wikilink">C</a></p></td>
 <td><p><a href="../Page/ユタ大学.md" title="wikilink">ユタ大学</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/2006年のNBAドラフト" title="wikilink">2006</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トロント・ラプターズ" title="wikilink">トロント・ラプターズ</a></p></td>
+<td><p><a href="../Page/トロント・ラプターズ.md" title="wikilink">トロント・ラプターズ</a></p></td>
 <td><p><a href="../Page/アンドレア・バルニャーニ.md" title="wikilink">アンドレア・バルニャーニ</a></p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/パラカネストロ・トレヴィーゾ.md" title="wikilink">パラカネストロ・トレヴィーゾ</a> (<a href="https://ja.wikipedia.org/wiki/セリエA_(バスケットボール)" title="wikilink">セリエA</a>)</p></td>
+<td><p><a href="../Page/パラカネストロ・トレヴィーゾ.md" title="wikilink">パラカネストロ・トレヴィーゾ</a> (<a href="../Page/セリエA_(バスケットボール).md" title="wikilink">セリエA</a>)</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/2007年のNBAドラフト" title="wikilink">2007</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ポートランド・トレイルブレイザーズ" title="wikilink">ポートランド・トレイルブレイザーズ</a></p></td>
+<td><p><a href="../Page/ポートランド・トレイルブレイザーズ.md" title="wikilink">ポートランド・トレイルブレイザーズ</a></p></td>
 <td><p><a href="../Page/グレッグ・オデン.md" title="wikilink">グレッグ・オデン</a></p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/センター_(バスケットボール)" title="wikilink">C</a></p></td>
+<td><p><a href="../Page/センター_(バスケットボール).md" title="wikilink">C</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/オハイオ州立大学" title="wikilink">オハイオ州立大学</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年のNBAドラフト" title="wikilink">2008</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シカゴ・ブルズ" title="wikilink">シカゴ・ブルズ</a></p></td>
+<td><p><a href="../Page/シカゴ・ブルズ.md" title="wikilink">シカゴ・ブルズ</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/デリック・ローズ" title="wikilink">デリック・ローズ</a></strong></p></td>
 <td></td>
 <td></td>
@@ -821,18 +821,18 @@ NBAのドラフト抽選(ロッタリー)は、前シーズンにプレーオフ
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/2009年のNBAドラフト" title="wikilink">2009</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロサンゼルス・クリッパーズ" title="wikilink">ロサンゼルス・クリッパーズ</a></p></td>
+<td><p><a href="../Page/ロサンゼルス・クリッパーズ.md" title="wikilink">ロサンゼルス・クリッパーズ</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ブレイク・グリフィン" title="wikilink">ブレイク・グリフィン</a></strong></p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/バスケットボール#フォワード（F）" title="wikilink">Forward</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オクラホマ大学" title="wikilink">オクラホマ大学</a></p></td>
+<td><p><a href="../Page/オクラホマ大学.md" title="wikilink">オクラホマ大学</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/2010年のNBAドラフト" title="wikilink">2010</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ワシントン・ウィザーズ" title="wikilink">ワシントン・ウィザーズ</a></p></td>
+<td><p><a href="../Page/ワシントン・ウィザーズ.md" title="wikilink">ワシントン・ウィザーズ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジョン・ウォール" title="wikilink">ジョン・ウォール</a></p></td>
 <td></td>
 <td></td>
@@ -843,18 +843,18 @@ NBAのドラフト抽選(ロッタリー)は、前シーズンにプレーオフ
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/2011年のNBAドラフト" title="wikilink">2011</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クリーブランド・キャバリアーズ" title="wikilink">クリーブランド・キャバリアーズ</a></p></td>
+<td><p><a href="../Page/クリーブランド・キャバリアーズ.md" title="wikilink">クリーブランド・キャバリアーズ</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/カイリー・アービング" title="wikilink">カイリー・アービング</a></strong></p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/バスケットボール#ガード（G）" title="wikilink">Guard</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デューク大学" title="wikilink">デューク大学</a></p></td>
+<td><p><a href="../Page/デューク大学.md" title="wikilink">デューク大学</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/2012年のNBAドラフト" title="wikilink">2012</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ニューオーリンズ・ペリカンズ" title="wikilink">ニューオーリンズ・ペリカンズ</a></p></td>
+<td><p><a href="../Page/ニューオーリンズ・ペリカンズ.md" title="wikilink">ニューオーリンズ・ペリカンズ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アンソニー・デイビス" title="wikilink">アンソニー・デイビス</a></p></td>
 <td></td>
 <td></td>
@@ -865,7 +865,7 @@ NBAのドラフト抽選(ロッタリー)は、前シーズンにプレーオフ
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/2013年のNBAドラフト" title="wikilink">2013</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クリーブランド・キャバリアーズ" title="wikilink">クリーブランド・キャバリアーズ</a></p></td>
+<td><p><a href="../Page/クリーブランド・キャバリアーズ.md" title="wikilink">クリーブランド・キャバリアーズ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アンソニー・ベネット" title="wikilink">アンソニー・ベネット</a></p></td>
 <td></td>
 <td></td>
@@ -876,18 +876,18 @@ NBAのドラフト抽選(ロッタリー)は、前シーズンにプレーオフ
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/2014年のNBAドラフト" title="wikilink">2014</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クリーブランド・キャバリアーズ" title="wikilink">クリーブランド・キャバリアーズ</a></p></td>
+<td><p><a href="../Page/クリーブランド・キャバリアーズ.md" title="wikilink">クリーブランド・キャバリアーズ</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/アンドリュー・ウィギンス" title="wikilink">アンドリュー・ウィギンス</a></strong></p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/シューティングガード" title="wikilink">SG</a>/<a href="https://ja.wikipedia.org/wiki/スモールフォワード" title="wikilink">SF</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カンザス大学" title="wikilink">カンザス大学</a></p></td>
+<td><p><a href="../Page/カンザス大学.md" title="wikilink">カンザス大学</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/2015年のNBAドラフト" title="wikilink">2015</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミネソタ・ティンバーウルブズ" title="wikilink">ミネソタ・ティンバーウルブズ</a></p></td>
+<td><p><a href="../Page/ミネソタ・ティンバーウルブズ.md" title="wikilink">ミネソタ・ティンバーウルブズ</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/カール＝アンソニー・タウンズ" title="wikilink">カール＝アンソニー・タウンズ</a></strong></p></td>
 <td></td>
 <td></td>
@@ -898,18 +898,18 @@ NBAのドラフト抽選(ロッタリー)は、前シーズンにプレーオフ
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/2016年のNBAドラフト" title="wikilink">2016</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フィラデルフィア・セブンティシクサーズ" title="wikilink">フィラデルフィア・セブンティシクサーズ</a></p></td>
+<td><p><a href="../Page/フィラデルフィア・セブンティシクサーズ.md" title="wikilink">フィラデルフィア・セブンティシクサーズ</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ベン・シモンズ" title="wikilink">ベン・シモンズ</a></strong></p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/スモールフォワード" title="wikilink">SF</a>/<a href="https://ja.wikipedia.org/wiki/パワーフォワード" title="wikilink">PF</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ルイジアナ州立大学" title="wikilink">ルイジアナ州立大学</a></p></td>
+<td><p><a href="../Page/ルイジアナ州立大学.md" title="wikilink">ルイジアナ州立大学</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/2017年のNBAドラフト" title="wikilink">2017</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フィラデルフィア・セブンティシクサーズ" title="wikilink">フィラデルフィア・セブンティシクサーズ</a></p></td>
+<td><p><a href="../Page/フィラデルフィア・セブンティシクサーズ.md" title="wikilink">フィラデルフィア・セブンティシクサーズ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/マーケル・フルツ" title="wikilink">マーケル・フルツ</a></p></td>
 <td></td>
 <td></td>
@@ -920,7 +920,7 @@ NBAのドラフト抽選(ロッタリー)は、前シーズンにプレーオフ
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/2018年のNBAドラフト" title="wikilink">2018</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フェニックス・サンズ" title="wikilink">フェニックス・サンズ</a></p></td>
+<td><p><a href="../Page/フェニックス・サンズ.md" title="wikilink">フェニックス・サンズ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ディアンドレ・エイトン" title="wikilink">ディアンドレ・エイトン</a></p></td>
 <td></td>
 <td></td>
@@ -931,12 +931,12 @@ NBAのドラフト抽選(ロッタリー)は、前シーズンにプレーオフ
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/2019年のNBAドラフト" title="wikilink">2019</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ニューオーリンズ・ペリカンズ" title="wikilink">ニューオーリンズ・ペリカンズ</a></p></td>
+<td><p><a href="../Page/ニューオーリンズ・ペリカンズ.md" title="wikilink">ニューオーリンズ・ペリカンズ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ザイオン・ウィリアムソン" title="wikilink">ザイオン・ウィリアムソン</a></p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デューク大学" title="wikilink">デューク大学</a></p></td>
+<td><p><a href="../Page/デューク大学.md" title="wikilink">デューク大学</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -949,7 +949,7 @@ NBAのドラフト抽選(ロッタリー)は、前シーズンにプレーオフ
 
   - [WNBAドラフト](https://ja.wikipedia.org/wiki/WNBAドラフト "wikilink")
   - [NFLドラフト](../Page/NFLドラフト.md "wikilink")
-  - [ドラフト会議 (MLB)](https://ja.wikipedia.org/wiki/ドラフト会議_\(MLB\) "wikilink")
+  - [ドラフト会議 (MLB)](../Page/ドラフト会議_\(MLB\).md "wikilink")
   - [NHLドラフト](../Page/NHLドラフト.md "wikilink")
   - [ドラフト会議 (MLS)](../Page/ドラフト会議_\(MLS\).md "wikilink")
 

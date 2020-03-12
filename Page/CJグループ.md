@@ -1,9 +1,9 @@
 > この記事は[CJ](https://ja.wikipedia.org/wiki/CJ)から翻訳されています。
 
 
-**CJグループ**（シージェイグループ）とは、[大韓民国](../Page/大韓民国.md "wikilink")の企業グループである。創業者は[サムスングループ](https://ja.wikipedia.org/wiki/サムスングループ "wikilink")の創業者である[李秉喆](../Page/李秉チョル.md "wikilink")（イ・ビョンチョル）、現会長は李在賢（イ・ジェヒョン）。
+**CJグループ**（シージェイグループ）とは、[大韓民国](../Page/大韓民国.md "wikilink")の企業グループである。創業者は[サムスングループ](../Page/サムスングループ.md "wikilink")の創業者である[李秉喆](../Page/李秉チョル.md "wikilink")（イ・ビョンチョル）、現会長は李在賢（イ・ジェヒョン）。
 
-1953年にサムスングループ初の製造業として（チェイルジェダン、漢字表記：第一製糖）工業株式会社を設立。表記の通り製糖業をはじめとする食品工業では韓国でもトップクラスに入るが、1993年にサムスングループと分離。[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")の映画会社[ドリームワークス](https://ja.wikipedia.org/wiki/ドリームワークス "wikilink")SKGへの出資を手がかりにエンターテインメント事業へも進出し、映画製作、映画館経営、ケーブルテレビ放送向け番組制作および配給、インターネットサービスなども手がける。
+1953年にサムスングループ初の製造業として（チェイルジェダン、漢字表記：第一製糖）工業株式会社を設立。表記の通り製糖業をはじめとする食品工業では韓国でもトップクラスに入るが、1993年にサムスングループと分離。[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")の映画会社[ドリームワークス](../Page/ドリームワークス.md "wikilink")SKGへの出資を手がかりにエンターテインメント事業へも進出し、映画製作、映画館経営、ケーブルテレビ放送向け番組制作および配給、インターネットサービスなども手がける。
 
 なお、CJとは、（第一製糖）の[ラテン文字](../Page/ラテン文字.md "wikilink")表記、に由来する。
 
@@ -30,10 +30,10 @@
 <!-- end list -->
 
   - CJ（持株会社）
-  - CJ第一製糖（加工食品および[飼料](https://ja.wikipedia.org/wiki/飼料 "wikilink")の製造、バイオ事業ほか）
+  - CJ第一製糖（加工食品および[飼料](../Page/飼料.md "wikilink")の製造、バイオ事業ほか）
   - CJ大韓通運（韓国における物流大手）
   - CJ建設
-  - CJフードビル（外食事業、[Nソウルタワー](https://ja.wikipedia.org/wiki/Nソウルタワー "wikilink")、[釜山タワー](https://ja.wikipedia.org/wiki/釜山タワー "wikilink")の運営）
+  - CJフードビル（外食事業、[Nソウルタワー](../Page/Nソウルタワー.md "wikilink")、[釜山タワー](../Page/釜山タワー.md "wikilink")の運営）
   - CJフレッシュウェイ（[給食](../Page/給食.md "wikilink")・食材流通事業、旧CJフードシステム）
   - [CJ CGV](https://ja.wikipedia.org/wiki/CJ_CGV "wikilink")（[シネマコンプレックス](../Page/シネマコンプレックス.md "wikilink")事業）
   - CJ 4DPLEX（体験型のシアターシート「[4DX](https://ja.wikipedia.org/wiki/4DX "wikilink")」を開発）
@@ -45,12 +45,12 @@
 
 <!-- end list -->
 
-  - [エバラCJフレッシュフーズ](https://ja.wikipedia.org/wiki/エバラCJフレッシュフーズ "wikilink")（[エバラ食品工業](https://ja.wikipedia.org/wiki/エバラ食品工業 "wikilink")との合弁企業）日本国内における家庭用チルド商品の販売\[1\]
+  - [エバラCJフレッシュフーズ](https://ja.wikipedia.org/wiki/エバラCJフレッシュフーズ "wikilink")（[エバラ食品工業](../Page/エバラ食品工業.md "wikilink")との合弁企業）日本国内における家庭用チルド商品の販売\[1\]
 
 ### 業務終了
 
   - CJインターネットジャパン（2004年にCJグループと日本の[ソフトバンクグループ](../Page/ソフトバンクグループ.md "wikilink")が共同設立。[BNEI](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")[オンラインゲーム事業と業務提携](https://ja.wikipedia.org/wiki/バンダイネットワークス "wikilink")。現在は[ネットマーブルジャパン](../Page/ネットマーブルジャパン.md "wikilink")としてグループ独立）2014年12月から[CJ E\&Mオンラインゲーム事業部であるNetmarbleと共にがCJグループから分離独立したため](https://ja.wikipedia.org/wiki/CJ_E&M "wikilink")、社名をネットマーブルジャパンに移行した。韓国CJグループ傘下のオンラインエンターテインメントの日本展開は終了\[2\]。
-  - CJビクターエンタテインメント（[ビクターエンタテインメントとの合弁](https://ja.wikipedia.org/wiki/JVCケンウッド・ビクターエンタテインメント "wikilink")。2010年設立されたが2017年に業務終了して日本から撤退\[3\]）
+  - CJビクターエンタテインメント（[ビクターエンタテインメントとの合弁](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")。2010年設立されたが2017年に業務終了して日本から撤退\[3\]）
   - [CJプライムショッピング](../Page/CJプライムショッピング.md "wikilink")（2011年1月にCJオーショッピングが日本の通信販売会社・プライムショッピングを買収）、2017年会社清算。
   - CJヘルスケア（2017年、韓国コルマーに売却）
 
@@ -69,17 +69,17 @@
 
 ## 関連人物
 
-  - [朴セリ](https://ja.wikipedia.org/wiki/朴セリ "wikilink")（女子プロゴルファー）
+  - [朴セリ](../Page/朴セリ.md "wikilink")（女子プロゴルファー）
 
 ## 脚注
 
 ## 関連項目
 
-  - [SUPERRACE CHAMPIONSHIP](https://ja.wikipedia.org/wiki/SUPERRACE_CHAMPIONSHIP "wikilink") - 同グループが[冠スポンサー](https://ja.wikipedia.org/wiki/冠スポンサー "wikilink")を務める韓国最大の[モータースポーツ](https://ja.wikipedia.org/wiki/モータースポーツ "wikilink")大会。
+  - [SUPERRACE CHAMPIONSHIP](https://ja.wikipedia.org/wiki/SUPERRACE_CHAMPIONSHIP "wikilink") - 同グループが[冠スポンサー](../Page/冠スポンサー.md "wikilink")を務める韓国最大の[モータースポーツ](https://ja.wikipedia.org/wiki/モータースポーツ "wikilink")大会。
 
 <!-- end list -->
 
-  - [CJカップ](https://ja.wikipedia.org/wiki/CJカップ "wikilink") - 同グループが[冠スポンサー](https://ja.wikipedia.org/wiki/冠スポンサー "wikilink")を務めるPGAツアーの大会。
+  - [CJカップ](https://ja.wikipedia.org/wiki/CJカップ "wikilink") - 同グループが[冠スポンサー](../Page/冠スポンサー.md "wikilink")を務めるPGAツアーの大会。
 
 ## リンク
 

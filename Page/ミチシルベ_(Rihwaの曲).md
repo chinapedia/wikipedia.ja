@@ -5,7 +5,7 @@
 
 ## 解説
 
-CDシングルとしては[2016年](../Page/2016年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")リリースの「[明日はきっといい日になる](https://ja.wikipedia.org/wiki/明日はきっといい日になる#Rihwaによるカバー "wikilink")」以来約1年8か月半ぶりのリリース。Rihwaは2017年2月末から[声帯ポリープ](https://ja.wikipedia.org/wiki/声帯ポリープ "wikilink")摘出手術のため一時休養しており\[3\]、本作が復帰作となる\[4\]。
+CDシングルとしては[2016年](../Page/2016年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")リリースの「[明日はきっといい日になる](https://ja.wikipedia.org/wiki/明日はきっといい日になる#Rihwaによるカバー "wikilink")」以来約1年8か月半ぶりのリリース。Rihwaは2017年2月末から[声帯ポリープ](../Page/声帯ポリープ.md "wikilink")摘出手術のため一時休養しており\[3\]、本作が復帰作となる\[4\]。
 
 通常盤のみのリリースとなり、新曲3曲が収録される。
 
@@ -17,7 +17,7 @@ CDシングルとしては[2016年](../Page/2016年.md "wikilink")[1月1日](../
 2.  **羽** \[3:37\]
 3.  **THE GATE** \[3:46\]
       -
-        [JRA](../Page/日本中央競馬会.md "wikilink")[札幌競馬場](../Page/札幌競馬場.md "wikilink")2017年度[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。
+        [JRA](../Page/日本中央競馬会.md "wikilink")[札幌競馬場](../Page/札幌競馬場.md "wikilink")2017年度[CMソング](../Page/コマーシャルソング.md "wikilink")。
 
 ## 脚注
 

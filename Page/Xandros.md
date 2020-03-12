@@ -1,7 +1,7 @@
 > この記事は[Xandros](https://ja.wikipedia.org/wiki/Xandros)から翻訳されています。
 
 
-**Xandros**（ザンドロス）は、デスクトップLinuxの一つ、あるいはそれを販売する[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")に存在するソフトウェア企業である。[2001年](../Page/2001年.md "wikilink")に[コーレル](../Page/コーレル.md "wikilink")社から*Corel LINUX*を買収し、改めて*Xandros*と命名して現在に至る。主に企業向けの低価格デスクトップ用である。製品版には[Skype](https://ja.wikipedia.org/wiki/Skype "wikilink")や[CodeWeaver](https://ja.wikipedia.org/wiki/CodeWeaver "wikilink") Officeなどをバンドルしている。
+**Xandros**（ザンドロス）は、デスクトップLinuxの一つ、あるいはそれを販売する[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")に存在するソフトウェア企業である。[2001年](../Page/2001年.md "wikilink")に[コーレル](../Page/コーレル.md "wikilink")社から*Corel LINUX*を買収し、改めて*Xandros*と命名して現在に至る。主に企業向けの低価格デスクトップ用である。製品版には[Skype](../Page/Skype.md "wikilink")や[CodeWeaver](https://ja.wikipedia.org/wiki/CodeWeaver "wikilink") Officeなどをバンドルしている。
 
 ## 関連項目
 

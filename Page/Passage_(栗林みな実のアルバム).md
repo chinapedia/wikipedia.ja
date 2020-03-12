@@ -1,7 +1,7 @@
 > この記事は[Passage \(\)](https://ja.wikipedia.org/wiki/Passage_\(\))から翻訳されています。
 
 
-『**passage**』（パッセージ）は、[栗林みな実](../Page/栗林みな実.md "wikilink")の2枚目の[アルバム](../Page/アルバム.md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月26日](../Page/4月26日.md "wikilink")に[Lantisから発売された](https://ja.wikipedia.org/wiki/ランティス "wikilink")。
+『**passage**』（パッセージ）は、[栗林みな実](../Page/栗林みな実.md "wikilink")の2枚目の[アルバム](../Page/アルバム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")に[Lantisから発売された](../Page/ランティス.md "wikilink")。
 
 ## 概要
 
@@ -18,7 +18,7 @@
 2.  **[Shining☆Days](https://ja.wikipedia.org/wiki/Shining☆Days "wikilink")**
       -
         作詞：栗林みな実／作曲・編曲：[飯塚昌明](../Page/飯塚昌明.md "wikilink")
-        シングル「Shining☆Days」収録。[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[舞-HiME](https://ja.wikipedia.org/wiki/舞-HiME "wikilink")』オープニング曲。シングル「Shining☆Days Re-Product\&Remix」には[リミックス](../Page/リミックス.md "wikilink")版を収録。
+        シングル「Shining☆Days」収録。[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[舞-HiME](../Page/舞-HiME.md "wikilink")』オープニング曲。シングル「Shining☆Days Re-Product\&Remix」には[リミックス](../Page/リミックス.md "wikilink")版を収録。
 3.  **[小さな星が降りる時](https://ja.wikipedia.org/wiki/Shining☆Days "wikilink")**
       -
         作詞・作曲：栗林みな実／編曲：飯塚昌明
@@ -26,19 +26,19 @@
 4.  **真夏のBirthday**
       -
         作詞・作曲：栗林みな実／編曲：飯塚昌明
-        [ラジオ大阪で放送された](../Page/大阪放送.md "wikilink")『[ちよれんちゃんねる♪](https://ja.wikipedia.org/wiki/ちよれんちゃんねる♪ "wikilink")』内の「シンガーソングライターみな実」のコーナーで誕生したオリジナル曲。アルバム収録に際して、飯塚昌明によるアレンジと1番までしかなかった歌詞に新たに2番が書き足された。
+        [ラジオ大阪で放送された](../Page/大阪放送.md "wikilink")『[ちよれんちゃんねる♪](../Page/ちよれんちゃんねる♪.md "wikilink")』内の「シンガーソングライターみな実」のコーナーで誕生したオリジナル曲。アルバム収録に際して、飯塚昌明によるアレンジと1番までしかなかった歌詞に新たに2番が書き足された。
 5.  **[Blue treasure](https://ja.wikipedia.org/wiki/Blue_treasure "wikilink")**
       -
         作詞・作曲：栗林みな実／編曲：飯塚昌明
-        シングル「Blue treasure」収録。テレビアニメ『[タイドライン・ブルー](https://ja.wikipedia.org/wiki/タイドライン・ブルー "wikilink")』オープニング曲。
+        シングル「Blue treasure」収録。テレビアニメ『[タイドライン・ブルー](../Page/タイドライン・ブルー.md "wikilink")』オープニング曲。
 6.  **あなたが…いない**
       -
         作詞：[江幡育子](https://ja.wikipedia.org/wiki/江幡育子 "wikilink")／作曲・編曲：飯塚昌明
-        PCゲーム『[School Days](https://ja.wikipedia.org/wiki/School_Days "wikilink")』エンディング曲。『School Days ヴォーカルアルバム』収録。
+        PCゲーム『[School Days](../Page/School_Days.md "wikilink")』エンディング曲。『School Days ヴォーカルアルバム』収録。
 7.  **[翼はPleasure Line](https://ja.wikipedia.org/wiki/翼はPleasure_Line "wikilink")**
       -
         作詞：[畑亜貴](../Page/畑亜貴.md "wikilink")／作曲・編曲：[上松範康](../Page/上松範康.md "wikilink")
-        シングル「翼はPleasure Line」収録。テレビアニメ『[クロノクルセイド](https://ja.wikipedia.org/wiki/クロノクルセイド "wikilink")』オープニング曲。
+        シングル「翼はPleasure Line」収録。テレビアニメ『[クロノクルセイド](../Page/クロノクルセイド.md "wikilink")』オープニング曲。
 8.  **[マブラヴ](https://ja.wikipedia.org/wiki/マブラヴ_\(曲\) "wikilink")**
       -
         作詞：江幡育子／作曲：SAGE KOIZUMI／編曲：飯塚昌明

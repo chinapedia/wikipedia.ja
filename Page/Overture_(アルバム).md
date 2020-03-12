@@ -1,7 +1,7 @@
 > この記事は[Overture \(\)](https://ja.wikipedia.org/wiki/Overture_\(\))から翻訳されています。
 
 
-『**Overture**』（オーバーチュア）は、[栗林みな実](../Page/栗林みな実.md "wikilink")の1枚目の[アルバム](../Page/アルバム.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")に[Lantisから発売された](https://ja.wikipedia.org/wiki/ランティス "wikilink")。
+『**Overture**』（オーバーチュア）は、[栗林みな実](../Page/栗林みな実.md "wikilink")の1枚目の[アルバム](../Page/アルバム.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")に[Lantisから発売された](../Page/ランティス.md "wikilink")。
 
 ## 概要
 
@@ -39,7 +39,7 @@
         『君が望む永遠』主題歌。栗林の事実上のデビュー曲。シングルカットはされていないが、『君が望む永遠 Soundtrack plus』や『SONGS FROM âge』など多数のサウンドトラック、ボーカルアルバム、ドラマCDに収録されている。またアレンジ版も多く、『君が望む永遠 Dramatheater vol.3 涼宮茜』と『SONGS FROM âge』にはアコースティックバージョン、『君が望む永遠 Dramatheater vol.1 涼宮遙』には[石橋朋子](../Page/石橋朋子.md "wikilink")とのツインボーカルバージョン、「マブラヴ BASXI Ver.」にはBASXIアレンジバージョンが収録されている。
 8.  **星空のワルツ**
       -
-        作詞・作曲：栗林みな実／編曲：[岩崎琢](https://ja.wikipedia.org/wiki/岩崎琢 "wikilink")
+        作詞・作曲：栗林みな実／編曲：[岩崎琢](../Page/岩崎琢.md "wikilink")
         シングル「君が望む永遠 Portrait\*2 遙」収録。テレビアニメ『君が望む永遠』エンディング曲。
 9.  **ひとことだけの勇気**
       -
@@ -55,7 +55,7 @@
         PCゲーム『マブラヴ』アンリミテッド編エンディング曲。『マブラヴ オリジナルサウンドトラック』収録。
 12. **[マブラヴ](https://ja.wikipedia.org/wiki/マブラヴ_\(曲\) "wikilink")**
       -
-        作詞：江幡育子／作曲：SAGE KOIZUMI／編曲：[磯江俊道](https://ja.wikipedia.org/wiki/磯江俊道 "wikilink")
+        作詞：江幡育子／作曲：SAGE KOIZUMI／編曲：[磯江俊道](../Page/磯江俊道.md "wikilink")
         シングル「マブラヴ」収録。PCゲーム『マブラヴ』オープニング曲。
 
 ## 外部リンク

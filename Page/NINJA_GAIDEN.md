@@ -1,17 +1,17 @@
 > この記事は[NINJA GAIDEN](https://ja.wikipedia.org/wiki/NINJA_GAIDEN)から翻訳されています。
 
 
-『**NINJA GAIDEN**』（ニンジャガイデン）は、[テクモ](../Page/テクモ.md "wikilink")が発売した[忍者](https://ja.wikipedia.org/wiki/忍者 "wikilink")[アクションアドベンチャーゲーム](https://ja.wikipedia.org/wiki/アクションアドベンチャーゲーム "wikilink")。開発は[Team NINJA](https://ja.wikipedia.org/wiki/Team_NINJA "wikilink")。通称「ニンジャガ」。
+『**NINJA GAIDEN**』（ニンジャガイデン）は、[テクモ](../Page/テクモ.md "wikilink")が発売した[忍者](../Page/忍者.md "wikilink")[アクションアドベンチャーゲーム](../Page/アクションアドベンチャーゲーム.md "wikilink")。開発は[Team NINJA](../Page/Team_NINJA.md "wikilink")。通称「ニンジャガ」。
 
-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")を最後に終了していた[忍者龍剣伝](https://ja.wikipedia.org/wiki/忍者龍剣伝 "wikilink")シリーズを、3D[アクションゲーム](../Page/アクションゲーム.md "wikilink")として蘇らせた[Xbox専用ソフト](../Page/Xbox_\(ゲーム機\).md "wikilink")。タイトルの『NINJA GAIDEN』は元々忍者龍剣伝の海外での名称だったが、このタイトルから日本名も海外名に合わせている。日本ではプラットフォームが比較的マイナーな[Xboxということもあり](../Page/Xbox_\(ゲーム機\).md "wikilink")、6万程度の売り上げだったが海外では高い評価を受けミリオンセラーとなった。
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")を最後に終了していた[忍者龍剣伝](../Page/忍者龍剣伝.md "wikilink")シリーズを、3D[アクションゲーム](../Page/アクションゲーム.md "wikilink")として蘇らせた[Xbox専用ソフト](../Page/Xbox_\(ゲーム機\).md "wikilink")。タイトルの『NINJA GAIDEN』は元々忍者龍剣伝の海外での名称だったが、このタイトルから日本名も海外名に合わせている。日本ではプラットフォームが比較的マイナーな[Xboxということもあり](../Page/Xbox_\(ゲーム機\).md "wikilink")、6万程度の売り上げだったが海外では高い評価を受けミリオンセラーとなった。
 
-キャッチコピーは「凄すぎて何が悪い」。 [Xbox 360でもプレイ可能](https://ja.wikipedia.org/wiki/Xbox_360 "wikilink")。
+キャッチコピーは「凄すぎて何が悪い」。 [Xbox 360でもプレイ可能](../Page/Xbox_360.md "wikilink")。
 
 本稿ではアップグレード版『**NINJA GAIDEN Black**』およびPS3版『**NINJA GAIDEN Σ**』についても解説する。
 
 ## ゲームシステム
 
-本作は[Team NINJAが](https://ja.wikipedia.org/wiki/Team_NINJA "wikilink")『[デッド オア アライブ3](https://ja.wikipedia.org/wiki/デッド_オア_アライブ3 "wikilink")』の次に手がけた作品であり、ゲームは60[fpsで動作する](https://ja.wikipedia.org/wiki/フレームレート "wikilink")\[1\]。[格闘ゲーム](https://ja.wikipedia.org/wiki/格闘ゲーム "wikilink")『[デッド オア アライブ シリーズ](https://ja.wikipedia.org/wiki/デッド_オア_アライブ_シリーズ "wikilink")』の開発ノウハウが活かされており、キャラクター対キャラクターに焦点が当てられたシステムが特徴\[2\]。一対複数の状況が基本であるにも関わらず、プレイヤーが取れるアクションのほとんどが一対一の状況を前提としたものであり、攻略にはシビアな操作が要求される。その高すぎる難易度が批判を浴びることもあった。
+本作は[Team NINJAが](../Page/Team_NINJA.md "wikilink")『[デッド オア アライブ3](https://ja.wikipedia.org/wiki/デッド_オア_アライブ3 "wikilink")』の次に手がけた作品であり、ゲームは60[fpsで動作する](../Page/フレームレート.md "wikilink")\[1\]。[格闘ゲーム](https://ja.wikipedia.org/wiki/格闘ゲーム "wikilink")『[デッド オア アライブ シリーズ](../Page/デッド_オア_アライブ_シリーズ.md "wikilink")』の開発ノウハウが活かされており、キャラクター対キャラクターに焦点が当てられたシステムが特徴\[2\]。一対複数の状況が基本であるにも関わらず、プレイヤーが取れるアクションのほとんどが一対一の状況を前提としたものであり、攻略にはシビアな操作が要求される。その高すぎる難易度が批判を浴びることもあった。
 
 ### 基本システム
 
@@ -61,7 +61,7 @@
 
   - 龍剣/真・龍剣
     龍の一族に代々伝わる[刀](../Page/刀.md "wikilink")。かつて龍の一族は、この刀の力によって邪悪な“黒龍”を葬ったと伝えられている。龍の勾玉を剣の柄にはめ込むことで、本来の姿である「真・龍剣」へと進化する。
-    『NINJA GAIDEN』の時点では龍剣はジョウ・ハヤブサの所有物であり、リュウはあくまで一時的に“預かっている”だけに過ぎなかった。しかし、『[NINJA GAIDEN 2](https://ja.wikipedia.org/wiki/NINJA_GAIDEN_2 "wikilink")』ではジョウより正式に託され、リュウの所有物となっている。『[無双OROCHI 2](https://ja.wikipedia.org/wiki/無双OROCHI_2 "wikilink")』では、龍剣には龍の魂が宿っており、並の人間が扱えばその魂にのまれてしまうという説明が、リュウ自身によりなされた。
+    『NINJA GAIDEN』の時点では龍剣はジョウ・ハヤブサの所有物であり、リュウはあくまで一時的に“預かっている”だけに過ぎなかった。しかし、『[NINJA GAIDEN 2](../Page/NINJA_GAIDEN_2.md "wikilink")』ではジョウより正式に託され、リュウの所有物となっている。『[無双OROCHI 2](https://ja.wikipedia.org/wiki/無双OROCHI_2 "wikilink")』では、龍剣には龍の魂が宿っており、並の人間が扱えばその魂にのまれてしまうという説明が、リュウ自身によりなされた。
     シリーズを共通して、ゲーム開始時から使える初期装備であり、高威力技の飯綱落とし、無敵技の飛燕、二種類存在する絶技など、技のバリエーションが豊富で癖が無く扱いやすいのが特徴。
   - 魔刀黒龍丸
     はるか昔に存在した生命体“黒龍”の骨から造り出された魔刀。その凶悪な魔力故に、龍の一族によって封印され、邪悪な者の手に渡らぬよう、長きに渡り護られ続けてきた。その力は、守護役である龍の一族ですら知り得ない。
@@ -82,7 +82,7 @@
 
 ### Σでの変更点
 
-システム面ではノーマルモードの難易度が全体的に見直され、謎解きの簡略化や新たなアクションを追加されている。システム面では弓の空中撃ち、回復アイテムのクィック使用などが拡張され、また後半の一部ステージがカットされた結果、原作『NINJA GAIDEN』に比して難易度は下がっている。本作独自の要素としては、SIXAXIS（6軸検出システム）を利用し、「[忍法](https://ja.wikipedia.org/wiki/忍法 "wikilink")」発動時にコントローラを上下に振ることで忍法が強力になるという操作方法がある。
+システム面ではノーマルモードの難易度が全体的に見直され、謎解きの簡略化や新たなアクションを追加されている。システム面では弓の空中撃ち、回復アイテムのクィック使用などが拡張され、また後半の一部ステージがカットされた結果、原作『NINJA GAIDEN』に比して難易度は下がっている。本作独自の要素としては、SIXAXIS（6軸検出システム）を利用し、「[忍法](../Page/忍法.md "wikilink")」発動時にコントローラを上下に振ることで忍法が強力になるという操作方法がある。
 
 原作『NINJA GAIDEN』において[Xbox LIVEにより実現されていた](https://ja.wikipedia.org/wiki/Xbox_LIVE "wikilink")「カルマランキング」は、PLAYSTATION Networkを代替手段として移植された。
 
@@ -106,7 +106,7 @@ DLCではPLAYSTATION Storeにて追加コンテンツ「サバイバルモード
 
 リュウと、神聖皇帝率いる帝国の、壮絶な闘いが幕を開けようとしていた。
 
-旧作と同様にリュウ・ハヤブサが主人公だが、時系列としてはファミコン版[忍者龍剣伝](https://ja.wikipedia.org/wiki/忍者龍剣伝 "wikilink")以前のストーリーとなっている。
+旧作と同様にリュウ・ハヤブサが主人公だが、時系列としてはファミコン版[忍者龍剣伝](../Page/忍者龍剣伝.md "wikilink")以前のストーリーとなっている。
 
 ## 世界観
 
@@ -125,10 +125,10 @@ DLCではPLAYSTATION Storeにて追加コンテンツ「サバイバルモード
 
 ## キャラクター
 
-  - リュウ・ハヤブサ （[声](../Page/声優.md "wikilink")：[堀秀行](https://ja.wikipedia.org/wiki/堀秀行 "wikilink")）
+  - リュウ・ハヤブサ （[声](../Page/声優.md "wikilink")：[堀秀行](../Page/堀秀行.md "wikilink")）
     太古の昔に存在したという生命体“龍神”の血筋を引き継ぐという、龍の一族の末裔。物語序盤は『忍者龍剣伝』のリュウのような、青い忍者装束を身に纏っているが、ゲームの進行に合わせて衣装が黒いラバースーツへ変化する。「龍剣」を所持しているものの、まだ父ジョウから力量を認められてはおらず、実際は一時的に預かっているだけに過ぎない。後年にあたる『忍者龍剣伝』に比べて口数が少なく、寡黙な性格となっている。
     Black以降では技と武器がプレイヤーと同一の敵キャラ「魔神ドッペルゲンガー」（Blackはリュウのボイスが加工されたもの、Σはリュウと同一、Σ　PLUSはボイスなし）が追加され、熟練プレイヤー並のコンボでプレイヤーを翻弄する。
-  - レイチェル（声：[富沢美智恵](https://ja.wikipedia.org/wiki/富沢美智恵 "wikilink")）
+  - レイチェル（声：[富沢美智恵](../Page/富沢美智恵.md "wikilink")）
     魔神を狩ることを生業とするヴィゴル帝国の魔神ハンター。彼女自身も魔神の血を引いており、その影響か女性でありながら魔神を粉砕できるほどの怪力を持つ。重鬼卿に成り果て、神聖皇帝の配下となってしまった妹アルマを探しており、自らの手で決着を着けんと、その痕跡を辿っている。
     後にΣ2で再登場を果たす。
   - 影一門頭領ムライ （声：[銀河万丈](../Page/銀河万丈.md "wikilink")）
@@ -140,7 +140,7 @@ DLCではPLAYSTATION Storeにて追加コンテンツ「サバイバルモード
     XBOX版の日本語設定のみ、台詞がある。
   - ムラマサ （声：[青野武](../Page/青野武.md "wikilink")）
     ヴィゴル帝国に店を構えている鍛冶屋。各地に彼の像があり、そこで武器の鍛練やアイテムの購入をすることができる。
-  - ガモフ （声：[江川央生](https://ja.wikipedia.org/wiki/江川央生 "wikilink")）
+  - ガモフ （声：[江川央生](../Page/江川央生.md "wikilink")）
     ヴィゴル帝国内務省の特務調査官。ヴィゴル軍の全権限を握っている。本編ではリュウと直接対決することがなく、基本的には上司である黒使大兄と共にリュウの動向を監視する。実は「2」の幻心の弟で、地蜘蛛側のスパイ。
     Σではレイチェルを操作するパートでボスとして戦える。武器は二丁拳銃とコンバットナイフ。
   - ダイナモ
@@ -151,7 +151,7 @@ DLCではPLAYSTATION Storeにて追加コンテンツ「サバイバルモード
     「Σ」で追加された敵。ダイナモとは兄弟であり、同じくヴィゴル軍の大将。掛け声や攻撃方法も同じ(ただし少々強化されている)。
   - 将門
     隼の里を襲撃した赤武者。ヴィゴル軍の中尉。「Σ」では体が炎に包まれている。魔神と思われるが詳細は不明。台詞がなく、英語と日本語設定の掛け声が同じ。
-  - ドーク（声：[戸谷公次](https://ja.wikipedia.org/wiki/戸谷公次 "wikilink")）
+  - ドーク（声：[戸谷公次](../Page/戸谷公次.md "wikilink")）
     重鬼卿の一人。見た目は黒い鎧を纏った侍だが、その顔は紫の炎ようなものになっている。中盤でリュウに倒され、彼の武器「妖刀鬼徹」も奪われたが、後半では幻の鬼徹を持っている怨霊として再度対決することになる。
     Σでは序盤で彼に倒された戦いも操作できる（XBOX版ではムービー）。
   - アルマ
@@ -162,7 +162,7 @@ DLCではPLAYSTATION Storeにて追加コンテンツ「サバイバルモード
   - ニケ
     ブラックで追加された重鬼卿。破壊の神。マルバスの手下として登場する。見た目が若干違うだけで掛け声や攻撃方法はアルマと同じ。
   - イシュタロス
-    ニケ同様ブラックで追加されたマルバスの手下である重鬼卿。創造の神。右手が[鞭](https://ja.wikipedia.org/wiki/鞭 "wikilink")のようになっており、振り回して攻撃してくる他、レーザー攻撃も行ってくる。
+    ニケ同様ブラックで追加されたマルバスの手下である重鬼卿。創造の神。右手が[鞭](../Page/鞭.md "wikilink")のようになっており、振り回して攻撃してくる他、レーザー攻撃も行ってくる。
     掛け声はアルマと同じ。
   - 黒使大兄
     マスクと黒フードとボイスチェンジャーによって正体を隠した、ヴィゴル帝国の謎の権力者。
@@ -177,13 +177,13 @@ DLCではPLAYSTATION Storeにて追加コンテンツ「サバイバルモード
 
 ## NINJA GAIDEN Black
 
-オリジナルの『**NINJA GAIDEN**』に、『ハリケーンパック1・2』で熟成されたシステムを加味し、その他にもミッションモードや難易度調整などが加え、アップグレード版として[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に発売された。板垣監督は「[Xbox LIVEに加入していない](https://ja.wikipedia.org/wiki/Xbox_LIVE "wikilink")『NINJA GAIDEN』ファンにもハリケーンパックにより熟成されたバージョンを遊んでもらうために作り始めた。しかし作っているうちに、それだけではつまらなくなったので、ハリケーンパック以上の新しい技術や遊びを色々と盛り込むことにした」と述べている\[4\]。通称「ニンジャガブラック」。
+オリジナルの『**NINJA GAIDEN**』に、『ハリケーンパック1・2』で熟成されたシステムを加味し、その他にもミッションモードや難易度調整などが加え、アップグレード版として[2005年](../Page/2005年.md "wikilink")に発売された。板垣監督は「[Xbox LIVEに加入していない](https://ja.wikipedia.org/wiki/Xbox_LIVE "wikilink")『NINJA GAIDEN』ファンにもハリケーンパックにより熟成されたバージョンを遊んでもらうために作り始めた。しかし作っているうちに、それだけではつまらなくなったので、ハリケーンパック以上の新しい技術や遊びを色々と盛り込むことにした」と述べている\[4\]。通称「ニンジャガブラック」。
 
 仕様変更、追加、調整は多岐に渡ったが、ハリケーンパックでは使用可能であった「交差の法」が、『NINJA GAIDEN Black』では廃止された。廃止理由は「NINJA GAIDENを構成する他の要素を殺している」というものであった。
 
 なおクリア後のおまけとして、アーケード版『忍者龍剣伝』（初移植）が遊べるようになる。
 
-無印版と同様[Xbox 360でもプレイ可能で](https://ja.wikipedia.org/wiki/Xbox_360 "wikilink")[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月11日](../Page/2月11日.md "wikilink")からはXbox クラシックスとして[ダウンロード販売](../Page/ダウンロード販売.md "wikilink")されている。
+無印版と同様[Xbox 360でもプレイ可能で](../Page/Xbox_360.md "wikilink")[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月11日](../Page/2月11日.md "wikilink")からはXbox クラシックスとして[ダウンロード販売](../Page/ダウンロード販売.md "wikilink")されている。
 
 [2017年](../Page/2017年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink")より[Xbox Oneでもプレイ可能になった](https://ja.wikipedia.org/wiki/Xbox_One "wikilink")。 {{-}}
 
@@ -193,13 +193,13 @@ DLCではPLAYSTATION Storeにて追加コンテンツ「サバイバルモード
 
 本作は2014年現在Team NINJAのチームリーダーを務める、ディレクター・早矢仕洋介が開発を直訴し、「[NINJA GAIDEN2](https://ja.wikipedia.org/wiki/NINJA_GAIDEN2 "wikilink")のスケジュールに支障が出ないのならば構わない」という条件の下、PS3でのリリースが決まった\[6\]。PS3に合わせて映像も[フルハイビジョン(1080p)に強化されている](https://ja.wikipedia.org/wiki/高精細度テレビジョン放送#1125p.2F1080p "wikilink")。
 
-キャッチコピーは、原作の[Xbox版と同じく](../Page/Xbox_\(ゲーム機\).md "wikilink")「凄すぎて何が悪い」。イメージキャラクターは[リア・ディゾン](https://ja.wikipedia.org/wiki/リア・ディゾン "wikilink")が務めた。
+キャッチコピーは、原作の[Xbox版と同じく](../Page/Xbox_\(ゲーム機\).md "wikilink")「凄すぎて何が悪い」。イメージキャラクターは[リア・ディゾン](../Page/リア・ディゾン.md "wikilink")が務めた。
 
 [2009年](../Page/2009年.md "wikilink")に、「[NINJA GAIDEN Σ2](https://ja.wikipedia.org/wiki/NINJA_GAIDEN_Σ2 "wikilink")」が発売されることが決定した。
 
 ### Xbox版との違い
 
-今作より[ボンデージ](https://ja.wikipedia.org/wiki/ボンデージ "wikilink")コスチュームに身を包んだヒロイン「レイチェル」のプレイステージが追加され、「リュウ・ハヤブサ」と「レイチェル」をプレイヤーキャラクターとして操作出来る。ストーリーモード中、条件をクリアするとレイチェルの「新ヘアースタイル」を入手出来、ヘアースタイルの変更が可能になる。ストーリーモードをクリアするとレイチェルも操作出来る「MISSIONS」モードが選べるようになり、MISSIONSモードの最後には「MISSION Eternal Legend（レイチェルを救え！）」のステージがプレイ可能になる。
+今作より[ボンデージ](../Page/ボンデージ.md "wikilink")コスチュームに身を包んだヒロイン「レイチェル」のプレイステージが追加され、「リュウ・ハヤブサ」と「レイチェル」をプレイヤーキャラクターとして操作出来る。ストーリーモード中、条件をクリアするとレイチェルの「新ヘアースタイル」を入手出来、ヘアースタイルの変更が可能になる。ストーリーモードをクリアするとレイチェルも操作出来る「MISSIONS」モードが選べるようになり、MISSIONSモードの最後には「MISSION Eternal Legend（レイチェルを救え！）」のステージがプレイ可能になる。
 
 また、日本国内版の残虐表現に関して若干抑えられている(人間型の敵の首が飛ばないなど)。
 
@@ -216,23 +216,23 @@ DLCではPLAYSTATION Storeにて追加コンテンツ「サバイバルモード
   - プロデューサー：[板垣伴信](https://ja.wikipedia.org/wiki/板垣伴信 "wikilink")
   - ディレクター：板垣伴信
   - 美術監督：[松井宏明](https://ja.wikipedia.org/wiki/松井宏明 "wikilink")
-  - 開発：[Team NINJA](https://ja.wikipedia.org/wiki/Team_NINJA "wikilink")
+  - 開発：[Team NINJA](../Page/Team_NINJA.md "wikilink")
 
 ### NINJA GAIDEN Σスタッフ
 
   - プロデューサー：[江川弥寿生](https://ja.wikipedia.org/wiki/江川弥寿生 "wikilink")
   - ディレクター：[早矢仕洋介](https://ja.wikipedia.org/wiki/早矢仕洋介 "wikilink")
-  - 開発：[Team NINJA](https://ja.wikipedia.org/wiki/Team_NINJA "wikilink")
+  - 開発：[Team NINJA](../Page/Team_NINJA.md "wikilink")
   - CM曲：「Could you be that one?」
-      - アーティスト：[リア・ディゾン](https://ja.wikipedia.org/wiki/リア・ディゾン "wikilink")
+      - アーティスト：[リア・ディゾン](../Page/リア・ディゾン.md "wikilink")
       - 作曲：江上浩太郎
       - レーベル：[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")
 
 ## 関連項目
 
-  - [忍者龍剣伝](https://ja.wikipedia.org/wiki/忍者龍剣伝 "wikilink")
-  - [NINJA GAIDEN Dragon Sword](https://ja.wikipedia.org/wiki/NINJA_GAIDEN_Dragon_Sword "wikilink")
-  - [NINJA GAIDEN 2](https://ja.wikipedia.org/wiki/NINJA_GAIDEN_2 "wikilink")
+  - [忍者龍剣伝](../Page/忍者龍剣伝.md "wikilink")
+  - [NINJA GAIDEN Dragon Sword](../Page/NINJA_GAIDEN_Dragon_Sword.md "wikilink")
+  - [NINJA GAIDEN 2](../Page/NINJA_GAIDEN_2.md "wikilink")
   - [NINJA GAIDEN Σ2](https://ja.wikipedia.org/wiki/NINJA_GAIDEN_Σ2 "wikilink")
 
 ## 脚注

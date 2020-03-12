@@ -3,7 +3,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Psion_Organiser_II_-_270404_-_Modified.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Psion_Series_3a.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:2005-04-16_Psion_Serie_5mx_PRO_24MB_beschn_unscharf_scharf.JPG "wikilink")
 
-**PSION**（サイオン）は、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")に設立された[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[ハンドヘルドコンピュータ](https://ja.wikipedia.org/wiki/ハンドヘルドコンピュータ "wikilink")メーカー。
+**PSION**（サイオン）は、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")に設立された[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[ハンドヘルドコンピュータ](../Page/ハンドヘルドコンピュータ.md "wikilink")メーカー。
 
 正式名称は「PSION COMPUTER PLC」。「PSION」のPはサイレント・レターなので、「サイオン」と発音する。社名は設立者である英国物理学者[デービッド・ポッターに由来し](https://ja.wikipedia.org/wiki/:en:David_Potter "wikilink")、「**P**otter **S**cientific **I**nstruments **O**r **N**othing」の頭文字を取ったとされている。
 
@@ -17,7 +17,7 @@
 
 1987年 [EPOCと呼ばれる](https://ja.wikipedia.org/wiki/:en:EPOC_\(computing\) "wikilink")16ビットOS（SIBO/[EPOC16](https://ja.wikipedia.org/wiki/:en:EPOC_\(computing\) "wikilink")）を開発。EPOCは"Electronic Piece Of Cheese"の略。以降、1991年にはEPOC16を搭載した[Psion 3を](https://ja.wikipedia.org/wiki/:en:Psion_3 "wikilink")、1993年にはPsion 3a、1996年にPsion 3cとPsion Siena、1998年にはPsion 3mxと、立て続けに発売し欧州でヒットする。
 
-1990年半ば[EPOC](https://ja.wikipedia.org/wiki/:en:EPOC_\(computing\) "wikilink") OSは[ARMアーキテクチャ](https://ja.wikipedia.org/wiki/ARMアーキテクチャ "wikilink") のCPUで動作する32ビット[マルチタスク](../Page/マルチタスク.md "wikilink")OSとして[C++](../Page/C++.md "wikilink")言語にて全面的に書き換えられた。
+1990年半ば[EPOC](https://ja.wikipedia.org/wiki/:en:EPOC_\(computing\) "wikilink") OSは[ARMアーキテクチャ](../Page/ARMアーキテクチャ.md "wikilink") のCPUで動作する32ビット[マルチタスク](../Page/マルチタスク.md "wikilink")OSとして[C++](../Page/C++.md "wikilink")言語にて全面的に書き換えられた。
 
 1997年、こうして完成したOS・[EPOC32を搭載したPSION](https://ja.wikipedia.org/wiki/:en:EPOC_\(computing\) "wikilink") [Series 5が発売開始](https://ja.wikipedia.org/wiki/:en:Psion_5 "wikilink")。内蔵アプリケーションの洗練された機能性、グラフィックインターフェースEIKONによるPCライクな操作性、[Psion Organiserから脈々と引き継がれてきた開発言語](https://ja.wikipedia.org/wiki/:en:Psion_Organiser "wikilink")[OPLによるアプリケーション開発の汎用性](https://ja.wikipedia.org/wiki/:en:Open_\(programming_language\) "wikilink")、単三乾電池で動作する利便性、デザインと機能のバランスが良く欧州で大ヒットとなり欧州のPDAマーケットを開拓した。
 
@@ -29,7 +29,7 @@
 
 1998年、PsionはOS開発部門を[Symbian](https://ja.wikipedia.org/wiki/Symbian "wikilink") Software Limitedとして分社化。[Ericsson](https://ja.wikipedia.org/wiki/Ericsson "wikilink")、[Motorola](https://ja.wikipedia.org/wiki/Motorola "wikilink")、[Nokia](https://ja.wikipedia.org/wiki/Nokia "wikilink")、[松下通信工業](https://ja.wikipedia.org/wiki/松下通信工業 "wikilink")等共同出資のジョイントベンチャー企業となる。
 
-2000年、EPOC OSは[Symbian OSと名称変更](https://ja.wikipedia.org/wiki/Symbian_OS "wikilink")。[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")向けOSとして転身を図る。同年、[NOKIA](https://ja.wikipedia.org/wiki/NOKIA "wikilink")がSymbian release6を搭載した9210 Communicatorを発売。同年、カナダの物流情報機器メーカTeklogix社を買収。Psion Teklogixと改称し物流端末事業に進出。
+2000年、EPOC OSは[Symbian OSと名称変更](../Page/Symbian_OS.md "wikilink")。[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")向けOSとして転身を図る。同年、[NOKIA](https://ja.wikipedia.org/wiki/NOKIA "wikilink")がSymbian release6を搭載した9210 Communicatorを発売。同年、カナダの物流情報機器メーカTeklogix社を買収。Psion Teklogixと改称し物流端末事業に進出。
 
 2002年、[QWERTY](https://ja.wikipedia.org/wiki/QWERTY "wikilink")キーボードタイプのPDA市場が急激に縮小。キーボードレスタイプの[Palm](../Page/Palm.md "wikilink")や[PocketPC](https://ja.wikipedia.org/wiki/PocketPC "wikilink")等のPDAに販売シェアを大きく奪われ,販売不振を理由に一般消費者向け販売からの撤退を発表。
 

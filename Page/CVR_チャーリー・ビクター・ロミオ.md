@@ -5,7 +5,7 @@
 
 ## 作品概要
 
-実際に起こった6件の[航空事故](https://ja.wikipedia.org/wiki/航空事故 "wikilink")の[CVR](https://ja.wikipedia.org/wiki/CVR "wikilink")（コクピット・ボイス・レコーダー）の記録を、専門用語も含めてほぼそのままの形で台本とし、事故機の[コクピットを模した舞台上で](https://ja.wikipedia.org/wiki/コックピット "wikilink")、[俳優](../Page/俳優.md "wikilink")が乗務員らを演じる。上演時間は約90分。なお、演題名は"*CVR*"という3文字のアルファベットに対応する[NATOフォネティックコード](https://ja.wikipedia.org/wiki/NATOフォネティックコード "wikilink")に由来するが、実際の航空関係者が装置としてのCVRをこの作品の題名のように呼ぶことはない。
+実際に起こった6件の[航空事故](../Page/航空事故.md "wikilink")の[CVR](https://ja.wikipedia.org/wiki/CVR "wikilink")（コクピット・ボイス・レコーダー）の記録を、専門用語も含めてほぼそのままの形で台本とし、事故機の[コクピットを模した舞台上で](https://ja.wikipedia.org/wiki/コックピット "wikilink")、[俳優](../Page/俳優.md "wikilink")が乗務員らを演じる。上演時間は約90分。なお、演題名は"*CVR*"という3文字のアルファベットに対応する[NATOフォネティックコード](https://ja.wikipedia.org/wiki/NATOフォネティックコード "wikilink")に由来するが、実際の航空関係者が装置としてのCVRをこの作品の題名のように呼ぶことはない。
 
 この作品で取り上げられた航空機事故は次のとおり（各エピソードは上演順）：
 
@@ -19,22 +19,22 @@
 
 <!-- end list -->
 
-  - [アエロペルー](https://ja.wikipedia.org/wiki/アエロペルー "wikilink")航空603便 [ペルー](https://ja.wikipedia.org/wiki/ペルー "wikilink")・[リマ](https://ja.wikipedia.org/wiki/リマ "wikilink") [1996年](../Page/1996年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")
+  - [アエロペルー](../Page/アエロペルー.md "wikilink")航空603便 [ペルー](https://ja.wikipedia.org/wiki/ペルー "wikilink")・[リマ](../Page/リマ.md "wikilink") [1996年](../Page/1996年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")
 
 <!-- end list -->
 
   -
-    →「[アエロペルー603便墜落事故](https://ja.wikipedia.org/wiki/アエロペルー603便墜落事故 "wikilink")」参照
+    →「[アエロペルー603便墜落事故](../Page/アエロペルー603便墜落事故.md "wikilink")」参照
 
 <!-- end list -->
 
-  - [アメリカ合衆国空軍](https://ja.wikipedia.org/wiki/アメリカ合衆国空軍 "wikilink")[ユークラ27便](https://ja.wikipedia.org/wiki/:w:1995_Alaska_Boeing_E-3_Sentry_accident "wikilink") [アラスカ州](../Page/アラスカ州.md "wikilink")[エルメンドルフ](https://ja.wikipedia.org/wiki/エルメンドルフ空軍基地 "wikilink") 1995年[9月22日](../Page/9月22日.md "wikilink")
+  - [アメリカ合衆国空軍](https://ja.wikipedia.org/wiki/アメリカ合衆国空軍 "wikilink")[ユークラ27便](https://ja.wikipedia.org/wiki/:w:1995_Alaska_Boeing_E-3_Sentry_accident "wikilink") [アラスカ州](../Page/アラスカ州.md "wikilink")[エルメンドルフ](../Page/エルメンドルフ空軍基地.md "wikilink") 1995年[9月22日](../Page/9月22日.md "wikilink")
   - [日本航空](../Page/日本航空.md "wikilink")123便 [群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")[御巣鷹の尾根](../Page/御巣鷹の尾根.md "wikilink") [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[8月12日](../Page/8月12日.md "wikilink")
 
 <!-- end list -->
 
   -
-    →「[日本航空123便墜落事故](https://ja.wikipedia.org/wiki/日本航空123便墜落事故 "wikilink")」参照
+    →「[日本航空123便墜落事故](../Page/日本航空123便墜落事故.md "wikilink")」参照
 
 <!-- end list -->
 
@@ -43,7 +43,7 @@
 <!-- end list -->
 
   -
-    →「[ユナイテッド航空232便不時着事故](https://ja.wikipedia.org/wiki/ユナイテッド航空232便不時着事故 "wikilink")」参照
+    →「[ユナイテッド航空232便不時着事故](../Page/ユナイテッド航空232便不時着事故.md "wikilink")」参照
 
 これらの事故のCVR記録の一部は、例えば「墜落\! の瞬間 ボイス・レコーダーが語る真実」（[ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink") ヴィレッジブックス 2002年）などで、実際に読むことができる。
 
@@ -57,9 +57,9 @@
 
 ## 作品の上演・評価など
 
-初演は[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")の小劇場でわずか5週間の予定であったものが、「震えるほどにリアルな表現（[ニューヨーク・タイムズ](https://ja.wikipedia.org/wiki/ニューヨーク・タイムズ "wikilink")のレビュー）」が評判となり、現役の航空関係者や一般の観衆が詰め掛け、結果として8ヶ月の[ロングラン公演](../Page/ロングラン公演.md "wikilink")となった。その後もアメリカ各地で2006年までツアー公演が続いた。この間、ニューヨーク ドラマ・ディスク賞（最優秀ユニーク・シアトリカル・エクスペリエンス賞/最優秀音響デザイン賞…2000年）、アブソリュート・エンジェル アーツ&テクノロジー 2000年グランプリ（2001年）など受賞。**演劇ドキュメンタリー**と呼ばれるジャンルの代表作の一つ。なお、公演ビデオは[アメリカ合衆国空軍の乗務員訓練授業に採用されたほか](https://ja.wikipedia.org/wiki/アメリカ空軍 "wikilink")、民間の航空会社でも社員教育の一環として利用されている。
+初演は[ニューヨーク](../Page/ニューヨーク.md "wikilink")の小劇場でわずか5週間の予定であったものが、「震えるほどにリアルな表現（[ニューヨーク・タイムズ](../Page/ニューヨーク・タイムズ.md "wikilink")のレビュー）」が評判となり、現役の航空関係者や一般の観衆が詰め掛け、結果として8ヶ月の[ロングラン公演](../Page/ロングラン公演.md "wikilink")となった。その後もアメリカ各地で2006年までツアー公演が続いた。この間、ニューヨーク ドラマ・ディスク賞（最優秀ユニーク・シアトリカル・エクスペリエンス賞/最優秀音響デザイン賞…2000年）、アブソリュート・エンジェル アーツ&テクノロジー 2000年グランプリ（2001年）など受賞。**演劇ドキュメンタリー**と呼ばれるジャンルの代表作の一つ。なお、公演ビデオは[アメリカ合衆国空軍の乗務員訓練授業に採用されたほか](https://ja.wikipedia.org/wiki/アメリカ空軍 "wikilink")、民間の航空会社でも社員教育の一環として利用されている。
 
-日本語版は日米関係者の共同演出の形式で制作され、2002年7-8月に[下北沢](../Page/下北沢.md "wikilink")[ザ・スズナリ](https://ja.wikipedia.org/wiki/ザ・スズナリ "wikilink")で初演された。こちらもかなりの話題を呼び、「ザ・スズナリがこれほどテレビで放映されたのは、今回が初めて」という評判が立った。この公演で日本側演出担当の[坂手洋二](../Page/坂手洋二.md "wikilink")は、第10回[読売演劇大賞](https://ja.wikipedia.org/wiki/読売演劇大賞 "wikilink")の最優秀演出家賞を受賞。2003年10-12月にかけて、全国各地で再演された。
+日本語版は日米関係者の共同演出の形式で制作され、2002年7-8月に[下北沢](../Page/下北沢.md "wikilink")[ザ・スズナリ](https://ja.wikipedia.org/wiki/ザ・スズナリ "wikilink")で初演された。こちらもかなりの話題を呼び、「ザ・スズナリがこれほどテレビで放映されたのは、今回が初めて」という評判が立った。この公演で日本側演出担当の[坂手洋二](../Page/坂手洋二.md "wikilink")は、第10回[読売演劇大賞](../Page/読売演劇大賞.md "wikilink")の最優秀演出家賞を受賞。2003年10-12月にかけて、全国各地で再演された。
 
 ## 日本語版上演主要スタッフ
 
@@ -73,7 +73,7 @@
 
 ## 関連項目
 
-  - [航空事故](https://ja.wikipedia.org/wiki/航空事故 "wikilink")
+  - [航空事故](../Page/航空事故.md "wikilink")
   - [内田幹樹](../Page/内田幹樹.md "wikilink") - 小説「査察機長」の中でこの演劇についての会話がある。
 
 [Category:アメリカ合衆国の戯曲](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の戯曲 "wikilink") [Category:1990年代の戯曲](https://ja.wikipedia.org/wiki/Category:1990年代の戯曲 "wikilink") [Category:1999年の舞台作品](https://ja.wikipedia.org/wiki/Category:1999年の舞台作品 "wikilink") [Category:航空事故](https://ja.wikipedia.org/wiki/Category:航空事故 "wikilink") [Category:航空に関するメディア](https://ja.wikipedia.org/wiki/Category:航空に関するメディア "wikilink") [Category:日本航空123便墜落事故](https://ja.wikipedia.org/wiki/Category:日本航空123便墜落事故 "wikilink")

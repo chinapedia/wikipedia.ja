@@ -169,13 +169,13 @@
 
 <!-- end list -->
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
       - [9月](../Page/9月.md "wikilink")、FM OKINAWA主催「B-SHOPファン集い」を開催。スタジオでラジオ生演奏、ミニライブ、BBQ会など※ドリカム、BEGINに続いて三番目。
       - [9月](../Page/9月.md "wikilink")、沖縄最大の野外ロックフェス「The Tug of Rock'n Roll 05」に、2年連続出場
 
 <!-- end list -->
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")
+  - [2006年](../Page/2006年.md "wikilink")
       - [2月](https://ja.wikipedia.org/wiki/2月 "wikilink")、八重山高校の予餞会にゲスト出演
       - [4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、新宿LOFTで10回目のステージを記録。
       - [4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、カタヤマタカズミ交通事故、全治二ヶ月の重傷
@@ -183,7 +183,7 @@
 
 <!-- end list -->
 
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")
+  - [2007年](../Page/2007年.md "wikilink")
       - [8月8日](../Page/8月8日.md "wikilink")、2ndアルバム「TOY BOX」発売
       - し☆ごの脱退に伴い、[12月4日](../Page/12月4日.md "wikilink")のライブをもってB-SHOP解散
 

@@ -1,15 +1,15 @@
 > この記事は[Apache Flex](https://ja.wikipedia.org/wiki/Apache_Flex)から翻訳されています。
 
 
-（アパッチ・フレックス）は、[リッチインターネットアプリケーション](https://ja.wikipedia.org/wiki/リッチインターネットアプリケーション "wikilink")のライブラリ。[ソフトウェア開発キット](https://ja.wikipedia.org/wiki/ソフトウェア開発キット "wikilink")としては Apache Flex SDK があり、[統合開発環境](../Page/統合開発環境.md "wikilink")としては [Adobe Flash Builder](https://ja.wikipedia.org/wiki/Adobe_Flash_Builder "wikilink") がある。デザインには [MXML](https://ja.wikipedia.org/wiki/MXML "wikilink") を利用し、[プログラミング言語](../Page/プログラミング言語.md "wikilink")には  を利用し、 上で実行する swf ファイルを生成する。 からは  上でも実行可能。Flex SDK は 4.6 までは **Adobe Flex SDK** だったが、4.7 がなく、4.8.0 から Apache Flex SDK。
+（アパッチ・フレックス）は、[リッチインターネットアプリケーション](../Page/リッチインターネットアプリケーション.md "wikilink")のライブラリ。[ソフトウェア開発キット](../Page/ソフトウェア開発キット.md "wikilink")としては Apache Flex SDK があり、[統合開発環境](../Page/統合開発環境.md "wikilink")としては [Adobe Flash Builder](https://ja.wikipedia.org/wiki/Adobe_Flash_Builder "wikilink") がある。デザインには [MXML](https://ja.wikipedia.org/wiki/MXML "wikilink") を利用し、[プログラミング言語](../Page/プログラミング言語.md "wikilink")には  を利用し、 上で実行する swf ファイルを生成する。 からは  上でも実行可能。Flex SDK は 4.6 までは **Adobe Flex SDK** だったが、4.7 がなく、4.8.0 から Apache Flex SDK。
 
 ## 概要
 
-ブームの火付け役となったのが[グーグルマップと言われており](https://ja.wikipedia.org/wiki/Google_マップ "wikilink")、今日の  を利用した代表的なウェブサービスであるが、ウェブブラウザに依存する  による記述である  と、 内部で実行している  がどちらも  の応用系であることから、この二つをひとつにすることで開発コストを削減し、開発環境を整備という狙いがある。
+ブームの火付け役となったのが[グーグルマップと言われており](../Page/Google_マップ.md "wikilink")、今日の  を利用した代表的なウェブサービスであるが、ウェブブラウザに依存する  による記述である  と、 内部で実行している  がどちらも  の応用系であることから、この二つをひとつにすることで開発コストを削減し、開発環境を整備という狙いがある。
 
 は  という  と類似した[プログラミング言語](../Page/プログラミング言語.md "wikilink")を内包しており、これまでも[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")上で[{{langと同様の目的に使われてきた](../Page/Javaアプレット.md "wikilink")。[{{langに見られるような問題点が解消されているため](https://ja.wikipedia.org/wiki/Javaアプレット#アプレットの基本動作制限 "wikilink")、重宝されている。その意味では、アプレット以上に[オブジェクト指向](../Page/オブジェクト指向.md "wikilink")言語による[クロスプラットフォーム](../Page/クロスプラットフォーム.md "wikilink")な実行環境を実現している。
 
-はその長所をさらに拡げ、 の弱点であるウェブブラウザ毎の実装の相違やバグ、挙動の差異に左右されずに動的なページを作成することができるため、 よりもクロスプラットフォームでの開発が容易な[ソフトウェア開発キット](https://ja.wikipedia.org/wiki/ソフトウェア開発キット "wikilink")として注目されている。ただし、現実には、 はオペレーティングシステム間の挙動の相違の問題を抱えていて、 以外のオペレーティングシステムではバグが多い。
+はその長所をさらに拡げ、 の弱点であるウェブブラウザ毎の実装の相違やバグ、挙動の差異に左右されずに動的なページを作成することができるため、 よりもクロスプラットフォームでの開発が容易な[ソフトウェア開発キット](../Page/ソフトウェア開発キット.md "wikilink")として注目されている。ただし、現実には、 はオペレーティングシステム間の挙動の相違の問題を抱えていて、 以外のオペレーティングシステムではバグが多い。
 
 。
 

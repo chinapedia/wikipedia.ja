@@ -12,13 +12,13 @@
       -
         初期メンバー。
   - なっちん（愛川奈緒美）
-    [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[6月12日](../Page/6月12日.md "wikilink")生まれ。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身。AB型。
+    [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[6月12日](../Page/6月12日.md "wikilink")生まれ。[東京都](../Page/東京都.md "wikilink")出身。AB型。
       -
         初期メンバー、リーダー。
   - 栗田（栗田栞）
     [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[5月28日](../Page/5月28日.md "wikilink")生まれ。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身。A型。
       -
-        元[花やしき歌劇団リーダー](https://ja.wikipedia.org/wiki/浅草花やしき "wikilink")。2008年4月からメンバーとなる。
+        元[花やしき歌劇団リーダー](../Page/浅草花やしき.md "wikilink")。2008年4月からメンバーとなる。
 
 ### 元メンバー
 
@@ -29,7 +29,7 @@
   - まお（[河西舞桜](https://ja.wikipedia.org/wiki/河西里音 "wikilink")）
     [1988年](../Page/1988年.md "wikilink")[4月13日](../Page/4月13日.md "wikilink")生まれ。東京都出身。O型。
       -
-        元[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")の[河西智美](https://ja.wikipedia.org/wiki/河西智美 "wikilink")の姉。元[Survivёリーダー](https://ja.wikipedia.org/wiki/Survive-ZERO "wikilink")。2007年3月に卒業。
+        元[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")の[河西智美](../Page/河西智美.md "wikilink")の姉。元[Survivёリーダー](https://ja.wikipedia.org/wiki/Survive-ZERO "wikilink")。2007年3月に卒業。
   - ヤンヤン（矢野瑛子）
     [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")生まれ。[兵庫県](../Page/兵庫県.md "wikilink")出身。O型。2006年10月に卒業。
   - めい（秋葉芽衣）
@@ -41,15 +41,15 @@
   - あいち（中山愛）
     [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[3月9日](../Page/3月9日.md "wikilink")生まれ。[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")出身。O型。2008年2月に卒業。
   - ピッチ（駒宮美都季）
-    [1988年](../Page/1988年.md "wikilink")[5月24日](../Page/5月24日.md "wikilink")生まれ。[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")出身。O型。
+    [1988年](../Page/1988年.md "wikilink")[5月24日](../Page/5月24日.md "wikilink")生まれ。[京都府](../Page/京都府.md "wikilink")出身。O型。
       -
         元Survivёメンバー。2009年11月に卒業。
   - じゅにぁ（栗田恵里）
-    [1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink")生まれ。A型。
+    [1992年](../Page/1992年.md "wikilink")[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink")生まれ。A型。
       -
         栗田の実妹。2010年11月からメンバーとなる。病気療養のため、2011年2月に卒業。
   - なったん（山下奈津美）
-    [1988年](../Page/1988年.md "wikilink")[10月18日](https://ja.wikipedia.org/wiki/10月18日 "wikilink")生まれ。A型。
+    [1988年](../Page/1988年.md "wikilink")[10月18日](../Page/10月18日.md "wikilink")生まれ。A型。
       -
         元銀河っ娘クラブ水星組リーダー。2010年11月からメンバーとなる。病気療養のため、2011年8月に卒業。
 
@@ -63,7 +63,7 @@
 
 2011年10月9日、初台theDoorsのライブにて同年12月に解散することを発表。
 
-2011年12月18日、[吉祥寺CLUB SEATAでのワンマンライブ](https://ja.wikipedia.org/wiki/吉祥寺CLUB_SEATA "wikilink")「Chu\!☆Lips FINAL 第1回チキチキ チュップス&チュッパー2464日めのゆあーしょっく\!?」をもって解散。
+2011年12月18日、[吉祥寺CLUB SEATAでのワンマンライブ](../Page/吉祥寺CLUB_SEATA.md "wikilink")「Chu\!☆Lips FINAL 第1回チキチキ チュップス&チュッパー2464日めのゆあーしょっく\!?」をもって解散。
 
 2013年12月22日、高円寺Highでのワンマンライブ「Chu\!☆Lips 第2回チキチキ チュップス&チュッパー夢のゆあーしょっく\!?」で復活（Fukka☆Chu\!と表記）\[1\]。
 
@@ -71,7 +71,7 @@
 
 ### シングル
 
-  - キスキスキスの嵐（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月27日](../Page/4月27日.md "wikilink")発売：SNR-05002）
+  - キスキスキスの嵐（[2005年](../Page/2005年.md "wikilink")[4月27日](../Page/4月27日.md "wikilink")発売：SNR-05002）
       - 表題曲「キスキスキスの嵐。」はCS放送TBSチャンネルのアニメ「[ゴキブリちゃん](https://ja.wikipedia.org/wiki/ゴキブリちゃん "wikilink")」主題歌
 
 <!-- end list -->
@@ -85,7 +85,7 @@
 
 <!-- end list -->
 
-  - チュップスギャング団のテーマ（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[5月3日](https://ja.wikipedia.org/wiki/5月3日 "wikilink")発売：SNR-06010）
+  - チュップスギャング団のテーマ（[2006年](../Page/2006年.md "wikilink")[5月3日](../Page/5月3日.md "wikilink")発売：SNR-06010）
 
 <!-- end list -->
 
@@ -177,7 +177,7 @@
 
 ### アルバム
 
-  - 聴くクスリ（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月21日](../Page/9月21日.md "wikilink")発売：SNR-05004）
+  - 聴くクスリ（[2005年](../Page/2005年.md "wikilink")[9月21日](../Page/9月21日.md "wikilink")発売：SNR-05004）
 
 <!-- end list -->
 
@@ -260,10 +260,10 @@
 
 ### DVD
 
-  - Chu\!☆Lips診るクスリ（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")発売）
-  - Chup's\! of☆the☆world（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月27日](../Page/7月27日.md "wikilink")発売）
-  - Chup's\! A Go\!Go\!（[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月25日](../Page/4月25日.md "wikilink")発売）
-  - ヒロイン戦隊　Chup's\!5（[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[8月15日](../Page/8月15日.md "wikilink")発売）
+  - Chu\!☆Lips診るクスリ（[2005年](../Page/2005年.md "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")発売）
+  - Chup's\! of☆the☆world（[2006年](../Page/2006年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink")発売）
+  - Chup's\! A Go\!Go\!（[2007年](../Page/2007年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")発売）
+  - ヒロイン戦隊　Chup's\!5（[2007年](../Page/2007年.md "wikilink")[8月15日](../Page/8月15日.md "wikilink")発売）
   - 一富士・二鷹・三チュップス ～円山町より愛を込めて～（[2009年](../Page/2009年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")発売）
 
 <!-- end list -->

@@ -5,7 +5,7 @@
 
 </div>
 
-**MujiCar1000**（ムジカー・セン）は、[日産自動車](https://ja.wikipedia.org/wiki/日産自動車 "wikilink")が製造した[乗用車](https://ja.wikipedia.org/wiki/乗用車 "wikilink")であり、K11型マーチのバリエーションの一つ。 「無印良品」を展開する[良品計画](https://ja.wikipedia.org/wiki/良品計画 "wikilink")が企画、販売。実際の納車や整備等のサービスは日産ディーラーが担当した。
+**MujiCar1000**（ムジカー・セン）は、[日産自動車](../Page/日産自動車.md "wikilink")が製造した[乗用車](../Page/乗用車.md "wikilink")であり、K11型マーチのバリエーションの一つ。 「無印良品」を展開する[良品計画](https://ja.wikipedia.org/wiki/良品計画 "wikilink")が企画、販売。実際の納車や整備等のサービスは日産ディーラーが担当した。
 
 ## スタイル・機構
 
@@ -23,7 +23,7 @@
   - 専用メーターパネル（クリーム地）
   - 前席専用クロスシート
   - 前席専用穴あきヘッドレスト
-  - 後席ダブルフォールディング（[マーチBOXからの流用](https://ja.wikipedia.org/wiki/日産・マーチBOX "wikilink")）
+  - 後席ダブルフォールディング（[マーチBOXからの流用](../Page/日産・マーチBOX.md "wikilink")）
   - 後席ビニール表皮（ISO FIX対応チャイルドシート用アンカー付き）
   - ラゲッジルームビニール内張り
   - 無塗装バンパー

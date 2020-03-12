@@ -12,7 +12,7 @@
 
 1.  **Angel Eyes**
       - 作詞：[motsu](https://ja.wikipedia.org/wiki/motsu "wikilink")、作曲・編曲：[t-kimura](https://ja.wikipedia.org/wiki/t-kimura "wikilink")
-      - [MBS](../Page/毎日放送.md "wikilink")/[TBS系](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")『[世界バリバリ★バリュー](../Page/世界バリバリ★バリュー.md "wikilink")』エンディング曲
+      - [MBS](../Page/毎日放送.md "wikilink")/[TBS系](../Page/TBSテレビ.md "wikilink")『[世界バリバリ★バリュー](../Page/世界バリバリ★バリュー.md "wikilink")』エンディング曲
 2.  **SAIL AWAY**
       - 作詞：[motsu](https://ja.wikipedia.org/wiki/motsu "wikilink")、作曲・編曲：[t-kimura](https://ja.wikipedia.org/wiki/t-kimura "wikilink")
 3.  **Angel Eyes (INSTRUMENTAL)**

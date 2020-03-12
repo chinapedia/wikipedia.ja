@@ -1,9 +1,9 @@
 > この記事は[MALL](https://ja.wikipedia.org/wiki/MALL)から翻訳されています。
 
 
-**華南MALL**（かなんモール、）は、[中国](../Page/中華人民共和国.md "wikilink")・[広東省](../Page/広東省.md "wikilink")・[東莞市](https://ja.wikipedia.org/wiki/東莞市 "wikilink")にあった、中国最大の[ショッピングモールである](../Page/ショッピングセンター.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink")に**新華南MALL**（しんかなんモール、、Xīn Huánán Móěr）と改称した。
+**華南MALL**（かなんモール、）は、[中国](../Page/中華人民共和国.md "wikilink")・[広東省](../Page/広東省.md "wikilink")・[東莞市](../Page/東莞市.md "wikilink")にあった、中国最大の[ショッピングモールである](../Page/ショッピングセンター.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink")に**新華南MALL**（しんかなんモール、、Xīn Huánán Móěr）と改称した。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")の開業から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[10月31日](../Page/10月31日.md "wikilink")に[ドバイ・モール](https://ja.wikipedia.org/wiki/ドバイ・モール "wikilink")が開業するまでは、世界最大のショッピングモールでもあった。
+[2005年](../Page/2005年.md "wikilink")の開業から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[10月31日](../Page/10月31日.md "wikilink")に[ドバイ・モール](https://ja.wikipedia.org/wiki/ドバイ・モール "wikilink")が開業するまでは、世界最大のショッピングモールでもあった。
 
 ## 概要
 
@@ -27,16 +27,16 @@
 
   - [マクドナルド](../Page/マクドナルド.md "wikilink")
   - [ケンタッキーフライドチキン](https://ja.wikipedia.org/wiki/ケンタッキーフライドチキン "wikilink")
-  - [ピザハット](https://ja.wikipedia.org/wiki/ピザハット "wikilink")
+  - [ピザハット](../Page/ピザハット.md "wikilink")
   - 真功夫
-  - [IMAX](https://ja.wikipedia.org/wiki/IMAX "wikilink")
+  - [IMAX](../Page/IMAX.md "wikilink")
   - 時尚電器
   - [SPAR](../Page/スパー.md "wikilink")（[スーパーマーケット](../Page/スーパーマーケット.md "wikilink")）
   - 東莞工場アウトレットモール
-  - [バドミントン](https://ja.wikipedia.org/wiki/バドミントン "wikilink")館
+  - [バドミントン](../Page/バドミントン.md "wikilink")館
   - 万達電影（[映画館](../Page/映画館.md "wikilink")）
   - ナイルビラインターナショナルホテル（尼羅河国際大酒店）
-  - シティーエアターミナル（東莞城市候機楼。[広州白雲国際空港](https://ja.wikipedia.org/wiki/広州白雲国際空港 "wikilink")、[深圳宝安国際空港](https://ja.wikipedia.org/wiki/深セン宝安国際空港 "wikilink")、[香港国際空港](https://ja.wikipedia.org/wiki/香港国際空港 "wikilink")行きバス乗り場）
+  - シティーエアターミナル（東莞城市候機楼。[広州白雲国際空港](../Page/広州白雲国際空港.md "wikilink")、[深圳宝安国際空港](../Page/深セン宝安国際空港.md "wikilink")、[香港国際空港](../Page/香港国際空港.md "wikilink")行きバス乗り場）
 
 ### かつてあった店舗、施設
 

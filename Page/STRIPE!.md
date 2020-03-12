@@ -1,19 +1,19 @@
 > この記事は[STRIPE!](https://ja.wikipedia.org/wiki/STRIPE!)から翻訳されています。
 
 
-「**STRIPE\!**」（ストライプ）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")に発売された、[槇原敬之](../Page/槇原敬之.md "wikilink")の21枚目の[シングル](../Page/シングル.md "wikilink")。発売元は[SME Records](https://ja.wikipedia.org/wiki/エスエムイーレコーズ "wikilink")。
+「**STRIPE\!**」（ストライプ）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")に発売された、[槇原敬之](../Page/槇原敬之.md "wikilink")の21枚目の[シングル](../Page/シングル.md "wikilink")。発売元は[SME Records](../Page/エスエムイーレコーズ.md "wikilink")。
 
 槇原のシングルとしては、最後の8cmシングルとなる。
 
 ## 解説
 
-本作から[ソニー・ミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")内で[Sony Recordsから](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")[SME Records](https://ja.wikipedia.org/wiki/エスエムイーレコーズ "wikilink")（当時はソニー・ミュージックレコーズ内のレーベル）へレーベル移籍をしている。
+本作から[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")内で[Sony Recordsから](../Page/ソニー・ミュージックレコーズ.md "wikilink")[SME Records](../Page/エスエムイーレコーズ.md "wikilink")（当時はソニー・ミュージックレコーズ内のレーベル）へレーベル移籍をしている。
 
 ジャケットは[フリスク](https://ja.wikipedia.org/wiki/フリスク "wikilink")のパッケージのパロディ。
 
-[スキー](../Page/スキー.md "wikilink")をテーマにした、ウインタースポーツ用品の[アルペンのCMソング](https://ja.wikipedia.org/wiki/アルペン_\(企業\) "wikilink")。
+[スキー](../Page/スキー.md "wikilink")をテーマにした、ウインタースポーツ用品の[アルペンのCMソング](../Page/アルペン_\(企業\).md "wikilink")。
 
-カップリング曲の「Merry-go-round」はオリジナルアルバムには収録されなかったが、後にベストアルバムに収録され、[着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")や[mora](https://ja.wikipedia.org/wiki/mora "wikilink")でも配信されている（後に2008年11月19日発売のオリジナルアルバム、『[Personal Soundtracks](https://ja.wikipedia.org/wiki/Personal_Soundtracks "wikilink")』に'08ヴァージョンが収録された）。
+カップリング曲の「Merry-go-round」はオリジナルアルバムには収録されなかったが、後にベストアルバムに収録され、[着うたフル](../Page/着うたフル.md "wikilink")や[mora](https://ja.wikipedia.org/wiki/mora "wikilink")でも配信されている（後に2008年11月19日発売のオリジナルアルバム、『[Personal Soundtracks](https://ja.wikipedia.org/wiki/Personal_Soundtracks "wikilink")』に'08ヴァージョンが収録された）。
 
 なお、発売された98年のクリスマスの時期に、オフィシャルの特設ページにて、期間限定で**「Merry-go-round (Christmas Mix)」**というものがストリーミング公開された。鈴の音を若干強調させ、最後のサビのコーラスのみ「It's just like merry-go-round, merry-go-round」の部分を「I wish your merry christmas, merry christmas」と歌っている。この**「Merry-go-round (Christmas Mix)」**は現在も商品化されていない。
 

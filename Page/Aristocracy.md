@@ -1,13 +1,13 @@
 > この記事は[Aristocracy](https://ja.wikipedia.org/wiki/Aristocracy)から翻訳されています。
 
 
-『**Aristocracy**』（アリストクラシー）は、[宝野アリカ](https://ja.wikipedia.org/wiki/宝野アリカ "wikilink")と[片倉三起也](https://ja.wikipedia.org/wiki/片倉三起也 "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")、[ALI PROJECTのアルバム](https://ja.wikipedia.org/wiki/ALI_PROJECT "wikilink")。
+『**Aristocracy**』（アリストクラシー）は、[宝野アリカ](https://ja.wikipedia.org/wiki/宝野アリカ "wikilink")と[片倉三起也](../Page/片倉三起也.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")、[ALI PROJECTのアルバム](https://ja.wikipedia.org/wiki/ALI_PROJECT "wikilink")。
 
 ## 解説
 
-オリジナルアルバムとしては『[Alipro Mania](../Page/Alipro_Mania.md "wikilink")』から2年後の発売だが、『Alipro Mania』は「ZAZOU Records」からのみのリリースであったので、一般に流通したオリジナルアルバムとしては『[Noblerot](../Page/Noblerot.md "wikilink")』から3年ぶりという、比較的長い期間があった。「オリジナルアルバムは[徳間ジャパンコミュニケーションズ](https://ja.wikipedia.org/wiki/徳間ジャパンコミュニケーションズ "wikilink")からリリースされる」という現在の流れを決めた、最初のアルバムでもある。
+オリジナルアルバムとしては『[Alipro Mania](../Page/Alipro_Mania.md "wikilink")』から2年後の発売だが、『Alipro Mania』は「ZAZOU Records」からのみのリリースであったので、一般に流通したオリジナルアルバムとしては『[Noblerot](../Page/Noblerot.md "wikilink")』から3年ぶりという、比較的長い期間があった。「オリジナルアルバムは[徳間ジャパンコミュニケーションズ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")からリリースされる」という現在の流れを決めた、最初のアルバムでもある。
 
-Aristocracyは[貴族制](https://ja.wikipedia.org/wiki/貴族制 "wikilink")の意。
+Aristocracyは[貴族制](../Page/貴族制.md "wikilink")の意。
 
 ## 収録曲
 
@@ -19,11 +19,11 @@ Aristocracyは[貴族制](https://ja.wikipedia.org/wiki/貴族制 "wikilink")の
         宝野のプロデュースする同名の[ゴシック・アンド・ロリータ](../Page/ゴシック・アンド・ロリータ.md "wikilink")ブランド「[少女貴族](https://ja.wikipedia.org/wiki/少女貴族 "wikilink")」はこの曲に由来する。
 3.  **[コッペリアの柩](https://ja.wikipedia.org/wiki/コッペリアの柩 "wikilink")**
       -
-        テレビアニメ『[ノワール](https://ja.wikipedia.org/wiki/ノワール_\(アニメ\) "wikilink")』のオープニングテーマ。『Alipro Mania』に収録されたものやテレビアニメで使われたものとは異なるアレンジが施されている。
+        テレビアニメ『[ノワール](../Page/ノワール_\(アニメ\).md "wikilink")』のオープニングテーマ。『Alipro Mania』に収録されたものやテレビアニメで使われたものとは異なるアレンジが施されている。
         また、2001年5月23日にはシングルとして発売された。
 4.  **病める薔薇**
       -
-        「薔薇」はバラではなく「そうび」と読む。[ウィリアム・ブレイク](https://ja.wikipedia.org/wiki/ウィリアム・ブレイク "wikilink")の詩篇"The Sick Rose"、またそれを意識した[佐藤春夫](https://ja.wikipedia.org/wiki/佐藤春夫 "wikilink")の短編集に同名の作品が存在する。
+        「薔薇」はバラではなく「そうび」と読む。[ウィリアム・ブレイク](../Page/ウィリアム・ブレイク.md "wikilink")の詩篇"The Sick Rose"、またそれを意識した[佐藤春夫](../Page/佐藤春夫.md "wikilink")の短編集に同名の作品が存在する。
 5.  **MALICE**
 6.  **à la cuisine**
       -
@@ -34,7 +34,7 @@ Aristocracyは[貴族制](https://ja.wikipedia.org/wiki/貴族制 "wikilink")の
         「けいかそう」と読む。桂花は[キンモクセイ](https://ja.wikipedia.org/wiki/キンモクセイ "wikilink")の別名。ギター演奏を[人間椅子の和嶋慎治が務めた](https://ja.wikipedia.org/wiki/人間椅子_\(バンド\) "wikilink")。
 8.  **閉ざされた画室**
       -
-        「画室」は「[アトリエ](https://ja.wikipedia.org/wiki/アトリエ "wikilink")」と読む。
+        「画室」は「[アトリエ](../Page/アトリエ.md "wikilink")」と読む。
 9.  **un tableau blanc 〜絵画旅行〜**
 10. **闇の翼ですべてをつつむ夜のためのアリア**
 11. **プラタナスの葉末に風は眠る (instrumental)**
@@ -45,18 +45,18 @@ Aristocracyは[貴族制](https://ja.wikipedia.org/wiki/貴族制 "wikilink")の
         『[jamais vu](https://ja.wikipedia.org/wiki/jamais_vu "wikilink")』から続けての収録。
 13. **solemnis (instrumental)**
       -
-        ソレムニス。[ミサ曲](https://ja.wikipedia.org/wiki/ミサ曲 "wikilink")に[ミサ・ソレムニス](https://ja.wikipedia.org/wiki/ミサ・ソレムニス "wikilink")という名称がある。
+        ソレムニス。[ミサ曲](../Page/ミサ曲.md "wikilink")に[ミサ・ソレムニス](../Page/ミサ・ソレムニス.md "wikilink")という名称がある。
 
 ## 参加ミュージシャン
 
   - All Lyrics by [Arika Takarano](https://ja.wikipedia.org/wiki/宝野アリカ "wikilink")
-  - All Composed & Arranged by [Mikiya Katakura](https://ja.wikipedia.org/wiki/片倉三起也 "wikilink")
+  - All Composed & Arranged by [Mikiya Katakura](../Page/片倉三起也.md "wikilink")
   - Strings Arrangement：[Tsuyoshi Watanabe](../Page/渡辺剛_\(ヴァイオリニスト\).md "wikilink")\[M6\]、Akira Saitoh(斉藤聡)\[M10,11\]
   - Violin 1st：[Tsuyoshi Watanabe](../Page/渡辺剛_\(ヴァイオリニスト\).md "wikilink")\[M1,3,4,6,9,10,11,13\]
   - Violin 2nd：Hitoshi Konno(今野均)\[M1,6,10,11,13\]
   - [Viola](../Page/ヴィオラ.md "wikilink")：Katsuhiko Tohyama(遠山克彦)\[M1,6,10,11,13\]
   - [V.Cello](../Page/チェロ.md "wikilink")：Udai Shika(四家卯大)\[M1,6,10,11,13\]
-  - [A.Guitars](../Page/アコースティック・ギター.md "wikilink") & [E.Guitars](../Page/エレクトリック・ギター.md "wikilink")：[Shinji Wajima](https://ja.wikipedia.org/wiki/和嶋慎治 "wikilink")\[M6,7\]
+  - [A.Guitars](../Page/アコースティック・ギター.md "wikilink") & [E.Guitars](../Page/エレクトリック・ギター.md "wikilink")：[Shinji Wajima](../Page/和嶋慎治.md "wikilink")\[M6,7\]
   - Piano：Takehiko Yamada(山田武彦)\[M10,11\]
 
 ## クレジット

@@ -5,18 +5,18 @@
 
 ## 概要
 
-1993年 - 2000年に[ビーボーイコミックス](https://ja.wikipedia.org/wiki/ビーボーイコミックス "wikilink")（[ビブロス](https://ja.wikipedia.org/wiki/ビブロス_\(出版社\) "wikilink")）から全7巻で発売され、2007年[HUG文庫](https://ja.wikipedia.org/wiki/HUG文庫 "wikilink")（発行：[メディエイション](https://ja.wikipedia.org/wiki/E☆2#メディエイション "wikilink") 発売：[飛鳥新社](https://ja.wikipedia.org/wiki/飛鳥新社 "wikilink")）から全5巻で発売された。その後2010年に久々の新作・新レギュラーキャラクターが登場する[同人誌](../Page/同人誌.md "wikilink")「FAKE second」が発行され、現在3巻まで発売中。ただし「FAKE second」は前述の通り同人誌であるため全国の書店では発売されず、指定された書店と指定された[ネット通販](https://ja.wikipedia.org/wiki/ネット通販 "wikilink")、及び作者が参加する[同人誌即売会](../Page/同人誌即売会.md "wikilink")での発売となる。
+1993年 - 2000年に[ビーボーイコミックス](https://ja.wikipedia.org/wiki/ビーボーイコミックス "wikilink")（[ビブロス](../Page/ビブロス_\(出版社\).md "wikilink")）から全7巻で発売され、2007年[HUG文庫](https://ja.wikipedia.org/wiki/HUG文庫 "wikilink")（発行：[メディエイション](https://ja.wikipedia.org/wiki/E☆2#メディエイション "wikilink") 発売：[飛鳥新社](../Page/飛鳥新社.md "wikilink")）から全5巻で発売された。その後2010年に久々の新作・新レギュラーキャラクターが登場する[同人誌](../Page/同人誌.md "wikilink")「FAKE second」が発行され、現在3巻まで発売中。ただし「FAKE second」は前述の通り同人誌であるため全国の書店では発売されず、指定された書店と指定された[ネット通販](https://ja.wikipedia.org/wiki/ネット通販 "wikilink")、及び作者が参加する[同人誌即売会](../Page/同人誌即売会.md "wikilink")での発売となる。
 
 [1996年](../Page/1996年.md "wikilink")に1話完結編がOVA化（60分）された。1996年版の続編として「FAKE second」についても今後OVA化が検討されている（声優陣は1996年版と同一キャストかについては不明）。
 
-本作品は「[グラビテーション](https://ja.wikipedia.org/wiki/グラビテーション_\(漫画\) "wikilink")」と並んで[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")で発売された最初の日本のボーイズラブ漫画である\[1\]。
+本作品は「[グラビテーション](../Page/グラビテーション_\(漫画\).md "wikilink")」と並んで[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")で発売された最初の日本のボーイズラブ漫画である\[1\]。
 
 ## ストーリー
 
 ## キャラクター
 
   - ランディ・リョウ・マクレーン
-    [声](../Page/声優.md "wikilink")：[飛田展男](https://ja.wikipedia.org/wiki/飛田展男 "wikilink")
+    [声](../Page/声優.md "wikilink")：[飛田展男](../Page/飛田展男.md "wikilink")
     日系人。本名の名前はりょうで、苗字は不明。
     見た目は華奢だが、中身は堅物。射撃は超一流で部屋もきれい。
     18歳の時に両親を事故で失い、おばさんに預けられ警察官になる。のちに両親は間違って殺された事を知る。
@@ -58,4 +58,4 @@
 
 [Category:やおい漫画](https://ja.wikipedia.org/wiki/Category:やおい漫画 "wikilink") [Category:漫画作品_ふ](https://ja.wikipedia.org/wiki/Category:漫画作品_ふ "wikilink") [Category:ボーイズラブアニメ](https://ja.wikipedia.org/wiki/Category:ボーイズラブアニメ "wikilink") [Category:アニメ作品_ふ](https://ja.wikipedia.org/wiki/Category:アニメ作品_ふ "wikilink") [Category:1996年のOVA](https://ja.wikipedia.org/wiki/Category:1996年のOVA "wikilink")
 
-1.  [椎名ゆかり](https://ja.wikipedia.org/wiki/椎名ゆかり "wikilink") 「アメリカでのBLマンガ人気」『[ユリイカ](https://ja.wikipedia.org/wiki/ユリイカ_\(雑誌\) "wikilink")』2007年12月臨時増刊号、181頁。
+1.  [椎名ゆかり](https://ja.wikipedia.org/wiki/椎名ゆかり "wikilink") 「アメリカでのBLマンガ人気」『[ユリイカ](../Page/ユリイカ_\(雑誌\).md "wikilink")』2007年12月臨時増刊号、181頁。

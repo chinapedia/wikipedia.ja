@@ -1,13 +1,13 @@
 > この記事は[ENEOS](https://ja.wikipedia.org/wiki/ENEOS)から翻訳されています。
 
 
-**株式会社ENEOSフロンティア**（エネオスフロンティア）は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[中央区](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")[銀座](https://ja.wikipedia.org/wiki/銀座 "wikilink")に[本社](https://ja.wikipedia.org/wiki/本社 "wikilink")を置く、[エネルギー](https://ja.wikipedia.org/wiki/エネルギー "wikilink")販売会社である。[JXTGエネルギー](https://ja.wikipedia.org/wiki/JXTGエネルギー "wikilink")の完全子会社。
+**株式会社ENEOSフロンティア**（エネオスフロンティア）は、[東京都](../Page/東京都.md "wikilink")[中央区](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")[銀座](https://ja.wikipedia.org/wiki/銀座 "wikilink")に[本社](../Page/本社.md "wikilink")を置く、[エネルギー](https://ja.wikipedia.org/wiki/エネルギー "wikilink")販売会社である。[JXTGエネルギー](https://ja.wikipedia.org/wiki/JXTGエネルギー "wikilink")の完全子会社。
 
 ## 概要
 
 「ENEOS」ブランドの[ガソリンスタンド](../Page/ガソリンスタンド.md "wikilink")（サービスステーション）を運営する販売店への[ガソリン](../Page/ガソリン.md "wikilink")・[灯油](../Page/灯油.md "wikilink")などの販売（[卸売](../Page/卸売.md "wikilink")）事業を行っている。サービスステーションの運営も直接行っており、グループ全体で1,324店舗を運営している（2015年7月1日現在）。
 
-2015年7月1日付で、直営店・販売店事業のみを残した上で[ENEOSネット](https://ja.wikipedia.org/wiki/ENEOSネット "wikilink")を吸収合併し、その他の事業は全て[ENEOSサンエナジー](https://ja.wikipedia.org/wiki/ENEOSサンエナジー "wikilink")に統合した。
+2015年7月1日付で、直営店・販売店事業のみを残した上で[ENEOSネット](../Page/ENEOSネット.md "wikilink")を吸収合併し、その他の事業は全て[ENEOSサンエナジー](https://ja.wikipedia.org/wiki/ENEOSサンエナジー "wikilink")に統合した。
 
 ## 沿革
 
@@ -26,16 +26,16 @@
 
   - [1936年](../Page/1936年.md "wikilink")（昭和11年）[8月10日](../Page/8月10日.md "wikilink") - 小澤油店創立。
   - [1948年](../Page/1948年.md "wikilink")（昭和23年）[4月28日](../Page/4月28日.md "wikilink") - 株式会社小澤商店に改組。
-  - [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")（昭和45年）9月 - 小澤物産株式会社に社名変更。
+  - [1970年](../Page/1970年.md "wikilink")（昭和45年）9月 - 小澤物産株式会社に社名変更。
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）10月 - 関西小澤株式会社を設立。
   - [2003年](../Page/2003年.md "wikilink")（平成15年）[7月1日](../Page/7月1日.md "wikilink") - 中央日石株式会社（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")3月設立）、千葉エネルギー株式会社（[1999年](../Page/1999年.md "wikilink")3月設立）、菱油販売株式会社（[1931年](../Page/1931年.md "wikilink")5月設立）の経営を統合。地域販売会社5社（エネッツ東京販売、エネッツ西東京販売、エネッツ神奈川販売、エネッツ千葉販売、エネッツ埼玉販売）を設立し、ガソリンスタンドの運営を移管。
   - 2003年（平成15年）12月 - 中央日石、千葉エネルギー解散（菱油販売は不動産賃貸会社として存続）。
 
 ### ENEOSフロンティア発足後
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）[10月1日](../Page/10月1日.md "wikilink") - [会社分割](../Page/会社分割.md "wikilink")により小澤物産が石油販売部門を分割、イドムコが継承し**株式会社ENEOSフロンティア**に社名変更。地域販売会社を15社に再編。地域販売子会社は「株式会社ENEOSフロンティア○○」（○○には地域名〈東京・西東京・千葉・埼玉・群馬・神奈川・長野・中部・滋賀・関西・阪神・四国・中国・九州・南九州〉が入る）という社名である。
+  - [2005年](../Page/2005年.md "wikilink")（平成17年）[10月1日](../Page/10月1日.md "wikilink") - [会社分割](../Page/会社分割.md "wikilink")により小澤物産が石油販売部門を分割、イドムコが継承し**株式会社ENEOSフロンティア**に社名変更。地域販売会社を15社に再編。地域販売子会社は「株式会社ENEOSフロンティア○○」（○○には地域名〈東京・西東京・千葉・埼玉・群馬・神奈川・長野・中部・滋賀・関西・阪神・四国・中国・九州・南九州〉が入る）という社名である。
   - [2007年](../Page/2007年.md "wikilink")（平成19年）4月1日 - 地域販売会社のENEOSフロンティア四国がENEOSフロンティア阪神に合併。
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）4月1日 - [太平洋石油販売](https://ja.wikipedia.org/wiki/太平洋石油販売 "wikilink")・[高輪エネルギー](https://ja.wikipedia.org/wiki/高輪エネルギー "wikilink")および地域販売子会社14社を吸収合併。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）4月1日 - [太平洋石油販売](../Page/太平洋石油販売.md "wikilink")・[高輪エネルギー](https://ja.wikipedia.org/wiki/高輪エネルギー "wikilink")および地域販売子会社14社を吸収合併。
   - 2008年（平成20年）12月28日 - マツハヤ（旧松早石油）の石油販売部門が分社化したマツハヤ石油を完全子会社化。
   - 2009年（平成21年）11月1日 - 旧三菱石油特約店 斐太石油株式会社を完全子会社化。
   - 2009年（平成21年）11月1日 - 旧日本石油特約店 太平石油株式会社を完全子会社化。
@@ -55,13 +55,13 @@
 
 ## 関連項目
 
-  - [JXTGグループ](https://ja.wikipedia.org/wiki/JXTGグループ "wikilink")
-  - [ENEOSネット](https://ja.wikipedia.org/wiki/ENEOSネット "wikilink")（旧JOMOネット。旧JOMO系列の直営販売店。当社に吸収合併）
+  - [JXTGグループ](../Page/JXTGグループ.md "wikilink")
+  - [ENEOSネット](../Page/ENEOSネット.md "wikilink")（旧JOMOネット。旧JOMO系列の直営販売店。当社に吸収合併）
   - [ENEOSウイング](../Page/ENEOSウイング.md "wikilink")（旧一光、旧鈴与系の販売店）
 
 ENEOSフロンティアと上記2社を一括りに「**ENEOS3兄弟**」と見る向きもあるが、ENEOSフロンティアとENEOSネットはJXTGエネルギーの100％子会社であるのに対し、ENEOSウイングは60％の持分を有する子会社J\&Sフリートホールディングスの子会社である点が大きく異なる（[鈴与商事](../Page/鈴与商事.md "wikilink")が40％出資している為）。
 
-  - ENEOSジェネレーションズ （旧東燃ゼネラル系販売子会社で[エッソ](https://ja.wikipedia.org/wiki/エッソ "wikilink")、[モービル](https://ja.wikipedia.org/wiki/モービル_\(ブランド\) "wikilink")、ゼネラルブランドでSSを運営していた中央石油販売が2019年4月1日に社名をENEOSジェネレーションズに変更した）
+  - ENEOSジェネレーションズ （旧東燃ゼネラル系販売子会社で[エッソ](../Page/エッソ.md "wikilink")、[モービル](../Page/モービル_\(ブランド\).md "wikilink")、ゼネラルブランドでSSを運営していた中央石油販売が2019年4月1日に社名をENEOSジェネレーションズに変更した）
 
 ## 外部リンク
 

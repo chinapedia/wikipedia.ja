@@ -1,13 +1,13 @@
 > この記事は[ WILD AMBITION](https://ja.wikipedia.org/wiki/_WILD_AMBITION)から翻訳されています。
 
 
-『**餓狼伝説 WILD AMBITION**』（がろうでんせつ ワイルドアンビション）は、[1999年](../Page/1999年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink")に[SNKが](../Page/SNK_\(1978年設立の企業\).md "wikilink")[ハイパーネオジオ64](../Page/ハイパーネオジオ64.md "wikilink")で発売した[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")。同年[6月24日](../Page/6月24日.md "wikilink")には[プレイステーション版が発売され](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")、ハイパーネオジオ64から唯一の移植となった（[2007年](../Page/2007年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")から[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")で配信されている）。
+『**餓狼伝説 WILD AMBITION**』（がろうでんせつ ワイルドアンビション）は、[1999年](../Page/1999年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink")に[SNKが](../Page/SNK_\(1978年設立の企業\).md "wikilink")[ハイパーネオジオ64](../Page/ハイパーネオジオ64.md "wikilink")で発売した[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")。同年[6月24日](../Page/6月24日.md "wikilink")には[プレイステーション版が発売され](../Page/PlayStation_\(ゲーム機\).md "wikilink")、ハイパーネオジオ64から唯一の移植となった（[2007年](../Page/2007年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")から[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")で配信されている）。
 
 ## 概要
 
-『[餓狼伝説](https://ja.wikipedia.org/wiki/餓狼伝説 "wikilink")』シリーズ唯一の3D格闘ゲーム。
+『[餓狼伝説](../Page/餓狼伝説.md "wikilink")』シリーズ唯一の3D格闘ゲーム。
 
-前作に当たる『[リアルバウト餓狼伝説2](https://ja.wikipedia.org/wiki/リアルバウト餓狼伝説#シリーズ作品 "wikilink")』の直接の続編ではなく、ストーリーは初代『餓狼伝説』の話となっている。しかし、世界中が大会の舞台（初代の大会の舞台は[サウスタウン](https://ja.wikipedia.org/wiki/サウスタウン "wikilink")のみ）になったり、初代の時点で未登場のキャラクターも登場するなどアレンジが施されている。
+前作に当たる『[リアルバウト餓狼伝説2](https://ja.wikipedia.org/wiki/リアルバウト餓狼伝説#シリーズ作品 "wikilink")』の直接の続編ではなく、ストーリーは初代『餓狼伝説』の話となっている。しかし、世界中が大会の舞台（初代の大会の舞台は[サウスタウン](../Page/サウスタウン.md "wikilink")のみ）になったり、初代の時点で未登場のキャラクターも登場するなどアレンジが施されている。
 
 キャラクターイラストはヒロアキが担当。
 
@@ -22,40 +22,40 @@
 
 ## 登場キャラクター
 
-  - [テリー・ボガード](../Page/テリー・ボガード.md "wikilink")［*Terry Bogard*］（[声](../Page/声優.md "wikilink")：[橋本さとし](https://ja.wikipedia.org/wiki/橋本さとし "wikilink")）
+  - [テリー・ボガード](../Page/テリー・ボガード.md "wikilink")［*Terry Bogard*］（[声](../Page/声優.md "wikilink")：[橋本さとし](../Page/橋本さとし.md "wikilink")）
     ギースに殺されたジェフ・ボガードの養子。ジェフ譲りの喧嘩殺法を使う。
-  - [アンディ・ボガード](https://ja.wikipedia.org/wiki/アンディ・ボガード "wikilink")［*Andy Bogard*］（声：[難波圭一](https://ja.wikipedia.org/wiki/難波圭一 "wikilink")）
+  - [アンディ・ボガード](../Page/アンディ・ボガード.md "wikilink")［*Andy Bogard*］（声：[難波圭一](../Page/難波圭一.md "wikilink")）
     テリーの弟。舞の祖父・不知火半蔵に骨法を学ぶ。2Pは髪を束ねている。
-  - [ジョー・ヒガシ](https://ja.wikipedia.org/wiki/ジョー・ヒガシ "wikilink")［*Joe Higashi*］（声：[檜山修之](../Page/檜山修之.md "wikilink")）
+  - [ジョー・ヒガシ](../Page/ジョー・ヒガシ.md "wikilink")［*Joe Higashi*］（声：[檜山修之](../Page/檜山修之.md "wikilink")）
     ムエタイの日本人チャンプ。名前は「東丈」や「ジョー・東」とも表記される。
-  - [不知火舞](https://ja.wikipedia.org/wiki/不知火舞 "wikilink")［*Mai Shiranui*］（声：[曽木亜古弥](../Page/曽木亜古弥.md "wikilink")）
-    不知火流忍術を駆使するくノ一。アンディを追って里を出る。本来は『[餓狼伝説2](https://ja.wikipedia.org/wiki/餓狼伝説2 "wikilink")』で初登場するキャラクター。
-  - [キム・カッファン](https://ja.wikipedia.org/wiki/キム・カッファン "wikilink")［*Kim Kaphwan*］（声：橋本さとし）
+  - [不知火舞](../Page/不知火舞.md "wikilink")［*Mai Shiranui*］（声：[曽木亜古弥](../Page/曽木亜古弥.md "wikilink")）
+    不知火流忍術を駆使するくノ一。アンディを追って里を出る。本来は『[餓狼伝説2](../Page/餓狼伝説2.md "wikilink")』で初登場するキャラクター。
+  - [キム・カッファン](../Page/キム・カッファン.md "wikilink")［*Kim Kaphwan*］（声：橋本さとし）
     正義を重んじ悪を許さないテコンドーの師範。テコンドーが最強の格闘技と自負する。本来は『餓狼伝説2』で初登場するキャラクター。
   - [ライデン](../Page/ライデン_\(餓狼伝説\).md "wikilink")［*Raiden*］（声：[ジョン・フラトン](https://ja.wikipedia.org/wiki/ジョン・フラトン "wikilink")）
     かつてのパートナーの裏切りに遭い、協会を追放されたレスラー。『餓狼伝説2』と『[餓狼伝説SPECIAL](https://ja.wikipedia.org/wiki/餓狼伝説SPECIAL "wikilink")』では善玉の「ビッグ・ベア」として登場したが、今作は初代のストーリーなのでギース配下の悪役マスクレスラーとして登場する。1Pの服装はビッグ・ベアのものがベースで、2Pの服装は初代ライデンのものがベースになっている。
-  - 千堂つぐみ［*Tsugumi Sendo*］（声：[出口佳代](https://ja.wikipedia.org/wiki/津々見沙月 "wikilink")）
+  - 千堂つぐみ［*Tsugumi Sendo*］（声：[出口佳代](../Page/津々見沙月.md "wikilink")）
     レスラーを父に持つ女子高生。レスリングをやめる為に大会に優勝すると父に約束を取り付けるが、徐々に格闘にハマっていく。今作のオリジナルキャラクター。
-  - 坂田冬次［*Toji Sakata*］（声：[菅原正志](https://ja.wikipedia.org/wiki/菅原正志 "wikilink")）
-    周防辰巳（ギースの師匠であり、[ブルー・マリー](https://ja.wikipedia.org/wiki/ブルー・マリー "wikilink")の祖父）のライバルであった人物。大南流合気柔術の使い手。今作のオリジナルキャラクター。
-  - [山崎竜二](https://ja.wikipedia.org/wiki/山崎竜二 "wikilink")［*Ryuji Yamazaki*］（声：[石井康嗣](https://ja.wikipedia.org/wiki/石井康嗣 "wikilink")）
-    香港を根城にする闇のブローカー。今作でポケットに入れている手が右手になっている（これ以前は、少なくともイラスト上では左手を入れていた）。本来は『[餓狼伝説3](https://ja.wikipedia.org/wiki/餓狼伝説3 "wikilink")』で初登場するキャラクター。
-  - [ビリー・カーン](https://ja.wikipedia.org/wiki/ビリー・カーン "wikilink")［*Billy Kane*］（声：[山西惇](https://ja.wikipedia.org/wiki/山西惇 "wikilink")）
+  - 坂田冬次［*Toji Sakata*］（声：[菅原正志](../Page/菅原正志.md "wikilink")）
+    周防辰巳（ギースの師匠であり、[ブルー・マリー](../Page/ブルー・マリー.md "wikilink")の祖父）のライバルであった人物。大南流合気柔術の使い手。今作のオリジナルキャラクター。
+  - [山崎竜二](../Page/山崎竜二.md "wikilink")［*Ryuji Yamazaki*］（声：[石井康嗣](../Page/石井康嗣.md "wikilink")）
+    香港を根城にする闇のブローカー。今作でポケットに入れている手が右手になっている（これ以前は、少なくともイラスト上では左手を入れていた）。本来は『[餓狼伝説3](../Page/餓狼伝説3.md "wikilink")』で初登場するキャラクター。
+  - [ビリー・カーン](../Page/ビリー・カーン.md "wikilink")［*Billy Kane*］（声：[山西惇](../Page/山西惇.md "wikilink")）
     ギースの部下である棒術使い。今作は使用する棒が初代とは違い、三節棍になっている。また1Pの服装は『リアルバウト餓狼伝説』シリーズのものがベースで、2Pの服装は同ゲームのポスターのスーツ姿がベースになっている。
 
 ### 隠しキャラクター
 
-  - [ギース・ハワード](../Page/ギース・ハワード.md "wikilink")［*Geese Howard*］（声：[コング桑田](https://ja.wikipedia.org/wiki/コング桑田 "wikilink")）
+  - [ギース・ハワード](../Page/ギース・ハワード.md "wikilink")［*Geese Howard*］（声：[コング桑田](../Page/コング桑田.md "wikilink")）
     サウスタウンを牛耳るコネクションのボス。古武術の使い手。今作では、スタートボタンを押しながら決定する事でスーツ姿にする事が出来る。
   - [李香緋](https://ja.wikipedia.org/wiki/李香緋 "wikilink")［*Li Xiangfei*］（声：[金月真美](../Page/金月真美.md "wikilink")）
     『リアルバウト餓狼伝説2』からのゲストキャラクター。ゲストにつき、ストーリーはなし。
 
 ### プレイステーション版追加キャラクター
 
-  - [ダック・キング](https://ja.wikipedia.org/wiki/ダック・キング "wikilink")［*Duck King*］（声：コング桑田）
+  - [ダック・キング](../Page/ダック・キング.md "wikilink")［*Duck King*］（声：コング桑田）
     テリーをライバル視する、モヒカン頭のストリートダンサー兼ストリートファイター。初代や『餓狼伝説SPECIAL』とは違うスタイルの新しい衣装で登場。今作ではファイト中にPちゃんは出てこない。
-  - Mr.カラテ［*Mr. Karate*］（声：[臼井雅基](https://ja.wikipedia.org/wiki/臼井雅基 "wikilink")）
-    『[龍虎の拳](https://ja.wikipedia.org/wiki/龍虎の拳 "wikilink")』の主人公、[リョウ・サカザキ](../Page/リョウ・サカザキ.md "wikilink")の後の姿。天狗の面はつけていない。
+  - Mr.カラテ［*Mr. Karate*］（声：[臼井雅基](../Page/臼井雅基.md "wikilink")）
+    『[龍虎の拳](../Page/龍虎の拳.md "wikilink")』の主人公、[リョウ・サカザキ](../Page/リョウ・サカザキ.md "wikilink")の後の姿。天狗の面はつけていない。
 
 ## オリジナル サウンドトラック
 
@@ -64,7 +64,7 @@
 
 ## 関連項目
 
-  - [SNKの対戦型格闘ゲーム一覧](https://ja.wikipedia.org/wiki/SNKの対戦型格闘ゲーム一覧 "wikilink")
+  - [SNKの対戦型格闘ゲーム一覧](../Page/SNKの対戦型格闘ゲーム一覧.md "wikilink")
 
 ## 外部リンク
 

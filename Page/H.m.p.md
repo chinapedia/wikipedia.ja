@@ -1,11 +1,11 @@
 > この記事は[H.m.p](https://ja.wikipedia.org/wiki/H.m.p)から翻訳されています。
 
 
-**h.m.p株式会社**は、[1981年](../Page/1981年.md "wikilink")に創業した日本の[アダルトビデオメーカー](https://ja.wikipedia.org/wiki/アダルトビデオメーカー "wikilink")。一般向け映像ソフトの制作・販売も行う。
+**h.m.p株式会社**は、[1981年](../Page/1981年.md "wikilink")に創業した日本の[アダルトビデオメーカー](../Page/アダルトビデオメーカー.md "wikilink")。一般向け映像ソフトの制作・販売も行う。
 
 ## 概要
 
-[ビデ倫系](https://ja.wikipedia.org/wiki/日本ビデオ倫理協会 "wikilink")[AVメーカー最大手の一つであり](https://ja.wikipedia.org/wiki/アダルトビデオ "wikilink")、以下の各社で構成する芳友グループの中核企業である（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")1月現在）。
+[ビデ倫系](https://ja.wikipedia.org/wiki/日本ビデオ倫理協会 "wikilink")[AVメーカー最大手の一つであり](https://ja.wikipedia.org/wiki/アダルトビデオ "wikilink")、以下の各社で構成する芳友グループの中核企業である（[2006年](../Page/2006年.md "wikilink")1月現在）。
 
 1.  **h.m.p**株式会社
 2.  株式会社**芳友舎**
@@ -14,7 +14,7 @@
 5.  株式会社**メディア・ジャック**
 6.  株式会社**メディア・ワーク・ステーション**
 
-本項では発売元となっている1～4の各社を中心に取り上げる。5は[ピンク映画](https://ja.wikipedia.org/wiki/ピンク映画 "wikilink")の監督として知られた[笠井雅裕](https://ja.wikipedia.org/wiki/笠井雅裕 "wikilink")が率いる制作会社。なお後述するが、現在の芳友舎は[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に設立された社内企業であり、旧芳友舎の流れを汲むのはh.m.pの方である。
+本項では発売元となっている1～4の各社を中心に取り上げる。5は[ピンク映画](../Page/ピンク映画.md "wikilink")の監督として知られた[笠井雅裕](https://ja.wikipedia.org/wiki/笠井雅裕 "wikilink")が率いる制作会社。なお後述するが、現在の芳友舎は[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に設立された社内企業であり、旧芳友舎の流れを汲むのはh.m.pの方である。
 
 ## 沿革
 
@@ -22,13 +22,13 @@
 
 オーナーの賀山茂が[1979年](../Page/1979年.md "wikilink")に[東京](../Page/東京.md "wikilink")・[六本木](../Page/六本木.md "wikilink")に開設した会員制[SMサロン](../Page/SM_\(性風俗\).md "wikilink")、「SAMM」を母体に[1981年](../Page/1981年.md "wikilink")に創業。サロンの名を冠した「サム・ビデオ・センター」として、当初は「本格派のSM」をうたったマニアックなSM作品をリリースしていた。
 
-[1984年](../Page/1984年.md "wikilink")3月、株式会社芳友舎が設立され、サムは同社のメインレーベルとなるとともに、作品の傾向も一般的な路線へとシフトした。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")、[九鬼で監督デビューしていた](https://ja.wikipedia.org/wiki/九鬼_\(アダルトビデオ\) "wikilink")[豊田薫が加入](../Page/豊田薫_\(AV監督\).md "wikilink")。「マクロ・ボディ　奥までのぞいて」等の性表現の限界を追求した作品群を世に送り出し、サムへの注目度を一気に高めた。豊田は[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に[ダイヤモンド映像](../Page/ダイヤモンド映像.md "wikilink")に移籍するまでの間、[斉藤唯](../Page/斉藤唯.md "wikilink")の「禁姦色II」などのヒット作品を数多く制作し、80年代のサムの牽引役となった。また[神野龍太郎](https://ja.wikipedia.org/wiki/神野龍太郎 "wikilink")、[東良美季](https://ja.wikipedia.org/wiki/東良美季 "wikilink")などの職人肌の監督が、キャッチーかつハード路線というサムのレーベルカラーを演出。[1988年](../Page/1988年.md "wikilink")ごろから始まった「淫乱ブーム」では、80年代中盤の美少女ブームを主導した[宇宙企画が失速する一方で](https://ja.wikipedia.org/wiki/メディアステーション "wikilink")、サムは存在感を強くアピールした。
+[1984年](../Page/1984年.md "wikilink")3月、株式会社芳友舎が設立され、サムは同社のメインレーベルとなるとともに、作品の傾向も一般的な路線へとシフトした。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")、[九鬼で監督デビューしていた](../Page/九鬼_\(アダルトビデオ\).md "wikilink")[豊田薫が加入](../Page/豊田薫_\(AV監督\).md "wikilink")。「マクロ・ボディ　奥までのぞいて」等の性表現の限界を追求した作品群を世に送り出し、サムへの注目度を一気に高めた。豊田は[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に[ダイヤモンド映像](../Page/ダイヤモンド映像.md "wikilink")に移籍するまでの間、[斉藤唯](../Page/斉藤唯.md "wikilink")の「禁姦色II」などのヒット作品を数多く制作し、80年代のサムの牽引役となった。また[神野龍太郎](https://ja.wikipedia.org/wiki/神野龍太郎 "wikilink")、[東良美季](https://ja.wikipedia.org/wiki/東良美季 "wikilink")などの職人肌の監督が、キャッチーかつハード路線というサムのレーベルカラーを演出。[1988年](../Page/1988年.md "wikilink")ごろから始まった「淫乱ブーム」では、80年代中盤の美少女ブームを主導した[宇宙企画が失速する一方で](https://ja.wikipedia.org/wiki/メディアステーション "wikilink")、サムは存在感を強くアピールした。
 
 サムと並行して、芳友舎は[1984年](../Page/1984年.md "wikilink")に「ミス・クリスティーヌ（Miss Christine）」レーベルを設置。1社が複数のレーベルを持つ先駆け的なケースであり、社員監督・[島村雪彦](https://ja.wikipedia.org/wiki/島村雪彦 "wikilink")の女優の外見的な質を重視した作風は、サムのハード路線と並ぶ芳友舎の一方の個性となった。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")には株式会社クリスティーヌとして分社化され活動を本格化、[葉山レイコ](../Page/葉山レイコ.md "wikilink")の「[処女宮　うぶ毛のヴィーナス](https://ja.wikipedia.org/wiki/処女宮_\(アダルトビデオ\) "wikilink")」などのヒット作を生んでいる。[1989年](../Page/1989年.md "wikilink")にはクリスティーヌ傘下に、トップクラスの美少女ものだけをリリースするという「ティファニー（Tiffany）」レーベルも設けられた。また[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")には芳友舎とクリスティーヌの合同レーベルとして「ゴールデン・サム（Golden SAMM）」（後の「小さな映画会社」）が発足。複数キャストによる映画的な作品を制作するレーベルで、[武智鉄二](../Page/武智鉄二.md "wikilink")や[片岡修二](../Page/片岡修二.md "wikilink")といった映画畑の監督が作品を残した。
 
 ### 1990年代～2000年代
 
-1990年代初頭のレーベル再編で、ミス・クリスティーヌ、ティファニーはサムとともに芳友舎が発売元となった。また小さな映画会社は活動を停止し、「スーパー過激レーベル」をうたった「エックス（X）」が短期間設けられた。[1992年](../Page/1992年.md "wikilink")には株式会社エイトマンが設立され、複数キャスト専用のレーベル「エイトマン」、単体レーベルの「メビウス（MOBIUS）」などが設置された。[1993年](../Page/1993年.md "wikilink")には芳友舎初の企画もの専門レーベルである「Q」が始動している。1990年代の芳友舎は、総合プロデューサーである島村雪彦の方針を反映して、[星野ひかる](https://ja.wikipedia.org/wiki/星野ひかる "wikilink")や[白石ひとみ](../Page/白石ひとみ.md "wikilink")、[浅倉舞](../Page/浅倉舞.md "wikilink")など美少女系AV女優の作品でヒットを量産し、1980年代にサムが打ち出したハード路線はやや影を潜めた感があった。
+1990年代初頭のレーベル再編で、ミス・クリスティーヌ、ティファニーはサムとともに芳友舎が発売元となった。また小さな映画会社は活動を停止し、「スーパー過激レーベル」をうたった「エックス（X）」が短期間設けられた。[1992年](../Page/1992年.md "wikilink")には株式会社エイトマンが設立され、複数キャスト専用のレーベル「エイトマン」、単体レーベルの「メビウス（MOBIUS）」などが設置された。[1993年](../Page/1993年.md "wikilink")には芳友舎初の企画もの専門レーベルである「Q」が始動している。1990年代の芳友舎は、総合プロデューサーである島村雪彦の方針を反映して、[星野ひかる](../Page/星野ひかる.md "wikilink")や[白石ひとみ](../Page/白石ひとみ.md "wikilink")、[浅倉舞](../Page/浅倉舞.md "wikilink")など美少女系AV女優の作品でヒットを量産し、1980年代にサムが打ち出したハード路線はやや影を潜めた感があった。
 
 [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")には株式会社芳友メディアプロデュースに改称。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")には株式会社エイチエムピィ（h.m.p）へと改称された（[2004年](../Page/2004年.md "wikilink")にはh.m.p株式会社に改称）。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")には株式会社芳友舎ジェイ（芳友舎J）を設立、厳選した美少女だけをリリースするという「フォー・ユー（for you）」レーベルを設置した。[2001年](../Page/2001年.md "wikilink")には芳友舎ジェイを株式会社芳友舎と改称するとともに、「プラチナティファニー（PLATINUM Tiffany）」、「ダイヤモンドティファニー（DIAMOND Tiffany）」の各レーベルを設けて、フォー・ユーとティファニーを吸収している。なお美少女路線を牽引した島村雪彦は[1999年](../Page/1999年.md "wikilink")に同社を離れている。2000年代のh.m.p／芳友舎では美少女系を重視しつつも、総合メーカーとしての色彩を強めている。また多くのレーベルの再編がこれまでになく頻繁に行われるようになり、ミス・クリスティーヌは[2003年](../Page/2003年.md "wikilink")、サムも[2004年](../Page/2004年.md "wikilink")を最後にリリースが停止されている。 モザイクの処理に問題が発覚。
 
@@ -36,7 +36,7 @@
 
 ### 銀河映像、ビデオバンク
 
-銀河映像株式会社は元々販社の位置づけで[1989年](../Page/1989年.md "wikilink")に設立されたが、1990年代から2000年代にかけて、「姦」レーベルや「SEX 9」レーベル等で独自に作品をリリースしている。株式会社ビデオバンクは[1993年](../Page/1993年.md "wikilink")に設立され、映像コンテンツの再活用による編集版を中心にリリースしている。一時、[バクシーシ山下](https://ja.wikipedia.org/wiki/バクシーシ山下 "wikilink")監督による「DOCUMENT」レーベルの発売元となったこともある。
+銀河映像株式会社は元々販社の位置づけで[1989年](../Page/1989年.md "wikilink")に設立されたが、1990年代から2000年代にかけて、「姦」レーベルや「SEX 9」レーベル等で独自に作品をリリースしている。株式会社ビデオバンクは[1993年](../Page/1993年.md "wikilink")に設立され、映像コンテンツの再活用による編集版を中心にリリースしている。一時、[バクシーシ山下](../Page/バクシーシ山下.md "wikilink")監督による「DOCUMENT」レーベルの発売元となったこともある。
 
 ## 主要新作レーベルと活動期間、発売会社の変遷
 
@@ -124,13 +124,13 @@
 
 <!-- end list -->
 
-  - [いつか](https://ja.wikipedia.org/wiki/いつか_\(AV女優\) "wikilink")（2月）
-  - [三浦沙耶香](https://ja.wikipedia.org/wiki/三浦沙耶香 "wikilink")（2月）
+  - [いつか](../Page/いつか_\(AV女優\).md "wikilink")（2月）
+  - [三浦沙耶香](../Page/三浦沙耶香.md "wikilink")（2月）
   - [青山可奈](https://ja.wikipedia.org/wiki/青山可奈 "wikilink")（3月）
   - [内田彩](https://ja.wikipedia.org/wiki/うちだあや "wikilink")（4月）
   - [木崎りの](https://ja.wikipedia.org/wiki/木崎りの "wikilink")（5月）
-  - [中島京子](https://ja.wikipedia.org/wiki/中島京子_\(AV女優\) "wikilink")（5月）
-  - [瀬戸由衣](https://ja.wikipedia.org/wiki/瀬戸由衣 "wikilink")（7月）
+  - [中島京子](../Page/中島京子_\(AV女優\).md "wikilink")（5月）
+  - [瀬戸由衣](../Page/瀬戸由衣.md "wikilink")（7月）
   - [古都ひかる](https://ja.wikipedia.org/wiki/古都ひかる "wikilink")（10月）
   - [三宿ジュン](https://ja.wikipedia.org/wiki/三宿ジュン "wikilink")（11月）
 
@@ -143,11 +143,11 @@
   - [美咲静](https://ja.wikipedia.org/wiki/美咲静 "wikilink")（6月）
   - [喜田嶋りお](https://ja.wikipedia.org/wiki/喜田嶋りお "wikilink")（7月）
   - [片瀬あき](../Page/片瀬あき.md "wikilink")（8月）
-  - [平山千里](https://ja.wikipedia.org/wiki/平山千里 "wikilink")（9月）
+  - [平山千里](../Page/平山千里.md "wikilink")（9月）
   - [滝沢優奈](../Page/滝沢優奈.md "wikilink")（9月）
-  - [みずき紗英](https://ja.wikipedia.org/wiki/みずき紗英 "wikilink")（10月）
-  - [天宮まなみ](https://ja.wikipedia.org/wiki/天宮まなみ "wikilink")（11月）
-  - [一色あずさ](https://ja.wikipedia.org/wiki/一色あずさ "wikilink")（11月）
+  - [みずき紗英](../Page/みずき紗英.md "wikilink")（10月）
+  - [天宮まなみ](../Page/天宮まなみ.md "wikilink")（11月）
+  - [一色あずさ](../Page/一色あずさ.md "wikilink")（11月）
 
 <!-- end list -->
 
@@ -155,11 +155,11 @@
 
 <!-- end list -->
 
-  - [星野あかり](https://ja.wikipedia.org/wiki/星野あかり "wikilink")（1月）
+  - [星野あかり](../Page/星野あかり.md "wikilink")（1月）
   - [美神ルナ](../Page/美神ルナ.md "wikilink")（4月）
   - [倖田梨紗](https://ja.wikipedia.org/wiki/倖田梨紗 "wikilink")（5月）
   - [鈴蘭](https://ja.wikipedia.org/wiki/鈴蘭_\(AV女優\) "wikilink")（6月）
-  - [相川みなみ](https://ja.wikipedia.org/wiki/相川みなみ "wikilink")（7月）
+  - [相川みなみ](../Page/相川みなみ.md "wikilink")（7月）
   - [一ノ瀬カレン](../Page/一ノ瀬カレン.md "wikilink")（8月）
   - [上原優実](https://ja.wikipedia.org/wiki/上原優実 "wikilink")（10月）
   - [美月れいな](../Page/美月れいな.md "wikilink")（11月）
@@ -172,7 +172,7 @@
 <!-- end list -->
 
   - [むらさき真珠](../Page/むらさき真珠.md "wikilink")（4月）
-  - [乙音奈々](https://ja.wikipedia.org/wiki/乙音奈々 "wikilink")（9月）
+  - [乙音奈々](../Page/乙音奈々.md "wikilink")（9月）
   - [栗栖エリカ](https://ja.wikipedia.org/wiki/栗栖エリカ "wikilink")（10月）
 
 <!-- end list -->
@@ -191,7 +191,7 @@
 
 <!-- end list -->
 
-  - [有希ちな](https://ja.wikipedia.org/wiki/有希ちな "wikilink")（1月、[MAX-Aとの共同プロデュース](https://ja.wikipedia.org/wiki/マックス・エー "wikilink")）
+  - [有希ちな](https://ja.wikipedia.org/wiki/有希ちな "wikilink")（1月、[MAX-Aとの共同プロデュース](../Page/マックス・エー.md "wikilink")）
   - [夏木彩](https://ja.wikipedia.org/wiki/夏木彩_\(AV女優\) "wikilink")（3月）
   - [星アンジェ](../Page/星アンジェ.md "wikilink")（3月）
   - [石原莉奈](https://ja.wikipedia.org/wiki/石原莉奈 "wikilink")（4月）
@@ -367,7 +367,7 @@
 
 <!-- end list -->
 
-  - [星野ひかる](https://ja.wikipedia.org/wiki/星野ひかる "wikilink")（6月）
+  - [星野ひかる](../Page/星野ひかる.md "wikilink")（6月）
   - [佐藤江珠](https://ja.wikipedia.org/wiki/佐藤江珠 "wikilink")（12月）
 
 <!-- end list -->
@@ -394,7 +394,7 @@
 <!-- end list -->
 
   - [川村リサ](https://ja.wikipedia.org/wiki/川村リサ "wikilink")（3月）
-  - [麻宮淳子](https://ja.wikipedia.org/wiki/麻宮淳子 "wikilink")（4月）
+  - [麻宮淳子](../Page/麻宮淳子.md "wikilink")（4月）
   - [立原貴美](../Page/立原貴美.md "wikilink")（4月、改名）
   - [白鳥美香](../Page/桜井涼子.md "wikilink")（6月）
   - [麻生菜月](https://ja.wikipedia.org/wiki/麻生菜月 "wikilink")（8月）
@@ -405,7 +405,7 @@
 
 <!-- end list -->
 
-  - [夕樹舞子](https://ja.wikipedia.org/wiki/夕樹舞子 "wikilink")（4月）
+  - [夕樹舞子](../Page/夕樹舞子.md "wikilink")（4月）
   - [遠峰夏子](https://ja.wikipedia.org/wiki/遠峰夏子 "wikilink")（7月）
   - [ナオミ](../Page/ナオミ.md "wikilink")（7月）
   - [乃坂エミ](https://ja.wikipedia.org/wiki/乃坂エミ "wikilink")（9月）
@@ -465,7 +465,7 @@
   - [沖遥](https://ja.wikipedia.org/wiki/沖遥 "wikilink")（2月）
   - [遠野春希](https://ja.wikipedia.org/wiki/遠野春希 "wikilink")（4月）
   - [星野くるみ](../Page/星野くるみ.md "wikilink")（4月）
-  - [北村うるか](https://ja.wikipedia.org/wiki/北村うるか "wikilink")（5月）
+  - [北村うるか](../Page/北村うるか.md "wikilink")（5月）
   - [後藤リナ](https://ja.wikipedia.org/wiki/後藤リナ "wikilink")（6月）
   - [森川珠里](https://ja.wikipedia.org/wiki/森川珠里 "wikilink")（6月）
   - [安倍なつき](../Page/安倍なつき.md "wikilink")（8月）
@@ -507,7 +507,7 @@
 
 <!-- end list -->
 
-  - [白鳥さくら](https://ja.wikipedia.org/wiki/白鳥さくら "wikilink")（7月）
+  - [白鳥さくら](../Page/白鳥さくら.md "wikilink")（7月）
   - [中山美嘉](https://ja.wikipedia.org/wiki/中山美嘉 "wikilink")（7月）
   - [渋谷亜美](https://ja.wikipedia.org/wiki/渋谷亜美 "wikilink")（8月）
   - [鈴木美帆](https://ja.wikipedia.org/wiki/すずきみほ "wikilink")（8月）

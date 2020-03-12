@@ -18,7 +18,7 @@
 <!-- end list -->
 
   -
-    [留置場](https://ja.wikipedia.org/wiki/留置場 "wikilink")にいたところを、在籍していた学園長の越山に引き取られる。最初は越山の命令に従っていたため、ナナカらの行為を阻止しようとしていたが、TRAP-2でのエリの死をきっかけに、これまでの過去もリセットし、越山とも決別したいという思いで仲間に入る。淀橋の狙いや身辺を単独で探っていた。眩しい光を見ると、過去に目撃した父の殺害の件がフラッシュバックし、パニックを起こすこともある。金だけがすべてという考えを持ち、それ以外のこと（人間関係など）に興味を持っていなかったが、任務を遂行していくうちに徐々に気持ちを切り替えていく。昭和55年8月14日生まれ。
+    [留置場](../Page/留置場.md "wikilink")にいたところを、在籍していた学園長の越山に引き取られる。最初は越山の命令に従っていたため、ナナカらの行為を阻止しようとしていたが、TRAP-2でのエリの死をきっかけに、これまでの過去もリセットし、越山とも決別したいという思いで仲間に入る。淀橋の狙いや身辺を単独で探っていた。眩しい光を見ると、過去に目撃した父の殺害の件がフラッシュバックし、パニックを起こすこともある。金だけがすべてという考えを持ち、それ以外のこと（人間関係など）に興味を持っていなかったが、任務を遂行していくうちに徐々に気持ちを切り替えていく。昭和55年8月14日生まれ。
 
 <!-- end list -->
 
@@ -67,7 +67,7 @@
 
 <!-- end list -->
 
-  - **淀橋 幸世** - [唐渡亮](https://ja.wikipedia.org/wiki/唐渡亮 "wikilink")
+  - **淀橋 幸世** - [唐渡亮](../Page/唐渡亮.md "wikilink")
 
 <!-- end list -->
 
@@ -76,10 +76,10 @@
 
 ### 敵対する人物
 
-  - **早乙女 誠吾** - [篠井英介](https://ja.wikipedia.org/wiki/篠井英介 "wikilink")
-  - **稲田 茂樹** - [嶋田久作](https://ja.wikipedia.org/wiki/嶋田久作 "wikilink")
-  - **信子** - [石井苗子](https://ja.wikipedia.org/wiki/石井苗子 "wikilink")
-  - **越山（仮の早乙女）** - [細川俊之](https://ja.wikipedia.org/wiki/細川俊之 "wikilink")
+  - **早乙女 誠吾** - [篠井英介](../Page/篠井英介.md "wikilink")
+  - **稲田 茂樹** - [嶋田久作](../Page/嶋田久作.md "wikilink")
+  - **信子** - [石井苗子](../Page/石井苗子.md "wikilink")
+  - **越山（仮の早乙女）** - [細川俊之](../Page/細川俊之.md "wikilink")
   - **川久保 玲子（津田 純）**- [田中美奈子](https://ja.wikipedia.org/wiki/田中美奈子 "wikilink")
   - **似鳥** - [若松武](../Page/若松武史.md "wikilink")
   - **鹿島 裕之** - [石立鉄男](../Page/石立鉄男.md "wikilink")
@@ -95,19 +95,19 @@
 
 <!-- end list -->
 
-  - **中川**　-　[峰岸徹](https://ja.wikipedia.org/wiki/峰岸徹 "wikilink")
-  - **梶山**　-　[清水章吾](https://ja.wikipedia.org/wiki/清水章吾 "wikilink")
-  - **リー**　-　[加納典明](https://ja.wikipedia.org/wiki/加納典明 "wikilink")
-  - **黒沢和正**　-　[萩原流行](https://ja.wikipedia.org/wiki/萩原流行 "wikilink")
+  - **中川**　-　[峰岸徹](../Page/峰岸徹.md "wikilink")
+  - **梶山**　-　[清水章吾](../Page/清水章吾.md "wikilink")
+  - **リー**　-　[加納典明](../Page/加納典明.md "wikilink")
+  - **黒沢和正**　-　[萩原流行](../Page/萩原流行.md "wikilink")
   - **黒沢瑠璃**　-　[増田恵子](../Page/増田恵子.md "wikilink")
-  - **菅田**　-　[石丸謙二郎](https://ja.wikipedia.org/wiki/石丸謙二郎 "wikilink")
-  - **神崎省吾**　-　[鈴木清順](https://ja.wikipedia.org/wiki/鈴木清順 "wikilink")
-  - **及川ユキオ**　-　[山崎裕太](https://ja.wikipedia.org/wiki/山崎裕太 "wikilink")
-  - **三沢**　-　[上田耕一](https://ja.wikipedia.org/wiki/上田耕一 "wikilink")
+  - **菅田**　-　[石丸謙二郎](../Page/石丸謙二郎.md "wikilink")
+  - **神崎省吾**　-　[鈴木清順](../Page/鈴木清順.md "wikilink")
+  - **及川ユキオ**　-　[山崎裕太](../Page/山崎裕太.md "wikilink")
+  - **三沢**　-　[上田耕一](../Page/上田耕一.md "wikilink")
   - **川久保祐一郎**　-　[黒部進](../Page/黒部進.md "wikilink")
-  - **川久保明**　-　[宇梶剛士](https://ja.wikipedia.org/wiki/宇梶剛士 "wikilink")
+  - **川久保明**　-　[宇梶剛士](../Page/宇梶剛士.md "wikilink")
   - **福岡広志**　-　[村野武憲](https://ja.wikipedia.org/wiki/村野武憲 "wikilink")
-  - **八神**　-　[白井晃](https://ja.wikipedia.org/wiki/白井晃 "wikilink")
+  - **八神**　-　[白井晃](../Page/白井晃.md "wikilink")
 
 ## タイトルバック・エンディング
 
@@ -251,7 +251,7 @@ TRAP-003以降の紹介順
 </tr>
 <tr class="even">
 <td></td>
-<td><p>平均視聴率16.0%（視聴率は<a href="https://ja.wikipedia.org/wiki/関東地方" title="wikilink">関東地区</a>・<a href="https://ja.wikipedia.org/wiki/ビデオリサーチ" title="wikilink">ビデオリサーチ</a>社調べ）</p></td>
+<td><p>平均視聴率16.0%（視聴率は<a href="https://ja.wikipedia.org/wiki/関東地方" title="wikilink">関東地区</a>・<a href="../Page/ビデオリサーチ.md" title="wikilink">ビデオリサーチ</a>社調べ）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -262,19 +262,19 @@ TRAP-003以降の紹介順
 
 ## スタッフ
 
-  - 脚本：[野尻靖之](https://ja.wikipedia.org/wiki/野尻靖之 "wikilink")、[橋本以蔵](../Page/橋本以蔵.md "wikilink")、[大川俊道](../Page/大川俊道.md "wikilink")、[酒井直行](https://ja.wikipedia.org/wiki/酒井直行 "wikilink")
-  - 音楽：[Ram Jam World](https://ja.wikipedia.org/wiki/Ram_Jam_World "wikilink")、[キハラ龍太郎](https://ja.wikipedia.org/wiki/キハラ龍太郎 "wikilink")、yagihashi kanpei
+  - 脚本：[野尻靖之](https://ja.wikipedia.org/wiki/野尻靖之 "wikilink")、[橋本以蔵](../Page/橋本以蔵.md "wikilink")、[大川俊道](../Page/大川俊道.md "wikilink")、[酒井直行](../Page/酒井直行.md "wikilink")
+  - 音楽：[Ram Jam World](../Page/Ram_Jam_World.md "wikilink")、[キハラ龍太郎](https://ja.wikipedia.org/wiki/キハラ龍太郎 "wikilink")、yagihashi kanpei
   - 演出：[猪股隆一](https://ja.wikipedia.org/wiki/猪股隆一 "wikilink")、大谷太郎、長沼誠
-  - ファイティングコーディネイター：[佐々木修平](https://ja.wikipedia.org/wiki/佐々木修平 "wikilink")
+  - ファイティングコーディネイター：[佐々木修平](../Page/佐々木修平.md "wikilink")
   - カースタント：[スーパードライバーズ](https://ja.wikipedia.org/wiki/スーパードライバーズ "wikilink")
   - 技術協力：[NTV映像センター](https://ja.wikipedia.org/wiki/NTV映像センター "wikilink")
   - 美術協力：[日本テレビアート](../Page/日本テレビアート.md "wikilink")
-  - チーフプロデューサー：[小杉善信](https://ja.wikipedia.org/wiki/小杉善信 "wikilink")
+  - チーフプロデューサー：[小杉善信](../Page/小杉善信.md "wikilink")
   - プロデュース：[佐藤敦](../Page/佐藤敦_\(プロデューサー\).md "wikilink")、北島和久
 
 ## 主題歌
 
-  - 「[ESCAPE](https://ja.wikipedia.org/wiki/ESCAPE_\(MOON_CHILDの曲\) "wikilink")」 - [MOON CHILD](https://ja.wikipedia.org/wiki/MOON_CHILD_\(バンド\) "wikilink")
+  - 「[ESCAPE](../Page/ESCAPE_\(MOON_CHILDの曲\).md "wikilink")」 - [MOON CHILD](../Page/MOON_CHILD_\(バンド\).md "wikilink")
 
 <!-- end list -->
 

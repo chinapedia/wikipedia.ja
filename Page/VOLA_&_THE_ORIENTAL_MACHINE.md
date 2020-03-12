@@ -5,25 +5,25 @@
 
 ## 概要・来歴
 
-名前の由来はアヒトが好きな魚である[鯔](https://ja.wikipedia.org/wiki/鯔 "wikilink")と[ナンバーガール](../Page/ナンバーガール.md "wikilink")時代に結成したサッカーチームVOLA FCからVOLA、ORIENTAL MACHINEは彼の好きなプロのサッカー選手（[奥寺康彦](../Page/奥寺康彦.md "wikilink")）の愛称から来ている。[POLYSICS](https://ja.wikipedia.org/wiki/POLYSICS "wikilink")と交流が深い。
+名前の由来はアヒトが好きな魚である[鯔](https://ja.wikipedia.org/wiki/鯔 "wikilink")と[ナンバーガール](../Page/ナンバーガール.md "wikilink")時代に結成したサッカーチームVOLA FCからVOLA、ORIENTAL MACHINEは彼の好きなプロのサッカー選手（[奥寺康彦](../Page/奥寺康彦.md "wikilink")）の愛称から来ている。[POLYSICS](../Page/POLYSICS.md "wikilink")と交流が深い。
 
-2005年に[NUMBER GIRL](https://ja.wikipedia.org/wiki/NUMBER_GIRL "wikilink") / [ZAZEN BOYS](https://ja.wikipedia.org/wiki/ZAZEN_BOYS "wikilink") を経た [アヒト・イナザワ](https://ja.wikipedia.org/wiki/アヒト・イナザワ "wikilink")が、それまで のドラマーからヴォーカル / ギター / マニピュレート等を駆使し、フロントに立つという 大胆なパート・チェンジを行い、自分の意志で活動出来るバンドとして『VOLA & THE ORIENTAL MACHINE』を結成。 現在のメンバーは、有江嘉典 (Bass) / [中畑大樹](https://ja.wikipedia.org/wiki/中畑大樹 "wikilink") (Drums) / 楢原英介 (Guitar & Synth, Violin) を有する編成。 2008年5月UK で行われた「Great Escape Festival」に招聘され海外評価も高まる。 2009年フィジカル型ロックサウンドから、大胆なエレクトロニックサウンドを導入し、現在のスタイル「人力ハード・フロア・ビート」を確立。 2010年3rdアルバム「PRINCIPLE」をリリース。 2014年10月ミニアルバム「Regalecus russelii」を4年ぶりにリリース。 2015年結成10周年を記念して行われた下北沢シェルター公演はsold out。 日本におけるエレクトロロックサウンドの先駆者として、躍進を続けている。
+2005年に[NUMBER GIRL](https://ja.wikipedia.org/wiki/NUMBER_GIRL "wikilink") / [ZAZEN BOYS](../Page/ZAZEN_BOYS.md "wikilink") を経た [アヒト・イナザワ](../Page/アヒト・イナザワ.md "wikilink")が、それまで のドラマーからヴォーカル / ギター / マニピュレート等を駆使し、フロントに立つという 大胆なパート・チェンジを行い、自分の意志で活動出来るバンドとして『VOLA & THE ORIENTAL MACHINE』を結成。 現在のメンバーは、有江嘉典 (Bass) / [中畑大樹](https://ja.wikipedia.org/wiki/中畑大樹 "wikilink") (Drums) / 楢原英介 (Guitar & Synth, Violin) を有する編成。 2008年5月UK で行われた「Great Escape Festival」に招聘され海外評価も高まる。 2009年フィジカル型ロックサウンドから、大胆なエレクトロニックサウンドを導入し、現在のスタイル「人力ハード・フロア・ビート」を確立。 2010年3rdアルバム「PRINCIPLE」をリリース。 2014年10月ミニアルバム「Regalecus russelii」を4年ぶりにリリース。 2015年結成10周年を記念して行われた下北沢シェルター公演はsold out。 日本におけるエレクトロロックサウンドの先駆者として、躍進を続けている。
 
 ## メンバー
 
-  - **[アヒト・イナザワ](https://ja.wikipedia.org/wiki/アヒト・イナザワ "wikilink")**（鰰澤 亜人（いなざわ あひと）、[1973年](../Page/1973年.md "wikilink")[6月6日](../Page/6月6日.md "wikilink") - ）
-      - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")、[ドラムス担当](../Page/ドラムセット.md "wikilink")。[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")出身。
+  - **[アヒト・イナザワ](../Page/アヒト・イナザワ.md "wikilink")**（鰰澤 亜人（いなざわ あひと）、[1973年](../Page/1973年.md "wikilink")[6月6日](../Page/6月6日.md "wikilink") - ）
+      - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")、[ドラムス担当](../Page/ドラムセット.md "wikilink")。[福岡県](../Page/福岡県.md "wikilink")出身。
   - **有江嘉典**（ありえ よしのり、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[12月25日](../Page/12月25日.md "wikilink") - ）
-      - [ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。福岡県出身。[LOST IN TIME](https://ja.wikipedia.org/wiki/LOST_IN_TIME "wikilink")、[the pillowsのサポートメンバーとしても活動](https://ja.wikipedia.org/wiki/the_pillows "wikilink")。
+      - [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。福岡県出身。[LOST IN TIME](../Page/LOST_IN_TIME.md "wikilink")、[the pillowsのサポートメンバーとしても活動](https://ja.wikipedia.org/wiki/the_pillows "wikilink")。
   - **[中畑大樹](https://ja.wikipedia.org/wiki/中畑大樹 "wikilink")**（なかはた だいき、[1974年](../Page/1974年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink") - ）
       - ドラムス担当。[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")出身。[Syrup16g](https://ja.wikipedia.org/wiki/Syrup16g "wikilink")より期限無しレンタル移籍加入し、バンド解散に伴い正式メンバーとなる。
   - **楢原英介**（ならはら えいすけ、[1981年](../Page/1981年.md "wikilink")[8月6日](../Page/8月6日.md "wikilink") - ）
-      - ギター担当。[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")出身。2008年12月加入。ギターの他、[ヴァイオリン](../Page/ヴァイオリン.md "wikilink")や[鍵盤楽器](../Page/鍵盤楽器.md "wikilink")も演奏できる。
+      - ギター担当。[千葉県](../Page/千葉県.md "wikilink")出身。2008年12月加入。ギターの他、[ヴァイオリン](../Page/ヴァイオリン.md "wikilink")や[鍵盤楽器](../Page/鍵盤楽器.md "wikilink")も演奏できる。
 
 ### 旧メンバー
 
-  - **[青木裕](https://ja.wikipedia.org/wiki/青木裕 "wikilink")**（あおき ゆたか、[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[1月29日](../Page/1月29日.md "wikilink") - 2018年3月19日）
-      - [ギター](../Page/ギター.md "wikilink")担当。[茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")出身。2008年9月末日を以て脱退。ポストロックバンド[downy](https://ja.wikipedia.org/wiki/downy "wikilink")、インストゥルメンタルバンド[unkie](https://ja.wikipedia.org/wiki/unkie "wikilink")所属。[syrup16g](https://ja.wikipedia.org/wiki/syrup16g "wikilink")のサポートも担当していた。
+  - **[青木裕](https://ja.wikipedia.org/wiki/青木裕 "wikilink")**（あおき ゆたか、[1970年](../Page/1970年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink") - 2018年3月19日）
+      - [ギター](../Page/ギター.md "wikilink")担当。[茨城県](../Page/茨城県.md "wikilink")出身。2008年9月末日を以て脱退。ポストロックバンド[downy](https://ja.wikipedia.org/wiki/downy "wikilink")、インストゥルメンタルバンド[unkie](https://ja.wikipedia.org/wiki/unkie "wikilink")所属。[syrup16g](https://ja.wikipedia.org/wiki/syrup16g "wikilink")のサポートも担当していた。
 
 ## 作品
 
@@ -240,15 +240,15 @@ UPCH-1624:通常盤</p></td>
 <td><p>UKDZ-0047DV</p></td>
 <td><ol>
 <li>飛行機 / <a href="https://ja.wikipedia.org/wiki/pop_chocolat" title="wikilink">pop chocolat</a></li>
-<li>蒼い陽 / <a href="https://ja.wikipedia.org/wiki/BAZRA" title="wikilink">BAZRA</a></li>
+<li>蒼い陽 / <a href="../Page/BAZRA.md" title="wikilink">BAZRA</a></li>
 <li>レインコート / <a href="https://ja.wikipedia.org/wiki/tobaccojuice" title="wikilink">tobaccojuice</a></li>
 <li>MORE / <a href="../Page/PhilHarmoUniQue.md" title="wikilink">自由人</a></li>
 <li>踊り子 / <a href="../Page/椿屋四重奏.md" title="wikilink">椿屋四重奏</a></li>
 <li>プロローグ / 椿屋四重奏</li>
-<li>オールライト / <a href="https://ja.wikipedia.org/wiki/PERIDOTS" title="wikilink">PERIDOTS</a></li>
+<li>オールライト / <a href="../Page/PERIDOTS.md" title="wikilink">PERIDOTS</a></li>
 <li><strong>A communication refusal desire / VOLA &amp; THE ORIENTAL MACHINE</strong></li>
-<li>蛍 / <a href="https://ja.wikipedia.org/wiki/LOST_IN_TIME" title="wikilink">LOST IN TIME</a></li>
-<li>聞こえるかい / <a href="https://ja.wikipedia.org/wiki/Syrup_16g" title="wikilink">Syrup 16g</a></li>
+<li>蛍 / <a href="../Page/LOST_IN_TIME.md" title="wikilink">LOST IN TIME</a></li>
+<li>聞こえるかい / <a href="../Page/Syrup_16g.md" title="wikilink">Syrup 16g</a></li>
 <li>翌日 / Syrup 16g</li>
 </ol></td>
 <td><p>DAIZAWA RECORDS</p></td>
@@ -258,7 +258,7 @@ UPCH-1624:通常盤</p></td>
 <td><p><strong>代沢時代 ～Decade of Daizawa Days～</strong></p></td>
 <td><p>UKDZ-0121</p></td>
 <td><ol>
-<li>希望 / <a href="https://ja.wikipedia.org/wiki/LOST_IN_TIME" title="wikilink">LOST IN TIME</a></li>
+<li>希望 / <a href="../Page/LOST_IN_TIME.md" title="wikilink">LOST IN TIME</a></li>
 <li>Marine / <a href="../Page/KAREN_(バンド).md" title="wikilink">KAREN</a></li>
 <li>Darjeeling / <a href="https://ja.wikipedia.org/wiki/伊藤文暁" title="wikilink">伊藤文暁</a></li>
 <li>何もできない / <a href="https://ja.wikipedia.org/wiki/paionia" title="wikilink">paionia</a></li>
@@ -269,10 +269,10 @@ UPCH-1624:通常盤</p></td>
 <li>Demophobia / <a href="https://ja.wikipedia.org/wiki/PILLS_EMPIRE" title="wikilink">PILLS EMPIRE</a></li>
 <li>electric girl / <a href="https://ja.wikipedia.org/wiki/the_telephones" title="wikilink">the telephones</a></li>
 <li><strong>Mexico Pub / VOLA&amp;THE ORIENTAL MACHINE</strong></li>
-<li>NEW HERO / <a href="https://ja.wikipedia.org/wiki/SPARTA_LOCALS" title="wikilink">SPARTA LOCALS</a></li>
+<li>NEW HERO / <a href="../Page/SPARTA_LOCALS.md" title="wikilink">SPARTA LOCALS</a></li>
 <li>青い春 / <a href="https://ja.wikipedia.org/wiki/Your_gold,_my_pink" title="wikilink">Your gold, my pink</a></li>
 <li>Ru's rock / <a href="https://ja.wikipedia.org/wiki/CONDOR44" title="wikilink">CONDOR44</a></li>
-<li>凡凡 / <a href="https://ja.wikipedia.org/wiki/BAZRA" title="wikilink">BAZRA</a></li>
+<li>凡凡 / <a href="../Page/BAZRA.md" title="wikilink">BAZRA</a></li>
 <li>幻惑 / <a href="../Page/椿屋四重奏.md" title="wikilink">椿屋四重奏</a></li>
 <li>Reborn / <a href="https://ja.wikipedia.org/wiki/Syrup16g" title="wikilink">Syrup16g</a></li>
 </ol></td>
@@ -308,11 +308,11 @@ UPCH-1624:通常盤</p></td>
 <td><p>!～tribute to the telephones～'''</p></td>
 <td><p>TYCT-69088</p></td>
 <td><ol>
-<li>Urban Disco / <a href="https://ja.wikipedia.org/wiki/POLYSICS" title="wikilink">POLYSICS</a></li>
+<li>Urban Disco / <a href="../Page/POLYSICS.md" title="wikilink">POLYSICS</a></li>
 <li>HABANERO / <a href="https://ja.wikipedia.org/wiki/FRONTIER_BACKYARD" title="wikilink">FRONTIER BACKYARD</a></li>
 <li>sick rocks / <a href="https://ja.wikipedia.org/wiki/THE_BAWDIES" title="wikilink">THE BAWDIES</a></li>
-<li>Love &amp; DISCO / <a href="https://ja.wikipedia.org/wiki/J_(ミュージシャン)" title="wikilink">J</a></li>
-<li>Monkey Discooooooo / <a href="https://ja.wikipedia.org/wiki/9mm_Parabellum_Bullet" title="wikilink">9mm Parabellum Bullet</a></li>
+<li>Love &amp; DISCO / <a href="../Page/J_(ミュージシャン).md" title="wikilink">J</a></li>
+<li>Monkey Discooooooo / <a href="../Page/9mm_Parabellum_Bullet.md" title="wikilink">9mm Parabellum Bullet</a></li>
 <li>A.B.C.DISCO / <a href="https://ja.wikipedia.org/wiki/dustbox" title="wikilink">dustbox</a></li>
 <li>kiss me, love me, kiss me / <a href="https://ja.wikipedia.org/wiki/Koji_Nakamura" title="wikilink">Koji Nakamura</a></li>
 </ol>
@@ -358,7 +358,7 @@ UPCH-1624:通常盤</p></td>
 
   - 2005年09月03日 - [syrup16g](https://ja.wikipedia.org/wiki/syrup16g "wikilink") vs VOLA & THE ORIENTAL MACHINE
   - 2005年09月24日 - daimasの日記スペシャル
-  - 2005年12月30日 - [COUNTDOWN JAPAN](https://ja.wikipedia.org/wiki/COUNTDOWN_JAPAN "wikilink") 05/06
+  - 2005年12月30日 - [COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 05/06
   - 2006年03月03日 - スペースシャワー列伝 第60巻 ～蛇崩(じゃくずれ)の宴～
   - 2006年04月25日 - Syrup16g presents "UP TO THE WORLD \#1"
   - 2006年08月06日 - [ROCK IN JAPAN FESTIVAL](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink") 2006
@@ -392,7 +392,7 @@ UPCH-1624:通常盤</p></td>
   - 2014年07月12日 - TOKYO BOOTLEG CIRCUIT'14
   - 2014年08月10日 - onion night\! Weekly Jack\!2014×梅田シャングリラ9周年祭
   - 2014年09月06日 - [BAYCAMP](https://ja.wikipedia.org/wiki/BAYCAMP "wikilink") 2014
-  - 2014年11月14日 - VOLA & THE ORIENTAL MACHINE, [BURGER NUDS](https://ja.wikipedia.org/wiki/BURGER_NUDS "wikilink")
+  - 2014年11月14日 - VOLA & THE ORIENTAL MACHINE, [BURGER NUDS](../Page/BURGER_NUDS.md "wikilink")
   - 2014年11月22日 - 宮川企画「マイセルフ,ユアセルフ」
   - 2014年12月27日 - [HINTO](https://ja.wikipedia.org/wiki/HINTO "wikilink")「ゴールデンタイム」
   - 2015年02月07日 - BAYCAMP 201502

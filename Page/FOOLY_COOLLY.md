@@ -5,9 +5,9 @@
 
 ## 内容
 
-ツインボーカル+ツインギターデュオ・[NOBODYプロデュースアルバム第](https://ja.wikipedia.org/wiki/NOBODY_\(ロックバンド\) "wikilink")1弾である。シングル「[STAND UP, BOY](https://ja.wikipedia.org/wiki/STAND_UP,_BOY "wikilink")」と同時発売。
+ツインボーカル+ツインギターデュオ・[NOBODYプロデュースアルバム第](../Page/NOBODY_\(ロックバンド\).md "wikilink")1弾である。シングル「[STAND UP, BOY](https://ja.wikipedia.org/wiki/STAND_UP,_BOY "wikilink")」と同時発売。
 
-[上澤津孝](https://ja.wikipedia.org/wiki/上澤津孝 "wikilink")が運営する「FOOLY KOOLLY」は当アルバムタイトルから由来しており、上沢津と元メンバーの[山口憲一](../Page/山口憲一.md "wikilink")の「[wface](https://ja.wikipedia.org/wiki/wface "wikilink")」は『W-FACE』から由来している。
+[上澤津孝](../Page/上澤津孝.md "wikilink")が運営する「FOOLY KOOLLY」は当アルバムタイトルから由来しており、上沢津と元メンバーの[山口憲一](../Page/山口憲一.md "wikilink")の「[wface](https://ja.wikipedia.org/wiki/wface "wikilink")」は『W-FACE』から由来している。
 
 ## 収録曲
 
@@ -27,7 +27,7 @@
 <!-- end list -->
 
   -
-    作詞：NOBODY(1,5,6,9,12)、[船橋孝樹](https://ja.wikipedia.org/wiki/船橋孝樹 "wikilink")(2,10)、[竜真知子](https://ja.wikipedia.org/wiki/竜真知子 "wikilink")(3,4,8,11)、[高柳恋](../Page/高柳恋.md "wikilink")(7)
+    作詞：NOBODY(1,5,6,9,12)、[船橋孝樹](https://ja.wikipedia.org/wiki/船橋孝樹 "wikilink")(2,10)、[竜真知子](../Page/竜真知子.md "wikilink")(3,4,8,11)、[高柳恋](../Page/高柳恋.md "wikilink")(7)
     作曲：NOBODY(1〜4,6,8〜11)、上澤津孝(5)、[谷田部憲昭](../Page/谷田部憲昭.md "wikilink")(7)、小坂浩人(12)
     編曲：NOBODY(ALL)
 

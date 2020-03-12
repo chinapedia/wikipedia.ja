@@ -1,7 +1,7 @@
 > この記事は[Brotherhood \(B\'z\)](https://ja.wikipedia.org/wiki/Brotherhood_\(B\'z\))から翻訳されています。
 
 
-『**Brotherhood**』(ブラザーフッド)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")・[B'z](../Page/B'z.md "wikilink")が[1999年](../Page/1999年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink")に[Rooms RECORDSからリリースした](https://ja.wikipedia.org/wiki/VERMILLION_RECORDS "wikilink")10作目の[オリジナル・アルバムである](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。
+『**Brotherhood**』(ブラザーフッド)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")が[1999年](../Page/1999年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink")に[Rooms RECORDSからリリースした](../Page/VERMILLION_RECORDS.md "wikilink")10作目の[オリジナル・アルバムである](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 概要
 
@@ -9,15 +9,15 @@
 
 8thアルバム『[LOOSE](../Page/LOOSE.md "wikilink")』及び、9thアルバム『[SURVIVE](../Page/SURVIVE.md "wikilink")』同様通常盤のみで、[スリーブ仕様となっている](https://ja.wikipedia.org/wiki/箱#形状・機能別名称 "wikilink")。ジャケット画は主にCG合成で作られているが、稲葉は実際に高い場所に登って撮影されている\[1\]。
 
-かつてサポートドラマーであったデニー・フォンハイザーがレコーディング・コーディネーターとして、[Mr.Bigの](https://ja.wikipedia.org/wiki/MR.BIG "wikilink")[ビリー・シーン](https://ja.wikipedia.org/wiki/ビリー・シーン "wikilink")([ベーシスト](../Page/ベーシスト.md "wikilink"))と、[パット・トーピー](https://ja.wikipedia.org/wiki/パット・トーピー "wikilink")([ドラマー](../Page/ドラマー.md "wikilink"))が製作に参加している。
+かつてサポートドラマーであったデニー・フォンハイザーがレコーディング・コーディネーターとして、[Mr.Bigの](https://ja.wikipedia.org/wiki/MR.BIG "wikilink")[ビリー・シーン](../Page/ビリー・シーン.md "wikilink")([ベーシスト](../Page/ベーシスト.md "wikilink"))と、[パット・トーピー](../Page/パット・トーピー.md "wikilink")([ドラマー](../Page/ドラマー.md "wikilink"))が製作に参加している。
 
-本作のテーマは「ロック」であり、[ハードロック](../Page/ハードロック.md "wikilink")色が濃い。楽曲は[満園庄太郎](https://ja.wikipedia.org/wiki/満園庄太郎 "wikilink")や[黒瀬蛙一](../Page/黒瀬蛙一.md "wikilink")といったサポートメンバーとのセッションにより制作され、[打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")音は一切使用せず、前作まで存在した[フェード](https://ja.wikipedia.org/wiki/フェード "wikilink")アウトの曲も皆無である\[2\]。
+本作のテーマは「ロック」であり、[ハードロック](../Page/ハードロック.md "wikilink")色が濃い。楽曲は[満園庄太郎](../Page/満園庄太郎.md "wikilink")や[黒瀬蛙一](../Page/黒瀬蛙一.md "wikilink")といったサポートメンバーとのセッションにより制作され、[打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")音は一切使用せず、前作まで存在した[フェード](../Page/フェード.md "wikilink")アウトの曲も皆無である\[2\]。
 
 アルバム構成は当初「ながい愛」から始まって「Brotherhood」で終わる予定だったが、「コンセプトをあまりゴリ押しする必要もないのでは?」との意見から現在の曲順になっている。
 
-尚、前年にリリースされた「[さまよえる蒼い弾丸](https://ja.wikipedia.org/wiki/さまよえる蒼い弾丸 "wikilink")」と「[HOME](https://ja.wikipedia.org/wiki/HOME_\(B'zの曲\) "wikilink")」は今作には未収録となった。
+尚、前年にリリースされた「[さまよえる蒼い弾丸](../Page/さまよえる蒼い弾丸.md "wikilink")」と「[HOME](../Page/HOME_\(B'zの曲\).md "wikilink")」は今作には未収録となった。
 
-かなりの力作となっているが、松本は「去年のベスト・アルバム(『[Pleasure](https://ja.wikipedia.org/wiki/B'z_The_Best_"Pleasure" "wikilink")』、『[Treasure](https://ja.wikipedia.org/wiki/B'z_The_Best_"Treasure" "wikilink")』)が大ヒットしたけど、過去のものがこれだけ売れてしまい、この後どうなってしまうのかと危機感を感じた。だから『Brotherhood』はハードな方向に行ったのだと思う。」と語り、\[3\]その一方で「(ベスト・アルバムの大ヒットで)沢山の人達が僕らの音楽を好きでいてくれて、多くのスタッフがB'zのために動いてくれて、改めてみんなへの感謝の気持ちが芽生え、それを稲葉と話しているとき「Brotherhood」というキーワードが生まれた。」と語っている。
+かなりの力作となっているが、松本は「去年のベスト・アルバム(『[Pleasure](../Page/B'z_The_Best_"Pleasure".md "wikilink")』、『[Treasure](../Page/B'z_The_Best_"Treasure".md "wikilink")』)が大ヒットしたけど、過去のものがこれだけ売れてしまい、この後どうなってしまうのかと危機感を感じた。だから『Brotherhood』はハードな方向に行ったのだと思う。」と語り、\[3\]その一方で「(ベスト・アルバムの大ヒットで)沢山の人達が僕らの音楽を好きでいてくれて、多くのスタッフがB'zのために動いてくれて、改めてみんなへの感謝の気持ちが芽生え、それを稲葉と話しているとき「Brotherhood」というキーワードが生まれた。」と語っている。
 
 映像作品『[The true meaning of "Brotherhood"?](../Page/The_true_meaning_of_"Brotherhood"?.md "wikilink")』には今作のレコーディング風景が収録されており、その中で松本は「レコーディング（アルバム製作）が始まってからとツアー(B'z LIVE-GYM '99 "Brotherhood")が終わるまでが一つの作品、すべてを総括して『Brorherhood』という作品だった。」と述べている。今アルバムとリンクしたツアー『[B'z LIVE-GYM '99 "Brotherhood"](../Page/Once_upon_a_time_in_横浜_〜B'z_LIVE_GYM'99_"Brotherhood"〜.md "wikilink")』では、大掛かりな演出を極力排除・バンド演奏に重点を置く等、本作のコンセプトを貫いた内容となった。
 
@@ -35,8 +35,8 @@
       -
         曲名は「フィアー」と読む。1999年、2000年のフジテレビF1中継BGMテーマ。
         稲葉お気に入りの一曲で、激しい[ギターリフ](https://ja.wikipedia.org/wiki/ギターリフ "wikilink")から始まる。
-        [ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[B'z The Best "ULTRA Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")』の投票では26位にランクインし\[5\]、リミックスバージョンが収録された。
-2.  **[ギリギリchop (Version 51)](https://ja.wikipedia.org/wiki/ギリギリchop "wikilink")** (3:59)
+        [ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[B'z The Best "ULTRA Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")』の投票では26位にランクインし\[5\]、リミックスバージョンが収録された。
+2.  **[ギリギリchop (Version 51)](../Page/ギリギリchop.md "wikilink")** (3:59)
       -
         26thシングルのバージョン違い。
         「**Version 51**」は「テイク51」という事から付けられたが、51個のテイクが存在するわけではなく何度か録った中の5バージョン目の1テイクを採用したため「Version 51」となった。
@@ -58,14 +58,14 @@
         ベスト・アルバム『B'z The Best "ULTRA Treasure"』の投票では21位となり収録された\[15\]。
 5.  **夢のような日々** (4:53)
       -
-        オープニングの音はブースにいた松本と[黒瀬蛙一](../Page/黒瀬蛙一.md "wikilink")、[満園庄太郎](https://ja.wikipedia.org/wiki/満園庄太郎 "wikilink")の会話をコンソール室にいた稲葉が面白がってこっそり録音した時のもの\[16\]。
+        オープニングの音はブースにいた松本と[黒瀬蛙一](../Page/黒瀬蛙一.md "wikilink")、[満園庄太郎](../Page/満園庄太郎.md "wikilink")の会話をコンソール室にいた稲葉が面白がってこっそり録音した時のもの\[16\]。
         1番後と2番後の間奏部分では松本が[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")部分を[ソロで歌っている](https://ja.wikipedia.org/wiki/独唱 "wikilink")。これまで松本はコーラスを務めることはあったが、B'zの作品でソロで歌うのは初めてである。
-        [PVも存在しており](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、木に腰掛けながら演奏する2人の映像で構成されている。
+        [PVも存在しており](../Page/ミュージック・ビデオ.md "wikilink")、木に腰掛けながら演奏する2人の映像で構成されている。
         同年のアルバムツアーではエンディングSEとして使用された。ライブでは未演奏である。
 6.  **銀の翼で翔べ** (3:55)
       -
         前曲と間を置かず曲が始まる。
-        [ブラスを使った曲で](../Page/金管楽器.md "wikilink")、稲葉が[ブルースハープを演奏している](https://ja.wikipedia.org/wiki/ハーモニカ "wikilink")。
+        [ブラスを使った曲で](../Page/金管楽器.md "wikilink")、稲葉が[ブルースハープを演奏している](../Page/ハーモニカ.md "wikilink")。
         会報の中で松本が「B'zの曲でギターが難しい曲」としてこの曲をあげ、後にライブで演奏するのに苦労したと語っている。
         PVも存在しており、ジャケット写真の撮影時の映像で構成されている。
         アルバムツアー以降も定期的にライブで演奏されている\[17\]。
@@ -89,7 +89,7 @@
 11. **SHINE** (3:49)
       -
         仮タイトルは「KIZUNA」で、歌詞にも「絆」というフレーズも入っている。アルバム制作風景を収めた映像作品『[The true meaning of "Brotherhood"?](../Page/The_true_meaning_of_"Brotherhood"?.md "wikilink")』で、アルバムの曲順を決める際に「KIZUNA」とメモされていた。
-        [ガットギターの演奏から始まる楽曲で](https://ja.wikipedia.org/wiki/クラシック・ギター "wikilink")、この部分はロサンゼルスのスタジオで提案されたアイデア\[21\]。
+        [ガットギターの演奏から始まる楽曲で](../Page/クラシック・ギター.md "wikilink")、この部分はロサンゼルスのスタジオで提案されたアイデア\[21\]。
         間奏では松本とビリーがギターとベースによるスピーディなソロの掛け合いを披露している。この部分に入っているハンドクラップは稲葉とスタジオのスタッフによるもので、仮テイクとして録られたものがそのまま使われている\[22\]。
 
 ## タイアップ
@@ -100,19 +100,19 @@
 ## 参加ミュージシャン
 
   - [松本孝弘](../Page/松本孝弘.md "wikilink"):[ギター](../Page/ギター.md "wikilink")、全曲[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")
-  - [稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink"):[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、全曲[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・編曲、[ブルースハープ](https://ja.wikipedia.org/wiki/ハーモニカ "wikilink") (\#6)
-  - [小野塚晃](../Page/小野塚晃.md "wikilink") (from [DIMENSION](https://ja.wikipedia.org/wiki/DIMENSION "wikilink")):[オルガン](../Page/オルガン.md "wikilink") (\#5.8.11)
-  - [満園庄太郎](https://ja.wikipedia.org/wiki/満園庄太郎 "wikilink"):[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink") (\#1.4-7.9)
-  - [ビリー・シーン](https://ja.wikipedia.org/wiki/ビリー・シーン "wikilink"):ベース (\#2.3.8.10.11)
+  - [稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink"):[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、全曲[作詞](../Page/作詞.md "wikilink")・編曲、[ブルースハープ](../Page/ハーモニカ.md "wikilink") (\#6)
+  - [小野塚晃](../Page/小野塚晃.md "wikilink") (from [DIMENSION](../Page/DIMENSION.md "wikilink")):[オルガン](../Page/オルガン.md "wikilink") (\#5.8.11)
+  - [満園庄太郎](../Page/満園庄太郎.md "wikilink"):[ベース](../Page/ベース_\(弦楽器\).md "wikilink") (\#1.4-7.9)
+  - [ビリー・シーン](../Page/ビリー・シーン.md "wikilink"):ベース (\#2.3.8.10.11)
   - [黒瀬蛙一](../Page/黒瀬蛙一.md "wikilink"):[ドラム](../Page/ドラムセット.md "wikilink") (\#1.3-11)
-  - [パット・トーピー](https://ja.wikipedia.org/wiki/パット・トーピー "wikilink"):ドラム (\#2)
+  - [パット・トーピー](../Page/パット・トーピー.md "wikilink"):ドラム (\#2)
   - [池田大介](../Page/池田大介_\(編曲家\).md "wikilink"):ストリングス&ブラスアレンジ (\#4.6.9)
   - [篠崎Strings](https://ja.wikipedia.org/wiki/篠崎正嗣 "wikilink"):[ストリングス](../Page/弦楽器.md "wikilink") (\#4.9)
   - 佐々木史郎:[トランペット](../Page/トランペット.md "wikilink") (\#6)
   - 澤野博敬:トランペット (\#6)
   - 中路英明:[トロンボーン](../Page/トロンボーン.md "wikilink") (\#6)
   - [勝田一樹](https://ja.wikipedia.org/wiki/勝田かず樹 "wikilink") (from DIMENSION):[サクソフォーン](../Page/サクソフォーン.md "wikilink") (\#6)
-  - 鈴木覚:[マニピュレーター](https://ja.wikipedia.org/wiki/マニピュレーター "wikilink")
+  - 鈴木覚:[マニピュレーター](../Page/マニピュレーター.md "wikilink")
   - [寺地秀行](https://ja.wikipedia.org/wiki/寺地秀行 "wikilink"):アシスタントディレクター
 
 ## ライブ映像作品
@@ -165,7 +165,7 @@
 
   - [The true meaning of "Brotherhood"?](../Page/The_true_meaning_of_"Brotherhood"?.md "wikilink")
   - [once upon a time in 横浜 〜B'z LIVE GYM'99 "Brotherhood"〜](https://ja.wikipedia.org/wiki/once_upon_a_time_in_横浜_〜B'z_LIVE_GYM'99_"Brotherhood"〜 "wikilink")
-  - [1999年の音楽](https://ja.wikipedia.org/wiki/1999年の音楽 "wikilink")
+  - [1999年の音楽](../Page/1999年の音楽.md "wikilink")
 
 ## 脚注
 
@@ -179,7 +179,7 @@
 
 [Category:B'zのアルバム](https://ja.wikipedia.org/wiki/Category:B'zのアルバム "wikilink") [Category:1999年のアルバム](https://ja.wikipedia.org/wiki/Category:1999年のアルバム "wikilink") [Category:Rooms_RECORDSのアルバム](https://ja.wikipedia.org/wiki/Category:Rooms_RECORDSのアルバム "wikilink") [Category:1999年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1999年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink")
 
-1.  B'z20周年記念として[B'z Partyが製作したDVD](https://ja.wikipedia.org/wiki/B'z_Party "wikilink")『B'z Official Bootleg Hidden Treasure 〜Typhoon No.20〜』より。
+1.  B'z20周年記念として[B'z Partyが製作したDVD](../Page/B'z_Party.md "wikilink")『B'z Official Bootleg Hidden Treasure 〜Typhoon No.20〜』より。
 2.  この時期からフェードアウトの曲がほとんど見られなくなり、以降は数えるほどしか存在しない。
 3.  別冊カドカワ(2003年9月号)より
 4.

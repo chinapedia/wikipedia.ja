@@ -1,9 +1,9 @@
 > この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
 
 
-**ヴィレムIIティルブルフ**（**Willem II Tilburg**）は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の南部、[北ブラバント州](https://ja.wikipedia.org/wiki/北ブラバント州 "wikilink")の都市[ティルブルフ](../Page/ティルブルフ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。読み方は「ヴィレム・トヴェー・ティルブルフ」。
+**ヴィレムIIティルブルフ**（**Willem II Tilburg**）は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の南部、[北ブラバント州](../Page/北ブラバント州.md "wikilink")の都市[ティルブルフ](../Page/ティルブルフ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。読み方は「ヴィレム・トヴェー・ティルブルフ」。
 
-[1896年](../Page/1896年.md "wikilink")[8月12日](../Page/8月12日.md "wikilink")、「ティルブルヒア」として創設。[1898年](../Page/1898年.md "wikilink")、オランダ王[ヴィレム2世に因んでチーム名を](https://ja.wikipedia.org/wiki/ウィレム2世_\(オランダ王\) "wikilink")「ヴィレムII」に改称。[2004年](../Page/2004年.md "wikilink")にティルブルフをチームの正式名称に加えた。通常ヴィレム･トゥヴェーと呼ばれ、トリコロール･カラーで有名。
+[1896年](../Page/1896年.md "wikilink")[8月12日](../Page/8月12日.md "wikilink")、「ティルブルヒア」として創設。[1898年](../Page/1898年.md "wikilink")、オランダ王[ヴィレム2世に因んでチーム名を](../Page/ウィレム2世_\(オランダ王\).md "wikilink")「ヴィレムII」に改称。[2004年](../Page/2004年.md "wikilink")にティルブルフをチームの正式名称に加えた。通常ヴィレム･トゥヴェーと呼ばれ、トリコロール･カラーで有名。
 
 1987-88シーズンから[エールディヴィジ](../Page/エールディヴィジ.md "wikilink")に昇格し、いきなり4位と大健闘。その後1998-99シーズンの2位をピークに成績は下降し、常に残留争いに巻き込まれていた。2010-11シーズンは開幕から7連敗を喫するなどまったく勝てず、初勝利は年が明けた[2011年](../Page/2011年.md "wikilink")[1月22日](../Page/1月22日.md "wikilink")の[フィテッセ](../Page/フィテッセ.md "wikilink")戦にまで遅れた。その後も[FCフローニンゲン](../Page/FCフローニンゲン.md "wikilink")に1-7で敗れるなど大量失点を繰り返し勝ち点は伸びず、最終節を待たずして最下位が確定、[エールステ・ディヴィジ](../Page/エールステ・ディヴィジ.md "wikilink")への降格が決まった。2011-12シーズンはエールステ・ディヴィジ5位に入り、プレーオフに勝利し1シーズンでエールディヴィジに復帰したものの、翌2012-13シーズンで再び最下位となりエールステ・ディヴィジに自動降格となった。
 
@@ -143,9 +143,9 @@
 
 ### DF
 
-  - [ヤープ・スタム](https://ja.wikipedia.org/wiki/ヤープ・スタム "wikilink") 1995-1996
+  - [ヤープ・スタム](../Page/ヤープ・スタム.md "wikilink") 1995-1996
 
-  - [サミ・ヒーピア](https://ja.wikipedia.org/wiki/サミ・ヒーピア "wikilink") 1995-1999
+  - [サミ・ヒーピア](../Page/サミ・ヒーピア.md "wikilink") 1995-1999
 
   - [ヨリス・マタイセン](../Page/ヨリス・マタイセン.md "wikilink") 1998-2004
 
@@ -155,11 +155,11 @@
 
 ### MF
 
-  - [マルク・オーフェルマルス](https://ja.wikipedia.org/wiki/マルク・オーフェルマルス "wikilink") 1991-1992
+  - [マルク・オーフェルマルス](../Page/マルク・オーフェルマルス.md "wikilink") 1991-1992
 
-  - [トマーシュ・ガラーセク](https://ja.wikipedia.org/wiki/トマーシュ・ガラーセク "wikilink") 1996-2000
+  - [トマーシュ・ガラーセク](../Page/トマーシュ・ガラーセク.md "wikilink") 1996-2000
 
-  - [デニー・ランツァート](https://ja.wikipedia.org/wiki/デニー・ランツァート "wikilink") 1999-2003
+  - [デニー・ランツァート](../Page/デニー・ランツァート.md "wikilink") 1999-2003
 
 ### FW
 

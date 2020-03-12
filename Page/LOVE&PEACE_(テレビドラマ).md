@@ -1,7 +1,7 @@
 > この記事は[LOVE\&PEACE \(\)](https://ja.wikipedia.org/wiki/LOVE\&PEACE_\(\))から翻訳されています。
 
 
-『**LOVE\&PEACE**』（ラブアンドピース）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月18日](../Page/4月18日.md "wikilink")～[7月4日](../Page/7月4日.md "wikilink")に[日本テレビ系で毎週土曜夜](../Page/日本テレビ放送網.md "wikilink")9時（[土曜ドラマ枠](https://ja.wikipedia.org/wiki/土曜ドラマ_\(日本テレビ\) "wikilink")）に放送されていた[テレビドラマ](../Page/テレビドラマ.md "wikilink")。現在、VHS化もDVD化もされていない。主演は[TOKIO](../Page/TOKIO.md "wikilink")の[松岡昌宏](../Page/松岡昌宏.md "wikilink")。
+『**LOVE\&PEACE**』（ラブアンドピース）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月18日](../Page/4月18日.md "wikilink")～[7月4日](../Page/7月4日.md "wikilink")に[日本テレビ系で毎週土曜夜](../Page/日本テレビ放送網.md "wikilink")9時（[土曜ドラマ枠](../Page/土曜ドラマ_\(日本テレビ\).md "wikilink")）に放送されていた[テレビドラマ](../Page/テレビドラマ.md "wikilink")。現在、VHS化もDVD化もされていない。主演は[TOKIO](../Page/TOKIO.md "wikilink")の[松岡昌宏](../Page/松岡昌宏.md "wikilink")。
 
 結婚を控えていた新米刑事の堀口建太が事故で亡くなった兄夫婦に代わって兄の子供たちを引き取り、奮闘する姿を描いた物語。
 
@@ -9,10 +9,10 @@
 
 ## スタッフ
 
-  - 脚本 - [大石哲也](https://ja.wikipedia.org/wiki/大石哲也 "wikilink")、[田子明弘](https://ja.wikipedia.org/wiki/田子明弘 "wikilink")
-  - 音楽 - [羽毛田丈史](https://ja.wikipedia.org/wiki/羽毛田丈史 "wikilink")
+  - 脚本 - [大石哲也](../Page/大石哲也.md "wikilink")、[田子明弘](https://ja.wikipedia.org/wiki/田子明弘 "wikilink")
+  - 音楽 - [羽毛田丈史](../Page/羽毛田丈史.md "wikilink")
   - プロデュース - 井上健(プロデューサー)、中込卓也
-  - 演出 - [佐藤東弥](https://ja.wikipedia.org/wiki/佐藤東弥 "wikilink")、[大谷太郎](https://ja.wikipedia.org/wiki/大谷太郎 "wikilink")、荻野哲弘
+  - 演出 - [佐藤東弥](../Page/佐藤東弥.md "wikilink")、[大谷太郎](https://ja.wikipedia.org/wiki/大谷太郎 "wikilink")、荻野哲弘
 
 ## 主題歌
 
@@ -21,7 +21,7 @@
 <!-- end list -->
 
   -
-    歌：[TOKIO](../Page/TOKIO.md "wikilink") [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：岡部真理子 [作曲](../Page/作曲.md "wikilink")：[樋口了一](https://ja.wikipedia.org/wiki/樋口了一 "wikilink") [編曲](../Page/編曲.md "wikilink")：[佐久間正英](https://ja.wikipedia.org/wiki/佐久間正英 "wikilink")
+    歌：[TOKIO](../Page/TOKIO.md "wikilink") [作詞](../Page/作詞.md "wikilink")：岡部真理子 [作曲](../Page/作曲.md "wikilink")：[樋口了一](https://ja.wikipedia.org/wiki/樋口了一 "wikilink") [編曲](../Page/編曲.md "wikilink")：[佐久間正英](../Page/佐久間正英.md "wikilink")
 
 ## 放送日程
 
@@ -109,7 +109,7 @@
 <td><p>14.5%</p></td>
 </tr>
 <tr class="odd">
-<td><p>平均視聴率 13.4%（視聴率は<a href="https://ja.wikipedia.org/wiki/関東地方" title="wikilink">関東地区</a>・<a href="https://ja.wikipedia.org/wiki/ビデオリサーチ" title="wikilink">ビデオリサーチ</a>社調べ）</p></td>
+<td><p>平均視聴率 13.4%（視聴率は<a href="https://ja.wikipedia.org/wiki/関東地方" title="wikilink">関東地区</a>・<a href="../Page/ビデオリサーチ.md" title="wikilink">ビデオリサーチ</a>社調べ）</p></td>
 <td></td>
 <td></td>
 <td></td>

@@ -1,11 +1,11 @@
 > この記事は[RKC](https://ja.wikipedia.org/wiki/RKC)から翻訳されています。
 
 
-**RKCヴァールヴァイク**（**Rooms Katholieke Combinatie Waalwijk**）は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")南部、[北ブラバント州](https://ja.wikipedia.org/wiki/北ブラバント州 "wikilink")の都市[ヴァールヴァイク](https://ja.wikipedia.org/wiki/ヴァールヴァイク "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。通常の呼称は「エルカーセー」。2019-20シーズンは[エールディヴィジ](../Page/エールディヴィジ.md "wikilink")に所属。
+**RKCヴァールヴァイク**（**Rooms Katholieke Combinatie Waalwijk**）は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")南部、[北ブラバント州](../Page/北ブラバント州.md "wikilink")の都市[ヴァールヴァイク](https://ja.wikipedia.org/wiki/ヴァールヴァイク "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。通常の呼称は「エルカーセー」。2019-20シーズンは[エールディヴィジ](../Page/エールディヴィジ.md "wikilink")に所属。
 
 ## 歴史
 
-クラブは1940年8月26日に設立。「RKC」は[ローマ・カトリックに由来する](https://ja.wikipedia.org/wiki/カトリック教会 "wikilink")。1984-85シーズンに下部のアマチュアリーグから2部へ昇格。1988-89シーズンにエールディヴィジへ昇格した。その後はたびたび残留争いに巻き込まれながら踏みとどまっていたが、2006-07シーズンに17位となり、昇格/降格プレーオフで[VVVフェンロー](../Page/VVVフェンロー.md "wikilink")に敗れて2部降格。以降頻繁に昇降格を繰り返す[エレベータークラブ](../Page/エレベータークラブ.md "wikilink")の様相を見せている。
+クラブは1940年8月26日に設立。「RKC」は[ローマ・カトリックに由来する](../Page/カトリック教会.md "wikilink")。1984-85シーズンに下部のアマチュアリーグから2部へ昇格。1988-89シーズンにエールディヴィジへ昇格した。その後はたびたび残留争いに巻き込まれながら踏みとどまっていたが、2006-07シーズンに17位となり、昇格/降格プレーオフで[VVVフェンロー](../Page/VVVフェンロー.md "wikilink")に敗れて2部降格。以降頻繁に昇降格を繰り返す[エレベータークラブ](../Page/エレベータークラブ.md "wikilink")の様相を見せている。
 
 ホームスタジアムの[マンデマーケルス・スタディオン](https://ja.wikipedia.org/wiki/マンデマーケルス・スタディオン "wikilink")は7,500人収容で、1996年に開場した比較的新しいスタジアムである。
 
@@ -138,7 +138,7 @@ PlotData=
 
 ## 現所属メンバー
 
-([第2主将](https://ja.wikipedia.org/wiki/主将 "wikilink"))                ([主将](https://ja.wikipedia.org/wiki/キャプテン_\(サッカー\) "wikilink"))
+([第2主将](../Page/主将.md "wikilink"))                ([主将](https://ja.wikipedia.org/wiki/キャプテン_\(サッカー\) "wikilink"))
 
 ### ローン移籍
 
@@ -166,25 +166,25 @@ PlotData=
 
   - [ハンス・ファン・デ・ハール](https://ja.wikipedia.org/wiki/ハンス・ファン・デ・ハール "wikilink")
 
-  - [ピーター・ボス](https://ja.wikipedia.org/wiki/ピーター・ボス "wikilink") 1985-1988
+  - [ピーター・ボス](../Page/ピーター・ボス.md "wikilink") 1985-1988
 
-  - [ジョバンニ・ファン・ブロンクホルスト](https://ja.wikipedia.org/wiki/ジョバンニ・ファン・ブロンクホルスト "wikilink") 1993-1994
+  - [ジョバンニ・ファン・ブロンクホルスト](../Page/ジョバンニ・ファン・ブロンクホルスト.md "wikilink") 1993-1994
 
-  - [ゼリコ・ペトロビッチ](https://ja.wikipedia.org/wiki/ゼリコ・ペトロビッチ "wikilink") 1994-1996 ,2000-2004
+  - [ゼリコ・ペトロビッチ](../Page/ゼリコ・ペトロビッチ.md "wikilink") 1994-1996 ,2000-2004
 
   - [ロブ・ファン・ダイク](https://ja.wikipedia.org/wiki/ロブ・ファン・ダイク "wikilink") 1996-2003 ,2005-2007
 
-  - [ミオドラグ・ボージョヴィッチ](https://ja.wikipedia.org/wiki/ミオドラグ・ボージョヴィッチ "wikilink") 1997-1998
+  - [ミオドラグ・ボージョヴィッチ](../Page/ミオドラグ・ボージョヴィッチ.md "wikilink") 1997-1998
 
   - [デニス・ロンメダール](../Page/デニス・ロンメダール.md "wikilink") 1997-1998
 
   - [ミヒャエル・ラメイ](../Page/ミヒャエル・ラメイ.md "wikilink") 2000-2002
 
-  - [ユーリ・ニキフォロフ](https://ja.wikipedia.org/wiki/ユーリ・ニキフォロフ "wikilink") 2002-2003
+  - [ユーリ・ニキフォロフ](../Page/ユーリ・ニキフォロフ.md "wikilink") 2002-2003
 
-  - [ハリド・ブラールズ](https://ja.wikipedia.org/wiki/ハリド・ブラールズ "wikilink") 2002-2004
+  - [ハリド・ブラールズ](../Page/ハリド・ブラールズ.md "wikilink") 2002-2004
 
-  - [トーマス・フェルメーレン](https://ja.wikipedia.org/wiki/トーマス・フェルメーレン "wikilink") 2004-2005
+  - [トーマス・フェルメーレン](../Page/トーマス・フェルメーレン.md "wikilink") 2004-2005
 
   - [マールテン・マルテンス](https://ja.wikipedia.org/wiki/マールテン・マルテンス "wikilink") 2004-2006
 

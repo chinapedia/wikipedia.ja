@@ -3,7 +3,7 @@
 
 [Mitsubishi_LE-7A.JPG](https://ja.wikipedia.org/wiki/File:Mitsubishi_LE-7A.JPG "fig:Mitsubishi_LE-7A.JPG")
 
-**LE-7A**は、日本の[宇宙開発事業団](../Page/宇宙開発事業団.md "wikilink")(NASDA)が[三菱重工業](../Page/三菱重工業.md "wikilink")や[石川島播磨重工業](https://ja.wikipedia.org/wiki/石川島播磨重工業 "wikilink")と共に開発した液体燃料ロケットエンジンである。[H-IIロケット](../Page/H-IIロケット.md "wikilink")第一段に使われていた[LE-7](https://ja.wikipedia.org/wiki/LE-7 "wikilink")エンジンを改良したもので、[H-IIAロケット](../Page/H-IIAロケット.md "wikilink")の第一段には1基、[H-IIBロケット](../Page/H-IIBロケット.md "wikilink")の第一段には2基使用されている。
+**LE-7A**は、日本の[宇宙開発事業団](../Page/宇宙開発事業団.md "wikilink")(NASDA)が[三菱重工業](../Page/三菱重工業.md "wikilink")や[石川島播磨重工業](https://ja.wikipedia.org/wiki/石川島播磨重工業 "wikilink")と共に開発した液体燃料ロケットエンジンである。[H-IIロケット](../Page/H-IIロケット.md "wikilink")第一段に使われていた[LE-7](../Page/LE-7.md "wikilink")エンジンを改良したもので、[H-IIAロケット](../Page/H-IIAロケット.md "wikilink")の第一段には1基、[H-IIBロケット](../Page/H-IIBロケット.md "wikilink")の第一段には2基使用されている。
 
 ## 概要
 
@@ -19,9 +19,9 @@ LE-7Aに限らずロケットエンジンは、耐久性を犠牲にしても軽
 
 ## 構造
 
-燃焼サイクルは[LE-7](https://ja.wikipedia.org/wiki/LE-7 "wikilink")と同じ[二段燃焼サイクル](../Page/二段燃焼サイクル.md "wikilink")である。[LH<sub>2</sub>はLH](../Page/液体水素.md "wikilink")<sub>2</sub>[ターボポンプ](https://ja.wikipedia.org/wiki/ターボポンプ "wikilink")により昇圧され、まず主燃焼器の壁面とノズルスカートを冷却し、気体水素（GH<sub>2</sub>）となる。また[液体酸素](../Page/液体酸素.md "wikilink") (LOX) は同様にLOXターボポンプで昇圧され、91％が主燃焼室に送られる。残りの9％はさらに同軸のプリバーナポンプで昇圧され、プリバーナに送られGH<sub>2</sub>と燃焼し、750Kのタービン駆動用ガスを生じる。タービン駆動用ガスはLOXターボポンプとLH<sub>2</sub>ターボポンプを回転させた後主燃焼室に送られ、燃え残った水素が前述のLOXと燃焼し推力を生み出す。
+燃焼サイクルは[LE-7](../Page/LE-7.md "wikilink")と同じ[二段燃焼サイクル](../Page/二段燃焼サイクル.md "wikilink")である。[LH<sub>2</sub>はLH](../Page/液体水素.md "wikilink")<sub>2</sub>[ターボポンプ](https://ja.wikipedia.org/wiki/ターボポンプ "wikilink")により昇圧され、まず主燃焼器の壁面とノズルスカートを冷却し、気体水素（GH<sub>2</sub>）となる。また[液体酸素](../Page/液体酸素.md "wikilink") (LOX) は同様にLOXターボポンプで昇圧され、91％が主燃焼室に送られる。残りの9％はさらに同軸のプリバーナポンプで昇圧され、プリバーナに送られGH<sub>2</sub>と燃焼し、750Kのタービン駆動用ガスを生じる。タービン駆動用ガスはLOXターボポンプとLH<sub>2</sub>ターボポンプを回転させた後主燃焼室に送られ、燃え残った水素が前述のLOXと燃焼し推力を生み出す。
 
-世界的に見ても、この二段燃焼サイクルを採用したエンジンを実用化したのは[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[ロシア](../Page/ロシア.md "wikilink")、[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")、[インド](../Page/インド.md "wikilink")のみである。基本はLE-7と変わらないが、艤装を見直し、配管取り回しを改善。精密鋳造や機械加工を増やし、溶接箇所を260箇所から60箇所へ削減することで、コストダウンと信頼性向上を図った。また、製作コスト削減を優先して燃焼器の噴射エレメントの数を減らすなどしたため、ロケットエンジンの性能の指標となる[比推力](../Page/比推力.md "wikilink")は440秒（長ノズル）と、LE-7の446秒より低下している。
+世界的に見ても、この二段燃焼サイクルを採用したエンジンを実用化したのは[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[ロシア](../Page/ロシア.md "wikilink")、[中国](../Page/中国.md "wikilink")、[インド](../Page/インド.md "wikilink")のみである。基本はLE-7と変わらないが、艤装を見直し、配管取り回しを改善。精密鋳造や機械加工を増やし、溶接箇所を260箇所から60箇所へ削減することで、コストダウンと信頼性向上を図った。また、製作コスト削減を優先して燃焼器の噴射エレメントの数を減らすなどしたため、ロケットエンジンの性能の指標となる[比推力](../Page/比推力.md "wikilink")は440秒（長ノズル）と、LE-7の446秒より低下している。
 
 短ノズル仕様と完全冷却の長ノズル仕様ではノズルの膨張率（形状）が異なる。LE-7A短ノズルは上下にややつぶれたCTP(Compressed Truncated Perfect)ノズルと呼ばれる形状を採用しており、開口比を変えることなくLE-7のTP(Truncated Perfect)ノズルより長さを短縮できた。しかしフィルム冷却のノズル下部を取り付けた長ノズル状態で試験したところ、前述のように過大な横応力が発生した。これはつぶれた形状のノズルが過膨張となり、さらにフィルム冷却部のわずかな段差で燃焼ガスが剥離、再付着することによるものだと判明した\[3\]。CTPノズルにおける有効な解決手段が無かったことから、完全再生冷却型長ノズルは長さを延長し、LE-7と同様のTPノズル形状となっている。
 
@@ -52,7 +52,7 @@ LE-7Aに限らずロケットエンジンは、耐久性を犠牲にしても軽
   - [LE-5](https://ja.wikipedia.org/wiki/LE-5 "wikilink")
   - [LE-5A](https://ja.wikipedia.org/wiki/LE-5A "wikilink")
   - [LE-5B](../Page/LE-5B.md "wikilink")
-  - [LE-7](https://ja.wikipedia.org/wiki/LE-7 "wikilink")
+  - [LE-7](../Page/LE-7.md "wikilink")
   - [LE-8](https://ja.wikipedia.org/wiki/LE-8 "wikilink")
   - [LE-9](https://ja.wikipedia.org/wiki/LE-9 "wikilink")
 
@@ -64,7 +64,7 @@ LE-7Aに限らずロケットエンジンは、耐久性を犠牲にしても軽
 
 [Category:二段燃焼サイクルのロケットエンジン](https://ja.wikipedia.org/wiki/Category:二段燃焼サイクルのロケットエンジン "wikilink") [Category:液体水素/液体酸素を推進剤とするロケットエンジン](https://ja.wikipedia.org/wiki/Category:液体水素/液体酸素を推進剤とするロケットエンジン "wikilink") [Category:日本のロケットエンジン](https://ja.wikipedia.org/wiki/Category:日本のロケットエンジン "wikilink")
 
-1.  『国産ロケットはなぜ墜ちるのか』[松浦晋也](https://ja.wikipedia.org/wiki/松浦晋也 "wikilink")、日経BP社 ISBN 4-8222-4383-4
+1.  『国産ロケットはなぜ墜ちるのか』[松浦晋也](../Page/松浦晋也.md "wikilink")、日経BP社 ISBN 4-8222-4383-4
 2.
 3.  [宇宙航空研究開発機構研究開発報告　ノズル過大横推力の原因究明と対策](http://ci.nii.ac.jp/naid/110007149127)
 4.  [H-IIAロケット用エンジン（LE-7A,LE-5B）の開発](http://www.mhi.co.jp/technology/review/pdf/355/355344.pdf)

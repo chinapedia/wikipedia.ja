@@ -9,9 +9,9 @@
 
 従来の[E型エンジンの後継機にあたり](../Page/ホンダ・E型エンジン.md "wikilink")、スポーツカー向けのエンジンではなく実用型ではあるが、かなりの[ショートストローク](https://ja.wikipedia.org/wiki/ショートストローク "wikilink")エンジンとなった。これは軽自動車では車重に比してエンジンの排気量が小さく、他の乗用車用エンジンよりも高い回転域が常用されるために、その回転域での効率を重視したためである。ボアピッチは[L型エンジンと同一の](../Page/ホンダ・L型エンジン.md "wikilink")80mm。
 
-[吸・排気バルブはそれぞれ](https://ja.wikipedia.org/wiki/バルブ#内燃機関におけるバルブ "wikilink")1個で、[タイミングベルト](https://ja.wikipedia.org/wiki/タイミングベルト "wikilink")で駆動される[カムシャフト](https://ja.wikipedia.org/wiki/カムシャフト "wikilink")により、[ロッカーアーム](https://ja.wikipedia.org/wiki/ロッカーアーム "wikilink")を介し開閉される。そのロッカーアームの摺動部には動弁系のフリクションを低減するためにローラー機構を使用している。[点火プラグ](../Page/点火プラグ.md "wikilink")が対角の位置に2個ずつ取付けられ、その1つ1つに[点火コイルを装着し](https://ja.wikipedia.org/wiki/イグニッションコイル "wikilink")、エンジン回転や負荷に応じて最適なタイミングと位相で点火する。[シリンダーヘッド](https://ja.wikipedia.org/wiki/シリンダーヘッド "wikilink")の吸・排気ポートは、[燃焼室](https://ja.wikipedia.org/wiki/燃焼室 "wikilink")内に[スワールが形成される形状にし](../Page/乱流.md "wikilink")、燃焼速度の向上を図っている。[シリンダーブロック](https://ja.wikipedia.org/wiki/シリンダーブロック "wikilink")は[アルミ製で](https://ja.wikipedia.org/wiki/アルミニューム "wikilink")、[シリンダー](https://ja.wikipedia.org/wiki/シリンダー "wikilink")と[クランクシャフト](https://ja.wikipedia.org/wiki/クランクシャフト "wikilink")の中心軸がオフセットされ、[ピストン](https://ja.wikipedia.org/wiki/ピストン "wikilink")とシリンダー間の摩擦抵抗の低減を図っている。
+[吸・排気バルブはそれぞれ](https://ja.wikipedia.org/wiki/バルブ#内燃機関におけるバルブ "wikilink")1個で、[タイミングベルト](../Page/タイミングベルト.md "wikilink")で駆動される[カムシャフト](../Page/カムシャフト.md "wikilink")により、[ロッカーアーム](../Page/ロッカーアーム.md "wikilink")を介し開閉される。そのロッカーアームの摺動部には動弁系のフリクションを低減するためにローラー機構を使用している。[点火プラグ](../Page/点火プラグ.md "wikilink")が対角の位置に2個ずつ取付けられ、その1つ1つに[点火コイルを装着し](https://ja.wikipedia.org/wiki/イグニッションコイル "wikilink")、エンジン回転や負荷に応じて最適なタイミングと位相で点火する。[シリンダーヘッド](https://ja.wikipedia.org/wiki/シリンダーヘッド "wikilink")の吸・排気ポートは、[燃焼室](https://ja.wikipedia.org/wiki/燃焼室 "wikilink")内に[スワールが形成される形状にし](../Page/乱流.md "wikilink")、燃焼速度の向上を図っている。[シリンダーブロック](../Page/シリンダーブロック.md "wikilink")は[アルミ製で](https://ja.wikipedia.org/wiki/アルミニューム "wikilink")、[シリンダー](../Page/シリンダー.md "wikilink")と[クランクシャフト](../Page/クランクシャフト.md "wikilink")の中心軸がオフセットされ、[ピストン](../Page/ピストン.md "wikilink")とシリンダー間の摩擦抵抗の低減を図っている。
 
-燃料供給装置は[PGM-FI仕様のみで](../Page/燃料噴射装置.md "wikilink")、[インテークマニホールド](https://ja.wikipedia.org/wiki/インテークマニホールド "wikilink")の各気筒のポートにインジェクターが取付けられたマルチポイント式である。[エキゾーストマニホールド](https://ja.wikipedia.org/wiki/エキゾーストマニホールド "wikilink")が無く、エンジンと[三元触媒](../Page/三元触媒.md "wikilink")との間隔を近づけ、冷間時でも早期から[排気ガス](https://ja.wikipedia.org/wiki/排気ガス "wikilink")の浄化を可能にした。
+燃料供給装置は[PGM-FI仕様のみで](../Page/燃料噴射装置.md "wikilink")、[インテークマニホールド](../Page/インテークマニホールド.md "wikilink")の各気筒のポートにインジェクターが取付けられたマルチポイント式である。[エキゾーストマニホールド](../Page/エキゾーストマニホールド.md "wikilink")が無く、エンジンと[三元触媒](../Page/三元触媒.md "wikilink")との間隔を近づけ、冷間時でも早期から[排気ガス](../Page/排気ガス.md "wikilink")の浄化を可能にした。
 
 後継は[S型エンジン](https://ja.wikipedia.org/wiki/ホンダ・S型エンジン "wikilink")。
 
@@ -19,13 +19,13 @@
 
 2013年11月に、走りと燃費を両立させる新世代パワートレイン技術「EARTH DREAMS TECHNOLOGY」の一つとして発表された「VTEC TURBO」シリーズの中で、主に小～中型車用エンジンとして開発された1.0Lエンジン。
 
-型式はP型ではあるものの、本機は[DOHC](../Page/DOHC.md "wikilink")[直噴化されており](https://ja.wikipedia.org/wiki/ガソリン直噴エンジン "wikilink")、また燃費改善のために[水冷式EGRも採用された](../Page/排気再循環.md "wikilink")。 主に欧州、中国向けに販売される10代目[シビック](https://ja.wikipedia.org/wiki/シビック "wikilink")に搭載されている。
+型式はP型ではあるものの、本機は[DOHC](../Page/DOHC.md "wikilink")[直噴化されており](../Page/ガソリン直噴エンジン.md "wikilink")、また燃費改善のために[水冷式EGRも採用された](../Page/排気再循環.md "wikilink")。 主に欧州、中国向けに販売される10代目[シビック](https://ja.wikipedia.org/wiki/シビック "wikilink")に搭載されている。
 
 ファイル: 2017 Honda Civic EX VTEC 1.0 Front.jpg|P10Aを搭載したシビックハッチバック（英国向け）
 
 ## 歴史
 
-  - [2003年](../Page/2003年.md "wikilink")9月、4代目[ライフに](../Page/ホンダ・ライフ.md "wikilink")[自然吸気](https://ja.wikipedia.org/wiki/自然吸気 "wikilink")と[ターボ過給のP](../Page/ターボチャージャー.md "wikilink")07A（[i-DSI](https://ja.wikipedia.org/wiki/i-DSI "wikilink")）が初めて採用された。
+  - [2003年](../Page/2003年.md "wikilink")9月、4代目[ライフに](../Page/ホンダ・ライフ.md "wikilink")[自然吸気](../Page/自然吸気.md "wikilink")と[ターボ過給のP](../Page/ターボチャージャー.md "wikilink")07A（[i-DSI](https://ja.wikipedia.org/wiki/i-DSI "wikilink")）が初めて採用された。
   - [2013年](../Page/2013年.md "wikilink")12月、5代目ライフの生産終了に伴い、P07A型エンジンの製造も終了した（同5代目ライフは[2014年](../Page/2014年.md "wikilink")4月を以って販売終了）。
   - [2015年](../Page/2015年.md "wikilink")9月、欧州、中国で発表された10代目シビックにP10A型が採用された。
   - [2018年](../Page/2018年.md "wikilink")9月、中国で発表された2代目[クライダーにP](https://ja.wikipedia.org/wiki/ホンダ・クライダー "wikilink")10A型が採用された。
@@ -92,7 +92,7 @@
 
   - [ライフ](../Page/ホンダ・ライフ.md "wikilink")（JB5/6)
   - [ライフ](../Page/ホンダ・ライフ.md "wikilink")（JC1/2）
-  - [ゼスト](https://ja.wikipedia.org/wiki/ホンダ・ゼスト "wikilink")（JE1/2）
+  - [ゼスト](../Page/ホンダ・ゼスト.md "wikilink")（JE1/2）
 
 <!-- end list -->
 

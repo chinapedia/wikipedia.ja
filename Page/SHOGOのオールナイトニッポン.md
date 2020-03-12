@@ -3,26 +3,26 @@
 
 **POCARI SWEAT Presents SHOGOのオールナイトニッポン**（'''ポカリスエットプレゼンツショーゴ - '''）は[ニッポン放送](../Page/ニッポン放送.md "wikilink")の人気[深夜放送](../Page/深夜放送.md "wikilink")[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")の[土曜日](../Page/土曜日.md "wikilink")で[175R](../Page/175R.md "wikilink")のボーカル・[SHOGO](../Page/SHOGO.md "wikilink")が[パーソナリティを担当した](../Page/ラジオパーソナリティ.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。　
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")4月より、メインスポンサーは[ポカリスエット](https://ja.wikipedia.org/wiki/ポカリスエット "wikilink")（[大塚製薬](../Page/大塚製薬.md "wikilink")）がメインとなっている。（以前は[東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")がメインスポンサーであった）。 また、他の曜日とは違い、毎週様々なゲストが登場した。
+[2005年](../Page/2005年.md "wikilink")4月より、メインスポンサーは[ポカリスエット](../Page/ポカリスエット.md "wikilink")（[大塚製薬](../Page/大塚製薬.md "wikilink")）がメインとなっている。（以前は[東芝](../Page/東芝.md "wikilink")がメインスポンサーであった）。 また、他の曜日とは違い、毎週様々なゲストが登場した。
 
-2006年4月1日をもって終了。後番組は『[アンダーグラフのオールナイトニッポン](https://ja.wikipedia.org/wiki/アンダーグラフのオールナイトニッポン "wikilink")』。
+2006年4月1日をもって終了。後番組は『[アンダーグラフのオールナイトニッポン](../Page/アンダーグラフのオールナイトニッポン.md "wikilink")』。
 
 ## 概要
 
-元は*175R SHOGOのallnightnippon-r*で、[2002年](../Page/2002年.md "wikilink")10月から[2003年](../Page/2003年.md "wikilink")9月まで[火曜日](../Page/火曜日.md "wikilink")27:00-28:30を担当していたが、平日の[エバーグリーン開始による平日のR枠撤廃に伴い](../Page/オールナイトニッポンエバーグリーン.md "wikilink")、2003年10月の充電期間を経て、同年11月に**SHOGOのオールナイトニッポンフライデースペシャル**として移転。2004年3月、今度は [HOT'n HOT お気に入りに追加\!開始による同枠撤廃に伴い再度移転](https://ja.wikipedia.org/wiki/HOT'n_HOT_お気に入りに追加! "wikilink")。土曜25:00〜の枠に落ち着いた。
+元は*175R SHOGOのallnightnippon-r*で、[2002年](../Page/2002年.md "wikilink")10月から[2003年](../Page/2003年.md "wikilink")9月まで[火曜日](../Page/火曜日.md "wikilink")27:00-28:30を担当していたが、平日の[エバーグリーン開始による平日のR枠撤廃に伴い](../Page/オールナイトニッポンエバーグリーン.md "wikilink")、2003年10月の充電期間を経て、同年11月に**SHOGOのオールナイトニッポンフライデースペシャル**として移転。2004年3月、今度は [HOT'n HOT お気に入りに追加\!開始による同枠撤廃に伴い再度移転](../Page/HOT'n_HOT_お気に入りに追加!.md "wikilink")。土曜25:00〜の枠に落ち着いた。
 
 ## 本番組の出来事
 
 ### 2004年
 
   - [8月28日](../Page/8月28日.md "wikilink")の放送では、[中国放送](../Page/中国放送.md "wikilink")から生放送した\[1\]。
-  - [12月25日](../Page/12月25日.md "wikilink")の放送は[SHOGO](../Page/SHOGO.md "wikilink")が休み、代理に「TOSHIBA presents [小川直也](https://ja.wikipedia.org/wiki/小川直也 "wikilink")のオールナイトニッポン」が放送された\[2\]。
+  - [12月25日](../Page/12月25日.md "wikilink")の放送は[SHOGO](../Page/SHOGO.md "wikilink")が休み、代理に「TOSHIBA presents [小川直也](../Page/小川直也.md "wikilink")のオールナイトニッポン」が放送された\[2\]。
 
 ### 2005年
 
   - [2月26日](../Page/2月26日.md "wikilink")の放送では、[ラジオ沖縄](https://ja.wikipedia.org/wiki/ラジオ沖縄 "wikilink")から生放送した\[3\]。
   - [3月19日](../Page/3月19日.md "wikilink")[SHOGO](../Page/SHOGO.md "wikilink")が休みの為に[B'z](../Page/B'z.md "wikilink")が代わりに「TOSHIBA presents B'zのオールナイトニッポン」が放送された\[4\]。
-  - [8月6日](../Page/8月6日.md "wikilink")の放送は[茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")[ひたちなか市](../Page/ひたちなか市.md "wikilink")の「ひたち海浜公園」から生放送し、[175R](../Page/175R.md "wikilink")のメンバーも出演した。（ロックインフェスタに出演していたため。）\[5\]。
+  - [8月6日](../Page/8月6日.md "wikilink")の放送は[茨城県](../Page/茨城県.md "wikilink")[ひたちなか市](../Page/ひたちなか市.md "wikilink")の「ひたち海浜公園」から生放送し、[175R](../Page/175R.md "wikilink")のメンバーも出演した。（ロックインフェスタに出演していたため。）\[5\]。
   - [9月24日](../Page/9月24日.md "wikilink")　第2回サタデーナイトパーティー討論会が開催された\[6\]。
   - [10月8日](../Page/10月8日.md "wikilink")の放送でリニューアルした\[7\]。
   - [11月19日](../Page/11月19日.md "wikilink")の放送中にホームページがリニューアルした\[8\]。
@@ -38,14 +38,14 @@
 
 ## 代理番組
 
-  - [小川直也](https://ja.wikipedia.org/wiki/小川直也 "wikilink")
+  - [小川直也](../Page/小川直也.md "wikilink")
   - [B'z](../Page/B'z.md "wikilink")
   - [w-inds.](https://ja.wikipedia.org/wiki/w-inds. "wikilink")
 
 ## 放送時間
 
   - 2002年10月8日 - 2003年3月25日、「[allnightnippon-r](https://ja.wikipedia.org/wiki/allnightnippon-r "wikilink")」火曜日 深夜27:00-28:30
-  - 2003年4月1日 - 2003年9月23日、「[オールナイトニッポンR](https://ja.wikipedia.org/wiki/オールナイトニッポンR "wikilink")」火曜日 深夜27:00-28:30
+  - 2003年4月1日 - 2003年9月23日、「[オールナイトニッポンR](../Page/オールナイトニッポンR.md "wikilink")」火曜日 深夜27:00-28:30
   - 2003年11月 - 2004年3月、「[オールナイトニッポン FRIDAY SPECIAL](https://ja.wikipedia.org/wiki/オールナイトニッポン_FRIDAY_SPECIAL "wikilink")」（旧 [SUPER\!](https://ja.wikipedia.org/wiki/allnightnippon_SUPER! "wikilink")・[いいネ\!枠](../Page/オールナイトニッポンいいネ!.md "wikilink")） 22:00-24:00
   - 2004年4月3日 - 2006年4月1日　土曜日（旧 1部・com枠） 深夜25:00-27:00
 
@@ -84,7 +84,7 @@ SHOGOが出演する映画[探偵事務所5](../Page/探偵事務所5.md "wikili
 
 ### 構成作家
 
-  - [正岡謙一郎](https://ja.wikipedia.org/wiki/正岡謙一郎 "wikilink")
+  - [正岡謙一郎](../Page/正岡謙一郎.md "wikilink")
   - 高須
 
 ### サブ作家

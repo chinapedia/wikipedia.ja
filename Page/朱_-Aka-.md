@@ -9,7 +9,7 @@
 
 物語の舞台は、数百年前の砂漠。“ルタ”と呼ばれるものとその眷属が主軸となる。
 
-ストーリー構成（基本的に4部構成で、それぞれ違う主人公とヒロインを描いている）や描写（地の文や、キャラクターのせりふが画面下部に一行表示され映画の字幕風になるなど全体的に映画を意識した作り）などが同社の『[銀色](https://ja.wikipedia.org/wiki/銀色_\(ゲーム\) "wikilink")』より受け継がれている。
+ストーリー構成（基本的に4部構成で、それぞれ違う主人公とヒロインを描いている）や描写（地の文や、キャラクターのせりふが画面下部に一行表示され映画の字幕風になるなど全体的に映画を意識した作り）などが同社の『[銀色](../Page/銀色_\(ゲーム\).md "wikilink")』より受け継がれている。
 
 しかし、『銀色』は各章ごとに時代がまったく違っていたが、朱は、登場人物こそ違うものの、大まかな時代や場所は共通しており、別章の人物、事件、物品が関わってくることもままある。
 
@@ -74,7 +74,7 @@
 
   - チュチュ（Chu-Chu）
 
-声：[籐野らん](https://ja.wikipedia.org/wiki/籐野らん "wikilink")
+声：[籐野らん](../Page/籐野らん.md "wikilink")
 
   -
     第2章ヒロイン。幼馴染みであるターサに拾われて以来、二人で盗賊として生きてきた。ドジな性格をしており、よくターサに叱られる。
@@ -84,7 +84,7 @@
   - ウェズ(Wazsub)
     第3章の主人公。無口だが、自らの意見はキチンと言う。
   - ファウ
-    声：[まきいづみ](https://ja.wikipedia.org/wiki/まきいづみ "wikilink")
+    声：[まきいづみ](../Page/まきいづみ.md "wikilink")
     第3章のヒロイン。ウェズを助けた女性。街でただ一人の薬師として住民たちから頼りにされている。
 
 ### 第4章
@@ -101,21 +101,21 @@
 ## スタッフ・主題歌
 
   - キャラクターデザイン：[秋乃武彦](https://ja.wikipedia.org/wiki/秋乃武彦 "wikilink")
-  - 原画：[秋乃武彦](https://ja.wikipedia.org/wiki/秋乃武彦 "wikilink")、歩鳥、神代舞、[小田原箱根](https://ja.wikipedia.org/wiki/オダワラハコネ "wikilink")
+  - 原画：[秋乃武彦](https://ja.wikipedia.org/wiki/秋乃武彦 "wikilink")、歩鳥、神代舞、[小田原箱根](../Page/オダワラハコネ.md "wikilink")
   - シナリオ：[片岡とも](../Page/片岡とも.md "wikilink")、東トナタ、高嶋栄二
   - ディレクター：片岡とも
-  - 音楽：[feel](https://ja.wikipedia.org/wiki/feel_\(音楽プロジェクト\) "wikilink")、SoundUnion Ebi、zerverius、[高瀬一矢](https://ja.wikipedia.org/wiki/高瀬一矢 "wikilink")、[まにょっ](../Page/MANYO.md "wikilink")、[細井聡司](https://ja.wikipedia.org/wiki/細井聡司 "wikilink")、[水月陵](../Page/水月陵.md "wikilink")、YUKI NAKANO
+  - 音楽：[feel](https://ja.wikipedia.org/wiki/feel_\(音楽プロジェクト\) "wikilink")、SoundUnion Ebi、zerverius、[高瀬一矢](../Page/高瀬一矢.md "wikilink")、[まにょっ](../Page/MANYO.md "wikilink")、[細井聡司](../Page/細井聡司.md "wikilink")、[水月陵](../Page/水月陵.md "wikilink")、YUKI NAKANO
 
 <!-- end list -->
 
   - OP主題歌「砂銀（すなぎん）」
-    歌：[彩菜](https://ja.wikipedia.org/wiki/彩菜 "wikilink") feat.堀奈生 / 作詞：片岡とも / 作曲：[上松範康](https://ja.wikipedia.org/wiki/上松範康 "wikilink")
+    歌：[彩菜](../Page/彩菜.md "wikilink") feat.堀奈生 / 作詞：片岡とも / 作曲：[上松範康](../Page/上松範康.md "wikilink")
   - 挿入歌「朱」
     歌：[NANA](../Page/NANA_\(歌手\).md "wikilink") / 作詞：片岡とも / 作曲：上松範康
   - 挿入歌「砂の城 -The Castle of Sand-」
-    歌：[島宮えい子](https://ja.wikipedia.org/wiki/島宮えい子 "wikilink") / 作詞：片岡とも／作曲・編曲：[高瀬一矢](https://ja.wikipedia.org/wiki/高瀬一矢 "wikilink")
+    歌：[島宮えい子](https://ja.wikipedia.org/wiki/島宮えい子 "wikilink") / 作詞：片岡とも／作曲・編曲：[高瀬一矢](../Page/高瀬一矢.md "wikilink")
   - イメージソング「Desert-Duo」
-    歌：[YURIA](../Page/YURIA.md "wikilink")・[佐藤裕美](https://ja.wikipedia.org/wiki/佐藤ひろ美 "wikilink") / 作詞：片岡とも / 作曲：[milktub](https://ja.wikipedia.org/wiki/milktub "wikilink") / 編曲：[藤間仁](../Page/藤間仁.md "wikilink")
+    歌：[YURIA](../Page/YURIA.md "wikilink")・[佐藤裕美](../Page/佐藤ひろ美.md "wikilink") / 作詞：片岡とも / 作曲：[milktub](https://ja.wikipedia.org/wiki/milktub "wikilink") / 編曲：[藤間仁](../Page/藤間仁.md "wikilink")
 
 **挿入歌「想い -風に舞うしるべ-」**
 
@@ -140,8 +140,8 @@
 
 ## 関連項目
 
-  - [Iris motion graphics](https://ja.wikipedia.org/wiki/Iris_motion_graphics "wikilink")
-  - [Lantis](https://ja.wikipedia.org/wiki/ランティス "wikilink")
+  - [Iris motion graphics](../Page/Iris_motion_graphics.md "wikilink")
+  - [Lantis](../Page/ランティス.md "wikilink")
 
 ## 外部リンク
 

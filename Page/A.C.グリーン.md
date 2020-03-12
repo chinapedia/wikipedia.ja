@@ -1,15 +1,15 @@
 > この記事は[A.C.](https://ja.wikipedia.org/wiki/A.C.)から翻訳されています。
 
 
-**A.C.グリーン**（**A.C. Green Jr.**、[1963年](../Page/1963年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink") - ）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[オレゴン州](../Page/オレゴン州.md "wikilink")[ポートランド出身の元](https://ja.wikipedia.org/wiki/ポートランド_\(オレゴン州\) "wikilink")[バスケットボール](../Page/バスケットボール.md "wikilink")選手。ファーストネームの "A.C." は略称ではなく、これが本名である。
+**A.C.グリーン**（**A.C. Green Jr.**、[1963年](../Page/1963年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink") - ）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[オレゴン州](../Page/オレゴン州.md "wikilink")[ポートランド出身の元](../Page/ポートランド_\(オレゴン州\).md "wikilink")[バスケットボール](../Page/バスケットボール.md "wikilink")選手。ファーストネームの "A.C." は略称ではなく、これが本名である。
 
-[NBA](../Page/NBA.md "wikilink")でプレイし、1,192試合連続出場の記録保持者である。1987年、1988年、2000年のNBAチャンピオン、[ロサンゼルス・レイカーズ](../Page/ロサンゼルス・レイカーズ.md "wikilink")のメンバー。身長206センチ。ポジションはフォワード。愛称は「Iron Man（[鉄人](https://ja.wikipedia.org/wiki/鉄人 "wikilink")）」。
+[NBA](../Page/NBA.md "wikilink")でプレイし、1,192試合連続出場の記録保持者である。1987年、1988年、2000年のNBAチャンピオン、[ロサンゼルス・レイカーズ](../Page/ロサンゼルス・レイカーズ.md "wikilink")のメンバー。身長206センチ。ポジションはフォワード。愛称は「Iron Man（[鉄人](../Page/鉄人.md "wikilink")）」。
 
 ## 経歴
 
-1985年に[オレゴン州立大学](https://ja.wikipedia.org/wiki/オレゴン州立大学 "wikilink")を卒業、[同年に](https://ja.wikipedia.org/wiki/1985年のNBAドラフト "wikilink")[ロサンゼルス・レイカーズ](../Page/ロサンゼルス・レイカーズ.md "wikilink")に1順目23位で指名された。新人のシーズンに全82試合に出場。翌シーズンは3試合に欠場したものの、それ以降は引退するまで欠場することはなかった。[マジック・ジョンソン](../Page/マジック・ジョンソン.md "wikilink")、[ジェームズ・ウォージー](../Page/ジェームズ・ウォージー.md "wikilink") 、[カリーム・アブドゥル＝ジャバー](https://ja.wikipedia.org/wiki/カリーム・アブドゥル＝ジャバー "wikilink")と共にプレイショータイムと呼ばれたレイカーズの[NBAファイナル](https://ja.wikipedia.org/wiki/NBAファイナル "wikilink")2連覇に貢献した。1989年から1991年にもNBAファイナルに出場している。
+1985年に[オレゴン州立大学](../Page/オレゴン州立大学.md "wikilink")を卒業、[同年に](https://ja.wikipedia.org/wiki/1985年のNBAドラフト "wikilink")[ロサンゼルス・レイカーズ](../Page/ロサンゼルス・レイカーズ.md "wikilink")に1順目23位で指名された。新人のシーズンに全82試合に出場。翌シーズンは3試合に欠場したものの、それ以降は引退するまで欠場することはなかった。[マジック・ジョンソン](../Page/マジック・ジョンソン.md "wikilink")、[ジェームズ・ウォージー](../Page/ジェームズ・ウォージー.md "wikilink") 、[カリーム・アブドゥル＝ジャバー](../Page/カリーム・アブドゥル＝ジャバー.md "wikilink")と共にプレイショータイムと呼ばれたレイカーズの[NBAファイナル](../Page/NBAファイナル.md "wikilink")2連覇に貢献した。1989年から1991年にもNBAファイナルに出場している。
 
-1993-94シーズン開始に先立ち[フェニックス・サンズ](https://ja.wikipedia.org/wiki/フェニックス・サンズ "wikilink")に移籍。[1996年](../Page/1996年.md "wikilink")のシーズン途中で[ジェイソン・キッド](https://ja.wikipedia.org/wiki/ジェイソン・キッド "wikilink")が絡んだ大型トレードで[ダラス・マーベリックス](https://ja.wikipedia.org/wiki/ダラス・マーベリックス "wikilink")に放出された関係で、このシーズンは規定の試合数より一つ多い83試合に出場。[1999年](../Page/1999年.md "wikilink")には古巣のレイカーズに戻り、そのシーズンのレイカーズの優勝に貢献した。翌シーズンはレイカーズ時代の恩師[パット・ライリー](../Page/パット・ライリー.md "wikilink")率いる[マイアミ・ヒート](https://ja.wikipedia.org/wiki/マイアミ・ヒート "wikilink")でプレイ。2001-02シーズンはレイカーズ時代のチームメイトの[バイロン・スコット](https://ja.wikipedia.org/wiki/バイロン・スコット "wikilink")がヘッドコーチを務めていた[ニュージャージー・ネッツ](https://ja.wikipedia.org/wiki/ニュージャージー・ネッツ "wikilink")でのプレーを望んでいたものの、結局は実現せず引退を決意。16年間の選手生活に幕を閉じた。
+1993-94シーズン開始に先立ち[フェニックス・サンズ](../Page/フェニックス・サンズ.md "wikilink")に移籍。[1996年](../Page/1996年.md "wikilink")のシーズン途中で[ジェイソン・キッド](../Page/ジェイソン・キッド.md "wikilink")が絡んだ大型トレードで[ダラス・マーベリックス](../Page/ダラス・マーベリックス.md "wikilink")に放出された関係で、このシーズンは規定の試合数より一つ多い83試合に出場。[1999年](../Page/1999年.md "wikilink")には古巣のレイカーズに戻り、そのシーズンのレイカーズの優勝に貢献した。翌シーズンはレイカーズ時代の恩師[パット・ライリー](../Page/パット・ライリー.md "wikilink")率いる[マイアミ・ヒート](../Page/マイアミ・ヒート.md "wikilink")でプレイ。2001-02シーズンはレイカーズ時代のチームメイトの[バイロン・スコット](https://ja.wikipedia.org/wiki/バイロン・スコット "wikilink")がヘッドコーチを務めていた[ニュージャージー・ネッツ](https://ja.wikipedia.org/wiki/ニュージャージー・ネッツ "wikilink")でのプレーを望んでいたものの、結局は実現せず引退を決意。16年間の選手生活に幕を閉じた。
 
 生涯通算得点は12,331、リバウンドは 9,473。平均得点は9.6、平均リバウンドは7.4。生涯通算出場試合数は1,278試合だった。全試合に出場したシーズンは14あり、これは[ジョン・ストックトン](https://ja.wikipedia.org/wiki/ジョン・ストックトン "wikilink")とならびNBA歴代1位。2年目の1986-87シーズンで出場しなかった3試合は、怪我や病気によるものではなく[パット・ライリー](../Page/パット・ライリー.md "wikilink")ヘッドコーチの判断によるものだった。
 

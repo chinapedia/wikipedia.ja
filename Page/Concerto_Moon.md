@@ -1,7 +1,7 @@
 > この記事は[Concerto Moon](https://ja.wikipedia.org/wiki/Concerto_Moon)から翻訳されています。
 
 
-**Concerto Moon** （コンチェルト・ムーン） は[1996年](../Page/1996年.md "wikilink")にギタリストの*[島紀史](../Page/島紀史.md "wikilink")* を中心に結成された[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")・[パワーメタル](https://ja.wikipedia.org/wiki/パワーメタル "wikilink")バンド。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に[VAPよりメジャーデビュー](https://ja.wikipedia.org/wiki/バップ "wikilink")。[2004年](../Page/2004年.md "wikilink")末に活動休止、[2007年](../Page/2007年.md "wikilink")夏に活動を再開。
+**Concerto Moon** （コンチェルト・ムーン） は[1996年](../Page/1996年.md "wikilink")にギタリストの*[島紀史](../Page/島紀史.md "wikilink")* を中心に結成された[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")・[パワーメタル](../Page/パワーメタル.md "wikilink")バンド。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に[VAPよりメジャーデビュー](../Page/バップ.md "wikilink")。[2004年](../Page/2004年.md "wikilink")末に活動休止、[2007年](../Page/2007年.md "wikilink")夏に活動を再開。
 
 ## 来歴
 
@@ -13,7 +13,7 @@
 
 **1997年**：吉岡に代わり、*[長井一郎](https://ja.wikipedia.org/wiki/長井一郎 "wikilink")* が加入。マンドレイク･ルートより**1st**アルバム「FRAGMENTS OF THE MOON」をリリース。
 
-**1998年**：原田に代わり、*小池敏之* が加入。**2nd**アルバム 「FROM FATHER TO SON」 で [VAP](https://ja.wikipedia.org/wiki/バップ "wikilink") よりメジャーデビュー。12月の [ストラトヴァリウス](https://ja.wikipedia.org/wiki/ストラトヴァリウス "wikilink") 来日東京公演（[渋谷 ON AIR EAST](https://ja.wikipedia.org/wiki/Shibuya_O-EAST "wikilink")）でオープニングアクトを務めた。
+**1998年**：原田に代わり、*小池敏之* が加入。**2nd**アルバム 「FROM FATHER TO SON」 で [VAP](../Page/バップ.md "wikilink") よりメジャーデビュー。12月の [ストラトヴァリウス](../Page/ストラトヴァリウス.md "wikilink") 来日東京公演（[渋谷 ON AIR EAST](../Page/Shibuya_O-EAST.md "wikilink")）でオープニングアクトを務めた。
 
 **1999年**：ミニアルバム「TIME TO DIE」、**3rd**アルバム「RAIN FOREST」リリース。ツアー終了後に尾崎脱退。
 
@@ -41,7 +41,7 @@
 
 **2014年**：3月"BLACK FLAME TOUR 2014"。ミニアルバム「LIVE AND RARE」リリース。8- 9月"RESTORATION OF THE MOON - FINAL BLACK FLAME - "ツアー。
 
-**2015年**：4月長田脱退。*中易繁治*、*[河塚篤史](https://ja.wikipedia.org/wiki/河塚篤史 "wikilink")*、*Aki* 加入。8月"NEW MOON RISING"ツアー。9月**11th**アルバム「BETWEEN LIFE AND DEATH」リリース。10- 12月"BETWEEN LIFE AND DEATH TOUR 2015"。
+**2015年**：4月長田脱退。*中易繁治*、*[河塚篤史](../Page/河塚篤史.md "wikilink")*、*Aki* 加入。8月"NEW MOON RISING"ツアー。9月**11th**アルバム「BETWEEN LIFE AND DEATH」リリース。10- 12月"BETWEEN LIFE AND DEATH TOUR 2015"。
 
 **2016年**：4月"BETWEEN LIFE AND DEATH TOUR VOL.2"。6月「PURE ROCK JAPAN LIVE ～EXTRA vol.4～」参加。12月"at the end of the year ～Between life and death tour final～"
 
@@ -57,7 +57,7 @@
 
   - [島紀史](../Page/島紀史.md "wikilink") （ギター 1996年- ）
   - 中易繁治 （ベース 2015年- ）
-  - [河塚篤史](https://ja.wikipedia.org/wiki/河塚篤史 "wikilink") （ドラム 2015年- ）
+  - [河塚篤史](../Page/河塚篤史.md "wikilink") （ドラム 2015年- ）
   - 芳賀亘 （ボーカル 2018年- ）
   - 三宅亮 （キーボード 2018年- ）
 

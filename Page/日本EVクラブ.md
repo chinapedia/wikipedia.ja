@@ -14,11 +14,11 @@
 
 ## 活動
 
-電気自動車(EV)をはじめとする[低公害車](../Page/低公害車.md "wikilink")や[省エネ運転励行の普及](https://ja.wikipedia.org/wiki/省エネルギー "wikilink")、未来のモータリゼーションの創造、[地球温暖化](../Page/地球温暖化.md "wikilink")防止を自身の問題として考え、主体的に活動することを目的にしている。
+電気自動車(EV)をはじめとする[低公害車](../Page/低公害車.md "wikilink")や[省エネ運転励行の普及](../Page/省エネルギー.md "wikilink")、未来のモータリゼーションの創造、[地球温暖化](../Page/地球温暖化.md "wikilink")防止を自身の問題として考え、主体的に活動することを目的にしている。
 
 活動内容は、会員の電気自動車活動の支援、情報基地としての機能をもつこと、電気自動車の情報をできるだけ多くの人たちへ提供すること、講演、試乗会、先行開発の実施等。
 
-具体的には、EV手作り教室の開催、試乗・講演会の開催、日本EVフェスティバルの開催、ERK（電気[カート](https://ja.wikipedia.org/wiki/カート "wikilink")）走行会の開催、手作り電気自動車製作の支援、 EVの開発および製作の支援、会報、EVジャーナル、EVクラブ通信の発行などを行っている。
+具体的には、EV手作り教室の開催、試乗・講演会の開催、日本EVフェスティバルの開催、ERK（電気[カート](../Page/カート.md "wikilink")）走行会の開催、手作り電気自動車製作の支援、 EVの開発および製作の支援、会報、EVジャーナル、EVクラブ通信の発行などを行っている。
 
 本部では以下のようなイベントを企画、運営しているが、それとは別に各地方支部、会員それぞれが主体的に活動している。
 
@@ -27,8 +27,8 @@
 <!-- end list -->
 
   -
-    [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に第1回。毎年[11月](../Page/11月.md "wikilink")の[祝日](../Page/祝日.md "wikilink")（もしくは[振替休日](../Page/振替休日.md "wikilink")）に[筑波サーキット](https://ja.wikipedia.org/wiki/筑波サーキット "wikilink")で開催。但し2012年は10月20日に開催。
-    世界最大級の手作り電気自動車のイベントで、電気自動車の試乗会や（市販されているエンジン自動車を電気自動車に改造した車両）を使用した[耐久レース](https://ja.wikipedia.org/wiki/耐久レース "wikilink")などが開催される。
+    [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に第1回。毎年[11月](../Page/11月.md "wikilink")の[祝日](../Page/祝日.md "wikilink")（もしくは[振替休日](../Page/振替休日.md "wikilink")）に[筑波サーキット](../Page/筑波サーキット.md "wikilink")で開催。但し2012年は10月20日に開催。
+    世界最大級の手作り電気自動車のイベントで、電気自動車の試乗会や（市販されているエンジン自動車を電気自動車に改造した車両）を使用した[耐久レース](../Page/耐久レース.md "wikilink")などが開催される。
 
 [Daihatsu_Midget_II_EV_001.jpg](https://ja.wikipedia.org/wiki/File:Daihatsu_Midget_II_EV_001.jpg "fig:Daihatsu_Midget_II_EV_001.jpg")
 
@@ -46,7 +46,7 @@
 <!-- end list -->
 
   -
-    電気[レーシングカート](https://ja.wikipedia.org/wiki/レーシングカート "wikilink")を用いた[レース](../Page/自動車競技.md "wikilink")。
+    電気[レーシングカート](../Page/レーシングカート.md "wikilink")を用いた[レース](../Page/自動車競技.md "wikilink")。
 
 <!-- end list -->
 
@@ -56,7 +56,7 @@
 <!-- end list -->
 
   -
-    電気[フォーミュラカー](https://ja.wikipedia.org/wiki/フォーミュラカー "wikilink")や、オリジナル[ハイブリッドカー](../Page/ハイブリッドカー.md "wikilink")を教材とした教室
+    電気[フォーミュラカー](../Page/フォーミュラカー.md "wikilink")や、オリジナル[ハイブリッドカー](../Page/ハイブリッドカー.md "wikilink")を教材とした教室
 
 <!-- end list -->
 
@@ -76,15 +76,15 @@
   -
     [洞爺湖サミット](https://ja.wikipedia.org/wiki/洞爺湖サミット "wikilink")に合わせ東京から洞爺湖まで走り電気自動車をアピール。
 
-ほかにも、コンバートEVや電気[フォーミュラカー](https://ja.wikipedia.org/wiki/フォーミュラカー "wikilink")の製作なども行っている。
+ほかにも、コンバートEVや電気[フォーミュラカー](../Page/フォーミュラカー.md "wikilink")の製作なども行っている。
 
 ## 無充電チャレンジ
 
-同クラブでは[ダイハツ・ミラ](https://ja.wikipedia.org/wiki/ダイハツ・ミラ "wikilink")をベースに独自にEVへの改造を行った「ミラEV」により、「EVによる途中無充電での連続走行記録」への挑戦を行った。同チャレンジには[三洋電機](../Page/三洋電機.md "wikilink")・[トーヨータイヤ](https://ja.wikipedia.org/wiki/トーヨータイヤ "wikilink")・[東京中日スポーツ](../Page/東京中日スポーツ.md "wikilink")などが協力した。
+同クラブでは[ダイハツ・ミラ](../Page/ダイハツ・ミラ.md "wikilink")をベースに独自にEVへの改造を行った「ミラEV」により、「EVによる途中無充電での連続走行記録」への挑戦を行った。同チャレンジには[三洋電機](../Page/三洋電機.md "wikilink")・[トーヨータイヤ](https://ja.wikipedia.org/wiki/トーヨータイヤ "wikilink")・[東京中日スポーツ](../Page/東京中日スポーツ.md "wikilink")などが協力した。
 
 [2009年](../Page/2009年.md "wikilink")[11月17日](../Page/11月17日.md "wikilink")には、ミラEVで東京・日本橋から大阪・日本橋までの555.6kmを無充電で走行し、公道上でのEVの無充電走行記録を更新\[1\]。同記録は「The longest journey by electric vehicle」として、2010年4月に[ギネスブック](https://ja.wikipedia.org/wiki/ギネスブック "wikilink")の認定を受けた\[2\]。
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[5月22日](../Page/5月22日.md "wikilink")・[23日には](../Page/5月23日.md "wikilink")、[筑波サーキット](https://ja.wikipedia.org/wiki/筑波サーキット "wikilink")の[オートレース](https://ja.wikipedia.org/wiki/オートレース "wikilink")選手養成所オーバルコースにて、再びミラEVを用いた無充電での最長走行記録に挑戦。最終的に目標とする1000kmをわずかに超える1003.184kmを走行し、自らの持つ世界記録を大幅に更新した\[3\]。なお同クラブでは本記録についても「The great distance by electric vehicle」としてギネスブックに申請する予定。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[5月22日](../Page/5月22日.md "wikilink")・[23日には](../Page/5月23日.md "wikilink")、[筑波サーキット](../Page/筑波サーキット.md "wikilink")の[オートレース](../Page/オートレース.md "wikilink")選手養成所オーバルコースにて、再びミラEVを用いた無充電での最長走行記録に挑戦。最終的に目標とする1000kmをわずかに超える1003.184kmを走行し、自らの持つ世界記録を大幅に更新した\[3\]。なお同クラブでは本記録についても「The great distance by electric vehicle」としてギネスブックに申請する予定。
 
 ## 関連項目
 

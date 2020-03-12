@@ -1,7 +1,7 @@
 > この記事は[NET](https://ja.wikipedia.org/wiki/NET)から翻訳されています。
 
 
-**あすなろNET**（あすなろネット）は、[青森銀行](../Page/青森銀行.md "wikilink")が[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")内の[信用金庫](https://ja.wikipedia.org/wiki/信用金庫 "wikilink")・[青森県信用組合](https://ja.wikipedia.org/wiki/青森県信用組合 "wikilink")・[JAバンク](../Page/JAバンク.md "wikilink")青森（青森県内の農協）・[東北労働金庫](https://ja.wikipedia.org/wiki/東北労働金庫 "wikilink")と個別に提携した[ATM・CD利用手数料無料サービスの名称である](../Page/現金自動預け払い機.md "wikilink")。
+**あすなろNET**（あすなろネット）は、[青森銀行](../Page/青森銀行.md "wikilink")が[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")内の[信用金庫](https://ja.wikipedia.org/wiki/信用金庫 "wikilink")・[青森県信用組合](../Page/青森県信用組合.md "wikilink")・[JAバンク](../Page/JAバンク.md "wikilink")青森（青森県内の農協）・[東北労働金庫](../Page/東北労働金庫.md "wikilink")と個別に提携した[ATM・CD利用手数料無料サービスの名称である](../Page/現金自動預け払い機.md "wikilink")。
 
 ## 概要
 
@@ -9,8 +9,8 @@
 
   - [青森銀行](../Page/青森銀行.md "wikilink")
   - 青森県内の信用金庫（[青い森](https://ja.wikipedia.org/wiki/青い森信用金庫 "wikilink")・[東奥](../Page/東奥信用金庫.md "wikilink")）
-  - [青森県信用組合](https://ja.wikipedia.org/wiki/青森県信用組合 "wikilink")
-  - [東北労働金庫](https://ja.wikipedia.org/wiki/東北労働金庫 "wikilink")
+  - [青森県信用組合](../Page/青森県信用組合.md "wikilink")
+  - [東北労働金庫](../Page/東北労働金庫.md "wikilink")
   - [JAバンク](../Page/JAバンク.md "wikilink")青森
       - 信用事業を営む、青森県内の農協（[青森](https://ja.wikipedia.org/wiki/青森農業協同組合 "wikilink")・[つがる弘前](https://ja.wikipedia.org/wiki/つがる弘前農業協同組合 "wikilink")・[相馬村](https://ja.wikipedia.org/wiki/相馬村農業協同組合 "wikilink")・[津軽みらい](https://ja.wikipedia.org/wiki/津軽みらい農業協同組合 "wikilink")・[つがるにしきた](https://ja.wikipedia.org/wiki/つがるにしきた農業協同組合 "wikilink")・[ごしょつがる](https://ja.wikipedia.org/wiki/ごしょつがる農業協同組合 "wikilink")・[十和田おいらせ](https://ja.wikipedia.org/wiki/十和田おいらせ農業協同組合 "wikilink")・[ゆうき青森](https://ja.wikipedia.org/wiki/ゆうき青森農業協同組合 "wikilink")・[おいらせ](https://ja.wikipedia.org/wiki/おいらせ農業協同組合 "wikilink")・[八戸](https://ja.wikipedia.org/wiki/八戸農業協同組合 "wikilink")）
 
@@ -23,7 +23,7 @@
 
 ## 備考
 
-  - サービス開始当初は、本サービスに参加していた労働金庫は[青森県労働金庫](https://ja.wikipedia.org/wiki/青森県労働金庫 "wikilink")であった。[2003年](../Page/2003年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")に東北6県の労働金庫が合併して[東北労働金庫](https://ja.wikipedia.org/wiki/東北労働金庫 "wikilink")となった際、他の5県の労働金庫の口座ならびに管理ATMについても本サービスの対象となり、適用が拡大された。
+  - サービス開始当初は、本サービスに参加していた労働金庫は[青森県労働金庫](https://ja.wikipedia.org/wiki/青森県労働金庫 "wikilink")であった。[2003年](../Page/2003年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")に東北6県の労働金庫が合併して[東北労働金庫](../Page/東北労働金庫.md "wikilink")となった際、他の5県の労働金庫の口座ならびに管理ATMについても本サービスの対象となり、適用が拡大された。
 
 ## 沿革
 
@@ -46,6 +46,6 @@
 ## 関連項目
 
   - [AAIネット](https://ja.wikipedia.org/wiki/AAIネット "wikilink")
-  - [IHネット](https://ja.wikipedia.org/wiki/IHネット "wikilink")(提携解消)
+  - [IHネット](../Page/IHネット.md "wikilink")(提携解消)
 
 [Category:金融機関の無料提携サービス](https://ja.wikipedia.org/wiki/Category:金融機関の無料提携サービス "wikilink")

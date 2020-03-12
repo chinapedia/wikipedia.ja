@@ -1,21 +1,21 @@
 > この記事は[PANIC ATTACK](https://ja.wikipedia.org/wiki/PANIC_ATTACK)から翻訳されています。
 
 
-『**PANIC ATTACK**』（パニック・アタック）は、日本の[ロックバンドである](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")[UNICORN](https://ja.wikipedia.org/wiki/UNICORN "wikilink")の2枚目のアルバム。[1988年](../Page/1988年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")発売。発売元は[CBSソニー](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")。
+『**PANIC ATTACK**』（パニック・アタック）は、日本の[ロックバンドである](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")[UNICORN](../Page/UNICORN.md "wikilink")の2枚目のアルバム。[1988年](../Page/1988年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")発売。発売元は[CBSソニー](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")。
 
 ## 解説
 
-  - このアルバムのレコーディング前に[キーボードの](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")[向井美音里](https://ja.wikipedia.org/wiki/向井美音里 "wikilink")が脱退、サポートメンバーとして[阿部義晴](https://ja.wikipedia.org/wiki/阿部義晴 "wikilink")が参加。阿部はレコーディング・ツアーに参加したのち、本作発売前の[1988年](../Page/1988年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")に正式メンバーとして加入した。阿部がジャケットに写っていないのはこのため（「I'M A LOSER」および「ペケペケ」の[PVには出演](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")）。クレジットにはSpecial Thanksとして記載されている。
-  - レコーディング中、ドラムスの[川西幸一](https://ja.wikipedia.org/wiki/川西幸一 "wikilink")が突然[モヒカンにし](https://ja.wikipedia.org/wiki/モヒカン刈り "wikilink")、メンバーやスタッフを唖然とさせた。当時のマネージャーは憤慨したが、宣伝マンの「どうせならトロージャンにしちゃえば？インパクトがあっていいかもよ」の一言でOKになったという。本作のジャケットでは、トロージャン姿の川西が写っている\[1\]。
+  - このアルバムのレコーディング前に[キーボードの](../Page/キーボード_\(楽器\).md "wikilink")[向井美音里](../Page/向井美音里.md "wikilink")が脱退、サポートメンバーとして[阿部義晴](../Page/阿部義晴.md "wikilink")が参加。阿部はレコーディング・ツアーに参加したのち、本作発売前の[1988年](../Page/1988年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")に正式メンバーとして加入した。阿部がジャケットに写っていないのはこのため（「I'M A LOSER」および「ペケペケ」の[PVには出演](../Page/ミュージック・ビデオ.md "wikilink")）。クレジットにはSpecial Thanksとして記載されている。
+  - レコーディング中、ドラムスの[川西幸一](../Page/川西幸一.md "wikilink")が突然[モヒカンにし](../Page/モヒカン刈り.md "wikilink")、メンバーやスタッフを唖然とさせた。当時のマネージャーは憤慨したが、宣伝マンの「どうせならトロージャンにしちゃえば？インパクトがあっていいかもよ」の一言でOKになったという。本作のジャケットでは、トロージャン姿の川西が写っている\[1\]。
   - このアルバムも先行シングル・シングルカット共にシングル曲は発売されていない。
 
 ## リリース履歴
 
-| No. | 日付                                                                                                               | [レーベル](../Page/レコードレーベル.md "wikilink")                                        | 規格                                                                                                         | [規格品番](https://ja.wikipedia.org/wiki/規格品番 "wikilink") | 最高順位 | 備考                                                             |
-| --- | ---------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ---- | -------------------------------------------------------------- |
-| 1   | [1988年](../Page/1988年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")                                         | [CBSソニー](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink") | [LP](../Page/レコード.md "wikilink")・[CD](../Page/コンパクトディスク.md "wikilink")・[CT](../Page/カセットテープ.md "wikilink") | 28AH-5088 (LP)・32DH-5088 (CD)・28KH-5088 (CT)          | 18位  |                                                                |
-| 2   | [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink") | [ソニー・ミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")     | CD                                                                                                         | SRCL-3412                                             | \-   | ユニコーンの逆転満塁ホームランプライスシリーズ（廉価版）                                   |
-| 3   | [2007年](../Page/2007年.md "wikilink")[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")                    | [エスエムイーレコーズ](https://ja.wikipedia.org/wiki/エスエムイーレコーズ "wikilink")             | CD                                                                                                         | SECL-602                                              | \-   | [紙ジャケット仕様](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink") |
+| No. | 日付                                                                                                               | [レーベル](../Page/レコードレーベル.md "wikilink")                                        | 規格                                                                                                         | [規格品番](../Page/規格品番.md "wikilink")           | 最高順位 | 備考                                                             |
+| --- | ---------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ---- | -------------------------------------------------------------- |
+| 1   | [1988年](../Page/1988年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")                                         | [CBSソニー](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink") | [LP](../Page/レコード.md "wikilink")・[CD](../Page/コンパクトディスク.md "wikilink")・[CT](../Page/カセットテープ.md "wikilink") | 28AH-5088 (LP)・32DH-5088 (CD)・28KH-5088 (CT) | 18位  |                                                                |
+| 2   | [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink") | [ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")                        | CD                                                                                                         | SRCL-3412                                    | \-   | ユニコーンの逆転満塁ホームランプライスシリーズ（廉価版）                                   |
+| 3   | [2007年](../Page/2007年.md "wikilink")[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")                    | [エスエムイーレコーズ](../Page/エスエムイーレコーズ.md "wikilink")                                | CD                                                                                                         | SECL-602                                     | \-   | [紙ジャケット仕様](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink") |
 
 ## 収録曲
 
@@ -23,13 +23,13 @@
 
 1.  **I'M A LOSER**
       -
-        楽器なしであてふりをするという[PVが存在する](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")（後の[エア・ギター](https://ja.wikipedia.org/wiki/エア・ギター "wikilink")パフォーマンスの要領である）。特に川西が使ったドラムスティックはトレーニング用（金属製）のスティックだったため、重くて大変だったという。なお、このビデオからディレクターとして[板屋宏幸](https://ja.wikipedia.org/wiki/板屋宏幸 "wikilink")が参加、後に至るまで多くのビデオ撮影を担当している。
+        楽器なしであてふりをするという[PVが存在する](../Page/ミュージック・ビデオ.md "wikilink")（後の[エア・ギター](../Page/エア・ギター.md "wikilink")パフォーマンスの要領である）。特に川西が使ったドラムスティックはトレーニング用（金属製）のスティックだったため、重くて大変だったという。なお、このビデオからディレクターとして[板屋宏幸](https://ja.wikipedia.org/wiki/板屋宏幸 "wikilink")が参加、後に至るまで多くのビデオ撮影を担当している。
 2.  **HEY MAN\!**
       -
         イントロのクラクションの音は、実際に車の[クラクション](https://ja.wikipedia.org/wiki/クラクション "wikilink")を鳴らして録音された。
         2002年の企画盤「[ULTRA SUPER GOLDEN････](../Page/ULTRA_SUPER_GOLDEN_WONDERFUL_SPECIAL_ABSOLUTE_COMPLETE_PERFECT_SUPREME_TERRIFIC_ULTIMATE....md "wikilink")」ではクラクションがカットされている。本作のリマスター盤でもカットされているが、詳しい理由は不明。
         車の排気音は川西の当時の愛車[マツダ・RX-7](../Page/マツダ・RX-7.md "wikilink")（FC型）から録音されている。
-        初期のライブでは最後のサビの後にファンと一緒に「ハゲ」を連呼するコーラスが定番だった。後に『[THE VERY RUST OF UNICORN](https://ja.wikipedia.org/wiki/THE_VERY_RUST_OF_UNICORN "wikilink")』に収録されたライブバージョンでは後半で音声が一部規制音になっている。\[2\]
+        初期のライブでは最後のサビの後にファンと一緒に「ハゲ」を連呼するコーラスが定番だった。後に『[THE VERY RUST OF UNICORN](../Page/THE_VERY_RUST_OF_UNICORN.md "wikilink")』に収録されたライブバージョンでは後半で音声が一部規制音になっている。\[2\]
 3.  **SUGAR BOY**
       -
         デビュー前から存在していた曲であるが、歌詞が若干変更されている。CBSソニーオーディションでもこの曲を歌った。

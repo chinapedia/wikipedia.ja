@@ -1,27 +1,27 @@
 > この記事は[SOD](https://ja.wikipedia.org/wiki/SOD)から翻訳されています。
 
 
-**SODクリエイト株式会社**（エスオーディークリエイト、*SOD Create CO.,LTD.*）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の大手[アダルトビデオメーカー](https://ja.wikipedia.org/wiki/アダルトビデオメーカー "wikilink")である。[ソフト・オン・デマンド](https://ja.wikipedia.org/wiki/ソフト・オン・デマンド "wikilink")（SOD）グループの企画・制作を担当している。SODグループで流通・販売を担当する[ソフト・オン・デマンド株式会社](https://ja.wikipedia.org/wiki/ソフト・オン・デマンド株式会社 "wikilink")と直接的な資本関係は無い。
+**SODクリエイト株式会社**（エスオーディークリエイト、*SOD Create CO.,LTD.*）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の大手[アダルトビデオメーカー](../Page/アダルトビデオメーカー.md "wikilink")である。[ソフト・オン・デマンド](../Page/ソフト・オン・デマンド.md "wikilink")（SOD）グループの企画・制作を担当している。SODグループで流通・販売を担当する[ソフト・オン・デマンド株式会社](https://ja.wikipedia.org/wiki/ソフト・オン・デマンド株式会社 "wikilink")と直接的な資本関係は無い。
 
 ## 概要
 
-従来、[アダルトビデオ](https://ja.wikipedia.org/wiki/アダルトビデオ "wikilink")（AV）の制作・販売を行っていたソフト・オン・デマンドより、制作部が[1999年](../Page/1999年.md "wikilink")に独立したことによって創立（設立当初の社名は「ハムレット｣。2005年6月1日に現商号にて営業）。独立当初の代表取締役は看板[AV監督](https://ja.wikipedia.org/wiki/AV監督 "wikilink")の[菅原ちえ](https://ja.wikipedia.org/wiki/菅原ちえ "wikilink")。
+従来、[アダルトビデオ](https://ja.wikipedia.org/wiki/アダルトビデオ "wikilink")（AV）の制作・販売を行っていたソフト・オン・デマンドより、制作部が[1999年](../Page/1999年.md "wikilink")に独立したことによって創立（設立当初の社名は「ハムレット｣。2005年6月1日に現商号にて営業）。独立当初の代表取締役は看板[AV監督](../Page/AV監督.md "wikilink")の[菅原ちえ](https://ja.wikipedia.org/wiki/菅原ちえ "wikilink")。
 
 当初は販売会社の社名「ソフト・オン・デマンド」で展開し、現在は独立したメーカーとして自社名を名乗り、ビデオ作品を発売している。なお、現在のソフト・オン・デマンドはメーカーからソフト流通業に業態変更している。
 
-全裸シリーズ、[マジックミラー号](https://ja.wikipedia.org/wiki/マジックミラー号 "wikilink")シリーズなどで急成長したソフト・オン・デマンドが、販売部門と制作部門をより特化させるために分社化。ソフト・オン・デマンドの躍進によってセルアダルトビデオ市場が爆発的に成長する中、独立したSODクリエイトは更に人気作を連発。従来のAVが良くも悪くも[AV女優](../Page/AV女優.md "wikilink")頼みだったのに対し、SODクリエイトは「企画のデマンド」を前面に打ち出し、[手コキ](https://ja.wikipedia.org/wiki/手コキ "wikilink")、淫語、[痴女](../Page/痴女.md "wikilink")等といった分野の開拓から、一気に業界最大手へと成長した。また新ジャンルの開拓だけではなく、従来マイナーだった[スカトロ](https://ja.wikipedia.org/wiki/スカトロ "wikilink")作品で1万本を超えるセールスを記録するなど、業界の常識を次々と打ち破った。
+全裸シリーズ、[マジックミラー号](../Page/マジックミラー号.md "wikilink")シリーズなどで急成長したソフト・オン・デマンドが、販売部門と制作部門をより特化させるために分社化。ソフト・オン・デマンドの躍進によってセルアダルトビデオ市場が爆発的に成長する中、独立したSODクリエイトは更に人気作を連発。従来のAVが良くも悪くも[AV女優](../Page/AV女優.md "wikilink")頼みだったのに対し、SODクリエイトは「企画のデマンド」を前面に打ち出し、[手コキ](https://ja.wikipedia.org/wiki/手コキ "wikilink")、淫語、[痴女](../Page/痴女.md "wikilink")等といった分野の開拓から、一気に業界最大手へと成長した。また新ジャンルの開拓だけではなく、従来マイナーだった[スカトロ](https://ja.wikipedia.org/wiki/スカトロ "wikilink")作品で1万本を超えるセールスを記録するなど、業界の常識を次々と打ち破った。
 
 また「ソフト・オン・デマンド」という屋号の通り、ユーザー第一主義を掲げ、積極的にユーザーが好む作品をリリースしてきた。ユーザーからの返信ハガキを積極的に活用し、ユーザーの声をダイレクトに反映した作品作りを行い、その結果「SENZレーベル」など素人構成作家専用レーベルなども人気を博した（※2005年現在このハガキ制度は既に終了している）。
 
-また企画だけでなく、女優に関しても当時の[インディーズ](../Page/インディーズ.md "wikilink")メーカーとしては破格の待遇で[森下くるみ](../Page/森下くるみ.md "wikilink")を専属に迎えるなど、その都度業界で話題となっていった。森下くるみが去ったあとしばらくの間超大物とされる専属女優は登場しなかったが、[2004年](../Page/2004年.md "wikilink")に関西でTVレポーターをしていた[夏目ナナ](https://ja.wikipedia.org/wiki/夏目ナナ "wikilink")が専属デビューした。その後[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")には専属女優レーベル「colors（**現SODstar**）」を発足させるなど、再び女優にも力を入れ始めている。
+また企画だけでなく、女優に関しても当時の[インディーズ](../Page/インディーズ.md "wikilink")メーカーとしては破格の待遇で[森下くるみ](../Page/森下くるみ.md "wikilink")を専属に迎えるなど、その都度業界で話題となっていった。森下くるみが去ったあとしばらくの間超大物とされる専属女優は登場しなかったが、[2004年](../Page/2004年.md "wikilink")に関西でTVレポーターをしていた[夏目ナナ](../Page/夏目ナナ.md "wikilink")が専属デビューした。その後[2005年](../Page/2005年.md "wikilink")には専属女優レーベル「colors（**現SODstar**）」を発足させるなど、再び女優にも力を入れ始めている。
 
 ### 現状
 
-一時は業界の圧倒的地位を築いていたSODクリエイトも、[MOODYZ](https://ja.wikipedia.org/wiki/MOODYZ "wikilink")、[エスワン](https://ja.wikipedia.org/wiki/エスワン "wikilink")（いずれも[北都傘下](../Page/CA_\(アダルトビデオ\).md "wikilink")）などといった超大型インディーズメーカーが発足、躍進してくるにつれ、その勢いに徐々に陰りが見え始める。その流れは、2005年3月にソフト・オン・デマンド創業者である[高橋がなり](https://ja.wikipedia.org/wiki/高橋がなり "wikilink")の引退の前後に、特に顕著になり、一部では「SODはもう終わった」などとささやかれるようにもなった。一時は遅れをとりかけたSODクリエイトだが、夏目ナナの爆発的ロングラン、新たな定番となった[SOD女子社員シリーズ](https://ja.wikipedia.org/wiki/SOD女子社員シリーズ "wikilink")の大ヒットなど、2005年年末現在再びその勢いを盛り返してきている。
+一時は業界の圧倒的地位を築いていたSODクリエイトも、[MOODYZ](../Page/MOODYZ.md "wikilink")、[エスワン](../Page/エスワン.md "wikilink")（いずれも[北都傘下](../Page/CA_\(アダルトビデオ\).md "wikilink")）などといった超大型インディーズメーカーが発足、躍進してくるにつれ、その勢いに徐々に陰りが見え始める。その流れは、2005年3月にソフト・オン・デマンド創業者である[高橋がなり](../Page/高橋がなり.md "wikilink")の引退の前後に、特に顕著になり、一部では「SODはもう終わった」などとささやかれるようにもなった。一時は遅れをとりかけたSODクリエイトだが、夏目ナナの爆発的ロングラン、新たな定番となった[SOD女子社員シリーズ](https://ja.wikipedia.org/wiki/SOD女子社員シリーズ "wikilink")の大ヒットなど、2005年年末現在再びその勢いを盛り返してきている。
 
 とりわけ2005年10月に発売された「**ソフト・オン・デマンド10周年メモリアルBOX**」 は10枚組20時間収録で2,980円という超破格の価格で、業界の話題をさらった。しかし2007年には[東京スポーツ](../Page/東京スポーツ.md "wikilink")とソフト・オン・デマンドが共催する『[AV OPEN〜あなたが決める\!セルアダルトビデオ日本一決定戦〜](../Page/AV_OPEN〜あなたが決める!セルアダルトビデオ日本一決定戦〜.md "wikilink")』において、SODクリエイトが大規模な不正行為を働き優勝が取り消されるといった、業界の信用を失う行為も明るみに出ている。そのため、翌2008年の北都主催の『[AVグランプリ](https://ja.wikipedia.org/wiki/AVグランプリ "wikilink")』には参加していない。
 
-[2011年](../Page/2011年.md "wikilink")5月に人気AV女優とSOD人気シリーズがコラボする新レーベル「**SOD ACE**」を立ち上げた。[アリスJAPAN](../Page/アリスJAPAN.md "wikilink")や[アイデアポケット](https://ja.wikipedia.org/wiki/アイデアポケット "wikilink")と、コラボが行われている\[1\]。
+[2011年](../Page/2011年.md "wikilink")5月に人気AV女優とSOD人気シリーズがコラボする新レーベル「**SOD ACE**」を立ち上げた。[アリスJAPAN](../Page/アリスJAPAN.md "wikilink")や[アイデアポケット](../Page/アイデアポケット.md "wikilink")と、コラボが行われている\[1\]。
 
 [2013年](../Page/2013年.md "wikilink")2月27日、公式サイトの閉鎖が発表され、[3月31日](../Page/3月31日.md "wikilink")をもってサイトのサービスはソフト・オン・デマンドHPに統合された。現在はオフィシャルブログなどのSNSを中心に情報を発信している。
 
@@ -42,7 +42,7 @@
   - [GIRL'S CH](https://ja.wikipedia.org/wiki/GIRL'S_CH "wikilink")（女性向けAV）（2015.12-）
   - 青春時代ぷらす(2016.12 - )
   - エントリー(2017.5 -)
-  - [キミホレ](https://ja.wikipedia.org/wiki/キミホレ "wikilink")(2017.6 -)
+  - [キミホレ](../Page/キミホレ.md "wikilink")(2017.6 -)
 
 ### 停止
 
@@ -111,12 +111,12 @@
 </tr>
 <tr class="even">
 <td><p>☆</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/杏野るり" title="wikilink">杏野るり</a></p></td>
+<td><p><a href="../Page/杏野るり.md" title="wikilink">杏野るり</a></p></td>
 <td><p>日本的美少女・杏野るり(2002-4-9)</p></td>
 </tr>
 <tr class="odd">
 <td><p>★</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/天野こころ" title="wikilink">天野♥こころ</a></p></td>
+<td><p><a href="../Page/天野こころ.md" title="wikilink">天野♥こころ</a></p></td>
 <td><p>24時間いつでもどこでもぶっかけザーメン 天野♥こころ(2002-10-5)</p></td>
 </tr>
 <tr class="even">
@@ -136,7 +136,7 @@
 </tr>
 <tr class="odd">
 <td><p>★</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/黒沢愛" title="wikilink">黒沢愛</a></p></td>
+<td><p><a href="../Page/黒沢愛.md" title="wikilink">黒沢愛</a></p></td>
 <td><p>It's show time Vol.1(2003-12-4)</p></td>
 </tr>
 <tr class="even">
@@ -146,12 +146,12 @@
 </tr>
 <tr class="odd">
 <td><p>☆</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/夏目ナナ" title="wikilink">夏目ナナ</a></p></td>
+<td><p><a href="../Page/夏目ナナ.md" title="wikilink">夏目ナナ</a></p></td>
 <td><p>夏目ナナ Debut～デビュー～(2004-1-8)</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/乃亜" title="wikilink">乃亜</a></p></td>
+<td><p><a href="../Page/乃亜.md" title="wikilink">乃亜</a></p></td>
 <td><p>欲望のSlender Doll 前編(2004-7-22)</p></td>
 </tr>
 <tr class="odd">
@@ -161,12 +161,12 @@
 </tr>
 <tr class="even">
 <td><p>☆</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/かすみ果穂" title="wikilink">かすみ果穂</a></p></td>
+<td><p><a href="../Page/かすみ果穂.md" title="wikilink">かすみ果穂</a></p></td>
 <td><p>かすみ果穂 Debut 〜デビュー〜(2005-4-7)</p></td>
 </tr>
 <tr class="odd">
 <td><p>☆</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長澤つぐみ" title="wikilink">長澤つぐみ</a></p></td>
+<td><p><a href="../Page/長澤つぐみ.md" title="wikilink">長澤つぐみ</a></p></td>
 <td><p>TSUGUMI Debut(2005-12-21)</p></td>
 </tr>
 <tr class="even">
@@ -176,17 +176,17 @@
 </tr>
 <tr class="odd">
 <td><p>☆</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/衣川由衣" title="wikilink">衣川由衣</a></p></td>
+<td><p><a href="../Page/衣川由衣.md" title="wikilink">衣川由衣</a></p></td>
 <td><p>Debut!Debut!Debut!(2006-1-4)</p></td>
 </tr>
 <tr class="even">
 <td><p>☆</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/範田紗々" title="wikilink">範田紗々</a></p></td>
+<td><p><a href="../Page/範田紗々.md" title="wikilink">範田紗々</a></p></td>
 <td><p>芸能人 範田紗々デビュー(2006-7-6)</p></td>
 </tr>
 <tr class="odd">
 <td><p>☆</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/荒井美恵子" title="wikilink">荒井美恵子</a></p></td>
+<td><p><a href="../Page/荒井美恵子.md" title="wikilink">荒井美恵子</a></p></td>
 <td><p>元ギリギリガールズ 荒井美恵子 降臨(2006-10-19)</p></td>
 </tr>
 <tr class="even">
@@ -196,17 +196,17 @@
 </tr>
 <tr class="odd">
 <td><p>☆</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/櫻井ゆうこ" title="wikilink">櫻井ゆうこ</a></p></td>
+<td><p><a href="../Page/櫻井ゆうこ.md" title="wikilink">櫻井ゆうこ</a></p></td>
 <td><p>芸能人 櫻井ゆうこ Lcup Debut</p></td>
 </tr>
 <tr class="even">
 <td><p>☆</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/琴乃" title="wikilink">琴乃</a></p></td>
+<td><p><a href="../Page/琴乃.md" title="wikilink">琴乃</a></p></td>
 <td><p>芸能人 琴乃 DEBUT(2007-4-5)</p></td>
 </tr>
 <tr class="odd">
 <td><p>★</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/天海麗" title="wikilink">天海麗</a></p></td>
+<td><p><a href="../Page/天海麗.md" title="wikilink">天海麗</a></p></td>
 <td><p>セル降臨×徹底イカセ 連発潮吹き×アナル丸見え激ハメ解禁(2007-7-5)</p></td>
 </tr>
 <tr class="even">
@@ -664,7 +664,7 @@
 </tr>
 <tr class="even">
 <td><p>☆</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/嶋田歩" title="wikilink">美波ねい</a></p></td>
+<td><p><a href="../Page/嶋田歩.md" title="wikilink">美波ねい</a></p></td>
 <td><p>美波ねい AV Debut(2014-9-25)</p></td>
 </tr>
 <tr class="odd">
@@ -765,7 +765,7 @@
 | 2020年 |                                                           |                                                                                                                  |
 | ☆     | [白石茉莉奈](https://ja.wikipedia.org/wiki/白石茉莉奈 "wikilink")   | 芸能人 白石茉莉奈 AV Debut(2013-6-6)                                                                                     |
 | ☆     | [石原める](https://ja.wikipedia.org/wiki/石原める "wikilink")     | 石原める 絶対的アイドル AV DEBUT (2019-8-1)                                                                                 |
-|       | [西野翔](https://ja.wikipedia.org/wiki/西野翔 "wikilink")       | 陽は昇り陽は沈む 西野翔 SOD移籍 年内引退発表 15年続けてきた女優【今何を思う…】裸のドキュメント24時間 都内撮影現場から地元静岡・実家・自宅で赤裸々3SEX そして、最後にやり残した事とは…　(2019-8-22) |
+|       | [西野翔](../Page/西野翔.md "wikilink")                          | 陽は昇り陽は沈む 西野翔 SOD移籍 年内引退発表 15年続けてきた女優【今何を思う…】裸のドキュメント24時間 都内撮影現場から地元静岡・実家・自宅で赤裸々3SEX そして、最後にやり残した事とは…　(2019-8-22) |
 
 </div>
 
@@ -788,7 +788,7 @@
 | ☆       | [七海ティナ](https://ja.wikipedia.org/wiki/七海ティナ "wikilink")   | 凛として儚い 七海ティナ AV DEBUT (2019-1-10)                                                                                |
 | ☆       | [永野いち夏](https://ja.wikipedia.org/wiki/永野いち夏 "wikilink")   | 永野いち夏 AV DEBUT (2019-6-20)                                                                                       |
 | ☆       | [和久井まりあ](https://ja.wikipedia.org/wiki/和久井まりあ "wikilink") | 和久井まりあ SOD Star AVデビュー (2019-7-25)                                                                               |
-|         | [西野翔](https://ja.wikipedia.org/wiki/西野翔 "wikilink")       | 陽は昇り陽は沈む 西野翔 SOD移籍 年内引退発表 15年続けてきた女優【今何を思う…】裸のドキュメント24時間 都内撮影現場から地元静岡・実家・自宅で赤裸々3SEX そして、最後にやり残した事とは…　(2019-8-22) |
+|         | [西野翔](../Page/西野翔.md "wikilink")                          | 陽は昇り陽は沈む 西野翔 SOD移籍 年内引退発表 15年続けてきた女優【今何を思う…】裸のドキュメント24時間 都内撮影現場から地元静岡・実家・自宅で赤裸々3SEX そして、最後にやり残した事とは…　(2019-8-22) |
 | ☆       | [青空ひかり](https://ja.wikipedia.org/wiki/青空ひかり "wikilink")   | 青空ひかり AV DEBUT (2019-10-10)                                                                                      |
 | ☆       | [白川ゆず](https://ja.wikipedia.org/wiki/白川ゆず "wikilink")     | 白川ゆず 18歳 AV DEBUT (2019-12-26)                                                                                   |
 | ☆       | [朝比奈ななせ](https://ja.wikipedia.org/wiki/朝比奈ななせ "wikilink") | 朝比奈ななせ AV DEBUT (2020-3-12予定)                                                                                    |
@@ -838,9 +838,9 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/くるみひな" title="wikilink">くるみひな</a></p></td>
 <td><p>くるみひな ごっくん解禁×SOD Debut<br />
 (2009-12-5)</p></td>
-<td><p>AVデビューは<a href="https://ja.wikipedia.org/wiki/エスワン" title="wikilink">エスワン</a>及び<a href="https://ja.wikipedia.org/wiki/マックス・エー" title="wikilink">マックス・エー</a><br />
+<td><p>AVデビューは<a href="../Page/エスワン.md" title="wikilink">エスワン</a>及び<a href="../Page/マックス・エー.md" title="wikilink">マックス・エー</a><br />
 くるみひな 卒業(2010-4-6)をもってSOD Cinderellaを卒業<br />
-<a href="https://ja.wikipedia.org/wiki/マックス・エー" title="wikilink">マックス・エー</a>に復帰</p></td>
+<a href="../Page/マックス・エー.md" title="wikilink">マックス・エー</a>に復帰</p></td>
 </tr>
 <tr class="odd">
 <td><p>第2回</p></td>
@@ -913,7 +913,7 @@
   - 新保英之\[7\]
   - [菅原ちえ](https://ja.wikipedia.org/wiki/菅原ちえ "wikilink")
   - [杉裏達郎](https://ja.wikipedia.org/wiki/杉裏達郎 "wikilink")\[8\]
-  - [溜池ゴロー](https://ja.wikipedia.org/wiki/溜池ゴロー "wikilink")（社外取締役顧問）
+  - [溜池ゴロー](../Page/溜池ゴロー.md "wikilink")（社外取締役顧問）
   - CHAIN宗\[9\]
   - 土屋幸嗣
   - 豊田和家
@@ -934,7 +934,7 @@
   - [高橋孝英](../Page/高橋孝英.md "wikilink")
   - TOHJIRO
   - [豊田薫](https://ja.wikipedia.org/wiki/豊田薫 "wikilink")
-  - [二村ヒトシ](https://ja.wikipedia.org/wiki/二村ヒトシ "wikilink")
+  - [二村ヒトシ](../Page/二村ヒトシ.md "wikilink")
   - 日比野正明
   - 松本和彦
   - 森川圭
@@ -966,7 +966,7 @@
 ## 関連項目
 
   - [SOD女子社員シリーズ](https://ja.wikipedia.org/wiki/SOD女子社員シリーズ "wikilink")
-  - [マジックミラー号](https://ja.wikipedia.org/wiki/マジックミラー号 "wikilink")
+  - [マジックミラー号](../Page/マジックミラー号.md "wikilink")
 
 ## 外部リンク
 

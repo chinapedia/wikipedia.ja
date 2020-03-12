@@ -1,11 +1,11 @@
 > この記事は[JBS](https://ja.wikipedia.org/wiki/JBS)から翻訳されています。
 
 
-**ジョン・バードン・サンダースン・ホールデン**（**John Burdon Sanderson Haldane**、[1892年](../Page/1892年.md "wikilink")[11月5日](../Page/11月5日.md "wikilink") - [1964年](../Page/1964年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")）は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[生物学者](https://ja.wikipedia.org/wiki/生物学者 "wikilink")で、普通は**J・B・S・ホールデン**と呼ばれる。生物に関する理論的研究を得意とし、生命の起源に関する科学的理論の最初の提唱者と知られており\[1\]、[ロナルド・フィッシャー](https://ja.wikipedia.org/wiki/ロナルド・フィッシャー "wikilink")、[シューアル・ライト](https://ja.wikipedia.org/wiki/シューアル・ライト "wikilink")と並ぶ[集団遺伝学](../Page/集団遺伝学.md "wikilink")の開拓者であり、[酵素](../Page/酵素.md "wikilink")[反応速度論](https://ja.wikipedia.org/wiki/反応速度論 "wikilink")などにも業績を残した。また一般向け解説書やエッセーも多数執筆する一方、しばしば個性的な言動で注目を浴びた。中でも『ダイダロス、あるいは科学と未来』*Daedalus or Science and the Future*（[1923年](../Page/1923年.md "wikilink")）は科学の未来を予測したものとして有名であり、ホールデンは20世紀における[トランスヒューマニズム](https://ja.wikipedia.org/wiki/トランスヒューマニズム "wikilink")の先駆者とされ\[2\]、[クローン](https://ja.wikipedia.org/wiki/クローン "wikilink")の造語でも有名である\[3\]。
+**ジョン・バードン・サンダースン・ホールデン**（**John Burdon Sanderson Haldane**、[1892年](../Page/1892年.md "wikilink")[11月5日](../Page/11月5日.md "wikilink") - [1964年](../Page/1964年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")）は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[生物学者](https://ja.wikipedia.org/wiki/生物学者 "wikilink")で、普通は**J・B・S・ホールデン**と呼ばれる。生物に関する理論的研究を得意とし、生命の起源に関する科学的理論の最初の提唱者と知られており\[1\]、[ロナルド・フィッシャー](../Page/ロナルド・フィッシャー.md "wikilink")、[シューアル・ライト](https://ja.wikipedia.org/wiki/シューアル・ライト "wikilink")と並ぶ[集団遺伝学](../Page/集団遺伝学.md "wikilink")の開拓者であり、[酵素](../Page/酵素.md "wikilink")[反応速度論](../Page/反応速度論.md "wikilink")などにも業績を残した。また一般向け解説書やエッセーも多数執筆する一方、しばしば個性的な言動で注目を浴びた。中でも『ダイダロス、あるいは科学と未来』*Daedalus or Science and the Future*（[1923年](../Page/1923年.md "wikilink")）は科学の未来を予測したものとして有名であり、ホールデンは20世紀における[トランスヒューマニズム](../Page/トランスヒューマニズム.md "wikilink")の先駆者とされ\[2\]、[クローン](https://ja.wikipedia.org/wiki/クローン "wikilink")の造語でも有名である\[3\]。
 
 ## 生い立ち
 
-ホールデン家は[スコットランド](../Page/スコットランド.md "wikilink")の名門として知られる。J・B・S・ホールデンは医師・生理学者の[ジョン・スコット・ホールデン](https://ja.wikipedia.org/wiki/ジョン・スコット・ホールデン "wikilink")（[John Scott Haldane](https://ja.wikipedia.org/wiki/:en:John_Scott_Haldane "wikilink")：[呼吸](../Page/呼吸.md "wikilink")の研究で著名）の子として[オックスフォード](https://ja.wikipedia.org/wiki/オックスフォード "wikilink")に生まれた。妹には作家の[ナオミ・ミチスン](https://ja.wikipedia.org/wiki/ナオミ・ミチスン "wikilink") ([Naomi Mitchison](https://ja.wikipedia.org/wiki/:en:Naomi_Mitchison "wikilink"), 1897 - 1999) がいる。
+ホールデン家は[スコットランド](../Page/スコットランド.md "wikilink")の名門として知られる。J・B・S・ホールデンは医師・生理学者の[ジョン・スコット・ホールデン](https://ja.wikipedia.org/wiki/ジョン・スコット・ホールデン "wikilink")（[John Scott Haldane](https://ja.wikipedia.org/wiki/:en:John_Scott_Haldane "wikilink")：[呼吸](../Page/呼吸.md "wikilink")の研究で著名）の子として[オックスフォード](../Page/オックスフォード.md "wikilink")に生まれた。妹には作家の[ナオミ・ミチスン](https://ja.wikipedia.org/wiki/ナオミ・ミチスン "wikilink") ([Naomi Mitchison](https://ja.wikipedia.org/wiki/:en:Naomi_Mitchison "wikilink"), 1897 - 1999) がいる。
 
 父の影響で生物学を専攻し[オックスフォード大学](../Page/オックスフォード大学.md "wikilink")ニューカレッジを卒業した。
 
@@ -13,9 +13,9 @@
 
 ## 研究
 
-[1919年](../Page/1919年.md "wikilink")からニューカレッジでフェローを務め、[1922年](../Page/1922年.md "wikilink")には[ケンブリッジ大学](../Page/ケンブリッジ大学.md "wikilink")に移り、[1932年](../Page/1932年.md "wikilink")以降は[ユニヴァーシティ・カレッジ・ロンドン](https://ja.wikipedia.org/wiki/ユニヴァーシティ・カレッジ・ロンドン "wikilink")で研究を行った。
+[1919年](../Page/1919年.md "wikilink")からニューカレッジでフェローを務め、[1922年](../Page/1922年.md "wikilink")には[ケンブリッジ大学](../Page/ケンブリッジ大学.md "wikilink")に移り、[1932年](../Page/1932年.md "wikilink")以降は[ユニヴァーシティ・カレッジ・ロンドン](../Page/ユニヴァーシティ・カレッジ・ロンドン.md "wikilink")で研究を行った。
 
-[1925年](../Page/1925年.md "wikilink")、酵素反応速度論の基本である[ミカエリス・メンテン式](https://ja.wikipedia.org/wiki/ミカエリス・メンテン式 "wikilink")の新たな導出法を[G・E・ブリッグス](https://ja.wikipedia.org/wiki/G・E・ブリッグス "wikilink")（[G.E. Briggs](https://ja.wikipedia.org/wiki/:en:George_Edward_Briggs "wikilink")）とともに明らかにした（ブリッグス・ホールデン式とも呼ばれる）。これは[1913年](../Page/1913年.md "wikilink")に初めて導かれたものだが、[酵素](../Page/酵素.md "wikilink")・基質と酵素基質複合体との[化学平衡](../Page/化学平衡.md "wikilink")を仮定していた。ホールデンらはより一般的な[定常状態](../Page/定常状態.md "wikilink")（酵素基質複合体の生成速度と分解速度が等しい）を仮定しても同形の式が導かれることを示し、ミハエリス定数により適切な解釈を示した。
+[1925年](../Page/1925年.md "wikilink")、酵素反応速度論の基本である[ミカエリス・メンテン式](../Page/ミカエリス・メンテン式.md "wikilink")の新たな導出法を[G・E・ブリッグス](https://ja.wikipedia.org/wiki/G・E・ブリッグス "wikilink")（[G.E. Briggs](https://ja.wikipedia.org/wiki/:en:George_Edward_Briggs "wikilink")）とともに明らかにした（ブリッグス・ホールデン式とも呼ばれる）。これは[1913年](../Page/1913年.md "wikilink")に初めて導かれたものだが、[酵素](../Page/酵素.md "wikilink")・基質と酵素基質複合体との[化学平衡](../Page/化学平衡.md "wikilink")を仮定していた。ホールデンらはより一般的な[定常状態](../Page/定常状態.md "wikilink")（酵素基質複合体の生成速度と分解速度が等しい）を仮定しても同形の式が導かれることを示し、ミハエリス定数により適切な解釈を示した。
 
 ホールデンの有名な著書『進化の要因』*The Causes of Evolution*（[1932年](../Page/1932年.md "wikilink")）は[メンデルの法則](../Page/メンデルの法則.md "wikilink")を基本として[自然淘汰](https://ja.wikipedia.org/wiki/自然淘汰 "wikilink")による[進化](../Page/進化.md "wikilink")を[数学](../Page/数学.md "wikilink")的に説明したもので、[ネオダーウィニズム](../Page/ネオダーウィニズム.md "wikilink")総合説の代表的著作として知られる。
 
@@ -23,7 +23,7 @@
 
 彼は1928年に[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")を旅行し、また以前から[唯物論](../Page/唯物論.md "wikilink")的思想を抱いていたことから、[共産主義](https://ja.wikipedia.org/wiki/共産主義 "wikilink")に惹かれるようになる。
 
-1937年に[イギリス共産党](https://ja.wikipedia.org/wiki/イギリス共産党 "wikilink")に参加した。戦後、共産主義者に対する圧迫が強まっても彼は堂々と共産主義者を自称していた。しかし[トロフィム・ルイセンコ](https://ja.wikipedia.org/wiki/トロフィム・ルイセンコ "wikilink")と[スターリン独裁の犠牲となった旧知の生物学者](https://ja.wikipedia.org/wiki/ヨシフ・スターリン "wikilink")[ニコライ・ヴァヴィロフ](https://ja.wikipedia.org/wiki/ニコライ・ヴァヴィロフ "wikilink")の悲劇を知るに及び、1950年に党を去った。
+1937年に[イギリス共産党](https://ja.wikipedia.org/wiki/イギリス共産党 "wikilink")に参加した。戦後、共産主義者に対する圧迫が強まっても彼は堂々と共産主義者を自称していた。しかし[トロフィム・ルイセンコ](https://ja.wikipedia.org/wiki/トロフィム・ルイセンコ "wikilink")と[スターリン独裁の犠牲となった旧知の生物学者](https://ja.wikipedia.org/wiki/ヨシフ・スターリン "wikilink")[ニコライ・ヴァヴィロフ](../Page/ニコライ・ヴァヴィロフ.md "wikilink")の悲劇を知るに及び、1950年に党を去った。
 
 ## 私生活
 
@@ -39,12 +39,12 @@
 
   -
   -
-  - 「魔法つかいのリイキーさん」[山室静](https://ja.wikipedia.org/wiki/山室静 "wikilink")訳、
+  - 「魔法つかいのリイキーさん」[山室静](../Page/山室静.md "wikilink")訳、
 
   -
 ## 彼の名を冠した法則など
 
-[1937年](../Page/1937年.md "wikilink")に、遺伝的に平衡状態にある集団では[突然変異](../Page/突然変異.md "wikilink")による集団[適応度](https://ja.wikipedia.org/wiki/適応度 "wikilink")の減少率は個体あたりの総突然変異率に等しく、個々の[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")の有害度には依存しないことを[ハーマン・J・マラー](https://ja.wikipedia.org/wiki/ハーマン・J・マラー "wikilink")と共に示した。これは現在**ホールデン・マラーの原理**と呼ばれている。
+[1937年](../Page/1937年.md "wikilink")に、遺伝的に平衡状態にある集団では[突然変異](../Page/突然変異.md "wikilink")による集団[適応度](../Page/適応度.md "wikilink")の減少率は個体あたりの総突然変異率に等しく、個々の[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")の有害度には依存しないことを[ハーマン・J・マラー](../Page/ハーマン・J・マラー.md "wikilink")と共に示した。これは現在**ホールデン・マラーの原理**と呼ばれている。
 
 エッセー*On Being the Right Size*（[1928年](../Page/1928年.md "wikilink")）では、「動物の性質はその大きさによりほぼ規定される」（例えば体の小さい昆虫は空気が体内に拡散するだけで呼吸できるが、体の大きい動物は心臓や赤血球が必要になる）という独自の見方を示し、これも「ホールデンの原理」と呼ばれることがある。
 
@@ -52,7 +52,7 @@
 
 *Possible worlds* （[1940年](../Page/1940年.md "wikilink")）の中の名言「宇宙は我々が想像する以上に奇妙などころか、想像**できる**以上に奇妙なのだ」：これはHaldane's law（これは日本語では「ホールデンの法則」）と呼ばれることもある。（ただし父による「ホールデンの法則」もあるので注意。）
 
-彼は溺れている兄妹のために命を投げ出すか？と問われて次のように語ったと言われる。「2人の兄妹、4人の甥、8人のいとこのためなら喜んで命を差し出すだろう」。これはホールデンが後年の遺伝子中心視点主義や[血縁選択説](https://ja.wikipedia.org/wiki/血縁選択説 "wikilink")を先取りするアイディアを持っていた証として語り継がれている。
+彼は溺れている兄妹のために命を投げ出すか？と問われて次のように語ったと言われる。「2人の兄妹、4人の甥、8人のいとこのためなら喜んで命を差し出すだろう」。これはホールデンが後年の遺伝子中心視点主義や[血縁選択説](../Page/血縁選択説.md "wikilink")を先取りするアイディアを持っていた証として語り継がれている。
 
 ## 教育
 
@@ -60,7 +60,7 @@
 
 ## 晩年
 
-[1957年](../Page/1957年.md "wikilink")に大学を辞し[インド](../Page/インド.md "wikilink")に移住した。[スエズ動乱](https://ja.wikipedia.org/wiki/スエズ動乱 "wikilink")への抗議と称していたが、実際は第一次大戦中に滞在して以来インドにあこがれを抱き、またインドの統計学者[P.C.マハラノビス](https://ja.wikipedia.org/wiki/P.C.マハラノビス "wikilink")に招かれてもいたからである。[インド統計大学](https://ja.wikipedia.org/wiki/インド統計大学 "wikilink")（[カルカッタ](../Page/コルカタ.md "wikilink")）、ついで[オリッサ州](https://ja.wikipedia.org/wiki/オリッサ州 "wikilink")立生物学研究所で教授を務めた。オリッサ州[ブヴァネーシュヴァル](https://ja.wikipedia.org/wiki/ブヴァネーシュヴァル "wikilink")で死去。
+[1957年](../Page/1957年.md "wikilink")に大学を辞し[インド](../Page/インド.md "wikilink")に移住した。[スエズ動乱](https://ja.wikipedia.org/wiki/スエズ動乱 "wikilink")への抗議と称していたが、実際は第一次大戦中に滞在して以来インドにあこがれを抱き、またインドの統計学者[P.C.マハラノビス](https://ja.wikipedia.org/wiki/P.C.マハラノビス "wikilink")に招かれてもいたからである。[インド統計大学](../Page/インド統計大学.md "wikilink")（[カルカッタ](../Page/コルカタ.md "wikilink")）、ついで[オリッサ州](../Page/オリッサ州.md "wikilink")立生物学研究所で教授を務めた。オリッサ州[ブヴァネーシュヴァル](https://ja.wikipedia.org/wiki/ブヴァネーシュヴァル "wikilink")で死去。
 
 ## 脚注
 

@@ -1,15 +1,15 @@
 > この記事は[Mmap](https://ja.wikipedia.org/wiki/Mmap)から翻訳されています。
 
 
-**mmap**() は、[UNIX](../Page/UNIX.md "wikilink")の[システムコール](https://ja.wikipedia.org/wiki/システムコール "wikilink")のひとつで、[ファイルや](https://ja.wikipedia.org/wiki/ファイル_\(コンピュータ\) "wikilink")[デバイスなどの](../Page/ハードウェア.md "wikilink")[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink") (OS) 上の[リソース](https://ja.wikipedia.org/wiki/リソース "wikilink")の一部または全部を連続した[仮想アドレス空間にマッピングする関数である](../Page/仮想記憶.md "wikilink")。
+**mmap**() は、[UNIX](../Page/UNIX.md "wikilink")の[システムコール](../Page/システムコール.md "wikilink")のひとつで、[ファイルや](../Page/ファイル_\(コンピュータ\).md "wikilink")[デバイスなどの](../Page/ハードウェア.md "wikilink")[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink") (OS) 上の[リソース](https://ja.wikipedia.org/wiki/リソース "wikilink")の一部または全部を連続した[仮想アドレス空間にマッピングする関数である](../Page/仮想記憶.md "wikilink")。
 
-[ファイルシステム](../Page/ファイルシステム.md "wikilink")上の[リソース](https://ja.wikipedia.org/wiki/リソース "wikilink")に対するアクセス方法として、[ストリームI](https://ja.wikipedia.org/wiki/ストリーム_\(プログラミング\) "wikilink")/Oを行う[システムコール](https://ja.wikipedia.org/wiki/システムコール "wikilink")との比較で、[ユーザ空間と](https://ja.wikipedia.org/wiki/アドレス空間#ユーザ空間 "wikilink")[カーネル空間の間で読み書きされるデータの](https://ja.wikipedia.org/wiki/アドレス空間#カーネル空間 "wikilink")[ブロック転送](https://ja.wikipedia.org/wiki/ブロック転送 "wikilink")が多くの[アーキテクチャ上では発生しないことから](../Page/コンピュータ・アーキテクチャ.md "wikilink")、好まれる場合がある。
+[ファイルシステム](../Page/ファイルシステム.md "wikilink")上の[リソース](https://ja.wikipedia.org/wiki/リソース "wikilink")に対するアクセス方法として、[ストリームI](../Page/ストリーム_\(プログラミング\).md "wikilink")/Oを行う[システムコール](../Page/システムコール.md "wikilink")との比較で、[ユーザ空間と](https://ja.wikipedia.org/wiki/アドレス空間#ユーザ空間 "wikilink")[カーネル空間の間で読み書きされるデータの](https://ja.wikipedia.org/wiki/アドレス空間#カーネル空間 "wikilink")[ブロック転送](https://ja.wikipedia.org/wiki/ブロック転送 "wikilink")が多くの[アーキテクチャ上では発生しないことから](../Page/コンピュータ・アーキテクチャ.md "wikilink")、好まれる場合がある。
 
 [デバイスでは](../Page/ハードウェア.md "wikilink")、[ioctl](https://ja.wikipedia.org/wiki/ioctl "wikilink")()とともに[メモリマップドI/O](https://ja.wikipedia.org/wiki/メモリマップドI/O "wikilink")や[DMAなどの操作を抽象化するものとして](../Page/Direct_Memory_Access.md "wikilink")[ドライバからファイルI](../Page/デバイスドライバ.md "wikilink")/Oサービスの一部として提供されることがある。
 
 ## 規格
 
-mmap()は[POSIX](../Page/POSIX.md "wikilink")により定義されており、POSIX準拠のOSで利用することができる。POSIXで定められた動作のほかに、各OS毎に独自の拡張が施されていることがよくあり、[Linux](https://ja.wikipedia.org/wiki/Linux "wikilink")でも、mmap() はいくつかのOS固有のマッピングを生成可能である。
+mmap()は[POSIX](../Page/POSIX.md "wikilink")により定義されており、POSIX準拠のOSで利用することができる。POSIXで定められた動作のほかに、各OS毎に独自の拡張が施されていることがよくあり、[Linux](../Page/Linux.md "wikilink")でも、mmap() はいくつかのOS固有のマッピングを生成可能である。
 
 Win32 API の場合、対応する関数は、ファイルマッピングは CreateFileMapping()\[1\] と MapViewOfFile()\[2\]、無名マッピングは VirtualAlloc()\[3\]。
 
@@ -25,15 +25,15 @@ Win32 API の場合、対応する関数は、ファイルマッピングは Cre
 
 ## 複数プロセス間におけるmmap
 
-複数のプロセスで、同じリソースの同じ領域をマッピングした場合の動作は、mmap()呼び出し時のパラメータや、OSの提供するマッピングの[セマンティクス](https://ja.wikipedia.org/wiki/セマンティクス "wikilink")によって異なる。なお、MAP_SHARED, MAP_PRIVATE などのメモリの属性は、[fork](https://ja.wikipedia.org/wiki/fork "wikilink")() により生じた[子プロセス](https://ja.wikipedia.org/wiki/子プロセス "wikilink")においても保持される。
+複数のプロセスで、同じリソースの同じ領域をマッピングした場合の動作は、mmap()呼び出し時のパラメータや、OSの提供するマッピングの[セマンティクス](https://ja.wikipedia.org/wiki/セマンティクス "wikilink")によって異なる。なお、MAP_SHARED, MAP_PRIVATE などのメモリの属性は、[fork](https://ja.wikipedia.org/wiki/fork "wikilink")() により生じた[子プロセス](../Page/子プロセス.md "wikilink")においても保持される。
 
 ### MAP_SHARED
 
-MAP_SHARED を指定すると、マッピングされたメモリ領域が複数のプロセスで共有される。あるプロセスがマッピングされた領域に書き込んだ内容を、他のプロセスが（同期的あるいは非同期的に）即座に読むことができるようになる。この性質は、[プロセス間通信](../Page/プロセス間通信.md "wikilink")の手法の1つとして（[UNIX System Vの](https://ja.wikipedia.org/wiki/UNIX_System_V "wikilink")[共有メモリ](../Page/共有メモリ.md "wikilink")機構の代替として）使われることがある。
+MAP_SHARED を指定すると、マッピングされたメモリ領域が複数のプロセスで共有される。あるプロセスがマッピングされた領域に書き込んだ内容を、他のプロセスが（同期的あるいは非同期的に）即座に読むことができるようになる。この性質は、[プロセス間通信](../Page/プロセス間通信.md "wikilink")の手法の1つとして（[UNIX System Vの](../Page/UNIX_System_V.md "wikilink")[共有メモリ](../Page/共有メモリ.md "wikilink")機構の代替として）使われることがある。
 
 ### MAP_PRIVATE
 
-MAP_PRIVATE を指定すると、マッピングが[コピーオンライト](https://ja.wikipedia.org/wiki/コピーオンライト "wikilink")になる。そこでは、マッピングされたメモリ領域からの読み取りしか行われていない状況が続く限りプロセス間でマッピングが共有されるが、あるプロセスがメモリ領域に何かを書き込もうとした瞬間に[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")がマッピングを複製し、メモリ領域のコピーを生成したのち、その領域をプロセス固有のものとして位置づける。つまり、事実上、プロセス間ではマッピングが共有されていないということになり、この状況では、マッピングによるリソースへのアクセスは一貫性がないということになる。
+MAP_PRIVATE を指定すると、マッピングが[コピーオンライト](../Page/コピーオンライト.md "wikilink")になる。そこでは、マッピングされたメモリ領域からの読み取りしか行われていない状況が続く限りプロセス間でマッピングが共有されるが、あるプロセスがメモリ領域に何かを書き込もうとした瞬間に[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")がマッピングを複製し、メモリ領域のコピーを生成したのち、その領域をプロセス固有のものとして位置づける。つまり、事実上、プロセス間ではマッピングが共有されていないということになり、この状況では、マッピングによるリソースへのアクセスは一貫性がないということになる。
 
 ## アドレス指定
 

@@ -1,51 +1,51 @@
 > この記事は[Nitro](https://ja.wikipedia.org/wiki/Nitro)から翻訳されています。
 
 
-『**クラッシュギアNitro**』（クラッシュギアにとろ）は、[バンダイ](../Page/バンダイ.md "wikilink")から発売されたバトル玩具『[クラッシュギア](../Page/クラッシュギア.md "wikilink")』をモチーフとした[サンライズ制作の](https://ja.wikipedia.org/wiki/サンライズ_\(アニメ制作会社\) "wikilink")[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。[名古屋テレビ→メ～テレ](../Page/名古屋テレビ放送.md "wikilink")・[テレビ朝日](../Page/テレビ朝日.md "wikilink")[系列で](../Page/オールニッポン・ニュースネットワーク.md "wikilink")[2003年](../Page/2003年.md "wikilink")[2月2日](../Page/2月2日.md "wikilink")から[2004年](../Page/2004年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")まで放送された。全50話。
+『**クラッシュギアNitro**』（クラッシュギアにとろ）は、[バンダイ](../Page/バンダイ.md "wikilink")から発売されたバトル玩具『[クラッシュギア](../Page/クラッシュギア.md "wikilink")』をモチーフとした[サンライズ制作の](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。[名古屋テレビ→メ～テレ](../Page/名古屋テレビ放送.md "wikilink")・[テレビ朝日](../Page/テレビ朝日.md "wikilink")[系列で](../Page/オールニッポン・ニュースネットワーク.md "wikilink")[2003年](../Page/2003年.md "wikilink")[2月2日](../Page/2月2日.md "wikilink")から[2004年](../Page/2004年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")まで放送された。全50話。
 
 ## あらすじ
 
 第一回世界大会から数十年たった未来の話。クラッシュギアは今や子供たちだけでなく、老若男女全体に広まり、揉め事があればそれで決着を付けるまでに普及した。ギアをまったく持っていない真羽勝は謎のマスクマンに伝説のギア「ガルダフェニックス」を託されたことにより奇想天外な物語が始まる。
 
-前作『[激闘\!クラッシュギアTURBO](https://ja.wikipedia.org/wiki/激闘!クラッシュギアTURBO "wikilink")』の設定上の続編にあたるが、TURBOキャラクターは一切登場しない。前作のようなシリアスさはなく、低年齢向きの内容になっている。
+前作『[激闘\!クラッシュギアTURBO](../Page/激闘!クラッシュギアTURBO.md "wikilink")』の設定上の続編にあたるが、TURBOキャラクターは一切登場しない。前作のようなシリアスさはなく、低年齢向きの内容になっている。
 
 ## 登場人物
 
 ### 主要人物
 
   - 真羽 勝（まっは まさる）
-    [声](../Page/声優.md "wikilink") - [中山依里子](https://ja.wikipedia.org/wiki/中山依里子 "wikilink")
+    [声](../Page/声優.md "wikilink") - [中山依里子](../Page/中山依里子.md "wikilink")
     使用ギア：**ガルダフェニックス**⇒**マッハジャスティス** / **マッハジャスティスS**⇒**マッハヴィクトリー**
     本作の主人公。こだま小学校に通う小学5年生。クラッシュギアを心から愛し、誰よりもファイトを楽しもうとする無邪気な少年。明るく大雑把な性格で、楽しいファイトが出来ればそれでいいと言う変り者。「ズババーン」や「シュビビーン」と言った擬態語を感覚的に口ずさむ癖がある。ギアの鼓動や魂を感じる事が出来る。
   - 阿久沢 由宇（あくさわ ゆう） / クラッシュナイト
-    声 - [野島裕史](https://ja.wikipedia.org/wiki/野島裕史 "wikilink")
+    声 - [野島裕史](../Page/野島裕史.md "wikilink")
     使用ギア：**キングシュバルツ** / **キングシュバルツN**⇒**キングカイザー**
     勝のライバルの一人。14歳。冷静沈着な性格で、カウントを取りながら理詰めでファイトをする。裕福な家庭に育ちながら、共働きである両親には愛情を抱くような事はなく、私生活は寂しい物になっている。ギアファイトのさらなる可能性を求めてZET学園四天王となり、藤原金一朗と行動を共にするようになる。一時は覆面ファイター「クラッシュナイト」として活躍する。ZET時代は「KN（カーン）」を名乗っていた。
   - 沖田 英俊（おきた ひでとし） / ヒデ
-    声 - [飯田利信](https://ja.wikipedia.org/wiki/飯田利信 "wikilink")
+    声 - [飯田利信](../Page/飯田利信.md "wikilink")
     使用ギア:**ウイングラプター** / **ウイングラプターX**
     勝のライバルの一人。おっちょこちょいな性格がファイトにも反映されており、好不調が激しいのが問題ではあるが、ファイターとしてのポテンシャルは非常に高い。なつみに一方的に惚れているが相手にされていない。通称「ヒデ」、自称は「ヒデ様」。自分を慕っている二人の子分がいる。また、たまにレオンが話す変な言葉を唯一理解できる人物でもある。
   - 国府田 猛（こうだ たけし）
-    声 - [藤本隆行](https://ja.wikipedia.org/wiki/藤本隆行 "wikilink")
+    声 - [藤本隆行](../Page/藤本隆行.md "wikilink")
     使用ギア:**アイアンウルフ** / *' W（ワイルド）アイアンウルフ*'
     勝のライバルの一人。最もギアに愛された男。佐奈間ラボをクビになった後は流れ者ファイターとして行動する。自分からファイトを挑むというよりは、いわゆる巻き込まれ型の人間で、世界大会もそれとは知らずに参加を続けていた。阿久沢に勝った数少ないうちの一人でもある。彼のギア「W（ワイルド）アイアンウルフ」は自らの意思で動き場合よっては形状をも変化させる。
   - 前田 なつみ（まえだ なつみ）
-    声 - [高橋美佳子](https://ja.wikipedia.org/wiki/高橋美佳子 "wikilink")
+    声 - [高橋美佳子](../Page/高橋美佳子.md "wikilink")
     勝のクラスメイト。同じマンションに住むクラス委員長。こだま小ギアクラブのマネージャー兼監督（自称）でもある。世間知らずな勝に代わって、黙々と新聞を読んだりと一行の中では情報になぜか強い。非常に行動的な性格で考えるよりも足を動かすタイプである。自転車に乗れなかったが国府田との特訓により乗れるようになった。
   - T.B（ティービー） / スティーヴィー・エスプレンドロッソ
     声 - [浅川悠](../Page/浅川悠.md "wikilink")
     勝の友人。心優しい少年で、ギアを傷つけるファイトを嫌いZET学園から脱走した。顔立ちの整った美少年であるため、女生徒から羨望の眼差しを受けるが本人に自覚はない。「ギア イズ ビューティフル」が口癖。フランス語で数字（アン、ドゥ）を口ずさみながら人差し指をメトロノームのように動かしてリズミカルにファイトをする。
   - Z.D（ゼディ） / ヴィゼディー・エスプレンドロッソ
-    声 - [坪井智浩](https://ja.wikipedia.org/wiki/坪井智浩 "wikilink")
+    声 - [坪井智浩](../Page/坪井智浩.md "wikilink")
     TBの兄。弟をZET学園に連れ戻す事が目的だったが、彼の思いに打たれ学園を抜け、以後は正統派ファイターとして戦う。
   - 藤原 銀二郎（ふじはら ぎんにろう） / クラッシュ・キッド
-    声 - [辻親八](https://ja.wikipedia.org/wiki/辻親八 "wikilink")
+    声 - [辻親八](../Page/辻親八.md "wikilink")
     ギアショップ・シルバーマックスの店主。昔気質の頑固者で、自らが認めたファイターのメンテしかしないと言うこだわりを持つ。時には覆面ファイター「クラッシュ・キッド」として登場し、ギアに対して純真な子供たちにアドバイスを投げかける事もある。
 
 ### 主要人物の関係者
 
   - 真羽 誠（まっは まこと）
-    声 - [高木礼子](https://ja.wikipedia.org/wiki/高木礼子 "wikilink")
+    声 - [高木礼子](../Page/高木礼子.md "wikilink")
     勝の弟。ギアファイトを観戦していくうちに自らもファイターに憧れるようになる。
   - 真羽 舞（まっは まい）
     声 - [根谷美智子](../Page/根谷美智子.md "wikilink")
@@ -54,22 +54,22 @@
     声 - [島田敏](../Page/島田敏.md "wikilink")
     勝と誠の父。仕事熱心だが、妻の舞からは「仕事に託けて、遊んでばかり」と評されて離婚。それでも妻子への愛情を抱き続けており、舞からも憎からずも思われている。
   - 佐奈間 三平（さなま さんぺい）
-    声 - [服巻浩司](https://ja.wikipedia.org/wiki/服巻浩司 "wikilink")
+    声 - [服巻浩司](../Page/服巻浩司.md "wikilink")
     佐奈間ラボを興した現主任。意外と調子のいい性格。
   - フィールド屋（フィールドや）
-    声 - [矢部雅史](https://ja.wikipedia.org/wiki/矢部雅史 "wikilink")
+    声 - [矢部雅史](../Page/矢部雅史.md "wikilink")
     いつでもどこでもどんな時でも、ギアファイトのフィールドを提供すべく駆けつける。それゆえ、駆けつける際に体育館の屋根を壊したり（下にいる大勢の生徒たちが瓦礫の下敷きになるのを省みていない）、非常識な行動が多い。以前、経営していた運送会社は倒産してしまったという暗い過去を持ちながら、それにめげる事なく頑張っている。
   - 斉藤 ハジメ（さいとう ハジメ）
     声 - [松岡美佳](../Page/松岡美佳.md "wikilink")
     食いしん坊なヒデの子分。
   - 近藤 ハジメ（こんどう ハジメ）
-    声 - [立野香菜子](https://ja.wikipedia.org/wiki/立野香菜子 "wikilink")
+    声 - [立野香菜子](../Page/立野香菜子.md "wikilink")
     猿顔のヒデの子分。船木先生と声が一緒である事はTBがさりげなく作中で突っ込んでいる。
   - 船木先生（ふなきせんせい）
     声 - 立野香菜子
-    勝たちのクラスの担任の先生。マイペースだが生徒からも信頼されている優しい性格。クラッシュギアが大好きな彼氏の武藤（むとう、声 - [小西克幸](https://ja.wikipedia.org/wiki/小西克幸 "wikilink")）がいる。ギアクラブの顧問にもなっており、生徒からプレゼントされたギアも持っている。
+    勝たちのクラスの担任の先生。マイペースだが生徒からも信頼されている優しい性格。クラッシュギアが大好きな彼氏の武藤（むとう、声 - [小西克幸](../Page/小西克幸.md "wikilink")）がいる。ギアクラブの顧問にもなっており、生徒からプレゼントされたギアも持っている。
   - レオン
-    声 - [愛河里花子](https://ja.wikipedia.org/wiki/愛河里花子 "wikilink")
+    声 - [愛河里花子](../Page/愛河里花子.md "wikilink")
     伝説のギアファイターと呼ばれる少年。公式、アンダーグラウンドに関わらず姿を現しては圧倒的な強さで相手を打ち破っている。由宇や勝の素質を見抜き、ニトロを伝授。後に好敵手として激戦を繰り広げるようになる。天性の感覚に身を委ねたアクロバティックな動きをギアにも反映させ、相手の想像を超えた大胆な攻撃を得意とする。ファイト中の興奮が最高潮に達すると流暢な現地語を喋りながら、陽気なダンスを踊る。
 
 ### ZET
@@ -79,15 +79,15 @@
     使用ギア：**メガユニバース**
     ZET学園の生徒会長で四天王のリーダー。実力は高く、ヒデやJCに圧勝している。また、バトルロイヤルにも精通している。基本的に冷静な性格だが、時折感情的な面を見せることがある。
   - QT（キューティ）
-    声 - [夏樹リオ](https://ja.wikipedia.org/wiki/夏樹リオ "wikilink")
+    声 - [夏樹リオ](../Page/夏樹リオ.md "wikilink")
     使用ギア：**クイーンサンダー**
     ZET学園の生徒副会長で四天王の紅一点。MUがZETを去った後、生徒会長に就任した。和風の衣装を好んでいる。
   - JC（ジェイク）
-    声 - [矢部雅史](https://ja.wikipedia.org/wiki/矢部雅史 "wikilink")
+    声 - [矢部雅史](../Page/矢部雅史.md "wikilink")
     使用ギア：**ジャガーコマンドー**
     MUへの復讐を果たすためにZET学園へ入り、後に四天王となる。国府田とのファイトを経て、本当に大切なことに気付き、ストリートファイトの世界に戻る。
   - 藤原 金一郎（ふじはら きんいちろう）
-    声 - [石井康嗣](https://ja.wikipedia.org/wiki/石井康嗣 "wikilink")
+    声 - [石井康嗣](../Page/石井康嗣.md "wikilink")
     銀次郎の兄。クラッシュギアに人類のさらなる可能性を見出し、ギアの究極の進化を追い求めるようになる。クラッシュギアに対しては誰よりも厳格であろうとする。ZETの会長、ワールドチャンピオンシップの運営本部長などの肩書きを持つ。かつては日本を代表するファイターであった。
 
 ### 世界大会のライバル達
@@ -99,13 +99,13 @@
     声 - [ゆかな](../Page/ゆかな.md "wikilink")
     二重人格の少女。気弱なミーナは、強い自分を求めるようになり鏡に向かって日ごと自問自答を繰り返すうちにアロラが生まれた。アロラはミーナとは正反対の豪快な性格で優れたギアファイターとしても活躍、昨年の世界大会も3位に入賞をするなどの実績を残している。ある事件をきっかけにZDと知り合い、以降仲間として打ち解ける。吃驚すると人格が入れ替わる癖がある。
   - ノーフェイス・マクドナルド
-    声 - [私市淳](https://ja.wikipedia.org/wiki/私市淳 "wikilink")
+    声 - [私市淳](../Page/私市淳.md "wikilink")
     正体不明の覆面ファイター。青黒いコートに身を包み、顔面を包帯で覆っている。前大会でレオンとのファイト中にニトロに溶け行方をくらまし、現在は消息不明。
   - ブロンコ・ブロンゾン
     声 - 矢部雅史
     昨年度世界ランキング10位のパワーファイター。
   - タジリ・タヂリ
-    声 - [渋谷茂](https://ja.wikipedia.org/wiki/渋谷茂 "wikilink")
+    声 - [渋谷茂](../Page/渋谷茂.md "wikilink")
     昨年度ワールドチャンピオンシップの覇者にして、3年連続ディフェンディングチャンピオンという、最強のファイター。
 
 ## クラッシュギア
@@ -175,10 +175,10 @@
 ## スタッフ
 
   - 原作 - [矢立肇](../Page/矢立肇.md "wikilink")
-  - 監督 - [アミノテツロー](https://ja.wikipedia.org/wiki/アミノテツロー "wikilink")
-  - シリーズ構成 - [山口亮太](https://ja.wikipedia.org/wiki/山口亮太 "wikilink")
+  - 監督 - [アミノテツロー](../Page/アミノテツロー.md "wikilink")
+  - シリーズ構成 - [山口亮太](../Page/山口亮太.md "wikilink")
   - オリジナルキャラクターデザイン - [夏月洸](https://ja.wikipedia.org/wiki/そえたかずひろ "wikilink")
-  - アニメーションキャラクターデザイン - [近藤高光](https://ja.wikipedia.org/wiki/近藤高光 "wikilink")
+  - アニメーションキャラクターデザイン - [近藤高光](../Page/近藤高光.md "wikilink")
   - メインメカニカルデザイン - [今石進](https://ja.wikipedia.org/wiki/今石進 "wikilink")、[斎藤まさかつ](https://ja.wikipedia.org/wiki/斎藤まさかつ "wikilink")
   - メカニカルデザインワークス - [大輪充](https://ja.wikipedia.org/wiki/大輪充 "wikilink")
   - 美術監督 - 小川由紀子
@@ -187,19 +187,19 @@
   - 編集 - 野尻由紀子
   - CGスーパーバイザー - 小畑正好
   - CGチーフ演出 - [小野学](https://ja.wikipedia.org/wiki/小野学_\(アニメーション監督\) "wikilink")
-  - CGプロデューサー - [今西隆志](https://ja.wikipedia.org/wiki/今西隆志 "wikilink")
+  - CGプロデューサー - [今西隆志](../Page/今西隆志.md "wikilink")
   - 音楽 - [根岸貴幸](../Page/根岸貴幸.md "wikilink")
-  - 音響監督 - [藤野貞義](https://ja.wikipedia.org/wiki/藤野貞義 "wikilink")
+  - 音響監督 - [藤野貞義](../Page/藤野貞義.md "wikilink")
   - 音楽プロデューサー - 吉村仁、唐牛秀貴、眞野昇
   - プロデューサー - 今井隆、小原麻美
-  - 製作 - [メ〜テレ](../Page/名古屋テレビ放送.md "wikilink")、[東急エージェンシー](https://ja.wikipedia.org/wiki/東急エージェンシー "wikilink")、[サンライズ](https://ja.wikipedia.org/wiki/サンライズ_\(アニメ制作会社\) "wikilink")
+  - 製作 - [メ〜テレ](../Page/名古屋テレビ放送.md "wikilink")、[東急エージェンシー](https://ja.wikipedia.org/wiki/東急エージェンシー "wikilink")、[サンライズ](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")
 
 ## 主題歌
 
   - オープニングテーマ「風のつばさ」
-    作詞 - [さいとういんこ](../Page/斉藤美和子.md "wikilink") / 作曲 - [前田克樹](https://ja.wikipedia.org/wiki/前田克樹 "wikilink") / 編曲 - 滝沢淑行 / 歌 - loop([谷本貴義](https://ja.wikipedia.org/wiki/谷本貴義 "wikilink")・タ織)
+    作詞 - [さいとういんこ](../Page/斉藤美和子.md "wikilink") / 作曲 - [前田克樹](https://ja.wikipedia.org/wiki/前田克樹 "wikilink") / 編曲 - 滝沢淑行 / 歌 - loop([谷本貴義](../Page/谷本貴義.md "wikilink")・タ織)
   - エンディングテーマ「VOICE」
-    作詞 - anemone / 作曲 - [坂下正俊](https://ja.wikipedia.org/wiki/manzo "wikilink") / 編曲 - 滝沢淑行 / 歌 - [中里真美](https://ja.wikipedia.org/wiki/中里真美 "wikilink")
+    作詞 - anemone / 作曲 - [坂下正俊](https://ja.wikipedia.org/wiki/manzo "wikilink") / 編曲 - 滝沢淑行 / 歌 - [中里真美](../Page/中里真美.md "wikilink")
 
 ## 各話リスト
 
@@ -219,9 +219,9 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>聞け!ギアの鼓動を!</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山口亮太" title="wikilink">山口亮太</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アミノテツロー" title="wikilink">倉敷由紀也</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小原正和" title="wikilink">小原正和</a><br />
+<td><p><a href="../Page/山口亮太.md" title="wikilink">山口亮太</a></p></td>
+<td><p><a href="../Page/アミノテツロー.md" title="wikilink">倉敷由紀也</a></p></td>
+<td><p><a href="../Page/小原正和.md" title="wikilink">小原正和</a><br />
 <a href="https://ja.wikipedia.org/wiki/小野学_(アニメーション監督)" title="wikilink">小野学</a><br />
 高木茂樹</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/高橋晃_(アニメーター)" title="wikilink">高橋晃</a></p></td>
@@ -233,7 +233,7 @@
 <td><p>ヒデの逆襲!</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/吉田伸" title="wikilink">吉田伸</a></p></td>
 <td><p><a href="../Page/ワタナベシンイチ.md" title="wikilink">ワタナベシンイチ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/久行宏和" title="wikilink">久行宏和</a><br />
+<td><p><a href="../Page/久行宏和.md" title="wikilink">久行宏和</a><br />
 高橋真一</p></td>
 <td><p><a href="../Page/2月9日.md" title="wikilink">2月9日</a></p></td>
 <td></td>
@@ -244,7 +244,7 @@
 <td><p>山口亮太</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/菱川直樹" title="wikilink">菱川直樹</a></p></td>
 <td><p>佐々木健想</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/木下ゆうき" title="wikilink">木下ゆうき</a></p></td>
+<td><p><a href="../Page/木下ゆうき.md" title="wikilink">木下ゆうき</a></p></td>
 <td><p><a href="../Page/2月16日.md" title="wikilink">2月16日</a></p></td>
 </tr>
 <tr class="even">
@@ -259,7 +259,7 @@
 <tr class="odd">
 <td><p>5</p></td>
 <td><p>ジュリエットを探せ!</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/木村暢" title="wikilink">木村暢</a></p></td>
+<td><p><a href="../Page/木村暢.md" title="wikilink">木村暢</a></p></td>
 <td><p>小原正和</p></td>
 <td><p>久行宏和</p></td>
 <td><p><a href="../Page/3月2日.md" title="wikilink">3月2日</a></p></td>
@@ -316,7 +316,7 @@
 <td><p>白熱!ギア甲子園</p></td>
 <td><p>木村暢</p></td>
 <td><p>西村純二</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/池端隆史" title="wikilink">池端隆史</a></p></td>
+<td><p><a href="../Page/池端隆史.md" title="wikilink">池端隆史</a></p></td>
 <td><p>久行宏和</p></td>
 <td><p><a href="../Page/4月13日.md" title="wikilink">4月13日</a></p></td>
 </tr>
@@ -355,7 +355,7 @@
 <td><p>吉田伸</p></td>
 <td><p>西村純二</p></td>
 <td><p>高木茂樹</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/なかじまちゅうじ" title="wikilink">なかじまちゅうじ</a></p></td>
+<td><p><a href="../Page/なかじまちゅうじ.md" title="wikilink">なかじまちゅうじ</a></p></td>
 <td><p><a href="../Page/5月11日.md" title="wikilink">5月11日</a></p></td>
 </tr>
 <tr class="even">
@@ -693,7 +693,7 @@
 
   - クラッシュギアN
     作画：[松本久志](../Page/松本久志.md "wikilink") [講談社](../Page/講談社.md "wikilink")ボンボンコミックス 全3巻
-    前作「[激闘\!クラッシュギアTURBO](https://ja.wikipedia.org/wiki/激闘!クラッシュギアTURBO "wikilink")」に引き続き2003年の2月号から2004年の3月号まで[コミックボンボン](../Page/コミックボンボン.md "wikilink")にて連載された作品。
+    前作「[激闘\!クラッシュギアTURBO](../Page/激闘!クラッシュギアTURBO.md "wikilink")」に引き続き2003年の2月号から2004年の3月号まで[コミックボンボン](../Page/コミックボンボン.md "wikilink")にて連載された作品。
     アニメのコミカライズながら一部の重要キャラが登場せず、中盤からはオリジナルキャラの登場も目立つなど、前作以上にオリジナル要素の強い作品となった。このような事態になった事に関して、作者は単行本第2巻に収録されているおまけ漫画の中で「実際のアニメを見ていなかった」という事を打ち明けている。反対に、アニメの方ではこの漫画版から逆輸入したとみられる部分も存在する。
     1.  2003年9月 ISBN 4-06-323987-X
     2.  2003年12月 ISBN 4-06-323993-4

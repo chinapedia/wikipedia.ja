@@ -1,13 +1,13 @@
 > この記事は[ \(UNICORN\)](https://ja.wikipedia.org/wiki/_\(UNICORN\))から翻訳されています。
 
 
-『**ハヴァナイスデー**』 (Have A Nice Day) は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")である[UNICORN](https://ja.wikipedia.org/wiki/UNICORN "wikilink")のミニアルバム（公式には6枚目のアルバムとしてカウントされている）。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[12月1日](../Page/12月1日.md "wikilink")発売。発売元は[CBSソニー](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")。
+『**ハヴァナイスデー**』 (Have A Nice Day) は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")である[UNICORN](../Page/UNICORN.md "wikilink")のミニアルバム（公式には6枚目のアルバムとしてカウントされている）。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[12月1日](../Page/12月1日.md "wikilink")発売。発売元は[CBSソニー](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")。
 
 ## 解説
 
   - 3か月連続アルバムリリースの最後を飾る作品。
-  - 「ストレートなロックンロール・アルバム」「海外レコーディング」をテーマに、[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")で[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")が行われた。
-  - 本作の[エンジニア](https://ja.wikipedia.org/wiki/エンジニア "wikilink")、[ジョー・ブレイニー](https://ja.wikipedia.org/wiki/ジョー・ブレイニー "wikilink")は後のアルバム『[SPRINGMAN](https://ja.wikipedia.org/wiki/SPRINGMAN "wikilink")』にも参加している。
+  - 「ストレートなロックンロール・アルバム」「海外レコーディング」をテーマに、[ニューヨーク](../Page/ニューヨーク.md "wikilink")で[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")が行われた。
+  - 本作の[エンジニア](https://ja.wikipedia.org/wiki/エンジニア "wikilink")、[ジョー・ブレイニー](https://ja.wikipedia.org/wiki/ジョー・ブレイニー "wikilink")は後のアルバム『[SPRINGMAN](../Page/SPRINGMAN.md "wikilink")』にも参加している。
 
 ## リリース履歴
 
@@ -18,7 +18,7 @@
 <th><p>日付</p></th>
 <th><p><a href="../Page/レコードレーベル.md" title="wikilink">レーベル</a></p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>最高順位</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -36,7 +36,7 @@
 <tr class="even">
 <td><p>2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1995年" title="wikilink">1995年</a><a href="https://ja.wikipedia.org/wiki/12月13日" title="wikilink">12月13日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ" title="wikilink">ソニー・ミュージックレコーズ</a></p></td>
+<td><p><a href="../Page/ソニー・ミュージックレコーズ.md" title="wikilink">ソニー・ミュージックレコーズ</a></p></td>
 <td><p>CD</p></td>
 <td><p>SRCL-3415</p></td>
 <td><p>91位</p></td>
@@ -46,7 +46,7 @@
 <tr class="odd">
 <td><p>3</p></td>
 <td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="https://ja.wikipedia.org/wiki/12月19日" title="wikilink">12月19日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エスエムイーレコーズ" title="wikilink">エスエムイーレコーズ</a></p></td>
+<td><p><a href="../Page/エスエムイーレコーズ.md" title="wikilink">エスエムイーレコーズ</a></p></td>
 <td><p>CD</p></td>
 <td><p>SECL-606</p></td>
 <td><p>-</p></td>
@@ -77,7 +77,7 @@
 
 2.  **$2000ならOKよ** - *Mayflower Madam*
 
-3.  **[東京ブギウギ](https://ja.wikipedia.org/wiki/東京ブギウギ "wikilink")** - *Tokyo Boogie Woogie*
+3.  **[東京ブギウギ](../Page/東京ブギウギ.md "wikilink")** - *Tokyo Boogie Woogie*
 
       -
         現在まで、音源化されたカバー曲はこの曲のみ。

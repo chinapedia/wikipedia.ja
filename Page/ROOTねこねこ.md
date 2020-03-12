@@ -5,7 +5,7 @@
 
 ## 作品概要
 
-[メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")の[漫画雑誌](../Page/日本の漫画雑誌.md "wikilink")『[電撃帝王](https://ja.wikipedia.org/wiki/電撃帝王 "wikilink")』VOL.1（[2004年](../Page/2004年.md "wikilink")）からVOL.6（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")）にて連載された。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")単行本が発行された。
+[メディアワークス](../Page/メディアワークス.md "wikilink")の[漫画雑誌](../Page/日本の漫画雑誌.md "wikilink")『[電撃帝王](https://ja.wikipedia.org/wiki/電撃帝王 "wikilink")』VOL.1（[2004年](../Page/2004年.md "wikilink")）からVOL.6（[2005年](../Page/2005年.md "wikilink")）にて連載された。[2006年](../Page/2006年.md "wikilink")単行本が発行された。
 
 [魔力](https://ja.wikipedia.org/wiki/魔力 "wikilink")元素が減少したため、かつて栄えた[魔法](https://ja.wikipedia.org/wiki/魔法 "wikilink")文明が時代遅れとなり、[科学](../Page/科学.md "wikilink")に取って代わられた[現代](https://ja.wikipedia.org/wiki/現代 "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")が作品の舞台。この世界ではネコが人語を解し、[妖怪](../Page/妖怪.md "wikilink")や[幻獣](https://ja.wikipedia.org/wiki/幻獣 "wikilink")が数を減らしつつも存在している。旅するネコ・**サダノブ**が日本の各地で出会う魔法や妖怪を巡る出来事を - 2話で描く。
 
@@ -16,7 +16,7 @@
 ### 主人公
 
   - サダノブ（定信）
-    [主人公](https://ja.wikipedia.org/wiki/主人公 "wikilink")。各地を転々と渡り歩く流れネコ。各地に生きる人々やネコたち、妖怪たちの生き方をトラブルに巻き込まれつつ垣間見ながら、旅を続けている。
+    [主人公](../Page/主人公.md "wikilink")。各地を転々と渡り歩く流れネコ。各地に生きる人々やネコたち、妖怪たちの生き方をトラブルに巻き込まれつつ垣間見ながら、旅を続けている。
     子どもの頃から好奇心旺盛で、いつも母猫に心配をかけてきた冒険野郎。地元の魔力火山の河口で危機に陥ったところを流れネコのセロに助けられ、彼をアニキと慕ってその生き様に共感して流れネコとなった。一人称は「おいら」。
 
 ### 主人公と深い関わりを持つキャラ
@@ -71,6 +71,6 @@
 
 ## 書誌情報
 
-  - [小野敏洋](../Page/小野敏洋.md "wikilink")『ROOTねこねこ』[メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")〈電撃コミックス〉ISBN 4-8402-3365-9
+  - [小野敏洋](../Page/小野敏洋.md "wikilink")『ROOTねこねこ』[メディアワークス](../Page/メディアワークス.md "wikilink")〈電撃コミックス〉ISBN 4-8402-3365-9
 
 [Category:漫画作品_る](https://ja.wikipedia.org/wiki/Category:漫画作品_る "wikilink") [Category:月刊コミック電撃大王の漫画作品](https://ja.wikipedia.org/wiki/Category:月刊コミック電撃大王の漫画作品 "wikilink") [Category:ファンタジー漫画](https://ja.wikipedia.org/wiki/Category:ファンタジー漫画 "wikilink") [Category:SF漫画作品](https://ja.wikipedia.org/wiki/Category:SF漫画作品 "wikilink") [Category:ネコを主人公にした物語](https://ja.wikipedia.org/wiki/Category:ネコを主人公にした物語 "wikilink")

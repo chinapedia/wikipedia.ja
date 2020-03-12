@@ -1,22 +1,22 @@
 > この記事は[MURO](https://ja.wikipedia.org/wiki/MURO)から翻訳されています。
 
 
-**MURO**（ムロ、本名：室田隆義、[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink") - ）は、[日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")[MC及び](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")[DJ](https://ja.wikipedia.org/wiki/DJ "wikilink")、[プロデューサー](../Page/プロデューサー.md "wikilink")、[デザイナー](../Page/デザイナー.md "wikilink")。
+**MURO**（ムロ、本名：室田隆義、[1970年](../Page/1970年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink") - ）は、[日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")[MC及び](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")[DJ](https://ja.wikipedia.org/wiki/DJ "wikilink")、[プロデューサー](../Page/プロデューサー.md "wikilink")、[デザイナー](../Page/デザイナー.md "wikilink")。
 
 ## 来歴
 
-[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")、[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")[川口市](https://ja.wikipedia.org/wiki/川口市 "wikilink")に生まれる。[1980年代](../Page/1980年代.md "wikilink")後半〜[1990年代](../Page/1990年代.md "wikilink")初頭、KRUSH POSSE、[MICROPHONE PAGERでの活動で](https://ja.wikipedia.org/wiki/MICROPHONE_PAGER "wikilink")、[日本語ラップに](../Page/日本のヒップホップ.md "wikilink")「改正」を唱え、真の意味での[ヒップホップ](../Page/ヒップホップ.md "wikilink")を[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")に根付かせるべく活動。MICROPHONE PAGERと前後してソロとしての活動を開始する。[1996年](../Page/1996年.md "wikilink")発売のMAKI & TAIKIの[EP](../Page/コンパクト盤.md "wikilink")『ON THE 1+2』の楽曲「バスドラ発〜スネア行」に参加。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、スペルバウンドより[シングル](../Page/シングル.md "wikilink")「DAI SAN DANRAKU 97 PAGE」発売。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、自身のレーベル「incredible」を立ち上げる。彼によればラップを捨てたのは左耳がライヴ中に聞こえなくなったからである。その時はショックで泣いたという。治療後にＤＪ転向を決意したという。
+[1970年](../Page/1970年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")、[埼玉県](../Page/埼玉県.md "wikilink")[川口市](https://ja.wikipedia.org/wiki/川口市 "wikilink")に生まれる。[1980年代](../Page/1980年代.md "wikilink")後半〜[1990年代](../Page/1990年代.md "wikilink")初頭、KRUSH POSSE、[MICROPHONE PAGERでの活動で](../Page/MICROPHONE_PAGER.md "wikilink")、[日本語ラップに](../Page/日本のヒップホップ.md "wikilink")「改正」を唱え、真の意味での[ヒップホップ](../Page/ヒップホップ.md "wikilink")を[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")に根付かせるべく活動。MICROPHONE PAGERと前後してソロとしての活動を開始する。[1996年](../Page/1996年.md "wikilink")発売のMAKI & TAIKIの[EP](../Page/コンパクト盤.md "wikilink")『ON THE 1+2』の楽曲「バスドラ発〜スネア行」に参加。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、スペルバウンドより[シングル](../Page/シングル.md "wikilink")「DAI SAN DANRAKU 97 PAGE」発売。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、自身のレーベル「incredible」を立ち上げる。彼によればラップを捨てたのは左耳がライヴ中に聞こえなくなったからである。その時はショックで泣いたという。治療後にＤＪ転向を決意したという。
 
 [1999年](../Page/1999年.md "wikilink")4月21日、[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")よりメジャー第一弾となるミニ・アルバム『K.M.W.(King Most Wanted)』を発売。同年12月22日には、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ヒップホップ](../Page/ヒップホップ.md "wikilink")グループ、Diggin' in the Crates Crewのロード・フィネスとA.G.が参加したシングル「THE VINYL ATHLETES」発売。[2000年](../Page/2000年.md "wikilink")8月23日、初のフルアルバム『PAN RHYTHM :Flight No.11154』を発売。[2002年](../Page/2002年.md "wikilink")6月12日、[K.O.D.Pを大々的にフィーチャーしたアルバム](https://ja.wikipedia.org/wiki/#KING_OF_DIGGIN'_PRODUCTION "wikilink")『Sweeeet Baaad A\*s Encounter』を発売。
 
-[2003年](../Page/2003年.md "wikilink")1月22日、ミニアルバム『CHAIN REACTION』を発売。また、[DJとしても国内外で活動を広げ](../Page/ディスクジョッキー.md "wikilink")、[マイアミ](../Page/マイアミ.md "wikilink")で行われている「Winter Music Conference」への出演や、アメリカのヒップホップレーベル「STONES THROW」のツアーへの参加などを経て国外でも認知度を深めていく。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")7月20日、[avexよりアルバム](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")『20 Street Years』発売。同年9月20日、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[ハウスDJ](https://ja.wikipedia.org/wiki/ハウス_\(音楽\) "wikilink")、ディミトリ・フロム・パリとのコラボレーションMIX CD『Super Disco Friends』を発売。
+[2003年](../Page/2003年.md "wikilink")1月22日、ミニアルバム『CHAIN REACTION』を発売。また、[DJとしても国内外で活動を広げ](../Page/ディスクジョッキー.md "wikilink")、[マイアミ](../Page/マイアミ.md "wikilink")で行われている「Winter Music Conference」への出演や、アメリカのヒップホップレーベル「STONES THROW」のツアーへの参加などを経て国外でも認知度を深めていく。[2005年](../Page/2005年.md "wikilink")7月20日、[avexよりアルバム](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")『20 Street Years』発売。同年9月20日、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[ハウスDJ](../Page/ハウス_\(音楽\).md "wikilink")、ディミトリ・フロム・パリとのコラボレーションMIX CD『Super Disco Friends』を発売。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月](../Page/11月.md "wikilink")、[井上三太](../Page/井上三太.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")『[TOKYO TRIBE2](https://ja.wikipedia.org/wiki/TOKYO_TRIBE2 "wikilink")』の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")化にあたり、その[サウンドトラック](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")を担当。11月22日には日米のラッパー、プロデューサーが集結したMUROプロデュースによるアルバム『TOKYO TRIBE2』を発売。日本からは[TWIGY](../Page/TWIGY.md "wikilink")や[BIG-Oらが参加](../Page/SHAKKAZOMBIE.md "wikilink")。アメリカからはJUST BLAZE、[ゴーストフェイス・キラ](../Page/ゴーストフェイス・キラ.md "wikilink")、[デ・ラ・ソウル](https://ja.wikipedia.org/wiki/デ・ラ・ソウル "wikilink")らが参加。また、同日に自身の集大成となる完全ベスト盤『MUROTIMATE BREAKS & BEATS VOL.1 & VOL.2』を発売。これまでの映像作品をDVDに収録し、自身のラッパーとしてのキャリアを総括した作品。
+[2006年](../Page/2006年.md "wikilink")[11月](../Page/11月.md "wikilink")、[井上三太](../Page/井上三太.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")『[TOKYO TRIBE2](../Page/TOKYO_TRIBE2.md "wikilink")』の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")化にあたり、その[サウンドトラック](../Page/サウンドトラック.md "wikilink")を担当。11月22日には日米のラッパー、プロデューサーが集結したMUROプロデュースによるアルバム『TOKYO TRIBE2』を発売。日本からは[TWIGY](../Page/TWIGY.md "wikilink")や[BIG-Oらが参加](../Page/SHAKKAZOMBIE.md "wikilink")。アメリカからはJUST BLAZE、[ゴーストフェイス・キラ](../Page/ゴーストフェイス・キラ.md "wikilink")、[デ・ラ・ソウル](../Page/デ・ラ・ソウル.md "wikilink")らが参加。また、同日に自身の集大成となる完全ベスト盤『MUROTIMATE BREAKS & BEATS VOL.1 & VOL.2』を発売。これまでの映像作品をDVDに収録し、自身のラッパーとしてのキャリアを総括した作品。
 
   - [2007年](../Page/2007年.md "wikilink")
-      - 8月22日、[ニューヨーク](../Page/ニューヨーク.md "wikilink")のグラフィティアーティストLEE QUINONESとのコラボレーションによる初の[インストアルバム](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")『EAST RIVER PARK』を発売。
+      - 8月22日、[ニューヨーク](../Page/ニューヨーク.md "wikilink")のグラフィティアーティストLEE QUINONESとのコラボレーションによる初の[インストアルバム](../Page/器楽曲.md "wikilink")『EAST RIVER PARK』を発売。
       - [10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、[ミラノ](../Page/ミラノ.md "wikilink")で行われた[NIKE](../Page/ナイキ.md "wikilink") AIRFORCE 1のイベントでのDJ出演を皮切りに[ロンドン](../Page/ロンドン.md "wikilink")、[アムステルダム](https://ja.wikipedia.org/wiki/アムステルダム "wikilink")での[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")ツアーを敢行。
-      - [12月](https://ja.wikipedia.org/wiki/12月 "wikilink")、[北京](https://ja.wikipedia.org/wiki/北京 "wikilink")で行われた[FENDIのファッションショーのアフターパーティでDJを行う](https://ja.wikipedia.org/wiki/フェンディ "wikilink")。
+      - [12月](https://ja.wikipedia.org/wiki/12月 "wikilink")、[北京](https://ja.wikipedia.org/wiki/北京 "wikilink")で行われた[FENDIのファッションショーのアフターパーティでDJを行う](../Page/フェンディ.md "wikilink")。
 
 <!-- end list -->
 
@@ -27,7 +27,7 @@
 <!-- end list -->
 
   - [2009年](../Page/2009年.md "wikilink")
-      - [EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")、[UNIVERSALなどから](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")[コンピレーション・アルバム](https://ja.wikipedia.org/wiki/コンピレーション・アルバム "wikilink")をリリース。8月26日には自身の軌跡を辿るべくセルフミックスで過去に発表してきた楽曲のインストのノンストップMIX CD『DA CREATOR』を発売。
+      - [EMI](../Page/EMIミュージック・ジャパン.md "wikilink")、[UNIVERSALなどから](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")をリリース。8月26日には自身の軌跡を辿るべくセルフミックスで過去に発表してきた楽曲のインストのノンストップMIX CD『DA CREATOR』を発売。
 
 <!-- end list -->
 
@@ -37,7 +37,7 @@
 <!-- end list -->
 
   - [2011年](../Page/2011年.md "wikilink")
-      - [5月22日](../Page/5月22日.md "wikilink")、[渋谷に自身の](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[セレクトショップ](https://ja.wikipedia.org/wiki/セレクトショップ "wikilink")「DIGOT」をオープンさせる。
+      - [5月22日](../Page/5月22日.md "wikilink")、[渋谷に自身の](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[セレクトショップ](../Page/セレクトショップ.md "wikilink")「DIGOT」をオープンさせる。
 
 <!-- end list -->
 
@@ -51,7 +51,7 @@
 
 ## KING OF DIGGIN' PRODUCTION
 
-[ヒップホップ](../Page/ヒップホップ.md "wikilink")集団**KING OF DIGGIN' PRODUCTION**（キング･オブ・ディギン・プロダクション、略称：**K.O.D.P**）を主催。レコード店が数多く並ぶ[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[宇田川町](https://ja.wikipedia.org/wiki/宇田川町 "wikilink")に縁のある人々が、MUROを介して寄り集まって形成された集団。定期的な活動を行うための固定された集団ではなく、仲間集団的な色合いが強い。2002年には、K.O.D.Pのメンバーを大々的にフィーチャーした内容の[アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")『KING of DIGGIN' presents...Sweeeet Baaad A\*s Encounter』を発売。
+[ヒップホップ](../Page/ヒップホップ.md "wikilink")集団**KING OF DIGGIN' PRODUCTION**（キング･オブ・ディギン・プロダクション、略称：**K.O.D.P**）を主催。レコード店が数多く並ぶ[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[宇田川町](../Page/宇田川町.md "wikilink")に縁のある人々が、MUROを介して寄り集まって形成された集団。定期的な活動を行うための固定された集団ではなく、仲間集団的な色合いが強い。2002年には、K.O.D.Pのメンバーを大々的にフィーチャーした内容の[アルバム](../Page/スタジオ・アルバム.md "wikilink")『KING of DIGGIN' presents...Sweeeet Baaad A\*s Encounter』を発売。
 
 ### メンバー
 
@@ -66,16 +66,16 @@
     6\. DJ SHIMONE
     7\. TAKE-G
     8\. [OSUMI](../Page/SHAKKAZOMBIE.md "wikilink")
-    10\. [S-WORD](https://ja.wikipedia.org/wiki/S-WORD "wikilink")
-    11\. [MACKA-CHIN](https://ja.wikipedia.org/wiki/MACKA-CHIN "wikilink")
+    10\. [S-WORD](../Page/S-WORD.md "wikilink")
+    11\. [MACKA-CHIN](../Page/MACKA-CHIN.md "wikilink")
     12\. KIRK
     13\. [GORE-TEX](https://ja.wikipedia.org/wiki/GORE-TEX_\(ミュージシャン\) "wikilink")
     14\. TAKESHI
     16\. [SUIKEN](../Page/SUIKEN.md "wikilink")
     17\. [BOO](../Page/BOO_\(歌手\).md "wikilink")
     18\. DJ TAIJI
-    22\. [Tina](https://ja.wikipedia.org/wiki/Tina "wikilink")
-    23\. [G.K.MARYAN](https://ja.wikipedia.org/wiki/G.K.MARYAN "wikilink")
+    22\. [Tina](../Page/Tina.md "wikilink")
+    23\. [G.K.MARYAN](../Page/G.K.MARYAN.md "wikilink")
     25\. KASHI DA HANDSOME
     27\. GORIKI
     30\. JOE-CHO
@@ -215,7 +215,7 @@
 ### サウンドトラック
 
   - 『HOTWAX TRAX 鉄砲玉の美学 \~MURO REMIX\~』　（2006年5月13日）
-  - 『TOKYO TRIBLE2』　（2006年11月22日）　[井上三太](../Page/井上三太.md "wikilink")原作のアニメ[TOKYO TRIBE2のサントラ](https://ja.wikipedia.org/wiki/TOKYO_TRIBE2 "wikilink")
+  - 『TOKYO TRIBLE2』　（2006年11月22日）　[井上三太](../Page/井上三太.md "wikilink")原作のアニメ[TOKYO TRIBE2のサントラ](../Page/TOKYO_TRIBE2.md "wikilink")
 
 ### 参加作品
 
@@ -229,25 +229,25 @@
   - 「半透明」 MURO & [DJ WATARAI](../Page/DJ_WATARAI.md "wikilink") （『’hood』 に収録）
   - 「つつみ込むように・・・ (DJ WATARAI REMIX)」 [MISIA](https://ja.wikipedia.org/wiki/MISIA "wikilink") feat. MURO
   - 「KONOSORA NO ARUAI NI」 [BOO](../Page/BOO_\(歌手\).md "wikilink") feat. MURO & Mr.PEAK
-  - 「病む街 pt.2 （1/f Version）」 [TWIGY](../Page/TWIGY.md "wikilink") feat. MURO, [RINO](https://ja.wikipedia.org/wiki/RINO_LATINA_II "wikilink")
+  - 「病む街 pt.2 （1/f Version）」 [TWIGY](../Page/TWIGY.md "wikilink") feat. MURO, [RINO](../Page/RINO_LATINA_II.md "wikilink")
   - 「THE UNTOUCHABLE III」 [ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink") feat. MURO （『BASED ON A TRUE STORY』 に収録）
   - 「We Are The Wild」 Gathering Of All Stars
   - 「GALAXY PIMP 3000」 [NIPPS](../Page/NIPPS.md "wikilink") feat. MURO, [DEV LARGE](../Page/DEV_LARGE.md "wikilink")
-  - 「病む街 Part II 第三章」 [RINO LATINA II](https://ja.wikipedia.org/wiki/RINO_LATINA_II "wikilink") feat. MURO, [TWIGY](../Page/TWIGY.md "wikilink") （『Carnival of RINO』 に収録）
+  - 「病む街 Part II 第三章」 [RINO LATINA II](../Page/RINO_LATINA_II.md "wikilink") feat. MURO, [TWIGY](../Page/TWIGY.md "wikilink") （『Carnival of RINO』 に収録）
   - 「smile in your face」 [BOO](../Page/BOO_\(歌手\).md "wikilink") feat. MURO
-  - 「にちようび」 [SOUL SCREAM](https://ja.wikipedia.org/wiki/SOUL_SCREAM "wikilink") feat. MURO + [BOO](../Page/BOO_\(歌手\).md "wikilink")
+  - 「にちようび」 [SOUL SCREAM](../Page/SOUL_SCREAM.md "wikilink") feat. MURO + [BOO](../Page/BOO_\(歌手\).md "wikilink")
   - 「ALL★STAR」 MURO feat. LUNCH TIME SPEAX, KASHI DA HANDSOME
-  - 「THA Legend and THA Next」 [S-WORD](https://ja.wikipedia.org/wiki/S-WORD "wikilink") feat. MURO
+  - 「THA Legend and THA Next」 [S-WORD](../Page/S-WORD.md "wikilink") feat. MURO
   - 「MO BE」 LUNCH TIME SPEAX feat. MURO
   - 「YOU MAKE ME HIGH ON FRIDAY \!\!\!」 BOO feat. MURO, KASHI DA HANDSOME
-  - 「リアルにやる （MURO remix）」 [キングギドラ](https://ja.wikipedia.org/wiki/KGDR "wikilink") feat. MURO
-  - 「10%無理」 [NITRO MICROPHONE UNDERGROUND](https://ja.wikipedia.org/wiki/NITRO_MICROPHONE_UNDERGROUND "wikilink") feat. MURO
-  - 「真ッ黒ニナル訳 struttin' with MURO」 [Tina](https://ja.wikipedia.org/wiki/Tina "wikilink")
-  - 「MIRROR BALL 2004」 [GORE-TEX](https://ja.wikipedia.org/wiki/GORE-TEX "wikilink") feat. [MICROPHONE PAGER](https://ja.wikipedia.org/wiki/MICROPHONE_PAGER "wikilink")
+  - 「リアルにやる （MURO remix）」 [キングギドラ](../Page/KGDR.md "wikilink") feat. MURO
+  - 「10%無理」 [NITRO MICROPHONE UNDERGROUND](../Page/NITRO_MICROPHONE_UNDERGROUND.md "wikilink") feat. MURO
+  - 「真ッ黒ニナル訳 struttin' with MURO」 [Tina](../Page/Tina.md "wikilink")
+  - 「MIRROR BALL 2004」 [GORE-TEX](https://ja.wikipedia.org/wiki/GORE-TEX "wikilink") feat. [MICROPHONE PAGER](../Page/MICROPHONE_PAGER.md "wikilink")
   - 「廻シ蹴リ」 [マボロシ](../Page/マボロシ.md "wikilink") feat. MURO, [DABO](../Page/DABO.md "wikilink")
   - 「7 DAYZ」 [DJ HAZIME](../Page/DJ_HAZIME.md "wikilink") feat. MURO, [PUSHIM](https://ja.wikipedia.org/wiki/PUSHIM "wikilink")
   - 「RHYME LINE」 [DJ MASTERKEY](../Page/DJ_MASTERKEY.md "wikilink") feat. MURO & [BOO](../Page/BOO_\(歌手\).md "wikilink")
-  - 「READY GO\!」 DJ YAS feat. [MICROPHONE PAGER](https://ja.wikipedia.org/wiki/MICROPHONE_PAGER "wikilink")
+  - 「READY GO\!」 DJ YAS feat. [MICROPHONE PAGER](../Page/MICROPHONE_PAGER.md "wikilink")
   - 「OFF THE CHAIN」 [MIKRIS](../Page/MIKRIS.md "wikilink") feat. MURO, TAD'S A.C.
   - 「Checklist」 Mr.Itagaki a.k.a. Ita-Cho feat. MURO, JAH GOD, KASHI DA HANDSOME, GORE-TEX
   - 「969 Road」 Mr.Itagaki a.k.a. Ita-Cho feat. MURO
@@ -257,8 +257,8 @@
 
 ### 楽曲提供
 
-  - 「G.C.C. 〜get crazy cruising〜」 [KAMINARI-KAZOKU.](https://ja.wikipedia.org/wiki/KAMINARI-KAZOKU. "wikilink")
-  - 「[ROCK STEADY](../Page/60s_70s_80s.md "wikilink")」 [安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink") （Produced by MURO & [MICHICO](https://ja.wikipedia.org/wiki/MICHICO "wikilink")）
+  - 「G.C.C. 〜get crazy cruising〜」 [KAMINARI-KAZOKU.](../Page/KAMINARI-KAZOKU..md "wikilink")
+  - 「[ROCK STEADY](../Page/60s_70s_80s.md "wikilink")」 [安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink") （Produced by MURO & [MICHICO](../Page/MICHICO.md "wikilink")）
   - 「[5 The POWER](https://ja.wikipedia.org/wiki/5TH_DIMENSION "wikilink") 」 [ももいろクローバーZ](https://ja.wikipedia.org/wiki/ももいろクローバーZ "wikilink") （SUIとの共作による作曲・編曲）
   -
 ### その他
@@ -269,7 +269,7 @@
 
 #### 書籍
 
-  - 『真ッ黒ニナル果テ -30 years and still counting-』（2015年12月25日、[リットーミュージック](https://ja.wikipedia.org/wiki/リットーミュージック "wikilink")） - ISBN 9784845627561
+  - 『真ッ黒ニナル果テ -30 years and still counting-』（2015年12月25日、[リットーミュージック](../Page/リットーミュージック.md "wikilink")） - ISBN 9784845627561
 
 ## 外部リンク
 
@@ -278,7 +278,7 @@
   -
   -
   -
-  - [DIGOT（ディーゴ）](http://www.digot.jp) - MURO経営の[セレクトショップ](https://ja.wikipedia.org/wiki/セレクトショップ "wikilink")
+  - [DIGOT（ディーゴ）](http://www.digot.jp) - MURO経営の[セレクトショップ](../Page/セレクトショップ.md "wikilink")
 
       -
   - [KINGINC](http://kinginc.co.jp/)

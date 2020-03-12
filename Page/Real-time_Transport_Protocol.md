@@ -5,7 +5,7 @@
 
 ## 概要
 
-[RTSPや](../Page/Real_Time_Streaming_Protocol.md "wikilink")[H.323](https://ja.wikipedia.org/wiki/H.323 "wikilink")の[通信プロトコル](../Page/通信プロトコル.md "wikilink")のデータ部分に使用される。 ほぼ全ての[VoIP](https://ja.wikipedia.org/wiki/VoIP "wikilink")関連製品は、RTPを利用して、音声情報を[IPネットワーク](https://ja.wikipedia.org/wiki/IPネットワーク "wikilink")上へ送出している。 これは、リアルタイムストリームを運ぶためのプロトコルとして[IETF](../Page/Internet_Engineering_Task_Force.md "wikilink")、[ITUで標準化されている](../Page/国際電気通信連合.md "wikilink")。
+[RTSPや](../Page/Real_Time_Streaming_Protocol.md "wikilink")[H.323](../Page/H.323.md "wikilink")の[通信プロトコル](../Page/通信プロトコル.md "wikilink")のデータ部分に使用される。 ほぼ全ての[VoIP](../Page/VoIP.md "wikilink")関連製品は、RTPを利用して、音声情報を[IPネットワーク](https://ja.wikipedia.org/wiki/IPネットワーク "wikilink")上へ送出している。 これは、リアルタイムストリームを運ぶためのプロトコルとして[IETF](../Page/Internet_Engineering_Task_Force.md "wikilink")、[ITUで標準化されている](../Page/国際電気通信連合.md "wikilink")。
 
 RTPは、[UDPの](../Page/User_Datagram_Protocol.md "wikilink")[通信プロトコル](../Page/通信プロトコル.md "wikilink")（[TCPと違ってUDPのヘッダには](../Page/Transmission_Control_Protocol.md "wikilink")「シーケンス（順序）番号」の項目が存在しないため順序の組み立てができない）であるが、 RTP[パケット](../Page/パケット.md "wikilink")を受信した[ホストは](https://ja.wikipedia.org/wiki/ホスト_\(ネットワーク\) "wikilink")、RTPパケットのRTP用のヘッダーにある情報から各[パケット](../Page/パケット.md "wikilink")の時間の情報から時間的な関係を把握し、データを再生することができる。 RTPパケットも他のパケットと同様に、ネットワークを経由して転送されていく中で、喪失や、配送の遅れが起こる。 しかし、映像や音声のデータは、データの一部が欠けていても再生が可能であるため、データの受信側では、喪失や、配送の遅れたパケットは無視し、受信側が期待する時間に到着したパケットだけを利用してデータの再生を行うことができる。
 

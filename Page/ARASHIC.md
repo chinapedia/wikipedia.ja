@@ -1,7 +1,7 @@
 > この記事は[ARASHIC](https://ja.wikipedia.org/wiki/ARASHIC)から翻訳されています。
 
 
-『**ARASHIC**』（アラシック）は、[嵐の](../Page/嵐_\(グループ\).md "wikilink")6枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月5日](../Page/7月5日.md "wikilink")に[J Stormから発売された](https://ja.wikipedia.org/wiki/ジェイ・ストーム "wikilink")。
+『**ARASHIC**』（アラシック）は、[嵐の](../Page/嵐_\(グループ\).md "wikilink")6枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")に[J Stormから発売された](../Page/ジェイ・ストーム.md "wikilink")。
 
 ## 解説
 
@@ -9,7 +9,7 @@
 
 初回限定盤と通常盤の2種類で発売。
 
-初回限定盤には[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")7月から8月まで行われた全国ツアー「嵐 LIVE 2005 "One" SUMMER TOUR」のダイジェスト映像を収録したDVDを付属。
+初回限定盤には[2005年](../Page/2005年.md "wikilink")7月から8月まで行われた全国ツアー「嵐 LIVE 2005 "One" SUMMER TOUR」のダイジェスト映像を収録したDVDを付属。
 
 通常盤にはボーナストラック「LOVE PARADE」を追加収録。また、初回プレス分のみ32Pブックレットを封入。
 
@@ -25,7 +25,7 @@
 
 1.  **[WISH](../Page/WISH_\(嵐の曲\).md "wikilink")**［4:26］
       -
-        作詞：[久保田洋司](https://ja.wikipedia.org/wiki/久保田洋司 "wikilink")、作曲：[オオヤギヒロオ](../Page/オオヤギヒロオ.md "wikilink")、編曲：[CHOKKAKU](https://ja.wikipedia.org/wiki/CHOKKAKU "wikilink")
+        作詞：[久保田洋司](../Page/久保田洋司.md "wikilink")、作曲：[オオヤギヒロオ](../Page/オオヤギヒロオ.md "wikilink")、編曲：[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")
     <!-- end list -->
       - 15thシングル
       - 松本潤出演 [TBS](https://ja.wikipedia.org/wiki/TBS "wikilink")系ドラマ『[花より男子](https://ja.wikipedia.org/wiki/花より男子#テレビドラマ（日本版） "wikilink")』主題歌
@@ -95,10 +95,10 @@
         2012年開催「[アラフェス](https://ja.wikipedia.org/wiki/ARASHI_アラフェス_NATIONAL_STADIUM_2012 "wikilink")」、2013年開催「[アラフェス'13](https://ja.wikipedia.org/wiki/ARASHI_アラフェス'13_NATIONAL_STADIUM_2013 "wikilink")」では､「**FESTIVAL NIGHT**」として披露された｡
 13. *' シルバーリング*'［4:44］
       -
-        作詞：[山本成美](https://ja.wikipedia.org/wiki/山本成美 "wikilink")、作曲：北川 吟、編曲：[若草恵](https://ja.wikipedia.org/wiki/若草恵 "wikilink")
+        作詞：[山本成美](https://ja.wikipedia.org/wiki/山本成美 "wikilink")、作曲：北川 吟、編曲：[若草恵](../Page/若草恵.md "wikilink")
 14. *' LOVE PARADE*'［4:21］
       -
-        作詞：仲山卯月、作曲：土井まどか、土岐健一、編曲：[船山基紀](https://ja.wikipedia.org/wiki/船山基紀 "wikilink")
+        作詞：仲山卯月、作曲：土井まどか、土岐健一、編曲：[船山基紀](../Page/船山基紀.md "wikilink")
         通常盤のみ収録。
         嵐初のジャズを取り入れたナンバー。
 
@@ -109,9 +109,9 @@
 1.  **[Yes? No?](../Page/One_\(嵐のアルバム\).md "wikilink")**
 2.  メンバーソロダイジェスト part1
     1.  **[いつかのSummer](../Page/One_\(嵐のアルバム\).md "wikilink")** - [相葉雅紀](https://ja.wikipedia.org/wiki/相葉雅紀 "wikilink")
-    2.  **[秘密](../Page/One_\(嵐のアルバム\).md "wikilink")** - [二宮和也](https://ja.wikipedia.org/wiki/二宮和也 "wikilink")
+    2.  **[秘密](../Page/One_\(嵐のアルバム\).md "wikilink")** - [二宮和也](../Page/二宮和也.md "wikilink")
     3.  **[Rain](../Page/One_\(嵐のアルバム\).md "wikilink")** - [大野智](https://ja.wikipedia.org/wiki/大野智 "wikilink")
-3.  **[サクラ咲ケ](https://ja.wikipedia.org/wiki/サクラ咲ケ "wikilink")**
+3.  **[サクラ咲ケ](../Page/サクラ咲ケ.md "wikilink")**
 4.  メンバーソロダイジェスト part2
     1.  **[夢でいいから](../Page/One_\(嵐のアルバム\).md "wikilink")** - [櫻井翔](https://ja.wikipedia.org/wiki/櫻井翔 "wikilink")
     2.  **[W/ME](../Page/One_\(嵐のアルバム\).md "wikilink")** - [松本潤](../Page/松本潤.md "wikilink")
@@ -139,7 +139,7 @@
 | ライブ映像                                                                                                                                                                           | 『[ARASHI AROUND ASIA Thailand-Taiwan-Korea](https://ja.wikipedia.org/wiki/ARASHI_AROUND_ASIA_Thailand-Taiwan-Korea "wikilink")』        |
 | **きっと大丈夫**                                                                                                                                                                      | CDシングル                                                                                                                                 |
 | ビデオ・クリップ                                                                                                                                                                        | 『きっと大丈夫』〈初回限定盤〉                                                                                                                        |
-| CDアルバム                                                                                                                                                                          | 『[ARASHIC](https://ja.wikipedia.org/wiki/ARASHIC "wikilink")』                                                                          |
+| CDアルバム                                                                                                                                                                          | 『[ARASHIC](../Page/ARASHIC.md "wikilink")』                                                                                             |
 | ライブ映像                                                                                                                                                                           | 『[ARASHI AROUND ASIA Thailand-Taiwan-Korea](https://ja.wikipedia.org/wiki/ARASHI_AROUND_ASIA_Thailand-Taiwan-Korea "wikilink")』        |
 | 『[ARASHI AROUND ASIA+ in DOME](https://ja.wikipedia.org/wiki/ARASHI_AROUND_ASIA+_in_DOME "wikilink")』                                                                           |                                                                                                                                        |
 | 『[SUMMER TOUR 2007 FINAL Time -コトバノチカラ-](https://ja.wikipedia.org/wiki/SUMMER_TOUR_2007_FINAL_Time_-コトバノチカラ- "wikilink")』                                                       |                                                                                                                                        |

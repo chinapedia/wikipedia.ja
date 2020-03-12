@@ -11,10 +11,10 @@
 
 声の表記は、Infantaria/Infantaria XPの順。ヒロイン以外はXPのみボイス有り。
 
-  - ソフィア＝イヴェール＝ラレンシア（[声](../Page/声優.md "wikilink")：[長崎みなみ](../Page/長崎みなみ.md "wikilink")/[木村あやか](https://ja.wikipedia.org/wiki/木村あやか "wikilink")）
+  - ソフィア＝イヴェール＝ラレンシア（[声](../Page/声優.md "wikilink")：[長崎みなみ](../Page/長崎みなみ.md "wikilink")/[木村あやか](../Page/木村あやか.md "wikilink")）
     イヴェール王国の姫だが、世間を知り、国を治めるための修行として幼稚園に赴く。凛とした意思の強い女性だが世間知らず。
 
-  - マイシェラ＝クリスティン（声：[春野日和](https://ja.wikipedia.org/wiki/春野日和 "wikilink")/[うえあおい](https://ja.wikipedia.org/wiki/うえあおい "wikilink")）
+  - マイシェラ＝クリスティン（声：[春野日和](../Page/春野日和.md "wikilink")/[うえあおい](https://ja.wikipedia.org/wiki/うえあおい "wikilink")）
     幼稚園の[保母](../Page/保育士.md "wikilink")。主人公の幼なじみでもある。明るく天真爛漫。
 
   - レマ＝スタニスワフ（声：[関和美](https://ja.wikipedia.org/wiki/関和美 "wikilink")/同左）
@@ -27,7 +27,7 @@
     クリコ（声：[笠原美准](https://ja.wikipedia.org/wiki/笠原美准 "wikilink")）
     ピート（声：[藍河蘭子](https://ja.wikipedia.org/wiki/藍河蘭子 "wikilink")）
     ハルナ（声：[今井かおる](https://ja.wikipedia.org/wiki/今井かおる "wikilink")）
-    タップ（声：[野上奈々](https://ja.wikipedia.org/wiki/野神奈々 "wikilink")）
+    タップ（声：[野上奈々](../Page/野神奈々.md "wikilink")）
     ロッタ（声：[うえあおい](https://ja.wikipedia.org/wiki/うえあおい "wikilink")）
     ウィンキー（声：[十市みこと](https://ja.wikipedia.org/wiki/十市みこと "wikilink")）
     ティンキー（声：[十市みこと](https://ja.wikipedia.org/wiki/十市みこと "wikilink")）
@@ -41,7 +41,7 @@
 <!-- end list -->
 
   - オープニングテーマ『Infantaria 〜インファンタリア〜』
-      - 歌：[倖月美和](https://ja.wikipedia.org/wiki/倖月美和 "wikilink")、作詞・作曲：[tororo](https://ja.wikipedia.org/wiki/tororo "wikilink")、編曲：[古口眞弓](https://ja.wikipedia.org/wiki/古口眞弓 "wikilink")
+      - 歌：[倖月美和](../Page/倖月美和.md "wikilink")、作詞・作曲：[tororo](https://ja.wikipedia.org/wiki/tororo "wikilink")、編曲：[古口眞弓](https://ja.wikipedia.org/wiki/古口眞弓 "wikilink")
   - エンディングテーマ『Sow』
       - 歌：倖月美和、作詞・作曲：tororo、編曲：古口眞弓
 

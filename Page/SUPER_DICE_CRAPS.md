@@ -1,7 +1,7 @@
 > この記事は[SUPER DICE CRAPS](https://ja.wikipedia.org/wiki/SUPER_DICE_CRAPS)から翻訳されています。
 
 
-**SUPER DICE CRAPS**はセガ（後の[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")）が開発した、[カジノゲーム](../Page/カジノゲーム.md "wikilink")である[クラップス](../Page/クラップス.md "wikilink")を大幅に簡略化した[メダルゲーム](https://ja.wikipedia.org/wiki/メダルゲーム "wikilink")である。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")リリース。
+**SUPER DICE CRAPS**はセガ（後の[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")）が開発した、[カジノゲーム](../Page/カジノゲーム.md "wikilink")である[クラップス](../Page/クラップス.md "wikilink")を大幅に簡略化した[メダルゲーム](../Page/メダルゲーム.md "wikilink")である。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")リリース。
 
 ## 概要
 

@@ -9,13 +9,13 @@
 
 ## 人物
 
-  - [植草甚一](https://ja.wikipedia.org/wiki/植草甚一 "wikilink") - 日本の文化評論家 (1908–1979)。
+  - [植草甚一](../Page/植草甚一.md "wikilink") - 日本の文化評論家 (1908–1979)。
   - [J・J・ジョンソン](../Page/J・J・ジョンソン.md "wikilink") () - アメリカのトロンボーン奏者 (1924–2001)。
   - [J・J・ケイル](https://ja.wikipedia.org/wiki/J・J・ケイル "wikilink") () - アメリカのシンガーソングライター (1938–2013)。
   - [J.J.レート](../Page/J.J.レート.md "wikilink") () - フィンランドのF1ドライバー (1966–)。
   - [J.J.ファーマニアック](https://ja.wikipedia.org/wiki/J.J.ファーマニアック "wikilink") () - アメリカのプロ野球選手 (1979–)。日本プロ野球在籍時の登録名は「ジェイジェイ」。
   - [JJ・フィールド](https://ja.wikipedia.org/wiki/JJ・フィールド "wikilink")（J. J. Feild）- アメリカの俳優 (1978–)。
-  - [ジャネット・ジャクソン](https://ja.wikipedia.org/wiki/ジャネット・ジャクソン "wikilink") () - アメリカのシンガーソングライター (1966–)。
+  - [ジャネット・ジャクソン](../Page/ジャネット・ジャクソン.md "wikilink") () - アメリカのシンガーソングライター (1966–)。
   - [ジェフ・ジャレット](../Page/ジェフ・ジャレット.md "wikilink") () - アメリカのプロレスラー (1967–)。
   - [林俊傑](../Page/林俊傑.md "wikilink") () - シンガポールのシンガーソングライター (1981–)。
   - [J・J・ワット](https://ja.wikipedia.org/wiki/J・J・ワット "wikilink")（） - アメリカのアメリカンフットボール選手 (1989–)。
@@ -34,12 +34,12 @@
       - [jj (バンド)](https://ja.wikipedia.org/wiki/jj_\(バンド\) "wikilink") () - スウェーデンの音楽バンド。
       - [Juice=Juice](https://ja.wikipedia.org/wiki/Juice=Juice "wikilink") - 日本のアイドルグループ。
       - [ジャン・ジョンストン](https://ja.wikipedia.org/wiki/ジャン・ジョンストン "wikilink") () が結成したデュオ。
-  - [JJ (雑誌)](https://ja.wikipedia.org/wiki/JJ_\(雑誌\) "wikilink") - [光文社](../Page/光文社.md "wikilink")の女性向けファッション雑誌。
+  - [JJ (雑誌)](../Page/JJ_\(雑誌\).md "wikilink") - [光文社](../Page/光文社.md "wikilink")の女性向けファッション雑誌。
   - [JJ とびだせ大作戦パート2](https://ja.wikipedia.org/wiki/とびだせ大作戦#JJ "wikilink") - [スクウェアのファミリーコンピュータ用ゲームソフト](../Page/スクウェア_\(ゲーム会社\).md "wikilink")。
   - [2ちゃんねる](../Page/2ちゃんねる.md "wikilink")の[大学生活板](https://ja.wikipedia.org/wiki/大学生活板 "wikilink")における用語「自虐風自慢」。
   - [JR常磐線（快速）の](https://ja.wikipedia.org/wiki/常磐快速線 "wikilink")[路線記号](../Page/駅ナンバリング.md "wikilink")
   - 架空
       - [ジェニファー・ジャロウ](https://ja.wikipedia.org/wiki/ジェニファー・ジャロウ "wikilink") () - 『[クリミナル・マインド FBI行動分析課](https://ja.wikipedia.org/wiki/クリミナル・マインド_FBI行動分析課 "wikilink")』の登場人物。
-      - 『[赤い光弾ジリオン](https://ja.wikipedia.org/wiki/赤い光弾ジリオン "wikilink")』の主人公。
+      - 『[赤い光弾ジリオン](../Page/赤い光弾ジリオン.md "wikilink")』の主人公。
       - 『[オメルタ 〜沈黙の掟〜](https://ja.wikipedia.org/wiki/オメルタ_〜沈黙の掟〜 "wikilink")』の主人公。
-      - 『[愛という名のもとに](https://ja.wikipedia.org/wiki/愛という名のもとに "wikilink")』の登場人物。
+      - 『[愛という名のもとに](../Page/愛という名のもとに.md "wikilink")』の登場人物。

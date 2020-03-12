@@ -3,7 +3,7 @@
 
 『**D.C. White Season 〜ダ・カーポ ホワイトシーズン〜**』は、[CIRCUS NORTHERN製作のアダルトゲーム](https://ja.wikipedia.org/wiki/CIRCUS_\(ブランド\) "wikilink")。通称『**D.C.W.S.**』。
 
-『[D.C. 〜ダ・カーポ〜](https://ja.wikipedia.org/wiki/D.C._〜ダ・カーポ〜 "wikilink")』シリーズ初のアミューズメントディスク（ファンディスク）に当たる\[1\]。初回限定の「クリスマス限定版」・CDとDVDの2種類の「通常版」・DVD版の新パッケージ「リニューアルパッケージ版」の計4種類のパッケージがある。
+『[D.C. 〜ダ・カーポ〜](../Page/D.C._〜ダ・カーポ〜.md "wikilink")』シリーズ初のアミューズメントディスク（ファンディスク）に当たる\[1\]。初回限定の「クリスマス限定版」・CDとDVDの2種類の「通常版」・DVD版の新パッケージ「リニューアルパッケージ版」の計4種類のパッケージがある。
 
 ## 作品内容
 
@@ -57,7 +57,7 @@
 
   - オープニングテーマ「White Season」
     作詞：tororo、作曲・編曲：土屋学、歌：[rino](https://ja.wikipedia.org/wiki/rino "wikilink")
-    『[D.C. Four Seasons 〜ダ・カーポ〜 フォーシーズンズ](https://ja.wikipedia.org/wiki/D.C._Four_Seasons_〜ダ・カーポ〜_フォーシーズンズ "wikilink")』にて天枷美春（[神田朱未](https://ja.wikipedia.org/wiki/神田朱未 "wikilink")）がカバー。
+    『[D.C. Four Seasons 〜ダ・カーポ〜 フォーシーズンズ](../Page/D.C._Four_Seasons_〜ダ・カーポ〜_フォーシーズンズ.md "wikilink")』にて天枷美春（[神田朱未](../Page/神田朱未.md "wikilink")）がカバー。
   - エンディングテーマ「All my love of the World」
     作詞：畑亜貴、作曲：猫野こめっと、編曲：土屋学、歌：[yozuca\*](https://ja.wikipedia.org/wiki/yozuca* "wikilink")
   - 挿入歌「うたまるえかき唄」

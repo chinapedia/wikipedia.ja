@@ -1,17 +1,17 @@
 > この記事は[  III](https://ja.wikipedia.org/wiki/__III)から翻訳されています。
 
 
-『**ブレス オブ ファイアIII**』（ブレス オブ ファイア スリー）は、[カプコン](../Page/カプコン.md "wikilink")が[発売した](../Page/販売.md "wikilink")[PlayStation用](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")[コンピュータRPG](../Page/コンピュータRPG.md "wikilink")。『[ブレス オブ ファイア](https://ja.wikipedia.org/wiki/ブレス_オブ_ファイア "wikilink")』[シリーズ](https://ja.wikipedia.org/wiki/シリーズ "wikilink")の3作目であり、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")国内では[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月11日](../Page/9月11日.md "wikilink")に発売された。シリーズで唯一[サブタイトル](../Page/サブタイトル.md "wikilink")が付与されていない。
+『**ブレス オブ ファイアIII**』（ブレス オブ ファイア スリー）は、[カプコン](../Page/カプコン.md "wikilink")が[発売した](../Page/販売.md "wikilink")[PlayStation用](../Page/PlayStation_\(ゲーム機\).md "wikilink")[コンピュータRPG](../Page/コンピュータRPG.md "wikilink")。『[ブレス オブ ファイア](../Page/ブレス_オブ_ファイア.md "wikilink")』[シリーズ](https://ja.wikipedia.org/wiki/シリーズ "wikilink")の3作目であり、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")国内では[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月11日](../Page/9月11日.md "wikilink")に発売された。シリーズで唯一[サブタイトル](../Page/サブタイトル.md "wikilink")が付与されていない。
 
 ## 概要
 
-過去のシリーズで登場した「[共同体](../Page/共同体.md "wikilink")」や「[釣り](https://ja.wikipedia.org/wiki/釣り "wikilink")」「個人アクション」「竜変身」などのシステムは、今作品でも登場する。また、シリーズで初めて[キャラクターボイスを採用した](../Page/声優.md "wikilink")。
+過去のシリーズで登場した「[共同体](../Page/共同体.md "wikilink")」や「[釣り](../Page/釣り.md "wikilink")」「個人アクション」「竜変身」などのシステムは、今作品でも登場する。また、シリーズで初めて[キャラクターボイスを採用した](../Page/声優.md "wikilink")。
 
 本作の物語は前半の「幼年期」と後半の「青年期」の二部構成となっている（幼年と青年の基準はリュウの年齢）。
 
-ファーストスマイルエンタテインメントより[ドラマCD](https://ja.wikipedia.org/wiki/ドラマCD "wikilink")が発売されている。こちらは一部の声優が今作品と異なる。
+ファーストスマイルエンタテインメントより[ドラマCD](../Page/ドラマCD.md "wikilink")が発売されている。こちらは一部の声優が今作品と異なる。
 
-[2000年](../Page/2000年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")には[廉価版](../Page/廉価版.md "wikilink")「PlayStation the Best」として再発売された。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月25日](../Page/8月25日.md "wikilink")には[PlayStation Portable](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink") (PSP) へと移植され、こちらも[2007年](../Page/2007年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")に廉価版「[カプコレ](https://ja.wikipedia.org/wiki/カプコレ "wikilink")」として再登場した。
+[2000年](../Page/2000年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")には[廉価版](../Page/廉価版.md "wikilink")「PlayStation the Best」として再発売された。[2005年](../Page/2005年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")には[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink") (PSP) へと移植され、こちらも[2007年](../Page/2007年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")に廉価版「[カプコレ](https://ja.wikipedia.org/wiki/カプコレ "wikilink")」として再登場した。
 
 後に移植されたPSP版では[タイトルロゴ](https://ja.wikipedia.org/wiki/タイトルロゴ "wikilink")が一新され、新モードとして、釣りのみを行う「FISHING MODE」と、設定資料が収録された「GALLERY MODE」が追加された。基本的なゲーム内容はPlayStation版と同じだが、一部敵キャラクターの色と技が変更されている。
 
@@ -19,7 +19,7 @@
 
 ### 戦闘
 
-今作品では、ワールドマップでの[エンカウント](https://ja.wikipedia.org/wiki/エンカウント "wikilink")がなくなり、町・山・ダンジョンなどの[ゲームフィールド](https://ja.wikipedia.org/wiki/ゲームフィールド "wikilink")でのみ戦闘が発生する。画面切り替えはなく、その場で敵が出現し、戦闘専用の[BGMに変化して戦闘開始となる](https://ja.wikipedia.org/wiki/バックグラウンドミュージック "wikilink")。戦闘不能になったまま戦闘を終えると、最大[ヒットポイント](../Page/ヒットポイント.md "wikilink") (HP) が10パーセント減少し、HPが1の状態で復活する。この状態は宿屋に泊まれば回復する（キャンプの休みでは回復しない）。
+今作品では、ワールドマップでの[エンカウント](../Page/エンカウント.md "wikilink")がなくなり、町・山・ダンジョンなどの[ゲームフィールド](https://ja.wikipedia.org/wiki/ゲームフィールド "wikilink")でのみ戦闘が発生する。画面切り替えはなく、その場で敵が出現し、戦闘専用の[BGMに変化して戦闘開始となる](../Page/バックグラウンドミュージック.md "wikilink")。戦闘不能になったまま戦闘を終えると、最大[ヒットポイント](../Page/ヒットポイント.md "wikilink") (HP) が10パーセント減少し、HPが1の状態で復活する。この状態は宿屋に泊まれば回復する（キャンプの休みでは回復しない）。
 
 ### 共同体
 
@@ -148,7 +148,7 @@
 ## 備考
 
   - 本作の作曲者は[海田明里](../Page/海田明里.md "wikilink")と[青木佳乃](https://ja.wikipedia.org/wiki/青木佳乃 "wikilink")の2人が担当。エンディングテーマ「Pure Again」も彼女達本人が歌っている。
-  - PS版の[テレビコマーシャルではアニメーションが使われていた](../Page/コマーシャルメッセージ.md "wikilink")。CMで使われた楽曲は[SOPHIA](https://ja.wikipedia.org/wiki/SOPHIA "wikilink")の「[街](https://ja.wikipedia.org/wiki/街_\(Single_Version\) "wikilink")」。
+  - PS版の[テレビコマーシャルではアニメーションが使われていた](../Page/コマーシャルメッセージ.md "wikilink")。CMで使われた楽曲は[SOPHIA](../Page/SOPHIA.md "wikilink")の「[街](https://ja.wikipedia.org/wiki/街_\(Single_Version\) "wikilink")」。
 
 ## 外部リンク
 

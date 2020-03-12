@@ -1,11 +1,11 @@
 > この記事は[HEAVY METAL ANTHEM](https://ja.wikipedia.org/wiki/HEAVY_METAL_ANTHEM)から翻訳されています。
 
 
-**HEAVY METAL ANTHEM**（ヘヴィメタル アンセム）は[ANTHEM](https://ja.wikipedia.org/wiki/ANTHEM "wikilink")が企画として2000年にリリースしたアルバム。
+**HEAVY METAL ANTHEM**（ヘヴィメタル アンセム）は[ANTHEM](../Page/ANTHEM.md "wikilink")が企画として2000年にリリースしたアルバム。
 
 ## 内容
 
-柴田が仕事のパートナーでもある[久武頼正](https://ja.wikipedia.org/wiki/久武頼正 "wikilink")と飲んでいる時に冗談で「[グラハム・ボネット](https://ja.wikipedia.org/wiki/グラハム・ボネット "wikilink")の歌声でリメイクしたい」と語った後日、久武は本当にグラハムにブッキングし、グラハムから承諾を得たことで本格的に企画されたのがこのアルバムである。実際、柴田はアンセムの楽曲をグラハムの声をイメージして作っていたそうで、歌詞も全て英語にし、グラハムが歌っても違和感を覚えさせない出来になっている。\[1\]
+柴田が仕事のパートナーでもある[久武頼正](https://ja.wikipedia.org/wiki/久武頼正 "wikilink")と飲んでいる時に冗談で「[グラハム・ボネット](../Page/グラハム・ボネット.md "wikilink")の歌声でリメイクしたい」と語った後日、久武は本当にグラハムにブッキングし、グラハムから承諾を得たことで本格的に企画されたのがこのアルバムである。実際、柴田はアンセムの楽曲をグラハムの声をイメージして作っていたそうで、歌詞も全て英語にし、グラハムが歌っても違和感を覚えさせない出来になっている。\[1\]
 
 選曲の殆どが森川之雄時代の曲が占めており、\[2\]全曲新たにリ・レコーディングされた。
 
@@ -48,8 +48,8 @@
 
 ## 参加メンバー
 
-  - [柴田直人](../Page/柴田直人.md "wikilink")：[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")、[作曲](../Page/作曲.md "wikilink")
-  - [グラハム・ボネット](https://ja.wikipedia.org/wiki/グラハム・ボネット "wikilink")：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
+  - [柴田直人](../Page/柴田直人.md "wikilink")：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[作詞](../Page/作詞.md "wikilink")、[作曲](../Page/作曲.md "wikilink")
+  - [グラハム・ボネット](../Page/グラハム・ボネット.md "wikilink")：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
   - [清水昭男](../Page/清水昭男.md "wikilink")：[ギター](../Page/ギター.md "wikilink")
   - [斉藤和正](https://ja.wikipedia.org/wiki/斉藤和正 "wikilink")：ギター（1.6のみ参加）
   - [大内貴雅](../Page/大内貴雅.md "wikilink")：[ドラム](../Page/ドラムセット.md "wikilink")

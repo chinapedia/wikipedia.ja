@@ -3,7 +3,7 @@
 
 **株式会社B-Box**（ビーボックス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[芸能事務所](../Page/芸能事務所.md "wikilink")。主に[声優](../Page/声優.md "wikilink")の[マネージメント](https://ja.wikipedia.org/wiki/マネージメント "wikilink")を行っている。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")6月にB-Boxを設立、同年10年目だった養成所「井上和彦の声優教室」を「B-Box Actors School」に改名。
+[2005年](../Page/2005年.md "wikilink")6月にB-Boxを設立、同年10年目だった養成所「井上和彦の声優教室」を「B-Box Actors School」に改名。
 
 講師として[井上和彦等が指導している](../Page/井上和彦_\(声優\).md "wikilink")。
 
@@ -67,7 +67,7 @@
 
   - [旭堂小南陵](https://ja.wikipedia.org/wiki/旭堂小二三 "wikilink")（業務提携）
   - [江越美紀](https://ja.wikipedia.org/wiki/江越美紀 "wikilink")
-  - [大南悠](https://ja.wikipedia.org/wiki/大南悠 "wikilink")
+  - [大南悠](../Page/大南悠.md "wikilink")
 
 <!-- end list -->
 
@@ -119,7 +119,7 @@
 <!-- end list -->
 
   - [前迫有里紗](https://ja.wikipedia.org/wiki/前迫有里紗 "wikilink")
-  - [本山かおり](https://ja.wikipedia.org/wiki/本山かおり "wikilink")
+  - [本山かおり](../Page/本山かおり.md "wikilink")
 
 <!-- end list -->
 
@@ -137,15 +137,15 @@
   - [飯田真矢](https://ja.wikipedia.org/wiki/飯田真矢 "wikilink")
   - [今井昭暢](../Page/今井昭暢.md "wikilink")（フリー）
   - [岸博之](https://ja.wikipedia.org/wiki/岸博之 "wikilink")（現所属：アンテーヌ）
-  - [小林すすむ](https://ja.wikipedia.org/wiki/小林すすむ "wikilink")（在籍中に死去）
+  - [小林すすむ](../Page/小林すすむ.md "wikilink")（在籍中に死去）
   - [角研一郎](../Page/角研一郎.md "wikilink")
-  - [杉野田ぬき](https://ja.wikipedia.org/wiki/杉野田ぬき "wikilink")（フリー）
+  - [杉野田ぬき](../Page/杉野田ぬき.md "wikilink")（フリー）
   - [関口量治](https://ja.wikipedia.org/wiki/関口量治 "wikilink")（フリー）
   - [竹谷和樹](https://ja.wikipedia.org/wiki/竹谷和樹 "wikilink")
   - [たなかこころ](https://ja.wikipedia.org/wiki/たなかこころ "wikilink")（現所属：TOYPRITZ）
   - [ともいちろー](https://ja.wikipedia.org/wiki/ともいちろー "wikilink")（現所属：[アル・シェア](https://ja.wikipedia.org/wiki/アル・シェア "wikilink")）
-  - [中根徹](https://ja.wikipedia.org/wiki/中根徹 "wikilink")（現所属：[青二プロダクション](https://ja.wikipedia.org/wiki/青二プロダクション "wikilink")）
-  - [中野健治](https://ja.wikipedia.org/wiki/中野健治 "wikilink")（現所属：オフィスチャープ）
+  - [中根徹](../Page/中根徹.md "wikilink")（現所属：[青二プロダクション](../Page/青二プロダクション.md "wikilink")）
+  - [中野健治](../Page/中野健治.md "wikilink")（現所属：オフィスチャープ）
   - [藤宮潤](https://ja.wikipedia.org/wiki/藤宮潤 "wikilink")（現所属：エム・アール）
   - [ふるごおり雅浩](https://ja.wikipedia.org/wiki/ふるごおり雅浩 "wikilink")（現所属：フォセット･コンシェルジュ）
   - [フルヤミツアキ](../Page/フルヤミツアキ.md "wikilink")
@@ -155,7 +155,7 @@
 ### 女性
 
   - [綾瀬マリア](https://ja.wikipedia.org/wiki/綾瀬マリア "wikilink")
-  - [太田貴子](https://ja.wikipedia.org/wiki/太田貴子 "wikilink")（現所属：[81プロデュース](../Page/81プロデュース.md "wikilink")）
+  - [太田貴子](../Page/太田貴子.md "wikilink")（現所属：[81プロデュース](../Page/81プロデュース.md "wikilink")）
   - [織田一穂](https://ja.wikipedia.org/wiki/織田一穂 "wikilink")
   - [小津ミワ](https://ja.wikipedia.org/wiki/小津ミワ "wikilink")（現所属：ミュージックバンカー）
   - [門松涼](https://ja.wikipedia.org/wiki/門松涼 "wikilink")

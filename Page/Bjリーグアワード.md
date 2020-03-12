@@ -12,11 +12,11 @@
 ※の賞は2008-09シーズンのみ各カンファレンスより1チームを表彰の対象としていた。
 
   - 最優秀選手
-    レギュラーシーズン、プレイオフでの結果を元にbjリーグ選考委員会にて決定。実質的にはプレイオフで最も活躍した選手が受賞することが多い（例として、2007-2008シーズンのほとんどの試合に出場しなかった[リン・ワシントン](https://ja.wikipedia.org/wiki/リン・ワシントン "wikilink")が受賞している）
+    レギュラーシーズン、プレイオフでの結果を元にbjリーグ選考委員会にて決定。実質的にはプレイオフで最も活躍した選手が受賞することが多い（例として、2007-2008シーズンのほとんどの試合に出場しなかった[リン・ワシントン](../Page/リン・ワシントン.md "wikilink")が受賞している）
 
     なお、2008-09シーズンよりレギュラーシーズンとプレイオフに分けて表彰することになった。レギュラーシーズンについては「[サークルKサンクス](https://ja.wikipedia.org/wiki/サークルKサンクス "wikilink")レギュラーシーズン最優秀選手」とする。
 
-  - ベスト5（[ガード](https://ja.wikipedia.org/wiki/バスケットボール#ポジション "wikilink")2名、フォワード2名、[センター](https://ja.wikipedia.org/wiki/センター_\(バスケットボール\) "wikilink")1名）
+  - ベスト5（[ガード](https://ja.wikipedia.org/wiki/バスケットボール#ポジション "wikilink")2名、フォワード2名、[センター](../Page/センター_\(バスケットボール\).md "wikilink")1名）
     レギュラーシーズンの成績を元にコミッショナー、ヘッドコーチおよび全選手の投票により決定。なお、自球団選手への投票は認められない。
 
   - 最優秀コーチ
@@ -26,11 +26,11 @@
 
 <!-- end list -->
 
-  - 最多[得点](https://ja.wikipedia.org/wiki/得点 "wikilink")（総得点650点以上、もしくは45試合以上出場）
+  - 最多[得点](../Page/得点.md "wikilink")（総得点650点以上、もしくは45試合以上出場）
   - 最多[アシスト](https://ja.wikipedia.org/wiki/アシスト_\(バスケットボール\) "wikilink")（総アシスト160本以上、もしくは45試合以上出場）
   - 最多[リバウンド](https://ja.wikipedia.org/wiki/バスケットボール#リバウンド "wikilink")（総リバウンド260本以上、もしくは45試合以上出場）
-  - 最多[スティール](https://ja.wikipedia.org/wiki/スティール_\(バスケットボール\) "wikilink")（総スティール65本以上、もしくは45試合以上出場）
-  - 最多[ブロックショット](https://ja.wikipedia.org/wiki/ブロックショット "wikilink")（総ブロック40本以上、もしくは45試合以上出場）
+  - 最多[スティール](../Page/スティール_\(バスケットボール\).md "wikilink")（総スティール65本以上、もしくは45試合以上出場）
+  - 最多[ブロックショット](../Page/ブロックショット.md "wikilink")（総ブロック40本以上、もしくは45試合以上出場）
   - 最高[3ポイント成功率](https://ja.wikipedia.org/wiki/シュート_\(バスケットボール\)#フィールドゴール "wikilink")（総3ポイント試投130本以上）
   - 最高[フリースロー成功率](https://ja.wikipedia.org/wiki/シュート_\(バスケットボール\)#フリースロー "wikilink")（総フリースロー試投65本以上）
 
@@ -45,7 +45,7 @@
   - ベストパフォーマー賞（2007-08新設）
     [チアリーダーズ](https://ja.wikipedia.org/wiki/bjリーグチアリーディングチーム一覧 "wikilink")（ダンスチーム）への賞。インターネットによる一般投票、各のチアリーダーズ（ダンスチーム）のディレクター、特別審査員の投票により決定。2008-09まではEAST・WESTそれぞれでチャンピオン決定後、決選投票が行われていた。
   - ※ベストブースター
-    ブースター（[応援団](https://ja.wikipedia.org/wiki/私設応援団 "wikilink")）への賞
+    ブースター（[応援団](../Page/私設応援団.md "wikilink")）への賞
   - ※チームアシスト（2006-07新設）
     球団運営に多大な貢献をした個人・団体を称える賞
   - bjハーモニー賞（2009-10新設）
@@ -70,15 +70,15 @@
 |         |                                                                                                                                 |                                                                           |                      |
 | ------- | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | -------------------- |
 | **年**   | **レギュラーシーズン**                                                                                                                   | **プレイオフ**                                                                 | **備考**               |
-| 2005-06 | [リン・ワシントン](https://ja.wikipedia.org/wiki/リン・ワシントン "wikilink")（[大阪](https://ja.wikipedia.org/wiki/大阪エヴェッサ "wikilink")）           | レギュラー、プレイオフ通じて1名を選考。                                                      |                      |
-| 2006-07 | [デイビッド・パルマー](https://ja.wikipedia.org/wiki/デイビッド・パルマー "wikilink")（大阪）                                                           |                                                                           |                      |
+| 2005-06 | [リン・ワシントン](../Page/リン・ワシントン.md "wikilink")（[大阪](https://ja.wikipedia.org/wiki/大阪エヴェッサ "wikilink")）                              | レギュラー、プレイオフ通じて1名を選考。                                                      |                      |
+| 2006-07 | [デイビッド・パルマー](../Page/デイビッド・パルマー.md "wikilink")（大阪）                                                                              |                                                                           |                      |
 | 2007-08 | リン・ワシントン（大阪）                                                                                                                    |                                                                           |                      |
-| 2008-09 | [ジェフ・ニュートン](https://ja.wikipedia.org/wiki/ジェフ・ニュートン "wikilink")（[沖縄](https://ja.wikipedia.org/wiki/琉球ゴールデンキングス "wikilink")）     | ジェフ・ニュートン（沖縄）                                                             | レギュラー・プレイオフ別個に1名ずつ選出 |
+| 2008-09 | [ジェフ・ニュートン](../Page/ジェフ・ニュートン.md "wikilink")（[沖縄](../Page/琉球ゴールデンキングス.md "wikilink")）                                           | ジェフ・ニュートン（沖縄）                                                             | レギュラー・プレイオフ別個に1名ずつ選出 |
 | 2009-10 | [ウェンデル・ホワイト](https://ja.wikipedia.org/wiki/ウェンデル・ホワイト "wikilink")（[浜松](https://ja.wikipedia.org/wiki/浜松・東三河フェニックス "wikilink")）  | [大口真洋](https://ja.wikipedia.org/wiki/大口真洋 "wikilink")（浜松）                 |                      |
 | 2010-11 | [ジェフリー・パーマー](https://ja.wikipedia.org/wiki/ジェフリー・パーマー "wikilink")（浜松）                                                           | ジェフリー・パーマー（浜松）                                                            |                      |
 | 2011-12 | [ジャスティン・バーレル](https://ja.wikipedia.org/wiki/ジャスティン・バーレル "wikilink")（[横浜](https://ja.wikipedia.org/wiki/横浜ビー・コルセアーズ "wikilink")） | [アンソニー・マクヘンリー](https://ja.wikipedia.org/wiki/アンソニー・マクヘンリー "wikilink")（沖縄） |                      |
-| 2012-13 | [アンソニー・マクヘンリー](https://ja.wikipedia.org/wiki/アンソニー・マクヘンリー "wikilink")（沖縄）                                                       | [蒲谷正之](https://ja.wikipedia.org/wiki/蒲谷正之 "wikilink")（横浜）                 |                      |
-| 2013-14 | [城宝匡史](https://ja.wikipedia.org/wiki/城宝匡史 "wikilink")（[富山](https://ja.wikipedia.org/wiki/富山グラウジーズ "wikilink")）                  | [岸本隆一](https://ja.wikipedia.org/wiki/岸本隆一 "wikilink")（沖縄）                 |                      |
+| 2012-13 | [アンソニー・マクヘンリー](https://ja.wikipedia.org/wiki/アンソニー・マクヘンリー "wikilink")（沖縄）                                                       | [蒲谷正之](../Page/蒲谷正之.md "wikilink")（横浜）                                    |                      |
+| 2013-14 | [城宝匡史](../Page/城宝匡史.md "wikilink")（[富山](../Page/富山グラウジーズ.md "wikilink")）                                                        | [岸本隆一](https://ja.wikipedia.org/wiki/岸本隆一 "wikilink")（沖縄）                 |                      |
 | 2014-15 | [ケジュアン・ジョンソン](https://ja.wikipedia.org/wiki/ケジュアン・ジョンソン "wikilink")（仙台）                                                         | [ナイル・マーリー](https://ja.wikipedia.org/wiki/ナイル・マーリー "wikilink")（浜松）         |                      |
 | 2015-16 | ウェンデル・ホワイト（仙台）                                                                                                                  |                                                                           |                      |
 
@@ -95,19 +95,19 @@
 <tr class="even">
 <td><p>2005<br />
 -06</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マット・ロティック" title="wikilink">マット・ロティック</a><br />
+<td><p><a href="../Page/マット・ロティック.md" title="wikilink">マット・ロティック</a><br />
 （大阪）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/鈴木裕紀" title="wikilink">鈴木裕紀</a><br />
+<td><p><a href="../Page/鈴木裕紀.md" title="wikilink">鈴木裕紀</a><br />
 （<a href="https://ja.wikipedia.org/wiki/大分ヒートデビルズ" title="wikilink">大分</a>）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/マイケル・ジャクソン_(バスケットボール)" title="wikilink">マイケル・ジャクソン</a><br />
-（<a href="https://ja.wikipedia.org/wiki/仙台89ERS" title="wikilink">仙台</a>）</p></td>
+（<a href="../Page/仙台89ERS.md" title="wikilink">仙台</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>2006<br />
 -07</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/青木康平" title="wikilink">青木康平</a><br />
+<td><p><a href="../Page/青木康平.md" title="wikilink">青木康平</a><br />
 （東京A）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ラシード・スパークス" title="wikilink">ラシード・スパークス</a><br />
+<td><p><a href="../Page/ラシード・スパークス.md" title="wikilink">ラシード・スパークス</a><br />
 （<a href="https://ja.wikipedia.org/wiki/高松ファイブアローズ" title="wikilink">高松</a>）</p></td>
 <td><p>リン・ワシントン<br />
 （大阪）</p></td>
@@ -115,11 +115,11 @@
 <tr class="even">
 <td><p>2007<br />
 -08</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マイキー・マーシャル" title="wikilink">マイキー・マーシャル</a><br />
+<td><p><a href="../Page/マイキー・マーシャル.md" title="wikilink">マイキー・マーシャル</a><br />
 （大阪）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/澤岻直人" title="wikilink">澤岻直人</a><br />
+<td><p><a href="../Page/澤岻直人.md" title="wikilink">澤岻直人</a><br />
 （沖縄）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レジー・ウォーレン" title="wikilink">レジー・ウォーレン</a><br />
+<td><p><a href="../Page/レジー・ウォーレン.md" title="wikilink">レジー・ウォーレン</a><br />
 （高松）</p></td>
 </tr>
 <tr class="odd">
@@ -137,7 +137,7 @@
 -10</p></td>
 <td><p>青木康平<br />
 （東京A）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マクムード・アブドゥル＝ラウーフ" title="wikilink">マクムード・ブドゥル ラウーフ</a><br />
+<td><p><a href="../Page/マクムード・アブドゥル＝ラウーフ.md" title="wikilink">マクムード・ブドゥル ラウーフ</a><br />
 （<a href="https://ja.wikipedia.org/wiki/京都ハンナリーズ" title="wikilink">京都</a>）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/マイケル・パーカー" title="wikilink">マイケル・パーカー</a><br />
 （<a href="https://ja.wikipedia.org/wiki/ライジング福岡" title="wikilink">福岡</a>）</p></td>
@@ -227,18 +227,18 @@
 <tbody>
 <tr class="odd">
 <td><p>年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/得点" title="wikilink">PTS</a></p></td>
+<td><p><a href="../Page/得点.md" title="wikilink">PTS</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アシスト_(バスケットボール)" title="wikilink">AST</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/バスケットボール#リバウンド" title="wikilink">RBD</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スティール_(バスケットボール)" title="wikilink">STL</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブロックショット" title="wikilink">BLK</a></p></td>
+<td><p><a href="../Page/スティール_(バスケットボール).md" title="wikilink">STL</a></p></td>
+<td><p><a href="../Page/ブロックショット.md" title="wikilink">BLK</a></p></td>
 <td><p>3P成功率</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/シュート_(バスケットボール)#フリースロー" title="wikilink">FT成功率</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2005<br />
 -06</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョン・ハンフリー" title="wikilink">ジョン・ハンフリー</a><br />
+<td><p><a href="../Page/ジョン・ハンフリー.md" title="wikilink">ジョン・ハンフリー</a><br />
 （東京A）</p></td>
 <td><p>23.2</p></td>
 <td><p>マット・ロティック<br />
@@ -346,7 +346,7 @@
 <td><p>ジョン・ハンフリー<br />
 （埼玉）</p></td>
 <td><p>27.2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/志村雄彦" title="wikilink">志村雄彦</a><br />
+<td><p><a href="../Page/志村雄彦.md" title="wikilink">志村雄彦</a><br />
 （仙台）</p></td>
 <td><p>6.3</p></td>
 <td><p>クリス・ホルム<br />

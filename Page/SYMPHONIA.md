@@ -13,12 +13,12 @@
 
 <!-- end list -->
 
-1.  Viva America （[森岡賢](https://ja.wikipedia.org/wiki/森岡賢 "wikilink")）
+1.  Viva America （[森岡賢](../Page/森岡賢.md "wikilink")）
 2.  Burning Beauty （石垣愛）
-3.  Polaris（[pal@pop](https://ja.wikipedia.org/wiki/高野健一 "wikilink")）
+3.  Polaris（[pal@pop](../Page/高野健一.md "wikilink")）
 4.  太陽がいっぱい （石垣愛）
 5.  ノスタルジア（タテ・ミツヲ）
-6.  The Voice Of The Footmark （[石黒彰](https://ja.wikipedia.org/wiki/石黒彰 "wikilink")）
+6.  The Voice Of The Footmark （[石黒彰](../Page/石黒彰.md "wikilink")）
 7.  Historia （pal@pop）
 8.  In Bondage （森岡賢）
 9.  Healing Song （タテ・ミツヲ）

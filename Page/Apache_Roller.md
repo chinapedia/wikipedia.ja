@@ -1,7 +1,7 @@
 > この記事は[Apache Roller](https://ja.wikipedia.org/wiki/Apache_Roller)から翻訳されています。
 
 
-**Apache Roller**（アパッチ・ローラ）は、[Javaベースで](https://ja.wikipedia.org/wiki/Javaプラットフォーム "wikilink")[マルチブログ](https://ja.wikipedia.org/wiki/マルチブログ "wikilink")・[マルチユーザ](https://ja.wikipedia.org/wiki/マルチユーザ "wikilink")機能を兼ね備えた[オープンソース](../Page/オープンソース.md "wikilink")[ブログ](https://ja.wikipedia.org/wiki/ブログ "wikilink")[サーバソフト](../Page/Webサーバ.md "wikilink")。[Apacheプロダクトのひとつ](https://ja.wikipedia.org/wiki/Apacheソフトウェア財団 "wikilink")。
+**Apache Roller**（アパッチ・ローラ）は、[Javaベースで](../Page/Javaプラットフォーム.md "wikilink")[マルチブログ](https://ja.wikipedia.org/wiki/マルチブログ "wikilink")・[マルチユーザ](https://ja.wikipedia.org/wiki/マルチユーザ "wikilink")機能を兼ね備えた[オープンソース](../Page/オープンソース.md "wikilink")[ブログ](../Page/ブログ.md "wikilink")[サーバソフト](../Page/Webサーバ.md "wikilink")。[Apacheプロダクトのひとつ](../Page/Apacheソフトウェア財団.md "wikilink")。
 
 ## 概要
 
@@ -11,9 +11,9 @@
 
 ## 特徴
 
-インストールガイドの前提環境は[Java SE](../Page/Java_Platform,_Standard_Edition.md "wikilink") 5 + [Apache Tomcat](https://ja.wikipedia.org/wiki/Apache_Tomcat "wikilink") 5.5以降または[Sun Web Server](https://ja.wikipedia.org/wiki/Sun_Web_Server "wikilink") 7.0またはProject [GlassFish](https://ja.wikipedia.org/wiki/GlassFish "wikilink") 2.0 ＋ [MySQL](https://ja.wikipedia.org/wiki/MySQL "wikilink")または[Apache Derbyであるのだが](https://ja.wikipedia.org/wiki/Apache_Derby "wikilink")、[Java Servletソフトウェアの性格上](../Page/Java_Servlet.md "wikilink")、動作環境は懐が深い側面を持つ。
+インストールガイドの前提環境は[Java SE](../Page/Java_Platform,_Standard_Edition.md "wikilink") 5 + [Apache Tomcat](https://ja.wikipedia.org/wiki/Apache_Tomcat "wikilink") 5.5以降または[Sun Web Server](https://ja.wikipedia.org/wiki/Sun_Web_Server "wikilink") 7.0またはProject [GlassFish](https://ja.wikipedia.org/wiki/GlassFish "wikilink") 2.0 ＋ [MySQL](https://ja.wikipedia.org/wiki/MySQL "wikilink")または[Apache Derbyであるのだが](../Page/Apache_Derby.md "wikilink")、[Java Servletソフトウェアの性格上](../Page/Java_Servlet.md "wikilink")、動作環境は懐が深い側面を持つ。
 
-  - Servlet 2.4準拠なので、同規格に対応していれば[Webコンテナ](https://ja.wikipedia.org/wiki/Webコンテナ "wikilink")は何でもよい。
+  - Servlet 2.4準拠なので、同規格に対応していれば[Webコンテナ](../Page/Webコンテナ.md "wikilink")は何でもよい。
   - データベースはMySQLまたはApache Derbyが推奨であるが、他に[PostgreSQL](https://ja.wikipedia.org/wiki/PostgreSQL "wikilink")、[IBM DB2](https://ja.wikipedia.org/wiki/DB2 "wikilink")、 [Oracle](../Page/Oracle_Database.md "wikilink")、[HSQLDB](https://ja.wikipedia.org/wiki/HSQLDB "wikilink")のセットアップスクリプトがデフォルトで用意されている。
   - 上記コンテナ環境およびデータベースソフトウェアが動作するのであればどのようなOSでもよい。
 
@@ -45,7 +45,7 @@
 
 2009年10月にリリースされた5.0では以下の機能が追加された。
 
-  - [OpenID](https://ja.wikipedia.org/wiki/OpenID "wikilink")のサポート。
+  - [OpenID](../Page/OpenID.md "wikilink")のサポート。
   - ビデオや画像、オーディオファイルを簡単にアップロードし、管理する機能。
   - 簡単なマルチドメインのサポート。
   - ブログの所有者が他人のコメントを編集する機能。
@@ -54,8 +54,8 @@
 ## 関連項目
 
   - [Apache Tomcat](https://ja.wikipedia.org/wiki/Apache_Tomcat "wikilink")
-  - [ブログ](https://ja.wikipedia.org/wiki/ブログ "wikilink")
-  - [Javaプラットフォーム](https://ja.wikipedia.org/wiki/Javaプラットフォーム "wikilink")
+  - [ブログ](../Page/ブログ.md "wikilink")
+  - [Javaプラットフォーム](../Page/Javaプラットフォーム.md "wikilink")
 
 ## 外部リンク
 

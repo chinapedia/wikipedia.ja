@@ -1,15 +1,15 @@
 > この記事は[Faith \(\)](https://ja.wikipedia.org/wiki/Faith_\(\))から翻訳されています。
 
 
-**faith**（フェイス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性二人組[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")である。2005年に[Venus-B](https://ja.wikipedia.org/wiki/Venus-B "wikilink")（[キングレコード](../Page/キングレコード.md "wikilink")）よりメジャーデビュー。**「クラシック・ミーツ・ヒップホップ」**というキャッチコピーで、[クラシックと](../Page/クラシック音楽.md "wikilink")[ヒップホップ](../Page/ヒップホップ.md "wikilink")（[ブラックミュージック](../Page/ブラックミュージック.md "wikilink")）を合わせた音楽性を確立している。また既存のクラシック楽曲を[サンプリング](../Page/サンプリング.md "wikilink")して用いることは稀であり、楽曲のほぼすべてを一からクラシック調に制作している。2009年7月に活動停止を発表した。
+**faith**（フェイス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性二人組[音楽ユニット](../Page/音楽ユニット.md "wikilink")である。2005年に[Venus-B](https://ja.wikipedia.org/wiki/Venus-B "wikilink")（[キングレコード](../Page/キングレコード.md "wikilink")）よりメジャーデビュー。**「クラシック・ミーツ・ヒップホップ」**というキャッチコピーで、[クラシックと](../Page/クラシック音楽.md "wikilink")[ヒップホップ](../Page/ヒップホップ.md "wikilink")（[ブラックミュージック](../Page/ブラックミュージック.md "wikilink")）を合わせた音楽性を確立している。また既存のクラシック楽曲を[サンプリング](../Page/サンプリング.md "wikilink")して用いることは稀であり、楽曲のほぼすべてを一からクラシック調に制作している。2009年7月に活動停止を発表した。
 
 ## メンバー
 
   - **WEEVA**（ウェーバ） ボーカル
       - 大の車好きでありWEEVAの名前の由来は車のエンジン用[キャブレター](../Page/キャブレター.md "wikilink")メーカーである[WEBERからとっている](https://ja.wikipedia.org/wiki/ウェーバー_\(企業\) "wikilink")。
   - **Jam**（ジャム）　 ボーカル・ラップ・プロデュース・作詞・作曲・トラックメイカー。
-      - 3歳時よりピアノを始め、クラシックからジャズまで音楽を学び11歳時にはピアニストの吉田文子（[国立音楽大学](https://ja.wikipedia.org/wiki/国立音楽大学 "wikilink")助教授）に師事したことがある。またクラシックピアノ専攻で音楽学校に通っていた。
-      - インディーズでSista KAHOとしてデビューし[SOUL'd OUTの](../Page/SOUL'd_OUT.md "wikilink")[リミックス](https://ja.wikipedia.org/wiki/リミックス "wikilink")を手がけた経験がある。
+      - 3歳時よりピアノを始め、クラシックからジャズまで音楽を学び11歳時にはピアニストの吉田文子（[国立音楽大学](../Page/国立音楽大学.md "wikilink")助教授）に師事したことがある。またクラシックピアノ専攻で音楽学校に通っていた。
+      - インディーズでSista KAHOとしてデビューし[SOUL'd OUTの](../Page/SOUL'd_OUT.md "wikilink")[リミックス](../Page/リミックス.md "wikilink")を手がけた経験がある。
 
 ## ディスコグラフィー
 
@@ -127,7 +127,7 @@ LSR-145:LP</p></td>
 <li>Two Futures(instrumental)</li>
 </ol>
 <p>自身初である既存のクラシック楽曲である<a href="../Page/ルートヴィヒ・ヴァン・ベートーヴェン.md" title="wikilink">ベートーベン</a> ピアノ・ソナタ第8番ハ短調「<a href="../Page/ピアノソナタ第8番_(ベートーヴェン).md" title="wikilink">悲愴</a>」を<a href="../Page/サンプリング.md" title="wikilink">サンプリング</a>した楽曲。<br />
-カップリング楽曲である「恋の天使 〜乙女の祈り〜」は、<a href="https://ja.wikipedia.org/wiki/テクラ・バダジェフスカ" title="wikilink">バダジェフスカ</a>「乙女の祈り」をモチーフとした楽曲となっている。</p></td>
+カップリング楽曲である「恋の天使 〜乙女の祈り〜」は、<a href="../Page/テクラ・バダジェフスカ.md" title="wikilink">バダジェフスカ</a>「乙女の祈り」をモチーフとした楽曲となっている。</p></td>
 <td><p>オリコン最高140位</p></td>
 </tr>
 <tr class="even">
@@ -322,13 +322,13 @@ KICS-1422:通常盤</p></td>
 <tbody>
 <tr class="odd">
 <td><p>2003年12月10日</p></td>
-<td><p><a href="../Page/SOUL&#39;d_OUT.md" title="wikilink">SOUL'd OUT</a>「<strong><a href="https://ja.wikipedia.org/wiki/Movies&amp;Remixies" title="wikilink">Movies&amp;Remixies</a></strong>」</p></td>
+<td><p><a href="../Page/SOUL&#39;d_OUT.md" title="wikilink">SOUL'd OUT</a>「<strong><a href="../Page/Movies&amp;Remixies.md" title="wikilink">Movies&amp;Remixies</a></strong>」</p></td>
 <td><p>SECL-51</p></td>
 <td><p>Sista KAHOとしてJamが「True to myself 〜Sista Remix〜」を手がける。</p></td>
 </tr>
 <tr class="even">
 <td><p>2005年5月18日</p></td>
-<td><p>SOUL'd OUT「<strong><a href="https://ja.wikipedia.org/wiki/Movies&amp;Remixies_2" title="wikilink">Movies&amp;Remixies 2</a></strong>」</p></td>
+<td><p>SOUL'd OUT「<strong><a href="../Page/Movies&amp;Remixies_2.md" title="wikilink">Movies&amp;Remixies 2</a></strong>」</p></td>
 <td><p>SECL-197</p></td>
 <td><p>Jamが「ニタニタTHERAPY 〜play the Piano Jam remix〜」を手がける。</p></td>
 </tr>
@@ -340,7 +340,7 @@ KICS-1422:通常盤</p></td>
 </tr>
 <tr class="even">
 <td><p>2009年1月14日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/MAY&#39;S" title="wikilink">MAY'S</a>「<strong><a href="https://ja.wikipedia.org/wiki/Dreaming" title="wikilink">Dreaming</a></strong>」</p></td>
+<td><p><a href="../Page/MAY&#39;S.md" title="wikilink">MAY'S</a>「<strong><a href="https://ja.wikipedia.org/wiki/Dreaming" title="wikilink">Dreaming</a></strong>」</p></td>
 <td><p>KICS-91415<br />
 KICS-1415</p></td>
 <td><p>M-4「THANK♥YOU feat. Jam (faith)」をJamがプロデュース&amp;Vo参加。</p></td>

@@ -1,13 +1,13 @@
 > この記事は[ANOTHER SINGLES](https://ja.wikipedia.org/wiki/ANOTHER_SINGLES)から翻訳されています。
 
 
-『**ANOTHER SINGLES**』（アナザー・シングルス）は、[Janne Da Arcの](https://ja.wikipedia.org/wiki/Janne_Da_Arc "wikilink")[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")＋α集。
+『**ANOTHER SINGLES**』（アナザー・シングルス）は、[Janne Da Arcの](../Page/Janne_Da_Arc.md "wikilink")[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")＋α集。
 
 ## 内容
 
 1枚目の[シングル](../Page/シングル.md "wikilink")「RED ZONE」のカップリング曲「seal」から16枚目のシングル、「餓えた太陽」のカップリング曲「MEDICAL BODY」までと、未発表音源「Who am I?」を収録した裏ベスト盤的作品。
 
-シングル曲などを収録したシングル集『[SINGLES](https://ja.wikipedia.org/wiki/SINGLES_\(Janne_Da_Arcのアルバム\) "wikilink")』との同時発売だが、品番の関係上こちらが先になるので、ディスコグラフィーでは先者となる。キャッチフレーズは『**このアルバムを「裏ベスト版」と呼ばないで\!**』。ベストな選曲ではなく、単なる[c/w](https://ja.wikipedia.org/wiki/c/w "wikilink")曲コレクションであるという意味合いが込められている。
+シングル曲などを収録したシングル集『[SINGLES](../Page/SINGLES_\(Janne_Da_Arcのアルバム\).md "wikilink")』との同時発売だが、品番の関係上こちらが先になるので、ディスコグラフィーでは先者となる。キャッチフレーズは『**このアルバムを「裏ベスト版」と呼ばないで\!**』。ベストな選曲ではなく、単なる[c/w](https://ja.wikipedia.org/wiki/c/w "wikilink")曲コレクションであるという意味合いが込められている。
 
 初回盤はトレーディングカード封入（全5種類）。
 
@@ -15,9 +15,9 @@
 
 楽曲の詳細は、各項目を参照。
 
-1.  **[seal](https://ja.wikipedia.org/wiki/RED_ZONE_\(Janne_Da_Arcの曲\) "wikilink")**
+1.  **[seal](../Page/RED_ZONE_\(Janne_Da_Arcの曲\).md "wikilink")**
       -
-        (作詞:[yasu](https://ja.wikipedia.org/wiki/yasu "wikilink") 作曲:[you](https://ja.wikipedia.org/wiki/You_\(Janne_Da_Arc\) "wikilink")\&yasu)
+        (作詞:[yasu](https://ja.wikipedia.org/wiki/yasu "wikilink") 作曲:[you](../Page/You_\(Janne_Da_Arc\).md "wikilink")\&yasu)
 2.  **[FAKE](https://ja.wikipedia.org/wiki/Lunatic_Gate "wikilink")**
       -
         (作詞:yasu 作曲:Janne Da Arc)
@@ -30,7 +30,7 @@
 5.  **[IMAGE or...](https://ja.wikipedia.org/wiki/will_〜地図にない場所〜 "wikilink")**
       -
         (作詞:yasu 作曲:kiyo)
-6.  **[differ](https://ja.wikipedia.org/wiki/Mysterious_\(Janne_Da_Arcの曲\) "wikilink")**
+6.  **[differ](../Page/Mysterious_\(Janne_Da_Arcの曲\).md "wikilink")**
       -
         (作詞:you\&yasu 作曲:you)
 7.  **[Blue Tear 〜人魚の涙〜](https://ja.wikipedia.org/wiki/Dry? "wikilink")**

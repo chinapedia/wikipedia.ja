@@ -1,13 +1,13 @@
 > この記事は[H](https://ja.wikipedia.org/wiki/H)から翻訳されています。
 
 
-**h抜き**（エイチぬき、エッチぬき）とは、[ウェブ上の](../Page/World_Wide_Web.md "wikilink")[電子掲示板](https://ja.wikipedia.org/wiki/電子掲示板 "wikilink")などにおいて、[ウェブサイト](../Page/ウェブサイト.md "wikilink")の[URLを書き込む際に先頭の](../Page/Uniform_Resource_Locator.md "wikilink")"**h**"などを抜いて書き込む行為を指す。
+**h抜き**（エイチぬき、エッチぬき）とは、[ウェブ上の](../Page/World_Wide_Web.md "wikilink")[電子掲示板](../Page/電子掲示板.md "wikilink")などにおいて、[ウェブサイト](../Page/ウェブサイト.md "wikilink")の[URLを書き込む際に先頭の](../Page/Uniform_Resource_Locator.md "wikilink")"**h**"などを抜いて書き込む行為を指す。
 
 「**http://**」で始まるアドレスから先頭の"**h**"が抜かれるために「h抜き」と呼ばれている。
 
 ## 概要
 
-インターネット上の掲示板や[コンテンツ管理システム](https://ja.wikipedia.org/wiki/コンテンツ管理システム "wikilink") (CMS) 等のシステムでは、URL文字列を書き込むと、自動的に[リンクとして扱う](../Page/ハイパーリンク.md "wikilink")=リンクタグを補完する「自動リンク機能」が実装されている場合が多い（[ウィキペディア](https://ja.wikipedia.org/wiki/ウィキペディア "wikilink")のサーバーで使用されている[Wikiプログラム](../Page/ウィキ.md "wikilink")[MediaWiki](https://ja.wikipedia.org/wiki/MediaWiki "wikilink")もそうである）。しかし、ユーザーが自動リンクされるのを避けたいケースもあり、h抜きはその回避手段として編み出されたと言える。
+インターネット上の掲示板や[コンテンツ管理システム](../Page/コンテンツ管理システム.md "wikilink") (CMS) 等のシステムでは、URL文字列を書き込むと、自動的に[リンクとして扱う](../Page/ハイパーリンク.md "wikilink")=リンクタグを補完する「自動リンク機能」が実装されている場合が多い（[ウィキペディア](../Page/ウィキペディア.md "wikilink")のサーバーで使用されている[Wikiプログラム](../Page/ウィキ.md "wikilink")[MediaWiki](../Page/MediaWiki.md "wikilink")もそうである）。しかし、ユーザーが自動リンクされるのを避けたいケースもあり、h抜きはその回避手段として編み出されたと言える。
 
 h抜きが発生したのは上記自動リンク機能の一般化とほぼ同時期と考えられる。
 
@@ -50,7 +50,7 @@ ttp://とする以外にも、以下のような手段が使われている。
 
 クライアント側（ブラウザ）の拡張機能として文書中のURL文字列を自動的にハイパーリンクとして扱うものもあり、その多くはttpをhttpと同等に処理する。
 
-  - [Sleipnir](https://ja.wikipedia.org/wiki/Sleipnir "wikilink")
+  - [Sleipnir](../Page/Sleipnir.md "wikilink")
     アドレスバーにh抜きで打ち込んだ場合、自動的にhttpに補完する。
   - [2ちゃんねるブラウザ](../Page/2ちゃんねるブラウザ.md "wikilink")各種
     レス中のh抜きを補完してリンクを作成するものが多い。
@@ -68,8 +68,8 @@ ttp://とする以外にも、以下のような手段が使われている。
 
 ## 関連項目
 
-  - [HTML要素](https://ja.wikipedia.org/wiki/HTML要素 "wikilink")
+  - [HTML要素](../Page/HTML要素.md "wikilink")
   - [ハイパーリンク](../Page/ハイパーリンク.md "wikilink")
-  - [無断リンク](https://ja.wikipedia.org/wiki/無断リンク "wikilink")
+  - [無断リンク](../Page/無断リンク.md "wikilink")
 
 [Category:インターネットの文化](https://ja.wikipedia.org/wiki/Category:インターネットの文化 "wikilink") [Category:Uniform_Resource_Locator](https://ja.wikipedia.org/wiki/Category:Uniform_Resource_Locator "wikilink")

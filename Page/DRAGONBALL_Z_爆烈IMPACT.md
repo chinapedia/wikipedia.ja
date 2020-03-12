@@ -1,9 +1,9 @@
 > この記事は[DRAGONBALL Z IMPACT](https://ja.wikipedia.org/wiki/DRAGONBALL_Z_IMPACT)から翻訳されています。
 
 
-『**ドラゴンボール Z 爆烈IMPACT**』（ドラゴンボールゼット ばくれつインパクト）は、[バンダイ](../Page/バンダイ.md "wikilink")より発売されている[トレーディングカード](../Page/トレーディングカード.md "wikilink")を使用する[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")『[データカードダス](https://ja.wikipedia.org/wiki/データカードダス "wikilink")』の一つ。『[データカードダス ドラゴンボールZシリーズ](https://ja.wikipedia.org/wiki/データカードダス_ドラゴンボールZシリーズ "wikilink")』の3作目である。
+『**ドラゴンボール Z 爆烈IMPACT**』（ドラゴンボールゼット ばくれつインパクト）は、[バンダイ](../Page/バンダイ.md "wikilink")より発売されている[トレーディングカード](../Page/トレーディングカード.md "wikilink")を使用する[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")『[データカードダス](../Page/データカードダス.md "wikilink")』の一つ。『[データカードダス ドラゴンボールZシリーズ](https://ja.wikipedia.org/wiki/データカードダス_ドラゴンボールZシリーズ "wikilink")』の3作目である。
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")\[1\]から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月](../Page/6月.md "wikilink")下旬にかけて稼働し、2008年5月に稼働開始した続編の『[ドラゴンボールZ W爆烈IMPACT](https://ja.wikipedia.org/wiki/ドラゴンボールZ_W爆烈IMPACT "wikilink")』の登場によって稼働終了した。
+[2007年](../Page/2007年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")\[1\]から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月](../Page/6月.md "wikilink")下旬にかけて稼働し、2008年5月に稼働開始した続編の『[ドラゴンボールZ W爆烈IMPACT](https://ja.wikipedia.org/wiki/ドラゴンボールZ_W爆烈IMPACT "wikilink")』の登場によって稼働終了した。
 
 ## 遊び方
 
@@ -33,7 +33,7 @@
 
 ## 新キャラクター
 
-本作で追加されたキャラクター。[ピッコロ大魔王は姿のみは](https://ja.wikipedia.org/wiki/ピッコロ_\(ドラゴンボール\)#ピッコロ大魔王 "wikilink")『[ドラゴンボールZ3](https://ja.wikipedia.org/wiki/ドラゴンボールZ3 "wikilink")』で登場していたが、原作の[声優](../Page/声優.md "wikilink")である[青野武](../Page/青野武.md "wikilink")が声を担当したのがこれが初。[孫悟空GT](https://ja.wikipedia.org/wiki/孫悟空_\(ドラゴンボール\) "wikilink")、パイクーハン、ジャネンバ、スーパーベビー2、超17号は後の『ドラゴンボールZ インフィニットワールド』で登場している。
+本作で追加されたキャラクター。[ピッコロ大魔王は姿のみは](https://ja.wikipedia.org/wiki/ピッコロ_\(ドラゴンボール\)#ピッコロ大魔王 "wikilink")『[ドラゴンボールZ3](../Page/ドラゴンボールZ3.md "wikilink")』で登場していたが、原作の[声優](../Page/声優.md "wikilink")である[青野武](../Page/青野武.md "wikilink")が声を担当したのがこれが初。[孫悟空GT](../Page/孫悟空_\(ドラゴンボール\).md "wikilink")、パイクーハン、ジャネンバ、スーパーベビー2、超17号は後の『ドラゴンボールZ インフィニットワールド』で登場している。
 
 :\*マイティマスク（通常、超サイヤ人）
 
@@ -286,19 +286,19 @@
 
   - フュージョン
 
-対象カードの悟天、トランクスをスキャンした場合[ゴテンクス](https://ja.wikipedia.org/wiki/ゴテンクス "wikilink")になる。 ただし、2枚目のカードに「フュージョン」がなかった場合ゴテンクス（失敗）になる。
+対象カードの悟天、トランクスをスキャンした場合[ゴテンクス](../Page/ゴテンクス.md "wikilink")になる。 ただし、2枚目のカードに「フュージョン」がなかった場合ゴテンクス（失敗）になる。
 
-1枚目に対象カードの悟空（フュージョン）2枚目に[ベジータ](https://ja.wikipedia.org/wiki/ベジータ "wikilink")（超サイヤ人2）をスキャンした場合ゴジータになる。 ただし、2枚目のカードに超サイヤ人2以外のベジータをスキャンした場合ベクウ（失敗）になる。
+1枚目に対象カードの悟空（フュージョン）2枚目に[ベジータ](../Page/ベジータ.md "wikilink")（超サイヤ人2）をスキャンした場合ゴジータになる。 ただし、2枚目のカードに超サイヤ人2以外のベジータをスキャンした場合ベクウ（失敗）になる。
 
 超サイヤ人4の孫悟空と超サイヤ人4のベジータの2枚のカードをスキャンするとゴジータ（超サイヤ人4）になる。
 
   - ポタラ
 
-対象カードの悟空、ベジータをスキャンした場合ベジットになる。 また、悟空、[ミスター・サタン](https://ja.wikipedia.org/wiki/ミスター・サタン "wikilink")（ポタラ）をスキャンした場合はゴタンになる。
+対象カードの悟空、ベジータをスキャンした場合ベジットになる。 また、悟空、[ミスター・サタン](../Page/ミスター・サタン.md "wikilink")（ポタラ）をスキャンした場合はゴタンになる。
 
   - 真吸収
 
-対象カードの[魔人ブウ](https://ja.wikipedia.org/wiki/魔人ブウ "wikilink")のあとに[ピッコロ](https://ja.wikipedia.org/wiki/ピッコロ_\(ドラゴンボール\)#ピッコロ（マジュニア） "wikilink")（精神の時の部屋）、[孫悟飯](https://ja.wikipedia.org/wiki/孫悟飯 "wikilink")（青年・老界王神の潜在能力解放）、ゴテンクス（超サイヤ人3）をスキャンした場合その時のコストは無くなりそれぞれのキャラクターを吸収した状態となり、アタックレベル・AT/HPが変化し、それぞれの技が出せるようになる。
+対象カードの[魔人ブウ](../Page/魔人ブウ.md "wikilink")のあとに[ピッコロ](https://ja.wikipedia.org/wiki/ピッコロ_\(ドラゴンボール\)#ピッコロ（マジュニア） "wikilink")（精神の時の部屋）、[孫悟飯](../Page/孫悟飯.md "wikilink")（青年・老界王神の潜在能力解放）、ゴテンクス（超サイヤ人3）をスキャンした場合その時のコストは無くなりそれぞれのキャラクターを吸収した状態となり、アタックレベル・AT/HPが変化し、それぞれの技が出せるようになる。
 
   - 吸収
 
@@ -306,11 +306,11 @@
 
 ## 関連項目
 
-  - [データカードダス](https://ja.wikipedia.org/wiki/データカードダス "wikilink")
+  - [データカードダス](../Page/データカードダス.md "wikilink")
 
 <!-- end list -->
 
-  - [和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink") - [バラエティ](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")[トーク番組](https://ja.wikipedia.org/wiki/トーク番組 "wikilink")『[雨上がり決死隊のトーク番組アメトーーク\!](https://ja.wikipedia.org/wiki/雨上がり決死隊のトーク番組アメトーーク! "wikilink")』の企画で本当のカードとなって登場。超サイヤ人3の[悟空と戦い](https://ja.wikipedia.org/wiki/孫悟空_\(ドラゴンボール\) "wikilink")、「[かめはめ波](https://ja.wikipedia.org/wiki/かめはめ波 "wikilink")」や「瞬間移動かめはめ波」を見せた。悟空を圧倒し超サイヤ人3の変身を解いたが、悟空の究極技「超元気玉」に敗れる。
+  - [和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink") - [バラエティ](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")[トーク番組](../Page/トーク番組.md "wikilink")『[雨上がり決死隊のトーク番組アメトーーク\!](../Page/雨上がり決死隊のトーク番組アメトーーク!.md "wikilink")』の企画で本当のカードとなって登場。超サイヤ人3の[悟空と戦い](../Page/孫悟空_\(ドラゴンボール\).md "wikilink")、「[かめはめ波](../Page/かめはめ波.md "wikilink")」や「瞬間移動かめはめ波」を見せた。悟空を圧倒し超サイヤ人3の変身を解いたが、悟空の究極技「超元気玉」に敗れる。
 
 ## 脚注
 

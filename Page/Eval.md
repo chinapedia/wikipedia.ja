@@ -1,24 +1,24 @@
 > この記事は[Eval](https://ja.wikipedia.org/wiki/Eval)から翻訳されています。
 
 
-**eval**（イーバル）はいくつかの[プログラミング言語](../Page/プログラミング言語.md "wikilink")が持つ、[文字列](https://ja.wikipedia.org/wiki/文字列 "wikilink")を[式として評価する](https://ja.wikipedia.org/wiki/式_\(プログラミング\) "wikilink")[関数](https://ja.wikipedia.org/wiki/関数_\(プログラミング\) "wikilink")、または複数の[文を](https://ja.wikipedia.org/wiki/文_\(プログラミング\) "wikilink")[プログラム中のあるコンテキストで実行する](../Page/プログラム_\(コンピュータ\).md "wikilink")[サブルーチン](https://ja.wikipedia.org/wiki/サブルーチン "wikilink")である。
+**eval**（イーバル）はいくつかの[プログラミング言語](../Page/プログラミング言語.md "wikilink")が持つ、[文字列](../Page/文字列.md "wikilink")を[式として評価する](../Page/式_\(プログラミング\).md "wikilink")[関数](https://ja.wikipedia.org/wiki/関数_\(プログラミング\) "wikilink")、または複数の[文を](https://ja.wikipedia.org/wiki/文_\(プログラミング\) "wikilink")[プログラム中のあるコンテキストで実行する](../Page/プログラム_\(コンピュータ\).md "wikilink")[サブルーチン](../Page/サブルーチン.md "wikilink")である。
 
 evalの類の機能は[コンパイラ](../Page/コンパイラ.md "wikilink")言語よりも[インタプリタ](../Page/インタプリタ.md "wikilink")言語でより一般的である。なぜならコンパイラ言語でこのような機能を実現するには、プログラム自体に言語[処理系](https://ja.wikipedia.org/wiki/処理系 "wikilink")や（変数名などの）実行時情報を埋め込む必要があるからである。evalに近い機能を実現しているコンパイラ言語も存在する。
 
 ## セキュリティ上のリスク
 
-信頼されないソースからのデータをevalするときには特に注意が必要である。例として[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")上からデータを得る `get_data()` 関数を考える。次の擬似コードのようなプログラムは潜在的に危険である。
+信頼されないソースからのデータをevalするときには特に注意が必要である。例として[インターネット](../Page/インターネット.md "wikilink")上からデータを得る `get_data()` 関数を考える。次の擬似コードのようなプログラムは潜在的に危険である。
 
 `data = get_data()`
 `foo = eval(data)`
 
-攻撃者がこのプログラムに例えば `"delete_system_files()"` という[文字列](https://ja.wikipedia.org/wiki/文字列 "wikilink")を与えることができると、`delete_system_files()` 関数が実行されてしまい、重要なファイルが消されてしまうかもしれない。これを防ぐためには、evalされる文字列はすべてエスケープしたり、潜在的に危険な機能を利用できないようにして実行するなどの対策が必要となる。[プログラミング言語](../Page/プログラミング言語.md "wikilink")によっては、外部から入力されたデータを「汚染されている」として印をつけるものもある。
+攻撃者がこのプログラムに例えば `"delete_system_files()"` という[文字列](../Page/文字列.md "wikilink")を与えることができると、`delete_system_files()` 関数が実行されてしまい、重要なファイルが消されてしまうかもしれない。これを防ぐためには、evalされる文字列はすべてエスケープしたり、潜在的に危険な機能を利用できないようにして実行するなどの対策が必要となる。[プログラミング言語](../Page/プログラミング言語.md "wikilink")によっては、外部から入力されたデータを「汚染されている」として印をつけるものもある。
 
 ## 適切な使用
 
 evalは非常に強力なため、経験の浅い[プログラマ](../Page/プログラマ.md "wikilink")は何でもevalを使って済ませてしまうことがある。たいてい、そのような場合には専用のより良い選択肢が存在し、コードのパースにかかる時間が節約できる。
 
-例えば、evalは簡易[テンプレートエンジン](https://ja.wikipedia.org/wiki/テンプレートエンジン "wikilink")として使われることがある。[PHPでの例を示す](../Page/PHP_\(プログラミング言語\).md "wikilink")。
+例えば、evalは簡易[テンプレートエンジン](../Page/テンプレートエンジン.md "wikilink")として使われることがある。[PHPでの例を示す](../Page/PHP_\(プログラミング言語\).md "wikilink")。
 
 ``` php
 $name = 'John Doe';
@@ -31,19 +31,19 @@ print eval("return $template;")
 
 eval は[表計算ソフト](../Page/表計算ソフト.md "wikilink")などの数式を評価する必要のあるアプリケーションで使われることがある。これは数式のパーサを自作するよりも手軽だが、自作や既存の専用のパーサを利用するほうがより良い。前述の問題点に加え、言語組み込みのevalはアプリケーション用にカスタマイズできないからである。
 
-おそらく、evalの最も優れた使い道は（[LISP](https://ja.wikipedia.org/wiki/LISP "wikilink")などでの）[処理系のブートストラップや](https://ja.wikipedia.org/wiki/ブートストラップ問題 "wikilink")、言語の[対話的な実行環境でユーザが書いたプログラムを実行することであろう](https://ja.wikipedia.org/wiki/インタラクティブシェル "wikilink")。
+おそらく、evalの最も優れた使い道は（[LISP](https://ja.wikipedia.org/wiki/LISP "wikilink")などでの）[処理系のブートストラップや](../Page/ブートストラップ問題.md "wikilink")、言語の[対話的な実行環境でユーザが書いたプログラムを実行することであろう](https://ja.wikipedia.org/wiki/インタラクティブシェル "wikilink")。
 
 ## 実装
 
 インタプリタ言語ではevalは通常のコードと同じインタプリタで実装されるのがほとんどである。
 
-コンパイラ言語ではevalを実装するために通常のコンパイラをプログラムに埋め込むこともある。また特別のインタプリタを使うこともあり、その場合は[コードの重複が問題となる](https://ja.wikipedia.org/wiki/重複コード "wikilink")。
+コンパイラ言語ではevalを実装するために通常のコンパイラをプログラムに埋め込むこともある。また特別のインタプリタを使うこともあり、その場合は[コードの重複が問題となる](../Page/重複コード.md "wikilink")。
 
 ## 実例
 
 ### JavaScript, ActionScript
 
-[JavaScript](../Page/JavaScript.md "wikilink")や[ActionScript](https://ja.wikipedia.org/wiki/ActionScript "wikilink")においては、evalは式の評価器と文の実行器のハイブリッドのような存在である。evalは最後に評価された式の値を返し（JavaScriptとActionScriptではすべての文は式である）、最後のセミコロンは省くことができる。
+[JavaScript](../Page/JavaScript.md "wikilink")や[ActionScript](../Page/ActionScript.md "wikilink")においては、evalは式の評価器と文の実行器のハイブリッドのような存在である。evalは最後に評価された式の値を返し（JavaScriptとActionScriptではすべての文は式である）、最後のセミコロンは省くことができる。
 
 式評価器としての例:
 
@@ -59,7 +59,7 @@ foo = 2;
 eval('foo = foo + 2;alert(foo);');
 ```
 
-JavaScriptでのevalの使用の一例は[Ajax](https://ja.wikipedia.org/wiki/Ajax "wikilink")などにおける[JSONのパースである](https://ja.wikipedia.org/wiki/JavaScript_Object_Notation "wikilink")。しかし、現在は多くのブラウザでより特化したJSON.parseが定義されている。
+JavaScriptでのevalの使用の一例は[Ajax](https://ja.wikipedia.org/wiki/Ajax "wikilink")などにおける[JSONのパースである](../Page/JavaScript_Object_Notation.md "wikilink")。しかし、現在は多くのブラウザでより特化したJSON.parseが定義されている。
 
 ActionScriptではevalを任意の式を評価するために使うことはできない。[Flash](../Page/Adobe_Flash.md "wikilink") 8のドキュメントによれば、その使用は「変数、プロパティ、オブジェクト、ムービークリップの名前」を表す式に限られ、「パラメータはStringまたはオブジェクトのインスタンスへの直接の参照のどちらでもよい」\[1\]。
 
@@ -137,7 +137,7 @@ PostScriptでは `run` 演算子も似た機能を持つが、代わりにイン
 
 ### ColdFusion
 
-[ColdFusion](https://ja.wikipedia.org/wiki/ColdFusion "wikilink")の `evaluate` 関数は文字列で与えられた式を実行時に評価することができる。
+[ColdFusion](../Page/ColdFusion.md "wikilink")の `evaluate` 関数は文字列で与えられた式を実行時に評価することができる。
 
 ``` cfm
 <cfset x = "int(1+1)">
@@ -152,7 +152,7 @@ PostScriptでは `run` 演算子も似た機能を持つが、代わりにイン
 
 ### Ruby
 
-[Ruby](../Page/Ruby.md "wikilink")には式を評価するコンテキストごとに3種類のevalが存在する。`eval` はその場またはProcやBindingオブジェクト、`instance_eval` はインスタンス、`module_eval`（別名は`class_eval`）はモジュールかクラス、それぞれのコンテキストで評価を行う。なお、評価コンテキスト変更のために`instance_eval`や`module_eval`を使う場合、文字列でなく[ブロックを引数とすることができる](https://ja.wikipedia.org/wiki/ブロック_\(プログラミング\) "wikilink")\[2\]。
+[Ruby](../Page/Ruby.md "wikilink")には式を評価するコンテキストごとに3種類のevalが存在する。`eval` はその場またはProcやBindingオブジェクト、`instance_eval` はインスタンス、`module_eval`（別名は`class_eval`）はモジュールかクラス、それぞれのコンテキストで評価を行う。なお、評価コンテキスト変更のために`instance_eval`や`module_eval`を使う場合、文字列でなく[ブロックを引数とすることができる](../Page/ブロック_\(プログラミング\).md "wikilink")\[2\]。
 
 `eval`の例（メソッドfooのコンテキストで評価している）:
 

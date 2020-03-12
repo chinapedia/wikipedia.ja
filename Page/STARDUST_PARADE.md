@@ -1,11 +1,11 @@
 > この記事は[STARDUST PARADE](https://ja.wikipedia.org/wiki/STARDUST_PARADE)から翻訳されています。
 
 
-**STARDUST PARADE**（スターダストパレード）は、1996年4月～2016年3月まで[エフエム京都](../Page/エフエム京都.md "wikilink")（α-station）で放送されていた[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")。
+**STARDUST PARADE**（スターダストパレード）は、1996年4月～2016年3月まで[エフエム京都](../Page/エフエム京都.md "wikilink")（α-station）で放送されていた[音楽番組](../Page/音楽番組.md "wikilink")。
 
 ## 概要
 
-  - 番組開始から2015年3月までは、すべて[リスナー](https://ja.wikipedia.org/wiki/リスナー "wikilink")からのリクエストで当番組は成り立っていた。α-stationの選曲基準に従った上で[邦楽](../Page/邦楽.md "wikilink")・[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")を新旧問わず放送いた。
+  - 番組開始から2015年3月までは、すべて[リスナー](../Page/リスナー.md "wikilink")からのリクエストで当番組は成り立っていた。α-stationの選曲基準に従った上で[邦楽](../Page/邦楽.md "wikilink")・[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")を新旧問わず放送いた。
   - 2015年4月の改編で1時間番組に短縮されたことをきっかけに"**あなたの思い出に寄り添う青春ヒットチューンプログラム**"としてリニューアル。同改編以降は番組前半をディレクターが選曲した楽曲を放送し、リスナーからのメッセージやリクエストは番組後半に固めて放送している。
   - 番組内コーナー"DAILY HOT ATTACK"（デイリー・ホット・アタック）は、毎日の音楽ニュースや芸能ニュース、番組の内容をフラッシュ形式で紹介するコーナーで番組の冒頭で行われる。
   - 番組内コーナー"STARDUST FAVORITES"（スターダスト・フェイバリッツ）は、1つの[アーティストの楽曲のリクエストのみを放送し](../Page/歌手.md "wikilink")、コーナー開始時には特集アーティストの楽曲のフラッシュ（[メドレー](../Page/メドレー.md "wikilink")）が放送される。[番組表](https://ja.wikipedia.org/wiki/番組表 "wikilink")で「○○特集」とあるのは当コーナーのことである。
@@ -14,26 +14,26 @@
 
 ## 歴史
 
-  - 1996年4月放送開始。開始当初の放送時間は月～木曜の22:00 - 24:00で、[長田和彦](https://ja.wikipedia.org/wiki/長田和彦 "wikilink")が[DJ](https://ja.wikipedia.org/wiki/DJ "wikilink")を務めていた。
+  - 1996年4月放送開始。開始当初の放送時間は月～木曜の22:00 - 24:00で、[長田和彦](../Page/長田和彦.md "wikilink")が[DJ](https://ja.wikipedia.org/wiki/DJ "wikilink")を務めていた。
       - 1995年10月～1996年3月の期間、週末深夜に同名のノンDJゾーンが存在したが、これは当番組とは関係がない。
   - 1998年4月～1999年3月に番組枠を金曜まで拡大。
   - 2005年4月に番組枠を再度金曜まで拡大。金曜版は[川原ちかよ](../Page/川原ちかよ.md "wikilink")が担当することとなった。
-  - 2006年[3月31日](../Page/3月31日.md "wikilink")をもって長田は降板。同年[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")から[マツモトアキノリ](https://ja.wikipedia.org/wiki/マツモトアキノリ "wikilink")が月 - 木曜を担当することとなった。
+  - 2006年[3月31日](../Page/3月31日.md "wikilink")をもって長田は降板。同年[4月3日](../Page/4月3日.md "wikilink")から[マツモトアキノリ](https://ja.wikipedia.org/wiki/マツモトアキノリ "wikilink")が月 - 木曜を担当することとなった。
   - 2009年4月をもって川原ちかよは番組を降板。金曜版はその後[西田育弘の担当となった](https://ja.wikipedia.org/wiki/西田育弘_\(DJ\) "wikilink")。
   - 2012年3月をもって金曜版が終了。後番組はα-KYOTO CONTENTS FILE。
-  - 2013年3月をもってマツモトアキノリは降板。4月から放送時間が21:00 - 23:00に1時間繰り上がりとなり、後任として[林智美](https://ja.wikipedia.org/wiki/林智美 "wikilink")が担当。
+  - 2013年3月をもってマツモトアキノリは降板。4月から放送時間が21:00 - 23:00に1時間繰り上がりとなり、後任として[林智美](../Page/林智美.md "wikilink")が担当。
   - 2015年3月をもって林智美が降板。4月から放送時間が1時間短縮されて月～木曜の22:00 - 23:00となり、後任として[前田彩名](https://ja.wikipedia.org/wiki/前田彩名 "wikilink")が担当。
   - 2016年3月31日をもって当番組が終了。これに伴い、前田は[α-DAYLIGHT CALL](https://ja.wikipedia.org/wiki/α-DAYLIGHT_CALL "wikilink")（日曜版）を担当することになった。
 
 ## DJの変遷
 
-  - [1996年](../Page/1996年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")：[長田和彦](https://ja.wikipedia.org/wiki/長田和彦 "wikilink")
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")：長田和彦（月 - 木）, [川原ちかよ](../Page/川原ちかよ.md "wikilink")（金）
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - [2009年](../Page/2009年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")：[マツモトアキノリ](https://ja.wikipedia.org/wiki/マツモトアキノリ "wikilink")（月 - 木）, 川原ちかよ（金）
+  - [1996年](../Page/1996年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - [2005年](../Page/2005年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")：[長田和彦](../Page/長田和彦.md "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - [2006年](../Page/2006年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")：長田和彦（月 - 木）, [川原ちかよ](../Page/川原ちかよ.md "wikilink")（金）
+  - [2006年](../Page/2006年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - [2009年](../Page/2009年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")：[マツモトアキノリ](https://ja.wikipedia.org/wiki/マツモトアキノリ "wikilink")（月 - 木）, 川原ちかよ（金）
   - [2009年](../Page/2009年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - [2012年](../Page/2012年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")：マツモトアキノリ（月 - 木）, [西田育弘](https://ja.wikipedia.org/wiki/西田育弘_\(DJ\) "wikilink")（金）
       - 2010年[1月](https://ja.wikipedia.org/wiki/1月 "wikilink") - [3月](https://ja.wikipedia.org/wiki/3月 "wikilink")の期間、金曜担当の西田は"[CHUMMY TRAIN](https://ja.wikipedia.org/wiki/CHUMMY_TRAIN "wikilink")"の15時台も担当していた。
   - [2012年](../Page/2012年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - [2013年](../Page/2013年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")：マツモトアキノリ
-  - [2013年](../Page/2013年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - [2015年](../Page/2015年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")：[林智美](https://ja.wikipedia.org/wiki/林智美 "wikilink")
+  - [2013年](../Page/2013年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - [2015年](../Page/2015年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")：[林智美](../Page/林智美.md "wikilink")
   - [2015年](../Page/2015年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - [2016年](../Page/2016年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")：[前田彩名](https://ja.wikipedia.org/wiki/前田彩名 "wikilink")
 
 ## 番組終了とその後
@@ -50,8 +50,8 @@
 
 ## 備考
 
-  - 金曜日のDJであった川原ちかよは、学生時代に当番組の[ADを務めていた](https://ja.wikipedia.org/wiki/アシスタントディレクター "wikilink")。
-  - 長田和彦がDJだった時代は、エンディングテーマとして、[ヴァン・マッコイ](https://ja.wikipedia.org/wiki/ヴァン・マッコイ "wikilink")のハッスルをリミックスした曲がBGMとしてかけられていた。マツモトに変わってからもしばらくはそのままであったが、現在は異なる。
+  - 金曜日のDJであった川原ちかよは、学生時代に当番組の[ADを務めていた](../Page/アシスタントディレクター.md "wikilink")。
+  - 長田和彦がDJだった時代は、エンディングテーマとして、[ヴァン・マッコイ](../Page/ヴァン・マッコイ.md "wikilink")のハッスルをリミックスした曲がBGMとしてかけられていた。マツモトに変わってからもしばらくはそのままであったが、現在は異なる。
 
 ## 脚注
 

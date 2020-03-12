@@ -1,7 +1,7 @@
 > この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
 
 
-**ククタ・デポルティーボFC** () は、[コロンビア](../Page/コロンビア.md "wikilink")の[ノルテ・デ・サンタンデール県](https://ja.wikipedia.org/wiki/ノルテ・デ・サンタンデール県 "wikilink")[ククタ](https://ja.wikipedia.org/wiki/ククタ "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
+**ククタ・デポルティーボFC** () は、[コロンビア](../Page/コロンビア.md "wikilink")の[ノルテ・デ・サンタンデール県](https://ja.wikipedia.org/wiki/ノルテ・デ・サンタンデール県 "wikilink")[ククタ](../Page/ククタ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
 
 2006年のコロンビア後期[リーグ](https://ja.wikipedia.org/wiki/リーグ "wikilink")で、クラブ初の[リーグ優勝を遂げた](https://ja.wikipedia.org/wiki/コロンビア・プロサッカーリーグ "wikilink")。
 
@@ -47,7 +47,7 @@
 
   - [ジョゼ・カルロス・セホーン](https://ja.wikipedia.org/wiki/ジョゼ・カルロス・セホーン "wikilink") 1980
 
-  - [ファウスティーノ・アスプリージャ](https://ja.wikipedia.org/wiki/ファウスティーノ・アスプリージャ "wikilink") 1988-1989
+  - [ファウスティーノ・アスプリージャ](../Page/ファウスティーノ・アスプリージャ.md "wikilink") 1988-1989
 
   - [ルベルス・モラン](https://ja.wikipedia.org/wiki/ルベルス・モラン "wikilink") 2006
 

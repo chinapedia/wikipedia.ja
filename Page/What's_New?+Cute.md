@@ -1,15 +1,15 @@
 > この記事は[What\'s New\?+Cute](https://ja.wikipedia.org/wiki/What\'s_New\?+Cute)から翻訳されています。
 
 
-**What's New?Cute**（ワッツニューキュート）は、[札幌テレビ放送](https://ja.wikipedia.org/wiki/札幌テレビ放送 "wikilink")（STV）にて毎週[木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink")深夜に放送されていた[情報](https://ja.wikipedia.org/wiki/情報 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。
+**What's New?Cute**（ワッツニューキュート）は、[札幌テレビ放送](../Page/札幌テレビ放送.md "wikilink")（STV）にて毎週[木曜日](../Page/木曜日.md "wikilink")深夜に放送されていた[情報](https://ja.wikipedia.org/wiki/情報 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。
 
 ## 概要
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")から[2012年](../Page/2012年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで、6年5ヵ月にわたり放送された。ファッション・音楽・トレンドなどの情報を発信している他、番組内ではチケット先行予約も行っている。
+[2005年](../Page/2005年.md "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")から[2012年](../Page/2012年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで、6年5ヵ月にわたり放送された。ファッション・音楽・トレンドなどの情報を発信している他、番組内ではチケット先行予約も行っている。
 
-2008年5月より[千葉テレビ放送](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink")（チバテレ）でも放送。2009年1月中旬からしばらくネットを中断していたが、2009年5月から再開。なお、15分に短縮されている。
+2008年5月より[千葉テレビ放送](../Page/千葉テレビ放送.md "wikilink")（チバテレ）でも放送。2009年1月中旬からしばらくネットを中断していたが、2009年5月から再開。なお、15分に短縮されている。
 
-雑誌「[B.L.T.](https://ja.wikipedia.org/wiki/B.L.T. "wikilink")」北海道版では、番組連動企画『Cute\! Cute\! Cute\!』が連載されており、出演者の本音トークなどが掲載されていた。
+雑誌「[B.L.T.](../Page/B.L.T..md "wikilink")」北海道版では、番組連動企画『Cute\! Cute\! Cute\!』が連載されており、出演者の本音トークなどが掲載されていた。
 
 ## 放送時間
 
@@ -31,18 +31,18 @@
 
 <!-- end list -->
 
-  - saori -「[辻田沙織](https://ja.wikipedia.org/wiki/辻田沙織 "wikilink")」現在フットサル「[サッポロチェルビーズ](https://ja.wikipedia.org/wiki/サッポロチェルビーズ "wikilink")」で活躍
+  - saori -「[辻田沙織](../Page/辻田沙織.md "wikilink")」現在フットサル「[サッポロチェルビーズ](../Page/サッポロチェルビーズ.md "wikilink")」で活躍
   - yoko
 
 <!-- end list -->
 
-  - mami -「[山下まみ](https://ja.wikipedia.org/wiki/山下まみ "wikilink")」元「[恋のから騒ぎ](https://ja.wikipedia.org/wiki/恋のから騒ぎ "wikilink")」13期生。現在は[青二プロダクション](https://ja.wikipedia.org/wiki/青二プロダクション "wikilink")所属の声優として活躍中\[1\]。
+  - mami -「[山下まみ](https://ja.wikipedia.org/wiki/山下まみ "wikilink")」元「[恋のから騒ぎ](https://ja.wikipedia.org/wiki/恋のから騒ぎ "wikilink")」13期生。現在は[青二プロダクション](../Page/青二プロダクション.md "wikilink")所属の声優として活躍中\[1\]。
 
 <!-- end list -->
 
   - chikako
   - mika
-  - sana -「[伊藤沙菜](https://ja.wikipedia.org/wiki/伊藤沙菜 "wikilink")」 現在フットサル「[サッポロチェルビーズ](https://ja.wikipedia.org/wiki/サッポロチェルビーズ "wikilink")」で活躍
+  - sana -「[伊藤沙菜](../Page/伊藤沙菜.md "wikilink")」 現在フットサル「[サッポロチェルビーズ](../Page/サッポロチェルビーズ.md "wikilink")」で活躍
 
 <!-- end list -->
 
@@ -59,7 +59,7 @@
   - mika
   - yuriya -「片瀬友梨耶」
       -
-        ルナフラウ所属（[K-pointと業務提携](https://ja.wikipedia.org/wiki/K-point_\(芸能プロダクション\) "wikilink")）。2010年10月から出演。38度の熱がある中でオーディションに参加したエピソードがある\[3\]。2011年には[レースクイーン](../Page/レースクイーン.md "wikilink")「[ZENT sweeties](https://ja.wikipedia.org/wiki/善都 "wikilink")」としても活躍。
+        ルナフラウ所属（[K-pointと業務提携](../Page/K-point_\(芸能プロダクション\).md "wikilink")）。2010年10月から出演。38度の熱がある中でオーディションに参加したエピソードがある\[3\]。2011年には[レースクイーン](../Page/レースクイーン.md "wikilink")「[ZENT sweeties](../Page/善都.md "wikilink")」としても活躍。
   - haruna -「小野晴菜」現在Brest所属。
 
 <!-- end list -->
@@ -68,11 +68,11 @@
 
 <!-- end list -->
 
-  - [藤井孝太郎](https://ja.wikipedia.org/wiki/藤井孝太郎 "wikilink")（STVアナウンサー）
+  - [藤井孝太郎](../Page/藤井孝太郎.md "wikilink")（STVアナウンサー）
 
 <!-- end list -->
 
-  - 佐々木拓大（「[札幌スーパーギャグメッセンジャーズ](https://ja.wikipedia.org/wiki/札幌スーパーギャグメッセンジャーズ "wikilink")」（団長）） - 2008年4月より充電のため休暇中
+  - 佐々木拓大（「[札幌スーパーギャグメッセンジャーズ](../Page/札幌スーパーギャグメッセンジャーズ.md "wikilink")」（団長）） - 2008年4月より充電のため休暇中
 
 ## 主なコーナー
 
@@ -81,7 +81,7 @@
   - ふじいエンタロウ
   - cute information
   - Cute shot boy
-  - saoriと藤井のキュートーーク（[藤井孝太郎のアタックヤング](https://ja.wikipedia.org/wiki/藤井孝太郎のアタックヤング "wikilink")との共同企画）
+  - saoriと藤井のキュートーーク（[藤井孝太郎のアタックヤング](../Page/藤井孝太郎のアタックヤング.md "wikilink")との共同企画）
 
 ※短縮版でかつ遅れネットのチバテレでは放送されないコーナーがあった。ただし、「だって愛子のそーじゃない\!」はほぼ毎週流れていた。
 
@@ -106,8 +106,8 @@
 
 <!-- end list -->
 
-  - [吉川典雄](https://ja.wikipedia.org/wiki/吉川典雄 "wikilink")（STVアナウンサー）
-  - [近藤麻智子](https://ja.wikipedia.org/wiki/近藤麻智子 "wikilink")
+  - [吉川典雄](../Page/吉川典雄.md "wikilink")（STVアナウンサー）
+  - [近藤麻智子](../Page/近藤麻智子.md "wikilink")
 
 <!-- end list -->
 
@@ -126,7 +126,7 @@
 
 <!-- end list -->
 
-  - momoko(white) - [MOCOカメッ\!](https://ja.wikipedia.org/wiki/MOCOカメッ! "wikilink")に出演の為降板
+  - momoko(white) - [MOCOカメッ\!](../Page/MOCOカメッ!.md "wikilink")に出演の為降板
   - natsu
   - haru 「[石川晴恵](https://ja.wikipedia.org/wiki/石川晴恵 "wikilink")」
   - waka(2007年1月～）
@@ -137,7 +137,7 @@
 
 <!-- end list -->
 
-  - miki 「[上村美紀](https://ja.wikipedia.org/wiki/上林英代 "wikilink")」
+  - miki 「[上村美紀](../Page/上林英代.md "wikilink")」
   - mifi
 
 <!-- end list -->
@@ -146,7 +146,7 @@
 
 <!-- end list -->
 
-  - misato 「[今野美里](https://ja.wikipedia.org/wiki/今野美里 "wikilink")」
+  - misato 「[今野美里](../Page/今野美里.md "wikilink")」
 
 <!-- end list -->
 
@@ -154,7 +154,7 @@
 
 <!-- end list -->
 
-  - love子姉さん（STV「[宮田愛子](https://ja.wikipedia.org/wiki/宮田愛子 "wikilink")」アナウンサー）
+  - love子姉さん（STV「[宮田愛子](../Page/宮田愛子.md "wikilink")」アナウンサー）
 
 <!-- end list -->
 
@@ -179,7 +179,7 @@
 
 <!-- end list -->
 
-  - seika(星花。ロックバンド「[Violent is Savanna](https://ja.wikipedia.org/wiki/Violent_is_Savanna "wikilink")」ボーカル)
+  - seika(星花。ロックバンド「[Violent is Savanna](../Page/Violent_is_Savanna.md "wikilink")」ボーカル)
 
 <!-- end list -->
 
@@ -205,7 +205,7 @@
 
 <!-- end list -->
 
-  - [西森ちほ](https://ja.wikipedia.org/wiki/西森千芳 "wikilink")（STVアナウンサー）
+  - [西森ちほ](../Page/西森千芳.md "wikilink")（STVアナウンサー）
 
 <!-- end list -->
 
@@ -245,7 +245,7 @@
 
 ## 主題歌
 
-  - [Violent is Savanna](https://ja.wikipedia.org/wiki/Violent_is_Savanna "wikilink")「ヒネクレJumper」（2007年7月3日～2008年9月25日）
+  - [Violent is Savanna](../Page/Violent_is_Savanna.md "wikilink")「ヒネクレJumper」（2007年7月3日～2008年9月25日）
   - Violent is Savanna「ドンDON」（2008年10月2日～）
   - Violent is Savanna「HEART BERRY」（2009年4月2日～）
 
@@ -265,15 +265,15 @@
 <tbody>
 <tr class="odd">
 <td style="text-align: center;"><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a></p></td>
-<td style="text-align: center;"><p><a href="https://ja.wikipedia.org/wiki/札幌テレビ放送" title="wikilink">札幌テレビ放送</a>（STV）</p></td>
+<td style="text-align: center;"><p><a href="../Page/札幌テレビ放送.md" title="wikilink">札幌テレビ放送</a>（STV）</p></td>
 <td style="text-align: center;"><p><a href="../Page/日本テレビ系列.md" title="wikilink">日本テレビ系列</a></p></td>
 <td style="text-align: center;"><p>木曜 24:38-25:18</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>What's New?Cute制作局</strong></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://ja.wikipedia.org/wiki/千葉県" title="wikilink">千葉県</a></p></td>
-<td style="text-align: center;"><p><a href="https://ja.wikipedia.org/wiki/千葉テレビ放送" title="wikilink">千葉テレビ放送</a>（チバテレ）</p></td>
+<td style="text-align: center;"><p><a href="../Page/千葉県.md" title="wikilink">千葉県</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/千葉テレビ放送.md" title="wikilink">千葉テレビ放送</a>（チバテレ）</p></td>
 <td style="text-align: center;"><p><a href="https://ja.wikipedia.org/wiki/独立UHF局" title="wikilink">独立UHF局</a></p></td>
 <td style="text-align: center;"><p>土曜 23:30-23:45<br />
 ↓<br />

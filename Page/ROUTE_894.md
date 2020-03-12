@@ -1,14 +1,14 @@
 > この記事は[ROUTE 894](https://ja.wikipedia.org/wiki/ROUTE_894)から翻訳されています。
 
 
-**ROUTE 894**（ルート　ハチキュウヨン）は、[エフエム京都](../Page/エフエム京都.md "wikilink") (α-STATION) で毎週月 - 木曜の16:00 - 19:00に放送されていた[リクエスト番組](https://ja.wikipedia.org/wiki/リクエスト番組 "wikilink")。略称はルーハチ。[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで5年間放送された。
+**ROUTE 894**（ルート　ハチキュウヨン）は、[エフエム京都](../Page/エフエム京都.md "wikilink") (α-STATION) で毎週月 - 木曜の16:00 - 19:00に放送されていた[リクエスト番組](../Page/リクエスト番組.md "wikilink")。略称はルーハチ。[2004年](../Page/2004年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで5年間放送された。
 
 ## DJ遍歴
 
-  - 番組開始 - 2006年3月 - 月・火：[柿元恵美](https://ja.wikipedia.org/wiki/柿元恵美 "wikilink")、水・木：[大久保かれん](https://ja.wikipedia.org/wiki/大久保かれん "wikilink")
+  - 番組開始 - 2006年3月 - 月・火：[柿元恵美](https://ja.wikipedia.org/wiki/柿元恵美 "wikilink")、水・木：[大久保かれん](../Page/大久保かれん.md "wikilink")
   - 2006年4月 - 2007年3月 - 月・火：[新川恵理](https://ja.wikipedia.org/wiki/新川恵理 "wikilink")、水・木：大久保かれん
   - 2007年4月 - 月・火：[中みつ美](https://ja.wikipedia.org/wiki/中みつ美 "wikilink")、水・木：大久保かれん
-  - 2008年4月 - 2009年3月　－ 月・火：[林智美](https://ja.wikipedia.org/wiki/林智美 "wikilink")、水・木：大久保かれん
+  - 2008年4月 - 2009年3月　－ 月・火：[林智美](../Page/林智美.md "wikilink")、水・木：大久保かれん
 
 ## 概要
 
@@ -25,7 +25,7 @@
 
 ### My Anniversary
 
-月曜・火曜の17:20ごろから放送される。前半はあるお題に従ったエピソードをリスナーから募集して放送し、後半は[ハイアットリージェンシー京都](https://ja.wikipedia.org/wiki/ハイアットリージェンシー京都 "wikilink")の魅力について放送する。このコーナーが放送される日には、ハイアットリージェンシーからプレゼントが提供される。
+月曜・火曜の17:20ごろから放送される。前半はあるお題に従ったエピソードをリスナーから募集して放送し、後半は[ハイアットリージェンシー京都](../Page/ハイアットリージェンシー京都.md "wikilink")の魅力について放送する。このコーナーが放送される日には、ハイアットリージェンシーからプレゼントが提供される。
 
 ### Apanet Choei
 

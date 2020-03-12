@@ -5,11 +5,11 @@
 
 ## 利用方法
 
-ImageMagick は[コマンドラインから利用する方法と](https://ja.wikipedia.org/wiki/コマンドラインインタプリタ "wikilink")、他のプログラムから呼び出して使う方法がある。
+ImageMagick は[コマンドラインから利用する方法と](../Page/コマンドラインインタプリタ.md "wikilink")、他のプログラムから呼び出して使う方法がある。
 
 ### コマンドラインからの利用方法
 
-ImageMagickは多数のコマンドラインツールを含んでおり、[バッチ処理](https://ja.wikipedia.org/wiki/バッチ処理 "wikilink")などで[GUI](https://ja.wikipedia.org/wiki/GUI "wikilink")を使わずに画像処理したい場合に有用である\[3\]。
+ImageMagickは多数のコマンドラインツールを含んでおり、[バッチ処理](../Page/バッチ処理.md "wikilink")などで[GUI](https://ja.wikipedia.org/wiki/GUI "wikilink")を使わずに画像処理したい場合に有用である\[3\]。
 
   - 画像を表示 - `display input_file`
   - スクリーンショット - `import [ options ... ] output file`
@@ -67,7 +67,7 @@ MagickWand</p></td>
 <td><p>L-Magick</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/Lua" title="wikilink">Lua</a></p></td>
+<td><p><a href="../Page/Lua.md" title="wikilink">Lua</a></p></td>
 <td><p>magick</p></td>
 </tr>
 <tr class="odd">
@@ -112,7 +112,7 @@ IMagick</p></td>
 <td><p>TclMagick</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/XML-RPC" title="wikilink">XML-RPC</a></p></td>
+<td><p><a href="../Page/XML-RPC.md" title="wikilink">XML-RPC</a></p></td>
 <td><p>RemoteMagick</p></td>
 </tr>
 </tbody>

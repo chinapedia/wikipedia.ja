@@ -1,7 +1,7 @@
 > この記事は[SUN!](https://ja.wikipedia.org/wiki/SUN!)から翻訳されています。
 
 
-『**荒井幸博のうまいものSUN直らじお\!**』（あらいゆきひろのうまいものサンちょくらじお）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2011年](../Page/2011年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで[山形放送](../Page/山形放送.md "wikilink")ラジオ (YBC) で放送されていた[東北映音](https://ja.wikipedia.org/wiki/東北映音 "wikilink")制作の[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。
+『**荒井幸博のうまいものSUN直らじお\!**』（あらいゆきひろのうまいものサンちょくらじお）は、[2006年](../Page/2006年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2011年](../Page/2011年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで[山形放送](../Page/山形放送.md "wikilink")ラジオ (YBC) で放送されていた[東北映音](https://ja.wikipedia.org/wiki/東北映音 "wikilink")制作の[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 番組は、荒井が選んだ季節の曲またはリスナーからのリクエスト曲3曲を「うまい音楽」と称し、番組冒頭・中盤・ラストそれぞれに流していた。また、荒井がセレクトした「うまい映画」を新旧問わずに紹介していた。1曲目を流した後には、旬の野菜や果物、漬物や料理などについて生産者にインタビューする「産地直結情報」を放送していた。
 
-2007年1月7日放送分では、荒井と個人的な付き合いのある[田中邦衛](../Page/田中邦衛.md "wikilink")が友情出演し、山形の美味しい食べ物や温泉などの話をしていかに山形が好きかを語った。また、荒井が尊敬し親しくしている[村川透](https://ja.wikipedia.org/wiki/村川透 "wikilink")監督の撮影現場に、スポンサーのJAやまがた・JAあぐりん山形の協力をの下、芋煮、青菜漬け、山形産米つや姫おにぎり、さくらんぼ、ラ・フランスなどの山形の名産品を引っさげて炊き出しに行っている。2007年11月には『[西村京太郎トラベルミステリー](https://ja.wikipedia.org/wiki/西村京太郎トラベルミステリー "wikilink")』の[高橋英樹](https://ja.wikipedia.org/wiki/高橋英樹_\(俳優\) "wikilink")、[愛川欽也](../Page/愛川欽也.md "wikilink")、[森本レオ](https://ja.wikipedia.org/wiki/森本レオ "wikilink")ほかキャスト・スタッフ70人に、2008年7月には『[鉄道捜査官](https://ja.wikipedia.org/wiki/鉄道捜査官 "wikilink")』の[沢口靖子](https://ja.wikipedia.org/wiki/沢口靖子 "wikilink")、[地井武男](../Page/地井武男.md "wikilink")ほかキャスト・スタッフ70人に、2009年12月には『[借りぐらしのアリエッティ](https://ja.wikipedia.org/wiki/借りぐらしのアリエッティ "wikilink")』制作中の[スタジオジブリ](../Page/スタジオジブリ.md "wikilink")のスタッフ100人に振る舞った。その甲斐あってか、同作品後半で頻出する台所のシーンではテーブルの上に「JA山形」と書かれた箱が置かれており、何カットにもわたって登場する。
+2007年1月7日放送分では、荒井と個人的な付き合いのある[田中邦衛](../Page/田中邦衛.md "wikilink")が友情出演し、山形の美味しい食べ物や温泉などの話をしていかに山形が好きかを語った。また、荒井が尊敬し親しくしている[村川透](../Page/村川透.md "wikilink")監督の撮影現場に、スポンサーのJAやまがた・JAあぐりん山形の協力をの下、芋煮、青菜漬け、山形産米つや姫おにぎり、さくらんぼ、ラ・フランスなどの山形の名産品を引っさげて炊き出しに行っている。2007年11月には『[西村京太郎トラベルミステリー](https://ja.wikipedia.org/wiki/西村京太郎トラベルミステリー "wikilink")』の[高橋英樹](../Page/高橋英樹_\(俳優\).md "wikilink")、[愛川欽也](../Page/愛川欽也.md "wikilink")、[森本レオ](../Page/森本レオ.md "wikilink")ほかキャスト・スタッフ70人に、2008年7月には『[鉄道捜査官](../Page/鉄道捜査官.md "wikilink")』の[沢口靖子](https://ja.wikipedia.org/wiki/沢口靖子 "wikilink")、[地井武男](../Page/地井武男.md "wikilink")ほかキャスト・スタッフ70人に、2009年12月には『[借りぐらしのアリエッティ](https://ja.wikipedia.org/wiki/借りぐらしのアリエッティ "wikilink")』制作中の[スタジオジブリ](../Page/スタジオジブリ.md "wikilink")のスタッフ100人に振る舞った。その甲斐あってか、同作品後半で頻出する台所のシーンではテーブルの上に「JA山形」と書かれた箱が置かれており、何カットにもわたって登場する。
 
 ## 放送時間
 

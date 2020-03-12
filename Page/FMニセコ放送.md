@@ -5,17 +5,17 @@
 
 ## 概要
 
-北海道では初めての[町](../Page/町.md "wikilink")を対象としたコミュニティ放送をしていた。 放送局（現・[特定地上基幹放送局](https://ja.wikipedia.org/wiki/特定地上基幹放送局 "wikilink")）の[コールサインはJOZZ](https://ja.wikipedia.org/wiki/識別信号#呼出符号 "wikilink")1AW-FM、[呼出名称は](https://ja.wikipedia.org/wiki/識別信号#呼出名称 "wikilink")「くっちゃんエフエムニセコ」、[周波数](../Page/周波数.md "wikilink")は83.5MHz、[空中線電力](https://ja.wikipedia.org/wiki/空中線電力 "wikilink")20W ([ERP](https://ja.wikipedia.org/wiki/実効放射電力 "wikilink")37W) で樺山から送信していた。
+北海道では初めての[町](../Page/町.md "wikilink")を対象としたコミュニティ放送をしていた。 放送局（現・[特定地上基幹放送局](https://ja.wikipedia.org/wiki/特定地上基幹放送局 "wikilink")）の[コールサインはJOZZ](https://ja.wikipedia.org/wiki/識別信号#呼出符号 "wikilink")1AW-FM、[呼出名称は](https://ja.wikipedia.org/wiki/識別信号#呼出名称 "wikilink")「くっちゃんエフエムニセコ」、[周波数](../Page/周波数.md "wikilink")は83.5MHz、[空中線電力](../Page/空中線電力.md "wikilink")20W ([ERP](https://ja.wikipedia.org/wiki/実効放射電力 "wikilink")37W) で樺山から送信していた。
 
-自社番組の時間帯以外は[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")の[J-WAVE](../Page/J-WAVE.md "wikilink")の[再送信](https://ja.wikipedia.org/wiki/再送信 "wikilink")を行っており、24時間放送をしていた。また、マスコットキャラクターの「ラジーモ」があった。
+自社番組の時間帯以外は[東京都](../Page/東京都.md "wikilink")の[J-WAVE](../Page/J-WAVE.md "wikilink")の[再送信](https://ja.wikipedia.org/wiki/再送信 "wikilink")を行っており、24時間放送をしていた。また、マスコットキャラクターの「ラジーモ」があった。
 
 ## 開局後の経過
 
 開局から3か月後の2007年3月には給与の延滞問題が発生していることが発覚。この時点で赤字額は毎月190万円ほど出ており2月分の給与も未払い状態であった。 6月30日には当時の社長が暴行容疑で逮捕された。
 
-7月からは給与の支払いは完全になくなり、8月末には社員は全員解雇され[ボランティア](../Page/ボランティア.md "wikilink")による運営となった。この後[代表取締役](https://ja.wikipedia.org/wiki/代表取締役 "wikilink")による謝罪があり、経営難の最大の要因を「ほとんど営業活動を行っていなかったこと」とした。
+7月からは給与の支払いは完全になくなり、8月末には社員は全員解雇され[ボランティア](../Page/ボランティア.md "wikilink")による運営となった。この後[代表取締役](../Page/代表取締役.md "wikilink")による謝罪があり、経営難の最大の要因を「ほとんど営業活動を行っていなかったこと」とした。
 
-9月16日の[株主総会](../Page/株主総会.md "wikilink")で解散を決議。 初年度（5か月）売上げが640万円ほどであったのに対し、未払金だけでも4,600万円ほどあった。 17日の17時ごろには[北海道電力](../Page/北海道電力.md "wikilink")から電気が止められ\[1\]、 翌18日からは[送信所](https://ja.wikipedia.org/wiki/送信所 "wikilink")から直接放送を行っていた\[2\]。 22日の15時から1時間の[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")の後、放送を終了した。演奏所は30日までに撤収を完了した。 北1条の駅前通りにあった[演奏所](https://ja.wikipedia.org/wiki/演奏所 "wikilink")（スタジオ）も撤収済みである。
+9月16日の[株主総会](../Page/株主総会.md "wikilink")で解散を決議。 初年度（5か月）売上げが640万円ほどであったのに対し、未払金だけでも4,600万円ほどあった。 17日の17時ごろには[北海道電力](../Page/北海道電力.md "wikilink")から電気が止められ\[1\]、 翌18日からは[送信所](../Page/送信所.md "wikilink")から直接放送を行っていた\[2\]。 22日の15時から1時間の[生放送](../Page/生放送.md "wikilink")の後、放送を終了した。演奏所は30日までに撤収を完了した。 北1条の駅前通りにあった[演奏所](https://ja.wikipedia.org/wiki/演奏所 "wikilink")（スタジオ）も撤収済みである。
 
 廃局後の一時期、出演者らにより[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")「ニセコラジオ」が運営されていた。
 
@@ -24,7 +24,7 @@
 2006年（平成18年）
 
   - 8月 - FMニセコ放送株式会社設立。
-  - 11月16日 - 放送局の[予備免許](https://ja.wikipedia.org/wiki/予備免許 "wikilink")取得。
+  - 11月16日 - 放送局の[予備免許](../Page/予備免許.md "wikilink")取得。
   - 12月2日 - 試験放送開始。
   - 12月12日 - 放送局の免許取得。
   - 12月18日 - 本放送開始。
@@ -32,7 +32,7 @@
 2007年（平成19年）
 
   - 9月16日 - 株主総会において経営困難のため解散を議決。
-  - 9月22日 - 15時からの1時間の[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")をもって放送終了。
+  - 9月22日 - 15時からの1時間の[生放送](../Page/生放送.md "wikilink")をもって放送終了。
   - 9月30日 - 演奏所の撤収を完了。
 
 2008年（平成20年）3月21日 - 廃止届が受理される。

@@ -15,7 +15,7 @@
   - 製作：[斎藤晃](https://ja.wikipedia.org/wiki/斎藤晃 "wikilink")、[遠藤久典](https://ja.wikipedia.org/wiki/遠藤久典 "wikilink")
   - プロデューサー：[中島進](https://ja.wikipedia.org/wiki/中島進 "wikilink")、[荒川礼子](https://ja.wikipedia.org/wiki/荒川礼子 "wikilink")、[小林誠一郎](https://ja.wikipedia.org/wiki/小林誠一郎 "wikilink")
   - 脚本：[江良至](https://ja.wikipedia.org/wiki/江良至 "wikilink")
-  - 撮影：[山本英夫](https://ja.wikipedia.org/wiki/山本英夫_\(映画カメラマン\) "wikilink")
+  - 撮影：[山本英夫](../Page/山本英夫_\(映画カメラマン\).md "wikilink")
   - 美術：[仰木豊](https://ja.wikipedia.org/wiki/仰木豊 "wikilink")
   - 編集：[島村泰司](https://ja.wikipedia.org/wiki/島村泰司 "wikilink")
   - 音楽：[遠藤浩二](https://ja.wikipedia.org/wiki/遠藤浩二 "wikilink")
@@ -23,13 +23,13 @@
 
 ## キャスト
 
-  - 山崎清：[遠藤憲一](https://ja.wikipedia.org/wiki/遠藤憲一 "wikilink")
-  - 山崎恵子：[内田春菊](https://ja.wikipedia.org/wiki/内田春菊 "wikilink")
+  - 山崎清：[遠藤憲一](../Page/遠藤憲一.md "wikilink")
+  - 山崎恵子：[内田春菊](../Page/内田春菊.md "wikilink")
   - 秀臣：[渡辺一志](https://ja.wikipedia.org/wiki/渡辺一志 "wikilink")
-  - 村田麻子：[中原翔子](https://ja.wikipedia.org/wiki/中原翔子 "wikilink")
-  - 山崎美貴：[不二子](https://ja.wikipedia.org/wiki/不二子 "wikilink")
+  - 村田麻子：[中原翔子](../Page/中原翔子.md "wikilink")
+  - 山崎美貴：[不二子](../Page/不二子.md "wikilink")
   - 山崎卓弥：[武藤洵](https://ja.wikipedia.org/wiki/武藤洵 "wikilink")
-  - 佐々岡：[鈴木一功](https://ja.wikipedia.org/wiki/鈴木一功 "wikilink")
+  - 佐々岡：[鈴木一功](../Page/鈴木一功.md "wikilink")
   - いじめっ子：[荒木竜二](https://ja.wikipedia.org/wiki/荒木竜二 "wikilink")
   - いじめっ子：[永井琢](https://ja.wikipedia.org/wiki/永井琢 "wikilink")
   - いじめっ子：[馬場達也](https://ja.wikipedia.org/wiki/馬場達也 "wikilink")
@@ -47,12 +47,12 @@
       - BEST ASIAN FILM 第１位
   - 2001年 [スウェーデンファンタスティック映画祭](https://ja.wikipedia.org/wiki/スウェーデンファンタスティック映画祭 "wikilink")
       - 特別賞
-  - 2002年 [日本映画プロフェッショナル大賞](https://ja.wikipedia.org/wiki/日本映画プロフェッショナル大賞 "wikilink")
-      - 監督賞：[三池崇史](../Page/三池崇史.md "wikilink") (「[殺し屋1](https://ja.wikipedia.org/wiki/殺し屋1 "wikilink")」・「[天国から来た男たち](https://ja.wikipedia.org/wiki/天国から来た男たち "wikilink")」と合わせて)
+  - 2002年 [日本映画プロフェッショナル大賞](../Page/日本映画プロフェッショナル大賞.md "wikilink")
+      - 監督賞：[三池崇史](../Page/三池崇史.md "wikilink") (「[殺し屋1](../Page/殺し屋1.md "wikilink")」・「[天国から来た男たち](../Page/天国から来た男たち.md "wikilink")」と合わせて)
 
 ## 関連項目
 
-  - [テオレマ](https://ja.wikipedia.org/wiki/テオレマ "wikilink")
+  - [テオレマ](../Page/テオレマ.md "wikilink")
 
 ## 外部リンク
 

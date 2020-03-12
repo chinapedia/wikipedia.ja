@@ -5,37 +5,37 @@
 
 ## 概要
 
-設立当時の出資会社は、GD-NET加盟の[ゲームアーツ](../Page/ゲームアーツ.md "wikilink")、[トレジャー](../Page/トレジャー.md "wikilink")、[アルファ・システム](https://ja.wikipedia.org/wiki/アルファ・システム "wikilink")、[クインテット](https://ja.wikipedia.org/wiki/クインテット_\(ゲーム会社\) "wikilink")、[スティング](https://ja.wikipedia.org/wiki/スティング_\(ゲーム会社\) "wikilink")、[ネバーランドカンパニー](https://ja.wikipedia.org/wiki/ネバーランドカンパニー "wikilink")、[CSK総合研究所 (CRI)](https://ja.wikipedia.org/wiki/CRI・ミドルウェア "wikilink")、ビッツラボラトリー、日本アートメディア、オニオンエッグと、[角川書店](../Page/角川書店.md "wikilink")、[メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")、[バンダイ](../Page/バンダイ.md "wikilink")、CSKベンチャーキャピタルの計13社。 [宮路洋一](https://ja.wikipedia.org/wiki/宮路洋一 "wikilink")が社長を勤めた。
+設立当時の出資会社は、GD-NET加盟の[ゲームアーツ](../Page/ゲームアーツ.md "wikilink")、[トレジャー](../Page/トレジャー.md "wikilink")、[アルファ・システム](../Page/アルファ・システム.md "wikilink")、[クインテット](../Page/クインテット_\(ゲーム会社\).md "wikilink")、[スティング](../Page/スティング_\(ゲーム会社\).md "wikilink")、[ネバーランドカンパニー](../Page/ネバーランドカンパニー.md "wikilink")、[CSK総合研究所 (CRI)](../Page/CRI・ミドルウェア.md "wikilink")、ビッツラボラトリー、日本アートメディア、オニオンエッグと、[角川書店](../Page/角川書店.md "wikilink")、[メディアワークス](../Page/メディアワークス.md "wikilink")、[バンダイ](../Page/バンダイ.md "wikilink")、CSKベンチャーキャピタルの計13社。 [宮路洋一](https://ja.wikipedia.org/wiki/宮路洋一 "wikilink")が社長を勤めた。
 
 ## 歴史
 
 ESPが設立された背景には2つの事情がある。
 
-「次世代機」と呼ばれた[セガサターン](../Page/セガサターン.md "wikilink")、[PlayStationの登場以降](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")、画像の精緻化や音楽の質の向上が叫ばれた結果、制作費は高騰していくが、これは中規模の資本しか持たないメーカーには負担となっていた。そこで、ゲーム会社自身は制作に専念させ、共通の資金調達窓口（及び営業・広報セクション）を設けるという構想が、GD-NET加盟各社の間で出されていた。
+「次世代機」と呼ばれた[セガサターン](../Page/セガサターン.md "wikilink")、[PlayStationの登場以降](../Page/PlayStation_\(ゲーム機\).md "wikilink")、画像の精緻化や音楽の質の向上が叫ばれた結果、制作費は高騰していくが、これは中規模の資本しか持たないメーカーには負担となっていた。そこで、ゲーム会社自身は制作に専念させ、共通の資金調達窓口（及び営業・広報セクション）を設けるという構想が、GD-NET加盟各社の間で出されていた。
 
-もうひとつはセガサターン陣営側の苦境である。ESPは設立に際し、「サターンを[プラットフォームに](../Page/ゲーム機.md "wikilink")、オリジナル作品を供給する」という方針を示したが、ここには、[スクウェアのPlayStation参入や](https://ja.wikipedia.org/wiki/スクウェア・エニックス "wikilink")、[エニックス参入の頓挫](https://ja.wikipedia.org/wiki/スクウェア・エニックス "wikilink")（『七ツ風の島物語』、『[忍ペンまん丸](https://ja.wikipedia.org/wiki/忍ペンまん丸 "wikilink")』を出したのみに終わった）、さらに[タイムワーナー・インタラクティブの解散に象徴される有力サードパーティーの撤退などにより](../Page/テンゲン.md "wikilink")、窮地に立たされたサターンの立場が色濃く反映されていた。
+もうひとつはセガサターン陣営側の苦境である。ESPは設立に際し、「サターンを[プラットフォームに](../Page/ゲーム機.md "wikilink")、オリジナル作品を供給する」という方針を示したが、ここには、[スクウェアのPlayStation参入や](../Page/スクウェア・エニックス.md "wikilink")、[エニックス参入の頓挫](../Page/スクウェア・エニックス.md "wikilink")（『七ツ風の島物語』、『[忍ペンまん丸](../Page/忍ペンまん丸.md "wikilink")』を出したのみに終わった）、さらに[タイムワーナー・インタラクティブの解散に象徴される有力サードパーティーの撤退などにより](../Page/テンゲン.md "wikilink")、窮地に立たされたサターンの立場が色濃く反映されていた。
 
-1997年冬に発表した『[グランディア](https://ja.wikipedia.org/wiki/グランディア "wikilink")』(開発はゲームアーツ)は、サターンのサードパーティーとしては初の50万セールスを達成。その後も『[機動戦士ガンダム ギレンの野望](https://ja.wikipedia.org/wiki/機動戦士ガンダム_ギレンの野望 "wikilink")』(バンダイ)、『[バロック](https://ja.wikipedia.org/wiki/バロック_\(ゲーム\) "wikilink")』(スティング)などの話題作をリリース。さらに[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")、[PlayStation 2にも足場を拡げ](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、『[暴れん坊プリンセス](https://ja.wikipedia.org/wiki/暴れん坊プリンセス "wikilink")』(PS2 開発：[アルファ・システム](https://ja.wikipedia.org/wiki/アルファ・システム "wikilink"))、『[ロードス島戦記 邪神降臨](https://ja.wikipedia.org/wiki/ロードス島戦記_邪神降臨 "wikilink")』(DC 開発：[ネバーランドカンパニー](https://ja.wikipedia.org/wiki/ネバーランドカンパニー "wikilink"))などを発売している。
+1997年冬に発表した『[グランディア](../Page/グランディア.md "wikilink")』(開発はゲームアーツ)は、サターンのサードパーティーとしては初の50万セールスを達成。その後も『[機動戦士ガンダム ギレンの野望](../Page/機動戦士ガンダム_ギレンの野望.md "wikilink")』(バンダイ)、『[バロック](../Page/バロック_\(ゲーム\).md "wikilink")』(スティング)などの話題作をリリース。さらに[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")、[PlayStation 2にも足場を拡げ](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、『[暴れん坊プリンセス](../Page/暴れん坊プリンセス.md "wikilink")』(PS2 開発：[アルファ・システム](../Page/アルファ・システム.md "wikilink"))、『[ロードス島戦記 邪神降臨](https://ja.wikipedia.org/wiki/ロードス島戦記_邪神降臨 "wikilink")』(DC 開発：[ネバーランドカンパニー](../Page/ネバーランドカンパニー.md "wikilink"))などを発売している。
 
 [セガ](https://ja.wikipedia.org/wiki/セガ "wikilink")が家庭用ゲーム機から撤退し、また[CSK](https://ja.wikipedia.org/wiki/CSK "wikilink")グループもセガの売却に動いたことから、[2002年](../Page/2002年.md "wikilink")[6月](../Page/6月.md "wikilink")にゲームアーツが全株式を買収。自社名義でのゲーム制作も開始した。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[8月](../Page/8月.md "wikilink")、[ディースリー・パブリッシャー](https://ja.wikipedia.org/wiki/ディースリー・パブリッシャー "wikilink")が全株式を買収、子会社化し、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")にディースリー及びディースリー・パブリッシャーと合併した。
+[2006年](../Page/2006年.md "wikilink")[8月](../Page/8月.md "wikilink")、[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")が全株式を買収、子会社化し、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")にディースリー及びディースリー・パブリッシャーと合併した。
 
 ## 主な作品
 
-  - [グランディア](https://ja.wikipedia.org/wiki/グランディア "wikilink")
-  - [レイディアントシルバーガン](https://ja.wikipedia.org/wiki/レイディアントシルバーガン "wikilink")
-  - [機動戦士ガンダム ギレンの野望](https://ja.wikipedia.org/wiki/機動戦士ガンダム_ギレンの野望 "wikilink")
-  - [バロック](https://ja.wikipedia.org/wiki/バロック_\(ゲーム\) "wikilink")
+  - [グランディア](../Page/グランディア.md "wikilink")
+  - [レイディアントシルバーガン](../Page/レイディアントシルバーガン.md "wikilink")
+  - [機動戦士ガンダム ギレンの野望](../Page/機動戦士ガンダム_ギレンの野望.md "wikilink")
+  - [バロック](../Page/バロック_\(ゲーム\).md "wikilink")
   - [Code R](https://ja.wikipedia.org/wiki/Code_R "wikilink")
-  - [暴れん坊プリンセス](https://ja.wikipedia.org/wiki/暴れん坊プリンセス "wikilink")
-  - [仙窟活龍大戦カオスシード](https://ja.wikipedia.org/wiki/仙窟活龍大戦カオスシード "wikilink")
+  - [暴れん坊プリンセス](../Page/暴れん坊プリンセス.md "wikilink")
+  - [仙窟活龍大戦カオスシード](../Page/仙窟活龍大戦カオスシード.md "wikilink")
   - [ロードス島戦記 邪神降臨](https://ja.wikipedia.org/wiki/ロードス島戦記_邪神降臨 "wikilink")
   - [はじめの一歩](https://ja.wikipedia.org/wiki/はじめの一歩 "wikilink")シリーズ
-  - [斑鳩](https://ja.wikipedia.org/wiki/斑鳩_\(シューティングゲーム\) "wikilink")
-  - [ガンダムネットワークオペレーション](https://ja.wikipedia.org/wiki/ガンダムネットワークオペレーション "wikilink")
+  - [斑鳩](../Page/斑鳩_\(シューティングゲーム\).md "wikilink")
+  - [ガンダムネットワークオペレーション](../Page/ガンダムネットワークオペレーション.md "wikilink")
   - [餓狼伝 Breakblow](https://ja.wikipedia.org/wiki/餓狼伝_Breakblow "wikilink")
-  - [餓狼伝 Breakblow Fist or Twist](https://ja.wikipedia.org/wiki/餓狼伝_Breakblow_Fist_or_Twist "wikilink")
+  - [餓狼伝 Breakblow Fist or Twist](../Page/餓狼伝_Breakblow_Fist_or_Twist.md "wikilink")
   - [ぎゅわんぶらあ自己中心派 〜イッパツ勝負\!〜](../Page/ぎゅわんぶらあ自己中心派.md "wikilink")
 
 [Category:かつて存在した日本のコンピュータゲームメーカー](https://ja.wikipedia.org/wiki/Category:かつて存在した日本のコンピュータゲームメーカー "wikilink") [Category:バンダイナムコグループの歴史](https://ja.wikipedia.org/wiki/Category:バンダイナムコグループの歴史 "wikilink") [Category:かつて存在した東京都の企業](https://ja.wikipedia.org/wiki/Category:かつて存在した東京都の企業 "wikilink")

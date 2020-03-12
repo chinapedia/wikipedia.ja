@@ -1,7 +1,7 @@
 > この記事は[Beatmania](https://ja.wikipedia.org/wiki/Beatmania)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Beatmania6thmix.jpg "wikilink")  『**beatmania**』（ビートマニア）とはコナミ（後の[コナミデジタルエンタテインメント](https://ja.wikipedia.org/wiki/コナミデジタルエンタテインメント "wikilink")→[コナミアミューズメント](https://ja.wikipedia.org/wiki/コナミアミューズメント "wikilink")）が[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に稼働した[音楽ゲーム](../Page/音楽ゲーム.md "wikilink")である。『**[BEMANIシリーズ](../Page/BEMANIシリーズ.md "wikilink")**』の第1作。また、同タイトルを冠する家庭用ゲームソフトや携帯ゲーム、携帯電話用アプリケーションなども存在する。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Beatmania6thmix.jpg "wikilink")  『**beatmania**』（ビートマニア）とはコナミ（後の[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")→[コナミアミューズメント](../Page/コナミアミューズメント.md "wikilink")）が[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に稼働した[音楽ゲーム](../Page/音楽ゲーム.md "wikilink")である。『**[BEMANIシリーズ](../Page/BEMANIシリーズ.md "wikilink")**』の第1作。また、同タイトルを冠する家庭用ゲームソフトや携帯ゲーム、携帯電話用アプリケーションなども存在する。
 
 ## 概要
 
@@ -17,7 +17,7 @@
 
 ## 基本ルール
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Beatmania_controls.jpg "wikilink") プレイヤーはクラブの[DJとなり](https://ja.wikipedia.org/wiki/ディスクジョッキー "wikilink")、楽曲を[サンプラー](https://ja.wikipedia.org/wiki/サンプラー "wikilink")を模した5つのボタンと[レコードプレイヤー](https://ja.wikipedia.org/wiki/レコードプレイヤー "wikilink")を模したターンテーブルを用いて演奏しオーディエンスを満足させつつ規定曲数をこなすことが目的。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Beatmania_controls.jpg "wikilink") プレイヤーはクラブの[DJとなり](../Page/ディスクジョッキー.md "wikilink")、楽曲を[サンプラー](../Page/サンプラー.md "wikilink")を模した5つのボタンと[レコードプレイヤー](https://ja.wikipedia.org/wiki/レコードプレイヤー "wikilink")を模したターンテーブルを用いて演奏しオーディエンスを満足させつつ規定曲数をこなすことが目的。
 
 画面上部から落ちてくるノート（オブジェ）が画面下部の赤いラインに重なった時に対応したデバイスを操作する（押す、あるいは回す）ことで、そのタイミングの正確さに応じて「JUST GREAT・GREAT・GOOD・BAD・POOR」の5段階（JUST GREATはcomplete MIX以降の追加仕様、ただし5thMIXの一部モードを除く。また、初代のみPOOR判定は「WORST」と表される）の判定がなされる。判定基準は曲により異なり、一定しない。JUST GREATは画面上の表示は「JUST GREAT」ではなく虹色に光る「GREAT」であるため、「ピカグレ」と表現されることも多い（また、ここから派生して通常のGREATを表示色から「黄グレ」と表すこともある）。
 
@@ -138,7 +138,7 @@
 <!-- end list -->
 
   -
-    [1999年](../Page/1999年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink")にコナミから発売された。アスキーモデルと比較してターンテーブル部の大型化、[ヘッドフォン](https://ja.wikipedia.org/wiki/ヘッドフォン "wikilink")ジャックとそれを利用するための[RCA端子](https://ja.wikipedia.org/wiki/RCA端子 "wikilink")のイン・アウト、押し下げ時のボタン発光といった特徴がある。
+    [1999年](../Page/1999年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink")にコナミから発売された。アスキーモデルと比較してターンテーブル部の大型化、[ヘッドフォン](../Page/ヘッドフォン.md "wikilink")ジャックとそれを利用するための[RCA端子](../Page/RCA端子.md "wikilink")のイン・アウト、押し下げ時のボタン発光といった特徴がある。
 
 <!-- end list -->
 
@@ -173,14 +173,14 @@
 
 ### アーケード（登場順）
 
-  - beatmania（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[12月10日](https://ja.wikipedia.org/wiki/12月10日 "wikilink")稼動開始）
+  - beatmania（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[12月10日](../Page/12月10日.md "wikilink")稼動開始）
     独自要素：1ジャンルに1Pと2Pで異なる楽曲を用意、7面制EXPERTモード(後のTHE FINALのFIRSTコースも7面制が採用されてる)
     初代ビートマニア。収録曲は全8ジャンル/9曲（DJ BATTLEを含む。前述の理由でBREAK-BTSは2曲扱い）。プレイヤーは「CLUB SAGAWA」にて飛び入りでプレイすることになった新入りのDJという設定であり、支配人(IIIシリーズのTHE FINALでも登場する。)の案内を受けて曲をプレイしてフロアを盛り上げるというストーリーに沿ってゲームが進む。この一環として曲選択時に支配人から曲の特徴が聞けたり、ステージ間で他のDJが絡んでくるなどの演出もある（2ndMIX以降の作品ではこのような背景ストーリーはほとんど語られなくなる）。
     この初代から隠し曲（e-motion）を用意しており、DJ BATTLEをある条件でクリアすると出現する。
   - beatmania 2ndMIX（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月18日](../Page/3月18日.md "wikilink")稼動開始）
-    新規要素：[ダブルプレイ](https://ja.wikipedia.org/wiki/ダブルプレイ "wikilink")、ヒドゥンプレイ、コース制EXPERTモード、フリーモード中に判定ライン、レベル6
+    新規要素：[ダブルプレイ](../Page/ダブルプレイ.md "wikilink")、ヒドゥンプレイ、コース制EXPERTモード、フリーモード中に判定ライン、レベル6
     廃止要素：7面制EXPERTモード
-    初代から程なくしてリリースされた2作目。収録曲やゲームモードなどを大幅に強化。初代の全収録曲を含め、全21曲を収録。[ダブルプレイ](https://ja.wikipedia.org/wiki/ダブルプレイ "wikilink")やヒドゥンプレイといったプレイオプション、5曲のコースを連続でプレイするEXPERTモードといった、後に定番となる要素が早くも登場している。また、今作のDJ BATTLEは仕様が変更され、プレイ毎にランダムで配置タイミングが変わる譜面となっており、難易度が前作と比べて上がっている。
+    初代から程なくしてリリースされた2作目。収録曲やゲームモードなどを大幅に強化。初代の全収録曲を含め、全21曲を収録。[ダブルプレイ](../Page/ダブルプレイ.md "wikilink")やヒドゥンプレイといったプレイオプション、5曲のコースを連続でプレイするEXPERTモードといった、後に定番となる要素が早くも登場している。また、今作のDJ BATTLEは仕様が変更され、プレイ毎にランダムで配置タイミングが変わる譜面となっており、難易度が前作と比べて上がっている。
   - beatmania 3rdMIX（1998年[9月28日](../Page/9月28日.md "wikilink")稼動開始）
     新規要素：コンボシステム、減少ゲージ型EXPERTモード、アナザー譜面、コマンド隠し曲、バトルプレイ、MIRRORオプション
     廃止要素：通常ゲージ型EXPERTモード、フリーゾーン
@@ -202,7 +202,7 @@
   - beatmania 5thMIX -Time to get down-（1999年[9月22日](../Page/9月22日.md "wikilink")稼動開始）
     新規要素：HI-SPEEDオプション、SUDDENオプション、RANDOMオプション、ランダムセレクト、曲リスト、（このバージョンのみ）モードによる判定表示の変化
     廃止要素：楽曲ロゴ（開発中画面では表示されていた）
-    書き下ろしの新曲以外に[東芝EMIの](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")『[Dancemania](https://ja.wikipedia.org/wiki/Dancemania "wikilink")』シリーズの人気曲や、『beatmania IIDX』・家庭用APPEND GOTTAMIXからの移植曲も含め4thMIXからの引継ぎ19曲併せて全44曲を収録。
+    書き下ろしの新曲以外に[東芝EMIの](../Page/EMIミュージック・ジャパン.md "wikilink")『[Dancemania](https://ja.wikipedia.org/wiki/Dancemania "wikilink")』シリーズの人気曲や、『beatmania IIDX』・家庭用APPEND GOTTAMIXからの移植曲も含め4thMIXからの引継ぎ19曲併せて全44曲を収録。
     後のシリーズにおいて半ばデファクトスタンダードとなる、「HI-SPEED」オプションが初登場する。
   - beatmania complete MIX 2（[2000年](../Page/2000年.md "wikilink")[1月27日](../Page/1月27日.md "wikilink")稼動開始）
     新規要素：センタープレイ、センターダブル、HI-SPEEDオプションの段階増加、選曲中オプション変更、レベル8・9、MIRROR・RANDOMの標準オプション化
@@ -240,7 +240,7 @@
 
 #### PlayStation版
 
-PlayStation版は単体で起動する「キーディスク」と、起動にキーディスクを介する必要がある「[アペンドディスク](https://ja.wikipedia.org/wiki/アペンドディスク "wikilink")」に大別される。またAC版にはないOPムービーが追加されていたり（6thMIX+CORE REMIX）、タイトル画面のBGMがAC版ではなく家庭用オリジナルのBGMが使われている作品もある（2nd MIXにあたるPS版ビートマニア、APPEND 3rdMIX）。PS版全般においてはPS2の高速読み込みモードでプレイするとBGMとノートの同期がうまくとれず（曲が尋常ではない速さで再生され、ノートが異常な速さで降りてくる）、まともにプレイできなくなる場合がある（通常読み込みだと起こらない）。
+PlayStation版は単体で起動する「キーディスク」と、起動にキーディスクを介する必要がある「[アペンドディスク](../Page/アペンドディスク.md "wikilink")」に大別される。またAC版にはないOPムービーが追加されていたり（6thMIX+CORE REMIX）、タイトル画面のBGMがAC版ではなく家庭用オリジナルのBGMが使われている作品もある（2nd MIXにあたるPS版ビートマニア、APPEND 3rdMIX）。PS版全般においてはPS2の高速読み込みモードでプレイするとBGMとノートの同期がうまくとれず（曲が尋常ではない速さで再生され、ノートが異常な速さで降りてくる）、まともにプレイできなくなる場合がある（通常読み込みだと起こらない）。
 
   -
     デュアルショックを使用してプレイする場合は、曲に合わせて振動するオプションが選べる。
@@ -256,7 +256,7 @@ PlayStation版は単体で起動する「キーディスク」と、起動にキ
     他のキーディスクからディスクチェンジによる起動はできるが、逆はできない上に4th以降同様にディスクチェンジ項目が消える。国内累計出荷本数は107万本\[3\]。
       - beatmania APPEND YebisuMIX
         PlayStation版「beatmania」に付属しているアペンドディスク。アーケード版3rdMIXに移植された3曲のほか、[平田智樹](https://ja.wikipedia.org/wiki/平田智樹 "wikilink")や家庭用シリーズの[サウンドディレクター](https://ja.wikipedia.org/wiki/サウンドディレクター "wikilink")でもある[藤後浩之](https://ja.wikipedia.org/wiki/藤後浩之 "wikilink")の（パロディめいた）楽曲を入れた7曲を収録。
-        タイトルのYebisuMIXは、開発を行った[コナミコンピュータエンタテインメントジャパン](https://ja.wikipedia.org/wiki/コナミコンピュータエンタテインメントジャパン "wikilink")（KCEJ）が当時[恵比寿ガーデンプレイス](https://ja.wikipedia.org/wiki/恵比寿ガーデンプレイス "wikilink")に所在していたことから。2nd・3rd本編の舞台であるクラブがCLUB SAGAWAであるのに対してYebisuMIXではCLUB JAPANとなっている（フリーモードの設定画面の背景で判明。また、4th・5thのゲームモードに記載されている同名との関連は不明）。
+        タイトルのYebisuMIXは、開発を行った[コナミコンピュータエンタテインメントジャパン](../Page/コナミコンピュータエンタテインメントジャパン.md "wikilink")（KCEJ）が当時[恵比寿ガーデンプレイス](../Page/恵比寿ガーデンプレイス.md "wikilink")に所在していたことから。2nd・3rd本編の舞台であるクラブがCLUB SAGAWAであるのに対してYebisuMIXではCLUB JAPANとなっている（フリーモードの設定画面の背景で判明。また、4th・5thのゲームモードに記載されている同名との関連は不明）。
         アペンドディスクを単体起動させると、キーディスクから起動させる仕様である警告文が表示され、起動できない（アペンドディスクはソフト側から単体起動をロックしている）。
       - beatmania APPEND 3rdMIX mini
         3rdMIXのサウンドトラックCDに付属しているアペンドディスク。アーケード版3rdMIXの新曲から抜粋された5曲を収録している、3rdMIX体験版といえるもので、画面中央に表示されるグラフィック・フレーム等は2ndMIXのものを流用している。エンディングはあるが、スタッフロールは流れない。他のアペンドディスク同様、セーブ可能。
@@ -266,8 +266,8 @@ PlayStation版は単体で起動する「キーディスク」と、起動にキ
     Yebisu・3rd・3rd mini・GOTTAと各BONUS EDITは共通のアペンド用セーブデータ領域を使用する為、各作品毎に記録するには別々のメモリーカードが必要。その為か、上書きされる旨の警告画面が表示される。ゲームクリア時やゲームオーバー時のスコア・FREEへの曲出現等の不意の上書きを防ぐには、オートセーブ設定をOFFにする必要がある。稀にであるが、ディスクチェンジによって他のアペンドディスクのデータによってFREEの楽曲が全て出現する事がある。
   - beatmania APPEND GOTTAMIX（[1999年](../Page/1999年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink")発売）
     システムディスクを経由して起動する廉価シリーズ「アペンドディスク」のオリジナル版第2弾。4thMIXへの移植曲3曲（うち2曲はKCEJ制作）を含める19曲を収録。
-    大物コメディアン（[せんだみつお](https://ja.wikipedia.org/wiki/せんだみつお "wikilink")と[谷啓](https://ja.wikipedia.org/wiki/谷啓 "wikilink")）を起用した新機軸のDJバトルや、後に家庭用シリーズ、ひいてはBEMANIシリーズの1つの顔となる[L.E.D.LIGHTの楽曲など](https://ja.wikipedia.org/wiki/角田利之 "wikilink")、アーケードシリーズとは一線を画した独特の雰囲気をもつ本作は後の家庭用追加バージョンの方向性を決定づけた。
-    [武居“M”征吾](https://ja.wikipedia.org/wiki/武居“M”征吾 "wikilink")も参加しており、タイトルコールや「BEMANI HIT TRACKS」でのDJ風アナウンスを担当している。
+    大物コメディアン（[せんだみつお](../Page/せんだみつお.md "wikilink")と[谷啓](../Page/谷啓.md "wikilink")）を起用した新機軸のDJバトルや、後に家庭用シリーズ、ひいてはBEMANIシリーズの1つの顔となる[L.E.D.LIGHTの楽曲など](../Page/角田利之.md "wikilink")、アーケードシリーズとは一線を画した独特の雰囲気をもつ本作は後の家庭用追加バージョンの方向性を決定づけた。
+    [武居“M”征吾](../Page/武居“M”征吾.md "wikilink")も参加しており、タイトルコールや「BEMANI HIT TRACKS」でのDJ風アナウンスを担当している。
     2人プレイ専用曲はないものの、DJ BATTLEは2人プレイだと1P側がせんだみつお、2P側が谷啓と役割が分かれて擬似的な対戦が楽しめる（一人プレイ時の場合、点数にもならないがPOORにもならない隠しSEが一ヵ所ある）。また、GABBAH/HELL SCAPERも2Pだと曲が若干変化する。
     ちなみに、GOTTAMIXとは単に「ごった煮」をもじったもの。そして、サウンドトラックのブックレットの表紙も「ごった煮」となっている（さらにそのブックレットには藤後浩之が料理人の姿で登場しており、彼の愛称「Togo料理長」の由来はこれによる）。
   - beatmania APPEND 4thMIX（1999年[9月9日](../Page/9月9日.md "wikilink")発売）
@@ -308,7 +308,7 @@ PlayStation版は単体で起動する「キーディスク」と、起動にキ
 #### ゲームボーイ版
 
   - beatmania GB（1999年[3月11日](../Page/3月11日.md "wikilink")発売）
-    [ゲームボーイカラー](../Page/ゲームボーイカラー.md "wikilink")対応。2ndMIX、APPEND YebisuMIX、3rdMIXからの10曲と、完全オリジナル曲10曲で構成。開発は[コナミコンピュータエンタテインメント神戸](https://ja.wikipedia.org/wiki/コナミコンピュータエンタテインメント神戸 "wikilink")で、同じくKCEKが開発した『[らくがきっず](https://ja.wikipedia.org/wiki/らくがきっず "wikilink")』のテーマソングも収録された。
+    [ゲームボーイカラー](../Page/ゲームボーイカラー.md "wikilink")対応。2ndMIX、APPEND YebisuMIX、3rdMIXからの10曲と、完全オリジナル曲10曲で構成。開発は[コナミコンピュータエンタテインメント神戸](https://ja.wikipedia.org/wiki/コナミコンピュータエンタテインメント神戸 "wikilink")で、同じくKCEKが開発した『[らくがきっず](../Page/らくがきっず.md "wikilink")』のテーマソングも収録された。
     十字キーの下以外、Bボタン、Aボタンで5つの鍵盤を演奏し、スタートボタンでスクラッチを行う。スタートボタンを酷使するゲームとして特筆性があり、特にDJバトル（スクラッチだけのステージ）ではスタートボタンの連打が求められる。ゲームボーイの特性上、十字キーの左右同時押しは存在しない\[4\]。
     この作品のみに存在するGB-MIXモード（GBオリジナル楽曲で構成）はアーケードモード・フリーモードと異なり、EXPERT同様に曲選択方式ではなく連続プレイ方式（ただし、グルーヴゲージはアーケードモードと同じく増減方式）。
     全体的に（グラフィック・システムBGM・SE等）PS版を意識した作りになっており、家庭用ビートマニアでは初の演奏中のコンボカウント方式が採り入れられている。
@@ -316,17 +316,17 @@ PlayStation版は単体で起動する「キーディスク」と、起動にキ
     AC版・PS版と異なりスコアの記録は無い。またセーブ方式ではなく、ARCADE・GB-MIXクリア後に出るパスワードを入力するとFREEで隠し曲を追加できる。また、追加している状態で再びARCADE・GB-MIXのクリアを重ねると増えた分だけのパスワードが出現する。また隠しパスワードがあり、DJバトルを含む全曲解禁やFREEでDJバトルしか選べない状態にするものがある。
     papayapa bossaが原曲よりやや短く、METAL GEAR SOLIDが原曲よりやや長くなっている。
     GBシリーズでの通信対戦はAC版やPS版4th以降のBATTLEと大幅に異なり、例えば1P側が正確に演奏・コンボを繋ぐと相手側が徐々にHIDDENになっていく\[5\]。ただしミスをすると徐々にHIDDENが解除されていく。ちなみにグルーヴゲージはEXPERT同様に回復しない（いわば格闘ゲームにおける体力ゲージ）。
-    本作品を簡素化したタイプのものが、同じKCE神戸開発の『[ときめきメモリアル](https://ja.wikipedia.org/wiki/ときめきメモリアル "wikilink")POCKET』でミニゲームとして採用されている。
+    本作品を簡素化したタイプのものが、同じKCE神戸開発の『[ときめきメモリアル](../Page/ときめきメモリアル.md "wikilink")POCKET』でミニゲームとして採用されている。
     スーパーゲームボーイでプレイする場合2種類のフレームが用意されており一つは裏路地をイメージしたもの、もう一つはビートマニア筐体を再現したものがある。
     プレイデモではAC・PS版にあった、DJ KONAMIのレクチャーがプレイヤーは操作ができないものの再現されている。
   - beatmania GB2 ガッチャミックス（1999年[11月25日](../Page/11月25日.md "wikilink")発売）
-    「beatmania GB」と同じくゲームボーイカラー対応。APPEND GOTTAMIXからの5曲と、[歌謡曲](../Page/歌謡曲.md "wikilink")・[アニソン](https://ja.wikipedia.org/wiki/アニソン "wikilink")などの幅広いジャンルの人気楽曲20曲で構成。以下の2作を含め、開発はPS版と同じ[コナミコンピュータエンタテインメントジャパン](https://ja.wikipedia.org/wiki/コナミコンピュータエンタテインメントジャパン "wikilink")が担当した。
+    「beatmania GB」と同じくゲームボーイカラー対応。APPEND GOTTAMIXからの5曲と、[歌謡曲](../Page/歌謡曲.md "wikilink")・[アニソン](https://ja.wikipedia.org/wiki/アニソン "wikilink")などの幅広いジャンルの人気楽曲20曲で構成。以下の2作を含め、開発はPS版と同じ[コナミコンピュータエンタテインメントジャパン](../Page/コナミコンピュータエンタテインメントジャパン.md "wikilink")が担当した。
     今作の場合、それぞれジャンル別に曲追加パスワードが出るのだが異なるジャンルの隠し楽曲をフリーで出現させるにはそれぞれのジャンルのパスワードを一々入力しなければいけない（隠しである全曲解禁パスワードを使うと1回で済む）。
     前作同様、ビートマニア筐体のフレームが用意されている。
   - beatmania GB ガッチャミックス2（2000年[9月28日](../Page/9月28日.md "wikilink")発売）
     上記2作とは違いゲームボーイカラー専用で、収録曲はbeatmaniaシリーズオリジナル楽曲を収録せず全て既存人気楽曲で構成されている。曲数は前作と同じ25曲。当初は[モバイルシステムGB](https://ja.wikipedia.org/wiki/モバイルシステムGB "wikilink")対応の「beatmania GB3 NETJAM」として発売される予定だった。収録楽曲のほとんどは、配信予定だった楽曲のリサイクルと思われる（楽曲中に流れるムービーにNETJAMの文字が含まれているものが存在）。
     また、今作では隠しコマンドでヒドゥン以外のプレイオプションでプレイできる（AC版と似たようなプレイオプションが設定できる。また、ある条件を満たした状態でクリア後に隠しプレイオプション設定の説明がある）。
-    収録されている『[残酷な天使のテーゼ](https://ja.wikipedia.org/wiki/残酷な天使のテーゼ "wikilink")』の楽曲ムービーには、ビートマニアに登場したメタルギアソリッドの楽曲ムービーの一部が使われている他に『サザエさん一家』に関してはシリーズでは珍しいムービー終盤にグー・チョキ・パーがランダムで表示される要素がある。
+    収録されている『[残酷な天使のテーゼ](../Page/残酷な天使のテーゼ.md "wikilink")』の楽曲ムービーには、ビートマニアに登場したメタルギアソリッドの楽曲ムービーの一部が使われている他に『サザエさん一家』に関してはシリーズでは珍しいムービー終盤にグー・チョキ・パーがランダムで表示される要素がある。
     なお本来この作品はNET JAMになるはずだったものであるが、NET JAMではユーザー同士で楽曲とメールを一体化したシステムでやりとりするモードや新曲ダウンロードができたりハイスコアランキングをモバイルGBアダプタを介して行える機能が用意される予定であった。
     NET JAMが開発中止になった理由は不明だが、当時の[モバイルシステムGB](https://ja.wikipedia.org/wiki/モバイルシステムGB "wikilink")の普及の低さやダウンロードによる楽曲の著作権料がネックになったものと見られる（後にこれらの問題は、同様のシステムを持つ[任天堂](../Page/任天堂.md "wikilink")の『大合奏\!バンドブラザーズDX』においてクリアしている）。
 
@@ -351,11 +351,11 @@ PlayStation版は単体で起動する「キーディスク」と、起動にキ
     ReggaeやBreak-btsを収録。基本構成は無印と同じ。なお、DJバトルが収録されているのはこの作品まで。
     また、この作品から以降への作品の筐体デサインとなった。
   - beatmania pocket Summer Mix
-    「夏」をテーマにした楽曲を収録。[東京音頭](https://ja.wikipedia.org/wiki/東京音頭 "wikilink")が収録されているのがユニーク。
+    「夏」をテーマにした楽曲を収録。[東京音頭](../Page/東京音頭.md "wikilink")が収録されているのがユニーク。
   - ビーマニポケット アニソンミックス 〜永井豪・ダイナミックプロ編〜
     アニメ作品の楽曲をビートマニアで楽しめる稀有な一品。[ダイナミックプロ](https://ja.wikipedia.org/wiki/ダイナミックプロ "wikilink")が監修に協力している。
   - ビーマニポケット ときめきメモリアル
-    同社の[恋愛シミュレーションゲーム](https://ja.wikipedia.org/wiki/恋愛シミュレーションゲーム "wikilink")『[ときめきメモリアル](https://ja.wikipedia.org/wiki/ときめきメモリアル "wikilink")』関連の曲を収録。
+    同社の[恋愛シミュレーションゲーム](https://ja.wikipedia.org/wiki/恋愛シミュレーションゲーム "wikilink")『[ときめきメモリアル](../Page/ときめきメモリアル.md "wikilink")』関連の曲を収録。
   - ビーマニポケット スケルトン
     ビーマニ・サマーキャンペーンの商品で5000個限定の非売品。その名の通りの透明な筐体。収録されている5曲はすべてコナミから発売されたゲームの楽曲である。
   - ビーマニポケット アニソンミックス2 〜石ノ森章太郎編〜
@@ -363,15 +363,15 @@ PlayStation版は単体で起動する「キーディスク」と、起動にキ
   - ビーマニポケット 2000
     アニメ曲や過去のポケットシリーズからの再録曲など、ジャンルは多岐にわたる。
   - ビーマニポケット enjoy GEORGIA SIGNATURE
-    [ジョージアのキャンペーン](https://ja.wikipedia.org/wiki/ジョージア_\(缶コーヒー\) "wikilink")、2000年の福袋プレゼントの同梱品。収録曲はほとんどが過去のシリーズからの再録だが、一部グラフィックが当時CMに出演していた[飯島直子](https://ja.wikipedia.org/wiki/飯島直子 "wikilink")のグラフィックに差し替えられている。
+    [ジョージアのキャンペーン](../Page/ジョージア_\(缶コーヒー\).md "wikilink")、2000年の福袋プレゼントの同梱品。収録曲はほとんどが過去のシリーズからの再録だが、一部グラフィックが当時CMに出演していた[飯島直子](https://ja.wikipedia.org/wiki/飯島直子 "wikilink")のグラフィックに差し替えられている。
   - ビーマニポケット ハローキティ
     収録曲は[サンリオ](../Page/サンリオ.md "wikilink")関連のものではなく、すべてポップス。
   - ビーマニポケット アニソンミックス3 〜松本零士編〜
     アニソンミックス第3弾。『[宇宙戦艦ヤマト](https://ja.wikipedia.org/wiki/宇宙戦艦ヤマト "wikilink")』や『[銀河鉄道999](../Page/銀河鉄道999.md "wikilink")』など7曲を収録。
   - ビーマニポケット 〜猛虎進撃〜
-    [阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")にちなんだ楽曲ばかりが収録されている。結果がチーム順位で表示されるなどのアレンジがされている。
+    [阪神タイガース](../Page/阪神タイガース.md "wikilink")にちなんだ楽曲ばかりが収録されている。結果がチーム順位で表示されるなどのアレンジがされている。
   - ビーマニポケット Cawaii\!
-    女性向け月刊誌『[Cawaii\!](https://ja.wikipedia.org/wiki/Cawaii! "wikilink")』とのタイアップで製作された。本体にラメが入るなど独自の工夫がこらされている。
+    女性向け月刊誌『[Cawaii\!](../Page/Cawaii!.md "wikilink")』とのタイアップで製作された。本体にラメが入るなど独自の工夫がこらされている。
   - ビーマニポケット ときめきメモリアル2
     同社の恋愛シミュレーションゲーム『[ときめきメモリアル2](../Page/ときめきメモリアル2.md "wikilink")』関連の曲を収録。初代『ときメモ』の曲も収録されている。
   - ビーマニポケット Love Stories
@@ -385,17 +385,17 @@ PlayStation版は単体で起動する「キーディスク」と、起動にキ
 
 ### beatmania打\!\!シリーズ
 
-本作をモチーフとした[タイピングソフト](https://ja.wikipedia.org/wiki/タイピングソフト "wikilink")。「MASTER打\!\!」モードでは[キーボードのタッチタイピングによって](https://ja.wikipedia.org/wiki/キーボード_\(コンピュータ\) "wikilink")、『beatmania』と同じシステムで楽曲を演奏する（使用するキーは最大でアルファベット26文字+スペースキー）。収録されている全曲が3分程度の新規ロングバージョンとしてアレンジされている。
+本作をモチーフとした[タイピングソフト](../Page/タイピングソフト.md "wikilink")。「MASTER打\!\!」モードでは[キーボードのタッチタイピングによって](../Page/キーボード_\(コンピュータ\).md "wikilink")、『beatmania』と同じシステムで楽曲を演奏する（使用するキーは最大でアルファベット26文字+スペースキー）。収録されている全曲が3分程度の新規ロングバージョンとしてアレンジされている。
 
   - beatmania打（だ）\!\!（2000年[2月17日](../Page/2月17日.md "wikilink")発売）
-    [Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")/[Macintosh](../Page/Macintosh.md "wikilink")ハイブリッド対応の[CD-ROM](../Page/CD-ROM.md "wikilink")で発売。[iNiS製作](https://ja.wikipedia.org/wiki/イニス "wikilink")、発売元はハンズオン・エンタテインメント/オラシオン。全10曲（うち、隠し曲「Beauty and The KUMA-SAN (Synth Junkie Mix)」のみ本作オリジナル楽曲）。
+    [Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")/[Macintosh](../Page/Macintosh.md "wikilink")ハイブリッド対応の[CD-ROM](../Page/CD-ROM.md "wikilink")で発売。[iNiS製作](../Page/イニス.md "wikilink")、発売元はハンズオン・エンタテインメント/オラシオン。全10曲（うち、隠し曲「Beauty and The KUMA-SAN (Synth Junkie Mix)」のみ本作オリジナル楽曲）。
   - beatmania BEST打\!\!（2000年[9月28日](../Page/9月28日.md "wikilink")発売、PCHOME版は2002年[7月5日](../Page/7月5日.md "wikilink")発売）
     前作と同じくWindows/Macintoshハイブリッド対応。発売元はハンズオン・エンタテインメント。『beatmania BEST HITS』の人気投票を元にした収録曲になっており、全11曲。レベル選択が追加され、1曲につきNORMALとEXPERTの2種類の難易度の譜面が用意された。また一部の曲のプレイ中の出題問題のテキストも編集できるようになり、期間限定でインターネットランキングも開催されていた。
-    後に、通常版より収録曲数が少ない（全5曲）[廉価版](https://ja.wikipedia.org/wiki/廉価版 "wikilink")がNECインターチャネル（現・[インターチャネル](https://ja.wikipedia.org/wiki/インターチャネル "wikilink")）より「PCHOMEシリーズ」として発売された。また、ウェブサイト「[Vector](https://ja.wikipedia.org/wiki/ベクター_\(企業\) "wikilink")」にて前作と共に体験版が配信されている。
+    後に、通常版より収録曲数が少ない（全5曲）[廉価版](../Page/廉価版.md "wikilink")がNECインターチャネル（現・[インターチャネル](../Page/インターチャネル.md "wikilink")）より「PCHOMEシリーズ」として発売された。また、ウェブサイト「[Vector](../Page/ベクター_\(企業\).md "wikilink")」にて前作と共に体験版が配信されている。
   - pop'n music打\!\!（2000年9月28日発売、PCHOME版は2002年[9月6日](../Page/9月6日.md "wikilink")発売）
     『beatmania BEST打\!\!』と同時発売された派生作品。インターフェイスと収録曲は姉妹作である『[pop'n music](https://ja.wikipedia.org/wiki/pop'n_music "wikilink")』をベースとしているが、内容は上記『BEST打\!\!』とほぼ同じシステムが採用されている。体験版や廉価版についても同様。
   - beatmania打打打\!\!（2001年[3月29日](../Page/3月29日.md "wikilink")発売、BEST版は2002年[5月16日](../Page/5月16日.md "wikilink")発売）
-    [PlayStation 2用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。発売元はハンズオン・エンタテインメント。「コナミUSBキーボード」対応ソフト第1弾。USBキーボードを接続してプレイする形態となっており、「コナミUSB対応キーボード同梱セット」として発売された。上記PC版本編2作の収録曲（「Beauty and The KUMA-SAN」除く）に加え、新たにJ-POP系の楽曲や『[ときめきメモリアル](https://ja.wikipedia.org/wiki/ときめきメモリアル "wikilink")』の曲のアレンジも収録されている。全26曲。
+    [PlayStation 2用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。発売元はハンズオン・エンタテインメント。「コナミUSBキーボード」対応ソフト第1弾。USBキーボードを接続してプレイする形態となっており、「コナミUSB対応キーボード同梱セット」として発売された。上記PC版本編2作の収録曲（「Beauty and The KUMA-SAN」除く）に加え、新たにJ-POP系の楽曲や『[ときめきメモリアル](../Page/ときめきメモリアル.md "wikilink")』の曲のアレンジも収録されている。全26曲。
     後に『- THE BEST 打』という名で廉価版も発売された。ゲーム内容は通常版から変更されていない。
 
 ### 北米PlayStation 2版
@@ -418,7 +418,7 @@ PlayStation版は単体で起動する「キーディスク」と、起動にキ
   - 他のBEMANIシリーズ発祥の楽曲が採用されるケースが多いが、ビートマニアから他のシリーズに採用された初めての楽曲はポップンミュージックでの「e-motion」である。ただし、これは2nd MIXバージョンのものが採用されている。また逆のケースでは、ポップンミュージックからの楽曲『Quick master』がビートマニアとしては初めての採用となった。
   - また、異例なケースでは家庭用オリジナルであるGOTTAMIXの楽曲「Miracle Moon」が同じく家庭用のポップンミュージック2に移植され、それがアーケード版ポップン3に移植されてアーケードデビューする事例があった。
   - PS版はPSのCD-ROMが黒の為かレーベルのデザインがレコード風味になっている。
-  - 家庭用オリジナル楽曲には当時開発を行っていたKCEJ（現・[小島プロダクション](https://ja.wikipedia.org/wiki/小島プロダクション "wikilink")）の作品からのリミックス曲がいくつか収録されている。その殆どが小島作品からであるが、唯一「[ポリスノーツ](https://ja.wikipedia.org/wiki/ポリスノーツ "wikilink")」からのリミックス曲はない。
+  - 家庭用オリジナル楽曲には当時開発を行っていたKCEJ（現・[小島プロダクション](../Page/小島プロダクション.md "wikilink")）の作品からのリミックス曲がいくつか収録されている。その殆どが小島作品からであるが、唯一「[ポリスノーツ](../Page/ポリスノーツ.md "wikilink")」からのリミックス曲はない。
 
 なお、CLUB MIXの[スナッチャー](../Page/スナッチャー.md "wikilink")楽曲は家庭用オリジナルではなく、AC版で最初から収録されていたものである。
 

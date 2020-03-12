@@ -9,15 +9,15 @@
 
 ## 概要
 
-『[ウルトラマンコスモス](../Page/ウルトラマンコスモス.md "wikilink")』の劇場版第3作にしてシリーズ最終作で、前年公開の『[ウルトラマンコスモス2 THE BLUE PLANET](https://ja.wikipedia.org/wiki/ウルトラマンコスモス2_THE_BLUE_PLANET "wikilink")』の後の世界を描いた作品。
+『[ウルトラマンコスモス](../Page/ウルトラマンコスモス.md "wikilink")』の劇場版第3作にしてシリーズ最終作で、前年公開の『[ウルトラマンコスモス2 THE BLUE PLANET](../Page/ウルトラマンコスモス2_THE_BLUE_PLANET.md "wikilink")』の後の世界を描いた作品。
 
 前作では顔見せ程度の登場であった**ウルトラマンジャスティス**は、本作ではキャラクターを掘り下げられており、人間体**ジュリ**や新形態**クラッシャーモード**などを披露している。
 
 コスモスについては、テレビシリーズで戦闘形態として頻繁に活躍したコロナモードは本作には登場しないが、前作に引き続きスペースコロナモードが登場する他、新たな最強形態**フューチャーモード**を初披露。また、シリーズ初の複合ウルトラマン**ウルトラマンレジェンド**も登場する。
 
-前作に引き続き『[ウルトラマンティガ](../Page/ウルトラマンティガ.md "wikilink")』『[ウルトラマンダイナ](https://ja.wikipedia.org/wiki/ウルトラマンダイナ "wikilink")』『[ウルトラマンガイア](https://ja.wikipedia.org/wiki/ウルトラマンガイア "wikilink")』『[ウルトラマンネオス](../Page/ウルトラマンネオス.md "wikilink")』で特捜チームの隊長・副隊長・隊員を演じた俳優達が出演している。
+前作に引き続き『[ウルトラマンティガ](../Page/ウルトラマンティガ.md "wikilink")』『[ウルトラマンダイナ](../Page/ウルトラマンダイナ.md "wikilink")』『[ウルトラマンガイア](../Page/ウルトラマンガイア.md "wikilink")』『[ウルトラマンネオス](../Page/ウルトラマンネオス.md "wikilink")』で特捜チームの隊長・副隊長・隊員を演じた俳優達が出演している。
 
-本作の音楽は前作と同様、『ティガ』『ダイナ』で劇伴音楽を担当した[矢野立美](https://ja.wikipedia.org/wiki/矢野立美 "wikilink")が担当した。
+本作の音楽は前作と同様、『ティガ』『ダイナ』で劇伴音楽を担当した[矢野立美](../Page/矢野立美.md "wikilink")が担当した。
 
 上記の通り『[ウルトラマンコスモス](../Page/ウルトラマンコスモス.md "wikilink")』は本作で終了したが、映画『[ウルトラマンサーガ](https://ja.wikipedia.org/wiki/ウルトラマンサーガ "wikilink")』や『[劇場版 ウルトラマンギンガS 決戦\!ウルトラ10勇士\!\!](https://ja.wikipedia.org/wiki/劇場版_ウルトラマンギンガS_決戦!ウルトラ10勇士!! "wikilink")』以降では本作以後の世界が描かれている。
 
@@ -56,14 +56,14 @@
 
 ### SRC
 
-イケヤマ管理官については[ウルトラマンコスモス](../Page/ウルトラマンコスモス.md "wikilink")を参照。アカギ審議官については[ウルトラマンコスモス2 THE BLUE PLANETを参照](https://ja.wikipedia.org/wiki/ウルトラマンコスモス2_THE_BLUE_PLANET "wikilink")。
+イケヤマ管理官については[ウルトラマンコスモス](../Page/ウルトラマンコスモス.md "wikilink")を参照。アカギ審議官については[ウルトラマンコスモス2 THE BLUE PLANETを参照](../Page/ウルトラマンコスモス2_THE_BLUE_PLANET.md "wikilink")。
 
   - オオワダ代表
     SRC代表。前作では登場しなかった。SRC 本部のバーチャル会議に出現したジュリに対してもその態度と姿勢を崩さない大きな人物である。
 
 ### その他
 
-川瀬マリと春野みち子については[ウルトラマンコスモス THE FIRST CONTACTを参照](../Page/ウルトラマンコスモス_THE_FIRST_CONTACT.md "wikilink")。防衛軍のイヌガイ司令官とヒジカタ参謀については[ウルトラマンコスモス2 THE BLUE PLANETを参照](https://ja.wikipedia.org/wiki/ウルトラマンコスモス2_THE_BLUE_PLANET "wikilink")。
+川瀬マリと春野みち子については[ウルトラマンコスモス THE FIRST CONTACTを参照](../Page/ウルトラマンコスモス_THE_FIRST_CONTACT.md "wikilink")。防衛軍のイヌガイ司令官とヒジカタ参謀については[ウルトラマンコスモス2 THE BLUE PLANETを参照](../Page/ウルトラマンコスモス2_THE_BLUE_PLANET.md "wikilink")。
 
   - ミオ
     コスモスという愛犬と遊びながらジュリに出会った少女。危険を顧みず、瓦礫に挟まったコスモスを救おうとした。彼女がとった行動がジュリの心を強く動かす。また、グローカールークと戦うジャスティスを応援したり、病院のTVからフューチャーモードに変身したコスモスを見守っていた。
@@ -161,7 +161,7 @@
 
 :; ゴールデンライト・バリア
 
-:: ゲーム作品『[ウルトラマン Fighting Evolution](https://ja.wikipedia.org/wiki/ウルトラマン_Fighting_Evolution "wikilink")3』で使用した技。基本的にはエクリプスモードが使用していたものと同様。
+:: ゲーム作品『[ウルトラマン Fighting Evolution](../Page/ウルトラマン_Fighting_Evolution.md "wikilink")3』で使用した技。基本的にはエクリプスモードが使用していたものと同様。
 
 :; エクリプススパーク
 
@@ -402,28 +402,28 @@
   - 春野ムサシ / ウルトラマンコスモス（声） - [杉浦太陽](https://ja.wikipedia.org/wiki/杉浦太陽 "wikilink")
   - ジュリ / ウルトラマンジャスティス（話し声）- [吹石一恵](https://ja.wikipedia.org/wiki/吹石一恵 "wikilink")
   - フブキケイスケ - [市瀬秀和](../Page/市瀬秀和.md "wikilink")
-  - カシマエイイチ - [清水圭](https://ja.wikipedia.org/wiki/清水圭 "wikilink")
+  - カシマエイイチ - [清水圭](../Page/清水圭.md "wikilink")
   - クラモト ナツキ - [麻田ユリカ](https://ja.wikipedia.org/wiki/麻田ユリカ "wikilink")
   - ショウダリョウジロウ - [仁科克基](../Page/仁科克基.md "wikilink")\[107\]
   - ワタライカズオミ - [東城大](https://ja.wikipedia.org/wiki/東城大 "wikilink")
   - ヒウラハルミツ - [嶋大輔](../Page/嶋大輔.md "wikilink")
   - ミズキ シノブ - [坂上香織](../Page/坂上香織.md "wikilink")
-  - ドイガキコウジ - [須藤公一](https://ja.wikipedia.org/wiki/須藤公一 "wikilink")
+  - ドイガキコウジ - [須藤公一](../Page/須藤公一.md "wikilink")
   - モリモトアヤノ - [鈴木繭菓](../Page/鈴木繭菓.md "wikilink")
   - シャウ - [斉藤麻衣](../Page/斉藤麻衣.md "wikilink")
   - ジーン - [松尾政寿](../Page/松尾政寿.md "wikilink")
-  - 川瀬マリ - [西村美保](https://ja.wikipedia.org/wiki/金子美保 "wikilink")
+  - 川瀬マリ - [西村美保](../Page/金子美保.md "wikilink")
   - イケヤマ - [市川兵衛](https://ja.wikipedia.org/wiki/市川兵衛 "wikilink")
-  - イヌガイ司令官 - [嶋田久作](https://ja.wikipedia.org/wiki/嶋田久作 "wikilink")
-  - ヒジカタ参謀 - [大滝明利](https://ja.wikipedia.org/wiki/大滝明利 "wikilink")
+  - イヌガイ司令官 - [嶋田久作](../Page/嶋田久作.md "wikilink")
+  - ヒジカタ参謀 - [大滝明利](../Page/大滝明利.md "wikilink")
   - ミオ - [大後寿々花](../Page/大後寿々花.md "wikilink")
-  - 春野ムサシ（13歳） - [東海孝之助](https://ja.wikipedia.org/wiki/東海孝之助 "wikilink")
+  - 春野ムサシ（13歳） - [東海孝之助](../Page/東海孝之助.md "wikilink")
   - キド - [風見しんご](../Page/風見しんご.md "wikilink")
   - ヒュウガ - [斉藤りさ](../Page/斉藤りさ.md "wikilink")
   - カノウ - [加瀬尊朗](https://ja.wikipedia.org/wiki/加瀬信行 "wikilink")
   - マカベ - [中村浩二](https://ja.wikipedia.org/wiki/中村浩二 "wikilink")
   - 吉井ユカリ - [堀江奈々](https://ja.wikipedia.org/wiki/堀江奈々 "wikilink")
-  - SRC中国代表 - [満田かずほ](https://ja.wikipedia.org/wiki/満田かずほ "wikilink")
+  - SRC中国代表 - [満田かずほ](../Page/満田かずほ.md "wikilink")
   - SRC各国代表 - [リチャード・クロップ](https://ja.wikipedia.org/wiki/リチャード・クロップ "wikilink")、[インゲ・ムラタ](https://ja.wikipedia.org/wiki/インゲ・ムラタ "wikilink")、[マーク・マードック](https://ja.wikipedia.org/wiki/マーク・マードック "wikilink")
   - アナウンサー - [越村公一](https://ja.wikipedia.org/wiki/越村公一 "wikilink")
   - 春野みち子 - [高橋ひとみ](https://ja.wikipedia.org/wiki/高橋ひとみ "wikilink")
@@ -433,11 +433,11 @@
 
 ### 声の出演
 
-  - ウルトラマンコスモス - [佐藤佑暉](https://ja.wikipedia.org/wiki/佐藤佑暉 "wikilink")、[稲田徹](https://ja.wikipedia.org/wiki/稲田徹 "wikilink")
+  - ウルトラマンコスモス - [佐藤佑暉](../Page/佐藤佑暉.md "wikilink")、[稲田徹](../Page/稲田徹.md "wikilink")
   - ウルトラマンジャスティス - [龍谷修武](../Page/龍谷修武.md "wikilink")
   - ウルトラマンレジェンド - 稲田徹
   - チャイルドバルタン シルビィ - [最上莉奈](../Page/最上莉奈.md "wikilink")
-  - デラシオン - [原知佐子](https://ja.wikipedia.org/wiki/原知佐子 "wikilink")
+  - デラシオン - [原知佐子](../Page/原知佐子.md "wikilink")
   - 館内アナウンス / コンピュータ - [溝上真紀子](../Page/溝上真紀子.md "wikilink")
   - 壁面モニター内ナレーション - [松木朗](https://ja.wikipedia.org/wiki/松木朗 "wikilink")
   - ナレーション - [ボンバー森尾](../Page/ボンバー森尾.md "wikilink")
@@ -462,7 +462,7 @@
   - 監督・特技監督 - [北浦嗣巳](https://ja.wikipedia.org/wiki/北浦嗣巳 "wikilink")
   - 殺陣 - [車邦秀](https://ja.wikipedia.org/wiki/車邦秀 "wikilink")
   - 脚本 - [長谷川圭一](../Page/長谷川圭一.md "wikilink")、[川上英幸](https://ja.wikipedia.org/wiki/川上英幸 "wikilink")
-  - 音楽 - [矢野立美](https://ja.wikipedia.org/wiki/矢野立美 "wikilink")
+  - 音楽 - [矢野立美](../Page/矢野立美.md "wikilink")
   - 撮影 - [大岡新一](../Page/大岡新一.md "wikilink")
   - 美術 - [大澤哲三](https://ja.wikipedia.org/wiki/大澤哲三 "wikilink")
   - 編集 - 松木朗
@@ -473,7 +473,7 @@
 ## 主題歌
 
   - 「High HOPE」
-    作詞・作曲 - [KATSUMI](https://ja.wikipedia.org/wiki/KATSUMI "wikilink") 編曲 - [大門一也](https://ja.wikipedia.org/wiki/大門一也 "wikilink") 歌 - [Project DMM](https://ja.wikipedia.org/wiki/Project_DMM "wikilink")
+    作詞・作曲 - [KATSUMI](../Page/KATSUMI.md "wikilink") 編曲 - [大門一也](../Page/大門一也.md "wikilink") 歌 - [Project DMM](../Page/Project_DMM.md "wikilink")
 
 ## 映像ソフト化
 
@@ -494,7 +494,7 @@
   -
   -
   -
-  - 『週刊 ウルトラマン OFFICIAL DATA FILE』[デアゴスティーニ・ジャパン](https://ja.wikipedia.org/wiki/デアゴスティーニ・ジャパン "wikilink")
+  - 『週刊 ウルトラマン OFFICIAL DATA FILE』[デアゴスティーニ・ジャパン](../Page/デアゴスティーニ・ジャパン.md "wikilink")
 
       -
       -
@@ -506,10 +506,10 @@
   - [ウルトラシリーズ](https://ja.wikipedia.org/wiki/ウルトラシリーズ "wikilink")
   - [ウルトラマンコスモス](../Page/ウルトラマンコスモス.md "wikilink")
   - [ウルトラマンコスモス THE FIRST CONTACT](../Page/ウルトラマンコスモス_THE_FIRST_CONTACT.md "wikilink")
-  - [ウルトラマンコスモス2 THE BLUE PLANET](https://ja.wikipedia.org/wiki/ウルトラマンコスモス2_THE_BLUE_PLANET "wikilink")
+  - [ウルトラマンコスモス2 THE BLUE PLANET](../Page/ウルトラマンコスモス2_THE_BLUE_PLANET.md "wikilink")
   - [ウルトラマン一覧](../Page/ウルトラマン一覧.md "wikilink")
   - [ウルトラ怪獣一覧](../Page/ウルトラ怪獣一覧.md "wikilink")
-  - [ウルトラシリーズ登場兵器一覧](https://ja.wikipedia.org/wiki/ウルトラシリーズ登場兵器一覧 "wikilink")
+  - [ウルトラシリーズ登場兵器一覧](../Page/ウルトラシリーズ登場兵器一覧.md "wikilink")
 
 ## 外部リンク
 

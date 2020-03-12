@@ -1,9 +1,9 @@
 > この記事は[America\'s Army](https://ja.wikipedia.org/wiki/America\'s_Army)から翻訳されています。
 
 
-『**America's Army**』（**アメリカズ アーミー**、略称：*AA*）は [アメリカ陸軍](https://ja.wikipedia.org/wiki/アメリカ陸軍 "wikilink")によって企画・製作された[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")で、[ファーストパーソン・シューティングゲーム](../Page/ファーストパーソン・シューティングゲーム.md "wikilink")（FPS）である。当時のアメリカ陸軍の広報予算（約22億円）を使い開発された。
+『**America's Army**』（**アメリカズ アーミー**、略称：*AA*）は [アメリカ陸軍](../Page/アメリカ陸軍.md "wikilink")によって企画・製作された[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")で、[ファーストパーソン・シューティングゲーム](../Page/ファーストパーソン・シューティングゲーム.md "wikilink")（FPS）である。当時のアメリカ陸軍の広報予算（約22億円）を使い開発された。
 
-アカウント作成からプレイに至るまで、利用はすべて[無料](https://ja.wikipedia.org/wiki/無料 "wikilink")である。
+アカウント作成からプレイに至るまで、利用はすべて[無料](../Page/無料.md "wikilink")である。
 
 ## 概要
 
@@ -117,14 +117,14 @@ HONOR（オナー）ポイントとはプレイヤーのプレイ経験を数値
   - [M249](https://ja.wikipedia.org/wiki/M249 "wikilink")
   - [M203](https://ja.wikipedia.org/wiki/M203 "wikilink")
   - [M24](https://ja.wikipedia.org/wiki/M24_\(狙撃銃\) "wikilink")
-  - [バレットM82](https://ja.wikipedia.org/wiki/バレットM82 "wikilink")A1
+  - [バレットM82](../Page/バレットM82.md "wikilink")A1
   - [SPR Mk12](https://ja.wikipedia.org/wiki/M16自動小銃#SPR_Mk12 "wikilink")
-  - [M4A1](https://ja.wikipedia.org/wiki/M4カービン "wikilink")
+  - [M4A1](../Page/M4カービン.md "wikilink")
   - [レミントンM870](../Page/レミントンM870.md "wikilink")
-  - [HMMWV](https://ja.wikipedia.org/wiki/ハンヴィー "wikilink") 非対応　通常coopのみ
-  - [ブローニングM2重機関銃](https://ja.wikipedia.org/wiki/ブローニングM2重機関銃 "wikilink") 非対応　[HMMWV](https://ja.wikipedia.org/wiki/HMMWV "wikilink")上部に搭載
+  - [HMMWV](../Page/ハンヴィー.md "wikilink") 非対応　通常coopのみ
+  - [ブローニングM2重機関銃](../Page/ブローニングM2重機関銃.md "wikilink") 非対応　[HMMWV](https://ja.wikipedia.org/wiki/HMMWV "wikilink")上部に搭載
   - [Mk19 自動擲弾銃](https://ja.wikipedia.org/wiki/Mk19_自動擲弾銃 "wikilink") 非対応　[HMMWV](https://ja.wikipedia.org/wiki/HMMWV "wikilink")上部に搭載
-  - [ジャベリン (対戦車ミサイル)](https://ja.wikipedia.org/wiki/ジャベリン_\(対戦車ミサイル\) "wikilink")　FGM-148 非対応
+  - [ジャベリン (対戦車ミサイル)](../Page/ジャベリン_\(対戦車ミサイル\).md "wikilink")　FGM-148 非対応
   - [ストライカー装甲車](../Page/ストライカー装甲車.md "wikilink") Arcticのみ
   - [AT4](https://ja.wikipedia.org/wiki/AT4 "wikilink")　対人、対戦車、対装甲車
   - [M141 BDM](https://ja.wikipedia.org/wiki/M141_BDM "wikilink")　壁破壊用
@@ -132,7 +132,7 @@ HONOR（オナー）ポイントとはプレイヤーのプレイ経験を数値
 **テロリスト**
 
   - [マカロフ PM](https://ja.wikipedia.org/wiki/マカロフ_PM "wikilink")
-  - [Vz 61](https://ja.wikipedia.org/wiki/Vz_61 "wikilink")
+  - [Vz 61](../Page/Vz_61.md "wikilink")
   - [AK-47](../Page/AK-47.md "wikilink")
   - [AK-103](https://ja.wikipedia.org/wiki/AK-103 "wikilink")
   - [RPK-74](https://ja.wikipedia.org/wiki/RPK-74 "wikilink")
@@ -141,7 +141,7 @@ HONOR（オナー）ポイントとはプレイヤーのプレイ経験を数値
   - [VSS](https://ja.wikipedia.org/wiki/VSS "wikilink")
   - [AK74su](https://ja.wikipedia.org/wiki/AK-74#AKS-74U "wikilink")
   - [迫撃砲](../Page/迫撃砲.md "wikilink") 非対応　coopのみ
-  - [BTR-80](https://ja.wikipedia.org/wiki/BTR-80 "wikilink") Arcticのみ
+  - [BTR-80](../Page/BTR-80.md "wikilink") Arcticのみ
   - [RPG-7](../Page/RPG-7.md "wikilink") [HEAT](../Page/HEAT.md "wikilink")か
   - [RPG-7](../Page/RPG-7.md "wikilink") 弾頭違
 

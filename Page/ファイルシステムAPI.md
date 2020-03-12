@@ -11,7 +11,7 @@
 
 本来、OSには一種類のディスクファイルシステムしかなかった。しかし、以下のような問題がシステムの発展に伴って発生してきた。
 
-  - ネットワークが普及するにつれて、[分散ファイルシステム](https://ja.wikipedia.org/wiki/分散ファイルシステム "wikilink")が各OSで必要とされるようになった。
+  - ネットワークが普及するにつれて、[分散ファイルシステム](../Page/分散ファイルシステム.md "wikilink")が各OSで必要とされるようになった。
   - 異なるOS間でファイルを交換する必要性が増してきた。
 
 古い手法では、全ファイルシステムとネットワークプロトコルはOSの[カーネル](../Page/カーネル.md "wikilink")内の固有機能であり、ファイルへのアクセスはローカルであれリモートであれ全てカーネル内で処理されていた。
@@ -42,7 +42,7 @@
 
 ## カーネル・ドライバ混合API
 
-このAPIは、ファイルシステムがカーネル内にあるものの、実際にはそのファイルシステムを使わずにドライバ型APIの別のファイルシステムを使用するものである。この手法は[VFATとして](https://ja.wikipedia.org/wiki/File_Allocation_Table#VFAT "wikilink")[Windows 3.11以降の](https://ja.wikipedia.org/wiki/Microsoft_Windows_3.1 "wikilink")[Windows 9x系で使われたものである](https://ja.wikipedia.org/wiki/Windows_9x系 "wikilink")。
+このAPIは、ファイルシステムがカーネル内にあるものの、実際にはそのファイルシステムを使わずにドライバ型APIの別のファイルシステムを使用するものである。この手法は[VFATとして](https://ja.wikipedia.org/wiki/File_Allocation_Table#VFAT "wikilink")[Windows 3.11以降の](https://ja.wikipedia.org/wiki/Microsoft_Windows_3.1 "wikilink")[Windows 9x系で使われたものである](../Page/Windows_9x系.md "wikilink")。
 
 しかし、このAPIは完全な文書が存在せず、サードパーティはこのインターフェイスを使用したファイルシステム開発に非常に苦労したという。
 
@@ -65,7 +65,7 @@
 ## 関連項目
 
   - [ファイルシステム](../Page/ファイルシステム.md "wikilink")
-  - [仮想ファイルシステム](https://ja.wikipedia.org/wiki/仮想ファイルシステム "wikilink")
+  - [仮想ファイルシステム](../Page/仮想ファイルシステム.md "wikilink")
       - Virtual File System - [UNIX](../Page/UNIX.md "wikilink")系システムのファイルシステムAPI
       - Installable File System - [OS/2](https://ja.wikipedia.org/wiki/OS/2 "wikilink")および[Windows NT系でのファイルシステムAPI](../Page/Windows_NT系.md "wikilink")
   - [拡張子](../Page/拡張子.md "wikilink")

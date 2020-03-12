@@ -3,7 +3,7 @@
 
 **Jackson vibe**（ジャクソンヴァイブ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[スカ](../Page/スカ.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")「[SKA SKA CLUB](../Page/SKA_SKA_CLUB.md "wikilink")」のグローバー義和と橋谷康一が2003年に新しく結成した3人組[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。
 
-2004年、ドラマのタイアップもあり旧「東芝EMI」（現「[EMIミュージック・ジャパン](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")）より「朝焼けの旅路」がヒット。各ライヴ会場でも盛況となる。
+2004年、ドラマのタイアップもあり旧「東芝EMI」（現「[EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink")）より「朝焼けの旅路」がヒット。各ライヴ会場でも盛況となる。
 
 2007年2月、[Binyl recordsに移籍](../Page/Binyl_records.md "wikilink")。それに伴いシングル5枚とアルバム1枚の合計6作が6ヶ月連続リリースされた。
 
@@ -102,7 +102,7 @@
 </dl></li>
 <li>レールモントフ[2:38]（作詞・作曲：グローバー義和／編曲：Jackson vibe・根岸孝旨）</li>
 <li>言わずとも[2:37]（作詞・作曲：グローバー義和／編曲：Jackson vibe・根岸孝旨）</li>
-<li>自転車[3:25]（作詞・作曲：<a href="https://ja.wikipedia.org/wiki/佐藤元彦" title="wikilink">佐藤元彦</a>／編曲：Jackson vibe・根岸孝旨）</li>
+<li>自転車[3:25]（作詞・作曲：<a href="../Page/佐藤元彦.md" title="wikilink">佐藤元彦</a>／編曲：Jackson vibe・根岸孝旨）</li>
 </ol></td>
 <td><p>オリコン50位</p></td>
 </tr>
@@ -145,7 +145,7 @@
 <li>桜[4:09]（作詞・作曲：グローバー義和／編曲：Jackson vibe）
 <dl>
 <dt></dt>
-<dd>この曲は<a href="https://ja.wikipedia.org/wiki/河合塾" title="wikilink">河合塾</a>とタイアップして作詞作曲され、07年度のCM曲として全国に流された。
+<dd>この曲は<a href="../Page/河合塾.md" title="wikilink">河合塾</a>とタイアップして作詞作曲され、07年度のCM曲として全国に流された。
 </dd>
 </dl></li>
 <li>フューチャースターマン[2:32]（作詞・作曲：グローバー義和／編曲：Jackson vibe）</li>
@@ -362,7 +362,7 @@ AVCD-23323:通常盤</p></td>
 <li>LOVER'S ROCK[3:50]Jackson vibe×<a href="../Page/曽我部恵一.md" title="wikilink">曽我部恵一</a></li>
 <li>愛のバラ[4:12]Jackson vibe×<a href="../Page/スネオヘアー.md" title="wikilink">スネオヘアー</a></li>
 <li>SEASIDE RAIN[5:56]Jackson vibe×<a href="../Page/西寺郷太.md" title="wikilink">西寺郷太</a>(<a href="https://ja.wikipedia.org/wiki/NONA_REEVES" title="wikilink">NONA REEVES</a>)</li>
-<li>ONE WAY SOLDIER[3:58]Jackson vibe×<a href="https://ja.wikipedia.org/wiki/Hermann_H.&amp;The_Pacemakers" title="wikilink">Hermann H.&amp;The Pacemakers</a>
+<li>ONE WAY SOLDIER[3:58]Jackson vibe×<a href="../Page/Hermann_H.&amp;The_Pacemakers.md" title="wikilink">Hermann H.&amp;The Pacemakers</a>
 <dl>
 <dt></dt>
 <dd>モビリティランド「多摩テック」CMソング

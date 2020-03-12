@@ -1,7 +1,7 @@
 > この記事は[HP Integrity NonStop](https://ja.wikipedia.org/wiki/HP_Integrity_NonStop)から翻訳されています。
 
 
-**HPE Integrity NonStop**は、[ヒューレット・パッカード](../Page/ヒューレット・パッカード.md "wikilink")社が販売する[無停止コンピュータ](https://ja.wikipedia.org/wiki/無停止コンピュータ "wikilink")のシリーズ。もとは[タンデムコンピューターズ](../Page/タンデムコンピューターズ.md "wikilink")社の製品であったが、企業買収により[コンパック](../Page/コンパック.md "wikilink")を経てヒューレット・パッカードの製品となった。他にはない99.9999%の可用性を実現するアーキテクチャ「**NonStop**（無停止）」が採用された[オープンシステムである](../Page/オープンシステム_\(コンピュータ\).md "wikilink")。1993年以来[MIPSプロセッサを採用していたが](https://ja.wikipedia.org/wiki/MIPSアーキテクチャ "wikilink")、2005年にインテルの[Itanium 2プロセッサに移行し](https://ja.wikipedia.org/wiki/Itanium "wikilink")、日本では製品名を**HP Integrity NonStop サーバ**としている。なお、Nonstop, Non-stop, Non-Stopなどと誤記されることが多いが「NonStop」が正しい。
+**HPE Integrity NonStop**は、[ヒューレット・パッカード](../Page/ヒューレット・パッカード.md "wikilink")社が販売する[無停止コンピュータ](https://ja.wikipedia.org/wiki/無停止コンピュータ "wikilink")のシリーズ。もとは[タンデムコンピューターズ](../Page/タンデムコンピューターズ.md "wikilink")社の製品であったが、企業買収により[コンパック](../Page/コンパック.md "wikilink")を経てヒューレット・パッカードの製品となった。他にはない99.9999%の可用性を実現するアーキテクチャ「**NonStop**（無停止）」が採用された[オープンシステムである](../Page/オープンシステム_\(コンピュータ\).md "wikilink")。1993年以来[MIPSプロセッサを採用していたが](../Page/MIPSアーキテクチャ.md "wikilink")、2005年にインテルの[Itanium 2プロセッサに移行し](../Page/Itanium.md "wikilink")、日本では製品名を**HP Integrity NonStop サーバ**としている。なお、Nonstop, Non-stop, Non-Stopなどと誤記されることが多いが「NonStop」が正しい。
 
 ## 歴史
 
@@ -26,8 +26,8 @@
 
 NSシリーズのTMR構成は通信・金融業などよりミッションクリティカルな顧客に多く採用された。しかし、ItaniumのシングルコアをIntelが今後開発する予定はなく、HPもマルチコアで演算結果比較を必要とするロジックを開発する予定はないため、NSシリーズの後継機種は発売されない予定である。
 
-  - 2005年6月 [インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")®[Itanium](https://ja.wikipedia.org/wiki/Itanium "wikilink")®2プロセッサ搭載　「[HP Integrity NonStop サーバ](https://ja.wikipedia.org/wiki/HP_Integrity_NonStop_サーバ "wikilink")　NS16000」発表
-  - 2006年6月 [インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")®[Itanium](https://ja.wikipedia.org/wiki/Itanium "wikilink")®2プロセッサ1.5GHz搭載　「[HP Integrity NonStop サーバ](https://ja.wikipedia.org/wiki/HP_Integrity_NonStop_サーバ "wikilink")　NS14000」発表
+  - 2005年6月 [インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")®[Itanium](../Page/Itanium.md "wikilink")®2プロセッサ搭載　「[HP Integrity NonStop サーバ](https://ja.wikipedia.org/wiki/HP_Integrity_NonStop_サーバ "wikilink")　NS16000」発表
+  - 2006年6月 [インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")®[Itanium](../Page/Itanium.md "wikilink")®2プロセッサ1.5GHz搭載　「[HP Integrity NonStop サーバ](https://ja.wikipedia.org/wiki/HP_Integrity_NonStop_サーバ "wikilink")　NS14000」発表
 
 CPUの高速化・メモリの拡張により、アプリケーション的にも大きな変化が見られた。これまでのGuardianと呼ばれる独自OSからOSSと呼ばれるUNIX互換OSでの開発に軸足が移された。オープン系のミドルウェアに対応が進んだのもこの一環であり、Java, Tomcatなどの対応によりパッケージソフトウェアが動作するようになったのは大きな進歩と言えるであろう。
 

@@ -1,7 +1,7 @@
 > この記事は[MBS](https://ja.wikipedia.org/wiki/MBS)から翻訳されています。
 
 
-**MBSドクホン**（エムビーエスドクホン）は、[毎日放送](../Page/毎日放送.md "wikilink")が発行していた[情報誌](https://ja.wikipedia.org/wiki/情報誌 "wikilink")（[フリーペーパー](https://ja.wikipedia.org/wiki/フリーペーパー "wikilink")）。
+**MBSドクホン**（エムビーエスドクホン）は、[毎日放送](../Page/毎日放送.md "wikilink")が発行していた[情報誌](https://ja.wikipedia.org/wiki/情報誌 "wikilink")（[フリーペーパー](../Page/フリーペーパー.md "wikilink")）。
 
 2004年1月に創刊0号を発行。第19号（2007年4月発行）をもって休刊中。
 
@@ -38,7 +38,7 @@
 
 12号以降は表紙が全面リニューアル。白地をバックに番組出演者をカッコよく描いたイラストが掲載されるようになった。
 
-裏表紙の下隅には[海原はるかの頭髪部の拡大写真が掲載され](../Page/海原はるか・かなた.md "wikilink")、[バーコード](../Page/バーコード.md "wikilink")と称している。一度だけ[ブラックマヨネーズ](../Page/ブラックマヨネーズ.md "wikilink")の[小杉竜一](../Page/小杉竜一.md "wikilink")が登場しており、同社制作の『[ジャイケルマクソン](https://ja.wikipedia.org/wiki/ジャイケルマクソン "wikilink")』に出演した際の罰ゲームでパンチパーマになった時の拡大写真が掲載された。雑誌コードは『44444-1179』と同局のテレビとラジオ周波数を合わせたものとなっている。
+裏表紙の下隅には[海原はるかの頭髪部の拡大写真が掲載され](../Page/海原はるか・かなた.md "wikilink")、[バーコード](../Page/バーコード.md "wikilink")と称している。一度だけ[ブラックマヨネーズ](../Page/ブラックマヨネーズ.md "wikilink")の[小杉竜一](../Page/小杉竜一.md "wikilink")が登場しており、同社制作の『[ジャイケルマクソン](../Page/ジャイケルマクソン.md "wikilink")』に出演した際の罰ゲームでパンチパーマになった時の拡大写真が掲載された。雑誌コードは『44444-1179』と同局のテレビとラジオ周波数を合わせたものとなっている。
 
 ## 主な企画
 
@@ -46,7 +46,7 @@
   - [テレビ](../Page/テレビ.md "wikilink")情報（[MBS制作だけでなく](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")[TBS制作も](../Page/TBSテレビ.md "wikilink")）
   - [ラジオ](../Page/ラジオ.md "wikilink")情報
   - [イベント](../Page/イベント.md "wikilink")情報
-  - [スポーツ](../Page/スポーツ.md "wikilink")・[美術](https://ja.wikipedia.org/wiki/美術 "wikilink")・[技術](../Page/技術.md "wikilink")・[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")etc…コーナー
+  - [スポーツ](../Page/スポーツ.md "wikilink")・[美術](../Page/美術.md "wikilink")・[技術](../Page/技術.md "wikilink")・[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")etc…コーナー
 
 <!-- end list -->
 
@@ -55,13 +55,13 @@
 <!-- end list -->
 
   -
-    [水野真紀](../Page/水野真紀.md "wikilink")の「[なにわ](https://ja.wikipedia.org/wiki/なにわ "wikilink")食いしぐれ」
+    [水野真紀](../Page/水野真紀.md "wikilink")の「[なにわ](../Page/なにわ.md "wikilink")食いしぐれ」
     [小出水画伯の](https://ja.wikipedia.org/wiki/シャンプーハット_\(お笑いコンビ\) "wikilink")「変態博覧会」
-    大西ユカリの「[新世界](https://ja.wikipedia.org/wiki/新世界_\(大阪\) "wikilink")[ミュージック](../Page/ミュージック.md "wikilink")」
-    [コピーライター](https://ja.wikipedia.org/wiki/コピーライター "wikilink")山崎の「毎日放送さん、このコピーやっぱボツですか？」
+    大西ユカリの「[新世界](../Page/新世界_\(大阪\).md "wikilink")[ミュージック](../Page/ミュージック.md "wikilink")」
+    [コピーライター](../Page/コピーライター.md "wikilink")山崎の「毎日放送さん、このコピーやっぱボツですか？」
     業界の建築（たてもの）くん
     熱血スポーツ記者が行く
-    『[痛快\!明石家電視台](https://ja.wikipedia.org/wiki/痛快!明石家電視台 "wikilink")』楽屋トークノーカット書き起こし
+    『[痛快\!明石家電視台](../Page/痛快!明石家電視台.md "wikilink")』楽屋トークノーカット書き起こし
     [高須光聖](../Page/高須光聖.md "wikilink")の「御影屋放談」（12号で連載終了）
 
 <!-- end list -->

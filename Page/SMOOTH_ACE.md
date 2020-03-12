@@ -5,7 +5,7 @@
 
 ## 略歴
 
-  - 1991年、[早稲田大学](https://ja.wikipedia.org/wiki/早稲田大学 "wikilink")アカペラサークル「[Street Corner Symphony](https://ja.wikipedia.org/wiki/Street_Corner_Symphony "wikilink")」で岡村玄・重住ひろこ・[村上てつや](https://ja.wikipedia.org/wiki/村上てつや "wikilink")（現[ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink")）を含む5人で母体となるグループ「ガンジー」を結成。
+  - 1991年、[早稲田大学](../Page/早稲田大学.md "wikilink")アカペラサークル「[Street Corner Symphony](https://ja.wikipedia.org/wiki/Street_Corner_Symphony "wikilink")」で岡村玄・重住ひろこ・[村上てつや](../Page/村上てつや.md "wikilink")（現[ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink")）を含む5人で母体となるグループ「ガンジー」を結成。
   - 1992年12月、ゴスペラーズの活動に専念する為に村上が脱退。
   - 1994年6月、「モモクロビック」に改名しデビュー。
   - 1997年、一時解散。同年10月、平慎也が加入。
@@ -423,7 +423,7 @@ TKPD-0016</p></td>
 <td><p>TOCT-24782</p></td>
 <td><ol>
 <li><a href="../Page/卒業写真_(荒井由実の曲).md" title="wikilink">卒業写真</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/未来予想図II" title="wikilink">未来予想図II</a></li>
+<li><a href="../Page/未来予想図II.md" title="wikilink">未来予想図II</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ROMANTIQUE_(大貫妙子のアルバム)" title="wikilink">新しいシャツ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/You_Go_Your_Way" title="wikilink">You Go Your Way</a></li>
 <li><a href="../Page/もう恋なんてしない.md" title="wikilink">もう恋なんてしない</a></li>
@@ -524,7 +524,7 @@ TKPD-0016</p></td>
 <td><p>TOCT-25346</p></td>
 <td><ol>
 <li>LOVE LOVE LOVE</li>
-<li><a href="https://ja.wikipedia.org/wiki/らいおんハート" title="wikilink">らいおんハート</a></li>
+<li><a href="../Page/らいおんハート.md" title="wikilink">らいおんハート</a></li>
 <li>You Go Your Way</li>
 <li>ANNIVERSARY</li>
 <li>Everything</li>
@@ -536,7 +536,7 @@ TKPD-0016</p></td>
 <li>クリスマス・イブ</li>
 <li><a href="../Page/KISS_OF_LIFE_(平井堅の曲).md" title="wikilink">KISS OF LIFE</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Yes-No" title="wikilink">Yes-No</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/見上げてごらん夜の星を_(曲)" title="wikilink">見上げてごらん夜の星を</a> (featuring <a href="../Page/大島花子.md" title="wikilink">大島花子</a>)</li>
+<li><a href="../Page/見上げてごらん夜の星を_(曲).md" title="wikilink">見上げてごらん夜の星を</a> (featuring <a href="../Page/大島花子.md" title="wikilink">大島花子</a>)</li>
 <li>X’MAS DAY IN THE NEXT LIFE</li>
 <li>逢いたいね</li>
 </ol></td>
@@ -675,13 +675,13 @@ UPCH-29177</p></td>
 ## テレビ出演
 
   - 2000年06月16日・08月04日・09月22日 - テレビ東京系「[輝け\!ソングラ天国](https://ja.wikipedia.org/wiki/輝け!ソングラ天国 "wikilink")」
-  - 2001年03月17日・05月19日・06月16日 - 日本テレビ系「[THE夜もヒッパレ](https://ja.wikipedia.org/wiki/THE夜もヒッパレ "wikilink")」
-  - 2001年12月02日 - 「[ネスカフェ](https://ja.wikipedia.org/wiki/ネスカフェ "wikilink")プレゼンツ SHIBUYA-AX THE LIVE 〜file4」
+  - 2001年03月17日・05月19日・06月16日 - 日本テレビ系「[THE夜もヒッパレ](../Page/THE夜もヒッパレ.md "wikilink")」
+  - 2001年12月02日 - 「[ネスカフェ](../Page/ネスカフェ.md "wikilink")プレゼンツ SHIBUYA-AX THE LIVE 〜file4」
   - [ソングラシリーズ](../Page/ソングラシリーズ.md "wikilink")-ソングラーの一員として出演。
 
 ## タイアップ
 
-  - [日本香堂](https://ja.wikipedia.org/wiki/日本香堂 "wikilink")の『ルーミィ』のCMで『Smooth Music At Cafe』の収録曲『つないだ手』と『INTRODUCING』収録曲『逢いたいね』が使用された。
+  - [日本香堂](../Page/日本香堂.md "wikilink")の『ルーミィ』のCMで『Smooth Music At Cafe』の収録曲『つないだ手』と『INTRODUCING』収録曲『逢いたいね』が使用された。
 
 ## 脚注
 

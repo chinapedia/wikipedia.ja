@@ -37,7 +37,7 @@
 <!-- end list -->
 
   -
-    [ベースを担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。"Philharmonic Reggae Session"、また藤井とともに"THE PARTY BROTHERS"のメンバーとしても活動。
+    [ベースを担当](../Page/ベース_\(弦楽器\).md "wikilink")。"Philharmonic Reggae Session"、また藤井とともに"THE PARTY BROTHERS"のメンバーとしても活動。
 
 <!-- end list -->
 
@@ -55,14 +55,14 @@
   - いくつかの春の光 （[2003年](../Page/2003年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")）
   - one small humming to big pining （夜明けの小舟）（2003年[6月25日](../Page/6月25日.md "wikilink")）
   - 霧の中 （[2004年](../Page/2004年.md "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")）
-  - Sleep on Steps （[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[5月25日](../Page/5月25日.md "wikilink")）
-  - シュガープールでつかまえて （[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月5日](../Page/7月5日.md "wikilink")）
+  - Sleep on Steps （[2005年](../Page/2005年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")）
+  - シュガープールでつかまえて （[2006年](../Page/2006年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")）
   - Tomorrow more than words （[2007年](../Page/2007年.md "wikilink")[9月5日](../Page/9月5日.md "wikilink")）
 
 ### ミニアルバム
 
   - CONSTANT MUSIC （[2002年](../Page/2002年.md "wikilink")[10月10日](../Page/10月10日.md "wikilink")）
-  - ネモ （2003年[12月10日](../Page/12月10日.md "wikilink")） - 「-ネモ-」：2003年12月度「[COUNT DOWN TV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")」オープニングテーマ
+  - ネモ （2003年[12月10日](../Page/12月10日.md "wikilink")） - 「-ネモ-」：2003年12月度「[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")」オープニングテーマ
 
 　　　　　　　　　　　　　　　　　　-「-ネモ-」：[日本テレビ](../Page/日本テレビ放送網.md "wikilink")「[サバコン](https://ja.wikipedia.org/wiki/サバコン "wikilink")」オープニングテーマ
 
@@ -114,7 +114,7 @@
 <!-- end list -->
 
   -
-    [ディズニートリビュート](https://ja.wikipedia.org/wiki/ウォルト・ディズニー・カンパニー "wikilink")・アルバム 『[MOSH PIT ON DISNEY](../Page/MOSH_PIT_ON_DISNEY.md "wikilink")』（2004年[7月28日](../Page/7月28日.md "wikilink")）に収録
+    [ディズニートリビュート](../Page/ウォルト・ディズニー・カンパニー.md "wikilink")・アルバム 『[MOSH PIT ON DISNEY](../Page/MOSH_PIT_ON_DISNEY.md "wikilink")』（2004年[7月28日](../Page/7月28日.md "wikilink")）に収録
 
 <!-- end list -->
 
@@ -123,7 +123,7 @@
 <!-- end list -->
 
   -
-    BONNIE PINK 『[REMINISCENCE](https://ja.wikipedia.org/wiki/REMINISCENCE_\(BONNIE_PINKのアルバム\) "wikilink")』（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[6月22日](../Page/6月22日.md "wikilink")）に収録
+    BONNIE PINK 『[REMINISCENCE](https://ja.wikipedia.org/wiki/REMINISCENCE_\(BONNIE_PINKのアルバム\) "wikilink")』（[2005年](../Page/2005年.md "wikilink")[6月22日](../Page/6月22日.md "wikilink")）に収録
 
 <!-- end list -->
 
@@ -132,7 +132,7 @@
 <!-- end list -->
 
   -
-    [大瀧詠一](../Page/大瀧詠一.md "wikilink")トリビュート・アルバム 『Niagara Spring 〜Niagara Cover Special〜』（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[5月17日](../Page/5月17日.md "wikilink")）に収録
+    [大瀧詠一](../Page/大瀧詠一.md "wikilink")トリビュート・アルバム 『Niagara Spring 〜Niagara Cover Special〜』（[2006年](../Page/2006年.md "wikilink")[5月17日](../Page/5月17日.md "wikilink")）に収録
 
 <!-- end list -->
 

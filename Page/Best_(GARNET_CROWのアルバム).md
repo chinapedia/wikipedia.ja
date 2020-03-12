@@ -1,17 +1,17 @@
 > この記事は[Best \(GARNET CROW\)](https://ja.wikipedia.org/wiki/Best_\(GARNET_CROW\))から翻訳されています。
 
 
-『**Best**』（ベスト）は、[GARNET CROW初の](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")[ベストアルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。
+『**Best**』（ベスト）は、[GARNET CROW初の](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")。
 
 ## 解説
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月26日](../Page/10月26日.md "wikilink")に発売された。デビュー5周年を記念してのリリースである。サブタイトルは「Best Selection 2000 to 2005」。1stシングルから18thシングルまでの全シングル曲に、カップリング曲、アルバムからの人気曲、さらにセルフカバー曲と新曲を収録した2枚組のベストアルバムで、オリコン初登場4位を記録。2ndアルバム『[SPARKLE 〜筋書き通りのスカイブルー〜](../Page/SPARKLE_〜筋書き通りのスカイブルー〜.md "wikilink")』、5thアルバム『[THE TWILIGHT VALLEY](https://ja.wikipedia.org/wiki/THE_TWILIGHT_VALLEY "wikilink")』に並ぶオリコン最高タイ記録である。
+[2005年](../Page/2005年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink")に発売された。デビュー5周年を記念してのリリースである。サブタイトルは「Best Selection 2000 to 2005」。1stシングルから18thシングルまでの全シングル曲に、カップリング曲、アルバムからの人気曲、さらにセルフカバー曲と新曲を収録した2枚組のベストアルバムで、オリコン初登場4位を記録。2ndアルバム『[SPARKLE 〜筋書き通りのスカイブルー〜](../Page/SPARKLE_〜筋書き通りのスカイブルー〜.md "wikilink")』、5thアルバム『[THE TWILIGHT VALLEY](../Page/THE_TWILIGHT_VALLEY.md "wikilink")』に並ぶオリコン最高タイ記録である。
 
-また、「[Timeless Sleep](../Page/Timeless_Sleep.md "wikilink")」は「new recording」として再レコーディングされたものを、「[スパイラル](../Page/スパイラル_\(GARNET_CROWの曲\).md "wikilink")」は「すぽると\! ver.」として[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[感動ファクトリー すぽると\!](../Page/すぽると!.md "wikilink")』で使用されたバージョンをそれぞれ収録（このアルバムの裏面・歌詞カードには表記されていない）。これらはシングルおよびアルバムには収録されていないバージョンである。また、新曲として、[岩田さゆり](https://ja.wikipedia.org/wiki/岩田さゆり "wikilink")の2ndシングルとして提供した「[空色の猫](../Page/空色の猫.md "wikilink")」をセルフカバーして収録した他、『GARNET CROW livescope 2005 〜I'm waiting 4 you & live〜』で初披露された「「さよなら」とたった一言で...」を初収録している。
+また、「[Timeless Sleep](../Page/Timeless_Sleep.md "wikilink")」は「new recording」として再レコーディングされたものを、「[スパイラル](../Page/スパイラル_\(GARNET_CROWの曲\).md "wikilink")」は「すぽると\! ver.」として[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[感動ファクトリー すぽると\!](../Page/すぽると!.md "wikilink")』で使用されたバージョンをそれぞれ収録（このアルバムの裏面・歌詞カードには表記されていない）。これらはシングルおよびアルバムには収録されていないバージョンである。また、新曲として、[岩田さゆり](../Page/岩田さゆり.md "wikilink")の2ndシングルとして提供した「[空色の猫](../Page/空色の猫.md "wikilink")」をセルフカバーして収録した他、『GARNET CROW livescope 2005 〜I'm waiting 4 you & live〜』で初披露された「「さよなら」とたった一言で...」を初収録している。
 
 前述の収録曲のほかに、シークレットトラックも収録されている。CD裏ジャケットやボックス、特製ブックレットには記述はなく、disc 2の盤面と歌詞ブックレット内部に記載されているのみである。
 
-初回プレス盤特典として、5周年プレミアムライブ応募ハガキとCDサイズ卓上カレンダーが付属している。この応募ハガキの当選者のみが参加できたプレミアムライブ『GARNET CROW premium live 〜happy 5th anniversary〜』は[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月16日](../Page/12月16日.md "wikilink")と[12月17日](../Page/12月17日.md "wikilink")に[大阪中央公会堂](https://ja.wikipedia.org/wiki/大阪中央公会堂 "wikilink")で行われ、ここでは新曲「春待つ花のように」（後に5thアルバム『THE TWILIGHT VALLEY』に収録）が披露された。またこのライブの模様は、後に5thアルバム『THE TWILIGHT VALLEY』初回限定盤DVDでダイジェスト版が収録された。 推定売上枚数30万枚を記録している。
+初回プレス盤特典として、5周年プレミアムライブ応募ハガキとCDサイズ卓上カレンダーが付属している。この応募ハガキの当選者のみが参加できたプレミアムライブ『GARNET CROW premium live 〜happy 5th anniversary〜』は[2005年](../Page/2005年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")と[12月17日](../Page/12月17日.md "wikilink")に[大阪中央公会堂](https://ja.wikipedia.org/wiki/大阪中央公会堂 "wikilink")で行われ、ここでは新曲「春待つ花のように」（後に5thアルバム『THE TWILIGHT VALLEY』に収録）が披露された。またこのライブの模様は、後に5thアルバム『THE TWILIGHT VALLEY』初回限定盤DVDでダイジェスト版が収録された。 推定売上枚数30万枚を記録している。
 
 ## 収録曲
 
@@ -100,7 +100,7 @@
         18thシングル。アルバム初収録。
 13. **空色の猫**
       -
-        [岩田さゆり](https://ja.wikipedia.org/wiki/岩田さゆり "wikilink")の「[空色の猫](../Page/空色の猫.md "wikilink")」のセルフカバー。
+        [岩田さゆり](../Page/岩田さゆり.md "wikilink")の「[空色の猫](../Page/空色の猫.md "wikilink")」のセルフカバー。
 14. **「さよなら」とたった一言で...**
       -
         『GARNET CROW livescope 2005 〜I'm waiting 4 you & live〜』で初披露された曲。

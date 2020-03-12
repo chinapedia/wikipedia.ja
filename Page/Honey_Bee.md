@@ -6,8 +6,8 @@
 ## メンバー
 
   - [YURIA](../Page/YURIA.md "wikilink")（[Vo.](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[Gt.](../Page/ギター.md "wikilink")）
-  - SALA（[Bs.](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")）
-  - Nao★（[Key.](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")）
+  - SALA（[Bs.](../Page/ベース_\(弦楽器\).md "wikilink")）
+  - Nao★（[Key.](../Page/キーボード_\(楽器\).md "wikilink")）
   - SHU☆（[Ds.](https://ja.wikipedia.org/wiki/ドラムス "wikilink")）
   - K↑chan（[Gt.](../Page/ギター.md "wikilink")）
 
@@ -16,13 +16,13 @@
 ### シングル
 
   - NO ROCK NO LIFE
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")発売・[ランティス](https://ja.wikipedia.org/wiki/ランティス "wikilink")より
+  - [2006年](../Page/2006年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")発売・[ランティス](../Page/ランティス.md "wikilink")より
 
 <!-- end list -->
 
 1.  NO ROCK NO LIFE
-      - テレビアニメ「[すもももももも 地上最強のヨメ](https://ja.wikipedia.org/wiki/すもももももも_地上最強のヨメ "wikilink")」エンディング主題歌
-      - [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：[金杉はじめ](https://ja.wikipedia.org/wiki/金杉はじめ "wikilink")、[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：関堂圭吾
+      - テレビアニメ「[すもももももも 地上最強のヨメ](../Page/すもももももも_地上最強のヨメ.md "wikilink")」エンディング主題歌
+      - [作詞](../Page/作詞.md "wikilink")：[金杉はじめ](https://ja.wikipedia.org/wiki/金杉はじめ "wikilink")、[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：関堂圭吾
 2.  ギター殺人事件
       - 作詞：金杉はじめ、作曲：YURIA、編曲：Nao★
 3.  NO ROCK NO LIFE（off vocal）
@@ -36,16 +36,16 @@
 <!-- end list -->
 
 1.  セピアカラーの迷路を抜けて♪
-      - パソコンゲーム「[たまきゅう](https://ja.wikipedia.org/wiki/たまきゅう "wikilink")」オープニング主題歌
+      - パソコンゲーム「[たまきゅう](../Page/たまきゅう.md "wikilink")」オープニング主題歌
       - 作詞：金杉肇、作曲：YURIA、編曲：八七
 2.  プラスチックスマイル（虹色ギターVERSION）
-      - テレビアニメ「[Canvas2 〜虹色のスケッチ〜](https://ja.wikipedia.org/wiki/Canvas2 "wikilink")」オープニング主題歌
+      - テレビアニメ「[Canvas2 〜虹色のスケッチ〜](../Page/Canvas2.md "wikilink")」オープニング主題歌
       - 作詞・作曲：A BONE（金杉肇・吉田文）、編曲：八七
 3.  抱きしめて
       - パソコンゲーム「[ENSEMBLE 〜舞降る羽のアンサンブル〜](../Page/ENSEMBLE_〜舞降る羽のアンサンブル〜.md "wikilink")」オープニング主題歌
       - 作詞：金杉肇、作曲：YURIA、編曲：八七
 4.  CHERRY JAM
-      - パソコンゲーム「[チェリッシュピザはいかがですか](https://ja.wikipedia.org/wiki/チェリッシュピザはいかがですか "wikilink")」オープニング主題歌
+      - パソコンゲーム「[チェリッシュピザはいかがですか](../Page/チェリッシュピザはいかがですか.md "wikilink")」オープニング主題歌
       - 作詞：金杉肇・YURIA、作曲：CHACO、編曲：八七
 5.  soul★mate
       - 作詞・作曲：YURIA、編曲：八七

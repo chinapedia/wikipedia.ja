@@ -1,7 +1,7 @@
 > この記事は[TBS](https://ja.wikipedia.org/wiki/TBS)から翻訳されています。
 
 
-『**TBSレビュー**』（*TBS Review*）は、[TBSの](../Page/TBSテレビ.md "wikilink")[関東ローカル](https://ja.wikipedia.org/wiki/関東ローカル "wikilink")にて放送されている自己検証番組・[自己批評番組](https://ja.wikipedia.org/wiki/自己批評番組 "wikilink")である。「[レビュー](https://ja.wikipedia.org/wiki/レヴュー "wikilink")」の言葉のとおり、TBSの放送・報道・番組のみならず、放送界全体の動向・問題を検証・検討する目的で放送されている。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[1月25日](../Page/1月25日.md "wikilink")放送開始。
+『**TBSレビュー**』（*TBS Review*）は、[TBSの](../Page/TBSテレビ.md "wikilink")[関東ローカル](../Page/関東ローカル.md "wikilink")にて放送されている自己検証番組・[自己批評番組](../Page/自己批評番組.md "wikilink")である。「[レビュー](../Page/レヴュー.md "wikilink")」の言葉のとおり、TBSの放送・報道・番組のみならず、放送界全体の動向・問題を検証・検討する目的で放送されている。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[1月25日](../Page/1月25日.md "wikilink")放送開始。
 
 ## 放送時間
 
@@ -19,7 +19,7 @@ BPO関連のお知らせ[CMを除き](../Page/コマーシャルメッセージ.
 
 ### 放送に至る経緯
 
-[1996年](../Page/1996年.md "wikilink")夏に開かれたTBS[放送番組審議会](https://ja.wikipedia.org/wiki/放送番組審議会 "wikilink")での提言と、[坂本堤弁護士一家殺害事件](../Page/坂本堤弁護士一家殺害事件.md "wikilink")・[TBSビデオ問題](https://ja.wikipedia.org/wiki/TBSビデオ問題 "wikilink")をきっかけに設置された「放送のこれからを考える会」での提言を受け、1997年1月25日に番組がスタートした。これは同ビデオ問題に関する改善措置でもある。
+[1996年](../Page/1996年.md "wikilink")夏に開かれたTBS[放送番組審議会](https://ja.wikipedia.org/wiki/放送番組審議会 "wikilink")での提言と、[坂本堤弁護士一家殺害事件](../Page/坂本堤弁護士一家殺害事件.md "wikilink")・[TBSビデオ問題](../Page/TBSビデオ問題.md "wikilink")をきっかけに設置された「放送のこれからを考える会」での提言を受け、1997年1月25日に番組がスタートした。これは同ビデオ問題に関する改善措置でもある。
 
 ## 脚注
 

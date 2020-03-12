@@ -1,9 +1,9 @@
 > この記事は[IZUMO --](https://ja.wikipedia.org/wiki/IZUMO_--)から翻訳されています。
 
 
-『**IZUMO -猛き剣の閃記-**』（イズモ -たけきつるぎのせんき-）は、[Studio e.go\!のゲームソフト](https://ja.wikipedia.org/wiki/Studio_e.go! "wikilink")『[IZUMO2](https://ja.wikipedia.org/wiki/IZUMO2 "wikilink")』の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")化作品である。
+『**IZUMO -猛き剣の閃記-**』（イズモ -たけきつるぎのせんき-）は、[Studio e.go\!のゲームソフト](../Page/Studio_e.go!.md "wikilink")『[IZUMO2](https://ja.wikipedia.org/wiki/IZUMO2 "wikilink")』の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")化作品である。
 
-また、アニメ化に先駆けて、2004年から2005年の間に原作の原画を担当した[山本和枝](https://ja.wikipedia.org/wiki/山本和枝 "wikilink")による漫画版が[コンプティーク](../Page/コンプティーク.md "wikilink")で連載された。
+また、アニメ化に先駆けて、2004年から2005年の間に原作の原画を担当した[山本和枝](../Page/山本和枝.md "wikilink")による漫画版が[コンプティーク](../Page/コンプティーク.md "wikilink")で連載された。
 
 こちらはオオナムジやヤタローなど、一部の主要キャラクターが未登場であるほか、キャラクター同士の呼び方や口調が若干異なる（サクヤが猛達を呼び捨てにしたり、玄武が男性的な口調で話すなど）。
 
@@ -18,7 +18,7 @@
 #### 主人公
 
   - 八岐猛（やぎ たける）
-    [声](../Page/声優.md "wikilink") - [荻原秀樹](../Page/荻原秀樹.md "wikilink")/[儀武ゆう子](https://ja.wikipedia.org/wiki/儀武ゆう子 "wikilink")（少年時代）
+    [声](../Page/声優.md "wikilink") - [荻原秀樹](../Page/荻原秀樹.md "wikilink")/[儀武ゆう子](../Page/儀武ゆう子.md "wikilink")（少年時代）
     技：剣、四聖獣
     授かり物：緑色の勾玉（アマテラスから）
     本作の主人公。剣道部。二つに別れたスサノオの魂の生まれ変わり。
@@ -39,7 +39,7 @@
 以下は本作1人目〜4人目のヒロインにあたる。
 
   - 白鳥琴乃（しらとり ことの）
-    声 - [氷青](https://ja.wikipedia.org/wiki/氷青 "wikilink")
+    声 - [氷青](../Page/氷青.md "wikilink")
     技：ヒミコの笛
     授かり物：ヒミコの笛（ヒミコから）
     メインヒロイン。明日香の姉（長女）。猛とは近所の幼馴染。淑やかで心優しい。
@@ -47,18 +47,18 @@
     その後ヒミコに立ち向かうが、攻撃を受けてしまい、魂がヨモツヒラサカ（黄泉の国）へと飛ばされてしまうも、猛と剛の協力により救出された。
     最後の戦いではヒミコの笛を使い悪霊軍の戦いの気力を封じ、神の里の軍を援護するが、オオナムジにより笛は破壊された。
   - 白鳥明日香（しらとり あすか）
-    声 - [力丸乃りこ](https://ja.wikipedia.org/wiki/力丸乃りこ "wikilink")
+    声 - [力丸乃りこ](../Page/力丸乃りこ.md "wikilink")
     授かり物：緑色の勾玉（アマテラスから）
     琴乃の妹（次女）。弓道部。猛とは近所の幼馴染。
     麻衣が悪霊軍の密偵であることに気づき、オオナムジによって連れ去られるが、図らずもそのことによって姉と再会する。その後、一時は麻衣を信じきれないこともあったが、最終的に和解した。
   - 逢須芹（おおす せり）
-    声 - [石松千恵美](https://ja.wikipedia.org/wiki/石松千恵美 "wikilink")
+    声 - [石松千恵美](../Page/石松千恵美.md "wikilink")
     技：空手
     授かり物：赤茶色の勾玉（アマテラスから）
     空手習得者。アメリカからの帰国子女で、猛とは幼馴染で家族だが血縁は無い。明るくさっぱりした性格。
     なにかと猛に抱きつく癖がある。朱雀が彼に抱きついてからはヤキモチをやき、負けじと猛に抱きつくようになった。
   - 北河麻衣（きたがわ まい）
-    声 - [山川琴美](https://ja.wikipedia.org/wiki/山川琴美 "wikilink")
+    声 - [山川琴美](../Page/山川琴美.md "wikilink")
     授かり物1：黄色の勾玉（アマテラスから）
     授かり物2：ヒミコの笛（白鳥琴乃から）
     学生会長で乗馬が得意。猛と芹の同級生。
@@ -94,7 +94,7 @@
     技：剣
     神の里の隊長。サクヤの父。
   - サクヤ
-    声 - [壱智村小真](https://ja.wikipedia.org/wiki/壱智村小真 "wikilink")
+    声 - [壱智村小真](../Page/壱智村小真.md "wikilink")
     技：反魂の術（異界瞬間移動術）
     本作5人目のヒロイン。アマテラスとカグツチの娘で次期神の後継者。
     天然ドジッ娘だが驚異の体力を持つ。ノギリに心の本音を指摘される。
@@ -108,7 +108,7 @@
 #### 悪霊軍
 
   - ヒミコ
-    声 - [河原木志穂](https://ja.wikipedia.org/wiki/河原木志穂 "wikilink")
+    声 - [河原木志穂](../Page/河原木志穂.md "wikilink")
     技：神術
     創造の神にして悪霊軍の首領。
     琴乃の吹く、自分と違った笛の音に聞き惚れ自らの横笛を彼女に預ける。
@@ -116,7 +116,7 @@
     アシハラノクニとネノクニの二つの世界を創り、さらには四聖獣やリンを生み出した神（創造の神）であったが、新しい神アマテラスの出現により、世界が自分の理想とかけ離れていった為、全てを無に帰し最初からやり直すのが目的で、アマテラスとカグツチを亡き者にしようと企む。
     最終的にはスサノオと再会し、最後の別れの後、剛と結ばれた。
   - オオナムジ
-    声 - [花田光](https://ja.wikipedia.org/wiki/花田光 "wikilink")
+    声 - [花田光](../Page/花田光.md "wikilink")
     技：剣/術
     ミナカタの父でヒミコに仕える幹部。
     ありとあらゆる術と剣の使い手。
@@ -149,7 +149,7 @@
 以下は本作6人目〜9人目のヒロインにあたる。
 
   - 朱雀（すざく）
-    声 - [宮崎羽衣](https://ja.wikipedia.org/wiki/宮崎羽衣 "wikilink")
+    声 - [宮崎羽衣](../Page/宮崎羽衣.md "wikilink")
     技1：炎術/大地/怪力
     技2：幻術（四人の合わせ技）
     四聖獣のリーダー。炎術の使い手で脅威の怪力の持ち主。術で大地を割ることも出来る。関西弁で喋る。
@@ -157,16 +157,16 @@
     最初の試練（巨大岩石）を与えた後、最後の試練では猛に四聖獣が作りだした幻術（心の闇の幻影）に打ち勝つ試練を与えた。試練に打ち勝ったことで猛は四聖獣の主となる。
     なお、その昔彼女たちはリンを長としてヒミコを守る守護者だった。
   - 青龍（せいりゅう）
-    声 - [庄子裕衣](https://ja.wikipedia.org/wiki/庄子裕衣 "wikilink")
+    声 - [庄子裕衣](../Page/庄子裕衣.md "wikilink")
     技：風術
     風術使い。クールな性格で何事も冷静に考える。
     最初に会った人物で聖域に入ることを警告し、第二試練（強風）を与えた。
   - 玄武（げんぶ）
-    声 - [井ノ上奈々](https://ja.wikipedia.org/wiki/井ノ上奈々 "wikilink")
+    声 - [井ノ上奈々](../Page/井ノ上奈々.md "wikilink")
     技：氷術
     水術、氷術などの冷気使い。男勝りでサバサバしており、四星獣の姉的存在。
   - 白虎（びゃっこ）
-    声 - [斎藤桃子](https://ja.wikipedia.org/wiki/斎藤桃子 "wikilink")
+    声 - [斎藤桃子](../Page/斎藤桃子.md "wikilink")
     技：雷術
     雷術使い。最年少で戦いを好まない。無口だが他人想いで優しい。
     第三試練（崖の斜面に隠し通路）では小猿を使い手助けをした。
@@ -190,32 +190,32 @@
 
 ## スタッフ
 
-  - 原作 - [Studio e.go\!](https://ja.wikipedia.org/wiki/Studio_e.go! "wikilink")
-  - 監督 - [冨永恒雄](https://ja.wikipedia.org/wiki/冨永恒雄 "wikilink")
+  - 原作 - [Studio e.go\!](../Page/Studio_e.go!.md "wikilink")
+  - 監督 - [冨永恒雄](../Page/冨永恒雄.md "wikilink")
   - 監督補佐 - 中川聡
   - シリーズ構成 - 川上修
-  - キャラクター原案 - [山本和枝](https://ja.wikipedia.org/wiki/山本和枝 "wikilink")
+  - キャラクター原案 - [山本和枝](../Page/山本和枝.md "wikilink")
   - キャラクターデザイン・総作画監督 - 小林多加志
   - プロップデザイン - 水谷麻美子
   - 美術監督 - 吉川洋史
   - 色彩設計 - 熊谷妙子
   - 撮影監督 - 久保博志
   - 編集 - [瀬山武司](../Page/瀬山武司.md "wikilink")
-  - 音響監督 - [飯塚康一](https://ja.wikipedia.org/wiki/飯塚康一 "wikilink")
+  - 音響監督 - [飯塚康一](../Page/飯塚康一.md "wikilink")
   - 音楽 - [myu](https://ja.wikipedia.org/wiki/myu_\(作曲家\) "wikilink")
   - エグゼクティブプロデューサー - 小林正樹
   - プロデューサー - [井上博明](https://ja.wikipedia.org/wiki/井上博明 "wikilink")
   - アニメーションプロデューサー - 松本真
-  - アニメーション制作協力 - [東京キッズ](https://ja.wikipedia.org/wiki/東京キッズ "wikilink")
-  - アニメーション制作 - [トライネットエンタテインメント](https://ja.wikipedia.org/wiki/トライネットエンタテインメント "wikilink")、[スタジオ九魔](../Page/スタジオ九魔.md "wikilink")
-  - 製作 - IZUMO2[製作委員会](../Page/製作委員会方式.md "wikilink")（[アミューズソフトエンタテインメント](https://ja.wikipedia.org/wiki/アミューズソフトエンタテインメント "wikilink")、トライネットエンタテインメント、エムアンドアイアートシステム、トラフィックプロモーション）
+  - アニメーション制作協力 - [東京キッズ](../Page/東京キッズ.md "wikilink")
+  - アニメーション制作 - [トライネットエンタテインメント](../Page/トライネットエンタテインメント.md "wikilink")、[スタジオ九魔](../Page/スタジオ九魔.md "wikilink")
+  - 製作 - IZUMO2[製作委員会](../Page/製作委員会方式.md "wikilink")（[アミューズソフトエンタテインメント](../Page/アミューズソフトエンタテインメント.md "wikilink")、トライネットエンタテインメント、エムアンドアイアートシステム、トラフィックプロモーション）
 
 ## 主題歌
 
   - オープニングテーマ「[Romantic Chaser](https://ja.wikipedia.org/wiki/Romantic_Chaser "wikilink")」
-    作詞 - [畑亜貴](https://ja.wikipedia.org/wiki/畑亜貴 "wikilink") / 作曲・編曲 - [太田雅友](https://ja.wikipedia.org/wiki/太田雅友 "wikilink") / 歌 - [小枝](https://ja.wikipedia.org/wiki/弓原七海 "wikilink")
+    作詞 - [畑亜貴](../Page/畑亜貴.md "wikilink") / 作曲・編曲 - [太田雅友](https://ja.wikipedia.org/wiki/太田雅友 "wikilink") / 歌 - [小枝](https://ja.wikipedia.org/wiki/弓原七海 "wikilink")
   - エンディングテーマ「[最新Dream](https://ja.wikipedia.org/wiki/最新Dream "wikilink")」
-    作詞 - 畑亜貴 / 作曲・編曲 - [黒須克彦](../Page/黒須克彦.md "wikilink") / 歌 - [クローバー](https://ja.wikipedia.org/wiki/クローバー_\(声優ユニット\) "wikilink")
+    作詞 - 畑亜貴 / 作曲・編曲 - [黒須克彦](../Page/黒須克彦.md "wikilink") / 歌 - [クローバー](../Page/クローバー_\(声優ユニット\).md "wikilink")
 
 ## 各話リスト
 
@@ -243,7 +243,7 @@
 <tr class="even">
 <td><p>2</p></td>
 <td><p>異界</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/岸誠二" title="wikilink">岸誠二</a></p></td>
+<td><p><a href="../Page/岸誠二.md" title="wikilink">岸誠二</a></p></td>
 <td><p>ながはまのりひこ</p></td>
 <td><p>柳昇希</p></td>
 <td></td>
@@ -261,7 +261,7 @@
 <td><p>4</p></td>
 <td><p>この世の姿</p></td>
 <td><p>川上修</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/奥脇雅晴" title="wikilink">奥脇雅晴</a></p></td>
+<td><p><a href="../Page/奥脇雅晴.md" title="wikilink">奥脇雅晴</a></p></td>
 <td><p>福本潔</p></td>
 <td><p>高橋典子</p></td>
 </tr>
@@ -278,7 +278,7 @@
 <td><p>四聖獣</p></td>
 <td><p>東山玄</p></td>
 <td><p>ながはまのりひこ<br />
-<a href="https://ja.wikipedia.org/wiki/冨永恒雄" title="wikilink">冨永恒雄</a></p></td>
+<a href="../Page/冨永恒雄.md" title="wikilink">冨永恒雄</a></p></td>
 <td><p>鈴木吉男</p></td>
 <td><p>柳昇希<br />
 佐藤哲也<br />
@@ -340,15 +340,15 @@ HONG SOON HO</p></td>
 
 ## 放送局
 
-| 放送地域                                                  | 放送局                                                       | 放送期間                                                                                                                             | 放送日時             | 放送系列                                                             | 備考       |
-| ----------------------------------------------------- | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------------------------------------------------------- | -------- |
-| [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink") | [tvk](../Page/テレビ神奈川.md "wikilink")                       | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月2日](../Page/4月2日.md "wikilink") - [6月18日](../Page/6月18日.md "wikilink") | 土曜 25:30 - 26:00 | [独立UHF局](../Page/全国独立放送協議会.md "wikilink")                        |          |
-| [千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")   | [ちばテレビ](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink") | 2005年[4月5日](../Page/4月5日.md "wikilink") - [6月21日](../Page/6月21日.md "wikilink")                                                   | 火曜 26:00 - 26:30 |                                                                  |          |
-| [埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")   | [テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")   | 2005年[4月6日](../Page/4月6日.md "wikilink") - [6月22日](../Page/6月22日.md "wikilink")                                                   | 水曜 25:00 - 25:30 |                                                                  |          |
-| [京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")   | [KBS京都](../Page/京都放送.md "wikilink")                       | 水曜 25:30 - 26:00                                                                                                                 |                  |                                                                  |          |
-| [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")   | [テレビ愛知](../Page/テレビ愛知.md "wikilink")                      | 2005年[4月7日](../Page/4月7日.md "wikilink") - [6月23日](../Page/6月23日.md "wikilink")                                                   | 木曜 25:58 - 26:28 | [テレビ東京系列](https://ja.wikipedia.org/wiki/TXN "wikilink")          |          |
-| [兵庫県](../Page/兵庫県.md "wikilink")                      | [サンテレビ](../Page/サンテレビジョン.md "wikilink")                   | 木曜 26:05 - 26:35                                                                                                                 | 独立UHF局           |                                                                  |          |
-| [日本全域](../Page/全国放送.md "wikilink")                    | [キッズステーション](../Page/キッズステーション.md "wikilink")              | 2005年[4月13日](../Page/4月13日.md "wikilink") - [6月29日](../Page/6月29日.md "wikilink")                                                 | 水曜 24:00 - 24:30 | [CS放送](https://ja.wikipedia.org/wiki/日本における衛星放送#CS放送 "wikilink") | リピート放送あり |
+| 放送地域                                                  | 放送局                                                     | 放送期間                                                                                                          | 放送日時             | 放送系列                                                             | 備考       |
+| ----------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------------------------------------------------------- | -------- |
+| [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink") | [tvk](../Page/テレビ神奈川.md "wikilink")                     | [2005年](../Page/2005年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink") - [6月18日](../Page/6月18日.md "wikilink") | 土曜 25:30 - 26:00 | [独立UHF局](../Page/全国独立放送協議会.md "wikilink")                        |          |
+| [千葉県](../Page/千葉県.md "wikilink")                      | [ちばテレビ](../Page/千葉テレビ放送.md "wikilink")                  | 2005年[4月5日](../Page/4月5日.md "wikilink") - [6月21日](../Page/6月21日.md "wikilink")                                | 火曜 26:00 - 26:30 |                                                                  |          |
+| [埼玉県](../Page/埼玉県.md "wikilink")                      | [テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink") | 2005年[4月6日](../Page/4月6日.md "wikilink") - [6月22日](../Page/6月22日.md "wikilink")                                | 水曜 25:00 - 25:30 |                                                                  |          |
+| [京都府](../Page/京都府.md "wikilink")                      | [KBS京都](../Page/京都放送.md "wikilink")                     | 水曜 25:30 - 26:00                                                                                              |                  |                                                                  |          |
+| [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")   | [テレビ愛知](../Page/テレビ愛知.md "wikilink")                    | 2005年[4月7日](../Page/4月7日.md "wikilink") - [6月23日](../Page/6月23日.md "wikilink")                                | 木曜 25:58 - 26:28 | [テレビ東京系列](https://ja.wikipedia.org/wiki/TXN "wikilink")          |          |
+| [兵庫県](../Page/兵庫県.md "wikilink")                      | [サンテレビ](../Page/サンテレビジョン.md "wikilink")                 | 木曜 26:05 - 26:35                                                                                              | 独立UHF局           |                                                                  |          |
+| [日本全域](../Page/全国放送.md "wikilink")                    | [キッズステーション](../Page/キッズステーション.md "wikilink")            | 2005年[4月13日](../Page/4月13日.md "wikilink") - [6月29日](../Page/6月29日.md "wikilink")                              | 水曜 24:00 - 24:30 | [CS放送](https://ja.wikipedia.org/wiki/日本における衛星放送#CS放送 "wikilink") | リピート放送あり |
 
 ## 関連商品
 
@@ -377,7 +377,7 @@ HONG SOON HO</p></td>
 
   - [IZUMO2](https://ja.wikipedia.org/wiki/IZUMO2 "wikilink")
   - [日本神話](../Page/日本神話.md "wikilink")
-  - [UHFアニメ一覧](https://ja.wikipedia.org/wiki/UHFアニメ一覧 "wikilink")
+  - [UHFアニメ一覧](../Page/UHFアニメ一覧.md "wikilink")
 
 ## 外部リンク
 

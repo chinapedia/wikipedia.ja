@@ -1,7 +1,7 @@
 > この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
 
 
-**ハイン・S・ニョール**（**Haing S. Ngor**, 中国名：**吳漢潤**、[1940年](../Page/1940年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink") - [1996年](../Page/1996年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")）は、[カンボジア](https://ja.wikipedia.org/wiki/カンボジア "wikilink")・[プノンペン](../Page/プノンペン.md "wikilink")出身の[産婦人科医](https://ja.wikipedia.org/wiki/産婦人科医 "wikilink")、[俳優](../Page/俳優.md "wikilink")。[客家](../Page/客家.md "wikilink")にルーツを持つ中国系カンボジア人。
+**ハイン・S・ニョール**（**Haing S. Ngor**, 中国名：**吳漢潤**、[1940年](../Page/1940年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink") - [1996年](../Page/1996年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")）は、[カンボジア](../Page/カンボジア.md "wikilink")・[プノンペン](../Page/プノンペン.md "wikilink")出身の[産婦人科医](https://ja.wikipedia.org/wiki/産婦人科医 "wikilink")、[俳優](../Page/俳優.md "wikilink")。[客家](../Page/客家.md "wikilink")にルーツを持つ中国系カンボジア人。
 
 ## 略歴
 
@@ -9,13 +9,13 @@
 
 [1979年](../Page/1979年.md "wikilink")にクメール・ルージュの元から[タイに脱出](../Page/タイ王国.md "wikilink")、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")に[難民](https://ja.wikipedia.org/wiki/難民 "wikilink")として[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")に移住する\[3\]。
 
-その後、[カンボジア内戦](../Page/カンボジア内戦.md "wikilink")に関する[映画](../Page/映画.md "wikilink")を制作中の[キャスティング・ディレクター](https://ja.wikipedia.org/wiki/キャスティング・ディレクター "wikilink")に見出され、[1984年](../Page/1984年.md "wikilink")に『[キリング・フィールド](https://ja.wikipedia.org/wiki/キリング・フィールド_\(映画\) "wikilink")』に出演。カンボジア人の通訳兼ガイドの[ディス・プラン](https://ja.wikipedia.org/wiki/ディス・プラン "wikilink")を演じ、それまで演技経験がなかったにもかかわらず[アカデミー助演男優賞](https://ja.wikipedia.org/wiki/アカデミー助演男優賞 "wikilink")及び[ゴールデングローブ賞 助演男優賞を受賞した](https://ja.wikipedia.org/wiki/ゴールデングローブ賞_助演男優賞 "wikilink")。回想記に『キリング・フィールドからの生還 わがカンボジア〈殺戮の地〉』（ロジャー・ワーナー共著、吉岡晶子訳、[光文社](../Page/光文社.md "wikilink")　1990年）がある。
+その後、[カンボジア内戦](../Page/カンボジア内戦.md "wikilink")に関する[映画](../Page/映画.md "wikilink")を制作中の[キャスティング・ディレクター](https://ja.wikipedia.org/wiki/キャスティング・ディレクター "wikilink")に見出され、[1984年](../Page/1984年.md "wikilink")に『[キリング・フィールド](../Page/キリング・フィールド_\(映画\).md "wikilink")』に出演。カンボジア人の通訳兼ガイドの[ディス・プラン](https://ja.wikipedia.org/wiki/ディス・プラン "wikilink")を演じ、それまで演技経験がなかったにもかかわらず[アカデミー助演男優賞](../Page/アカデミー助演男優賞.md "wikilink")及び[ゴールデングローブ賞 助演男優賞を受賞した](https://ja.wikipedia.org/wiki/ゴールデングローブ賞_助演男優賞 "wikilink")。回想記に『キリング・フィールドからの生還 わがカンボジア〈殺戮の地〉』（ロジャー・ワーナー共著、吉岡晶子訳、[光文社](../Page/光文社.md "wikilink")　1990年）がある。
 
 その後も映画に出演したり、人権活動などに携わっていたが、1996年に[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")の自宅近くで強盗により[射殺](https://ja.wikipedia.org/wiki/射殺 "wikilink")され、55年11ヶ月あまりの生涯を閉じた。
 
 ## 主な出演作品
 
-  - [キリング・フィールド](https://ja.wikipedia.org/wiki/キリング・フィールド_\(映画\) "wikilink") *The Killing Fields* (1984)
+  - [キリング・フィールド](../Page/キリング・フィールド_\(映画\).md "wikilink") *The Killing Fields* (1984)
   - [イースタン・コンドル](https://ja.wikipedia.org/wiki/イースタン・コンドル "wikilink") *東方禿鷹* (1987)
   - アイアン・トライアングル *The Iron Triangle* (1989)
   - [ザ・コミッシュ](https://ja.wikipedia.org/wiki/ザ・コミッシュ "wikilink") *The Commish* (1991)
@@ -26,7 +26,7 @@
 
 ## 関連項目
 
-  - [ハロルド・ラッセル](https://ja.wikipedia.org/wiki/ハロルド・ラッセル "wikilink") - 同じくそれ以前の演技経験が無かったにも関わらず、『[我等の生涯の最良の年](https://ja.wikipedia.org/wiki/我等の生涯の最良の年 "wikilink")』（1946年）でアカデミー助演男優賞を受賞。
+  - [ハロルド・ラッセル](https://ja.wikipedia.org/wiki/ハロルド・ラッセル "wikilink") - 同じくそれ以前の演技経験が無かったにも関わらず、『[我等の生涯の最良の年](../Page/我等の生涯の最良の年.md "wikilink")』（1946年）でアカデミー助演男優賞を受賞。
 
 ## 外部リンク
 

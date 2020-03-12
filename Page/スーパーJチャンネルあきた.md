@@ -1,7 +1,7 @@
 > この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
 
 
-『**スーパーJチャンネルあきた**』（スーパージェイチャンネルあきた）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月5日](../Page/10月5日.md "wikilink")から[2015年](../Page/2015年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで[秋田朝日放送](../Page/秋田朝日放送.md "wikilink")で放送されていた夕方の[ローカルワイド](https://ja.wikipedia.org/wiki/ローカルワイド番組 "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")。
+『**スーパーJチャンネルあきた**』（スーパージェイチャンネルあきた）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月5日](../Page/10月5日.md "wikilink")から[2015年](../Page/2015年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで[秋田朝日放送](../Page/秋田朝日放送.md "wikilink")で放送されていた夕方の[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")。
 
 コメンテーターの起用、双方向機能を持たせた[番組連動データ放送](https://ja.wikipedia.org/wiki/データ放送#データ放送の種類 "wikilink")「あきたのみんなでソラをライブ」の実施などにより、県内他局の番組との差別化を図っていた。
 
@@ -18,14 +18,14 @@
 ## キャスター
 
   - [塩畑弘之](https://ja.wikipedia.org/wiki/塩畑弘之 "wikilink")（メイン担当、開始 - 2006年3月）
-  - [高橋正和](https://ja.wikipedia.org/wiki/高橋正和_\(アナウンサー\) "wikilink")（メイン担当、2006年4月 - 2010年10月1日・2013年9月30日 - 2015年3月26日・スポーツコーナー担当、2010年10月4日 - 2013年9月26日）
+  - [高橋正和](../Page/高橋正和_\(アナウンサー\).md "wikilink")（メイン担当、2006年4月 - 2010年10月1日・2013年9月30日 - 2015年3月26日・スポーツコーナー担当、2010年10月4日 - 2013年9月26日）
   - [和気徹児](../Page/和気徹児.md "wikilink")（メイン担当、2010年10月4日 - 2013年9月26日）
   - [本多真弓](https://ja.wikipedia.org/wiki/本多真弓_\(アナウンサー\) "wikilink")（メイン担当、2014年3月31日 - 2015年3月26日）
-  - [千田まゆこ](https://ja.wikipedia.org/wiki/千田まゆこ "wikilink")（メイン担当、開始 - 2005年10月、2007年4月 - 2008年2月27日、2010年10月4日 - 2012年3月29日）
+  - [千田まゆこ](../Page/千田まゆこ.md "wikilink")（メイン担当、開始 - 2005年10月、2007年4月 - 2008年2月27日、2010年10月4日 - 2012年3月29日）
   - 石井陽子（後の[田村陽子](../Page/田村陽子.md "wikilink")、開始 - 2006年3月）
-  - [小田正実](https://ja.wikipedia.org/wiki/小田正実 "wikilink")（メイン担当、2006年4月 - 2007年3月）
+  - [小田正実](../Page/小田正実.md "wikilink")（メイン担当、2006年4月 - 2007年3月）
   - [後藤明日香](https://ja.wikipedia.org/wiki/後藤明日香 "wikilink")（メイン担当、2009年3月2日 - 2010年10月1日）
-  - [塩地美澄](https://ja.wikipedia.org/wiki/塩地美澄 "wikilink")（メイン担当、2012年4月2日 - 2014年3月27日）
+  - [塩地美澄](../Page/塩地美澄.md "wikilink")（メイン担当、2012年4月2日 - 2014年3月27日）
   - [北田牧子](https://ja.wikipedia.org/wiki/北田牧子 "wikilink")（ミニコーナー担当、レギュラー陣が不在時には代理出演）
   - [椿田恵理子](https://ja.wikipedia.org/wiki/椿田恵理子 "wikilink")（「天気のじかん」担当、2008年9月29日 - 2009年9月30日）
   - [柏木千春](https://ja.wikipedia.org/wiki/柏木千春 "wikilink")（「天気のじかん」担当、2009年10月1日 - 2011年4月1日）

@@ -3,19 +3,19 @@
 
 『**Bye Bye**』（バイ・バイ）は、日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")である[長渕剛](../Page/長渕剛.md "wikilink")の4枚目のオリジナル[アルバム](../Page/アルバム.md "wikilink")である。プロデュースは前作に続き長渕自身が担当している。
 
-長渕剛通算4枚目のオリジナルアルバム。本作以前にリリースされたシングル「[夏の恋人](https://ja.wikipedia.org/wiki/夏の恋人_\(長渕剛の曲\) "wikilink")」は収録されず、後に「[二人歩記](https://ja.wikipedia.org/wiki/二人歩記 "wikilink")（ふたりあるき）」が[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")されてリリースされた。なお、同曲は最初の結婚相手である[石野真子](../Page/石野真子.md "wikilink")に捧げた曲となっている。
+長渕剛通算4枚目のオリジナルアルバム。本作以前にリリースされたシングル「[夏の恋人](../Page/夏の恋人_\(長渕剛の曲\).md "wikilink")」は収録されず、後に「[二人歩記](../Page/二人歩記.md "wikilink")（ふたりあるき）」が[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")されてリリースされた。なお、同曲は最初の結婚相手である[石野真子](../Page/石野真子.md "wikilink")に捧げた曲となっている。
 
-[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")では最高位2位となった。
+[オリコンチャート](../Page/オリコンチャート.md "wikilink")では最高位2位となった。
 
 ## 背景
 
 1981年に入り、長渕は3月3日の渋谷公会堂より6月30日の広島郵便貯金会館まで、ライブツアー「長渕剛LIVE'81」を全国41都市全43公演を開催した\[1\]。同ツアーでは初めてバックバンドを導入し、ピアノによる弾き語りやエレキギターの使用など新たな試みが行われた。
 
-また、前年に[山梨鐐平](https://ja.wikipedia.org/wiki/山梨鐐平 "wikilink")などが結成していたグループ「Do\!」とのジョイントバンド「チョコレッツ」を結成し、5月5日には同グループのメンバーと共作したシングル「[夏の恋人](https://ja.wikipedia.org/wiki/夏の恋人_\(長渕剛の曲\) "wikilink")」（1981年）をリリース、6月5日には同タイトルを冠したベストアルバム『[夏の恋人](https://ja.wikipedia.org/wiki/夏の恋人_\(アルバム\) "wikilink")』（1981年）をリリースした\[2\]。
+また、前年に[山梨鐐平](../Page/山梨鐐平.md "wikilink")などが結成していたグループ「Do\!」とのジョイントバンド「チョコレッツ」を結成し、5月5日には同グループのメンバーと共作したシングル「[夏の恋人](../Page/夏の恋人_\(長渕剛の曲\).md "wikilink")」（1981年）をリリース、6月5日には同タイトルを冠したベストアルバム『[夏の恋人](../Page/夏の恋人_\(アルバム\).md "wikilink")』（1981年）をリリースした\[2\]。
 
-同時期に、かねてより交際していた歌手の[石野真子](../Page/石野真子.md "wikilink")との婚約会見を行い、8月に正式に婚姻届を提出した。石野との馴れ初めは、1979年に『[南こうせつのオールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")』（1978年 - 1979年）にて1コーナーのDJを担当していた長渕が[石野真子](../Page/石野真子.md "wikilink")をゲストとして呼んだ事から始まり、今度は石野が同年7月30日に行われた[中野サンプラザ](https://ja.wikipedia.org/wiki/中野サンプラザ "wikilink")での自身のコンサートに長渕を招待、さらに同年11月29日に新宿厚生年金会館にて行われた長渕の初のワンマンコンサートに石野がマネージャーと共に訪れ、長渕にセーターと手紙を贈与した事が大きなきっかけとなった\[3\]。その後、長渕自身がパーソナリティーとなった『長渕剛のオールナイトニッポン』（1979年 - 1980年）に石野がゲストで登場する事となり、前日に電話にて好意を伝えると石野が同意したため交際が始まる事となった\[4\]。
+同時期に、かねてより交際していた歌手の[石野真子](../Page/石野真子.md "wikilink")との婚約会見を行い、8月に正式に婚姻届を提出した。石野との馴れ初めは、1979年に『[南こうせつのオールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")』（1978年 - 1979年）にて1コーナーのDJを担当していた長渕が[石野真子](../Page/石野真子.md "wikilink")をゲストとして呼んだ事から始まり、今度は石野が同年7月30日に行われた[中野サンプラザ](../Page/中野サンプラザ.md "wikilink")での自身のコンサートに長渕を招待、さらに同年11月29日に新宿厚生年金会館にて行われた長渕の初のワンマンコンサートに石野がマネージャーと共に訪れ、長渕にセーターと手紙を贈与した事が大きなきっかけとなった\[3\]。その後、長渕自身がパーソナリティーとなった『長渕剛のオールナイトニッポン』（1979年 - 1980年）に石野がゲストで登場する事となり、前日に電話にて好意を伝えると石野が同意したため交際が始まる事となった\[4\]。
 
-なお、ライブハウス「[照和](https://ja.wikipedia.org/wiki/照和 "wikilink")」にて長渕と同時期に活動していた人物によると、長渕は酒を飲む度に「吉田拓郎よりビッグになってやる」、「石野真子をものにする」などと語っていたが、有言実行のごとくそれらを現実のものにしていった\[5\]。また、長渕は石野と交際を始めた頃に、ライブにて「[順子](https://ja.wikipedia.org/wiki/順子/涙のセレナーデ "wikilink")」（1980年）を演奏した際に、サビの「順子」の部分を「真子」にかえて歌った事がある\[6\]。
+なお、ライブハウス「[照和](../Page/照和.md "wikilink")」にて長渕と同時期に活動していた人物によると、長渕は酒を飲む度に「吉田拓郎よりビッグになってやる」、「石野真子をものにする」などと語っていたが、有言実行のごとくそれらを現実のものにしていった\[5\]。また、長渕は石野と交際を始めた頃に、ライブにて「[順子](https://ja.wikipedia.org/wiki/順子/涙のセレナーデ "wikilink")」（1980年）を演奏した際に、サビの「順子」の部分を「真子」にかえて歌った事がある\[6\]。
 
 しかし、いざ交際が始まると雑誌記者などに24時間徹夜で張り込みをされる事や、週刊誌などに誹謗中傷をされるなど様々な困難が両者を襲い、「精神的にもズタズタという感じになった」と長渕は語っている\[7\]。これらの経験から、本作に収録されている「二人歩記」や「賞金めあての宝さがし」といった曲が製作された。
 
@@ -23,15 +23,15 @@
 
 文芸雑誌『別冊カドカワ 総力特集 長渕剛』では、「前作で共演したギタリスト徳武弘文とのタッグを推し進めたサウンドだ。長渕自身も含め、ギタリストが7人も参加している点に注目したい」、「（松井五郎の参加に関して）『[逆流](../Page/逆流_\(アルバム\).md "wikilink")』収録「酔待草」での[松本隆](../Page/松本隆.md "wikilink")に続く、職業作詞家の起用。その松井が書いた2曲と対極に位置するのが「賞金めあての宝さがし」「Bye Bye 忘れてしまうしかない悲しみに」だ」と表記されている\[8\]。
 
-文芸雑誌『文藝別冊 長渕剛 民衆の怒りと祈りの歌』にて、ライターの松村正人は「冒頭の『碑』で『[ホテル・カリフォルニア](https://ja.wikipedia.org/wiki/ホテル・カリフォルニア_\(曲\) "wikilink")』にレゲエを接ぎ木するアクロバットをみせる。アルバム全体としてもフォーク・バラードから[ニューオーリンズ](../Page/ニューオーリンズ.md "wikilink")、[サザンロック](https://ja.wikipedia.org/wiki/サザン・ロック "wikilink")、[ヨーデル](https://ja.wikipedia.org/wiki/ヨーデル "wikilink")まで登場するにぎやかな曲調と、それに応じる歌唱がつまったこのアルバムは長渕の七〇年代のソウカツといえる一枚にしあがったが、それをもたらしたのは瀬尾や笛吹利明をはじめとした制作陣、長渕組ともいえる体制の確立だろう」\[9\]と述べており、さらにライターの五井健太郎は「（アルバムタイトルの意味に関して）このアルバムに前後して見られていく純粋なフォークからバンドサウンドへの段階的な移行にあらわされている」、「すでにフォークシンガーとして成功を収めていた当時のかれは、みずからの初志に忠実であろうとすればこそ、あえて別のスタイルへと変わっていこうとする」と述べている\[10\]。
+文芸雑誌『文藝別冊 長渕剛 民衆の怒りと祈りの歌』にて、ライターの松村正人は「冒頭の『碑』で『[ホテル・カリフォルニア](../Page/ホテル・カリフォルニア_\(曲\).md "wikilink")』にレゲエを接ぎ木するアクロバットをみせる。アルバム全体としてもフォーク・バラードから[ニューオーリンズ](../Page/ニューオーリンズ.md "wikilink")、[サザンロック](../Page/サザン・ロック.md "wikilink")、[ヨーデル](../Page/ヨーデル.md "wikilink")まで登場するにぎやかな曲調と、それに応じる歌唱がつまったこのアルバムは長渕の七〇年代のソウカツといえる一枚にしあがったが、それをもたらしたのは瀬尾や笛吹利明をはじめとした制作陣、長渕組ともいえる体制の確立だろう」\[9\]と述べており、さらにライターの五井健太郎は「（アルバムタイトルの意味に関して）このアルバムに前後して見られていく純粋なフォークからバンドサウンドへの段階的な移行にあらわされている」、「すでにフォークシンガーとして成功を収めていた当時のかれは、みずからの初志に忠実であろうとすればこそ、あえて別のスタイルへと変わっていこうとする」と述べている\[10\]。
 
 ## リリース
 
-[1981年](../Page/1981年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")に[東芝EMIのエキスプレスレーベルより](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")、[LP](../Page/レコード.md "wikilink")、[カセットテープの](../Page/コンパクトカセット.md "wikilink")2形態でリリースされた。
+[1981年](../Page/1981年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")に[東芝EMIのエキスプレスレーベルより](../Page/EMIミュージック・ジャパン.md "wikilink")、[LP](../Page/レコード.md "wikilink")、[カセットテープの](../Page/コンパクトカセット.md "wikilink")2形態でリリースされた。
 
 1983年にはアルバム『[乾杯](../Page/乾杯_\(アルバム\).md "wikilink")』（1980年）との2本組でカセットテープにてリリースされた。
 
-[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[11月1日](../Page/11月1日.md "wikilink")には[CDにて初めてリリースされ](../Page/コンパクトディスク.md "wikilink")、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月8日](../Page/2月8日.md "wikilink")に24ビット・[デジタルリマスター](https://ja.wikipedia.org/wiki/デジタルリマスター "wikilink")、[紙ジャケット仕様で再発売された](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")\[11\]。
+[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[11月1日](../Page/11月1日.md "wikilink")には[CDにて初めてリリースされ](../Page/コンパクトディスク.md "wikilink")、[2006年](../Page/2006年.md "wikilink")[2月8日](../Page/2月8日.md "wikilink")に24ビット・[デジタルリマスター](../Page/デジタルリマスター.md "wikilink")、[紙ジャケット仕様で再発売された](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")\[11\]。
 
 ## ツアー
 
@@ -47,7 +47,7 @@
 
 ## チャート成績
 
-[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")では最高位2位となり、売り上げは約11万枚となった\[15\]。また、2006年の再発版では最高位228位となった \[16\]。
+[オリコンチャート](../Page/オリコンチャート.md "wikilink")では最高位2位となり、売り上げは約11万枚となった\[15\]。また、2006年の再発版では最高位228位となった \[16\]。
 
 ## 収録曲
 
@@ -57,17 +57,17 @@
 
 1.  **碑（いしぶみ）**
       -
-        後にアルバム『[NEVER CHANGE](https://ja.wikipedia.org/wiki/NEVER_CHANGE_\(アルバム\) "wikilink")』（[1988年](../Page/1988年.md "wikilink")）で再録音されている。
-2.  **[二人歩記](https://ja.wikipedia.org/wiki/二人歩記 "wikilink")**
+        後にアルバム『[NEVER CHANGE](../Page/NEVER_CHANGE_\(アルバム\).md "wikilink")』（[1988年](../Page/1988年.md "wikilink")）で再録音されている。
+2.  **[二人歩記](../Page/二人歩記.md "wikilink")**
       -
-        「ふたりあるき」と読む。8枚目のシングル曲。当時結婚前の石野真子と交際中の期間であり、あらゆる世の中の喧騒の中での2人のことを歌っている。本アルバム発売前に、既に[ライブ・アルバム](https://ja.wikipedia.org/wiki/ライブ・アルバム "wikilink")『[長渕剛LIVE](https://ja.wikipedia.org/wiki/長渕剛LIVE "wikilink")』（1981年）の中でも歌われている。
+        「ふたりあるき」と読む。8枚目のシングル曲。当時結婚前の石野真子と交際中の期間であり、あらゆる世の中の喧騒の中での2人のことを歌っている。本アルバム発売前に、既に[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")『[長渕剛LIVE](../Page/長渕剛LIVE.md "wikilink")』（1981年）の中でも歌われている。
 3.  **Poor Boy's Blues**
       -
-        フィクションだが、アメリカでの生活のことを歌い上げている。後にアルバム『[LOVE SONGS](https://ja.wikipedia.org/wiki/LOVE_SONGS_\(長渕剛のアルバム\) "wikilink")』（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）でボーカルのみ再録音されている。
+        フィクションだが、アメリカでの生活のことを歌い上げている。後にアルバム『[LOVE SONGS](../Page/LOVE_SONGS_\(長渕剛のアルバム\).md "wikilink")』（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）でボーカルのみ再録音されている。
 4.  **さよなら列車**
 5.  **道**
       -
-        珍しく[ヨーデル](https://ja.wikipedia.org/wiki/ヨーデル "wikilink")を取り入れた楽曲。2003年（平成15年）、[ニッポン放送](../Page/ニッポン放送.md "wikilink")系列（[NRN](../Page/全国ラジオネットワーク.md "wikilink")）で放送されていた「[オールナイトニッポンフライデー・長渕剛今夜もバリサン](https://ja.wikipedia.org/wiki/オールナイトニッポンフライデー・長渕剛今夜もバリサン "wikilink")」にて、ギターの弾き語りで披露され、後にライブ映像作品「[TSUYOSHI NAGABUCHI Keep On Fighting LIVE 2003 夏](https://ja.wikipedia.org/wiki/TSUYOSHI_NAGABUCHI_Keep_On_Fighting_LIVE_2003_夏 "wikilink")」の特典CDに収録された。
+        珍しく[ヨーデル](../Page/ヨーデル.md "wikilink")を取り入れた楽曲。2003年（平成15年）、[ニッポン放送](../Page/ニッポン放送.md "wikilink")系列（[NRN](../Page/全国ラジオネットワーク.md "wikilink")）で放送されていた「[オールナイトニッポンフライデー・長渕剛今夜もバリサン](https://ja.wikipedia.org/wiki/オールナイトニッポンフライデー・長渕剛今夜もバリサン "wikilink")」にて、ギターの弾き語りで披露され、後にライブ映像作品「[TSUYOSHI NAGABUCHI Keep On Fighting LIVE 2003 夏](https://ja.wikipedia.org/wiki/TSUYOSHI_NAGABUCHI_Keep_On_Fighting_LIVE_2003_夏 "wikilink")」の特典CDに収録された。
 
 ### B面
 
@@ -78,7 +78,7 @@
     **賞金めあての宝さがし**
 
       -
-        石野真子との交際がマスコミに取り上げられ、付き纏う雑誌記者などに対しての皮肉を歌い上げた曲。後に[1992年](../Page/1992年.md "wikilink")の[東京ドーム](../Page/東京ドーム.md "wikilink")ライブで、一部の歌詞とメロディーを変えた曲「豚(BUTA)」として歌われ、ベスト・アルバム『[いつかの少年](https://ja.wikipedia.org/wiki/いつかの少年 "wikilink")』（[1994年](../Page/1994年.md "wikilink")）に収録されている。
+        石野真子との交際がマスコミに取り上げられ、付き纏う雑誌記者などに対しての皮肉を歌い上げた曲。後に[1992年](../Page/1992年.md "wikilink")の[東京ドーム](../Page/東京ドーム.md "wikilink")ライブで、一部の歌詞とメロディーを変えた曲「豚(BUTA)」として歌われ、ベスト・アルバム『[いつかの少年](../Page/いつかの少年.md "wikilink")』（[1994年](../Page/1994年.md "wikilink")）に収録されている。
 
 2.  **銀色の涙とタバコの煙**
 
@@ -90,27 +90,27 @@
 4.  **Bye Bye 忘れてしまうしかない悲しみに**
 
       -
-        当時のミュージシャンとしての自分に対する不安や後悔の念を歌った曲。後にアルバム『[NEVER CHANGE](https://ja.wikipedia.org/wiki/NEVER_CHANGE_\(アルバム\) "wikilink")』で再録音されている。
+        当時のミュージシャンとしての自分に対する不安や後悔の念を歌った曲。後にアルバム『[NEVER CHANGE](../Page/NEVER_CHANGE_\(アルバム\).md "wikilink")』で再録音されている。
 
 ## スタッフ・クレジット
 
 ### 参加ミュージシャン
 
-  - **長渕剛** - [アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")、[ピアノ](../Page/ピアノ.md "wikilink")、[ハーモニカ](https://ja.wikipedia.org/wiki/ハーモニカ "wikilink")、[バンジョー](https://ja.wikipedia.org/wiki/バンジョー "wikilink")、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
-  - **石川鷹彦** - アコースティックギター、[ドブロ・ギター](https://ja.wikipedia.org/wiki/ドブロ・ギター "wikilink")、[ダルシマー](../Page/ダルシマー.md "wikilink")、バンジョー、[マンドリン](../Page/マンドリン.md "wikilink")、コーラス
+  - **長渕剛** - [アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")、[ピアノ](../Page/ピアノ.md "wikilink")、[ハーモニカ](../Page/ハーモニカ.md "wikilink")、[バンジョー](../Page/バンジョー.md "wikilink")、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
+  - **石川鷹彦** - アコースティックギター、[ドブロ・ギター](../Page/ドブロ・ギター.md "wikilink")、[ダルシマー](../Page/ダルシマー.md "wikilink")、バンジョー、[マンドリン](../Page/マンドリン.md "wikilink")、コーラス
   - **笛吹利明** - アコースティックギター
   - **徳武弘文** - [エレクトリックギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")、アコースティックギター
   - **矢島賢** - エレクトリックギターソロ（1曲目）
-  - **谷口陽一** - [ラップ・スティール・ギター](https://ja.wikipedia.org/wiki/スティール・ギター "wikilink")
-  - **古川健二** - [エレクトリック・スライドギター・ソロ](https://ja.wikipedia.org/wiki/スライドギター "wikilink")（6曲目）
-  - **[中西康晴](https://ja.wikipedia.org/wiki/中西康晴 "wikilink")** - ピアノ、エレクトリックピアノ、[オルガン](../Page/オルガン.md "wikilink")
+  - **谷口陽一** - [ラップ・スティール・ギター](../Page/スティール・ギター.md "wikilink")
+  - **古川健二** - [エレクトリック・スライドギター・ソロ](../Page/スライドギター.md "wikilink")（6曲目）
+  - **[中西康晴](../Page/中西康晴.md "wikilink")** - ピアノ、エレクトリックピアノ、[オルガン](../Page/オルガン.md "wikilink")
   - **山田秀俊** - ピアノ
-  - **武部秀明** - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - **武部秀明** - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
   - **杉本和弥** - ベース
   - **林立夫** - [ドラムス](../Page/ドラムセット.md "wikilink")
   - **森谷順** - ドラムス
   - **浜口茂外也** - [パーカッション](../Page/パーカッション.md "wikilink")
-  - **岡田徹** - [アコーディオン](https://ja.wikipedia.org/wiki/アコーディオン "wikilink")、[プロフェット5](../Page/シーケンシャル・サーキット_プロフェット5.md "wikilink")
+  - **岡田徹** - [アコーディオン](../Page/アコーディオン.md "wikilink")、[プロフェット5](../Page/シーケンシャル・サーキット_プロフェット5.md "wikilink")
   - **数原晋** - [トランペット](../Page/トランペット.md "wikilink")
   - **荒井英治** - [トロンボーン](../Page/トロンボーン.md "wikilink")
   - **砂原俊三** - [テナーサックス](../Page/サクソフォーン.md "wikilink")
@@ -128,10 +128,10 @@
 
   - **長渕剛** - プロデューサー
   - **陣山俊一（ユイ音楽工房）** - ディレクター
-  - **山里剛（[ヤマハ音楽振興会](https://ja.wikipedia.org/wiki/ヤマハ音楽振興会 "wikilink")）** - ディレクター
+  - **山里剛（[ヤマハ音楽振興会](../Page/ヤマハ音楽振興会.md "wikilink")）** - ディレクター
   - **引田和幸（東芝EMI）** - ディレクター
   - **糟谷銑司** - マネージャー
-  - **石塚良一** - [レコーディング・エンジニア](https://ja.wikipedia.org/wiki/レコーディング・エンジニア "wikilink")、リミックス・エンジニア
+  - **石塚良一** - [レコーディング・エンジニア](../Page/レコーディング・エンジニア.md "wikilink")、リミックス・エンジニア
   - **Bill.高橋** - レコーディング・エンジニア
   - **松原マサノリ** - アシスタント・エンジニア
   - **小暮徹** - 写真撮影
@@ -147,7 +147,7 @@
 <th><p>日付</p></th>
 <th><p><a href="../Page/レコードレーベル.md" title="wikilink">レーベル</a></p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>最高順位</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -156,7 +156,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p><a href="../Page/1981年.md" title="wikilink">1981年</a><a href="../Page/10月1日.md" title="wikilink">10月1日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン" title="wikilink">東芝EMI</a>／エキスプレス</p></td>
+<td><p><a href="../Page/EMIミュージック・ジャパン.md" title="wikilink">東芝EMI</a>／エキスプレス</p></td>
 <td><p><a href="../Page/レコード.md" title="wikilink">LP</a><br />
 <a href="../Page/カセットテープ.md" title="wikilink">CT</a></p></td>
 <td><p>ETP-90115<br />
@@ -184,12 +184,12 @@ ZT28-1052</p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/2月8日.md" title="wikilink">2月8日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/2月8日.md" title="wikilink">2月8日</a></p></td>
 <td><p>東芝EMI／エキスプレス</p></td>
 <td><p>CD</p></td>
 <td><p>TOCT-25946</p></td>
 <td><p>228位</p></td>
-<td><p>24ビット・<a href="https://ja.wikipedia.org/wiki/デジタルリマスター" title="wikilink">デジタルリマスター</a>、<a href="https://ja.wikipedia.org/wiki/ディスクジャケット" title="wikilink">紙ジャケット仕様</a></p></td>
+<td><p>24ビット・<a href="../Page/デジタルリマスター.md" title="wikilink">デジタルリマスター</a>、<a href="https://ja.wikipedia.org/wiki/ディスクジャケット" title="wikilink">紙ジャケット仕様</a></p></td>
 </tr>
 </tbody>
 </table>

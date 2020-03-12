@@ -1,11 +1,11 @@
 > この記事は[PON!](https://ja.wikipedia.org/wiki/PON!)から翻訳されています。
 
 
-『**PON\!とキマイラ**』（ポンとキマイラ）は、[浅野りん](../Page/浅野りん.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")から[2001年](../Page/2001年.md "wikilink")まで[エニックス](https://ja.wikipedia.org/wiki/エニックス "wikilink")（現[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")）刊『[月刊少年ガンガン](../Page/月刊少年ガンガン.md "wikilink")』に連載されていた。略称は「**ポンキマ**」。単行本は全7巻。2001年には[ドラマCD](https://ja.wikipedia.org/wiki/ドラマCD "wikilink")化された。
+『**PON\!とキマイラ**』（ポンとキマイラ）は、[浅野りん](../Page/浅野りん.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")から[2001年](../Page/2001年.md "wikilink")まで[エニックス](https://ja.wikipedia.org/wiki/エニックス "wikilink")（現[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")）刊『[月刊少年ガンガン](../Page/月刊少年ガンガン.md "wikilink")』に連載されていた。略称は「**ポンキマ**」。単行本は全7巻。2001年には[ドラマCD](../Page/ドラマCD.md "wikilink")化された。
 
 ## ストーリー
 
-遥か天空には大陸が存在し、そこには千年に一度目覚めると言われる神獣のたまごがあった。その[孵化](https://ja.wikipedia.org/wiki/孵化 "wikilink")を見守る役目を負った少女シアンは、一瞬のミスでたまごを地上へと落としてしまう。それは笠置八満という中学2年の少年が拾ったが、たまごは彼の目の前で孵化してしまう。八満を親と認識した神獣は地上に居ついてしまい、ポン太という名前を与えられる。そして八満は追って来たシアンと共に子育てという新たな家族生活を始める。それは神獣に負けず劣らずの個性的な周囲の人間や神獣の奪取を目論む天上の海賊たちも加わった過激な日々であった。
+遥か天空には大陸が存在し、そこには千年に一度目覚めると言われる神獣のたまごがあった。その[孵化](../Page/孵化.md "wikilink")を見守る役目を負った少女シアンは、一瞬のミスでたまごを地上へと落としてしまう。それは笠置八満という中学2年の少年が拾ったが、たまごは彼の目の前で孵化してしまう。八満を親と認識した神獣は地上に居ついてしまい、ポン太という名前を与えられる。そして八満は追って来たシアンと共に子育てという新たな家族生活を始める。それは神獣に負けず劣らずの個性的な周囲の人間や神獣の奪取を目論む天上の海賊たちも加わった過激な日々であった。
 
 ## 登場人物
 
@@ -93,7 +93,7 @@
     名前の由来は顔料に使われる[シェンナ](https://ja.wikipedia.org/wiki/シェンナ "wikilink")（sienna・黒味を帯びた黄褐色）から。
   - クリムソン
     ポン太を狙う海賊船船長。当初は目的のためには手段を選ばない残忍な性格だったが、息子のオーキッドが登場してからはお茶目な面が目立つようになった。妻を亡くしたシングルファーザーで、シアンを後妻に迎えようと企んでいる。反抗期真っ只中である息子に弱い。シアンを後妻にしようとしているが、ロケットペンダントに写真を入れたり、毎年墓参りに行ったりと、今も亡き妻を大切に思っているのは確かである。
-    モデルは『ピーター・パン』の海賊フック船長。名前の由来は古くから染料として使われる[クリムゾン](https://ja.wikipedia.org/wiki/クリムゾン "wikilink")（crimson・[紫](https://ja.wikipedia.org/wiki/紫 "wikilink")がかった濃い[赤](../Page/赤.md "wikilink")色）から。
+    モデルは『ピーター・パン』の海賊フック船長。名前の由来は古くから染料として使われる[クリムゾン](../Page/クリムゾン.md "wikilink")（crimson・[紫](../Page/紫.md "wikilink")がかった濃い[赤](../Page/赤.md "wikilink")色）から。
   - スミー
     クリムソンの付き人。海賊一家の身の回りの世話をしている。海賊の中では割とまともな老人。オーキッドも信頼しているのか、スミーには授業参観のことを話したりしているらしい。
     モデルは『ピーター・パン』の海賊船水夫長のスミー。
@@ -172,7 +172,7 @@
 
 ## アニメ
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に『[月刊少年ガンガン](../Page/月刊少年ガンガン.md "wikilink")』『[月刊Gファンタジー](https://ja.wikipedia.org/wiki/月刊Gファンタジー "wikilink")』『[月刊少年ギャグ王](https://ja.wikipedia.org/wiki/月刊少年ギャグ王 "wikilink")』の3誌合同企画として製作された特製アニメビデオで『[東京鬼攻兵団 TOGS](https://ja.wikipedia.org/wiki/東京鬼攻兵団_TOGS "wikilink")』（[斎藤カズサ](https://ja.wikipedia.org/wiki/斎藤カズサ "wikilink")）・『[御意見無用っ\!\!](https://ja.wikipedia.org/wiki/御意見無用っ!! "wikilink")』（[よしむらなつき](https://ja.wikipedia.org/wiki/よしむらなつき "wikilink")）と共に短編アニメ化されている。
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に『[月刊少年ガンガン](../Page/月刊少年ガンガン.md "wikilink")』『[月刊Gファンタジー](../Page/月刊Gファンタジー.md "wikilink")』『[月刊少年ギャグ王](../Page/月刊少年ギャグ王.md "wikilink")』の3誌合同企画として製作された特製アニメビデオで『[東京鬼攻兵団 TOGS](https://ja.wikipedia.org/wiki/東京鬼攻兵団_TOGS "wikilink")』（[斎藤カズサ](https://ja.wikipedia.org/wiki/斎藤カズサ "wikilink")）・『[御意見無用っ\!\!](../Page/御意見無用っ!!.md "wikilink")』（[よしむらなつき](../Page/よしむらなつき.md "wikilink")）と共に短編アニメ化されている。
 
 ## 刊行
 
@@ -192,7 +192,7 @@
 
   - キャスト
 
-:\* 笠置八満：[伊藤健太郎](https://ja.wikipedia.org/wiki/伊藤健太郎_\(声優\) "wikilink")
+:\* 笠置八満：[伊藤健太郎](../Page/伊藤健太郎_\(声優\).md "wikilink")
 
 :\* シアン：[川上とも子](../Page/川上とも子.md "wikilink")
 
@@ -204,23 +204,23 @@
 
 :\* オーキッド：[関智一](../Page/関智一.md "wikilink")
 
-:\* 柚香隆盛：[岩田光央](https://ja.wikipedia.org/wiki/岩田光央 "wikilink")
+:\* 柚香隆盛：[岩田光央](../Page/岩田光央.md "wikilink")
 
 :\* クリムソン：[安原義人](../Page/安原義人.md "wikilink")
 
 :\* スミー：[田の中勇](../Page/田の中勇.md "wikilink")
 
-:\* 花子ちゃん：[土田大](https://ja.wikipedia.org/wiki/土田大 "wikilink")
+:\* 花子ちゃん：[土田大](../Page/土田大.md "wikilink")
 
-:\* ロザンナさん：[宗矢樹頼](https://ja.wikipedia.org/wiki/宗矢樹頼 "wikilink")
+:\* ロザンナさん：[宗矢樹頼](../Page/宗矢樹頼.md "wikilink")
 
 :\* 女子アナ：[佐藤しのぶ](../Page/佐藤しのぶ_\(声優\).md "wikilink")
 
-:\* 野球部員：[小野塚貴志](https://ja.wikipedia.org/wiki/小野塚貴志 "wikilink")・[杉山紀彰](https://ja.wikipedia.org/wiki/杉山紀彰 "wikilink")
+:\* 野球部員：[小野塚貴志](../Page/小野塚貴志.md "wikilink")・[杉山紀彰](../Page/杉山紀彰.md "wikilink")
 
 :\* 女子高生：[松岡由貴](../Page/松岡由貴.md "wikilink")
 
-:\* キャスター：[小林清志](https://ja.wikipedia.org/wiki/小林清志 "wikilink")
+:\* キャスター：[小林清志](../Page/小林清志.md "wikilink")
 
 ## 外部リンク
 

@@ -40,10 +40,10 @@ HomePNA 3.0を利用するための必要条件は次の通り。
   - HomePNA 1.0の通信速度は1.0Mbpsに制限されていたが、HomePNA 3.0では128Mbpsの通信を行うことができる。これは、たいていのユーザーの要求を満たすのに十分な値である。さらに、大量のデータ転送を行いたい場合には、最大240Mbpsにまで拡張することができる。
   - 50台までの接続であれば、最大10Mbpsの通信を維持することができる。なお、これ以上台数を増やした場合には、通信速度が悪化する可能性が高い。
   - 装置間の距離は300mまで許容され、面積的には900平方メートルまで網展開することができる。
-  - [Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、Apple [Macintosh](../Page/Macintosh.md "wikilink")、[Linux](https://ja.wikipedia.org/wiki/Linux "wikilink")での互換性を持っている。
+  - [Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、Apple [Macintosh](../Page/Macintosh.md "wikilink")、[Linux](../Page/Linux.md "wikilink")での互換性を持っている。
   - 電話線は活線（電話局と繋がっている）である必要がない。
   - 必要となるハードウェアはそれほど高価ではない。
-  - たとえば、居間のテレビで見ている放送を、HomePNA 3.0経由で寝室のテレビに転送できる可能性を持っている。[Wi-Fiや](../Page/無線LAN.md "wikilink")[Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth "wikilink")は、容易に動画を転送できるような帯域または安定性が無いことが多い。
+  - たとえば、居間のテレビで見ている放送を、HomePNA 3.0経由で寝室のテレビに転送できる可能性を持っている。[Wi-Fiや](../Page/無線LAN.md "wikilink")[Bluetooth](../Page/Bluetooth.md "wikilink")は、容易に動画を転送できるような帯域または安定性が無いことが多い。
   - HomePNA 3.0は将来、機器相互間の（異種ベンダ間の）互換性を持つ予定である。（たとえば、Wi-Fi無線LANや、ユニバーサルxDSL、電力線インターネット（HomePlug powerline alliance）のように）
   - HomePNA 3.0は、HomePNA 1.0規格およびHomePNA 2.0規格と下位互換性を持っている。
   - ブロードバンド・コンテンツ提供各社とサードパーティー各社は、認証を受けることで、単一のシンプルなパッケージで電話通信・インターネット通信・動画通信を提供することができる。
@@ -56,7 +56,7 @@ HomePNA 3.0を利用するための必要条件は次の通り。
   - 代替手段である電力線インターネット（PLC:[電力線搬送波通信](https://ja.wikipedia.org/wiki/電力線搬送波通信 "wikilink")）も、多くの会社が互換性を目指して開発を続けている。日本ではパナソニック コミュニケーションズ株式会社(現パナソニック システムネットワークス)から2006年12月9日より国内発売が開始されており、以後各社から販売されている。そのため、HomePNAとの市場の競合が予想される。
   - 不適切な位置に設置された電話用ジャックは障害となりうる。
   - HomePNA 3.0を使用する多くの製品は、実際の転送速度がまだ確定していない。
-  - 日本国内の場合、[VDSL](https://ja.wikipedia.org/wiki/VDSL "wikilink")との互換性の問題がある等その他諸事情により、一般にはあまり普及していない。（一部、[FTTx](https://ja.wikipedia.org/wiki/FTTx "wikilink")の末端として10MbpsのHomePNAが導入された。一部の[CATVシステムなど](../Page/ケーブルテレビ.md "wikilink")、建物固有のFTTBシステム等での導入も見られる。）
+  - 日本国内の場合、[VDSL](https://ja.wikipedia.org/wiki/VDSL "wikilink")との互換性の問題がある等その他諸事情により、一般にはあまり普及していない。（一部、[FTTx](../Page/FTTx.md "wikilink")の末端として10MbpsのHomePNAが導入された。一部の[CATVシステムなど](../Page/ケーブルテレビ.md "wikilink")、建物固有のFTTBシステム等での導入も見られる。）
 
 ## 外部リンク
 

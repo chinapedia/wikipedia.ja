@@ -1,7 +1,7 @@
 > この記事は[MAZDA SUPER SUNDAY](https://ja.wikipedia.org/wiki/MAZDA_SUPER_SUNDAY)から翻訳されています。
 
 
-**MAZDA SUPER SUNDAY**（マツダスーパーサンデー）は[TOKYO FMをキー局とする全国の](../Page/エフエム東京.md "wikilink")[JFN加盟の民間FM放送局](https://ja.wikipedia.org/wiki/JAPAN_FM_NETWORK "wikilink")38社（当初36社、後に[Radio80と](../Page/エフエム岐阜.md "wikilink")[Kiss-FM KOBEが加わる](https://ja.wikipedia.org/wiki/兵庫エフエム放送 "wikilink")）で[1999年](../Page/1999年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")～[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")に放送されていた[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")株式会社一社提供の[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。
+**MAZDA SUPER SUNDAY**（マツダスーパーサンデー）は[TOKYO FMをキー局とする全国の](../Page/エフエム東京.md "wikilink")[JFN加盟の民間FM放送局](https://ja.wikipedia.org/wiki/JAPAN_FM_NETWORK "wikilink")38社（当初36社、後に[Radio80と](../Page/エフエム岐阜.md "wikilink")[Kiss-FM KOBEが加わる](https://ja.wikipedia.org/wiki/兵庫エフエム放送 "wikilink")）で[1999年](../Page/1999年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")～[2006年](../Page/2006年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")に放送されていた[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")株式会社一社提供の[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。
 
 ## 放送時間
 
@@ -11,7 +11,7 @@
 
   - [内藤忠](https://ja.wikipedia.org/wiki/DJナイク "wikilink")（出演は全期間）
   - [松本ともこ](../Page/松本ともこ.md "wikilink")（出演当時TOKYO FMアナウンサー、出演は1999年4月～2000年3月）
-  - [雨宮朋絵](https://ja.wikipedia.org/wiki/雨宮朋絵 "wikilink")（ともちゃん、出演は2000年4月～2006年3月）
+  - [雨宮朋絵](../Page/雨宮朋絵.md "wikilink")（ともちゃん、出演は2000年4月～2006年3月）
 
 ## 番組内容
 
@@ -25,7 +25,7 @@
 ## 備考
 
   - この番組から日曜日午前10時台のJFN系列の番組はスポンサーが[日産自動車](../Page/日産自動車.md "wikilink")からマツダに変更された（2006年[4月2日](../Page/4月2日.md "wikilink")からは「[MAZDA MUSIC JAM](https://ja.wikipedia.org/wiki/MAZDA_MUSIC_JAM "wikilink")」〔DJ：[小山ジャネット愛子](https://ja.wikipedia.org/wiki/小山ジャネット愛子 "wikilink")〕）。
-  - 番組の途中（10時35分頃）にも、[JFN共通ジングル](https://ja.wikipedia.org/wiki/JFN共通ジングル "wikilink")が流れていた。
+  - 番組の途中（10時35分頃）にも、[JFN共通ジングル](../Page/JFN共通ジングル.md "wikilink")が流れていた。
   - 当初内藤忠の相方を務めていた松本ともこは前番組の「NISSAN HITPOP JAPAN」にも出演していた。
 
 ## 外部リンク

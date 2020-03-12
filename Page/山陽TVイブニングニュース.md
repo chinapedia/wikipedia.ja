@@ -1,11 +1,11 @@
 > この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
 
 
-{{ 特筆性|date=2016年2月}}  『**山陽TVイブニングニュース**』（さんようテレビ イブニングニュース）は、[山陽放送で](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から放送されている、[瀬戸内ローカルの](https://ja.wikipedia.org/wiki/瀬戸内地方 "wikilink")[ニュース番組](https://ja.wikipedia.org/wiki/ニュース番組 "wikilink")である（協力・[山陽新聞](../Page/山陽新聞.md "wikilink")\[1\]）。日本の民間放送局初の夕方のワイドニュース番組である\[2\]。
+{{ 特筆性|date=2016年2月}}  『**山陽TVイブニングニュース**』（さんようテレビ イブニングニュース）は、[山陽放送で](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から放送されている、[瀬戸内ローカルの](../Page/瀬戸内地方.md "wikilink")[ニュース番組](https://ja.wikipedia.org/wiki/ニュース番組 "wikilink")である（協力・[山陽新聞](../Page/山陽新聞.md "wikilink")\[1\]）。日本の民間放送局初の夕方のワイドニュース番組である\[2\]。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に冠の"山陽TV"から"RSK"へと改題されている。この項は一時期を除いて"山陽TV"と名乗っていた2005年3月までについて述べる。
+[2005年](../Page/2005年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に冠の"山陽TV"から"RSK"へと改題されている。この項は一時期を除いて"山陽TV"と名乗っていた2005年3月までについて述べる。
 
-2005年4月以降については*[RSKイブニングニュース](https://ja.wikipedia.org/wiki/RSKイブニングニュース "wikilink")*の項を参照こと。[天気予報](../Page/天気予報.md "wikilink")として月・水・金に『[ヤン坊マー坊天気予報](https://ja.wikipedia.org/wiki/ヤン坊マー坊天気予報 "wikilink")』を内包していた。
+2005年4月以降については*[RSKイブニングニュース](../Page/RSKイブニングニュース.md "wikilink")*の項を参照こと。[天気予報](../Page/天気予報.md "wikilink")として月・水・金に『[ヤン坊マー坊天気予報](../Page/ヤン坊マー坊天気予報.md "wikilink")』を内包していた。
 
 なおこの番組のテーマソングは、スポットニュース番組である「[山陽TVニュース](https://ja.wikipedia.org/wiki/山陽TVニュース "wikilink") 山陽放送・山陽新聞」においても短縮版のものが使われていた。
 
@@ -29,12 +29,12 @@
 
 ## 出演者
 
-※は後身の『[RSKイブニングニュース](https://ja.wikipedia.org/wiki/RSKイブニングニュース "wikilink")』も続投。
+※は後身の『[RSKイブニングニュース](../Page/RSKイブニングニュース.md "wikilink")』も続投。
 
   - [松田通男](https://ja.wikipedia.org/wiki/松田通男 "wikilink")(初代。1971年10月-?)後の1985年時点で企画局次長、1995年時点で取締役。
   - 片山健(初代。1971年10月-?)後に報道部副部長、初代[JNN](https://ja.wikipedia.org/wiki/JNN "wikilink")[ベイルート](../Page/ベイルート.md "wikilink")支局長を歴任。
   - [末田倫子](https://ja.wikipedia.org/wiki/末田倫子 "wikilink")
-  - [石田好伸](https://ja.wikipedia.org/wiki/石田好伸 "wikilink")※（1989年3月-2005年3月）
+  - [石田好伸](../Page/石田好伸.md "wikilink")※（1989年3月-2005年3月）
   - [近藤季樹](https://ja.wikipedia.org/wiki/近藤季樹 "wikilink")※（1996年4月-2005年3月。途中、病気療養で半年ほど中断期間あり）
   - [玉木邦夫](https://ja.wikipedia.org/wiki/玉木邦夫 "wikilink")※
   - [島田博](https://ja.wikipedia.org/wiki/島田博 "wikilink")
@@ -44,11 +44,11 @@
   - [大橋里美](https://ja.wikipedia.org/wiki/大橋里美 "wikilink")
   - [遠藤寛子](https://ja.wikipedia.org/wiki/遠藤寛子 "wikilink")
   - [坤徳ひとみ](https://ja.wikipedia.org/wiki/坤徳ひとみ "wikilink")※
-  - [小林章子](https://ja.wikipedia.org/wiki/小林章子 "wikilink")※
+  - [小林章子](../Page/小林章子.md "wikilink")※
   - 中村恵美(月曜)
   - [花村恭子](https://ja.wikipedia.org/wiki/花村恭子 "wikilink")(天気)
-  - [森下真由美](https://ja.wikipedia.org/wiki/森下真由美 "wikilink")
-  - [河原祥子](https://ja.wikipedia.org/wiki/河原祥子 "wikilink")※
+  - [森下真由美](../Page/森下真由美.md "wikilink")
+  - [河原祥子](../Page/河原祥子.md "wikilink")※
   - [小沢典子](https://ja.wikipedia.org/wiki/小沢典子 "wikilink")
 
 ほか
@@ -58,4 +58,4 @@
 [Category:1971年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1971年のテレビ番組_\(日本\) "wikilink") [Category:RSK山陽放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:RSK山陽放送のテレビ番組 "wikilink") [Category:中国・四国地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:中国・四国地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビの帯番組 "wikilink") [Category:JNNニュースコープ](https://ja.wikipedia.org/wiki/Category:JNNニュースコープ "wikilink") [Category:JNNニュースの森](https://ja.wikipedia.org/wiki/Category:JNNニュースの森 "wikilink") [Category:ヤン坊マー坊天気予報](https://ja.wikipedia.org/wiki/Category:ヤン坊マー坊天気予報 "wikilink") [Category:山陽新聞社](https://ja.wikipedia.org/wiki/Category:山陽新聞社 "wikilink")
 
 1.  タイトルクレジットには「山陽放送・山陽新聞」の連名で記載されている。番組開始当初は山陽新聞が上だったが、後年は山陽放送が上になっていた([参考画像](http://stat.ameba.jp/user_images/20130724/20/keyakiiku-wa-ma-ko/18/81/j/o0480081012621269483.jpg))
-2.  日本の民間放送局で初のワイドニュース番組は、『[RABニュースレーダー](https://ja.wikipedia.org/wiki/RABニュースレーダー "wikilink")』（[青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")）が最初である。RABは当初は早朝で放送されていたが、夕方のワイドニュース番組ではRSKが日本初となる。
+2.  日本の民間放送局で初のワイドニュース番組は、『[RABニュースレーダー](../Page/RABニュースレーダー.md "wikilink")』（[青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")）が最初である。RABは当初は早朝で放送されていたが、夕方のワイドニュース番組ではRSKが日本初となる。

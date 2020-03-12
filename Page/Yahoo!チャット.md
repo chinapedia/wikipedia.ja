@@ -1,9 +1,9 @@
 > この記事は[Yahoo!](https://ja.wikipedia.org/wiki/Yahoo!)から翻訳されています。
 
 
-**Yahoo\!チャット**（ヤフーチャット）とは、[Yahoo\! JAPANが運営していた](https://ja.wikipedia.org/wiki/Yahoo!_JAPAN "wikilink")[チャット](../Page/チャット.md "wikilink")サイトの1つ。
+**Yahoo\!チャット**（ヤフーチャット）とは、[Yahoo\! JAPANが運営していた](../Page/Yahoo!_JAPAN.md "wikilink")[チャット](../Page/チャット.md "wikilink")サイトの1つ。
 
-このサービスを利用するには[Yahoo\! JAPAN IDの取得と](https://ja.wikipedia.org/wiki/Yahoo!_JAPAN_ID "wikilink")[Yahoo\!メッセンジャー](https://ja.wikipedia.org/wiki/Yahoo!メッセンジャー "wikilink")が必要であった。[2007年](../Page/2007年.md "wikilink")4月3日、[Yahoo\!メッセンジャー](https://ja.wikipedia.org/wiki/Yahoo!メッセンジャー "wikilink")へ機能を統合するという形で、Javaアプレットを利用したWebブラウザからのアクセスはサービス廃止し、Yahoo\!メッセンジャーが2014年3月26日午後3時にサービス終了してこの機能も終了した。
+このサービスを利用するには[Yahoo\! JAPAN IDの取得と](https://ja.wikipedia.org/wiki/Yahoo!_JAPAN_ID "wikilink")[Yahoo\!メッセンジャー](../Page/Yahoo!メッセンジャー.md "wikilink")が必要であった。[2007年](../Page/2007年.md "wikilink")4月3日、[Yahoo\!メッセンジャー](../Page/Yahoo!メッセンジャー.md "wikilink")へ機能を統合するという形で、Javaアプレットを利用したWebブラウザからのアクセスはサービス廃止し、Yahoo\!メッセンジャーが2014年3月26日午後3時にサービス終了してこの機能も終了した。
 
 ## カテゴリ
 

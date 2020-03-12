@@ -1,11 +1,11 @@
 > この記事は[L](https://ja.wikipedia.org/wiki/L)から翻訳されています。
 
 
-『**仏陀L**』（ぶっだエル）は、[筋肉少女帯](https://ja.wikipedia.org/wiki/筋肉少女帯 "wikilink")のメジャーデビューアルバム。バンドの第18期メンバーにより製作された。
+『**仏陀L**』（ぶっだエル）は、[筋肉少女帯](../Page/筋肉少女帯.md "wikilink")のメジャーデビューアルバム。バンドの第18期メンバーにより製作された。
 
 ## 解説
 
-インディーズ時からライブで演奏されていた「[釈迦](https://ja.wikipedia.org/wiki/釈迦_\(筋肉少女帯の曲\) "wikilink")」「[孤島の鬼](https://ja.wikipedia.org/wiki/孤島の鬼 "wikilink")」といった楽曲を収録。初回盤LPにはソノシート『パンクでポン』（未収録となった『高木ブー伝説』のニューテイクを逆再生した上に、独演を吹き込んだもの）を付属。 ジャケットの写真は、『[増殖](https://ja.wikipedia.org/wiki/増殖_\(YMOのアルバム\) "wikilink")』（[イエロー・マジック・オーケストラ](../Page/イエロー・マジック・オーケストラ.md "wikilink")）のパロディである。
+インディーズ時からライブで演奏されていた「[釈迦](https://ja.wikipedia.org/wiki/釈迦_\(筋肉少女帯の曲\) "wikilink")」「[孤島の鬼](../Page/孤島の鬼.md "wikilink")」といった楽曲を収録。初回盤LPにはソノシート『パンクでポン』（未収録となった『高木ブー伝説』のニューテイクを逆再生した上に、独演を吹き込んだもの）を付属。 ジャケットの写真は、『[増殖](../Page/増殖_\(YMOのアルバム\).md "wikilink")』（[イエロー・マジック・オーケストラ](../Page/イエロー・マジック・オーケストラ.md "wikilink")）のパロディである。
 
 [リマスタリング](https://ja.wikipedia.org/wiki/リマスタリング "wikilink")が施され、2009年7月22日に再発売された。
 
@@ -35,9 +35,9 @@
 ## 演奏者
 
   - [大槻ケンヂ](https://ja.wikipedia.org/wiki/大槻ケンヂ "wikilink") - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
-  - [内田雄一郎](https://ja.wikipedia.org/wiki/内田雄一郎 "wikilink") - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
-  - [三柴江戸蔵](https://ja.wikipedia.org/wiki/三柴理 "wikilink") - [ピアノ](../Page/ピアノ.md "wikilink")、[シンセサイザー](../Page/シンセサイザー.md "wikilink")、[オルガン](../Page/オルガン.md "wikilink")、 コーラス
-  - [美濃介](https://ja.wikipedia.org/wiki/みのすけ "wikilink") - [ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")、コーラス
+  - [内田雄一郎](../Page/内田雄一郎.md "wikilink") - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
+  - [三柴江戸蔵](../Page/三柴理.md "wikilink") - [ピアノ](../Page/ピアノ.md "wikilink")、[シンセサイザー](../Page/シンセサイザー.md "wikilink")、[オルガン](../Page/オルガン.md "wikilink")、 コーラス
+  - [美濃介](../Page/みのすけ.md "wikilink") - [ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")、コーラス
   - 関口博史 - [ギター](../Page/ギター.md "wikilink"), Talk(\#5)
 
 ## 関連項目

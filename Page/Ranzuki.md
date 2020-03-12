@@ -1,7 +1,7 @@
 > この記事は[Ranzuki](https://ja.wikipedia.org/wiki/Ranzuki)から翻訳されています。
 
 
-『**Ranzuki**』（ランズキ）は、[ぶんか社](https://ja.wikipedia.org/wiki/ぶんか社 "wikilink")が発行する女性向け[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")。[ギャル](https://ja.wikipedia.org/wiki/ギャル "wikilink")系のファッションを紹介している。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、『**ランキング大好き**』の誌名で創刊。[2000年](../Page/2000年.md "wikilink")[7月22日](../Page/7月22日.md "wikilink")に誌名を『Ranzuki』と改めた。2013年12月号より新装刊となり、ロゴデザイン、モデル、企画内容など大幅にリニューアルした\[1\]。
+『**Ranzuki**』（ランズキ）は、[ぶんか社](../Page/ぶんか社.md "wikilink")が発行する女性向け[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")。[ギャル](../Page/ギャル.md "wikilink")系のファッションを紹介している。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、『**ランキング大好き**』の誌名で創刊。[2000年](../Page/2000年.md "wikilink")[7月22日](../Page/7月22日.md "wikilink")に誌名を『Ranzuki』と改めた。2013年12月号より新装刊となり、ロゴデザイン、モデル、企画内容など大幅にリニューアルした\[1\]。
 
 ## 概要
 
@@ -56,12 +56,12 @@
   - [浜崎芹子](https://ja.wikipedia.org/wiki/浜崎芹子 "wikilink")
   - [岸本真帆](https://ja.wikipedia.org/wiki/岸本真帆 "wikilink")
   - [鎌田安里紗](https://ja.wikipedia.org/wiki/鎌田安里紗 "wikilink")
-  - [田中芽衣](https://ja.wikipedia.org/wiki/田中芽衣 "wikilink")
+  - [田中芽衣](../Page/田中芽衣.md "wikilink")
   - [高橋美紅](https://ja.wikipedia.org/wiki/高橋美紅 "wikilink")
   - [岩本紗也加](https://ja.wikipedia.org/wiki/岩本紗也加 "wikilink")
   - 同社発行の雑誌[Vanilla girlに移籍](https://ja.wikipedia.org/wiki/Vanilla_girl "wikilink")
       - [原明日香](https://ja.wikipedia.org/wiki/原明日香 "wikilink")
-      - [鈴木那奈](https://ja.wikipedia.org/wiki/鈴木那奈 "wikilink")
+      - [鈴木那奈](../Page/鈴木那奈.md "wikilink")
       - [門馬あかね](https://ja.wikipedia.org/wiki/門馬あかね "wikilink")
       - [津覇雅実](https://ja.wikipedia.org/wiki/津覇雅実 "wikilink")
   - 姉妹誌[JELLYに移籍](https://ja.wikipedia.org/wiki/JELLY_\(雑誌\) "wikilink")
@@ -89,7 +89,7 @@
   - [Fine](https://ja.wikipedia.org/wiki/Fine "wikilink")
   - [JELLY](https://ja.wikipedia.org/wiki/JELLY_\(雑誌\) "wikilink")
   - [Vanillagirl](https://ja.wikipedia.org/wiki/Vanillagirl "wikilink")
-  - [Popteen](https://ja.wikipedia.org/wiki/Popteen "wikilink")
+  - [Popteen](../Page/Popteen.md "wikilink")
 
 ## 出典
 

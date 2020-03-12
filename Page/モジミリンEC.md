@@ -45,27 +45,27 @@
 
 ### MF
 
-  - [フェルナンド](https://ja.wikipedia.org/wiki/フェルナンド・エンリケ・マリアーノ "wikilink") 1990-1992
+  - [フェルナンド](../Page/フェルナンド・エンリケ・マリアーノ.md "wikilink") 1990-1992
 
   - [リバウド](../Page/リバウド.md "wikilink") 1992
 
-  - [ジオヴァンニ](https://ja.wikipedia.org/wiki/ジオヴァンニ・シウヴァ・ジ・オリヴェイラ "wikilink") 2008-2009
+  - [ジオヴァンニ](../Page/ジオヴァンニ・シウヴァ・ジ・オリヴェイラ.md "wikilink") 2008-2009
 
   - [武富孝介](https://ja.wikipedia.org/wiki/武富孝介 "wikilink") 2009 (留学)
 
   - [ファビオ](https://ja.wikipedia.org/wiki/ファビオ・ヘンリケ・ペナ "wikilink") 2010
 
-  - [エメルソン](https://ja.wikipedia.org/wiki/エメルソン・デ・アンドラーデ・サントス "wikilink") 2011
+  - [エメルソン](../Page/エメルソン・デ・アンドラーデ・サントス.md "wikilink") 2011
 
-  - [フェルナンジーニョ](https://ja.wikipedia.org/wiki/エルディス・フェルナンド・ダマショ "wikilink") 2011-2012
+  - [フェルナンジーニョ](../Page/エルディス・フェルナンド・ダマショ.md "wikilink") 2011-2012
 
   - [甲斐敬介](https://ja.wikipedia.org/wiki/甲斐敬介 "wikilink") 2013 (留学)
 
 ### FW
 
-  - [アイウトン](https://ja.wikipedia.org/wiki/アイウトン・ゴンサウヴェス・ダ・シウヴァ "wikilink") 1994
+  - [アイウトン](../Page/アイウトン・ゴンサウヴェス・ダ・シウヴァ.md "wikilink") 1994
 
-  - [デニス・マルケス](https://ja.wikipedia.org/wiki/デニス・マルケス "wikilink") 2002-2003
+  - [デニス・マルケス](../Page/デニス・マルケス.md "wikilink") 2002-2003
 
   - [パウロ・ヌーネス](../Page/アリウソン・ジ・パウラ・ヌーネス.md "wikilink") 2003
 

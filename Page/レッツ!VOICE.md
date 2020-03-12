@@ -1,7 +1,7 @@
 > この記事は[!VOICE](https://ja.wikipedia.org/wiki/!VOICE)から翻訳されています。
 
 
-『**レッツ\!VOICE**』（レッツ ヴォイス）は、[1979年](../Page/1979年.md "wikilink")[11月4日](../Page/11月4日.md "wikilink")から[1981年](../Page/1981年.md "wikilink")[5月24日](../Page/5月24日.md "wikilink")まで[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")で放送されていた[トーク番組](https://ja.wikipedia.org/wiki/トーク番組 "wikilink")である。[SONYの一社提供](../Page/ソニー.md "wikilink")。放送時間は毎週[日曜](../Page/日曜日.md "wikilink") 18:30 - 19:00 （[日本標準時](../Page/日本標準時.md "wikilink")）。
+『**レッツ\!VOICE**』（レッツ ヴォイス）は、[1979年](../Page/1979年.md "wikilink")[11月4日](../Page/11月4日.md "wikilink")から[1981年](../Page/1981年.md "wikilink")[5月24日](../Page/5月24日.md "wikilink")まで[テレビ朝日](../Page/テレビ朝日.md "wikilink")で放送されていた[トーク番組](../Page/トーク番組.md "wikilink")である。[SONYの一社提供](../Page/ソニー.md "wikilink")。放送時間は毎週[日曜](../Page/日曜日.md "wikilink") 18:30 - 19:00 （[日本標準時](../Page/日本標準時.md "wikilink")）。
 
 ## 概要
 

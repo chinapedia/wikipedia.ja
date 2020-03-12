@@ -1,11 +1,11 @@
 > この記事は[The](https://ja.wikipedia.org/wiki/The)から翻訳されています。
 
 
-『**Theゲームパワー**』（ザ ゲームパワー）は、[テレビ東京系列局ほかで放送された](https://ja.wikipedia.org/wiki/TXN "wikilink")[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")・アルファ放送制作共同製作の[テレビゲーム](https://ja.wikipedia.org/wiki/テレビゲーム "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")（[ゲーム番組](https://ja.wikipedia.org/wiki/ゲーム番組 "wikilink")）。テレビ東京系列局では[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[1994年](../Page/1994年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで放送。
+『**Theゲームパワー**』（ザ ゲームパワー）は、[テレビ東京系列局ほかで放送された](https://ja.wikipedia.org/wiki/TXN "wikilink")[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")・アルファ放送制作共同製作の[テレビゲーム](https://ja.wikipedia.org/wiki/テレビゲーム "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")（[ゲーム番組](../Page/ゲーム番組.md "wikilink")）。テレビ東京系列局では[1991年](../Page/1991年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[1994年](../Page/1994年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで放送。
 
 ## 概要
 
-『[ファミっ子大集合](../Page/ファミっ子大集合.md "wikilink")』の後継番組で、この番組では4代目江戸家猫八（当時[江戸家小猫](https://ja.wikipedia.org/wiki/江戸家猫八_\(4代目\) "wikilink")）が司会を務めた。
+『[ファミっ子大集合](../Page/ファミっ子大集合.md "wikilink")』の後継番組で、この番組では4代目江戸家猫八（当時[江戸家小猫](../Page/江戸家猫八_\(4代目\).md "wikilink")）が司会を務めた。
 
 当初は『ファミっ子大集合』と同様に、番組冒頭で各ソフトメーカーの担当者を紹介する際には「〜名人」と呼んでいたが、途中で「〜さん」に変わった。ただし、[カルチャーブレーン](https://ja.wikipedia.org/wiki/カルチャーブレーン "wikilink")の「ティーチャー溝添」（一時期使用、多くの期間においては「〜さん」付け）や、[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")の「[ソニックブラストマン](https://ja.wikipedia.org/wiki/ソニックブラストマン "wikilink")」（タイトーの担当者が展示会用の[着ぐるみ](../Page/着ぐるみ.md "wikilink")を着て出演）などの例外もある。また、他にも登場回数はわずかだが、『[テッカマンブレード](https://ja.wikipedia.org/wiki/テッカマンブレード "wikilink")』などの着ぐるみや[コスプレ](../Page/コスプレ.md "wikilink")に扮して登場する担当者も何人かいた。
 
@@ -34,18 +34,18 @@
 
 ### 司会
 
-  - [江戸家小猫](https://ja.wikipedia.org/wiki/江戸家猫八_\(4代目\) "wikilink")
+  - [江戸家小猫](../Page/江戸家猫八_\(4代目\).md "wikilink")
   - 須田みなみ
-  - [桂竹丸](https://ja.wikipedia.org/wiki/桂竹丸 "wikilink")
-  - [林家いっ平](https://ja.wikipedia.org/wiki/林家三平_\(2代目\) "wikilink")
-  - [杉本理恵](https://ja.wikipedia.org/wiki/杉本理恵 "wikilink")
-  - [磯辺莉英](https://ja.wikipedia.org/wiki/磯辺莉英 "wikilink")（[乙女塾](https://ja.wikipedia.org/wiki/乙女塾 "wikilink")3期生→[ベイキャニオンズ](https://ja.wikipedia.org/wiki/ベイキャニオンズ "wikilink")→[Hipp's](https://ja.wikipedia.org/wiki/Hipp's "wikilink")）
+  - [桂竹丸](../Page/桂竹丸.md "wikilink")
+  - [林家いっ平](../Page/林家三平_\(2代目\).md "wikilink")
+  - [杉本理恵](../Page/杉本理恵.md "wikilink")
+  - [磯辺莉英](https://ja.wikipedia.org/wiki/磯辺莉英 "wikilink")（[乙女塾](../Page/乙女塾.md "wikilink")3期生→[ベイキャニオンズ](../Page/ベイキャニオンズ.md "wikilink")→[Hipp's](../Page/Hipp's.md "wikilink")）
   - 夏目奈美
 
 ### ナレーター
 
-  - [堀内賢雄](https://ja.wikipedia.org/wiki/堀内賢雄 "wikilink")
-  - [堀越真己](https://ja.wikipedia.org/wiki/堀越真己 "wikilink")
+  - [堀内賢雄](../Page/堀内賢雄.md "wikilink")
+  - [堀越真己](../Page/堀越真己.md "wikilink")
 
 ## エンディングテーマ曲
 

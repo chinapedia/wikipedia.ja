@@ -7,7 +7,7 @@
 
 2003年10月放送開始。番組が独自に選んだ[ジャズ](../Page/ジャズ.md "wikilink")の名盤の中から毎回1枚を紹介。ジャズ発祥以来、これまでに世界で発表されてきた多くのジャズアルバムの中から、ジャズの歴史に残る数々の楽曲を放送している。番組のタイトル曲に使用されているのは[ジョン・コルトレーン](../Page/ジョン・コルトレーン.md "wikilink")の[ジャイアント・ステップス](../Page/ジャイアント・ステップス.md "wikilink")である。
 
-2012年9月で番組は終了した。後番組は、[山中千尋](https://ja.wikipedia.org/wiki/山中千尋 "wikilink")がナビゲーターを担当する[Jazz Reminiscence](https://ja.wikipedia.org/wiki/Jazz_Reminiscence "wikilink")。
+2012年9月で番組は終了した。後番組は、[山中千尋](../Page/山中千尋.md "wikilink")がナビゲーターを担当する[Jazz Reminiscence](https://ja.wikipedia.org/wiki/Jazz_Reminiscence "wikilink")。
 
 ## 出演
 
@@ -22,7 +22,7 @@
   - [FM山形](../Page/エフエム山形.md "wikilink") （土曜19:30-20:00）
   - [レディオ・ベリー](https://ja.wikipedia.org/wiki/エフエム栃木 "wikilink") （日曜27:00-27:30）
   - [FM長野](https://ja.wikipedia.org/wiki/エフエム長野 "wikilink") （土曜24:30-25:00）
-  - [FMとやま](https://ja.wikipedia.org/wiki/富山エフエム放送 "wikilink")（日曜20:10-20:40） - 2005年頃に金曜深夜に放送されており、その後一旦打ち切ったが2007年10月に復活した。
+  - [FMとやま](../Page/富山エフエム放送.md "wikilink")（日曜20:10-20:40） - 2005年頃に金曜深夜に放送されており、その後一旦打ち切ったが2007年10月に復活した。
   - [HELLO FIVE](../Page/エフエム石川.md "wikilink")（日曜24:00-24:30）
   - [岐阜エフエム放送](https://ja.wikipedia.org/wiki/岐阜エフエム放送 "wikilink")（日曜22:00-22:30）
   - [FM愛知](../Page/エフエム愛知.md "wikilink") （日曜18：00－18：30）- 2010年4月より。

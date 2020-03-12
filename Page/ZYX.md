@@ -7,36 +7,36 @@
 
 ## 概要
 
-[つんく♂](https://ja.wikipedia.org/wiki/つんく♂ "wikilink")プロデュースにより、「絶対(Z)夢を(Y)倍に(X)」する事をテーマに結成した。[ハロー\!プロジェクト・キッズ](https://ja.wikipedia.org/wiki/ハロー!プロジェクト・キッズ "wikilink")（以下キッズ）15名全員によるレコーディングの結果5人が選抜され、矢口真里は補助的ポジションに就く。 2004年1月のハロー\!プロジェクトのコンサート及び[Berryz工房](https://ja.wikipedia.org/wiki/Berryz工房 "wikilink")結成発表を最後に事実上活動を停止している。
+[つんく♂](https://ja.wikipedia.org/wiki/つんく♂ "wikilink")プロデュースにより、「絶対(Z)夢を(Y)倍に(X)」する事をテーマに結成した。[ハロー\!プロジェクト・キッズ](../Page/ハロー!プロジェクト・キッズ.md "wikilink")（以下キッズ）15名全員によるレコーディングの結果5人が選抜され、矢口真里は補助的ポジションに就く。 2004年1月のハロー\!プロジェクトのコンサート及び[Berryz工房](../Page/Berryz工房.md "wikilink")結成発表を最後に事実上活動を停止している。
 
 ## メンバー
 
   - [矢口真里](https://ja.wikipedia.org/wiki/矢口真里 "wikilink")（元[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")）リーダー
-  - [梅田えりか](https://ja.wikipedia.org/wiki/梅田えりか "wikilink")（ハロー\!プロジェクト・キッズ）後の[℃-ute](https://ja.wikipedia.org/wiki/℃-ute "wikilink")
-  - [清水佐紀](https://ja.wikipedia.org/wiki/清水佐紀 "wikilink")（ハロー\!プロジェクト・キッズ）後の[Berryz工房](https://ja.wikipedia.org/wiki/Berryz工房 "wikilink")
-  - [矢島舞美](https://ja.wikipedia.org/wiki/矢島舞美 "wikilink")（ハロー\!プロジェクト・キッズ）後の℃-ute
-  - [嗣永桃子](https://ja.wikipedia.org/wiki/嗣永桃子 "wikilink")（ハロー\!プロジェクト・キッズ）後のBerryz工房
-  - [村上愛](https://ja.wikipedia.org/wiki/村上愛 "wikilink")（ハロー\!プロジェクト・キッズ）後の℃-ute
+  - [梅田えりか](../Page/梅田えりか.md "wikilink")（ハロー\!プロジェクト・キッズ）後の[℃-ute](https://ja.wikipedia.org/wiki/℃-ute "wikilink")
+  - [清水佐紀](../Page/清水佐紀.md "wikilink")（ハロー\!プロジェクト・キッズ）後の[Berryz工房](../Page/Berryz工房.md "wikilink")
+  - [矢島舞美](../Page/矢島舞美.md "wikilink")（ハロー\!プロジェクト・キッズ）後の℃-ute
+  - [嗣永桃子](../Page/嗣永桃子.md "wikilink")（ハロー\!プロジェクト・キッズ）後のBerryz工房
+  - [村上愛](../Page/村上愛.md "wikilink")（ハロー\!プロジェクト・キッズ）後の℃-ute
 
 ## 略歴
 
 **[2002年](../Page/2002年.md "wikilink")**
 
-  - 7月31日、[ハローマゲドン](https://ja.wikipedia.org/wiki/ハローマゲドン "wikilink")で「矢口中心のキッズ新ユニット」を結成することが発表される。
+  - 7月31日、[ハローマゲドン](../Page/ハローマゲドン.md "wikilink")で「矢口中心のキッズ新ユニット」を結成することが発表される。
 
 **[2003年](../Page/2003年.md "wikilink")**
 
   - 7月6日、ZYX結成が発表される。
   - 8月6日、1stシングルを発売。
   - 8月8日、「[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")」に出演。
-  - 8月13日、「[うたばん](https://ja.wikipedia.org/wiki/うたばん "wikilink")」に出演。
+  - 8月13日、「[うたばん](../Page/うたばん.md "wikilink")」に出演。
   - 12月10日、2ndシングルを発売。
 
-**[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")**
+**[2005年](../Page/2005年.md "wikilink")**
 
   - 4月14日、矢口真里がモーニング娘。を脱退。
 
-**[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")**
+**[2006年](../Page/2006年.md "wikilink")**
 
   - 1月に行われた「Hello\! Project 2006 Winter 〜ワンダフルハーツ〜」横浜アリーナ公演では矢口抜きで「白いTOKYO」を歌った。
   - 10月31日、村上愛がハロー\!プロジェクトを脱退。このため、オリジナルメンバーでの復活は事実上不可能となった。
@@ -68,14 +68,14 @@
 
 ### メンバー
 
-  - [嗣永桃子](https://ja.wikipedia.org/wiki/嗣永桃子 "wikilink") （[Berryz工房](https://ja.wikipedia.org/wiki/Berryz工房 "wikilink")）
-  - [梅田えりか](https://ja.wikipedia.org/wiki/梅田えりか "wikilink") （[℃-ute](https://ja.wikipedia.org/wiki/℃-ute "wikilink")）
-  - [徳永千奈美](https://ja.wikipedia.org/wiki/徳永千奈美 "wikilink") （Berrryz工房）
-  - [須藤茉麻](https://ja.wikipedia.org/wiki/須藤茉麻 "wikilink") （Berrryz工房）
+  - [嗣永桃子](../Page/嗣永桃子.md "wikilink") （[Berryz工房](../Page/Berryz工房.md "wikilink")）
+  - [梅田えりか](../Page/梅田えりか.md "wikilink") （[℃-ute](https://ja.wikipedia.org/wiki/℃-ute "wikilink")）
+  - [徳永千奈美](../Page/徳永千奈美.md "wikilink") （Berrryz工房）
+  - [須藤茉麻](../Page/須藤茉麻.md "wikilink") （Berrryz工房）
   - [和田彩花](https://ja.wikipedia.org/wiki/和田彩花 "wikilink") （[スマイレージ](https://ja.wikipedia.org/wiki/アンジュルム "wikilink")）
-  - [小川紗季](https://ja.wikipedia.org/wiki/小川紗季 "wikilink") （スマイレージ）
+  - [小川紗季](../Page/小川紗季.md "wikilink") （スマイレージ）
   - [新垣里沙](../Page/新垣里沙.md "wikilink") （[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")）
-  - [久住小春](https://ja.wikipedia.org/wiki/久住小春 "wikilink") （モーニング娘。）
+  - [久住小春](../Page/久住小春.md "wikilink") （モーニング娘。）
 
 ### 略歴
 

@@ -5,7 +5,7 @@
 
 ## 特徴
 
-  - [2003年](../Page/2003年.md "wikilink")3月31日 - 9月27日に[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系で放送された深夜番組「[セクシー女塾](https://ja.wikipedia.org/wiki/セクシー女塾 "wikilink")」から誕生した。
+  - [2003年](../Page/2003年.md "wikilink")3月31日 - 9月27日に[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系で放送された深夜番組「[セクシー女塾](../Page/セクシー女塾.md "wikilink")」から誕生した。
   - 「セクシーユニット」をコンセプトとしており、全員深紅の口紅を付けている。
   - 「ロマンス」の本来の綴りは「ROMANCE」であるが、[つんく♂](https://ja.wikipedia.org/wiki/つんく♂ "wikilink")の「情熱的で叙情的なユニットになってもらいたい」との思いを込め、「ロマン溢れる女性達」と言う意味で、「ROMAN」に複数形の「S」が付けられて「ROMANS」と命名された。\[1\]
   - ハロー\!プロジェクトの混同ユニットとしては珍しく、結成から5年間と長期にわたってメンバー全員がハロー\!プロジェクトに在籍しつづけ、変動の起きないユニットであったが、2008年4月にアヤカがハロー\!プロジェクトを卒業。同年1月に行われたコンサート『Hello\! Project 2008 Winter 〜かしまし エルダークラブ〜』が最後の完全オリジナルメンバーでの出演となった。
@@ -16,9 +16,9 @@
 
   - [矢口真里](https://ja.wikipedia.org/wiki/矢口真里 "wikilink")（[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")） リーダー、2009年3月31日、ハロー\!プロジェクトを卒業。
   - [石川梨華](https://ja.wikipedia.org/wiki/石川梨華 "wikilink")（モーニング娘。） 2009年3月31日、ハロー\!プロジェクトを卒業。
-  - [アヤカ](https://ja.wikipedia.org/wiki/長手絢香 "wikilink")（[ココナッツ娘。](../Page/ココナッツ娘。.md "wikilink")） 2008年4月30日、ハロー\!プロジェクトを卒業。
+  - [アヤカ](../Page/長手絢香.md "wikilink")（[ココナッツ娘。](../Page/ココナッツ娘。.md "wikilink")） 2008年4月30日、ハロー\!プロジェクトを卒業。
   - [里田まい](https://ja.wikipedia.org/wiki/里田まい "wikilink")（[カントリー娘。](../Page/カントリー娘。.md "wikilink")） 2009年3月31日、ハロー\!プロジェクトを卒業。
-  - [斉藤瞳](https://ja.wikipedia.org/wiki/斉藤瞳 "wikilink")（[メロン記念日](../Page/メロン記念日.md "wikilink")） 2009年3月31日、ハロー\!プロジェクトを卒業。
+  - [斉藤瞳](../Page/斉藤瞳.md "wikilink")（[メロン記念日](../Page/メロン記念日.md "wikilink")） 2009年3月31日、ハロー\!プロジェクトを卒業。
 
 ## 略歴
 

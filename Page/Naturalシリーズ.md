@@ -7,16 +7,16 @@
 
 ## 歴史
 
-  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月6日](https://ja.wikipedia.org/wiki/2月6日 "wikilink") - 『[Natural -身も心も-](https://ja.wikipedia.org/wiki/Natural_-身も心も- "wikilink")』発売
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月6日](../Page/2月6日.md "wikilink") - 『[Natural -身も心も-](../Page/Natural_-身も心も-.md "wikilink")』発売
   - [2000年](../Page/2000年.md "wikilink")[4月14日](../Page/4月14日.md "wikilink") - 『ナチュラル★ぷち』及び『Natural Premium Package』発売
-  - 2000年[5月26日](../Page/5月26日.md "wikilink") - 『[Natural2 -DUO-](https://ja.wikipedia.org/wiki/Natural2_-DUO- "wikilink")』発売
-  - 2000年[12月22日](../Page/12月22日.md "wikilink") - 『[Natural Zero+ -はじまりと終わりの場所で-](https://ja.wikipedia.org/wiki/Natural_Zero+_-はじまりと終わりの場所で- "wikilink")』発売
-  - [2001年](../Page/2001年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink") - 『[Natural2 DVD EDITION](https://ja.wikipedia.org/wiki/Natural2_-DUO- "wikilink")』発売
-  - [2002年](../Page/2002年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink") - GBA版『[Natural2 -DUO-](https://ja.wikipedia.org/wiki/Natural2_-DUO- "wikilink")』発売
-  - [2003年](../Page/2003年.md "wikilink")[5月23日](../Page/5月23日.md "wikilink") - 『[Natural2 DVD EDITION（F\&C DVD COLLECTION版）](https://ja.wikipedia.org/wiki/Natural2_-DUO- "wikilink")』発売
-  - 2003年[9月26日](../Page/9月26日.md "wikilink") - 『[Natural Another One](https://ja.wikipedia.org/wiki/Natural_Another_One "wikilink")』発売
-  - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[1月30日](../Page/1月30日.md "wikilink") - 『[ENSEMBLE 〜舞降る羽のアンサンブル〜](https://ja.wikipedia.org/wiki/ENSEMBLE_〜舞降る羽のアンサンブル〜 "wikilink")』発売、一部ショップの予約特典に『Natural -身も心も-』の[Windows XP対応版を採用](../Page/Microsoft_Windows_XP.md "wikilink")
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink") - PS2版『Natural2 -DUO-』発売
+  - 2000年[5月26日](../Page/5月26日.md "wikilink") - 『[Natural2 -DUO-](../Page/Natural2_-DUO-.md "wikilink")』発売
+  - 2000年[12月22日](../Page/12月22日.md "wikilink") - 『[Natural Zero+ -はじまりと終わりの場所で-](../Page/Natural_Zero+_-はじまりと終わりの場所で-.md "wikilink")』発売
+  - [2001年](../Page/2001年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink") - 『[Natural2 DVD EDITION](../Page/Natural2_-DUO-.md "wikilink")』発売
+  - [2002年](../Page/2002年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink") - GBA版『[Natural2 -DUO-](../Page/Natural2_-DUO-.md "wikilink")』発売
+  - [2003年](../Page/2003年.md "wikilink")[5月23日](../Page/5月23日.md "wikilink") - 『[Natural2 DVD EDITION（F\&C DVD COLLECTION版）](../Page/Natural2_-DUO-.md "wikilink")』発売
+  - 2003年[9月26日](../Page/9月26日.md "wikilink") - 『[Natural Another One](../Page/Natural_Another_One.md "wikilink")』発売
+  - [2004年](../Page/2004年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink") - 『[ENSEMBLE 〜舞降る羽のアンサンブル〜](../Page/ENSEMBLE_〜舞降る羽のアンサンブル〜.md "wikilink")』発売、一部ショップの予約特典に『Natural -身も心も-』の[Windows XP対応版を採用](../Page/Microsoft_Windows_XP.md "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink") - PS2版『Natural2 -DUO-』発売
   - 2005年[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink") - 『[Natural Another One 2nd -Belladonna-](https://ja.wikipedia.org/wiki/Natural_Another_One#Natural_Another_One_2nd_-Belladonna- "wikilink")』発売
 
 ## 外部リンク

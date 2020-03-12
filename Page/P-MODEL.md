@@ -3,15 +3,15 @@
 
 **P-MODEL**（ピー・モデル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽グループ](https://ja.wikipedia.org/wiki/音楽グループ "wikilink")。[1979年](../Page/1979年.md "wikilink")結成、[2000年](../Page/2000年.md "wikilink")より無期限活動休止中。
 
-ここでは、[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")より断続的に活動している**核P-MODEL**についても扱う。
+ここでは、[2004年](../Page/2004年.md "wikilink")より断続的に活動している**核P-MODEL**についても扱う。
 
 ## 概要
 
-[1979年](../Page/1979年.md "wikilink")[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink")、前身バンド「[MANDRAKE](https://ja.wikipedia.org/wiki/マンドレイク_\(バンド\) "wikilink")」が解散、即日**P-MODEL**が結成される。同年7月メジャーデビュー。
+[1979年](../Page/1979年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")、前身バンド「[MANDRAKE](https://ja.wikipedia.org/wiki/マンドレイク_\(バンド\) "wikilink")」が解散、即日**P-MODEL**が結成される。同年7月メジャーデビュー。
 
-[1988年](../Page/1988年.md "wikilink")に「凍結」と称して活動を休止。[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")「解凍」と称して活動を再開するも、[1993年](../Page/1993年.md "wikilink")に「待機」と称し再び活動休止。翌[1994年](../Page/1994年.md "wikilink")「改訂」と称して3回目の活動を開始するが、[2000年](../Page/2000年.md "wikilink")より「培養」と称して活動を休止している。
+[1988年](../Page/1988年.md "wikilink")に「凍結」と称して活動を休止。[1991年](../Page/1991年.md "wikilink")「解凍」と称して活動を再開するも、[1993年](../Page/1993年.md "wikilink")に「待機」と称し再び活動休止。翌[1994年](../Page/1994年.md "wikilink")「改訂」と称して3回目の活動を開始するが、[2000年](../Page/2000年.md "wikilink")より「培養」と称して活動を休止している。
 
-[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")より、中心メンバーの平沢進が1人で**核P-MODEL**として活動している。\[1\]
+[2004年](../Page/2004年.md "wikilink")より、中心メンバーの平沢進が1人で**核P-MODEL**として活動している。\[1\]
 
 ## メンバー
 
@@ -42,9 +42,9 @@
 <a href="../Page/ギター.md" title="wikilink">ギター</a><br />
 <a href="../Page/シンセサイザー.md" title="wikilink">シンセサイザー</a></p></td>
 <td><p><br />
-<a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/足立区" title="wikilink">足立区</a></p></td>
+<a href="../Page/東京都.md" title="wikilink">東京都</a><a href="../Page/足立区.md" title="wikilink">足立区</a></p></td>
 <td><p><a href="../Page/1979年.md" title="wikilink">1979年</a>1月 - <a href="../Page/2000年.md" title="wikilink">2000年</a>12月<br />
-<a href="https://ja.wikipedia.org/wiki/2004年" title="wikilink">2004年</a>10月 - （核P-MODEL）</p></td>
+<a href="../Page/2004年.md" title="wikilink">2004年</a>10月 - （核P-MODEL）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -57,13 +57,13 @@
 <tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/秋山勝彦" title="wikilink">秋山 勝彦</a></strong><br />
 （あきやま かつひこ）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エレクトリックベース" title="wikilink">ベース</a><br />
-<a href="https://ja.wikipedia.org/wiki/キーボード_(楽器)" title="wikilink">キーボード</a><br />
+<td><p><a href="../Page/エレクトリックベース.md" title="wikilink">ベース</a><br />
+<a href="../Page/キーボード_(楽器).md" title="wikilink">キーボード</a><br />
 シンセサイザー</p></td>
 <td><p><br />
 東京都</p></td>
 <td><p>1979年1月 - <a href="https://ja.wikipedia.org/wiki/1980年" title="wikilink">1980年</a>11月<br />
-<a href="https://ja.wikipedia.org/wiki/1991年" title="wikilink">1991年</a>9月 - <a href="../Page/1993年.md" title="wikilink">1993年</a>10月</p></td>
+<a href="../Page/1991年.md" title="wikilink">1991年</a>9月 - <a href="../Page/1993年.md" title="wikilink">1993年</a>10月</p></td>
 <td><p>CROSS<br />
 after the rain（ソロ活動）</p></td>
 </tr>
@@ -73,7 +73,7 @@ after the rain（ソロ活動）</p></td>
 <td><p>キーボード<br />
 シンセサイザー</p></td>
 <td><p><br />
-東京都<a href="https://ja.wikipedia.org/wiki/東久留米市" title="wikilink">東久留米市</a></p></td>
+東京都<a href="../Page/東久留米市.md" title="wikilink">東久留米市</a></p></td>
 <td><p>1979年1月 - <a href="https://ja.wikipedia.org/wiki/1983年" title="wikilink">1983年</a>3月</p></td>
 <td></td>
 </tr>
@@ -98,9 +98,9 @@ after the rain（ソロ活動）</p></td>
 <tr class="odd">
 <td><p><strong>田井中 貞利</strong><br />
 （たいなか さだとし）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ドラムセット" title="wikilink">ドラムス</a></p></td>
+<td><p><a href="../Page/ドラムセット.md" title="wikilink">ドラムス</a></p></td>
 <td><p><br />
-<a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a><a href="https://ja.wikipedia.org/wiki/築上郡" title="wikilink">築上郡</a></p></td>
+<a href="../Page/福岡県.md" title="wikilink">福岡県</a><a href="../Page/築上郡.md" title="wikilink">築上郡</a></p></td>
 <td><p>1979年1月 - <a href="../Page/1984年.md" title="wikilink">1984年</a>12月<br />
 <a href="https://ja.wikipedia.org/wiki/1987年" title="wikilink">1987年</a>3月 - <a href="../Page/1988年.md" title="wikilink">1988年</a>12月</p></td>
 <td></td>
@@ -140,7 +140,7 @@ after the rain（ソロ活動）</p></td>
 </div>
 <div class="NavContent" style="text-align: left;">
 <ul>
-<li>秋山の後任としてサポートメンバー扱いで参加し、<a href="https://ja.wikipedia.org/wiki/1981年" title="wikilink">1981年</a>より正式メンバーとなった。加入当時は高校2年生であった。</li>
+<li>秋山の後任としてサポートメンバー扱いで参加し、<a href="../Page/1981年.md" title="wikilink">1981年</a>より正式メンバーとなった。加入当時は高校2年生であった。</li>
 <li>脱退後は<strong>佐久間 達也</strong>（さくま たつや）と改名しレコードショップを経営している。</li>
 </ul>
 </div>
@@ -156,7 +156,7 @@ after the rain（ソロ活動）</p></td>
 <td><p>キーボード<br />
 （ギター）</p></td>
 <td><p><br />
-東京都<a href="https://ja.wikipedia.org/wiki/江戸川区" title="wikilink">江戸川区</a></p></td>
+東京都<a href="../Page/江戸川区.md" title="wikilink">江戸川区</a></p></td>
 <td><p>1983年3月 - <a href="https://ja.wikipedia.org/wiki/1985年" title="wikilink">1985年</a>12月</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ケラ&amp;ザ・シンセサイザーズ" title="wikilink">ケラ＆ザ・シンセサイザーズ</a><br />
 Sonic Sky</p></td>
@@ -169,7 +169,7 @@ Sonic Sky</p></td>
 <div class="NavContent" style="text-align: left;">
 <ul>
 <li>田中の後任として参加。加入当時はサポートメンバー扱いであり、『<a href="https://ja.wikipedia.org/wiki/ANOTHER_GAME" title="wikilink">ANOTHER GAME</a>』発売後正規メンバーに昇格。</li>
-<li>脱退後は<a href="https://ja.wikipedia.org/wiki/有頂天_(バンド)" title="wikilink">有頂天にて</a><strong>ミュー</strong>名義で活動。有頂天脱退後はソロ活動を行うほか、音楽教室の講師としても活動している。</li>
+<li>脱退後は<a href="../Page/有頂天_(バンド).md" title="wikilink">有頂天にて</a><strong>ミュー</strong>名義で活動。有頂天脱退後はソロ活動を行うほか、音楽教室の講師としても活動している。</li>
 </ul>
 </div>
 </div></td>
@@ -194,11 +194,11 @@ After Dinner<br />
 <td><p><strong>荒木 康弘</strong><br />
 （あらき やすひろ）</p></td>
 <td><p>ドラムス<br />
-<a href="https://ja.wikipedia.org/wiki/パーカッション" title="wikilink">パーカッション</a></p></td>
+<a href="../Page/パーカッション.md" title="wikilink">パーカッション</a></p></td>
 <td><p><br />
-<a href="../Page/新潟県.md" title="wikilink">新潟県</a><a href="https://ja.wikipedia.org/wiki/柏崎市" title="wikilink">柏崎市</a></p></td>
+<a href="../Page/新潟県.md" title="wikilink">新潟県</a><a href="../Page/柏崎市.md" title="wikilink">柏崎市</a></p></td>
 <td><p>1984年12月 - 1987年3月</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ALLERGY" title="wikilink">ALLERGY</a><br />
+<td><p><a href="../Page/ALLERGY.md" title="wikilink">ALLERGY</a><br />
 <a href="https://ja.wikipedia.org/wiki/恒松正敏" title="wikilink">恒松正敏</a>GROUP</p></td>
 </tr>
 <tr class="odd">
@@ -220,7 +220,7 @@ After Dinner<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/中野テルヲ" title="wikilink">中野 照夫</a></strong><br />
+<td><p><strong><a href="../Page/中野テルヲ.md" title="wikilink">中野 照夫</a></strong><br />
 （なかの てるお）</p></td>
 <td><p>ベース<br />
 キーボード<br />
@@ -265,7 +265,7 @@ Systems</p></td>
 シンセサイザー<br />
 プログラミング</p></td>
 <td><p><br />
-<a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a><a href="https://ja.wikipedia.org/wiki/沼田町" title="wikilink">沼田町</a></p></td>
+<a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a><a href="../Page/沼田町.md" title="wikilink">沼田町</a></p></td>
 <td><p>1987年11月 - 1988年12月<br />
 1991年9月 - 1993年10月</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/プノンペンモデル" title="wikilink">プノンペンモデル</a></p></td>
@@ -274,12 +274,12 @@ Systems</p></td>
 <td><p><strong>藤井 ヤスチカ</strong><br />
 （ふじい やすちか）</p></td>
 <td><p>ドラムス<br />
-<a href="https://ja.wikipedia.org/wiki/ミュージックシーケンサー" title="wikilink">シーケンサー</a><br />
+<a href="../Page/ミュージックシーケンサー.md" title="wikilink">シーケンサー</a><br />
 プログラミング</p></td>
 <td><p><br />
 <a href="../Page/広島県.md" title="wikilink">広島県</a><a href="../Page/福山市.md" title="wikilink">福山市</a></p></td>
 <td><p>1991年9月 - 1993年10月</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ザ・グルーヴァーズ" title="wikilink">THE GROOVERS</a></p></td>
+<td><p><a href="../Page/ザ・グルーヴァーズ.md" title="wikilink">THE GROOVERS</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/福間創" title="wikilink">福間 創</a></strong><br />
@@ -288,9 +288,9 @@ Systems</p></td>
 シンセサイザー<br />
 System-1</p></td>
 <td><p><br />
-<a href="https://ja.wikipedia.org/wiki/大阪府" title="wikilink">大阪府</a></p></td>
+<a href="../Page/大阪府.md" title="wikilink">大阪府</a></p></td>
 <td><p><a href="../Page/1994年.md" title="wikilink">1994年</a>11月 - <a href="../Page/2000年.md" title="wikilink">2000年</a>12月</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヤプーズ" title="wikilink">YAPOOS</a><br />
+<td><p><a href="../Page/ヤプーズ.md" title="wikilink">YAPOOS</a><br />
 <a href="https://ja.wikipedia.org/wiki/エレキバター" title="wikilink">エレキバター</a><br />
 Soyuz Project（ソロ活動）</p></td>
 </tr>
@@ -307,7 +307,7 @@ System-2<br />
 <a href="https://ja.wikipedia.org/wiki/縁側.jp" title="wikilink">縁側.jp</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/上領亘" title="wikilink">上領 亘</a></strong><br />
+<td><p><strong><a href="../Page/上領亘.md" title="wikilink">上領 亘</a></strong><br />
 （かみりょう わたる）</p></td>
 <td><p>ドラムス<br />
 Algorhythm</p></td>
@@ -315,7 +315,7 @@ Algorhythm</p></td>
 東京都</p></td>
 <td><p>1994年11月 - <a href="https://ja.wikipedia.org/wiki/1997年" title="wikilink">1997年</a>5月</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/NeoBallad" title="wikilink">NeoBallad</a><br />
-<a href="https://ja.wikipedia.org/wiki/グラスバレー" title="wikilink">GRASS VALLEY</a><br />
+<a href="../Page/グラスバレー.md" title="wikilink">GRASS VALLEY</a><br />
 CROW</p></td>
 </tr>
 <tr class="even">
@@ -436,7 +436,7 @@ PlotData=
 
 <!-- end list -->
 
-  - [KERA](https://ja.wikipedia.org/wiki/ケラリーノ・サンドロヴィッチ "wikilink")（[有頂天](https://ja.wikipedia.org/wiki/有頂天_\(バンド\) "wikilink")）の呼びかけで結成されたP-MODELのコピーバンド。当時封印状態だった初期P-MODELの楽曲を演奏するために結成された。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に2回、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に1回ライブに出演している。
+  - [KERA](../Page/ケラリーノ・サンドロヴィッチ.md "wikilink")（[有頂天](../Page/有頂天_\(バンド\).md "wikilink")）の呼びかけで結成されたP-MODELのコピーバンド。当時封印状態だった初期P-MODELの楽曲を演奏するために結成された。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に2回、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に1回ライブに出演している。
 
 <table>
 <thead>
@@ -504,19 +504,19 @@ PlotData=
 <tbody>
 <tr class="odd">
 <td><p>1993年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/加藤賢崇" title="wikilink">加藤賢崇</a></p></td>
+<td><p><a href="../Page/加藤賢崇.md" title="wikilink">加藤賢崇</a></p></td>
 <td><p>秋山勝彦</p></td>
 <td><p>ことぶき光<br />
 藤井ヤスチカ</p></td>
 <td><p>横川理彦</p></td>
 <td><p>平沢進</p></td>
-<td><p>KERA（<a href="https://ja.wikipedia.org/wiki/マラカス" title="wikilink">マラカス</a>）</p></td>
+<td><p>KERA（<a href="../Page/マラカス.md" title="wikilink">マラカス</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>1994年</p></td>
 <td><p>加藤賢崇<br />
 TAKA</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/戸川純" title="wikilink">戸川純</a>（<a href="https://ja.wikipedia.org/wiki/カズー" title="wikilink">カズー</a>）</p></td>
+<td><p><a href="../Page/戸川純.md" title="wikilink">戸川純</a>（<a href="../Page/カズー.md" title="wikilink">カズー</a>）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -527,10 +527,10 @@ TAKA</p></td>
 <td><p>福間創</p></td>
 <td><p>―</p></td>
 <td><p>平沢進<br />
-（<a href="https://ja.wikipedia.org/wiki/Miburi" title="wikilink">Miburi</a>：Syn）</p></td>
+（<a href="../Page/Miburi.md" title="wikilink">Miburi</a>：Syn）</p></td>
 <td><p>横川理彦（Miburi：Snare）<br />
 中野テルヲ（Miburi：Kick）</p></td>
-<td><p>小西健司（<a href="https://ja.wikipedia.org/wiki/タンバリン" title="wikilink">タンバリン</a>）</p></td>
+<td><p>小西健司（<a href="../Page/タンバリン.md" title="wikilink">タンバリン</a>）</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -569,13 +569,13 @@ TAKA</p></td>
 
     3月16日 - 下北沢LOFTにて初のライブを行う。
 
-    7月25日 - 1stシングル『美術館で会った人だろ』で[ワーナー・パイオニアよりメジャーデビュー](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")。
+    7月25日 - 1stシングル『美術館で会った人だろ』で[ワーナー・パイオニアよりメジャーデビュー](../Page/ワーナーミュージック・ジャパン.md "wikilink")。
 
-    8月20日 - [XTCの来日公演のフロントアクトを務める](https://ja.wikipedia.org/wiki/XTC_\(バンド\) "wikilink")（ - 8月22日）。
+    8月20日 - [XTCの来日公演のフロントアクトを務める](../Page/XTC_\(バンド\).md "wikilink")（ - 8月22日）。
 
     8月25日 - 1stアルバム『**[IN A MODEL ROOM](https://ja.wikipedia.org/wiki/IN_A_MODEL_ROOM "wikilink")**』リリース。
 
-    9月3日 - [VAN HALENの来日ツアー全](https://ja.wikipedia.org/wiki/ヴァン・ヘイレン "wikilink")7公演全てでフロントアクトを担当（ - 9月13日）。この中で初の[日本武道館](https://ja.wikipedia.org/wiki/日本武道館 "wikilink")公演を経験する。
+    9月3日 - [VAN HALENの来日ツアー全](../Page/ヴァン・ヘイレン.md "wikilink")7公演全てでフロントアクトを担当（ - 9月13日）。この中で初の[日本武道館](../Page/日本武道館.md "wikilink")公演を経験する。
 
     12月25日 - 2ndシングル『KAMEARI POP』リリース。1stアルバムからのリカットシングル。
 
@@ -593,9 +593,9 @@ TAKA</p></td>
 
       - 29日の京都公演をたまたま来日していた[デビッド・ボウイが観ており](https://ja.wikipedia.org/wiki/デヴィッド・ボウイ "wikilink")、平沢は終演後楽屋を訪れたデビッドにサインを貰っている。\[2\]\[3\]
 
-    4月7日 - [中野サンプラザ](https://ja.wikipedia.org/wiki/中野サンプラザ "wikilink")ホールにて[ヒカシュー](https://ja.wikipedia.org/wiki/ヒカシュー "wikilink")との対バンライブを開催。
+    4月7日 - [中野サンプラザ](../Page/中野サンプラザ.md "wikilink")ホールにて[ヒカシュー](../Page/ヒカシュー.md "wikilink")との対バンライブを開催。
 
-      - このライブでは運営側と両バンドの間でアンコールを巡ってトラブルが発生。後に平沢、ヒカシューの[巻上公一](https://ja.wikipedia.org/wiki/巻上公一 "wikilink")及び主催者のキョードー東京がコメントを発表する事態となった。
+      - このライブでは運営側と両バンドの間でアンコールを巡ってトラブルが発生。後に平沢、ヒカシューの[巻上公一](../Page/巻上公一.md "wikilink")及び主催者のキョードー東京がコメントを発表する事態となった。
 
     4月25日 - 2ndアルバム『**[LANDSALE](https://ja.wikipedia.org/wiki/LANDSALE "wikilink")**』リリース。
 
@@ -605,13 +605,13 @@ TAKA</p></td>
 
     6月15日 - 初の自主企画「POP THE HERO」開催。
 
-    11月3日 - この日の[文化服装学院](https://ja.wikipedia.org/wiki/文化服装学院 "wikilink")でのライブを以て秋山が脱退。
+    11月3日 - この日の[文化服装学院](../Page/文化服装学院.md "wikilink")でのライブを以て秋山が脱退。
 
     11月21日 - 秋山の後任として、平沢のシンセサイザー講師時代の教え子である**菊池達也**（Ba）がサポートメンバーとして加入。翌年より正式メンバーとなる。
 
 <!-- end list -->
 
-  - **[1981年](https://ja.wikipedia.org/wiki/1981年 "wikilink")**
+  - **[1981年](../Page/1981年.md "wikilink")**
 
 <!-- end list -->
 
@@ -635,11 +635,11 @@ TAKA</p></td>
 
   -
 
-    3月1日 - レーベルを[ジャパンレコードに移籍](https://ja.wikipedia.org/wiki/徳間ジャパンコミュニケーションズ "wikilink")。同日、4thアルバム『**[Perspective](https://ja.wikipedia.org/wiki/Perspective_\(P-MODELのアルバム\) "wikilink")**』及びカセットテープ『[Perspective II](https://ja.wikipedia.org/wiki/Perspective_\(P-MODELのアルバム\)#PerspectiveIIの収録曲 "wikilink")』をリリース。
+    3月1日 - レーベルを[ジャパンレコードに移籍](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")。同日、4thアルバム『**[Perspective](https://ja.wikipedia.org/wiki/Perspective_\(P-MODELのアルバム\) "wikilink")**』及びカセットテープ『[Perspective II](https://ja.wikipedia.org/wiki/Perspective_\(P-MODELのアルバム\)#PerspectiveIIの収録曲 "wikilink")』をリリース。
 
     3月26日 - 恵比寿・日仏会館にて自主企画「突拍子のためのLesson.1」を開催。平沢の自作楽器「ヘブナイザー」\[4\]の初お披露目となる。
 
-    6月21日 - [The Jamの来日公演のフロントアクトを務める](https://ja.wikipedia.org/wiki/ザ・ジャム "wikilink")。
+    6月21日 - [The Jamの来日公演のフロントアクトを務める](../Page/ザ・ジャム.md "wikilink")。
 
     8月22日 - 自主企画「突拍子のためのLesson.2」を開催。ヘブナイザーを用いた観客参加型のライブも行われた（通常ライブとの2部構成）。
 
@@ -659,7 +659,7 @@ TAKA</p></td>
 
     10月24日 - 全国23ヶ所をまわるツアー「ANOTHER GAME TOUR」スタート（ - 12月27日）。
 
-      - このツアーより、平沢は自身のトレードマークとなるギター「[TALBO](https://ja.wikipedia.org/wiki/東海楽器・Talbo "wikilink")」を使用し始めている。
+      - このツアーより、平沢は自身のトレードマークとなるギター「[TALBO](../Page/東海楽器・Talbo.md "wikilink")」を使用し始めている。
 
 </div>
 
@@ -685,13 +685,13 @@ TAKA</p></td>
 
     3月10日 - アルバムリリースツアー「ANOTHER GAME TOUR 2nd」開催（ - 3月25日）。
 
-    8月5日 - 新宿[LOFT公演を以て菊池が脱退](https://ja.wikipedia.org/wiki/ロフト_\(ライブハウス\) "wikilink")。
+    8月5日 - 新宿[LOFT公演を以て菊池が脱退](../Page/ロフト_\(ライブハウス\).md "wikilink")。
 
     8月28日 - 全国ツアー「SCUBA TOUR」がスタート（ - 11月3日）。菊池の後任として**横川理彦**（Ba・Violin）が加入した。
 
       - 横川はバイオリンを弾くこともあった為、その時は平沢がベース、三浦がギターを弾くなどの変則編成もとられた。
 
-    10月10日 - カセットブック『**[SCUBA](https://ja.wikipedia.org/wiki/SCUBA_\(P-MODELのアルバム\) "wikilink")**』リリース。当時既に[ジャパンレコードから離脱していたため](https://ja.wikipedia.org/wiki/徳間ジャパンコミュニケーションズ "wikilink")、[JICC出版局からのリリースとなった](https://ja.wikipedia.org/wiki/宝島社 "wikilink")。
+    10月10日 - カセットブック『**[SCUBA](https://ja.wikipedia.org/wiki/SCUBA_\(P-MODELのアルバム\) "wikilink")**』リリース。当時既に[ジャパンレコードから離脱していたため](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")、[JICC出版局からのリリースとなった](../Page/宝島社.md "wikilink")。
 
     12月16日 - ツアー「SCUBA TOUR II」開催（ - 12月23日）。このツアーの最終公演を以て田井中が脱退。
 
@@ -708,7 +708,7 @@ TAKA</p></td>
 
     4月19日 - 筑波・29BARにて、新メンバーでの初ライブを行う。
 
-    10月25日 - レーベルを[アルファレコード](https://ja.wikipedia.org/wiki/アルファレコード "wikilink")に移籍し、6thアルバム『**[KARKADOR](https://ja.wikipedia.org/wiki/KARKADOR "wikilink")**』を発売。
+    10月25日 - レーベルを[アルファレコード](../Page/アルファレコード.md "wikilink")に移籍し、6thアルバム『**[KARKADOR](https://ja.wikipedia.org/wiki/KARKADOR "wikilink")**』を発売。
 
     10月26日 - アルバムのリリースツアー「KARKADOR TOUR」開催（ - 12月27日）。このツアーの最終公演を以て横川と三浦が脱退。
 
@@ -724,7 +724,7 @@ TAKA</p></td>
 
     6月25日 - 7thアルバム『**[ONE PATTERN](https://ja.wikipedia.org/wiki/ONE_PATTERN "wikilink")**』リリース。翌月25日はバンド初のCDでのリリースも行われた。
 
-    9月15日 - 全国ツアー「ONE PATTERN TOUR」開催（ - 10月25日、全8公演）。この頃から平沢は[MIDIギターを使用し始める](https://ja.wikipedia.org/wiki/ギターシンセサイザー "wikilink")。
+    9月15日 - 全国ツアー「ONE PATTERN TOUR」開催（ - 10月25日、全8公演）。この頃から平沢は[MIDIギターを使用し始める](../Page/ギターシンセサイザー.md "wikilink")。
 
     11月26日 - 水道橋・RNホールで自主企画「ゼブラの日」開催。この公演で初めて、メンバー全員が揃いの衣装を着用した。
 
@@ -746,13 +746,13 @@ TAKA</p></td>
 
       - 荒木の脱退理由は「どうしてもガラパゴス島に残りたかったから」というものだった。\[5\]\[6\]
 
-    5月1日 - [KERA](https://ja.wikipedia.org/wiki/ケラリーノ・サンドロヴィッチ "wikilink")（[有頂天](https://ja.wikipedia.org/wiki/有頂天_\(バンド\) "wikilink")）の主導により、初期P-MODELのコピーバンド「此岸のパラダイス亀有永遠のワンパターンバンド」結成。[渋谷La.mama](https://ja.wikipedia.org/wiki/渋谷La.mama "wikilink")で初ライブを行う。
+    5月1日 - [KERA](../Page/ケラリーノ・サンドロヴィッチ.md "wikilink")（[有頂天](../Page/有頂天_\(バンド\).md "wikilink")）の主導により、初期P-MODELのコピーバンド「此岸のパラダイス亀有永遠のワンパターンバンド」結成。[渋谷La.mama](https://ja.wikipedia.org/wiki/渋谷La.mama "wikilink")で初ライブを行う。
 
     5月8日 - 所属事務所の主催による関東4ヶ所をまわるツアー（タイトルなし）を開催（ - 5月17日、全4公演）。
 
     7月1日 - 全国ツアー「TOUR SENSONICS」開催（ - 7月26日、全10公演）。
 
-    9月5日 - [前進座](https://ja.wikipedia.org/wiki/前進座 "wikilink")にて「此岸のパラダイス～」の2回目のライブを開催。結成からの目標である「P-MODELのフロントアクトを務める」を達成したことで一旦解散した。
+    9月5日 - [前進座](../Page/前進座.md "wikilink")にて「此岸のパラダイス～」の2回目のライブを開催。結成からの目標である「P-MODELのフロントアクトを務める」を達成したことで一旦解散した。
 
     9月27日 - この日の[横浜市教育会館](https://ja.wikipedia.org/wiki/横浜市教育会館 "wikilink")でのライブを最後に高橋が脱退。
 
@@ -770,7 +770,7 @@ TAKA</p></td>
 
     3月3日 - 関西ツアー「天国のANAGRAM」開催（ - 3月5日、全3公演）。
 
-    4月29日 - [富士フイルム](https://ja.wikipedia.org/wiki/富士フイルム "wikilink")主催のコンサート「FUJI AV LIVE」の第27回に出演。お蔵入りとなったアルバム『モンスター』の収録予定曲もいくつか演奏された。
+    4月29日 - [富士フイルム](../Page/富士フイルム.md "wikilink")主催のコンサート「FUJI AV LIVE」の第27回に出演。お蔵入りとなったアルバム『モンスター』の収録予定曲もいくつか演奏された。
 
     6月10日 - 新宿LOFTにて2Daysライブを開催。このライブから試験的に[Amiga](../Page/Amiga.md "wikilink")が導入される。
 
@@ -804,7 +804,7 @@ TAKA</p></td>
 
     3月1日 - 所属事務所「MODEL HOUSE」が「オクターブ」に改称。
 
-    4月4日 - レーベルを[ポリドールへ移籍](https://ja.wikipedia.org/wiki/ポリドール・レコード "wikilink")。
+    4月4日 - レーベルを[ポリドールへ移籍](../Page/ポリドール・レコード.md "wikilink")。
 
     10月1日 - 所属事務所をアイスリープロモーションへ移す。
 
@@ -816,11 +816,11 @@ TAKA</p></td>
 
   -
 
-    9月23日 - [日比谷野外音楽堂](https://ja.wikipedia.org/wiki/日比谷野外音楽堂 "wikilink")にて平沢主催のライブイベント「ERROR FORCE」が開催。P-MODEL及び「此岸のパラダイス～」が1日限りの再結成を果たす。この年から1996年まで毎年日比谷野音にて平沢主催によるライブイベントが行われた。
+    9月23日 - [日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")にて平沢主催のライブイベント「ERROR FORCE」が開催。P-MODEL及び「此岸のパラダイス～」が1日限りの再結成を果たす。この年から1996年まで毎年日比谷野音にて平沢主催によるライブイベントが行われた。
 
 <!-- end list -->
 
-  - **[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")**
+  - **[1991年](../Page/1991年.md "wikilink")**
 
 <!-- end list -->
 
@@ -832,12 +832,12 @@ TAKA</p></td>
 
     9月23日 - 日比谷野外音楽堂にて平沢主催のライブイベント「ERROR OF UNIVERSE」を開催。この公演を以て正式に活動再開した。
 
-      - “解凍”メンバーとして**秋山勝彦**（Key・Ba）、**ことぶき光**（Key）が正規メンバーに復帰。また事務所の後輩にあたるバンド「[THE GROOVERS](https://ja.wikipedia.org/wiki/ザ・グルーヴァーズ "wikilink")」から**藤井ヤスチカ**（Dr）をメンバーに迎えた。
+      - “解凍”メンバーとして**秋山勝彦**（Key・Ba）、**ことぶき光**（Key）が正規メンバーに復帰。また事務所の後輩にあたるバンド「[THE GROOVERS](../Page/ザ・グルーヴァーズ.md "wikilink")」から**藤井ヤスチカ**（Dr）をメンバーに迎えた。
       - メンバーは当日まで秘密にされ、ライブの出囃子とともにメンバーの名前が呼ばれる形で登場した。
 
 <!-- end list -->
 
-  - **[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")**
+  - **[1992年](../Page/1992年.md "wikilink")**
 
 <!-- end list -->
 
@@ -849,7 +849,7 @@ TAKA</p></td>
 
     5月11日 - 東名阪ツアー「TOUR ON GRID」開催（ - 5月19日、全5公演）。当初は全6公演の予定だったが、5月13日の大阪2日目の公演はマシントラブルにより中止。
 
-    6月27日 - [日清パワーステーション](https://ja.wikipedia.org/wiki/日清パワーステーション "wikilink")でのイベント「サタデイ・ナイトR＆Rショウ」に出演。藤井がスケジュールの都合で出席できず、ドラムレス編成の「P-MODEL Lo-Res」として出演した。
+    6月27日 - [日清パワーステーション](../Page/日清パワーステーション.md "wikilink")でのイベント「サタデイ・ナイトR＆Rショウ」に出演。藤井がスケジュールの都合で出席できず、ドラムレス編成の「P-MODEL Lo-Res」として出演した。
 
       - この公演では平沢のギターアンプが故障し共演していたバンドの物を借りることになったが、思っていた様な音が出せず、終演後TALBOを床に叩き付けて破損させている。\[7\]
 
@@ -895,11 +895,11 @@ TAKA</p></td>
 
   -
 
-    5月25日 - レーベルを[ディスクユニオン](https://ja.wikipedia.org/wiki/ディスクユニオン "wikilink")に移籍し、その中に自主レーベル「DIW／SYUN」を設立。1stライブアルバム『**[PAUSE](https://ja.wikipedia.org/wiki/PAUSE "wikilink")**』リリース。
+    5月25日 - レーベルを[ディスクユニオン](../Page/ディスクユニオン.md "wikilink")に移籍し、その中に自主レーベル「DIW／SYUN」を設立。1stライブアルバム『**[PAUSE](https://ja.wikipedia.org/wiki/PAUSE "wikilink")**』リリース。
 
     7月23日 - 2ndライブアルバム『**[LIVEの方法](https://ja.wikipedia.org/wiki/LIVEの方法 "wikilink")**』リリース。
 
-    9月23日 - [日比谷野外音楽堂](https://ja.wikipedia.org/wiki/日比谷野外音楽堂 "wikilink")にて平沢主催のライブイベント「HIRASAWA ERROR ENGINE 平沢三幕三時間」開催。
+    9月23日 - [日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")にて平沢主催のライブイベント「HIRASAWA ERROR ENGINE 平沢三幕三時間」開催。
 
       - 本来ならばこの公演からP-MODELは活動再開するはずだったが、“若干のバグが発見された”として活動再開は延期された。なお、後に改訂期のメンバーとなる小西・上領がサポートメンバーとして参加している。
 
@@ -923,7 +923,7 @@ TAKA</p></td>
 
       - このアルバムは後の10thアルバムの収録曲をリミックスしたもの。オリジナルアルバムよりリミックスアルバムが先行発売される事に対し、公式サイトによると「前代未聞」としている\[8\]。
 
-    10月1日 - レーベルを[日本コロムビア](https://ja.wikipedia.org/wiki/日本コロムビア "wikilink")に移籍。
+    10月1日 - レーベルを[日本コロムビア](../Page/日本コロムビア.md "wikilink")に移籍。
 
     10月20日 - 第3回となるコピーバンドコンテスト「Errors of P-MANIA！ 1995」開催。
 
@@ -984,7 +984,7 @@ TAKA</p></td>
 
   -
 
-    1月21日 - 全国ツアー「LIVE 電子悲劇」スタート（ - 2月7日、全8公演）。[赤坂BLITZ](https://ja.wikipedia.org/wiki/赤坂BLITZ "wikilink")で行われた最終公演を以て「レイヤー・グリーンの危機～議定書を探せ～」は完結。
+    1月21日 - 全国ツアー「LIVE 電子悲劇」スタート（ - 2月7日、全8公演）。[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")で行われた最終公演を以て「レイヤー・グリーンの危機～議定書を探せ～」は完結。
 
       - 1998年は各メンバーがそれぞれの活動に注力していたため、P-MODELとしての活動はこれ以降あまり行われなかった。
 
@@ -1000,7 +1000,7 @@ TAKA</p></td>
 
       - これ以降、平沢及びP-MODELの作品は所属事務所であるCHAOS UNIONから直接、MP3によってリリースされることになる。\[11\]
 
-    6月29日 - [渋谷O-Eastで開催された](https://ja.wikipedia.org/wiki/Shibuya_O-EAST "wikilink")「Future Screen of Tokyo New Wave」に出演。解凍期以降半封印状態だった1stアルバムの曲が披露された。
+    6月29日 - [渋谷O-Eastで開催された](../Page/Shibuya_O-EAST.md "wikilink")「Future Screen of Tokyo New Wave」に出演。解凍期以降半封印状態だった1stアルバムの曲が披露された。
 
     7月6日 - 『VIRTUAL LIVE』シリーズ第1弾として、『**[VIRTUAL LIVE-1](https://ja.wikipedia.org/wiki/VIRTUAL_LIVE#VIRTUAL_LIVE-1_Live_at_Roppongi_S-KEN_Studio_1979の収録曲 "wikilink")**』をリリース。
 
@@ -1060,7 +1060,7 @@ TAKA</p></td>
 
 <div class="NavContent" style="text-align: left;font-size:10pt;">
 
-  - **[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")**
+  - **[2004年](../Page/2004年.md "wikilink")**
 
 <!-- end list -->
 
@@ -1070,7 +1070,7 @@ TAKA</p></td>
 
 <!-- end list -->
 
-  - **[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")**
+  - **[2005年](../Page/2005年.md "wikilink")**
 
 <!-- end list -->
 
@@ -1134,7 +1134,7 @@ TAKA</p></td>
 
   -
 
-    1月11日 - [赤坂BLITZ](https://ja.wikipedia.org/wiki/赤坂BLITZ "wikilink")において4Daysライブ「パラレル・コザック」を開催（ - 1月14日、全4公演）。
+    1月11日 - [赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")において4Daysライブ「パラレル・コザック」を開催（ - 1月14日、全4公演）。
 
     10月11日 - 品川ステラボールにて3Daysライブ「HYBRID PHONON」を開催（ - 10月13日、全3公演）。「平沢進×核P-MODEL」名義で行われ、双方の曲を織り交ぜたセットリストとなった。
 
@@ -1156,7 +1156,7 @@ TAKA</p></td>
 
   -
 
-    4月3日 - [今敏](https://ja.wikipedia.org/wiki/今敏 "wikilink")の漫画を原作とした映画「OPUS」のテーマ曲を核P-MODEL名義で制作する事が発表される。\[13\]
+    4月3日 - [今敏](../Page/今敏.md "wikilink")の漫画を原作とした映画「OPUS」のテーマ曲を核P-MODEL名義で制作する事が発表される。\[13\]
 
     9月5日 - 3rdアルバム『**[回＝回](https://ja.wikipedia.org/wiki/回=回 "wikilink")**』リリース。
 
@@ -1184,7 +1184,7 @@ TAKA</p></td>
 
 <!-- end list -->
 
-  - マンドレイク後期のパンク、[ニューウェーブ的手法を発展させた](https://ja.wikipedia.org/wiki/ニュー・ウェイヴ_\(音楽\) "wikilink")、リズムボックスや[シンセサイザー](../Page/シンセサイザー.md "wikilink")をラジカルに使ったサウンドで、[ヒカシュー](https://ja.wikipedia.org/wiki/ヒカシュー "wikilink")、[プラスチックス](https://ja.wikipedia.org/wiki/プラスチックス "wikilink")と共に「テクノ御三家」と俗称され、日本の[テクノポップ](../Page/テクノポップ.md "wikilink")／ニューウェーブ・ムーブメントの一翼を担った\[14\]。平沢によるとメンバーが影響を受けたバンドは、[999や](https://ja.wikipedia.org/wiki/:en:999_\(band\) "wikilink")[セックス・ピストルズ](../Page/セックス・ピストルズ.md "wikilink")、[Métal Urbain](https://ja.wikipedia.org/wiki/:fr:Métal_urbain "wikilink")、[ジョルジオ・モロダー](https://ja.wikipedia.org/wiki/ジョルジオ・モロダー "wikilink")などであり、テクノポップで有名な[KRAFTWERKや](../Page/クラフトワーク.md "wikilink")[XTC](https://ja.wikipedia.org/wiki/XTC "wikilink")ではないと言う\[15\]。[小室等](https://ja.wikipedia.org/wiki/小室等 "wikilink")司会の番組「[パイオニア](https://ja.wikipedia.org/wiki/パイオニア "wikilink")・ステレオ音楽館」（[東京12チャンネル](https://ja.wikipedia.org/wiki/東京12チャンネル "wikilink")）に出演したときは、平沢は小室にテクノポップについて聞かれると「[イエローでマジックな人たちにでも聞けばいいんじゃないですか](../Page/イエロー・マジック・オーケストラ.md "wikilink")?」と投げやりに答えるなど、枠にはめられることに拒否感を持つような態度をとっていた。ライブでは[こまわり君の動きを採り入れ](https://ja.wikipedia.org/wiki/がきデカ "wikilink")、跳びはねるなどの[パンク・ロック](https://ja.wikipedia.org/wiki/パンク・ロック "wikilink")寄りのコミカルなパフォーマンスを行う。
+  - マンドレイク後期のパンク、[ニューウェーブ的手法を発展させた](../Page/ニュー・ウェイヴ_\(音楽\).md "wikilink")、リズムボックスや[シンセサイザー](../Page/シンセサイザー.md "wikilink")をラジカルに使ったサウンドで、[ヒカシュー](../Page/ヒカシュー.md "wikilink")、[プラスチックス](../Page/プラスチックス.md "wikilink")と共に「テクノ御三家」と俗称され、日本の[テクノポップ](../Page/テクノポップ.md "wikilink")／ニューウェーブ・ムーブメントの一翼を担った\[14\]。平沢によるとメンバーが影響を受けたバンドは、[999や](https://ja.wikipedia.org/wiki/:en:999_\(band\) "wikilink")[セックス・ピストルズ](../Page/セックス・ピストルズ.md "wikilink")、[Métal Urbain](https://ja.wikipedia.org/wiki/:fr:Métal_urbain "wikilink")、[ジョルジオ・モロダー](../Page/ジョルジオ・モロダー.md "wikilink")などであり、テクノポップで有名な[KRAFTWERKや](../Page/クラフトワーク.md "wikilink")[XTC](https://ja.wikipedia.org/wiki/XTC "wikilink")ではないと言う\[15\]。[小室等](../Page/小室等.md "wikilink")司会の番組「[パイオニア](https://ja.wikipedia.org/wiki/パイオニア "wikilink")・ステレオ音楽館」（[東京12チャンネル](https://ja.wikipedia.org/wiki/東京12チャンネル "wikilink")）に出演したときは、平沢は小室にテクノポップについて聞かれると「[イエローでマジックな人たちにでも聞けばいいんじゃないですか](../Page/イエロー・マジック・オーケストラ.md "wikilink")?」と投げやりに答えるなど、枠にはめられることに拒否感を持つような態度をとっていた。ライブでは[こまわり君の動きを採り入れ](../Page/がきデカ.md "wikilink")、跳びはねるなどの[パンク・ロック](../Page/パンク・ロック.md "wikilink")寄りのコミカルなパフォーマンスを行う。
   - 基本的に平沢・田中が作詞作曲を務めていたが、『[IN A MODEL ROOM](https://ja.wikipedia.org/wiki/IN_A_MODEL_ROOM "wikilink")』には平沢の実兄である平沢裕一が作詞に参加し、『[LANDSALE](https://ja.wikipedia.org/wiki/LANDSALE "wikilink")』には秋山が楽曲を提供している。また、裕一は凍結までアルバムジャケットやライブフライヤーのデザイン、ライブでの映像演出を担当していた。
 
 <!-- end list -->
@@ -1196,7 +1196,7 @@ TAKA</p></td>
   - 過熱するテクノポップブームへの危機感から攻撃的、批評的な歌詞やテクノ的な音作りを捨て、奥行きを持たせた音の空間や、独自のリズム解釈、そして意味と音のバランスを作為的に崩した言葉の組み立てによる歌詞など実験的なアプローチへとバンドは大幅な路線変更を打ち出した。
   - 『[Perspective](https://ja.wikipedia.org/wiki/Perspective_\(P-MODELのアルバム\) "wikilink")』発売前に新宿ロフトにて行われた2部制シリーズライブ「カナリアの籠展開図ぐるりと回る360度期待は記憶気のどくだねオゾノコブラノスキー」では、第一部に前作を踏襲する未発表曲を数曲演奏。田井中が唯一作曲した表題曲や「LUCKY TIME」などが演奏されたが、P-MODELの音源として発売されることは無かった\[16\]。
   - ライブでは「ヘブナイザー」などの自作楽器を用いてフレーズ・サンプリングの多用、ドラムサウンドのホワイトノイズ加工が行われた。また、ステージ上から客席に鳥の餌を撒く、突然[ヤマトのりを絞り出すなどのパフォーマンスで個性的なステージングを展開した](https://ja.wikipedia.org/wiki/ヤマト糊 "wikilink")。この頃から平沢は現在でも続く直立不動で演奏を行うようになる。
-  - 田中の脱退後はメンバー、音楽性の変遷を繰り返し、その中で他バンドの経験者や[ローディー](https://ja.wikipedia.org/wiki/ローディー "wikilink")だった者がメンバーとして採用されるにつれて、次第に平沢のワンマン・バンドとしての要素が強くなっていく。後に平沢はこのことが活動休止の遠因であったと述べている\[17\]。
+  - 田中の脱退後はメンバー、音楽性の変遷を繰り返し、その中で他バンドの経験者や[ローディー](../Page/ローディー.md "wikilink")だった者がメンバーとして採用されるにつれて、次第に平沢のワンマン・バンドとしての要素が強くなっていく。後に平沢はこのことが活動休止の遠因であったと述べている\[17\]。
 
 <!-- end list -->
 
@@ -1215,7 +1215,7 @@ TAKA</p></td>
 <!-- end list -->
 
   - 凍結前は意図的に避けていた「テクノポップ」を宣言し、よりサイバー感を高めたサウンドや、科学技術、特にコンピューター等をテーマにした歌詞、を展開している。また平沢ソロで培った、メロディやコンピュータのなかにプリミティヴな精神世界を見いだす姿勢が貫かれている。
-  - メンバー選出に対し平沢は、「打ち込みができる人（＝ことぶき）、楽器を弾けてルックスがいい人（＝藤井）、そして秋山。」と語っている。藤井以外は元P-MODELメンバー兼平沢ソロバンド参加者であった。同じく平沢ソロバンドに参加していた[砂原良徳](https://ja.wikipedia.org/wiki/砂原良徳 "wikilink")にもオファーをしていたが、[電気グルーヴ](https://ja.wikipedia.org/wiki/電気グルーヴ "wikilink")加入の話が先となりこの話は流れた。
+  - メンバー選出に対し平沢は、「打ち込みができる人（＝ことぶき）、楽器を弾けてルックスがいい人（＝藤井）、そして秋山。」と語っている。藤井以外は元P-MODELメンバー兼平沢ソロバンド参加者であった。同じく平沢ソロバンドに参加していた[砂原良徳](../Page/砂原良徳.md "wikilink")にもオファーをしていたが、[電気グルーヴ](../Page/電気グルーヴ.md "wikilink")加入の話が先となりこの話は流れた。
   - この時代の楽曲は殆どことぶき光が編曲を担当し、ライブのオープニングSE（出囃子）や凍結前の楽曲のライブアレンジはことぶきがプログラムを打ち込んでいた。
   - ライブでは、ことぶき光のキーボードセットは「砦」と呼ばれ、パソコンのキーボード、「魂」と呼ばれる球体などが飾られており、キーボードやシーケンサーが縦に立て掛けられたまま演奏した\[19\]。秋山はキーボード兼ダンス担当だったため、半裸でステージを縦横無尽に駆け巡る、常にマラカスを振りながら踊る、キーボードを蹴飛ばすなどのパフォーマンスを行った。
 
@@ -1225,8 +1225,8 @@ TAKA</p></td>
 
 <!-- end list -->
 
-  - [インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")を活動のキーワードとしており、P-MODEL加入の理由として小西はインターネットの発達により大阪に居ながら東京の平沢との楽曲制作が可能になったこと、福間はパソコン通信で小西に誘われたことを理由として挙げている。『[音楽産業廃棄物～P-MODEL OR DIE](https://ja.wikipedia.org/wiki/音楽産業廃棄物〜P-MODEL_OR_DIE "wikilink")』ではインターネット上でのやり取りのみで楽曲制作を行い、インターネット中継による公開ミックスダウンも行われた。また、各メンバーがホームページを開設し、メンバーとリスナー間の直接なやり取りが可能であった。
-  - ライブでは「情報宇宙帆船P-MODEL号が旅に出る」というコンセプトの元、[ホームページ](../Page/ホームページ.md "wikilink")を活用した観客とのインタラクティブなやりとりや、ステージングひとつひとつに意味を持たせた独自の世界観を構築していった。この「情報宇宙帆船P-MODEL号」はアルバムによって「Black in White船団」「回収船P-MODEL号」と名称が変わっていった。ステージには小西の自作楽器が持ち込まれ、[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")の周辺機器を改造した「パワー・グローブ」、自作[電子ドラム](https://ja.wikipedia.org/wiki/電子ドラム "wikilink")「道頓堀一号」、観客に向けて鞭を振るうとセンサーが反応して音がなる「デジタル折檻」などが披露された。また、上領以外の3人が[Miburi](https://ja.wikipedia.org/wiki/Miburi "wikilink")を装着し横一列になって楽曲を演奏する事もあった。凍結以前から続く個性的なパフォーマンスも受け継がれ、平沢はテレビカメラを持ち込み観客を映す、福間はシンセサイザーを抱えながら暴れるシンセサイザーソロ、小西は指揮棒を振り回す、バナナを客席に投げる行為を行った。また、バンド結成から平沢はボーカル・ギター担当であったが、上領が脱退した[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")よりボーカル・ギター兼シンセサイザーにパートチェンジした。
+  - [インターネット](../Page/インターネット.md "wikilink")を活動のキーワードとしており、P-MODEL加入の理由として小西はインターネットの発達により大阪に居ながら東京の平沢との楽曲制作が可能になったこと、福間はパソコン通信で小西に誘われたことを理由として挙げている。『[音楽産業廃棄物～P-MODEL OR DIE](https://ja.wikipedia.org/wiki/音楽産業廃棄物〜P-MODEL_OR_DIE "wikilink")』ではインターネット上でのやり取りのみで楽曲制作を行い、インターネット中継による公開ミックスダウンも行われた。また、各メンバーがホームページを開設し、メンバーとリスナー間の直接なやり取りが可能であった。
+  - ライブでは「情報宇宙帆船P-MODEL号が旅に出る」というコンセプトの元、[ホームページ](../Page/ホームページ.md "wikilink")を活用した観客とのインタラクティブなやりとりや、ステージングひとつひとつに意味を持たせた独自の世界観を構築していった。この「情報宇宙帆船P-MODEL号」はアルバムによって「Black in White船団」「回収船P-MODEL号」と名称が変わっていった。ステージには小西の自作楽器が持ち込まれ、[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")の周辺機器を改造した「パワー・グローブ」、自作[電子ドラム](https://ja.wikipedia.org/wiki/電子ドラム "wikilink")「道頓堀一号」、観客に向けて鞭を振るうとセンサーが反応して音がなる「デジタル折檻」などが披露された。また、上領以外の3人が[Miburi](../Page/Miburi.md "wikilink")を装着し横一列になって楽曲を演奏する事もあった。凍結以前から続く個性的なパフォーマンスも受け継がれ、平沢はテレビカメラを持ち込み観客を映す、福間はシンセサイザーを抱えながら暴れるシンセサイザーソロ、小西は指揮棒を振り回す、バナナを客席に投げる行為を行った。また、バンド結成から平沢はボーカル・ギター担当であったが、上領が脱退した[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")よりボーカル・ギター兼シンセサイザーにパートチェンジした。
   - 平沢と旧来の付き合いがあり年齢も近かった小西の参加によって、平沢と小西の二頭体制が出来上がった。この時期に発表された楽曲の半数近くは小西のものである。楽曲はメンバーの個人製作が中心となり、「Miburi」、「パワー・グローブ」などの電子楽器群の比重が高まったため、解凍期から徐々に希薄化していたバンド色がこの時期にはさらに薄れ、ライブでも打ち込み音源がメインとなっていった。
   - 北欧、東洋的メロディやリズムといった平沢ソロの手法もより積極的に取り入れられ、解凍期とは異なる、アジアンテイストが加わった“アジアン・テクノ”なるサウンドを展開。「電子悲劇/〜ENOLA」ではタイでのレコーディングを行った。
 
@@ -1405,7 +1405,7 @@ TAKA</p></td>
         平沢進の自宅録音・ボツ曲集。事務所直販のカセット。
   - **[SCUBA](https://ja.wikipedia.org/wiki/SCUBA_\(P-MODELのアルバム\) "wikilink")**（1984年10月10日）
       -
-        「[宝島](https://ja.wikipedia.org/wiki/宝島社 "wikilink")」発行の[カセットブック](https://ja.wikipedia.org/wiki/カセットブック "wikilink")。平沢進と三浦俊一の2人だけで録音されたアルバム。89年に再発されたCDとはミックスが異なる。
+        「[宝島](../Page/宝島社.md "wikilink")」発行の[カセットブック](https://ja.wikipedia.org/wiki/カセットブック "wikilink")。平沢進と三浦俊一の2人だけで録音されたアルバム。89年に再発されたCDとはミックスが異なる。
   - **モアレ・カセット**（1985年5月～1988年12月まで配布）
       -
         当時のファンクラブ会員限定で定期的に配布されたカセットテープ。田井中と平沢の対談やデモ音源、ライブ音源、平沢・中野が作曲したジングル集などがある。
@@ -1596,18 +1596,18 @@ http (1996年)</p></td>
 1.  P-MODELとは明確に異なるものと定義されている。
 2.  [平沢進のツイート](https://twitter.com/hirasawa/status/686527748869771265)（2016年1月11日）2019年11月5日閲覧。
 3.  [平沢進のツイート](https://twitter.com/hirasawa/status/686532596428177408)（2016年1月11日）2019年11月5日閲覧。
-4.  テープエコーマシーンとキーボードを用いて[サンプラー](https://ja.wikipedia.org/wiki/サンプラー "wikilink")に似たシステムを構築したもの。当時のサンプラーは「1戸建ての家が買える」と言われた程高価であり、その後の音楽業界に「平沢進が[宝くじ](https://ja.wikipedia.org/wiki/宝くじ "wikilink")を当てた（＝当選金でサンプラーを導入した）らしい」との噂がしばらく立つ事になった。
+4.  テープエコーマシーンとキーボードを用いて[サンプラー](../Page/サンプラー.md "wikilink")に似たシステムを構築したもの。当時のサンプラーは「1戸建ての家が買える」と言われた程高価であり、その後の音楽業界に「平沢進が[宝くじ](https://ja.wikipedia.org/wiki/宝くじ "wikilink")を当てた（＝当選金でサンプラーを導入した）らしい」との噂がしばらく立つ事になった。
 5.  ボックスセット『[太陽系亞種音](https://ja.wikipedia.org/wiki/太陽系亞種音 "wikilink")』ファンクラブ会員限定特典「田井中貞利伝説」より。
 6.  実際は一身上の都合で止む無く脱退となったもの。この後荒木は一時音楽活動を休止し、コンピュータプログラマーとして活動することになる。
 7.  このイベントの模様は後にテレビ放映されたが、TALBOを叩き付けるシーンはカットされている。
 8.  [P-MODELディスコグラフィー・Corrective Errors](https://susumuhirasawa.com/discography/p-model/others/06_corrective-errors.html)平沢進公式サイト 2019年11月9日閲覧。
 9.  公式サイトからは「風邪のため」と発表された。
-10. 実際は「殺人的スケジュール」によって[パニック障害](https://ja.wikipedia.org/wiki/パニック障害 "wikilink")を患っていたものと、後に新事務所設立時のコメントおよびTwitterで語っている。
+10. 実際は「殺人的スケジュール」によって[パニック障害](../Page/パニック障害.md "wikilink")を患っていたものと、後に新事務所設立時のコメントおよびTwitterで語っている。
 11. 但し、ネット接続のないリスナーの為にインディーズレーベル「MAGNET」からCDでのリリースも行われた。
 12. 高橋はオファーがあれば参加したい旨を述べている。小西も平沢が「（小西自身が）好きなだけドイツにいてもいい」と認めることを前提条件として述べているが再結成には前向きである。しかし平沢はインタビューやTwitterで再結成を否定している。
 13. [平沢進のツイート](https://twitter.com/hirasawa/status/981141473289650177)（2018年4月3日）2019年11月9日閲覧。
 14. 『音楽産業廃棄物』内のインタビューにて、『メンバー全員「打倒・[ピンクレディー](../Page/ピンク・レディー.md "wikilink")」で行こうとしていた』と語っている。
-15. [NHK衛星第2テレビジョン](https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン "wikilink")「80年代ニューウェーブ特集　P-MODEL」、2001年11月28日
+15. [NHK衛星第2テレビジョン](../Page/NHK衛星第2テレビジョン.md "wikilink")「80年代ニューウェーブ特集　P-MODEL」、2001年11月28日
 16. 「LUCKY TIME」は後にIKARI名義で、ソノシートに収録された。「[IKARI/NO PERSPECTIVE](https://ja.wikipedia.org/wiki/IKARI/NO_PERSPECTIVE "wikilink")」を参照。
 17. VHS『CG年賀状』（1989年）
 18. 高橋に関しては脱退によりお蔵入りとなった。

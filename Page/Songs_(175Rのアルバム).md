@@ -20,7 +20,7 @@
         メジャー1stシングル。
 6.  **さらば恋人**
       -
-        [堺正章](https://ja.wikipedia.org/wiki/堺正章 "wikilink")のカバー曲。[ガガガSP](https://ja.wikipedia.org/wiki/ガガガSP "wikilink")の[コザック前田](https://ja.wikipedia.org/wiki/コザック前田 "wikilink")が間奏での声で参加。
+        [堺正章](../Page/堺正章.md "wikilink")のカバー曲。[ガガガSP](../Page/ガガガSP.md "wikilink")の[コザック前田](https://ja.wikipedia.org/wiki/コザック前田 "wikilink")が間奏での声で参加。
 7.  **僕の声-Album version-**
       -
         インディーズシングル「STAND BY YOU\!\!」（[SHAKA LABBITSと共作](https://ja.wikipedia.org/wiki/SHAKA_LABBITS "wikilink")）に収録されていた曲のアルバムバージョン。

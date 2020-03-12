@@ -1,13 +1,13 @@
 > この記事は[TWO](https://ja.wikipedia.org/wiki/TWO)から翻訳されています。
 
 
-{{Infobox Album | Name = T・W・O | Type = [アルバム](../Page/アルバム.md "wikilink") | Artist = [松浦亜弥](../Page/松浦亜弥.md "wikilink") | Cover = | Released = [2003年](../Page/2003年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink") | Recorded = | Genre = [J-POP](../Page/J-POP.md "wikilink") | Length = 50分49秒 | Label = [zetima](https://ja.wikipedia.org/wiki/アップフロントワークス "wikilink") | Producer = [つんく♂](https://ja.wikipedia.org/wiki/つんく♂ "wikilink") | Reviews = | Chart position = \*週間2位（[オリコン](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")）
+{{Infobox Album | Name = T・W・O | Type = [アルバム](../Page/アルバム.md "wikilink") | Artist = [松浦亜弥](../Page/松浦亜弥.md "wikilink") | Cover = | Released = [2003年](../Page/2003年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink") | Recorded = | Genre = [J-POP](../Page/J-POP.md "wikilink") | Length = 50分49秒 | Label = [zetima](../Page/アップフロントワークス.md "wikilink") | Producer = [つんく♂](https://ja.wikipedia.org/wiki/つんく♂ "wikilink") | Reviews = | Chart position = \*週間2位（[オリコン](../Page/オリコンチャート.md "wikilink")）
 
   - 2003年度年間39位（オリコン）
 
 | Certification = \*プラチナ（[日本レコード協会](../Page/日本レコード協会.md "wikilink")）\[1\] | Last album = [ファーストKISS](../Page/ファーストKISS.md "wikilink")
 （[2002年](../Page/2002年.md "wikilink")） | This album = **T・W・O**
-（2003年） | Next album = [×3](https://ja.wikipedia.org/wiki/×3 "wikilink")
+（2003年） | Next album = [×3](../Page/×3.md "wikilink")
 （[2004年](../Page/2004年.md "wikilink")） | Misc =
 
 『**T・W・O**』（ティー・ダブリュ・オー）は、[松浦亜弥](../Page/松浦亜弥.md "wikilink")の2枚目のアルバム。
@@ -23,7 +23,7 @@
 2.  [The 美学](https://ja.wikipedia.org/wiki/The_美学 "wikilink")
       - 7枚目のシングル。
 3.  あなたの彼女
-4.  [{{JIS2004フォント](https://ja.wikipedia.org/wiki/桃色片想い "wikilink")
+4.  [{{JIS2004フォント](../Page/桃色片想い.md "wikilink")
       - 5枚目のシングル。
 5.  ダイアリー
 6.  SHINE MORE
@@ -33,7 +33,7 @@
 10. [草原の人](../Page/草原の人.md "wikilink")
       - 8枚目のシングル。ミュージカル「草原の人」主題歌。
 11. ナビが壊れた王子様 (LOVE CHANCE)
-      - 『[松浦亜弥ベスト1](https://ja.wikipedia.org/wiki/松浦亜弥ベスト1 "wikilink")』（ベストアルバム）に収録。
+      - 『[松浦亜弥ベスト1](../Page/松浦亜弥ベスト1.md "wikilink")』（ベストアルバム）に収録。
 12. 元彼
 
 <!-- end list -->
@@ -41,7 +41,7 @@
   -
     作詞:[つんく](https://ja.wikipedia.org/wiki/つんく "wikilink")(1-9,11,12)、[美空ひばり](../Page/美空ひばり.md "wikilink")（名義は本名の加藤和枝）(10)
     作曲:つんく(1-12)
-    編曲:[高橋諭一](https://ja.wikipedia.org/wiki/高橋諭一 "wikilink")(1,3,4,9)、[鈴木Daichi秀行](../Page/鈴木Daichi秀行.md "wikilink")(2,7,10)、[酒井ミキオ](../Page/酒井ミキオ.md "wikilink")(5)、[小西貴雄](../Page/小西貴雄.md "wikilink")(6,11)、[鈴木俊介](../Page/鈴木俊介.md "wikilink")(8)、[河野伸](https://ja.wikipedia.org/wiki/河野伸 "wikilink")(12)
+    編曲:[高橋諭一](../Page/高橋諭一.md "wikilink")(1,3,4,9)、[鈴木Daichi秀行](../Page/鈴木Daichi秀行.md "wikilink")(2,7,10)、[酒井ミキオ](../Page/酒井ミキオ.md "wikilink")(5)、[小西貴雄](../Page/小西貴雄.md "wikilink")(6,11)、[鈴木俊介](../Page/鈴木俊介.md "wikilink")(8)、[河野伸](../Page/河野伸.md "wikilink")(12)
 
 <!-- end list -->
 
@@ -52,7 +52,7 @@
   - こーじ from [THE つんくビ♂ト](../Page/THE_つんくビ♂ト.md "wikilink") - ギター
   - [AKIRA](../Page/AKIRA_\(PALM_DRIVE\).md "wikilink") - コーラス
   - [稲葉貴子](../Page/稲葉貴子.md "wikilink") - コーラス
-  - [新堂敦士](https://ja.wikipedia.org/wiki/新堂敦士 "wikilink") - コーラス
+  - [新堂敦士](../Page/新堂敦士.md "wikilink") - コーラス
 
 ## 脚注
 

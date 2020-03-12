@@ -1,7 +1,7 @@
 > この記事は[Iravati](https://ja.wikipedia.org/wiki/Iravati)から翻訳されています。
 
 
-『**Iravati**』（イラーバティー）は、[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")の8作目の[オリジナル・アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")（スタジオ録音アルバム）。[キングレコード](../Page/キングレコード.md "wikilink")より1997年8月6日に発売された。のち、2005年3月16日に再発された。
+『**Iravati**』（イラーバティー）は、[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")の8作目の[オリジナル・アルバム](../Page/スタジオ・アルバム.md "wikilink")（スタジオ録音アルバム）。[キングレコード](../Page/キングレコード.md "wikilink")より1997年8月6日に発売された。のち、2005年3月16日に再発された。
 
 ## 解説
 
@@ -26,22 +26,22 @@
 ## 記録
 
   - 初動売上、通算売上ともに声優によるアルバムとして歴代最高売上枚数を記録している。
-  - 2週連続[オリコンTOP](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")10入り（初週5位、2週目8位）を記録している。
+  - 2週連続[オリコンTOP](../Page/オリコンチャート.md "wikilink")10入り（初週5位、2週目8位）を記録している。
   - 林原めぐみのリリースしたシングル・アルバム両方において唯一、年間TOP100入り（79位）を果たしている。
   - 公称40万枚の売上があったことを、自著内のインタビューで発言している\[2\]。
-  - 1997年8月度、[ゴールドディスク](https://ja.wikipedia.org/wiki/ゴールドディスク "wikilink")に認定された\[3\]。（2003年7月度以降の認定基準とは異なり、当時のゴールド認定基準は出荷枚数20万枚以上が基準となっている。）
+  - 1997年8月度、[ゴールドディスク](../Page/ゴールドディスク.md "wikilink")に認定された\[3\]。（2003年7月度以降の認定基準とは異なり、当時のゴールド認定基準は出荷枚数20万枚以上が基準となっている。）
 
 ## 収録曲
 
 1.  **Good Luck\!** \[4:35\]
       -
-        [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[作曲](../Page/作曲.md "wikilink")：[岡崎律子](https://ja.wikipedia.org/wiki/岡崎律子 "wikilink")、[編曲](../Page/編曲.md "wikilink")：[光宗信吉](https://ja.wikipedia.org/wiki/光宗信吉 "wikilink")、[コーラスアレンジ](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")：岡崎律子
+        [作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")：[岡崎律子](https://ja.wikipedia.org/wiki/岡崎律子 "wikilink")、[編曲](../Page/編曲.md "wikilink")：[光宗信吉](../Page/光宗信吉.md "wikilink")、[コーラスアレンジ](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")：岡崎律子
 2.  **[I'll be there](../Page/Successful_Mission.md "wikilink")**（Ballade Version）\[5:01\]
       -
         作詞：[MEGUMI](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")、作曲：[佐藤英敏](../Page/佐藤英敏.md "wikilink")、編曲：[大平勉](../Page/大平勉.md "wikilink")、コーラスアレンジ：[奥井雅美](../Page/奥井雅美.md "wikilink")
 3.  **[Successful Mission](../Page/Successful_Mission.md "wikilink")** \[4:11\]
       -
-        作詞：MEGUMI、作曲：佐藤英敏、編曲：[矢吹俊郎](https://ja.wikipedia.org/wiki/矢吹俊郎 "wikilink")
+        作詞：MEGUMI、作曲：佐藤英敏、編曲：[矢吹俊郎](../Page/矢吹俊郎.md "wikilink")
 4.  **[魂のルフラン](../Page/魂のルフラン.md "wikilink")**（Aqua Groove Mix） \[5:30\]
       -
         作詞：[及川眠子](https://ja.wikipedia.org/wiki/及川眠子 "wikilink")、作曲・編曲：[大森俊之](https://ja.wikipedia.org/wiki/大森俊之 "wikilink")
@@ -75,11 +75,11 @@
 
 ## タイアップ
 
-| 曲名                | タイアップ                                                                               |
-| ----------------- | ----------------------------------------------------------------------------------- |
-| Suceessful Misson | テレビアニメ『[セイバーマリオネット](https://ja.wikipedia.org/wiki/セイバーマリオネット "wikilink")J』オープニングテーマ |
-| Just be conscious | 劇場版『[スレイヤーズRETURN](https://ja.wikipedia.org/wiki/スレイヤーズ_\(アニメ\) "wikilink")』主題歌     |
-| Reflection        | 劇場版『[スレイヤーズぐれえと](https://ja.wikipedia.org/wiki/スレイヤーズ_\(アニメ\) "wikilink")』主題歌       |
+| 曲名                | タイアップ                                                                           |
+| ----------------- | ------------------------------------------------------------------------------- |
+| Suceessful Misson | テレビアニメ『[セイバーマリオネット](../Page/セイバーマリオネット.md "wikilink")J』オープニングテーマ                |
+| Just be conscious | 劇場版『[スレイヤーズRETURN](https://ja.wikipedia.org/wiki/スレイヤーズ_\(アニメ\) "wikilink")』主題歌 |
+| Reflection        | 劇場版『[スレイヤーズぐれえと](https://ja.wikipedia.org/wiki/スレイヤーズ_\(アニメ\) "wikilink")』主題歌   |
 
 ## クレジット
 

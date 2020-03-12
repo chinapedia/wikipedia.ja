@@ -14,7 +14,7 @@
 ## 特徴
 
   - 描画方式を選択可能
-    YSFS には Standard (ソフトウェアレンダリング、すでに廃止) と [OpenGL](../Page/OpenGL.md "wikilink") と [Direct3D](https://ja.wikipedia.org/wiki/Direct3D "wikilink") という3種類の描画方式が用意されており、(Windows 版のみ。Linux 版は OpenGL のみ) ユーザーはパソコンの環境にあわせて、より高速に動作する描画方式を選択できる。
+    YSFS には Standard (ソフトウェアレンダリング、すでに廃止) と [OpenGL](../Page/OpenGL.md "wikilink") と [Direct3D](../Page/Direct3D.md "wikilink") という3種類の描画方式が用意されており、(Windows 版のみ。Linux 版は OpenGL のみ) ユーザーはパソコンの環境にあわせて、より高速に動作する描画方式を選択できる。
 
   - Windows以外のオペレーティングシステムにも対応
     YSFSは[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink")以外にも、[Linux](../Page/Linux.md "wikilink")や[Macに対応している](../Page/Macintosh.md "wikilink")。ただし、Direct3Dなどの[マイクロソフト](../Page/マイクロソフト.md "wikilink")依存の技術は、Windows版以外はサポートしない。
@@ -26,11 +26,11 @@
 
 :\* [滑走路](../Page/滑走路.md "wikilink")および[航空母艦](../Page/航空母艦.md "wikilink")での離着陸
 
-:\* [VOR](../Page/超短波全方向式無線標識.md "wikilink") や [NDB](https://ja.wikipedia.org/wiki/無指向性無線標識 "wikilink"), [ILSといったシステムを利用した計器飛行](https://ja.wikipedia.org/wiki/計器着陸装置 "wikilink")
+:\* [VOR](../Page/超短波全方向式無線標識.md "wikilink") や [NDB](https://ja.wikipedia.org/wiki/無指向性無線標識 "wikilink"), [ILSといったシステムを利用した計器飛行](../Page/計器着陸装置.md "wikilink")
 
-:\* [空対空ミサイル](../Page/空対空ミサイル.md "wikilink")・[機関砲](https://ja.wikipedia.org/wiki/機関砲 "wikilink")を使用した対空戦闘
+:\* [空対空ミサイル](../Page/空対空ミサイル.md "wikilink")・[機関砲](../Page/機関砲.md "wikilink")を使用した対空戦闘
 
-:\* [空対地ミサイル](../Page/空対地ミサイル.md "wikilink")・自由落下[爆弾](../Page/爆弾.md "wikilink")・[ロケット弾](https://ja.wikipedia.org/wiki/ロケット弾 "wikilink")を使用した対地戦闘
+:\* [空対地ミサイル](../Page/空対地ミサイル.md "wikilink")・自由落下[爆弾](../Page/爆弾.md "wikilink")・[ロケット弾](../Page/ロケット弾.md "wikilink")を使用した対地戦闘
 
 :\* [スモーク](https://ja.wikipedia.org/wiki/スモーク "wikilink") (色付きもあり) を使用したアクロバット飛行
 
@@ -46,7 +46,7 @@
 
 :\* 風および視程の調整や、昼夜の設定。
 
-:\*\* 加重による[ブラックアウト](https://ja.wikipedia.org/wiki/ブラックアウト "wikilink")やダメージを受けるといった現実要素。(設定により加重制限なしで飛行も可能)
+:\*\* 加重による[ブラックアウト](../Page/ブラックアウト.md "wikilink")やダメージを受けるといった現実要素。(設定により加重制限なしで飛行も可能)
 
 :\* 面倒な設定をせず、すぐに戦闘に入れる対空・対地・迎撃戦闘モード
 
@@ -66,15 +66,15 @@
 
 :\* コンピューターが操作する僚機への指示 (編隊・分散攻撃・援護など)
 
-:\* [VOR](../Page/超短波全方向式無線標識.md "wikilink") や [NDB](https://ja.wikipedia.org/wiki/無指向性無線標識 "wikilink"), [ILSの選択および使用](https://ja.wikipedia.org/wiki/計器着陸装置 "wikilink")
+:\* [VOR](../Page/超短波全方向式無線標識.md "wikilink") や [NDB](https://ja.wikipedia.org/wiki/無指向性無線標識 "wikilink"), [ILSの選択および使用](../Page/計器着陸装置.md "wikilink")
 
 :\* 簡易チャット機能 (半角英数字のみ、パッチを使用することで一部日本語化可能)
 
 ## 評価
 
   - [2001年](../Page/2001年.md "wikilink")に財団法人[インターネット協会](https://ja.wikipedia.org/wiki/インターネット協会 "wikilink")主催の[オンラインソフトウェア大賞](https://ja.wikipedia.org/wiki/オンラインソフトウェア大賞 "wikilink")2001にて入賞を受賞している\[9\]。
-  - [CNET](https://ja.wikipedia.org/wiki/CNET "wikilink")のdownload.comでは2014年10月現在100万DLを超えるダウンロード回数を記録している\[10\]。
-  - [インプレス](https://ja.wikipedia.org/wiki/インプレス "wikilink")の[窓の杜](../Page/窓の杜.md "wikilink")における年間ダウンロードランキングでは、2001年にゲーム部門の7位にランクインしたのを皮切りに\[11\]、2004年（10位）\[12\]、2005年（6位）\[13\]、2007年（5位）\[14\]、2008年（6位）\[15\]、2009年（9位）\[16\]、2010年（6位）\[17\]、2011年（8位）\[18\]、2012年（7位）\[19\]と、長年に渡りゲーム部門のベストテンにランクインし続けた。
+  - [CNET](../Page/CNET.md "wikilink")のdownload.comでは2014年10月現在100万DLを超えるダウンロード回数を記録している\[10\]。
+  - [インプレス](../Page/インプレス.md "wikilink")の[窓の杜](../Page/窓の杜.md "wikilink")における年間ダウンロードランキングでは、2001年にゲーム部門の7位にランクインしたのを皮切りに\[11\]、2004年（10位）\[12\]、2005年（6位）\[13\]、2007年（5位）\[14\]、2008年（6位）\[15\]、2009年（9位）\[16\]、2010年（6位）\[17\]、2011年（8位）\[18\]、2012年（7位）\[19\]と、長年に渡りゲーム部門のベストテンにランクインし続けた。
   - 2009年7月、ドイツのダウンロードサイト「PCFreunde.de」にてEditors' Choice Awardを受賞した\[20\]\[21\]。
 
 ## 収録航空機
@@ -94,7 +94,7 @@ Ver.20150425では以下の87機。
 | IDENTIFY                                                                                  | CATEGORY    | AIRCLASS   |
 | ----------------------------------------------------------------------------------------- | ----------- | ---------- |
 | [A-4_SKYHAWK](../Page/A-4_\(航空機\).md "wikilink")                                         | ATTACKER    | \-         |
-| [A-6_INTRUDER](https://ja.wikipedia.org/wiki/A-6_\(航空機\) "wikilink")                     | ATTACKER    | \-         |
+| [A-6_INTRUDER](../Page/A-6_\(航空機\).md "wikilink")                                        | ATTACKER    | \-         |
 | [A6M5_ZERO](https://ja.wikipedia.org/wiki/零式艦上戦闘機の派生型#零戦五二型（A6M5） "wikilink")            | WW2FIGHTER  | \-         |
 | [A-10A_THUNDERBOLT2](../Page/A-10_\(航空機\).md "wikilink")                                 | ATTACKER    | \-         |
 | [AH-1_COBRA](../Page/AH-1_コブラ.md "wikilink")                                             | UTILITY     | HELICOPTER |
@@ -107,22 +107,22 @@ Ver.20150425では以下の87機。
 | [B-2_SPIRIT](../Page/B-2_\(航空機\).md "wikilink")                                          | HEAVYBOMBER | \-         |
 | [B-29_SUPERFORTRESS](../Page/B-29_\(航空機\).md "wikilink")                                 | WW2BOMBER   | \-         |
 | [B-52_STRATOFORTRESS](../Page/B-52_\(航空機\).md "wikilink")                                | HEAVYBOMBER | \-         |
-| [B737](https://ja.wikipedia.org/wiki/ボーイング737 "wikilink")                                 | NORMAL      | \-         |
+| [B737](../Page/ボーイング737.md "wikilink")                                                    | NORMAL      | \-         |
 | [B747](https://ja.wikipedia.org/wiki/ボーイング747 "wikilink")                                 | NORMAL      | \-         |
-| [B767](https://ja.wikipedia.org/wiki/ボーイング767 "wikilink")                                 | NORMAL      | \-         |
+| [B767](../Page/ボーイング767.md "wikilink")                                                    | NORMAL      | \-         |
 | [B777](../Page/ボーイング777.md "wikilink")                                                    | NORMAL      | \-         |
 | [C-130_HERCULES](https://ja.wikipedia.org/wiki/C-130_\(航空機\) "wikilink")                 | NORMAL      | \-         |
 | [CONCORDE](../Page/コンコルド.md "wikilink")                                                   | NORMAL      | \-         |
-| [DRAKEN](https://ja.wikipedia.org/wiki/サーブ_35_ドラケン "wikilink")                            | FIGHTER     | \-         |
+| [DRAKEN](../Page/サーブ_35_ドラケン.md "wikilink")                                               | FIGHTER     | \-         |
 | [EA-6B_PROWLER](https://ja.wikipedia.org/wiki/EA-6_\(航空機\)#EA-6B "wikilink")             | ATTACKER    | \-         |
 | DIAMOND_ECLIPSE                                                                          | UTILITY     | \-         |
-| [EUROFIGHTER_TYPHOON](https://ja.wikipedia.org/wiki/ユーロファイター_タイフーン "wikilink")           | FIGHTER     | \-         |
-| [E-2C_HAWKEYE](https://ja.wikipedia.org/wiki/E-2_\(航空機\) "wikilink")                     | UTILITY     | \-         |
+| [EUROFIGHTER_TYPHOON](../Page/ユーロファイター_タイフーン.md "wikilink")                              | FIGHTER     | \-         |
+| [E-2C_HAWKEYE](../Page/E-2_\(航空機\).md "wikilink")                                        | UTILITY     | \-         |
 | [F-1](../Page/F-1_\(航空機\).md "wikilink")                                                  | FIGHTER     | \-         |
 | [F-2](../Page/F-2_\(航空機\).md "wikilink")                                                  | FIGHTER     | \-         |
 | [F-4EJ](https://ja.wikipedia.org/wiki/F-4EJ "wikilink")_PHANTOM                          | FIGHTER     | \-         |
 | [F-4E_PHANTOM](../Page/F-4_\(戦闘機\).md "wikilink")                                        | FIGHTER     | \-         |
-| [F-5_TIGER2](https://ja.wikipedia.org/wiki/F-5_\(戦闘機\) "wikilink")                       | FIGHTER     | \-         |
+| [F-5_TIGER2](../Page/F-5_\(戦闘機\).md "wikilink")                                          | FIGHTER     | \-         |
 | [F-14_TOMCAT](../Page/F-14_\(戦闘機\).md "wikilink")                                        | FIGHTER     | \-         |
 | [F-15C_EAGLE](https://ja.wikipedia.org/wiki/F-15_\(戦闘機\)#基本型 "wikilink")                 | FIGHTER     | \-         |
 | [F-15D_EAGLE](https://ja.wikipedia.org/wiki/F-15_\(戦闘機\)#基本型 "wikilink")                 | FIGHTER     | \-         |
@@ -136,11 +136,11 @@ Ver.20150425では以下の87機。
 | F-15DJ_EAGLE_SOTOMIDORI                                                                 | FIGHTER     | \-         |
 | [F-15J_EAGLE](https://ja.wikipedia.org/wiki/F-15J_\(航空機\) "wikilink")                    | FIGHTER     | \-         |
 | [F-16C_FIGHTINGFALCON](../Page/F-16_\(戦闘機\).md "wikilink")                               | FIGHTER     | \-         |
-| [F-16C_THUNDERBIRDS](https://ja.wikipedia.org/wiki/サンダーバーズ "wikilink")                   | AEROBATIC   | \-         |
+| [F-16C_THUNDERBIRDS](../Page/サンダーバーズ.md "wikilink")                                      | AEROBATIC   | \-         |
 | [F-18C_HORNET](https://ja.wikipedia.org/wiki/F/A-18_\(航空機\)#F/A-18C/D "wikilink")        | FIGHTER     | \-         |
 | [F-18E_SUPERHORNET](https://ja.wikipedia.org/wiki/F/A-18E/F_\(航空機\) "wikilink")          | FIGHTER     | \-         |
-| [F-18C_BLUEANGELS](https://ja.wikipedia.org/wiki/ブルーエンジェルス "wikilink")                   | AEROBATIC   | \-         |
-| [F-22_RAPTOR](https://ja.wikipedia.org/wiki/F-22_\(戦闘機\) "wikilink")                     | FIGHTER     | \-         |
+| [F-18C_BLUEANGELS](../Page/ブルーエンジェルス.md "wikilink")                                      | AEROBATIC   | \-         |
+| [F-22_RAPTOR](../Page/F-22_\(戦闘機\).md "wikilink")                                        | FIGHTER     | \-         |
 | [F-86_BLUEIMPULSE](https://ja.wikipedia.org/wiki/ブルーインパルス "wikilink")                    | AEROBATIC   | \-         |
 | [F-100D_SUPERSABRE](../Page/F-100_\(戦闘機\).md "wikilink")                                 | FIGHTER     | \-         |
 | [F-104_STARFIGHTER](../Page/F-104_\(戦闘機\).md "wikilink")                                 | FIGHTER     | \-         |
@@ -150,35 +150,35 @@ Ver.20150425では以下の87機。
 | [G4M_TYPE1BOMBER](../Page/一式陸上攻撃機.md "wikilink")                                         | WW2BOMBER   | \-         |
 | [HAWK](../Page/BAe_ホーク.md "wikilink")                                                     | ATTACKER    | \-         |
 | [HURRICANE](../Page/ホーカー_ハリケーン.md "wikilink")                                             | WW2FIGHTER  | \-         |
-| [HAWK_REDARROWS](https://ja.wikipedia.org/wiki/レッドアローズ "wikilink")                       | AEROBATIC   | \-         |
-| [KFIR](https://ja.wikipedia.org/wiki/クフィル_\(航空機\) "wikilink")                             | FIGHTER     | \-         |
-| [LANCASTER](https://ja.wikipedia.org/wiki/アブロ_ランカスター "wikilink")                          | WW2BOMBER   | \-         |
+| [HAWK_REDARROWS](../Page/レッドアローズ.md "wikilink")                                          | AEROBATIC   | \-         |
+| [KFIR](../Page/クフィル_\(航空機\).md "wikilink")                                                | FIGHTER     | \-         |
+| [LANCASTER](../Page/アブロ_ランカスター.md "wikilink")                                             | WW2BOMBER   | \-         |
 | [MU-2S](https://ja.wikipedia.org/wiki/MU-2#MU-2S "wikilink")                              | UTILITY     | \-         |
-| [MIG-15_FAGOT](https://ja.wikipedia.org/wiki/MiG-15_\(航空機\) "wikilink")                  | FIGHTER     | \-         |
-| [MIG-21_FISHBED](https://ja.wikipedia.org/wiki/MiG-21_\(航空機\) "wikilink")                | FIGHTER     | \-         |
-| [MIG-23_FLOGGER](https://ja.wikipedia.org/wiki/MiG-23_\(航空機\) "wikilink")                | FIGHTER     | \-         |
+| [MIG-15_FAGOT](../Page/MiG-15_\(航空機\).md "wikilink")                                     | FIGHTER     | \-         |
+| [MIG-21_FISHBED](../Page/MiG-21_\(航空機\).md "wikilink")                                   | FIGHTER     | \-         |
+| [MIG-23_FLOGGER](../Page/MiG-23_\(航空機\).md "wikilink")                                   | FIGHTER     | \-         |
 | [MIG-29_FULCRUM](../Page/MiG-29_\(航空機\).md "wikilink")                                   | FIGHTER     | \-         |
-| [MIRAGE2000](https://ja.wikipedia.org/wiki/ミラージュ2000_\(戦闘機\) "wikilink")                  | FIGHTER     | \-         |
-| [P-51_MUSTANG](https://ja.wikipedia.org/wiki/P-51_\(航空機\) "wikilink")                    | WW2FIGHTER  | \-         |
+| [MIRAGE2000](../Page/ミラージュ2000_\(戦闘機\).md "wikilink")                                     | FIGHTER     | \-         |
+| [P-51_MUSTANG](../Page/P-51_\(航空機\).md "wikilink")                                       | WW2FIGHTER  | \-         |
 | [PIPER_ARCHER(WASHIN-AIR_MARKING)](https://ja.wikipedia.org/wiki/パイパー_PA-28 "wikilink") | NORMAL      | \-         |
 | [RAFALE](../Page/ラファール_\(航空機\).md "wikilink")                                             | FIGHTER     | \-         |
-| [S-3_VIKING](https://ja.wikipedia.org/wiki/S-3_\(航空機\) "wikilink")                       | ATTACKER    | \-         |
+| [S-3_VIKING](../Page/S-3_\(航空機\).md "wikilink")                                          | ATTACKER    | \-         |
 | [SPITFIRE](../Page/スーパーマリン_スピットファイア.md "wikilink")                                        | WW2FIGHTER  | \-         |
 | [SU-22_FITTER](https://ja.wikipedia.org/wiki/Su-22 "wikilink")                           | ATTACKER    | \-         |
-| [SU-24_FENCER](https://ja.wikipedia.org/wiki/Su-24_\(航空機\) "wikilink")                   | ATTACKER    | \-         |
-| [SU-25_FROGFOOT](https://ja.wikipedia.org/wiki/Su-25_\(航空機\) "wikilink")                 | ATTACKER    | \-         |
+| [SU-24_FENCER](../Page/Su-24_\(航空機\).md "wikilink")                                      | ATTACKER    | \-         |
+| [SU-25_FROGFOOT](../Page/Su-25_\(航空機\).md "wikilink")                                    | ATTACKER    | \-         |
 | [SU-27_FLANKER](https://ja.wikipedia.org/wiki/Su-27_\(航空機\) "wikilink")                  | FIGHTER     | \-         |
 | [T-2_BLUEIMPULSE](https://ja.wikipedia.org/wiki/ブルーインパルス#T-2（1982年→1995年） "wikilink")    | AEROBATIC   | \-         |
 | [T-4_BLUEIMPULSE](https://ja.wikipedia.org/wiki/ブルーインパルス#T-4（1996年以降） "wikilink")        | AEROBATIC   | \-         |
 | [T-400](https://ja.wikipedia.org/wiki/T-400 "wikilink")                                   | TRAINER     | \-         |
 | [TORNADO](../Page/トーネード_IDS.md "wikilink")                                                | FIGHTER     | \-         |
-| [TU-160_BLACKJACK](https://ja.wikipedia.org/wiki/Tu-160_\(航空機\) "wikilink")              | HEAVYBOMBER | \-         |
-| [U-125](https://ja.wikipedia.org/wiki/U-125_\(航空機\) "wikilink")                           | UTILITY     | \-         |
+| [TU-160_BLACKJACK](../Page/Tu-160_\(航空機\).md "wikilink")                                 | HEAVYBOMBER | \-         |
+| [U-125](../Page/U-125_\(航空機\).md "wikilink")                                              | UTILITY     | \-         |
 | [U-125A](https://ja.wikipedia.org/wiki/U-125_\(航空機\)#U-125A "wikilink")                   | UTILITY     | \-         |
 | [UH-60_BLACKHAWK](https://ja.wikipedia.org/wiki/UH-60_ブラックホーク "wikilink")                | UTILITY     | HELICOPTER |
 | [UH-60J_BLACKHAWK](https://ja.wikipedia.org/wiki/UH-60J_\(航空機\) "wikilink")              | UTILITY     | HELICOPTER |
-| [V-107](https://ja.wikipedia.org/wiki/V-107 "wikilink")                                   | UTILITY     | HELICOPTER |
-| [VIGGEN](https://ja.wikipedia.org/wiki/サーブ_37_ビゲン "wikilink")                             | FIGHTER     | \-         |
+| [V-107](../Page/V-107.md "wikilink")                                                      | UTILITY     | HELICOPTER |
+| [VIGGEN](../Page/サーブ_37_ビゲン.md "wikilink")                                                | FIGHTER     | \-         |
 | [YS-11](../Page/YS-11.md "wikilink")                                                      | NORMAL      | \-         |
 |                                                                                           |             |            |
 |                                                                                           |             |            |
@@ -192,7 +192,7 @@ YS FLIGHT SIMULATOR 収録航空機（Ver.20150425）
 | AEROBATIC   | アクロバット （[曲技飛行隊](../Page/曲技飛行隊.md "wikilink")）                                                                                                                 |
 | FIGHTER     | [戦闘機](../Page/戦闘機.md "wikilink")                                                                                                                              |
 | ATTACKER    | [攻撃機](../Page/攻撃機.md "wikilink")                                                                                                                              |
-| TRAINER     | [練習機](https://ja.wikipedia.org/wiki/練習機 "wikilink")                                                                                                           |
+| TRAINER     | [練習機](../Page/練習機.md "wikilink")                                                                                                                              |
 | HEAVYBOMBER | [爆撃機](../Page/爆撃機.md "wikilink")                                                                                                                              |
 | WW2FIGHTER  | 第2次大戦戦闘機                                                                                                                                                      |
 | WW2BOMBER   | 第2次大戦爆撃機                                                                                                                                                      |
@@ -219,26 +219,26 @@ Ver.20150425では以下の16マップ。
 
 <div class="NavContent" style="text-align: left;">
 
-| フィールド名               | 備考                                                                                                                                                                                                                        |
-| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ATSUGI_AIRBASE      | [厚木海軍飛行場](https://ja.wikipedia.org/wiki/厚木海軍飛行場 "wikilink")                                                                                                                                                               |
-| CRESCENT_ISLAND     |                                                                                                                                                                                                                           |
-| HAWAII               | [ホノルル国際空港](https://ja.wikipedia.org/wiki/ホノルル国際空港 "wikilink")                                                                                                                                                             |
-| ISLAND_GOURD        |                                                                                                                                                                                                                           |
-| MATSUSHIMA_AIRBASE  | [松島基地](https://ja.wikipedia.org/wiki/松島基地 "wikilink")                                                                                                                                                                     |
-| NAHA_AIRPORT        | [那覇空港](../Page/那覇空港.md "wikilink")                                                                                                                                                                                        |
-| NEWTA_AIRBASE       |                                                                                                                                                                                                                           |
-| PACIFIC_ATOLL       |                                                                                                                                                                                                                           |
-| SMALL_MAP           | 軽量マップ                                                                                                                                                                                                                     |
-| TOHOKU               | [青森空港](../Page/青森空港.md "wikilink")、[秋田空港](../Page/秋田空港.md "wikilink")、[花巻空港](https://ja.wikipedia.org/wiki/花巻空港 "wikilink")、[仙台空港](../Page/仙台空港.md "wikilink")、[松島基地](https://ja.wikipedia.org/wiki/松島基地 "wikilink")      |
-| AOMORI               | [青森空港](../Page/青森空港.md "wikilink")、[三沢空港](https://ja.wikipedia.org/wiki/三沢空港 "wikilink")                                                                                                                                  |
-| NORTH_KYUSYU        | [長崎空港](https://ja.wikipedia.org/wiki/長崎空港 "wikilink")、[小値賀空港](https://ja.wikipedia.org/wiki/小値賀空港 "wikilink")、[対馬空港](https://ja.wikipedia.org/wiki/対馬空港 "wikilink")、[佐賀空港](https://ja.wikipedia.org/wiki/佐賀空港 "wikilink") |
-| AIRSTRIKE_CHALLENGE |                                                                                                                                                                                                                           |
-| HEATHROW             |                                                                                                                                                                                                                           |
-| SLAPSTICK            |                                                                                                                                                                                                                           |
-| OCEAN                |                                                                                                                                                                                                                           |
-|                      |                                                                                                                                                                                                                           |
-|                      |                                                                                                                                                                                                                           |
+| フィールド名               | 備考                                                                                                                                                                             |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ATSUGI_AIRBASE      | [厚木海軍飛行場](../Page/厚木海軍飛行場.md "wikilink")                                                                                                                                       |
+| CRESCENT_ISLAND     |                                                                                                                                                                                |
+| HAWAII               | [ホノルル国際空港](https://ja.wikipedia.org/wiki/ホノルル国際空港 "wikilink")                                                                                                                  |
+| ISLAND_GOURD        |                                                                                                                                                                                |
+| MATSUSHIMA_AIRBASE  | [松島基地](../Page/松島基地.md "wikilink")                                                                                                                                             |
+| NAHA_AIRPORT        | [那覇空港](../Page/那覇空港.md "wikilink")                                                                                                                                             |
+| NEWTA_AIRBASE       |                                                                                                                                                                                |
+| PACIFIC_ATOLL       |                                                                                                                                                                                |
+| SMALL_MAP           | 軽量マップ                                                                                                                                                                          |
+| TOHOKU               | [青森空港](../Page/青森空港.md "wikilink")、[秋田空港](../Page/秋田空港.md "wikilink")、[花巻空港](../Page/花巻空港.md "wikilink")、[仙台空港](../Page/仙台空港.md "wikilink")、[松島基地](../Page/松島基地.md "wikilink") |
+| AOMORI               | [青森空港](../Page/青森空港.md "wikilink")、[三沢空港](https://ja.wikipedia.org/wiki/三沢空港 "wikilink")                                                                                       |
+| NORTH_KYUSYU        | [長崎空港](../Page/長崎空港.md "wikilink")、[小値賀空港](../Page/小値賀空港.md "wikilink")、[対馬空港](../Page/対馬空港.md "wikilink")、[佐賀空港](../Page/佐賀空港.md "wikilink")                                  |
+| AIRSTRIKE_CHALLENGE |                                                                                                                                                                                |
+| HEATHROW             |                                                                                                                                                                                |
+| SLAPSTICK            |                                                                                                                                                                                |
+| OCEAN                |                                                                                                                                                                                |
+|                      |                                                                                                                                                                                |
+|                      |                                                                                                                                                                                |
 
 YS FLIGHT SIMULATOR 収録マップ（Ver.20150425）
 
@@ -260,23 +260,23 @@ YS FLIGHT SIMULATOR 収録マップ（Ver.20150425）
 
 <div class="NavContent" style="text-align: left;">
 
-| IDENTIFY          | GRNDTYPE | 備考                                                                                  |
-| ----------------- | -------- | ----------------------------------------------------------------------------------- |
-| AAA               | \-       | [対空砲](../Page/対空砲.md "wikilink")（Anti-Aircraft Artillery）                           |
-| SAM               | \-       | [地対空ミサイル](../Page/地対空ミサイル.md "wikilink")（Surface-to-Air Missile）                    |
-| AIRCRAFTCARRIER   | NAVYSHIP | [航空母艦](../Page/航空母艦.md "wikilink")                                                  |
-| HMS_INVINCIBLE   | NAVYSHIP | [インヴィンシブル (空母)](../Page/インヴィンシブル_\(空母\).md "wikilink")                              |
-| BURKE_DESTROYER  | NAVYSHIP | [アーレイ・バーク (ミサイル駆逐艦)](https://ja.wikipedia.org/wiki/アーレイ・バーク_\(ミサイル駆逐艦\) "wikilink") |
-| UDALOY_DESTROYER | NAVYSHIP | [ウダロイ級駆逐艦](../Page/ウダロイ級駆逐艦.md "wikilink")                                          |
-| CONTAINERSHIP_L  | SHIP     | [コンテナ船](../Page/コンテナ船.md "wikilink")                                                |
-| M1A1ABRAMS        | TANK     | [M1エイブラムス](../Page/M1エイブラムス.md "wikilink")                                          |
-| M60PATTON         | TANK     | [M60パットン](../Page/M60パットン.md "wikilink")                                            |
-| T-80              | TANK     | [T-80](https://ja.wikipedia.org/wiki/T-80 "wikilink")                               |
-| T-64              | TANK     | [T-64](../Page/T-64.md "wikilink")                                                  |
-| JEEP              | VEHICLE  | [ジープ](https://ja.wikipedia.org/wiki/ジープ "wikilink")                                 |
-| GEPARD            | \-       | [ゲパルト自走対空砲](https://ja.wikipedia.org/wiki/ゲパルト自走対空砲 "wikilink")                     |
-|                   |          |                                                                                     |
-|                   |          |                                                                                     |
+| IDENTIFY          | GRNDTYPE | 備考                                                               |
+| ----------------- | -------- | ---------------------------------------------------------------- |
+| AAA               | \-       | [対空砲](../Page/対空砲.md "wikilink")（Anti-Aircraft Artillery）        |
+| SAM               | \-       | [地対空ミサイル](../Page/地対空ミサイル.md "wikilink")（Surface-to-Air Missile） |
+| AIRCRAFTCARRIER   | NAVYSHIP | [航空母艦](../Page/航空母艦.md "wikilink")                               |
+| HMS_INVINCIBLE   | NAVYSHIP | [インヴィンシブル (空母)](../Page/インヴィンシブル_\(空母\).md "wikilink")           |
+| BURKE_DESTROYER  | NAVYSHIP | [アーレイ・バーク (ミサイル駆逐艦)](../Page/アーレイ・バーク_\(ミサイル駆逐艦\).md "wikilink") |
+| UDALOY_DESTROYER | NAVYSHIP | [ウダロイ級駆逐艦](../Page/ウダロイ級駆逐艦.md "wikilink")                       |
+| CONTAINERSHIP_L  | SHIP     | [コンテナ船](../Page/コンテナ船.md "wikilink")                             |
+| M1A1ABRAMS        | TANK     | [M1エイブラムス](../Page/M1エイブラムス.md "wikilink")                       |
+| M60PATTON         | TANK     | [M60パットン](../Page/M60パットン.md "wikilink")                         |
+| T-80              | TANK     | [T-80](../Page/T-80.md "wikilink")                               |
+| T-64              | TANK     | [T-64](../Page/T-64.md "wikilink")                               |
+| JEEP              | VEHICLE  | [ジープ](../Page/ジープ.md "wikilink")                                 |
+| GEPARD            | \-       | [ゲパルト自走対空砲](../Page/ゲパルト自走対空砲.md "wikilink")                     |
+|                   |          |                                                                  |
+|                   |          |                                                                  |
 
 登場する他の兵器・地上物
 

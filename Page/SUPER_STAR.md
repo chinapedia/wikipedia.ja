@@ -7,7 +7,7 @@
 
 アルバム『[STAY DREAM](../Page/STAY_DREAM.md "wikilink")』（1986年）からの先行シングル。しかし、アルバムに収録されたバージョンは再レコーディングされており、シングルとは全く異なるアレンジとなっている。
 
-[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")では最高位13位となっている。
+[オリコンチャート](../Page/オリコンチャート.md "wikilink")では最高位13位となっている。
 
 ## 音楽性
 
@@ -17,7 +17,7 @@
 
 ## リリース
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[7月2日](../Page/7月2日.md "wikilink")に[東芝EMIのエキスプレスレーベルよりリリースされた](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")。
+[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[7月2日](../Page/7月2日.md "wikilink")に[東芝EMIのエキスプレスレーベルよりリリースされた](../Page/EMIミュージック・ジャパン.md "wikilink")。
 
 位置付けとしては、アルバム『[STAY DREAM](../Page/STAY_DREAM.md "wikilink")』からの先行シングルとなるが、アルバムに収録されたのは別版となっており、アレンジがシングルとは大きく異なる。シングル版は、通常のバンド演奏された内容でロック調のアレンジ、アルバム版はアルバム全体がアコースティックなサウンドを全面に出しているため、それに合わせて[アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")と[ドラムスのみのアレンジで録り直されている](../Page/ドラムセット.md "wikilink")。
 
@@ -31,11 +31,11 @@ B面曲の「DON'T CRY MY LOVE」は、元々はアルバム『[HEAVY GAUGE](../
 
 音楽情報サイト『CDジャーナル』では、「ハーモニカとユニゾンで歌われる“チュッチュルチュル～”が印象的」と評されている\[2\]。
 
-お笑いコンビ[ペナルティの](https://ja.wikipedia.org/wiki/ペナルティ_\(お笑いコンビ\) "wikilink")[ワッキー](https://ja.wikipedia.org/wiki/ワッキー "wikilink")が、最も好きな歌として挙げている。
+お笑いコンビ[ペナルティの](../Page/ペナルティ_\(お笑いコンビ\).md "wikilink")[ワッキー](https://ja.wikipedia.org/wiki/ワッキー "wikilink")が、最も好きな歌として挙げている。
 
 ## チャート成績
 
-[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")では最高位13位、登場回数13回となり、売り上げ枚数は9.9万枚となった。
+[オリコンチャート](../Page/オリコンチャート.md "wikilink")では最高位13位、登場回数13回となり、売り上げ枚数は9.9万枚となった。
 
 ## ミュージック・ビデオ
 
@@ -45,7 +45,7 @@ B面曲の「DON'T CRY MY LOVE」は、元々はアルバム『[HEAVY GAUGE](../
 
 本曲でのテレビ出演は、1986年[8月7日](../Page/8月7日.md "wikilink")に[日本テレビ系音楽番組](../Page/日本テレビネットワーク協議会.md "wikilink")『[歌のトップテン](../Page/歌のトップテン.md "wikilink")』（1986年 - 1990年）にてスポットライトで出演し、ドラマ『親子ゲーム』撮影時の話などをした他、9月1日には[日本テレビ系列音楽番組](../Page/日本テレビネットワーク協議会.md "wikilink")『[歌のトップテン](../Page/歌のトップテン.md "wikilink")』（1986年 - 1990年）にて注目曲コーナーに出演した際に長渕は、当時の司会者だった前妻、[石野真子](../Page/石野真子.md "wikilink")に対して一言「元気?」と声を掛け、石野はそれに「元気…」と答えた。
 
-ライブでの演奏は本作を収録したアルバム『STAY DREAM』を引っ提げたライブツアー「LIVE'86 - '87 STAY DREAM」にて演奏された他、続いて1987年のライブツアー「LIVE'87 LICENSE」、1988年のライブツアー「LIVE'88 NEVER CHANGE」、1989年のライブツアー「LIVE'89 昭和」と定番曲となっていたが以後は演奏される事はなくなった。しかし、2009年のライブツアー「Tsuyoshi Nagabuchi Acoustic Live 30th Anniversary」において12月9日の[NHKホール](https://ja.wikipedia.org/wiki/NHKホール "wikilink")公演にて演奏された他\[3\]、2009年12月31日に[ワールド記念ホール](https://ja.wikipedia.org/wiki/ワールド記念ホール "wikilink")にて開催された長渕初の年越しカウントダウンライブである「2009～2010 Tsuyoshi Nagabuchi Arena Tour "Friends" -Countdown Live-」において演奏された\[4\]。
+ライブでの演奏は本作を収録したアルバム『STAY DREAM』を引っ提げたライブツアー「LIVE'86 - '87 STAY DREAM」にて演奏された他、続いて1987年のライブツアー「LIVE'87 LICENSE」、1988年のライブツアー「LIVE'88 NEVER CHANGE」、1989年のライブツアー「LIVE'89 昭和」と定番曲となっていたが以後は演奏される事はなくなった。しかし、2009年のライブツアー「Tsuyoshi Nagabuchi Acoustic Live 30th Anniversary」において12月9日の[NHKホール](../Page/NHKホール.md "wikilink")公演にて演奏された他\[3\]、2009年12月31日に[ワールド記念ホール](../Page/ワールド記念ホール.md "wikilink")にて開催された長渕初の年越しカウントダウンライブである「2009～2010 Tsuyoshi Nagabuchi Arena Tour "Friends" -Countdown Live-」において演奏された\[4\]。
 
 ## メディアでの使用
 
@@ -82,10 +82,10 @@ B面曲の「DON'T CRY MY LOVE」は、元々はアルバム『[HEAVY GAUGE](../
 
 <!-- end list -->
 
-  - [家族ゲーム](https://ja.wikipedia.org/wiki/家族ゲーム "wikilink") - 主題歌：[GOOD-BYE青春](../Page/GOOD-BYE青春.md "wikilink")
-  - [親子ジグザグ](../Page/親子ジグザグ.md "wikilink") - 主題歌：[ろくなもんじゃねえ](https://ja.wikipedia.org/wiki/ろくなもんじゃねえ "wikilink")
+  - [家族ゲーム](../Page/家族ゲーム.md "wikilink") - 主題歌：[GOOD-BYE青春](../Page/GOOD-BYE青春.md "wikilink")
+  - [親子ジグザグ](../Page/親子ジグザグ.md "wikilink") - 主題歌：[ろくなもんじゃねえ](../Page/ろくなもんじゃねえ.md "wikilink")
   - [とんぼ](../Page/とんぼ_\(テレビドラマ\).md "wikilink") - 主題歌：[とんぼ](../Page/とんぼ_\(長渕剛の曲\).md "wikilink")
-  - [RUN](https://ja.wikipedia.org/wiki/RUN_\(テレビドラマ\) "wikilink") - 主題歌：[RUN](../Page/RUN_\(長渕剛の曲\).md "wikilink")
+  - [RUN](../Page/RUN_\(テレビドラマ\).md "wikilink") - 主題歌：[RUN](../Page/RUN_\(長渕剛の曲\).md "wikilink")
 
 <!-- end list -->
 
@@ -94,7 +94,7 @@ B面曲の「DON'T CRY MY LOVE」は、元々はアルバム『[HEAVY GAUGE](../
 <!-- end list -->
 
   - [親子ゲーム](../Page/親子ゲーム.md "wikilink")
-  - [スクール☆ウォーズ](https://ja.wikipedia.org/wiki/スクール☆ウォーズ "wikilink")：[ヒーロー HOLDING OUT FOR A HERO](https://ja.wikipedia.org/wiki/ヒーロー_HOLDING_OUT_FOR_A_HERO "wikilink")
+  - [スクール☆ウォーズ](../Page/スクール☆ウォーズ.md "wikilink")：[ヒーロー HOLDING OUT FOR A HERO](https://ja.wikipedia.org/wiki/ヒーロー_HOLDING_OUT_FOR_A_HERO "wikilink")
   - [ポニーテールはふり向かない](../Page/ポニーテールはふり向かない.md "wikilink")：[Never Say Good-Bye](https://ja.wikipedia.org/wiki/Never_Say_Good-Bye "wikilink")
 
 ## 外部リンク

@@ -118,7 +118,7 @@
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p><a href="https://ja.wikipedia.org/wiki/ファイル:Flag_of_Turkey.svg" title="wikilink">50px</a><br />
-<strong><a href="https://ja.wikipedia.org/wiki/トルコ軍" title="wikilink">トルコ</a></strong></p></td>
+<strong><a href="../Page/トルコ軍.md" title="wikilink">トルコ</a></strong></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p><a href="https://ja.wikipedia.org/wiki/ファイル:Flag_of_the_United_Kingdom.svg" title="wikilink">50px</a><br />
@@ -163,7 +163,7 @@
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p><a href="https://ja.wikipedia.org/wiki/ファイル:Flag_of_Canada.svg" title="wikilink">50px</a><br />
-<strong><a href="https://ja.wikipedia.org/wiki/カナダ軍" title="wikilink">カナダ</a></strong></p></td>
+<strong><a href="../Page/カナダ軍.md" title="wikilink">カナダ</a></strong></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p><a href="https://ja.wikipedia.org/wiki/ファイル:Flag_of_Croatia.svg" title="wikilink">50px</a><br />
@@ -251,7 +251,7 @@
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p><a href="https://ja.wikipedia.org/wiki/ファイル:Flag_of_Turkey.svg" title="wikilink">50px</a><br />
-<strong><a href="https://ja.wikipedia.org/wiki/トルコ軍" title="wikilink">トルコ</a></strong></p></td>
+<strong><a href="../Page/トルコ軍.md" title="wikilink">トルコ</a></strong></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p><a href="https://ja.wikipedia.org/wiki/ファイル:Flag_of_the_United_Kingdom.svg" title="wikilink">50px</a><br />
@@ -271,7 +271,7 @@
 
 ## 准士官 (WO5 - 1)
 
-[士官](https://ja.wikipedia.org/wiki/士官 "wikilink")の下、[下士官](https://ja.wikipedia.org/wiki/下士官 "wikilink")[兵](https://ja.wikipedia.org/wiki/兵 "wikilink")の上の[准士官](https://ja.wikipedia.org/wiki/准士官 "wikilink")の階級。
+[士官](../Page/士官.md "wikilink")の下、[下士官](../Page/下士官.md "wikilink")[兵](https://ja.wikipedia.org/wiki/兵 "wikilink")の上の[准士官](../Page/准士官.md "wikilink")の階級。
 
 <table>
 <tbody>
@@ -318,7 +318,7 @@
 
   - [軍隊の階級](../Page/軍隊の階級.md "wikilink")
   - [軍服](https://ja.wikipedia.org/wiki/軍服 "wikilink")
-  - [軍服 (ドイツ)](https://ja.wikipedia.org/wiki/軍服_\(ドイツ\) "wikilink")
+  - [軍服 (ドイツ)](../Page/軍服_\(ドイツ\).md "wikilink")
   - [軍服 (イギリス)](../Page/軍服_\(イギリス\).md "wikilink")
   - [軍服 (アメリカ合衆国)](../Page/軍服_\(アメリカ合衆国\).md "wikilink")
 

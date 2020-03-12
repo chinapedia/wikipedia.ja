@@ -1,15 +1,15 @@
 > この記事は[PIECE OF MY SOUL](https://ja.wikipedia.org/wiki/PIECE_OF_MY_SOUL)から翻訳されています。
 
 
-『**PIECE OF MY SOUL**』（ピース・オブ・マイ・ソウル）は[WANDS](https://ja.wikipedia.org/wiki/WANDS "wikilink")の4枚目のアルバム。
+『**PIECE OF MY SOUL**』（ピース・オブ・マイ・ソウル）は[WANDS](../Page/WANDS.md "wikilink")の4枚目のアルバム。
 
 ## 概要
 
-[東芝EMIから](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")[B-Gram RECORDSに移籍後初のアルバムで](https://ja.wikipedia.org/wiki/B-Gram_RECORDS "wikilink")、[上杉昇](https://ja.wikipedia.org/wiki/上杉昇 "wikilink")（ボーカル）、[柴崎浩](../Page/柴崎浩.md "wikilink")（ギター）在籍最後のオリジナルアルバム。
+[東芝EMIから](../Page/EMIミュージック・ジャパン.md "wikilink")[B-Gram RECORDSに移籍後初のアルバムで](../Page/B-Gram_RECORDS.md "wikilink")、[上杉昇](../Page/上杉昇.md "wikilink")（ボーカル）、[柴崎浩](../Page/柴崎浩.md "wikilink")（ギター）在籍最後のオリジナルアルバム。
 
 初回限定盤は赤と青2種類の帯があり、背文字の「WANDS」表記も従来使用されていたロゴになっている（通常盤は作品名と同じ字体）。
 
-アルバムの全体像として上杉は「吠えてるだけ、攻撃的なのだけがロックじゃない。[繊細](https://ja.wikipedia.org/wiki/繊細 "wikilink")な部分もはらんでるんだっていうのを表現したかった。」と述べているが、[ダイナミクス](https://ja.wikipedia.org/wiki/ダイナミクス "wikilink")の点で課題が生じたという。この課題は同年12月にリリースされたシングル「[Same Side](https://ja.wikipedia.org/wiki/Same_Side "wikilink")」でクリアできたという\[1\]。
+アルバムの全体像として上杉は「吠えてるだけ、攻撃的なのだけがロックじゃない。[繊細](https://ja.wikipedia.org/wiki/繊細 "wikilink")な部分もはらんでるんだっていうのを表現したかった。」と述べているが、[ダイナミクス](https://ja.wikipedia.org/wiki/ダイナミクス "wikilink")の点で課題が生じたという。この課題は同年12月にリリースされたシングル「[Same Side](../Page/Same_Side.md "wikilink")」でクリアできたという\[1\]。
 
 ## 音楽性
 
@@ -25,11 +25,11 @@
 
 ## 売上記録
 
-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[5月8日](../Page/5月8日.md "wikilink")付の[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")にて初登場1位を獲得。[日本レコード協会](../Page/日本レコード協会.md "wikilink")の集計では、本作までWANDSのアルバムは3作連続のミリオンセラーとなり、第2期WANDSが出したオリジナル・アルバムは、全て[ミリオンヒットを達成した](../Page/ミリオンセラー.md "wikilink")。
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[5月8日](../Page/5月8日.md "wikilink")付の[オリコンチャート](../Page/オリコンチャート.md "wikilink")にて初登場1位を獲得。[日本レコード協会](../Page/日本レコード協会.md "wikilink")の集計では、本作までWANDSのアルバムは3作連続のミリオンセラーとなり、第2期WANDSが出したオリジナル・アルバムは、全て[ミリオンヒットを達成した](../Page/ミリオンセラー.md "wikilink")。
 
 ## 批評
 
-CDジャーナルは、「腕利きリズム隊、[青山純](../Page/青山純.md "wikilink")と[渡辺直樹をゲストに迎えた](../Page/渡辺直樹_\(ミュージシャン\).md "wikilink")4枚目。シングル・ヒットの『[Secret Night 〜It's My Treat〜](https://ja.wikipedia.org/wiki/Secret_Night_〜It's_My_Treat〜 "wikilink")』以下、よ〜くこなれたWANDS流[ロック](../Page/ロック_\(音楽\).md "wikilink")[歌謡を大展開](../Page/歌謡曲.md "wikilink")。ツボをおさえた[葉山たけし](../Page/葉山たけし.md "wikilink")の[アレンジが光る](../Page/編曲.md "wikilink")。派手にキメてる[voと](https://ja.wikipedia.org/wiki/ボーカル "wikilink")[gのサポートに徹している](../Page/ギター.md "wikilink")[Keyの](../Page/キーボード_\(楽器\).md "wikilink")[木村氏が健気だ](https://ja.wikipedia.org/wiki/木村真也 "wikilink")。」と批評した\[4\]。
+CDジャーナルは、「腕利きリズム隊、[青山純](../Page/青山純.md "wikilink")と[渡辺直樹をゲストに迎えた](../Page/渡辺直樹_\(ミュージシャン\).md "wikilink")4枚目。シングル・ヒットの『[Secret Night 〜It's My Treat〜](../Page/Secret_Night_〜It's_My_Treat〜.md "wikilink")』以下、よ〜くこなれたWANDS流[ロック](../Page/ロック_\(音楽\).md "wikilink")[歌謡を大展開](../Page/歌謡曲.md "wikilink")。ツボをおさえた[葉山たけし](../Page/葉山たけし.md "wikilink")の[アレンジが光る](../Page/編曲.md "wikilink")。派手にキメてる[voと](https://ja.wikipedia.org/wiki/ボーカル "wikilink")[gのサポートに徹している](../Page/ギター.md "wikilink")[Keyの](../Page/キーボード_\(楽器\).md "wikilink")[木村氏が健気だ](../Page/木村真也.md "wikilink")。」と批評した\[4\]。
 
 ## 収録曲
 
@@ -48,31 +48,31 @@ CDジャーナルは、「腕利きリズム隊、[青山純](../Page/青山純.
 4.  **DON'T TRY SO HARD**
       - 当アルバムの中で最後に録音された。上杉が[2013年](../Page/2013年.md "wikilink")のライブでセルフカバー。
 5.  **Crazy Cat**
-6.  **[Secret Night 〜It's My Treat〜](https://ja.wikipedia.org/wiki/Secret_Night_〜It's_My_Treat〜 "wikilink")**
+6.  **[Secret Night 〜It's My Treat〜](../Page/Secret_Night_〜It's_My_Treat〜.md "wikilink")**
       - 9thシングル。
 7.  **Foolish OK**
 8.  **PIECE OF MY SOUL**
       - 上杉が作曲に携わるのは『[時の扉](../Page/時の扉_\(WANDSのアルバム\).md "wikilink")』収録の「Keep My Rock'n Road」以来2度目となった。共作での作曲は初となる。柴崎が作成したAメロのモチーフを上杉が気に入り、そこから2人で一緒に制作した。柴崎は新たな作曲方法を見つけたとコメントしている\[5\]。
-9.  **[Jumpin' Jack Boy ～Album Version～](https://ja.wikipedia.org/wiki/Jumpin'_Jack_Boy "wikilink")**
+9.  **[Jumpin' Jack Boy ～Album Version～](../Page/Jumpin'_Jack_Boy.md "wikilink")**
       - 7thシングル。
       - シングルバージョンとは異なる[ハードロック](../Page/ハードロック.md "wikilink")調のアレンジ。リズム隊が打ち込みから生楽器演奏に変更されている。
 10. **MILLION MILES AWAY**
       - 木村が初めて作曲を手がけた作品。
-      - 後に、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に発売された第3期WANDSのベストアルバム『[WANDS BEST 〜HISTORICAL BEST ALBUM〜](https://ja.wikipedia.org/wiki/WANDS_BEST_〜HISTORICAL_BEST_ALBUM〜 "wikilink")』でリテイクされた。
+      - 後に、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に発売された第3期WANDSのベストアルバム『[WANDS BEST 〜HISTORICAL BEST ALBUM〜](../Page/WANDS_BEST_〜HISTORICAL_BEST_ALBUM〜.md "wikilink")』でリテイクされた。
 
 ## 参加ミュージシャン
 
-### [WANDS](https://ja.wikipedia.org/wiki/WANDS "wikilink")
+### [WANDS](../Page/WANDS.md "wikilink")
 
-  - Vocal：[上杉昇](https://ja.wikipedia.org/wiki/上杉昇 "wikilink")
+  - Vocal：[上杉昇](../Page/上杉昇.md "wikilink")
   - Guitar：[柴崎浩](../Page/柴崎浩.md "wikilink")
-  - Keyboards：[木村真也](https://ja.wikipedia.org/wiki/木村真也 "wikilink")
+  - Keyboards：[木村真也](../Page/木村真也.md "wikilink")
 
 ### ゲストミュージシャン
 
   - Drums：[青山純](../Page/青山純.md "wikilink")
   - Bass：[渡辺直樹](../Page/渡辺直樹_\(ミュージシャン\).md "wikilink")
-  - Chorus：[生沢佑一](https://ja.wikipedia.org/wiki/生沢佑一 "wikilink") from [TWINZER](../Page/TWINZER.md "wikilink") (\#5,\#7), [大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink") (\#3,\#9), [鈴木康志](../Page/鈴木康志.md "wikilink") (\#4)
+  - Chorus：[生沢佑一](../Page/生沢佑一.md "wikilink") from [TWINZER](../Page/TWINZER.md "wikilink") (\#5,\#7), [大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink") (\#3,\#9), [鈴木康志](../Page/鈴木康志.md "wikilink") (\#4)
   - Bitch Voice：Bille Cade (\#6)
   - Soft Voice：Joyce Goit (\#6)
   - Affirmative Voice：Terry Jone (\#6)

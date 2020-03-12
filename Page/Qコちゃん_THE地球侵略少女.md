@@ -1,15 +1,15 @@
 > この記事は[Q THE](https://ja.wikipedia.org/wiki/Q_THE)から翻訳されています。
 
 
-『**Qコちゃん THE地球侵略少女**』（きゅうこちゃん ざちきゅうしんりゃくしょうじょ）は、『[月刊マガジンZ](https://ja.wikipedia.org/wiki/月刊マガジンZ "wikilink")』[2002年](../Page/2002年.md "wikilink")9月号から[2004年](../Page/2004年.md "wikilink")5月号まで連載されていた[ウエダハジメ](../Page/ウエダハジメ.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")である。
+『**Qコちゃん THE地球侵略少女**』（きゅうこちゃん ざちきゅうしんりゃくしょうじょ）は、『[月刊マガジンZ](../Page/月刊マガジンZ.md "wikilink")』[2002年](../Page/2002年.md "wikilink")9月号から[2004年](../Page/2004年.md "wikilink")5月号まで連載されていた[ウエダハジメ](../Page/ウエダハジメ.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")である。
 
 ## 作品概要
 
-漫画版『[フリクリ](../Page/フリクリ.md "wikilink")』の次回作として制作された[SFストーリー](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")。作品名は『[地球防衛少女イコちゃん](https://ja.wikipedia.org/wiki/地球防衛少女イコちゃん "wikilink")』のパロディ。作者が好きな作品である『[マリア様がみてる](../Page/マリア様がみてる.md "wikilink")』や『[機動戦士ガンダム](https://ja.wikipedia.org/wiki/機動戦士ガンダム "wikilink")』、『[ブレンパワード](https://ja.wikipedia.org/wiki/ブレンパワード "wikilink")』などの影響も見られる。
+漫画版『[フリクリ](../Page/フリクリ.md "wikilink")』の次回作として制作された[SFストーリー](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")。作品名は『[地球防衛少女イコちゃん](../Page/地球防衛少女イコちゃん.md "wikilink")』のパロディ。作者が好きな作品である『[マリア様がみてる](../Page/マリア様がみてる.md "wikilink")』や『[機動戦士ガンダム](../Page/機動戦士ガンダム.md "wikilink")』、『[ブレンパワード](../Page/ブレンパワード.md "wikilink")』などの影響も見られる。
 
 ウエダハジメ独特の筆使いやコマ割り、世界観が特徴である。作中では時代背景等の説明描写がほとんどない為、話が分かり難くなっている。そのため、ファンから様々な意見が飛び交っている。
 
-最終的に物語は話が纏まらないまま、[打ち切り](https://ja.wikipedia.org/wiki/打ち切り "wikilink")によりストーリー未完で終了してしまったが、作者は再開の意思を示している。
+最終的に物語は話が纏まらないまま、[打ち切り](../Page/打ち切り.md "wikilink")によりストーリー未完で終了してしまったが、作者は再開の意思を示している。
 
 ## あらすじ
 
@@ -26,7 +26,7 @@
   - AAコ
     百三十姉妹の最高位・女王にしてオリジナル。SSコ等より遅れて地球に来た。フリ子をプレイヤーとした。
   - ムジ・リリ子
-    キリオとフリ子の母。黒ウサギの隊員で階級は[少佐](https://ja.wikipedia.org/wiki/少佐 "wikilink")。大陸での戦争に学者として参加し、Qコ等と係わりを持つ事になる。
+    キリオとフリ子の母。黒ウサギの隊員で階級は[少佐](../Page/少佐.md "wikilink")。大陸での戦争に学者として参加し、Qコ等と係わりを持つ事になる。
   - モモザワ・ノール
     キリオの友人。何を考えているのか分からない。SSコのプレイヤー。
   - SSコ

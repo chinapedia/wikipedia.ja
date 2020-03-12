@@ -38,8 +38,8 @@ Labelflash専用メディアは、ラベル面の最内周部にLabelflash対応
 
 ### ドライブ
 
-  - [アイ・オー・データ機器](https://ja.wikipedia.org/wiki/アイ・オー・データ機器 "wikilink")
-  - [バッファロー](https://ja.wikipedia.org/wiki/バッファロー_\(パソコン周辺機器\) "wikilink")
+  - [アイ・オー・データ機器](../Page/アイ・オー・データ機器.md "wikilink")
+  - [バッファロー](../Page/バッファロー_\(パソコン周辺機器\).md "wikilink")
   - [ロジテック](../Page/ロジテック.md "wikilink")
   - [パイオニア](https://ja.wikipedia.org/wiki/パイオニア "wikilink")
   - [ソニーオプティアーク](https://ja.wikipedia.org/wiki/ソニーオプティアーク "wikilink")（旧：ソニーNECオプティアーク）
@@ -60,7 +60,7 @@ Labelflash専用メディアは、ラベル面の最内周部にLabelflash対応
 
 ### 対応ドライブ搭載パソコン
 
-  - [東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink") - [Qosmio](../Page/Qosmio.md "wikilink")シリーズ
+  - [東芝](../Page/東芝.md "wikilink") - [Qosmio](../Page/Qosmio.md "wikilink")シリーズ
 
 ## 脚注
 

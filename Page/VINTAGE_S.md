@@ -1,11 +1,11 @@
 > この記事は[VINTAGE S](https://ja.wikipedia.org/wiki/VINTAGE_S)から翻訳されています。
 
 
-『**VINTAGE S**』（ヴィンテージ・エス）は、[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")の1枚目の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。[2000年](../Page/2000年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")に[スターチャイルド](https://ja.wikipedia.org/wiki/スターチャイルド "wikilink")から発売された。
+『**VINTAGE S**』（ヴィンテージ・エス）は、[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")の1枚目の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")に[スターチャイルド](../Page/スターチャイルド.md "wikilink")から発売された。
 
 ## 概要
 
-[1994年](../Page/1994年.md "wikilink")から[1999年](../Page/1999年.md "wikilink")までにリリースされた[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")名義のシングル曲とそのカップリング曲の中から、林原自らセレクトした全15曲が収録された。オリジナル・アルバム未収録だったシングル曲の一部がこのアルバムに収録されているのも特徴である。また、「[虹色のSneaker](../Page/虹色のSneaker.md "wikilink")」と「[Until Strawberry Sherbet](../Page/Until_Strawberry_Sherbet.md "wikilink")」を除く全ての作曲を[佐藤英敏](../Page/佐藤英敏.md "wikilink")が手掛けている。[ジャケットデザインは](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")、林原が出演したアニメ『[3×3EYES](https://ja.wikipedia.org/wiki/3×3EYES "wikilink")』、『[万能文化猫娘](https://ja.wikipedia.org/wiki/万能文化猫娘 "wikilink")』、『[BLUE SEED](https://ja.wikipedia.org/wiki/BLUE_SEED "wikilink")』の原作者である[高田裕三](../Page/高田裕三.md "wikilink")が手掛けた。
+[1994年](../Page/1994年.md "wikilink")から[1999年](../Page/1999年.md "wikilink")までにリリースされた[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")名義のシングル曲とそのカップリング曲の中から、林原自らセレクトした全15曲が収録された。オリジナル・アルバム未収録だったシングル曲の一部がこのアルバムに収録されているのも特徴である。また、「[虹色のSneaker](../Page/虹色のSneaker.md "wikilink")」と「[Until Strawberry Sherbet](../Page/Until_Strawberry_Sherbet.md "wikilink")」を除く全ての作曲を[佐藤英敏](../Page/佐藤英敏.md "wikilink")が手掛けている。[ジャケットデザインは](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")、林原が出演したアニメ『[3×3EYES](https://ja.wikipedia.org/wiki/3×3EYES "wikilink")』、『[万能文化猫娘](../Page/万能文化猫娘.md "wikilink")』、『[BLUE SEED](../Page/BLUE_SEED.md "wikilink")』の原作者である[高田裕三](../Page/高田裕三.md "wikilink")が手掛けた。
 
 「秘蔵『林原めぐみお宝ビデオ』」と題された[VHS](../Page/VHS.md "wikilink")テープが付属されていた。なお、2005年3月16日に『[林原めぐみのHeartful Station](../Page/林原めぐみのHeartful_Station.md "wikilink")』の放送700回突破を記念して再発された際に初回限定盤仕様（2枚組プラケース・紙BOX収納仕様）で、「秘蔵『林原めぐみお宝DVD』」と題された[DVD](../Page/DVD.md "wikilink")が付属されている。2003年10月度、ゴールドディスクに認定された。
 
@@ -22,7 +22,7 @@
         作詞：[MEGUMI](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")、作曲：佐藤英敏、編曲：添田啓二
         18thシングル
     <!-- end list -->
-      - テレビアニメ『[ロスト・ユニバース](https://ja.wikipedia.org/wiki/ロスト・ユニバース "wikilink")』オープニングテーマ
+      - テレビアニメ『[ロスト・ユニバース](../Page/ロスト・ユニバース.md "wikilink")』オープニングテーマ
 3.  **[Going History](../Page/Going_History.md "wikilink")** \[4:32\]
       -
         作詞：有森聡美、作曲：佐藤英敏、編曲：小野沢篤
@@ -59,16 +59,16 @@
         22ndシングル『[question at me](https://ja.wikipedia.org/wiki/question_at_me "wikilink")』カップリング
 9.  **[Successful Mission](../Page/Successful_Mission.md "wikilink")** \[4:08\]
       -
-        作詞：MEGUMI、作曲：佐藤英敏、編曲：[矢吹俊郎](https://ja.wikipedia.org/wiki/矢吹俊郎 "wikilink")
+        作詞：MEGUMI、作曲：佐藤英敏、編曲：[矢吹俊郎](../Page/矢吹俊郎.md "wikilink")
         14thシングル
     <!-- end list -->
-      - テレビアニメ『[セイバーマリオネット](https://ja.wikipedia.org/wiki/セイバーマリオネット "wikilink")J』オープニングテーマ
+      - テレビアニメ『[セイバーマリオネット](../Page/セイバーマリオネット.md "wikilink")J』オープニングテーマ
 10. **[Fine colorday](../Page/Fine_colorday.md "wikilink")** \[4:46\]
       -
         作詞：MEGUMI、作曲：佐藤英敏、編曲：添田啓二
         17thシングル
     <!-- end list -->
-      - テレビアニメ『[万能文化猫娘](https://ja.wikipedia.org/wiki/万能文化猫娘 "wikilink")』オープニングテーマ
+      - テレビアニメ『[万能文化猫娘](../Page/万能文化猫娘.md "wikilink")』オープニングテーマ
 11. **Lively Motion** \[4:35\]
       -
         作詞：MEGUMI、作曲：佐藤英敏、編曲：五島翔

@@ -3,7 +3,7 @@
 
 [JXTG_wakayama_petroleum_refinery.jpg](https://ja.wikipedia.org/wiki/File:JXTG_wakayama_petroleum_refinery.jpg "fig:JXTG_wakayama_petroleum_refinery.jpg")  **JXTGエネルギー和歌山製油所**（ジェイエックスティージーエネルギーわかやませいゆじょ）は、[和歌山県](../Page/和歌山県.md "wikilink")[有田市](https://ja.wikipedia.org/wiki/有田市 "wikilink")にある[JXTGエネルギー](https://ja.wikipedia.org/wiki/JXTGエネルギー "wikilink")の[製油所である](../Page/石油精製.md "wikilink")。[東燃ゼネラル石油](../Page/東燃ゼネラル石油.md "wikilink")時代は**和歌山工場**という事業所だった。
 
-[和歌山下津港](https://ja.wikipedia.org/wiki/和歌山下津港 "wikilink")に位置する。[エクソンモービル](../Page/エクソンモービル.md "wikilink")が「[エッソ](https://ja.wikipedia.org/wiki/エッソ "wikilink")」・「[モービル](../Page/モービル_\(ブランド\).md "wikilink")」・「ゼネラル」のブランドで展開する[ガソリンスタンド](../Page/ガソリンスタンド.md "wikilink")に供給する[燃料](../Page/燃料.md "wikilink")油、[潤滑油](../Page/潤滑油.md "wikilink")、[石油化学](../Page/石油化学.md "wikilink")製品を生産している。
+[和歌山下津港](../Page/和歌山下津港.md "wikilink")に位置する。[エクソンモービル](../Page/エクソンモービル.md "wikilink")が「[エッソ](../Page/エッソ.md "wikilink")」・「[モービル](../Page/モービル_\(ブランド\).md "wikilink")」・「ゼネラル」のブランドで展開する[ガソリンスタンド](../Page/ガソリンスタンド.md "wikilink")に供給する[燃料](../Page/燃料.md "wikilink")油、[潤滑油](../Page/潤滑油.md "wikilink")、[石油化学](../Page/石油化学.md "wikilink")製品を生産している。
 
 ## 概要
 
@@ -24,13 +24,13 @@
   - [灯油](../Page/灯油.md "wikilink")
   - [ジェット燃料](../Page/ケロシン.md "wikilink")
   - [軽油](https://ja.wikipedia.org/wiki/軽油 "wikilink")
-  - [A重油](https://ja.wikipedia.org/wiki/A重油 "wikilink")
+  - [A重油](../Page/A重油.md "wikilink")
 
 </div>
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [C重油](https://ja.wikipedia.org/wiki/重油 "wikilink")
+  - [C重油](../Page/重油.md "wikilink")
   - [潤滑油](../Page/潤滑油.md "wikilink")
   - [ベンゼン](../Page/ベンゼン.md "wikilink")
   - [トルエン](https://ja.wikipedia.org/wiki/トルエン "wikilink")
@@ -43,12 +43,12 @@
 
 括弧内は1日あたりの処理能力（2007年4月1日現在）\[3\]
 
-  - [常圧蒸留装置](https://ja.wikipedia.org/wiki/常圧蒸留装置 "wikilink")（170,000バレル）
-  - [減圧蒸留装置](https://ja.wikipedia.org/wiki/減圧蒸留装置 "wikilink")（74,000バレル）
+  - [常圧蒸留装置](../Page/常圧蒸留装置.md "wikilink")（170,000バレル）
+  - [減圧蒸留装置](../Page/減圧蒸留装置.md "wikilink")（74,000バレル）
   - [接触分解](https://ja.wikipedia.org/wiki/接触分解 "wikilink")装置（39,000バレル）
   - [アルキレーション装置](https://ja.wikipedia.org/wiki/アルキレーション装置 "wikilink")（3,600バレル）
-  - [接触改質](https://ja.wikipedia.org/wiki/接触改質 "wikilink")装置（23,000バレル）
-  - [水素化脱硫装置](https://ja.wikipedia.org/wiki/水素化脱硫装置 "wikilink")
+  - [接触改質](../Page/接触改質.md "wikilink")装置（23,000バレル）
+  - [水素化脱硫装置](../Page/水素化脱硫装置.md "wikilink")
       - 分解ガソリン脱硫装置（14,000バレル）
       - 灯軽油脱硫装置（82,000バレル）
       - 間接脱硫装置（32,000バレル）
@@ -56,7 +56,7 @@
 ## 沿革
 
   - [1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink") - **東亜燃料工業和歌山工場**として操業開始。
-  - [1945年](../Page/1945年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink")・[28日](../Page/7月28日.md "wikilink") - [太平洋戦争](https://ja.wikipedia.org/wiki/太平洋戦争 "wikilink")中の[空襲](https://ja.wikipedia.org/wiki/空襲 "wikilink")により壊滅。
+  - [1945年](../Page/1945年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink")・[28日](../Page/7月28日.md "wikilink") - [太平洋戦争](https://ja.wikipedia.org/wiki/太平洋戦争 "wikilink")中の[空襲](../Page/空襲.md "wikilink")により壊滅。
   - [1950年](../Page/1950年.md "wikilink") - 操業再開。
   - [1989年](../Page/1989年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink") - 東亜燃料工業が東燃に社名変更。
   - [2000年](../Page/2000年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink") - 東燃とゼネラル石油が合併し、東燃ゼネラル石油が発足。同社の和歌山工場となる。

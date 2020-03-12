@@ -25,9 +25,9 @@
 
 ### 平日
 
-  - [NSTワイド630](https://ja.wikipedia.org/wiki/NSTワイド630 "wikilink")（1981年4月 - 1984年9月）
+  - [NSTワイド630](../Page/NSTワイド630.md "wikilink")（1981年4月 - 1984年9月）
   - [FNN NSTワイド6:00](../Page/NSTワイド6:00.md "wikilink")（1984年10月 - 1990年9月）
-  - [NSTスーパータイム FNN](https://ja.wikipedia.org/wiki/NSTスーパータイム "wikilink")（1990年10月 - 1997年3月）
+  - [NSTスーパータイム FNN](../Page/NSTスーパータイム.md "wikilink")（1990年10月 - 1997年3月）
   - [FNN NSTニュース555 ザ・ヒューマン](../Page/FNNニュース555_ザ・ヒューマン.md "wikilink")（1997年4月 - 1998年3月）
   - [NSTスーパーニュース FNN](../Page/NSTスーパーニュース.md "wikilink")（1998年4月 - 2015年3月）
   - [NSTみんなのニュース](https://ja.wikipedia.org/wiki/NSTみんなのニュース "wikilink")（2015年4月 - 2018年3月）
@@ -46,10 +46,10 @@
 
 ## 関連項目
 
-  - [FNNニュース・明日の天気](https://ja.wikipedia.org/wiki/FNNニュース・明日の天気 "wikilink")
+  - [FNNニュース・明日の天気](../Page/FNNニュース・明日の天気.md "wikilink")
   - [FNNレインボー発](https://ja.wikipedia.org/wiki/FNNレインボー発 "wikilink")
   - [NSTゴールデンニュース](https://ja.wikipedia.org/wiki/NSTゴールデンニュース "wikilink")
-  - [NST新潟総合テレビ番組一覧](https://ja.wikipedia.org/wiki/NST新潟総合テレビ番組一覧 "wikilink")
+  - [NST新潟総合テレビ番組一覧](../Page/NST新潟総合テレビ番組一覧.md "wikilink")
   - [こんやのニュース](https://ja.wikipedia.org/wiki/こんやのニュース "wikilink")
 
 ## 外部リンク

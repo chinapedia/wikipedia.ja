@@ -5,9 +5,9 @@
 
 ## 概要
 
-[Adobe Premiere等の映像編集ソフトウェアと同様の目的で作られたソフトウェア](https://ja.wikipedia.org/wiki/Adobe_Premiere "wikilink")。[Windows Meで初めて搭載されたが](../Page/Microsoft_Windows_Millennium_Edition.md "wikilink")、当初は機能が乏しく、単に取り込んだ映像をトリミングする程度しかできなかった。[Windows XPでも同ツールは引き継がれたが](../Page/Microsoft_Windows_XP.md "wikilink")、画面上のデザインが多少変わった程度で内容はWindows Meに付帯したものと変わらなかった。Windows Media 9シリーズ開発の一環として登場したバージョン2.0からは、視聴覚効果や[テロップの追加等が可能になり](../Page/スーパーインポーズ_\(映像編集\).md "wikilink")、比較的簡単な動画であれば他のソフトを利用する必要はなくなった。但し、操作性や動画に対しての詳細な設定は限定されているため、高度な映像の制作や編集には適さない。また、PCのスペックにもよるが画像の貼付に関しても非常に制限が厳しく、規定枚数以上になると強制終了する。[フリーズ](../Page/フリーズ.md "wikilink")がたびたび起きるので非常に扱いづらい。ただし、[GUIは他の商用ソフトに比べ直感的に扱いやすく](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")、初めて動画編集を始めようとする人へ向けての配慮が、他の商用ソフトに比べ見られる。たとえば直感的に切り取ったり、そのまま保存できたりというのは、他の多機能ソフトに比べ圧倒的に扱いやすく配慮されている。
+[Adobe Premiere等の映像編集ソフトウェアと同様の目的で作られたソフトウェア](../Page/Adobe_Premiere.md "wikilink")。[Windows Meで初めて搭載されたが](../Page/Microsoft_Windows_Millennium_Edition.md "wikilink")、当初は機能が乏しく、単に取り込んだ映像をトリミングする程度しかできなかった。[Windows XPでも同ツールは引き継がれたが](../Page/Microsoft_Windows_XP.md "wikilink")、画面上のデザインが多少変わった程度で内容はWindows Meに付帯したものと変わらなかった。Windows Media 9シリーズ開発の一環として登場したバージョン2.0からは、視聴覚効果や[テロップの追加等が可能になり](../Page/スーパーインポーズ_\(映像編集\).md "wikilink")、比較的簡単な動画であれば他のソフトを利用する必要はなくなった。但し、操作性や動画に対しての詳細な設定は限定されているため、高度な映像の制作や編集には適さない。また、PCのスペックにもよるが画像の貼付に関しても非常に制限が厳しく、規定枚数以上になると強制終了する。[フリーズ](../Page/フリーズ.md "wikilink")がたびたび起きるので非常に扱いづらい。ただし、[GUIは他の商用ソフトに比べ直感的に扱いやすく](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")、初めて動画編集を始めようとする人へ向けての配慮が、他の商用ソフトに比べ見られる。たとえば直感的に切り取ったり、そのまま保存できたりというのは、他の多機能ソフトに比べ圧倒的に扱いやすく配慮されている。
 
-読み込み形式は[WMAや](https://ja.wikipedia.org/wiki/Windows_Media_Audio "wikilink")[WMV形式の他に](https://ja.wikipedia.org/wiki/Windows_Media_Video "wikilink")、既存の[AVI](https://ja.wikipedia.org/wiki/Audio_Video_Interleave "wikilink")、[BMP](../Page/Windows_bitmap.md "wikilink")、[JPEG](../Page/JPEG.md "wikilink")、[GIF](../Page/Graphics_Interchange_Format.md "wikilink")、[MPEG](../Page/Moving_Picture_Experts_Group.md "wikilink")（要対応[コーデック](../Page/コーデック.md "wikilink")）、[WAV](https://ja.wikipedia.org/wiki/WAV "wikilink")形式などが利用できる。書き出すファイル形式はWMV形式もしくはDVコーデックのAVI形式のみに限られているが、動画の品質設定が行えるため、ローカルコンピュータ内での鑑賞であれば高画質に、[電子メール](../Page/電子メール.md "wikilink")や[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")上での公開であれば低画質に指定するなど、目的に応じた選択ができる。[DV接続にも対応し](https://ja.wikipedia.org/wiki/DV端子 "wikilink")、[IEEE 1394経由で接続した](../Page/IEEE_1394.md "wikilink")[ビデオカメラ](../Page/ビデオカメラ.md "wikilink")から映像を取り込むことも可能。 現在は[MP4](https://ja.wikipedia.org/wiki/MP4 "wikilink")形式出力にも対応し、最高50Mbpsでの出力ができる。音声は192kbpsまでに限られている。
+読み込み形式は[WMAや](../Page/Windows_Media_Audio.md "wikilink")[WMV形式の他に](../Page/Windows_Media_Video.md "wikilink")、既存の[AVI](../Page/Audio_Video_Interleave.md "wikilink")、[BMP](../Page/Windows_bitmap.md "wikilink")、[JPEG](../Page/JPEG.md "wikilink")、[GIF](../Page/Graphics_Interchange_Format.md "wikilink")、[MPEG](../Page/Moving_Picture_Experts_Group.md "wikilink")（要対応[コーデック](../Page/コーデック.md "wikilink")）、[WAV](../Page/WAV.md "wikilink")形式などが利用できる。書き出すファイル形式はWMV形式もしくはDVコーデックのAVI形式のみに限られているが、動画の品質設定が行えるため、ローカルコンピュータ内での鑑賞であれば高画質に、[電子メール](../Page/電子メール.md "wikilink")や[インターネット](../Page/インターネット.md "wikilink")上での公開であれば低画質に指定するなど、目的に応じた選択ができる。[DV接続にも対応し](https://ja.wikipedia.org/wiki/DV端子 "wikilink")、[IEEE 1394経由で接続した](../Page/IEEE_1394.md "wikilink")[ビデオカメラ](../Page/ビデオカメラ.md "wikilink")から映像を取り込むことも可能。 現在は[MP4](../Page/MP4.md "wikilink")形式出力にも対応し、最高50Mbpsでの出力ができる。音声は192kbpsまでに限られている。
 
 ムービーメーカー 2 が登場した当初は単独のインストーラが公開されていたが、2.1ではWindows XP Service Pack 2 と同梱する形態を取ったため、単独で入手するには収録CDを購入する必要がある。
 
@@ -67,10 +67,10 @@
 
 ## 関連項目
 
-  - [ノンリニア編集](https://ja.wikipedia.org/wiki/ノンリニア編集 "wikilink")
+  - [ノンリニア編集](../Page/ノンリニア編集.md "wikilink")
   - [映像編集](../Page/映像編集.md "wikilink")
   - [スーパー (映像編集)](../Page/スーパーインポーズ_\(映像編集\).md "wikilink")
-  - [Windows Media Player](https://ja.wikipedia.org/wiki/Windows_Media_Player "wikilink")
+  - [Windows Media Player](../Page/Windows_Media_Player.md "wikilink")
   - [デジタルビデオカメラ](https://ja.wikipedia.org/wiki/デジタルビデオカメラ "wikilink")
   - [3Dムービーメーカー](https://ja.wikipedia.org/wiki/3Dムービーメーカー "wikilink")
 

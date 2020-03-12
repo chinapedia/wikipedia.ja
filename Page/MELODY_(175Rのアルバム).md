@@ -28,7 +28,7 @@
 11. **五月色**
 12. **[ORANGE feat.MCU](https://ja.wikipedia.org/wiki/ORANGE_\(175Rの曲\) "wikilink")**
       -
-        [MCUとのコラボレーション楽曲](https://ja.wikipedia.org/wiki/MCU_\(ラッパー\) "wikilink")。後に6thシングルとしてカット。
+        [MCUとのコラボレーション楽曲](../Page/MCU_\(ラッパー\).md "wikilink")。後に6thシングルとしてカット。
 13. **あの日あの夜　僕を照らしていた月の光**
 14. **My life Your melody**
 

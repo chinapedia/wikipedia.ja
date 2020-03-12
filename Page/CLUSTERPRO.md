@@ -5,7 +5,7 @@
 
 ## 機能概要
 
-[Linux](../Page/Linux.md "wikilink"),[Solaris](../Page/Solaris.md "wikilink")及び[WindowsNT系OSにおいて](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、各種アプリケーションを簡易なシェルによってラッピングし、クラスタ対応アプリケーションとして動作させる事が可能な高可用クラスターパッケージ。一般的なディスクハートビートと、その資源確保によるサバイバルノードの決定プリミィティブ（ロックディスク)を採用しており、確実な[スプリットブレインシンドローム](https://ja.wikipedia.org/wiki/スプリットブレインシンドローム "wikilink")を抑止する機能を持つ。
+[Linux](../Page/Linux.md "wikilink"),[Solaris](../Page/Solaris.md "wikilink")及び[WindowsNT系OSにおいて](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、各種アプリケーションを簡易なシェルによってラッピングし、クラスタ対応アプリケーションとして動作させる事が可能な高可用クラスターパッケージ。一般的なディスクハートビートと、その資源確保によるサバイバルノードの決定プリミィティブ（ロックディスク)を採用しており、確実な[スプリットブレインシンドローム](../Page/スプリットブレインシンドローム.md "wikilink")を抑止する機能を持つ。
 
 ## 経緯
 
@@ -17,7 +17,7 @@
 
 その動きの中で、MC-SAVERでの実装技術やMC/ServiceGuardでの運用経験などのオープンシステムの高可用ノウハウ(例えばデータベースやアプリケーションサーバを管理するエージェントをオプション提供)が取り込まれ、非常に競争力のあるパッケージとして実績を積み上げている。
 
-元々、NECの自社ブランドサーバである[Express5800](https://ja.wikipedia.org/wiki/Express5800 "wikilink")シリーズでの動作をサポートしていたが、[日立製作所](../Page/日立製作所.md "wikilink")/[三菱電機](../Page/三菱電機.md "wikilink")/[日本IBM](https://ja.wikipedia.org/wiki/日本IBM "wikilink")/[DELL](https://ja.wikipedia.org/wiki/DELL "wikilink")/[EMCといった他大手HWベンダがOEMにて販売しており](https://ja.wikipedia.org/wiki/EMCコーポレーション "wikilink")、金融系でのLinuxクラスタパッケージの主流となっている。 この中で、日本IBMと日立は東芝の[ClusterPerfect](https://ja.wikipedia.org/wiki/ClusterPerfect "wikilink")と[サイオステクノロジー](../Page/サイオステクノロジー.md "wikilink")（旧スチールアイテクノロジー）の[LifeKeeper](https://ja.wikipedia.org/wiki/LifeKeeper "wikilink")との並列したマルチOEM体制で販売している。
+元々、NECの自社ブランドサーバである[Express5800](../Page/Express5800.md "wikilink")シリーズでの動作をサポートしていたが、[日立製作所](../Page/日立製作所.md "wikilink")/[三菱電機](../Page/三菱電機.md "wikilink")/[日本IBM](https://ja.wikipedia.org/wiki/日本IBM "wikilink")/[DELL](https://ja.wikipedia.org/wiki/DELL "wikilink")/[EMCといった他大手HWベンダがOEMにて販売しており](https://ja.wikipedia.org/wiki/EMCコーポレーション "wikilink")、金融系でのLinuxクラスタパッケージの主流となっている。 この中で、日本IBMと日立は東芝の[ClusterPerfect](https://ja.wikipedia.org/wiki/ClusterPerfect "wikilink")と[サイオステクノロジー](../Page/サイオステクノロジー.md "wikilink")（旧スチールアイテクノロジー）の[LifeKeeper](https://ja.wikipedia.org/wiki/LifeKeeper "wikilink")との並列したマルチOEM体制で販売している。
 
 そのため、日本国内では高可用クラスターパッケージとして、大きなシェアを確保している。
 
@@ -32,7 +32,7 @@
 
 ## 関連項目
 
-  - [密結合クラスター](https://ja.wikipedia.org/wiki/密結合クラスター "wikilink")
+  - [密結合クラスター](../Page/密結合クラスター.md "wikilink")
   - [コンピュータ・クラスター](../Page/コンピュータ・クラスター.md "wikilink")
 
 ## 外部リンク

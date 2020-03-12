@@ -5,7 +5,7 @@
 
 ## 内容
 
-サウンドプロデュースは[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")、[佐藤宣彦](https://ja.wikipedia.org/wiki/佐藤宣彦 "wikilink")、[横関敦](https://ja.wikipedia.org/wiki/横関敦 "wikilink")、[小幡洋子](https://ja.wikipedia.org/wiki/小幡洋子 "wikilink")などを手がける[月光恵亮](https://ja.wikipedia.org/wiki/月光恵亮 "wikilink")。このバンドのアルバムの中では、一番長いタイトルである。
+サウンドプロデュースは[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")、[佐藤宣彦](https://ja.wikipedia.org/wiki/佐藤宣彦 "wikilink")、[横関敦](https://ja.wikipedia.org/wiki/横関敦 "wikilink")、[小幡洋子](../Page/小幡洋子.md "wikilink")などを手がける[月光恵亮](https://ja.wikipedia.org/wiki/月光恵亮 "wikilink")。このバンドのアルバムの中では、一番長いタイトルである。
 
 ## 批評
 
@@ -48,7 +48,7 @@ CDジャーナルは「ポップな感覚を持つオーソドックスなハー
 
 ## 関連項目
 
-  - [1984年の音楽](https://ja.wikipedia.org/wiki/1984年の音楽 "wikilink")
+  - [1984年の音楽](../Page/1984年の音楽.md "wikilink")
   - [ビーイング](../Page/ビーイング.md "wikilink")
 
 [Category:1984年のアルバム](https://ja.wikipedia.org/wiki/Category:1984年のアルバム "wikilink") [Category:Blizardのアルバム](https://ja.wikipedia.org/wiki/Category:Blizardのアルバム "wikilink") [Category:ワーナーミュージック・ジャパンのアルバム](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのアルバム "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")

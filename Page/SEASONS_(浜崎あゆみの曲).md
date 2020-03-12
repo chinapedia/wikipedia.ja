@@ -5,30 +5,30 @@
 
 ## 解説
 
-「[vogue](https://ja.wikipedia.org/wiki/vogue_\(浜崎あゆみの曲\) "wikilink")」「[Far away](https://ja.wikipedia.org/wiki/Far_away_\(浜崎あゆみの曲\) "wikilink")」と続き、それから1ヶ月足らずでのリリースとなった「絶望3部作」の3作目にあたるシングル\[2\]。
+「[vogue](https://ja.wikipedia.org/wiki/vogue_\(浜崎あゆみの曲\) "wikilink")」「[Far away](../Page/Far_away_\(浜崎あゆみの曲\).md "wikilink")」と続き、それから1ヶ月足らずでのリリースとなった「絶望3部作」の3作目にあたるシングル\[2\]。
 
-[オリコン週間シングルチャートで](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")2週連続1位となり、10thシングル「[A](https://ja.wikipedia.org/wiki/A_\(シングル\) "wikilink")」、9thシングル「[Boys & Girls](https://ja.wikipedia.org/wiki/Boys_&_Girls_\(浜崎あゆみの曲\) "wikilink")」に続き、自身3作目のミリオンセラーとなった。累計136.7万枚を売り上げ、自身最大のヒットシングルとなった「A」に続き2番目に高い売上を記録した\[3\]。自身の代表曲の一つとなっている。
+[オリコン週間シングルチャートで](../Page/オリコンチャート.md "wikilink")2週連続1位となり、10thシングル「[A](../Page/A_\(シングル\).md "wikilink")」、9thシングル「[Boys & Girls](../Page/Boys_&_Girls_\(浜崎あゆみの曲\).md "wikilink")」に続き、自身3作目のミリオンセラーとなった。累計136.7万枚を売り上げ、自身最大のヒットシングルとなった「A」に続き2番目に高い売上を記録した\[3\]。自身の代表曲の一つとなっている。
 
 2000年の年間シングルCD売上ランキングにおいて5位を記録。『[第42回日本レコード大賞](https://ja.wikipedia.org/wiki/第42回日本レコード大賞 "wikilink")』において優秀作品賞及び作詩賞を受賞した\[4\]。
 
-2000年[7月12日](../Page/7月12日.md "wikilink")に、3部作の[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")等を収めた「[vogue Far away SEASONS](https://ja.wikipedia.org/wiki/vogue_Far_away_SEASONS "wikilink")」が発売された。
+2000年[7月12日](../Page/7月12日.md "wikilink")に、3部作の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")等を収めた「[vogue Far away SEASONS](https://ja.wikipedia.org/wiki/vogue_Far_away_SEASONS "wikilink")」が発売された。
 
 [日本音楽著作権協会](../Page/日本音楽著作権協会.md "wikilink")（JASRAC）の著作権使用料分配額（国内作品）ランキングでは、[2000年](../Page/2000年.md "wikilink")度の年間2位\[5\]（2001年JASRAC賞銀賞\[6\]）、[2001年](../Page/2001年.md "wikilink")度の年間8位\[7\]を獲得した。
 
-[2017年](../Page/2017年.md "wikilink")[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink")に[GACKT](https://ja.wikipedia.org/wiki/GACKT "wikilink")が「[ネスカフェ](https://ja.wikipedia.org/wiki/ネスカフェ "wikilink") ドルチェ グスト」累計販売台数200万台突破を記念し、本楽曲のカバーをミュージック・ビデオのみで公開した\[8\]\[9\]。
+[2017年](../Page/2017年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")に[GACKT](https://ja.wikipedia.org/wiki/GACKT "wikilink")が「[ネスカフェ](../Page/ネスカフェ.md "wikilink") ドルチェ グスト」累計販売台数200万台突破を記念し、本楽曲のカバーをミュージック・ビデオのみで公開した\[8\]\[9\]。
 
 ## 収録曲
 
 ### CD
 
-全曲[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：ayumi hamasaki
+全曲[作詞](../Page/作詞.md "wikilink")：ayumi hamasaki
 
 1.  **SEASONS "Original Mix"**
       -
-        [作曲](../Page/作曲.md "wikilink")：[D・A・I](https://ja.wikipedia.org/wiki/長尾大 "wikilink") / [編曲](../Page/編曲.md "wikilink")：[Naoto Suzuki](https://ja.wikipedia.org/wiki/鈴木直人_\(音楽プロデューサー\) "wikilink")
-        [フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[天気予報の恋人](../Page/天気予報の恋人.md "wikilink")』[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")
+        [作曲](../Page/作曲.md "wikilink")：[D・A・I](../Page/長尾大.md "wikilink") / [編曲](../Page/編曲.md "wikilink")：[Naoto Suzuki](https://ja.wikipedia.org/wiki/鈴木直人_\(音楽プロデューサー\) "wikilink")
+        [フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[天気予報の恋人](../Page/天気予報の恋人.md "wikilink")』[主題歌](../Page/主題歌.md "wikilink")
 2.  **SEASONS "Acoustic Orchestra Version"**
-3.  **[TO BE](https://ja.wikipedia.org/wiki/TO_BE "wikilink") "Acoustic Orchestra Version"**
+3.  **[TO BE](../Page/TO_BE.md "wikilink") "Acoustic Orchestra Version"**
       -
         フジテレビ系ドラマ『天気予報の恋人』[挿入歌](https://ja.wikipedia.org/wiki/挿入歌 "wikilink")
 4.  **SEASONS "so happy so sad mix"**
@@ -37,10 +37,10 @@
 7.  **SEASONS "Neutralize:Final Attack Mix"**
 8.  **SEASONS "D-Z BLUE SUNBEAM MIX"**
       -
-        [コーセー](../Page/コーセー.md "wikilink")「VISEE（ヴィセ）偏光編」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
+        [コーセー](../Page/コーセー.md "wikilink")「VISEE（ヴィセ）偏光編」[CMソング](../Page/コマーシャルソング.md "wikilink")
 9.  **SEASONS "Dub's Rain of duv Remix"**
 10. **SEASONS "Original Mix -Instrumental-"**
-11. **[ever free](https://ja.wikipedia.org/wiki/vogue_\(浜崎あゆみの曲\) "wikilink") "[HΛL](https://ja.wikipedia.org/wiki/HΛL "wikilink")'S MIX 2000"**
+11. **[ever free](https://ja.wikipedia.org/wiki/vogue_\(浜崎あゆみの曲\) "wikilink") "[HΛL](../Page/HΛL.md "wikilink")'S MIX 2000"**
 
 ### DVD-Audio
 
@@ -57,12 +57,12 @@
 ## 収録アルバム
 
   - **SEASONS**
-      - 『[Duty](https://ja.wikipedia.org/wiki/Duty "wikilink")』
-      - 『[A BEST](https://ja.wikipedia.org/wiki/A_BEST "wikilink")』
-      - 『[A BALLADS](https://ja.wikipedia.org/wiki/A_BALLADS "wikilink")』(2003 ReBirth Mix)
+      - 『[Duty](../Page/Duty.md "wikilink")』
+      - 『[A BEST](../Page/A_BEST.md "wikilink")』
+      - 『[A BALLADS](../Page/A_BALLADS.md "wikilink")』(2003 ReBirth Mix)
       - 『[A COMPLETE 〜ALL SINGLES〜](https://ja.wikipedia.org/wiki/A_COMPLETE_〜ALL_SINGLES〜 "wikilink")』
       - 『[A SUMMER BEST](https://ja.wikipedia.org/wiki/A_SUMMER_BEST "wikilink")』
-      - 『[A THEME SONGS -Drama edition-](https://ja.wikipedia.org/wiki/A_THEME_SONGS_-Drama_edition- "wikilink")』（配信限定）\[10\]
+      - 『[A THEME SONGS -Drama edition-](../Page/A_THEME_SONGS_-Drama_edition-.md "wikilink")』（配信限定）\[10\]
       - 『[A BEST -15th Anniversary Edition-](https://ja.wikipedia.org/wiki/A_BEST#A_BEST_-15th_Anniversary_Edition- "wikilink")』
 
 ## 脚注

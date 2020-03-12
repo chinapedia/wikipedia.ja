@@ -1,14 +1,14 @@
 > この記事は[KJ1 FTO](https://ja.wikipedia.org/wiki/KJ1_FTO)から翻訳されています。
 
 
-『**KJ1 F・T・O**』（ケージェーワン エフ・ティー・オー）は、[関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")の1枚目の[フル・アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月15日](../Page/3月15日.md "wikilink")に[テイチクレコードから発売された](https://ja.wikipedia.org/wiki/テイチクエンタテインメント#レーベル "wikilink")。
+『**KJ1 F・T・O**』（ケージェーワン エフ・ティー・オー）は、[関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")の1枚目の[フル・アルバム](../Page/スタジオ・アルバム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")に[テイチクレコードから発売された](https://ja.wikipedia.org/wiki/テイチクエンタテインメント#レーベル "wikilink")。
 
 ## 概要
 
-  - 自身初となる[フル・アルバムである](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")\[1\]。
-  - [内博貴](https://ja.wikipedia.org/wiki/内博貴 "wikilink")が脱退し、7人体制になって以降、初のアルバムである。
+  - 自身初となる[フル・アルバムである](../Page/スタジオ・アルバム.md "wikilink")\[1\]。
+  - [内博貴](../Page/内博貴.md "wikilink")が脱退し、7人体制になって以降、初のアルバムである。
   - CDは初回限定盤、通常盤の2形態で発売。
-  - シングル曲「[大阪レイニーブルース](https://ja.wikipedia.org/wiki/大阪レイニーブルース "wikilink")」、「[好きやねん、大阪。/桜援歌(Oh\!ENKA)/無限大](https://ja.wikipedia.org/wiki/好きやねん、大阪。/桜援歌\(Oh!ENKA\)/無限大 "wikilink")」を含む全14曲\[2\]を収録。
+  - シングル曲「[大阪レイニーブルース](../Page/大阪レイニーブルース.md "wikilink")」、「[好きやねん、大阪。/桜援歌(Oh\!ENKA)/無限大](https://ja.wikipedia.org/wiki/好きやねん、大阪。/桜援歌\(Oh!ENKA\)/無限大 "wikilink")」を含む全14曲\[2\]を収録。
   - タイトルは『ファンキー・タウン・オオサカ（**F**unky **T**own **O**saka）』という意を含んでいる。尚、本アルバムの収録曲「F・T・O」の歌詞に「Funky Town Osaka」が含まれている。
   - 初回限定盤の特典DVDには、「裏Spirits\!\!」と題し、2nd LIVE DVD『[Spirits\!\!](https://ja.wikipedia.org/wiki/Spirits!! "wikilink")』のバックステージを収録。
   - 通常盤初回プレスには、同グループ内のユニット、[三兄弟の初のCDや](https://ja.wikipedia.org/wiki/関ジャニ∞#グループ内のユニット "wikilink")、三兄弟のオリジナルジャケットを封入。
@@ -23,7 +23,7 @@
 
         <div class="NavContent" style="text-align: left;font-size:small;">
 
-        作詞・作曲：[樋口了一](https://ja.wikipedia.org/wiki/樋口了一 "wikilink")　編曲：[CHOKKAKU](https://ja.wikipedia.org/wiki/CHOKKAKU "wikilink")
+        作詞・作曲：[樋口了一](https://ja.wikipedia.org/wiki/樋口了一 "wikilink")　編曲：[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")
 
         </div>
     <!-- end list -->
@@ -39,7 +39,7 @@
 
         <div class="NavContent" style="text-align: left;font-size:small;">
 
-        作詞：MASA　作曲・編曲：[馬飼野康二](https://ja.wikipedia.org/wiki/馬飼野康二 "wikilink")
+        作詞：MASA　作曲・編曲：[馬飼野康二](../Page/馬飼野康二.md "wikilink")
 
         </div>
 3.  **[大阪ロマネスク](https://ja.wikipedia.org/wiki/∞SAKAおばちゃんROCK/大阪ロマネスク "wikilink")**
@@ -60,7 +60,7 @@
         後に2ndベストアルバム『[GR8EST](https://ja.wikipedia.org/wiki/GR8EST "wikilink")』に新録バージョンが収録された。
 
         </div>
-4.  **太陽の子供** - [横山裕](https://ja.wikipedia.org/wiki/横山裕 "wikilink")・[村上信五](https://ja.wikipedia.org/wiki/村上信五 "wikilink")・[丸山隆平](https://ja.wikipedia.org/wiki/丸山隆平 "wikilink")・[大倉忠義](https://ja.wikipedia.org/wiki/大倉忠義 "wikilink")
+4.  **太陽の子供** - [横山裕](../Page/横山裕.md "wikilink")・[村上信五](../Page/村上信五.md "wikilink")・[丸山隆平](../Page/丸山隆平.md "wikilink")・[大倉忠義](../Page/大倉忠義.md "wikilink")
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -100,12 +100,12 @@
         3rdシングルの3曲目のアルバムアレンジバージョン
 
         </div>
-7.  **果テナキ空** - [安田章大](https://ja.wikipedia.org/wiki/安田章大 "wikilink")・[錦戸亮](https://ja.wikipedia.org/wiki/錦戸亮 "wikilink")
+7.  **果テナキ空** - [安田章大](../Page/安田章大.md "wikilink")・[錦戸亮](../Page/錦戸亮.md "wikilink")
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
 
-        作詞：[久保田洋司](https://ja.wikipedia.org/wiki/久保田洋司 "wikilink")　作曲：飯田建彦　編曲：長岡成貢
+        作詞：[久保田洋司](../Page/久保田洋司.md "wikilink")　作曲：飯田建彦　編曲：長岡成貢
 
         </div>
 8.  **Heat is on**
@@ -166,7 +166,7 @@
         編曲：すばるBAND
 
         </div>
-13. **[大阪レイニーブルース](https://ja.wikipedia.org/wiki/大阪レイニーブルース "wikilink")**［ver.KJ1］
+13. **[大阪レイニーブルース](../Page/大阪レイニーブルース.md "wikilink")**［ver.KJ1］
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -187,7 +187,7 @@
 
         <div class="NavContent" style="text-align: left;font-size:small;">
 
-        シングルとは違い、[渋谷すばる](https://ja.wikipedia.org/wiki/渋谷すばる "wikilink")のソロで始まり、[内博貴](https://ja.wikipedia.org/wiki/内博貴 "wikilink")のソロパートがすべて[錦戸亮](https://ja.wikipedia.org/wiki/錦戸亮 "wikilink")に差し変わっている。
+        シングルとは違い、[渋谷すばる](https://ja.wikipedia.org/wiki/渋谷すばる "wikilink")のソロで始まり、[内博貴](../Page/内博貴.md "wikilink")のソロパートがすべて[錦戸亮](../Page/錦戸亮.md "wikilink")に差し変わっている。
 
         </div>
 14. **[好きやねん、大阪。](https://ja.wikipedia.org/wiki/好きやねん、大阪。/桜援歌\(Oh!ENKA\)/無限大 "wikilink")**
@@ -232,7 +232,7 @@
 
         <div class="NavContent" style="text-align: left;font-size:small;">
 
-        作詞：[ユウ](https://ja.wikipedia.org/wiki/横山裕 "wikilink")　作曲：[チパ](https://ja.wikipedia.org/wiki/安田章大 "wikilink")
+        作詞：[ユウ](../Page/横山裕.md "wikilink")　作曲：[チパ](../Page/安田章大.md "wikilink")
 
         </div>
 2.  **オニギシ** - 三兄弟
@@ -254,18 +254,18 @@
 
 ## メンバー作
 
-  - [安田章大](https://ja.wikipedia.org/wiki/安田章大 "wikilink")
+  - [安田章大](../Page/安田章大.md "wikilink")
       - 「ミセテクレ」(RAP詞)
       - 「ONE」(作曲・編曲)\[3\]
       - 「プリン」(作曲)\[4\]\[5\]
       - 「オニギシ」(作曲)\[6\]\[7\]
   - [渋谷すばる](https://ja.wikipedia.org/wiki/渋谷すばる "wikilink")
       - 「ONE」(作詞・編曲)\[8\]\[9\]
-  - [丸山隆平](https://ja.wikipedia.org/wiki/丸山隆平 "wikilink")
+  - [丸山隆平](../Page/丸山隆平.md "wikilink")
       - 「ONE」(編曲)\[10\]
-  - [大倉忠義](https://ja.wikipedia.org/wiki/大倉忠義 "wikilink")
+  - [大倉忠義](../Page/大倉忠義.md "wikilink")
       - 「ONE」(編曲)\[11\]
-  - [横山裕](https://ja.wikipedia.org/wiki/横山裕 "wikilink")
+  - [横山裕](../Page/横山裕.md "wikilink")
       - 「プリン」(作詞)\[12\]\[13\]
       - 「オニギシ」(作詞)\[14\]\[15\]
 
@@ -274,9 +274,9 @@
 ※アルバムクレジットより
 
   - 「ONE」(すばるBAND)
-      - Drums : [大倉忠義](https://ja.wikipedia.org/wiki/大倉忠義 "wikilink")
-      - Bass : [丸山隆平](https://ja.wikipedia.org/wiki/丸山隆平 "wikilink")
-      - E.Guitar : [安田章大](https://ja.wikipedia.org/wiki/安田章大 "wikilink")
+      - Drums : [大倉忠義](../Page/大倉忠義.md "wikilink")
+      - Bass : [丸山隆平](../Page/丸山隆平.md "wikilink")
+      - E.Guitar : [安田章大](../Page/安田章大.md "wikilink")
 
 ## 脚注
 

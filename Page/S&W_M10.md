@@ -5,7 +5,7 @@
 
 ## 設計
 
-本銃は、S\&W社の.38口径リボルバーの[メインストリーム](https://ja.wikipedia.org/wiki/メインストリーム "wikilink")として、順次に改良を重ねつつ、19世紀から21世紀という長期にわたって多数が生産されている。いずれもKフレームに基いて設計され、シリンダーは長の6連発、トリガーメカニズムは[シングルアクション](../Page/シングルアクション.md "wikilink")と[ダブルアクション](https://ja.wikipedia.org/wiki/ダブルアクション "wikilink")の両用である。 [thumb](https://ja.wikipedia.org/wiki/ファイル:S&W_M&P_Hand_Ejector_1899_model.jpg "wikilink")
+本銃は、S\&W社の.38口径リボルバーの[メインストリーム](https://ja.wikipedia.org/wiki/メインストリーム "wikilink")として、順次に改良を重ねつつ、19世紀から21世紀という長期にわたって多数が生産されている。いずれもKフレームに基いて設計され、シリンダーは長の6連発、トリガーメカニズムは[シングルアクション](../Page/シングルアクション.md "wikilink")と[ダブルアクション](../Page/ダブルアクション.md "wikilink")の両用である。 [thumb](https://ja.wikipedia.org/wiki/ファイル:S&W_M&P_Hand_Ejector_1899_model.jpg "wikilink")
 
 ### 1899年式
 
@@ -45,9 +45,9 @@
 
 ### 素材による差異
 
-通常のM10は[炭素鋼](https://ja.wikipedia.org/wiki/炭素鋼 "wikilink")製であるが素材のバリエーションが存在する。
+通常のM10は[炭素鋼](../Page/炭素鋼.md "wikilink")製であるが素材のバリエーションが存在する。
 
-#### [アルミニウム製](https://ja.wikipedia.org/wiki/アルミニウム合金 "wikilink")
+#### [アルミニウム製](../Page/アルミニウム合金.md "wikilink")
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:My_.38_SPL_S_&_W_model_12-2_\(5\).jpg "wikilink")
 
@@ -73,7 +73,7 @@
 
 #### .22LR
 
-**M17**は、上記のM14を.22[口径](../Page/口径.md "wikilink")にした[拳銃](../Page/拳銃.md "wikilink")である。このM17を[短銃身化したものがM](https://ja.wikipedia.org/wiki/銃砲身 "wikilink")18であり、どちらも使用[弾薬](https://ja.wikipedia.org/wiki/弾薬 "wikilink")は[.22LR弾である](https://ja.wikipedia.org/wiki/.22ロングライフル弾 "wikilink")。
+**M17**は、上記のM14を.22[口径](../Page/口径.md "wikilink")にした[拳銃](../Page/拳銃.md "wikilink")である。このM17を[短銃身化したものがM](https://ja.wikipedia.org/wiki/銃砲身 "wikilink")18であり、どちらも使用[弾薬](../Page/弾薬.md "wikilink")は[.22LR弾である](https://ja.wikipedia.org/wiki/.22ロングライフル弾 "wikilink")。
 
 なお、近年ではM17をベースにした10連発の.22口径カスタム[リボルバーが](../Page/回転式拳銃.md "wikilink")[アメリカでの射撃競技に使われている](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。
 
@@ -85,7 +85,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:S&WMod13.jpg "wikilink")
 
-**M13**は、M10のヘビーバレルバージョンをベースに回転[弾倉](https://ja.wikipedia.org/wiki/弾倉 "wikilink")を延長し、フレームを熱処理強化して[.357マグナム弾](https://ja.wikipedia.org/wiki/.357マグナム弾 "wikilink")に対応させた[拳銃](../Page/拳銃.md "wikilink")である。1955年に登場したM10と同じKフレームを使用しながら.357マグナム弾が発射できる[M19がFBI捜査官の間でも好評だったことから](https://ja.wikipedia.org/wiki/S&W_M19 "wikilink")、1974年から製造された。
+**M13**は、M10のヘビーバレルバージョンをベースに回転[弾倉](../Page/弾倉.md "wikilink")を延長し、フレームを熱処理強化して[.357マグナム弾](https://ja.wikipedia.org/wiki/.357マグナム弾 "wikilink")に対応させた[拳銃](../Page/拳銃.md "wikilink")である。1955年に登場したM10と同じKフレームを使用しながら.357マグナム弾が発射できる[M19がFBI捜査官の間でも好評だったことから](../Page/S&W_M19.md "wikilink")、1974年から製造された。
 
 [1990年代](../Page/1990年代.md "wikilink")までM10の3インチモデルと共に[FBIに制式採用されていたことから](../Page/連邦捜査局.md "wikilink")「FBIスペシャル」の愛称があり、[ステンレスモデルは特に](../Page/ステンレス鋼.md "wikilink")**M65**と呼ばれる。なお、ステンレスモデルのM65は1972年から製造のため、ベースになったM10や製造のきっかけになったM19とは逆にステンレスモデルから製造が開始された。 基本的に3インチモデルは公的機関のみの販売であるが、4インチモデルは[アメリカでは民間向けのスポーツ射撃用拳銃としても販売されていた](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。他にも圧縮空気を使うS\&W M13コンプレスエアなどもあった。
 
@@ -93,9 +93,9 @@ M13は1998年に、M65は2004年に生産終了となった。
 
 ## 運用史
 
-「ミリタリー&ポリス」の名のとおり世界各国の[軍隊](../Page/軍隊.md "wikilink")や[警察](https://ja.wikipedia.org/wiki/警察 "wikilink")において広く使われ、現代[リボルバーの原点となった](../Page/回転式拳銃.md "wikilink")[拳銃](../Page/拳銃.md "wikilink")である。[アメリカの警察では](../Page/アメリカ合衆国の警察.md "wikilink")、犯罪の凶悪化に伴って装弾数が多い[自動拳銃](https://ja.wikipedia.org/wiki/自動拳銃 "wikilink")が主流となり、本銃を含めたリボルバーは使われなくなっているが、現在でも[香港の警察](../Page/香港の警察.md "wikilink")などでは現役である。[日本の警察](../Page/日本の警察.md "wikilink")でも[1949年](../Page/1949年.md "wikilink")より戦前の生産品や[ビクトリーモデルの貸与を受けて装備化しており](https://ja.wikipedia.org/wiki/#ビクトリーモデル "wikilink")（のちに譲渡に切替）、[ニューナンブM60](../Page/ニューナンブM60.md "wikilink")や[S\&W M37 エアーウェイト](https://ja.wikipedia.org/wiki/S&W_M37 "wikilink")、[サクラM360Jといった新規購入銃が増勢しているとはいえ](https://ja.wikipedia.org/wiki/S&W_M360#SAKURA_M360J "wikilink")、[2000年代](../Page/2000年代.md "wikilink")に入っても引き続き用いられているのが確認されている。
+「ミリタリー&ポリス」の名のとおり世界各国の[軍隊](../Page/軍隊.md "wikilink")や[警察](../Page/警察.md "wikilink")において広く使われ、現代[リボルバーの原点となった](../Page/回転式拳銃.md "wikilink")[拳銃](../Page/拳銃.md "wikilink")である。[アメリカの警察では](../Page/アメリカ合衆国の警察.md "wikilink")、犯罪の凶悪化に伴って装弾数が多い[自動拳銃](https://ja.wikipedia.org/wiki/自動拳銃 "wikilink")が主流となり、本銃を含めたリボルバーは使われなくなっているが、現在でも[香港の警察](../Page/香港の警察.md "wikilink")などでは現役である。[日本の警察](../Page/日本の警察.md "wikilink")でも[1949年](../Page/1949年.md "wikilink")より戦前の生産品や[ビクトリーモデルの貸与を受けて装備化しており](https://ja.wikipedia.org/wiki/#ビクトリーモデル "wikilink")（のちに譲渡に切替）、[ニューナンブM60](../Page/ニューナンブM60.md "wikilink")や[S\&W M37 エアーウェイト](https://ja.wikipedia.org/wiki/S&W_M37 "wikilink")、[サクラM360Jといった新規購入銃が増勢しているとはいえ](https://ja.wikipedia.org/wiki/S&W_M360#SAKURA_M360J "wikilink")、[2000年代](../Page/2000年代.md "wikilink")に入っても引き続き用いられているのが確認されている。
 
-[ナチス](https://ja.wikipedia.org/wiki/ナチス "wikilink")の政治家、[ヘルマン・ゲーリング](../Page/ヘルマン・ゲーリング.md "wikilink")もミリタリー&ポリスを愛用していた。ゲーリングが所有していた拳銃は文様入り[ルガーP08](../Page/ルガーP08.md "wikilink")が知られているが、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")前に[ハンブルク](../Page/ハンブルク.md "wikilink")でミリタリー&ポリスを購入し、[アメリカ軍](../Page/アメリカ軍.md "wikilink")の[捕虜](https://ja.wikipedia.org/wiki/捕虜 "wikilink")となった際も所有していた。現在、ゲーリングが所有していた元帥杖などとともにミリタリー&ポリスが展示されているが、説明文（[ホルスター](https://ja.wikipedia.org/wiki/ホルスター "wikilink")下の説明文が該当）にS\&W ミリタリー&ポリスモデルと明記されており、前述の所有する経緯や捕虜になった際も保有していたことも明記されている。
+[ナチス](https://ja.wikipedia.org/wiki/ナチス "wikilink")の政治家、[ヘルマン・ゲーリング](../Page/ヘルマン・ゲーリング.md "wikilink")もミリタリー&ポリスを愛用していた。ゲーリングが所有していた拳銃は文様入り[ルガーP08](../Page/ルガーP08.md "wikilink")が知られているが、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")前に[ハンブルク](../Page/ハンブルク.md "wikilink")でミリタリー&ポリスを購入し、[アメリカ軍](../Page/アメリカ軍.md "wikilink")の[捕虜](../Page/捕虜.md "wikilink")となった際も所有していた。現在、ゲーリングが所有していた元帥杖などとともにミリタリー&ポリスが展示されているが、説明文（[ホルスター](../Page/ホルスター.md "wikilink")下の説明文が該当）にS\&W ミリタリー&ポリスモデルと明記されており、前述の所有する経緯や捕虜になった際も保有していたことも明記されている。
 
 <File:Bundesarchiv> Bild 101I-720-0318-36, Frankreich, Milizionär bewacht Widerstandskämpfer.jpg|ミリタリー&ポリスを所持した[ミリスの隊員](https://ja.wikipedia.org/wiki/民兵団_\(フランス\) "wikilink")（1944年） ファイル:Göering_weapon_and_baton.jpg|ゲーリングが所有していたミリタリー&ポリス。元帥杖等とともに飾られている。
 
@@ -111,8 +111,8 @@ M13は1998年に、M65は2004年に生産終了となった。
 
   - [S\&W](../Page/スミス&ウェッソン.md "wikilink")
   - [回転式拳銃](../Page/回転式拳銃.md "wikilink")
-  - [コルト・オフィシャルポリス](https://ja.wikipedia.org/wiki/コルト・オフィシャルポリス "wikilink") - [コルト・ファイヤーアームズ](https://ja.wikipedia.org/wiki/コルト・ファイヤーアームズ "wikilink")社のカウンターパート
-  - [S\&W M19](https://ja.wikipedia.org/wiki/S&W_M19 "wikilink") - Kフレームをもとに.357マグナム弾の使用に対応して拡張したモデル
+  - [コルト・オフィシャルポリス](https://ja.wikipedia.org/wiki/コルト・オフィシャルポリス "wikilink") - [コルト・ファイヤーアームズ](../Page/コルト・ファイヤーアームズ.md "wikilink")社のカウンターパート
+  - [S\&W M19](../Page/S&W_M19.md "wikilink") - Kフレームをもとに.357マグナム弾の使用に対応して拡張したモデル
   - [S\&W M36](https://ja.wikipedia.org/wiki/S&W_M36 "wikilink") - より小型のJフレームを用いた38口径5連発のリボルバー
 
 [Category:回転式拳銃](https://ja.wikipedia.org/wiki/Category:回転式拳銃 "wikilink") [Category:アメリカ合衆国の小火器](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の小火器 "wikilink")

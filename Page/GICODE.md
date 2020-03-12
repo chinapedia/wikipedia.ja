@@ -1,22 +1,22 @@
 > この記事は[GICODE](https://ja.wikipedia.org/wiki/GICODE)から翻訳されています。
 
 
-**GICODE**（ジーアイコード）は、日本で活動する[音楽](../Page/音楽.md "wikilink")グループ。グループ名は「E.D.O.」（イーディーオー）と「C.I.G.」（シーアイジー）をくっつけてひっくり返したもの。SORA3000率いる「E.D.O.」チームと、[SPHERE of INFLUENCE](https://ja.wikipedia.org/wiki/SPHERE_of_INFLUENCE "wikilink") 率いる「C.I.G.」チームからなる。SORA3000とSPHERE of INFLUENCEは同じ小学校・中学校（[セント・メリーズ・インターナショナル・スクール](https://ja.wikipedia.org/wiki/セント・メリーズ・インターナショナル・スクール "wikilink")）に通っていた友人である。2人が[六本木](../Page/六本木.md "wikilink")のClub Nutsでマイクを持っていたことから始まり、この2人だけでもGICODE。 メンバーは流動的で、[ラッパー](https://ja.wikipedia.org/wiki/ラッパー "wikilink")、[DJ](../Page/ディスクジョッキー.md "wikilink")、グラフライター、[デザイナー](../Page/デザイナー.md "wikilink")など。 出身地「[城南](https://ja.wikipedia.org/wiki/城南 "wikilink")」（=[品川区](https://ja.wikipedia.org/wiki/品川区 "wikilink")・[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")・[大田区](https://ja.wikipedia.org/wiki/大田区 "wikilink")）をこよなく愛す。 2009年、5年の沈黙を経て復活、2月25日に復活第1弾シングル「HOME SWEET HOME with AI & JAMOSA」をリリース。 SPHERE(2009年、表記をSPHERE of INFLUENCEから変更) & SORATO(2009年、表記をSORASANZENから変更)「新生GICODE」として、海外のクラブシーンでも支持を得ている盟友[DJ HOKUTOと共に活動している](https://ja.wikipedia.org/wiki/DJ_HOKUTO "wikilink")。 2009年12月22日、渋谷duo-music exchange-にて主催イベントを初開催。
+**GICODE**（ジーアイコード）は、日本で活動する[音楽](../Page/音楽.md "wikilink")グループ。グループ名は「E.D.O.」（イーディーオー）と「C.I.G.」（シーアイジー）をくっつけてひっくり返したもの。SORA3000率いる「E.D.O.」チームと、[SPHERE of INFLUENCE](https://ja.wikipedia.org/wiki/SPHERE_of_INFLUENCE "wikilink") 率いる「C.I.G.」チームからなる。SORA3000とSPHERE of INFLUENCEは同じ小学校・中学校（[セント・メリーズ・インターナショナル・スクール](https://ja.wikipedia.org/wiki/セント・メリーズ・インターナショナル・スクール "wikilink")）に通っていた友人である。2人が[六本木](../Page/六本木.md "wikilink")のClub Nutsでマイクを持っていたことから始まり、この2人だけでもGICODE。 メンバーは流動的で、[ラッパー](https://ja.wikipedia.org/wiki/ラッパー "wikilink")、[DJ](../Page/ディスクジョッキー.md "wikilink")、グラフライター、[デザイナー](../Page/デザイナー.md "wikilink")など。 出身地「[城南](../Page/城南.md "wikilink")」（=[品川区](https://ja.wikipedia.org/wiki/品川区 "wikilink")・[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")・[大田区](https://ja.wikipedia.org/wiki/大田区 "wikilink")）をこよなく愛す。 2009年、5年の沈黙を経て復活、2月25日に復活第1弾シングル「HOME SWEET HOME with AI & JAMOSA」をリリース。 SPHERE(2009年、表記をSPHERE of INFLUENCEから変更) & SORATO(2009年、表記をSORASANZENから変更)「新生GICODE」として、海外のクラブシーンでも支持を得ている盟友[DJ HOKUTOと共に活動している](https://ja.wikipedia.org/wiki/DJ_HOKUTO "wikilink")。 2009年12月22日、渋谷duo-music exchange-にて主催イベントを初開催。
 
 ## E.D.O.
 
 ### E.D.O.プロフィール
 
-E.D.O.の意味は、Exclusive Domestic Outcast から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") Earth Dirty Outcast に変更
+E.D.O.の意味は、Exclusive Domestic Outcast から[2005年](../Page/2005年.md "wikilink") Earth Dirty Outcast に変更
 クラブイベント「蛍 =HOTARU=」を第五金曜日に開催。
 
 ### E.D.O.メンバー
 
-  - SORASANZEN（ソラサンゼン）= Mr.13、Mr.brown = [RIZE](https://ja.wikipedia.org/wiki/RIZE "wikilink")の[JESSE](../Page/JESSE.md "wikilink")
+  - SORASANZEN（ソラサンゼン）= Mr.13、Mr.brown = [RIZE](../Page/RIZE.md "wikilink")の[JESSE](../Page/JESSE.md "wikilink")
   - Shen（シェン） － [Def Techのメンバー](https://ja.wikipedia.org/wiki/Def_Tech "wikilink")
   - Sonshi-MC（ソンシ・エムシー） － cubex（キューベックス）のメンバー
   - DJ GUTCH SCIENCE（ディージェイ・グッチサイエンス） － cubex（キューベックス）のメンバー
-  - SHENLONG（シェンロン） － [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")から参加
+  - SHENLONG（シェンロン） － [2005年](../Page/2005年.md "wikilink")から参加
   - Lafa Taylor（ラファ・テイラー） － 2005年に初来日。以来、E.D.O.のサブメンバーとして参加。
   - RAS（ラス） － グラフィックデザイナー JESSEのブランド"S\&co"のデザインも手がける
   - 8Z（パズ） a.k.a. Pazzu － グラファー フライヤーやCDジャケットのデザインを手がける
@@ -24,16 +24,16 @@ E.D.O.の意味は、Exclusive Domestic Outcast から[2005年](https://ja.wikip
 
 ### 過去のE.D.O.メンバー
 
-  - [Micro](../Page/Micro.md "wikilink")（マイクロ） － [Def Techのメンバー](https://ja.wikipedia.org/wiki/Def_Tech "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")春頃脱退。
-  - DJ CUB（ディージェイ・カブ） a.k.a. DJ SASHIMI － [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")4月脱退（引退）
+  - [Micro](../Page/Micro.md "wikilink")（マイクロ） － [Def Techのメンバー](https://ja.wikipedia.org/wiki/Def_Tech "wikilink")。[2005年](../Page/2005年.md "wikilink")春頃脱退。
+  - DJ CUB（ディージェイ・カブ） a.k.a. DJ SASHIMI － [2006年](../Page/2006年.md "wikilink")4月脱退（引退）
   - [SYZA](https://ja.wikipedia.org/wiki/SYZA "wikilink")（シザ） － [2007年](../Page/2007年.md "wikilink")4月脱退。
 
 ### E.D.O.ディスコグラフィー
 
 #### シングル
 
-  - Black List (2005年12月3日) －　[カプコン](https://ja.wikipedia.org/wiki/カプコン "wikilink")のゲームソフト「[ビートダウン](../Page/ビートダウン.md "wikilink")」とタイアップ
-  - You Don't Know (2007年6月27日) －　[クアーズ](https://ja.wikipedia.org/wiki/クアーズ "wikilink")のZIMAとCMタイアップ
+  - Black List (2005年12月3日) －　[カプコン](../Page/カプコン.md "wikilink")のゲームソフト「[ビートダウン](../Page/ビートダウン.md "wikilink")」とタイアップ
+  - You Don't Know (2007年6月27日) －　[クアーズ](../Page/クアーズ.md "wikilink")のZIMAとCMタイアップ
   - カミヒコウキ meets [Char](../Page/Char.md "wikilink") (2008年5月14日)
 
 #### アルバム
@@ -114,7 +114,7 @@ E.D.O.の意味は、Exclusive Domestic Outcast から[2005年](https://ja.wikip
     1.  G・I・C・O・D・E\[3:37\]
           -
             作詞：SORA3000・SPHERE of INFLUENCE／作曲：SORA3000・SPHERE of INFLUENCE・DOC D
-            東映配給映画「[偶然にも最悪な少年](https://ja.wikipedia.org/wiki/偶然にも最悪な少年 "wikilink")」主題歌
+            東映配給映画「[偶然にも最悪な少年](../Page/偶然にも最悪な少年.md "wikilink")」主題歌
     2.  ONE\[4:03\]
     3.  G・I・C・O・D・E(instrumental)\[3:37\]
     4.  ONE(instrumental)\[4:04\]

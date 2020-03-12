@@ -5,19 +5,19 @@
 
 ## 概要
 
-日曜午前の[東映不思議コメディーシリーズ](../Page/東映不思議コメディーシリーズ.md "wikilink")『[ペットントン](https://ja.wikipedia.org/wiki/ペットントン "wikilink")』の成功を受け、同シリーズのテイストを取り込み木曜の[ゴールデンタイム](https://ja.wikipedia.org/wiki/ゴールデンタイム "wikilink")（19:30 - 20:00）で放送された\[1\]\[2\]。
+日曜午前の[東映不思議コメディーシリーズ](../Page/東映不思議コメディーシリーズ.md "wikilink")『[ペットントン](../Page/ペットントン.md "wikilink")』の成功を受け、同シリーズのテイストを取り込み木曜の[ゴールデンタイム](https://ja.wikipedia.org/wiki/ゴールデンタイム "wikilink")（19:30 - 20:00）で放送された\[1\]\[2\]。
 
 バラエティ番組色が強く、当時のフジテレビの社風からか局の人気番組の出演者が大量に出演した\[3\]\[4\]\[5\]が、視聴率は振るわず、全11回で打ち切られた\[6\]\[7\]。
 
-映像はフィルム撮影を基本としているが、特殊効果には一部VTR撮影を行なっており、[キネコ](https://ja.wikipedia.org/wiki/キネコ "wikilink")処理しなければならなかった当時の純フィルム作品と違い質感の異なる映像が交互にあらわれる点がユニークであった\[8\]\[9\]。しかしそうした本作での映像技術は特撮では定着することなく、東映特撮ではファイン・ネガ・ビデオシステムがようやく導入された90年代中盤でも、VTR合成やオプチカル処理はキネコやフィルム焼き付けが主流となっていた。東映のVTR撮影特撮は『[超光戦士シャンゼリオン](https://ja.wikipedia.org/wiki/超光戦士シャンゼリオン "wikilink")』を待つことになる。
+映像はフィルム撮影を基本としているが、特殊効果には一部VTR撮影を行なっており、[キネコ](../Page/キネコ.md "wikilink")処理しなければならなかった当時の純フィルム作品と違い質感の異なる映像が交互にあらわれる点がユニークであった\[8\]\[9\]。しかしそうした本作での映像技術は特撮では定着することなく、東映特撮ではファイン・ネガ・ビデオシステムがようやく導入された90年代中盤でも、VTR合成やオプチカル処理はキネコやフィルム焼き付けが主流となっていた。東映のVTR撮影特撮は『[超光戦士シャンゼリオン](../Page/超光戦士シャンゼリオン.md "wikilink")』を待つことになる。
 
-[次回予告](https://ja.wikipedia.org/wiki/次回予告 "wikilink")で『[どきんちょ\!ネムリン](https://ja.wikipedia.org/wiki/どきんちょ!ネムリン "wikilink")』と共演し、てれもんがネムリンの予告に出た事もあった。
+[次回予告](../Page/次回予告.md "wikilink")で『[どきんちょ\!ネムリン](../Page/どきんちょ!ネムリン.md "wikilink")』と共演し、てれもんがネムリンの予告に出た事もあった。
 
 ## あらすじ
 
 冒頭で、主人公の林トンボが「僕の家のテレビは8チャンネルしか映らない、だから大好きな[キン肉マン](../Page/キン肉マン.md "wikilink")や[トップテン](../Page/ザ・トップテン.md "wikilink")\[10\]、[キャプテン翼](https://ja.wikipedia.org/wiki/キャプテン翼_\(アニメ\) "wikilink")\[11\]が観られない…」と語るところから始まる。
 
-テレビを買い替えてくれない両親に業を煮やしたトンボは、自宅のテレビを壊して無理矢理にでも買い替えてもらおうとする（この時の格好は映画「[ゴーストバスターズ](https://ja.wikipedia.org/wiki/ゴーストバスターズ "wikilink")」のパロディ）。いざ、テレビの目の前で壊そうとした瞬間…そこにテレビから現れたのは、林家のテレビの中に棲みつき"電波のカス"を食べて生きているというオバケのてれもんだった。
+テレビを買い替えてくれない両親に業を煮やしたトンボは、自宅のテレビを壊して無理矢理にでも買い替えてもらおうとする（この時の格好は映画「[ゴーストバスターズ](../Page/ゴーストバスターズ.md "wikilink")」のパロディ）。いざ、テレビの目の前で壊そうとした瞬間…そこにテレビから現れたのは、林家のテレビの中に棲みつき"電波のカス"を食べて生きているというオバケのてれもんだった。
 
 ライバルの「ザ・グレートデンキ」は、近所の電器屋（屋号：小俣電器）のオヤジである。『てれもんがいるから林家はテレビを買い替えてくれない』と思い込み、てれもん退治に奔走する。「でんでんでんでん電気の神様…」と祈りながらザ・グレートデンキに変身し、自分で発明した奇妙奇天烈な効果を起こす不思議な銃を使っててれもんを攻撃するのだった。
 
@@ -52,12 +52,12 @@
 
 ## スタッフ
 
-  - 企画：[前田和也](https://ja.wikipedia.org/wiki/前田和也_\(プロデューサー\) "wikilink")（フジテレビ）、[平山亨](https://ja.wikipedia.org/wiki/平山亨 "wikilink")（東映）
+  - 企画：[前田和也](https://ja.wikipedia.org/wiki/前田和也_\(プロデューサー\) "wikilink")（フジテレビ）、[平山亨](../Page/平山亨.md "wikilink")（東映）
   - 原作：[石森章太郎](../Page/石ノ森章太郎.md "wikilink")
-  - 連載：[てれびくん](https://ja.wikipedia.org/wiki/てれびくん "wikilink")、[テレビランド](https://ja.wikipedia.org/wiki/テレビランド "wikilink")、[小学館の学習雑誌](https://ja.wikipedia.org/wiki/小学館の学習雑誌 "wikilink")
-  - 脚本：[浦沢義雄](https://ja.wikipedia.org/wiki/浦沢義雄 "wikilink")、加藤盟、[水谷龍二](https://ja.wikipedia.org/wiki/水谷龍二 "wikilink")、[佐伯孚治](https://ja.wikipedia.org/wiki/佐伯孚治 "wikilink")
+  - 連載：[てれびくん](../Page/てれびくん.md "wikilink")、[テレビランド](../Page/テレビランド.md "wikilink")、[小学館の学習雑誌](https://ja.wikipedia.org/wiki/小学館の学習雑誌 "wikilink")
+  - 脚本：[浦沢義雄](../Page/浦沢義雄.md "wikilink")、加藤盟、[水谷龍二](https://ja.wikipedia.org/wiki/水谷龍二 "wikilink")、[佐伯孚治](../Page/佐伯孚治.md "wikilink")
   - 音楽：[本間勇輔](../Page/本間勇輔.md "wikilink")
-  - プロデューサー：[清水賢治](https://ja.wikipedia.org/wiki/清水賢治 "wikilink")（フジテレビ）、植田泰治・西村政行（東映）
+  - プロデューサー：[清水賢治](../Page/清水賢治.md "wikilink")（フジテレビ）、植田泰治・西村政行（東映）
   - 撮影：林迪雄、池田健策
   - 照明：関口弥太郎、大森康次
   - 美術：安井丸男
@@ -74,14 +74,14 @@
   - 効果：[原田千昭](https://ja.wikipedia.org/wiki/原田サウンド "wikilink")
   - 撮影助手：臼木敏博
   - 装置：江田豊
-  - 装飾：[装美社](https://ja.wikipedia.org/wiki/装美社 "wikilink")
+  - 装飾：[装美社](../Page/装美社.md "wikilink")
   - 操演：野村正且
   - 衣裳：東京衣裳
   - 美粧：サン・メイク
   - メークアップデザイン：[トニー田中](https://ja.wikipedia.org/wiki/トニータナカ "wikilink")
   - 造型協力：[レインボー造型企画](https://ja.wikipedia.org/wiki/レインボー造型企画 "wikilink")
   - アクションクリエーター：[岡田勝](../Page/岡田勝.md "wikilink")
-  - 現像：[東映化学](https://ja.wikipedia.org/wiki/東映ラボ・テック "wikilink")
+  - 現像：[東映化学](../Page/東映ラボ・テック.md "wikilink")
   - 協力：横浜シネマ、[東通](https://ja.wikipedia.org/wiki/東通 "wikilink")（システムマネージャー：峰沢和夫）
   - 進行主任：井口喜一
   - 制作担当：小貫綮子、鈴木勝政
@@ -93,7 +93,7 @@
 ## 主題歌
 
   - OP：「Nice Accident」、ED：「チャンネルX」
-      - 唄：[榊原郁恵](../Page/榊原郁恵.md "wikilink")／作詞：[森雪之丞](https://ja.wikipedia.org/wiki/森雪之丞 "wikilink")／作曲：[芹澤廣明](https://ja.wikipedia.org/wiki/芹澤廣明 "wikilink")／編曲：[川上了](https://ja.wikipedia.org/wiki/川上了 "wikilink")
+      - 唄：[榊原郁恵](../Page/榊原郁恵.md "wikilink")／作詞：[森雪之丞](../Page/森雪之丞.md "wikilink")／作曲：[芹澤廣明](../Page/芹澤廣明.md "wikilink")／編曲：[川上了](https://ja.wikipedia.org/wiki/川上了 "wikilink")
 
 両曲を収録したEPレコードは、[日本コロムビア](../Page/日本コロムビア.md "wikilink")より発売。なお、OP映像とED映像では、歌詞テロップは表示されなかった。
 
@@ -103,10 +103,10 @@
   - てれもんの声 - [龍田直樹](../Page/龍田直樹.md "wikilink")
   - 林 トンボ - [伊藤環](https://ja.wikipedia.org/wiki/伊藤環 "wikilink")
   - 林 アゲハ - [木ノ葉のこ](../Page/木ノ葉のこ.md "wikilink")
-  - 林 カブト - [佐渡稔](https://ja.wikipedia.org/wiki/佐渡稔 "wikilink")
+  - 林 カブト - [佐渡稔](../Page/佐渡稔.md "wikilink")
   - サヤカ - [星めぐみ](https://ja.wikipedia.org/wiki/星めぐみ "wikilink")
   - ラドン - [林義人](https://ja.wikipedia.org/wiki/林義人 "wikilink")
-  - 屋台のラーメン屋、フランケンシュタイン博士 - [市川勇](https://ja.wikipedia.org/wiki/市川勇 "wikilink")
+  - 屋台のラーメン屋、フランケンシュタイン博士 - [市川勇](../Page/市川勇.md "wikilink")
   - 小俣／ザ・グレートデンキ、電気の神様 - [斉藤晴彦](https://ja.wikipedia.org/wiki/斉藤晴彦 "wikilink")
 
 ## 放送リスト
@@ -138,7 +138,7 @@
 <td><p>正義の味方ザ・グレートデンキ誕生</p></td>
 <td></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/福岡翼" title="wikilink">福岡翼</a>[18]</li>
+<li><a href="../Page/福岡翼.md" title="wikilink">福岡翼</a>[18]</li>
 <li><a href="../Page/本間淳子.md" title="wikilink">本間淳子</a></li>
 </ul></td>
 <td></td>
@@ -157,7 +157,7 @@
 <td><p>紙テープはスーパースターの夢を見る</p></td>
 <td></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/佐藤B作" title="wikilink">佐藤B作</a>[19]</li>
+<li><a href="../Page/佐藤B作.md" title="wikilink">佐藤B作</a>[19]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -167,7 +167,7 @@
 <td><p>高見山直伝! 強い女の子に勝つ方法</p></td>
 <td><p>加藤盟</p></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/高見山大五郎" title="wikilink">高見山大五郎</a>[20][21]</li>
+<li><a href="../Page/高見山大五郎.md" title="wikilink">高見山大五郎</a>[20][21]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -184,7 +184,7 @@
 <tr class="odd">
 <td><p>2月28日</p></td>
 <td><p>7</p></td>
-<td><p>不良少女XYZ <a href="https://ja.wikipedia.org/wiki/積木くずし" title="wikilink">積木くずし</a>パニック</p></td>
+<td><p>不良少女XYZ <a href="../Page/積木くずし.md" title="wikilink">積木くずし</a>パニック</p></td>
 <td></td>
 <td><p>田中秀夫</p></td>
 <td><ul>
@@ -201,7 +201,7 @@
 <td><p>トンボが初めて百点満点をとった日</p></td>
 <td></td>
 <td><ul>
-<li>司会者（<a href="https://ja.wikipedia.org/wiki/石井愃一" title="wikilink">石井愃一</a>）</li>
+<li>司会者（<a href="../Page/石井愃一.md" title="wikilink">石井愃一</a>）</li>
 </ul></td>
 <td></td>
 </tr>
@@ -221,7 +221,7 @@
 <td><p>水谷龍二<br />
 佐伯孚治</p></td>
 <td><ul>
-<li>フランケン（<a href="https://ja.wikipedia.org/wiki/大友龍三郎" title="wikilink">大友龍三郎</a>）</li>
+<li>フランケン（<a href="../Page/大友龍三郎.md" title="wikilink">大友龍三郎</a>）</li>
 </ul></td>
 <td></td>
 </tr>
@@ -294,7 +294,7 @@
 17.
 18.
 19.
-20. 同日、当番組の後に放送の「木曜[ファミリーワイド](https://ja.wikipedia.org/wiki/ファミリーワイド "wikilink")」で、[引退相撲](https://ja.wikipedia.org/wiki/引退相撲 "wikilink")の模様などを収めた企画が組まれていた。
+20. 同日、当番組の後に放送の「木曜[ファミリーワイド](../Page/ファミリーワイド.md "wikilink")」で、[引退相撲](../Page/引退相撲.md "wikilink")の模様などを収めた企画が組まれていた。
 21.
 22.
 23.

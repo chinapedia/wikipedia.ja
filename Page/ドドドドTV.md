@@ -1,26 +1,26 @@
 > この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
 
 
-**ドドドドTV**（どどどどティービー）は、[静岡朝日テレビ](../Page/静岡朝日テレビ.md "wikilink")で2006年3月25日まで毎週土曜24時30分から放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。[スポンサー](https://ja.wikipedia.org/wiki/スポンサー "wikilink")は[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")の[コンコルドの](https://ja.wikipedia.org/wiki/コンコルドグループ "wikilink")[一社提供](https://ja.wikipedia.org/wiki/一社提供 "wikilink")であった。
+**ドドドドTV**（どどどどティービー）は、[静岡朝日テレビ](../Page/静岡朝日テレビ.md "wikilink")で2006年3月25日まで毎週土曜24時30分から放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。[スポンサー](../Page/スポンサー.md "wikilink")は[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")の[コンコルドの](https://ja.wikipedia.org/wiki/コンコルドグループ "wikilink")[一社提供](../Page/一社提供.md "wikilink")であった。
 
 ## 概要
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")4月2日より放送開始された\[1\]。当初は「**ドドドドTV～人間図鑑バラエティー～**」として[ドキュメントバラエティ系の番組であった](../Page/ドキュメンタリー.md "wikilink")。
+[2005年](../Page/2005年.md "wikilink")4月2日より放送開始された\[1\]。当初は「**ドドドドTV～人間図鑑バラエティー～**」として[ドキュメントバラエティ系の番組であった](../Page/ドキュメンタリー.md "wikilink")。
 
-この番組が放送されていた当時、[静岡地区で制作される](../Page/静岡県.md "wikilink")[ローカル番組](https://ja.wikipedia.org/wiki/ローカル番組 "wikilink")のほとんどは、地元局の[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")や地元出身[タレント](../Page/タレント.md "wikilink")を使い、自社もしくは自社系列の[制作会社が制作することが多かった](../Page/制作プロダクション.md "wikilink")。この、県外（[東京](https://ja.wikipedia.org/wiki/東京都 "wikilink")）の制作会社（[NCV](https://ja.wikipedia.org/wiki/ニッポンクリエイティブビジョン "wikilink")）が制作を担当し、東京で主に活動しているタレントを多く起用していたことが特筆点といえる。
+この番組が放送されていた当時、[静岡地区で制作される](../Page/静岡県.md "wikilink")[ローカル番組](../Page/ローカル番組.md "wikilink")のほとんどは、地元局の[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")や地元出身[タレント](../Page/タレント.md "wikilink")を使い、自社もしくは自社系列の[制作会社が制作することが多かった](../Page/制作プロダクション.md "wikilink")。この、県外（[東京](../Page/東京都.md "wikilink")）の制作会社（[NCV](../Page/ニッポンクリエイティブビジョン.md "wikilink")）が制作を担当し、東京で主に活動しているタレントを多く起用していたことが特筆点といえる。
 
-2005年秋頃に、番組内容を大幅リニューアルし、番組[マスコット](https://ja.wikipedia.org/wiki/マスコット "wikilink")ガールであった「DDガールズ」を全面に出した内容へと切り替えた。
+2005年秋頃に、番組内容を大幅リニューアルし、番組[マスコット](../Page/マスコット.md "wikilink")ガールであった「DDガールズ」を全面に出した内容へと切り替えた。
 
-[ロケーションには当初](https://ja.wikipedia.org/wiki/ロケーション撮影 "wikilink")、DDガールズ以外の出演者として[インスタントジョンソン](https://ja.wikipedia.org/wiki/インスタントジョンソン "wikilink")のみが参加していたが、後に[ダチョウ倶楽部](../Page/ダチョウ倶楽部.md "wikilink")も参加、さらに東京から[飯島愛](https://ja.wikipedia.org/wiki/飯島愛 "wikilink")や[レイザーラモンHG](https://ja.wikipedia.org/wiki/レイザーラモンHG "wikilink")といったタレントをその都度ゲストに迎えることとなる。
+[ロケーションには当初](https://ja.wikipedia.org/wiki/ロケーション撮影 "wikilink")、DDガールズ以外の出演者として[インスタントジョンソン](../Page/インスタントジョンソン.md "wikilink")のみが参加していたが、後に[ダチョウ倶楽部](../Page/ダチョウ倶楽部.md "wikilink")も参加、さらに東京から[飯島愛](https://ja.wikipedia.org/wiki/飯島愛 "wikilink")や[レイザーラモンHG](../Page/レイザーラモンHG.md "wikilink")といったタレントをその都度ゲストに迎えることとなる。
 
 静岡ローカルの番組であったが、番組内容がローカル番組の枠から外れるに従い、。
 
-「[お色気バラエティ](https://ja.wikipedia.org/wiki/お色気番組 "wikilink")」的な番組内容への変化が（特に県内[PTA](../Page/PTA.md "wikilink")）から苦情の対象となり、「番組内容が過激である」との。
+「[お色気バラエティ](../Page/お色気番組.md "wikilink")」的な番組内容への変化が（特に県内[PTA](../Page/PTA.md "wikilink")）から苦情の対象となり、「番組内容が過激である」との。
 
 ## 出演者
 
   - ダチョウ倶楽部
-  - [青田典子](https://ja.wikipedia.org/wiki/青田典子 "wikilink")（ - 2005年10月15日）
+  - [青田典子](../Page/青田典子.md "wikilink")（ - 2005年10月15日）
   - インスタントジョンソン
   - DDガールズ
       - 青木菜恵
@@ -32,7 +32,7 @@
       - [前原千晶](https://ja.wikipedia.org/wiki/前原千晶 "wikilink")
       - [渡部由起子](../Page/渡部由起子.md "wikilink")
       - 神谷怜奈
-      - [櫻井ゆうこ](https://ja.wikipedia.org/wiki/櫻井ゆうこ "wikilink")
+      - [櫻井ゆうこ](../Page/櫻井ゆうこ.md "wikilink")
       - [佐藤さやか](https://ja.wikipedia.org/wiki/佐藤さやか_\(タレント\) "wikilink")
       - 横井美奈子
       - [成海亜紀](https://ja.wikipedia.org/wiki/成海亜紀 "wikilink")
@@ -44,18 +44,18 @@
 
 <!-- end list -->
 
-  - [神奈月](https://ja.wikipedia.org/wiki/神奈月 "wikilink")
+  - [神奈月](../Page/神奈月.md "wikilink")
   - [加藤茶](../Page/加藤茶.md "wikilink")
-  - [カンニング竹山](https://ja.wikipedia.org/wiki/カンニング竹山 "wikilink")
+  - [カンニング竹山](../Page/カンニング竹山.md "wikilink")
   - [はなわ](https://ja.wikipedia.org/wiki/はなわ "wikilink")
   - [出川哲朗](../Page/出川哲朗.md "wikilink")
   - 飯島愛
   - レイザーラモンHG
-  - [加納典明](https://ja.wikipedia.org/wiki/加納典明 "wikilink")
+  - [加納典明](../Page/加納典明.md "wikilink")
   - [蛭子能収](../Page/蛭子能収.md "wikilink")
-  - [野々村真](https://ja.wikipedia.org/wiki/野々村真 "wikilink")
+  - [野々村真](../Page/野々村真.md "wikilink")
   - [森三中](../Page/森三中.md "wikilink")
-  - [猫ひろし](https://ja.wikipedia.org/wiki/猫ひろし "wikilink")
+  - [猫ひろし](../Page/猫ひろし.md "wikilink")
 
 ## 脚注
 

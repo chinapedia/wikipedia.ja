@@ -1,11 +1,11 @@
 > この記事は[FIM](https://ja.wikipedia.org/wiki/FIM)から翻訳されています。
 
 
-**FIM世界耐久ロードレース選手権シリーズ（EWC）**（**FIM Endurance World Championship**）は、[モーターサイクル](https://ja.wikipedia.org/wiki/モーターサイクル "wikilink")による[モータースポーツ](https://ja.wikipedia.org/wiki/モータースポーツ "wikilink")。FIM（[国際モーターサイクリズム連盟](https://ja.wikipedia.org/wiki/国際モーターサイクリズム連盟 "wikilink")）が主催する[ロードレース耐久レースの](https://ja.wikipedia.org/wiki/ロードレース_\(オートバイ\) "wikilink")[世界選手権大会](https://ja.wikipedia.org/wiki/世界選手権大会 "wikilink")。[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")より日本で開催の[鈴鹿8時間耐久ロードレース](https://ja.wikipedia.org/wiki/鈴鹿8時間耐久ロードレース "wikilink")がシリーズに組み込まれ、2016 - 2017年シーズンよりシリーズの最終戦に位置づけられている。その他主なレースとしては[ル・マン24時間耐久ロードレース](https://ja.wikipedia.org/wiki/ル・マン24時間耐久ロードレース "wikilink")、[ボルドール24時間耐久ロードレース](https://ja.wikipedia.org/wiki/ボルドール24時間耐久ロードレース "wikilink")、[オッシャースレーベン8時間耐久ロードレース](https://ja.wikipedia.org/wiki/オッシャースレーベン8時間耐久ロードレース "wikilink")。
+**FIM世界耐久ロードレース選手権シリーズ（EWC）**（**FIM Endurance World Championship**）は、[モーターサイクル](https://ja.wikipedia.org/wiki/モーターサイクル "wikilink")による[モータースポーツ](https://ja.wikipedia.org/wiki/モータースポーツ "wikilink")。FIM（[国際モーターサイクリズム連盟](../Page/国際モーターサイクリズム連盟.md "wikilink")）が主催する[ロードレース耐久レースの](../Page/ロードレース_\(オートバイ\).md "wikilink")[世界選手権大会](../Page/世界選手権大会.md "wikilink")。[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")より日本で開催の[鈴鹿8時間耐久ロードレース](../Page/鈴鹿8時間耐久ロードレース.md "wikilink")がシリーズに組み込まれ、2016 - 2017年シーズンよりシリーズの最終戦に位置づけられている。その他主なレースとしては[ル・マン24時間耐久ロードレース](https://ja.wikipedia.org/wiki/ル・マン24時間耐久ロードレース "wikilink")、[ボルドール24時間耐久ロードレース](https://ja.wikipedia.org/wiki/ボルドール24時間耐久ロードレース "wikilink")、[オッシャースレーベン8時間耐久ロードレース](https://ja.wikipedia.org/wiki/オッシャースレーベン8時間耐久ロードレース "wikilink")。
 
-2019 - 2020年シーズンから[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")の[セパン・インターナショナル・サーキット](https://ja.wikipedia.org/wiki/セパン・インターナショナル・サーキット "wikilink")での8時間耐久が新たにカレンダーに加わる。レースフォーマットは鈴鹿8耐を踏襲し、TOP10トライアルも行う予定。また、鈴鹿の予選と位置付けられ優先出場権が与えられる\[1\]。
+2019 - 2020年シーズンから[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")の[セパン・インターナショナル・サーキット](../Page/セパン・インターナショナル・サーキット.md "wikilink")での8時間耐久が新たにカレンダーに加わる。レースフォーマットは鈴鹿8耐を踏襲し、TOP10トライアルも行う予定。また、鈴鹿の予選と位置付けられ優先出場権が与えられる\[1\]。
 
-また、1973年から2003年までリェージュ24時間耐久ロードレースが行われていた[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")の[スパ・フランコルシャン](https://ja.wikipedia.org/wiki/スパ・フランコルシャン "wikilink")サーキットも2021 - 2022年シーズンからシリーズに加わる。時期は2022年6月上旬から、レースフォーマットは金曜日の日没後(午後10時)から土曜日までの24時間の予定\[2\]。
+また、1973年から2003年までリェージュ24時間耐久ロードレースが行われていた[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")の[スパ・フランコルシャン](../Page/スパ・フランコルシャン.md "wikilink")サーキットも2021 - 2022年シーズンからシリーズに加わる。時期は2022年6月上旬から、レースフォーマットは金曜日の日没後(午後10時)から土曜日までの24時間の予定\[2\]。
 
 ## ポイント方式
 
@@ -126,7 +126,7 @@
 </tr>
 <tr class="even">
 <td><p>2017-2018</p></td>
-<td><p><a href="../Page/エフ・シー・シー.md" title="wikilink">F.C.C.</a> <a href="https://ja.wikipedia.org/wiki/TSR_(オートバイ)" title="wikilink">TSR</a> Honda France</p></td>
+<td><p><a href="../Page/エフ・シー・シー.md" title="wikilink">F.C.C.</a> <a href="../Page/TSR_(オートバイ).md" title="wikilink">TSR</a> Honda France</p></td>
 <td><p>ホンダ</p></td>
 </tr>
 <tr class="odd">

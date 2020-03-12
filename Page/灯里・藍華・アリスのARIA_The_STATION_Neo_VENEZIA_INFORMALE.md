@@ -1,13 +1,13 @@
 > この記事は[ARIA The STATION Neo VENEZIA INFORMALE](https://ja.wikipedia.org/wiki/ARIA_The_STATION_Neo_VENEZIA_INFORMALE)から翻訳されています。
 
 
-**ARIA The STATION Neo VENEZIA INFORMALE**（アリア・ザ・ステーション・ネオ・ヴェネツィア・インフォルマーレ）とは[音泉](https://ja.wikipedia.org/wiki/音泉 "wikilink")と[アニメイトTV](https://ja.wikipedia.org/wiki/アニメイトTV "wikilink")にて[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月10日](../Page/1月10日.md "wikilink")から[3月28日](../Page/3月28日.md "wikilink")まで配信されていた「[ARIA The ANIMATION](https://ja.wikipedia.org/wiki/ARIA_\(漫画\) "wikilink")」関連の[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組である。同年[2月10日](../Page/2月10日.md "wikilink")からは[BEWE](https://ja.wikipedia.org/wiki/BEWE "wikilink")でも配信されていた。
+**ARIA The STATION Neo VENEZIA INFORMALE**（アリア・ザ・ステーション・ネオ・ヴェネツィア・インフォルマーレ）とは[音泉](../Page/音泉.md "wikilink")と[アニメイトTV](https://ja.wikipedia.org/wiki/アニメイトTV "wikilink")にて[2006年](../Page/2006年.md "wikilink")[1月10日](../Page/1月10日.md "wikilink")から[3月28日](../Page/3月28日.md "wikilink")まで配信されていた「[ARIA The ANIMATION](../Page/ARIA_\(漫画\).md "wikilink")」関連の[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組である。同年[2月10日](../Page/2月10日.md "wikilink")からは[BEWE](../Page/BEWE.md "wikilink")でも配信されていた。
 
-[パーソナリティは水無灯里役の](../Page/ラジオパーソナリティ.md "wikilink")[葉月絵理乃](https://ja.wikipedia.org/wiki/葉月絵理乃 "wikilink")、藍華・S・グランチェスタ役の[斎藤千和](https://ja.wikipedia.org/wiki/斎藤千和 "wikilink")、アリス・キャロル役の[広橋涼](../Page/広橋涼.md "wikilink")の3人。
+[パーソナリティは水無灯里役の](../Page/ラジオパーソナリティ.md "wikilink")[葉月絵理乃](../Page/葉月絵理乃.md "wikilink")、藍華・S・グランチェスタ役の[斎藤千和](https://ja.wikipedia.org/wiki/斎藤千和 "wikilink")、アリス・キャロル役の[広橋涼](../Page/広橋涼.md "wikilink")の3人。
 
 番組のメインは灯里・藍華・アリスの3人がネオ・ヴェネツィアで生放送されるラジオ番組のパーソナリティになるという設定のラジオドラマである。ラジオドラマ終了後、それぞれの役を務めるキャストの3人によるフリートークと番組関連イベントや関連商品発売などのお知らせがあった。
 
-「ARIA the Station」は第2期アニメ「ARIA The NATURAL」開始のため、3ヶ月で一旦番組を終了。後番組のタイトルは「[ARIA the Station Due](https://ja.wikipedia.org/wiki/ARIA_the_Station_Due "wikilink")」でパーソナリティは[西村ちなみ](../Page/西村ちなみ.md "wikilink")（アリア・ポコテン）と[葉月絵理乃](https://ja.wikipedia.org/wiki/葉月絵理乃 "wikilink")（灯里）の2人で、ゲストを交えて放送する。
+「ARIA the Station」は第2期アニメ「ARIA The NATURAL」開始のため、3ヶ月で一旦番組を終了。後番組のタイトルは「[ARIA the Station Due](https://ja.wikipedia.org/wiki/ARIA_the_Station_Due "wikilink")」でパーソナリティは[西村ちなみ](../Page/西村ちなみ.md "wikilink")（アリア・ポコテン）と[葉月絵理乃](../Page/葉月絵理乃.md "wikilink")（灯里）の2人で、ゲストを交えて放送する。
 
 なお、ネオ・ヴェネツィア上でのタイトル名では「**灯里・藍華・アリスのARIA The STATION Neo VENEZIA INFORMALE**」（あかり・あいか・ありすの-）である。
 
@@ -15,15 +15,15 @@
 
 ### パーソナリティ
 
-  - [葉月絵理乃](https://ja.wikipedia.org/wiki/葉月絵理乃 "wikilink")（水無灯里 役）
+  - [葉月絵理乃](../Page/葉月絵理乃.md "wikilink")（水無灯里 役）
   - [斎藤千和](https://ja.wikipedia.org/wiki/斎藤千和 "wikilink")（藍華・S・グランチェスタ 役）
   - [広橋涼](../Page/広橋涼.md "wikilink")（アリス・キャロル 役）
 
 ### 配信曜日など
 
-  - 放送期間（音泉基準日）：[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月10日](../Page/1月10日.md "wikilink")～[3月28日](../Page/3月28日.md "wikilink")（全12回）
-  - 配信サイト：「[音泉](https://ja.wikipedia.org/wiki/音泉 "wikilink")」⇒毎週[火曜日](../Page/火曜日.md "wikilink")、「[アニメイトTV](https://ja.wikipedia.org/wiki/アニメイトTV "wikilink")」⇒毎週[木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink")（同一内容を放送）
-  - [スポンサー](https://ja.wikipedia.org/wiki/スポンサー "wikilink")：[マッグガーデン](https://ja.wikipedia.org/wiki/マッグガーデン "wikilink")、[アニメ専門チャンネルAT-X](../Page/アニメシアターX.md "wikilink")、[メディアファクトリー](../Page/メディアファクトリー.md "wikilink")
+  - 放送期間（音泉基準日）：[2006年](../Page/2006年.md "wikilink")[1月10日](../Page/1月10日.md "wikilink")～[3月28日](../Page/3月28日.md "wikilink")（全12回）
+  - 配信サイト：「[音泉](../Page/音泉.md "wikilink")」⇒毎週[火曜日](../Page/火曜日.md "wikilink")、「[アニメイトTV](https://ja.wikipedia.org/wiki/アニメイトTV "wikilink")」⇒毎週[木曜日](../Page/木曜日.md "wikilink")（同一内容を放送）
+  - [スポンサー](../Page/スポンサー.md "wikilink")：[マッグガーデン](../Page/マッグガーデン.md "wikilink")、[アニメ専門チャンネルAT-X](../Page/アニメシアターX.md "wikilink")、[メディアファクトリー](../Page/メディアファクトリー.md "wikilink")
 
 ## コーナー
 
@@ -32,7 +32,7 @@
 <!-- end list -->
 
   -
-    リスナーからのメールは番組の[構成作家](https://ja.wikipedia.org/wiki/構成作家 "wikilink")により「[ARIA](https://ja.wikipedia.org/wiki/ARIA_\(漫画\) "wikilink")」の世界観に合致するようにアレンジされたものをラジオドラマ内で紹介される
+    リスナーからのメールは番組の[構成作家](https://ja.wikipedia.org/wiki/構成作家 "wikilink")により「[ARIA](../Page/ARIA_\(漫画\).md "wikilink")」の世界観に合致するようにアレンジされたものをラジオドラマ内で紹介される
 
 <!-- end list -->
 
@@ -86,7 +86,7 @@
 <!-- end list -->
 
   -
-    アリスがリスナー探しに行きいなくなり、藍華が灯里をおだてて、灯里がかわりに「アリスだもの」を行ったコーナー。\#12（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月28日](../Page/3月28日.md "wikilink")配信分）にて行われたコーナー。しかし灯里は一刀両断にする予定だったが、一刀両断に出来ず、藍華に一刀両断される。結局は灯里の恥ずかしいセリフで終わってしまった
+    アリスがリスナー探しに行きいなくなり、藍華が灯里をおだてて、灯里がかわりに「アリスだもの」を行ったコーナー。\#12（[2006年](../Page/2006年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")配信分）にて行われたコーナー。しかし灯里は一刀両断にする予定だったが、一刀両断に出来ず、藍華に一刀両断される。結局は灯里の恥ずかしいセリフで終わってしまった
 
 <!-- end list -->
 

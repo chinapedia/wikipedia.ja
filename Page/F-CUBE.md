@@ -1,15 +1,15 @@
 > この記事は[F-CUBE](https://ja.wikipedia.org/wiki/F-CUBE)から翻訳されています。
 
 
-『**F-CUBE**』（えふ きゅーぶ）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月9日](../Page/1月9日.md "wikilink")から[3月31日](../Page/3月31日.md "wikilink")まで、[FNS西日本ブロックネットで放送されていた](../Page/フジネットワーク.md "wikilink")[関西テレビ制作の](../Page/関西テレビ放送.md "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。
+『**F-CUBE**』（えふ きゅーぶ）は、[2006年](../Page/2006年.md "wikilink")[1月9日](../Page/1月9日.md "wikilink")から[3月31日](../Page/3月31日.md "wikilink")まで、[FNS西日本ブロックネットで放送されていた](../Page/フジネットワーク.md "wikilink")[関西テレビ制作の](../Page/関西テレビ放送.md "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。
 
 ## 概要
 
-前番組『[2時ワクッ\!](https://ja.wikipedia.org/wiki/2時ワクッ! "wikilink")』を大幅にリニューアルしてスタート。番組コンセプトとして、「痩せたい！」「旅に出たい！」「美味しいものを食べたい！」 何かとせわしない平日のお昼どきを過ごしているお茶の間を女性達をターゲットにお得感たっぷりの番組としている。
+前番組『[2時ワクッ\!](../Page/2時ワクッ!.md "wikilink")』を大幅にリニューアルしてスタート。番組コンセプトとして、「痩せたい！」「旅に出たい！」「美味しいものを食べたい！」 何かとせわしない平日のお昼どきを過ごしているお茶の間を女性達をターゲットにお得感たっぷりの番組としている。
 
-『2時ワクッ\!』の前身番組の『[2時ドキッ\!](https://ja.wikipedia.org/wiki/2時ドキッ! "wikilink")』のように、各曜日ごとにテーマを設け、それに沿った内容で放送された。
+『2時ワクッ\!』の前身番組の『[2時ドキッ\!](../Page/2時ドキッ!.md "wikilink")』のように、各曜日ごとにテーマを設け、それに沿った内容で放送された。
 
-番組開始後、2006年3月の[ワンクールで番組が終了したため](https://ja.wikipedia.org/wiki/クール_\(放送\) "wikilink")、実質的に放送時間が掛っている『[FNNスーパーニュースアンカー](https://ja.wikipedia.org/wiki/FNNスーパーニュースアンカー "wikilink")』放送スタートまでの[つなぎ番組](https://ja.wikipedia.org/wiki/つなぎ番組 "wikilink")となった。本番組の終了により、平日午後帯のFNS西日本ブロックネットで放送される情報番組枠は消滅した。
+番組開始後、2006年3月の[ワンクールで番組が終了したため](../Page/クール_\(放送\).md "wikilink")、実質的に放送時間が掛っている『[FNNスーパーニュースアンカー](../Page/FNNスーパーニュースアンカー.md "wikilink")』放送スタートまでの[つなぎ番組](../Page/つなぎ番組.md "wikilink")となった。本番組の終了により、平日午後帯のFNS西日本ブロックネットで放送される情報番組枠は消滅した。
 
 この番組終了から3年後の2009年に『[あっぷ\&UP\!](https://ja.wikipedia.org/wiki/あっぷ&UP! "wikilink")』が始まるまで14時台はドラマ再放送を行った。\[1\]
 
@@ -41,7 +41,7 @@
 
 ### 金曜日
 
-  - [週刊\!芸能キング](https://ja.wikipedia.org/wiki/週刊!芸能キング "wikilink")
+  - [週刊\!芸能キング](../Page/週刊!芸能キング.md "wikilink")
 
 最新の芸能情報と、全国各地のお取り寄せグルメを紹介するコーナーの2本立てで、前番組である『2時ワクッ\!』金曜日の内容をほぼ踏襲していた。金曜日のみ[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作。
 
@@ -51,7 +51,7 @@
 
 <!-- end list -->
 
-  - [オーケイ](https://ja.wikipedia.org/wiki/オーケイ "wikilink")（火曜日）
+  - [オーケイ](../Page/オーケイ.md "wikilink")（火曜日）
   - [藤本景子](https://ja.wikipedia.org/wiki/藤本景子 "wikilink")（関西テレビアナウンサー）（金曜日）
 
 <!-- end list -->
@@ -60,12 +60,12 @@
 
 \[2\]
 
-  - [大西ユカリ](https://ja.wikipedia.org/wiki/大西ユカリ "wikilink")（月曜日）
+  - [大西ユカリ](../Page/大西ユカリ.md "wikilink")（月曜日）
   - [岡安譲](../Page/岡安譲.md "wikilink")（関西テレビアナウンサー）（月曜日）
   - [ランディーズ](../Page/ランディーズ.md "wikilink")（月曜日）
   - [$10](../Page/テンダラー_\(お笑いコンビ\).md "wikilink")（月曜日）
   - まあくん（アイドル研究家）（月曜日）
-  - [チュートリアル](https://ja.wikipedia.org/wiki/チュートリアル_\(お笑いコンビ\) "wikilink")（金曜日）
+  - [チュートリアル](../Page/チュートリアル_\(お笑いコンビ\).md "wikilink")（金曜日）
   - [久本朋子](../Page/久本朋子.md "wikilink")（金曜日）
   - [前田忠明](../Page/前田忠明.md "wikilink")（金曜日）
   - 松本佳子（芸能レポーター）（金曜日）
@@ -74,7 +74,7 @@
 
   - [谷口キヨコ](https://ja.wikipedia.org/wiki/谷口キヨコ "wikilink")（木曜日）
   - [モンスター前塚](https://ja.wikipedia.org/wiki/モンスター前塚 "wikilink")（金曜日）
-  - [大島榎奈](https://ja.wikipedia.org/wiki/大島榎奈 "wikilink")（金曜日）
+  - [大島榎奈](../Page/大島榎奈.md "wikilink")（金曜日）
 
 ## ネット局と放送時間
 
@@ -123,7 +123,7 @@
   - プロデューサー：栄川歩美
   - チーフプロデューサー：谷口俊哉
   - 映像協力：[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")
-  - スタッフ協力：[東通企画](https://ja.wikipedia.org/wiki/東通企画 "wikilink")、[イングス](https://ja.wikipedia.org/wiki/イングス_\(映像制作会社\) "wikilink")
+  - スタッフ協力：[東通企画](../Page/東通企画.md "wikilink")、[イングス](../Page/イングス_\(映像制作会社\).md "wikilink")
   - 制作協力：[メディアQuest](https://ja.wikipedia.org/wiki/メディアクエスト "wikilink")
   - 制作著作：関西テレビ
 
@@ -137,6 +137,6 @@
 
 [Category:2006年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のテレビ番組_\(日本\) "wikilink") [Category:関西テレビの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:関西テレビの帯番組の歴史 "wikilink") [Category:関西テレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:関西テレビの情報・ワイドショー番組 "wikilink")
 
-1.  『F-CUBE』終了後、岡山放送（2006年10月6日以降）、高知さんさんテレビ、テレビ長崎は『[ひるこた\!〜昼もこたえてちょーだい\!〜](https://ja.wikipedia.org/wiki/ひるこた!〜昼もこたえてちょーだい!〜 "wikilink")』（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")）のネット受けに移行。
+1.  『F-CUBE』終了後、岡山放送（2006年10月6日以降）、高知さんさんテレビ、テレビ長崎は『[ひるこた\!〜昼もこたえてちょーだい\!〜](../Page/ひるこた!〜昼もこたえてちょーだい!〜.md "wikilink")』（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")）のネット受けに移行。
 2.  水、木曜日は、ドキュメンタリー、ロケ企画のためレギュラー出演者は無し。
 3.  『2時ワクッ\!』のネット局のうち、[テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")と[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")では、本番組の全曜日のネットは行われなかった。

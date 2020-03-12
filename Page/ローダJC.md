@@ -1,7 +1,7 @@
 > この記事は[JC](https://ja.wikipedia.org/wiki/JC)から翻訳されています。
 
 
-**ローダJC**（**Sportvereniging Roda Juliana Combinatie Kerkrade** (;)）は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の南東部、[リンブルフ州の都市](https://ja.wikipedia.org/wiki/リンブルフ州_\(オランダ\) "wikilink")[ケルクラーデ](https://ja.wikipedia.org/wiki/ケルクラーデ "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。読み方は「ローダ・イェー・セー」。
+**ローダJC**（**Sportvereniging Roda Juliana Combinatie Kerkrade** (;)）は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の南東部、[リンブルフ州の都市](../Page/リンブルフ州_\(オランダ\).md "wikilink")[ケルクラーデ](../Page/ケルクラーデ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。読み方は「ローダ・イェー・セー」。
 
 1954年、[SVケルクラーデ](https://ja.wikipedia.org/wiki/SVケルクラーデ "wikilink")と[SVブレイイェルヘイデ](https://ja.wikipedia.org/wiki/SVブレイイェルヘイデ "wikilink")が合併してローダ・スポートが誕生。同年にケルクラーデのアマチュアクラブが統合してラピドJCが誕生した。その2つのクラブが1962年に合併してローダJCとなり現在に至る。
 
@@ -131,11 +131,11 @@
 
   - エディ・アクテルベルグ 1996
 
-  - [マルティン・ヨル](https://ja.wikipedia.org/wiki/マルティン・ヨル "wikilink") 1996-1998
+  - [マルティン・ヨル](../Page/マルティン・ヨル.md "wikilink") 1996-1998
 
   - テオ・フォンク 1998-1999
 
-  - [セフ・フェルホーセン](https://ja.wikipedia.org/wiki/セフ・フェルホーセン "wikilink") 1999-2001
+  - [セフ・フェルホーセン](../Page/セフ・フェルホーセン.md "wikilink") 1999-2001
 
   - [ヤン・ファン・ダイク](https://ja.wikipedia.org/wiki/ヤン・ファン・ダイク_\(サッカー選手\) "wikilink") 2001
 
@@ -149,7 +149,7 @@
 
   - ルート・ブロート 2012-2013
 
-  - [ヨン・ダール・トマソン](https://ja.wikipedia.org/wiki/ヨン・ダール・トマソン "wikilink") 2013-2014
+  - [ヨン・ダール・トマソン](../Page/ヨン・ダール・トマソン.md "wikilink") 2013-2014
 
   - レネ・トロスト 2014-2015
 
@@ -185,7 +185,7 @@
 
 ### MF
 
-  - [ディック・アドフォカート](https://ja.wikipedia.org/wiki/ディック・アドフォカート "wikilink")1973-1977
+  - [ディック・アドフォカート](../Page/ディック・アドフォカート.md "wikilink")1973-1977
 
   - [アドリー・コスター](../Page/アドリー・コスター.md "wikilink") 1977-1979
 
@@ -199,11 +199,11 @@
 
   - [ロン・ヤンス](../Page/ロン・ヤンス.md "wikilink") 1984-1987
 
-  - [ジョン・ファンルーン](https://ja.wikipedia.org/wiki/ジョン・ファンルーン "wikilink") 1988-1990
+  - [ジョン・ファンルーン](../Page/ジョン・ファンルーン.md "wikilink") 1988-1990
 
-  - [グラハム・アーノルド](https://ja.wikipedia.org/wiki/グラハム・アーノルド "wikilink") 1990-1992
+  - [グラハム・アーノルド](../Page/グラハム・アーノルド.md "wikilink") 1990-1992
 
-  - [ティジャニ・ババンギダ](https://ja.wikipedia.org/wiki/ティジャニ・ババンギダ "wikilink") 1993-1996
+  - [ティジャニ・ババンギダ](../Page/ティジャニ・ババンギダ.md "wikilink") 1993-1996
 
   - [アルナ・コネ](../Page/アルナ・コネ.md "wikilink") 2003-2005
 

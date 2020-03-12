@@ -9,15 +9,15 @@
 
 [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に少女隊のメンバー交替後（チーコの替わりにトモの加入）12インチシングル「Forever2001」でリメークされる。
 
-[1999年](../Page/1999年.md "wikilink")にはレイコ、チーコ、トモの三人で再結成した1999少女隊によって少女の成長を描くアニメ「[十兵衛ちゃん](https://ja.wikipedia.org/wiki/十兵衛ちゃん "wikilink")〜ラブリー眼帯の秘密」（原作・総監督：[大地丙太郎](../Page/大地丙太郎.md "wikilink")）の主題歌としてリメークされた。
+[1999年](../Page/1999年.md "wikilink")にはレイコ、チーコ、トモの三人で再結成した1999少女隊によって少女の成長を描くアニメ「[十兵衛ちゃん](../Page/十兵衛ちゃん.md "wikilink")〜ラブリー眼帯の秘密」（原作・総監督：[大地丙太郎](../Page/大地丙太郎.md "wikilink")）の主題歌としてリメークされた。
 
-さらに[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")には、[SUEMITSU & THE SUEMITHが後半に一部英語詞を織り交ぜる形でカバーし](https://ja.wikipedia.org/wiki/SUEMITSU_&_THE_SUEMITH "wikilink")、シングル「[Sunday'z Sun e.p.](../Page/Sunday'z_Sun_e.p..md "wikilink")」のカップリングに収録した。
+さらに[2006年](../Page/2006年.md "wikilink")には、[SUEMITSU & THE SUEMITHが後半に一部英語詞を織り交ぜる形でカバーし](https://ja.wikipedia.org/wiki/SUEMITSU_&_THE_SUEMITH "wikilink")、シングル「[Sunday'z Sun e.p.](../Page/Sunday'z_Sun_e.p..md "wikilink")」のカップリングに収録した。
 
 ## 収録曲
 
 1.  **Forever　〜ギンガム・チェックStory〜**
       -
-        作詞：[亜伊林](https://ja.wikipedia.org/wiki/三浦徳子 "wikilink") 作曲：[都倉俊一](https://ja.wikipedia.org/wiki/都倉俊一 "wikilink") 編曲：John　D'andrea、David　Wheatly
+        作詞：[亜伊林](../Page/三浦徳子.md "wikilink") 作曲：[都倉俊一](../Page/都倉俊一.md "wikilink") 編曲：John　D'andrea、David　Wheatly
 2.  **ピンクのタオル**
       -
         作詞：亜伊林 作曲：都倉俊一 編曲： David　Wheatly

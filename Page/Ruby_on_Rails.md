@@ -1,7 +1,7 @@
 > この記事は[Ruby on Rails](https://ja.wikipedia.org/wiki/Ruby_on_Rails)から翻訳されています。
 
 
-**[Ruby](../Page/Ruby.md "wikilink") on Rails**（ルビーオンレイルズ）は、[オープンソース](../Page/オープンソース.md "wikilink")の[Webアプリケーションフレームワーク](../Page/Webアプリケーションフレームワーク.md "wikilink")である。**RoR**または単に**Rails**と呼ばれる。その名にも示されているように[Ruby](../Page/Ruby.md "wikilink")で書かれている。また[Model View Controller](https://ja.wikipedia.org/wiki/Model_View_Controller "wikilink")（MVC）アーキテクチャに基づいて構築されている。
+**[Ruby](../Page/Ruby.md "wikilink") on Rails**（ルビーオンレイルズ）は、[オープンソース](../Page/オープンソース.md "wikilink")の[Webアプリケーションフレームワーク](../Page/Webアプリケーションフレームワーク.md "wikilink")である。**RoR**または単に**Rails**と呼ばれる。その名にも示されているように[Ruby](../Page/Ruby.md "wikilink")で書かれている。また[Model View Controller](../Page/Model_View_Controller.md "wikilink")（MVC）アーキテクチャに基づいて構築されている。
 
 実アプリケーションの開発を他のフレームワークより少ないコードで簡単に開発できるよう考慮し設計されている。Railsの公式なパッケージはRubyの[ライブラリ](../Page/ライブラリ.md "wikilink")や[アプリケーションの流通ルートである](../Page/アプリケーションソフトウェア.md "wikilink")[RubyGems](https://ja.wikipedia.org/wiki/RubyGems "wikilink")により配布されている。
 
@@ -9,7 +9,7 @@
 
 Railsの基本理念は「同じことを繰り返さない」（[DRY:*Don't Repeat Yourself*](https://ja.wikipedia.org/wiki/Don't_repeat_yourself "wikilink")）と「[設定より規約](https://ja.wikipedia.org/wiki/設定より規約 "wikilink")」（CoC:*Convention over Configuration*）である。
 
-「同じことを繰り返さない」というのは、「定義などの作業は一回だけで済ませろ」との意味である\[1\]。「設定よりも規約」とは、「慎重に設計された規約（Convention）に従うことにより、設定（Configuration）を不要にする（あるいは軽減する）」ということである。Railsはフルスタックのフレームワークであり、コンポーネントの統合は手動での設定を必要とせず自動で規約に従い行われる。例えば、Ruby on Railsに組み込みの[ORMライブラリである](https://ja.wikipedia.org/wiki/オブジェクトリレーショナルマッピング "wikilink")[Active Recordでは](https://ja.wikipedia.org/wiki/Active_Record "wikilink")、クラス定義においてデータベースから読み取るべき属性名等を指定する必要はない。Active Recordは[RDBMSの表定義から自動的にその情報を取得する](../Page/関係データベース管理システム.md "wikilink")。したがって、プログラムとRDBMSの両方にそれを定義するというような冗長な作業を行う必要はない。
+「同じことを繰り返さない」というのは、「定義などの作業は一回だけで済ませろ」との意味である\[1\]。「設定よりも規約」とは、「慎重に設計された規約（Convention）に従うことにより、設定（Configuration）を不要にする（あるいは軽減する）」ということである。Railsはフルスタックのフレームワークであり、コンポーネントの統合は手動での設定を必要とせず自動で規約に従い行われる。例えば、Ruby on Railsに組み込みの[ORMライブラリである](https://ja.wikipedia.org/wiki/オブジェクトリレーショナルマッピング "wikilink")[Active Recordでは](../Page/Active_Record.md "wikilink")、クラス定義においてデータベースから読み取るべき属性名等を指定する必要はない。Active Recordは[RDBMSの表定義から自動的にその情報を取得する](../Page/関係データベース管理システム.md "wikilink")。したがって、プログラムとRDBMSの両方にそれを定義するというような冗長な作業を行う必要はない。
 
 ## 歴史
 
@@ -27,7 +27,7 @@ Ruby on Railsは[デンマーク](https://ja.wikipedia.org/wiki/デンマーク 
 
 ## RoRのMVCアーキテクチャ
 
-Rails上の[MVCアーキテクチャは次のとおりである](https://ja.wikipedia.org/wiki/Model_View_Controller "wikilink")（Action Packは、この中のViewとControllerのことを指している）。
+Rails上の[MVCアーキテクチャは次のとおりである](../Page/Model_View_Controller.md "wikilink")（Action Packは、この中のViewとControllerのことを指している）。
 
 ### Model
 
@@ -47,7 +47,7 @@ MVCではControllerはRailsのAction Packには含まれるアプリケーショ
 
 ### 特徴
 
-MerbのプロジェクトはRuby on Railsの[コントローラースタックにおける](https://ja.wikipedia.org/wiki/Model_View_Controller "wikilink")[クリーンルーム実装](../Page/ソフトウェアクリーンルーム.md "wikilink")\[5\]として始められたが、Railsの精神や方法論から派生した数あるアイデアを組み込むまでに成長した。
+MerbのプロジェクトはRuby on Railsの[コントローラースタックにおける](../Page/Model_View_Controller.md "wikilink")[クリーンルーム実装](../Page/ソフトウェアクリーンルーム.md "wikilink")\[5\]として始められたが、Railsの精神や方法論から派生した数あるアイデアを組み込むまでに成長した。
 
 Merbはコンポーネントに[モジュール性を持ち](https://ja.wikipedia.org/wiki/モジュール#ソフトウェア "wikilink")、伸張性のある[APIデザインや](../Page/アプリケーションプログラミングインタフェース.md "wikilink")[垂直スケーラビリティを有している](https://ja.wikipedia.org/wiki/スケーラビリティ "wikilink")。MerbはRails以上にフレキシブルで処理が早いフレームワークにしようと考えられていた\[6\]。
 
@@ -60,8 +60,8 @@ Merbはコンポーネントに[モジュール性を持ち](https://ja.wikipedi
 ## 関連項目
 
   - [デイヴィッド・ハイネマイヤー・ハンソン](https://ja.wikipedia.org/wiki/デイヴィッド・ハイネマイヤー・ハンソン "wikilink")
-  - [アジャイルソフトウェア開発](https://ja.wikipedia.org/wiki/アジャイルソフトウェア開発 "wikilink")
-  - [重複コード](https://ja.wikipedia.org/wiki/重複コード "wikilink")
+  - [アジャイルソフトウェア開発](../Page/アジャイルソフトウェア開発.md "wikilink")
+  - [重複コード](../Page/重複コード.md "wikilink")
   - [オブジェクト関係マッピング](../Page/オブジェクト関係マッピング.md "wikilink")
 
 ## 脚注

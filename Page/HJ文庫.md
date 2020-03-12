@@ -1,19 +1,19 @@
 > この記事は[HJ](https://ja.wikipedia.org/wiki/HJ)から翻訳されています。
 
 
-**HJ文庫**（エイチジェイぶんこ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[出版社](../Page/出版社.md "wikilink")・[ホビージャパン](../Page/ホビージャパン.md "wikilink")が発行する[ライトノベル](../Page/ライトノベル.md "wikilink")系[文庫レーベルである](../Page/文庫本.md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月1日](../Page/7月1日.md "wikilink")創刊。
+**HJ文庫**（エイチジェイぶんこ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[出版社](../Page/出版社.md "wikilink")・[ホビージャパン](../Page/ホビージャパン.md "wikilink")が発行する[ライトノベル](../Page/ライトノベル.md "wikilink")系[文庫レーベルである](../Page/文庫本.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")創刊。
 
 ## 概要
 
-キャッチコピーは「**キミのHeartをJackする\!**」。創刊と同時に新人発掘の場として[HJ文庫大賞](../Page/HJ文庫大賞.md "wikilink")（2006年 - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")は「ノベルジャパン大賞」名義）を実施。また、姉妹レーベルとして[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")の[リプレイや](../Page/リプレイ_\(TRPG\).md "wikilink")[ゲームブック](https://ja.wikipedia.org/wiki/ゲームブック "wikilink")を中心とする[HJ文庫G](../Page/HJ文庫G.md "wikilink")を[2007年](../Page/2007年.md "wikilink")10月より刊行している。関連雑誌として2006年9月から『Novel JAPAN』及び後継誌の『[キャラの\!](../Page/キャラの!.md "wikilink")』を刊行していたが、[2009年](../Page/2009年.md "wikilink")3月号を以て休刊した。
+キャッチコピーは「**キミのHeartをJackする\!**」。創刊と同時に新人発掘の場として[HJ文庫大賞](../Page/HJ文庫大賞.md "wikilink")（2006年 - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")は「ノベルジャパン大賞」名義）を実施。また、姉妹レーベルとして[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")の[リプレイや](../Page/リプレイ_\(TRPG\).md "wikilink")[ゲームブック](../Page/ゲームブック.md "wikilink")を中心とする[HJ文庫G](../Page/HJ文庫G.md "wikilink")を[2007年](../Page/2007年.md "wikilink")10月より刊行している。関連雑誌として2006年9月から『Novel JAPAN』及び後継誌の『[キャラの\!](../Page/キャラの!.md "wikilink")』を刊行していたが、[2009年](../Page/2009年.md "wikilink")3月号を以て休刊した。
 
 創刊当初の表紙カバーデザインが[角川スニーカー文庫](https://ja.wikipedia.org/wiki/角川スニーカー文庫 "wikilink")と区別が付きにくく不評であったことなどを受け、創刊からわずか半年の2007年1月に刊行されたタイトルよりデザインが大幅に変更されたが、2016年9月刊行分より再びリニューアル\[1\]された。なお、背表紙では[ファミ通文庫](../Page/ファミ通文庫.md "wikilink")（[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")）と同様に「[シリーズ番号](https://ja.wikipedia.org/wiki/ファミ通文庫#概要 "wikilink")」を採用している。
 
 ライトノベル系レーベルとしては後発に属するものの創刊から短期間で日本国外へ進出し、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")・[東立出版社](../Page/東立出版社.md "wikilink")と独占契約を締結。同社の「<span lang="zh">東立輕小說</span>」レーベルでほぼ全タイトルが[繁体字](../Page/繁体字.md "wikilink")[中文に翻訳出版されている](https://ja.wikipedia.org/wiki/中国語 "wikilink")。
 
-2007年に[ジュブナイルポルノ](https://ja.wikipedia.org/wiki/ジュブナイルポルノ "wikilink")出身の[わかつきひかる](https://ja.wikipedia.org/wiki/わかつきひかる "wikilink")が一般向け作品を刊行して以降、同分野の出身者を比較的多く取り込んでいる。他レーベルに見られる[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")の[小説化](../Page/小説化.md "wikilink")作品は創刊以来、長らく刊行されていなかったが[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に1点のみ刊行された。
+2007年に[ジュブナイルポルノ](../Page/ジュブナイルポルノ.md "wikilink")出身の[わかつきひかる](../Page/わかつきひかる.md "wikilink")が一般向け作品を刊行して以降、同分野の出身者を比較的多く取り込んでいる。他レーベルに見られる[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")の[小説化](../Page/小説化.md "wikilink")作品は創刊以来、長らく刊行されていなかったが[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に1点のみ刊行された。
 
-文庫オリジナルからの[アニメ化](https://ja.wikipedia.org/wiki/アニメ化 "wikilink")作品には『[いちばんうしろの大魔王](../Page/いちばんうしろの大魔王.md "wikilink")』、『[百花繚乱 SAMURAI GIRLS](https://ja.wikipedia.org/wiki/百花繚乱_SAMURAI_GIRLS "wikilink")』、『[はぐれ勇者の鬼畜美学](https://ja.wikipedia.org/wiki/はぐれ勇者の鬼畜美学 "wikilink")』などがある。[漫画化](https://ja.wikipedia.org/wiki/漫画化 "wikilink")作品は創刊当初、ホビージャパンが漫画専門誌を持たない状態であった為に『いちばんうしろの大魔王』が[秋田書店](../Page/秋田書店.md "wikilink")『[チャンピオンRED](https://ja.wikipedia.org/wiki/チャンピオンRED "wikilink")』で連載されている以外は前述の『キャラの\!』で『くじびきシスタ〜ず』（『[くじびき勇者さま](../Page/くじびき勇者さま.md "wikilink")』の前日譚）と『[AKUMAで少女](../Page/AKUMAで少女.md "wikilink")』の2タイトルが連載されたのみに留まっていたが、[2011年](../Page/2011年.md "wikilink")12月に[ウェブコミック配信サイト](https://ja.wikipedia.org/wiki/ウェブコミック配信サイト "wikilink")『[コミック・ダンガン](https://ja.wikipedia.org/wiki/コミック・ダンガン "wikilink")』がオープンして以降は『[俺がヒロインを助け過ぎて世界がリトル黙示録\!?](https://ja.wikipedia.org/wiki/俺がヒロインを助け過ぎて世界がリトル黙示録!? "wikilink")』や『[僕の妹は漢字が読める](https://ja.wikipedia.org/wiki/僕の妹は漢字が読める "wikilink")』など、同サイトで本レーベルからの漫画化作品を積極的に連載して行く方針を採っていた\[2\]。[2014年](../Page/2014年.md "wikilink")に『コミック・ダンガン』がホビージャパンから独立して株式会社ダンガンの運営となったのに前後し、HJ文庫公式サイト内にコミカライズ連載を専門とする『**コミックHJ文庫**（2016年8月に『**コミックファイア**』に改名）』が新設され、一部の連載が『コミック・ダンガン』から移籍している。
+文庫オリジナルからの[アニメ化](https://ja.wikipedia.org/wiki/アニメ化 "wikilink")作品には『[いちばんうしろの大魔王](../Page/いちばんうしろの大魔王.md "wikilink")』、『[百花繚乱 SAMURAI GIRLS](https://ja.wikipedia.org/wiki/百花繚乱_SAMURAI_GIRLS "wikilink")』、『[はぐれ勇者の鬼畜美学](https://ja.wikipedia.org/wiki/はぐれ勇者の鬼畜美学 "wikilink")』などがある。[漫画化](https://ja.wikipedia.org/wiki/漫画化 "wikilink")作品は創刊当初、ホビージャパンが漫画専門誌を持たない状態であった為に『いちばんうしろの大魔王』が[秋田書店](../Page/秋田書店.md "wikilink")『[チャンピオンRED](../Page/チャンピオンRED.md "wikilink")』で連載されている以外は前述の『キャラの\!』で『くじびきシスタ〜ず』（『[くじびき勇者さま](../Page/くじびき勇者さま.md "wikilink")』の前日譚）と『[AKUMAで少女](../Page/AKUMAで少女.md "wikilink")』の2タイトルが連載されたのみに留まっていたが、[2011年](../Page/2011年.md "wikilink")12月に[ウェブコミック配信サイト](https://ja.wikipedia.org/wiki/ウェブコミック配信サイト "wikilink")『[コミック・ダンガン](https://ja.wikipedia.org/wiki/コミック・ダンガン "wikilink")』がオープンして以降は『[俺がヒロインを助け過ぎて世界がリトル黙示録\!?](https://ja.wikipedia.org/wiki/俺がヒロインを助け過ぎて世界がリトル黙示録!? "wikilink")』や『[僕の妹は漢字が読める](https://ja.wikipedia.org/wiki/僕の妹は漢字が読める "wikilink")』など、同サイトで本レーベルからの漫画化作品を積極的に連載して行く方針を採っていた\[2\]。[2014年](../Page/2014年.md "wikilink")に『コミック・ダンガン』がホビージャパンから独立して株式会社ダンガンの運営となったのに前後し、HJ文庫公式サイト内にコミカライズ連載を専門とする『**コミックHJ文庫**（2016年8月に『**コミックファイア**』に改名）』が新設され、一部の連載が『コミック・ダンガン』から移籍している。
 
 また、人気シリーズの外伝や、完全新作、ときには試し読みを2015年にウェブ小説サイト『**読める\!HJ文庫**』で公開していた。
 
@@ -59,7 +59,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/アイドルマスター_XENOGLOSSIA.md" title="wikilink">アイドルマスター XENOGLOSSIA 伊織サンシャイン!+</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/涼風涼" title="wikilink">涼風涼</a></p></td>
+<td><p><a href="../Page/涼風涼.md" title="wikilink">涼風涼</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/シコルスキー_(イラストレーター)" title="wikilink">シコルスキー</a></p></td>
 <td><p>単巻</p></td>
 </tr>
@@ -83,7 +83,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/AKUMAで少女.md" title="wikilink">AKUMAで少女</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/わかつきひかる" title="wikilink">わかつきひかる</a></p></td>
+<td><p><a href="../Page/わかつきひかる.md" title="wikilink">わかつきひかる</a></p></td>
 <td><p><a href="../Page/高階@聖人.md" title="wikilink">高階@聖人</a></p></td>
 <td><p>全4巻</p></td>
 </tr>
@@ -131,7 +131,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/アレクシオン・サーガ" title="wikilink">アレクシオン・サーガ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/五代ゆう" title="wikilink">五代ゆう</a></p></td>
+<td><p><a href="../Page/五代ゆう.md" title="wikilink">五代ゆう</a></p></td>
 <td><p><a href="../Page/いのまたむつみ.md" title="wikilink">いのまたむつみ</a></p></td>
 <td><p>全2巻</p></td>
 </tr>
@@ -143,13 +143,13 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/アンリミテッド・オーバースキル" title="wikilink">アンリミテッド・オーバースキル</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/神野オキナ" title="wikilink">神野オキナ</a></p></td>
+<td><p><a href="../Page/神野オキナ.md" title="wikilink">神野オキナ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/唯" title="wikilink">唯</a></p></td>
 <td><p>単巻</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/戦姫" title="wikilink">戦姫</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/夏緑" title="wikilink">夏緑</a></p></td>
+<td><p><a href="../Page/夏緑.md" title="wikilink">夏緑</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/シオミヤイルカ" title="wikilink">シオミヤイルカ</a></p></td>
 <td><p>全3巻</p></td>
 </tr>
@@ -185,7 +185,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/いちばんうしろの大魔王.md" title="wikilink">いちばんうしろの大魔王</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/水城正太郎" title="wikilink">水城正太郎</a></p></td>
+<td><p><a href="../Page/水城正太郎.md" title="wikilink">水城正太郎</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/伊藤宗一" title="wikilink">伊藤宗一</a></p></td>
 <td><p>全13巻</p></td>
 </tr>
@@ -277,7 +277,7 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/おまかせ退魔!_シールドガールズ" title="wikilink">おまかせ退魔! シールドガールズ</a></p></td>
 <td><p>すずきあきら<br />
-原作：<a href="https://ja.wikipedia.org/wiki/明貴美加" title="wikilink">明貴美加</a></p></td>
+原作：<a href="../Page/明貴美加.md" title="wikilink">明貴美加</a></p></td>
 <td><p>明貴美加</p></td>
 <td><p>全3巻</p></td>
 </tr>
@@ -395,7 +395,7 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/きぐタン_可愛くて凶悪な○○者" title="wikilink">きぐタン 可愛くて凶悪な○○者</a></p></td>
 <td><p>神野オキナ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/狐印" title="wikilink">狐印</a></p></td>
+<td><p><a href="../Page/狐印.md" title="wikilink">狐印</a></p></td>
 <td><p>単巻</p></td>
 </tr>
 <tr class="even">
@@ -479,7 +479,7 @@
 <tr class="odd">
 <td><p><a href="../Page/くじびき勇者さま.md" title="wikilink">くじびき勇者さま</a></p></td>
 <td><p><a href="../Page/清水文化.md" title="wikilink">清水文化</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/牛木義隆" title="wikilink">牛木義隆</a></p></td>
+<td><p><a href="../Page/牛木義隆.md" title="wikilink">牛木義隆</a></p></td>
 <td><p>全11巻</p></td>
 </tr>
 <tr class="even">
@@ -695,7 +695,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/シュレディンガーの猫耳少女" title="wikilink">シュレディンガーの猫耳少女</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/村田治" title="wikilink">村田治</a><br />
 <small>原作：<a href="../Page/GSIクレオス.md" title="wikilink">VANCE PROJECT</a></small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/わざきた" title="wikilink">わざきた</a></p></td>
+<td><p><a href="../Page/わざきた.md" title="wikilink">わざきた</a></p></td>
 <td><p>単巻</p></td>
 </tr>
 <tr class="odd">
@@ -803,7 +803,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/Strange_Strange" title="wikilink">Strange Strange</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/浅井ラボ" title="wikilink">浅井ラボ</a></p></td>
+<td><p><a href="../Page/浅井ラボ.md" title="wikilink">浅井ラボ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/しばの番茶" title="wikilink">しばの番茶</a></p></td>
 <td><p>単巻</p></td>
 </tr>
@@ -851,9 +851,9 @@
 <td><p>全2巻</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/セブンスターズの印刻使い" title="wikilink">セブンスターズの印刻使い</a><br />
+<td><p><a href="../Page/セブンスターズの印刻使い.md" title="wikilink">セブンスターズの印刻使い</a><br />
 <small>（初出：<a href="../Page/小説家になろう.md" title="wikilink">小説家になろう</a>）</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/涼暮皐" title="wikilink">涼暮皐</a></p></td>
+<td><p><a href="../Page/涼暮皐.md" title="wikilink">涼暮皐</a></p></td>
 <td><p>四季童子</p></td>
 <td><p>全3巻</p></td>
 </tr>
@@ -866,7 +866,7 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/せんすいかん" title="wikilink">せんすいかん</a></p></td>
 <td><p>水城正太郎</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/あぼしまこ" title="wikilink">あぼしまこ</a></p></td>
+<td><p><a href="../Page/あぼしまこ.md" title="wikilink">あぼしまこ</a></p></td>
 <td><p>全3巻<br />
 まとめ1巻</p></td>
 </tr>
@@ -890,8 +890,8 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/装甲騎兵ボトムズ.md" title="wikilink">装甲騎兵ボトムズ コマンドフォークト</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/野崎透" title="wikilink">野崎透</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/塩山紀生" title="wikilink">塩山紀生</a></p></td>
+<td><p><a href="../Page/野崎透.md" title="wikilink">野崎透</a></p></td>
+<td><p><a href="../Page/塩山紀生.md" title="wikilink">塩山紀生</a></p></td>
 <td><p>全2巻</p></td>
 </tr>
 <tr class="odd">
@@ -970,9 +970,9 @@
 <td><p>単巻</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/MADLAX" title="wikilink">旅する少女と灼熱の国</a></p></td>
+<td><p><a href="../Page/MADLAX.md" title="wikilink">旅する少女と灼熱の国</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/藤原征矢" title="wikilink">藤原征矢</a><br />
-<small>原作：<a href="https://ja.wikipedia.org/wiki/ビィートレイン" title="wikilink">ビィートレイン</a>・<a href="https://ja.wikipedia.org/wiki/フライングドッグ" title="wikilink">flying DOG</a><small></p></td>
+<small>原作：<a href="../Page/ビィートレイン.md" title="wikilink">ビィートレイン</a>・<a href="../Page/フライングドッグ.md" title="wikilink">flying DOG</a><small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/田上俊介" title="wikilink">田上俊介</a></p></td>
 <td><p>単巻</p></td>
 </tr>
@@ -1129,7 +1129,7 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ドラゴンフリート戦記_神眼の英雄提督" title="wikilink">ドラゴンフリート戦記 神眼の英雄提督</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/富永浩史" title="wikilink">富永浩史</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/コニシ" title="wikilink">コニシ</a></p></td>
+<td><p><a href="../Page/コニシ.md" title="wikilink">コニシ</a></p></td>
 <td><p>全2巻</p></td>
 </tr>
 <tr class="even">
@@ -1293,7 +1293,7 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/緋華Sparkling!" title="wikilink">緋華Sparkling!</a></p></td>
 <td><p>藤原征矢</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/松本規之" title="wikilink">松本規之</a></p></td>
+<td><p><a href="../Page/松本規之.md" title="wikilink">松本規之</a></p></td>
 <td><p>全2巻</p></td>
 </tr>
 <tr class="even">
@@ -1348,7 +1348,7 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/フェンリルの鎖" title="wikilink">フェンリルの鎖</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/うかれ猫" title="wikilink">うかれ猫</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/わざきた" title="wikilink">わざきた</a></p></td>
+<td><p><a href="../Page/わざきた.md" title="wikilink">わざきた</a></p></td>
 <td><p>全1巻</p></td>
 </tr>
 <tr class="odd">
@@ -1408,7 +1408,7 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ブレスレス・ハンター" title="wikilink">ブレスレス・ハンター</a></p></td>
 <td><p>葛西伸哉</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/金田榮路" title="wikilink">金田榮路</a></p></td>
+<td><p><a href="../Page/金田榮路.md" title="wikilink">金田榮路</a></p></td>
 <td><p>全3巻</p></td>
 </tr>
 <tr class="odd">
@@ -1477,7 +1477,7 @@
 <tr class="odd">
 <td><p><a href="../Page/舞-HiME★DESTINY_龍の巫女.md" title="wikilink">舞-HiME★DESTINY 龍の巫女</a></p></td>
 <td><p>伊吹秀明<br />
-<small>原作：<a href="../Page/矢立肇.md" title="wikilink">矢立肇</a>、<a href="https://ja.wikipedia.org/wiki/舞-HiMEプロジェクト" title="wikilink">舞-HiMEプロジェクト</a></small></p></td>
+<small>原作：<a href="../Page/矢立肇.md" title="wikilink">矢立肇</a>、<a href="../Page/舞-HiMEプロジェクト.md" title="wikilink">舞-HiMEプロジェクト</a></small></p></td>
 <td><p><a href="../Page/目黒三吉.md" title="wikilink">目黒三吉</a></p></td>
 <td><p>全2巻</p></td>
 </tr>
@@ -1583,15 +1583,15 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/無双嘘術の天才詐欺師_ハイスクール・チープトリック" title="wikilink">無双嘘術の天才詐欺師 ハイスクール・チープトリック</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/志茂文彦" title="wikilink">志茂文彦</a></p></td>
+<td><p><a href="../Page/志茂文彦.md" title="wikilink">志茂文彦</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/堤ヤマブキ" title="wikilink">堤ヤマブキ</a></p></td>
 <td><p>単巻</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/Mnemosyne-ムネモシュネの娘たち-" title="wikilink">ムネモシュネの娘たち2008</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大野木寛" title="wikilink">大野木寛</a><br />
-<small>原作：<a href="https://ja.wikipedia.org/wiki/ジーベック_(アニメ制作会社)" title="wikilink">XEBEC</a>・<a href="https://ja.wikipedia.org/wiki/ジェンコ" title="wikilink">GENCO</a></small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中央東口" title="wikilink">中央東口</a></p></td>
+<td><p><a href="../Page/大野木寛.md" title="wikilink">大野木寛</a><br />
+<small>原作：<a href="../Page/ジーベック_(アニメ制作会社).md" title="wikilink">XEBEC</a>・<a href="../Page/ジェンコ.md" title="wikilink">GENCO</a></small></p></td>
+<td><p><a href="../Page/中央東口.md" title="wikilink">中央東口</a></p></td>
 <td><p>単巻</p></td>
 </tr>
 <tr class="even">
@@ -1603,7 +1603,7 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/迷界のアマリリス" title="wikilink">迷界のアマリリス</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/和田賢一" title="wikilink">和田賢一</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/鈴見敦" title="wikilink">鈴見敦</a></p></td>
+<td><p><a href="../Page/鈴見敦.md" title="wikilink">鈴見敦</a></p></td>
 <td><p>単巻</p></td>
 </tr>
 <tr class="even">

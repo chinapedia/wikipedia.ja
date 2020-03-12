@@ -9,7 +9,7 @@
 
 </div>
 
-『**MANPA**』（マンパ）は、[読売テレビ](../Page/讀賣テレビ放送.md "wikilink") (ytv) で[火曜](../Page/火曜日.md "wikilink")[未明](https://ja.wikipedia.org/wiki/未明 "wikilink")（[月曜](../Page/月曜日.md "wikilink")[深夜](../Page/深夜.md "wikilink")）に放送されている[関西ローカル](https://ja.wikipedia.org/wiki/関西ローカル "wikilink")の[深夜アニメ](../Page/深夜アニメ.md "wikilink")枠。
+『**MANPA**』（マンパ）は、[読売テレビ](../Page/讀賣テレビ放送.md "wikilink") (ytv) で[火曜](../Page/火曜日.md "wikilink")[未明](https://ja.wikipedia.org/wiki/未明 "wikilink")（[月曜](../Page/月曜日.md "wikilink")[深夜](../Page/深夜.md "wikilink")）に放送されている[関西ローカル](../Page/関西ローカル.md "wikilink")の[深夜アニメ](../Page/深夜アニメ.md "wikilink")枠。
 
 尚、前身の『**MONDAY PARK**』（マンデーパーク）についても本項で記載する。
 
@@ -19,7 +19,7 @@
 
 [2017年](../Page/2017年.md "wikilink")1月期現在、毎週3 - 4本程度（後述するショートアニメや情報番組を含む）を放送している\[1\]。
 
-新設当初は[Gコード](https://ja.wikipedia.org/wiki/Gコード "wikilink")や[EPGが番組ごとに分けられていたが](../Page/電子番組ガイド.md "wikilink")、2004年[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")以降（[Yahoo\!テレビの番組表による](../Page/Yahoo!_JAPAN.md "wikilink")）は[コンプレックス形式として全番組が一まとめにされている](../Page/コンプレックス_\(番組形式\).md "wikilink")\[2\]。特に[2010年代](../Page/2010年代.md "wikilink")以降は、一般的な1本30分のアニメ番組の間に独自の[ミニ番組](https://ja.wikipedia.org/wiki/ミニ番組 "wikilink")（5分程度のショートアニメ作品や[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")）を組むようになり、複合形式を強化している。
+新設当初は[Gコード](../Page/Gコード.md "wikilink")や[EPGが番組ごとに分けられていたが](../Page/電子番組ガイド.md "wikilink")、2004年[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")以降（[Yahoo\!テレビの番組表による](../Page/Yahoo!_JAPAN.md "wikilink")）は[コンプレックス形式として全番組が一まとめにされている](../Page/コンプレックス_\(番組形式\).md "wikilink")\[2\]。特に[2010年代](../Page/2010年代.md "wikilink")以降は、一般的な1本30分のアニメ番組の間に独自の[ミニ番組](../Page/ミニ番組.md "wikilink")（5分程度のショートアニメ作品や[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")）を組むようになり、複合形式を強化している。
 
 番組開始時間の冒頭の3分間程度は[ステーションブレイク](https://ja.wikipedia.org/wiki/コマーシャルメッセージ#CMの種類 "wikilink")（[カウキャッチャー](../Page/カウキャッチャー_\(放送\).md "wikilink")）となり、実際には2:02に番組枠全体のオープニングムービーを流してから第1部の放送が始まる。ただし、時期によってはカウキャッチャーの時間が異なり、7分間もコマーシャルが流れることもある。また、当枠以前の時間帯の番組において放送時間が拡大されて5 - 10分程度遅れる週が多く、当枠自体も5分拡大する場合が多い。これにより、1年間で定時に放送が始まる回数は半分以下しかないなど、番組ごとに録画を行う際の弊害が生じている。
 
@@ -27,7 +27,7 @@
 
 『MONDAY PARK』時代は、新聞等の[番組表](https://ja.wikipedia.org/wiki/番組表 "wikilink")で字数の制約を受ける場合に『マンデーパーク』・『マンデー』・『月パーク』などと略記されることがあった。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")7月期より、読売テレビが[製作委員会に参加した](../Page/製作委員会方式.md "wikilink")[UHFアニメ](../Page/UHFアニメ.md "wikilink")『[無敵看板娘](https://ja.wikipedia.org/wiki/無敵看板娘 "wikilink")』が当枠で放送され、同局は在阪局で最後となるUHFアニメの放送に参入した。この時は単発の試みに留まったが、[その2年後の](https://ja.wikipedia.org/wiki/2008年 "wikilink")7月期に制作された『[乃木坂春香の秘密](../Page/乃木坂春香の秘密.md "wikilink")』で本格的に参入して以降はほぼ継続的に新作の製作に関与し、当枠にて放送している。
+[2006年](../Page/2006年.md "wikilink")7月期より、読売テレビが[製作委員会に参加した](../Page/製作委員会方式.md "wikilink")[UHFアニメ](../Page/UHFアニメ.md "wikilink")『[無敵看板娘](https://ja.wikipedia.org/wiki/無敵看板娘 "wikilink")』が当枠で放送され、同局は在阪局で最後となるUHFアニメの放送に参入した。この時は単発の試みに留まったが、[その2年後の](https://ja.wikipedia.org/wiki/2008年 "wikilink")7月期に制作された『[乃木坂春香の秘密](../Page/乃木坂春香の秘密.md "wikilink")』で本格的に参入して以降はほぼ継続的に新作の製作に関与し、当枠にて放送している。
 
 ## 歴史
 
@@ -43,15 +43,15 @@
 
 第1部の開始前には、オープニングムービー（かつては静止画）が流されるのが慣例となっている。またエンドカードは、オープニングの静止画に「おわり」や「END」と文字が振られたものである。
 
-現在のオープニングは2013年10月より使用されており、テーマソングの作曲を[高梨康治](https://ja.wikipedia.org/wiki/高梨康治 "wikilink")、アニメーションの制作を[サテライトが手掛けた](https://ja.wikipedia.org/wiki/サテライト_\(アニメ制作会社\) "wikilink")。ヒロインの女の子が[たこ焼き](https://ja.wikipedia.org/wiki/たこ焼き "wikilink")型のミサイルを空に向かって発射し、花火として爆発させ、MANPAちゃんとMANPAのロゴマークが登場するというもの。ムービー内には、読売テレビの開局55周年記念仕様のロゴマークが描かれた看板も登場する。先代のオープニングと共に、『ANIME ROOM』のトップページで動画として公開されている。
+現在のオープニングは2013年10月より使用されており、テーマソングの作曲を[高梨康治](../Page/高梨康治.md "wikilink")、アニメーションの制作を[サテライトが手掛けた](../Page/サテライト_\(アニメ制作会社\).md "wikilink")。ヒロインの女の子が[たこ焼き](https://ja.wikipedia.org/wiki/たこ焼き "wikilink")型のミサイルを空に向かって発射し、花火として爆発させ、MANPAちゃんとMANPAのロゴマークが登場するというもの。ムービー内には、読売テレビの開局55周年記念仕様のロゴマークが描かれた看板も登場する。先代のオープニングと共に、『ANIME ROOM』のトップページで動画として公開されている。
 
 ### 過去のオープニング
 
   - MONDAY PARK時代
-      - 金色に近い黄土色を背景に赤色の文字で『MONDAY PARK』と表記された静止画（[画面比](https://ja.wikipedia.org/wiki/画面アスペクト比 "wikilink")4:3サイズ、2010年6月まで）
+      - 金色に近い黄土色を背景に赤色の文字で『MONDAY PARK』と表記された静止画（[画面比](../Page/画面アスペクト比.md "wikilink")4:3サイズ、2010年6月まで）
       - [スケッチブック](https://ja.wikipedia.org/wiki/スケッチブック "wikilink")風の背景にデッサンと着色が施された『MONDAY PARK』と表記された静止画（画面比16:9サイズ、2010年7月から2011年12月まで）
   - MANPA時代
-      - [スタジオディーン](https://ja.wikipedia.org/wiki/スタジオディーン "wikilink")のアニメーターにより制作された。『M**O**NP**O**』と描かれたロゴが登場すると、「O」がたこ焼きに変わり、たこ焼きが拾い上げられた直後に『MANPA』のロゴが完成するというもの（同時に、Pの中にたこ焼きが刺さる）。背景は時計回りに、空が朝から昼・夕方（日没）・夜に変化していくと同時に、地上には[京都タワー](https://ja.wikipedia.org/wiki/京都タワー "wikilink")・[神戸ポートタワー](https://ja.wikipedia.org/wiki/神戸ポートタワー "wikilink")・[大阪城](https://ja.wikipedia.org/wiki/大阪城 "wikilink")・[通天閣](../Page/通天閣.md "wikilink")の順に登場する。音楽はアレンジされたもので、締めくくりには「[猫踏んじゃった](../Page/猫踏んじゃった.md "wikilink")」が用いられた。2012年1月から2013年9月まで放映された。
+      - [スタジオディーン](../Page/スタジオディーン.md "wikilink")のアニメーターにより制作された。『M**O**NP**O**』と描かれたロゴが登場すると、「O」がたこ焼きに変わり、たこ焼きが拾い上げられた直後に『MANPA』のロゴが完成するというもの（同時に、Pの中にたこ焼きが刺さる）。背景は時計回りに、空が朝から昼・夕方（日没）・夜に変化していくと同時に、地上には[京都タワー](../Page/京都タワー.md "wikilink")・[神戸ポートタワー](../Page/神戸ポートタワー.md "wikilink")・[大阪城](https://ja.wikipedia.org/wiki/大阪城 "wikilink")・[通天閣](../Page/通天閣.md "wikilink")の順に登場する。音楽はアレンジされたもので、締めくくりには「[猫踏んじゃった](../Page/猫踏んじゃった.md "wikilink")」が用いられた。2012年1月から2013年9月まで放映された。
 
 ## 放送作品一覧
 
@@ -60,7 +60,7 @@
 1.  自社（もしくは関連子会社の[読売テレビエンタープライズ](https://ja.wikipedia.org/wiki/読売テレビエンタープライズ "wikilink")（YTE））製作または製作協力作品
 2.  [日本テレビ製作作品](../Page/日本テレビ放送網.md "wikilink")（[詳細](../Page/日本テレビの深夜アニメ枠.md "wikilink")）
 3.  [UHFアニメ](../Page/UHFアニメ.md "wikilink")
-4.  [再放送](https://ja.wikipedia.org/wiki/再放送 "wikilink")作品
+4.  [再放送](../Page/再放送.md "wikilink")作品
 5.  [若手アニメーター育成プロジェクト](https://ja.wikipedia.org/wiki/若手アニメーター育成プロジェクト "wikilink")（アニメミライ→あにめたまご）の作品\[4\]
 
 ### 放送中
@@ -124,14 +124,14 @@
 <td><p>2007年10月16日 - 2008年2月12日</p></td>
 <td><p>第1部（1:59 - 2:29）</p></td>
 <td><p>本局が最速放送。2006年10月より2007年9月まで<a href="https://ja.wikipedia.org/wiki/読売テレビ制作月曜夜7時枠のアニメ" title="wikilink">月曜夜7時枠全国ネットで放送されていたが</a>、視聴率不振を払拭出来なかった結果、<br />
-系列局によってローカルセールス枠に格下げ、もしくは<a href="https://ja.wikipedia.org/wiki/打ち切り" title="wikilink">打ち切り</a>となった。</p></td>
+系列局によってローカルセールス枠に格下げ、もしくは<a href="../Page/打ち切り.md" title="wikilink">打ち切り</a>となった。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/乃木坂春香の秘密.md" title="wikilink">乃木坂春香の秘密</a></p></td>
 <td><p>2008年7月15日 - 9月30日</p></td>
 <td><p>第2部（2:39 - 3:09）</p></td>
 <td><p>本局が本格的にUHFアニメの制作に参入する端緒となった作品。以後、現在に至るまでほぼ継続して自社製作UHFアニメを製作・放送している。<br />
-<a href="https://ja.wikipedia.org/wiki/魔人探偵脳噛ネウロ" title="wikilink">前番組の放送スケジュールにより</a>、10月の第1週から放送するために放送開始前の<a href="https://ja.wikipedia.org/wiki/特別番組" title="wikilink">事前特番が未放送となった</a>。</p></td>
+<a href="https://ja.wikipedia.org/wiki/魔人探偵脳噛ネウロ" title="wikilink">前番組の放送スケジュールにより</a>、10月の第1週から放送するために放送開始前の<a href="../Page/特別番組.md" title="wikilink">事前特番が未放送となった</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ケメコデラックス!" title="wikilink">ケメコデラックス!</a></p></td>
@@ -140,13 +140,13 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/07-GHOST" title="wikilink">07-GHOST</a></p></td>
+<td><p><a href="../Page/07-GHOST.md" title="wikilink">07-GHOST</a></p></td>
 <td><p>2009年4月7日 - 9月22日</p></td>
 <td><p>第1部（1:44 - 2:14）</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/GA_芸術科アートデザインクラス" title="wikilink">GA 芸術科アートデザインクラス</a></p></td>
+<td><p><a href="../Page/GA_芸術科アートデザインクラス.md" title="wikilink">GA 芸術科アートデザインクラス</a></p></td>
 <td><p>2009年7月7日 - 9月22日</p></td>
 <td><p>第2部（2:14 - 2:44）</p></td>
 <td><p>本局が最速放送。</p></td>
@@ -259,7 +259,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ラブライブ!_(テレビアニメ)" title="wikilink">ラブライブ!</a></p></td>
 <td><p>2013年1月8日 - 4月2日</p></td>
 <td><p>第1部（1:58 - 2:28）</p></td>
-<td><p>YTEが協力として参加。2016年1月期に<a href="https://ja.wikipedia.org/wiki/NHK教育テレビジョン" title="wikilink">NHK Eテレで再放送</a>。</p></td>
+<td><p>YTEが協力として参加。2016年1月期に<a href="../Page/NHK教育テレビジョン.md" title="wikilink">NHK Eテレで再放送</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/翠星のガルガンティア" title="wikilink">翠星のガルガンティア</a></p></td>
@@ -393,7 +393,7 @@
   - [山口立花子](../Page/山口立花子.md "wikilink")（秋のMANPAちゃんガール、2012年10月16日 - 11月27日）
   - [佳村はるか](https://ja.wikipedia.org/wiki/佳村はるか "wikilink")（2代目MANPAちゃんガール、2012年12月4日 - 2013年1月29日）
   - [溝口小百合](https://ja.wikipedia.org/wiki/山口小百合_\(声優\) "wikilink")（3代目MANPAちゃんガール、2013年2月5日 - 3月26日）
-  - [田野アサミ](https://ja.wikipedia.org/wiki/田野アサミ "wikilink")（4代目MANPAちゃんガール、2013年4月2日 - 6月25日）
+  - [田野アサミ](../Page/田野アサミ.md "wikilink")（4代目MANPAちゃんガール、2013年4月2日 - 6月25日）
   - [森島亜梨紗](https://ja.wikipedia.org/wiki/森島亜梨紗 "wikilink")（5代目MANPAちゃんガール、2013年7月2日 - 10月1日）
   - [市道真央](../Page/市道真央.md "wikilink")（6代目MANPAちゃんガール・〈2014年1月より〉MANPAちゃんガール1号、2013年10月8日 - 9月30日）
   - [新田ひより](https://ja.wikipedia.org/wiki/新田ひより "wikilink")（MANPAちゃんガール2号、2014年1月7日 - 9月30日）
@@ -406,10 +406,10 @@
 <!-- end list -->
 
   - [サミュエル・ピナンスキー](https://ja.wikipedia.org/wiki/サミュエル・ピナンスキー "wikilink")（[翻訳家](https://ja.wikipedia.org/wiki/翻訳家 "wikilink")、2012年10月16日 - 12月18日）
-  - [浪川大輔](https://ja.wikipedia.org/wiki/浪川大輔 "wikilink")（[声優](../Page/声優.md "wikilink")、2012年12月25日、2013年12月24日、2014年9月30日）
-  - [長崎行男](https://ja.wikipedia.org/wiki/長崎行男 "wikilink")（[音響監督](https://ja.wikipedia.org/wiki/音響監督 "wikilink")、2013年1月8日）
-  - [村田和也](https://ja.wikipedia.org/wiki/村田和也 "wikilink")（[翠星のガルガンティア](https://ja.wikipedia.org/wiki/翠星のガルガンティア "wikilink")監督、2013年4月9日）
-  - [諏訪道彦](https://ja.wikipedia.org/wiki/諏訪道彦 "wikilink")（読売テレビ編成局アニメーション部チーフプロデューサー、2013年6月11日）
+  - [浪川大輔](../Page/浪川大輔.md "wikilink")（[声優](../Page/声優.md "wikilink")、2012年12月25日、2013年12月24日、2014年9月30日）
+  - [長崎行男](https://ja.wikipedia.org/wiki/長崎行男 "wikilink")（[音響監督](../Page/音響監督.md "wikilink")、2013年1月8日）
+  - [村田和也](../Page/村田和也.md "wikilink")（[翠星のガルガンティア](https://ja.wikipedia.org/wiki/翠星のガルガンティア "wikilink")監督、2013年4月9日）
+  - [諏訪道彦](../Page/諏訪道彦.md "wikilink")（読売テレビ編成局アニメーション部チーフプロデューサー、2013年6月11日）
   - [川口敬一郎](../Page/川口敬一郎.md "wikilink")（[人生相談テレビアニメーション「人生」監督](https://ja.wikipedia.org/wiki/人生_\(小説\) "wikilink")、2014年7月8日）
 
 #### 日本テレビ製作
@@ -429,7 +429,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/MONSTER" title="wikilink">MONSTER</a></p></td>
+<td><p><a href="../Page/MONSTER.md" title="wikilink">MONSTER</a></p></td>
 <td><p>2004年4月13日 - 2005年10月18日</p></td>
 <td><p>第1部（1:35 - 2:05 → 1:43 - 2:13）</p></td>
 <td></td>
@@ -451,7 +451,7 @@
 <td><p>2006年7月25日 - 8月29日</p></td>
 <td><p>第3部（2:42 - 3:12）</p></td>
 <td><p>日本テレビでの放送から3年9か月遅れての放送。<br />
-<a href="https://ja.wikipedia.org/wiki/花田少年史_幽霊と秘密のトンネル" title="wikilink">実写映画版の宣伝を兼ねたもので</a>、1 - 3・6・7・10話のみ放送された。</p></td>
+<a href="../Page/花田少年史_幽霊と秘密のトンネル.md" title="wikilink">実写映画版の宣伝を兼ねたもので</a>、1 - 3・6・7・10話のみ放送された。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/DEATH_NOTE_(アニメ)" title="wikilink">DEATH NOTE</a></p></td>
@@ -468,7 +468,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/賭博黙示録カイジ" title="wikilink">逆境無頼カイジ</a></p></td>
+<td><p><a href="../Page/賭博黙示録カイジ.md" title="wikilink">逆境無頼カイジ</a></p></td>
 <td><p>2007年10月30日 - 2008年2月12日<br />
 2008年2月19日 - 5月13日</p></td>
 <td><p>第2部（2:29 - 2:59）<br />
@@ -502,7 +502,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/蒼天航路" title="wikilink">蒼天航路</a></p></td>
+<td><p><a href="../Page/蒼天航路.md" title="wikilink">蒼天航路</a></p></td>
 <td><p>2009年6月23日 - 6月30日<br />
 2009年7月7日 - 9月29日<br />
 2009年10月6日 - 12月15日</p></td>
@@ -512,7 +512,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/君に届け" title="wikilink">君に届け</a></p></td>
+<td><p><a href="../Page/君に届け.md" title="wikilink">君に届け</a></p></td>
 <td><p>2009年12月22日 - 2010年1月5日<br />
 2010年1月12日 - 6月22日</p></td>
 <td><p>第3部（2:44 - 3:14）<br />
@@ -589,7 +589,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/戦国BASARA" title="wikilink">戦国BASARA Judge End</a></p></td>
+<td><p><a href="../Page/戦国BASARA.md" title="wikilink">戦国BASARA Judge End</a></p></td>
 <td><p>2014年7月15日 - 10月7日</p></td>
 <td><p>第3部（3:14 - 3:44）</p></td>
 <td><p>第1作『戦国BASARA』はMBS・<a href="https://ja.wikipedia.org/wiki/CBCテレビ" title="wikilink">CBCの共同製作</a>。<br />
@@ -597,7 +597,7 @@
 第4作『学園BASARA』は<a href="../Page/TBSテレビ.md" title="wikilink">TBSテレビ</a>で放送。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/寄生獣" title="wikilink">寄生獣 セイの格率</a></p></td>
+<td><p><a href="../Page/寄生獣.md" title="wikilink">寄生獣 セイの格率</a></p></td>
 <td><p>2014年11月4日 - 2015年5月5日</p></td>
 <td><p>第3部（3:12 - 3:42）<br />
 第4部（3:41 - 4:11）</p></td>
@@ -738,7 +738,7 @@
 <td><p>第2期以降は<a href="https://ja.wikipedia.org/wiki/読売テレビ制作土曜夕方5時30分枠のアニメ" title="wikilink">土曜夕方枠で放送</a>。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/笑ゥせぇるすまん" title="wikilink">笑ゥせぇるすまん</a>NEW</p></td>
+<td><p><a href="../Page/笑ゥせぇるすまん.md" title="wikilink">笑ゥせぇるすまん</a>NEW</p></td>
 <td><p>2017年4月4日 - 6月20日</p></td>
 <td><p>第1部（1:59 - 2:29）</p></td>
 <td><p>TOKYO MX</p></td>
@@ -923,7 +923,7 @@ BS11</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/タイムボカン" title="wikilink">タイムボカン</a></p></td>
+<td><p><a href="../Page/タイムボカン.md" title="wikilink">タイムボカン</a></p></td>
 <td><p>2016年7月5日 - 9月27日</p></td>
 <td><p>第5部（3:40 - 4:10）</p></td>
 <td><p>一部の回を抜粋して放送。</p></td>
@@ -970,18 +970,18 @@ BS11</p></td>
 [2010年代](../Page/2010年代.md "wikilink")以降は、読売テレビの子会社である[読売テレビエンタープライズ](https://ja.wikipedia.org/wiki/読売テレビエンタープライズ "wikilink")（以下、YTE）が製作委員会もしくは協力として参加している作品もあるが（一部は読売テレビと共同）、読売テレビでは作品自体を放送しないケースがしばしば生じている。これらは主に[UHFアニメ](../Page/UHFアニメ.md "wikilink")として、近畿地方では[サンテレビや](../Page/サンテレビジョン.md "wikilink")[KBS京都のいずれか](../Page/京都放送.md "wikilink")（もしくは両方）または[朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")（[ABCアニメーション](https://ja.wikipedia.org/wiki/ABCアニメーション "wikilink")製作参加作品の場合）でネットされているが、中には近畿地方のどの放送局でも放送されないものもある（同様の事例は[TBS製作の作品にも見られる](../Page/TBSテレビ.md "wikilink")）。
 
   - [CHAOS;HEAD](https://ja.wikipedia.org/wiki/CHAOS;HEAD "wikilink")
-    近畿地方での放送なし（地上波は[チバテレ](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink")・[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")・[tvk](../Page/テレビ神奈川.md "wikilink")・[TOKYO MXのみの放送](../Page/東京メトロポリタンテレビジョン.md "wikilink")）。YTEが製作委員会に参加した初の作品。
+    近畿地方での放送なし（地上波は[チバテレ](../Page/千葉テレビ放送.md "wikilink")・[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")・[tvk](../Page/テレビ神奈川.md "wikilink")・[TOKYO MXのみの放送](../Page/東京メトロポリタンテレビジョン.md "wikilink")）。YTEが製作委員会に参加した初の作品。
   - [てーきゅう](https://ja.wikipedia.org/wiki/てーきゅう "wikilink")
     第1・第2シリーズは、2015年4月期にサンテレビで遅れ放送。第3シリーズ以降はサンテレビで同時期放送。
   - [石田とあさくら](https://ja.wikipedia.org/wiki/石田とあさくら "wikilink")
     近畿地方での放送なし（地上波はTOKYO MXのみの放送）。
   - [有頂天家族](https://ja.wikipedia.org/wiki/有頂天家族 "wikilink")
-    近畿地方では作品の舞台でもある[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")の放送局・[KBS京都とサンテレビの](../Page/京都放送.md "wikilink")[プライムタイム](https://ja.wikipedia.org/wiki/プライムタイム "wikilink")[同時ネット](https://ja.wikipedia.org/wiki/同時ネット "wikilink")で放送。
+    近畿地方では作品の舞台でもある[京都府](../Page/京都府.md "wikilink")の放送局・[KBS京都とサンテレビの](../Page/京都放送.md "wikilink")[プライムタイム](../Page/プライムタイム.md "wikilink")[同時ネット](https://ja.wikipedia.org/wiki/同時ネット "wikilink")で放送。
   - [魔法少女大戦](https://ja.wikipedia.org/wiki/魔法少女大戦 "wikilink")
     近畿地方での放送なし（地上波はTOKYO MXの独占放送）。
   - [ヤマノススメ セカンドシーズン](https://ja.wikipedia.org/wiki/ヤマノススメ "wikilink")
     近畿地方ではKBS京都のプライムタイムで放送され、後にサンテレビにもネットされた（第1シリーズにYTEは関与せず）。
-  - [毎度\!浦安鉄筋家族](https://ja.wikipedia.org/wiki/浦安鉄筋家族 "wikilink")
+  - [毎度\!浦安鉄筋家族](../Page/浦安鉄筋家族.md "wikilink")
     近畿地方ではサンテレビのプライムタイムで放送。
   - [ビキニ・ウォリアーズ](https://ja.wikipedia.org/wiki/ビキニ・ウォリアーズ "wikilink")
     近畿地方での放送なし（地上波はTOKYO MXのみの放送）。企画協力作品。
@@ -1741,7 +1741,7 @@ PIECE OF TRUTH</strong></p></td>
 
   - [読売テレビ制作日曜夜7時台枠のアニメ](https://ja.wikipedia.org/wiki/読売テレビ制作日曜夜7時台枠のアニメ "wikilink")
   - [読売テレビ制作月曜夜7時台枠のアニメ](../Page/読売テレビ制作月曜夜7時台枠のアニメ.md "wikilink")
-      - [アニメ☆7](https://ja.wikipedia.org/wiki/アニメ☆7 "wikilink")
+      - [アニメ☆7](../Page/アニメ☆7.md "wikilink")
   - [読売テレビ制作日曜朝7時枠のアニメ](https://ja.wikipedia.org/wiki/読売テレビ制作日曜朝7時枠のアニメ "wikilink")
   - [読売テレビ制作土曜夕方5時30分枠のアニメ](https://ja.wikipedia.org/wiki/読売テレビ制作土曜夕方5時30分枠のアニメ "wikilink")
 
@@ -1760,7 +1760,7 @@ PIECE OF TRUTH</strong></p></td>
 <!-- end list -->
 
   -
-    2008年1月期 - 2009年7月期まで、「大東洋」名義で第1部の番組の[スポンサー](https://ja.wikipedia.org/wiki/スポンサー "wikilink")となっていた。
+    2008年1月期 - 2009年7月期まで、「大東洋」名義で第1部の番組の[スポンサー](../Page/スポンサー.md "wikilink")となっていた。
 
 ## 外部リンク
 
@@ -1773,7 +1773,7 @@ PIECE OF TRUTH</strong></p></td>
 2.  [近畿地方](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")における同様の趣旨の番組枠として、他にも[毎日放送の](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")『[アニメシャワー](https://ja.wikipedia.org/wiki/アニメシャワー "wikilink")』や[朝日放送テレビの](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")『[水曜アニメ〈水もん〉](https://ja.wikipedia.org/wiki/水曜アニメ〈水もん〉 "wikilink")』があるが、これらでは番組ごとに分かれている（前者は開始当初を除く）。
 3.
 4.  近畿地方の地上波では、MBSと2作品ずつ分け合って放送している（2010年度、2017年度は全作品をMBSで独占放送）。
-5.  ラジオ番組である『[水谷優子のアニメ探偵団II](https://ja.wikipedia.org/wiki/水谷優子のアニメ探偵団II "wikilink")』や『[アニメ探偵団3](https://ja.wikipedia.org/wiki/アニメ探偵団3 "wikilink")』とは無関係。
+5.  ラジオ番組である『[水谷優子のアニメ探偵団II](../Page/水谷優子のアニメ探偵団II.md "wikilink")』や『[アニメ探偵団3](https://ja.wikipedia.org/wiki/アニメ探偵団3 "wikilink")』とは無関係。
 6.  [RY's official website | アイドルオーケストラ リィーズ オフィシャルサイト](http://ry-s.net/)
 7.  [MANPAちゃんG](http://ameblo.jp/ichimichi-mao/entry-11890401744.html) 市道真央オフィシャルブログ 2014年7月7日、同12日閲覧。
 8.  『[はじめの一歩](https://ja.wikipedia.org/wiki/はじめの一歩 "wikilink")』シリーズは、近畿地方では10年あまり遅れてサンテレビが[番組購入の形式で平日早朝帯に放送した](../Page/番組販売.md "wikilink")。また、同局は[2014年](../Page/2014年.md "wikilink")以降より読売テレビに代わる近畿地方における日本テレビ製作アニメのネット局となることもある（『[それでも世界は美しい](https://ja.wikipedia.org/wiki/それでも世界は美しい "wikilink")』や『[ばらかもん](https://ja.wikipedia.org/wiki/ばらかもん "wikilink")』など）。

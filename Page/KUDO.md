@@ -1,40 +1,40 @@
 > この記事は[KUDO](https://ja.wikipedia.org/wiki/KUDO)から翻訳されています。
 
 
-**KUDO**（クドー、生年月日不明 - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレスラー](../Page/プロレスラー.md "wikilink")。[DDTプロレスリング](https://ja.wikipedia.org/wiki/DDTプロレスリング "wikilink")所属。
+**KUDO**（クドー、生年月日不明 - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレスラー](../Page/プロレスラー.md "wikilink")。[DDTプロレスリング](../Page/DDTプロレスリング.md "wikilink")所属。
 
 ## 経歴
 
 [日本大学](https://ja.wikipedia.org/wiki/日本大学 "wikilink")キックボクシング部出身\[1\]\[2\]。
 
-[2001年](../Page/2001年.md "wikilink")、[DDTプロレスリング](https://ja.wikipedia.org/wiki/DDTプロレスリング "wikilink")で**コニカマン2号**としてデビュー。
+[2001年](../Page/2001年.md "wikilink")、[DDTプロレスリング](../Page/DDTプロレスリング.md "wikilink")で**コニカマン2号**としてデビュー。
 
 [2002年](../Page/2002年.md "wikilink")4月25日、[Club ATOM大会でマスクを脱いで](https://ja.wikipedia.org/wiki/アトム_\(クラブ\) "wikilink")「蛇界転生」入り、リングネームを**トグロ・ハブ影**に改めた。
 
-[2003年](../Page/2003年.md "wikilink")1月4日、一切の記憶を失い香港の悪の組織に捕まっているのを[HERO\!によって救出される](https://ja.wikipedia.org/wiki/HARASHIMA "wikilink")。この際「なんと呼んだらいいんだろう?」と悩んだHERO\!は「佐藤?田中?高木?橋本?」等と呼びかけるが無反応だった。しかし「クドウ？」と聞くとその声に反応したためリングネームを**KUDO**に変更。
+[2003年](../Page/2003年.md "wikilink")1月4日、一切の記憶を失い香港の悪の組織に捕まっているのを[HERO\!によって救出される](../Page/HARASHIMA.md "wikilink")。この際「なんと呼んだらいいんだろう?」と悩んだHERO\!は「佐藤?田中?高木?橋本?」等と呼びかけるが無反応だった。しかし「クドウ？」と聞くとその声に反応したためリングネームを**KUDO**に変更。
 
 2月、第1回の[ディファカップ](../Page/ディファカップ.md "wikilink")ジュニアヘビー級タッグトーナメントに[MIKAMI](../Page/MIKAMI.md "wikilink")と組んで出場し名を挙げる。
 
-12月29日、[後楽園ホール](https://ja.wikipedia.org/wiki/後楽園ホール "wikilink")大会においてHERO\!とのコンビで第12代のKO-Dタッグチャンピオンに。
+12月29日、[後楽園ホール](../Page/後楽園ホール.md "wikilink")大会においてHERO\!とのコンビで第12代のKO-Dタッグチャンピオンに。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、[KING OF DDTトーナメントに優勝](https://ja.wikipedia.org/wiki/KING_OF_DDTトーナメント "wikilink")。同年7月から約1年間の[アメリカ遠征を経て](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")5月に帰国。
+[2005年](../Page/2005年.md "wikilink")、[KING OF DDTトーナメントに優勝](https://ja.wikipedia.org/wiki/KING_OF_DDTトーナメント "wikilink")。同年7月から約1年間の[アメリカ遠征を経て](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[2006年](../Page/2006年.md "wikilink")5月に帰国。
 
 [2009年](../Page/2009年.md "wikilink")[8月23日](../Page/8月23日.md "wikilink")、「[両国ピーターパン 〜大人になんてなれないよ〜](https://ja.wikipedia.org/wiki/両国ピーターパン_〜大人になんてなれないよ〜 "wikilink")」において[ヤス・ウラノ](../Page/ヤス・ウラノ.md "wikilink")とのタッグで第20代のKO-Dタッグチャンピオンに。
 
 [2011年](../Page/2011年.md "wikilink")5月、KING OF DDTトーナメント優勝。7月の両国大会のメインに[KO-D無差別級王座](https://ja.wikipedia.org/wiki/KO-D無差別級王座 "wikilink")の挑戦者として出場が決定すると、同年7月24日、「[両国ピーターパン2011〜二度あることは三度ある〜](https://ja.wikipedia.org/wiki/両国ピーターパン2011〜二度あることは三度ある〜 "wikilink")」において、[石川修司](../Page/石川修司.md "wikilink")を破り、KO-D無差別級王座を初戴冠。
 
 9月、[大石真翔](../Page/大石真翔.md "wikilink")とのシングルマッチ終了後、大石からの勧誘を受けて「[ほもいろクローバーZ](https://ja.wikipedia.org/wiki/ほもいろクローバーZ "wikilink")」に4人目のメンバーとして加入。[2012年](../Page/2012年.md "wikilink")9月の「全ユニット解散」まで所属した。
-「ほもいろクローバーZ」解散後、[HARASHIMA](https://ja.wikipedia.org/wiki/HARASHIMA "wikilink")、[ヤス・ウラノ](../Page/ヤス・ウラノ.md "wikilink")と共に「[ウラシマクドウ](https://ja.wikipedia.org/wiki/スマイルスカッシュ "wikilink")」を結成。
+「ほもいろクローバーZ」解散後、[HARASHIMA](../Page/HARASHIMA.md "wikilink")、[ヤス・ウラノ](../Page/ヤス・ウラノ.md "wikilink")と共に「[ウラシマクドウ](https://ja.wikipedia.org/wiki/スマイルスカッシュ "wikilink")」を結成。
 
-[2014年](../Page/2014年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")、[後楽園ホール](https://ja.wikipedia.org/wiki/後楽園ホール "wikilink")大会において、HARASHIMAの保有するKO-D無差別級王座に挑戦表明し、「ウラシマクドウ」を脱退。直後に[マサ高梨](../Page/マサ高梨.md "wikilink")、[坂口征夫](../Page/坂口征夫.md "wikilink")と共に「[酒呑童子](https://ja.wikipedia.org/wiki/酒呑童子_\(プロレス\) "wikilink")」を結成し、同ユニットのリーダーとなる。
+[2014年](../Page/2014年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")、[後楽園ホール](../Page/後楽園ホール.md "wikilink")大会において、HARASHIMAの保有するKO-D無差別級王座に挑戦表明し、「ウラシマクドウ」を脱退。直後に[マサ高梨](../Page/マサ高梨.md "wikilink")、[坂口征夫](../Page/坂口征夫.md "wikilink")と共に「[酒呑童子](https://ja.wikipedia.org/wiki/酒呑童子_\(プロレス\) "wikilink")」を結成し、同ユニットのリーダーとなる。
 同年3月、HARASHIMAとのKO-D無差別級王者戦に勝利し、2度目のKO-D無差別級王座に輝くと、同年5月には「酒呑童子」として[KO-D6人タッグ王座](https://ja.wikipedia.org/wiki/KO-D6人タッグ王座 "wikilink")初戴冠を果たす。
 
-[2015年](../Page/2015年.md "wikilink")5月、HARASHIMAとのKO-D無差別級王者戦に勝利し、3度目の戴冠。同年6月6日の春日部大会では、「いつでもどこでも挑戦権」を保持していた[男色ディーノ](https://ja.wikipedia.org/wiki/男色ディーノ "wikilink")に勝利し、王者でありながら同挑戦権を保有する初の事態となった\[3\]。
+[2015年](../Page/2015年.md "wikilink")5月、HARASHIMAとのKO-D無差別級王者戦に勝利し、3度目の戴冠。同年6月6日の春日部大会では、「いつでもどこでも挑戦権」を保持していた[男色ディーノ](../Page/男色ディーノ.md "wikilink")に勝利し、王者でありながら同挑戦権を保有する初の事態となった\[3\]。
 同年[6月28日](../Page/6月28日.md "wikilink")の後楽園ホール大会では、挑戦権を行使した[ヤス・ウラノ](../Page/ヤス・ウラノ.md "wikilink")との選手権試合中、同じく挑戦権を保持している[大家健](https://ja.wikipedia.org/wiki/大家健 "wikilink")が乱入したことから3WAYマッチに発展。大家がヤスに勝利したため、直接負けることなく王座から陥落するも、直後に所持していた挑戦権を行使して大家と選手権試合を行い、勝利。ベルトを奪取すると共に、「いつでもどこでも挑戦権」が全て消化されたことから、4年振り2度目となる両国大会のメインを務めることが決定した\[4\]。
 
 8月23日、「[両国ピーターパン2015〜DDTより愛をこめて〜](https://ja.wikipedia.org/wiki/両国ピーターパン2015〜DDTより愛をこめて〜 "wikilink")」で行われたKO-D無差別級王者戦は、[坂口征夫](../Page/坂口征夫.md "wikilink")との「酒呑童子」対決となったが、最後は坂口の「神の右膝」で3カウントを奪われ、王者陥落\[5\]。
 
-その後、両国大会翌日の会見で[プロレスリング・ノア](../Page/プロレスリング・ノア.md "wikilink")の「[日テレG+杯争奪ジュニアヘビー級タッグ・リーグ戦](https://ja.wikipedia.org/wiki/日テレG+杯争奪ジュニアヘビー級タッグ・リーグ戦 "wikilink")」に[梅田公太](https://ja.wikipedia.org/wiki/梅田公太 "wikilink")と共に出場が決定するも\[6\]、リーグ公式戦の[小川良成](https://ja.wikipedia.org/wiki/小川良成 "wikilink")&[ザック・セイバーJr.](https://ja.wikipedia.org/wiki/ザック・セイバーJr. "wikilink")組との試合中に右膝を負傷。精密検査の結果、右ヒザ前十字靭帯断裂と診断され、長期欠場と『DDTドラマティック総選挙2015』・個人部門の辞退が発表された\[7\]。
+その後、両国大会翌日の会見で[プロレスリング・ノア](../Page/プロレスリング・ノア.md "wikilink")の「[日テレG+杯争奪ジュニアヘビー級タッグ・リーグ戦](https://ja.wikipedia.org/wiki/日テレG+杯争奪ジュニアヘビー級タッグ・リーグ戦 "wikilink")」に[梅田公太](https://ja.wikipedia.org/wiki/梅田公太 "wikilink")と共に出場が決定するも\[6\]、リーグ公式戦の[小川良成](../Page/小川良成.md "wikilink")&[ザック・セイバーJr.](https://ja.wikipedia.org/wiki/ザック・セイバーJr. "wikilink")組との試合中に右膝を負傷。精密検査の結果、右ヒザ前十字靭帯断裂と診断され、長期欠場と『DDTドラマティック総選挙2015』・個人部門の辞退が発表された\[7\]。
 
 [2016年](../Page/2016年.md "wikilink")8月28日、「[両国ピーターパン2016〜世界でいちばん熱い夏〜](https://ja.wikipedia.org/wiki/両国ピーターパン2016〜世界でいちばん熱い夏〜 "wikilink")」で実戦復帰を果たした。
 
@@ -86,13 +86,13 @@
 
 ## タイトル歴
 
-  - [DDTプロレスリング](https://ja.wikipedia.org/wiki/DDTプロレスリング "wikilink")
+  - [DDTプロレスリング](../Page/DDTプロレスリング.md "wikilink")
 
 <!-- end list -->
 
   - [KO-D無差別級王座](https://ja.wikipedia.org/wiki/KO-D無差別級王座 "wikilink")（第37代、第47代、第51代、第53代）
   - [KO-Dタッグ王座](https://ja.wikipedia.org/wiki/KO-Dタッグ王座 "wikilink")
-      - 第12代（パートナーは[HERO\!](https://ja.wikipedia.org/wiki/HARASHIMA "wikilink")）
+      - 第12代（パートナーは[HERO\!](../Page/HARASHIMA.md "wikilink")）
       - 第30代（パートナーは[ヤス・ウラノ](../Page/ヤス・ウラノ.md "wikilink")）
       - 第44代（パートナーは[大石真翔](../Page/大石真翔.md "wikilink")）
   - [KO-D6人タッグ王座](https://ja.wikipedia.org/wiki/KO-D6人タッグ王座 "wikilink")（第10代、第12代、第16代、第18代、第27代、第30代、第32代、パートナーは[坂口征夫](../Page/坂口征夫.md "wikilink")&[高梨将弘](https://ja.wikipedia.org/wiki/高梨将弘 "wikilink")）

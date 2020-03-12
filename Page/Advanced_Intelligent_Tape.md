@@ -5,7 +5,7 @@
 
 ## 概要
 
-[AIT_tapes.jpg](https://ja.wikipedia.org/wiki/File:AIT_tapes.jpg "fig:AIT_tapes.jpg") 基本は2リール式、テープ幅8mm、[ヘリカルスキャン方式](../Page/ヘリカルスキャン方式.md "wikilink")の[テープドライブ](https://ja.wikipedia.org/wiki/テープドライブ "wikilink")。「Memory in Casette」（MIC）と呼ばれる64Kbit（2KB）の[EEPROM](../Page/EEPROM.md "wikilink")をカートリッジに内蔵し、使用履歴や[データ](../Page/データ.md "wikilink")位置を保存することでサーチの高速化とサーチによるテープの摩耗軽減を図っている。ただし、コスト面でデメリットとなるためMICを内蔵しないものも存在する。
+[AIT_tapes.jpg](https://ja.wikipedia.org/wiki/File:AIT_tapes.jpg "fig:AIT_tapes.jpg") 基本は2リール式、テープ幅8mm、[ヘリカルスキャン方式](../Page/ヘリカルスキャン方式.md "wikilink")の[テープドライブ](../Page/テープドライブ.md "wikilink")。「Memory in Casette」（MIC）と呼ばれる64Kbit（2KB）の[EEPROM](../Page/EEPROM.md "wikilink")をカートリッジに内蔵し、使用履歴や[データ](../Page/データ.md "wikilink")位置を保存することでサーチの高速化とサーチによるテープの摩耗軽減を図っている。ただし、コスト面でデメリットとなるためMICを内蔵しないものも存在する。
 
 ハードウェアレベルの圧縮技術[Adaptive Lossless Data Compression](https://ja.wikipedia.org/wiki/Adaptive_Lossless_Data_Compression "wikilink")（ALDC）の採用によって最大1/2.6まで圧縮し、200GBのAIT-4テープに520GBまで記録できる。
 

@@ -7,15 +7,15 @@
 
 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に『[スキスキ♡マイガール](../Page/スキスキマイガール.md "wikilink")』でメジャーデビューし、同曲は『[クレヨンしんちゃん](https://ja.wikipedia.org/wiki/クレヨンしんちゃん_\(アニメ\) "wikilink")』の10代目のエンディングテーマ\[1\]として流れたが、[2000年](../Page/2000年.md "wikilink")5月、ベース・マースケの[腱鞘炎](https://ja.wikipedia.org/wiki/腱鞘炎 "wikilink")悪化に端を発し、「マースケがいないならジュビアではない」と活動を中止（解散）。
 
-解散後はボーカルのKAORUとドラムのNAOが中心となりバンド[スージー&キャロライン](https://ja.wikipedia.org/wiki/スージー&キャロライン "wikilink")で活動していたが、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")3月に解散（卒業）した。 2005年、[新潟中越地震](https://ja.wikipedia.org/wiki/新潟中越地震 "wikilink")チャリティーライブで再結成しライブを行い、その後も不定期にLIVEを行う。 SUZZY\&CAROLINE解散後、KAORUは魔悪助連合と銘打ったセッションバンドで新潟、東京でLIVEを行う。 TAKANORI、マースケは引退、NAOはスージー&キャロラインを経てバイバイリグレットに加入しその後引退したため、KAORU以外は全員引退している。が、2009年に復活ライブを行なった模様（ホームページより）。そして2010年にTAKANORIとNAOがマーキームーンというバンドでファーストライブを行なうことが決まった。
+解散後はボーカルのKAORUとドラムのNAOが中心となりバンド[スージー&キャロライン](https://ja.wikipedia.org/wiki/スージー&キャロライン "wikilink")で活動していたが、[2005年](../Page/2005年.md "wikilink")3月に解散（卒業）した。 2005年、[新潟中越地震](https://ja.wikipedia.org/wiki/新潟中越地震 "wikilink")チャリティーライブで再結成しライブを行い、その後も不定期にLIVEを行う。 SUZZY\&CAROLINE解散後、KAORUは魔悪助連合と銘打ったセッションバンドで新潟、東京でLIVEを行う。 TAKANORI、マースケは引退、NAOはスージー&キャロラインを経てバイバイリグレットに加入しその後引退したため、KAORU以外は全員引退している。が、2009年に復活ライブを行なった模様（ホームページより）。そして2010年にTAKANORIとNAOがマーキームーンというバンドでファーストライブを行なうことが決まった。
 
-バンド名はスペイン語で「雨」の意味。[今井美樹](https://ja.wikipedia.org/wiki/今井美樹 "wikilink")のアルバム名からとったと言われる。 彼らのファンを、「ジュビっ子」と称する。
+バンド名はスペイン語で「雨」の意味。[今井美樹](../Page/今井美樹.md "wikilink")のアルバム名からとったと言われる。 彼らのファンを、「ジュビっ子」と称する。
 
 当時[PIERROT](https://ja.wikipedia.org/wiki/PIERROT "wikilink")を始めとして耽美的な音楽で形成されていたヴィジュアル系バンドの中で、主流とは反するとにかくキャッチーでポップなアイドル的音楽を展開していた。
 
 ## メンバー
 
-  - KAORU（[1972年](../Page/1972年.md "wikilink")[10月13日](https://ja.wikipedia.org/wiki/10月13日 "wikilink") - 、AB型）ボーカル担当
+  - KAORU（[1972年](../Page/1972年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink") - 、AB型）ボーカル担当
   - TAKANORI（[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[10月30日](../Page/10月30日.md "wikilink") - 、A型）ギター担当
   - マースケ（[1974年](../Page/1974年.md "wikilink")[10月19日](../Page/10月19日.md "wikilink") - 、A型）ベース担当
   - NAO（[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[7月28日](../Page/7月28日.md "wikilink") - 、AB型）ドラム担当

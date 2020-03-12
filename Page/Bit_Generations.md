@@ -1,7 +1,7 @@
 > この記事は[Bit Generations](https://ja.wikipedia.org/wiki/Bit_Generations)から翻訳されています。
 
 
-『**bit Generations**』（ビット・ジェネレーションズ）は、[任天堂](../Page/任天堂.md "wikilink")より発売された[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")用のソフトラインナップである。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月13日](../Page/7月13日.md "wikilink")より展開。
+『**bit Generations**』（ビット・ジェネレーションズ）は、[任天堂](../Page/任天堂.md "wikilink")より発売された[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")用のソフトラインナップである。[2006年](../Page/2006年.md "wikilink")[7月13日](../Page/7月13日.md "wikilink")より展開。
 
 [キャッチコピー](../Page/キャッチコピー.md "wikilink")は「"GAME"の[原点](https://ja.wikipedia.org/wiki/原点 "wikilink")へ……」。ビデオゲームの面白さを見つめ直し、新しい発見や提案を行うことを謳っている。シンプルかつ誰でも遊べるような簡単なゲームで[デザイン](../Page/デザイン.md "wikilink")されているのが特徴で、価格もGBAソフトの平均に比べると安い。通常カートリッジ色のグレーとは異なり、黒のカートリッジを採用している。
 
@@ -17,12 +17,12 @@
 
 『ドットストリーム』。6本の光のラインが鮮やかな[レースゲーム](../Page/レースゲーム.md "wikilink")。
 
-操作方法は、[十字キー](https://ja.wikipedia.org/wiki/十字キー "wikilink")の上下でレーン移動、A[ボタンで](https://ja.wikipedia.org/wiki/押しボタン "wikilink")[アイテム](https://ja.wikipedia.org/wiki/アイテム "wikilink")使用、Bボタンで[ブレーキ](../Page/ブレーキ.md "wikilink")、Rボタンで1ライフを使用して[ダッシュ](../Page/ダッシュ.md "wikilink")。
+操作方法は、[十字キー](../Page/十字キー.md "wikilink")の上下でレーン移動、A[ボタンで](https://ja.wikipedia.org/wiki/押しボタン "wikilink")[アイテム](../Page/アイテム.md "wikilink")使用、Bボタンで[ブレーキ](../Page/ブレーキ.md "wikilink")、Rボタンで1ライフを使用して[ダッシュ](../Page/ダッシュ.md "wikilink")。
 
   - **campaign** - グランプリ（GP）レースで、5つのコースを巡り合計ポイントを競う。5+αのGPが用意されている。
   - **spot race** - 任意の1コースを走り、順位を競う。
 
-任意の色のラインを操作して、他のラインより速く[ゴールを目指す](https://ja.wikipedia.org/wiki/ゴール_\(スポーツ\) "wikilink")。各ラインの速度は一定だが、[スタート](../Page/スタート.md "wikilink")時の加速力に差があり、自分が操作するラインは実質最下位からのスタートとなる。[コース](https://ja.wikipedia.org/wiki/コース "wikilink")は見えない[レーン](https://ja.wikipedia.org/wiki/レーン "wikilink")に分かれており、先行ラインが通ったレーンと重なって走る事ができない(横切る事はできる)。先行ラインの隣を自分のラインと平行に一定時間走ると[スリップストリーム](https://ja.wikipedia.org/wiki/スリップストリーム "wikilink")が発生し、自機の最高速度が上がる。自分のラインにはライフ（体力。スタート時は2つしかないが[ピット](https://ja.wikipedia.org/wiki/ピット "wikilink")で9つまで増やせる）があり、ライフが0の時に壁や障害ブロックに当たるとコースリタイアとなる。
+任意の色のラインを操作して、他のラインより速く[ゴールを目指す](https://ja.wikipedia.org/wiki/ゴール_\(スポーツ\) "wikilink")。各ラインの速度は一定だが、[スタート](../Page/スタート.md "wikilink")時の加速力に差があり、自分が操作するラインは実質最下位からのスタートとなる。[コース](https://ja.wikipedia.org/wiki/コース "wikilink")は見えない[レーン](https://ja.wikipedia.org/wiki/レーン "wikilink")に分かれており、先行ラインが通ったレーンと重なって走る事ができない(横切る事はできる)。先行ラインの隣を自分のラインと平行に一定時間走ると[スリップストリーム](../Page/スリップストリーム.md "wikilink")が発生し、自機の最高速度が上がる。自分のラインにはライフ（体力。スタート時は2つしかないが[ピット](https://ja.wikipedia.org/wiki/ピット "wikilink")で9つまで増やせる）があり、ライフが0の時に壁や障害ブロックに当たるとコースリタイアとなる。
 
 :\* アイテム
 
@@ -60,11 +60,11 @@
 
 ### BOUNDISH
 
-『バウンディッシュ』。「移動するターゲットを打ち返す」という1つの[ルール](https://ja.wikipedia.org/wiki/ルール "wikilink")を5種類のバリエーションに広げた[アクション](https://ja.wikipedia.org/wiki/アクション "wikilink")ゲーム。
+『バウンディッシュ』。「移動するターゲットを打ち返す」という1つの[ルール](../Page/ルール.md "wikilink")を5種類のバリエーションに広げた[アクション](https://ja.wikipedia.org/wiki/アクション "wikilink")ゲーム。
 
 ### DIALHEX
 
-『ダイアルヘックス』。[六角形](https://ja.wikipedia.org/wiki/六角形 "wikilink")を[モチーフ](https://ja.wikipedia.org/wiki/モチーフ "wikilink")にした[パズル](../Page/パズル.md "wikilink")ゲーム。六角形のカーソルを左右に回転させることで、[三角形](../Page/三角形.md "wikilink")のパネルを動かし、同じ[色](../Page/色.md "wikilink")のパネルで六角形を作ると消える。上から落ちてくるパネルで六角形のステージがすべて埋まるとゲームオーバー。
+『ダイアルヘックス』。[六角形](../Page/六角形.md "wikilink")を[モチーフ](https://ja.wikipedia.org/wiki/モチーフ "wikilink")にした[パズル](../Page/パズル.md "wikilink")ゲーム。六角形のカーソルを左右に回転させることで、[三角形](../Page/三角形.md "wikilink")のパネルを動かし、同じ[色](../Page/色.md "wikilink")のパネルで六角形を作ると消える。上から落ちてくるパネルで六角形のステージがすべて埋まるとゲームオーバー。
 
   - 各モード
 
@@ -104,7 +104,7 @@
 <!-- end list -->
 
   -
-    カーソルの色とパネルの色が[補色](https://ja.wikipedia.org/wiki/補色 "wikilink")関係にあるときに色を変えようとするとグレーパネルに変化する。また、パネルにはそれぞれ「寿命」が存在し、ステージに登場してから時間が経つにつれてパネルの模様の動きが早くなり、一定時間が経過するとグレーパネルに変化する。パネルを消した際に隣接するパネルの寿命が伸びる。
+    カーソルの色とパネルの色が[補色](../Page/補色.md "wikilink")関係にあるときに色を変えようとするとグレーパネルに変化する。また、パネルにはそれぞれ「寿命」が存在し、ステージに登場してから時間が経つにつれてパネルの模様の動きが早くなり、一定時間が経過するとグレーパネルに変化する。パネルを消した際に隣接するパネルの寿命が伸びる。
     グレーパネルは色を変えることができず、縦横に揃えても消すことができない。また、下に空いたスペースがあっても落下しない。グレーパネルの消去は隣接するパネルを二度消すか、後述のアイテムの効果で可能。ステージがグレーパネルでいっぱいになるとゲームオーバー。
 
 <!-- end list -->
@@ -156,8 +156,8 @@
 <!-- end list -->
 
   -
-    [フィールド](https://ja.wikipedia.org/wiki/フィールド "wikilink")は十字路の形をしている。数種類の「シェイプ」が四隅から中心に向かって流れてくるので、十字キーを使って同じ「シェイプ」を同じ道に誘導させていく。5つ揃える毎に「[ストック](../Page/ストック.md "wikilink")図形（シェイプをためる[タンク](../Page/タンク.md "wikilink")のようなもの）」が埋まっていく。「ストック図形」は初めは[三角形](../Page/三角形.md "wikilink")だが、一杯まで埋まる毎に[四角形](../Page/四角形.md "wikilink")→[五角形](https://ja.wikipedia.org/wiki/五角形 "wikilink")→[六角形](https://ja.wikipedia.org/wiki/六角形 "wikilink")→[円形と形が変わる](../Page/円_\(数学\).md "wikilink")。円形にした時点で上限という訳ではなく、見た目上の変化は無いが更に×2～×?までためられる。この×2というのは円形2つ分という意味であり、×?というのは二桁、つまり×10以上を意味する。どの段階でも「デュアルコア」にアタックした時に表示される。ここまで「シェイプ」を成長させるには後述のコンボが必須。「ストック図形」がある道に異なる色の「シェイプ」を入れるか一定時間「シェイプ」を入れないと、「ストック図形」は消滅する。
-    稀に流れてくる「アタックシェイプ」（最初に3つある予備を使用することでも出現する）を「ストック図形」のある道に入れると、ストックしていた量に応じて「デュアルコア」が上昇する。これがアタックである。「デュアルコア」の下部では「デンジャー・[バー](../Page/バー_\(酒場\).md "wikilink")」が徐々にせり上がっており、これが「デュアルコア」に触れると[ゲームオーバー](https://ja.wikipedia.org/wiki/ゲームオーバー "wikilink")となる。
+    [フィールド](../Page/フィールド.md "wikilink")は十字路の形をしている。数種類の「シェイプ」が四隅から中心に向かって流れてくるので、十字キーを使って同じ「シェイプ」を同じ道に誘導させていく。5つ揃える毎に「[ストック](../Page/ストック.md "wikilink")図形（シェイプをためる[タンク](../Page/タンク.md "wikilink")のようなもの）」が埋まっていく。「ストック図形」は初めは[三角形](../Page/三角形.md "wikilink")だが、一杯まで埋まる毎に[四角形](../Page/四角形.md "wikilink")→[五角形](https://ja.wikipedia.org/wiki/五角形 "wikilink")→[六角形](../Page/六角形.md "wikilink")→[円形と形が変わる](../Page/円_\(数学\).md "wikilink")。円形にした時点で上限という訳ではなく、見た目上の変化は無いが更に×2～×?までためられる。この×2というのは円形2つ分という意味であり、×?というのは二桁、つまり×10以上を意味する。どの段階でも「デュアルコア」にアタックした時に表示される。ここまで「シェイプ」を成長させるには後述のコンボが必須。「ストック図形」がある道に異なる色の「シェイプ」を入れるか一定時間「シェイプ」を入れないと、「ストック図形」は消滅する。
+    稀に流れてくる「アタックシェイプ」（最初に3つある予備を使用することでも出現する）を「ストック図形」のある道に入れると、ストックしていた量に応じて「デュアルコア」が上昇する。これがアタックである。「デュアルコア」の下部では「デンジャー・[バー](../Page/バー_\(酒場\).md "wikilink")」が徐々にせり上がっており、これが「デュアルコア」に触れると[ゲームオーバー](../Page/ゲームオーバー.md "wikilink")となる。
       - [コンボ](../Page/コンボ.md "wikilink")
     <!-- end list -->
       -
@@ -188,7 +188,7 @@
 
 ### ORBITAL
 
-『オービタル』。タイトルのとおり、[引力](https://ja.wikipedia.org/wiki/引力 "wikilink")を利用して[オブジェクト](https://ja.wikipedia.org/wiki/オブジェクト "wikilink")の[軌道](https://ja.wikipedia.org/wiki/軌道 "wikilink")を[コントロール](https://ja.wikipedia.org/wiki/コントロール "wikilink")していくアクションゲーム。隠しステージも合わせ全40ステージある。
+『オービタル』。タイトルのとおり、[引力](https://ja.wikipedia.org/wiki/引力 "wikilink")を利用して[オブジェクト](https://ja.wikipedia.org/wiki/オブジェクト "wikilink")の[軌道](https://ja.wikipedia.org/wiki/軌道 "wikilink")を[コントロール](../Page/コントロール.md "wikilink")していくアクションゲーム。隠しステージも合わせ全40ステージある。
 
   - 操作方法
 
@@ -228,12 +228,12 @@
 
 ### Soundvoyager
 
-『サウンドボイジャー』。[音](../Page/音.md "wikilink")だけを頼りにその[音源](../Page/音源.md "wikilink")を探し当てる新感覚ゲーム。プレイには[ステレオ](../Page/ステレオ.md "wikilink")[ヘッドホンが必要となる](https://ja.wikipedia.org/wiki/ヘッドフォン "wikilink")。
+『サウンドボイジャー』。[音](../Page/音.md "wikilink")だけを頼りにその[音源](../Page/音源.md "wikilink")を探し当てる新感覚ゲーム。プレイには[ステレオ](../Page/ステレオ.md "wikilink")[ヘッドホンが必要となる](../Page/ヘッドフォン.md "wikilink")。
 
 ## 備考
 
   - 開発段階では『Digitylish Series』（デジタイリッシュシリーズ）と呼ばれていた時期もあった。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月15日](../Page/4月15日.md "wikilink")から1か月に渡って、[渋谷](../Page/渋谷.md "wikilink")[パルコ](https://ja.wikipedia.org/wiki/パルコ "wikilink")にて「bit Generations アート展」という展示会が開催された。
+  - [2006年](../Page/2006年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")から1か月に渡って、[渋谷](../Page/渋谷.md "wikilink")[パルコ](../Page/パルコ.md "wikilink")にて「bit Generations アート展」という展示会が開催された。
   - [TV](../Page/テレビ.md "wikilink")[CMには](../Page/コマーシャルメッセージ.md "wikilink")[リリー・フランキー](../Page/リリー・フランキー.md "wikilink")を採用。
 
 ## 関連項目

@@ -1,7 +1,7 @@
 > この記事は[BULLET WITCH](https://ja.wikipedia.org/wiki/BULLET_WITCH)から翻訳されています。
 
 
-『**BULLET WITCH**』（バレットウィッチ）は、[キャビアが開発し](../Page/キャビア_\(企業\).md "wikilink")、[AQインタラクティブ](https://ja.wikipedia.org/wiki/AQインタラクティブ "wikilink")から[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月27日](../Page/7月27日.md "wikilink")に発売されたアクションゲーム。
+『**BULLET WITCH**』（バレットウィッチ）は、[キャビアが開発し](../Page/キャビア_\(企業\).md "wikilink")、[AQインタラクティブ](../Page/AQインタラクティブ.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink")に発売されたアクションゲーム。
 
 ## ゲーム概要
 
@@ -22,25 +22,25 @@
 ## キャラクター
 
   - アリシア
-    [声](../Page/声優.md "wikilink")：[生天目仁美](https://ja.wikipedia.org/wiki/生天目仁美 "wikilink")
-    [泣きぼくろ](https://ja.wikipedia.org/wiki/泣きぼくろ "wikilink")と、[レースを用いた黒い服が印象的な本作の](https://ja.wikipedia.org/wiki/レース_\(手芸\) "wikilink")[主人公](https://ja.wikipedia.org/wiki/主人公 "wikilink")。突如、滅亡寸前の人類の前に現れた[救世主](https://ja.wikipedia.org/wiki/救世主 "wikilink")。圧倒的な魔力を持ち悪魔の絶滅を目指すが、素性も目的も謎である。
+    [声](../Page/声優.md "wikilink")：[生天目仁美](../Page/生天目仁美.md "wikilink")
+    [泣きぼくろ](https://ja.wikipedia.org/wiki/泣きぼくろ "wikilink")と、[レースを用いた黒い服が印象的な本作の](../Page/レース_\(手芸\).md "wikilink")[主人公](../Page/主人公.md "wikilink")。突如、滅亡寸前の人類の前に現れた[救世主](https://ja.wikipedia.org/wiki/救世主 "wikilink")。圧倒的な魔力を持ち悪魔の絶滅を目指すが、素性も目的も謎である。
 
 <!-- end list -->
 
   - ダークネス
-    声：[乃村健次](https://ja.wikipedia.org/wiki/乃村健次 "wikilink")
+    声：[乃村健次](../Page/乃村健次.md "wikilink")
     アリシアに憑依する高位悪魔。地上の悪魔を根絶やしにするためアリシアに知恵と魔力を授けるが、他の悪魔と同様に人間も蔑視しているようである。
 
 <!-- end list -->
 
   - マクスウェル
     声：[石塚運昇](../Page/石塚運昇.md "wikilink")
-    国家が瓦解した中で[レジスタンスの隊長として悪魔たちと戦う](https://ja.wikipedia.org/wiki/レジスタンス運動 "wikilink")。熱血だが[ユーモア](https://ja.wikipedia.org/wiki/ユーモア "wikilink")もあり、アリシアの良き理解者。アリシアにある作戦への協力を依頼し、共に戦う。
+    国家が瓦解した中で[レジスタンスの隊長として悪魔たちと戦う](../Page/レジスタンス運動.md "wikilink")。熱血だが[ユーモア](../Page/ユーモア.md "wikilink")もあり、アリシアの良き理解者。アリシアにある作戦への協力を依頼し、共に戦う。
 
 <!-- end list -->
 
   - ジョナサン
-    声：[立木文彦](https://ja.wikipedia.org/wiki/立木文彦 "wikilink")
+    声：[立木文彦](../Page/立木文彦.md "wikilink")
     [考古学](../Page/考古学.md "wikilink")者。2006年に娘を飛行機事故でなくし、彼女を生き返らせる為に悪魔の研究を始めたが、2008年に行方をくらます。
 
 ## ダウンロードコンテンツ

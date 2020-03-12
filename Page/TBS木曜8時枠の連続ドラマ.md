@@ -5,9 +5,9 @@
 
 ## 概要
 
-当放送枠は、[1960年代](../Page/1960年代.md "wikilink")後半から[1980年代](../Page/1980年代.md "wikilink")前半にかけて『[東芝日曜劇場](https://ja.wikipedia.org/wiki/日曜劇場 "wikilink")』や『[水曜劇場](https://ja.wikipedia.org/wiki/水曜劇場_\(TBS\) "wikilink")』などと共に“ドラマのTBS”を代表する看板ドラマ枠として、視聴者に長年親しまれた。主に[テレパック](https://ja.wikipedia.org/wiki/テレパック "wikilink")制作の作品がこの枠で多く放送され、なかでも、『[肝っ玉かあさん](../Page/肝っ玉かあさん.md "wikilink")』や『[ありがとう](https://ja.wikipedia.org/wiki/ありがとう_\(テレビドラマ\) "wikilink")』といった、[石井ふく子](../Page/石井ふく子.md "wikilink")プロデュースによる作品は[ホームドラマ](https://ja.wikipedia.org/wiki/ホームドラマ "wikilink")黄金期を象徴する名作として日本のテレビの歴史に語り継がれる。 当枠での歴代[視聴率](../Page/視聴率.md "wikilink")1位は、[1972年](../Page/1972年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")に放送された『ありがとう』（第2シリーズ）の56.3%（[ビデオリサーチ](https://ja.wikipedia.org/wiki/ビデオリサーチ "wikilink")関東地区調べ）。この数字は、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[6月29日](../Page/6月29日.md "wikilink")深夜に放送された『[2010 FIFAワールドカップ南アフリカ大会中継](https://ja.wikipedia.org/wiki/2010_FIFAワールドカップ "wikilink") [日本対](https://ja.wikipedia.org/wiki/サッカー日本代表 "wikilink")[パラグアイ戦](../Page/サッカーパラグアイ代表.md "wikilink")』で記録した57.3% に抜かれるまでTBSとしての歴代視聴率でも首位の座を守り続けていた。
+当放送枠は、[1960年代](../Page/1960年代.md "wikilink")後半から[1980年代](../Page/1980年代.md "wikilink")前半にかけて『[東芝日曜劇場](https://ja.wikipedia.org/wiki/日曜劇場 "wikilink")』や『[水曜劇場](../Page/水曜劇場_\(TBS\).md "wikilink")』などと共に“ドラマのTBS”を代表する看板ドラマ枠として、視聴者に長年親しまれた。主に[テレパック](../Page/テレパック.md "wikilink")制作の作品がこの枠で多く放送され、なかでも、『[肝っ玉かあさん](../Page/肝っ玉かあさん.md "wikilink")』や『[ありがとう](../Page/ありがとう_\(テレビドラマ\).md "wikilink")』といった、[石井ふく子](../Page/石井ふく子.md "wikilink")プロデュースによる作品は[ホームドラマ](../Page/ホームドラマ.md "wikilink")黄金期を象徴する名作として日本のテレビの歴史に語り継がれる。 当枠での歴代[視聴率](../Page/視聴率.md "wikilink")1位は、[1972年](../Page/1972年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")に放送された『ありがとう』（第2シリーズ）の56.3%（[ビデオリサーチ](../Page/ビデオリサーチ.md "wikilink")関東地区調べ）。この数字は、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[6月29日](../Page/6月29日.md "wikilink")深夜に放送された『[2010 FIFAワールドカップ南アフリカ大会中継](https://ja.wikipedia.org/wiki/2010_FIFAワールドカップ "wikilink") [日本対](../Page/サッカー日本代表.md "wikilink")[パラグアイ戦](../Page/サッカーパラグアイ代表.md "wikilink")』で記録した57.3% に抜かれるまでTBSとしての歴代視聴率でも首位の座を守り続けていた。
 
-しかし末期は『[木曜スペシャル](../Page/木曜スペシャル.md "wikilink")』（[日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")）などに苦戦を強いられるようになり、1984年の『[ビートたけしの学問ノススメ](https://ja.wikipedia.org/wiki/ビートたけしの学問ノススメ "wikilink")』を最後に一時撤退。9年後の[1993年](../Page/1993年.md "wikilink")に[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")をテーマにした『[オレたちのオーレ\!](https://ja.wikipedia.org/wiki/オレたちのオーレ! "wikilink")』（[MBS制作](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）でドラマを復活させるも低視聴率により3カ月で終了、この時間帯でのドラマは消滅した。
+しかし末期は『[木曜スペシャル](../Page/木曜スペシャル.md "wikilink")』（[日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")）などに苦戦を強いられるようになり、1984年の『[ビートたけしの学問ノススメ](../Page/ビートたけしの学問ノススメ.md "wikilink")』を最後に一時撤退。9年後の[1993年](../Page/1993年.md "wikilink")に[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")をテーマにした『[オレたちのオーレ\!](../Page/オレたちのオーレ!.md "wikilink")』（[MBS制作](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）でドラマを復活させるも低視聴率により3カ月で終了、この時間帯でのドラマは消滅した。
 
 ## 放送時間
 
@@ -43,7 +43,7 @@
   - [肝っ玉かあさん](../Page/肝っ玉かあさん.md "wikilink")
   - [ハトポッポ嫁さん](https://ja.wikipedia.org/wiki/ハトポッポ嫁さん "wikilink")
   - [何とかしなくちゃ](https://ja.wikipedia.org/wiki/何とかしなくちゃ "wikilink")
-  - [ありがとう](https://ja.wikipedia.org/wiki/ありがとう_\(テレビドラマ\) "wikilink")
+  - [ありがとう](../Page/ありがとう_\(テレビドラマ\).md "wikilink")
   - [にらめっこ](https://ja.wikipedia.org/wiki/にらめっこ_\(テレビドラマ\) "wikilink")
   - [ゆびきり](https://ja.wikipedia.org/wiki/ゆびきり_\(テレビドラマ\) "wikilink")
   - [はじめまして](https://ja.wikipedia.org/wiki/はじめまして_\(テレビドラマ\) "wikilink")
@@ -63,7 +63,7 @@
   - [胸さわぐ苺たち](https://ja.wikipedia.org/wiki/胸さわぐ苺たち "wikilink")
   - [激愛・三月までの…](../Page/激愛・三月までの….md "wikilink")
   - [青春泥棒・徹と由紀子](https://ja.wikipedia.org/wiki/青春泥棒・徹と由紀子 "wikilink")（1984年4月12日～7月5日、全10回）
-  - [ビートたけしの学問ノススメ](https://ja.wikipedia.org/wiki/ビートたけしの学問ノススメ "wikilink")
+  - [ビートたけしの学問ノススメ](../Page/ビートたけしの学問ノススメ.md "wikilink")
 
 <!-- end list -->
 
@@ -71,7 +71,7 @@
 
 <!-- end list -->
 
-  - [オレたちのオーレ\!](https://ja.wikipedia.org/wiki/オレたちのオーレ! "wikilink")
+  - [オレたちのオーレ\!](../Page/オレたちのオーレ!.md "wikilink")
 
 ## ネット局
 
@@ -131,7 +131,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/山形県" title="wikilink">山形県</a></p></td>
+<td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
 <td><p><a href="../Page/山形放送.md" title="wikilink">山形放送</a></p></td>
 <td><p>日本テレビ系列<br />
 <a href="https://ja.wikipedia.org/wiki/All-nippon_News_Network" title="wikilink">テレビ朝日系列</a></p></td>
@@ -237,7 +237,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/岡山県" title="wikilink">岡山県</a><br />
-→<a href="https://ja.wikipedia.org/wiki/岡山県・香川県の放送" title="wikilink">岡山県<br />
+→<a href="../Page/岡山県・香川県の放送.md" title="wikilink">岡山県<br />
 香川県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/RSKテレビ" title="wikilink">山陽放送</a></p></td>
 <td><p>1983年3月までの放送エリアは岡山県のみ<br />
@@ -275,7 +275,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/RKB毎日放送" title="wikilink">RKB毎日放送</a></p></td>
 <td></td>
 <td></td>
@@ -318,7 +318,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/沖縄県.md" title="wikilink">沖縄県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/琉球放送" title="wikilink">琉球放送</a></p></td>
+<td><p><a href="../Page/琉球放送.md" title="wikilink">琉球放送</a></p></td>
 <td><p>1984年3月打ち切り</p></td>
 <td></td>
 <td></td>
@@ -328,25 +328,25 @@
 
 ## 備考
 
-  - 近畿地方では、「[ありがとう](https://ja.wikipedia.org/wiki/ありがとう_\(テレビドラマ\) "wikilink")」（第4シリーズ）が放送されている途中の[1975年](../Page/1975年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで朝日放送にネットされ、翌週の[4月3日](../Page/4月3日.md "wikilink")から[東京 - 大阪間の腸捻転解消に伴うネットチェンジにより毎日放送に移行した](https://ja.wikipedia.org/wiki/ネットチェンジ#大阪準キー局「腸捻転」の解消 "wikilink")。
+  - 近畿地方では、「[ありがとう](../Page/ありがとう_\(テレビドラマ\).md "wikilink")」（第4シリーズ）が放送されている途中の[1975年](../Page/1975年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで朝日放送にネットされ、翌週の[4月3日](../Page/4月3日.md "wikilink")から[東京 - 大阪間の腸捻転解消に伴うネットチェンジにより毎日放送に移行した](https://ja.wikipedia.org/wiki/ネットチェンジ#大阪準キー局「腸捻転」の解消 "wikilink")。
   - 福島県では、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[9月](../Page/9月.md "wikilink")の「[人間が好きドラマシリーズ](https://ja.wikipedia.org/wiki/人間が好きドラマシリーズ "wikilink")」まで福島テレビに同時ネットで放送され、同年[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から始まった「[胸さわぐ苺たち](https://ja.wikipedia.org/wiki/胸さわぐ苺たち "wikilink")」からは福島テレビのフジテレビ系マストバイ化に伴い日曜朝9:00から3日遅れで放送され、同作品放送途中の同年[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")からTBS系新局として開局したテレビユー福島に同時ネットでネット移行した。
-  - 沖縄県の琉球放送では、最末期の2作品（「[青春泥棒・徹と由紀子](https://ja.wikipedia.org/wiki/青春泥棒・徹と由紀子 "wikilink")」と「[ビートたけしの学問ノススメ](https://ja.wikipedia.org/wiki/ビートたけしの学問ノススメ "wikilink")」）は、[日本テレビ系列の同時ネット](../Page/日本テレビ放送網.md "wikilink")（「[ミッキーマウスとドナルドダック](../Page/ミッキーマウスとドナルドダック.md "wikilink")」、「[木曜スペシャル](../Page/木曜スペシャル.md "wikilink")」）に切り替わったため未放送（後者はのちに再放送枠で初めて放送された）。
+  - 沖縄県の琉球放送では、最末期の2作品（「[青春泥棒・徹と由紀子](https://ja.wikipedia.org/wiki/青春泥棒・徹と由紀子 "wikilink")」と「[ビートたけしの学問ノススメ](../Page/ビートたけしの学問ノススメ.md "wikilink")」）は、[日本テレビ系列の同時ネット](../Page/日本テレビ放送網.md "wikilink")（「[ミッキーマウスとドナルドダック](../Page/ミッキーマウスとドナルドダック.md "wikilink")」、「[木曜スペシャル](../Page/木曜スペシャル.md "wikilink")」）に切り替わったため未放送（後者はのちに再放送枠で初めて放送された）。
   - 各提供スポンサーのうち[資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")、[カルピス](https://ja.wikipedia.org/wiki/カルピス "wikilink")（当時の社名はカルピス食品工業、法人としては[2016年](../Page/2016年.md "wikilink")1月に[アサヒ飲料](../Page/アサヒ飲料.md "wikilink")に吸収合併）、[森永製菓](https://ja.wikipedia.org/wiki/森永製菓 "wikilink")は企業独自の提供クレジットが表示された。
       - 資生堂 - ブルーバックで、[花椿](https://ja.wikipedia.org/wiki/花椿 "wikilink")マークの下に「[東京](../Page/東京.md "wikilink") **資生堂** [銀座](https://ja.wikipedia.org/wiki/銀座 "wikilink")」（ナレーションは「東京銀座、資生堂」。「提供」文字なし）。
       - カルピス - 水色のバックで、[水玉模様](https://ja.wikipedia.org/wiki/水玉模様 "wikilink")の下に「**カルピス**」（「提供」文字なし。ナレーションは「水玉模様のカルピス」）。
       - 森永製菓 - 紺色のバックで、[エンゼル](https://ja.wikipedia.org/wiki/エンゼル "wikilink")マークの下に「提供 **森永製菓**」（ナレーションは「おいしさと楽しさを考える森永製菓」）。
-  - このうちカルピスは1979年以降、後に一時期親会社となる[味の素](../Page/味の素.md "wikilink")（ナレーションは「おいしく食べて健康づくり 味の素」）と交代し、1984年3月まで担当した（実際には[AGFのCMが](https://ja.wikipedia.org/wiki/味の素AGF "wikilink")1ヶ月平均で味の素よりも遙かに多く流れた）。
+  - このうちカルピスは1979年以降、後に一時期親会社となる[味の素](../Page/味の素.md "wikilink")（ナレーションは「おいしく食べて健康づくり 味の素」）と交代し、1984年3月まで担当した（実際には[AGFのCMが](../Page/味の素AGF.md "wikilink")1ヶ月平均で味の素よりも遙かに多く流れた）。
 
 ## 関連項目
 
   - [世界まるごとHOWマッチ](../Page/世界まるごとHOWマッチ.md "wikilink")（この放送時間枠の後番組）
   - [TBS土曜9時枠の連続ドラマ](https://ja.wikipedia.org/wiki/TBS土曜9時枠の連続ドラマ "wikilink")（本枠終了とともに再開したドラマ放送枠）
-  - [木曜座](https://ja.wikipedia.org/wiki/木曜座 "wikilink")
+  - [木曜座](../Page/木曜座.md "wikilink")
   - [日曜劇場](https://ja.wikipedia.org/wiki/日曜劇場 "wikilink")
-  - [水曜劇場](https://ja.wikipedia.org/wiki/水曜劇場_\(TBS\) "wikilink")
-  - [金曜ドラマ](https://ja.wikipedia.org/wiki/金曜ドラマ_\(TBS\) "wikilink")
+  - [水曜劇場](../Page/水曜劇場_\(TBS\).md "wikilink")
+  - [金曜ドラマ](../Page/金曜ドラマ_\(TBS\).md "wikilink")
   - [TBS木曜9時枠の連続ドラマ](../Page/TBS木曜9時枠の連続ドラマ.md "wikilink")
-  - [TBS木曜10時枠の連続ドラマ](https://ja.wikipedia.org/wiki/TBS木曜10時枠の連続ドラマ "wikilink")
+  - [TBS木曜10時枠の連続ドラマ](../Page/TBS木曜10時枠の連続ドラマ.md "wikilink")
   - [石井ふく子](../Page/石井ふく子.md "wikilink")
 
 [Category:TBSのテレビドラマ](https://ja.wikipedia.org/wiki/Category:TBSのテレビドラマ "wikilink") [Category:TBS木曜8時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:TBS木曜8時枠の連続ドラマ "wikilink")

@@ -1,13 +1,13 @@
 > この記事は[Young SS](https://ja.wikipedia.org/wiki/Young_SS)から翻訳されています。
 
 
-**Young SS**（ヤング・エスエス）は、[下北沢](../Page/下北沢.md "wikilink")を中心に活動する[ロックバンドである](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")。[早稲田大学](https://ja.wikipedia.org/wiki/早稲田大学 "wikilink")企画サークルUBC内にて結成。2001年秋よりYoung SSとして活動開始。愛称は「ヤンエス」。 幾度かのメンバーチェンジを経て、 2009年現在は6月リリース予定のアルバムに向けて活動中。
+**Young SS**（ヤング・エスエス）は、[下北沢](../Page/下北沢.md "wikilink")を中心に活動する[ロックバンドである](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")。[早稲田大学](../Page/早稲田大学.md "wikilink")企画サークルUBC内にて結成。2001年秋よりYoung SSとして活動開始。愛称は「ヤンエス」。 幾度かのメンバーチェンジを経て、 2009年現在は6月リリース予定のアルバムに向けて活動中。
 
 ## メンバー
 
-  - **佐藤 健**（サトウ タケシ、[1979年](../Page/1979年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink") - ）- [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")。[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")[宇都宮市](https://ja.wikipedia.org/wiki/宇都宮市 "wikilink")出身。[早稲田大学](https://ja.wikipedia.org/wiki/早稲田大学 "wikilink")卒業。
+  - **佐藤 健**（サトウ タケシ、[1979年](../Page/1979年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink") - ）- [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")。[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")[宇都宮市](https://ja.wikipedia.org/wiki/宇都宮市 "wikilink")出身。[早稲田大学](../Page/早稲田大学.md "wikilink")卒業。
   - **志村 潤**（シムラ ジュン、[1982年](../Page/1982年.md "wikilink")[12月27日](../Page/12月27日.md "wikilink") - ）- [ギター](../Page/ギター.md "wikilink")、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")。[山梨県](../Page/山梨県.md "wikilink")[甲府市](../Page/甲府市.md "wikilink")出身。[東京理科大学](../Page/東京理科大学.md "wikilink")卒業。
-  - **井口 和義**（イグチ カズヨシ、[1979年](../Page/1979年.md "wikilink")[11月11日](../Page/11月11日.md "wikilink") - ）- [ギター](../Page/ギター.md "wikilink")。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[足立区](../Page/足立区.md "wikilink")出身。
+  - **井口 和義**（イグチ カズヨシ、[1979年](../Page/1979年.md "wikilink")[11月11日](../Page/11月11日.md "wikilink") - ）- [ギター](../Page/ギター.md "wikilink")。[東京都](../Page/東京都.md "wikilink")[足立区](../Page/足立区.md "wikilink")出身。
 
 ## ディスコグラフィー
 

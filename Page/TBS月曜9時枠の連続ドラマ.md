@@ -5,11 +5,11 @@
 
 ## 概要
 
-[TBSが](../Page/TBSテレビ.md "wikilink")1987年秋の改編で22時台に帯の報道番組『[JNNニュース22プライムタイム](../Page/JNNニュース22プライムタイム.md "wikilink")』を設けるのに合わせ、長らくこの月曜21:00枠で放送されていた2時間の映画番組『[月曜ロードショー](https://ja.wikipedia.org/wiki/月曜ロードショー "wikilink")』を火曜20:00枠へ移し、『[ザ・ロードショー](https://ja.wikipedia.org/wiki/月曜ロードショー "wikilink")』と改題した。それに伴い、[火曜21時台のドラマ枠をこの月曜](../Page/TBS火曜9時枠の連続ドラマ.md "wikilink")21:00枠へ移す形で本枠がスタートした。
+[TBSが](../Page/TBSテレビ.md "wikilink")1987年秋の改編で22時台に帯の報道番組『[JNNニュース22プライムタイム](../Page/JNNニュース22プライムタイム.md "wikilink")』を設けるのに合わせ、長らくこの月曜21:00枠で放送されていた2時間の映画番組『[月曜ロードショー](../Page/月曜ロードショー.md "wikilink")』を火曜20:00枠へ移し、『[ザ・ロードショー](../Page/月曜ロードショー.md "wikilink")』と改題した。それに伴い、[火曜21時台のドラマ枠をこの月曜](../Page/TBS火曜9時枠の連続ドラマ.md "wikilink")21:00枠へ移す形で本枠がスタートした。
 
 『[おんなは一生懸命](https://ja.wikipedia.org/wiki/おんなは一生懸命 "wikilink")』や『[3年B組金八先生](https://ja.wikipedia.org/wiki/3年B組金八先生 "wikilink")』（第3シリーズ）などのファミリー向けドラマを主に放送していたが、この月曜21:00枠でのドラマの放送は2年で終了。替わって『[ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")』終了後の[木曜21:00枠で行われるようになった](../Page/TBS木曜9時枠の連続ドラマ.md "wikilink")。
 
-当枠終了後、月曜21:00枠は月曜22:00枠と統合されて2年ぶりに再び2時間枠となり、『[月曜ドラマスペシャル](https://ja.wikipedia.org/wiki/月曜ドラマスペシャル "wikilink")』→『[月曜ミステリー劇場](https://ja.wikipedia.org/wiki/月曜ミステリー劇場 "wikilink")』→『[月曜ゴールデン](../Page/月曜ゴールデン.md "wikilink")』→『[月曜名作劇場](https://ja.wikipedia.org/wiki/月曜名作劇場 "wikilink")』の[サスペンス](https://ja.wikipedia.org/wiki/サスペンス "wikilink")を中心とした[2時間ドラマ](https://ja.wikipedia.org/wiki/2時間ドラマ "wikilink")枠が1989年10月から2019年3月まで編成された\[1\]。結果的に月曜21:00枠が1時間枠に戻るのは2019年4月の『[メイドインジャパン\!](https://ja.wikipedia.org/wiki/メイドインジャパン! "wikilink")』まで29年半も待つ結果となった\[2\]。
+当枠終了後、月曜21:00枠は月曜22:00枠と統合されて2年ぶりに再び2時間枠となり、『[月曜ドラマスペシャル](../Page/月曜ドラマスペシャル.md "wikilink")』→『[月曜ミステリー劇場](../Page/月曜ミステリー劇場.md "wikilink")』→『[月曜ゴールデン](../Page/月曜ゴールデン.md "wikilink")』→『[月曜名作劇場](https://ja.wikipedia.org/wiki/月曜名作劇場 "wikilink")』の[サスペンス](../Page/サスペンス.md "wikilink")を中心とした[2時間ドラマ](../Page/2時間ドラマ.md "wikilink")枠が1989年10月から2019年3月まで編成された\[1\]。結果的に月曜21:00枠が1時間枠に戻るのは2019年4月の『[メイドインジャパン\!](https://ja.wikipedia.org/wiki/メイドインジャパン! "wikilink")』まで29年半も待つ結果となった\[2\]。
 
 ## 作品リスト
 

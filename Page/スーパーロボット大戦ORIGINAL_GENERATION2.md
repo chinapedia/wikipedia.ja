@@ -1,7 +1,7 @@
 > この記事は[ORIGINAL GENERATION2](https://ja.wikipedia.org/wiki/ORIGINAL_GENERATION2)から翻訳されています。
 
 
-『**スーパーロボット大戦ORIGINAL GENERATION2**』（スーパーロボットたいせんオリジナルジェネレーションツー）は、[バンプレスト](https://ja.wikipedia.org/wiki/バンプレスト "wikilink")の[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")専用[シミュレーションRPG](https://ja.wikipedia.org/wiki/シミュレーションロールプレイングゲーム "wikilink")。
+『**スーパーロボット大戦ORIGINAL GENERATION2**』（スーパーロボットたいせんオリジナルジェネレーションツー）は、[バンプレスト](../Page/バンプレスト.md "wikilink")の[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")専用[シミュレーションRPG](../Page/シミュレーションロールプレイングゲーム.md "wikilink")。
 
 キャッチコピーは「**交錯する世界 …そして、招かれざる来訪者**」。
 
@@ -9,11 +9,11 @@
 
 「[スーパーロボット大戦シリーズ](../Page/スーパーロボット大戦シリーズ.md "wikilink")」のカテゴリの一つである「OG（ORIGINAL GENERATION）シリーズ」の一作。『[スーパーロボット大戦ORIGINAL GENERATION](../Page/スーパーロボット大戦ORIGINAL_GENERATION.md "wikilink")』（以下、前作）の続編にあたる。全43話/54ステージ。
 
-前作のバンプレストオリジナル路線を維持し、新たに『[スーパーロボット大戦A](../Page/スーパーロボット大戦A.md "wikilink")』『[第2次スーパーロボット大戦α](https://ja.wikipedia.org/wiki/第2次スーパーロボット大戦α "wikilink")』などに登場したキャラクターやロボットが加わった。ストーリーは『[スーパーロボット大戦IMPACT](../Page/スーパーロボット大戦IMPACT.md "wikilink")』と『スーパーロボット大戦A』を中心にして展開され、『[ヒーロー戦記 プロジェクト オリュンポス](../Page/ヒーロー戦記_プロジェクト_オリュンポス.md "wikilink")』とも深い関わりを持っている。本作には特定の主人公は存在しないため、前作のような主人公選択によるルート分岐はない。
+前作のバンプレストオリジナル路線を維持し、新たに『[スーパーロボット大戦A](../Page/スーパーロボット大戦A.md "wikilink")』『[第2次スーパーロボット大戦α](../Page/第2次スーパーロボット大戦α.md "wikilink")』などに登場したキャラクターやロボットが加わった。ストーリーは『[スーパーロボット大戦IMPACT](../Page/スーパーロボット大戦IMPACT.md "wikilink")』と『スーパーロボット大戦A』を中心にして展開され、『[ヒーロー戦記 プロジェクト オリュンポス](../Page/ヒーロー戦記_プロジェクト_オリュンポス.md "wikilink")』とも深い関わりを持っている。本作には特定の主人公は存在しないため、前作のような主人公選択によるルート分岐はない。
 
 演出の面では、ほとんどのユニットグラフィックが描き換えられアニメーションも強化されている。前作ではパイロットカットインのない者が多かったが、本作ではほとんどのパイロットにカットインが存在。戦闘BGMはユニット・パイロットごとに指定された数種から任意に設定可能になった。
 
-[2007年](../Page/2007年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink")には[PlayStation 2用ソフトとして前作と本作](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、OVA『[スーパーロボット大戦ORIGINAL GENERATION THE ANIMATION](https://ja.wikipedia.org/wiki/スーパーロボット大戦ORIGINAL_GENERATION_THE_ANIMATION "wikilink")』とその前後を描いたドラマCDのエピソードを加えてリメイクした『[スーパーロボット大戦OG ORIGINAL GENERATIONS](https://ja.wikipedia.org/wiki/スーパーロボット大戦OG_ORIGINAL_GENERATIONS "wikilink")』が発売された。
+[2007年](../Page/2007年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink")には[PlayStation 2用ソフトとして前作と本作](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、OVA『[スーパーロボット大戦ORIGINAL GENERATION THE ANIMATION](../Page/スーパーロボット大戦ORIGINAL_GENERATION_THE_ANIMATION.md "wikilink")』とその前後を描いたドラマCDのエピソードを加えてリメイクした『[スーパーロボット大戦OG ORIGINAL GENERATIONS](../Page/スーパーロボット大戦OG_ORIGINAL_GENERATIONS.md "wikilink")』が発売された。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")10月からは、本作をベースとした[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[スーパーロボット大戦OG -ジ・インスペクター-](https://ja.wikipedia.org/wiki/スーパーロボット大戦OG_-ジ・インスペクター- "wikilink")』が放映された。
 
@@ -29,18 +29,18 @@
 
 機体・キャラクターとして登場する作品は以下の通り。☆はOGシリーズ初登場。
 
-  - DC戦争シリーズ/[魔装機神シリーズ](https://ja.wikipedia.org/wiki/魔装機神シリーズ "wikilink")
-      - [第2次スーパーロボット大戦](https://ja.wikipedia.org/wiki/第2次スーパーロボット大戦 "wikilink")
-      - [第3次スーパーロボット大戦](https://ja.wikipedia.org/wiki/第3次スーパーロボット大戦 "wikilink")
-      - [第4次スーパーロボット大戦](https://ja.wikipedia.org/wiki/第4次スーパーロボット大戦 "wikilink")/[F/F完結編](https://ja.wikipedia.org/wiki/スーパーロボット大戦F "wikilink")
+  - DC戦争シリーズ/[魔装機神シリーズ](../Page/魔装機神シリーズ.md "wikilink")
+      - [第2次スーパーロボット大戦](../Page/第2次スーパーロボット大戦.md "wikilink")
+      - [第3次スーパーロボット大戦](../Page/第3次スーパーロボット大戦.md "wikilink")
+      - [第4次スーパーロボット大戦](../Page/第4次スーパーロボット大戦.md "wikilink")/[F/F完結編](../Page/スーパーロボット大戦F.md "wikilink")
   - αシリーズ
-      - [スーパーロボット大戦α](https://ja.wikipedia.org/wiki/スーパーロボット大戦α "wikilink")
+      - [スーパーロボット大戦α](../Page/スーパーロボット大戦α.md "wikilink")
       - [スーパーロボット大戦α外伝](../Page/スーパーロボット大戦α外伝.md "wikilink")
-      - [第2次スーパーロボット大戦α](https://ja.wikipedia.org/wiki/第2次スーパーロボット大戦α "wikilink")
+      - [第2次スーパーロボット大戦α](../Page/第2次スーパーロボット大戦α.md "wikilink")
   - 他スーパーロボット大戦シリーズ作品
       - ☆[スーパーロボット大戦A](../Page/スーパーロボット大戦A.md "wikilink")
       - [スーパーロボット大戦COMPACT2](../Page/スーパーロボット大戦COMPACT2.md "wikilink")/[IMPACT](../Page/スーパーロボット大戦IMPACT.md "wikilink")
-      - [新スーパーロボット大戦](https://ja.wikipedia.org/wiki/新スーパーロボット大戦 "wikilink")
+      - [新スーパーロボット大戦](../Page/新スーパーロボット大戦.md "wikilink")
   - スーパーロボット大戦シリーズ以外
       - [ヒーロー戦記 プロジェクト オリュンポス](../Page/ヒーロー戦記_プロジェクト_オリュンポス.md "wikilink")
 
@@ -72,7 +72,7 @@
 ## スタッフ
 
   - プロデューサー
-    [寺田貴信](https://ja.wikipedia.org/wiki/寺田貴信 "wikilink")
+    [寺田貴信](../Page/寺田貴信.md "wikilink")
     じっぱひとからげ
     菊池博
   - ディレクター
@@ -83,9 +83,9 @@
     なかの★陽
     名倉正博
   - オリジナルメカデザイン
-    [宮武一貴](https://ja.wikipedia.org/wiki/宮武一貴 "wikilink")
-    [カトキハジメ](https://ja.wikipedia.org/wiki/カトキハジメ "wikilink")
-    [大河原邦男](https://ja.wikipedia.org/wiki/大河原邦男 "wikilink")
+    [宮武一貴](../Page/宮武一貴.md "wikilink")
+    [カトキハジメ](../Page/カトキハジメ.md "wikilink")
+    [大河原邦男](../Page/大河原邦男.md "wikilink")
     斉藤和衛
     藤井大誠
     富士原昌幸
@@ -104,7 +104,7 @@
 
 ### テレビCM
 
-本作のCMにはスパロボイメージガールを勤める[加藤夏希](https://ja.wikipedia.org/wiki/加藤夏希 "wikilink")が、登場キャラクターの一人「ラミア・ラヴレス」のコスプレをして出演した\[1\]。また、発売後のCMのBGMは『[第2次スーパーロボット大戦α](https://ja.wikipedia.org/wiki/第2次スーパーロボット大戦α "wikilink")』の最終シナリオのマップBGM「SKILL Ver.αII」が使用された。
+本作のCMにはスパロボイメージガールを勤める[加藤夏希](https://ja.wikipedia.org/wiki/加藤夏希 "wikilink")が、登場キャラクターの一人「ラミア・ラヴレス」のコスプレをして出演した\[1\]。また、発売後のCMのBGMは『[第2次スーパーロボット大戦α](../Page/第2次スーパーロボット大戦α.md "wikilink")』の最終シナリオのマップBGM「SKILL Ver.αII」が使用された。
 
 ### PVソング
 
@@ -118,7 +118,7 @@
 
 ### OVA
 
-  - [スーパーロボット大戦ORIGINAL GENERATION THE ANIMATION](https://ja.wikipedia.org/wiki/スーパーロボット大戦ORIGINAL_GENERATION_THE_ANIMATION "wikilink")
+  - [スーパーロボット大戦ORIGINAL GENERATION THE ANIMATION](../Page/スーパーロボット大戦ORIGINAL_GENERATION_THE_ANIMATION.md "wikilink")
 
     2005年にリリース。全3話（DVD全3巻）。本作の後日談。
 
@@ -143,7 +143,7 @@
     2005年5月12日初版、[双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink")、アクションコミックスISBN 9784575939422
     複数作家による二次創作4コマ漫画および短編漫画。
   - スーパーロボット大戦ORIGINAL GENERATION2 4コマKINGS
-    2005年6月15日初版、[一迅社](https://ja.wikipedia.org/wiki/一迅社 "wikilink")、DNAメディアコミックス。ISBN 9784758002523
+    2005年6月15日初版、[一迅社](../Page/一迅社.md "wikilink")、DNAメディアコミックス。ISBN 9784758002523
     複数作家による二次創作4コマ漫画。
   - スーパーロボット大戦ORIGINAL GENERATION2 コミックアンソロジー
     2005年5月15日初版、一迅社、DNAメディアコミックス。ISBN 9784758002479

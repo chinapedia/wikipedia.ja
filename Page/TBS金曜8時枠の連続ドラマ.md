@@ -7,17 +7,17 @@
 
 ## 概要
 
-  - 開始当初は30分枠で、主に海外作品を放送していたが、1959年10月に金曜21:15から移動しながら、この月限りで[NET（現：テレビ朝日）に移動した](../Page/テレビ朝日.md "wikilink")、[柳家金語楼](https://ja.wikipedia.org/wiki/柳家金語楼 "wikilink")主演の名作『[おトラさん](https://ja.wikipedia.org/wiki/おトラさん "wikilink")』を以て中断、その後1961年5月より枠を1時間に拡大し、海外作品『[ローリング20](https://ja.wikipedia.org/wiki/ローリング20 "wikilink")』を放送した後、『[近鉄金曜劇場](https://ja.wikipedia.org/wiki/近鉄金曜劇場 "wikilink")』に代わる。
-  - 『近鉄金曜劇場』が終了すると、朝日放送制作作品を放送するが、『[土曜ロードショー](https://ja.wikipedia.org/wiki/月曜ロードショー "wikilink")』との枠交換で[土曜22:05へ制作枠が移動し中断](https://ja.wikipedia.org/wiki/TBS土曜10時枠の連続ドラマ "wikilink")、そして1972年10月にTBS制作で再開するも、視聴率的には振るわなかった。その後、[郷ひろみ](../Page/郷ひろみ.md "wikilink")・[西城秀樹](https://ja.wikipedia.org/wiki/西城秀樹 "wikilink")・[桜田淳子](https://ja.wikipedia.org/wiki/桜田淳子 "wikilink")・[ずうとるび](https://ja.wikipedia.org/wiki/ずうとるび "wikilink")といったアイドルを出演させたり、[田宮二郎](../Page/田宮二郎.md "wikilink")主演の『白いシリーズ』や、往年の名作『[七人の刑事](../Page/七人の刑事.md "wikilink")』をリメイクして放送して来たが、『[太陽にほえろ\!](../Page/太陽にほえろ!.md "wikilink")』（[日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")）の壁は厚かった。
-  - だが1979年10月、『[桜中学シリーズ](https://ja.wikipedia.org/wiki/桜中学シリーズ "wikilink")』の第1作『[3年B組金八先生](https://ja.wikipedia.org/wiki/3年B組金八先生 "wikilink")』がスタート。瞬く間に大ヒットとなり、『[3年B組貫八先生](https://ja.wikipedia.org/wiki/3年B組貫八先生 "wikilink")』まで延べ5作（『金八』は2作製作）に渡って『桜中学シリーズ』が続く。
-  - その後は『[家族ゲーム](https://ja.wikipedia.org/wiki/家族ゲーム "wikilink")』と『[うちの子にかぎって…](../Page/うちの子にかぎって….md "wikilink")』（2シリーズ製作）がヒットとなったが、後が続かず、編成の見直しがされ、ついに1986年終了の『[セーラー服通り](../Page/セーラー服通り.md "wikilink")』をもって13年半の幕を降ろす。その後は[ビートたけし](../Page/ビートたけし.md "wikilink")のバラエティ→[単発特別番組枠](https://ja.wikipedia.org/wiki/単発特別番組枠 "wikilink")→1時間バラエティ（『[ドリーム・プレス社](../Page/ドリーム・プレス社.md "wikilink")』→『[ぴったんこカン・カン](../Page/ぴったんこカン・カン.md "wikilink")』）に変わって、現在に至る。
+  - 開始当初は30分枠で、主に海外作品を放送していたが、1959年10月に金曜21:15から移動しながら、この月限りで[NET（現：テレビ朝日）に移動した](../Page/テレビ朝日.md "wikilink")、[柳家金語楼](../Page/柳家金語楼.md "wikilink")主演の名作『[おトラさん](https://ja.wikipedia.org/wiki/おトラさん "wikilink")』を以て中断、その後1961年5月より枠を1時間に拡大し、海外作品『[ローリング20](https://ja.wikipedia.org/wiki/ローリング20 "wikilink")』を放送した後、『[近鉄金曜劇場](../Page/近鉄金曜劇場.md "wikilink")』に代わる。
+  - 『近鉄金曜劇場』が終了すると、朝日放送制作作品を放送するが、『[土曜ロードショー](../Page/月曜ロードショー.md "wikilink")』との枠交換で[土曜22:05へ制作枠が移動し中断](https://ja.wikipedia.org/wiki/TBS土曜10時枠の連続ドラマ "wikilink")、そして1972年10月にTBS制作で再開するも、視聴率的には振るわなかった。その後、[郷ひろみ](../Page/郷ひろみ.md "wikilink")・[西城秀樹](https://ja.wikipedia.org/wiki/西城秀樹 "wikilink")・[桜田淳子](../Page/桜田淳子.md "wikilink")・[ずうとるび](../Page/ずうとるび.md "wikilink")といったアイドルを出演させたり、[田宮二郎](../Page/田宮二郎.md "wikilink")主演の『白いシリーズ』や、往年の名作『[七人の刑事](../Page/七人の刑事.md "wikilink")』をリメイクして放送して来たが、『[太陽にほえろ\!](../Page/太陽にほえろ!.md "wikilink")』（[日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")）の壁は厚かった。
+  - だが1979年10月、『[桜中学シリーズ](../Page/桜中学シリーズ.md "wikilink")』の第1作『[3年B組金八先生](https://ja.wikipedia.org/wiki/3年B組金八先生 "wikilink")』がスタート。瞬く間に大ヒットとなり、『[3年B組貫八先生](../Page/3年B組貫八先生.md "wikilink")』まで延べ5作（『金八』は2作製作）に渡って『桜中学シリーズ』が続く。
+  - その後は『[家族ゲーム](../Page/家族ゲーム.md "wikilink")』と『[うちの子にかぎって…](../Page/うちの子にかぎって….md "wikilink")』（2シリーズ製作）がヒットとなったが、後が続かず、編成の見直しがされ、ついに1986年終了の『[セーラー服通り](../Page/セーラー服通り.md "wikilink")』をもって13年半の幕を降ろす。その後は[ビートたけし](../Page/ビートたけし.md "wikilink")のバラエティ→[単発特別番組枠](../Page/単発特別番組枠.md "wikilink")→1時間バラエティ（『[ドリーム・プレス社](../Page/ドリーム・プレス社.md "wikilink")』→『[ぴったんこカン・カン](../Page/ぴったんこカン・カン.md "wikilink")』）に変わって、現在に至る。
   - [1970年代](../Page/1970年代.md "wikilink")後半の一時期、当ドラマ枠は[ライオン歯磨・ライオン油脂の](../Page/ライオン_\(企業\).md "wikilink")[一社提供](../Page/一社提供.md "wikilink")による『ライオンアワー』として放送された。
-  - [1972年](../Page/1972年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[1982年](../Page/1982年.md "wikilink")[9月](../Page/9月.md "wikilink")までには9時台に[金曜9時枠ドラマ](../Page/TBS金曜9時枠の連続ドラマ.md "wikilink")、10時台も[金曜ドラマがあったため](https://ja.wikipedia.org/wiki/金曜ドラマ_\(TBS\) "wikilink")、金曜日は3時間テレビドラマ枠（1時間枠×3本）を放映していた時代もある。
+  - [1972年](../Page/1972年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[1982年](../Page/1982年.md "wikilink")[9月](../Page/9月.md "wikilink")までには9時台に[金曜9時枠ドラマ](../Page/TBS金曜9時枠の連続ドラマ.md "wikilink")、10時台も[金曜ドラマがあったため](../Page/金曜ドラマ_\(TBS\).md "wikilink")、金曜日は3時間テレビドラマ枠（1時間枠×3本）を放映していた時代もある。
       - なお、最盛期には火曜日から金曜日まで3時間テレビドラマ枠（1時間枠×3本）を放映していた。
-  - さらに、19時台前半に『[ウルトラマンタロウ](../Page/ウルトラマンタロウ.md "wikilink")』、後半に『[走れ\!ケー100](https://ja.wikipedia.org/wiki/走れ!ケー100 "wikilink")』を放送していた時期は4時間テレビドラマを放映していた。
+  - さらに、19時台前半に『[ウルトラマンタロウ](../Page/ウルトラマンタロウ.md "wikilink")』、後半に『[走れ\!ケー100](../Page/走れ!ケー100.md "wikilink")』を放送していた時期は4時間テレビドラマを放映していた。
       - また、水曜日や木曜日も4時間テレビドラマを放映していた時期がある。
-      - この後19時台後半はドラマから撤退するが、19時台前半は『[ウルトラマンレオ](../Page/ウルトラマンレオ.md "wikilink")』や、『[宇宙鉄人キョーダイン](https://ja.wikipedia.org/wiki/宇宙鉄人キョーダイン "wikilink")』・『[大鉄人17](../Page/大鉄人17.md "wikilink")』・『[昭和仮面ライダーシリーズ](https://ja.wikipedia.org/wiki/仮面ライダーシリーズ "wikilink")（第2期）』といった30分特撮番組を、[1981年](../Page/1981年.md "wikilink")3月まで断続的に放送したため、この間は4本・3時間半のドラマが放送されていた。
-  - 第2期においては、初期のころは特番などで放送休止になることはなかったが、1976年にTBSは[金曜ナイターを復活させたため](https://ja.wikipedia.org/wiki/SAMURAI_BASEBALL "wikilink")、4月～9月にかけてのナイターシーズンにおいては年3～4回ほどの割合で放送休止になることがあった。また[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")から、それまで日曜で放送された『[日本有線大賞](https://ja.wikipedia.org/wiki/日本有線大賞 "wikilink")』が金曜放送に変更されたため、[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")放送分は『有線大賞』で休止される事があった。これは廃枠後も[2002年](../Page/2002年.md "wikilink")まで続く事になる。
+      - この後19時台後半はドラマから撤退するが、19時台前半は『[ウルトラマンレオ](../Page/ウルトラマンレオ.md "wikilink")』や、『[宇宙鉄人キョーダイン](../Page/宇宙鉄人キョーダイン.md "wikilink")』・『[大鉄人17](../Page/大鉄人17.md "wikilink")』・『[昭和仮面ライダーシリーズ](https://ja.wikipedia.org/wiki/仮面ライダーシリーズ "wikilink")（第2期）』といった30分特撮番組を、[1981年](../Page/1981年.md "wikilink")3月まで断続的に放送したため、この間は4本・3時間半のドラマが放送されていた。
+  - 第2期においては、初期のころは特番などで放送休止になることはなかったが、1976年にTBSは[金曜ナイターを復活させたため](https://ja.wikipedia.org/wiki/SAMURAI_BASEBALL "wikilink")、4月～9月にかけてのナイターシーズンにおいては年3～4回ほどの割合で放送休止になることがあった。また[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")から、それまで日曜で放送された『[日本有線大賞](../Page/日本有線大賞.md "wikilink")』が金曜放送に変更されたため、[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")放送分は『有線大賞』で休止される事があった。これは廃枠後も[2002年](../Page/2002年.md "wikilink")まで続く事になる。
 
 ## 作品リスト
 
@@ -70,17 +70,17 @@
   - [白い荒野](https://ja.wikipedia.org/wiki/白い荒野_\(テレビドラマ\) "wikilink")
   - [七人の刑事](../Page/七人の刑事.md "wikilink")
   - [3年B組金八先生](https://ja.wikipedia.org/wiki/3年B組金八先生 "wikilink")
-  - [1年B組新八先生](https://ja.wikipedia.org/wiki/1年B組新八先生 "wikilink")
-  - [2年B組仙八先生](https://ja.wikipedia.org/wiki/2年B組仙八先生 "wikilink")
-  - [3年B組貫八先生](https://ja.wikipedia.org/wiki/3年B組貫八先生 "wikilink") - 継続中の1982年10月に20:00 - 20:54に変更（1分短縮）。
+  - [1年B組新八先生](../Page/1年B組新八先生.md "wikilink")
+  - [2年B組仙八先生](../Page/2年B組仙八先生.md "wikilink")
+  - [3年B組貫八先生](../Page/3年B組貫八先生.md "wikilink") - 継続中の1982年10月に20:00 - 20:54に変更（1分短縮）。
   - [オサラバ坂に陽が昇る](https://ja.wikipedia.org/wiki/オサラバ坂に陽が昇る "wikilink")
-  - [家族ゲーム](https://ja.wikipedia.org/wiki/家族ゲーム "wikilink")
-  - [青が散る](https://ja.wikipedia.org/wiki/青が散る "wikilink")
+  - [家族ゲーム](../Page/家族ゲーム.md "wikilink")
+  - [青が散る](../Page/青が散る.md "wikilink")
   - [中卒・東大一直線 もう高校はいらない\!](../Page/中卒・東大一直線_もう高校はいらない!.md "wikilink")
   - [うちの子にかぎって…](../Page/うちの子にかぎって….md "wikilink")
-  - [東中学3年5組](https://ja.wikipedia.org/wiki/東中学3年5組 "wikilink")
+  - [東中学3年5組](../Page/東中学3年5組.md "wikilink")
   - [花田春吉なんでもやります](../Page/花田春吉なんでもやります.md "wikilink")
-  - [もしも、学校が…\!?](https://ja.wikipedia.org/wiki/もしも、学校が…!? "wikilink")
+  - [もしも、学校が…\!?](../Page/もしも、学校が…!?.md "wikilink")
   - ['85年型家族あわせ](../Page/'85年型家族あわせ.md "wikilink")
   - [セーラー服通り](../Page/セーラー服通り.md "wikilink")
 
@@ -194,7 +194,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/岡山県" title="wikilink">岡山県</a><br />
-→<a href="https://ja.wikipedia.org/wiki/岡山県・香川県の放送" title="wikilink">岡山県<br />
+→<a href="../Page/岡山県・香川県の放送.md" title="wikilink">岡山県<br />
 香川県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/山陽放送テレビ" title="wikilink">山陽放送</a></p></td>
 <td><p>1983年3月までの放送エリアは岡山県のみ<br />
@@ -231,7 +231,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/RKB毎日放送" title="wikilink">RKB毎日放送</a></p></td>
 <td></td>
 <td></td>
@@ -268,7 +268,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/沖縄県.md" title="wikilink">沖縄県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/琉球放送" title="wikilink">琉球放送</a></p></td>
+<td><p><a href="../Page/琉球放送.md" title="wikilink">琉球放送</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -282,8 +282,8 @@
       -
         [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")は1973年7月に『太陽にほえろ\!』を遅れネットに変更した上で同時ネットに移行した他、[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")は[熊本県民テレビ](../Page/熊本県民テレビ.md "wikilink")開局に伴い、1982年4月から同時ネットに移行している。
         [中国放送](../Page/中国放送.md "wikilink")は、『三菱ダイヤモンド・アワー』が本来の系列局である[広島テレビに移行した](../Page/広島テレビ放送.md "wikilink")1969年10月から同時ネットとなった。
-        [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")・[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")・[琉球放送](https://ja.wikipedia.org/wiki/琉球放送 "wikilink")は、1981年4月に『太陽にほえろ\!』の放映権をフジテレビ系列局（[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")・[鹿児島テレビ](../Page/鹿児島テレビ放送.md "wikilink")・[沖縄テレビ](../Page/沖縄テレビ放送.md "wikilink")、テレビ宮崎と鹿児島テレビは日本テレビ系列・[NETテレビ系列とのクロスネット局](../Page/テレビ朝日.md "wikilink")）へ放映権を移行して同時ネットに移行している。
-        [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")・[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")・[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")は、1984年4月の『[JNNフラッシュニュース](https://ja.wikipedia.org/wiki/JNNフラッシュニュース "wikilink")』の放送見直しと『[金曜ナイター](https://ja.wikipedia.org/wiki/SAMURAI_BASEBALL "wikilink")』の開始に伴い同時ネットに移行している（同時に『太陽にほえろ\!』は長野県・長崎県では[テレビ信州](../Page/テレビ信州.md "wikilink")・[テレビ長崎](../Page/テレビ長崎.md "wikilink")へ放映権移行、北陸放送は遅れネット化）。
+        [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")・[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")・[琉球放送](../Page/琉球放送.md "wikilink")は、1981年4月に『太陽にほえろ\!』の放映権をフジテレビ系列局（[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")・[鹿児島テレビ](../Page/鹿児島テレビ放送.md "wikilink")・[沖縄テレビ](../Page/沖縄テレビ放送.md "wikilink")、テレビ宮崎と鹿児島テレビは日本テレビ系列・[NETテレビ系列とのクロスネット局](../Page/テレビ朝日.md "wikilink")）へ放映権を移行して同時ネットに移行している。
+        [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")・[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")・[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")は、1984年4月の『[JNNフラッシュニュース](../Page/JNNフラッシュニュース.md "wikilink")』の放送見直しと『[金曜ナイター](https://ja.wikipedia.org/wiki/SAMURAI_BASEBALL "wikilink")』の開始に伴い同時ネットに移行している（同時に『太陽にほえろ\!』は長野県・長崎県では[テレビ信州](../Page/テレビ信州.md "wikilink")・[テレビ長崎](../Page/テレビ長崎.md "wikilink")へ放映権移行、北陸放送は遅れネット化）。
   - 当時フジテレビ系列とのクロスネット局だった[福島テレビ](../Page/福島テレビ.md "wikilink")・[テレビ山口](../Page/テレビ山口.md "wikilink")の2局は以下の対応が取られていた。
       -
         福島テレビは1983年3月まで同時ネットで放送していたが、1983年4月にフジテレビ系フルネット局（JNN脱退・[FNN加盟](../Page/フジニュースネットワーク.md "wikilink")）に転換したため打ち切られた。なお、1983年12月に[テレビユー福島](../Page/テレビユー福島.md "wikilink")が開局した事で福島県における放送を再開している。
@@ -291,10 +291,10 @@
 
 ## 関連項目
 
-  - [近鉄金曜劇場](https://ja.wikipedia.org/wiki/近鉄金曜劇場 "wikilink")(第2期と第3期の間に金曜8時枠で放送されたドラマ枠）
+  - [近鉄金曜劇場](../Page/近鉄金曜劇場.md "wikilink")(第2期と第3期の間に金曜8時枠で放送されたドラマ枠）
   - [TBS土曜10時枠の連続ドラマ](https://ja.wikipedia.org/wiki/TBS土曜10時枠の連続ドラマ "wikilink")（朝日放送作品の後継枠）
   - [TBS金曜7時枠の連続ドラマ](https://ja.wikipedia.org/wiki/TBS金曜7時枠の連続ドラマ "wikilink")
   - [TBS金曜9時枠の連続ドラマ](../Page/TBS金曜9時枠の連続ドラマ.md "wikilink")
-  - [金曜ドラマ](https://ja.wikipedia.org/wiki/金曜ドラマ_\(TBS\) "wikilink")
+  - [金曜ドラマ](../Page/金曜ドラマ_\(TBS\).md "wikilink")
 
 [Category:TBS金曜8時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:TBS金曜8時枠の連続ドラマ "wikilink") [Category:TBSのテレビドラマ](https://ja.wikipedia.org/wiki/Category:TBSのテレビドラマ "wikilink")

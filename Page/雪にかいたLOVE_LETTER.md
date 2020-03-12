@@ -5,20 +5,20 @@
 
 ## 解説
 
-  - 同曲のヒットで、[TBS系](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")『[ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")』に菊池自身初めて10位以内にランクイン（菊池の同番組での初出演は、「今週のスポットライト」で披露したデビューシングルの「[青春のいじわる](https://ja.wikipedia.org/wiki/青春のいじわる "wikilink")」）。
-  - [オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")では最高3位を記録、「[卒業-GRADUATION-](https://ja.wikipedia.org/wiki/卒業-GRADUATION- "wikilink")」に次いで約35万枚を売り上げる2番目のヒット曲となった。
+  - 同曲のヒットで、[TBS系](../Page/TBSテレビ.md "wikilink")『[ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")』に菊池自身初めて10位以内にランクイン（菊池の同番組での初出演は、「今週のスポットライト」で披露したデビューシングルの「[青春のいじわる](https://ja.wikipedia.org/wiki/青春のいじわる "wikilink")」）。
+  - [オリコンチャート](../Page/オリコンチャート.md "wikilink")では最高3位を記録、「[卒業-GRADUATION-](../Page/卒業-GRADUATION-.md "wikilink")」に次いで約35万枚を売り上げる2番目のヒット曲となった。
 
 ## 収録曲
 
 1.  **雪にかいたLOVE LETTER**
-      - 作詞：[秋元康](../Page/秋元康.md "wikilink")　作曲・編曲：[林哲司](https://ja.wikipedia.org/wiki/林哲司 "wikilink")
+      - 作詞：[秋元康](../Page/秋元康.md "wikilink")　作曲・編曲：[林哲司](../Page/林哲司.md "wikilink")
 2.  **ANOTHER ONE**
       - 作詞：秋元康　作曲・編曲：林哲司
 
 ## 関連項目
 
-  - [1984年の音楽](https://ja.wikipedia.org/wiki/1984年の音楽 "wikilink")
-  - [1985年の音楽](https://ja.wikipedia.org/wiki/1985年の音楽 "wikilink")
+  - [1984年の音楽](../Page/1984年の音楽.md "wikilink")
+  - [1985年の音楽](../Page/1985年の音楽.md "wikilink")
 
 ## 脚注
 

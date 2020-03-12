@@ -11,15 +11,15 @@
 
 ### 製作の経緯
 
-元々はディレクターの発案から「プレイバック」というタイトルが決められ、[阿木燿子](https://ja.wikipedia.org/wiki/阿木燿子 "wikilink")作詞、[馬飼野康二](https://ja.wikipedia.org/wiki/馬飼野康二 "wikilink")作曲と、[宇崎竜童](https://ja.wikipedia.org/wiki/宇崎竜童 "wikilink")が作曲する2作同時に作られ、宇崎竜堂版を採用。しかしまだ物足りなかったスタッフが阿木・宇崎両名に作り直しを依頼。翌日にはレコーディングしないとプレスに間に合わないという状況の中、2人はこの曲を更に一晩で作り、翌日にはアレンジャーに渡し、レコーディングまで済ませたという。タイトルに「Part2」が入っているのも、元はこうした製作の経緯による\[1\]。なお、馬飼野版作曲の『プレイバックPart1』は、本作の翌月に発売されたベストアルバム『[THE BEST プレイバック](https://ja.wikipedia.org/wiki/THE_BEST_プレイバック "wikilink")』に、シングルB面用だった『たそがれ祭り』と共に収録されている（[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")はされていない）。
+元々はディレクターの発案から「プレイバック」というタイトルが決められ、[阿木燿子](../Page/阿木燿子.md "wikilink")作詞、[馬飼野康二](../Page/馬飼野康二.md "wikilink")作曲と、[宇崎竜童](../Page/宇崎竜童.md "wikilink")が作曲する2作同時に作られ、宇崎竜堂版を採用。しかしまだ物足りなかったスタッフが阿木・宇崎両名に作り直しを依頼。翌日にはレコーディングしないとプレスに間に合わないという状況の中、2人はこの曲を更に一晩で作り、翌日にはアレンジャーに渡し、レコーディングまで済ませたという。タイトルに「Part2」が入っているのも、元はこうした製作の経緯による\[1\]。なお、馬飼野版作曲の『プレイバックPart1』は、本作の翌月に発売されたベストアルバム『[THE BEST プレイバック](https://ja.wikipedia.org/wiki/THE_BEST_プレイバック "wikilink")』に、シングルB面用だった『たそがれ祭り』と共に収録されている（[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")はされていない）。
 
 ### ポルシェの型式
 
-歌詞に登場する『真紅なポルシェ』の型式に関しては、様々な見解があり、現在でも確定されてはいない。ラジオDJの[ピストン西沢](https://ja.wikipedia.org/wiki/ピストン西沢 "wikilink")が[宇崎竜童](https://ja.wikipedia.org/wiki/宇崎竜童 "wikilink")とのインタビューの際、宇崎竜童が「女性が街中で乗ってるって事だと、[アウディ](https://ja.wikipedia.org/wiki/アウディ "wikilink")か[フォルクスワーゲン](https://ja.wikipedia.org/wiki/フォルクスワーゲン "wikilink")で作ってた方のポルシェじゃないのかな？」というコメントをしている。このことから、[ポルシェ・914](https://ja.wikipedia.org/wiki/ポルシェ・914 "wikilink")または[ポルシェ・924](https://ja.wikipedia.org/wiki/ポルシェ・924 "wikilink")ではないだろうかという説が有力となっている。なお作詞家の[阿木燿子](https://ja.wikipedia.org/wiki/阿木燿子 "wikilink")自身は、この『真紅ポルシェ』の型式に関して一切明言していないので、真相は不明である。
+歌詞に登場する『真紅なポルシェ』の型式に関しては、様々な見解があり、現在でも確定されてはいない。ラジオDJの[ピストン西沢](../Page/ピストン西沢.md "wikilink")が[宇崎竜童](../Page/宇崎竜童.md "wikilink")とのインタビューの際、宇崎竜童が「女性が街中で乗ってるって事だと、[アウディ](https://ja.wikipedia.org/wiki/アウディ "wikilink")か[フォルクスワーゲン](https://ja.wikipedia.org/wiki/フォルクスワーゲン "wikilink")で作ってた方のポルシェじゃないのかな？」というコメントをしている。このことから、[ポルシェ・914](../Page/ポルシェ・914.md "wikilink")または[ポルシェ・924](../Page/ポルシェ・924.md "wikilink")ではないだろうかという説が有力となっている。なお作詞家の[阿木燿子](../Page/阿木燿子.md "wikilink")自身は、この『真紅ポルシェ』の型式に関して一切明言していないので、真相は不明である。
 
 ### 放送局における取扱い
 
-山口が[NHKの](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")に出演した際は、歌詞中の「真紅な[ポルシェ](../Page/ポルシェ.md "wikilink")」の部分が商品の宣伝に当たるという理由から「[真紅なクルマ](https://ja.wikipedia.org/wiki/消防車 "wikilink")」に改変して歌っていた\[2\]\[3\]。しかし、自身初の紅組トリで出場した『[第29回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第29回NHK紅白歌合戦 "wikilink")』での歌唱をきっかけに、以後はNHKでも「ポルシェ」と歌っている\[4\]。
+山口が[NHKの](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[音楽番組](../Page/音楽番組.md "wikilink")に出演した際は、歌詞中の「真紅な[ポルシェ](../Page/ポルシェ.md "wikilink")」の部分が商品の宣伝に当たるという理由から「[真紅なクルマ](https://ja.wikipedia.org/wiki/消防車 "wikilink")」に改変して歌っていた\[2\]\[3\]。しかし、自身初の紅組トリで出場した『[第29回NHK紅白歌合戦](../Page/第29回NHK紅白歌合戦.md "wikilink")』での歌唱をきっかけに、以後はNHKでも「ポルシェ」と歌っている\[4\]。
 
 曲中に場面転換として一時無音になるという演出は、当時はまだ珍しかった。これを曲の終わりと勘違いされないための配慮として、無音の間を[スティック・フリップ](https://ja.wikipedia.org/wiki/スティック・フリップ "wikilink")でつないで曲がまだ終わっていないことを明示したり、無音そのものを省略することなどで対応するテレビ局もあった\[5\]。
 
@@ -28,7 +28,7 @@
 ## 品番
 
   - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[5月1日](../Page/5月1日.md "wikilink") - [EP](https://ja.wikipedia.org/wiki/シングル#EP盤 "wikilink"): 06SH 331（シングル）
-  - [1989年](../Page/1989年.md "wikilink")[3月21日](https://ja.wikipedia.org/wiki/3月21日 "wikilink") - [8cmCD](https://ja.wikipedia.org/wiki/8センチCD "wikilink"): 10EH 3183（「Platinum Single SERIES」 片面: [乙女座 宮](../Page/乙女座_宮.md "wikilink")）
+  - [1989年](../Page/1989年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink") - [8cmCD](https://ja.wikipedia.org/wiki/8センチCD "wikilink"): 10EH 3183（「Platinum Single SERIES」 片面: [乙女座 宮](../Page/乙女座_宮.md "wikilink")）
   - [2004年](../Page/2004年.md "wikilink")[6月23日](../Page/6月23日.md "wikilink") - 8cmCD: MHCL 10040（「[ドラマチック](https://ja.wikipedia.org/wiki/ドラマチック_\(山口百恵のアルバム\) "wikilink")」 初回紙ジャケ仕様盤）
 
 ## 関連作品
@@ -46,7 +46,7 @@
       - [ベスト・セレクション Vol.2](https://ja.wikipedia.org/wiki/ベスト・セレクション_Vol.2 "wikilink")
       - [GOLDEN J-POP/THE BEST 山口百惠](https://ja.wikipedia.org/wiki/GOLDEN_J-POP/THE_BEST_山口百惠 "wikilink")
       - [2000 BEST 山口百恵 ベスト・コレクション](https://ja.wikipedia.org/wiki/2000_BEST_山口百恵_ベスト・コレクション "wikilink")
-      - [GOLDEN☆BEST 山口百恵 PLAYBACK MOMOE part2](https://ja.wikipedia.org/wiki/GOLDEN☆BEST_山口百恵_PLAYBACK_MOMOE_part2 "wikilink")
+      - [GOLDEN☆BEST 山口百恵 PLAYBACK MOMOE part2](../Page/GOLDEN☆BEST_山口百恵_PLAYBACK_MOMOE_part2.md "wikilink")
       - [山口百恵ベスト・コレクション VOL.2](https://ja.wikipedia.org/wiki/山口百恵ベスト・コレクション_VOL.2 "wikilink")
       - [MOMOE PREMIUM](https://ja.wikipedia.org/wiki/MOMOE_PREMIUM "wikilink")
       - [Complete MOMOE PREMIUM](https://ja.wikipedia.org/wiki/Complete_MOMOE_PREMIUM "wikilink")
@@ -96,8 +96,8 @@
 
 <!-- end list -->
 
-  - [仁藤優子](https://ja.wikipedia.org/wiki/仁藤優子 "wikilink")（1990年、カバーアルバム『EASTER』に収録）
-  - [ノーランズ](https://ja.wikipedia.org/wiki/ノーランズ "wikilink")（1991年）
+  - [仁藤優子](../Page/仁藤優子.md "wikilink")（1990年、カバーアルバム『EASTER』に収録）
+  - [ノーランズ](../Page/ノーランズ.md "wikilink")（1991年）
   - [辛島美登里](https://ja.wikipedia.org/wiki/辛島美登里 "wikilink")（2004年、トリビュートアルバム『[山口百恵トリビュート Thank You For…](../Page/山口百恵トリビュート_Thank_You_For….md "wikilink")』に収録）
   - [上戸彩](https://ja.wikipedia.org/wiki/上戸彩 "wikilink")「[エンタの神様](https://ja.wikipedia.org/wiki/エンタの神様 "wikilink")」にて企画PV
   - [幸佳](https://ja.wikipedia.org/wiki/幸佳 "wikilink")（2008年）
@@ -111,17 +111,17 @@
 
 ## 備考
 
-テレビアニメ『[宇宙戦艦ヤマト2](https://ja.wikipedia.org/wiki/宇宙戦艦ヤマト2 "wikilink")』の第12話で、宇宙ボタルにやられた[アナライザーが](../Page/アナライザー_\(宇宙戦艦ヤマト\).md "wikilink")、本曲を歌いながら暴れるシーンがある。
+テレビアニメ『[宇宙戦艦ヤマト2](../Page/宇宙戦艦ヤマト2.md "wikilink")』の第12話で、宇宙ボタルにやられた[アナライザーが](../Page/アナライザー_\(宇宙戦艦ヤマト\).md "wikilink")、本曲を歌いながら暴れるシーンがある。
 
-1983年に公開された[滝田洋二郎](../Page/滝田洋二郎.md "wikilink")監督の[ピンク映画](https://ja.wikipedia.org/wiki/ピンク映画 "wikilink")『痴漢電車　百恵のお尻』で本曲が挿入歌として使用されている。
+1983年に公開された[滝田洋二郎](../Page/滝田洋二郎.md "wikilink")監督の[ピンク映画](../Page/ピンク映画.md "wikilink")『痴漢電車　百恵のお尻』で本曲が挿入歌として使用されている。
 
-1999年に[江崎グリコ](https://ja.wikipedia.org/wiki/江崎グリコ "wikilink")「トマト[プリッツ](https://ja.wikipedia.org/wiki/プリッツ "wikilink")」のCM（出演：[片瀬那奈](https://ja.wikipedia.org/wiki/片瀬那奈 "wikilink")）で替え歌が使用された。また｢ちょっと待って プレイバック、プレイバック\!｣の部分は文字通り｢映像を巻き戻す｣シーンで使われることがあり、その一例には[スバル・プレオ](https://ja.wikipedia.org/wiki/スバル・プレオ "wikilink")(初代RA系初期型)のCMがある。
+1999年に[江崎グリコ](https://ja.wikipedia.org/wiki/江崎グリコ "wikilink")「トマト[プリッツ](../Page/プリッツ.md "wikilink")」のCM（出演：[片瀬那奈](https://ja.wikipedia.org/wiki/片瀬那奈 "wikilink")）で替え歌が使用された。また｢ちょっと待って プレイバック、プレイバック\!｣の部分は文字通り｢映像を巻き戻す｣シーンで使われることがあり、その一例には[スバル・プレオ](../Page/スバル・プレオ.md "wikilink")(初代RA系初期型)のCMがある。
 
 ## 関連項目
 
-  - [1978年の音楽](https://ja.wikipedia.org/wiki/1978年の音楽 "wikilink")
+  - [1978年の音楽](../Page/1978年の音楽.md "wikilink")
   - [松本家の休日](https://ja.wikipedia.org/wiki/松本家の休日 "wikilink") - 2014年10月より、[松本人志](../Page/松本人志.md "wikilink")が、関西ローカル深夜番組でスタートした番組のエンディングテーマに採用。
-  - [ジーユー](https://ja.wikipedia.org/wiki/ジーユー "wikilink") - [香椎由宇](https://ja.wikipedia.org/wiki/香椎由宇 "wikilink")、[波瑠](https://ja.wikipedia.org/wiki/波瑠 "wikilink")、[山本美月](https://ja.wikipedia.org/wiki/山本美月 "wikilink")、[高良健吾](https://ja.wikipedia.org/wiki/高良健吾 "wikilink")が2015年秋冬シーズンTVCMでこの曲を歌唱。
+  - [ジーユー](https://ja.wikipedia.org/wiki/ジーユー "wikilink") - [香椎由宇](https://ja.wikipedia.org/wiki/香椎由宇 "wikilink")、[波瑠](../Page/波瑠.md "wikilink")、[山本美月](https://ja.wikipedia.org/wiki/山本美月 "wikilink")、[高良健吾](../Page/高良健吾.md "wikilink")が2015年秋冬シーズンTVCMでこの曲を歌唱。
 
 ## 脚注
 

@@ -13,9 +13,9 @@
 
 ### 文字の入力
 
-漢字・平仮名・片仮名・ハングル（特に漢字）は[文字集合](../Page/文字集合.md "wikilink")が大きいので、すべての文字を[キーボードに直接割り当てると巨大なものとなり](https://ja.wikipedia.org/wiki/キーボード_\(コンピュータ\) "wikilink")、習得は難しくなってしまう。そのため現在では、英字キーボード、もしくはそれにいくつかのキーを追加したキーボードとソフトウェアによる[インプットメソッド](../Page/インプットメソッド.md "wikilink")を使用して入力することが一般的である。そのためには入力先となるソフトウェアが、使用しているインプットメソッドに対応している必要がある。
+漢字・平仮名・片仮名・ハングル（特に漢字）は[文字集合](../Page/文字集合.md "wikilink")が大きいので、すべての文字を[キーボードに直接割り当てると巨大なものとなり](../Page/キーボード_\(コンピュータ\).md "wikilink")、習得は難しくなってしまう。そのため現在では、英字キーボード、もしくはそれにいくつかのキーを追加したキーボードとソフトウェアによる[インプットメソッド](../Page/インプットメソッド.md "wikilink")を使用して入力することが一般的である。そのためには入力先となるソフトウェアが、使用しているインプットメソッドに対応している必要がある。
 
-漢字を用いる日本語と中国語では、読みを入力してソフトウェアで変換を行い、目的の表記を得る種類のインプットメソッドが一般的である（[ATOK](../Page/ATOK.md "wikilink")、[SKK](../Page/SKK.md "wikilink") など）。読みによるインプットメソッドは、さらに変換の区切りによって漢字 1 文字を単位とする[単漢字変換](https://ja.wikipedia.org/wiki/単漢字変換 "wikilink")、漢字[熟語](../Page/熟語.md "wikilink")と助詞で構成される[文節](https://ja.wikipedia.org/wiki/文節 "wikilink")の並びを単位とする[連文節変換](https://ja.wikipedia.org/wiki/連文節変換 "wikilink")などに分けられる。中国語では文字全体の形状の分類と一部の[筆画](https://ja.wikipedia.org/wiki/筆画 "wikilink")を与えて漢字を特定するなど、字の構造に基づくインプットメソッドも使われている\[1\]。 朝鮮語のインプットメソッドでは、ハングルを構成する要素である[チャモ](https://ja.wikipedia.org/wiki/チャモ "wikilink")（字母）単位で入力を行う方法が一般的である\[2\]。
+漢字を用いる日本語と中国語では、読みを入力してソフトウェアで変換を行い、目的の表記を得る種類のインプットメソッドが一般的である（[ATOK](../Page/ATOK.md "wikilink")、[SKK](../Page/SKK.md "wikilink") など）。読みによるインプットメソッドは、さらに変換の区切りによって漢字 1 文字を単位とする[単漢字変換](https://ja.wikipedia.org/wiki/単漢字変換 "wikilink")、漢字[熟語](../Page/熟語.md "wikilink")と助詞で構成される[文節](../Page/文節.md "wikilink")の並びを単位とする[連文節変換](https://ja.wikipedia.org/wiki/連文節変換 "wikilink")などに分けられる。中国語では文字全体の形状の分類と一部の[筆画](../Page/筆画.md "wikilink")を与えて漢字を特定するなど、字の構造に基づくインプットメソッドも使われている\[1\]。 朝鮮語のインプットメソッドでは、ハングルを構成する要素である[チャモ](https://ja.wikipedia.org/wiki/チャモ "wikilink")（字母）単位で入力を行う方法が一般的である\[2\]。
 
 ### 組版
 
@@ -25,7 +25,7 @@
 
 また、CJKV の組版では縦組み、横組みのどちらであっても、正方形で構成される[格子](../Page/格子.md "wikilink")上に文字を配置する機能が求められる。これは、漢字・平仮名・片仮名・ハングルなど CJKV 特有の文字の大半が、正方形に合う[字形](https://ja.wikipedia.org/wiki/字形 "wikilink")を持つためである。しかし、一部の記号や[ラテン文字](../Page/ラテン文字.md "wikilink")はそうでないため、それらが混在する文書では縦書き用文字への置き換えなど、複雑な処理が必要になる\[4\]。
 
-CJKV に適用できる組版規則を定めた[規格](https://ja.wikipedia.org/wiki/規格 "wikilink")としては、[JIS X 4051](https://ja.wikipedia.org/wiki/JIS_X_4051 "wikilink")-1995 （2004年に改正）が知られている\[5\]。
+CJKV に適用できる組版規則を定めた[規格](https://ja.wikipedia.org/wiki/規格 "wikilink")としては、[JIS X 4051](../Page/JIS_X_4051.md "wikilink")-1995 （2004年に改正）が知られている\[5\]。
 
 ## 文字コード規格
 
@@ -44,9 +44,9 @@ CJKV に適用できる組版規則を定めた[規格](https://ja.wikipedia.org
   - [インプットメソッド](../Page/インプットメソッド.md "wikilink")
   - [漢字](../Page/漢字.md "wikilink")
       - [朝鮮における漢字](https://ja.wikipedia.org/wiki/朝鮮における漢字 "wikilink")
-      - [日本における漢字](https://ja.wikipedia.org/wiki/日本における漢字 "wikilink")
+      - [日本における漢字](../Page/日本における漢字.md "wikilink")
       - [チュノム](../Page/チュノム.md "wikilink")、[チュニョ](https://ja.wikipedia.org/wiki/チュニョ "wikilink")
-  - [縦書きと横書き](https://ja.wikipedia.org/wiki/縦書きと横書き "wikilink")
+  - [縦書きと横書き](../Page/縦書きと横書き.md "wikilink")
   - [文字コード](../Page/文字コード.md "wikilink")
       - [CJK統合漢字](../Page/CJK統合漢字.md "wikilink")
       - [マルチバイト文字](../Page/マルチバイト文字.md "wikilink")

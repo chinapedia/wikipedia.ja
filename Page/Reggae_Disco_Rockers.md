@@ -8,12 +8,12 @@
 ### 現在のメンバー
 
   - 高宮紀徹 （たかみや きてつ）
-    [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身。リーダー。DJとして積極的にクラブでプレイしていた80年代末期〜90年代中期に、様々なミュージシャン（現在のメンバーを含む）と出会い、即興でセッションを行ったのがバンド発足の始まりである。[DJ](https://ja.wikipedia.org/wiki/#ディスクジョッキー（音楽家） "wikilink")、[プログラミングを担当](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")。またArt Director, Photographerとして67531graphicsを主宰。兄はレーベル[flower recordsや](https://ja.wikipedia.org/wiki/flower_records "wikilink")[Little Big Beeを率いる](https://ja.wikipedia.org/wiki/Little_Big_Bee "wikilink")[高宮永徹](https://ja.wikipedia.org/wiki/高宮永徹 "wikilink")。
+    [東京都](../Page/東京都.md "wikilink")出身。リーダー。DJとして積極的にクラブでプレイしていた80年代末期〜90年代中期に、様々なミュージシャン（現在のメンバーを含む）と出会い、即興でセッションを行ったのがバンド発足の始まりである。[DJ](https://ja.wikipedia.org/wiki/#ディスクジョッキー（音楽家） "wikilink")、[プログラミングを担当](../Page/ミュージックシーケンサー.md "wikilink")。またArt Director, Photographerとして67531graphicsを主宰。兄はレーベル[flower recordsや](https://ja.wikipedia.org/wiki/flower_records "wikilink")[Little Big Beeを率いる](https://ja.wikipedia.org/wiki/Little_Big_Bee "wikilink")[高宮永徹](https://ja.wikipedia.org/wiki/高宮永徹 "wikilink")。
   - 西内徹 （にしうち てつ）
-    [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")出身。[サックス](https://ja.wikipedia.org/wiki/サックス "wikilink")、[フルート](../Page/フルート.md "wikilink")を担当。TETSUNIQUES、[川上つよしと彼のムードメイカーズ](https://ja.wikipedia.org/wiki/川上つよしと彼のムードメイカーズ "wikilink")のメンバーでもある。
+    [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")出身。[サックス](https://ja.wikipedia.org/wiki/サックス "wikilink")、[フルート](../Page/フルート.md "wikilink")を担当。TETSUNIQUES、[川上つよしと彼のムードメイカーズ](../Page/川上つよしと彼のムードメイカーズ.md "wikilink")のメンバーでもある。
   - 小林洋太 （こばやし ようた）
     [ギター](../Page/ギター.md "wikilink")を担当。
-  - [有坂美香](https://ja.wikipedia.org/wiki/有坂美香 "wikilink") （ありさか みか、[1974年](../Page/1974年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink") - ）
+  - [有坂美香](../Page/有坂美香.md "wikilink") （ありさか みか、[1974年](../Page/1974年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink") - ）
     [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[鎌倉市](../Page/鎌倉市.md "wikilink")出身。メイン[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")を担当。
 
 ### 過去のメンバー
@@ -115,7 +115,7 @@
 </tr>
 <tr class="even">
 <td><p>5th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/3月30日.md" title="wikilink">3月30日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/3月30日.md" title="wikilink">3月30日</a></p></td>
 <td><p><strong>蜃気楼の街</strong></p></td>
 <td><p>FLRC-031</p></td>
 <td><ol>
@@ -397,7 +397,7 @@
   - [中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink") / 一番奇麗な私を (Reggae Disco Rockers remix)
   - [近藤夏子](https://ja.wikipedia.org/wiki/近藤夏子 "wikilink") / 母性本能ってやつ (Reggae Disco Rockers remix)
   - [sweetbox](https://ja.wikipedia.org/wiki/sweetbox "wikilink") / A WHOLE NEW WORLD (Reggae Disco Rockers remix)
-  - [ET-KING](https://ja.wikipedia.org/wiki/ET-KING "wikilink") / ふたりの詩 (Reggae Disco Rockers remix)
+  - [ET-KING](../Page/ET-KING.md "wikilink") / ふたりの詩 (Reggae Disco Rockers remix)
   - [高杉さと美](../Page/高杉さと美.md "wikilink") / ありがとう (Reggae Disco Rockers remix)
   - [和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink") / ルンバでブンブン (Reggae Disco Rockers skankin'remix)
   - [m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink") loves [YOSHIKA](../Page/YOSHIKA.md "wikilink") / let go -Reggae Disco Rockers remix
@@ -410,11 +410,11 @@
   - [ピチカートファイヴ](https://ja.wikipedia.org/wiki/ピチカートファイヴ "wikilink") / きみみたいにきれいな女の子
   - [和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink") / [あの鐘を鳴らすのはあなた](../Page/あの鐘を鳴らすのはあなた.md "wikilink") - Reggae Disco Rockers remix
   - [coolon](https://ja.wikipedia.org/wiki/coolon "wikilink") / Panorama Featuring Maguroman - Reggae Disco Rockers remix
-  - [Keyco](https://ja.wikipedia.org/wiki/Keyco "wikilink") / ハルニレ(R.D.R. Mix)
+  - [Keyco](../Page/Keyco.md "wikilink") / ハルニレ(R.D.R. Mix)
   - [eico](https://ja.wikipedia.org/wiki/eico "wikilink") / 夢先案内人 RDR REMIX
-  - [椎名純平](https://ja.wikipedia.org/wiki/椎名純平 "wikilink") with [篠原涼子](https://ja.wikipedia.org/wiki/篠原涼子 "wikilink") / Time Of Gold (Reggae Disco Rockers remix)
+  - [椎名純平](../Page/椎名純平.md "wikilink") with [篠原涼子](https://ja.wikipedia.org/wiki/篠原涼子 "wikilink") / Time Of Gold (Reggae Disco Rockers remix)
   - [meg](https://ja.wikipedia.org/wiki/MEG "wikilink") / イケナイコトカイ R.D.R mix
-  - [唐沢美帆](https://ja.wikipedia.org/wiki/唐沢美帆 "wikilink") To be RDR REMIX
+  - [唐沢美帆](../Page/唐沢美帆.md "wikilink") To be RDR REMIX
   - [Jazztronik](../Page/Jazztronik.md "wikilink") / PARA A TERA RDR MIX
   - [伊藤由奈](https://ja.wikipedia.org/wiki/伊藤由奈 "wikilink") / stuck on you -Reggae Disco Rockers Kiss & Tell Remix-
   - [meg](https://ja.wikipedia.org/wiki/MEG "wikilink") / 光露 (R.D.R. Mix)
@@ -424,7 +424,7 @@
 
   - [伊藤ふみお](https://ja.wikipedia.org/wiki/伊藤ふみお "wikilink")/ EASY LIFE
   - [和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")/ 時の波
-  - [ET-KING](https://ja.wikipedia.org/wiki/ET-KING "wikilink")/ LALALAlove song
+  - [ET-KING](../Page/ET-KING.md "wikilink")/ LALALAlove song
   - [Lecca](https://ja.wikipedia.org/wiki/Lecca "wikilink")/ 雨のち晴れ
 
 ### オムニバス参加作品

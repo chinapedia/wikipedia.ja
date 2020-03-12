@@ -1,9 +1,9 @@
 > この記事は[S \(\)](https://ja.wikipedia.org/wiki/S_\(\))から翻訳されています。
 
 
-**トーマス・S・ゲイツ**(**USS *Thomas S. Gates*, CG-51**)は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[ミサイル巡洋艦](https://ja.wikipedia.org/wiki/ミサイル巡洋艦 "wikilink")。[タイコンデロガ級ミサイル巡洋艦](../Page/タイコンデロガ級ミサイル巡洋艦.md "wikilink")の5番艦。艦名は[アイゼンハワー政権で](../Page/ドワイト・D・アイゼンハワー.md "wikilink")[国防長官を務めた](https://ja.wikipedia.org/wiki/アメリカ合衆国国防長官 "wikilink")[トーマス・S・ゲイツ](https://ja.wikipedia.org/wiki/トーマス・S・ゲイツ "wikilink")に因む。
+**トーマス・S・ゲイツ**(**USS *Thomas S. Gates*, CG-51**)は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[ミサイル巡洋艦](../Page/ミサイル巡洋艦.md "wikilink")。[タイコンデロガ級ミサイル巡洋艦](../Page/タイコンデロガ級ミサイル巡洋艦.md "wikilink")の5番艦。艦名は[アイゼンハワー政権で](../Page/ドワイト・D・アイゼンハワー.md "wikilink")[国防長官を務めた](../Page/アメリカ合衆国国防長官.md "wikilink")[トーマス・S・ゲイツ](https://ja.wikipedia.org/wiki/トーマス・S・ゲイツ "wikilink")に因む。
 
-[ハリケーン・カトリーナ](https://ja.wikipedia.org/wiki/ハリケーン・カトリーナ "wikilink")のため艦の最終配備は切り上げられた。乗組員は家族や知己の世話をする許可を与えられた。
+[ハリケーン・カトリーナ](../Page/ハリケーン・カトリーナ.md "wikilink")のため艦の最終配備は切り上げられた。乗組員は家族や知己の世話をする許可を与えられた。
 
 2006年3月に計画された退役を早め、2005年12月14日に艦は退役した。
 

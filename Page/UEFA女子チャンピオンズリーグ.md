@@ -1,7 +1,7 @@
 > この記事は[UEFA](https://ja.wikipedia.org/wiki/UEFA)から翻訳されています。
 
 
-**UEFA女子チャンピオンズリーグ**（）は、[欧州サッカー連盟](../Page/欧州サッカー連盟.md "wikilink")（UEFA）が主催する、[クラブチーム](../Page/クラブチーム.md "wikilink")による[女子サッカー](https://ja.wikipedia.org/wiki/女子サッカー "wikilink")の大陸選手権大会である。
+**UEFA女子チャンピオンズリーグ**（）は、[欧州サッカー連盟](../Page/欧州サッカー連盟.md "wikilink")（UEFA）が主催する、[クラブチーム](../Page/クラブチーム.md "wikilink")による[女子サッカー](../Page/女子サッカー.md "wikilink")の大陸選手権大会である。
 
 ## 概要
 
@@ -34,7 +34,7 @@
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/1.FFCフランクフルト" title="wikilink">フランクフルト</a></strong></p></td>
 <td><p><strong>2 - 0</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ウメオIKダームフットボル" title="wikilink">ウメオIK</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヴァルトシュタディオン" title="wikilink">ヴァルトシュタディオン</a>（<a href="../Page/フランクフルト・アム・マイン.md" title="wikilink">フランクフルト</a>）</p></td>
+<td><p><a href="../Page/ヴァルトシュタディオン.md" title="wikilink">ヴァルトシュタディオン</a>（<a href="../Page/フランクフルト・アム・マイン.md" title="wikilink">フランクフルト</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFA女子カップ2002-03" title="wikilink">2002-03</a></p></td>
@@ -60,7 +60,7 @@
 <td><p><strong>2 - 0</strong><br />
 <strong>3 - 1</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ユールゴーデンIFダム" title="wikilink">ユールゴルデン&amp;アルヴシェ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ストックホルム・スタディオン" title="wikilink">ストックホルム・スタディオン</a>（<a href="../Page/ストックホルム.md" title="wikilink">ストックホルム</a>）<br />
+<td><p><a href="../Page/ストックホルム・スタディオン.md" title="wikilink">ストックホルム・スタディオン</a>（<a href="../Page/ストックホルム.md" title="wikilink">ストックホルム</a>）<br />
  <a href="https://ja.wikipedia.org/wiki/カール・リープクネヒト・シュタディオン" title="wikilink">カール・リープクネヒト・シュタディオン</a>（<a href="../Page/ポツダム.md" title="wikilink">ポツダム</a>）</p></td>
 </tr>
 <tr class="even">
@@ -88,7 +88,7 @@
 <strong>3 - 2</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ウメオIKダームフットボル" title="wikilink">ウメオIK</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ガンムリアヴァレン" title="wikilink">ガンムリアヴァレン</a>（<a href="../Page/ウメオ.md" title="wikilink">ウメオ</a>）<br />
- <a href="https://ja.wikipedia.org/wiki/ヴァルトシュタディオン" title="wikilink">UEFA女子カップアレーナ・フランクフルト</a>（<a href="../Page/フランクフルト・アム・マイン.md" title="wikilink">フランクフルト</a>）</p></td>
+ <a href="../Page/ヴァルトシュタディオン.md" title="wikilink">UEFA女子カップアレーナ・フランクフルト</a>（<a href="../Page/フランクフルト・アム・マイン.md" title="wikilink">フランクフルト</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFA女子カップ2008-09" title="wikilink">2008-09</a></p></td>
@@ -96,7 +96,7 @@
 <td><p><strong>6 - 0</strong><br />
 <strong>1 - 1</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/WFCズヴェズダ2005ペルミ" title="wikilink">ズヴェズダ2005ペルミ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セントラル・スタジアム_(カザン)" title="wikilink">セントラル・スタジアム</a>（<a href="https://ja.wikipedia.org/wiki/カザン" title="wikilink">カザン</a>）<br />
+<td><p><a href="https://ja.wikipedia.org/wiki/セントラル・スタジアム_(カザン)" title="wikilink">セントラル・スタジアム</a>（<a href="../Page/カザン.md" title="wikilink">カザン</a>）<br />
  <a href="https://ja.wikipedia.org/wiki/シャウインシュラント・ライゼン・アレーナ" title="wikilink">MSVアレーナ</a>（<a href="../Page/デュースブルク.md" title="wikilink">デュースブルク</a>）</p></td>
 </tr>
 <tr class="even">
@@ -126,14 +126,14 @@
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/オリンピック・リヨン_(女子)" title="wikilink">オリンピック・リヨン</a></strong></p></td>
 <td><p><strong>2 - 0</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1.FFCフランクフルト" title="wikilink">フランクフルト</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミュンヘン・オリンピアシュタディオン" title="wikilink">ミュンヘン・オリンピアシュタディオン</a>（<a href="../Page/ミュンヘン.md" title="wikilink">ミュンヘン</a>）</p></td>
+<td><p><a href="../Page/ミュンヘン・オリンピアシュタディオン.md" title="wikilink">ミュンヘン・オリンピアシュタディオン</a>（<a href="../Page/ミュンヘン.md" title="wikilink">ミュンヘン</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFA女子チャンピオンズリーグ_2012-13" title="wikilink">2012-13</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/VfLヴォルフスブルク_(女子)" title="wikilink">ヴォルフスブルク</a></strong></p></td>
 <td><p><strong>1 - 0</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/オリンピック・リヨン_(女子)" title="wikilink">オリンピック・リヨン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スタンフォード・ブリッジ" title="wikilink">スタンフォード・ブリッジ</a>（<a href="../Page/ロンドン.md" title="wikilink">ロンドン</a>）</p></td>
+<td><p><a href="../Page/スタンフォード・ブリッジ.md" title="wikilink">スタンフォード・ブリッジ</a>（<a href="../Page/ロンドン.md" title="wikilink">ロンドン</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFA女子チャンピオンズリーグ_2013-14" title="wikilink">2013-14</a></p></td>
@@ -191,7 +191,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ガムラ・ウッレヴィ" title="wikilink">ガムラ・ウッレヴィ</a>（<a href="https://ja.wikipedia.org/wiki/ヨーテボリ" title="wikilink">ヨーテボリ</a>）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ガムラ・ウッレヴィ" title="wikilink">ガムラ・ウッレヴィ</a>（<a href="../Page/ヨーテボリ.md" title="wikilink">ヨーテボリ</a>）</p></td>
 </tr>
 </tbody>
 </table>
@@ -334,7 +334,7 @@
 <td><p>5</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボール・アソシエーション" title="wikilink">イングランド</a></p></td>
+<td><p><a href="../Page/フットボール・アソシエーション.md" title="wikilink">イングランド</a></p></td>
 <td><p>1</p></td>
 <td><p>0</p></td>
 </tr>
@@ -349,7 +349,7 @@
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/スペインサッカー連盟" title="wikilink">スペイン</a></p></td>
+<td><p><a href="../Page/スペインサッカー連盟.md" title="wikilink">スペイン</a></p></td>
 <td><p>0</p></td>
 <td><p>1</p></td>
 </tr>

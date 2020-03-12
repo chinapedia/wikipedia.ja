@@ -1,14 +1,14 @@
 > この記事は[Let it beat!](https://ja.wikipedia.org/wiki/Let_it_beat!)から翻訳されています。
 
 
-「**Let it beat\!**」（レット イット ビート）は、日本の音楽グループ[AAAの](https://ja.wikipedia.org/wiki/AAA_\(音楽グループ\) "wikilink")9枚目の[シングル](../Page/シングル.md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[8月30日](../Page/8月30日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+「**Let it beat\!**」（レット イット ビート）は、日本の音楽グループ[AAAの](../Page/AAA_\(音楽グループ\).md "wikilink")9枚目の[シングル](../Page/シングル.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[8月30日](../Page/8月30日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 
   - 前作「[ソウルエッジボーイ/キモノジェットガール](https://ja.wikipedia.org/wiki/ソウルエッジボーイ/キモノジェットガール "wikilink")」から約1ヵ月ぶりの発売となる。
-  - デビュー1周年記念4タイトル連続リリースのうちの一つである。ちなみに他の3つはシングル『["Q"](https://ja.wikipedia.org/wiki/"Q" "wikilink")』・ミニアルバム『[ALL/2](https://ja.wikipedia.org/wiki/ALL/2 "wikilink")』・ライブDVD『2nd ATTACK at Zepp Tokyo on 29th of June 2006』。
+  - デビュー1周年記念4タイトル連続リリースのうちの一つである。ちなみに他の3つはシングル『["Q"](../Page/"Q".md "wikilink")』・ミニアルバム『[ALL/2](https://ja.wikipedia.org/wiki/ALL/2 "wikilink")』・ライブDVD『2nd ATTACK at Zepp Tokyo on 29th of June 2006』。
   - オリコン初登場7位となり、当時の自己最高位を更新した。
-  - 限定版には[PVを収録している](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")[DVDが付いている](../Page/DVD-Video.md "wikilink")。
+  - 限定版には[PVを収録している](../Page/ミュージック・ビデオ.md "wikilink")[DVDが付いている](../Page/DVD-Video.md "wikilink")。
   - このシングル以降から全シングル・アルバム等の帯にAAA公式の[ロゴマーク](https://ja.wikipedia.org/wiki/ロゴマーク "wikilink")が起用されるようになった。
 
 ## 収録内容
@@ -20,7 +20,7 @@
 <!-- end list -->
 
 1.  **Let it beat\!**
-    （作詞：[田辺智沙](../Page/田辺智沙.md "wikilink")　作曲・編曲：[渡辺未来](https://ja.wikipedia.org/wiki/渡辺未来 "wikilink")）
+    （作詞：[田辺智沙](../Page/田辺智沙.md "wikilink")　作曲・編曲：[渡辺未来](../Page/渡辺未来.md "wikilink")）
       -
         映画「[アキハバラ@DEEP](../Page/アキハバラ@DEEP.md "wikilink")」主題歌
 2.  **[DRAGON FIRE](../Page/DRAGON_FIRE.md "wikilink") (Live Version)**

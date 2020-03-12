@@ -1,13 +1,13 @@
 > この記事は[120mm RT](https://ja.wikipedia.org/wiki/120mm_RT)から翻訳されています。
 
 
-[サムネイル](https://ja.wikipedia.org/wiki/ファイル:富士駐屯地で展示される120mm迫撃砲RT.jpg "wikilink") **120mm迫撃砲 RT**（）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[トムソン](https://ja.wikipedia.org/wiki/トムソン_\(企業\) "wikilink")-ブラーント社が開発した[迫撃砲](../Page/迫撃砲.md "wikilink")。[口径](../Page/口径.md "wikilink")120mmで、従来の[軽榴弾砲に匹敵する射程を備えることで知られている](https://ja.wikipedia.org/wiki/榴弾砲 "wikilink")。射程約10数Km。
+[サムネイル](https://ja.wikipedia.org/wiki/ファイル:富士駐屯地で展示される120mm迫撃砲RT.jpg "wikilink") **120mm迫撃砲 RT**（）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[トムソン](https://ja.wikipedia.org/wiki/トムソン_\(企業\) "wikilink")-ブラーント社が開発した[迫撃砲](../Page/迫撃砲.md "wikilink")。[口径](../Page/口径.md "wikilink")120mmで、従来の[軽榴弾砲に匹敵する射程を備えることで知られている](../Page/榴弾砲.md "wikilink")。射程約10数Km。
 
 ## 来歴と設計
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:JGSDF_120mm_mortar_RT-transport\(20080113\).JPG "wikilink") 開発は、[トムソン](https://ja.wikipedia.org/wiki/トムソン_\(企業\) "wikilink")-ブラーント社によって行なわれた。なお、同社は[タレス・グループ](https://ja.wikipedia.org/wiki/タレス・グループ "wikilink")と[EADS](https://ja.wikipedia.org/wiki/EADS "wikilink")の[合弁事業](../Page/合弁事業.md "wikilink")であったが、のちにTDA社と改名し、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")以降はタレス・グループの100パーセント子会社となっている。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:JGSDF_120mm_mortar_RT-transport\(20080113\).JPG "wikilink") 開発は、[トムソン](https://ja.wikipedia.org/wiki/トムソン_\(企業\) "wikilink")-ブラーント社によって行なわれた。なお、同社は[タレス・グループ](https://ja.wikipedia.org/wiki/タレス・グループ "wikilink")と[EADS](https://ja.wikipedia.org/wiki/EADS "wikilink")の[合弁事業](../Page/合弁事業.md "wikilink")であったが、のちにTDA社と改名し、[2005年](../Page/2005年.md "wikilink")以降はタレス・グループの100パーセント子会社となっている。
 
-107mm[迫撃砲](../Page/迫撃砲.md "wikilink")と同様に[ライフル砲](https://ja.wikipedia.org/wiki/ライフル砲 "wikilink")身であるが、107mm迫撃砲と異なり牽引用の[タイヤ](../Page/タイヤ.md "wikilink")を装備しており、移動・展開が容易である。このタイヤは、射撃の際に取り外す必要はない。牽引時は専用のフックを砲口に取り付けて使用するが、通常の砲より軽量であるため、必ずしも[砲兵トラクター](https://ja.wikipedia.org/wiki/砲兵トラクター "wikilink")を使用する必要はなく、[陸上自衛隊](../Page/陸上自衛隊.md "wikilink")では[高機動車](https://ja.wikipedia.org/wiki/高機動車 "wikilink")を改造した重迫牽引車、[アメリカ海兵隊](../Page/アメリカ海兵隊.md "wikilink")では[グロウラーITV](https://ja.wikipedia.org/wiki/グロウラーITV "wikilink")が使用されている。
+107mm[迫撃砲](../Page/迫撃砲.md "wikilink")と同様に[ライフル砲](https://ja.wikipedia.org/wiki/ライフル砲 "wikilink")身であるが、107mm迫撃砲と異なり牽引用の[タイヤ](../Page/タイヤ.md "wikilink")を装備しており、移動・展開が容易である。このタイヤは、射撃の際に取り外す必要はない。牽引時は専用のフックを砲口に取り付けて使用するが、通常の砲より軽量であるため、必ずしも[砲兵トラクター](https://ja.wikipedia.org/wiki/砲兵トラクター "wikilink")を使用する必要はなく、[陸上自衛隊](../Page/陸上自衛隊.md "wikilink")では[高機動車](../Page/高機動車.md "wikilink")を改造した重迫牽引車、[アメリカ海兵隊](../Page/アメリカ海兵隊.md "wikilink")では[グロウラーITV](https://ja.wikipedia.org/wiki/グロウラーITV "wikilink")が使用されている。
 
 砲身後部の撃針は可動式で、切換位置によって射撃方法を選択できる。撃針を突出させておけば墜発式（砲口から装填された砲弾がすぐに発射される）、逆に後退させておけば拉縄式（装填された砲弾は砲身後端にとどまり、砲手が任意のタイミングで撃発用のロープを引っ張り発射させる）となる。
 
@@ -35,7 +35,7 @@
 
 本砲は、[1980年代](../Page/1980年代.md "wikilink")後半より[フランス陸軍](../Page/フランス陸軍.md "wikilink")において採用されている。フランス陸軍においては、[VAB装甲車](../Page/VAB装甲車.md "wikilink")から派生したVTM-120（）牽引車によって牽引されており、1個射撃[班](https://ja.wikipedia.org/wiki/班 "wikilink")は、車両の乗員2名と砲員4名の合計6名より構成される。
 
-平時は[砲兵](../Page/砲兵.md "wikilink")連隊に8門ずつ配置されて、[榴弾砲](https://ja.wikipedia.org/wiki/榴弾砲 "wikilink")や[MLRS](https://ja.wikipedia.org/wiki/MLRS "wikilink")を補完しているが、戦時の際は本来の所属である[歩兵](../Page/歩兵.md "wikilink")[連隊](https://ja.wikipedia.org/wiki/連隊 "wikilink")に配備されて運用される。
+平時は[砲兵](../Page/砲兵.md "wikilink")連隊に8門ずつ配置されて、[榴弾砲](../Page/榴弾砲.md "wikilink")や[MLRS](../Page/MLRS.md "wikilink")を補完しているが、戦時の際は本来の所属である[歩兵](../Page/歩兵.md "wikilink")[連隊](../Page/連隊.md "wikilink")に配備されて運用される。
 
 ### アメリカ合衆国
 
@@ -43,21 +43,21 @@
 
 [アメリカ海兵隊](../Page/アメリカ海兵隊.md "wikilink")は、[HIMARS](https://ja.wikipedia.org/wiki/HIMARS "wikilink")や[M777 155mm榴弾砲を補完する小型](../Page/M777_155mm榴弾砲.md "wikilink")・軽量な間接照準[火力として本砲に着目し](https://ja.wikipedia.org/wiki/火力_\(軍事\) "wikilink")、**M327 EFSS**（Expeditionary Fire Support System）として採用して、[2009年](../Page/2009年.md "wikilink")3月より運用を開始した。
 
-また、[LAV-Mの後継となる](https://ja.wikipedia.org/wiki/LAV-25#バリエーション "wikilink")[自走迫撃砲として](../Page/自走砲.md "wikilink")**LAV-EFSS**も開発されている。これは、LAVシリーズの車体をベースに、[自動装填装置](https://ja.wikipedia.org/wiki/自動装填装置 "wikilink")を搭載して発射速度を向上させた[XM326 ドラゴンファイア-II](https://ja.wikipedia.org/wiki/ドラゴンファイア_\(迫撃砲\) "wikilink")[迫撃砲](../Page/迫撃砲.md "wikilink")を搭載したものである。
+また、[LAV-Mの後継となる](https://ja.wikipedia.org/wiki/LAV-25#バリエーション "wikilink")[自走迫撃砲として](../Page/自走砲.md "wikilink")**LAV-EFSS**も開発されている。これは、LAVシリーズの車体をベースに、[自動装填装置](../Page/自動装填装置.md "wikilink")を搭載して発射速度を向上させた[XM326 ドラゴンファイア-II](https://ja.wikipedia.org/wiki/ドラゴンファイア_\(迫撃砲\) "wikilink")[迫撃砲](../Page/迫撃砲.md "wikilink")を搭載したものである。
 
-画像:USMC ITV ESS.jpg|[グロウラーITV](https://ja.wikipedia.org/wiki/グロウラーITV "wikilink")で牽引されるM327 EFSS 画像:USMC-110615-M-OO345-210.jpg|[AAV7](https://ja.wikipedia.org/wiki/AAV7 "wikilink")の車内スペースに積載されたM327 EFSS
+画像:USMC ITV ESS.jpg|[グロウラーITV](https://ja.wikipedia.org/wiki/グロウラーITV "wikilink")で牽引されるM327 EFSS 画像:USMC-110615-M-OO345-210.jpg|[AAV7](../Page/AAV7.md "wikilink")の車内スペースに積載されたM327 EFSS
 
 ### 日本
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:120mm迫撃砲RT_\(8464035959\).jpg "wikilink")
 
-[M2 107mm迫撃砲の後継として](https://ja.wikipedia.org/wiki/M2_107mm迫撃砲 "wikilink")[1992年](../Page/1992年.md "wikilink")（平成4年）度から採用しており、[豊和工業](../Page/豊和工業.md "wikilink")が[ライセンス生産](https://ja.wikipedia.org/wiki/ライセンス生産 "wikilink")している。[陸上自衛隊](../Page/陸上自衛隊.md "wikilink")では、牽引車両として[高機動車](https://ja.wikipedia.org/wiki/高機動車 "wikilink")を改造した重迫牽引車を使用するほか、自走型として、[96式自走120mm迫撃砲](../Page/96式自走120mm迫撃砲.md "wikilink")も開発・配備されている。現在も調達を続けており、24年度は3門調達予定である。調達価格は約3,400万円である。
+[M2 107mm迫撃砲の後継として](../Page/M2_107mm迫撃砲.md "wikilink")[1992年](../Page/1992年.md "wikilink")（平成4年）度から採用しており、[豊和工業](../Page/豊和工業.md "wikilink")が[ライセンス生産](../Page/ライセンス生産.md "wikilink")している。[陸上自衛隊](../Page/陸上自衛隊.md "wikilink")では、牽引車両として[高機動車](../Page/高機動車.md "wikilink")を改造した重迫牽引車を使用するほか、自走型として、[96式自走120mm迫撃砲](../Page/96式自走120mm迫撃砲.md "wikilink")も開発・配備されている。現在も調達を続けており、24年度は3門調達予定である。調達価格は約3,400万円である。
 
-[普通科の中では最大の火砲で](https://ja.wikipedia.org/wiki/普通科_\(陸上自衛隊\) "wikilink")、[普通科連隊](https://ja.wikipedia.org/wiki/普通科連隊 "wikilink")の[重迫撃砲](../Page/迫撃砲.md "wikilink")[中隊](../Page/中隊.md "wikilink")に配備されているほか、その機動性から[第1空挺団の](https://ja.wikipedia.org/wiki/第1空挺団_\(陸上自衛隊\) "wikilink")[空挺特科大隊](../Page/空挺特科大隊.md "wikilink")が装備している。空輸の際は、重迫牽引車ごと[CH-47Jにより吊り下げられて空輸される](https://ja.wikipedia.org/wiki/CH-47_\(航空機\)#日本 "wikilink")。また、[水陸機動団](https://ja.wikipedia.org/wiki/水陸機動団 "wikilink")の水陸機動連隊の各中隊・および水陸機動団特科大隊にも装備がされている\[1\]\[2\]。
+[普通科の中では最大の火砲で](../Page/普通科_\(陸上自衛隊\).md "wikilink")、[普通科連隊](https://ja.wikipedia.org/wiki/普通科連隊 "wikilink")の[重迫撃砲](../Page/迫撃砲.md "wikilink")[中隊](../Page/中隊.md "wikilink")に配備されているほか、その機動性から[第1空挺団の](../Page/第1空挺団_\(陸上自衛隊\).md "wikilink")[空挺特科大隊](../Page/空挺特科大隊.md "wikilink")が装備している。空輸の際は、重迫牽引車ごと[CH-47Jにより吊り下げられて空輸される](https://ja.wikipedia.org/wiki/CH-47_\(航空機\)#日本 "wikilink")。また、[水陸機動団](https://ja.wikipedia.org/wiki/水陸機動団 "wikilink")の水陸機動連隊の各中隊・および水陸機動団特科大隊にも装備がされている\[1\]\[2\]。
 
 一般公募で付けられた愛称は「**ヘヴィハンマー**」だが、他の装備と同様に愛称は部隊内では使われず、隊員達からは「**120モーター**」「**120迫（ひゃくにじゅっぱく）**」などと呼ばれている。
 
-画像:JGSDF 120mm mortar RT.JPG|第1空挺団の120mm迫撃砲RT。重迫牽引車で牽引されている。 画像:JGSDF CH-47J 20130113-01.JPG|CH-47Jで吊り下げ輸送される120mm迫撃砲 RT 画像:１２０ｍｍ迫撃砲ＲＴ25.10.22 １８ｉ・第１８普通科連隊重迫撃砲小隊実弾射撃(煌輪)（こうりん） R 装備 153.jpg|[第18普通科連隊](https://ja.wikipedia.org/wiki/第18普通科連隊 "wikilink")の120mm迫撃砲 RT。発砲炎で煌輪が出来ている。
+画像:JGSDF 120mm mortar RT.JPG|第1空挺団の120mm迫撃砲RT。重迫牽引車で牽引されている。 画像:JGSDF CH-47J 20130113-01.JPG|CH-47Jで吊り下げ輸送される120mm迫撃砲 RT 画像:１２０ｍｍ迫撃砲ＲＴ25.10.22 １８ｉ・第１８普通科連隊重迫撃砲小隊実弾射撃(煌輪)（こうりん） R 装備 153.jpg|[第18普通科連隊](../Page/第18普通科連隊.md "wikilink")の120mm迫撃砲 RT。発砲炎で煌輪が出来ている。
 
 | 予算計上年度        | 調達数 | 予算計上年度        | 調達数 | 予算計上年度        | 調達数      |
 | ------------- | --- | ------------- | --- | ------------- | -------- |
@@ -95,7 +95,7 @@
 
   - [陸上自衛隊の装備品一覧](../Page/陸上自衛隊の装備品一覧.md "wikilink")
   - [L16 81mm 迫撃砲](../Page/L16_81mm_迫撃砲.md "wikilink")
-  - [M30 107mm迫撃砲](https://ja.wikipedia.org/wiki/M30_107mm迫撃砲 "wikilink") - [アメリカ陸軍](https://ja.wikipedia.org/wiki/アメリカ陸軍 "wikilink")における[M2 107mm迫撃砲の後継砲](https://ja.wikipedia.org/wiki/M2_107mm迫撃砲 "wikilink")。
+  - [M30 107mm迫撃砲](https://ja.wikipedia.org/wiki/M30_107mm迫撃砲 "wikilink") - [アメリカ陸軍](../Page/アメリカ陸軍.md "wikilink")における[M2 107mm迫撃砲の後継砲](../Page/M2_107mm迫撃砲.md "wikilink")。
   - [M120 120mm 迫撃砲](https://ja.wikipedia.org/wiki/M120_120mm_迫撃砲 "wikilink") - アメリカ陸軍が現用する120mm[迫撃砲](../Page/迫撃砲.md "wikilink")。同[口径](../Page/口径.md "wikilink")で同規格の[砲弾](../Page/砲弾.md "wikilink")を使用できるが、[滑腔砲](../Page/滑腔砲.md "wikilink")である。
 
 ## 外部リンク

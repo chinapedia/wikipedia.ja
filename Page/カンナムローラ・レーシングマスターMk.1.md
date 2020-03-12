@@ -7,7 +7,7 @@
 
 [米国および](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")を舞台に繰り広げられていた[カナディアン-アメリカン・チャレンジカップ](../Page/カナディアン-アメリカン・チャレンジカップ.md "wikilink")レースで[1979年](../Page/1979年.md "wikilink")に[ジャッキー・イクス](../Page/ジャッキー・イクス.md "wikilink")のドライブにより[チャンピオン](../Page/チャンピオン.md "wikilink")カーとなった[ローラT](../Page/ローラ・カーズ.md "wikilink")333CSをベースモデルとしている。
 
-車体には、2mm厚[FRPシャーシに](https://ja.wikipedia.org/wiki/繊維強化プラスチック "wikilink")[アルミ合金](https://ja.wikipedia.org/wiki/アルミ合金 "wikilink")製のモーターマウントが奢られ、[LSD機能付き金属製](https://ja.wikipedia.org/wiki/差動装置#リミテッド・スリップ・デフ "wikilink")[ディファレンシャル・ギア](https://ja.wikipedia.org/wiki/ディファレンシャル・ギア "wikilink")や前進専用[マイクロスイッチ](https://ja.wikipedia.org/wiki/マイクロスイッチ "wikilink")付きスピードコントローラー、RS-540SDブラックモーター（スプリント）、10個ものボール[ベアリング](https://ja.wikipedia.org/wiki/ベアリング "wikilink")などを標準装備しており、当時における田宮模型[ラジコン](https://ja.wikipedia.org/wiki/ラジコン "wikilink")技術の粋を結集したモデルであった。
+車体には、2mm厚[FRPシャーシに](../Page/繊維強化プラスチック.md "wikilink")[アルミ合金](https://ja.wikipedia.org/wiki/アルミ合金 "wikilink")製のモーターマウントが奢られ、[LSD機能付き金属製](https://ja.wikipedia.org/wiki/差動装置#リミテッド・スリップ・デフ "wikilink")[ディファレンシャル・ギア](https://ja.wikipedia.org/wiki/ディファレンシャル・ギア "wikilink")や前進専用[マイクロスイッチ](https://ja.wikipedia.org/wiki/マイクロスイッチ "wikilink")付きスピードコントローラー、RS-540SDブラックモーター（スプリント）、10個ものボール[ベアリング](https://ja.wikipedia.org/wiki/ベアリング "wikilink")などを標準装備しており、当時における田宮模型[ラジコン](https://ja.wikipedia.org/wiki/ラジコン "wikilink")技術の粋を結集したモデルであった。
 
 ## 車体構成
 
@@ -23,7 +23,7 @@
 
 <!-- end list -->
 
-  - リアメンバーには、[アルミ合金](https://ja.wikipedia.org/wiki/アルミ合金 "wikilink")製のモーターマウントに[マブチモーター](https://ja.wikipedia.org/wiki/マブチモーター "wikilink")製「RS-540SD」通称「ブラックモーター」が標準装備されていた。この[マブチモーター](https://ja.wikipedia.org/wiki/マブチモーター "wikilink")製「RS-540SD」通称「ブラックモーター」は、[マブチモーター](https://ja.wikipedia.org/wiki/マブチモーター "wikilink")と[タミヤ](../Page/タミヤ.md "wikilink")がスプリントレース専用に共同開発したもので、このカンナムローラには標準で装備されていた。なお、カンナムローラ以外のユーザーからも要望が高かったため、スペアパーツNo.136「RS-540SDブラックモーターセット」としても別売されていた。当時定価は￥3,800であった。
+  - リアメンバーには、[アルミ合金](https://ja.wikipedia.org/wiki/アルミ合金 "wikilink")製のモーターマウントに[マブチモーター](../Page/マブチモーター.md "wikilink")製「RS-540SD」通称「ブラックモーター」が標準装備されていた。この[マブチモーター](../Page/マブチモーター.md "wikilink")製「RS-540SD」通称「ブラックモーター」は、[マブチモーター](../Page/マブチモーター.md "wikilink")と[タミヤ](../Page/タミヤ.md "wikilink")がスプリントレース専用に共同開発したもので、このカンナムローラには標準で装備されていた。なお、カンナムローラ以外のユーザーからも要望が高かったため、スペアパーツNo.136「RS-540SDブラックモーターセット」としても別売されていた。当時定価は￥3,800であった。
 
 <!-- end list -->
 
@@ -54,16 +54,16 @@
   - ホイールベース：210mm
   - フロントトレッド：140mm
   - リアトレッド：133mm
-  - シャーシ：2mm厚[FRP製ワンピースタイプ](https://ja.wikipedia.org/wiki/繊維強化プラスチック "wikilink")
+  - シャーシ：2mm厚[FRP製ワンピースタイプ](../Page/繊維強化プラスチック.md "wikilink")
   - フロントメンバー：強化ナイロン樹脂製フロントアクスル＋ダイキャスト製フロントアーム
   - リアアクスル：[アルミ合金](https://ja.wikipedia.org/wiki/アルミ合金 "wikilink")製モーターマウント兼ウイングホルダー
   - フロントタイヤ／ホイール：スポンジタイヤ、強化ナイロン樹脂製ホイール
   - リアタイヤ／ホイール：スポンジタイヤ、強化ナイロン樹脂製ホイール
   - 駆動方式：2WD、後輪駆動
-  - モーター：[マブチモーター](https://ja.wikipedia.org/wiki/マブチモーター "wikilink")製RS-540SDブラックモーター（スプリント）を標準装備
+  - モーター：[マブチモーター](../Page/マブチモーター.md "wikilink")製RS-540SDブラックモーター（スプリント）を標準装備
   - ディファレンシャルギア：[アルミ合金](https://ja.wikipedia.org/wiki/アルミ合金 "wikilink")製ケース密閉型[LSD機能付き](https://ja.wikipedia.org/wiki/差動装置#リミテッド・スリップ・デフ "wikilink")2ベベル金属製[ディファレンシャルギア](https://ja.wikipedia.org/wiki/ディファレンシャルギア "wikilink")
   - 搭載バッテリー（別売り）：田宮の6V、7.2V（ラクダ）を縦置きで搭載
-  - ボディ：[ポリカーボネート](../Page/ポリカーボネート.md "wikilink")製カンナムローラボディ、[ポリカーボネート](../Page/ポリカーボネート.md "wikilink")製リア[ウイング装備](https://ja.wikipedia.org/wiki/エアロパーツ "wikilink")
+  - ボディ：[ポリカーボネート](../Page/ポリカーボネート.md "wikilink")製カンナムローラボディ、[ポリカーボネート](../Page/ポリカーボネート.md "wikilink")製リア[ウイング装備](../Page/エアロパーツ.md "wikilink")
   - 販売価格：￥26,000（当時）
 
 [Category:タミヤ](https://ja.wikipedia.org/wiki/Category:タミヤ "wikilink")

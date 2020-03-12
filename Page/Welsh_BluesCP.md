@@ -6,7 +6,7 @@
 ## メンバー
 
   - [村田雅和](https://ja.wikipedia.org/wiki/村田雅和 "wikilink")（むらた まさかず）[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")。
-  - [豊嶋秀夫](https://ja.wikipedia.org/wiki/豊嶋秀夫 "wikilink")（とよし まひでお）[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。
+  - [豊嶋秀夫](https://ja.wikipedia.org/wiki/豊嶋秀夫 "wikilink")（とよし まひでお）[ベース](../Page/ベース_\(弦楽器\).md "wikilink")。
   - [Dr.涼](../Page/Dr.涼.md "wikilink")（ドラマーりょう）[ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")。（[藤崎涼](https://ja.wikipedia.org/wiki/藤崎涼 "wikilink")）
 
 ## 来歴
@@ -19,7 +19,7 @@
 
 <!-- end list -->
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
 
 <!-- end list -->
 
@@ -32,7 +32,7 @@
 
 <!-- end list -->
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")
+  - [2006年](../Page/2006年.md "wikilink")
 
 <!-- end list -->
 

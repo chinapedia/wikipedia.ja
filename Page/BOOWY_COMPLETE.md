@@ -3,15 +3,15 @@
 
 『**BOØWY COMPLETE**』（ボウイ・コンプリート）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")のアルバム集ボックス・セット。
 
-[1991年](../Page/1991年.md "wikilink")[12月24日](../Page/12月24日.md "wikilink")に『**BOØWY COMPLETE LIMITED EDITION**』として[東芝EMIのイーストワールドレーベルより限定](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")10万セットでリリースされた。
+[1991年](../Page/1991年.md "wikilink")[12月24日](../Page/12月24日.md "wikilink")に『**BOØWY COMPLETE LIMITED EDITION**』として[東芝EMIのイーストワールドレーベルより限定](../Page/EMIミュージック・ジャパン.md "wikilink")10万セットでリリースされた。
 
 ## 解説
 
   - 解散までにリリースされた全てのアルバムとシングル曲・カップリング曲、そして未発表曲であった「たった一度のLOVE SONG」が収録されている完全版BOXセットである。全10枚組。
-  - 1991年12月24日に10万セット限定で発売された初版は、黒い外箱に金色で文字が刻まれる装丁になっている。その後、再発売を望む多数の声に応え1993年3月3日に15万セット限定で再リリースされた『**BOØWY COMPLETE REQUIRED EDITION**』の装丁は白いボックスに黒で文字が刻まれている。この、通称「黒箱」と「白箱」には、外箱の違い以外に、添付されたブックレットの内容にも若干の違いがあった。なお、黒箱と白箱の『[“SINGLES”](https://ja.wikipedia.org/wiki/“SINGLES” "wikilink")』に収録されている「Marionette」がシングルバージョンではなくアルバムバージョンで収録されているため、厳密には完全版と言えない。
-  - さらにその後、2002年3月29日には『[MORAL](https://ja.wikipedia.org/wiki/MORAL "wikilink")』を除く9枚が東芝EMIによるHDCD 20bit デジタル・リマスタリング音源で、『[MORAL](https://ja.wikipedia.org/wiki/MORAL "wikilink")』は、VICTORのデジタル・リマスター音源で収録した『**BOØWY COMPLETE 21st CENTURY 20th ANNIVERSARY EDITION**』がリリースされた。音質が改善されただけでなく、『“SINGLES”』に収録されている「Marionette」がシングルバージョンで収録されたため、まさしく完全版と言える内容になった。
-  - 正規音源のコンプリートはこのボックスで可能になったが、アルバムカバーやインナースリーヴはブックレットに載っていない（フロントカバーのみ小さく単色刷り）。[LPではカスタムレーベル仕様だった](../Page/レコード.md "wikilink")『[“GIGS” JUST A HERO TOUR 1986](https://ja.wikipedia.org/wiki/“GIGS”_JUST_A_HERO_TOUR_1986 "wikilink")』から『[“LAST GIGS”](https://ja.wikipedia.org/wiki/“LAST_GIGS” "wikilink")』までの4枚についてはオリジナルCDでも東芝EMI共通のものが使われて、カラー刷り歌詞カードもモノクロになっている等、オリジナルアルバムのアートワークは再現されていなかった。このセットでもレーベルはオリジナルLPを再現していない。
-  - ボックス内のライブ盤である『[“GIGS” JUST A HERO TOUR 1986](https://ja.wikipedia.org/wiki/“GIGS”_JUST_A_HERO_TOUR_1986 "wikilink")』、『[“LAST GIGS”](https://ja.wikipedia.org/wiki/“LAST_GIGS” "wikilink")』の2枚は、後にリニューアルした『“GIGS” JUST A HERO TOUR 1986 NAKED』、『[“LAST GIGS” COMPLETE](https://ja.wikipedia.org/wiki/“LAST_GIGS”_COMPLETE "wikilink")』として発売されている。なお、Disc8の『[“LAST GIGS”](https://ja.wikipedia.org/wiki/“LAST_GIGS” "wikilink")』、Disc10の『“SPECIALS”』以外の各アルバムも[2012年](../Page/2012年.md "wikilink")[12月24日](../Page/12月24日.md "wikilink")に「BOØWY 30th ANNIVERSARY」の一環として、『[MORAL](https://ja.wikipedia.org/wiki/MORAL "wikilink")』が[SHM-CD](https://ja.wikipedia.org/wiki/SHM-CD "wikilink")で、それ以外は[ブルースペックCD](https://ja.wikipedia.org/wiki/ブルースペックCD "wikilink")の高音質規格CDで再発売されている（『“LAST GIGS”』は『“LAST GIGS” COMPLETE』がブルースペックCD化されている）。
+  - 1991年12月24日に10万セット限定で発売された初版は、黒い外箱に金色で文字が刻まれる装丁になっている。その後、再発売を望む多数の声に応え1993年3月3日に15万セット限定で再リリースされた『**BOØWY COMPLETE REQUIRED EDITION**』の装丁は白いボックスに黒で文字が刻まれている。この、通称「黒箱」と「白箱」には、外箱の違い以外に、添付されたブックレットの内容にも若干の違いがあった。なお、黒箱と白箱の『[“SINGLES”](../Page/“SINGLES”.md "wikilink")』に収録されている「Marionette」がシングルバージョンではなくアルバムバージョンで収録されているため、厳密には完全版と言えない。
+  - さらにその後、2002年3月29日には『[MORAL](../Page/MORAL.md "wikilink")』を除く9枚が東芝EMIによるHDCD 20bit デジタル・リマスタリング音源で、『[MORAL](../Page/MORAL.md "wikilink")』は、VICTORのデジタル・リマスター音源で収録した『**BOØWY COMPLETE 21st CENTURY 20th ANNIVERSARY EDITION**』がリリースされた。音質が改善されただけでなく、『“SINGLES”』に収録されている「Marionette」がシングルバージョンで収録されたため、まさしく完全版と言える内容になった。
+  - 正規音源のコンプリートはこのボックスで可能になったが、アルバムカバーやインナースリーヴはブックレットに載っていない（フロントカバーのみ小さく単色刷り）。[LPではカスタムレーベル仕様だった](../Page/レコード.md "wikilink")『[“GIGS” JUST A HERO TOUR 1986](../Page/“GIGS”_JUST_A_HERO_TOUR_1986.md "wikilink")』から『[“LAST GIGS”](../Page/“LAST_GIGS”.md "wikilink")』までの4枚についてはオリジナルCDでも東芝EMI共通のものが使われて、カラー刷り歌詞カードもモノクロになっている等、オリジナルアルバムのアートワークは再現されていなかった。このセットでもレーベルはオリジナルLPを再現していない。
+  - ボックス内のライブ盤である『[“GIGS” JUST A HERO TOUR 1986](../Page/“GIGS”_JUST_A_HERO_TOUR_1986.md "wikilink")』、『[“LAST GIGS”](../Page/“LAST_GIGS”.md "wikilink")』の2枚は、後にリニューアルした『“GIGS” JUST A HERO TOUR 1986 NAKED』、『[“LAST GIGS” COMPLETE](https://ja.wikipedia.org/wiki/“LAST_GIGS”_COMPLETE "wikilink")』として発売されている。なお、Disc8の『[“LAST GIGS”](../Page/“LAST_GIGS”.md "wikilink")』、Disc10の『“SPECIALS”』以外の各アルバムも[2012年](../Page/2012年.md "wikilink")[12月24日](../Page/12月24日.md "wikilink")に「BOØWY 30th ANNIVERSARY」の一環として、『[MORAL](../Page/MORAL.md "wikilink")』が[SHM-CD](https://ja.wikipedia.org/wiki/SHM-CD "wikilink")で、それ以外は[ブルースペックCD](https://ja.wikipedia.org/wiki/ブルースペックCD "wikilink")の高音質規格CDで再発売されている（『“LAST GIGS”』は『“LAST GIGS” COMPLETE』がブルースペックCD化されている）。
 
 ## リリース履歴
 
@@ -22,7 +22,7 @@
 <th><p>日付</p></th>
 <th><p><a href="../Page/レコードレーベル.md" title="wikilink">レーベル</a></p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>最高順位</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -31,7 +31,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p><a href="../Page/1991年.md" title="wikilink">1991年</a><a href="../Page/12月24日.md" title="wikilink">12月24日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン" title="wikilink">東芝EMI</a>／イーストワールド</p></td>
+<td><p><a href="../Page/EMIミュージック・ジャパン.md" title="wikilink">東芝EMI</a>／イーストワールド</p></td>
 <td><p><a href="../Page/コンパクトディスク.md" title="wikilink">CDボックス</a>・セット</p></td>
 <td><p>TOCT-6390〜9</p></td>
 <td><p>2位</p></td>
@@ -66,11 +66,11 @@
 
 ### DISC I：MORAL
 
-1982年3月21日リリース。詳細は**[MORAL](https://ja.wikipedia.org/wiki/MORAL "wikilink")**の項を参照。
+1982年3月21日リリース。詳細は**[MORAL](../Page/MORAL.md "wikilink")**の項を参照。
 
 ### DISC II：INSTANT LOVE
 
-1983年9月25日リリース。詳細は**[INSTANT LOVE](https://ja.wikipedia.org/wiki/INSTANT_LOVE "wikilink")**の項を参照。
+1983年9月25日リリース。詳細は**[INSTANT LOVE](../Page/INSTANT_LOVE.md "wikilink")**の項を参照。
 
 ### DISC III：BOØWY
 
@@ -78,27 +78,27 @@
 
 ### DISC IV：JUST A HERO
 
-1986年3月1日リリース。詳細は**[JUST A HERO](https://ja.wikipedia.org/wiki/JUST_A_HERO_\(BOOWYのアルバム\) "wikilink")**の項を参照。
+1986年3月1日リリース。詳細は**[JUST A HERO](../Page/JUST_A_HERO_\(BOOWYのアルバム\).md "wikilink")**の項を参照。
 
 ### DISC V：“GIGS” JUST A HERO TOUR 1986
 
-1986年7月31日リリース。詳細は**[“GIGS” JUST A HERO TOUR 1986](https://ja.wikipedia.org/wiki/“GIGS”_JUST_A_HERO_TOUR_1986 "wikilink")**の項を参照。
+1986年7月31日リリース。詳細は**[“GIGS” JUST A HERO TOUR 1986](../Page/“GIGS”_JUST_A_HERO_TOUR_1986.md "wikilink")**の項を参照。
 
 ### DISC VI：BEAT EMOTION
 
-1986年11月8日リリース。詳細は**[BEAT EMOTION](https://ja.wikipedia.org/wiki/BEAT_EMOTION "wikilink")**の項を参照。
+1986年11月8日リリース。詳細は**[BEAT EMOTION](../Page/BEAT_EMOTION.md "wikilink")**の項を参照。
 
 ### DISC VII：PSYCHOPATH
 
-1987年9月5日リリース。詳細は**[PSYCHOPATH](https://ja.wikipedia.org/wiki/PSYCHOPATH "wikilink")**の項を参照。
+1987年9月5日リリース。詳細は**[PSYCHOPATH](../Page/PSYCHOPATH.md "wikilink")**の項を参照。
 
 ### DISC VIII：“LAST GIGS”
 
-1988年5月3日リリース。詳細は**[“LAST GIGS”](https://ja.wikipedia.org/wiki/“LAST_GIGS” "wikilink")**の項を参照。
+1988年5月3日リリース。詳細は**[“LAST GIGS”](../Page/“LAST_GIGS”.md "wikilink")**の項を参照。
 
 ### DISC IX：“SINGLES”
 
-1988年12月24日リリース。詳細は**[“SINGLES”](https://ja.wikipedia.org/wiki/“SINGLES” "wikilink")**の項を参照。
+1988年12月24日リリース。詳細は**[“SINGLES”](../Page/“SINGLES”.md "wikilink")**の項を参照。
 
 ### DISC X：“SPECIALS”
 
@@ -118,37 +118,37 @@
       - 作詞：氷室狂介 / 作曲・編曲：布袋寅泰
     <!-- end list -->
       -
-        8thシングル「DAKARA」のB面曲。アルバム『[MORAL+3](../Page/MORAL+3.md "wikilink")』にも収録されている。「OUT\!\!」、「DAKARA」と同様、解散後まで未発表だった曲。松井常松の[スラップが聞ける数少ない曲](https://ja.wikipedia.org/wiki/スラップ奏法 "wikilink")。1987年の「“GIGS” CASE OF BOØWY」で演奏されていて、その時の模様は『[“GIGS” CASE OF BOØWY COMPLETE](https://ja.wikipedia.org/wiki/“GIGS”_CASE_OF_BOOWY_COMPLETE "wikilink")』に収録されている。
-4.  **[OUR LANGUAGE](https://ja.wikipedia.org/wiki/BAD_FEELING "wikilink")** (4:17)
+        8thシングル「DAKARA」のB面曲。アルバム『[MORAL+3](../Page/MORAL+3.md "wikilink")』にも収録されている。「OUT\!\!」、「DAKARA」と同様、解散後まで未発表だった曲。松井常松の[スラップが聞ける数少ない曲](../Page/スラップ奏法.md "wikilink")。1987年の「“GIGS” CASE OF BOØWY」で演奏されていて、その時の模様は『[“GIGS” CASE OF BOØWY COMPLETE](https://ja.wikipedia.org/wiki/“GIGS”_CASE_OF_BOOWY_COMPLETE "wikilink")』に収録されている。
+4.  **[OUR LANGUAGE](../Page/BAD_FEELING.md "wikilink")** (4:17)
       - 作詞・作曲：氷室京介、布袋寅泰 / 編曲：布袋寅泰
     <!-- end list -->
       -
         2ndシングル「BAD FEELING」のB面曲。氷室と布袋の共作で、一晩で仕上げられたといわれる。12インチシングルとは違い、シングルCD同様のフルバージョン。
-5.  **[BEGINNING FROM ENDLESS](https://ja.wikipedia.org/wiki/わがままジュリエット "wikilink")** (3:15)
+5.  **[BEGINNING FROM ENDLESS](../Page/わがままジュリエット.md "wikilink")** (3:15)
       - 作曲・編曲：布袋寅泰
     <!-- end list -->
       -
-        3rdシングル「わがままジュリエット」のB面曲。1stアルバム『[MORAL](https://ja.wikipedia.org/wiki/MORAL "wikilink")』に収録の「ENDLESS」のメロディーを基に、新たに「BEGINNING」を加えて出来たインストゥルメンタル曲。1984年〜85年頃のライブでのオープニングSEとして使用されていた。
-6.  **[GIVE IT TO ME](https://ja.wikipedia.org/wiki/MORAL "wikilink") (Live Version)** (4:08)
+        3rdシングル「わがままジュリエット」のB面曲。1stアルバム『[MORAL](../Page/MORAL.md "wikilink")』に収録の「ENDLESS」のメロディーを基に、新たに「BEGINNING」を加えて出来たインストゥルメンタル曲。1984年〜85年頃のライブでのオープニングSEとして使用されていた。
+6.  **[GIVE IT TO ME](../Page/MORAL.md "wikilink") (Live Version)** (4:08)
       - 作詞・作曲：氷室京介 / 編曲：布袋寅泰
     <!-- end list -->
       -
-        3rdシングル「[わがままジュリエット](https://ja.wikipedia.org/wiki/わがままジュリエット "wikilink")」のB面曲。1stアルバム『MORAL』収録曲であるが、初期からライブではリズム隊を中心にアルバムテイクとはアレンジを変えて演奏されていた曲であった。このライブテイクは、1985年の「BOØWY'S BE AMBICIOUS」ツアーで演奏されたものであり、イントロのリフやBメロのフレーズの追加など大きくリアレンジが施されている。因みに、曲の終了後に流れるギターは「[MY HONEY](https://ja.wikipedia.org/wiki/INSTANT_LOVE "wikilink")」のイントロである。
-7.  **[B・BLUE](https://ja.wikipedia.org/wiki/B・BLUE "wikilink") (Live Version)** (3:54)
+        3rdシングル「[わがままジュリエット](../Page/わがままジュリエット.md "wikilink")」のB面曲。1stアルバム『MORAL』収録曲であるが、初期からライブではリズム隊を中心にアルバムテイクとはアレンジを変えて演奏されていた曲であった。このライブテイクは、1985年の「BOØWY'S BE AMBICIOUS」ツアーで演奏されたものであり、イントロのリフやBメロのフレーズの追加など大きくリアレンジが施されている。因みに、曲の終了後に流れるギターは「[MY HONEY](../Page/INSTANT_LOVE.md "wikilink")」のイントロである。
+7.  **[B・BLUE](../Page/B・BLUE.md "wikilink") (Live Version)** (3:54)
       - 作詞：氷室京介 / 作曲・編曲：布袋寅泰
     <!-- end list -->
       -
-        5thシングル「[ONLY YOU](https://ja.wikipedia.org/wiki/ONLY_YOU_\(BOOWYの曲\) "wikilink")」のB面曲。「ROCK'N'ROLL CIRCUS」ツアー1987年2月24日武道館での演奏を録音したものである。『[GIGS at BUDOKAN BEAT EMOTION ROCK'N ROLL CIRCUS TOUR 1986.11.11〜1987.02.24](https://ja.wikipedia.org/wiki/GIGS_at_BUDOKAN_BEAT_EMOTION_ROCK'N_ROLL_CIRCUS_TOUR_1986.11.11〜1987.02.24 "wikilink")』に収録されている同テイクとは異なり、こちらはリミックスバージョンである。
-8.  **[BABY ACTION](https://ja.wikipedia.org/wiki/BOOWY_\(アルバム\) "wikilink") (Live Version)** (3:12)
+        5thシングル「[ONLY YOU](../Page/ONLY_YOU_\(BOOWYの曲\).md "wikilink")」のB面曲。「ROCK'N'ROLL CIRCUS」ツアー1987年2月24日武道館での演奏を録音したものである。『[GIGS at BUDOKAN BEAT EMOTION ROCK'N ROLL CIRCUS TOUR 1986.11.11〜1987.02.24](../Page/GIGS_at_BUDOKAN_BEAT_EMOTION_ROCK'N_ROLL_CIRCUS_TOUR_1986.11.11〜1987.02.24.md "wikilink")』に収録されている同テイクとは異なり、こちらはリミックスバージョンである。
+8.  **[BABY ACTION](../Page/BOOWY_\(アルバム\).md "wikilink") (Live Version)** (3:12)
       - 作詞：氷室京介 / 作曲・編曲：布袋寅泰
     <!-- end list -->
       -
-        5thシングル「[ONLY YOU](https://ja.wikipedia.org/wiki/ONLY_YOU_\(BOOWYの曲\) "wikilink")」のB面曲。「ROCK'N'ROLL CIRCUS」ツアー1987年2月24日武道館での演奏を録音したものである。『[GIGS at BUDOKAN BEAT EMOTION ROCK'N ROLL CIRCUS TOUR 1986.11.11〜1987.02.24](https://ja.wikipedia.org/wiki/GIGS_at_BUDOKAN_BEAT_EMOTION_ROCK'N_ROLL_CIRCUS_TOUR_1986.11.11〜1987.02.24 "wikilink")』に収録されている同テイクとは異なり、こちらはリミックスバージョンである。
+        5thシングル「[ONLY YOU](../Page/ONLY_YOU_\(BOOWYの曲\).md "wikilink")」のB面曲。「ROCK'N'ROLL CIRCUS」ツアー1987年2月24日武道館での演奏を録音したものである。『[GIGS at BUDOKAN BEAT EMOTION ROCK'N ROLL CIRCUS TOUR 1986.11.11〜1987.02.24](../Page/GIGS_at_BUDOKAN_BEAT_EMOTION_ROCK'N_ROLL_CIRCUS_TOUR_1986.11.11〜1987.02.24.md "wikilink")』に収録されている同テイクとは異なり、こちらはリミックスバージョンである。
 9.  **[THE WILD ONE (BOØWY & SUZI QUATRO)](../Page/Marionette_\(BOOWYの曲\).md "wikilink")** (3:25)
       - 作詞・作曲：N.CHINN-M.CHAPMAN / 編曲：布袋寅泰
     <!-- end list -->
       -
-        6thシングル「Marionette -マリオネット-」のB面曲。[スージー・クアトロ](https://ja.wikipedia.org/wiki/スージー・クアトロ "wikilink")の曲のカバーとなっており、BOØWYでは唯一の公式音源のカバー作品である。クアトロ自身もボーカルで参加しているが、レコーディングは別々に行われた。
+        6thシングル「Marionette -マリオネット-」のB面曲。[スージー・クアトロ](../Page/スージー・クアトロ.md "wikilink")の曲のカバーとなっており、BOØWYでは唯一の公式音源のカバー作品である。クアトロ自身もボーカルで参加しているが、レコーディングは別々に行われた。
 10. **たった一度のLOVE SONG** (4:36)
       - 作詞・作曲：氷室狂介 / 編曲：布袋寅泰
     <!-- end list -->

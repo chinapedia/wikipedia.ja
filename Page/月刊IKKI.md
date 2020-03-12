@@ -5,13 +5,13 @@
 
 ## 概要
 
-創刊は[2003年](../Page/2003年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[11月30日](../Page/11月30日.md "wikilink")より『[ビッグコミックスピリッツ](https://ja.wikipedia.org/wiki/ビッグコミックスピリッツ "wikilink")』（小学館）の増刊号として隔月で発行された『**スピリッツ増刊IKKI**』が前身であり、そのリニューアル新創刊という形で月刊化された。創刊時からのキャッチコピーは「コミックは未だ黎明期である」。編集長は[江上英樹](https://ja.wikipedia.org/wiki/江上英樹 "wikilink")。
+創刊は[2003年](../Page/2003年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[11月30日](../Page/11月30日.md "wikilink")より『[ビッグコミックスピリッツ](https://ja.wikipedia.org/wiki/ビッグコミックスピリッツ "wikilink")』（小学館）の増刊号として隔月で発行された『**スピリッツ増刊IKKI**』が前身であり、そのリニューアル新創刊という形で月刊化された。創刊時からのキャッチコピーは「コミックは未だ黎明期である」。編集長は[江上英樹](../Page/江上英樹.md "wikilink")。
 
-『スピリッツ』の増刊が元となっているため、執筆陣の一部が共通した。また、[小野塚カホリ](https://ja.wikipedia.org/wiki/小野塚カホリ "wikilink")や[ジョージ朝倉](https://ja.wikipedia.org/wiki/ジョージ朝倉 "wikilink")など、女性誌で活動する漫画家の起用も多かった。新人賞「[イキマン](../Page/イキマン.md "wikilink")」を実施しており、2ヶ月に1度、応募作の中から優秀なものを必ず1作品以上掲載していた。マニア好みの漫画が多く「小学館の[アフタヌーン](../Page/月刊アフタヌーン.md "wikilink")」「小学館の[ガロ](../Page/ガロ_\(雑誌\).md "wikilink")」とも呼ばれている。
+『スピリッツ』の増刊が元となっているため、執筆陣の一部が共通した。また、[小野塚カホリ](https://ja.wikipedia.org/wiki/小野塚カホリ "wikilink")や[ジョージ朝倉](../Page/ジョージ朝倉.md "wikilink")など、女性誌で活動する漫画家の起用も多かった。新人賞「[イキマン](../Page/イキマン.md "wikilink")」を実施しており、2ヶ月に1度、応募作の中から優秀なものを必ず1作品以上掲載していた。マニア好みの漫画が多く「小学館の[アフタヌーン](../Page/月刊アフタヌーン.md "wikilink")」「小学館の[ガロ](../Page/ガロ_\(雑誌\).md "wikilink")」とも呼ばれている。
 
-[装丁](https://ja.wikipedia.org/wiki/装丁 "wikilink")は、他の小学館での漫画雑誌を担当している[ベイブリッジ・スタジオ](https://ja.wikipedia.org/wiki/ベイブリッジ・スタジオ "wikilink")ではなく、雑誌ロゴを含めたほとんど全てを[祖父江慎](https://ja.wikipedia.org/wiki/祖父江慎 "wikilink")率いる[コズフィッシュ](https://ja.wikipedia.org/wiki/コズフィッシュ "wikilink")が行っている。コズフィッシュはその他にも、単行本「**IKKI COMIX**」の装丁、雑誌名考案など、雑誌と非常に深い関わりを持っていた。
+[装丁](https://ja.wikipedia.org/wiki/装丁 "wikilink")は、他の小学館での漫画雑誌を担当している[ベイブリッジ・スタジオ](https://ja.wikipedia.org/wiki/ベイブリッジ・スタジオ "wikilink")ではなく、雑誌ロゴを含めたほとんど全てを[祖父江慎](../Page/祖父江慎.md "wikilink")率いる[コズフィッシュ](https://ja.wikipedia.org/wiki/コズフィッシュ "wikilink")が行っている。コズフィッシュはその他にも、単行本「**IKKI COMIX**」の装丁、雑誌名考案など、雑誌と非常に深い関わりを持っていた。
 
-また、いわゆる[アイドルグラビアの掲載はないが](https://ja.wikipedia.org/wiki/グラビアアイドル "wikilink")（初期には[ヘアヌード](https://ja.wikipedia.org/wiki/ヘアヌード "wikilink")グラビアが存在）、[丸田祥三](https://ja.wikipedia.org/wiki/丸田祥三 "wikilink")による「廃墟と少女」をテーマとしたものなど、漫画雑誌としては珍しい一風変わった[グラビアページ](https://ja.wikipedia.org/wiki/グラビアページ "wikilink")の連載があった。その他にも、『[鉄子の旅](https://ja.wikipedia.org/wiki/鉄子の旅 "wikilink")』『[阿房列車](https://ja.wikipedia.org/wiki/阿房列車 "wikilink")』『[月館の殺人](https://ja.wikipedia.org/wiki/月館の殺人 "wikilink")』など鉄道ネタの漫画は、江上の趣味の反映である。
+また、いわゆる[アイドルグラビアの掲載はないが](https://ja.wikipedia.org/wiki/グラビアアイドル "wikilink")（初期には[ヘアヌード](../Page/ヘアヌード.md "wikilink")グラビアが存在）、[丸田祥三](../Page/丸田祥三.md "wikilink")による「廃墟と少女」をテーマとしたものなど、漫画雑誌としては珍しい一風変わった[グラビアページ](https://ja.wikipedia.org/wiki/グラビアページ "wikilink")の連載があった。その他にも、『[鉄子の旅](../Page/鉄子の旅.md "wikilink")』『[阿房列車](../Page/阿房列車.md "wikilink")』『[月館の殺人](../Page/月館の殺人.md "wikilink")』など鉄道ネタの漫画は、江上の趣味の反映である。
 
 小部数のため赤字だったが、[2007年](../Page/2007年.md "wikilink")より単行本の売り上げ増加やメディアミックス効果などで黒字になった\[1\]。
 
@@ -25,8 +25,8 @@
 
   - [IKKIと私](https://ja.wikipedia.org/wiki/IKKIと私 "wikilink")（[青野春秋](../Page/青野春秋.md "wikilink")）
   - [鬼さん、どちら](https://ja.wikipedia.org/wiki/鬼さん、どちら "wikilink")（[有永イネ](https://ja.wikipedia.org/wiki/有永イネ "wikilink")）
-  - [火事場のバカIQ](https://ja.wikipedia.org/wiki/火事場のバカIQ "wikilink")（[榎本俊二](https://ja.wikipedia.org/wiki/榎本俊二 "wikilink")）
-  - [金魚屋古書店](https://ja.wikipedia.org/wiki/金魚屋古書店 "wikilink")（[芳崎せいむ](../Page/芳崎せいむ.md "wikilink")）
+  - [火事場のバカIQ](https://ja.wikipedia.org/wiki/火事場のバカIQ "wikilink")（[榎本俊二](../Page/榎本俊二.md "wikilink")）
+  - [金魚屋古書店](../Page/金魚屋古書店.md "wikilink")（[芳崎せいむ](../Page/芳崎せいむ.md "wikilink")）
   - [くま夫婦](https://ja.wikipedia.org/wiki/パンチョ近藤#くま夫婦 "wikilink")（[中央ヤンボル](../Page/パンチョ近藤.md "wikilink")）
   - [Golondrina ゴロンドリーナ](https://ja.wikipedia.org/wiki/Golondrina_ゴロンドリーナ "wikilink")（[えすとえむ](https://ja.wikipedia.org/wiki/えすとえむ "wikilink")）
   - [Sunny](https://ja.wikipedia.org/wiki/Sunny_\(松本大洋\) "wikilink")（[松本大洋](../Page/松本大洋.md "wikilink")） → 『[月刊\!スピリッツ](https://ja.wikipedia.org/wiki/月刊!スピリッツ "wikilink")』へ移籍
@@ -34,8 +34,8 @@
   - [すみれファンファーレ](https://ja.wikipedia.org/wiki/すみれファンファーレ "wikilink")（[松島直子](https://ja.wikipedia.org/wiki/松島直子 "wikilink")）
   - [スラップスティック](https://ja.wikipedia.org/wiki/スラップスティック_\(青野春秋\) "wikilink")（青野春秋） → 『[ヒバナ](https://ja.wikipedia.org/wiki/ヒバナ "wikilink")』へ移籍
   - [SONGBOOK](https://ja.wikipedia.org/wiki/SONGBOOK_\(漫画\) "wikilink")（[ノッツ](https://ja.wikipedia.org/wiki/ノッツ "wikilink")）
-  - [ドロヘドロ](https://ja.wikipedia.org/wiki/ドロヘドロ "wikilink")（[林田球](../Page/林田球.md "wikilink")） → 『ヒバナ』へ移籍
-  - [ネッコロ](https://ja.wikipedia.org/wiki/ネッコロ "wikilink")（[中川いさみ](../Page/中川いさみ.md "wikilink")） → 『月刊\!スピリッツ』、『[週刊少年サンデーS](../Page/週刊少年サンデーS.md "wikilink")』、『[ぷっちぐみ](https://ja.wikipedia.org/wiki/ぷっちぐみ "wikilink")』へ移籍
+  - [ドロヘドロ](../Page/ドロヘドロ.md "wikilink")（[林田球](../Page/林田球.md "wikilink")） → 『ヒバナ』へ移籍
+  - [ネッコロ](https://ja.wikipedia.org/wiki/ネッコロ "wikilink")（[中川いさみ](../Page/中川いさみ.md "wikilink")） → 『月刊\!スピリッツ』、『[週刊少年サンデーS](../Page/週刊少年サンデーS.md "wikilink")』、『[ぷっちぐみ](../Page/ぷっちぐみ.md "wikilink")』へ移籍
   - [のうけん](https://ja.wikipedia.org/wiki/のうけん "wikilink")（[長田亜弓](https://ja.wikipedia.org/wiki/長田亜弓 "wikilink")）
   - [薄花少女](https://ja.wikipedia.org/wiki/薄花少女 "wikilink")（[三浦靖冬](https://ja.wikipedia.org/wiki/三浦靖冬 "wikilink")） → 『[月刊サンデーGX](https://ja.wikipedia.org/wiki/月刊サンデーGX "wikilink")』へ移籍
   - [BABEL](https://ja.wikipedia.org/wiki/BABEL_\(漫画\) "wikilink")（[重松成美](https://ja.wikipedia.org/wiki/重松成美 "wikilink")）
@@ -61,8 +61,8 @@
 
 ### 単行本書き下ろし継続予定作品
 
-  - [阿房列車](https://ja.wikipedia.org/wiki/阿房列車 "wikilink")（漫画：[一條裕子](../Page/一條裕子.md "wikilink")、原作：[内田百{{CP932フォント](../Page/内田百間.md "wikilink")）
-  - [ディエンビエンフー](https://ja.wikipedia.org/wiki/ディエンビエンフー_\(漫画\) "wikilink") （[西島大介](https://ja.wikipedia.org/wiki/西島大介 "wikilink")）
+  - [阿房列車](../Page/阿房列車.md "wikilink")（漫画：[一條裕子](../Page/一條裕子.md "wikilink")、原作：[内田百{{CP932フォント](../Page/内田百間.md "wikilink")）
+  - [ディエンビエンフー](../Page/ディエンビエンフー_\(漫画\).md "wikilink") （[西島大介](../Page/西島大介.md "wikilink")）
   - [WOMBS](https://ja.wikipedia.org/wiki/WOMBS "wikilink")（[白井弓子](https://ja.wikipedia.org/wiki/白井弓子 "wikilink")）
 
 ## 過去の主な連載作品
@@ -75,7 +75,7 @@
   - エンゼルマーク（[松永豊和](https://ja.wikipedia.org/wiki/松永豊和 "wikilink")） ※増刊時代
   - [乙女ウイルス](https://ja.wikipedia.org/wiki/乙女ウイルス "wikilink")（[鈴菌カリオ](../Page/鈴菌カリオ.md "wikilink")）
   - [俺はまだ本気出してないだけ](https://ja.wikipedia.org/wiki/俺はまだ本気出してないだけ "wikilink")（[青野春秋](../Page/青野春秋.md "wikilink")）
-  - 富士山（[さそうあきら](https://ja.wikipedia.org/wiki/さそうあきら "wikilink")） ※増刊時代
+  - 富士山（[さそうあきら](../Page/さそうあきら.md "wikilink")） ※増刊時代
   - [ガギグゲキッコ](https://ja.wikipedia.org/wiki/ガギグゲキッコ "wikilink")（[土屋雄民](https://ja.wikipedia.org/wiki/土屋雄民 "wikilink")）
   - [カメオドール](https://ja.wikipedia.org/wiki/カメオドール "wikilink")（[田村てまり](https://ja.wikipedia.org/wiki/田村てまり "wikilink")）
   - ガンズ&ブレイズ（[滝沢聖峰](../Page/滝沢聖峰.md "wikilink")） ※増刊時代
@@ -83,65 +83,65 @@
   - 答えは3つ（とんだばやし）
   - 小町風伝（[小野塚カホリ](https://ja.wikipedia.org/wiki/小野塚カホリ "wikilink")）
   - [さらい屋 五葉](https://ja.wikipedia.org/wiki/さらい屋_五葉 "wikilink")（[オノ・ナツメ](../Page/オノ・ナツメ.md "wikilink")）
-  - [SARU](https://ja.wikipedia.org/wiki/SARU_\(漫画\) "wikilink")（[五十嵐大介](https://ja.wikipedia.org/wiki/五十嵐大介 "wikilink")）
-  - [海獣の子供](../Page/海獣の子供.md "wikilink")（[五十嵐大介](https://ja.wikipedia.org/wiki/五十嵐大介 "wikilink")）
-  - [土星マンション](https://ja.wikipedia.org/wiki/土星マンション "wikilink")（[岩岡ヒサエ](https://ja.wikipedia.org/wiki/岩岡ヒサエ "wikilink")）
-  - [花ボーロ](https://ja.wikipedia.org/wiki/花ボーロ "wikilink")（[岩岡ヒサエ](https://ja.wikipedia.org/wiki/岩岡ヒサエ "wikilink")）
-  - [さるマン2.0](../Page/サルでも描けるまんが教室.md "wikilink")（[相原コージ](../Page/相原コージ.md "wikilink")・[竹熊健太郎](../Page/竹熊健太郎.md "wikilink")）※作者の希望により[打ち切り](https://ja.wikipedia.org/wiki/打ち切り "wikilink")
+  - [SARU](https://ja.wikipedia.org/wiki/SARU_\(漫画\) "wikilink")（[五十嵐大介](../Page/五十嵐大介.md "wikilink")）
+  - [海獣の子供](../Page/海獣の子供.md "wikilink")（[五十嵐大介](../Page/五十嵐大介.md "wikilink")）
+  - [土星マンション](../Page/土星マンション.md "wikilink")（[岩岡ヒサエ](../Page/岩岡ヒサエ.md "wikilink")）
+  - [花ボーロ](https://ja.wikipedia.org/wiki/花ボーロ "wikilink")（[岩岡ヒサエ](../Page/岩岡ヒサエ.md "wikilink")）
+  - [さるマン2.0](../Page/サルでも描けるまんが教室.md "wikilink")（[相原コージ](../Page/相原コージ.md "wikilink")・[竹熊健太郎](../Page/竹熊健太郎.md "wikilink")）※作者の希望により[打ち切り](../Page/打ち切り.md "wikilink")
   - [G戦場ヘヴンズドア](../Page/G戦場ヘヴンズドア.md "wikilink")（[日本橋ヨヲコ](../Page/日本橋ヨヲコ.md "wikilink")）
   - SHIMI 〜凍み〜（小野塚カホリ） ※増刊時代
   - [Sillyなコダマ\!\!](https://ja.wikipedia.org/wiki/Sillyなコダマ!! "wikilink")（鈴菌カリオ）
   - [シャンハイチャーリー](https://ja.wikipedia.org/wiki/シャンハイチャーリー "wikilink")（[ビブオ](https://ja.wikipedia.org/wiki/ビブオ "wikilink")）
   - [人類は衰退しました](../Page/人類は衰退しました.md "wikilink")（漫画：[根雪れい](https://ja.wikipedia.org/wiki/根雪れい "wikilink")、原案：[田中ロミオ](../Page/田中ロミオ.md "wikilink")、キャラクター原案：[山﨑透](https://ja.wikipedia.org/wiki/山﨑透 "wikilink")）※隔月連載の予定であったが、作者の体調不良が原因で第1話掲載後に無期限休載宣言を経て打ち切り
-  - [人類は衰退しました のんびりした報告](../Page/人類は衰退しました.md "wikilink")（[見富拓哉](https://ja.wikipedia.org/wiki/見富拓哉 "wikilink")／原案：[田中ロミオ](../Page/田中ロミオ.md "wikilink")、キャラクター原案：[戸部淑](https://ja.wikipedia.org/wiki/戸部淑 "wikilink")）
+  - [人類は衰退しました のんびりした報告](../Page/人類は衰退しました.md "wikilink")（[見富拓哉](https://ja.wikipedia.org/wiki/見富拓哉 "wikilink")／原案：[田中ロミオ](../Page/田中ロミオ.md "wikilink")、キャラクター原案：[戸部淑](../Page/戸部淑.md "wikilink")）
   - [SWWEEET](https://ja.wikipedia.org/wiki/SWWEEET "wikilink")（[青山景](../Page/青山景.md "wikilink")）
   - スキマスキ（[宇仁田ゆみ](../Page/宇仁田ゆみ.md "wikilink")）
   - [青春♂ソバット](https://ja.wikipedia.org/wiki/青春♂ソバット "wikilink")（[黒娜さかき](https://ja.wikipedia.org/wiki/黒娜さかき "wikilink")）
   - [セクシーボイスアンドロボ](../Page/セクシーボイスアンドロボ.md "wikilink")（[黒田硫黄](../Page/黒田硫黄.md "wikilink")） ※増刊時代
-  - [セックスなんか興味ない](https://ja.wikipedia.org/wiki/セックスなんか興味ない "wikilink")（[きづきあきら](https://ja.wikipedia.org/wiki/きづきあきら "wikilink")+[サトウナンキ](https://ja.wikipedia.org/wiki/サトウナンキ "wikilink")）
-  - [ダーリンは55歳](https://ja.wikipedia.org/wiki/ダーリンは55歳 "wikilink")（[山崎紗也夏](https://ja.wikipedia.org/wiki/山崎紗也夏 "wikilink")）
+  - [セックスなんか興味ない](https://ja.wikipedia.org/wiki/セックスなんか興味ない "wikilink")（[きづきあきら](../Page/きづきあきら.md "wikilink")+[サトウナンキ](https://ja.wikipedia.org/wiki/サトウナンキ "wikilink")）
+  - [ダーリンは55歳](https://ja.wikipedia.org/wiki/ダーリンは55歳 "wikilink")（[山崎紗也夏](../Page/山崎紗也夏.md "wikilink")）
   - [高梨さん](https://ja.wikipedia.org/wiki/高梨さん "wikilink")（[太田基之](https://ja.wikipedia.org/wiki/太田基之 "wikilink")）
   - [ちょこらん](https://ja.wikipedia.org/wiki/ちょこらん "wikilink")（[にしがきひろゆき](https://ja.wikipedia.org/wiki/にしがきひろゆき "wikilink")）
-  - [月館の殺人](https://ja.wikipedia.org/wiki/月館の殺人 "wikilink")（漫画：[佐々木倫子](../Page/佐々木倫子.md "wikilink")、原作：[綾辻行人](../Page/綾辻行人.md "wikilink")）
-  - [鉄子の旅](https://ja.wikipedia.org/wiki/鉄子の旅 "wikilink")（漫画：[菊池直恵](https://ja.wikipedia.org/wiki/菊池直恵 "wikilink")、協力：[横見浩彦](https://ja.wikipedia.org/wiki/横見浩彦 "wikilink")）
-  - [新・鉄子の旅](https://ja.wikipedia.org/wiki/鉄子の旅 "wikilink")（[ほあしかのこ](https://ja.wikipedia.org/wiki/ほあしかのこ "wikilink")）
+  - [月館の殺人](../Page/月館の殺人.md "wikilink")（漫画：[佐々木倫子](../Page/佐々木倫子.md "wikilink")、原作：[綾辻行人](../Page/綾辻行人.md "wikilink")）
+  - [鉄子の旅](../Page/鉄子の旅.md "wikilink")（漫画：[菊池直恵](../Page/菊池直恵.md "wikilink")、協力：[横見浩彦](../Page/横見浩彦.md "wikilink")）
+  - [新・鉄子の旅](../Page/鉄子の旅.md "wikilink")（[ほあしかのこ](https://ja.wikipedia.org/wiki/ほあしかのこ "wikilink")）
   - 東京フローチャート（見ル野栄司）
   - [ストラト\!](https://ja.wikipedia.org/wiki/ストラト! "wikilink")（[中川いさみ](../Page/中川いさみ.md "wikilink")）
-  - [ナツノクモ](https://ja.wikipedia.org/wiki/ナツノクモ "wikilink")（[篠房六郎](https://ja.wikipedia.org/wiki/篠房六郎 "wikilink")）
-  - [ナンバーファイブ 吾](https://ja.wikipedia.org/wiki/ナンバーファイブ_吾 "wikilink")（[松本大洋](../Page/松本大洋.md "wikilink")）
-  - [ニッケルオデオン](https://ja.wikipedia.org/wiki/ニッケルオデオン_\(漫画\) "wikilink")（[道満晴明](https://ja.wikipedia.org/wiki/道満晴明 "wikilink")）
+  - [ナツノクモ](../Page/ナツノクモ.md "wikilink")（[篠房六郎](../Page/篠房六郎.md "wikilink")）
+  - [ナンバーファイブ 吾](../Page/ナンバーファイブ_吾.md "wikilink")（[松本大洋](../Page/松本大洋.md "wikilink")）
+  - [ニッケルオデオン](https://ja.wikipedia.org/wiki/ニッケルオデオン_\(漫画\) "wikilink")（[道満晴明](../Page/道満晴明.md "wikilink")）
   - ねこやり-Salty Cat-（[黒娜さかき](https://ja.wikipedia.org/wiki/黒娜さかき "wikilink")）
-  - [のらみみ](https://ja.wikipedia.org/wiki/のらみみ "wikilink")（[原一雄](https://ja.wikipedia.org/wiki/原一雄 "wikilink")）
+  - [のらみみ](../Page/のらみみ.md "wikilink")（[原一雄](https://ja.wikipedia.org/wiki/原一雄 "wikilink")）
   - 破戒 〜ユリ・ゲラーさん、あなたの顔はいいかげん忘れてしまいました〜（作画：山本直樹、原作：[松尾スズキ](../Page/松尾スズキ.md "wikilink")）
   - [花咲さんの就活日記](https://ja.wikipedia.org/wiki/花咲さんの就活日記 "wikilink")（[小野田真央](https://ja.wikipedia.org/wiki/小野田真央 "wikilink")）
-  - パン★テラ（[ゴツボ×リュウジ](https://ja.wikipedia.org/wiki/ゴツボ×リュウジ "wikilink")）
+  - パン★テラ（[ゴツボ×リュウジ](../Page/ゴツボ×リュウジ.md "wikilink")）
   - [必要とされなかった話](https://ja.wikipedia.org/wiki/必要とされなかった話 "wikilink")（[三友恒平](https://ja.wikipedia.org/wiki/三友恒平 "wikilink")）
   - フライングガール（[笠辺哲](../Page/笠辺哲.md "wikilink")）
-  - [ブランコ](https://ja.wikipedia.org/wiki/ブランコ_\(漫画\) "wikilink")（[ウィスット・ポンニミット](https://ja.wikipedia.org/wiki/ウィスット・ポンニミット "wikilink")）
+  - [ブランコ](https://ja.wikipedia.org/wiki/ブランコ_\(漫画\) "wikilink")（[ウィスット・ポンニミット](../Page/ウィスット・ポンニミット.md "wikilink")）
   - [フリージア](../Page/フリージア_\(漫画\).md "wikilink")（[松本次郎](../Page/松本次郎.md "wikilink")）
   - フルーツ（木葉功一）
-  - [平凡ポンチ](../Page/平凡ポンチ.md "wikilink")（[ジョージ朝倉](https://ja.wikipedia.org/wiki/ジョージ朝倉 "wikilink")）
+  - [平凡ポンチ](../Page/平凡ポンチ.md "wikilink")（[ジョージ朝倉](../Page/ジョージ朝倉.md "wikilink")）
   - [ぼくはツアコン](https://ja.wikipedia.org/wiki/ぼくはツアコン "wikilink")（[とんだばやしロンゲ](https://ja.wikipedia.org/wiki/とんだばやしロンゲ "wikilink")）
   - [ボブとゆかいな仲間たち2011](https://ja.wikipedia.org/wiki/#ボブとゆかいな仲間たち2009 "wikilink")（[パンチョ近藤](../Page/パンチョ近藤.md "wikilink")）
-  - [ぼくらの](https://ja.wikipedia.org/wiki/ぼくらの "wikilink")（[鬼頭莫宏](../Page/鬼頭莫宏.md "wikilink")）
+  - [ぼくらの](../Page/ぼくらの.md "wikilink")（[鬼頭莫宏](../Page/鬼頭莫宏.md "wikilink")）
   - ボツマン宣言（[いとうせいこう](../Page/いとうせいこう.md "wikilink")）
   - [魔Qケン乙](https://ja.wikipedia.org/wiki/魔Qケン乙 "wikilink")（[喜国雅彦](../Page/喜国雅彦.md "wikilink")）
   - まひるの海（[比古地朔弥](../Page/比古地朔弥.md "wikilink")） ※増刊時代
-  - まほおつかいミミッチ（[松田洋子](https://ja.wikipedia.org/wiki/松田洋子 "wikilink")）
+  - まほおつかいミミッチ（[松田洋子](../Page/松田洋子.md "wikilink")）
   - 漫画家超残酷物語（[唐沢なをき](../Page/唐沢なをき.md "wikilink")）
-  - めくるたび（写真：[丸田祥三](https://ja.wikipedia.org/wiki/丸田祥三 "wikilink")）
+  - めくるたび（写真：[丸田祥三](../Page/丸田祥三.md "wikilink")）
   - [夜回り先生](https://ja.wikipedia.org/wiki/夜回り先生_\(漫画\) "wikilink")（漫画：[土田世紀](../Page/土田世紀.md "wikilink")、原作：[水谷修](https://ja.wikipedia.org/wiki/水谷修 "wikilink")）
   - [よるくも](https://ja.wikipedia.org/wiki/よるくも "wikilink")（[漆原ミチ](https://ja.wikipedia.org/wiki/漆原ミチ "wikilink")）
-  - [RIDEBACK](https://ja.wikipedia.org/wiki/RIDEBACK "wikilink")（[カサハラテツロー](https://ja.wikipedia.org/wiki/カサハラテツロー "wikilink")）
+  - [RIDEBACK](https://ja.wikipedia.org/wiki/RIDEBACK "wikilink")（[カサハラテツロー](../Page/カサハラテツロー.md "wikilink")）
   - [螺旋のドギー](https://ja.wikipedia.org/wiki/螺旋のドギー "wikilink")（[北田おか](https://ja.wikipedia.org/wiki/北田おか "wikilink")）
-  - リアルワールド（作画：[イシデ電](https://ja.wikipedia.org/wiki/イシデ電 "wikilink")、原作：[桐野夏生](../Page/桐野夏生.md "wikilink")）
+  - リアルワールド（作画：[イシデ電](../Page/イシデ電.md "wikilink")、原作：[桐野夏生](../Page/桐野夏生.md "wikilink")）
   - 龍宮殿（[松永豊和](https://ja.wikipedia.org/wiki/松永豊和 "wikilink")）
-  - [ワイルドマウンテン](../Page/ワイルドマウンテン.md "wikilink")（[本秀康](https://ja.wikipedia.org/wiki/本秀康 "wikilink")）
+  - [ワイルドマウンテン](../Page/ワイルドマウンテン.md "wikilink")（[本秀康](../Page/本秀康.md "wikilink")）
   - [わたしの宇宙](https://ja.wikipedia.org/wiki/わたしの宇宙 "wikilink")（[野田彩子](https://ja.wikipedia.org/wiki/野田彩子 "wikilink")）
 
 ## 歴代編集長
 
-  - [2003年](../Page/2003年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")（創刊号）- [江上英樹](https://ja.wikipedia.org/wiki/江上英樹 "wikilink")
+  - [2003年](../Page/2003年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")（創刊号）- [江上英樹](../Page/江上英樹.md "wikilink")
 
 ## 発行部数
 

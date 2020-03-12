@@ -1,13 +1,13 @@
 > この記事は[Dr.](https://ja.wikipedia.org/wiki/Dr.)から翻訳されています。
 
 
-**Dr.コパ**（ドクター・コパ、本名・**小林 祥晃**（こばやし さちあき）、[1947年](../Page/1947年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")22年）[5月5日](../Page/5月5日.md "wikilink") - ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[建築家](../Page/建築家.md "wikilink")で、[実業家](../Page/実業家.md "wikilink")、[神主](https://ja.wikipedia.org/wiki/神主 "wikilink")、[作家](../Page/作家.md "wikilink")、[愛知工業大学](../Page/愛知工業大学.md "wikilink")[客員教授](https://ja.wikipedia.org/wiki/客員教授 "wikilink")。[JRAおよび](../Page/日本中央競馬会.md "wikilink")[地方競馬](../Page/地方競馬.md "wikilink")の[馬主](https://ja.wikipedia.org/wiki/馬主 "wikilink")でもある。
+**Dr.コパ**（ドクター・コパ、本名・**小林 祥晃**（こばやし さちあき）、[1947年](../Page/1947年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")22年）[5月5日](../Page/5月5日.md "wikilink") - ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[建築家](../Page/建築家.md "wikilink")で、[実業家](../Page/実業家.md "wikilink")、[神主](https://ja.wikipedia.org/wiki/神主 "wikilink")、[作家](../Page/作家.md "wikilink")、[愛知工業大学](../Page/愛知工業大学.md "wikilink")[客員教授](https://ja.wikipedia.org/wiki/客員教授 "wikilink")。[JRAおよび](../Page/日本中央競馬会.md "wikilink")[地方競馬](../Page/地方競馬.md "wikilink")の[馬主](../Page/馬主.md "wikilink")でもある。
 
 ## 概要
 
-[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身。[日本大学第三高等学校](https://ja.wikipedia.org/wiki/日本大学第三高等学校 "wikilink")を経て[日本大学](https://ja.wikipedia.org/wiki/日本大学 "wikilink")[理工学部](../Page/理工学部.md "wikilink")[建築学科](https://ja.wikipedia.org/wiki/建築学科 "wikilink")卒業。祥設計株式会社社長。三宅の宮（観相・家相）を主宰。茶懐石料理教室校長。中央競馬の馬主としても活動している。
+[東京都](../Page/東京都.md "wikilink")出身。[日本大学第三高等学校](https://ja.wikipedia.org/wiki/日本大学第三高等学校 "wikilink")を経て[日本大学](https://ja.wikipedia.org/wiki/日本大学 "wikilink")[理工学部](../Page/理工学部.md "wikilink")[建築学科](../Page/建築学科.md "wikilink")卒業。祥設計株式会社社長。三宅の宮（観相・家相）を主宰。茶懐石料理教室校長。中央競馬の馬主としても活動している。
 
-祖父の代より三代続けて（三代続けて[神職](https://ja.wikipedia.org/wiki/神職 "wikilink")の事もあり）日本の伝統建築・風習・伝統行事・縁起・由来の開運法を研究しており、温泉を使った伝統的な開運法など、中国、アジア、西洋諸国の伝統開運法を吸収しつつオリジナルの開運術を考案。
+祖父の代より三代続けて（三代続けて[神職](../Page/神職.md "wikilink")の事もあり）日本の伝統建築・風習・伝統行事・縁起・由来の開運法を研究しており、温泉を使った伝統的な開運法など、中国、アジア、西洋諸国の伝統開運法を吸収しつつオリジナルの開運術を考案。
 
 日本の[気学](https://ja.wikipedia.org/wiki/気学 "wikilink")、[方位学](https://ja.wikipedia.org/wiki/方位学 "wikilink")を主にしたこともあったが、風水ブームの到来により、自らの開運術を「風水」として強調。だが、自らを「風水師」と呼ぶことはない。幼少のころより父の友人であった[在日朝鮮人にも](../Page/在日韓国・朝鮮人.md "wikilink")[李氏朝鮮](../Page/李氏朝鮮.md "wikilink")より伝わる[李朝風水](https://ja.wikipedia.org/wiki/李朝風水 "wikilink")・古来風水を学んでおり朝鮮風水の法則を自身の風水に生かしている、と自著で明かしている。[メルセデス・ベンツ](https://ja.wikipedia.org/wiki/メルセデス・ベンツ "wikilink")の[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")現地工場の風水的設計を任されたこともある。 長く一級建築士を自称していたが、不思議なことに最近は全く一級建築士を名乗っていない。
 
@@ -15,7 +15,7 @@
 
 ## 人物
 
-子供のころ[多摩川](https://ja.wikipedia.org/wiki/多摩川 "wikilink")で溺れかかったことがあり、川の主の[竜神](https://ja.wikipedia.org/wiki/竜神 "wikilink")に助けてもらったという（小指に糸のような物が巻きつき引き上げられた）。その頃より本人の守護神は竜神であると確信している。 後年友人の家を訪ねた際、御岳教の行者が偶然その場にいた。その行者に龍神が憑依したことを感じ取り、今までの恩恵を竜神に述べ謝意を表した。
+子供のころ[多摩川](../Page/多摩川.md "wikilink")で溺れかかったことがあり、川の主の[竜神](https://ja.wikipedia.org/wiki/竜神 "wikilink")に助けてもらったという（小指に糸のような物が巻きつき引き上げられた）。その頃より本人の守護神は竜神であると確信している。 後年友人の家を訪ねた際、御岳教の行者が偶然その場にいた。その行者に龍神が憑依したことを感じ取り、今までの恩恵を竜神に述べ謝意を表した。
 
 神職に就いた後、神木の前を横切った時、神の声を聴いたような気がしたという。それ以降、その際に告げられた『萬祥』を名乗る。
 
@@ -26,7 +26,7 @@
 ## 家族
 
 妻・けい子も中央競馬会及び地方競馬の馬主として名を連ねている。
-長男の照弘はインターネットコパクラブ株式会社[代表取締役](https://ja.wikipedia.org/wiki/代表取締役 "wikilink")[社長](https://ja.wikipedia.org/wiki/社長 "wikilink")を務めている。また長女の美穂は「[ドーター・コパ](https://ja.wikipedia.org/wiki/ドーター・コパ "wikilink")」の名で父と同じく風水師として活動。
+長男の照弘はインターネットコパクラブ株式会社[代表取締役](../Page/代表取締役.md "wikilink")[社長](../Page/社長.md "wikilink")を務めている。また長女の美穂は「[ドーター・コパ](https://ja.wikipedia.org/wiki/ドーター・コパ "wikilink")」の名で父と同じく風水師として活動。
 
 ## その他
 
@@ -54,20 +54,20 @@
 
   - Dr.コパの夢をかなえ富(ロマン)を築く風水術
   - 〜開運マイホーム〜（BSデジタル・999ch　[知求チャンネル](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")）
-  - Dr.コパのパワースポット神社（CSスカパー・277ch「[旅チャンネル](https://ja.wikipedia.org/wiki/旅チャンネル "wikilink")」）
-  - 旅ちゃんガイド（第30話ゲスト出演、[旅チャンネル](https://ja.wikipedia.org/wiki/旅チャンネル "wikilink")）
+  - Dr.コパのパワースポット神社（CSスカパー・277ch「[旅チャンネル](../Page/旅チャンネル.md "wikilink")」）
+  - 旅ちゃんガイド（第30話ゲスト出演、[旅チャンネル](../Page/旅チャンネル.md "wikilink")）
   - [土曜ワイド劇場](../Page/土曜ワイド劇場.md "wikilink")「[京都の女庭師風水探偵さくら子](https://ja.wikipedia.org/wiki/京都の女庭師風水探偵さくら子 "wikilink")2」（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
   - [ミラクルC](../Page/ミラクルC.md "wikilink")（[KEIRINグランプリ](../Page/KEIRINグランプリ.md "wikilink")展望などのゲスト出演、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
-  - [ミッドナイト競輪](https://ja.wikipedia.org/wiki/ミッドナイト競輪 "wikilink")中継ゲスト（[SPEEDチャンネル](https://ja.wikipedia.org/wiki/SPEEDチャンネル "wikilink")）
+  - [ミッドナイト競輪](https://ja.wikipedia.org/wiki/ミッドナイト競輪 "wikilink")中継ゲスト（[SPEEDチャンネル](../Page/SPEEDチャンネル.md "wikilink")）
   - [OH\!エルくらぶ](../Page/OH!エルくらぶ.md "wikilink")（テレビ朝日）
 
 ### ラジオ
 
-  - [サンデーパラダイス](https://ja.wikipedia.org/wiki/サンデーパラダイス "wikilink")（[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")）
-  - [寺内優のおはようラジオ](https://ja.wikipedia.org/wiki/寺内優のおはようラジオ "wikilink")（[RCCラジオ](../Page/中国放送.md "wikilink")）
-  - [Dr.コパの黄金の扉](https://ja.wikipedia.org/wiki/Dr.コパの黄金の扉 "wikilink")（[KBCラジオ](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")）
-  - [ふぁん☆タメ](https://ja.wikipedia.org/wiki/ふぁん☆タメ "wikilink")（[YBSラジオ](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")、月曜コメンテーター）
-  - [いとしのオールディーズ](https://ja.wikipedia.org/wiki/いとしのオールディーズ "wikilink")（2010年1月16日、[NHKラジオ第1放送](https://ja.wikipedia.org/wiki/NHKラジオ第1放送 "wikilink")）
+  - [サンデーパラダイス](../Page/サンデーパラダイス.md "wikilink")（[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")）
+  - [寺内優のおはようラジオ](../Page/寺内優のおはようラジオ.md "wikilink")（[RCCラジオ](../Page/中国放送.md "wikilink")）
+  - [Dr.コパの黄金の扉](../Page/Dr.コパの黄金の扉.md "wikilink")（[KBCラジオ](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")）
+  - [ふぁん☆タメ](../Page/ふぁん☆タメ.md "wikilink")（[YBSラジオ](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")、月曜コメンテーター）
+  - [いとしのオールディーズ](../Page/いとしのオールディーズ.md "wikilink")（2010年1月16日、[NHKラジオ第1放送](../Page/NHKラジオ第1放送.md "wikilink")）
   - [わが人生に乾杯\!](https://ja.wikipedia.org/wiki/わが人生に乾杯! "wikilink")（2011年1月27日、NHKラジオ第1放送）
   - 日本通運 Dr.コパの風水の知恵かしまSHOW（[ニッポン放送](../Page/ニッポン放送.md "wikilink")）
   - Dr.コパ 風水縁切り寺（Himalaya）
@@ -77,12 +77,12 @@
 
   - 開運！Dr.コパのパワースポット神社 DVDBOX
 
-（テレビ番組・CSスカパー・277ch「[旅チャンネル](https://ja.wikipedia.org/wiki/旅チャンネル "wikilink")」での「Dr.コパのパワースポット神社」のDVD化）
+（テレビ番組・CSスカパー・277ch「[旅チャンネル](../Page/旅チャンネル.md "wikilink")」での「Dr.コパのパワースポット神社」のDVD化）
 
 ## 馬主として
 
-  - 本名の小林祥晃名義で「コパノ」「ラブミー」\[7\]、「キモン」の[冠名](https://ja.wikipedia.org/wiki/冠名 "wikilink")を用い[競走馬](https://ja.wikipedia.org/wiki/競走馬 "wikilink")を所有。勝負服デザインは「黄、赤一本輪、黄袖」と、風水で金運を高めるとされる黄色を基調としている。『[優駿](../Page/優駿.md "wikilink")』2014年4月号（日本中央競馬会ピーアールセンター刊）での「杉本清の競馬談義」のコーナーでコパは[1976年](../Page/1976年.md "wikilink")の[桜花賞](https://ja.wikipedia.org/wiki/桜花賞 "wikilink")・[オークス馬](https://ja.wikipedia.org/wiki/優駿牝馬 "wikilink")[テイタニヤ](https://ja.wikipedia.org/wiki/テイタニヤ "wikilink")の勝負服を意識していることを語っている。
-  - 「[週刊Gallop](https://ja.wikipedia.org/wiki/週刊Gallop "wikilink")」でコラムを連載していた時期もあった。
+  - 本名の小林祥晃名義で「コパノ」「ラブミー」\[7\]、「キモン」の[冠名](../Page/冠名.md "wikilink")を用い[競走馬](https://ja.wikipedia.org/wiki/競走馬 "wikilink")を所有。勝負服デザインは「黄、赤一本輪、黄袖」と、風水で金運を高めるとされる黄色を基調としている。『[優駿](../Page/優駿.md "wikilink")』2014年4月号（日本中央競馬会ピーアールセンター刊）での「杉本清の競馬談義」のコーナーでコパは[1976年](../Page/1976年.md "wikilink")の[桜花賞](https://ja.wikipedia.org/wiki/桜花賞 "wikilink")・[オークス馬](https://ja.wikipedia.org/wiki/優駿牝馬 "wikilink")[テイタニヤ](../Page/テイタニヤ.md "wikilink")の勝負服を意識していることを語っている。
+  - 「[週刊Gallop](../Page/週刊Gallop.md "wikilink")」でコラムを連載していた時期もあった。
 
 ### 主な所有馬
 
@@ -90,16 +90,16 @@
 
 **太字**はGIまたはJpnI競走。
 
-  - [ラブミーチャン](https://ja.wikipedia.org/wiki/ラブミーチャン "wikilink")（**[全日本2歳優駿](../Page/全日本2歳優駿.md "wikilink")**、[兵庫ジュニアグランプリ](https://ja.wikipedia.org/wiki/兵庫ジュニアグランプリ "wikilink")、[東京盃](../Page/東京盃.md "wikilink")、[東京スプリント](https://ja.wikipedia.org/wiki/東京スプリント "wikilink")、[クラスターカップ](../Page/クラスターカップ.md "wikilink")、他地方重賞11勝）\[8\]
-  - [コパノリチャード](https://ja.wikipedia.org/wiki/コパノリチャード "wikilink")（**[高松宮記念](https://ja.wikipedia.org/wiki/高松宮記念_\(競馬\) "wikilink")**、[スワンステークス](https://ja.wikipedia.org/wiki/スワンステークス "wikilink")、[アーリントンカップ](https://ja.wikipedia.org/wiki/アーリントンカップ "wikilink")、[阪急杯](https://ja.wikipedia.org/wiki/阪急杯 "wikilink")）\[9\]
-  - [コパノリッキー](https://ja.wikipedia.org/wiki/コパノリッキー "wikilink")（**[フェブラリーステークス](https://ja.wikipedia.org/wiki/フェブラリーステークス "wikilink")**2回、**[かしわ記念](https://ja.wikipedia.org/wiki/かしわ記念 "wikilink")**3回、**[JBCクラシック](https://ja.wikipedia.org/wiki/JBCクラシック "wikilink")**2回、**[帝王賞](../Page/帝王賞.md "wikilink")**、**[マイルチャンピオンシップ南部杯](../Page/マイルチャンピオンシップ南部杯.md "wikilink")**2回、**[東京大賞典](../Page/東京大賞典.md "wikilink")**、[兵庫チャンピオンシップ](https://ja.wikipedia.org/wiki/兵庫チャンピオンシップ "wikilink")、[東海ステークス](https://ja.wikipedia.org/wiki/東海ステークス "wikilink")）\[10\]
-  - コパノジングー（[目黒記念](https://ja.wikipedia.org/wiki/目黒記念 "wikilink")）\[11\]
-  - [ラブイズブーシェ](https://ja.wikipedia.org/wiki/ラブイズブーシェ "wikilink")（[函館記念](https://ja.wikipedia.org/wiki/函館記念 "wikilink")）\[12\]
-  - [コパノキッキング](https://ja.wikipedia.org/wiki/コパノキッキング "wikilink") （[カペラステークス](../Page/カペラステークス.md "wikilink")2回、[根岸ステークス](https://ja.wikipedia.org/wiki/根岸ステークス "wikilink")、東京盃）
+  - [ラブミーチャン](https://ja.wikipedia.org/wiki/ラブミーチャン "wikilink")（**[全日本2歳優駿](../Page/全日本2歳優駿.md "wikilink")**、[兵庫ジュニアグランプリ](../Page/兵庫ジュニアグランプリ.md "wikilink")、[東京盃](../Page/東京盃.md "wikilink")、[東京スプリント](https://ja.wikipedia.org/wiki/東京スプリント "wikilink")、[クラスターカップ](../Page/クラスターカップ.md "wikilink")、他地方重賞11勝）\[8\]
+  - [コパノリチャード](https://ja.wikipedia.org/wiki/コパノリチャード "wikilink")（**[高松宮記念](https://ja.wikipedia.org/wiki/高松宮記念_\(競馬\) "wikilink")**、[スワンステークス](../Page/スワンステークス.md "wikilink")、[アーリントンカップ](../Page/アーリントンカップ.md "wikilink")、[阪急杯](../Page/阪急杯.md "wikilink")）\[9\]
+  - [コパノリッキー](https://ja.wikipedia.org/wiki/コパノリッキー "wikilink")（**[フェブラリーステークス](https://ja.wikipedia.org/wiki/フェブラリーステークス "wikilink")**2回、**[かしわ記念](../Page/かしわ記念.md "wikilink")**3回、**[JBCクラシック](../Page/JBCクラシック.md "wikilink")**2回、**[帝王賞](../Page/帝王賞.md "wikilink")**、**[マイルチャンピオンシップ南部杯](../Page/マイルチャンピオンシップ南部杯.md "wikilink")**2回、**[東京大賞典](../Page/東京大賞典.md "wikilink")**、[兵庫チャンピオンシップ](../Page/兵庫チャンピオンシップ.md "wikilink")、[東海ステークス](../Page/東海ステークス.md "wikilink")）\[10\]
+  - コパノジングー（[目黒記念](../Page/目黒記念.md "wikilink")）\[11\]
+  - [ラブイズブーシェ](https://ja.wikipedia.org/wiki/ラブイズブーシェ "wikilink")（[函館記念](../Page/函館記念.md "wikilink")）\[12\]
+  - [コパノキッキング](https://ja.wikipedia.org/wiki/コパノキッキング "wikilink") （[カペラステークス](../Page/カペラステークス.md "wikilink")2回、[根岸ステークス](../Page/根岸ステークス.md "wikilink")、東京盃）
 
 #### 地方重賞優勝馬
 
-  - コパノカチドキ（[瑞穂賞](https://ja.wikipedia.org/wiki/瑞穂賞 "wikilink")、[道営記念](https://ja.wikipedia.org/wiki/道営記念 "wikilink")、[ステイヤーズカップ](https://ja.wikipedia.org/wiki/ステイヤーズカップ "wikilink")）\[13\]
+  - コパノカチドキ（[瑞穂賞](../Page/瑞穂賞.md "wikilink")、[道営記念](../Page/道営記念.md "wikilink")、[ステイヤーズカップ](../Page/ステイヤーズカップ.md "wikilink")）\[13\]
   - コパノマユチャン（[栗駒賞](https://ja.wikipedia.org/wiki/栗駒賞 "wikilink")）\[14\]
   - キモンレッド（[トウケイニセイ記念](../Page/トウケイニセイ記念.md "wikilink")）\[15\]
   - ラブミープラチナ（[OROターフスプリント](https://ja.wikipedia.org/wiki/OROターフスプリント "wikilink")）\[16\]
@@ -107,9 +107,9 @@
   - キモンエンジェル（鞆の浦賞）\[18\]
   - コパノエクスプレス（[黒潮菊花賞](../Page/黒潮菊花賞.md "wikilink")、[土佐秋月賞](https://ja.wikipedia.org/wiki/土佐秋月賞 "wikilink")、嘉瀬川賞、黒髪山賞）\[19\]
   - ハカタドンタク（やまびこ賞、はまなす賞、[オパールカップ](../Page/オパールカップ.md "wikilink")）\[20\]
-  - ミータロー（[北海優駿](https://ja.wikipedia.org/wiki/北海優駿 "wikilink")）\[21\]
+  - ミータロー（[北海優駿](../Page/北海優駿.md "wikilink")）\[21\]
   - コパノバウンシ（[日高賞](https://ja.wikipedia.org/wiki/日高賞 "wikilink")）\[22\]
-  - ラブミーブルー（[ブロッサムカップ](https://ja.wikipedia.org/wiki/ブロッサムカップ "wikilink")、[北斗盃](https://ja.wikipedia.org/wiki/北斗盃 "wikilink")）\[23\]
+  - ラブミーブルー（[ブロッサムカップ](https://ja.wikipedia.org/wiki/ブロッサムカップ "wikilink")、[北斗盃](../Page/北斗盃.md "wikilink")）\[23\]
   - コパノハート（[フルールカップ](https://ja.wikipedia.org/wiki/フルールカップ "wikilink")）\[24\]
   - キモンイーグル（若鮎賞）\[25\]
   - キモンクラブ（[土佐春花賞](https://ja.wikipedia.org/wiki/土佐春花賞 "wikilink")）\[26\]

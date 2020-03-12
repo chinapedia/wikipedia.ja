@@ -5,7 +5,7 @@
 
 [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に、アメリカの玩具メーカーである[ケナー・プロダクツの](https://ja.wikipedia.org/wiki/:en:Kenner_Products "wikilink")[フィギュア](../Page/フィギュア.md "wikilink")シリーズの宣伝のために製作されたアニメ番組である。制作はアメリカとフランスに拠点を持つ[DICで](https://ja.wikipedia.org/wiki/:en:DIC_Entertainment "wikilink")、アニメーションの実製作は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で行なわれた。1話25分で全75話。
 
-アメリカでは、[USAネットワーク](https://ja.wikipedia.org/wiki/USAネットワーク "wikilink")にて1985年から[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")まで放送された。フィギュアシリーズは1988年まで4シーズン続いたが、アニメ化されたのは最初の2シーズンのみであった。 正義の集団『マスク』（**M.A.S.K.**、*Mobile Armored Strike Kommand* ）による犯罪組織『ベノム』（**V.E.N.O.M.**、*Vicious Evil Network of Mayhem* ）の取り締まりを描く。両者は特殊な[マスク](https://ja.wikipedia.org/wiki/マスク "wikilink")を被ることによりスーパーパワーを編み出し\[1\]、搭乗する車両や船、ヘリコプターなどの乗り物がそれに呼応し変形する。
+アメリカでは、[USAネットワーク](../Page/USAネットワーク.md "wikilink")にて1985年から[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")まで放送された。フィギュアシリーズは1988年まで4シーズン続いたが、アニメ化されたのは最初の2シーズンのみであった。 正義の集団『マスク』（**M.A.S.K.**、*Mobile Armored Strike Kommand* ）による犯罪組織『ベノム』（**V.E.N.O.M.**、*Vicious Evil Network of Mayhem* ）の取り締まりを描く。両者は特殊な[マスク](../Page/マスク.md "wikilink")を被ることによりスーパーパワーを編み出し\[1\]、搭乗する車両や船、ヘリコプターなどの乗り物がそれに呼応し変形する。
 
 因みにサンダーホークとは後述のマット・トラッカーの専用可変メカの名称である。
 
@@ -98,14 +98,14 @@
 
   - 企画：片山哲生
   - キャラクターデザイン：[清山滋崇](https://ja.wikipedia.org/wiki/清山滋崇 "wikilink")
-  - メカニカルデザイン：[荒牧伸志](https://ja.wikipedia.org/wiki/荒牧伸志 "wikilink")
-  - 絵コンテ：望月敬一郎、[滝沢敏文](https://ja.wikipedia.org/wiki/滝沢敏文 "wikilink")
+  - メカニカルデザイン：[荒牧伸志](../Page/荒牧伸志.md "wikilink")
+  - 絵コンテ：望月敬一郎、[滝沢敏文](../Page/滝沢敏文.md "wikilink")
   - 作画監督：[寺田和男](https://ja.wikipedia.org/wiki/寺田和男 "wikilink")
   - 原画：小泉謙三、大宅幸男
-  - カメラ：都島雅義、[トランス・アーツ](https://ja.wikipedia.org/wiki/トランス・アーツ "wikilink")
+  - カメラ：都島雅義、[トランス・アーツ](../Page/トランス・アーツ.md "wikilink")
   - 編集：逸見俊隆、西出栄子
-  - 音楽：[ハイム・サバン](https://ja.wikipedia.org/wiki/ハイム・サバン "wikilink")、[シュキ・レヴィ](https://ja.wikipedia.org/wiki/シュキ・レヴィ "wikilink")
-  - 制作協力：C\&Dアジア、スタジオ・ワールド、[葦プロダクション](https://ja.wikipedia.org/wiki/葦プロダクション "wikilink")
+  - 音楽：[ハイム・サバン](../Page/ハイム・サバン.md "wikilink")、[シュキ・レヴィ](../Page/シュキ・レヴィ.md "wikilink")
+  - 制作協力：C\&Dアジア、スタジオ・ワールド、[葦プロダクション](../Page/葦プロダクション.md "wikilink")
   - プロデューサー：片山哲生
 
 ## 評価

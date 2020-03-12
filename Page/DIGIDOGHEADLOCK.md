@@ -5,15 +5,15 @@
 
 ## 背景
 
-アルバム『[THE MAD CAPSULE MARKET'S](https://ja.wikipedia.org/wiki/THE_MAD_CAPSULE_MARKET'S_\(アルバム\) "wikilink")』（[1996年](../Page/1996年.md "wikilink")）リリース後、ギタリストであったISHIG∀KIが脱退し、同バンドはギタリスト不在のまま3人編成となる。サポートギタリストとして元[THE STAR CLUBのTORUxxxが参加する事となり](../Page/THE_STAR_CLUB.md "wikilink")、以後2004年まで継続する事となる。
+アルバム『[THE MAD CAPSULE MARKET'S](../Page/THE_MAD_CAPSULE_MARKET'S_\(アルバム\).md "wikilink")』（[1996年](../Page/1996年.md "wikilink")）リリース後、ギタリストであったISHIG∀KIが脱退し、同バンドはギタリスト不在のまま3人編成となる。サポートギタリストとして元[THE STAR CLUBのTORUxxxが参加する事となり](../Page/THE_STAR_CLUB.md "wikilink")、以後2004年まで継続する事となる。
 
 同年12月10日には、初の主催イベントとなる「MAD HOUSE」を実施、翌1997年3月14日にはテキサス・オースティンで開催されたイベントライブ「SXSW'97」に参加する。
 
-7月24日、25日には[レイジ・アゲインスト・ザ・マシーン](https://ja.wikipedia.org/wiki/レイジ・アゲインスト・ザ・マシーン "wikilink")の初来日公演のオープニングアクトを担当し、26日には外部主催イベントとしては初公演となる「[フジロックフェスティバル'97](https://ja.wikipedia.org/wiki/フジロック・フェスティバル "wikilink")」に参加する。
+7月24日、25日には[レイジ・アゲインスト・ザ・マシーン](../Page/レイジ・アゲインスト・ザ・マシーン.md "wikilink")の初来日公演のオープニングアクトを担当し、26日には外部主催イベントとしては初公演となる「[フジロックフェスティバル'97](https://ja.wikipedia.org/wiki/フジロック・フェスティバル "wikilink")」に参加する。
 
 この頃の状況を[上田剛士](../Page/上田剛士.md "wikilink")は、「何しろライブ。ライブをすごいやりたい時期だったよね。3人になってTORUにサポートってカタチで手伝ってもらうようになって。すごく自分らの方向性がシンプルにわかって、もう迷いなくそっちに向かってってる感じだった」、「だんだんライブが楽しくなってきた感じはあったよね。やりたいことがはっきりしてたから、演奏することが楽しかった」と語っている\[1\]。
 
-また、同時期にビクターエンターテインメントの[Invitationから](../Page/Invitation_\(レーベル\).md "wikilink")[SPEEDSTAR RECORDSへとレーベルを移籍し](https://ja.wikipedia.org/wiki/SPEEDSTAR_RECORDS "wikilink")、移籍第一弾として8月21日にシングル「SYSTEMATIC.」をリリース、9月にはニューヨークで開催されたイベントライブ「CMJ'97」に参加、同時期に本作はレコーディングされた。
+また、同時期にビクターエンターテインメントの[Invitationから](../Page/Invitation_\(レーベル\).md "wikilink")[SPEEDSTAR RECORDSへとレーベルを移籍し](../Page/SPEEDSTAR_RECORDS.md "wikilink")、移籍第一弾として8月21日にシングル「SYSTEMATIC.」をリリース、9月にはニューヨークで開催されたイベントライブ「CMJ'97」に参加、同時期に本作はレコーディングされた。
 
 ## 録音
 
@@ -37,7 +37,7 @@ MOTOKATSUは後にリリースされたベストアルバム『[1997-2004](https
 
 ## リリース
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月26日](../Page/9月26日.md "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")の[スピードスター・レコードよりリリースされた](https://ja.wikipedia.org/wiki/SPEEDSTAR_RECORDS "wikilink")。また、アナログ盤も同時リリースされているが、6曲のみの収録となっている。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月26日](../Page/9月26日.md "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")の[スピードスター・レコードよりリリースされた](../Page/SPEEDSTAR_RECORDS.md "wikilink")。また、アナログ盤も同時リリースされているが、6曲のみの収録となっている。
 
 本作は日本国外でもリリースされており、1998年10月27日にはアメリカ合衆国でWhat's Upより、同年にイギリスではJVC Musicよりリリースされている。また、それぞれが日本版と異なるジャケットの色になっている他、異なるボーナストラックが収録されている。
 
@@ -92,7 +92,7 @@ MOTOKATSUは後にリリースされたベストアルバム『[1997-2004](https
 ### THE MAD CAPSULE MARKET'S
 
   - KYONO - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
-  - TAKESHI "￥" UEDA - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、[ギター](../Page/ギター.md "wikilink")、[プログラミング](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")、ボーカル
+  - TAKESHI "￥" UEDA - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[ギター](../Page/ギター.md "wikilink")、[プログラミング](../Page/ミュージックシーケンサー.md "wikilink")、ボーカル
   - [MOTOKATSU](../Page/宮上元克.md "wikilink") - [ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")、プログラミング
 
 ### 参加ミュージシャン
@@ -107,12 +107,12 @@ MOTOKATSUは後にリリースされたベストアルバム『[1997-2004](https
 
   - THE MAD CAPSULE MARKET'S - プロデューサー
   - ギャリー・スタウト - ミックス・エンジニア
-  - 瀬山淳一（EGGS & SHEPスタジオ） - [レコーディング・エンジニア](https://ja.wikipedia.org/wiki/レコーディング・エンジニア "wikilink")
+  - 瀬山淳一（EGGS & SHEPスタジオ） - [レコーディング・エンジニア](../Page/レコーディング・エンジニア.md "wikilink")
   - 中島次郎（EGGS & SHEPスタジオ） - アシスタント・エンジニア
   - 村上正信 - アシスタント・エンジニア（ビクタースタジオ）
   - 徳永陽一 - アシスタント・エンジニア（セディックスタジオ）
   - 佐藤宏明 - アシスタント・エンジニア（ランドマークスタジオ）
-  - 山崎和重 - [マスタリング・エンジニア](https://ja.wikipedia.org/wiki/マスタリング・エンジニア "wikilink")（ビクタースタジオ）
+  - 山崎和重 - [マスタリング・エンジニア](../Page/マスタリング・エンジニア.md "wikilink")（ビクタースタジオ）
   - HIRO - ドラム・サウンド・コーディネーション
   - おおまちあきら - ベース&ギター・サウンド・コーディネーション
   - やじまじゅんいち - インストゥルメント・テク
@@ -128,7 +128,7 @@ MOTOKATSUは後にリリースされたベストアルバム『[1997-2004](https
   - 小野朗（ビクター・スピードスター） - プロモーション・ヘッド・スタッフ
   - 田中智子（ビクター・スピードスター） - プロモーション・デスク
   - 山本雅美（ビクター・スピードスター） - セールス・ヘッド・スタッフ
-  - [後藤由多加](https://ja.wikipedia.org/wiki/後藤由多加 "wikilink")（ユイ音楽工房） - [エグゼクティブ・プロデューサー](https://ja.wikipedia.org/wiki/エグゼクティブ・プロデューサー "wikilink")
+  - [後藤由多加](https://ja.wikipedia.org/wiki/後藤由多加 "wikilink")（ユイ音楽工房） - [エグゼクティブ・プロデューサー](../Page/エグゼクティブ・プロデューサー.md "wikilink")
   - 高垣健（ビクター・スピードスター） - エグゼクティブ・プロデューサー
   - [土井宏明](https://ja.wikipedia.org/wiki/土井宏明 "wikilink") (POSITRON) - アート・ディレクション
   - オカモトケンジ - [コンピュータグラフィックス](../Page/コンピュータグラフィックス.md "wikilink")
@@ -142,7 +142,7 @@ MOTOKATSUは後にリリースされたベストアルバム『[1997-2004](https
   - CISCO AOKI - サンクス
   - [AUDIO ACTIVE](https://ja.wikipedia.org/wiki/audio_active "wikilink") - サンクス
   - 山根克巳 (LIQUIDROOM) - サンクス
-  - [FENDER JAPAN.LTD](https://ja.wikipedia.org/wiki/フェンダー_\(楽器メーカー\) "wikilink") - サンクス
+  - [FENDER JAPAN.LTD](../Page/フェンダー_\(楽器メーカー\).md "wikilink") - サンクス
   - LUDWIG - 野中貿易 - サンクス
   - エレクトロ・ハーモニクス - サンクス
   - [モリダイラ楽器](https://ja.wikipedia.org/wiki/モリダイラ楽器 "wikilink") - サンクス
@@ -158,7 +158,7 @@ MOTOKATSUは後にリリースされたベストアルバム『[1997-2004](https
 <th><p>国名</p></th>
 <th><p><a href="../Page/レコードレーベル.md" title="wikilink">レーベル</a></p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>最高順位</p></th>
 <th><p>備考</p></th>
 </tr>

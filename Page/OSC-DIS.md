@@ -1,7 +1,7 @@
 > この記事は[OSC-DIS](https://ja.wikipedia.org/wiki/OSC-DIS)から翻訳されています。
 
 
-『**OSC-DIS (OSCILLATOR IN DISTORTION)**』（オーエスシー・ディーアイエス - オシレーター・イン・ディストーション）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")である[THE MAD CAPSULE MARKETSの](https://ja.wikipedia.org/wiki/THE_MAD_CAPSULE_MARKETS "wikilink")8枚目のアルバム。
+『**OSC-DIS (OSCILLATOR IN DISTORTION)**』（オーエスシー・ディーアイエス - オシレーター・イン・ディストーション）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")である[THE MAD CAPSULE MARKETSの](../Page/THE_MAD_CAPSULE_MARKETS.md "wikilink")8枚目のアルバム。
 
 前作『[DIGIDOGHEADLOCK](../Page/DIGIDOGHEADLOCK.md "wikilink")』（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")）よりおよそ2年振りとなるアルバムであり、[1999年](../Page/1999年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")に[スピードスター・レコードよりリリースされた](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")。作詞は[KYONO](../Page/KYONO.md "wikilink")とTAKESHI UEDA（[上田剛士](../Page/上田剛士.md "wikilink")）によって単独あるいは共作にて行われ、作曲はほぼ全曲が上田が担当しており、一部の曲ではKYONOおよびTHE MAD CAPSULE MARKETSとしての共作となっている他、プロデューサーのクレジットはTHE MAD CAPSULE MARKETSとなっている。
 
@@ -17,12 +17,12 @@
 2.  **OUT/DEFINITION**
 3.  **|￣|_ (PULSE)**
       -
-        先行シングル。タイトルは記号になっており、[矩形波](https://ja.wikipedia.org/wiki/矩形波 "wikilink")を表している。また、全編CGによるPVも制作されている。
+        先行シングル。タイトルは記号になっており、[矩形波](../Page/矩形波.md "wikilink")を表している。また、全編CGによるPVも制作されている。
 4.  **MULTIPLIES**
 5.  **MOB TRACK**
 6.  **ALL THE TIME IN SUNNY BEACH**
       -
-        PVが制作されており、[パンクラス](https://ja.wikipedia.org/wiki/パンクラス "wikilink")所属の格闘家である[謙吾](https://ja.wikipedia.org/wiki/謙吾 "wikilink")が出演している。
+        PVが制作されており、[パンクラス](../Page/パンクラス.md "wikilink")所属の格闘家である[謙吾](../Page/謙吾.md "wikilink")が出演している。
 7.  **ISLAND**
 8.  **RESTART\!**
 9.  **JAG**
@@ -30,20 +30,20 @@
         シングル「|￣|_ (PULSE)」のカップリング曲。シングルとはバージョンが異なる。
 10. **STEP INTO YOURSELF**
       -
-        後にシングルカットされた「GOOD GIRL」のカップリング曲として、[DJ KRUSHが結成したユニット](https://ja.wikipedia.org/wiki/DJ_KRUSH "wikilink")「[流](https://ja.wikipedia.org/wiki/流_\(音楽ユニット\) "wikilink")」による[リミックス](https://ja.wikipedia.org/wiki/リミックス "wikilink")バージョンが収録された。
+        後にシングルカットされた「GOOD GIRL」のカップリング曲として、[DJ KRUSHが結成したユニット](../Page/DJ_KRUSH.md "wikilink")「[流](../Page/流_\(音楽ユニット\).md "wikilink")」による[リミックス](../Page/リミックス.md "wikilink")バージョンが収録された。
 11. **GOOD GIRL<small>〜Dedicated to bride 20 years after</small>**
       -
         MOTOKATSU（ドラムス）の娘が誕生した際にTAKESHI（ベース）が作って捧げた楽曲。元サッカー日本代表選手[中田英寿](../Page/中田英寿.md "wikilink")が出演したアサヒ飲料「SWITCH（スウィッチ）」のCMに使用された。後にシングルカットもされ、PVも制作された(前後に出てくる小さい女の子が実際のMOTOKATSUの娘である)。シングルバージョンはアルバムとは異なり、イントロの少女のセリフがなくなり、また最後のセリフも削除された。
 12. **MIDI SURF**
       -
-        前年にリリースされたシングル曲。[スケートボード](https://ja.wikipedia.org/wiki/スケートボード "wikilink")をモチーフにしたPVも制作されている。
+        前年にリリースされたシングル曲。[スケートボード](../Page/スケートボード.md "wikilink")をモチーフにしたPVも制作されている。
 
 ## スタッフ・クレジット
 
 ### THE MAD CAPSULE MARKETS
 
   - KYONO - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
-  - [TAKESHI UEDA](../Page/上田剛士.md "wikilink")- [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、[プログラミング](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")、ボーカル
+  - [TAKESHI UEDA](../Page/上田剛士.md "wikilink")- [ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[プログラミング](../Page/ミュージックシーケンサー.md "wikilink")、ボーカル
   - [MOTOKATSU MIYAGAMI](../Page/宮上元克.md "wikilink") - [ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")、プログラミング
 
 ### 参加ミュージシャン
@@ -51,16 +51,16 @@
   - TORU××× - (ex star club, L.O.T) - [ギター](../Page/ギター.md "wikilink")、バッキング・ボーカル
   - 草間敬 (KURID INT'L) - プログラミング
   - HIROSUKE ([BALZAC](../Page/BALZAC.md "wikilink")) - [コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")（6曲目）
-  - [遠藤憲昭](https://ja.wikipedia.org/wiki/遠藤憲昭 "wikilink") - コーラス（8曲目）
+  - [遠藤憲昭](../Page/遠藤憲昭.md "wikilink") - コーラス（8曲目）
   - YAMADA (GERONIMO) - コーラス（4曲目）
 
 ### スタッフ
 
   - THE MAD CAPSULE MARKETS - プロデューサー
-  - KONIYANG (KURID INT'L) - [レコーディング・エンジニア](https://ja.wikipedia.org/wiki/レコーディング・エンジニア "wikilink")、ミックス・エンジニア
+  - KONIYANG (KURID INT'L) - [レコーディング・エンジニア](../Page/レコーディング・エンジニア.md "wikilink")、ミックス・エンジニア
   - 根本宏 - アシスタント・エンジニア
   - 田中大樹（河口湖スタジオ） - アシスタント・エンジニア
-  - 山崎和重（ビクタースタジオ） - [マスタリング・エンジニア](https://ja.wikipedia.org/wiki/マスタリング・エンジニア "wikilink")
+  - 山崎和重（ビクタースタジオ） - [マスタリング・エンジニア](../Page/マスタリング・エンジニア.md "wikilink")
   - 八島順一 - インストゥルメント・テク
   - かねことしひろ - ベース&ギター・テク
   - KATSUYA - 補作詞（1 - 5,7,9曲目）
@@ -72,7 +72,7 @@
   - 山本雅美（ビクター・スピードスター） - セールス・ヘッド・スタッフ
   - よこやまふみこ (DESTROYDER) - マネージメント・デスク
   - 田中智子（ビクター・スピードスター） - プロモーション・デスク
-  - 田中義則 (DESTROYDER) - [エグゼクティブ・プロデューサー](https://ja.wikipedia.org/wiki/エグゼクティブ・プロデューサー "wikilink")
+  - 田中義則 (DESTROYDER) - [エグゼクティブ・プロデューサー](../Page/エグゼクティブ・プロデューサー.md "wikilink")
   - 高垣健（ビクター・スピードスター） - エグゼクティブ・プロデューサー
   - [後藤由多加](https://ja.wikipedia.org/wiki/後藤由多加 "wikilink") - KING OF DESTROYDER
   - [土井宏明](https://ja.wikipedia.org/wiki/土井宏明 "wikilink") (POSITRON) - アート・ディレクション、デザイン
@@ -82,7 +82,7 @@
 
 <!-- end list -->
 
-  - [FENDER JAPAN.LTD](https://ja.wikipedia.org/wiki/フェンダー_\(楽器メーカー\) "wikilink") - サンクス
+  - [FENDER JAPAN.LTD](../Page/フェンダー_\(楽器メーカー\).md "wikilink") - サンクス
   - LUDWIG - 野中貿易 - サンクス
   - [モリダイラ楽器](https://ja.wikipedia.org/wiki/モリダイラ楽器 "wikilink") - サンクス
   - ヘイマーUSA - サンクス
@@ -96,13 +96,13 @@
   - 67mission - サンクス
   - RPM WORKS - サンクス
   - KATIE - サンクス
-  - [リーバイス](https://ja.wikipedia.org/wiki/リーバイス "wikilink") - サンクス
+  - [リーバイス](../Page/リーバイス.md "wikilink") - サンクス
   - BACHI - サンクス
   - Akio E-da - サンクス
 
 <!-- end list -->
 
-  - [エイドリアン・シャーウッド](https://ja.wikipedia.org/wiki/エイドリアン・シャーウッド "wikilink") - スペシャル・サンクス
+  - [エイドリアン・シャーウッド](../Page/エイドリアン・シャーウッド.md "wikilink") - スペシャル・サンクス
   - [AGGRESSIVE DOGS](https://ja.wikipedia.org/wiki/AGGRESSIVE_DOGS_a.k.a_UZI-ONE "wikilink") - スペシャル・サンクス
   - アレック・エンパイア - スペシャル・サンクス
   - [アタリ・ティーンエイジ・ライオット](../Page/アタリ・ティーンエイジ・ライオット.md "wikilink") - スペシャル・サンクス
@@ -112,52 +112,52 @@
   - [COCOBAT](https://ja.wikipedia.org/wiki/cocobat "wikilink") - スペシャル・サンクス
   - CRASH (KOREA) - スペシャル・サンクス
   - クリーピークロール - スペシャル・サンクス
-  - [フィア・ファクトリー](https://ja.wikipedia.org/wiki/フィア・ファクトリー "wikilink") - スペシャル・サンクス
+  - [フィア・ファクトリー](../Page/フィア・ファクトリー.md "wikilink") - スペシャル・サンクス
   - [G.B.H.](../Page/G.B.H._\(バンド\).md "wikilink") - スペシャル・サンクス
   - GERONIMO - スペシャル・サンクス
   - GMF - スペシャル・サンクス
   - [GOOFY'S HOLIDAY](https://ja.wikipedia.org/wiki/GOOFY'S_HOLIDAY "wikilink") - スペシャル・サンクス
   - [ヘルメット](https://ja.wikipedia.org/wiki/ヘルメット_\(バンド\) "wikilink") - スペシャル・サンクス
-  - [HUSKING BEE](https://ja.wikipedia.org/wiki/HUSKING_BEE "wikilink") - スペシャル・サンクス
+  - [HUSKING BEE](../Page/HUSKING_BEE.md "wikilink") - スペシャル・サンクス
   - JELLY BELLY - スペシャル・サンクス
-  - [KEMURI](https://ja.wikipedia.org/wiki/Kemuri "wikilink") - スペシャル・サンクス
+  - [KEMURI](../Page/Kemuri.md "wikilink") - スペシャル・サンクス
   - ノックアウトパンチャー - スペシャル・サンクス
   - [ロリータ18号](../Page/ロリータ18号.md "wikilink") - スペシャル・サンクス
   - NUMB NUMB DREXEL - スペシャル・サンクス
   - ピッチシフター - スペシャル・サンクス
-  - [レイジ・アゲインスト・ザ・マシーン](https://ja.wikipedia.org/wiki/レイジ・アゲインスト・ザ・マシーン "wikilink") - スペシャル・サンクス
+  - [レイジ・アゲインスト・ザ・マシーン](../Page/レイジ・アゲインスト・ザ・マシーン.md "wikilink") - スペシャル・サンクス
   - レッドマンモス - スペシャル・サンクス
-  - [スケボーキング](https://ja.wikipedia.org/wiki/スケボーキング "wikilink") - スペシャル・サンクス
+  - [スケボーキング](../Page/スケボーキング.md "wikilink") - スペシャル・サンクス
   - [SLANG](https://ja.wikipedia.org/wiki/SLANG "wikilink") - スペシャル・サンクス
   - SOBUT - スペシャル・サンクス
   - スペースコンバイン - スペシャル・サンクス
   - スーパーハイプ - スペシャル・サンクス
   - SUCK DOWN - スペシャル・サンクス
   - [SWITCH STYLE](https://ja.wikipedia.org/wiki/Switch_Style "wikilink") - スペシャル・サンクス
-  - [山嵐](https://ja.wikipedia.org/wiki/山嵐_\(バンド\) "wikilink") - スペシャル・サンクス
-  - [ゼブラヘッド](https://ja.wikipedia.org/wiki/ゼブラヘッド "wikilink") - スペシャル・サンクス
+  - [山嵐](../Page/山嵐_\(バンド\).md "wikilink") - スペシャル・サンクス
+  - [ゼブラヘッド](../Page/ゼブラヘッド.md "wikilink") - スペシャル・サンクス
   - ゾーン・オブ・コントロール - スペシャル・サンクス
 
 <!-- end list -->
 
   - ANIKI HARA - スペシャル・サンクス
   - ASAYAMA - スペシャル・サンクス
-  - [ブライアン・バートンルイス](https://ja.wikipedia.org/wiki/ブライアン・バートンルイス "wikilink") - スペシャル・サンクス
+  - [ブライアン・バートンルイス](../Page/ブライアン・バートンルイス.md "wikilink") - スペシャル・サンクス
   - カックル&マーク&キース・カフーン - スペシャル・サンクス
   - DJ DAI-CHAN (OKINAWA) - スペシャル・サンクス
   - FUKU-CHAN (KIMMY) - スペシャル・サンクス
   - [ジョージ・ウィリアムズ](../Page/ジョージ・ウィリアムズ_\(タレント\).md "wikilink") - スペシャル・サンクス
   - 有島博志 - スペシャル・サンクス
   - ジョセフ・J・キム - スペシャル・サンクス
-  - [鮎貝健](https://ja.wikipedia.org/wiki/鮎貝健 "wikilink") - スペシャル・サンクス
+  - [鮎貝健](../Page/鮎貝健.md "wikilink") - スペシャル・サンクス
   - アナザワケンジ - スペシャル・サンクス
   - KENJI (UP HOLD) - スペシャル・サンクス
-  - [渡部謙吾](https://ja.wikipedia.org/wiki/謙吾 "wikilink")（[パンクラス](https://ja.wikipedia.org/wiki/パンクラス "wikilink")） - スペシャル・サンクス
+  - [渡部謙吾](../Page/謙吾.md "wikilink")（[パンクラス](../Page/パンクラス.md "wikilink")） - スペシャル・サンクス
   - MATSUNAGA (FLEX VW CENTER) - スペシャル・サンクス
   - 村上正信 - スペシャル・サンクス
   - NOBUO & TOSHI - スペシャル・サンクス
   - [冠徹弥](https://ja.wikipedia.org/wiki/冠徹弥 "wikilink") (クレイジー・カウボーイ & SO WHAT?) - スペシャル・サンクス
-  - [高阪剛](https://ja.wikipedia.org/wiki/高阪剛 "wikilink")（[リングス](https://ja.wikipedia.org/wiki/リングス "wikilink")ジャパン） - スペシャル・サンクス
+  - [高阪剛](../Page/高阪剛.md "wikilink")（[リングス](../Page/リングス.md "wikilink")ジャパン） - スペシャル・サンクス
   - デイヴ&ジョン（トゥー・ボール・ルー） - スペシャル・サンクス
   - 4106 ([SCAFULL KING](https://ja.wikipedia.org/wiki/SCAFULL_KING "wikilink")) - スペシャル・サンクス
 
@@ -187,7 +187,7 @@
 <th><p>国名</p></th>
 <th><p><a href="../Page/レコードレーベル.md" title="wikilink">レーベル</a></p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>最高順位</p></th>
 <th><p>備考</p></th>
 </tr>

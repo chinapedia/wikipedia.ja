@@ -1,22 +1,22 @@
 > この記事は[GoGoZ](https://ja.wikipedia.org/wiki/GoGoZ)から翻訳されています。
 
 
-『**クイズGoGo\!Z**』（クイズゴーゴー ゼット）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[4月16日](https://ja.wikipedia.org/wiki/4月16日 "wikilink")から[1996年](../Page/1996年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")まで[毎日放送で放送されていた](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")である。放送時間は毎週[日曜](../Page/日曜日.md "wikilink") 12:54 - 13:54 （[日本標準時](../Page/日本標準時.md "wikilink")）。
+『**クイズGoGo\!Z**』（クイズゴーゴー ゼット）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[4月16日](../Page/4月16日.md "wikilink")から[1996年](../Page/1996年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")まで[毎日放送で放送されていた](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")である。放送時間は毎週[日曜](../Page/日曜日.md "wikilink") 12:54 - 13:54 （[日本標準時](../Page/日本標準時.md "wikilink")）。
 
 ## 概要
 
 毎回25人の一般参加者が[西川のりお](../Page/西川のりお.md "wikilink")と[ぜんじろう](../Page/ぜんじろう.md "wikilink")扮する「おじゃまブラザーズ」の妨害をくぐりぬけ、賞金の獲得を目指すという[視聴者参加型のクイズ番組である](https://ja.wikipedia.org/wiki/視聴者参加型番組 "wikilink")。合言葉は「みんなで稼いで、仲間割れ！」。
 
-かつて自局で放送されていた『[クイズMr.ロンリー](https://ja.wikipedia.org/wiki/クイズMr.ロンリー "wikilink")2』などと同様、殆どの回では[女子大生](https://ja.wikipedia.org/wiki/女子大生 "wikilink")が参加していた。また、[女子高生](https://ja.wikipedia.org/wiki/女子高生 "wikilink")や大阪のおばちゃん、ラジオ番組のDJや小学生などが参加する大会も行われていた。おじゃまブラザーズは、『[関口宏の東京フレンドパークII](../Page/関口宏の東京フレンドパークII.md "wikilink")』の[ホンジャマカ](../Page/ホンジャマカ.md "wikilink")のように毎回[コスプレ](../Page/コスプレ.md "wikilink")をしたり、[着ぐるみ](../Page/着ぐるみ.md "wikilink")姿で登場したりしていた（初期には西川のりおだけがコスプレしていたが、後にぜんじろうもコスプレをするようになった）。コスプレや着ぐるみの内容は、時季に合わせたものや登場するゲストにちなんだものが主であった。
+かつて自局で放送されていた『[クイズMr.ロンリー](../Page/クイズMr.ロンリー.md "wikilink")2』などと同様、殆どの回では[女子大生](../Page/女子大生.md "wikilink")が参加していた。また、[女子高生](../Page/女子高生.md "wikilink")や大阪のおばちゃん、ラジオ番組のDJや小学生などが参加する大会も行われていた。おじゃまブラザーズは、『[関口宏の東京フレンドパークII](../Page/関口宏の東京フレンドパークII.md "wikilink")』の[ホンジャマカ](../Page/ホンジャマカ.md "wikilink")のように毎回[コスプレ](../Page/コスプレ.md "wikilink")をしたり、[着ぐるみ](../Page/着ぐるみ.md "wikilink")姿で登場したりしていた（初期には西川のりおだけがコスプレしていたが、後にぜんじろうもコスプレをするようになった）。コスプレや着ぐるみの内容は、時季に合わせたものや登場するゲストにちなんだものが主であった。
 
-この番組は基本的に[関西ローカル](https://ja.wikipedia.org/wiki/関西ローカル "wikilink")で放送されていたが、系列局の[あいテレビ](../Page/あいテレビ.md "wikilink")でも同時ネットで放送。また、[北海道放送](../Page/北海道放送.md "wikilink")（土曜日深夜（日曜日午前2時台）に）、[中部日本放送](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")（金曜日深夜）、[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")（土曜深夜0:55『[COUNT DOWN TV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")』は月曜深夜に遅れネットしていた）でも放送されていた時期がある。
+この番組は基本的に[関西ローカル](../Page/関西ローカル.md "wikilink")で放送されていたが、系列局の[あいテレビ](../Page/あいテレビ.md "wikilink")でも同時ネットで放送。また、[北海道放送](../Page/北海道放送.md "wikilink")（土曜日深夜（日曜日午前2時台）に）、[中部日本放送](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")（金曜日深夜）、[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")（土曜深夜0:55『[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")』は月曜深夜に遅れネットしていた）でも放送されていた時期がある。
 
 ## 出演者
 
 ### 司会
 
-  - [野村啓司](https://ja.wikipedia.org/wiki/野村啓司 "wikilink")（当時毎日放送アナウンサー）
-  - [高井美紀](https://ja.wikipedia.org/wiki/高井美紀 "wikilink")（毎日放送アナウンサー） - 出題担当。高井が出張などで不在の時には[武川智美](https://ja.wikipedia.org/wiki/武川智美 "wikilink")（毎日放送アナウンサー）が代理を務めていた。
+  - [野村啓司](../Page/野村啓司.md "wikilink")（当時毎日放送アナウンサー）
+  - [高井美紀](../Page/高井美紀.md "wikilink")（毎日放送アナウンサー） - 出題担当。高井が出張などで不在の時には[武川智美](../Page/武川智美.md "wikilink")（毎日放送アナウンサー）が代理を務めていた。
 
 ### おじゃまブラザーズ
 
@@ -70,7 +70,7 @@
 第3期
 
   - クイズ3つ言え
-    オープニングクイズとして行われた。文字通り3つ正解で成功すると、最初は10万円で、それ以降成功するごとに賞金は倍々に増える（20万→40万→80万→160万が上限）が、問題の難易度は次第に高くなる。30秒以内に3つ正解が出なかった時点でゲームオーバーとなり、そのあとにおじゃまブラザーズが登場する。問題を読んでいる時は「〜3つ言え。ギブ・スリー・アンサーズ」と言っていた。ちなみに成功の際のBGMは2パターンあったが、2回目以降の成功時に流れる方はかつて毎日放送でも放送されていた[CBC製作の全国ネット番組](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")『[クイズ\!おみごと日本](https://ja.wikipedia.org/wiki/クイズ!おみごと日本 "wikilink")』のCM明けに使われていたものと同じだった。
+    オープニングクイズとして行われた。文字通り3つ正解で成功すると、最初は10万円で、それ以降成功するごとに賞金は倍々に増える（20万→40万→80万→160万が上限）が、問題の難易度は次第に高くなる。30秒以内に3つ正解が出なかった時点でゲームオーバーとなり、そのあとにおじゃまブラザーズが登場する。問題を読んでいる時は「〜3つ言え。ギブ・スリー・アンサーズ」と言っていた。ちなみに成功の際のBGMは2パターンあったが、2回目以降の成功時に流れる方はかつて毎日放送でも放送されていた[CBC製作の全国ネット番組](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")『[クイズ\!おみごと日本](../Page/クイズ!おみごと日本.md "wikilink")』のCM明けに使われていたものと同じだった。
   - 早押しクイズ
     早押し一問一答形式クイズを合計25問出題。（パート1では15問）正解すると1万円が加算されるが、不正解の場合は1万円減らされる（初期はおじゃまブラザーズが正解した場合でも1万円減らされていた。そのため、おじゃまブラザーズ側の解答席には減らされた分の金額が表示されていた）。パート1が終わるとゲストが登場しここからはおじゃまブラザーズは3人になる。その後は早押しクイズパート2になる。10問出題で1問あたりのレートは2万円になる。
   - 一発減額クイズ

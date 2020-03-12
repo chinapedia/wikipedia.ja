@@ -5,7 +5,7 @@
 
 ## 概要
 
-1999年に結成された、[MTVジャパン](https://ja.wikipedia.org/wiki/MTVジャパン "wikilink")の[VJを担当していた](https://ja.wikipedia.org/wiki/ビデオジョッキー "wikilink")[モロッコ](../Page/モロッコ.md "wikilink")と日本の[ハーフ](https://ja.wikipedia.org/wiki/ハーフ "wikilink")のAnis（vo, g）と日米ハーフのAli（b, g）による2人組の[ロック](../Page/ロック_\(音楽\).md "wikilink")・[ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")\[1\]。
+1999年に結成された、[MTVジャパン](../Page/MTVジャパン.md "wikilink")の[VJを担当していた](../Page/ビデオジョッキー.md "wikilink")[モロッコ](../Page/モロッコ.md "wikilink")と日本の[ハーフ](https://ja.wikipedia.org/wiki/ハーフ "wikilink")のAnis（vo, g）と日米ハーフのAli（b, g）による2人組の[ロック](../Page/ロック_\(音楽\).md "wikilink")・[ユニット](../Page/音楽ユニット.md "wikilink")\[1\]。
 
 ## メンバー
 
@@ -17,18 +17,18 @@
     本名：島田アニス。1975年2月23日[ロンドン](../Page/ロンドン.md "wikilink")生まれ\[2\]。父親が日本人で母親がモロッコ人のハーフ。A型。
     身長185cm。[アラビア語](../Page/アラビア語.md "wikilink")、[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")、[英語](../Page/英語.md "wikilink")、[日本語](../Page/日本語.md "wikilink")など多言語を操る[マルチリンガル](https://ja.wikipedia.org/wiki/マルチリンガル "wikilink")\[3\]。
     1994年に[ANISS](https://ja.wikipedia.org/wiki/ANISS "wikilink")として、[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")プロデュースにより、シングルCD「PRIDE」（廃盤）をリリースしている。またAnis Shimadaとしてソロでのライブ活動を行うほか、バンドBELTとしても活動。2010年秋には[ブロードウェイ・ミュージカル](https://ja.wikipedia.org/wiki/ブロードウェイ・ミュージカル "wikilink")「[レント](https://ja.wikipedia.org/wiki/レント "wikilink")」のロジャー役として舞台デビュー。
-    MTVのVJ、[モデルなどとしても活動している](https://ja.wikipedia.org/wiki/モデル_\(職業\) "wikilink")。
+    MTVのVJ、[モデルなどとしても活動している](../Page/モデル_\(職業\).md "wikilink")。
 
 <!-- end list -->
 
-  - **Ali**（アリ）：[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、[ギター](../Page/ギター.md "wikilink")
+  - **Ali**（アリ）：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[ギター](../Page/ギター.md "wikilink")
 
 <!-- end list -->
 
   -
     本名：森泉アリ。1973年2月7日[東京](../Page/東京.md "wikilink")生まれ。父親がアメリカ人で母親が日本人のハーフ。
     身長175cm。英語、日本語のハイレベルな[バイリンガル](https://ja.wikipedia.org/wiki/バイリンガル "wikilink")。母は音楽家。
-    22歳のときに、映画「[スワロウテイル](https://ja.wikipedia.org/wiki/スワロウテイル "wikilink")」に[YEN TOWN BANDのベーシスト役で出演](https://ja.wikipedia.org/wiki/YEN_TOWN_BAND "wikilink")。
+    22歳のときに、映画「[スワロウテイル](../Page/スワロウテイル.md "wikilink")」に[YEN TOWN BANDのベーシスト役で出演](../Page/YEN_TOWN_BAND.md "wikilink")。
     Anis同様、MTVのVJとしても活動。[InterFM](../Page/InterFM.md "wikilink")や有線番組等で[DJ](https://ja.wikipedia.org/wiki/DJ "wikilink")のレギュラーを持つ。
 
 ### サポートメンバー
@@ -39,17 +39,17 @@
 
   -
     2006年よりサポートギターをつとめる。愛称は「暁っす」。
-    anisとは彼のソロ活動もサポートする他、バンドBELTでも活動。[土屋アンナ](https://ja.wikipedia.org/wiki/土屋アンナ "wikilink")と[K.A.Z](https://ja.wikipedia.org/wiki/K.A.Z "wikilink")（[Oblivion Dust](https://ja.wikipedia.org/wiki/Oblivion_Dust "wikilink")、[VAMPS](https://ja.wikipedia.org/wiki/VAMPS "wikilink")）による[Spin Aquaや](https://ja.wikipedia.org/wiki/Spin_Aqua "wikilink")[DAIGO](https://ja.wikipedia.org/wiki/DAIGO "wikilink")☆STARDUSTのサポートもしていた。
+    anisとは彼のソロ活動もサポートする他、バンドBELTでも活動。[土屋アンナ](https://ja.wikipedia.org/wiki/土屋アンナ "wikilink")と[K.A.Z](https://ja.wikipedia.org/wiki/K.A.Z "wikilink")（[Oblivion Dust](https://ja.wikipedia.org/wiki/Oblivion_Dust "wikilink")、[VAMPS](https://ja.wikipedia.org/wiki/VAMPS "wikilink")）による[Spin Aquaや](../Page/Spin_Aqua.md "wikilink")[DAIGO](../Page/DAIGO.md "wikilink")☆STARDUSTのサポートもしていた。
 
 <!-- end list -->
 
-  - **[ヒラマミキオ](https://ja.wikipedia.org/wiki/ヒラマミキオ "wikilink")**：ギター
+  - **[ヒラマミキオ](../Page/ヒラマミキオ.md "wikilink")**：ギター
 
 <!-- end list -->
 
   -
     2007年よりサポートギターをつとめる。愛称は「ミッキー」。
-    元[東京事変](https://ja.wikipedia.org/wiki/東京事変 "wikilink")のメンバー。
+    元[東京事変](../Page/東京事変.md "wikilink")のメンバー。
     anisとは彼のソロ活動もサポートする他、2015年にはnigiriを結成\[4\]。
 
 <!-- end list -->
@@ -64,7 +64,7 @@
 
 <!-- end list -->
 
-  - **[ダイゴ](https://ja.wikipedia.org/wiki/ダイゴ "wikilink")**：[ドラムス](../Page/ドラムセット.md "wikilink")
+  - **[ダイゴ](../Page/ダイゴ.md "wikilink")**：[ドラムス](../Page/ドラムセット.md "wikilink")
 
 <!-- end list -->
 
@@ -91,7 +91,7 @@
 
 2005年7月、初のフル・アルバム『Petrol』をリリース。[フジロックフェスティバル'05に出演](https://ja.wikipedia.org/wiki/フジロックフェスティバル#2005年 "wikilink")。11月、[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink")（[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")）の主宰レーベル[HAUNTED RECORDSからシングル](https://ja.wikipedia.org/wiki/HAUNTED_RECORDS "wikilink")「VISIONS IN MY HEAD」をリリースし、メジャーデビューを果たす\[7\]。「VISIONS IN MY HEAD」は[中田英寿](../Page/中田英寿.md "wikilink")出演の[キヤノン](https://ja.wikipedia.org/wiki/キヤノン "wikilink") IXY DigitalのCMソングに起用され、リリース後にEbisu Liquid Roomで行われたワンマンライブは10分でSold Outとなった。
 
-2006年、[WOWOW](../Page/WOWOW.md "wikilink")で放送のSFアニメ「[Ergo Proxy](https://ja.wikipedia.org/wiki/Ergo_Proxy "wikilink")」のオープニングテーマとして楽曲「kiri」を書き下ろす。[SUMMER SONIC'06に出演](https://ja.wikipedia.org/wiki/サマーソニック "wikilink")。
+2006年、[WOWOW](../Page/WOWOW.md "wikilink")で放送のSFアニメ「[Ergo Proxy](../Page/Ergo_Proxy.md "wikilink")」のオープニングテーマとして楽曲「kiri」を書き下ろす。[SUMMER SONIC'06に出演](../Page/サマーソニック.md "wikilink")。
 
 2007年、セカンド・フル・アルバム『Turbulence』をリリース。[フジロックフェスティバル'07](https://ja.wikipedia.org/wiki/フジロックフェスティバル#2007年 "wikilink")、[ライジング・サン・ロックフェスティバル07に出演](https://ja.wikipedia.org/wiki/ライジング・サン・ロックフェスティバル#2007年 "wikilink")、初の全国ツアーを決行。
 
@@ -343,10 +343,10 @@
 
 ### タイアップ
 
-| 楽曲                 | タイアップ                                                                                                                                                  |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| VISIONS IN MY HEAD | [キヤノン](https://ja.wikipedia.org/wiki/キヤノン "wikilink")『IXY DIGITAL』CFソング                                                                                |
-| kiri               | [WOWOW](../Page/WOWOW.md "wikilink")[アニメ](../Page/アニメ.md "wikilink")『[Ergo Proxy](https://ja.wikipedia.org/wiki/Ergo_Proxy "wikilink")』オープニングテーマ\[10\] |
+| 楽曲                 | タイアップ                                                                                                                               |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
+| VISIONS IN MY HEAD | [キヤノン](https://ja.wikipedia.org/wiki/キヤノン "wikilink")『IXY DIGITAL』CFソング                                                             |
+| kiri               | [WOWOW](../Page/WOWOW.md "wikilink")[アニメ](../Page/アニメ.md "wikilink")『[Ergo Proxy](../Page/Ergo_Proxy.md "wikilink")』オープニングテーマ\[10\] |
 
 ## 脚注
 

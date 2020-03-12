@@ -1,14 +1,14 @@
 > この記事は[CHINTAI](https://ja.wikipedia.org/wiki/CHINTAI)から翻訳されています。
 
 
-**株式会社CHINTAI**（チンタイ、）は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")を拠点に、賃貸物件空室情報提供サービスを行っている企業である。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（[平成](../Page/平成.md "wikilink")17年）に、旧社名「賃貸住宅ニュース社」から改称した。
+**株式会社CHINTAI**（チンタイ、）は、[東京都](../Page/東京都.md "wikilink")を拠点に、賃貸物件空室情報提供サービスを行っている企業である。[2005年](../Page/2005年.md "wikilink")（[平成](../Page/平成.md "wikilink")17年）に、旧社名「賃貸住宅ニュース社」から改称した。
 
 ## 沿革
 
-  - [1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink") - 株式会社賃貸住宅ニュース社設立。
-  - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink") - [大阪証券取引所](https://ja.wikipedia.org/wiki/大阪証券取引所 "wikilink")[ヘラクレス市場に上場](https://ja.wikipedia.org/wiki/ヘラクレス_\(有価証券市場\) "wikilink")。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") - 現社名に改称。
-  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink") - [エイブル](https://ja.wikipedia.org/wiki/エイブル "wikilink")と11月1日をめどに[株式移転](../Page/株式移転.md "wikilink")方式で共同持ち株会社を設立すると発表\[1\]。
+  - [1992年](../Page/1992年.md "wikilink") - 株式会社賃貸住宅ニュース社設立。
+  - [2004年](../Page/2004年.md "wikilink") - [大阪証券取引所](https://ja.wikipedia.org/wiki/大阪証券取引所 "wikilink")[ヘラクレス市場に上場](https://ja.wikipedia.org/wiki/ヘラクレス_\(有価証券市場\) "wikilink")。
+  - [2005年](../Page/2005年.md "wikilink") - 現社名に改称。
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink") - [エイブル](../Page/エイブル.md "wikilink")と11月1日をめどに[株式移転](../Page/株式移転.md "wikilink")方式で共同持ち株会社を設立すると発表\[1\]。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[11月1日](../Page/11月1日.md "wikilink") - 株式移転により、エイブルCHINTAIホールディングス（現・[エイブル&パートナーズ](https://ja.wikipedia.org/wiki/エイブル&パートナーズ "wikilink")）の完全子会社となる。
 
 ## イメージキャラクター
@@ -23,12 +23,12 @@
 
 1999年8月～2001年7月
 
-  - [梅宮アンナ](https://ja.wikipedia.org/wiki/梅宮アンナ "wikilink")
+  - [梅宮アンナ](../Page/梅宮アンナ.md "wikilink")
   - [神田うの](../Page/神田うの.md "wikilink")
 
 2001年8月～2005年7月
 
-  - [陣内孝則](https://ja.wikipedia.org/wiki/陣内孝則 "wikilink")
+  - [陣内孝則](../Page/陣内孝則.md "wikilink")
 
 2005年8月～2007年7月
 
@@ -57,7 +57,7 @@
 
 2016年8月～
 
-  - [志村けん](https://ja.wikipedia.org/wiki/志村けん "wikilink")
+  - [志村けん](../Page/志村けん.md "wikilink")
 
 2017年1月～
 
@@ -75,9 +75,9 @@
 
 ## 関連項目
 
-  - [TIME FOR BRUNCH](https://ja.wikipedia.org/wiki/TIME_FOR_BRUNCH "wikilink") - 2001年8月から2013年3月まで[J-WAVE](../Page/J-WAVE.md "wikilink")で放送された同社提供のラジオ番組。
+  - [TIME FOR BRUNCH](../Page/TIME_FOR_BRUNCH.md "wikilink") - 2001年8月から2013年3月まで[J-WAVE](../Page/J-WAVE.md "wikilink")で放送された同社提供のラジオ番組。
   - [TOKYO-GRAPH](https://ja.wikipedia.org/wiki/TOKYO-GRAPH "wikilink") - 2013年4月からJ-WAVEで放送されている同社提供のラジオ番組。
-  - [ザガット・サーベイ](https://ja.wikipedia.org/wiki/ザガット・サーベイ "wikilink") - 同社出版のレストランガイド。
+  - [ザガット・サーベイ](../Page/ザガット・サーベイ.md "wikilink") - 同社出版のレストランガイド。
 
 ## 外部リンク
 

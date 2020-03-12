@@ -1,15 +1,15 @@
 > この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
 
 
-『**ポポロクロイス物語II**』（ポポロクロイスものがたりツー）は[2000年](../Page/2000年.md "wikilink")[1月27日](../Page/1月27日.md "wikilink")に[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")から発売された[PlayStation用の](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")[RPG](../Page/コンピュータRPG.md "wikilink")。「[ポポロクロイス物語](https://ja.wikipedia.org/wiki/ポポロクロイス物語 "wikilink")」ゲームシリーズ第3作目にあたる\[1\]。
+『**ポポロクロイス物語II**』（ポポロクロイスものがたりツー）は[2000年](../Page/2000年.md "wikilink")[1月27日](../Page/1月27日.md "wikilink")に[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")から発売された[PlayStation用の](../Page/PlayStation_\(ゲーム機\).md "wikilink")[RPG](../Page/コンピュータRPG.md "wikilink")。「[ポポロクロイス物語](../Page/ポポロクロイス物語.md "wikilink")」ゲームシリーズ第3作目にあたる\[1\]。
 
 ## 概要
 
-前作『[ポポローグ](https://ja.wikipedia.org/wiki/ポポローグ "wikilink")』と同じく、『[ポポロクロイス物語](https://ja.wikipedia.org/wiki/ポポロクロイス物語_\(ゲーム\) "wikilink")』の2年後からストーリーが始まる。[CD-ROM](../Page/CD-ROM.md "wikilink")3枚組で構成されている。『ポポロクロイス物語』や『ポポローグ』で集めた「[おみやげ](https://ja.wikipedia.org/wiki/ポポロクロイス物語#おみやげ "wikilink")」は[メモリーカード](../Page/メモリーカード.md "wikilink")のデータで本作に引き継ぐことが可能である。
+前作『[ポポローグ](../Page/ポポローグ.md "wikilink")』と同じく、『[ポポロクロイス物語](https://ja.wikipedia.org/wiki/ポポロクロイス物語_\(ゲーム\) "wikilink")』の2年後からストーリーが始まる。[CD-ROM](../Page/CD-ROM.md "wikilink")3枚組で構成されている。『ポポロクロイス物語』や『ポポローグ』で集めた「[おみやげ](https://ja.wikipedia.org/wiki/ポポロクロイス物語#おみやげ "wikilink")」は[メモリーカード](../Page/メモリーカード.md "wikilink")のデータで本作に引き継ぐことが可能である。
 
 『ポポロクロイス物語』で一緒に冒険をした仲間に新たなキャラクターが加わり、主要なイベントがフルボイス化された。他の特徴として、冒険する世界が広くなったことやバトルのエフェクトが派手になったこと等が挙げられるが、基本的なシステムは第1作を継承している。また、「愛」や「仲間」といったシリーズ共通のキーワードがキャラクターのセリフなどで具体的に繰り返し語られるなど、メッセージ性がより強調された作品となっている。キャッチコピーは「2人の恋に、涙がポポロ」。
 
-2007年12月26日より、[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")・[PSP向け](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")で配信が開始された。
+2007年12月26日より、[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")・[PSP向け](../Page/PlayStation_Portable.md "wikilink")[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")で配信が開始された。
 
 ## あらすじ
 
@@ -51,7 +51,7 @@
 <!-- end list -->
 
   -
-    歌：[鈴木朋](https://ja.wikipedia.org/wiki/鈴木朋 "wikilink")　作詞：[西尾佐栄子](https://ja.wikipedia.org/wiki/西尾佐栄子 "wikilink")　作曲：[佐橋佳幸](https://ja.wikipedia.org/wiki/佐橋佳幸 "wikilink")　編曲：佐橋佳幸
+    歌：[鈴木朋](../Page/鈴木朋.md "wikilink")　作詞：[西尾佐栄子](https://ja.wikipedia.org/wiki/西尾佐栄子 "wikilink")　作曲：[佐橋佳幸](../Page/佐橋佳幸.md "wikilink")　編曲：佐橋佳幸
 
 <!-- end list -->
 
@@ -74,10 +74,10 @@
 
 ## 関連項目
 
-  - [ポポロクロイス物語](https://ja.wikipedia.org/wiki/ポポロクロイス物語 "wikilink")
+  - [ポポロクロイス物語](../Page/ポポロクロイス物語.md "wikilink")
   - [ポポロクロイス物語 (ゲーム)](https://ja.wikipedia.org/wiki/ポポロクロイス物語_\(ゲーム\) "wikilink") - 前々作（「ポポロクロイス物語」ゲームシリーズの第1作目）。
-  - [ポポロクロイス物語 ピエトロ王子の冒険](https://ja.wikipedia.org/wiki/ポポロクロイス物語_ピエトロ王子の冒険 "wikilink") - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月10日](../Page/2月10日.md "wikilink")に発売された[PlayStation Portable専用ソフト](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")。本作と前々作『ポポロクロイス物語』の[リメイク](https://ja.wikipedia.org/wiki/リメイク "wikilink")（再編集）作品。
+  - [ポポロクロイス物語 ピエトロ王子の冒険](../Page/ポポロクロイス物語_ピエトロ王子の冒険.md "wikilink") - [2005年](../Page/2005年.md "wikilink")[2月10日](../Page/2月10日.md "wikilink")に発売された[PlayStation Portable専用ソフト](../Page/PlayStation_Portable.md "wikilink")。本作と前々作『ポポロクロイス物語』の[リメイク](../Page/リメイク.md "wikilink")（再編集）作品。
 
 [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:2000年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2000年のコンピュータゲーム "wikilink") [Category:ゲームアーカイブス対応ソフト](https://ja.wikipedia.org/wiki/Category:ゲームアーカイブス対応ソフト "wikilink") [Category:ポポロクロイス物語](https://ja.wikipedia.org/wiki/Category:ポポロクロイス物語 "wikilink") [Category:冒険ゲーム](https://ja.wikipedia.org/wiki/Category:冒険ゲーム "wikilink")
 
-1.  本作は同シリーズ第1作である『[ポポロクロイス物語](https://ja.wikipedia.org/wiki/ポポロクロイス物語_\(ゲーム\) "wikilink")』の直接の続編にあたるが、開発・発売の順序としては間に『[ポポローグ](https://ja.wikipedia.org/wiki/ポポローグ "wikilink")』を挟むため、通算第3作目となっている。
+1.  本作は同シリーズ第1作である『[ポポロクロイス物語](https://ja.wikipedia.org/wiki/ポポロクロイス物語_\(ゲーム\) "wikilink")』の直接の続編にあたるが、開発・発売の順序としては間に『[ポポローグ](../Page/ポポローグ.md "wikilink")』を挟むため、通算第3作目となっている。

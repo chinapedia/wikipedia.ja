@@ -1,11 +1,11 @@
 > この記事は[RADIO SESSIONS](https://ja.wikipedia.org/wiki/RADIO_SESSIONS)から翻訳されています。
 
 
-**RADIO SESSIONS**（レディオ・セッションズ）は2007年1月2日から[JFN系列で放送していた](https://ja.wikipedia.org/wiki/全国FM放送協議会 "wikilink")、週代わりでさまざまなアーティストが登場する[ラジオ番組](../Page/ラジオ番組.md "wikilink")。2012年3月分の放送で全パーソナリティーの担当番組が終了、最終回となる同最終週の『RADIO SESSIONS最終回スペシャル LAST MESSAGE』をもって終了。
+**RADIO SESSIONS**（レディオ・セッションズ）は2007年1月2日から[JFN系列で放送していた](../Page/全国FM放送協議会.md "wikilink")、週代わりでさまざまなアーティストが登場する[ラジオ番組](../Page/ラジオ番組.md "wikilink")。2012年3月分の放送で全パーソナリティーの担当番組が終了、最終回となる同最終週の『RADIO SESSIONS最終回スペシャル LAST MESSAGE』をもって終了。
 
 ## パーソナリティー
 
-  - 第1週：[バニラビーンズ](https://ja.wikipedia.org/wiki/バニラビーンズ "wikilink")
+  - 第1週：[バニラビーンズ](../Page/バニラビーンズ.md "wikilink")
   - 第2週：[DEEP](https://ja.wikipedia.org/wiki/DEEP_\(R&B\) "wikilink")
   - 第3週：[SCANDAL](https://ja.wikipedia.org/wiki/SCANDAL_\(日本のバンド\) "wikilink")
   - 第4週：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
@@ -13,13 +13,13 @@
       - 2007年1月：[UVERworld](../Page/UVERworld.md "wikilink")
       - 2007年7月：[いきものがかり](https://ja.wikipedia.org/wiki/いきものがかり "wikilink")
       - 2007年10月：[FUNKY MONKEY BABYS](https://ja.wikipedia.org/wiki/FUNKY_MONKEY_BABYS "wikilink")
-      - 2008年1月：[大橋卓弥](https://ja.wikipedia.org/wiki/大橋卓弥 "wikilink")
+      - 2008年1月：[大橋卓弥](../Page/大橋卓弥.md "wikilink")
       - 2008年4月：[JUJU](https://ja.wikipedia.org/wiki/JUJU "wikilink")
-      - 2008年7月：[佐野元春](../Page/佐野元春.md "wikilink")、[守乃ブナ](https://ja.wikipedia.org/wiki/鈴木万由香 "wikilink")
+      - 2008年7月：[佐野元春](../Page/佐野元春.md "wikilink")、[守乃ブナ](../Page/鈴木万由香.md "wikilink")
       - 2008年9月：[Do As Infinity](../Page/Do_As_Infinity.md "wikilink")
       - 2008年11月：w-inds.
-      - 2009年1月：[TERIYAKI BOYZ](https://ja.wikipedia.org/wiki/TERIYAKI_BOYZ "wikilink")
-      - 2009年5月：[MONKEY MAJIK](https://ja.wikipedia.org/wiki/MONKEY_MAJIK "wikilink")
+      - 2009年1月：[TERIYAKI BOYZ](../Page/TERIYAKI_BOYZ.md "wikilink")
+      - 2009年5月：[MONKEY MAJIK](../Page/MONKEY_MAJIK.md "wikilink")
       - 2009年8月：[abingdon boys school](https://ja.wikipedia.org/wiki/abingdon_boys_school "wikilink")
       - 2009年10月：[Aqua Timez](https://ja.wikipedia.org/wiki/Aqua_Timez "wikilink")
       - 2011年4月： [布袋寅泰](../Page/布袋寅泰.md "wikilink")
@@ -31,13 +31,13 @@
   - [ウルフルズ](../Page/ウルフルズ.md "wikilink")（第1週、2007年7月 - 2007年9月）
   - abingdon boys school（第4週、2007年1月 - 2008年3月）
   - いきものがかり（第1週、2007年10月 - 2008年4月）
-  - [ONE☆DRAFT](https://ja.wikipedia.org/wiki/ONE☆DRAFT "wikilink")（第1週、2008年5月 - 2009年3月）
-  - [中孝介](https://ja.wikipedia.org/wiki/中孝介 "wikilink")（第2週、2007年1月 - 2009年3月）
-  - [AAA](https://ja.wikipedia.org/wiki/AAA_\(音楽グループ\) "wikilink")（第3週、2007年4月 - 2009年3月）
+  - [ONE☆DRAFT](../Page/ONE☆DRAFT.md "wikilink")（第1週、2008年5月 - 2009年3月）
+  - [中孝介](../Page/中孝介.md "wikilink")（第2週、2007年1月 - 2009年3月）
+  - [AAA](../Page/AAA_\(音楽グループ\).md "wikilink")（第3週、2007年4月 - 2009年3月）
   - UVERworld（第4週、2008年4月 - 2009年3月）
   - [Lil'B](https://ja.wikipedia.org/wiki/Lil'B "wikilink")(第1週、2009年4月 - 2010年12月)
   - [COLOR](https://ja.wikipedia.org/wiki/COLOR_\(R&B\) "wikilink")(第2週、2009年4月 - ?)
-  - [橘慶太](https://ja.wikipedia.org/wiki/橘慶太 "wikilink")（[w-inds.](https://ja.wikipedia.org/wiki/w-inds. "wikilink")）(第4週、2009年4月 - 2010年12月)
+  - [橘慶太](../Page/橘慶太.md "wikilink")（[w-inds.](https://ja.wikipedia.org/wiki/w-inds. "wikilink")）(第4週、2009年4月 - 2010年12月)
 
 ## ネット局一覧
 
@@ -71,7 +71,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/山形県" title="wikilink">山形県</a></p></td>
+<td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
 <td><p><a href="../Page/エフエム山形.md" title="wikilink">エフエム山形</a> (BoyFM)</p></td>
 <td><p>日曜日19:00-19:55</p></td>
 <td></td>
@@ -90,25 +90,25 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/長野県.md" title="wikilink">長野県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長野エフエム放送" title="wikilink">長野エフエム放送</a> (FM長野)</p></td>
+<td><p><a href="../Page/長野エフエム放送.md" title="wikilink">長野エフエム放送</a> (FM長野)</p></td>
 <td><p>土曜日26:00-26:55</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/新潟県.md" title="wikilink">新潟県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エフエムラジオ新潟" title="wikilink">エフエムラジオ新潟</a> (FM-NIIGATA)</p></td>
+<td><p><a href="../Page/エフエムラジオ新潟.md" title="wikilink">エフエムラジオ新潟</a> (FM-NIIGATA)</p></td>
 <td><p>火曜日20:00-20:55</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/富山県" title="wikilink">富山県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/富山エフエム放送" title="wikilink">富山エフエム放送</a> (FMとやま)</p></td>
+<td><p><a href="../Page/富山エフエム放送.md" title="wikilink">富山エフエム放送</a> (FMとやま)</p></td>
 <td><p>日曜日22:00-22:55</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/福井県.md" title="wikilink">福井県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福井エフエム放送" title="wikilink">福井エフエム放送</a> (FM FUKUI)</p></td>
+<td><p><a href="../Page/福井エフエム放送.md" title="wikilink">福井エフエム放送</a> (FM FUKUI)</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -126,7 +126,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/大阪府" title="wikilink">大阪府</a></p></td>
+<td><p><a href="../Page/大阪府.md" title="wikilink">大阪府</a></p></td>
 <td><p><a href="../Page/エフエム大阪.md" title="wikilink">エフエム大阪</a> (FM OSAKA)</p></td>
 <td><p>日曜日20:00-20:55</p></td>
 <td><p>2008年2月～2008年11月まで：木曜日28:00-28:55<br />

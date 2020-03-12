@@ -1,19 +1,19 @@
 > この記事は[UNCHAIN](https://ja.wikipedia.org/wiki/UNCHAIN)から翻訳されています。
 
 
-**UNCHAIN**（アンチェイン）は、[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")[京丹後市](../Page/京丹後市.md "wikilink")出身の日本の4人組[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。
+**UNCHAIN**（アンチェイン）は、[京都府](../Page/京都府.md "wikilink")[京丹後市](../Page/京丹後市.md "wikilink")出身の日本の4人組[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。
 
 ## 略歴
 
-[1996年](../Page/1996年.md "wikilink")、中学の同級生であった谷川、谷、吉田の3人で結成され、後に1年後輩の佐藤が加入し現在の編成となる。後に活動の拠点を[大阪](../Page/大阪.md "wikilink")に移し、地道なライブ活動を展開する。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、ミニアルバム『the space of the sense』を発表し[インディーズ](../Page/インディーズ.md "wikilink")・デビュー。同年10月に「MINAMI WHEEL 2005」に初出演し、またミニアルバム『departure』で[メジャー・デビュー](https://ja.wikipedia.org/wiki/メジャー・デビュー "wikilink")。
+[1996年](../Page/1996年.md "wikilink")、中学の同級生であった谷川、谷、吉田の3人で結成され、後に1年後輩の佐藤が加入し現在の編成となる。後に活動の拠点を[大阪](../Page/大阪.md "wikilink")に移し、地道なライブ活動を展開する。[2005年](../Page/2005年.md "wikilink")、ミニアルバム『the space of the sense』を発表し[インディーズ](../Page/インディーズ.md "wikilink")・デビュー。同年10月に「MINAMI WHEEL 2005」に初出演し、またミニアルバム『departure』で[メジャー・デビュー](https://ja.wikipedia.org/wiki/メジャー・デビュー "wikilink")。
 
-[ジャズ](../Page/ジャズ.md "wikilink")や[ソウルミュージック](https://ja.wikipedia.org/wiki/ソウルミュージック "wikilink")などを融合させたミクスチャー・ロックサウンドが特徴。当初歌詞は全編英語詞で書かれていたが、シングル『Across The Sky』以降は、よりダイレクトにメッセージを伝えるために日本語詞による楽曲も発表されている。
+[ジャズ](../Page/ジャズ.md "wikilink")や[ソウルミュージック](../Page/ソウルミュージック.md "wikilink")などを融合させたミクスチャー・ロックサウンドが特徴。当初歌詞は全編英語詞で書かれていたが、シングル『Across The Sky』以降は、よりダイレクトにメッセージを伝えるために日本語詞による楽曲も発表されている。
 
 ## メンバー
 
   - **谷川正憲** （たにがわ まさのり、[1982年](../Page/1982年.md "wikilink")[11月14日](../Page/11月14日.md "wikilink") - 、[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")） [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ギター](../Page/ギター.md "wikilink")
   - **佐藤将文** （さとう まさふみ、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[8月16日](../Page/8月16日.md "wikilink") - 、[O型](https://ja.wikipedia.org/wiki/O型 "wikilink")） ギター・[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
-  - **谷浩彰** （たに ひろあき、[1982年](../Page/1982年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink") - 、A型） [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")・コーラス
+  - **谷浩彰** （たに ひろあき、[1982年](../Page/1982年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink") - 、A型） [ベース](../Page/ベース_\(弦楽器\).md "wikilink")・コーラス
   - **吉田昇吾** （よしだ しょうご、[1982年](../Page/1982年.md "wikilink")[4月23日](../Page/4月23日.md "wikilink") - 、[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")） [ドラム](../Page/ドラムセット.md "wikilink")、[ivory7 chordのメンバーとしても活動している](https://ja.wikipedia.org/wiki/ivory7_chord "wikilink")
 
 ## ディスコグラフィー
@@ -36,7 +36,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/6月8日.md" title="wikilink">6月8日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/6月8日.md" title="wikilink">6月8日</a></p></td>
 <td><p><strong>the space of the sense</strong></p></td>
 <td><p>OMSL-001</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -59,7 +59,7 @@
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/7月5日.md" title="wikilink">7月5日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/7月5日.md" title="wikilink">7月5日</a></p></td>
 <td><p><strong>THE MUSIC HUMANIZED IS HERE</strong></p></td>
 <td><p>OMSL-002</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -110,7 +110,7 @@
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="../Page/10月24日.md" title="wikilink">10月24日</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/10月24日.md" title="wikilink">10月24日</a></p></td>
 <td><p><strong>WE'VE GOT SOMETHING</strong></p></td>
 <td><p>RZCF-77003</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -152,7 +152,7 @@
 </tr>
 <tr class="odd">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="https://ja.wikipedia.org/wiki/12月10日" title="wikilink">12月10日</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/12月10日.md" title="wikilink">12月10日</a></p></td>
 <td><p><strong>stillness in the wind</strong></p></td>
 <td><p>RZCF-77009B</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -277,7 +277,7 @@ RZCF-77016:通常盤</p></td>
 </tr>
 <tr class="even">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="../Page/1月31日.md" title="wikilink">1月31日</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/1月31日.md" title="wikilink">1月31日</a></p></td>
 <td><p><strong>departure</strong></p></td>
 <td><p>RZCF-77001</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -298,7 +298,7 @@ RZCF-77016:通常盤</p></td>
 </tr>
 <tr class="odd">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="../Page/8月8日.md" title="wikilink">8月8日</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/8月8日.md" title="wikilink">8月8日</a></p></td>
 <td><p><strong>rejoice</strong></p></td>
 <td><p>RZCF-77002</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -333,7 +333,7 @@ RZCF-77016:通常盤</p></td>
 <li>Wonderd （UNCHAIN with 彩姫 from <a href="https://ja.wikipedia.org/wiki/BAND-MAID" title="wikilink">BAND-MAID</a>）</li>
 <li>Don't Stop （UNCHAIN with カナタケヒロ from <a href="https://ja.wikipedia.org/wiki/lego_big_morl" title="wikilink">LEGO BIG MORL</a>）</li>
 <li>浮遊 （UNCHAIN with 蒼山幸子 from <a href="https://ja.wikipedia.org/wiki/ねごと" title="wikilink">ねごと</a>）</li>
-<li>ひだまりのうた （UNCHAIN with <a href="https://ja.wikipedia.org/wiki/大石昌良" title="wikilink">大石昌良</a>）</li>
+<li>ひだまりのうた （UNCHAIN with <a href="../Page/大石昌良.md" title="wikilink">大石昌良</a>）</li>
 <li>The Kids Are Crazy</li>
 <li>Koe</li>
 </ol>
@@ -793,7 +793,7 @@ CRCP-40411:Type-B</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><a href="../Page/2013年.md" title="wikilink">2013年</a><a href="https://ja.wikipedia.org/wiki/2月6日" title="wikilink">2月6日</a></p></td>
+<td><p><a href="../Page/2013年.md" title="wikilink">2013年</a><a href="../Page/2月6日.md" title="wikilink">2月6日</a></p></td>
 <td><p><strong>Love &amp; Groove Delivery</strong></p></td>
 <td><p>YZSM-20008</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -803,14 +803,14 @@ CRCP-40411:Type-B</p></td>
 <div class="NavContent" style="text-align:left;">
 <ol>
 <li><a href="https://ja.wikipedia.org/wiki/丸ノ内サディスティック" title="wikilink">丸ノ内サディスティック</a>(オリジナル:<a href="https://ja.wikipedia.org/wiki/椎名林檎" title="wikilink">椎名林檎</a>)</li>
-<li><a href="https://ja.wikipedia.org/wiki/あいのうた_〜Swallowtail_Butterfly〜" title="wikilink">あいのうた 〜Swallowtail Butterfly〜</a>(オリジナル:<a href="https://ja.wikipedia.org/wiki/YEN_TOWN_BAND" title="wikilink">YEN TOWN BAND</a>)</li>
+<li><a href="https://ja.wikipedia.org/wiki/あいのうた_〜Swallowtail_Butterfly〜" title="wikilink">あいのうた 〜Swallowtail Butterfly〜</a>(オリジナル:<a href="../Page/YEN_TOWN_BAND.md" title="wikilink">YEN TOWN BAND</a>)</li>
 <li>BEST OF MY LOVE(オリジナル:<a href="https://ja.wikipedia.org/wiki/エモーションズ" title="wikilink">エモーションズ</a>)</li>
 <li><a href="https://ja.wikipedia.org/wiki/SUPER_GIRL_(岡村靖幸の曲)" title="wikilink">SUPER GIRL</a>(オリジナル:<a href="../Page/岡村靖幸.md" title="wikilink">岡村靖幸</a>)</li>
-<li><a href="https://ja.wikipedia.org/wiki/エイリアンズ" title="wikilink">エイリアンズ</a>(オリジナル:<a href="https://ja.wikipedia.org/wiki/キリンジ" title="wikilink">キリンジ</a>)</li>
+<li><a href="https://ja.wikipedia.org/wiki/エイリアンズ" title="wikilink">エイリアンズ</a>(オリジナル:<a href="../Page/キリンジ.md" title="wikilink">キリンジ</a>)</li>
 <li><a href="https://ja.wikipedia.org/wiki/Automatic/time_will_tell" title="wikilink">Automatic</a>(オリジナル:<a href="../Page/宇多田ヒカル.md" title="wikilink">宇多田ヒカル</a>)</li>
-<li>What a fool believes(オリジナル:<a href="https://ja.wikipedia.org/wiki/ドゥービー・ブラザーズ" title="wikilink">ドゥービー・ブラザーズ</a>)</li>
+<li>What a fool believes(オリジナル:<a href="../Page/ドゥービー・ブラザーズ.md" title="wikilink">ドゥービー・ブラザーズ</a>)</li>
 <li><a href="https://ja.wikipedia.org/wiki/MR.TAXI/Run_Devil_Run" title="wikilink">MR.TAXI</a>(オリジナル:<a href="https://ja.wikipedia.org/wiki/少女時代_(音楽グループ)" title="wikilink">少女時代</a>)</li>
-<li>This Christmas(オリジナル:<a href="https://ja.wikipedia.org/wiki/ダニー・ハサウェイ" title="wikilink">ダニー・ハサウェイ</a>)</li>
+<li>This Christmas(オリジナル:<a href="../Page/ダニー・ハサウェイ.md" title="wikilink">ダニー・ハサウェイ</a>)</li>
 <li>Don't You Worry 'Bout A Thing(オリジナル:<a href="../Page/スティーヴィー・ワンダー.md" title="wikilink">スティーヴィー・ワンダー</a>)
 </div>
 </div></li>
@@ -820,7 +820,7 @@ CRCP-40411:Type-B</p></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p><a href="../Page/2014年.md" title="wikilink">2014年</a><a href="https://ja.wikipedia.org/wiki/2月26日" title="wikilink">2月26日</a></p></td>
+<td><p><a href="../Page/2014年.md" title="wikilink">2014年</a><a href="../Page/2月26日.md" title="wikilink">2月26日</a></p></td>
 <td><p><strong>Love &amp; Groove Delivery Vol.2</strong></p></td>
 <td><p>YZSM-20012</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -829,18 +829,18 @@ CRCP-40411:Type-B</p></td>
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li><a href="https://ja.wikipedia.org/wiki/能動的三分間" title="wikilink">能動的三分間</a>(オリジナル:<a href="https://ja.wikipedia.org/wiki/東京事変" title="wikilink">東京事変</a>)</li>
-<li><a href="https://ja.wikipedia.org/wiki/LA・LA・LA_LOVE_SONG" title="wikilink">LA・LA・LA LOVE SONG</a>(オリジナル:<a href="https://ja.wikipedia.org/wiki/久保田利伸" title="wikilink">久保田利伸</a>)</li>
-<li><a href="https://ja.wikipedia.org/wiki/ロビンソン_(曲)" title="wikilink">ロビンソン</a>(オリジナル:<a href="https://ja.wikipedia.org/wiki/スピッツ_(バンド)" title="wikilink">スピッツ</a>)</li>
-<li><a href="https://ja.wikipedia.org/wiki/Shake_Hip!" title="wikilink">SHAKE HIP!</a> with <a href="https://ja.wikipedia.org/wiki/ダイノジ" title="wikilink">ダイノジ</a>(オリジナル:<a href="../Page/米米CLUB.md" title="wikilink">米米CLUB</a>)</li>
-<li>Virtual Insanity(オリジナル:<a href="https://ja.wikipedia.org/wiki/ジャミロクワイ" title="wikilink">ジャミロクワイ</a>)</li>
-<li><a href="https://ja.wikipedia.org/wiki/One_more_time,_One_more_chance" title="wikilink">One more time, One more chance</a>(オリジナル:<a href="https://ja.wikipedia.org/wiki/山崎まさよし" title="wikilink">山崎まさよし</a>)</li>
+<li><a href="https://ja.wikipedia.org/wiki/能動的三分間" title="wikilink">能動的三分間</a>(オリジナル:<a href="../Page/東京事変.md" title="wikilink">東京事変</a>)</li>
+<li><a href="../Page/LA・LA・LA_LOVE_SONG.md" title="wikilink">LA・LA・LA LOVE SONG</a>(オリジナル:<a href="../Page/久保田利伸.md" title="wikilink">久保田利伸</a>)</li>
+<li><a href="../Page/ロビンソン_(曲).md" title="wikilink">ロビンソン</a>(オリジナル:<a href="https://ja.wikipedia.org/wiki/スピッツ_(バンド)" title="wikilink">スピッツ</a>)</li>
+<li><a href="../Page/Shake_Hip!.md" title="wikilink">SHAKE HIP!</a> with <a href="../Page/ダイノジ.md" title="wikilink">ダイノジ</a>(オリジナル:<a href="../Page/米米CLUB.md" title="wikilink">米米CLUB</a>)</li>
+<li>Virtual Insanity(オリジナル:<a href="../Page/ジャミロクワイ.md" title="wikilink">ジャミロクワイ</a>)</li>
+<li><a href="../Page/One_more_time,_One_more_chance.md" title="wikilink">One more time, One more chance</a>(オリジナル:<a href="https://ja.wikipedia.org/wiki/山崎まさよし" title="wikilink">山崎まさよし</a>)</li>
 <li><a href="https://ja.wikipedia.org/wiki/RIDE_ON_TIME_(山下達郎の曲)#「RIDE_ON_TIME」カヴァー" title="wikilink">RIDE ON TIME</a>(オリジナル:<a href="../Page/山下達郎.md" title="wikilink">山下達郎</a>)</li>
-<li>DON'T STOP BELIEVIN'(オリジナル:<a href="https://ja.wikipedia.org/wiki/ジャーニー_(バンド)" title="wikilink">ジャーニー</a>)</li>
+<li>DON'T STOP BELIEVIN'(オリジナル:<a href="../Page/ジャーニー_(バンド).md" title="wikilink">ジャーニー</a>)</li>
 <li><a href="https://ja.wikipedia.org/wiki/決戦は金曜日/太陽が見てる" title="wikilink">決戦は金曜日</a>(オリジナル:<a href="../Page/DREAMS_COME_TRUE.md" title="wikilink">DREAMS COME TRUE</a>)</li>
-<li><a href="https://ja.wikipedia.org/wiki/全力少年" title="wikilink">全力少年</a>(オリジナル:<a href="https://ja.wikipedia.org/wiki/スキマスイッチ" title="wikilink">スキマスイッチ</a>)</li>
-<li><a href="https://ja.wikipedia.org/wiki/歌うたいのバラッド" title="wikilink">歌うたいのバラッド</a>(オリジナル:<a href="https://ja.wikipedia.org/wiki/斉藤和義" title="wikilink">斉藤和義</a>)</li>
-<li><a href="https://ja.wikipedia.org/wiki/ESCAPE_(MOON_CHILDの曲)" title="wikilink">ESCAPE</a>(オリジナル:<a href="https://ja.wikipedia.org/wiki/MOON_CHILD_(バンド)" title="wikilink">MOON CHILD</a>)
+<li><a href="../Page/全力少年.md" title="wikilink">全力少年</a>(オリジナル:<a href="../Page/スキマスイッチ.md" title="wikilink">スキマスイッチ</a>)</li>
+<li><a href="https://ja.wikipedia.org/wiki/歌うたいのバラッド" title="wikilink">歌うたいのバラッド</a>(オリジナル:<a href="../Page/斉藤和義.md" title="wikilink">斉藤和義</a>)</li>
+<li><a href="../Page/ESCAPE_(MOON_CHILDの曲).md" title="wikilink">ESCAPE</a>(オリジナル:<a href="../Page/MOON_CHILD_(バンド).md" title="wikilink">MOON CHILD</a>)
 </div>
 </div></li>
 </ol></td>
@@ -849,7 +849,7 @@ CRCP-40411:Type-B</p></td>
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
-<td><p><a href="../Page/2014年.md" title="wikilink">2014年</a><a href="https://ja.wikipedia.org/wiki/2月26日" title="wikilink">2月26日</a></p></td>
+<td><p><a href="../Page/2014年.md" title="wikilink">2014年</a><a href="../Page/2月26日.md" title="wikilink">2月26日</a></p></td>
 <td><p><strong>the SUN and the MOON</strong></p></td>
 <td><p>YZSM-20013</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -908,12 +908,12 @@ CRCP-40411:Type-B</p></td>
 <div class="NavContent" style="text-align:left;">
 <ol>
 <li>Love Never Felt So Good(オリジナル:<a href="https://ja.wikipedia.org/wiki/マイケル・ジャクソン" title="wikilink">マイケル・ジャクソン</a>)</li>
-<li>THIS LOVE(オリジナル:<a href="https://ja.wikipedia.org/wiki/マルーン5" title="wikilink">マルーン5</a>)</li>
+<li>THIS LOVE(オリジナル:<a href="../Page/マルーン5.md" title="wikilink">マルーン5</a>)</li>
 <li>本能(オリジナル:<a href="https://ja.wikipedia.org/wiki/椎名林檎" title="wikilink">椎名林檎</a>)</li>
-<li>HAPPY(オリジナル:<a href="https://ja.wikipedia.org/wiki/ファレル・ウィリアムス" title="wikilink">ファレル・ウィリアムス</a>)</li>
-<li>THE SOUND OF SECRET MINDS(オリジナル:<a href="https://ja.wikipedia.org/wiki/Hi-STANDARD" title="wikilink">Hi-STANDARD</a>)</li>
-<li>パリの散歩道(オリジナル:<a href="https://ja.wikipedia.org/wiki/ゲイリー・ムーア" title="wikilink">ゲイリー・ムーア</a>)</li>
-<li>狩りから稲作へFEAT.足軽先生・東インド貿易会社マン(オリジナル:<a href="https://ja.wikipedia.org/wiki/レキシ" title="wikilink">レキシ</a>)</li>
+<li>HAPPY(オリジナル:<a href="../Page/ファレル・ウィリアムス.md" title="wikilink">ファレル・ウィリアムス</a>)</li>
+<li>THE SOUND OF SECRET MINDS(オリジナル:<a href="../Page/Hi-STANDARD.md" title="wikilink">Hi-STANDARD</a>)</li>
+<li>パリの散歩道(オリジナル:<a href="../Page/ゲイリー・ムーア.md" title="wikilink">ゲイリー・ムーア</a>)</li>
+<li>狩りから稲作へFEAT.足軽先生・東インド貿易会社マン(オリジナル:<a href="../Page/レキシ.md" title="wikilink">レキシ</a>)</li>
 <li>ズルい女(オリジナル:<a href="../Page/シャ乱Q.md" title="wikilink">シャ乱Q</a>)</li>
 <li>ROLLING IN THE DEEP(オリジナル:<a href="https://ja.wikipedia.org/wiki/アデル_(歌手)" title="wikilink">アデル</a>)</li>
 <li>LOCKED OUT OF HEAVEN(オリジナル:<a href="https://ja.wikipedia.org/wiki/ブルーノ・マーズ" title="wikilink">ブルーノ・マーズ</a>)</li>
@@ -959,13 +959,13 @@ CRCP-40411:Type-B</p></td>
 | ------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **監督**                                                  | **曲名**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | [赤坂憲志](https://ja.wikipedia.org/wiki/赤坂憲志 "wikilink")   | 「[ロビンソン](https://www.youtube.com/watch?v=m9U6m2WKNQQ)」「[能動的三分間](https://www.youtube.com/watch?v=kgZRFa2hOhw)」                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| [池田剛](https://ja.wikipedia.org/wiki/池田剛 "wikilink")     | 「[Across The Sky](http://www.indiesmusic.com/musicvideo/video.asp?id=10652)」                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| [池田剛](../Page/池田剛.md "wikilink")                        | 「[Across The Sky](http://www.indiesmusic.com/musicvideo/video.asp?id=10652)」                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | [UGICHIN](../Page/UGICHIN.md "wikilink")                | 「[Brighter Days](http://www.indiesmusic.com/musicvideo/video.asp?id=10686)」                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | [大久保拓朗](https://ja.wikipedia.org/wiki/大久保拓朗 "wikilink") | 「Show Me Your Height (Live Ver.)」                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | [くぼめぐ](https://ja.wikipedia.org/wiki/くぼめぐ "wikilink")   | 「The World Is Yours」                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | [小嶋貴之](https://ja.wikipedia.org/wiki/小嶋貴之 "wikilink")   | 「太陽とイーリス」「[Smile Again](https://www.youtube.com/watch?v=UOcXeXFRkXs)」                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | [佐藤盟生](https://ja.wikipedia.org/wiki/佐藤盟生 "wikilink")   | 「[He Is Waiting](http://www.indiesmusic.com/musicvideo/video.asp?id=10179)」「[Show Me Your Height](http://www.indiesmusic.com/musicvideo/video.asp?id=10166)」                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| [須永秀明](https://ja.wikipedia.org/wiki/須永秀明 "wikilink")   | 「Gravity」                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| [須永秀明](../Page/須永秀明.md "wikilink")                      | 「Gravity」                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | [壇慎一郎](https://ja.wikipedia.org/wiki/壇慎一郎 "wikilink")   | 「[Virtual Insanity](https://www.youtube.com/watch?v=hfwQrEg8A-E)」                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | [ニイマコト](https://ja.wikipedia.org/wiki/ニイマコト "wikilink") | 「[Precious](http://www.indiesmusic.com/musicvideo/video.asp?id=10355)」「[make it glow](http://www.indiesmusic.com/musicvideo/video.asp?id=10253)」                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | [野田智雄](https://ja.wikipedia.org/wiki/野田智雄 "wikilink")   | 「Let Me Be The One」                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
@@ -1019,21 +1019,21 @@ CRCP-40411:Type-B</p></td>
 
   - 2007年03月24日 - New Audiogram ver. 1.1
   - 2007年08月04日 - [八食サマーフリーライブ](https://ja.wikipedia.org/wiki/八食サマーフリーライブ "wikilink") 2007
-  - 2007年12月31日 - [COUNTDOWN JAPAN](https://ja.wikipedia.org/wiki/COUNTDOWN_JAPAN "wikilink") 07/08
+  - 2007年12月31日 - [COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 07/08
   - 2008年08月02日 - [ROCK IN JAPAN FESTIVAL](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink") 2008
   - 2008年08月10日 - [SUMMER SONICS](https://ja.wikipedia.org/wiki/SUMMER_SONIC "wikilink") 2008
-  - 2008年08月30日 - [RUSH BALL](https://ja.wikipedia.org/wiki/RUSH_BALL "wikilink") 2008
+  - 2008年08月30日 - [RUSH BALL](../Page/RUSH_BALL.md "wikilink") 2008
   - 2008年08月30日 - FM AICHI presents Re:mix 2008
   - 2008年09月11日 - [RADIO BERRY](https://ja.wikipedia.org/wiki/RADIO_BERRY "wikilink") 15th ANNIVERSARY ベリテンライブ2008
   - 2008年12月28日 - COUNTDOWN JAPAN 08/09
-  - 2009年04月26日 - [ARABAKI ROCK FEST.](https://ja.wikipedia.org/wiki/ARABAKI_ROCK_FEST. "wikilink")09
-  - 2009年05月17日 - [FM802](../Page/FM802.md "wikilink") & [SPACE SHOWER TV](https://ja.wikipedia.org/wiki/SPACE_SHOWER_TV "wikilink") presents [SWEET LOVE SHOWER](https://ja.wikipedia.org/wiki/SWEET_LOVE_SHOWER "wikilink") 2009 SPRING
+  - 2009年04月26日 - [ARABAKI ROCK FEST.](../Page/ARABAKI_ROCK_FEST..md "wikilink")09
+  - 2009年05月17日 - [FM802](../Page/FM802.md "wikilink") & [SPACE SHOWER TV](https://ja.wikipedia.org/wiki/SPACE_SHOWER_TV "wikilink") presents [SWEET LOVE SHOWER](../Page/SWEET_LOVE_SHOWER.md "wikilink") 2009 SPRING
   - 2009年07月08日・09日 - [the HIATUS](https://ja.wikipedia.org/wiki/the_HIATUS "wikilink") Trash We'd Love Tour 2009
   - 2009年07月12日 - [京都大作戦](https://ja.wikipedia.org/wiki/京都大作戦 "wikilink")2009〜暑いのに熱くてごめんな祭〜
   - 2009年07月31日 - ROCK IN JAPAN FESTIVAL 2009
   - 2009年08月14日 - [RISING SUN ROCK FESTIVAL](https://ja.wikipedia.org/wiki/RISING_SUN_ROCK_FESTIVAL "wikilink") 2009 in EZO
   - 2009年08月29日 - Re:mix 2009
-  - 2009年10月31日 - [Scoobie Do](https://ja.wikipedia.org/wiki/Scoobie_Do "wikilink") TOUR 2009 "Funk-a-lismo\! Vol.5
+  - 2009年10月31日 - [Scoobie Do](../Page/Scoobie_Do.md "wikilink") TOUR 2009 "Funk-a-lismo\! Vol.5
   - 2009年11月14日〜23日 - [BIGMAMA](https://ja.wikipedia.org/wiki/BIGMAMA "wikilink") 3rd ALBUM release tour 2009-2010 and yet, we move〜正しいツアーの廻り方〜
   - 2010年02月02日 - [ivory7 chord](https://ja.wikipedia.org/wiki/ivory7_chord "wikilink") light a tree
   - 2010年03月02日 - SPACE SHOWER TV mob LIVE vol.1─ポトフ─
@@ -1044,7 +1044,7 @@ CRCP-40411:Type-B</p></td>
   - 2010年11月13日・14日 - BIGMAMA"Roclassick"release tour 2010-2011〜母と行く、魅惑の新世界の旅〜
   - 2010年11月16日・22日 - [UNISON SQUARE GARDEN](https://ja.wikipedia.org/wiki/UNISON_SQUARE_GARDEN "wikilink") meet the autumn tour 2010
   - 2010年12月29日 - COUNTDOWN JAPAN 10/11
-  - 2011年04月05日・07日 - [FoZZtone](https://ja.wikipedia.org/wiki/FoZZtone "wikilink") Lodestone Tour III "to the NEW WORLD"
+  - 2011年04月05日・07日 - [FoZZtone](../Page/FoZZtone.md "wikilink") Lodestone Tour III "to the NEW WORLD"
   - 2011年05月04日 - [COMIN'KOBE](https://ja.wikipedia.org/wiki/COMIN'KOBE "wikilink")11
   - 2011年08月02日 - 音霊 OTODAMA SEA STUDIO 2011 「雷鳴2011 Supported by J-WAVE TOKYO REAL-EYES」
   - 2011年12月31日 - LIVE [DI:GA](https://ja.wikipedia.org/wiki/DI:GA "wikilink") JUDGEMENT 2011
@@ -1057,7 +1057,7 @@ CRCP-40411:Type-B</p></td>
   - 2012年08月26日 - MUSIC HOURS〜UNCHAIN/[SOUR](https://ja.wikipedia.org/wiki/SOUR "wikilink")〜
   - 2012年09月07日 - [UNLIMITS](https://ja.wikipedia.org/wiki/UNLIMITS "wikilink") NeON TOUR 2012-秋の夜長にNeONを灯す-
   - 2012年09月23日 - MASTER COLISEUM'12
-  - 2012年10月06日 - [MEGA☆ROCKS](https://ja.wikipedia.org/wiki/MEGA☆ROCKS "wikilink") 2012
+  - 2012年10月06日 - [MEGA☆ROCKS](../Page/MEGA☆ROCKS.md "wikilink") 2012
   - 2012年10月13日 - 2YOU MAGAZINE 5th Anniversary Volare via\!day1
   - 2012年11月05日 - Scoobie Do Funk-a-lismo\! Weekday Circuit 〜天国や地獄〜
   - 2012年11月17日 - [Prague](https://ja.wikipedia.org/wiki/Prague "wikilink") 5th Single「脱走のシーズン」RELEASE LIVE & Prague Tokyo Circuit 2012 FINAL
@@ -1073,7 +1073,7 @@ CRCP-40411:Type-B</p></td>
   - 2013年08月09日 - [SHISHAMO](https://ja.wikipedia.org/wiki/SHISHAMO "wikilink") 自主企画「夏の勉強会開きます。」
   - 2013年08月17日 - 聖地巡礼\!\!2013〜夏休み合宿編〜
   - 2013年08月20日 - 松健aniki祭 vol.25
-  - 2013年08月25日 - [MONSTER baSH](https://ja.wikipedia.org/wiki/MONSTER_baSH "wikilink") 2013
+  - 2013年08月25日 - [MONSTER baSH](../Page/MONSTER_baSH.md "wikilink") 2013
   - 2013年08月30日 - 音霊 OTODAMA SEA STUDIO 2013 「RED LINE BEACH」
   - 2013年09月15日 - Mr. VIRUSOUL -3rd Operation- UNCHAIN (Early Songs 05'〜08') × [NUBO](https://ja.wikipedia.org/wiki/NUBO "wikilink")
   - 2013年09月16日 - Mr. VIRUSOUL -4th operation- UNCHAIN (Current Songs 09'〜13') × [HaKU](https://ja.wikipedia.org/wiki/HaKU "wikilink")
@@ -1089,7 +1089,7 @@ CRCP-40411:Type-B</p></td>
   - 2014年06月29日 - [FRONTIER BACKYARD](https://ja.wikipedia.org/wiki/FRONTIER_BACKYARD "wikilink") 10th Anniversary"BEST SELECTIONS"RELEASE PARTY
   - 2014年07月12日 - TOKYO BOOTLEG CIRCUIT'14
   - 2014年07月23日 - [BUZZ THE BEARS](https://ja.wikipedia.org/wiki/BUZZ_THE_BEARS "wikilink") L TOUR 2014
-  - 2014年07月26日 - [ダイノジ](https://ja.wikipedia.org/wiki/ダイノジ "wikilink") presents 「DRF2014 NAGOYA」
+  - 2014年07月26日 - [ダイノジ](../Page/ダイノジ.md "wikilink") presents 「DRF2014 NAGOYA」
   - 2014年08月03日 - DRF 2014 TOKYO
   - 2014年09月13日 - KANSAI LOVERS 2014
   - 2014年10月04日 - [A(c)](https://ja.wikipedia.org/wiki/A\(c\) "wikilink") 10th Anniversary 金沢一生青春FESTIVAL
@@ -1106,7 +1106,7 @@ CRCP-40411:Type-B</p></td>
   - 2015年09月23日 - KANSAI LOVERS 2015
   - 2015年09月27日 - BURST MAX'15
   - 2015年10月03日・04日 - [鶴](https://ja.wikipedia.org/wiki/鶴_\(バンド\) "wikilink")47改め94都道府県TOUR「Live & Soul」〜もう、寂しい想いはさせたくない〜
-  - 2015年10月09日 - [LOST IN TIME](https://ja.wikipedia.org/wiki/LOST_IN_TIME "wikilink") 9th album「DOORS」Release tour「TOURS」
+  - 2015年10月09日 - [LOST IN TIME](../Page/LOST_IN_TIME.md "wikilink") 9th album「DOORS」Release tour「TOURS」
   - 2015年10月11日 - MINAMI WHEEL 2015
 
 ## 出演

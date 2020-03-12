@@ -6,9 +6,9 @@
 ## 解説
 
   - 表題曲「魔法の言葉 〜Would you marry me?〜」は結婚をモチーフとして作られている。Would you marry me?は「私と結婚しませんか?」という意味をもつ。
-      - [TBSテレビ](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")「[サンデー・ジャポン](https://ja.wikipedia.org/wiki/サンデー・ジャポン "wikilink")」では、しばしば結婚報道のBGMに使われている\[1\]。
+      - [TBSテレビ](../Page/TBSテレビ.md "wikilink")「[サンデー・ジャポン](https://ja.wikipedia.org/wiki/サンデー・ジャポン "wikilink")」では、しばしば結婚報道のBGMに使われている\[1\]。
   - このシングルから｢CDのみ｣｢CD+DVD｣の2パターンで発売となった。また、それぞれジャケットも異なる。
-  - 「魔法の言葉 ～Would you marry me?～」のPVでは[伴都美子](https://ja.wikipedia.org/wiki/伴都美子 "wikilink")が[ウェディングドレス](https://ja.wikipedia.org/wiki/ウェディングドレス "wikilink")を着ている。
+  - 「魔法の言葉 ～Would you marry me?～」のPVでは[伴都美子](https://ja.wikipedia.org/wiki/伴都美子 "wikilink")が[ウェディングドレス](../Page/ウェディングドレス.md "wikilink")を着ている。
 
 ## 収録曲
 
@@ -18,8 +18,8 @@
 
 1.  **魔法の言葉 〜Would you marry me?〜**
       -
-        [TBS系列](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")「[ドラマ30](../Page/ドラマ30.md "wikilink")」枠の[昼ドラマ](https://ja.wikipedia.org/wiki/昼ドラマ "wikilink")『[ショコラ](https://ja.wikipedia.org/wiki/ショコラ_\(漫画\) "wikilink")』の主題歌。
-        [茨城放送](https://ja.wikipedia.org/wiki/IBS "wikilink")『[たかとりじゅんのビタミンJ\!](https://ja.wikipedia.org/wiki/たかとりじゅんのビタミンJ! "wikilink")』テーマソング。
+        [TBS系列](../Page/TBSテレビ.md "wikilink")「[ドラマ30](../Page/ドラマ30.md "wikilink")」枠の[昼ドラマ](https://ja.wikipedia.org/wiki/昼ドラマ "wikilink")『[ショコラ](../Page/ショコラ_\(漫画\).md "wikilink")』の主題歌。
+        [茨城放送](https://ja.wikipedia.org/wiki/IBS "wikilink")『[たかとりじゅんのビタミンJ\!](../Page/たかとりじゅんのビタミンJ!.md "wikilink")』テーマソング。
 2.  **mellow amber**
 3.  魔法の言葉 〜Would you marry me?〜(Instrumental)
 4.  mellow amber(Instrumental)
@@ -36,7 +36,7 @@
 
 <!-- end list -->
 
-  - 『[GATES OF HEAVEN](https://ja.wikipedia.org/wiki/GATES_OF_HEAVEN "wikilink")』（アルバムバージョン）
+  - 『[GATES OF HEAVEN](../Page/GATES_OF_HEAVEN.md "wikilink")』（アルバムバージョン）
   - 『[Do The A-side](../Page/Do_The_A-side.md "wikilink")』
   - 『\[\[2_of_Us\#2_of_Us_BLUE_-14_Re:SINGLES-|2 of Us \[BLUE\] -14 Re:SINGLES-\]\]』（アレンジ、新録音、歌詞を一部変更して収録）
 
@@ -54,7 +54,7 @@
 
 ### 解説
 
-過去に発表された楽曲16曲を[伴都美子](https://ja.wikipedia.org/wiki/伴都美子 "wikilink")、[大渡亮](https://ja.wikipedia.org/wiki/大渡亮 "wikilink")のメンバー2人だけで再録音し、16週連続で配信していく「2 of Us」と銘打たれたプロジェクトの第6弾。
+過去に発表された楽曲16曲を[伴都美子](https://ja.wikipedia.org/wiki/伴都美子 "wikilink")、[大渡亮](../Page/大渡亮.md "wikilink")のメンバー2人だけで再録音し、16週連続で配信していく「2 of Us」と銘打たれたプロジェクトの第6弾。
 
 歌詞の一部が変更されて収録されている。
 

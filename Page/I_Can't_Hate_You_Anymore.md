@@ -1,11 +1,11 @@
 > この記事は[I Can\'t Hate You Anymore](https://ja.wikipedia.org/wiki/I_Can\'t_Hate_You_Anymore)から翻訳されています。
 
 
-**I Can't Hate You Anymore**（アイ・キャント・ヘイト・ユー・エニーモア）は、[アメリカの歌手](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ニック・ラシェイ](https://ja.wikipedia.org/wiki/ニック・ラシェイ "wikilink")の[シングル](../Page/シングル.md "wikilink")曲。彼の2枚目のソロアルバム、[What's Left Of Meに収録されている](https://ja.wikipedia.org/wiki/What's_Left_OF_Me_\(アルバム\) "wikilink")。
+**I Can't Hate You Anymore**（アイ・キャント・ヘイト・ユー・エニーモア）は、[アメリカの歌手](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ニック・ラシェイ](../Page/ニック・ラシェイ.md "wikilink")の[シングル](../Page/シングル.md "wikilink")曲。彼の2枚目のソロアルバム、[What's Left Of Meに収録されている](https://ja.wikipedia.org/wiki/What's_Left_OF_Me_\(アルバム\) "wikilink")。
 
 ## ミュージック・ビデオ
 
-2006年6月27日に[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")のあるビーチで撮影されたこのビデオはちょうど[ジェシカ・シンプソン](https://ja.wikipedia.org/wiki/ジェシカ・シンプソン "wikilink")との離婚が成立する前日に撮影されたものである。
+2006年6月27日に[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")のあるビーチで撮影されたこのビデオはちょうど[ジェシカ・シンプソン](../Page/ジェシカ・シンプソン.md "wikilink")との離婚が成立する前日に撮影されたものである。
 
 ## チャート・パフォーマンス
 

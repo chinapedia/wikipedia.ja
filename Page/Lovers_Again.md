@@ -1,7 +1,7 @@
 > この記事は[Lovers Again](https://ja.wikipedia.org/wiki/Lovers_Again)から翻訳されています。
 
 
-「**Lovers Again**」（ラヴァーズ アゲイン）は、[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")の22枚目の[シングル](../Page/シングル.md "wikilink")。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink")に[rhythm zoneから発売](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。
+「**Lovers Again**」（ラヴァーズ アゲイン）は、[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")の22枚目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink")に[rhythm zoneから発売](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要
 

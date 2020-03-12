@@ -1,19 +1,19 @@
 > この記事は[KITANO](https://ja.wikipedia.org/wiki/KITANO)から翻訳されています。
 
 
-**株式会社KITANO**（きたの）は、[徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")[小松島市](https://ja.wikipedia.org/wiki/小松島市 "wikilink")[田野町に本社を置く](https://ja.wikipedia.org/wiki/田野町_\(小松島市\) "wikilink")[DVD-ROM](https://ja.wikipedia.org/wiki/DVD-ROM "wikilink")、各種自動化機械の製造を行う会社。
+**株式会社KITANO**（きたの）は、[徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")[小松島市](../Page/小松島市.md "wikilink")[田野町に本社を置く](https://ja.wikipedia.org/wiki/田野町_\(小松島市\) "wikilink")[DVD-ROM](https://ja.wikipedia.org/wiki/DVD-ROM "wikilink")、各種自動化機械の製造を行う会社。
 
 ## 概要
 
-産業用機械・製造ラインの製造販売を手がけ、[DVD](../Page/DVD.md "wikilink")製造装置を主力としている。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")1月に機械製造の北野エンジニアリング、[DVD-ROM](https://ja.wikipedia.org/wiki/DVD-ROM "wikilink")製造のエーエムシー\[1\]を[合併した](../Page/合併_\(企業\).md "wikilink")。
+産業用機械・製造ラインの製造販売を手がけ、[DVD](../Page/DVD.md "wikilink")製造装置を主力としている。[2005年](../Page/2005年.md "wikilink")1月に機械製造の北野エンジニアリング、[DVD-ROM](https://ja.wikipedia.org/wiki/DVD-ROM "wikilink")製造のエーエムシー\[1\]を[合併した](../Page/合併_\(企業\).md "wikilink")。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")10月に[ワールド創業者の](https://ja.wikipedia.org/wiki/ワールド_\(企業\) "wikilink")[畑崎広敏](../Page/畑崎広敏.md "wikilink")が第三者割当[増資](https://ja.wikipedia.org/wiki/増資 "wikilink")を引き受け過半数を有する筆頭[株主](../Page/株主.md "wikilink")となった。
+[2006年](../Page/2006年.md "wikilink")10月に[ワールド創業者の](../Page/ワールド_\(企業\).md "wikilink")[畑崎広敏](../Page/畑崎広敏.md "wikilink")が第三者割当[増資](https://ja.wikipedia.org/wiki/増資 "wikilink")を引き受け過半数を有する筆頭[株主](../Page/株主.md "wikilink")となった。
 
 製品には、特殊粉体を加えた氷のかけらを使い金属表面を洗浄・改質する「アイスブラスト装置」や広告ディスプレーや案内板に用いる[LED](https://ja.wikipedia.org/wiki/LED "wikilink")導光板等がある。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")12月には、新たに新性能の[フレキシブルプリント基板](https://ja.wikipedia.org/wiki/フレキシブルプリント基板 "wikilink")用の銅張積層板「KICREX」を開発し、新たな主力商品とする計画を発表している。
+[2006年](../Page/2006年.md "wikilink")12月には、新たに新性能の[フレキシブルプリント基板](../Page/フレキシブルプリント基板.md "wikilink")用の銅張積層板「KICREX」を開発し、新たな主力商品とする計画を発表している。
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")2月に売り上げ減少による資金繰りの悪化などから経営破綻を迎えた。
+[2007年](../Page/2007年.md "wikilink")2月に売り上げ減少による資金繰りの悪化などから経営破綻を迎えた。
 
 ## 脚注
 

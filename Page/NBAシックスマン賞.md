@@ -1,10 +1,10 @@
 > この記事は[NBA](https://ja.wikipedia.org/wiki/NBA)から翻訳されています。
 
 
-**NBAシックスマン賞**（エヌビーエーシックスマンしょう、）は[NBA](../Page/NBA.md "wikilink")において、レギュラーシーズンの間、ベンチ（控え）から出場して好成績を残す「[シックスマン](https://ja.wikipedia.org/wiki/シックスマン "wikilink")」の最も活躍した選手に贈られる賞。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")と[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")のスポーツ記者及び放送関係者らの投票によって選出される。
+**NBAシックスマン賞**（エヌビーエーシックスマンしょう、）は[NBA](../Page/NBA.md "wikilink")において、レギュラーシーズンの間、ベンチ（控え）から出場して好成績を残す「[シックスマン](../Page/シックスマン.md "wikilink")」の最も活躍した選手に贈られる賞。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")と[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")のスポーツ記者及び放送関係者らの投票によって選出される。
 
-1982-83シーズンに制定された。初受賞者は[ボビー・ジョーンズ](https://ja.wikipedia.org/wiki/ボビー・ジョーンズ_\(1951年生のバスケットボール選手\) "wikilink")\[1\]。複数回受賞は[ケビン・マクヘイル](https://ja.wikipedia.org/wiki/ケビン・マクヘイル "wikilink")、[デトレフ・シュレンプ](../Page/デトレフ・シュレンプ.md "wikilink")、[リッキー・ピアース](https://ja.wikipedia.org/wiki/リッキー・ピアース "wikilink")の2回受賞、 [ジャマール・クロフォード](https://ja.wikipedia.org/wiki/ジャマール・クロフォード "wikilink")、[ルー・ウィリアムズ](https://ja.wikipedia.org/wiki/ルー・ウィリアムズ "wikilink")の3回受賞。マクヘイルとシュレンプは2年連続受賞である。
-能力のある選手を敢えてスターターには起用しないという采配を最初に導入したのは、1950年代の[ボストン・セルティックス](https://ja.wikipedia.org/wiki/ボストン・セルティックス "wikilink")のヘッドコーチ、[レッド・アワーバック](https://ja.wikipedia.org/wiki/レッド・アワーバック "wikilink")だった。この起用法はセルティックスの黄金時代を支えることになり、現在でも重要な戦術の一つとなっている。[フランク・ラムジーがシックスマンの元祖といえる](https://ja.wikipedia.org/wiki/フランク・ラムジー_\(バスケットボール\) "wikilink")。
+1982-83シーズンに制定された。初受賞者は[ボビー・ジョーンズ](https://ja.wikipedia.org/wiki/ボビー・ジョーンズ_\(1951年生のバスケットボール選手\) "wikilink")\[1\]。複数回受賞は[ケビン・マクヘイル](../Page/ケビン・マクヘイル.md "wikilink")、[デトレフ・シュレンプ](../Page/デトレフ・シュレンプ.md "wikilink")、[リッキー・ピアース](https://ja.wikipedia.org/wiki/リッキー・ピアース "wikilink")の2回受賞、 [ジャマール・クロフォード](../Page/ジャマール・クロフォード.md "wikilink")、[ルー・ウィリアムズ](https://ja.wikipedia.org/wiki/ルー・ウィリアムズ "wikilink")の3回受賞。マクヘイルとシュレンプは2年連続受賞である。
+能力のある選手を敢えてスターターには起用しないという采配を最初に導入したのは、1950年代の[ボストン・セルティックス](../Page/ボストン・セルティックス.md "wikilink")のヘッドコーチ、[レッド・アワーバック](../Page/レッド・アワーバック.md "wikilink")だった。この起用法はセルティックスの黄金時代を支えることになり、現在でも重要な戦術の一つとなっている。[フランク・ラムジーがシックスマンの元祖といえる](https://ja.wikipedia.org/wiki/フランク・ラムジー_\(バスケットボール\) "wikilink")。
 
 ## 歴代受賞者
 

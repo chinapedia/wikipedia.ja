@@ -1,7 +1,7 @@
 > この記事は[Miko \(\)](https://ja.wikipedia.org/wiki/Miko_\(\))から翻訳されています。
 
 
-**miko**（みこ、[1981年](https://ja.wikipedia.org/wiki/1981年 "wikilink")[7月21日](../Page/7月21日.md "wikilink") - ）は、[山梨県](../Page/山梨県.md "wikilink")出身の[モデル](https://ja.wikipedia.org/wiki/モデル_\(職業\) "wikilink")、[女優](../Page/俳優.md "wikilink")。[スパイス所属](https://ja.wikipedia.org/wiki/スパイス_\(芸能プロダクション\) "wikilink")。
+**miko**（みこ、[1981年](../Page/1981年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink") - ）は、[山梨県](../Page/山梨県.md "wikilink")出身の[モデル](../Page/モデル_\(職業\).md "wikilink")、[女優](../Page/俳優.md "wikilink")。[スパイス所属](https://ja.wikipedia.org/wiki/スパイス_\(芸能プロダクション\) "wikilink")。
 
 ## 略歴・人物
 
@@ -15,38 +15,38 @@
 
 ### テレビ
 
-  - [桃のふくらみ](https://ja.wikipedia.org/wiki/桃のささやき#「桃のふくらみ」としての出演女優 "wikilink")（[MONDO TV](https://ja.wikipedia.org/wiki/MONDO_TV "wikilink")）第30回
-  - 泊まれるレストラン オーベルジュへの誘い（2006年、[旅チャンネル](https://ja.wikipedia.org/wiki/旅チャンネル "wikilink")）
-  - [美女と湯けむり](https://ja.wikipedia.org/wiki/美女と湯けむり "wikilink")（2007年、[旅チャンネル](https://ja.wikipedia.org/wiki/旅チャンネル "wikilink")）第13回、第14回
+  - [桃のふくらみ](https://ja.wikipedia.org/wiki/桃のささやき#「桃のふくらみ」としての出演女優 "wikilink")（[MONDO TV](../Page/MONDO_TV.md "wikilink")）第30回
+  - 泊まれるレストラン オーベルジュへの誘い（2006年、[旅チャンネル](../Page/旅チャンネル.md "wikilink")）
+  - [美女と湯けむり](../Page/美女と湯けむり.md "wikilink")（2007年、[旅チャンネル](../Page/旅チャンネル.md "wikilink")）第13回、第14回
 
 ### テレビドラマ
 
-  - [牙狼<GARO>](https://ja.wikipedia.org/wiki/牙狼-GARO- "wikilink")（2006年、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）- 第17話ゲスト・さやか、ハル人間体役
+  - [牙狼<GARO>](../Page/牙狼-GARO-.md "wikilink")（2006年、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）- 第17話ゲスト・さやか、ハル人間体役
 
 ### 映画
 
   - 脱皮ワイフ 全部脱いで（2004年、[バイオタイド](https://ja.wikipedia.org/wiki/バイオタイド "wikilink")）- 主人公・美樹役
   - 妹 -SISTER-（2005年、東葛映画祭出品作品）
-  - [あさってDANCE](https://ja.wikipedia.org/wiki/あさってDANCE "wikilink")（2005年、[トルネード・フィルム](https://ja.wikipedia.org/wiki/トルネード・フィルム "wikilink")）- 外古場役
-  - [まだまだあぶない刑事](https://ja.wikipedia.org/wiki/まだまだあぶない刑事 "wikilink")（2005年、[東映](../Page/東映.md "wikilink")）- 婦警役
+  - [あさってDANCE](../Page/あさってDANCE.md "wikilink")（2005年、[トルネード・フィルム](https://ja.wikipedia.org/wiki/トルネード・フィルム "wikilink")）- 外古場役
+  - [まだまだあぶない刑事](../Page/まだまだあぶない刑事.md "wikilink")（2005年、[東映](../Page/東映.md "wikilink")）- 婦警役
 
 ### オリジナルビデオ
 
-  - サバイブ（2005年、[AMGエンタテインメント](https://ja.wikipedia.org/wiki/AMGエンタテインメント "wikilink")）
+  - サバイブ（2005年、[AMGエンタテインメント](../Page/AMGエンタテインメント.md "wikilink")）
   - 実録・暴走族 ブラックエンペラー レディース（2006年、[GPミュージアムソフト](https://ja.wikipedia.org/wiki/GPミュージアムソフト "wikilink")）
   - 女囚07号玲奈（2006年、[アートポート](https://ja.wikipedia.org/wiki/アートポート "wikilink")）- 女囚18号 一ツ木詠子役
-  - はいからさんの性（2006年、[フルモーション](https://ja.wikipedia.org/wiki/フルモーション "wikilink")）- 主人公・立花響子役
+  - はいからさんの性（2006年、[フルモーション](../Page/フルモーション.md "wikilink")）- 主人公・立花響子役
   - 組長射殺～首領を撃て～(2007年、GPミュージアムソフト）
   - 団地妻 濡れて愛焦がれた再会（2007年8月 SKY PerfecTV\!オリジナルドラマ）
   - 団地妻 あの胸にもういちど（2007年8月 SKY PerfecTV\!オリジナルドラマ）
 
 ### CM
 
-  - [ライブドア](https://ja.wikipedia.org/wiki/ライブドア "wikilink") エレベーター編（2004年）
+  - [ライブドア](../Page/ライブドア.md "wikilink") エレベーター編（2004年）
 
 ### その他
 
-  - [RIZE](https://ja.wikipedia.org/wiki/RIZE "wikilink")[雷図](https://ja.wikipedia.org/wiki/雷図 "wikilink") album『[SPIT\&YELL](https://ja.wikipedia.org/wiki/SPIT&YELL "wikilink")』 付属DVD Visuarize Movie(2005年[TENSAIBAKA RECORDS](https://ja.wikipedia.org/wiki/TENSAIBAKA_RECORDS "wikilink"))
+  - [RIZE](../Page/RIZE.md "wikilink")[雷図](https://ja.wikipedia.org/wiki/雷図 "wikilink") album『[SPIT\&YELL](https://ja.wikipedia.org/wiki/SPIT&YELL "wikilink")』 付属DVD Visuarize Movie(2005年[TENSAIBAKA RECORDS](https://ja.wikipedia.org/wiki/TENSAIBAKA_RECORDS "wikilink"))
 
 ## DVD
 
@@ -65,7 +65,7 @@
 ## 関連項目
 
   - [日本の女優一覧](../Page/日本の女優一覧.md "wikilink")
-  - [山梨県出身の人物一覧](https://ja.wikipedia.org/wiki/山梨県出身の人物一覧 "wikilink")
+  - [山梨県出身の人物一覧](../Page/山梨県出身の人物一覧.md "wikilink")
 
 ## 外部リンク
 

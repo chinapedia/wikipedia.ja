@@ -5,27 +5,27 @@
 
 ## メンバー
 
-  - **JUN**（じゅん [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[5月18日](../Page/5月18日.md "wikilink") - ） - [MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")・[作曲](../Page/作曲.md "wikilink")・[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")担当。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](https://ja.wikipedia.org/wiki/横浜市 "wikilink")出身。
+  - **JUN**（じゅん [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[5月18日](../Page/5月18日.md "wikilink") - ） - [MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")・[作曲](../Page/作曲.md "wikilink")・[作詞](../Page/作詞.md "wikilink")担当。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")出身。
   - **SHIN**（しん 1978年[5月13日](../Page/5月13日.md "wikilink") - ） - MC・作詞担当。神奈川県横浜市出身。
-  - **[DJ GEORGIA](https://ja.wikipedia.org/wiki/DJ_GEORGIA "wikilink")**（ディージェイ・ジョージア [1984年](../Page/1984年.md "wikilink")[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink") - ） - [DJ](https://ja.wikipedia.org/wiki/ディスクジョッキー "wikilink")・作曲・[ギター](../Page/ギター.md "wikilink")担当。[広島県](../Page/広島県.md "wikilink")[三原市](../Page/三原市.md "wikilink")出身。
+  - **[DJ GEORGIA](https://ja.wikipedia.org/wiki/DJ_GEORGIA "wikilink")**（ディージェイ・ジョージア [1984年](../Page/1984年.md "wikilink")[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink") - ） - [DJ](../Page/ディスクジョッキー.md "wikilink")・作曲・[ギター](../Page/ギター.md "wikilink")担当。[広島県](../Page/広島県.md "wikilink")[三原市](../Page/三原市.md "wikilink")出身。
 
 ## 略歴
 
-[2000年](../Page/2000年.md "wikilink")JUNとSHINにより横浜で結成。CLIFF EDGEの名前の由来は日本語で「崖っぷち」。[2003年](../Page/2003年.md "wikilink")にDJ GEORGIAが加わり現在のメンバーでの活動を開始。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")7月に『季節まかせに羽伸ばして〜秋ist〜』リリース。リリースパーティーが行われた渋谷[WOMB](https://ja.wikipedia.org/wiki/WOMB "wikilink")を満員にした。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")11月には2ndシングル『You're the only one』を発売、同曲は[FMヨコハマの着うたサイト](https://ja.wikipedia.org/wiki/横浜エフエム放送 "wikilink")「[FヨコSOUND](https://ja.wikipedia.org/wiki/FヨコSOUND "wikilink")」にてダウンロード数3週連続1位を記録した（2位は[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")）。
+[2000年](../Page/2000年.md "wikilink")JUNとSHINにより横浜で結成。CLIFF EDGEの名前の由来は日本語で「崖っぷち」。[2003年](../Page/2003年.md "wikilink")にDJ GEORGIAが加わり現在のメンバーでの活動を開始。[2005年](../Page/2005年.md "wikilink")7月に『季節まかせに羽伸ばして〜秋ist〜』リリース。リリースパーティーが行われた渋谷[WOMB](https://ja.wikipedia.org/wiki/WOMB "wikilink")を満員にした。[2006年](../Page/2006年.md "wikilink")11月には2ndシングル『You're the only one』を発売、同曲は[FMヨコハマの着うたサイト](../Page/横浜エフエム放送.md "wikilink")「[FヨコSOUND](https://ja.wikipedia.org/wiki/FヨコSOUND "wikilink")」にてダウンロード数3週連続1位を記録した（2位は[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")）。
 
-2006年[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")にリリースされた1stミニアルバム『BIRTH』のリード曲『BIRTH 〜You're the only one Pt.2〜 feat. [MAY'S](https://ja.wikipedia.org/wiki/MAY'S "wikilink")』のPVには、グラビアタレントの[ほしのあき](../Page/ほしのあき.md "wikilink")が出演。ほしのあきの大ファンである本人達からの、直々のアタックにこのコラボレーションが実現した。撮影場所はSHINの母校でもある[横浜](https://ja.wikipedia.org/wiki/横浜市 "wikilink")[山手学院](https://ja.wikipedia.org/wiki/山手学院 "wikilink")で行われ、ほしのあきが作中で着用してる制服も同校のものである。
+2006年[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")にリリースされた1stミニアルバム『BIRTH』のリード曲『BIRTH 〜You're the only one Pt.2〜 feat. [MAY'S](../Page/MAY'S.md "wikilink")』のPVには、グラビアタレントの[ほしのあき](../Page/ほしのあき.md "wikilink")が出演。ほしのあきの大ファンである本人達からの、直々のアタックにこのコラボレーションが実現した。撮影場所はSHINの母校でもある[横浜](../Page/横浜市.md "wikilink")[山手学院](https://ja.wikipedia.org/wiki/山手学院 "wikilink")で行われ、ほしのあきが作中で着用してる制服も同校のものである。
 
-そして同曲が[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")USEN総合チャート上半期2位、お問い合わせチャート8週連続1位を獲得し、流行に流されない普遍性が話題となり、口コミでじわじわと支持を広げミニアルバム『BIRTH』は、45,000枚を超えるロングセールスを記録。
+そして同曲が[2007年](../Page/2007年.md "wikilink")USEN総合チャート上半期2位、お問い合わせチャート8週連続1位を獲得し、流行に流されない普遍性が話題となり、口コミでじわじわと支持を広げミニアルバム『BIRTH』は、45,000枚を超えるロングセールスを記録。
 
-続いて2007年5月に、MAY'S、[SHIKATA](https://ja.wikipedia.org/wiki/SHIKATA "wikilink")、[KGらと共に](https://ja.wikipedia.org/wiki/KG_\(R&B\) "wikilink")、結成した新ユニット[NATURAL8](https://ja.wikipedia.org/wiki/NATURAL8 "wikilink")の1stアルバム『GOLDEN SHUFFLE』、続いて2007年[11月14日](../Page/11月14日.md "wikilink")にリリースしたユニットMAY'Sとのスプリットミニアルバム『Dear...』においてもスマッシュヒットを記録。メジャーデビュー前にして、自身の作品と関連作の総累計出荷が10万枚を突破するという快挙を成し遂げた。
+続いて2007年5月に、MAY'S、[SHIKATA](../Page/SHIKATA.md "wikilink")、[KGらと共に](https://ja.wikipedia.org/wiki/KG_\(R&B\) "wikilink")、結成した新ユニット[NATURAL8](../Page/NATURAL8.md "wikilink")の1stアルバム『GOLDEN SHUFFLE』、続いて2007年[11月14日](../Page/11月14日.md "wikilink")にリリースしたユニットMAY'Sとのスプリットミニアルバム『Dear...』においてもスマッシュヒットを記録。メジャーデビュー前にして、自身の作品と関連作の総累計出荷が10万枚を突破するという快挙を成し遂げた。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")5月に、満を持して[Venus-B RECORDSより](https://ja.wikipedia.org/wiki/Venus-B "wikilink")/KING、メジャーデビューアルバム『to You』をリリースし、オリコンアルバムチャート初登場14位にランクイン。10月には、ドラマ&全国東宝系映画『[ホームレス中学生](https://ja.wikipedia.org/wiki/ホームレス中学生 "wikilink")』の主題歌で、[天上智喜](https://ja.wikipedia.org/wiki/天上智喜 "wikilink")とのコラボレーションシングル『[Here](https://ja.wikipedia.org/wiki/Here_\(天上智喜/CLIFF_EDGEの曲\) "wikilink")』をリリース。続いて11月にはメッセージ性が存分に詰まった1stシングル『The Way 〜目指す明日へ〜』をリリース。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")5月に、満を持して[Venus-B RECORDSより](https://ja.wikipedia.org/wiki/Venus-B "wikilink")/KING、メジャーデビューアルバム『to You』をリリースし、オリコンアルバムチャート初登場14位にランクイン。10月には、ドラマ&全国東宝系映画『[ホームレス中学生](../Page/ホームレス中学生.md "wikilink")』の主題歌で、[天上智喜](https://ja.wikipedia.org/wiki/天上智喜 "wikilink")とのコラボレーションシングル『[Here](https://ja.wikipedia.org/wiki/Here_\(天上智喜/CLIFF_EDGEの曲\) "wikilink")』をリリース。続いて11月にはメッセージ性が存分に詰まった1stシングル『The Way 〜目指す明日へ〜』をリリース。
 
-[2009年](../Page/2009年.md "wikilink")[2月14日](../Page/2月14日.md "wikilink")には、シンガー・[詩音を迎えての至高の恋愛ソング](https://ja.wikipedia.org/wiki/詩音_\(歌手\) "wikilink")『ナミダボシ feat. 詩音』をリリースし、着うた、着うたフルが30万DLを突破し、ロングヒットを記録中の中、[6月10日](../Page/6月10日.md "wikilink")に話題のコラボレーションアーティストAJこと[秋元順子](https://ja.wikipedia.org/wiki/秋元順子 "wikilink")も参加した初のミニアルバム『VOYAGE』をリリースした後、11月には3rdシングル『SA・YO・NA・RA 〜君を忘れないよ〜』をリリースし、PVに[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")の[柏木由紀](https://ja.wikipedia.org/wiki/柏木由紀 "wikilink")が出演したことでも話題となった。このPVで柏木由紀は衝撃のショートカットを披露している。
+[2009年](../Page/2009年.md "wikilink")[2月14日](../Page/2月14日.md "wikilink")には、シンガー・[詩音を迎えての至高の恋愛ソング](https://ja.wikipedia.org/wiki/詩音_\(歌手\) "wikilink")『ナミダボシ feat. 詩音』をリリースし、着うた、着うたフルが30万DLを突破し、ロングヒットを記録中の中、[6月10日](../Page/6月10日.md "wikilink")に話題のコラボレーションアーティストAJこと[秋元順子](https://ja.wikipedia.org/wiki/秋元順子 "wikilink")も参加した初のミニアルバム『VOYAGE』をリリースした後、11月には3rdシングル『SA・YO・NA・RA 〜君を忘れないよ〜』をリリースし、PVに[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")の[柏木由紀](../Page/柏木由紀.md "wikilink")が出演したことでも話題となった。このPVで柏木由紀は衝撃のショートカットを披露している。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")2月には2ndアルバム『[for You](https://ja.wikipedia.org/wiki/for_You_\(CLIFF_EDGEのアルバム\) "wikilink")』、9月には3rdアルバム『[Re:BIRTH](https://ja.wikipedia.org/wiki/Re:BIRTH_\(CLIFF_EDGEのアルバム\) "wikilink")』をリリースした。『Re：BIRTH』収録の『NO LIMIT 〜勇気をキミに〜』は登山家の[栗城史多](https://ja.wikipedia.org/wiki/栗城史多 "wikilink")の応援歌にもなっている。
 
-2014年11月にはレーベルを[CROWN VenuSへと移籍する](https://ja.wikipedia.org/wiki/日本クラウン "wikilink")。その時グループ名をCLIFF EDGEからクリフエッジへと変更される。
+2014年11月にはレーベルを[CROWN VenuSへと移籍する](../Page/日本クラウン.md "wikilink")。その時グループ名をCLIFF EDGEからクリフエッジへと変更される。
 
 ## ディスコグラフィー
 
@@ -45,7 +45,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/7月20日.md" title="wikilink">7月20日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/7月20日.md" title="wikilink">7月20日</a></p></td>
 <td><p><strong>季節まかせに羽伸ばして 〜秋ist〜</strong></p></td>
 <td><p>SVCA-601</p></td>
 <td><ol>
@@ -73,7 +73,7 @@
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="../Page/6月20日.md" title="wikilink">6月20日</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/6月20日.md" title="wikilink">6月20日</a></p></td>
 <td><p><strong>BIRTH 〜You're the only one Pt.2〜</strong></p></td>
 <td><p>BPSS-0002</p></td>
 <td><p>DISC1（<a href="../Page/コンパクトディスク.md" title="wikilink">CD</a>）</p>
@@ -134,7 +134,7 @@ KICM-1265:通常盤</p></td>
 <td><ol>
 <li>ナミダボシ feat. <a href="https://ja.wikipedia.org/wiki/詩音_(歌手)" title="wikilink">詩音</a></li>
 <li>ONE</li>
-<li>Dear... feat. <a href="https://ja.wikipedia.org/wiki/MAY&#39;S" title="wikilink">MAY'S</a>（Sweet Heart Remix）</li>
+<li>Dear... feat. <a href="../Page/MAY&#39;S.md" title="wikilink">MAY'S</a>（Sweet Heart Remix）</li>
 <li>ナミダボシ feat.詩音（instrumental）</li>
 </ol>
 <p>初回限定盤DVD</p>
@@ -204,12 +204,12 @@ KICM-1265:通常盤</p></td>
 <td><p>POCS-1009</p></td>
 <td><ol>
 <li>BIRTH 〜You're the only one Pt.2〜 feat. MAY'S</li>
-<li>巣立ってく feat. <a href="https://ja.wikipedia.org/wiki/2BACKKA" title="wikilink">2BACKKA</a></li>
+<li>巣立ってく feat. <a href="../Page/2BACKKA.md" title="wikilink">2BACKKA</a></li>
 <li>Turn Right</li>
 <li>RIGHT HERE</li>
 <li>Back to Days</li>
 <li>サバラン</li>
-<li>Rain Dance feat. <a href="https://ja.wikipedia.org/wiki/BIG_RON" title="wikilink">BIG RON</a></li>
+<li>Rain Dance feat. <a href="../Page/BIG_RON.md" title="wikilink">BIG RON</a></li>
 <li>離さないで</li>
 <li>To the Champ</li>
 </ol></td>
@@ -259,7 +259,7 @@ KICM-1265:通常盤</p></td>
 <li>ろくでなしメモリーズ [MUSIC CLIP]</li>
 </ol></td>
 <td><p>オリコン最高155位<br />
-ジャケット制作:<a href="https://ja.wikipedia.org/wiki/西野亮廣" title="wikilink">西野亮廣</a></p></td>
+ジャケット制作:<a href="../Page/西野亮廣.md" title="wikilink">西野亮廣</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>フルアルバム</p></td>
@@ -296,7 +296,7 @@ KICS-1514:通常盤</p></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p>2010年<a href="https://ja.wikipedia.org/wiki/9月8日" title="wikilink">9月8日</a></p></td>
+<td><p>2010年<a href="../Page/9月8日.md" title="wikilink">9月8日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Re:BIRTH_(CLIFF_EDGEのアルバム)" title="wikilink">Re:BIRTH</a></strong></p></td>
 <td><p>KICS-91610:初回限定盤<br />
 KICS-1610:通常盤</p></td>
@@ -506,11 +506,11 @@ CRCP-40392:CD</p></td>
 CRCP-40392:CD</p></td>
 <td><ol>
 <li>A to Z ～Yell for you～</li>
-<li><a href="https://ja.wikipedia.org/wiki/さそり座の女" title="wikilink">さそり座の女</a> feat. <a href="https://ja.wikipedia.org/wiki/美川憲一" title="wikilink">美川憲一</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/三百六十五歩のマーチ" title="wikilink">三百六十五歩のマーチ</a> feat.<a href="../Page/水前寺清子.md" title="wikilink">水前寺清子</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/さそり座の女" title="wikilink">さそり座の女</a> feat. <a href="../Page/美川憲一.md" title="wikilink">美川憲一</a></li>
+<li><a href="../Page/三百六十五歩のマーチ.md" title="wikilink">三百六十五歩のマーチ</a> feat.<a href="../Page/水前寺清子.md" title="wikilink">水前寺清子</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/weeeek" title="wikilink">weeeek</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Runner_(爆風スランプの曲)" title="wikilink">Runner</a></li>
-<li>すごい男の唄 feat. <a href="https://ja.wikipedia.org/wiki/三好鉄生" title="wikilink">三好鉄生</a></li>
+<li>すごい男の唄 feat. <a href="../Page/三好鉄生.md" title="wikilink">三好鉄生</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/LIFE_(キマグレンの曲)" title="wikilink">LIFE</a> feat. 松本英子</li>
 <li>終わりなき旅 feat. AJ（Bonus Track）</li>
 </ol>
@@ -530,7 +530,7 @@ CRCP-40441:CD</p></td>
 <td><ol>
 <li>Intro ～Voice～</li>
 <li>あなたの声が聞こえる</li>
-<li>Endless Tears ～終わらないメロディー～ feat. <a href="https://ja.wikipedia.org/wiki/メロディー・チューバック" title="wikilink">メロディー・チューバック</a></li>
+<li>Endless Tears ～終わらないメロディー～ feat. <a href="../Page/メロディー・チューバック.md" title="wikilink">メロディー・チューバック</a></li>
 <li>いつだって。</li>
 <li>キラリ☆未来へ</li>
 <li>バカみたいに、愛してた feat. 純烈</li>
@@ -607,7 +607,7 @@ CRCP-40406:CD</p></td>
 <tbody>
 <tr class="odd">
 <td><p>2007年08月29日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/CHIHIRO_(歌手)" title="wikilink">CHIHIRO</a>「jewels」</p></td>
+<td><p><a href="../Page/CHIHIRO_(歌手).md" title="wikilink">CHIHIRO</a>「jewels」</p></td>
 <td><p>XQBZ-1005</p></td>
 </tr>
 <tr class="even">
@@ -618,7 +618,7 @@ RZCD-46030</p></td>
 </tr>
 <tr class="odd">
 <td><p>2008年11月05日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2BACKKA" title="wikilink">2BACKKA</a>「ナミダ」</p></td>
+<td><p><a href="../Page/2BACKKA.md" title="wikilink">2BACKKA</a>「ナミダ」</p></td>
 <td><p>AVCD-31375</p></td>
 </tr>
 <tr class="even">
@@ -633,7 +633,7 @@ RZCD-46030</p></td>
 </tr>
 <tr class="even">
 <td><p>2009年01月14日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/MAY&#39;S" title="wikilink">MAY'S</a>「<a href="https://ja.wikipedia.org/wiki/Dreaming" title="wikilink">Dreaming</a>」</p></td>
+<td><p><a href="../Page/MAY&#39;S.md" title="wikilink">MAY'S</a>「<a href="https://ja.wikipedia.org/wiki/Dreaming" title="wikilink">Dreaming</a>」</p></td>
 <td><p>KICS-91415<br />
 KICS-1415</p></td>
 </tr>
@@ -661,7 +661,7 @@ KICS-1535</p></td>
 </tr>
 <tr class="odd">
 <td><p>2010年06月16日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クレンチ&amp;ブリスタ" title="wikilink">クレンチ&amp;ブリスタ</a>「Peace to Lovers &amp; Out Works」</p></td>
+<td><p><a href="../Page/クレンチ&amp;ブリスタ.md" title="wikilink">クレンチ&amp;ブリスタ</a>「Peace to Lovers &amp; Out Works」</p></td>
 <td><p>KICS-91561<br />
 KICS-1561</p></td>
 </tr>
@@ -932,8 +932,8 @@ KICS-1894</p></td>
 <tbody>
 <tr class="odd">
 <td><p>BIRTH 〜You're the only one Pt.2〜 feat. MAY'S</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/TBSテレビ" title="wikilink">TBS系テレビ</a>『<a href="https://ja.wikipedia.org/wiki/ランキンの楽園" title="wikilink">ランキンの楽園</a>』EDテーマ<br />
-TBS系テレビ『<a href="https://ja.wikipedia.org/wiki/オビラジR" title="wikilink">オビラジR</a>』EDテーマ</p></td>
+<td><p><a href="../Page/TBSテレビ.md" title="wikilink">TBS系テレビ</a>『<a href="../Page/ランキンの楽園.md" title="wikilink">ランキンの楽園</a>』EDテーマ<br />
+TBS系テレビ『<a href="../Page/オビラジR.md" title="wikilink">オビラジR</a>』EDテーマ</p></td>
 </tr>
 <tr class="even">
 <td><p>LaLa-Bye...</p></td>
@@ -945,14 +945,14 @@ TBS系テレビ『<a href="https://ja.wikipedia.org/wiki/オビラジR" title="w
 </tr>
 <tr class="even">
 <td><p>Dream〜未来を信じて〜</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/千葉テレビ放送" title="wikilink">千葉テレビ放送</a> 『<a href="https://ja.wikipedia.org/wiki/LIVE&amp;REPORT_中央競馬中継" title="wikilink">LIVE&amp;REPORT 中央競馬中継</a>』OP・EDテーマ<br />
+<td><p><a href="../Page/千葉テレビ放送.md" title="wikilink">千葉テレビ放送</a> 『<a href="https://ja.wikipedia.org/wiki/LIVE&amp;REPORT_中央競馬中継" title="wikilink">LIVE&amp;REPORT 中央競馬中継</a>』OP・EDテーマ<br />
 <a href="../Page/讀賣テレビ放送.md" title="wikilink">読売テレビ</a>・<a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ系</a>『<a href="https://ja.wikipedia.org/wiki/ダウンタウンDX" title="wikilink">ダウンタウンDX</a>』エンディングテーマ<br />
-<a href="../Page/テレビ大阪.md" title="wikilink">テレビ大阪</a>『<a href="https://ja.wikipedia.org/wiki/NIGHT_CRUISING" title="wikilink">NIGHT CRUISING</a>』11月度エンディングテーマ<br />
+<a href="../Page/テレビ大阪.md" title="wikilink">テレビ大阪</a>『<a href="../Page/NIGHT_CRUISING.md" title="wikilink">NIGHT CRUISING</a>』11月度エンディングテーマ<br />
 <a href="../Page/西日本放送.md" title="wikilink">西日本放送</a>『<a href="https://ja.wikipedia.org/wiki/いまこれTV!" title="wikilink">いまこれTV!</a>』11月度エンディングテーマ</p></td>
 </tr>
 <tr class="odd">
 <td><p>ナミダボシ feat. 詩音</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/TBSテレビ" title="wikilink">TBS系</a>『<a href="https://ja.wikipedia.org/wiki/悪魔の契約にサイン" title="wikilink">悪魔の契約にサイン</a>』エンディングテーマ</p></td>
+<td><p><a href="../Page/TBSテレビ.md" title="wikilink">TBS系</a>『<a href="https://ja.wikipedia.org/wiki/悪魔の契約にサイン" title="wikilink">悪魔の契約にサイン</a>』エンディングテーマ</p></td>
 </tr>
 <tr class="even">
 <td><p>SA・YO・NA・RA 〜君を忘れないよ〜</p></td>
@@ -997,7 +997,7 @@ TBS系テレビ『<a href="https://ja.wikipedia.org/wiki/オビラジR" title="w
 「誓い」(出演:<a href="https://ja.wikipedia.org/wiki/藤井武美" title="wikilink">藤井武美</a>・<a href="https://ja.wikipedia.org/wiki/畠山紬" title="wikilink">畠山紬</a>)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/竹久正記" title="wikilink">竹久正記</a></p></td>
+<td><p><a href="../Page/竹久正記.md" title="wikilink">竹久正記</a></p></td>
 <td><p>「LIV〜大切なあなたへ〜」</p></td>
 </tr>
 <tr class="odd">
@@ -1009,7 +1009,7 @@ TBS系テレビ『<a href="https://ja.wikipedia.org/wiki/オビラジR" title="w
 <td><p>「BIRTH〜You're the only one Pt.2〜feat. MAY'S」<br />
 「<a href="https://www.youtube.com/watch?v=N378UO7XPEk">Believe 〜夢のカケラ〜</a>」(出演:<a href="../Page/蝶野正洋.md" title="wikilink">蝶野正洋</a>・<a href="https://ja.wikipedia.org/wiki/ストロングスタイル_(お笑いコンビ)" title="wikilink">ストロングスタイル</a>)<br />
 「<a href="https://www.youtube.com/watch?v=a-UUXXMUp4M">PARTY RAP DANCE</a>」<br />
-「<a href="https://www.youtube.com/watch?v=dr_jO3ig8ms">SA･YO･NA･RA 〜君を忘れないよ〜</a>」(出演:<a href="https://ja.wikipedia.org/wiki/柏木由紀" title="wikilink">柏木由紀</a>)<br />
+「<a href="https://www.youtube.com/watch?v=dr_jO3ig8ms">SA･YO･NA･RA 〜君を忘れないよ〜</a>」(出演:<a href="../Page/柏木由紀.md" title="wikilink">柏木由紀</a>)<br />
 「<a href="https://www.youtube.com/watch?v=C5Q6b_nMnUs">また二人で… 〜あの日の帰り道〜 feat.RSP</a>」<br />
 「ナミダボシ feat.詩音」<br />
 「[<a href="https://www.youtube.com/watch?v=rJ7-YZFAZkg">https://www.youtube.com/watch?v=rJ7-YZFAZkg</a> KISS! KISS</p></td>
@@ -1039,7 +1039,7 @@ TBS系テレビ『<a href="https://ja.wikipedia.org/wiki/オビラジR" title="w
   - 2013年10月04日 - SENDAI Calling vol.1
   - 2013年11月24日 - MAD MANIA2013「VIVA\!」 in ASAKUCHI
   - 2013年12月21日 - YOKOHAMA LIVE JACK 2013 -CHRISTMAS SPECIAL-
-  - 2014年03月21日 - [ONE☆DRAFT](https://ja.wikipedia.org/wiki/ONE☆DRAFT "wikilink") presents『PYLON』vol.9
+  - 2014年03月21日 - [ONE☆DRAFT](../Page/ONE☆DRAFT.md "wikilink") presents『PYLON』vol.9
   - 2014年05月30日・31日 - ノックストリート Vol.4
   - 2014年07月29日 - 音霊 OTODAMA SEA STUDIO 2014 「BEACH MOVEMENT」
   - 2014年08月03日 - KAWANE夏祭り@BIG NATURE2014
@@ -1053,21 +1053,21 @@ TBS系テレビ『<a href="https://ja.wikipedia.org/wiki/オビラジR" title="w
 
 ## 関連アーティスト
 
-  - [MAY'S](https://ja.wikipedia.org/wiki/MAY'S "wikilink")
+  - [MAY'S](../Page/MAY'S.md "wikilink")
   - [KG](https://ja.wikipedia.org/wiki/KG_\(R&B\) "wikilink")
-  - [SHIKATA](https://ja.wikipedia.org/wiki/SHIKATA "wikilink")
-  - [NATURAL8](https://ja.wikipedia.org/wiki/NATURAL8 "wikilink")
-  - [2BACKKA](https://ja.wikipedia.org/wiki/2BACKKA "wikilink")
-  - [BIG RON](https://ja.wikipedia.org/wiki/BIG_RON "wikilink")
-  - [SOFFet](https://ja.wikipedia.org/wiki/SOFFet "wikilink")
-  - [エイジアエンジニア](https://ja.wikipedia.org/wiki/エイジアエンジニア "wikilink")
+  - [SHIKATA](../Page/SHIKATA.md "wikilink")
+  - [NATURAL8](../Page/NATURAL8.md "wikilink")
+  - [2BACKKA](../Page/2BACKKA.md "wikilink")
+  - [BIG RON](../Page/BIG_RON.md "wikilink")
+  - [SOFFet](../Page/SOFFet.md "wikilink")
+  - [エイジアエンジニア](../Page/エイジアエンジニア.md "wikilink")
   - [ステューパ](https://ja.wikipedia.org/wiki/ステューパ "wikilink")
   - [HYENA](https://ja.wikipedia.org/wiki/HYENA "wikilink")
   - [DESTINO](https://ja.wikipedia.org/wiki/DESTINO "wikilink")
-  - [THC\!\!](https://ja.wikipedia.org/wiki/THC!! "wikilink")
+  - [THC\!\!](../Page/THC!!.md "wikilink")
   - [sunny-side up](https://ja.wikipedia.org/wiki/sunny-side_up "wikilink")
   - [天上智喜](https://ja.wikipedia.org/wiki/天上智喜 "wikilink")（『[Here](https://ja.wikipedia.org/wiki/Here_\(天上智喜/CLIFF_EDGEの曲\) "wikilink")』でコラボ）
-  - [SEAMO](https://ja.wikipedia.org/wiki/SEAMO "wikilink")
+  - [SEAMO](../Page/SEAMO.md "wikilink")
   - [秋元順子](https://ja.wikipedia.org/wiki/秋元順子 "wikilink")（『終わりなき旅 feat. AJ』でコラボ）
   - [jyA-Me](https://ja.wikipedia.org/wiki/jyA-Me "wikilink")
 

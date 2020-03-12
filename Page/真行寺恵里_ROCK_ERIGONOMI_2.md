@@ -5,7 +5,7 @@
 
 ## 概要
 
-パーソナリティは[ロック](../Page/ロック_\(音楽\).md "wikilink")[シンガー](../Page/歌手.md "wikilink")、[真行寺恵里](https://ja.wikipedia.org/wiki/真行寺恵里 "wikilink")。あいさつは『こんばんは』ではなく『こんばん**な**\!』で、『**記念すべき第○○回の放送を迎えました！**』というのが通例であり、主に[ロック中心の音楽とリスナーからのお便り](../Page/ロック_\(音楽\).md "wikilink")、リクエストなどで構成されていた。一方で、『**ロックの力こぶ**』のコーナーでは[プロレスラー](../Page/プロレスラー.md "wikilink")、[格闘家](https://ja.wikipedia.org/wiki/格闘家 "wikilink")が、『**アイアンホース・ア・ゴーゴー**』では多くの[ライダー](https://ja.wikipedia.org/wiki/ライダー "wikilink")が多くゲストに入り、また音楽プロモーター、スタッフらが出演するコーナーも多くあったことも特徴的だった。
+パーソナリティは[ロック](../Page/ロック_\(音楽\).md "wikilink")[シンガー](../Page/歌手.md "wikilink")、[真行寺恵里](../Page/真行寺恵里.md "wikilink")。あいさつは『こんばんは』ではなく『こんばん**な**\!』で、『**記念すべき第○○回の放送を迎えました！**』というのが通例であり、主に[ロック中心の音楽とリスナーからのお便り](../Page/ロック_\(音楽\).md "wikilink")、リクエストなどで構成されていた。一方で、『**ロックの力こぶ**』のコーナーでは[プロレスラー](../Page/プロレスラー.md "wikilink")、[格闘家](https://ja.wikipedia.org/wiki/格闘家 "wikilink")が、『**アイアンホース・ア・ゴーゴー**』では多くの[ライダー](https://ja.wikipedia.org/wiki/ライダー "wikilink")が多くゲストに入り、また音楽プロモーター、スタッフらが出演するコーナーも多くあったことも特徴的だった。
 
 ## 放送期間・放送時間
 
@@ -17,7 +17,7 @@
   - ロックの力こぶ
     プロレスラー、格闘家をゲストに迎えて、ロックと[格闘技](../Page/格闘技.md "wikilink")の関係、格闘技にとってロックとは何か?などということを様々なトークをしながら考えていた。
   - アイアンホース・ア・ゴーゴー
-    [ロードレース情報を扱い](https://ja.wikipedia.org/wiki/ロードレース_\(オートバイ\) "wikilink")、ロードレースを応援していたコーナー。実力のある[ライダー](https://ja.wikipedia.org/wiki/ライダー "wikilink")、R2-1ピクシーガールらをゲストに迎えていた。
+    [ロードレース情報を扱い](../Page/ロードレース_\(オートバイ\).md "wikilink")、ロードレースを応援していたコーナー。実力のある[ライダー](https://ja.wikipedia.org/wiki/ライダー "wikilink")、R2-1ピクシーガールらをゲストに迎えていた。
   - 新・おすすめ日本の歌
     [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の曲のリクエストを受け付けていたコーナー。
   - 宣伝広場
@@ -25,6 +25,6 @@
   - 日本日記
     あなどれナイト
     阿久井喜一郎の夜空へGO\!
-    [ドラマー](https://ja.wikipedia.org/wiki/ドラマー "wikilink")・[阿久井喜一郎](http://www.bekkoame.ne.jp/ha/akui/1st.html)をメインに進行していたコーナー。
+    [ドラマー](../Page/ドラマー.md "wikilink")・[阿久井喜一郎](http://www.bekkoame.ne.jp/ha/akui/1st.html)をメインに進行していたコーナー。
 
 [Category:1999年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1999年のラジオ番組_\(日本\) "wikilink") [Category:ラジオ日本の番組](https://ja.wikipedia.org/wiki/Category:ラジオ日本の番組 "wikilink") [Category:ローカルラジオ局の音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の音楽番組の歴史 "wikilink") [Category:格闘技のメディア](https://ja.wikipedia.org/wiki/Category:格闘技のメディア "wikilink") [Category:オートバイを題材とした作品](https://ja.wikipedia.org/wiki/Category:オートバイを題材とした作品 "wikilink")

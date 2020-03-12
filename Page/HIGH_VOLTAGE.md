@@ -1,19 +1,19 @@
 > この記事は[HIGH VOLTAGE](https://ja.wikipedia.org/wiki/HIGH_VOLTAGE)から翻訳されています。
 
 
-**HIGH VOLTAGE**（ハイ・ヴォルテージ）は[2002年](../Page/2002年.md "wikilink")に結成された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に[SMAパイオニアーズより](https://ja.wikipedia.org/wiki/SMAプレイヤーズ "wikilink")[メジャーデビュー](https://ja.wikipedia.org/wiki/メジャー・デビュー_\(音楽家\) "wikilink")。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に解散した。[2016年](../Page/2016年.md "wikilink")に再結成し活動再開した。
+**HIGH VOLTAGE**（ハイ・ヴォルテージ）は[2002年](../Page/2002年.md "wikilink")に結成された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[2006年](../Page/2006年.md "wikilink")に[SMAパイオニアーズより](../Page/SMAプレイヤーズ.md "wikilink")[メジャーデビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に解散した。[2016年](../Page/2016年.md "wikilink")に再結成し活動再開した。
 
 ## 来歴
 
-  - [2002年](../Page/2002年.md "wikilink") - [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")にて結成。[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")より北海道以外のエリアでのライブ活動を開始。
+  - [2002年](../Page/2002年.md "wikilink") - [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")にて結成。[2004年](../Page/2004年.md "wikilink")より北海道以外のエリアでのライブ活動を開始。
 
 <!-- end list -->
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") - 現メンバーの4名が揃い、年間120本ものライブを行う。同年の[ライジング・サン・ロックフェスティバル](https://ja.wikipedia.org/wiki/ライジング・サン・ロックフェスティバル "wikilink")にも出演した。
+  - [2005年](../Page/2005年.md "wikilink") - 現メンバーの4名が揃い、年間120本ものライブを行う。同年の[ライジング・サン・ロックフェスティバル](../Page/ライジング・サン・ロックフェスティバル.md "wikilink")にも出演した。
 
 <!-- end list -->
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink") - [SMAパイオニアーズより](https://ja.wikipedia.org/wiki/SMAプレイヤーズ "wikilink")[メジャーデビュー](https://ja.wikipedia.org/wiki/メジャー・デビュー_\(音楽家\) "wikilink")。[ARABAKI ROCK FEST.に出演](https://ja.wikipedia.org/wiki/ARABAKI_ROCK_FEST. "wikilink")。
+  - [2006年](../Page/2006年.md "wikilink") - [SMAパイオニアーズより](../Page/SMAプレイヤーズ.md "wikilink")[メジャーデビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。[ARABAKI ROCK FEST.に出演](../Page/ARABAKI_ROCK_FEST..md "wikilink")。
 
 <!-- end list -->
 
@@ -31,7 +31,7 @@
 
 ## 元メンバー
 
-  - **吉岡貴裕**（よしおか たかひろ） - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、コーラス担当。
+  - **吉岡貴裕**（よしおか たかひろ） - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")、コーラス担当。
 
 ## 作品
 
@@ -105,7 +105,7 @@
     2.  Schizoid
     3.  無気力症候群
   - **UNDERGROUND** （2007年5月2日、AICL-1819）
-      - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[天元突破グレンラガン](https://ja.wikipedia.org/wiki/天元突破グレンラガン "wikilink")』エンディングテーマ
+      - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[天元突破グレンラガン](../Page/天元突破グレンラガン.md "wikilink")』エンディングテーマ
     <!-- end list -->
     1.  UNDERGROUND
     2.  RUNNER

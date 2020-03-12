@@ -1,15 +1,15 @@
 > この記事は[REBORN! ](https://ja.wikipedia.org/wiki/REBORN!_)から翻訳されています。
 
 
-『**家庭教師ヒットマンREBORN\! 隠し弾**』（かてきょーヒットマンリボーン シークレット・ブレット）は、少年漫画誌『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』連載中の[天野明](https://ja.wikipedia.org/wiki/天野明 "wikilink")の漫画『[家庭教師ヒットマンREBORN\!](https://ja.wikipedia.org/wiki/家庭教師ヒットマンREBORN! "wikilink")』を原作とした[子安秀明](https://ja.wikipedia.org/wiki/子安秀明 "wikilink")の[小説](../Page/小説.md "wikilink")。[挿絵](../Page/挿絵.md "wikilink")は原作者の天野明が担当。[2013年](../Page/2013年.md "wikilink")現在、[ジャンプ ジェイ ブックスレーベルで](https://ja.wikipedia.org/wiki/ジャンプ_ジェイ_ブックス "wikilink")、5巻まで刊行。既刊2巻以降は、月刊漫画誌『[ジャンプスクエア](https://ja.wikipedia.org/wiki/ジャンプスクエア "wikilink")』にて2008年6月号から2009年3月号まで新作を連載していた（全10話）。
+『**家庭教師ヒットマンREBORN\! 隠し弾**』（かてきょーヒットマンリボーン シークレット・ブレット）は、少年漫画誌『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』連載中の[天野明](../Page/天野明.md "wikilink")の漫画『[家庭教師ヒットマンREBORN\!](https://ja.wikipedia.org/wiki/家庭教師ヒットマンREBORN! "wikilink")』を原作とした[子安秀明](https://ja.wikipedia.org/wiki/子安秀明 "wikilink")の[小説](../Page/小説.md "wikilink")。[挿絵](../Page/挿絵.md "wikilink")は原作者の天野明が担当。[2013年](../Page/2013年.md "wikilink")現在、[ジャンプ ジェイ ブックスレーベルで](../Page/ジャンプ_ジェイ_ブックス.md "wikilink")、5巻まで刊行。既刊2巻以降は、月刊漫画誌『[ジャンプスクエア](../Page/ジャンプスクエア.md "wikilink")』にて2008年6月号から2009年3月号まで新作を連載していた（全10話）。
 
 ## 概要
 
-本編で人気のあるサブキャラクターたちの過去や騒動を描いた[短編](https://ja.wikipedia.org/wiki/短編小説 "wikilink")4本を収録した[スピンオフ](https://ja.wikipedia.org/wiki/スピンオフ "wikilink")作品。そのため、メインキャラクターの[沢田綱吉](https://ja.wikipedia.org/wiki/沢田綱吉 "wikilink")（ツナ）はほとんど登場しない。挿絵や本文中にところどころ原作本編の伏線が張ってある。
+本編で人気のあるサブキャラクターたちの過去や騒動を描いた[短編](../Page/短編小説.md "wikilink")4本を収録した[スピンオフ](../Page/スピンオフ.md "wikilink")作品。そのため、メインキャラクターの[沢田綱吉](https://ja.wikipedia.org/wiki/沢田綱吉 "wikilink")（ツナ）はほとんど登場しない。挿絵や本文中にところどころ原作本編の伏線が張ってある。
 
 ## 隠し弾 1 骸・幻想
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[3月12日](../Page/3月12日.md "wikilink")発行。ISBN 978-4-08-703177-5
+[2007年](../Page/2007年.md "wikilink")[3月12日](../Page/3月12日.md "wikilink")発行。ISBN 978-4-08-703177-5
 
   - **収録作品**
       - 跳ね馬爆走\!（はねうまスタンピード）
@@ -72,7 +72,7 @@
 
 ### 殺し屋二人 〜古城より愛をこめて〜
 
-かつて、ビアンキやシャマルが暮らした古城で行われる一夜限りの[パーティ](https://ja.wikipedia.org/wiki/パーティ "wikilink")。ビアンキがリボーンに出会う前の話。
+かつて、ビアンキやシャマルが暮らした古城で行われる一夜限りの[パーティ](../Page/パーティ.md "wikilink")。ビアンキがリボーンに出会う前の話。
 
   - 登場人物
 
@@ -270,7 +270,7 @@
 
 ### 守護者達の鍋宴会（バンケット）
 
-『ジャンプスクエア』6月号に掲載。『隠し弾 3 ミルフィオーレ・パニック』に収録。ヴァリアーとの戦いが終わり休日、鍋を囲むことになった守護者達の鍋コメディ。[テレビアニメの販売用DVD「日常編前編」（標的66-69）の初回特典として](https://ja.wikipedia.org/wiki/家庭教師ヒットマンREBORN!#DVD "wikilink")[ドラマCD](https://ja.wikipedia.org/wiki/ドラマCD "wikilink")化。
+『ジャンプスクエア』6月号に掲載。『隠し弾 3 ミルフィオーレ・パニック』に収録。ヴァリアーとの戦いが終わり休日、鍋を囲むことになった守護者達の鍋コメディ。[テレビアニメの販売用DVD「日常編前編」（標的66-69）の初回特典として](https://ja.wikipedia.org/wiki/家庭教師ヒットマンREBORN!#DVD "wikilink")[ドラマCD](../Page/ドラマCD.md "wikilink")化。
 
 ### 極限メモリーズ
 

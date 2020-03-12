@@ -11,12 +11,12 @@
 
 ### 平日
 
-  - 初代:[桂春之助](https://ja.wikipedia.org/wiki/桂春之輔 "wikilink")、[金原亭桂太](../Page/金原亭伯楽.md "wikilink")、[滝トール](https://ja.wikipedia.org/wiki/滝トール "wikilink")らが曜日毎に担当（番組開始～1976年4月9日）
+  - 初代:[桂春之助](https://ja.wikipedia.org/wiki/桂春之輔 "wikilink")、[金原亭桂太](../Page/金原亭伯楽.md "wikilink")、[滝トール](../Page/滝トール.md "wikilink")らが曜日毎に担当（番組開始～1976年4月9日）
   - 2代目:[中島公司](https://ja.wikipedia.org/wiki/中島公司 "wikilink")（1976年4月12日～番組終了）
 
 ### 土曜日
 
-  - [荒川戦一](https://ja.wikipedia.org/wiki/荒川戦一 "wikilink")
+  - [荒川戦一](../Page/荒川戦一.md "wikilink")
 
 ## アシスタント
 
@@ -28,9 +28,9 @@
   - 土曜は[名古屋テレビ塔](../Page/名古屋テレビ塔.md "wikilink")の展望台から放送しており、「高いところから、失礼しまーす！」とオープニングで言っていた。
   - 土曜は「おはようCBC ビューティフルサタデー」という番組名だった。
   - 中島アナウンサー時代は**聞いたら他人に話したくなる話題の提供**をテーマとした。
-  - 中島は、当番組のパーソナリティへ起用されるまで、CBCからの出向扱いで「キャラバン」（[TBS制作](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")・[JNN](https://ja.wikipedia.org/wiki/JNN "wikilink")全国ネット番組『[おはよう720](https://ja.wikipedia.org/wiki/おはよう720 "wikilink")』内の海外長期取材企画）のリポーターを務めていた。当初は3年間だけパーソナリティを担当する予定だったが、アナウンサーらしからぬ舌鋒鋭い発言が反響を呼んだこともあって、結局は14年にわたって担当。この番組によりCBCの朝ワイドの路線を決定付けた功績を買われ、のちに中島は取締役に就任し、定年後もCBCの経営陣の一員として同局を支えていくこととなった。
-  - テーマ音楽は[ポール・モーリア](https://ja.wikipedia.org/wiki/ポール・モーリア "wikilink")「[巴里にひとり](https://ja.wikipedia.org/wiki/巴里にひとり "wikilink")（MON AMOUR JE VIENS DU BOUT DU MONDE）」。（土曜は別のテーマ音楽）
-  - [放送ライブラリー](https://ja.wikipedia.org/wiki/放送ライブラリー "wikilink")にて、1976年4月12日放送分のダイジェスト版を公開している。
+  - 中島は、当番組のパーソナリティへ起用されるまで、CBCからの出向扱いで「キャラバン」（[TBS制作](../Page/TBSテレビ.md "wikilink")・[JNN](https://ja.wikipedia.org/wiki/JNN "wikilink")全国ネット番組『[おはよう720](https://ja.wikipedia.org/wiki/おはよう720 "wikilink")』内の海外長期取材企画）のリポーターを務めていた。当初は3年間だけパーソナリティを担当する予定だったが、アナウンサーらしからぬ舌鋒鋭い発言が反響を呼んだこともあって、結局は14年にわたって担当。この番組によりCBCの朝ワイドの路線を決定付けた功績を買われ、のちに中島は取締役に就任し、定年後もCBCの経営陣の一員として同局を支えていくこととなった。
+  - テーマ音楽は[ポール・モーリア](../Page/ポール・モーリア.md "wikilink")「[巴里にひとり](../Page/巴里にひとり.md "wikilink")（MON AMOUR JE VIENS DU BOUT DU MONDE）」。（土曜は別のテーマ音楽）
+  - [放送ライブラリー](../Page/放送ライブラリー.md "wikilink")にて、1976年4月12日放送分のダイジェスト版を公開している。
 
 ## コーナー
 

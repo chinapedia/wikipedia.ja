@@ -1,17 +1,17 @@
 > この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
 
 
-[Gunma_kendo_3_honcho5.JPG](https://ja.wikipedia.org/wiki/File:Gunma_kendo_3_honcho5.JPG "fig:Gunma_kendo_3_honcho5.JPG") **株式会社FM桐生**（エフエムきりゅう）は、[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")[桐生市](https://ja.wikipedia.org/wiki/桐生市 "wikilink")の一部地域を[放送区域](https://ja.wikipedia.org/wiki/放送区域 "wikilink")として[超短波放送](../Page/超短波放送.md "wikilink")（[FM放送](https://ja.wikipedia.org/wiki/FM放送 "wikilink")）をする[特定地上基幹放送事業者](https://ja.wikipedia.org/wiki/特定地上基幹放送事業者 "wikilink")である。 *' FM桐生*'そのままの愛称で[コミュニティ放送](../Page/コミュニティ放送.md "wikilink")をしている。
+[Gunma_kendo_3_honcho5.JPG](https://ja.wikipedia.org/wiki/File:Gunma_kendo_3_honcho5.JPG "fig:Gunma_kendo_3_honcho5.JPG") **株式会社FM桐生**（エフエムきりゅう）は、[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")[桐生市](../Page/桐生市.md "wikilink")の一部地域を[放送区域](https://ja.wikipedia.org/wiki/放送区域 "wikilink")として[超短波放送](../Page/超短波放送.md "wikilink")（[FM放送](https://ja.wikipedia.org/wiki/FM放送 "wikilink")）をする[特定地上基幹放送事業者](https://ja.wikipedia.org/wiki/特定地上基幹放送事業者 "wikilink")である。 *' FM桐生*'そのままの愛称で[コミュニティ放送](../Page/コミュニティ放送.md "wikilink")をしている。
 
 ## 概要
 
-群馬県内では[ラジオ高崎](https://ja.wikipedia.org/wiki/ラジオ高崎 "wikilink")・[沼田エフエム放送](https://ja.wikipedia.org/wiki/沼田エフエム放送 "wikilink")・[おおたコミュニティ放送](https://ja.wikipedia.org/wiki/おおたコミュニティ放送 "wikilink")・[エフエム玉村](https://ja.wikipedia.org/wiki/エフエム玉村 "wikilink")に次いでの開局。
+群馬県内では[ラジオ高崎](../Page/ラジオ高崎.md "wikilink")・[沼田エフエム放送](../Page/沼田エフエム放送.md "wikilink")・[おおたコミュニティ放送](../Page/おおたコミュニティ放送.md "wikilink")・[エフエム玉村](../Page/エフエム玉村.md "wikilink")に次いでの開局。
 
 [桐生ガス](../Page/桐生ガス.md "wikilink")の関連会社であり、本社・スタジオは桐生ガスプラザの3階である。また、同ビル1階のショールームの一部を改装し、2017年（平成29年）3月4日よりサテライトスタジオ 「**ミツバふれあいスタジオ**」を開設した（以前より同じ場所で臨時の公開放送を行うことはあった）。
 
 多くの番組が自主制作番組で平日・土曜は終夜放送であるが、深夜早朝の時間帯は前日番組を再放送している。また、日曜日午後11時から月曜日午前7時までは放送休止となる。
 
-[桐生市](https://ja.wikipedia.org/wiki/桐生市 "wikilink")のほか、同じ都市圏の[みどり市](https://ja.wikipedia.org/wiki/みどり市 "wikilink")の情報番組も放送する。
+[桐生市](../Page/桐生市.md "wikilink")のほか、同じ都市圏の[みどり市](../Page/みどり市.md "wikilink")の情報番組も放送する。
 
 ## 主な番組
 
@@ -47,11 +47,11 @@
 
 ## 沿革
 
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")（平成19年）
-      - 4月16日　[予備免許](https://ja.wikipedia.org/wiki/予備免許 "wikilink")取得。
+  - [2007年](../Page/2007年.md "wikilink")（平成19年）
+      - 4月16日　[予備免許](../Page/予備免許.md "wikilink")取得。
       - 6月25日　免許取得。
       - 7月1日　放送開始。
-  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）8月2日　[SimulRadio](https://ja.wikipedia.org/wiki/SimulRadio "wikilink")に加盟、[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")での聴取が可能となる。
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）8月2日　[SimulRadio](../Page/SimulRadio.md "wikilink")に加盟、[インターネット](../Page/インターネット.md "wikilink")での聴取が可能となる。
   - [2012年](../Page/2012年.md "wikilink")（平成24年）4月9日　OPTIMOD FM-5500を導入。
   - [2013年](../Page/2013年.md "wikilink")（平成25年）10月1日　桐生市が[緊急告知FMラジオ](https://ja.wikipedia.org/wiki/緊急告知FMラジオ "wikilink")（防災ラジオ）\[1\]の運用開始。
   - [2013年](../Page/2013年.md "wikilink")（平成25年）12月26日　新里中継局を設置。

@@ -16,7 +16,7 @@ wc の実行例を以下に示す。
 
 最近の wc は[バイトと](../Page/バイト_\(情報\).md "wikilink")[文字を区別できる](../Page/キャラクタ_\(コンピュータ\).md "wikilink")。これは[Unicode](../Page/Unicode.md "wikilink")の多バイト文字を含む場合に差が生じる。どちらを表示させるかはオプションで *-c* か *-m* を使うことで指定できる。
 
-[GNU](../Page/GNU.md "wikilink") wcはかつてGNU textutilsパッケージに含まれていたが、現在では[GNU Core Utilitiesに含まれている](https://ja.wikipedia.org/wiki/GNU_Core_Utilities "wikilink")。
+[GNU](../Page/GNU.md "wikilink") wcはかつてGNU textutilsパッケージに含まれていたが、現在では[GNU Core Utilitiesに含まれている](../Page/GNU_Core_Utilities.md "wikilink")。
 
 ## 使用法
 

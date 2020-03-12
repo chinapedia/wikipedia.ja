@@ -1,7 +1,7 @@
 > この記事は[Namlook](https://ja.wikipedia.org/wiki/Namlook)から翻訳されています。
 
 
-**Namlook**とは、[アンビエント](https://ja.wikipedia.org/wiki/アンビエント "wikilink")レーベルである[FAX+49-69/450464](https://ja.wikipedia.org/wiki/FAX+49-69/450464 "wikilink")を主催する[ピート・ナムルック](https://ja.wikipedia.org/wiki/ピート・ナムルック "wikilink")による同レーベル最大のプロジェクトである。
+**Namlook**とは、[アンビエント](https://ja.wikipedia.org/wiki/アンビエント "wikilink")レーベルである[FAX+49-69/450464](https://ja.wikipedia.org/wiki/FAX+49-69/450464 "wikilink")を主催する[ピート・ナムルック](../Page/ピート・ナムルック.md "wikilink")による同レーベル最大のプロジェクトである。
 
 ## コンセプト
 
@@ -69,7 +69,7 @@ EMS社の[シンセサイザー](../Page/シンセサイザー.md "wikilink")AKS
 
   - **Namlook XIII** - License to Chill *(Deadly Mission "Part I-IX")*
 
-[ウルム](https://ja.wikipedia.org/wiki/ウルム "wikilink")のイベント、Jazz Kartellで1997年10月に行われたライブ。
+[ウルム](../Page/ウルム.md "wikilink")のイベント、Jazz Kartellで1997年10月に行われたライブ。
 
   - **Namlook XIV** - Solarized
 
@@ -77,7 +77,7 @@ EMS社の[シンセサイザー](../Page/シンセサイザー.md "wikilink")AKS
 
   - **Namlook XV** - Free Your Mind
 
-[クラウス・シュルツェ](https://ja.wikipedia.org/wiki/クラウス・シュルツェ "wikilink")から買い取った[モーグ・シンセサイザー](https://ja.wikipedia.org/wiki/モーグ・シンセサイザー "wikilink")やコンピューターを導入した作品。
+[クラウス・シュルツェ](../Page/クラウス・シュルツェ.md "wikilink")から買い取った[モーグ・シンセサイザー](../Page/モーグ・シンセサイザー.md "wikilink")やコンピューターを導入した作品。
 
   - **Namlook XVI** - New Organic Life
   - **Namlook XVII** - New Organic Life II

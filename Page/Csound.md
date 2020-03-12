@@ -1,11 +1,11 @@
 > この記事は[Csound](https://ja.wikipedia.org/wiki/Csound)から翻訳されています。
 
 
-**Csound**は音響を扱う[データ記述言語](https://ja.wikipedia.org/wiki/データ記述言語 "wikilink")であり、「サウンドコンパイラ」あるいは音楽プログラミング言語とも呼ばれる。名称の由来は、それまでの類似ソフトウェアとは異なり、[C言語](../Page/C言語.md "wikilink")で書かれていたためである。[マサチューセッツ工科大学](../Page/マサチューセッツ工科大学.md "wikilink")の Barry Vercoe が Music360 という言語をベースとして設計し、[ベル研究所](../Page/ベル研究所.md "wikilink")の[マックス・マシューズ](https://ja.wikipedia.org/wiki/マックス・マシューズ "wikilink")が処理系を開発した。[LGPLライセンスで提供される](../Page/GNU_Lesser_General_Public_License.md "wikilink")[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")である。開発は1990年代から続いており、バス大学の John Fitch の主導の下で2005年2月に Csound 5 がリリースされた。主な開発関係者は、Istvan Varga、Gabriel Maldonado（画像処理機能を追加した CsoundAV を開発）、Robin Whittle、Richard Karpen、Michael Gogins、Matt Ingalls、Steven Yi、Victor Lazzarini である。
+**Csound**は音響を扱う[データ記述言語](../Page/データ記述言語.md "wikilink")であり、「サウンドコンパイラ」あるいは音楽プログラミング言語とも呼ばれる。名称の由来は、それまでの類似ソフトウェアとは異なり、[C言語](../Page/C言語.md "wikilink")で書かれていたためである。[マサチューセッツ工科大学](../Page/マサチューセッツ工科大学.md "wikilink")の Barry Vercoe が Music360 という言語をベースとして設計し、[ベル研究所](../Page/ベル研究所.md "wikilink")の[マックス・マシューズ](https://ja.wikipedia.org/wiki/マックス・マシューズ "wikilink")が処理系を開発した。[LGPLライセンスで提供される](../Page/GNU_Lesser_General_Public_License.md "wikilink")[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")である。開発は1990年代から続いており、バス大学の John Fitch の主導の下で2005年2月に Csound 5 がリリースされた。主な開発関係者は、Istvan Varga、Gabriel Maldonado（画像処理機能を追加した CsoundAV を開発）、Robin Whittle、Richard Karpen、Michael Gogins、Matt Ingalls、Steven Yi、Victor Lazzarini である。
 
-Csound は2種類の特別な形式の[テキストファイル](https://ja.wikipedia.org/wiki/テキストファイル "wikilink")を入力として使用する。*orchestra* ファイルは楽器の性質などを記述し、*score* ファイルは楽譜などの時系列パラメータを記述する。Csound はこれらのファイルにある命令群を実行し、[音声ファイル](https://ja.wikipedia.org/wiki/音声ファイル "wikilink")を生成したり、リアルタイムで音声を出力したりする。
+Csound は2種類の特別な形式の[テキストファイル](../Page/テキストファイル.md "wikilink")を入力として使用する。*orchestra* ファイルは楽器の性質などを記述し、*score* ファイルは楽譜などの時系列パラメータを記述する。Csound はこれらのファイルにある命令群を実行し、[音声ファイル](https://ja.wikipedia.org/wiki/音声ファイル "wikilink")を生成したり、リアルタイムで音声を出力したりする。
 
-*orchestra* ファイルと *score* ファイルは [XML](../Page/Extensible_Markup_Language.md "wikilink") タグを使って1つにまとめることも可能である。そのような統合された Csound ファイルの例を以下に示す。これは、1[kHzの](../Page/ヘルツ.md "wikilink")[正弦波](https://ja.wikipedia.org/wiki/正弦波 "wikilink")を[サンプリング周波数](../Page/サンプリング周波数.md "wikilink") 44.1 kHz で1秒間鳴らす[WAV](https://ja.wikipedia.org/wiki/WAV "wikilink")ファイルを生成するものである。
+*orchestra* ファイルと *score* ファイルは [XML](../Page/Extensible_Markup_Language.md "wikilink") タグを使って1つにまとめることも可能である。そのような統合された Csound ファイルの例を以下に示す。これは、1[kHzの](../Page/ヘルツ.md "wikilink")[正弦波](../Page/正弦波.md "wikilink")を[サンプリング周波数](../Page/サンプリング周波数.md "wikilink") 44.1 kHz で1秒間鳴らす[WAV](../Page/WAV.md "wikilink")ファイルを生成するものである。
 
     <CsoundSynthesizer>;
 
@@ -43,15 +43,15 @@ Csound の[MPEG-4](../Page/MPEG-4.md "wikilink")への拡張機能と （SAOL）
 
   - [OpenMusic](https://ja.wikipedia.org/wiki/OpenMusic "wikilink") - Csoundの[クロスプラットフォーム](../Page/クロスプラットフォーム.md "wikilink")となる[ライブラリ](../Page/ライブラリ.md "wikilink")(OM2Csound)が存在する。
   - [MUSIC-N](https://ja.wikipedia.org/wiki/MUSIC-N "wikilink")
-  - [音響信号処理](https://ja.wikipedia.org/wiki/音響信号処理 "wikilink")
-  - [ソフトウェア・シンセサイザー](https://ja.wikipedia.org/wiki/ソフトウェア・シンセサイザー "wikilink")
+  - [音響信号処理](../Page/音響信号処理.md "wikilink")
+  - [ソフトウェア・シンセサイザー](../Page/ソフトウェア・シンセサイザー.md "wikilink")
   - [デスクトップミュージック](../Page/デスクトップミュージック.md "wikilink")
 
 ## 外部リンク
 
   - [公式サイト](http://www.csounds.com/)
   - [CSound Wiki](http://www.electrowiki.com/wiki/index.php?title=Csound) 関連文書
-  - [Project site](http://sourceforge.net/projects/csound) （[SourceForge.net](https://ja.wikipedia.org/wiki/SourceForge.net "wikilink")）
+  - [Project site](http://sourceforge.net/projects/csound) （[SourceForge.net](../Page/SourceForge.net.md "wikilink")）
   - [MacCsound](http://www.csounds.com/matt/MacCsound/) は、Macintosh 向けの CSound プログラミング環境
   - [Csound for MacOS Classic](http://www.anthonykozar.net/csound-macos/)
   - [Csound Editor](http://gomba.sourceforge.net/flavio/csound-editor.html) Windows 向けの Csound プログラミング環境

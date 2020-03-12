@@ -1,22 +1,22 @@
 > この記事は[KHBEYE](https://ja.wikipedia.org/wiki/KHBEYE)から翻訳されています。
 
 
-『**KHBステーションEYE**』は、[1993年](../Page/1993年.md "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月28日](../Page/9月28日.md "wikilink")まで[東日本放送](../Page/東日本放送.md "wikilink")で夕方に放送されていた[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")向けの[ローカルワイド](https://ja.wikipedia.org/wiki/ローカルワイド番組 "wikilink")[ニュース番組で](../Page/報道番組.md "wikilink")、『[ステーションEYE](../Page/ステーションEYE.md "wikilink")』の宮城県ローカルパートに相当する。
+『**KHBステーションEYE**』は、[1993年](../Page/1993年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月28日](../Page/9月28日.md "wikilink")まで[東日本放送](../Page/東日本放送.md "wikilink")で夕方に放送されていた[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")向けの[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組で](../Page/報道番組.md "wikilink")、『[ステーションEYE](../Page/ステーションEYE.md "wikilink")』の宮城県ローカルパートに相当する。
 
 ## 概要
 
-『[KHB 530ステーション](../Page/KHB_600ステーション.md "wikilink")』（『[ANN 530ステーション](../Page/600ステーション.md "wikilink")』）が終了し、『ステーションEYE』週末版が開始するのを受けて本番組がスタートした。当初は週末のみに放送されていたが、『[KHBエリアリポート](https://ja.wikipedia.org/wiki/KHBエリアリポート "wikilink")』が終了したことで平日にも放送されるようになった。
+『[KHB 530ステーション](../Page/KHB_600ステーション.md "wikilink")』（『[ANN 530ステーション](../Page/600ステーション.md "wikilink")』）が終了し、『ステーションEYE』週末版が開始するのを受けて本番組がスタートした。当初は週末のみに放送されていたが、『[KHBエリアリポート](../Page/KHBエリアリポート.md "wikilink")』が終了したことで平日にも放送されるようになった。
 
 ## キャスター
 
 ### 平日
 
-  - [山口則幸](https://ja.wikipedia.org/wiki/山口則幸 "wikilink")
+  - [山口則幸](../Page/山口則幸.md "wikilink")
   - ほか
 
 ### 週末
 
-  - [シフト勤務](https://ja.wikipedia.org/wiki/シフト勤務 "wikilink")
+  - [シフト勤務](../Page/シフト勤務.md "wikilink")
 
 ## 放送時間
 
@@ -34,7 +34,7 @@
 
 ## 関連項目
 
-  - [KHBエリアリポート](https://ja.wikipedia.org/wiki/KHBエリアリポート "wikilink") - 前番組。
+  - [KHBエリアリポート](../Page/KHBエリアリポート.md "wikilink") - 前番組。
   - [ステーションEYE](../Page/ステーションEYE.md "wikilink")
   - [KHBニュースチャンネル](../Page/KHBニュースチャンネル.md "wikilink") - 後番組。
 

@@ -13,17 +13,17 @@ Graphvizはグラフ記述言語である[DOT言語](https://ja.wikipedia.org/wi
     circo : 環状のレイアウト用
     fdp : もうひとつの無向グラフ用レイアウトツール
     dotty : グラフを視覚化して編集可能とした[グラフィカルユーザインタフェース](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink") (GUI)
-    lefty : DOTグラフを描画するためのプログラム可能な[ウィジェット](https://ja.wikipedia.org/wiki/ウィジェット_\(GUI\) "wikilink")。ユーザーがマウスを使ってそれらを操作できる。つまり、グラフを使った [Model View Controller型](https://ja.wikipedia.org/wiki/Model_View_Controller "wikilink") GUI で利用可能である。
+    lefty : DOTグラフを描画するためのプログラム可能な[ウィジェット](https://ja.wikipedia.org/wiki/ウィジェット_\(GUI\) "wikilink")。ユーザーがマウスを使ってそれらを操作できる。つまり、グラフを使った [Model View Controller型](../Page/Model_View_Controller.md "wikilink") GUI で利用可能である。
 
 ## 応用
 
-  - lisp2dot - [LISP](https://ja.wikipedia.org/wiki/LISP "wikilink")プログラムを[DOT言語](https://ja.wikipedia.org/wiki/DOT言語 "wikilink")に変換する。[遺伝的プログラミング](https://ja.wikipedia.org/wiki/遺伝的プログラミング "wikilink")での利用を意図して設計された。
-  - [Doxygen](https://ja.wikipedia.org/wiki/Doxygen "wikilink") - [C++](../Page/C++.md "wikilink")や[Java](https://ja.wikipedia.org/wiki/Java "wikilink")、[Python](../Page/Python.md "wikilink")と連携してGraphVizを使ったクラスの継承関係の図を描画する
+  - lisp2dot - [LISP](https://ja.wikipedia.org/wiki/LISP "wikilink")プログラムを[DOT言語](https://ja.wikipedia.org/wiki/DOT言語 "wikilink")に変換する。[遺伝的プログラミング](../Page/遺伝的プログラミング.md "wikilink")での利用を意図して設計された。
+  - [Doxygen](../Page/Doxygen.md "wikilink") - [C++](../Page/C++.md "wikilink")や[Java](https://ja.wikipedia.org/wiki/Java "wikilink")、[Python](../Page/Python.md "wikilink")と連携してGraphVizを使ったクラスの継承関係の図を描画する
   - [GraphViz](https://ja.wikipedia.org/wiki/mw:Extension:GraphViz "wikilink") - MediaWiki GraphViz Extension
   - [MoinMoin wiki GraphViz Extension](http://moinmoin.wikiwikiweb.de/ParserMarket/dot.py)
   - [Linguine Maps Java API to Graphviz](http://www.softwaresecretweapons.com/jspwiki/linguinemaps)
   - [UMLGraph](http://www.umlgraph.org/) 宣言的記述から[UMLのクラス図とシーケンス図を作成する](../Page/統一モデリング言語.md "wikilink")
-  - [Friend Explorer](http://www.friendexplorer.net/) Graphviz と [Facebook](https://ja.wikipedia.org/wiki/Facebook "wikilink") APIを使って[社会的ネットワーク](https://ja.wikipedia.org/wiki/社会的ネットワーク "wikilink")を描画する
+  - [Friend Explorer](http://www.friendexplorer.net/) Graphviz と [Facebook](../Page/Facebook.md "wikilink") APIを使って[社会的ネットワーク](../Page/社会的ネットワーク.md "wikilink")を描画する
   - [OmniGraffle](https://ja.wikipedia.org/wiki/OmniGraffle "wikilink") ([オムニグラフ 5](http://www.act2.com/products/omni/omni_graffle5/)) Graphviz-ベースのレイアウトエンジンを搭載し、関係図をGUI環境で作成する
 
 ## 参考文献

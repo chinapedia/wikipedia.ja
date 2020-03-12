@@ -7,11 +7,11 @@
 
 はなわの初のオリジナルアルバム。自身のエピソード、都道府県にまつわる話を主にして歌った。
 
-[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")は東京都健康プラザハイジアの屋上で撮影された\[1\]。
+[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")は東京都健康プラザハイジアの屋上で撮影された\[1\]。
 
-『大阪府』には、[やしきたかじん](https://ja.wikipedia.org/wiki/やしきたかじん "wikilink")や、[兵庫県](../Page/兵庫県.md "wikilink")出身の[上沼恵美子](https://ja.wikipedia.org/wiki/上沼恵美子 "wikilink")を名指しで歌っており、上沼を「カリスマ」と評した。たかじん、上沼を始めとする関西人の間では、「ほとんど正しい」などの絶賛的な意見が相次いだ。また、『千葉県』でも、[ヨネスケ](https://ja.wikipedia.org/wiki/ヨネスケ "wikilink")を名指しで歌っている。
+『大阪府』には、[やしきたかじん](../Page/やしきたかじん.md "wikilink")や、[兵庫県](../Page/兵庫県.md "wikilink")出身の[上沼恵美子](../Page/上沼恵美子.md "wikilink")を名指しで歌っており、上沼を「カリスマ」と評した。たかじん、上沼を始めとする関西人の間では、「ほとんど正しい」などの絶賛的な意見が相次いだ。また、『千葉県』でも、[ヨネスケ](../Page/ヨネスケ.md "wikilink")を名指しで歌っている。
 
-テレビ朝日系「[MUSIC STATIONスペシャル](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")」、[NHK総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")「[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")」では、「佐賀県(シングルバージョン)」「大阪府」「埼玉県」「千葉県」を熱唱した。
+テレビ朝日系「[MUSIC STATIONスペシャル](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")」、[NHK総合](../Page/NHK総合テレビジョン.md "wikilink")「[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")」では、「佐賀県(シングルバージョン)」「大阪府」「埼玉県」「千葉県」を熱唱した。
 
 「埼玉県」は、[2019年](../Page/2019年.md "wikilink")に映画『[翔んで埼玉](https://ja.wikipedia.org/wiki/翔んで埼玉 "wikilink")』主題歌「埼玉県のうた」としてリメイクされた\[2\]\[3\]。
 

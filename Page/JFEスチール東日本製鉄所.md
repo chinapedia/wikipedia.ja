@@ -19,7 +19,7 @@
   - [1959年](../Page/1959年.md "wikilink")（昭和34年）2月 - 水江製鉄所操業開始。
   - [1962年](../Page/1962年.md "wikilink")（昭和37年）11月 - 水江製鉄所第1高炉火入れ。
   - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")（昭和43年）4月 - 川崎・鶴見・水江の3製鉄所を統合し、京浜製鉄所発足。
-  - [1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink")（昭和51年）11月 - 扇島第1高炉火入れ。
+  - [1976年](../Page/1976年.md "wikilink")（昭和51年）11月 - 扇島第1高炉火入れ。
   - [1979年](../Page/1979年.md "wikilink")（昭和54年） - 第2高炉火入れ。
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（平成2年） - 高炉1基体制化。
   - [2003年](../Page/2003年.md "wikilink")（平成15年）[12月1日](../Page/12月1日.md "wikilink") - JFEスチール東日本製鉄所に再編。
@@ -41,9 +41,9 @@
 ### アクセス
 
   - 扇島地区・池上地区
-    [川崎駅](https://ja.wikipedia.org/wiki/川崎駅 "wikilink")東口から[川崎市バスおよび](https://ja.wikipedia.org/wiki/川崎市交通局 "wikilink")[川崎鶴見臨港バス](../Page/川崎鶴見臨港バス.md "wikilink")・川21系統（水江町行き・ゼロエミッション工業団地行き）で「JFE扇島正門前」下車。
+    [川崎駅](https://ja.wikipedia.org/wiki/川崎駅 "wikilink")東口から[川崎市バスおよび](../Page/川崎市交通局.md "wikilink")[川崎鶴見臨港バス](../Page/川崎鶴見臨港バス.md "wikilink")・川21系統（水江町行き・ゼロエミッション工業団地行き）で「JFE扇島正門前」下車。
     池上地区の場合は上記系統に乗り、手前の「JFE池上正門前」下車。
-    島全体が私有地である以上に重要な規則として、[海上における人命の安全のための国際条約](https://ja.wikipedia.org/wiki/海上における人命の安全のための国際条約 "wikilink")が適用されているため、[国際テロリズム](https://ja.wikipedia.org/wiki/国際テロリズム "wikilink")防止のために関係者以外の立ち入りは厳しく禁止されている。
+    島全体が私有地である以上に重要な規則として、[海上における人命の安全のための国際条約](../Page/海上における人命の安全のための国際条約.md "wikilink")が適用されているため、[国際テロリズム](https://ja.wikipedia.org/wiki/国際テロリズム "wikilink")防止のために関係者以外の立ち入りは厳しく禁止されている。
   - 渡田地区
     JR[浜川崎駅](../Page/浜川崎駅.md "wikilink")下車（[鶴見線](https://ja.wikipedia.org/wiki/鶴見線 "wikilink")・[南武線](https://ja.wikipedia.org/wiki/南武線 "wikilink")浜川崎支線）
     川崎駅東口から川崎市バス川40系統（小田栄経由水江町行き）、または川崎鶴見臨港バス・川24系統（鋼管循環）・川28系統（京町循環）で「JFE前」下車
@@ -83,8 +83,8 @@
   - 熱延鋼板
   - 冷延鋼板
   - ステンレス鋼板
-  - [鋼管](https://ja.wikipedia.org/wiki/鋼管 "wikilink")
-  - [鉄粉](https://ja.wikipedia.org/wiki/砂鉄 "wikilink")
+  - [鋼管](../Page/鋼管.md "wikilink")
+  - [鉄粉](../Page/砂鉄.md "wikilink")
 
 など
 
@@ -113,13 +113,13 @@
 
 ## 関連項目
 
-  - [JFE東日本硬式野球部](https://ja.wikipedia.org/wiki/JFE東日本硬式野球部 "wikilink")
+  - [JFE東日本硬式野球部](../Page/JFE東日本硬式野球部.md "wikilink")
   - [NKKシーホークス](../Page/NKKシーホークス.md "wikilink")
-  - [千葉ポートタワー](https://ja.wikipedia.org/wiki/千葉ポートタワー "wikilink")
-  - [ハーバーシティ蘇我](https://ja.wikipedia.org/wiki/ハーバーシティ蘇我 "wikilink")
-  - [フクダ電子アリーナ](https://ja.wikipedia.org/wiki/フクダ電子アリーナ "wikilink") - 旧JFEスチール千葉厚板工場跡地。
+  - [千葉ポートタワー](../Page/千葉ポートタワー.md "wikilink")
+  - [ハーバーシティ蘇我](../Page/ハーバーシティ蘇我.md "wikilink")
+  - [フクダ電子アリーナ](../Page/フクダ電子アリーナ.md "wikilink") - 旧JFEスチール千葉厚板工場跡地。
   - [ワイルドブルーヨコハマ](../Page/ワイルドブルーヨコハマ.md "wikilink") - 合併前の旧日本鋼管京浜製鉄所野球場跡地。現在は閉館・再開発されてヨコハマアイランドガーデン。
-  - [新しい製鉄所](https://ja.wikipedia.org/wiki/新しい製鉄所 "wikilink") - [1959年](../Page/1959年.md "wikilink")公開の[岩波映画製作所](https://ja.wikipedia.org/wiki/岩波映画製作所 "wikilink")製作の短編ドキュメンタリー映画。当時の川崎製鉄千葉製鉄所が描かれている。
+  - [新しい製鉄所](https://ja.wikipedia.org/wiki/新しい製鉄所 "wikilink") - [1959年](../Page/1959年.md "wikilink")公開の[岩波映画製作所](../Page/岩波映画製作所.md "wikilink")製作の短編ドキュメンタリー映画。当時の川崎製鉄千葉製鉄所が描かれている。
   - [狩野久宣](https://ja.wikipedia.org/wiki/狩野久宣 "wikilink")（元所長）
   - [北野嘉久](https://ja.wikipedia.org/wiki/北野嘉久 "wikilink")（元所長）
 

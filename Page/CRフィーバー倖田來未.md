@@ -3,13 +3,13 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:CRフィーバー倖田來未.JPG "wikilink")
 
-**CRフィーバー倖田來未**（シーアールフィーバーこうだくみ、機種名『KODA KUMI FEVER LIVE IN HALL』）は、[2007年](../Page/2007年.md "wikilink")7月に[SANKYOが開発](https://ja.wikipedia.org/wiki/三共_\(パチンコ\) "wikilink")、発売した[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。歌手、[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")とのタイアップ機。
+**CRフィーバー倖田來未**（シーアールフィーバーこうだくみ、機種名『KODA KUMI FEVER LIVE IN HALL』）は、[2007年](../Page/2007年.md "wikilink")7月に[SANKYOが開発](../Page/三共_\(パチンコ\).md "wikilink")、発売した[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。歌手、[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")とのタイアップ機。
 
 ## 特徴
 
-  - 突然[確率変動](https://ja.wikipedia.org/wiki/確率変動 "wikilink")タイプであり、「LIVEモード」と呼ばれる。
+  - 突然[確率変動](../Page/確率変動.md "wikilink")タイプであり、「LIVEモード」と呼ばれる。
   - リーチ中は、『[WIND](../Page/WIND_\(倖田來未の曲\).md "wikilink")』、『[Selfish](https://ja.wikipedia.org/wiki/girls～Selfish～ "wikilink")』、『[キューティーハニー](../Page/LOVE_&_HONEY.md "wikilink")』、『[you](https://ja.wikipedia.org/wiki/you_\(倖田來未の曲\) "wikilink")』のPVが流れる。『you』は当機用に撮影されたオリジナル映像である。『キューティーハニー』は権利関係でオリジナルPVで登場する映画およびアニメの[キューティーハニー](https://ja.wikipedia.org/wiki/キューティーハニー "wikilink")は編集されている。
-  - 大当たり時、LIVEモードは、『[Butterfly](https://ja.wikipedia.org/wiki/Butterfly_\(倖田來未の曲\) "wikilink")』、『[Crazy 4 U](../Page/Crazy_4_U.md "wikilink")』、『キューティーハニー』、『[人魚姫](https://ja.wikipedia.org/wiki/4_hot_wave "wikilink")』、『WIND』、『Selfish』、『you』のPVが流れる。『ジョグセレクター』を操作することで大当たり開始時に選曲が可能で、大当たりが続く毎、選択曲が増える（詳細は「大当たり演出」にて）。
+  - 大当たり時、LIVEモードは、『[Butterfly](../Page/Butterfly_\(倖田來未の曲\).md "wikilink")』、『[Crazy 4 U](../Page/Crazy_4_U.md "wikilink")』、『キューティーハニー』、『[人魚姫](../Page/4_hot_wave.md "wikilink")』、『WIND』、『Selfish』、『you』のPVが流れる。『ジョグセレクター』を操作することで大当たり開始時に選曲が可能で、大当たりが続く毎、選択曲が増える（詳細は「大当たり演出」にて）。
   - また、イントロ予告でもPVが流れる。これらのPV系の演出は曲に併せて図柄が動くよう工夫されている。
   - 当機用のTV-CFが2バージョン制作、オンエアされた。倖田本人が出演している。CMでは『[girls](../Page/FREAKY.md "wikilink")』と『[Cherry Girl](https://ja.wikipedia.org/wiki/Cherry_Girl/運命 "wikilink")』が使用されているが、当機では未使用。
   - 役物として蝶を模った『バタフライ』、星を模った『ステラ』が演出を高める。
@@ -17,7 +17,7 @@
   - 当機イベントのために77名によるキャンペーンガール、『バタフライガールズ』が結成された。
   - 2007年6月14日、SANKYOによる当機の発表会が行われた（グランドプリンスホテル新高輪、東京都品川区）。
   - 2007年6月20日、倖田本人によるイベント『KODA KUMI PREMIUM LIMITED LIVE IN HALL』がSANKYO協賛で[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")で行われた。
-  - 2007年7月23日、全国のホールにて導入開始。(先行導入の条件はおのおの40台以上)ただし[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")においては2007年7月16日、導入開始された。
+  - 2007年7月23日、全国のホールにて導入開始。(先行導入の条件はおのおの40台以上)ただし[福岡県](../Page/福岡県.md "wikilink")においては2007年7月16日、導入開始された。
   - [エイベックス所属歌手としては](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")、[CR TRF](https://ja.wikipedia.org/wiki/CR_TRF "wikilink")（[サンセイアールアンドディ](https://ja.wikipedia.org/wiki/サンセイR&D "wikilink")）に続く[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")機のタイアップとなる。
 
 ## スペック
@@ -71,11 +71,11 @@
   - 携帯メール予告 内容で期待度が変化、連続はチャンス。
   - バタフライステップアップ予告 最大4回、続くほどチャンス、いきなりMAXバタフライ予告になる場合もある。スーパーリーチ発展時のMAXバタフライは大当たり確定。
   - カード予告 内容で期待度が変化。FEVERカードは大当たり確定、ライブモードカードはLIVEモード確定。
-  - イントロ予告 『[No Regret](https://ja.wikipedia.org/wiki/No_Regret "wikilink")』、『Crazy 4 U』、『人魚姫』、『Butterfly』、『キューティーハニー』のPV映像が流れた場合、リーチになるとチャンス。連続予告となる場合もある。
+  - イントロ予告 『[No Regret](../Page/No_Regret.md "wikilink")』、『Crazy 4 U』、『人魚姫』、『Butterfly』、『キューティーハニー』のPV映像が流れた場合、リーチになるとチャンス。連続予告となる場合もある。
   - 蝶群予告 リーチ発生時に蝶群が現れるとチャンス。同色の蝶群は確率変動大当たり確定。
   - 実写カットイン予告 リーチ時に倖田の実写が表示されるとチャンス。
   - 音声予告 リーチ時の発声が通常と異なるとチャンス。
-  - モニター予告 背景のモニターで期待度が変化。[夢夢](https://ja.wikipedia.org/wiki/夢夢 "wikilink")、[ドラムくん](https://ja.wikipedia.org/wiki/ドラムくん "wikilink")、『大当たり』は大当たり確定。
+  - モニター予告 背景のモニターで期待度が変化。[夢夢](../Page/夢夢.md "wikilink")、[ドラムくん](https://ja.wikipedia.org/wiki/ドラムくん "wikilink")、『大当たり』は大当たり確定。
   - スベリ予告 リーチ時にスベリ（右＜モーフィング＜左＜左右同時）を伴うとチャンス。
   - 通称プシュン予告 画面が一瞬消灯するような演出で、スーパーリーチやLIVEモードへ移行することがある。
   - 花火予告 リーチ時に花火が上がると期待度アップ。

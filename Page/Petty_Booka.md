@@ -7,10 +7,10 @@
 
   - アサノサトミ（初代Petty）- 元[Flamenco A Go Go](https://ja.wikipedia.org/wiki/Flamenco_A_Go_Go "wikilink")、1999年Petty Booka脱退
   - ススキダユウカ（初代Booka）- 元Flamenco A Go Go
-  - [森山奈歩](https://ja.wikipedia.org/wiki/森山奈歩 "wikilink")（2代目Petty）- 1999年加入
+  - [森山奈歩](../Page/森山奈歩.md "wikilink")（2代目Petty）- 1999年加入
   - 池勝麻衣子（2代目Booka）- 元キャンディ・アイスラッガー
-  - [橋本美香](https://ja.wikipedia.org/wiki/橋本美香 "wikilink")（3代目Petty）- THE DUET・元[制服向上委員会](https://ja.wikipedia.org/wiki/制服向上委員会 "wikilink")（SKiファミリー）- 2008年より
-  - [松尾真冬](https://ja.wikipedia.org/wiki/松尾真冬 "wikilink")（3代目Booka）- THE DUET・元[制服向上委員会](https://ja.wikipedia.org/wiki/制服向上委員会 "wikilink")（SKiファミリー）- 2008年より
+  - [橋本美香](../Page/橋本美香.md "wikilink")（3代目Petty）- THE DUET・元[制服向上委員会](../Page/制服向上委員会.md "wikilink")（SKiファミリー）- 2008年より
+  - [松尾真冬](https://ja.wikipedia.org/wiki/松尾真冬 "wikilink")（3代目Booka）- THE DUET・元[制服向上委員会](../Page/制服向上委員会.md "wikilink")（SKiファミリー）- 2008年より
   - [木田沙織](https://ja.wikipedia.org/wiki/木田沙織 "wikilink")（4代目Booka）- THE DUET（SKiファミリー）- 2008年7月より
   - [sachiko](https://ja.wikipedia.org/wiki/sachiko "wikilink")（5代目Petty）- 2011年より
   - [CHiKA](https://ja.wikipedia.org/wiki/CHiKA "wikilink")（5代目Booka）- 2011年より
@@ -19,7 +19,7 @@
 
 1995年にインディーズでデビューし、1997年、アルバム『Hawaiian Pure Heart-ハワイの純真-』でメジャーに進出。[ウクレレ](../Page/ウクレレ.md "wikilink")を持った[ハワイアン](https://ja.wikipedia.org/wiki/ハワイアン "wikilink")や[カントリー](https://ja.wikipedia.org/wiki/カントリー "wikilink")のスタイルで、洋邦のロックやポップスの曲をカバーした。[マーティン・デニー](https://ja.wikipedia.org/wiki/マーティン・デニー "wikilink")が参加した『BLUE LAGOON～ペティブーカの青い体験～』、『Dancing with Petty Booka -ペティ・ブーカと踊ろう\!』は傑作アルバムとされる。ライブも精力的にこなし、2002年からアメリカの音楽フェスティバル、[SXSW](https://ja.wikipedia.org/wiki/SXSW "wikilink")（サウス・バイ・サウスウエスト）に3年連続で出演。2003～2005年には全米ツアーも行った。
 
-[森山奈歩](https://ja.wikipedia.org/wiki/森山奈歩 "wikilink")の結婚後は活動休止状態だったが、2008年よりSKiファミリーでTHE DUETとして活動している[橋本美香](https://ja.wikipedia.org/wiki/橋本美香 "wikilink")・[松尾真冬](https://ja.wikipedia.org/wiki/松尾真冬 "wikilink")が4代目Petty Bookaとして、自身の活動と並行して活動を開始。3月には[SXSW](https://ja.wikipedia.org/wiki/SXSW "wikilink")に出演したほか、Japan Nite US tour 2008と題し全米ツアーも行った。7月からはTHE DUETのメンバーチェンジに伴い、Bookaが木田沙織に交代した。
+[森山奈歩](../Page/森山奈歩.md "wikilink")の結婚後は活動休止状態だったが、2008年よりSKiファミリーでTHE DUETとして活動している[橋本美香](../Page/橋本美香.md "wikilink")・[松尾真冬](https://ja.wikipedia.org/wiki/松尾真冬 "wikilink")が4代目Petty Bookaとして、自身の活動と並行して活動を開始。3月には[SXSW](https://ja.wikipedia.org/wiki/SXSW "wikilink")に出演したほか、Japan Nite US tour 2008と題し全米ツアーも行った。7月からはTHE DUETのメンバーチェンジに伴い、Bookaが木田沙織に交代した。
 
 [2011年](../Page/2011年.md "wikilink")8月、湘南を中心にそれぞれソロで活動しつつ二人で[satchica](https://ja.wikipedia.org/wiki/satchica "wikilink")というユニットでも活動する[sachiko](https://ja.wikipedia.org/wiki/sachiko "wikilink")と[CHiKA](https://ja.wikipedia.org/wiki/CHiKA "wikilink")が5代目Petty Bookaを襲名しウクレレピクニック(横浜赤レンガ倉庫)で初ステージ。
 
@@ -42,10 +42,10 @@
   - Toconut's Hawaii（1995年7月、BENTEN）
   - FUJIYAMA MAMA（1996年5月、BENTEN）
   - Christmas Everywhere（1996年、BENTEN）
-  - Hawaiian Pure Heart-ハワイの純真-（1997年6月、シスターレコード=[日本クラウン](https://ja.wikipedia.org/wiki/日本クラウン "wikilink")）
+  - Hawaiian Pure Heart-ハワイの純真-（1997年6月、シスターレコード=[日本クラウン](../Page/日本クラウン.md "wikilink")）
   - SWEET HEART OF THE RADIO-ラジオの恋人-（1997年11月、シスターレコード=日本クラウン）
   - BLUE LAGOON～ペティブーカの青い体験～（1998年6月、シスターレコード=日本クラウン）
-  - Dancing with Petty Booka -ペティ・ブーカと踊ろう\!（1999年2月、シスターレコード=日本クラウン）※収録曲「Bla Bla Bla Cha Cha Cha」が[カンパリ](https://ja.wikipedia.org/wiki/カンパリ "wikilink")(イタリア)2009年CMソングとして採用
+  - Dancing with Petty Booka -ペティ・ブーカと踊ろう\!（1999年2月、シスターレコード=日本クラウン）※収録曲「Bla Bla Bla Cha Cha Cha」が[カンパリ](../Page/カンパリ.md "wikilink")(イタリア)2009年CMソングとして採用
   - UKULELE LADY（1999年7月、BENTEN）
   - Summer Breeze（2000年6月、シスターレコード=日本クラウン）　※ベスト・アルバム
   - Singin' in the Rain＊雨に唄えば＊（2001年5月、BENTEN）
@@ -53,8 +53,8 @@
 
 ### シングル
 
-  - 白い色は恋人の色（1997年6月25日、シスターレコード=日本クラウン、[ベッツィ&クリス](https://ja.wikipedia.org/wiki/ベッツィ&クリス "wikilink")のカバー。原曲は「[白い色は恋人の色](https://ja.wikipedia.org/wiki/白い色は恋人の色 "wikilink")」参照）
-  - ロックリバーへ（1997年7月24日、シスターレコード=日本クラウン、[大杉久美子](https://ja.wikipedia.org/wiki/大杉久美子 "wikilink")のカバー。原曲は「[あらいぐまラスカル\#主題歌](https://ja.wikipedia.org/wiki/あらいぐまラスカル#主題歌 "wikilink")」参照）
+  - 白い色は恋人の色（1997年6月25日、シスターレコード=日本クラウン、[ベッツィ&クリス](../Page/ベッツィ&クリス.md "wikilink")のカバー。原曲は「[白い色は恋人の色](https://ja.wikipedia.org/wiki/白い色は恋人の色 "wikilink")」参照）
+  - ロックリバーへ（1997年7月24日、シスターレコード=日本クラウン、[大杉久美子](../Page/大杉久美子.md "wikilink")のカバー。原曲は「[あらいぐまラスカル\#主題歌](https://ja.wikipedia.org/wiki/あらいぐまラスカル#主題歌 "wikilink")」参照）
   - [フジヤマ・ママ](https://ja.wikipedia.org/wiki/フジヤマ・ママ "wikilink")（1997年10月22日、シスターレコード=日本クラウン、、のカバー）
 
 以上のほか、アナログ盤やアメリカで発売された編集盤などがある。

@@ -3,7 +3,7 @@
 
 **Ook\!**（ウーク）は、[プログラミング言語](../Page/プログラミング言語.md "wikilink")の一つ。David Morgan-Marが[オランウータン](../Page/オランウータン.md "wikilink")向けのプログラミング言語として考案した。実用言語ではない[難解プログラミング言語](https://ja.wikipedia.org/wiki/難解プログラミング言語 "wikilink")のひとつ。
 
-オランウータンの鳴き声"Ook"のみを用いた言語である。使用する[トークン](https://ja.wikipedia.org/wiki/トークン "wikilink")は「Ook.」「Ook\!」「Ook?」の3つだけで、これら2つの組み合わせで1命令を表現する。
+オランウータンの鳴き声"Ook"のみを用いた言語である。使用する[トークン](../Page/トークン.md "wikilink")は「Ook.」「Ook\!」「Ook?」の3つだけで、これら2つの組み合わせで1命令を表現する。
 
 Ook\!の仕様は[Brainfuck](../Page/Brainfuck.md "wikilink")と等価である。Ook\!で使用する命令はBrainfuckの命令と正確に対応するので、Ook\!は実のところBrainfuckの文字の置き換えに過ぎない。
 

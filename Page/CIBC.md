@@ -1,9 +1,9 @@
 > この記事は[CIBC](https://ja.wikipedia.org/wiki/CIBC)から翻訳されています。
 
 
-[Commerce_Court.jpg](https://ja.wikipedia.org/wiki/File:Commerce_Court.jpg "fig:Commerce_Court.jpg") **CIBC**（英称：**Canadian Imperial Bank of Commerce**、略称：**CIBC**、[TSX](https://ja.wikipedia.org/wiki/トロント証券取引所 "wikilink")：[CM](http://www.tsx.com/HttpController?GetPage=QuotesViewPage&QuoteSymbol_1=CM)、[NYSE](../Page/ニューヨーク証券取引所.md "wikilink")：[CM](http://www.nyse.com/about/listed/lcddata.html?ticker=CM)、正式名称：**カナダ帝国商業銀行**）は[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の[トロント](../Page/トロント.md "wikilink")に本社を置く銀行である。[カナダ五大銀行](../Page/カナダ五大銀行.md "wikilink")の1つで、国内の銀行業界では5位の規模をもつ。1990年代後半までは業界2位の規模であったが[アメリカでの事業で損失を出し](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、順位を下げた。
+[Commerce_Court.jpg](https://ja.wikipedia.org/wiki/File:Commerce_Court.jpg "fig:Commerce_Court.jpg") **CIBC**（英称：**Canadian Imperial Bank of Commerce**、略称：**CIBC**、[TSX](../Page/トロント証券取引所.md "wikilink")：[CM](http://www.tsx.com/HttpController?GetPage=QuotesViewPage&QuoteSymbol_1=CM)、[NYSE](../Page/ニューヨーク証券取引所.md "wikilink")：[CM](http://www.nyse.com/about/listed/lcddata.html?ticker=CM)、正式名称：**カナダ帝国商業銀行**）は[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の[トロント](../Page/トロント.md "wikilink")に本社を置く銀行である。[カナダ五大銀行](../Page/カナダ五大銀行.md "wikilink")の1つで、国内の銀行業界では5位の規模をもつ。1990年代後半までは業界2位の規模であったが[アメリカでの事業で損失を出し](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、順位を下げた。
 
-業務は国際的に展開しており、アメリカやカリブ海諸国、[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")などにも進出している。一般にはほとんどの場合、「CIBC」の略称で呼ばれる。また、日本語の正式名称はカナダ帝国商業銀行、またはカナディアン・インペリアル商業銀行などと呼ばれる。
+業務は国際的に展開しており、アメリカやカリブ海諸国、[アジア](../Page/アジア.md "wikilink")、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")などにも進出している。一般にはほとんどの場合、「CIBC」の略称で呼ばれる。また、日本語の正式名称はカナダ帝国商業銀行、またはカナディアン・インペリアル商業銀行などと呼ばれる。
 
 ## 歴史
 

@@ -5,12 +5,12 @@
 
 形状は折りたたみ式。iモード対応だがiアプリには非対応。[歩数計](../Page/歩数計.md "wikilink")を搭載しているがカメラ非搭載。
 
-[FOMAらくらくホン](../Page/FOMAらくらくホン.md "wikilink")以降のらくらくホンが、[らくらくホンシンプル](https://ja.wikipedia.org/wiki/らくらくホンシンプル "wikilink")以外はカメラ付機種となった為に、この機種はFOMA らくらくホン発売以降もらくらくホンのカメラ無し機種として継続発売された。
+[FOMAらくらくホン](../Page/FOMAらくらくホン.md "wikilink")以降のらくらくホンが、[らくらくホンシンプル](../Page/らくらくホンシンプル.md "wikilink")以外はカメラ付機種となった為に、この機種はFOMA らくらくホン発売以降もらくらくホンのカメラ無し機種として継続発売された。
 
 ## 歴史
 
   - 2003年7月7日　 [テレコムエンジニアリングセンター](https://ja.wikipedia.org/wiki/テレコムエンジニアリングセンター "wikilink")(TELEC)による[技術基準適合証明の工事設計認証](https://ja.wikipedia.org/wiki/技術基準適合証明#工事設計認証 "wikilink")（工事設計認証番号001WAA1109）
-  - 2003年7月10日　[電気通信端末機器審査協会](https://ja.wikipedia.org/wiki/電気通信端末機器審査協会 "wikilink")による[技術基準適合認定の設計認証](https://ja.wikipedia.org/wiki/技術基準適合認定#設計認証 "wikilink")（設計認証番号A03-0378JP、J03-0054）
+  - 2003年7月10日　[電気通信端末機器審査協会](../Page/電気通信端末機器審査協会.md "wikilink")による[技術基準適合認定の設計認証](https://ja.wikipedia.org/wiki/技術基準適合認定#設計認証 "wikilink")（設計認証番号A03-0378JP、J03-0054）
   - 2003年7月26日　TELECによる技術基準適合証明の工事設計認証（工事設計認証番号001WAA1202）
   - 2003年9月2日　 開発を発表。
   - 2003年9月5日　 パールゴールド、フロンティアブルー、フェザーグリーン発売
@@ -20,7 +20,7 @@
 
 ## 関連項目
 
-  - [らくらくホンIIS](https://ja.wikipedia.org/wiki/らくらくホンIIS "wikilink")
+  - [らくらくホンIIS](../Page/らくらくホンIIS.md "wikilink")
   - [FOMAらくらくホン](../Page/FOMAらくらくホン.md "wikilink")
   - [らくらくホンベーシック](../Page/らくらくホンベーシック.md "wikilink")
 

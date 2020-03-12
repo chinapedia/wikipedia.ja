@@ -1,13 +1,13 @@
 > この記事は[CNN \(\)](https://ja.wikipedia.org/wiki/CNN_\(\))から翻訳されています。
 
 
-『**CNNヘッドライン**』（シーエヌエヌ ヘッドライン）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")10月から[1999年](../Page/1999年.md "wikilink")9月まで[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")[系列局で放送されていた](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")[CNN](https://ja.wikipedia.org/wiki/CNN "wikilink")系の[報道番組](../Page/報道番組.md "wikilink")。
+『**CNNヘッドライン**』（シーエヌエヌ ヘッドライン）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")10月から[1999年](../Page/1999年.md "wikilink")9月まで[テレビ朝日](../Page/テレビ朝日.md "wikilink")[系列局で放送されていた](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")[CNN](https://ja.wikipedia.org/wiki/CNN "wikilink")系の[報道番組](../Page/報道番組.md "wikilink")。
 
 ## 概要
 
   - CNNで報道されたニュース項目を、同局の映像ソースを使い、手短に伝えていたミニ報道番組あるいはニュースショー番組である。**CNNで放送されているニュース番組『CNN Headline NEWS』をそのまま報じる番組ではない。**
   - オーディションで選ばれた女性（主に女子大生やモデル）がキャスターを務めていた。当時のテレビ朝日は『[ニュースシャトル](../Page/ニュースシャトル.md "wikilink")』を始めとして、タレントを報道番組に起用することが多かった。
-  - 番組開始当初は当時六本木にあったJCTV（[日本ケーブルテレビジョン](https://ja.wikipedia.org/wiki/日本ケーブルテレビジョン "wikilink")）のオープンスタジオ（CNN制作フロアの一部を改装して使用。スペース自体は『[CNNデイウォッチ](../Page/CNNデイウォッチ.md "wikilink")』や『[おはよう\!CNN](../Page/おはよう!CNN.md "wikilink")』と共用だが、本番組開始に合わせてスタジオセットの大幅変更や一部レイアウトの変更が行われた）から生放送されていたが、1988年ごろ、[アークヒルズ](../Page/アークヒルズ.md "wikilink")に当時あったテレビ朝日放送センターのNスタジオにスタジオが変更され、以後最終回までテレビ朝日Nスタジオからの放送となった。
+  - 番組開始当初は当時六本木にあったJCTV（[日本ケーブルテレビジョン](../Page/日本ケーブルテレビジョン.md "wikilink")）のオープンスタジオ（CNN制作フロアの一部を改装して使用。スペース自体は『[CNNデイウォッチ](../Page/CNNデイウォッチ.md "wikilink")』や『[おはよう\!CNN](../Page/おはよう!CNN.md "wikilink")』と共用だが、本番組開始に合わせてスタジオセットの大幅変更や一部レイアウトの変更が行われた）から生放送されていたが、1988年ごろ、[アークヒルズ](../Page/アークヒルズ.md "wikilink")に当時あったテレビ朝日放送センターのNスタジオにスタジオが変更され、以後最終回までテレビ朝日Nスタジオからの放送となった。
   - 新聞のテレビ欄には、単にCNNと記載されていた。
   - スポーツ中継などで延長になった時には、放送が深夜2時台にずれ込むこともあった。
   - 国内で緊急の事件・事故があった時には内容を変更して対応していた。
@@ -39,17 +39,17 @@
 
 ## 主なキャスター
 
-  - [松田奈利子](https://ja.wikipedia.org/wiki/松田麻里 "wikilink") - 元[中京テレビアナウンサー](../Page/中京テレビ放送.md "wikilink")。月曜と金曜のキャスターを務めた。
-  - [小牧ユカ](https://ja.wikipedia.org/wiki/小牧ユカ "wikilink") - 1987年の放送開始から火曜と木曜日を担当していた。1987年10月から1993年3月まで5年6か月間にわたってキャスターを務めた。
-  - [山口美江](https://ja.wikipedia.org/wiki/山口美江 "wikilink") - デビューしたのはこの番組である。
+  - [松田奈利子](../Page/松田麻里.md "wikilink") - 元[中京テレビアナウンサー](../Page/中京テレビ放送.md "wikilink")。月曜と金曜のキャスターを務めた。
+  - [小牧ユカ](../Page/小牧ユカ.md "wikilink") - 1987年の放送開始から火曜と木曜日を担当していた。1987年10月から1993年3月まで5年6か月間にわたってキャスターを務めた。
+  - [山口美江](../Page/山口美江.md "wikilink") - デビューしたのはこの番組である。
   - [木佐彩子](https://ja.wikipedia.org/wiki/木佐彩子 "wikilink") - 元[フジテレビアナウンサー](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")。学生時代に担当。\[1\]
   - [丸川珠代](https://ja.wikipedia.org/wiki/丸川珠代 "wikilink") - 担当期間はアナウンサー時代の1995年10月 - 1996年9月。
-  - [浜家優子](https://ja.wikipedia.org/wiki/浜家有文子 "wikilink") - デビューしたのはこの番組である。番組テーマソングのひとつだった「恋はメリーゴーランド」の英訳詞も行った。
-  - [栗原由佳](https://ja.wikipedia.org/wiki/栗原由佳 "wikilink")
+  - [浜家優子](../Page/浜家有文子.md "wikilink") - デビューしたのはこの番組である。番組テーマソングのひとつだった「恋はメリーゴーランド」の英訳詞も行った。
+  - [栗原由佳](../Page/栗原由佳.md "wikilink")
   - [好本綾子](https://ja.wikipedia.org/wiki/好本綾子 "wikilink") - 担当期間は1995年10月 - 1996年9月。
   - [小笠原陽子](https://ja.wikipedia.org/wiki/小笠原陽子 "wikilink") - 担当期間は1995年10月 - 1996年9月。
   - [鈴木聖子](https://ja.wikipedia.org/wiki/鈴木聖子 "wikilink") - 担当期間は1995年10月 - 1996年9月。
-  - [光岡ディオン](https://ja.wikipedia.org/wiki/光岡ディオン "wikilink") - 担当期間は1989年1月 - 1990年3月。同時期に『CNNモーニング』も担当。
+  - [光岡ディオン](../Page/光岡ディオン.md "wikilink") - 担当期間は1989年1月 - 1990年3月。同時期に『CNNモーニング』も担当。
   - [井上美樹子](https://ja.wikipedia.org/wiki/井上美樹子 "wikilink")
   - [吉野三香](https://ja.wikipedia.org/wiki/吉野三香 "wikilink")
   - [木村倫子](https://ja.wikipedia.org/wiki/木村Tina倫子 "wikilink") - 学生時代に担当。
@@ -58,7 +58,7 @@
 
 ## テーマソング
 
-  - 「COME ON」（[PRISM](https://ja.wikipedia.org/wiki/プリズム_\(バンド\) "wikilink")） - 番組開始から長い間使われていた。
+  - 「COME ON」（[PRISM](../Page/プリズム_\(バンド\).md "wikilink")） - 番組開始から長い間使われていた。
   - 「恋はメリーゴーランド」（[大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")）
 
 ## 備考

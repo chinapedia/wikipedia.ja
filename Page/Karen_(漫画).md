@@ -1,13 +1,13 @@
 > この記事は[Karen \(\)](https://ja.wikipedia.org/wiki/Karen_\(\))から翻訳されています。
 
 
-『**Karen**』（カレン）は、[塩崎雄二](https://ja.wikipedia.org/wiki/塩崎雄二 "wikilink")の漫画。『[ビジネスジャンプ](https://ja.wikipedia.org/wiki/ビジネスジャンプ "wikilink")』（[集英社](../Page/集英社.md "wikilink")）で[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")まで連載された。単行本はビジネスジャンプ・コミックス版全2巻（集英社）、カバー書き下ろしの特装版全2巻（[大都社](https://ja.wikipedia.org/wiki/大都社 "wikilink")）がそれぞれ刊行されている。
+『**Karen**』（カレン）は、[塩崎雄二](../Page/塩崎雄二.md "wikilink")の漫画。『[ビジネスジャンプ](../Page/ビジネスジャンプ.md "wikilink")』（[集英社](../Page/集英社.md "wikilink")）で[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")まで連載された。単行本はビジネスジャンプ・コミックス版全2巻（集英社）、カバー書き下ろしの特装版全2巻（[大都社](https://ja.wikipedia.org/wiki/大都社 "wikilink")）がそれぞれ刊行されている。
 
 ## 概要
 
 塩崎の後年の作品とは違い、エロシーンは[パンチラ](../Page/パンチラ.md "wikilink")までとなり、主人公は下着姿からセミヌードまで（脇役などはヌードが時折ある）。
 
-新装版のあとがきにおいて塩崎は、本作の主人公・**君島かれん**は『[一騎当千](../Page/一騎当千_\(漫画\).md "wikilink")』や『[バトルクラブ](https://ja.wikipedia.org/wiki/バトルクラブ "wikilink")』の主人公たちの原型となったキャラクターであると述べている。
+新装版のあとがきにおいて塩崎は、本作の主人公・**君島かれん**は『[一騎当千](../Page/一騎当千_\(漫画\).md "wikilink")』や『[バトルクラブ](../Page/バトルクラブ.md "wikilink")』の主人公たちの原型となったキャラクターであると述べている。
 
 ## ストーリー
 

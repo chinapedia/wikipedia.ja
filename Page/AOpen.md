@@ -1,13 +1,13 @@
 > この記事は[AOpen](https://ja.wikipedia.org/wiki/AOpen)から翻訳されています。
 
 
-**AOpen Inc.**（エーオープン インコーポレイテッド [繁体字](../Page/繁体字.md "wikilink"):**建碁股份有限公司**）とは、[マザーボード](https://ja.wikipedia.org/wiki/マザーボード "wikilink")、[光ディスクドライブ](https://ja.wikipedia.org/wiki/光ディスクドライブ "wikilink")、[入力機器](https://ja.wikipedia.org/wiki/入力機器 "wikilink")などのコンピュータパーツを製造する[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")の電機メーカーである。
+**AOpen Inc.**（エーオープン インコーポレイテッド [繁体字](../Page/繁体字.md "wikilink"):**建碁股份有限公司**）とは、[マザーボード](../Page/マザーボード.md "wikilink")、[光ディスクドライブ](https://ja.wikipedia.org/wiki/光ディスクドライブ "wikilink")、[入力機器](https://ja.wikipedia.org/wiki/入力機器 "wikilink")などのコンピュータパーツを製造する[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")の電機メーカーである。
 
 ## 概要
 
-[acer](https://ja.wikipedia.org/wiki/エイサー_\(企業\) "wikilink")（中文名：建碁）は自社ブランドの各種コンピュータを販売するほか、日本や欧米の多くのメーカーにマザーボードなどを供給する大手メーカーである。このacerが、[1996年](../Page/1996年.md "wikilink")にPCを組み立てる個人ユーザに製品を供給する企業として設立した子会社がAOpenである。AOpenは、acerの新竹第三工廠（以前はCD-ROMドライブなどをメインに製造していた）を改組したものである。当初、AOpen製品を日本国内で取り扱っていたのは日本エイサーだった。その後、エーオープンジャパンが設立された。
+[acer](../Page/エイサー_\(企業\).md "wikilink")（中文名：建碁）は自社ブランドの各種コンピュータを販売するほか、日本や欧米の多くのメーカーにマザーボードなどを供給する大手メーカーである。このacerが、[1996年](../Page/1996年.md "wikilink")にPCを組み立てる個人ユーザに製品を供給する企業として設立した子会社がAOpenである。AOpenは、acerの新竹第三工廠（以前はCD-ROMドライブなどをメインに製造していた）を改組したものである。当初、AOpen製品を日本国内で取り扱っていたのは日本エイサーだった。その後、エーオープンジャパンが設立された。
 
-AOpenが販売する製品の分野は幅広い。現在までに扱ってきた製品は、[マザーボード](https://ja.wikipedia.org/wiki/マザーボード "wikilink")、[ビデオカード](../Page/ビデオカード.md "wikilink")、[サウンドカード](https://ja.wikipedia.org/wiki/サウンドカード "wikilink")、LANカード([NIC](https://ja.wikipedia.org/wiki/ネットワークカード "wikilink"))、ケース(housing)、[電源](https://ja.wikipedia.org/wiki/電源 "wikilink")装置、CD/DVDドライブ、[フロッピーディスクドライブ](https://ja.wikipedia.org/wiki/フロッピーディスクドライブ "wikilink")、[マウス](../Page/マウス_\(コンピュータ\).md "wikilink")、[キーボード](https://ja.wikipedia.org/wiki/キーボード_\(コンピュータ\) "wikilink")、CPUクーラー、[イーサネットハブなどと多岐に渡っている](https://ja.wikipedia.org/wiki/ハブ_\(ネットワーク機器\) "wikilink")。しかし、長期に亘って自社で設計、製造しているのはマザーボードとビデオカードくらいで、他は[OEM](../Page/OEM.md "wikilink")供給を受けていたり、短期に撤退している。例えば電源装置は[FSP Groupなどから](https://ja.wikipedia.org/wiki/FSP_Group "wikilink")、CD/DVDドライブは[LITE-ON](https://ja.wikipedia.org/wiki/LITE-ON "wikilink")などから、フロッピードライブは[ワイ・イー・データ](https://ja.wikipedia.org/wiki/ワイ・イー・データ "wikilink")から供給を受けている。
+AOpenが販売する製品の分野は幅広い。現在までに扱ってきた製品は、[マザーボード](../Page/マザーボード.md "wikilink")、[ビデオカード](../Page/ビデオカード.md "wikilink")、[サウンドカード](../Page/サウンドカード.md "wikilink")、LANカード([NIC](../Page/ネットワークカード.md "wikilink"))、ケース(housing)、[電源](../Page/電源.md "wikilink")装置、CD/DVDドライブ、[フロッピーディスクドライブ](https://ja.wikipedia.org/wiki/フロッピーディスクドライブ "wikilink")、[マウス](../Page/マウス_\(コンピュータ\).md "wikilink")、[キーボード](../Page/キーボード_\(コンピュータ\).md "wikilink")、CPUクーラー、[イーサネットハブなどと多岐に渡っている](../Page/ハブ_\(ネットワーク機器\).md "wikilink")。しかし、長期に亘って自社で設計、製造しているのはマザーボードとビデオカードくらいで、他は[OEM](../Page/OEM.md "wikilink")供給を受けていたり、短期に撤退している。例えば電源装置は[FSP Groupなどから](https://ja.wikipedia.org/wiki/FSP_Group "wikilink")、CD/DVDドライブは[LITE-ON](https://ja.wikipedia.org/wiki/LITE-ON "wikilink")などから、フロッピードライブは[ワイ・イー・データ](https://ja.wikipedia.org/wiki/ワイ・イー・データ "wikilink")から供給を受けている。
 
 以前のエーオープンジャパンは、いささか悪乗りした、マニアごころをくすぐる製品を供給するところがあった。例えば以下のような製品である。
 
@@ -18,7 +18,7 @@ AOpenが販売する製品の分野は幅広い。現在までに扱ってきた
 
 ## Pentium M
 
-本来[モバイル用の](../Page/ノートパソコン.md "wikilink") [CPU](../Page/CPU.md "wikilink") である [Pentium M](https://ja.wikipedia.org/wiki/Pentium_M "wikilink") を[デスクトップ](https://ja.wikipedia.org/wiki/デスクトップ "wikilink")用マザーボードに搭載する Mobile on Desktop（MoDT）\[[http://modt.aopen.com/\]というソリューションを提供することでも知られている](http://modt.aopen.com/%5Dというソリューションを提供することでも知られている)。[2004年](../Page/2004年.md "wikilink")終わり\[1\]から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")初め\[2\]にかけて [Pentium 4](../Page/Pentium_4.md "wikilink") などのデスクトップ用 CPU が Pentium M よりも電力消費効率が悪いことが判明し、多くの製造メーカーは Pentium M を搭載できるデスクトップ用マザーボードを導入した。AOpen はそのようなソリューションを早くから提供し始めた企業の一つである。
+本来[モバイル用の](../Page/ノートパソコン.md "wikilink") [CPU](../Page/CPU.md "wikilink") である [Pentium M](../Page/Pentium_M.md "wikilink") を[デスクトップ](https://ja.wikipedia.org/wiki/デスクトップ "wikilink")用マザーボードに搭載する Mobile on Desktop（MoDT）\[[http://modt.aopen.com/\]というソリューションを提供することでも知られている](http://modt.aopen.com/%5Dというソリューションを提供することでも知られている)。[2004年](../Page/2004年.md "wikilink")終わり\[1\]から[2005年](../Page/2005年.md "wikilink")初め\[2\]にかけて [Pentium 4](../Page/Pentium_4.md "wikilink") などのデスクトップ用 CPU が Pentium M よりも電力消費効率が悪いことが判明し、多くの製造メーカーは Pentium M を搭載できるデスクトップ用マザーボードを導入した。AOpen はそのようなソリューションを早くから提供し始めた企業の一つである。
 
 ## miniPC
 

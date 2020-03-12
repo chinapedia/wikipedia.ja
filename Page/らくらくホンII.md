@@ -1,13 +1,13 @@
 > この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
 
 
-**らくらくホン II**（らくらくホン・ツー）は、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[第二世代携帯電話](https://ja.wikipedia.org/wiki/第二世代携帯電話 "wikilink") ([mova](https://ja.wikipedia.org/wiki/mova "wikilink")) 端末、 **mova F671i**（ムーバ・エフ ろく なな いち・アイ）のブランド名である。 [らくらくホン](https://ja.wikipedia.org/wiki/らくらくホン "wikilink")シリーズ第二弾で、製造は松下通信工業（現[パナソニック モバイルコミュニケーションズ](https://ja.wikipedia.org/wiki/パナソニック_モバイルコミュニケーションズ "wikilink")）に代わって[富士通](../Page/富士通.md "wikilink")が手がける。
+**らくらくホン II**（らくらくホン・ツー）は、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[第二世代携帯電話](https://ja.wikipedia.org/wiki/第二世代携帯電話 "wikilink") ([mova](https://ja.wikipedia.org/wiki/mova "wikilink")) 端末、 **mova F671i**（ムーバ・エフ ろく なな いち・アイ）のブランド名である。 [らくらくホン](../Page/らくらくホン.md "wikilink")シリーズ第二弾で、製造は松下通信工業（現[パナソニック モバイルコミュニケーションズ](../Page/パナソニック_モバイルコミュニケーションズ.md "wikilink")）に代わって[富士通](../Page/富士通.md "wikilink")が手がける。
 
 形状はフリップ式、[iモード](https://ja.wikipedia.org/wiki/iモード "wikilink")に対応するが、[iアプリ](https://ja.wikipedia.org/wiki/iアプリ "wikilink")は対応せず、カメラも搭載していない。
 
 ## 歴史
 
-  - 2001年5月7日　 [電気通信端末機器審査協会](https://ja.wikipedia.org/wiki/電気通信端末機器審査協会 "wikilink")による[技術基準適合認定の設計認証](https://ja.wikipedia.org/wiki/技術基準適合認定#設計認証 "wikilink")（設計認証番号A01-0324JP、J01-0102）
+  - 2001年5月7日　 [電気通信端末機器審査協会](../Page/電気通信端末機器審査協会.md "wikilink")による[技術基準適合認定の設計認証](https://ja.wikipedia.org/wiki/技術基準適合認定#設計認証 "wikilink")（設計認証番号A01-0324JP、J01-0102）
   - 2001年6月1日　 [テレコムエンジニアリングセンター](https://ja.wikipedia.org/wiki/テレコムエンジニアリングセンター "wikilink")による[技術基準適合証明の工事設計認証](https://ja.wikipedia.org/wiki/技術基準適合証明#工事設計認証 "wikilink")（工事設計認証番号WAA0126）
   - 2001年8月27日　開発を発表。
   - 2001年9月1日　 プレシャスゴールド発売
@@ -16,7 +16,7 @@
 
 ## 関連項目
 
-  - [P601es](https://ja.wikipedia.org/wiki/P601es "wikilink")
+  - [P601es](../Page/P601es.md "wikilink")
   - [らくらくホンIIS](../Page/らくらくホンIIS.md "wikilink")
 
 ## 外部リンク

@@ -11,9 +11,9 @@
 
 初回限定生産盤は、オリジナル曲3曲をクラシカルピアノアレンジバージョンで収録したボーナスディスク付の2枚組スリーブケース仕様となっている。また、購入特典としてボーナスディスクに収録されている3曲のオリジナルピアノスコアが応募抽選で当たるキャンペーンが行われた。
 
-前作はロックとクラシックの融合を図った作品であったが、今作においてはよりクラシカルなコンセプトのもとに作品制作が行われている。末光自身はピアノの他にも[タンバリンや](https://ja.wikipedia.org/wiki/タンブリン "wikilink")[チューブラーベル](https://ja.wikipedia.org/wiki/チューブラーベル "wikilink")などの楽器も曲によっては担当している。
+前作はロックとクラシックの融合を図った作品であったが、今作においてはよりクラシカルなコンセプトのもとに作品制作が行われている。末光自身はピアノの他にも[タンバリンや](https://ja.wikipedia.org/wiki/タンブリン "wikilink")[チューブラーベル](../Page/チューブラーベル.md "wikilink")などの楽器も曲によっては担当している。
 
-ジャケットは末光自身の胸像および末光自身に頭から黒いペンキが垂らされているというものである。これはメジャーより一貫して[プロモーションビデオの監督を行っている](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")[ニイマコト](https://ja.wikipedia.org/wiki/ニイマコト "wikilink")の案によるもので、4枚目のシングルにもなった「[Allegro Cantabile](../Page/Allegro_Cantabile_e.p..md "wikilink")」のプロモーションビデオの内容を汲んでいる。また、ペンキを垂らされる過程はCD発売告知の広告にも表れている（\[[http://playlog.jp/suemitsu_staff/blog/2007-04-08\]より](http://playlog.jp/suemitsu_staff/blog/2007-04-08%5Dより)）。
+ジャケットは末光自身の胸像および末光自身に頭から黒いペンキが垂らされているというものである。これはメジャーより一貫して[プロモーションビデオの監督を行っている](../Page/ミュージック・ビデオ.md "wikilink")[ニイマコト](https://ja.wikipedia.org/wiki/ニイマコト "wikilink")の案によるもので、4枚目のシングルにもなった「[Allegro Cantabile](../Page/Allegro_Cantabile_e.p..md "wikilink")」のプロモーションビデオの内容を汲んでいる。また、ペンキを垂らされる過程はCD発売告知の広告にも表れている（\[[http://playlog.jp/suemitsu_staff/blog/2007-04-08\]より](http://playlog.jp/suemitsu_staff/blog/2007-04-08%5Dより)）。
 
 ## 収録曲
 
@@ -24,7 +24,7 @@
 5.  Night Walking Miss Lonesome
 6.  (U Have) The Alternatives
 7.  White Cat Waltz
-      - [TBSラジオ](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")『[ストリーム](https://ja.wikipedia.org/wiki/ストリーム_\(TBSラジオ\) "wikilink")』内コーナー『サウンド・パティスリー』テーマソング
+      - [TBSラジオ](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")『[ストリーム](../Page/ストリーム_\(TBSラジオ\).md "wikilink")』内コーナー『サウンド・パティスリー』テーマソング
 8.  Sonatine
 9.  Pansy
 10. Soul Concatenation
@@ -33,7 +33,7 @@
 12. [Astaire](../Page/Astaire_e.p..md "wikilink")
 13. [Sunday'z Sun](../Page/Sunday'z_Sun_e.p..md "wikilink")
 14. [Allegro Cantabile](../Page/Allegro_Cantabile_e.p..md "wikilink")
-      - フジテレビ系『[ノイタミナ](https://ja.wikipedia.org/wiki/ノイタミナ "wikilink")』枠内放送アニメ『[のだめカンタービレ](https://ja.wikipedia.org/wiki/のだめカンタービレ "wikilink")』オープニングテーマ
+      - フジテレビ系『[ノイタミナ](../Page/ノイタミナ.md "wikilink")』枠内放送アニメ『[のだめカンタービレ](https://ja.wikipedia.org/wiki/のだめカンタービレ "wikilink")』オープニングテーマ
       - ポケメロJOYSOUND CMソング
 
 <!-- end list -->

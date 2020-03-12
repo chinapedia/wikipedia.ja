@@ -9,9 +9,9 @@
 
 1.  **最後のKiss**
       -
-        （[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[作曲](../Page/作曲.md "wikilink"):玉城千春 [編曲](../Page/編曲.md "wikilink"):[重実徹](../Page/重実徹.md "wikilink")）
-        [ツムラ](../Page/ツムラ.md "wikilink")「[クールバスクリン](https://ja.wikipedia.org/wiki/クールバスクリン "wikilink")」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
-        [PVは](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")2人が[砂浜](../Page/砂浜.md "wikilink")で砂に埋もれて足を振るというユニークなもの。
+        （[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink"):玉城千春 [編曲](../Page/編曲.md "wikilink"):[重実徹](../Page/重実徹.md "wikilink")）
+        [ツムラ](../Page/ツムラ.md "wikilink")「[クールバスクリン](https://ja.wikipedia.org/wiki/クールバスクリン "wikilink")」[CMソング](../Page/コマーシャルソング.md "wikilink")
+        [PVは](../Page/ミュージック・ビデオ.md "wikilink")2人が[砂浜](../Page/砂浜.md "wikilink")で砂に埋もれて足を振るというユニークなもの。
 2.  **ちょきん♡**
       -
         （作詞・作曲:玉城千春 編曲:重実徹）

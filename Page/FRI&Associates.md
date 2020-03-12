@@ -5,7 +5,7 @@
 
 ## 概要
 
-2000年に創立者[河合拓](https://ja.wikipedia.org/wiki/河合拓 "wikilink")によって設立。当時は河合の前身である[住金物産](https://ja.wikipedia.org/wiki/住金物産 "wikilink")株式会社[東京ニット原糸課](https://ja.wikipedia.org/wiki/東京ニット原糸課 "wikilink")での経験を元に、ファッションを研究し世の中に発信してゆくことを理念に**F**ashion **R**esearch **I**nstituteの頭文字をとってFRIとなづけられた。「業種業界を超えた生産性の高いぶつかり合い」が創業理念であり、現在でもその価値観は組織の中に浸透している。また、設立者の[河合拓](https://ja.wikipedia.org/wiki/河合拓 "wikilink")は、活動が特定の業種、職種に偏ることを極端に嫌がっていたのは有名な話である。
+2000年に創立者[河合拓](https://ja.wikipedia.org/wiki/河合拓 "wikilink")によって設立。当時は河合の前身である[住金物産](../Page/住金物産.md "wikilink")株式会社[東京ニット原糸課](https://ja.wikipedia.org/wiki/東京ニット原糸課 "wikilink")での経験を元に、ファッションを研究し世の中に発信してゆくことを理念に**F**ashion **R**esearch **I**nstituteの頭文字をとってFRIとなづけられた。「業種業界を超えた生産性の高いぶつかり合い」が創業理念であり、現在でもその価値観は組織の中に浸透している。また、設立者の[河合拓](https://ja.wikipedia.org/wiki/河合拓 "wikilink")は、活動が特定の業種、職種に偏ることを極端に嫌がっていたのは有名な話である。
 
 渋谷の貸会議室で学生4名を集め経営戦略論などの勉強会を続けているうちに、口コミで組織は拡大し、現在に至る。2004年にNPO法人化、現代表は[清水知輝](https://ja.wikipedia.org/wiki/清水知輝 "wikilink")。
 
@@ -13,11 +13,11 @@
 
 ### 創設期
 
-設立当初は、政策学校[一新塾](https://ja.wikipedia.org/wiki/一新塾 "wikilink")などと組み、社会人向けの合宿形式の勉強会などを開催していた。また、河合拓の専門分野である[繊維業界構造改革プラン](https://ja.wikipedia.org/wiki/繊維業界構造改革プラン "wikilink")など、[自民党に政策立案を行ったり](https://ja.wikipedia.org/wiki/自由民主党_\(日本\) "wikilink")、大手総合商社と私立大学を提携し、新ファッションブランドの開発など、当時外資系コンサルタントだった河合拓の斬新なプロジェクトを次々と成功させ、メディアの露出度も増えていった。
+設立当初は、政策学校[一新塾](../Page/一新塾.md "wikilink")などと組み、社会人向けの合宿形式の勉強会などを開催していた。また、河合拓の専門分野である[繊維業界構造改革プラン](https://ja.wikipedia.org/wiki/繊維業界構造改革プラン "wikilink")など、[自民党に政策立案を行ったり](../Page/自由民主党_\(日本\).md "wikilink")、大手総合商社と私立大学を提携し、新ファッションブランドの開発など、当時外資系コンサルタントだった河合拓の斬新なプロジェクトを次々と成功させ、メディアの露出度も増えていった。
 
 ### 拡大期（第一期）
 
-2002年頃から始めた大学生向け就職支援プロジェクトが当時の大学生に好評で、[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")、[早稲田大学](https://ja.wikipedia.org/wiki/早稲田大学 "wikilink")、[慶應義塾大学](https://ja.wikipedia.org/wiki/慶應義塾大学 "wikilink")などでFRIの名前が口コミで広がり活動が拡大。2003年から開催したWinter Campでは、日本全国から大学生を100人規模で集め、ハイレベルなビジネスコンテストを開催するに至っている。現在ではSummer Camp、Autumn Campなど活動は拡大し、同法人の主要な事業の一つにまで発展している。\[1\]。
+2002年頃から始めた大学生向け就職支援プロジェクトが当時の大学生に好評で、[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")、[早稲田大学](../Page/早稲田大学.md "wikilink")、[慶應義塾大学](https://ja.wikipedia.org/wiki/慶應義塾大学 "wikilink")などでFRIの名前が口コミで広がり活動が拡大。2003年から開催したWinter Campでは、日本全国から大学生を100人規模で集め、ハイレベルなビジネスコンテストを開催するに至っている。現在ではSummer Camp、Autumn Campなど活動は拡大し、同法人の主要な事業の一つにまで発展している。\[1\]。
 
 ### 転換期
 
@@ -33,7 +33,7 @@
 
 ## 関連項目
 
-  - [一新塾](https://ja.wikipedia.org/wiki/一新塾 "wikilink")
+  - [一新塾](../Page/一新塾.md "wikilink")
 
 ## 外部リンク・参考資料
 

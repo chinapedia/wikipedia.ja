@@ -1,13 +1,13 @@
 > この記事は[BeForU \(\)](https://ja.wikipedia.org/wiki/BeForU_\(\))から翻訳されています。
 
 
-『**BeForU**』（ビーフォーユー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性歌手グループ[BeForU](https://ja.wikipedia.org/wiki/BeForU "wikilink")の1枚目の[アルバム](../Page/アルバム.md "wikilink")である。2003年11月28日発売。
+『**BeForU**』（ビーフォーユー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性歌手グループ[BeForU](../Page/BeForU.md "wikilink")の1枚目の[アルバム](../Page/アルバム.md "wikilink")である。2003年11月28日発売。
 
 ## 概要
 
-BeForUとしての初のCD作品である。コナミ（[コナミデジタルエンタテインメント](https://ja.wikipedia.org/wiki/コナミデジタルエンタテインメント "wikilink")）の[音楽ゲーム](../Page/音楽ゲーム.md "wikilink")・[BEMANIシリーズ](../Page/BEMANIシリーズ.md "wikilink")で発表した楽曲「DIVE」「Firefly」「BRE∀K DOWN\!」などの他、メンバーのソロ楽曲も収録されている。
+BeForUとしての初のCD作品である。コナミ（[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")）の[音楽ゲーム](../Page/音楽ゲーム.md "wikilink")・[BEMANIシリーズ](../Page/BEMANIシリーズ.md "wikilink")で発表した楽曲「DIVE」「Firefly」「BRE∀K DOWN\!」などの他、メンバーのソロ楽曲も収録されている。
 
-店頭販売は無く、[コナミスタイル](https://ja.wikipedia.org/wiki/コナミスタイル "wikilink")での通信販売のみ。カスタムファクトリーのプロジェクトで3000枚の受注ノルマがあったものの、わずか2週間でノルマ達成し、発売が決定した。通信販売のみという形態ながら、1ヶ月後には1万枚を売り上げている。
+店頭販売は無く、[コナミスタイル](../Page/コナミスタイル.md "wikilink")での通信販売のみ。カスタムファクトリーのプロジェクトで3000枚の受注ノルマがあったものの、わずか2週間でノルマ達成し、発売が決定した。通信販売のみという形態ながら、1ヶ月後には1万枚を売り上げている。
 
 CDジャケットやブックレット、ディスク等にはメンバーの写真は一切無く、代わりに『[GUITARFREAKS](../Page/GUITARFREAKS.md "wikilink")』&『[drummania](https://ja.wikipedia.org/wiki/drummania "wikilink")』シリーズに登場する、メンバーの名前が付けられたキャラクター達が描かれている。
 
@@ -15,11 +15,11 @@ CDジャケットやブックレット、ディスク等にはメンバーの写
 
 1.  **チカラ (LIVE BAND style)**
       -
-        作詞：[小坂りゆ](https://ja.wikipedia.org/wiki/小坂りゆ "wikilink")　作曲・編曲：[NAOKI MAEDA](https://ja.wikipedia.org/wiki/前田尚紀_\(ミュージシャン\) "wikilink")
+        作詞：[小坂りゆ](../Page/小坂りゆ.md "wikilink")　作曲・編曲：[NAOKI MAEDA](../Page/前田尚紀_\(ミュージシャン\).md "wikilink")
         初出は『GUITARFREAKS 9th MIX』&『drummania 8th MIX』。
 2.  **LOVE<sup>2</sup> シュガ→**
       -
-        歌唱：[Noria](../Page/Noria.md "wikilink")　作詞：Noria　作曲・編曲：[Takayuki Ishikawa](https://ja.wikipedia.org/wiki/石川貴之 "wikilink")
+        歌唱：[Noria](../Page/Noria.md "wikilink")　作詞：Noria　作曲・編曲：[Takayuki Ishikawa](../Page/石川貴之.md "wikilink")
         Noriaのソロ楽曲。初出は『[pop'n music](https://ja.wikipedia.org/wiki/pop'n_music "wikilink") 8』。
 3.  **DIVE**
       -

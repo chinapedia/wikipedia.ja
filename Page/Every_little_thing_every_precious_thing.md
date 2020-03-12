@@ -5,9 +5,9 @@
 
 ## 解説
 
-[1991年世界陸上選手権](https://ja.wikipedia.org/wiki/1991年世界陸上選手権 "wikilink")の男子400m走において日本人初の決勝出場を決め、7位入賞を果たした[高野進](../Page/高野進.md "wikilink")選手に対し、夫人が「私が彼に[金メダル](https://ja.wikipedia.org/wiki/金メダル "wikilink")をあげたい」とねぎらったシーンを[渡瀬マキ](https://ja.wikipedia.org/wiki/渡瀬マキ "wikilink")が見て、感動したことでこの曲が生まれた\[1\]。
+[1991年世界陸上選手権](https://ja.wikipedia.org/wiki/1991年世界陸上選手権 "wikilink")の男子400m走において日本人初の決勝出場を決め、7位入賞を果たした[高野進](../Page/高野進.md "wikilink")選手に対し、夫人が「私が彼に[金メダル](../Page/金メダル.md "wikilink")をあげたい」とねぎらったシーンを[渡瀬マキ](https://ja.wikipedia.org/wiki/渡瀬マキ "wikilink")が見て、感動したことでこの曲が生まれた\[1\]。
 
-[阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")の[藤川球児](https://ja.wikipedia.org/wiki/藤川球児 "wikilink")が登場する際のテーマ曲に使用したことで人気を集め、[2007年](../Page/2007年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")に、音源は当時のままだが、藤川の写真をジャケットにし、「球児の歌」として再発売されることとなった。初週に3,629枚を売り上げ[オリコン](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")38位にランクインした。
+[阪神タイガース](../Page/阪神タイガース.md "wikilink")の[藤川球児](https://ja.wikipedia.org/wiki/藤川球児 "wikilink")が登場する際のテーマ曲に使用したことで人気を集め、[2007年](../Page/2007年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")に、音源は当時のままだが、藤川の写真をジャケットにし、「球児の歌」として再発売されることとなった。初週に3,629枚を売り上げ[オリコン](../Page/オリコンチャート.md "wikilink")38位にランクインした。
 
 歌っている渡瀬マキは2007年[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")、テレビ番組の企画で、[阪神甲子園球場](https://ja.wikipedia.org/wiki/阪神甲子園球場 "wikilink")で藤川と初対面し、この曲に対する深い思い入れを聞いた\[2\]。また同年8月28日には甲子園球場で試合を観戦し、11年前の自身の曲が数万人の大合唱と共に球場に響き渡るのを初めて聴き感激の涙を流した。
 
@@ -15,10 +15,10 @@
 
 1.  **every little thing every precious thing**
       -
-        作詞：[渡瀬マキ](https://ja.wikipedia.org/wiki/渡瀬マキ "wikilink")　作曲：[川添智久](https://ja.wikipedia.org/wiki/川添智久 "wikilink")　編曲：LINDBERG・[神長弘一](https://ja.wikipedia.org/wiki/神長弘一 "wikilink")・[井上龍仁](https://ja.wikipedia.org/wiki/井上龍仁 "wikilink")・[佐藤準](https://ja.wikipedia.org/wiki/佐藤準 "wikilink")（ストリングス・アレンジ）
+        作詞：[渡瀬マキ](https://ja.wikipedia.org/wiki/渡瀬マキ "wikilink")　作曲：[川添智久](../Page/川添智久.md "wikilink")　編曲：LINDBERG・[神長弘一](https://ja.wikipedia.org/wiki/神長弘一 "wikilink")・[井上龍仁](https://ja.wikipedia.org/wiki/井上龍仁 "wikilink")・[佐藤準](../Page/佐藤準.md "wikilink")（ストリングス・アレンジ）
     <!-- end list -->
-      - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[第16回全国高等学校クイズ選手権](https://ja.wikipedia.org/wiki/全国高等学校クイズ選手権 "wikilink")』エンディングテーマ曲
-      - パナソニック（[松下電器産業](https://ja.wikipedia.org/wiki/パナソニック "wikilink")）「[ハイビジョンヨコヅナ](https://ja.wikipedia.org/wiki/パナソニックのテレビブランドの変遷#画王（がおう） "wikilink")」[CF曲](https://ja.wikipedia.org/wiki/コマーシャルメッセージ "wikilink")
+      - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[第16回全国高等学校クイズ選手権](../Page/全国高等学校クイズ選手権.md "wikilink")』エンディングテーマ曲
+      - パナソニック（[松下電器産業](https://ja.wikipedia.org/wiki/パナソニック "wikilink")）「[ハイビジョンヨコヅナ](https://ja.wikipedia.org/wiki/パナソニックのテレビブランドの変遷#画王（がおう） "wikilink")」[CF曲](../Page/コマーシャルメッセージ.md "wikilink")
 2.  **アジサイ**
       -
         作詞：渡瀬マキ　作曲：川添智久　編曲：LINDBERG・[須貝幸生](https://ja.wikipedia.org/wiki/須貝幸生 "wikilink")・井上龍仁
@@ -31,11 +31,11 @@
 
 ## 収録アルバム
 
-  - [LINDBERG IX](https://ja.wikipedia.org/wiki/LINDBERG_IX "wikilink")\[3\]
+  - [LINDBERG IX](../Page/LINDBERG_IX.md "wikilink")\[3\]
   - [BEST -FLIGHT RECORDER III-](https://ja.wikipedia.org/wiki/BEST_-FLIGHT_RECORDER_III- "wikilink")
   - [BEST OF SINGLES](https://ja.wikipedia.org/wiki/BEST_OF_SINGLES "wikilink")
   - [WORKS -COMPOSER'S BEST-](https://ja.wikipedia.org/wiki/WORKS_-COMPOSER'S_BEST- "wikilink")
-  - [FINAL BEST](https://ja.wikipedia.org/wiki/FINAL_BEST "wikilink")
+  - [FINAL BEST](../Page/FINAL_BEST.md "wikilink")
   - [Supporter's songs](https://ja.wikipedia.org/wiki/Supporter's_songs "wikilink")
   - [SUPER BEST](https://ja.wikipedia.org/wiki/SUPER_BEST_\(LINDBERGのアルバム\) "wikilink")
   - [BEST FLIGHT](https://ja.wikipedia.org/wiki/BEST_FLIGHT "wikilink")

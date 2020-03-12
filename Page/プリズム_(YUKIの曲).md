@@ -7,7 +7,7 @@
 
   - 前作「[the end of shite](https://ja.wikipedia.org/wiki/the_end_of_shite "wikilink")」からちょうど1ヶ月後のリリースとなった。
   - 本作以降、全てのシングル曲がYUKI自身の作詞となっている（共作を含む）。[JUDY AND MARY解散後](../Page/JUDY_AND_MARY.md "wikilink")、すぐ書き下ろした歌詞作品の一つであり、ソロへの不安と希望、バンドメンバーへの感謝を表した作品として書き上げている\[1\]。
-  - [ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")には俳優の[西島秀俊](https://ja.wikipedia.org/wiki/西島秀俊 "wikilink")が出演している。
+  - [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")には俳優の[西島秀俊](../Page/西島秀俊.md "wikilink")が出演している。
   - [第63回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第63回NHK紅白歌合戦 "wikilink")の初出場で歌われた。本番のパフォーマンス中、星の形をした紙吹雪がウィッグのちょうど額の上部中央に“星の印”のように乗っかり、一部メディアはこれを「奇跡的な演出」と報じた\[2\]。
 
 ## PV
@@ -22,12 +22,12 @@
 
 ## 収録アルバム
 
-  - [PRISMIC](https://ja.wikipedia.org/wiki/PRISMIC "wikilink")（\#1）
+  - [PRISMIC](../Page/PRISMIC.md "wikilink")（\#1）
   - [five-star](https://ja.wikipedia.org/wiki/five-star "wikilink")（\#1）
 
 ## カバー
 
-  - [大橋純子](https://ja.wikipedia.org/wiki/大橋純子 "wikilink")（2007年、アルバム『Terra』）
+  - [大橋純子](../Page/大橋純子.md "wikilink")（2007年、アルバム『Terra』）
 
 ## 出典
 

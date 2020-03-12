@@ -1,7 +1,7 @@
 > この記事は[ DISC 1 CD](https://ja.wikipedia.org/wiki/_DISC_1_CD)から翻訳されています。
 
 
-「**めちゃイケ DISC 1 CD**」（めちゃイケ ディスク ワン シーディー）は[めちゃ²イケてるッ\!のBGMをまとめた](../Page/めちゃ×2イケてるッ!.md "wikilink")8cm[シングル](../Page/シングル.md "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月1日](../Page/9月1日.md "wikilink")発売。発売元は[Epic/Sony Records](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")。
+「**めちゃイケ DISC 1 CD**」（めちゃイケ ディスク ワン シーディー）は[めちゃ²イケてるッ\!のBGMをまとめた](../Page/めちゃ×2イケてるッ!.md "wikilink")8cm[シングル](../Page/シングル.md "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月1日](../Page/9月1日.md "wikilink")発売。発売元は[Epic/Sony Records](../Page/エピックレコードジャパン.md "wikilink")。
 
 ## 解説
 
@@ -12,7 +12,7 @@
 ## 収録曲
 
 1.  **めちゃ²イケてるッ\! （オープニング・テーマ）**
-    （作曲:[恩田快人](https://ja.wikipedia.org/wiki/恩田快人 "wikilink")）
+    （作曲:[恩田快人](../Page/恩田快人.md "wikilink")）
 2.  **[Hello\! Orange Sunshine](https://ja.wikipedia.org/wiki/Hello!_Orange_Sunshine/RADIO "wikilink")** / [JUDY AND MARY](../Page/JUDY_AND_MARY.md "wikilink")
     （作詞:[YUKI](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink") 作曲:恩田快人 編曲:JUDY AND MARY）
       -

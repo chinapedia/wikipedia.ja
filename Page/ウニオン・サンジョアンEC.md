@@ -3,7 +3,7 @@
 
 **ウニオン・サンジョアンEC** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[サンパウロ州](https://ja.wikipedia.org/wiki/サンパウロ州 "wikilink")・[アララスに本拠地を置く](https://ja.wikipedia.org/wiki/アララス_\(サンパウロ\) "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。2013シーズンは[サンパウロ州選手権セリエA](../Page/カンピオナート・パウリスタ.md "wikilink")3（3部に相当）に所属。
 
-1981年1月14日創設。1988年に初めて[サンパウロ州選手権セリエAに昇格した](../Page/カンピオナート・パウリスタ.md "wikilink")。[全国選手権においても](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ "wikilink")、1990年代の数年間は[セリエAに所属した経験がある](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエA "wikilink")。
+1981年1月14日創設。1988年に初めて[サンパウロ州選手権セリエAに昇格した](../Page/カンピオナート・パウリスタ.md "wikilink")。[全国選手権においても](../Page/カンピオナート・ブラジレイロ.md "wikilink")、1990年代の数年間は[セリエAに所属した経験がある](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエA "wikilink")。
 
 元[ブラジル代表の左サイドバック](https://ja.wikipedia.org/wiki/サッカーブラジル代表 "wikilink")、[ロベルト・カルロス](../Page/ロベルト・カルロス.md "wikilink")が、このクラブでプロとしてのキャリアを始めた事でも知られる。
 
@@ -24,13 +24,13 @@
 
 ## 歴代監督
 
-  - [ジョアン・カルロス](https://ja.wikipedia.org/wiki/ジョアン・カルロス・ダ・シウバ・コスタ "wikilink") 1999
+  - [ジョアン・カルロス](../Page/ジョアン・カルロス・ダ・シウバ・コスタ.md "wikilink") 1999
 
-  - [パウリーニョ・マクラーレン](https://ja.wikipedia.org/wiki/パウロ・セザール・ヴィエイラ・ローザ "wikilink") 2012, 2014
+  - [パウリーニョ・マクラーレン](../Page/パウロ・セザール・ヴィエイラ・ローザ.md "wikilink") 2012, 2014
 
 ## 歴代所属選手
 
-  - [エデル](https://ja.wikipedia.org/wiki/エデル・アレイショ・デ・アシス "wikilink")
+  - [エデル](../Page/エデル・アレイショ・デ・アシス.md "wikilink")
 
   - [ロベルト・カルロス](../Page/ロベルト・カルロス.md "wikilink")
 

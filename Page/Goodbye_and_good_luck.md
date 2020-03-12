@@ -5,7 +5,7 @@
 
 ## 解説
 
-全曲英語詞。ミニアルバムのような構成になっており、現在でも全曲オリジナルアルバム未収録である。 デビュー・シングルに同じく、最高位71位は「[冷たい花](https://ja.wikipedia.org/wiki/冷たい花 "wikilink")」の発売直後にチャートを上昇し記録したものである。
+全曲英語詞。ミニアルバムのような構成になっており、現在でも全曲オリジナルアルバム未収録である。 デビュー・シングルに同じく、最高位71位は「[冷たい花](../Page/冷たい花.md "wikilink")」の発売直後にチャートを上昇し記録したものである。
 
 発売から10年経ち、ようやくA面の「goodbye and good luck」が『[complete single collection '97-'08](https://ja.wikipedia.org/wiki/complete_single_collection_'97-'08 "wikilink")』に収録された。
 

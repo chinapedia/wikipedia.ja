@@ -17,7 +17,7 @@
 
 1.  Intro
 2.  Game Maker
-3.  Tokyo摩天楼 '07 feat.[JASHWON](https://ja.wikipedia.org/wiki/JASHWON "wikilink"),[L-VOKAL](https://ja.wikipedia.org/wiki/L-VOKAL "wikilink")
+3.  Tokyo摩天楼 '07 feat.[JASHWON](https://ja.wikipedia.org/wiki/JASHWON "wikilink"),[L-VOKAL](../Page/L-VOKAL.md "wikilink")
 4.  Evil Ways feat.[D.O](../Page/D.O.md "wikilink"),[PIT-GOb](https://ja.wikipedia.org/wiki/PIT-GOb "wikilink")
 5.  探す
 6.  Must Be Dreamin' feat.[般若](https://ja.wikipedia.org/wiki/般若_\(ミュージシャン\) "wikilink"),[KENJI YAMAMOTO](https://ja.wikipedia.org/wiki/KENJI_YAMAMOTO "wikilink")
@@ -35,7 +35,7 @@
 
 ### 客演
 
-  - [I-DeA](../Page/I-DeA.md "wikilink")、『Da FRONT and BACK』（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月11日](../Page/1月11日.md "wikilink")）
+  - [I-DeA](../Page/I-DeA.md "wikilink")、『Da FRONT and BACK』（[2006年](../Page/2006年.md "wikilink")[1月11日](../Page/1月11日.md "wikilink")）
       - 12.My Life feat.bay4k
 
 ## 脚注

@@ -1,7 +1,7 @@
 > この記事は[THEBUSAIKU](https://ja.wikipedia.org/wiki/THEBUSAIKU)から翻訳されています。
 
 
-**THE☆BUSAIKU**（**ザ　ブサイク**）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")7月にサンモールスタジオ（東京・新宿）で公開された [vintage organization](http://www.vintage-produced.com/)制作の[ミュージカル](../Page/ミュージカル.md "wikilink")・[コメディー](../Page/喜劇.md "wikilink")。
+**THE☆BUSAIKU**（**ザ　ブサイク**）は、[2005年](../Page/2005年.md "wikilink")7月にサンモールスタジオ（東京・新宿）で公開された [vintage organization](http://www.vintage-produced.com/)制作の[ミュージカル](../Page/ミュージカル.md "wikilink")・[コメディー](../Page/喜劇.md "wikilink")。
 
 平凡に暮らす[OL](../Page/OL.md "wikilink")たちが[玉の輿](../Page/玉の輿.md "wikilink")結婚を狙って、笑いあり感動ありな展開を繰り広げる。
 
@@ -24,13 +24,13 @@
 ## キャスト
 
   - 井渕多恵：[桜木さやか](https://ja.wikipedia.org/wiki/桜木さやか "wikilink")
-  - 南あや：[民部良子](https://ja.wikipedia.org/wiki/民部良子 "wikilink")
-  - 立花美咲：[白石知世](https://ja.wikipedia.org/wiki/白石知世 "wikilink")
+  - 南あや：[民部良子](../Page/民部良子.md "wikilink")
+  - 立花美咲：[白石知世](../Page/白石知世.md "wikilink")
   - 浦崎可憐：[上谷佳澄](https://ja.wikipedia.org/wiki/上谷佳澄 "wikilink")
   - 遠藤まき子（まめこ）[工藤理恵](https://ja.wikipedia.org/wiki/工藤理恵 "wikilink")
-  - 上杉真治：[鎌苅健太](https://ja.wikipedia.org/wiki/鎌苅健太 "wikilink")
+  - 上杉真治：[鎌苅健太](../Page/鎌苅健太.md "wikilink")
   - 斉藤翼：[宮島幸春](https://ja.wikipedia.org/wiki/宮島幸春 "wikilink")
-  - 王子/斉藤一：[MARCO](https://ja.wikipedia.org/wiki/MARCO "wikilink")
+  - 王子/斉藤一：[MARCO](../Page/MARCO.md "wikilink")
   - 師匠：[郷内学](https://ja.wikipedia.org/wiki/郷内学 "wikilink")
   - 渡辺ゆず：[鈴木亜里咲](https://ja.wikipedia.org/wiki/鈴木亜里咲 "wikilink")
   - 渡辺正：[大西寿昭](https://ja.wikipedia.org/wiki/大西寿昭 "wikilink")
@@ -53,9 +53,9 @@
 
 ## 関連項目
 
-  - [鎌苅健太](https://ja.wikipedia.org/wiki/鎌苅健太 "wikilink")
-  - [民部良子](https://ja.wikipedia.org/wiki/民部良子 "wikilink")
-  - [白石知世](https://ja.wikipedia.org/wiki/白石知世 "wikilink")
+  - [鎌苅健太](../Page/鎌苅健太.md "wikilink")
+  - [民部良子](../Page/民部良子.md "wikilink")
+  - [白石知世](../Page/白石知世.md "wikilink")
   - [ミュージカル](../Page/ミュージカル.md "wikilink")
 
 ## 外部リンク

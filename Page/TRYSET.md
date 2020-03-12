@@ -1,7 +1,7 @@
 > この記事は[TRYSET](https://ja.wikipedia.org/wiki/TRYSET)から翻訳されています。
 
 
-**TRYSET**（トライセット）は、[有限会社](../Page/有限会社.md "wikilink")ポジションの[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランド。[北海道えろげー組合](https://ja.wikipedia.org/wiki/北海道えろげー組合 "wikilink")加盟。[2001年](../Page/2001年.md "wikilink")に倒産した有限会社[グランブルーに所属していた](https://ja.wikipedia.org/wiki/グランブルー_\(ゲーム会社\) "wikilink")[天乃御剣](https://ja.wikipedia.org/wiki/天乃御剣 "wikilink")らによって設立された。サブレーベルには[ロープライス作品を発表する](https://ja.wikipedia.org/wiki/ローエンド "wikilink")「**TRYSET Light**」「**TRYSET MAD**」がある（TRYSETでは基本的に[フルプライス作品を発表](https://ja.wikipedia.org/wiki/ハイエンド "wikilink")）。[DVDPG版に関しては](https://ja.wikipedia.org/wiki/DVDプレイヤーズゲーム "wikilink")、[電脳CLUB](https://ja.wikipedia.org/wiki/電脳CLUB "wikilink")・[ぶる～べり～そふと](https://ja.wikipedia.org/wiki/ぶる～べり～そふと "wikilink")・[N43 Projectで取り扱われる](../Page/アボガドパワーズ.md "wikilink")。
+**TRYSET**（トライセット）は、[有限会社](../Page/有限会社.md "wikilink")ポジションの[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランド。[北海道えろげー組合](https://ja.wikipedia.org/wiki/北海道えろげー組合 "wikilink")加盟。[2001年](../Page/2001年.md "wikilink")に倒産した有限会社[グランブルーに所属していた](../Page/グランブルー_\(ゲーム会社\).md "wikilink")[天乃御剣](https://ja.wikipedia.org/wiki/天乃御剣 "wikilink")らによって設立された。サブレーベルには[ロープライス作品を発表する](https://ja.wikipedia.org/wiki/ローエンド "wikilink")「**TRYSET Light**」「**TRYSET MAD**」がある（TRYSETでは基本的に[フルプライス作品を発表](https://ja.wikipedia.org/wiki/ハイエンド "wikilink")）。[DVDPG版に関しては](https://ja.wikipedia.org/wiki/DVDプレイヤーズゲーム "wikilink")、[電脳CLUB](https://ja.wikipedia.org/wiki/電脳CLUB "wikilink")・[ぶる～べり～そふと](https://ja.wikipedia.org/wiki/ぶる～べり～そふと "wikilink")・[N43 Projectで取り扱われる](../Page/アボガドパワーズ.md "wikilink")。
 
 ## 作品一覧
 
@@ -12,10 +12,10 @@
   - 売約済 〜隷嬢姉妹〜 （2003年6月27日発売）
   - やらせてっ\!てぃーちゃー （[2003年12月12日発売](../Page/12月12日.md "wikilink")）
   - 淫乱病棟24時 （2004年[6月25日](../Page/6月25日.md "wikilink")発売）
-  - 奥様はおねえちゃん\!? （2004年[12月10日](https://ja.wikipedia.org/wiki/12月10日 "wikilink")発売）
-  - あの娘は○痴Girl （[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月22日](../Page/4月22日.md "wikilink")発売）
+  - 奥様はおねえちゃん\!? （2004年[12月10日](../Page/12月10日.md "wikilink")発売）
+  - あの娘は○痴Girl （[2005年](../Page/2005年.md "wikilink")[4月22日](../Page/4月22日.md "wikilink")発売）
   - パクッちゃうぞ\!\! （2005年[11月11日](../Page/11月11日.md "wikilink")発売）
-  - [WHITE×RED](https://ja.wikipedia.org/wiki/WHITE×RED "wikilink") （[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月27日](../Page/1月27日.md "wikilink")発売）
+  - [WHITE×RED](https://ja.wikipedia.org/wiki/WHITE×RED "wikilink") （[2006年](../Page/2006年.md "wikilink")[1月27日](../Page/1月27日.md "wikilink")発売）
   - Myつま （2006年[8月4日](../Page/8月4日.md "wikilink")発売）
   - 教えてっ\!おねてぃー （[2007年](../Page/2007年.md "wikilink")[2月9日](../Page/2月9日.md "wikilink")発売）
   - ヨガって\!奥様 〜欲求不満なムッチリ妻たち〜 （2007年[9月28日](../Page/9月28日.md "wikilink")発売）
@@ -111,8 +111,8 @@
 
 ## 関連項目
 
-  - [MOSAIC.WAV](https://ja.wikipedia.org/wiki/MOSAIC.WAV "wikilink") - 『あの娘は○痴Girl』・『パクッちゃうぞ\!\!』・『Myつま』・『教えてっ\!おねてぃー』の[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")を担当した。
-  - [コンプリーツ](https://ja.wikipedia.org/wiki/コンプリーツ "wikilink") - 社長の日高真一が『やらせてっ\!てぃーちゃー』など数多くの作品の企画を担当。TRYSETの初期作品ではコンプリーツ製の[ゲームエンジン](https://ja.wikipedia.org/wiki/ゲームエンジン "wikilink")を使用していた。
+  - [MOSAIC.WAV](../Page/MOSAIC.WAV.md "wikilink") - 『あの娘は○痴Girl』・『パクッちゃうぞ\!\!』・『Myつま』・『教えてっ\!おねてぃー』の[主題歌](../Page/主題歌.md "wikilink")を担当した。
+  - [コンプリーツ](../Page/コンプリーツ.md "wikilink") - 社長の日高真一が『やらせてっ\!てぃーちゃー』など数多くの作品の企画を担当。TRYSETの初期作品ではコンプリーツ製の[ゲームエンジン](../Page/ゲームエンジン.md "wikilink")を使用していた。
 
 ## 外部リンク
 
@@ -178,5 +178,5 @@
 54.
 55.
 56.
-57. [TRYSET10周年限定記念パック （TRYSET） （18禁） ［ゲーム］ - Getchu.com](http://www.getchu.com/soft.phtml?id=734453) - [げっちゅ屋](https://ja.wikipedia.org/wiki/げっちゅ屋 "wikilink") 商品紹介ページ
+57. [TRYSET10周年限定記念パック （TRYSET） （18禁） ［ゲーム］ - Getchu.com](http://www.getchu.com/soft.phtml?id=734453) - [げっちゅ屋](../Page/げっちゅ屋.md "wikilink") 商品紹介ページ
 58. [NETRIDE（「商品名『改やらせてっ\!てぃーちゃーDL版』商品番号0006M0047」商品詳細参照）](http://www.net-ride.com/shopping/index.php?R_km_url=tryset&dw_week=20140405134040) - TRYSETオフィシャル通販（ダウンロード版）／株式会社ラッセル[2](http://www.net-ride.com/legal.php?R_km_url=tryset)（2014年4月5日閲覧）

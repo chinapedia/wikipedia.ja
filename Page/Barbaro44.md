@@ -3,9 +3,9 @@
 
 **Barbaro44**（バルバロ フォーティーフォー、[1979年](../Page/1979年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性](../Page/男性.md "wikilink")[総合格闘家](https://ja.wikipedia.org/wiki/総合格闘家 "wikilink")。[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")[富山市](https://ja.wikipedia.org/wiki/富山市 "wikilink")出身。クラブ・バーバリアン所属。
 
-強烈な打撃と[パウンドを主武器とするが](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")、[レスリングの技術も高く](https://ja.wikipedia.org/wiki/アマチュアレスリング "wikilink")、近年では[ブラジリアン柔術](../Page/ブラジリアン柔術.md "wikilink")の大会に数多く出場し、寝技の技術も着実に向上している。
+強烈な打撃と[パウンドを主武器とするが](../Page/グラウンドパンチ.md "wikilink")、[レスリングの技術も高く](../Page/アマチュアレスリング.md "wikilink")、近年では[ブラジリアン柔術](../Page/ブラジリアン柔術.md "wikilink")の大会に数多く出場し、寝技の技術も着実に向上している。
 
-本名は**富岡 義宏**（とみおか よしひろ）で、[ZST](https://ja.wikipedia.org/wiki/ZST "wikilink")や[シュートボクシング](../Page/シュートボクシング.md "wikilink")には本名で参戦していた。リングネームの**Barbaro**とは**野蛮人**の意。
+本名は**富岡 義宏**（とみおか よしひろ）で、[ZST](../Page/ZST.md "wikilink")や[シュートボクシング](../Page/シュートボクシング.md "wikilink")には本名で参戦していた。リングネームの**Barbaro**とは**野蛮人**の意。
 
 ## 来歴
 
@@ -13,17 +13,17 @@
 
 [2004年](../Page/2004年.md "wikilink")、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[サンパウロ州](https://ja.wikipedia.org/wiki/サンパウロ州 "wikilink")のテレレ道場で[ブラジリアン柔術](../Page/ブラジリアン柔術.md "wikilink")を学んだ。
 
-2004年10月24日、[DEEP初参戦となった](https://ja.wikipedia.org/wiki/DEEP_\(格闘技団体\) "wikilink")『club DEEP 7th in 富山 -野蛮人祭り-』で白井裕一郎と対戦し、時間切れドローとなった。
+2004年10月24日、[DEEP初参戦となった](../Page/DEEP_\(格闘技団体\).md "wikilink")『club DEEP 7th in 富山 -野蛮人祭り-』で白井裕一郎と対戦し、時間切れドローとなった。
 
 2004年12月18日、『DEEP 17 IMPACT』のフューチャーキングトーナメントに出場、1回戦で潮田健志をKOで破るも、準決勝で[帯谷信弘](../Page/帯谷信弘.md "wikilink")にKO負けを喫した。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")4月17日、『DEEP HERO 1』で熊谷真尚と対戦し、[マウントパンチによるTKO勝ちを収めた](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")。
+[2005年](../Page/2005年.md "wikilink")4月17日、『DEEP HERO 1』で熊谷真尚と対戦し、[マウントパンチによるTKO勝ちを収めた](../Page/グラウンドパンチ.md "wikilink")。
 
-2005年9月3日、『DEEP 20 IMPACT』で行われた「全面対抗戦 DEEP戦士VS[GRABAKA](https://ja.wikipedia.org/wiki/GRABAKA "wikilink")」という3対3の対抗戦にDEEP戦士大将として参戦。GRABAKAの[山崎剛](../Page/山崎剛.md "wikilink")と好勝負を展開するも、バックからのチョークスリーパーを極められタップアウト負け。10月30日、『club DEEP 富山 -野蛮人祭り3-』のメインイベントでGRABAKAの[横田一則](../Page/横田一則.md "wikilink")と対戦し、1-0の判定ドローとなった。
+2005年9月3日、『DEEP 20 IMPACT』で行われた「全面対抗戦 DEEP戦士VS[GRABAKA](../Page/GRABAKA.md "wikilink")」という3対3の対抗戦にDEEP戦士大将として参戦。GRABAKAの[山崎剛](../Page/山崎剛.md "wikilink")と好勝負を展開するも、バックからのチョークスリーパーを極められタップアウト負け。10月30日、『club DEEP 富山 -野蛮人祭り3-』のメインイベントでGRABAKAの[横田一則](../Page/横田一則.md "wikilink")と対戦し、1-0の判定ドローとなった。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")2月5日、『DEEP 23 IMPACT』で長岡弘樹と対戦し、2-1の判定勝ちを収めた。
+[2006年](../Page/2006年.md "wikilink")2月5日、『DEEP 23 IMPACT』で長岡弘樹と対戦し、2-1の判定勝ちを収めた。
 
-2006年6月18日、『club DEEP 富山 -野蛮人祭り4-』のメインイベントで[小見川道大](https://ja.wikipedia.org/wiki/小見川道大 "wikilink")と対戦し、3-0の判定勝ちを収めた。
+2006年6月18日、『club DEEP 富山 -野蛮人祭り4-』のメインイベントで[小見川道大](../Page/小見川道大.md "wikilink")と対戦し、3-0の判定勝ちを収めた。
 
 2006年11月19日、『club DEEP』ではセミファイナルに出場、キム・ジョンヒョンを1R開始直後からパンチの連打で追い込み、1R1分ジャスト、パウンドでTKO勝ち。
 
@@ -51,7 +51,7 @@
 
 ## 関連項目
 
-  - [男子総合格闘家一覧](https://ja.wikipedia.org/wiki/男子総合格闘家一覧 "wikilink")
+  - [男子総合格闘家一覧](../Page/男子総合格闘家一覧.md "wikilink")
 
 ## 外部リンク
 

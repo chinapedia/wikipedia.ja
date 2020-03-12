@@ -5,11 +5,11 @@
 
 ## 解説
 
-全曲英語詞。ミニアルバムのような構成になっており、現在でも全曲オリジナルアルバム未収録である。 デビュー・シングルであるが、発売当時の知名度は低く、最高位69位は「[冷たい花](https://ja.wikipedia.org/wiki/冷たい花 "wikilink")」の発売直後にチャートを上昇し記録したものである。
+全曲英語詞。ミニアルバムのような構成になっており、現在でも全曲オリジナルアルバム未収録である。 デビュー・シングルであるが、発売当時の知名度は低く、最高位69位は「[冷たい花](../Page/冷たい花.md "wikilink")」の発売直後にチャートを上昇し記録したものである。
 
 発売から10年経ち、ようやくA面の「Bye Bye Mr. Mug」が『[complete single collection '97-'08](https://ja.wikipedia.org/wiki/complete_single_collection_'97-'08 "wikilink")』に収録された。
 
-[ジョビジョバ](https://ja.wikipedia.org/wiki/ジョビジョバ "wikilink")出演の[フジテレビ深夜バラエティ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、[さるしばい](https://ja.wikipedia.org/wiki/さるしばい "wikilink")のエンディングテーマでもあった。
+[ジョビジョバ](../Page/ジョビジョバ.md "wikilink")出演の[フジテレビ深夜バラエティ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、[さるしばい](https://ja.wikipedia.org/wiki/さるしばい "wikilink")のエンディングテーマでもあった。
 
 ## 収録曲
 

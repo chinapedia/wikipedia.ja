@@ -5,7 +5,7 @@
 
 ## 概要
 
-[声優](../Page/声優.md "wikilink")である[神谷浩史](https://ja.wikipedia.org/wiki/神谷浩史 "wikilink")と[小野大輔](https://ja.wikipedia.org/wiki/小野大輔 "wikilink")が[ストーリーテラー](https://ja.wikipedia.org/wiki/ストーリーテラー "wikilink")となって「親愛なるラジオの前のたった1人の『アナタ』のため」（Dear girl）に物語を届ける。携帯サイト「[アニメロミックス](https://ja.wikipedia.org/wiki/アニメロミックス "wikilink") Dear Girl」や雑誌『[シルフ](https://ja.wikipedia.org/wiki/シルフ_\(雑誌\) "wikilink")（旧名comic SYLPH）』や『[電撃Girl's Style](https://ja.wikipedia.org/wiki/電撃Girl's_Style "wikilink")』の企画と連動している。
+[声優](../Page/声優.md "wikilink")である[神谷浩史](../Page/神谷浩史.md "wikilink")と[小野大輔](../Page/小野大輔.md "wikilink")が[ストーリーテラー](https://ja.wikipedia.org/wiki/ストーリーテラー "wikilink")となって「親愛なるラジオの前のたった1人の『アナタ』のため」（Dear girl）に物語を届ける。携帯サイト「[アニメロミックス](https://ja.wikipedia.org/wiki/アニメロミックス "wikilink") Dear Girl」や雑誌『[シルフ](../Page/シルフ_\(雑誌\).md "wikilink")（旧名comic SYLPH）』や『[電撃Girl's Style](https://ja.wikipedia.org/wiki/電撃Girl's_Style "wikilink")』の企画と連動している。
 
 2016年3月27日に発表された第2回[アニラジアワード](https://ja.wikipedia.org/wiki/アニラジアワード "wikilink")において、「RADIO OF THE YEAR 最優秀ラジオ大賞」、「BEST MALE RADIO 最優秀男性ラジオ賞」を受賞した\[1\]。
 
@@ -13,8 +13,8 @@
 
   - [文化放送](../Page/文化放送.md "wikilink")
     毎週日曜 1:00 - 1:30（土曜深夜）（[2007年](../Page/2007年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink") - ）
-  - [ラジオ大阪](https://ja.wikipedia.org/wiki/大阪放送 "wikilink")
-    毎週土曜 23:30 - 翌0:00（2008年[4月5日](../Page/4月5日.md "wikilink") - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")）
+  - [ラジオ大阪](../Page/大阪放送.md "wikilink")
+    毎週土曜 23:30 - 翌0:00（2008年[4月5日](../Page/4月5日.md "wikilink") - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月3日](../Page/4月3日.md "wikilink")）
     毎週日曜 23:00 - 23:30（2010年[4月11日](../Page/4月11日.md "wikilink") - ）
   - [超\!A\&G+](https://ja.wikipedia.org/wiki/超!A&G+ "wikilink")
     毎週金曜 23:00 - 23:30（リピート:毎週土曜 14:30 - 15:00、月曜 11:00 - 11:30　2009年7月11日 - 2011年3月25日）
@@ -942,23 +942,23 @@
 
 ## ゲスト
 
-  - 第11話：[安元洋貴](https://ja.wikipedia.org/wiki/安元洋貴 "wikilink")
-  - 第18話：[杉田智和](https://ja.wikipedia.org/wiki/杉田智和 "wikilink") - 神谷が夏風邪で休んだため、代打ストーリーテラーとして登場。
+  - 第11話：[安元洋貴](../Page/安元洋貴.md "wikilink")
+  - 第18話：[杉田智和](../Page/杉田智和.md "wikilink") - 神谷が夏風邪で休んだため、代打ストーリーテラーとして登場。
   - 第20話：杉田智和
-  - 第28話：[中村悠一](https://ja.wikipedia.org/wiki/中村悠一 "wikilink")
+  - 第28話：[中村悠一](../Page/中村悠一.md "wikilink")
   - 第29話：中村悠一 - ゲストとしては紹介されなかった。
   - 第30話：杉原千秋 - comic SYLPH編集長
-  - 第31話：[小林ちゃんこちゃんこ](https://ja.wikipedia.org/wiki/小林洋平 "wikilink") - 文化放送[AD](https://ja.wikipedia.org/wiki/アシスタントディレクター "wikilink")
+  - 第31話：[小林ちゃんこちゃんこ](https://ja.wikipedia.org/wiki/小林洋平 "wikilink") - 文化放送[AD](../Page/アシスタントディレクター.md "wikilink")
   - 第34話：[御徒町鳩](https://ja.wikipedia.org/wiki/御徒町鳩 "wikilink") - 公録ゲスト、「腐女子っス\!」（comic SYLPH連載）作者
   - 第38話：安元洋貴・杉田智和・中村悠一
   - 第39話：安元洋貴・杉田智和・中村悠一
-  - 第43話：[進藤学](https://ja.wikipedia.org/wiki/進藤学 "wikilink")・[南圭介](https://ja.wikipedia.org/wiki/南圭介 "wikilink")・[八神蓮](../Page/八神蓮.md "wikilink")
+  - 第43話：[進藤学](../Page/進藤学.md "wikilink")・[南圭介](../Page/南圭介.md "wikilink")・[八神蓮](../Page/八神蓮.md "wikilink")
   - 第45話：ニャンコ先生 - 神谷の愛猫。
   - 第54話：[楠大典](https://ja.wikipedia.org/wiki/楠大典 "wikilink")
   - 第56話：ママD - 小野の母、電話越しに登場。
-  - 第63話：[鈴木裕斗](https://ja.wikipedia.org/wiki/鈴木裕斗 "wikilink")
+  - 第63話：[鈴木裕斗](../Page/鈴木裕斗.md "wikilink")
   - 第74話：いわさき砂也 - 公録ゲスト、「DearGirl〜Stories〜 響」作画担当。
-  - 第81話：[遊佐浩二](https://ja.wikipedia.org/wiki/遊佐浩二 "wikilink")
+  - 第81話：[遊佐浩二](../Page/遊佐浩二.md "wikilink")
   - 第82話：[石川英郎](../Page/石川英郎.md "wikilink")
   - 第90話：中村悠一・安元洋貴 - DG5のうち、杉田はスケジュールが合わなかったため不在。
   - 第91話：中村悠一・安元洋貴
@@ -971,7 +971,7 @@
   - 第128話：[代永翼](../Page/代永翼.md "wikilink") - 厳密にはゲストではないがシルフ談話室で両パーソナリティから電話を受ける、という形で出演。
   - 第135話：楠大典 - 小野が風邪で休んだため、代打ストーリーテラーとして登場。
   - 第143話：小野坂昌也 - 141話からスタジオに居た。ゲストとして紹介されたのは143話のみ。
-  - 第147話：[ハマーン・カーン](https://ja.wikipedia.org/wiki/ハマーン・カーン "wikilink") - マネキンで登場。ただし関係者の快諾により、[声は神谷の聖誕祭用に完全録り下ろし](https://ja.wikipedia.org/wiki/榊原良子 "wikilink")。
+  - 第147話：[ハマーン・カーン](../Page/ハマーン・カーン.md "wikilink") - マネキンで登場。ただし関係者の快諾により、[声は神谷の聖誕祭用に完全録り下ろし](../Page/榊原良子.md "wikilink")。
   - 第160話：[三石琴乃](../Page/三石琴乃.md "wikilink") - ゲストではなく、「牛久る？」ナレーションとして登場。ゲストではないがママC・パパCが見学。第161話も見学。
   - 第161話：代永翼 - 牛久でレストランのウェイターと『ヨナガッパ』という河童として登場。
   - 第171話：八木橋くん - 小野が風邪で声が出ない為、小野の代役としてセリフを読み上げた。
@@ -994,7 +994,7 @@
   - 第304話：阪口大助 - 前回に引き続き海原雄山の格好で登場。
   - 第310話：楠大典・中村悠一 - DGS祭『まだまだあぶない神谷浩史聖誕祭\!』にて登場。
   - 第317話：ママD - 小野の母、電話出演
-  - 第331話：[岡本信彦](https://ja.wikipedia.org/wiki/岡本信彦 "wikilink") - 電撃Girl'sStyleのウェブラジオ「木村良平・岡本信彦の電撃Girl'sSmile」の宣伝のため。
+  - 第331話：[岡本信彦](../Page/岡本信彦.md "wikilink") - 電撃Girl'sStyleのウェブラジオ「木村良平・岡本信彦の電撃Girl'sSmile」の宣伝のため。
   - 第338話：代永翼 - 秋恒例の電話出演。
   - 第349話：ハマーン・カーン - 前回同様マネキンで登場。声はDearBoy祭の為に完全録り下ろし。
   - 第400話：[MASOCHISTIC ONO BAND](https://ja.wikipedia.org/wiki/MASOCHISTIC_ONO_BAND "wikilink") - MOBメジャーデビュー記念パーソナリティ。電波ジャック扱いで神谷・小野両氏は未出演。
@@ -1004,7 +1004,7 @@
   - 第488話：[キューイチロー](https://ja.wikipedia.org/wiki/キューイチロー "wikilink") - 『ゆるキャラ大運動会』に出演。
   - 第495話：代永翼 - 秋恒例の電話出演。
   - 第547話：代永翼 - 秋恒例の電話出演。
-  - 第584話：[梶裕貴](https://ja.wikipedia.org/wiki/梶裕貴 "wikilink") - 『いつかすべてが君の力になる』の宣伝。
+  - 第584話：[梶裕貴](../Page/梶裕貴.md "wikilink") - 『いつかすべてが君の力になる』の宣伝。
   - 第599話：代永翼 - 秋恒例の電話出演。
   - 第622話：松原秀 - 3月15日公開『えいがのおそ松さん』の宣伝。
 
@@ -1079,8 +1079,8 @@
 <th><p>タイトル</p></th>
 <th><p>規格品番</p></th>
 <th><p>備考</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">オリコンチャート</a> 最高位</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/A&amp;Gメディアステーション_こむちゃっとカウントダウン" title="wikilink">こむちゃーとベスト10</a> 最高位･回数 登場週数 (年間順位)</p></th>
+<th><p><a href="../Page/オリコンチャート.md" title="wikilink">オリコンチャート</a> 最高位</p></th>
+<th><p><a href="../Page/A&amp;Gメディアステーション_こむちゃっとカウントダウン.md" title="wikilink">こむちゃーとベスト10</a> 最高位･回数 登場週数 (年間順位)</p></th>
 </tr>
 </thead>
 <tbody>
@@ -1273,7 +1273,7 @@ QEDV-0012/13(DVD)</p></td>
 
 ### Dear Girl〜Stories〜 響
 
-作画をいわさき砂也、原作を諏訪勝が担当。アスキー・メディアワークス発行の少女漫画誌**[シルフ](https://ja.wikipedia.org/wiki/シルフ_\(雑誌\) "wikilink")**に連載されていた。
+作画をいわさき砂也、原作を諏訪勝が担当。アスキー・メディアワークス発行の少女漫画誌**[シルフ](../Page/シルフ_\(雑誌\).md "wikilink")**に連載されていた。
 
   - ドラマCD
 
@@ -1367,10 +1367,10 @@ QEDV-0012/13(DVD)</p></td>
   - 2011年4月23日(土) [パシフィコ横浜](https://ja.wikipedia.org/wiki/パシフィコ横浜 "wikilink")にて「DearGirl〜Stories〜 4 Lovers Only」開催。（イベントの一部を第213話で放送）
   - 2011年8月27日(日) 「神谷浩史・小野大輔のDear Girl～Stories～公開録音 in キャラホビ2011」開催。（第231話放送分）
   - 2012年10月21日(日) 「神谷浩史・小野大輔のDearGirl〜Stories〜公開録音 in 電撃20年祭」開催。（第290話放送分）
-  - 2013年2月23日(土) [日本武道館](https://ja.wikipedia.org/wiki/日本武道館 "wikilink")にて「DearGirl〜Stories〜 Festival Carnival Matsuri」開催。（イベントの一部を第310話で放送）
-      - 全国53の映画館でイベント内容を同時中継する[ライブビューイング](https://ja.wikipedia.org/wiki/ライブビューイング "wikilink")を同時開催。
-  - 2013年11月24日(日) [埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")[三郷市](../Page/三郷市.md "wikilink")文化会館にて番組史上初の男性限定イベント「Dear Girl〜Stories〜 Dear Boy祭」開催。（イベントの一部を第349話で放送）
-      - イベント内容を同時中継する[ライブビューイング](https://ja.wikipedia.org/wiki/ライブビューイング "wikilink")も同時開催。こちらは女性も参加が可能。
+  - 2013年2月23日(土) [日本武道館](../Page/日本武道館.md "wikilink")にて「DearGirl〜Stories〜 Festival Carnival Matsuri」開催。（イベントの一部を第310話で放送）
+      - 全国53の映画館でイベント内容を同時中継する[ライブビューイング](../Page/ライブビューイング.md "wikilink")を同時開催。
+  - 2013年11月24日(日) [埼玉県](../Page/埼玉県.md "wikilink")[三郷市](../Page/三郷市.md "wikilink")文化会館にて番組史上初の男性限定イベント「Dear Girl〜Stories〜 Dear Boy祭」開催。（イベントの一部を第349話で放送）
+      - イベント内容を同時中継する[ライブビューイング](../Page/ライブビューイング.md "wikilink")も同時開催。こちらは女性も参加が可能。
   - 2014年8月23日(土) 「神谷浩史・小野大輔のDear Girl～Stories～公開録音 in キャラホビ2014」開催。（第387話放送分）
   - 2015年6月、7月 「MASOCHISTIC ONO BAND LIVE TOUR 2015 What is Rock？〜ロックって何ですか？〜」全国2箇所4公演に「神谷浩史＋小野大輔」としてゲスト出演\[12\]。
   - 2016年6月25日(土)、26日(日) さいたまスーパーアリーナにて「DGS EXPO」開催。
@@ -1380,10 +1380,10 @@ QEDV-0012/13(DVD)</p></td>
 ## 関連項目
 
   - [ブラックサンダー](../Page/ブラックサンダー.md "wikilink")
-  - [ドリアン](https://ja.wikipedia.org/wiki/ドリアン "wikilink")
-  - [RADIOアニメロミックス](https://ja.wikipedia.org/wiki/RADIOアニメロミックス "wikilink")
+  - [ドリアン](../Page/ドリアン.md "wikilink")
+  - [RADIOアニメロミックス](../Page/RADIOアニメロミックス.md "wikilink")
   - [MASOCHISTIC ONO BAND](https://ja.wikipedia.org/wiki/MASOCHISTIC_ONO_BAND "wikilink")
-  - [棒](https://ja.wikipedia.org/wiki/棒 "wikilink")
+  - [棒](../Page/棒.md "wikilink")
 
 ## 脚注
 

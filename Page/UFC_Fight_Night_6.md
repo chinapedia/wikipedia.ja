@@ -1,7 +1,7 @@
 > この記事は[UFC Fight Night 6](https://ja.wikipedia.org/wiki/UFC_Fight_Night_6)から翻訳されています。
 
 
-**UFC Fight Night: Sanchez vs. Parisyan**（ユーエフシー・ファイトナイト・シックス）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[8月17日](../Page/8月17日.md "wikilink")、[ネバダ州](../Page/ネバダ州.md "wikilink")[ラスベガス](../Page/ラスベガス.md "wikilink")のレッドロック・リゾートスパ&カジノで開催された。
+**UFC Fight Night: Sanchez vs. Parisyan**（ユーエフシー・ファイトナイト・シックス）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2006年](../Page/2006年.md "wikilink")[8月17日](../Page/8月17日.md "wikilink")、[ネバダ州](../Page/ネバダ州.md "wikilink")[ラスベガス](../Page/ラスベガス.md "wikilink")のレッドロック・リゾートスパ&カジノで開催された。
 
 本大会では[ディエゴ・サンチェス](../Page/ディエゴ・サンチェス.md "wikilink")と[カロ・パリジャン](../Page/カロ・パリジャン.md "wikilink")のウェルター級戦がメインイベントとして行われた。なお、大会はSpike TVにより全米およびカナダへ無料放送された。
 
@@ -21,30 +21,30 @@ UFC初参戦となった[佐々木有生](../Page/佐々木有生.md "wikilink")
 
   - 第1試合 ウェルター級 5分3R
     ○  アンソニー・トーレス vs.  [パット・ヒーリー](https://ja.wikipedia.org/wiki/パット・ヒーリー "wikilink") ×
-    1R 2:37 [チョークスリーパー](https://ja.wikipedia.org/wiki/裸絞 "wikilink")
+    1R 2:37 [チョークスリーパー](../Page/裸絞.md "wikilink")
   - 第2試合 ウェルター級 5分3R
     ○  フォレスト・ペッツ vs.  サム・モーガン ×
     3R終了 判定3-0（30-26、30-23、30-27）
   - 第3試合 ヘビー級 5分3R
     ○  [ジェイク・オブライエン](../Page/ジェイク・オブライエン.md "wikilink") vs.  [クリストフ・ミドゥ](../Page/クリストフ・ミドゥ.md "wikilink")・"ザ・フェニックス" ×
-    2R 0:52 TKO（レフェリーストップ：[パウンド](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    2R 0:52 TKO（レフェリーストップ：[パウンド](../Page/グラウンドパンチ.md "wikilink")）
   - 第4試合 ウェルター級 5分3R
     ○  [ジョー・リッグス](https://ja.wikipedia.org/wiki/ジョー・リッグス "wikilink") vs.  ジェイソン・フォン・フルー ×
-    1R 2:01 [三角絞め](https://ja.wikipedia.org/wiki/三角絞め "wikilink")
+    1R 2:01 [三角絞め](../Page/三角絞め.md "wikilink")
   - 第5試合 ミドル級 5分3R
     ○  [マルティン・カンプマン](../Page/マルティン・カンプマン.md "wikilink") vs.  クラフトン・ワレス ×
-    1R 2:59 [チョークスリーパー](https://ja.wikipedia.org/wiki/裸絞 "wikilink")
+    1R 2:59 [チョークスリーパー](../Page/裸絞.md "wikilink")
 
 ### メインカード
 
   - 第6試合 ウェルター級 5分3R
-    ○  [ジョシュ・コスチェック](https://ja.wikipedia.org/wiki/ジョシュ・コスチェック "wikilink") vs.  [ジョナサン・グレ](../Page/ジョナサン・グレ.md "wikilink") ×
-    1R 4:10 TKO（ギブアップ：[パウンド](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    ○  [ジョシュ・コスチェック](../Page/ジョシュ・コスチェック.md "wikilink") vs.  [ジョナサン・グレ](../Page/ジョナサン・グレ.md "wikilink") ×
+    1R 4:10 TKO（ギブアップ：[パウンド](../Page/グラウンドパンチ.md "wikilink")）
   - 第7試合 ミドル級 5分3R
     ○  [ディーン・リスター](../Page/ディーン・リスター.md "wikilink") vs.  [佐々木有生](../Page/佐々木有生.md "wikilink") ×
     3R終了 判定3-0（30-27、30-27、30-27）
   - 第8試合 ミドル級 5分3R
-    ○  [クリス・リーベン](https://ja.wikipedia.org/wiki/クリス・リーベン "wikilink") vs.  [ジョルジ・サンチアゴ](https://ja.wikipedia.org/wiki/ジョルジ・サンチアゴ "wikilink") ×
+    ○  [クリス・リーベン](https://ja.wikipedia.org/wiki/クリス・リーベン "wikilink") vs.  [ジョルジ・サンチアゴ](../Page/ジョルジ・サンチアゴ.md "wikilink") ×
     2R 0:35 KO（左フック）
   - 第9試合 ウェルター級 5分3R
     ○  [ディエゴ・サンチェス](../Page/ディエゴ・サンチェス.md "wikilink") vs.  [カロ・パリジャン](../Page/カロ・パリジャン.md "wikilink") ×

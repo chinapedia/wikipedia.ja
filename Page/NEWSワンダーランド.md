@@ -1,7 +1,7 @@
 > この記事は[NEWS](https://ja.wikipedia.org/wiki/NEWS)から翻訳されています。
 
 
-**NEWSワンダーランド**（ニュースワンダーランド）は、[2004年](../Page/2004年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")から[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月29日](../Page/9月29日.md "wikilink")まで[ラジオ大阪で放送されていた平日のワイド番組](../Page/大阪放送.md "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、[日本民間放送連盟](../Page/日本民間放送連盟.md "wikilink")賞・ラジオ生ワイド部門優秀賞受賞。
+**NEWSワンダーランド**（ニュースワンダーランド）は、[2004年](../Page/2004年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")まで[ラジオ大阪で放送されていた平日のワイド番組](../Page/大阪放送.md "wikilink")。[2005年](../Page/2005年.md "wikilink")、[日本民間放送連盟](../Page/日本民間放送連盟.md "wikilink")賞・ラジオ生ワイド部門優秀賞受賞。
 
 ## 放送時間
 
@@ -10,8 +10,8 @@
 
 ## 出演者
 
-  - 月曜日～木曜日: [里見まさと](https://ja.wikipedia.org/wiki/里見まさと "wikilink")・[坂崎優子](https://ja.wikipedia.org/wiki/坂崎優子 "wikilink")（月曜日、火曜日。2006年[4月5日](../Page/4月5日.md "wikilink")からは水曜日、木曜日も担当）・[阿部宏美](https://ja.wikipedia.org/wiki/阿部宏美 "wikilink")（水曜日、木曜日。2006年3月30日まで）
-  - 金曜日: [中井雅之](https://ja.wikipedia.org/wiki/中井雅之 "wikilink")・[大内真紀](https://ja.wikipedia.org/wiki/大内真紀 "wikilink")（2006年3月31日まで）、[益子なお美](https://ja.wikipedia.org/wiki/益子なお美 "wikilink")（2006年4月7日から）
+  - 月曜日～木曜日: [里見まさと](https://ja.wikipedia.org/wiki/里見まさと "wikilink")・[坂崎優子](https://ja.wikipedia.org/wiki/坂崎優子 "wikilink")（月曜日、火曜日。2006年[4月5日](../Page/4月5日.md "wikilink")からは水曜日、木曜日も担当）・[阿部宏美](../Page/阿部宏美.md "wikilink")（水曜日、木曜日。2006年3月30日まで）
+  - 金曜日: [中井雅之](../Page/中井雅之.md "wikilink")・[大内真紀](https://ja.wikipedia.org/wiki/大内真紀 "wikilink")（2006年3月31日まで）、[益子なお美](https://ja.wikipedia.org/wiki/益子なお美 "wikilink")（2006年4月7日から）
 
 ## 主なコーナー
 
@@ -48,7 +48,7 @@
 
 <!-- end list -->
 
-  - リビングトーク - 4時台。[サンケイリビング新聞に載っている記事を一つ紹介](https://ja.wikipedia.org/wiki/サンケイリビング新聞社 "wikilink")。
+  - リビングトーク - 4時台。[サンケイリビング新聞に載っている記事を一つ紹介](../Page/サンケイリビング新聞社.md "wikilink")。
   - きんきワンダーランド - 4時台。最初は[国土交通省](../Page/国土交通省.md "wikilink")の人に電話で話題を紹介してもらっていたが、途中からまさと、中井たちのみで紹介する形に変わった。
   - [タイコム証券](https://ja.wikipedia.org/wiki/タイコム証券 "wikilink")デイリーエコノミックニュース - 4時台。2006年3月頃まで。
 
@@ -68,7 +68,7 @@
 ## エピソード
 
   - 大阪市主催の大阪歴史ウォークにNEWSワンダーランドの出演者も参加。2004年は出演者全員と、[茜太郎のあ～ほんま](https://ja.wikipedia.org/wiki/茜太郎のあ～ほんま "wikilink")の出演者（まさとは仕事のため、途中で早退）、2005年は中井を除く出演者。リスナーとの交流が図られた。
-  - 2005年[12月30日](../Page/12月30日.md "wikilink")には[ほんまもん\!原田年晴です](https://ja.wikipedia.org/wiki/ほんまもん!原田年晴です "wikilink")の金曜日とのコラボレーションで『ほんまにワンダーな2005年！』が放送された。
+  - 2005年[12月30日](../Page/12月30日.md "wikilink")には[ほんまもん\!原田年晴です](../Page/ほんまもん!原田年晴です.md "wikilink")の金曜日とのコラボレーションで『ほんまにワンダーな2005年！』が放送された。
 
 ## 外部リンク
 

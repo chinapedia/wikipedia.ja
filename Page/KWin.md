@@ -1,7 +1,7 @@
 > この記事は[KWin](https://ja.wikipedia.org/wiki/KWin)から翻訳されています。
 
 
-**KWin** は [X Window System](../Page/X_Window_System.md "wikilink") の [ウィンドウマネージャ](https://ja.wikipedia.org/wiki/ウィンドウマネージャ "wikilink")である。[KDE](../Page/KDE.md "wikilink") [Software Compilation](https://ja.wikipedia.org/wiki/KDE_Software_Compilation "wikilink") の一部となっている。しかし単体で使うことや他の[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")で使うこともできる。
+**KWin** は [X Window System](../Page/X_Window_System.md "wikilink") の [ウィンドウマネージャ](../Page/ウィンドウマネージャ.md "wikilink")である。[KDE](../Page/KDE.md "wikilink") [Software Compilation](https://ja.wikipedia.org/wiki/KDE_Software_Compilation "wikilink") の一部となっている。しかし単体で使うことや他の[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")で使うこともできる。
 
 ## KWin の歴史
 
@@ -20,7 +20,7 @@
 
 ## ルック・アンド・フィール
 
-KWin には数多くの[ウィンドウ装飾](https://ja.wikipedia.org/wiki/ウィンドウ装飾 "wikilink")があり、例えばデフォルトの Plastik、[Microsoft Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") 似の Redmond や Keramik がある。[kdeartwork](https://ja.wikipedia.org/wiki/kdeartwork "wikilink") パッケージがインストールされていれば、[IceWM](https://ja.wikipedia.org/wiki/IceWM "wikilink") テーマも使える。
+KWin には数多くの[ウィンドウ装飾](https://ja.wikipedia.org/wiki/ウィンドウ装飾 "wikilink")があり、例えばデフォルトの Plastik、[Microsoft Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") 似の Redmond や Keramik がある。[kdeartwork](https://ja.wikipedia.org/wiki/kdeartwork "wikilink") パッケージがインストールされていれば、[IceWM](../Page/IceWM.md "wikilink") テーマも使える。
 
 ## 外部リンク
 

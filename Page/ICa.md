@@ -45,21 +45,21 @@
   - [北陸鉄道](../Page/北陸鉄道.md "wikilink")（[小松空港連絡バス](../Page/小松空港連絡バス.md "wikilink")を含む）
   - [加賀白山バス](../Page/加賀白山バス.md "wikilink")
   - [北鉄金沢バス](https://ja.wikipedia.org/wiki/北鉄金沢バス "wikilink")
-  - [金沢ふらっとバス](https://ja.wikipedia.org/wiki/金沢ふらっとバス "wikilink")（此花・菊川・材木ルートのみが対象、運行担当社が[西日本JRバスである長町ルートでは使用できない](../Page/西日本ジェイアールバス.md "wikilink")）
+  - [金沢ふらっとバス](../Page/金沢ふらっとバス.md "wikilink")（此花・菊川・材木ルートのみが対象、運行担当社が[西日本JRバスである長町ルートでは使用できない](../Page/西日本ジェイアールバス.md "wikilink")）
   - 適用外
 
 <!-- end list -->
 
   -
-    石川県外高速バス、定期観光バス、[城下まち金沢周遊](../Page/城下まち金沢周遊.md "wikilink")、北陸鉄道バスグループが運行を受託している金沢ふらっとバス以外の[コミュニティバス](../Page/コミュニティバス.md "wikilink")（[白山市](https://ja.wikipedia.org/wiki/白山市 "wikilink")「[めぐーる](../Page/めぐーる.md "wikilink")」、[能美市](https://ja.wikipedia.org/wiki/能美市 "wikilink")「[のみバス](https://ja.wikipedia.org/wiki/のみバス "wikilink")」など）、能登・加賀方面特急・[急行バス](../Page/急行バス.md "wikilink")、イベント・臨時バス（[兼六園シャトル](https://ja.wikipedia.org/wiki/兼六園シャトル "wikilink")はICa利用可能）や、[北鉄能登バス](https://ja.wikipedia.org/wiki/北鉄能登バス "wikilink")、[北鉄奥能登バス](https://ja.wikipedia.org/wiki/北鉄奥能登バス "wikilink")、[加賀温泉バス](../Page/加賀温泉バス.md "wikilink")が運行する能登・加賀地区一般乗合路線では、ICaを利用することはできない。
+    石川県外高速バス、定期観光バス、[城下まち金沢周遊](../Page/城下まち金沢周遊.md "wikilink")、北陸鉄道バスグループが運行を受託している金沢ふらっとバス以外の[コミュニティバス](../Page/コミュニティバス.md "wikilink")（[白山市](../Page/白山市.md "wikilink")「[めぐーる](../Page/めぐーる.md "wikilink")」、[能美市](../Page/能美市.md "wikilink")「[のみバス](https://ja.wikipedia.org/wiki/のみバス "wikilink")」など）、能登・加賀方面特急・[急行バス](../Page/急行バス.md "wikilink")、イベント・臨時バス（[兼六園シャトル](https://ja.wikipedia.org/wiki/兼六園シャトル "wikilink")はICa利用可能）や、[北鉄能登バス](https://ja.wikipedia.org/wiki/北鉄能登バス "wikilink")、[北鉄奥能登バス](https://ja.wikipedia.org/wiki/北鉄奥能登バス "wikilink")、[加賀温泉バス](../Page/加賀温泉バス.md "wikilink")が運行する能登・加賀地区一般乗合路線では、ICaを利用することはできない。
 
 <!-- end list -->
 
   - 鉄道
 
-定期券タイプのみが利用可能。[石川線](https://ja.wikipedia.org/wiki/石川線 "wikilink")、[浅野川線](https://ja.wikipedia.org/wiki/浅野川線 "wikilink")ともに下記の[終着駅](https://ja.wikipedia.org/wiki/終着駅 "wikilink")のみにリーダ・ライタが設置されている。
+定期券タイプのみが利用可能。[石川線](https://ja.wikipedia.org/wiki/石川線 "wikilink")、[浅野川線](https://ja.wikipedia.org/wiki/浅野川線 "wikilink")ともに下記の[終着駅](../Page/終着駅.md "wikilink")のみにリーダ・ライタが設置されている。
 
-  - 石川線 : [鶴来駅](https://ja.wikipedia.org/wiki/鶴来駅 "wikilink")・[野町駅](https://ja.wikipedia.org/wiki/野町駅 "wikilink")
+  - 石川線 : [鶴来駅](https://ja.wikipedia.org/wiki/鶴来駅 "wikilink")・[野町駅](../Page/野町駅.md "wikilink")
   - 浅野川線 : [内灘駅](../Page/内灘駅.md "wikilink")・[北鉄金沢駅](https://ja.wikipedia.org/wiki/金沢駅 "wikilink")
 
 上記4駅以外で乗降する場合は、駅係員に経路・氏名などの印字面を提示しなければならない。
@@ -82,7 +82,7 @@
 
 ### 複数回乗車割引
 
-30分以内のバス乗り継ぎで、乗継割引（30円引）が適用される。30分以内の往復利用を想定しているほか、停留所を移動しての乗り継ぎ（降車停留所と再乗車停留所が不一致）でも適用される。紙製回数乗車券では実現不可能であった割引制度である。小松空港特急バスとの間でも適用されるが、金沢ふらっとバスや兼六園シャトル、および特別運賃区間（[武蔵ヶ辻](../Page/武蔵ヶ辻.md "wikilink") - [香林坊](https://ja.wikipedia.org/wiki/香林坊 "wikilink")間の100円区間など）がどちらかに含まれる場合は乗り継いだバスに乗継割引が適用されない。
+30分以内のバス乗り継ぎで、乗継割引（30円引）が適用される。30分以内の往復利用を想定しているほか、停留所を移動しての乗り継ぎ（降車停留所と再乗車停留所が不一致）でも適用される。紙製回数乗車券では実現不可能であった割引制度である。小松空港特急バスとの間でも適用されるが、金沢ふらっとバスや兼六園シャトル、および特別運賃区間（[武蔵ヶ辻](../Page/武蔵ヶ辻.md "wikilink") - [香林坊](../Page/香林坊.md "wikilink")間の100円区間など）がどちらかに含まれる場合は乗り継いだバスに乗継割引が適用されない。
 
 ### エコポイント
 
@@ -103,7 +103,7 @@
   - 買い物
       - 加盟店ステッカーがある商業施設でICaを提示すると、購入金額2,000円につき20ポイント券が贈呈され、この券をポイント端末設置場所の窓口へ持参するとICaに加算してもらえた。2013年9月30日に全サービス終了。
   - カーシェアリング
-      - [カーシェア会員になると毎月エコポイント券が贈呈されていた](../Page/カーシェアリング.md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月](../Page/11月.md "wikilink")よりサービスを開始したが、[2013年](../Page/2013年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")に事業が終了した。事業終了後もしばらくはカーシェア会員向けポイント券を主要サービスセンターへ持参するとICaにエコポイントを加算してくれたが、2013年[4月30日](../Page/4月30日.md "wikilink")をもってポイント加算も終了し、カーシェア金沢発行のエコポイント券は無効になっている\[1\]。
+      - [カーシェア会員になると毎月エコポイント券が贈呈されていた](../Page/カーシェアリング.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[11月](../Page/11月.md "wikilink")よりサービスを開始したが、[2013年](../Page/2013年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")に事業が終了した。事業終了後もしばらくはカーシェア会員向けポイント券を主要サービスセンターへ持参するとICaにエコポイントを加算してくれたが、2013年[4月30日](../Page/4月30日.md "wikilink")をもってポイント加算も終了し、カーシェア金沢発行のエコポイント券は無効になっている\[1\]。
 
 #### エコポイントを確認する
 
@@ -129,8 +129,8 @@
       - [10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink") - マスコットキャラクター「アイカちゃん」発表
       - [11月4日](../Page/11月4日.md "wikilink") - 「ICa（アイカ）」体験会を実施
       - [12月1日](../Page/12月1日.md "wikilink") - プリペイドタイプ運用開始（バスのみ）
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）[3月1日](../Page/3月1日.md "wikilink") - 定期券タイプ運用開始（バス・電車） ※電車は一部区間のみ
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - 発行数が10万枚を突破
+  - [2005年](../Page/2005年.md "wikilink")（平成17年）[3月1日](../Page/3月1日.md "wikilink") - 定期券タイプ運用開始（バス・電車） ※電車は一部区間のみ
+  - [2006年](../Page/2006年.md "wikilink")（平成18年）[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - 発行数が10万枚を突破
   - [2007年](../Page/2007年.md "wikilink")（平成19年）[2月1日](../Page/2月1日.md "wikilink") - 「ICaエコポイント」を開始
   - [2013年](../Page/2013年.md "wikilink")（平成25年） - 「ICaエコポイント」の一部サービスを終了
 
@@ -142,7 +142,7 @@
 
 しかしながら、現状北陸鉄道のICカードであるICaについてはシステムの違いなどから、ICOCAなどとの片利用扱いも含めて、相互利用を見合わせている。このため、Ica以外の交通系ICカードは使用不可の状態となっている 現在、ICaを西日本JRバス金沢エリア一般路線バスで利用することはできず、またICaをJR西日本やIRいしかわ鉄道で利用することはできない（その逆も同様）\[2\]。
 
-名鉄グループの傘下事業者のうち、名古屋鉄道が導入するmanacaや全国相互利用サービスに対応せず他のICカードを導入している例は、北陸鉄道の他に岐阜バス（[ayuca](https://ja.wikipedia.org/wiki/ayuca "wikilink")）が存在する。いずれもmanacaより早く開始しているため統一が難しい。なお、名鉄グループの一社で[icsca](https://ja.wikipedia.org/wiki/icsca "wikilink")を導入している[宮城交通](https://ja.wikipedia.org/wiki/宮城交通 "wikilink")は、2016年3月26日に片利用（Suica仙台エリアのみ交通相互利用）でmanacaや全国相互利用サービスに対応開始した。
+名鉄グループの傘下事業者のうち、名古屋鉄道が導入するmanacaや全国相互利用サービスに対応せず他のICカードを導入している例は、北陸鉄道の他に岐阜バス（[ayuca](https://ja.wikipedia.org/wiki/ayuca "wikilink")）が存在する。いずれもmanacaより早く開始しているため統一が難しい。なお、名鉄グループの一社で[icsca](https://ja.wikipedia.org/wiki/icsca "wikilink")を導入している[宮城交通](../Page/宮城交通.md "wikilink")は、2016年3月26日に片利用（Suica仙台エリアのみ交通相互利用）でmanacaや全国相互利用サービスに対応開始した。
 
 また、2015年7月に[国土交通省](../Page/国土交通省.md "wikilink")は、ICaを含む地域独自カードエリアにおいて、manacaや全国相互利用サービスに対応する新片利用システムの開発、支援を行うことを検討していると発表している。
 

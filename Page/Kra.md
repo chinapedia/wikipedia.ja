@@ -1,7 +1,7 @@
 > この記事は[Kra](https://ja.wikipedia.org/wiki/Kra)から翻訳されています。
 
 
-**Kra**（ケラ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[PS COMPANY](https://ja.wikipedia.org/wiki/PS_COMPANY "wikilink")（ピーエス カンパニー）所属。
+**Kra**（ケラ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[PS COMPANY](../Page/PS_COMPANY.md "wikilink")（ピーエス カンパニー）所属。
 
 ## メンバー
 
@@ -31,12 +31,12 @@
 <tr class="even">
 <td><p><strong>結良</strong><br />
 <small>(ゆうら)</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ベース_(弦楽器)" title="wikilink">ベース</a></p></td>
+<td><p><a href="../Page/ベース_(弦楽器).md" title="wikilink">ベース</a></p></td>
 <td></td>
 <td><p><small></p>
 <ul>
 <li><a href="https://ja.wikipedia.org/wiki/1980年" title="wikilink">1980年</a><a href="../Page/8月12日.md" title="wikilink">8月12日</a>生、A型。</li>
-<li><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/世田谷区" title="wikilink">世田谷区</a>出身。</li>
+<li><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="../Page/世田谷区.md" title="wikilink">世田谷区</a>出身。</li>
 </ul>
 <p><br />
 </small></p></td>
@@ -62,7 +62,7 @@
 
 [2001年](../Page/2001年.md "wikilink")9月結成。結成当初のコンセプトはファンシー&メルヘンポップで楽曲もビジュアルも、派手で可愛らしいものが多かった。現在はファンシー&メルヘンロックとし、演奏する楽曲もポップスからダークなロックまで幅広い。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")秋、シングル「ハートバランス」で[キングレコード](../Page/キングレコード.md "wikilink")からメジャーデビュー。その後はTV出演や数々のメディアの露出、2008年5月に [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ[遊☆戯☆王5D's](https://ja.wikipedia.org/wiki/遊☆戯☆王5D's "wikilink")オープニングテーマのタイアップ、[小林麻美](https://ja.wikipedia.org/wiki/小林麻美 "wikilink")の大ヒット曲「[雨音はショパンの調べ](https://ja.wikipedia.org/wiki/雨音はショパンの調べ "wikilink")」カバーリリース等により、支持が拡大。ライブでも以前よりも徐々に動員を伸ばし、2006年12月27日に行われた初のホール公演となる[渋谷公会堂](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")（現：[渋谷C.C.Lemonホール](https://ja.wikipedia.org/wiki/渋谷C.C.Lemonホール "wikilink")）でのワンマンライブ「COURT of JUSTICE」は即日ソールドアウト。その後も2007年11月21日 [中野サンプラザ](https://ja.wikipedia.org/wiki/中野サンプラザ "wikilink")、2008年4月5日 [日比谷野外大音楽堂](https://ja.wikipedia.org/wiki/日比谷野外大音楽堂 "wikilink")も無事終了し、2009年2月13日 [渋谷C.C.Lemonホール](https://ja.wikipedia.org/wiki/渋谷C.C.Lemonホール "wikilink")での公演も即日ソールドアウト。 LIVE TOUR2009にはホールツアーも行われ、2010年ツアーファイナルである4月3日には二度目の[日比谷野外大音楽堂](https://ja.wikipedia.org/wiki/日比谷野外大音楽堂 "wikilink")でのライブが決まっている。 2013年12月24日なかのZERO大ホールにて3年振りにホールライブが決定
+[2006年](../Page/2006年.md "wikilink")秋、シングル「ハートバランス」で[キングレコード](../Page/キングレコード.md "wikilink")からメジャーデビュー。その後はTV出演や数々のメディアの露出、2008年5月に [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ[遊☆戯☆王5D's](https://ja.wikipedia.org/wiki/遊☆戯☆王5D's "wikilink")オープニングテーマのタイアップ、[小林麻美](../Page/小林麻美.md "wikilink")の大ヒット曲「[雨音はショパンの調べ](https://ja.wikipedia.org/wiki/雨音はショパンの調べ "wikilink")」カバーリリース等により、支持が拡大。ライブでも以前よりも徐々に動員を伸ばし、2006年12月27日に行われた初のホール公演となる[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")（現：[渋谷C.C.Lemonホール](https://ja.wikipedia.org/wiki/渋谷C.C.Lemonホール "wikilink")）でのワンマンライブ「COURT of JUSTICE」は即日ソールドアウト。その後も2007年11月21日 [中野サンプラザ](../Page/中野サンプラザ.md "wikilink")、2008年4月5日 [日比谷野外大音楽堂](https://ja.wikipedia.org/wiki/日比谷野外大音楽堂 "wikilink")も無事終了し、2009年2月13日 [渋谷C.C.Lemonホール](https://ja.wikipedia.org/wiki/渋谷C.C.Lemonホール "wikilink")での公演も即日ソールドアウト。 LIVE TOUR2009にはホールツアーも行われ、2010年ツアーファイナルである4月3日には二度目の[日比谷野外大音楽堂](https://ja.wikipedia.org/wiki/日比谷野外大音楽堂 "wikilink")でのライブが決まっている。 2013年12月24日なかのZERO大ホールにて3年振りにホールライブが決定
 
 ## レギュラーラジオ
 
@@ -120,7 +120,7 @@
 <th><p>タイトル</p></th>
 <th><p>発売日</p></th>
 <th><p>収録曲</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">JP</a></p></th>
+<th><p><a href="../Page/オリコンチャート.md" title="wikilink">JP</a></p></th>
 <th><p>収録スタジオアルバム</p></th>
 </tr>
 </thead>
@@ -317,7 +317,7 @@
 <th><p>タイトル</p></th>
 <th><p>発売日</p></th>
 <th><p>収録曲</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">JP</a></p></th>
+<th><p><a href="../Page/オリコンチャート.md" title="wikilink">JP</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -628,7 +628,7 @@
 <th><p>タイトル</p></th>
 <th><p>発売日</p></th>
 <th><p>収録曲</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">JP</a></p></th>
+<th><p><a href="../Page/オリコンチャート.md" title="wikilink">JP</a></p></th>
 <th><p>備考</p></th>
 </tr>
 </thead>
@@ -694,7 +694,7 @@
 
 ## 関連項目
 
-  - [PS COMPANY](https://ja.wikipedia.org/wiki/PS_COMPANY "wikilink")
+  - [PS COMPANY](../Page/PS_COMPANY.md "wikilink")
       - [Kagrra,](../Page/Kagrra,.md "wikilink")
       - [the GazettE](https://ja.wikipedia.org/wiki/the_GazettE "wikilink")
       - [Alice Nine](https://ja.wikipedia.org/wiki/Alice_Nine "wikilink")

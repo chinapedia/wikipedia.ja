@@ -20,7 +20,7 @@
         作詞：NOBODY　作曲：小坂浩人　編曲：NOBODY
 4.  THANK YOU NOWHERE MAN
       -
-        作詞・作曲：[上澤津孝](https://ja.wikipedia.org/wiki/上澤津孝 "wikilink")　編曲：NOBODY
+        作詞・作曲：[上澤津孝](../Page/上澤津孝.md "wikilink")　編曲：NOBODY
 5.  HEY, BAD BOY
       -
         作詞：上澤津孝　作曲・編曲：NOBODY

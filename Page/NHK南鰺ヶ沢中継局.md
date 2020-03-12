@@ -1,7 +1,7 @@
 > この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
 
 
-**NHK南鰺ヶ沢中継局**（えぬえいちけいみなみあじがさわちゅうけいきょく）は、[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")[西津軽郡](../Page/西津軽郡.md "wikilink")[鰺ヶ沢町](https://ja.wikipedia.org/wiki/鰺ヶ沢町 "wikilink")にある[NHK青森放送局](https://ja.wikipedia.org/wiki/NHK青森放送局 "wikilink")のFMラジオ放送の中継局である。かつては地上アナログテレビ放送の中継局も設置されていたが、2011年に廃止された。
+**NHK南鰺ヶ沢中継局**（えぬえいちけいみなみあじがさわちゅうけいきょく）は、[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")[西津軽郡](../Page/西津軽郡.md "wikilink")[鰺ヶ沢町](https://ja.wikipedia.org/wiki/鰺ヶ沢町 "wikilink")にある[NHK青森放送局](../Page/NHK青森放送局.md "wikilink")のFMラジオ放送の中継局である。かつては地上アナログテレビ放送の中継局も設置されていたが、2011年に廃止された。
 
 ## 中継局概要
 
@@ -12,7 +12,7 @@
 <tr class="header">
 <th><p><a href="../Page/周波数.md" title="wikilink">周波数</a></p></th>
 <th><p>放送局名</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/空中線電力" title="wikilink">空中線<br />
+<th><p><a href="../Page/空中線電力.md" title="wikilink">空中線<br />
 電力</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/実効放射電力" title="wikilink">ERP</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/放送#放送対象地域" title="wikilink">放送対象地域</a></p></th>
@@ -25,7 +25,7 @@
 <tr class="odd">
 <td><p>85.0MHz</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a><br />
-<a href="https://ja.wikipedia.org/wiki/NHK青森放送局" title="wikilink">青森</a><a href="https://ja.wikipedia.org/wiki/NHK-FM放送" title="wikilink">FM</a></p></td>
+<a href="../Page/NHK青森放送局.md" title="wikilink">青森</a><a href="../Page/NHK-FM放送.md" title="wikilink">FM</a></p></td>
 <td><p>10W</p></td>
 <td><p>9.3W</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/青森県" title="wikilink">青森県</a></p></td>
@@ -44,7 +44,7 @@
 <table>
 <thead>
 <tr class="header">
-<th><p><a href="https://ja.wikipedia.org/wiki/チャンネル_(テレビ放送)" title="wikilink">チャンネル<br />
+<th><p><a href="../Page/チャンネル_(テレビ放送).md" title="wikilink">チャンネル<br />
 番号</a></p></th>
 <th><p>放送局名</p></th>
 <th><p>空中線<br />
@@ -60,7 +60,7 @@
 <tr class="odd">
 <td><p>8</p></td>
 <td><p>NHK<br />
-青森<a href="https://ja.wikipedia.org/wiki/NHK総合テレビジョン" title="wikilink">総合</a></p></td>
+青森<a href="../Page/NHK総合テレビジョン.md" title="wikilink">総合</a></p></td>
 <td><p>映像10W/<br />
 音声2.5W</p></td>
 <td><p>映像30W/<br />
@@ -73,7 +73,7 @@
 <tr class="even">
 <td><p>12</p></td>
 <td><p>NHK<br />
-青森<a href="https://ja.wikipedia.org/wiki/NHK教育テレビジョン" title="wikilink">教育</a></p></td>
+青森<a href="../Page/NHK教育テレビジョン.md" title="wikilink">教育</a></p></td>
 <td><p><a href="../Page/全国放送.md" title="wikilink">全国</a></p></td>
 <td></td>
 <td></td>
@@ -96,7 +96,7 @@
 
   - [鷹森山](../Page/鷹森山.md "wikilink")
   - [五所川原テレビ中継局](../Page/五所川原テレビ中継局.md "wikilink")
-  - [NHK青森放送局](https://ja.wikipedia.org/wiki/NHK青森放送局 "wikilink")
+  - [NHK青森放送局](../Page/NHK青森放送局.md "wikilink")
   - [鰺ヶ沢赤石テレビ中継局](../Page/鰺ヶ沢赤石テレビ中継局.md "wikilink")
   - [西津軽舞戸テレビ中継局](../Page/西津軽舞戸テレビ中継局.md "wikilink")
   - [鰺ヶ沢中村テレビ中継局](../Page/鰺ヶ沢中村テレビ中継局.md "wikilink")

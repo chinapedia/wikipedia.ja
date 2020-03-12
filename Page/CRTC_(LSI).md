@@ -1,7 +1,7 @@
 > この記事は[CRTC \(LSI\)](https://ja.wikipedia.org/wiki/CRTC_\(LSI\))から翻訳されています。
 
 
-**CRTC**（シーアールティーシー）は[CRT](../Page/ブラウン管.md "wikilink") Controller の略称であり、コンピュータの映像機能のうち、その名の通り映像信号の生成など比較的出力端に近い機能を持つLSIである。[VDP](https://ja.wikipedia.org/wiki/VDP "wikilink")(Video Display Processor)や[GPU](../Page/Graphics_Processing_Unit.md "wikilink")(Graphic Processing Unit)、GDC(Graphics Display Controller)など各種のLSIの呼称があるが、例えばPC-9801では使い分けられているにもかかわらず、混同する者のほうが多い。
+**CRTC**（シーアールティーシー）は[CRT](../Page/ブラウン管.md "wikilink") Controller の略称であり、コンピュータの映像機能のうち、その名の通り映像信号の生成など比較的出力端に近い機能を持つLSIである。[VDP](../Page/VDP.md "wikilink")(Video Display Processor)や[GPU](../Page/Graphics_Processing_Unit.md "wikilink")(Graphic Processing Unit)、GDC(Graphics Display Controller)など各種のLSIの呼称があるが、例えばPC-9801では使い分けられているにもかかわらず、混同する者のほうが多い。
 
 主に[ラスタースキャン](../Page/ラスタースキャン.md "wikilink")型ディスプレイのキャラクター（文字）表示制御用として発展してきたが、上位品種にはビットマップ表示の転送、回転、拡大、縮小、反転表示などもできる機能が追加されている。
 
@@ -66,7 +66,7 @@
 <!-- end list -->
 
   - 3301系（[日本電気](../Page/日本電気.md "wikilink")製）
-      - μPD3301 [PC-8001などで使われた](https://ja.wikipedia.org/wiki/PC-8000シリーズ "wikilink")。
+      - μPD3301 [PC-8001などで使われた](../Page/PC-8000シリーズ.md "wikilink")。
   - 7220系（日本電気製。これはGDCであってCRTCではない（98で使用していてCRTCと呼んでるのは別の石で、GDCとCRTCでは役割が異なる））
       - [μPD7220](https://ja.wikipedia.org/wiki/μPD7220 "wikilink")(GDC:Graphic Display Controller) [PC-9800シリーズ](../Page/PC-9800シリーズ.md "wikilink")などに使われた。
       - μPD7220A(HGDC:High-performance Graphic Display Controller) [PC-9800シリーズ](../Page/PC-9800シリーズ.md "wikilink")などに使われた。
@@ -116,7 +116,7 @@
   - [Graphics Processing Unit](../Page/Graphics_Processing_Unit.md "wikilink")
   - [VRAM](../Page/VRAM.md "wikilink")
   - [ウィンドウアクセラレータ](https://ja.wikipedia.org/wiki/ウィンドウアクセラレータ "wikilink")
-  - [グラフィックアクセラレータ](https://ja.wikipedia.org/wiki/グラフィックアクセラレータ "wikilink")
+  - [グラフィックアクセラレータ](../Page/グラフィックアクセラレータ.md "wikilink")
   - [ディスプレイ](../Page/ディスプレイ_\(コンピュータ\).md "wikilink")
 
 [Category:コンピュータアーキテクチャ](https://ja.wikipedia.org/wiki/Category:コンピュータアーキテクチャ "wikilink") [Category:グラフィックカード](https://ja.wikipedia.org/wiki/Category:グラフィックカード "wikilink")

@@ -63,7 +63,7 @@
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/1953年女子バスケットボール世界選手権" title="wikilink">1953</a></strong></p></td>
-<td><p>(<a href="https://ja.wikipedia.org/wiki/サンティアゴ_(チリ)" title="wikilink">サンティアゴ</a>)</p></td>
+<td><p>(<a href="../Page/サンティアゴ_(チリ).md" title="wikilink">サンティアゴ</a>)</p></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>49–36</strong></p></td>
 <td></td>
@@ -83,7 +83,7 @@
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/1959年女子バスケットボール世界選手権" title="wikilink">1959</a></strong></p></td>
-<td><p>(<a href="https://ja.wikipedia.org/wiki/モスクワ" title="wikilink">モスクワ</a>)</p></td>
+<td><p>(<a href="../Page/モスクワ.md" title="wikilink">モスクワ</a>)</p></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>51–38</strong></p></td>
 <td></td>
@@ -202,7 +202,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/2006年女子バスケットボール世界選手権" title="wikilink">2006</a></strong></p></td>
+<td><p><strong><a href="../Page/2006年女子バスケットボール世界選手権.md" title="wikilink">2006</a></strong></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>91–74</strong></p></td>
@@ -302,13 +302,13 @@
   - 男子
       - [FIBAバスケットボール・ワールドカップ](../Page/FIBAバスケットボール・ワールドカップ.md "wikilink")
       - [オリンピックのバスケットボール競技](../Page/オリンピックのバスケットボール競技.md "wikilink")
-      - [ウィリアム・ジョーンズカップ](https://ja.wikipedia.org/wiki/ウィリアム・ジョーンズカップ "wikilink")
+      - [ウィリアム・ジョーンズカップ](../Page/ウィリアム・ジョーンズカップ.md "wikilink")
 
 <!-- end list -->
 
   - 女子
       - [オリンピックのバスケットボール競技](../Page/オリンピックのバスケットボール競技.md "wikilink")
-      - [ウィリアム・ジョーンズカップ](https://ja.wikipedia.org/wiki/ウィリアム・ジョーンズカップ "wikilink")
+      - [ウィリアム・ジョーンズカップ](../Page/ウィリアム・ジョーンズカップ.md "wikilink")
 
 ## 外部リンク
 

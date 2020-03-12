@@ -1,15 +1,15 @@
 > この記事は[Berry15](https://ja.wikipedia.org/wiki/Berry15)から翻訳されています。
 
 
-**berry15**（ベリーイチゴ、生年不詳[11月5日](../Page/11月5日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")元[総合格闘家](https://ja.wikipedia.org/wiki/総合格闘家 "wikilink")。血液型はA型。チーム黒船所属（15としては「所属不明」とされていた）。本名は[KAIENTAI DOJOの規定により公開禁止となっている](https://ja.wikipedia.org/wiki/KAIENTAI_DOJO "wikilink")。**15**とも。
+**berry15**（ベリーイチゴ、生年不詳[11月5日](../Page/11月5日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")元[総合格闘家](https://ja.wikipedia.org/wiki/総合格闘家 "wikilink")。血液型はA型。チーム黒船所属（15としては「所属不明」とされていた）。本名は[KAIENTAI DOJOの規定により公開禁止となっている](../Page/KAIENTAI_DOJO.md "wikilink")。**15**とも。
 
 ## 経歴
 
-[全日本女子プロレス](https://ja.wikipedia.org/wiki/全日本女子プロレス "wikilink")に入団しプロレスラーを目指すも怪我で退団、同期であった[北上知恵美と共に](../Page/未来_\(プロレスラー\).md "wikilink")[KAIENTAI DOJOに入団し](https://ja.wikipedia.org/wiki/KAIENTAI_DOJO "wikilink")[2002年](../Page/2002年.md "wikilink")6月1日、[SMACK GIRLでのvs](https://ja.wikipedia.org/wiki/スマックガール "wikilink")[ナナチャンチン](../Page/ナナチャンチン.md "wikilink")戦にて**高橋エリ**の名でデビューした。
+[全日本女子プロレス](../Page/全日本女子プロレス.md "wikilink")に入団しプロレスラーを目指すも怪我で退団、同期であった[北上知恵美と共に](../Page/未来_\(プロレスラー\).md "wikilink")[KAIENTAI DOJOに入団し](../Page/KAIENTAI_DOJO.md "wikilink")[2002年](../Page/2002年.md "wikilink")6月1日、[SMACK GIRLでのvs](../Page/スマックガール.md "wikilink")[ナナチャンチン](../Page/ナナチャンチン.md "wikilink")戦にて**高橋エリ**の名でデビューした。
 
-その後、リングネームを**15**（いちご）と改名し覆面を被りFWFで[レフェリーを務めたりしながら練習を続けSMACK](../Page/レフェリー_\(プロレス\).md "wikilink") GIRLを主戦場とし、[パンクラス](https://ja.wikipedia.org/wiki/パンクラス "wikilink")等にも参戦した。ラウンドガールなどにも挑戦した。
+その後、リングネームを**15**（いちご）と改名し覆面を被りFWFで[レフェリーを務めたりしながら練習を続けSMACK](../Page/レフェリー_\(プロレス\).md "wikilink") GIRLを主戦場とし、[パンクラス](../Page/パンクラス.md "wikilink")等にも参戦した。ラウンドガールなどにも挑戦した。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")6月からマスクを脱ぎ素顔となり、リングネームも**berry15**に改名したが、10月21日の兼谷絵里戦後に網膜裂孔が発覚し引退を決意、11月29日にスマックガール[後楽園ホール](https://ja.wikipedia.org/wiki/後楽園ホール "wikilink")大会で引退セレモニーを行った\[1\]。
+[2006年](../Page/2006年.md "wikilink")6月からマスクを脱ぎ素顔となり、リングネームも**berry15**に改名したが、10月21日の兼谷絵里戦後に網膜裂孔が発覚し引退を決意、11月29日にスマックガール[後楽園ホール](../Page/後楽園ホール.md "wikilink")大会で引退セレモニーを行った\[1\]。
 
 ## 戦績
 
@@ -32,7 +32,7 @@
 
 ## 関連項目
 
-  - [女子総合格闘家一覧](https://ja.wikipedia.org/wiki/女子総合格闘家一覧 "wikilink")
+  - [女子総合格闘家一覧](../Page/女子総合格闘家一覧.md "wikilink")
   - [プロレスラー一覧](../Page/プロレスラー一覧.md "wikilink")
 
 ## 外部リンク

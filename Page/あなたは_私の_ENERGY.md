@@ -20,11 +20,11 @@
 ## タイアップ
 
   - [テレビ朝日](../Page/テレビ朝日.md "wikilink")系『'95 [パリ・ダカールラリー](https://ja.wikipedia.org/wiki/パリ・ダカールラリー "wikilink")』テーマソング
-  - [テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[まっ昼ま王\!\!](https://ja.wikipedia.org/wiki/まっ昼ま王!! "wikilink")』 エンディングテーマ
+  - [テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[まっ昼ま王\!\!](../Page/まっ昼ま王!!.md "wikilink")』 エンディングテーマ
 
 ## 参加ミュージシャン
 
   - 青山純 - ドラム
-  - [増崎孝司](https://ja.wikipedia.org/wiki/増崎孝司 "wikilink")（[DIMENSION](https://ja.wikipedia.org/wiki/DIMENSION "wikilink")） - ギター
+  - [増崎孝司](https://ja.wikipedia.org/wiki/増崎孝司 "wikilink")（[DIMENSION](../Page/DIMENSION.md "wikilink")） - ギター
 
 [Category:1995年のシングル](https://ja.wikipedia.org/wiki/Category:1995年のシングル "wikilink") [Category:宇徳敬子の楽曲](https://ja.wikipedia.org/wiki/Category:宇徳敬子の楽曲 "wikilink") [Category:テレビ朝日の主題歌](https://ja.wikipedia.org/wiki/Category:テレビ朝日の主題歌 "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")

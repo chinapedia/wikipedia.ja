@@ -1,13 +1,13 @@
 > この記事は[Sharp Auvi](https://ja.wikipedia.org/wiki/Sharp_Auvi)から翻訳されています。
 
 
-**Auvi**（アウビィ）は、[シャープ](../Page/シャープ.md "wikilink")が発売していた1ビット[デジタルアンプ](https://ja.wikipedia.org/wiki/デジタルアンプ "wikilink")を搭載した[オーディオ機器のブランドである](https://ja.wikipedia.org/wiki/音響機器 "wikilink")。\[1\]
+**Auvi**（アウビィ）は、[シャープ](../Page/シャープ.md "wikilink")が発売していた1ビット[デジタルアンプ](https://ja.wikipedia.org/wiki/デジタルアンプ "wikilink")を搭載した[オーディオ機器のブランドである](../Page/音響機器.md "wikilink")。\[1\]
 
 ## 概要
 
 シャープは[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")6月に1ビットデジタルアンプの技術を発表し、同年10月のオーディオエキスポで1ビットデジタルアンプの試作機を参考出品\[2\]。これを元に[1999年](../Page/1999年.md "wikilink")に世界初の1ビットデジタルアンプであるSM-SX100の受注生産を開始した\[3\]\[4\]。
 
-さらに、[2000年](../Page/2000年.md "wikilink")11月には、低価格の1ビットデジタルアンプ、[MD](../Page/ミニディスク.md "wikilink")/[CD](../Page/コンパクトディスク.md "wikilink")/[チューナー](https://ja.wikipedia.org/wiki/チューナー "wikilink")、[スピーカー](../Page/スピーカー.md "wikilink")を組み合わせたシステムのシリーズを**Auvi**の名称で発売\[5\]\[6\]。1ビットデジタルアンプを採用することにより、従来のアナログアンプでは実現できなかった小型化、低価格化を実現した。[2001年](../Page/2001年.md "wikilink")6月には、**Auvi excellence**（アウビィ エクセレンス）と名付けたスピーカーレスのハイグレード・モデルのSD-SG11が発売され、[ELAC](https://ja.wikipedia.org/wiki/ELAC "wikilink")や[JBLのスピーカーと組み合わせた限定モデルも用意された](https://ja.wikipedia.org/wiki/JBL_\(企業\) "wikilink")\[7\]。
+さらに、[2000年](../Page/2000年.md "wikilink")11月には、低価格の1ビットデジタルアンプ、[MD](../Page/ミニディスク.md "wikilink")/[CD](../Page/コンパクトディスク.md "wikilink")/[チューナー](https://ja.wikipedia.org/wiki/チューナー "wikilink")、[スピーカー](../Page/スピーカー.md "wikilink")を組み合わせたシステムのシリーズを**Auvi**の名称で発売\[5\]\[6\]。1ビットデジタルアンプを採用することにより、従来のアナログアンプでは実現できなかった小型化、低価格化を実現した。[2001年](../Page/2001年.md "wikilink")6月には、**Auvi excellence**（アウビィ エクセレンス）と名付けたスピーカーレスのハイグレード・モデルのSD-SG11が発売され、[ELAC](https://ja.wikipedia.org/wiki/ELAC "wikilink")や[JBLのスピーカーと組み合わせた限定モデルも用意された](../Page/JBL_\(企業\).md "wikilink")\[7\]。
 
 MD/CDシステム（アンプ、MD/CD、スピーカー一体型のシステム）については、2000年11月にSD-FX1が発売された後も、[2003年](../Page/2003年.md "wikilink")5月発売のMD-F350まではアナログアンプを搭載していたモデルがほとんどであったが、同年9月発売のSD-FX10からはAuviシリーズに統合された（MD-F350以前のシリーズ名は[MD studio](https://ja.wikipedia.org/wiki/MD_studio "wikilink")。）。2006年発売のSD-FX33を最後に、Auviシリーズの新製品は発表されていない。2013年現在はAuviシリーズや、それ以前のMD studioシリーズ共に展開を終了しており、シャープはオーディオ事業から事実上撤退している（新モデルの発表が全くないまま、SD-GX2、SD-FX200、SD-FX30の3機種を2010年頃まで継続販売していた。なお、SD-FX30の後に発売されたSD-FX33がSD-FX30よりも先に生産終了となっている。）。
 

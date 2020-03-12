@@ -17,7 +17,7 @@
   - [TLS通信](../Page/Transport_Layer_Security.md "wikilink")
   - [LDAPサーバによる](../Page/Lightweight_Directory_Access_Protocol.md "wikilink")[認証](../Page/認証.md "wikilink")
   - [rrdtool](https://ja.wikipedia.org/wiki/rrdtool "wikilink")による統計情報
-  - [ルール](https://ja.wikipedia.org/wiki/ルール "wikilink")で管理されたダウンロード
+  - [ルール](../Page/ルール.md "wikilink")で管理されたダウンロード
   - [Server Side Includes](https://ja.wikipedia.org/wiki/Server_Side_Includes "wikilink")
   - バーチャルホスト
   - モジュール機構

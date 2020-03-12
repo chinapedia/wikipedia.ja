@@ -5,7 +5,7 @@
 
 ## 概要
 
-  - [やしきたかじん](../Page/やしきたかじん.md "wikilink")の初代マネージャーであった野田幸嗣とともに[大阪駅前第二ビルの](https://ja.wikipedia.org/wiki/大阪駅前ビル "wikilink")、当時所属していた[ヤングジャパングループ](../Page/ヤングジャパングループ.md "wikilink")（[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")にグループ自体は解散し、後の[アップフロントグループ](../Page/アップフロントグループ.md "wikilink")の源流）の事務所の一角を借り設立する。
+  - [やしきたかじん](../Page/やしきたかじん.md "wikilink")の初代マネージャーであった野田幸嗣とともに[大阪駅前第二ビルの](../Page/大阪駅前ビル.md "wikilink")、当時所属していた[ヤングジャパングループ](../Page/ヤングジャパングループ.md "wikilink")（[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")にグループ自体は解散し、後の[アップフロントグループ](../Page/アップフロントグループ.md "wikilink")の源流）の事務所の一角を借り設立する。
   - ヤングジャパングループが解散し、旧系列の会社数社の[ツーバン](https://ja.wikipedia.org/wiki/ツーバン "wikilink")と[メイハウス](https://ja.wikipedia.org/wiki/メイハウス "wikilink")との合併で再編されて誕生した[アップフロントエージェンシー](../Page/アップフロントプロモーション.md "wikilink")（現：アップフロントプロモーション）及びアップフロントグループとは完全に距離を置いており、全く無関係で資本関係も無い。
   - P.I.S自体以前は複数の所属タレントを抱える、芸能プロダクションであったが、2003年にやしきたかじんの意向により全スタッフおよび全タレントが退社し、やしきたかじんの個人事務所となっていた。
   - 関連会社の㈱S.I.P・㈲P.I.S音楽出版（cozee records）は野田幸嗣が社長を務めている。
@@ -30,7 +30,7 @@
 
   - **P.I.S音楽出版　**※ポリスターレコードよりリリースされた｢やしきたかじん｣の全楽曲（DVD含む）の原盤管理は2018年にP.I.S音楽出版に移行された。
       - 野田幸嗣（P.I.S音楽出版 代表取締役）
-      - [前塚あつし](https://ja.wikipedia.org/wiki/前塚あつし "wikilink")(ナレーター・声優・司会）
+      - [前塚あつし](../Page/前塚あつし.md "wikilink")(ナレーター・声優・司会）
 
 <!-- end list -->
 
@@ -52,12 +52,12 @@
 
   - P.I.S
       - [やしきたかじん](../Page/やしきたかじん.md "wikilink")＜家鋪隆仁＞（P.I.S初代代表取締役）
-      - [中村貴子](https://ja.wikipedia.org/wiki/中村貴子 "wikilink")
-      - [打越元久](https://ja.wikipedia.org/wiki/打越元久 "wikilink")
+      - [中村貴子](../Page/中村貴子.md "wikilink")
+      - [打越元久](../Page/打越元久.md "wikilink")
       - [佐々木清次](../Page/佐々木清次.md "wikilink")
       - [安井ゆたか](https://ja.wikipedia.org/wiki/安井ゆたか "wikilink")
       - [青木直子](https://ja.wikipedia.org/wiki/青木直子_\(タレント\) "wikilink")
-      - [中井雅之](https://ja.wikipedia.org/wiki/中井雅之 "wikilink")
+      - [中井雅之](../Page/中井雅之.md "wikilink")
       - [薗田涼子](https://ja.wikipedia.org/wiki/薗田涼子 "wikilink")
       - [領家華子](../Page/領家華子.md "wikilink")
       - [植田真由美](https://ja.wikipedia.org/wiki/植田真由美 "wikilink")

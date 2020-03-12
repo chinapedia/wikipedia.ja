@@ -1,21 +1,21 @@
 > この記事は[To Be Continued](https://ja.wikipedia.org/wiki/To_Be_Continued)から翻訳されています。
 
 
-**To Be Continued**（トゥ・ビー・コンティニュード）は[1990年代](../Page/1990年代.md "wikilink")に活動していた[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")である。
+**To Be Continued**（トゥ・ビー・コンティニュード）は[1990年代](../Page/1990年代.md "wikilink")に活動していた[音楽ユニット](../Page/音楽ユニット.md "wikilink")である。
 
 ## メンバー
 
-  - [岡田浩暉](https://ja.wikipedia.org/wiki/岡田浩暉 "wikilink")（ボーカル・作詞）
+  - [岡田浩暉](../Page/岡田浩暉.md "wikilink")（ボーカル・作詞）
       - 音楽活動と並行して[俳優](../Page/俳優.md "wikilink")としても活動。
   - [佐藤鷹](https://ja.wikipedia.org/wiki/佐藤鷹 "wikilink")（キーボード・作曲・編曲）
       - 元[コスミック・インベンション](../Page/コスミック・インベンション.md "wikilink")のメンバー。映画『[口裂け女2](https://ja.wikipedia.org/wiki/口裂け女2 "wikilink")』音楽担当。
-  - [後藤友輔](https://ja.wikipedia.org/wiki/後藤友輔 "wikilink")（ギター・キーボード・作詞・作曲）、[アバロンミュージックスクール](https://ja.wikipedia.org/wiki/アバロンミュージックスクール "wikilink")及び[アバロン声優スクール](https://ja.wikipedia.org/wiki/アバロン声優スクール "wikilink")
+  - [後藤友輔](../Page/後藤友輔.md "wikilink")（ギター・キーボード・作詞・作曲）、[アバロンミュージックスクール](https://ja.wikipedia.org/wiki/アバロンミュージックスクール "wikilink")及び[アバロン声優スクール](https://ja.wikipedia.org/wiki/アバロン声優スクール "wikilink")
 
 ## 来歴
 
-1991年、[ソニー・レコードからシングル](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")「君がいたから」でデビューし、1994年、ドラマ『[もしも願いが叶うなら](https://ja.wikipedia.org/wiki/もしも願いが叶うなら "wikilink")』（[TBS](https://ja.wikipedia.org/wiki/TBS "wikilink")）の挿入歌「[君だけを見ていた](https://ja.wikipedia.org/wiki/君だけを見ていた "wikilink")」が50万枚を超えるヒットを記録をしその後も「[逃げたりしない](https://ja.wikipedia.org/wiki/逃げたりしない "wikilink")」や「[うまく言えないけど](https://ja.wikipedia.org/wiki/うまく言えないけど "wikilink")」、「TRUTH」、「[物語は続いていく](https://ja.wikipedia.org/wiki/物語は続いていく "wikilink")」などをスマッシュヒットさせていった。また『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）にも1991年から1996年までの期間の5年間で計17回出演しており1994年には年末の『[ミュージックステーションスーパーライブ](../Page/ミュージックステーションスーパーライブ.md "wikilink")』にも出演し「君だけを見ていた」を披露した。
+1991年、[ソニー・レコードからシングル](../Page/ソニー・ミュージックレコーズ.md "wikilink")「君がいたから」でデビューし、1994年、ドラマ『[もしも願いが叶うなら](../Page/もしも願いが叶うなら.md "wikilink")』（[TBS](https://ja.wikipedia.org/wiki/TBS "wikilink")）の挿入歌「[君だけを見ていた](https://ja.wikipedia.org/wiki/君だけを見ていた "wikilink")」が50万枚を超えるヒットを記録をしその後も「[逃げたりしない](https://ja.wikipedia.org/wiki/逃げたりしない "wikilink")」や「[うまく言えないけど](https://ja.wikipedia.org/wiki/うまく言えないけど "wikilink")」、「TRUTH」、「[物語は続いていく](https://ja.wikipedia.org/wiki/物語は続いていく "wikilink")」などをスマッシュヒットさせていった。また『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）にも1991年から1996年までの期間の5年間で計17回出演しており1994年には年末の『[ミュージックステーションスーパーライブ](../Page/ミュージックステーションスーパーライブ.md "wikilink")』にも出演し「君だけを見ていた」を披露した。
 
-1998年、[東芝EMIに移籍するも](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")2000年に活動休止を宣言。
+1998年、[東芝EMIに移籍するも](../Page/EMIミュージック・ジャパン.md "wikilink")2000年に活動休止を宣言。
 
 活動休止後は岡田が俳優として、佐藤が[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")の[ルルティア](https://ja.wikipedia.org/wiki/ルルティア "wikilink")の音楽プロデューサーとして、後藤が[アバロンミュージックスクール](https://ja.wikipedia.org/wiki/アバロンミュージックスクール "wikilink")代表として、それぞれ活動している。
 
@@ -50,7 +50,7 @@
 <li>君がいたから</li>
 <li>End of Innoccence</li>
 </ol></td>
-<td><p>ニッポン放送「<a href="https://ja.wikipedia.org/wiki/福澤朗ラジオ☆スター" title="wikilink">福澤朗ラジオ☆スター</a>」主題歌<br />
+<td><p>ニッポン放送「<a href="../Page/福澤朗ラジオ☆スター.md" title="wikilink">福澤朗ラジオ☆スター</a>」主題歌<br />
 オリコン圏外</p></td>
 </tr>
 <tr class="even">
@@ -146,7 +146,7 @@
 <li>32゜僕にもたれてた</li>
 <li>君だけを見ていた(オリジナル・カラオケ)</li>
 </ol></td>
-<td><p><a href="../Page/TBSテレビ.md" title="wikilink">TBS系列ドラマ</a>『<a href="https://ja.wikipedia.org/wiki/もしも願いが叶うなら" title="wikilink">もしも願いが叶うなら</a>』挿入歌<br />
+<td><p><a href="../Page/TBSテレビ.md" title="wikilink">TBS系列ドラマ</a>『<a href="../Page/もしも願いが叶うなら.md" title="wikilink">もしも願いが叶うなら</a>』挿入歌<br />
 オリコン最高4位、登場回数18回</p></td>
 </tr>
 <tr class="even">
@@ -171,7 +171,7 @@
 <li>どんな君も愛してる</li>
 <li>うまく言えないけど(オリジナル・カラオケ)</li>
 </ol></td>
-<td><p>TBS系列『<a href="https://ja.wikipedia.org/wiki/COUNT_DOWN_TV" title="wikilink">COUNT DOWN TV</a>』エンディングテーマ<br />
+<td><p>TBS系列『<a href="../Page/COUNT_DOWN_TV.md" title="wikilink">COUNT DOWN TV</a>』エンディングテーマ<br />
 オリコン最高13位、登場回数9回</p></td>
 </tr>
 <tr class="even">
@@ -196,7 +196,7 @@
 <li>Funny!? Serious?!(リミックス・ヴァージョン)</li>
 <li>TRUTH(バッキング・トラック)</li>
 </ol></td>
-<td><p>テレビ朝日系列「<a href="https://ja.wikipedia.org/wiki/Change!" title="wikilink">Change!</a>」主題歌<br />
+<td><p>テレビ朝日系列「<a href="../Page/Change!.md" title="wikilink">Change!</a>」主題歌<br />
 オリコン最高23位、登場回数7回</p></td>
 </tr>
 <tr class="even">

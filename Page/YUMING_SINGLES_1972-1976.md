@@ -1,13 +1,13 @@
 > この記事は[YUMING SINGLES 1972-1976](https://ja.wikipedia.org/wiki/YUMING_SINGLES_1972-1976)から翻訳されています。
 
 
-『**YUMING SINGLES 1972-1976**』（ユーミン・シングルズ）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")に発売された[荒井由実の編集盤である](../Page/松任谷由実.md "wikilink")。荒井由実時代のシングルをコンプリートした作品だが、[アルファレコード](https://ja.wikipedia.org/wiki/アルファレコード "wikilink")によってアーティストの意思とは関係なく発売された類のアルバム（非公式ベスト・アルバム）であるため、[EMIミュージック・ジャパン](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")内の彼女のディスコグラフィーには掲載されていない。
+『**YUMING SINGLES 1972-1976**』（ユーミン・シングルズ）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")に発売された[荒井由実の編集盤である](../Page/松任谷由実.md "wikilink")。荒井由実時代のシングルをコンプリートした作品だが、[アルファレコード](../Page/アルファレコード.md "wikilink")によってアーティストの意思とは関係なく発売された類のアルバム（非公式ベスト・アルバム）であるため、[EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink")内の彼女のディスコグラフィーには掲載されていない。
 
 アルファレコードの[レコード](../Page/レコード.md "wikilink")・[CD制作撤退に伴い](../Page/CD-DA.md "wikilink")、現在は廃盤である。
 
 ## 解説
 
-  - アルファから出された非公式のアルバムだが、300枚しか売れずすぐに廃盤になった幻のデビュー曲「[返事はいらない](../Page/返事はいらない.md "wikilink")」のシングル版が収録されているのは貴重といえる。[2004年](../Page/2004年.md "wikilink")[2月18日](../Page/2月18日.md "wikilink")に発売された公式の[CD-BOX](https://ja.wikipedia.org/wiki/CD-BOX "wikilink")『[Yumi Arai 1972-1976](https://ja.wikipedia.org/wiki/Yumi_Arai_1972-1976 "wikilink")』のDisc5には、『YUMI ARAI SINGLES』のタイトルで同じ内容のものがシングルリリース順に収録されている（ただし、同作では「[翳りゆく部屋](../Page/翳りゆく部屋.md "wikilink")」がアルバム版の音源に差し替えられている）。
+  - アルファから出された非公式のアルバムだが、300枚しか売れずすぐに廃盤になった幻のデビュー曲「[返事はいらない](../Page/返事はいらない.md "wikilink")」のシングル版が収録されているのは貴重といえる。[2004年](../Page/2004年.md "wikilink")[2月18日](../Page/2月18日.md "wikilink")に発売された公式の[CD-BOX](https://ja.wikipedia.org/wiki/CD-BOX "wikilink")『[Yumi Arai 1972-1976](../Page/Yumi_Arai_1972-1976.md "wikilink")』のDisc5には、『YUMI ARAI SINGLES』のタイトルで同じ内容のものがシングルリリース順に収録されている（ただし、同作では「[翳りゆく部屋](../Page/翳りゆく部屋.md "wikilink")」がアルバム版の音源に差し替えられている）。
 
 ## 収録曲
 
@@ -65,6 +65,6 @@
 <!-- end list -->
 
   - 作詞・作曲：荒井由実
-  - 編曲：[松任谷正隆](https://ja.wikipedia.org/wiki/松任谷正隆 "wikilink")（except track A-6.A-7.B-5.B-7）、荒井由実（track A-7.B-5）、荒井由実&[キャラメル・ママ](../Page/ティン・パン・アレー_\(バンド\).md "wikilink")（track A-6.B-7）
+  - 編曲：[松任谷正隆](../Page/松任谷正隆.md "wikilink")（except track A-6.A-7.B-5.B-7）、荒井由実（track A-7.B-5）、荒井由実&[キャラメル・ママ](../Page/ティン・パン・アレー_\(バンド\).md "wikilink")（track A-6.B-7）
 
 [Category:Yumingのベスト・アルバム](https://ja.wikipedia.org/wiki/Category:Yumingのベスト・アルバム "wikilink") [Category:1987年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:1987年のベスト・アルバム "wikilink")

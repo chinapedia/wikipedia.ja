@@ -1,7 +1,7 @@
 > この記事は[The Rainbow Star](https://ja.wikipedia.org/wiki/The_Rainbow_Star)から翻訳されています。
 
 
-「**The Rainbow Star**」（ザ・レインボー・スター）は、[ENDLICHERI☆ENDLICHERI名義の](https://ja.wikipedia.org/wiki/堂本剛#ソロプロジェクト "wikilink")2枚目[シングル](../Page/シングル.md "wikilink")として発売した[堂本剛](../Page/堂本剛.md "wikilink")の通算4枚目のシングル。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[6月28日](../Page/6月28日.md "wikilink")に発売。発売元は[ジャニーズ・エンタテイメント](https://ja.wikipedia.org/wiki/ジャニーズ・エンタテイメント "wikilink")。
+「**The Rainbow Star**」（ザ・レインボー・スター）は、[ENDLICHERI☆ENDLICHERI名義の](https://ja.wikipedia.org/wiki/堂本剛#ソロプロジェクト "wikilink")2枚目[シングル](../Page/シングル.md "wikilink")として発売した[堂本剛](../Page/堂本剛.md "wikilink")の通算4枚目のシングル。[2006年](../Page/2006年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink")に発売。発売元は[ジャニーズ・エンタテイメント](../Page/ジャニーズ・エンタテイメント.md "wikilink")。
 
 ## 解説
 
@@ -13,7 +13,7 @@
 
 ## チャート成績
 
-2006年7月10日付の[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")で初週11.2万枚を売り上げ、初登場1位を獲得した。堂本剛の関連のソロシングルを含めると首位獲得は今回で4作連続・通算4作目となった\[1\]。
+2006年7月10日付の[オリコンチャート](../Page/オリコンチャート.md "wikilink")で初週11.2万枚を売り上げ、初登場1位を獲得した。堂本剛の関連のソロシングルを含めると首位獲得は今回で4作連続・通算4作目となった\[1\]。
 
 ## 収録曲
 
@@ -22,7 +22,7 @@
 1.  **The Rainbow Star**
       -
         （作詞・作曲：ENDLICHERI☆ENDLICHERI／編曲：[上田ケンジ](../Page/上田ケンジ.md "wikilink")・下神竜哉・ENDLICHERI☆ENDLICHERI）
-        [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")『[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")』6月度オープニングテーマ。
+        [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")[音楽番組](../Page/音楽番組.md "wikilink")『[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")』6月度オープニングテーマ。
 2.  **いきてゆくことが**
       -
         （作詞・作曲：ENDLICHERI☆ENDLICHERI／編曲：[十川知司](../Page/十川ともじ.md "wikilink")・ENDLICHERI☆ENDLICHERI）

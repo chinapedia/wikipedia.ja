@@ -1,9 +1,9 @@
 > この記事は[F REGENERATION ](https://ja.wikipedia.org/wiki/F_REGENERATION_)から翻訳されています。
 
 
-『**F REGENERATION 瑠璃**』（エフ・リジェネレーション・るり）は、[六田登](../Page/六田登.md "wikilink")の漫画。『[F―エフ―](https://ja.wikipedia.org/wiki/F_\(漫画\) "wikilink")』の続編に当たる。その後の赤木軍馬と息子瑠璃の物語。
+『**F REGENERATION 瑠璃**』（エフ・リジェネレーション・るり）は、[六田登](../Page/六田登.md "wikilink")の漫画。『[F―エフ―](../Page/F_\(漫画\).md "wikilink")』の続編に当たる。その後の赤木軍馬と息子瑠璃の物語。
 
-[2002年](../Page/2002年.md "wikilink")6月から[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")3月まで、『週刊[オートスポーツ](../Page/オートスポーツ.md "wikilink")』（[三栄書房](https://ja.wikipedia.org/wiki/三栄書房 "wikilink")）で連載され、集英社より[ヤングジャンプ・コミックス](https://ja.wikipedia.org/wiki/ヤングジャンプ・コミックス "wikilink")・ウルトラとして全12巻が発売されている。
+[2002年](../Page/2002年.md "wikilink")6月から[2006年](../Page/2006年.md "wikilink")3月まで、『週刊[オートスポーツ](../Page/オートスポーツ.md "wikilink")』（[三栄書房](https://ja.wikipedia.org/wiki/三栄書房 "wikilink")）で連載され、集英社より[ヤングジャンプ・コミックス](../Page/ヤングジャンプ・コミックス.md "wikilink")・ウルトラとして全12巻が発売されている。
 
 ## ストーリー
 
@@ -31,7 +31,7 @@
 
 ## 関連作品
 
-  - [F](https://ja.wikipedia.org/wiki/F_\(漫画\) "wikilink")
+  - [F](../Page/F_\(漫画\).md "wikilink")
   - [あんたが大将 オレさま烈伝](https://ja.wikipedia.org/wiki/あんたが大将_オレさま烈伝 "wikilink") - 本作品の休載時に代わりに掲載されていた。
 
 [Category:漫画作品_え](https://ja.wikipedia.org/wiki/Category:漫画作品_え "wikilink") [Category:スポーツ雑誌掲載漫画作品](https://ja.wikipedia.org/wiki/Category:スポーツ雑誌掲載漫画作品 "wikilink") [Category:カーレース漫画](https://ja.wikipedia.org/wiki/Category:カーレース漫画 "wikilink") [Category:六田登](https://ja.wikipedia.org/wiki/Category:六田登 "wikilink")

@@ -1,11 +1,11 @@
 > この記事は[LG](https://ja.wikipedia.org/wiki/LG)から翻訳されています。
 
 
-**LGディスプレイ**（**LG Display Co., Ltd**）は、[韓国](../Page/大韓民国.md "wikilink")・[LGエレクトロニクス](https://ja.wikipedia.org/wiki/LGエレクトロニクス "wikilink")（旧称：LG電子）の[CRT](../Page/ブラウン管.md "wikilink")・[LCDメーカー](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")。
+**LGディスプレイ**（**LG Display Co., Ltd**）は、[韓国](../Page/大韓民国.md "wikilink")・[LGエレクトロニクス](../Page/LGエレクトロニクス.md "wikilink")（旧称：LG電子）の[CRT](../Page/ブラウン管.md "wikilink")・[LCDメーカー](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")。
 
 かつては[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の[フィリップス](../Page/フィリップス.md "wikilink")との[合弁事業](../Page/合弁事業.md "wikilink")でLG-Philips LCDという社名だった。
 
-韓国の[亀尾市](https://ja.wikipedia.org/wiki/亀尾市 "wikilink")、[坡州市](https://ja.wikipedia.org/wiki/坡州市 "wikilink")にLCD工場を建設。第8世代パネルの生産ラインが稼働している。
+韓国の[亀尾市](../Page/亀尾市.md "wikilink")、[坡州市](../Page/坡州市.md "wikilink")にLCD工場を建設。第8世代パネルの生産ラインが稼働している。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月3日](../Page/3月3日.md "wikilink") フィリップスの持ち株比率の低下と事業拡大で社名を変更\[1\]。
 
@@ -15,8 +15,8 @@
 
 ## 関連項目
 
-  - [LGグループ](https://ja.wikipedia.org/wiki/LGグループ "wikilink")
-  - [IPS方式](https://ja.wikipedia.org/wiki/IPS方式 "wikilink")
+  - [LGグループ](../Page/LGグループ.md "wikilink")
+  - [IPS方式](../Page/IPS方式.md "wikilink")
 
 ## 脚注
 

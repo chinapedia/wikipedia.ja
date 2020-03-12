@@ -1,15 +1,15 @@
 > この記事は[Passion \(\)](https://ja.wikipedia.org/wiki/Passion_\(\))から翻訳されています。
 
 
-「**Passion**」（パッション）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月14日](../Page/12月14日.md "wikilink")にリリースされた[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")の15th[シングル](../Page/シングル.md "wikilink")。
+「**Passion**」（パッション）は、[2005年](../Page/2005年.md "wikilink")[12月14日](../Page/12月14日.md "wikilink")にリリースされた[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")の15th[シングル](../Page/シングル.md "wikilink")。
 
 ## 概要
 
-[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")の[PS2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")『[キングダム ハーツII](../Page/キングダム_ハーツII.md "wikilink")』の[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")。「[光](../Page/光_\(宇多田ヒカルの曲\).md "wikilink")」「[Simple And Clean](../Page/COLORS_\(宇多田ヒカルの曲\).md "wikilink")」に続いて同シリーズの主題歌に起用された。後に[DS用ソフト](../Page/ニンテンドーDS.md "wikilink")『[キングダム ハーツ 358/2 Days](https://ja.wikipedia.org/wiki/キングダム_ハーツ_358/2_Days "wikilink")』の主題歌としても使われている。
+[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")の[PS2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")『[キングダム ハーツII](../Page/キングダム_ハーツII.md "wikilink")』の[主題歌](../Page/主題歌.md "wikilink")。「[光](../Page/光_\(宇多田ヒカルの曲\).md "wikilink")」「[Simple And Clean](../Page/COLORS_\(宇多田ヒカルの曲\).md "wikilink")」に続いて同シリーズの主題歌に起用された。後に[DS用ソフト](../Page/ニンテンドーDS.md "wikilink")『[キングダム ハーツ 358/2 Days](https://ja.wikipedia.org/wiki/キングダム_ハーツ_358/2_Days "wikilink")』の主題歌としても使われている。
 
-[PVの撮影は](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")[中華人民共和国](../Page/中華人民共和国.md "wikilink")で行われ、多数の[エキストラ](https://ja.wikipedia.org/wiki/エキストラ "wikilink")が起用された。理由は、経費削減と草原を映すためと宇多田本人が発言している。当初はCDのみが12月7日、CD+DVDが12月14日に発売予定だったが、両方とも12月14日に変更された（『キングダム ハーツII』の発売が遅れたため）。同時にゲーム内で使われた別バージョン「〜after the battle〜」もカップリング収録された。
+[PVの撮影は](../Page/ミュージック・ビデオ.md "wikilink")[中華人民共和国](../Page/中華人民共和国.md "wikilink")で行われ、多数の[エキストラ](../Page/エキストラ.md "wikilink")が起用された。理由は、経費削減と草原を映すためと宇多田本人が発言している。当初はCDのみが12月7日、CD+DVDが12月14日に発売予定だったが、両方とも12月14日に変更された（『キングダム ハーツII』の発売が遅れたため）。同時にゲーム内で使われた別バージョン「〜after the battle〜」もカップリング収録された。
 
-『キングダム ハーツII』の[サウンドトラック](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")には別バージョン「〜opening version〜」が収録されている（曲のアレンジは「Sanctuary」と共通）。今作でも1曲のみの収録だったが、バージョン違いの「〜after the battle〜」が収録された。どちらのバージョンも曲終盤の「ずっと前に～」以降の部分が歌われない構成になっている。
+『キングダム ハーツII』の[サウンドトラック](../Page/サウンドトラック.md "wikilink")には別バージョン「〜opening version〜」が収録されている（曲のアレンジは「Sanctuary」と共通）。今作でも1曲のみの収録だったが、バージョン違いの「〜after the battle〜」が収録された。どちらのバージョンも曲終盤の「ずっと前に～」以降の部分が歌われない構成になっている。
 
 コーラスに"I need more affection than you know"という言葉を逆再生したものが使われている。デモ曲は1年以上前に出来ており、何度か行き詰まりを繰り返したようだが、作品には満足していると語っている。エンディングの曲調が変わるところが特に本人自身が気に入っている部分である。タイトルを決める際に「Passion」か「秘められし情熱」のどちらにするかを非常に迷ったと述べている。
 

@@ -1,9 +1,9 @@
 > この記事は[San Pin ](https://ja.wikipedia.org/wiki/San_Pin_)から翻訳されています。
 
 
-**道の駅San Pin 中津**（みちのえき サン ピン なかつ）は、[和歌山県](../Page/和歌山県.md "wikilink")[日高郡](../Page/日高郡_\(和歌山県\).md "wikilink")[日高川町](https://ja.wikipedia.org/wiki/日高川町 "wikilink")船津にある[和歌山県道26号御坊美山線](https://ja.wikipedia.org/wiki/和歌山県道26号御坊美山線 "wikilink")の[道の駅](../Page/道の駅.md "wikilink")である。
+**道の駅San Pin 中津**（みちのえき サン ピン なかつ）は、[和歌山県](../Page/和歌山県.md "wikilink")[日高郡](../Page/日高郡_\(和歌山県\).md "wikilink")[日高川町](../Page/日高川町.md "wikilink")船津にある[和歌山県道26号御坊美山線](https://ja.wikipedia.org/wiki/和歌山県道26号御坊美山線 "wikilink")の[道の駅](../Page/道の駅.md "wikilink")である。
 
-名称は、合併前の所在地が[中津村であったことによる](https://ja.wikipedia.org/wiki/中津村_\(和歌山県\) "wikilink")。
+名称は、合併前の所在地が[中津村であったことによる](../Page/中津村_\(和歌山県\).md "wikilink")。
 
 ## 施設
 
@@ -37,7 +37,7 @@
 
 ## 周辺
 
-  - [日高川](https://ja.wikipedia.org/wiki/日高川 "wikilink")
+  - [日高川](../Page/日高川.md "wikilink")
   - 日高川町中津支所
   - [和歌山県立日高高等学校中津分校](../Page/和歌山県立日高高等学校中津分校.md "wikilink")
   - [きのくに中津荘](https://ja.wikipedia.org/wiki/きのくに中津荘 "wikilink")
@@ -46,8 +46,8 @@
 
 ## 関連項目
 
-  - [道の駅一覧 さ行](https://ja.wikipedia.org/wiki/道の駅一覧_さ行 "wikilink")
-  - [道の駅一覧 近畿地方](https://ja.wikipedia.org/wiki/道の駅一覧_近畿地方 "wikilink")
+  - [道の駅一覧 さ行](../Page/道の駅一覧_さ行.md "wikilink")
+  - [道の駅一覧 近畿地方](../Page/道の駅一覧_近畿地方.md "wikilink")
 
 ## 外部リンク
 

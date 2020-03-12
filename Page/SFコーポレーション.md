@@ -1,15 +1,15 @@
 > この記事は[SF](https://ja.wikipedia.org/wiki/SF)から翻訳されています。
 
 
-**株式会社SFコーポレーション**（エスエフコーポレーション）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[消費者金融](../Page/消費者金融.md "wikilink")業者で、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[港区に本社を置いている](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")。2008年10月31日、三和ファイナンスはかざかファイナンスへ売却され、[商号](https://ja.wikipedia.org/wiki/商号 "wikilink")を**三和ファイナンス株式会社**から変更した。その後創業者は経営に一切関係していない。2011年8月26日、[過払金](https://ja.wikipedia.org/wiki/過払金 "wikilink")債権の返還に行き詰り、破産手続開始決定を受ける。
+**株式会社SFコーポレーション**（エスエフコーポレーション）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[消費者金融](../Page/消費者金融.md "wikilink")業者で、[東京都](../Page/東京都.md "wikilink")[港区に本社を置いている](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")。2008年10月31日、三和ファイナンスはかざかファイナンスへ売却され、[商号](../Page/商号.md "wikilink")を**三和ファイナンス株式会社**から変更した。その後創業者は経営に一切関係していない。2011年8月26日、[過払金](../Page/過払金.md "wikilink")債権の返還に行き詰り、破産手続開始決定を受ける。
 
 旧社名と同じ表記である[三和銀行](../Page/三和銀行.md "wikilink")（現：[三菱UFJ銀行](https://ja.wikipedia.org/wiki/三菱UFJ銀行 "wikilink")）とは何の関係もない。そのためか、1990年代後半頃から表記を「三和・ファイナンス」としていた。また、グループ会社に三和プランニングがあるが、2014年に大阪で社員が恐喝容疑で逮捕された同名の会社とは全く関係がない。
 
 ## 概要
 
-[1972年](../Page/1972年.md "wikilink")に創業し、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")時点で日本国内に400以上の支店を持っていた。[大韓民国](../Page/大韓民国.md "wikilink")においては、同社の現地法人（サンワマネー）が業界第2位の[シェア](https://ja.wikipedia.org/wiki/シェア "wikilink")を有する（現在も韓国法人は存在する）。イメージキャラクターとして[株式会社先駆舎](https://ja.wikipedia.org/wiki/先駆舎 "wikilink")（当時はネイキッド）の[イラストレーター](../Page/イラストレーター.md "wikilink")・[額賀剛治](https://ja.wikipedia.org/wiki/額賀剛治 "wikilink")が手掛けた「ビーンズ君」が日韓両国の広告に登場していた。また、グループ会社が[西新宿](../Page/西新宿.md "wikilink")8丁目にある「飛鳥ホテル」、福島県いわき市にある田人カントリー倶楽部、北海道長万部町にある[二股らぢうむ温泉なども経営している](https://ja.wikipedia.org/wiki/二股ラヂウム温泉 "wikilink")。その後田人カントリー倶楽部は[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")の影響で閉鎖、飛鳥ホテルも創業者が経営する三和不動産により賃貸マンションへ再開発\[1\]の為2013年2月に閉鎖され、現在は二股ラジウム温泉のみ営業を継続している。
+[1972年](../Page/1972年.md "wikilink")に創業し、[2006年](../Page/2006年.md "wikilink")時点で日本国内に400以上の支店を持っていた。[大韓民国](../Page/大韓民国.md "wikilink")においては、同社の現地法人（サンワマネー）が業界第2位の[シェア](https://ja.wikipedia.org/wiki/シェア "wikilink")を有する（現在も韓国法人は存在する）。イメージキャラクターとして[株式会社先駆舎](../Page/先駆舎.md "wikilink")（当時はネイキッド）の[イラストレーター](../Page/イラストレーター.md "wikilink")・[額賀剛治](https://ja.wikipedia.org/wiki/額賀剛治 "wikilink")が手掛けた「ビーンズ君」が日韓両国の広告に登場していた。また、グループ会社が[西新宿](../Page/西新宿.md "wikilink")8丁目にある「飛鳥ホテル」、福島県いわき市にある田人カントリー倶楽部、北海道長万部町にある[二股らぢうむ温泉なども経営している](../Page/二股ラヂウム温泉.md "wikilink")。その後田人カントリー倶楽部は[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")の影響で閉鎖、飛鳥ホテルも創業者が経営する三和不動産により賃貸マンションへ再開発\[1\]の為2013年2月に閉鎖され、現在は二股ラジウム温泉のみ営業を継続している。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月12日](../Page/9月12日.md "wikilink")、同社に対し[過払金](https://ja.wikipedia.org/wiki/過払金 "wikilink")返還請求権を有する債権者から、[東京地方裁判所](../Page/東京地方裁判所.md "wikilink")に対し、過払金返還請求権を請求債権として[破産](../Page/破産.md "wikilink")を申し立てられた。破産を申し立てた弁護団によると、請求債権の総額は約3億2000万円であり（弁護団に関係しない顧客に対し支払義務を負う過払金も含めれば、これよりはるかに多額に上る）、同社は、2008年2月頃より、賠償を命じる判決や裁判上の[和解](https://ja.wikipedia.org/wiki/和解 "wikilink")も無視し、支払を拒否していた。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月12日](../Page/9月12日.md "wikilink")、同社に対し[過払金](../Page/過払金.md "wikilink")返還請求権を有する債権者から、[東京地方裁判所](../Page/東京地方裁判所.md "wikilink")に対し、過払金返還請求権を請求債権として[破産](../Page/破産.md "wikilink")を申し立てられた。破産を申し立てた弁護団によると、請求債権の総額は約3億2000万円であり（弁護団に関係しない顧客に対し支払義務を負う過払金も含めれば、これよりはるかに多額に上る）、同社は、2008年2月頃より、賠償を命じる判決や裁判上の[和解](../Page/和解.md "wikilink")も無視し、支払を拒否していた。
 
 2008年9月17日、かざかファイナンス（現・[クロスシード](../Page/クロスシード.md "wikilink")）が、三和ファイナンスの全株式を取得して、[完全子会社](https://ja.wikipedia.org/wiki/完全子会社 "wikilink")化した。
 
@@ -35,11 +35,11 @@
 
 :; ジェリービーンちゃん
 
-:: [ジェリービーン](https://ja.wikipedia.org/wiki/ゼリービーンズ "wikilink")。ちょっとわがままな高校3年生。ピーナッツ君のことが好き。ウインク一つで男の子はほれてしまう。
+:: [ジェリービーン](../Page/ゼリービーンズ.md "wikilink")。ちょっとわがままな高校3年生。ピーナッツ君のことが好き。ウインク一つで男の子はほれてしまう。
 
 :; えんどうくん
 
-:: [えんどう豆](https://ja.wikipedia.org/wiki/エンドウ "wikilink")。ケンカは弱く、お人好し。世話好きなので、そらまめ君の恋のキューピットになろうと奮闘中。
+:: [えんどう豆](../Page/エンドウ.md "wikilink")。ケンカは弱く、お人好し。世話好きなので、そらまめ君の恋のキューピットになろうと奮闘中。
 
 :; ジャバ君
 
@@ -55,11 +55,11 @@
 
 ## 処分
 
-  - [2007年](../Page/2007年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")、違法な取り立てを行う[マニュアル](https://ja.wikipedia.org/wiki/マニュアル "wikilink")を作成し、債務者の家族に借金の肩代わりを[強要](https://ja.wikipedia.org/wiki/強要 "wikilink")したり、親族の家にまで押しかけるなどの[貸金業規制法](https://ja.wikipedia.org/wiki/貸金業規制法 "wikilink")違反により、[金融庁](../Page/金融庁.md "wikilink")から全店舗を対象に[4月23日](../Page/4月23日.md "wikilink")から最長[6月27日](../Page/6月27日.md "wikilink")まで、返済受付以外の全業務停止を命じられた\[6\]\[7\]。
+  - [2007年](../Page/2007年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")、違法な取り立てを行う[マニュアル](../Page/マニュアル.md "wikilink")を作成し、債務者の家族に借金の肩代わりを[強要](https://ja.wikipedia.org/wiki/強要 "wikilink")したり、親族の家にまで押しかけるなどの[貸金業規制法](https://ja.wikipedia.org/wiki/貸金業規制法 "wikilink")違反により、[金融庁](../Page/金融庁.md "wikilink")から全店舗を対象に[4月23日](../Page/4月23日.md "wikilink")から最長[6月27日](../Page/6月27日.md "wikilink")まで、返済受付以外の全業務停止を命じられた\[6\]\[7\]。
 
 <!-- end list -->
 
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月16日](../Page/5月16日.md "wikilink")、[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")の大宮西口支店で[支店長自らが](../Page/支配人.md "wikilink")、2007年11月に[脅迫](https://ja.wikipedia.org/wiki/脅迫 "wikilink")や立て続けに電話するなどの社内規定に違反する取立てを行うなど、現場の監督が十分に行われていなかったことから、[関東財務局](https://ja.wikipedia.org/wiki/関東財務局 "wikilink")長から同店舗について5日間の[業務停止命令](https://ja.wikipedia.org/wiki/業務停止命令 "wikilink")と[業務改善命令](../Page/業務改善命令.md "wikilink")を受けた\[8\]\[9\]。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月16日](../Page/5月16日.md "wikilink")、[埼玉県](../Page/埼玉県.md "wikilink")の大宮西口支店で[支店長自らが](../Page/支配人.md "wikilink")、2007年11月に[脅迫](https://ja.wikipedia.org/wiki/脅迫 "wikilink")や立て続けに電話するなどの社内規定に違反する取立てを行うなど、現場の監督が十分に行われていなかったことから、[関東財務局](../Page/関東財務局.md "wikilink")長から同店舗について5日間の[業務停止命令](https://ja.wikipedia.org/wiki/業務停止命令 "wikilink")と[業務改善命令](../Page/業務改善命令.md "wikilink")を受けた\[8\]\[9\]。
 
 ## 脚注
 
@@ -67,7 +67,7 @@
 
 ## 関連項目
 
-  - [二股ラヂウム温泉](https://ja.wikipedia.org/wiki/二股ラヂウム温泉 "wikilink")
+  - [二股ラヂウム温泉](../Page/二股ラヂウム温泉.md "wikilink")
 
 ## 公式サイト
 

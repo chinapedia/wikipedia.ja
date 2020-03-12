@@ -7,41 +7,41 @@
 
 ## 概要
 
-創刊当時、パソコンといえば、[BASIC](../Page/BASIC.md "wikilink")[インタプリタ](../Page/インタプリタ.md "wikilink")をROM内に搭載、もしくは標準で添付した[8ビットパソコン](https://ja.wikipedia.org/wiki/8ビットパソコン "wikilink")（[ホビーパソコン](https://ja.wikipedia.org/wiki/ホビーパソコン "wikilink")）や[ポケットコンピュータ](https://ja.wikipedia.org/wiki/ポケットコンピュータ "wikilink")が主であった。そしてパソコンの入門といえば、BASICのコマンドの文法からプログラミングまで、実際に動かして習得することであった。
+創刊当時、パソコンといえば、[BASIC](../Page/BASIC.md "wikilink")[インタプリタ](../Page/インタプリタ.md "wikilink")をROM内に搭載、もしくは標準で添付した[8ビットパソコン](../Page/8ビットパソコン.md "wikilink")（[ホビーパソコン](../Page/ホビーパソコン.md "wikilink")）や[ポケットコンピュータ](../Page/ポケットコンピュータ.md "wikilink")が主であった。そしてパソコンの入門といえば、BASICのコマンドの文法からプログラミングまで、実際に動かして習得することであった。
 
-もっとも特徴的なのは、読者が投稿したオリジナルの[プログラムを掲載していたことである](https://ja.wikipedia.org/wiki/プログラム_\(コンピュータ\) "wikilink")。当時はメーカーごとの仕様に基く、互換性の低い数十種類のBASIC言語が存在したが、本誌では各機種に対応したプログラムのリスト（[ソースコード](../Page/ソースコード.md "wikilink")を印刷した物）を掲載していた。読者はこれを自分で入力し、そのプログラムが提供する主に[ゲームを楽しんだ](../Page/コンピュータゲーム.md "wikilink")。誌名のとおり、基本的にBASICのプログラムが掲載されたが、[機械語](../Page/機械語.md "wikilink")を併用したものや、ごく一部ながらほとんどが機械語のプログラムもあった。後期には、時代の趨勢もありBASIC以外の[高級言語](https://ja.wikipedia.org/wiki/高級言語 "wikilink")（[C言語](../Page/C言語.md "wikilink")、[Delphi](../Page/Delphi.md "wikilink")、[HSPなど](https://ja.wikipedia.org/wiki/Hot_Soup_Processor "wikilink")）によるプログラムも掲載するようになった。
+もっとも特徴的なのは、読者が投稿したオリジナルの[プログラムを掲載していたことである](../Page/プログラム_\(コンピュータ\).md "wikilink")。当時はメーカーごとの仕様に基く、互換性の低い数十種類のBASIC言語が存在したが、本誌では各機種に対応したプログラムのリスト（[ソースコード](../Page/ソースコード.md "wikilink")を印刷した物）を掲載していた。読者はこれを自分で入力し、そのプログラムが提供する主に[ゲームを楽しんだ](../Page/コンピュータゲーム.md "wikilink")。誌名のとおり、基本的にBASICのプログラムが掲載されたが、[機械語](../Page/機械語.md "wikilink")を併用したものや、ごく一部ながらほとんどが機械語のプログラムもあった。後期には、時代の趨勢もありBASIC以外の[高級言語](https://ja.wikipedia.org/wiki/高級言語 "wikilink")（[C言語](../Page/C言語.md "wikilink")、[Delphi](../Page/Delphi.md "wikilink")、[HSPなど](../Page/Hot_Soup_Processor.md "wikilink")）によるプログラムも掲載するようになった。
 
-ゲーム以外にも、カロリー計算やキャラクタエディタなどといった、小規模ながら多岐にわたる「実用プログラム」も掲載された。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")頃からは、ゲームメーカーの許可を得て、[ゲームミュージック](https://ja.wikipedia.org/wiki/ゲームミュージック "wikilink")をパソコンで鳴らすプログラムや、楽譜も掲載されるようになった。
+ゲーム以外にも、カロリー計算やキャラクタエディタなどといった、小規模ながら多岐にわたる「実用プログラム」も掲載された。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")頃からは、ゲームメーカーの許可を得て、[ゲームミュージック](../Page/ゲームミュージック.md "wikilink")をパソコンで鳴らすプログラムや、楽譜も掲載されるようになった。
 
-ゲームのプログラムリストを掲載していた雑誌としては、本誌の他に『[I/O](https://ja.wikipedia.org/wiki/I/O_\(雑誌\) "wikilink")』、『[PiO](https://ja.wikipedia.org/wiki/PiO "wikilink")』、初期の『[ログイン](https://ja.wikipedia.org/wiki/ログイン_\(雑誌\) "wikilink")』などがあったが、これらの雑誌では実行速度の遅いBASICのプログラムではなく、処理が高速でアクションゲームを作るのに有利な機械語のプログラムを掲載していることがほとんどであった。しかも[アセンブリ言語](../Page/アセンブリ言語.md "wikilink")のソースコードではなく、ダンプリストの形でプログラムが掲載されており、すなわち0からFまでの[十六進数](https://ja.wikipedia.org/wiki/十六進数 "wikilink")の羅列であるため、読者が直接プログラムの内容を読み取ることが難しかった上に、入力ミスをした場合に問題箇所を見付けて修正するにも技術を必要とした。それに対して、本誌が掲載するBASICはインタプリタ型の高級言語であるため、予約語は簡易な英語をベースとしており記述の意味を読み解くことが容易で、入力に不整合があればエラーメッセージが表示されるため、入力の動機が「ゲームを遊ぶこと」であっても、自ずとプログラムの学習に繋がっていった。
+ゲームのプログラムリストを掲載していた雑誌としては、本誌の他に『[I/O](https://ja.wikipedia.org/wiki/I/O_\(雑誌\) "wikilink")』、『[PiO](../Page/PiO.md "wikilink")』、初期の『[ログイン](../Page/ログイン_\(雑誌\).md "wikilink")』などがあったが、これらの雑誌では実行速度の遅いBASICのプログラムではなく、処理が高速でアクションゲームを作るのに有利な機械語のプログラムを掲載していることがほとんどであった。しかも[アセンブリ言語](../Page/アセンブリ言語.md "wikilink")のソースコードではなく、ダンプリストの形でプログラムが掲載されており、すなわち0からFまでの[十六進数](https://ja.wikipedia.org/wiki/十六進数 "wikilink")の羅列であるため、読者が直接プログラムの内容を読み取ることが難しかった上に、入力ミスをした場合に問題箇所を見付けて修正するにも技術を必要とした。それに対して、本誌が掲載するBASICはインタプリタ型の高級言語であるため、予約語は簡易な英語をベースとしており記述の意味を読み解くことが容易で、入力に不整合があればエラーメッセージが表示されるため、入力の動機が「ゲームを遊ぶこと」であっても、自ずとプログラムの学習に繋がっていった。
 
-プログラムには作者が簡単な説明（変数の用途、アルゴリズムの解説、機械語を併用している場合はその解説、ちょっとしたテクニックなど）を付けているものもあり、改造などによって更に理解を深めることも可能であった。このような性質から、当時は[IT業界への登竜門のひとつとして本誌が位置づけられていた](https://ja.wikipedia.org/wiki/情報技術 "wikilink")。[ウルフチーム](https://ja.wikipedia.org/wiki/ウルフチーム "wikilink")に就職し『[ソル・フィース](https://ja.wikipedia.org/wiki/ソル・フィース "wikilink")』を製作したという経歴で本誌に紹介された\[1\]**[Bug太郎](https://ja.wikipedia.org/wiki/谷裕紀彦 "wikilink")**など、本誌のプログラム投稿者がそのまま[コンピューターゲーム](https://ja.wikipedia.org/wiki/コンピューターゲーム "wikilink")や[アプリケーションソフトウェア](../Page/アプリケーションソフトウェア.md "wikilink")の本職のプログラマとなった例もある。
+プログラムには作者が簡単な説明（変数の用途、アルゴリズムの解説、機械語を併用している場合はその解説、ちょっとしたテクニックなど）を付けているものもあり、改造などによって更に理解を深めることも可能であった。このような性質から、当時は[IT業界への登竜門のひとつとして本誌が位置づけられていた](../Page/情報技術.md "wikilink")。[ウルフチーム](../Page/ウルフチーム.md "wikilink")に就職し『[ソル・フィース](../Page/ソル・フィース.md "wikilink")』を製作したという経歴で本誌に紹介された\[1\]**[Bug太郎](../Page/谷裕紀彦.md "wikilink")**など、本誌のプログラム投稿者がそのまま[コンピューターゲーム](https://ja.wikipedia.org/wiki/コンピューターゲーム "wikilink")や[アプリケーションソフトウェア](../Page/アプリケーションソフトウェア.md "wikilink")の本職のプログラマとなった例もある。
 
-若年者、入門者向けの側面として、[大学入試センター試験](https://ja.wikipedia.org/wiki/大学入試センター試験 "wikilink")の数学で出題される「情報処理」分野の解説がある。BASICのプログラムや、アルゴリズムの考え方に特化した試験対策は、他の参考書ではまず見られないものであった。
+若年者、入門者向けの側面として、[大学入試センター試験](../Page/大学入試センター試験.md "wikilink")の数学で出題される「情報処理」分野の解説がある。BASICのプログラムや、アルゴリズムの考え方に特化した試験対策は、他の参考書ではまず見られないものであった。
 
 ## 略歴
 
 ### 創刊
 
-趣味に於ける電気・電子回路や電子工作関連の月刊誌『[ラジオの製作](https://ja.wikipedia.org/wiki/ラジオの製作 "wikilink")』の別冊付録として、[1981年](https://ja.wikipedia.org/wiki/1981年 "wikilink")4月発売の5月号から発行された。[1982年](../Page/1982年.md "wikilink")3月と5月には、別冊として単独で発売されている。その後、1982年6月発売の1982年7月号で、『ラジオの製作』から独立する形で創刊された。
+趣味に於ける電気・電子回路や電子工作関連の月刊誌『[ラジオの製作](../Page/ラジオの製作.md "wikilink")』の別冊付録として、[1981年](../Page/1981年.md "wikilink")4月発売の5月号から発行された。[1982年](../Page/1982年.md "wikilink")3月と5月には、別冊として単独で発売されている。その後、1982年6月発売の1982年7月号で、『ラジオの製作』から独立する形で創刊された。
 
-創刊当時は「パソコン」という語が普及しておらず、後にパソコン（[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")）へ分類されるものについても一般的に「マイコン」（[マイクロコンピュータ](../Page/マイクロコンピュータ.md "wikilink")の略）と呼ばれる事が多かったため、冠称が**マイコン**になっている。ただし姉妹誌の『[月刊マイコン](https://ja.wikipedia.org/wiki/月刊マイコン "wikilink")』が**My Computer**の略だった事もあり\[2\]、本誌についても編集部は「マイコンピュータの略」と言っていた。
+創刊当時は「パソコン」という語が普及しておらず、後にパソコン（[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")）へ分類されるものについても一般的に「マイコン」（[マイクロコンピュータ](../Page/マイクロコンピュータ.md "wikilink")の略）と呼ばれる事が多かったため、冠称が**マイコン**になっている。ただし姉妹誌の『[月刊マイコン](../Page/月刊マイコン.md "wikilink")』が**My Computer**の略だった事もあり\[2\]、本誌についても編集部は「マイコンピュータの略」と言っていた。
 
 [1980年代](../Page/1980年代.md "wikilink")を通して、非常に高価な8ビットパソコンがごく限られたマニアの物だった時代から、[ファミリーベーシック](../Page/ファミリーベーシック.md "wikilink")や[MSX](https://ja.wikipedia.org/wiki/MSX "wikilink")・ポケットコンピュータ等、安価な機種の登場する時代を経て、次第に工学的な興味を持った大学生はもとより、小中高校生に到るまで、幅広い年代に手が届く頃になると、様々な機種用のプログラムが投稿・掲載されるようになる。
 
 ### プログラム投稿誌へ
 
-やがて同社専門分野向けの『[月刊マイコン](https://ja.wikipedia.org/wiki/月刊マイコン "wikilink")』、[アスキーが発売していた専門分野向けの技術誌色の強い](https://ja.wikipedia.org/wiki/アスキー_\(企業\) "wikilink")『[月刊アスキー](https://ja.wikipedia.org/wiki/月刊アスキー "wikilink")』、幅広いパソコン関連情報を掲載した[工学社](https://ja.wikipedia.org/wiki/工学社 "wikilink")の『[I/O](https://ja.wikipedia.org/wiki/I/O_\(雑誌\) "wikilink")』、最も早く休刊した[廣済堂](https://ja.wikipedia.org/wiki/廣済堂 "wikilink")の『[RAM](https://ja.wikipedia.org/wiki/RAM_\(雑誌\) "wikilink")』という4大誌と順位が入れ替わり、プログラミング投稿誌としての地位を築いた。
+やがて同社専門分野向けの『[月刊マイコン](../Page/月刊マイコン.md "wikilink")』、[アスキーが発売していた専門分野向けの技術誌色の強い](../Page/アスキー_\(企業\).md "wikilink")『[月刊アスキー](../Page/月刊アスキー.md "wikilink")』、幅広いパソコン関連情報を掲載した[工学社](../Page/工学社.md "wikilink")の『[I/O](https://ja.wikipedia.org/wiki/I/O_\(雑誌\) "wikilink")』、最も早く休刊した[廣済堂](../Page/廣済堂.md "wikilink")の『[RAM](https://ja.wikipedia.org/wiki/RAM_\(雑誌\) "wikilink")』という4大誌と順位が入れ替わり、プログラミング投稿誌としての地位を築いた。
 
-なお同世代の他誌には、アスキーのゲーム寄り姉妹誌である『[ログイン](https://ja.wikipedia.org/wiki/ログイン_\(雑誌\) "wikilink")』、『I/O』の読者投稿に特化した『[PiO](https://ja.wikipedia.org/wiki/PiO "wikilink")』、[徳間書店](../Page/徳間書店.md "wikilink")のゲーム情報誌『[テクノポリス](https://ja.wikipedia.org/wiki/テクノポリス_\(雑誌\) "wikilink")』や読者投稿に特化した『[プログラムポシェット](https://ja.wikipedia.org/wiki/プログラムポシェット "wikilink")』、[新声社](https://ja.wikipedia.org/wiki/新声社 "wikilink")の[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")専門誌『[ゲーメスト](https://ja.wikipedia.org/wiki/ゲーメスト "wikilink")』、[小学館](../Page/小学館.md "wikilink")のマイコン雑誌『[ポプコム](https://ja.wikipedia.org/wiki/ポプコム "wikilink")』、[角川書店](https://ja.wikipedia.org/wiki/角川書店 "wikilink")のゲーム専門誌だった『[コンプティーク](https://ja.wikipedia.org/wiki/コンプティーク "wikilink")』等がある。
+なお同世代の他誌には、アスキーのゲーム寄り姉妹誌である『[ログイン](../Page/ログイン_\(雑誌\).md "wikilink")』、『I/O』の読者投稿に特化した『[PiO](../Page/PiO.md "wikilink")』、[徳間書店](../Page/徳間書店.md "wikilink")のゲーム情報誌『[テクノポリス](../Page/テクノポリス_\(雑誌\).md "wikilink")』や読者投稿に特化した『[プログラムポシェット](https://ja.wikipedia.org/wiki/プログラムポシェット "wikilink")』、[新声社](../Page/新声社.md "wikilink")の[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")専門誌『[ゲーメスト](../Page/ゲーメスト.md "wikilink")』、[小学館](../Page/小学館.md "wikilink")のマイコン雑誌『[ポプコム](../Page/ポプコム.md "wikilink")』、[角川書店](../Page/角川書店.md "wikilink")のゲーム専門誌だった『[コンプティーク](../Page/コンプティーク.md "wikilink")』等がある。
 
 ### ゲーム情報誌として
 
-[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")11月号から、[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")等の情報を扱う「スーパーソフトマガジン」という別冊付録が付くようになる。[ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")の開発室から提供された[ゼビウス](../Page/ゼビウス.md "wikilink")に関する様々な設定情報などは、現在でも貴重な資料としての価値をもつ。[パソコンゲーム](../Page/パソコンゲーム.md "wikilink")の攻略法が載っていた時期もあり、[山下章](https://ja.wikipedia.org/wiki/山下章 "wikilink")、[手塚一郎](https://ja.wikipedia.org/wiki/手塚一郎 "wikilink")などが執筆していた。巻末には全国の[ゲームセンター](../Page/ゲームセンター.md "wikilink")100店舗に及ぶ協力店から寄せられた「ハイスコアランキング」（当時は通信機能搭載のゲーム機は無かった）が掲載され、腕自慢にわざわざ協力店に出向いてハイスコアを叩き出すゲーマーもいた程である。
+[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")11月号から、[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")等の情報を扱う「スーパーソフトマガジン」という別冊付録が付くようになる。[ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")の開発室から提供された[ゼビウス](../Page/ゼビウス.md "wikilink")に関する様々な設定情報などは、現在でも貴重な資料としての価値をもつ。[パソコンゲーム](../Page/パソコンゲーム.md "wikilink")の攻略法が載っていた時期もあり、[山下章](../Page/山下章.md "wikilink")、[手塚一郎](../Page/手塚一郎.md "wikilink")などが執筆していた。巻末には全国の[ゲームセンター](../Page/ゲームセンター.md "wikilink")100店舗に及ぶ協力店から寄せられた「ハイスコアランキング」（当時は通信機能搭載のゲーム機は無かった）が掲載され、腕自慢にわざわざ協力店に出向いてハイスコアを叩き出すゲーマーもいた程である。
 
 当時としては他に類を見ない濃い内容のコンピュータビデオゲーム情報誌の側面を持っており、本誌よりむしろ別冊付録を目的として買う読者も出現した。しかし付録だけを万引きされる問題が発生したため、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")1月号より「スーパーソフトコーナー」として巻末に一体化することになる。なお、[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")に関する情報を一切掲載しないのも特徴の一つである。
 
-広告掲載や関連記事掲載、また電波新聞社（後の[マイコンソフト](https://ja.wikipedia.org/wiki/マイコンソフト "wikilink")）が発売している[アーケードゲームからの](https://ja.wikipedia.org/wiki/ビデオゲーム "wikilink")[移植パソコン向けゲームソフトウェアの開発といった事情にも絡み](https://ja.wikipedia.org/wiki/移植_\(ソフトウェア\) "wikilink")、[ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")や[セガ](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")・[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")といった大手の[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")メーカーとの間に築かれた関係も深く、精力的にメーカー内の開発者を交えて、内部開発資料から起こした高品質のゲーム紹介記事を掲載するなどしていた。しかし、次第にゲームメーカーの群雄割拠から、全てのゲームメーカーを網羅しきれなくなり、1980年代末から[1990年代](../Page/1990年代.md "wikilink")初頭には、他社ゲーム専門誌に読者を奪われる結果となった。
+広告掲載や関連記事掲載、また電波新聞社（後の[マイコンソフト](../Page/マイコンソフト.md "wikilink")）が発売している[アーケードゲームからの](https://ja.wikipedia.org/wiki/ビデオゲーム "wikilink")[移植パソコン向けゲームソフトウェアの開発といった事情にも絡み](../Page/移植_\(ソフトウェア\).md "wikilink")、[ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")や[セガ](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")・[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")といった大手の[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")メーカーとの間に築かれた関係も深く、精力的にメーカー内の開発者を交えて、内部開発資料から起こした高品質のゲーム紹介記事を掲載するなどしていた。しかし、次第にゲームメーカーの群雄割拠から、全てのゲームメーカーを網羅しきれなくなり、1980年代末から[1990年代](../Page/1990年代.md "wikilink")初頭には、他社ゲーム専門誌に読者を奪われる結果となった。
 
 [1989年](../Page/1989年.md "wikilink")5月号から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")3月号まで、「レッツプレイ！コンピュータ・ミュージック」として[DTM](https://ja.wikipedia.org/wiki/DTM "wikilink")に特化した別冊付録が添付され、1990年4月には[Computer Music Magazineとして独立している](https://ja.wikipedia.org/wiki/Computer_Music_Magazine "wikilink")。その後[1999年](../Page/1999年.md "wikilink")6月号から再度別冊付録となった後、同誌は同年10月に休刊した。
 
@@ -51,11 +51,11 @@
 
 [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")4月号から10月号までは[CD-ROM](../Page/CD-ROM.md "wikilink")を付録につけており、その後はCD-ROM付きの別冊『BASIC Magazine CD-ROM Special』（4号以降は正題が『オリジナル・ゲームGRAND PRIX』、副題が『BASIC Magazine CD-ROM Special』となる）が5号まで発行された。
 
-しかし[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")が普及して以降、プログラムソース配布も個人が自分の[ウェブサイト](../Page/ウェブサイト.md "wikilink")を介して行う様式が定着、プログラム投稿誌としての需要の低下が進んでいく。
+しかし[インターネット](../Page/インターネット.md "wikilink")が普及して以降、プログラムソース配布も個人が自分の[ウェブサイト](../Page/ウェブサイト.md "wikilink")を介して行う様式が定着、プログラム投稿誌としての需要の低下が進んでいく。
 
 そんな時代の中で発行された[1999年](../Page/1999年.md "wikilink")4月号では、「リニューアル」と称して、価格は据え置きのままで、当時250～280ページ程度だった総ページ数が186ページになり、内容も大幅に削減されてしまう。この号が発売された途端、公式サイトや読者が運営するサイトなどの[ウェブサイト](../Page/ウェブサイト.md "wikilink")で、編集部や内容に対する不満や絶望視する発言などが多く見られるようになり、購読をやめる読者も続出。特にリニューアル直後は、自身のウェブサイトや掲示板上で「今月で買うのをやめます」と宣言する読者も少なくなかった。本そのものが明らかに薄くなってしまった問題に、[1999年](../Page/1999年.md "wikilink")7月号にて「紙を厚くする」という対応をしたことも、読者の不信と不満をかえって募らせる結果となってしまった。
 
-なお、本誌の産みの親である『[ラジオの製作](https://ja.wikipedia.org/wiki/ラジオの製作 "wikilink")』は、本誌のリニューアルと同じ[1999年](../Page/1999年.md "wikilink")4月号にて、月刊誌から季刊[ムックに変わると発表された](https://ja.wikipedia.org/wiki/ムック_\(出版\) "wikilink")。しかし、後に一号しか発行されず、雑誌としては事実上廃刊している。
+なお、本誌の産みの親である『[ラジオの製作](../Page/ラジオの製作.md "wikilink")』は、本誌のリニューアルと同じ[1999年](../Page/1999年.md "wikilink")4月号にて、月刊誌から季刊[ムックに変わると発表された](../Page/ムック_\(出版\).md "wikilink")。しかし、後に一号しか発行されず、雑誌としては事実上廃刊している。
 
 ### 休刊
 
@@ -63,7 +63,7 @@
 
 [1996年](../Page/1996年.md "wikilink")当時28万6000部\[3\]あった発行部数は、[2003年](../Page/2003年.md "wikilink")には8分の1程度まで減少してしまい、ついに2003年4月8日に発売された2003年5月号をもって休刊となった。
 
-休刊する事実は、休刊号発売のおよそ半月前である2003年3月25日に公式サイト上で発表され、[ITmedia](https://ja.wikipedia.org/wiki/ITmedia "wikilink")などのIT系ニュースサイトが一斉にニュースとして取り上げた\[4\]\[5\]。
+休刊する事実は、休刊号発売のおよそ半月前である2003年3月25日に公式サイト上で発表され、[ITmedia](../Page/ITmedia.md "wikilink")などのIT系ニュースサイトが一斉にニュースとして取り上げた\[4\]\[5\]。
 
 ### 休刊後
 
@@ -79,7 +79,7 @@
 
 [2015年](../Page/2015年.md "wikilink")3月19日発売の『電子工作マガジン』No.26（2015年春号）から「マイコンBASICマガジン」と称したコーナーが掲載され、また[くりひろし](https://ja.wikipedia.org/wiki/くりひろし "wikilink")による漫画「時空を超えて！帰ってきた パソコン・レクチャー」も連載されている。今後の展開によっては、月刊誌としてベーマガを復刊する事も検討していると、編集長がFacebookで投稿している\[9\]。
 
-2018年12月19日発売の『電子工作マガジン』No.41（2018年冬号）\[10\]から、『マイコンBASICマガジン』が別冊付録として収録されるようになった。別冊付録第1号の表紙は、元祖である『ラジオの製作』別冊付録時代の第1号の表紙を模したものになっている。『ラジオの製作』別冊付録第1号の表紙は、PRINTやLETなどのBASICのコマンドを列挙する形でレイアウトされていたが、『電子工作マガジン』別冊付録第1号は、[IchigoJam](https://ja.wikipedia.org/wiki/IchigoJam "wikilink")、[HSP](https://ja.wikipedia.org/wiki/Hot_Soup_Processor "wikilink")、IchigoLatteなど今時のコンピュータや言語の名称を列挙している。
+2018年12月19日発売の『電子工作マガジン』No.41（2018年冬号）\[10\]から、『マイコンBASICマガジン』が別冊付録として収録されるようになった。別冊付録第1号の表紙は、元祖である『ラジオの製作』別冊付録時代の第1号の表紙を模したものになっている。『ラジオの製作』別冊付録第1号の表紙は、PRINTやLETなどのBASICのコマンドを列挙する形でレイアウトされていたが、『電子工作マガジン』別冊付録第1号は、[IchigoJam](https://ja.wikipedia.org/wiki/IchigoJam "wikilink")、[HSP](../Page/Hot_Soup_Processor.md "wikilink")、IchigoLatteなど今時のコンピュータや言語の名称を列挙している。
 
 ## 主な連載記事・コーナー
 
@@ -93,7 +93,7 @@
     リストの長さが半端でページに余白が生じた場合、読者投稿のイラストで穴埋めする事が多かった。個別のコーナー宛ではないイラストは、ここか後述の「あくせすROOM」に掲載された。
 
   - OFコーナー
-    プログラムコーナーの各ページ下部欄外に設けられた、短文投稿コーナー。OFとは**OverFlow**の略で、BASIC言語において[変数の値が制限値を超えてしまうエラーになぞらえている](https://ja.wikipedia.org/wiki/変数_\(プログラミング\) "wikilink")\[11\]。アンケート葉書に書かれた読者の一言やそれに対する編集部からの返事、編集部の珍事件などが面白おかしく書かれていた。稀にライターや[マイコンソフト](https://ja.wikipedia.org/wiki/マイコンソフト "wikilink")のプログラマー、[奥村印刷](https://ja.wikipedia.org/wiki/奥村印刷 "wikilink")の担当者が登場することもあった。
+    プログラムコーナーの各ページ下部欄外に設けられた、短文投稿コーナー。OFとは**OverFlow**の略で、BASIC言語において[変数の値が制限値を超えてしまうエラーになぞらえている](../Page/変数_\(プログラミング\).md "wikilink")\[11\]。アンケート葉書に書かれた読者の一言やそれに対する編集部からの返事、編集部の珍事件などが面白おかしく書かれていた。稀にライターや[マイコンソフト](../Page/マイコンソフト.md "wikilink")のプログラマー、[奥村印刷](https://ja.wikipedia.org/wiki/奥村印刷 "wikilink")の担当者が登場することもあった。
 
     コーナーの文章量は原則として各ページ2行だが、ごくまれに内容が更にあふれ出て3行に渡ってしまうことがあり、翌月のOFで読者に指摘されるのがお約束だった。
 
@@ -149,23 +149,23 @@
 
     後に『ALL ABOUT [ぷよぷよ](../Page/ぷよぷよ.md "wikilink")』が発売された際、本コーナーのオマージュである「バトル・オブ・ぷよぷよ」が掲載された\[15\]。著者は同じく山下章。
 
-    2018年1月14日に行われたイベント「ALL ABOUT マイコンBASICマガジンII」にて、連載中断から26年を経て、結末までの書き下ろしを含む単行本（同人誌扱い）『バトル・オブ・ベーマガライターズ』の発行が発表された。「バトル・オブ・[F-ZERO](https://ja.wikipedia.org/wiki/F-ZERO "wikilink")」\[16\]と「バトル・オブ・ぷよぷよ」を併録している。同イベントの会場内で限定版を販売し、後に協力店舗で通常版が発売された。
+    2018年1月14日に行われたイベント「ALL ABOUT マイコンBASICマガジンII」にて、連載中断から26年を経て、結末までの書き下ろしを含む単行本（同人誌扱い）『バトル・オブ・ベーマガライターズ』の発行が発表された。「バトル・オブ・[F-ZERO](../Page/F-ZERO.md "wikilink")」\[16\]と「バトル・オブ・ぷよぷよ」を併録している。同イベントの会場内で限定版を販売し、後に協力店舗で通常版が発売された。
 
   - ファンタジー通信
 
   - ペーパーアドベンチャー
-    [ゲームブック](https://ja.wikipedia.org/wiki/ゲームブック "wikilink")形式の読者投稿を掲載するコーナー。担当は手塚一郎。2頁程度に詰め込む都合上、パラグラフ毎の描写は極めて簡潔で、また前兆無くゲームオーバーに直結するなど理不尽な選択肢も多かった。
+    [ゲームブック](../Page/ゲームブック.md "wikilink")形式の読者投稿を掲載するコーナー。担当は手塚一郎。2頁程度に詰め込む都合上、パラグラフ毎の描写は極めて簡潔で、また前兆無くゲームオーバーに直結するなど理不尽な選択肢も多かった。
 
     手塚が「アドベンチャーゲームを紙でプレイする」ことを企図して作った同人誌が端緒で、連載も当初は手塚が制作した作品を掲載していた。第1回が掲載された1984年8月号は同年7月発売で、これは日本で最初のゲームブック単行本が発売される2ヶ月前、世界的ベストセラーの『[火吹山の魔法使い](https://ja.wikipedia.org/wiki/火吹山の魔法使い "wikilink")』が翻訳出版される半年前である。結果として本コーナーが日本におけるゲームブック普及の一助となったが、手塚は海外にゲームブックというものが存在していることを知らずに偶然同じものを作ったと語っている。
 
   - ORGのテーブルトークRPGコーナー
-    [ORGの](https://ja.wikipedia.org/wiki/オーアールジー "wikilink")[大貫昌幸](https://ja.wikipedia.org/wiki/大貫昌幸 "wikilink")による、黎明期の[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")を紹介するコーナー。『[ワープス](https://ja.wikipedia.org/wiki/ワープス "wikilink")』のリプレイが連載された。後にリプレイ形式で各種TRPGを紹介するコーナーになった。
+    [ORGの](../Page/オーアールジー.md "wikilink")[大貫昌幸](../Page/大貫昌幸.md "wikilink")による、黎明期の[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")を紹介するコーナー。『[ワープス](../Page/ワープス.md "wikilink")』のリプレイが連載された。後にリプレイ形式で各種TRPGを紹介するコーナーになった。
 
   - Software House Hot Information
-    1999年11月号からは「Software Maker Hot Information」。ゲームソフトメーカーの情報コーナー。「Hummingbird Soft Land」（[ハミングバードソフト](https://ja.wikipedia.org/wiki/ハミングバードソフト "wikilink")）、「T\&E PRESS番外編」（[T\&E SOFT](https://ja.wikipedia.org/wiki/T&E_SOFT "wikilink")）、「ベーセガ」（[セガ](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）など。各社が1ページないし2ページを持ち、新作紹介などを掲載した。ページの使い方はかなり自由にされていたようで、独自に読者投稿コーナーを設けたところもあり、宛先もベーマガ編集部ではなく各社だった。
+    1999年11月号からは「Software Maker Hot Information」。ゲームソフトメーカーの情報コーナー。「Hummingbird Soft Land」（[ハミングバードソフト](../Page/ハミングバードソフト.md "wikilink")）、「T\&E PRESS番外編」（[T\&E SOFT](../Page/T&E_SOFT.md "wikilink")）、「ベーセガ」（[セガ](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）など。各社が1ページないし2ページを持ち、新作紹介などを掲載した。ページの使い方はかなり自由にされていたようで、独自に読者投稿コーナーを設けたところもあり、宛先もベーマガ編集部ではなく各社だった。
 
       - なにわ通信
-        [マイコンソフト](https://ja.wikipedia.org/wiki/マイコンソフト "wikilink")の情報コーナー。タイトル冠文の募集や「シテオク劇場」などで独自の雰囲気を作っていた。
+        [マイコンソフト](../Page/マイコンソフト.md "wikilink")の情報コーナー。タイトル冠文の募集や「シテオク劇場」などで独自の雰囲気を作っていた。
 
 ### その他
 
@@ -177,9 +177,9 @@
 月刊マイコンの読者コーナーから引き続き、本誌でも編集部メンバーに個性が設けられ、漫画やOFコーナー、コラムなどで描かれた。それぞれモデルとなった編集者が実在し、イベントや他誌のインタビュー等に実名で登場したことがある。
 
   - 影さん
-    サングラス、マスク、トレンチコートという不審者スタイルがトレードマークのダメ編集部員。読者にとっては一番親しみやすい存在で、OFコーナーなどで度々遊ばれていた。触れたパソコンが爆発するという特技を持つ、と描かれていた。ベーマガ創刊以前には「ラジオの製作」で[BCL](https://ja.wikipedia.org/wiki/BCL "wikilink")コーナー、投書欄を担当していた。
+    サングラス、マスク、トレンチコートという不審者スタイルがトレードマークのダメ編集部員。読者にとっては一番親しみやすい存在で、OFコーナーなどで度々遊ばれていた。触れたパソコンが爆発するという特技を持つ、と描かれていた。ベーマガ創刊以前には「ラジオの製作」で[BCL](../Page/BCL.md "wikilink")コーナー、投書欄を担当していた。
   - 編さん
-    影さんと対をなす真面目な編集部員。[中日ドラゴンズ](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")ファン、[コラムス](https://ja.wikipedia.org/wiki/コラムス "wikilink")名人などの特徴を持つ。[エドモンド本田](https://ja.wikipedia.org/wiki/エドモンド本田 "wikilink")使いでもあることから、連載小説『バトル・オブ・ストリートファイターII』では「本田部屋」を開いてライターから弟子を取っていた。
+    影さんと対をなす真面目な編集部員。[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")ファン、[コラムス](../Page/コラムス.md "wikilink")名人などの特徴を持つ。[エドモンド本田](../Page/エドモンド本田.md "wikilink")使いでもあることから、連載小説『バトル・オブ・ストリートファイターII』では「本田部屋」を開いてライターから弟子を取っていた。
   - Dr.D
     デバッグ博士（ドクター・デバッグ）。主にCHECKER FLAGで、読者のプログラムに辛口の批評を付けていた。時に投稿者のバグを放置して掲載し、修正を促す厳しい側面もある。「パソコンレクチャー」「Dr.Dのちょっと背伸びのBASIC講座」などのコーナーで教師役を務めることが多い。
   - つぐ美ちゃん
@@ -195,9 +195,9 @@
 
   - [丹治佐一](https://ja.wikipedia.org/wiki/丹治佐一 "wikilink")
   - [断空我](https://ja.wikipedia.org/wiki/断空我 "wikilink")
-  - [森巧尚](https://ja.wikipedia.org/wiki/森巧尚 "wikilink")
-  - [高橋はるみ](https://ja.wikipedia.org/wiki/高橋はるみ_\(ゲームクリエイター\) "wikilink")
-  - [谷裕紀彦](https://ja.wikipedia.org/wiki/谷裕紀彦 "wikilink")（Bug太郎）
+  - [森巧尚](../Page/森巧尚.md "wikilink")
+  - [高橋はるみ](../Page/高橋はるみ_\(ゲームクリエイター\).md "wikilink")
+  - [谷裕紀彦](../Page/谷裕紀彦.md "wikilink")（Bug太郎）
   - 東幸太
   - 山崎寛（やまかん）
   - 竹宮恵亀（VB研所長）
@@ -208,8 +208,8 @@
 
 ### 音楽系
 
-  - [古代祐三](https://ja.wikipedia.org/wiki/古代祐三 "wikilink")（YK-2）
-  - [永田英哉](https://ja.wikipedia.org/wiki/永田英哉 "wikilink")（Yu-You）
+  - [古代祐三](../Page/古代祐三.md "wikilink")（YK-2）
+  - [永田英哉](../Page/永田英哉.md "wikilink")（Yu-You）
   - [川野俊充](https://ja.wikipedia.org/wiki/川野俊充 "wikilink")（はちみつ川野、とちもつ川野）
   - [後藤浩昭](https://ja.wikipedia.org/wiki/後藤浩昭 "wikilink")（GORRY）
   - [荒木潤](https://ja.wikipedia.org/wiki/荒木潤 "wikilink")
@@ -219,9 +219,9 @@
 
 ### ゲーム系
 
-  - [山下章](https://ja.wikipedia.org/wiki/山下章 "wikilink")（幸運私真矢）
-  - [ベニー松山](https://ja.wikipedia.org/wiki/ベニー松山 "wikilink")（TOMMY）
-  - [手塚一郎](https://ja.wikipedia.org/wiki/手塚一郎 "wikilink")
+  - [山下章](../Page/山下章.md "wikilink")（幸運私真矢）
+  - [ベニー松山](../Page/ベニー松山.md "wikilink")（TOMMY）
+  - [手塚一郎](../Page/手塚一郎.md "wikilink")
   - [見城こうじ](https://ja.wikipedia.org/wiki/見城こうじ "wikilink")（鈴木宏治）
   - うる星あんず（師範代大堀、[大堀康祐](https://ja.wikipedia.org/wiki/大堀康祐 "wikilink")）
   - 響あきら（[池田雅行](https://ja.wikipedia.org/wiki/MMR_\(漫画\)#MMRメンバーとその関係者 "wikilink")）
@@ -272,9 +272,9 @@
   - [くりひろし](https://ja.wikipedia.org/wiki/くりひろし "wikilink")
   - [赤烏龍吉](https://ja.wikipedia.org/wiki/赤烏龍吉 "wikilink")
   - [服部陽一郎](https://ja.wikipedia.org/wiki/服部陽一郎 "wikilink")（陽の字）
-  - [FURU](https://ja.wikipedia.org/wiki/FURU "wikilink")
+  - [FURU](../Page/FURU.md "wikilink")
   - [斉藤久典](https://ja.wikipedia.org/wiki/斉藤久典 "wikilink")
-  - [内藤寛](https://ja.wikipedia.org/wiki/内藤寛 "wikilink")
+  - [内藤寛](../Page/内藤寛.md "wikilink")
   - 藪良小路
   - 保多手力也
   - 京極順一
@@ -285,7 +285,7 @@
 
 ## 別冊
 
-『プログラム大全集シリーズ』『マイコンBASICマガジンDELUXE』などとして、各種の[書籍](https://ja.wikipedia.org/wiki/書籍 "wikilink")・[ムックが出版されていた](https://ja.wikipedia.org/wiki/ムック_\(出版\) "wikilink")。以下に一例を挙げる。
+『プログラム大全集シリーズ』『マイコンBASICマガジンDELUXE』などとして、各種の[書籍](https://ja.wikipedia.org/wiki/書籍 "wikilink")・[ムックが出版されていた](../Page/ムック_\(出版\).md "wikilink")。以下に一例を挙げる。
 
   - 『PC-8801・8001プログラム大全集』 - プログラムコーナーの総集編。様々な機種のものが出版された。
   - 『ゲーム・ミュージック・プログラム大全集』 - こちらもミュージックプログラムの総集編。『I』 - 『III』まで出版。それ以降は機種別のムックが出版された。
@@ -295,14 +295,14 @@
 
 ### ALL ABOUTシリーズ
 
-アーケードゲームやパソコンゲームの詳解本として、「ALL ABOUT〜」または「〜のすべて」と題する別冊が多数出版された。当初はベーマガ編集部による単発の別冊として製作されていたが、1993年から[スタジオベントスタッフ](https://ja.wikipedia.org/wiki/スタジオベントスタッフ "wikilink")によるシリーズ化した。
+アーケードゲームやパソコンゲームの詳解本として、「ALL ABOUT〜」または「〜のすべて」と題する別冊が多数出版された。当初はベーマガ編集部による単発の別冊として製作されていたが、1993年から[スタジオベントスタッフ](../Page/スタジオベントスタッフ.md "wikilink")によるシリーズ化した。
 
   - ALL ABOUT [ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink") ナムコゲームのすべて
   - ALL ABOUT ナムコII ナムコゲームのすべてII
   - [PC Engine](../Page/PCエンジン.md "wikilink") HEシステムのすべて
   - [大戦略III'90のすべて](https://ja.wikipedia.org/wiki/大戦略III_グレートコマンダー#大戦略III_'90 "wikilink")
-  - ALL ABOUT [Dungeon Master](https://ja.wikipedia.org/wiki/ダンジョンマスター "wikilink") コンピュータRPGの名作 ダンジョンマスターのすべて
-  - ALL ABOUT [ソーサリアン](https://ja.wikipedia.org/wiki/ソーサリアン "wikilink") ソーサリアンのすべて
+  - ALL ABOUT [Dungeon Master](../Page/ダンジョンマスター.md "wikilink") コンピュータRPGの名作 ダンジョンマスターのすべて
+  - ALL ABOUT [ソーサリアン](../Page/ソーサリアン.md "wikilink") ソーサリアンのすべて
 
 ## 脚注
 
@@ -314,10 +314,10 @@
 
   - [電波新聞社](../Page/電波新聞社.md "wikilink")
   - [BASIC](../Page/BASIC.md "wikilink")
-  - [パーソナルコンピュータ史](https://ja.wikipedia.org/wiki/パーソナルコンピュータ史 "wikilink")
-  - [8ビットパソコン](https://ja.wikipedia.org/wiki/8ビットパソコン "wikilink") - [8ビット御三家](https://ja.wikipedia.org/wiki/8ビット御三家 "wikilink") - [ホビーパソコン](https://ja.wikipedia.org/wiki/ホビーパソコン "wikilink")
-  - [スタジオベントスタッフ](https://ja.wikipedia.org/wiki/スタジオベントスタッフ "wikilink")
-  - [ナイコン族](https://ja.wikipedia.org/wiki/ナイコン族 "wikilink")
+  - [パーソナルコンピュータ史](../Page/パーソナルコンピュータ史.md "wikilink")
+  - [8ビットパソコン](../Page/8ビットパソコン.md "wikilink") - [8ビット御三家](../Page/8ビット御三家.md "wikilink") - [ホビーパソコン](../Page/ホビーパソコン.md "wikilink")
+  - [スタジオベントスタッフ](../Page/スタジオベントスタッフ.md "wikilink")
+  - [ナイコン族](../Page/ナイコン族.md "wikilink")
   - [ハンドアセンブル](https://ja.wikipedia.org/wiki/ハンドアセンブル "wikilink")
   - [P/ECE](https://ja.wikipedia.org/wiki/P/ECE "wikilink")
   - [プチコン](https://ja.wikipedia.org/wiki/プチコン "wikilink")
@@ -343,7 +343,7 @@
 8.
 9.
 10.
-11. [PC-6001などエラーメッセージを簡略化している機種で](https://ja.wikipedia.org/wiki/PC-6000シリーズ "wikilink")、OverFlowを"OF"と略していた。
+11. [PC-6001などエラーメッセージを簡略化している機種で](../Page/PC-6000シリーズ.md "wikilink")、OverFlowを"OF"と略していた。
 12.  3分18秒付近。
 13. 数ヶ所欠落した短いプログラムに対し、ゲーム内容などから本来あるべき記述を推定する、穴埋めクイズが多く見られた。
 14. 「読者の闘技場」と「新・読者の闘技場」の間、「新・読者の闘技場」と「真・読者の闘技場」の間には休載期間がある。「真」以降はほぼ継続して連載された。

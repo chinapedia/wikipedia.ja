@@ -1,57 +1,57 @@
 > この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
 
 
-『**プロジェクトA**』（原題：A計劃、英語題：Project A）は、[1983年に](https://ja.wikipedia.org/wiki/1983年の映画 "wikilink")[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")で公開された[映画](../Page/映画.md "wikilink")。主演、監督、武術指導、脚本を[ジャッキー・チェン](../Page/ジャッキー・チェン.md "wikilink")が務めている。
+『**プロジェクトA**』（原題：A計劃、英語題：Project A）は、[1983年に](../Page/1983年の映画.md "wikilink")[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")で公開された[映画](../Page/映画.md "wikilink")。主演、監督、武術指導、脚本を[ジャッキー・チェン](../Page/ジャッキー・チェン.md "wikilink")が務めている。
 
 ## 概要
 
-[1900年代](../Page/1900年代.md "wikilink")[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")[植民地](https://ja.wikipedia.org/wiki/植民地 "wikilink")下の香港を舞台に、[水上警察](https://ja.wikipedia.org/wiki/水上警察 "wikilink")と陸上警察が反目しながらも、最後には協力して海賊を倒す[アクション映画](../Page/アクション映画.md "wikilink")。高い時計台から落下するシーンに代表される身体を張ったアクションのほか、コメディーシーンも数多く描かれている。
+[1900年代](../Page/1900年代.md "wikilink")[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")[植民地](../Page/植民地.md "wikilink")下の香港を舞台に、[水上警察](../Page/水上警察.md "wikilink")と陸上警察が反目しながらも、最後には協力して海賊を倒す[アクション映画](../Page/アクション映画.md "wikilink")。高い時計台から落下するシーンに代表される身体を張ったアクションのほか、コメディーシーンも数多く描かれている。
 
 日本ではジャッキー・チェンが歌うテーマソング「東方的威風」がバラエティ番組や数多く使われていることもあり、日本におけるジャッキー・チェンの代表作的存在となっている。
 
-『A計劃（えーけいかく）』は元々撮影時の仮タイトルである。仮タイトルは[盗作](https://ja.wikipedia.org/wiki/盗作 "wikilink")やパクリが日常茶飯事（撮影中にパクり、パクった元より先に公開するということも行われた）だった[香港映画](https://ja.wikipedia.org/wiki/香港映画 "wikilink")界で、内容の見当をつけられないようにするため良く使われた手法だったが、『A計劃』は言葉の響きがいいことから、そのまま本編のタイトルに使われた。
+『A計劃（えーけいかく）』は元々撮影時の仮タイトルである。仮タイトルは[盗作](../Page/盗作.md "wikilink")やパクリが日常茶飯事（撮影中にパクり、パクった元より先に公開するということも行われた）だった[香港映画](../Page/香港映画.md "wikilink")界で、内容の見当をつけられないようにするため良く使われた手法だったが、『A計劃』は言葉の響きがいいことから、そのまま本編のタイトルに使われた。
 
 2010年、『[ダブル・ミッション](https://ja.wikipedia.org/wiki/ダブル・ミッション "wikilink")』公開時に公式サイトにて行われたジャッキー作品のランキングを決める「A-1グランプリ」では1位を獲得。なお、2位の『[ポリス・ストーリー/香港国際警察](https://ja.wikipedia.org/wiki/ポリス・ストーリー/香港国際警察 "wikilink")』の倍に迫る票数を獲得していた。
 
 ## ストーリー
 
-[20世紀](../Page/20世紀.md "wikilink")初頭の[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")植民統治下の香港。[海賊](https://ja.wikipedia.org/wiki/海賊 "wikilink")が横行し、海を我が物顔で荒らしまわっていた。これを取り締まるはずのドラゴン（ジャッキー・チェン）たち[水上警察](https://ja.wikipedia.org/wiki/水上警察 "wikilink")\[1\]は、いつもヘマをして海賊に逃げられてばかり。さらにジャガー隊長（ユン・ピョウ）率いる陸上警察と酒場で大乱闘事件を起こし、保有戦力の船艇が海賊に爆破されてしまうに至り、遂に水上警察は、陸上警察へ吸収統合されてしまう。
+[20世紀](../Page/20世紀.md "wikilink")初頭の[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")植民統治下の香港。[海賊](../Page/海賊.md "wikilink")が横行し、海を我が物顔で荒らしまわっていた。これを取り締まるはずのドラゴン（ジャッキー・チェン）たち[水上警察](../Page/水上警察.md "wikilink")\[1\]は、いつもヘマをして海賊に逃げられてばかり。さらにジャガー隊長（ユン・ピョウ）率いる陸上警察と酒場で大乱闘事件を起こし、保有戦力の船艇が海賊に爆破されてしまうに至り、遂に水上警察は、陸上警察へ吸収統合されてしまう。
 
-その頃、海賊退治のため派遣されてきた[イギリス海軍](https://ja.wikipedia.org/wiki/イギリス海軍 "wikilink")の[提督](https://ja.wikipedia.org/wiki/提督 "wikilink")までも海賊たちに捕まり、乗組員が人質になる。[香港総督](https://ja.wikipedia.org/wiki/香港総督 "wikilink")は身代金を支払い穏便に済まそうとしたが、ドラゴンの説得を受けて、彼に旧水上警察部隊の指揮を一任。お互いの正義を愛する心を知って和解したドラゴンとジャガー、さらにドラゴンとは旧知の仲で、密かに海賊の財宝を狙うコソ泥フェイ（サモ・ハン・キンポー）も加わった精鋭メンバーは、乗組員の救出と海賊の全員逮捕を目的とした「A計画」（プロジェクトA）を発動させる。
+その頃、海賊退治のため派遣されてきた[イギリス海軍](../Page/イギリス海軍.md "wikilink")の[提督](https://ja.wikipedia.org/wiki/提督 "wikilink")までも海賊たちに捕まり、乗組員が人質になる。[香港総督](../Page/香港総督.md "wikilink")は身代金を支払い穏便に済まそうとしたが、ドラゴンの説得を受けて、彼に旧水上警察部隊の指揮を一任。お互いの正義を愛する心を知って和解したドラゴンとジャガー、さらにドラゴンとは旧知の仲で、密かに海賊の財宝を狙うコソ泥フェイ（サモ・ハン・キンポー）も加わった精鋭メンバーは、乗組員の救出と海賊の全員逮捕を目的とした「A計画」（プロジェクトA）を発動させる。
 
 ## キャスト
 
-| 役名                                                       | 俳優                                                                | 日本語吹替                                                      |
-| -------------------------------------------------------- | ----------------------------------------------------------------- | ---------------------------------------------------------- |
-| [テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")版 | [WOWOW](https://ja.wikipedia.org/wiki/WOWOW "wikilink")版          |                                                            |
-| ドラゴン                                                     | [ジャッキー・チェン](../Page/ジャッキー・チェン.md "wikilink")                      | [石丸博也](https://ja.wikipedia.org/wiki/石丸博也 "wikilink")      |
-| フェイ                                                      | [サモ・ハン・キンポー](https://ja.wikipedia.org/wiki/サモ・ハン・キンポー "wikilink") | [水島裕](https://ja.wikipedia.org/wiki/水島裕_\(声優\) "wikilink") |
-| ジャガー                                                     | [ユン・ピョウ](https://ja.wikipedia.org/wiki/ユン・ピョウ "wikilink")         | [野島昭生](../Page/野島昭生.md "wikilink")                         |
-| サン                                                       | [ディック・ウェイ](https://ja.wikipedia.org/wiki/ディック・ウェイ "wikilink")     | [石田弦太郎](https://ja.wikipedia.org/wiki/石田太郎 "wikilink")     |
-| パール                                                      | [イザベラ・ウォン](https://ja.wikipedia.org/wiki/イザベラ・ウォン "wikilink")     | [戸田恵子](https://ja.wikipedia.org/wiki/戸田恵子 "wikilink")      |
-| 海上警察司令官                                                  | [ラウ・ハクスン](https://ja.wikipedia.org/wiki/ラウ・ハクスン "wikilink")       | [上田敏也](https://ja.wikipedia.org/wiki/上田敏也 "wikilink")      |
-| チー総監                                                     | [クワン・ホイサン](https://ja.wikipedia.org/wiki/クワン・ホイサン "wikilink")     | [及川ヒロオ](https://ja.wikipedia.org/wiki/及川ヒロオ "wikilink")    |
-| ひょうきん                                                    | [タイ・ポー](https://ja.wikipedia.org/wiki/タイ・ポー "wikilink")           | [三ツ矢雄二](https://ja.wikipedia.org/wiki/三ツ矢雄二 "wikilink")    |
-| 大口                                                       | [マース](https://ja.wikipedia.org/wiki/マース_\(俳優\) "wikilink")        | [村山明](https://ja.wikipedia.org/wiki/村山明_\(声優\) "wikilink") |
-| チョウ                                                      | [ウォン・ウェイ](https://ja.wikipedia.org/wiki/ウォン・ウェイ "wikilink")       | [千田光男](https://ja.wikipedia.org/wiki/千田光男 "wikilink")      |
-| リー                                                       | [リー・ホイサン](https://ja.wikipedia.org/wiki/リー・ホイサン "wikilink")       | [田中康郎](https://ja.wikipedia.org/wiki/田中康郎 "wikilink")      |
-| 総督                                                       | 役者名不明                                                             | [大平透](../Page/大平透.md "wikilink")                           |
-| クラブの店員                                                   | [ジョン・チャン](https://ja.wikipedia.org/wiki/ジョン・チャン "wikilink")       |                                                            |
-| チョウ                                                      | [ウォン・ウェイ](https://ja.wikipedia.org/wiki/ウォン・ウェイ "wikilink")       |                                                            |
-|                                                          | [ワン・ファト](https://ja.wikipedia.org/wiki/ワン・ファト "wikilink")         |                                                            |
-|                                                          | [クワン・ユイムン](https://ja.wikipedia.org/wiki/クワン・ユイムン "wikilink")     |                                                            |
-|                                                          | [リー・ホイサン](https://ja.wikipedia.org/wiki/リー・ホイサン "wikilink")       |                                                            |
-| 支配人                                                      | [アルバート・ロー](https://ja.wikipedia.org/wiki/アルバート・ロー "wikilink")     |                                                            |
-|                                                          | [ウー・マー](https://ja.wikipedia.org/wiki/午馬 "wikilink")              |                                                            |
-| チャン                                                      | [ハン・イーサン](https://ja.wikipedia.org/wiki/ハン・イーサン "wikilink")       |                                                            |
-|                                                          | [ユン・キンチョウ](https://ja.wikipedia.org/wiki/ユン・キンチョウ "wikilink")     |                                                            |
-| 陸上警察隊員                                                   | [ポール・ウォン](https://ja.wikipedia.org/wiki/ポール・ウォン "wikilink")       |                                                            |
-|                                                          | [トン・インチャン](https://ja.wikipedia.org/wiki/トン・インチャン "wikilink")     |                                                            |
-| 海上警察隊員                                                   | [ベニー・ライ](https://ja.wikipedia.org/wiki/ベニー・ライ "wikilink")         |                                                            |
-|                                                          | [マン・キーワン](https://ja.wikipedia.org/wiki/マン・キーワン "wikilink")       |                                                            |
-| 酒場の給仕                                                    | [トー・シウミン](https://ja.wikipedia.org/wiki/トー・シウミン "wikilink")       |                                                            |
-| 陸上警察隊員                                                   | [ユー・タウワン](https://ja.wikipedia.org/wiki/ユー・タウワン "wikilink")       |                                                            |
-|                                                          |                                                                   |                                                            |
+| 役名                                    | 俳優                                                            | 日本語吹替                                   |
+| ------------------------------------- | ------------------------------------------------------------- | --------------------------------------- |
+| [テレビ朝日](../Page/テレビ朝日.md "wikilink")版 | [WOWOW](../Page/WOWOW.md "wikilink")版                         |                                         |
+| ドラゴン                                  | [ジャッキー・チェン](../Page/ジャッキー・チェン.md "wikilink")                  | [石丸博也](../Page/石丸博也.md "wikilink")      |
+| フェイ                                   | [サモ・ハン・キンポー](../Page/サモ・ハン・キンポー.md "wikilink")                | [水島裕](../Page/水島裕_\(声優\).md "wikilink") |
+| ジャガー                                  | [ユン・ピョウ](../Page/ユン・ピョウ.md "wikilink")                        | [野島昭生](../Page/野島昭生.md "wikilink")      |
+| サン                                    | [ディック・ウェイ](https://ja.wikipedia.org/wiki/ディック・ウェイ "wikilink") | [石田弦太郎](../Page/石田太郎.md "wikilink")     |
+| パール                                   | [イザベラ・ウォン](https://ja.wikipedia.org/wiki/イザベラ・ウォン "wikilink") | [戸田恵子](../Page/戸田恵子.md "wikilink")      |
+| 海上警察司令官                               | [ラウ・ハクスン](https://ja.wikipedia.org/wiki/ラウ・ハクスン "wikilink")   | [上田敏也](../Page/上田敏也.md "wikilink")      |
+| チー総監                                  | [クワン・ホイサン](https://ja.wikipedia.org/wiki/クワン・ホイサン "wikilink") | [及川ヒロオ](../Page/及川ヒロオ.md "wikilink")    |
+| ひょうきん                                 | [タイ・ポー](https://ja.wikipedia.org/wiki/タイ・ポー "wikilink")       | [三ツ矢雄二](../Page/三ツ矢雄二.md "wikilink")    |
+| 大口                                    | [マース](https://ja.wikipedia.org/wiki/マース_\(俳優\) "wikilink")    | [村山明](../Page/村山明_\(声優\).md "wikilink") |
+| チョウ                                   | [ウォン・ウェイ](https://ja.wikipedia.org/wiki/ウォン・ウェイ "wikilink")   | [千田光男](../Page/千田光男.md "wikilink")      |
+| リー                                    | [リー・ホイサン](https://ja.wikipedia.org/wiki/リー・ホイサン "wikilink")   | [田中康郎](../Page/田中康郎.md "wikilink")      |
+| 総督                                    | 役者名不明                                                         | [大平透](../Page/大平透.md "wikilink")        |
+| クラブの店員                                | [ジョン・チャン](https://ja.wikipedia.org/wiki/ジョン・チャン "wikilink")   |                                         |
+| チョウ                                   | [ウォン・ウェイ](https://ja.wikipedia.org/wiki/ウォン・ウェイ "wikilink")   |                                         |
+|                                       | [ワン・ファト](https://ja.wikipedia.org/wiki/ワン・ファト "wikilink")     |                                         |
+|                                       | [クワン・ユイムン](https://ja.wikipedia.org/wiki/クワン・ユイムン "wikilink") |                                         |
+|                                       | [リー・ホイサン](https://ja.wikipedia.org/wiki/リー・ホイサン "wikilink")   |                                         |
+| 支配人                                   | [アルバート・ロー](https://ja.wikipedia.org/wiki/アルバート・ロー "wikilink") |                                         |
+|                                       | [ウー・マー](https://ja.wikipedia.org/wiki/午馬 "wikilink")          |                                         |
+| チャン                                   | [ハン・イーサン](https://ja.wikipedia.org/wiki/ハン・イーサン "wikilink")   |                                         |
+|                                       | [ユン・キンチョウ](https://ja.wikipedia.org/wiki/ユン・キンチョウ "wikilink") |                                         |
+| 陸上警察隊員                                | [ポール・ウォン](https://ja.wikipedia.org/wiki/ポール・ウォン "wikilink")   |                                         |
+|                                       | [トン・インチャン](https://ja.wikipedia.org/wiki/トン・インチャン "wikilink") |                                         |
+| 海上警察隊員                                | [ベニー・ライ](https://ja.wikipedia.org/wiki/ベニー・ライ "wikilink")     |                                         |
+|                                       | [マン・キーワン](https://ja.wikipedia.org/wiki/マン・キーワン "wikilink")   |                                         |
+| 酒場の給仕                                 | [トー・シウミン](https://ja.wikipedia.org/wiki/トー・シウミン "wikilink")   |                                         |
+| 陸上警察隊員                                | [ユー・タウワン](https://ja.wikipedia.org/wiki/ユー・タウワン "wikilink")   |                                         |
+|                                       |                                                               |                                         |
 
   - 両バージョンともにパラマウント版Blu-rayに収録
 
@@ -62,7 +62,7 @@
   - 製作：[レナード・ホー](https://ja.wikipedia.org/wiki/レナード・ホー "wikilink")
   - 製作総指揮：[レイモンド・チョウ](https://ja.wikipedia.org/wiki/レイモンド・チョウ "wikilink")
   - 副監督：[チャオ・ルーチャン](https://ja.wikipedia.org/wiki/チャオ・ルーチャン "wikilink")、エドワード・タン
-  - 製作会社：[ゴールデン・ハーベスト](https://ja.wikipedia.org/wiki/ゴールデン・ハーベスト "wikilink")、ゴールデン・ウェイ・フィルムズ
+  - 製作会社：[ゴールデン・ハーベスト](../Page/ゴールデン・ハーベスト.md "wikilink")、ゴールデン・ウェイ・フィルムズ
 
 ## 受賞
 
@@ -79,8 +79,8 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビ朝日" title="wikilink">テレビ朝日</a>版</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/WOWOW" title="wikilink">WOWOW</a>版</p></td>
+<td><p><a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a>版</p></td>
+<td><p><a href="../Page/WOWOW.md" title="wikilink">WOWOW</a>版</p></td>
 </tr>
 <tr class="even">
 <td><p>演出</p></td>
@@ -122,18 +122,18 @@
 <tr class="odd">
 <td><p>初回放送</p></td>
 <td><p>1987年1月4日<br />
-『<a href="https://ja.wikipedia.org/wiki/日曜洋画劇場" title="wikilink">日曜洋画劇場</a>』[2]<br />
+『<a href="../Page/日曜洋画劇場.md" title="wikilink">日曜洋画劇場</a>』[2]<br />
 ノーカット</p></td>
 </tr>
 <tr class="even">
 <td><p>再放送</p></td>
 <td><p>1987年12月26日<br />
-『<a href="https://ja.wikipedia.org/wiki/ゴールデン洋画劇場" title="wikilink">ゴールデン洋画劇場</a>』</p></td>
+『<a href="../Page/ゴールデン洋画劇場.md" title="wikilink">ゴールデン洋画劇場</a>』</p></td>
 </tr>
 </tbody>
 </table>
 
-  - テレビ朝日版：[正月](https://ja.wikipedia.org/wiki/正月 "wikilink")1作目としてノーカット版放送後、再放送は2時間枠にカットされ、フジテレビで頻繁にリピートされた。ユニバーサルより発売のデジタル・リマスター版[DVD](../Page/DVD.md "wikilink")、パラマウントより2010年に発売された廉価版DVDには再放送2時間枠カット版が収録された。2012年発売の「日本語吹替収録版DVD」と「デジタル・リマスター版[Blu-ray](../Page/Blu-ray_Disc.md "wikilink")」と2014年発売の「エクストリーム・エディション(Blu-ray)」には初回放送ノーカット版が収録された。しかし、Blu-rayではエンディングのNG集冒頭の石丸のセリフはカットされているが日本語吹替収録版DVDでは収録されている。そのため、エンディング冒頭のセリフまで収録されている完全版が収録されているのは「日本語吹替収録版DVD」しかない。
+  - テレビ朝日版：[正月](../Page/正月.md "wikilink")1作目としてノーカット版放送後、再放送は2時間枠にカットされ、フジテレビで頻繁にリピートされた。ユニバーサルより発売のデジタル・リマスター版[DVD](../Page/DVD.md "wikilink")、パラマウントより2010年に発売された廉価版DVDには再放送2時間枠カット版が収録された。2012年発売の「日本語吹替収録版DVD」と「デジタル・リマスター版[Blu-ray](../Page/Blu-ray_Disc.md "wikilink")」と2014年発売の「エクストリーム・エディション(Blu-ray)」には初回放送ノーカット版が収録された。しかし、Blu-rayではエンディングのNG集冒頭の石丸のセリフはカットされているが日本語吹替収録版DVDでは収録されている。そのため、エンディング冒頭のセリフまで収録されている完全版が収録されているのは「日本語吹替収録版DVD」しかない。
   - WOWOW版：2014年発売の「エクストリーム・エディション(Blu-ray)」に収録。
 
 ## 日本公開版
@@ -144,13 +144,13 @@
 
 ## 作品解説
 
-本作は、1981年11月の『[ドラゴンロード](https://ja.wikipedia.org/wiki/ドラゴンロード "wikilink")』撮影直後から製作準備が始まり、1982年夏から撮影が開始されたとみられる。
+本作は、1981年11月の『[ドラゴンロード](../Page/ドラゴンロード.md "wikilink")』撮影直後から製作準備が始まり、1982年夏から撮影が開始されたとみられる。
 
-映画のプロットは[カーク・ダグラス](https://ja.wikipedia.org/wiki/カーク・ダグラス "wikilink")の映画『[ヴァイキング](https://ja.wikipedia.org/wiki/ヴァイキング_\(映画\) "wikilink")』がカンヌ映画祭で上映された際、本人から説明があった。
+映画のプロットは[カーク・ダグラス](../Page/カーク・ダグラス.md "wikilink")の映画『[ヴァイキング](https://ja.wikipedia.org/wiki/ヴァイキング_\(映画\) "wikilink")』がカンヌ映画祭で上映された際、本人から説明があった。
 
 ### 時計台落下シーン
 
-[thumbによる](https://ja.wikipedia.org/wiki/image:Safetylast-1.jpg "wikilink")『要心無用』での危険なスタント\]\] ジャッキーを代表するスタントが、本作の「時計台落下シーン」である\[3\]。基本的にスタントマンを使わないジャッキーにとっても25mの時計台から地面に落下するアクションはまさに命懸けスタントであった。ジャッキー本人によると、撮影を決心するまでに1週間悩んだという。なお、この時計台落下シーンは喜劇王[ハロルド・ロイド](https://ja.wikipedia.org/wiki/ハロルド・ロイド "wikilink")の代表作『[要心無用](https://ja.wikipedia.org/wiki/要心無用 "wikilink")』における有名な時計台のシーンからヒントを得ている\[4\]。
+[thumbによる](https://ja.wikipedia.org/wiki/image:Safetylast-1.jpg "wikilink")『要心無用』での危険なスタント\]\] ジャッキーを代表するスタントが、本作の「時計台落下シーン」である\[3\]。基本的にスタントマンを使わないジャッキーにとっても25mの時計台から地面に落下するアクションはまさに命懸けスタントであった。ジャッキー本人によると、撮影を決心するまでに1週間悩んだという。なお、この時計台落下シーンは喜劇王[ハロルド・ロイド](../Page/ハロルド・ロイド.md "wikilink")の代表作『[要心無用](../Page/要心無用.md "wikilink")』における有名な時計台のシーンからヒントを得ている\[4\]。
 
 このシーンは1回のアクションを、別アングル3方向から撮ったものではなく、ジャッキーはこのシーンのために6日間、塔の上に上って時計の針に数分間ぶら下がることを繰り返し、3回時計台から地面まで落下した。全てのカットを本作で見ることができる。なお、本編に使われたのは2つで、落下の仕方が異なっている。残る1つは落下失敗で屋根が破れずにNGとなり、これはエンドクレジットのNGシーンで採用された。大けがを負ったのは最初のテイクで、頭から地面に落ちたこのカットは非常に衝撃的で有名なものとなった。ジャッキー映画、アクションを語る上で特筆すべきシーンでもある\[5\]\[6\]。
 
@@ -166,7 +166,7 @@
 
 ### 初期バージョン
 
-元々、本作は「陸上編」と「海上編」の二部構成で、3〜4時間にも及ぶ超大作となる予定だった。しかし、ラウ・ハクスンの死去\[7\]や台風によるセットの崩壊によって変更になった。タイトルは元々「パイレーツ・パトロール」を意味するタイトルだったが、結局は盗作を恐れたスタッフが撮影中に「A計劃」と呼ばれていた仮タイトルを正式なタイトルとした。『[バトルクリーク・ブロー](https://ja.wikipedia.org/wiki/バトルクリーク・ブロー "wikilink")』の監督である[ロバート・クローズ](https://ja.wikipedia.org/wiki/ロバート・クローズ "wikilink")は、『バトルクリーク・ブロー』の他に二つの脚本をジャッキーのために用意していた。1本は後に[ジェームス・グリッケンハウスが監督を務めた](https://ja.wikipedia.org/wiki/ジェームズ・グリッケンハウス "wikilink")『[プロテクター](https://ja.wikipedia.org/wiki/プロテクター_\(映画\) "wikilink")』と、『Blood Island』という名の海賊映画である。
+元々、本作は「陸上編」と「海上編」の二部構成で、3〜4時間にも及ぶ超大作となる予定だった。しかし、ラウ・ハクスンの死去\[7\]や台風によるセットの崩壊によって変更になった。タイトルは元々「パイレーツ・パトロール」を意味するタイトルだったが、結局は盗作を恐れたスタッフが撮影中に「A計劃」と呼ばれていた仮タイトルを正式なタイトルとした。『[バトルクリーク・ブロー](../Page/バトルクリーク・ブロー.md "wikilink")』の監督である[ロバート・クローズ](https://ja.wikipedia.org/wiki/ロバート・クローズ "wikilink")は、『バトルクリーク・ブロー』の他に二つの脚本をジャッキーのために用意していた。1本は後に[ジェームス・グリッケンハウスが監督を務めた](https://ja.wikipedia.org/wiki/ジェームズ・グリッケンハウス "wikilink")『[プロテクター](../Page/プロテクター_\(映画\).md "wikilink")』と、『Blood Island』という名の海賊映画である。
 
 ## DVD
 
@@ -237,14 +237,14 @@
 
 ## パチンコ
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")、[藤商事](https://ja.wikipedia.org/wiki/藤商事 "wikilink")よりパチンコ機「CRプロジェクトA」が発売された。劇中の映像が使用されており、ジャッキーの声は石丸博也の新録音である。
+[2007年](../Page/2007年.md "wikilink")、[藤商事](../Page/藤商事.md "wikilink")よりパチンコ機「CRプロジェクトA」が発売された。劇中の映像が使用されており、ジャッキーの声は石丸博也の新録音である。
 
 ## その他
 
-  - 本作のタイトルをパロディ化した、フェアリーダスト制作の劇場用アニメ映画『[プロジェクトA子](https://ja.wikipedia.org/wiki/プロジェクトA子 "wikilink")』の、発売時のビデオパッケージはリバーシブルで、裏面は中国語を配した香港映画風のパッケージになっていた。
-  - アニメ『[銀魂](https://ja.wikipedia.org/wiki/銀魂_\(アニメ\) "wikilink")』109話にジャッキー･チェンをモデルにした「龍隊長（ドラゴンたいちょう）」（声の担当も[石丸博也](https://ja.wikipedia.org/wiki/石丸博也 "wikilink")）というキャラクターが登場し、さらに、サモ･ハン･キンポーをモデルにしたキャラクター（こちらも声の担当は[水島裕](https://ja.wikipedia.org/wiki/水島裕_\(声優\) "wikilink")）や、当作品のパロディシーンが登場する（時計台からの落下、自転車での逃走時にサドルが取れるなど）。
+  - 本作のタイトルをパロディ化した、フェアリーダスト制作の劇場用アニメ映画『[プロジェクトA子](../Page/プロジェクトA子.md "wikilink")』の、発売時のビデオパッケージはリバーシブルで、裏面は中国語を配した香港映画風のパッケージになっていた。
+  - アニメ『[銀魂](../Page/銀魂_\(アニメ\).md "wikilink")』109話にジャッキー･チェンをモデルにした「龍隊長（ドラゴンたいちょう）」（声の担当も[石丸博也](../Page/石丸博也.md "wikilink")）というキャラクターが登場し、さらに、サモ･ハン･キンポーをモデルにしたキャラクター（こちらも声の担当は[水島裕](../Page/水島裕_\(声優\).md "wikilink")）や、当作品のパロディシーンが登場する（時計台からの落下、自転車での逃走時にサドルが取れるなど）。
   - またアニメ『[クレヨンしんちゃん](https://ja.wikipedia.org/wiki/クレヨンしんちゃん_\(アニメ\) "wikilink")』のスペシャル回「トレジャーハンターみさえ」においても、ドラゴン、フェイ、ジャガーを模したパロディキャラが登場している（声は石丸博也、水島裕、関俊彦。なお、3人は国際警察の一員という設定である）。時計台からの落下などが再現されたほか、エンディングでは当作品の主題歌にのせてNG集風の映像が流された。
-  - 1990年代にはフジテレビのコント番組『[ウッチャンナンチャンの誰かがやらねば](https://ja.wikipedia.org/wiki/ウッチャンナンチャンの誰かがやらねば "wikilink")』で、レギュラーメンバーの[内村光良](https://ja.wikipedia.org/wiki/内村光良 "wikilink")・[入江雅人](https://ja.wikipedia.org/wiki/入江雅人 "wikilink")・[出川哲朗](https://ja.wikipedia.org/wiki/出川哲朗 "wikilink")らがキャラクターを演じた「プロジェクトU」というパロディコントが作られた。酒場での喧嘩シーンや時計台からの落下シーン、自転車から走行中に降りるシーンなどを、実際にそっくりなセットを組んで出演者がアクションを行い忠実に再現させている。内村はジャッキー映画をパロディした作品を他局でも制作しており、ジャッキーは「兄弟だ」と評し、後に[内村プロデュース](https://ja.wikipedia.org/wiki/内村プロデュース "wikilink")にゲスト出演している\[8\]。
+  - 1990年代にはフジテレビのコント番組『[ウッチャンナンチャンの誰かがやらねば](https://ja.wikipedia.org/wiki/ウッチャンナンチャンの誰かがやらねば "wikilink")』で、レギュラーメンバーの[内村光良](https://ja.wikipedia.org/wiki/内村光良 "wikilink")・[入江雅人](../Page/入江雅人.md "wikilink")・[出川哲朗](../Page/出川哲朗.md "wikilink")らがキャラクターを演じた「プロジェクトU」というパロディコントが作られた。酒場での喧嘩シーンや時計台からの落下シーン、自転車から走行中に降りるシーンなどを、実際にそっくりなセットを組んで出演者がアクションを行い忠実に再現させている。内村はジャッキー映画をパロディした作品を他局でも制作しており、ジャッキーは「兄弟だ」と評し、後に[内村プロデュース](../Page/内村プロデュース.md "wikilink")にゲスト出演している\[8\]。
 
 ## 脚注
 
@@ -256,11 +256,11 @@
   -
 [Category:1983年の映画](https://ja.wikipedia.org/wiki/Category:1983年の映画 "wikilink") [Category:香港のアクション映画](https://ja.wikipedia.org/wiki/Category:香港のアクション映画 "wikilink") [Category:ジャッキー・チェンの監督映画](https://ja.wikipedia.org/wiki/Category:ジャッキー・チェンの監督映画 "wikilink") [Category:警察官を主人公とした映画・オリジナルビデオ](https://ja.wikipedia.org/wiki/Category:警察官を主人公とした映画・オリジナルビデオ "wikilink") [Category:香港電影金像奨_最佳動作設計受賞作](https://ja.wikipedia.org/wiki/Category:香港電影金像奨_最佳動作設計受賞作 "wikilink")
 
-1.  吹き替えでは[沿岸警備隊](https://ja.wikipedia.org/wiki/沿岸警備隊 "wikilink")。一部字幕では海上警察となっている。
+1.  吹き替えでは[沿岸警備隊](../Page/沿岸警備隊.md "wikilink")。一部字幕では海上警察となっている。
 2.  DVDでは再放送短縮版収録で一部のシーンが字幕表示だったが、Blu-rayでは初回放送時のノーカット版が収録されている
 3.  [ジャッキー・チェンのアクションスタント ベスト10ムービー - ライブドアニュース](https://news.livedoor.com/article/detail/3567607/)
-4.  ジャッキーは[バスター・キートン](https://ja.wikipedia.org/wiki/バスター・キートン "wikilink")の大ファンであることを公言しているように、1920年代頃のスラップスティック・コメディに大いに影響を受けており、自身の作品の中で数多くのオマージュを捧げている。
+4.  ジャッキーは[バスター・キートン](../Page/バスター・キートン.md "wikilink")の大ファンであることを公言しているように、1920年代頃のスラップスティック・コメディに大いに影響を受けており、自身の作品の中で数多くのオマージュを捧げている。
 5.
 6.
 7.  そのためか、続編「プロジェクトA2」での海上警察司令官はチー総監役だった[クワン・ホイサン](https://ja.wikipedia.org/wiki/クワン・ホイサン "wikilink")に変更され、チー総監に相当する警察局長役に[トン・ピョウ](https://ja.wikipedia.org/wiki/トン・ピョウ "wikilink")が加わった。
-8.  なお、その回のアシスタントはジャッキーの大ファンである[中川翔子](https://ja.wikipedia.org/wiki/中川翔子 "wikilink")であった。
+8.  なお、その回のアシスタントはジャッキーの大ファンである[中川翔子](../Page/中川翔子.md "wikilink")であった。

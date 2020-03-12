@@ -1,14 +1,14 @@
 > この記事は[ RADIO](https://ja.wikipedia.org/wiki/_RADIO)から翻訳されています。
 
 
-**もえたん リスニングRADIO**（もえたんリスニングレイディオ）は、『[もえたん](https://ja.wikipedia.org/wiki/もえたん "wikilink")』に関連した[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。[2007年](../Page/2007年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink")より[BEAT☆Net Radio\!](https://ja.wikipedia.org/wiki/BEAT☆Net_Radio! "wikilink")、[ランティスウェブラジオ](https://ja.wikipedia.org/wiki/ランティスウェブラジオ "wikilink")にて配信されていた。
+**もえたん リスニングRADIO**（もえたんリスニングレイディオ）は、『[もえたん](../Page/もえたん.md "wikilink")』に関連した[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。[2007年](../Page/2007年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink")より[BEAT☆Net Radio\!](../Page/BEAT☆Net_Radio!.md "wikilink")、[ランティスウェブラジオ](../Page/ランティスウェブラジオ.md "wikilink")にて配信されていた。
 
 ## 概要
 
   - 配信期間：[2007年](../Page/2007年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink")～[12月28日](../Page/12月28日.md "wikilink")(全26回)
   - 配信日：毎週金曜日
   - 配信サイト：BEAT☆Net Radio\!、ランティスウェブラジオ
-  - [パーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")：[戸松遥](../Page/戸松遥.md "wikilink")（黒威すみ役）、[森永理科](https://ja.wikipedia.org/wiki/森永理科 "wikilink")（瑠璃子役）
+  - [パーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")：[戸松遥](../Page/戸松遥.md "wikilink")（黒威すみ役）、[森永理科](../Page/森永理科.md "wikilink")（瑠璃子役）
 
 ## コーナー
 
@@ -24,7 +24,7 @@
 
 ## ゲスト
 
-  - 第7回：[のみこ](https://ja.wikipedia.org/wiki/のみこ "wikilink")（ED歌手）
+  - 第7回：[のみこ](../Page/のみこ.md "wikilink")（ED歌手）
 
 ## ラジオCD
 

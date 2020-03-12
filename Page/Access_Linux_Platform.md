@@ -1,7 +1,7 @@
 > この記事は[Access Linux Platform](https://ja.wikipedia.org/wiki/Access_Linux_Platform)から翻訳されています。
 
 
-**Access Linux Platform**（**ALP**）は、次世代の[Palm OSで](https://ja.wikipedia.org/wiki/Palm_OS "wikilink")、日本の[株式会社ACCESS傘下の](https://ja.wikipedia.org/wiki/ACCESS_\(企業\) "wikilink")[ACCESS Systems](https://ja.wikipedia.org/wiki/ACCESS_Systems "wikilink")（元PalmSource）が開発が行っている。
+**Access Linux Platform**（**ALP**）は、次世代の[Palm OSで](https://ja.wikipedia.org/wiki/Palm_OS "wikilink")、日本の[株式会社ACCESS傘下の](../Page/ACCESS_\(企業\).md "wikilink")[ACCESS Systems](https://ja.wikipedia.org/wiki/ACCESS_Systems "wikilink")（元PalmSource）が開発が行っている。
 
 [Java](https://ja.wikipedia.org/wiki/Java "wikilink")、従来のPalm OS、[GTK+](https://ja.wikipedia.org/wiki/GTK+ "wikilink")、[GNU/Linuxシェルアプリケーションにアプリケーション互換性を持たせるようなレイヤーを持つのが特徴](https://ja.wikipedia.org/wiki/GNU/Linuxシステム "wikilink")。
 
@@ -16,11 +16,11 @@ ALP は3GSM カンファレンスの[携帯電話](../Page/携帯電話.md "wiki
 ## 基本フレームワーク
 
   - ノキアのインターネット・タブレット・フレームワークに似ている。
-  - ALP は[GTK](https://ja.wikipedia.org/wiki/GTK "wikilink"),[GStreamer](https://ja.wikipedia.org/wiki/GStreamer "wikilink")フレームワークの上で動作する。
+  - ALP は[GTK](https://ja.wikipedia.org/wiki/GTK "wikilink"),[GStreamer](../Page/GStreamer.md "wikilink")フレームワークの上で動作する。
 
 ## 搭載端末
 
-  - 主に[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")向けの[NECカシオ モバイルコミュニケーションズ製](https://ja.wikipedia.org/wiki/NECカシオ_モバイルコミュニケーションズ "wikilink")・[パナソニック モバイルコミュニケーションズ製](https://ja.wikipedia.org/wiki/パナソニック_モバイルコミュニケーションズ "wikilink")[携帯電話](../Page/携帯電話.md "wikilink")で利用される。
+  - 主に[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")向けの[NECカシオ モバイルコミュニケーションズ製](https://ja.wikipedia.org/wiki/NECカシオ_モバイルコミュニケーションズ "wikilink")・[パナソニック モバイルコミュニケーションズ製](../Page/パナソニック_モバイルコミュニケーションズ.md "wikilink")[携帯電話](../Page/携帯電話.md "wikilink")で利用される。
 
 ## 外部リンク
 

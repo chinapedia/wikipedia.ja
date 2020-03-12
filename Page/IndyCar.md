@@ -3,13 +3,13 @@
 
 **IndyCar**（インディカー）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")のオープンホイール・レース統括組織。2010年までは「インディ・レーシング・リーグ」(Indy Racing League, IRL) の名称で活動していた。車体を指す"IndyCar"と区別するために"INDYCAR"と表記されることもある。
 
-IndyCarの商標は[ハルマン・アンド・カンパニー](https://ja.wikipedia.org/wiki/ハルマン・アンド・カンパニー "wikilink")が所有する。同社はまた[インディアナポリス・モーター・スピードウェイ](https://ja.wikipedia.org/wiki/インディアナポリス・モーター・スピードウェイ "wikilink")複合施設と[クラッバー・ガール](https://ja.wikipedia.org/wiki/クラッバー・ガール "wikilink")のブランドも所有している。
+IndyCarの商標は[ハルマン・アンド・カンパニー](https://ja.wikipedia.org/wiki/ハルマン・アンド・カンパニー "wikilink")が所有する。同社はまた[インディアナポリス・モーター・スピードウェイ](../Page/インディアナポリス・モーター・スピードウェイ.md "wikilink")複合施設と[クラッバー・ガール](https://ja.wikipedia.org/wiki/クラッバー・ガール "wikilink")のブランドも所有している。
 
 ## 概要
 
 ### 設立
 
-1994年、[トニー・ジョージ](https://ja.wikipedia.org/wiki/トニー・ジョージ "wikilink")によって前身となるIRLが設立され、1996年に同名のシリーズを開始した。[インディカー](https://ja.wikipedia.org/wiki/インディカー "wikilink")は[USAC](https://ja.wikipedia.org/wiki/USAC "wikilink")から離れた1979年以来、[CART](https://ja.wikipedia.org/wiki/CART "wikilink")が認可を行っていたが、トニー・ジョージは[F1の様に少数の裕福なチームが複数台出走させ](../Page/フォーミュラ1.md "wikilink")、技術が大きなウェイトを占めるインディカーに対して、より低コストで参戦できるオープンホイール・レースとしてIRLを構想していた。初めはその構想を信じたいくつかの小規模なチームがIRLに引き付けられただけだったが、後には分離する前のCARTのシリーズと同様な物となった。
+1994年、[トニー・ジョージ](https://ja.wikipedia.org/wiki/トニー・ジョージ "wikilink")によって前身となるIRLが設立され、1996年に同名のシリーズを開始した。[インディカー](../Page/インディカー.md "wikilink")は[USAC](https://ja.wikipedia.org/wiki/USAC "wikilink")から離れた1979年以来、[CART](https://ja.wikipedia.org/wiki/CART "wikilink")が認可を行っていたが、トニー・ジョージは[F1の様に少数の裕福なチームが複数台出走させ](../Page/フォーミュラ1.md "wikilink")、技術が大きなウェイトを占めるインディカーに対して、より低コストで参戦できるオープンホイール・レースとしてIRLを構想していた。初めはその構想を信じたいくつかの小規模なチームがIRLに引き付けられただけだったが、後には分離する前のCARTのシリーズと同様な物となった。
 
 ### 変革
 
@@ -21,16 +21,16 @@ IndyCarの商標は[ハルマン・アンド・カンパニー](https://ja.wikip
 
 ## レースシリーズ
 
-ヨーロッパにおいて、[F1を頂点に掲げ](../Page/フォーミュラ1.md "wikilink")[GP2](https://ja.wikipedia.org/wiki/GP2 "wikilink")や[F3などの中級](https://ja.wikipedia.org/wiki/フォーミュラ3 "wikilink")、下級カテゴリが存在するように、北米のオープンホイールレースにも下記のランク付けがある（上に書かれているものほどランクが高い）。これらのレースはIndyCarが育成団体「ロード・トゥ・インディ」を通じて運営する。
+ヨーロッパにおいて、[F1を頂点に掲げ](../Page/フォーミュラ1.md "wikilink")[GP2](../Page/GP2.md "wikilink")や[F3などの中級](https://ja.wikipedia.org/wiki/フォーミュラ3 "wikilink")、下級カテゴリが存在するように、北米のオープンホイールレースにも下記のランク付けがある（上に書かれているものほどランクが高い）。これらのレースはIndyCarが育成団体「ロード・トゥ・インディ」を通じて運営する。
 
   - [NTT インディカー・シリーズ](../Page/インディカー・シリーズ.md "wikilink")
       - 北米最高峰のオープンホイールレース。[世界三大レース](../Page/世界三大レース.md "wikilink")のひとつ、[インディ500](https://ja.wikipedia.org/wiki/インディ500 "wikilink")を筆頭に、オーバルトラック、ロードコース、市街地コースでレースが行われる。ドライバーは国籍はもちろん経歴も多様で、以下のカテゴリから昇格する者はもちろんF1など他のフォーミュラカーレースから転向する者もいる。
   - [ファイアストン・インディ・ライツ](https://ja.wikipedia.org/wiki/インディ・ライツ "wikilink")
       - インディカー・シリーズの直下に位置するカテゴリー。インディカー・シリーズをサポートする役割も持っており、レースが併催されることもある。
   - [プロ・マツダ チャンピオンシップ](https://ja.wikipedia.org/wiki/プロ・マツダ_チャンピオンシップ "wikilink")
-      - F3と同等規格の車で行われるカテゴリー。4つのレースシリーズの中では最も歴史が長く、1986年より開催されている。メインスポンサーに[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")と[グッドイヤー](https://ja.wikipedia.org/wiki/グッドイヤー "wikilink")を掲げ、マツダ製[ロータリーエンジン](../Page/ロータリーエンジン.md "wikilink")（約250馬力）が使用される。
+      - F3と同等規格の車で行われるカテゴリー。4つのレースシリーズの中では最も歴史が長く、1986年より開催されている。メインスポンサーに[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")と[グッドイヤー](../Page/グッドイヤー.md "wikilink")を掲げ、マツダ製[ロータリーエンジン](../Page/ロータリーエンジン.md "wikilink")（約250馬力）が使用される。
   - [クーパータイヤ U.S.F2000・ナショナル・チャンピオンシップ](https://ja.wikipedia.org/wiki/U.S._F2000_ナショナルチャンピオンシップ "wikilink")
-      - [フォーミュラ・フォード](https://ja.wikipedia.org/wiki/フォーミュラ・フォード "wikilink")の一種に分類される[ジュニア・フォーミュラ](https://ja.wikipedia.org/wiki/ジュニア・フォーミュラ "wikilink")カテゴリー。1991年から2006年まで開催されていたものを、IndyCarが復活させる形で2010年より再開した。レースは一部を除いてスター・マツダ・チャンピオンシップと同日程で開催される。
+      - [フォーミュラ・フォード](../Page/フォーミュラ・フォード.md "wikilink")の一種に分類される[ジュニア・フォーミュラ](https://ja.wikipedia.org/wiki/ジュニア・フォーミュラ "wikilink")カテゴリー。1991年から2006年まで開催されていたものを、IndyCarが復活させる形で2010年より再開した。レースは一部を除いてスター・マツダ・チャンピオンシップと同日程で開催される。
 
 ## ポイントシステム
 
@@ -47,14 +47,14 @@ IndyCarの商標は[ハルマン・アンド・カンパニー](https://ja.wikip
 IndyCarがIRLとして発足した1996年以来、上記4つのシリーズで事故によって以下のドライバーが死去している。(日付は現地時間)
 
   - [スコット・ブレイトン](https://ja.wikipedia.org/wiki/スコット・ブレイトン "wikilink") - 1996年5月17日,[インディ500](https://ja.wikipedia.org/wiki/インディ500 "wikilink")練習走行中
-  - [トニー・レナ](https://ja.wikipedia.org/wiki/トニー・レナ "wikilink") - 2003年10月22日,[ファイアストン](https://ja.wikipedia.org/wiki/ファイアストン "wikilink")のプライベートテスト中
+  - [トニー・レナ](https://ja.wikipedia.org/wiki/トニー・レナ "wikilink") - 2003年10月22日,[ファイアストン](../Page/ファイアストン.md "wikilink")のプライベートテスト中
   - [ポール・ダナ](https://ja.wikipedia.org/wiki/ポール・ダナ "wikilink") - 2006年3月26日,トヨタ・インディ300練習走行中
   - [ダン・ウェルドン](https://ja.wikipedia.org/wiki/ダン・ウェルドン "wikilink") - 2011年10月16日,ラスベガス・ワールドチャンピオンシップ決勝レース中
-  - [ジャスティン・ウィルソン](https://ja.wikipedia.org/wiki/ジャスティン・ウィルソン "wikilink") - 2015年8月24日,ABCサプライ500決勝レース中
+  - [ジャスティン・ウィルソン](../Page/ジャスティン・ウィルソン.md "wikilink") - 2015年8月24日,ABCサプライ500決勝レース中
 
 ## ギャラリー
 
-Image:HelioCastronevesPractice2007Indy500.jpg|2007年[インディ500](https://ja.wikipedia.org/wiki/インディ500 "wikilink")、予選での[エリオ・カストロネベス](https://ja.wikipedia.org/wiki/エリオ・カストロネベス "wikilink")。 Image:RobertoMorenoPracticing2007Indy500.jpg|2007年[インディ500](https://ja.wikipedia.org/wiki/インディ500 "wikilink")、予選での[ロベルト・モレノ](https://ja.wikipedia.org/wiki/ロベルト・モレノ "wikilink")。 Image:MarcoAndMichaelAndrettiPracticing2007Indy500.jpg|2007年[インディ500](https://ja.wikipedia.org/wiki/インディ500 "wikilink")、予選での[マルコ・アンドレッティ](https://ja.wikipedia.org/wiki/マルコ・アンドレッティ "wikilink")（左）と、父親の[マイケル・アンドレッティ](https://ja.wikipedia.org/wiki/マイケル・アンドレッティ "wikilink")。 Image:HondaIndyV8.jpg|2007年から2011年シーズンまで使用された[ホンダ](https://ja.wikipedia.org/wiki/ホンダ "wikilink")・Indy V8エンジン。
+Image:HelioCastronevesPractice2007Indy500.jpg|2007年[インディ500](https://ja.wikipedia.org/wiki/インディ500 "wikilink")、予選での[エリオ・カストロネベス](https://ja.wikipedia.org/wiki/エリオ・カストロネベス "wikilink")。 Image:RobertoMorenoPracticing2007Indy500.jpg|2007年[インディ500](https://ja.wikipedia.org/wiki/インディ500 "wikilink")、予選での[ロベルト・モレノ](../Page/ロベルト・モレノ.md "wikilink")。 Image:MarcoAndMichaelAndrettiPracticing2007Indy500.jpg|2007年[インディ500](https://ja.wikipedia.org/wiki/インディ500 "wikilink")、予選での[マルコ・アンドレッティ](https://ja.wikipedia.org/wiki/マルコ・アンドレッティ "wikilink")（左）と、父親の[マイケル・アンドレッティ](https://ja.wikipedia.org/wiki/マイケル・アンドレッティ "wikilink")。 Image:HondaIndyV8.jpg|2007年から2011年シーズンまで使用された[ホンダ](https://ja.wikipedia.org/wiki/ホンダ "wikilink")・Indy V8エンジン。
 
 {{-}}
 

@@ -5,7 +5,7 @@
 
 ## 解説
 
-[ABC](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")・[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列ドラマ『[オトコの子育て](../Page/オトコの子育て.md "wikilink")』[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")。デビュー以来w-inds.初のドラマ主題歌タイアップ曲。 [プロモーションビデオは](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、「[シトロエン・C4](https://ja.wikipedia.org/wiki/シトロエン・C4 "wikilink")」が利用されている。[2007年](../Page/2007年.md "wikilink")のオリコンシングルチャートの10位の作品で初動が一番高い。
+[ABC](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")・[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列ドラマ『[オトコの子育て](../Page/オトコの子育て.md "wikilink")』[主題歌](../Page/主題歌.md "wikilink")。デビュー以来w-inds.初のドラマ主題歌タイアップ曲。 [プロモーションビデオは](../Page/ミュージック・ビデオ.md "wikilink")、「[シトロエン・C4](../Page/シトロエン・C4.md "wikilink")」が利用されている。[2007年](../Page/2007年.md "wikilink")のオリコンシングルチャートの10位の作品で初動が一番高い。
 
 ## 収録曲
 

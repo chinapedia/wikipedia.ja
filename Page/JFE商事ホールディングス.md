@@ -1,7 +1,7 @@
 > この記事は[JFE](https://ja.wikipedia.org/wiki/JFE)から翻訳されています。
 
 
-**JFE商事ホールディングス**（ジェイエフイーしょうじホールディングス）は、かつて存在した[JFEスチール](https://ja.wikipedia.org/wiki/JFEスチール "wikilink")グループの[持株会社](../Page/持株会社.md "wikilink")（[中間持株会社](https://ja.wikipedia.org/wiki/中間持株会社 "wikilink")）である。[JFE商事](https://ja.wikipedia.org/wiki/JFE商事 "wikilink")などを傘下にもっていた。
+**JFE商事ホールディングス**（ジェイエフイーしょうじホールディングス）は、かつて存在した[JFEスチール](https://ja.wikipedia.org/wiki/JFEスチール "wikilink")グループの[持株会社](../Page/持株会社.md "wikilink")（[中間持株会社](https://ja.wikipedia.org/wiki/中間持株会社 "wikilink")）である。[JFE商事](../Page/JFE商事.md "wikilink")などを傘下にもっていた。
 
 ## 沿革
 
@@ -14,13 +14,13 @@
 
 ## 関係会社
 
-  - [JFE商事](https://ja.wikipedia.org/wiki/JFE商事 "wikilink")株式会社
-  - [川商フーズ](https://ja.wikipedia.org/wiki/川商フーズ "wikilink")株式会社
-  - [JFE商事エレクトロニクス](https://ja.wikipedia.org/wiki/JFE商事エレクトロニクス "wikilink")株式会社
+  - [JFE商事](../Page/JFE商事.md "wikilink")株式会社
+  - [川商フーズ](../Page/川商フーズ.md "wikilink")株式会社
+  - [JFE商事エレクトロニクス](../Page/JFE商事エレクトロニクス.md "wikilink")株式会社
   - [川商リアルエステート](https://ja.wikipedia.org/wiki/川商リアルエステート "wikilink")株式会社（2011年10月1日、JFE商事が合併）
 
 ## 関連項目
 
-  - [JFEホールディングス](https://ja.wikipedia.org/wiki/JFEホールディングス "wikilink")
+  - [JFEホールディングス](../Page/JFEホールディングス.md "wikilink")
 
 [Category:かつて存在した日本の持株会社](https://ja.wikipedia.org/wiki/Category:かつて存在した日本の持株会社 "wikilink") [Category:かつて存在した東京都の企業](https://ja.wikipedia.org/wiki/Category:かつて存在した東京都の企業 "wikilink") [Category:日本の商社](https://ja.wikipedia.org/wiki/Category:日本の商社 "wikilink") [Category:2004年設立の企業](https://ja.wikipedia.org/wiki/Category:2004年設立の企業 "wikilink") [Category:2012年廃止の企業](https://ja.wikipedia.org/wiki/Category:2012年廃止の企業 "wikilink") [Category:JFEグループの歴史](https://ja.wikipedia.org/wiki/Category:JFEグループの歴史 "wikilink")

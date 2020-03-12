@@ -5,7 +5,7 @@
 
 ## 概要
 
-『**[桂正和コレクション](https://ja.wikipedia.org/wiki/桂正和コレクション "wikilink")**』VOL.1・2に続く、桂正和3冊目となる短編集。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に[ジャンプ・コミックス](https://ja.wikipedia.org/wiki/ジャンプ・コミックス "wikilink")（JC）として[集英社](../Page/集英社.md "wikilink")より発売された。
+『**[桂正和コレクション](../Page/桂正和コレクション.md "wikilink")**』VOL.1・2に続く、桂正和3冊目となる短編集。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に[ジャンプ・コミックス](../Page/ジャンプ・コミックス.md "wikilink")（JC）として[集英社](../Page/集英社.md "wikilink")より発売された。
 
 [1993年](../Page/1993年.md "wikilink")から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、『[電影少女](../Page/電影少女.md "wikilink")』の連載が終了してから「[SHADOW LADY](https://ja.wikipedia.org/wiki/SHADOW_LADY#WJ版 "wikilink")」（WJ版）連載が開始するまで前の作品を中心としているが、『コレクション』VOL.2に未収録だった「SHIN-NO-SHIN 愛と憎しみのタイムスリップ」（[1989年](../Page/1989年.md "wikilink")）も収録。『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』（[集英社](../Page/集英社.md "wikilink")）及びその増刊号に掲載された作品4編が収められている。
 
@@ -26,7 +26,7 @@
 
 副題は「愛と憎しみのタイムスリップ」。『週刊少年ジャンプ』[1989年](../Page/1989年.md "wikilink")31号掲載。45ページ。
 
-未来から暗殺[ロボット](../Page/ロボット.md "wikilink")が襲ってくる[SF作品](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")。[雨宮慶太](https://ja.wikipedia.org/wiki/雨宮慶太 "wikilink")の監督作『[未来忍者 慶雲機忍外伝](https://ja.wikipedia.org/wiki/未来忍者_慶雲機忍外伝 "wikilink")』に[インスパイア](https://ja.wikipedia.org/wiki/インスパイア "wikilink")され、和風をコンセプトとして生まれた作品\[1\]。
+未来から暗殺[ロボット](../Page/ロボット.md "wikilink")が襲ってくる[SF作品](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")。[雨宮慶太](../Page/雨宮慶太.md "wikilink")の監督作『[未来忍者 慶雲機忍外伝](../Page/未来忍者_慶雲機忍外伝.md "wikilink")』に[インスパイア](https://ja.wikipedia.org/wiki/インスパイア "wikilink")され、和風をコンセプトとして生まれた作品\[1\]。
 
 『週刊少年ジャンプ』において好評であった為、桂は今作を元に次の連載を開始するつもりであったが、当時『週刊少年ジャンプ』副編集長の職にあった恩師[鳥嶋和彦](../Page/鳥嶋和彦.md "wikilink")の鶴の一声により『[ビデオガール](https://ja.wikipedia.org/wiki/電影少女#ビデオガール（読切） "wikilink")』を元とした『[電影少女](../Page/電影少女.md "wikilink")』を連載した\[2\]。
 
@@ -68,14 +68,14 @@
 
 ## 書誌情報
 
-いずれも[桂正和](https://ja.wikipedia.org/wiki/桂正和 "wikilink")著、[集英社](../Page/集英社.md "wikilink")の[ジャンプ・コミックス](https://ja.wikipedia.org/wiki/ジャンプ・コミックス "wikilink")レーベルより発行。
+いずれも[桂正和](https://ja.wikipedia.org/wiki/桂正和 "wikilink")著、[集英社](../Page/集英社.md "wikilink")の[ジャンプ・コミックス](../Page/ジャンプ・コミックス.md "wikilink")レーベルより発行。
 
   - 『ZETMAN 桂正和短編集』1995年7月9日初版発行、ISBN 4088718208
   - 『[SHADOW LADY](../Page/SHADOW_LADY.md "wikilink")』 3巻、1996年9月9日初版発行、ISBN 4088720431
 
 ## 関連項目
 
-  - [桂正和コレクション](https://ja.wikipedia.org/wiki/桂正和コレクション "wikilink")
+  - [桂正和コレクション](../Page/桂正和コレクション.md "wikilink")
   - 同時期の連載作品
       - [電影少女](../Page/電影少女.md "wikilink")
       - [D・N・A² 〜何処かで失くしたあいつのアイツ〜](../Page/D・N・A²_〜何処かで失くしたあいつのアイツ〜.md "wikilink")

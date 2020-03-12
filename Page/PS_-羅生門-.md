@@ -1,7 +1,7 @@
 > この記事は[PS --](https://ja.wikipedia.org/wiki/PS_--)から翻訳されています。
 
 
-『**PS -羅生門-**』（ポリスステーション らしょうもん）は、[矢島正雄](https://ja.wikipedia.org/wiki/矢島正雄 "wikilink")原作、[中山昌亮](https://ja.wikipedia.org/wiki/中山昌亮 "wikilink")による日本の漫画。[小学館](../Page/小学館.md "wikilink")の『[ビッグコミックオリジナル](../Page/ビッグコミックオリジナル.md "wikilink")』に2002年1号から2005年11号にかけて連載された。「PS」は「POLICE STATION」の略で、単行本表紙のタイトルロゴでは大きく書かれた「PS」に「POLICE STATION」が重ね書きされている（さらに登場人物が重なって文字の一部が隠れている）。
+『**PS -羅生門-**』（ポリスステーション らしょうもん）は、[矢島正雄](../Page/矢島正雄.md "wikilink")原作、[中山昌亮](../Page/中山昌亮.md "wikilink")による日本の漫画。[小学館](../Page/小学館.md "wikilink")の『[ビッグコミックオリジナル](../Page/ビッグコミックオリジナル.md "wikilink")』に2002年1号から2005年11号にかけて連載された。「PS」は「POLICE STATION」の略で、単行本表紙のタイトルロゴでは大きく書かれた「PS」に「POLICE STATION」が重ね書きされている（さらに登場人物が重なって文字の一部が隠れている）。
 
 連載終了後にテレビドラマ化され、2006年7月から9月にかけて[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列にて放送されており、原作者の矢島がドラマ版脚本も大部分を手がけている。
 
@@ -14,10 +14,10 @@
 ### 東都署
 
   - （べにや るみ）
-    東都署刑事（漫画版での階級は警部補、ドラマ版では[巡査部長](https://ja.wikipedia.org/wiki/巡査部長 "wikilink")）で、この物語の主人公。亡き夫と同じ刑事になり、「羅生門」に配属された。人情に厚く涙もろい女性。腐乱死体から[青酸カリ](https://ja.wikipedia.org/wiki/青酸カリ "wikilink")のアーモンド臭を嗅ぎ分けるなど、警察犬並みに鼻が利く。刑事だった夫は疲労状態にもかかわらず海で人命救助を行い、溺死した（漫画版では非番に留美らと訪れた海水浴場でのことだが、ドラマ版では捜査中の出来事に変更されている）。一人息子である陽平を大切にしているが、多忙なためにあまり一緒にいてやれないことを心苦しく思っている。
+    東都署刑事（漫画版での階級は警部補、ドラマ版では[巡査部長](../Page/巡査部長.md "wikilink")）で、この物語の主人公。亡き夫と同じ刑事になり、「羅生門」に配属された。人情に厚く涙もろい女性。腐乱死体から[青酸カリ](https://ja.wikipedia.org/wiki/青酸カリ "wikilink")のアーモンド臭を嗅ぎ分けるなど、警察犬並みに鼻が利く。刑事だった夫は疲労状態にもかかわらず海で人命救助を行い、溺死した（漫画版では非番に留美らと訪れた海水浴場でのことだが、ドラマ版では捜査中の出来事に変更されている）。一人息子である陽平を大切にしているが、多忙なためにあまり一緒にいてやれないことを心苦しく思っている。
     旧姓は近藤（単行本第1巻の「警察官になる理由」より）
   - （くろだ かんた）
-    同署刑事。階級は[警部補](https://ja.wikipedia.org/wiki/警部補 "wikilink")。
+    同署刑事。階級は[警部補](../Page/警部補.md "wikilink")。
     ガサツで野蛮な不良中年だが、人間を一番よく理解している。常に加害者の立場で取り調べ・捜査を行い、犯罪者の洞察力に優れる。母親を一人で介護する苦労人という一面も持つ、もう一人の主人公。
   - （よしみ たけし）
     東都署刑事課課長。署の前でおでんの屋台を経営している。温厚な人柄だが、ある一言を口にされると激しく怒る。
@@ -54,7 +54,7 @@
 
 ## 書誌情報
 
-  - [矢島正雄](https://ja.wikipedia.org/wiki/矢島正雄 "wikilink")（原作）、[中山昌亮](https://ja.wikipedia.org/wiki/中山昌亮 "wikilink")（作画）『PS-羅生門-』[小学館](../Page/小学館.md "wikilink")〈[ビッグコミックス](https://ja.wikipedia.org/wiki/ビッグコミックス "wikilink")〉、全9巻
+  - [矢島正雄](../Page/矢島正雄.md "wikilink")（原作）、[中山昌亮](../Page/中山昌亮.md "wikilink")（作画）『PS-羅生門-』[小学館](../Page/小学館.md "wikilink")〈[ビッグコミックス](https://ja.wikipedia.org/wiki/ビッグコミックス "wikilink")〉、全9巻
     1.  警察官になる理由。 2002年11月30日発売 ISBN 978-4-09-186621-9 2002年
     2.  親という一生。 2002年11月30日発売 ISBN 978-4-09-186622-6
     3.  猶予は一週間。 2003年4月30日発売 ISBN 978-4-09-186623-3
@@ -67,7 +67,7 @@
 
 ## テレビドラマ
 
-『**PS羅生門 警視庁東都署**』（ピーエスらしょうもん けいしちょうとうとしょ）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月5日](../Page/7月5日.md "wikilink")から[9月13日](../Page/9月13日.md "wikilink")まで毎週水曜日21:00 - 21:54に、[テレビ朝日](../Page/テレビ朝日.md "wikilink")系の「[水曜21時](https://ja.wikipedia.org/wiki/テレビ朝日水曜21時枠刑事ドラマ "wikilink")」枠で放送された。主演は[木村佳乃](https://ja.wikipedia.org/wiki/木村佳乃 "wikilink")。
+『**PS羅生門 警視庁東都署**』（ピーエスらしょうもん けいしちょうとうとしょ）は、[2006年](../Page/2006年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")から[9月13日](../Page/9月13日.md "wikilink")まで毎週水曜日21:00 - 21:54に、[テレビ朝日](../Page/テレビ朝日.md "wikilink")系の「[水曜21時](../Page/テレビ朝日水曜21時枠刑事ドラマ.md "wikilink")」枠で放送された。主演は[木村佳乃](https://ja.wikipedia.org/wiki/木村佳乃 "wikilink")。
 
 ### 概要
 
@@ -82,23 +82,23 @@
 #### 警視庁東都署
 
   - [紅谷留美](https://ja.wikipedia.org/wiki/#紅谷留美 "wikilink") - [木村佳乃](https://ja.wikipedia.org/wiki/木村佳乃 "wikilink")
-  - [安全豊](https://ja.wikipedia.org/wiki/#安全豊 "wikilink") - [遠藤章造](https://ja.wikipedia.org/wiki/遠藤章造 "wikilink")（[ココリコ](../Page/ココリコ.md "wikilink")）
-  - [土橋順一郎](https://ja.wikipedia.org/wiki/#土橋順一郎 "wikilink") - [佐野史郎](https://ja.wikipedia.org/wiki/佐野史郎 "wikilink")
-  - [江守サチ](https://ja.wikipedia.org/wiki/#江守サチ "wikilink") - [松本莉緒](https://ja.wikipedia.org/wiki/松本莉緒 "wikilink")
+  - [安全豊](https://ja.wikipedia.org/wiki/#安全豊 "wikilink") - [遠藤章造](../Page/遠藤章造.md "wikilink")（[ココリコ](../Page/ココリコ.md "wikilink")）
+  - [土橋順一郎](https://ja.wikipedia.org/wiki/#土橋順一郎 "wikilink") - [佐野史郎](../Page/佐野史郎.md "wikilink")
+  - [江守サチ](https://ja.wikipedia.org/wiki/#江守サチ "wikilink") - [松本莉緒](../Page/松本莉緒.md "wikilink")
   - [野原常久](https://ja.wikipedia.org/wiki/#野原常久 "wikilink") - [池田努](https://ja.wikipedia.org/wiki/池田努 "wikilink")
-  - 田所雅明 - [飯田基祐](https://ja.wikipedia.org/wiki/飯田基祐 "wikilink")
-  - [弓坂文雄](https://ja.wikipedia.org/wiki/#弓坂文雄 "wikilink") - [森本レオ](https://ja.wikipedia.org/wiki/森本レオ "wikilink")
+  - 田所雅明 - [飯田基祐](../Page/飯田基祐.md "wikilink")
+  - [弓坂文雄](https://ja.wikipedia.org/wiki/#弓坂文雄 "wikilink") - [森本レオ](../Page/森本レオ.md "wikilink")
   - [吉見武士](https://ja.wikipedia.org/wiki/#吉見武士 "wikilink") - [伊東四朗](../Page/伊東四朗.md "wikilink")
   - [黒田勘太](https://ja.wikipedia.org/wiki/#黒田勘太 "wikilink") - [舘ひろし](../Page/舘ひろし.md "wikilink")
 
 #### 紅谷家（テレビドラマ）
 
-  - [紅谷悟](https://ja.wikipedia.org/wiki/#紅谷悟 "wikilink") - [斉藤祥太](https://ja.wikipedia.org/wiki/斉藤祥太 "wikilink")
-  - [紅谷陽平](https://ja.wikipedia.org/wiki/#紅谷陽平 "wikilink") - [小林翼](https://ja.wikipedia.org/wiki/小林翼 "wikilink")（幼少期：[最上友太朗](https://ja.wikipedia.org/wiki/最上友太朗 "wikilink")\[1\]）
+  - [紅谷悟](https://ja.wikipedia.org/wiki/#紅谷悟 "wikilink") - [斉藤祥太](../Page/斉藤祥太.md "wikilink")
+  - [紅谷陽平](https://ja.wikipedia.org/wiki/#紅谷陽平 "wikilink") - [小林翼](../Page/小林翼.md "wikilink")（幼少期：[最上友太朗](https://ja.wikipedia.org/wiki/最上友太朗 "wikilink")\[1\]）
 
 #### その他
 
-  - 土橋真 - [海東健](https://ja.wikipedia.org/wiki/海東健 "wikilink")
+  - 土橋真 - [海東健](../Page/海東健.md "wikilink")
 
 #### ゲスト
 
@@ -108,7 +108,7 @@
 
 :\* 本木修造（資産家） - [中原丈雄](../Page/中原丈雄.md "wikilink")
 
-:\* 本木勇二（息子） - [北条隆博](https://ja.wikipedia.org/wiki/北条隆博 "wikilink")
+:\* 本木勇二（息子） - [北条隆博](../Page/北条隆博.md "wikilink")
 
   -
 
@@ -116,7 +116,7 @@
 
 :\* 水沢エリ子（食堂店主） - [石野真子](../Page/石野真子.md "wikilink")
 
-:\* 石塚友也（教師） - [尾美としのり](https://ja.wikipedia.org/wiki/尾美としのり "wikilink")
+:\* 石塚友也（教師） - [尾美としのり](../Page/尾美としのり.md "wikilink")
 
 :\* 園田ゆかり（女子高生） - [吉高由里子](https://ja.wikipedia.org/wiki/吉高由里子 "wikilink")
 
@@ -128,7 +128,7 @@
 
 :\* 海老原ともみ（キャバクラ嬢） - [三津谷葉子](https://ja.wikipedia.org/wiki/三津谷葉子 "wikilink")
 
-:\* 成川（署長） - [小木茂光](https://ja.wikipedia.org/wiki/小木茂光 "wikilink")
+:\* 成川（署長） - [小木茂光](../Page/小木茂光.md "wikilink")
 
 :\* 組長 - [織本順吉](../Page/織本順吉.md "wikilink")
 
@@ -138,11 +138,11 @@
 
 :\* 大星 - [佐戸井けん太](https://ja.wikipedia.org/wiki/佐戸井けん太 "wikilink")
 
-:\* 町田（少年課主任） - [高田聖子](https://ja.wikipedia.org/wiki/高田聖子 "wikilink")
+:\* 町田（少年課主任） - [高田聖子](../Page/高田聖子.md "wikilink")
 
 :\* 大野ユイ - [江澤璃菜](../Page/江澤璃菜.md "wikilink")
 
-:\* 黒田の母 - [森康子](https://ja.wikipedia.org/wiki/森康子 "wikilink")
+:\* 黒田の母 - [森康子](../Page/森康子.md "wikilink")
 
   -
 
@@ -150,7 +150,7 @@
 
 :\* 牧村あい（コンビニ店員） - [石田未来](../Page/石田未来.md "wikilink")
 
-:\* 細川秀樹（コンビニ店員） - [近藤芳正](https://ja.wikipedia.org/wiki/近藤芳正 "wikilink")
+:\* 細川秀樹（コンビニ店員） - [近藤芳正](../Page/近藤芳正.md "wikilink")
 
 :\* 草間 - [名倉潤](https://ja.wikipedia.org/wiki/名倉潤 "wikilink")（[ネプチューン](../Page/ネプチューン_\(お笑いトリオ\).md "wikilink")）
 
@@ -158,13 +158,13 @@
 
   - 第6話「金か心か? 5億円を隠した男」
 
-:\* 住岡（スミオカ製作所の経営者） - [前田吟](https://ja.wikipedia.org/wiki/前田吟 "wikilink")
+:\* 住岡（スミオカ製作所の経営者） - [前田吟](../Page/前田吟.md "wikilink")
 
   -
 
   - 第7話「子犬が見た殺意\!\! 残金1013円存在しないはずの女」
 
-:\* 織部剛（父親） - [美木良介](https://ja.wikipedia.org/wiki/美木良介 "wikilink")
+:\* 織部剛（父親） - [美木良介](../Page/美木良介.md "wikilink")
 
 :\* 織部知佳（娘・大学のミスキャンパス） - [黒川芽以](https://ja.wikipedia.org/wiki/黒川芽以 "wikilink")
 
@@ -176,9 +176,9 @@
 
 :\* 杏奈（クラブのママ） - [奥貫薫](https://ja.wikipedia.org/wiki/奥貫薫 "wikilink")
 
-:\* 木島義彦（黒田の同期・特捜班） - [升毅](https://ja.wikipedia.org/wiki/升毅 "wikilink")
+:\* 木島義彦（黒田の同期・特捜班） - [升毅](../Page/升毅.md "wikilink")
 
-:\* 松崎（常務） - [浜田晃](https://ja.wikipedia.org/wiki/浜田晃 "wikilink")
+:\* 松崎（常務） - [浜田晃](../Page/浜田晃.md "wikilink")
 
   -
 
@@ -186,7 +186,7 @@
 
 :\* 沼田京子（売春婦） - [遠山景織子](https://ja.wikipedia.org/wiki/遠山景織子 "wikilink")
 
-:\* 沼田守 - [林泰文](https://ja.wikipedia.org/wiki/林泰文 "wikilink")
+:\* 沼田守 - [林泰文](../Page/林泰文.md "wikilink")
 
   -
 
@@ -194,11 +194,11 @@
 
 :\* 森角等 - [矢崎滋](../Page/矢崎滋.md "wikilink")
 
-:\* 森角タキ - [佐々木すみ江](https://ja.wikipedia.org/wiki/佐々木すみ江 "wikilink")
+:\* 森角タキ - [佐々木すみ江](../Page/佐々木すみ江.md "wikilink")
 
-:\* 森角喜代子 - [角替和枝](https://ja.wikipedia.org/wiki/角替和枝 "wikilink")
+:\* 森角喜代子 - [角替和枝](../Page/角替和枝.md "wikilink")
 
-:\* 杉井敦 - [まいど豊](https://ja.wikipedia.org/wiki/まいど豊 "wikilink")
+:\* 杉井敦 - [まいど豊](../Page/まいど豊.md "wikilink")
 
 :\* 亀田信二 - [草野康太](../Page/草野康太.md "wikilink")
 
@@ -210,19 +210,19 @@
 
 :\* 平原（ホスト） - [阿部進之介](../Page/阿部進之介.md "wikilink")
 
-:\* 深沢クミ（キャバクラ嬢） - [小松みゆき](https://ja.wikipedia.org/wiki/小松みゆき "wikilink")
+:\* 深沢クミ（キャバクラ嬢） - [小松みゆき](../Page/小松みゆき.md "wikilink")
 
-:\* 田辺（監察官） - [益岡徹](https://ja.wikipedia.org/wiki/益岡徹 "wikilink")
+:\* 田辺（監察官） - [益岡徹](../Page/益岡徹.md "wikilink")
 
 ### スタッフ
 
-  - 原作 - [矢島正雄](https://ja.wikipedia.org/wiki/矢島正雄 "wikilink")
+  - 原作 - [矢島正雄](../Page/矢島正雄.md "wikilink")
   - 漫画 - 中山昌亮（小学館「ビッグオリジナルコミックス」刊）
   - 脚本 - 矢島正雄、[田子明弘](https://ja.wikipedia.org/wiki/田子明弘 "wikilink")
-  - 音楽 - [羽毛田丈史](https://ja.wikipedia.org/wiki/羽毛田丈史 "wikilink")
+  - 音楽 - [羽毛田丈史](../Page/羽毛田丈史.md "wikilink")
   - 監督 - [阿部雄一](https://ja.wikipedia.org/wiki/阿部雄一_\(演出家\) "wikilink")、[藤岡浩二郎](https://ja.wikipedia.org/wiki/藤岡浩二郎 "wikilink")、[五木田亮一](https://ja.wikipedia.org/wiki/五木田亮一 "wikilink")、[高畑隆史](https://ja.wikipedia.org/wiki/高畑隆史 "wikilink")
-  - 主題歌 - [風味堂](https://ja.wikipedia.org/wiki/風味堂 "wikilink")「[愛してる](../Page/愛してる_\(風味堂の曲\).md "wikilink")」（[ビクタースピードスター](https://ja.wikipedia.org/wiki/SPEEDSTAR_RECORDS "wikilink")）
-  - サウンドデザイン - [石井和之](https://ja.wikipedia.org/wiki/石井和之 "wikilink")
+  - 主題歌 - [風味堂](../Page/風味堂.md "wikilink")「[愛してる](../Page/愛してる_\(風味堂の曲\).md "wikilink")」（[ビクタースピードスター](../Page/SPEEDSTAR_RECORDS.md "wikilink")）
+  - サウンドデザイン - [石井和之](../Page/石井和之.md "wikilink")
   - 原案協力 - 川島潤二、西澤潤（小学館「隔週刊ビッグコミックオリジナル」編集部）
   - チーフプロデューサー - [松本基弘](https://ja.wikipedia.org/wiki/松本基弘 "wikilink")（テレビ朝日）
   - プロデューサー - [大川武宏](https://ja.wikipedia.org/wiki/大川武宏 "wikilink")（テレビ朝日）・目黒正之（[東映](../Page/東映.md "wikilink")）、土田真通（東映）
@@ -331,7 +331,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>平均視聴率 8.9%（視聴率は<a href="https://ja.wikipedia.org/wiki/ビデオリサーチ" title="wikilink">ビデオリサーチ</a>調べ、<a href="https://ja.wikipedia.org/wiki/関東地方" title="wikilink">関東地区</a>・世帯）</p></td>
+<td><p>平均視聴率 8.9%（視聴率は<a href="../Page/ビデオリサーチ.md" title="wikilink">ビデオリサーチ</a>調べ、<a href="https://ja.wikipedia.org/wiki/関東地方" title="wikilink">関東地区</a>・世帯）</p></td>
 <td></td>
 <td></td>
 <td></td>

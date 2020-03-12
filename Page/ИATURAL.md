@@ -1,12 +1,12 @@
 > この記事は[ATURAL](https://ja.wikipedia.org/wiki/ATURAL)から翻訳されています。
 
 
-『**ИATURAL**』（ナチュラル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミクスチャーバンド](https://ja.wikipedia.org/wiki/ミクスチャー・ロック "wikilink")、[ORANGE RANGEの](../Page/ORANGE_RANGE.md "wikilink")3枚目のオリジナルアルバム。
+『**ИATURAL**』（ナチュラル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミクスチャーバンド](../Page/ミクスチャー・ロック.md "wikilink")、[ORANGE RANGEの](../Page/ORANGE_RANGE.md "wikilink")3枚目のオリジナルアルバム。
 
 ## 解説
 
-  - ドラムの[KATCHANが最後に参加したアルバム](https://ja.wikipedia.org/wiki/北尾一人 "wikilink")。また、歌詞カードの最後のページには、KATCHANへのメッセージが書かれている。
-  - タイトルの「N」が「[И](https://ja.wikipedia.org/wiki/И "wikilink")」（[キリル文字](../Page/キリル文字.md "wikilink")の「イー/ウィー」）になっているのを、メンバーは「インパクトが欲しかった」と言っている。
+  - ドラムの[KATCHANが最後に参加したアルバム](../Page/北尾一人.md "wikilink")。また、歌詞カードの最後のページには、KATCHANへのメッセージが書かれている。
+  - タイトルの「N」が「[И](../Page/И.md "wikilink")」（[キリル文字](../Page/キリル文字.md "wikilink")の「イー/ウィー」）になっているのを、メンバーは「インパクトが欲しかった」と言っている。
   - ジャケットのアリはORANGE RANGEのロゴをくわえている。
   - 日本レコード協会からはミリオン認定を受けているが、オリコンでの累計売上は100万枚に届いていない。
 
@@ -17,7 +17,7 @@
 ## 収録曲
 
 1.  **yumekaze**
-      - 作詞・作曲：ORANGE RANGE、Strings Arrangement：[吉俣良](https://ja.wikipedia.org/wiki/吉俣良 "wikilink")
+      - 作詞・作曲：ORANGE RANGE、Strings Arrangement：[吉俣良](../Page/吉俣良.md "wikilink")
     <!-- end list -->
       -
         日本テレビ系『[一球の緊張感 THE LIVE 2005](https://ja.wikipedia.org/wiki/Dramatic_Game_1844 "wikilink")』イメージソング。
@@ -26,10 +26,10 @@
       - 作詞・作曲：ORANGE RANGE
     <!-- end list -->
       -
-        [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[スポんちゅ](https://ja.wikipedia.org/wiki/スポんちゅ "wikilink")』エンディングテーマ。
+        [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[スポんちゅ](../Page/スポんちゅ.md "wikilink")』エンディングテーマ。
         サビの部分は、ミニアルバム『[オレンジボール](../Page/オレンジボール.md "wikilink")』に収録されている「奏重鼓」のサビが原曲となっている。
         この1曲目と2曲目の流れはHIROKIの提案によるもの。
-3.  **[お願い\!セニョリータ](https://ja.wikipedia.org/wiki/お願い!セニョリータ "wikilink")**
+3.  **[お願い\!セニョリータ](../Page/お願い!セニョリータ.md "wikilink")**
       - 作詞・作曲：ORANGE RANGE
     <!-- end list -->
       -
@@ -50,7 +50,7 @@
 7.  **GOD69**
       -
         「Town\&Country」CMソング。
-        [低音一家](https://ja.wikipedia.org/wiki/低音一家 "wikilink")が手がけた曲で、「[チェスト](https://ja.wikipedia.org/wiki/チェスト_\(曲\) "wikilink")」以来のハードロック。
+        [低音一家](../Page/低音一家.md "wikilink")が手がけた曲で、「[チェスト](../Page/チェスト_\(曲\).md "wikilink")」以来のハードロック。
 8.  **HYSTERIC TAXI**
       - 作詞・作曲：ORANGE RANGE
     <!-- end list -->
@@ -63,14 +63,14 @@
       -
         タイトルの読みは「ペ・ニョン・ポン」である。
         『[musiQ](https://ja.wikipedia.org/wiki/musiQ "wikilink")』に収録されている「papa」と同じ様な曲で、メンバーは「わけの分からない曲」「ライブではできない」とのこと。
-        「[以心電信](https://ja.wikipedia.org/wiki/以心電信_\(ORANGE_RANGEの曲\) "wikilink")」のメロディーが一瞬流れる。また、RYOが電話をしている部分は、本当に友達と話しているところを録音されて出来たもの。
+        「[以心電信](../Page/以心電信_\(ORANGE_RANGEの曲\).md "wikilink")」のメロディーが一瞬流れる。また、RYOが電話をしている部分は、本当に友達と話しているところを録音されて出来たもの。
         歌詞に「レンジのナオキ」というフレーズがあるが、これはHIROKIとNAOTOがパーソナリティーを務めるラジオ番組『[ORANGE RANGE ラジオ〜コンタクト](../Page/ORANGE_RANGE_ラジオ〜コンタクト.md "wikilink")』でのリスナーの間違いからきたものである。
 10. **盃Jammer**
-      - 作詞：RYO, TKC, アルシオネ 作曲：[低音一家](https://ja.wikipedia.org/wiki/低音一家 "wikilink")
+      - 作詞：RYO, TKC, アルシオネ 作曲：[低音一家](../Page/低音一家.md "wikilink")
     <!-- end list -->
       -
         [レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")調な曲。
-        RYOが、NAOTOから[シンセサイザー](../Page/シンセサイザー.md "wikilink")の使い方を習いながら初めて作った。YAMATOとHIROKIは参加しておらず、RYOの他に、[山嵐のボーカルのSATOSHI](https://ja.wikipedia.org/wiki/山嵐_\(バンド\) "wikilink")、ベースの武史がゲストとして参加している。
+        RYOが、NAOTOから[シンセサイザー](../Page/シンセサイザー.md "wikilink")の使い方を習いながら初めて作った。YAMATOとHIROKIは参加しておらず、RYOの他に、[山嵐のボーカルのSATOSHI](../Page/山嵐_\(バンド\).md "wikilink")、ベースの武史がゲストとして参加している。
 11. **[＊〜アスタリスク〜](../Page/*〜アスタリスク〜.md "wikilink")**
       - 作詞・作曲：ORANGE RANGE
     <!-- end list -->
@@ -90,24 +90,24 @@
         外国人の思い描く「日本」を歌った曲。
         間奏の部分は当初NAOTOが外国人の真似をして言っていたが「それなら本当の外国人を呼んだほうが…」という案で本当の外国人が参加した。
         NAOTOのお気に入りの曲でライブでよく歌われている。
-        「[UN ROCK STAR](https://ja.wikipedia.org/wiki/UN_ROCK_STAR "wikilink")」にはライブバージョンが収録されている。
+        「[UN ROCK STAR](../Page/UN_ROCK_STAR.md "wikilink")」にはライブバージョンが収録されている。
 14. **BETWEEN**
       - 作詞・作曲：ORANGE RANGE
     <!-- end list -->
       -
         「理想と現実の狭間」がテーマ。
-        発売前に『[COUNT DOWN TV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")』（[TBS系](../Page/TBSテレビ.md "wikilink")）で未発表曲としてイントロだけ流れた。
+        発売前に『[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")』（[TBS系](../Page/TBSテレビ.md "wikilink")）で未発表曲としてイントロだけ流れた。
 15. **re-cycle**
       - 作詞・作曲：ORANGE RANGE
     <!-- end list -->
       -
         1曲目の「yumekaze」で没となったメロディーが使われており、NAOTOは「まさにリサイクル」と語っている。
-16. **[キズナ](https://ja.wikipedia.org/wiki/キズナ_\(ORANGE_RANGEの曲\) "wikilink")**
-      - 作詞・作曲：ORANGE RANGE、Strings Arrangement：[吉俣良](https://ja.wikipedia.org/wiki/吉俣良 "wikilink")、二胡 Arrangement：上田益
+16. **[キズナ](../Page/キズナ_\(ORANGE_RANGEの曲\).md "wikilink")**
+      - 作詞・作曲：ORANGE RANGE、Strings Arrangement：[吉俣良](../Page/吉俣良.md "wikilink")、二胡 Arrangement：上田益
     <!-- end list -->
       -
         12thシングル。
-17. **[ラヴ・パレード](https://ja.wikipedia.org/wiki/ラヴ・パレード_\(ORANGE_RANGEの曲\) "wikilink")**
+17. **[ラヴ・パレード](../Page/ラヴ・パレード_\(ORANGE_RANGEの曲\).md "wikilink")**
       - 作詞・作曲：ORANGE RANGE
     <!-- end list -->
       -
@@ -122,16 +122,16 @@
       - 作詞・作曲：ORANGE RANGE 編曲：Josh Deutsch
     <!-- end list -->
       -
-        映画『[ファンタスティック・フォー](https://ja.wikipedia.org/wiki/ファンタスティック・フォー "wikilink")』エンディング・テーマ。
-        [PVは](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、「LIVE musiQ」でのライブ映像と『ファンタスティック・フォー』の映像が混ざって出来ている。
+        映画『[ファンタスティック・フォー](../Page/ファンタスティック・フォー.md "wikilink")』エンディング・テーマ。
+        [PVは](../Page/ミュージック・ビデオ.md "wikilink")、「LIVE musiQ」でのライブ映像と『ファンタスティック・フォー』の映像が混ざって出来ている。
 
 ## 参加ミュージシャン
 
   - YAMATO：MC
   - HIROKI：MC
   - RYO：MC
-  - NAOTO：[Programming](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")、Other Instruments、[Guitar](../Page/ギター.md "wikilink")、[Chorus](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、[Turntable](../Page/ディスクジョッキー.md "wikilink")
-  - YOH：[Bass](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - NAOTO：[Programming](../Page/ミュージックシーケンサー.md "wikilink")、Other Instruments、[Guitar](../Page/ギター.md "wikilink")、[Chorus](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、[Turntable](../Page/ディスクジョッキー.md "wikilink")
+  - YOH：[Bass](../Page/ベース_\(弦楽器\).md "wikilink")
 
 <!-- end list -->
 
@@ -157,7 +157,7 @@
 
 <!-- end list -->
 
-  - [KATCHAN](https://ja.wikipedia.org/wiki/北尾一人 "wikilink") - Drums
+  - [KATCHAN](../Page/北尾一人.md "wikilink") - Drums
   - [パラダイス山元](../Page/パラダイス山元.md "wikilink") - [Percussion](../Page/打楽器.md "wikilink")
   - 鈴木秀夫 - [Flamenco Guitar](../Page/フラメンコギター.md "wikilink")
   - [うちやえゆか](../Page/うちやえゆか.md "wikilink") - 掛け声
@@ -282,7 +282,7 @@
 
   - 桜井正宏 - Drums
   - [チェン・ミン](../Page/チェン・ミン.md "wikilink") - [二胡](../Page/二胡.md "wikilink")
-  - [弦一徹グループ](https://ja.wikipedia.org/wiki/落合徹也 "wikilink") - Strings
+  - [弦一徹グループ](../Page/落合徹也.md "wikilink") - Strings
   - 中村康就 - piano
 
 <!-- end list -->
@@ -312,6 +312,6 @@
 
 ## 関連項目
 
-  - [LIVE ИATURAL 〜from LIVE TOUR 005"ИATURAL"at YOKOHAMA ARENA 2005.12.13〜](https://ja.wikipedia.org/wiki/LIVE_ИATURAL_〜from_LIVE_TOUR_005"ИATURAL"at_YOKOHAMA_ARENA_2005.12.13〜 "wikilink")
+  - [LIVE ИATURAL 〜from LIVE TOUR 005"ИATURAL"at YOKOHAMA ARENA 2005.12.13〜](../Page/LIVE_ИATURAL_〜from_LIVE_TOUR_005"ИATURAL"at_YOKOHAMA_ARENA_2005.12.13〜.md "wikilink")
 
 [Category:ORANGE_RANGEのアルバム](https://ja.wikipedia.org/wiki/Category:ORANGE_RANGEのアルバム "wikilink") [Category:2005年のアルバム](https://ja.wikipedia.org/wiki/Category:2005年のアルバム "wikilink") [Category:ソニー・ミュージックレコーズのアルバム](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのアルバム "wikilink") [Category:2005年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2005年のオリコンアルバムチャート1位獲得作品 "wikilink")

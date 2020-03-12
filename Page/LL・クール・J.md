@@ -5,7 +5,7 @@
 
 ## 略歴
 
-[ニューヨーク州](../Page/ニューヨーク州.md "wikilink")[ウェストチェスターでジェームズ](https://ja.wikipedia.org/wiki/ウエストチェスター郡_\(ニューヨーク州\) "wikilink")・オンドレア夫妻の一人息子として生まれるが、[両親](https://ja.wikipedia.org/wiki/両親 "wikilink")の間で[喧嘩](https://ja.wikipedia.org/wiki/喧嘩 "wikilink")が絶えず、4歳のときに両親は[離婚](../Page/離婚.md "wikilink")。母に引き取られ母の実家のある[ニューヨーク](../Page/ニューヨーク.md "wikilink")[クイーンズ区](../Page/クイーンズ区.md "wikilink")で育つ。教会の[聖歌隊](https://ja.wikipedia.org/wiki/聖歌隊 "wikilink")の一員としての活動、サッカー、[ボーイスカウト](../Page/ボーイスカウト.md "wikilink")などをこなす活発な子供であった。
+[ニューヨーク州](../Page/ニューヨーク州.md "wikilink")[ウェストチェスターでジェームズ](../Page/ウエストチェスター郡_\(ニューヨーク州\).md "wikilink")・オンドレア夫妻の一人息子として生まれるが、[両親](https://ja.wikipedia.org/wiki/両親 "wikilink")の間で[喧嘩](../Page/喧嘩.md "wikilink")が絶えず、4歳のときに両親は[離婚](../Page/離婚.md "wikilink")。母に引き取られ母の実家のある[ニューヨーク](../Page/ニューヨーク.md "wikilink")[クイーンズ区](../Page/クイーンズ区.md "wikilink")で育つ。教会の[聖歌隊](https://ja.wikipedia.org/wiki/聖歌隊 "wikilink")の一員としての活動、サッカー、[ボーイスカウト](../Page/ボーイスカウト.md "wikilink")などをこなす活発な子供であった。
 
 [2017年](../Page/2017年.md "wikilink")には、ヒップホップ・ミュージシャン初の[ケネディ・センター名誉賞](https://ja.wikipedia.org/wiki/ケネディ・センター名誉賞 "wikilink")を受賞した\[1\]。
 
@@ -74,7 +74,7 @@
 <td><p>クライム・タイム<br />
 <em>The Right to Remain Silent</em></p></td>
 <td><p>チャールズ・レッド・テイラー</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビ映画" title="wikilink">テレビ映画</a></p></td>
+<td><p><a href="../Page/テレビ映画.md" title="wikilink">テレビ映画</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1997</p></td>
@@ -99,13 +99,13 @@
 </tr>
 <tr class="even">
 <td><p>1999</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ディープ・ブルー_(1999年の映画)" title="wikilink">ディープ・ブルー</a><br />
+<td><p><a href="../Page/ディープ・ブルー_(1999年の映画).md" title="wikilink">ディープ・ブルー</a><br />
 <em>Deep Blue Sea</em></p></td>
 <td><p>シャーマン・ダドリー（プリーチャー）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/エニイ・ギブン・サンデー" title="wikilink">エニイ・ギブン・サンデー</a><br />
+<td><p><a href="../Page/エニイ・ギブン・サンデー.md" title="wikilink">エニイ・ギブン・サンデー</a><br />
 <em>Any Given Sunday</em></p></td>
 <td><p>ジュリアン・J・ワシントン</p></td>
 <td></td>
@@ -140,7 +140,7 @@
 <td><p>日本劇場未公開</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/S.W.A.T." title="wikilink">S.W.A.T.</a><br />
+<td><p><a href="../Page/S.W.A.T..md" title="wikilink">S.W.A.T.</a><br />
 <em>S.W.A.T.</em></p></td>
 <td><p>ディーコン・“ディーク”・ケイ</p></td>
 <td></td>

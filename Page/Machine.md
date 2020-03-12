@@ -1,15 +1,15 @@
 > この記事は[Machine](https://ja.wikipedia.org/wiki/Machine)から翻訳されています。
 
 
-**machine**（マシーン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックユニット](../Page/ロック_\(音楽\).md "wikilink")。[1999年](../Page/1999年.md "wikilink")に[PENICILLIN](../Page/PENICILLIN.md "wikilink")の[HAKUEI](https://ja.wikipedia.org/wiki/HAKUEI "wikilink")と[hide with Spread Beaverの](https://ja.wikipedia.org/wiki/hide "wikilink")[KIYOSHI](../Page/KIYOSHI.md "wikilink")により結成された\[1\]\[2\]。所属事務所はeuclid agency。[2002年](../Page/2002年.md "wikilink")に活動を休止したが、[2004年](../Page/2004年.md "wikilink")から「再起動」として活動を再開。
+**machine**（マシーン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックユニット](../Page/ロック_\(音楽\).md "wikilink")。[1999年](../Page/1999年.md "wikilink")に[PENICILLIN](../Page/PENICILLIN.md "wikilink")の[HAKUEI](../Page/HAKUEI.md "wikilink")と[hide with Spread Beaverの](https://ja.wikipedia.org/wiki/hide "wikilink")[KIYOSHI](../Page/KIYOSHI.md "wikilink")により結成された\[1\]\[2\]。所属事務所はeuclid agency。[2002年](../Page/2002年.md "wikilink")に活動を休止したが、[2004年](../Page/2004年.md "wikilink")から「再起動」として活動を再開。
 
 ## 来歴
 
 [1999年](../Page/1999年.md "wikilink")4月21日、アルバム『captain sonic tune』、シングル「hero」、「Gravity Attack」3枚同時リリースでデビュー。[日本武道館](../Page/日本武道館.md "wikilink")公演をソールドアウトさせ\[3\]、全国ツアーを展開する。[2002年](../Page/2002年.md "wikilink")1月にアルバム『salvation-D9』を発表して活動を休止した\[4\]。
 
-[2004年](../Page/2004年.md "wikilink")8月26日、machineの復活ライブが[Shibuya O-Eastで開催された](https://ja.wikipedia.org/wiki/Shibuya_O-EAST "wikilink")\[5\]。11月21日に[横浜BLITZ](../Page/横浜BLITZ.md "wikilink")のこけら落し公演としてライヴを行い\[6\]、11月25日には再起動後初のシングル「RED SUNDANCE」をリリース\[7\]\[8\]。
+[2004年](../Page/2004年.md "wikilink")8月26日、machineの復活ライブが[Shibuya O-Eastで開催された](../Page/Shibuya_O-EAST.md "wikilink")\[5\]。11月21日に[横浜BLITZ](../Page/横浜BLITZ.md "wikilink")のこけら落し公演としてライヴを行い\[6\]、11月25日には再起動後初のシングル「RED SUNDANCE」をリリース\[7\]\[8\]。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")4月、アルバム『superb』をリリースし、6月から全国ツアー「machine tour '05 LOUD ON SUPERB \!」（8カ所）を開催\[9\]。
+[2005年](../Page/2005年.md "wikilink")4月、アルバム『superb』をリリースし、6月から全国ツアー「machine tour '05 LOUD ON SUPERB \!」（8カ所）を開催\[9\]。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")7月4日、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")で開催された「[Japan Expo](https://ja.wikipedia.org/wiki/Japan_Expo "wikilink") 2008」に出演\[10\]。
 
@@ -17,7 +17,7 @@
 
 [Machine_20080704_Japan_Expo_032.jpg](https://ja.wikipedia.org/wiki/File:Machine_20080704_Japan_Expo_032.jpg "fig:Machine_20080704_Japan_Expo_032.jpg") [Machine_20080704_Japan_Expo_035.jpg](https://ja.wikipedia.org/wiki/File:Machine_20080704_Japan_Expo_035.jpg "fig:Machine_20080704_Japan_Expo_035.jpg") [Machine_20080704_Japan_Expo_007.jpg](https://ja.wikipedia.org/wiki/File:Machine_20080704_Japan_Expo_007.jpg "fig:Machine_20080704_Japan_Expo_007.jpg")
 
-  - **[HAKUEI](https://ja.wikipedia.org/wiki/HAKUEI "wikilink")**：[ヴォーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
+  - **[HAKUEI](../Page/HAKUEI.md "wikilink")**：[ヴォーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
 
 <!-- end list -->
 
@@ -35,11 +35,11 @@
   -
 
       -
-        [hide with Spread Beaver](https://ja.wikipedia.org/wiki/hide "wikilink")、[Lucy](https://ja.wikipedia.org/wiki/Lucy "wikilink")、元[media youth](https://ja.wikipedia.org/wiki/media_youth "wikilink")
+        [hide with Spread Beaver](https://ja.wikipedia.org/wiki/hide "wikilink")、[Lucy](../Page/Lucy.md "wikilink")、元[media youth](https://ja.wikipedia.org/wiki/media_youth "wikilink")
 
 ### サポートメンバー
 
-  - DEN：[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - DEN：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
 
 <!-- end list -->
 
@@ -61,11 +61,11 @@
 
 <!-- end list -->
 
-  - COLA：[マニピュレーター](https://ja.wikipedia.org/wiki/マニピュレーター "wikilink")
+  - COLA：[マニピュレーター](../Page/マニピュレーター.md "wikilink")
 
 ### 旧サポートメンバー
 
-  - [CHIROLYN](https://ja.wikipedia.org/wiki/CHIROLYN "wikilink")：ベース
+  - [CHIROLYN](../Page/CHIROLYN.md "wikilink")：ベース
 
 <!-- end list -->
 
@@ -76,14 +76,14 @@
 
 <!-- end list -->
 
-  - [宮脇“JOE”知史](https://ja.wikipedia.org/wiki/宮脇“JOE”知史 "wikilink")：ドラム
+  - [宮脇“JOE”知史](../Page/宮脇“JOE”知史.md "wikilink")：ドラム
 
 <!-- end list -->
 
   -
 
       -
-        [hide with Spread Beaver](https://ja.wikipedia.org/wiki/hide "wikilink")、Madbeavers、[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")、[44MAGNUM](https://ja.wikipedia.org/wiki/44MAGNUM "wikilink")
+        [hide with Spread Beaver](https://ja.wikipedia.org/wiki/hide "wikilink")、Madbeavers、[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")、[44MAGNUM](../Page/44MAGNUM.md "wikilink")
 
 <!-- end list -->
 
@@ -143,7 +143,7 @@
 <div class="NavContent">
 <ol>
 <li>Hero[4:01]（作詞：HAKUEI／作曲：Kiyoshi／編曲：machine）</li>
-<li>ダブルラブショック[4:31]（作詞：HAKUEI／作曲：<a href="https://ja.wikipedia.org/wiki/中崎英也" title="wikilink">中崎英也</a>／編曲：machine）</li>
+<li>ダブルラブショック[4:31]（作詞：HAKUEI／作曲：<a href="../Page/中崎英也.md" title="wikilink">中崎英也</a>／編曲：machine）</li>
 <li>Hero (カラオケ)[4:01]</li>
 </ol></td>
 <td><p>ソニーレコード</p></td>
@@ -598,7 +598,7 @@ Phantom of the end 裏PV<br />
   - [PENICILLIN](../Page/PENICILLIN.md "wikilink")
   - [hide with Spread Beaver](https://ja.wikipedia.org/wiki/hide "wikilink")
   - [media youth](https://ja.wikipedia.org/wiki/media_youth "wikilink")
-  - [Lucy](https://ja.wikipedia.org/wiki/Lucy "wikilink")
+  - [Lucy](../Page/Lucy.md "wikilink")
   - [BY-SEXUAL](../Page/BY-SEXUAL.md "wikilink")
   - [ZIGZO](../Page/ZIGZO.md "wikilink")
 

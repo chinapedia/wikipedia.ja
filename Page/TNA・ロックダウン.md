@@ -1,11 +1,11 @@
 > この記事は[TNA](https://ja.wikipedia.org/wiki/TNA)から翻訳されています。
 
 
-**TNA・ロックダウン**(*Lockdown*)は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[プロレス](../Page/プロレス.md "wikilink")団体、[TNAが主宰する](https://ja.wikipedia.org/wiki/TNAレスリング "wikilink")[プロレス](../Page/プロレス.md "wikilink")の興行、およびそれを取り扱った[PPVの名称](https://ja.wikipedia.org/wiki/ペイ・パー・ビュー "wikilink")。
+**TNA・ロックダウン**(*Lockdown*)は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[プロレス](../Page/プロレス.md "wikilink")団体、[TNAが主宰する](https://ja.wikipedia.org/wiki/TNAレスリング "wikilink")[プロレス](../Page/プロレス.md "wikilink")の興行、およびそれを取り扱った[PPVの名称](../Page/ペイ・パー・ビュー.md "wikilink")。
 
-開催時期は4月。第一回大会は[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に開催された。元々TNAは週一回のPPV形態を取っていたが、現在のような[TNA iMPACT\!](https://ja.wikipedia.org/wiki/TNA・インパクト "wikilink")、Xplosion、月一の3時間PPV体勢になってから新たに開催されるようになったPPVである。興行の大きな特徴としては、開催される全ての試合が金網[デスマッチ](../Page/デスマッチ.md "wikilink")であるということである。
+開催時期は4月。第一回大会は[2005年](../Page/2005年.md "wikilink")に開催された。元々TNAは週一回のPPV形態を取っていたが、現在のような[TNA iMPACT\!](https://ja.wikipedia.org/wiki/TNA・インパクト "wikilink")、Xplosion、月一の3時間PPV体勢になってから新たに開催されるようになったPPVである。興行の大きな特徴としては、開催される全ての試合が金網[デスマッチ](../Page/デスマッチ.md "wikilink")であるということである。
 
-開催場所については、TNAのほかの興行同様[フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")[オーランド](https://ja.wikipedia.org/wiki/オーランド "wikilink")の[ユニバーサル・スタジオ・フロリダ](../Page/ユニバーサル・スタジオ・フロリダ.md "wikilink")に固定されている。
+開催場所については、TNAのほかの興行同様[フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")[オーランド](../Page/オーランド.md "wikilink")の[ユニバーサル・スタジオ・フロリダ](../Page/ユニバーサル・スタジオ・フロリダ.md "wikilink")に固定されている。
 
 ## 第一回大会（2005年）
 
@@ -52,7 +52,7 @@
 <!-- end list -->
 
   - 6人タッグマッチ
-    プラネット・ジャレット（[ジェフ・ジャレット](../Page/ジェフ・ジャレット.md "wikilink")&[モンティ・ブラウン](https://ja.wikipedia.org/wiki/モンティ・ブラウン "wikilink")&[ジ・アウトロー](../Page/モンティ・ソップ.md "wikilink")）● vs [ショーン・ウォルトマン](https://ja.wikipedia.org/wiki/ショーン・ウォルトマン "wikilink")&[ダイヤモンド・ダラス・ペイジ](../Page/ダイヤモンド・ダラス・ペイジ.md "wikilink")&[BGジェイムス](../Page/ブライアン・ジェイムス.md "wikilink")○
+    プラネット・ジャレット（[ジェフ・ジャレット](../Page/ジェフ・ジャレット.md "wikilink")&[モンティ・ブラウン](../Page/モンティ・ブラウン.md "wikilink")&[ジ・アウトロー](../Page/モンティ・ソップ.md "wikilink")）● vs [ショーン・ウォルトマン](../Page/ショーン・ウォルトマン.md "wikilink")&[ダイヤモンド・ダラス・ペイジ](../Page/ダイヤモンド・ダラス・ペイジ.md "wikilink")&[BGジェイムス](../Page/ブライアン・ジェイムス.md "wikilink")○
 
 <!-- end list -->
 

@@ -1,7 +1,7 @@
 > この記事は[ABB](https://ja.wikipedia.org/wiki/ABB)から翻訳されています。
 
 
-**ABBグループ** （**Asea Brown Boveri**、**アセア・ブラウン・ボベリ**）は、[電力](../Page/電力.md "wikilink")関連、重電、[重工業](https://ja.wikipedia.org/wiki/重工業 "wikilink")を主たる業とする、[スイス](../Page/スイス.md "wikilink")に本社を置く[多国籍企業](../Page/多国籍企業.md "wikilink")で、100カ国以上に進出している。1988年にスウェーデンの[アセア](https://ja.wikipedia.org/wiki/アセア "wikilink")とスイスの[ブラウン・ボベリ](https://ja.wikipedia.org/wiki/ブラウン・ボベリ "wikilink")が合併して成立した。[ファナック](https://ja.wikipedia.org/wiki/ファナック "wikilink")、[安川電機](../Page/安川電機.md "wikilink")、[クーカ](https://ja.wikipedia.org/wiki/クーカ "wikilink")と並んで世界4大[産業用ロボット](https://ja.wikipedia.org/wiki/産業用ロボット "wikilink")メーカーのひとつ\[1\]。
+**ABBグループ** （**Asea Brown Boveri**、**アセア・ブラウン・ボベリ**）は、[電力](../Page/電力.md "wikilink")関連、重電、[重工業](https://ja.wikipedia.org/wiki/重工業 "wikilink")を主たる業とする、[スイス](../Page/スイス.md "wikilink")に本社を置く[多国籍企業](../Page/多国籍企業.md "wikilink")で、100カ国以上に進出している。1988年にスウェーデンの[アセア](https://ja.wikipedia.org/wiki/アセア "wikilink")とスイスの[ブラウン・ボベリ](https://ja.wikipedia.org/wiki/ブラウン・ボベリ "wikilink")が合併して成立した。[ファナック](../Page/ファナック.md "wikilink")、[安川電機](../Page/安川電機.md "wikilink")、[クーカ](../Page/クーカ.md "wikilink")と並んで世界4大[産業用ロボット](../Page/産業用ロボット.md "wikilink")メーカーのひとつ\[1\]。
 
 ## 概要
 
@@ -12,12 +12,12 @@ ABBは2つの事業部に分かれており、電力技術部門は、[送電](.
   - 1890年 [スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")の首都[ストックホルム](../Page/ストックホルム.md "wikilink")で[アセア](https://ja.wikipedia.org/wiki/アセア "wikilink")社が合併により設立。
   - 1891年 スイスの[バーデンで](https://ja.wikipedia.org/wiki/バーデン_\(スイス\) "wikilink")[ブラウン・ボベリ](https://ja.wikipedia.org/wiki/ブラウン・ボベリ "wikilink")社設立。
   - 1988年 両社合併により**アセア・ブラウン・ボベリ**社設立（[セシュロン](https://ja.wikipedia.org/wiki/セシュロン "wikilink")を参照）
-  - 1989年 アメリカ・[ウェスティングハウス・エレクトリック](https://ja.wikipedia.org/wiki/ウェスティングハウス・エレクトリック "wikilink")社の[変電](https://ja.wikipedia.org/wiki/変電 "wikilink")、送配電部門を買収。
+  - 1989年 アメリカ・[ウェスティングハウス・エレクトリック](../Page/ウェスティングハウス・エレクトリック.md "wikilink")社の[変電](https://ja.wikipedia.org/wiki/変電 "wikilink")、送配電部門を買収。
   - 1990年 [コンバッション・エンジニアリング](https://ja.wikipedia.org/wiki/コンバッション・エンジニアリング "wikilink")を子会社化。
   - 2000年 [オランダと](https://ja.wikipedia.org/wiki/:en:TenneT "wikilink")[ノルウェーの送電網を国際連系する高圧直流送電線](https://ja.wikipedia.org/wiki/:en:Statnett "wikilink")[ノルネドの敷設を受注](https://ja.wikipedia.org/wiki/:en:NorNed "wikilink")。2006-2007年にかけて作業。
   - 2001年 [ニューヨーク証券取引所](../Page/ニューヨーク証券取引所.md "wikilink")に上場。
   - 2006年 ロボット事業の本社を米国[デトロイト](../Page/デトロイト.md "wikilink")から[中国の](../Page/中華人民共和国.md "wikilink")[上海](https://ja.wikipedia.org/wiki/上海 "wikilink")に移転\[2\]\[3\]。
-  - 2007年 ミハエル（Michael Treschow）が重役と[ユニリーバ](https://ja.wikipedia.org/wiki/ユニリーバ "wikilink")会長を兼任するようになる。
+  - 2007年 ミハエル（Michael Treschow）が重役と[ユニリーバ](../Page/ユニリーバ.md "wikilink")会長を兼任するようになる。
   - 2010年 オートメーション・ロボティクス事業部をプロセスオートメーション事業部とオートメーション・モーション事業部に再編。低電圧機器授業部とパワープロダクト事業部、パワーシステム事業部に加えて五事業部体制に。
   - 2013年 アメリカの太陽光発電用インバータメーカーのパワーワンを買収\[4\]。
   - 2015年 ドイツの産業用ロボットメーカーGomtecを買収\[5\]。
@@ -34,7 +34,7 @@ ABBは2つの事業部に分かれており、電力技術部門は、[送電](.
 
 ## その他（映画出演）
 
-  - 「[ターミネーター4](https://ja.wikipedia.org/wiki/ターミネーター4 "wikilink")」（[マックG](https://ja.wikipedia.org/wiki/マックG "wikilink")監督）にはABBの産業用ロボットが出演している\[12\]。
+  - 「[ターミネーター4](../Page/ターミネーター4.md "wikilink")」（[マックG](https://ja.wikipedia.org/wiki/マックG "wikilink")監督）にはABBの産業用ロボットが出演している\[12\]。
   - 自動車レースの[フォーミュラE](https://ja.wikipedia.org/wiki/フォーミュラE "wikilink")では、[2017 - 2018シーズンの途中よりシリーズ全体の冠スポンサーとなっている](https://ja.wikipedia.org/wiki/2017年-18年のフォーミュラE "wikilink")\[13\]。
   - 米国のスタートアップにてピザを焼くロボットとして活躍している。2020年2月25日 米国ニューヨークタイムズ
 

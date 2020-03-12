@@ -30,9 +30,9 @@
 
 その後、Gu.たろうが脱退。2004年4月1日より[S'CUBEに所属し同年](../Page/フリーウィル.md "wikilink")6月に初のMini Album「ルービックキューブ」を発表。 Gu.たろうの脱退後4人で活動していたが、2004年12月31日よりGu.優(ex.ナイトバロン)が加入。 公式に発表などは無かったが優の加入時に「かずき」の表記は「一樹」に変わっている。
 
-2006年11月17日 [Shibuya O-WESTワンマンライブをもってDr](https://ja.wikipedia.org/wiki/Shibuya_O-WEST "wikilink").けいとが脱退、バンドは冷却期間に入る。\[1\]それに伴い発売を予定していた1st Full Albumが延期になった。 2007年4月にドラム・由女が加入し、\[2\]2007年5月21日「Ruvie presents 三部主催3Live Chain 第一部『狂騒と沈黙』Shibuya O-WEST」にて復活ライブを行う。てまり→手鞠、つばめ→燕、そしてバンド名をるう゛ぃえから**Ruvie**へ表記変更。
+2006年11月17日 [Shibuya O-WESTワンマンライブをもってDr](../Page/Shibuya_O-WEST.md "wikilink").けいとが脱退、バンドは冷却期間に入る。\[1\]それに伴い発売を予定していた1st Full Albumが延期になった。 2007年4月にドラム・由女が加入し、\[2\]2007年5月21日「Ruvie presents 三部主催3Live Chain 第一部『狂騒と沈黙』Shibuya O-WEST」にて復活ライブを行う。てまり→手鞠、つばめ→燕、そしてバンド名をるう゛ぃえから**Ruvie**へ表記変更。
 
-2008年3月29日 [SHIBUYA BOXXワンマンライブ](https://ja.wikipedia.org/wiki/SHIBUYA_BOXX "wikilink")『Any the strange. FINAL \[exotica\]』にて7月14日の[Shibuya O-EASTでのワンマンライブをもっての解散を発表](https://ja.wikipedia.org/wiki/Shibuya_O-EAST "wikilink")。 2008年7月14日 Shibuya O-EASTワンマンライブ『world end.』にて解散。
+2008年3月29日 [SHIBUYA BOXXワンマンライブ](../Page/SHIBUYA_BOXX.md "wikilink")『Any the strange. FINAL \[exotica\]』にて7月14日の[Shibuya O-EASTでのワンマンライブをもっての解散を発表](../Page/Shibuya_O-EAST.md "wikilink")。 2008年7月14日 Shibuya O-EASTワンマンライブ『world end.』にて解散。
 
 ## 活動履歴
 
@@ -79,10 +79,10 @@
 
   - 1月8日〜1月14日…主催イベントツアー「究極三角締〜アルティメットトライアングル〜」
   - 3月11日〜4月11日…イベントツアー「Tour L“循環”R」
-  - 4月29日…[SHIBUYA BOXX](https://ja.wikipedia.org/wiki/SHIBUYA_BOXX "wikilink") ワンマンライブ「L“room”R」
+  - 4月29日…[SHIBUYA BOXX](../Page/SHIBUYA_BOXX.md "wikilink") ワンマンライブ「L“room”R」
   - 6月4日〜7月19日…主催イベントツアー「究極四角締〜アルティメットスクエア〜」
   - 8月4,5日…池袋CYBER 2Daysワンマンライブ「質量を持った白昼夢」「質量を失った黒昼夢」
-  - 11月17日…[Shibuya O-WEST](https://ja.wikipedia.org/wiki/Shibuya_O-WEST "wikilink") ワンマンライブ「知恵の実の擬似描写」
+  - 11月17日…[Shibuya O-WEST](../Page/Shibuya_O-WEST.md "wikilink") ワンマンライブ「知恵の実の擬似描写」
 
 <!-- end list -->
 
@@ -102,7 +102,7 @@
   - 1月29日〜2月28日…Live chain\#2008 Winter『Any the strange.』
   - 3月29日…SHIBUYA BOXX ワンマンライブ Live chain\#2008 Winter『Any the strange.FINAL』\[exotica\]
   - 6月10,15,16,24日…東名阪 Last chain『Picture's』
-  - 7月14日…[Shibuya O-EAST](https://ja.wikipedia.org/wiki/Shibuya_O-EAST "wikilink") LAST One Man『world end.』
+  - 7月14日…[Shibuya O-EAST](../Page/Shibuya_O-EAST.md "wikilink") LAST One Man『world end.』
 
 ## 作品
 

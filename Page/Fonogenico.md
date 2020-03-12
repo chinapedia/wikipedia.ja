@@ -1,20 +1,20 @@
 > この記事は[Fonogenico](https://ja.wikipedia.org/wiki/Fonogenico)から翻訳されています。
 
 
-**Fonogenico**（フォノジェニコ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")。[BMG JAPANに所属](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。
+**Fonogenico**（フォノジェニコ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。[BMG JAPANに所属](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。
 
 ## 概要・来歴
 
   - [2002年](../Page/2002年.md "wikilink") ライブ活動や楽曲制作を開始
   - [2003年](../Page/2003年.md "wikilink") Fonogenicoとして活動開始
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") メジャーデビュー
+  - [2005年](../Page/2005年.md "wikilink") メジャーデビュー
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") 川口潤が脱退
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink") 活動停止
 
 ## メンバー
 
   - **高山奈帆子**（たかやま なおこ、[12月17日](../Page/12月17日.md "wikilink") - ）
-      - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")担当。[和歌山県](../Page/和歌山県.md "wikilink")出身。血液型はA型。
+      - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[作詞](../Page/作詞.md "wikilink")担当。[和歌山県](../Page/和歌山県.md "wikilink")出身。血液型はA型。
 
 ### 旧メンバー
 
@@ -43,7 +43,7 @@
 <td><p><strong>Reason</strong></p></td>
 <td><p>BVCR-19071</p></td>
 <td><ol>
-<li>Reason: <a href="../Page/TBSテレビ.md" title="wikilink">TBS系アニメ</a>『<a href="https://ja.wikipedia.org/wiki/XXXHOLiC" title="wikilink">XXXHOLiC</a>』エンディングテーマ</li>
+<li>Reason: <a href="../Page/TBSテレビ.md" title="wikilink">TBS系アニメ</a>『<a href="../Page/XXXHOLiC.md" title="wikilink">XXXHOLiC</a>』エンディングテーマ</li>
 <li>lovers</li>
 <li><a href="https://ja.wikipedia.org/wiki/ノーサイド_(曲)" title="wikilink">ノーサイド</a> -additional track- <a href="../Page/毎日放送.md" title="wikilink">毎日放送</a>『第85回<a href="https://ja.wikipedia.org/wiki/全国高校ラグビー大会" title="wikilink">全国高校ラグビー大会</a>』公式テーマソング（<a href="../Page/松任谷由実.md" title="wikilink">松任谷由実</a>のカバー）</li>
 </ol></td>
@@ -55,7 +55,7 @@
 <td><p><strong>リズム</strong></p></td>
 <td><p>BVCR-19073</p></td>
 <td><ol>
-<li>リズム:TBS系『<a href="https://ja.wikipedia.org/wiki/COUNT_DOWN_TV" title="wikilink">CDTV</a>』2006年7月度エンディングテーマ</li>
+<li>リズム:TBS系『<a href="../Page/COUNT_DOWN_TV.md" title="wikilink">CDTV</a>』2006年7月度エンディングテーマ</li>
 <li>Shalala</li>
 <li>One Day Afternoon</li>
 </ol></td>
@@ -70,7 +70,7 @@
 <li>オレンジの砂</li>
 <li>オーロラパーティー</li>
 <li>6月の絵画</li>
-<li>(エンハンスド)ねがいごと Video Clip: <a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ系</a>『<a href="https://ja.wikipedia.org/wiki/百鬼夜行抄" title="wikilink">百鬼夜行抄</a>』主題歌（<a href="https://ja.wikipedia.org/wiki/ミュージック・ビデオ" title="wikilink">ビデオ・クリップ収録</a>）</li>
+<li>(エンハンスド)ねがいごと Video Clip: <a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ系</a>『<a href="../Page/百鬼夜行抄.md" title="wikilink">百鬼夜行抄</a>』主題歌（<a href="../Page/ミュージック・ビデオ.md" title="wikilink">ビデオ・クリップ収録</a>）</li>
 </ol></td>
 <td><p>オリコン圏外</p></td>
 </tr>
@@ -114,7 +114,7 @@
 <td><p>BVCR-18093</p></td>
 <td><ol>
 <li>Reason</li>
-<li>ねがいごと: 日本テレビ系ドラマ『<a href="https://ja.wikipedia.org/wiki/百鬼夜行抄" title="wikilink">百鬼夜行抄</a>』主題歌</li>
+<li>ねがいごと: 日本テレビ系ドラマ『<a href="../Page/百鬼夜行抄.md" title="wikilink">百鬼夜行抄</a>』主題歌</li>
 <li>遠い街</li>
 <li>lovers</li>
 <li>Free</li>

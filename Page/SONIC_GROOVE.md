@@ -1,7 +1,7 @@
 > この記事は[SONIC GROOVE](https://ja.wikipedia.org/wiki/SONIC_GROOVE)から翻訳されています。
 
 
-**SONIC GROOVE**（ソニック・グルーヴ）は、[エイベックス・エンタテインメント](../Page/エイベックス・エンタテインメント.md "wikilink")の[レコードレーベル](../Page/レコードレーベル.md "wikilink")。日本の[芸能事務所](../Page/芸能事務所.md "wikilink")・[ライジングプロダクション](https://ja.wikipedia.org/wiki/ライジングプロダクション "wikilink")の所属アーティスト専用の[社内レーベルで](../Page/社内カンパニー.md "wikilink")、同事務所所属アーティストの多くがこのレーベルを使用している。[2000年](../Page/2000年.md "wikilink")設置。厳密には[avex trax内のサブレーベルである](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。第1弾作品は[EARTHのデビューシングル](https://ja.wikipedia.org/wiki/EARTH_\(歌手グループ\) "wikilink")「[time after time](https://ja.wikipedia.org/wiki/time_after_time_\(EARTHの曲\) "wikilink")」。レーベルのロゴは「**''SONIC GROOVE**''」と斜字体のもので、横1列表記と単語で区切った2段表記のものがある。[製品番号はAVCD](https://ja.wikipedia.org/wiki/規格品番 "wikilink")-16\*\*\*(CD)、AVBD-16\*\*\*(DVD)、AVXD-16\*\*\*(BD)。メーカー別記号（略称）は主に**SGR**、**SG**\[1\]。なお、イギリスの同名レーベル「Sonic Groove Records」とは特に関係はない。
+**SONIC GROOVE**（ソニック・グルーヴ）は、[エイベックス・エンタテインメント](../Page/エイベックス・エンタテインメント.md "wikilink")の[レコードレーベル](../Page/レコードレーベル.md "wikilink")。日本の[芸能事務所](../Page/芸能事務所.md "wikilink")・[ライジングプロダクション](../Page/ライジングプロダクション.md "wikilink")の所属アーティスト専用の[社内レーベルで](../Page/社内カンパニー.md "wikilink")、同事務所所属アーティストの多くがこのレーベルを使用している。[2000年](../Page/2000年.md "wikilink")設置。厳密には[avex trax内のサブレーベルである](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。第1弾作品は[EARTHのデビューシングル](../Page/EARTH_\(歌手グループ\).md "wikilink")「[time after time](https://ja.wikipedia.org/wiki/time_after_time_\(EARTHの曲\) "wikilink")」。レーベルのロゴは「**''SONIC GROOVE**''」と斜字体のもので、横1列表記と単語で区切った2段表記のものがある。[製品番号はAVCD](../Page/規格品番.md "wikilink")-16\*\*\*(CD)、AVBD-16\*\*\*(DVD)、AVXD-16\*\*\*(BD)。メーカー別記号（略称）は主に**SGR**、**SG**\[1\]。なお、イギリスの同名レーベル「Sonic Groove Records」とは特に関係はない。
 
 ## 所属アーティスト
 
@@ -42,7 +42,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/三浦大知" title="wikilink">三浦大知</a></p></td>
+<td><p><a href="../Page/三浦大知.md" title="wikilink">三浦大知</a></p></td>
 <td><p>2005年-<br />
 (<a href="https://ja.wikipedia.org/wiki/avex_tune" title="wikilink">avex tuneより移籍</a>)</p></td>
 <td><p>-</p></td>
@@ -62,7 +62,7 @@
 SoulJaはソロとしては<a href="https://ja.wikipedia.org/wiki/cutting_edge" title="wikilink">cutting edgeに所属</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/DA_PUMP" title="wikilink">DA PUMP</a></p></td>
+<td><p><a href="../Page/DA_PUMP.md" title="wikilink">DA PUMP</a></p></td>
 <td><p>2011年-<br />
 (avex tuneより移籍)</p></td>
 <td><p>ISSAのみ2010年よりISSA×SoulJaとして使用</p></td>
@@ -128,7 +128,7 @@ SoulJaはソロとしては<a href="https://ja.wikipedia.org/wiki/cutting_edge" 
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/EARTH_(歌手グループ)" title="wikilink">EARTH</a></p></td>
+<td><p><a href="../Page/EARTH_(歌手グループ).md" title="wikilink">EARTH</a></p></td>
 <td><p>2000年-2005年</p></td>
 <td><p>2002年4月以降はリリースなし<br />
 2005年1月解散</p></td>
@@ -156,19 +156,19 @@ SoulJaはソロとしては<a href="https://ja.wikipedia.org/wiki/cutting_edge" 
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/松岡桂花" title="wikilink">松岡桂花</a></p></td>
+<td><p><a href="../Page/松岡桂花.md" title="wikilink">松岡桂花</a></p></td>
 <td><p>2007年4月グループ脱退</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/AKINA_(歌手)" title="wikilink">AKINA</a></p></td>
+<td><p><a href="../Page/AKINA_(歌手).md" title="wikilink">AKINA</a></p></td>
 <td><p>2005年-2010年<br />
 (avex tuneより移籍)</p></td>
 <td><p>移籍後に単独名義でのリリースはなかった<br />
 2010年秋頃所属事務所を業務提携先であった<a href="../Page/K-point_(芸能プロダクション).md" title="wikilink">K-pointへ移籍</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ASIAN2" title="wikilink">ASIAN2</a></p></td>
+<td><p><a href="../Page/ASIAN2.md" title="wikilink">ASIAN2</a></p></td>
 <td><p>2006年-2009年</p></td>
 <td><p>2009年cutting edgeへ移籍<br />
 所属事務所はエイベックスへ移籍<br />
@@ -193,7 +193,7 @@ SoulJaはソロとしては<a href="https://ja.wikipedia.org/wiki/cutting_edge" 
 所属事務所はTribal Notesへ移籍</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/三浦涼介" title="wikilink">三浦涼介</a></p></td>
+<td><p><a href="../Page/三浦涼介.md" title="wikilink">三浦涼介</a></p></td>
 <td><p>2012年-2016年</p></td>
 <td><p>系列事務所のぱれっとへの移籍・独立を経て現在はローズミュージック所属</p></td>
 </tr>
@@ -894,7 +894,7 @@ SoulJaはソロとしては<a href="https://ja.wikipedia.org/wiki/cutting_edge" 
 <td><p>16092</p></td>
 <td><p>CDアルバム</p></td>
 <td><p>HINOIチーム</p></td>
-<td><p>SUPER EURO PARTY(Supported by <a href="https://ja.wikipedia.org/wiki/長州小力" title="wikilink">コリッキー</a>)(DVD付)</p></td>
+<td><p>SUPER EURO PARTY(Supported by <a href="../Page/長州小力.md" title="wikilink">コリッキー</a>)(DVD付)</p></td>
 <td><p>2006年3月15日</p></td>
 </tr>
 <tr class="odd">
@@ -4201,7 +4201,7 @@ SoulJaはソロとしては<a href="https://ja.wikipedia.org/wiki/cutting_edge" 
 
   - [avex tune](https://ja.wikipedia.org/wiki/avex_tune "wikilink")
   - [RISING RECORDS](https://ja.wikipedia.org/wiki/RISING_RECORDS "wikilink")
-  - [ライジングプロダクション](https://ja.wikipedia.org/wiki/ライジングプロダクション "wikilink")
+  - [ライジングプロダクション](../Page/ライジングプロダクション.md "wikilink")
 
 ## 外部リンク
 

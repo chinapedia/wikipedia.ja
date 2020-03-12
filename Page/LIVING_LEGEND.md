@@ -15,7 +15,7 @@
 
 ## 収録曲
 
-1.  **HEAVY METAL IS DEAD**（作詞・作曲:[デーモン小暮](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink")、編曲: [聖飢魔II](../Page/聖飢魔II.md "wikilink")、[松崎雄一](https://ja.wikipedia.org/wiki/松崎雄一 "wikilink")）
+1.  **HEAVY METAL IS DEAD**（作詞・作曲:[デーモン小暮](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink")、編曲: [聖飢魔II](../Page/聖飢魔II.md "wikilink")、[松崎雄一](../Page/松崎雄一.md "wikilink")）
 2.  **SILENCE OR VIOLENCE?**（作詞・作曲:[ルーク篁](../Page/ルーク篁.md "wikilink")、編曲:聖飢魔II、松崎雄一）
 3.  **GLORIA GLORIA**（作詞・作曲:ルーク篁、編曲:聖飢魔II、松崎雄一）
 4.  **戦慄のドナドナ**（作詞:デーモン小暮、作曲:ルーク篁、編曲:聖飢魔II、松崎雄一）
@@ -44,12 +44,12 @@
   - [DEMON KOGURE](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink") - [VOCALS](https://ja.wikipedia.org/wiki/ボーカル "wikilink"), GIMMICKS
   - [ACE SHIMIZU](../Page/ACE_\(ミュージシャン\).md "wikilink") - [GUITARS](../Page/ギター.md "wikilink"), VOCALS
   - [Sgt. LUKE TAKAMURA III](../Page/ルーク篁.md "wikilink") - GUITARS, VOCALS
-  - [XENON ISHIKAWA](../Page/石川俊介.md "wikilink") - [BASS](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink"), [CHORUS](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
-  - [RAIDEN YUZAWA](https://ja.wikipedia.org/wiki/雷電湯澤 "wikilink") - [DRUMS](https://ja.wikipedia.org/wiki/ドラムス "wikilink"), CHORUS
+  - [XENON ISHIKAWA](../Page/石川俊介.md "wikilink") - [BASS](../Page/ベース_\(弦楽器\).md "wikilink"), [CHORUS](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
+  - [RAIDEN YUZAWA](../Page/雷電湯澤.md "wikilink") - [DRUMS](https://ja.wikipedia.org/wiki/ドラムス "wikilink"), CHORUS
 
 <!-- end list -->
 
-  - [KAIJIN MATSUZAKISAMA](https://ja.wikipedia.org/wiki/松崎雄一 "wikilink") - [KEYBOARDS](../Page/キーボード_\(楽器\).md "wikilink"), [SYNTHESIZER](../Page/シンセサイザー.md "wikilink") PROGRAMMING, CHORUS, CO-PRODUCE
+  - [KAIJIN MATSUZAKISAMA](../Page/松崎雄一.md "wikilink") - [KEYBOARDS](../Page/キーボード_\(楽器\).md "wikilink"), [SYNTHESIZER](../Page/シンセサイザー.md "wikilink") PROGRAMMING, CHORUS, CO-PRODUCE
 
 <!-- end list -->
 

@@ -1,15 +1,15 @@
 > この記事は[Time after time -HIP HOP SOUL Version-](https://ja.wikipedia.org/wiki/Time_after_time_-HIP_HOP_SOUL_Version-)から翻訳されています。
 
 
-「**time after time -HIP HOP SOUL Version-**」（タイム・アフター・タイム・ヒップ・ホップ・ソウル・バージョン）は、日本の歌手グループ、[EARTHの](https://ja.wikipedia.org/wiki/EARTH_\(歌手グループ\) "wikilink")2枚目のシングル。[2000年](../Page/2000年.md "wikilink")[6月7日](../Page/6月7日.md "wikilink")発売。
+「**time after time -HIP HOP SOUL Version-**」（タイム・アフター・タイム・ヒップ・ホップ・ソウル・バージョン）は、日本の歌手グループ、[EARTHの](../Page/EARTH_\(歌手グループ\).md "wikilink")2枚目のシングル。[2000年](../Page/2000年.md "wikilink")[6月7日](../Page/6月7日.md "wikilink")発売。
 
 ## 解説
 
-  - 3曲目では、当時[インディーズ](../Page/インディーズ.md "wikilink")で活動していた[KICK THE CAN CREWの](https://ja.wikipedia.org/wiki/KICK_THE_CAN_CREW "wikilink")[KREVA](https://ja.wikipedia.org/wiki/KREVA "wikilink")と[MCUが参加している](https://ja.wikipedia.org/wiki/MCU_\(ラッパー\) "wikilink")。
+  - 3曲目では、当時[インディーズ](../Page/インディーズ.md "wikilink")で活動していた[KICK THE CAN CREWの](../Page/KICK_THE_CAN_CREW.md "wikilink")[KREVA](../Page/KREVA.md "wikilink")と[MCUが参加している](../Page/MCU_\(ラッパー\).md "wikilink")。
 
 ## タイアップ
 
-  - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")『M-mania』5月度オープニングテーマ曲。
+  - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")[音楽番組](../Page/音楽番組.md "wikilink")『M-mania』5月度オープニングテーマ曲。
 
 ## 収録曲
 

@@ -1,7 +1,7 @@
 > この記事は[Chaco](https://ja.wikipedia.org/wiki/Chaco)から翻訳されています。
 
 
-**Chaco**（ちゃこ、[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[ケータイ小説](https://ja.wikipedia.org/wiki/ケータイ小説 "wikilink")家。[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")出身。[血液型はA型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+**Chaco**（ちゃこ、[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[ケータイ小説](../Page/ケータイ小説.md "wikilink")家。[大阪府](../Page/大阪府.md "wikilink")出身。[血液型はA型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
 
 ## 概要
 

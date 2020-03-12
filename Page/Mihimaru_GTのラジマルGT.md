@@ -1,14 +1,14 @@
 > この記事は[Mihimaru GTGT](https://ja.wikipedia.org/wiki/Mihimaru_GTGT)から翻訳されています。
 
 
-**mihimaru GTのラジマルGT**（**ミヒマルジーティーのラジマルジーティー**）は、[mihimaru GTの](https://ja.wikipedia.org/wiki/mihimaru_GT "wikilink")[hiroko](https://ja.wikipedia.org/wiki/hiroko "wikilink")と[miyake](https://ja.wikipedia.org/wiki/miyake "wikilink")（不定期出演）、[古坂大魔王](../Page/古坂大魔王.md "wikilink")がパーソナリティを務める[ラジオ](../Page/ラジオ.md "wikilink")番組。[2007年](../Page/2007年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に放送開始、[2011年](../Page/2011年.md "wikilink")[9月](../Page/9月.md "wikilink")終了。mihimaru GTにとって初の全国レギュラー番組となる。2009年4月現在[JFN系列のうち](https://ja.wikipedia.org/wiki/全国FM放送協議会 "wikilink")24局で放送している。地域によって放送日・時刻が異なり、しかもキー局の[TOKYO FMでは流れない](../Page/エフエム東京.md "wikilink")（放送を望む投稿がされたことがある）。放送時間が30分間の地域と25分間の地域があるが、25分間の場合はエンディングのトークがカットされている。
+**mihimaru GTのラジマルGT**（**ミヒマルジーティーのラジマルジーティー**）は、[mihimaru GTの](https://ja.wikipedia.org/wiki/mihimaru_GT "wikilink")[hiroko](https://ja.wikipedia.org/wiki/hiroko "wikilink")と[miyake](https://ja.wikipedia.org/wiki/miyake "wikilink")（不定期出演）、[古坂大魔王](../Page/古坂大魔王.md "wikilink")がパーソナリティを務める[ラジオ](../Page/ラジオ.md "wikilink")番組。[2007年](../Page/2007年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に放送開始、[2011年](../Page/2011年.md "wikilink")[9月](../Page/9月.md "wikilink")終了。mihimaru GTにとって初の全国レギュラー番組となる。2009年4月現在[JFN系列のうち](../Page/全国FM放送協議会.md "wikilink")24局で放送している。地域によって放送日・時刻が異なり、しかもキー局の[TOKYO FMでは流れない](../Page/エフエム東京.md "wikilink")（放送を望む投稿がされたことがある）。放送時間が30分間の地域と25分間の地域があるが、25分間の場合はエンディングのトークがカットされている。
 
-番組中は[BGMとして](https://ja.wikipedia.org/wiki/バックグラウンドミュージック "wikilink")、mihimaru GTの楽曲のインストが流れる。各コーナーの合間には、出演者の楽曲やお薦めの楽曲（時にゲストの楽曲）を流す。miyakeは楽曲制作で忙しいため、不定期の出演となっている（電話で出演することもある）が、出演しない回でも選曲のみする場合がある。
+番組中は[BGMとして](../Page/バックグラウンドミュージック.md "wikilink")、mihimaru GTの楽曲のインストが流れる。各コーナーの合間には、出演者の楽曲やお薦めの楽曲（時にゲストの楽曲）を流す。miyakeは楽曲制作で忙しいため、不定期の出演となっている（電話で出演することもある）が、出演しない回でも選曲のみする場合がある。
 
 ## コーナー（2007年～）
 
   - オープニングトーク
-      - 主にhirokoによるフリートークだが、まれにmiyakeや古坂が務める場合がある。古坂の笑い声やツッコミが入る。オチが付いたところでタイトルコールと「[気分上々↑↑](https://ja.wikipedia.org/wiki/気分上々↑↑ "wikilink")」の[インスト](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")（冒頭のサビだけ歌入り）が流れる。
+      - 主にhirokoによるフリートークだが、まれにmiyakeや古坂が務める場合がある。古坂の笑い声やツッコミが入る。オチが付いたところでタイトルコールと「[気分上々↑↑](../Page/気分上々↑↑.md "wikilink")」の[インスト](../Page/器楽曲.md "wikilink")（冒頭のサビだけ歌入り）が流れる。
   - メール紹介
       - リスナーからの投稿や質問を紹介。時々「メールフェスティバル」と題していつもより多くメールを読む回がある。この時古坂とhirokoは[サンバのリズムを口ずさむ](../Page/サンバ_\(ブラジル\).md "wikilink")。特に以下の2つのテーマで投稿されるときがあった。
       - 「特許募集」
@@ -27,7 +27,7 @@
   - 「ラジマチック天国」
       - ライブで各都道府県の制覇を目標としているmihimaru GTのために、各地方の紹介や情報を募集。登場回数は少ない。
   - 「11･24@武道館」
-      - mihimaru GTが2008年11月24日の、[武道館ライブでやってほしいことを募集](https://ja.wikipedia.org/wiki/日本武道館 "wikilink")。ライブが終了した現在はやっていない。
+      - mihimaru GTが2008年11月24日の、[武道館ライブでやってほしいことを募集](../Page/日本武道館.md "wikilink")。ライブが終了した現在はやっていない。
   - 「ミステイクコンテスト！略して、ミスコン！」
       - hirokoが普段するような、言葉の言い間違いのエピソードを募集。
   - 「mihimaru voice」
@@ -36,14 +36,14 @@
   - 「逆にトシヤ」
       - mihimaru GTのマネージャーの口癖にちなみ、イライラするような間違った「逆に」の使い方を募集。そのレベルを「1トシヤ」から「5トシヤ」までで採点していく。
   - 「ミヒ耳・アワー」
-      - 「[空耳アワー](https://ja.wikipedia.org/wiki/空耳アワー "wikilink")」のパロディ企画で、mihimaru GTの楽曲限定で空耳を募集。本家のように「手ぬぐい」「Tシャツ」「ボールペン」などと評価をすることもあるが、もちろん実際には賞品は出ない。
+      - 「[空耳アワー](../Page/空耳アワー.md "wikilink")」のパロディ企画で、mihimaru GTの楽曲限定で空耳を募集。本家のように「手ぬぐい」「Tシャツ」「ボールペン」などと評価をすることもあるが、もちろん実際には賞品は出ない。
   - 「メールフェスティバル」
       - 視聴者からのメールをランダムに引いて、それをもとにトークをしていくコーナー。
 
 ## コーナー（2009年～）
 
   - 「ミヒトーーク」
-      - 「[アメトーーク](https://ja.wikipedia.org/wiki/雨上がり決死隊のトーク番組アメトーーク! "wikilink")」のパロディ企画で、引き当てたテーマについて各メンバーがトークをする。
+      - 「[アメトーーク](../Page/雨上がり決死隊のトーク番組アメトーーク!.md "wikilink")」のパロディ企画で、引き当てたテーマについて各メンバーがトークをする。
   - 「たーたんのコーナー」
       - hirokoに厳しいという、hirokoの妹が言いそうなセリフを募集。本人には内緒のこと。
 
@@ -54,26 +54,26 @@
   - 「miyakeの孫の手」
       - かゆい所に手が届くをコンセプトに、miyakeが気になったことや仕事現場を紹介する。
   - みつおだもの
-      - miyakeの、この番組内でのニックネームにちなんで、[相田みつを](https://ja.wikipedia.org/wiki/相田みつを "wikilink")風のポエムを募集、紹介する。
+      - miyakeの、この番組内でのニックネームにちなんで、[相田みつを](../Page/相田みつを.md "wikilink")風のポエムを募集、紹介する。
 
 ## ゲスト
 
 時々アーティストを迎える回がある。出演者はmihimaru GTと同じ（系列の）事務所のアーティストが多い。カッコ内に放送時期を示す（地域によって幅がある）。
 
   - [SHORT LEG SUMMER](../Page/SHORT_LEG_SUMMER.md "wikilink")（2007年6月）
-  - [エイジアエンジニア](https://ja.wikipedia.org/wiki/エイジアエンジニア "wikilink")（同9月）
-  - [2BACKKA](https://ja.wikipedia.org/wiki/2BACKKA "wikilink")（同9月）
-  - [TRIPLANE](https://ja.wikipedia.org/wiki/TRIPLANE "wikilink")（同10月-11月）
-  - [SOFFet](https://ja.wikipedia.org/wiki/SOFFet "wikilink")（2008年7月）
+  - [エイジアエンジニア](../Page/エイジアエンジニア.md "wikilink")（同9月）
+  - [2BACKKA](../Page/2BACKKA.md "wikilink")（同9月）
+  - [TRIPLANE](../Page/TRIPLANE.md "wikilink")（同10月-11月）
+  - [SOFFet](../Page/SOFFet.md "wikilink")（2008年7月）
   - [甲斐名都](https://ja.wikipedia.org/wiki/甲斐名都 "wikilink")（同8月、2009年7月-8月）―2回目の出演はこの番組で初めて。
   - [TSUYOSHI](https://ja.wikipedia.org/wiki/TSUYOSHI_\(歌手\) "wikilink")（同10月、2010年11月）
-  - [THE LOOSE DOGS](https://ja.wikipedia.org/wiki/ザ・ルーズドッグス "wikilink")（同11月）
+  - [THE LOOSE DOGS](../Page/ザ・ルーズドッグス.md "wikilink")（同11月）
   - [m.o.v.e](https://ja.wikipedia.org/wiki/m.o.v.e "wikilink")（2009年2月）
-  - [ET-KING](https://ja.wikipedia.org/wiki/ET-KING "wikilink")（同年3月-4月）
+  - [ET-KING](../Page/ET-KING.md "wikilink")（同年3月-4月）
   - [玉木宏](https://ja.wikipedia.org/wiki/玉木宏 "wikilink")（同年4月-5月）
-  - [ゾマホン](https://ja.wikipedia.org/wiki/ゾマホン・ルフィン "wikilink")(同年5月）
+  - [ゾマホン](../Page/ゾマホン・ルフィン.md "wikilink")(同年5月）
   - [AZU](../Page/AZU.md "wikilink")（同年6月、2010年4月、同年11月-12月）―hirokoと声が似ていることが話題になった。
-  - [伊藤一朗](https://ja.wikipedia.org/wiki/伊藤一朗 "wikilink")（[Every Little Thing](../Page/Every_Little_Thing.md "wikilink")）（同年8月）
+  - [伊藤一朗](../Page/伊藤一朗.md "wikilink")（[Every Little Thing](../Page/Every_Little_Thing.md "wikilink")）（同年8月）
   - [Crystal Boy](https://ja.wikipedia.org/wiki/Crystal_Boy "wikilink")（2010年10月）
   - [HOME MADE家族](https://ja.wikipedia.org/wiki/HOME_MADE家族 "wikilink")（2011年1月-2月）
 
@@ -92,8 +92,8 @@
   - [FMぐんま](../Page/エフエム群馬.md "wikilink")　毎週月曜日　20:00～20:30
   - [RADIO BERRY](https://ja.wikipedia.org/wiki/エフエム栃木 "wikilink")　毎週金曜日　21:00～21:30
   - [ふくしまFM](../Page/エフエム福島.md "wikilink")　毎週土曜日　20:30～20:55　
-  - [FM-NIIGATA](https://ja.wikipedia.org/wiki/エフエムラジオ新潟 "wikilink")　毎週火曜日　19:00～19:30
-  - [FMとやま](https://ja.wikipedia.org/wiki/富山エフエム放送 "wikilink")　毎週月曜日　21:30～21:55
+  - [FM-NIIGATA](../Page/エフエムラジオ新潟.md "wikilink")　毎週火曜日　19:00～19:30
+  - [FMとやま](../Page/富山エフエム放送.md "wikilink")　毎週月曜日　21:30～21:55
   - [Radio80](https://ja.wikipedia.org/wiki/岐阜エフエム放送 "wikilink")　毎週金曜日　21:30～21:55
   - [radio CUBE FM三重](https://ja.wikipedia.org/wiki/三重エフエム放送 "wikilink")　毎週月曜日　20:00～20:30
   - [e-radio](../Page/エフエム滋賀.md "wikilink")　毎週月曜日　18:00～18:30

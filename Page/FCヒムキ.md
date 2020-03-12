@@ -7,9 +7,9 @@
 
 1996年、アマチュアクラブのロジーナ () とノヴァトール () が合併して創設された。3部リーグに昇格した1997年にプロクラブとなった。
 
-2005年には[ロシア・ファーストディビジョン](https://ja.wikipedia.org/wiki/ロシア・ファーストディビジョン "wikilink")所属ながら[ロシア・カップ決勝に達したが](https://ja.wikipedia.org/wiki/ロシア・カップ_\(サッカー\) "wikilink")、[ロシア・プレミアリーグの](https://ja.wikipedia.org/wiki/ロシアサッカー・プレミアリーグ "wikilink")[CSKAモスクワに](https://ja.wikipedia.org/wiki/PFC_CSKAモスクワ "wikilink")1-0で敗れた。2006年のロシア・ファーストディビジョンで優勝を収めたことにより、2007年にロシア・プレミアリーグへ初昇格した。
+2005年には[ロシア・ファーストディビジョン](https://ja.wikipedia.org/wiki/ロシア・ファーストディビジョン "wikilink")所属ながら[ロシア・カップ決勝に達したが](../Page/ロシア・カップ_\(サッカー\).md "wikilink")、[ロシア・プレミアリーグの](../Page/ロシアサッカー・プレミアリーグ.md "wikilink")[CSKAモスクワに](../Page/PFC_CSKAモスクワ.md "wikilink")1-0で敗れた。2006年のロシア・ファーストディビジョンで優勝を収めたことにより、2007年にロシア・プレミアリーグへ初昇格した。
 
-2008年12月、経済事情を理由に[サトゥルン・ラメンスコーエ](https://ja.wikipedia.org/wiki/サトゥルン・ラメンスコーエ "wikilink")との合併を発表、メンバーは半々ずつ引き継がれ、チーム名はサトゥルンに統一されることが決定していたが、この件は白紙となり、引き続きロシア・プレミアリーグでプレーすることになったが、2009年シーズンは、開幕から低空飛行を続け、初勝利を挙げたのは、2009年7月10日の[サトゥルン・ラメンスコーエ](https://ja.wikipedia.org/wiki/サトゥルン・ラメンスコーエ "wikilink")戦だった。同年8月2日の[FCディナモ・モスクワ](https://ja.wikipedia.org/wiki/FCディナモ・モスクワ "wikilink")戦から連敗を重ね、10月24日の[FCスパルタク・モスクワ](https://ja.wikipedia.org/wiki/FCスパルタク・モスクワ "wikilink")戦で敗戦したことを機に、シーズン終了を待たずにロシア・ファーストディビジョン降格が決定した。最終的には、最終節の[FCロコモティフ・モスクワ](https://ja.wikipedia.org/wiki/FCロコモティフ・モスクワ "wikilink")戦でも敗北を喫し、リーグ戦15連敗と不名誉な記録を残して、ロシア・プレミアリーグを後にする。
+2008年12月、経済事情を理由に[サトゥルン・ラメンスコーエ](../Page/サトゥルン・ラメンスコーエ.md "wikilink")との合併を発表、メンバーは半々ずつ引き継がれ、チーム名はサトゥルンに統一されることが決定していたが、この件は白紙となり、引き続きロシア・プレミアリーグでプレーすることになったが、2009年シーズンは、開幕から低空飛行を続け、初勝利を挙げたのは、2009年7月10日の[サトゥルン・ラメンスコーエ](../Page/サトゥルン・ラメンスコーエ.md "wikilink")戦だった。同年8月2日の[FCディナモ・モスクワ](../Page/FCディナモ・モスクワ.md "wikilink")戦から連敗を重ね、10月24日の[FCスパルタク・モスクワ](../Page/FCスパルタク・モスクワ.md "wikilink")戦で敗戦したことを機に、シーズン終了を待たずにロシア・ファーストディビジョン降格が決定した。最終的には、最終節の[FCロコモティフ・モスクワ](../Page/FCロコモティフ・モスクワ.md "wikilink")戦でも敗北を喫し、リーグ戦15連敗と不名誉な記録を残して、ロシア・プレミアリーグを後にする。
 
 ## タイトル
 
@@ -38,7 +38,7 @@
 <th><p>得</p></th>
 <th><p>失</p></th>
 <th><p>点</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/ロシア・カップ_(サッカー)" title="wikilink">カップ戦</a></p></th>
+<th><p><a href="../Page/ロシア・カップ_(サッカー).md" title="wikilink">カップ戦</a></p></th>
 <th><p>欧州</p></th>
 <th><p>監督</p></th>
 </tr>
@@ -249,7 +249,7 @@
 </tr>
 <tr class="even">
 <td><p>2007</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ロシアサッカー・プレミアリーグ" title="wikilink">プレミア</a></strong></p></td>
+<td><p><strong><a href="../Page/ロシアサッカー・プレミアリーグ.md" title="wikilink">プレミア</a></strong></p></td>
 <td><p><strong>9</strong></p></td>
 <td><p>30</p></td>
 <td><p>9</p></td>
@@ -448,21 +448,21 @@
 
 ## 歴代所属選手
 
-  - [パヴェル・ポグレブニャク](https://ja.wikipedia.org/wiki/パヴェル・ポグレブニャク "wikilink") 2004
+  - [パヴェル・ポグレブニャク](../Page/パヴェル・ポグレブニャク.md "wikilink") 2004
 
   - [アレクセイ・イワノフ](https://ja.wikipedia.org/wiki/アレクセイ・イワノフ_\(サッカー選手\) "wikilink") 2004
 
-  - [レナト・ヤンバエフ](https://ja.wikipedia.org/wiki/レナト・ヤンバエフ "wikilink") 2005
+  - [レナト・ヤンバエフ](../Page/レナト・ヤンバエフ.md "wikilink") 2005
 
-  - [オレグ・イワノフ](https://ja.wikipedia.org/wiki/オレグ・イワノフ "wikilink") 2005
+  - [オレグ・イワノフ](../Page/オレグ・イワノフ.md "wikilink") 2005
 
   - [ウラジミール・ベスチャツニフ](https://ja.wikipedia.org/wiki/ウラジミール・ベスチャツニフ "wikilink") 2006-2007
 
   - / [ロベルト・ゼベリャン](https://ja.wikipedia.org/wiki/ロベルト・ゼベリャン "wikilink") 2007
 
-  - [ロマン・シロコフ](https://ja.wikipedia.org/wiki/ロマン・シロコフ "wikilink") 2007
+  - [ロマン・シロコフ](../Page/ロマン・シロコフ.md "wikilink") 2007
 
-  - [ロマン・ヴォロビオフ](https://ja.wikipedia.org/wiki/ロマン・ヴォロビオフ "wikilink") 2007
+  - [ロマン・ヴォロビオフ](../Page/ロマン・ヴォロビオフ.md "wikilink") 2007
 
   - [エルダル・ニザムトディノフ](https://ja.wikipedia.org/wiki/エルダル・ニザムトディノフ "wikilink") 2008-
 
@@ -486,7 +486,7 @@
 
   - [ガブリエル](https://ja.wikipedia.org/wiki/ガブリエル・フェルナンド・アトズ "wikilink") 2008
 
-  - [アンドレイ・ステパノフ](https://ja.wikipedia.org/wiki/アンドレイ・ステパノフ "wikilink") 2007-2008
+  - [アンドレイ・ステパノフ](../Page/アンドレイ・ステパノフ.md "wikilink") 2007-2008
 
   - [フローリン・ショアヴァ](https://ja.wikipedia.org/wiki/フローリン・ショアヴァ "wikilink") 2008
 
@@ -494,7 +494,7 @@
 
   - [ウラジミール・バイラモフ](https://ja.wikipedia.org/wiki/ウラジミール・バイラモフ "wikilink") 2008
 
-  - [楽山孝志](https://ja.wikipedia.org/wiki/楽山孝志 "wikilink") 2010
+  - [楽山孝志](../Page/楽山孝志.md "wikilink") 2010
 
 ## 外部リンク
 

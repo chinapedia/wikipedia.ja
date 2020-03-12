@@ -5,10 +5,10 @@
 
 ## 解説
 
-  - [2004年](../Page/2004年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink")に[デフスターレコーズ](https://ja.wikipedia.org/wiki/デフスターレコーズ "wikilink")からリリースされた。
-  - 『L・O・V・E・L・Y ～夢見るLOVELY BOY～』は、『[劇場版ポケットモンスター アドバンスジェネレーション 裂空の訪問者 デオキシス](https://ja.wikipedia.org/wiki/劇場版ポケットモンスター_アドバンスジェネレーション_裂空の訪問者_デオキシス "wikilink")』の主題歌。その影響で、[CDジャケットやこの曲の](../Page/コンパクトディスク.md "wikilink")[PVには](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、[ピカチュウ](https://ja.wikipedia.org/wiki/ピカチュウ "wikilink")が出演している。
-  - 『[I ONLY WANT TO BE WITH YOU](https://ja.wikipedia.org/wiki/二人だけのデート "wikilink")』は、[ダスティ・スプリングフィールド](https://ja.wikipedia.org/wiki/ダスティ・スプリングフィールド "wikilink")の曲のカヴァーで、[TBS系](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")[はなまるマーケット](../Page/はなまるマーケット.md "wikilink")オープニングテーマ。
-  - 『エル・オー・ヴィー・イー・エル・ワイ ～ゆめみるラブリーボーイ～（ピカチュウといっしょ★ヴァージョンだよ\!）』は、『L・O・V・E・L・Y ～夢見るLOVELY BOY～』の[ピカチュウ](https://ja.wikipedia.org/wiki/ピカチュウ "wikilink")・[プラスル](https://ja.wikipedia.org/wiki/プラスル "wikilink")・[マイナン](https://ja.wikipedia.org/wiki/マイナン "wikilink")との共演版。[まゆみおねえさん](https://ja.wikipedia.org/wiki/まゆみおねえさん "wikilink")がナレーションをしている（一瞬だけTommy february6がでてくる）。原曲同様、『劇場版ポケットモンスター　アドバンスジェネレーション　裂空の訪問者　デオキシス』のエンディングテーマとして使用されている（原曲終了後、曲の一部が流れる）。歌詞・クレジットはすべて[平仮名](../Page/平仮名.md "wikilink")と[片仮名](../Page/片仮名.md "wikilink")だけで表記されている。
+  - [2004年](../Page/2004年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink")に[デフスターレコーズ](../Page/デフスターレコーズ.md "wikilink")からリリースされた。
+  - 『L・O・V・E・L・Y ～夢見るLOVELY BOY～』は、『[劇場版ポケットモンスター アドバンスジェネレーション 裂空の訪問者 デオキシス](https://ja.wikipedia.org/wiki/劇場版ポケットモンスター_アドバンスジェネレーション_裂空の訪問者_デオキシス "wikilink")』の主題歌。その影響で、[CDジャケットやこの曲の](../Page/コンパクトディスク.md "wikilink")[PVには](../Page/ミュージック・ビデオ.md "wikilink")、[ピカチュウ](../Page/ピカチュウ.md "wikilink")が出演している。
+  - 『[I ONLY WANT TO BE WITH YOU](https://ja.wikipedia.org/wiki/二人だけのデート "wikilink")』は、[ダスティ・スプリングフィールド](https://ja.wikipedia.org/wiki/ダスティ・スプリングフィールド "wikilink")の曲のカヴァーで、[TBS系](../Page/TBSテレビ.md "wikilink")[はなまるマーケット](../Page/はなまるマーケット.md "wikilink")オープニングテーマ。
+  - 『エル・オー・ヴィー・イー・エル・ワイ ～ゆめみるラブリーボーイ～（ピカチュウといっしょ★ヴァージョンだよ\!）』は、『L・O・V・E・L・Y ～夢見るLOVELY BOY～』の[ピカチュウ](../Page/ピカチュウ.md "wikilink")・[プラスル](https://ja.wikipedia.org/wiki/プラスル "wikilink")・[マイナン](https://ja.wikipedia.org/wiki/マイナン "wikilink")との共演版。[まゆみおねえさん](https://ja.wikipedia.org/wiki/まゆみおねえさん "wikilink")がナレーションをしている（一瞬だけTommy february6がでてくる）。原曲同様、『劇場版ポケットモンスター　アドバンスジェネレーション　裂空の訪問者　デオキシス』のエンディングテーマとして使用されている（原曲終了後、曲の一部が流れる）。歌詞・クレジットはすべて[平仮名](../Page/平仮名.md "wikilink")と[片仮名](../Page/片仮名.md "wikilink")だけで表記されている。
   - 発売当時はレーベルゲートCD2での生産だったが、後に通常のCDで再発売されている。初回盤はデジパック仕様。
 
 ## 収録曲

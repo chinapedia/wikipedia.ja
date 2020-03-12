@@ -7,7 +7,7 @@
 
 主に[濃度](https://ja.wikipedia.org/wiki/濃度 "wikilink")を表すために用いられるが、不良品発生率などの[確率](https://ja.wikipedia.org/wiki/確率 "wikilink")を表すこともある。
 
-[二酸化窒素](https://ja.wikipedia.org/wiki/二酸化窒素 "wikilink")などの[大気汚染](https://ja.wikipedia.org/wiki/大気汚染 "wikilink")物質をはじめとする[公害](https://ja.wikipedia.org/wiki/公害 "wikilink")分野や、[食品添加物](https://ja.wikipedia.org/wiki/食品添加物 "wikilink")などの濃度、[岩石](../Page/岩石.md "wikilink")中の[微量元素](https://ja.wikipedia.org/wiki/微量元素 "wikilink")の組成、[半導体](../Page/半導体.md "wikilink")中の不純物量を示す目的などでよく用いられる。
+[二酸化窒素](../Page/二酸化窒素.md "wikilink")などの[大気汚染](https://ja.wikipedia.org/wiki/大気汚染 "wikilink")物質をはじめとする[公害](../Page/公害.md "wikilink")分野や、[食品添加物](https://ja.wikipedia.org/wiki/食品添加物 "wikilink")などの濃度、[岩石](../Page/岩石.md "wikilink")中の[微量元素](https://ja.wikipedia.org/wiki/微量元素 "wikilink")の組成、[半導体](../Page/半導体.md "wikilink")中の不純物量を示す目的などでよく用いられる。
 
 気体中の気体については体積比を用い、液体･固体中の液体・固体では重量比を用いるのが一般的である。なお、水溶液中の濃度については、「1 [kg](https://ja.wikipedia.org/wiki/キログラム "wikilink") = 1 [L](../Page/リットル.md "wikilink")」と近似して「mg/L = ppm」とし、不純物等の濃度の単位として用いられる。ちなみに、一般の水の遊離残留塩素濃度は約0.4ppm、浄水器を使った場合は約0.1ppmである。
 
@@ -27,8 +27,8 @@
 
 ## 符号位置
 
-| 記号 | [Unicode](../Page/Unicode.md "wikilink") | [JIS X 0213](../Page/JIS_X_0213.md "wikilink") | [文字参照](https://ja.wikipedia.org/wiki/文字参照 "wikilink") | 名称 |
-| -- | ---------------------------------------- | ---------------------------------------------- | ----------------------------------------------------- | -- |
+| 記号 | [Unicode](../Page/Unicode.md "wikilink") | [JIS X 0213](../Page/JIS_X_0213.md "wikilink") | [文字参照](../Page/文字参照.md "wikilink") | 名称 |
+| -- | ---------------------------------------- | ---------------------------------------------- | ---------------------------------- | -- |
 
 [Unicode](../Page/Unicode.md "wikilink")には、ppmを表す上記の文字が収録されている。これは[CJK互換用文字](https://ja.wikipedia.org/wiki/CJK互換用文字 "wikilink")であり、既存の文字コードに対する後方互換性のために収録されているものであるので、使用は推奨されない\[2\]\[3\]。
 
@@ -37,7 +37,7 @@
 ## 関連項目
 
   - [parts-per表記](https://ja.wikipedia.org/wiki/parts-per表記 "wikilink")
-  - [指数表記](https://ja.wikipedia.org/wiki/指数表記 "wikilink")
+  - [指数表記](../Page/指数表記.md "wikilink")
   - [million](https://ja.wikipedia.org/wiki/million "wikilink")
 
 [Category:割合の単位](https://ja.wikipedia.org/wiki/Category:割合の単位 "wikilink")

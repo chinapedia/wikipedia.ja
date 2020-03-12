@@ -1,11 +1,11 @@
 > この記事は[BEMANI](https://ja.wikipedia.org/wiki/BEMANI)から翻訳されています。
 
 
-[Bemani_series_logo.png](https://ja.wikipedia.org/wiki/File:Bemani_series_logo.png "fig:Bemani_series_logo.png") **BEMANIシリーズ**（ビーマニシリーズ）とは、[コナミ](../Page/コナミホールディングス.md "wikilink")（[コナミアミューズメント](https://ja.wikipedia.org/wiki/コナミアミューズメント "wikilink")・ビーマニプロダクション）が製作した音楽ゲームの統一ブランド名、およびシリーズ。
+[Bemani_series_logo.png](https://ja.wikipedia.org/wiki/File:Bemani_series_logo.png "fig:Bemani_series_logo.png") **BEMANIシリーズ**（ビーマニシリーズ）とは、[コナミ](../Page/コナミホールディングス.md "wikilink")（[コナミアミューズメント](../Page/コナミアミューズメント.md "wikilink")・ビーマニプロダクション）が製作した音楽ゲームの統一ブランド名、およびシリーズ。
 
 正式なブランド名は**BEMANI**（ビーマニ）。この名称はシリーズ第一作である『[beatmania](https://ja.wikipedia.org/wiki/beatmania "wikilink")（ビートマニア）』の略称から付けられている。
 
-アーケード版の各種権利は、コナミグループ再編に伴い、2016年11月1日付で[コナミデジタルエンタテインメント](https://ja.wikipedia.org/wiki/コナミデジタルエンタテインメント "wikilink")から[コナミアミューズメント](https://ja.wikipedia.org/wiki/コナミアミューズメント "wikilink")へ移管された。
+アーケード版の各種権利は、コナミグループ再編に伴い、2016年11月1日付で[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")から[コナミアミューズメント](../Page/コナミアミューズメント.md "wikilink")へ移管された。
 
 ## タイトルリスト
 
@@ -21,17 +21,17 @@
       - Dance Dance Revolution Solo
       - Dancing Stage
   - [GITADORA](https://ja.wikipedia.org/wiki/GITADORA "wikilink")
-      - [GUITARFREAKS](https://ja.wikipedia.org/wiki/GUITARFREAKS "wikilink") (V以降は「GuitarFreaks」に表記変更)
+      - [GUITARFREAKS](../Page/GUITARFREAKS.md "wikilink") (V以降は「GuitarFreaks」に表記変更)
           - [GuitarFreaks XG](https://ja.wikipedia.org/wiki/GuitarFreaksXG&DrumManiaXG "wikilink")
       - [drummania](https://ja.wikipedia.org/wiki/drummania "wikilink") (V以降は「DrumMania」に表記変更)
           - [DrumMania XG](https://ja.wikipedia.org/wiki/GuitarFreaksXG&DrumManiaXG "wikilink")
-  - [KEYBOARDMANIA](https://ja.wikipedia.org/wiki/KEYBOARDMANIA "wikilink")
-  - [ParaParaParadise](https://ja.wikipedia.org/wiki/ParaParaParadise "wikilink")
-  - [Dance Maniax](https://ja.wikipedia.org/wiki/ダンスマニアックス "wikilink")
-  - [RAP FREAKS](https://ja.wikipedia.org/wiki/RAP_FREAKS "wikilink")(未発売)
-  - [MAMBO A GO GO](https://ja.wikipedia.org/wiki/MAMBO_A_GO_GO "wikilink")
-  - [Toy'sMarch](https://ja.wikipedia.org/wiki/Toy'sMarch "wikilink")
-  - [DANCE 86.4 FUNKY RADIO STATION](https://ja.wikipedia.org/wiki/DANCE_86.4_FUNKY_RADIO_STATION "wikilink")
+  - [KEYBOARDMANIA](../Page/KEYBOARDMANIA.md "wikilink")
+  - [ParaParaParadise](../Page/ParaParaParadise.md "wikilink")
+  - [Dance Maniax](../Page/ダンスマニアックス.md "wikilink")
+  - [RAP FREAKS](../Page/RAP_FREAKS.md "wikilink")(未発売)
+  - [MAMBO A GO GO](../Page/MAMBO_A_GO_GO.md "wikilink")
+  - [Toy'sMarch](../Page/Toy'sMarch.md "wikilink")
+  - [DANCE 86.4 FUNKY RADIO STATION](../Page/DANCE_86.4_FUNKY_RADIO_STATION.md "wikilink")
   - マリンバ天国([PLAY-POEMS](https://ja.wikipedia.org/wiki/PLAY-POEMS "wikilink")シリーズの1作)
   - [jubeat](https://ja.wikipedia.org/wiki/jubeat "wikilink")
   - [REFLEC BEAT](https://ja.wikipedia.org/wiki/REFLEC_BEAT "wikilink")
@@ -44,7 +44,7 @@
   - [ノスタルジア](https://ja.wikipedia.org/wiki/ノスタルジア_\(音楽ゲーム\) "wikilink")\[4\]
   - [DANCERUSH STARDOM](https://ja.wikipedia.org/wiki/DANCERUSH_STARDOM "wikilink")
 
-なお、同社の音楽ゲームでも『[Dance\!Dance\!Dance\!](https://ja.wikipedia.org/wiki/Dance!Dance!Dance! "wikilink")』や『[MARTIAL BEAT](https://ja.wikipedia.org/wiki/MARTIAL_BEAT "wikilink")』、『[Goo\! Goo\! SOUNDY](https://ja.wikipedia.org/wiki/Goo!_Goo!_SOUNDY "wikilink")』、『[beat gather](https://ja.wikipedia.org/wiki/beat_gather "wikilink")』などはこのシリーズには入っていない。また、日本版『[カラオケレボリューション](https://ja.wikipedia.org/wiki/カラオケレボリューション "wikilink")』もシリーズには含まれないが、一方で日本国外版の『[Karaoke Revolution](https://ja.wikipedia.org/wiki/:en:Karaoke_Revolution "wikilink")』はBEMANIシリーズに含まれている。
+なお、同社の音楽ゲームでも『[Dance\!Dance\!Dance\!](../Page/Dance!Dance!Dance!.md "wikilink")』や『[MARTIAL BEAT](../Page/MARTIAL_BEAT.md "wikilink")』、『[Goo\! Goo\! SOUNDY](https://ja.wikipedia.org/wiki/Goo!_Goo!_SOUNDY "wikilink")』、『[beat gather](https://ja.wikipedia.org/wiki/beat_gather "wikilink")』などはこのシリーズには入っていない。また、日本版『[カラオケレボリューション](https://ja.wikipedia.org/wiki/カラオケレボリューション "wikilink")』もシリーズには含まれないが、一方で日本国外版の『[Karaoke Revolution](https://ja.wikipedia.org/wiki/:en:Karaoke_Revolution "wikilink")』はBEMANIシリーズに含まれている。
 
 ファイル:Iidx15.jpg|beatmania IIDX ファイル:Popnmusicfever.jpg|pop'n music ファイル:DDR White.jpg|Dance Dance Revolution ファイル:GITADORA XG Standard.JPG|GITADORA ファイル:Jubeat.jpg|jubeat ファイル:REFLEC BEAT VOLZZA 01.JPG|REFLEC BEAT ファイル:Sound Voltex III Gen 2 cabinets.jpg|SOUND VOLTEX ファイル:MUSECA Cabinet 01.JPG|MÚSECA
 
@@ -267,7 +267,7 @@ Hommarju</p></td>
     『pop'n music ラピストリア』、『beatmania IIDX 22 PENDUAL』、『GITADORA Over Drive』、『jubeat prop』『REFLEC BEAT groovin'\!\! Upper』の5機種が対象。『DanceDanceRevolution』と『BeatStream』はボーナス対象のみ。
     対象機種をプレーして自然の力を溜めて運命浄化ボタンを押し、成功すると楽曲が解禁される。対応するパワーが溜まっているほど成功率が上昇する。
   - [猫叉\&TOTTOと行くGW弾丸ツアー](http://eagate.573.jp/game/bemani/2015spring/index.html)（2015年4月2日 - 2015年5月17日）
-    『beatmania IIDX 22 PENDUAL』と『REFLEC BEAT groovin'\!\! Upper』間でのコラボレーション企画。同社のコンポーザーである[猫叉MasterとDJ](https://ja.wikipedia.org/wiki/佐藤直之 "wikilink") TOTTOをフィーチャーしたイベントで、各機種で条件を満たすことで二人に旅の準備をさせて旅立たせ、楽曲を解禁していく。
+    『beatmania IIDX 22 PENDUAL』と『REFLEC BEAT groovin'\!\! Upper』間でのコラボレーション企画。同社のコンポーザーである[猫叉MasterとDJ](../Page/佐藤直之.md "wikilink") TOTTOをフィーチャーしたイベントで、各機種で条件を満たすことで二人に旅の準備をさせて旅立たせ、楽曲を解禁していく。
   - [怪盗BisCoの予告状\!\!](http://p.eagate.573.jp/game/bemani/bisco/p/treasure.html)（2015年6月17日 - 2015年12月21日）
     『BeatStream』を中心としたBEMANIシリーズ8機種間及び『[ひなビタ♪](https://ja.wikipedia.org/wiki/ひなビタ♪ "wikilink")』とのコラボレーション企画。
 
@@ -294,19 +294,19 @@ Hommarju</p></td>
   - 大田良彦 (おおたP) - 『DanceDanceRevolution』シリーズおよび『DANCE EVOLUTION ARCADE』のプロデューサー。
   - 蔭山忠生 (KAGE) - 『beatmaniaIIDX』シリーズのプロデューサー。
   - 中村勝 - 『ミライダガッキ』のプロデューサー\[8\]。
-  - [西村宜隆](https://ja.wikipedia.org/wiki/西村宜隆 "wikilink") (DJ Yoshitaka) - BEMANIシリーズの統括プロデューサー。自身も『pop'n music』シリーズ、『REFLEC BEAT』シリーズ、『SOUND VOLTEX』シリーズ、および『BeatStream』ではディレクションも行なっている。
+  - [西村宜隆](../Page/西村宜隆.md "wikilink") (DJ Yoshitaka) - BEMANIシリーズの統括プロデューサー。自身も『pop'n music』シリーズ、『REFLEC BEAT』シリーズ、『SOUND VOLTEX』シリーズ、および『BeatStream』ではディレクションも行なっている。
   - 野崎満裕 (まんぷく) - シニアプロデューサー。BEMANI神戸チームを統括。
   - 増田寛之 (まっする) - 『GuitarFreaks』&『DrumMania』および『jubeat』シリーズのプロデューサー。
 
 ### ディレクター
 
-  - [浅見祐一](https://ja.wikipedia.org/wiki/浅見祐一 "wikilink") (U1-ASAMi)
+  - [浅見祐一](../Page/浅見祐一.md "wikilink") (U1-ASAMi)
   - 梅田隆志 (うー)
-  - [右寺修](https://ja.wikipedia.org/wiki/右寺修 "wikilink") (Des-ROW)
+  - [右寺修](../Page/右寺修.md "wikilink") (Des-ROW)
 
 ### サウンドマネージャー
 
-  - [植松斎永](https://ja.wikipedia.org/wiki/植松斎永 "wikilink") (Yuei)
+  - [植松斎永](../Page/植松斎永.md "wikilink") (Yuei)
 
 ### デザイナー(コナミ関連（過去の人物含む）)
 
@@ -315,7 +315,7 @@ Hommarju</p></td>
   - [GOLI](https://ja.wikipedia.org/wiki/GOLI "wikilink")
   - [塩野友子](https://ja.wikipedia.org/wiki/shio "wikilink") (shio)
   - 田上葵（アオニサイ）
-  - [高村真耶](https://ja.wikipedia.org/wiki/高村真耶 "wikilink") (MAYA)
+  - [高村真耶](../Page/高村真耶.md "wikilink") (MAYA)
   - Chihiro Inoue（ちっひ）
   - eimy
   - Gyo Eguchi (VJ GYO)
@@ -342,46 +342,46 @@ Hommarju</p></td>
 
   - [秋田真典](https://ja.wikipedia.org/wiki/秋田真典 "wikilink") (リシャール秋田)
   - [Akhuta](https://ja.wikipedia.org/wiki/Akhuta "wikilink")
-  - [あさき](https://ja.wikipedia.org/wiki/あさき "wikilink")
-  - [亜熱帯マジ-SKA爆弾](https://ja.wikipedia.org/wiki/亜熱帯マジ-SKA爆弾 "wikilink")
-  - [石川貴之](https://ja.wikipedia.org/wiki/石川貴之 "wikilink") (dj TAKA)
-  - [泉陸奥彦](https://ja.wikipedia.org/wiki/泉陸奥彦 "wikilink") (Mutsuhiko Izumi)
+  - [あさき](../Page/あさき.md "wikilink")
+  - [亜熱帯マジ-SKA爆弾](../Page/亜熱帯マジ-SKA爆弾.md "wikilink")
+  - [石川貴之](../Page/石川貴之.md "wikilink") (dj TAKA)
+  - [泉陸奥彦](../Page/泉陸奥彦.md "wikilink") (Mutsuhiko Izumi)
   - [伊山達也](https://ja.wikipedia.org/wiki/伊山達也 "wikilink") (Qrispy Joybox)
   - [上高治巳](https://ja.wikipedia.org/wiki/上高治巳 "wikilink") (Jimmy Weckl)
-  - [内田智之](https://ja.wikipedia.org/wiki/内田智之 "wikilink") (Mr.T)
+  - [内田智之](../Page/内田智之.md "wikilink") (Mr.T)
   - [浦田隆志](https://ja.wikipedia.org/wiki/浦田隆志 "wikilink") (TAISHO)
   - [大井藍子](https://ja.wikipedia.org/wiki/大井藍子 "wikilink") (AIKO OI)
   - [大田知己](https://ja.wikipedia.org/wiki/大田知己 "wikilink")
   - [かめりあ](https://ja.wikipedia.org/wiki/かめりあ "wikilink")（大箭マサヤ）
   - [OSTER project](https://ja.wikipedia.org/wiki/OSTER_project "wikilink")
-  - [小野秀幸](https://ja.wikipedia.org/wiki/小野秀幸 "wikilink")
-  - [角田利之](https://ja.wikipedia.org/wiki/角田利之 "wikilink") (L.E.D.)
+  - [小野秀幸](../Page/小野秀幸.md "wikilink")
+  - [角田利之](../Page/角田利之.md "wikilink") (L.E.D.)
   - [兼田潤一郎](https://ja.wikipedia.org/wiki/兼田潤一郎 "wikilink") (Waldeus von dovjak)
-  - [辛島純子](https://ja.wikipedia.org/wiki/辛島純子 "wikilink") (jun)
-  - [黒沢ダイスケ](https://ja.wikipedia.org/wiki/黒沢ダイスケ "wikilink") (96)
-  - [肥塚良彦](https://ja.wikipedia.org/wiki/肥塚良彦 "wikilink")
-  - [古賀博樹](https://ja.wikipedia.org/wiki/古賀博樹 "wikilink") (Naya\~n)
+  - [辛島純子](../Page/辛島純子.md "wikilink") (jun)
+  - [黒沢ダイスケ](../Page/黒沢ダイスケ.md "wikilink") (96)
+  - [肥塚良彦](../Page/肥塚良彦.md "wikilink")
+  - [古賀博樹](../Page/古賀博樹.md "wikilink") (Naya\~n)
   - [小寺秀典](https://ja.wikipedia.org/wiki/小寺秀典 "wikilink") (cody)
   - [小堀修一](https://ja.wikipedia.org/wiki/小堀修一 "wikilink") (kobo)
-  - [佐伯茂治](https://ja.wikipedia.org/wiki/佐伯茂治 "wikilink") (ショッチョー)
+  - [佐伯茂治](../Page/佐伯茂治.md "wikilink") (ショッチョー)
   - [桜井敏郎](https://ja.wikipedia.org/wiki/桜井敏郎 "wikilink")
-  - [桜井零士](https://ja.wikipedia.org/wiki/桜井零士 "wikilink")
+  - [桜井零士](../Page/桜井零士.md "wikilink")
   - [佐久間彩](https://ja.wikipedia.org/wiki/佐久間彩 "wikilink") (Aya)
-  - [佐々木博史](https://ja.wikipedia.org/wiki/佐々木博史 "wikilink")
-  - [佐藤直之](https://ja.wikipedia.org/wiki/佐藤直之 "wikilink") (猫叉Master)
-  - [清水達也](https://ja.wikipedia.org/wiki/清水達也 "wikilink") (Tatsh)
-  - [清水洋平](https://ja.wikipedia.org/wiki/清水洋平 "wikilink") (youhei shimizu)
-  - [新谷さなえ](https://ja.wikipedia.org/wiki/新谷さなえ "wikilink") (Sana)
+  - [佐々木博史](../Page/佐々木博史.md "wikilink")
+  - [佐藤直之](../Page/佐藤直之.md "wikilink") (猫叉Master)
+  - [清水達也](../Page/清水達也.md "wikilink") (Tatsh)
+  - [清水洋平](../Page/清水洋平.md "wikilink") (youhei shimizu)
+  - [新谷さなえ](../Page/新谷さなえ.md "wikilink") (Sana)
   - [SUPER STAR 満-MITSURU-](https://ja.wikipedia.org/wiki/SUPER_STAR_満-MITSURU- "wikilink")
   - [菅谷英明](https://ja.wikipedia.org/wiki/菅谷英明 "wikilink") (FinalOffset)
-  - [杉本清隆](https://ja.wikipedia.org/wiki/杉本清隆 "wikilink") (SIMON)
+  - [杉本清隆](../Page/杉本清隆.md "wikilink") (SIMON)
   - [妹尾和浩](https://ja.wikipedia.org/wiki/妹尾和浩 "wikilink")
 
 </div>
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [千本松仁](https://ja.wikipedia.org/wiki/千本松仁 "wikilink")
+  - [千本松仁](../Page/千本松仁.md "wikilink")
   - [高橋祐子](https://ja.wikipedia.org/wiki/高橋祐子 "wikilink") (yukky)
   - [田川義浩](https://ja.wikipedia.org/wiki/田川義浩 "wikilink") (DJ TOTTO)
   - [田口康裕](https://ja.wikipedia.org/wiki/田口康裕 "wikilink") (TAG)
@@ -389,30 +389,30 @@ Hommarju</p></td>
   - [DAJI](https://ja.wikipedia.org/wiki/DAJI "wikilink")
   - [土屋裕一](https://ja.wikipedia.org/wiki/土屋裕一_\(作曲家\) "wikilink") (ASparagus)
   - [藤後浩之](https://ja.wikipedia.org/wiki/藤後浩之 "wikilink") (Togo)
-  - [トーマス・リクテンスタイン](https://ja.wikipedia.org/wiki/トーマス・リクテンスタイン "wikilink")
-  - [中村康三](https://ja.wikipedia.org/wiki/中村康三 "wikilink") (Kozo Nakamura)
-  - [南雲玲生](https://ja.wikipedia.org/wiki/南雲玲生 "wikilink") (dj nagureo)
+  - [トーマス・リクテンスタイン](../Page/トーマス・リクテンスタイン.md "wikilink")
+  - [中村康三](../Page/中村康三.md "wikilink") (Kozo Nakamura)
+  - [南雲玲生](../Page/南雲玲生.md "wikilink") (dj nagureo)
   - [西木康智](https://ja.wikipedia.org/wiki/西木康智 "wikilink") (Vivian)
   - 橋本晶子
   - [林陽一](https://ja.wikipedia.org/wiki/林陽一 "wikilink") (Haya-P)
-  - [Handsome JET Project](https://ja.wikipedia.org/wiki/Handsome_JET_Project "wikilink")
-  - [BeForU](https://ja.wikipedia.org/wiki/BeForU "wikilink")
-  - [平田祥一郎](https://ja.wikipedia.org/wiki/平田祥一郎 "wikilink")
+  - [Handsome JET Project](../Page/Handsome_JET_Project.md "wikilink")
+  - [BeForU](../Page/BeForU.md "wikilink")
+  - [平田祥一郎](../Page/平田祥一郎.md "wikilink")
   - [平田智樹](https://ja.wikipedia.org/wiki/平田智樹 "wikilink")
   - [広野智章](https://ja.wikipedia.org/wiki/広野智章 "wikilink") (劇団レコード)
-  - [藤井岳彦](https://ja.wikipedia.org/wiki/藤井岳彦 "wikilink") (SLAKE)
-  - [藤森崇多](https://ja.wikipedia.org/wiki/藤森崇多 "wikilink") (Sota Fujimori)
-  - [舟木智介](https://ja.wikipedia.org/wiki/舟木智介 "wikilink") (TOMOSUKE)
+  - [藤井岳彦](../Page/藤井岳彦.md "wikilink") (SLAKE)
+  - [藤森崇多](../Page/藤森崇多.md "wikilink") (Sota Fujimori)
+  - [舟木智介](../Page/舟木智介.md "wikilink") (TOMOSUKE)
   - [古川もとあき](https://ja.wikipedia.org/wiki/古川もとあき "wikilink")
   - [ポーラ・テリー](https://ja.wikipedia.org/wiki/ポーラ・テリー "wikilink") (Paula Terry)
-  - [星野奏子](https://ja.wikipedia.org/wiki/星野奏子 "wikilink")
+  - [星野奏子](../Page/星野奏子.md "wikilink")
   - [本田晃弘](https://ja.wikipedia.org/wiki/本田晃弘 "wikilink") (Dr. Honda)
-  - [前田尚紀](https://ja.wikipedia.org/wiki/前田尚紀_\(ミュージシャン\) "wikilink") (NAOKI)
-  - [水野達也](https://ja.wikipedia.org/wiki/水野達也 "wikilink") (ota2)
-  - [村井聖夜](https://ja.wikipedia.org/wiki/村井聖夜 "wikilink") (seiya-murai)
-  - [山岡晃](https://ja.wikipedia.org/wiki/山岡晃 "wikilink") (Akira Yamaoka)
-  - [山根ミチル](https://ja.wikipedia.org/wiki/山根ミチル "wikilink")
-  - [脇田潤](https://ja.wikipedia.org/wiki/脇田潤 "wikilink") (wac)
+  - [前田尚紀](../Page/前田尚紀_\(ミュージシャン\).md "wikilink") (NAOKI)
+  - [水野達也](../Page/水野達也.md "wikilink") (ota2)
+  - [村井聖夜](../Page/村井聖夜.md "wikilink") (seiya-murai)
+  - [山岡晃](../Page/山岡晃.md "wikilink") (Akira Yamaoka)
+  - [山根ミチル](../Page/山根ミチル.md "wikilink")
+  - [脇田潤](../Page/脇田潤.md "wikilink") (wac)
   - [渡辺大地](https://ja.wikipedia.org/wiki/渡辺大地 "wikilink")(PON)
   - [濵田有共](https://ja.wikipedia.org/wiki/濵田有共 "wikilink") (HuΣeR)
   - [佐藤俊介](https://ja.wikipedia.org/wiki/佐藤俊介_\(ゲームミュージック作曲家\) "wikilink") (SYUNN)
@@ -433,126 +433,126 @@ Hommarju</p></td>
   - [浅井裕子](https://ja.wikipedia.org/wiki/浅井裕子 "wikilink")
   - Art of Fighters
   - [浅倉大介](../Page/浅倉大介.md "wikilink")
-  - [朝本浩文](https://ja.wikipedia.org/wiki/朝本浩文 "wikilink")
-  - あべにゅうぷろじぇくと feat.[佐倉紗織](https://ja.wikipedia.org/wiki/佐倉紗織 "wikilink") produced by [ave;new](https://ja.wikipedia.org/wiki/ave;new "wikilink")
+  - [朝本浩文](../Page/朝本浩文.md "wikilink")
+  - あべにゅうぷろじぇくと feat.[佐倉紗織](../Page/佐倉紗織.md "wikilink") produced by [ave;new](https://ja.wikipedia.org/wiki/ave;new "wikilink")
   - [阿部靖広](https://ja.wikipedia.org/wiki/阿部靖広 "wikilink")
   - [Ayatsugu_Otowa](https://ja.wikipedia.org/wiki/Ayatsugu_Otowa "wikilink")
   - [新井大樹](https://ja.wikipedia.org/wiki/新井大樹 "wikilink")
   - [荒牧陽子](https://ja.wikipedia.org/wiki/荒牧陽子 "wikilink") (あーたん)
   - [ALI PROJECT](https://ja.wikipedia.org/wiki/ALI_PROJECT "wikilink")
-  - [アルファ](https://ja.wikipedia.org/wiki/アルファ_\(音楽グループ\) "wikilink")
-  - [ANTHEM](https://ja.wikipedia.org/wiki/ANTHEM "wikilink")
+  - [アルファ](../Page/アルファ_\(音楽グループ\).md "wikilink")
+  - [ANTHEM](../Page/ANTHEM.md "wikilink")
   - [EastNewSound](https://ja.wikipedia.org/wiki/EastNewSound "wikilink")
   - [飯吉新](https://ja.wikipedia.org/wiki/飯吉新 "wikilink") (S.S.D.FANTASICA)
   - [IOSYS](https://ja.wikipedia.org/wiki/IOSYS "wikilink")
   - [池田智宣](https://ja.wikipedia.org/wiki/池田智宣 "wikilink")
-  - [石原慎一](https://ja.wikipedia.org/wiki/石原慎一 "wikilink")
+  - [石原慎一](../Page/石原慎一.md "wikilink")
   - [泉由美](https://ja.wikipedia.org/wiki/泉由美 "wikilink")
-  - [伊藤賢治](https://ja.wikipedia.org/wiki/伊藤賢治 "wikilink")
+  - [伊藤賢治](../Page/伊藤賢治.md "wikilink")
   - [岩田陽一](https://ja.wikipedia.org/wiki/岩田陽一 "wikilink")
-  - [上野圭市](https://ja.wikipedia.org/wiki/上野圭市 "wikilink") (D.J.SWAN、baby weapon)
+  - [上野圭市](../Page/上野圭市.md "wikilink") (D.J.SWAN、baby weapon)
   - [USAO](https://ja.wikipedia.org/wiki/USAO "wikilink")
   - [後田信二](https://ja.wikipedia.org/wiki/後田信二 "wikilink")
   - [宇宙戦隊NOIZ](https://ja.wikipedia.org/wiki/宇宙戦隊NOIZ "wikilink")
   - [h-wonder](https://ja.wikipedia.org/wiki/h-wonder "wikilink")
   - [宇野将平](https://ja.wikipedia.org/wiki/宇野将平 "wikilink") (RoughSketch/uno(IOSYS))
   - [AiMEE](https://ja.wikipedia.org/wiki/AiMEE "wikilink")
-  - [SA](https://ja.wikipedia.org/wiki/SA_\(バンド\) "wikilink")
+  - [SA](../Page/SA_\(バンド\).md "wikilink")
   - [F.size.free](https://ja.wikipedia.org/wiki/F.size.free "wikilink")
   - [m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")
   - [Elizabeth Dobbs](https://ja.wikipedia.org/wiki/Elizabeth_Dobbs "wikilink")
-  - [ELEKTEL](https://ja.wikipedia.org/wiki/ELEKTEL "wikilink")
-  - [Elements Garden](https://ja.wikipedia.org/wiki/Elements_Garden "wikilink")
-  - [遠藤一馬](https://ja.wikipedia.org/wiki/遠藤一馬 "wikilink")
+  - [ELEKTEL](../Page/ELEKTEL.md "wikilink")
+  - [Elements Garden](../Page/Elements_Garden.md "wikilink")
+  - [遠藤一馬](../Page/遠藤一馬.md "wikilink")
   - [大嶋大輔](https://ja.wikipedia.org/wiki/大嶋大輔 "wikilink")
-  - [おおたか静流](https://ja.wikipedia.org/wiki/おおたか静流 "wikilink")
+  - [おおたか静流](../Page/おおたか静流.md "wikilink")
   - [岡本裕美](https://ja.wikipedia.org/wiki/岡本裕美 "wikilink")
   - [大坪直樹](https://ja.wikipedia.org/wiki/大坪直樹 "wikilink") (Nahjee)
   - [All Japan Goith](https://ja.wikipedia.org/wiki/All_Japan_Goith "wikilink")
-  - [小川文明](https://ja.wikipedia.org/wiki/小川文明 "wikilink") (Bunmei)
-  - [沖井礼二](https://ja.wikipedia.org/wiki/沖井礼二 "wikilink")
+  - [小川文明](../Page/小川文明.md "wikilink") (Bunmei)
+  - [沖井礼二](../Page/沖井礼二.md "wikilink")
   - [Orbit1 & Milo](https://ja.wikipedia.org/wiki/Orbit1_&_Milo "wikilink")
   - [OSTER project](https://ja.wikipedia.org/wiki/OSTER_project "wikilink")
   - [onoken](https://ja.wikipedia.org/wiki/onoken "wikilink")(Ax、FELYS)
   - [Hommarju](https://ja.wikipedia.org/wiki/Hommarju "wikilink")
-  - [KAORI](https://ja.wikipedia.org/wiki/KAORI. "wikilink")
+  - [KAORI](../Page/KAORI..md "wikilink")
   - [片岡知子](https://ja.wikipedia.org/wiki/インスタントシトロン "wikilink")
   - [加藤稔二](https://ja.wikipedia.org/wiki/加藤稔二 "wikilink")
   - [加藤浩義](https://ja.wikipedia.org/wiki/加藤浩義 "wikilink") (nc)
   - [岸田教団\&THE明星ロケッツ](https://ja.wikipedia.org/wiki/岸田教団&THE明星ロケッツ "wikilink")
   - [木田俊介](https://ja.wikipedia.org/wiki/木田俊介 "wikilink") (little lounge＊little twinkle)
   - [キャプテンストライダム](https://ja.wikipedia.org/wiki/キャプテンストライダム "wikilink")
-  - [喜屋武ちあき](https://ja.wikipedia.org/wiki/喜屋武ちあき "wikilink")
-  - [9mm Parabellum Bullet](https://ja.wikipedia.org/wiki/9mm_Parabellum_Bullet "wikilink")
+  - [喜屋武ちあき](../Page/喜屋武ちあき.md "wikilink")
+  - [9mm Parabellum Bullet](../Page/9mm_Parabellum_Bullet.md "wikilink")
   - [君の美術館](https://ja.wikipedia.org/wiki/君の美術館 "wikilink")
   - [くにたけみゆき](https://ja.wikipedia.org/wiki/くにたけみゆき "wikilink")
   - [久保田修](https://ja.wikipedia.org/wiki/久保田修_\(作曲家\) "wikilink")
-  - [くまのきよみ](https://ja.wikipedia.org/wiki/くまのきよみ "wikilink")
-  - [久米由基](https://ja.wikipedia.org/wiki/久米由基 "wikilink") (Q-Mex)
-  - [GUHROOVY](https://ja.wikipedia.org/wiki/GUHROOVY "wikilink") (内堀彰&近藤尚昭)
+  - [くまのきよみ](../Page/くまのきよみ.md "wikilink")
+  - [久米由基](../Page/久米由基.md "wikilink") (Q-Mex)
+  - [GUHROOVY](../Page/GUHROOVY.md "wikilink") (内堀彰&近藤尚昭)
   - [グルーヴあんちゃん](https://ja.wikipedia.org/wiki/グルーヴあんちゃん "wikilink")
   - [ぐるたみん](https://ja.wikipedia.org/wiki/ぐるたみん "wikilink")
   - [黒羽康司](https://ja.wikipedia.org/wiki/黒羽康司 "wikilink") (SYMPHONIC DEFOGGERS)
   - [黒光雄輝](https://ja.wikipedia.org/wiki/黒光雄輝 "wikilink") (PINK PONG)
-  - [研ナオコ](https://ja.wikipedia.org/wiki/研ナオコ "wikilink") (NAO)
+  - [研ナオコ](../Page/研ナオコ.md "wikilink") (NAO)
   - [kevin energy](https://ja.wikipedia.org/wiki/kevin_energy "wikilink")
-  - [航空電子](https://ja.wikipedia.org/wiki/航空電子 "wikilink")
+  - [航空電子](../Page/航空電子.md "wikilink")
   - [ko-saku](https://ja.wikipedia.org/wiki/ko-saku "wikilink")
   - [ゴールデンボンバー](https://ja.wikipedia.org/wiki/ゴールデンボンバー_\(バンド\) "wikilink")
   - [cosMo@暴走P](https://ja.wikipedia.org/wiki/cosMo@暴走P "wikilink")
   - [小林ゆう](https://ja.wikipedia.org/wiki/小林ゆう "wikilink")
   - [斎藤功](https://ja.wikipedia.org/wiki/斎藤功 "wikilink") (ASLETICS)
-  - [斎藤広祐](https://ja.wikipedia.org/wiki/斎藤広祐 "wikilink") (kors k)
+  - [斎藤広祐](../Page/斎藤広祐.md "wikilink") (kors k)
   - [斎藤弘昭](https://ja.wikipedia.org/wiki/斎藤弘昭 "wikilink") (AKI)
   - [SOUND HOLIC](https://ja.wikipedia.org/wiki/SOUND_HOLIC "wikilink")
-  - [坂本頼光](https://ja.wikipedia.org/wiki/坂本頼光 "wikilink")
+  - [坂本頼光](../Page/坂本頼光.md "wikilink")
   - [佐久間彩](https://ja.wikipedia.org/wiki/佐久間彩 "wikilink")
   - [sasakure.UK](https://ja.wikipedia.org/wiki/sasakure.UK "wikilink") feat. [mirto](https://ja.wikipedia.org/wiki/mirto "wikilink")
   - [沙野カモメ](https://ja.wikipedia.org/wiki/沙野カモメ "wikilink")
   - [佐野信義](https://ja.wikipedia.org/wiki/佐野信義 "wikilink") (sanodg)
-  - [佐宗綾子](https://ja.wikipedia.org/wiki/佐宗綾子 "wikilink") (sampling masters AYA)
+  - [佐宗綾子](../Page/佐宗綾子.md "wikilink") (sampling masters AYA)
   - [THE DILLINGER ESCAPE PLAN](https://ja.wikipedia.org/wiki/THE_DILLINGER_ESCAPE_PLAN "wikilink")
   - [The DO-Nut's](https://ja.wikipedia.org/wiki/The_DO-Nut's "wikilink")
-  - [THE LOCAL ART](https://ja.wikipedia.org/wiki/THE_LOCAL_ART "wikilink")
+  - [THE LOCAL ART](../Page/THE_LOCAL_ART.md "wikilink")
   - [xac](https://ja.wikipedia.org/wiki/xac "wikilink")
-  - [志方あきこ](https://ja.wikipedia.org/wiki/志方あきこ "wikilink")
-  - [下村陽子](https://ja.wikipedia.org/wiki/下村陽子 "wikilink")
+  - [志方あきこ](../Page/志方あきこ.md "wikilink")
+  - [下村陽子](../Page/下村陽子.md "wikilink")
   - [JAKAZiD](https://ja.wikipedia.org/wiki/JAKAZiD "wikilink")
   - [Shu Okuyama](https://ja.wikipedia.org/wiki/Shu_Okuyama "wikilink")
   - [Silver Forest](https://ja.wikipedia.org/wiki/Silver_Forest "wikilink")
   - [SILVA](https://ja.wikipedia.org/wiki/SILVA "wikilink")
-  - [新堂敦士](https://ja.wikipedia.org/wiki/新堂敦士 "wikilink")
+  - [新堂敦士](../Page/新堂敦士.md "wikilink")
   - [スーパーサンダース](https://ja.wikipedia.org/wiki/スーパーサンダース "wikilink")
-  - [菅沼孝三](https://ja.wikipedia.org/wiki/菅沼孝三 "wikilink")
+  - [菅沼孝三](../Page/菅沼孝三.md "wikilink")
   - [Scotty D.](https://ja.wikipedia.org/wiki/Scott_Dolph "wikilink")
   - [鈴木愛](https://ja.wikipedia.org/wiki/鈴木愛 "wikilink")
   - [鈴木光人](https://ja.wikipedia.org/wiki/鈴木光人 "wikilink")
   - [Starving Trancer](https://ja.wikipedia.org/wiki/Starving_Trancer "wikilink")
-  - [スチャダラパー](https://ja.wikipedia.org/wiki/スチャダラパー "wikilink")
+  - [スチャダラパー](../Page/スチャダラパー.md "wikilink")
   - [Three Berry Icecream](https://ja.wikipedia.org/wiki/Three_Berry_Icecream "wikilink")
   - [すわひでお](https://ja.wikipedia.org/wiki/すわひでお "wikilink")
   - [石鹸屋](https://ja.wikipedia.org/wiki/石鹸屋_\(バンド\) "wikilink")
   - [CELLADOR](https://ja.wikipedia.org/wiki/CELLADOR "wikilink")
   - [Dirty Androids](https://ja.wikipedia.org/wiki/Dirty_Androids "wikilink")
-  - [高田雅史](https://ja.wikipedia.org/wiki/高田雅史 "wikilink")
+  - [高田雅史](../Page/高田雅史.md "wikilink")
 
 </div>
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
   - [高見澤哲也](https://ja.wikipedia.org/wiki/高見澤哲也 "wikilink")
-  - [高見優](https://ja.wikipedia.org/wiki/高見優 "wikilink")
-  - [TaQ](https://ja.wikipedia.org/wiki/TaQ "wikilink")
+  - [高見優](../Page/高見優.md "wikilink")
+  - [TaQ](../Page/TaQ.md "wikilink")
   - [竹田雅一](https://ja.wikipedia.org/wiki/竹田雅一 "wikilink")
-  - [樽木栄一郎](https://ja.wikipedia.org/wiki/樽木栄一郎 "wikilink")
+  - [樽木栄一郎](../Page/樽木栄一郎.md "wikilink")
   - [DANCE☆MAN](../Page/ダンス☆マン.md "wikilink")
-  - [CHOKE SLEEPER](https://ja.wikipedia.org/wiki/CHOKE_SLEEPER "wikilink")
+  - [CHOKE SLEEPER](../Page/CHOKE_SLEEPER.md "wikilink")
   - [DM Ashura](https://ja.wikipedia.org/wiki/DM_Ashura "wikilink")
   - [DJ Genki](https://ja.wikipedia.org/wiki/DJ_Genki "wikilink")
   - [DJ Command](https://ja.wikipedia.org/wiki/DJ_Command "wikilink")
   - [DJ SHIMAMURA](https://ja.wikipedia.org/wiki/DJ_SHIMAMURA "wikilink")
   - [DJ CHUCKY](https://ja.wikipedia.org/wiki/DJ_CHUCKY "wikilink")
-  - [DJ TECHNORCH](https://ja.wikipedia.org/wiki/DJ_TECHNORCH "wikilink")
+  - [DJ TECHNORCH](../Page/DJ_TECHNORCH.md "wikilink")
   - [DJ Noriken](https://ja.wikipedia.org/wiki/DJ_Noriken "wikilink")
   - [DJ Weaver](https://ja.wikipedia.org/wiki/DJ_Weaver "wikilink")
   - [teranoid\&MCnatsack](https://ja.wikipedia.org/wiki/teranoid&MCnatsack "wikilink")
@@ -563,56 +563,56 @@ Hommarju</p></td>
   - [TORIENA](https://ja.wikipedia.org/wiki/TORIENA "wikilink")
   - [t+pazolite](https://ja.wikipedia.org/wiki/t+pazolite "wikilink")
   - [NICE GUY人](https://ja.wikipedia.org/wiki/NICE_GUY人 "wikilink")
-  - [長沢ゆりか](https://ja.wikipedia.org/wiki/長沢ゆりか "wikilink")
+  - [長沢ゆりか](../Page/長沢ゆりか.md "wikilink")
   - [中田暁](https://ja.wikipedia.org/wiki/中田暁 "wikilink") (NAKATEK)
   - [中野定博](https://ja.wikipedia.org/wiki/中野定博 "wikilink") (SADA)
-  - [中原龍太郎](https://ja.wikipedia.org/wiki/中原龍太郎 "wikilink") (Ryu☆)
+  - [中原龍太郎](../Page/中原龍太郎.md "wikilink") (Ryu☆)
   - [夏川陽子](https://ja.wikipedia.org/wiki/夏川陽子 "wikilink")
   - [名取友美](https://ja.wikipedia.org/wiki/名取友美 "wikilink")
   - [ななひら](https://ja.wikipedia.org/wiki/ななひら "wikilink")
   - [NAPAKICK](https://ja.wikipedia.org/wiki/NAPAKICK "wikilink") (高橋正幸)
   - [鍋嶋圭一](https://ja.wikipedia.org/wiki/鍋嶋圭一 "wikilink")
-  - [並木晃一](https://ja.wikipedia.org/wiki/並木晃一 "wikilink")
-  - [並木学](https://ja.wikipedia.org/wiki/並木学 "wikilink")
-  - [名雪佳代](https://ja.wikipedia.org/wiki/名雪佳代 "wikilink") (K.Nayuki)
+  - [並木晃一](../Page/並木晃一.md "wikilink")
+  - [並木学](../Page/並木学.md "wikilink")
+  - [名雪佳代](../Page/名雪佳代.md "wikilink") (K.Nayuki)
   - [軟鉄兄弟](https://ja.wikipedia.org/wiki/軟鉄兄弟 "wikilink") (やまだん&湯毛)
-  - [難波弘之](https://ja.wikipedia.org/wiki/難波弘之 "wikilink")
-  - [二井原実](https://ja.wikipedia.org/wiki/二井原実 "wikilink")
-  - [西本英雄](https://ja.wikipedia.org/wiki/西本英雄 "wikilink")
-  - [西脇辰弥](https://ja.wikipedia.org/wiki/西脇辰弥 "wikilink")
+  - [難波弘之](../Page/難波弘之.md "wikilink")
+  - [二井原実](../Page/二井原実.md "wikilink")
+  - [西本英雄](../Page/西本英雄.md "wikilink")
+  - [西脇辰弥](../Page/西脇辰弥.md "wikilink")
   - [トベタ・バジュン](https://ja.wikipedia.org/wiki/トベタ・バジュン "wikilink")(nouvo nude)
   - [ノーボトム\!](https://ja.wikipedia.org/wiki/ノーボトム! "wikilink")
-  - [パーキッツ](https://ja.wikipedia.org/wiki/パーキッツ "wikilink") (ふじのマナミ&片岡嗣美)
-  - [HIGHWAY61](https://ja.wikipedia.org/wiki/HIGHWAY61 "wikilink")
-  - [爆風スランプ](https://ja.wikipedia.org/wiki/爆風スランプ "wikilink") ([サンプラザ中野](https://ja.wikipedia.org/wiki/サンプラザ中野くん "wikilink")&[パッパラー河合](https://ja.wikipedia.org/wiki/パッパラー河合 "wikilink"))
+  - [パーキッツ](../Page/パーキッツ.md "wikilink") (ふじのマナミ&片岡嗣美)
+  - [HIGHWAY61](../Page/HIGHWAY61.md "wikilink")
+  - [爆風スランプ](../Page/爆風スランプ.md "wikilink") ([サンプラザ中野](../Page/サンプラザ中野くん.md "wikilink")&[パッパラー河合](../Page/パッパラー河合.md "wikilink"))
   - [hacomaco](https://ja.wikipedia.org/wiki/hacomaco "wikilink")
-  - [HAYABUSA](https://ja.wikipedia.org/wiki/HAYABUSA "wikilink")
+  - [HAYABUSA](../Page/HAYABUSA.md "wikilink")
   - [秦叔史](https://ja.wikipedia.org/wiki/秦叔史 "wikilink") (HATA)
   - [発熱巫女～ず](https://ja.wikipedia.org/wiki/発熱巫女～ず "wikilink")
   - [Vanilla Ninja](https://ja.wikipedia.org/wiki/Vanilla_Ninja "wikilink")
-  - [HΛL](https://ja.wikipedia.org/wiki/HΛL "wikilink")
+  - [HΛL](../Page/HΛL.md "wikilink")
   - [はるなば](https://ja.wikipedia.org/wiki/はるなば "wikilink")
-  - [PAN](https://ja.wikipedia.org/wiki/PAN_\(バンド\) "wikilink")
+  - [PAN](../Page/PAN_\(バンド\).md "wikilink")
   - [ハンサム兄弟](https://ja.wikipedia.org/wiki/ハンサム兄弟 "wikilink")
   - [BE THE VOICE](https://ja.wikipedia.org/wiki/BE_THE_VOICE "wikilink")
   - ビートまりお（[COOL\&CREATE](https://ja.wikipedia.org/wiki/COOL&CREATE "wikilink")）
   - [P\*Light](https://ja.wikipedia.org/wiki/P*Light "wikilink")
-  - [日高明大](https://ja.wikipedia.org/wiki/日高明大 "wikilink") (ムルムル)
+  - [日高明大](../Page/日高明大.md "wikilink") (ムルムル)
   - [百石元](https://ja.wikipedia.org/wiki/百石元 "wikilink")
   - [ヒロシワタナベ](https://ja.wikipedia.org/wiki/Hiroshi_Watanabe "wikilink")
   - [ピンクターボ](https://ja.wikipedia.org/wiki/ピンクターボ "wikilink")
   - [FELT](https://ja.wikipedia.org/wiki/FELT "wikilink")
   - [PHQUASE](https://ja.wikipedia.org/wiki/PHQUASE "wikilink")
-  - [福富幸宏](https://ja.wikipedia.org/wiki/福富幸宏 "wikilink")
+  - [福富幸宏](../Page/福富幸宏.md "wikilink")
   - [豚乙女](https://ja.wikipedia.org/wiki/豚乙女 "wikilink")
   - [ふなっしー](https://ja.wikipedia.org/wiki/ふなっしー "wikilink")
   - [Fracus](https://ja.wikipedia.org/wiki/Fracus "wikilink")
   - [Brisk\&Ham](https://ja.wikipedia.org/wiki/Brisk&Ham "wikilink")
-  - [Plus-Tech Squeeze Box](https://ja.wikipedia.org/wiki/Plus-Tech_Squeeze_Box "wikilink")
+  - [Plus-Tech Squeeze Box](../Page/Plus-Tech_Squeeze_Box.md "wikilink")
   - [PRASTIK DANCEFLOOR](https://ja.wikipedia.org/wiki/PRASTIK_DANCEFLOOR "wikilink")
   - [BlackY](https://ja.wikipedia.org/wiki/BlackY "wikilink")
-  - [古川竜也](https://ja.wikipedia.org/wiki/古川竜也 "wikilink") (good-cool)
-  - [細江慎治](https://ja.wikipedia.org/wiki/細江慎治 "wikilink") (sampling masters MEGA)
+  - [古川竜也](../Page/古川竜也.md "wikilink") (good-cool)
+  - [細江慎治](../Page/細江慎治.md "wikilink") (sampling masters MEGA)
   - [堀澤麻衣子](https://ja.wikipedia.org/wiki/堀澤麻衣子 "wikilink")
   - [Holstein](https://ja.wikipedia.org/wiki/Holstein "wikilink")
   - [マキシマムザホルモン](https://ja.wikipedia.org/wiki/マキシマムザホルモン "wikilink")
@@ -627,35 +627,35 @@ Hommarju</p></td>
   - [Monday満ちる](https://ja.wikipedia.org/wiki/Monday満ちる "wikilink")
   - [三澤秋](https://ja.wikipedia.org/wiki/三澤秋 "wikilink")
   - [水木一郎](../Page/水木一郎.md "wikilink")
-  - [みずしな孝之](https://ja.wikipedia.org/wiki/みずしな孝之 "wikilink")
+  - [みずしな孝之](../Page/みずしな孝之.md "wikilink")
   - [源屋](https://ja.wikipedia.org/wiki/源屋 "wikilink")
-  - [見良津健雄](https://ja.wikipedia.org/wiki/見良津健雄 "wikilink") (Twin AmadeuS)
-  - [向谷実](https://ja.wikipedia.org/wiki/向谷実 "wikilink")
+  - [見良津健雄](../Page/見良津健雄.md "wikilink") (Twin AmadeuS)
+  - [向谷実](../Page/向谷実.md "wikilink")
   - [MUNETICA](https://ja.wikipedia.org/wiki/MUNETICA "wikilink")
   - [村山晋一郎](https://ja.wikipedia.org/wiki/村山晋一郎 "wikilink")
   - [metro trip](https://ja.wikipedia.org/wiki/metro_trip "wikilink")
   - [森永真由美](https://ja.wikipedia.org/wiki/森永真由美 "wikilink")(Prim、HHH×MM×ST)
-  - [山崎耕一](https://ja.wikipedia.org/wiki/山崎耕一 "wikilink") (RAM)
-  - YUU and NAHO from [Cawaii\!](https://ja.wikipedia.org/wiki/Cawaii! "wikilink") ([福長優](https://ja.wikipedia.org/wiki/福長優 "wikilink")&[井上奈保](https://ja.wikipedia.org/wiki/井上奈保 "wikilink"))
+  - [山崎耕一](../Page/山崎耕一.md "wikilink") (RAM)
+  - YUU and NAHO from [Cawaii\!](../Page/Cawaii!.md "wikilink") ([福長優](https://ja.wikipedia.org/wiki/福長優 "wikilink")&[井上奈保](https://ja.wikipedia.org/wiki/井上奈保 "wikilink"))
   - [祐天寺浩美](https://ja.wikipedia.org/wiki/祐天寺浩美 "wikilink") (MPM)
-  - [Yum\!Yum\!ORANGE](https://ja.wikipedia.org/wiki/Yum!Yum!ORANGE "wikilink")
+  - [Yum\!Yum\!ORANGE](../Page/Yum!Yum!ORANGE.md "wikilink")
   - [幽閉サテライト](https://ja.wikipedia.org/wiki/幽閉サテライト "wikilink")
-  - [YOJI](https://ja.wikipedia.org/wiki/YOJI "wikilink")
-  - [横田商会](https://ja.wikipedia.org/wiki/横田商会_\(DJユニット\) "wikilink") ((Y\&Co.(横田聡&田村哲也))
-  - [LIA](https://ja.wikipedia.org/wiki/Lia "wikilink")
-  - [RIZE](https://ja.wikipedia.org/wiki/RIZE "wikilink")
+  - [YOJI](../Page/YOJI.md "wikilink")
+  - [横田商会](../Page/横田商会_\(DJユニット\).md "wikilink") ((Y\&Co.(横田聡&田村哲也))
+  - [LIA](../Page/Lia.md "wikilink")
+  - [RIZE](../Page/RIZE.md "wikilink")
   - [Last Note.](https://ja.wikipedia.org/wiki/Last_Note. "wikilink")
-  - [LOVE+HATE](https://ja.wikipedia.org/wiki/LOVE+HATE "wikilink")
+  - [LOVE+HATE](../Page/LOVE+HATE.md "wikilink")
   - [RINA](https://ja.wikipedia.org/wiki/RINA_\(歌手\) "wikilink")
   - [永井良和](https://ja.wikipedia.org/wiki/永井良和_\(作曲家\) "wikilink")（REDALiCE）
-  - [ROAD OF MAJOR](https://ja.wikipedia.org/wiki/ロードオブメジャー "wikilink")(ギタドラでの名義。jubeatではロードオブメジャー)
-  - [ロリータ18号](https://ja.wikipedia.org/wiki/ロリータ18号 "wikilink")
+  - [ROAD OF MAJOR](../Page/ロードオブメジャー.md "wikilink")(ギタドラでの名義。jubeatではロードオブメジャー)
+  - [ロリータ18号](../Page/ロリータ18号.md "wikilink")
 
 </div>
 
 ## 開発部署について
 
-従来は[メダルゲーム](https://ja.wikipedia.org/wiki/メダルゲーム "wikilink")、[カジノ](https://ja.wikipedia.org/wiki/カジノ "wikilink")機器を制作していたコナミ株式会社GM機器事業本部（[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[座間市](https://ja.wikipedia.org/wiki/座間市 "wikilink")）により『[beatmania](https://ja.wikipedia.org/wiki/beatmania "wikilink")』、『[pop'n music](https://ja.wikipedia.org/wiki/pop'n_music "wikilink")』が、AM機器事業本部（[兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")[西区](https://ja.wikipedia.org/wiki/西区_\(神戸市\) "wikilink")・[西神工業団地](https://ja.wikipedia.org/wiki/西神工業団地 "wikilink")）より『Dance Dance Revolution』、『GuitarFreaks』、『drummania』などが開発されていた。しかし2000年3月に、GMの音楽ゲーム開発部門がAMに移管され、AM事業本部として[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")に移動（後に[港区六本木の](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[六本木ヒルズ](https://ja.wikipedia.org/wiki/六本木ヒルズ "wikilink")→同赤坂の[東京ミッドタウン](https://ja.wikipedia.org/wiki/東京ミッドタウン "wikilink")に移動）、また旧AM機器事業本部はAM神戸事業所へと変更した。この際に『beatmania』と『pop'n music』の公式サイトの移転も行われている。
+従来は[メダルゲーム](../Page/メダルゲーム.md "wikilink")、[カジノ](../Page/カジノ.md "wikilink")機器を制作していたコナミ株式会社GM機器事業本部（[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[座間市](../Page/座間市.md "wikilink")）により『[beatmania](https://ja.wikipedia.org/wiki/beatmania "wikilink")』、『[pop'n music](https://ja.wikipedia.org/wiki/pop'n_music "wikilink")』が、AM機器事業本部（[兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")[西区](../Page/西区_\(神戸市\).md "wikilink")・[西神工業団地](https://ja.wikipedia.org/wiki/西神工業団地 "wikilink")）より『Dance Dance Revolution』、『GuitarFreaks』、『drummania』などが開発されていた。しかし2000年3月に、GMの音楽ゲーム開発部門がAMに移管され、AM事業本部として[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")に移動（後に[港区六本木の](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[六本木ヒルズ](../Page/六本木ヒルズ.md "wikilink")→同赤坂の[東京ミッドタウン](../Page/東京ミッドタウン.md "wikilink")に移動）、また旧AM機器事業本部はAM神戸事業所へと変更した。この際に『beatmania』と『pop'n music』の公式サイトの移転も行われている。
 
 コナミの事業統合により「ビーマニプロダクション」が発足した現在でも上記の二ヵ所で開発されている。
 
@@ -667,8 +667,8 @@ Hommarju</p></td>
 | **[pop'n music](https://ja.wikipedia.org/wiki/pop'n_music "wikilink")**                                       |         |
 | **[pop'n stage](https://ja.wikipedia.org/wiki/pop'n_stage "wikilink")**                                       |         |
 | **[Dance Dance Revolution](https://ja.wikipedia.org/wiki/Dance_Dance_Revolution "wikilink")**(DDRMAX2以降\[9\]) |         |
-| **[KEYBOARDMANIA](https://ja.wikipedia.org/wiki/KEYBOARDMANIA "wikilink")**                                   |         |
-| **[ParaParaParadise](https://ja.wikipedia.org/wiki/ParaParaParadise "wikilink")**                             |         |
+| **[KEYBOARDMANIA](../Page/KEYBOARDMANIA.md "wikilink")**                                                      |         |
+| **[ParaParaParadise](../Page/ParaParaParadise.md "wikilink")**                                                |         |
 | **[REFLEC BEAT](https://ja.wikipedia.org/wiki/REFLEC_BEAT "wikilink")**                                       |         |
 | **[SOUND VOLTEX](https://ja.wikipedia.org/wiki/SOUND_VOLTEX "wikilink")**                                     |         |
 | **[DanceEvolution](https://ja.wikipedia.org/wiki/DanceEvolution "wikilink")**                                 |         |
@@ -678,17 +678,17 @@ Hommarju</p></td>
 | **[Dance Dance Revolution Solo](https://ja.wikipedia.org/wiki/Dance_Dance_Revolution "wikilink")**            |         |
 | **[Dancing Stage](https://ja.wikipedia.org/wiki/Dance_Dance_Revolution "wikilink")**                          |         |
 | **[Dance Maniax](https://ja.wikipedia.org/wiki/Dance_Maniax "wikilink")**                                     |         |
-| **[GUITARFREAKS](https://ja.wikipedia.org/wiki/GUITARFREAKS "wikilink")**                                     |         |
+| **[GUITARFREAKS](../Page/GUITARFREAKS.md "wikilink")**                                                        |         |
 | **[drummania](https://ja.wikipedia.org/wiki/drummania "wikilink")**                                           |         |
-| **[RAP FREAKS](https://ja.wikipedia.org/wiki/RAP_FREAKS "wikilink")**                                         |         |
-| **[MAMBO A GO GO](https://ja.wikipedia.org/wiki/MAMBO_A_GO_GO "wikilink")**                                   |         |
+| **[RAP FREAKS](../Page/RAP_FREAKS.md "wikilink")**                                                            |         |
+| **[MAMBO A GO GO](../Page/MAMBO_A_GO_GO.md "wikilink")**                                                      |         |
 | **[jubeat](https://ja.wikipedia.org/wiki/jubeat "wikilink")**                                                 |         |
 | '''[MÚSECA](https://ja.wikipedia.org/wiki/MÚSECA "wikilink")                                                  |         |
-| **[Toy'sMarch](https://ja.wikipedia.org/wiki/Toy'sMarch "wikilink")**                                         |         |
-| **[DANCE 86.4 FUNKY RADIO STATION](https://ja.wikipedia.org/wiki/DANCE_86.4_FUNKY_RADIO_STATION "wikilink")** |         |
+| **[Toy'sMarch](../Page/Toy'sMarch.md "wikilink")**                                                            |         |
+| **[DANCE 86.4 FUNKY RADIO STATION](../Page/DANCE_86.4_FUNKY_RADIO_STATION.md "wikilink")**                    |         |
 |                                                                                                               |         |
 
-家庭用作品については、統合前は『beatmania』、『beatmaniaIIDX』、『GUITARFREAKS』、『drummania』、『KEYBOARDMANIA』、『ParaParaParadise』は旧[コナミコンピュータエンタテインメントジャパン](https://ja.wikipedia.org/wiki/コナミコンピュータエンタテインメントジャパン "wikilink")、（[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")恵比寿の[恵比寿ガーデンプレイス](https://ja.wikipedia.org/wiki/恵比寿ガーデンプレイス "wikilink")→六本木ヒルズ→ミッドタウン）『DanceDanceRevolution』は旧[コナミコンピュータエンタテインメント東京](https://ja.wikipedia.org/wiki/コナミコンピュータエンタテインメント東京 "wikilink")（[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")神田神保町→[中央区晴海の](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")[晴海アイランドトリトンスクエア](https://ja.wikipedia.org/wiki/晴海アイランドトリトンスクエア "wikilink")→ミッドタウン）、『pop'n music』及び『beatmaniaIIDX 7thStyle』以降は旧コナミコンピュータエンタテインメント横浜、後に[コナミコンピュータエンタテインメントスタジオ](https://ja.wikipedia.org/wiki/コナミコンピュータエンタテインメントスタジオ "wikilink")（六本木ヒルズ→ミッドタウン）で開発されていた。また、ゲームボーイ版の初代『beatmania GB』、『pop'n music GB』は旧コナミコンピュータエンタテインメント神戸で開発されていた。
+家庭用作品については、統合前は『beatmania』、『beatmaniaIIDX』、『GUITARFREAKS』、『drummania』、『KEYBOARDMANIA』、『ParaParaParadise』は旧[コナミコンピュータエンタテインメントジャパン](../Page/コナミコンピュータエンタテインメントジャパン.md "wikilink")、（[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")恵比寿の[恵比寿ガーデンプレイス](../Page/恵比寿ガーデンプレイス.md "wikilink")→六本木ヒルズ→ミッドタウン）『DanceDanceRevolution』は旧[コナミコンピュータエンタテインメント東京](../Page/コナミコンピュータエンタテインメント東京.md "wikilink")（[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")神田神保町→[中央区晴海の](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")[晴海アイランドトリトンスクエア](../Page/晴海アイランドトリトンスクエア.md "wikilink")→ミッドタウン）、『pop'n music』及び『beatmaniaIIDX 7thStyle』以降は旧コナミコンピュータエンタテインメント横浜、後に[コナミコンピュータエンタテインメントスタジオ](../Page/コナミコンピュータエンタテインメントスタジオ.md "wikilink")（六本木ヒルズ→ミッドタウン）で開発されていた。また、ゲームボーイ版の初代『beatmania GB』、『pop'n music GB』は旧コナミコンピュータエンタテインメント神戸で開発されていた。
 
 現在は、旧KCE3社の合併とともに、「ビーマニプロダクション」が発足し、家庭用・業務用の開発チームも統合されている。
 
@@ -703,7 +703,7 @@ Hommarju</p></td>
     『beatmania IIDX』、『pop'n music』、『GuitarFreaks』、『DrumMania』の4機種合同で、2005年から2006年初頭にかけて行われたスペシャル企画。それぞれの筐体で解禁された曲の作曲者名を当てるクイズ「BEMANIナンバーズ」、コンポーザーによるコラム、ボーカリスト・星野奏子がパーソナリティーをつとめるネットラジオなどの企画が行われた。またこの企画の開催に伴いこの企画の中心となっていた『beatmania IIDX12 HAPPY SKY』、『pop'n music 13 カーニバル』、『GuitarFreaks V2』、『DrumMania V2』ではオープニング画面において[e-AMUSEMENT](https://ja.wikipedia.org/wiki/e-AMUSEMENT "wikilink")のロゴの後にBEMANI EXPOのロゴが表示されていたほか、「BEMANIナンバーズ」でのコラボレーション楽曲が解禁された。
   - BEMANIロゴ
     1998年下半期、『beatmania』からの派生作品が展開されるに伴い使用され始めた。『Toy's March』以降、『Dance 86.4』や『pop'n music』（アーケード版『13 カーニバル』及びPlayStation 2版『12 いろは』以降）、『マリンバ天国』、『ミライダガッキ』などのライトユーザー向け作品に対して、カラフルな新しいBEMANIブランドのロゴマークを採用している。その他の作品（『beatmania IIDX』、『DanceDanceRevolution』、『GuitarFreaks』、『DrumMania』、『jubeat』）では従来のデザインでそのまま存続している。
-  - DOUBLE PLAY（[ダブルプレイ](https://ja.wikipedia.org/wiki/ダブルプレイ "wikilink")）
+  - DOUBLE PLAY（[ダブルプレイ](../Page/ダブルプレイ.md "wikilink")）
     1Pと2P用の2セットのデバイスを両方使用してプレイする上級者用モードで、『beatmania 2ndMIX』から搭載された最初期からあるプレイオプション。このモードが実装されているのは現行シリーズでは『beatmania IIDX』、『Dance Dance Revolution』、及び『HELLO\! POP'N MUSIC』のみであるが、過去のシリーズでは『beatmania』、『keyboardmania』、『Dance Maniax』に搭載されていた。初代『beatmania』で2人プレイモードを1人で行っていたプレイヤーを見た開発者が、ゲームの仕様として実装したのが始まりである。あくまで1人プレイ専用モードであるため、複数人数によるプレイは重大なルール違反とされる。
     DOUBLE PLAYの譜面が2人プレイの譜面と共通のものと、DOUBLE PLAY専用の譜面が用意されているものに分かれている。前者の場合、主に『beatmania』と初期の『beatmania IIDX』の譜面では物理的に入力不可能な配置になっているものがあり、プレイヤーに無理な操作を要求される場面も頻発した。
 
@@ -719,9 +719,9 @@ Hommarju</p></td>
 <!-- end list -->
 
   - オリジナル曲・ライセンス曲
-    オリジナル曲はそのゲームオリジナルの楽曲（コナミ社内、またはゲーム用としての外部委託による製作（[dj nagureo](https://ja.wikipedia.org/wiki/南雲玲生 "wikilink")、[good-cool](https://ja.wikipedia.org/wiki/古川竜也 "wikilink")、[パーキッツ](https://ja.wikipedia.org/wiki/パーキッツ "wikilink")等））を指し、ライセンス曲（コナミによる呼称。ユーザー間では「版権曲」と称されることが多い）は[日本音楽著作権協会](../Page/日本音楽著作権協会.md "wikilink")(JASRAC)・[イーライセンス](https://ja.wikipedia.org/wiki/イーライセンス "wikilink")・[ジャパン・ライツ・クリアランス](https://ja.wikipedia.org/wiki/ジャパン・ライツ・クリアランス "wikilink")（コピナビ）からの許諾を得て収録している楽曲を指す。オリジナル曲はJASRACが著作権の管理をしていない、いわゆる[管理楽曲](https://ja.wikipedia.org/wiki/管理楽曲 "wikilink")で、サウンドトラック盤にその旨の断り書きがある。
+    オリジナル曲はそのゲームオリジナルの楽曲（コナミ社内、またはゲーム用としての外部委託による製作（[dj nagureo](../Page/南雲玲生.md "wikilink")、[good-cool](../Page/古川竜也.md "wikilink")、[パーキッツ](../Page/パーキッツ.md "wikilink")等））を指し、ライセンス曲（コナミによる呼称。ユーザー間では「版権曲」と称されることが多い）は[日本音楽著作権協会](../Page/日本音楽著作権協会.md "wikilink")(JASRAC)・[イーライセンス](https://ja.wikipedia.org/wiki/イーライセンス "wikilink")・[ジャパン・ライツ・クリアランス](https://ja.wikipedia.org/wiki/ジャパン・ライツ・クリアランス "wikilink")（コピナビ）からの許諾を得て収録している楽曲を指す。オリジナル曲はJASRACが著作権の管理をしていない、いわゆる[管理楽曲](../Page/管理楽曲.md "wikilink")で、サウンドトラック盤にその旨の断り書きがある。
     『beatmania』シリーズではオリジナル曲が特に多い。一方ライトユーザーがターゲットとなる『DANCE 86.4 FUNKY RADIO STATION』や『Toy'sMarch』ではライセンス曲が多く収録される傾向がある。また、完全新規タイトルで未経験者の開拓を狙った『jubeat』ではライセンス曲が多い。
-    『Dance Dance Revolution』シリーズでは、[EMIミュージック・ジャパン](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")のダンスコンピレーションシリーズ『[Dancemania](https://ja.wikipedia.org/wiki/Dancemania "wikilink")』とタイアップを行い、多くの楽曲の提供を受けていた（ただし近年の作品では特定レーベルとのタイアップは行っておらず、曲ごとに個別にライセンスを受けている）。
+    『Dance Dance Revolution』シリーズでは、[EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink")のダンスコンピレーションシリーズ『[Dancemania](https://ja.wikipedia.org/wiki/Dancemania "wikilink")』とタイアップを行い、多くの楽曲の提供を受けていた（ただし近年の作品では特定レーベルとのタイアップは行っておらず、曲ごとに個別にライセンスを受けている）。
     『beatmania』と『beatmania IIDX』では、[エイベックスやEMIミュージック](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")・ジャパン（当時は東芝EMI）の許諾を得て収録しているライセンス曲の場合曲選択画面と曲ロード画面でそのアーティストの所属レーベル（[avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink")、[cutting edgeなど](https://ja.wikipedia.org/wiki/cutting_edge "wikilink")）のロゴが表示される。
     なお、ライセンス曲に関してはアーティストから楽曲提供を受けているものと原曲を別のアーティストが歌っているもの（いわゆる[カバー](https://ja.wikipedia.org/wiki/カバー#カバー（楽曲） "wikilink")）の2通りのパターンがある。前者についてはさらに「提供曲」として区別される場合もある。『GUITARFREAKS』と『drummania』のライセンス曲は後者のケースである場合が多い。また、外部インディーズアーティストから楽曲提供を受けている曲の場合、筐体仕様が変更された『V』以降の追加収録曲ではその楽曲のミュージッククリップが使用されている（それまでは他の曲と同様アニメーションタイプのクリップがつけられていた）。カバー曲や提供曲として楽曲が収録されたアーティストが、その後オリジナル楽曲の制作に関わった例もある（[土岐麻子](https://ja.wikipedia.org/wiki/土岐麻子 "wikilink")、[宇宙戦隊NOIZ](https://ja.wikipedia.org/wiki/宇宙戦隊NOIZ "wikilink")、[松井亮](https://ja.wikipedia.org/wiki/the_brilliant_green "wikilink")）。
     サウンドトラック化や家庭用ゲーム機への移植の際、ライセンス曲は収録が見送られることがある。
@@ -732,7 +732,7 @@ Hommarju</p></td>
   - 移植曲
     他シリーズ用に製作された曲を他シリーズ用の曲として流用する物。ムービーと共に移植される場合もある。最初の移植曲は『beatmania』→『pop'n music』に移植された「e-motion」（ただし、楽曲のアレンジは『beatmania 2ndMIX』収録の「e-motion (2nd mix)」に準拠）。 『Dance Dance Revolution』への移植は曲の長さとプレーヤー疲労を考え、一部をカットして短縮されることがある。また移植前と移植後で曲に違いが発見されることがある。また、同時期に稼動した複数機種で同一の楽曲が同時収録されるケースもある。
   - 解禁
-    隠し要素として存在していた曲などが、プレイあるいは設定できるようになること。解禁の条件はさまざまで、[ディップスイッチ](https://ja.wikipedia.org/wiki/ディップスイッチ "wikilink")やテストモードでのオペレータ操作によるもの、プレイでのノルマ達成などがある。
+    隠し要素として存在していた曲などが、プレイあるいは設定できるようになること。解禁の条件はさまざまで、[ディップスイッチ](../Page/ディップスイッチ.md "wikilink")やテストモードでのオペレータ操作によるもの、プレイでのノルマ達成などがある。
     近年では基板が[Windowsベースの物に切り替わったため](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、オペレーター用の解禁コマンドが解禁前に解析される事態が多発した。その結果オペレーターコマンドを実装せずに、[e-AMUSEMENT](https://ja.wikipedia.org/wiki/e-AMUSEMENT "wikilink")経由でのオンライン解禁のみになった。そのためネットワーク接続されていないオフライン筐体での隠し要素のプレーについては、1プレイ中に自力で出現させられる物以外は一切プレー出来なくなっている。
 
 <!-- end list -->
@@ -750,9 +750,9 @@ Hommarju</p></td>
 
 ## その他
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に発売された[任天堂](../Page/任天堂.md "wikilink")の音楽ゲームソフト『[大合奏\!バンドブラザーズDX](https://ja.wikipedia.org/wiki/大合奏!バンドブラザーズDX "wikilink")』（[ニンテンドーDS](https://ja.wikipedia.org/wiki/ニンテンドーDS "wikilink")）において、BEMANIシリーズ（『beatmania』シリーズ、『pop'n music』シリーズが中心）の楽曲が複数ダウンロード配信されている。これらの楽曲は全て、ユーザーにより投稿され審査に合格したものである。なお、楽曲はすべてJASRACに登録されている楽曲のみであり、全てのビーマニシリーズの楽曲が採用されるわけではない。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に発売された[任天堂](../Page/任天堂.md "wikilink")の音楽ゲームソフト『[大合奏\!バンドブラザーズDX](https://ja.wikipedia.org/wiki/大合奏!バンドブラザーズDX "wikilink")』（[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")）において、BEMANIシリーズ（『beatmania』シリーズ、『pop'n music』シリーズが中心）の楽曲が複数ダウンロード配信されている。これらの楽曲は全て、ユーザーにより投稿され審査に合格したものである。なお、楽曲はすべてJASRACに登録されている楽曲のみであり、全てのビーマニシリーズの楽曲が採用されるわけではない。
 
-コナミによる公式配信ではないものの、携帯ゲーム機でBEMANIシリーズのコナミオリジナル楽曲がプレイ出来るのは、[2000年](../Page/2000年.md "wikilink")に発売された[ゲームボーイカラー](../Page/ゲームボーイカラー.md "wikilink")版『pop'n music GB』以来となる。なお、コナミ自体による携帯ゲーム機向けBEMANIシリーズは、この2年後の[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に発売された[PlayStation Portable版](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")『pop'n music portable』まで間が開くことになった。
+コナミによる公式配信ではないものの、携帯ゲーム機でBEMANIシリーズのコナミオリジナル楽曲がプレイ出来るのは、[2000年](../Page/2000年.md "wikilink")に発売された[ゲームボーイカラー](../Page/ゲームボーイカラー.md "wikilink")版『pop'n music GB』以来となる。なお、コナミ自体による携帯ゲーム機向けBEMANIシリーズは、この2年後の[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に発売された[PlayStation Portable版](../Page/PlayStation_Portable.md "wikilink")『pop'n music portable』まで間が開くことになった。
 
 ## 脚注
 

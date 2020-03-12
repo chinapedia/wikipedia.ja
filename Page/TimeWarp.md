@@ -24,7 +24,7 @@
 
 ### 映画
 
-[ウォン・カーウァイ](https://ja.wikipedia.org/wiki/ウォン・カーウァイ "wikilink")作品のカメラマン、[クリストファー・ドイル](../Page/クリストファー・ドイル.md "wikilink")と手を組み、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")返還をモチーフに『[タイフーン・シェルター](https://ja.wikipedia.org/wiki/タイフーン・シェルター "wikilink")』を製作し、[フジテレビにて放送](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")。さらに、[クリストファー・ドイル](../Page/クリストファー・ドイル.md "wikilink")監督、[浅野忠信](../Page/浅野忠信.md "wikilink")主演の『[孔雀](https://ja.wikipedia.org/wiki/Away_With_Words "wikilink")』を製作。
+[ウォン・カーウァイ](../Page/ウォン・カーウァイ.md "wikilink")作品のカメラマン、[クリストファー・ドイル](../Page/クリストファー・ドイル.md "wikilink")と手を組み、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")返還をモチーフに『[タイフーン・シェルター](https://ja.wikipedia.org/wiki/タイフーン・シェルター "wikilink")』を製作し、[フジテレビにて放送](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")。さらに、[クリストファー・ドイル](../Page/クリストファー・ドイル.md "wikilink")監督、[浅野忠信](../Page/浅野忠信.md "wikilink")主演の『[孔雀](https://ja.wikipedia.org/wiki/Away_With_Words "wikilink")』を製作。
 
 ### デジタルタイムワープ
 
@@ -43,7 +43,7 @@
 ## 在籍していたスタッフ
 
   - 代表取締役：[時盛裕行](https://ja.wikipedia.org/wiki/時盛裕行 "wikilink")
-  - プロデューサー：[魚谷昇](https://ja.wikipedia.org/wiki/魚谷昇 "wikilink")、[塚本修史](https://ja.wikipedia.org/wiki/塚本修史 "wikilink")、[松岡剛](https://ja.wikipedia.org/wiki/松岡剛 "wikilink")
+  - プロデューサー：[魚谷昇](https://ja.wikipedia.org/wiki/魚谷昇 "wikilink")、[塚本修史](https://ja.wikipedia.org/wiki/塚本修史 "wikilink")、[松岡剛](../Page/松岡剛.md "wikilink")
   - ディレクター：吉川孝、森崎荘三
   - AD：[田中明子](https://ja.wikipedia.org/wiki/田中明子 "wikilink")
 
@@ -60,7 +60,7 @@
   - 「シネマ中毒」（スカイパーフェクTV\!）
   - 「シネマDO」（テレビ東京）
   - 「AX情報局」（スカイパーフェクTV\!）
-  - 「[FILM FACTORY](https://ja.wikipedia.org/wiki/FILM_FACTORY "wikilink")」（テレビ東京）
+  - 「[FILM FACTORY](../Page/FILM_FACTORY.md "wikilink")」（テレビ東京）
 
 ## 制作していた映画特番
 

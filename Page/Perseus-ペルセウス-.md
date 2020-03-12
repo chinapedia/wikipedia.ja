@@ -5,7 +5,7 @@
 
 ## 解説
 
-  - 「Perseus-ペルセウス-」は、[TBS](../Page/TBSテレビ.md "wikilink")『[野球烈闘](https://ja.wikipedia.org/wiki/SAMURAI_BASEBALL "wikilink")』2003年度テーマソング。[RCCでは](../Page/中国放送.md "wikilink")、[ウエスタン・リーグ](../Page/ウエスタン・リーグ.md "wikilink")の広島東洋カープ戦中継でも使用していた。表題曲は中華風のイントロから始まり、[ユーロビート](https://ja.wikipedia.org/wiki/ユーロビート "wikilink")がフュージョンした幻想的で高揚感溢れるもの\[1\]。
+  - 「Perseus-ペルセウス-」は、[TBS](../Page/TBSテレビ.md "wikilink")『[野球烈闘](https://ja.wikipedia.org/wiki/SAMURAI_BASEBALL "wikilink")』2003年度テーマソング。[RCCでは](../Page/中国放送.md "wikilink")、[ウエスタン・リーグ](../Page/ウエスタン・リーグ.md "wikilink")の広島東洋カープ戦中継でも使用していた。表題曲は中華風のイントロから始まり、[ユーロビート](../Page/ユーロビート.md "wikilink")がフュージョンした幻想的で高揚感溢れるもの\[1\]。
   - リアレンジバージョンとして、3rdアルバム『[GATE〜scena III〜](../Page/GATE〜scena_III〜.md "wikilink")』初回盤にボーナストラック「HEAVENS WiRE vs. TRI-HEDGE RMX」が、コンセプトアルバム『[crossover](https://ja.wikipedia.org/wiki/crossover "wikilink")』に「crossover version」が収録されている。
   - C/Wの「to be continued...6.Aug.2003」は、島谷演じるヒロインの旅立ちのシーンを描いた掌編オーディオドラマ。タイトルの2003年8月6日は、「音楽で世界を旅する」をテーマにしたアルバム『GATE〜scena III〜』の発売日となっていた。
 
@@ -13,7 +13,7 @@
 
 1.  **Perseus-ペルセウス-**
       -
-        作詞:[BOUNCEBACK](https://ja.wikipedia.org/wiki/BOUNCEBACK "wikilink")/作曲：迫茂樹/編曲:[h-wonder](https://ja.wikipedia.org/wiki/h-wonder "wikilink")
+        作詞:[BOUNCEBACK](../Page/BOUNCEBACK.md "wikilink")/作曲：迫茂樹/編曲:[h-wonder](https://ja.wikipedia.org/wiki/h-wonder "wikilink")
 2.  **La Fiesta**
       -
         作詞･作曲･編曲:BOUNCEBACK

@@ -1,7 +1,7 @@
 > この記事は[BEAT ](https://ja.wikipedia.org/wiki/BEAT_)から翻訳されています。
 
 
-『**BEAT 時代の鼓動**』（ビート・じだいのこどう）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")から、[読売テレビ（ytv）で放送されている](../Page/讀賣テレビ放送.md "wikilink")[関西ローカル](https://ja.wikipedia.org/wiki/関西ローカル "wikilink")の[ミニヒューマン](https://ja.wikipedia.org/wiki/ミニ番組 "wikilink")[ドキュメンタリー番組](https://ja.wikipedia.org/wiki/ドキュメンタリー番組 "wikilink")である。
+『**BEAT 時代の鼓動**』（ビート・じだいのこどう）は、[2006年](../Page/2006年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から、[読売テレビ（ytv）で放送されている](../Page/讀賣テレビ放送.md "wikilink")[関西ローカル](../Page/関西ローカル.md "wikilink")の[ミニヒューマン](../Page/ミニ番組.md "wikilink")[ドキュメンタリー番組](https://ja.wikipedia.org/wiki/ドキュメンタリー番組 "wikilink")である。
 
 ## 概要
 
@@ -11,7 +11,7 @@
 
 番組の音声モードは[ステレオ放送](../Page/ステレオ放送.md "wikilink")。
 
-ただ、[新聞](../Page/新聞.md "wikilink")の[テレビ欄](https://ja.wikipedia.org/wiki/テレビ欄 "wikilink")には、[Gコード](https://ja.wikipedia.org/wiki/Gコード "wikilink")やミニ番組の性質上、「**ビト**（2006年8月以降は「**BE**」）」とだけ記されている（時々、「**BEAT**」や「**ビート**」と表記されることもある）。
+ただ、[新聞](../Page/新聞.md "wikilink")の[テレビ欄](https://ja.wikipedia.org/wiki/テレビ欄 "wikilink")には、[Gコード](../Page/Gコード.md "wikilink")やミニ番組の性質上、「**ビト**（2006年8月以降は「**BE**」）」とだけ記されている（時々、「**BEAT**」や「**ビート**」と表記されることもある）。
 
 2013年4月改編により、同年[4月7日](../Page/4月7日.md "wikilink")より、毎週[日曜日](../Page/日曜日.md "wikilink")の11:25 - 11:30枠へ移動した。
 
@@ -29,7 +29,7 @@
 <!-- end list -->
 
   -
-    ※[親会社](https://ja.wikipedia.org/wiki/親会社 "wikilink")である[日興コーディアルグループ](../Page/日興コーディアルグループ.md "wikilink")の[不祥事により](https://ja.wikipedia.org/wiki/日興コーディアルグループ#粉飾決算 "wikilink")、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月23日](../Page/12月23日.md "wikilink")と[2007年](../Page/2007年.md "wikilink")[1月6日](../Page/1月6日.md "wikilink") - 同年[4月14日](../Page/4月14日.md "wikilink")まで[CMを自粛し](../Page/コマーシャルメッセージ.md "wikilink")、公共広告機構（現：[ACジャパン](../Page/ACジャパン.md "wikilink")）のCMに差し替えられていた。
+    ※[親会社](https://ja.wikipedia.org/wiki/親会社 "wikilink")である[日興コーディアルグループ](../Page/日興コーディアルグループ.md "wikilink")の[不祥事により](https://ja.wikipedia.org/wiki/日興コーディアルグループ#粉飾決算 "wikilink")、[2006年](../Page/2006年.md "wikilink")[12月23日](../Page/12月23日.md "wikilink")と[2007年](../Page/2007年.md "wikilink")[1月6日](../Page/1月6日.md "wikilink") - 同年[4月14日](../Page/4月14日.md "wikilink")まで[CMを自粛し](../Page/コマーシャルメッセージ.md "wikilink")、公共広告機構（現：[ACジャパン](../Page/ACジャパン.md "wikilink")）のCMに差し替えられていた。
 
 ## 制作
 

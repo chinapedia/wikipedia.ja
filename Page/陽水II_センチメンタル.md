@@ -9,7 +9,7 @@
 
 <!-- end list -->
 
-  - 1985年に初めてCD化され、1990年、1996年、2001年（紙ジャケット仕様）、2006年（[ユニバーサルJより](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")）にも再リリースされている。
+  - 1985年に初めてCD化され、1990年、1996年、2001年（紙ジャケット仕様）、2006年（[ユニバーサルJより](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）にも再リリースされている。
 
 ## 収録曲
 
@@ -54,11 +54,11 @@
   - 星勝 - アコースティックギター、エレクトリックギター
   - [安田裕美](../Page/安田裕美.md "wikilink") - アコースティックギター(2,10,11)
   - [矢島賢](../Page/矢島賢.md "wikilink") - エレクトリックギター(6)
-  - [武部秀明](https://ja.wikipedia.org/wiki/武部秀明 "wikilink") - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")(6,7,9,11)
+  - [武部秀明](https://ja.wikipedia.org/wiki/武部秀明 "wikilink") - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")(6,7,9,11)
   - [高中正義](../Page/高中正義.md "wikilink") - ベース(1,3,4,5)
   - [稲葉国光](https://ja.wikipedia.org/wiki/稲葉国光 "wikilink") - ベース(10,12)
-  - [田中清司](https://ja.wikipedia.org/wiki/田中清司 "wikilink") - [ドラムス](../Page/ドラムセット.md "wikilink")
-  - [深町純](../Page/深町純.md "wikilink") - [ピアノ](../Page/ピアノ.md "wikilink")、[モーグ・シンセサイザー](https://ja.wikipedia.org/wiki/モーグ・シンセサイザー "wikilink")、[オルガン](../Page/オルガン.md "wikilink")
+  - [田中清司](../Page/田中清司.md "wikilink") - [ドラムス](../Page/ドラムセット.md "wikilink")
+  - [深町純](../Page/深町純.md "wikilink") - [ピアノ](../Page/ピアノ.md "wikilink")、[モーグ・シンセサイザー](../Page/モーグ・シンセサイザー.md "wikilink")、[オルガン](../Page/オルガン.md "wikilink")
   - [本田剛彦](https://ja.wikipedia.org/wiki/本田剛彦 "wikilink") - ピアノ(3)
   - [飯吉馨](https://ja.wikipedia.org/wiki/飯吉馨 "wikilink") - ピアノ(5)
   - [シンガーズ・スリー](../Page/シンガーズ・スリー.md "wikilink") - バッキングボーカル

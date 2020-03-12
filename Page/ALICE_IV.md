@@ -1,7 +1,7 @@
 > この記事は[ALICE IV](https://ja.wikipedia.org/wiki/ALICE_IV)から翻訳されています。
 
 
-『**ALICE IV**』（アリス・フォー）は1975年5月にリリースされた[アリスの](https://ja.wikipedia.org/wiki/アリス_\(フォークグループ\) "wikilink")4枚目のオリジナル・アルバムである。
+『**ALICE IV**』（アリス・フォー）は1975年5月にリリースされた[アリスの](../Page/アリス_\(フォークグループ\).md "wikilink")4枚目のオリジナル・アルバムである。
 
 ## 解説
 
@@ -45,6 +45,6 @@
 
 ## 関連項目
 
-  - [1975年の音楽](https://ja.wikipedia.org/wiki/1975年の音楽 "wikilink")
+  - [1975年の音楽](../Page/1975年の音楽.md "wikilink")
 
 [Category:アリスのアルバム](https://ja.wikipedia.org/wiki/Category:アリスのアルバム "wikilink") [Category:1975年のアルバム](https://ja.wikipedia.org/wiki/Category:1975年のアルバム "wikilink") [Category:エキスプレスのアルバム](https://ja.wikipedia.org/wiki/Category:エキスプレスのアルバム "wikilink")

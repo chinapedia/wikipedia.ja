@@ -7,7 +7,7 @@
 
 ユニット名の由来は、「[R指定](../Page/映画のレイティングシステム.md "wikilink")」からとされている。ただし、ユニット自体をR指定にする、という意図ではない。
 
-メンバーは幾多の変遷があったが、オリジナルメンバーとしては[小林恵美](https://ja.wikipedia.org/wiki/小林恵美 "wikilink")と[根本はるみ](https://ja.wikipedia.org/wiki/根本はるみ "wikilink")が解散までのメンバーであり、2004年のイエローキャブ分裂で両者が袂を分かった事が解散の要因でもある。この他に[森ひろこ](https://ja.wikipedia.org/wiki/森ひろこ "wikilink")や[北川友美](https://ja.wikipedia.org/wiki/北川友美 "wikilink")、[かわいかおり](https://ja.wikipedia.org/wiki/かわいかおり "wikilink")、[五十嵐結花](https://ja.wikipedia.org/wiki/五十嵐結花 "wikilink")らも在籍した。
+メンバーは幾多の変遷があったが、オリジナルメンバーとしては[小林恵美](../Page/小林恵美.md "wikilink")と[根本はるみ](https://ja.wikipedia.org/wiki/根本はるみ "wikilink")が解散までのメンバーであり、2004年のイエローキャブ分裂で両者が袂を分かった事が解散の要因でもある。この他に[森ひろこ](../Page/森ひろこ.md "wikilink")や[北川友美](https://ja.wikipedia.org/wiki/北川友美 "wikilink")、[かわいかおり](https://ja.wikipedia.org/wiki/かわいかおり "wikilink")、[五十嵐結花](https://ja.wikipedia.org/wiki/五十嵐結花 "wikilink")らも在籍した。
 
 『[千枚CD](https://ja.wikipedia.org/wiki/千枚CD "wikilink")』（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）の企画で「おあずけ坊やのテント村」（作詞：[秋元康](../Page/秋元康.md "wikilink")）でCDデビュー。その後カバー曲等によるCDを数枚出したが、前述の理由等で2年半という短期間で解散した。
 
@@ -63,7 +63,7 @@
 ### 写真集
 
   - BIZ.z（2002年8月、[アクアハウス](../Page/アクアハウス_\(出版社\).md "wikilink")、撮影：奥舜）ISBN 978-4860460631
-  - キューティーハニーR.C.T. with MEGUMI（2002年12月、[講談社](../Page/講談社.md "wikilink")、著：[永井豪](../Page/永井豪.md "wikilink")、[ダイナミックプロ](https://ja.wikipedia.org/wiki/ダイナミックプロ "wikilink")、撮影：[宮澤正明](https://ja.wikipedia.org/wiki/宮澤正明 "wikilink")）ISBN 978-4063301861
-  - Surprise―根本はるみ\&R.C.T.写真集（2003年4月、[音楽専科社](https://ja.wikipedia.org/wiki/音楽専科社 "wikilink")、撮影：井ノ元浩二）ISBN 978-4872791273
+  - キューティーハニーR.C.T. with MEGUMI（2002年12月、[講談社](../Page/講談社.md "wikilink")、著：[永井豪](../Page/永井豪.md "wikilink")、[ダイナミックプロ](https://ja.wikipedia.org/wiki/ダイナミックプロ "wikilink")、撮影：[宮澤正明](../Page/宮澤正明.md "wikilink")）ISBN 978-4063301861
+  - Surprise―根本はるみ\&R.C.T.写真集（2003年4月、[音楽専科社](../Page/音楽専科社.md "wikilink")、撮影：井ノ元浩二）ISBN 978-4872791273
 
 [Category:グラビアアイドル](https://ja.wikipedia.org/wiki/Category:グラビアアイドル "wikilink") [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:2002年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2002年に結成した音楽グループ "wikilink")

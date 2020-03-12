@@ -41,7 +41,7 @@
       - 最大伝送速度9.6kbps
   - 黄色
       - [cdmaOne](https://ja.wikipedia.org/wiki/cdmaOne "wikilink")の回線交換方式（ASYNC）に対応
-          - cdmaOneの上位互換性を持つ[3G方式の](https://ja.wikipedia.org/wiki/第3世代移動通信システム "wikilink")[CDMA 1X](https://ja.wikipedia.org/wiki/CDMA_1X "wikilink") ([CDMA2000 1x](../Page/CDMA2000_1x.md "wikilink")) やその[3.5G方式にあたる](../Page/第3.5世代移動通信システム.md "wikilink")[CDMA 1X WIN](https://ja.wikipedia.org/wiki/CDMA_1X_WIN "wikilink") ([1x EV-DO Rel.0/Rev.A](https://ja.wikipedia.org/wiki/CDMA2000_1x#CDMA2000_1x_EV-DO "wikilink"))、[WIN HIGH SPEED](https://ja.wikipedia.org/wiki/WIN_HIGH_SPEED "wikilink")（[1x EV-DO MC-Rev.A](https://ja.wikipedia.org/wiki/CDMA2000_1x#MC-Rev.A "wikilink")） に対応した機種でも動作可能。
+          - cdmaOneの上位互換性を持つ[3G方式の](../Page/第3世代移動通信システム.md "wikilink")[CDMA 1X](../Page/CDMA_1X.md "wikilink") ([CDMA2000 1x](../Page/CDMA2000_1x.md "wikilink")) やその[3.5G方式にあたる](../Page/第3.5世代移動通信システム.md "wikilink")[CDMA 1X WIN](../Page/CDMA_1X_WIN.md "wikilink") ([1x EV-DO Rel.0/Rev.A](https://ja.wikipedia.org/wiki/CDMA2000_1x#CDMA2000_1x_EV-DO "wikilink"))、[WIN HIGH SPEED](https://ja.wikipedia.org/wiki/WIN_HIGH_SPEED "wikilink")（[1x EV-DO MC-Rev.A](https://ja.wikipedia.org/wiki/CDMA2000_1x#MC-Rev.A "wikilink")） に対応した機種でも動作可能。
           - auは2005年以降に発売された機種から回線交換方式への対応を外しており\[2\]、回線交換方式に対応していない機種では使用できない。
           - さらにauが2012年7月22日に回線交換方式によるデータ通信サービスを終了したため、現在は利用できない\[3\]。
           -
@@ -67,9 +67,9 @@
   - [ゲームボーイウォーズ3](https://ja.wikipedia.org/wiki/ゲームボーイウォーズ3 "wikilink") (GBC)
   - [ハローキティ](../Page/ハローキティ.md "wikilink")のハッピーハウス (GBC)
   - [ナポレオン](../Page/ナポレオン_\(ゲーム\).md "wikilink") (GBA)
-  - [プレイノベル サイレントヒル](https://ja.wikipedia.org/wiki/サイレントヒル "wikilink") (GBA)
+  - [プレイノベル サイレントヒル](../Page/サイレントヒル.md "wikilink") (GBA)
   - [ドラえもん 緑の惑星ドキドキ大救出\!](https://ja.wikipedia.org/wiki/ドラえもんの派生作品#コンピュータゲーム "wikilink")（GBA)
-  - [マリオカートアドバンス](https://ja.wikipedia.org/wiki/マリオカートアドバンス "wikilink") (GBA)
+  - [マリオカートアドバンス](../Page/マリオカートアドバンス.md "wikilink") (GBA)
 
 <!-- end list -->
 
@@ -79,16 +79,16 @@
 
 ## 関連項目
 
-  - [モバイル21](https://ja.wikipedia.org/wiki/モバイル21 "wikilink")
+  - [モバイル21](../Page/モバイル21.md "wikilink")
   - 任天堂による通信サービス
       - [サテラビュー](../Page/サテラビュー.md "wikilink")
-      - [ランドネット](https://ja.wikipedia.org/wiki/ランドネット "wikilink")
+      - [ランドネット](../Page/ランドネット.md "wikilink")
       - [ニンテンドーWi-Fiコネクション](../Page/ニンテンドーWi-Fiコネクション.md "wikilink")
       - [ニンテンドーネットワーク](https://ja.wikipedia.org/wiki/ニンテンドーネットワーク "wikilink")
       - [Nintendo Switch Online](https://ja.wikipedia.org/wiki/Nintendo_Switch_Online "wikilink")
   - 他社ハードの類似システム
       - モバイルワンダーゲート（[ワンダースワン](../Page/ワンダースワン.md "wikilink")と携帯電話を接続する機器）
-      - [プレイステーション](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")　携帯電話接続ケーブル(SCPH-10180)
+      - [プレイステーション](../Page/PlayStation_\(ゲーム機\).md "wikilink")　携帯電話接続ケーブル(SCPH-10180)
 
 ## 脚注
 

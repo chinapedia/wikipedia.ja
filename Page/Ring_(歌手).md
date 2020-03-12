@@ -1,13 +1,13 @@
 > この記事は[Ring \(\)](https://ja.wikipedia.org/wiki/Ring_\(\))から翻訳されています。
 
 
-**Ring**（リング（リン）、[女性](../Page/女性.md "wikilink")、[1984年](../Page/1984年.md "wikilink")[10月31日](../Page/10月31日.md "wikilink") -、）は[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")[彰化県](https://ja.wikipedia.org/wiki/彰化県 "wikilink")出身の元[歌手](../Page/歌手.md "wikilink")。本名は**林 楡涵**。
+**Ring**（リング（リン）、[女性](../Page/女性.md "wikilink")、[1984年](../Page/1984年.md "wikilink")[10月31日](../Page/10月31日.md "wikilink") -、）は[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")[彰化県](../Page/彰化県.md "wikilink")出身の元[歌手](../Page/歌手.md "wikilink")。本名は**林 楡涵**。
 
 ## 来歴・人物
 
 [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")が番組監修していた[テレビ番組](../Page/テレビ番組.md "wikilink")『小室魔力』の[オーディション](../Page/オーディション.md "wikilink")に応募し、グランプリを獲得。 翌年[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に小室哲哉[プロデュース](https://ja.wikipedia.org/wiki/プロデュース "wikilink")で[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")・台湾2か国で同時[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")した。
 
-デビューシングル「Process」は台湾のチャートで4週連続1位、日本の[オリコンで最高](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")14位を記録\[1\]。アルバムを一枚発表した後歌手を辞め、学業に専念する事となる。日本での所属[レーベルは](../Page/レコードレーベル.md "wikilink")、[ソニー・ミュージックアソシエイテッドレコーズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックアソシエイテッドレコーズ "wikilink")（[アルバム](../Page/アルバム.md "wikilink")のみ、[TRUE KiSS DiSCレーベル](https://ja.wikipedia.org/wiki/TRUE_KiSS_DiSC "wikilink")）。
+デビューシングル「Process」は台湾のチャートで4週連続1位、日本の[オリコンで最高](../Page/オリコンチャート.md "wikilink")14位を記録\[1\]。アルバムを一枚発表した後歌手を辞め、学業に専念する事となる。日本での所属[レーベルは](../Page/レコードレーベル.md "wikilink")、[ソニー・ミュージックアソシエイテッドレコーズ](../Page/ソニー・ミュージックアソシエイテッドレコーズ.md "wikilink")（[アルバム](../Page/アルバム.md "wikilink")のみ、[TRUE KiSS DiSCレーベル](../Page/TRUE_KiSS_DiSC.md "wikilink")）。
 
 2006年、台湾のバラエティ番組に出て「朝陽大学の建築学科に通いながら歌手への再起を望んでいる」と語った。その後2009年に結婚した。
 
@@ -16,7 +16,7 @@
 ### シングル
 
   - Process（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月23日](../Page/4月23日.md "wikilink")発売） - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")『[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")』[オープニングテーマ](https://ja.wikipedia.org/wiki/オープニングテーマ "wikilink")
-  - ONE, TWO STEP（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink")発売）
+  - ONE, TWO STEP（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[7月23日](../Page/7月23日.md "wikilink")発売）
   - PRIVATE PARADISE（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[11月11日](../Page/11月11日.md "wikilink")発売）- 映画『[始皇帝暗殺](https://ja.wikipedia.org/wiki/始皇帝暗殺 "wikilink")』主題歌
 
 ### アルバム
@@ -58,7 +58,7 @@ Produced by　**TETSUYA KOMURO**
 8.  **I'm proud** \[Mandarin Version\]
       -
         作詞・作曲：小室哲哉　編曲：松尾和博　中国語訳詞：Mickey Huang　　
-        [華原朋美](../Page/華原朋美.md "wikilink")3rdシングル「[I'm proud](https://ja.wikipedia.org/wiki/I'm_proud "wikilink") \[Radio Edit\]」の中国語ヴァージョン。原曲キーより下げて収録されている。
+        [華原朋美](../Page/華原朋美.md "wikilink")3rdシングル「[I'm proud](../Page/I'm_proud.md "wikilink") \[Radio Edit\]」の中国語ヴァージョン。原曲キーより下げて収録されている。
 9.  **PRIVATE PARADISE** \[Mandarin version\]
       -
         作詞：前田たかひろ　作曲：小室哲哉　編曲：松尾和博　中国語訳詞：Yoko Yau

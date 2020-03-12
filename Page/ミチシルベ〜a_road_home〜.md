@@ -17,13 +17,13 @@ ORANGE RANGEの楽曲として初めて[オリコン](../Page/オリコン.md "w
 
 1.  **ミチシルベ〜a road home〜** \[5:12\]
       -
-        [CX系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")『[FIRE BOYS 〜め組の大吾〜](https://ja.wikipedia.org/wiki/FIRE_BOYS_〜め組の大吾〜 "wikilink")』の[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")。グループ初のドラマ[タイアップ](https://ja.wikipedia.org/wiki/タイアップ "wikilink")となった。
+        [CX系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")『[FIRE BOYS 〜め組の大吾〜](https://ja.wikipedia.org/wiki/FIRE_BOYS_〜め組の大吾〜 "wikilink")』の[主題歌](../Page/主題歌.md "wikilink")。グループ初のドラマ[タイアップ](../Page/タイアップ.md "wikilink")となった。
         [インディーズ時代の曲のリメイクであり](https://ja.wikipedia.org/wiki/ミチシルベ/ミッドナイトゲージ "wikilink")、カップリングの2曲とはそれぞれ対比された作りとなっている。
 2.  **ZUNG ZUNG FUNKY MUSIC** \[3:48\]
       -
-        [前作に続いて](https://ja.wikipedia.org/wiki/落陽_\(ORANGE_RANGEの曲\) "wikilink")[第一興商](../Page/第一興商.md "wikilink")「メロDAM」の[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。
+        [前作に続いて](../Page/落陽_\(ORANGE_RANGEの曲\).md "wikilink")[第一興商](../Page/第一興商.md "wikilink")「メロDAM」の[CMソング](../Page/コマーシャルソング.md "wikilink")。
         YAMATO作詞。YOHが初めて[5弦ベース](../Page/5弦ベース.md "wikilink")を使用している。
-        [PVでは](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")[マイケル・ジャクソン](https://ja.wikipedia.org/wiki/マイケル・ジャクソン "wikilink")を意識したキャラクターが踊っている。メンバー未出演。
+        [PVでは](../Page/ミュージック・ビデオ.md "wikilink")[マイケル・ジャクソン](https://ja.wikipedia.org/wiki/マイケル・ジャクソン "wikilink")を意識したキャラクターが踊っている。メンバー未出演。
 3.  **山内公園** \[3:43\]
       -
         メンバーが[バスケットボール](../Page/バスケットボール.md "wikilink")をするために集まっていた同名の公園がモチーフ。「『ミチシルベ』が理想なら、これは現実」と、メンバーは語っている。
@@ -52,6 +52,6 @@ ORANGE RANGEの楽曲として初めて[オリコン](../Page/オリコン.md "w
 
 ## 関連項目
 
-  - [2004年の音楽](https://ja.wikipedia.org/wiki/2004年の音楽 "wikilink")
+  - [2004年の音楽](../Page/2004年の音楽.md "wikilink")
 
 [Category:ORANGE_RANGEの楽曲](https://ja.wikipedia.org/wiki/Category:ORANGE_RANGEの楽曲 "wikilink") [Category:2004年のシングル](https://ja.wikipedia.org/wiki/Category:2004年のシングル "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:2004年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2004年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:フジテレビ火曜9時枠の連続ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビ火曜9時枠の連続ドラマの主題歌 "wikilink") [Category:道を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:道を題材とした楽曲 "wikilink") [Category:楽曲_み](https://ja.wikipedia.org/wiki/Category:楽曲_み "wikilink")

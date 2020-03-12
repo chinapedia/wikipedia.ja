@@ -1,11 +1,11 @@
 > この記事は[ \(ORANGE RANGE\)](https://ja.wikipedia.org/wiki/_\(ORANGE_RANGE\))から翻訳されています。
 
 
-「**ラヴ・パレード**」は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミクスチャー](https://ja.wikipedia.org/wiki/ミクスチャー・ロック "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[ORANGE RANGEの通算](../Page/ORANGE_RANGE.md "wikilink")10枚目の[シングル](../Page/シングル.md "wikilink")。
+「**ラヴ・パレード**」は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミクスチャー](../Page/ミクスチャー・ロック.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[ORANGE RANGEの通算](../Page/ORANGE_RANGE.md "wikilink")10枚目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 解説
 
-  - 次曲の「[お願い\!セニョリータ](https://ja.wikipedia.org/wiki/お願い!セニョリータ "wikilink")」とあわせてORANGE RANGEの曲が3週連続[オリコン](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を獲得。（「ラヴ・パレード」が2週連続オリコン1位）
+  - 次曲の「[お願い\!セニョリータ](../Page/お願い!セニョリータ.md "wikilink")」とあわせてORANGE RANGEの曲が3週連続[オリコン](../Page/オリコンチャート.md "wikilink")1位を獲得。（「ラヴ・パレード」が2週連続オリコン1位）
   - シングルとしては初めて、同名曲の別バージョンが収録されていない。
   - ジャケットは、メジャー以降に発売したシングル、アルバム、DVDのジャケットが、[秋葉原](https://ja.wikipedia.org/wiki/秋葉原 "wikilink")を模した街の看板になっている。
   - このシングルからNAOTOのクレジット欄は「programing,other instruments,g」にほぼ固定された。

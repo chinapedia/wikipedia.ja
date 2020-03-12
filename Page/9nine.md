@@ -1,15 +1,15 @@
 > この記事は[9nine](https://ja.wikipedia.org/wiki/9nine)から翻訳されています。
 
 
-[9nine_logo.jpg](https://ja.wikipedia.org/wiki/File:9nine_logo.jpg "fig:9nine_logo.jpg") **9nine**（ナイン）は、[レプロエンタテインメント](https://ja.wikipedia.org/wiki/レプロエンタテインメント "wikilink")所属の[モデル](https://ja.wikipedia.org/wiki/モデル_\(職業\) "wikilink")、[歌手](../Page/歌手.md "wikilink")、[女優](../Page/俳優.md "wikilink")、[声優](../Page/声優.md "wikilink")、[DJ](https://ja.wikipedia.org/wiki/DJ "wikilink")で構成された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のパフォーマンスガールズユニット。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に結成、[2019年](../Page/2019年.md "wikilink")に活動休止\[1\]。
+[9nine_logo.jpg](https://ja.wikipedia.org/wiki/File:9nine_logo.jpg "fig:9nine_logo.jpg") **9nine**（ナイン）は、[レプロエンタテインメント](../Page/レプロエンタテインメント.md "wikilink")所属の[モデル](../Page/モデル_\(職業\).md "wikilink")、[歌手](../Page/歌手.md "wikilink")、[女優](../Page/俳優.md "wikilink")、[声優](../Page/声優.md "wikilink")、[DJ](https://ja.wikipedia.org/wiki/DJ "wikilink")で構成された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のパフォーマンスガールズユニット。[2005年](../Page/2005年.md "wikilink")に結成、[2019年](../Page/2019年.md "wikilink")に活動休止\[1\]。
 
 ## 概要
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")9月、松沢梓、我妻三輪子、加藤瑠美、芦田万莉恵、吉田茉以、山岡みどり、佐武宇綺、西脇彩華、三浦萌の9人が事務所内オーディションで選ばれて結成された。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月14日](../Page/2月14日.md "wikilink")に「[Sweet Snow](https://ja.wikipedia.org/wiki/Sweet_Snow_\(9nineの曲\) "wikilink")」で[インディーズ](../Page/インディーズ.md "wikilink")デビュー。[2007年](../Page/2007年.md "wikilink")1月にオリジナルメンバーだった松沢・我妻が脱退し、新メンバーとして下垣真香・川島海荷が加入。2007年[3月21日](../Page/3月21日.md "wikilink")に『[first 9](https://ja.wikipedia.org/wiki/first9 "wikilink")』で[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")から[メジャーデビュー](https://ja.wikipedia.org/wiki/メジャーレーベル "wikilink")。同年12月には加藤が脱退し、[2009年](../Page/2009年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")には芦田・吉田・山岡が卒業。これ以来、リーダーは設けられていない。
+[2005年](../Page/2005年.md "wikilink")9月、松沢梓、我妻三輪子、加藤瑠美、芦田万莉恵、吉田茉以、山岡みどり、佐武宇綺、西脇彩華、三浦萌の9人が事務所内オーディションで選ばれて結成された。[2006年](../Page/2006年.md "wikilink")[2月14日](../Page/2月14日.md "wikilink")に「[Sweet Snow](https://ja.wikipedia.org/wiki/Sweet_Snow_\(9nineの曲\) "wikilink")」で[インディーズ](../Page/インディーズ.md "wikilink")デビュー。[2007年](../Page/2007年.md "wikilink")1月にオリジナルメンバーだった松沢・我妻が脱退し、新メンバーとして下垣真香・川島海荷が加入。2007年[3月21日](../Page/3月21日.md "wikilink")に『[first 9](https://ja.wikipedia.org/wiki/first9 "wikilink")』で[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")から[メジャーデビュー](https://ja.wikipedia.org/wiki/メジャーレーベル "wikilink")。同年12月には加藤が脱退し、[2009年](../Page/2009年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")には芦田・吉田・山岡が卒業。これ以来、リーダーは設けられていない。
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[7月27日](../Page/7月27日.md "wikilink")、新しい形のパフォーマンスガールズユニットの結成のため、2泊3日の合宿審査を実行。その結果、佐武宇綺、西脇彩華、川島海荷、吉井香奈恵、村田寛奈が選ばれる。2010年8月にブログで下垣と三浦の脱退が発表される。2010年9月9日にレコード会社を[SME Recordsへ移籍し](https://ja.wikipedia.org/wiki/エスエムイーレコーズ "wikilink")、同年12月1日に「[Cross Over](https://ja.wikipedia.org/wiki/Cross_Over "wikilink")」で再出発した。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[7月27日](../Page/7月27日.md "wikilink")、新しい形のパフォーマンスガールズユニットの結成のため、2泊3日の合宿審査を実行。その結果、佐武宇綺、西脇彩華、川島海荷、吉井香奈恵、村田寛奈が選ばれる。2010年8月にブログで下垣と三浦の脱退が発表される。2010年9月9日にレコード会社を[SME Recordsへ移籍し](../Page/エスエムイーレコーズ.md "wikilink")、同年12月1日に「[Cross Over](https://ja.wikipedia.org/wiki/Cross_Over "wikilink")」で再出発した。
 
-[2016年](../Page/2016年.md "wikilink")[7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink")の公演をもって川島が脱退し、以降4人での活動となる\[2\]。
+[2016年](../Page/2016年.md "wikilink")[7月23日](../Page/7月23日.md "wikilink")の公演をもって川島が脱退し、以降4人での活動となる\[2\]。
 
 [2018年](../Page/2018年.md "wikilink")7月から8月にかけて初の海外ワンマンライブツアーを香港・台湾で行った。
 
@@ -42,14 +42,14 @@
 <tbody>
 <tr class="odd">
 <td><p>style="background-color:#9900ff; color:#fff" ; text-align:center; white-space:nowrap"|パープル</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/佐武宇綺" title="wikilink">佐武宇綺</a></strong><br />
+<td><p><strong><a href="../Page/佐武宇綺.md" title="wikilink">佐武宇綺</a></strong><br />
 <small>さたけ うき</small></p></td>
 <td><p>うっきー</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
 <td><p>2005年9月<br />
 （結成メンバー）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミスマガジン" title="wikilink">ミスマガジン</a>2009読者特別賞受賞</p></td>
+<td><p><a href="../Page/ミスマガジン.md" title="wikilink">ミスマガジン</a>2009読者特別賞受賞</p></td>
 </tr>
 <tr class="even">
 <td><p>オレンジ</p></td>
@@ -103,11 +103,11 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/我妻三輪子" title="wikilink">我妻三輪子</a></strong><br />
+<td><p><strong><a href="../Page/我妻三輪子.md" title="wikilink">我妻三輪子</a></strong><br />
 <small>わがつま みわこ</small></p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -117,7 +117,7 @@
 <small>かとう るび</small></p></td>
 <td><p>るびび</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
 <td><p>2007年12月</p></td>
 <td></td>
 <td></td>
@@ -147,13 +147,13 @@
 <small>やまおか みどり</small></p></td>
 <td><p>みどりちゃん</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/下垣真香" title="wikilink">下垣真香</a></strong><br />
+<td><p><strong><a href="../Page/下垣真香.md" title="wikilink">下垣真香</a></strong><br />
 <small>しもがき まどか</small></p></td>
 <td><p>まどまど</p></td>
 <td></td>
@@ -163,7 +163,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/三浦萌" title="wikilink">三浦萌</a></strong><br />
+<td><p><strong><a href="../Page/三浦萌.md" title="wikilink">三浦萌</a></strong><br />
 <small>みうら もえ</small></p></td>
 <td><p>もんきち</p></td>
 <td></td>
@@ -178,7 +178,7 @@
 <small>かわしま うみか</small></p></td>
 <td><p>うみにー</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/埼玉県" title="wikilink">埼玉県</a></p></td>
+<td><p><a href="../Page/埼玉県.md" title="wikilink">埼玉県</a></p></td>
 <td><p>2007年加入</p></td>
 <td><p>2016年7月23日</p></td>
 <td><p>カラー：ブルー</p></td>
@@ -206,7 +206,7 @@
 
 :\* 2月5日：[KDDIデザイニングスタジオ](https://ja.wikipedia.org/wiki/KDDIデザイニングスタジオ "wikilink")にて、デビュー[イベント](../Page/イベント.md "wikilink")を行う。
 
-:\* 2月14日：**1stシングル「[Sweet Snow](https://ja.wikipedia.org/wiki/Sweet_Snow "wikilink")」**をリリース後、都内各地で、ストリート[ライブや各種ライブイベントなどを中心とした活動を行う](https://ja.wikipedia.org/wiki/演奏会 "wikilink")。
+:\* 2月14日：**1stシングル「[Sweet Snow](https://ja.wikipedia.org/wiki/Sweet_Snow "wikilink")」**をリリース後、都内各地で、ストリート[ライブや各種ライブイベントなどを中心とした活動を行う](../Page/演奏会.md "wikilink")。
 
 :\* 4月1日：[shibuya duo MUSIC EXCHANGEにて](https://ja.wikipedia.org/wiki/Shibuya_O-EAST#duo_MUSIC_EXCHANGE "wikilink")、初のワンマンライブを行う。\[7\]
 
@@ -222,7 +222,7 @@
 
 :\* 3月21日：[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")から**メジャーデビュー[アルバム](../Page/アルバム.md "wikilink")『[first 9](https://ja.wikipedia.org/wiki/first9 "wikilink")』**をリリース。
 
-:\* 7月：実力をつけるためとして、毎週土曜日に[NHKホール](https://ja.wikipedia.org/wiki/NHKホール "wikilink")横けやき並木で路上[パフォーマンス](https://ja.wikipedia.org/wiki/パフォーマンス "wikilink")を行う。
+:\* 7月：実力をつけるためとして、毎週土曜日に[NHKホール](../Page/NHKホール.md "wikilink")横けやき並木で路上[パフォーマンス](https://ja.wikipedia.org/wiki/パフォーマンス "wikilink")を行う。
 
 :\* 7月27日：[天野月子](https://ja.wikipedia.org/wiki/天野月子 "wikilink")の『アマフェス2007〜スペシャルデー〜』にゲスト出演。
 
@@ -242,7 +242,7 @@
 
 :\* 8月30日：[池袋サンシャインシティにて](../Page/サンシャインシティ.md "wikilink")、スペシャルライブと握手会を行う。
 
-:\* 9月9日：「9nineの日」に、[SHIBUYA BOXXにて](https://ja.wikipedia.org/wiki/SHIBUYA_BOXX "wikilink")、*ワンマンライブ『It's SHOW TIME\!\!\!』*を行う。
+:\* 9月9日：「9nineの日」に、[SHIBUYA BOXXにて](../Page/SHIBUYA_BOXX.md "wikilink")、*ワンマンライブ『It's SHOW TIME\!\!\!』*を行う。
 
   - 2009年
 
@@ -250,7 +250,7 @@
 
 :\* 3月25日：**デジタルシングル「サクラプレリュード」**をリリース。
 
-:\* 3月27日：[原宿アストロホール](https://ja.wikipedia.org/wiki/原宿アストロホール "wikilink")にて、*ワンマンライブ『[It's SHOW TIME\!\! Ver:SAKURA '09](https://ja.wikipedia.org/wiki/It's_SHOW_TIME!!_Ver:SAKURA_'09 "wikilink")』*を行う。
+:\* 3月27日：[原宿アストロホール](../Page/原宿アストロホール.md "wikilink")にて、*ワンマンライブ『[It's SHOW TIME\!\! Ver:SAKURA '09](https://ja.wikipedia.org/wiki/It's_SHOW_TIME!!_Ver:SAKURA_'09 "wikilink")』*を行う。
 
 :\* このライブは2部構成で、その1部を最後に芦田万莉恵・吉田茉以・山岡みどりが卒業。1部は8名でのラストライブ、2部は5名でのファーストライブとなった。
 
@@ -280,19 +280,19 @@
 
 :\* 8月31日：[ブログ](../Page/ブログ.md "wikilink")で下垣真香と三浦萌の脱退が発表される。
 
-:\* 9月9日：[SME Recordsへのレコード会社移籍及び](https://ja.wikipedia.org/wiki/エスエムイーレコーズ "wikilink")、吉井香奈恵と村田寛奈の加入が正式発表される。
+:\* 9月9日：[SME Recordsへのレコード会社移籍及び](../Page/エスエムイーレコーズ.md "wikilink")、吉井香奈恵と村田寛奈の加入が正式発表される。
 
 :\* 10月9日：リニューアル後初のラジオレギュラー番組『[9nineのオールナイトニッポンR](https://ja.wikipedia.org/wiki/9nineのオールナイトニッポンR "wikilink")』がスタートする。
 
 :\* 10月11日：[テレビ](../Page/テレビ.md "wikilink")レギュラー番組『[Go\!Go\!9nine](https://ja.wikipedia.org/wiki/Go!Go!9nine "wikilink")』が[TOKYO MXでスタート](../Page/東京メトロポリタンテレビジョン.md "wikilink")。
 
-:\* 12月1日：**5thシングル「[Cross Over](https://ja.wikipedia.org/wiki/Cross_Over "wikilink")」**をリリース。Cross Overは、MBS・TBS系アニメ『[STAR DRIVER 輝きのタクト](https://ja.wikipedia.org/wiki/STAR_DRIVER_輝きのタクト "wikilink")』の[タイアップ](https://ja.wikipedia.org/wiki/タイアップ "wikilink")曲。サウンドプロデュースは[agehasprings](https://ja.wikipedia.org/wiki/agehasprings "wikilink")、振付はGALAXXXXY★のJunko☆が担当、プロペラダンスと呼ばれる。発売に先立ち11月6日の同番組のイベント『綺羅星十字団・秋の総会』にゲスト出演し、新曲を初披露。
+:\* 12月1日：**5thシングル「[Cross Over](https://ja.wikipedia.org/wiki/Cross_Over "wikilink")」**をリリース。Cross Overは、MBS・TBS系アニメ『[STAR DRIVER 輝きのタクト](https://ja.wikipedia.org/wiki/STAR_DRIVER_輝きのタクト "wikilink")』の[タイアップ](../Page/タイアップ.md "wikilink")曲。サウンドプロデュースは[agehasprings](https://ja.wikipedia.org/wiki/agehasprings "wikilink")、振付はGALAXXXXY★のJunko☆が担当、プロペラダンスと呼ばれる。発売に先立ち11月6日の同番組のイベント『綺羅星十字団・秋の総会』にゲスト出演し、新曲を初披露。
 
 :\* 12月1日：ラゾーナ川崎にて吉井・村田加入後初のリリースイベントを行う。
 
   - 2011年
 
-:\* 3月9日：**6thシングル「[SHINING☆STAR](https://ja.wikipedia.org/wiki/SHINING☆STAR "wikilink")」**をリリース\[8\]。同時に、[GREE](https://ja.wikipedia.org/wiki/GREE "wikilink")にて公式ブログ、[Myspace](https://ja.wikipedia.org/wiki/Myspace "wikilink")にて公式ページを開設。
+:\* 3月9日：**6thシングル「[SHINING☆STAR](https://ja.wikipedia.org/wiki/SHINING☆STAR "wikilink")」**をリリース\[8\]。同時に、[GREE](https://ja.wikipedia.org/wiki/GREE "wikilink")にて公式ブログ、[Myspace](../Page/Myspace.md "wikilink")にて公式ページを開設。
 
 :\* 3月28日：『Go\!Go\!9nine』が終了。
 
@@ -314,7 +314,7 @@
 
 :\* 1月11日：初のキー局冠レギュラー番組『[こんなのアイドルじゃナイン\!?](https://ja.wikipedia.org/wiki/こんなのアイドルじゃナイン!? "wikilink")』が日本テレビでスタート\[11\]。
 
-:\* 1月25日：**9thシングル「[少女トラベラー](https://ja.wikipedia.org/wiki/少女トラベラー "wikilink")」**をリリース\[12\]。このシングルで初の[オリコンウィークリーシングルランキングトップ](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")10入りを果たした(9位)\[13\]。
+:\* 1月25日：**9thシングル「[少女トラベラー](https://ja.wikipedia.org/wiki/少女トラベラー "wikilink")」**をリリース\[12\]。このシングルで初の[オリコンウィークリーシングルランキングトップ](../Page/オリコンチャート.md "wikilink")10入りを果たした(9位)\[13\]。
 
 :\* 1月28日：[品川ステラボールにて](https://ja.wikipedia.org/wiki/エプソン_アクアパーク品川 "wikilink")*ワンマンライブ『ワンマン9nine 〜略して“ワンナイ”スペシャル\!\!〜』*を行う。
 
@@ -328,13 +328,13 @@
 
 :\* 3月28日：『こんなのアイドルじゃナイン\!?』が終了する。
 
-:\* 5月6日：[日本青年館](https://ja.wikipedia.org/wiki/日本青年館 "wikilink")にて*ワンマンライブ『青年館の9nine』*を行う。
+:\* 5月6日：[日本青年館](../Page/日本青年館.md "wikilink")にて*ワンマンライブ『青年館の9nine』*を行う。
 
 :\* 6月20日：**10thシングル「[流星のくちづけ](https://ja.wikipedia.org/wiki/流星のくちづけ "wikilink")」**をリリース。前作に続きオリコンウィークリーシングルランキングトップ10入りを果たした(10位)。
 
 :\* 8月10日：[代々木第一体育館](https://ja.wikipedia.org/wiki/代々木第一体育館 "wikilink")での「[a-nation](https://ja.wikipedia.org/wiki/a-nation "wikilink") [IDOL NATION](https://ja.wikipedia.org/wiki/IDOL_NATION "wikilink")（夜の部）」に出演。
 
-:\* 8月19日：[日比谷野外音楽堂](https://ja.wikipedia.org/wiki/日比谷野外音楽堂 "wikilink")にて*ワンマンライブ『野音の9nine』*を行う。
+:\* 8月19日：[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")にて*ワンマンライブ『野音の9nine』*を行う。
 
 :\* 11月14日：**11thシングル「[イーアル\!キョンシー feat.好好\!キョンシーガール/Brave](https://ja.wikipedia.org/wiki/イーアル!キョンシー_feat.好好!キョンシーガール/Brave "wikilink")」**をリリース。
 
@@ -350,7 +350,7 @@
 
 :\* 2月16・17日：渋谷SOUND MUSEUM VISIONにて、*ワンマン企画ライブ『青の9nine』『赤の9nine』*を開催。
 
-:\* 3月10日：[中野サンプラザ](https://ja.wikipedia.org/wiki/中野サンプラザ "wikilink")にて*ワンマンライブ『サンプラザの9nine〜みんなで9nineでーす\!〜』*を開催。また、同日「9nineメール」のサービス開始を発表。
+:\* 3月10日：[中野サンプラザ](../Page/中野サンプラザ.md "wikilink")にて*ワンマンライブ『サンプラザの9nine〜みんなで9nineでーす\!〜』*を開催。また、同日「9nineメール」のサービス開始を発表。
 
 :\* 3月13日：**4thアルバム『[CUE](https://ja.wikipedia.org/wiki/CUE_\(9nineのアルバム\) "wikilink")』**をリリース。
 
@@ -384,7 +384,7 @@
 
 :\* 3月20日・21日：[上野学園ホールで開催された](../Page/広島県立文化芸術ホール.md "wikilink")[Perfume](https://ja.wikipedia.org/wiki/Perfume "wikilink")の対バンライブツアー『Perfume FES\!\!2014』の広島公演に出演。
 
-:\* 4月26日：[中野サンプラザ](https://ja.wikipedia.org/wiki/中野サンプラザ "wikilink")で2回目となる*ワンマンライブ『9nine Wonder Live in サンプラザ』*を開催。
+:\* 4月26日：[中野サンプラザ](../Page/中野サンプラザ.md "wikilink")で2回目となる*ワンマンライブ『9nine Wonder Live in サンプラザ』*を開催。
 
 :\* 6月18日：**5thアルバム『[MAGI9 PLAYLAND](https://ja.wikipedia.org/wiki/MAGI9_PLAYLAND "wikilink")』**をリリース。
 
@@ -442,7 +442,7 @@
 
 :\* 5月3日：4人体制初の作品となる通算**20thシングル「[Why don't you RELAX?](https://ja.wikipedia.org/wiki/Why_don't_you_RELAX? "wikilink")」**をリリース。
 
-:\* 7月22日：全メンバーが声の出演・エンディングテーマを担当するテレビアニメ『[THE REFLECTION -ザ・リフレクション-](https://ja.wikipedia.org/wiki/THE_REFLECTION "wikilink")』が[NHK総合テレビにて放送開始](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")。
+:\* 7月22日：全メンバーが声の出演・エンディングテーマを担当するテレビアニメ『[THE REFLECTION -ザ・リフレクション-](https://ja.wikipedia.org/wiki/THE_REFLECTION "wikilink")』が[NHK総合テレビにて放送開始](../Page/NHK総合テレビジョン.md "wikilink")。
 
 :\* 8月16日：メジャーレーベルでは20枚目になる**21stシングル「[SunSunSunrise/ゆるとぴあ](https://ja.wikipedia.org/wiki/SunSunSunrise/ゆるとぴあ "wikilink")」**をリリース。
 
@@ -985,7 +985,7 @@ WIZY限定盤 &lt;2BD+フォトブック&gt;</p></td>
 <td><p>2007年2月14日</p></td>
 <td><p><strong>白い華</strong></p></td>
 <td><p>作曲：山下知恵<br />
-作詞：<a href="https://ja.wikipedia.org/wiki/天野月" title="wikilink">天野月</a>子<br />
+作詞：<a href="../Page/天野月.md" title="wikilink">天野月</a>子<br />
 編曲：戸倉弘智、<a href="https://ja.wikipedia.org/wiki/藤田謙一" title="wikilink">藤田謙一</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/first9" title="wikilink">first 9</a></p></td>
 </tr>
@@ -1180,7 +1180,7 @@ WEB-CMソング</p></td>
 <tr class="odd">
 <td><p><strong>MY ONLY ONE</strong></p></td>
 <td><p>読売テレビ・日本テレビ系アニメ『<a href="https://ja.wikipedia.org/wiki/電波教師#テレビアニメ" title="wikilink">電波教師</a>』7月期エンディングテーマ<br />
-<a href="https://ja.wikipedia.org/wiki/エイチ・アイ・エス" title="wikilink">H.I.S. Co., Ltd.</a>『H.I.S.スーパーサマーセール』TV-CMソング</p></td>
+<a href="../Page/エイチ・アイ・エス.md" title="wikilink">H.I.S. Co., Ltd.</a>『H.I.S.スーパーサマーセール』TV-CMソング</p></td>
 <td><p>18thシングル「<a href="https://ja.wikipedia.org/wiki/MY_ONLY_ONE" title="wikilink">MY ONLY ONE</a>」</p></td>
 </tr>
 <tr class="even">
@@ -1197,7 +1197,7 @@ WEB-CMソング</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>SunSunSunrise</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK総合テレビジョン" title="wikilink">NHK総合テレビアニメ</a>『<a href="https://ja.wikipedia.org/wiki/THE_REFLECTION" title="wikilink">THE REFLECTION -ザ・リフレクション-</a>』エンディングテーマ</p></td>
+<td><p><a href="../Page/NHK総合テレビジョン.md" title="wikilink">NHK総合テレビアニメ</a>『<a href="https://ja.wikipedia.org/wiki/THE_REFLECTION" title="wikilink">THE REFLECTION -ザ・リフレクション-</a>』エンディングテーマ</p></td>
 <td><p>21stシングル「<a href="https://ja.wikipedia.org/wiki/SunSunSunrise/ゆるとぴあ" title="wikilink">SunSunSunrise/ゆるとぴあ</a>」</p></td>
 </tr>
 <tr class="odd">
@@ -1242,7 +1242,7 @@ WEB-CMソング</p></td>
 <td><p>2008年9月9日</p></td>
 <td><p>'''It's SHOW TIME</p></td>
 <td><p>!'''</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SHIBUYA_BOXX" title="wikilink">SHIBUYA BOXX</a></p></td>
+<td><p><a href="../Page/SHIBUYA_BOXX.md" title="wikilink">SHIBUYA BOXX</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2009年3月27日</p></td>
@@ -1265,13 +1265,13 @@ WEB-CMソング</p></td>
 <tr class="even">
 <td><p>2012年5月6日</p></td>
 <td><p><strong>青年館の9nine</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日本青年館" title="wikilink">日本青年館</a></p></td>
+<td><p><a href="../Page/日本青年館.md" title="wikilink">日本青年館</a></p></td>
 <td><p>初のホールでのワンマンライブ。<a href="https://ja.wikipedia.org/wiki/ニコニコ生放送" title="wikilink">ニコニコ生放送</a>で一部生中継。</p></td>
 </tr>
 <tr class="odd">
 <td><p>2012年8月19日</p></td>
 <td><p><strong>野音の9nine</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日比谷野外音楽堂" title="wikilink">日比谷野外音楽堂</a></p></td>
+<td><p><a href="../Page/日比谷野外音楽堂.md" title="wikilink">日比谷野外音楽堂</a></p></td>
 <td><p>初の野外公演。<a href="https://ja.wikipedia.org/wiki/ニコニコ生放送" title="wikilink">ニコニコ生放送</a>で一部生中継。<br />
 オープニングアクト：<a href="https://ja.wikipedia.org/wiki/ベイビーレイズ" title="wikilink">ベイビーレイズ</a>。</p></td>
 </tr>
@@ -1328,7 +1328,7 @@ WEB-CMソング</p></td>
 <td><p>2013年3月10日</p></td>
 <td><p><strong>サンプラザの9nine〜みんなで9nineでーす!〜</strong><br />
 <strong>-find out!-</strong> / <strong>-moving on!-</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中野サンプラザ" title="wikilink">中野サンプラザ</a></p></td>
+<td><p><a href="../Page/中野サンプラザ.md" title="wikilink">中野サンプラザ</a></p></td>
 <td><p>2回公演。</p></td>
 </tr>
 <tr class="odd">
@@ -1394,7 +1394,7 @@ WEB-CMソング</p></td>
 <tr class="odd">
 <td><p>2014年12月5日</p></td>
 <td><p><strong>9nine MAGICAL TOUR 2014</strong></p></td>
-<td><p>東京・<a href="https://ja.wikipedia.org/wiki/渋谷公会堂" title="wikilink">渋谷公会堂</a></p></td>
+<td><p>東京・<a href="../Page/渋谷公会堂.md" title="wikilink">渋谷公会堂</a></p></td>
 <td><p>大阪は2回公演。</p></td>
 </tr>
 <tr class="even">
@@ -1484,7 +1484,7 @@ WEB-CMソング</p></td>
 </tr>
 <tr class="even">
 <td><p>2015年7月18日</p></td>
-<td><p>東京・<a href="https://ja.wikipedia.org/wiki/日比谷野外音楽堂" title="wikilink">日比谷野外音楽堂</a></p></td>
+<td><p>東京・<a href="../Page/日比谷野外音楽堂.md" title="wikilink">日比谷野外音楽堂</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ニコニコ生放送" title="wikilink">ニコニコ生放送</a>で生中継。</p></td>
 <td></td>
 </tr>
@@ -1945,18 +1945,18 @@ WEB-CMソング</p></td>
 <tr class="odd">
 <td><p>2010年12月4日</p></td>
 <td><p>ヴィーナスフォート Snow wish 除雪式</p></td>
-<td><p>お台場<a href="https://ja.wikipedia.org/wiki/ヴィーナスフォート" title="wikilink">ヴィーナスフォート</a></p></td>
+<td><p>お台場<a href="../Page/ヴィーナスフォート.md" title="wikilink">ヴィーナスフォート</a></p></td>
 <td><p>「Cross Over」を披露。</p></td>
 </tr>
 <tr class="even">
 <td><p>2010年12月19日</p></td>
 <td><p>リスアニ! LIVE2010</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京国際フォーラム" title="wikilink">東京国際フォーラム</a>A</p></td>
+<td><p><a href="../Page/東京国際フォーラム.md" title="wikilink">東京国際フォーラム</a>A</p></td>
 <td><p>シークレットゲスト。</p></td>
 </tr>
 <tr class="odd">
 <td><p>2010年12月23日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レプロエンタテインメント" title="wikilink">Lesprosファンイベント</a>'Fun Fan Fun'〜クリスマスパーティ2010 これから恒例の会にしませんか!?</p></td>
+<td><p><a href="../Page/レプロエンタテインメント.md" title="wikilink">Lesprosファンイベント</a>'Fun Fan Fun'〜クリスマスパーティ2010 これから恒例の会にしませんか!?</p></td>
 <td><p>山野ホール</p></td>
 <td><p>「Cross Over」と「sky」を披露。</p></td>
 </tr>
@@ -1980,7 +1980,7 @@ WEB-CMソング</p></td>
 </tr>
 <tr class="odd">
 <td><p>2011年11月3日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ポッキー" title="wikilink">ポッキー</a>&amp;<a href="https://ja.wikipedia.org/wiki/プリッツ" title="wikilink">プリッツ</a>の日チャリティーライブ</p></td>
+<td><p><a href="../Page/ポッキー.md" title="wikilink">ポッキー</a>&amp;<a href="../Page/プリッツ.md" title="wikilink">プリッツ</a>の日チャリティーライブ</p></td>
 <td><p>東京Shibuya DUO</p></td>
 <td></td>
 </tr>
@@ -2083,7 +2083,7 @@ WEB-CMソング</p></td>
 <tr class="even">
 <td><p>2012年11月28日</p></td>
 <td><p>LIVE LIVEFUL! SHIBUYA 5DAYS!〜シブヤDD宣言!</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SHIBUYA-AX" title="wikilink">SHIBUYA-AX</a></p></td>
+<td><p><a href="../Page/SHIBUYA-AX.md" title="wikilink">SHIBUYA-AX</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ひめキュンフルーツ缶" title="wikilink">ひめキュンフルーツ缶</a>、<a href="https://ja.wikipedia.org/wiki/ベイビーレイズ" title="wikilink">ベイビーレイズ</a>、<a href="https://ja.wikipedia.org/wiki/でんぱ組.inc" title="wikilink">でんぱ組.inc</a>、<a href="https://ja.wikipedia.org/wiki/スマイレージ" title="wikilink">スマイレージ</a>と共演。</p></td>
 </tr>
 <tr class="odd">
@@ -2094,7 +2094,7 @@ WEB-CMソング</p></td>
 </tr>
 <tr class="even">
 <td><p>2013年1月27日</p></td>
-<td><p>Thank you <a href="https://ja.wikipedia.org/wiki/モンチッチ" title="wikilink">モンチッチ</a> 39th Birthday Party</p></td>
+<td><p>Thank you <a href="../Page/モンチッチ.md" title="wikilink">モンチッチ</a> 39th Birthday Party</p></td>
 <td><p>池袋サンシャインシティ</p></td>
 <td><p>「<a href="https://ja.wikipedia.org/wiki/流星のくちづけ" title="wikilink">流星のくちづけ</a>」、「<a href="https://ja.wikipedia.org/wiki/White_Wishes" title="wikilink">White Wishes</a>」、「<a href="https://ja.wikipedia.org/wiki/colorful_(9nineの曲)" title="wikilink">colorful</a>」を披露。</p></td>
 </tr>
@@ -2149,7 +2149,7 @@ WEB-CMソング</p></td>
 <tr class="odd">
 <td><p>2013年4月21日</p></td>
 <td><p>ゴールデンマーケットVOL.32</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/札幌コミュニティドーム" title="wikilink">札幌コミュニティドーム</a></p></td>
+<td><p><a href="../Page/札幌コミュニティドーム.md" title="wikilink">札幌コミュニティドーム</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2233,7 +2233,7 @@ WEB-CMソング</p></td>
 <tr class="odd">
 <td><p>2013年12月22日</p></td>
 <td><p>URASUJI.</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロフト_(ライブハウス)" title="wikilink">新宿ロフト</a></p></td>
+<td><p><a href="../Page/ロフト_(ライブハウス).md" title="wikilink">新宿ロフト</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2371,7 +2371,7 @@ WEB-CMソング</p></td>
 <tr class="even">
 <td><p>2015年11月7日</p></td>
 <td><p>MOSHI MOSHI NIPPON FESTIVAL 2015 in TOKYO</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京体育館" title="wikilink">東京体育館</a></p></td>
+<td><p><a href="../Page/東京体育館.md" title="wikilink">東京体育館</a></p></td>
 <td><p>7日のMOSHI POPに出演。</p></td>
 </tr>
 <tr class="odd">
@@ -2591,21 +2591,21 @@ WEB-CMソング</p></td>
 
 ### 学園祭
 
-| 公演日                      | 公演名                                                      | 会場                                                                       | 備考                                                          |
-| ------------------------ | -------------------------------------------------------- | ------------------------------------------------------------------------ | ----------------------------------------------------------- |
-| 2011年10月15日              | 9nineスペシャルライブ&トークショー in 第35回「紅葉祭」                        | [帝京大学](../Page/帝京大学.md "wikilink")薬学部相模湖キャンパス体育館                         | 9nine初の学園祭出演。                                               |
-| 2012年11月4日               | 早稲田祭2012「アイドル全力宣言〜可愛さ99nine％〜」                           | [早稲田大学](https://ja.wikipedia.org/wiki/早稲田大学 "wikilink")                  |                                                             |
-| 第60回白雉祭「9nineトークショー＠白雉祭」 | [武蔵大学](https://ja.wikipedia.org/wiki/武蔵大学 "wikilink")    |                                                                          |                                                             |
-| 2014年10月25日              | 駿輝祭 LIVE IN SYUNKI FES 2014                              | [駿河台大学](https://ja.wikipedia.org/wiki/駿河台大学 "wikilink")飯能キャンパス体育館2F      |                                                             |
-| 2014年10月31日              | 第48回白門祭中央企画「9nine Concert 〜in Chuo Univ.〜」               | [中央大学](https://ja.wikipedia.org/wiki/中央大学 "wikilink")多摩キャンパス9号館クレセントホール  |                                                             |
-| 2014年11月2日               | 三崎祭「LIVE IN MISAKI」                                      | [日本大学](https://ja.wikipedia.org/wiki/日本大学 "wikilink")経済学部学内大講堂           |                                                             |
-| 第115回葵祭 〜晩秋、こいこい、葵祭。〜    | [東京経済大学](../Page/東京経済大学.md "wikilink")国分寺キャンパス学内屋外特設ステージ | フリーライブ。                                                                  |                                                             |
-| 2014年11月3日               | ＜関西大学統一学園祭＞NO LIVE NO LIFE                               | [関西大学](../Page/関西大学.md "wikilink")千里山キャンパス中央体育館                          | [スガシカオ](https://ja.wikipedia.org/wiki/スガシカオ "wikilink")と共演。 |
-| 2015年11月1日               | 第58回三扇祭                                                  | [高崎経済大学](../Page/高崎経済大学.md "wikilink")学内 屋外特設ステージ                        | フリーライブ。                                                     |
-| 2015年11月7日               | 第43回芝浦祭                                                  | [芝浦工業大学](https://ja.wikipedia.org/wiki/芝浦工業大学 "wikilink")豊洲キャンパス屋外特設ステージ | フリーライブ。                                                     |
-| 2016年6月11日               | 第11回青春祭                                                  | 流通経済大学 新松戸キャンパス 学内 講堂                                                    |                                                             |
-| 2018年9月26日               | 第1回松絳祭                                                   | 米子松蔭高校                                                                   | シークレットゲスト。                                                  |
-| 2018年11月3日               | 第60回里見祭                                                  | 和洋女子大学 和洋学園 講堂                                                           |                                                             |
+| 公演日                      | 公演名                                                      | 会場                                                             | 備考                                       |
+| ------------------------ | -------------------------------------------------------- | -------------------------------------------------------------- | ---------------------------------------- |
+| 2011年10月15日              | 9nineスペシャルライブ&トークショー in 第35回「紅葉祭」                        | [帝京大学](../Page/帝京大学.md "wikilink")薬学部相模湖キャンパス体育館               | 9nine初の学園祭出演。                            |
+| 2012年11月4日               | 早稲田祭2012「アイドル全力宣言〜可愛さ99nine％〜」                           | [早稲田大学](../Page/早稲田大学.md "wikilink")                           |                                          |
+| 第60回白雉祭「9nineトークショー＠白雉祭」 | [武蔵大学](https://ja.wikipedia.org/wiki/武蔵大学 "wikilink")    |                                                                |                                          |
+| 2014年10月25日              | 駿輝祭 LIVE IN SYUNKI FES 2014                              | [駿河台大学](../Page/駿河台大学.md "wikilink")飯能キャンパス体育館2F               |                                          |
+| 2014年10月31日              | 第48回白門祭中央企画「9nine Concert 〜in Chuo Univ.〜」               | [中央大学](../Page/中央大学.md "wikilink")多摩キャンパス9号館クレセントホール           |                                          |
+| 2014年11月2日               | 三崎祭「LIVE IN MISAKI」                                      | [日本大学](https://ja.wikipedia.org/wiki/日本大学 "wikilink")経済学部学内大講堂 |                                          |
+| 第115回葵祭 〜晩秋、こいこい、葵祭。〜    | [東京経済大学](../Page/東京経済大学.md "wikilink")国分寺キャンパス学内屋外特設ステージ | フリーライブ。                                                        |                                          |
+| 2014年11月3日               | ＜関西大学統一学園祭＞NO LIVE NO LIFE                               | [関西大学](../Page/関西大学.md "wikilink")千里山キャンパス中央体育館                | [スガシカオ](../Page/スガシカオ.md "wikilink")と共演。 |
+| 2015年11月1日               | 第58回三扇祭                                                  | [高崎経済大学](../Page/高崎経済大学.md "wikilink")学内 屋外特設ステージ              | フリーライブ。                                  |
+| 2015年11月7日               | 第43回芝浦祭                                                  | [芝浦工業大学](../Page/芝浦工業大学.md "wikilink")豊洲キャンパス屋外特設ステージ          | フリーライブ。                                  |
+| 2016年6月11日               | 第11回青春祭                                                  | 流通経済大学 新松戸キャンパス 学内 講堂                                          |                                          |
+| 2018年9月26日               | 第1回松絳祭                                                   | 米子松蔭高校                                                         | シークレットゲスト。                               |
+| 2018年11月3日               | 第60回里見祭                                                  | 和洋女子大学 和洋学園 講堂                                                 |                                          |
 
 ## 出演
 
@@ -2638,7 +2638,7 @@ WEB-CMソング</p></td>
 
 <!-- end list -->
 
-  - [THE REFLECTION -ザ・リフレクション-](https://ja.wikipedia.org/wiki/THE_REFLECTION "wikilink")（2017年7月22日 - 10月7日、[NHK総合テレビ](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")）
+  - [THE REFLECTION -ザ・リフレクション-](https://ja.wikipedia.org/wiki/THE_REFLECTION "wikilink")（2017年7月22日 - 10月7日、[NHK総合テレビ](../Page/NHK総合テレビジョン.md "wikilink")）
 
 ### CM
 
@@ -2707,11 +2707,11 @@ WEB-CMソング</p></td>
 ### ラジオ
 
   - [9nineなんです](https://ja.wikipedia.org/wiki/9nineなんです "wikilink")（2009年4月4日 - 9月26日、[FM NACK5](../Page/エフエムナックファイブ.md "wikilink")）
-  - 9nineのお呼びで9nine。（2010年1月5日 - 6月29日、[スターデジオ](https://ja.wikipedia.org/wiki/スターデジオ "wikilink")）
+  - 9nineのお呼びで9nine。（2010年1月5日 - 6月29日、[スターデジオ](../Page/スターデジオ.md "wikilink")）
   - [9nineのオールナイトニッポンR](https://ja.wikipedia.org/wiki/9nineのオールナイトニッポンR "wikilink")（2010年10月9日 - 2012年3月10日、[ニッポン放送](../Page/ニッポン放送.md "wikilink")）
-  - [wktkラヂオ学園](https://ja.wikipedia.org/wiki/wktkラヂオ学園 "wikilink")（2013年4月6日 - 4月27日、[NHKラジオ第1放送](https://ja.wikipedia.org/wiki/NHKラジオ第1放送 "wikilink")） - マンスリーパーソナリティー\[19\]。
+  - [wktkラヂオ学園](https://ja.wikipedia.org/wiki/wktkラヂオ学園 "wikilink")（2013年4月6日 - 4月27日、[NHKラジオ第1放送](../Page/NHKラジオ第1放送.md "wikilink")） - マンスリーパーソナリティー\[19\]。
   - 9nine plus（2015年1月7日 - 2016年3月30日、[FM AICHI](../Page/エフエム愛知.md "wikilink")）
-  - 9nineのモテNight Party♪（2014年4月3日 - 2017年3月30日、[FM NACK5](../Page/エフエムナックファイブ.md "wikilink")） - 「[The Nutty Radio Show おに魂](https://ja.wikipedia.org/wiki/The_Nutty_Radio_Show_おに魂 "wikilink")」木曜に内包\[20\]。
+  - 9nineのモテNight Party♪（2014年4月3日 - 2017年3月30日、[FM NACK5](../Page/エフエムナックファイブ.md "wikilink")） - 「[The Nutty Radio Show おに魂](../Page/The_Nutty_Radio_Show_おに魂.md "wikilink")」木曜に内包\[20\]。
 
 ### ソーシャルゲーム
 

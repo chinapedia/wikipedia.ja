@@ -12,18 +12,18 @@
 <!-- end list -->
 
   - 北九州営業事務所
-      - [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")[北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink")[八幡東区](../Page/八幡東区.md "wikilink")[東田](https://ja.wikipedia.org/wiki/東田_\(北九州市\) "wikilink")1丁目6番7号
+      - [福岡県](../Page/福岡県.md "wikilink")[北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink")[八幡東区](../Page/八幡東区.md "wikilink")[東田](https://ja.wikipedia.org/wiki/東田_\(北九州市\) "wikilink")1丁目6番7号
   - 宗像営業事務所
       - 福岡県[宗像市](../Page/宗像市.md "wikilink")曲1640番の2
 
 ## 提供区域内自治体
 
-  - [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")
+  - [福岡県](../Page/福岡県.md "wikilink")
       - [北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink")
-          - [小倉北区](../Page/小倉北区.md "wikilink")、[小倉南区](../Page/小倉南区.md "wikilink")、[門司区](https://ja.wikipedia.org/wiki/門司区 "wikilink")、[戸畑区](../Page/戸畑区.md "wikilink")、[若松区](../Page/若松区.md "wikilink")、[八幡東区](../Page/八幡東区.md "wikilink")、[八幡西区](https://ja.wikipedia.org/wiki/八幡西区 "wikilink")
-      - [中間市](../Page/中間市.md "wikilink")、[宗像市](../Page/宗像市.md "wikilink")、[福津市](https://ja.wikipedia.org/wiki/福津市 "wikilink")
+          - [小倉北区](../Page/小倉北区.md "wikilink")、[小倉南区](../Page/小倉南区.md "wikilink")、[門司区](https://ja.wikipedia.org/wiki/門司区 "wikilink")、[戸畑区](../Page/戸畑区.md "wikilink")、[若松区](../Page/若松区.md "wikilink")、[八幡東区](../Page/八幡東区.md "wikilink")、[八幡西区](../Page/八幡西区.md "wikilink")
+      - [中間市](../Page/中間市.md "wikilink")、[宗像市](../Page/宗像市.md "wikilink")、[福津市](../Page/福津市.md "wikilink")
       - [遠賀郡](../Page/遠賀郡.md "wikilink")
-          - [水巻町](https://ja.wikipedia.org/wiki/水巻町 "wikilink")、[遠賀町](https://ja.wikipedia.org/wiki/遠賀町 "wikilink")、[岡垣町](https://ja.wikipedia.org/wiki/岡垣町 "wikilink")
+          - [水巻町](../Page/水巻町.md "wikilink")、[遠賀町](../Page/遠賀町.md "wikilink")、[岡垣町](../Page/岡垣町.md "wikilink")
 
 ## 主な放送チャンネル
 
@@ -37,7 +37,7 @@
       - 「▲」は一部エリアのみ視聴可能。
       - 「×」は視聴不可。
       - 「?」は不明。
-  - [2019年](../Page/2019年.md "wikilink")（[平成](../Page/平成.md "wikilink")31年）[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink")現在。
+  - [2019年](../Page/2019年.md "wikilink")（[平成](../Page/平成.md "wikilink")31年）[1月1日](../Page/1月1日.md "wikilink")現在。
 
 <table>
 <thead>
@@ -50,7 +50,7 @@
 </a></p></th>
 <th><p>放送局</p></th>
 <th><p>三桁<br />
-<a href="https://ja.wikipedia.org/wiki/チャンネル_(テレビ放送)" title="wikilink">チャンネル</a></p></th>
+<a href="../Page/チャンネル_(テレビ放送).md" title="wikilink">チャンネル</a></p></th>
 <th><p>伝送方式</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -72,7 +72,7 @@
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a><a href="https://ja.wikipedia.org/wiki/NHK教育テレビジョン" title="wikilink">Eテレ</a><a href="../Page/NHK北九州放送局.md" title="wikilink">北九州</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a><a href="../Page/NHK教育テレビジョン.md" title="wikilink">Eテレ</a><a href="../Page/NHK北九州放送局.md" title="wikilink">北九州</a></p></td>
 <td><p>021<br />
 022<br />
 023</p></td>
@@ -90,7 +90,7 @@
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK総合テレビジョン" title="wikilink">NHK総合</a>・北九州</p></td>
+<td><p><a href="../Page/NHK総合テレビジョン.md" title="wikilink">NHK総合</a>・北九州</p></td>
 <td><p>031<br />
 032</p></td>
 <td><p>▲</p></td>
@@ -168,17 +168,17 @@
 
 ### FMラジオ
 
-  - [2019年](../Page/2019年.md "wikilink")（[平成](../Page/平成.md "wikilink")31年）[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink")現在。
+  - [2019年](../Page/2019年.md "wikilink")（[平成](../Page/平成.md "wikilink")31年）[1月1日](../Page/1月1日.md "wikilink")現在。
 
-| MHz  | 放送局                                                                                                                                                  | 備考 |
-| ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | -- |
-| 小倉   | 八幡                                                                                                                                                   | 宗像 |
-| 77.4 | [CROSS FM](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")                                                                                        |    |
-| 78.1 | [FM山口](https://ja.wikipedia.org/wiki/エフエム山口 "wikilink")                                                                                              | \- |
-| 80.4 | [FM FUKUOKA](../Page/エフエム福岡.md "wikilink")                                                                                                           |    |
-| 83.1 | [LOVE FM](../Page/ラブエフエム国際放送.md "wikilink")                                                                                                          |    |
-| 86.1 | [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[北九州](../Page/NHK北九州放送局.md "wikilink")-[FM](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink") |    |
-|      |                                                                                                                                                      |    |
+| MHz  | 放送局                                                                                                                               | 備考 |
+| ---- | --------------------------------------------------------------------------------------------------------------------------------- | -- |
+| 小倉   | 八幡                                                                                                                                | 宗像 |
+| 77.4 | [CROSS FM](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")                                                                     |    |
+| 78.1 | [FM山口](https://ja.wikipedia.org/wiki/エフエム山口 "wikilink")                                                                           | \- |
+| 80.4 | [FM FUKUOKA](../Page/エフエム福岡.md "wikilink")                                                                                        |    |
+| 83.1 | [LOVE FM](../Page/ラブエフエム国際放送.md "wikilink")                                                                                       |    |
+| 86.1 | [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[北九州](../Page/NHK北九州放送局.md "wikilink")-[FM](../Page/NHK-FM放送.md "wikilink") |    |
+|      |                                                                                                                                   |    |
 
 ### BSデジタル放送・専門チャンネル
 

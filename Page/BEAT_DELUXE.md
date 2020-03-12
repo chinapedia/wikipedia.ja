@@ -5,7 +5,7 @@
 
 ## 概要
 
-  - 「[TRANS J-NIC online](https://ja.wikipedia.org/wiki/TRANS_J-NIC_online "wikilink")」の後番組として[2004年](../Page/2004年.md "wikilink")4月からスタート。
+  - 「[TRANS J-NIC online](../Page/TRANS_J-NIC_online.md "wikilink")」の後番組として[2004年](../Page/2004年.md "wikilink")4月からスタート。
 
       - この前番組も2局ネットで放送された。
 

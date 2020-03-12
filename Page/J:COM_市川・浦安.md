@@ -1,7 +1,7 @@
 > この記事は[J:COM ](https://ja.wikipedia.org/wiki/J:COM_)から翻訳されています。
 
 
-**J:COM 市川・浦安**（ジェイコム いちかわ・うらやす）とは、[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")[ジェイコム千葉](https://ja.wikipedia.org/wiki/ジェイコム千葉 "wikilink")が運営する[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局のひとつ。
+**J:COM 市川・浦安**（ジェイコム いちかわ・うらやす）とは、[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")[ジェイコム千葉](../Page/ジェイコム千葉.md "wikilink")が運営する[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局のひとつ。
 
 ## 事業所
 
@@ -14,7 +14,7 @@
 
 ## 提供区域内自治体
 
-  - [千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")
+  - [千葉県](../Page/千葉県.md "wikilink")
       - [市川市](../Page/市川市.md "wikilink")、[浦安市](https://ja.wikipedia.org/wiki/浦安市 "wikilink")
 
 ## 主な放送チャンネル
@@ -42,7 +42,7 @@
 </a></p></th>
 <th><p>放送局</p></th>
 <th><p>三桁<br />
-<a href="https://ja.wikipedia.org/wiki/チャンネル_(テレビ放送)" title="wikilink">チャンネル</a></p></th>
+<a href="../Page/チャンネル_(テレビ放送).md" title="wikilink">チャンネル</a></p></th>
 <th><p>伝送方式</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -57,7 +57,7 @@
 </tr>
 <tr class="even">
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a><a href="https://ja.wikipedia.org/wiki/NHK総合テレビジョン" title="wikilink">総合</a>・<a href="../Page/NHK放送センター.md" title="wikilink">東京</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a><a href="../Page/NHK総合テレビジョン.md" title="wikilink">総合</a>・<a href="../Page/NHK放送センター.md" title="wikilink">東京</a></p></td>
 <td><p>011<br />
 012</p></td>
 <td><p>●</p></td>
@@ -65,7 +65,7 @@
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK教育テレビジョン" title="wikilink">NHKEテレ東京</a></p></td>
+<td><p><a href="../Page/NHK教育テレビジョン.md" title="wikilink">NHKEテレ東京</a></p></td>
 <td><p>021<br />
 022<br />
 023</p></td>
@@ -74,7 +74,7 @@
 </tr>
 <tr class="even">
 <td><p>3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/千葉テレビ放送" title="wikilink">チバテレビ</a></p></td>
+<td><p><a href="../Page/千葉テレビ放送.md" title="wikilink">チバテレビ</a></p></td>
 <td><p>031<br />
 032</p></td>
 <td><p>●</p></td>
@@ -179,22 +179,22 @@
 
   - [2019年](../Page/2019年.md "wikilink")（[平成](../Page/平成.md "wikilink")31年）[4月1日](../Page/4月1日.md "wikilink")現在。
 
-| MHz  | 放送局                                                                                             | 備考                                                               |
-| ---- | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| 市川   | 浦安                                                                                              |                                                                  |
-| 77.5 | [bayfm](../Page/ベイエフエム.md "wikilink")                                                           | [NACK5](../Page/エフエムナックファイブ.md "wikilink")                       |
-| 78.3 | \-                                                                                              | [Fm yokohama](https://ja.wikipedia.org/wiki/横浜エフエム放送 "wikilink") |
-| 79.1 | NACK5                                                                                           | [J-WAVE](../Page/J-WAVE.md "wikilink")                           |
-| 80.4 | [TOKYO FM](../Page/エフエム東京.md "wikilink")                                                        | \-                                                               |
-| 81.6 | [NHK千葉](../Page/NHK千葉放送局.md "wikilink")-[FM](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink") | \-                                                               |
-| 81.7 | \-                                                                                              | [InterFM](../Page/InterFM.md "wikilink")897                      |
-| 83.2 | J-WAVE                                                                                          | TOKYO FM                                                         |
-| 83.8 | [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[東京](../Page/NHK放送センター.md "wikilink")-FM  |                                                                  |
-| 84.4 | [市川うららFM](../Page/エフエム浦安.md "wikilink")                                                         | NHK千葉-FM                                                         |
-| 85.0 | \-                                                                                              | 市川うららFM                                                          |
-| 85.6 | \-                                                                                              | bayfm                                                            |
-| 85.7 | Fm yokohama                                                                                     | \-                                                               |
-|      |                                                                                                 |                                                                  |
+| MHz  | 放送局                                                                                            | 備考                                            |
+| ---- | ---------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| 市川   | 浦安                                                                                             |                                               |
+| 77.5 | [bayfm](../Page/ベイエフエム.md "wikilink")                                                          | [NACK5](../Page/エフエムナックファイブ.md "wikilink")    |
+| 78.3 | \-                                                                                             | [Fm yokohama](../Page/横浜エフエム放送.md "wikilink") |
+| 79.1 | NACK5                                                                                          | [J-WAVE](../Page/J-WAVE.md "wikilink")        |
+| 80.4 | [TOKYO FM](../Page/エフエム東京.md "wikilink")                                                       | \-                                            |
+| 81.6 | [NHK千葉](../Page/NHK千葉放送局.md "wikilink")-[FM](../Page/NHK-FM放送.md "wikilink")                   | \-                                            |
+| 81.7 | \-                                                                                             | [InterFM](../Page/InterFM.md "wikilink")897   |
+| 83.2 | J-WAVE                                                                                         | TOKYO FM                                      |
+| 83.8 | [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[東京](../Page/NHK放送センター.md "wikilink")-FM |                                               |
+| 84.4 | [市川うららFM](../Page/エフエム浦安.md "wikilink")                                                        | NHK千葉-FM                                      |
+| 85.0 | \-                                                                                             | 市川うららFM                                       |
+| 85.6 | \-                                                                                             | bayfm                                         |
+| 85.7 | Fm yokohama                                                                                    | \-                                            |
+|      |                                                                                                |                                               |
 
 ### BSデジタル放送・専門チャンネル
 
@@ -212,7 +212,7 @@
 
   - [株式会社ジュピターテレコム](../Page/ジュピターテレコム.md "wikilink")
       - [ジュピターテレコム ケーブルTV事業部門](https://ja.wikipedia.org/wiki/ジュピターテレコム_ケーブルTV事業部門 "wikilink")
-          - [株式会社ジェイコム千葉](https://ja.wikipedia.org/wiki/ジェイコム千葉 "wikilink")
+          - [株式会社ジェイコム千葉](../Page/ジェイコム千葉.md "wikilink")
               - [J:COM YY船橋習志野](https://ja.wikipedia.org/wiki/J:COM_YY船橋習志野 "wikilink")
               - [J:COM 木更津](../Page/J:COM_木更津.md "wikilink")
               - [J:COM 千葉セントラル](https://ja.wikipedia.org/wiki/J:COM_千葉セントラル "wikilink")

@@ -7,11 +7,11 @@
 
 ## 概要
 
-前作『[必殺仕事人V・旋風編](../Page/必殺仕事人V・旋風編.md "wikilink")』が、[出門英](https://ja.wikipedia.org/wiki/出門英 "wikilink")のスケジュールによる降板と視聴率の低迷で打ち切りとなった直後の作品で、旋風編の正当な続編であり、主題歌など、いくつかの要素はそのまま引き継がれている。
+前作『[必殺仕事人V・旋風編](../Page/必殺仕事人V・旋風編.md "wikilink")』が、[出門英](../Page/出門英.md "wikilink")のスケジュールによる降板と視聴率の低迷で打ち切りとなった直後の作品で、旋風編の正当な続編であり、主題歌など、いくつかの要素はそのまま引き継がれている。
 
-旋風編で降板した出門と[ひかる一平](https://ja.wikipedia.org/wiki/ひかる一平 "wikilink")の代わりに、当時[大河ドラマ](../Page/大河ドラマ.md "wikilink")『[独眼竜政宗](../Page/独眼竜政宗_\(NHK大河ドラマ\).md "wikilink")』に出演していた[三浦友和](../Page/三浦友和.md "wikilink")と、『[テレビ三面記事 ウィークエンダー](../Page/テレビ三面記事_ウィークエンダー.md "wikilink")』に出演していた桂朝丸（現・[2代目桂ざこば](../Page/桂ざこば_\(2代目\).md "wikilink")）を起用した。
+旋風編で降板した出門と[ひかる一平](../Page/ひかる一平.md "wikilink")の代わりに、当時[大河ドラマ](../Page/大河ドラマ.md "wikilink")『[独眼竜政宗](../Page/独眼竜政宗_\(NHK大河ドラマ\).md "wikilink")』に出演していた[三浦友和](../Page/三浦友和.md "wikilink")と、『[テレビ三面記事 ウィークエンダー](../Page/テレビ三面記事_ウィークエンダー.md "wikilink")』に出演していた桂朝丸（現・[2代目桂ざこば](../Page/桂ざこば_\(2代目\).md "wikilink")）を起用した。
 
-視聴率はやや持ち直したが、次作『[必殺剣劇人](https://ja.wikipedia.org/wiki/必殺剣劇人 "wikilink")』を以て、『[必殺仕掛人](https://ja.wikipedia.org/wiki/必殺仕掛人 "wikilink")』以来、15年続いた必殺シリーズのレギュラー放送を休止させることが決定した。
+視聴率はやや持ち直したが、次作『[必殺剣劇人](../Page/必殺剣劇人.md "wikilink")』を以て、『[必殺仕掛人](../Page/必殺仕掛人.md "wikilink")』以来、15年続いた必殺シリーズのレギュラー放送を休止させることが決定した。
 
 ## あらすじ
 
@@ -40,7 +40,7 @@
     南町奉行所の同心。本作では、前作最終話での百軒長屋の火災の責任を取らされ、富岡八幡宮へ続く橋の番所勤めへ異動となり、以前にも増して左遷された状態にある。
     第8話では3カ月の勤務予定だったはずが評判がいいらしく、さらに3カ月延長となる。
   - [鍛冶屋の政](../Page/政_\(必殺シリーズ\).md "wikilink")
-    演 - [村上弘明](https://ja.wikipedia.org/wiki/村上弘明 "wikilink")
+    演 - [村上弘明](../Page/村上弘明.md "wikilink")
     前作の銀平の死を受け、裏稼業から足を洗っていたが、主水が裏切りを働いたとの誤解から、仕事人に復帰する。主水の潔白が証明された後は彼と組み、仕事を行う。
     鍛冶屋としての腕前を上げており、第17話では依頼に応じ、筋力増強のための[ブルワーカー](../Page/ブルワーカー.md "wikilink")を連想させる運動器具を作り上げた。
     最終回で捕り方に捕まった影太郎を助けたことで足が付き、仲間たちに別れを告げ、江戸を旅立つ。
@@ -66,20 +66,20 @@
 ### その他
 
   - [中村せん](https://ja.wikipedia.org/wiki/中村せん・りつ#中村せん "wikilink")
-    演 - [菅井きん](https://ja.wikipedia.org/wiki/菅井きん "wikilink")
+    演 - [菅井きん](../Page/菅井きん.md "wikilink")
     主水の姑。相変わらず、婿養子の主水をいびる。
   - [中村りつ](https://ja.wikipedia.org/wiki/中村せん・りつ#中村りつ "wikilink")
     演 - [白木万理](../Page/白木万理.md "wikilink")
     主水の妻。せんとともに、相変わらず婿養子の主水をいびる。主水が左遷中のため、隣近所に肩身の狭い思いをしている。
-  - [筆頭同心 田中](https://ja.wikipedia.org/wiki/田中熊五郎 "wikilink")
-    演 - [山内としお](https://ja.wikipedia.org/wiki/山内としお "wikilink")
+  - [筆頭同心 田中](../Page/田中熊五郎.md "wikilink")
+    演 - [山内としお](../Page/山内としお.md "wikilink")
     南町奉行所の筆頭同心で、主水の上司。前作同様、上司の鬼塚と一緒にいることが多く、主水を口煩く注意する。
   - 与力 鬼塚
-    演 - [西田健](https://ja.wikipedia.org/wiki/西田健 "wikilink")
+    演 - [西田健](../Page/西田健.md "wikilink")
     南町奉行所の与力で、田中の上司。前作同様、田中と一緒に登場することが多い。
     成果を上げない部下を叱咤し、昼行灯の主水を大声で叱り飛ばすなど、名前通りの厳しさである。
   - お仙
-    演 - [小林千絵](https://ja.wikipedia.org/wiki/小林千絵 "wikilink")\[3\]
+    演 - [小林千絵](../Page/小林千絵.md "wikilink")\[3\]
     第13話から登場した、素性の知れない少女で、自称「フーテンのお仙」。
     突然、夜叉堂に現れ、蝶丸から金を貰って住み着き、絵馬が仕事人への連絡とは知らずに手伝いをするようになる。女好きの蝶丸を無邪気に翻弄して悶々とさせたりもする。
     最終回で、蝶丸に愛想を尽かし、何処へ旅立ってしまった。
@@ -100,17 +100,17 @@
 
 :\* 大坂の元締 - [北村英三](https://ja.wikipedia.org/wiki/北村英三 "wikilink")
 
-:\* 柳島の茂兵衛 - [加賀邦男](https://ja.wikipedia.org/wiki/加賀邦男 "wikilink")
+:\* 柳島の茂兵衛 - [加賀邦男](../Page/加賀邦男.md "wikilink")
 
   -
 
   - 第2話 「将軍の初恋騒動\!」
 
-:\* お鹿 - [津島恵子](https://ja.wikipedia.org/wiki/津島恵子 "wikilink")
+:\* お鹿 - [津島恵子](../Page/津島恵子.md "wikilink")
 
 :\* 大御所家斉 - [佐竹明夫](../Page/佐竹明夫.md "wikilink")
 
-:\* 水野隼人正 - [小林勝彦](https://ja.wikipedia.org/wiki/小林勝彦 "wikilink")
+:\* 水野隼人正 - [小林勝彦](../Page/小林勝彦.md "wikilink")
 
 :\* お光 - [橘ゆかり](https://ja.wikipedia.org/wiki/橘ゆかり "wikilink")
 
@@ -124,7 +124,7 @@
 
   - 第3話 「返り討ち悲話」
 
-:\* 片倉新八 - [平泉成](https://ja.wikipedia.org/wiki/平泉成 "wikilink")
+:\* 片倉新八 - [平泉成](../Page/平泉成.md "wikilink")
 
 :\* 駒吉 - [塩屋俊](../Page/塩屋俊.md "wikilink")
 
@@ -138,7 +138,7 @@
 
   - 第4話 「政と女スリ、危機一髪」
 
-:\* お百 - [高部知子](https://ja.wikipedia.org/wiki/高部知子 "wikilink")
+:\* お百 - [高部知子](../Page/高部知子.md "wikilink")
 
 :\* 聖天の弥助 - [黒部進](../Page/黒部進.md "wikilink")
 
@@ -150,11 +150,11 @@
 
   - 第5話 「一夫多妻家族 悲しき暴走」
 
-:\* お峰 - [左時枝](https://ja.wikipedia.org/wiki/左時枝 "wikilink")
+:\* お峰 - [左時枝](../Page/左時枝.md "wikilink")
 
-:\* 並作 - [車だん吉](https://ja.wikipedia.org/wiki/車だん吉 "wikilink")
+:\* 並作 - [車だん吉](../Page/車だん吉.md "wikilink")
 
-:\* 巳代松 - [高峰圭二](https://ja.wikipedia.org/wiki/高峰圭二 "wikilink")
+:\* 巳代松 - [高峰圭二](../Page/高峰圭二.md "wikilink")
 
 :\* 六兵衛 - [五味龍太郎](https://ja.wikipedia.org/wiki/五味龍太郎 "wikilink")
 
@@ -162,13 +162,13 @@
 
 :\* おとめ - [森愛子](https://ja.wikipedia.org/wiki/森愛子 "wikilink")
 
-:\* 以蔵 - [志茂山高也](https://ja.wikipedia.org/wiki/チャンバラトリオ "wikilink")
+:\* 以蔵 - [志茂山高也](../Page/チャンバラトリオ.md "wikilink")
 
   -
 
   - 第6話 「替え玉お見合い騒動」
 
-:\* 堀田浪江 - [二宮さよ子](https://ja.wikipedia.org/wiki/二宮さよ子 "wikilink")
+:\* 堀田浪江 - [二宮さよ子](../Page/二宮さよ子.md "wikilink")
 
 :\* 夏目喜内 - [中井啓輔](../Page/中井啓輔.md "wikilink")
 
@@ -190,7 +190,7 @@
 
 :\* お里 - [岡本舞](../Page/岡本舞.md "wikilink")
 
-:\* 佐久間 - [唐沢民賢](https://ja.wikipedia.org/wiki/唐沢民賢 "wikilink")
+:\* 佐久間 - [唐沢民賢](../Page/唐沢民賢.md "wikilink")
 
 :\* 辰五郎 - [井上博一](../Page/井上博一.md "wikilink")
 
@@ -202,13 +202,13 @@
 
   - 第9話 「八百人目の恋は悲恋\!」
 
-:\* 銀次 - [黒崎輝](https://ja.wikipedia.org/wiki/黒崎輝 "wikilink")
+:\* 銀次 - [黒崎輝](../Page/黒崎輝.md "wikilink")
 
 :\* 市兵衛 - [和崎俊哉](../Page/和崎俊哉.md "wikilink")
 
 :\* お品 - [斉藤絵理](https://ja.wikipedia.org/wiki/斉藤絵里 "wikilink")
 
-:\* 儀助 - [西園寺章雄](https://ja.wikipedia.org/wiki/西園寺章雄 "wikilink")
+:\* 儀助 - [西園寺章雄](../Page/西園寺章雄.md "wikilink")
 
 :\* 女 - [紅萬子](https://ja.wikipedia.org/wiki/紅萬子 "wikilink")
 
@@ -232,11 +232,11 @@
 
   - 第11話 「大江戸F.F.騒動\!」
 
-:\* おたみ - [寺島まゆみ](https://ja.wikipedia.org/wiki/寺島まゆみ "wikilink")
+:\* おたみ - [寺島まゆみ](../Page/寺島まゆみ.md "wikilink")
 
 :\* 伊吹屋 - [石山律雄](https://ja.wikipedia.org/wiki/石山律雄 "wikilink")
 
-:\* 山村時之丞 - [内田喜郎](https://ja.wikipedia.org/wiki/内田喜郎 "wikilink")
+:\* 山村時之丞 - [内田喜郎](../Page/内田喜郎.md "wikilink")
 
 :\* 倉重信濃守 - [岩尾正隆](../Page/岩尾正隆.md "wikilink")
 
@@ -260,7 +260,7 @@
 
   - 第13話 「剣豪の妻、悲願の御前試合」
 
-:\* 猿宮軍兵衛 - [亀石征一郎](https://ja.wikipedia.org/wiki/亀石征一郎 "wikilink")
+:\* 猿宮軍兵衛 - [亀石征一郎](../Page/亀石征一郎.md "wikilink")
 
 :\* 照葉 - [本阿弥周子](../Page/本阿弥周子.md "wikilink")
 
@@ -276,7 +276,7 @@
 
   - 第14話 「お化け縁切り哀話」
 
-:\* お紺 - [赤座美代子](https://ja.wikipedia.org/wiki/赤座美代子 "wikilink")
+:\* お紺 - [赤座美代子](../Page/赤座美代子.md "wikilink")
 
 :\* 平吉 - [粟津號](../Page/粟津號.md "wikilink")
 
@@ -294,9 +294,9 @@
 
   - 第15話 「江戸大仏からくり開眼」
 
-:\* 不覚 - [津村隆](https://ja.wikipedia.org/wiki/津村鷹志 "wikilink")
+:\* 不覚 - [津村隆](../Page/津村鷹志.md "wikilink")
 
-:\* 玄達 - [石橋雅史](https://ja.wikipedia.org/wiki/石橋雅史 "wikilink")
+:\* 玄達 - [石橋雅史](../Page/石橋雅史.md "wikilink")
 
 :\* イヨ - [影山仁美](https://ja.wikipedia.org/wiki/影山仁美 "wikilink")
 
@@ -314,13 +314,13 @@
 
   - 第16話 「白か黒か大商人誘拐騒動」
 
-:\* 善兵衛 - [宗方勝巳](https://ja.wikipedia.org/wiki/宗方勝巳 "wikilink")
+:\* 善兵衛 - [宗方勝巳](../Page/宗方勝巳.md "wikilink")
 
-:\* 忠兵衛 - [上野山功一](https://ja.wikipedia.org/wiki/上野山功一 "wikilink")
+:\* 忠兵衛 - [上野山功一](../Page/上野山功一.md "wikilink")
 
 :\* お種 - 江崎和代
 
-:\* 彦坂 - [田畑猛雄](https://ja.wikipedia.org/wiki/田畑猛雄 "wikilink")
+:\* 彦坂 - [田畑猛雄](../Page/田畑猛雄.md "wikilink")
 
 :\* 茂兵衛 - 下元年世（2回目）
 
@@ -336,13 +336,13 @@
 
 :\* 大貫忠秀 - [小笠原良知](../Page/小笠原良知.md "wikilink")
 
-:\* 久貝重正 - [中田浩二](https://ja.wikipedia.org/wiki/中田浩二_\(俳優\) "wikilink")
+:\* 久貝重正 - [中田浩二](../Page/中田浩二_\(俳優\).md "wikilink")
 
 :\* 大貫求馬 - [大橋吾郎](../Page/大橋吾郎.md "wikilink")
 
 :\* 久貝伊織 - [伊庭剛](https://ja.wikipedia.org/wiki/伊庭剛 "wikilink")
 
-:\* 深見久兵ヱ - [西園寺章雄](https://ja.wikipedia.org/wiki/西園寺章雄 "wikilink")　
+:\* 深見久兵ヱ - [西園寺章雄](../Page/西園寺章雄.md "wikilink")　
 
 :\* 門弟 - [小林哲磨](https://ja.wikipedia.org/wiki/小林哲磨 "wikilink")
 
@@ -350,9 +350,9 @@
 
   - 第18話 「身代り大名悪人討ち\!」
 
-:\* 佐竹助佐衛門 - [内藤武敏](https://ja.wikipedia.org/wiki/内藤武敏 "wikilink")
+:\* 佐竹助佐衛門 - [内藤武敏](../Page/内藤武敏.md "wikilink")
 
-:\* 室田意次 - [内田勝正](https://ja.wikipedia.org/wiki/内田勝正 "wikilink")
+:\* 室田意次 - [内田勝正](../Page/内田勝正.md "wikilink")
 
 :\* 志津 - [朝比奈順子](../Page/朝比奈順子.md "wikilink")
 
@@ -372,7 +372,7 @@
 
 :\* 吉野局 - [三ツ矢歌子](../Page/三ツ矢歌子.md "wikilink")
 
-:\* 雲龍 - [島田順司](https://ja.wikipedia.org/wiki/島田順司 "wikilink")
+:\* 雲龍 - [島田順司](../Page/島田順司.md "wikilink")
 
 :\* 尾上 - [井上ユカリ](https://ja.wikipedia.org/wiki/井上ユカリ "wikilink")
 
@@ -380,7 +380,7 @@
 
 :\* 岡部十郎太 - [出水憲司](https://ja.wikipedia.org/wiki/出水憲司 "wikilink")
 
-:\* 芸人 - [ジョニー広瀬](https://ja.wikipedia.org/wiki/ジョニー広瀬 "wikilink")
+:\* 芸人 - [ジョニー広瀬](../Page/ジョニー広瀬.md "wikilink")
 
 :\* 芸人 - 海老一鈴子
 
@@ -400,21 +400,21 @@
 
 ## スタッフ
 
-  - 制作 - [山内久司](https://ja.wikipedia.org/wiki/山内久司 "wikilink")（朝日放送）
+  - 制作 - [山内久司](../Page/山内久司.md "wikilink")（朝日放送）
   - プロデューサー - [奥田哲雄](https://ja.wikipedia.org/wiki/奥田哲雄 "wikilink")（朝日放送）、辰野悦央（朝日放送）、櫻井洋三（松竹）
   - 脚本 - [吉田剛](https://ja.wikipedia.org/wiki/吉田剛_\(脚本家\) "wikilink")、保利吉紀、[篠崎好](https://ja.wikipedia.org/wiki/篠崎好 "wikilink")、鶉野昭彦、中原朗
   - 音楽 - [平尾昌晃](../Page/平尾昌晃.md "wikilink")
-  - オープニングナレーター - [中村梅之助](https://ja.wikipedia.org/wiki/中村梅之助_\(4代目\) "wikilink")
+  - オープニングナレーター - [中村梅之助](../Page/中村梅之助_\(4代目\).md "wikilink")
   - 協力 - [エクラン演技集団](https://ja.wikipedia.org/wiki/エクラン社 "wikilink")、新演技座
-  - 監督 - [工藤栄一](https://ja.wikipedia.org/wiki/工藤栄一 "wikilink")、原田雄一、[松野宏軌](https://ja.wikipedia.org/wiki/松野宏軌 "wikilink")、水川淳三、[山根成之](https://ja.wikipedia.org/wiki/山根成之 "wikilink")
+  - 監督 - [工藤栄一](../Page/工藤栄一.md "wikilink")、原田雄一、[松野宏軌](https://ja.wikipedia.org/wiki/松野宏軌 "wikilink")、水川淳三、[山根成之](https://ja.wikipedia.org/wiki/山根成之 "wikilink")
   - 製作協力 - 京都映画撮影所（現・松竹撮影所）
   - 制作 - 朝日放送、松竹
 
 ## 主題歌・挿入歌
 
-  - 主題歌 - [川中美幸](https://ja.wikipedia.org/wiki/川中美幸 "wikilink")「愛は別離（わかれ）」（テイチクレコード（現・[テイチクエンタテインメント](https://ja.wikipedia.org/wiki/テイチクエンタテインメント "wikilink")））
+  - 主題歌 - [川中美幸](../Page/川中美幸.md "wikilink")「愛は別離（わかれ）」（テイチクレコード（現・[テイチクエンタテインメント](../Page/テイチクエンタテインメント.md "wikilink")））
       -
-        作詞：[なかにし礼](../Page/なかにし礼.md "wikilink")、作曲：[浜圭介](https://ja.wikipedia.org/wiki/浜圭介 "wikilink")、編曲：桜庭伸幸
+        作詞：[なかにし礼](../Page/なかにし礼.md "wikilink")、作曲：[浜圭介](../Page/浜圭介.md "wikilink")、編曲：桜庭伸幸
   - 挿入歌 - 川中美幸「風花」（テイチクレコード（現・テイチクエンタテインメント））
       -
         作詞：中西冬樹、作曲：伊豆康臣、編曲：桜庭伸幸
@@ -426,27 +426,27 @@
 
 ## 放送日程
 
-| 話数   | 放送日        | サブタイトル                                                                                                                 | 脚本   | 監督   |
-| ---- | ---------- | ---------------------------------------------------------------------------------------------------------------------- | ---- | ---- |
-| 第1話  | 1987年3月13日 | 謎の二枚目殺し屋登場\!                                                                                                           | 吉田剛  | 工藤栄一 |
-| 第2話  | 1987年3月20日 | 将軍の初恋騒動\!                                                                                                              | 原田雄一 |      |
-| 第3話  | 1987年3月27日 | 返り討ち悲話                                                                                                                 | 保利吉紀 |      |
-| 第4話  | 1987年4月17日 | 政と女スリ、危機一髪                                                                                                             | 吉田剛  | 松野宏軌 |
-| 第5話  | 1987年4月24日 | 一夫多妻家族 悲しき暴走                                                                                                           | 保利吉紀 |      |
-| 第6話  | 1987年5月1日  | 替え玉お見合い騒動                                                                                                              | 吉田剛  | 水川淳三 |
-| 第7話  | 1987年5月8日  | 主水の刀を研ぐ男                                                                                                               | 保利吉紀 |      |
-| 第8話  | 1987年5月15日 | 殺しの的は影太郎                                                                                                               | 篠崎好  | 原田雄一 |
-| 第9話  | 1987年5月22日 | 八百人目の恋は悲恋\!                                                                                                            | 吉田剛  |      |
-| 第10話 | 1987年5月29日 | 子連れ女殺し旅                                                                                                                | 松野宏軌 |      |
-| 第11話 | 1987年6月5日  | 大江戸[F](https://ja.wikipedia.org/wiki/FOCUS "wikilink").[F](https://ja.wikipedia.org/wiki/フライデー_\(雑誌\) "wikilink").騒動\! | 保利吉紀 | 水川淳三 |
-| 第12話 | 1987年6月12日 | 不倫妻、身投げからくり                                                                                                            | 吉田剛  | 松野宏軌 |
-| 第13話 | 1987年6月19日 | 剣豪の妻、悲願の御前試合                                                                                                           | 鶉野昭彦 |      |
-| 第14話 | 1987年6月26日 | お化け縁切り哀話                                                                                                               | 吉田剛  | 山根成之 |
-| 第15話 | 1987年7月3日  | 江戸大仏からくり開眼                                                                                                             | 中原朗  | 原田雄一 |
-| 第16話 | 1987年7月10日 | 白か黒か大商人誘拐騒動                                                                                                            | 鶉野昭彦 | 山根成之 |
-| 第17話 | 1987年7月17日 | 恐怖の辻射ち\!                                                                                                               | 中原朗  | 松野宏軌 |
-| 第18話 | 1987年7月24日 | 身代り大名悪人討ち\!                                                                                                            | 保利吉紀 | 山根成之 |
-| 第19話 | 1987年7月31日 | 主水ひとりぼっち                                                                                                               | 中原朗  |      |
+| 話数   | 放送日        | サブタイトル                                                                                              | 脚本   | 監督   |
+| ---- | ---------- | --------------------------------------------------------------------------------------------------- | ---- | ---- |
+| 第1話  | 1987年3月13日 | 謎の二枚目殺し屋登場\!                                                                                        | 吉田剛  | 工藤栄一 |
+| 第2話  | 1987年3月20日 | 将軍の初恋騒動\!                                                                                           | 原田雄一 |      |
+| 第3話  | 1987年3月27日 | 返り討ち悲話                                                                                              | 保利吉紀 |      |
+| 第4話  | 1987年4月17日 | 政と女スリ、危機一髪                                                                                          | 吉田剛  | 松野宏軌 |
+| 第5話  | 1987年4月24日 | 一夫多妻家族 悲しき暴走                                                                                        | 保利吉紀 |      |
+| 第6話  | 1987年5月1日  | 替え玉お見合い騒動                                                                                           | 吉田剛  | 水川淳三 |
+| 第7話  | 1987年5月8日  | 主水の刀を研ぐ男                                                                                            | 保利吉紀 |      |
+| 第8話  | 1987年5月15日 | 殺しの的は影太郎                                                                                            | 篠崎好  | 原田雄一 |
+| 第9話  | 1987年5月22日 | 八百人目の恋は悲恋\!                                                                                         | 吉田剛  |      |
+| 第10話 | 1987年5月29日 | 子連れ女殺し旅                                                                                             | 松野宏軌 |      |
+| 第11話 | 1987年6月5日  | 大江戸[F](../Page/FOCUS.md "wikilink").[F](https://ja.wikipedia.org/wiki/フライデー_\(雑誌\) "wikilink").騒動\! | 保利吉紀 | 水川淳三 |
+| 第12話 | 1987年6月12日 | 不倫妻、身投げからくり                                                                                         | 吉田剛  | 松野宏軌 |
+| 第13話 | 1987年6月19日 | 剣豪の妻、悲願の御前試合                                                                                        | 鶉野昭彦 |      |
+| 第14話 | 1987年6月26日 | お化け縁切り哀話                                                                                            | 吉田剛  | 山根成之 |
+| 第15話 | 1987年7月3日  | 江戸大仏からくり開眼                                                                                          | 中原朗  | 原田雄一 |
+| 第16話 | 1987年7月10日 | 白か黒か大商人誘拐騒動                                                                                         | 鶉野昭彦 | 山根成之 |
+| 第17話 | 1987年7月17日 | 恐怖の辻射ち\!                                                                                            | 中原朗  | 松野宏軌 |
+| 第18話 | 1987年7月24日 | 身代り大名悪人討ち\!                                                                                         | 保利吉紀 | 山根成之 |
+| 第19話 | 1987年7月31日 | 主水ひとりぼっち                                                                                            | 中原朗  |      |
 
 ## ネット局
 
@@ -508,7 +508,7 @@
 <td><p>1987年3月まではテレビ朝日系列とのクロスネット局</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/山形県" title="wikilink">山形県</a></p></td>
+<td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
 <td><p><a href="../Page/山形放送.md" title="wikilink">山形放送</a></p></td>
 <td><p>日本テレビ系列<br />
 テレビ朝日系列</p></td>
@@ -613,7 +613,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/九州朝日放送" title="wikilink">九州朝日放送</a></p></td>
 <td><p>テレビ朝日系列</p></td>
 <td></td>
@@ -651,7 +651,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/沖縄県.md" title="wikilink">沖縄県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/琉球放送" title="wikilink">琉球放送</a></p></td>
+<td><p><a href="../Page/琉球放送.md" title="wikilink">琉球放送</a></p></td>
 <td><p>TBS系列</p></td>
 <td></td>
 </tr>

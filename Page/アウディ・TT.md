@@ -1,13 +1,13 @@
 > この記事は[TT](https://ja.wikipedia.org/wiki/TT)から翻訳されています。
 
 
-**TT**（ティーティー）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[自動車](../Page/自動車.md "wikilink")メーカー[アウディ](https://ja.wikipedia.org/wiki/アウディ "wikilink")が製造販売する、[フォルクスワーゲン・ゴルフ](../Page/フォルクスワーゲン・ゴルフ.md "wikilink")をベースにする[前輪駆動](https://ja.wikipedia.org/wiki/前輪駆動 "wikilink")FFと[4WDのスポーツカーである](../Page/四輪駆動.md "wikilink")。ちなみに車名のTTは、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")・[マン島](https://ja.wikipedia.org/wiki/マン島 "wikilink")で開催されていたレースイベント「[ツーリスト・トロフィー](https://ja.wikipedia.org/wiki/ツーリスト・トロフィー "wikilink")」に由来する。
+**TT**（ティーティー）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[自動車](../Page/自動車.md "wikilink")メーカー[アウディ](https://ja.wikipedia.org/wiki/アウディ "wikilink")が製造販売する、[フォルクスワーゲン・ゴルフ](../Page/フォルクスワーゲン・ゴルフ.md "wikilink")をベースにする[前輪駆動](../Page/前輪駆動.md "wikilink")FFと[4WDのスポーツカーである](../Page/四輪駆動.md "wikilink")。ちなみに車名のTTは、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")・[マン島](https://ja.wikipedia.org/wiki/マン島 "wikilink")で開催されていたレースイベント「[ツーリスト・トロフィー](https://ja.wikipedia.org/wiki/ツーリスト・トロフィー "wikilink")」に由来する。
 
 ## 歴史
 
 ### 初代（1998-2006年）タイプ8N
 
-[Audi_TT_3.2_Roadster_-_Flickr_-_The_Car_Spy_(13).jpg](https://ja.wikipedia.org/wiki/File:Audi_TT_3.2_Roadster_-_Flickr_-_The_Car_Spy_\(13\).jpg "fig:Audi_TT_3.2_Roadster_-_Flickr_-_The_Car_Spy_(13).jpg") アウディが[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に発表した*TT デザイン・スタディ・モデル*を、ほぼそのままの形で市販化したモデルが、このTTである。TTのデザインの方向性は、その後のアウディ車に反映されただけでなく、他社のデザインにも影響を与えている。[プラットフォームは](https://ja.wikipedia.org/wiki/プラットフォーム_\(自動車\) "wikilink")[アウディ・A3](https://ja.wikipedia.org/wiki/アウディ・A3 "wikilink")や[フォルクスワーゲン・ゴルフ](../Page/フォルクスワーゲン・ゴルフ.md "wikilink")などと共通であり、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")にバックハッチを持つ**TTクーペ**を発売、[2000年](../Page/2000年.md "wikilink")には電動ソフトトップを備えた**TTロードスター**が追加された。
+[Audi_TT_3.2_Roadster_-_Flickr_-_The_Car_Spy_(13).jpg](https://ja.wikipedia.org/wiki/File:Audi_TT_3.2_Roadster_-_Flickr_-_The_Car_Spy_\(13\).jpg "fig:Audi_TT_3.2_Roadster_-_Flickr_-_The_Car_Spy_(13).jpg") アウディが[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に発表した*TT デザイン・スタディ・モデル*を、ほぼそのままの形で市販化したモデルが、このTTである。TTのデザインの方向性は、その後のアウディ車に反映されただけでなく、他社のデザインにも影響を与えている。[プラットフォームは](../Page/プラットフォーム_\(自動車\).md "wikilink")[アウディ・A3](../Page/アウディ・A3.md "wikilink")や[フォルクスワーゲン・ゴルフ](../Page/フォルクスワーゲン・ゴルフ.md "wikilink")などと共通であり、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")にバックハッチを持つ**TTクーペ**を発売、[2000年](../Page/2000年.md "wikilink")には電動ソフトトップを備えた**TTロードスター**が追加された。
 
 初代TTのデザインはドイツ系アメリカ人の[フリーマン・トーマス](https://ja.wikipedia.org/wiki/フリーマン・トーマス "wikilink")によるもので、[Audi DKW Monzaのオマージュであるとも言われる](https://ja.wikipedia.org/wiki/Audi_DKW_Monza "wikilink")。円のモチーフをエクステリア・インテリアともに反復表現していることも特徴である。しかしこのスタイリングは、高速域での過大な[リフトをもたらす要因ともなった](../Page/揚力.md "wikilink")。
 
@@ -17,7 +17,7 @@
 
 日本国内でのデビュー当初は、左ハンドル+[MTモデルのみだったが](../Page/マニュアルトランスミッション.md "wikilink")、最終的には右ハンドル+[ATモデルになった](../Page/オートマチックトランスミッション.md "wikilink")。
 
-マイナーチェンジが一回実施されており、外観では、[ヘッドランプ周囲が黒から銀黒色へ](https://ja.wikipedia.org/wiki/前照灯 "wikilink")、[フロントグリル](https://ja.wikipedia.org/wiki/フロントグリル "wikilink")が水平基調から格子柄となったほか、[アルミホイール](../Page/アルミホイール.md "wikilink")のデザインが変更されている。
+マイナーチェンジが一回実施されており、外観では、[ヘッドランプ周囲が黒から銀黒色へ](../Page/前照灯.md "wikilink")、[フロントグリル](https://ja.wikipedia.org/wiki/フロントグリル "wikilink")が水平基調から格子柄となったほか、[アルミホイール](../Page/アルミホイール.md "wikilink")のデザインが変更されている。
 
 グレード構成は以下のとおり
 
@@ -25,17 +25,17 @@
 
   - 1.8T Quattro（型式：GF-8NAPXF, GF-8NBAMF)
     日本に最初に導入されたモデル。全て左ハンドル・6MTであった。当初の色はシルバー・ブラック・ブルーメタリックの3色。
-    225PSの1,800cc[直4](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink")[DOHC](../Page/DOHC.md "wikilink")[5バルブ](https://ja.wikipedia.org/wiki/5バルブエンジン "wikilink")[ターボエンジン搭載の](../Page/ターボチャージャー.md "wikilink")[4WDモデル](../Page/四輪駆動.md "wikilink")。1,800ccターボエンジンモデルはすべて5バルブである。[FFモデルよりも大きなツインインタークーラ付ターボを装備することで](https://ja.wikipedia.org/wiki/前輪駆動 "wikilink")、出力に差が出ている。1,800ccの排気量で225PSの出力は1Lあたり125PSというハイチューンエンジンであった。極初期モデルはリアスポイラーもESPも未装着であった。FFモデルとの外観上の識別点はマフラーカッターが2本であること・フロントとリアにクアトロエンブレムが装着されている点が挙げられる。
+    225PSの1,800cc[直4](../Page/直列4気筒.md "wikilink")[DOHC](../Page/DOHC.md "wikilink")[5バルブ](https://ja.wikipedia.org/wiki/5バルブエンジン "wikilink")[ターボエンジン搭載の](../Page/ターボチャージャー.md "wikilink")[4WDモデル](../Page/四輪駆動.md "wikilink")。1,800ccターボエンジンモデルはすべて5バルブである。[FFモデルよりも大きなツインインタークーラ付ターボを装備することで](../Page/前輪駆動.md "wikilink")、出力に差が出ている。1,800ccの排気量で225PSの出力は1Lあたり125PSというハイチューンエンジンであった。極初期モデルはリアスポイラーもESPも未装着であった。FFモデルとの外観上の識別点はマフラーカッターが2本であること・フロントとリアにクアトロエンブレムが装着されている点が挙げられる。
   - 1.8T（型式：GF-8NAUQ)
     [2001年](../Page/2001年.md "wikilink")1月に発売された180PSの1,800cc直4 DOHC 5バルブ ターボエンジン搭載、5MTのFFモデル。
     1.8T Quattroより約100万円安い390万円にて当モデルを発売した。初めての右ハンドルモデルとなった。
     [2002年](../Page/2002年.md "wikilink")11月には、そのFFモデルに[アイシン製](https://ja.wikipedia.org/wiki/アイシン・エイ・ダブリュ "wikilink")6ATを搭載。これによってTTは日本でも、女性を含めた一般ユーザーに選ばれるクルマとなった。
     ただしこれ以降、安価なFFの5MT車は販売を終了してしまったため、マニュアル派には選択肢が狭くなった。
   - 3.2 Quattro S-line（型式：GH-8NBHEF)
-    フォルクスワーゲン・ゴルフ [R32やアウディ](https://ja.wikipedia.org/wiki/Rライン#ゴルフ_R32 "wikilink")・[S3などにも搭載される](https://ja.wikipedia.org/wiki/アウディ・S3 "wikilink")3,200cc[VR6エンジンを搭載し](https://ja.wikipedia.org/wiki/フォルクスワーゲン・VR6型エンジン "wikilink")、[DSG](https://ja.wikipedia.org/wiki/DSG "wikilink")と呼ばれる[セミATを組み合わせたTTのトップグレード](../Page/セミオートマチックトランスミッション.md "wikilink")。
+    フォルクスワーゲン・ゴルフ [R32やアウディ](https://ja.wikipedia.org/wiki/Rライン#ゴルフ_R32 "wikilink")・[S3などにも搭載される](https://ja.wikipedia.org/wiki/アウディ・S3 "wikilink")3,200cc[VR6エンジンを搭載し](../Page/フォルクスワーゲン・VR6型エンジン.md "wikilink")、[DSG](https://ja.wikipedia.org/wiki/DSG "wikilink")と呼ばれる[セミATを組み合わせたTTのトップグレード](../Page/セミオートマチックトランスミッション.md "wikilink")。
   - 1.8T S-line（型式：GF-8NAUQ, GH-8NBVR)
-    アウディTTのラインアップの中で最販グレードであった1.8Tクーペとオープンエアドライブを満喫できる1.8Tロードスターにスポーティな『S-lineエクステリアパッケージ』を標準装備し、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")8月より発売。
-    専用フロントスポイラー、専用リヤディフーザー、ドアシルにS-lineプレート、サイドにS-lineエンブレム、6スポーク17inアルミホイール、225/45R17タイヤ、キセノンヘッドライト）を標準装備することにより、TTの精悍なスポーティ性をさらに強調した。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")11月発売モデルよりエンジンが改良され、出力・トルクが、それぞれ190PS、240N·m(24.5kgf·m)にアップした。
+    アウディTTのラインアップの中で最販グレードであった1.8Tクーペとオープンエアドライブを満喫できる1.8Tロードスターにスポーティな『S-lineエクステリアパッケージ』を標準装備し、[2005年](../Page/2005年.md "wikilink")8月より発売。
+    専用フロントスポイラー、専用リヤディフーザー、ドアシルにS-lineプレート、サイドにS-lineエンブレム、6スポーク17inアルミホイール、225/45R17タイヤ、キセノンヘッドライト）を標準装備することにより、TTの精悍なスポーティ性をさらに強調した。[2005年](../Page/2005年.md "wikilink")11月発売モデルよりエンジンが改良され、出力・トルクが、それぞれ190PS、240N·m(24.5kgf·m)にアップした。
   - 1.8T S-line Limited（型式：GH-8NBVR)
     全国限定250台で2006年3月に販売開始した。1.8T S-lineをベースとし、人気のオプションであるキセノンヘッドライト・パッケージと本革シート（ファインナッパ）のほか、厳選された素材を使用したアイテムを用意したプログラム「アウディ エクスクルーシブ」で設定されている9スポーク18inアルミホイールと、225/40R18タイヤを標準装着とする。
     ボディカラー×インテリアカラーの組み合わせは、2つの新規設定を含む全6通りが設定された。
@@ -73,7 +73,7 @@
 **日本国内正規導入**
 
   - 1.8TFSI（型式：ABA-8JCDA)
-    2011年からエンジンをダウンサイズし、1,800cc[直噴ターボエンジンを搭載する](https://ja.wikipedia.org/wiki/ガソリン直噴エンジン "wikilink")。最高出力160PS、最大トルク25.5kgf·mを発生する。7速Sトロニック搭載。駆動方式はFF。
+    2011年からエンジンをダウンサイズし、1,800cc[直噴ターボエンジンを搭載する](../Page/ガソリン直噴エンジン.md "wikilink")。最高出力160PS、最大トルク25.5kgf·mを発生する。7速Sトロニック搭載。駆動方式はFF。
 
   - 2.0TFSI quattro (型式：ABA-8JCESF)
     2011年モデルから新型の2,000ccターボエンジンを搭載し、最高出力211PS/4,300-6,000rpm、最大トルク35.7kgf·m（350N·m）/1,600-4,200rpmを発生する。6速Sトロニックを搭載する。
@@ -114,14 +114,14 @@
 **日本国内正規導入**
 
   - 3.2クワトロ（型式：ABA-8JBUBF）
-    ゴルフ R32、[フォルクスワーゲン・イオス](https://ja.wikipedia.org/wiki/フォルクスワーゲン・イオス "wikilink")と同じ3,200cc狭角V6エンジン搭載。BUB型。パドルシフトも可能な6速Sトロニック（DSG）搭載。駆動方式はクワトロシステム（フルタイム4WD)。ヘッドライトの照射角を走行速度や、ステアリングホイールの切れ角から進行方向へ傾けるアダプティブヘッドライトを標準装備。
+    ゴルフ R32、[フォルクスワーゲン・イオス](../Page/フォルクスワーゲン・イオス.md "wikilink")と同じ3,200cc狭角V6エンジン搭載。BUB型。パドルシフトも可能な6速Sトロニック（DSG）搭載。駆動方式はクワトロシステム（フルタイム4WD)。ヘッドライトの照射角を走行速度や、ステアリングホイールの切れ角から進行方向へ傾けるアダプティブヘッドライトを標準装備。
 
 #### 無人実験車
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Autonomous_TT.jpg "wikilink")
 
   - Audi Pikes Peak TTS / Autonomous Audi TTS Pikes Peak research car
-    2009年10月、[フォルクスワーゲン](https://ja.wikipedia.org/wiki/フォルクスワーゲン "wikilink")と[スタンフォード大学](../Page/スタンフォード大学.md "wikilink")の共同研究で、TTSを改造した[無人自動車に](https://ja.wikipedia.org/wiki/ロボットカー "wikilink")[パイクスピーク・インターナショナル・ヒルクライム](https://ja.wikipedia.org/wiki/パイクスピーク・インターナショナル・ヒルクライム "wikilink")のコースを走らせる計画が発表された\[2\]。11月にはアウディから詳細が発表され、改造されたTTSにはかつて[アウディ・クワトロ](../Page/アウディ・クワトロ.md "wikilink")でパイクスピークの記録を更新した[ミシェル・ムートン](../Page/ミシェル・ムートン.md "wikilink")と同じ「Shelley」のニックネームが与えられることも明かされた\[3\]。
+    2009年10月、[フォルクスワーゲン](https://ja.wikipedia.org/wiki/フォルクスワーゲン "wikilink")と[スタンフォード大学](../Page/スタンフォード大学.md "wikilink")の共同研究で、TTSを改造した[無人自動車に](https://ja.wikipedia.org/wiki/ロボットカー "wikilink")[パイクスピーク・インターナショナル・ヒルクライム](../Page/パイクスピーク・インターナショナル・ヒルクライム.md "wikilink")のコースを走らせる計画が発表された\[2\]。11月にはアウディから詳細が発表され、改造されたTTSにはかつて[アウディ・クワトロ](../Page/アウディ・クワトロ.md "wikilink")でパイクスピークの記録を更新した[ミシェル・ムートン](../Page/ミシェル・ムートン.md "wikilink")と同じ「Shelley」のニックネームが与えられることも明かされた\[3\]。
     2010年9月、「Shelley」はパイクスピークを27分で停止せずに完走。証人となった同レース主催者は、プロドライバーが同車を運転した場合でも17分が限界との見方を示した\[4\]。
 
 {{-}}

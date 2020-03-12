@@ -1,7 +1,7 @@
 > この記事は[BS](https://ja.wikipedia.org/wiki/BS)から翻訳されています。
 
 
-『**BSドキュメンタリー**』（ビーエス- ）は、[NHK衛星第1テレビジョン](https://ja.wikipedia.org/wiki/NHK衛星第1テレビジョン "wikilink")で放映された[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")番組である。[NHKの制作](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、およびNHKと日本国内の[制作会社の共同制作により](../Page/制作プロダクション.md "wikilink")、世界を舞台にしたさまざまな問題を取り上げた。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")11月に『[BS世界のドキュメンタリー](https://ja.wikipedia.org/wiki/BS世界のドキュメンタリー "wikilink")』に統合された\[1\]\[2\]。
+『**BSドキュメンタリー**』（ビーエス- ）は、[NHK衛星第1テレビジョン](https://ja.wikipedia.org/wiki/NHK衛星第1テレビジョン "wikilink")で放映された[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")番組である。[NHKの制作](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、およびNHKと日本国内の[制作会社の共同制作により](../Page/制作プロダクション.md "wikilink")、世界を舞台にしたさまざまな問題を取り上げた。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")11月に『[BS世界のドキュメンタリー](../Page/BS世界のドキュメンタリー.md "wikilink")』に統合された\[1\]\[2\]。
 
 ## これまで放送された主な番組
 
@@ -109,14 +109,14 @@
       - 「マンホールで大人になった 〜再訪・厳寒のモンゴル〜」
   - 第23回ATP賞テレビグランプリ2006 ドキュメンタリー部門 最優秀賞
       - 「ダッカ・ハイジャック事件 〜交信テープが語る106時間の攻防〜」
-      - 「[満蒙開拓団](https://ja.wikipedia.org/wiki/満蒙開拓団 "wikilink") 〜ある家族の軌跡〜」
+      - 「[満蒙開拓団](../Page/満蒙開拓団.md "wikilink") 〜ある家族の軌跡〜」
 
 ## 関連項目
 
-  - [NHKアーカイブス](https://ja.wikipedia.org/wiki/NHKアーカイブス "wikilink")
+  - [NHKアーカイブス](../Page/NHKアーカイブス.md "wikilink")
   - [NHKスペシャル](../Page/NHKスペシャル.md "wikilink")
-  - [にんげんドキュメント](https://ja.wikipedia.org/wiki/にんげんドキュメント "wikilink")
-  - [BS世界のドキュメンタリー](https://ja.wikipedia.org/wiki/BS世界のドキュメンタリー "wikilink")
+  - [にんげんドキュメント](../Page/にんげんドキュメント.md "wikilink")
+  - [BS世界のドキュメンタリー](../Page/BS世界のドキュメンタリー.md "wikilink")
   - [ドキュメンタリーWAVE](https://ja.wikipedia.org/wiki/ドキュメンタリーWAVE "wikilink")
 
 ## 脚注

@@ -1,19 +1,19 @@
 > この記事は[SHAZNA](https://ja.wikipedia.org/wiki/SHAZNA)から翻訳されています。
 
 
-**SHAZNA**（シャズナ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。ほぼ同時期にメジャーデビューをしていた[MALICE MIZER](https://ja.wikipedia.org/wiki/MALICE_MIZER "wikilink")、[FANATIC◇CRISIS](https://ja.wikipedia.org/wiki/FANATIC◇CRISIS "wikilink")、[La'cryma Christiと共に](../Page/La'cryma_Christi.md "wikilink")「ヴィジュアル系四天王」とされていた\[1\]。
+**SHAZNA**（シャズナ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。ほぼ同時期にメジャーデビューをしていた[MALICE MIZER](../Page/MALICE_MIZER.md "wikilink")、[FANATIC◇CRISIS](../Page/FANATIC◇CRISIS.md "wikilink")、[La'cryma Christiと共に](../Page/La'cryma_Christi.md "wikilink")「ヴィジュアル系四天王」とされていた\[1\]。
 
 ## 概要
 
 ### 結成～インディーズ期
 
-[1993年](../Page/1993年.md "wikilink")結成。結成最初期のメンバーは[IZAM](https://ja.wikipedia.org/wiki/IZAM "wikilink")、NIY、NIYの弟という編成だったが、結成から少し経った後にギターを担当していたNIYの弟が脱退。しばらくバンドにはギタリストが不在の状態で、メンバーの募集をしたところ、ほどなくしてA・O・Iが加入。更にその後、ドラム担当として当時既に別のバンドを組んで活動していたKATSURA（後述）も加入し、4人編成でインディーズデビューを果たした。
+[1993年](../Page/1993年.md "wikilink")結成。結成最初期のメンバーは[IZAM](../Page/IZAM.md "wikilink")、NIY、NIYの弟という編成だったが、結成から少し経った後にギターを担当していたNIYの弟が脱退。しばらくバンドにはギタリストが不在の状態で、メンバーの募集をしたところ、ほどなくしてA・O・Iが加入。更にその後、ドラム担当として当時既に別のバンドを組んで活動していたKATSURA（後述）も加入し、4人編成でインディーズデビューを果たした。
 
 ヴォーカル・IZAMが学生時代に[カルチャー・クラブ](../Page/カルチャー・クラブ.md "wikilink")の[ボーイ・ジョージ](../Page/ボーイ・ジョージ.md "wikilink")から影響を受けた中性的なルックスと、1980年代のヒット・チャートを思わせる軽快な楽曲で[インディーズ](../Page/インディーズ.md "wikilink")ながら爆発的な人気を博した。のちにSHAZNAの代表曲となる「[Melty Love](../Page/Melty_Love.md "wikilink")」を収録した自主製作のミニアルバム『Melty Case』は、3000枚を完売した\[2\]。
 
 ### メジャーデビュー
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[8月27日](../Page/8月27日.md "wikilink")、新たにレコーディングした代表曲「Melty Love」を表題作としたCDシングル『Melty Love』でメジャーデビューを果たし、同曲は88万枚のヒットを記録した\[3\]。同年、[一風堂の](../Page/一風堂_\(バンド\).md "wikilink")『[すみれ September Love](../Page/すみれ_September_Love.md "wikilink")』をカバーし、こちらもヒットを記録した。また、この年の[日本有線大賞](https://ja.wikipedia.org/wiki/日本有線大賞 "wikilink")最優秀新人賞を受賞。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")にリリースした1枚目のフルアルバム『GOLD SUN AND SILVER MOON』はミリオンセラーを記録し、[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")「ロック・アルバム・オブ・ザ・イヤー」を受賞した。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[8月27日](../Page/8月27日.md "wikilink")、新たにレコーディングした代表曲「Melty Love」を表題作としたCDシングル『Melty Love』でメジャーデビューを果たし、同曲は88万枚のヒットを記録した\[3\]。同年、[一風堂の](../Page/一風堂_\(バンド\).md "wikilink")『[すみれ September Love](../Page/すみれ_September_Love.md "wikilink")』をカバーし、こちらもヒットを記録した。また、この年の[日本有線大賞](../Page/日本有線大賞.md "wikilink")最優秀新人賞を受賞。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")にリリースした1枚目のフルアルバム『GOLD SUN AND SILVER MOON』はミリオンセラーを記録し、[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")「ロック・アルバム・オブ・ザ・イヤー」を受賞した。
 
 「SHAZNA現象」とも呼ばれた空前絶後の人気を得た彼らに待ち受けていたのは、1日の睡眠時間が1 - 2時間しかないという常軌を逸した多忙なスケジュールであった\[4\]。また、各関係者の人数が増えていくにつれて、メンバー自身が主体的に自己の音楽活動を指揮することも難しくなっていった\[5\]。停滞してゆく状況を打破するため、SHAZNAは[パンク](../Page/パンク・ロック.md "wikilink")[バンドに転身するという提案を所属事務所に行ったものの](../Page/バンド_\(音楽\).md "wikilink")、受け入れられなかったという\[6\]。
 
@@ -27,7 +27,7 @@
 
 活動を休止した翌年から、IZAMは他のメンバーに対し早々と活動の再開を持ちかけていたものの、その時点ではメンバー全員の意思が統一されていなかった\[7\]。しかしメンバーはお互いに定期的に接触を持ち、忘年会は毎年必ず開いていた。2005年の忘年会にてようやくメンバー全員の意思が一致、SHAZNAの今後の意思を尊重してくれるスタッフのみで活動を再開する運びとなった\[8\]。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")6月、デビュー9年を期に6年ぶりの活動再開を発表し、IZAMは自身のトレードマークであった[女装](../Page/女装.md "wikilink")を「単に飽きてた」のと「髪を短くしていた」ことを理由に封印した\[9\]。9月の渋谷duo MUSIC EXCHANGEでの復活ライヴで活動を再開。11月にはIZAMとタレントの[吉岡美穂](../Page/吉岡美穂.md "wikilink")の結婚が報道された。IZAMにとっては再婚となる。
+[2006年](../Page/2006年.md "wikilink")6月、デビュー9年を期に6年ぶりの活動再開を発表し、IZAMは自身のトレードマークであった[女装](../Page/女装.md "wikilink")を「単に飽きてた」のと「髪を短くしていた」ことを理由に封印した\[9\]。9月の渋谷duo MUSIC EXCHANGEでの復活ライヴで活動を再開。11月にはIZAMとタレントの[吉岡美穂](../Page/吉岡美穂.md "wikilink")の結婚が報道された。IZAMにとっては再婚となる。
 
 [2007年](../Page/2007年.md "wikilink")4月25日にニュー・シングル『心 c/w \[1/2\] , 神風』がネット限定発売。「神風」を除く2曲は、ダウンロード、着うたフルでも発売された。5月4日、5日、6日には、東京の[目黒鹿鳴館](https://ja.wikipedia.org/wiki/目黒鹿鳴館 "wikilink")で原点回帰をキーワードにした復帰シングル発売記念のライヴを行った。この3日間はそれぞれ「過去」・「現在」・「未来」と分けられ、一部楽曲を除き各日異なる曲構成となっていた。
 
@@ -49,7 +49,7 @@
 
 ## メンバー
 
-  - **[IZAM](https://ja.wikipedia.org/wiki/IZAM "wikilink")**（イザム - ボーカル担当。[1972年](../Page/1972年.md "wikilink")\[16\][4月23日](../Page/4月23日.md "wikilink") - ）
+  - **[IZAM](../Page/IZAM.md "wikilink")**（イザム - ボーカル担当。[1972年](../Page/1972年.md "wikilink")\[16\][4月23日](../Page/4月23日.md "wikilink") - ）
 
 <!-- end list -->
 
@@ -57,10 +57,10 @@
     本名は**日根 良和**（ひね よしかず）。身長180cm。父親は[国鉄スワローズの投手だった](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")[日根紘三](../Page/日根紘三.md "wikilink")。
     インディーズ時代のバンドネームは「葵翠 -kisui-」「IZANE」「IZAMÜ」「IZAMU」など活動時期・ミニアルバムの発売ごとに変わり、インディーズラストアルバム『Promise Eve』にて現在の「IZAM」名義となる。
     AOIとのバンド「[alcali-5](http://www.myspace.com/alcali5)」では「十六夢（いざむ）」名義で活動。
-    活動中はソロデビュー、俳優としても映画『溺れる魚』や[日本テレビのドラマ](../Page/日本テレビ放送網.md "wikilink")「[三姉妹探偵団](https://ja.wikipedia.org/wiki/三姉妹探偵団 "wikilink")」、[テレビ朝日](../Page/テレビ朝日.md "wikilink")のドラマ『[TRICK3](../Page/トリック_\(テレビドラマ\).md "wikilink")』にも出演している。
-    妻はタレントの[吉岡美穂](../Page/吉岡美穂.md "wikilink")。元妻はタレント・[モデルの](https://ja.wikipedia.org/wiki/モデル_\(職業\) "wikilink")[吉川ひなの](https://ja.wikipedia.org/wiki/吉川ひなの "wikilink")。
+    活動中はソロデビュー、俳優としても映画『溺れる魚』や[日本テレビのドラマ](../Page/日本テレビ放送網.md "wikilink")「[三姉妹探偵団](../Page/三姉妹探偵団.md "wikilink")」、[テレビ朝日](../Page/テレビ朝日.md "wikilink")のドラマ『[TRICK3](../Page/トリック_\(テレビドラマ\).md "wikilink")』にも出演している。
+    妻はタレントの[吉岡美穂](../Page/吉岡美穂.md "wikilink")。元妻はタレント・[モデルの](../Page/モデル_\(職業\).md "wikilink")[吉川ひなの](https://ja.wikipedia.org/wiki/吉川ひなの "wikilink")。
     解散後も主にタレント・俳優として活動。また恐妻家などで話題となる。
-    デビュー直後からあらゆる場面で、SHAZNAの名前の由来は当初「NIYと好きな英単語を出し合って並べ替えたもの」と発言していたが、『[ろみひー](https://ja.wikipedia.org/wiki/ろみひー "wikilink")』出演時にIZAMが自身の本名である日根良和（hine yoshikazu）を並べ替えた物であると発言（実際に一致する）。また、この出演時に年齢を4歳[サバを読んでいたこともカミングアウトしている](https://ja.wikipedia.org/wiki/鯖読み "wikilink")。
+    デビュー直後からあらゆる場面で、SHAZNAの名前の由来は当初「NIYと好きな英単語を出し合って並べ替えたもの」と発言していたが、『[ろみひー](../Page/ろみひー.md "wikilink")』出演時にIZAMが自身の本名である日根良和（hine yoshikazu）を並べ替えた物であると発言（実際に一致する）。また、この出演時に年齢を4歳[サバを読んでいたこともカミングアウトしている](../Page/鯖読み.md "wikilink")。
 
 <!-- end list -->
 
@@ -69,9 +69,9 @@
 <!-- end list -->
 
   -
-    本名は**萬 圭介**(よろず けいすけ)。[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")生まれの[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")育ち。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+    本名は**萬 圭介**(よろず けいすけ)。[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")生まれの[千葉県](../Page/千葉県.md "wikilink")育ち。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
     初期は「A・O・I」名義。活動休止後はソロとして「AOI UNPLUGGED」にてVocal\&A.Guitarによる単独公演を開催。
-    ショートフィルム『ガラクタノココロ』を「葵圭介」名義で自主制作。[インディーズムービー・フェスティバル](https://ja.wikipedia.org/wiki/インディーズムービー・フェスティバル "wikilink")においてグランプリを受賞した。
+    ショートフィルム『ガラクタノココロ』を「葵圭介」名義で自主制作。[インディーズムービー・フェスティバル](../Page/インディーズムービー・フェスティバル.md "wikilink")においてグランプリを受賞した。
     SHAZNAに加入する前はオーディションを受けており、ライヴハウスのスタッフの紹介で新宿の[マクドナルド](../Page/マクドナルド.md "wikilink")でメンバーと顔を合わせた。AOIは「僕も下手だから一緒に頑張ろうよ」と言い、SHAZNAに加入した。
     結成当初から1998年末までは長髪がトレードマークだった。[東海大学付属望洋高等学校](https://ja.wikipedia.org/wiki/東海大学付属望洋高等学校 "wikilink")および[東海大学](../Page/東海大学.md "wikilink")では、[PENICILLIN](../Page/PENICILLIN.md "wikilink")のO-JIROと同級生。
     弟は俳優の[萬雅之](../Page/萬雅之.md "wikilink")、妻は作詞家兼女優の[森本玲](https://ja.wikipedia.org/wiki/森本玲 "wikilink")で間に一女がいる。
@@ -130,7 +130,7 @@
 
   -
     神奈川県出身。血液型O型。身長161.5cm。
-    インディーズ時代にドラムを担当。当時のメンバーでは唯一のバンド経験者であった。[1996年](../Page/1996年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")に発売されたインディーズアルバム『Raspberry Time』を最後にSHAZNAを脱退。翌1997年、[BAISER](https://ja.wikipedia.org/wiki/BAISER "wikilink")のメンバーとしてメジャーデビューを果たしたが、2000年5月に同バンドは解散。
+    インディーズ時代にドラムを担当。当時のメンバーでは唯一のバンド経験者であった。[1996年](../Page/1996年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")に発売されたインディーズアルバム『Raspberry Time』を最後にSHAZNAを脱退。翌1997年、[BAISER](../Page/BAISER.md "wikilink")のメンバーとしてメジャーデビューを果たしたが、2000年5月に同バンドは解散。
     その後はインディーズに戻り、様々なヴィジュアル系バンドを転々とした後、音楽活動を引退。現在は結婚し子供がいる。仕事をしながら野球チームをやっている。
 
 ## ディスコグラフィー
@@ -309,7 +309,7 @@
 <tr class="odd">
 <td><p>10th</p></td>
 <td><p>1999年6月9日</p></td>
-<td><p><strong>Tokyo Ballet Reprise/<a href="https://ja.wikipedia.org/wiki/シェリーに口づけ" title="wikilink">シェリーに口づけ</a></strong></p></td>
+<td><p><strong>Tokyo Ballet Reprise/<a href="../Page/シェリーに口づけ.md" title="wikilink">シェリーに口づけ</a></strong></p></td>
 <td><p>TODT-22015</p></td>
 <td><ol>
 <li>Tokyo Ballet Reprise</li>
@@ -680,11 +680,11 @@ TOVF-1298:通常盤</p></td>
 </tr>
 <tr class="even">
 <td><p>SWEET HEART MEMORY</p></td>
-<td><p>テレビ朝日系『<a href="https://ja.wikipedia.org/wiki/トゥナイト2" title="wikilink">トゥナイト2</a>』エンディングテーマ</p></td>
+<td><p>テレビ朝日系『<a href="../Page/トゥナイト2.md" title="wikilink">トゥナイト2</a>』エンディングテーマ</p></td>
 </tr>
 <tr class="odd">
 <td><p>PURENESS</p></td>
-<td><p>アニメ映画『<a href="https://ja.wikipedia.org/wiki/クレヨンしんちゃん_電撃!ブタのヒヅメ大作戦" title="wikilink">クレヨンしんちゃん 電撃!ブタのヒヅメ大作戦</a>』主題歌</p></td>
+<td><p>アニメ映画『<a href="../Page/クレヨンしんちゃん_電撃!ブタのヒヅメ大作戦.md" title="wikilink">クレヨンしんちゃん 電撃!ブタのヒヅメ大作戦</a>』主題歌</p></td>
 </tr>
 <tr class="even">
 <td><p>Love is Alive</p></td>
@@ -697,7 +697,7 @@ TOVF-1298:通常盤</p></td>
 </tr>
 <tr class="even">
 <td><p>Virgin</p></td>
-<td><p>テレビ朝日系『<a href="https://ja.wikipedia.org/wiki/サタデージャングル・サンデージャングル" title="wikilink">サンデージャングル</a>』エンディングテーマ</p></td>
+<td><p>テレビ朝日系『<a href="../Page/サタデージャングル・サンデージャングル.md" title="wikilink">サンデージャングル</a>』エンディングテーマ</p></td>
 </tr>
 <tr class="odd">
 <td><p>Pink</p></td>

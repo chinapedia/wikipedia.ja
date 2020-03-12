@@ -1,7 +1,7 @@
 > この記事は[SYNAPSE](https://ja.wikipedia.org/wiki/SYNAPSE)から翻訳されています。
 
 
-**シナプス（SYNAPSE）**は、[鹿児島県](https://ja.wikipedia.org/wiki/鹿児島県 "wikilink")を主要な提供エリアとする[インターネットサービスプロバイダ](https://ja.wikipedia.org/wiki/インターネットサービスプロバイダ "wikilink")（ISP）、およびこれをインフラとして提供されているサービス群の総称である。株式会社[グッドコミュニケーションズ](https://ja.wikipedia.org/wiki/グッドコミュニケーションズ "wikilink")が運営している。本社は[鹿児島県](https://ja.wikipedia.org/wiki/鹿児島県 "wikilink")[鹿児島市](../Page/鹿児島市.md "wikilink")[中央町に置く](https://ja.wikipedia.org/wiki/中央町_\(鹿児島市\) "wikilink")。
+**シナプス（SYNAPSE）**は、[鹿児島県](../Page/鹿児島県.md "wikilink")を主要な提供エリアとする[インターネットサービスプロバイダ](https://ja.wikipedia.org/wiki/インターネットサービスプロバイダ "wikilink")（ISP）、およびこれをインフラとして提供されているサービス群の総称である。株式会社[グッドコミュニケーションズ](https://ja.wikipedia.org/wiki/グッドコミュニケーションズ "wikilink")が運営している。本社は[鹿児島県](../Page/鹿児島県.md "wikilink")[鹿児島市](../Page/鹿児島市.md "wikilink")[中央町に置く](https://ja.wikipedia.org/wiki/中央町_\(鹿児島市\) "wikilink")。
 
 ## サービス名称の由来
 
@@ -12,7 +12,7 @@
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")9月 - 株式会社グッドコミュニケーションズ設立。
   - 1995年11月 - インターネットサービスプロバイダシナプスを開始。
   - [1999年](../Page/1999年.md "wikilink")7月 - ショッピングモール晴天街をオープン。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")10月 - イオン鹿児島ショッピングセンター（現・[イオンモール鹿児島](../Page/イオンモール鹿児島.md "wikilink")）3階にシナプス・ステーションイオン鹿児島SC店をオープン。
+  - [2007年](../Page/2007年.md "wikilink")10月 - イオン鹿児島ショッピングセンター（現・[イオンモール鹿児島](../Page/イオンモール鹿児島.md "wikilink")）3階にシナプス・ステーションイオン鹿児島SC店をオープン。
   - [2011年](../Page/2011年.md "wikilink")6月 - イオンモール鹿児島（当時）から撤退。
   - [2011年](../Page/2011年.md "wikilink")7月 - 本社を現住所に移転。シナプス・ステーションを再オープン。
 
@@ -33,7 +33,7 @@
 <!-- end list -->
 
   - シナプスぶろぐ
-    シナプス会員が利用できる[ブログ](../Page/ブログ.md "wikilink")サービス。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")サービス開始。
+    シナプス会員が利用できる[ブログ](../Page/ブログ.md "wikilink")サービス。[2005年](../Page/2005年.md "wikilink")サービス開始。
 
 <!-- end list -->
 

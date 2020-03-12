@@ -1,9 +1,9 @@
 > この記事は[AQUOS](https://ja.wikipedia.org/wiki/AQUOS)から翻訳されています。
 
 
-**AQUOSファミリンク**は、[シャープ](../Page/シャープ.md "wikilink")が採用する、[AV機器](https://ja.wikipedia.org/wiki/AV機器 "wikilink")同士を[HDMI](https://ja.wikipedia.org/wiki/HDMI "wikilink")で接続し、一つの操作系（[リモコン](https://ja.wikipedia.org/wiki/リモコン "wikilink")等）で全ての機器を制御可能とする機能の名称である。
+**AQUOSファミリンク**は、[シャープ](../Page/シャープ.md "wikilink")が採用する、[AV機器](https://ja.wikipedia.org/wiki/AV機器 "wikilink")同士を[HDMI](https://ja.wikipedia.org/wiki/HDMI "wikilink")で接続し、一つの操作系（[リモコン](../Page/リモコン.md "wikilink")等）で全ての機器を制御可能とする機能の名称である。
 
-[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")の[ビエラリンク](https://ja.wikipedia.org/wiki/ビエラリンク "wikilink")に続いてシャープが[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[8月2日](../Page/8月2日.md "wikilink")に発表し、同年9月より製品化されたシステムで、[CEC](https://ja.wikipedia.org/wiki/CEC "wikilink") (Consumer Electronics Control) をベースにシャープが独自の拡張を行ったものである。そのため、完全な機能を利用するにはAQUOSファミリンク対応製品である必要がある。
+[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")の[ビエラリンク](../Page/ビエラリンク.md "wikilink")に続いてシャープが[2006年](../Page/2006年.md "wikilink")[8月2日](../Page/8月2日.md "wikilink")に発表し、同年9月より製品化されたシステムで、[CEC](../Page/CEC.md "wikilink") (Consumer Electronics Control) をベースにシャープが独自の拡張を行ったものである。そのため、完全な機能を利用するにはAQUOSファミリンク対応製品である必要がある。
 
 ## 概要
 
@@ -12,7 +12,7 @@
 先行して採用されたビエラリンクとともに、両社の売り上げアップに貢献しており、2007年度はシャープが[DVDレコーダー](../Page/DVDレコーダー.md "wikilink")のシェアで初めて1位になった。
 
 AQUOS LX1シリーズ（2009年11月発売）とAQUOSブルーレイ BD-HDW50/45/43（2009年10月発売）以降発売される機種では、「AQUOSファミリンク」をさらに進化させ、テレビと周辺機器との連携を強化した**「AQUOSファミリンクⅡ」**に対応。テレビでは、画面を縮小表示し、余った領域にレコーダーなどの周辺機器の操作用パネルを表示するシステムを採用し、テレビのリモコンだけで多彩な連携操作が可能となった。一方、レコーダーでは、「AQUOSファミリンク」対応の液晶テレビ「AQUOS」とHDMI接続すると、再生時にテレビのリモコンのカーソルと決定ボタンを使ってレコーダーの操作ができる「ファミリンクパネル」と呼ばれるレコーダー操作パネルを画面端に表示。レコーダーのリモコンに持ち替えることなく、テレビのリモコンだけで簡単にレコーダーの操作を行える。
-BD-HDW15/20/22/25/30/32/35/40、HDS32、HD22、HDV22でも、ファミリンク対応のAQOUSとHDMI接続し、[デジタル放送](https://ja.wikipedia.org/wiki/デジタル放送 "wikilink")の[ダウンロード](https://ja.wikipedia.org/wiki/ダウンロード "wikilink")サービスを利用した[ソフトウエア](https://ja.wikipedia.org/wiki/ソフトウエア "wikilink")の[アップデート](https://ja.wikipedia.org/wiki/アップデート "wikilink")により同様の機能が使える。
+BD-HDW15/20/22/25/30/32/35/40、HDS32、HD22、HDV22でも、ファミリンク対応のAQOUSとHDMI接続し、[デジタル放送](../Page/デジタル放送.md "wikilink")の[ダウンロード](https://ja.wikipedia.org/wiki/ダウンロード "wikilink")サービスを利用した[ソフトウエア](https://ja.wikipedia.org/wiki/ソフトウエア "wikilink")の[アップデート](https://ja.wikipedia.org/wiki/アップデート "wikilink")により同様の機能が使える。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")夏以降の同社のBDレコーダー/プレーヤーに搭載されている「AQUOS純モード」もファミリンク機能によって作動するため、ファミリンク対応のAQOUSとHDMI接続した場合のみ使用可能である。
 

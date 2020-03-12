@@ -27,7 +27,7 @@
 
 <!-- end list -->
 
-  - **PLUS 1**（プラスワン、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[6月20日](../Page/6月20日.md "wikilink") - ）[DJ](https://ja.wikipedia.org/wiki/ディスクジョッキー "wikilink")
+  - **PLUS 1**（プラスワン、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[6月20日](../Page/6月20日.md "wikilink") - ）[DJ](../Page/ディスクジョッキー.md "wikilink")
       - 静岡県出身。血液型A型。
 
 ## 作品
@@ -114,21 +114,21 @@
 
 ### 参加作品
 
-| 発売日        | 曲名                             | 収録作品                                                                                                                                                                                               | 備考             |
-| ---------- | ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
-| 2003年9月10日 | BAD BOY ROOM feat. NEVER LAND  | [EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")『[The other side of EX Vol.1](https://ja.wikipedia.org/wiki/The_other_side_of_EX_Vol.1 "wikilink")』                                         |                |
-| 2004年9月29日 | Last Of War                    | [EXILES](https://ja.wikipedia.org/wiki/EXILES "wikilink")『[HEART of GOLD 〜STREET FUTURE OPERA BEAT POPS〜](https://ja.wikipedia.org/wiki/HEART_of_GOLD_〜STREET_FUTURE_OPERA_BEAT_POPS〜 "wikilink")』 |                |
-| 粋な一日       |                                |                                                                                                                                                                                                    |                |
-| 2007年3月7日  | WON'T BE LONG feat. NEVER LAND | EXILE『[EXILE EVOLUTION](../Page/EXILE_EVOLUTION.md "wikilink")』                                                                                                                                    |                |
-| 2007年9月5日  | サル                             | [清木場俊介](https://ja.wikipedia.org/wiki/清木場俊介 "wikilink")『[IMAGE](https://ja.wikipedia.org/wiki/IMAGE_\(清木場俊介のアルバム\) "wikilink")』                                                                    | TO-CとPLUS1のみ参加 |
+| 発売日        | 曲名                             | 収録作品                                                                                                                                                                            | 備考             |
+| ---------- | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| 2003年9月10日 | BAD BOY ROOM feat. NEVER LAND  | [EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")『[The other side of EX Vol.1](../Page/The_other_side_of_EX_Vol.1.md "wikilink")』                                         |                |
+| 2004年9月29日 | Last Of War                    | [EXILES](https://ja.wikipedia.org/wiki/EXILES "wikilink")『[HEART of GOLD 〜STREET FUTURE OPERA BEAT POPS〜](../Page/HEART_of_GOLD_〜STREET_FUTURE_OPERA_BEAT_POPS〜.md "wikilink")』 |                |
+| 粋な一日       |                                |                                                                                                                                                                                 |                |
+| 2007年3月7日  | WON'T BE LONG feat. NEVER LAND | EXILE『[EXILE EVOLUTION](../Page/EXILE_EVOLUTION.md "wikilink")』                                                                                                                 |                |
+| 2007年9月5日  | サル                             | [清木場俊介](../Page/清木場俊介.md "wikilink")『[IMAGE](https://ja.wikipedia.org/wiki/IMAGE_\(清木場俊介のアルバム\) "wikilink")』                                                                    | TO-CとPLUS1のみ参加 |
 
 ### タイアップ
 
-| 曲名                      | タイアップ                                                                                                                            |
-| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| One for A11 A11 for One | [SBSカップ 国際ユースサッカー](https://ja.wikipedia.org/wiki/SBSカップ_国際ユースサッカー "wikilink") テーマソング                                             |
-| 大丈夫だよ                   | [MXTV](https://ja.wikipedia.org/wiki/MXTV "wikilink")『新・東京百景』エンディングテーマ                                                           |
-| THE NEVER LAND ～光射す方へ～  | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[スキバラ](https://ja.wikipedia.org/wiki/スキバラ "wikilink")』2007年5月度エンディングテーマ |
+| 曲名                      | タイアップ                                                                                                         |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------- |
+| One for A11 A11 for One | [SBSカップ 国際ユースサッカー](../Page/SBSカップ_国際ユースサッカー.md "wikilink") テーマソング                                             |
+| 大丈夫だよ                   | [MXTV](https://ja.wikipedia.org/wiki/MXTV "wikilink")『新・東京百景』エンディングテーマ                                        |
+| THE NEVER LAND ～光射す方へ～  | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[スキバラ](../Page/スキバラ.md "wikilink")』2007年5月度エンディングテーマ |
 
 ## warp-generation
 
@@ -144,10 +144,10 @@
 
 ### 参加作品（ソロ参加）
 
-| 発売日        | 曲名                                  | 収録作品                                                                                                                                                           |
-| ---------- | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2008年7月30日 | S.S.D. feat. TO-C (warp-generation) | [COLOR](https://ja.wikipedia.org/wiki/DEEP_\(歌手グループ\) "wikilink")『[BLACK 〜A night for you〜](https://ja.wikipedia.org/wiki/BLACK_〜A_night_for_you〜 "wikilink")』 |
-|            |                                     |                                                                                                                                                                |
+| 発売日        | 曲名                                  | 収録作品                                                                                                                                        |
+| ---------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2008年7月30日 | S.S.D. feat. TO-C (warp-generation) | [COLOR](../Page/DEEP_\(歌手グループ\).md "wikilink")『[BLACK 〜A night for you〜](https://ja.wikipedia.org/wiki/BLACK_〜A_night_for_you〜 "wikilink")』 |
+|            |                                     |                                                                                                                                             |
 
 ## 脚注
 

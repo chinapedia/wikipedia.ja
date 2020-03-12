@@ -3,15 +3,15 @@
 
 **J・K・シモンズ**（J K Simmons、本名：Jonathan Kimble Simmons、[1955年](../Page/1955年.md "wikilink")[1月9日](../Page/1月9日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ミシガン州](../Page/ミシガン州.md "wikilink")[デトロイト](../Page/デトロイト.md "wikilink")出身の俳優。
 
-『[スパイダーマン](https://ja.wikipedia.org/wiki/スパイダーマン_\(映画\) "wikilink")』シリーズのJ・ジョナ・ジェイムソン役で知られている。
+『[スパイダーマン](../Page/スパイダーマン_\(映画\).md "wikilink")』シリーズのJ・ジョナ・ジェイムソン役で知られている。
 
 ## 来歴
 
-父親は大学教授\[1\]\[2\]。[モンタナ大学](https://ja.wikipedia.org/wiki/モンタナ大学 "wikilink")で作曲を学び\[3\]、シアトルレパートリー劇場([Seattle Repertory Theatre](https://ja.wikipedia.org/wiki/:en:Seattle_Repertory_Theatre "wikilink"))に参加\[4\]。1992年にはブロードウェイにてミュージカル『[ガイズ&ドールズ](https://ja.wikipedia.org/wiki/ガイズ&ドールズ "wikilink")』に出演\[5\]、1994年には[オペラ](../Page/オペラ.md "wikilink")にも出演した\[6\]。
+父親は大学教授\[1\]\[2\]。[モンタナ大学](https://ja.wikipedia.org/wiki/モンタナ大学 "wikilink")で作曲を学び\[3\]、シアトルレパートリー劇場([Seattle Repertory Theatre](https://ja.wikipedia.org/wiki/:en:Seattle_Repertory_Theatre "wikilink"))に参加\[4\]。1992年にはブロードウェイにてミュージカル『[ガイズ&ドールズ](../Page/ガイズ&ドールズ.md "wikilink")』に出演\[5\]、1994年には[オペラ](../Page/オペラ.md "wikilink")にも出演した\[6\]。
 
 2014年の映画『[セッション](https://ja.wikipedia.org/wiki/セッション_\(映画\) "wikilink")』で厳格な音楽教師を演じ、「2014年公開の映画の中で、最も記憶に残った演技」と絶賛され\[7\]、映画賞の助演男優賞を多数受賞。[第87回アカデミー賞](https://ja.wikipedia.org/wiki/第87回アカデミー賞 "wikilink")助演男優部門にも初ノミネートされ、受賞を果たした\[8\]\[9\]。
 
-テレビ出演も非常に多く、『[ER緊急救命室](../Page/ER緊急救命室.md "wikilink")』『[LAW & ORDER:性犯罪特捜班](https://ja.wikipedia.org/wiki/LAW_&_ORDER:性犯罪特捜班 "wikilink")』『[LAW & ORDER:クリミナル・インテント](https://ja.wikipedia.org/wiki/LAW_&_ORDER:犯罪心理捜査班 "wikilink")』『[NIP/TUCK マイアミ整形外科医](https://ja.wikipedia.org/wiki/NIP/TUCK_マイアミ整形外科医 "wikilink")』『[FBI 失踪者を追え\!](https://ja.wikipedia.org/wiki/FBI_失踪者を追え! "wikilink")』『[NUMBERS 天才数学者の事件ファイル](https://ja.wikipedia.org/wiki/NUMBERS_天才数学者の事件ファイル "wikilink")』『[ザ・ホワイトハウス](https://ja.wikipedia.org/wiki/ザ・ホワイトハウス "wikilink")』などにゲスト出演している。
+テレビ出演も非常に多く、『[ER緊急救命室](../Page/ER緊急救命室.md "wikilink")』『[LAW & ORDER:性犯罪特捜班](https://ja.wikipedia.org/wiki/LAW_&_ORDER:性犯罪特捜班 "wikilink")』『[LAW & ORDER:クリミナル・インテント](https://ja.wikipedia.org/wiki/LAW_&_ORDER:犯罪心理捜査班 "wikilink")』『[NIP/TUCK マイアミ整形外科医](https://ja.wikipedia.org/wiki/NIP/TUCK_マイアミ整形外科医 "wikilink")』『[FBI 失踪者を追え\!](https://ja.wikipedia.org/wiki/FBI_失踪者を追え! "wikilink")』『[NUMBERS 天才数学者の事件ファイル](../Page/NUMBERS_天才数学者の事件ファイル.md "wikilink")』『[ザ・ホワイトハウス](../Page/ザ・ホワイトハウス.md "wikilink")』などにゲスト出演している。
 
 ## 主な出演作品
 
@@ -43,7 +43,7 @@
 <em>The First Wives Club</em></p></td>
 <td><p>連邦保安官</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/宝亀克寿" title="wikilink">宝亀克寿</a></p></td>
+<td><p><a href="../Page/宝亀克寿.md" title="wikilink">宝亀克寿</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ボディ・バンク" title="wikilink">ボディ・バンク</a><br />
@@ -62,21 +62,21 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ジャッカル_(映画)" title="wikilink">ジャッカル</a><br />
+<td><p><a href="../Page/ジャッカル_(映画).md" title="wikilink">ジャッカル</a><br />
 <em>The Jackal</em></p></td>
 <td><p>FBI捜査官ウィザースプーン</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長克巳" title="wikilink">長克巳</a>（ソフト版）<br />
+<td><p><a href="../Page/長克巳.md" title="wikilink">長克巳</a>（ソフト版）<br />
 <a href="../Page/青野武.md" title="wikilink">青野武</a>（<a href="https://ja.wikipedia.org/wiki/日本テレビ" title="wikilink">日本テレビ</a>版）</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1998</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セレブリティ_(映画)" title="wikilink">セレブリティ</a><br />
+<td><p><a href="../Page/セレブリティ_(映画).md" title="wikilink">セレブリティ</a><br />
 <em>Celebrity</em></p></td>
 <td><p>行商人</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/田中正彦" title="wikilink">田中正彦</a></p></td>
+<td><p><a href="../Page/田中正彦.md" title="wikilink">田中正彦</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1999</p></td>
@@ -85,7 +85,7 @@
 <td><p>フランク・ペリー</p></td>
 <td></td>
 <td><p>宝亀克寿（ソフト版）<br />
-<a href="../Page/納谷六朗.md" title="wikilink">納谷六朗</a>（<a href="https://ja.wikipedia.org/wiki/テレビ朝日" title="wikilink">テレビ朝日</a>版）</p></td>
+<a href="../Page/納谷六朗.md" title="wikilink">納谷六朗</a>（<a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a>版）</p></td>
 </tr>
 <tr class="even">
 <td><p><br />
@@ -112,40 +112,40 @@
 <td><p><em>TBA</em></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ギフト_(映画)" title="wikilink">ギフト</a><br />
+<td><p><a href="../Page/ギフト_(映画).md" title="wikilink">ギフト</a><br />
 <em>The Gift</em></p></td>
 <td><p>パール・ジョンソン保安官</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/池田勝" title="wikilink">池田勝</a></p></td>
+<td><p><a href="../Page/池田勝.md" title="wikilink">池田勝</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2001</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ザ・メキシカン" title="wikilink">ザ・メキシカン</a><br />
+<td><p><a href="../Page/ザ・メキシカン.md" title="wikilink">ザ・メキシカン</a><br />
 <em>The Mexican</em></p></td>
 <td><p>テッド・スローカム</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/牛山茂" title="wikilink">牛山茂</a>（ソフト版）<br />
-<a href="https://ja.wikipedia.org/wiki/田原アルノ" title="wikilink">田原アルノ</a>（テレビ朝日）</p></td>
+<td><p><a href="../Page/牛山茂.md" title="wikilink">牛山茂</a>（ソフト版）<br />
+<a href="../Page/田原アルノ.md" title="wikilink">田原アルノ</a>（テレビ朝日）</p></td>
 </tr>
 <tr class="odd">
 <td><p>2002</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スパイダーマン_(映画)" title="wikilink">スパイダーマン</a><br />
+<td><p><a href="../Page/スパイダーマン_(映画).md" title="wikilink">スパイダーマン</a><br />
 <em>Spider-Man</em></p></td>
 <td><p>J・ジョナ・ジェイムソン</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/立川三貴" title="wikilink">立川三貴</a></p></td>
+<td><p><a href="../Page/立川三貴.md" title="wikilink">立川三貴</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2004</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オーシャン・オブ・ファイヤー" title="wikilink">オーシャン・オブ・ファイヤー</a><br />
+<td><p><a href="../Page/オーシャン・オブ・ファイヤー.md" title="wikilink">オーシャン・オブ・ファイヤー</a><br />
 <em>Hidalgo</em></p></td>
 <td><p>バッファロー・ビル・コディ</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/菅生隆之" title="wikilink">菅生隆之</a></p></td>
+<td><p><a href="../Page/菅生隆之.md" title="wikilink">菅生隆之</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/レディ・キラーズ" title="wikilink">レディ・キラーズ</a><br />
+<td><p><a href="../Page/レディ・キラーズ.md" title="wikilink">レディ・キラーズ</a><br />
 <em>The Ladykillers</em></p></td>
 <td><p>ガース・パンケイク</p></td>
 <td></td>
@@ -153,7 +153,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/スパイダーマン2" title="wikilink">スパイダーマン2</a><br />
+<td><p><a href="../Page/スパイダーマン2.md" title="wikilink">スパイダーマン2</a><br />
 <em>Spider-Man 2</em></p></td>
 <td><p>J・ジョナ・ジェイムソン</p></td>
 <td></td>
@@ -166,14 +166,14 @@
 <em>Thank You for Smoking</em></p></td>
 <td><p>BR</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/稲葉実" title="wikilink">稲葉実</a></p></td>
+<td><p><a href="../Page/稲葉実.md" title="wikilink">稲葉実</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/平成狸合戦ぽんぽこ" title="wikilink">平成狸合戦ぽんぽこ</a><br />
 <em>Pom Poko</em></p></td>
 <td><p>青左衛門</p></td>
 <td><p>声の出演、英語版吹き替え</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/三木のり平" title="wikilink">三木のり平</a>（原語の声優）</p></td>
+<td><p><a href="../Page/三木のり平.md" title="wikilink">三木のり平</a>（原語の声優）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -202,7 +202,7 @@
 </tr>
 <tr class="even">
 <td><p>2007</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スパイダーマン3" title="wikilink">スパイダーマン3</a><br />
+<td><p><a href="../Page/スパイダーマン3.md" title="wikilink">スパイダーマン3</a><br />
 <em>Spider-Man 3</em></p></td>
 <td><p>J・ジョナ・ジェイムソン</p></td>
 <td></td>
@@ -230,7 +230,7 @@
 <em>Burn After Reading</em></p></td>
 <td><p>CIAの上官</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/佐々木敏" title="wikilink">佐々木敏</a></p></td>
+<td><p><a href="../Page/佐々木敏.md" title="wikilink">佐々木敏</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2009</p></td>
@@ -317,7 +317,7 @@
 <em>Megamind</em></p></td>
 <td><p>所長</p></td>
 <td><p>声の出演</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/稲垣隆史" title="wikilink">稲垣隆史</a></p></td>
+<td><p><a href="../Page/稲垣隆史.md" title="wikilink">稲垣隆史</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -349,7 +349,7 @@
 <em>Contraband</em></p></td>
 <td><p>キャンプ船長</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福田信昭" title="wikilink">福田信昭</a></p></td>
+<td><p><a href="../Page/福田信昭.md" title="wikilink">福田信昭</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -358,7 +358,7 @@
 <em>Jobs</em></p></td>
 <td><p>アーサー・ロック</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小島敏彦" title="wikilink">小島敏彦</a></p></td>
+<td><p><a href="../Page/小島敏彦.md" title="wikilink">小島敏彦</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ダークスカイズ" title="wikilink">ダークスカイズ</a><br />
@@ -381,16 +381,16 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/セッション_(映画)" title="wikilink">セッション</a><br />
 <em>Whiplash</em></p></td>
 <td><p>テレンス・フレッチャー</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/第87回アカデミー賞" title="wikilink">第87回アカデミー賞</a>・<a href="https://ja.wikipedia.org/wiki/アカデミー助演男優賞" title="wikilink">助演男優賞</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/第87回アカデミー賞" title="wikilink">第87回アカデミー賞</a>・<a href="../Page/アカデミー助演男優賞.md" title="wikilink">助演男優賞</a><br />
 <a href="https://ja.wikipedia.org/wiki/第80回ニューヨーク映画批評家協会賞" title="wikilink">第80回ニューヨーク映画批評家協会賞</a>・<a href="https://ja.wikipedia.org/wiki/ニューヨーク映画批評家協会賞_助演男優賞" title="wikilink">助演男優賞</a>[10]<br />
 <a href="https://ja.wikipedia.org/wiki/第18回トロント映画批評家協会賞" title="wikilink">第18回トロント映画批評家協会賞</a>・助演男優賞[11]<br />
 <a href="https://ja.wikipedia.org/wiki/第72回ゴールデングローブ賞" title="wikilink">第72回ゴールデングローブ賞</a>・助演男優賞[12]<br />
 第20回<a href="https://ja.wikipedia.org/wiki/放送映画批評家協会賞" title="wikilink">放送映画批評家協会賞</a>・助演男優賞[13]<br />
-第30回<a href="https://ja.wikipedia.org/wiki/インディペンデント・スピリット賞" title="wikilink">インディペンデント・スピリット賞</a>・助演男優賞[14]<br />
-第49回<a href="https://ja.wikipedia.org/wiki/全米批評家協会賞" title="wikilink">全米批評家協会賞</a>・助演男優賞<br />
+第30回<a href="../Page/インディペンデント・スピリット賞.md" title="wikilink">インディペンデント・スピリット賞</a>・助演男優賞[14]<br />
+第49回<a href="../Page/全米批評家協会賞.md" title="wikilink">全米批評家協会賞</a>・助演男優賞<br />
 <a href="https://ja.wikipedia.org/wiki/第68回英国アカデミー賞" title="wikilink">第68回英国アカデミー賞</a>・助演男優賞<br />
 <a href="https://ja.wikipedia.org/wiki/第19回サテライト賞" title="wikilink">第19回サテライト賞</a>・助演男優賞</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/壤晴彦" title="wikilink">壤晴彦</a></p></td>
+<td><p><a href="../Page/壤晴彦.md" title="wikilink">壤晴彦</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/マーダー・オブ・キャット" title="wikilink">マーダー・オブ・キャット</a><br />
@@ -430,7 +430,7 @@
 <em>Kung Fu Panda 3</em></p></td>
 <td><p>カイ</p></td>
 <td><p>声の出演</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/石井康嗣" title="wikilink">石井康嗣</a></p></td>
+<td><p><a href="../Page/石井康嗣.md" title="wikilink">石井康嗣</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ズートピア" title="wikilink">ズートピア</a><br />
@@ -513,7 +513,7 @@
 <td><p>立川三貴</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/クロース_(映画)" title="wikilink">クロース</a><br />
+<td><p><a href="../Page/クロース_(映画).md" title="wikilink">クロース</a><br />
 <em>Klaus</em></p></td>
 <td><p>クロース</p></td>
 <td><p>声の出演</p></td>
@@ -574,7 +574,7 @@
 <em>Oz</em></p></td>
 <td><p>ヴァーノン・シリンガー</p></td>
 <td><p>56話出演</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/有本欽隆" title="wikilink">有本欽隆</a></p></td>
+<td><p><a href="../Page/有本欽隆.md" title="wikilink">有本欽隆</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2000</p></td>
@@ -602,7 +602,7 @@
 </tr>
 <tr class="even">
 <td><p>2003</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エバーウッド_遥かなるコロラド" title="wikilink">エバーウッド 遥かなるコロラド</a><br />
+<td><p><a href="../Page/エバーウッド_遥かなるコロラド.md" title="wikilink">エバーウッド 遥かなるコロラド</a><br />
 '' Everwood''</p></td>
 <td><p>フィル</p></td>
 <td><p>1話出演</p></td>
@@ -634,14 +634,14 @@
 </tr>
 <tr class="even">
 <td><p>2005</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アレステッド・ディベロプメント_(テレビドラマ)" title="wikilink">アレステッド・ディベロプメント</a><br />
+<td><p><a href="../Page/アレステッド・ディベロプメント_(テレビドラマ).md" title="wikilink">アレステッド・ディベロプメント</a><br />
 <em>Arrested Development</em></p></td>
 <td><p>アンダーソン</p></td>
 <td><p>1話出演</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/NUMBERS_天才数学者の事件ファイル" title="wikilink">NUMBERS 天才数学者の事件ファイル</a><br />
+<td><p><a href="../Page/NUMBERS_天才数学者の事件ファイル.md" title="wikilink">NUMBERS 天才数学者の事件ファイル</a><br />
 <em>Numb3rs</em></p></td>
 <td><p>クラレンス・ウィーヴァー博士</p></td>
 <td><p>第1シーズン第3話「謎のウイルス」</p></td>
@@ -650,15 +650,15 @@
 </tr>
 <tr class="even">
 <td><p>2005 - 2012</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クローザー_(テレビドラマ)" title="wikilink">クローザー</a><br />
+<td><p><a href="../Page/クローザー_(テレビドラマ).md" title="wikilink">クローザー</a><br />
 <em>The Closer</em></p></td>
 <td><p>ウィル・ポープ</p></td>
 <td><p>109話出演</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/佐々木勝彦" title="wikilink">佐々木勝彦</a></p></td>
+<td><p><a href="../Page/佐々木勝彦.md" title="wikilink">佐々木勝彦</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2006</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ザ・ホワイトハウス" title="wikilink">ザ・ホワイトハウス</a><br />
+<td><p><a href="../Page/ザ・ホワイトハウス.md" title="wikilink">ザ・ホワイトハウス</a><br />
 '' The West Wing''</p></td>
 <td><p>ハリー・ラヴィッチ</p></td>
 <td><p>1話出演</p></td>
@@ -731,7 +731,7 @@ German Agent、Bystander</p></td>
 </tr>
 <tr class="even">
 <td><p>2007</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/キム・ポッシブル" title="wikilink">キム・ポッシブル</a><br />
+<td><p><a href="../Page/キム・ポッシブル.md" title="wikilink">キム・ポッシブル</a><br />
 '' Kim Possible''</p></td>
 <td></td>
 <td><p>3話出演</p></td>
@@ -739,7 +739,7 @@ German Agent、Bystander</p></td>
 </tr>
 <tr class="odd">
 <td><p>2008</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ベン10" title="wikilink">ベン10 エイリアンフォース</a><br />
+<td><p><a href="../Page/ベン10.md" title="wikilink">ベン10 エイリアンフォース</a><br />
 '' Ben 10 Alien Force''</p></td>
 <td></td>
 <td><p>1話出演</p></td>
@@ -824,7 +824,7 @@ German Agent、Bystander</p></td>
 <em>Gravity Falls</em></p></td>
 <td><p>スタンフォード・パインズ</p></td>
 <td><p>7話出演</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/宇垣秀成" title="wikilink">宇垣秀成</a></p></td>
+<td><p><a href="../Page/宇垣秀成.md" title="wikilink">宇垣秀成</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -851,7 +851,7 @@ German Agent、Bystander</p></td>
 <tbody>
 <tr class="odd">
 <td><p>2007</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スパイダーマン3" title="wikilink">スパイダーマン3</a><br />
+<td><p><a href="../Page/スパイダーマン3.md" title="wikilink">スパイダーマン3</a><br />
 <em>Spider-Man 3</em></p></td>
 <td><p>J・ジョナ・ジェイムソン</p></td>
 <td></td>

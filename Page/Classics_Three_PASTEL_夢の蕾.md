@@ -1,7 +1,7 @@
 > この記事は[Classics Three PASTEL ](https://ja.wikipedia.org/wiki/Classics_Three_PASTEL_)から翻訳されています。
 
 
-『**Classics Three PASTEL 夢の蕾**』（クラシックス・スリー・パステル ゆめのつぼみ）は、[DEEN](https://ja.wikipedia.org/wiki/DEEN "wikilink")のコンセプチュアル・マキシシングル。
+『**Classics Three PASTEL 夢の蕾**』（クラシックス・スリー・パステル ゆめのつぼみ）は、[DEEN](../Page/DEEN.md "wikilink")のコンセプチュアル・マキシシングル。
 
 ## 作品解説
 
@@ -12,26 +12,26 @@
 
 1.  **夢の蕾 <Aperitivo>**
       -
-        作曲：[山根公路](https://ja.wikipedia.org/wiki/山根公路 "wikilink") 編曲：時乗浩一郎
+        作曲：[山根公路](../Page/山根公路.md "wikilink") 編曲：時乗浩一郎
 2.  **夢の蕾**
       -
-        作詞：[池森秀一](https://ja.wikipedia.org/wiki/池森秀一 "wikilink") 作曲：山根公路 編曲：[山根公路](https://ja.wikipedia.org/wiki/山根公路 "wikilink")
-        [テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")系『[ビートたけしのTVタックル](../Page/ビートたけしのTVタックル.md "wikilink")』エンディングテーマ。
+        作詞：[池森秀一](../Page/池森秀一.md "wikilink") 作曲：山根公路 編曲：[山根公路](../Page/山根公路.md "wikilink")
+        [テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[ビートたけしのTVタックル](../Page/ビートたけしのTVタックル.md "wikilink")』エンディングテーマ。
 3.  **僕の未来**
       -
-        作詞：[池森秀一](https://ja.wikipedia.org/wiki/池森秀一 "wikilink") 作曲・編曲：[田川伸治](https://ja.wikipedia.org/wiki/田川伸治 "wikilink")
+        作詞：[池森秀一](../Page/池森秀一.md "wikilink") 作曲・編曲：[田川伸治](../Page/田川伸治.md "wikilink")
 4.  **夢の蕾 <Sorbetto>**
       -
-        作曲：[山根公路](https://ja.wikipedia.org/wiki/山根公路 "wikilink") 編曲：[田川伸治](https://ja.wikipedia.org/wiki/田川伸治 "wikilink")
-5.  **[遠い空で](https://ja.wikipedia.org/wiki/遠い空で "wikilink") <Acoustic Band Style>**
+        作曲：[山根公路](../Page/山根公路.md "wikilink") 編曲：[田川伸治](../Page/田川伸治.md "wikilink")
+5.  **[遠い空で](../Page/遠い空で.md "wikilink") <Acoustic Band Style>**
       -
         作詞：小松未歩 作曲：吉江一男・小松未歩 編曲：Steve Good
 6.  **素顔で笑っていたい <Heartstrings Style>**
       -
-        作詞：[池森秀一](https://ja.wikipedia.org/wiki/池森秀一 "wikilink") 作曲：[織田哲郎](../Page/織田哲郎.md "wikilink") 編曲：[田川伸治](https://ja.wikipedia.org/wiki/田川伸治 "wikilink")
+        作詞：[池森秀一](../Page/池森秀一.md "wikilink") 作曲：[織田哲郎](../Page/織田哲郎.md "wikilink") 編曲：[田川伸治](../Page/田川伸治.md "wikilink")
 7.  **夢の蕾 <Dolce>**
       -
-        作曲・編曲：[山根公路](https://ja.wikipedia.org/wiki/山根公路 "wikilink")
+        作曲・編曲：[山根公路](../Page/山根公路.md "wikilink")
 
 ## 収録アルバム
 

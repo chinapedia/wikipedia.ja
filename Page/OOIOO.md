@@ -1,15 +1,15 @@
 > この記事は[OOIOO](https://ja.wikipedia.org/wiki/OOIOO)から翻訳されています。
 
 
-**OOIOO**（オー・オー・アイ・オー・オー）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に結成された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[ボアダムス](https://ja.wikipedia.org/wiki/ボアダムス "wikilink")のヨシミを中心とした女性4人で構成される。
+**OOIOO**（オー・オー・アイ・オー・オー）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に結成された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[ボアダムス](../Page/ボアダムス.md "wikilink")のヨシミを中心とした女性4人で構成される。
 
 ## 概要
 
-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に雑誌『[SWITCH](https://ja.wikipedia.org/wiki/スイッチ・パブリッシング "wikilink")』による企画『ヨシミ、架空バンドを作る』を切っ掛けに結成。
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に雑誌『[SWITCH](../Page/スイッチ・パブリッシング.md "wikilink")』による企画『ヨシミ、架空バンドを作る』を切っ掛けに結成。
 
-バンド名の由来は、[ボアダムス](https://ja.wikipedia.org/wiki/ボアダムス "wikilink")の[山塚アイ](https://ja.wikipedia.org/wiki/山塚アイ "wikilink")のメモ帳をヨシミが見た際にあった「OOIOO」という書き込みをそのまま拝借したもの\[1\]。
+バンド名の由来は、[ボアダムス](../Page/ボアダムス.md "wikilink")の[山塚アイ](https://ja.wikipedia.org/wiki/山塚アイ "wikilink")のメモ帳をヨシミが見た際にあった「OOIOO」という書き込みをそのまま拝借したもの\[1\]。
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、[ポリスター](https://ja.wikipedia.org/wiki/ポリスター "wikilink")より[メジャー・デビュー](https://ja.wikipedia.org/wiki/メジャー・デビュー_\(音楽家\) "wikilink")。独自のバランスによって構築される他にない音楽性が特徴\[2\]。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、[ポリスター](../Page/ポリスター.md "wikilink")より[メジャー・デビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。独自のバランスによって構築される他にない音楽性が特徴\[2\]。
 
 2009年[commmons](https://ja.wikipedia.org/wiki/commmons "wikilink")に移籍。
 
@@ -20,7 +20,7 @@
 <!-- end list -->
 
   -
-    [ボアダムス](https://ja.wikipedia.org/wiki/ボアダムス "wikilink")・SAICOBAB
+    [ボアダムス](../Page/ボアダムス.md "wikilink")・SAICOBAB
 
 <!-- end list -->
 
@@ -35,7 +35,7 @@
 
 <!-- end list -->
 
-  - **AyA**（アヤ）：[Bass](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")・Vo
+  - **AyA**（アヤ）：[Bass](../Page/ベース_\(弦楽器\).md "wikilink")・Vo
 
 <!-- end list -->
 
@@ -86,7 +86,7 @@
   -
 
       -
-        2003年に脱退。[DMBQ](https://ja.wikipedia.org/wiki/DMBQ "wikilink")の元メンバー。
+        2003年に脱退。[DMBQ](../Page/DMBQ.md "wikilink")の元メンバー。
 
     ・Olaibi Ai（オライビ アイ）：ドラム＆パーカッション
 
@@ -106,7 +106,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1997年" title="wikilink">1997年</a>4月9日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スタジオ・アルバム" title="wikilink">スタジオ・アルバム</a></p></td>
+<td><p><a href="../Page/スタジオ・アルバム.md" title="wikilink">スタジオ・アルバム</a></p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
 <p>∞8∞（エイト）</p>
@@ -177,7 +177,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2001年.md" title="wikilink">2001年</a>8月8日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/リミックス" title="wikilink">リミックス</a>・アルバム</p></td>
+<td><p><a href="../Page/リミックス.md" title="wikilink">リミックス</a>・アルバム</p></td>
 <td><p><strong>SHOCKCITY SHOCKERS VOL.2</strong></p></td>
 <td><p>他<a href="https://ja.wikipedia.org/wiki/音楽家" title="wikilink">ミュージシャンによるリミックスアルバム</a>。</p></td>
 </tr>
@@ -202,20 +202,20 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2004年" title="wikilink">2004年</a>4月21日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/コンピレーション・アルバム" title="wikilink">コンピレーション・アルバム</a></p></td>
+<td><p><a href="../Page/2004年.md" title="wikilink">2004年</a>4月21日</p></td>
+<td><p><a href="../Page/コンピレーション・アルバム.md" title="wikilink">コンピレーション・アルバム</a></p></td>
 <td><p><strong>SWEET DREAMS for fishmans</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フィッシュマンズ" title="wikilink">フィッシュマンズ</a>の<a href="https://ja.wikipedia.org/wiki/トリビュート・アルバム" title="wikilink">トリビュート・アルバム</a>。<br />
+<td><p><a href="../Page/フィッシュマンズ.md" title="wikilink">フィッシュマンズ</a>の<a href="../Page/トリビュート・アルバム.md" title="wikilink">トリビュート・アルバム</a>。<br />
 M-11「POKKA POKKA」で参加。（NGCS-1001）</p></td>
 </tr>
 <tr class="odd">
 <td><p>2004年12月2日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ベスト・アルバム" title="wikilink">ベスト・アルバム</a></p></td>
+<td><p><a href="../Page/ベスト・アルバム.md" title="wikilink">ベスト・アルバム</a></p></td>
 <td><p><strong>COCOCOOOIOO The Best Of Shockcity 1997-2001</strong></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a>7月4日</p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a>7月4日</p></td>
 <td><p>スタジオ・アルバム</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
@@ -235,7 +235,7 @@ M-11「POKKA POKKA」で参加。（NGCS-1001）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a>1月1日</p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a>1月1日</p></td>
 <td><p>ミニアルバム</p></td>
 <td><p><strong>OOEY∃OO-EY∃ REMIX</strong></p></td>
 <td><p>『TAIGA』の楽曲2曲を<a href="https://ja.wikipedia.org/wiki/山塚アイ" title="wikilink">山塚アイ</a>がリミックスしたものとその原曲</p></td>
@@ -258,11 +258,11 @@ M-11「POKKA POKKA」で参加。（NGCS-1001）</p></td>
 ### DVD
 
   - **OOHOHOO-OOIOO MUSIC VIDEO'S '99〜'07** （2007年1月1日）
-      - [ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")を7曲収録。うち2曲はこの作品のために新規に制作されたもの。
+      - [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")を7曲収録。うち2曲はこの作品のために新規に制作されたもの。
 
 ## 関連項目
 
-  - [ボアダムス](https://ja.wikipedia.org/wiki/ボアダムス "wikilink") - ヨシミの参加バンド。
+  - [ボアダムス](../Page/ボアダムス.md "wikilink") - ヨシミの参加バンド。
   - [かるじゃが](https://ja.wikipedia.org/wiki/江崎グリコ#.E3.82.B9.E3.83.8A.E3.83.83.E3.82.AF "wikilink") - YOSHIMIがCMソングを提供
 
 ## 参考文献・出典

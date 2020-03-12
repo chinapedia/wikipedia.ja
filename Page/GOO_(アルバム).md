@@ -1,7 +1,7 @@
 > この記事は[GOO \(\)](https://ja.wikipedia.org/wiki/GOO_\(\))から翻訳されています。
 
 
-『**GOO**』は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ロックバンド](../Page/ロック_\(音楽\).md "wikilink")、[ソニック・ユース](https://ja.wikipedia.org/wiki/ソニック・ユース "wikilink")のメジャー・デビュー・アルバム。
+『**GOO**』は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ロックバンド](../Page/ロック_\(音楽\).md "wikilink")、[ソニック・ユース](../Page/ソニック・ユース.md "wikilink")のメジャー・デビュー・アルバム。
 
 ## 解説
 
@@ -22,10 +22,10 @@
 
 1.  ダーティ・ブーツ - *Dirty Boots* (5:28)
 2.  テュニック (ソング・フォー・カレン) - *Tunic (Song for Karen)* (6:22)
-      - キム・ゴードン作詞、ヴォーカル。[神経性無食欲症](https://ja.wikipedia.org/wiki/神経性無食欲症 "wikilink")により若くして亡くなった、[カーペンターズ](https://ja.wikipedia.org/wiki/カーペンターズ "wikilink")の[カレン・カーペンター](https://ja.wikipedia.org/wiki/カレン・カーペンター "wikilink")へ捧げた楽曲。
+      - キム・ゴードン作詞、ヴォーカル。[神経性無食欲症](../Page/神経性無食欲症.md "wikilink")により若くして亡くなった、[カーペンターズ](https://ja.wikipedia.org/wiki/カーペンターズ "wikilink")の[カレン・カーペンター](../Page/カレン・カーペンター.md "wikilink")へ捧げた楽曲。
 3.  メアリー・クライスト - *Mary-Christ* (3:11)
 4.  クール・シング - *Kool Thing* (4:06)
-      - キム・ゴードン作詞、ヴォーカル。ゲストに、[パブリック・エナミー](https://ja.wikipedia.org/wiki/パブリック・エナミー "wikilink")の[チャックD](https://ja.wikipedia.org/wiki/チャックD "wikilink")が参加している。
+      - キム・ゴードン作詞、ヴォーカル。ゲストに、[パブリック・エナミー](../Page/パブリック・エナミー.md "wikilink")の[チャックD](https://ja.wikipedia.org/wiki/チャックD "wikilink")が参加している。
 5.  モート - *Mote* (7:37)
 6.  マイ・フレンド・GOO - *My Friend Goo* (2:19)
 7.  ディスアピアラ - *Disappearer* (5:08)

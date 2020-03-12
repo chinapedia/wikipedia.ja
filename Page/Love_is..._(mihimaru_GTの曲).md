@@ -1,13 +1,13 @@
 > この記事は[Love is... \(mihimaru GT\)](https://ja.wikipedia.org/wiki/Love_is..._\(mihimaru_GT\))から翻訳されています。
 
 
-『**Love is...**』（ラブイズ）は、[mihimaru GTの](https://ja.wikipedia.org/wiki/mihimaru_GT "wikilink")6枚目となる[シングル](../Page/シングル.md "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月7日](../Page/9月7日.md "wikilink")発売。発売元は、[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。
+『**Love is...**』（ラブイズ）は、[mihimaru GTの](https://ja.wikipedia.org/wiki/mihimaru_GT "wikilink")6枚目となる[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[9月7日](../Page/9月7日.md "wikilink")発売。発売元は、[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
 
 ## 解説
 
-  - 「Love is...」は、[テレビ東京系](https://ja.wikipedia.org/wiki/テレビ東京系 "wikilink")『[元祖\!でぶや](https://ja.wikipedia.org/wiki/元祖!でぶや "wikilink")』[エンディング･テーマ](https://ja.wikipedia.org/wiki/主題歌 "wikilink")。この曲の歌詞も[PVも](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、離れていた男女の気持ちが一つになる、という内容。
-  - 発売から1年半が経った[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[5月18日](../Page/5月18日.md "wikilink")に、『[THE BEST of mihimaru GT](https://ja.wikipedia.org/wiki/THE_BEST_of_mihimaru_GT "wikilink")』収録曲としてこの曲で『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』に出演した。
-  - [2009年](../Page/2009年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")には[黒瀬真奈美](https://ja.wikipedia.org/wiki/黒瀬真奈美 "wikilink")によって「Love is...」を[サンプリング](../Page/サンプリング.md "wikilink")した楽曲、「Love is...Shine」が発売された\[1\]。
+  - 「Love is...」は、[テレビ東京系](https://ja.wikipedia.org/wiki/テレビ東京系 "wikilink")『[元祖\!でぶや](../Page/元祖!でぶや.md "wikilink")』[エンディング･テーマ](../Page/主題歌.md "wikilink")。この曲の歌詞も[PVも](../Page/ミュージック・ビデオ.md "wikilink")、離れていた男女の気持ちが一つになる、という内容。
+  - 発売から1年半が経った[2007年](../Page/2007年.md "wikilink")[5月18日](../Page/5月18日.md "wikilink")に、『[THE BEST of mihimaru GT](../Page/THE_BEST_of_mihimaru_GT.md "wikilink")』収録曲としてこの曲で『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』に出演した。
+  - [2009年](../Page/2009年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")には[黒瀬真奈美](../Page/黒瀬真奈美.md "wikilink")によって「Love is...」を[サンプリング](../Page/サンプリング.md "wikilink")した楽曲、「Love is...Shine」が発売された\[1\]。
 
 ## 収録曲
 
@@ -17,7 +17,7 @@
       - 作詞：hiroko and mitsuyuki miyake / 作曲：mitsuyuki miyake and [DJ TAKI-SHIT](https://ja.wikipedia.org/wiki/DJ_TAKI-SHIT "wikilink") / 編曲：mitsuyuki miyake、[DJ TAKI-SHIT](https://ja.wikipedia.org/wiki/DJ_TAKI-SHIT "wikilink") and Kazuyuki Miyauchi
     <!-- end list -->
       -
-        「[ユルメのレイデ](../Page/ユルメのレイデ.md "wikilink")」以来となる、[ダリヤ](https://ja.wikipedia.org/wiki/ダリヤ "wikilink")パルティの[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。
+        「[ユルメのレイデ](../Page/ユルメのレイデ.md "wikilink")」以来となる、[ダリヤ](../Page/ダリヤ.md "wikilink")パルティの[CMソング](../Page/コマーシャルソング.md "wikilink")。
 
 <!-- end list -->
 
@@ -29,7 +29,7 @@
 **Love is...**
 
   - [mihimalife](https://ja.wikipedia.org/wiki/mihimalife "wikilink")
-  - [THE BEST of mihimaru GT](https://ja.wikipedia.org/wiki/THE_BEST_of_mihimaru_GT "wikilink")
+  - [THE BEST of mihimaru GT](../Page/THE_BEST_of_mihimaru_GT.md "wikilink")
   - [The Best Selection of ASIA](https://ja.wikipedia.org/wiki/The_Best_Selection_of_ASIA "wikilink")
   - [mihimaballads](https://ja.wikipedia.org/wiki/mihimaballads "wikilink")
   - [10th Anniversary BEST 2003-2013](https://ja.wikipedia.org/wiki/10th_Anniversary_BEST_2003-2013 "wikilink")
@@ -45,7 +45,7 @@
 
   - [Love is...（ユニバーサルミュージック）](http://www.universal-music.co.jp/mihimarugt/products/upch-5329/)
   - [mihimaru GT - Love is...](http://www.youtube.com/watch?v=aq0N2h0Zlus) - [ミュージックビデオ](https://ja.wikipedia.org/wiki/ミュージックビデオ "wikilink")（[VEVO](https://ja.wikipedia.org/wiki/VEVO "wikilink")）
-  - [mihimaru GT - Love is...](http://www.youtube.com/watch?v=TegWf0oW2CA) - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月14日](../Page/12月14日.md "wikilink")に[Zepp Tokyoで行われた](https://ja.wikipedia.org/wiki/Zepp "wikilink")「年末ジャンボ宝イヴ'06～mihimagic show encore～」における歌唱（VEVO）
+  - [mihimaru GT - Love is...](http://www.youtube.com/watch?v=TegWf0oW2CA) - [2006年](../Page/2006年.md "wikilink")[12月14日](../Page/12月14日.md "wikilink")に[Zepp Tokyoで行われた](../Page/Zepp.md "wikilink")「年末ジャンボ宝イヴ'06～mihimagic show encore～」における歌唱（VEVO）
 
 [Category:Mihimaru_GTの楽曲](https://ja.wikipedia.org/wiki/Category:Mihimaru_GTの楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:楽曲_ら](https://ja.wikipedia.org/wiki/Category:楽曲_ら "wikilink")
 

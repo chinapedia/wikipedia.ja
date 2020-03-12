@@ -1,7 +1,7 @@
 > この記事は[TAXI NY](https://ja.wikipedia.org/wiki/TAXI_NY)から翻訳されています。
 
 
-『**TAXI NY**』（タクシー・ニューヨーク、*Taxi*）は[ティム・ストーリー監督の映画](https://ja.wikipedia.org/wiki/ティム・ストーリー_\(映画監督\) "wikilink")。[リュック・ベッソン](https://ja.wikipedia.org/wiki/リュック・ベッソン "wikilink")の『[TAXi](https://ja.wikipedia.org/wiki/TAXi "wikilink")』シリーズの[ハリウッド](../Page/ハリウッド.md "wikilink")版リメイク。舞台をマルセイユからニューヨークへ移している。原案およびプロデュースはリュック・ベッソン。
+『**TAXI NY**』（タクシー・ニューヨーク、*Taxi*）は[ティム・ストーリー監督の映画](https://ja.wikipedia.org/wiki/ティム・ストーリー_\(映画監督\) "wikilink")。[リュック・ベッソン](../Page/リュック・ベッソン.md "wikilink")の『[TAXi](../Page/TAXi.md "wikilink")』シリーズの[ハリウッド](../Page/ハリウッド.md "wikilink")版リメイク。舞台をマルセイユからニューヨークへ移している。原案およびプロデュースはリュック・ベッソン。
 
 ## ストーリー
 
@@ -21,22 +21,22 @@
 
   - ベル・ウィリアムズ
     演 - [クイーン・ラティファ](https://ja.wikipedia.org/wiki/クイーン・ラティファ "wikilink")
-    本作の主人公。タクシー運転手で、オリジナル版におけるダニエル・モラレース。[メッセンジャーをしていたが](https://ja.wikipedia.org/wiki/自転車便 "wikilink")、念願叶ってタクシー運転手に転職。スーパーチャージャーで過給した、[フォード・クラウンビクトリア](https://ja.wikipedia.org/wiki/フォード・クラウンビクトリア "wikilink")のタクシーを転がす。スピード狂であり、必要とあらばスピードも信号も無視して、全速でかっとばすのがポリシー。
+    本作の主人公。タクシー運転手で、オリジナル版におけるダニエル・モラレース。[メッセンジャーをしていたが](../Page/自転車便.md "wikilink")、念願叶ってタクシー運転手に転職。スーパーチャージャーで過給した、[フォード・クラウンビクトリア](../Page/フォード・クラウンビクトリア.md "wikilink")のタクシーを転がす。スピード狂であり、必要とあらばスピードも信号も無視して、全速でかっとばすのがポリシー。
   - アンディ・ウォッシュバーン
     演 - [ジミー・ファロン](https://ja.wikipedia.org/wiki/ジミー・ファロン "wikilink")
     ニューヨーク市警察第8分署刑事分隊のダメ刑事で、オリジナル版におけるエミリアン・クタン=ケルバレーク。犯人追跡時にシフトレバーのDとRを間違え、勢い良く商店に突っ込み免許停止になる。車が使えず、たまたま近くにいたベルのタクシーに乗って美女強盗団を追跡し、以後はベルを捜査に巻き込む。
   - ヴァネッサ
-    演 - [ジゼル・ブンチェン](https://ja.wikipedia.org/wiki/ジゼル・ブンチェン "wikilink")
+    演 - [ジゼル・ブンチェン](../Page/ジゼル・ブンチェン.md "wikilink")
     モデルのような美女ばかりの女強盗団のリーダーで、オリジナル版におけるメルセデスのリーダー、アインシュタイン。オリジナル版と同様の方法でベルに出し抜かれて御用となるが、その際に怒り狂いながらベルに向かって発砲するなど、往生際の悪さを見せた。
   - マータ・ロビンス
-    演 - [ジェニファー・エスポジート](https://ja.wikipedia.org/wiki/ジェニファー・エスポジート "wikilink")
+    演 - [ジェニファー・エスポジート](../Page/ジェニファー・エスポジート.md "wikilink")
     第8分署刑事分隊長の警部補。オリジナル版におけるペトラ。ドジばかりのウォッシュバーンに手を焼く。
   - ジェシー
     演 - [ヘンリー・シモンズ](https://ja.wikipedia.org/wiki/ヘンリー・シモンズ "wikilink")
     ベルのフィアンセで、オリジナル版におけるリリー。いつもベルに待たされる。ウォッシュバーンの警察[バッヂ](https://ja.wikipedia.org/wiki/バッヂ "wikilink")を焼いてしまうなど過激な一面を持つ。
   - ママ
-    演 - [アン＝マーグレット](https://ja.wikipedia.org/wiki/アン＝マーグレット "wikilink")
-    ウォッシュバーンの[母親](https://ja.wikipedia.org/wiki/母親 "wikilink")で、オリジナル版で言うところのエミリアンのママ。
+    演 - [アン＝マーグレット](../Page/アン＝マーグレット.md "wikilink")
+    ウォッシュバーンの[母親](../Page/母親.md "wikilink")で、オリジナル版で言うところのエミリアンのママ。
   - マリンズ捜査官
     演 - [クリスチャン・ケイン](https://ja.wikipedia.org/wiki/クリスチャン・ケイン "wikilink")
     FBIから派遣された特別捜査官。
@@ -55,50 +55,50 @@
 
 ## 日本語吹替
 
-| 役名          | 俳優                                                                                       | 日本語吹替                                                   |
-| ----------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| ソフト版        | [フジテレビ版](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")                              | 機内上映版                                                   |
-| ベル          | [クイーン・ラティファ](https://ja.wikipedia.org/wiki/クイーン・ラティファ "wikilink")                        | [朴璐美](../Page/朴ロ美.md "wikilink")                        |
-| ウォッシュバーン    | [ジミー・ファロン](https://ja.wikipedia.org/wiki/ジミー・ファロン "wikilink")                            | [桐本琢也](https://ja.wikipedia.org/wiki/桐本拓哉 "wikilink")   |
-| ヴァネッサ       | [ジゼル・ブンチェン](https://ja.wikipedia.org/wiki/ジゼル・ブンチェン "wikilink")                          | [安藤麻吹](https://ja.wikipedia.org/wiki/安藤麻吹 "wikilink")   |
-| マータ・ロビンス    | [ジェニファー・エスポジート](https://ja.wikipedia.org/wiki/ジェニファー・エスポジート "wikilink")                  | [本田貴子](https://ja.wikipedia.org/wiki/本田貴子 "wikilink")   |
-| ジェシー        | [ヘンリー・シモンズ](https://ja.wikipedia.org/wiki/ヘンリー・シモンズ "wikilink")                          | [黒田崇矢](https://ja.wikipedia.org/wiki/黒田崇矢 "wikilink")   |
-| ウォッシュバーンのママ | [アン＝マーグレット](https://ja.wikipedia.org/wiki/アン＝マーグレット "wikilink")                          | [一城みゆ希](https://ja.wikipedia.org/wiki/一城みゆ希 "wikilink") |
-| マリンズ捜査官     | [クリスチャン・ケイン](https://ja.wikipedia.org/wiki/クリスチャン・ケイン "wikilink")                        | [咲野俊介](https://ja.wikipedia.org/wiki/咲野俊介 "wikilink")   |
-| レッドヘッド      | [アナ・クリスティーナ・デ・オリベイラ](https://ja.wikipedia.org/wiki/:en:Ana_Cristina_Oliveira "wikilink") |                                                         |
-|             |                                                                                          |                                                         |
+| 役名          | 俳優                                                                                       | 日本語吹替                                |
+| ----------- | ---------------------------------------------------------------------------------------- | ------------------------------------ |
+| ソフト版        | [フジテレビ版](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")                              | 機内上映版                                |
+| ベル          | [クイーン・ラティファ](https://ja.wikipedia.org/wiki/クイーン・ラティファ "wikilink")                        | [朴璐美](../Page/朴ロ美.md "wikilink")     |
+| ウォッシュバーン    | [ジミー・ファロン](https://ja.wikipedia.org/wiki/ジミー・ファロン "wikilink")                            | [桐本琢也](../Page/桐本拓哉.md "wikilink")   |
+| ヴァネッサ       | [ジゼル・ブンチェン](../Page/ジゼル・ブンチェン.md "wikilink")                                             | [安藤麻吹](../Page/安藤麻吹.md "wikilink")   |
+| マータ・ロビンス    | [ジェニファー・エスポジート](../Page/ジェニファー・エスポジート.md "wikilink")                                     | [本田貴子](../Page/本田貴子.md "wikilink")   |
+| ジェシー        | [ヘンリー・シモンズ](https://ja.wikipedia.org/wiki/ヘンリー・シモンズ "wikilink")                          | [黒田崇矢](../Page/黒田崇矢.md "wikilink")   |
+| ウォッシュバーンのママ | [アン＝マーグレット](../Page/アン＝マーグレット.md "wikilink")                                             | [一城みゆ希](../Page/一城みゆ希.md "wikilink") |
+| マリンズ捜査官     | [クリスチャン・ケイン](https://ja.wikipedia.org/wiki/クリスチャン・ケイン "wikilink")                        | [咲野俊介](../Page/咲野俊介.md "wikilink")   |
+| レッドヘッド      | [アナ・クリスティーナ・デ・オリベイラ](https://ja.wikipedia.org/wiki/:en:Ana_Cristina_Oliveira "wikilink") |                                      |
+|             |                                                                                          |                                      |
 
   - ソフト版：[VHS](../Page/VHS.md "wikilink")・[DVD](../Page/DVD.md "wikilink")・[BD収録](../Page/Blu-ray_Disc.md "wikilink")
-  - フジテレビ版：初回放送2008年3月22日『[土曜プレミアム](https://ja.wikipedia.org/wiki/土曜プレミアム "wikilink")』
+  - フジテレビ版：初回放送2008年3月22日『[土曜プレミアム](../Page/土曜プレミアム.md "wikilink")』
 
 ## 登場する車種
 
-  - [フォード・クラウンビクトリア](https://ja.wikipedia.org/wiki/フォード・クラウンビクトリア "wikilink")
+  - [フォード・クラウンビクトリア](../Page/フォード・クラウンビクトリア.md "wikilink")
     ベルのタクシー。本家と同様にチューニングされ、変形する設定。変形後のベース車も同じだが、撮影時には、マスタングをクラウンビクトリアのように改造した車両が使用されている。
-  - [BMW・760Li](https://ja.wikipedia.org/wiki/BMW・7シリーズ "wikilink")
-    女強盗団の逃走用の車。当初真っ赤なボディカラーであったが、実は青い車体に[マーキングフィルムでラッピングされたものであり最後の強盗からの逃走時には路地裏でフィルム剥離とホイール変更](https://ja.wikipedia.org/wiki/ラッピング車両 "wikilink")、そして強盗団自身の衣装チェンジを行い警察の目を欺いた。これらの色は、一般に市販されている7シリーズには設定されていない。[ランフラットタイヤ](https://ja.wikipedia.org/wiki/ランフラットタイヤ "wikilink")を履いていたため、タイヤを撃たれたにもかかわらずウォッシュバーンから逃げ切れた。
+  - [BMW・760Li](../Page/BMW・7シリーズ.md "wikilink")
+    女強盗団の逃走用の車。当初真っ赤なボディカラーであったが、実は青い車体に[マーキングフィルムでラッピングされたものであり最後の強盗からの逃走時には路地裏でフィルム剥離とホイール変更](../Page/ラッピング車両.md "wikilink")、そして強盗団自身の衣装チェンジを行い警察の目を欺いた。これらの色は、一般に市販されている7シリーズには設定されていない。[ランフラットタイヤ](../Page/ランフラットタイヤ.md "wikilink")を履いていたため、タイヤを撃たれたにもかかわらずウォッシュバーンから逃げ切れた。
     終盤、女強盗団が後述するM3に乗り換える際、警察からの追跡を誤魔化す囮として、その場に偶然居合わせた少年に譲渡されたが、その後この少年がどうなったのかは不明。
   - [BMW・M3](../Page/BMW・M3.md "wikilink") [コンバーチブル](https://ja.wikipedia.org/wiki/コンバーチブル "wikilink")
     女強盗団が最後の逃走に用いた車。アメリカでは市販されているのだが、日本に正規輸入されているのはクーペのみで、コンバーチブルの設定はない。
-  - [大宇](https://ja.wikipedia.org/wiki/韓国GM "wikilink")・[ラノス](https://ja.wikipedia.org/wiki/:en:Daewoo_Lanos "wikilink")[ハッチバック](../Page/ハッチバック.md "wikilink")
+  - [大宇](../Page/韓国GM.md "wikilink")・[ラノス](https://ja.wikipedia.org/wiki/:en:Daewoo_Lanos "wikilink")[ハッチバック](../Page/ハッチバック.md "wikilink")
     ウォッシュバーンの母親の車。強盗団のアジトに潜入した時に使用されたが、ベルとウォッシュバーンが一室に閉じ込められていた間に燃やされてしまった。アメリカで市販されている自動車の中ではかなり小排気量の部類\[1\]で、スピード狂のベルは乗車することを露骨に嫌がった。しかしそれ以上にウォッシュバーンの運転技術の低さに辟易としたため、結局ベルがラノスのハンドルを奪い取った。
 
 ## オリジナル版との違い
 
-この作品はおおむね『[TAXi](https://ja.wikipedia.org/wiki/TAXi "wikilink")』第1作目のストーリーを基にしているが、主人公のタクシードライバーとそのフィアンセ、強盗団のメンバーの性別が逆に変更されていたりストーリー展開が一部異なるなど、若干設定は変わっている。
+この作品はおおむね『[TAXi](../Page/TAXi.md "wikilink")』第1作目のストーリーを基にしているが、主人公のタクシードライバーとそのフィアンセ、強盗団のメンバーの性別が逆に変更されていたりストーリー展開が一部異なるなど、若干設定は変わっている。
 
 ## 日本国内におけるテレビ放送
 
-| 放送回数 | 放送局                                                                    | 放送日                                                                                         | 放送番組名                                                           | 吹替     |
-| ---- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ------ |
-| 1回   | [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")             | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月22日](../Page/3月22日.md "wikilink") | [土曜プレミアム](https://ja.wikipedia.org/wiki/土曜プレミアム "wikilink")     | フジテレビ版 |
-| 2回   | [テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")                | [2009年](../Page/2009年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")                      | [日曜洋画劇場](https://ja.wikipedia.org/wiki/日曜洋画劇場 "wikilink")       | ソフト版   |
-| 3回   | [2011年](../Page/2011年.md "wikilink")[9月4日](../Page/9月4日.md "wikilink") |                                                                                             |                                                                 |        |
-| 4回   | [TBS](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")                 | [2013年](../Page/2013年.md "wikilink")[5月8日](../Page/5月8日.md "wikilink")                      | [水曜プレミア](https://ja.wikipedia.org/wiki/水曜プレミアシネマ "wikilink")    | フジテレビ版 |
-| 5回   | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")                | [2015年](../Page/2015年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")                    | [午後のロードショー](https://ja.wikipedia.org/wiki/午後のロードショー "wikilink") |        |
-| 6回   | [2017年](../Page/2017年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink") |                                                                                             |                                                                 |        |
-| 7回   | BSテレ東                                                                  | 2019年5月12日                                                                                  | シネマスペシャル                                                        | フジテレビ版 |
-|      |                                                                        |                                                                                             |                                                                 |        |
+| 放送回数 | 放送局                                                                    | 放送日                                                                                         | 放送番組名                                                        | 吹替     |
+| ---- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ------ |
+| 1回   | [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")             | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月22日](../Page/3月22日.md "wikilink") | [土曜プレミアム](../Page/土曜プレミアム.md "wikilink")                     | フジテレビ版 |
+| 2回   | [テレビ朝日](../Page/テレビ朝日.md "wikilink")                                   | [2009年](../Page/2009年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")                      | [日曜洋画劇場](../Page/日曜洋画劇場.md "wikilink")                       | ソフト版   |
+| 3回   | [2011年](../Page/2011年.md "wikilink")[9月4日](../Page/9月4日.md "wikilink") |                                                                                             |                                                              |        |
+| 4回   | [TBS](../Page/TBSテレビ.md "wikilink")                                    | [2013年](../Page/2013年.md "wikilink")[5月8日](../Page/5月8日.md "wikilink")                      | [水曜プレミア](https://ja.wikipedia.org/wiki/水曜プレミアシネマ "wikilink") | フジテレビ版 |
+| 5回   | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")                | [2015年](../Page/2015年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")                    | [午後のロードショー](../Page/午後のロードショー.md "wikilink")                 |        |
+| 6回   | [2017年](../Page/2017年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink") |                                                                                             |                                                              |        |
+| 7回   | BSテレ東                                                                  | 2019年5月12日                                                                                  | シネマスペシャル                                                     | フジテレビ版 |
+|      |                                                                        |                                                                                             |                                                              |        |
 
 ## 参考文献
 
@@ -106,10 +106,10 @@
 
 フランス・オリジナル版のシリーズは下記の通り。
 
-  - [TAXi](https://ja.wikipedia.org/wiki/TAXi "wikilink")（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")）
+  - [TAXi](../Page/TAXi.md "wikilink")（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")）
   - [TAXi2](https://ja.wikipedia.org/wiki/TAXi2 "wikilink")（[2000年](../Page/2000年.md "wikilink")）
-  - [TAXi3](https://ja.wikipedia.org/wiki/TAXi3 "wikilink")（[2002年](../Page/2002年.md "wikilink")）
-  - [TAXi4](https://ja.wikipedia.org/wiki/TAXi4 "wikilink")（[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")）
+  - [TAXi3](../Page/TAXi3.md "wikilink")（[2002年](../Page/2002年.md "wikilink")）
+  - [TAXi4](../Page/TAXi4.md "wikilink")（[2007年](../Page/2007年.md "wikilink")）
   - [TAXi ダイヤモンド・ミッション](https://ja.wikipedia.org/wiki/TAXi_ダイヤモンド・ミッション "wikilink")（2018年）
 
 ## 外部リンク

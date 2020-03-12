@@ -5,7 +5,7 @@
 
 「倭製ジェロニモ&ラブゲリラエクスペリエンス」としてメジャーデビュー後、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に通称「倭ジェロ」を、そのまま改名する。
 
-「ジェロニモ」は『[キン肉マン](../Page/キン肉マン.md "wikilink")』の登場人物「[ジェロニモ](https://ja.wikipedia.org/wiki/ジェロニモ_\(キン肉マン\) "wikilink")」より拝借。神戸在住で全国的にライブを展開していたが、2009年1月に解散。
+「ジェロニモ」は『[キン肉マン](../Page/キン肉マン.md "wikilink")』の登場人物「[ジェロニモ](../Page/ジェロニモ_\(キン肉マン\).md "wikilink")」より拝借。神戸在住で全国的にライブを展開していたが、2009年1月に解散。
 
 ## メンバー
 
@@ -37,19 +37,19 @@
   - [2002年](../Page/2002年.md "wikilink")
       - バンド名を「倭製ジェロニモ&メル・ギブソンズ」から「倭製ジェロニモ&ラブゲリラエクスペリエンス」に改名
       - インディーレーベルより全国展開のCDを発売
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") - ミニアルバム「アウトサイド」でメジャーデビュー
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink") - シングル「Dream On Ice」をリリース全国各地のラジオ局でパワープレイを獲得
+  - [2005年](../Page/2005年.md "wikilink") - ミニアルバム「アウトサイド」でメジャーデビュー
+  - [2006年](../Page/2006年.md "wikilink") - シングル「Dream On Ice」をリリース全国各地のラジオ局でパワープレイを獲得
       - [Kiss-FM KOBE](https://ja.wikipedia.org/wiki/兵庫エフエム放送 "wikilink") KOBE「メリケンパンチアウト」番組スタート
-      - \- シングル「ALRIGHT」（[テレビ東京系](https://ja.wikipedia.org/wiki/TXN "wikilink")『[スパイダーライダーズ 〜オラクルの勇者たち〜](https://ja.wikipedia.org/wiki/スパイダーライダーズ_〜オラクルの勇者たち〜 "wikilink")』オープニングテーマ）をリリース
+      - \- シングル「ALRIGHT」（[テレビ東京系](https://ja.wikipedia.org/wiki/TXN "wikilink")『[スパイダーライダーズ 〜オラクルの勇者たち〜](../Page/スパイダーライダーズ_〜オラクルの勇者たち〜.md "wikilink")』オープニングテーマ）をリリース
       - [ニッポン放送](../Page/ニッポン放送.md "wikilink")系[深夜放送](../Page/深夜放送.md "wikilink")『[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")』[ジングル](https://ja.wikipedia.org/wiki/ジングル "wikilink")をこの年から手がける
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink") - ミニアルバム「TRIPPN' CIRCUS」をリリース
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") - [Dr.コパ](https://ja.wikipedia.org/wiki/Dr.コパ "wikilink")の命名でバンド名を「\!wagero\!」に改名。
+  - [2007年](../Page/2007年.md "wikilink") - ミニアルバム「TRIPPN' CIRCUS」をリリース
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") - [Dr.コパ](../Page/Dr.コパ.md "wikilink")の命名でバンド名を「\!wagero\!」に改名。
       - 神戸STAR CLUBにて51連発ライブを無謀にも行う。
       - メンバーの長年の夢だった\!wagero\!×[キン肉マン](../Page/キン肉マン.md "wikilink")コラボＴシャツを制作
       - \- 改名第一弾シングル「花」（[TBS系](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")『[むちゃぶり](https://ja.wikipedia.org/wiki/むちゃぶり "wikilink")』エンディングテーマ）をリリース
-      - \- 改名第一弾ファーストフルアルバム「\!wagero\!」をリリース（M1.花 meets 上中丈弥（[THEイナズマ戦隊](https://ja.wikipedia.org/wiki/THE_イナズマ戦隊 "wikilink")）がTBS系『[チューボーですよ\!](https://ja.wikipedia.org/wiki/チューボーですよ! "wikilink")』エンディングテーマに起用）
-      - バンド結成10周年記念イベント「WA-FES」を大阪[服部緑地](https://ja.wikipedia.org/wiki/服部緑地 "wikilink")野外音楽堂で行う
-  - [2009年](../Page/2009年.md "wikilink") - 1月29日、神戸[チキンジョージ](https://ja.wikipedia.org/wiki/チキンジョージ "wikilink")でのライブを以って解散（新装開店後の観客動員記録を更新）
+      - \- 改名第一弾ファーストフルアルバム「\!wagero\!」をリリース（M1.花 meets 上中丈弥（[THEイナズマ戦隊](../Page/THE_イナズマ戦隊.md "wikilink")）がTBS系『[チューボーですよ\!](../Page/チューボーですよ!.md "wikilink")』エンディングテーマに起用）
+      - バンド結成10周年記念イベント「WA-FES」を大阪[服部緑地](../Page/服部緑地.md "wikilink")野外音楽堂で行う
+  - [2009年](../Page/2009年.md "wikilink") - 1月29日、神戸[チキンジョージ](../Page/チキンジョージ.md "wikilink")でのライブを以って解散（新装開店後の観客動員記録を更新）
 
 ## ディスコグラフィー
 
@@ -82,7 +82,7 @@
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2004年" title="wikilink">2004年</a><a href="../Page/3月24日.md" title="wikilink">3月24日</a></p></td>
+<td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><a href="../Page/3月24日.md" title="wikilink">3月24日</a></p></td>
 <td><p><strong>プロペラ</strong></p></td>
 <td><p>DDCF-2006</p></td>
 <td><ol>
@@ -95,7 +95,7 @@
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/1月18日.md" title="wikilink">1月18日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/1月18日.md" title="wikilink">1月18日</a></p></td>
 <td><p><strong>Dream On Ice</strong></p></td>
 <td><p>BVCR-19673</p></td>
 <td><ol>
@@ -107,20 +107,20 @@
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/5月24日.md" title="wikilink">5月24日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/5月24日.md" title="wikilink">5月24日</a></p></td>
 <td><p><strong>ALRIGHT</strong></p></td>
 <td><p>BVCR-19679</p></td>
 <td><ol>
 <li>ALRIGHT</li>
 <li>ファイターズ</li>
 </ol>
-<p><a href="https://ja.wikipedia.org/wiki/tXN" title="wikilink">テレビ東京系アニメ</a>『<a href="https://ja.wikipedia.org/wiki/スパイダーライダーズ_〜オラクルの勇者たち〜" title="wikilink">スパイダーライダーズ 〜オラクルの勇者たち〜</a>』オープニングテーマ</p></td>
+<p><a href="https://ja.wikipedia.org/wiki/tXN" title="wikilink">テレビ東京系アニメ</a>『<a href="../Page/スパイダーライダーズ_〜オラクルの勇者たち〜.md" title="wikilink">スパイダーライダーズ 〜オラクルの勇者たち〜</a>』オープニングテーマ</p></td>
 <td><p>BMG JAPAN<br />
 オリコン最高174位</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="https://ja.wikipedia.org/wiki/12月19日" title="wikilink">12月19日</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="https://ja.wikipedia.org/wiki/12月19日" title="wikilink">12月19日</a></p></td>
 <td><p><strong>BOOTRACKS</strong></p></td>
 <td></td>
 <td><ol>
@@ -140,11 +140,11 @@
 <td><ol>
 <li>花</li>
 <li>俺は希望の星</li>
-<li>ありがとう（<a href="https://ja.wikipedia.org/wiki/井上陽水奥田民生" title="wikilink">井上陽水奥田民生</a>のカバー）</li>
+<li>ありがとう（<a href="../Page/井上陽水奥田民生.md" title="wikilink">井上陽水奥田民生</a>のカバー）</li>
 <li>キン肉マンGo Fight!
 <dl>
 <dt></dt>
-<dd>ボーナストラック。<a href="https://ja.wikipedia.org/wiki/串田アキラ" title="wikilink">串田アキラ</a>のカバー。
+<dd>ボーナストラック。<a href="../Page/串田アキラ.md" title="wikilink">串田アキラ</a>のカバー。
 </dd>
 <dd>TBS系『<a href="https://ja.wikipedia.org/wiki/むちゃぶり" title="wikilink">むちゃぶり</a>』エンディングテーマ
 </dd>
@@ -248,7 +248,7 @@
 </tr>
 <tr class="odd">
 <td><p>1st mini</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/9月7日.md" title="wikilink">9月7日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/9月7日.md" title="wikilink">9月7日</a></p></td>
 <td><p><strong>アウトサイド</strong></p></td>
 <td><p>BVCR-18049</p></td>
 <td><ol>
@@ -258,13 +258,13 @@
 <li>リボルバー</li>
 <li>マシンガンサンデー</li>
 </ol>
-<p>「アウトサイド」は<a href="https://ja.wikipedia.org/wiki/Japan_News_Network" title="wikilink">TBS系列</a>『<a href="https://ja.wikipedia.org/wiki/COUNT_DOWN_TV" title="wikilink">COUNT DOWN TV</a>』エンディングテーマ</p></td>
+<p>「アウトサイド」は<a href="https://ja.wikipedia.org/wiki/Japan_News_Network" title="wikilink">TBS系列</a>『<a href="../Page/COUNT_DOWN_TV.md" title="wikilink">COUNT DOWN TV</a>』エンディングテーマ</p></td>
 <td><p>BMG JAPAN<br />
 オリコン圏外</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd mini</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="../Page/4月11日.md" title="wikilink">4月11日</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/4月11日.md" title="wikilink">4月11日</a></p></td>
 <td><p><strong>TRIPPIN' CIRCUS</strong></p></td>
 <td><p>BVCR-18095</p></td>
 <td><ol>
@@ -275,7 +275,7 @@
 <li>月とプルート</li>
 <li>STRUT_over the underpass</li>
 </ol>
-<p>「スクリーム」は<a href="https://ja.wikipedia.org/wiki/MBSテレビ" title="wikilink">毎日放送</a>2007年<a href="https://ja.wikipedia.org/wiki/阪神タイガース" title="wikilink">阪神タイガース</a>戦<a href="https://ja.wikipedia.org/wiki/SAMURAI_BASEBALL#MBS（阪神戦）" title="wikilink">プロ野球中継テーマ曲</a> (関西ローカル)</p></td>
+<p>「スクリーム」は<a href="https://ja.wikipedia.org/wiki/MBSテレビ" title="wikilink">毎日放送</a>2007年<a href="../Page/阪神タイガース.md" title="wikilink">阪神タイガース</a>戦<a href="https://ja.wikipedia.org/wiki/SAMURAI_BASEBALL#MBS（阪神戦）" title="wikilink">プロ野球中継テーマ曲</a> (関西ローカル)</p></td>
 <td><p>BMG JAPAN<br />
 オリコン圏外</p></td>
 </tr>
@@ -285,7 +285,7 @@
 <td><p><strong>!wagero!</strong></p></td>
 <td><p>BVCR-11120</p></td>
 <td><ol>
-<li>花 meets 上中丈弥（<a href="https://ja.wikipedia.org/wiki/THE_イナズマ戦隊" title="wikilink">THEイナズマ戦隊</a>）</li>
+<li>花 meets 上中丈弥（<a href="../Page/THE_イナズマ戦隊.md" title="wikilink">THEイナズマ戦隊</a>）</li>
 <li>バンドワゴン〜唄う男の永遠の旅〜</li>
 <li>俺は希望の星 meets 増子直純（<a href="https://ja.wikipedia.org/wiki/怒髪天" title="wikilink">怒髪天</a>）</li>
 <li>interlude〜Geronimo March〜</li>
@@ -299,7 +299,7 @@
 <li>キン肉マンGo Fight!（Album Version）※BONUS TRACK</li>
 <li>outr〜Geronimo March＜EXIT＞〜※BONUS TRACK</li>
 </ol>
-<p>「花 meets 上中丈弥（<a href="https://ja.wikipedia.org/wiki/THE_イナズマ戦隊" title="wikilink">THEイナズマ戦隊</a>）」はTBS系全国ネット『<a href="https://ja.wikipedia.org/wiki/チューボーですよ!" title="wikilink">チューボーですよ!</a>』のエンディングテーマ</p></td>
+<p>「花 meets 上中丈弥（<a href="../Page/THE_イナズマ戦隊.md" title="wikilink">THEイナズマ戦隊</a>）」はTBS系全国ネット『<a href="../Page/チューボーですよ!.md" title="wikilink">チューボーですよ!</a>』のエンディングテーマ</p></td>
 <td><p>BMG JAPAN<br />
 オリコン圏外</p></td>
 </tr>
@@ -331,9 +331,9 @@
 
 ## 出演
 
-  - 2005年10月15日 - TBS系「[開運音楽堂](https://ja.wikipedia.org/wiki/開運音楽堂 "wikilink")」
+  - 2005年10月15日 - TBS系「[開運音楽堂](../Page/開運音楽堂.md "wikilink")」
   - 2005年12月09日 - NHK「[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")」
-  - 2007年04月05日 - テレビ東京系「[PVTV](https://ja.wikipedia.org/wiki/PVTV "wikilink")」
+  - 2007年04月05日 - テレビ東京系「[PVTV](../Page/PVTV.md "wikilink")」
   - 2008年07月24日 - NHK「[大阪発疾走ステージ WEST WIND](../Page/大阪発疾走ステージ_WEST_WIND.md "wikilink")」
 
 ## 主なライブ
@@ -346,7 +346,7 @@
   - 2005年10月23日 - MINAMI WHEEL 2005
   - 2006年05月13日 - GOING KOBE 06
   - 2006年08月14日 - TREASURE052 2006 ～flame of youth～
-  - 2006年08月26日 - [MONSTER baSH](https://ja.wikipedia.org/wiki/MONSTER_baSH "wikilink") 2006
+  - 2006年08月26日 - [MONSTER baSH](../Page/MONSTER_baSH.md "wikilink") 2006
   - 2007年05月27日 - GOING KOBE 07
   - 2007年08月19日 - TREASURE05X 2007 ～30th road goes on 1st day～
   - 2008年05月03日 - GOING KOBE 08

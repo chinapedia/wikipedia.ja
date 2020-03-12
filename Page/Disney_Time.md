@@ -1,7 +1,7 @@
 > この記事は[Disney Time](https://ja.wikipedia.org/wiki/Disney_Time)から翻訳されています。
 
 
-**Disney Time**（ディズニータイム）は2000年10月5日から2012年9月28日まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")[系列で放送された](../Page/TXNネットワーク.md "wikilink")[ディズニーの番組](https://ja.wikipedia.org/wiki/ウォルト・ディズニー・カンパニー "wikilink")。[副音声](https://ja.wikipedia.org/wiki/副音声 "wikilink")による[二ヵ国語放送](https://ja.wikipedia.org/wiki/2か国語放送 "wikilink")（モノラル[二重音声](../Page/音声多重放送.md "wikilink")）を実施。
+**Disney Time**（ディズニータイム）は2000年10月5日から2012年9月28日まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")[系列で放送された](../Page/TXNネットワーク.md "wikilink")[ディズニーの番組](../Page/ウォルト・ディズニー・カンパニー.md "wikilink")。[副音声](https://ja.wikipedia.org/wiki/副音声 "wikilink")による[二ヵ国語放送](../Page/2か国語放送.md "wikilink")（モノラル[二重音声](../Page/音声多重放送.md "wikilink")）を実施。
 
 ## 概要
 
@@ -25,18 +25,18 @@
 | [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")                                  | [テレビ愛知](../Page/テレビ愛知.md "wikilink")                    |         |
 | [大阪府](../Page/大阪府.md "wikilink")                                                     | [テレビ大阪](../Page/テレビ大阪.md "wikilink")                    |         |
 | [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")・[香川県](../Page/香川県.md "wikilink") | [テレビせとうち](../Page/テレビせとうち.md "wikilink")                |         |
-| [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")                                  | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink")                |         |
+| [福岡県](../Page/福岡県.md "wikilink")                                                     | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink")                |         |
 
 [テレビ東京系列](../Page/TXNネットワーク.md "wikilink")
 
-| 放送対象地域                                              | 放送局                                        | 放送期間                    | 放送時間            | 備考    |
-| --------------------------------------------------- | ------------------------------------------ | ----------------------- | --------------- | ----- |
-| [秋田県](../Page/秋田県.md "wikilink")                    | [秋田朝日放送](../Page/秋田朝日放送.md "wikilink")     |                         |                 |       |
-| [山形県](https://ja.wikipedia.org/wiki/山形県 "wikilink") | [テレビユー山形](../Page/テレビユー山形.md "wikilink")   |                         |                 |       |
-| [山梨県](../Page/山梨県.md "wikilink")                    | [テレビ山梨](../Page/テレビ山梨.md "wikilink")       |                         |                 |       |
-| [広島県](../Page/広島県.md "wikilink")                    | [広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink") | 2007年11月10日 - 2008年5月3日 | 土曜06:00 - 06:30 | \[2\] |
-| [長崎県](../Page/長崎県.md "wikilink")                    | [長崎国際テレビ](../Page/長崎国際テレビ.md "wikilink")   |                         | 土曜朝             |       |
-| [大分県](../Page/大分県.md "wikilink")                    | [大分朝日放送](../Page/大分朝日放送.md "wikilink")     |                         |                 |       |
+| 放送対象地域                           | 放送局                                        | 放送期間                    | 放送時間            | 備考    |
+| -------------------------------- | ------------------------------------------ | ----------------------- | --------------- | ----- |
+| [秋田県](../Page/秋田県.md "wikilink") | [秋田朝日放送](../Page/秋田朝日放送.md "wikilink")     |                         |                 |       |
+| [山形県](../Page/山形県.md "wikilink") | [テレビユー山形](../Page/テレビユー山形.md "wikilink")   |                         |                 |       |
+| [山梨県](../Page/山梨県.md "wikilink") | [テレビ山梨](../Page/テレビ山梨.md "wikilink")       |                         |                 |       |
+| [広島県](../Page/広島県.md "wikilink") | [広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink") | 2007年11月10日 - 2008年5月3日 | 土曜06:00 - 06:30 | \[2\] |
+| [長崎県](../Page/長崎県.md "wikilink") | [長崎国際テレビ](../Page/長崎国際テレビ.md "wikilink")   |                         | 土曜朝             |       |
+| [大分県](../Page/大分県.md "wikilink") | [大分朝日放送](../Page/大分朝日放送.md "wikilink")     |                         |                 |       |
 
 その他
 
@@ -44,43 +44,43 @@
 
 ## 出演
 
-| 期間                  | 出演者                                                             |
-| ------------------- | --------------------------------------------------------------- |
-| 2000年10月 - 2001年3月  | [FLIP-FLAP](https://ja.wikipedia.org/wiki/FLIP-FLAP "wikilink") |
-| 2001年4月 - 2002年3月   | [川平慈英](../Page/川平慈英.md "wikilink")                              |
-| 2002年4月 - 2003年3月   | 川平慈英                                                            |
-| 2003年4月 - 2005年3月   | SAYAKA（現・[神田沙也加](../Page/神田沙也加.md "wikilink")）                  |
-| 2005年4月 - 2007年3月   | [濱口優](../Page/濱口優.md "wikilink")                                |
-| 2007年4月 - 2008年3月   | [下田奈奈](https://ja.wikipedia.org/wiki/下田奈奈 "wikilink")           |
-| 2008年4月 - 2010年10月  | [林愛夏](https://ja.wikipedia.org/wiki/林愛夏 "wikilink")             |
-| 2010年10月 - 2011年3月  | [菊地時音](https://ja.wikipedia.org/wiki/菊地時音 "wikilink")           |
-| 2011年5月 - 2011年9月   | 礒村ミラ                                                            |
-| 2011年10月 - 2011年12月 | [高樹リサ](../Page/高樹リサ.md "wikilink")                              |
-| 2012年1月 - 2012年9月   | 中村真菜                                                            |
+| 期間                  | 出演者                                                   |
+| ------------------- | ----------------------------------------------------- |
+| 2000年10月 - 2001年3月  | [FLIP-FLAP](../Page/FLIP-FLAP.md "wikilink")          |
+| 2001年4月 - 2002年3月   | [川平慈英](../Page/川平慈英.md "wikilink")                    |
+| 2002年4月 - 2003年3月   | 川平慈英                                                  |
+| 2003年4月 - 2005年3月   | SAYAKA（現・[神田沙也加](../Page/神田沙也加.md "wikilink")）        |
+| 2005年4月 - 2007年3月   | [濱口優](../Page/濱口優.md "wikilink")                      |
+| 2007年4月 - 2008年3月   | [下田奈奈](../Page/下田奈奈.md "wikilink")                    |
+| 2008年4月 - 2010年10月  | [林愛夏](https://ja.wikipedia.org/wiki/林愛夏 "wikilink")   |
+| 2010年10月 - 2011年3月  | [菊地時音](https://ja.wikipedia.org/wiki/菊地時音 "wikilink") |
+| 2011年5月 - 2011年9月   | 礒村ミラ                                                  |
+| 2011年10月 - 2011年12月 | [高樹リサ](../Page/高樹リサ.md "wikilink")                    |
+| 2012年1月 - 2012年9月   | 中村真菜                                                  |
 
 ### 出演者の備考
 
   - 東野佑美は「ユミニー」、SAYAKAは「サーヤ」の名前で番組に出ていた。
   - 森野あすかはその後[ドラマ](https://ja.wikipedia.org/wiki/テレビ東京月曜10時枠の連続ドラマ "wikilink")『[鈴木先生](../Page/鈴木先生.md "wikilink")』にレギュラー出演が決まり、ドラマの撮影を優先させたため、2011年3月11日放送分をもって卒業。
   - 内田純は森野と同じく2011年3月11日放送分をもって卒業したが、ロケコーナー放送再開直後の同年5月13日放送分では視聴者参加によるロケでの助っ人として出演（ただし、収録は震災前に行われた）。
-  - 白本彩奈は2012年1月から3月まで放送されていた[ドラマ](https://ja.wikipedia.org/wiki/木曜劇場 "wikilink")『[最後から二番目の恋](https://ja.wikipedia.org/wiki/最後から二番目の恋 "wikilink")』（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）にレギュラー出演していたため、2011年12月23日放送分をもって降板。遠山宗も同日放送分で降板したが、降板理由は明かしていない。
+  - 白本彩奈は2012年1月から3月まで放送されていた[ドラマ](../Page/木曜劇場.md "wikilink")『[最後から二番目の恋](https://ja.wikipedia.org/wiki/最後から二番目の恋 "wikilink")』（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）にレギュラー出演していたため、2011年12月23日放送分をもって降板。遠山宗も同日放送分で降板したが、降板理由は明かしていない。
 
 ## 放送内容
 
-  - [ディズニークラシック短編集](https://ja.wikipedia.org/wiki/ディズニークラシック短編集 "wikilink")
+  - [ディズニークラシック短編集](../Page/ディズニークラシック短編集.md "wikilink")
   - [アラジンの大冒険](https://ja.wikipedia.org/wiki/アラジンの大冒険 "wikilink")
-  - [キム・ポッシブル](https://ja.wikipedia.org/wiki/キム・ポッシブル "wikilink")
+  - [キム・ポッシブル](../Page/キム・ポッシブル.md "wikilink")
   - [新くまのプーさん](../Page/新くまのプーさん.md "wikilink")
   - [リロ・アンド・スティッチ　ザ・シリーズ](https://ja.wikipedia.org/wiki/リロ・アンド・スティッチ_ザ・シリーズ "wikilink")
-  - [チップとデールの大作戦](https://ja.wikipedia.org/wiki/チップとデールの大作戦 "wikilink")
-  - [ハウス・オブ・マウス](https://ja.wikipedia.org/wiki/ハウス・オブ・マウス "wikilink")
+  - [チップとデールの大作戦](../Page/チップとデールの大作戦.md "wikilink")
+  - [ハウス・オブ・マウス](../Page/ハウス・オブ・マウス.md "wikilink")
   - [ミッキーマウス・ワークス](https://ja.wikipedia.org/wiki/:en:Mickey_Mouse_Works "wikilink")
   - [リセス 〜ぼくらの休み時間〜](../Page/リセス_〜ぼくらの休み時間〜.md "wikilink")
-  - [リトル・アインシュタイン](https://ja.wikipedia.org/wiki/リトル・アインシュタイン "wikilink")
+  - [リトル・アインシュタイン](../Page/リトル・アインシュタイン.md "wikilink")
   - [おたすけマニー](https://ja.wikipedia.org/wiki/おたすけマニー "wikilink")
   - [カーズトゥーン メーターの世界つくり話](https://ja.wikipedia.org/wiki/カーズトゥーン_メーターの世界つくり話 "wikilink")
   - [フィニアスとファーブ](https://ja.wikipedia.org/wiki/フィニアスとファーブ "wikilink")
-  - [ミッキーマウス クラブハウス](https://ja.wikipedia.org/wiki/ミッキーマウス_クラブハウス "wikilink")
+  - [ミッキーマウス クラブハウス](../Page/ミッキーマウス_クラブハウス.md "wikilink")
   - [プーさんといっしょ](https://ja.wikipedia.org/wiki/プーさんといっしょ "wikilink")
   - [リトル・マーメイド](https://ja.wikipedia.org/wiki/リトル・マーメイド "wikilink")
   - [101匹わんちゃん](https://ja.wikipedia.org/wiki/101匹わんちゃん_\(TVシリーズ\) "wikilink")
@@ -110,7 +110,7 @@
   - プロデューサー：佐久間大介
   - 演出・プロデューサー：柴田裕正
   - エグゼクティブプロデューサー：石崎礼子（ディズニー）
-  - 協力：[東京ディズニーリゾート](../Page/東京ディズニーリゾート.md "wikilink")、[ニューテレス](https://ja.wikipedia.org/wiki/ニユーテレス "wikilink")、[フジアール](../Page/フジアール.md "wikilink")
+  - 協力：[東京ディズニーリゾート](../Page/東京ディズニーリゾート.md "wikilink")、[ニューテレス](../Page/ニユーテレス.md "wikilink")、[フジアール](../Page/フジアール.md "wikilink")
   - 制作協力：[avex\&EAST](https://ja.wikipedia.org/wiki/エイベックス&イースト "wikilink")→[EAST](https://ja.wikipedia.org/wiki/イースト・エンタテインメント "wikilink")
   - 制作：ウォルト・ディズニー・テレビジョン・インターナショナル ジャパン
 
@@ -144,7 +144,7 @@
 
 <!-- end list -->
 
-  - [FLIP-FLAP](https://ja.wikipedia.org/wiki/FLIP-FLAP "wikilink") - 『ディズニー・トゥーン・タウン』（1999年4月 - 2000年3月）と『フライデーディズニー』に出演。
+  - [FLIP-FLAP](../Page/FLIP-FLAP.md "wikilink") - 『ディズニー・トゥーン・タウン』（1999年4月 - 2000年3月）と『フライデーディズニー』に出演。
 
 ## サンデー\!CLUB Disney
 
@@ -160,15 +160,15 @@
   -
     {| class="wikitable" style="font-size:small;"
 
-\!放送対象地域\!\!放送局||放送基準 |- |[関東広域圏](../Page/広域放送.md "wikilink")||[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")||**制作局** |- |[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")||[テレビ北海道](../Page/テレビ北海道.md "wikilink")||rowspan="5"|同時ネット |- |[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")|| [テレビ愛知](../Page/テレビ愛知.md "wikilink") |- |[大阪府](../Page/大阪府.md "wikilink")||[テレビ大阪](../Page/テレビ大阪.md "wikilink") |- |[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")・[香川県](../Page/香川県.md "wikilink")||[テレビせとうち](../Page/テレビせとうち.md "wikilink") |- |[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")||[TVQ九州放送](../Page/TVQ九州放送.md "wikilink") |}
+\!放送対象地域\!\!放送局||放送基準 |- |[関東広域圏](../Page/広域放送.md "wikilink")||[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")||**制作局** |- |[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")||[テレビ北海道](../Page/テレビ北海道.md "wikilink")||rowspan="5"|同時ネット |- |[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")|| [テレビ愛知](../Page/テレビ愛知.md "wikilink") |- |[大阪府](../Page/大阪府.md "wikilink")||[テレビ大阪](../Page/テレビ大阪.md "wikilink") |- |[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")・[香川県](../Page/香川県.md "wikilink")||[テレビせとうち](../Page/テレビせとうち.md "wikilink") |- |[福岡県](../Page/福岡県.md "wikilink")||[TVQ九州放送](../Page/TVQ九州放送.md "wikilink") |}
 
   - 出演者
 
 <!-- end list -->
 
-  - [ドロンズ](https://ja.wikipedia.org/wiki/ドロンズ "wikilink")
+  - [ドロンズ](../Page/ドロンズ.md "wikilink")
   - [浜丘麻矢](../Page/浜丘麻矢.md "wikilink")
-  - [FLIP-FLAP](https://ja.wikipedia.org/wiki/FLIP-FLAP "wikilink")
+  - [FLIP-FLAP](../Page/FLIP-FLAP.md "wikilink")
 
 ## サンデーディズニー
 
@@ -184,13 +184,13 @@
   -
     {| class="wikitable" style="font-size:small;"
 
-\!放送対象地域\!\!放送局||放送基準 |- |[関東広域圏](../Page/広域放送.md "wikilink")||[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")||**制作局** |- |[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")||[テレビ北海道](../Page/テレビ北海道.md "wikilink")||rowspan="5"|同時ネット |- |[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")|| [テレビ愛知](../Page/テレビ愛知.md "wikilink") |- |[大阪府](../Page/大阪府.md "wikilink")||[テレビ大阪](../Page/テレビ大阪.md "wikilink") |- |[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")・[香川県](../Page/香川県.md "wikilink")||[テレビせとうち](../Page/テレビせとうち.md "wikilink") |- |[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")||[TVQ九州放送](../Page/TVQ九州放送.md "wikilink") |}
+\!放送対象地域\!\!放送局||放送基準 |- |[関東広域圏](../Page/広域放送.md "wikilink")||[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")||**制作局** |- |[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")||[テレビ北海道](../Page/テレビ北海道.md "wikilink")||rowspan="5"|同時ネット |- |[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")|| [テレビ愛知](../Page/テレビ愛知.md "wikilink") |- |[大阪府](../Page/大阪府.md "wikilink")||[テレビ大阪](../Page/テレビ大阪.md "wikilink") |- |[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")・[香川県](../Page/香川県.md "wikilink")||[テレビせとうち](../Page/テレビせとうち.md "wikilink") |- |[福岡県](../Page/福岡県.md "wikilink")||[TVQ九州放送](../Page/TVQ九州放送.md "wikilink") |}
 
   - 出演者
 
 <!-- end list -->
 
-  - [FLIP-FLAP](https://ja.wikipedia.org/wiki/FLIP-FLAP "wikilink")
+  - [FLIP-FLAP](../Page/FLIP-FLAP.md "wikilink")
 
 ## ディズニー・サンデー
 
@@ -211,7 +211,7 @@
 | [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")                                  | [テレビ愛知](../Page/テレビ愛知.md "wikilink")                    |         |
 | [大阪府](../Page/大阪府.md "wikilink")                                                     | [テレビ大阪](../Page/テレビ大阪.md "wikilink")                    |         |
 | [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")・[香川県](../Page/香川県.md "wikilink") | [テレビせとうち](../Page/テレビせとうち.md "wikilink")                |         |
-| [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")                                  | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink")                |         |
+| [福岡県](../Page/福岡県.md "wikilink")                                                     | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink")                |         |
 
 ### 放送作品
 
@@ -290,10 +290,10 @@
 
 [TOKYO MXのディズニータイムはアニメのみの放送でテレビ東京版とは異なる内容](../Page/東京メトロポリタンテレビジョン.md "wikilink")。
 
-| 番組名           | 放送局                                               | 放送時間                                                          | 番組終了時のアニメ                                                                                                                 |
-| ------------- | ------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| ディズニータイム      | [TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink") | 日曜17:30-18:00                                                 | [リロアンドスティッチ　ザ・シリーズ](https://ja.wikipedia.org/wiki/リロ・アンド・スティッチ#リロ_アンド_スティッチ_ザ・シリーズ（Lilo_&_Stitch:_The_Series） "wikilink") |
-| ディズニータイムアンコール | 日曜16:30-17:00                                     | [キム・ポッシブル](https://ja.wikipedia.org/wiki/キム・ポッシブル "wikilink") |                                                                                                                           |
+| 番組名           | 放送局                                               | 放送時間                                       | 番組終了時のアニメ                                                                                                                 |
+| ------------- | ------------------------------------------------- | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
+| ディズニータイム      | [TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink") | 日曜17:30-18:00                              | [リロアンドスティッチ　ザ・シリーズ](https://ja.wikipedia.org/wiki/リロ・アンド・スティッチ#リロ_アンド_スティッチ_ザ・シリーズ（Lilo_&_Stitch:_The_Series） "wikilink") |
+| ディズニータイムアンコール | 日曜16:30-17:00                                     | [キム・ポッシブル](../Page/キム・ポッシブル.md "wikilink") |                                                                                                                           |
 
 ## 脚注
 
@@ -307,12 +307,12 @@
 [Category:2000年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2000年のテレビ番組_\(日本\) "wikilink") [Category:テレビ東京の子供向け番組](https://ja.wikipedia.org/wiki/Category:テレビ東京の子供向け番組 "wikilink") [Category:テレビ東京のバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京のバラエティ番組の歴史 "wikilink") [Category:東京ディズニーリゾートのテレビ番組](https://ja.wikipedia.org/wiki/Category:東京ディズニーリゾートのテレビ番組 "wikilink") [Category:よゐこ](https://ja.wikipedia.org/wiki/Category:よゐこ "wikilink") [Category:イースト](https://ja.wikipedia.org/wiki/Category:イースト "wikilink") [Category:ハウフルス](https://ja.wikipedia.org/wiki/Category:ハウフルス "wikilink")
 
 1.  [東京ディズニーランド](https://ja.wikipedia.org/wiki/東京ディズニーランド "wikilink")（以下、ランド）及び[東京ディズニーシー](../Page/東京ディズニーシー.md "wikilink")（以下、シー）が震災の影響で営業を休止していたため（その後、ランドは開園記念日の4月15日、シーは4月28日にそれぞれ営業を再開した）。
-2.  木曜日の「[ミッキーマウス クラブハウス](https://ja.wikipedia.org/wiki/ミッキーマウス_クラブハウス "wikilink")」を放送（「カエルになったドナルド」の話から）
+2.  木曜日の「[ミッキーマウス クラブハウス](../Page/ミッキーマウス_クラブハウス.md "wikilink")」を放送（「カエルになったドナルド」の話から）
 3.  [Dlife](https://ja.wikipedia.org/wiki/Dlife "wikilink")アプリでも配信中
-4.  最新エピソードは[ディズニー・チャンネル](https://ja.wikipedia.org/wiki/ディズニー・チャンネル "wikilink")で放送
+4.  最新エピソードは[ディズニー・チャンネル](../Page/ディズニー・チャンネル.md "wikilink")で放送
 5.  第11話「ナビダーのお祝い」ではディズニー・チャンネルより日本初放送された。
 6.
-7.  2019年1月20日放送分での第29話「ふたりはライバル／ハッピー・ヘルパー・ヘルパー」以降における[ミッキーマウス](../Page/ミッキーマウス.md "wikilink")の担当声優は[青柳隆志](../Page/青柳隆志.md "wikilink")から[星野貴紀](https://ja.wikipedia.org/wiki/星野貴紀 "wikilink")に変更された（ただし、2019年2月10日放送分での第32話「ちいさなレーサー／ふねのうえのダンスたいかい」を除く）。
+7.  2019年1月20日放送分での第29話「ふたりはライバル／ハッピー・ヘルパー・ヘルパー」以降における[ミッキーマウス](../Page/ミッキーマウス.md "wikilink")の担当声優は[青柳隆志](../Page/青柳隆志.md "wikilink")から[星野貴紀](../Page/星野貴紀.md "wikilink")に変更された（ただし、2019年2月10日放送分での第32話「ちいさなレーサー／ふねのうえのダンスたいかい」を除く）。
 8.
 9.  2015年10月4日 - 18日・11月8日・12月27日・2016年1月10日・2月7日・3月6日・13日・5月22日・6月12日・7月17日・24日・9月4日・25日・11月13日・2017年1月8日・2月12日・2018年4月1日・8日
 10.

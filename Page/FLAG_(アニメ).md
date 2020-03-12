@@ -1,9 +1,9 @@
 > この記事は[FLAG \(\)](https://ja.wikipedia.org/wiki/FLAG_\(\))から翻訳されています。
 
 
-『**FLAG**』（フラッグ）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink")に[バンダイチャンネル](https://ja.wikipedia.org/wiki/バンダイチャンネル "wikilink")より放送された全13話の[Webアニメ](https://ja.wikipedia.org/wiki/Webアニメ "wikilink")作品である。その後[CS放送](https://ja.wikipedia.org/wiki/CS放送 "wikilink")などで放送され、[2009年](../Page/2009年.md "wikilink")[1月3日](../Page/1月3日.md "wikilink")からは[TOKYO MXで地上波初放送される](../Page/東京メトロポリタンテレビジョン.md "wikilink")。同年2月22日NHK BS-hiのアニメ映画劇場枠で、総集編である「FLAG 一千万のクフラの記録」が放送された。
+『**FLAG**』（フラッグ）は、[2006年](../Page/2006年.md "wikilink")[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink")に[バンダイチャンネル](../Page/バンダイチャンネル.md "wikilink")より放送された全13話の[Webアニメ](../Page/Webアニメ.md "wikilink")作品である。その後[CS放送](https://ja.wikipedia.org/wiki/CS放送 "wikilink")などで放送され、[2009年](../Page/2009年.md "wikilink")[1月3日](../Page/1月3日.md "wikilink")からは[TOKYO MXで地上波初放送される](../Page/東京メトロポリタンテレビジョン.md "wikilink")。同年2月22日NHK BS-hiのアニメ映画劇場枠で、総集編である「FLAG 一千万のクフラの記録」が放送された。
 
-[チベット](https://ja.wikipedia.org/wiki/チベット "wikilink")をモデル\[1\]とする[中央アジア](../Page/中央アジア.md "wikilink")の架空の小国ウディヤーナの内戦を、[カメラマン](../Page/カメラマン.md "wikilink")白州冴子を主人公として描く。第三者視点を一切廃し、一人称主観の[カメラ](../Page/カメラ.md "wikilink")[ファインダー](https://ja.wikipedia.org/wiki/ファインダー "wikilink")を示す画面でストーリーが進行する。
+[チベット](https://ja.wikipedia.org/wiki/チベット "wikilink")をモデル\[1\]とする[中央アジア](../Page/中央アジア.md "wikilink")の架空の小国ウディヤーナの内戦を、[カメラマン](../Page/カメラマン.md "wikilink")白州冴子を主人公として描く。第三者視点を一切廃し、一人称主観の[カメラ](../Page/カメラ.md "wikilink")[ファインダー](../Page/ファインダー.md "wikilink")を示す画面でストーリーが進行する。
 
 作品タイトルの「FLAG」は、劇中の白州が撮影して国際的に有名になった写真に付けられたタイトルである。
 
@@ -21,7 +21,7 @@
     UNF（国連軍）士官SDC（シーダック）隊隊長、大尉。多目的機動兵器「ハーヴィック（HAVWC＝High Agility Versatile Weapon Carrier）」操縦士。
     当初は白州を預かる責任から白州の前線への同行を渋るが部下達の説得もあってこれを許可。本来は他者に対して理解のある人物であり、後に上層部の許可を得ないまま強行作戦を決行する際目撃者としての白州に信頼を寄せる。
   - ナディ・オロウカンディ
-    声：[長嶝高士](https://ja.wikipedia.org/wiki/長嶝高士 "wikilink")
+    声：[長嶝高士](../Page/長嶝高士.md "wikilink")
     UNF士官シーダック隊隊員、少尉。「[失敗国家](../Page/失敗国家.md "wikilink")」と呼ばれる国の出身。戦場カメラマンに対してはその無神経さに立腹すると同時に自分達の置かれている現状を世界に発信してくれる目撃者としての役割に期待しており、カメラマンとしての白州にも好意的に接する。
   - ハカン・アクバル
     声：[佐藤ゆうこ](../Page/佐藤ゆうこ_\(声優\).md "wikilink")
@@ -30,22 +30,22 @@
     声：[浅川悠](../Page/浅川悠.md "wikilink")
     同上、中尉。情報将校。
   - 一柳 信（いちやなぎ しん）
-    声：[川田紳司](https://ja.wikipedia.org/wiki/川田紳司 "wikilink")
+    声：[川田紳司](../Page/川田紳司.md "wikilink")
     同上、中尉。ハーヴィック操縦士。危険を承知で自ら灯に飛び込む蛾になぞらえて自分の操縦するハーヴィックに蛾のパーソナルマークを描く。
   - ヤン・ニッカネン
-    声：[乃村健次](https://ja.wikipedia.org/wiki/乃村健次 "wikilink")
+    声：[乃村健次](../Page/乃村健次.md "wikilink")
     同上、中尉。ハーヴィック操縦士。ハーヴィックについてはその前身のエグゾスケルトンから開発に携わっており、メカニズムに知悉している。
   - クリスチャン・ベローキ
-    声：[岩崎ひろし](https://ja.wikipedia.org/wiki/岩崎ひろし "wikilink")
+    声：[岩崎ひろし](../Page/岩崎ひろし.md "wikilink")
     同上、中尉。整備主任。
   - リサ
     声：[小林沙苗](../Page/小林沙苗.md "wikilink")
     赤城と親交のある女性ジャーナリスト。国連軍によるウディヤーナ首都スバシ市内への空爆により同業の恋人を亡くしており、国連軍スポークスマンの公式発表に対して極めて懐疑的である。
   - ナラヤ
-    声：[斎藤志郎](https://ja.wikipedia.org/wiki/斎藤志郎 "wikilink")
+    声：[斎藤志郎](../Page/斎藤志郎.md "wikilink")
     赤城が雇っている現地の情報屋。赤城の無茶な要求に内心困惑している。
   - 元クフラの少女
-    声：[折笠富美子](https://ja.wikipedia.org/wiki/折笠富美子 "wikilink")
+    声：[折笠富美子](../Page/折笠富美子.md "wikilink")
     赤城がスバシ市内で出会った少女。かつて現地の宗教における聖少女「クフラ」を務めており、赤城に謝意と示唆に富む発言を伝える。
 
 ## スタッフ
@@ -54,10 +54,10 @@
   - 企画：竹内成和
   - 総監督：高橋良輔
   - 監督：[寺田和男](https://ja.wikipedia.org/wiki/寺田和男 "wikilink")
-  - シリーズ構成・脚本：[野崎透](https://ja.wikipedia.org/wiki/野崎透 "wikilink")
+  - シリーズ構成・脚本：[野崎透](../Page/野崎透.md "wikilink")
   - キャラクターデザイン・総作画監督：竹内一義
   - ゲストキャラクターデザイン：渡辺裕二
-  - メカニカルデザイン：[宮武一貴](https://ja.wikipedia.org/wiki/宮武一貴 "wikilink")
+  - メカニカルデザイン：[宮武一貴](../Page/宮武一貴.md "wikilink")
   - メガデザイン：倉川英楊、森木靖奉
   - コンセプトレイアウト：吉原昌宏
   - 作画監督：立中順平、渡辺裕二
@@ -102,7 +102,7 @@
   - 文芸：永津愛子
   - プロデューサー：高橋優、山路晴久
   - エグゼクティブ・プロデューサー：[植田益朗](https://ja.wikipedia.org/wiki/植田益朗 "wikilink")、徳永元嘉
-  - アニメーション制作：[アンサー・スタジオ](https://ja.wikipedia.org/wiki/アンサー・スタジオ "wikilink")
+  - アニメーション制作：[アンサー・スタジオ](../Page/アンサー・スタジオ.md "wikilink")
   - 製作：[アニプレックス](../Page/アニプレックス.md "wikilink")、アンサー・スタジオ
 
 ## エンディングアニメーション
@@ -138,7 +138,7 @@
 
 ## 関連書籍
 
-[ホビージャパン](../Page/ホビージャパン.md "wikilink")・[HJ文庫](https://ja.wikipedia.org/wiki/HJ文庫 "wikilink")より[ノベライズ作品が刊行される](../Page/小説化.md "wikilink")。
+[ホビージャパン](../Page/ホビージャパン.md "wikilink")・[HJ文庫](../Page/HJ文庫.md "wikilink")より[ノベライズ作品が刊行される](../Page/小説化.md "wikilink")。
 
   - FLAG　―戦場カメラマン・白州冴子―（[渡辺麻実](../Page/渡辺麻実.md "wikilink")（著）/[竹内一義](https://ja.wikipedia.org/wiki/竹内一義 "wikilink")（イラスト））
 

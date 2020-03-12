@@ -1,16 +1,16 @@
 > この記事は[BEST \(\)](https://ja.wikipedia.org/wiki/BEST_\(\))から翻訳されています。
 
 
-『**BEST**』（ベスト）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月7日](../Page/12月7日.md "wikilink")にリリースされた[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")のベスト・アルバム、及びビデオクリップ集。
+『**BEST**』（ベスト）は、[2005年](../Page/2005年.md "wikilink")[12月7日](../Page/12月7日.md "wikilink")にリリースされた[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")のベスト・アルバム、及びビデオクリップ集。
 
 ## 解説
 
-  - デビュー以来の[シングル](../Page/シングル.md "wikilink")曲の大半を収録した初の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。曲順は発表年代順である。
+  - デビュー以来の[シングル](../Page/シングル.md "wikilink")曲の大半を収録した初の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。曲順は発表年代順である。
   - デビュー曲「STARS」は再録している。
   - 1枚目のアルバム『[TRUE](../Page/TRUE_\(中島美嘉のアルバム\).md "wikilink")』に収録された「[AMAZING GRACE](../Page/アメイジング・グレイス.md "wikilink")」は、同曲を持ち歌としている[ジャズ](../Page/ジャズ.md "wikilink")歌手[綾戸智絵](https://ja.wikipedia.org/wiki/綾戸智絵 "wikilink")のプロデュース・[ピアノ](../Page/ピアノ.md "wikilink")演奏により大幅にリメイクされた。
   - 6thシングル「愛してる」は、CDシングルバージョンが収録されており、晴れてCD-DA化された。
-  - アルバム1枚目の『TRUE』・2枚目『[LØVE](../Page/LOVE_\(中島美嘉のアルバム\).md "wikilink")』に続く[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を記録した。累計売上は120.6万枚（[オリコン調べ](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")）。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月11日](../Page/1月11日.md "wikilink")にはアナログ盤も発売された。LP2枚組で収録曲はCDと同じものである。
+  - アルバム1枚目の『TRUE』・2枚目『[LØVE](../Page/LOVE_\(中島美嘉のアルバム\).md "wikilink")』に続く[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を記録した。累計売上は120.6万枚（[オリコン調べ](../Page/オリコンチャート.md "wikilink")）。
+  - [2006年](../Page/2006年.md "wikilink")[1月11日](../Page/1月11日.md "wikilink")にはアナログ盤も発売された。LP2枚組で収録曲はCDと同じものである。
   - [2009年](../Page/2009年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")には、完全限定生産として[Blu-spec CD盤が発売された](https://ja.wikipedia.org/wiki/Blu-spec_CD "wikilink")。
   - 2017年9月時点で[TSUTAYA](https://ja.wikipedia.org/wiki/TSUTAYA "wikilink")において累計195万回以上がレンタルされ、同時点でTSUTAYAにおけるベスト盤のレンタル回数では歴代18位である\[1\]。
 
@@ -22,7 +22,7 @@
       -
         [サントリー](../Page/サントリー.md "wikilink") [スパークリングワイン](https://ja.wikipedia.org/wiki/発泡ワイン "wikilink")「フレシネ」CMソング。2ndシングルカップリングのニューアレンジバージョン。
 2.  **[STARS](https://ja.wikipedia.org/wiki/STARS_\(中島美嘉の曲\) "wikilink")（new vocal '05）** \[6:05\]
-      - 作詞：[秋元康](../Page/秋元康.md "wikilink")／作曲：[川口大輔](https://ja.wikipedia.org/wiki/川口大輔 "wikilink")／編曲：[冨田恵一](https://ja.wikipedia.org/wiki/冨田恵一 "wikilink")
+      - 作詞：[秋元康](../Page/秋元康.md "wikilink")／作曲：[川口大輔](../Page/川口大輔.md "wikilink")／編曲：[冨田恵一](https://ja.wikipedia.org/wiki/冨田恵一 "wikilink")
     <!-- end list -->
       -
         1stシングルのニューアレンジバージョン。
@@ -61,13 +61,13 @@
     <!-- end list -->
       -
         10thシングル。
-10. **[SEVEN](https://ja.wikipedia.org/wiki/SEVEN_\(中島美嘉の曲\) "wikilink")** \[4:27\]
+10. **[SEVEN](../Page/SEVEN_\(中島美嘉の曲\).md "wikilink")** \[4:27\]
       - 作詞：中島美嘉／作曲：[Lori Fine](https://ja.wikipedia.org/wiki/COLDFEET "wikilink")／編曲：COLDFEET
     <!-- end list -->
       -
         11thシングル。
 11. **[朧月夜〜祈り](../Page/朧月夜〜祈り.md "wikilink")** \[6:03\]
-      - 朧月夜 作詞：[高野辰之](https://ja.wikipedia.org/wiki/高野辰之 "wikilink")／作曲：[岡野貞一](../Page/岡野貞一.md "wikilink")／編曲：[葉加瀬太郎](https://ja.wikipedia.org/wiki/葉加瀬太郎 "wikilink")
+      - 朧月夜 作詞：[高野辰之](../Page/高野辰之.md "wikilink")／作曲：[岡野貞一](../Page/岡野貞一.md "wikilink")／編曲：[葉加瀬太郎](../Page/葉加瀬太郎.md "wikilink")
       - 祈り 作詞：中島美嘉／作曲・編曲：葉加瀬太郎
     <!-- end list -->
       -
@@ -78,11 +78,11 @@
       -
         13thシングル。Mainバージョンを収録。
 13. **[桜色舞うころ](https://ja.wikipedia.org/wiki/桜色舞うころ "wikilink")** \[4:55\]
-      - 作詞・作曲：[川江美奈子](https://ja.wikipedia.org/wiki/川江美奈子 "wikilink")／編曲：[武部聡志](../Page/武部聡志.md "wikilink")
+      - 作詞・作曲：[川江美奈子](../Page/川江美奈子.md "wikilink")／編曲：[武部聡志](../Page/武部聡志.md "wikilink")
     <!-- end list -->
       -
         14thシングル。
-14. **[GLAMOROUS SKY](https://ja.wikipedia.org/wiki/GLAMOROUS_SKY "wikilink")** \[4:27\]
+14. **[GLAMOROUS SKY](../Page/GLAMOROUS_SKY.md "wikilink")** \[4:27\]
       - 作詞：[AI YAZAWA](../Page/矢沢あい.md "wikilink")／作曲：[HYDE](https://ja.wikipedia.org/wiki/hyde "wikilink")／編曲：HYDE・[KAZ](https://ja.wikipedia.org/wiki/KAZ_\(ギタリスト\) "wikilink")
     <!-- end list -->
       -
@@ -90,7 +90,7 @@
 
 ## DVD
 
-2005年[12月28日](../Page/12月28日.md "wikilink")には同名のベストクリップ集[DVD](../Page/DVD.md "wikilink")「BEST」が発売された。ジャケットはCDと共通だが収録内容はCD版とは異なり、こちらは全シングルの[PVを収録している](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。ただ、過去に製作・発表された全ての曲のPVが収録されているわけではない。
+2005年[12月28日](../Page/12月28日.md "wikilink")には同名のベストクリップ集[DVD](../Page/DVD.md "wikilink")「BEST」が発売された。ジャケットはCDと共通だが収録内容はCD版とは異なり、こちらは全シングルの[PVを収録している](../Page/ミュージック・ビデオ.md "wikilink")。ただ、過去に製作・発表された全ての曲のPVが収録されているわけではない。
 
 オリコン音楽DVDチャート最高1位、総合DVDチャート最高7位。
 

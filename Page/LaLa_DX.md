@@ -11,15 +11,15 @@
 
 ## 現在の主な掲載作品
 
-  - [相方不在](https://ja.wikipedia.org/wiki/相方不在_\(かな\) "wikilink")（[かな](https://ja.wikipedia.org/wiki/にざかな "wikilink")）
+  - [相方不在](https://ja.wikipedia.org/wiki/相方不在_\(かな\) "wikilink")（[かな](../Page/にざかな.md "wikilink")）
   - [アイドリッシュセブン MEZZO” －紫青の霹靂－](https://ja.wikipedia.org/wiki/アイドリッシュセブン "wikilink")（[種村有菜](../Page/種村有菜.md "wikilink")、小説原作：[都志見文太](https://ja.wikipedia.org/wiki/都志見文太 "wikilink")、原作：[バンダイナムコオンライン](../Page/バンダイナムコエンターテインメント.md "wikilink")）
   - [アクマニア](https://ja.wikipedia.org/wiki/アクマニア "wikilink")（[吉倉ウリ](https://ja.wikipedia.org/wiki/吉倉ウリ "wikilink")）
-  - [ヴァンパイア騎士 memories](../Page/ヴァンパイア騎士.md "wikilink")（[樋野まつり](https://ja.wikipedia.org/wiki/樋野まつり "wikilink")）
+  - [ヴァンパイア騎士 memories](../Page/ヴァンパイア騎士.md "wikilink")（[樋野まつり](../Page/樋野まつり.md "wikilink")）
   - [怪物ビスケット](https://ja.wikipedia.org/wiki/怪物ビスケット "wikilink")（[野崎アユ](https://ja.wikipedia.org/wiki/野崎アユ "wikilink")）
   - [彼女になる日another](https://ja.wikipedia.org/wiki/彼女になる日another "wikilink")（[小椋アカネ](../Page/小椋アカネ.md "wikilink")）
   - [極彩ハイスクール](https://ja.wikipedia.org/wiki/極彩ハイスクール "wikilink")（[羽山エム](https://ja.wikipedia.org/wiki/羽山エム "wikilink")）
-  - [世界で一番悪い魔女](https://ja.wikipedia.org/wiki/世界で一番悪い魔女 "wikilink")（[草川為](https://ja.wikipedia.org/wiki/草川為 "wikilink")）
-  - [天堂家物語](https://ja.wikipedia.org/wiki/天堂家物語 "wikilink")（[斎藤けん](https://ja.wikipedia.org/wiki/斎藤けん "wikilink")）
+  - [世界で一番悪い魔女](https://ja.wikipedia.org/wiki/世界で一番悪い魔女 "wikilink")（[草川為](../Page/草川為.md "wikilink")）
+  - [天堂家物語](https://ja.wikipedia.org/wiki/天堂家物語 "wikilink")（[斎藤けん](../Page/斎藤けん.md "wikilink")）
   - [とうがらし一味](https://ja.wikipedia.org/wiki/とうがらし一味 "wikilink")（[江咲桃恵](https://ja.wikipedia.org/wiki/江咲桃恵 "wikilink")）
   - [拝啓、真弓様。](https://ja.wikipedia.org/wiki/拝啓、真弓様。 "wikilink")（[塩島れい](https://ja.wikipedia.org/wiki/塩島れい "wikilink")）
   - [花嫁と祓魔の騎士](https://ja.wikipedia.org/wiki/花嫁と祓魔の騎士 "wikilink")（[石原ケイコ](https://ja.wikipedia.org/wiki/石原ケイコ "wikilink")）
@@ -32,9 +32,9 @@
   - [赤髪の白雪姫](../Page/赤髪の白雪姫.md "wikilink")（[あきづき空太](../Page/あきづき空太.md "wikilink")）→LaLa本誌へ移動
   - [青色図書館](https://ja.wikipedia.org/wiki/青色図書館 "wikilink")（[林みかせ](../Page/林みかせ.md "wikilink")）
   - [アクセス](https://ja.wikipedia.org/wiki/アクセス_\(誉田哲也\) "wikilink")（[慎本真](https://ja.wikipedia.org/wiki/慎本真 "wikilink")、原作：[誉田哲也](https://ja.wikipedia.org/wiki/誉田哲也 "wikilink")）
-  - [with\!\!](https://ja.wikipedia.org/wiki/with!! "wikilink")（[斎藤けん](https://ja.wikipedia.org/wiki/斎藤けん "wikilink")）
+  - [with\!\!](https://ja.wikipedia.org/wiki/with!! "wikilink")（[斎藤けん](../Page/斎藤けん.md "wikilink")）
   - [うちのポチの言うことには](https://ja.wikipedia.org/wiki/うちのポチの言うことには "wikilink")（[橘裕](../Page/橘裕.md "wikilink")）
-  - [オコジョ番長](https://ja.wikipedia.org/wiki/オコジョさん "wikilink")（[宇野亜由美](https://ja.wikipedia.org/wiki/宇野亜由美 "wikilink")）
+  - [オコジョ番長](../Page/オコジョさん.md "wikilink")（[宇野亜由美](https://ja.wikipedia.org/wiki/宇野亜由美 "wikilink")）
   - [オート・フォーカス](https://ja.wikipedia.org/wiki/オート・フォーカス "wikilink")（[六本木綾](https://ja.wikipedia.org/wiki/六本木綾 "wikilink")）
   - [温泉で会いましょう](https://ja.wikipedia.org/wiki/温泉で会いましょう "wikilink")（[唐沢千晶](https://ja.wikipedia.org/wiki/唐沢千晶 "wikilink")）
   - [いばらの花嫁](https://ja.wikipedia.org/wiki/いばらの花嫁 "wikilink")（[豊田悠](https://ja.wikipedia.org/wiki/豊田悠 "wikilink")）
@@ -46,9 +46,9 @@
   - [かたつむり前線](https://ja.wikipedia.org/wiki/かたつむり前線 "wikilink")（[藤川佳世](https://ja.wikipedia.org/wiki/藤川佳世 "wikilink"))
   - [かな、かも。](https://ja.wikipedia.org/wiki/かな、かも。 "wikilink")（[橘裕](../Page/橘裕.md "wikilink")）
   - [金魚奏](https://ja.wikipedia.org/wiki/金魚奏 "wikilink")（[ふじつか雪](../Page/ふじつか雪.md "wikilink")）
-  - [金色のコルダ4](https://ja.wikipedia.org/wiki/金色のコルダ4 "wikilink")（[呉由姫](https://ja.wikipedia.org/wiki/呉由姫 "wikilink")）
+  - [金色のコルダ4](https://ja.wikipedia.org/wiki/金色のコルダ4 "wikilink")（[呉由姫](../Page/呉由姫.md "wikilink")）
   - [クラシカルバリエ](https://ja.wikipedia.org/wiki/クラシカルバリエ "wikilink")（[木々](https://ja.wikipedia.org/wiki/木々 "wikilink")）
-  - [CLUSTER EDGE](https://ja.wikipedia.org/wiki/CLUSTER_EDGE "wikilink")（[小松田わん](https://ja.wikipedia.org/wiki/小松田わん "wikilink")）
+  - [CLUSTER EDGE](../Page/CLUSTER_EDGE.md "wikilink")（[小松田わん](https://ja.wikipedia.org/wiki/小松田わん "wikilink")）
   - [けだものにロリポップ](https://ja.wikipedia.org/wiki/けだものにロリポップ "wikilink")（[仲野えみこ](https://ja.wikipedia.org/wiki/仲野えみこ "wikilink")）
   - [幻影奇譚](https://ja.wikipedia.org/wiki/幻影奇譚 "wikilink")（[いなだ詩穂](../Page/いなだ詩穂.md "wikilink")）
   - [幻想香人](https://ja.wikipedia.org/wiki/幻想香人 "wikilink")（[唐沢千晶](https://ja.wikipedia.org/wiki/唐沢千晶 "wikilink")）
@@ -60,12 +60,12 @@
 
   - [サクラの秘事](https://ja.wikipedia.org/wiki/サクラの秘事 "wikilink")（[萩尾彬](../Page/萩尾彬.md "wikilink")）
   - [砂漠のハレム](https://ja.wikipedia.org/wiki/砂漠のハレム "wikilink")（[夢木みつる](https://ja.wikipedia.org/wiki/夢木みつる "wikilink")）→LaLa本誌へ移動
-  - [しにがみのバラッド。](https://ja.wikipedia.org/wiki/しにがみのバラッド。 "wikilink")（[和泉明日香](../Page/和泉明日香.md "wikilink")、原作：[ハセガワケイスケ](https://ja.wikipedia.org/wiki/ハセガワケイスケ "wikilink")）
-  - [十二秘色のパレット](https://ja.wikipedia.org/wiki/十二秘色のパレット "wikilink")（[草川為](https://ja.wikipedia.org/wiki/草川為 "wikilink")）
+  - [しにがみのバラッド。](../Page/しにがみのバラッド。.md "wikilink")（[和泉明日香](../Page/和泉明日香.md "wikilink")、原作：[ハセガワケイスケ](../Page/ハセガワケイスケ.md "wikilink")）
+  - [十二秘色のパレット](../Page/十二秘色のパレット.md "wikilink")（[草川為](../Page/草川為.md "wikilink")）
   - [シュガー☆ファミリー](https://ja.wikipedia.org/wiki/シュガー☆ファミリー "wikilink")（[萩尾彬](../Page/萩尾彬.md "wikilink")）
   - [少年ドールズ](https://ja.wikipedia.org/wiki/少年ドールズ "wikilink")（[響ワタル](https://ja.wikipedia.org/wiki/響ワタル "wikilink")）
-  - [知らない国の物語](https://ja.wikipedia.org/wiki/知らない国の物語 "wikilink")（[川瀬夏菜](https://ja.wikipedia.org/wiki/川瀬夏菜 "wikilink")）
-  - [聖・はいぱあ警備隊](https://ja.wikipedia.org/wiki/聖・はいぱあ警備隊 "wikilink")（[森生まさみ](https://ja.wikipedia.org/wiki/森生まさみ "wikilink")）
+  - [知らない国の物語](https://ja.wikipedia.org/wiki/知らない国の物語 "wikilink")（[川瀬夏菜](../Page/川瀬夏菜.md "wikilink")）
+  - [聖・はいぱあ警備隊](../Page/聖・はいぱあ警備隊.md "wikilink")（[森生まさみ](../Page/森生まさみ.md "wikilink")）
   - [絶対平和大作戦](https://ja.wikipedia.org/wiki/絶対平和大作戦 "wikilink")（[小椋アカネ](../Page/小椋アカネ.md "wikilink")）
 
 ### た行
@@ -73,9 +73,9 @@
   - [地球管理人](https://ja.wikipedia.org/wiki/地球管理人 "wikilink")（[杜真琴](https://ja.wikipedia.org/wiki/杜真琴 "wikilink")）
   - [地球行進曲](https://ja.wikipedia.org/wiki/地球行進曲 "wikilink")（[林みかせ](../Page/林みかせ.md "wikilink")）
   - [てっぺん\!](https://ja.wikipedia.org/wiki/てっぺん!_\(槻宮杏の漫画\) "wikilink")（[槻宮杏](https://ja.wikipedia.org/wiki/槻宮杏 "wikilink")）
-  - [天然素材でいこう。](https://ja.wikipedia.org/wiki/天然素材でいこう。 "wikilink")（[麻生みこと](https://ja.wikipedia.org/wiki/麻生みこと "wikilink")）
+  - [天然素材でいこう。](https://ja.wikipedia.org/wiki/天然素材でいこう。 "wikilink")（[麻生みこと](../Page/麻生みこと.md "wikilink")）
   - [トカゲ王子](https://ja.wikipedia.org/wiki/トカゲ王子 "wikilink")（[和泉明日香](../Page/和泉明日香.md "wikilink")）
-  - [飛べない魔女](https://ja.wikipedia.org/wiki/飛べない魔女 "wikilink")（[川瀬夏菜](https://ja.wikipedia.org/wiki/川瀬夏菜 "wikilink")）
+  - [飛べない魔女](https://ja.wikipedia.org/wiki/飛べない魔女 "wikilink")（[川瀬夏菜](../Page/川瀬夏菜.md "wikilink")）
   - [トラブル・ドッグ](https://ja.wikipedia.org/wiki/トラブル・ドッグ "wikilink")（六本木綾）
   - [とりかえ風花伝](https://ja.wikipedia.org/wiki/とりかえ風花伝 "wikilink")（[柳原望](https://ja.wikipedia.org/wiki/柳原望 "wikilink")）
   - [ドラゴンの王冠](https://ja.wikipedia.org/wiki/ドラゴンの王冠 "wikilink")（[八島時](https://ja.wikipedia.org/wiki/八島時 "wikilink")）
@@ -88,25 +88,25 @@
 
   - [パジャマでごろん](https://ja.wikipedia.org/wiki/パジャマでごろん "wikilink")（[ささだあすか](../Page/ささだあすか.md "wikilink")）
   - [花にアラシ](https://ja.wikipedia.org/wiki/花にアラシ "wikilink")（[高木しげよし](https://ja.wikipedia.org/wiki/高木しげよし "wikilink")）
-  - [花の名前](../Page/花の名前.md "wikilink")（[斎藤けん](https://ja.wikipedia.org/wiki/斎藤けん "wikilink")）
+  - [花の名前](../Page/花の名前.md "wikilink")（[斎藤けん](../Page/斎藤けん.md "wikilink")）
   - [Honey](https://ja.wikipedia.org/wiki/Honey_\(橘裕\) "wikilink")（[橘裕](../Page/橘裕.md "wikilink")）
   - [ハヤブサ](https://ja.wikipedia.org/wiki/ハヤブサ_\(漫画\) "wikilink")（六本木綾）
   - [遙かなる時空の中で](../Page/遙かなる時空の中で.md "wikilink")（[水野十子](../Page/水野十子.md "wikilink")）
   - [緋色の椅子](https://ja.wikipedia.org/wiki/緋色の椅子 "wikilink")（[緑川ゆき](../Page/緑川ゆき.md "wikilink")）
-  - [B.B.Joker Selection](../Page/B.B.Joker.md "wikilink")（[にざかな](https://ja.wikipedia.org/wiki/にざかな "wikilink")）
+  - [B.B.Joker Selection](../Page/B.B.Joker.md "wikilink")（[にざかな](../Page/にざかな.md "wikilink")）
   - [百獣キングダム](https://ja.wikipedia.org/wiki/百獣キングダム "wikilink")（[高木しげよし](https://ja.wikipedia.org/wiki/高木しげよし "wikilink")）
   - [ビリギャル 〜学年ビリからの慶應大学合格記〜](https://ja.wikipedia.org/wiki/学年ビリのギャルが1年で偏差値を40上げて慶應大学に現役合格した話 "wikilink")（ナッツ、原作：坪田信貴）
   - [フィルムガール](https://ja.wikipedia.org/wiki/フィルムガール "wikilink")（高木しげよし）
-  - [プレゼントは真珠](https://ja.wikipedia.org/wiki/プレゼントは真珠 "wikilink")（[斎藤けん](https://ja.wikipedia.org/wiki/斎藤けん "wikilink")）
+  - [プレゼントは真珠](https://ja.wikipedia.org/wiki/プレゼントは真珠 "wikilink")（[斎藤けん](../Page/斎藤けん.md "wikilink")）
   - BELL（麻生みこと）
-  - [星よみの予言者](https://ja.wikipedia.org/wiki/星よみの予言者 "wikilink")（[川瀬夏菜](https://ja.wikipedia.org/wiki/川瀬夏菜 "wikilink")）
+  - [星よみの予言者](https://ja.wikipedia.org/wiki/星よみの予言者 "wikilink")（[川瀬夏菜](../Page/川瀬夏菜.md "wikilink")）
 
 ### ま行
 
   - [魔術使いシド&リドシリーズ](https://ja.wikipedia.org/wiki/魔術使いシド&リドシリーズ "wikilink")（[木々](https://ja.wikipedia.org/wiki/木々 "wikilink")）
   - [マドモワゼル バタフライ](https://ja.wikipedia.org/wiki/マドモワゼル_バタフライ "wikilink")（[小椋アカネ](../Page/小椋アカネ.md "wikilink")）
   - [まるいち的風景](../Page/まるいち的風景.md "wikilink")（柳原望）
-  - [目隠しの国](../Page/目隠しの国.md "wikilink")（[筑波さくら](https://ja.wikipedia.org/wiki/筑波さくら "wikilink")）
+  - [目隠しの国](../Page/目隠しの国.md "wikilink")（[筑波さくら](../Page/筑波さくら.md "wikilink")）
   - [三日月パン](https://ja.wikipedia.org/wiki/三日月パン "wikilink")（ささだあすか）
   - [帝の至宝](https://ja.wikipedia.org/wiki/帝の至宝 "wikilink")（[仲野えみこ](https://ja.wikipedia.org/wiki/仲野えみこ "wikilink")）
   - [もしかしてヴァンプ](../Page/もしかしてヴァンプ.md "wikilink")（橘裕）
@@ -114,15 +114,15 @@
 
 ### や行
 
-  - [八潮と三雲](https://ja.wikipedia.org/wiki/八潮と三雲 "wikilink")（[草川為](https://ja.wikipedia.org/wiki/草川為 "wikilink")）
+  - [八潮と三雲](https://ja.wikipedia.org/wiki/八潮と三雲 "wikilink")（[草川為](../Page/草川為.md "wikilink")）
   - [ヤンキーとヤンデレの彼らには友だちがいない](https://ja.wikipedia.org/wiki/ヤンキーとヤンデレの彼らには友だちがいない "wikilink")（[芳川由実](https://ja.wikipedia.org/wiki/芳川由実 "wikilink")）
-  - [4ジゲン](https://ja.wikipedia.org/wiki/4ジゲン "wikilink")（にざかな）
-  - [よろしく・マスター](https://ja.wikipedia.org/wiki/よろしく・マスター "wikilink")（[筑波さくら](https://ja.wikipedia.org/wiki/筑波さくら "wikilink")）
+  - [4ジゲン](../Page/4ジゲン.md "wikilink")（にざかな）
+  - [よろしく・マスター](https://ja.wikipedia.org/wiki/よろしく・マスター "wikilink")（[筑波さくら](../Page/筑波さくら.md "wikilink")）
 
 ### ら行
 
   - [楽園ルウト](https://ja.wikipedia.org/wiki/楽園ルウト "wikilink")（[槻宮杏](https://ja.wikipedia.org/wiki/槻宮杏 "wikilink")）
-  - [ラピスラズリの王冠](https://ja.wikipedia.org/wiki/ラピスラズリの王冠 "wikilink")（[川瀬夏菜](https://ja.wikipedia.org/wiki/川瀬夏菜 "wikilink")）
+  - [ラピスラズリの王冠](https://ja.wikipedia.org/wiki/ラピスラズリの王冠 "wikilink")（[川瀬夏菜](../Page/川瀬夏菜.md "wikilink")）
 
 ## 発行部数
 

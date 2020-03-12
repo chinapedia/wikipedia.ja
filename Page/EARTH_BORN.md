@@ -7,8 +7,8 @@
 
 ## 収録曲
 
-1.  **BODY TO BODY**（[森岡賢](https://ja.wikipedia.org/wiki/森岡賢 "wikilink")）
-2.  **HOLOGRAM ROSE**（[藤井麻輝](https://ja.wikipedia.org/wiki/藤井麻輝 "wikilink")）
+1.  **BODY TO BODY**（[森岡賢](../Page/森岡賢.md "wikilink")）
+2.  **HOLOGRAM ROSE**（[藤井麻輝](../Page/藤井麻輝.md "wikilink")）
 3.  **WITH YOU**（森岡賢）
 4.  **BORDER DAYS**（森岡賢）
 5.  **KO・KA・GE・NI**（森岡賢）
@@ -26,16 +26,16 @@
 
 「**BODY TO BODY**」（ボディ・トゥ・ボディ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンドである](../Page/バンド_\(音楽\).md "wikilink")[SOFT BALLETのメジャーレーベルでのファースト](../Page/SOFT_BALLET.md "wikilink")・シングル。
 
-[1989年](../Page/1989年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")に[アルファレコード](https://ja.wikipedia.org/wiki/アルファレコード "wikilink")よりリリースされた。
+[1989年](../Page/1989年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")に[アルファレコード](../Page/アルファレコード.md "wikilink")よりリリースされた。
 
 アルバム『EARTH BORN』からのシングルカット。
 
 ### 収録曲
 
 1.  **BODY TO BODY**
-      - 作詞：[遠藤遼一](../Page/遠藤遼一.md "wikilink")、作曲:[森岡賢](https://ja.wikipedia.org/wiki/森岡賢 "wikilink")
+      - 作詞：[遠藤遼一](../Page/遠藤遼一.md "wikilink")、作曲:[森岡賢](../Page/森岡賢.md "wikilink")
 2.  **KO・KA・GE・NI**
-      - 作詞：遠藤遼一、作曲:森岡賢、編曲：[藤井麻輝](https://ja.wikipedia.org/wiki/藤井麻輝 "wikilink")
+      - 作詞：遠藤遼一、作曲:森岡賢、編曲：[藤井麻輝](../Page/藤井麻輝.md "wikilink")
 3.  **BODY TO BODY -CLUB MIX-**
 
 　

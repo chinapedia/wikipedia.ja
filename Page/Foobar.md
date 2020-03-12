@@ -1,7 +1,7 @@
 > この記事は[Foobar](https://ja.wikipedia.org/wiki/Foobar)から翻訳されています。
 
 
-とは、主に欧米で使用される[メタ構文変数](https://ja.wikipedia.org/wiki/メタ構文変数 "wikilink")の一つである。
+とは、主に欧米で使用される[メタ構文変数](../Page/メタ構文変数.md "wikilink")の一つである。
 
 `foobar`は**`foo`**および**`bar`**の二つ分かれて使用されることも多い。三つ目が必要な場合は**`baz`**が使われる。
 
@@ -44,7 +44,7 @@
 
 ## 関連項目
 
-  - [メタ構文変数](https://ja.wikipedia.org/wiki/メタ構文変数 "wikilink")
+  - [メタ構文変数](../Page/メタ構文変数.md "wikilink")
   - [:en:April Fools' Day Request for Comments](https://ja.wikipedia.org/wiki/:en:April_Fools'_Day_Request_for_Comments "wikilink")
   - [BarCamp](https://ja.wikipedia.org/wiki/BarCamp "wikilink")
 

@@ -1,7 +1,7 @@
 > この記事は[VOICE](https://ja.wikipedia.org/wiki/VOICE)から翻訳されています。
 
 
-『**ナマ・イキVOICE**』（ナマイキボイス）は、[鹿児島テレビ放送](../Page/鹿児島テレビ放送.md "wikilink")（KTS）制作の女性向け[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。制作局の[鹿児島テレビ放送](../Page/鹿児島テレビ放送.md "wikilink")では、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[5月5日](../Page/5月5日.md "wikilink")に放送が開始された。[鹿児島県](../Page/鹿児島県.md "wikilink")のローカル番組としては[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")の『[どーんと鹿児島](https://ja.wikipedia.org/wiki/どーんと鹿児島 "wikilink")』に次ぐ[長寿番組](https://ja.wikipedia.org/wiki/長寿番組 "wikilink")である。
+『**ナマ・イキVOICE**』（ナマイキボイス）は、[鹿児島テレビ放送](../Page/鹿児島テレビ放送.md "wikilink")（KTS）制作の女性向け[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。制作局の[鹿児島テレビ放送](../Page/鹿児島テレビ放送.md "wikilink")では、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[5月5日](../Page/5月5日.md "wikilink")に放送が開始された。[鹿児島県](../Page/鹿児島県.md "wikilink")のローカル番組としては[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")の『[どーんと鹿児島](../Page/どーんと鹿児島.md "wikilink")』に次ぐ[長寿番組](https://ja.wikipedia.org/wiki/長寿番組 "wikilink")である。
 
 ## 番組概要
 
@@ -41,9 +41,9 @@
   - [青木隆子](https://ja.wikipedia.org/wiki/青木隆子 "wikilink")（初代司会・現同局報道記者）
   - [加茂川里美](https://ja.wikipedia.org/wiki/加茂川里美 "wikilink")（〃・一旦退社後、2015年に再入社・現[まるごとかごしま ゆうテレ\!MC](https://ja.wikipedia.org/wiki/ゆうテレ "wikilink")）
   - [福留かおり](https://ja.wikipedia.org/wiki/福留かおり "wikilink")（1996年 - 2004年3月）
-  - [坂口果津奈](https://ja.wikipedia.org/wiki/坂口果津奈 "wikilink")（ - 2006年3月）
+  - [坂口果津奈](../Page/坂口果津奈.md "wikilink")（ - 2006年3月）
   - [戸越亜希子](https://ja.wikipedia.org/wiki/戸越亜希子 "wikilink")（2006年4月 - 2008年6月）
-  - [中西真貴](https://ja.wikipedia.org/wiki/中西真貴 "wikilink")（2004年4月 - 2011年3月・11代目MC\[8\]）
+  - [中西真貴](../Page/中西真貴.md "wikilink")（2004年4月 - 2011年3月・11代目MC\[8\]）
   - [武田みどり](https://ja.wikipedia.org/wiki/武田みどり "wikilink")（2008年7月 - 2011年3月・11代目MC\[9\]）
   - [井上彩香](https://ja.wikipedia.org/wiki/井上彩香 "wikilink")（KTSアナウンサー、12代目MC時代に番組リポート担当）
   - [みえかおり](https://ja.wikipedia.org/wiki/みえかおり "wikilink")（2011年3月までは番組リポーター・12代目MC\[10\]・2011年4月2日 - 2016年3月26日）
@@ -61,19 +61,19 @@
 ## スタジオ
 
   - [2003年](../Page/2003年.md "wikilink")[1月18日](../Page/1月18日.md "wikilink")まで…鹿児島商工会議所ビル1階[JALスタジオから公開生放送](../Page/日本航空.md "wikilink")\[11\][Nama_iki_voice_1990to2003_jal_studio_2016.JPG](https://ja.wikipedia.org/wiki/File:Nama_iki_voice_1990to2003_jal_studio_2016.JPG "fig:Nama_iki_voice_1990to2003_jal_studio_2016.JPG")[1月31日](../Page/1月31日.md "wikilink")撮影）\]\]
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで…鹿児島テレビ本社内スタジオから録画放送
-  - 2006年[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")から現在…鹿児島テレビ放送局内1階ロビーから公開生放送、これに合わせてロビーが大幅にリニューアルされた。
+  - [2006年](../Page/2006年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで…鹿児島テレビ本社内スタジオから録画放送
+  - 2006年[4月8日](../Page/4月8日.md "wikilink")から現在…鹿児島テレビ放送局内1階ロビーから公開生放送、これに合わせてロビーが大幅にリニューアルされた。
 
 ## 放送形態
 
-  - [ホームドラマチャンネル](https://ja.wikipedia.org/wiki/ホームドラマチャンネル "wikilink")の無料放送番組『[インターローカルアワー](../Page/インターローカルTV.md "wikilink")』枠（毎週日曜日6:30 - 6:55）でも放送されているため、鹿児島県外でも視聴可能である。
-  - 番組はハイビジョン制作。ホームドラマチャンネルHDでは2011年11月までは標準画質に変換され、[スーパー額縁放送で放送された](https://ja.wikipedia.org/wiki/額縁放送 "wikilink")。
+  - [ホームドラマチャンネル](../Page/ホームドラマチャンネル.md "wikilink")の無料放送番組『[インターローカルアワー](../Page/インターローカルTV.md "wikilink")』枠（毎週日曜日6:30 - 6:55）でも放送されているため、鹿児島県外でも視聴可能である。
+  - 番組はハイビジョン制作。ホームドラマチャンネルHDでは2011年11月までは標準画質に変換され、[スーパー額縁放送で放送された](../Page/額縁放送.md "wikilink")。
   - 鹿児島テレビでは生放送であるが、ホームドラマチャンネルの放送では放送内容が編集されることがある。また、新春スペシャルなど時間が拡大された場合、その回はホームドラマチャンネルでの放送は行われていない。
 
 ## エピソード
 
   - [鹿児島市](../Page/鹿児島市.md "wikilink")中央公園の愛称の募集が本番組で行われ、1994年7月16日放送分にて同公園の愛称について「テンパーク」と名付けられた。\[12\]
-  - エンディングは[天文館](https://ja.wikipedia.org/wiki/天文館 "wikilink")を歩く女性の姿のVTRを毎週撮影し放送している、[アミュプラザ鹿児島](https://ja.wikipedia.org/wiki/アミュプラザ鹿児島 "wikilink")開業後一時期に限り[鹿児島中央駅](https://ja.wikipedia.org/wiki/鹿児島中央駅 "wikilink")周辺での撮影を行った。
+  - エンディングは[天文館](../Page/天文館.md "wikilink")を歩く女性の姿のVTRを毎週撮影し放送している、[アミュプラザ鹿児島](https://ja.wikipedia.org/wiki/アミュプラザ鹿児島 "wikilink")開業後一時期に限り[鹿児島中央駅](https://ja.wikipedia.org/wiki/鹿児島中央駅 "wikilink")周辺での撮影を行った。
   - アミュプラザ鹿児島開業後から、番組本編終了後に45秒間コーナー「AMU's STYLE」を開始（2015年現在は「My Amu」として放送、いずれもKTSでの本放送のみであり月曜日の再放送とインターローカルTVでは放送されない）。
 
 ## タイトルの由来
@@ -95,7 +95,7 @@
 
 1.  [](http://namaikioa.ktstv.net/e17095.html)20周年OAより
 2.
-3.  [ホームドラマチャンネル](https://ja.wikipedia.org/wiki/ホームドラマチャンネル "wikilink")での放送における放送回数は、『インターローカルアワー』や[インターローカルTV](../Page/インターローカルTV.md "wikilink")、さらにその前身であるAQステーションで放送を開始してからの通算の回数としているため、KTSでの放送回数とは異なる。
+3.  [ホームドラマチャンネル](../Page/ホームドラマチャンネル.md "wikilink")での放送における放送回数は、『インターローカルアワー』や[インターローカルTV](../Page/インターローカルTV.md "wikilink")、さらにその前身であるAQステーションで放送を開始してからの通算の回数としているため、KTSでの放送回数とは異なる。
 4.  『[さんまのまんま](https://ja.wikipedia.org/wiki/さんまのまんま "wikilink")』は2016年にレギュラー放送を終了している。
 5.  当初は鹿児島市中央公園で公開生放送を行う予定だったが、悪天候のため通常通り鹿児島テレビ内1階ロビーから公開生放送が行われた。
 6.
@@ -103,6 +103,6 @@
 8.  2006年12月28日17:00から放送「鹿児島を見つめて38年、そして未来へ」にて言及
 9.
 10.
-11. [登山用品店や](https://ja.wikipedia.org/wiki/好日山荘 "wikilink")[コンビニエンスストアを経て](https://ja.wikipedia.org/wiki/南九州ファミリーマート "wikilink")、[2015年](../Page/2015年.md "wikilink")現在は空き店舗となっている
+11. [登山用品店や](https://ja.wikipedia.org/wiki/好日山荘 "wikilink")[コンビニエンスストアを経て](../Page/南九州ファミリーマート.md "wikilink")、[2015年](../Page/2015年.md "wikilink")現在は空き店舗となっている
 12.
 13. 『FNS九州』、1992年

@@ -7,7 +7,7 @@
 
 『[MANGAオールマン](../Page/MANGAオールマン.md "wikilink")』[1996年](../Page/1996年.md "wikilink")4月号に「**エム**」（50p、扉含み3pカラー）として初掲載され、その後『[週刊ヤングジャンプ](https://ja.wikipedia.org/wiki/週刊ヤングジャンプ "wikilink")』 (YJ) [2002年](../Page/2002年.md "wikilink")5・6合併号に、加筆された「**M 完全版**」（51p、扉含み3pカラー）が再掲載された。
 
-長らく単行本への全収録は行なわれず、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に発売されたイラスト集『**4C**』（3冊組、A6判）の1冊目「L-side ‹L-side› Katsura Masakazu Illustrations 1」にカラーの3ページが収録されたのみであったが、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に[ヤングジャンプ・コミックス](https://ja.wikipedia.org/wiki/ヤングジャンプ・コミックス "wikilink")より『**M エム**』のタイトルで愛蔵版単行本が販売されている。同単行本では「M」本編の他、「**記憶の迷宮**」（きおくのめいきゅう）と「**a virgin**」（ア バージン）を同時収録し、通常版の他に特殊装幀を施した限定特装版も発売された（共にB5判）。
+長らく単行本への全収録は行なわれず、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に発売されたイラスト集『**4C**』（3冊組、A6判）の1冊目「L-side ‹L-side› Katsura Masakazu Illustrations 1」にカラーの3ページが収録されたのみであったが、[2005年](../Page/2005年.md "wikilink")に[ヤングジャンプ・コミックス](../Page/ヤングジャンプ・コミックス.md "wikilink")より『**M エム**』のタイトルで愛蔵版単行本が販売されている。同単行本では「M」本編の他、「**記憶の迷宮**」（きおくのめいきゅう）と「**a virgin**」（ア バージン）を同時収録し、通常版の他に特殊装幀を施した限定特装版も発売された（共にB5判）。
 
 作者初の青年向け漫画\[1\]として「青年誌ならエロを」と言う考えの元で描かれており\[2\]、それまでの少年誌では不可能であった様な性描写も含まれている。とは言え、少年誌において培ってきた「ギリギリの演出」は活かされており、裸体を控え直接的な[性交は描いておらず](https://ja.wikipedia.org/wiki/性行為 "wikilink")\[3\]、むしろ描かない事による「じらし」によってより一層エロティシズムを演出している。
 
@@ -41,7 +41,7 @@
 
 ## a virgin
 
-「a virgin」は[2001年](../Page/2001年.md "wikilink")に発売された[オムニバス](../Page/オムニバス.md "wikilink")イラスト集『**[Bitch's Life Illustration FIle](https://ja.wikipedia.org/wiki/Bitch's_Life_Illustration_FIle "wikilink")**』（ビッチズライフイラストレーションファイル、編集[韮沢靖](https://ja.wikipedia.org/wiki/韮沢靖 "wikilink")、[グラフィック社](https://ja.wikipedia.org/wiki/グラフィック社 "wikilink")）に描き下ろされた4ページのイラスト。吹き出しによる台詞はないものの、コマ割り・ストーリー性があり短編漫画とも言える。
+「a virgin」は[2001年](../Page/2001年.md "wikilink")に発売された[オムニバス](../Page/オムニバス.md "wikilink")イラスト集『**[Bitch's Life Illustration FIle](https://ja.wikipedia.org/wiki/Bitch's_Life_Illustration_FIle "wikilink")**』（ビッチズライフイラストレーションファイル、編集[韮沢靖](../Page/韮沢靖.md "wikilink")、[グラフィック社](https://ja.wikipedia.org/wiki/グラフィック社 "wikilink")）に描き下ろされた4ページのイラスト。吹き出しによる台詞はないものの、コマ割り・ストーリー性があり短編漫画とも言える。
 
 イラスト集のテーマが題名と同じ『Bitch's Life』（売女の生活）の為この作品もテーマに沿った性的な物となっており、「M」と同じく「じらし」が一つのテーマとして読み取る事ができる。
 
@@ -51,7 +51,7 @@
 
   - 『4C』集英社、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")8月9日発行、ISBN 4-08-782762-3
       - L-side ‹L-side› Katsura Masakazu Illustrations 1
-  - 桂正和『M エム』集英社〈愛蔵版[ヤングジャンプ・コミックス](https://ja.wikipedia.org/wiki/ヤングジャンプ・コミックス "wikilink")〉
+  - 桂正和『M エム』集英社〈愛蔵版[ヤングジャンプ・コミックス](../Page/ヤングジャンプ・コミックス.md "wikilink")〉
       - 限定特装版 2005年1月1日発行、ISBN 978-4-08-908012-2
       - 通常版 2005年1月20日初版発行、ISBN 978-4-08-782054-6
   - 韮沢靖『Bitch's Life Illustration FIle』グラフィック社、2001年1月25日初版発行、ISBN 978-4-7661-1209-2

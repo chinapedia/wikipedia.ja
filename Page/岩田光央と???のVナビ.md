@@ -1,7 +1,7 @@
 > この記事は[\?\?\?V](https://ja.wikipedia.org/wiki/\?\?\?V)から翻訳されています。
 
 
-**岩田光央と???のVナビ**（いわたみつおと???のぶいナビ）は、[2001年](../Page/2001年.md "wikilink")4月～9月に[ラジオ大阪で放送されていたラジオ番組](https://ja.wikipedia.org/wiki/大阪放送 "wikilink")。通称は「**Vナビ**」。[岩田光央](https://ja.wikipedia.org/wiki/岩田光央 "wikilink")がメインパーソナリティを務めていた。
+**岩田光央と???のVナビ**（いわたみつおと???のぶいナビ）は、[2001年](../Page/2001年.md "wikilink")4月～9月に[ラジオ大阪で放送されていたラジオ番組](../Page/大阪放送.md "wikilink")。通称は「**Vナビ**」。[岩田光央](../Page/岩田光央.md "wikilink")がメインパーソナリティを務めていた。
 
 ## 放送時間
 
@@ -12,7 +12,7 @@
 
 ## 概要
 
-[1314 V-STATION枠の番組としては初の](https://ja.wikipedia.org/wiki/1314_V-STATION "wikilink")**毎週・毎回生放送**を実施した番組。毎回テーマを定め、それに沿った話題を[BBSや](https://ja.wikipedia.org/wiki/電子掲示板 "wikilink")[E-mail](../Page/電子メール.md "wikilink")、[FAXを通じてリスナーに募集した](https://ja.wikipedia.org/wiki/ファクシミリ "wikilink")。たまにFAXに電話番号を書いて投稿されたリスナーの自宅に電話をかけ、いわゆる生電話を実施した回もあった。
+[1314 V-STATION枠の番組としては初の](../Page/1314_V-STATION.md "wikilink")**毎週・毎回生放送**を実施した番組。毎回テーマを定め、それに沿った話題を[BBSや](../Page/電子掲示板.md "wikilink")[E-mail](../Page/電子メール.md "wikilink")、[FAXを通じてリスナーに募集した](https://ja.wikipedia.org/wiki/ファクシミリ "wikilink")。たまにFAXに電話番号を書いて投稿されたリスナーの自宅に電話をかけ、いわゆる生電話を実施した回もあった。
 
 また、ほぼ毎週ゲスト（岩田光央やV-STATIONにゆかりのある声優が殆ど）を招いていたが、ゲストというよりはウィークリーパーソナリティ同然であった。その理由は、
 
@@ -25,15 +25,15 @@
 
 ## オフィシャル・ファンクラブ 「Vメイツ」
 
-この番組では1314 V-STATIONの公式ファンクラブ「**Vメイツ**」の会員を募集していた。Vメイツに加入すると、ホームページを介して番組の裏側を少し知ることができたり、2002年に公開された映画「[EAT\&RUN](https://ja.wikipedia.org/wiki/EAT&RUN "wikilink")」のエキストラとしての参加権利が得られるなどの特典があった（ただし結果としてVメイツの登録者は、EAT\&RUNでは写真による参加となった）。しかし響きが[某バックダンサーチームの名前と類似していて](https://ja.wikipedia.org/wiki/スクールメイツ "wikilink")、ウィークリーゲストの大半はそちらの方をイメージして誤解することもしばしばあった。
+この番組では1314 V-STATIONの公式ファンクラブ「**Vメイツ**」の会員を募集していた。Vメイツに加入すると、ホームページを介して番組の裏側を少し知ることができたり、2002年に公開された映画「[EAT\&RUN](../Page/EAT&RUN.md "wikilink")」のエキストラとしての参加権利が得られるなどの特典があった（ただし結果としてVメイツの登録者は、EAT\&RUNでは写真による参加となった）。しかし響きが[某バックダンサーチームの名前と類似していて](../Page/スクールメイツ.md "wikilink")、ウィークリーゲストの大半はそちらの方をイメージして誤解することもしばしばあった。
 
 ## ウィークリーゲスト一覧
 
 1.  2001年4月7日　→ [新・世紀ちゃん](https://ja.wikipedia.org/wiki/川口秀樹 "wikilink")、[佐藤卓矢](https://ja.wikipedia.org/wiki/佐藤卓矢 "wikilink")（ラジオ大阪ディレクター）
-2.  4月14日　→ [宮村優子](https://ja.wikipedia.org/wiki/宮村優子_\(声優\) "wikilink")
-3.  4月21日　→ [三重野瞳](https://ja.wikipedia.org/wiki/三重野瞳 "wikilink")、[正岡謙一郎](https://ja.wikipedia.org/wiki/正岡謙一郎 "wikilink")
-4.  4月28日　→ [豊嶋真千子](https://ja.wikipedia.org/wiki/豊嶋真千子 "wikilink")
-5.  5月5日　→ [愛河里花子](https://ja.wikipedia.org/wiki/愛河里花子 "wikilink")
+2.  4月14日　→ [宮村優子](../Page/宮村優子_\(声優\).md "wikilink")
+3.  4月21日　→ [三重野瞳](../Page/三重野瞳.md "wikilink")、[正岡謙一郎](../Page/正岡謙一郎.md "wikilink")
+4.  4月28日　→ [豊嶋真千子](../Page/豊嶋真千子.md "wikilink")
+5.  5月5日　→ [愛河里花子](../Page/愛河里花子.md "wikilink")
 6.  5月12日　→ [麻績村まゆ子](../Page/おみむらまゆこ.md "wikilink")
 7.  5月19日　→ [笠原弘子](../Page/笠原弘子.md "wikilink")
 8.  5月26日　→ [小林由美子](../Page/小林由美子.md "wikilink")、三重野瞳
@@ -61,7 +61,7 @@
 ## メール、FAX、BBS紹介以外のコーナー
 
   - ふつつか日記
-    この番組の開始される前の週まで土曜夜に放送されていた[瞳と光央の爆発ラジオ](../Page/瞳と光央の爆発ラジオ.md "wikilink")の中にあったコーナーを、タイトルだけ変更してVナビ仕様としたもの。リスナーのたわいもない体験談を面白おかしく紹介する。このコーナーのみ、[ハガキによる募集であった](https://ja.wikipedia.org/wiki/はがき "wikilink")。
+    この番組の開始される前の週まで土曜夜に放送されていた[瞳と光央の爆発ラジオ](../Page/瞳と光央の爆発ラジオ.md "wikilink")の中にあったコーナーを、タイトルだけ変更してVナビ仕様としたもの。リスナーのたわいもない体験談を面白おかしく紹介する。このコーナーのみ、[ハガキによる募集であった](../Page/はがき.md "wikilink")。
 
 <!-- end list -->
 
@@ -70,8 +70,8 @@
 
 ## 関連項目
 
-  - [1314 V-STATION](https://ja.wikipedia.org/wiki/1314_V-STATION "wikilink")
-  - [1314V-STATION FRIDAY SPECIAL V-kingdom](https://ja.wikipedia.org/wiki/V-Kingdom "wikilink")（Vナビ終了後、毎週・毎回生放送を行った番組）
-  - [豊嶋真千子](https://ja.wikipedia.org/wiki/豊嶋真千子 "wikilink")･･･Vナビ終了後、岩田は豊嶋とパーソナリティコンビを組んで、[豊嶋真千子・岩田光央 アスパラFUN\!\!の放送を開始した](https://ja.wikipedia.org/wiki/豊嶋真千子・岩田光央_アスパラFUN!! "wikilink")。
+  - [1314 V-STATION](../Page/1314_V-STATION.md "wikilink")
+  - [1314V-STATION FRIDAY SPECIAL V-kingdom](../Page/V-Kingdom.md "wikilink")（Vナビ終了後、毎週・毎回生放送を行った番組）
+  - [豊嶋真千子](../Page/豊嶋真千子.md "wikilink")･･･Vナビ終了後、岩田は豊嶋とパーソナリティコンビを組んで、[豊嶋真千子・岩田光央 アスパラFUN\!\!の放送を開始した](../Page/豊嶋真千子・岩田光央_アスパラFUN!!.md "wikilink")。
 
 [Category:1314_V-STATION](https://ja.wikipedia.org/wiki/Category:1314_V-STATION "wikilink") [Category:2001年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2001年のラジオ番組_\(日本\) "wikilink")

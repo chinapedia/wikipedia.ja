@@ -1,7 +1,7 @@
 > この記事は[Dj KENTARO](https://ja.wikipedia.org/wiki/Dj_KENTARO)から翻訳されています。
 
 
-**DJ KENTARO**（ディージェイ ケンタロウ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[DJ](https://ja.wikipedia.org/wiki/ディスクジョッキー "wikilink")、[ターンテーブリスト](https://ja.wikipedia.org/wiki/ターンテーブル "wikilink")。[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](https://ja.wikipedia.org/wiki/仙台市 "wikilink")出身。13歳（1995年）の頃からDJを始め、2002年に世界最大のDJバトルイベント「[DMC World Final](https://ja.wikipedia.org/wiki/Disco_Mix_Club "wikilink")」で、日本人およびアジア人としては初のワールドチャンピオンとなる。2004年にミックスCD『ON THE WHEELS OF Solid Steel』、2005年には欧州ソロツアーのライブを収録したDVD『National Geoscratch』を発売。
+**DJ KENTARO**（ディージェイ ケンタロウ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[DJ](../Page/ディスクジョッキー.md "wikilink")、[ターンテーブリスト](https://ja.wikipedia.org/wiki/ターンテーブル "wikilink")。[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](../Page/仙台市.md "wikilink")出身。13歳（1995年）の頃からDJを始め、2002年に世界最大のDJバトルイベント「[DMC World Final](https://ja.wikipedia.org/wiki/Disco_Mix_Club "wikilink")」で、日本人およびアジア人としては初のワールドチャンピオンとなる。2004年にミックスCD『ON THE WHEELS OF Solid Steel』、2005年には欧州ソロツアーのライブを収録したDVD『National Geoscratch』を発売。
 
 ## ディスコグラフィー
 
@@ -35,15 +35,15 @@
     4.  Tasogare Highway High
     5.  Rainyday (feat. NEW FLESH)
     6.  Uminnaka
-    7.  Handmade Gift (feat. [LITTLE TEMPO](https://ja.wikipedia.org/wiki/LITTLE_TEMPO "wikilink"))
+    7.  Handmade Gift (feat. [LITTLE TEMPO](../Page/LITTLE_TEMPO.md "wikilink"))
     8.  Space Jungle (feat. SPANK ROCK)
     9.  Nursery Room
-    10. Harvest DANCE (feat. [HIFANA](https://ja.wikipedia.org/wiki/HIFANA "wikilink"))
+    10. Harvest DANCE (feat. [HIFANA](../Page/HIFANA.md "wikilink"))
     11. Trust
     12. One Hand Blizzard
     13. Brightin' STAR
     14. Let It Go (feat. FAT JON)
-    15. Hatsuyume (feat. [HUNGER](https://ja.wikipedia.org/wiki/GAGLE "wikilink"))
+    15. Hatsuyume (feat. [HUNGER](../Page/GAGLE.md "wikilink"))
     16. Grateful To You
 
 <!-- end list -->
@@ -84,10 +84,10 @@
 5.  Sound Burger（2005年）
       -
         4.Cannon Baller/DJKENTARO and [DJ MITSU THE BEATS](https://ja.wikipedia.org/wiki/DJ_MITSU_THE_BEATS "wikilink")
-6.  Fresh Push Breakin/[HIFANA](https://ja.wikipedia.org/wiki/HIFANA "wikilink")（2003年）
+6.  Fresh Push Breakin/[HIFANA](../Page/HIFANA.md "wikilink")（2003年）
       -
         6.HITARO feat. DJ KENTARO
-7.  3men on wax/[GAGLE](https://ja.wikipedia.org/wiki/GAGLE "wikilink")（2002年）
+7.  3men on wax/[GAGLE](../Page/GAGLE.md "wikilink")（2002年）
       -
         7.DURUCHIKI HOUR feat. DJ KENTARO
 8.  NAMPOOH CABLE（2008年）
@@ -102,7 +102,7 @@
 11. LOUD COLORS/DVD（2004年）
       -
         1.feat. DJKENTARO
-12. [FIREBALL](https://ja.wikipedia.org/wiki/FIRE_BALL_\(レゲエグループ\) "wikilink")/DVD（2005年）
+12. [FIREBALL](../Page/FIRE_BALL_\(レゲエグループ\).md "wikilink")/DVD（2005年）
       -
         1.Visuratch Remix by DJ KENTARO
 13. POP+UNDERGROUND/[GTS](../Page/GTS_\(DJグループ\).md "wikilink")（2002年）
@@ -120,22 +120,22 @@
 17. BEAR WITNESS/Dan The Automator（2001年）
       -
         1.DJKENTARO remix
-18. [MIC BANDITZ](https://ja.wikipedia.org/wiki/MIC_BANDITZ "wikilink")「**Johnny Astro & the Diamond Crooks**」
+18. [MIC BANDITZ](../Page/MIC_BANDITZ.md "wikilink")「**Johnny Astro & the Diamond Crooks**」
       -
         1.The Turntable Enterprise feat. DJ KENTARO
 19. UC a.k.a DJ UPPERCUT「**Street Revolution**」（2005年12月7日）
       -
         4.GET DOWN feat. DJ KENTARO
-20. [ULTRA BRAiN](https://ja.wikipedia.org/wiki/ULTRA_BRAiN "wikilink")「**ULTRA MiX**」（2006年7月19日）
+20. [ULTRA BRAiN](../Page/ULTRA_BRAiN.md "wikilink")「**ULTRA MiX**」（2006年7月19日）
       -
         1.GHOST BUSTERZ:DJ KENTARO DAWNING REMIX
 21. オムニバス『**BOYCOTT RHYTHM MACHINE II〜VERSUS〜**』（2006年7月20日）
       -
-        7.DJ KENTARO+[DJ BAKU](https://ja.wikipedia.org/wiki/DJ_BAKU "wikilink") vs [芳垣安洋](https://ja.wikipedia.org/wiki/芳垣安洋 "wikilink")+[岡部洋一](https://ja.wikipedia.org/wiki/岡部洋一 "wikilink")
+        7.DJ KENTARO+[DJ BAKU](../Page/DJ_BAKU.md "wikilink") vs [芳垣安洋](https://ja.wikipedia.org/wiki/芳垣安洋 "wikilink")+[岡部洋一](../Page/岡部洋一.md "wikilink")
 22. [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")『**[ayu-mi-x 6 -GOLD-](https://ja.wikipedia.org/wiki/Ayu-mi-x_6 "wikilink")**』（2008年）
       -
         2.Moments (DJKENTARO remix)
-23. [SOIL&"PIMP"SESSIONS](https://ja.wikipedia.org/wiki/SOIL&"PIMP"SESSIONS "wikilink")「**6**」（2009年9月16日）
+23. [SOIL&"PIMP"SESSIONS](../Page/SOIL&"PIMP"SESSIONS.md "wikilink")「**6**」（2009年9月16日）
       -
         1.SEVEN（Intro Sound Collage by DJKENTARO）
 24. [PUSHIM](https://ja.wikipedia.org/wiki/PUSHIM "wikilink")「**LOVE THIS MUZIK**」（2009年）

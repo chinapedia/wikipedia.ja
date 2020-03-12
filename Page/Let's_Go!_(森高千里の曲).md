@@ -3,7 +3,7 @@
 
 「**Let's Go\!**」（レッツ・ゴー\!）は、1997年2月25日に[森高千里](../Page/森高千里.md "wikilink")が発表した楽曲、及び 31枚目のシングル。CDコードはEPDA-38。
 
-カップリングの「Let's Go\!(ll)」と共に「[ローソン](../Page/ローソン.md "wikilink")へ行かなくちゃ」TVCMテーマソング。ローソン店内でもよく流れていたが、CDのセールスとしては今一つに終わった。CMには[つぶやきシロー](../Page/つぶやきシロー.md "wikilink")と[中山エミリ](https://ja.wikipedia.org/wiki/中山エミリ "wikilink")が出演していた。
+カップリングの「Let's Go\!(ll)」と共に「[ローソン](../Page/ローソン.md "wikilink")へ行かなくちゃ」TVCMテーマソング。ローソン店内でもよく流れていたが、CDのセールスとしては今一つに終わった。CMには[つぶやきシロー](../Page/つぶやきシロー.md "wikilink")と[中山エミリ](../Page/中山エミリ.md "wikilink")が出演していた。
 
 『[PEACHBERRY](https://ja.wikipedia.org/wiki/PEACHBERRY "wikilink")』にも収録されている。
 
@@ -39,7 +39,7 @@
 ### Let's Go\!
 
   - 森高千里　ドラムス、コーラス
-  - [高橋諭一](https://ja.wikipedia.org/wiki/高橋諭一 "wikilink")　アコースティックギター、キーボード
+  - [高橋諭一](../Page/高橋諭一.md "wikilink")　アコースティックギター、キーボード
   - 橋本慎 　アコースティックピアノ、エレクトリックピアノ、キーボード
   - 瀬戸由紀男　エレキギター、ベース、ウィンドチャイム、パーカッション
 
@@ -52,10 +52,10 @@
 
 ### 見たとおりよ私（Noisy Instrumental）
 
-  - 森高千里　ドラムス、アコースティックピアノ、[カリンバ](https://ja.wikipedia.org/wiki/カリンバ "wikilink")
+  - 森高千里　ドラムス、アコースティックピアノ、[カリンバ](../Page/カリンバ.md "wikilink")
   - 高橋諭一　キーボード
-  - 橋本慎　[ローズ・ピアノ](https://ja.wikipedia.org/wiki/ローズ・ピアノ "wikilink")、シンセサイザー、カリンバ
-  - 瀬戸由紀男　ベース、[ジャンベ](https://ja.wikipedia.org/wiki/ジャンベ "wikilink")、[ディジュリドゥ](../Page/ディジュリドゥ.md "wikilink")
+  - 橋本慎　[ローズ・ピアノ](../Page/ローズ・ピアノ.md "wikilink")、シンセサイザー、カリンバ
+  - 瀬戸由紀男　ベース、[ジャンベ](../Page/ジャンベ.md "wikilink")、[ディジュリドゥ](../Page/ディジュリドゥ.md "wikilink")
 
 ### ミラクルウーマン（Miracle master mix）
 
@@ -64,7 +64,7 @@
 
 ### パッパッパヤ（Smoosy）
 
-  - 森高千里　ドラムス、コーラス、[ピアニカ](https://ja.wikipedia.org/wiki/ピアニカ "wikilink")
+  - 森高千里　ドラムス、コーラス、[ピアニカ](../Page/ピアニカ.md "wikilink")
   - 高橋諭一　アコースティックギター、キーボード
   - 橋本慎　ローズ・ピアノ、クラリネット、シンセサイザー
   - 瀬戸由紀男　エレキギター

@@ -1,7 +1,7 @@
 > この記事は[LIFE STORY](https://ja.wikipedia.org/wiki/LIFE_STORY)から翻訳されています。
 
 
-『**LIFE STORY**』（ライフ・ストーリー）は、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[5月23日](../Page/5月23日.md "wikilink")に発売した[THA BLUE HERBの](https://ja.wikipedia.org/wiki/ザ_ブルーハーブ "wikilink")3作目のアルバム。
+『**LIFE STORY**』（ライフ・ストーリー）は、[2007年](../Page/2007年.md "wikilink")[5月23日](../Page/5月23日.md "wikilink")に発売した[THA BLUE HERBの](../Page/ザ_ブルーハーブ.md "wikilink")3作目のアルバム。
 
 ## 概要
 
@@ -29,7 +29,7 @@ CD
       -
 8.  **SUCH A GOOD FEELING**
       -
-        [EGO-WRAPPIN'](https://ja.wikipedia.org/wiki/EGO-WRAPPIN' "wikilink")の中納良恵がゲストボーカルとして参加
+        [EGO-WRAPPIN'](../Page/EGO-WRAPPIN'.md "wikilink")の中納良恵がゲストボーカルとして参加
 9.  **WE MUST LEARN**
       -
 10. **TENDERLY**

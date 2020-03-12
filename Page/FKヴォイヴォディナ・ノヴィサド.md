@@ -1,11 +1,11 @@
 > この記事は[FK](https://ja.wikipedia.org/wiki/FK)から翻訳されています。
 
 
-**フドバルスキ・クルブ・ヴォイヴォディナ**（, ）は、[セルビア](../Page/セルビア.md "wikilink")北部の都市[ノヴィ・サド](https://ja.wikipedia.org/wiki/ノヴィ・サド "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
+**フドバルスキ・クルブ・ヴォイヴォディナ**（, ）は、[セルビア](../Page/セルビア.md "wikilink")北部の都市[ノヴィ・サド](../Page/ノヴィ・サド.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
 
 ## 歴史
 
-1914年3月6日に学生達によって創設された、セルビア国内で最古のサッカークラブである。[ユーゴスラビア](../Page/ユーゴスラビア.md "wikilink")時代に国内リーグ戦を2度制すなど、[ヴォイヴォディナ](https://ja.wikipedia.org/wiki/ヴォイヴォディナ "wikilink")自治州のサッカークラブとしては最も実績を残している。1966-67シーズンの[UEFAチャンピオンズカップでは準々決勝に達した](../Page/UEFAチャンピオンズリーグ.md "wikilink")。
+1914年3月6日に学生達によって創設された、セルビア国内で最古のサッカークラブである。[ユーゴスラビア](../Page/ユーゴスラビア.md "wikilink")時代に国内リーグ戦を2度制すなど、[ヴォイヴォディナ](../Page/ヴォイヴォディナ.md "wikilink")自治州のサッカークラブとしては最も実績を残している。1966-67シーズンの[UEFAチャンピオンズカップでは準々決勝に達した](../Page/UEFAチャンピオンズリーグ.md "wikilink")。
 
 2014年、[セルビア・カップ](https://ja.wikipedia.org/wiki/セルビア・カップ "wikilink")で初優勝した\[1\]。
 
@@ -20,26 +20,26 @@
 
 ### 国際タイトル
 
-  - **[ミトローパ・カップ](https://ja.wikipedia.org/wiki/ミトローパ・カップ "wikilink")：1回**
+  - **[ミトローパ・カップ](../Page/ミトローパ・カップ.md "wikilink")：1回**
       - 1977
 
 ## 過去の成績
 
-| シーズン    | ディビジョン                                                                |
-| ------- | --------------------------------------------------------------------- |
-| リーグ     | 試                                                                     |
-| 2006-07 | [セルビア・スーペルリーガ](https://ja.wikipedia.org/wiki/セルビア・スーペルリーガ "wikilink") |
-| 2007-08 | セルビア・スーペルリーガ                                                          |
-| 2008-09 | セルビア・スーペルリーガ                                                          |
-| 2009-10 | セルビア・スーペルリーガ                                                          |
-| 2010-11 | セルビア・スーペルリーガ                                                          |
-| 2011-12 | セルビア・スーペルリーガ                                                          |
-| 2012-13 | セルビア・スーペルリーガ                                                          |
-| 2013-14 | セルビア・スーペルリーガ                                                          |
-| 2014-15 | セルビア・スーペルリーガ                                                          |
-| 2015-16 | セルビア・スーペルリーガ                                                          |
-| 2016-17 | セルビア・スーペルリーガ                                                          |
-| 2017-18 | セルビア・スーペルリーガ                                                          |
+| シーズン    | ディビジョン                                             |
+| ------- | -------------------------------------------------- |
+| リーグ     | 試                                                  |
+| 2006-07 | [セルビア・スーペルリーガ](../Page/セルビア・スーペルリーガ.md "wikilink") |
+| 2007-08 | セルビア・スーペルリーガ                                       |
+| 2008-09 | セルビア・スーペルリーガ                                       |
+| 2009-10 | セルビア・スーペルリーガ                                       |
+| 2010-11 | セルビア・スーペルリーガ                                       |
+| 2011-12 | セルビア・スーペルリーガ                                       |
+| 2012-13 | セルビア・スーペルリーガ                                       |
+| 2013-14 | セルビア・スーペルリーガ                                       |
+| 2014-15 | セルビア・スーペルリーガ                                       |
+| 2015-16 | セルビア・スーペルリーガ                                       |
+| 2016-17 | セルビア・スーペルリーガ                                       |
+| 2017-18 | セルビア・スーペルリーガ                                       |
 
 ## 欧州の成績
 
@@ -61,7 +61,7 @@
 <td><p>2009-10</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2009-10" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FKアウストリア・ウィーン" title="wikilink">アウストリア・ウィーン</a></p></td>
+<td><p><a href="../Page/FKアウストリア・ウィーン.md" title="wikilink">アウストリア・ウィーン</a></p></td>
 <td><p>1–1</p></td>
 <td><p>2–4</p></td>
 <td><p>'''3–5</p></td>
@@ -71,7 +71,7 @@
 <td><p>2011-12</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2011-12" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCファドゥーツ" title="wikilink">ファドゥーツ</a></p></td>
+<td><p><a href="../Page/FCファドゥーツ.md" title="wikilink">ファドゥーツ</a></p></td>
 <td><p>1–3</p></td>
 <td><p>2–0</p></td>
 <td><p>'''3–3 (a)</p></td>
@@ -89,7 +89,7 @@
 </tr>
 <tr class="even">
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SKラピード・ウィーン" title="wikilink">ラピード・ウィーン</a></p></td>
+<td><p><a href="../Page/SKラピード・ウィーン.md" title="wikilink">ラピード・ウィーン</a></p></td>
 <td><p>2–1</p></td>
 <td><p>0–2</p></td>
 <td><p>'''2–3</p></td>
@@ -109,7 +109,7 @@
 </tr>
 <tr class="even">
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブダペスト・ホンヴェードFC" title="wikilink">ブダペスト・ホンヴェード</a></p></td>
+<td><p><a href="../Page/ブダペスト・ホンヴェードFC.md" title="wikilink">ブダペスト・ホンヴェード</a></p></td>
 <td><p>2–0</p></td>
 <td><p>3–1</p></td>
 <td><p>'''5–1</p></td>
@@ -129,7 +129,7 @@
 </tr>
 <tr class="even">
 <td><p>プレーオフ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCシェリフ・ティラスポリ" title="wikilink">シェリフ・ティラスポリ</a></p></td>
+<td><p><a href="../Page/FCシェリフ・ティラスポリ.md" title="wikilink">シェリフ・ティラスポリ</a></p></td>
 <td><p>1–1</p></td>
 <td><p>1–2</p></td>
 <td><p>'''2–3</p></td>
@@ -151,7 +151,7 @@
 <td><p>2015-16</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2015-16" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>予選1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/MTKブダペストFC" title="wikilink">MTKブダペスト</a></p></td>
+<td><p><a href="../Page/MTKブダペストFC.md" title="wikilink">MTKブダペスト</a></p></td>
 <td><p>3–1</p></td>
 <td><p>0–0</p></td>
 <td><p>'''3–1</p></td>
@@ -169,7 +169,7 @@
 </tr>
 <tr class="even">
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/UCサンプドリア" title="wikilink">サンプドリア</a></p></td>
+<td><p><a href="../Page/UCサンプドリア.md" title="wikilink">サンプドリア</a></p></td>
 <td><p>0–2</p></td>
 <td><p>4–0</p></td>
 <td><p>'''4–2</p></td>
@@ -209,7 +209,7 @@
 </tr>
 <tr class="even">
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCディナモ・ミンスク" title="wikilink">ディナモ・ミンスク</a></p></td>
+<td><p><a href="../Page/FCディナモ・ミンスク.md" title="wikilink">ディナモ・ミンスク</a></p></td>
 <td><p>1–1</p></td>
 <td><p>2–0</p></td>
 <td><p>'''3–1</p></td>
@@ -219,7 +219,7 @@
 </tr>
 <tr class="odd">
 <td><p>プレーオフ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/AZアルクマール" title="wikilink">AZ</a></p></td>
+<td><p><a href="../Page/AZアルクマール.md" title="wikilink">AZ</a></p></td>
 <td><p>0-3</p></td>
 <td><p>0-0</p></td>
 <td><p>'''0-3</p></td>
@@ -249,7 +249,7 @@
 | [ヨーロピアン・カップ/チャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")                     | 9   | 5  | 1  | 3  | 10 | 9  | \+1 |
 | [UEFAカップ/ヨーロッパリーグ](../Page/UEFAヨーロッパリーグ.md "wikilink")                            | 47  | 19 | 12 | 16 | 73 | 67 | \+6 |
 | [UEFAインタートトカップ](../Page/UEFAインタートトカップ.md "wikilink")                              | 10  | 6  | 1  | 3  | 18 | 9  | \+9 |
-| [ミトローパ・カップ](https://ja.wikipedia.org/wiki/ミトローパ・カップ "wikilink")                   | 37  | 13 | 11 | 13 | 57 | 51 | \+6 |
+| [ミトローパ・カップ](../Page/ミトローパ・カップ.md "wikilink")                                      | 37  | 13 | 11 | 13 | 57 | 51 | \+6 |
 | [インターシティーズ・フェアーズカップ](https://ja.wikipedia.org/wiki/インターシティーズ・フェアーズカップ "wikilink") | 23  | 9  | 6  | 8  | 27 | 22 | \+5 |
 
 ## 現所属メンバー
@@ -305,7 +305,7 @@
 <td><p>519</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ヴヤディン・ボシュコヴ" title="wikilink">ヴヤディン・ボシュコヴ</a></p></td>
+<td><p><a href="../Page/ヴヤディン・ボシュコヴ.md" title="wikilink">ヴヤディン・ボシュコヴ</a></p></td>
 <td><p>512</p></td>
 </tr>
 </tbody>
@@ -455,7 +455,7 @@
 
 ## 歴代所属選手
 
-  - [ヴヤディン・ボシュコヴ](https://ja.wikipedia.org/wiki/ヴヤディン・ボシュコヴ "wikilink") 1946-1960
+  - [ヴヤディン・ボシュコヴ](../Page/ヴヤディン・ボシュコヴ.md "wikilink") 1946-1960
 
   - [シニシャ・ミハイロヴィチ](../Page/シニシャ・ミハイロヴィチ.md "wikilink") 1988-1991
 

@@ -3,20 +3,20 @@
 
 **MAKI**（まき、[2月10日](../Page/2月10日.md "wikilink") - ）は、[沖縄県](../Page/沖縄県.md "wikilink")[浦添市](../Page/浦添市.md "wikilink")出身の[歌手](../Page/歌手.md "wikilink")。主にスタジオボーカリストとして活動中。
 
-[コナミデジタルエンタテインメント](https://ja.wikipedia.org/wiki/コナミデジタルエンタテインメント "wikilink")の[BEMANIシリーズ](../Page/BEMANIシリーズ.md "wikilink")（主に『[GuitarFreaks](../Page/GUITARFREAKS.md "wikilink")』、『[DrumMania](https://ja.wikipedia.org/wiki/drummania "wikilink")』、『[pop'n music](https://ja.wikipedia.org/wiki/pop'n_music "wikilink")』）で歌った楽曲がよく知られている。同シリーズで活動した[スカ](../Page/スカ.md "wikilink")ユニット、[亜熱帯マジ-SKA爆弾](https://ja.wikipedia.org/wiki/亜熱帯マジ-SKA爆弾 "wikilink")と組んで（[フィーチャーされて](https://ja.wikipedia.org/wiki/フィーチャリング "wikilink")）発表した楽曲も多い。
+[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")の[BEMANIシリーズ](../Page/BEMANIシリーズ.md "wikilink")（主に『[GuitarFreaks](../Page/GUITARFREAKS.md "wikilink")』、『[DrumMania](https://ja.wikipedia.org/wiki/drummania "wikilink")』、『[pop'n music](https://ja.wikipedia.org/wiki/pop'n_music "wikilink")』）で歌った楽曲がよく知られている。同シリーズで活動した[スカ](../Page/スカ.md "wikilink")ユニット、[亜熱帯マジ-SKA爆弾](../Page/亜熱帯マジ-SKA爆弾.md "wikilink")と組んで（[フィーチャーされて](../Page/フィーチャリング.md "wikilink")）発表した楽曲も多い。
 
 ## アーティストへのコーラス参加
 
-[安倍なつみ](../Page/安倍なつみ.md "wikilink")、[松浦亜弥](../Page/松浦亜弥.md "wikilink")、[久住小春](https://ja.wikipedia.org/wiki/久住小春 "wikilink")、[水樹奈々](../Page/水樹奈々.md "wikilink")、[リュ・シォン](https://ja.wikipedia.org/wiki/リュ・シォン "wikilink")、[タブレット純](https://ja.wikipedia.org/wiki/タブレット純 "wikilink")、[Safety Shoes](https://ja.wikipedia.org/wiki/Safety_Shoes "wikilink") 他
+[安倍なつみ](../Page/安倍なつみ.md "wikilink")、[松浦亜弥](../Page/松浦亜弥.md "wikilink")、[久住小春](../Page/久住小春.md "wikilink")、[水樹奈々](../Page/水樹奈々.md "wikilink")、[リュ・シォン](https://ja.wikipedia.org/wiki/リュ・シォン "wikilink")、[タブレット純](https://ja.wikipedia.org/wiki/タブレット純 "wikilink")、[Safety Shoes](https://ja.wikipedia.org/wiki/Safety_Shoes "wikilink") 他
 
 ## 作品
 
-ソロ活動のものを記載。[SAFETY SHOES](https://ja.wikipedia.org/wiki/SAFETY_SHOES "wikilink")、[亜熱帯マジ-SKA爆弾](https://ja.wikipedia.org/wiki/亜熱帯マジ-SKA爆弾 "wikilink")でのものは当該項目を参照のこと。
+ソロ活動のものを記載。[SAFETY SHOES](../Page/SAFETY_SHOES.md "wikilink")、[亜熱帯マジ-SKA爆弾](../Page/亜熱帯マジ-SKA爆弾.md "wikilink")でのものは当該項目を参照のこと。
 
 ### シングル
 
   - い〜じゃん\!友情（2007年7月25日）
-      - テレビアニメ『[ドージンワーク](https://ja.wikipedia.org/wiki/ドージンワーク "wikilink")』オープニングテーマ
+      - テレビアニメ『[ドージンワーク](../Page/ドージンワーク.md "wikilink")』オープニングテーマ
 
 ### アルバム
 
@@ -47,9 +47,9 @@
   - 脱皮 〜Knock Out Regrets〜（PS2版『pop'n music 12 いろは』）-MAKI@TOGO.BAND名義。
   - Knock Out Regrets（PS2版『pop'n music 12 いろは』、PS2ソフト『[Dance Dance Revolution](https://ja.wikipedia.org/wiki/Dance_Dance_Revolution "wikilink") STRIKE』）-MAKI@TOGO.BAND名義。
   - 魅せられて〜エーゲ海のテーマ（『pop'n music 14 FEVER\!』）-カバー楽曲。原曲は『[魅せられて](https://ja.wikipedia.org/wiki/魅せられて_\(ジュディ・オングの曲\) "wikilink")』。
-  - 月のワルツ（『pop'n music 16 PARTY♪』）-カバー楽曲。原曲は『[月のワルツ](https://ja.wikipedia.org/wiki/月のワルツ "wikilink")』。
+  - 月のワルツ（『pop'n music 16 PARTY♪』）-カバー楽曲。原曲は『[月のワルツ](../Page/月のワルツ.md "wikilink")』。
   - 誰がために陽はのぼる（『pop'n music 17 THE MOVIE』）
-  - Challenge Chance（[ハンゲーム](https://ja.wikipedia.org/wiki/ハンゲーム "wikilink")内ゲーム『パチスロDX』の『マジレス 〜リリスのマジカルレッスン〜』、『[歌謡タイピング劇場](https://ja.wikipedia.org/wiki/歌謡タイピング劇場 "wikilink")』）
+  - Challenge Chance（[ハンゲーム](../Page/ハンゲーム.md "wikilink")内ゲーム『パチスロDX』の『マジレス 〜リリスのマジカルレッスン〜』、『[歌謡タイピング劇場](https://ja.wikipedia.org/wiki/歌謡タイピング劇場 "wikilink")』）
   - ポップミュージック続論 - ギラギラメガネ楽団 feat. MAKI名義。『[V-RARE SOUND TRACK](../Page/V-RARE_SOUND_TRACK.md "wikilink") 15』収録。(『pop'n music18 せんごく列伝』)
 
 ## その他ボーカル歌唱
@@ -63,7 +63,7 @@
 
 ## 関連項目
 
-  - [亜熱帯マジ-SKA爆弾](https://ja.wikipedia.org/wiki/亜熱帯マジ-SKA爆弾 "wikilink")
+  - [亜熱帯マジ-SKA爆弾](../Page/亜熱帯マジ-SKA爆弾.md "wikilink")
 
 ## 外部リンク
 

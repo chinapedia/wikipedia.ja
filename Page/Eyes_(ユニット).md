@@ -1,12 +1,12 @@
 > この記事は[Eyes \(\)](https://ja.wikipedia.org/wiki/Eyes_\(\))から翻訳されています。
 
 
-**eyes**（アイズ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の3人組[ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")[グループ](https://ja.wikipedia.org/wiki/グループ "wikilink")である。[LUVandSOUL](https://ja.wikipedia.org/wiki/LUVandSOUL "wikilink")活動休止後にKENTAを中心に結成され、2005年[ユニバーサルミュージックよりデビュー](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。2009年12月24日、25日のワンマンライブ2daysをもって解散。
+**eyes**（アイズ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の3人組[ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")[グループ](https://ja.wikipedia.org/wiki/グループ "wikilink")である。[LUVandSOUL](../Page/LUVandSOUL.md "wikilink")活動休止後にKENTAを中心に結成され、2005年[ユニバーサルミュージックよりデビュー](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。2009年12月24日、25日のワンマンライブ2daysをもって解散。
 
 ## メンバー
 
-  - **KENTA** ([1月12日](../Page/1月12日.md "wikilink") - ) [埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")[越谷市](https://ja.wikipedia.org/wiki/越谷市 "wikilink")出身。[LUVandSOUL](https://ja.wikipedia.org/wiki/LUVandSOUL "wikilink")のリーダー。
-  - **yas.** ([12月23日](../Page/12月23日.md "wikilink") - ) [長崎県](../Page/長崎県.md "wikilink")[南高来郡](../Page/南高来郡.md "wikilink")[国見町](https://ja.wikipedia.org/wiki/国見町_\(長崎県\) "wikilink")（現・[雲仙市](https://ja.wikipedia.org/wiki/雲仙市 "wikilink")）出身。元.super studio underbar。
+  - **KENTA** ([1月12日](../Page/1月12日.md "wikilink") - ) [埼玉県](../Page/埼玉県.md "wikilink")[越谷市](https://ja.wikipedia.org/wiki/越谷市 "wikilink")出身。[LUVandSOUL](../Page/LUVandSOUL.md "wikilink")のリーダー。
+  - **yas.** ([12月23日](../Page/12月23日.md "wikilink") - ) [長崎県](../Page/長崎県.md "wikilink")[南高来郡](../Page/南高来郡.md "wikilink")[国見町](../Page/国見町_\(長崎県\).md "wikilink")（現・[雲仙市](../Page/雲仙市.md "wikilink")）出身。元.super studio underbar。
   - **kazu** ([9月29日](../Page/9月29日.md "wikilink") - ) [新潟県](../Page/新潟県.md "wikilink")[柏崎市](../Page/柏崎市.md "wikilink")出身。元.super studio underbar。
 
 ## ディスコグラフィー
@@ -14,7 +14,7 @@
 ### シングル
 
 1.  **会いたい ～Missing～** (2005年11月2日)
-    1.  会いたい ～Missing～ ([キム・ボムス](https://ja.wikipedia.org/wiki/キム・ボムス "wikilink")のカバー)
+    1.  会いたい ～Missing～ ([キム・ボムス](../Page/キム・ボムス.md "wikilink")のカバー)
     2.  Party Night
     3.  会いたい ～Missing～ (KARAOKE VERSION)
     4.  Party Night (KARAOKE VERSION)
@@ -29,7 +29,7 @@
     3.  journey of love
     4.  beautiful lady (Instrumental)
 4.  **I'll be there** (2008年10月8日)
-    1.  I'll be there ([NTV系](https://ja.wikipedia.org/wiki/NTV系 "wikilink")「[歌スタ\!\!](https://ja.wikipedia.org/wiki/歌スタ!! "wikilink")」エンディング・テーマ)
+    1.  I'll be there ([NTV系](https://ja.wikipedia.org/wiki/NTV系 "wikilink")「[歌スタ\!\!](../Page/歌スタ!!.md "wikilink")」エンディング・テーマ)
     2.  letter
     3.  I'll be there (instrumental)
     4.  letter (instrumental)
@@ -58,7 +58,7 @@
 
 ## 関連項目
 
-  - [LUVandSOUL](https://ja.wikipedia.org/wiki/LUVandSOUL "wikilink")
+  - [LUVandSOUL](../Page/LUVandSOUL.md "wikilink")
   - .super studio underbar
   - [大野裕一](https://ja.wikipedia.org/wiki/大野裕一 "wikilink")
 

@@ -1,37 +1,37 @@
 > この記事は[ZG3 \(\)](https://ja.wikipedia.org/wiki/ZG3_\(\))から翻訳されています。
 
 
-|                                                      |
-| ---------------------------------------------------- |
-|                                                      |
-| 艦歴                                                   |
-| 発注:                                                  |
-| 起工:                                                  |
-| 進水:                                                  |
-| 就役:                                                  |
-| 退役:                                                  |
-| その後:                                                 |
-| 除籍:                                                  |
-| 性能諸元（（）内はZG3のデータ）                                    |
-| [排水量](https://ja.wikipedia.org/wiki/排水量 "wikilink"): |
-| 全長:                                                  |
-| 水線長:                                                 |
-| 全幅:                                                  |
-| 吃水:                                                  |
-| 機関:                                                  |
-| 最大出力:                                                |
-| 最大速力:                                                |
-| 航続距離:                                                |
-| 乗員:                                                  |
-| 兵装:                                                  |
+|                                   |
+| --------------------------------- |
+|                                   |
+| 艦歴                                |
+| 発注:                               |
+| 起工:                               |
+| 進水:                               |
+| 就役:                               |
+| 退役:                               |
+| その後:                              |
+| 除籍:                               |
+| 性能諸元（（）内はZG3のデータ）                 |
+| [排水量](../Page/排水量.md "wikilink"): |
+| 全長:                               |
+| 水線長:                              |
+| 全幅:                               |
+| 吃水:                               |
+| 機関:                               |
+| 最大出力:                             |
+| 最大速力:                             |
+| 航続距離:                             |
+| 乗員:                               |
+| 兵装:                               |
 
-**ZG3**は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")時に[ドイツ海軍](https://ja.wikipedia.org/wiki/ドイツ海軍 "wikilink")が運用した[駆逐艦](../Page/駆逐艦.md "wikilink")である。元は[ギリシャ海軍](https://ja.wikipedia.org/wiki/ギリシャ海軍 "wikilink")の[ヴァシレフス・ゲオルギオス級駆逐艦](https://ja.wikipedia.org/wiki/ヴァシレフス・ゲオルギオス級駆逐艦 "wikilink")の1番艦[ヴァシレフス・ゲオルギオスで鹵獲後に就役させたものである](https://ja.wikipedia.org/wiki/ヴァシレフス・ゲオルギオス_\(駆逐艦\) "wikilink")。
+**ZG3**は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")時に[ドイツ海軍](../Page/ドイツ海軍.md "wikilink")が運用した[駆逐艦](../Page/駆逐艦.md "wikilink")である。元は[ギリシャ海軍](https://ja.wikipedia.org/wiki/ギリシャ海軍 "wikilink")の[ヴァシレフス・ゲオルギオス級駆逐艦](https://ja.wikipedia.org/wiki/ヴァシレフス・ゲオルギオス級駆逐艦 "wikilink")の1番艦[ヴァシレフス・ゲオルギオスで鹵獲後に就役させたものである](https://ja.wikipedia.org/wiki/ヴァシレフス・ゲオルギオス_\(駆逐艦\) "wikilink")。
 
 ## 艦歴
 
 [HMS_Splendid.jpg](https://ja.wikipedia.org/wiki/File:HMS_Splendid.jpg "fig:HMS_Splendid.jpg") 駆逐艦ヴァシレフス・ゲオルギオス。ヴァシレフス・ゲオルギオスは1941年4月14日に爆撃で損傷し、サラミス島で自沈した。ドイツはこれを修理して、1942年3月21日にZG3として就役させた。8月22日にはヘルメス（Hermes）と命名され、就役後は、[地中海](../Page/地中海.md "wikilink")で護衛や機雷敷設などに従事した。1942年11月16日、[エーゲ海](../Page/エーゲ海.md "wikilink")でギリシャ潜水艦「[トリトン（Triton）](https://ja.wikipedia.org/wiki/トリトン_\(潜水艦\) "wikilink")」を探知。駆潜艇「UJ2102」がトリトンを撃沈した。1943年4月21日には、[カプリ](../Page/カプリ.md "wikilink")沖で[イギリス海軍](../Page/イギリス海軍.md "wikilink")の[S級潜水艦](https://ja.wikipedia.org/wiki/S級潜水艦_\(イギリス海軍・2代\) "wikilink")[スプレンディッド](https://ja.wikipedia.org/wiki/スプレンディッド_\(潜水艦\) "wikilink")を撃沈。
 
-1943年4月30日、[イタリア海軍](https://ja.wikipedia.org/wiki/イタリア海軍 "wikilink")の[ナヴィガトーリ級駆逐艦](https://ja.wikipedia.org/wiki/ナヴィガトーリ級駆逐艦 "wikilink")「[レオーネ・パンカルド](https://ja.wikipedia.org/wiki/レオーネ・パンカルド_\(駆逐艦\) "wikilink")」、[フォルゴーレ級駆逐艦](https://ja.wikipedia.org/wiki/ダルド級駆逐艦_\(セコンダ\) "wikilink")「[ランポ](https://ja.wikipedia.org/wiki/ランポ_\(駆逐艦\) "wikilink")」と共に[チュニジア](../Page/チュニジア.md "wikilink")への兵員などの輸送中に[ボン岬](https://ja.wikipedia.org/wiki/ボン岬 "wikilink")沖で[連合軍](https://ja.wikipedia.org/wiki/連合軍 "wikilink")の[爆撃により大破](https://ja.wikipedia.org/wiki/空襲 "wikilink")、[チュニジア](../Page/チュニジア.md "wikilink")の[ラ・グレット](https://ja.wikipedia.org/wiki/ラ・グレット "wikilink")で5月7日に自沈。
+1943年4月30日、[イタリア海軍](../Page/イタリア海軍.md "wikilink")の[ナヴィガトーリ級駆逐艦](../Page/ナヴィガトーリ級駆逐艦.md "wikilink")「[レオーネ・パンカルド](https://ja.wikipedia.org/wiki/レオーネ・パンカルド_\(駆逐艦\) "wikilink")」、[フォルゴーレ級駆逐艦](../Page/ダルド級駆逐艦_\(セコンダ\).md "wikilink")「[ランポ](https://ja.wikipedia.org/wiki/ランポ_\(駆逐艦\) "wikilink")」と共に[チュニジア](../Page/チュニジア.md "wikilink")への兵員などの輸送中に[ボン岬](https://ja.wikipedia.org/wiki/ボン岬 "wikilink")沖で[連合軍](https://ja.wikipedia.org/wiki/連合軍 "wikilink")の[爆撃により大破](../Page/空襲.md "wikilink")、[チュニジア](../Page/チュニジア.md "wikilink")の[ラ・グレット](https://ja.wikipedia.org/wiki/ラ・グレット "wikilink")で5月7日に自沈。
 
 ## 参考文献
 
@@ -40,9 +40,9 @@
 
 ## 関連項目
 
-  - [ギリシャ海軍艦艇一覧](https://ja.wikipedia.org/wiki/ギリシャ海軍艦艇一覧 "wikilink")
+  - [ギリシャ海軍艦艇一覧](../Page/ギリシャ海軍艦艇一覧.md "wikilink")
   - [ギリシャ海軍の歴史](https://ja.wikipedia.org/wiki/ギリシャ海軍の歴史 "wikilink")
-  - [ドイツ海軍艦艇一覧](https://ja.wikipedia.org/wiki/ドイツ海軍艦艇一覧 "wikilink")
+  - [ドイツ海軍艦艇一覧](../Page/ドイツ海軍艦艇一覧.md "wikilink")
 
 ## 外部リンク
 

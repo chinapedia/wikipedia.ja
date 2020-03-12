@@ -5,13 +5,13 @@
 
 ## 解説
 
-  - ファーストアルバム『[G∞VER](https://ja.wikipedia.org/wiki/G∞VER "wikilink")』からわずか2ヶ月後に発売したシングル。
+  - ファーストアルバム『[G∞VER](../Page/G∞VER.md "wikilink")』からわずか2ヶ月後に発売したシングル。
 
 ## 収録曲
 
 1.  STYLE 〜get glory in this hand〜
       -
-        [スパイク](../Page/スパイク_\(ゲーム会社\).md "wikilink")・[PS2専用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[忍道 戒](https://ja.wikipedia.org/wiki/忍道_戒 "wikilink")』のイメージソング。CMではメンバーも特別出演している。
+        [スパイク](../Page/スパイク_\(ゲーム会社\).md "wikilink")・[PS2専用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[忍道 戒](../Page/忍道_戒.md "wikilink")』のイメージソング。CMではメンバーも特別出演している。
         2005年初頭には制作されており、以前からライブで盛り上がる曲として存在していた。
         作曲はカズトであり、作詞はユウスケが担当した。
 2.  energy
@@ -25,13 +25,13 @@
 
 ## 収録アルバム
 
-  - [傲音プログレッシヴ](https://ja.wikipedia.org/wiki/傲音プログレッシヴ "wikilink") (\#1)
+  - [傲音プログレッシヴ](../Page/傲音プログレッシヴ.md "wikilink") (\#1)
   - [10 COLOR SINGLES](https://ja.wikipedia.org/wiki/10_COLOR_SINGLES "wikilink") (\#1)
   - [BEEEEEEST](https://ja.wikipedia.org/wiki/BEEEEEEST "wikilink") (\#2)
 
 ## 関連項目
 
-  - [忍道 戒](https://ja.wikipedia.org/wiki/忍道_戒 "wikilink")
+  - [忍道 戒](../Page/忍道_戒.md "wikilink")
   - [DEATH NOTE](https://ja.wikipedia.org/wiki/DEATH_NOTE "wikilink")
 
 [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:エスエムイーレコーズのシングル](https://ja.wikipedia.org/wiki/Category:エスエムイーレコーズのシングル "wikilink") [Category:HIGH_and_MIGHTY_COLORの楽曲](https://ja.wikipedia.org/wiki/Category:HIGH_and_MIGHTY_COLORの楽曲 "wikilink") [Category:楽曲_す](https://ja.wikipedia.org/wiki/Category:楽曲_す "wikilink")

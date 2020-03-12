@@ -5,11 +5,11 @@
 
 2006年から2011年までは**ジュニアヘビー級リーグ戦**（ジュニアヘビーきゅうリーグせん）の名称で開催されて2012年に現在の名称に改称された。
 
-2003年に**[ジュニアヘビー・チャンピオン・カーニバル](https://ja.wikipedia.org/wiki/チャンピオン・カーニバル_\(プロレス\) "wikilink")**が開催されたが、あくまでヘビー級選手による[チャンピオン・カーニバルのジュニアヘビー級部門としての位置づけであり](https://ja.wikipedia.org/wiki/チャンピオン・カーニバル_\(プロレス\) "wikilink")、開催された時期もチャンピオン・カーニバルのシリーズ内であった。
+2003年に**[ジュニアヘビー・チャンピオン・カーニバル](../Page/チャンピオン・カーニバル_\(プロレス\).md "wikilink")**が開催されたが、あくまでヘビー級選手による[チャンピオン・カーニバルのジュニアヘビー級部門としての位置づけであり](../Page/チャンピオン・カーニバル_\(プロレス\).md "wikilink")、開催された時期もチャンピオン・カーニバルのシリーズ内であった。
 
 ## 概要
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")から毎年6月シリーズの開催となっている。[新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")で開催されている[BEST OF THE SUPER Jr.と競合する大会であり](https://ja.wikipedia.org/wiki/ベスト・オブ・ザ・スーパージュニア "wikilink")、開催時期も競合させている。
+[2006年](../Page/2006年.md "wikilink")から毎年6月シリーズの開催となっている。[新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")で開催されている[BEST OF THE SUPER Jr.と競合する大会であり](../Page/ベスト・オブ・ザ・スーパージュニア.md "wikilink")、開催時期も競合させている。
 
 [2013年](../Page/2013年.md "wikilink")、[全日本プロレス](../Page/全日本プロレス.md "wikilink")の新体制移行が6月にあったため中止になった。
 
@@ -24,10 +24,10 @@
 
 <!-- end list -->
 
-  - [カズ・ハヤシ](https://ja.wikipedia.org/wiki/カズ・ハヤシ "wikilink") 6点 ※優勝
-  - [TAKAみちのく](https://ja.wikipedia.org/wiki/TAKAみちのく "wikilink") 4点
+  - [カズ・ハヤシ](../Page/カズ・ハヤシ.md "wikilink") 6点 ※優勝
+  - [TAKAみちのく](../Page/TAKAみちのく.md "wikilink") 4点
   - [土方隆司](../Page/土方隆司.md "wikilink") 2点
-  - ["brother"YASSHI](https://ja.wikipedia.org/wiki/"brother"YASSHI "wikilink") 0点
+  - ["brother"YASSHI](../Page/"brother"YASSHI.md "wikilink") 0点
 
 <!-- end list -->
 
@@ -35,15 +35,15 @@
 
 <!-- end list -->
 
-  - [中嶋勝彦](https://ja.wikipedia.org/wiki/中嶋勝彦 "wikilink") 5点 ※準優勝
-  - [竹村豪氏](https://ja.wikipedia.org/wiki/竹村豪氏 "wikilink") 4点
+  - [中嶋勝彦](../Page/中嶋勝彦.md "wikilink") 5点 ※準優勝
+  - [竹村豪氏](../Page/竹村豪氏.md "wikilink") 4点
   - [ヴィールス](https://ja.wikipedia.org/wiki/ヴィールス "wikilink") 2点
-  - [MAZADA](https://ja.wikipedia.org/wiki/MAZADA "wikilink") 1点
+  - [MAZADA](../Page/MAZADA.md "wikilink") 1点
 
 <!-- end list -->
 
   - 内容
-    [世界ジュニアヘビー級王者の](https://ja.wikipedia.org/wiki/世界ジュニアヘビー級王座 "wikilink")[近藤修司](https://ja.wikipedia.org/wiki/近藤修司 "wikilink")が不参加を表明し、優勝者が近藤の世界ジュニア王座に挑戦する権利を獲得する大会となった。前評判通りカズと中嶋が決勝に勝ち上がり、20分の大接戦の中、最後は十八番のファイナルカットでカズが第1回大会の覇者となった。
+    [世界ジュニアヘビー級王者の](../Page/世界ジュニアヘビー級王座.md "wikilink")[近藤修司](../Page/近藤修司.md "wikilink")が不参加を表明し、優勝者が近藤の世界ジュニア王座に挑戦する権利を獲得する大会となった。前評判通りカズと中嶋が決勝に勝ち上がり、20分の大接戦の中、最後は十八番のファイナルカットでカズが第1回大会の覇者となった。
 
 ### 2007年
 
@@ -52,11 +52,11 @@
 
 <!-- end list -->
 
-  - [近藤修司](https://ja.wikipedia.org/wiki/近藤修司 "wikilink") 6点 ※準優勝
+  - [近藤修司](../Page/近藤修司.md "wikilink") 6点 ※準優勝
   - 中嶋勝彦 4点
   - 土方隆司 4点
-  - [ペペ・みちのく](https://ja.wikipedia.org/wiki/TAKAみちのく "wikilink") 4点
-  - [エル・ノサワ・メンドーサ](https://ja.wikipedia.org/wiki/NOSAWA論外 "wikilink") 2点
+  - [ペペ・みちのく](../Page/TAKAみちのく.md "wikilink") 4点
+  - [エル・ノサワ・メンドーサ](../Page/NOSAWA論外.md "wikilink") 2点
 
 <!-- end list -->
 
@@ -64,16 +64,16 @@
 
 <!-- end list -->
 
-  - [クリス・セイビン](https://ja.wikipedia.org/wiki/クリス・セイビン "wikilink") 6点 ※優勝
-  - [ミゲル・ハヤシJr.](https://ja.wikipedia.org/wiki/カズ・ハヤシ "wikilink") 4点
-  - [AKIRA](https://ja.wikipedia.org/wiki/AKIRA_\(プロレスラー\) "wikilink") 3点
-  - [ディック東郷](https://ja.wikipedia.org/wiki/ディック東郷 "wikilink") 5点
+  - [クリス・セイビン](../Page/クリス・セイビン.md "wikilink") 6点 ※優勝
+  - [ミゲル・ハヤシJr.](../Page/カズ・ハヤシ.md "wikilink") 4点
+  - [AKIRA](../Page/AKIRA_\(プロレスラー\).md "wikilink") 3点
+  - [ディック東郷](../Page/ディック東郷.md "wikilink") 5点
   - "brother"YASSHI 2点
 
 <!-- end list -->
 
   - 内容
-    今大会は、初登場にメキシコ・アミーゴス、ディック東郷、AKIRA、近藤修司、そして[TNAで](https://ja.wikipedia.org/wiki/インパクト・レスリング "wikilink")4度[Xディヴィジョン王座に輝いているクリス](https://ja.wikipedia.org/wiki/TNA_Xディヴィジョン王座 "wikilink")・セイビンが参加し豪華な顔ぶれが出揃った。その初登場組が大活躍し、決勝は近藤とセイビンが勝ち上がる。パワーで推す近藤に対し、近未来的な独特な動きで翻弄するセイビン。最後はセイビンが得意のクレイドルショックで近藤を下し、初優勝を果たした。
+    今大会は、初登場にメキシコ・アミーゴス、ディック東郷、AKIRA、近藤修司、そして[TNAで](../Page/インパクト・レスリング.md "wikilink")4度[Xディヴィジョン王座に輝いているクリス](../Page/TNA_Xディヴィジョン王座.md "wikilink")・セイビンが参加し豪華な顔ぶれが出揃った。その初登場組が大活躍し、決勝は近藤とセイビンが勝ち上がる。パワーで推す近藤に対し、近未来的な独特な動きで翻弄するセイビン。最後はセイビンが得意のクレイドルショックで近藤を下し、初優勝を果たした。
 
 ### 2008年
 
@@ -83,7 +83,7 @@
 <!-- end list -->
 
   - [KAI](https://ja.wikipedia.org/wiki/境敦史 "wikilink") 5点 ※優勝
-  - [エル・サムライ](https://ja.wikipedia.org/wiki/エル・サムライ "wikilink") 4点
+  - [エル・サムライ](../Page/エル・サムライ.md "wikilink") 4点
   - 近藤修司 4点
   - MAZADA 4点
   - 土方隆司 3点
@@ -94,16 +94,16 @@
 
 <!-- end list -->
 
-  - [シルバー・キング](https://ja.wikipedia.org/wiki/シルバー・キング "wikilink") 6点 ※準優勝
+  - [シルバー・キング](../Page/シルバー・キング.md "wikilink") 6点 ※準優勝
   - カズ・ハヤシ 4点
   - TAKEMURA 4点
   - [T28](https://ja.wikipedia.org/wiki/T28_\(プロレスラー\) "wikilink") 3点
-  - [フィル・アトラス](https://ja.wikipedia.org/wiki/フィル・アトラス "wikilink") 3点
+  - [フィル・アトラス](../Page/フィル・アトラス.md "wikilink") 3点
 
 <!-- end list -->
 
   - 内容
-    土方隆司とエル・サムライのジュニアヘビー王座選手権試合後に、GURENTAIが乱入。そこへ正規軍も入ってきたが、口火を切ったのは「30過ぎのオッサン達が、何やってるんですかね～」と言ったKAI。これにより、本年度もリーグ戦開催が決定。初登場は[KAI](https://ja.wikipedia.org/wiki/境敦史 "wikilink")、[エル・サムライ](https://ja.wikipedia.org/wiki/エル・サムライ "wikilink")、[T28](https://ja.wikipedia.org/wiki/T28_\(プロレスラー\) "wikilink")、[フィル・アトラス](https://ja.wikipedia.org/wiki/フィル・アトラス "wikilink")、[シルバー・キング](https://ja.wikipedia.org/wiki/シルバー・キング "wikilink")。決勝はKAIとシルバーで行われ、KAIが優勝した。
+    土方隆司とエル・サムライのジュニアヘビー王座選手権試合後に、GURENTAIが乱入。そこへ正規軍も入ってきたが、口火を切ったのは「30過ぎのオッサン達が、何やってるんですかね～」と言ったKAI。これにより、本年度もリーグ戦開催が決定。初登場は[KAI](https://ja.wikipedia.org/wiki/境敦史 "wikilink")、[エル・サムライ](../Page/エル・サムライ.md "wikilink")、[T28](https://ja.wikipedia.org/wiki/T28_\(プロレスラー\) "wikilink")、[フィル・アトラス](../Page/フィル・アトラス.md "wikilink")、[シルバー・キング](../Page/シルバー・キング.md "wikilink")。決勝はKAIとシルバーで行われ、KAIが優勝した。
 
 ### 2009年
 
@@ -126,9 +126,9 @@
 
   - [稔](https://ja.wikipedia.org/wiki/稔 "wikilink") 8点
   - 近藤修司 6点 ※優勝
-  - [大和ヒロシ](https://ja.wikipedia.org/wiki/大和ヒロシ "wikilink") 2点
+  - [大和ヒロシ](../Page/大和ヒロシ.md "wikilink") 2点
   - MAZADA 2点
-  - [ピーティー・ウィリアムズ](https://ja.wikipedia.org/wiki/ピーティー・ウィリアムズ "wikilink") 2点
+  - [ピーティー・ウィリアムズ](../Page/ピーティー・ウィリアムズ.md "wikilink") 2点
 
 ### 2010年
 
@@ -142,7 +142,7 @@
   - カズ・ハヤシ 5点
   - スペル・クレイジー 5点
   - [アントニオ・トーマス](https://ja.wikipedia.org/wiki/アントニオ・トーマス "wikilink") 4点
-  - [佐藤光留](https://ja.wikipedia.org/wiki/佐藤光留 "wikilink") 2点
+  - [佐藤光留](../Page/佐藤光留.md "wikilink") 2点
 
 <!-- end list -->
 
@@ -151,7 +151,7 @@
 <!-- end list -->
 
   - KAI 8点 ※準優勝
-  - [ジミー・ヤン](https://ja.wikipedia.org/wiki/ジミー・ヤン "wikilink") 6点 ※優勝
+  - [ジミー・ヤン](../Page/ジミー・ヤン.md "wikilink") 6点 ※優勝
   - 近藤修司 4点
   - [BUSHI](https://ja.wikipedia.org/wiki/T28_\(プロレスラー\) "wikilink") 4点
   - MAZADA 4点
@@ -177,7 +177,7 @@
 
 <!-- end list -->
 
-  - [金本浩二](https://ja.wikipedia.org/wiki/金本浩二 "wikilink") 8点 ※準優勝
+  - [金本浩二](../Page/金本浩二.md "wikilink") 8点 ※準優勝
   - 近藤修司 6点
   - ジミー・ヤン 6点
   - 大和ヒロシ 4点
@@ -214,7 +214,7 @@
   - 近藤修司 9点※準優勝
   - 大和ヒロシ 7点※優勝
   - カズ・ハヤシ 6点
-  - [SUSHI](https://ja.wikipedia.org/wiki/雷陣明 "wikilink") 6点
+  - [SUSHI](../Page/雷陣明.md "wikilink") 6点
   - [gillette](https://ja.wikipedia.org/wiki/gillette_\(プロレスラー\) "wikilink") 2点
   - [アンディ・ウー](https://ja.wikipedia.org/wiki/アンディ・ウー "wikilink") 0点
 

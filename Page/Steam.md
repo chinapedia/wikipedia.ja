@@ -1,7 +1,7 @@
 > この記事は[Steam](https://ja.wikipedia.org/wiki/Steam)から翻訳されています。
 
 
-**Steam**（スチーム）は、[PCゲーム](https://ja.wikipedia.org/wiki/PCゲーム "wikilink")、[PCソフトウェアおよびストリーミングビデオの](../Page/アプリケーションソフトウェア.md "wikilink")[ダウンロード販売](../Page/ダウンロード販売.md "wikilink")と[ハードウェア](../Page/ハードウェア.md "wikilink")の[通信販売](../Page/通信販売.md "wikilink")、[デジタル著作権管理](https://ja.wikipedia.org/wiki/デジタル著作権管理 "wikilink")、[マルチプレイヤー](https://ja.wikipedia.org/wiki/マルチプレイヤー "wikilink")ゲームのサポート、ユーザの交流補助を目的とした[プラットフォームである](../Page/プラットフォーム_\(コンピューティング\).md "wikilink")。開発および運営はアメリカの[Valve Corporationによって行われている](../Page/Valve_Corporation.md "wikilink")。なお、**Steam**とは[英語](../Page/英語.md "wikilink")で「[水蒸気](../Page/水蒸気.md "wikilink")、[蒸気機関](../Page/蒸気機関.md "wikilink")」という意味である。
+**Steam**（スチーム）は、[PCゲーム](https://ja.wikipedia.org/wiki/PCゲーム "wikilink")、[PCソフトウェアおよびストリーミングビデオの](../Page/アプリケーションソフトウェア.md "wikilink")[ダウンロード販売](../Page/ダウンロード販売.md "wikilink")と[ハードウェア](../Page/ハードウェア.md "wikilink")の[通信販売](../Page/通信販売.md "wikilink")、[デジタル著作権管理](../Page/デジタル著作権管理.md "wikilink")、[マルチプレイヤー](https://ja.wikipedia.org/wiki/マルチプレイヤー "wikilink")ゲームのサポート、ユーザの交流補助を目的とした[プラットフォームである](../Page/プラットフォーム_\(コンピューティング\).md "wikilink")。開発および運営はアメリカの[Valve Corporationによって行われている](../Page/Valve_Corporation.md "wikilink")。なお、**Steam**とは[英語](../Page/英語.md "wikilink")で「[水蒸気](../Page/水蒸気.md "wikilink")、[蒸気機関](../Page/蒸気機関.md "wikilink")」という意味である。
 
 ## 特徴
 
@@ -13,23 +13,23 @@
 
 ## 配信
 
-ゲームの配信元は、[アクティビジョン](https://ja.wikipedia.org/wiki/Activision "wikilink")、[Electronic Arts](https://ja.wikipedia.org/wiki/Electronic_Arts "wikilink")、[Take-Two Interactive](https://ja.wikipedia.org/wiki/Take-Two_Interactive "wikilink")、[Introversion Software](https://ja.wikipedia.org/wiki/Introversion_Software "wikilink")、[Strategy First](https://ja.wikipedia.org/wiki/Strategy_First "wikilink")、[PopCap Games](https://ja.wikipedia.org/wiki/PopCap_Games "wikilink")、[id Software](https://ja.wikipedia.org/wiki/id_Software "wikilink")、[THQ](https://ja.wikipedia.org/wiki/THQ "wikilink")、[ロックスター・ゲームズ](../Page/Rockstar_Games.md "wikilink")、[アイドス](https://ja.wikipedia.org/wiki/アイドス "wikilink")、[カプコン](https://ja.wikipedia.org/wiki/カプコン "wikilink")、[スクウェア・エニックス](https://ja.wikipedia.org/wiki/スクウェア・エニックス "wikilink")、[ソニーオンラインエンタテインメント](https://ja.wikipedia.org/wiki/ソニーオンラインエンタテインメント "wikilink")、[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")などの大手企業\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]の他、様々な国の中小規模の独立系開発会社もSteamを通じて作品を配信している。
+ゲームの配信元は、[アクティビジョン](https://ja.wikipedia.org/wiki/Activision "wikilink")、[Electronic Arts](https://ja.wikipedia.org/wiki/Electronic_Arts "wikilink")、[Take-Two Interactive](https://ja.wikipedia.org/wiki/Take-Two_Interactive "wikilink")、[Introversion Software](https://ja.wikipedia.org/wiki/Introversion_Software "wikilink")、[Strategy First](https://ja.wikipedia.org/wiki/Strategy_First "wikilink")、[PopCap Games](https://ja.wikipedia.org/wiki/PopCap_Games "wikilink")、[id Software](https://ja.wikipedia.org/wiki/id_Software "wikilink")、[THQ](../Page/THQ.md "wikilink")、[ロックスター・ゲームズ](../Page/Rockstar_Games.md "wikilink")、[アイドス](../Page/アイドス.md "wikilink")、[カプコン](../Page/カプコン.md "wikilink")、[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")、[ソニーオンラインエンタテインメント](https://ja.wikipedia.org/wiki/ソニーオンラインエンタテインメント "wikilink")、[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")などの大手企業\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]の他、様々な国の中小規模の独立系開発会社もSteamを通じて作品を配信している。
 
-また、Steamではゲーム以外の[ソフトウェアの配信も行っており](../Page/アプリケーションソフトウェア.md "wikilink")、[ベンチマーク](https://ja.wikipedia.org/wiki/ベンチマーク "wikilink")ソフトウェアなどの[ユーティリティソフトウェア](https://ja.wikipedia.org/wiki/ユーティリティソフトウェア "wikilink")、[動画編集ソフトウェア](https://ja.wikipedia.org/wiki/動画編集ソフトウェア "wikilink")、[DAW](https://ja.wikipedia.org/wiki/デジタル・オーディオ・ワークステーション "wikilink")、[ペイントソフト](https://ja.wikipedia.org/wiki/ペイントソフト "wikilink")、[ゲームエンジン](https://ja.wikipedia.org/wiki/ゲームエンジン "wikilink")などが販売されている。
+また、Steamではゲーム以外の[ソフトウェアの配信も行っており](../Page/アプリケーションソフトウェア.md "wikilink")、[ベンチマーク](../Page/ベンチマーク.md "wikilink")ソフトウェアなどの[ユーティリティソフトウェア](../Page/ユーティリティソフトウェア.md "wikilink")、[動画編集ソフトウェア](https://ja.wikipedia.org/wiki/動画編集ソフトウェア "wikilink")、[DAW](../Page/デジタル・オーディオ・ワークステーション.md "wikilink")、[ペイントソフト](../Page/ペイントソフト.md "wikilink")、[ゲームエンジン](../Page/ゲームエンジン.md "wikilink")などが販売されている。
 
-2014年9月の時点で、3700以上のコンピュータゲームが配信されており、約1億人のアクティブユーザーがいる\[8\]。Steamは[Microsoft Windowsをプラットフォームとしてスタートしたが](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、現在ではその他に、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")、[Linux](https://ja.wikipedia.org/wiki/Linux "wikilink")、[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")、[Android](https://ja.wikipedia.org/wiki/Android "wikilink")、[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")（部分的）をサポートしている。
+2014年9月の時点で、3700以上のコンピュータゲームが配信されており、約1億人のアクティブユーザーがいる\[8\]。Steamは[Microsoft Windowsをプラットフォームとしてスタートしたが](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、現在ではその他に、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")、[Linux](../Page/Linux.md "wikilink")、[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")、[Android](../Page/Android.md "wikilink")、[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")（部分的）をサポートしている。
 
 ## 歴史
 
 Steamの開発はだいたい2002年にはじまったとされている、開発中の名称は「Grid」と「Gazelle」だった\[9\]。一般に周知されたのは2002年5月22日のGame Developers Conferenceにおいてで、[分散ネットワーク](https://ja.wikipedia.org/wiki/分散ネットワーク "wikilink")として紹介された。ゲームの統合機能を紹介する目的で、[Relic Entertainmentが](https://ja.wikipedia.org/wiki/Relic_Entertainment "wikilink")[Impossible Creaturesの特別バージョンを作成した](https://ja.wikipedia.org/wiki/Impossible_Creatures "wikilink")。
 
-クライアントとしてのSteamバージョン1.0がダウンロード可能となったのは、2002年の『[カウンターストライク](https://ja.wikipedia.org/wiki/カウンターストライク "wikilink")』1.6のベータ期間からで、オンラインコンピュータゲームの自動更新システムとして登場した。Steamの公開はカウンターストライクのベータテスターに限られていた。2004年に、[World Opponent Networkの閉鎖と同時にSteamに統合された](https://ja.wikipedia.org/wiki/World_Opponent_Network "wikilink")。
+クライアントとしてのSteamバージョン1.0がダウンロード可能となったのは、2002年の『[カウンターストライク](../Page/カウンターストライク.md "wikilink")』1.6のベータ期間からで、オンラインコンピュータゲームの自動更新システムとして登場した。Steamの公開はカウンターストライクのベータテスターに限られていた。2004年に、[World Opponent Networkの閉鎖と同時にSteamに統合された](https://ja.wikipedia.org/wiki/World_Opponent_Network "wikilink")。
 
 その後Valveは、複数の開発元や開発者が製品をSteamで公開するように交渉した。代表的な例は[Rag Doll Kung Fuと](https://ja.wikipedia.org/wiki/Rag_Doll_Kung_Fu "wikilink")[Darwinia](https://ja.wikipedia.org/wiki/Darwinia "wikilink")で、他にも2005年の冬にカナダの[Strategy FirstがValveとパートナーシップを結び](https://ja.wikipedia.org/wiki/Strategy_First "wikilink")、現在及び将来のゲームの供給を約束した。
 
 ### ハーフライフ2の配信
 
-2004年12月16日、Steamの本格的なダウンロード販売の先駆けとなる『[ハーフライフ2](https://ja.wikipedia.org/wiki/ハーフライフ2 "wikilink")』が公式配信された。配信はほとんどの地域でうまくいったが、後にゲームの購入者の中にハーフライフ2をプレイできない人々が続出した。直前にSteamのシステムに問題が発見されたのが間接的な原因で、これを復旧するためヨーロッパの認証サーバーが五時間の間停止していたが、この間に購入した人はゲームをプレイすることができなくなっていた\[10\]。他にも、ダウンロードが延々と続き、必要のないアップデートをさせられるなどの問題が起こった\[11\]\[12\]。
+2004年12月16日、Steamの本格的なダウンロード販売の先駆けとなる『[ハーフライフ2](../Page/ハーフライフ2.md "wikilink")』が公式配信された。配信はほとんどの地域でうまくいったが、後にゲームの購入者の中にハーフライフ2をプレイできない人々が続出した。直前にSteamのシステムに問題が発見されたのが間接的な原因で、これを復旧するためヨーロッパの認証サーバーが五時間の間停止していたが、この間に購入した人はゲームをプレイすることができなくなっていた\[10\]。他にも、ダウンロードが延々と続き、必要のないアップデートをさせられるなどの問題が起こった\[11\]\[12\]。
 
 その後の度重なるアップデートを経て、現在はこのようなトラブルは滅多に起こらなくなっている。
 
@@ -57,15 +57,15 @@ Steamの認証サーバーを騙すというクラックは不可能となった
 
 ### アカウント統合型のダウンロード購入システム
 
-ユーザはSteamストアを利用してゲームを購入することができる。パッケージやゲームディスク、[CDキーすら使わず](https://ja.wikipedia.org/wiki/ライセンスキー "wikilink")、購入したソフトウェアは直ちにユーザのSteam[アカウント](https://ja.wikipedia.org/wiki/アカウント "wikilink")のライブラリへ追加され、利用できるようになる（アカウント登録は無料）。ゲームを購入した後は、Steamを通してどのPCからでもゲームを[ダウンロード](https://ja.wikipedia.org/wiki/ダウンロード "wikilink")し、プレイすることが可能となる\[17\]。 また、Steamは[CDキーによるゲームのアクティベーションに対応しており](https://ja.wikipedia.org/wiki/ライセンスキー "wikilink")、Steamストア以外の小売店で購入したゲームをライブラリに追加することが可能となっている。小売店としても在庫コストが掛からない[CDキーのみの販売とした方がメリットが大きく](https://ja.wikipedia.org/wiki/ライセンスキー "wikilink")、海外のゲーム販売サイトはほとんどがSteamに登録できる[CDキーを販売するという形態が取られている](https://ja.wikipedia.org/wiki/ライセンスキー "wikilink")。
+ユーザはSteamストアを利用してゲームを購入することができる。パッケージやゲームディスク、[CDキーすら使わず](../Page/ライセンスキー.md "wikilink")、購入したソフトウェアは直ちにユーザのSteam[アカウント](../Page/アカウント.md "wikilink")のライブラリへ追加され、利用できるようになる（アカウント登録は無料）。ゲームを購入した後は、Steamを通してどのPCからでもゲームを[ダウンロード](https://ja.wikipedia.org/wiki/ダウンロード "wikilink")し、プレイすることが可能となる\[17\]。 また、Steamは[CDキーによるゲームのアクティベーションに対応しており](../Page/ライセンスキー.md "wikilink")、Steamストア以外の小売店で購入したゲームをライブラリに追加することが可能となっている。小売店としても在庫コストが掛からない[CDキーのみの販売とした方がメリットが大きく](../Page/ライセンスキー.md "wikilink")、海外のゲーム販売サイトはほとんどがSteamに登録できる[CDキーを販売するという形態が取られている](../Page/ライセンスキー.md "wikilink")。
 
 ### ユーザビリティ
 
-ユーザが所持するゲームはSteamクライアント上のライブラリと呼ばれるタブにリスト表示されており、初めてプレイする際にはここからインストールを選ぶとダウンロードのプロセスが開始される。この時、もしゲームに複数のバージョン（[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")と[32ビット](https://ja.wikipedia.org/wiki/32ビット "wikilink")版など）や対応言語がある場合は、Steamがコンピュータの環境（[ハードウェア](../Page/ハードウェア.md "wikilink")と[ソフトウェア](../Page/ソフトウェア.md "wikilink")）を調べた上で、自動的に適切なバージョンが選択される。例えば複数言語として日本語版のデータが含まれるゲームの場合、Steamクライアントが日本語に設定されていれば、インストールされるゲームも自動的に日本語版となる\[18\]。
+ユーザが所持するゲームはSteamクライアント上のライブラリと呼ばれるタブにリスト表示されており、初めてプレイする際にはここからインストールを選ぶとダウンロードのプロセスが開始される。この時、もしゲームに複数のバージョン（[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")と[32ビット](../Page/32ビット.md "wikilink")版など）や対応言語がある場合は、Steamがコンピュータの環境（[ハードウェア](../Page/ハードウェア.md "wikilink")と[ソフトウェア](../Page/ソフトウェア.md "wikilink")）を調べた上で、自動的に適切なバージョンが選択される。例えば複数言語として日本語版のデータが含まれるゲームの場合、Steamクライアントが日本語に設定されていれば、インストールされるゲームも自動的に日本語版となる\[18\]。
 
 Steamはゲームの更新を行う機能も備えている。元来PCゲームでは、ゲームの不都合などがパッチで修正された際、そのパッチをメーカーの公式サイトもしくはサードパーティのミラーサイトからダウンロードし、手動でこれをインストールする必要があった。公式サイトが既に無くなっているような古いゲームや、段階的に適用しなければならないパッチが継続的にリリースされているようなゲームでは、再インストールの際にバージョンを最新にすることが困難である。Steamでは、インストールされているゲームが最新の状態であるか、オンライン時に常に確認するシステムになっており、更新があればSteamのダウンロードサーバーから自動的にダウンロードが始まり、修正が適用される。これらは全てバックグラウンドで全自動で行われるようになっており、ユーザは煩雑な手間抜きに常に最新のバージョンでゲームをプレイすることができる。
 
-更に、Steamクラウドと呼ばれるクラウド機能に対応したゲーム（『[Left 4 Dead](https://ja.wikipedia.org/wiki/Left_4_Dead "wikilink")』など）では、キーボードやマウスなどの各種設定、マルチプレイで使用する自キャラクターのスキン、シングルプレイでの進捗状況やセーブファイルなどの個人的なデータをSteam側で保存、管理してくれる。これにより、ネットカフェやサブPCなど異なる環境でプレイする際も、それまでの遊び慣れたセッティングでそのままプレイすることが可能となっている。対応しているゲームであれば、この機能はMac版とPC版の間でも有効である。
+更に、Steamクラウドと呼ばれるクラウド機能に対応したゲーム（『[Left 4 Dead](../Page/Left_4_Dead.md "wikilink")』など）では、キーボードやマウスなどの各種設定、マルチプレイで使用する自キャラクターのスキン、シングルプレイでの進捗状況やセーブファイルなどの個人的なデータをSteam側で保存、管理してくれる。これにより、ネットカフェやサブPCなど異なる環境でプレイする際も、それまでの遊び慣れたセッティングでそのままプレイすることが可能となっている。対応しているゲームであれば、この機能はMac版とPC版の間でも有効である。
 
 Steam対応ゲームではオーバーレイ表示機能が標準で付加されており、ゲーム中いつでも呼び出して（デフォルトではShift+Tab）後述するSteamコミュニティの利用や、実績の進捗状況などを確認することができる。
 
@@ -75,11 +75,11 @@ Steam対応ゲームではオーバーレイ表示機能が標準で付加され
 
 ### ゲームプレイ関連機能
 
-SteamにはValve Anti-Cheat（VAC）というValveによる[チート](https://ja.wikipedia.org/wiki/チート "wikilink")行為対策の機能が盛り込まれており、対応したマルチプレイヤーゲームにおいては厳しい監視がなされている。これに違反したユーザーのアカウントは保有するあらゆるVAC対応マルチプレイヤーゲームからバン（締め出し）され、基本的にいかなる理由があっても処分が取り消されることはない\[19\]。
+SteamにはValve Anti-Cheat（VAC）というValveによる[チート](../Page/チート.md "wikilink")行為対策の機能が盛り込まれており、対応したマルチプレイヤーゲームにおいては厳しい監視がなされている。これに違反したユーザーのアカウントは保有するあらゆるVAC対応マルチプレイヤーゲームからバン（締め出し）され、基本的にいかなる理由があっても処分が取り消されることはない\[19\]。
 
-更に、[Xbox Liveなどでおなじみのアチーブメント](https://ja.wikipedia.org/wiki/Xbox_Live "wikilink")（実績）システムを独自に有しており、ゲームの進歩具合を確認したりすることができるほか、ユニークな実績を達成するため、更なるやり込み要素をゲームに付加している。
+更に、[Xbox Liveなどでおなじみのアチーブメント](../Page/Xbox_Live.md "wikilink")（実績）システムを独自に有しており、ゲームの進歩具合を確認したりすることができるほか、ユニークな実績を達成するため、更なるやり込み要素をゲームに付加している。
 
-また、Steamのクライアント[インターフェースは一部ゲームエンジンを使用した](../Page/インタフェース_\(情報技術\).md "wikilink")[Modゲームもサポートしている](https://ja.wikipedia.org/wiki/Mod_\(コンピュータゲーム\) "wikilink")。購入したゲームと同様、インストールしたModはゲームの一覧のリストにアイコンと共に表示され、そこから起動できるようになっている。ModゲームでもVAC、フレンド機能、サーバーブラウザなどのSteamの機能が使えるようになっている。ただしSteamを通しての配信は不可能で、自動更新やGCF、NCF形式のファイルも使用できない。例外的に、Valveの[GoldSrc](https://ja.wikipedia.org/wiki/GoldSrc "wikilink")や[Source Engineを利用したゲーム](../Page/Source_Engine.md "wikilink")（『[Red Orchestra](https://ja.wikipedia.org/wiki/Red_Orchestra:_Ostfront_41-45 "wikilink")』、『[RACE The Official WTCC Game](https://ja.wikipedia.org/wiki/RACE_The_Official_WTCC_Game "wikilink")』）のみこれらの利用が可能である。
+また、Steamのクライアント[インターフェースは一部ゲームエンジンを使用した](../Page/インタフェース_\(情報技術\).md "wikilink")[Modゲームもサポートしている](../Page/Mod_\(コンピュータゲーム\).md "wikilink")。購入したゲームと同様、インストールしたModはゲームの一覧のリストにアイコンと共に表示され、そこから起動できるようになっている。ModゲームでもVAC、フレンド機能、サーバーブラウザなどのSteamの機能が使えるようになっている。ただしSteamを通しての配信は不可能で、自動更新やGCF、NCF形式のファイルも使用できない。例外的に、Valveの[GoldSrc](https://ja.wikipedia.org/wiki/GoldSrc "wikilink")や[Source Engineを利用したゲーム](../Page/Source_Engine.md "wikilink")（『[Red Orchestra](../Page/Red_Orchestra:_Ostfront_41-45.md "wikilink")』、『[RACE The Official WTCC Game](../Page/RACE_The_Official_WTCC_Game.md "wikilink")』）のみこれらの利用が可能である。
 
 ### Steam コミュニティ
 
@@ -89,7 +89,7 @@ Steamはプレイヤー間のソーシャルネットワーク機能も有して
 
 Steamのサーバーブラウザを使えば、特定のプレイヤーを検索したり、無視（filter）したり、目的のプレイヤーのいるサーバーを登録してそこに参加することができる。全ての操作は共通のメニュー項目から可能で、メニューからどのプレイヤーがどのサーバーにいるかを確認することができ、クリックするだけでそのプレイヤーのプレイしているマルチプレイヤーゲームに参戦できる。
 
-フレンド機能やSteamのインスタントメッセージ・ツールを使うことにより、一対一もしくは多対多のやりとりをすることができる。一般的なインスタントメッセージツール同様、アクティビティを非公開の状態にすることも可能である。この機能は[フィッシング行為への有効な対策も兼ねている](https://ja.wikipedia.org/wiki/フィッシング_\(詐欺\) "wikilink")。
+フレンド機能やSteamのインスタントメッセージ・ツールを使うことにより、一対一もしくは多対多のやりとりをすることができる。一般的なインスタントメッセージツール同様、アクティビティを非公開の状態にすることも可能である。この機能は[フィッシング行為への有効な対策も兼ねている](../Page/フィッシング_\(詐欺\).md "wikilink")。
 
 各グループはSteamコミュニティ上にサイトを持つことができ、ここを拠点として、活動の予定を立てたり議論を交わすことができる。
 
@@ -121,7 +121,7 @@ Steamに適合したゲームの場合、無圧縮のファイル形式`.gcf`が
 
 初期のバージョンではパッケージ版としてインストールしたプログラムファイルが既にある場合、ダウンロードの手間をかけずにそれをそのままSteamでも使えるようにコンバートする機能があったが、通信速度の向上等の理由により現在この機能は廃止されている（新しくライブラリにダウンロードするようになり、ライブラリフォルダに既に置かれていた場合は更新箇所のみダウンロードする）。パッケージ版を所有している人はそのCDキーを入力することにより、そのゲームがダウンロード可能になるようになっている。
 
-初めからSteamとの併用を前提に開発されたゲーム（『[Warhammer 40,000: Dawn of War II](https://ja.wikipedia.org/wiki/Warhammer_40,000:_Dawn_of_War_II "wikilink")』、『[The Orange Box](https://ja.wikipedia.org/wiki/The_Orange_Box "wikilink")』など）はSteam上での販売に加えパッケージ版も発売されているが、導入にあたってはSteamが同時にインストールされ、プレイする際もSteamによる認証プロセスが必須となり、以降もSteamにログインしてから起動、更新が行われる（それまで一般的だったゲームの様に、プレイする際に必ずディスクをドライブに入れておく必要はない）という仕組みになっている。つまり実質的にはSteam版と全く違いはなく、キャッシュファイルをただディスクに入れて高速インストールできるようにしただけのものと言っても良い。
+初めからSteamとの併用を前提に開発されたゲーム（『[Warhammer 40,000: Dawn of War II](https://ja.wikipedia.org/wiki/Warhammer_40,000:_Dawn_of_War_II "wikilink")』、『[The Orange Box](../Page/The_Orange_Box.md "wikilink")』など）はSteam上での販売に加えパッケージ版も発売されているが、導入にあたってはSteamが同時にインストールされ、プレイする際もSteamによる認証プロセスが必須となり、以降もSteamにログインしてから起動、更新が行われる（それまで一般的だったゲームの様に、プレイする際に必ずディスクをドライブに入れておく必要はない）という仕組みになっている。つまり実質的にはSteam版と全く違いはなく、キャッシュファイルをただディスクに入れて高速インストールできるようにしただけのものと言っても良い。
 
 ### 技術
 
@@ -133,7 +133,7 @@ Steamは配信時の接続に独自のインターネットプロトコルを使
 
 購入可能なゲームは値段が段階的につけられている。一般的に古いゲームであるほど安く、新しいゲームは高い。通常の小売店での購入であれば、古いタイトルでも発売当初の価格とさほど変わらない値段で売られていたり、そもそも入手が困難であったりする場合も多いが、そうしたものが現在でも確実に・しかも格安で手に入るという利点がある。また新規作品であっても、海外タイトルの場合は並行輸入や代理店を経て販売されている日本国内でのパッケージの販売価格よりも遥かに格安であることが多い。
 
-加えて一部のゲームは単品としての購入以外に、「独立系開発会社制作のパズルゲーム詰め合わせ」「[Half-Lifeシリーズ全作品](https://ja.wikipedia.org/wiki/ハーフライフ_\(ゲーム\) "wikilink")」など何らかの形で関連するいくつかのゲームが入っているパッケージ（詰め合わせ商品）としても販売されることがある。こうしたパックで購入する場合、ゲームにもよるが単品での購入に比べて大きな割引が適用される。（例えばValve Complete Packと呼ばれるValve社製ゲーム全部入りパックでは、単品で個別に買うよりも$169.15も割安になる。）また、下記にあるように、友人間での共同購入やプレゼント利用を意図した、特定タイトルの複数ライセンスのパック販売もあり、こちらも単体で買う場合よりも割安である場合が多い。
+加えて一部のゲームは単品としての購入以外に、「独立系開発会社制作のパズルゲーム詰め合わせ」「[Half-Lifeシリーズ全作品](../Page/ハーフライフ_\(ゲーム\).md "wikilink")」など何らかの形で関連するいくつかのゲームが入っているパッケージ（詰め合わせ商品）としても販売されることがある。こうしたパックで購入する場合、ゲームにもよるが単品での購入に比べて大きな割引が適用される。（例えばValve Complete Packと呼ばれるValve社製ゲーム全部入りパックでは、単品で個別に買うよりも$169.15も割安になる。）また、下記にあるように、友人間での共同購入やプレゼント利用を意図した、特定タイトルの複数ライセンスのパック販売もあり、こちらも単体で買う場合よりも割安である場合が多い。
 
 以前はSteamの価格設定はすべて[アメリカ合衆国ドル](../Page/アメリカ合衆国ドル.md "wikilink")によるものであったが、[2014年](../Page/2014年.md "wikilink")以降は通貨決済が国際化されたため、価格設定は地域に応じて現地通貨で設定されている。日本で販売されているタイトルはすべて日本円で価格が設定されているため、[為替レート](../Page/為替レート.md "wikilink")によって価格が変動することはない。また、物価が安い新興国では価格も先進国に比べて大幅に安く設定されていることが多い。先進国のユーザが不当に安く新興国のユーザからゲームを入手させないために、後述するトレードやギフトはいくつかの新興国においては他国とは隔離する措置が取られている。
 
@@ -149,13 +149,13 @@ Steamは配信時の接続に独自のインターネットプロトコルを使
 
 このシステムの利用を促すため、マルチプレイ主体のゲームの場合は自分用+ギフト3本分のライセンスが割安でセットになったパック（Four Packと呼ばれる）が販売されていることがある。これは例外的に贈る相手を決めるまで無期限で取っておくことができるため、セール期間中にとりあえず買っておいて後でプレゼントするなどといった利用法も可能。
 
-ごく限られた条件下ではあるが、購入したパック中に既に持っているゲームがあった場合、この余剰分のライセンスがギフトとなり友人にプレゼントすることが可能な場合がある。例えば、『[The Orange Box](https://ja.wikipedia.org/wiki/The_Orange_Box "wikilink")』やValve Complete Packを購入した際の『[ハーフライフ2](https://ja.wikipedia.org/wiki/ハーフライフ2 "wikilink")』と『[ハーフライフ2 エピソード1](https://ja.wikipedia.org/wiki/ハーフライフ2 "wikilink")』、Left 4 Deadシリーズや[Portalシリーズのパックを買った際の](https://ja.wikipedia.org/wiki/Portal_\(ゲーム\) "wikilink")1作目など。対象となるゲームや状況は限定されており、通常はパック中のゲームのライセンスの二重購入は考慮されず、二回目に買ったものは無駄になってしまうことが多い。
+ごく限られた条件下ではあるが、購入したパック中に既に持っているゲームがあった場合、この余剰分のライセンスがギフトとなり友人にプレゼントすることが可能な場合がある。例えば、『[The Orange Box](../Page/The_Orange_Box.md "wikilink")』やValve Complete Packを購入した際の『[ハーフライフ2](../Page/ハーフライフ2.md "wikilink")』と『[ハーフライフ2 エピソード1](../Page/ハーフライフ2.md "wikilink")』、Left 4 Deadシリーズや[Portalシリーズのパックを買った際の](../Page/Portal_\(ゲーム\).md "wikilink")1作目など。対象となるゲームや状況は限定されており、通常はパック中のゲームのライセンスの二重購入は考慮されず、二回目に買ったものは無駄になってしまうことが多い。
 
 ちなみに、ValveはこのSteam ギフトを使ったライセンスのプレイヤー間での売買を認めておらず（Steamの利用条件によって明記されている）、規約に違反した場合はアカウントが停止される。ただし、後述するトレードシステムによる取引は認められている\[28\]。
 
 ### コミュニティマーケット
 
-コミュニティマーケットは、前述するトレーディングカードなどのSteamアイテムを売買できるバーチャルマーケットである。ユーザは自由な価格設定が可能で、アイテムごとにそれぞれ売り注文と買い注文を出すことができ、最安値の売り注文が最高額の買い注文にマッチして自動的に取引が成立する。Valve製タイトルのゲーム内アイテムはコミュニティマーケットによって公式に[リアルマネートレードが可能で](https://ja.wikipedia.org/wiki/リアルマネートレーディング "wikilink")、特に『[Team Fortress 2](https://ja.wikipedia.org/wiki/Team_Fortress_2 "wikilink")』のアイテム『Mann Co. *物資箱のキー*』などは250 - 300円程度の高い価値があり、価格も安定していることから、後述するトレードにおいて疑似通貨として広く用いられる。
+コミュニティマーケットは、前述するトレーディングカードなどのSteamアイテムを売買できるバーチャルマーケットである。ユーザは自由な価格設定が可能で、アイテムごとにそれぞれ売り注文と買い注文を出すことができ、最安値の売り注文が最高額の買い注文にマッチして自動的に取引が成立する。Valve製タイトルのゲーム内アイテムはコミュニティマーケットによって公式に[リアルマネートレードが可能で](../Page/リアルマネートレーディング.md "wikilink")、特に『[Team Fortress 2](https://ja.wikipedia.org/wiki/Team_Fortress_2 "wikilink")』のアイテム『Mann Co. *物資箱のキー*』などは250 - 300円程度の高い価値があり、価格も安定していることから、後述するトレードにおいて疑似通貨として広く用いられる。
 
 ### トレード
 
@@ -171,7 +171,7 @@ Steamにはトレーディング機能があり、カード、ブースターパ
 
 ### 支払い
 
-ゲームの購入は[TLS 1.2により暗号化されている](../Page/Transport_Layer_Security.md "wikilink")。Steamはさまざまな支払い方法に対応しており、日本ではSteam独自の[仮想通貨](https://ja.wikipedia.org/wiki/仮想通貨 "wikilink")であるSteam ウォレットのほか、[クレジットカード](../Page/クレジットカード.md "wikilink")、[デビットカード](../Page/デビットカード.md "wikilink")、[PayPal](https://ja.wikipedia.org/wiki/PayPal "wikilink")、コンビニ決済、[銀行振込](https://ja.wikipedia.org/wiki/銀行振込 "wikilink")、[Pay-easy](https://ja.wikipedia.org/wiki/Pay-easy "wikilink")および[WebMoneyが利用できる](https://ja.wikipedia.org/wiki/ウェブマネー "wikilink")。日本独自の決済方法は[デジカ](https://ja.wikipedia.org/wiki/デジカ "wikilink")との業務提携により、[Komoju](https://komoju.jp)を利用している。Steamでは決済通貨の国際化が行われており、日本国内では[2014年](../Page/2014年.md "wikilink")[8月](../Page/8月.md "wikilink")より[日本円によるものとなっている](../Page/円_\(通貨\).md "wikilink")\[29\]。 海外においても独自の決済方法がサポートされており（e.g. [WebMoney](https://ja.wikipedia.org/wiki/ウェブマネートランスファー "wikilink")（日本の[WebMoneyとは無関係](https://ja.wikipedia.org/wiki/ウェブマネー "wikilink")）、iDeal、PaySafeCard、Moneybookers、Sofortüberweisung / DIRECTebanking.comなど）決済通貨も国に応じて[ロシア・ルーブル](../Page/ロシア・ルーブル.md "wikilink")、[リンギット](https://ja.wikipedia.org/wiki/リンギット "wikilink")、[ルピア](https://ja.wikipedia.org/wiki/ルピア "wikilink")、[レアル](../Page/レアル.md "wikilink")、[バーツ](https://ja.wikipedia.org/wiki/バーツ "wikilink")、[メキシコ・ペソ](../Page/メキシコ・ペソ.md "wikilink")、[フィリピン・ペソ](../Page/フィリピン・ペソ.md "wikilink")、[トルコリラ](https://ja.wikipedia.org/wiki/トルコリラ "wikilink")、[アメリカ合衆国ドル](../Page/アメリカ合衆国ドル.md "wikilink")、[シンガポールドル](https://ja.wikipedia.org/wiki/シンガポールドル "wikilink")、[ニュージーランド・ドル](https://ja.wikipedia.org/wiki/ニュージーランド・ドル "wikilink")、[ノルウェー・クローネ](https://ja.wikipedia.org/wiki/ノルウェー・クローネ "wikilink")、[カナダドル](https://ja.wikipedia.org/wiki/カナダドル "wikilink")、[ユーロ](../Page/ユーロ.md "wikilink")、[スターリング・ポンド](../Page/スターリング・ポンド.md "wikilink")に対応している。
+ゲームの購入は[TLS 1.2により暗号化されている](../Page/Transport_Layer_Security.md "wikilink")。Steamはさまざまな支払い方法に対応しており、日本ではSteam独自の[仮想通貨](../Page/仮想通貨.md "wikilink")であるSteam ウォレットのほか、[クレジットカード](../Page/クレジットカード.md "wikilink")、[デビットカード](../Page/デビットカード.md "wikilink")、[PayPal](../Page/PayPal.md "wikilink")、コンビニ決済、[銀行振込](https://ja.wikipedia.org/wiki/銀行振込 "wikilink")、[Pay-easy](../Page/Pay-easy.md "wikilink")および[WebMoneyが利用できる](../Page/ウェブマネー.md "wikilink")。日本独自の決済方法は[デジカ](https://ja.wikipedia.org/wiki/デジカ "wikilink")との業務提携により、[Komoju](https://komoju.jp)を利用している。Steamでは決済通貨の国際化が行われており、日本国内では[2014年](../Page/2014年.md "wikilink")[8月](../Page/8月.md "wikilink")より[日本円によるものとなっている](../Page/円_\(通貨\).md "wikilink")\[29\]。 海外においても独自の決済方法がサポートされており（e.g. [WebMoney](../Page/ウェブマネートランスファー.md "wikilink")（日本の[WebMoneyとは無関係](../Page/ウェブマネー.md "wikilink")）、iDeal、PaySafeCard、Moneybookers、Sofortüberweisung / DIRECTebanking.comなど）決済通貨も国に応じて[ロシア・ルーブル](../Page/ロシア・ルーブル.md "wikilink")、[リンギット](../Page/リンギット.md "wikilink")、[ルピア](../Page/ルピア.md "wikilink")、[レアル](../Page/レアル.md "wikilink")、[バーツ](https://ja.wikipedia.org/wiki/バーツ "wikilink")、[メキシコ・ペソ](../Page/メキシコ・ペソ.md "wikilink")、[フィリピン・ペソ](../Page/フィリピン・ペソ.md "wikilink")、[トルコリラ](../Page/トルコリラ.md "wikilink")、[アメリカ合衆国ドル](../Page/アメリカ合衆国ドル.md "wikilink")、[シンガポールドル](../Page/シンガポールドル.md "wikilink")、[ニュージーランド・ドル](https://ja.wikipedia.org/wiki/ニュージーランド・ドル "wikilink")、[ノルウェー・クローネ](../Page/ノルウェー・クローネ.md "wikilink")、[カナダドル](../Page/カナダドル.md "wikilink")、[ユーロ](../Page/ユーロ.md "wikilink")、[スターリング・ポンド](../Page/スターリング・ポンド.md "wikilink")に対応している。
 
 上記のプレロード機能との兼ね合いもあり、ほとんどの新作は発売日前からの予約が可能であるが、発売後ではなく、予約をした段階で料金の支払いが発生する仕組みとなっている。
 
@@ -187,8 +187,8 @@ Steamクライアントは、[日本語](../Page/日本語.md "wikilink")、[ス
 
 Steamは定期的にどのようなハードウェアが使われているのかを調査している。その情報はハードウェアの製造元に伝わって宣伝や販売促進に役立てられる。
 
-  - 例えば、2007年5月にはじまった「ATI Steam Offer」\[33\]では、グラフィックボードに[ATI Technologiesの](https://ja.wikipedia.org/wiki/ATI_Technologies "wikilink")[RADEON](https://ja.wikipedia.org/wiki/RADEON "wikilink")シリーズを使用しているユーザに『[ハーフライフ2 ロストコースト](https://ja.wikipedia.org/wiki/ハーフライフ2 "wikilink")』と『[ハーフライフ2 デスマッチ](https://ja.wikipedia.org/wiki/ハーフライフ2 "wikilink")』が無料で提供された。
-  - 2008年1月には、『[Portal](https://ja.wikipedia.org/wiki/Portal_\(ゲーム\) "wikilink")』のデモ版『Portal: The First Slice』がNVIDIAビデオカードを使用しているユーザ全員に提供された。ただし、一つのカードにつき一回のみである。
+  - 例えば、2007年5月にはじまった「ATI Steam Offer」\[33\]では、グラフィックボードに[ATI Technologiesの](../Page/ATI_Technologies.md "wikilink")[RADEON](https://ja.wikipedia.org/wiki/RADEON "wikilink")シリーズを使用しているユーザに『[ハーフライフ2 ロストコースト](../Page/ハーフライフ2.md "wikilink")』と『[ハーフライフ2 デスマッチ](../Page/ハーフライフ2.md "wikilink")』が無料で提供された。
+  - 2008年1月には、『[Portal](../Page/Portal_\(ゲーム\).md "wikilink")』のデモ版『Portal: The First Slice』がNVIDIAビデオカードを使用しているユーザ全員に提供された。ただし、一つのカードにつき一回のみである。
 
 ## 脚注
 
@@ -250,7 +250,7 @@ Steamは定期的にどのようなハードウェアが使われているのか
 24.
 25. )
 26. 二日間限定・日替わりの*Daily Deal*や、大規模セール期間中において12時間毎に追加されるフラッシュセールも開催されていたが、2015年のAutumn Sale開催と同時に廃止された。
-27. [カプコン](https://ja.wikipedia.org/wiki/カプコン "wikilink")の対象タイトルなど。
+27. [カプコン](../Page/カプコン.md "wikilink")の対象タイトルなど。
 28.
 29.
 30.

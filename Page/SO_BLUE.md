@@ -3,7 +3,7 @@
 
 「**SO BLUE**」（ソー・ブルー）は、1996年2月19日に[森高千里](../Page/森高千里.md "wikilink")が発表した楽曲、及び 28枚目のシングル。CDコードはEPDA-24。
 
-『[TAIYO](https://ja.wikipedia.org/wiki/TAIYO_\(森高千里のアルバム\) "wikilink")』にも収録されている。TBS系列『[COUNT DOWN TV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")』オープニングテーマに起用された。
+『[TAIYO](https://ja.wikipedia.org/wiki/TAIYO_\(森高千里のアルバム\) "wikilink")』にも収録されている。TBS系列『[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")』オープニングテーマに起用された。
 
 ## 収録曲
 

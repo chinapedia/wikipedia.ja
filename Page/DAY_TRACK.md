@@ -5,13 +5,13 @@
 
 ## 所在地
 
-  - [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[六本木](../Page/六本木.md "wikilink")5丁目2番地2号　森本六本木ビル5F
+  - [東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[六本木](../Page/六本木.md "wikilink")5丁目2番地2号　森本六本木ビル5F
 
 ## 所属アーティスト
 
 ### レーベル責任者
 
-  - [Master ME-YA](https://ja.wikipedia.org/wiki/Master_ME-YA "wikilink") (ex.[DJ ME-YA](https://ja.wikipedia.org/wiki/DJ_ME-YA "wikilink"))
+  - [Master ME-YA](https://ja.wikipedia.org/wiki/Master_ME-YA "wikilink") (ex.[DJ ME-YA](../Page/DJ_ME-YA.md "wikilink"))
 
 ### アーティスト
 
@@ -54,8 +54,8 @@
 
 ### 編曲
 
-  - [岩田さゆり](https://ja.wikipedia.org/wiki/岩田さゆり "wikilink")「あなたはあなた。」「深海の光」「未来へと」
-  - [スパークリング☆ポイント](https://ja.wikipedia.org/wiki/スパークリング☆ポイント "wikilink")「Chocolate〜君のサンタになりたくて〜」
+  - [岩田さゆり](../Page/岩田さゆり.md "wikilink")「あなたはあなた。」「深海の光」「未来へと」
+  - [スパークリング☆ポイント](../Page/スパークリング☆ポイント.md "wikilink")「Chocolate〜君のサンタになりたくて〜」
   - [TUBE](../Page/TUBE.md "wikilink")「Seaside Vibration〜世界をつなげる扉ver.〜」「妄想MAN DEBUT」（TUBEと共同）
 
 ### リミックス

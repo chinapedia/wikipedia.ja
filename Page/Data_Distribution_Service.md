@@ -1,13 +1,13 @@
 > この記事は[Data Distribution Service](https://ja.wikipedia.org/wiki/Data_Distribution_Service)から翻訳されています。
 
 
-**Data Distribution Service** for Real-time Systems（**DDS**）は、[CORBA](https://ja.wikipedia.org/wiki/CORBA "wikilink")に欠けていたデータ中心の出版-購読型仕様を求める声に応じて作成された[分散システムの](../Page/分散コンピューティング.md "wikilink")[出版-購読型ミドルウェアの仕様である](https://ja.wikipedia.org/wiki/出版-購読型モデル "wikilink")。それまでもいくつかの独自なDDSソリューションはあったが、2004年に主要DDSベンダー2社（[Real-Time Innovations](http://www.rti.com)と[Thales](http://www.thalesgroup.com)）が共同でDDSの標準仕様を策定し、[Object Management Group](https://ja.wikipedia.org/wiki/Object_Management_Group "wikilink")(OMG)がこれを承認したものである。 なお、通信プロトコルとしては[RTPS](http://www.omg.org/spec/DDSI/2.1)プロトコル(2008年末時点ではRev 2.1)を使用することが規定されている。
+**Data Distribution Service** for Real-time Systems（**DDS**）は、[CORBA](https://ja.wikipedia.org/wiki/CORBA "wikilink")に欠けていたデータ中心の出版-購読型仕様を求める声に応じて作成された[分散システムの](../Page/分散コンピューティング.md "wikilink")[出版-購読型ミドルウェアの仕様である](../Page/出版-購読型モデル.md "wikilink")。それまでもいくつかの独自なDDSソリューションはあったが、2004年に主要DDSベンダー2社（[Real-Time Innovations](http://www.rti.com)と[Thales](http://www.thalesgroup.com)）が共同でDDSの標準仕様を策定し、[Object Management Group](../Page/Object_Management_Group.md "wikilink")(OMG)がこれを承認したものである。 なお、通信プロトコルとしては[RTPS](http://www.omg.org/spec/DDSI/2.1)プロトコル(2008年末時点ではRev 2.1)を使用することが規定されている。
 
 ## バージョン履歴
 
   - [Data Distribution Service 1.4 Beta](http://www.omg.org/spec/DDS/1.4/Beta2/PDF) - DDS 1.4Beta 審議完了、近日ドキュメントの正式版がリリース。現在1.5に向けてRequest募集中。
-  - [DDS 1.2](http://www.omg.org/spec/DDS/1.2l) — DDS 1.2 ([2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink"))
-  - **DDS 1.1** （[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月4日](../Page/12月4日.md "wikilink")）
+  - [DDS 1.2](http://www.omg.org/spec/DDS/1.2l) — DDS 1.2 ([2007年](../Page/2007年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink"))
+  - **DDS 1.1** （[2005年](../Page/2005年.md "wikilink")[12月4日](../Page/12月4日.md "wikilink")）
   - **DDS 1.0**
 
 DDS仕様では2種類のインターフェイスを規定している:
@@ -62,7 +62,7 @@ Version 1.4ではDLRLはDDS-DLRLとして標準規格から分離された。今
 
 ### DDSモデル
 
-DDS は複雑な[コンピュータネットワーク](https://ja.wikipedia.org/wiki/コンピュータネットワーク "wikilink")に関連した[プログラミングを単純化するネットワーキング](https://ja.wikipedia.org/wiki/プログラミング_\(コンピュータ\) "wikilink")[ミドルウェア](https://ja.wikipedia.org/wiki/ミドルウェア "wikilink")である。ノード間のデータ/イベント/コマンドの送受信を出版-購読型モデルで実装している。情報を生み出すノード（publisher）は「トピック; topics」を生成し、「サンプル; samples」を出版する。DDS はそのトピックに興味があると宣言した全購読者（subscriber）がサンプルを受け取れるように働く。
+DDS は複雑な[コンピュータネットワーク](../Page/コンピュータネットワーク.md "wikilink")に関連した[プログラミングを単純化するネットワーキング](https://ja.wikipedia.org/wiki/プログラミング_\(コンピュータ\) "wikilink")[ミドルウェア](../Page/ミドルウェア.md "wikilink")である。ノード間のデータ/イベント/コマンドの送受信を出版-購読型モデルで実装している。情報を生み出すノード（publisher）は「トピック; topics」を生成し、「サンプル; samples」を出版する。DDS はそのトピックに興味があると宣言した全購読者（subscriber）がサンプルを受け取れるように働く。
 
 DDS は転送に関わる雑事を全て引き受ける。メッセージのアドレッシング、[データのマーシャリング](../Page/シリアライズ.md "wikilink")（従って subscriber と publisher は異なるプラットフォームでもよい）、配布、フロー制御、再送などである。各ノードは publisher にも subscriber にもなれるし、同時に両方の役目を果たすこともできる。
 
@@ -74,17 +74,17 @@ DDS は基本的な出版-購読型モデル以上の機構をサポートする
   - 受信側がどこにあるか
   - メッセージを配信できないときに発生する事象
 
-このため、DDSに対してユーザーアプリケーションが[Quality of Service](https://ja.wikipedia.org/wiki/Quality_of_Service "wikilink")(QoS)パラメータを指定でき、自動検出機構の設定をしたり、メッセージ送受信時の動作を指定したりできる。このような機構は最初に設定されたらユーザー側が後で何かをする必要は無い。完全に匿名でのメッセージ交換を行うことで DDS は分散アプリケーションの設計を大幅に単純化し、モジュール化され良く構造化されたプログラム作成を可能としている。
+このため、DDSに対してユーザーアプリケーションが[Quality of Service](../Page/Quality_of_Service.md "wikilink")(QoS)パラメータを指定でき、自動検出機構の設定をしたり、メッセージ送受信時の動作を指定したりできる。このような機構は最初に設定されたらユーザー側が後で何かをする必要は無い。完全に匿名でのメッセージ交換を行うことで DDS は分散アプリケーションの設計を大幅に単純化し、モジュール化され良く構造化されたプログラム作成を可能としている。
 
 DDS は publisher の二重化によるホットスワップも制御する。ホットスワップ中も subscriber は常に有効な高優先度データのサンプルを受け取る（有効とは、publisherの指定した有効期限内であるという意味）。障害から回復した一次 publisher への復旧も自動的に行われる。DDS は以下にあるようなベンダーから実装された製品が出ており、[C](../Page/C言語.md "wikilink")、[C++](../Page/C++.md "wikilink")、[Java](https://ja.wikipedia.org/wiki/Java "wikilink")の[APIが利用可能である](../Page/アプリケーションプログラミングインタフェース.md "wikilink")。
 
 ## DDSプロバイダー実装
 
-  - [RTI Connext DDS](http://www.rti.com/products/dds/index.html) — Real-Time Innovations, Inc. の[COTS](https://ja.wikipedia.org/wiki/商用オフザシェルフ "wikilink") [リアルタイム](https://ja.wikipedia.org/wiki/リアルタイムシステム "wikilink") DDS API（C言語、C++、Java言語）。[組み込みシステム](../Page/組み込みシステム.md "wikilink")を含む各種プラットフォーム用。派生品として"RTI Connext DDS Secure"(DDS Secure対応), "Connext DDS Micro"(組込み向け縮小版), "Connext DDS Cert" (Connext DDS Micro にDO-178C Level A認証取得用資料を加えたもの)が用意されている。
+  - [RTI Connext DDS](http://www.rti.com/products/dds/index.html) — Real-Time Innovations, Inc. の[COTS](../Page/商用オフザシェルフ.md "wikilink") [リアルタイム](https://ja.wikipedia.org/wiki/リアルタイムシステム "wikilink") DDS API（C言語、C++、Java言語）。[組み込みシステム](../Page/組み込みシステム.md "wikilink")を含む各種プラットフォーム用。派生品として"RTI Connext DDS Secure"(DDS Secure対応), "Connext DDS Micro"(組込み向け縮小版), "Connext DDS Cert" (Connext DDS Micro にDO-178C Level A認証取得用資料を加えたもの)が用意されている。
   - [OpenSplice](http://www.prismtech.com/opensplice) 欧州一の軍需メーカー Thales で開発されていたDDS。その後Prismtechに売却された。DDS市場ではRTI(シェア70%程度)に次ぐ製品(シェア10～15%)。
   - [DDS for TAO](http://www.ociweb.com/products/dds) — Object Computing, Inc (OCI) の[オープンソース](../Page/オープンソース.md "wikilink") DDS 実装。CORBA上に構築されたACE/TAOフレームワークに基づいている。
   - [Open-Source Java-based DDS](http://www-adele.imag.fr/~donsez/dev/dds/readme.html) — ADELE Team の[オープンソース](../Page/オープンソース.md "wikilink") Javaベース DDS 実装（CORBA上に構築）。
-  - [MilSOFT DDS](http://dds.milsoft.com.tr) — MilSOFT の [COTS](https://ja.wikipedia.org/wiki/商用オフザシェルフ "wikilink") DDS 実装。
+  - [MilSOFT DDS](http://dds.milsoft.com.tr) — MilSOFT の [COTS](../Page/商用オフザシェルフ.md "wikilink") DDS 実装。
 
 ## 採用事例
 
@@ -96,7 +96,7 @@ OACE、COTSでの実績をもとに、航空機器用ソフトウェア標準規
 
 ## 関連項目
 
-  - [ミドルウェア](https://ja.wikipedia.org/wiki/ミドルウェア "wikilink")
+  - [ミドルウェア](../Page/ミドルウェア.md "wikilink")
 
 ## 外部リンク
 

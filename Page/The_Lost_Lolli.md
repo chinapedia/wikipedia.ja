@@ -5,11 +5,11 @@
 
 ## 解説
 
-  - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[2月18日](../Page/2月18日.md "wikilink")にレーベル[cutting edgeよりリリースされた](https://ja.wikipedia.org/wiki/cutting_edge "wikilink")。
+  - [2004年](../Page/2004年.md "wikilink")[2月18日](../Page/2月18日.md "wikilink")にレーベル[cutting edgeよりリリースされた](https://ja.wikipedia.org/wiki/cutting_edge "wikilink")。
   - 自身3年ぶりとなるフルアルバムである。2003年リリースのミニアルバム収録曲を複数収録している。また、「Sea me」「Into the Stars」「SpidERSpins」のニューアレンジバージョンを収録。
   - 全曲英語詞、また全てセルフプロデュース（弟のJeffrey Lufkinとの共作）。
   - 2004年4 - 11月にライブツアー「The Lost Lolli Live 2004」が開催された。アルバムタイトルを冠したツアーは自身初となる。
-  - [オリコン初登場第](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")111位。
+  - [オリコン初登場第](../Page/オリコンチャート.md "wikilink")111位。
 
 ## 収録曲
 
@@ -46,7 +46,7 @@
         ミニアルバム『Merry & Hell Go Round』収録。
 12. **Sea me (English version)**
       -
-        7thシングル。[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系「[JAPAN COUNTDOWN](https://ja.wikipedia.org/wiki/JAPAN_COUNTDOWN "wikilink")」オープニングテーマ。日本語歌詞バージョンはこの曲のシングル収録。
+        7thシングル。[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系「[JAPAN COUNTDOWN](../Page/JAPAN_COUNTDOWN.md "wikilink")」オープニングテーマ。日本語歌詞バージョンはこの曲のシングル収録。
 13. **Into the Stars (Live Arrangement Version)**
       -
         8thシングル。日本語歌詞バージョンはシングルに収録。

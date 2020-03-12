@@ -29,7 +29,7 @@
       - [Tsudaken's_Room](https://ja.wikipedia.org/wiki/Tsudaken's_Room "wikilink")（木曜更新）
       - [三瓶由布子の育て\!黄色いアヒル豆\!\!](https://ja.wikipedia.org/wiki/三瓶由布子の育て!黄色いアヒル豆!! "wikilink")（金曜更新）
       - [大岸優のからふるらいふ](https://ja.wikipedia.org/wiki/大岸優のからふるらいふ "wikilink")（金曜更新）
-      - [高田広ゆきケータイシティホール](https://ja.wikipedia.org/wiki/高田広ゆきケータイシティホール "wikilink")（金曜更新）
+      - [高田広ゆきケータイシティホール](../Page/高田広ゆきケータイシティホール.md "wikilink")（金曜更新）
       - [真堂圭のNECOぱんち☆](https://ja.wikipedia.org/wiki/真堂圭のNECOぱんち☆ "wikilink")（金曜更新）
   - HQケータイラジオ（ケータイラジオと同じコンテンツをiモーションで配信。対応機種に注意）
   - VSTV
@@ -40,8 +40,8 @@
 
 ## 関連項目
 
-  - [1314_V-STATION](https://ja.wikipedia.org/wiki/1314_V-STATION "wikilink")
-  - [声優グランプリ](https://ja.wikipedia.org/wiki/声優グランプリ "wikilink")
+  - [1314_V-STATION](../Page/1314_V-STATION.md "wikilink")
+  - [声優グランプリ](../Page/声優グランプリ.md "wikilink")
 
 ## 外部リンク
 

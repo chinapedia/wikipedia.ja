@@ -12,7 +12,7 @@
   - 多摩支店（東京都[調布市](../Page/調布市.md "wikilink")）
   - 府中営業所（東京都[府中市](../Page/府中市_\(東京都\).md "wikilink")）
   - 神奈川支店（東京都[町田市](../Page/町田市.md "wikilink")）
-  - 埼玉支店（[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")[さいたま市](https://ja.wikipedia.org/wiki/さいたま市 "wikilink")[桜区](https://ja.wikipedia.org/wiki/桜区 "wikilink")）
+  - 埼玉支店（[埼玉県](../Page/埼玉県.md "wikilink")[さいたま市](https://ja.wikipedia.org/wiki/さいたま市 "wikilink")[桜区](https://ja.wikipedia.org/wiki/桜区 "wikilink")）
   - 埼玉支店大宮事業所（埼玉県さいたま市[北区](https://ja.wikipedia.org/wiki/北区_\(さいたま市\) "wikilink")・[シヤチハタ](../Page/シヤチハタ.md "wikilink")株式会社内）
   - 千葉支店（千葉県[船橋市](https://ja.wikipedia.org/wiki/船橋市 "wikilink")）
   - 豊橋物流センター（愛知県[豊川市](../Page/豊川市.md "wikilink")）

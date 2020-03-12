@@ -1,7 +1,7 @@
 > この記事は[Hanaboy](https://ja.wikipedia.org/wiki/Hanaboy)から翻訳されています。
 
 
-**Hanaboy**（ハナボーイ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[スリーピース](https://ja.wikipedia.org/wiki/スリーピース "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。2003年1月結成。インディーズレーベル[HILLS RECORDSよりアルバム](https://ja.wikipedia.org/wiki/HILLS_RECORDS "wikilink")2枚、シングル1枚をリリース。2007年6月に[日本クラウン](https://ja.wikipedia.org/wiki/日本クラウン "wikilink")よりミニアルバム「Your Summer」をリリースし、メジャーデビュー。最新作は2007年10月にリリースされたミニアルバム「THE SOUTH POLE」。2014年10月に[Nesno 10th Anniversary Balance Musicにも参加](https://ja.wikipedia.org/wiki/Nesno_10th_Anniversary_Balance_Music "wikilink")。ノスタルジックで暖かみのあるメロディが特徴。
+**Hanaboy**（ハナボーイ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[スリーピース](https://ja.wikipedia.org/wiki/スリーピース "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。2003年1月結成。インディーズレーベル[HILLS RECORDSよりアルバム](https://ja.wikipedia.org/wiki/HILLS_RECORDS "wikilink")2枚、シングル1枚をリリース。2007年6月に[日本クラウン](../Page/日本クラウン.md "wikilink")よりミニアルバム「Your Summer」をリリースし、メジャーデビュー。最新作は2007年10月にリリースされたミニアルバム「THE SOUTH POLE」。2014年10月に[Nesno 10th Anniversary Balance Musicにも参加](https://ja.wikipedia.org/wiki/Nesno_10th_Anniversary_Balance_Music "wikilink")。ノスタルジックで暖かみのあるメロディが特徴。
 
 ## メンバー
 

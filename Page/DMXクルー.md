@@ -1,11 +1,11 @@
 > この記事は[DMX](https://ja.wikipedia.org/wiki/DMX)から翻訳されています。
 
 
-**DMXクルー**(*DMX Krew*)のアーティスト名義での活動で最も知られるエド・アップトン（*Ed Upton*、生年月日不詳）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[ミュージシャンである](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。主に[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")、特に[エレクトロ](https://ja.wikipedia.org/wiki/エレクトロ "wikilink")に分類される曲を多くリリースしている。
+**DMXクルー**(*DMX Krew*)のアーティスト名義での活動で最も知られるエド・アップトン（*Ed Upton*、生年月日不詳）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[ミュージシャンである](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。主に[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")、特に[エレクトロ](../Page/エレクトロ.md "wikilink")に分類される曲を多くリリースしている。
 
 ## 経歴
 
-1994年にシングルをリリースした後、[1996年](../Page/1996年.md "wikilink")に、[リフレックス・レコーズ](../Page/リフレックス・レコーズ.md "wikilink")からリリースされたデビューアルバムが、音楽シーンにて注目された第一歩である。その曲の特徴は、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")代の[ニュー・ウェイヴ的な面も多く持ち](https://ja.wikipedia.org/wiki/ニュー・ウェイヴ_\(音楽\) "wikilink")、それによりDMXクルーがエレクトロにおける主要アーティストとして認識されるようになっていった。
+1994年にシングルをリリースした後、[1996年](../Page/1996年.md "wikilink")に、[リフレックス・レコーズ](../Page/リフレックス・レコーズ.md "wikilink")からリリースされたデビューアルバムが、音楽シーンにて注目された第一歩である。その曲の特徴は、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")代の[ニュー・ウェイヴ的な面も多く持ち](../Page/ニュー・ウェイヴ_\(音楽\).md "wikilink")、それによりDMXクルーがエレクトロにおける主要アーティストとして認識されるようになっていった。
 
 リフレックス・レコーズからのリリースが中心であるが、自身でも[レコードレーベル](../Page/レコードレーベル.md "wikilink")Breakin' Recordsを運営している。
 
@@ -18,7 +18,7 @@
   - *Nu Romantix* （[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")）
   - *We are DMX* （[1999年](../Page/1999年.md "wikilink")）
   - *The Collapse of the Wave Function LP* （[2004年](../Page/2004年.md "wikilink")）
-  - *Turpitude of the Modern Soul*（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")）
+  - *Turpitude of the Modern Soul*（[2005年](../Page/2005年.md "wikilink")）
   - *Kiss good bye*（2005年）
   - *Wave:CD* （2005年）
 

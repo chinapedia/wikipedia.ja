@@ -1,7 +1,7 @@
 > この記事は[19 BEST](https://ja.wikipedia.org/wiki/19_BEST)から翻訳されています。
 
 
-『**19 BEST**』は[19初のベストアルバム](https://ja.wikipedia.org/wiki/19_\(音楽グループ\) "wikilink")。
+『**19 BEST**』は[19初のベストアルバム](../Page/19_\(音楽グループ\).md "wikilink")。
 
 メジャーデビューから解散までのシングルAB面を収録した『**19 BEST●青**』、活動期間中に発表した3枚のオリジナルアルバムから選曲した『**19 BEST●春**』の2枚同時発売。[2007年](../Page/2007年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")には別々であった2枚を一つの商品として「コンプリートBEST 青&春」というタイトルで期間限定発売された。
 
@@ -20,7 +20,7 @@
 
 1.  **[あの青をこえて](../Page/あの青をこえて.md "wikilink")** (5:18)
       -
-        作詞:[326](https://ja.wikipedia.org/wiki/326_\(イラストレーター\) "wikilink")、作曲:[イワセケイゴ](../Page/岩瀬敬吾.md "wikilink")、編曲:[茂村泰彦](https://ja.wikipedia.org/wiki/茂村泰彦 "wikilink")
+        作詞:[326](../Page/326_\(イラストレーター\).md "wikilink")、作曲:[イワセケイゴ](../Page/岩瀬敬吾.md "wikilink")、編曲:[茂村泰彦](../Page/茂村泰彦.md "wikilink")
 2.  **[西暦前進2000年→](../Page/あの青をこえて.md "wikilink")** (4:06)
       -
         作詞:326、作曲:[岡平健治](../Page/岡平健治.md "wikilink")、編曲:[熊谷憲康](https://ja.wikipedia.org/wiki/熊谷憲康 "wikilink")
@@ -53,7 +53,7 @@
         作詞:イワセケイゴ、作曲:イワセケイゴ・茂村泰彦、編曲:茂村泰彦
 12. **[たいせつなひと](../Page/たいせつなひと.md "wikilink")** (3:51)
       -
-        作詞:[市川喜康](https://ja.wikipedia.org/wiki/市川喜康 "wikilink")・岡平健治、作曲:岡平健治、編曲:[Achilles Damigos](https://ja.wikipedia.org/wiki/Achilles_Damigos "wikilink")・岡平健治
+        作詞:[市川喜康](../Page/市川喜康.md "wikilink")・岡平健治、作曲:岡平健治、編曲:[Achilles Damigos](https://ja.wikipedia.org/wiki/Achilles_Damigos "wikilink")・岡平健治
 13. **[小田急柿生](../Page/たいせつなひと.md "wikilink")** (4:52)
       -
         作詞:岡平健治、作曲:岡平健治、編曲:岡平健治

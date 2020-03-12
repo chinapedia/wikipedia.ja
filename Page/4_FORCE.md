@@ -5,8 +5,8 @@
 
 ## 概要
 
-  - オリジナルアルバムとしては前作『[eternity](https://ja.wikipedia.org/wiki/eternity_\(Every_Little_Thingのアルバム\) "wikilink")』より約1年振りとなり、[キーボードの](../Page/キーボード_\(楽器\).md "wikilink")[五十嵐充](../Page/五十嵐充.md "wikilink")が脱退し、[持田香織](https://ja.wikipedia.org/wiki/持田香織 "wikilink")と[伊藤一朗](https://ja.wikipedia.org/wiki/伊藤一朗 "wikilink")の2人体制になってからの初の[アルバム](../Page/アルバム.md "wikilink")となる。
-  - [オリジナルアルバムで唯一](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")、[インストゥルメンタルの楽曲が収録されておらず](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")、全て歌だけで構成された形となっている。
+  - オリジナルアルバムとしては前作『[eternity](https://ja.wikipedia.org/wiki/eternity_\(Every_Little_Thingのアルバム\) "wikilink")』より約1年振りとなり、[キーボードの](../Page/キーボード_\(楽器\).md "wikilink")[五十嵐充](../Page/五十嵐充.md "wikilink")が脱退し、[持田香織](https://ja.wikipedia.org/wiki/持田香織 "wikilink")と[伊藤一朗](../Page/伊藤一朗.md "wikilink")の2人体制になってからの初の[アルバム](../Page/アルバム.md "wikilink")となる。
+  - [オリジナルアルバムで唯一](../Page/スタジオ・アルバム.md "wikilink")、[インストゥルメンタルの楽曲が収録されておらず](../Page/器楽曲.md "wikilink")、全て歌だけで構成された形となっている。
   - このアルバム以降、基本的に作詞は全て持田が手がけている。また、本作では初めて持田が単独で作曲を手掛けた曲も2曲収録されている。
   - [山梨県](../Page/山梨県.md "wikilink")の[山中湖](../Page/山中湖.md "wikilink")にあるスタジオで本作の合宿レコーディングが行われた。
   - 初回限定盤はスリーブケース仕様。
@@ -22,10 +22,10 @@
       -
         （作曲：[大谷靖夫](../Page/大谷靖夫.md "wikilink") / 編曲：伊藤一朗、桑島幻矢、大谷靖夫）
         18thシングル。
-        [TBS系ドラマ](../Page/TBSテレビ.md "wikilink")「[ビッグウイング](https://ja.wikipedia.org/wiki/ビッグウイング "wikilink")」主題歌
+        [TBS系ドラマ](../Page/TBSテレビ.md "wikilink")「[ビッグウイング](../Page/ビッグウイング.md "wikilink")」主題歌
 2.  **[JIRENMA](https://ja.wikipedia.org/wiki/fragile/JIRENMA "wikilink") (Album Mix)**
       -
-        （作曲：[伊藤一朗](https://ja.wikipedia.org/wiki/伊藤一朗 "wikilink") / 編曲：伊藤一朗、桑島幻矢）
+        （作曲：[伊藤一朗](../Page/伊藤一朗.md "wikilink") / 編曲：伊藤一朗、桑島幻矢）
         17thシングルのアレンジ。
         劇場版「[頭文字D Third Stage](../Page/頭文字D.md "wikilink")」エンディングテーマ
         伊藤が初めて単独で作曲したシングル曲。
@@ -53,7 +53,7 @@
         [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[あいのり](../Page/あいのり.md "wikilink")」主題歌
 9.  **No limit**
       -
-        （作曲：[D･A･I](https://ja.wikipedia.org/wiki/長尾大 "wikilink") / 編曲：村田昭）
+        （作曲：[D･A･I](../Page/長尾大.md "wikilink") / 編曲：村田昭）
 10. **force of heart**
       -
         （作曲：伊藤一朗 / 編曲：桑島幻矢）

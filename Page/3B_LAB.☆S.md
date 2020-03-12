@@ -5,7 +5,7 @@
 
 ## 経緯
 
-[2001年](../Page/2001年.md "wikilink")に元[19の](https://ja.wikipedia.org/wiki/19_\(音楽グループ\) "wikilink")[岡平健治](../Page/岡平健治.md "wikilink")が中心となり[千葉貴俊](../Page/千葉貴俊.md "wikilink")、[玉越理寛](https://ja.wikipedia.org/wiki/玉越理寛 "wikilink") と**3B LAB.☆**（スリービーラボ）を結成。もともとは岡平がボーカル、千葉がギター、玉越がドラムで、もう1人ベースのメンバーを探していたが、人が集まらなかったために現在の形となった。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")でのライブにて新メンバー2人（[SHOJI-METASONIK](https://ja.wikipedia.org/wiki/SHOJI-METASONIK "wikilink")、SHUJI（現　[畝沖修司](../Page/畝沖修司.md "wikilink")））が加入。これを機に新たに「S」を付加し、バンド名を**3B LAB.☆S**へと変更した。現在はSHOJI-METASONIKと玉越理寛が卒業して3人で活動している。
+[2001年](../Page/2001年.md "wikilink")に元[19の](../Page/19_\(音楽グループ\).md "wikilink")[岡平健治](../Page/岡平健治.md "wikilink")が中心となり[千葉貴俊](../Page/千葉貴俊.md "wikilink")、[玉越理寛](https://ja.wikipedia.org/wiki/玉越理寛 "wikilink") と**3B LAB.☆**（スリービーラボ）を結成。もともとは岡平がボーカル、千葉がギター、玉越がドラムで、もう1人ベースのメンバーを探していたが、人が集まらなかったために現在の形となった。[2005年](../Page/2005年.md "wikilink")に[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")でのライブにて新メンバー2人（[SHOJI-METASONIK](https://ja.wikipedia.org/wiki/SHOJI-METASONIK "wikilink")、SHUJI（現　[畝沖修司](../Page/畝沖修司.md "wikilink")））が加入。これを機に新たに「S」を付加し、バンド名を**3B LAB.☆S**へと変更した。現在はSHOJI-METASONIKと玉越理寛が卒業して3人で活動している。
 
 ## バンド名、その由来
 
@@ -15,9 +15,9 @@
 
 ## メンバー
 
-  - **[岡平 健治](../Page/岡平健治.md "wikilink")**（おかひら けんじ　[1979年](../Page/1979年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink") - ） [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ギター](../Page/ギター.md "wikilink")担当。[広島県](../Page/広島県.md "wikilink")出身。血液型B型。[ブルースハープを演奏する事もある](https://ja.wikipedia.org/wiki/ハーモニカ "wikilink")。元[19のメンバー](https://ja.wikipedia.org/wiki/19_\(音楽グループ\) "wikilink")。
-  - [千葉貴俊](../Page/千葉貴俊.md "wikilink")（ちば たかとし　[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink") - ） [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")・[コーラス担当](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身。血液型B型。[ライブで](https://ja.wikipedia.org/wiki/演奏会 "wikilink")[アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")を担当する事もある。リーダー。
-  - [畝沖修司](../Page/畝沖修司.md "wikilink")（うねおき　しゅうじ　[1984年](../Page/1984年.md "wikilink")[6月6日](../Page/6月6日.md "wikilink") - ） [ギター](../Page/ギター.md "wikilink")・[コーラス担当](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。2005年加入。[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")出身。血液型O型。
+  - **[岡平 健治](../Page/岡平健治.md "wikilink")**（おかひら けんじ　[1979年](../Page/1979年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink") - ） [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ギター](../Page/ギター.md "wikilink")担当。[広島県](../Page/広島県.md "wikilink")出身。血液型B型。[ブルースハープを演奏する事もある](../Page/ハーモニカ.md "wikilink")。元[19のメンバー](../Page/19_\(音楽グループ\).md "wikilink")。
+  - [千葉貴俊](../Page/千葉貴俊.md "wikilink")（ちば たかとし　[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink") - ） [ベース](../Page/ベース_\(弦楽器\).md "wikilink")・[コーラス担当](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。[東京都](../Page/東京都.md "wikilink")出身。血液型B型。[ライブで](../Page/演奏会.md "wikilink")[アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")を担当する事もある。リーダー。
+  - [畝沖修司](../Page/畝沖修司.md "wikilink")（うねおき　しゅうじ　[1984年](../Page/1984年.md "wikilink")[6月6日](../Page/6月6日.md "wikilink") - ） [ギター](../Page/ギター.md "wikilink")・[コーラス担当](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。2005年加入。[福岡県](../Page/福岡県.md "wikilink")出身。血液型O型。
 
 ## 元メンバー
 
@@ -74,7 +74,7 @@
 
 #### 企画盤
 
-1.  [Upper BEST](https://ja.wikipedia.org/wiki/Upper_BEST "wikilink")（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月20日](../Page/9月20日.md "wikilink")）
+1.  [Upper BEST](https://ja.wikipedia.org/wiki/Upper_BEST "wikilink")（[2006年](../Page/2006年.md "wikilink")[9月20日](../Page/9月20日.md "wikilink")）
 2.  [Ballade BEST](https://ja.wikipedia.org/wiki/Ballade_BEST "wikilink")（2006年9月20日）
 
 ### DVD
@@ -89,13 +89,13 @@
 
 ### コンサート
 
-  - [Dream Power ジョン・レノン スーパー・ライヴ](https://ja.wikipedia.org/wiki/Dream_Power_ジョン・レノン_スーパー・ライヴ "wikilink")2002
+  - [Dream Power ジョン・レノン スーパー・ライヴ](../Page/Dream_Power_ジョン・レノン_スーパー・ライヴ.md "wikilink")2002
 
 ## 外部リンク
 
   - [3B LAB.☆S Official WEB SITE](http://www.rockfordrecords.com/3blab/) 公式サイト
   - [3B LAB.☆S Official Blog](http://ameblo.jp/3blabstars)
-  - [3B LAB.☆S](http://www.jvcmusic.co.jp/-/Profile/A017545.html) [ビクターエンタテインメントによる公式ページ](https://ja.wikipedia.org/wiki/JVCケンウッド・ビクターエンタテインメント "wikilink")
+  - [3B LAB.☆S](http://www.jvcmusic.co.jp/-/Profile/A017545.html) [ビクターエンタテインメントによる公式ページ](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")
   - \[<http://www.rockfordrecords.com/>　RockFord　Records\]所属レーベル
   - [JaME America : multilanguage website about Japanese Music](http://www.jame-world.com/us/artists-overview-189-3b-lab-9734-.html)
 

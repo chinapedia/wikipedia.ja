@@ -1,11 +1,11 @@
 > この記事は[JWAY](https://ja.wikipedia.org/wiki/JWAY)から翻訳されています。
 
 
-**株式会社JWAY**（ジェイウェイ）は、[第三セクター](../Page/第三セクター.md "wikilink")の[電気通信事業者](https://ja.wikipedia.org/wiki/電気通信事業者 "wikilink")である。主力事業は、[茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")[日立市](https://ja.wikipedia.org/wiki/日立市 "wikilink")をサービスエリアとする有線テレビジョン放送（[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")）である。平成16年5月設立。平成18年3月に[日立市](https://ja.wikipedia.org/wiki/日立市 "wikilink")全域の整備を完了している。
+**株式会社JWAY**（ジェイウェイ）は、[第三セクター](../Page/第三セクター.md "wikilink")の[電気通信事業者](../Page/電気通信事業者.md "wikilink")である。主力事業は、[茨城県](../Page/茨城県.md "wikilink")[日立市](../Page/日立市.md "wikilink")をサービスエリアとする有線テレビジョン放送（[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")）である。平成16年5月設立。平成18年3月に[日立市](../Page/日立市.md "wikilink")全域の整備を完了している。
 
 ## 本社所在地
 
-  - 〒317-0073　[茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")[日立市](https://ja.wikipedia.org/wiki/日立市 "wikilink")幸町1丁目19番1号
+  - 〒317-0073　[茨城県](../Page/茨城県.md "wikilink")[日立市](../Page/日立市.md "wikilink")幸町1丁目19番1号
 
 ## サービス内容
 
@@ -16,7 +16,7 @@
   - **ケーブルテレビデラックス**:有線テレビジョン放送（[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")）
       - 地上・BS・CSデジタル放送（CSデジタルは36ch）
   - **ケーブルインターネット**:[インターネット接続サービス](https://ja.wikipedia.org/wiki/インターネットサービスプロバイダ "wikilink")
-      - 上り:5Mbps、下り:30Mbps　※[ベストエフォート](https://ja.wikipedia.org/wiki/ベストエフォート "wikilink")型サービス。
+      - 上り:5Mbps、下り:30Mbps　※[ベストエフォート](../Page/ベストエフォート.md "wikilink")型サービス。
   - **ケーブルIP電話**:[IP電話サービス](https://ja.wikipedia.org/wiki/日本のIP電話 "wikilink")
       - JWAYの加入者同士または提携IP電話の場合、通話料は無料。
   - **ケーブルプラス電話**:[ケーブルプラス電話](https://ja.wikipedia.org/wiki/ケーブルプラス電話 "wikilink")サービス
@@ -27,8 +27,8 @@
 <table>
 <thead>
 <tr class="header">
-<th><p><a href="https://ja.wikipedia.org/wiki/NHK総合テレビジョン" title="wikilink">NHK-G</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/NHK教育テレビジョン" title="wikilink">NHK-E</a></p></th>
+<th><p><a href="../Page/NHK総合テレビジョン.md" title="wikilink">NHK-G</a></p></th>
+<th><p><a href="../Page/NHK教育テレビジョン.md" title="wikilink">NHK-E</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/Nippon_News_Network" title="wikilink">NNN</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/All-nippon_News_Network" title="wikilink">ANN</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/Japan_News_Network" title="wikilink">JNN</a></p></th>
@@ -46,7 +46,7 @@
 <td><p><a href="../Page/TBSテレビ.md" title="wikilink">TBSテレビ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/千葉テレビ放送" title="wikilink">チバテレビ</a><br />
+<td><p><a href="../Page/千葉テレビ放送.md" title="wikilink">チバテレビ</a><br />
 <a href="../Page/とちぎテレビ.md" title="wikilink">とちぎテレビ</a><br />
 <a href="../Page/東京メトロポリタンテレビジョン.md" title="wikilink">TOKYO MX</a><br />
 <a href="https://ja.wikipedia.org/wiki/テレビ埼玉" title="wikilink">テレ玉</a></p></td>
@@ -77,7 +77,7 @@
 <td><p>TV011<br />
 (20ch)</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK総合テレビジョン" title="wikilink">NHK総合</a>・<a href="../Page/NHK水戸放送局.md" title="wikilink">水戸</a></p></td>
+<td><p><a href="../Page/NHK総合テレビジョン.md" title="wikilink">NHK総合</a>・<a href="../Page/NHK水戸放送局.md" title="wikilink">水戸</a></p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
@@ -87,7 +87,7 @@
 <td><p>TV021<br />
 (13ch)</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK教育テレビジョン" title="wikilink">NHKEテレ</a><a href="../Page/NHK放送センター.md" title="wikilink">東京</a></p></td>
+<td><p><a href="../Page/NHK教育テレビジョン.md" title="wikilink">NHKEテレ</a><a href="../Page/NHK放送センター.md" title="wikilink">東京</a></p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
@@ -97,7 +97,7 @@
 <td><p>TV031-1<br />
 (30ch)</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/千葉テレビ放送" title="wikilink">チバテレビ</a></p></td>
+<td><p><a href="../Page/千葉テレビ放送.md" title="wikilink">チバテレビ</a></p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
@@ -187,7 +187,7 @@
 <td><p>TV101<br />
 (21ch)</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ショップチャンネル" title="wikilink">ショップチャンネル</a></p></td>
+<td><p><a href="../Page/ショップチャンネル.md" title="wikilink">ショップチャンネル</a></p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
@@ -197,7 +197,7 @@
 <td><p>TV101<br />
 (21ch)</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHKワールドTV" title="wikilink">NHKワールドTV</a></p></td>
+<td><p><a href="../Page/NHKワールドTV.md" title="wikilink">NHKワールドTV</a></p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
@@ -362,7 +362,7 @@
 <td></td>
 <td></td>
 <td><p>BS222</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ワールド・ハイビジョン・チャンネル" title="wikilink">TwellV</a></p></td>
+<td><p><a href="../Page/ワールド・ハイビジョン・チャンネル.md" title="wikilink">TwellV</a></p></td>
 <td></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
@@ -389,7 +389,7 @@
 <td></td>
 <td></td>
 <td><p>723</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大人の趣味と生活向上◆アクトオンTV" title="wikilink">大人の趣味と生活向上◆アクトオンTV</a></p></td>
+<td><p><a href="../Page/大人の趣味と生活向上◆アクトオンTV.md" title="wikilink">大人の趣味と生活向上◆アクトオンTV</a></p></td>
 <td></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
@@ -398,7 +398,7 @@
 <td></td>
 <td></td>
 <td><p>724</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/囲碁・将棋チャンネル" title="wikilink">囲碁・将棋チャンネル</a></p></td>
+<td><p><a href="../Page/囲碁・将棋チャンネル.md" title="wikilink">囲碁・将棋チャンネル</a></p></td>
 <td></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
@@ -407,7 +407,7 @@
 <td></td>
 <td></td>
 <td><p>726</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ディズニー・チャンネル" title="wikilink">ディズニー・チャンネル</a></p></td>
+<td><p><a href="../Page/ディズニー・チャンネル.md" title="wikilink">ディズニー・チャンネル</a></p></td>
 <td></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
@@ -488,7 +488,7 @@
 <td></td>
 <td></td>
 <td><p>737</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ゴルフネットワーク" title="wikilink">ゴルフネットワーク</a></p></td>
+<td><p><a href="../Page/ゴルフネットワーク.md" title="wikilink">ゴルフネットワーク</a></p></td>
 <td></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
@@ -506,7 +506,7 @@
 <td></td>
 <td></td>
 <td><p>741</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/釣りビジョン" title="wikilink">釣りビジョン</a></p></td>
+<td><p><a href="../Page/釣りビジョン.md" title="wikilink">釣りビジョン</a></p></td>
 <td></td>
 <td></td>
 <td><p>○</p></td>
@@ -524,7 +524,7 @@
 <td></td>
 <td></td>
 <td><p>750</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/チャンネルNECO" title="wikilink">チャンネルNECO</a></p></td>
+<td><p><a href="../Page/チャンネルNECO.md" title="wikilink">チャンネルNECO</a></p></td>
 <td></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
@@ -542,7 +542,7 @@
 <td></td>
 <td></td>
 <td><p>753</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/時代劇専門チャンネル" title="wikilink">時代劇専門チャンネル</a></p></td>
+<td><p><a href="../Page/時代劇専門チャンネル.md" title="wikilink">時代劇専門チャンネル</a></p></td>
 <td></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
@@ -551,7 +551,7 @@
 <td></td>
 <td></td>
 <td><p>754</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FOXチャンネル" title="wikilink">FOX</a></p></td>
+<td><p><a href="../Page/FOXチャンネル.md" title="wikilink">FOX</a></p></td>
 <td></td>
 <td></td>
 <td><p>○</p></td>
@@ -560,7 +560,7 @@
 <td></td>
 <td></td>
 <td><p>755</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スーパー!ドラマTV" title="wikilink">スーパー!ドラマTV</a></p></td>
+<td><p><a href="../Page/スーパー!ドラマTV.md" title="wikilink">スーパー!ドラマTV</a></p></td>
 <td></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
@@ -578,7 +578,7 @@
 <td></td>
 <td></td>
 <td><p>758</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミステリチャンネル" title="wikilink">AXNミステリー</a></p></td>
+<td><p><a href="../Page/ミステリチャンネル.md" title="wikilink">AXNミステリー</a></p></td>
 <td></td>
 <td></td>
 <td><p>○</p></td>
@@ -587,7 +587,7 @@
 <td></td>
 <td></td>
 <td><p>763</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/衛星劇場" title="wikilink">衛星劇場</a></p></td>
+<td><p><a href="../Page/衛星劇場.md" title="wikilink">衛星劇場</a></p></td>
 <td></td>
 <td><p>△</p></td>
 <td><p>△</p></td>
@@ -596,7 +596,7 @@
 <td></td>
 <td></td>
 <td><p>764</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東映チャンネル" title="wikilink">東映チャンネル</a></p></td>
+<td><p><a href="../Page/東映チャンネル.md" title="wikilink">東映チャンネル</a></p></td>
 <td></td>
 <td><p>△</p></td>
 <td><p>△</p></td>
@@ -605,7 +605,7 @@
 <td></td>
 <td></td>
 <td><p>765</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/TBSチャンネル" title="wikilink">TBSチャンネル</a></p></td>
+<td><p><a href="../Page/TBSチャンネル.md" title="wikilink">TBSチャンネル</a></p></td>
 <td></td>
 <td><p>△</p></td>
 <td><p>○</p></td>
@@ -641,7 +641,7 @@
 <td></td>
 <td></td>
 <td><p>770</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スペースシャワーTV" title="wikilink">スペースシャワーTV</a></p></td>
+<td><p><a href="../Page/スペースシャワーTV.md" title="wikilink">スペースシャワーTV</a></p></td>
 <td></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
@@ -650,7 +650,7 @@
 <td></td>
 <td></td>
 <td><p>771</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td></td>
 <td><p>△</p></td>
 <td><p>△</p></td>
@@ -659,7 +659,7 @@
 <td></td>
 <td></td>
 <td><p>772</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/MTVジャパン" title="wikilink">MTV</a></p></td>
+<td><p><a href="../Page/MTVジャパン.md" title="wikilink">MTV</a></p></td>
 <td></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
@@ -668,7 +668,7 @@
 <td></td>
 <td></td>
 <td><p>774</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/歌謡ポップスチャンネル" title="wikilink">歌謡ポップスチャンネル</a></p></td>
+<td><p><a href="../Page/歌謡ポップスチャンネル.md" title="wikilink">歌謡ポップスチャンネル</a></p></td>
 <td></td>
 <td></td>
 <td><p>○</p></td>
@@ -677,7 +677,7 @@
 <td></td>
 <td></td>
 <td><p>780</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カートゥーン_ネットワーク" title="wikilink">カートゥーン ネットワーク</a></p></td>
+<td><p><a href="../Page/カートゥーン_ネットワーク.md" title="wikilink">カートゥーン ネットワーク</a></p></td>
 <td></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
@@ -713,7 +713,7 @@
 <td></td>
 <td></td>
 <td><p>792</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/CNNj" title="wikilink">CNNj</a></p></td>
+<td><p><a href="../Page/CNNj.md" title="wikilink">CNNj</a></p></td>
 <td></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
@@ -740,7 +740,7 @@
 <td></td>
 <td></td>
 <td><p>798</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヒストリーチャンネル" title="wikilink">ヒストリーチャンネル</a></p></td>
+<td><p><a href="../Page/ヒストリーチャンネル.md" title="wikilink">ヒストリーチャンネル</a></p></td>
 <td></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
@@ -776,7 +776,7 @@
 <td></td>
 <td></td>
 <td><p>812</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SPEEDチャンネル" title="wikilink">SPEEDチャンネル</a></p></td>
+<td><p><a href="../Page/SPEEDチャンネル.md" title="wikilink">SPEEDチャンネル</a></p></td>
 <td></td>
 <td><p>△</p></td>
 <td><p>△</p></td>
@@ -796,7 +796,7 @@
 
 | MHz  | 放送局                                                              |
 | ---- | ---------------------------------------------------------------- |
-| 76.2 | [FMぱるるん](https://ja.wikipedia.org/wiki/水戸コミュニティ放送 "wikilink")    |
+| 76.2 | [FMぱるるん](../Page/水戸コミュニティ放送.md "wikilink")                       |
 | 78.0 | [Bay FM](../Page/ベイエフエム.md "wikilink")                           |
 | 79.4 | [NACK5](../Page/エフエムナックファイブ.md "wikilink")                       |
 | 80.0 | [TOKYO FM](../Page/エフエム東京.md "wikilink")                         |
@@ -804,7 +804,7 @@
 | 82.2 | [FMひたち](https://ja.wikipedia.org/wiki/ひたちエフエム "wikilink")        |
 | 83.6 | [InterFM](https://ja.wikipedia.org/wiki/エフエムインターウェーブ "wikilink") |
 | 84.2 | [NHK水戸FM](../Page/NHK水戸放送局.md "wikilink")                        |
-| 85.1 | [FMヨコハマ](https://ja.wikipedia.org/wiki/横浜エフエム放送 "wikilink")      |
+| 85.1 | [FMヨコハマ](../Page/横浜エフエム放送.md "wikilink")                         |
 
 ## 脚注
 
@@ -812,8 +812,8 @@
 
   - [区域外再放送](../Page/区域外再放送.md "wikilink")
   - [ケーブルテレビ局の一覧](../Page/ケーブルテレビ局の一覧.md "wikilink")
-  - [JWAYコミュニティチャンネル](https://ja.wikipedia.org/wiki/JWAYコミュニティチャンネル "wikilink")
-  - [セットトップボックス](https://ja.wikipedia.org/wiki/セットトップボックス "wikilink")
+  - [JWAYコミュニティチャンネル](../Page/JWAYコミュニティチャンネル.md "wikilink")
+  - [セットトップボックス](../Page/セットトップボックス.md "wikilink")
   - [ケーブルテレビ向けCS放送](../Page/ケーブルテレビ向けCS放送.md "wikilink")
   - [デジタルチューナー](https://ja.wikipedia.org/wiki/デジタルチューナー "wikilink")
   - [ホームターミナル](https://ja.wikipedia.org/wiki/ホームターミナル "wikilink")

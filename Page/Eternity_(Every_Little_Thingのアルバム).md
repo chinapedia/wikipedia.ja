@@ -20,7 +20,7 @@
 2.  **Reason**
     （作詞：Every Little Thing / 作曲：五十嵐充 / 編曲：Every Little Thing&[石塚知生](../Page/石塚知生.md "wikilink")）
 3.  **[switch](https://ja.wikipedia.org/wiki/sure_\(Every_Little_Thingの曲\) "wikilink") (Album Mix)**
-    （作詞：[持田香織](https://ja.wikipedia.org/wiki/持田香織 "wikilink") / 作曲・編曲：[伊藤一朗](https://ja.wikipedia.org/wiki/伊藤一朗 "wikilink")）
+    （作詞：[持田香織](https://ja.wikipedia.org/wiki/持田香織 "wikilink") / 作曲・編曲：[伊藤一朗](../Page/伊藤一朗.md "wikilink")）
       -
         14thシングルのカップリングのアレンジ。
 4.  **Just be you**
@@ -37,7 +37,7 @@
 7.  **[Rescue me](https://ja.wikipedia.org/wiki/Rescue_me/Smile_Again "wikilink")**
     （作詞・作曲・編曲：五十嵐充）
       -
-        [日本ゲートウェイ](../Page/日本ゲートウェイ.md "wikilink")ノートパソコン「[Gateway](https://ja.wikipedia.org/wiki/ゲートウェイ_\(PCメーカー\) "wikilink") Solo」CMソング
+        [日本ゲートウェイ](../Page/日本ゲートウェイ.md "wikilink")ノートパソコン「[Gateway](../Page/ゲートウェイ_\(PCメーカー\).md "wikilink") Solo」CMソング
         後に15thシングルとしてアレンジされ、シングルカット。
 8.  **[Smile Again](https://ja.wikipedia.org/wiki/Rescue_me/Smile_Again "wikilink")**
     （作詞：Every Little Thing / 作曲・編曲：五十嵐充）

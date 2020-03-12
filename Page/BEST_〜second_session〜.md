@@ -1,19 +1,19 @@
 > この記事は[BEST second session](https://ja.wikipedia.org/wiki/BEST_second_session)から翻訳されています。
 
 
-『**BEST 〜second session〜**』（ベスト セカンドセッション）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月8日](../Page/3月8日.md "wikilink")に発売された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")の2枚目の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。発売元は[rhythm zone](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。
+『**BEST 〜second session〜**』（ベスト セカンドセッション）は、[2006年](../Page/2006年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")に発売された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")の2枚目の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。発売元は[rhythm zone](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 解説
 
-前作『[BEST 〜first things〜](https://ja.wikipedia.org/wiki/BEST_〜first_things〜 "wikilink")』からわずか6ヶ月での発売となった。
+前作『[BEST 〜first things〜](../Page/BEST_〜first_things〜.md "wikilink")』からわずか6ヶ月での発売となった。
 
-倖田が[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")から[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")にかけて行った12週連続シングルリリースのA面曲12曲にカヴァー曲を含む新曲3曲をアルバム初収録。[12週連続シングルリリース](https://ja.wikipedia.org/wiki/12週連続シングルリリース "wikilink")においてのB面楽曲である「Sweet Kiss」や、両A面であった「Boys♥Girls」、幻の0週目シングルとされる1曲目の「Introduction」のフルバージョンで配信限定楽曲「Get it on」は未収録となった。
+倖田が[2005年](../Page/2005年.md "wikilink")から[2006年](../Page/2006年.md "wikilink")にかけて行った12週連続シングルリリースのA面曲12曲にカヴァー曲を含む新曲3曲をアルバム初収録。[12週連続シングルリリース](../Page/12週連続シングルリリース.md "wikilink")においてのB面楽曲である「Sweet Kiss」や、両A面であった「Boys♥Girls」、幻の0週目シングルとされる1曲目の「Introduction」のフルバージョンで配信限定楽曲「Get it on」は未収録となった。
 
 ## エピソード
 
 倖田本人は、「自分の知らない間に勝手に発売が決まっていた。本当はこんなものは発売したくなかった。せっかくシングルを買ってくれたファンの皆さんには申し訳ないことをした」と、大阪のローカル番組『[ちちんぷいぷい](https://ja.wikipedia.org/wiki/ちちんぷいぷい_\(テレビ番組\) "wikilink")』などで発言した。
 
-[音楽評論家](https://ja.wikipedia.org/wiki/音楽評論家 "wikilink")の[市川哲史](https://ja.wikipedia.org/wiki/市川哲史 "wikilink")は、[12週連続シングルリリース](https://ja.wikipedia.org/wiki/12週連続シングルリリース "wikilink")について「倖田來未が昨年（引用者注：2005年）の[レコード大賞を獲ったりベスト盤が](https://ja.wikipedia.org/wiki/日本レコード大賞 "wikilink")150万枚以上売れたりと、まさに『流行音楽』最新版のはずなのにもかかわらず、あの時点で実は10万以上売れたヒット曲が1、2曲しかないという、極めて特殊なケースなんですよね。でもって2006年は12週連続シングル・リリースと、代表曲を生む気がない戦略でしょ。まさに日本初の『[時価総額](../Page/時価総額.md "wikilink")』アーティストというか、それこそ音楽が聴こえてこない『流行音楽』こそ、今の時代を象徴してる気がしますね」\[1\]と評している。
+[音楽評論家](../Page/音楽評論家.md "wikilink")の[市川哲史](../Page/市川哲史.md "wikilink")は、[12週連続シングルリリース](../Page/12週連続シングルリリース.md "wikilink")について「倖田來未が昨年（引用者注：2005年）の[レコード大賞を獲ったりベスト盤が](https://ja.wikipedia.org/wiki/日本レコード大賞 "wikilink")150万枚以上売れたりと、まさに『流行音楽』最新版のはずなのにもかかわらず、あの時点で実は10万以上売れたヒット曲が1、2曲しかないという、極めて特殊なケースなんですよね。でもって2006年は12週連続シングル・リリースと、代表曲を生む気がない戦略でしょ。まさに日本初の『[時価総額](../Page/時価総額.md "wikilink")』アーティストというか、それこそ音楽が聴こえてこない『流行音楽』こそ、今の時代を象徴してる気がしますね」\[1\]と評している。
 
 ## 発売形態
 
@@ -44,7 +44,7 @@
 4.  **[Candy feat.Mr. Blistah](https://ja.wikipedia.org/wiki/Candy_feat.Mr._Blistah "wikilink")**
       -
         25thシングル。本作リリース時、『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』ではこの曲がテレビで初披露された。[Mr.Blistahは](../Page/クレンチ&ブリスタ.md "wikilink")2ndアルバム『[grow into one](https://ja.wikipedia.org/wiki/grow_into_one "wikilink")』収録の楽曲「Teaser」にも参加している。
-5.  **[Shake It Up](https://ja.wikipedia.org/wiki/Shake_It_Up_\(倖田來未の曲\) "wikilink")**
+5.  **[Shake It Up](../Page/Shake_It_Up_\(倖田來未の曲\).md "wikilink")**
       -
         22ndシングル。[日本テレビ系](../Page/日本テレビ系列.md "wikilink")「[THE・サンデー](https://ja.wikipedia.org/wiki/THE・サンデー "wikilink")」EDテーマ。
 6.  **[feel](https://ja.wikipedia.org/wiki/feel_\(倖田來未の曲\) "wikilink")**
@@ -55,20 +55,20 @@
         29thシングル。
 8.  **Love goes like…**
       -
-        本作の唯一のオリジナル楽曲。後にLIVE DVD『KODA KUMI LIVE TOUR 2006-2007 〜second session〜』に[PVが作られ収録された](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。
-9.  **[No Regret](https://ja.wikipedia.org/wiki/No_Regret "wikilink")**
+        本作の唯一のオリジナル楽曲。後にLIVE DVD『KODA KUMI LIVE TOUR 2006-2007 〜second session〜』に[PVが作られ収録された](../Page/ミュージック・ビデオ.md "wikilink")。
+9.  **[No Regret](../Page/No_Regret.md "wikilink")**
       -
         26thシングル。
-10. **[Birthday Eve](https://ja.wikipedia.org/wiki/Birthday_Eve "wikilink")**
+10. **[Birthday Eve](../Page/Birthday_Eve.md "wikilink")**
       -
         20thシングル。[NTTDoCoMo東海CMソング](../Page/エヌ・ティ・ティ・ドコモ東海.md "wikilink")。
-11. **[Lies](https://ja.wikipedia.org/wiki/Lies "wikilink")**
+11. **[Lies](../Page/Lies.md "wikilink")**
       -
         23rdシングル。[テレビ朝日](../Page/テレビ朝日.md "wikilink")系「アドレな\!ガレッジ」EDテーマ、music.jp TVCMソング。
-12. **[今すぐ欲しい](https://ja.wikipedia.org/wiki/今すぐ欲しい "wikilink")**
+12. **[今すぐ欲しい](../Page/今すぐ欲しい.md "wikilink")**
       -
         27thシングル。
-13. **[KAMEN feat.石井竜也](https://ja.wikipedia.org/wiki/KAMEN_feat.石井竜也 "wikilink")**
+13. **[KAMEN feat.石井竜也](../Page/KAMEN_feat.石井竜也.md "wikilink")**
       -
         28thシングル。
 14. **[Someday](https://ja.wikipedia.org/wiki/Someday/Boys_Girls "wikilink")**
@@ -76,7 +76,7 @@
         30thシングル。
 15. **A Whole New World** KODA KUMI feat. [Peabo Bryson](../Page/ピーボ・ブライソン.md "wikilink")(Bonus track)
       -
-        ディズニー映画『[アラジン](https://ja.wikipedia.org/wiki/アラジン_\(1992年の映画\) "wikilink")』で使用された有名楽曲のカヴァー。ライブ音源をスタジオ風に加工している。
+        ディズニー映画『[アラジン](../Page/アラジン_\(1992年の映画\).md "wikilink")』で使用された有名楽曲のカヴァー。ライブ音源をスタジオ風に加工している。
 
 ### DISC2 DVD -MUSIC VIDEO
 
@@ -158,9 +158,9 @@
 
 ## 関連項目
 
-  - [SOULHEAD](https://ja.wikipedia.org/wiki/SOULHEAD "wikilink")
+  - [SOULHEAD](../Page/SOULHEAD.md "wikilink")
   - [石井竜也](https://ja.wikipedia.org/wiki/石井竜也 "wikilink")
-  - [12週連続シングルリリース](https://ja.wikipedia.org/wiki/12週連続シングルリリース "wikilink")
+  - [12週連続シングルリリース](../Page/12週連続シングルリリース.md "wikilink")
 
 [Category:倖田來未のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:倖田來未のベスト・アルバム "wikilink") [Category:2006年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2006年のベスト・アルバム "wikilink") [Category:オリコン月間アルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間アルバムチャート1位獲得作品 "wikilink") [Category:2006年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2006年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink")
 

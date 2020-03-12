@@ -1,7 +1,7 @@
 > この記事は[Memories Off  again](https://ja.wikipedia.org/wiki/Memories_Off__again)から翻訳されています。
 
 
-『**Memories Off 〜それから again〜**』（メモリーズオフ 〜それから アゲイン〜）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月23日](../Page/3月23日.md "wikilink")に株式会社[KIDより](../Page/KID_\(ゲームブランド\).md "wikilink")[PlayStation 2で発売された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")。（[CEROレーティング](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")12才以上対象）
+『**Memories Off 〜それから again〜**』（メモリーズオフ 〜それから アゲイン〜）は、[2006年](../Page/2006年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")に株式会社[KIDより](../Page/KID_\(ゲームブランド\).md "wikilink")[PlayStation 2で発売された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")。（[CEROレーティング](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")12才以上対象）
 
 [Memories Off 〜それから〜の続編である](../Page/Memories_Off_〜それから〜.md "wikilink")。
 
@@ -11,7 +11,7 @@
 
 コンセプトは「不穏な出来事などなく、とにかくいちゃいちゃする」。いのり編では、前作ではあまり見られなかった明るい彼女を見ることができ、果凛編では変わらない4人の関係が描かれている。縁・葉夜の後日談は挿入されていないが、これは本作が当初イベント販売用の低予算企画だったことの名残である\[1\]。
 
-Memories offシリーズで唯一[稲穂信が登場しない作品である](https://ja.wikipedia.org/wiki/Memories_Offシリーズの登場人物#Memories_Off初出 "wikilink")。（[ネパール](../Page/ネパール.md "wikilink")に旅行中のため） 今作から、鷺沢縁の声優が[石原絵理子](https://ja.wikipedia.org/wiki/石原絵理子 "wikilink")から[成田紗矢香](../Page/成田紗矢香.md "wikilink")に変更されている。
+Memories offシリーズで唯一[稲穂信が登場しない作品である](https://ja.wikipedia.org/wiki/Memories_Offシリーズの登場人物#Memories_Off初出 "wikilink")。（[ネパール](../Page/ネパール.md "wikilink")に旅行中のため） 今作から、鷺沢縁の声優が[石原絵理子](../Page/石原絵理子.md "wikilink")から[成田紗矢香](../Page/成田紗矢香.md "wikilink")に変更されている。
 
 ## 機能
 
@@ -41,11 +41,11 @@ Memories offシリーズで唯一[稲穂信が登場しない作品である](ht
     [8月21日](../Page/8月21日.md "wikilink")生まれ。血液型:Ｏ型 身長:160cm 体重:42kg
     趣味はミュージカル鑑賞、ピアノ、料理など。なぞなぞを出すのが好き。過去のわだかまりを超え、一途に一蹴を愛する。
   - 藤原 雅（ふじわら みやび）
-    声 - [かかずゆみ](https://ja.wikipedia.org/wiki/かかずゆみ "wikilink")
+    声 - [かかずゆみ](../Page/かかずゆみ.md "wikilink")
     [4月6日](../Page/4月6日.md "wikilink")生まれ。血液型:ＡＢ 身長:163cm 体重:46kg
     呉服屋の娘、クールでシニカルな性格。和菓子など甘いものが好き。まだ照れはあるものの、一蹴を本当の恋人に選んだ
   - 花祭 果凛（はなまつり かりん）
-    声 - [榎本温子](https://ja.wikipedia.org/wiki/榎本温子 "wikilink")
+    声 - [榎本温子](../Page/榎本温子.md "wikilink")
     [7月13日](../Page/7月13日.md "wikilink")生まれ。血液型:ＡＢ 身長:168cm 体重:48kg
     愛称、りかりん。超が付きそうなお嬢様。青峯学院大学へ通う学生でありながら、モデルの仕事もしている。正義感が強く、白黒はっきり付けたがる性格。面倒見もよく、礼儀もマナーもわきまえている。今ある思いに正直に、一蹴に恋をしている。
 
@@ -62,10 +62,10 @@ Memories offシリーズで唯一[稲穂信が登場しない作品である](ht
     愛称、のんちゃん。空想壁があって、ちょっと普通よりずれている女の子。
     元は一蹴と共にならずやでバイトをしていたが、現在は果凛の家でメイドを務める。[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink")生まれ。
   - 黒須 カナタ（くろす かなた）
-    声 - [村田あゆみ](https://ja.wikipedia.org/wiki/村田あゆみ "wikilink")
+    声 - [村田あゆみ](../Page/村田あゆみ.md "wikilink")
     [10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")生まれ。浜咲学園の生徒だったが、ある日突然退学し、モデルとなって千羽谷に戻ってきた。
   - 鷺沢 衛（さぎさわ まもる）
-    声 - [間島淳司](https://ja.wikipedia.org/wiki/間島淳司 "wikilink")
+    声 - [間島淳司](../Page/間島淳司.md "wikilink")
     一蹴の義父。ビール会社勤務。
   - 鷺沢 朋美（さぎさわ ともみ）
     声 - [宮川美保](../Page/宮川美保.md "wikilink")
@@ -77,7 +77,7 @@ Memories offシリーズで唯一[稲穂信が登場しない作品である](ht
     声 - 間島淳司
     果凛の幼馴染。
   - 柏崎 正巳（かしわざき まさみ）
-    声 - [西垣俊作](https://ja.wikipedia.org/wiki/西垣俊作 "wikilink")
+    声 - [西垣俊作](../Page/西垣俊作.md "wikilink")
     雅の伯父。
   - 柏崎 とおこ（かしわざき とおこ）
     声 - [上原さやか](https://ja.wikipedia.org/wiki/上原さやか "wikilink")
@@ -101,7 +101,7 @@ Memories offシリーズで唯一[稲穂信が登場しない作品である](ht
   - サブキャラデザイン : [伊藤まさひさ](https://ja.wikipedia.org/wiki/伊藤まさひさ "wikilink")
   - 音楽 : [阿保剛](../Page/阿保剛.md "wikilink")
       - OP : **Drawing Again**
-          - 作詞、作曲 : [志倉千代丸](https://ja.wikipedia.org/wiki/志倉千代丸 "wikilink")、編曲 : [磯江俊道](https://ja.wikipedia.org/wiki/磯江俊道 "wikilink") / 歌 : [村田あゆみ](https://ja.wikipedia.org/wiki/村田あゆみ "wikilink")
+          - 作詞、作曲 : [志倉千代丸](../Page/志倉千代丸.md "wikilink")、編曲 : [磯江俊道](../Page/磯江俊道.md "wikilink") / 歌 : [村田あゆみ](../Page/村田あゆみ.md "wikilink")
       - ED : **僕のwish**
           - 作詞、作曲 : 志倉千代丸、編曲 : 磯江俊道 / 歌 : 村田あゆみ
 
@@ -112,13 +112,13 @@ Memories offシリーズで唯一[稲穂信が登場しない作品である](ht
   - Drawing Again / 僕のwish (2006年4月21日)
   - Memories Off 〜それから again〜 Audio Collection (2006年4月21日)
 
-総て[5pb.](https://ja.wikipedia.org/wiki/5pb. "wikilink")より発売、[ジェネオンエンタテインメント](https://ja.wikipedia.org/wiki/ジェネオンエンタテインメント "wikilink")より販売。
+総て[5pb.](../Page/5pb..md "wikilink")より発売、[ジェネオンエンタテインメント](https://ja.wikipedia.org/wiki/ジェネオンエンタテインメント "wikilink")より販売。
 
 ### 小説
 
   - メモリーズオフ 〜それから again〜 ISBN 4-7577-2803-4
 
-[日暮茶坊](https://ja.wikipedia.org/wiki/日暮茶坊 "wikilink")作、[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")より発売
+[日暮茶坊](../Page/日暮茶坊.md "wikilink")作、[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")より発売
 
 ## 脚注
 

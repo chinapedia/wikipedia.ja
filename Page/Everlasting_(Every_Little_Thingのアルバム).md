@@ -9,7 +9,7 @@
   - オリコン週間チャートでは1997年4月21日と28日（週間売上23万2,650枚）の2週に渡り1位だった。
   - 累計出荷枚数は200万枚を超える\[1\]。
   - 初回限定盤は三方背BOX仕様、カレンダー封入。
-  - [持田香織](https://ja.wikipedia.org/wiki/持田香織 "wikilink")作詞の楽曲と[伊藤一朗](https://ja.wikipedia.org/wiki/伊藤一朗 "wikilink")作曲の[インストが](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")2曲ずつ収録。[五十嵐充](../Page/五十嵐充.md "wikilink")以外のメンバーが作詞・作曲を担当するのはこれが初めて。
+  - [持田香織](https://ja.wikipedia.org/wiki/持田香織 "wikilink")作詞の楽曲と[伊藤一朗](../Page/伊藤一朗.md "wikilink")作曲の[インストが](../Page/器楽曲.md "wikilink")2曲ずつ収録。[五十嵐充](../Page/五十嵐充.md "wikilink")以外のメンバーが作詞・作曲を担当するのはこれが初めて。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月18日](../Page/9月18日.md "wikilink")には、本作収録曲（インストを除く）をリミックスした、初のリミックスアルバム『[THE REMIXES](https://ja.wikipedia.org/wiki/THE_REMIXES "wikilink")』が発売された。
 
 ## 収録曲
@@ -20,9 +20,9 @@
     （作詞・作曲：五十嵐充）
       -
         2ndシングル。
-        [TDK](https://ja.wikipedia.org/wiki/TDK "wikilink")「MD」CMソング
+        [TDK](../Page/TDK.md "wikilink")「MD」CMソング
         タイアップのCMにはEvery Little Thingの本人たちが出演した。
-2.  **[Feel My Heart](https://ja.wikipedia.org/wiki/Feel_My_Heart "wikilink") (Album Mix)**
+2.  **[Feel My Heart](../Page/Feel_My_Heart.md "wikilink") (Album Mix)**
     （作詞・作曲：五十嵐充）
       -
         1stシングルのアレンジ。
@@ -33,7 +33,7 @@
     （作詞・作曲：五十嵐充）
       -
         2ndシングルのカップリングのアレンジであり、ボーカルが新録音されている。
-        イントロは[TOTOの大ヒット曲](https://ja.wikipedia.org/wiki/TOTO_\(バンド\) "wikilink")「アフリカ」を引用している。
+        イントロは[TOTOの大ヒット曲](../Page/TOTO_\(バンド\).md "wikilink")「アフリカ」を引用している。
 5.  **二人で時代を変えてみたい**
     （作詞：永岡昌憲 / 作曲：五十嵐充）
       -
@@ -41,7 +41,7 @@
 6.  **たとえ遠く離れてても･･･**
     （作詞・作曲：五十嵐充）
 7.  **micro stress**
-    （作曲：[伊藤一朗](https://ja.wikipedia.org/wiki/伊藤一朗 "wikilink")）
+    （作曲：[伊藤一朗](../Page/伊藤一朗.md "wikilink")）
       -
         インスト。曲の時間はわずか19秒とELTの曲では一番短い。
 8.  **[Dear My Friend](../Page/Dear_My_Friend_\(Every_Little_Thingの曲\).md "wikilink") (Album Mix)**
@@ -69,7 +69,7 @@
 
 ## 関連項目
 
-  - [1997年の音楽](https://ja.wikipedia.org/wiki/1997年の音楽 "wikilink")
+  - [1997年の音楽](../Page/1997年の音楽.md "wikilink")
 
 [Category:Every_Little_Thingのアルバム](https://ja.wikipedia.org/wiki/Category:Every_Little_Thingのアルバム "wikilink") [Category:1997年のアルバム](https://ja.wikipedia.org/wiki/Category:1997年のアルバム "wikilink") [Category:1997年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1997年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink") [Category:デビュー・アルバム](https://ja.wikipedia.org/wiki/Category:デビュー・アルバム "wikilink")
 

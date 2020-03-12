@@ -31,7 +31,7 @@ DX2の基本技術は486DXと同一だが、これに新たにダブルクロッ
 
 1993年には次世代の[Pentiumが発表されたが](../Page/Intel_Pentium_\(1993年\).md "wikilink")、DX2やDX4は従来の安価で普及済の486系のマザーボードも使用でき、モデルによっては当初のPentiumを上回る性能を実現したため、当時の[VESA ローカルバス対応の](../Page/VESA_ローカルバス.md "wikilink")[ビデオカード](../Page/ビデオカード.md "wikilink")と同時に広く普及した。特に日本ではPC/AT互換機の普及時期とも重なった。
 
-またインテルは[Intel 80386からは](../Page/Intel_80386.md "wikilink")[セカンドソース](https://ja.wikipedia.org/wiki/セカンドソース "wikilink")を原則廃止したが、資本参加を受けていた[IBM](../Page/IBM.md "wikilink")には例外的に[Intel486](../Page/Intel486.md "wikilink")までの製造ライセンス提供を継続した。IBMは当時は[PowerPC](../Page/PowerPC.md "wikilink")推進もありPentium採用は遅らせ、x86市場ではIBM486DLC2やIBM486DLC3などの通称[Blue Lightningシリーズも投入した](https://ja.wikipedia.org/wiki/IBM_386SLC#Blue_Lightning "wikilink")。
+またインテルは[Intel 80386からは](../Page/Intel_80386.md "wikilink")[セカンドソース](../Page/セカンドソース.md "wikilink")を原則廃止したが、資本参加を受けていた[IBM](../Page/IBM.md "wikilink")には例外的に[Intel486](../Page/Intel486.md "wikilink")までの製造ライセンス提供を継続した。IBMは当時は[PowerPC](../Page/PowerPC.md "wikilink")推進もありPentium採用は遅らせ、x86市場ではIBM486DLC2やIBM486DLC3などの通称[Blue Lightningシリーズも投入した](https://ja.wikipedia.org/wiki/IBM_386SLC#Blue_Lightning "wikilink")。
 
 また[AMDは](https://ja.wikipedia.org/wiki/アドバンスト・マイクロ・デバイセズ "wikilink")40MHzのCPUバスで80MHzで駆動するDX2チップを開発した。
 

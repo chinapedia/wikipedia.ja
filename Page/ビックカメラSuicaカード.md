@@ -8,7 +8,7 @@
 
 </div>
 
-**ビックカメラSuicaカード**（ビックカメラスイカカード）は、株式会社ビューカード（JR東日本100%子会社）が株式会社[ビックカメラ](https://ja.wikipedia.org/wiki/ビックカメラ "wikilink")との提携により発行する[ビューカード](https://ja.wikipedia.org/wiki/ビューカード "wikilink")、[Suica](../Page/Suica.md "wikilink")\[1\]、ビックポイントカードを一枚にまとめた多機能カード（[クレジットカード](../Page/クレジットカード.md "wikilink")、[ストアードフェア](https://ja.wikipedia.org/wiki/ストアードフェア "wikilink")カード、[電子マネー](../Page/電子マネー.md "wikilink")カード、[ポイントカード](https://ja.wikipedia.org/wiki/ポイントカード "wikilink")）である。
+**ビックカメラSuicaカード**（ビックカメラスイカカード）は、株式会社ビューカード（JR東日本100%子会社）が株式会社[ビックカメラ](../Page/ビックカメラ.md "wikilink")との提携により発行する[ビューカード](../Page/ビューカード.md "wikilink")、[Suica](../Page/Suica.md "wikilink")\[1\]、ビックポイントカードを一枚にまとめた多機能カード（[クレジットカード](../Page/クレジットカード.md "wikilink")、[ストアードフェア](https://ja.wikipedia.org/wiki/ストアードフェア "wikilink")カード、[電子マネー](../Page/電子マネー.md "wikilink")カード、[ポイントカード](https://ja.wikipedia.org/wiki/ポイントカード "wikilink")）である。
 
 3種類のポイント（[JRE POINT](https://ja.wikipedia.org/wiki/JRE_POINT "wikilink")、ビックポイント、バスポイント）を貯めることができ、バスポイントを除く各ポイント間の交換およびバスポイントを除く各ポイントから[Suica](../Page/Suica.md "wikilink")のSF（ストアードフェア）への交換を行うことができる。なおビューサンクスポイントについては2018年6月28日にJRE POINTに統合された\[2\]。
 
@@ -108,7 +108,7 @@
 ### クレジットカードとして使用した場合
 
 ビックカメラSuicaカードをクレジットカードとして使用した場合、次表のように、加盟店・商品・支払方法によってビックポイントとJRE POINTのいずれかまたは両方が付与される（2018年6月28日現在）。さらに、WEB明細ポイントサービスを申し込んでいる場合、クレジットカードとしての使用があった月の翌々月16日に50ポイントのJRE POINTが付与される。なお、JCBのOki Dokiポイントを貯めることはできない。
-2012年10月1日より、ビューカードでの[楽天Edy](../Page/楽天Edy.md "wikilink")チャージ、[nanaco](https://ja.wikipedia.org/wiki/nanaco "wikilink")チャージ、[SMART ICOCAクイックチャージ](https://ja.wikipedia.org/wiki/SMART_ICOCA "wikilink")、[SAPICA](https://ja.wikipedia.org/wiki/SAPICA "wikilink")オートチャージ利用分は、ポイント付与の対象外となった。\[5\]
+2012年10月1日より、ビューカードでの[楽天Edy](../Page/楽天Edy.md "wikilink")チャージ、[nanaco](https://ja.wikipedia.org/wiki/nanaco "wikilink")チャージ、[SMART ICOCAクイックチャージ](../Page/SMART_ICOCA.md "wikilink")、[SAPICA](https://ja.wikipedia.org/wiki/SAPICA "wikilink")オートチャージ利用分は、ポイント付与の対象外となった。\[5\]
 
 <table>
 <thead>
@@ -231,7 +231,7 @@ SuicaのSF（ストアードフェア）
 
 ### ビックカメラJ-WESTカードとの比較
 
-ビックカメラでは[西日本旅客鉄道](https://ja.wikipedia.org/wiki/西日本旅客鉄道 "wikilink")と提携して、[ビックカメラJ-WESTカードを発行している](../Page/J-WESTカード.md "wikilink")。
+ビックカメラでは[西日本旅客鉄道](../Page/西日本旅客鉄道.md "wikilink")と提携して、[ビックカメラJ-WESTカードを発行している](../Page/J-WESTカード.md "wikilink")。
 J-WESTカードの特典に加え、ビックカメラ各店でのクレジットカードの利用金額に対して、10％分のビックポイント、および0.5％分のJ-WESTポイントが付与される。またビックポイント1500点を、J-WESTポイント1000点分(SMART ICOCAチャージ1000円相当)に交換することも可能である。
 
 2012年10月からは、ビックカメラSuicaカードでのSMART ICOCAクイックチャージはポイント付与対象外になるが、本カードでのクイックチャージは引き続きポイント付与対象になる。
@@ -246,9 +246,9 @@ J-WESTポイントはSMART ICOCAチャージだけでなく、他の景品への
 また、JMB WAONカード、イオンJMBカードを保有しているJMB会員の場合は、JAL＆BICジョイントサービスの申し込みをJALホームページ・ビックカメラ店頭で行うことで同サービスを受けられるようになる。
 
 JAL＆BICジョイントサービスへ登録することで、ビックカメラのポイントとJALのマイルの相互交換や、ビックカメラでショッピングをした際にはビックポイントに代えてJALのマイルの加算が受けられる。
-BIC CAMERA JMB WAONカードにはビックカメラSuicaカードと違って、クレジットカードの機能は付加されない。(ただし、[三菱UFJニコス](https://ja.wikipedia.org/wiki/三菱UFJニコス "wikilink")・[ジェーシービー](../Page/ジェーシービー.md "wikilink")が発行するJALカードからのクレジットチャージには対応している)
+BIC CAMERA JMB WAONカードにはビックカメラSuicaカードと違って、クレジットカードの機能は付加されない。(ただし、[三菱UFJニコス](../Page/三菱UFJニコス.md "wikilink")・[ジェーシービー](../Page/ジェーシービー.md "wikilink")が発行するJALカードからのクレジットチャージには対応している)
 
-なお、JAL＆BICジョイントサービスに登録している場合は、[JALカード](https://ja.wikipedia.org/wiki/JALカード "wikilink")、[JAL ICサービス付きの他のJMBカード](../Page/JAL_ICサービス.md "wikilink")([JMBローソンPontaカード](https://ja.wikipedia.org/wiki/Ponta "wikilink")、[JTB](../Page/JTB.md "wikilink")旅カードJMB、[TOP\&ClubQ JMBカード](../Page/東急カード.md "wikilink")、[JMB KIPSカード等](../Page/JMB_KIPSカード.md "wikilink"))を提示してもビックポイントの加算（もしくはビックカメラショッピングマイルの加算）が可能である。ただしJALカードをクレジットカードとして使用した場合は、一般のクレジットカードと同率のポイント還元（またはJALマイレージ付与）になる。
+なお、JAL＆BICジョイントサービスに登録している場合は、[JALカード](../Page/JALカード.md "wikilink")、[JAL ICサービス付きの他のJMBカード](../Page/JAL_ICサービス.md "wikilink")([JMBローソンPontaカード](https://ja.wikipedia.org/wiki/Ponta "wikilink")、[JTB](../Page/JTB.md "wikilink")旅カードJMB、[TOP\&ClubQ JMBカード](../Page/東急カード.md "wikilink")、[JMB KIPSカード等](../Page/JMB_KIPSカード.md "wikilink"))を提示してもビックポイントの加算（もしくはビックカメラショッピングマイルの加算）が可能である。ただしJALカードをクレジットカードとして使用した場合は、一般のクレジットカードと同率のポイント還元（またはJALマイレージ付与）になる。
 
 マイル付与を希望した場合においても、ビックカメラSuicaカードでのクレジット決済・Suica決済をすることも可能である。その場合は現金払いと同率でJALのマイルが付与される。
 
@@ -265,7 +265,7 @@ JALカードSuicaを保有の場合は、JAL＆BICジョイントサービスに
 ## 関連項目
 
   - [VIEW Suicaカード](../Page/VIEW_Suicaカード.md "wikilink")
-  - [ビューカード](https://ja.wikipedia.org/wiki/ビューカード "wikilink")
+  - [ビューカード](../Page/ビューカード.md "wikilink")
 
 ## 外部リンク
 
@@ -280,4 +280,4 @@ JALカードSuicaを保有の場合は、JAL＆BICジョイントサービスに
 4.  JRE POINTカード機能のついたカードに限る
 5.  [一部電子マネーへのチャージご利用分に対するポイントサービス終了のお知らせ](http://www.jreast.co.jp/card/caution/emoney.html)
 6.  当カードに対してではなく、ビックカメラ.com会員アカウントに対して付与される。ただし、手続きにより当カードのビックポイントとの共通利用が可能である。
-7.  ビックカメラSuicaカードをSuicaとして使用する場合を含む。詳細は[ビックカメラ](https://ja.wikipedia.org/wiki/ビックカメラ "wikilink")の項目を参照のこと。
+7.  ビックカメラSuicaカードをSuicaとして使用する場合を含む。詳細は[ビックカメラ](../Page/ビックカメラ.md "wikilink")の項目を参照のこと。

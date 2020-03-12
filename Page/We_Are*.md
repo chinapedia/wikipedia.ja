@@ -1,13 +1,13 @@
 > この記事は[We Are\*](https://ja.wikipedia.org/wiki/We_Are\*)から翻訳されています。
 
 
-『**We Are\***』（ウィ アー）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月27日](../Page/7月27日.md "wikilink")（[木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink")）に[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")[ブランド](../Page/ブランド.md "wikilink")・[KIDより発売された](../Page/KID_\(ゲームブランド\).md "wikilink")[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")。タイトルロゴの下部には"We Are Asterisk."と書かれているが実際には記号\*（[アスタリスク](https://ja.wikipedia.org/wiki/アスタリスク "wikilink")）は発音しない。[メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")刊の[月刊](https://ja.wikipedia.org/wiki/月刊 "wikilink")[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")「[月刊電撃コミックガオ\!](https://ja.wikipedia.org/wiki/月刊電撃コミックガオ! "wikilink")」にて[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")版『**We Are -Cruel Angel's-**』を連載。
+『**We Are\***』（ウィ アー）は、[2006年](../Page/2006年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink")（[木曜日](../Page/木曜日.md "wikilink")）に[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")[ブランド](../Page/ブランド.md "wikilink")・[KIDより発売された](../Page/KID_\(ゲームブランド\).md "wikilink")[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")。タイトルロゴの下部には"We Are Asterisk."と書かれているが実際には記号\*（[アスタリスク](../Page/アスタリスク.md "wikilink")）は発音しない。[メディアワークス](../Page/メディアワークス.md "wikilink")刊の[月刊](https://ja.wikipedia.org/wiki/月刊 "wikilink")[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")「[月刊電撃コミックガオ\!](../Page/月刊電撃コミックガオ!.md "wikilink")」にて[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")版『**We Are -Cruel Angel's-**』を連載。
 
 ESP（[超能力](../Page/超能力.md "wikilink")）を持った人間たちが誕生し始めた近未来世界における、戦時下の[東京](../Page/東京.md "wikilink")を舞台とした[SF系](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")。戦争の悲惨さや反戦メッセージではなく、戦時下に生きる人々の日常を描いた作品である。この独特の環境は魅力的ではあるが、超能力の設定は突き詰めて語られておらず、あまり有効に活用されていない\[1\]。
 
 ## 世界観
 
-作品の舞台となるのは[西暦](../Page/西暦.md "wikilink")[2026年](../Page/2026年.md "wikilink")の日本。この世界では[2009年](../Page/2009年.md "wikilink")に[火星](../Page/火星.md "wikilink")が[小惑星](../Page/小惑星.md "wikilink")との衝突で[公転](https://ja.wikipedia.org/wiki/公転 "wikilink")軌道が内側にずれ、昼でも[地球](https://ja.wikipedia.org/wiki/地球 "wikilink")から見えるようになったときからESPと呼ばれる[超能力](../Page/超能力.md "wikilink")が人々に備わり始め、ESP能力を用いて操作する「ESP兵器」が実用化されている。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に極東に建国された新興国家・マニト[共和国](../Page/共和国.md "wikilink")は世界最先端のESP兵器の技術を以って[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")とその同盟国たる日本と敵対。[2011年](../Page/2011年.md "wikilink")に東京はマニトの攻撃を受け、その5年後の[2016年](../Page/2016年.md "wikilink")に日本政府は[首都](../Page/首都.md "wikilink")を東京から[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")[前橋市](https://ja.wikipedia.org/wiki/前橋市 "wikilink")に移した。
+作品の舞台となるのは[西暦](../Page/西暦.md "wikilink")[2026年](../Page/2026年.md "wikilink")の日本。この世界では[2009年](../Page/2009年.md "wikilink")に[火星](../Page/火星.md "wikilink")が[小惑星](../Page/小惑星.md "wikilink")との衝突で[公転](../Page/公転.md "wikilink")軌道が内側にずれ、昼でも[地球](https://ja.wikipedia.org/wiki/地球 "wikilink")から見えるようになったときからESPと呼ばれる[超能力](../Page/超能力.md "wikilink")が人々に備わり始め、ESP能力を用いて操作する「ESP兵器」が実用化されている。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に極東に建国された新興国家・マニト[共和国](../Page/共和国.md "wikilink")は世界最先端のESP兵器の技術を以って[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")とその同盟国たる日本と敵対。[2011年](../Page/2011年.md "wikilink")に東京はマニトの攻撃を受け、その5年後の[2016年](../Page/2016年.md "wikilink")に日本政府は[首都](../Page/首都.md "wikilink")を東京から[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")[前橋市](https://ja.wikipedia.org/wiki/前橋市 "wikilink")に移した。
 
 ## あらすじ
 
@@ -18,37 +18,37 @@ ESP（[超能力](../Page/超能力.md "wikilink")）を持った人間たちが
 ### メインキャラクター
 
   - 綾瀬 優弥（あやせ ゆうや）
-    声 - [立花慎之介](https://ja.wikipedia.org/wiki/立花慎之介 "wikilink")（CDドラマ版）
-    [眼鏡](../Page/眼鏡.md "wikilink")をかけた高校3年生の[主人公](https://ja.wikipedia.org/wiki/主人公 "wikilink")。当時8歳だった2016年に米軍機墜落事故で両親と妹の唯を亡くす。あまり社交的な性格ではなく友達は少ない。成り行きでESP能力を持つ少女・天と暮らし始めるが、後に自分自身にもESPがあることに気づく。好きな食べ物は[チャーハン](../Page/チャーハン.md "wikilink")。
+    声 - [立花慎之介](../Page/立花慎之介.md "wikilink")（CDドラマ版）
+    [眼鏡](../Page/眼鏡.md "wikilink")をかけた高校3年生の[主人公](../Page/主人公.md "wikilink")。当時8歳だった2016年に米軍機墜落事故で両親と妹の唯を亡くす。あまり社交的な性格ではなく友達は少ない。成り行きでESP能力を持つ少女・天と暮らし始めるが、後に自分自身にもESPがあることに気づく。好きな食べ物は[チャーハン](../Page/チャーハン.md "wikilink")。
   - 朝霞 天（あさか てん）
-    声 - [高橋美佳子](https://ja.wikipedia.org/wiki/高橋美佳子 "wikilink")
+    声 - [高橋美佳子](../Page/高橋美佳子.md "wikilink")
     優弥と同居することになったクラスメイトの少女。17歳の高校3年生。[8月8日](../Page/8月8日.md "wikilink")生まれ。2011年のマニト共和国による[核ミサイル](../Page/核ミサイル.md "wikilink")攻撃で両親を失う。性格は素直ではなく、意地っ張りで嫉妬深い。スタイルを気にしており、自分よりスタイルのいい人が好きではない。未来を予知するESP能力を持つ。
   - 神明 菊菜（しんみょう きくな）
     声 - [水橋かおり](../Page/水橋かおり.md "wikilink")
-    優弥の[幼馴染](https://ja.wikipedia.org/wiki/幼馴染 "wikilink")で妹分。16歳の高校2年生。[12月3日](../Page/12月3日.md "wikilink")生まれ。優弥の事故死した妹・唯の親友だった少女。その事故の際に左足を負傷したためうまく歩くことができないので杖を使っているが、性格は明るく優弥をよく慕っている。だがそれは唯の真似をしているだけである。
+    優弥の[幼馴染](../Page/幼馴染.md "wikilink")で妹分。16歳の高校2年生。[12月3日](../Page/12月3日.md "wikilink")生まれ。優弥の事故死した妹・唯の親友だった少女。その事故の際に左足を負傷したためうまく歩くことができないので杖を使っているが、性格は明るく優弥をよく慕っている。だがそれは唯の真似をしているだけである。
   - 熊野 柚香（くまの ゆずか）
     声 - [香坂夏希](../Page/香坂夏希.md "wikilink")
     歌と動植物を愛する心優しい少女。優弥と天のクラスメイト。[10月14日](../Page/10月14日.md "wikilink")生まれの17歳。天とは同じ戦災孤児であるため、天よりスタイルが良いのにもかかわらず彼女から好かれている。
   - 笛吹 詩忍（ふえふき しのぶ）
-    声 - [生天目仁美](https://ja.wikipedia.org/wiki/生天目仁美 "wikilink")
-    [夏休み](../Page/夏休み.md "wikilink")を利用して[大阪](../Page/大阪.md "wikilink")からプチ[家出](https://ja.wikipedia.org/wiki/家出 "wikilink")をしてきた高校2年生の少女。[4月26日](../Page/4月26日.md "wikilink")生まれの17歳。ノリのよい性格で[東京湾](../Page/東京湾.md "wikilink")で魚を釣って食べ、路上や公園で寝泊りをしている[アウトドア](https://ja.wikipedia.org/wiki/アウトドア "wikilink")派。優弥の家に一晩だけ泊まることになるが…。
+    声 - [生天目仁美](../Page/生天目仁美.md "wikilink")
+    [夏休み](../Page/夏休み.md "wikilink")を利用して[大阪](../Page/大阪.md "wikilink")からプチ[家出](../Page/家出.md "wikilink")をしてきた高校2年生の少女。[4月26日](../Page/4月26日.md "wikilink")生まれの17歳。ノリのよい性格で[東京湾](../Page/東京湾.md "wikilink")で魚を釣って食べ、路上や公園で寝泊りをしている[アウトドア](../Page/アウトドア.md "wikilink")派。優弥の家に一晩だけ泊まることになるが…。
   - 稲敷 楓（いなしき かえで）
     声 - [清水愛](../Page/清水愛.md "wikilink")
-    優弥の叔母兼大家である稲敷雪枝の一人娘で優弥の[いとこ](https://ja.wikipedia.org/wiki/いとこ "wikilink")にあたる少女。15歳の中学3年生。[5月19日](../Page/5月19日.md "wikilink")生まれ。素直で子供っぽい性格で日焼けを気にせず、父親からもらった「王様」という名の[ウサギ](../Page/ウサギ.md "wikilink")の人形を大事にしている。
+    優弥の叔母兼大家である稲敷雪枝の一人娘で優弥の[いとこ](../Page/いとこ.md "wikilink")にあたる少女。15歳の中学3年生。[5月19日](../Page/5月19日.md "wikilink")生まれ。素直で子供っぽい性格で日焼けを気にせず、父親からもらった「王様」という名の[ウサギ](../Page/ウサギ.md "wikilink")の人形を大事にしている。
   - 藤岡 夏蓮（ふじおか かれん）
     声 - [折笠愛](../Page/折笠愛.md "wikilink")
-    [海上自衛隊](https://ja.wikipedia.org/wiki/海上自衛隊 "wikilink")で情報経理技師を務める女性。[9月4日](../Page/9月4日.md "wikilink")生まれの21歳。マニト共和国に関する軍の機密事項を扱っている割に口が軽いという困ったお姉さん。電動バイクで[首都高を駆けるのが趣味というスピード狂](https://ja.wikipedia.org/wiki/首都高速道路 "wikilink")。
+    [海上自衛隊](../Page/海上自衛隊.md "wikilink")で情報経理技師を務める女性。[9月4日](../Page/9月4日.md "wikilink")生まれの21歳。マニト共和国に関する軍の機密事項を扱っている割に口が軽いという困ったお姉さん。電動バイクで[首都高を駆けるのが趣味というスピード狂](https://ja.wikipedia.org/wiki/首都高速道路 "wikilink")。
 
 ### サブキャラクター
 
   - 宿毛 ゆかり（すくも ゆかり）
-    声 - [廣田詩夢](https://ja.wikipedia.org/wiki/廣田詩夢 "wikilink")
+    声 - [廣田詩夢](../Page/廣田詩夢.md "wikilink")
     楓のクラスメイト。活発な性格でスポーツが得意だが物覚えがよくない。
   - 五十嵐 真美子（いがらし まみこ）
     声 - [榎本有里](https://ja.wikipedia.org/wiki/榎本有里 "wikilink")
     楓のクラスメイト。おとなしい性格で礼儀正しいが運動は苦手。
   - 大濠 朱実（おおほり あけみ）
-    声 - [本井えみ](https://ja.wikipedia.org/wiki/本井えみ "wikilink")
+    声 - [本井えみ](../Page/本井えみ.md "wikilink")
     夏蓮の同僚である海上自衛隊員の女性。[ロック音楽を愛する](../Page/ロック_\(音楽\).md "wikilink")。真面目でキツい性格だが頼りになる。
   - 神明 めぐ（しんみょう めぐ）
     声 - [加藤雅美](https://ja.wikipedia.org/wiki/加藤雅美 "wikilink")
@@ -79,7 +79,7 @@ ESP（[超能力](../Page/超能力.md "wikilink")）を持った人間たちが
 ## 制作スタッフ
 
   - [キャラクターデザイン](../Page/キャラクターデザイン.md "wikilink")・[原画](../Page/原画.md "wikilink") : [よしのけい](https://ja.wikipedia.org/wiki/よしのけい "wikilink")
-  - [シナリオ](../Page/脚本.md "wikilink") : [秋タカシ](https://ja.wikipedia.org/wiki/秋タカシ "wikilink")([WinBell](https://ja.wikipedia.org/wiki/WinBell "wikilink"))
+  - [シナリオ](../Page/脚本.md "wikilink") : [秋タカシ](../Page/秋タカシ.md "wikilink")([WinBell](https://ja.wikipedia.org/wiki/WinBell "wikilink"))
   - 背景 : [さとう時子](https://ja.wikipedia.org/wiki/さとう時子 "wikilink")
   - プログラム : 門松民哉
   - プロデュース : しまぞう
@@ -96,11 +96,11 @@ ESP（[超能力](../Page/超能力.md "wikilink")）を持った人間たちが
 
 『電撃コミックガオ\!』2006年7月号 - 2007年3月号連載。オリジナルキャラクターのアミエルをヒロインに据えた物語が展開する。新章が始まる予定だったが実現していない。
 
-  - We Are -Cruel Angel's-（[メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink") / シナリオ : [秋タカシ](https://ja.wikipedia.org/wiki/秋タカシ "wikilink")、作画 : [宇佐美渉](https://ja.wikipedia.org/wiki/宇佐美渉 "wikilink")） ISBN 978-4-8402-3745-1
+  - We Are -Cruel Angel's-（[メディアワークス](../Page/メディアワークス.md "wikilink") / シナリオ : [秋タカシ](../Page/秋タカシ.md "wikilink")、作画 : [宇佐美渉](../Page/宇佐美渉.md "wikilink")） ISBN 978-4-8402-3745-1
 
 ### CD
 
-We Are\* Piece of Peaceのタイトルで[5pb.](https://ja.wikipedia.org/wiki/5pb. "wikilink")よりリリースされたキャラクターソングとドラマを収録したシリーズ。連結ジャケット使用で、全部集めて並べると1つの絵が完成する。
+We Are\* Piece of Peaceのタイトルで[5pb.](../Page/5pb..md "wikilink")よりリリースされたキャラクターソングとドラマを収録したシリーズ。連結ジャケット使用で、全部集めて並べると1つの絵が完成する。
 
 1.  朝霞 天（VGCD-0043）※ 初回限定特典として、シリーズ全6枚収納可能なコレクションBOXが付属。
 2.  稲敷 楓（VGCD-0044）

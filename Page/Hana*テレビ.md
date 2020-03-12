@@ -1,13 +1,13 @@
 > この記事は[Hana\*](https://ja.wikipedia.org/wiki/Hana\*)から翻訳されています。
 
 
-『**Hana\*テレビ**』（ハナテレビ）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月17日](../Page/4月17日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月24日](../Page/3月24日.md "wikilink")まで[北海道放送](../Page/北海道放送.md "wikilink")（HBCテレビ）で放送されていた[ローカルワイド番組](https://ja.wikipedia.org/wiki/ローカルワイド番組 "wikilink")である。
+『**Hana\*テレビ**』（ハナテレビ）は、[2006年](../Page/2006年.md "wikilink")[4月17日](../Page/4月17日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月24日](../Page/3月24日.md "wikilink")まで[北海道放送](../Page/北海道放送.md "wikilink")（HBCテレビ）で放送されていた[ローカルワイド番組](../Page/ローカルワイド番組.md "wikilink")である。
 
 ## 概要
 
-2006年3月31日まで放送されていた『[ビタミンTV](https://ja.wikipedia.org/wiki/ビタミンTV "wikilink")』と同年4月14日まで放送されていた『[テレポート2000](https://ja.wikipedia.org/wiki/テレポート2000 "wikilink")』を統合するかたちでスタート。
+2006年3月31日まで放送されていた『[ビタミンTV](../Page/ビタミンTV.md "wikilink")』と同年4月14日まで放送されていた『[テレポート2000](../Page/テレポート2000.md "wikilink")』を統合するかたちでスタート。
 
-番組は途中に[TBS発の](../Page/TBSテレビ.md "wikilink")『[イブニング・ファイブ](https://ja.wikipedia.org/wiki/イブニング・ファイブ "wikilink")』を内包していた。また毎年6月上旬には、[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")内で行われる[YOSAKOIソーラン祭り](https://ja.wikipedia.org/wiki/YOSAKOIソーラン祭り "wikilink")の模様を「YOSAKOIスペシャル」として随時番組内に挿入しながら19:54まで放送することがあった（その日のみ18:55以降は[ステレオ放送](../Page/ステレオ放送.md "wikilink")となった）。土曜・日曜には、30分枠の関連番組『**Hana\*テレビ増刊号**』を日中に不定期放送することがあった。こちらの内容は、本編が取り上げた特集の再放送や本編出演メンバーによるトークが中心だった。
+番組は途中に[TBS発の](../Page/TBSテレビ.md "wikilink")『[イブニング・ファイブ](../Page/イブニング・ファイブ.md "wikilink")』を内包していた。また毎年6月上旬には、[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")内で行われる[YOSAKOIソーラン祭り](../Page/YOSAKOIソーラン祭り.md "wikilink")の模様を「YOSAKOIスペシャル」として随時番組内に挿入しながら19:54まで放送することがあった（その日のみ18:55以降は[ステレオ放送](../Page/ステレオ放送.md "wikilink")となった）。土曜・日曜には、30分枠の関連番組『**Hana\*テレビ増刊号**』を日中に不定期放送することがあった。こちらの内容は、本編が取り上げた特集の再放送や本編出演メンバーによるトークが中心だった。
 
 後継番組は2010年3月29日にスタートした『グッチーの 今日ドキッ\!』（後の『[今日ドキッ\!](https://ja.wikipedia.org/wiki/今日ドキッ! "wikilink")』）。
 
@@ -26,8 +26,8 @@
 
 ### 司会
 
-  - [渡辺陽子](https://ja.wikipedia.org/wiki/渡辺陽子 "wikilink")（月曜・木曜・金曜）
-  - [堀啓知](https://ja.wikipedia.org/wiki/堀啓知 "wikilink")（月曜・隔週水曜・木曜）
+  - [渡辺陽子](../Page/渡辺陽子.md "wikilink")（月曜・木曜・金曜）
+  - [堀啓知](../Page/堀啓知.md "wikilink")（月曜・隔週水曜・木曜）
   - [佐々木佑花](../Page/佐々木佑花.md "wikilink")（火曜・水曜）
   - [石崎輝明](https://ja.wikipedia.org/wiki/石崎輝明 "wikilink")（火曜・隔週水曜・金曜）
   - [加藤雅章](https://ja.wikipedia.org/wiki/加藤雅章 "wikilink")（ニュース担当）
@@ -35,25 +35,25 @@
 
 ### コーナー担当
 
-  - [大下宗吾](https://ja.wikipedia.org/wiki/大下宗吾 "wikilink")（「しゅうごの週5旅」担当）
-  - [卓田和広](https://ja.wikipedia.org/wiki/卓田和広 "wikilink")（月曜特集担当）
-  - [小橋亜樹](https://ja.wikipedia.org/wiki/小橋亜樹 "wikilink")（月曜特集担当、2009年3月27日までは木曜・金曜日の中継も担当）
-  - [渕上紘行](https://ja.wikipedia.org/wiki/渕上紘行 "wikilink")（火曜特集担当、2009年3月27日までは堀と隔週で司会・中継を担当）
+  - [大下宗吾](../Page/大下宗吾.md "wikilink")（「しゅうごの週5旅」担当）
+  - [卓田和広](../Page/卓田和広.md "wikilink")（月曜特集担当）
+  - [小橋亜樹](../Page/小橋亜樹.md "wikilink")（月曜特集担当、2009年3月27日までは木曜・金曜日の中継も担当）
+  - [渕上紘行](../Page/渕上紘行.md "wikilink")（火曜特集担当、2009年3月27日までは堀と隔週で司会・中継を担当）
   - [佐藤彩](../Page/佐藤彩.md "wikilink")（隔週水曜特集担当、2009年9月24日までは木曜特集担当）
   - [堰八紗也佳](https://ja.wikipedia.org/wiki/堰八紗也佳 "wikilink")（隔週水曜特集担当、2009年12月までは金曜特集担当）
   - [水野善公](https://ja.wikipedia.org/wiki/水野善公 "wikilink")（木曜特集担当、2009年9月24日までは水曜特集担当）
-  - [小川和幸](https://ja.wikipedia.org/wiki/小川和幸 "wikilink")（金曜特集、2009年12月までは「小川WATCH」担当）
+  - [小川和幸](../Page/小川和幸.md "wikilink")（金曜特集、2009年12月までは「小川WATCH」担当）
 
 ### 中継担当
 
-  - [渡辺陽子](https://ja.wikipedia.org/wiki/渡辺陽子 "wikilink")（火曜・隔週水曜）
-  - [堀啓知](https://ja.wikipedia.org/wiki/堀啓知 "wikilink")（隔週水曜・金曜、以前は渕上と隔週で月曜から水曜まで担当）
+  - [渡辺陽子](../Page/渡辺陽子.md "wikilink")（火曜・隔週水曜）
+  - [堀啓知](../Page/堀啓知.md "wikilink")（隔週水曜・金曜、以前は渕上と隔週で月曜から水曜まで担当）
   - [佐々木佑花](../Page/佐々木佑花.md "wikilink")（木曜、以前は毎日担当）
   - [石崎輝明](https://ja.wikipedia.org/wiki/石崎輝明 "wikilink")（月曜）
 
 ### 天気予報担当
 
-  - [近藤はじめ](https://ja.wikipedia.org/wiki/近藤はじめ "wikilink")（HBC気象予報士）
+  - [近藤はじめ](../Page/近藤はじめ.md "wikilink")（HBC気象予報士）
 
 ### コメンテーター
 
@@ -69,28 +69,28 @@
   - 奈津子
   - [阿部ちあき](https://ja.wikipedia.org/wiki/阿部ちあき "wikilink")
   - [平野むつこ](https://ja.wikipedia.org/wiki/平野むつこ "wikilink")
-  - [DON](https://ja.wikipedia.org/wiki/DON "wikilink")
+  - [DON](../Page/DON.md "wikilink")
   - [吉川智子](https://ja.wikipedia.org/wiki/吉川智子 "wikilink")
   - [田村美香](https://ja.wikipedia.org/wiki/田村美香 "wikilink")（「北海道スイーツロード」ナレーター担当）
   - [田村英一](https://ja.wikipedia.org/wiki/田村英一 "wikilink")（ニュース担当、2009年3月27日まで）
-  - [梨元勝](https://ja.wikipedia.org/wiki/梨元勝 "wikilink")（金曜特集担当）
+  - [梨元勝](../Page/梨元勝.md "wikilink")（金曜特集担当）
   - [野々村芳和](../Page/野々村芳和.md "wikilink")（「SPORTS 1BAN」担当、隔週月曜）
-  - [岩本勉](https://ja.wikipedia.org/wiki/岩本勉 "wikilink")（「SPORTS 1BAN」担当、隔週月曜）
+  - [岩本勉](../Page/岩本勉.md "wikilink")（「SPORTS 1BAN」担当、隔週月曜）
   - [山内要一](../Page/山内要一.md "wikilink")（「SPORTS 1BAN」のナレーター『影アナ1号』の正体、主に月曜日に登場。岩本からは「北見の星」と呼ばれている。2008年5月12日の放送では『影アナ1号』なのに「私、山内」と言ってばらしていた）
   - [内藤克](https://ja.wikipedia.org/wiki/内藤克 "wikilink")（「SPORTS 1BAN」のナレーター『影アナ2号』の正体）
   - [赤城敏正](https://ja.wikipedia.org/wiki/赤城敏正 "wikilink")（「SPORTS 1BAN」のナレーター『影アナ3号』の正体）
-  - [管野暢昭](https://ja.wikipedia.org/wiki/管野暢昭 "wikilink")（「SPORTS 1BAN」のナレーター『影アナ4号』の正体。『影アナ1号』の担当する月曜日を除いた毎日登場）
-  - [飯野智行](https://ja.wikipedia.org/wiki/飯野智行 "wikilink")（火曜特集（後半）担当）
+  - [管野暢昭](../Page/管野暢昭.md "wikilink")（「SPORTS 1BAN」のナレーター『影アナ4号』の正体。『影アナ1号』の担当する月曜日を除いた毎日登場）
+  - [飯野智行](../Page/飯野智行.md "wikilink")（火曜特集（後半）担当）
   - [宮崎明日香](../Page/宮崎明日香.md "wikilink")（水曜特集担当）
   - [松坂有希子](../Page/松坂有希子.md "wikilink")（隔週木曜特集担当）
-  - [木村藤子](https://ja.wikipedia.org/wiki/木村藤子 "wikilink")（不定期で特集）
+  - [木村藤子](../Page/木村藤子.md "wikilink")（不定期で特集）
   - [新井理](https://ja.wikipedia.org/wiki/新井理 "wikilink")（水曜特集担当、昼ワイド移行後も2009年6月まで担当。アナウンス部→本社テレビ営業部へ異動によって降板）
   - [室谷香菜子](https://ja.wikipedia.org/wiki/室谷香菜子 "wikilink")（金曜特集担当）
 
 ## 内容
 
   - Hana\*テレビショッピング（15時20分頃）
-    『[パック2](../Page/パック2.md "wikilink")』から続けて行われていた地元百貨店持ち回りの[テレビショッピング](../Page/テレビショッピング.md "wikilink")コーナー。『[ユメイロ。](https://ja.wikipedia.org/wiki/ユメイロ。 "wikilink")』の終了に伴い、本番組内で放送されることになった。
+    『[パック2](../Page/パック2.md "wikilink")』から続けて行われていた地元百貨店持ち回りの[テレビショッピング](../Page/テレビショッピング.md "wikilink")コーナー。『[ユメイロ。](../Page/ユメイロ。.md "wikilink")』の終了に伴い、本番組内で放送されることになった。
       - 月曜・木曜：[さっぽろ東急百貨店](../Page/東急百貨店.md "wikilink")
       - 金曜：[札幌三越](https://ja.wikipedia.org/wiki/札幌三越 "wikilink")
   - 特集（15時45分頃）

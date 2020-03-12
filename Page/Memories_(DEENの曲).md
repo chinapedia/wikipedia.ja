@@ -1,9 +1,9 @@
 > この記事は[Memories \(DEEN\)](https://ja.wikipedia.org/wiki/Memories_\(DEEN\))から翻訳されています。
 
 
-「**Memories**」（メモリーズ）は、[DEEN](https://ja.wikipedia.org/wiki/DEEN "wikilink")の3rd[シングル](../Page/シングル.md "wikilink")。
+「**Memories**」（メモリーズ）は、[DEEN](../Page/DEEN.md "wikilink")の3rd[シングル](../Page/シングル.md "wikilink")。
 
-表題曲は、[テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[ネオドラマ](https://ja.wikipedia.org/wiki/ネオドラマ "wikilink")』主題歌。ボーカルの[池森秀一](https://ja.wikipedia.org/wiki/池森秀一 "wikilink")が初めてA面シングルの作詞を初めて手がけた。
+表題曲は、[テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[ネオドラマ](../Page/ネオドラマ.md "wikilink")』主題歌。ボーカルの[池森秀一](../Page/池森秀一.md "wikilink")が初めてA面シングルの作詞を初めて手がけた。
 
 曲中のラップはコーラス扱いのため歌詞に記述がない。ライブで歌うことになった際、譜面にも残っていなかったため、池森は耳コピした。
 
@@ -11,7 +11,7 @@
 
 1.  **Memories**
       -
-        作詞:[池森秀一](https://ja.wikipedia.org/wiki/池森秀一 "wikilink")・井上留美子　作曲:織田哲郎　編曲:[葉山たけし](../Page/葉山たけし.md "wikilink")
+        作詞:[池森秀一](../Page/池森秀一.md "wikilink")・井上留美子　作曲:織田哲郎　編曲:[葉山たけし](../Page/葉山たけし.md "wikilink")
 2.  **FOREVER**
       -
         作詞･作曲:池森秀一　編曲:[大島こうすけ](../Page/大島こうすけ.md "wikilink")
@@ -25,9 +25,9 @@
 <!-- end list -->
 
   - 『[DEEN](../Page/DEEN_\(アルバム\).md "wikilink")』
-  - 『[SINGLES+1](https://ja.wikipedia.org/wiki/SINGLES+1 "wikilink")』
+  - 『[SINGLES+1](../Page/SINGLES+1.md "wikilink")』
   - 『[DEEN PERFECT SINGLES +](https://ja.wikipedia.org/wiki/DEEN_PERFECT_SINGLES_+ "wikilink")』
-  - 『[DEEN The Best キセキ](https://ja.wikipedia.org/wiki/DEEN_The_Best_キセキ "wikilink")』※アレンジ、新録音して収録
+  - 『[DEEN The Best キセキ](../Page/DEEN_The_Best_キセキ.md "wikilink")』※アレンジ、新録音して収録
   - 『[DEENAGE MEMORY -20周年記念ベストアルバム-](https://ja.wikipedia.org/wiki/DEENAGE_MEMORY_-20周年記念ベストアルバム- "wikilink")』
   - 『[DEEN The Best FOREVER 〜Complete Singles +〜](https://ja.wikipedia.org/wiki/DEEN_The_Best_FOREVER_〜Complete_Singles_+〜 "wikilink")』
 
@@ -42,11 +42,11 @@
 
 ## 参加ミュージシャン
 
-  - [勝田かず樹](https://ja.wikipedia.org/wiki/勝田かず樹 "wikilink")([DIMENSION](https://ja.wikipedia.org/wiki/DIMENSION "wikilink")) - [サックス](../Page/サクソフォーン.md "wikilink")
+  - [勝田かず樹](https://ja.wikipedia.org/wiki/勝田かず樹 "wikilink")([DIMENSION](../Page/DIMENSION.md "wikilink")) - [サックス](../Page/サクソフォーン.md "wikilink")
   - [大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink") - [コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
-  - [生沢佑一](https://ja.wikipedia.org/wiki/生沢佑一 "wikilink")([TWINZER](../Page/TWINZER.md "wikilink")) - コーラス
-  - [栗林誠一郎](https://ja.wikipedia.org/wiki/栗林誠一郎 "wikilink") - [ラップ](../Page/ラップ.md "wikilink")
-  - [青木智仁](../Page/青木智仁.md "wikilink") - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - [生沢佑一](../Page/生沢佑一.md "wikilink")([TWINZER](../Page/TWINZER.md "wikilink")) - コーラス
+  - [栗林誠一郎](../Page/栗林誠一郎.md "wikilink") - [ラップ](../Page/ラップ.md "wikilink")
+  - [青木智仁](../Page/青木智仁.md "wikilink") - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
 
 ## 出典・脚注
 

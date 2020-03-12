@@ -5,7 +5,7 @@
 
 ## 内容
 
-ドラマ「[刑事貴族](https://ja.wikipedia.org/wiki/刑事貴族 "wikilink")3」主題歌（エンディング・テーマ）。カップリングの「DON'T YOU WANNA TOUCH ME?」はアルバム『[ENDLESS DREAM](../Page/ENDLESS_DREAM.md "wikilink")』からのリテイクバージョンであり、ベストアルバム『[BEST OF BEST 1000](https://ja.wikipedia.org/wiki/BEST_OF_BEST_1000_\(織田哲郎\) "wikilink")』に収録されている。
+ドラマ「[刑事貴族](../Page/刑事貴族.md "wikilink")3」主題歌（エンディング・テーマ）。カップリングの「DON'T YOU WANNA TOUCH ME?」はアルバム『[ENDLESS DREAM](../Page/ENDLESS_DREAM.md "wikilink")』からのリテイクバージョンであり、ベストアルバム『[BEST OF BEST 1000](https://ja.wikipedia.org/wiki/BEST_OF_BEST_1000_\(織田哲郎\) "wikilink")』に収録されている。
 
 ## 収録曲
 
@@ -16,16 +16,16 @@
 
 ## 参加ミュージシャン
 
-  - 織田哲郎 - [ギター](../Page/ギター.md "wikilink")、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、[プログラミング](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")
+  - 織田哲郎 - [ギター](../Page/ギター.md "wikilink")、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、[プログラミング](../Page/ミュージックシーケンサー.md "wikilink")
 
 <!-- end list -->
 
-  - [勝田かず樹](https://ja.wikipedia.org/wiki/勝田かず樹 "wikilink")([DIMENSION](https://ja.wikipedia.org/wiki/DIMENSION "wikilink")) - [サックス](../Page/サクソフォーン.md "wikilink")
+  - [勝田かず樹](https://ja.wikipedia.org/wiki/勝田かず樹 "wikilink")([DIMENSION](../Page/DIMENSION.md "wikilink")) - [サックス](../Page/サクソフォーン.md "wikilink")
   - [葉山たけし](../Page/葉山たけし.md "wikilink") - [コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
 
 ## 関連項目
 
-  - [BMGルームス](https://ja.wikipedia.org/wiki/VERMILLION_RECORDS "wikilink")
+  - [BMGルームス](../Page/VERMILLION_RECORDS.md "wikilink")
   - [ビーイング](../Page/ビーイング.md "wikilink")
   - [織田哲郎](../Page/織田哲郎.md "wikilink")
   - [BEST OF BEST 1000](https://ja.wikipedia.org/wiki/BEST_OF_BEST_1000_\(織田哲郎\) "wikilink")

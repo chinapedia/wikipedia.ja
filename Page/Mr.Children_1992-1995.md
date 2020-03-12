@@ -5,7 +5,7 @@
 
 ## 概要
 
-ジャケット写真から通称「[肉](../Page/肉.md "wikilink")」と呼ばれるが、これはファンが勝手につけた呼び名ではなく、[CMなどで公式に使われていたものである](../Page/コマーシャルメッセージ.md "wikilink")。ジャケット写真には[サイ](../Page/サイ.md "wikilink")の写真が採用されており、このサイは、[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")にある[市原ぞうの国](../Page/市原ぞうの国.md "wikilink")にいた「ダイスケ」である\[1\]（2004年に他界）。アートディレクターは[信藤三雄](../Page/信藤三雄.md "wikilink")。全曲リマスタリング音源で収録。
+ジャケット写真から通称「[肉](../Page/肉.md "wikilink")」と呼ばれるが、これはファンが勝手につけた呼び名ではなく、[CMなどで公式に使われていたものである](../Page/コマーシャルメッセージ.md "wikilink")。ジャケット写真には[サイ](../Page/サイ.md "wikilink")の写真が採用されており、このサイは、[千葉県](../Page/千葉県.md "wikilink")にある[市原ぞうの国](../Page/市原ぞうの国.md "wikilink")にいた「ダイスケ」である\[1\]（2004年に他界）。アートディレクターは[信藤三雄](../Page/信藤三雄.md "wikilink")。全曲リマスタリング音源で収録。
 
 「ベストアルバムは出さない」とかねてから発言していたMr.Childrenだったが\[2\]、18thシングル「[口笛](../Page/口笛_\(Mr.Childrenの曲\).md "wikilink")」（[2000年](../Page/2000年.md "wikilink")）を発売した頃には、ベスト盤の企画が持ち上がっていたが、「今ベストアルバムを出す意義」がわからない状態だったため、リリースが見送られていた。しかし、ファンの作品ごとに区切られた評価に対して、これまでの作品全てを総括して「Mr.Children像」というものが出来ないだろうかということで、リリースに至った。当時の新曲「[優しい歌](../Page/優しい歌_\(Mr.Childrenの曲\).md "wikilink")」のプロモーションとしてベストアルバムを出したとも語っている。
 
@@ -34,7 +34,7 @@ Mr.Childrenでは初めてオリコンチャートでの登場週数が300週を
         1stシングル。
 2.  **星になれたら** (5:03)
       -
-        2ndアルバム『[Kind of Love](https://ja.wikipedia.org/wiki/Kind_of_Love "wikilink")』収録曲。
+        2ndアルバム『[Kind of Love](../Page/Kind_of_Love.md "wikilink")』収録曲。
 3.  **[抱きしめたい](../Page/抱きしめたい_\(Mr.Childrenの曲\).md "wikilink")** (5:25)
       -
         2ndシングル。
@@ -43,11 +43,11 @@ Mr.Childrenでは初めてオリコンチャートでの登場週数が300週を
         3rdシングル。
 5.  **LOVE** (4:06)
       -
-        3rdアルバム『[Versus](https://ja.wikipedia.org/wiki/Versus_\(アルバム\) "wikilink")』収録曲。
+        3rdアルバム『[Versus](../Page/Versus_\(アルバム\).md "wikilink")』収録曲。
 6.  **my life** (4:28)
       -
-        3rdアルバム『[Versus](https://ja.wikipedia.org/wiki/Versus_\(アルバム\) "wikilink")』収録曲。
-7.  **[CROSS ROAD](https://ja.wikipedia.org/wiki/CROSS_ROAD_\(Mr.Childrenの曲\) "wikilink")** (4:34)
+        3rdアルバム『[Versus](../Page/Versus_\(アルバム\).md "wikilink")』収録曲。
+7.  **[CROSS ROAD](../Page/CROSS_ROAD_\(Mr.Childrenの曲\).md "wikilink")** (4:34)
       -
         4thシングル。
 8.  **[innocent world](https://ja.wikipedia.org/wiki/innocent_world "wikilink")** (5:46)
@@ -55,20 +55,20 @@ Mr.Childrenでは初めてオリコンチャートでの登場週数が300週を
         5thシングル。
 9.  **Dance Dance Dance** (4:59)
       -
-        4thアルバム『[Atomic Heart](https://ja.wikipedia.org/wiki/Atomic_Heart "wikilink")』収録曲。
+        4thアルバム『[Atomic Heart](../Page/Atomic_Heart.md "wikilink")』収録曲。
 10. **雨のち晴れ** (5:36)
       -
         4thアルバム『Atomic Heart』収録曲。
 11. **Over** (4:43)
       -
         4thアルバム『Atomic Heart』収録曲。
-12. **[Tomorrow never knows](https://ja.wikipedia.org/wiki/Tomorrow_never_knows_\(Mr.Childrenの曲\) "wikilink")** (5:09)
+12. **[Tomorrow never knows](../Page/Tomorrow_never_knows_\(Mr.Childrenの曲\).md "wikilink")** (5:09)
       -
         6thシングル。本作に収録されているのは6th[アルバム](../Page/アルバム.md "wikilink")『[BOLERO](../Page/BOLERO_\(Mr.Childrenのアルバム\).md "wikilink")』に収録されていた（アルバムバージョン）音源で収録。
 13. **[everybody goes 〜秩序のない現代にドロップキック〜](https://ja.wikipedia.org/wiki/everybody_goes_-秩序のない現代にドロップキック- "wikilink")** (4:38)
       -
         7thシングル。
-14. **[【es】 〜Theme of es〜](https://ja.wikipedia.org/wiki/【es】_〜Theme_of_es〜 "wikilink")** (5:51)
+14. **[【es】 〜Theme of es〜](../Page/【es】_〜Theme_of_es〜.md "wikilink")** (5:51)
       -
         8thシングル。
 15. **[シーソーゲーム 〜勇敢な恋の歌〜](../Page/シーソーゲーム_〜勇敢な恋の歌〜.md "wikilink")** (4:31)

@@ -1,17 +1,17 @@
 > この記事は[PAPUWA](https://ja.wikipedia.org/wiki/PAPUWA)から翻訳されています。
 
 
-『**PAPUWA**』（パプワ）は、[柴田亜美](../Page/柴田亜美.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品、およびそれを原作とした[アニメ](../Page/アニメ.md "wikilink")作品。『[月刊少年ガンガン](../Page/月刊少年ガンガン.md "wikilink")』（[スクウェア・エニックス](https://ja.wikipedia.org/wiki/スクウェア・エニックス "wikilink")刊）にて[2002年](../Page/2002年.md "wikilink")4月号から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")2月号まで連載された。
+『**PAPUWA**』（パプワ）は、[柴田亜美](../Page/柴田亜美.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品、およびそれを原作とした[アニメ](../Page/アニメ.md "wikilink")作品。『[月刊少年ガンガン](../Page/月刊少年ガンガン.md "wikilink")』（[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")刊）にて[2002年](../Page/2002年.md "wikilink")4月号から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")2月号まで連載された。
 
 ## 概要
 
-『[南国少年パプワくん](../Page/南国少年パプワくん.md "wikilink")』の続編にあたる。不思議な島の不思議な生物たちが巻き起こす騒動を描くギャグ漫画で、[同性愛](https://ja.wikipedia.org/wiki/同性愛 "wikilink")めいた要素を[下ネタ](https://ja.wikipedia.org/wiki/下ネタ "wikilink")抜きに描写する独特のギャグ、中盤以降に頻出するバトル展開など、前作をほぼ踏襲したような作風になっている。
+『[南国少年パプワくん](../Page/南国少年パプワくん.md "wikilink")』の続編にあたる。不思議な島の不思議な生物たちが巻き起こす騒動を描くギャグ漫画で、[同性愛](https://ja.wikipedia.org/wiki/同性愛 "wikilink")めいた要素を[下ネタ](../Page/下ネタ.md "wikilink")抜きに描写する独特のギャグ、中盤以降に頻出するバトル展開など、前作をほぼ踏襲したような作風になっている。
 
-連載が開始された頃は[エニックスお家騒動](https://ja.wikipedia.org/wiki/エニックスお家騒動 "wikilink")の最中であり、連載初期から本作が表紙に何度も登場するなど、新たな主力連載として期待されていたことが伺える。
+連載が開始された頃は[エニックスお家騒動](../Page/エニックスお家騒動.md "wikilink")の最中であり、連載初期から本作が表紙に何度も登場するなど、新たな主力連載として期待されていたことが伺える。
 
 前作との直接的な続篇なため、前作の知識がないとわかりづらいところも多々ある。その補足のため、本作の連載開始と同時に前作『南国少年パプワくん』の新装版単行本が順次発行された。
 
-なお、本作連載以前に発表された作者の別作品である『[自由人HERO](https://ja.wikipedia.org/wiki/自由人HERO "wikilink")』や『[未来冒険チャンネル5](https://ja.wikipedia.org/wiki/未来冒険チャンネル5 "wikilink")』は『南国少年パプワくん』の設定を拡張したものであったが、本作『PAPUWA』はこれらの作品と設定が矛盾しているところが多々ある。しかし、これらの作品とのつながりを想起させるような設定も一部存在する。
+なお、本作連載以前に発表された作者の別作品である『[自由人HERO](../Page/自由人HERO.md "wikilink")』や『[未来冒険チャンネル5](../Page/未来冒険チャンネル5.md "wikilink")』は『南国少年パプワくん』の設定を拡張したものであったが、本作『PAPUWA』はこれらの作品と設定が矛盾しているところが多々ある。しかし、これらの作品とのつながりを想起させるような設定も一部存在する。
 
 ## あらすじ
 
@@ -34,13 +34,13 @@
 ## 所収
 
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月発行の2月号にて連載完結。単行本は14巻で完結。
-  - 『月刊少年ガンガン』所属作家による[アンソロジー](https://ja.wikipedia.org/wiki/アンソロジー "wikilink")コミック、『柴田亜美黙認海賊本 偽PAPUWA』も5巻まで発売。
+  - 『月刊少年ガンガン』所属作家による[アンソロジー](../Page/アンソロジー.md "wikilink")コミック、『柴田亜美黙認海賊本 偽PAPUWA』も5巻まで発売。
 
 ## アニメ
 
 [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系で2003年9月30日から2004年3月30日にわたり全26話が放送された。
 
-アニメーション制作は『南国少年パプワくん』のアニメ版と同じ[日本アニメーション](https://ja.wikipedia.org/wiki/日本アニメーション "wikilink")で、前作で監督を担当した[高木淳](https://ja.wikipedia.org/wiki/高木淳 "wikilink")が本作では監修として携わっているが、作品上のつながりはない。あくまで漫画版『南国少年パプワくん』の続篇である『PAPUWA』のアニメ化、である。アニメ化された範囲は原作単行本の5巻までで、コタローが一旦島を離れる段階を最終話とした。
+アニメーション制作は『南国少年パプワくん』のアニメ版と同じ[日本アニメーション](../Page/日本アニメーション.md "wikilink")で、前作で監督を担当した[高木淳](https://ja.wikipedia.org/wiki/高木淳 "wikilink")が本作では監修として携わっているが、作品上のつながりはない。あくまで漫画版『南国少年パプワくん』の続篇である『PAPUWA』のアニメ化、である。アニメ化された範囲は原作単行本の5巻までで、コタローが一旦島を離れる段階を最終話とした。
 
 また、本作をもって『[幻想魔伝 最遊記](https://ja.wikipedia.org/wiki/最遊記シリーズ "wikilink")』から4年間続いたテレビ東京系列の火曜18時台のスクウェア・エニックス原作アニメは『[超速変形ジャイロゼッター](https://ja.wikipedia.org/wiki/超速変形ジャイロゼッター "wikilink")』の放送開始まで約8年半途絶えることとなった。
 
@@ -48,7 +48,7 @@
 
   - 監督 - [西田健一](https://ja.wikipedia.org/wiki/西田健一 "wikilink")
   - 監修 - [高木淳](https://ja.wikipedia.org/wiki/高木淳 "wikilink")
-  - シリーズ構成 - [井上敏樹](https://ja.wikipedia.org/wiki/井上敏樹 "wikilink")
+  - シリーズ構成 - [井上敏樹](../Page/井上敏樹.md "wikilink")
   - キャラクターデザイン - 中島美子
   - 美術監督 - 福田和矢
   - 色彩設計 - 大平敬志
@@ -62,7 +62,7 @@
 
 ### 主題歌
 
-  - OP: 『旅人』 (作詞：尾藤元昭、作曲：尾藤元昭、山口大悟、編曲・歌：[LOOSELY](https://ja.wikipedia.org/wiki/LOOSELY "wikilink")）
+  - OP: 『旅人』 (作詞：尾藤元昭、作曲：尾藤元昭、山口大悟、編曲・歌：[LOOSELY](../Page/LOOSELY.md "wikilink")）
   - ED: 『ゆらりゆらり』 (作詞・曲・編曲・歌：いいのまさし）
 
 ### 各話リスト
@@ -84,7 +84,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>ようこそパプワ島へ!</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/井上敏樹" title="wikilink">井上敏樹</a></p></td>
+<td><p><a href="../Page/井上敏樹.md" title="wikilink">井上敏樹</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/西田健一" title="wikilink">西田健一</a></p></td>
 <td><p>中島美子</p></td>
 <td><p><strong><a href="../Page/2003年.md" title="wikilink">2003年</a></strong><br />
@@ -106,7 +106,7 @@
 <tr class="odd">
 <td><p>3</p></td>
 <td><p>座右の銘は友情パワー! わてがアラシヤマどす</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/浦沢義雄" title="wikilink">浦沢義雄</a></p></td>
+<td><p><a href="../Page/浦沢義雄.md" title="wikilink">浦沢義雄</a></p></td>
 <td><p>前島健一</p></td>
 <td><p>榎本守</p></td>
 <td><p>鈴木伸一</p></td>
@@ -118,8 +118,8 @@
 <td><p>さすらいのドラマー! ラッコのオショウダニ登場</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/石橋大助" title="wikilink">石橋大助</a></p></td>
 <td><p>上原秀明</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/鏑木ひろ" title="wikilink">鏑木宏</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/加瀬政広" title="wikilink">加瀬政広</a></p></td>
+<td><p><a href="../Page/鏑木ひろ.md" title="wikilink">鏑木宏</a></p></td>
+<td><p><a href="../Page/加瀬政広.md" title="wikilink">加瀬政広</a></p></td>
 <td><p><a href="../Page/10月21日.md" title="wikilink">10月21日</a></p></td>
 <td></td>
 </tr>
@@ -189,7 +189,7 @@
 <td><p>石橋大助</p></td>
 <td><p>古川政美</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/鈴木孝義" title="wikilink">鈴木孝義</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/谷口守泰" title="wikilink">谷口守泰</a></p></td>
+<td><p><a href="../Page/谷口守泰.md" title="wikilink">谷口守泰</a></p></td>
 <td><p><a href="../Page/12月9日.md" title="wikilink">12月9日</a></p></td>
 <td></td>
 </tr>
@@ -218,7 +218,7 @@
 <td><p>ロタローもびっくり!? オットコ前な神様登場</p></td>
 <td><p>鏑木宏</p></td>
 <td><p>加瀬政広</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/2004年" title="wikilink">2004年</a></strong><br />
+<td><p><strong><a href="../Page/2004年.md" title="wikilink">2004年</a></strong><br />
 <a href="../Page/1月6日.md" title="wikilink">1月6日</a></p></td>
 <td></td>
 <td></td>

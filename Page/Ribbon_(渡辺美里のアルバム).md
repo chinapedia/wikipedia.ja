@@ -1,30 +1,30 @@
 > この記事は[Ribbon \(\)](https://ja.wikipedia.org/wiki/Ribbon_\(\))から翻訳されています。
 
 
-『**ribbon**』（リボン）は[1988年](../Page/1988年.md "wikilink")[5月28日](../Page/5月28日.md "wikilink")にリリースされた[渡辺美里](../Page/渡辺美里.md "wikilink")の4枚目の[オリジナルアルバムである](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。
+『**ribbon**』（リボン）は[1988年](../Page/1988年.md "wikilink")[5月28日](../Page/5月28日.md "wikilink")にリリースされた[渡辺美里](../Page/渡辺美里.md "wikilink")の4枚目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 解説
 
   - ジャケットは白いシルクのカーテンが基調となっており、初期盤のみ紙箱ジャケットである。
   - 歌詞カードの各ページも、白のほかにパステル調の5色（青・緑・黄・橙・紫）によるシルクのカーテンを基調にしている。
   - アルバムのキャッチコピーは「戦後最大のポップアルバム」である。
-  - 当初は[ベストアルバムとして企画が上がったこともあり](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")、アルバム未収録だったシングル「[BELIEVE](https://ja.wikipedia.org/wiki/BELIEVE_\(渡辺美里の曲\) "wikilink")」を新録する予定であったが、リマスターしたのち「Remix Version」という表記で収録された。
-  - 「10 years」は[大江千里が](https://ja.wikipedia.org/wiki/大江千里_\(アーティスト\) "wikilink")[2003年](../Page/2003年.md "wikilink")にリリースしたアルバム『[home at last〜Senri Sings Senri〜](https://ja.wikipedia.org/wiki/home_at_last〜Senri_Sings_Senri〜 "wikilink")』にて[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")している。
+  - 当初は[ベストアルバムとして企画が上がったこともあり](../Page/ベスト・アルバム.md "wikilink")、アルバム未収録だったシングル「[BELIEVE](../Page/BELIEVE_\(渡辺美里の曲\).md "wikilink")」を新録する予定であったが、リマスターしたのち「Remix Version」という表記で収録された。
+  - 「10 years」は[大江千里が](../Page/大江千里_\(アーティスト\).md "wikilink")[2003年](../Page/2003年.md "wikilink")にリリースしたアルバム『[home at last〜Senri Sings Senri〜](https://ja.wikipedia.org/wiki/home_at_last〜Senri_Sings_Senri〜 "wikilink")』にて[セルフカバー](../Page/セルフカバー.md "wikilink")している。
   - 発売から30周年を記念して、[2018年](../Page/2018年.md "wikilink")[5月23日](../Page/5月23日.md "wikilink")に『**ribbon -30th Anniversary Edition-**』と題してリリースされた。
 
 ## 収録曲
 
 1.  **[センチメンタル カンガルー](https://ja.wikipedia.org/wiki/センチメンタル_カンガルー "wikilink")**
-      - 作詞：渡辺美里、作曲・編曲：[佐橋佳幸](https://ja.wikipedia.org/wiki/佐橋佳幸 "wikilink")、ホーンアレンジ：[清水信之](https://ja.wikipedia.org/wiki/清水信之 "wikilink")
-2.  **[恋したっていいじゃない](https://ja.wikipedia.org/wiki/恋したっていいじゃない "wikilink")**
+      - 作詞：渡辺美里、作曲・編曲：[佐橋佳幸](../Page/佐橋佳幸.md "wikilink")、ホーンアレンジ：[清水信之](../Page/清水信之.md "wikilink")
+2.  **[恋したっていいじゃない](../Page/恋したっていいじゃない.md "wikilink")**
       - 作詞：渡辺美里、作曲：[伊秩弘将](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink")、編曲：清水信之
 3.  **さくらの花の咲くころに**
       - 作詞：渡辺美里、作曲：[木根尚登](https://ja.wikipedia.org/wiki/木根尚登 "wikilink")、編曲：清水信之
-4.  **[Believe](https://ja.wikipedia.org/wiki/BELIEVE_\(渡辺美里の曲\) "wikilink") (Remix Version)**
-      - 作詞：渡辺美里、作曲：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")、編曲：[大村雅朗](https://ja.wikipedia.org/wiki/大村雅朗 "wikilink")
+4.  **[Believe](../Page/BELIEVE_\(渡辺美里の曲\).md "wikilink") (Remix Version)**
+      - 作詞：渡辺美里、作曲：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")、編曲：[大村雅朗](../Page/大村雅朗.md "wikilink")
           - シングルでは「BELIEVE」と大文字表記だったがここでは「Believe」に変更されている
 5.  **シャララ**
-      - 作詞：渡辺美里、作曲：[岡村靖幸](../Page/岡村靖幸.md "wikilink")、編曲：佐橋佳幸・[西平彰](https://ja.wikipedia.org/wiki/西平彰 "wikilink")
+      - 作詞：渡辺美里、作曲：[岡村靖幸](../Page/岡村靖幸.md "wikilink")、編曲：佐橋佳幸・[西平彰](../Page/西平彰.md "wikilink")
 6.  **[19才の秘かな欲望](../Page/Lovin'_you_\(渡辺美里のアルバム\).md "wikilink") (The Lover Soul Version)**
       - 作詞：[戸沢暢美](https://ja.wikipedia.org/wiki/戸沢暢美 "wikilink")、作曲：岡村靖幸、編曲：佐橋佳幸、ホーンアレンジ：[清岡太郎](https://ja.wikipedia.org/wiki/清岡太郎 "wikilink")
 7.  **彼女の彼**
@@ -37,7 +37,7 @@
 10. **[悲しいね](https://ja.wikipedia.org/wiki/悲しいね "wikilink") (Remix Version)**
       - 作詞：渡辺美里、作曲・編曲：小室哲哉
 11. **10 years**
-      - 作詞：渡辺美里、作曲：[大江千里](https://ja.wikipedia.org/wiki/大江千里_\(アーティスト\) "wikilink")、編曲：[有賀啓雄](https://ja.wikipedia.org/wiki/有賀啓雄 "wikilink")
+      - 作詞：渡辺美里、作曲：[大江千里](../Page/大江千里_\(アーティスト\).md "wikilink")、編曲：[有賀啓雄](../Page/有賀啓雄.md "wikilink")
           - 本アルバムからシングルカット。シングル「君の弱さ」カップリング曲
 
 ### 「ribbon -30th Anniversary Edition-」ボーナストラック収録曲
@@ -117,21 +117,21 @@
 
 **[センチメンタル カンガルー](https://ja.wikipedia.org/wiki/センチメンタル_カンガルー "wikilink")**
 
-  - E. Guitar : [佐橋佳幸](https://ja.wikipedia.org/wiki/佐橋佳幸 "wikilink")
+  - E. Guitar : [佐橋佳幸](../Page/佐橋佳幸.md "wikilink")
   - A. Piano and Synthesizer : [柴田俊文](https://ja.wikipedia.org/wiki/UGUISS "wikilink")
-  - Hammond Organ : [清水信之](https://ja.wikipedia.org/wiki/清水信之 "wikilink")
+  - Hammond Organ : [清水信之](../Page/清水信之.md "wikilink")
   - Drums and Percussions : 松本淳
   - Bass : [美久月千晴](https://ja.wikipedia.org/wiki/美久月千晴 "wikilink")
   - Manipulator : 遠山“joker”淳
-  - Trumpet：[数原晋](https://ja.wikipedia.org/wiki/数原晋 "wikilink")
+  - Trumpet：[数原晋](../Page/数原晋.md "wikilink")
   - Sax : [Jake H. Concepcion](https://ja.wikipedia.org/wiki/ジェイク・コンセプション "wikilink")
   - Backing Vocals : [“kangaroo”misato](../Page/渡辺美里.md "wikilink")
 
-**[恋したっていいじゃない](https://ja.wikipedia.org/wiki/恋したっていいじゃない "wikilink")**
+**[恋したっていいじゃない](../Page/恋したっていいじゃない.md "wikilink")**
 
   - Electronics and E. Guitar : 清水信之
   - E. Guitar : 佐橋佳幸
-  - Bass : [有賀啓雄](https://ja.wikipedia.org/wiki/有賀啓雄 "wikilink")
+  - Bass : [有賀啓雄](../Page/有賀啓雄.md "wikilink")
   - Background Vocals and Hand Clapping : [岡村“date”靖幸](../Page/岡村靖幸.md "wikilink"), 佐橋“date”佳幸 and “date”misato
 
 **さくらの花の咲くころに**
@@ -139,12 +139,12 @@
   - Electric, A. Piano and E. Guitar：清水信之
   - 12 Strings A. Guitar：佐橋佳幸
 
-**[Believe](https://ja.wikipedia.org/wiki/BELIEVE_\(渡辺美里の曲\) "wikilink") (Remix Version)**
+**[Believe](../Page/BELIEVE_\(渡辺美里の曲\).md "wikilink") (Remix Version)**
 
-  - E. Guitar : [松原正樹](https://ja.wikipedia.org/wiki/松原正樹 "wikilink")
+  - E. Guitar : [松原正樹](../Page/松原正樹.md "wikilink")
   - Keyboards : [西本明](https://ja.wikipedia.org/wiki/西本明 "wikilink")
   - Bass : 高水健司
-  - Drums : [山木秀夫](https://ja.wikipedia.org/wiki/山木秀夫 "wikilink")
+  - Drums : [山木秀夫](../Page/山木秀夫.md "wikilink")
   - Manipulator : 浦田恵司
   - Background Vocals : misato
 
@@ -156,7 +156,7 @@
   - Drums : 山木秀夫
   - Bass : 有賀啓雄
   - Manipulator : 松井隆雄, [石川鉄男](https://ja.wikipedia.org/wiki/石川鉄男 "wikilink")
-  - Background vocals : [arakawa shonen shojo gassho-tai](https://ja.wikipedia.org/wiki/東京荒川少年少女合唱隊 "wikilink"), misato and “shalala” no ojisan-tachi
+  - Background vocals : [arakawa shonen shojo gassho-tai](../Page/東京荒川少年少女合唱隊.md "wikilink"), misato and “shalala” no ojisan-tachi
 
 **[19才の秘かな欲望](../Page/Lovin'_you_\(渡辺美里のアルバム\).md "wikilink") (The Lover Soul Version)**
 
@@ -168,9 +168,9 @@
       - Bass : 井上哲也
       - Pretty Chorus Girl : 坂井“rie-chan”利衣, 岩本“gan-chan”章江
       - Trombone : 清岡太郎
-      - Sax : [本田雅人](https://ja.wikipedia.org/wiki/本田雅人 "wikilink")
+      - Sax : [本田雅人](../Page/本田雅人.md "wikilink")
   - Special Guest
-      - Trumpet : [数原晋](https://ja.wikipedia.org/wiki/数原晋 "wikilink")
+      - Trumpet : [数原晋](../Page/数原晋.md "wikilink")
 
 **彼女の彼**
 
@@ -179,7 +179,7 @@
   - Drums and Tambourine : 松本淳
   - Bass : 有賀啓雄
   - Manipulator and Synthesizer : 遠山“joker”淳
-  - Background Vocals : “ribbon”misato and [sahashi](https://ja.wikipedia.org/wiki/佐橋佳幸 "wikilink")
+  - Background Vocals : “ribbon”misato and [sahashi](../Page/佐橋佳幸.md "wikilink")
 
 **[ぼくでなくっちゃ](https://ja.wikipedia.org/wiki/センチメンタル_カンガルー "wikilink")**
 
@@ -194,8 +194,8 @@
   - Synthesizer : [小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
   - Manipulator : 迫田到
   - E. Guitar : 佐橋佳幸
-  - Drums : [青山純](https://ja.wikipedia.org/wiki/青山純 "wikilink")
-  - A. Sax : [中村哲](https://ja.wikipedia.org/wiki/中村哲_\(作曲家\) "wikilink")
+  - Drums : [青山純](../Page/青山純.md "wikilink")
+  - A. Sax : [中村哲](../Page/中村哲_\(作曲家\).md "wikilink")
   - Background Vocals : misato
 
 **[10 years](https://ja.wikipedia.org/wiki/君の弱さ/10_years "wikilink")**

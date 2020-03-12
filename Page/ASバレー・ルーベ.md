@@ -3,9 +3,9 @@
 
 [280px](https://ja.wikipedia.org/wiki/ファイル:Macerata_Coppa_Italia_2009.JPG "wikilink")
 
-**ASバレー・ルーベ**（Associazione Sportiva Volley Lube）は、[イタリア](../Page/イタリア.md "wikilink")・[トレイア](https://ja.wikipedia.org/wiki/トレイア "wikilink")を本拠地とする男子[バレーボール](https://ja.wikipedia.org/wiki/バレーボール "wikilink")クラブチーム。総称は**クチーネ・ルーベ・バンカ・マルケ・トレイア**（Cucine Lube Banca Marche Treia）\[1\]。通称は**トレイア**。
+**ASバレー・ルーベ**（Associazione Sportiva Volley Lube）は、[イタリア](../Page/イタリア.md "wikilink")・[トレイア](../Page/トレイア.md "wikilink")を本拠地とする男子[バレーボール](../Page/バレーボール.md "wikilink")クラブチーム。総称は**クチーネ・ルーベ・バンカ・マルケ・トレイア**（Cucine Lube Banca Marche Treia）\[1\]。通称は**トレイア**。
 
-[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")創設\[2\]。1993-94年にA2に昇格、1995-96年にA1に昇格した\[3\]。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に初のリーグチャンピオンに輝いた\[4\]。
+[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")創設\[2\]。1993-94年にA2に昇格、1995-96年にA1に昇格した\[3\]。[2006年](../Page/2006年.md "wikilink")に初のリーグチャンピオンに輝いた\[4\]。
 
 ## 名称
 
@@ -20,7 +20,7 @@
 
 ## 主な成績
 
-  - [Scudetto.svg](https://ja.wikipedia.org/wiki/File:Scudetto.svg "fig:Scudetto.svg") [セリエA](https://ja.wikipedia.org/wiki/セリエA_\(バレーボール\) "wikilink")（4）
+  - [Scudetto.svg](https://ja.wikipedia.org/wiki/File:Scudetto.svg "fig:Scudetto.svg") [セリエA](../Page/セリエA_\(バレーボール\).md "wikilink")（4）
 
 <!-- end list -->
 
@@ -44,7 +44,7 @@
 
 <!-- end list -->
 
-  - [Shield_of_the_European_Union.svg](https://ja.wikipedia.org/wiki/File:Shield_of_the_European_Union.svg "fig:Shield_of_the_European_Union.svg") [欧州チャンピオンズリーグ](https://ja.wikipedia.org/wiki/バレーボール欧州チャンピオンズリーグ "wikilink")（1）
+  - [Shield_of_the_European_Union.svg](https://ja.wikipedia.org/wiki/File:Shield_of_the_European_Union.svg "fig:Shield_of_the_European_Union.svg") [欧州チャンピオンズリーグ](../Page/バレーボール欧州チャンピオンズリーグ.md "wikilink")（1）
 
 <!-- end list -->
 
@@ -60,7 +60,7 @@
 
 ## 歴代監督
 
-  - [ラウル・ロサノ](https://ja.wikipedia.org/wiki/ラウル・ロサノ "wikilink")
+  - [ラウル・ロサノ](../Page/ラウル・ロサノ.md "wikilink")
 
   - [シルヴァーノ・プランディ](https://ja.wikipedia.org/wiki/シルヴァーノ・プランディ "wikilink")
 
@@ -74,9 +74,9 @@
 
   - [ロベルト・マッシァレッリ](https://ja.wikipedia.org/wiki/ロベルト・マッシァレッリ "wikilink")
 
-  - [マルコ・メオーニ](https://ja.wikipedia.org/wiki/マルコ・メオーニ "wikilink")
+  - [マルコ・メオーニ](../Page/マルコ・メオーニ.md "wikilink")
 
-  - [アレッサンドロ・フェイ](https://ja.wikipedia.org/wiki/アレッサンドロ・フェイ "wikilink")
+  - [アレッサンドロ・フェイ](../Page/アレッサンドロ・フェイ.md "wikilink")
 
   - [ルイジ・マストランジェロ](https://ja.wikipedia.org/wiki/ルイジ・マストランジェロ "wikilink")
 
@@ -88,15 +88,15 @@
 
   - [ジャコモ・シンティーニ](https://ja.wikipedia.org/wiki/ジャコモ・シンティーニ "wikilink")
 
-  - [ミルコ・コルサーノ](https://ja.wikipedia.org/wiki/ミルコ・コルサーノ "wikilink")
+  - [ミルコ・コルサーノ](../Page/ミルコ・コルサーノ.md "wikilink")
 
-  - [バレリオ・ベルミリオ](https://ja.wikipedia.org/wiki/バレリオ・ベルミリオ "wikilink")
+  - [バレリオ・ベルミリオ](../Page/バレリオ・ベルミリオ.md "wikilink")
 
   - [マッテオ・マルティーノ](https://ja.wikipedia.org/wiki/マッテオ・マルティーノ "wikilink")
 
   - [アンドレア・バルトレッティ](https://ja.wikipedia.org/wiki/アンドレア・バルトレッティ "wikilink")
 
-  - [アルベルト・チゾーラ](https://ja.wikipedia.org/wiki/アルベルト・チゾーラ "wikilink")
+  - [アルベルト・チゾーラ](../Page/アルベルト・チゾーラ.md "wikilink")
 
   - [ドラガン・トラヴィツァ](https://ja.wikipedia.org/wiki/ドラガン・トラヴィツァ "wikilink")
 
@@ -112,9 +112,9 @@
 
   - [スロボダン・コバチ](https://ja.wikipedia.org/wiki/スロボダン・コバチ "wikilink")
 
-  - [イヴァン・ミリュコビッチ](https://ja.wikipedia.org/wiki/イバン・ミリュコビッチ "wikilink")
+  - [イヴァン・ミリュコビッチ](../Page/イバン・ミリュコビッチ.md "wikilink")
 
-  - [アンドリヤ・ゲリッチ](https://ja.wikipedia.org/wiki/アンドリヤ・ゲリッチ "wikilink")
+  - [アンドリヤ・ゲリッチ](../Page/アンドリヤ・ゲリッチ.md "wikilink")
 
   - [マルコ・ポドラシュチャニン](https://ja.wikipedia.org/wiki/マルコ・ポドラシュチャニン "wikilink")
 

@@ -1,11 +1,11 @@
 > この記事は[SK](https://ja.wikipedia.org/wiki/SK)から翻訳されています。
 
 
-**ソウルSKナイツ**（韓国語: SK 、英語:Seoul SK Knights）は、[大韓民国](https://ja.wikipedia.org/wiki/大韓民国 "wikilink")・[ソウル特別市](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")に本拠地を置いている プロ[バスケットボール](../Page/バスケットボール.md "wikilink")チームである。スポンサーは[SKグループ](https://ja.wikipedia.org/wiki/SKグループ "wikilink")。
+**ソウルSKナイツ**（韓国語: SK 、英語:Seoul SK Knights）は、[大韓民国](../Page/大韓民国.md "wikilink")・[ソウル特別市](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")に本拠地を置いている プロ[バスケットボール](../Page/バスケットボール.md "wikilink")チームである。スポンサーは[SKグループ](../Page/SKグループ.md "wikilink")。
 
 ## 歴史
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、[忠清北道](../Page/忠清北道.md "wikilink")[清州市](https://ja.wikipedia.org/wiki/清州市 "wikilink")を本拠地とする**清州SKナイツ**として[韓国プロバスケットボールに加盟](https://ja.wikipedia.org/wiki/韓国バスケットボールリーグ "wikilink")。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、[忠清北道](../Page/忠清北道.md "wikilink")[清州市](https://ja.wikipedia.org/wiki/清州市 "wikilink")を本拠地とする**清州SKナイツ**として[韓国プロバスケットボールに加盟](../Page/韓国バスケットボールリーグ.md "wikilink")。
 
 1999-2000シーズン初優勝。
 

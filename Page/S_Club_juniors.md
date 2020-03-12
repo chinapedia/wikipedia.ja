@@ -1,7 +1,7 @@
 > この記事は[S Club juniors](https://ja.wikipedia.org/wiki/S_Club_juniors)から翻訳されています。
 
 
-**S Club Juniors**（エス・クラブ・ジュニア）は、かつて存在した[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")のダンス[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")グループ。[S Club 7からの](https://ja.wikipedia.org/wiki/S_Club_7 "wikilink")[スピンオフ](https://ja.wikipedia.org/wiki/スピンオフ "wikilink")により結成。後に**S Club 8**（エス・クラブ・エイト）に改名して活動していた。
+**S Club Juniors**（エス・クラブ・ジュニア）は、かつて存在した[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")のダンス[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")グループ。[S Club 7からの](../Page/S_Club_7.md "wikilink")[スピンオフ](../Page/スピンオフ.md "wikilink")により結成。後に**S Club 8**（エス・クラブ・エイト）に改名して活動していた。
 
 テレビシリーズ『S Club Search』（2001年）にて、何千人もの応募者から選ばれたグループのメンバー（Jay Asforis, Stacey McClean, Aaron Renfree, Frankie Sandford, Rochelle Wiseman, Hannah Richings, Daisy Evans and Calvin Goldspink）は、当時皆10代前半かそれ以下だった。
 
@@ -15,7 +15,7 @@
 
   - Daisy Evans
       -
-        Musical Juniorというあだ名を持つ、おしゃれ好きな金髪の女の子。ブリトニー・スピアーズにそっくりな声を持つ。S Club 8解散後は、Score Angelというフットボールのチアグループに所属し、From Aboveという女性ボーカルグループにも所属。5度のメンバーチェンジの後、From Aboveはアメリカ進出を目指して、[ビヨンセ](https://ja.wikipedia.org/wiki/ビヨンセ "wikilink")の父と契約した。
+        Musical Juniorというあだ名を持つ、おしゃれ好きな金髪の女の子。ブリトニー・スピアーズにそっくりな声を持つ。S Club 8解散後は、Score Angelというフットボールのチアグループに所属し、From Aboveという女性ボーカルグループにも所属。5度のメンバーチェンジの後、From Aboveはアメリカ進出を目指して、[ビヨンセ](../Page/ビヨンセ.md "wikilink")の父と契約した。
 
 <!-- end list -->
 
@@ -27,7 +27,7 @@
 
   - Frankie Sandford
       -
-        Stylish Juniorというあだ名通り、クールでおしゃれな少女。深い声の持ち主で、メンバーの中で一番人気だった。解散後は学校生活をおくった。2008年に[ポリドール・レコード](https://ja.wikipedia.org/wiki/ポリドール・レコード "wikilink")と契約、再びRochelleと[The Saturdaysというグループを結成](https://ja.wikipedia.org/wiki/The_Saturdays "wikilink")。
+        Stylish Juniorというあだ名通り、クールでおしゃれな少女。深い声の持ち主で、メンバーの中で一番人気だった。解散後は学校生活をおくった。2008年に[ポリドール・レコード](../Page/ポリドール・レコード.md "wikilink")と契約、再びRochelleと[The Saturdaysというグループを結成](https://ja.wikipedia.org/wiki/The_Saturdays "wikilink")。
 
 <!-- end list -->
 
@@ -168,7 +168,7 @@
 
   - Calvinは、女子メンバーと付き合ったことはない。また、今でもみんなと連絡を取り合っている。
   - Daisyはグループの中で、自他共に認める最高のダンサーである。
-  - Aaronは『[ハイスクール・ミュージカル](https://ja.wikipedia.org/wiki/ハイスクール・ミュージカル "wikilink")2』のイギリスプレミアで、ダンサーとしてパフォーマンスした。
+  - Aaronは『[ハイスクール・ミュージカル](../Page/ハイスクール・ミュージカル.md "wikilink")2』のイギリスプレミアで、ダンサーとしてパフォーマンスした。
   - Frankieは[ロック・フェスティバル](../Page/ロック・フェスティバル.md "wikilink")が好きで、ギターが弾ける。
   - Rochelleは買い物マニアで、雨の日が嫌い。
   - Staceyの親友はお母さん。また、空手を習っている幼い弟がいる。

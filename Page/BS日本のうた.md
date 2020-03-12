@@ -1,13 +1,13 @@
 > この記事は[BS](https://ja.wikipedia.org/wiki/BS)から翻訳されています。
 
 
-『**BS日本のうた**』（ビーエスにっぽん- ）は、[BSプレミアム](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")\[1\]・[NHKワールド・プレミアム](https://ja.wikipedia.org/wiki/NHKワールド・プレミアム "wikilink")（海外向け）にて放送されていた公開[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")である。
+『**BS日本のうた**』（ビーエスにっぽん- ）は、[BSプレミアム](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")\[1\]・[NHKワールド・プレミアム](https://ja.wikipedia.org/wiki/NHKワールド・プレミアム "wikilink")（海外向け）にて放送されていた公開[音楽番組](../Page/音楽番組.md "wikilink")である。
 
 ## 概要
 
-元々[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に企画された「**BS20世紀日本のうた**」という[視聴者](https://ja.wikipedia.org/wiki/視聴者 "wikilink")参加投票形式の音楽番組が月1回（4日間程度）放送されたのが原点とされ、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")から定時のレギュラー放送となった。
+元々[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に企画された「**BS20世紀日本のうた**」という[視聴者](../Page/視聴者.md "wikilink")参加投票形式の音楽番組が月1回（4日間程度）放送されたのが原点とされ、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")から定時のレギュラー放送となった。
 
-当初は[NHK放送センター](../Page/NHK放送センター.md "wikilink")の公開スタジオ、または[NHKホール](https://ja.wikipedia.org/wiki/NHKホール "wikilink")からの[公開収録](https://ja.wikipedia.org/wiki/公開収録 "wikilink")であったが、2011年現在では全国各地のNHK公開スタジオ（NHKホール、[NHK大阪ホール](../Page/NHK大阪ホール.md "wikilink")など）、および各地の音楽ホールなどを会場にした公開収録によるステージショーとなっていた。毎回何らかのテーマを設定して放送する。また、[収録](https://ja.wikipedia.org/wiki/収録 "wikilink")を行った地域の歌が取り上げられることもあるが、収録地の[中学校](../Page/中学校.md "wikilink")・[高校の合唱部が](https://ja.wikipedia.org/wiki/高等学校 "wikilink")[エキストラ](https://ja.wikipedia.org/wiki/エキストラ "wikilink")として（いわゆるガヤ枠）出演した。
+当初は[NHK放送センター](../Page/NHK放送センター.md "wikilink")の公開スタジオ、または[NHKホール](../Page/NHKホール.md "wikilink")からの[公開収録](https://ja.wikipedia.org/wiki/公開収録 "wikilink")であったが、2011年現在では全国各地のNHK公開スタジオ（NHKホール、[NHK大阪ホール](../Page/NHK大阪ホール.md "wikilink")など）、および各地の音楽ホールなどを会場にした公開収録によるステージショーとなっていた。毎回何らかのテーマを設定して放送する。また、[収録](../Page/収録.md "wikilink")を行った地域の歌が取り上げられることもあるが、収録地の[中学校](../Page/中学校.md "wikilink")・[高校の合唱部が](https://ja.wikipedia.org/wiki/高等学校 "wikilink")[エキストラ](../Page/エキストラ.md "wikilink")として（いわゆるガヤ枠）出演した。
 
 [字幕放送](https://ja.wikipedia.org/wiki/字幕放送 "wikilink")は2013年4月7日放送分から開始された。[2015年](../Page/2015年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")に放送された回を最後として一旦終了し、[4月12日](../Page/4月12日.md "wikilink")から「**[新・BS日本のうた](https://ja.wikipedia.org/wiki/新・BS日本のうた "wikilink")**」としてリニューアルされた。
 
@@ -16,12 +16,12 @@
 いずれもNHKの男性アナウンサーが務めた。宮本のみ現在フリー、他は現職。
 
   - 1998年4月 - 2002年3月：[阿部渉](../Page/阿部渉.md "wikilink")
-  - 2002年4月 - 2005年3月：[宮本隆治](https://ja.wikipedia.org/wiki/宮本隆治 "wikilink")
-  - 2005年4月 - 2008年3月：[塩屋紀克](https://ja.wikipedia.org/wiki/塩屋紀克 "wikilink")
+  - 2002年4月 - 2005年3月：[宮本隆治](../Page/宮本隆治.md "wikilink")
+  - 2005年4月 - 2008年3月：[塩屋紀克](../Page/塩屋紀克.md "wikilink")
   - 2008年4月 - 2010年3月：[山田康弘](https://ja.wikipedia.org/wiki/山田康弘 "wikilink")
-  - 2010年4月 - 2012年3月：[小松宏司](https://ja.wikipedia.org/wiki/小松宏司 "wikilink")
-  - 2012年4月 - 2014年3月：[青井実](https://ja.wikipedia.org/wiki/青井実 "wikilink")
-  - 2014年4月 - 2015年3月：[吉田一貴](https://ja.wikipedia.org/wiki/吉田一貴 "wikilink")
+  - 2010年4月 - 2012年3月：[小松宏司](../Page/小松宏司.md "wikilink")
+  - 2012年4月 - 2014年3月：[青井実](../Page/青井実.md "wikilink")
+  - 2014年4月 - 2015年3月：[吉田一貴](../Page/吉田一貴.md "wikilink")
 
 ## 放送時間
 
@@ -41,7 +41,7 @@
 
   - 日曜 16:10 - 17:38
 
-その他、CS放送[チャンネル銀河](https://ja.wikipedia.org/wiki/チャンネル銀河 "wikilink")では過去の放送分の再放送を行う。
+その他、CS放送[チャンネル銀河](../Page/チャンネル銀河.md "wikilink")では過去の放送分の再放送を行う。
 
 ## 主なコーナー
 
@@ -77,4 +77,4 @@
 
 [Category:NHK_BSプレミアムの番組](https://ja.wikipedia.org/wiki/Category:NHK_BSプレミアムの番組 "wikilink") [Category:NHK_BSの音楽番組](https://ja.wikipedia.org/wiki/Category:NHK_BSの音楽番組 "wikilink") [Category:1998年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1998年のテレビ番組_\(日本\) "wikilink") [Category:NHK東日本大震災プロジェクト](https://ja.wikipedia.org/wiki/Category:NHK東日本大震災プロジェクト "wikilink")
 
-1.  2010年度までは、[NHK衛星第2テレビ](https://ja.wikipedia.org/wiki/NHK衛星第2テレビ "wikilink")と[NHKデジタル衛星ハイビジョン](https://ja.wikipedia.org/wiki/NHKデジタル衛星ハイビジョン "wikilink")。
+1.  2010年度までは、[NHK衛星第2テレビ](https://ja.wikipedia.org/wiki/NHK衛星第2テレビ "wikilink")と[NHKデジタル衛星ハイビジョン](../Page/NHKデジタル衛星ハイビジョン.md "wikilink")。

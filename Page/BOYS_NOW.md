@@ -14,10 +14,10 @@
     元[snotty](https://ja.wikipedia.org/wiki/snotty "wikilink")のメンバー。
   - チン中村
     ギター、[コーラス担当](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。
-    元[SNAIL RAMP](https://ja.wikipedia.org/wiki/SNAIL_RAMP "wikilink")、元[young punch](https://ja.wikipedia.org/wiki/young_punch "wikilink")、元snotty、元Derangements、[銀杏BOYZ](https://ja.wikipedia.org/wiki/銀杏BOYZ "wikilink")、敏感少年隊のメンバー。
+    元[SNAIL RAMP](../Page/SNAIL_RAMP.md "wikilink")、元[young punch](https://ja.wikipedia.org/wiki/young_punch "wikilink")、元snotty、元Derangements、[銀杏BOYZ](https://ja.wikipedia.org/wiki/銀杏BOYZ "wikilink")、敏感少年隊のメンバー。
   - 岡亨
-    [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、コーラス担当。
-    元[BREAKfAST](https://ja.wikipedia.org/wiki/BREAKfAST "wikilink")、NERVS、JOHNS TOWN ALOHAのメンバー。
+    [ベース](../Page/ベース_\(弦楽器\).md "wikilink")、コーラス担当。
+    元[BREAKfAST](../Page/BREAKfAST.md "wikilink")、NERVS、JOHNS TOWN ALOHAのメンバー。
   - TSUN2
     [ドラムス](../Page/ドラムセット.md "wikilink")、コーラス担当。
     元[FRUITY](https://ja.wikipedia.org/wiki/FRUITY "wikilink")、元TWINKLE、SUGARHILL DOWNTOWN ORCHESTRAのメンバー。

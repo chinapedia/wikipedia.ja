@@ -1,7 +1,7 @@
 > この記事は[FIBA](https://ja.wikipedia.org/wiki/FIBA)から翻訳されています。
 
 
-**FIBAアジアチャンピオンズカップ**（**FIBA Asia Champions Cup**）は、[FIBAアジア](https://ja.wikipedia.org/wiki/FIBAアジア "wikilink")主催で毎年開催される男子[バスケットボール](../Page/バスケットボール.md "wikilink")の国際大会である。
+**FIBAアジアチャンピオンズカップ**（**FIBA Asia Champions Cup**）は、[FIBAアジア](../Page/FIBAアジア.md "wikilink")主催で毎年開催される男子[バスケットボール](../Page/バスケットボール.md "wikilink")の国際大会である。
 
 ## 歴史
 
@@ -39,7 +39,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/香港" title="wikilink">香港</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/八一ロケッツ" title="wikilink">八一ロケッツ</a>（1）</strong></p></td>
 <td><p><strong>98</strong>-53</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NKKシーホークス" title="wikilink">日本鋼管</a></p></td>
+<td><p><a href="../Page/NKKシーホークス.md" title="wikilink">日本鋼管</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Manila_Industrial_and_Commercial_Athletic_Association" title="wikilink">Apcor</a></p></td>
 </tr>
 <tr class="odd">
@@ -66,14 +66,14 @@
 <td><p><a href="../Page/ジャカルタ.md" title="wikilink">ジャカルタ</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/遼寧ハンターズ" title="wikilink">遼寧ハンターズ</a>（1）</strong></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/韓国銀行" title="wikilink">韓国銀行</a></p></td>
+<td><p><a href="../Page/韓国銀行.md" title="wikilink">韓国銀行</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Kazma_Club" title="wikilink">Kazma Club</a></p></td>
 </tr>
 <tr class="even">
 <td><p>5</p></td>
 <td><p>1992</p></td>
 <td><p><a href="../Page/バンコク.md" title="wikilink">バンコク</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/蔚山モービスフィバス" title="wikilink">起亜自動車</a>（1）</strong></p></td>
+<td><p><strong><a href="../Page/蔚山モービスフィバス.md" title="wikilink">起亜自動車</a>（1）</strong></p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/遼寧ハンターズ" title="wikilink">遼寧ハンターズ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Kazma_Club" title="wikilink">Kazma Club</a></p></td>
@@ -85,7 +85,7 @@
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Philippine_Basketball_League" title="wikilink">PBL-Andok's</a>（1）</strong></p></td>
 <td><p><strong>107</strong>-82</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Petronas_(basketball_team)" title="wikilink">Petronas</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/蔚山モービスフィバス" title="wikilink">起亜自動車</a></p></td>
+<td><p><a href="../Page/蔚山モービスフィバス.md" title="wikilink">起亜自動車</a></p></td>
 </tr>
 <tr class="even">
 <td><p>7</p></td>
@@ -93,7 +93,7 @@
 <td><p><a href="../Page/マニラ.md" title="wikilink">マニラ</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Philippine_Basketball_League" title="wikilink">Hapee Toothpaste</a>（1）</strong></p></td>
 <td><p><strong>77</strong>-74</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/横浜ギガスピリッツ" title="wikilink">いすゞ自動車</a></p></td>
+<td><p><a href="../Page/横浜ギガスピリッツ.md" title="wikilink">いすゞ自動車</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/広東サザンタイガース" title="wikilink">広東サザンタイガース</a></p></td>
 </tr>
 <tr class="odd">
@@ -102,7 +102,7 @@
 <td><p><a href="../Page/ジャカルタ.md" title="wikilink">ジャカルタ</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Regal_(basketball_team)" title="wikilink">Regal</a>（1）</strong></p></td>
 <td><p><strong>64</strong>-59</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/蔚山モービスフィバス" title="wikilink">起亜自動車</a></p></td>
+<td><p><a href="../Page/蔚山モービスフィバス.md" title="wikilink">起亜自動車</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Aspac" title="wikilink">Aspac</a></p></td>
 </tr>
 <tr class="even">
@@ -129,14 +129,14 @@
 <td><p><a href="../Page/ベイルート.md" title="wikilink">ベイルート</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Al_Hikmeh_Sagesse" title="wikilink">Al Hikmeh Sagesse</a>（2）</strong></p></td>
 <td><p><strong>55</strong>-52</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アル・イテハド" title="wikilink">アル・イテハド</a></p></td>
+<td><p><a href="../Page/アル・イテハド.md" title="wikilink">アル・イテハド</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アル・マナーマ" title="wikilink">アル・マナーマ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>12</p></td>
 <td><p>2001</p></td>
 <td><p><a href="../Page/ドバイ.md" title="wikilink">ドバイ</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/アル・イテハド" title="wikilink">アル・イテハド</a>（1）</strong></p></td>
+<td><p><strong><a href="../Page/アル・イテハド.md" title="wikilink">アル・イテハド</a>（1）</strong></p></td>
 <td><p><strong>103</strong>-101<br />
 <a href="../Page/延長戦.md" title="wikilink">OT</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アル・ラーヤンSC" title="wikilink">アル・ラーヤンSC</a></p></td>
@@ -148,7 +148,7 @@
 <td><p><a href="../Page/クアラルンプール.md" title="wikilink">クアラルンプール</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/アル・ラーヤンSC" title="wikilink">アル・ラーヤンSC</a>（1）</strong></p></td>
 <td><p><strong>92</strong>-78</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アル・イテハド" title="wikilink">アル・イテハド</a></p></td>
+<td><p><a href="../Page/アル・イテハド.md" title="wikilink">アル・イテハド</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Al-Wahda_(Damascus)" title="wikilink">Al-Wahda</a></p></td>
 </tr>
 <tr class="odd">
@@ -163,7 +163,7 @@
 <tr class="even">
 <td><p>15</p></td>
 <td><p>2004</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シャールジャ" title="wikilink">シャールジャ</a></p></td>
+<td><p><a href="../Page/シャールジャ.md" title="wikilink">シャールジャ</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Al_Hikmeh_Sagesse" title="wikilink">Al Hikmeh Sagesse</a>（3）</strong></p></td>
 <td><p><strong>72</strong>-70</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Al-Wahda_(Damascus)" title="wikilink">Al-Wahda</a></p></td>
@@ -181,7 +181,7 @@
 <tr class="even">
 <td><p>17</p></td>
 <td><p>2006</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クウェート市" title="wikilink">クウェートシティ</a></p></td>
+<td><p><a href="../Page/クウェート市.md" title="wikilink">クウェートシティ</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Fastlink" title="wikilink">Fastlink</a>（1）</strong></p></td>
 <td><p><strong>102</strong>-64</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Al_Jalaa" title="wikilink">Al Jalaa</a></p></td>
@@ -199,7 +199,7 @@
 <tr class="even">
 <td><p>19</p></td>
 <td><p>2008</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クウェート市" title="wikilink">クウェートシティ</a></p></td>
+<td><p><a href="../Page/クウェート市.md" title="wikilink">クウェートシティ</a></p></td>
 <td><p><strong> <a href="https://ja.wikipedia.org/wiki/サバ・バッテリー・テヘランBC" title="wikilink">サバ・バッテリー</a>（2）</strong></p></td>
 <td><p><strong>82</strong>-75</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アル・ラーヤンSC" title="wikilink">アル・ラーヤンSC</a></p></td>
@@ -217,7 +217,7 @@
 <tr class="even">
 <td><p>21</p></td>
 <td><p>2010</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ドーハ" title="wikilink">ドーハ</a></p></td>
+<td><p><a href="../Page/ドーハ.md" title="wikilink">ドーハ</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/w:Mahram_Tehran" title="wikilink">Mahram Tehran</a>（2）</strong></p></td>
 <td><p><strong>93</strong>-73</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アル・ラーヤンSC" title="wikilink">アル・ラーヤンSC</a></p></td>
@@ -226,7 +226,7 @@
 <tr class="odd">
 <td><p>22</p></td>
 <td><p>2011</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/パシッグ" title="wikilink">パシッグ</a></p></td>
+<td><p><a href="../Page/パシッグ.md" title="wikilink">パシッグ</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/w:Al-Riyadi_Beirut" title="wikilink">Al-Riyadi Beirut</a>（1）</strong></p></td>
 <td><p><strong>93</strong>-73</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/w:Mahram_Tehran" title="wikilink">Mahram Tehran</a></p></td>
@@ -245,7 +245,7 @@
 <tr class="odd">
 <td><p>24</p></td>
 <td><p>2013</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アンマン" title="wikilink">アンマン</a></p></td>
+<td><p><a href="../Page/アンマン.md" title="wikilink">アンマン</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/w:Foolad_Mahan_Isfahan_BC" title="wikilink">Foolad Mahan Isfahan BC</a>（1）</strong></p></td>
 <td><p><strong>84</strong>-74</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/w:アル・ラーヤンSC" title="wikilink">アル・ラーヤンSC</a></p></td>
@@ -254,7 +254,7 @@
 <tr class="even">
 <td><p>25</p></td>
 <td><p>2016</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/湖南省" title="wikilink">湖南省</a><a href="https://ja.wikipedia.org/wiki/郴州市" title="wikilink">郴州</a></p></td>
+<td><p><a href="../Page/湖南省.md" title="wikilink">湖南省</a><a href="https://ja.wikipedia.org/wiki/郴州市" title="wikilink">郴州</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/新疆広匯飛虎倶楽部" title="wikilink">新疆フライングタイガース</a>（1）</strong></p></td>
 <td><p><strong>96</strong>-88</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/w:Al-Riyadi_Beirut" title="wikilink">Al-Riyadi Beirut</a></p></td>
@@ -263,7 +263,7 @@
 <tr class="odd">
 <td><p>26</p></td>
 <td><p>2017</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/湖南省" title="wikilink">湖南省</a><a href="https://ja.wikipedia.org/wiki/郴州市" title="wikilink">郴州</a></p></td>
+<td><p><a href="../Page/湖南省.md" title="wikilink">湖南省</a><a href="https://ja.wikipedia.org/wiki/郴州市" title="wikilink">郴州</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/w:Al-Riyadi_Beirut" title="wikilink">Al-Riyadi Beirut</a>（2）</strong></p></td>
 <td><p><strong>88</strong>-59</p></td>
 <td><p>'''<a href="https://ja.wikipedia.org/wiki/新疆広匯飛虎倶楽部" title="wikilink">新疆フライングタイガース</a></p></td>
@@ -275,14 +275,14 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ノンタブリー" title="wikilink">ノンタブリー</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/w:Petrochimi_Bandar_Imam_BC" title="wikilink">Petrochimi Bandar Imam BC</a>（1）</strong></p></td>
 <td><p><strong>68</strong>-64</p></td>
-<td><p>'''<a href="https://ja.wikipedia.org/wiki/アルバルク東京" title="wikilink">アルバルク東京</a></p></td>
+<td><p>'''<a href="../Page/アルバルク東京.md" title="wikilink">アルバルク東京</a></p></td>
 <td><p><a href="../Page/ソウルSKナイツ.md" title="wikilink">ソウルSKナイツ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>28</p></td>
 <td><p>2019</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ノンタブリー" title="wikilink">ノンタブリー</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/アルバルク東京" title="wikilink">アルバルク東京</a>（1）</strong></p></td>
+<td><p><strong><a href="../Page/アルバルク東京.md" title="wikilink">アルバルク東京</a>（1）</strong></p></td>
 <td><p><strong>98</strong>-74</p></td>
 <td><p>'''<a href="https://ja.wikipedia.org/wiki/w:Al-Riyadi_Beirut" title="wikilink">Al-Riyadi Beirut</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/w:Palayesh_Naft_Abadan" title="wikilink">Palayesh Naft Abadan BC</a></p></td>
@@ -294,9 +294,9 @@
 
 ## 関連項目
 
-  - [FIBA男子アジアカップ](https://ja.wikipedia.org/wiki/FIBA男子アジアカップ "wikilink")（ナショナルチームの大会）
+  - [FIBA男子アジアカップ](../Page/FIBA男子アジアカップ.md "wikilink")（ナショナルチームの大会）
   - [アジアリーグリミテッド](https://ja.wikipedia.org/wiki/アジアリーグリミテッド "wikilink")
-  - [アジアバスケットボールリーグ](https://ja.wikipedia.org/wiki/アジアバスケットボールリーグ "wikilink")（アジアバスケットボール協会主催の大会）
+  - [アジアバスケットボールリーグ](../Page/アジアバスケットボールリーグ.md "wikilink")（アジアバスケットボール協会主催の大会）
 
 ## 外部リンク
 

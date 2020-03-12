@@ -21,6 +21,6 @@
   - 臣: Guitar
   - 人時: Bass
   - 松山一志: Drums
-  - [佐久間正英](https://ja.wikipedia.org/wiki/佐久間正英 "wikilink"): Additional keyboards & guitar (M-4)
+  - [佐久間正英](../Page/佐久間正英.md "wikilink"): Additional keyboards & guitar (M-4)
 
 [Category:黒夢のミニ・アルバム](https://ja.wikipedia.org/wiki/Category:黒夢のミニ・アルバム "wikilink") [Category:イーストワールドのアルバム](https://ja.wikipedia.org/wiki/Category:イーストワールドのアルバム "wikilink") [Category:1994年のミニ・アルバム](https://ja.wikipedia.org/wiki/Category:1994年のミニ・アルバム "wikilink")

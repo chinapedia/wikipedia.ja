@@ -1,17 +1,17 @@
 > この記事は[ID3](https://ja.wikipedia.org/wiki/ID3)から翻訳されています。
 
 
-**ID3**\[1\]は汎用目的で設計された[教師あり学習](https://ja.wikipedia.org/wiki/教師あり学習 "wikilink")[アルゴリズム](../Page/アルゴリズム.md "wikilink")の一種である。その学習効率の高さと出力が決定的であることなどから、[エキスパートシステム](https://ja.wikipedia.org/wiki/エキスパートシステム "wikilink")の知識獲得部分にしばしば用いられる。
+**ID3**\[1\]は汎用目的で設計された[教師あり学習](https://ja.wikipedia.org/wiki/教師あり学習 "wikilink")[アルゴリズム](../Page/アルゴリズム.md "wikilink")の一種である。その学習効率の高さと出力が決定的であることなどから、[エキスパートシステム](../Page/エキスパートシステム.md "wikilink")の知識獲得部分にしばしば用いられる。
 
 ## 概要
 
-ID3（Iterative Dichotomiser 3）は[1979年](../Page/1979年.md "wikilink")に[ジョン・ロス・キンラン](https://ja.wikipedia.org/wiki/ジョン・ロス・キンラン "wikilink")（John Ross Quinlan）により提案された。その学習方法は[オッカムの剃刀](../Page/オッカムの剃刀.md "wikilink")の原理に基づいている。すなわち最低限の仮説による事象の決定を行う。出力は[決定木](https://ja.wikipedia.org/wiki/決定木 "wikilink")の形で表される。
+ID3（Iterative Dichotomiser 3）は[1979年](../Page/1979年.md "wikilink")に[ジョン・ロス・キンラン](https://ja.wikipedia.org/wiki/ジョン・ロス・キンラン "wikilink")（John Ross Quinlan）により提案された。その学習方法は[オッカムの剃刀](../Page/オッカムの剃刀.md "wikilink")の原理に基づいている。すなわち最低限の仮説による事象の決定を行う。出力は[決定木](../Page/決定木.md "wikilink")の形で表される。
 
-この方法は各独立変数に対し変数の値を決定した場合における[平均情報量の](https://ja.wikipedia.org/wiki/情報量#平均情報量（エントロピー） "wikilink")[期待値](../Page/期待値.md "wikilink")を求め、その中で最大のものを選びそれを木のノードにする操作を[再帰](../Page/再帰.md "wikilink")的に行うことで[実装](https://ja.wikipedia.org/wiki/実装 "wikilink")される。
+この方法は各独立変数に対し変数の値を決定した場合における[平均情報量の](https://ja.wikipedia.org/wiki/情報量#平均情報量（エントロピー） "wikilink")[期待値](../Page/期待値.md "wikilink")を求め、その中で最大のものを選びそれを木のノードにする操作を[再帰](../Page/再帰.md "wikilink")的に行うことで[実装](../Page/実装.md "wikilink")される。
 
 学習効率が良く、多数の例題から学習することが出来るが、「例題を一括に処理する必要があり学習結果の逐次的な改善が行えない」、「入力変数が連続値を取る場合は利用できない」などといった問題点も指摘されている。
 
-提案者のキンランは ID3 の拡張として[C4.5](https://ja.wikipedia.org/wiki/C4.5 "wikilink")と呼ばれるアルゴリズムを新たに提案しており、これは入力にあるノイズに対応することができる\[2\]。
+提案者のキンランは ID3 の拡張として[C4.5](../Page/C4.5.md "wikilink")と呼ばれるアルゴリズムを新たに提案しており、これは入力にあるノイズに対応することができる\[2\]。
 
 ## アルゴリズムの流れ
 

@@ -1,25 +1,25 @@
 > この記事は[Microsoft Windows Installer](https://ja.wikipedia.org/wiki/Microsoft_Windows_Installer)から翻訳されています。
 
 
-[Windows Me](../Page/Microsoft_Windows_Millennium_Edition.md "wikilink"){{-}}[Windows XP](../Page/Microsoft_Windows_XP.md "wikilink"){{-}}[Windows Server 2003](../Page/Microsoft_Windows_Server_2003.md "wikilink"){{-}}[Windows Vista](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink"){{-}}[Windows Server 2008](https://ja.wikipedia.org/wiki/Microsoft_Windows_Server_2008 "wikilink"){{-}}[Windows 7](https://ja.wikipedia.org/wiki/Microsoft_Windows_7 "wikilink"){{-}}[Windows Server 2008 R2](https://ja.wikipedia.org/wiki/Microsoft_Windows_Server_2008#Windows_Server_2008_R2 "wikilink") | also_available_for = [Windows 95](../Page/Microsoft_Windows_95.md "wikilink"){{-}}[Windows 98](../Page/Microsoft_Windows_98.md "wikilink"){{-}}[Windows NT 4.0](../Page/Microsoft_Windows_NT.md "wikilink") | related_components = }}
+[Windows Me](../Page/Microsoft_Windows_Millennium_Edition.md "wikilink"){{-}}[Windows XP](../Page/Microsoft_Windows_XP.md "wikilink"){{-}}[Windows Server 2003](../Page/Microsoft_Windows_Server_2003.md "wikilink"){{-}}[Windows Vista](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink"){{-}}[Windows Server 2008](../Page/Microsoft_Windows_Server_2008.md "wikilink"){{-}}[Windows 7](../Page/Microsoft_Windows_7.md "wikilink"){{-}}[Windows Server 2008 R2](https://ja.wikipedia.org/wiki/Microsoft_Windows_Server_2008#Windows_Server_2008_R2 "wikilink") | also_available_for = [Windows 95](../Page/Microsoft_Windows_95.md "wikilink"){{-}}[Windows 98](../Page/Microsoft_Windows_98.md "wikilink"){{-}}[Windows NT 4.0](../Page/Microsoft_Windows_NT.md "wikilink") | related_components = }}
 
-**Windows Installer**は、[Windowsで](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")の[インストール](../Page/インストール.md "wikilink")・メンテナンス・削除を行うエンジンである。[コードネーム](../Page/コードネーム.md "wikilink")は**Darwin**。以前は**Microsoft Installer**と呼ばれていた。**インストールパッケージ** (installation package) には、インストール処理に関する情報とインストールされるファイルとがパッケージングされている。インストールパッケージのデフォルトのファイル[拡張子](../Page/拡張子.md "wikilink")が"MSI"であることから**MSIファイル**とも呼ばれる。インストールパッケージは内部的には数十個のリレーショナルデータベースのテーブルからなる[OLE構造化ストレージファイル](https://ja.wikipedia.org/wiki/OLE構造化ストレージファイル "wikilink")である\[1\]。Windows Installerには以前の[Setup APIと比較して多くの改善点が見られる](https://ja.wikipedia.org/wiki/Setup_API "wikilink")。例えば、[GUI](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")[フレームワーク](https://ja.wikipedia.org/wiki/フレームワーク "wikilink")、アンインストールシーケンスの自動生成、デプロイメント機能の強化、Windows Installerを他の実行可能形式のインストーラフレームワーク（[InstallShield](https://ja.wikipedia.org/wiki/InstallShield "wikilink")、[WISE](https://ja.wikipedia.org/wiki/Wise_Solutions,_Inc. "wikilink")（後のバージョンは Windows Installerベースになっている）、[NSISなど](https://ja.wikipedia.org/wiki/Nullsoft_Scriptable_Install_System "wikilink")）と置き換えられるようにしたこと、等が挙げられる。
+**Windows Installer**は、[Windowsで](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")の[インストール](../Page/インストール.md "wikilink")・メンテナンス・削除を行うエンジンである。[コードネーム](../Page/コードネーム.md "wikilink")は**Darwin**。以前は**Microsoft Installer**と呼ばれていた。**インストールパッケージ** (installation package) には、インストール処理に関する情報とインストールされるファイルとがパッケージングされている。インストールパッケージのデフォルトのファイル[拡張子](../Page/拡張子.md "wikilink")が"MSI"であることから**MSIファイル**とも呼ばれる。インストールパッケージは内部的には数十個のリレーショナルデータベースのテーブルからなる[OLE構造化ストレージファイル](https://ja.wikipedia.org/wiki/OLE構造化ストレージファイル "wikilink")である\[1\]。Windows Installerには以前の[Setup APIと比較して多くの改善点が見られる](https://ja.wikipedia.org/wiki/Setup_API "wikilink")。例えば、[GUI](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")[フレームワーク](https://ja.wikipedia.org/wiki/フレームワーク "wikilink")、アンインストールシーケンスの自動生成、デプロイメント機能の強化、Windows Installerを他の実行可能形式のインストーラフレームワーク（[InstallShield](../Page/InstallShield.md "wikilink")、[WISE](https://ja.wikipedia.org/wiki/Wise_Solutions,_Inc. "wikilink")（後のバージョンは Windows Installerベースになっている）、[NSISなど](https://ja.wikipedia.org/wiki/Nullsoft_Scriptable_Install_System "wikilink")）と置き換えられるようにしたこと、等が挙げられる。
 
-[マイクロソフト](../Page/マイクロソフト.md "wikilink")は[サードパーティー](https://ja.wikipedia.org/wiki/サードパーティー "wikilink")に対しWindows Installerをインストーラフレームワークのベースとすることを推奨している。これは、インストーラの動作をWindows Installerに合わせることで、インストールされた製品のデータベースの一貫性を保つためである。Windows Installerの機能であるロールバックやバージョン管理が正しく行われるためには、内部データベースの一貫性が保たれている必要がある。
+[マイクロソフト](../Page/マイクロソフト.md "wikilink")は[サードパーティー](../Page/サードパーティー.md "wikilink")に対しWindows Installerをインストーラフレームワークのベースとすることを推奨している。これは、インストーラの動作をWindows Installerに合わせることで、インストールされた製品のデータベースの一貫性を保つためである。Windows Installerの機能であるロールバックやバージョン管理が正しく行われるためには、内部データベースの一貫性が保たれている必要がある。
 
 ## パッケージの論理構造
 
-パッケージが持つことのできる最も大きな単位が**プロダクト** (product) である。パッケージは複数のプロダクトのインストール情報を格納できる。プロダクトは全世界で一意な識別子である[GUID](https://ja.wikipedia.org/wiki/GUID "wikilink")（PackageCodeプロパティ）で識別される。また、Windows Installerはプロダクト間の依存性については関与しない。プロダクトは複数の「コンポーネント」からなり、また複数のコンポーネントを「機能」という単位でまとめることができる。
+パッケージが持つことのできる最も大きな単位が**プロダクト** (product) である。パッケージは複数のプロダクトのインストール情報を格納できる。プロダクトは全世界で一意な識別子である[GUID](../Page/GUID.md "wikilink")（PackageCodeプロパティ）で識別される。また、Windows Installerはプロダクト間の依存性については関与しない。プロダクトは複数の「コンポーネント」からなり、また複数のコンポーネントを「機能」という単位でまとめることができる。
 
 ### プロダクト (product)
 
-単独で動作する一つのプログラム（または、プログラムの集合）をプロダクトと呼ぶ。たとえば、Microsoft Officeなどの単一プロダクトがWindows Installerのプロダクトとなる。\[2\]プロダクトも全世界で一意な識別子である[GUID](https://ja.wikipedia.org/wiki/GUID "wikilink")（ProductCodeプロパティ）で識別される。プロダクトとパッケージとは別の単位で、一つのMSIパッケージで複数のプロダクトをインストールすることが可能である。たとえば、あるプログラムのフランス語版と英語版とを一つのMSIでインストールできるようにする場合、各言語版のプログラムは別々のプロダクトとなる。
+単独で動作する一つのプログラム（または、プログラムの集合）をプロダクトと呼ぶ。たとえば、Microsoft Officeなどの単一プロダクトがWindows Installerのプロダクトとなる。\[2\]プロダクトも全世界で一意な識別子である[GUID](../Page/GUID.md "wikilink")（ProductCodeプロパティ）で識別される。プロダクトとパッケージとは別の単位で、一つのMSIパッケージで複数のプロダクトをインストールすることが可能である。たとえば、あるプログラムのフランス語版と英語版とを一つのMSIでインストールできるようにする場合、各言語版のプログラムは別々のプロダクトとなる。
 
 ### コンポーネント (component)
 
-**コンポーネント** (component) はプロダクトを構成する最小単位である。Windows Installerはコンポーネント単位でインストール・アンインストール処理を行う（すなわち、あるコンポーネントの一部をインストールするような設定は行えない）。コンポーネントは[ファイル](https://ja.wikipedia.org/wiki/ファイル_\(コンピュータ\) "wikilink")、[ディレクトリ](../Page/ディレクトリ.md "wikilink")、[COMコンポーネント](../Page/Component_Object_Model.md "wikilink")、[レジストリ](../Page/レジストリ.md "wikilink")キー、ショートカット、およびその他のデータを含むことができる。インストーラを起動したユーザーが直接コンポーネントを操作することはできない。
+**コンポーネント** (component) はプロダクトを構成する最小単位である。Windows Installerはコンポーネント単位でインストール・アンインストール処理を行う（すなわち、あるコンポーネントの一部をインストールするような設定は行えない）。コンポーネントは[ファイル](../Page/ファイル_\(コンピュータ\).md "wikilink")、[ディレクトリ](../Page/ディレクトリ.md "wikilink")、[COMコンポーネント](../Page/Component_Object_Model.md "wikilink")、[レジストリ](../Page/レジストリ.md "wikilink")キー、ショートカット、およびその他のデータを含むことができる。インストーラを起動したユーザーが直接コンポーネントを操作することはできない。
 
-コンポーネントも、全世界で一意な識別子である[GUID](https://ja.wikipedia.org/wiki/GUID "wikilink")で識別される。これは、一つのコンポーネントを、一つのパッケージ内の複数の機能から、もしくは、複数のパッケージから共有できることを意味する。このような共有コンポーネントのことを[マージモジュール](https://ja.wikipedia.org/wiki/マージモジュール "wikilink")と呼ぶ（この仕組みが正しく動作するためには、各コンポーネント間に重複した内容があってはならない）。
+コンポーネントも、全世界で一意な識別子である[GUID](../Page/GUID.md "wikilink")で識別される。これは、一つのコンポーネントを、一つのパッケージ内の複数の機能から、もしくは、複数のパッケージから共有できることを意味する。このような共有コンポーネントのことを[マージモジュール](https://ja.wikipedia.org/wiki/マージモジュール "wikilink")と呼ぶ（この仕組みが正しく動作するためには、各コンポーネント間に重複した内容があってはならない）。
 
 ### キーパス (key path)
 
@@ -43,7 +43,7 @@ UIシーケンスでは、インストール先のシステムの状態を取得
 2.  同様に、[コントロールパネルの](https://ja.wikipedia.org/wiki/コントロールパネル_\(Windows\) "wikilink")[アプリケーションの追加と削除](https://ja.wikipedia.org/wiki/アプリケーションの追加と削除 "wikilink")で*削除*ボタンを押下した場合にはアンインストーラが実行されるが、ここでもインストール時にUIシーケンスで行われたすべてのアクションは実行されない。
 3.  システムに変更を加えるアクションをUIシーケンス中で実行した場合、Elevated Privileges機能で昇格した権限ではなく、インストーラを実行したユーザの権限でシステムへの変更処理が実行されてしまう。これについては以降のセクションで述べる。
 
-UIシーケンス中で行われるアクションと表示される[ダイアログボックス](https://ja.wikipedia.org/wiki/ダイアログボックス "wikilink")はInstallUISequenceテーブル中に定義される。似たようなテーブルとしてAdminUISequenceテーブルがあり、ここでは管理インストールで実行されるアクションと表示されるダイアログボックスが定義される。
+UIシーケンス中で行われるアクションと表示される[ダイアログボックス](../Page/ダイアログボックス.md "wikilink")はInstallUISequenceテーブル中に定義される。似たようなテーブルとしてAdminUISequenceテーブルがあり、ここでは管理インストールで実行されるアクションと表示されるダイアログボックスが定義される。
 
 ### 実行シーケンス
 
@@ -91,7 +91,7 @@ Windows Installerでは、アプリケーションをネットワーク共有か
 
 ### Windows Vista
 
-[Windows Vistaに同梱されているWindows](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink") Installer 4.0には、[UACと連携するための機能が盛り込まれている](https://ja.wikipedia.org/wiki/ユーザーアカウント制御 "wikilink")。MSIパッケージを管理者権限が不要であるとマークすれば、ユーザは管理者資格情報のプロンプトを表示せずにパッケージをインストールできる。Windows Installerと再起動マネージャの連動も可能である。アプリケーションやシステムコンポーネントのインストールおよび更新を「フル」ユーザインタフェースモードで行うときは、影響を受けるアプリケーションのうちシャットダウンできるもののリストが表示され、ファイルが更新された後に再起動することができる。サイレントモードでは、インストーラのアクションによってアプリケーションは自動的に再起動される。システムサービスやトレイアプリケーションも同様に再起動が可能である。
+[Windows Vistaに同梱されているWindows](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink") Installer 4.0には、[UACと連携するための機能が盛り込まれている](../Page/ユーザーアカウント制御.md "wikilink")。MSIパッケージを管理者権限が不要であるとマークすれば、ユーザは管理者資格情報のプロンプトを表示せずにパッケージをインストールできる。Windows Installerと再起動マネージャの連動も可能である。アプリケーションやシステムコンポーネントのインストールおよび更新を「フル」ユーザインタフェースモードで行うときは、影響を受けるアプリケーションのうちシャットダウンできるもののリストが表示され、ファイルが更新された後に再起動することができる。サイレントモードでは、インストーラのアクションによってアプリケーションは自動的に再起動される。システムサービスやトレイアプリケーションも同様に再起動が可能である。
 
 ## 診断ログ
 
@@ -146,7 +146,7 @@ Windows Installerは強力な診断用ツールとして詳細なロギング機
   -
     Windowsインストーラ4.0ではMsiLoggingプロパティが導入された。これはフラグのリストで、どの情報をログに残すかを表す。フラグはmsiexec.exeの`/L`オプションで指定したり、ロギングポリシーの設定で使用するものと同様である。MsiLoggingを使用すると、MsiLogFileLocationプロパティにログファイルの場所がセットされる。
 
-冗長なログはWindowsインストーラの問題を診断するには便利だが、とても長く、訓練なしに読むのは難しい。ログから問題の個所を簡単に見つけ出すには、テキストエディタ（たとえば [メモ帳](https://ja.wikipedia.org/wiki/メモ帳 "wikilink")）でログファイルを開き、"Return Value 3"という文字列を検索する。この文字列は通常、致命的なエラーが発生した場所の近くで出力される。また、Windows Installer SDKでWiLogUtlというツールが提供されている。これはWindowsインストーラのログファイルをパースし注釈を付けてくれる。
+冗長なログはWindowsインストーラの問題を診断するには便利だが、とても長く、訓練なしに読むのは難しい。ログから問題の個所を簡単に見つけ出すには、テキストエディタ（たとえば [メモ帳](../Page/メモ帳.md "wikilink")）でログファイルを開き、"Return Value 3"という文字列を検索する。この文字列は通常、致命的なエラーが発生した場所の近くで出力される。また、Windows Installer SDKでWiLogUtlというツールが提供されている。これはWindowsインストーラのログファイルをパースし注釈を付けてくれる。
 
 ログファイルにデバッグ情報を出力する場合は、コマンドラインか、またはレジストリの`Logging`の値に*x*を指定する。例えば、以下のコマンドはPackage.msiをインストールし、デバッグ情報を含む詳細なログを`c:\Package.log`に出力する。
 
@@ -239,7 +239,7 @@ Windows Server 2003 RTM</p></td>
 <td><p>4.0</p></td>
 <td><p>2006年</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista" title="wikilink">Windows Vista</a> RTM, SP1,<br />
-<a href="https://ja.wikipedia.org/wiki/Microsoft_Windows_Server_2008" title="wikilink">Windows Server 2008</a> RTM</p></td>
+<a href="../Page/Microsoft_Windows_Server_2008.md" title="wikilink">Windows Server 2008</a> RTM</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -255,7 +255,7 @@ Windows Server 2008 RTM</p></td>
 <tr class="odd">
 <td><p>5.0</p></td>
 <td><p>2009年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Microsoft_Windows_7" title="wikilink">Windows 7</a> RTM,<br />
+<td><p><a href="../Page/Microsoft_Windows_7.md" title="wikilink">Windows 7</a> RTM,<br />
 <a href="https://ja.wikipedia.org/wiki/Microsoft_Windows_Server_2008_R2" title="wikilink">Windows Server 2008 R2</a> RTM</p></td>
 <td></td>
 </tr>

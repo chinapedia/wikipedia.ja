@@ -1,24 +1,24 @@
 > この記事は[UWAI STATION](https://ja.wikipedia.org/wiki/UWAI_STATION)から翻訳されています。
 
 
-**UWAI STATION**（ウワイ・ステーション）は、[上井文彦](https://ja.wikipedia.org/wiki/上井文彦 "wikilink")による[プロレス](../Page/プロレス.md "wikilink")[興行](https://ja.wikipedia.org/wiki/興行 "wikilink")。名付け親は[柴田勝頼](https://ja.wikipedia.org/wiki/柴田勝頼 "wikilink")で当初は「STATION=基地」の意味合いで付けていたが意訳すると「上井駅」になることから上井は自らを「[駅長](https://ja.wikipedia.org/wiki/駅長 "wikilink")」と名乗っていた。
+**UWAI STATION**（ウワイ・ステーション）は、[上井文彦](../Page/上井文彦.md "wikilink")による[プロレス](../Page/プロレス.md "wikilink")[興行](../Page/興行.md "wikilink")。名付け親は[柴田勝頼](../Page/柴田勝頼.md "wikilink")で当初は「STATION=基地」の意味合いで付けていたが意訳すると「上井駅」になることから上井は自らを「[駅長](../Page/駅長.md "wikilink")」と名乗っていた。
 
 ## 歴史
 
-[ビッグマウス](https://ja.wikipedia.org/wiki/ビッグマウス "wikilink")から（建前上は）別々に離脱したプロデューサーの[上井文彦](https://ja.wikipedia.org/wiki/上井文彦 "wikilink")と[柴田勝頼](https://ja.wikipedia.org/wiki/柴田勝頼 "wikilink")が再合体して新たに「所属選手を持たないフリープロデューサー上井文彦の新イベント」として設立。それまでの負債を分裂した[ビッグマウス・ラウドに残してきたことから再出発でき](https://ja.wikipedia.org/wiki/ビッグマウス#ビッグマウス・ラウド "wikilink")、また柴田と同じく事実上の所属選手である[ドン荒川](https://ja.wikipedia.org/wiki/ドン荒川 "wikilink")の繋がりで、プチシルマなどの商品で知られる[レダをスポンサーに付けたことから豊富とまでは言えないもののある一定の資金を元にスタートできることとなった](https://ja.wikipedia.org/wiki/レダ_\(企業\) "wikilink")。旗揚げ戦が延期になったもののスポンサー契約のある[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")12月まで[後楽園ホール](https://ja.wikipedia.org/wiki/後楽園ホール "wikilink")を抑えておりほぼ毎月のペースで興行を打てる強みがあった。
+[ビッグマウス](../Page/ビッグマウス.md "wikilink")から（建前上は）別々に離脱したプロデューサーの[上井文彦](../Page/上井文彦.md "wikilink")と[柴田勝頼](../Page/柴田勝頼.md "wikilink")が再合体して新たに「所属選手を持たないフリープロデューサー上井文彦の新イベント」として設立。それまでの負債を分裂した[ビッグマウス・ラウドに残してきたことから再出発でき](https://ja.wikipedia.org/wiki/ビッグマウス#ビッグマウス・ラウド "wikilink")、また柴田と同じく事実上の所属選手である[ドン荒川](../Page/ドン荒川.md "wikilink")の繋がりで、プチシルマなどの商品で知られる[レダをスポンサーに付けたことから豊富とまでは言えないもののある一定の資金を元にスタートできることとなった](../Page/レダ_\(企業\).md "wikilink")。旗揚げ戦が延期になったもののスポンサー契約のある[2007年](../Page/2007年.md "wikilink")12月まで[後楽園ホール](../Page/後楽園ホール.md "wikilink")を抑えておりほぼ毎月のペースで興行を打てる強みがあった。
 
-しかし上井のセンスや手腕が上手く発揮されず、また過去の金銭的負債は排除できても失った人脈や観客は取り戻すことができずUWAI STATIONになってからもついてきてくれた選手や観客を随時失っていくこととなり第2回を最後にエースの柴田が離脱。観客もほぼスポンサー関係者のみとなってしまい[週刊プロレス](https://ja.wikipedia.org/wiki/週刊プロレス "wikilink")には「プチシルマステーション」と揶揄された。
+しかし上井のセンスや手腕が上手く発揮されず、また過去の金銭的負債は排除できても失った人脈や観客は取り戻すことができずUWAI STATIONになってからもついてきてくれた選手や観客を随時失っていくこととなり第2回を最後にエースの柴田が離脱。観客もほぼスポンサー関係者のみとなってしまい[週刊プロレス](../Page/週刊プロレス.md "wikilink")には「プチシルマステーション」と揶揄された。
 
-一時は[ハッスルやインディー団体のコミカルな部分をいいとこ取りしようと狙う](https://ja.wikipedia.org/wiki/ハッスル_\(プロレス\) "wikilink")「エンターテイメント路線」を迷走していたがハッスルどころか[DDTプロレスリング](https://ja.wikipedia.org/wiki/DDTプロレスリング "wikilink")のデッドコピーとなってしまった。年末に大会場でメインイベントにザ・ファンクスvsマスクド・ポールスター＆マスクド・グランシャリオを行うと公言していたが上井特有の「調子に乗って口走ったその場限りの思いつき」であり、すぐにポールスターもグランシャリオも無かったことになった。
+一時は[ハッスルやインディー団体のコミカルな部分をいいとこ取りしようと狙う](https://ja.wikipedia.org/wiki/ハッスル_\(プロレス\) "wikilink")「エンターテイメント路線」を迷走していたがハッスルどころか[DDTプロレスリング](../Page/DDTプロレスリング.md "wikilink")のデッドコピーとなってしまった。年末に大会場でメインイベントにザ・ファンクスvsマスクド・ポールスター＆マスクド・グランシャリオを行うと公言していたが上井特有の「調子に乗って口走ったその場限りの思いつき」であり、すぐにポールスターもグランシャリオも無かったことになった。
 
-ギャラの安く済む中量級の日本人格闘家を上井軍と名付けて格闘技色の強い興行に戻ったもののプロレスの質としてはかなり疑問符の付く状態にありファンが来ないのはもちろんのこと、無料招待の観客さえも減ってしまったため6月、8月、10月、12月と隔月で押さえていた後楽園ホールでの興行もキャンセルすることとなり、[10月6日](../Page/10月6日.md "wikilink")に[ディファ有明](https://ja.wikipedia.org/wiki/ディファ有明 "wikilink")での年内最終興行を発表。「UWAI STATION第一章完結」として、本興行をもって冠スポンサーを降りるプチシルマを全面に押し出した娯楽色の強い興行となった。
+ギャラの安く済む中量級の日本人格闘家を上井軍と名付けて格闘技色の強い興行に戻ったもののプロレスの質としてはかなり疑問符の付く状態にありファンが来ないのはもちろんのこと、無料招待の観客さえも減ってしまったため6月、8月、10月、12月と隔月で押さえていた後楽園ホールでの興行もキャンセルすることとなり、[10月6日](../Page/10月6日.md "wikilink")に[ディファ有明](../Page/ディファ有明.md "wikilink")での年内最終興行を発表。「UWAI STATION第一章完結」として、本興行をもって冠スポンサーを降りるプチシルマを全面に押し出した娯楽色の強い興行となった。
 
-これによりUWAI STATIONとしては終了して今後は[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")春より新しい名前の興行を再スタートするため努力中とのことであるが、その目処はまったく立っておらず公式ブログは閉鎖されて上井も[西口プロレス](https://ja.wikipedia.org/wiki/西口プロレス "wikilink")の営業を経て現在はプロレスから離れている。
+これによりUWAI STATIONとしては終了して今後は[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")春より新しい名前の興行を再スタートするため努力中とのことであるが、その目処はまったく立っておらず公式ブログは閉鎖されて上井も[西口プロレス](../Page/西口プロレス.md "wikilink")の営業を経て現在はプロレスから離れている。
 
 ## 主要参戦選手
 
-  - [柴田勝頼](https://ja.wikipedia.org/wiki/柴田勝頼 "wikilink")（第2回で離脱を表明）
-  - [ドン荒川](https://ja.wikipedia.org/wiki/ドン荒川 "wikilink")（[プチシルマ体操ではプチシルマンに扮する](https://ja.wikipedia.org/wiki/レダ_\(企業\) "wikilink")）
+  - [柴田勝頼](../Page/柴田勝頼.md "wikilink")（第2回で離脱を表明）
+  - [ドン荒川](../Page/ドン荒川.md "wikilink")（[プチシルマ体操ではプチシルマンに扮する](../Page/レダ_\(企業\).md "wikilink")）
 
 <!-- end list -->
 
@@ -26,134 +26,134 @@
 
 <!-- end list -->
 
-  - [浜中和宏](https://ja.wikipedia.org/wiki/浜中和宏 "wikilink")
+  - [浜中和宏](../Page/浜中和宏.md "wikilink")
   - [毛利昭彦](https://ja.wikipedia.org/wiki/毛利昭彦 "wikilink")
-  - [高瀬大樹](https://ja.wikipedia.org/wiki/高瀬大樹 "wikilink")
+  - [高瀬大樹](../Page/高瀬大樹.md "wikilink")
 
 ## 大会一覧
 
 ### 幻の旗揚げ戦
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月8日](../Page/10月8日.md "wikilink") [後楽園ホール](https://ja.wikipedia.org/wiki/後楽園ホール "wikilink")
+[2006年](../Page/2006年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink") [後楽園ホール](../Page/後楽園ホール.md "wikilink")
 
-  - [毛利昭彦](https://ja.wikipedia.org/wiki/毛利昭彦 "wikilink") vs [村浜武洋](https://ja.wikipedia.org/wiki/村浜武洋 "wikilink")
-  - [エンセン井上](https://ja.wikipedia.org/wiki/エンセン井上 "wikilink") vs [小原道由](https://ja.wikipedia.org/wiki/小原道由 "wikilink")
-  - [ドン荒川](https://ja.wikipedia.org/wiki/ドン荒川 "wikilink") vs [菊タロー](https://ja.wikipedia.org/wiki/菊タロー "wikilink")
-  - ほかに[柴田勝頼](https://ja.wikipedia.org/wiki/柴田勝頼 "wikilink")、[高山善廣](../Page/高山善廣.md "wikilink")、[鈴木みのる](https://ja.wikipedia.org/wiki/鈴木みのる "wikilink")等が出場予定だった。
+  - [毛利昭彦](https://ja.wikipedia.org/wiki/毛利昭彦 "wikilink") vs [村浜武洋](../Page/村浜武洋.md "wikilink")
+  - [エンセン井上](../Page/エンセン井上.md "wikilink") vs [小原道由](../Page/小原道由.md "wikilink")
+  - [ドン荒川](../Page/ドン荒川.md "wikilink") vs [菊タロー](../Page/菊タロー.md "wikilink")
+  - ほかに[柴田勝頼](../Page/柴田勝頼.md "wikilink")、[高山善廣](../Page/高山善廣.md "wikilink")、[鈴木みのる](../Page/鈴木みのる.md "wikilink")等が出場予定だった。
 
-全6試合を予定していたがオファーを出した[門馬秀貴](https://ja.wikipedia.org/wiki/門馬秀貴 "wikilink")に断られて直前まで予定していたメインイベントの[川田利明](https://ja.wikipedia.org/wiki/川田利明 "wikilink")対柴田勝頼戦がまとまらなかったため開催日2日前に断念。「強行しても取ってつけたようなカードになるのでファンに申し訳ない」と延期。すでに試合会場使用料を払っていたため予定当日にはシャッターの閉まった後楽園ホールで入場料の払い戻しもしくは12月3日旗揚げ戦への振り替えを行った。柴田が目的のファンが多かったため払い戻しは少なくチケットを振り替える客がほとんどだったという。
+全6試合を予定していたがオファーを出した[門馬秀貴](../Page/門馬秀貴.md "wikilink")に断られて直前まで予定していたメインイベントの[川田利明](../Page/川田利明.md "wikilink")対柴田勝頼戦がまとまらなかったため開催日2日前に断念。「強行しても取ってつけたようなカードになるのでファンに申し訳ない」と延期。すでに試合会場使用料を払っていたため予定当日にはシャッターの閉まった後楽園ホールで入場料の払い戻しもしくは12月3日旗揚げ戦への振り替えを行った。柴田が目的のファンが多かったため払い戻しは少なくチケットを振り替える客がほとんどだったという。
 
 ### UWAI STATION 旗揚げ戦
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月3日](../Page/12月3日.md "wikilink") 後楽園ホール
+[2006年](../Page/2006年.md "wikilink")[12月3日](../Page/12月3日.md "wikilink") 後楽園ホール
 
-  - ドン荒川&菊タロー vs [NOSAWA論外](https://ja.wikipedia.org/wiki/NOSAWA論外 "wikilink")&[MAZADA](https://ja.wikipedia.org/wiki/MAZADA "wikilink")
-  - [義経](https://ja.wikipedia.org/wiki/SUGI "wikilink") vs [ラッセ](https://ja.wikipedia.org/wiki/沖本摩幸 "wikilink")
-  - [スコット・ノートン](https://ja.wikipedia.org/wiki/スコット・ノートン "wikilink") vs [泉州力](https://ja.wikipedia.org/wiki/泉州力 "wikilink")&[健心](https://ja.wikipedia.org/wiki/健心 "wikilink")組
-  - [ブライアン・ダニエルソン](https://ja.wikipedia.org/wiki/ブライアン・ダニエルソン "wikilink") vs [フジタ"Jr"ハヤト](https://ja.wikipedia.org/wiki/フジタ"Jr"ハヤト "wikilink")
+  - ドン荒川&菊タロー vs [NOSAWA論外](../Page/NOSAWA論外.md "wikilink")&[MAZADA](../Page/MAZADA.md "wikilink")
+  - [義経](../Page/SUGI.md "wikilink") vs [ラッセ](../Page/沖本摩幸.md "wikilink")
+  - [スコット・ノートン](../Page/スコット・ノートン.md "wikilink") vs [泉州力](https://ja.wikipedia.org/wiki/泉州力 "wikilink")&[健心](../Page/健心.md "wikilink")組
+  - [ブライアン・ダニエルソン](../Page/ブライアン・ダニエルソン.md "wikilink") vs [フジタ"Jr"ハヤト](../Page/フジタ"Jr"ハヤト.md "wikilink")
   - 柴田勝頼 vs ハワイアン・ライオン
-  - 高山善廣&鈴木みのる&[SUWA](https://ja.wikipedia.org/wiki/SUWA "wikilink")組 vs [後藤達俊](https://ja.wikipedia.org/wiki/後藤達俊 "wikilink")&[小原道由](https://ja.wikipedia.org/wiki/小原道由 "wikilink")&[ブルー・ウルフ](https://ja.wikipedia.org/wiki/ブルー・ウルフ "wikilink")組
+  - 高山善廣&鈴木みのる&[SUWA](../Page/SUWA.md "wikilink")組 vs [後藤達俊](../Page/後藤達俊.md "wikilink")&[小原道由](../Page/小原道由.md "wikilink")&[ブルー・ウルフ](../Page/ブルー・ウルフ.md "wikilink")組
 
 ようやく行われた旗揚げ戦もカードが直前まで決まらず[プロレスリング・ノア](../Page/プロレスリング・ノア.md "wikilink")の間接的協力や、[みちのくプロレス](../Page/みちのくプロレス.md "wikilink")へ柴田を貸し出すバーターでの選手参戦によりカードを揃えることができた。試合前に上井が駅長のコスプレをして旗揚げを宣言して、これが後に恒例となる。ノートンの相手が見つからず「ノーギャラでもいいから参戦させて欲しい」とやってきた泉州に好きなパートナーを連れてこさせてハンディキャップマッチをするなど選手集めに苦労したがノートンが連れてきた無名のライオンが柴田と好勝負を演じるなど一応は格好がついたもののメインに出場した高山と鈴木からは「俺たちは新幹線だ。今日はテープカットに来ただけ。各駅停車の駅なら出ない」と興行のスケールや参加選手の質に注文を付けた。
 
 ### UWAI STATION2
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月30日](../Page/12月30日.md "wikilink") 後楽園ホール
+[2006年](../Page/2006年.md "wikilink")[12月30日](../Page/12月30日.md "wikilink") 後楽園ホール
 
-  - [ディック東郷](https://ja.wikipedia.org/wiki/ディック東郷 "wikilink")&[マグニチュード岸和田](https://ja.wikipedia.org/wiki/マグニチュード岸和田 "wikilink")組 vs [真霜拳號](https://ja.wikipedia.org/wiki/真霜拳號 "wikilink")&[房総ボーイ雷斗](https://ja.wikipedia.org/wiki/房総ボーイ雷斗 "wikilink")組
+  - [ディック東郷](../Page/ディック東郷.md "wikilink")&[マグニチュード岸和田](../Page/マグニチュード岸和田.md "wikilink")組 vs [真霜拳號](../Page/真霜拳號.md "wikilink")&[房総ボーイ雷斗](../Page/房総ボーイ雷斗.md "wikilink")組
   - ドン荒川 vs フジタ"Jr"ハヤト
-  - [メカマミー](https://ja.wikipedia.org/wiki/メカマミー "wikilink") vs UWAI28号
-  - 毛利昭彦 vs [飯伏幸太](https://ja.wikipedia.org/wiki/飯伏幸太 "wikilink")
-  - [ウルティモ・ドラゴン](https://ja.wikipedia.org/wiki/ウルティモ・ドラゴン "wikilink")&[岡田かずちか組](https://ja.wikipedia.org/wiki/オカダ・カズチカ "wikilink") vs [スペル・デルフィン](../Page/スペル・デルフィン.md "wikilink")&[タイガースマスク組](https://ja.wikipedia.org/wiki/丸山敦 "wikilink")
+  - [メカマミー](../Page/メカマミー.md "wikilink") vs UWAI28号
+  - 毛利昭彦 vs [飯伏幸太](../Page/飯伏幸太.md "wikilink")
+  - [ウルティモ・ドラゴン](../Page/ウルティモ・ドラゴン.md "wikilink")&[岡田かずちか組](https://ja.wikipedia.org/wiki/オカダ・カズチカ "wikilink") vs [スペル・デルフィン](../Page/スペル・デルフィン.md "wikilink")&[タイガースマスク組](../Page/丸山敦.md "wikilink")
   - 高山善廣&鈴木みのる組 vs スコット・ノートン&ハワイアン・ライオン組
-  - 柴田勝頼 vs [浜中和宏](https://ja.wikipedia.org/wiki/浜中和宏 "wikilink")
+  - 柴田勝頼 vs [浜中和宏](../Page/浜中和宏.md "wikilink")
 
 今回は上井が得意とする「因縁の対決」を煽るが「東郷とデルフィンが同じリングに上がること」を強調するも直接絡む訳ではないためインディでは特に珍しくもなく、またウルティモとデルフィンの絡みも因縁付けたものにしたかったが当初予定のシングルすらできず何の因縁も無いことが試合後明らかになった。第3試合には旗揚げ戦の休憩時間に乱入してきたメカマミーが参戦して話題を呼んだが、これが原因で柴田が離脱して柴田のシングルで成り立っていた本イベントは、これ以降、窮地に立たされる。初登場の毛利や浜中の動きが良くメインイベントは素晴らしい試合となったが興行に不手際が多くレフェリーがなかなか登場しなかったりリングに不具合が生じるなど問題が生じた。客入りも旗揚げ戦の7割程度から5割程度に落ち込みセミとメイン以外のカードのてこ入れが急務となったが、そのセミとメインのカードも次の後楽園大会から深刻なダメージを受けることとなる。
 
 ### UWAI STATION Zepp Fukuoka
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[1月14日](../Page/1月14日.md "wikilink") [Zepp Fukuoka](https://ja.wikipedia.org/wiki/Zepp "wikilink")
+[2007年](../Page/2007年.md "wikilink")[1月14日](../Page/1月14日.md "wikilink") [Zepp Fukuoka](../Page/Zepp.md "wikilink")
 
   - ドン荒川vs泉州力
   - 健心 vs [菅原伊織](https://ja.wikipedia.org/wiki/菅原伊織 "wikilink")
-  - [エンセン井上](https://ja.wikipedia.org/wiki/エンセン井上 "wikilink") vs 出田源貴
+  - [エンセン井上](../Page/エンセン井上.md "wikilink") vs 出田源貴
   - メカマミー vs UWAI28号
   - 後藤達俊&小原道由組 vs 無法松力&小川栄司組
-  - [獣神サンダー・ライガー](https://ja.wikipedia.org/wiki/獣神サンダー・ライガー "wikilink")&毛利昭彦組 vs [アステカ](https://ja.wikipedia.org/wiki/アステカ_\(プロレスラー\) "wikilink")&[KAZE組](https://ja.wikipedia.org/wiki/KAZE_\(プロレスラー\) "wikilink")
+  - [獣神サンダー・ライガー](../Page/獣神サンダー・ライガー.md "wikilink")&毛利昭彦組 vs [アステカ](../Page/アステカ_\(プロレスラー\).md "wikilink")&[KAZE組](https://ja.wikipedia.org/wiki/KAZE_\(プロレスラー\) "wikilink")
   - 村浜武洋 vs 浜中和宏
 
 初の地方興行だが地元プロモーター無法松力の自主興行に上井が看板と選手を貸した格好となる。そのためにセミでは「華☆激・毛利道場提供試合」として上井と絶縁状態にある新日本プロレスからライガーを呼ぶことができた。プロレスの試合前には総合格闘技5試合が組まれ盛り上がり観客もほぼ満員となったものの、不参加となった柴田、高山、鈴木の出場を期待して前売り券を買ったファンも多かった事実は否めない。前大会の休憩に乱入した無法松は、柴田との対決を迫ったが、あまり関係のない小原が「柴田とやりたければ俺を倒してから」という因縁が生まれタッグマッチで対戦。今大会を踏まえて次の後楽園ホール大会で柴田との対戦を賭けたシングルマッチが決定するも、この大会直後に柴田は上井へ週刊プロレス紙上で撤退を宣言して意味の無いものとなる。メインイベントは前大会で柴田と好勝負を演じた浜中が登場したが、対戦相手が4月にコンディションの悪さからZERO1-MAXを解雇された村浜なだけに不安視されたものの、予想を覆す大熱戦を演じて大会は成功を収めた。
 
 ### UWAI STATION3
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[2月9日](../Page/2月9日.md "wikilink") 後楽園ホール
+[2007年](../Page/2007年.md "wikilink")[2月9日](../Page/2月9日.md "wikilink") 後楽園ホール
 
   - ドン荒川 vs [松永智充](https://ja.wikipedia.org/wiki/松永智充 "wikilink")
   - UWAI231号 vs メカマミー
   - 小原道由 vs 無法松力
   - ハワイアン・ライオン vs [ゼウス](https://ja.wikipedia.org/wiki/ゼウス_\(プロレスラー\) "wikilink")
   - 村浜武洋 vs 毛利昭彦
-  - ウルティモ・ドラゴン\&SUWA組 vs [TAJIRI](https://ja.wikipedia.org/wiki/TAJIRI "wikilink")&[KUSHIDA](https://ja.wikipedia.org/wiki/KUSHIDA "wikilink")組
+  - ウルティモ・ドラゴン\&SUWA組 vs [TAJIRI](../Page/TAJIRI.md "wikilink")&[KUSHIDA](../Page/KUSHIDA.md "wikilink")組
   - マスクド・ポールスター vs 川田利明
 
-この興行から正式に柴田と高山が不参加となる。興行の柱であるメイン級看板選手を根こそぎ失った上井は窮地の策として[ビッグマウス・ラウド時代に批判していた](https://ja.wikipedia.org/wiki/ビッグマウス#ビッグマウス・ラウド "wikilink")[ハッスル勢を参戦させて急場を凌いだ](https://ja.wikipedia.org/wiki/ハッスル_\(プロレス\) "wikilink")。これは、それまでの格闘色を薄め、上井が週刊プロレス紙上で述べた「笑顔の子供でいっぱいになる興行」を目指したエンターテイメント路線への転換であるが、毛利に試合後、離脱を宣言した柴田や戦場を[プロレスリングZERO1-MAXへ移した門馬をマイクで挑発させた所を見ると](https://ja.wikipedia.org/wiki/ZERO1 "wikilink")、格闘色の強い選手が抜けたことによる必要に迫られた路線変更と取れる。また今回プチシルマ体操が完成しお披露目したが、肝心の興行は最悪で客入りは6割程度も、興行を見終えた観客が「あまりのつまらなさに泣く」という前代未聞プロレス史上最悪の珍事がスポーツ紙を賑わせた。その象徴と言える新エース「マスクド・ポールスター」を上井は今後もメインで使うことを明言して迷走が続くこととなる。
+この興行から正式に柴田と高山が不参加となる。興行の柱であるメイン級看板選手を根こそぎ失った上井は窮地の策として[ビッグマウス・ラウド時代に批判していた](https://ja.wikipedia.org/wiki/ビッグマウス#ビッグマウス・ラウド "wikilink")[ハッスル勢を参戦させて急場を凌いだ](https://ja.wikipedia.org/wiki/ハッスル_\(プロレス\) "wikilink")。これは、それまでの格闘色を薄め、上井が週刊プロレス紙上で述べた「笑顔の子供でいっぱいになる興行」を目指したエンターテイメント路線への転換であるが、毛利に試合後、離脱を宣言した柴田や戦場を[プロレスリングZERO1-MAXへ移した門馬をマイクで挑発させた所を見ると](../Page/ZERO1.md "wikilink")、格闘色の強い選手が抜けたことによる必要に迫られた路線変更と取れる。また今回プチシルマ体操が完成しお披露目したが、肝心の興行は最悪で客入りは6割程度も、興行を見終えた観客が「あまりのつまらなさに泣く」という前代未聞プロレス史上最悪の珍事がスポーツ紙を賑わせた。その象徴と言える新エース「マスクド・ポールスター」を上井は今後もメインで使うことを明言して迷走が続くこととなる。
 
 ### UWAI STATION4
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[3月21日](https://ja.wikipedia.org/wiki/3月21日 "wikilink") 後楽園ホール
+[2007年](../Page/2007年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink") 後楽園ホール
 
-  - 菊タロー&[趙雲子龍](https://ja.wikipedia.org/wiki/趙雲子龍 "wikilink")組 vs [怨霊](https://ja.wikipedia.org/wiki/怨霊_\(プロレスラー\) "wikilink")&[ラム会長](https://ja.wikipedia.org/wiki/ラム会長 "wikilink")組
+  - 菊タロー&[趙雲子龍](https://ja.wikipedia.org/wiki/趙雲子龍 "wikilink")組 vs [怨霊](../Page/怨霊_\(プロレスラー\).md "wikilink")&[ラム会長](../Page/ラム会長.md "wikilink")組
   - メカマミー&メカマミーLite組 vs 上井231号&上井32号組
-  - [木戸修](https://ja.wikipedia.org/wiki/木戸修 "wikilink")&[田村和宏](https://ja.wikipedia.org/wiki/田村和宏 "wikilink")組 vs ドン荒川&フジタ"Jr"ハヤト組
-  - 毛利昭彦&[内田祥一](https://ja.wikipedia.org/wiki/内田祥一 "wikilink")組 vs [飯伏幸太](https://ja.wikipedia.org/wiki/飯伏幸太 "wikilink")&[柿本大地](https://ja.wikipedia.org/wiki/柿本大地 "wikilink")組
-  - マスクド・グランシャリオ vs [宮本和志](https://ja.wikipedia.org/wiki/宮本和志 "wikilink")
+  - [木戸修](../Page/木戸修.md "wikilink")&[田村和宏](https://ja.wikipedia.org/wiki/田村和宏 "wikilink")組 vs ドン荒川&フジタ"Jr"ハヤト組
+  - 毛利昭彦&[内田祥一](https://ja.wikipedia.org/wiki/内田祥一 "wikilink")組 vs [飯伏幸太](../Page/飯伏幸太.md "wikilink")&[柿本大地](../Page/柿本大地.md "wikilink")組
+  - マスクド・グランシャリオ vs [宮本和志](../Page/宮本和志.md "wikilink")
   - 村浜武洋 vs 真霜拳號
-  - 鈴木みのる vs [高瀬大樹](https://ja.wikipedia.org/wiki/高瀬大樹 "wikilink")
+  - 鈴木みのる vs [高瀬大樹](../Page/高瀬大樹.md "wikilink")
 
-前回の反省から「前半をエンターテイメント、後半を格闘色の強いカード」と色分けしたものの、どちらも中途半端となりメイン以外は不評に終わる。そのメインでは鈴木みのるが「再乗車」して対戦相手は総合格闘家の高瀬のプロレスデビュー戦となったが格の違いを見せ付けて上井に「ここはプロレスの始発なのか終点なのかはっきりしろ」と鼓舞激励。今回のプチシルマ体操では[ミヤマ仮面が登場してラムらと踊った](https://ja.wikipedia.org/wiki/垣原賢人 "wikilink")。客入りは祝日昼間にもかかわらず前回と同じ6割程度と、ますます興行は困窮を極めていく。
+前回の反省から「前半をエンターテイメント、後半を格闘色の強いカード」と色分けしたものの、どちらも中途半端となりメイン以外は不評に終わる。そのメインでは鈴木みのるが「再乗車」して対戦相手は総合格闘家の高瀬のプロレスデビュー戦となったが格の違いを見せ付けて上井に「ここはプロレスの始発なのか終点なのかはっきりしろ」と鼓舞激励。今回のプチシルマ体操では[ミヤマ仮面が登場してラムらと踊った](../Page/垣原賢人.md "wikilink")。客入りは祝日昼間にもかかわらず前回と同じ6割程度と、ますます興行は困窮を極めていく。
 
 ### UWAI STATION5
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月30日](../Page/4月30日.md "wikilink") 後楽園ホール
+[2007年](../Page/2007年.md "wikilink")[4月30日](../Page/4月30日.md "wikilink") 後楽園ホール
 
   - フジタ"Jr"ハヤト vs 田村和宏
-  - ウルティモ・ドラゴン&[エル・ブレイザー組](https://ja.wikipedia.org/wiki/SUGI "wikilink") vs [南野武](https://ja.wikipedia.org/wiki/南野タケシ "wikilink")&ラッセ組
-  - ドン荒川 vs [小林邦昭](https://ja.wikipedia.org/wiki/小林邦昭 "wikilink")
-  - [西村修](https://ja.wikipedia.org/wiki/西村修 "wikilink")&木戸修組 vs [宮本和志](https://ja.wikipedia.org/wiki/宮本和志 "wikilink")&[本間朋晃](https://ja.wikipedia.org/wiki/本間朋晃 "wikilink")組
-  - 毛利昭彦 vs [佐々木恭介](https://ja.wikipedia.org/wiki/佐々木恭介_\(格闘家\) "wikilink")
-  - [神取忍](https://ja.wikipedia.org/wiki/神取忍 "wikilink") vs [美花](https://ja.wikipedia.org/wiki/美花 "wikilink")
+  - ウルティモ・ドラゴン&[エル・ブレイザー組](../Page/SUGI.md "wikilink") vs [南野武](../Page/南野タケシ.md "wikilink")&ラッセ組
+  - ドン荒川 vs [小林邦昭](../Page/小林邦昭.md "wikilink")
+  - [西村修](../Page/西村修.md "wikilink")&木戸修組 vs [宮本和志](../Page/宮本和志.md "wikilink")&[本間朋晃](../Page/本間朋晃.md "wikilink")組
+  - 毛利昭彦 vs [佐々木恭介](../Page/佐々木恭介_\(格闘家\).md "wikilink")
+  - [神取忍](../Page/神取忍.md "wikilink") vs [美花](../Page/美花.md "wikilink")
   - 高瀬大樹 vs 浜中和宏
 
 ゴールデンウィーク真っ最中ということもあり家族連れを中心に7割近い集客に成功したが前回までうまくいかなかったエンターテイメントを外して本来の「格闘色の強い興行」へ戻って勝負することとなった。これは良い言い方をすれば「試行錯誤の末の原点回帰」であり悪い言い方をすれば「行き当たりばったりの末にふりだしに戻っただけ」とも言える。総合格闘家に無理にプロレスの枠を与えた結果、不透明決着や唐突に終わる消化不良な試合が続出した。また前大会で宮本とグランシャリオが戦うアングルを組んでおきながら今回それを無視するマッチメイクを組んだことに宮本からクレームがついた。メイン終了後には浜中、毛利、高瀬で上井軍として他団体に打って出ることを宣言するもUWAI STATIONとしては次の後楽園ホール大会は未定となっている（6月、8月と押さえていた後楽園ホール大会もキャンセルされた）。
 
 ### UWAI STATION OSAKA
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[7月13日](../Page/7月13日.md "wikilink") [松下IMPホール](https://ja.wikipedia.org/wiki/松下IMPビル#松下IMPホール "wikilink")
+[2007年](../Page/2007年.md "wikilink")[7月13日](../Page/7月13日.md "wikilink") [松下IMPホール](https://ja.wikipedia.org/wiki/松下IMPビル#松下IMPホール "wikilink")
 
-  - ドン荒川 vs [青柳政司](https://ja.wikipedia.org/wiki/青柳政司 "wikilink")
-  - 上井231号&上井32号組 vs [マッスル坂井](https://ja.wikipedia.org/wiki/マッスル坂井 "wikilink")&[アントーニオ本多](https://ja.wikipedia.org/wiki/アントーニオ本多 "wikilink")組
+  - ドン荒川 vs [青柳政司](../Page/青柳政司.md "wikilink")
+  - 上井231号&上井32号組 vs [マッスル坂井](../Page/マッスル坂井.md "wikilink")&[アントーニオ本多](../Page/アントーニオ本多.md "wikilink")組
   - [近藤哲也](https://ja.wikipedia.org/wiki/近藤哲也 "wikilink") vs [石倉正徳](https://ja.wikipedia.org/wiki/石倉正徳 "wikilink")
   - 内田祥一 vs [黒影](https://ja.wikipedia.org/wiki/黒影 "wikilink")
-  - 高瀬大樹 vs [須田匡昇](https://ja.wikipedia.org/wiki/須田匡昇 "wikilink")
+  - 高瀬大樹 vs [須田匡昇](../Page/須田匡昇.md "wikilink")
   - 土屋クレイジー vs 角英輝
-  - 村浜武洋 vs [吉江豊](https://ja.wikipedia.org/wiki/吉江豊 "wikilink")
-  - 鈴木みのる\&NOSAWA論外組 v s西村修&[新崎人生](https://ja.wikipedia.org/wiki/新崎人生 "wikilink")組
+  - 村浜武洋 vs [吉江豊](../Page/吉江豊.md "wikilink")
+  - 鈴木みのる\&NOSAWA論外組 v s西村修&[新崎人生](../Page/新崎人生.md "wikilink")組
 
 当初は[6月25日](../Page/6月25日.md "wikilink")に後楽園ホールを押さえていたものの平日の月曜で客入りや興行内容の不安からキャンセルして「大阪1本に絞る」と宣言して福岡大会以来の地方大会となった。集客は健闘したもののキャパシティそのものが狭かったうえに沸いたのはエンタメ色のカードのみと格闘技系の試合は存在そのものを疑問視される内容となった。また毛利が直前で参戦を回避したり女子格闘系の試合を示唆しながら消滅したりと地方興行でも試合前のドタバタぶりは健在であった。
 
 ### UWAI STATION プチシルマ SPECIAL DREAM
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[10月6日](../Page/10月6日.md "wikilink") [ディファ有明](https://ja.wikipedia.org/wiki/ディファ有明 "wikilink")
+[2007年](../Page/2007年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink") [ディファ有明](../Page/ディファ有明.md "wikilink")
 
-  - ドン荒川 vs [佐野直](https://ja.wikipedia.org/wiki/佐野直 "wikilink")&[つぼ原人組](https://ja.wikipedia.org/wiki/小坪弘良 "wikilink")
+  - ドン荒川 vs [佐野直](../Page/佐野直.md "wikilink")&[つぼ原人組](../Page/小坪弘良.md "wikilink")
   - ちびミヤマ仮面 vs 菊タロー
-  - [プチシルマン](https://ja.wikipedia.org/wiki/ドン荒川 "wikilink") vs [ジャイアント小馬場](https://ja.wikipedia.org/wiki/ジャイアント小馬場 "wikilink")
-  - 神取忍&[ジャガー横田](https://ja.wikipedia.org/wiki/ジャガー横田 "wikilink")組 vs [豊田真奈美](https://ja.wikipedia.org/wiki/豊田真奈美 "wikilink")&美花組
-  - [アントニオ小猪木](https://ja.wikipedia.org/wiki/アントニオ小猪木 "wikilink")&[ハチミツ二郎](https://ja.wikipedia.org/wiki/ハチミツ二郎 "wikilink")&[超能力少年ダイジ](https://ja.wikipedia.org/wiki/超能力少年ダイジ "wikilink")組 vs [ラブセクシー乙羽屋](https://ja.wikipedia.org/wiki/ラブセクシー乙羽屋 "wikilink")&ラブセクシー・ローズ&ラブセクシー・ヤング組
-  - 高瀬大樹 vs [GAINA](https://ja.wikipedia.org/wiki/湯浅和也 "wikilink")
-  - 浜中和宏 vs [竹村豪氏](https://ja.wikipedia.org/wiki/竹村豪氏 "wikilink")
-  - 鈴木みのる&西村修組 vs [松井大二郎](https://ja.wikipedia.org/wiki/松井大二郎 "wikilink")&[須田匡昇](https://ja.wikipedia.org/wiki/須田匡昇 "wikilink")組
+  - [プチシルマン](../Page/ドン荒川.md "wikilink") vs [ジャイアント小馬場](https://ja.wikipedia.org/wiki/ジャイアント小馬場 "wikilink")
+  - 神取忍&[ジャガー横田](https://ja.wikipedia.org/wiki/ジャガー横田 "wikilink")組 vs [豊田真奈美](../Page/豊田真奈美.md "wikilink")&美花組
+  - [アントニオ小猪木](https://ja.wikipedia.org/wiki/アントニオ小猪木 "wikilink")&[ハチミツ二郎](../Page/ハチミツ二郎.md "wikilink")&[超能力少年ダイジ](https://ja.wikipedia.org/wiki/超能力少年ダイジ "wikilink")組 vs [ラブセクシー乙羽屋](https://ja.wikipedia.org/wiki/ラブセクシー乙羽屋 "wikilink")&ラブセクシー・ローズ&ラブセクシー・ヤング組
+  - 高瀬大樹 vs [GAINA](../Page/湯浅和也.md "wikilink")
+  - 浜中和宏 vs [竹村豪氏](../Page/竹村豪氏.md "wikilink")
+  - 鈴木みのる&西村修組 vs [松井大二郎](../Page/松井大二郎.md "wikilink")&[須田匡昇](../Page/須田匡昇.md "wikilink")組
 
-上井が「第一章完結」と語る年内最終興行。格闘技系が頓挫してエンターテイメントに走り頓挫して再び格闘技系に戻り頓挫して迎えた今大会は[西口プロレス](https://ja.wikipedia.org/wiki/西口プロレス "wikilink")勢が参戦して再びエンターテイメントとなる。この大会をもって契約が切れるメインスポンサーのレダのもとプロレスを初めて見る方（スポンサー無料招待客）を意識した「アッと驚く展開」、「規格外の試合」を用意すると豪語していたが高瀬と戦う超大物Xが大阪プロレスのGAINAであったりプチシルマカップ争奪バトルロイヤルが中止になったりと最後まで「らしい」ドタバタぶりであった。入場料金が「両国クラス」と上井が語るほど値上がったうえに土曜日昼開催であったが前日にプチシルマの全国大会がありその参加者を招待したため満員であったものの事実上、[レダの貸切興行のような形であった](https://ja.wikipedia.org/wiki/レダ_\(企業\) "wikilink")。この大会で上井は、駅長のコスプレを封印してUWAI STATIONというイベント興行の終了を宣言。
+上井が「第一章完結」と語る年内最終興行。格闘技系が頓挫してエンターテイメントに走り頓挫して再び格闘技系に戻り頓挫して迎えた今大会は[西口プロレス](../Page/西口プロレス.md "wikilink")勢が参戦して再びエンターテイメントとなる。この大会をもって契約が切れるメインスポンサーのレダのもとプロレスを初めて見る方（スポンサー無料招待客）を意識した「アッと驚く展開」、「規格外の試合」を用意すると豪語していたが高瀬と戦う超大物Xが大阪プロレスのGAINAであったりプチシルマカップ争奪バトルロイヤルが中止になったりと最後まで「らしい」ドタバタぶりであった。入場料金が「両国クラス」と上井が語るほど値上がったうえに土曜日昼開催であったが前日にプチシルマの全国大会がありその参加者を招待したため満員であったものの事実上、[レダの貸切興行のような形であった](../Page/レダ_\(企業\).md "wikilink")。この大会で上井は、駅長のコスプレを封印してUWAI STATIONというイベント興行の終了を宣言。
 
 [Category:プロレスの興行](https://ja.wikipedia.org/wiki/Category:プロレスの興行 "wikilink")

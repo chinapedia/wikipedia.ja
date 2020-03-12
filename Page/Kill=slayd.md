@@ -5,24 +5,24 @@
 
 ## メンバー
 
-  - [TOKI](https://ja.wikipedia.org/wiki/TOKI "wikilink")（トキ、[10月31日](https://ja.wikipedia.org/wiki/10月31日 "wikilink")-）　[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")　[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身
+  - [TOKI](https://ja.wikipedia.org/wiki/TOKI "wikilink")（トキ、[10月31日](../Page/10月31日.md "wikilink")-）　[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")　[東京都](../Page/東京都.md "wikilink")出身
 
 <!-- end list -->
 
   -
-    解散後は[STEALTHとして活動後](https://ja.wikipedia.org/wiki/TOKI#STEALTH "wikilink")、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")に[C4を結成した](https://ja.wikipedia.org/wiki/C4_\(ロックバンド\) "wikilink")。メンバーは[大村孝佳](https://ja.wikipedia.org/wiki/大村孝佳 "wikilink")、[Junji](https://ja.wikipedia.org/wiki/Junji "wikilink")（ex.[Laputa](../Page/Laputa.md "wikilink")）、Tomoi（ex.[Laputa](../Page/Laputa.md "wikilink")）。※2019年現在
+    解散後は[STEALTHとして活動後](https://ja.wikipedia.org/wiki/TOKI#STEALTH "wikilink")、[2007年](../Page/2007年.md "wikilink")に[C4を結成した](https://ja.wikipedia.org/wiki/C4_\(ロックバンド\) "wikilink")。メンバーは[大村孝佳](../Page/大村孝佳.md "wikilink")、[Junji](../Page/Junji.md "wikilink")（ex.[Laputa](../Page/Laputa.md "wikilink")）、Tomoi（ex.[Laputa](../Page/Laputa.md "wikilink")）。※2019年現在
     [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")、STEALTHを再始動。
 
 <!-- end list -->
 
   - IZA（イザ、旧[芸名](../Page/芸名.md "wikilink")：IZAYOI）　[ギター](../Page/ギター.md "wikilink")
-  - JUN≒NA（ジュンナ）　[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - JUN≒NA（ジュンナ）　[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
 
 <!-- end list -->
 
   -
     解散後はAlteMissioN（ex.[Blüe](https://ja.wikipedia.org/wiki/Blue_\(日本のバンド\) "wikilink")）を結成した。
-    [ENDLESS](https://ja.wikipedia.org/wiki/ENDLESS "wikilink")、[D≒SIRE](https://ja.wikipedia.org/wiki/D≒SIRE "wikilink")のサポートメンバーだった。
+    [ENDLESS](https://ja.wikipedia.org/wiki/ENDLESS "wikilink")、[D≒SIRE](../Page/D≒SIRE.md "wikilink")のサポートメンバーだった。
 
 <!-- end list -->
 
@@ -74,8 +74,8 @@
 
 <!-- end list -->
 
-  - 4月、2ndミニアルバム「-Peripheral-」をリリース。4月には[日清パワーステーション](https://ja.wikipedia.org/wiki/日清パワーステーション "wikilink")ワンマン（SOLD OUT）。ドラムのAKIRAが脱退し、KAZUSHIが加入する。これでKill=slaydの最終的なメンバーが揃う。
-  - 12月、[TOKI](https://ja.wikipedia.org/wiki/TOKI "wikilink")主催イベント「STELS」を目黒鹿鳴館にて開催（SOLD OUT）。[TAKURO](../Page/TAKURO.md "wikilink")（[GLAY](../Page/GLAY.md "wikilink")）、[TOSHI NAGAI](https://ja.wikipedia.org/wiki/永井利光 "wikilink")（GLAYサポート）、[D.I.E.](../Page/D.I.E..md "wikilink")（[hide with Spread Beaver](https://ja.wikipedia.org/wiki/hide_with_Spread_Beaver "wikilink")）、[YUKIYA](https://ja.wikipedia.org/wiki/YUKIYA "wikilink")（[D≒SIRE](https://ja.wikipedia.org/wiki/D≒SIRE "wikilink")）等が出演。このプロジェクトは後の[STEALTHになる](https://ja.wikipedia.org/wiki/TOKI#STEALTH "wikilink")。
+  - 4月、2ndミニアルバム「-Peripheral-」をリリース。4月には[日清パワーステーション](../Page/日清パワーステーション.md "wikilink")ワンマン（SOLD OUT）。ドラムのAKIRAが脱退し、KAZUSHIが加入する。これでKill=slaydの最終的なメンバーが揃う。
+  - 12月、[TOKI](https://ja.wikipedia.org/wiki/TOKI "wikilink")主催イベント「STELS」を目黒鹿鳴館にて開催（SOLD OUT）。[TAKURO](../Page/TAKURO.md "wikilink")（[GLAY](../Page/GLAY.md "wikilink")）、[TOSHI NAGAI](../Page/永井利光.md "wikilink")（GLAYサポート）、[D.I.E.](../Page/D.I.E..md "wikilink")（[hide with Spread Beaver](https://ja.wikipedia.org/wiki/hide_with_Spread_Beaver "wikilink")）、[YUKIYA](../Page/YUKIYA.md "wikilink")（[D≒SIRE](../Page/D≒SIRE.md "wikilink")）等が出演。このプロジェクトは後の[STEALTHになる](https://ja.wikipedia.org/wiki/TOKI#STEALTH "wikilink")。
 
 <!-- end list -->
 
@@ -92,7 +92,7 @@
 
 <!-- end list -->
 
-  - 6月25日、1stフルアルバム「HEAT」にて[日本クラウン](https://ja.wikipedia.org/wiki/日本クラウン "wikilink")からメジャーデビュー。
+  - 6月25日、1stフルアルバム「HEAT」にて[日本クラウン](../Page/日本クラウン.md "wikilink")からメジャーデビュー。
   - 7月24日、1stシングル「激しく強く壊れるほどに」リリース。
   - 8月21日、ミニアルバム「undertaker」リリース。
 
@@ -121,20 +121,20 @@
 ### シングル
 
   - 「Krank」（ZAK DISK）※インディーズラストディスクとして発売。
-  - 「激しく強く壊れるほどに」（1997年7月24日発売/[日本クラウン](https://ja.wikipedia.org/wiki/日本クラウン "wikilink")）※[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系「脳みその具」エンディングテーマ。
-  - 「Krank～JET the PHANTOM MIX～ / believing」（1998年1月21日発売/[日本クラウン](https://ja.wikipedia.org/wiki/日本クラウン "wikilink")）
-  - 「Masquerade」（1998年3月25日発売/[日本クラウン](https://ja.wikipedia.org/wiki/日本クラウン "wikilink")）
+  - 「激しく強く壊れるほどに」（1997年7月24日発売/[日本クラウン](../Page/日本クラウン.md "wikilink")）※[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系「脳みその具」エンディングテーマ。
+  - 「Krank～JET the PHANTOM MIX～ / believing」（1998年1月21日発売/[日本クラウン](../Page/日本クラウン.md "wikilink")）
+  - 「Masquerade」（1998年3月25日発売/[日本クラウン](../Page/日本クラウン.md "wikilink")）
 
 ### ミニアルバム
 
   - 「‡Death 13‡」（FIXER RECORDS）※初CD作品、後に2曲追加で再発された。
   - 「-Perpheral-」（Aop Project）
-  - 「undertaker」（1997年8月21日発売/[日本クラウン](https://ja.wikipedia.org/wiki/日本クラウン "wikilink")）※メジャー1stミニアルバム、ボーナスディスク付き。
+  - 「undertaker」（1997年8月21日発売/[日本クラウン](../Page/日本クラウン.md "wikilink")）※メジャー1stミニアルバム、ボーナスディスク付き。
 
 ### フルアルバム
 
-  - 「HEAT」（1997年6月25日発売/[日本クラウン](https://ja.wikipedia.org/wiki/日本クラウン "wikilink")）※メジャーデビュー作品。
-  - 「Highter」（1998年7月23日発売/[日本クラウン](https://ja.wikipedia.org/wiki/日本クラウン "wikilink")）
+  - 「HEAT」（1997年6月25日発売/[日本クラウン](../Page/日本クラウン.md "wikilink")）※メジャーデビュー作品。
+  - 「Highter」（1998年7月23日発売/[日本クラウン](../Page/日本クラウン.md "wikilink")）
 
 ### ベストアルバム
 
@@ -148,7 +148,7 @@
 ### ビデオ
 
   - 「COSA.NOSTRA CIRCULATION」※インディーズ1stビデオ
-  - 「TEMPEST」（1998年6月24日発売/[日本クラウン](https://ja.wikipedia.org/wiki/日本クラウン "wikilink")）※メジャー1stビデオ
+  - 「TEMPEST」（1998年6月24日発売/[日本クラウン](../Page/日本クラウン.md "wikilink")）※メジャー1stビデオ
 
 ### デモテープ
 

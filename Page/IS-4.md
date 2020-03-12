@@ -12,27 +12,27 @@
 
 L.S.トロヤーノフ技師とMVTUの特別技術チームにより、本車の開発はオブイェークト703（IS-3）よりもかなり早い1943年7月から始まっているが、計画の進行が加速化したのは1944年春からであった。1944年4月、オブイェークト701 No.0試作車が完成、キーロフスキー工場における機動試験で、延べ1230kmを走破した。翌月までに改良型エンジンを搭載したNo.1とNo.2の二輌の試作車が完成し、前者には（100mm戦車砲S-34の口径拡大版である）122mm戦車砲S-34-Pを、後者には100mm戦車砲S-34-1が装備され、試験が行われた。しかし弾頭・薬莢一体式で長い100mm砲弾は車内に僅か11発しか搭載できず、量産型では対装甲威力で劣るものの、弾薬のストックが充分にあった従来型の122mm砲D-25Tが採用されている。その後、車体側面上部の傾斜を大きくしたNo.3、9月にはN0.4が作られ、年内までに車体前面上部装甲を140mmに強化しDT-25を載せたNo.5、S-34-Pを載せたNo.6が完成。性能改善の努力が続けられたが大戦終結までに間に合わず、ようやく戦後の1946年9月29日に**IS-4**として制式採用された。
 
-本車は[IS-2](https://ja.wikipedia.org/wiki/IS-2 "wikilink")重戦車を大型化・重装甲化し、[V型12気筒](https://ja.wikipedia.org/wiki/V型12気筒 "wikilink")に[スーパーチャージャー](../Page/スーパーチャージャー.md "wikilink")を付けて出力強化したエンジンを搭載したもので、その冷却機構は[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")軍の[パンターを参考にしており](../Page/V号戦車パンター.md "wikilink")、グリルの形状が類似している。
+本車は[IS-2](../Page/IS-2.md "wikilink")重戦車を大型化・重装甲化し、[V型12気筒](../Page/V型12気筒.md "wikilink")に[スーパーチャージャー](../Page/スーパーチャージャー.md "wikilink")を付けて出力強化したエンジンを搭載したもので、その冷却機構は[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")軍の[パンターを参考にしており](../Page/V号戦車パンター.md "wikilink")、グリルの形状が類似している。
 
-重武装・重装甲の代償として重量があるため扱いやすい戦車にはなり得ず、[IS-3](https://ja.wikipedia.org/wiki/IS-3 "wikilink")の2.84倍というコストの高さと、続く[T-10の採用もあって](../Page/T-10_\(戦車\).md "wikilink")、[1949年](../Page/1949年.md "wikilink")4月までに219輌が量産されたが、比較的短期の運用の後、退役した。
+重武装・重装甲の代償として重量があるため扱いやすい戦車にはなり得ず、[IS-3](../Page/IS-3.md "wikilink")の2.84倍というコストの高さと、続く[T-10の採用もあって](../Page/T-10_\(戦車\).md "wikilink")、[1949年](../Page/1949年.md "wikilink")4月までに219輌が量産されたが、比較的短期の運用の後、退役した。
 
 ## 構成
 
-基本的に[IS-2](https://ja.wikipedia.org/wiki/IS-2 "wikilink")の発展型であるが、そのデザインには[ドイツ軍](https://ja.wikipedia.org/wiki/ドイツ陸軍_\(国防軍\) "wikilink")[重戦車](../Page/重戦車.md "wikilink")の影響も見てとれる。
+基本的に[IS-2](../Page/IS-2.md "wikilink")の発展型であるが、そのデザインには[ドイツ軍](https://ja.wikipedia.org/wiki/ドイツ陸軍_\(国防軍\) "wikilink")[重戦車](../Page/重戦車.md "wikilink")の影響も見てとれる。
 
 それまでの多くのソ連重戦車に課せられた「重量46t以下」という制限は撤廃されており、そのため車内容積に余裕があり、居住性や操作性が改善されている。主砲弾薬庫の位置も全て砲塔後部に収納され、バネ式せり出し装置付弾薬ケースにより、重い砲弾の装填が従来より容易になっていた。
 
 IS-2に比べ装甲厚も全方向で大幅に増しており、車体は表面硬化処理された圧延鋼の溶接組み立て、砲塔は鋳造製であった。
 
-主砲は従来のISシリーズと同じ122mm D-25Tで、旋回だけでなく俯仰も[電動モーターで行った](../Page/電動機.md "wikilink")。対空及び同軸機銃は口径12.7mmの[DShK重機関銃であった](https://ja.wikipedia.org/wiki/DShK38重機関銃 "wikilink")。
+主砲は従来のISシリーズと同じ122mm D-25Tで、旋回だけでなく俯仰も[電動モーターで行った](../Page/電動機.md "wikilink")。対空及び同軸機銃は口径12.7mmの[DShK重機関銃であった](../Page/DShK38重機関銃.md "wikilink")。
 
-独自の回転機構と増幅器を持つ[遊星歯車式操行変速装置を搭載していたが](https://ja.wikipedia.org/wiki/遊星歯車機構 "wikilink")、車重が重いこともあり、取り扱いの困難さはそれまでのソビエト製戦車に比べて向上はしていなかったとされる。
+独自の回転機構と増幅器を持つ[遊星歯車式操行変速装置を搭載していたが](../Page/遊星歯車機構.md "wikilink")、車重が重いこともあり、取り扱いの困難さはそれまでのソビエト製戦車に比べて向上はしていなかったとされる。
 
 ## 運用
 
 IS-4はソ連軍のみで運用され、同盟国への供与は無かった。また[朝鮮戦争](https://ja.wikipedia.org/wiki/朝鮮戦争 "wikilink")の勃発に伴って国境付近に部隊が集められたものの、実戦参加の記録は無い。現役車両には後にIS-3Mに準じた近代改修が加えられたが、[1960年代](../Page/1960年代.md "wikilink")に全て退役している。
 
-現在では1輌がモスクワ郊外の[クビンカ軍事博物館に展示されている](https://ja.wikipedia.org/wiki/クビンカ戦車博物館 "wikilink")。
+現在では1輌がモスクワ郊外の[クビンカ軍事博物館に展示されている](../Page/クビンカ戦車博物館.md "wikilink")。
 
 ## IS-5およびIS-6
 
@@ -54,8 +54,8 @@ IS重戦車シリーズの開発はその後も続行されたが、[1945年](..
     ランク5、ソ連重戦車ツリーにて開発可能。
   - 『[World of Tanks](https://ja.wikipedia.org/wiki/World_of_Tanks "wikilink")』
     [ソ連](../Page/ソビエト連邦軍.md "wikilink")[重戦車](../Page/重戦車.md "wikilink")IS-4として開発可能。
-  - 『[バトルフィールド1942](https://ja.wikipedia.org/wiki/バトルフィールド1942 "wikilink")』
-    [MOD](https://ja.wikipedia.org/wiki/Mod_\(コンピュータゲーム\) "wikilink")『[Forgotten Hope Secret Weapon](https://ja.wikipedia.org/wiki/Forgotten_Hope_Secret_Weapon "wikilink")』にソ連軍戦車として登場。火炎放射器付きのOTIS-4も登場する。
+  - 『[バトルフィールド1942](../Page/バトルフィールド1942.md "wikilink")』
+    [MOD](../Page/Mod_\(コンピュータゲーム\).md "wikilink")『[Forgotten Hope Secret Weapon](https://ja.wikipedia.org/wiki/Forgotten_Hope_Secret_Weapon "wikilink")』にソ連軍戦車として登場。火炎放射器付きのOTIS-4も登場する。
 
 ## 参考文献
 
@@ -64,7 +64,7 @@ IS重戦車シリーズの開発はその後も続行されたが、[1945年](..
 ## 関連項目
 
   - [戦車の一覧](https://ja.wikipedia.org/wiki/戦車の一覧 "wikilink")
-  - [IS-2](https://ja.wikipedia.org/wiki/IS-2 "wikilink")
+  - [IS-2](../Page/IS-2.md "wikilink")
   - [IS-7](https://ja.wikipedia.org/wiki/IS-7 "wikilink")
   - [T-10](../Page/T-10_\(戦車\).md "wikilink")
 

@@ -23,7 +23,7 @@
 
   - 清春: Vocals
   - 人時: Bass
-  - [そうる透](https://ja.wikipedia.org/wiki/そうる透 "wikilink"): Drums
+  - [そうる透](../Page/そうる透.md "wikilink"): Drums
   - 佐久間正英: Additional Guitar, keyboards & programing
   - Qumico Fucci: Additional vocal
 

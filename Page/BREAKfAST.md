@@ -1,7 +1,7 @@
 > この記事は[BREAKfAST](https://ja.wikipedia.org/wiki/BREAKfAST)から翻訳されています。
 
 
-**BREAKfAST**（ブレークファスト）は日本の[カオティック・ハードコア](https://ja.wikipedia.org/wiki/カオティック・ハードコア "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。1998年結成。根本には[ブラック・フラッグ](https://ja.wikipedia.org/wiki/ブラック・フラッグ "wikilink")の様な[オールドスクール・ヒップホップ](https://ja.wikipedia.org/wiki/オールドスクール・ヒップホップ "wikilink")・ハードコアのスタイルがありながら、今までには無かった、彼ら独自のロックの形を呈示している。ボーカルの森本雑感のMCは、彼らのライブの見所の一つ。また、森本雑感は[diskunionのフリーペーパー](../Page/ディスクユニオン.md "wikilink")[FOLLOW UPに](https://ja.wikipedia.org/wiki/FOLLOW_UP "wikilink")「BREAKfASTに至る思考の手順」を連載している。 2017年12月24日にオフィシャルTwitter、Facebookにて解散を発表した。
+**BREAKfAST**（ブレークファスト）は日本の[カオティック・ハードコア](../Page/カオティック・ハードコア.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。1998年結成。根本には[ブラック・フラッグ](https://ja.wikipedia.org/wiki/ブラック・フラッグ "wikilink")の様な[オールドスクール・ヒップホップ](../Page/オールドスクール・ヒップホップ.md "wikilink")・ハードコアのスタイルがありながら、今までには無かった、彼ら独自のロックの形を呈示している。ボーカルの森本雑感のMCは、彼らのライブの見所の一つ。また、森本雑感は[diskunionのフリーペーパー](../Page/ディスクユニオン.md "wikilink")[FOLLOW UPに](https://ja.wikipedia.org/wiki/FOLLOW_UP "wikilink")「BREAKfASTに至る思考の手順」を連載している。 2017年12月24日にオフィシャルTwitter、Facebookにて解散を発表した。
 
 ## メンバー
 
@@ -74,8 +74,8 @@
   - [BOYS NOW](../Page/BOYS_NOW.md "wikilink")
   - [ストラグル・フォー・プライド](https://ja.wikipedia.org/wiki/ストラグル・フォー・プライド "wikilink")
   - [アブラハム・クロス](https://ja.wikipedia.org/wiki/アブラハム・クロス "wikilink")
-  - [ノイズロック](https://ja.wikipedia.org/wiki/ノイズロック "wikilink")
-  - [カオティック・ハードコア](https://ja.wikipedia.org/wiki/カオティック・ハードコア "wikilink")
+  - [ノイズロック](../Page/ノイズロック.md "wikilink")
+  - [カオティック・ハードコア](../Page/カオティック・ハードコア.md "wikilink")
   - [ファストコア](../Page/ファストコア.md "wikilink")
 
 ## 外部リンク

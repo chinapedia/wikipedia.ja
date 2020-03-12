@@ -19,7 +19,7 @@
 
 1.  **楽園**
       -
-        作詞 [Ryo Owatari](https://ja.wikipedia.org/wiki/大渡亮 "wikilink")　作曲：[D・A・I](https://ja.wikipedia.org/wiki/D・A・I "wikilink")　編曲：D・A・I & [Seiji Kameda](https://ja.wikipedia.org/wiki/亀田誠治 "wikilink")
+        作詞 [Ryo Owatari](../Page/大渡亮.md "wikilink")　作曲：[D・A・I](https://ja.wikipedia.org/wiki/D・A・I "wikilink")　編曲：D・A・I & [Seiji Kameda](../Page/亀田誠治.md "wikilink")
 2.  楽園（Instrumental）
 
 ### DVD
@@ -43,7 +43,7 @@
 
 ### 解説
 
-過去に発表された楽曲16曲を[伴都美子](https://ja.wikipedia.org/wiki/伴都美子 "wikilink")、[大渡亮](https://ja.wikipedia.org/wiki/大渡亮 "wikilink")のメンバー2人だけで再録音し、16週連続で配信していく「2 of Us」と銘打たれたプロジェクトの第13弾。
+過去に発表された楽曲16曲を[伴都美子](https://ja.wikipedia.org/wiki/伴都美子 "wikilink")、[大渡亮](../Page/大渡亮.md "wikilink")のメンバー2人だけで再録音し、16週連続で配信していく「2 of Us」と銘打たれたプロジェクトの第13弾。
 
 ### 収録曲
 

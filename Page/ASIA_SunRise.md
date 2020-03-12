@@ -1,11 +1,11 @@
 > この記事は[ASIA SunRise](https://ja.wikipedia.org/wiki/ASIA_SunRise)から翻訳されています。
 
 
-日本の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")。ボーカル・ギター担当の**畑崎大樹**以外は特定のメンバーはおらず、自由なスタイルを取っている。
+日本の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。ボーカル・ギター担当の**畑崎大樹**以外は特定のメンバーはおらず、自由なスタイルを取っている。
 
 畑崎大樹は29歳まで地元[和歌山](https://ja.wikipedia.org/wiki/和歌山 "wikilink")で喫茶店を経営していたが、2000年、音楽活動に専念するために上京し、**ASIA SunRise**（アジア・サンライズ）として活動。自身で作詞作曲を手がけ、主にクラシックギターとエレキギターの弾き語りを中心に、年間100本以上のライブ活動を行う。
 
-インディーズにて「Happy」「Rainbowman」「Sunshine boy」の3枚をリリース後、2007年にメジャーアルバム「原色」を[ヴィレッジミュージック](https://ja.wikipedia.org/wiki/ヴィレッジミュージック "wikilink")よりリリース。
+インディーズにて「Happy」「Rainbowman」「Sunshine boy」の3枚をリリース後、2007年にメジャーアルバム「原色」を[ヴィレッジミュージック](../Page/ヴィレッジミュージック.md "wikilink")よりリリース。
 
 2010年には shibuya duo MUSIC EXCHANGE で行われたワンマンライブのDVD「Oh yeah！」、2011年にフルアルバム「情熱すてるな」をリリース。タイトル曲「情熱すてるな」が、テレビ朝日「[ちい散歩](https://ja.wikipedia.org/wiki/ちい散歩 "wikilink")」同年4月\~6月エンディングテーマに起用される。
 
@@ -89,9 +89,9 @@
   - [おおはた雄一](../Page/おおはた雄一.md "wikilink")
   - [山田タマル](https://ja.wikipedia.org/wiki/山田タマル "wikilink")
   - KENJI([IZANAMI](https://ja.wikipedia.org/wiki/IZANAMI "wikilink")・[鼓醒](https://ja.wikipedia.org/wiki/鼓醒 "wikilink"))
-  - KO-HEY（[Skoop On Somebody](https://ja.wikipedia.org/wiki/Skoop_On_Somebody "wikilink")）
+  - KO-HEY（[Skoop On Somebody](../Page/Skoop_On_Somebody.md "wikilink")）
   - CHIBI（[紫](../Page/紫_\(バンド\).md "wikilink")）
-  - [スカポンタス](https://ja.wikipedia.org/wiki/スカポンタス "wikilink")
+  - [スカポンタス](../Page/スカポンタス.md "wikilink")
   - [よしうらけんじ](https://ja.wikipedia.org/wiki/よしうらけんじ "wikilink")
   - [沖仁](https://ja.wikipedia.org/wiki/沖仁 "wikilink")
   - [DJ MASS](https://ja.wikipedia.org/wiki/DJ_MASS "wikilink")

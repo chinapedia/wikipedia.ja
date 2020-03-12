@@ -7,7 +7,7 @@
 
 [モロッコ](../Page/モロッコ.md "wikilink")国内の全2,110kmの幹線ネットワークのうち、640km（30%）が[複線](https://ja.wikipedia.org/wiki/複線 "wikilink")、1,580km（75%）が[電化されている](../Page/鉄道の電化.md "wikilink")\[1\]。[軌間](../Page/軌間.md "wikilink")は[標準軌](../Page/標準軌.md "wikilink")（1,435mm）が使われている。線路自体は隣国の[アルジェリア](../Page/アルジェリア.md "wikilink")とも接続しているが、現在は[国境](../Page/国境.md "wikilink")が閉鎖されているため、直通列車は走っていない。駅数は120である。
 
-[マラケシュ](https://ja.wikipedia.org/wiki/マラケシュ "wikilink")－[カサブランカ](../Page/カサブランカ.md "wikilink")－[タンジェ](https://ja.wikipedia.org/wiki/タンジェ "wikilink")間、[カサブランカ](../Page/カサブランカ.md "wikilink")－[フェズ](https://ja.wikipedia.org/wiki/フェズ "wikilink")－[ウジュダ](https://ja.wikipedia.org/wiki/ウジュダ "wikilink")間には、[寝台列車](../Page/寝台列車.md "wikilink")も走っている。また、[カサブランカ](../Page/カサブランカ.md "wikilink")から[ムハンマド5世国際空港](https://ja.wikipedia.org/wiki/ムハンマド5世国際空港 "wikilink")への[空港アクセス列車もある](https://ja.wikipedia.org/wiki/空港連絡鉄道 "wikilink")。
+[マラケシュ](../Page/マラケシュ.md "wikilink")－[カサブランカ](../Page/カサブランカ.md "wikilink")－[タンジェ](../Page/タンジェ.md "wikilink")間、[カサブランカ](../Page/カサブランカ.md "wikilink")－[フェズ](../Page/フェズ.md "wikilink")－[ウジュダ](https://ja.wikipedia.org/wiki/ウジュダ "wikilink")間には、[寝台列車](../Page/寝台列車.md "wikilink")も走っている。また、[カサブランカ](../Page/カサブランカ.md "wikilink")から[ムハンマド5世国際空港](../Page/ムハンマド5世国際空港.md "wikilink")への[空港アクセス列車もある](../Page/空港連絡鉄道.md "wikilink")。
 
 2016年版の経営報告書によれば、旅客部門の実績は年間旅客数は39,500,000人・1日の旅客列車本数は220本・年間運賃収入1,420,000ディルハムである。また貨物部門の実績は年間輸送貨物量28,200,000ton・1日の貨物列車本数は72本である。\[2\]
 

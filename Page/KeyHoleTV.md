@@ -1,17 +1,17 @@
 > この記事は[KeyHoleTV](https://ja.wikipedia.org/wiki/KeyHoleTV)から翻訳されています。
 
 
-**KeyHoleTV**（キーホールTV）は、[P2Pテレビ](https://ja.wikipedia.org/wiki/P2Pテレビ "wikilink")を受信するアプリケーションである。送信アプリケーション**KeyHoleVideo**（キーホールビデオ）を使用すれば個人で配信することもできる。
+**KeyHoleTV**（キーホールTV）は、[P2Pテレビ](../Page/P2Pテレビ.md "wikilink")を受信するアプリケーションである。送信アプリケーション**KeyHoleVideo**（キーホールビデオ）を使用すれば個人で配信することもできる。
 
-日本国内でアナログ放送が終了する2011年7月までの実験プロジェクトの為、アナログ放送停止後は、日本における提携会社コグニティブリサーチラボ代表の[苫米地英人](https://ja.wikipedia.org/wiki/苫米地英人 "wikilink")の資金援助が打ち切られる予定であるが、サービスは続ける予定\[1\]\[2\]。
+日本国内でアナログ放送が終了する2011年7月までの実験プロジェクトの為、アナログ放送停止後は、日本における提携会社コグニティブリサーチラボ代表の[苫米地英人](../Page/苫米地英人.md "wikilink")の資金援助が打ち切られる予定であるが、サービスは続ける予定\[1\]\[2\]。
 
 ## 概要
 
 2006年3月から、[OISEYER Inc.](http://www.oiseyer.com/)により開発されたソフトウェアである。長い間無料で公開していたが、[2012年](../Page/2012年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink")から資金状況の変化から[シェアウェア](../Page/シェアウェア.md "wikilink")となった。
 
-[苫米地英人](https://ja.wikipedia.org/wiki/苫米地英人 "wikilink")がCEOを務める[コグニティブリサーチラボ](http://www.crl.co.jp/)に日本国内のライセンス契約販売を委託している。
+[苫米地英人](../Page/苫米地英人.md "wikilink")がCEOを務める[コグニティブリサーチラボ](http://www.crl.co.jp/)に日本国内のライセンス契約販売を委託している。
 
-[地上デジタル放送難視聴問題解決技術の実証として](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[5月24日](../Page/5月24日.md "wikilink")から[7月28日](../Page/7月28日.md "wikilink")まで[在京キー局のアナログ電波](https://ja.wikipedia.org/wiki/キー局 "wikilink")[区域外再放送](https://ja.wikipedia.org/wiki/区域外再放送 "wikilink")の実験が行われた（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")のみデジアナ変換で再送信していた）。現在は終了しているが、今後も個人としての配信は可能である。ただし、無料の地上波や[BS放送も放送事業者の自動公衆送信権および送信可能化権を損害する行為であり](../Page/日本における衛星放送.md "wikilink")、配信者が著作権を持つ番組に限定されている。
+[地上デジタル放送難視聴問題解決技術の実証として](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")、[2007年](../Page/2007年.md "wikilink")[5月24日](../Page/5月24日.md "wikilink")から[7月28日](../Page/7月28日.md "wikilink")まで[在京キー局のアナログ電波](https://ja.wikipedia.org/wiki/キー局 "wikilink")[区域外再放送](../Page/区域外再放送.md "wikilink")の実験が行われた（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")のみデジアナ変換で再送信していた）。現在は終了しているが、今後も個人としての配信は可能である。ただし、無料の地上波や[BS放送も放送事業者の自動公衆送信権および送信可能化権を損害する行為であり](../Page/日本における衛星放送.md "wikilink")、配信者が著作権を持つ番組に限定されている。
 
 各キー局の協力によるテレビ映像配信期間限定テストについては既に終了しているため、これらと同等の行為を行うことは、著作権侵害・放送権侵害あるいは放送法に触れる場合がある。再送信については放送事業者は総務大臣に届け出、許可を得る必要がある。 アメリカでは地上波の放送内容をインターネット上で流す事を違法とする判決が出ている。 韓国ではインターネットマルチメディア放送事業法のIPTV特別法により地上波放送をインターネット上で流せるよう商用化を行っているが、CATV事業者が反発している。
 
@@ -19,9 +19,9 @@
 
 コグニティブリサーチラボの苫米地代表によれば、「MPEG2やワンセグのMPEG4のエンコードは2秒以上かかり、地震速報など有事の際に2011年にアナログ放送が終了すると、日本国民にとっては大きなリスクとなる。KeyHoleTVで利用されている独自CODECでは、ほぼリアルタイムのエンコードが可能であり地上デジタル放送よりもほぼ2秒はやく送信可能であり、これにより有事の際のリスクが大きく下がり、その為の技術を全世界に無償で配布している」ということである。
 
-現在、希望者にiPhone用のアプリを配布している（OISEYER Inc.が2009年に開発）。ただし、インストールにはiOSの[Jailbreak](https://ja.wikipedia.org/wiki/Jailbreak "wikilink")が必要になる。
+現在、希望者にiPhone用のアプリを配布している（OISEYER Inc.が2009年に開発）。ただし、インストールにはiOSの[Jailbreak](../Page/Jailbreak.md "wikilink")が必要になる。
 
-元々はキー局の番組配信を前提に製作されたアプリだが、一時期はこれを逆手にとって関西の民放、[準キー局](https://ja.wikipedia.org/wiki/準キー局 "wikilink")が放送する[関西ローカル](https://ja.wikipedia.org/wiki/関西ローカル "wikilink")の番組や各地方・各県の番組を配信しているケースが多く見られた。また、無料公開の頃はこのシステムを利用して独自の番組配信を行う者が多くいた。
+元々はキー局の番組配信を前提に製作されたアプリだが、一時期はこれを逆手にとって関西の民放、[準キー局](../Page/準キー局.md "wikilink")が放送する[関西ローカル](../Page/関西ローカル.md "wikilink")の番組や各地方・各県の番組を配信しているケースが多く見られた。また、無料公開の頃はこのシステムを利用して独自の番組配信を行う者が多くいた。
 
 前述の[シェアウェア](../Page/シェアウェア.md "wikilink")化により、音が途切れ途切れで聞こえる・一定時間で映像が止まるといった強力な制限がかかるようになった。制限を解除するにはプレミアムモジュールキーの購入が必要となる。
 
@@ -31,9 +31,9 @@
   - [Windows XP](https://ja.wikipedia.org/wiki/Windows_XP "wikilink")
   - [Windows Vista](https://ja.wikipedia.org/wiki/Windows_Vista "wikilink")
   - [Windows 7](https://ja.wikipedia.org/wiki/Windows_7 "wikilink")
-  - [Windows Mobile](https://ja.wikipedia.org/wiki/Windows_Mobile "wikilink") 5.0 / 6.0（視聴のみ）
+  - [Windows Mobile](../Page/Windows_Mobile.md "wikilink") 5.0 / 6.0（視聴のみ）
   - [Mac OS X](https://ja.wikipedia.org/wiki/macOS "wikilink") 10.4, 10.5, 10.6（視聴のみ）
-  - [Linux](https://ja.wikipedia.org/wiki/Linux "wikilink") （視聴のみ）
+  - [Linux](../Page/Linux.md "wikilink") （視聴のみ）
   - [iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink") （視聴のみ） β インストール時にCydiaが必要
   - [iPad](https://ja.wikipedia.org/wiki/iPad "wikilink") （視聴のみ） β インストール時にCydiaが必要
   - [iPod Touch](https://ja.wikipedia.org/wiki/iPod_Touch "wikilink") （視聴のみ） β インストール時にCydiaが必要
@@ -42,7 +42,7 @@
 
 ## P2P技術
 
-上限350Kbps, 200Kbps, 100Kbpsの三つの送信モードを持つ（[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")時点）。独自の離散数理による圧縮技術を持ち、同等の画質を配信する[H.264](https://ja.wikipedia.org/wiki/H.264 "wikilink")（[ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")などで採用）の2倍から5倍の圧縮性能を持つ。 中央サーバの媒介を必要とするP2P技術であり、純粋なバケツリレー型ではない。地上デジタル放送・地上アナログ放送同様に下りのみの通信が行われている。
+上限350Kbps, 200Kbps, 100Kbpsの三つの送信モードを持つ（[2007年](../Page/2007年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")時点）。独自の離散数理による圧縮技術を持ち、同等の画質を配信する[H.264](../Page/H.264.md "wikilink")（[ワンセグ](../Page/ワンセグ.md "wikilink")などで採用）の2倍から5倍の圧縮性能を持つ。 中央サーバの媒介を必要とするP2P技術であり、純粋なバケツリレー型ではない。地上デジタル放送・地上アナログ放送同様に下りのみの通信が行われている。
 
 ## 備考
 

@@ -1,9 +1,9 @@
 > この記事は[Encyclopedia of Earth](https://ja.wikipedia.org/wiki/Encyclopedia_of_Earth)から翻訳されています。
 
 
-**Encyclopedia of Earth**（インサイクロピーディア・オブ・アース、**EoE**）は、[地球](https://ja.wikipedia.org/wiki/地球 "wikilink")と[自然環境](https://ja.wikipedia.org/wiki/自然環境 "wikilink")、そしてそれらと人間[社会](../Page/社会.md "wikilink")との関わりをテーマとする、[無料](https://ja.wikipedia.org/wiki/無料 "wikilink")で利用可能な信頼性の高い[オンライン百科事典](https://ja.wikipedia.org/wiki/オンライン百科事典 "wikilink")。[環境問題](../Page/環境問題.md "wikilink")や[エネルギー問題](https://ja.wikipedia.org/wiki/エネルギー問題 "wikilink")などと関連した内容の記事が多い。記事は[研究者](https://ja.wikipedia.org/wiki/研究者 "wikilink")や[教師](https://ja.wikipedia.org/wiki/教師 "wikilink")やその他承認を受けた[エキスパート](https://ja.wikipedia.org/wiki/エキスパート "wikilink")らによって執筆され、[査読](https://ja.wikipedia.org/wiki/査読 "wikilink")を受けた上でオンラインで公開されている。文章は平易な英語で書かれており、専門用語の使用を極力減らすことで、研究者や教育者のみではなく学生や広く一般の人々の間でも役に立つ百科事典になることを目指している。\[1\]
+**Encyclopedia of Earth**（インサイクロピーディア・オブ・アース、**EoE**）は、[地球](https://ja.wikipedia.org/wiki/地球 "wikilink")と[自然環境](https://ja.wikipedia.org/wiki/自然環境 "wikilink")、そしてそれらと人間[社会](../Page/社会.md "wikilink")との関わりをテーマとする、[無料](../Page/無料.md "wikilink")で利用可能な信頼性の高い[オンライン百科事典](https://ja.wikipedia.org/wiki/オンライン百科事典 "wikilink")。[環境問題](../Page/環境問題.md "wikilink")や[エネルギー問題](https://ja.wikipedia.org/wiki/エネルギー問題 "wikilink")などと関連した内容の記事が多い。記事は[研究者](https://ja.wikipedia.org/wiki/研究者 "wikilink")や[教師](https://ja.wikipedia.org/wiki/教師 "wikilink")やその他承認を受けた[エキスパート](https://ja.wikipedia.org/wiki/エキスパート "wikilink")らによって執筆され、[査読](../Page/査読.md "wikilink")を受けた上でオンラインで公開されている。文章は平易な英語で書かれており、専門用語の使用を極力減らすことで、研究者や教育者のみではなく学生や広く一般の人々の間でも役に立つ百科事典になることを目指している。\[1\]
 
-EoE は Earth Portal（「[デジタル・ユニバース](https://ja.wikipedia.org/wiki/デジタル・ユニバース "wikilink")」プロジェクト\[2\]の一部）の一部で、ニュースサービス、整理されたメタデータ、環境に関するサーチエンジン、その他の情報源から成る。EoE は[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月](../Page/9月.md "wikilink")に記事数約360の状態でスタートし、2007年5月現在の2300の記事を持つ。EoE のサイト構築、デザイン、およびメンテナンスは、アメリカのインターネットサービス会社 [ManyOne Networks](https://ja.wikipedia.org/wiki/:en:ManyOne "wikilink") が行なっている。
+EoE は Earth Portal（「[デジタル・ユニバース](https://ja.wikipedia.org/wiki/デジタル・ユニバース "wikilink")」プロジェクト\[2\]の一部）の一部で、ニュースサービス、整理されたメタデータ、環境に関するサーチエンジン、その他の情報源から成る。EoE は[2006年](../Page/2006年.md "wikilink")[9月](../Page/9月.md "wikilink")に記事数約360の状態でスタートし、2007年5月現在の2300の記事を持つ。EoE のサイト構築、デザイン、およびメンテナンスは、アメリカのインターネットサービス会社 [ManyOne Networks](https://ja.wikipedia.org/wiki/:en:ManyOne "wikilink") が行なっている。
 
 ## 執筆と公開のプロセス
 
@@ -34,11 +34,11 @@ EoEのテキストコンテンツは全て [クリエイティブ・コモンズ
 
 ## 人物
 
-執筆者と topic editors は環境分野の科学者や教師、専門家によって担われている。執筆者または topic editor の候補者が EoEのwikiシステムにアクセスするための資格付与の審査は Environmental Information Coalition Stewardship Committee （略称EIC、Earth Portal を管理する中心）が行なっている。2006年9月 EoEスタート時点の Stewardship Committee のメンバーは以下の通り。Jim Lester （[Houston Advanced Research Center](https://ja.wikipedia.org/wiki/:en:Houston_Advanced_Research_Center "wikilink")）、 Peter Saundry （[National Council for Science and the Environment](https://ja.wikipedia.org/wiki/:en:National_Council_for_Science_and_the_Environment "wikilink")）、 J. Emmett Duffy （[ウィリアム・アンド・メアリー大学](../Page/ウィリアム・アンド・メアリー大学.md "wikilink")）、 Emily Monosson, Sidney Draggan、そして[Cutler J. Cleveland](https://ja.wikipedia.org/wiki/:en:Cutler_J._Cleveland "wikilink")（[ボストン大学](https://ja.wikipedia.org/wiki/ボストン大学 "wikilink")）。
+執筆者と topic editors は環境分野の科学者や教師、専門家によって担われている。執筆者または topic editor の候補者が EoEのwikiシステムにアクセスするための資格付与の審査は Environmental Information Coalition Stewardship Committee （略称EIC、Earth Portal を管理する中心）が行なっている。2006年9月 EoEスタート時点の Stewardship Committee のメンバーは以下の通り。Jim Lester （[Houston Advanced Research Center](https://ja.wikipedia.org/wiki/:en:Houston_Advanced_Research_Center "wikilink")）、 Peter Saundry （[National Council for Science and the Environment](https://ja.wikipedia.org/wiki/:en:National_Council_for_Science_and_the_Environment "wikilink")）、 J. Emmett Duffy （[ウィリアム・アンド・メアリー大学](../Page/ウィリアム・アンド・メアリー大学.md "wikilink")）、 Emily Monosson, Sidney Draggan、そして[Cutler J. Cleveland](https://ja.wikipedia.org/wiki/:en:Cutler_J._Cleveland "wikilink")（[ボストン大学](../Page/ボストン大学.md "wikilink")）。
 
-編集委員は、同様に2006年9月時点で以下のとおり。[カトラー・クリーブランド](https://ja.wikipedia.org/wiki/カトラー・クリーブランド "wikilink")（Cutler J. Cleveland、Editor-in-Chief）、[ラリー・サンガー](https://ja.wikipedia.org/wiki/ラリー・サンガー "wikilink")（Senior Editor for Policy and Governance）、 Ida Kubiszewski（Editorial Assistant）、 Alejandra Roman（Editorial Assistant）、 and Laura De Angelo（Editorial Assistant）。クリーブランドは[ボストン大学](https://ja.wikipedia.org/wiki/ボストン大学 "wikilink")の[地理学](../Page/地理学.md "wikilink")と[環境学](../Page/環境学.md "wikilink")の教授で、 Editor-in-Chief of the *Encyclopedia of Energy*（Elsevier Science, 2004）の, the *Dictionary of Energy* (Elsevier Science, 2005), and the journal *Ecological Economics*.
+編集委員は、同様に2006年9月時点で以下のとおり。[カトラー・クリーブランド](https://ja.wikipedia.org/wiki/カトラー・クリーブランド "wikilink")（Cutler J. Cleveland、Editor-in-Chief）、[ラリー・サンガー](../Page/ラリー・サンガー.md "wikilink")（Senior Editor for Policy and Governance）、 Ida Kubiszewski（Editorial Assistant）、 Alejandra Roman（Editorial Assistant）、 and Laura De Angelo（Editorial Assistant）。クリーブランドは[ボストン大学](../Page/ボストン大学.md "wikilink")の[地理学](../Page/地理学.md "wikilink")と[環境学](../Page/環境学.md "wikilink")の教授で、 Editor-in-Chief of the *Encyclopedia of Energy*（Elsevier Science, 2004）の, the *Dictionary of Energy* (Elsevier Science, 2005), and the journal *Ecological Economics*.
 
-国際アドバイザリーボードには以下の人物が名前を連ねている。Rita Colwell、Robert W. Corell、Robert Costanza、Mohamed H. A. Hassan、Thomas Homer-Dixon、Andrew J. Hoffman、Steve Hubbell、[サイモン・アッシャー・レヴィン](https://ja.wikipedia.org/wiki/サイモン・アッシャー・レヴィン "wikilink")、Bonnie J. McCay、David W. Orr、Rajendra K. Pachauri, [フランク・シャーウッド・ローランド](https://ja.wikipedia.org/wiki/フランク・シャーウッド・ローランド "wikilink")、B. L. Turner。
+国際アドバイザリーボードには以下の人物が名前を連ねている。Rita Colwell、Robert W. Corell、Robert Costanza、Mohamed H. A. Hassan、Thomas Homer-Dixon、Andrew J. Hoffman、Steve Hubbell、[サイモン・アッシャー・レヴィン](../Page/サイモン・アッシャー・レヴィン.md "wikilink")、Bonnie J. McCay、David W. Orr、Rajendra K. Pachauri, [フランク・シャーウッド・ローランド](../Page/フランク・シャーウッド・ローランド.md "wikilink")、B. L. Turner。
 
 ## 協力機関
 
@@ -70,14 +70,14 @@ EoEのテキストコンテンツは全て [クリエイティブ・コモンズ
   - Sequim Science
   - Elementymology & Elements Multidict
   - TeacherServe®
-  - [ウィスコンシン大学](https://ja.wikipedia.org/wiki/ウィスコンシン大学 "wikilink")出版局
+  - [ウィスコンシン大学](../Page/ウィスコンシン大学.md "wikilink")出版局
   - Global Development and Environment Institute
   - Toxics Use Reduction Institute
   - Great Transition Initiative
   - UNDP（[国際連合開発計画](../Page/国際連合開発計画.md "wikilink")）
-  - UNEP（[国際連合環境計画](https://ja.wikipedia.org/wiki/国際連合環境計画 "wikilink")）
+  - UNEP（[国際連合環境計画](../Page/国際連合環境計画.md "wikilink")）
   - Gund Institute for Ecological Economics
-  - USGS（[アメリカ地質調査所](https://ja.wikipedia.org/wiki/アメリカ地質調査所 "wikilink"))
+  - USGS（[アメリカ地質調査所](../Page/アメリカ地質調査所.md "wikilink"))
   - International Arctic Science Committee
   - University of California Museum of Paleontology
   - International Commission on History of Meteorology
@@ -91,8 +91,8 @@ EoEのテキストコンテンツは全て [クリエイティブ・コモンズ
 
 ## 関連項目
 
-  - [Encyclopedia of Life](https://ja.wikipedia.org/wiki/Encyclopedia_of_Life "wikilink") - [生物](../Page/生物.md "wikilink")に関する信頼性の高いオンライン百科事典。
-  - [スカラーペディア](../Page/スカラーペディア.md "wikilink") - [脳科学](../Page/脳科学.md "wikilink")に関する信頼性の高いオンライン百科事典。[MediaWiki](https://ja.wikipedia.org/wiki/MediaWiki "wikilink")を使用。
+  - [Encyclopedia of Life](../Page/Encyclopedia_of_Life.md "wikilink") - [生物](../Page/生物.md "wikilink")に関する信頼性の高いオンライン百科事典。
+  - [スカラーペディア](../Page/スカラーペディア.md "wikilink") - [脳科学](../Page/脳科学.md "wikilink")に関する信頼性の高いオンライン百科事典。[MediaWiki](../Page/MediaWiki.md "wikilink")を使用。
   - [スタンフォード哲学百科事典](../Page/スタンフォード哲学百科事典.md "wikilink") - [哲学](../Page/哲学.md "wikilink")に関する信頼性の高いオンライン百科事典。専門的。
   - [インターネット哲学百科事典](../Page/インターネット哲学百科事典.md "wikilink") - [哲学](../Page/哲学.md "wikilink")に関する信頼性の高いオンライン百科事典。入門的。
   - [Template:EoE](https://ja.wikipedia.org/wiki/Template:EoE "wikilink")

@@ -1,7 +1,7 @@
 > この記事は[Glean Piece](https://ja.wikipedia.org/wiki/Glean_Piece)から翻訳されています。
 
 
-**Glean Piece**（グリンピース）は[沖縄県](../Page/沖縄県.md "wikilink")の[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")[ユニットである](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")。Gleanは「拾い集める」という意味、Pieceは「かけら」。かけらを拾い集めていく、つまり「コツコツやっていこう\!」という意味を込めて名づけられた。沖縄県[中頭郡](../Page/中頭郡.md "wikilink")[北谷町](https://ja.wikipedia.org/wiki/北谷町 "wikilink")美浜を中心に活動中。2007年CDデビュー。
+**Glean Piece**（グリンピース）は[沖縄県](../Page/沖縄県.md "wikilink")の[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")[ユニットである](../Page/音楽ユニット.md "wikilink")。Gleanは「拾い集める」という意味、Pieceは「かけら」。かけらを拾い集めていく、つまり「コツコツやっていこう\!」という意味を込めて名づけられた。沖縄県[中頭郡](../Page/中頭郡.md "wikilink")[北谷町](../Page/北谷町.md "wikilink")美浜を中心に活動中。2007年CDデビュー。
 
 ## メンバー
 
@@ -71,7 +71,7 @@ QABI-50001（2007年12月19日発売）発売元：イズム
 
 ## 関連項目
 
-  - [2007年の音楽](https://ja.wikipedia.org/wiki/2007年の音楽 "wikilink")
+  - [2007年の音楽](../Page/2007年の音楽.md "wikilink")
 
 ## 外部リンク
 

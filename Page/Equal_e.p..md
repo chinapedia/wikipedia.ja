@@ -7,7 +7,7 @@
 
   - 3rdアルバム「[equal](https://ja.wikipedia.org/wiki/equal_\(アルバム\) "wikilink")」からの先行シングル
   - 三回目となるトリプルA面シングル
-  - なぜか一時期[オリコンでアルバム扱いにされていたことがある](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")。なお[プラネットなどでは](https://ja.wikipedia.org/wiki/プラネット_\(企業\) "wikilink")、最初からシングル扱いだった。
+  - なぜか一時期[オリコンでアルバム扱いにされていたことがある](../Page/オリコンチャート.md "wikilink")。なお[プラネットなどでは](https://ja.wikipedia.org/wiki/プラネット_\(企業\) "wikilink")、最初からシングル扱いだった。
   - エンハンスド仕様で「「廻る、巡る、その核へ」short film trailer」「Live report」「Home Page access」などを収録
   - 今作からクレジットのメンバー表記がカタカナから漢字に変更されている。
 
@@ -23,7 +23,7 @@
         ロックチューン。「[コーダ](https://ja.wikipedia.org/wiki/コーダ_\(音楽\) "wikilink")」とは音楽記号で、楽曲、楽章の終結部として付される部分のこと。
 3.  **talk**(inst.)(3:43)
       -
-        インストゥルメンタルナンバー。PVはないが、[スペースシャワーTV](https://ja.wikipedia.org/wiki/スペースシャワーTV "wikilink")のCMで「廻る、巡る、その核へ」の一部（一番のサビ）を合成した映像が流されたことがある。
+        インストゥルメンタルナンバー。PVはないが、[スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")のCMで「廻る、巡る、その核へ」の一部（一番のサビ）を合成した映像が流されたことがある。
 
 作詞：大木伸夫、作曲：ACIDMAN
 

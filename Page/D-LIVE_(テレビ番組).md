@@ -35,9 +35,9 @@
 
   - [車載カメラ](https://ja.wikipedia.org/wiki/車載カメラ "wikilink")
   - [カーナビ](https://ja.wikipedia.org/wiki/カーナビ "wikilink")
-  - [ハウスミュージック](https://ja.wikipedia.org/wiki/ハウス_\(音楽\) "wikilink")
+  - [ハウスミュージック](../Page/ハウス_\(音楽\).md "wikilink")
   - [首都高速道路](https://ja.wikipedia.org/wiki/首都高速道路 "wikilink")
-  - [EMMA](https://ja.wikipedia.org/wiki/EMMA "wikilink")
+  - [EMMA](../Page/EMMA.md "wikilink")
   - [TARO KAWAUCHI](https://ja.wikipedia.org/wiki/TARO_KAWAUCHI "wikilink")
 
 [Category:テレビ東京の深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京の深夜番組の歴史 "wikilink") [Category:自動車番組](https://ja.wikipedia.org/wiki/Category:自動車番組 "wikilink") [Category:テレビ東京の音楽番組](https://ja.wikipedia.org/wiki/Category:テレビ東京の音楽番組 "wikilink")

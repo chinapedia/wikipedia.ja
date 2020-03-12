@@ -5,7 +5,7 @@
 
 本作はマインドコントロール専用アダルトサイト「E=mC²」に投稿小説として掲載されたのち、2001年からは作者のウェブサイトにも掲載された。
 
-その後、シナリオの秀逸さが[キャリエール](https://ja.wikipedia.org/wiki/キャリエール "wikilink")の目に留まり、[2003年](../Page/2003年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")に[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")として商品化された\[1\]。 また、2004年6月25日にはバグ修正などが施されたDVD-ROM版が発売されたほか、2008年4月25日にはmintsから[DVDPG版が発売された](https://ja.wikipedia.org/wiki/DVDプレイヤーズゲーム "wikilink")。 また、2008年8月29日には、キャリエールに所属していたスタッフたちが立ち上げた[TAIL WINDから前日譚である](https://ja.wikipedia.org/wiki/TAIL_WIND "wikilink")『MARIONETTE ZERO 』が発売された。
+その後、シナリオの秀逸さが[キャリエール](../Page/キャリエール.md "wikilink")の目に留まり、[2003年](../Page/2003年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")に[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")として商品化された\[1\]。 また、2004年6月25日にはバグ修正などが施されたDVD-ROM版が発売されたほか、2008年4月25日にはmintsから[DVDPG版が発売された](https://ja.wikipedia.org/wiki/DVDプレイヤーズゲーム "wikilink")。 また、2008年8月29日には、キャリエールに所属していたスタッフたちが立ち上げた[TAIL WINDから前日譚である](https://ja.wikipedia.org/wiki/TAIL_WIND "wikilink")『MARIONETTE ZERO 』が発売された。
 
 アダルトゲーム版は全10話構成であり、前半は凌辱劇としての要素が強い一方、後半は登場人物たちが糸に翻弄される姿が描かれている。8話までにヒロインと結ばれると物語がその時点で終了する一方、8話までに誰とも結ばれなかった場合は、糸の謎に迫る9話以降へ進むことができる\[2\]。
 

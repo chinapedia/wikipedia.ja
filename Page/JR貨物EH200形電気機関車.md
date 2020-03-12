@@ -6,23 +6,23 @@
 
 ## 概要
 
-[中央本線](https://ja.wikipedia.org/wiki/中央本線 "wikilink")・[篠ノ井線](https://ja.wikipedia.org/wiki/篠ノ井線 "wikilink")などの勾配線区で使用されてきた [EF64形基本番台の取替えおよび同形式の](../Page/国鉄EF64形電気機関車.md "wikilink")[重連運転](https://ja.wikipedia.org/wiki/重連運転 "wikilink")解消を目的として開発された\[1\]。粘着性能と牽引力を確保するため、[EH500形と同じ](../Page/JR貨物EH500形電気機関車.md "wikilink")2車体連結の8軸駆動（H級）とされ、これまでEF64形を重連としていた運用に単機で充当できる\[2\]。
+[中央本線](https://ja.wikipedia.org/wiki/中央本線 "wikilink")・[篠ノ井線](https://ja.wikipedia.org/wiki/篠ノ井線 "wikilink")などの勾配線区で使用されてきた [EF64形基本番台の取替えおよび同形式の](../Page/国鉄EF64形電気機関車.md "wikilink")[重連運転](../Page/重連運転.md "wikilink")解消を目的として開発された\[1\]。粘着性能と牽引力を確保するため、[EH500形と同じ](../Page/JR貨物EH500形電気機関車.md "wikilink")2車体連結の8軸駆動（H級）とされ、これまでEF64形を重連としていた運用に単機で充当できる\[2\]。
 
 愛称は一般公募により「**ECO POWER ブルーサンダー**」と命名された。
 
 ## 構造
 
-外観は車体前面が 25 [度](https://ja.wikipedia.org/wiki/度_\(角度\) "wikilink") 傾斜した直線基調のデザインで、外部塗色は濃淡ブルー+灰色、[運転室側扉はカラシ色](../Page/操縦席.md "wikilink")（黄緑色）である。
+外観は車体前面が 25 [度](../Page/度_\(角度\).md "wikilink") 傾斜した直線基調のデザインで、外部塗色は濃淡ブルー+灰色、[運転室側扉はカラシ色](../Page/操縦席.md "wikilink")（黄緑色）である。
 
-制御装置は、[IGBT](../Page/絶縁ゲートバイポーラトランジスタ.md "wikilink")[素子を使用した](../Page/半導体素子.md "wikilink")3レベル[VVVFインバータ制御装置を搭載し](https://ja.wikipedia.org/wiki/可変電圧可変周波数制御 "wikilink")、EH500形で実績のある高速トルク制御（[ベクトル](https://ja.wikipedia.org/wiki/ベクトル "wikilink")制御）や、1台のインバータで1台の主電動機を個別に制御する 1C1M 方式を採用した\[3\]。これにより、25 [‰](../Page/パーミル.md "wikilink") [勾配上で](https://ja.wikipedia.org/wiki/線形_\(路線\)#勾配 "wikilink") 1,100 [t](../Page/トン.md "wikilink") の引き出しが可能である\[4\]。補助電源装置異常時には、主回路インバータの1基をCVCF制御することでバックアップとしている。
+制御装置は、[IGBT](../Page/絶縁ゲートバイポーラトランジスタ.md "wikilink")[素子を使用した](../Page/半導体素子.md "wikilink")3レベル[VVVFインバータ制御装置を搭載し](https://ja.wikipedia.org/wiki/可変電圧可変周波数制御 "wikilink")、EH500形で実績のある高速トルク制御（[ベクトル](../Page/ベクトル.md "wikilink")制御）や、1台のインバータで1台の主電動機を個別に制御する 1C1M 方式を採用した\[3\]。これにより、25 [‰](../Page/パーミル.md "wikilink") [勾配上で](https://ja.wikipedia.org/wiki/線形_\(路線\)#勾配 "wikilink") 1,100 [t](../Page/トン.md "wikilink") の引き出しが可能である\[4\]。補助電源装置異常時には、主回路インバータの1基をCVCF制御することでバックアップとしている。
 
 1時間定格出力565kWのFTM4[かご形三相誘導電動機](../Page/かご形三相誘導電動機.md "wikilink")を[吊り掛け式で](../Page/吊り掛け駆動方式.md "wikilink")8基搭載し、機関車全体で4,520kWの1時間定格出力を確保しているが、本形式は短時間最大定格出力を 5,120 [kWと設定することでEF](../Page/ワット.md "wikilink")64形の重連相当の性能を確保している\[5\]。
 
-[台車には](../Page/鉄道車両の台車.md "wikilink")、軸梁式軸箱支持機構を備えたFD7系空気ばね式[ボルスタレス台車](https://ja.wikipedia.org/wiki/ボルスタレス台車 "wikilink")を搭載する。これは[EF210形などで採用実績のあるもので](../Page/JR貨物EF210形電気機関車.md "wikilink")、[台車軸距が](https://ja.wikipedia.org/wiki/ホイールベース "wikilink") 2,500 mm、車輪径が1,120 mmとなっている。1エンド側から、FD7J、FD7K、FD7L、FD7Mとなっている。
+[台車には](../Page/鉄道車両の台車.md "wikilink")、軸梁式軸箱支持機構を備えたFD7系空気ばね式[ボルスタレス台車](https://ja.wikipedia.org/wiki/ボルスタレス台車 "wikilink")を搭載する。これは[EF210形などで採用実績のあるもので](../Page/JR貨物EF210形電気機関車.md "wikilink")、[台車軸距が](../Page/ホイールベース.md "wikilink") 2,500 mm、車輪径が1,120 mmとなっている。1エンド側から、FD7J、FD7K、FD7L、FD7Mとなっている。
 
 制動方式は自車に電気指令式空気ブレーキを採用しており、併用して発電ブレーキを停止と抑速の際に使用する。編成に対しては自動空気ブレーキを採用し、電磁指令装置も装備する。
 
-補機類や計器類の電源を供給する補助電源装置は、1エンド側車体に[静止形インバータ](https://ja.wikipedia.org/wiki/静止形インバータ "wikilink")(SIV)を1基搭載する。IGBT素子を使用した3レベル電圧形PWMインバータをCVCF制御し、210kVAの容量を持つ\[6\]。
+補機類や計器類の電源を供給する補助電源装置は、1エンド側車体に[静止形インバータ](../Page/静止形インバータ.md "wikilink")(SIV)を1基搭載する。IGBT素子を使用した3レベル電圧形PWMインバータをCVCF制御し、210kVAの容量を持つ\[6\]。
 
 ## 形態区分
 
@@ -30,9 +30,9 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Jr_eh200-901.jpg "wikilink")）\]\]
 
-[2001年](../Page/2001年.md "wikilink")に[東芝府中事業所](https://ja.wikipedia.org/wiki/東芝府中事業所 "wikilink")で落成し、[高崎機関区](https://ja.wikipedia.org/wiki/高崎機関区 "wikilink")に新製配置された。各種試験に供され、[2002年](../Page/2002年.md "wikilink")10月より中央本線・篠ノ井線で営業運転を開始した。
+[2001年](../Page/2001年.md "wikilink")に[東芝府中事業所](https://ja.wikipedia.org/wiki/東芝府中事業所 "wikilink")で落成し、[高崎機関区](../Page/高崎機関区.md "wikilink")に新製配置された。各種試験に供され、[2002年](../Page/2002年.md "wikilink")10月より中央本線・篠ノ井線で営業運転を開始した。
 
-正面窓にセンターピラー（中桟）があり、サイドピラーは幅広のものが設けられている。車体側面向かって右側に JRF [ロゴが描かれ](https://ja.wikipedia.org/wiki/ロゴタイプ "wikilink")、愛称ロゴはない。側面のナンバー表示は各車体の中央寄りにある。[パンタグラフはシングルアーム式の](https://ja.wikipedia.org/wiki/集電装置 "wikilink") FPS-4 形で、関節部を車端側に向けて設置される。
+正面窓にセンターピラー（中桟）があり、サイドピラーは幅広のものが設けられている。車体側面向かって右側に JRF [ロゴが描かれ](../Page/ロゴタイプ.md "wikilink")、愛称ロゴはない。側面のナンバー表示は各車体の中央寄りにある。[パンタグラフはシングルアーム式の](../Page/集電装置.md "wikilink") FPS-4 形で、関節部を車端側に向けて設置される。
 
 2018年に第2全検に入り、同年9月14日に大宮車両所を出場したが、側面のJRFロゴが消された。{{-}}
 
@@ -40,7 +40,7 @@
 
 [2003年](../Page/2003年.md "wikilink")3月から2011年にかけて製造された量産機である。
 
-正面窓のセンターピラーがなくなり、サイドピラーの幅が細くなっている。運転室内機器の配置が見直され、機器室内の主送風機は低騒音のものに変更された。また、[連結器](https://ja.wikipedia.org/wiki/連結器 "wikilink")の解放テコにカバーが追加設置されている。
+正面窓のセンターピラーがなくなり、サイドピラーの幅が細くなっている。運転室内機器の配置が見直され、機器室内の主送風機は低騒音のものに変更された。また、[連結器](../Page/連結器.md "wikilink")の解放テコにカバーが追加設置されている。
 
 車体は窓配置等の変更はないが、車体側面向かって右側に「 **Blue Thunder** 」の愛称ロゴが、左側に JRF ロゴが描かれる。
 
@@ -58,13 +58,13 @@
 
 ## 現況と動向
 
-量産機は勾配対策の問題が判明し、[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")3月落成の5号機で製造が一時中断されたが、[CPU](../Page/CPU.md "wikilink")変更・[砂箱増設等の対策が施され](https://ja.wikipedia.org/wiki/砂撒き装置 "wikilink")、同年12月に製造が再開されている。
+量産機は勾配対策の問題が判明し、[2004年](../Page/2004年.md "wikilink")3月落成の5号機で製造が一時中断されたが、[CPU](../Page/CPU.md "wikilink")変更・[砂箱増設等の対策が施され](../Page/砂撒き装置.md "wikilink")、同年12月に製造が再開されている。
 
-本形式は全機が[高崎機関区](https://ja.wikipedia.org/wiki/高崎機関区 "wikilink")に配置され、[塩尻機関区篠ノ井派出](https://ja.wikipedia.org/wiki/塩尻機関区篠ノ井派出 "wikilink")のEF64形重連運用を順次置き換え、2008年3月ダイヤ改正で全列車の置換えが完了した。さらに2012年3月改正では中央東線での運用が本形式に統一された。中央東線・篠ノ井線および[しなの鉄道線](https://ja.wikipedia.org/wiki/しなの鉄道線 "wikilink")内で石油専用[貨物列車](https://ja.wikipedia.org/wiki/貨物列車 "wikilink")を中心に運用されるほか、高崎機関区への入出区に際して[倉賀野駅](https://ja.wikipedia.org/wiki/倉賀野駅 "wikilink")→[川崎貨物駅](https://ja.wikipedia.org/wiki/川崎貨物駅 "wikilink")・[根岸駅](https://ja.wikipedia.org/wiki/根岸駅_\(神奈川県\) "wikilink")→[岡部駅](https://ja.wikipedia.org/wiki/岡部駅 "wikilink")などの運用もある。[2000年代](../Page/2000年代.md "wikilink")に入ってから設定が増加している[タキ1000形](https://ja.wikipedia.org/wiki/JR貨物タキ1000形貨車 "wikilink")[タンク車](https://ja.wikipedia.org/wiki/タンク車 "wikilink")で組成された最高速度 95 [km/h](https://ja.wikipedia.org/wiki/キロメートル毎時 "wikilink") の高速石油列車への充当も多い。
+本形式は全機が[高崎機関区](../Page/高崎機関区.md "wikilink")に配置され、[塩尻機関区篠ノ井派出](https://ja.wikipedia.org/wiki/塩尻機関区篠ノ井派出 "wikilink")のEF64形重連運用を順次置き換え、2008年3月ダイヤ改正で全列車の置換えが完了した。さらに2012年3月改正では中央東線での運用が本形式に統一された。中央東線・篠ノ井線および[しなの鉄道線](https://ja.wikipedia.org/wiki/しなの鉄道線 "wikilink")内で石油専用[貨物列車](https://ja.wikipedia.org/wiki/貨物列車 "wikilink")を中心に運用されるほか、高崎機関区への入出区に際して[倉賀野駅](https://ja.wikipedia.org/wiki/倉賀野駅 "wikilink")→[川崎貨物駅](../Page/川崎貨物駅.md "wikilink")・[根岸駅](https://ja.wikipedia.org/wiki/根岸駅_\(神奈川県\) "wikilink")→[岡部駅](https://ja.wikipedia.org/wiki/岡部駅 "wikilink")などの運用もある。[2000年代](../Page/2000年代.md "wikilink")に入ってから設定が増加している[タキ1000形](../Page/JR貨物タキ1000形貨車.md "wikilink")[タンク車](../Page/タンク車.md "wikilink")で組成された最高速度 95 [km/h](../Page/キロメートル毎時.md "wikilink") の高速石油列車への充当も多い。
 
-2009年3月14日のダイヤ改正より[上越線](https://ja.wikipedia.org/wiki/上越線 "wikilink")へ運用を拡大し、高崎機関区のEF64形1000番台に代わって一部貨物列車の仕業を受け持つようになった\[7\]。また2010年3月のダイヤ改正より上越線の運用は本形式のみの運用となった。上越線運用では、[高崎操車場](https://ja.wikipedia.org/wiki/高崎操車場 "wikilink")での機関車交換を行わず、本形式が[隅田川駅](https://ja.wikipedia.org/wiki/隅田川駅 "wikilink") ・[東京貨物ターミナル駅](../Page/東京貨物ターミナル駅.md "wikilink") - [南長岡駅](https://ja.wikipedia.org/wiki/南長岡駅 "wikilink")・ [新潟貨物ターミナル駅](https://ja.wikipedia.org/wiki/新潟貨物ターミナル駅 "wikilink")間を直通する運用がある。
+2009年3月14日のダイヤ改正より[上越線](https://ja.wikipedia.org/wiki/上越線 "wikilink")へ運用を拡大し、高崎機関区のEF64形1000番台に代わって一部貨物列車の仕業を受け持つようになった\[7\]。また2010年3月のダイヤ改正より上越線の運用は本形式のみの運用となった。上越線運用では、[高崎操車場](../Page/高崎操車場.md "wikilink")での機関車交換を行わず、本形式が[隅田川駅](../Page/隅田川駅.md "wikilink") ・[東京貨物ターミナル駅](../Page/東京貨物ターミナル駅.md "wikilink") - [南長岡駅](../Page/南長岡駅.md "wikilink")・ [新潟貨物ターミナル駅](../Page/新潟貨物ターミナル駅.md "wikilink")間を直通する運用がある。
 
-製作実績は[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")度から[2009年](../Page/2009年.md "wikilink")度まで毎年度3両\[8\]\[9\]\[10\]、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")度は2両\[11\]が製作された。2013年4月現在、試作機のほか量産機が24号機まで製造されている。
+製作実績は[2006年](../Page/2006年.md "wikilink")度から[2009年](../Page/2009年.md "wikilink")度まで毎年度3両\[8\]\[9\]\[10\]、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")度は2両\[11\]が製作された。2013年4月現在、試作機のほか量産機が24号機まで製造されている。
 
 ## 脚注
 
@@ -74,21 +74,21 @@
 
 ## 参考文献
 
-  - 「新車ガイド　EH200形901号機」『[鉄道ファン](../Page/鉄道ファン_\(雑誌\).md "wikilink")』2001年9月号（通巻485号）、[交友社](https://ja.wikipedia.org/wiki/交友社 "wikilink")
+  - 「新車ガイド　EH200形901号機」『[鉄道ファン](../Page/鉄道ファン_\(雑誌\).md "wikilink")』2001年9月号（通巻485号）、[交友社](../Page/交友社.md "wikilink")
   - 「特集：鉄道貨物輸送の現状」『[鉄道ジャーナル](../Page/鉄道ジャーナル.md "wikilink")』2005年5月号（通巻463号）、鉄道ジャーナル社
   - 「特集：JRFの機関車たち」『鉄道画報』2005年夏季号No.2、誠文堂新光社
 
 ## 関連項目
 
-  - [国鉄EH10形電気機関車](https://ja.wikipedia.org/wiki/国鉄EH10形電気機関車 "wikilink")
+  - [国鉄EH10形電気機関車](../Page/国鉄EH10形電気機関車.md "wikilink")
   - [JR貨物EH500形電気機関車](../Page/JR貨物EH500形電気機関車.md "wikilink")
   - [JR貨物EH800形電気機関車](https://ja.wikipedia.org/wiki/JR貨物EH800形電気機関車 "wikilink")
-  - [日本の電気機関車一覧](https://ja.wikipedia.org/wiki/日本の電気機関車一覧 "wikilink")
+  - [日本の電気機関車一覧](../Page/日本の電気機関車一覧.md "wikilink")
 
 [Category:日本貨物鉄道の電気機関車](https://ja.wikipedia.org/wiki/Category:日本貨物鉄道の電気機関車 "wikilink") [Category:東芝製の電気機関車](https://ja.wikipedia.org/wiki/Category:東芝製の電気機関車 "wikilink") [Category:2001年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:2001年製の鉄道車両 "wikilink")
 
-1.  『[鉄道ファン](../Page/鉄道ファン_\(雑誌\).md "wikilink")』2001年9月号、[交友社](https://ja.wikipedia.org/wiki/交友社 "wikilink")、2001年、p.62
-2.  在来機2両を1両で代替できることで機関車の両数が減り、機関車の両数で決まる旅客鉄道会社への[線路使用料](https://ja.wikipedia.org/wiki/線路使用料 "wikilink")を抑えられるという、EH500形同様のメリットも生じる。
+1.  『[鉄道ファン](../Page/鉄道ファン_\(雑誌\).md "wikilink")』2001年9月号、[交友社](../Page/交友社.md "wikilink")、2001年、p.62
+2.  在来機2両を1両で代替できることで機関車の両数が減り、機関車の両数で決まる旅客鉄道会社への[線路使用料](../Page/線路使用料.md "wikilink")を抑えられるという、EH500形同様のメリットも生じる。
 3.  『鉄道ファン』2001年9月号、交友社、2001年、p.63
 4.
 5.  東芝レビューVol.58 No.9（2003年）

@@ -7,7 +7,7 @@
 
 米Pacific HiTech(その後の米Turbo Linux)で開発が始まり、1997年から日本のパシフィックハイテックによって日本国内におけるパッケージ販売が行われた。その後、ターボリナックス ジャパン(後の[ターボリナックス](https://ja.wikipedia.org/wiki/ターボリナックス "wikilink"))が事業を買い取り\[1\]、開発・販売が続けられた。
 
-日本市場では [Red Hat](../Page/レッドハット.md "wikilink") に先行して発売されていたことや、日本を含め、[中国](../Page/中華人民共和国.md "wikilink")、[韓国など主に](https://ja.wikipedia.org/wiki/大韓民国 "wikilink")[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")の[マルチバイト文字](../Page/マルチバイト文字.md "wikilink")圏で商用展開を行っていた。
+日本市場では [Red Hat](../Page/レッドハット.md "wikilink") に先行して発売されていたことや、日本を含め、[中国](../Page/中華人民共和国.md "wikilink")、[韓国など主に](../Page/大韓民国.md "wikilink")[アジア](../Page/アジア.md "wikilink")の[マルチバイト文字](../Page/マルチバイト文字.md "wikilink")圏で商用展開を行っていた。
 
 比較的早い段階での[Linuxカーネル](../Page/Linuxカーネル.md "wikilink") 2.6の採用や、Windows Mediaを再生できるソフトウェアを同梱したパッケージの販売、[AMD64へいち早く対応した](https://ja.wikipedia.org/wiki/x64 "wikilink")。[Microsoft Windowsとの互換性強化にも積極的に取り組んでいた](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
 
@@ -26,18 +26,18 @@
   - 1999年3月18日 - Turbolinux Server 日本語版 1.0 出荷開始
   - 2000年1月10日 - 中国でTurbolinuxの販売実績が Windows 98を上回ったと発表
   - 2000年2月22日 - TurboCluster Server 4.0J 発売
-  - 2000年3月22日 - [IA-64](https://ja.wikipedia.org/wiki/IA-64 "wikilink")対応Turbolinuxを公開。IA-64に対応した初のディストリビューションとなる
-  - 2000年4月7日 - Turbolinux Workstation日本語版6.0発売開始。初回限定で[VMware](https://ja.wikipedia.org/wiki/VMware "wikilink") Expressを同梱
+  - 2000年3月22日 - [IA-64](../Page/IA-64.md "wikilink")対応Turbolinuxを公開。IA-64に対応した初のディストリビューションとなる
+  - 2000年4月7日 - Turbolinux Workstation日本語版6.0発売開始。初回限定で[VMware](../Page/VMware.md "wikilink") Expressを同梱
   - 2000年5月11日 - Turbolinux Server日本語版 6.1 発表
-  - 2000年7月12日 - [Oracle](https://ja.wikipedia.org/wiki/Oracle_Database "wikilink")8i対応OSとしてTurbolinux Server日本語版 6.1が認定される
+  - 2000年7月12日 - [Oracle](../Page/Oracle_Database.md "wikilink")8i対応OSとしてTurbolinux Server日本語版 6.1が認定される
   - 2002年5月30日 - [United Linuxの共同開発を発表](https://ja.wikipedia.org/wiki/United_Linux "wikilink")
   - 2002年11月20日 - [United Linux](https://ja.wikipedia.org/wiki/United_Linux "wikilink") 1.0を発表
   - 2003年4月23日 - Turbolinux 8 for AMD64を発表
   - 2003年10月2日 - Linuxカーネル2.6を搭載したTurbolinux 10 Desktopを発表
   - 2004年4月27日 - Windows Mediaに対応したTurboメディアプレイヤーを発表。同日発表のTurbolinux 10F...にバンドルされる
-  - 2004年10月20日 - 「ターボリナックス ホーム」を発表(11月12日より発売)。[富士ソフト](https://ja.wikipedia.org/wiki/富士ソフト "wikilink")の[年賀状](../Page/年賀状.md "wikilink")作製アプリケーション[筆ぐるめ](https://ja.wikipedia.org/wiki/筆ぐるめ "wikilink")を共同でLinuxに移植してバンドルした
-  - 2005年8月5日 - Turbolinux 10 Desktop をもとにカスタマイズした Turbolinux PersonalおよびPersonalにマルチメディア機能を追加したTurbolinux Multimediaを[ソースネクスト](https://ja.wikipedia.org/wiki/ソースネクスト "wikilink")から発売
-  - 2005年9月27日 - [デュアルコア対応のTurbolinux](https://ja.wikipedia.org/wiki/マルチコア "wikilink") 10 Server x64 Editionを発表(10月14日より発売)
+  - 2004年10月20日 - 「ターボリナックス ホーム」を発表(11月12日より発売)。[富士ソフト](../Page/富士ソフト.md "wikilink")の[年賀状](../Page/年賀状.md "wikilink")作製アプリケーション[筆ぐるめ](../Page/筆ぐるめ.md "wikilink")を共同でLinuxに移植してバンドルした
+  - 2005年8月5日 - Turbolinux 10 Desktop をもとにカスタマイズした Turbolinux PersonalおよびPersonalにマルチメディア機能を追加したTurbolinux Multimediaを[ソースネクスト](../Page/ソースネクスト.md "wikilink")から発売
+  - 2005年9月27日 - [デュアルコア対応のTurbolinux](../Page/マルチコア.md "wikilink") 10 Server x64 Editionを発表(10月14日より発売)
   - 2005年10月20日 - Turbolinux FUJI(version 11)を発売(11月25日より発売)
   - 2007年11月30日 - Turbolinux 11 Serverを発売
   - 2008年8月 - 無償のTurbolinux Client 2008 Live Editionを発表
@@ -50,8 +50,8 @@
 ## 関連項目
 
   - [ターボリナックス](https://ja.wikipedia.org/wiki/ターボリナックス "wikilink")
-  - [エプソンダイレクト](https://ja.wikipedia.org/wiki/エプソンダイレクト "wikilink") - Turbolinux搭載PCを販売していた。
-  - [ソースネクスト](https://ja.wikipedia.org/wiki/ソースネクスト "wikilink")
+  - [エプソンダイレクト](../Page/エプソンダイレクト.md "wikilink") - Turbolinux搭載PCを販売していた。
+  - [ソースネクスト](../Page/ソースネクスト.md "wikilink")
 
 ## 出典
 

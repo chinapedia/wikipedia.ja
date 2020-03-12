@@ -7,17 +7,17 @@
 
 日本では[LinuxPPC](https://ja.wikipedia.org/wiki/LinuxPPC "wikilink")の日本代理店であったアミュレットが日本語化および販売を行っていたが、フィックスターズの買収と同時に販売と出荷を終了した。今後はフィックスターズが直接行う。
 
-バージョン5.0からはPowerPC派生CPUである[Cellを採用するプレイステーション](https://ja.wikipedia.org/wiki/Cell_Broadband_Engine "wikilink")3にも対応し、[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")の公認を受けていたが、新型プレイステーション3には対応しなかった。その後のアップデートで、旧型を含めた全機種のプレイステーション3で対応できなくなる旨が発表されている（理由は不明）。
+バージョン5.0からはPowerPC派生CPUである[Cellを採用するプレイステーション](../Page/Cell_Broadband_Engine.md "wikilink")3にも対応し、[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")の公認を受けていたが、新型プレイステーション3には対応しなかった。その後のアップデートで、旧型を含めた全機種のプレイステーション3で対応できなくなる旨が発表されている（理由は不明）。
 
 ## yum
 
-[Fedora](../Page/Fedora.md "wikilink")などで採用されている[パッケージ管理システム](https://ja.wikipedia.org/wiki/パッケージ管理システム "wikilink")[yumはYellow](https://ja.wikipedia.org/wiki/Yellow_dog_Updater,_Modified "wikilink") Dog Linuxのために開発された\[2\]。その後、[Fedora Coreなど他のディストリビューションにも採用されていった](../Page/Fedora.md "wikilink")。
+[Fedora](../Page/Fedora.md "wikilink")などで採用されている[パッケージ管理システム](../Page/パッケージ管理システム.md "wikilink")[yumはYellow](https://ja.wikipedia.org/wiki/Yellow_dog_Updater,_Modified "wikilink") Dog Linuxのために開発された\[2\]。その後、[Fedora Coreなど他のディストリビューションにも採用されていった](../Page/Fedora.md "wikilink")。
 
 ## 歴史
 
   - [1999年](../Page/1999年.md "wikilink") 最初のバージョンがリリースされる
-  - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink") Fedora Core 2をベースとしたバージョン4.0リリース\[3\]
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月27日](../Page/11月27日.md "wikilink") Fedora Core 5をベースとしたバージョン5.0リリース\[4\]
+  - [2004年](../Page/2004年.md "wikilink") Fedora Core 2をベースとしたバージョン4.0リリース\[3\]
+  - [2006年](../Page/2006年.md "wikilink")[11月27日](../Page/11月27日.md "wikilink") Fedora Core 5をベースとしたバージョン5.0リリース\[4\]
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月5日](../Page/2月5日.md "wikilink") Fedora 7及びCentOSをベースとしたバージョン6.0リリース\[5\]
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[11月20日](../Page/11月20日.md "wikilink") フィックスターズによる初めてのバージョンになるバージョン6.1リリース\[6\]
   - [2009年](../Page/2009年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink") バージョン6.2リリース\[7\]
@@ -30,7 +30,7 @@
 ## 関連項目
 
   - [フィックスターズ](https://ja.wikipedia.org/wiki/フィックスターズ "wikilink")
-  - [Linuxディストリビューションの比較](https://ja.wikipedia.org/wiki/Linuxディストリビューションの比較 "wikilink")
+  - [Linuxディストリビューションの比較](../Page/Linuxディストリビューションの比較.md "wikilink")
 
 ## 外部リンク
 

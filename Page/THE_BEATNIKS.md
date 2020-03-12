@@ -1,21 +1,21 @@
 > この記事は[THE BEATNIKS](https://ja.wikipedia.org/wiki/THE_BEATNIKS)から翻訳されています。
 
 
-**THE BEATNIKS**（ザ・ビートニクス）は[高橋幸宏](../Page/高橋幸宏.md "wikilink")と[鈴木慶一](../Page/鈴木慶一.md "wikilink")の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")。[1981年](https://ja.wikipedia.org/wiki/1981年 "wikilink")に結成された後、現在まで断続的な活動が続いている。
+**THE BEATNIKS**（ザ・ビートニクス）は[高橋幸宏](../Page/高橋幸宏.md "wikilink")と[鈴木慶一](../Page/鈴木慶一.md "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。[1981年](../Page/1981年.md "wikilink")に結成された後、現在まで断続的な活動が続いている。
 
-アメリカの[ビート・ジェネレーション](https://ja.wikipedia.org/wiki/ビート・ジェネレーション "wikilink")（ビートニク）が名前の由来。ザ・ビートニクス（THE BEATNIKS）名義では、単独の作品だけではなく、高橋幸宏のソロアルバム他、他のミュージシャンへの楽曲提供なども行われている。
+アメリカの[ビート・ジェネレーション](../Page/ビート・ジェネレーション.md "wikilink")（ビートニク）が名前の由来。ザ・ビートニクス（THE BEATNIKS）名義では、単独の作品だけではなく、高橋幸宏のソロアルバム他、他のミュージシャンへの楽曲提供なども行われている。
 
 ## 略歴
 
-[1981年](https://ja.wikipedia.org/wiki/1981年 "wikilink")[12月5日](../Page/12月5日.md "wikilink")に1stシングル「No Way Out」と1stアルバム『EXITENTIALISM』を[バップ](https://ja.wikipedia.org/wiki/バップ "wikilink")からリリース。また、雑誌「[ビックリハウス](https://ja.wikipedia.org/wiki/ビックリハウス "wikilink")」誌上でさまざまな扮装（侍など）に扮してユーモラスな記事を連載。後に『偉人の血』のタイトルで単行本化された。[1982年](../Page/1982年.md "wikilink")に2ndシングル「River In The Ocean」をリリースし、音楽活動は休止する。
+[1981年](../Page/1981年.md "wikilink")[12月5日](../Page/12月5日.md "wikilink")に1stシングル「No Way Out」と1stアルバム『EXITENTIALISM』を[バップ](../Page/バップ.md "wikilink")からリリース。また、雑誌「[ビックリハウス](../Page/ビックリハウス.md "wikilink")」誌上でさまざまな扮装（侍など）に扮してユーモラスな記事を連載。後に『偉人の血』のタイトルで単行本化された。[1982年](../Page/1982年.md "wikilink")に2ndシングル「River In The Ocean」をリリースし、音楽活動は休止する。
 
-[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")からレーベルを[ポニーキャニオン](https://ja.wikipedia.org/wiki/ポニーキャニオン "wikilink")のT.E.N.Tへ移し、3rdシングル「Total Recall」で活動再開。初の全国ツアー「THE BEATNIKS BEAT GENERATION '87」を開催し、6月には2ndアルバム『EXITENTIALIST A GO GO』をリリースし、再び活動休止期間へ。この時期鈴木は、「The Beatniksは怒りを強く感じたときに活動する」という主旨の発言をしており、高橋もこれに同意している。
+[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")からレーベルを[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")のT.E.N.Tへ移し、3rdシングル「Total Recall」で活動再開。初の全国ツアー「THE BEATNIKS BEAT GENERATION '87」を開催し、6月には2ndアルバム『EXITENTIALIST A GO GO』をリリースし、再び活動休止期間へ。この時期鈴木は、「The Beatniksは怒りを強く感じたときに活動する」という主旨の発言をしており、高橋もこれに同意している。
 
 1990年代に入ると初のリミックス・アルバムを発表。[1994年](../Page/1994年.md "wikilink")にAGENT CON-SIPIO内レーベル・Consipio Recordsへ移籍。[ヨウジヤマモトのコレクション用音楽集を発表するもその一枚のみに終わり](../Page/山本耀司.md "wikilink")、活動休止へ。
 
 [2001年](../Page/2001年.md "wikilink")に14年ぶりとなるオリジナル・アルバム『M.R.I.』をリリース。同年アルバムツアーを行い再び活動休止。
 
-[2011年](../Page/2011年.md "wikilink")に結成30周年を迎え、4枚目のアルバム『LAST TRAIN TO EXITOWN』を[Virgin Records](https://ja.wikipedia.org/wiki/Virgin_Music "wikilink")（[EMIミュージック・ジャパン](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")）からリリース。その後も、[NO NUKES 2013](https://ja.wikipedia.org/wiki/NO_NUKES "wikilink")\[1\]や、[RISING SUN ROCK FESTIVAL 2017 in EZO](https://ja.wikipedia.org/wiki/ライジング・サン・ロックフェスティバル "wikilink")\[2\]に出演するなど、ライブ活動を継続。
+[2011年](../Page/2011年.md "wikilink")に結成30周年を迎え、4枚目のアルバム『LAST TRAIN TO EXITOWN』を[Virgin Records](../Page/Virgin_Music.md "wikilink")（[EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink")）からリリース。その後も、[NO NUKES 2013](https://ja.wikipedia.org/wiki/NO_NUKES "wikilink")\[1\]や、[RISING SUN ROCK FESTIVAL 2017 in EZO](../Page/ライジング・サン・ロックフェスティバル.md "wikilink")\[2\]に出演するなど、ライブ活動を継続。
 
 2018年に5枚目のアルバム『EXITENTIALIST A XIE XIE』をBETTER DAYSレーベルよりリリース。
 
@@ -28,7 +28,7 @@
   -
 
       -
-        [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[目黒区](https://ja.wikipedia.org/wiki/目黒区 "wikilink")出身。[サディスティック・ミカ・バンド](../Page/サディスティック・ミカ・バンド.md "wikilink")や[イエロー・マジック・オーケストラ](../Page/イエロー・マジック・オーケストラ.md "wikilink")でドラマーを務め、現在は[METAFIVE](https://ja.wikipedia.org/wiki/METAFIVE "wikilink")で活動中。
+        [東京都](../Page/東京都.md "wikilink")[目黒区](https://ja.wikipedia.org/wiki/目黒区 "wikilink")出身。[サディスティック・ミカ・バンド](../Page/サディスティック・ミカ・バンド.md "wikilink")や[イエロー・マジック・オーケストラ](../Page/イエロー・マジック・オーケストラ.md "wikilink")でドラマーを務め、現在は[METAFIVE](https://ja.wikipedia.org/wiki/METAFIVE "wikilink")で活動中。
 
 <!-- end list -->
 
@@ -45,13 +45,13 @@
 
 ### シングル
 
-|                                                                            | 発売日        | タイトル                   | 規格品番             |
-| -------------------------------------------------------------------------- | ---------- | ---------------------- | ---------------- |
-| [Vap](https://ja.wikipedia.org/wiki/バップ "wikilink")                        |            |                        |                  |
-| 1st                                                                        | 1981年12月5日 | **No Way Out**         | 10018-07 (7inch) |
-| 2nd                                                                        | 1982年9月1日  | **River In The Ocean** | 10053-07 (7inch) |
-| T.E.N.T ([PONY CANYON](https://ja.wikipedia.org/wiki/ポニーキャニオン "wikilink")) |            |                        |                  |
-| 3rd                                                                        | 1987年5月21日 | **Total Recall**       | 7A0735 (7inch)   |
+|                                                         | 発売日        | タイトル                   | 規格品番             |
+| ------------------------------------------------------- | ---------- | ---------------------- | ---------------- |
+| [Vap](../Page/バップ.md "wikilink")                        |            |                        |                  |
+| 1st                                                     | 1981年12月5日 | **No Way Out**         | 10018-07 (7inch) |
+| 2nd                                                     | 1982年9月1日  | **River In The Ocean** | 10053-07 (7inch) |
+| T.E.N.T ([PONY CANYON](../Page/ポニーキャニオン.md "wikilink")) |            |                        |                  |
+| 3rd                                                     | 1987年5月21日 | **Total Recall**       | 7A0735 (7inch)   |
 
 ### アルバム
 
@@ -76,7 +76,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/バップ" title="wikilink">Vap</a></p></td>
+<td><p><a href="../Page/バップ.md" title="wikilink">Vap</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -94,7 +94,7 @@
 1993年10月1日にCD再発（VPCC-81019）。</p></td>
 </tr>
 <tr class="even">
-<td><p>T.E.N.T (<a href="https://ja.wikipedia.org/wiki/ポニーキャニオン" title="wikilink">PONY CANYON</a>)</p></td>
+<td><p>T.E.N.T (<a href="../Page/ポニーキャニオン.md" title="wikilink">PONY CANYON</a>)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -109,7 +109,7 @@
 D32A0295 (CD)</p></td>
 <td><p>-</p></td>
 <td><p>1990年10月21日にCD再発（PCCA-00131）。<br />
-1995年12月16日に「<a href="https://ja.wikipedia.org/wiki/CD選書" title="wikilink">CD選書</a>」として再発（PCCA-00597）。<br />
+1995年12月16日に「<a href="../Page/CD選書.md" title="wikilink">CD選書</a>」として再発（PCCA-00597）。<br />
 2003年2月19日にCD再発（PCCA-01861）。</p></td>
 </tr>
 <tr class="even">
@@ -130,7 +130,7 @@ ACGX-5002 (<a href="../Page/Super_Audio_CD.md" title="wikilink">SACD</a>)</p></t
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/Virgin_Music" title="wikilink">Virgin Records</a> (<a href="https://ja.wikipedia.org/wiki/ユニバーサルミュージック_(日本)" title="wikilink">Universal Music</a>)</p></td>
+<td><p><a href="../Page/Virgin_Music.md" title="wikilink">Virgin Records</a> (<a href="../Page/ユニバーサルミュージック_(日本).md" title="wikilink">Universal Music</a>)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -183,7 +183,7 @@ ACGX-5002 (<a href="../Page/Super_Audio_CD.md" title="wikilink">SACD</a>)</p></t
 <td><p><strong>ANOTHER HIGH EXIT</strong></p></td>
 <td><p>VPCC-81059 (CD)<br />
 VPJC-31001 (LP)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/バップ" title="wikilink">Vap</a></p></td>
+<td><p><a href="../Page/バップ.md" title="wikilink">Vap</a></p></td>
 </tr>
 <tr class="even">
 <td><p>サウンドトラック</p></td>
@@ -218,7 +218,7 @@ VPJC-31001 (LP)</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/バップ" title="wikilink">Vap</a></p></td>
+<td><p><a href="../Page/バップ.md" title="wikilink">Vap</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -276,7 +276,7 @@ VPJC-31001 (LP)</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>T.E.N.T (<a href="https://ja.wikipedia.org/wiki/ポニーキャニオン" title="wikilink">PONY CANYON</a>)</p></td>
+<td><p>T.E.N.T (<a href="../Page/ポニーキャニオン.md" title="wikilink">PONY CANYON</a>)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -309,18 +309,18 @@ CDはオリジナル・アルバム三枚のリマスター。</p></td>
   - [ワールド・ハピネス](https://ja.wikipedia.org/wiki/ワールド・ハピネス "wikilink") (2011年8月7日、2012年8月12日、2017年8月6日)
   - [NO NUKES](https://ja.wikipedia.org/wiki/NO_NUKES "wikilink") (2013年3月9日)
   - バカ田大学祭ライブ (2017年5月3日)
-  - [RISING SUN ROCK FESTIVAL in EZO](https://ja.wikipedia.org/wiki/ライジング・サン・ロックフェスティバル "wikilink") (2017年8月11日)
+  - [RISING SUN ROCK FESTIVAL in EZO](../Page/ライジング・サン・ロックフェスティバル.md "wikilink") (2017年8月11日)
 
 ## 主な楽曲\[4\]
 
-  - *No Way Out / 出口なし* ([1981年](https://ja.wikipedia.org/wiki/1981年 "wikilink"))
+  - *No Way Out / 出口なし* ([1981年](../Page/1981年.md "wikilink"))
 
 <!-- end list -->
 
   -
 
       -
-        作詞 : THE BEATNIKS、[ピーター・バラカン](https://ja.wikipedia.org/wiki/ピーター・バラカン "wikilink")　作曲 : THE BEATNIKS
+        作詞 : THE BEATNIKS、[ピーター・バラカン](../Page/ピーター・バラカン.md "wikilink")　作曲 : THE BEATNIKS
         アルバム「*EXITENTIALISM　出口主義*」、同日発売のシングル「*No Way Out*」に収録されている。MVも作成され、高橋幸宏と鈴木慶一が一台のキーボードを二人で弾いている様子が見られるが、実際のレコーディングでも同様であった。シングルカットされたこともあり、ライヴでは定番曲として演奏される。
 
 <!-- end list -->
@@ -357,7 +357,7 @@ CDはオリジナル・アルバム三枚のリマスター。</p></td>
 
       -
         作詞 作曲 : 高橋幸宏
-        アルバム「*EXITENTIALISM　出口主義*」にクロージングナンバーとして収録されている。作成されたMVでは、高橋と鈴木がそれぞれ削岩機とツルハシを扱う様が見られる。[2001年](../Page/2001年.md "wikilink")に行われたコンサートでは前述の「*No Way Out*」「*Ark Diamant*」と共に[トランス](https://ja.wikipedia.org/wiki/トランス "wikilink")アレンジのメドレーとして披露された。
+        アルバム「*EXITENTIALISM　出口主義*」にクロージングナンバーとして収録されている。作成されたMVでは、高橋と鈴木がそれぞれ削岩機とツルハシを扱う様が見られる。[2001年](../Page/2001年.md "wikilink")に行われたコンサートでは前述の「*No Way Out*」「*Ark Diamant*」と共に[トランス](../Page/トランス.md "wikilink")アレンジのメドレーとして披露された。
 
 <!-- end list -->
 
@@ -380,7 +380,7 @@ CDはオリジナル・アルバム三枚のリマスター。</p></td>
   -
 
       -
-        作詞 : [生田朗](https://ja.wikipedia.org/wiki/生田朗 "wikilink")、Giles Duke　作曲 : THE BEATNIKS
+        作詞 : [生田朗](../Page/生田朗.md "wikilink")、Giles Duke　作曲 : THE BEATNIKS
         シングルカットされ、後にアルバム「*EXITENTIALIST A GO GO　ビートで行こう*」にオープニングナンバーとして収録されている。自身らで設立したレーベルを牽引する意味合いで売れ線狙いの楽曲となった。[日産](https://ja.wikipedia.org/wiki/日産 "wikilink")のCM曲として用意され、既に映像の撮影も済んでいたが、その後につけられたタイトルが「総回収」とも読めるために当局の怒りを買い没にされた。代わりに[坂本龍一](../Page/坂本龍一.md "wikilink")の「*Risky*」が起用されたが、この件は「”Risky”も問題あるだろう」と定番の笑い話として語られる\[6\]。
 
 <!-- end list -->
@@ -441,7 +441,7 @@ CDはオリジナル・アルバム三枚のリマスター。</p></td>
 
       -
         作詞 : 鈴木慶一　作曲 : THE BEATNIKS
-        高橋のソロアルバム「*Broadcast From Heaven*」に収録されている。60億とは当時の[世界人口](https://ja.wikipedia.org/wiki/世界人口 "wikilink")であり、近年のコンサートでは人口の増加に併せて「*7,000,000,000の天国*」と曲名が変更され披露された\[11\]。
+        高橋のソロアルバム「*Broadcast From Heaven*」に収録されている。60億とは当時の[世界人口](../Page/世界人口.md "wikilink")であり、近年のコンサートでは人口の増加に併せて「*7,000,000,000の天国*」と曲名が変更され披露された\[11\]。
 
 <!-- end list -->
 
@@ -453,7 +453,7 @@ CDはオリジナル・アルバム三枚のリマスター。</p></td>
 
       -
         作詞 作曲 : THE BEATNIKS
-        アルバム「*ヤマアラシとその他の変種*」に収録され、シングルカットもされた。[松尾貴史](../Page/松尾貴史.md "wikilink")、[ちわきまゆみ](https://ja.wikipedia.org/wiki/ちわきまゆみ "wikilink")と連名である。松尾貴史によるモノマネが大量に挿入されたパートと、ビートニクスのコーラスが聞こえるサビで構成されている\[12\]。
+        アルバム「*ヤマアラシとその他の変種*」に収録され、シングルカットもされた。[松尾貴史](../Page/松尾貴史.md "wikilink")、[ちわきまゆみ](../Page/ちわきまゆみ.md "wikilink")と連名である。松尾貴史によるモノマネが大量に挿入されたパートと、ビートニクスのコーラスが聞こえるサビで構成されている\[12\]。
 
 <!-- end list -->
 
@@ -501,7 +501,7 @@ CDはオリジナル・アルバム三枚のリマスター。</p></td>
 
       -
         作詞 : B.B.Mo-Franck　作曲 : THE BEATNIKS
-        アルバム「*Musical Resonance Imaging*」に収録されている。ビートニクスでは唯一と言える大作系の楽曲である。「アフリカ系」という注文を受けた上で作曲され、[ヤクルト](https://ja.wikipedia.org/wiki/Yakult "wikilink")400のCMに使用された。タイトル及び後半の歌詞は[リンガラ語](https://ja.wikipedia.org/wiki/リンガラ語 "wikilink")である\[15\]。CMバージョンはプレゼント用の非売品シングルとして世に出、現在ではアルバムのボーナストラックとして聴ける。
+        アルバム「*Musical Resonance Imaging*」に収録されている。ビートニクスでは唯一と言える大作系の楽曲である。「アフリカ系」という注文を受けた上で作曲され、[ヤクルト](https://ja.wikipedia.org/wiki/Yakult "wikilink")400のCMに使用された。タイトル及び後半の歌詞は[リンガラ語](../Page/リンガラ語.md "wikilink")である\[15\]。CMバージョンはプレゼント用の非売品シングルとして世に出、現在ではアルバムのボーナストラックとして聴ける。
 
 <!-- end list -->
 
@@ -525,7 +525,7 @@ CDはオリジナル・アルバム三枚のリマスター。</p></td>
 
       -
         作詞 作曲 : THE BEATNIKS
-        アルバム「*LAST TRAIN TO EXITOWN*」に収録されている。ビートニク作家[ウィリアム・S・バロウズ](https://ja.wikipedia.org/wiki/ウィリアム・S・バロウズ "wikilink")が発明した[カットアップ](https://ja.wikipedia.org/wiki/カットアップ "wikilink")手法を取り入れた歌詞が特徴。予め鈴木が書いていたサビ部分を元にイメージに合う言葉を用意した上で、カットアップを行い、その様子はインターネットで生配信された（ただし実際に録音された歌詞とは一部変更がある）\[17\]。2011年のコンサートではライブでカットアップを実践するコーナーが設けられた\[18\]。
+        アルバム「*LAST TRAIN TO EXITOWN*」に収録されている。ビートニク作家[ウィリアム・S・バロウズ](../Page/ウィリアム・S・バロウズ.md "wikilink")が発明した[カットアップ](https://ja.wikipedia.org/wiki/カットアップ "wikilink")手法を取り入れた歌詞が特徴。予め鈴木が書いていたサビ部分を元にイメージに合う言葉を用意した上で、カットアップを行い、その様子はインターネットで生配信された（ただし実際に録音された歌詞とは一部変更がある）\[17\]。2011年のコンサートではライブでカットアップを実践するコーナーが設けられた\[18\]。
 
 <!-- end list -->
 
@@ -537,7 +537,7 @@ CDはオリジナル・アルバム三枚のリマスター。</p></td>
 
       -
         作詞 : 鈴木慶一　作曲 : THE BEATNIKS
-        2017年にバカ田大学音楽祭で初披露\[19\]され、翌年にアルバム「*EXITENTIALIST A XIE XIE*」に収録された。反戦歌である\[20\]。挿入された数々のサウンドエフェクトは[砂原良徳](https://ja.wikipedia.org/wiki/砂原良徳 "wikilink")による。
+        2017年にバカ田大学音楽祭で初披露\[19\]され、翌年にアルバム「*EXITENTIALIST A XIE XIE*」に収録された。反戦歌である\[20\]。挿入された数々のサウンドエフェクトは[砂原良徳](../Page/砂原良徳.md "wikilink")による。
 
 <!-- end list -->
 
@@ -549,7 +549,7 @@ CDはオリジナル・アルバム三枚のリマスター。</p></td>
 
       -
         作詞 : 鈴木慶一　作曲 : THE BEATNIKS
-        2017年にバカ田大学音楽祭で初披露され\[21\]、翌年にアルバム「*EXITENTIALIST A XIE XIE*」に収録された。なお、前述のライブバージョンと、アルバムバージョン及びアルバム発表後のライヴバージョンでは中間部が異なっており、前者では[リー・ドーシー](https://ja.wikipedia.org/wiki/リー・ドーシー "wikilink")の「*[ヤ・ヤ](https://ja.wikipedia.org/wiki/ヤ・ヤ "wikilink")*」からの引用が見られる\[22\]。MVは一般から募集した、いわゆる「踊ってみた」動画で構成されている\[23\]。
+        2017年にバカ田大学音楽祭で初披露され\[21\]、翌年にアルバム「*EXITENTIALIST A XIE XIE*」に収録された。なお、前述のライブバージョンと、アルバムバージョン及びアルバム発表後のライヴバージョンでは中間部が異なっており、前者では[リー・ドーシー](../Page/リー・ドーシー.md "wikilink")の「*[ヤ・ヤ](https://ja.wikipedia.org/wiki/ヤ・ヤ "wikilink")*」からの引用が見られる\[22\]。MVは一般から募集した、いわゆる「踊ってみた」動画で構成されている\[23\]。
 
 <!-- end list -->
 
@@ -560,12 +560,12 @@ CDはオリジナル・アルバム三枚のリマスター。</p></td>
   -
 
       -
-        作詞 : 鈴木慶一、[LEO今井](https://ja.wikipedia.org/wiki/LEO今井 "wikilink")　作曲 : THE BEATNIKS
-        音楽番組[J-MELO](https://ja.wikipedia.org/wiki/J-MELO "wikilink")のオープニングに使用された\[24\]後、アルバム「*EXITENTIALIST A XIE XIE*」に収録された。
+        作詞 : 鈴木慶一、[LEO今井](../Page/LEO今井.md "wikilink")　作曲 : THE BEATNIKS
+        音楽番組[J-MELO](../Page/J-MELO.md "wikilink")のオープニングに使用された\[24\]後、アルバム「*EXITENTIALIST A XIE XIE*」に収録された。
 
 ## テレビ出演
 
-  - きわめて活動が断続的であるためか、ビートニクス名義で高橋・鈴木両名が共にテレビ番組に登場したのはかなり少ないが、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")には当時のフジテレビ系看板音楽番組である「[夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink")DELUXE」に2度（[5月20日](../Page/5月20日.md "wikilink")・[6月24日](../Page/6月24日.md "wikilink")放送）、前述の「ちょっとツラインダ」を引っさげて出演している。この時のサポートメンバーは[高野寛](../Page/高野寛.md "wikilink")、[鈴木祥子](https://ja.wikipedia.org/wiki/鈴木祥子 "wikilink")、矢部浩志などそうそうたる顔ぶれであった。ちなみに両名ともこの出演が純然たる番組初登場というわけではなく、この出演より前に高橋は[YMOとして](../Page/イエロー・マジック・オーケストラ.md "wikilink")、鈴木も[ムーンライダーズ](../Page/ムーンライダーズ.md "wikilink")の一員として他のミュージシャンのバッグバンドとして番組に登場している。
+  - きわめて活動が断続的であるためか、ビートニクス名義で高橋・鈴木両名が共にテレビ番組に登場したのはかなり少ないが、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")には当時のフジテレビ系看板音楽番組である「[夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink")DELUXE」に2度（[5月20日](../Page/5月20日.md "wikilink")・[6月24日](../Page/6月24日.md "wikilink")放送）、前述の「ちょっとツラインダ」を引っさげて出演している。この時のサポートメンバーは[高野寛](../Page/高野寛.md "wikilink")、[鈴木祥子](../Page/鈴木祥子.md "wikilink")、矢部浩志などそうそうたる顔ぶれであった。ちなみに両名ともこの出演が純然たる番組初登場というわけではなく、この出演より前に高橋は[YMOとして](../Page/イエロー・マジック・オーケストラ.md "wikilink")、鈴木も[ムーンライダーズ](../Page/ムーンライダーズ.md "wikilink")の一員として他のミュージシャンのバッグバンドとして番組に登場している。
 
 ## 脚注
 

@@ -7,16 +7,16 @@
 
 元々**大協石油四日市サッカー部**として[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")[四日市市](../Page/四日市市.md "wikilink")で活動していたが、[1984年](../Page/1984年.md "wikilink")に**コスモ大協**に改称。その後、会社が[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に丸善石油と合併し[コスモ石油](../Page/コスモ石油.md "wikilink")となったのに伴い、チーム名も**コスモ石油サッカー部**に変更された。
 
-[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")に大協石油として1シーズン、コスモ石油に改名後の1986年からJSLが終了する[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")までJSL2部に在籍した。
+[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")に大協石油として1シーズン、コスモ石油に改名後の1986年からJSLが終了する[1991年](../Page/1991年.md "wikilink")までJSL2部に在籍した。
 
-[1981年](https://ja.wikipedia.org/wiki/1981年 "wikilink")東海リーグからJSL2部への早期昇格を目指し、[鎌田光夫](https://ja.wikipedia.org/wiki/鎌田光夫 "wikilink")（メキシコオリンピック日本代表）を監督として招聘したがしばらく足踏み、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に[地域リーグ決勝大会で](https://ja.wikipedia.org/wiki/全国地域サッカーチャンピオンズリーグ "wikilink")[山雅クラブ](https://ja.wikipedia.org/wiki/松本山雅FC "wikilink")（現・松本山雅FC）などを下して悲願の昇格。実に5年を要した。鎌田は1991年まで監督を務め、以降は総監督としてチームをサポートした。
+[1981年](../Page/1981年.md "wikilink")東海リーグからJSL2部への早期昇格を目指し、[鎌田光夫](../Page/鎌田光夫.md "wikilink")（メキシコオリンピック日本代表）を監督として招聘したがしばらく足踏み、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に[地域リーグ決勝大会で](../Page/全国地域サッカーチャンピオンズリーグ.md "wikilink")[山雅クラブ](../Page/松本山雅FC.md "wikilink")（現・松本山雅FC）などを下して悲願の昇格。実に5年を要した。鎌田は1991年まで監督を務め、以降は総監督としてチームをサポートした。
 
 [1996年](../Page/1996年.md "wikilink")に将来の[Jリーグ参戦を念頭とし](../Page/日本プロサッカーリーグ.md "wikilink")、チーム名に本拠地[四日市市](../Page/四日市市.md "wikilink")を被せ「**コスモ石油四日市FC**」（通称、コスモ四日市）と改めた。同年の天皇杯では前年度覇者である[名古屋グランパスエイト](https://ja.wikipedia.org/wiki/名古屋グランパスエイト "wikilink")を1-0で破り存在感を示したが、四日市市がJリーグ支援に難色を示した上、スタジアムの整備も充分にできなかったことから同年を最後にチームは解散している。
 
 現在、同好会として三重県リーグ4部に存在はしているが強化の予定はまったくない。
 
   - 本拠地
-    [四日市中央緑地陸上競技場](https://ja.wikipedia.org/wiki/四日市中央緑地陸上競技場 "wikilink")、[三重県営鈴鹿スポーツガーデン](https://ja.wikipedia.org/wiki/三重県営鈴鹿スポーツガーデン "wikilink")球技場。
+    [四日市中央緑地陸上競技場](https://ja.wikipedia.org/wiki/四日市中央緑地陸上競技場 "wikilink")、[三重県営鈴鹿スポーツガーデン](../Page/三重県営鈴鹿スポーツガーデン.md "wikilink")球技場。
 
 ## 成績
 
@@ -38,20 +38,20 @@
 | [1977](https://ja.wikipedia.org/wiki/1977年の地域リーグ_\(サッカー\)#東海 "wikilink") | 3位       | **19** | 13     | 9  | 1  | 3  | 33 | 12 | \+21 |      |
 | [1978](https://ja.wikipedia.org/wiki/1978年の地域リーグ_\(サッカー\)#東海 "wikilink") | 2位       | **19** | 13     | 9  | 1  | 3  | 32 | 10 | \+22 |      |
 | [1979](https://ja.wikipedia.org/wiki/1979年の地域リーグ_\(サッカー\)#東海 "wikilink") | 2位       | **19** | 13     | 8  | 3  | 2  | 28 | 13 | \+15 |      |
-| [1980](https://ja.wikipedia.org/wiki/1980年のJSL "wikilink")               | JSL2部    | 10位    | **10** | 18 | 5  | 0  | 13 | 27 | 46   | \-19 |
+| [1980](../Page/1980年のJSL.md "wikilink")                                  | JSL2部    | 10位    | **10** | 18 | 5  | 0  | 13 | 27 | 46   | \-19 |
 | [1981](https://ja.wikipedia.org/wiki/1981年の地域リーグ_\(サッカー\)#東海 "wikilink") | 東海       | **優勝** | **24** | 13 | 12 | 0  | 1  | 49 | 9    | \+40 |
 | [1982](https://ja.wikipedia.org/wiki/1982年の地域リーグ_\(サッカー\)#東海 "wikilink") | **優勝**   | **24** | 14     | 11 | 2  | 1  | 37 | 13 | \+24 |      |
 | [1983](https://ja.wikipedia.org/wiki/1983年の地域リーグ_\(サッカー\)#東海 "wikilink") | **優勝**   | **23** | 13     | 11 | 1  | 1  | 34 | 10 | \+24 |      |
 | [1984](https://ja.wikipedia.org/wiki/1984年の地域リーグ_\(サッカー\)#東海 "wikilink") | 2位       | **22** | 13     | 11 | 0  | 2  | 46 | 10 | \+36 |      |
 | [1985](https://ja.wikipedia.org/wiki/1985年の地域リーグ_\(サッカー\)#東海 "wikilink") | **優勝**   | **24** | 16     | 10 | 4  | 2  | 39 | 14 | \+25 |      |
-| [1986-87](https://ja.wikipedia.org/wiki/1986年-1987年のJSL "wikilink")      | JSL2部東   | 4位     | **14** | 14 | 5  | 4  | 5  | 17 | 15   | \+2  |
+| [1986-87](../Page/1986年-1987年のJSL.md "wikilink")                         | JSL2部東   | 4位     | **14** | 14 | 5  | 4  | 5  | 17 | 15   | \+2  |
 | JSL2部上位                                                                  | 8位       | **10** | 14     | 3  | 4  | 7  | 8  | 21 | \-13 |      |
-| [1987-88](https://ja.wikipedia.org/wiki/1987年-1988年のJSL "wikilink")      | JSL2部西   | 3位     | **18** | 14 | 7  | 4  | 3  | 24 | 15   | \+9  |
+| [1987-88](../Page/1987年-1988年のJSL.md "wikilink")                         | JSL2部西   | 3位     | **18** | 14 | 7  | 4  | 3  | 24 | 15   | \+9  |
 | JSL2部上位                                                                  | 7位       | **5**  | 14     | 2  | 1  | 11 | 7  | 21 | \-14 |      |
-| [1988-89](https://ja.wikipedia.org/wiki/1988年-1989年のJSL "wikilink")      | JSL2部東下位 | 11位    | **17** | 20 | 6  | 5  | 9  | 25 | 30   | \-5  |
-| [1989-90](https://ja.wikipedia.org/wiki/1989年-1990年のJSL "wikilink")      | JSL2部    | 10位    | **32** | 30 | 8  | 8  | 14 | 38 | 39   | \-1  |
-| [1990-91](https://ja.wikipedia.org/wiki/1990年-1991年のJSL "wikilink")      | 11位      | **34** | 30     | 9  | 7  | 14 | 26 | 39 | \-13 |      |
-| [1991-92](https://ja.wikipedia.org/wiki/1991年-1992年のJSL "wikilink")      | 11位      | **29** | 30     | 8  | 5  | 17 | 27 | 53 | \-26 |      |
+| [1988-89](../Page/1988年-1989年のJSL.md "wikilink")                         | JSL2部東下位 | 11位    | **17** | 20 | 6  | 5  | 9  | 25 | 30   | \-5  |
+| [1989-90](../Page/1989年-1990年のJSL.md "wikilink")                         | JSL2部    | 10位    | **32** | 30 | 8  | 8  | 14 | 38 | 39   | \-1  |
+| [1990-91](../Page/1990年-1991年のJSL.md "wikilink")                         | 11位      | **34** | 30     | 9  | 7  | 14 | 26 | 39 | \-13 |      |
+| [1991-92](../Page/1991年-1992年のJSL.md "wikilink")                         | 11位      | **29** | 30     | 8  | 5  | 17 | 27 | 53 | \-26 |      |
 | [1992](https://ja.wikipedia.org/wiki/1992年のJFL "wikilink")               | 旧JFL2部   | 4位     | **30** | 18 | 9  | 3  | 6  | 26 | 21   | \+5  |
 | [1993](https://ja.wikipedia.org/wiki/1993年のJFL "wikilink")               | 4位       | **-**  | 18     | 11 | \- | 7  | 30 | 26 | \+4  |      |
 | [1994](https://ja.wikipedia.org/wiki/1994年のJFL "wikilink")               | 旧JFL     | 15位    | **-**  | 30 | 7  | \- | 23 | 33 | 67   | \-34 |
@@ -62,48 +62,48 @@
 
   - 出場10回
 
-| 回                                                                  | ラウンド | スコア                                                                        | 相手                                                                                |
-| ------------------------------------------------------------------ | ---- | -------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| [62](https://ja.wikipedia.org/wiki/第62回天皇杯全日本サッカー選手権大会 "wikilink") | 1回戦  | 1-2                                                                        | [田辺製薬サッカー部](https://ja.wikipedia.org/wiki/田辺三菱製薬サッカー部 "wikilink") (関西)            |
-| [63](https://ja.wikipedia.org/wiki/第63回天皇杯全日本サッカー選手権大会 "wikilink") | 1回戦  | 1-2                                                                        | 大阪商業大学 (関西)                                                                       |
-| [65](https://ja.wikipedia.org/wiki/第65回天皇杯全日本サッカー選手権大会 "wikilink") | 1回戦  | 0-3                                                                        | [ヤンマーディーゼルサッカー部](https://ja.wikipedia.org/wiki/ヤンマーディーゼルサッカー部 "wikilink") (JSL1部) |
-| [67](https://ja.wikipedia.org/wiki/第67回天皇杯全日本サッカー選手権大会 "wikilink") | 1回戦  | 1-3                                                                        | [日産自動車サッカー部](https://ja.wikipedia.org/wiki/日産自動車サッカー部 "wikilink") (JSL1部)         |
-| [68](https://ja.wikipedia.org/wiki/第68回天皇杯全日本サッカー選手権大会 "wikilink") | 1回戦  | 2-1                                                                        | [東芝サッカー部](https://ja.wikipedia.org/wiki/東芝堀川町サッカー部 "wikilink") (関東)               |
-| 2回戦                                                                | 0-2  | [本田技研工業サッカー部](https://ja.wikipedia.org/wiki/Honda_FC "wikilink") (JSL1部)   |                                                                                   |
-| [69](https://ja.wikipedia.org/wiki/第69回天皇杯全日本サッカー選手権大会 "wikilink") | 1回戦  | 0(PK2-0)0                                                                  | [三菱重工業サッカー部](https://ja.wikipedia.org/wiki/三菱重工業サッカー部 "wikilink") (関東)            |
-| 2回戦                                                                | 0-4  | 日産自動車サッカー部 (JSL1部)                                                         |                                                                                   |
-| [70](https://ja.wikipedia.org/wiki/第70回天皇杯全日本サッカー選手権大会 "wikilink") | 1回戦  | 0-5                                                                        | [フジタサッカークラブ](https://ja.wikipedia.org/wiki/藤和不動産サッカー部 "wikilink") (JSL1部)         |
-| [73](https://ja.wikipedia.org/wiki/第73回天皇杯全日本サッカー選手権大会 "wikilink") | 1回戦  | 1-0                                                                        | [ベルマーレ平塚](https://ja.wikipedia.org/wiki/湘南ベルマーレ "wikilink") (関東)                  |
-| 2回戦                                                                | 0-2  | [ヴェルディ川崎](https://ja.wikipedia.org/wiki/東京ヴェルディ1969 "wikilink") (Jリーグ)     |                                                                                   |
-| [74](https://ja.wikipedia.org/wiki/第74回天皇杯全日本サッカー選手権大会 "wikilink") | 1回戦  | 0-1                                                                        | [サンフレッチェ広島](https://ja.wikipedia.org/wiki/サンフレッチェ広島 "wikilink") (Jリーグ)            |
-| [76](https://ja.wikipedia.org/wiki/第76回天皇杯全日本サッカー選手権大会 "wikilink") | 1回戦  | 1-0                                                                        | 天理大学 (奈良)                                                                         |
-| 2回戦                                                                | 3-0  | 駒澤大学 (関東大学)                                                                |                                                                                   |
-| 3回戦                                                                | 1-0  | [名古屋グランパスエイト](https://ja.wikipedia.org/wiki/名古屋グランパスエイト "wikilink") (Jリーグ) |                                                                                   |
-| 4回戦                                                                | 1-3  | ベルマーレ平塚 (Jリーグ)                                                             |                                                                                   |
+| 回                                               | ラウンド | スコア                                                                        | 相手                                                                     |
+| ----------------------------------------------- | ---- | -------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| [62](../Page/第62回天皇杯全日本サッカー選手権大会.md "wikilink") | 1回戦  | 1-2                                                                        | [田辺製薬サッカー部](../Page/田辺三菱製薬サッカー部.md "wikilink") (関西)                    |
+| [63](../Page/第63回天皇杯全日本サッカー選手権大会.md "wikilink") | 1回戦  | 1-2                                                                        | 大阪商業大学 (関西)                                                            |
+| [65](../Page/第65回天皇杯全日本サッカー選手権大会.md "wikilink") | 1回戦  | 0-3                                                                        | [ヤンマーディーゼルサッカー部](../Page/ヤンマーディーゼルサッカー部.md "wikilink") (JSL1部)         |
+| [67](../Page/第67回天皇杯全日本サッカー選手権大会.md "wikilink") | 1回戦  | 1-3                                                                        | [日産自動車サッカー部](../Page/日産自動車サッカー部.md "wikilink") (JSL1部)                 |
+| [68](../Page/第68回天皇杯全日本サッカー選手権大会.md "wikilink") | 1回戦  | 2-1                                                                        | [東芝サッカー部](../Page/東芝堀川町サッカー部.md "wikilink") (関東)                       |
+| 2回戦                                             | 0-2  | [本田技研工業サッカー部](https://ja.wikipedia.org/wiki/Honda_FC "wikilink") (JSL1部)   |                                                                        |
+| [69](../Page/第69回天皇杯全日本サッカー選手権大会.md "wikilink") | 1回戦  | 0(PK2-0)0                                                                  | [三菱重工業サッカー部](../Page/三菱重工業サッカー部.md "wikilink") (関東)                    |
+| 2回戦                                             | 0-4  | 日産自動車サッカー部 (JSL1部)                                                         |                                                                        |
+| [70](../Page/第70回天皇杯全日本サッカー選手権大会.md "wikilink") | 1回戦  | 0-5                                                                        | [フジタサッカークラブ](../Page/藤和不動産サッカー部.md "wikilink") (JSL1部)                 |
+| [73](../Page/第73回天皇杯全日本サッカー選手権大会.md "wikilink") | 1回戦  | 1-0                                                                        | [ベルマーレ平塚](https://ja.wikipedia.org/wiki/湘南ベルマーレ "wikilink") (関東)       |
+| 2回戦                                             | 0-2  | [ヴェルディ川崎](https://ja.wikipedia.org/wiki/東京ヴェルディ1969 "wikilink") (Jリーグ)     |                                                                        |
+| [74](../Page/第74回天皇杯全日本サッカー選手権大会.md "wikilink") | 1回戦  | 0-1                                                                        | [サンフレッチェ広島](https://ja.wikipedia.org/wiki/サンフレッチェ広島 "wikilink") (Jリーグ) |
+| [76](../Page/第76回天皇杯全日本サッカー選手権大会.md "wikilink") | 1回戦  | 1-0                                                                        | 天理大学 (奈良)                                                              |
+| 2回戦                                             | 3-0  | 駒澤大学 (関東大学)                                                                |                                                                        |
+| 3回戦                                             | 1-0  | [名古屋グランパスエイト](https://ja.wikipedia.org/wiki/名古屋グランパスエイト "wikilink") (Jリーグ) |                                                                        |
+| 4回戦                                             | 1-3  | ベルマーレ平塚 (Jリーグ)                                                             |                                                                        |
 
 ## タイトル
 
 ### リーグ戦
 
-  - **[東海社会人サッカーリーグ](https://ja.wikipedia.org/wiki/東海社会人サッカーリーグ "wikilink")1部：5回**
+  - **[東海社会人サッカーリーグ](../Page/東海社会人サッカーリーグ.md "wikilink")1部：5回**
       - 1975年、1981年、1982年、1983年、1985年
 
 ### カップ戦
 
-  - **[全国地域リーグ決勝大会](https://ja.wikipedia.org/wiki/全国地域サッカーチャンピオンズリーグ "wikilink")：2回**
+  - **[全国地域リーグ決勝大会](../Page/全国地域サッカーチャンピオンズリーグ.md "wikilink")：2回**
       - 1979年、1985年
 
 ## 歴代監督
 
-  - 1981年-1991年 [鎌田光夫](https://ja.wikipedia.org/wiki/鎌田光夫 "wikilink")
+  - 1981年-1991年 [鎌田光夫](../Page/鎌田光夫.md "wikilink")
   - 1992年-1993年 杉本真
   - 1994年 九鬼慎次
   - 1995年-1996年 [山本好彦](https://ja.wikipedia.org/wiki/山本好彦 "wikilink")
 
 ## 在籍した主な選手
 
-  - [鳥居塚伸人](https://ja.wikipedia.org/wiki/鳥居塚伸人 "wikilink")
-  - [若松大樹](https://ja.wikipedia.org/wiki/若松大樹 "wikilink")
+  - [鳥居塚伸人](../Page/鳥居塚伸人.md "wikilink")
+  - [若松大樹](../Page/若松大樹.md "wikilink")
   - [金炳秀](https://ja.wikipedia.org/wiki/:ko:김병수_\(축구인\) "wikilink")（韓国語版）
 
 ## 脚注

@@ -1,41 +1,41 @@
 > この記事は[SEX MACHINEGUNS](https://ja.wikipedia.org/wiki/SEX_MACHINEGUNS)から翻訳されています。
 
 
-**SEX MACHINEGUNS**（セックス・マシンガンズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")\[1\]。名称の由来は[パンク・ロック](https://ja.wikipedia.org/wiki/パンク・ロック "wikilink")バンド、[セックス・ピストルズ](../Page/セックス・ピストルズ.md "wikilink")より凄いバンドを目指すという意味\[2\]。
+**SEX MACHINEGUNS**（セックス・マシンガンズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")\[1\]。名称の由来は[パンク・ロック](../Page/パンク・ロック.md "wikilink")バンド、[セックス・ピストルズ](../Page/セックス・ピストルズ.md "wikilink")より凄いバンドを目指すという意味\[2\]。
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月12日](../Page/4月12日.md "wikilink")にメジャーデビュー、[2003年](../Page/2003年.md "wikilink")[8月13日](../Page/8月13日.md "wikilink")に解散、[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[4月4日](../Page/4月4日.md "wikilink")に再結成、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[6月4日](../Page/6月4日.md "wikilink")に活動休止。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")11月より本格的に活動再開。[2012年](../Page/2012年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")末に活動休止。2012年秋以降、不定期で活動再開。[2014年](../Page/2014年.md "wikilink")7月より第6期として活動再開。所属レーベルはカナメイシレコード。
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月12日](../Page/4月12日.md "wikilink")にメジャーデビュー、[2003年](../Page/2003年.md "wikilink")[8月13日](../Page/8月13日.md "wikilink")に解散、[2004年](../Page/2004年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")に再結成、[2006年](../Page/2006年.md "wikilink")[6月4日](../Page/6月4日.md "wikilink")に活動休止。[2007年](../Page/2007年.md "wikilink")11月より本格的に活動再開。[2012年](../Page/2012年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")末に活動休止。2012年秋以降、不定期で活動再開。[2014年](../Page/2014年.md "wikilink")7月より第6期として活動再開。所属レーベルはカナメイシレコード。
 
 ## 概要
 
-音楽性としては、[ジャーマンメタル](../Page/ジャーマンメタル.md "wikilink")と[スピードメタル](https://ja.wikipedia.org/wiki/スピードメタル "wikilink")、1980年代の[ジャパニーズ・メタル](https://ja.wikipedia.org/wiki/ジャパニーズ・メタル "wikilink")の要素を併せ持つ他、楽曲によっては[デスヴォイス](https://ja.wikipedia.org/wiki/デスヴォイス "wikilink")や[グロウルに近いヴォーカルのようにモダンなメタルの要素も存在している](https://ja.wikipedia.org/wiki/デスヴォイス "wikilink")。様々な[HR/HM](https://ja.wikipedia.org/wiki/HR/HM "wikilink")系バンドの楽曲の[オマージュ](https://ja.wikipedia.org/wiki/オマージュ "wikilink")と考えられる曲が数多く存在し、中には[メロディ](../Page/メロディ.md "wikilink")や[リフ](https://ja.wikipedia.org/wiki/リフ "wikilink")を原形に近しい形で拝借したものも少なくない。このことは、ほとんどの作曲を担当するANCHANGが雑誌のインタビュー等で明言している。
+音楽性としては、[ジャーマンメタル](../Page/ジャーマンメタル.md "wikilink")と[スピードメタル](https://ja.wikipedia.org/wiki/スピードメタル "wikilink")、1980年代の[ジャパニーズ・メタル](../Page/ジャパニーズ・メタル.md "wikilink")の要素を併せ持つ他、楽曲によっては[デスヴォイス](../Page/デスヴォイス.md "wikilink")や[グロウルに近いヴォーカルのようにモダンなメタルの要素も存在している](../Page/デスヴォイス.md "wikilink")。様々な[HR/HM](https://ja.wikipedia.org/wiki/HR/HM "wikilink")系バンドの楽曲の[オマージュ](../Page/オマージュ.md "wikilink")と考えられる曲が数多く存在し、中には[メロディ](../Page/メロディ.md "wikilink")や[リフ](../Page/リフ.md "wikilink")を原形に近しい形で拝借したものも少なくない。このことは、ほとんどの作曲を担当するANCHANGが雑誌のインタビュー等で明言している。
 
-メジャーデビュー前後の頃には「[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")ヘヴィメタルバンド」として売り込んでいたが、あくまでそれはライブの観客動員を増やすための戦略だったようである。インディーズ第2期～第3期の頃はちょうどヴィジュアル系バンドが全盛期であり、都内のライヴハウスに出演依頼を申し込んだ際に「今更メタルなの？」と門前払いに等しい扱いを受けたことがあったと後にANCHANGが語っており、ヴィジュアル系を名乗るのは演奏場所を確保するための苦肉の策であった。 だが、アルバムの発売枚数が少ないもののライブの動員数が多く、メジャーデビュー1年半で[日本武道館](https://ja.wikipedia.org/wiki/日本武道館 "wikilink")でのライブを実現させている。
+メジャーデビュー前後の頃には「[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")ヘヴィメタルバンド」として売り込んでいたが、あくまでそれはライブの観客動員を増やすための戦略だったようである。インディーズ第2期～第3期の頃はちょうどヴィジュアル系バンドが全盛期であり、都内のライヴハウスに出演依頼を申し込んだ際に「今更メタルなの？」と門前払いに等しい扱いを受けたことがあったと後にANCHANGが語っており、ヴィジュアル系を名乗るのは演奏場所を確保するための苦肉の策であった。 だが、アルバムの発売枚数が少ないもののライブの動員数が多く、メジャーデビュー1年半で[日本武道館](../Page/日本武道館.md "wikilink")でのライブを実現させている。
 
 ## バンド略歴
 
-ギターの[ANCHANG](https://ja.wikipedia.org/wiki/Anchang "wikilink")（安藤弘司）が[1989年](../Page/1989年.md "wikilink")、[鹿児島県](https://ja.wikipedia.org/wiki/鹿児島県 "wikilink")の[第一工業大学](https://ja.wikipedia.org/wiki/第一工業大学 "wikilink")に在学中、大学祭への出場のために結成したバンドがルーツになっている。このときのボーカルは、パンクバンドのボーカルだったため、メタルとパンクが折衷している状態であった。その後、九州地方を中心に活動を続けるが、ANCHANGの就職による上京を機に解散。
+ギターの[ANCHANG](../Page/Anchang.md "wikilink")（安藤弘司）が[1989年](../Page/1989年.md "wikilink")、[鹿児島県](../Page/鹿児島県.md "wikilink")の[第一工業大学](../Page/第一工業大学.md "wikilink")に在学中、大学祭への出場のために結成したバンドがルーツになっている。このときのボーカルは、パンクバンドのボーカルだったため、メタルとパンクが折衷している状態であった。その後、九州地方を中心に活動を続けるが、ANCHANGの就職による上京を機に解散。
 
-ANCHANGはサラリーマンになってから、同名のバンドを再結成しメンバーに大田宏（後の[NOISY](https://ja.wikipedia.org/wiki/NOISY "wikilink")）をボーカリストとして迎え入れる。しかしフザけすぎて（多摩川の河原で発声練習をANCHANGに命じられたが、真面目に発声練習をせず、大声に寄ってきた鳩に餌をやっていたという）すぐにクビになり、ANCHANGがヴォーカルを兼任する事になる。NOISYは次にギタリストとして再加入するが、またまたクビになる（実際は、NOISY自身が「キツくてもうできない」とANCHANGに電話してきたらしい）。
+ANCHANGはサラリーマンになってから、同名のバンドを再結成しメンバーに大田宏（後の[NOISY](../Page/NOISY.md "wikilink")）をボーカリストとして迎え入れる。しかしフザけすぎて（多摩川の河原で発声練習をANCHANGに命じられたが、真面目に発声練習をせず、大声に寄ってきた鳩に餌をやっていたという）すぐにクビになり、ANCHANGがヴォーカルを兼任する事になる。NOISYは次にギタリストとして再加入するが、またまたクビになる（実際は、NOISY自身が「キツくてもうできない」とANCHANGに電話してきたらしい）。
 
-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、インディーズバンド紹介番組『[えびす温泉](https://ja.wikipedia.org/wiki/えびす温泉 "wikilink")』に出演。「FIRE」を演奏。
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、インディーズバンド紹介番組『[えびす温泉](../Page/えびす温泉.md "wikilink")』に出演。「FIRE」を演奏。
 
-[1996年](../Page/1996年.md "wikilink")、ANCHANGの手伝っていた[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")バンドVICTIM OF FAITHが解散し、そのギタリストだった[SUSSY](https://ja.wikipedia.org/wiki/SUSSY "wikilink")（古屋正仁）が加入。またNOISYがベーシストとして再々加入し、今のバンドの原形が固まる。この年の11月には[BSヤングバトル](https://ja.wikipedia.org/wiki/BSヤングバトル "wikilink")に出場して「[みかんのうた](https://ja.wikipedia.org/wiki/みかんのうた "wikilink")」を演奏。審査員からは演奏技術、特にボーカルとギターとの両立については評価されるも受賞はならなかった。その後に[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")「[大発見\!恐怖の法則](https://ja.wikipedia.org/wiki/大発見!恐怖の法則 "wikilink")」に「ヘビメタバンド」として少し出演する。内容は「ヘビメタバンドをやっている人は痩せている」という旨の「法則」を検証するという企画であり、結果は当時のドラム以外に「法則」は当てはまった。この時は「[天才・たけしの元気が出るテレビ\!\!](https://ja.wikipedia.org/wiki/天才・たけしの元気が出るテレビ!! "wikilink")」に出ていた頃の[Xのような色物扱いを受けた](../Page/X_JAPAN.md "wikilink")。
+[1996年](../Page/1996年.md "wikilink")、ANCHANGの手伝っていた[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")バンドVICTIM OF FAITHが解散し、そのギタリストだった[SUSSY](../Page/SUSSY.md "wikilink")（古屋正仁）が加入。またNOISYがベーシストとして再々加入し、今のバンドの原形が固まる。この年の11月には[BSヤングバトル](../Page/BSヤングバトル.md "wikilink")に出場して「[みかんのうた](https://ja.wikipedia.org/wiki/みかんのうた "wikilink")」を演奏。審査員からは演奏技術、特にボーカルとギターとの両立については評価されるも受賞はならなかった。その後に[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")「[大発見\!恐怖の法則](../Page/大発見!恐怖の法則.md "wikilink")」に「ヘビメタバンド」として少し出演する。内容は「ヘビメタバンドをやっている人は痩せている」という旨の「法則」を検証するという企画であり、結果は当時のドラム以外に「法則」は当てはまった。この時は「[天才・たけしの元気が出るテレビ\!\!](../Page/天才・たけしの元気が出るテレビ!!.md "wikilink")」に出ていた頃の[Xのような色物扱いを受けた](../Page/X_JAPAN.md "wikilink")。
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")には、オーディションでドラムに[SPEED STAR SYPAN JOE](https://ja.wikipedia.org/wiki/JOE_\(ドラマー\) "wikilink")（JOE・上野浩二）が加入し、デビュー時のラインナップとなる。ちなみに、後にJOEの後任ドラマーとなる[CLUTCH.J.HIMAWARI](https://ja.wikipedia.org/wiki/CLUTCH.J.HIMAWARI "wikilink")（神吉淳）もこの時のオーディションに参加。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")には、オーディションでドラムに[SPEED STAR SYPAN JOE](../Page/JOE_\(ドラマー\).md "wikilink")（JOE・上野浩二）が加入し、デビュー時のラインナップとなる。ちなみに、後にJOEの後任ドラマーとなる[CLUTCH.J.HIMAWARI](https://ja.wikipedia.org/wiki/CLUTCH.J.HIMAWARI "wikilink")（神吉淳）もこの時のオーディションに参加。
 
 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、シングル『HANABI-la大回転』でメジャーデビュー。デビューアルバム『SEX MACHINEGUN』がヘヴィメタル専門誌「[BURRN\!](../Page/BURRN!.md "wikilink")」にて、歌詞が余りにも「フザけ過ぎている」という判断で点数を付けられない、という理由で「?（評価不能）」と判定された。しかし、楽曲や演奏面では高い評価を受けていた。
 
-[1999年](../Page/1999年.md "wikilink")に、SPEED STAR SYPAN JOEが持病の椎間板ヘルニアの悪化のため脱退（JOEはその後リハビリを経て、[2001年](../Page/2001年.md "wikilink")には[DASEIN](https://ja.wikipedia.org/wiki/DASEIN "wikilink")のドラマーとして復活）。後任にCLUTCH.J.HIMAWARIがサポートを経て正式加入する。ちなみにこの名前は[アクセル・ローズ](https://ja.wikipedia.org/wiki/アクセル・ローズ "wikilink")のパロディであり、アクセル→クラッチ、ローズ（薔薇）→ヒマワリと変換し、間に本名のイニシャルを加えたもの。
+[1999年](../Page/1999年.md "wikilink")に、SPEED STAR SYPAN JOEが持病の椎間板ヘルニアの悪化のため脱退（JOEはその後リハビリを経て、[2001年](../Page/2001年.md "wikilink")には[DASEIN](../Page/DASEIN.md "wikilink")のドラマーとして復活）。後任にCLUTCH.J.HIMAWARIがサポートを経て正式加入する。ちなみにこの名前は[アクセル・ローズ](../Page/アクセル・ローズ.md "wikilink")のパロディであり、アクセル→クラッチ、ローズ（薔薇）→ヒマワリと変換し、間に本名のイニシャルを加えたもの。
 
-[2001年](../Page/2001年.md "wikilink")には、音楽的方向性の相違を理由にSUSSYが脱退し、後任として[CIRCUIT.V.PANTHER](https://ja.wikipedia.org/wiki/PANTHER_\(ギタリスト\) "wikilink")（八尋義和）がサポートを経て、その後正式加入。
+[2001年](../Page/2001年.md "wikilink")には、音楽的方向性の相違を理由にSUSSYが脱退し、後任として[CIRCUIT.V.PANTHER](../Page/PANTHER_\(ギタリスト\).md "wikilink")（八尋義和）がサポートを経て、その後正式加入。
 
-[2003年](../Page/2003年.md "wikilink")、個人の様々な意見(方向性)の違いについて話し合いの末に解散を決める。発表後に異例の解散説明会が行われ「明るい解散」であることを強調。同年8月13日の日本武道館公演をもって第3期の活動に幕を下ろす。ANCHANGとCIRCUIT.V.PANTHERは、同年それぞれソロデビュー。リズム隊の二人は元[Λucifer](https://ja.wikipedia.org/wiki/Λucifer "wikilink")のYUKIと共に**[DUSTAR-3](https://ja.wikipedia.org/wiki/DUSTAR-3 "wikilink")**を結成し、[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")にデビュー。
+[2003年](../Page/2003年.md "wikilink")、個人の様々な意見(方向性)の違いについて話し合いの末に解散を決める。発表後に異例の解散説明会が行われ「明るい解散」であることを強調。同年8月13日の日本武道館公演をもって第3期の活動に幕を下ろす。ANCHANGとCIRCUIT.V.PANTHERは、同年それぞれソロデビュー。リズム隊の二人は元[Λucifer](../Page/Λucifer.md "wikilink")のYUKIと共に**[DUSTAR-3](https://ja.wikipedia.org/wiki/DUSTAR-3 "wikilink")**を結成し、[2004年](../Page/2004年.md "wikilink")にデビュー。
 
-[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")、ANCHANG、CIRCUIT.V.PANTHER、[SAMURAI.W.KENJILAW](https://ja.wikipedia.org/wiki/村井研次郎 "wikilink")（元[cali≠gari](https://ja.wikipedia.org/wiki/cali≠gari "wikilink")の村井研次郎）、SPEED STAR SYPAN JOEの4人で再結成。アルバム2枚、シングル3枚、DVD2枚を発表。ANCHANGを除いた3人によるバンド内の[インストバンドとして](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")**ELLEGUNS**も結成される。メジャー第4期はほぼヴィジュアル系バンド時代の面影は無くなり、さらにNOISYが抜けた影響か、コミカルな要素も抑え目になり、硬派なヘヴィメタルバンドとしてのイメージを強調していた。
+[2004年](../Page/2004年.md "wikilink")、ANCHANG、CIRCUIT.V.PANTHER、[SAMURAI.W.KENJILAW](../Page/村井研次郎.md "wikilink")（元[cali≠gari](https://ja.wikipedia.org/wiki/cali≠gari "wikilink")の村井研次郎）、SPEED STAR SYPAN JOEの4人で再結成。アルバム2枚、シングル3枚、DVD2枚を発表。ANCHANGを除いた3人によるバンド内の[インストバンドとして](../Page/器楽曲.md "wikilink")**ELLEGUNS**も結成される。メジャー第4期はほぼヴィジュアル系バンド時代の面影は無くなり、さらにNOISYが抜けた影響か、コミカルな要素も抑え目になり、硬派なヘヴィメタルバンドとしてのイメージを強調していた。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月20日](../Page/3月20日.md "wikilink")、『ZARIGANI CHOP AMERICANA』ツアー 川崎クラブチッタ公演アンコール時のMCにてANCHANGより活動休止が発表される。翌21日、公式ページでも正式に活動休止が発表される。その後、バンドから完全に脱退したSPEED STAR SYPAN JOE、CIRCUIT.V.PANTHER、SAMURAI.W.KENJILAWの3人は、ELLEGUNSと同じメンバー構成で**J-P-K PROJECT**を結成。その後バンド名を**[CYCLE](https://ja.wikipedia.org/wiki/CYCLE_\(バンド\) "wikilink")**に変更し、本格的な活動を始める。ANCHANGはソロ活動を経て一般公募のオーディションによるメンバー募集を開始する。
+[2006年](../Page/2006年.md "wikilink")[3月20日](../Page/3月20日.md "wikilink")、『ZARIGANI CHOP AMERICANA』ツアー 川崎クラブチッタ公演アンコール時のMCにてANCHANGより活動休止が発表される。翌21日、公式ページでも正式に活動休止が発表される。その後、バンドから完全に脱退したSPEED STAR SYPAN JOE、CIRCUIT.V.PANTHER、SAMURAI.W.KENJILAWの3人は、ELLEGUNSと同じメンバー構成で**J-P-K PROJECT**を結成。その後バンド名を**[CYCLE](https://ja.wikipedia.org/wiki/CYCLE_\(バンド\) "wikilink")**に変更し、本格的な活動を始める。ANCHANGはソロ活動を経て一般公募のオーディションによるメンバー募集を開始する。
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[10月26日](../Page/10月26日.md "wikilink")、第5期の新メンバーとして[RYOTATSU](https://ja.wikipedia.org/wiki/桑江良竜 "wikilink")(桑江良竜)と[KEN'ICHI](https://ja.wikipedia.org/wiki/KEN'ICHI "wikilink")(今井賢一)の加入が発表される。オーディション合格後の合宿中に辞退\[3\]したメンバーに代わって、当時石垣島を拠点に活動する[B-SHOP](https://ja.wikipedia.org/wiki/B-SHOP "wikilink")のメンバーであった[SHINGO☆](https://ja.wikipedia.org/wiki/SHINGO☆ "wikilink")（玉木慎吾）がサポートベーシストとしてライブに参加。
+[2007年](../Page/2007年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink")、第5期の新メンバーとして[RYOTATSU](https://ja.wikipedia.org/wiki/桑江良竜 "wikilink")(桑江良竜)と[KEN'ICHI](https://ja.wikipedia.org/wiki/KEN'ICHI "wikilink")(今井賢一)の加入が発表される。オーディション合格後の合宿中に辞退\[3\]したメンバーに代わって、当時石垣島を拠点に活動する[B-SHOP](../Page/B-SHOP.md "wikilink")のメンバーであった[SHINGO☆](https://ja.wikipedia.org/wiki/SHINGO☆ "wikilink")（玉木慎吾）がサポートベーシストとしてライブに参加。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月28日](../Page/6月28日.md "wikilink")、『全国大会』ツアーでサポートベーシストであったSHINGO☆が、ツアーファイナル公演（渋谷O-EAST）にて正式加入。同日、RYOTATSUはイベリコ・モジャ・マルムスティーンに改名（通称モジャ丸）。同年[8月2日](../Page/8月2日.md "wikilink")、イベリコ・モジャ・マルムスティーンが失踪・家庭の事情による脱退が、公式HPに発表された。2019年現在も後任を探さずサポートギタリストを加えライヴ活動を行っている。8月中のライヴは、サポートメンバーとしてSUSSYを急遽起用（一時的復帰）、イベント4公演を乗り切った。同年[12月8日](../Page/12月8日.md "wikilink")、ANCHANGが自身のブログでEMIミュージックジャパンとの契約満了を発表。今後はインディーズで活動していくことを発表した。\[4\]
 
@@ -55,7 +55,7 @@ AnchangとSHINGO☆は並行して「[ザ☆メンテナンス](https://ja.wikip
 
 ## 現在のメンバー
 
-  - [ANCHANG](https://ja.wikipedia.org/wiki/Anchang "wikilink")（あんちゃん）：リーダー, Vo, G、[愛媛県](../Page/愛媛県.md "wikilink")[新居浜市](../Page/新居浜市.md "wikilink")出身。1970年4月28日生まれ。
+  - [ANCHANG](../Page/Anchang.md "wikilink")（あんちゃん）：リーダー, Vo, G、[愛媛県](../Page/愛媛県.md "wikilink")[新居浜市](../Page/新居浜市.md "wikilink")出身。1970年4月28日生まれ。
   - [SHINGO☆](https://ja.wikipedia.org/wiki/SHINGO☆ "wikilink")（しんごすたー）：Ba、[沖縄県](../Page/沖縄県.md "wikilink")[石垣島](../Page/石垣島.md "wikilink")出身。1983年8月29日生まれ。2008年6月28日正式加入。
 
 ## バンドの変遷
@@ -83,7 +83,7 @@ AnchangとSHINGO☆は並行して「[ザ☆メンテナンス](https://ja.wikip
 <tbody>
 <tr class="odd">
 <td><p>ASADA</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Anchang" title="wikilink">Anchang</a></p></td>
+<td><p><a href="../Page/Anchang.md" title="wikilink">Anchang</a></p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>MAD POWER土屋<br />
@@ -99,7 +99,7 @@ AnchangとSHINGO☆は並行して「[ザ☆メンテナンス](https://ja.wikip
 </tr>
 <tr class="odd">
 <td><p>H.Ohta<br />
-(<a href="https://ja.wikipedia.org/wiki/NOISY" title="wikilink">NOISY</a>)</p></td>
+(<a href="../Page/NOISY.md" title="wikilink">NOISY</a>)</p></td>
 <td><p>Anchang</p></td>
 <td><p>-</p></td>
 <td><p>ザーマス</p></td>
@@ -117,7 +117,7 @@ AnchangとSHINGO☆は並行して「[ザ☆メンテナンス](https://ja.wikip
 <tr class="odd">
 <td><p>ロボッターImai</p></td>
 <td><p>Anchang</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SUSSY" title="wikilink">SUSSY</a></p></td>
+<td><p><a href="../Page/SUSSY.md" title="wikilink">SUSSY</a></p></td>
 <td><p>ザーマス</p></td>
 <td><p>-</p></td>
 </tr>
@@ -134,7 +134,7 @@ AnchangとSHINGO☆は並行して「[ザ☆メンテナンス](https://ja.wikip
 <td><p>Anchang</p></td>
 <td><p>SUSSY</p></td>
 <td><p>NOISY</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/JOE_(ドラマー)" title="wikilink">SPEED STAR SYPAN JOE</a></p></td>
+<td><p><a href="../Page/JOE_(ドラマー).md" title="wikilink">SPEED STAR SYPAN JOE</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -192,7 +192,7 @@ CRAZY HORSE KAMEEN (Synth.G)</p></td>
 <tr class="odd">
 <td><p>～ <a href="../Page/2003年.md" title="wikilink">2003年</a><a href="../Page/8月13日.md" title="wikilink">8月13日</a></p></td>
 <td><p>ANCHANG</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PANTHER_(ギタリスト)" title="wikilink">CIRCUIT.V.PANTHER</a></p></td>
+<td><p><a href="../Page/PANTHER_(ギタリスト).md" title="wikilink">CIRCUIT.V.PANTHER</a></p></td>
 <td><p>NOISY</p></td>
 <td><p>CLUTCH.J.HIMAWARI</p></td>
 <td><p>CRAZY HORSE KAMEEN (Synth.G)</p></td>
@@ -200,7 +200,7 @@ CRAZY HORSE KAMEEN (Synth.G)</p></td>
 </tbody>
 </table>
 
-  - **第4期**（[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[4月12日](../Page/4月12日.md "wikilink") - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月7日](../Page/9月7日.md "wikilink")）
+  - **第4期**（[2004年](../Page/2004年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink") - [2006年](../Page/2006年.md "wikilink")[9月7日](../Page/9月7日.md "wikilink")）
 
 <table>
 <thead>
@@ -216,13 +216,13 @@ Guitar</p></th>
 <tr class="odd">
 <td><p>ANCHANG</p></td>
 <td><p>CIRCUIT.V.PANTHER</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/村井研次郎" title="wikilink">SAMURAI.W.KENJILAW</a></p></td>
+<td><p><a href="../Page/村井研次郎.md" title="wikilink">SAMURAI.W.KENJILAW</a></p></td>
 <td><p>SPEED STAR SYPAN JOE</p></td>
 </tr>
 </tbody>
 </table>
 
-  - **第5期**（[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[10月26日](../Page/10月26日.md "wikilink") - [2014年](../Page/2014年.md "wikilink")夏）
+  - **第5期**（[2007年](../Page/2007年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink") - [2014年](../Page/2014年.md "wikilink")夏）
 
 <!-- end list -->
 
@@ -619,7 +619,7 @@ Secret Killer <small>(Live in Tokyo)</small></p></td>
 <td><p>出前道一直線<br />
 Hold On To The Fire<br />
 Bargain Sal</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2004年" title="wikilink">2004年</a><a href="../Page/11月10日.md" title="wikilink">11月10日</a></p></td>
+<td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><a href="../Page/11月10日.md" title="wikilink">11月10日</a></p></td>
 <td><p>15位</p></td>
 <td></td>
 </tr>
@@ -629,7 +629,7 @@ Bargain Sal</p></td>
 <td><p>TOCT-4842</p></td>
 <td><p>サスペンス劇場<br />
 イルカに乗って</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/2月9日.md" title="wikilink">2月9日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/2月9日.md" title="wikilink">2月9日</a></p></td>
 <td><p>22位</p></td>
 <td></td>
 </tr>
@@ -734,11 +734,11 @@ MJS CM (30sec.ver.)</p></td>
 
 ### 配信限定シングル
 
-1.  **廃品回収**（[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[8月22日](../Page/8月22日.md "wikilink")）　
+1.  **廃品回収**（[2007年](../Page/2007年.md "wikilink")[8月22日](../Page/8月22日.md "wikilink")）　
       - 後にアルバム「BEST TRACKS the past and the future」にてCD収録。
 2.  **毒マムシ**（2007年[9月26日](../Page/9月26日.md "wikilink")）　
       - 後にアルバム「BEST TRACKS the past and the future」にてCD収録。
-3.  **JACKY**（2007年[10月31日](https://ja.wikipedia.org/wiki/10月31日 "wikilink")）
+3.  **JACKY**（2007年[10月31日](../Page/10月31日.md "wikilink")）
       - 後にアルバム「キャメロン」にてCD収録。
 4.  **メタルベンチャーマン**（[2017年](../Page/2017年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")）
       - [ミロク情報サービス](../Page/ミロク情報サービス.md "wikilink")CMソング。[レコチョク](https://ja.wikipedia.org/wiki/レコチョク "wikilink")では[11月8日](../Page/11月8日.md "wikilink")より配信。後にアルバム「マシンガンズにしやがれ‼︎」にてCD収録。
@@ -845,7 +845,7 @@ MJS CM (30sec.ver.)</p></td>
 <tr class="odd">
 <td><p><strong>HEAVY METAL THUNDER</strong></p></td>
 <td><p>TOCT-25617</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/3月2日.md" title="wikilink">3月2日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/3月2日.md" title="wikilink">3月2日</a></p></td>
 <td><p>22</p></td>
 <td><ol>
 <li>Heavy Metal Thunder</li>
@@ -865,7 +865,7 @@ MJS CM (30sec.ver.)</p></td>
 <tr class="even">
 <td><p><strong>MADE IN USA</strong></p></td>
 <td><p>TOCT-25930</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/2月8日" title="wikilink">2月8日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/2月8日.md" title="wikilink">2月8日</a></p></td>
 <td><p>29</p></td>
 <td><ol>
 <li>サボテン兄弟</li>
@@ -1159,7 +1159,7 @@ TOCT-25064</p></td>
 ### ライブアルバム
 
 1.  **LIVE FIRE**（1997年[5月13日](../Page/5月13日.md "wikilink")）
-2.  **[BURNING HAMMER](https://ja.wikipedia.org/wiki/BURNING_HAMMER "wikilink")**（2001年[10月31日](https://ja.wikipedia.org/wiki/10月31日 "wikilink")）- オリコンウィークリーチャート初登場7位
+2.  **[BURNING HAMMER](https://ja.wikipedia.org/wiki/BURNING_HAMMER "wikilink")**（2001年[10月31日](../Page/10月31日.md "wikilink")）- オリコンウィークリーチャート初登場7位
 3.  **LIVE\! FINAL ATTACK AT BUDOKAN**（2003年[9月26日](../Page/9月26日.md "wikilink")）- オリコンウィークリーチャート初登場57位
 
 ### ビデオ / DVD
@@ -1177,7 +1177,7 @@ TOCT-25064</p></td>
 8.  **ヴィデオSEX 2**（PV集、2002年[12月4日](../Page/12月4日.md "wikilink")）- オリコンウィークリーチャート初登場47位
 9.  **SM SHOW 3**（LIVE、2003年[2月19日](../Page/2月19日.md "wikilink")）- オリコンウィークリーチャート初登場29位
 10. **SM SHOW FINALE**（LIVE、2003年[10月22日](../Page/10月22日.md "wikilink")）- オリコンウィークリーチャート初登場28位
-11. **鋼鉄箱(メタルバコ)**（限定生産BOX、2003年[12月10日](https://ja.wikipedia.org/wiki/12月10日 "wikilink")）- オリコンウィークリーチャート初登場60位
+11. **鋼鉄箱(メタルバコ)**（限定生産BOX、2003年[12月10日](../Page/12月10日.md "wikilink")）- オリコンウィークリーチャート初登場60位
 12. **MADE IN USA**（シングル、2006年[1月25日](../Page/1月25日.md "wikilink")）- オリコンウィークリーチャート初登場59位
 13. **LIVING IN AMERICA**（ドキュメンタリー、2006年[3月8日](../Page/3月8日.md "wikilink")）- オリコンウィークリーチャート初登場40位
 14. **A DAY IN THE LIVE-SEX MACHINEGUNS LIVE IN USA-**（LIVE、2006年[6月28日](../Page/6月28日.md "wikilink")）- オリコンウィークリーチャート初登場58位
@@ -1216,45 +1216,45 @@ TOCT-25064</p></td>
       - 参加曲：SAMURAI WARRIOR
   - **THE BEST OF reveil\[deux\] : VISUAL ROCK BEST COLLECTION**（1999年[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")）
       - 参加曲：SAMURAI WARRIOR
-  - **[City Hunter Special 緊急生中継\!? 凶悪犯冴羽{{lang](https://ja.wikipedia.org/wiki/シティーハンター_\(アニメ\) "wikilink") - オリジナルサウンドトラック**（1999年[5月8日](../Page/5月8日.md "wikilink")）
+  - **[City Hunter Special 緊急生中継\!? 凶悪犯冴羽{{lang](../Page/シティーハンター_\(アニメ\).md "wikilink") - オリジナルサウンドトラック**（1999年[5月8日](../Page/5月8日.md "wikilink")）
   - 参加曲：illusion city (TV SIZE)・MAGNUM fire（2丁目ヴァージョン）
   - **彩-IRODORI-VISUAL ROCK BEST COLLECTION**（2001年[3月1日](../Page/3月1日.md "wikilink")）
       - 参加曲：SAMURAI WARRIOR（SEX MACHI**N**GUNS名義）
-  - **[LOVE for NANA 〜Only 1 Tribute〜](https://ja.wikipedia.org/wiki/LOVE_for_NANA_〜Only_1_Tribute〜 "wikilink")**（2005年[3月16日](../Page/3月16日.md "wikilink")）
+  - **[LOVE for NANA 〜Only 1 Tribute〜](../Page/LOVE_for_NANA_〜Only_1_Tribute〜.md "wikilink")**（2005年[3月16日](../Page/3月16日.md "wikilink")）
       - 参加曲：BLACK CROW
-  - **[MUSIC FROM AND INSPIRED BY THE GAME HEAVY METAL THUNDER -THE RECORDINGS-](https://ja.wikipedia.org/wiki/MUSIC_FROM_AND_INSPIRED_BY_THE_GAME_HEAVY_METAL_THUNDER_-THE_RECORDINGS- "wikilink")**（2005年[9月7日](../Page/9月7日.md "wikilink")）
+  - **[MUSIC FROM AND INSPIRED BY THE GAME HEAVY METAL THUNDER -THE RECORDINGS-](../Page/MUSIC_FROM_AND_INSPIRED_BY_THE_GAME_HEAVY_METAL_THUNDER_-THE_RECORDINGS-.md "wikilink")**（2005年[9月7日](../Page/9月7日.md "wikilink")）
       - 参加曲：Heavy Metal Thunder Feat.Michael Schenker・出前道一直線・イルカに乗って
   - **ガーゴイズム**（2008年[5月17日](../Page/5月17日.md "wikilink")）
-      - [Gargoyle](https://ja.wikipedia.org/wiki/Gargoyle "wikilink")トリビュートアルバム、参加曲：HUNTING DAYS
+      - [Gargoyle](../Page/Gargoyle.md "wikilink")トリビュートアルバム、参加曲：HUNTING DAYS
   - **[Tribute to 聖飢魔II -悪魔との契約書-](https://ja.wikipedia.org/wiki/Tribute_to_聖飢魔II_-悪魔との契約書- "wikilink")** （[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[9月15日](../Page/9月15日.md "wikilink")）
       - 参加曲：FIRE AFTER FIRE
 
 ### その他
 
   - 1996年7月26日に発売された、[PIL](https://ja.wikipedia.org/wiki/PIL "wikilink")製作のミニゲーム集「PILcaSEX（読み：ピルケース）」内包のイメージ曲集『PIL SOUND GEAR』にSEX MACHINEGUNS製作・演奏の「Pil Has No Thema」が収録されている。ヴォーカルは普段のパワフルな高音ではなく、低音で淡々と歌われている。
-  - ライブや番組限りのカバーでは、[デーモン小暮閣下とのセッションによる](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink")[BURNや](https://ja.wikipedia.org/wiki/紫の炎 "wikilink")、尾崎豊の[卒業](https://ja.wikipedia.org/wiki/卒業_\(尾崎豊の曲\) "wikilink")、[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")出演時に司会の[堂本光一](../Page/堂本光一.md "wikilink")にちなんだ[ボクの背中には羽根がある](https://ja.wikipedia.org/wiki/ボクの背中には羽根がある "wikilink")や[フジテレビNEXT](https://ja.wikipedia.org/wiki/フジテレビNEXT "wikilink")西川貴教の僕らの音楽（第17回）に[INVOKE](https://ja.wikipedia.org/wiki/INVOKE "wikilink")など。
+  - ライブや番組限りのカバーでは、[デーモン小暮閣下とのセッションによる](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink")[BURNや](https://ja.wikipedia.org/wiki/紫の炎 "wikilink")、尾崎豊の[卒業](https://ja.wikipedia.org/wiki/卒業_\(尾崎豊の曲\) "wikilink")、[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")出演時に司会の[堂本光一](../Page/堂本光一.md "wikilink")にちなんだ[ボクの背中には羽根がある](../Page/ボクの背中には羽根がある.md "wikilink")や[フジテレビNEXT](https://ja.wikipedia.org/wiki/フジテレビNEXT "wikilink")西川貴教の僕らの音楽（第17回）に[INVOKE](../Page/INVOKE.md "wikilink")など。
 
 ## SEX MACHINEGUNS出演のラジオ番組
 
   - SEX MACHINEGUNSのラジオメタル（[TBSラジオ](../Page/TBSラジオ.md "wikilink")：金曜27:40-27:55）、 [ミュージックナビ〜昨日と今日との交差点〜](https://ja.wikipedia.org/wiki/ミュージックナビ〜昨日と今日との交差点〜 "wikilink")内のコーナー出演
   - SEX MACHINEGUNS HEAVY METAL THUNDER（[TOKYO FM](../Page/エフエム東京.md "wikilink")：土曜28:00-28:30） 2006年3月25日にて放送終了
   - STAIRWAY TO ROCK（[FM愛媛](../Page/エフエム愛媛.md "wikilink")：土曜21:30-21:55、Anchangのみ）終了
-  - TENJIN METAL CITY（[天神FM](https://ja.wikipedia.org/wiki/天神エフエム "wikilink")：月曜15:00-15:30、Anchangのみ）終了
+  - TENJIN METAL CITY（[天神FM](../Page/天神エフエム.md "wikilink")：月曜15:00-15:30、Anchangのみ）終了
 
 ## 脚注
 
 ## 関連項目
 
-  - [ANCHANG](https://ja.wikipedia.org/wiki/Anchang "wikilink")
-  - [NOISY](https://ja.wikipedia.org/wiki/NOISY "wikilink")
-  - [SUSSY](https://ja.wikipedia.org/wiki/SUSSY "wikilink")
-  - [SPEED STAR SYPAN JOE](https://ja.wikipedia.org/wiki/JOE_\(ドラマー\) "wikilink")
-  - [CIRCUIT.V.PANTHER](https://ja.wikipedia.org/wiki/PANTHER_\(ギタリスト\) "wikilink")
-  - [SAMURAI.W.KENJILAW](https://ja.wikipedia.org/wiki/村井研次郎 "wikilink")
+  - [ANCHANG](../Page/Anchang.md "wikilink")
+  - [NOISY](../Page/NOISY.md "wikilink")
+  - [SUSSY](../Page/SUSSY.md "wikilink")
+  - [SPEED STAR SYPAN JOE](../Page/JOE_\(ドラマー\).md "wikilink")
+  - [CIRCUIT.V.PANTHER](../Page/PANTHER_\(ギタリスト\).md "wikilink")
+  - [SAMURAI.W.KENJILAW](../Page/村井研次郎.md "wikilink")
   - [KEN'ICHI](https://ja.wikipedia.org/wiki/KEN'ICHI "wikilink")
   - [SHINGO☆](https://ja.wikipedia.org/wiki/SHINGO☆ "wikilink")
   - [LEON](https://ja.wikipedia.org/wiki/LEON_\(ドラマー\) "wikilink")
-  - [ヘビーメタルサンダー](https://ja.wikipedia.org/wiki/ヘビーメタルサンダー "wikilink")
+  - [ヘビーメタルサンダー](../Page/ヘビーメタルサンダー.md "wikilink")
 
 ## 外部リンク
 

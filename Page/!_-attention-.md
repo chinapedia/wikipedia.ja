@@ -11,29 +11,29 @@
 
 1.  **BIG FORCE**
       -
-        [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：[椎名祐生](https://ja.wikipedia.org/wiki/椎名祐生 "wikilink")、[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：[野田浩平](https://ja.wikipedia.org/wiki/野田浩平 "wikilink")
-2.  **おやすみ** - [井ノ原快彦](https://ja.wikipedia.org/wiki/井ノ原快彦 "wikilink")
+        [作詞](../Page/作詞.md "wikilink")：[椎名祐生](https://ja.wikipedia.org/wiki/椎名祐生 "wikilink")、[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：[野田浩平](https://ja.wikipedia.org/wiki/野田浩平 "wikilink")
+2.  **おやすみ** - [井ノ原快彦](../Page/井ノ原快彦.md "wikilink")
       -
         作詞・作曲：井ノ原快彦、編曲：[鶴田海生](https://ja.wikipedia.org/wiki/鶴田海生 "wikilink")
 3.  **Through the blue**
       -
-        作詞：[中村邦男](https://ja.wikipedia.org/wiki/中村邦男 "wikilink")、作曲：[渡辺未来](https://ja.wikipedia.org/wiki/渡辺未来 "wikilink")、編曲：[渡辺和紀](https://ja.wikipedia.org/wiki/渡辺和紀 "wikilink")
+        作詞：[中村邦男](https://ja.wikipedia.org/wiki/中村邦男 "wikilink")、作曲：[渡辺未来](../Page/渡辺未来.md "wikilink")、編曲：[渡辺和紀](../Page/渡辺和紀.md "wikilink")
 4.  **Error**
       -
-        作詞：[六ツ見純代](https://ja.wikipedia.org/wiki/六ツ見純代 "wikilink")、作曲：[渡辺未来](https://ja.wikipedia.org/wiki/渡辺未来 "wikilink")、編曲：[渡辺和紀](https://ja.wikipedia.org/wiki/渡辺和紀 "wikilink")
-5.  **Stranger than Paradise** - [長野博](https://ja.wikipedia.org/wiki/長野博 "wikilink")
+        作詞：[六ツ見純代](https://ja.wikipedia.org/wiki/六ツ見純代 "wikilink")、作曲：[渡辺未来](../Page/渡辺未来.md "wikilink")、編曲：[渡辺和紀](../Page/渡辺和紀.md "wikilink")
+5.  **Stranger than Paradise** - [長野博](../Page/長野博.md "wikilink")
       -
         作詞：六ツ見純代、作曲：[川上明彦](https://ja.wikipedia.org/wiki/川上明彦 "wikilink")、編曲：[Happo](https://ja.wikipedia.org/wiki/Happo "wikilink")
 6.  **Working Man**
       -
         作詞：[20th Century](../Page/V6_\(グループ\).md "wikilink")、作曲：[KEN\&SIN](https://ja.wikipedia.org/wiki/KEN&SIN "wikilink")、編曲：[米光亮](../Page/米光亮.md "wikilink")
-7.  **Shelter** - [坂本昌行](https://ja.wikipedia.org/wiki/坂本昌行 "wikilink")
+7.  **Shelter** - [坂本昌行](../Page/坂本昌行.md "wikilink")
       -
-        作詞：[山田ひろし](https://ja.wikipedia.org/wiki/山田ひろし "wikilink")、作曲：[渡辺未来](https://ja.wikipedia.org/wiki/渡辺未来 "wikilink")、編曲：[鶴田海生](https://ja.wikipedia.org/wiki/鶴田海生 "wikilink")
+        作詞：[山田ひろし](../Page/山田ひろし.md "wikilink")、作曲：[渡辺未来](../Page/渡辺未来.md "wikilink")、編曲：[鶴田海生](https://ja.wikipedia.org/wiki/鶴田海生 "wikilink")
         この曲のみ、ベストアルバム「[Replay〜Best of 20th Century〜](../Page/Replay〜Best_of_20th_Century〜.md "wikilink")」通常盤に収録された際、イントロのサビが省略されておりいきなり曲から始まる様に変更されている。
 8.  **Another Kind Of Dream**
       -
-        作詞・作曲：[安部純](https://ja.wikipedia.org/wiki/安部純 "wikilink")、編曲：[柿崎洋一郎](https://ja.wikipedia.org/wiki/柿崎洋一郎 "wikilink")
+        作詞・作曲：[安部純](https://ja.wikipedia.org/wiki/安部純 "wikilink")、編曲：[柿崎洋一郎](../Page/柿崎洋一郎.md "wikilink")
 
 ## 関連
 

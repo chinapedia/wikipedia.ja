@@ -15,10 +15,10 @@
 
 1.  **BLOW UP THE DARK**
       -
-        [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：[MIZUE](https://ja.wikipedia.org/wiki/MIZUE "wikilink")、[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：笹本安詞
+        [作詞](../Page/作詞.md "wikilink")：[MIZUE](https://ja.wikipedia.org/wiki/MIZUE "wikilink")、[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：笹本安詞
 2.  **A･SA･YA･KE**
       -
-        作詞：[小幡英之](https://ja.wikipedia.org/wiki/小幡英之 "wikilink")、作曲・編曲：[近藤昭雄](https://ja.wikipedia.org/wiki/近藤昭雄 "wikilink")
+        作詞：[小幡英之](../Page/小幡英之.md "wikilink")、作曲・編曲：[近藤昭雄](https://ja.wikipedia.org/wiki/近藤昭雄 "wikilink")
 3.  **[出せない手紙](../Page/出せない手紙.md "wikilink")**
       -
         作詞：[セキヤヒサシ](../Page/恩田陸.md "wikilink")、作曲・編曲：[PIPELINE PROJECT](https://ja.wikipedia.org/wiki/PIPELINE_PROJECT "wikilink")
@@ -27,29 +27,29 @@
 4.  **HAVE A SUPER GOOD TIME** - Coming Century
       -
         作詞：浦塚勝人、作曲・編曲：笹本安詞
-5.  **こんなんどーでしょ?\! ～BRAND NEW MY SOUL～** - [井ノ原快彦](https://ja.wikipedia.org/wiki/井ノ原快彦 "wikilink")・[三宅健](https://ja.wikipedia.org/wiki/三宅健 "wikilink")・[岡田准一](https://ja.wikipedia.org/wiki/岡田准一 "wikilink")
+5.  **こんなんどーでしょ?\! ～BRAND NEW MY SOUL～** - [井ノ原快彦](../Page/井ノ原快彦.md "wikilink")・[三宅健](../Page/三宅健.md "wikilink")・[岡田准一](../Page/岡田准一.md "wikilink")
       -
         作詞：西野健次、作曲：[飯田建彦](https://ja.wikipedia.org/wiki/飯田建彦 "wikilink")、編曲：渡辺兄弟
 6.  **GOOD ENOUGH**
       -
-        作詞・作曲：[オオヤギヒロオ](https://ja.wikipedia.org/wiki/オオヤギヒロオ "wikilink")、編曲：家原正樹
-7.  **[one](https://ja.wikipedia.org/wiki/Feel_your_breeze/one "wikilink")**（Japanese version）- V6 feat. Shoo（[S.E.S.](https://ja.wikipedia.org/wiki/S.E.S. "wikilink")）
+        作詞・作曲：[オオヤギヒロオ](../Page/オオヤギヒロオ.md "wikilink")、編曲：家原正樹
+7.  **[one](https://ja.wikipedia.org/wiki/Feel_your_breeze/one "wikilink")**（Japanese version）- V6 feat. Shoo（[S.E.S.](../Page/S.E.S..md "wikilink")）
       -
         作詞：上田起氏、作曲・編曲：鈴木健治
     <!-- end list -->
       - 21stシングルの2曲目
-8.  **B.G.B（booin’ groovin’ boogie）** - [坂本昌行](https://ja.wikipedia.org/wiki/坂本昌行 "wikilink")・[長野博](https://ja.wikipedia.org/wiki/長野博 "wikilink")・[森田剛](https://ja.wikipedia.org/wiki/森田剛 "wikilink")
+8.  **B.G.B（booin’ groovin’ boogie）** - [坂本昌行](../Page/坂本昌行.md "wikilink")・[長野博](../Page/長野博.md "wikilink")・[森田剛](https://ja.wikipedia.org/wiki/森田剛 "wikilink")
       -
-        作詞：[MIZUE](https://ja.wikipedia.org/wiki/MIZUE "wikilink")、作曲・編曲：[宮崎歩](https://ja.wikipedia.org/wiki/宮崎歩 "wikilink")
+        作詞：[MIZUE](https://ja.wikipedia.org/wiki/MIZUE "wikilink")、作曲・編曲：[宮崎歩](../Page/宮崎歩.md "wikilink")
 9.  **MAGMA**
       -
-        作詞：[六ツ見純代](https://ja.wikipedia.org/wiki/六ツ見純代 "wikilink")、作曲：[渡辺和紀](https://ja.wikipedia.org/wiki/渡辺和紀 "wikilink")、編曲：[久米康隆](https://ja.wikipedia.org/wiki/久米康隆 "wikilink")
+        作詞：[六ツ見純代](https://ja.wikipedia.org/wiki/六ツ見純代 "wikilink")、作曲：[渡辺和紀](../Page/渡辺和紀.md "wikilink")、編曲：[久米康隆](https://ja.wikipedia.org/wiki/久米康隆 "wikilink")
 10. **days -tears of the world-** - 20th Century
       -
         作詞・作曲・編曲：浅田直
 11. **[Feel your breeze](https://ja.wikipedia.org/wiki/Feel_your_breeze/one "wikilink")**
       -
-        作詞：村野直球、作曲：[宮崎歩](https://ja.wikipedia.org/wiki/宮崎歩 "wikilink")、編曲：鈴木健治
+        作詞：村野直球、作曲：[宮崎歩](../Page/宮崎歩.md "wikilink")、編曲：鈴木健治
     <!-- end list -->
       - 21stシングルの1曲目
 12. **SHINY DAY**
@@ -79,23 +79,23 @@
 <tbody>
 <tr class="odd">
 <td><p>BLOW UP THE DARK</p></td>
-<td><p><a href="../Page/日本テレビネットワーク協議会.md" title="wikilink">日本テレビ系列</a>『<a href="https://ja.wikipedia.org/wiki/BOON!" title="wikilink">BOON!</a>』<a href="https://ja.wikipedia.org/wiki/主題歌" title="wikilink">テーマソング</a></p></td>
+<td><p><a href="../Page/日本テレビネットワーク協議会.md" title="wikilink">日本テレビ系列</a>『<a href="../Page/BOON!.md" title="wikilink">BOON!</a>』<a href="../Page/主題歌.md" title="wikilink">テーマソング</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>A・SA・YA・KE</p></td>
-<td><p><a href="../Page/フジネットワーク.md" title="wikilink">フジテレビ系列</a>『<a href="https://ja.wikipedia.org/wiki/VivaVivaV6" title="wikilink">VivaVivaV6 東京Vシュラン</a>』テーマソング<br />
-『<a href="https://ja.wikipedia.org/wiki/お台場冒険王" title="wikilink">お台場どっと混む!</a>』テーマソング</p></td>
+<td><p><a href="../Page/フジネットワーク.md" title="wikilink">フジテレビ系列</a>『<a href="../Page/VivaVivaV6.md" title="wikilink">VivaVivaV6 東京Vシュラン</a>』テーマソング<br />
+『<a href="../Page/お台場冒険王.md" title="wikilink">お台場どっと混む!</a>』テーマソング</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>出せない手紙</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Japan_News_Network" title="wikilink">TBS系列</a><a href="../Page/テレビドラマ.md" title="wikilink">ドラマ</a>『<a href="https://ja.wikipedia.org/wiki/ネバーランド_(小説)" title="wikilink">ネバーランド</a>』<a href="https://ja.wikipedia.org/wiki/主題歌" title="wikilink">主題歌</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Japan_News_Network" title="wikilink">TBS系列</a><a href="../Page/テレビドラマ.md" title="wikilink">ドラマ</a>『<a href="../Page/ネバーランド_(小説).md" title="wikilink">ネバーランド</a>』<a href="../Page/主題歌.md" title="wikilink">主題歌</a></p></td>
 <td><p>20th<a href="https://ja.wikipedia.org/wiki/マキシシングル" title="wikilink">シングル</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>HAVE A SUPER GOOD TIME</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/TBSテレビ" title="wikilink">TBS</a>『<a href="https://ja.wikipedia.org/wiki/オトセン!" title="wikilink">オトセン!</a>』テーマソング</p></td>
+<td><p><a href="../Page/TBSテレビ.md" title="wikilink">TBS</a>『<a href="https://ja.wikipedia.org/wiki/オトセン!" title="wikilink">オトセン!</a>』テーマソング</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -105,13 +105,13 @@
 </tr>
 <tr class="even">
 <td><p>one (Japanese version)</p></td>
-<td><p>フジテレビ系列『<a href="https://ja.wikipedia.org/wiki/VivaVivaV6" title="wikilink">VivaVivaV6</a>』<a href="https://ja.wikipedia.org/wiki/主題歌" title="wikilink">エンディングテーマ</a><br />
+<td><p>フジテレビ系列『<a href="../Page/VivaVivaV6.md" title="wikilink">VivaVivaV6</a>』<a href="../Page/主題歌.md" title="wikilink">エンディングテーマ</a><br />
 <a href="https://ja.wikipedia.org/wiki/日本" title="wikilink">日</a><a href="https://ja.wikipedia.org/wiki/韓国" title="wikilink">韓</a><a href="https://ja.wikipedia.org/wiki/合作" title="wikilink">合作</a><a href="../Page/舞台.md" title="wikilink">舞台</a><a href="../Page/演劇.md" title="wikilink">劇</a>『<a href="https://ja.wikipedia.org/wiki/東亜悲恋" title="wikilink">東亜悲恋</a>』<a href="https://ja.wikipedia.org/wiki/イメージソング" title="wikilink">イメージソング</a></p></td>
 <td><p>21st両A面シングル。</p></td>
 </tr>
 <tr class="odd">
 <td><p>Feel your breeze</p></td>
-<td><p>日本テレビ系列ドラマ『<a href="https://ja.wikipedia.org/wiki/ごくせん_(テレビドラマ)" title="wikilink">ごくせん</a>』主題歌</p></td>
+<td><p>日本テレビ系列ドラマ『<a href="../Page/ごくせん_(テレビドラマ).md" title="wikilink">ごくせん</a>』主題歌</p></td>
 <td><p>21st両A面シングル。</p></td>
 </tr>
 </tbody>

@@ -70,6 +70,6 @@
 ## 関連項目
 
   - [ナゴヤオートトレンド](https://ja.wikipedia.org/wiki/ナゴヤオートトレンド "wikilink")
-  - [MOTOR LAND 2](https://ja.wikipedia.org/wiki/モーターランド "wikilink") - この番組以前にテレビ愛知が製作していた自動車情報番組。
+  - [MOTOR LAND 2](../Page/モーターランド.md "wikilink") - この番組以前にテレビ愛知が製作していた自動車情報番組。
 
 [Category:2004年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2004年のテレビ番組_\(日本\) "wikilink") [Category:テレビ愛知の番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ愛知の番組の歴史 "wikilink") [Category:テレビ愛知の深夜番組](https://ja.wikipedia.org/wiki/Category:テレビ愛知の深夜番組 "wikilink") [Category:テレビ愛知の情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:テレビ愛知の情報・ワイドショー番組 "wikilink") [Category:自動車番組](https://ja.wikipedia.org/wiki/Category:自動車番組 "wikilink") [Category:テレビ番組のシリーズ](https://ja.wikipedia.org/wiki/Category:テレビ番組のシリーズ "wikilink")

@@ -1,7 +1,7 @@
 > この記事は[STRONG SOUL](https://ja.wikipedia.org/wiki/STRONG_SOUL)から翻訳されています。
 
 
-「**STRONG SOUL**」（ストロング・ソウル）は、[DEEN](https://ja.wikipedia.org/wiki/DEEN "wikilink")の29枚目の[シングル](../Page/シングル.md "wikilink")。
+「**STRONG SOUL**」（ストロング・ソウル）は、[DEEN](../Page/DEEN.md "wikilink")の29枚目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 概要
 
@@ -39,21 +39,21 @@
 
   - ゲストミュージシャン
       - ハゼ(from [PICK2HAND](../Page/P2H.md "wikilink"))：Drums(\#1)
-      - [沼澤尚](https://ja.wikipedia.org/wiki/沼澤尚 "wikilink")：Drums(\#2)
+      - [沼澤尚](../Page/沼澤尚.md "wikilink")：Drums(\#2)
       - 酒井勇也(from PICK2HAND)：Electric Bass(\#1)
-      - [松原秀樹](https://ja.wikipedia.org/wiki/松原秀樹 "wikilink")：Electric Bass(\#2)
-      - [勝田一樹](https://ja.wikipedia.org/wiki/勝田かず樹 "wikilink")(from [DIMENSION](https://ja.wikipedia.org/wiki/DIMENSION "wikilink"))：Saxophone(\#2)
+      - [松原秀樹](../Page/松原秀樹.md "wikilink")：Electric Bass(\#2)
+      - [勝田一樹](https://ja.wikipedia.org/wiki/勝田かず樹 "wikilink")(from [DIMENSION](../Page/DIMENSION.md "wikilink"))：Saxophone(\#2)
       - 佐々木史郎：Trumpet(\#1,2) **他...**
   - DEEN
-      - [池森秀一](https://ja.wikipedia.org/wiki/池森秀一 "wikilink")：Vocal\&Back-up Vocals
-      - [山根公路](https://ja.wikipedia.org/wiki/山根公路 "wikilink")：Keyboard,Back-up Vocals\&Synthesizer Programing
-      - [田川伸治](https://ja.wikipedia.org/wiki/田川伸治 "wikilink")：Guitar,Back-up Vocals\&Synthesizer Programing
+      - [池森秀一](../Page/池森秀一.md "wikilink")：Vocal\&Back-up Vocals
+      - [山根公路](../Page/山根公路.md "wikilink")：Keyboard,Back-up Vocals\&Synthesizer Programing
+      - [田川伸治](../Page/田川伸治.md "wikilink")：Guitar,Back-up Vocals\&Synthesizer Programing
   - Chorus
       - [三浦淳宏](https://ja.wikipedia.org/wiki/三浦淳宏 "wikilink") (東京ヴェルディ1969)
-      - [高木義成](https://ja.wikipedia.org/wiki/高木義成 "wikilink") (東京ヴェルディ1969)
+      - [高木義成](../Page/高木義成.md "wikilink") (東京ヴェルディ1969)
       - [小野寺志保](https://ja.wikipedia.org/wiki/小野寺志保 "wikilink") ([日テレ・ベレーザ](https://ja.wikipedia.org/wiki/日テレ・ベレーザ "wikilink"))
-      - [酒井與恵](https://ja.wikipedia.org/wiki/加藤與恵 "wikilink") (日テレ･ベレーザ)
-      - [小林弥生](https://ja.wikipedia.org/wiki/小林弥生 "wikilink") (日テレ･ベレーザ)
+      - [酒井與恵](../Page/加藤與恵.md "wikilink") (日テレ･ベレーザ)
+      - [小林弥生](../Page/小林弥生.md "wikilink") (日テレ･ベレーザ)
       - [森麻季](https://ja.wikipedia.org/wiki/森麻季_\(アナウンサー\) "wikilink") (日本テレビ) **他...**
 
 ## 関連項目

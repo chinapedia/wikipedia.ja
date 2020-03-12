@@ -1,7 +1,7 @@
 > この記事は[JUST ONE](https://ja.wikipedia.org/wiki/JUST_ONE)から翻訳されています。
 
 
-**JUST ONE**（ジャスト・ワン）は、[DEEN](https://ja.wikipedia.org/wiki/DEEN "wikilink")の18th[シングル](../Page/シングル.md "wikilink")。
+**JUST ONE**（ジャスト・ワン）は、[DEEN](../Page/DEEN.md "wikilink")の18th[シングル](../Page/シングル.md "wikilink")。
 
 ## 概要
 
@@ -18,8 +18,8 @@
 
 ## 収録アルバム
 
-  - 『['need love](https://ja.wikipedia.org/wiki/'need_love "wikilink")』(\#1)
-  - 『[Ballads in Blue〜The greatest hits of DEEN〜](https://ja.wikipedia.org/wiki/Ballads_in_Blue〜The_greatest_hits_of_DEEN〜 "wikilink")』(\#1)
+  - 『['need love](../Page/'need_love.md "wikilink")』(\#1)
+  - 『[Ballads in Blue〜The greatest hits of DEEN〜](../Page/Ballads_in_Blue〜The_greatest_hits_of_DEEN〜.md "wikilink")』(\#1)
   - 『[DEEN PERFECT SINGLES +](https://ja.wikipedia.org/wiki/DEEN_PERFECT_SINGLES_+ "wikilink")』(\#1)
   - 『[Another Side Memories〜Precious Best〜](https://ja.wikipedia.org/wiki/Another_Side_Memories〜Precious_Best〜 "wikilink")』(\#2)
   - 『[DEENAGE MEMORY -20周年記念ベストアルバム-](https://ja.wikipedia.org/wiki/DEENAGE_MEMORY_-20周年記念ベストアルバム- "wikilink")』(\#1)
@@ -37,10 +37,10 @@
 <!-- end list -->
 
   - DEEN
-      - [池森秀一](https://ja.wikipedia.org/wiki/池森秀一 "wikilink"): ボーカル
-      - [山根公路](https://ja.wikipedia.org/wiki/山根公路 "wikilink"): キーボード
-      - [宇津本直紀](https://ja.wikipedia.org/wiki/宇津本直紀 "wikilink"): ドラム
-      - [田川伸治](https://ja.wikipedia.org/wiki/田川伸治 "wikilink"): ギター
+      - [池森秀一](../Page/池森秀一.md "wikilink"): ボーカル
+      - [山根公路](../Page/山根公路.md "wikilink"): キーボード
+      - [宇津本直紀](../Page/宇津本直紀.md "wikilink"): ドラム
+      - [田川伸治](../Page/田川伸治.md "wikilink"): ギター
 
 ## 関連項目
 

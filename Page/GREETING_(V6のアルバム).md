@@ -15,16 +15,16 @@ V6にとって初めてのミニアルバムである。
 
 1.  **MIRACLE STARTER〜未来でスノウ・フレークス〜**
       -
-        作詞・作曲：[Lucy E](https://ja.wikipedia.org/wiki/Lucy_E "wikilink")・[Pete Jennings](https://ja.wikipedia.org/wiki/Pete_Jennings "wikilink")、編曲：[上野圭市](https://ja.wikipedia.org/wiki/上野圭市 "wikilink")
+        作詞・作曲：[Lucy E](https://ja.wikipedia.org/wiki/Lucy_E "wikilink")・[Pete Jennings](https://ja.wikipedia.org/wiki/Pete_Jennings "wikilink")、編曲：[上野圭市](../Page/上野圭市.md "wikilink")
 2.  **寒がりなHeartbeat** - 20th Century
       -
         作詞：Lucy E、作曲・編曲：上野圭市
 3.  **僕の告白** - Coming Century
       -
-        作詞：[中山加奈子](https://ja.wikipedia.org/wiki/中山加奈子 "wikilink")、作曲・編曲：[星野靖彦](https://ja.wikipedia.org/wiki/星野靖彦 "wikilink")
-4.  **コバルトブルー** - [坂本昌行](https://ja.wikipedia.org/wiki/坂本昌行 "wikilink")
+        作詞：[中山加奈子](../Page/中山加奈子.md "wikilink")、作曲・編曲：[星野靖彦](https://ja.wikipedia.org/wiki/星野靖彦 "wikilink")
+4.  **コバルトブルー** - [坂本昌行](../Page/坂本昌行.md "wikilink")
       -
-        作詞・作曲：[片岡大志](https://ja.wikipedia.org/wiki/片岡大志 "wikilink")、編曲：[冬野竜彦](https://ja.wikipedia.org/wiki/冬野竜彦 "wikilink")
+        作詞・作曲：[片岡大志](../Page/片岡大志.md "wikilink")、編曲：[冬野竜彦](https://ja.wikipedia.org/wiki/冬野竜彦 "wikilink")
 5.  **Happy New Year’s Train** - Coming Century
       -
         作詞：[只野菜摘](https://ja.wikipedia.org/wiki/只野菜摘 "wikilink")、作曲・編曲：星野靖彦
@@ -34,8 +34,8 @@ V6にとって初めてのミニアルバムである。
 
 ## タイアップ
 
-| 曲名                            | タイアップ                                                                                                                                                                                 |
-| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| MIRACLE STARTER〜未来でスノウ・フレークス〜 | ['97](https://ja.wikipedia.org/wiki/1997年 "wikilink")[円谷プロ](../Page/円谷プロダクション.md "wikilink")[企業](../Page/企業.md "wikilink")[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink") |
+| 曲名                            | タイアップ                                                                                                                                                              |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| MIRACLE STARTER〜未来でスノウ・フレークス〜 | ['97](https://ja.wikipedia.org/wiki/1997年 "wikilink")[円谷プロ](../Page/円谷プロダクション.md "wikilink")[企業](../Page/企業.md "wikilink")[CMソング](../Page/コマーシャルソング.md "wikilink") |
 
 [Category:V6のアルバム](https://ja.wikipedia.org/wiki/Category:V6のアルバム "wikilink") [Category:1996年のミニ・アルバム](https://ja.wikipedia.org/wiki/Category:1996年のミニ・アルバム "wikilink") [Category:1996年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1996年のオリコンアルバムチャート1位獲得作品 "wikilink")

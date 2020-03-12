@@ -1,13 +1,13 @@
 > この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
 
 
-**CRアラジンデスティニー**は、[サミー](https://ja.wikipedia.org/wiki/サミー "wikilink")が[2007年](../Page/2007年.md "wikilink")に販売した[デジパチ・羽根モノ混合タイプの](https://ja.wikipedia.org/wiki/羽根モノ#デジパチ・羽根モノ混合タイプ "wikilink")[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。型式名は「CRアラジンデスティニーEX」。
+**CRアラジンデスティニー**は、[サミー](../Page/サミー.md "wikilink")が[2007年](../Page/2007年.md "wikilink")に販売した[デジパチ・羽根モノ混合タイプの](https://ja.wikipedia.org/wiki/羽根モノ#デジパチ・羽根モノ混合タイプ "wikilink")[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。型式名は「CRアラジンデスティニーEX」。
 
 ## 概要
 
-アラジンシリーズ初のパチンコ機。[アラジンA](https://ja.wikipedia.org/wiki/アラジンA "wikilink")より登場したアラジン、ローズ、ランプの魔人ジードなどのキャラクターが引き続き登場する。
+アラジンシリーズ初のパチンコ機。[アラジンA](../Page/アラジンA.md "wikilink")より登場したアラジン、ローズ、ランプの魔人ジードなどのキャラクターが引き続き登場する。
 
-通常時・大当たり時は通常打ちで、アラジンチャンス（Vチャレンジタイム）中は右打ちでプレイするという[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")と[権利物](https://ja.wikipedia.org/wiki/権利物 "wikilink")の要素をミックスさせたゲーム性となっている。
+通常時・大当たり時は通常打ちで、アラジンチャンス（Vチャレンジタイム）中は右打ちでプレイするという[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")と[権利物](../Page/権利物.md "wikilink")の要素をミックスさせたゲーム性となっている。
 
 ## プレイの流れ
 
@@ -29,7 +29,7 @@
 
 ## ゲーム機
 
-  - [オンラインゲーム](../Page/オンラインゲーム.md "wikilink")サイト『[777town.net](https://ja.wikipedia.org/wiki/777town.net "wikilink")』にてプレイが可能である。
+  - [オンラインゲーム](../Page/オンラインゲーム.md "wikilink")サイト『[777town.net](../Page/777town.net.md "wikilink")』にてプレイが可能である。
   - [PlayStation 3用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")『[龍が如く4 伝説を継ぐもの](https://ja.wikipedia.org/wiki/龍が如く4_伝説を継ぐもの "wikilink")』でプレイが可能である。
 
 ## 外部リンク

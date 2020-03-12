@@ -1,16 +1,16 @@
 > この記事は[Reflection \(\)](https://ja.wikipedia.org/wiki/Reflection_\(\))から翻訳されています。
 
 
-「**Reflection**」（リフレクション）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[7月2日](../Page/7月2日.md "wikilink")にリリースされた[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")の シングル。発売元[スターチャイルド](https://ja.wikipedia.org/wiki/スターチャイルド "wikilink")・販売元は[キングレコード](../Page/キングレコード.md "wikilink")（KIDA-154）。
+「**Reflection**」（リフレクション）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[7月2日](../Page/7月2日.md "wikilink")にリリースされた[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")の シングル。発売元[スターチャイルド](../Page/スターチャイルド.md "wikilink")・販売元は[キングレコード](../Page/キングレコード.md "wikilink")（KIDA-154）。
 
 ## 記録
 
-  - 1997年7月度[ゴールドディスク](https://ja.wikipedia.org/wiki/ゴールドディスク "wikilink")に認定された\[1\]。2003年7月度以降の認定基準とは異なり、当時のゴールド認定基準は出荷枚数20万枚以上が基準となっている。
+  - 1997年7月度[ゴールドディスク](../Page/ゴールドディスク.md "wikilink")に認定された\[1\]。2003年7月度以降の認定基準とは異なり、当時のゴールド認定基準は出荷枚数20万枚以上が基準となっている。
 
 ## 収録曲
 
 1.  **Reflection** \[5:20\]
-      - 作詞：[MEGUMI](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")、作曲：[佐藤英敏](https://ja.wikipedia.org/wiki/佐藤英敏 "wikilink")、編曲：添田啓二
+      - 作詞：[MEGUMI](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")、作曲：[佐藤英敏](../Page/佐藤英敏.md "wikilink")、編曲：添田啓二
       - [東映](../Page/東映.md "wikilink")配給劇場アニメ『[スレイヤーズぐれえと](https://ja.wikipedia.org/wiki/スレイヤーズ_\(アニメ\) "wikilink")』主題歌
 2.  **GLORIA〜君に届けたい〜** \[4:21\]
       - 作詞：[有森聡美](https://ja.wikipedia.org/wiki/有森聡美 "wikilink")、作曲：松永和彦、編曲：[岩本正樹](../Page/岩本正樹.md "wikilink")
@@ -22,7 +22,7 @@
 
   - **Reflection**
       -
-        『[Iravati](https://ja.wikipedia.org/wiki/Iravati "wikilink")』、『[スレイヤーズMEGUMIX](https://ja.wikipedia.org/wiki/スレイヤーズMEGUMIX "wikilink")』
+        『[Iravati](../Page/Iravati.md "wikilink")』、『[スレイヤーズMEGUMIX](../Page/スレイヤーズMEGUMIX.md "wikilink")』
   - **GLORIA〜君に届けたい〜**
       -
         『スレイヤーズMEGUMIX』

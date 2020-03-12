@@ -5,7 +5,7 @@
 
 ## 概要
 
-初回盤と通常盤がある、初回盤の特典は『特殊パッケージ』『クッキーフレグランスCDトレー』『V6 ジャケットサイズステッカー』CDトレーは嗅ぐと甘いにおいがする。ステッカーはジャケットの裏表紙のようになっている。初回盤のケースが特殊パッケージなのは1枚目のアルバム『[SINCE 1995 〜 FOREVER](https://ja.wikipedia.org/wiki/SINCE_1995_〜_FOREVER "wikilink")』以来である
+初回盤と通常盤がある、初回盤の特典は『特殊パッケージ』『クッキーフレグランスCDトレー』『V6 ジャケットサイズステッカー』CDトレーは嗅ぐと甘いにおいがする。ステッカーはジャケットの裏表紙のようになっている。初回盤のケースが特殊パッケージなのは1枚目のアルバム『[SINCE 1995 〜 FOREVER](../Page/SINCE_1995_〜_FOREVER.md "wikilink")』以来である
 
 今作の収録シングルは「[over/EASY SHOW TIME](https://ja.wikipedia.org/wiki/over/EASY_SHOW_TIME "wikilink")」、「[Believe Your Smile](../Page/Believe_Your_Smile.md "wikilink")」、「[自由であるために](../Page/自由であるために.md "wikilink")」を収録している。なお、今作の約1ヶ月前に発売された「[太陽のあたる場所](../Page/太陽のあたる場所_\(V6の曲\).md "wikilink")」は未収録。\[1\]
 
@@ -17,12 +17,12 @@
 
 1.  **[over](https://ja.wikipedia.org/wiki/over/EASY_SHOW_TIME "wikilink")**（Europia Mix）
       -
-        [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：[20th Century](../Page/V6_\(グループ\).md "wikilink")、[作曲](../Page/作曲.md "wikilink")：[菊池一仁](https://ja.wikipedia.org/wiki/菊池一仁 "wikilink")、[編曲](../Page/編曲.md "wikilink")：[明石昌夫](https://ja.wikipedia.org/wiki/明石昌夫 "wikilink")
+        [作詞](../Page/作詞.md "wikilink")：[20th Century](../Page/V6_\(グループ\).md "wikilink")、[作曲](../Page/作曲.md "wikilink")：[菊池一仁](../Page/菊池一仁.md "wikilink")、[編曲](../Page/編曲.md "wikilink")：[明石昌夫](../Page/明石昌夫.md "wikilink")
     <!-- end list -->
       - 11thシングルの1曲目のリミックスバージョン
 2.  **DANCE\!\! ～Make The Party High～**
       -
-        作詞：[MOTSU](https://ja.wikipedia.org/wiki/Motsu "wikilink")、作曲・編曲：[渡辺和紀](https://ja.wikipedia.org/wiki/渡辺和紀 "wikilink")、[ブラスアレンジ](../Page/編曲.md "wikilink")：[倉富義隆](https://ja.wikipedia.org/wiki/倉富義隆 "wikilink")
+        作詞：[MOTSU](../Page/Motsu.md "wikilink")、作曲・編曲：[渡辺和紀](../Page/渡辺和紀.md "wikilink")、[ブラスアレンジ](../Page/編曲.md "wikilink")：[倉富義隆](https://ja.wikipedia.org/wiki/倉富義隆 "wikilink")
 3.  **やってやろうぜ\!\! Baby\!**
       -
         作詞：[久和カノン](https://ja.wikipedia.org/wiki/久和カノン "wikilink")、作曲：[千沢仁](https://ja.wikipedia.org/wiki/千沢仁 "wikilink")、編曲：[鶴田海生](https://ja.wikipedia.org/wiki/鶴田海生 "wikilink")、ブラスアレンジ：倉富義隆
@@ -33,10 +33,10 @@
       - 11thシングルの2曲目のリミックスバージョン
 5.  **NO DAMAGE**
       -
-        作詞：[山田ひろし](https://ja.wikipedia.org/wiki/山田ひろし "wikilink")、作曲・編曲：[渡辺未来](https://ja.wikipedia.org/wiki/渡辺未来 "wikilink")
+        作詞：[山田ひろし](../Page/山田ひろし.md "wikilink")、作曲・編曲：[渡辺未来](../Page/渡辺未来.md "wikilink")
 6.  **[Believe Your Smile](../Page/Believe_Your_Smile.md "wikilink")**（VIVA MIX）
       -
-        作詞：菊池一仁・[六ツ見純代](https://ja.wikipedia.org/wiki/六ツ見純代 "wikilink")、作曲：菊池一仁、編曲：[CHOKKAKU](https://ja.wikipedia.org/wiki/CHOKKAKU "wikilink")
+        作詞：菊池一仁・[六ツ見純代](https://ja.wikipedia.org/wiki/六ツ見純代 "wikilink")、作曲：菊池一仁、編曲：[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")
     <!-- end list -->
       - 12thシングルのリミックスバージョン
 7.  **クロール** - 20th Century

@@ -11,12 +11,12 @@
   - 2003年[8月15日](../Page/8月15日.md "wikilink") - ARIA
   - [2004年](../Page/2004年.md "wikilink")8月15日 - 希望入りパン菓子
   - 2004年12月30日 - 花咲くオトメのための嬉遊曲
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")12月30日 - 花咲くオトメのための嬉遊曲 -イレギュラーズ-
+  - [2005年](../Page/2005年.md "wikilink")12月30日 - 花咲くオトメのための嬉遊曲 -イレギュラーズ-
 
 ### 商業ゲーム
 
   - 2005年4月28日 - [盗んでMy Heart](https://ja.wikipedia.org/wiki/盗んでMy_Heart "wikilink")
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月14日](../Page/4月14日.md "wikilink") - [春萌 〜はるもい〜](https://ja.wikipedia.org/wiki/春萌_〜はるもい〜 "wikilink")
+  - [2006年](../Page/2006年.md "wikilink")[4月14日](../Page/4月14日.md "wikilink") - [春萌 〜はるもい〜](https://ja.wikipedia.org/wiki/春萌_〜はるもい〜 "wikilink")
   - [2007年](../Page/2007年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink") - [春萌 〜はるもい〜 沙緒アフター](https://ja.wikipedia.org/wiki/春萌_〜はるもい〜 "wikilink")
   - 2007年[8月24日](../Page/8月24日.md "wikilink") - [STEP×STEADY](https://ja.wikipedia.org/wiki/STEP×STEADY "wikilink")
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月23日](../Page/5月23日.md "wikilink") - [LOVERSOULファンディスク 〜恋魂詰〜](https://ja.wikipedia.org/wiki/LOVERSOULファンディスク_〜恋魂詰〜 "wikilink")

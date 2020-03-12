@@ -10,7 +10,7 @@ SME主催の「第1回インターナショナル・オーディション」でN
   - Chris Edwards（クリス・エドワーズ）
       - 担当は[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")。出身地はオーストラリア（国籍はイギリス）。誕生日は[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[7月14日](../Page/7月14日.md "wikilink")。
   - Terrence Ma（テレンス・マー）
-      - 担当はボーカル、[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。出身地はカナダ。誕生日は1990年[6月8日](../Page/6月8日.md "wikilink")。
+      - 担当はボーカル、[ベース](../Page/ベース_\(弦楽器\).md "wikilink")。出身地はカナダ。誕生日は1990年[6月8日](../Page/6月8日.md "wikilink")。
   - Kai-Yuan Neo（カイ・ユアン・ネオ）
       - 担当は[ドラム](../Page/ドラムセット.md "wikilink")。出身地はシンガポール。誕生日は1990年[6月30日](../Page/6月30日.md "wikilink")。
 
@@ -18,16 +18,16 @@ SME主催の「第1回インターナショナル・オーディション」でN
 
 ### シングル
 
-| 枚   | 発売日                                                                                         | タイトル                                                                        |
-| --- | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| 1st | [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月19日](../Page/7月19日.md "wikilink") | ''' [MR.RAINDROP](https://ja.wikipedia.org/wiki/MR.RAINDROP "wikilink") ''' |
+| 枚   | 発売日                                                                      | タイトル                                                                        |
+| --- | ------------------------------------------------------------------------ | --------------------------------------------------------------------------- |
+| 1st | [2006年](../Page/2006年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink") | ''' [MR.RAINDROP](https://ja.wikipedia.org/wiki/MR.RAINDROP "wikilink") ''' |
 
 ### アルバム
 
-| 枚   | 発売日                                                                                       | タイトル                                                                                            |
-| --- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| 1st | [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[8月2日](../Page/8月2日.md "wikilink") | ''' [TURN IT UP\!](https://ja.wikipedia.org/wiki/TURN_IT_UP! "wikilink") '''                    |
-| 2nd | [2007年](../Page/2007年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")                  | ''' [Sesh The Sweet Sounds](https://ja.wikipedia.org/wiki/Sesh_The_Sweet_Sounds "wikilink") ''' |
+| 枚   | 発売日                                                                      | タイトル                                                                                            |
+| --- | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
+| 1st | [2006年](../Page/2006年.md "wikilink")[8月2日](../Page/8月2日.md "wikilink")   | ''' [TURN IT UP\!](https://ja.wikipedia.org/wiki/TURN_IT_UP! "wikilink") '''                    |
+| 2nd | [2007年](../Page/2007年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink") | ''' [Sesh The Sweet Sounds](https://ja.wikipedia.org/wiki/Sesh_The_Sweet_Sounds "wikilink") ''' |
 
 ## 外部リンク
 

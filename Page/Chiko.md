@@ -1,7 +1,7 @@
 > この記事は[Chiko](https://ja.wikipedia.org/wiki/Chiko)から翻訳されています。
 
 
-**Chiko**（ちこ、[6月22日](../Page/6月22日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[声優](../Page/声優.md "wikilink")、[ナレーター](https://ja.wikipedia.org/wiki/ナレーター "wikilink")である。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身。[青二プロダクション](https://ja.wikipedia.org/wiki/青二プロダクション "wikilink")所属。旧名は丸尾知子\[1\]。
+**Chiko**（ちこ、[6月22日](../Page/6月22日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[声優](../Page/声優.md "wikilink")、[ナレーター](https://ja.wikipedia.org/wiki/ナレーター "wikilink")である。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身。[青二プロダクション](../Page/青二プロダクション.md "wikilink")所属。旧名は丸尾知子\[1\]。
 
 ## 出演
 
@@ -11,9 +11,9 @@
 
 **1987年**
 
-  - [仮面の忍者 赤影](https://ja.wikipedia.org/wiki/仮面の忍者_赤影 "wikilink")（お米）
+  - [仮面の忍者 赤影](../Page/仮面の忍者_赤影.md "wikilink")（お米）
   - [グリム名作劇場](../Page/グリム名作劇場.md "wikilink")（王女の姉、侍女、魔女たち、町の女、姉娘）
-  - [ゲゲゲの鬼太郎（第3作）](https://ja.wikipedia.org/wiki/ゲゲゲの鬼太郎_\(テレビアニメ第3シリーズ\) "wikilink")（島民B、つらら女、女生徒B）
+  - [ゲゲゲの鬼太郎（第3作）](../Page/ゲゲゲの鬼太郎_\(テレビアニメ第3シリーズ\).md "wikilink")（島民B、つらら女、女生徒B）
   - [ビックリマン](../Page/ビックリマン_\(アニメ\).md "wikilink")（ピーター神子、神帝ピーター、聖幻ピーター、聖澄士、カードンネン）
 
 **1988年**
@@ -24,48 +24,48 @@
 
 **1989年**
 
-  - [獣神ライガー](https://ja.wikipedia.org/wiki/獣神ライガー "wikilink")（孝雄、邦男）
+  - [獣神ライガー](../Page/獣神ライガー.md "wikilink")（孝雄、邦男）
   - [新ビックリマン](../Page/新ビックリマン.md "wikilink")（セレンス、ワープスライダーP、ペガアリババ、助勉、少年時代のアッシラ王）
   - [戦え\!超ロボット生命体 トランスフォーマーV](../Page/戦え!超ロボット生命体_トランスフォーマーV.md "wikilink")（ファイヤー、ラミ、ミネルバ）
   - [ドラゴンボールZ](https://ja.wikipedia.org/wiki/ドラゴンボールZ "wikilink")（ハッチ）
-  - [ひみつのアッコちゃん](https://ja.wikipedia.org/wiki/ひみつのアッコちゃん "wikilink")第2期（子だぬき）
-  - [ビリ犬](https://ja.wikipedia.org/wiki/ビリ犬 "wikilink")なんでも商会（おさむ）
-  - [魔動王グランゾート](https://ja.wikipedia.org/wiki/魔動王グランゾート "wikilink")（男の子、少年）
+  - [ひみつのアッコちゃん](../Page/ひみつのアッコちゃん.md "wikilink")第2期（子だぬき）
+  - [ビリ犬](../Page/ビリ犬.md "wikilink")なんでも商会（おさむ）
+  - [魔動王グランゾート](../Page/魔動王グランゾート.md "wikilink")（男の子、少年）
   - [魔法使いサリー](../Page/魔法使いサリー.md "wikilink")（横山賢太郎）
 
 **1990年**
 
   - [かりあげクン](../Page/かりあげクン.md "wikilink")（**ケンタ**）
-  - [キャッ党忍伝てやんでえ](https://ja.wikipedia.org/wiki/キャッ党忍伝てやんでえ "wikilink")（白河ゼンマイ之進）
-  - [新もーれつア太郎](https://ja.wikipedia.org/wiki/もーれつア太郎 "wikilink")（**ア太郎**）
+  - [キャッ党忍伝てやんでえ](../Page/キャッ党忍伝てやんでえ.md "wikilink")（白河ゼンマイ之進）
+  - [新もーれつア太郎](../Page/もーれつア太郎.md "wikilink")（**ア太郎**）
 
 **1991年**
 
   - [少年アシベ](https://ja.wikipedia.org/wiki/少年アシベ "wikilink")（**[ゆうま](../Page/少年アシベの登場人物.md "wikilink")**）
   - [それいけ\!アンパンマン](https://ja.wikipedia.org/wiki/それいけ!アンパンマン "wikilink")（しあわせぼうや、おこり虫）
-  - [まじかる☆タルるートくん](https://ja.wikipedia.org/wiki/まじかる☆タルるートくん "wikilink")（楠田枝樹子）
-  - [魔法のプリンセス ミンキーモモ 夢を抱きしめて](https://ja.wikipedia.org/wiki/魔法のプリンセス_ミンキーモモ "wikilink")（クリフ）
-  - [ジャンケンマン](https://ja.wikipedia.org/wiki/ジャンケンマン "wikilink")（ケン玉ケンちゃん）
+  - [まじかる☆タルるートくん](../Page/まじかる☆タルるートくん.md "wikilink")（楠田枝樹子）
+  - [魔法のプリンセス ミンキーモモ 夢を抱きしめて](../Page/魔法のプリンセス_ミンキーモモ.md "wikilink")（クリフ）
+  - [ジャンケンマン](../Page/ジャンケンマン.md "wikilink")（ケン玉ケンちゃん）
 
 **1992年**
 
   - [ウルトラマンキッズ 母をたずねて3000万光年](../Page/ウルトラマンキッズ_母をたずねて3000万光年.md "wikilink")（サボリン、ギャッピー）
   - [スーパービックリマン](../Page/スーパービックリマン.md "wikilink")（魔皇サラジン）
-  - [ツヨシしっかりしなさい](https://ja.wikipedia.org/wiki/ツヨシしっかりしなさい "wikilink")（松本裕太）
+  - [ツヨシしっかりしなさい](../Page/ツヨシしっかりしなさい.md "wikilink")（松本裕太）
   - まじかる☆タルるートくん（男闘呼音奈）
   - [ママは小学4年生](../Page/ママは小学4年生.md "wikilink")（森タマエ）
 
 **1994年**
 
   - ツヨシしっかりしなさい（カズコ、荒井理香）
-  - [とんでぶーりん](https://ja.wikipedia.org/wiki/とんでぶーりん "wikilink")（ブータン）
+  - [とんでぶーりん](../Page/とんでぶーりん.md "wikilink")（ブータン）
   - [美少女戦士セーラームーンS](https://ja.wikipedia.org/wiki/美少女戦士セーラームーン_\(テレビアニメ\) "wikilink")（トデーン、都築正紀）
 
 **1995年**
 
   - [アニメ世界の童話](https://ja.wikipedia.org/wiki/世界名作童話シリーズ_ワ〜ォ!メルヘン王国 "wikilink")（少年、長男、兄嫁）
-  - [ママはぽよぽよザウルスがお好き](https://ja.wikipedia.org/wiki/ママはぽよぽよザウルスがお好き "wikilink")（**綾小路いち〈初代〉**）
-  - [ロミオの青い空](https://ja.wikipedia.org/wiki/ロミオの青い空 "wikilink")（ねずみのリオ、カニオ、エンリコ）
+  - [ママはぽよぽよザウルスがお好き](../Page/ママはぽよぽよザウルスがお好き.md "wikilink")（**綾小路いち〈初代〉**）
+  - [ロミオの青い空](../Page/ロミオの青い空.md "wikilink")（ねずみのリオ、カニオ、エンリコ）
 
 ### 劇場アニメ
 
@@ -86,12 +86,12 @@
 **1993年**
 
   - [お星さまのレール](https://ja.wikipedia.org/wiki/お星さまのレール "wikilink")（お花）
-  - [劇場版美少女戦士セーラームーンR](https://ja.wikipedia.org/wiki/劇場版美少女戦士セーラームーンR "wikilink")（フィオレ〈少年時代〉）
-  - [ドラゴンボールZ 銀河ギリギリ\!\!ぶっちぎりの凄い奴](https://ja.wikipedia.org/wiki/ドラゴンボールZ_銀河ギリギリ!!ぶっちぎりの凄い奴 "wikilink")（ザンギャ）
+  - [劇場版美少女戦士セーラームーンR](../Page/劇場版美少女戦士セーラームーンR.md "wikilink")（フィオレ〈少年時代〉）
+  - [ドラゴンボールZ 銀河ギリギリ\!\!ぶっちぎりの凄い奴](../Page/ドラゴンボールZ_銀河ギリギリ!!ぶっちぎりの凄い奴.md "wikilink")（ザンギャ）
 
 **1995年**
 
-  - [ママレード・ボーイ](https://ja.wikipedia.org/wiki/ママレード・ボーイ "wikilink")（ガストマンβ）
+  - [ママレード・ボーイ](../Page/ママレード・ボーイ.md "wikilink")（ガストマンβ）
 
 ### OVA
 
@@ -99,25 +99,25 @@
 
   - [ドミニオン](../Page/ドミニオン_\(漫画\).md "wikilink")（マライヤ）
   - [ハーバーライト物語〜ファッションララより〜](https://ja.wikipedia.org/wiki/魔法のデザイナーファッションララ#ハーバーライト物語 "wikilink")（モグ）
-  - [バブルガムクライシス](https://ja.wikipedia.org/wiki/バブルガムクライシス "wikilink")（メブ）
+  - [バブルガムクライシス](../Page/バブルガムクライシス.md "wikilink")（メブ）
 
 **1989年**
 
-  - [ARIEL](https://ja.wikipedia.org/wiki/ARIEL "wikilink")（西島由貴、ナミ・ファランドール）
+  - [ARIEL](../Page/ARIEL.md "wikilink")（西島由貴、ナミ・ファランドール）
   - [機動戦士ガンダム0080 ポケットの中の戦争](../Page/機動戦士ガンダム0080_ポケットの中の戦争.md "wikilink")（チェイ\[2\]）
-  - [ライディングビーン](https://ja.wikipedia.org/wiki/ガンスミスキャッツ "wikilink")（ウェイトレス）
+  - [ライディングビーン](../Page/ガンスミスキャッツ.md "wikilink")（ウェイトレス）
   - [バオー来訪者](../Page/バオー来訪者.md "wikilink")（女の子）
 
 **1990年**
 
   - [トミカ未来緊急隊アースコマンダー](https://ja.wikipedia.org/wiki/トミカ未来緊急隊アースコマンダー "wikilink")（ガックン）
   - [ビックリマン ロココ＆マリア 奇跡](../Page/ビックリマン_\(アニメ\).md "wikilink")（聖幻ピーター）
-  - [BE-BOP-HIGHSCHOOL](https://ja.wikipedia.org/wiki/ビー・バップ・ハイスクール "wikilink")（真弓）
+  - [BE-BOP-HIGHSCHOOL](../Page/ビー・バップ・ハイスクール.md "wikilink")（真弓）
 
 **1991年**
 
   - [きまぐれオレンジ☆ロード ルージュの伝言](../Page/きまぐれオレンジ☆ロード.md "wikilink")（深見礼子）
-  - [魍魎戦記MADARA](https://ja.wikipedia.org/wiki/魍魎戦記MADARA "wikilink")（娘たち）
+  - [魍魎戦記MADARA](../Page/魍魎戦記MADARA.md "wikilink")（娘たち）
 
 **1992年**
 
@@ -126,7 +126,7 @@
 
 **1996年**
 
-  - [シャーマニックプリンセス](https://ja.wikipedia.org/wiki/シャーマニックプリンセス "wikilink")（アポリネ・ファリア）
+  - [シャーマニックプリンセス](../Page/シャーマニックプリンセス.md "wikilink")（アポリネ・ファリア）
   - [鉄腕バーディー](../Page/鉄腕バーディー.md "wikilink")（千川はずみ）
 
 ### ゲーム
@@ -141,7 +141,7 @@
 
 **1998年**
 
-  - [ツインビーRPG](https://ja.wikipedia.org/wiki/ツインビーRPG "wikilink")（リトル）
+  - [ツインビーRPG](../Page/ツインビーRPG.md "wikilink")（リトル）
 
 **1999年**
 
@@ -157,7 +157,7 @@
 
 **2007年**
 
-  - [SDガンダム GGENERATION SPIRITS](https://ja.wikipedia.org/wiki/SDガンダム_GGENERATION "wikilink")（チェイ）
+  - [SDガンダム GGENERATION SPIRITS](../Page/SDガンダム_GGENERATION.md "wikilink")（チェイ）
 
 **2009年**
 
@@ -177,22 +177,22 @@
 
 ### ドラマCD カセットブック
 
-  - [ガルフォース](https://ja.wikipedia.org/wiki/ガルフォース "wikilink")カセットブック（ジュリィ）
+  - [ガルフォース](../Page/ガルフォース.md "wikilink")カセットブック（ジュリィ）
   - 伝心[まもって守護月天\!](../Page/まもって守護月天!.md "wikilink")ドラマCD3巻（K、メイホアの侍女）
   - [TOKYO BABYLON IMAGE SOUNDTRACK](../Page/東京BABYLON.md "wikilink") ドラマ「CALL」（B）
   - [ひかわ玲子](../Page/ひかわ玲子.md "wikilink")原作 バセット英雄伝エルヴァーズ　カセット文庫（ジュオン王子）
-  - [吸血鬼ハンターD](https://ja.wikipedia.org/wiki/吸血鬼ハンターD "wikilink")妖殺行（マイエルリンクの恋人）
+  - [吸血鬼ハンターD](../Page/吸血鬼ハンターD.md "wikilink")妖殺行（マイエルリンクの恋人）
   - [ビックリマン 新たなる出発](../Page/ビックリマン_\(アニメ\).md "wikilink")（セプテ・ピーター）
-  - [いくえみ綾](https://ja.wikipedia.org/wiki/いくえみ綾 "wikilink")原作 POPS（なつみ）
+  - [いくえみ綾](../Page/いくえみ綾.md "wikilink")原作 POPS（なつみ）
 
 ### ナレーション
 
   - [スーパーマリオランド3 ワリオランドCM](../Page/スーパーマリオランド3_ワリオランド.md "wikilink")\[4\]
   - [シズル〜企業を支えるキーパーソンたち〜](https://ja.wikipedia.org/wiki/シ・ズ・ル "wikilink")
-  - [徳光和夫の感動再会\!"逢いたい"](https://ja.wikipedia.org/wiki/徳光和夫の感動再会"逢いたい" "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")、2006年10月 - 2008年10月）
+  - [徳光和夫の感動再会\!"逢いたい"](../Page/徳光和夫の感動再会"逢いたい".md "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")、2006年10月 - 2008年10月）
   - [鉄道百景 路面電車の走る街](https://ja.wikipedia.org/wiki/鉄道百景_路面電車の走る街 "wikilink")（[BS-TBS](../Page/BS-TBS.md "wikilink")、2010年6月 - ）
-  - [ザ・ノンフィクション](https://ja.wikipedia.org/wiki/ザ・ノンフィクション "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
-  - [ハートネットTV](https://ja.wikipedia.org/wiki/ハートネットTV "wikilink")（[NHK教育テレビジョン](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")〈Eテレ〉）
+  - [ザ・ノンフィクション](../Page/ザ・ノンフィクション.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
+  - [ハートネットTV](https://ja.wikipedia.org/wiki/ハートネットTV "wikilink")（[NHK教育テレビジョン](../Page/NHK教育テレビジョン.md "wikilink")〈Eテレ〉）
 
 ## 脚注
 

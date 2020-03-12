@@ -1,7 +1,7 @@
 > この記事は[Smart \(\)](https://ja.wikipedia.org/wiki/Smart_\(\))から翻訳されています。
 
 
-『**smart**』（スマート）は、[Hey\! Say\! JUMPの](https://ja.wikipedia.org/wiki/Hey!_Say!_JUMP "wikilink")3枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。[2014年](../Page/2014年.md "wikilink")[6月18日](../Page/6月18日.md "wikilink")に[J Stormから発売](https://ja.wikipedia.org/wiki/ジェイ・ストーム "wikilink")。このアルバムをもとにしたツアーも開催した。
+『**smart**』（スマート）は、[Hey\! Say\! JUMPの](https://ja.wikipedia.org/wiki/Hey!_Say!_JUMP "wikilink")3枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2014年](../Page/2014年.md "wikilink")[6月18日](../Page/6月18日.md "wikilink")に[J Stormから発売](../Page/ジェイ・ストーム.md "wikilink")。このアルバムをもとにしたツアーも開催した。
 
 ## 概要
 
@@ -26,20 +26,20 @@
         作詞:MILK/作曲:Takuya Harada、Niklas Edberger/編曲:Niklas
 4.  **[Come On A My House](https://ja.wikipedia.org/wiki/Come_On_A_My_House "wikilink")**
       -
-        作詞:Komei Kobayashi/作曲:[馬飼野康二](https://ja.wikipedia.org/wiki/馬飼野康二 "wikilink")/編曲:[生田真心](https://ja.wikipedia.org/wiki/生田真心 "wikilink")
+        作詞:Komei Kobayashi/作曲:[馬飼野康二](../Page/馬飼野康二.md "wikilink")/編曲:[生田真心](https://ja.wikipedia.org/wiki/生田真心 "wikilink")
 5.  **切なさ、ひきかえに**
       -
-        作詞:[薮宏太](https://ja.wikipedia.org/wiki/薮宏太 "wikilink")/作曲:[川口進](https://ja.wikipedia.org/wiki/川口進 "wikilink")、Joakim Björnberg、Christofer
+        作詞:[薮宏太](../Page/薮宏太.md "wikilink")/作曲:[川口進](https://ja.wikipedia.org/wiki/川口進 "wikilink")、Joakim Björnberg、Christofer
 6.  **Candle**
       -
         作詞:[山田涼介](https://ja.wikipedia.org/wiki/山田涼介 "wikilink")/作曲:Takuya Harada、JUNKOO、Fredrik
 7.  **パステル**
       -
-        作詞・作曲:[井手コウジ](https://ja.wikipedia.org/wiki/井手コウジ "wikilink")/編曲:井手コウジ、[間瀬真生](https://ja.wikipedia.org/wiki/間瀬真生 "wikilink")
+        作詞・作曲:[井手コウジ](../Page/井手コウジ.md "wikilink")/編曲:井手コウジ、[間瀬真生](https://ja.wikipedia.org/wiki/間瀬真生 "wikilink")
 8.  **ゆーと叩いてみた。**（inst.）
 9.  **コンパスローズ**
       -
-        作詞:[八乙女光](https://ja.wikipedia.org/wiki/八乙女光 "wikilink")/作曲:川口進、Joakim Björnberg、Christofer Erixon/編曲:Ikuo、川口進
+        作詞:[八乙女光](../Page/八乙女光.md "wikilink")/作曲:川口進、Joakim Björnberg、Christofer Erixon/編曲:Ikuo、川口進
 10. **[Ride With Me](https://ja.wikipedia.org/wiki/Ride_With_Me "wikilink")**
       -
         作詞:Staxx T(CREAM)/作曲:☆Taku Takahashi(m-flo, block.fm)、Minami(CREAM)/編曲:☆Taku Takahashi(m-flo, blockblock.fm) Track Produced by ☆Taku Takahashi(m-flo, block.fm) Programmed ＆ Mixed by MitsunoriIkeda(Tachytelic Inc.)
@@ -67,13 +67,13 @@
 2.  **ともだちだよ**
       -
         作詞：Vandrythem、作曲：[板垣祐介](https://ja.wikipedia.org/wiki/板垣祐介 "wikilink")、編曲：鈴木雅也
-3.  **Yes\!** - 怪盗y-ELLOW-voice（[山田涼介](https://ja.wikipedia.org/wiki/山田涼介 "wikilink")・[髙木雄也](https://ja.wikipedia.org/wiki/髙木雄也 "wikilink")・[八乙女光](https://ja.wikipedia.org/wiki/八乙女光 "wikilink")）
+3.  **Yes\!** - 怪盗y-ELLOW-voice（[山田涼介](https://ja.wikipedia.org/wiki/山田涼介 "wikilink")・[髙木雄也](https://ja.wikipedia.org/wiki/髙木雄也 "wikilink")・[八乙女光](../Page/八乙女光.md "wikilink")）
       -
         作詞：亜美、作曲：宮崎歩，亜美、編曲：宮崎歩
-4.  **Super Super Night** - ナイトスタイルピーポー（[知念侑李](https://ja.wikipedia.org/wiki/知念侑李 "wikilink")・[中島裕翔](https://ja.wikipedia.org/wiki/中島裕翔 "wikilink")・[薮宏太](https://ja.wikipedia.org/wiki/薮宏太 "wikilink")）
+4.  **Super Super Night** - ナイトスタイルピーポー（[知念侑李](https://ja.wikipedia.org/wiki/知念侑李 "wikilink")・[中島裕翔](https://ja.wikipedia.org/wiki/中島裕翔 "wikilink")・[薮宏太](../Page/薮宏太.md "wikilink")）
       -
         作詞：Vandrythem、作曲・編曲：Janne Andersson、Peter Heden/Chorus Arrangement:高橋哲也
-5.  **Oh\!アイドル\!** - 愛追I隊（[有岡大貴](https://ja.wikipedia.org/wiki/有岡大貴 "wikilink")・[岡本圭人](https://ja.wikipedia.org/wiki/岡本圭人 "wikilink")・[伊野尾慧](https://ja.wikipedia.org/wiki/伊野尾慧 "wikilink")）
+5.  **Oh\!アイドル\!** - 愛追I隊（[有岡大貴](https://ja.wikipedia.org/wiki/有岡大貴 "wikilink")・[岡本圭人](https://ja.wikipedia.org/wiki/岡本圭人 "wikilink")・[伊野尾慧](../Page/伊野尾慧.md "wikilink")）
       -
         作詞・作曲・編曲：SRI
 

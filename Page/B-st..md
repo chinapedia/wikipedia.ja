@@ -1,13 +1,13 @@
 > この記事は[B-st.](https://ja.wikipedia.org/wiki/B-st.)から翻訳されています。
 
 
-**B-st.**（ビー・スタ）は、ジャック・メディア（後の[ジャック・メディア・キャピタル](https://ja.wikipedia.org/wiki/ジャック・メディア・キャピタル "wikilink")）より発行されていたヘアスタイル・[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")。前身となる雑誌名は『BiDaN』（ビダン）\[1\]。2010年5月号から『B-st.』に改称。毎月24日発売\[2\]。改称から一年経たない2011年2月号で休刊となった。　
+**B-st.**（ビー・スタ）は、ジャック・メディア（後の[ジャック・メディア・キャピタル](../Page/ジャック・メディア・キャピタル.md "wikilink")）より発行されていたヘアスタイル・[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")。前身となる雑誌名は『BiDaN』（ビダン）\[1\]。2010年5月号から『B-st.』に改称。毎月24日発売\[2\]。改称から一年経たない2011年2月号で休刊となった。　
 
 ## 概要
 
 元々はヘアスタイルの雑誌として発刊されたが、年を重ねるごとにファッションを紹介するページの掲載比率が増加した。現在は、7：3ほどの比率で未だにヘアー関連が押してはいるものの、立派なファッション誌へと成長している。
 
-雑誌の内容としては、[サロン](https://ja.wikipedia.org/wiki/サロン "wikilink")とのコラボレーションで様々なヘアースタイルを提案、ほかにも[スタイリング剤や](../Page/整髪料.md "wikilink")[コテの便利な使いかたの紹介など](../Page/アイロン.md "wikilink")、ヘアー関連を特出して扱う。また、学生向けの記事が多く、高校生から大学生もしくは20代前半男性向けの雑誌と云える。
+雑誌の内容としては、[サロン](../Page/サロン.md "wikilink")とのコラボレーションで様々なヘアースタイルを提案、ほかにも[スタイリング剤や](../Page/整髪料.md "wikilink")[コテの便利な使いかたの紹介など](../Page/アイロン.md "wikilink")、ヘアー関連を特出して扱う。また、学生向けの記事が多く、高校生から大学生もしくは20代前半男性向けの雑誌と云える。
 
 表紙は、雑誌の発売時期にドラマや映画に出演もしくは主演するファッションリーダーもしくはそれに近い俳優が飾る傾向にある。近年は、[研音所属の俳優や](../Page/研音グループ.md "wikilink")[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")の有名タレントが表紙を飾ることが多くなってきている。
 
@@ -17,16 +17,16 @@
 
 ## 関連性の強い人物
 
-  - [速水もこみち](https://ja.wikipedia.org/wiki/速水もこみち "wikilink")
+  - [速水もこみち](../Page/速水もこみち.md "wikilink")
   - [小出恵介](../Page/小出恵介.md "wikilink")
   - [塚本高史](../Page/塚本高史.md "wikilink")
   - [瑛太](https://ja.wikipedia.org/wiki/瑛太 "wikilink")
-  - [平岡祐太](https://ja.wikipedia.org/wiki/平岡祐太 "wikilink")
+  - [平岡祐太](../Page/平岡祐太.md "wikilink")
 
 <!-- end list -->
 
   - [市原隼人](https://ja.wikipedia.org/wiki/市原隼人 "wikilink")
-  - [生田斗真](https://ja.wikipedia.org/wiki/生田斗真 "wikilink")
+  - [生田斗真](../Page/生田斗真.md "wikilink")
 
 ※2回以上同誌表紙を飾ったことのある俳優のみを記載
 
@@ -56,7 +56,7 @@
 
 ## 関連項目
 
-  - [CHOKi CHOKi](https://ja.wikipedia.org/wiki/CHOKi_CHOKi "wikilink")
+  - [CHOKi CHOKi](../Page/CHOKi_CHOKi.md "wikilink")
   - [Smart](../Page/Smart_\(雑誌\).md "wikilink")
   - [ファッション雑誌](../Page/ファッション雑誌.md "wikilink")
   - [リアルクローズ](https://ja.wikipedia.org/wiki/リアルクローズ "wikilink")、リアルファッション、モテ服、[若者服](https://ja.wikipedia.org/wiki/若者服 "wikilink")

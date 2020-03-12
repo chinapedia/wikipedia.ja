@@ -7,7 +7,7 @@
 
 「ONとOFFをスタイリッシュにする男の『切り札』マガジン」をモットーにし、20代前半～30代の社会人をターゲット読者層としている。
 
-雑誌傾向としては[ハリウッドスター](https://ja.wikipedia.org/wiki/ハリウッドスター "wikilink")などの[セレブ](https://ja.wikipedia.org/wiki/セレブ "wikilink")ファッションを手本とし、先鋭的になりすぎない[モード系](../Page/モード系.md "wikilink")と[コンサバファッション](../Page/コンサバファッション.md "wikilink")の中間を提示している。[GAPや](https://ja.wikipedia.org/wiki/ギャップ_\(企業\) "wikilink")[ユニクロ](../Page/ユニクロ.md "wikilink")などの廉価ブランドの商品も扱うが、掲載ブランドは比較的価格帯が高めの物が多い。
+雑誌傾向としては[ハリウッドスター](https://ja.wikipedia.org/wiki/ハリウッドスター "wikilink")などの[セレブ](https://ja.wikipedia.org/wiki/セレブ "wikilink")ファッションを手本とし、先鋭的になりすぎない[モード系](../Page/モード系.md "wikilink")と[コンサバファッション](../Page/コンサバファッション.md "wikilink")の中間を提示している。[GAPや](../Page/ギャップ_\(企業\).md "wikilink")[ユニクロ](../Page/ユニクロ.md "wikilink")などの廉価ブランドの商品も扱うが、掲載ブランドは比較的価格帯が高めの物が多い。
 
 ## 脚注
 

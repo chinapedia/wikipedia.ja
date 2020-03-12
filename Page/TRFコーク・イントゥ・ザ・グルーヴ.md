@@ -19,7 +19,7 @@
 
 ## ゲスト出演者
 
-  - [SAM](https://ja.wikipedia.org/wiki/SAM_\(ダンサー\) "wikilink")、[ETSU](https://ja.wikipedia.org/wiki/ETSU "wikilink")、[CHIHARU](https://ja.wikipedia.org/wiki/CHIHARU_\(ダンサー\) "wikilink") - TRFのメンバーであるが、出演したのは1回だけだった。
+  - [SAM](../Page/SAM_\(ダンサー\).md "wikilink")、[ETSU](https://ja.wikipedia.org/wiki/ETSU "wikilink")、[CHIHARU](https://ja.wikipedia.org/wiki/CHIHARU_\(ダンサー\) "wikilink") - TRFのメンバーであるが、出演したのは1回だけだった。
   - [小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink") - [HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")（[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）などでタレント性を身につける以前の貴重な声が聴けた。
   - [加藤茶](../Page/加藤茶.md "wikilink") - 100回記念のスペシャルゲストとして登場。
   - [松たか子](https://ja.wikipedia.org/wiki/松たか子 "wikilink") - 3周年の時にゲストで登場。

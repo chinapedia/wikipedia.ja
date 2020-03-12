@@ -1,11 +1,11 @@
 > この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
 
 
-『**カードGメン・小早川茜**』（カードジーメン こばやかわあかね）は、[2000年](../Page/2000年.md "wikilink")から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")まで[TBS系で放送された](../Page/TBSテレビ.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")シリーズ。全8回。主演は[片平なぎさ](https://ja.wikipedia.org/wiki/片平なぎさ "wikilink")。
+『**カードGメン・小早川茜**』（カードジーメン こばやかわあかね）は、[2000年](../Page/2000年.md "wikilink")から[2005年](../Page/2005年.md "wikilink")まで[TBS系で放送された](../Page/TBSテレビ.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")シリーズ。全8回。主演は[片平なぎさ](https://ja.wikipedia.org/wiki/片平なぎさ "wikilink")。
 
-放送枠は「[月曜ドラマスペシャル](https://ja.wikipedia.org/wiki/月曜ドラマスペシャル "wikilink")」（第1作・第2作）、「[月曜ミステリー劇場](https://ja.wikipedia.org/wiki/月曜ミステリー劇場 "wikilink")」（第3作 - 第8作）。
+放送枠は「[月曜ドラマスペシャル](../Page/月曜ドラマスペシャル.md "wikilink")」（第1作・第2作）、「[月曜ミステリー劇場](../Page/月曜ミステリー劇場.md "wikilink")」（第3作 - 第8作）。
 
-[クレジット会社の信用管理センターの敏腕調査員が](https://ja.wikipedia.org/wiki/信販会社 "wikilink")、[クレジットカード](../Page/クレジットカード.md "wikilink")犯罪にまつわる殺人事件を解明していく。
+[クレジット会社の信用管理センターの敏腕調査員が](../Page/信販会社.md "wikilink")、[クレジットカード](../Page/クレジットカード.md "wikilink")犯罪にまつわる殺人事件を解明していく。
 
 ## 登場人物
 
@@ -15,7 +15,7 @@
     演 - [片平なぎさ](https://ja.wikipedia.org/wiki/片平なぎさ "wikilink")
     カード調査員。仕事の辣腕ぶりから「**猟犬の茜**」のあだ名をとる。京橋女子高等学校 第30期生 3年1組（第3作）。
   - 沢松染太郎
-    演 - [西村和彦](https://ja.wikipedia.org/wiki/西村和彦 "wikilink")（第1作 - 第6作・第8作）
+    演 - [西村和彦](../Page/西村和彦.md "wikilink")（第1作 - 第6作・第8作）
     カード調査員。茜と萩原の後輩。
   - 萩原慎二
     演 - [松永博史](../Page/松永博史.md "wikilink")\[1\]
@@ -27,22 +27,22 @@
     演 - [片山佳](../Page/片山けい.md "wikilink")（第3作）、[本橋いずみ](https://ja.wikipedia.org/wiki/本橋いずみ "wikilink")（第4作 - 第7作）、[鷹城佳世](https://ja.wikipedia.org/wiki/鷹城佳世 "wikilink")\[3\]（第8作）
     事務員。
   -
-    演 - [ケーシー高峰](https://ja.wikipedia.org/wiki/ケーシー高峰 "wikilink")
+    演 - [ケーシー高峰](../Page/ケーシー高峰.md "wikilink")
     所長。茜たちの上司。
 
 ### 警察関係者
 
   - 坂井実
-    演 - [六平直政](https://ja.wikipedia.org/wiki/六平直政 "wikilink")（第1作 - 第3作・第6作）
+    演 - [六平直政](../Page/六平直政.md "wikilink")（第1作 - 第3作・第6作）
     警視庁捜査一課の刑事。階級は警部補。
 
 ### 小早川家
 
   - 小早川茉莉花
-    演 - [柊瑠美](https://ja.wikipedia.org/wiki/柊瑠美 "wikilink")\[4\]
+    演 - [柊瑠美](../Page/柊瑠美.md "wikilink")\[4\]
     茜と義伸の娘。反抗期でちょっと生意気気味。
   - 小早川義伸
-    演 - [小倉久寛](https://ja.wikipedia.org/wiki/小倉久寛 "wikilink")
+    演 - [小倉久寛](../Page/小倉久寛.md "wikilink")
     茜の夫。売れない漫画家兼主夫。
 
 ### ゲスト
@@ -79,7 +79,7 @@
 
 :\* おもちゃ屋店員 - [藏内秀樹](../Page/藏内秀樹.md "wikilink")
 
-:\* 日本旅行渋谷支店 社員 - [山本恵美](https://ja.wikipedia.org/wiki/山本恵美 "wikilink")
+:\* 日本旅行渋谷支店 社員 - [山本恵美](../Page/山本恵美.md "wikilink")
 
 :\* 国税局査察部 - [小檜山雄晶](https://ja.wikipedia.org/wiki/小檜山雄晶 "wikilink")
 
@@ -89,17 +89,17 @@
 
   - 第2作「消せない過去」（2001年）
 
-:\* 権藤政代（元社員・現債権取立屋） - [渡辺梓](https://ja.wikipedia.org/wiki/渡辺梓 "wikilink")\[9\]
+:\* 権藤政代（元社員・現債権取立屋） - [渡辺梓](../Page/渡辺梓.md "wikilink")\[9\]
 
 :\* 三条慶子（英語教室講師） - [一色彩子](https://ja.wikipedia.org/wiki/一色彩子 "wikilink")\[10\]
 
-:\* 吉村孝（吉村家電 店主・[小早川茜の知り合い](https://ja.wikipedia.org/wiki/#小早川茜 "wikilink")） - [鈴木ヒロミツ](https://ja.wikipedia.org/wiki/鈴木ヒロミツ "wikilink")
+:\* 吉村孝（吉村家電 店主・[小早川茜の知り合い](https://ja.wikipedia.org/wiki/#小早川茜 "wikilink")） - [鈴木ヒロミツ](../Page/鈴木ヒロミツ.md "wikilink")
 
 :\* 吉村秀子（吉村の妻） - [大塚良重](../Page/大塚良重.md "wikilink")
 
-:\* 黒木勇造（黒木法律事務所 弁護士） - [斉藤暁](https://ja.wikipedia.org/wiki/斉藤暁 "wikilink")
+:\* 黒木勇造（黒木法律事務所 弁護士） - [斉藤暁](../Page/斉藤暁.md "wikilink")
 
-:\* 中本和枝（隅田セントラル病院 事務員） - [菅原あき](https://ja.wikipedia.org/wiki/菅原あき "wikilink")
+:\* 中本和枝（隅田セントラル病院 事務員） - [菅原あき](../Page/菅原あき.md "wikilink")
 
 :\* 岡崎晴彦（江北商事 社長） - [大川ひろし](https://ja.wikipedia.org/wiki/大川ひろし "wikilink")
 
@@ -109,9 +109,9 @@
 
 :\* 小野文子（小野清の妻） - [木村夏江](https://ja.wikipedia.org/wiki/木村夏江 "wikilink")
 
-:\* 東昇一（元社員・現金融業社「東ファイナンス」社長） - [細川俊之](https://ja.wikipedia.org/wiki/細川俊之 "wikilink")\[11\]
+:\* 東昇一（元社員・現金融業社「東ファイナンス」社長） - [細川俊之](../Page/細川俊之.md "wikilink")\[11\]
 
-:\* 自転車屋の主人 - [和田周](https://ja.wikipedia.org/wiki/和田周 "wikilink")
+:\* 自転車屋の主人 - [和田周](../Page/和田周.md "wikilink")
 
 :\* 若い刑事 - [伊方勝](https://ja.wikipedia.org/wiki/伊方勝 "wikilink")\[12\]
 
@@ -123,13 +123,13 @@
 
 :\* 水木直子（通販会社「Z-BRAND」社員・偽名「芦田」） - [杉田かおる](../Page/杉田かおる.md "wikilink")\[14\]
 
-:\* 内藤さゆり（京橋女子高等学校 第30期生 3年1組・ソレイユ貿易の短期アルバイト） - [奈良富士子](https://ja.wikipedia.org/wiki/奈良富士子 "wikilink")\[15\]
+:\* 内藤さゆり（京橋女子高等学校 第30期生 3年1組・ソレイユ貿易の短期アルバイト） - [奈良富士子](../Page/奈良富士子.md "wikilink")\[15\]
 
 :\* 千田銀子（ソレイユ貿易 社員・偽名「山本恵」） - [大西結花](https://ja.wikipedia.org/wiki/大西結花 "wikilink")\[16\]
 
 :\* 西智樹（瑠璃子の元夫） - [大橋吾郎](../Page/大橋吾郎.md "wikilink")
 
-:\* 千田松蔵（銀子の父・酒屋） - [小沢象](https://ja.wikipedia.org/wiki/小沢象 "wikilink")
+:\* 千田松蔵（銀子の父・酒屋） - [小沢象](../Page/小沢象.md "wikilink")
 
 :\* 内藤文雄（さゆりの夫・銀行の警備員） - [井上高志](../Page/井上高志.md "wikilink")
 
@@ -145,7 +145,7 @@
 
 :\* 内藤馨（文雄とさゆりの息子） - [小林元樹](https://ja.wikipedia.org/wiki/小林元樹_\(子役\) "wikilink")
 
-:\* ユミ（京橋女子高等学校 第30期生 3年1組・元軽音楽部員） - [朝香じゅん](https://ja.wikipedia.org/wiki/朝香じゅん "wikilink")
+:\* ユミ（京橋女子高等学校 第30期生 3年1組・元軽音楽部員） - [朝香じゅん](../Page/朝香じゅん.md "wikilink")
 
 :\* ヒデヨ（京橋女子高等学校 第30期生 3年1組・元生徒会長） - 小柳友貴美
 
@@ -163,11 +163,11 @@
 
 :\* 三島絵理（「七変化のお徳」と呼ばれるカード詐欺師・本名「沢松徳子」） - [中島ひろ子](../Page/中島ひろ子.md "wikilink")
 
-:\* 藤沢翔子（詐欺グループのボス・本名「設楽光江」） - [二宮さよ子](https://ja.wikipedia.org/wiki/二宮さよ子 "wikilink")
+:\* 藤沢翔子（詐欺グループのボス・本名「設楽光江」） - [二宮さよ子](../Page/二宮さよ子.md "wikilink")
 
 :\* 伊藤肇（警視庁捜査一課 警部補） - [山本龍二](../Page/山本龍二.md "wikilink")
 
-:\* 山辺英輔（CGデザイナー） - [大森うたえもん](https://ja.wikipedia.org/wiki/大森うたえもん "wikilink")
+:\* 山辺英輔（CGデザイナー） - [大森うたえもん](../Page/大森うたえもん.md "wikilink")
 
   -
 
@@ -179,7 +179,7 @@
 
 :\* 内村輝子（PTA役員・[小早川茜の顔見知りの主婦](https://ja.wikipedia.org/wiki/#小早川茜 "wikilink")） - [角替和枝](../Page/角替和枝.md "wikilink")
 
-:\* 古谷仁（刑事） - [深水三章](https://ja.wikipedia.org/wiki/深水三章 "wikilink")
+:\* 古谷仁（刑事） - [深水三章](../Page/深水三章.md "wikilink")
 
 :\* 竹中シズ（アパートの大家） - [杉山とく子](../Page/杉山とく子.md "wikilink")
 
@@ -205,7 +205,7 @@
 
 :\* マンション管理人 - [春延朋也](https://ja.wikipedia.org/wiki/春延朋也 "wikilink")
 
-:\* 東光ビルサービス 社員 - [矢作公一](https://ja.wikipedia.org/wiki/矢作公一 "wikilink")
+:\* 東光ビルサービス 社員 - [矢作公一](../Page/矢作公一.md "wikilink")
 
 :\* サンライズクレジット データー管理課社員 - [森嶋將士](https://ja.wikipedia.org/wiki/森嶋將士 "wikilink")\[24\]
 
@@ -215,27 +215,27 @@
 
   - 第6作「特命」（2003年）
 
-:\* 西森和雄（サンライズクレジット 顧問弁護士・[大杉涼の大学の同級生](https://ja.wikipedia.org/wiki/#大杉涼 "wikilink")） - [寺田農](https://ja.wikipedia.org/wiki/寺田農 "wikilink")
+:\* 西森和雄（サンライズクレジット 顧問弁護士・[大杉涼の大学の同級生](https://ja.wikipedia.org/wiki/#大杉涼 "wikilink")） - [寺田農](../Page/寺田農.md "wikilink")
 
-:\* 有吉遥子（有吉の妻） - [大島さと子](https://ja.wikipedia.org/wiki/大島さと子 "wikilink")
+:\* 有吉遥子（有吉の妻） - [大島さと子](../Page/大島さと子.md "wikilink")
 
-:\* 九条絹代（俊子の第一秘書） - [秋本奈緒美](https://ja.wikipedia.org/wiki/秋本奈緒美 "wikilink")
+:\* 九条絹代（俊子の第一秘書） - [秋本奈緒美](../Page/秋本奈緒美.md "wikilink")
 
 :\* 手塚扶美緒 - [松永京子](../Page/楊原京子.md "wikilink")
 
 :\* 中丸（松本工科大学 教授） - [有福正志](../Page/有福正志.md "wikilink")
 
-:\* 箕輪誠一 - [でんでん](https://ja.wikipedia.org/wiki/でんでん "wikilink")
+:\* 箕輪誠一 - [でんでん](../Page/でんでん.md "wikilink")
 
 :\* 箕輪五月（箕輪の娘） - [舟木幸](https://ja.wikipedia.org/wiki/舟木幸 "wikilink")
 
 :\* 漆原恭輔 - [掛田誠](https://ja.wikipedia.org/wiki/掛田誠 "wikilink")
 
-:\* 藤堂淳一郎（社長） - [穂積隆信](https://ja.wikipedia.org/wiki/穂積隆信 "wikilink")
+:\* 藤堂淳一郎（社長） - [穂積隆信](../Page/穂積隆信.md "wikilink")
 
-:\* 篠宮俊子（民生党代議士） - [鰐淵晴子](https://ja.wikipedia.org/wiki/鰐淵晴子 "wikilink")
+:\* 篠宮俊子（民生党代議士） - [鰐淵晴子](../Page/鰐淵晴子.md "wikilink")
 
-:\* 橘徹郎（ホリデー信販 社長） - [神山繁](https://ja.wikipedia.org/wiki/神山繁 "wikilink")
+:\* 橘徹郎（ホリデー信販 社長） - [神山繁](../Page/神山繁.md "wikilink")
 
 :\* 有吉正晴（サンライズクレジット 本部長） - [内藤剛志](../Page/内藤剛志.md "wikilink")
 
@@ -243,7 +243,7 @@
 
   - 第7作「愚か者の涙」（2004年）
 
-:\* 遠藤典恵（オークションの参加者・駅売店員） - [丘みつ子](https://ja.wikipedia.org/wiki/丘みつ子 "wikilink")
+:\* 遠藤典恵（オークションの参加者・駅売店員） - [丘みつ子](../Page/丘みつ子.md "wikilink")
 
 :\* 谷明美（オークションの参加者・関東医科大学病院 看護師） - [田中美奈子](https://ja.wikipedia.org/wiki/田中美奈子 "wikilink")
 
@@ -297,9 +297,9 @@
 
 :\* 川島由香里B（川島産業の会長令嬢 ） - [井上晴美](https://ja.wikipedia.org/wiki/井上晴美 "wikilink")\[28\]
 
-:\* 川島由香里C（老婆・元クラブ歌手） - [淡路恵子](https://ja.wikipedia.org/wiki/淡路恵子 "wikilink")\[29\]
+:\* 川島由香里C（老婆・元クラブ歌手） - [淡路恵子](../Page/淡路恵子.md "wikilink")\[29\]
 
-:\* 由香里Bの元上司（川島産業 部長） - [光石研](https://ja.wikipedia.org/wiki/光石研 "wikilink")
+:\* 由香里Bの元上司（川島産業 部長） - [光石研](../Page/光石研.md "wikilink")
 
 :\* 四十物隼（ファミレス「ピエトロバルコーネ」店長） - [井田国彦](https://ja.wikipedia.org/wiki/井田国彦 "wikilink")
 
@@ -420,7 +420,7 @@
 </tbody>
 </table>
 
-  - 視聴率は[ビデオリサーチ](https://ja.wikipedia.org/wiki/ビデオリサーチ "wikilink")調べ、[関東地区](https://ja.wikipedia.org/wiki/関東地方 "wikilink")・世帯
+  - 視聴率は[ビデオリサーチ](../Page/ビデオリサーチ.md "wikilink")調べ、[関東地区](https://ja.wikipedia.org/wiki/関東地方 "wikilink")・世帯
 
 ## 脚注
 

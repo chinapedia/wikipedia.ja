@@ -7,7 +7,7 @@
 
 OLEは文書の一部分を他のソフトで編集させ、それを元の文書に取り込むことも可能にしている。たとえば、[DTP](../Page/DTP.md "wikilink")では、テキストを[ワープロソフト](../Page/ワープロソフト.md "wikilink")、図を[ペイントツール](https://ja.wikipedia.org/wiki/ペイントツール "wikilink")や[ドローツール](https://ja.wikipedia.org/wiki/ドローツール "wikilink")で編集するといった具合である。また、他のデータへの参照を文書に含めることもでき、その場合参照先のデータが変更されると、参照が含まれる文書にも即座にその変更が反映される。
 
-OLEの初期の用途は**[複合文書](https://ja.wikipedia.org/wiki/複合文書 "wikilink")**の管理のためであるが、ドラッグアンドドロップや[クリップボード](https://ja.wikipedia.org/wiki/クリップボード "wikilink")による[アプリケーション間でのデータの転送のためにも使われている](../Page/アプリケーションソフトウェア.md "wikilink")。また、OLEによるオートメーションは、[JScript](https://ja.wikipedia.org/wiki/JScript "wikilink")や[VBScript](../Page/VBScript.md "wikilink")を経由して、アプリケーションの動作を自動化するスクリプティングにも使われている。
+OLEの初期の用途は**[複合文書](https://ja.wikipedia.org/wiki/複合文書 "wikilink")**の管理のためであるが、ドラッグアンドドロップや[クリップボード](../Page/クリップボード.md "wikilink")による[アプリケーション間でのデータの転送のためにも使われている](../Page/アプリケーションソフトウェア.md "wikilink")。また、OLEによるオートメーションは、[JScript](../Page/JScript.md "wikilink")や[VBScript](../Page/VBScript.md "wikilink")を経由して、アプリケーションの動作を自動化するスクリプティングにも使われている。
 
 OLEを活用しているソフトウェア実例としては、[Microsoft Office製品のほか](../Page/Microsoft_Office.md "wikilink")、[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink")版[Adobe](https://ja.wikipedia.org/wiki/Adobe "wikilink")クリエイティブ製品の\[2\]が挙げられる。
 
@@ -15,13 +15,13 @@ OLEを活用しているソフトウェア実例としては、[Microsoft Office
 
 ### OLE 1.0
 
-OLE 1.0は1990年、[動的データ交換](https://ja.wikipedia.org/wiki/動的データ交換 "wikilink") (Dynamic Data Exchange, DDE) の後継として公開された。DDEが2つのアプリケーションの間で限定的なデータ転送を行う仕組みだったのに対し、OLEは2つのドキュメント間の連携（リンク）や、あるドキュメントに別のドキュメントを埋め込みを管理する機能を持った仕組みであった。
+OLE 1.0は1990年、[動的データ交換](../Page/動的データ交換.md "wikilink") (Dynamic Data Exchange, DDE) の後継として公開された。DDEが2つのアプリケーションの間で限定的なデータ転送を行う仕組みだったのに対し、OLEは2つのドキュメント間の連携（リンク）や、あるドキュメントに別のドキュメントを埋め込みを管理する機能を持った仕組みであった。
 
 OLEサーバとクライアント間の通信には、システムライブラリを介するが、これには[仮想関数テーブル](https://ja.wikipedia.org/wiki/仮想関数テーブル "wikilink") (vtable, VTBL) が用いられた。VTBLには、OLEシステムがサーバやクライアントとの通信に用いる関数へのポインタが所定の構造に従って収められている。サーバとクライアントに対応するシステムライブラリは、OLESVR.DLLとOLECLI.DLLで、当初はこの2つの間の通信に`WM_DDE_EXECUTE`メッセージが利用されていた。
 
 OLE 1.0は後に[COMや](../Page/Component_Object_Model.md "wikilink")[DCOMとして](../Page/Distributed_Component_Object_Model.md "wikilink")[ソフトウェアの部品化を実現するアーキテクチャとなっていった](../Page/ソフトウェアコンポーネント.md "wikilink")。
 
-OLEオブジェクトがクリップボードやドキュメントに埋め込まれる形で存在するとき、2つのWindowsネイティブな表現形式（[ビットマップと](https://ja.wikipedia.org/wiki/Windowsビットマップ "wikilink")[メタファイル](https://ja.wikipedia.org/wiki/メタファイル "wikilink")）も保存されている。これにより、オブジェクトをメモリ上に作成するアプリケーションをロードすることなく画面表示が可能になる。さらに、そのOLEオブジェクトに対応する適切なアプリケーションがインストールされていれば、オブジェクトを編集できる。
+OLEオブジェクトがクリップボードやドキュメントに埋め込まれる形で存在するとき、2つのWindowsネイティブな表現形式（[ビットマップと](https://ja.wikipedia.org/wiki/Windowsビットマップ "wikilink")[メタファイル](../Page/メタファイル.md "wikilink")）も保存されている。これにより、オブジェクトをメモリ上に作成するアプリケーションをロードすることなく画面表示が可能になる。さらに、そのOLEオブジェクトに対応する適切なアプリケーションがインストールされていれば、オブジェクトを編集できる。
 
 ### OLE 2.0
 

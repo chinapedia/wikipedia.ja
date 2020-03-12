@@ -22,7 +22,7 @@
 <tr class="odd">
 <td><p>第1回</p></td>
 <td><p>1948年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ローザンヌ" title="wikilink">ローザンヌ</a></p></td>
+<td><p><a href="../Page/ローザンヌ.md" title="wikilink">ローザンヌ</a></p></td>
 <td></td>
 <td><p>新たな責務に直面する建築</p></td>
 <td><p>Architecture Faced with its New Tasks</p></td>
@@ -30,7 +30,7 @@
 <tr class="even">
 <td><p>第2回</p></td>
 <td><p>1951年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ラバト" title="wikilink">ラバト</a></p></td>
+<td><p><a href="../Page/ラバト.md" title="wikilink">ラバト</a></p></td>
 <td></td>
 <td><p>建築はいかにしてその新たな責務を果たせるか？</p></td>
 <td><p>How Architecture is Dealing with its New Tasks</p></td>
@@ -46,7 +46,7 @@
 <tr class="even">
 <td><p>第4回</p></td>
 <td><p>1955年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デン・ハーグ" title="wikilink">ハーグ</a></p></td>
+<td><p><a href="../Page/デン・ハーグ.md" title="wikilink">ハーグ</a></p></td>
 <td></td>
 <td><p>建築と建物の進化</p></td>
 <td><p>Architecture and the Evolutions of Building</p></td>
@@ -54,7 +54,7 @@
 <tr class="odd">
 <td><p>第5回</p></td>
 <td><p>1958年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/モスクワ" title="wikilink">モスクワ</a></p></td>
+<td><p><a href="../Page/モスクワ.md" title="wikilink">モスクワ</a></p></td>
 <td></td>
 <td><p>建設と再建</p></td>
 <td><p>Construction and Reconstruction</p></td>
@@ -70,7 +70,7 @@
 <tr class="odd">
 <td><p>第7回</p></td>
 <td><p>1963年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハバナ" title="wikilink">ハバナ</a></p></td>
+<td><p><a href="../Page/ハバナ.md" title="wikilink">ハバナ</a></p></td>
 <td></td>
 <td><p>発展途上国の建築</p></td>
 <td><p>Architecture in Underdeveloped Countries</p></td>
@@ -102,7 +102,7 @@
 <tr class="odd">
 <td><p>第11回</p></td>
 <td><p>1972年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヴァルナ_(ブルガリア)" title="wikilink">ヴァルナ</a></p></td>
+<td><p><a href="../Page/ヴァルナ_(ブルガリア).md" title="wikilink">ヴァルナ</a></p></td>
 <td></td>
 <td><p>建築と余暇</p></td>
 <td><p>Architecture and Leisure</p></td>
@@ -134,7 +134,7 @@
 <tr class="odd">
 <td><p>第15回</p></td>
 <td><p>1985年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カイロ" title="wikilink">カイロ</a></p></td>
+<td><p><a href="../Page/カイロ.md" title="wikilink">カイロ</a></p></td>
 <td></td>
 <td><p>建築家の現在と未来の責務</p></td>
 <td><p>Present and Future Missions of the Architect</p></td>
@@ -142,7 +142,7 @@
 <tr class="even">
 <td><p>第16回</p></td>
 <td><p>1987年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブライトン" title="wikilink">ブライトン</a></p></td>
+<td><p><a href="../Page/ブライトン.md" title="wikilink">ブライトン</a></p></td>
 <td></td>
 <td><p>シェルターと都市/未来の世界を築く</p></td>
 <td><p>Shelter and Cities ― Building Tomorrow’s World</p></td>
@@ -214,7 +214,7 @@
 <tr class="odd">
 <td><p>第25回</p></td>
 <td><p>2014年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ダーバン" title="wikilink">ダーバン</a></p></td>
+<td><p><a href="../Page/ダーバン.md" title="wikilink">ダーバン</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -240,9 +240,9 @@
 
 ### 2011年大会
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[イスタンブール](../Page/イスタンブール.md "wikilink")大会で、[2011年](../Page/2011年.md "wikilink")大会の開催地が[東京](../Page/東京.md "wikilink")に決定した。それに伴い、UIAの日本支部にあたる[日本建築家協会](https://ja.wikipedia.org/wiki/日本建築家協会 "wikilink")（JIA）の小倉善明会長（当時）は、日本国内で[建築家](../Page/建築家.md "wikilink")の存在・役割を市民に認識してもらう機会にしたい、と述べている。
+[2005年](../Page/2005年.md "wikilink")[イスタンブール](../Page/イスタンブール.md "wikilink")大会で、[2011年](../Page/2011年.md "wikilink")大会の開催地が[東京](../Page/東京.md "wikilink")に決定した。それに伴い、UIAの日本支部にあたる[日本建築家協会](../Page/日本建築家協会.md "wikilink")（JIA）の小倉善明会長（当時）は、日本国内で[建築家](../Page/建築家.md "wikilink")の存在・役割を市民に認識してもらう機会にしたい、と述べている。
 
-2011年大会は、2011年9月25日～10月1日の7日間、[東京国際フォーラム](https://ja.wikipedia.org/wiki/東京国際フォーラム "wikilink")を主会場に開催される予定で、約1万人の参加が見込まれている。
+2011年大会は、2011年9月25日～10月1日の7日間、[東京国際フォーラム](../Page/東京国際フォーラム.md "wikilink")を主会場に開催される予定で、約1万人の参加が見込まれている。
 
 ## 外部リンク
 

@@ -3,13 +3,13 @@
 
 『**Men's egg**』（メンズエッグ）は[大洋図書](../Page/大洋図書.md "wikilink")が発売していた[男性](../Page/男性.md "wikilink")[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")。毎月14日発売。編集長 [東宮昌之](https://ja.wikipedia.org/wiki/東宮昌之 "wikilink")。
 
-ギャル誌『[egg](https://ja.wikipedia.org/wiki/egg "wikilink")』から派生した。[ギャル男](https://ja.wikipedia.org/wiki/ギャル男 "wikilink")、[お兄系](https://ja.wikipedia.org/wiki/お兄系 "wikilink")、[デリッカー](../Page/デリッカー.md "wikilink")、[ACID ROCKなどの](https://ja.wikipedia.org/wiki/ACID_ROCK "wikilink")[渋谷系](../Page/渋谷系.md "wikilink")[ストリートファッション](https://ja.wikipedia.org/wiki/ストリートファッション "wikilink")を紹介している。
+ギャル誌『[egg](https://ja.wikipedia.org/wiki/egg "wikilink")』から派生した。[ギャル男](https://ja.wikipedia.org/wiki/ギャル男 "wikilink")、[お兄系](../Page/お兄系.md "wikilink")、[デリッカー](../Page/デリッカー.md "wikilink")、[ACID ROCKなどの](https://ja.wikipedia.org/wiki/ACID_ROCK "wikilink")[渋谷系](../Page/渋谷系.md "wikilink")[ストリートファッション](https://ja.wikipedia.org/wiki/ストリートファッション "wikilink")を紹介している。
 
 兄弟誌として『**Men's egg core**』、『**Men's egg Youth**』、『**Men's egg Bitter**』、『[MEN'S KNUCKLE](../Page/MEN'S_KNUCKLE.md "wikilink")』がある。
 
 ## 概要
 
-誌面で扱う情報はファッションのみならず、恋愛、性、ヘアカタログなど、10代後半から20代前半の若い男性読者を意識した誌面作りを展開している。[イケメン](../Page/イケメン.md "wikilink")、[秋葉系](https://ja.wikipedia.org/wiki/秋葉系 "wikilink")、[ギャル男](https://ja.wikipedia.org/wiki/ギャル男 "wikilink")など現在では一般的になりつつある言葉も、もともとはこの雑誌の企画から発生した。
+誌面で扱う情報はファッションのみならず、恋愛、性、ヘアカタログなど、10代後半から20代前半の若い男性読者を意識した誌面作りを展開している。[イケメン](../Page/イケメン.md "wikilink")、[秋葉系](../Page/秋葉系.md "wikilink")、[ギャル男](https://ja.wikipedia.org/wiki/ギャル男 "wikilink")など現在では一般的になりつつある言葉も、もともとはこの雑誌の企画から発生した。
 
 編集部員が頻繁に誌面に登場することでも有名で、発刊以降、スパンコール東宮、パンティ根津、井上キャバ男など多くの名物編集部員を輩出している。
 
@@ -17,7 +17,7 @@
 
   - [1999年](../Page/1999年.md "wikilink")
       -
-        女性向け[ストリートファッション](https://ja.wikipedia.org/wiki/ストリートファッション "wikilink")誌『[egg](https://ja.wikipedia.org/wiki/egg "wikilink")』の男性版として創刊\[1\] する（当初、雑誌名の候補として『**eggman**(エッグマン)』があったが、東京都渋谷区神南に『[Egg-man](https://ja.wikipedia.org/wiki/shibuya_eggman "wikilink")』という同名の[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")があることから見送られた）。
+        女性向け[ストリートファッション](https://ja.wikipedia.org/wiki/ストリートファッション "wikilink")誌『[egg](https://ja.wikipedia.org/wiki/egg "wikilink")』の男性版として創刊\[1\] する（当初、雑誌名の候補として『**eggman**(エッグマン)』があったが、東京都渋谷区神南に『[Egg-man](https://ja.wikipedia.org/wiki/shibuya_eggman "wikilink")』という同名の[ライブハウス](../Page/ライブハウス.md "wikilink")があることから見送られた）。
         5号（2月号）井上キャバ男登場。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")
       -
@@ -30,10 +30,10 @@
 ## 特徴
 
   - ファッションの傾向
-    誌面は[アメカジ色の強い](https://ja.wikipedia.org/wiki/アメリカンカジュアル "wikilink")[ファッション](../Page/ファッション.md "wikilink")を紹介する傾向にあり、[ストリートスナップ](https://ja.wikipedia.org/wiki/ストリートスナップ "wikilink")で紹介されている人は個性あふれるスタイルがとても強い。
+    誌面は[アメカジ色の強い](../Page/アメリカンカジュアル.md "wikilink")[ファッション](../Page/ファッション.md "wikilink")を紹介する傾向にあり、[ストリートスナップ](https://ja.wikipedia.org/wiki/ストリートスナップ "wikilink")で紹介されている人は個性あふれるスタイルがとても強い。
     お兄系やギャル男といえば、服装のサイジングは目安としてタイトが基本となるが、この雑誌では、あえて[ストリート](../Page/ストリート.md "wikilink")色の強いルーズな[ファッション](../Page/ファッション.md "wikilink")が紹介されることもある。2010年現在は、[ACID ROCK](https://ja.wikipedia.org/wiki/ACID_ROCK "wikilink")、アバカジなどのスタイルに力を入れ特集している。
   - ブランド
-    10代後半 - 20代前半をターゲットにしていることもあってか、手ごろな[価格](https://ja.wikipedia.org/wiki/価格 "wikilink")の流行ブランド中心になっているが、10代後半の世代には経済的に購入が困難な価格のブランドが誌面に紹介されることもある。
+    10代後半 - 20代前半をターゲットにしていることもあってか、手ごろな[価格](../Page/価格.md "wikilink")の流行ブランド中心になっているが、10代後半の世代には経済的に購入が困難な価格のブランドが誌面に紹介されることもある。
     2006年（平成18年）3月に当時人気モデルだった照井憲宇の提案により、誌面で人気のブランドを集めた男性向けのテナントフロア「109MEN'S」として営業を開始している。
   - モデル
     照井憲宇が読モブランドで成功した事を切り口に、その後[植竹拓](../Page/植竹拓.md "wikilink")（通称「元祖」）を筆頭に、川島隼輔、伊利篤、等の「読モ（メンモ）」と呼ばれるモデル陣が雑誌引退後に服のブランドを立ち上げるなど、[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")における[読者モデル](../Page/読者モデル.md "wikilink")の新しいスタイルを作りだした雑誌である。
@@ -148,8 +148,8 @@
 ## Men's egg主催のクラブイベント
 
   - Men's egg nignt（メンズエッグナイト）
-    不定期でMen's eggが開催するクラブイベント。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")にある[CLUB ATOMをはじめ](https://ja.wikipedia.org/wiki/CLUB_ATOM "wikilink")、全国各地で開催されている。ほとんどの場合深夜に開催されるイベントであるため、18歳未満、[高校生](https://ja.wikipedia.org/wiki/高校生 "wikilink")は入場できない。
-    [トランス](../Page/トランス_\(音楽\).md "wikilink")、[サイケデリックトランス](https://ja.wikipedia.org/wiki/サイケデリックトランス "wikilink")というジャンルを中心に行っている。雑誌モデルにも直接会うこともでき、実際に会話してその場の雰囲気を楽しめるというイベントである。本誌モデルでもある[植竹拓](../Page/植竹拓.md "wikilink")もDJ HIROMUとして、ケンウはDJ KEN-Uとして。また鈴木ひろゆきもDJ HIROYUKIとしてDJ参加している。
+    不定期でMen's eggが開催するクラブイベント。[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")にある[CLUB ATOMをはじめ](https://ja.wikipedia.org/wiki/CLUB_ATOM "wikilink")、全国各地で開催されている。ほとんどの場合深夜に開催されるイベントであるため、18歳未満、[高校生](https://ja.wikipedia.org/wiki/高校生 "wikilink")は入場できない。
+    [トランス](../Page/トランス_\(音楽\).md "wikilink")、[サイケデリックトランス](../Page/サイケデリックトランス.md "wikilink")というジャンルを中心に行っている。雑誌モデルにも直接会うこともでき、実際に会話してその場の雰囲気を楽しめるというイベントである。本誌モデルでもある[植竹拓](../Page/植竹拓.md "wikilink")もDJ HIROMUとして、ケンウはDJ KEN-Uとして。また鈴木ひろゆきもDJ HIROYUKIとしてDJ参加している。
 
 ## 姉妹雑誌
 
@@ -158,7 +158,7 @@
   - Men's egg Youth
     Men's egg読者層のなかで、16、17歳をターゲットにした雑誌。「TOKYO制服通信！」など、高校生向けの企画も多い。臨月誌で、基本的に偶数月の26日発売。
   - Men's egg Bitter
-    Men's eggの大人版。当初は隔月刊であったが、Men's eggの休刊と入れ替わる形で、2013年から月刊化された。[秋山成勲](https://ja.wikipedia.org/wiki/秋山成勲 "wikilink")が表紙を飾っていることが多い。
+    Men's eggの大人版。当初は隔月刊であったが、Men's eggの休刊と入れ替わる形で、2013年から月刊化された。[秋山成勲](../Page/秋山成勲.md "wikilink")が表紙を飾っていることが多い。
 
 ## 用語
 
@@ -179,7 +179,7 @@
 
 ## 関連項目
 
-  - [お兄系](https://ja.wikipedia.org/wiki/お兄系 "wikilink")、[ギャル男](https://ja.wikipedia.org/wiki/ギャル男 "wikilink")、[デリッカー](../Page/デリッカー.md "wikilink")、[ACID ROCK](https://ja.wikipedia.org/wiki/ACID_ROCK "wikilink")
+  - [お兄系](../Page/お兄系.md "wikilink")、[ギャル男](https://ja.wikipedia.org/wiki/ギャル男 "wikilink")、[デリッカー](../Page/デリッカー.md "wikilink")、[ACID ROCK](https://ja.wikipedia.org/wiki/ACID_ROCK "wikilink")
   - [109-2 (商業施設)](https://ja.wikipedia.org/wiki/109_\(商業施設\)#109-2（渋谷） "wikilink")
   - [読者モデル](../Page/読者モデル.md "wikilink")
   - [ファッション](../Page/ファッション.md "wikilink")

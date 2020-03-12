@@ -5,7 +5,7 @@
 
 ## 概要
 
-[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")関連の[ニュース](../Page/ニュース.md "wikilink")を2本伝えた後、[日本道路交通情報センター](https://ja.wikipedia.org/wiki/日本道路交通情報センター "wikilink")福岡センターと中継を繋ぎ、九州内の[高速道路](../Page/高速道路.md "wikilink")と[福岡](https://ja.wikipedia.org/wiki/福岡市 "wikilink")、[北九州両市内の](https://ja.wikipedia.org/wiki/北九州市 "wikilink")[都市高速道路](../Page/都市高速道路.md "wikilink")と主な[一般道路](https://ja.wikipedia.org/wiki/一般道路 "wikilink")の状況を簡易画像付きで伝える。なお2013年に入り、首都圏と同じタイプの大型ボードに情報を図示する昔ながらのスタイルに変更した。最後に福岡とその隣県の今日の[天気を伝えて](../Page/天気予報.md "wikilink")、九州・沖縄ブロック向け番組「[NHKニュース おはよう九州沖縄](../Page/おはよう九州沖縄.md "wikilink")」に接続する。2018年度から、放送枠全体が『おはよう九州沖縄』で構成されるため、事実上2017年度をもって終了した。
+[福岡県](../Page/福岡県.md "wikilink")関連の[ニュース](../Page/ニュース.md "wikilink")を2本伝えた後、[日本道路交通情報センター](../Page/日本道路交通情報センター.md "wikilink")福岡センターと中継を繋ぎ、九州内の[高速道路](../Page/高速道路.md "wikilink")と[福岡](https://ja.wikipedia.org/wiki/福岡市 "wikilink")、[北九州両市内の](https://ja.wikipedia.org/wiki/北九州市 "wikilink")[都市高速道路](../Page/都市高速道路.md "wikilink")と主な[一般道路](https://ja.wikipedia.org/wiki/一般道路 "wikilink")の状況を簡易画像付きで伝える。なお2013年に入り、首都圏と同じタイプの大型ボードに情報を図示する昔ながらのスタイルに変更した。最後に福岡とその隣県の今日の[天気を伝えて](../Page/天気予報.md "wikilink")、九州・沖縄ブロック向け番組「[NHKニュース おはよう九州沖縄](../Page/おはよう九州沖縄.md "wikilink")」に接続する。2018年度から、放送枠全体が『おはよう九州沖縄』で構成されるため、事実上2017年度をもって終了した。
 
 土曜日にも同様の時間が設けられているがここでは交通情報が省かれる代わりに、気象情報は県内10箇所のポイント予報も伝えられるほか、2011年度まではノンタイトルで放送されていた。タイトルに「NHKニュース」が入り土曜にも適用されたのは全国放送が2012年度にリニューアルしたことによる。
 

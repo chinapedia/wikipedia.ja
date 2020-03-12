@@ -1,7 +1,7 @@
 > この記事は[RSA](https://ja.wikipedia.org/wiki/RSA)から翻訳されています。
 
 
-**RSAセキュリティ**(RSA Security LLC\[1\])は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[コンピュータセキュリティ](../Page/コンピュータセキュリティ.md "wikilink")および[ネットワークセキュリティ](https://ja.wikipedia.org/wiki/ネットワークセキュリティ "wikilink")に関するソフトウェアの開発会社である。通常は**RSA**の[商号](https://ja.wikipedia.org/wiki/商号 "wikilink")を使用している。
+**RSAセキュリティ**(RSA Security LLC\[1\])は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[コンピュータセキュリティ](../Page/コンピュータセキュリティ.md "wikilink")および[ネットワークセキュリティ](https://ja.wikipedia.org/wiki/ネットワークセキュリティ "wikilink")に関するソフトウェアの開発会社である。通常は**RSA**の[商号](../Page/商号.md "wikilink")を使用している。
 
 RSAは、共同設立者である[ロナルド・リベスト](../Page/ロナルド・リベスト.md "wikilink")(Ron Rivest)、[アディ・シャミア](../Page/アディ・シャミア.md "wikilink")(Adi Shamir)、[レオナルド・エーデルマン](../Page/レオナルド・エーデルマン.md "wikilink")(Len Adleman)の頭文字をとって命名されたもので、彼らが開発した[RSA暗号](../Page/RSA暗号.md "wikilink")と同様である\[2\]。
 
@@ -14,20 +14,20 @@ RSAは[マサチューセッツ州](../Page/マサチューセッツ州.md "wiki
 ## 歴史
 
   - [1982年](../Page/1982年.md "wikilink") - 1977年に[RSA暗号](../Page/RSA暗号.md "wikilink")を開発した[ロナルド・リベスト](../Page/ロナルド・リベスト.md "wikilink")、[アディ・シャミア](../Page/アディ・シャミア.md "wikilink")、[レオナルド・エーデルマン](../Page/レオナルド・エーデルマン.md "wikilink")がRSA Data Security（RSAデータセキュリティ）を設立\[9\]\[10\]。
-  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [認証](../Page/認証.md "wikilink")システム事業を[ベリサイン](https://ja.wikipedia.org/wiki/ベリサイン "wikilink")に分社化し、新会社を設立。
+  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [認証](../Page/認証.md "wikilink")システム事業を[ベリサイン](../Page/ベリサイン.md "wikilink")に分社化し、新会社を設立。
   - [1996年](../Page/1996年.md "wikilink")7月 - Security Dynamics Technologies Inc.がRSA Data Securityを買収。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")1月 - 最初のを企画。[DES暗号が初めて公に破られる](../Page/Data_Encryption_Standard.md "wikilink")。
   - [1999年](../Page/1999年.md "wikilink") - RSA Security Inc.に社名変更。
   - [2001年](../Page/2001年.md "wikilink")2月 - 電子商取引のセキュリティを確保するためのデジタル証明書ベースの製品を開発し提供した非公開会社のXcert International, Inc.を買収。
   - 2001年5月 - スマートカードやバイオメトリック認証製品を開発し非公開企業である3-G International, Inc.を買収。
   - 2001年8月 - [アイデンティティ管理](../Page/アイデンティティ管理.md "wikilink")製品であるClearTrustを開発した非公開会社Securant Technologies, Inc.を買収。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")12月 - 金融機関向けのオンラインセキュリティと不正防止ソリューションを専門とする[イスラエル](../Page/イスラエル.md "wikilink")の非公開企業Cyotaを買収\[11\]。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")4月 - PassMark Securityを買収。
+  - [2005年](../Page/2005年.md "wikilink")12月 - 金融機関向けのオンラインセキュリティと不正防止ソリューションを専門とする[イスラエル](../Page/イスラエル.md "wikilink")の非公開企業Cyotaを買収\[11\]。
+  - [2006年](../Page/2006年.md "wikilink")4月 - PassMark Securityを買収。
   - 2006年9月14日 - RSAの株主が、[EMCコーポレーション](https://ja.wikipedia.org/wiki/EMCコーポレーション "wikilink")による同社の21億ドルの買収を承認\[12\]\[13\]\[14\]。
   - [2007年](../Page/2007年.md "wikilink") - [ハイデラバードに拠点を置く](../Page/ハイデラバード_\(インド\).md "wikilink")、ファイルとデータのセキュリティを専門とする[インド](../Page/インド.md "wikilink")の会社Valyd Softwareを買収。
   - [2009年](../Page/2009年.md "wikilink") - RSA Share Projectを開始\[15\]。このプロジェクトの一環として、RSA BSAFEライブラリの一部が無料で提供される。プロジェクトのプロモーションのため、1位の賞金が1万ドルのプログラミング競技会を開催した\[16\]。
   - [2011年](../Page/2011年.md "wikilink") - トロイの木馬やその他のオンライン攻撃によって侵害されたコンピュータ、情報資産、身元を特定するのを支援するCyberCrime Intelligence Serviceを導入\[17\]。
-  - [2016年](../Page/2016年.md "wikilink")9月7日 - [マイケル・デル](https://ja.wikipedia.org/wiki/マイケル・デル "wikilink")が主導した現金および株式取引によりデルテクノロジーズがEMCコーポレーションを買収したことにより、同社の子会社であるDell EMCインフラストラクチャソリューショングループの子会社となる。
+  - [2016年](../Page/2016年.md "wikilink")9月7日 - [マイケル・デル](../Page/マイケル・デル.md "wikilink")が主導した現金および株式取引によりデルテクノロジーズがEMCコーポレーションを買収したことにより、同社の子会社であるDell EMCインフラストラクチャソリューショングループの子会社となる。
 
 ### SecurIDのセキュリティ侵害
 
@@ -35,7 +35,7 @@ RSAは[マサチューセッツ州](../Page/マサチューセッツ州.md "wiki
 
 ### NSAとの関係
 
-RSAと[アメリカ国家安全保障局](../Page/アメリカ国家安全保障局.md "wikilink")(NSA)との関係は、長年にわたり変化している。[ロイター](https://ja.wikipedia.org/wiki/ロイター "wikilink")のジョセフ・メン(Joseph Menn)\[20\]とサイバーセキュリティアナリストの(Jeffrey Carr)\[21\]は、両者がかつて対立関係にあったことに気づいた。初期には、RSAとその指導者は、強力な暗号の公共の利用の著名な主張者であった。そして、NSAとブッシュ・クリントン政権はその拡散を阻止しようとしていた。
+RSAと[アメリカ国家安全保障局](../Page/アメリカ国家安全保障局.md "wikilink")(NSA)との関係は、長年にわたり変化している。[ロイター](../Page/ロイター.md "wikilink")のジョセフ・メン(Joseph Menn)\[20\]とサイバーセキュリティアナリストの(Jeffrey Carr)\[21\]は、両者がかつて対立関係にあったことに気づいた。初期には、RSAとその指導者は、強力な暗号の公共の利用の著名な主張者であった。そして、NSAとブッシュ・クリントン政権はその拡散を阻止しようとしていた。
 
 1990年代半ば、RSAとビゾスは、米国政府が通信を解読できるようにするバックドアを備えた暗号チップである[クリッパーチップ](../Page/クリッパーチップ.md "wikilink")に対する「激しい」公然のキャンペーンを主導した。クリントン政権は電気通信会社にこのチップを使用させ、それを使用した製品の[輸出制限を緩和した](https://ja.wikipedia.org/wiki/アメリカ合衆国からの暗号の輸出規制 "wikilink")（この輸出制限により、RSAセキュリティはソフトウェアを国外に販売することができなかった）。RSAは、クリッパーチップに反対する自由主義者の市民らの運動に参加し、沈没しかけた帆船（[クリッパー](https://ja.wikipedia.org/wiki/クリッパー_\(船\) "wikilink")）の絵に"Sink Clipper\!（クリッパーを沈めろ\!）"という言葉が書かれたポスターを配布した\[22\]。また、RSAは、広く使われているDES暗号がNSAのような十分に資金を提供された団体によって破られていることを示すために、を開始した。
 

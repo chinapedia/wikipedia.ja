@@ -5,7 +5,7 @@
 
 ## 経緯
 
-[2001年](../Page/2001年.md "wikilink")に撤収(解散)した音楽ユニット・[野猿](../Page/野猿.md "wikilink")のフロントメンバー2人が結成した[デュオ](../Page/デュオ.md "wikilink")である。『[とんねるずのみなさんのおかげでした](../Page/とんねるずのみなさんのおかげでした.md "wikilink")』の完全バックアップ（[石橋貴明](../Page/石橋貴明.md "wikilink")と[後藤次利](https://ja.wikipedia.org/wiki/後藤次利 "wikilink")のプロデュース）のもとCDデビューし、初動[オリコン](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")5位のヒットとなったがそれ以降、活動しておらず実質自然消滅した。『[路傍](../Page/路傍.md "wikilink")』を「デビューシングル」と紹介されていたことから当初は継続的に活動する予定だったと思われる。
+[2001年](../Page/2001年.md "wikilink")に撤収(解散)した音楽ユニット・[野猿](../Page/野猿.md "wikilink")のフロントメンバー2人が結成した[デュオ](../Page/デュオ.md "wikilink")である。『[とんねるずのみなさんのおかげでした](../Page/とんねるずのみなさんのおかげでした.md "wikilink")』の完全バックアップ（[石橋貴明](../Page/石橋貴明.md "wikilink")と[後藤次利](../Page/後藤次利.md "wikilink")のプロデュース）のもとCDデビューし、初動[オリコン](../Page/オリコンチャート.md "wikilink")5位のヒットとなったがそれ以降、活動しておらず実質自然消滅した。『[路傍](../Page/路傍.md "wikilink")』を「デビューシングル」と紹介されていたことから当初は継続的に活動する予定だったと思われる。
 
 野球好きの石橋が[メジャーリーグで目にしたこの単語を気に入り](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")、そのままユニット名として採用したのが名前の由来。
 
@@ -28,7 +28,7 @@
 
   - [うたばん](../Page/うたばん.md "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")）
   - とくばん（TBS）
-  - [CDTV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")（TBS）
+  - [CDTV](../Page/COUNT_DOWN_TV.md "wikilink")（TBS）
 
 ## 外部リンク
 

@@ -7,7 +7,7 @@
 
 1.  **オレンジ色のKissをあげよう**
       - 作詞：[渡辺なつみ](../Page/渡辺なつみ_\(作詞家\).md "wikilink")・米倉千尋、作曲：南利一、編曲：亀田誠治
-      - 「バヤリースオレンジ」[コマーシャル](https://ja.wikipedia.org/wiki/コマーシャルメッセージ "wikilink")[イメージソング](https://ja.wikipedia.org/wiki/イメージソング "wikilink")。
+      - 「バヤリースオレンジ」[コマーシャル](../Page/コマーシャルメッセージ.md "wikilink")[イメージソング](https://ja.wikipedia.org/wiki/イメージソング "wikilink")。
       - 2nd[アルバム](../Page/アルバム.md "wikilink")『[Transistor Glamour](../Page/Transistor_Glamour.md "wikilink")』にも、収録されている。
 2.  **TRY ON MY DREAMS**
       - 作詞：朝倉京子、作曲：[三浦一年](https://ja.wikipedia.org/wiki/三浦一年 "wikilink")、編曲：亀田誠治

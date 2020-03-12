@@ -7,9 +7,9 @@
 
 ## 概要
 
-WILLER EXPRESSは、旅行代理店・[WILLER TRAVEL](https://ja.wikipedia.org/wiki/WILLER_TRAVEL "wikilink")（旧・株式会社西日本ツアーズ）による募集型企画旅行（いわゆる[ツアーバス](../Page/ツアーバス.md "wikilink")）であった。西日本ツアーズ時代の2001年7月に、大阪・東京間の高速ツアーバスの企画・運行を開始した\[2\]。
+WILLER EXPRESSは、旅行代理店・[WILLER TRAVEL](../Page/WILLER_TRAVEL.md "wikilink")（旧・株式会社西日本ツアーズ）による募集型企画旅行（いわゆる[ツアーバス](../Page/ツアーバス.md "wikilink")）であった。西日本ツアーズ時代の2001年7月に、大阪・東京間の高速ツアーバスの企画・運行を開始した\[2\]。
 
-その後、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")夏頃には30路線・74便を運行するツアーバス大手に成長した\[3\]。
+その後、[2006年](../Page/2006年.md "wikilink")夏頃には30路線・74便を運行するツアーバス大手に成長した\[3\]。
 
 2011年12月からは乗合バス事業（後述）にも参入した\[4\]。
 
@@ -27,25 +27,25 @@ WILLER EXPRESSは、旅行代理店・[WILLER TRAVEL](https://ja.wikipedia.org/w
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:WILLER_EXPRESS_Tokyo_head_office_and_Shinkiba_BASE.jpg "wikilink")
 
-  - 本社・新木場BASE：〒136-0082 [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")新木場1-18-13
-  - 大阪オフィス：〒531-6006 [大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](https://ja.wikipedia.org/wiki/大阪市 "wikilink")[北区大淀中](../Page/北区_\(大阪市\).md "wikilink")1-1-88-600 梅田スカイビルタワーイースト6階
+  - 本社・新木場BASE：〒136-0082 [東京都](../Page/東京都.md "wikilink")[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")新木場1-18-13
+  - 大阪オフィス：〒531-6006 [大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[北区大淀中](../Page/北区_\(大阪市\).md "wikilink")1-1-88-600 梅田スカイビルタワーイースト6階
   - 本社営業所：〒136-0082 東京都江東区新木場1-18-13
       - 旧・WILLER EXPRESS関東（時刻表等ではK（成田シャトルはWK）で記載・東京都バス協会加盟）
-  - 仙台営業所：〒983-0013 [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](https://ja.wikipedia.org/wiki/仙台市 "wikilink")[宮城野区](../Page/宮城野区.md "wikilink")中野1-5-21
-      - 旧・南部WILLER EXPRESS（[南部バス](https://ja.wikipedia.org/wiki/南部バス "wikilink")との合弁会社）→WILLER EXPRESS東北（時刻表等ではBで記載・宮城県バス協会加盟）
-  - 千葉営業所：〒289-1605 [千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[山武郡](../Page/山武郡.md "wikilink")[芝山町](../Page/芝山町.md "wikilink")大台2566-1
+  - 仙台営業所：〒983-0013 [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](../Page/仙台市.md "wikilink")[宮城野区](../Page/宮城野区.md "wikilink")中野1-5-21
+      - 旧・南部WILLER EXPRESS（[南部バス](../Page/南部バス.md "wikilink")との合弁会社）→WILLER EXPRESS東北（時刻表等ではBで記載・宮城県バス協会加盟）
+  - 千葉営業所：〒289-1605 [千葉県](../Page/千葉県.md "wikilink")[山武郡](../Page/山武郡.md "wikilink")[芝山町](../Page/芝山町.md "wikilink")大台2566-1
   - 新潟営業所：〒950-0064 [新潟県](../Page/新潟県.md "wikilink")[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")[東区松島](https://ja.wikipedia.org/wiki/東区_\(新潟市\) "wikilink")2-6-3
   - 長野営業所：〒388-8014 [長野県](../Page/長野県.md "wikilink")[長野市](../Page/長野市.md "wikilink")篠ノ井塩崎6944-1
       - 上記3営業所は旧・WILLER EXPRESS北信越（時刻表等ではH（成田シャトルはWH）で記載・新潟県バス協会および長野県バス協会加盟）。千葉営業所は成田シャトル運行のため2016年10月に新設。
   - 名古屋営業所：〒454-0026 [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区 "wikilink")築盛町2-25
       - 旧・WILLER EXPRESS東海（時刻表等ではTで記載・愛知県バス協会加盟）
-  - 大阪営業所：〒599-8234 大阪府[堺市](https://ja.wikipedia.org/wiki/堺市 "wikilink")[中区土塔町](https://ja.wikipedia.org/wiki/中区_\(堺市\) "wikilink")62-3
+  - 大阪営業所：〒599-8234 大阪府[堺市](https://ja.wikipedia.org/wiki/堺市 "wikilink")[中区土塔町](../Page/中区_\(堺市\).md "wikilink")62-3
       - 旧・WILLER EXPRESS西日本（時刻表等ではWで記載・大阪府バス協会加盟）
   - 広島営業所：〒731-3167 [広島県](../Page/広島県.md "wikilink")[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")[安佐南区](../Page/安佐南区.md "wikilink")大塚西4-9-7
       - 旧・WILLER EXPRESS中国（時刻表等ではCで記載・[広島県バス協会](https://ja.wikipedia.org/wiki/広島県バス協会 "wikilink")加盟）
   - 池袋営業所：〒171-0021 東京都豊島区西池袋2-30-20　音羽ビル403
       - 池袋エリア周遊路線バス[IKEBUS](https://ja.wikipedia.org/wiki/IKEBUS "wikilink")運行のため開設。
-  - 清水BASE：〒424-0301　[静岡県](../Page/静岡県.md "wikilink")[静岡市](https://ja.wikipedia.org/wiki/静岡市 "wikilink")[清水区](../Page/清水区.md "wikilink")宍原字木ノ下1438-1
+  - 清水BASE：〒424-0301　[静岡県](../Page/静岡県.md "wikilink")[静岡市](../Page/静岡市.md "wikilink")[清水区](../Page/清水区.md "wikilink")宍原字木ノ下1438-1
 
 ### WILLER EXPRESSチーム
 
@@ -61,7 +61,7 @@ WILLER EXPRESSは、旅行代理店・[WILLER TRAVEL](https://ja.wikipedia.org/w
 
   - [日本高速バス](https://ja.wikipedia.org/wiki/日本高速バス "wikilink")（担当路線：博多・広島・松山・東京・時刻表等ではJで記載・京都府バス協会加盟）
       - 本社：〒597-0093 大阪府[貝塚市](https://ja.wikipedia.org/wiki/貝塚市 "wikilink")二色中町6-6
-      - 京都営業所：〒610-0300 [京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")[綴喜郡](../Page/綴喜郡.md "wikilink")[井手町](../Page/井手町.md "wikilink")大字井手小字扇畑42-2
+      - 京都営業所：〒610-0300 [京都府](../Page/京都府.md "wikilink")[綴喜郡](../Page/綴喜郡.md "wikilink")[井手町](../Page/井手町.md "wikilink")大字井手小字扇畑42-2
 
 <!-- end list -->
 
@@ -80,19 +80,19 @@ WILLER GROUPまたはWILLER EXPRESSチームに所属する各事業者に出資
 
   - [アリーナ](https://ja.wikipedia.org/wiki/アリーナ_\(バス\) "wikilink")
   - [有田鉄道](../Page/有田鉄道.md "wikilink")
-  - [イーグルバス](https://ja.wikipedia.org/wiki/イーグルバス "wikilink")
+  - [イーグルバス](../Page/イーグルバス.md "wikilink")
   - [さやま交通](https://ja.wikipedia.org/wiki/さやま交通 "wikilink")
-  - [鯱バス](https://ja.wikipedia.org/wiki/鯱バス "wikilink")
-  - [中日臨海バス](https://ja.wikipedia.org/wiki/中日臨海バス "wikilink")
-  - [帝産観光バス](https://ja.wikipedia.org/wiki/帝産観光バス "wikilink")
-  - [東京ヤサカ観光バス](https://ja.wikipedia.org/wiki/ヤサカグループ "wikilink")
-  - [奈良交通](https://ja.wikipedia.org/wiki/奈良交通 "wikilink")
+  - [鯱バス](../Page/鯱バス.md "wikilink")
+  - [中日臨海バス](../Page/中日臨海バス.md "wikilink")
+  - [帝産観光バス](../Page/帝産観光バス.md "wikilink")
+  - [東京ヤサカ観光バス](../Page/ヤサカグループ.md "wikilink")
+  - [奈良交通](../Page/奈良交通.md "wikilink")
   - [日本観光](https://ja.wikipedia.org/wiki/日本観光 "wikilink")
   - [ニュープリンス観光バス](https://ja.wikipedia.org/wiki/ニュープリンス観光バス "wikilink")
   - [丸一観光](https://ja.wikipedia.org/wiki/丸一観光 "wikilink")
   - [ゆきつばき観光](https://ja.wikipedia.org/wiki/ゆきつばき観光 "wikilink")
-  - [ロウズ観光](https://ja.wikipedia.org/wiki/ロウズ観光 "wikilink")
-  - [岩手県北自動車](https://ja.wikipedia.org/wiki/岩手県北自動車 "wikilink")（2019年1月にMICHINORI EXPRESS(MEX)となりWILLER EXPRESSとの提携を終了したが、7月に親会社のWILLERと提携。MEX+WILLERブランドとして運行。）
+  - [ロウズ観光](../Page/ロウズ観光.md "wikilink")
+  - [岩手県北自動車](../Page/岩手県北自動車.md "wikilink")（2019年1月にMICHINORI EXPRESS(MEX)となりWILLER EXPRESSとの提携を終了したが、7月に親会社のWILLERと提携。MEX+WILLERブランドとして運行。）
 
 ## 主な高速バス路線
 
@@ -155,7 +155,7 @@ WILLER GROUPまたはWILLER EXPRESSチームに所属する各事業者に出資
   - TDS・川崎駅・大崎駅 - 東部湯の丸SA・長野小島田・長野駅（北信越）
   - 東京駅（八重洲南口/日本橋口）・YCAT → 東部湯の丸SA・長野小島田・長野駅（北信越）
   - 大崎駅・東京駅（八重洲南口/日本橋口）・YCAT ← 東部湯の丸SA・ロイヤルホテル長野・長野小島田・長野駅（北信越）
-  - [成田空港](https://ja.wikipedia.org/wiki/成田国際空港 "wikilink")・[YCAT](https://ja.wikipedia.org/wiki/横浜シティ・エア・ターミナル "wikilink") - [信濃大町駅](https://ja.wikipedia.org/wiki/信濃大町駅 "wikilink")・[扇沢駅](https://ja.wikipedia.org/wiki/扇沢駅 "wikilink")\[11\]・白馬八方BT（北信越）【冬期運休】
+  - [成田空港](../Page/成田国際空港.md "wikilink")・[YCAT](../Page/横浜シティ・エア・ターミナル.md "wikilink") - [信濃大町駅](../Page/信濃大町駅.md "wikilink")・[扇沢駅](../Page/扇沢駅.md "wikilink")\[11\]・白馬八方BT（北信越）【冬期運休】
 
 <!-- end list -->
 
@@ -165,7 +165,7 @@ WILLER GROUPまたはWILLER EXPRESSチームに所属する各事業者に出資
 
   - バスタ新宿 → [新潟駅](https://ja.wikipedia.org/wiki/新潟駅 "wikilink")・[新潟古町](https://ja.wikipedia.org/wiki/古町_\(新潟市\) "wikilink")（北信越）【昼行】
   - 大崎駅・バスタ新宿 ← 新潟駅・新潟古町（北信越）【昼行】
-  - バスタ新宿・サンシャインシティ ← 新潟駅・[新潟港](https://ja.wikipedia.org/wiki/新潟港 "wikilink")（北信越）【昼行】
+  - バスタ新宿・サンシャインシティ ← 新潟駅・[新潟港](../Page/新潟港.md "wikilink")（北信越）【昼行】
   - 川崎駅・バスタ新宿 ← 新潟駅（北信越）【昼行】
   - 東京駅（八重洲南口/日本橋口） → 新潟駅（北信越）【昼行】
   - 東京駅（八重洲南口/日本橋口） → [新潟大学](../Page/新潟大学.md "wikilink")・新潟駅（北信越）【昼行】
@@ -173,7 +173,7 @@ WILLER GROUPまたはWILLER EXPRESSチームに所属する各事業者に出資
   - 東京駅（八重洲南口/日本橋口）・バスタ新宿 ← 長岡駅・新潟駅・新潟古町（北信越）【昼行】
   - 東京駅（八重洲南口/日本橋口）・バスタ新宿 → [燕三条駅](../Page/燕三条駅.md "wikilink")・新潟駅・新潟港（北信越）【昼行】
   - 東京駅（八重洲南口/日本橋口） ← 燕三条駅・新潟駅（北信越）【昼行】
-  - バスタ新宿 - 新潟駅・[岩室温泉](https://ja.wikipedia.org/wiki/岩室温泉 "wikilink")・メイワサンピア（北信越）【昼行】
+  - バスタ新宿 - 新潟駅・[岩室温泉](../Page/岩室温泉.md "wikilink")・メイワサンピア（北信越）【昼行】
   - 成田空港・大崎駅・バスタ新宿 → 長岡駅・新潟駅・新潟港（北信越）
   - 成田空港・バスタ新宿 ← 長岡駅・新潟駅（北信越）
   - 新浦安駅・サンシャインシティ → 長岡駅・新潟駅（北信越）
@@ -227,11 +227,11 @@ WILLER GROUPまたはWILLER EXPRESSチームに所属する各事業者に出資
 
   - バスタ新宿 - 名古屋\[15\]（東海&プリンス&ベイライン）【昼行】
   - バスタ新宿 - [金城ふ頭駅](https://ja.wikipedia.org/wiki/金城ふ頭駅 "wikilink")・名古屋（東海）【昼行】
-  - [浜松町BT](https://ja.wikipedia.org/wiki/浜松町バスターミナル "wikilink")・バスタ新宿 - 名古屋（東海&プリンス）【昼行】
+  - [浜松町BT](../Page/浜松町バスターミナル.md "wikilink")・バスタ新宿 - 名古屋（東海&プリンス）【昼行】
   - YCAT・バスタ新宿 - 名古屋（ベイライン）【昼行】
   - 川崎駅・YCAT - 名古屋（ベイライン）【昼行】
   - 川崎駅・YCAT - [東岡崎駅](../Page/東岡崎駅.md "wikilink")・名古屋（ベイライン）【昼行】
-  - TDS・大崎駅 → [アクトシティ浜松](https://ja.wikipedia.org/wiki/アクトシティ浜松 "wikilink")・名古屋（東海）
+  - TDS・大崎駅 → [アクトシティ浜松](../Page/アクトシティ浜松.md "wikilink")・名古屋（東海）
   - バスタ新宿・[池袋駅](https://ja.wikipedia.org/wiki/池袋駅 "wikilink") ← アクトシティ浜松・名古屋（東海）
   - TDL・バスタ新宿・池袋駅 - 名古屋（東海）
   - TDS・大崎駅 ← 名古屋（東海）
@@ -259,7 +259,7 @@ WILLER GROUPまたはWILLER EXPRESSチームに所属する各事業者に出資
 <!-- end list -->
 
   - 川崎駅・バスタ新宿 - [近鉄四日市駅](https://ja.wikipedia.org/wiki/近鉄四日市駅 "wikilink")・[白子駅](../Page/白子駅.md "wikilink")・[津駅](../Page/津駅.md "wikilink")・[松阪駅](../Page/松阪駅.md "wikilink")・[伊勢市駅](../Page/伊勢市駅.md "wikilink")（ベイライン）
-  - YCAT・サンシャインシティ - 東岡崎駅・名古屋・[なばなの里](https://ja.wikipedia.org/wiki/なばなの里 "wikilink")（上り便のみ）・[ナガシマリゾート](https://ja.wikipedia.org/wiki/ナガシマリゾート "wikilink")・近鉄四日市駅（ベイライン）
+  - YCAT・サンシャインシティ - 東岡崎駅・名古屋・[なばなの里](../Page/なばなの里.md "wikilink")（上り便のみ）・[ナガシマリゾート](https://ja.wikipedia.org/wiki/ナガシマリゾート "wikilink")・近鉄四日市駅（ベイライン）
 
 <!-- end list -->
 
@@ -267,7 +267,7 @@ WILLER GROUPまたはWILLER EXPRESSチームに所属する各事業者に出資
 
 <!-- end list -->
 
-  - バスタ新宿・YCAT → [京都駅](https://ja.wikipedia.org/wiki/京都駅 "wikilink")・[高速長岡京](https://ja.wikipedia.org/wiki/長岡京インターチェンジ#高速長岡京バスストップ "wikilink")・[桃山台駅](https://ja.wikipedia.org/wiki/桃山台駅 "wikilink")・[WBT大阪梅田](https://ja.wikipedia.org/wiki/梅田スカイビル "wikilink")（さやま）【昼行】
+  - バスタ新宿・YCAT → [京都駅](https://ja.wikipedia.org/wiki/京都駅 "wikilink")・[高速長岡京](https://ja.wikipedia.org/wiki/長岡京インターチェンジ#高速長岡京バスストップ "wikilink")・[桃山台駅](https://ja.wikipedia.org/wiki/桃山台駅 "wikilink")・[WBT大阪梅田](../Page/梅田スカイビル.md "wikilink")（さやま）【昼行】
   - バスタ新宿・YCAT ← 京都駅・桃山台駅・WBT大阪梅田（さやま）【昼行】
   - 大崎駅 - WBT大阪梅田（西日本）【昼行】
   - TDL・東京駅（鍛冶橋）・川崎駅 - [彦根駅](https://ja.wikipedia.org/wiki/彦根駅 "wikilink")・[草津駅](https://ja.wikipedia.org/wiki/草津駅_\(滋賀県\) "wikilink")・京都駅・[枚方市駅](https://ja.wikipedia.org/wiki/枚方市駅 "wikilink")（さやま）
@@ -279,7 +279,7 @@ WILLER GROUPまたはWILLER EXPRESSチームに所属する各事業者に出資
   - TDL・東京駅（鍛冶橋） → 京都駅・WBT大阪梅田（関東）
   - TDL・東京駅（鍛冶橋）・川崎駅 → 京都駅・WBT大阪梅田（西日本）
   - TDL・池袋駅・川崎駅 ← 京都駅・WBT大阪梅田（西日本）
-  - TDL・バスタ新宿・サンシャインシティ → WBT大阪梅田・[OCAT](https://ja.wikipedia.org/wiki/大阪シティエアターミナル "wikilink")（関東）
+  - TDL・バスタ新宿・サンシャインシティ → WBT大阪梅田・[OCAT](../Page/大阪シティエアターミナル.md "wikilink")（関東）
   - TDL・大崎駅・バスタ新宿 - WBT大阪梅田・OCAT（西日本）
   - TDL・浜松町BT・バスタ新宿 ← 京都駅・WBT大阪梅田・OCAT（西日本）
   - TDL・サンシャインシティ → 京都駅・WBT大阪梅田・[天王寺駅](https://ja.wikipedia.org/wiki/天王寺駅 "wikilink")（さやま）
@@ -336,7 +336,7 @@ WILLER GROUPまたはWILLER EXPRESSチームに所属する各事業者に出資
 
 <!-- end list -->
 
-  - バスタ新宿 - [米子駅](https://ja.wikipedia.org/wiki/米子駅 "wikilink")・[松江駅](https://ja.wikipedia.org/wiki/松江駅 "wikilink")・[出雲市駅](https://ja.wikipedia.org/wiki/出雲市駅 "wikilink") → [出雲大社](https://ja.wikipedia.org/wiki/出雲大社 "wikilink")（ベイライン）
+  - バスタ新宿 - [米子駅](https://ja.wikipedia.org/wiki/米子駅 "wikilink")・[松江駅](https://ja.wikipedia.org/wiki/松江駅 "wikilink")・[出雲市駅](https://ja.wikipedia.org/wiki/出雲市駅 "wikilink") → [出雲大社](../Page/出雲大社.md "wikilink")（ベイライン）
 
 <!-- end list -->
 
@@ -380,7 +380,7 @@ WILLER GROUPまたはWILLER EXPRESSチームに所属する各事業者に出資
 <!-- end list -->
 
   - 京都駅・WBT大阪梅田 - バスステーション広島駅北口（中国）【昼行】
-  - 京都駅・桃山台駅・WBT大阪梅田 → バスステーション広島駅北口・[広島八丁堀](https://ja.wikipedia.org/wiki/立町停留場 "wikilink")（中国）【昼行】
+  - 京都駅・桃山台駅・WBT大阪梅田 → バスステーション広島駅北口・[広島八丁堀](../Page/立町停留場.md "wikilink")（中国）【昼行】
   - 京都駅・WBT大阪梅田 ← バスステーション広島駅北口・広島八丁堀（中国）【昼行】
   - 京都駅・高速長岡京・桃山台駅・WBT大阪梅田 - バスステーション広島駅北口（日本高速）【昼行】
   - 京都駅・WBT大阪梅田 - バスステーション広島駅北口・広島八丁堀（中国&日本高速）
@@ -394,7 +394,7 @@ WILLER GROUPまたはWILLER EXPRESSチームに所属する各事業者に出資
 
 <!-- end list -->
 
-  - 京都駅・WBT大阪梅田・USJ・三宮 - [今治](../Page/今治市.md "wikilink")・[松山一番町](https://ja.wikipedia.org/wiki/大街道バスターミナル "wikilink")（日本高速）
+  - 京都駅・WBT大阪梅田・USJ・三宮 - [今治](../Page/今治市.md "wikilink")・[松山一番町](../Page/大街道バスターミナル.md "wikilink")（日本高速）
 
 <!-- end list -->
 
@@ -413,7 +413,7 @@ WILLER GROUPまたはWILLER EXPRESSチームに所属する各事業者に出資
 
 [Willer_Express_106_IKEBUS_eCOM-10_for_Training_Car.jpg](https://ja.wikipedia.org/wiki/File:Willer_Express_106_IKEBUS_eCOM-10_for_Training_Car.jpg "fig:Willer_Express_106_IKEBUS_eCOM-10_for_Training_Car.jpg") 2019年11月27日に路線バスとしての運行開始。WILLER EXPRESS池袋営業所による運行\[19\]。
 
-池袋駅（西口・東口）から[Hareza池袋](https://ja.wikipedia.org/wiki/Hareza池袋 "wikilink")・[サンシャインシティ](../Page/サンシャインシティ.md "wikilink")・[豊島区役所](https://ja.wikipedia.org/wiki/豊島区役所 "wikilink")等を循環する2ルートを設定。車両は[シンクトゥギャザー](https://ja.wikipedia.org/wiki/シンクトゥギャザー "wikilink")製の10輪小型電気バス・eCOM-10\[20\]を使用し、最高時速19kmで各ルートを35～38分で循環する。
+池袋駅（西口・東口）から[Hareza池袋](https://ja.wikipedia.org/wiki/Hareza池袋 "wikilink")・[サンシャインシティ](../Page/サンシャインシティ.md "wikilink")・[豊島区役所](../Page/豊島区役所.md "wikilink")等を循環する2ルートを設定。車両は[シンクトゥギャザー](https://ja.wikipedia.org/wiki/シンクトゥギャザー "wikilink")製の10輪小型電気バス・eCOM-10\[20\]を使用し、最高時速19kmで各ルートを35～38分で循環する。
 
   - Aルート：池袋駅東口→Hareza池袋→南池袋公園→[東池袋駅](https://ja.wikipedia.org/wiki/東池袋駅 "wikilink")→サンシャインシティ（北→西）→東池袋駅→豊島区役所→南池袋公園→池袋駅東口
   - Bルート：池袋駅西口→Hareza池袋→サンシャインシティ西→Hareza池袋→池袋駅西口
@@ -426,7 +426,7 @@ WILLER GROUPまたはWILLER EXPRESSチームに所属する各事業者に出資
 
 <!-- end list -->
 
-  - [大阪南港](https://ja.wikipedia.org/wiki/大阪港#大阪南港 "wikilink") - [WILLERバスターミナル大阪梅田](https://ja.wikipedia.org/wiki/梅田スカイビル "wikilink") - [京都駅](https://ja.wikipedia.org/wiki/京都駅 "wikilink")八条口
+  - [大阪南港](https://ja.wikipedia.org/wiki/大阪港#大阪南港 "wikilink") - [WILLERバスターミナル大阪梅田](../Page/梅田スカイビル.md "wikilink") - [京都駅](https://ja.wikipedia.org/wiki/京都駅 "wikilink")八条口
 
 <!-- end list -->
 
@@ -465,7 +465,7 @@ WILLER GROUPまたはWILLER EXPRESSチームに所属する各事業者に出資
 
 ## 車両
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:WillerBus_BKG-MU66JS_No.2779.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Willerexp-mitsubisiaeroace.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Willer_Express_Nishinihon_Star_Fighter_01_Selega_HD.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Willerexp-sayamakotsu_hyundaibus.jpg "wikilink") ツアーバスの運行コストの削減を目的として、親会社であるウィラー・アライアンスを通じて韓国製[バスである](https://ja.wikipedia.org/wiki/バス_\(車両\) "wikilink")[大宇バス](https://ja.wikipedia.org/wiki/大宇バス "wikilink")BX212を大量導入したが、[並行輸入であるために輸入が困難になり](https://ja.wikipedia.org/wiki/輸入車 "wikilink")、、最後まで専用車両として運用されていた南港路線も廃止となった現在はほとんど姿を見られることがなくなった。 現在は[日野・セレガ](https://ja.wikipedia.org/wiki/日野・セレガ "wikilink")を中心に[三菱ふそう・エアロエース](https://ja.wikipedia.org/wiki/三菱ふそう・エアロエース "wikilink")・[エアロキングなどが導入されている](../Page/三菱ふそう・エアロキング.md "wikilink")。2012年からは[いすゞ・ガーラ](https://ja.wikipedia.org/wiki/いすゞ・ガーラ "wikilink")も導入されている。 なんば⇔梅田路線及びUSJ⇔梅田路線においては全線一般道\[22\]を通るため、[いすゞ・エルガ](https://ja.wikipedia.org/wiki/いすゞ・エルガ "wikilink")ワンステップが使用されていた。運行終了後は南部バスへWILLERカラーのまま転属した\[23\]。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:WillerBus_BKG-MU66JS_No.2779.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Willerexp-mitsubisiaeroace.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Willer_Express_Nishinihon_Star_Fighter_01_Selega_HD.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Willerexp-sayamakotsu_hyundaibus.jpg "wikilink") ツアーバスの運行コストの削減を目的として、親会社であるウィラー・アライアンスを通じて韓国製[バスである](https://ja.wikipedia.org/wiki/バス_\(車両\) "wikilink")[大宇バス](../Page/大宇バス.md "wikilink")BX212を大量導入したが、[並行輸入であるために輸入が困難になり](../Page/輸入車.md "wikilink")、、最後まで専用車両として運用されていた南港路線も廃止となった現在はほとんど姿を見られることがなくなった。 現在は[日野・セレガ](../Page/日野・セレガ.md "wikilink")を中心に[三菱ふそう・エアロエース](../Page/三菱ふそう・エアロエース.md "wikilink")・[エアロキングなどが導入されている](../Page/三菱ふそう・エアロキング.md "wikilink")。2012年からは[いすゞ・ガーラ](../Page/いすゞ・ガーラ.md "wikilink")も導入されている。 なんば⇔梅田路線及びUSJ⇔梅田路線においては全線一般道\[22\]を通るため、[いすゞ・エルガ](https://ja.wikipedia.org/wiki/いすゞ・エルガ "wikilink")ワンステップが使用されていた。運行終了後は南部バスへWILLERカラーのまま転属した\[23\]。
 
 なお、これらの車両はWILLER EXPRESS西日本が一括で開発・発注を行い、グループ各社及び共同運行会社である南部バスにリースされる形となっている。但し、ツアーバス時代に運行事業者の1社である[さやま交通](https://ja.wikipedia.org/wiki/さやま交通 "wikilink")が自社で導入した専用車両もあり、高速路線バス移行後に合弁運行事業者である大阪さやま交通をはじめグループ各社へ転属している。
 
@@ -519,18 +519,18 @@ WILLER GROUPまたはWILLER EXPRESSチームに所属する各事業者に出資
 
   - スターファイター（STAR FIGHTER） - 新感覚のアトラクションバス。宇宙船を思わせるデザインのような室内には、偏心3列シートの各席にジョイスティックが備えられており、未来の企業・WILLER-X社が開発したスターファイターの搭乗員（クルー）となって伝説のクリスタルを探索するというストーリーを体感できる\[35\]。なお、本来はWILLER TRAVELが企画する日帰りバスツアー専用車であるが、期間限定で昼行路線にて使用されることがある。旅行関連のイベントで展示や試乗体験（イベント会場〜会場最寄駅を結ぶシャトルバスとして運行）を行っている。2017年現在は後述の「NL-PRIME」に改造されている。
   - オープンルーフレストラン（NIPPON Travel Restaurant） - 日本各地の旬の味覚を詰め込んだ新感覚のグルメバス。1Fが厨房、2Fが[オープンルーフ席となっていて景色を見ながら食事が楽しめる](https://ja.wikipedia.org/wiki/オープントップバス "wikilink")。WILLER TRAVELが企画する日帰りバスツアー専用車となっている。2017年4月から、「祭り」をテーマに車内外を装飾した2号車が登場する\[36\]。2018年7月からは京都で通年運行を開始し\[37\]、同年10月からは東京でも通年運行を行う\[38\]。
-      - 君の名は。カフェバス - 大ヒット映画「[君の名は。](https://ja.wikipedia.org/wiki/君の名は。 "wikilink")」のシーンをオープンルーフレストラン（NIPPON Travel Restaurant）の車両全体にラッピングして、映画の舞台となった東京各地（順に絵画館→信濃町駅前陸橋→信濃町駅前交差点→四谷四丁目 交差点→新宿ユニカビジョン前→新都心歩道橋下 交差点→新宿警察署裏 交差点→新宿駅南口→四ツ谷駅）を全行程約90分で巡る\[39\]。車内では、全国各地で開催された「君の名は。カフェ」の人気メニューをカフェバス用にアレンジしたセットが提供される。WILLERと[クールジャパントラベル](https://ja.wikipedia.org/wiki/クールジャパントラベル "wikilink")の共同企画で運行は[帝産観光バス](https://ja.wikipedia.org/wiki/帝産観光バス "wikilink")に委託。2017年8月3日から10月29日までの限定運行。
-  - NL-PRIME（エヌエル-プライム） - WILLER TRAVELと[Ingress](https://ja.wikipedia.org/wiki/Ingress "wikilink")の開発運営元であるナイアンティック社がコラボレーションしたもので、運行は[なの花交通バス](https://ja.wikipedia.org/wiki/なの花交通バス "wikilink")に委託。世界で初めてIngressの世界観をリアルに体験することができるIngressバス\[40\]。乗客への限定メダルプレゼントや特別コンテンツ等Ingressの世界をリアルに楽しめるバスになっている\[41\]。WILLER TRAVELが企画する日帰りバスツアー専用車だが、曜日によっては成田駅 - 東京駅の路線としての運行も設定されていた。台湾で提携する[国光汽車客運](https://ja.wikipedia.org/wiki/国光汽車客運 "wikilink")とのコラボレーション企画として、台湾でも展示されていた（法令の関係上、現地での走行は不可）。2018年末をもって運行終了。
+      - 君の名は。カフェバス - 大ヒット映画「[君の名は。](https://ja.wikipedia.org/wiki/君の名は。 "wikilink")」のシーンをオープンルーフレストラン（NIPPON Travel Restaurant）の車両全体にラッピングして、映画の舞台となった東京各地（順に絵画館→信濃町駅前陸橋→信濃町駅前交差点→四谷四丁目 交差点→新宿ユニカビジョン前→新都心歩道橋下 交差点→新宿警察署裏 交差点→新宿駅南口→四ツ谷駅）を全行程約90分で巡る\[39\]。車内では、全国各地で開催された「君の名は。カフェ」の人気メニューをカフェバス用にアレンジしたセットが提供される。WILLERと[クールジャパントラベル](https://ja.wikipedia.org/wiki/クールジャパントラベル "wikilink")の共同企画で運行は[帝産観光バス](../Page/帝産観光バス.md "wikilink")に委託。2017年8月3日から10月29日までの限定運行。
+  - NL-PRIME（エヌエル-プライム） - WILLER TRAVELと[Ingress](https://ja.wikipedia.org/wiki/Ingress "wikilink")の開発運営元であるナイアンティック社がコラボレーションしたもので、運行は[なの花交通バス](https://ja.wikipedia.org/wiki/なの花交通バス "wikilink")に委託。世界で初めてIngressの世界観をリアルに体験することができるIngressバス\[40\]。乗客への限定メダルプレゼントや特別コンテンツ等Ingressの世界をリアルに楽しめるバスになっている\[41\]。WILLER TRAVELが企画する日帰りバスツアー専用車だが、曜日によっては成田駅 - 東京駅の路線としての運行も設定されていた。台湾で提携する[国光汽車客運](../Page/国光汽車客運.md "wikilink")とのコラボレーション企画として、台湾でも展示されていた（法令の関係上、現地での走行は不可）。2018年末をもって運行終了。
 
 ファイル:Willer Express Kanto Selega HD Cocoon Seat.jpg|コクーン ファイル:Willer Express Nishinihon Star Fighter 01 Cabin.JPG|スターファイター（現：NL-PRIME） ファイル:Willer - Teisan Kanko Bus Your Name Cafe Bus Aero King.jpg|君の名は。カフェバス
 
 ## STAR EXPRESS
 
-上記の委託運行会社によって運行される格安便のブランド名であり、専用車両ではなく通常の観光バス車両が使用される。但し、南部バス運行便において自社の貸切車が使用されることがある他、一時期は長野発着便の一部にWILLER EXPRESS北信越による自社運行便が存在した（前身である[アリーナがツアーバス時代に使用していた車両を転用](https://ja.wikipedia.org/wiki/アリーナ_\(バス\) "wikilink")）。この他、ツアーバス時代には元[シリウス号用車両を転用した](https://ja.wikipedia.org/wiki/シリウス号_\(高速バス\) "wikilink")「STAR EXPRESS frontier」が運行されていた。
+上記の委託運行会社によって運行される格安便のブランド名であり、専用車両ではなく通常の観光バス車両が使用される。但し、南部バス運行便において自社の貸切車が使用されることがある他、一時期は長野発着便の一部にWILLER EXPRESS北信越による自社運行便が存在した（前身である[アリーナがツアーバス時代に使用していた車両を転用](https://ja.wikipedia.org/wiki/アリーナ_\(バス\) "wikilink")）。この他、ツアーバス時代には元[シリウス号用車両を転用した](../Page/シリウス号_\(高速バス\).md "wikilink")「STAR EXPRESS frontier」が運行されていた。
 
 ## 事故
 
-[2015年](../Page/2015年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink")3時15分頃、WILLER EXPRESS関東が[ロウズ観光](https://ja.wikipedia.org/wiki/ロウズ観光 "wikilink")に委託運行する東京ディズニーランド発岡山・倉敷行きの夜行高速バスが[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")[四日市市](../Page/四日市市.md "wikilink")の[東名阪自動車道](../Page/東名阪自動車道.md "wikilink")においてダンプカーに追突し、茶畑に転落・横転\[42\]\[43\]\[44\]。乗客・バス運転手・ダンプカー運転手が負傷した。
+[2015年](../Page/2015年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink")3時15分頃、WILLER EXPRESS関東が[ロウズ観光](../Page/ロウズ観光.md "wikilink")に委託運行する東京ディズニーランド発岡山・倉敷行きの夜行高速バスが[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")[四日市市](../Page/四日市市.md "wikilink")の[東名阪自動車道](../Page/東名阪自動車道.md "wikilink")においてダンプカーに追突し、茶畑に転落・横転\[42\]\[43\]\[44\]。乗客・バス運転手・ダンプカー運転手が負傷した。
 
 ## 脚注
 
@@ -554,7 +554,7 @@ WILLER GROUPまたはWILLER EXPRESSチームに所属する各事業者に出資
 7.  [7月31日　WILLER EXPRESSが高速路線バスを運行開始](http://travel.willer.co.jp/press/detail.php?id=147)（WILLER TRAVEL 2013年6月27日）
 8.  2015年12月1日に社名変更。2015年11月30日まではWILLER EXPRESS関西
 9.  2015年12月1日に本社移転。2015年11月30日までは〒530-0005 大阪府大阪市北区中之島3-2-18住友中之島ビル5階
-10. 東京駅八重洲南口/日本橋口発着系統は[JRバス関東に発券業務を委託している](https://ja.wikipedia.org/wiki/ジェイアールバス関東 "wikilink")。
+10. 東京駅八重洲南口/日本橋口発着系統は[JRバス関東に発券業務を委託している](../Page/ジェイアールバス関東.md "wikilink")。
 11. 白馬発の便は通過。
 12.
 13.
@@ -574,7 +574,7 @@ WILLER GROUPまたはWILLER EXPRESSチームに所属する各事業者に出資
 27. [高速バスWILLER EXPRESSより新シート「Luxia(ラクシア)」登場 木の温もりで寛ぎの移動を提供します](http://travel.willer.co.jp/press/detail.php?id=224) - WILLER EXPRESS JAPAN 2016年7月15日
 28. [WILLER EXPRESS、落ち着いたデザインの独立3列新シート「Luxia」を公開 新デザインのスーパーハイデッカーバス。まずは東京～関西路線から](http://travel.watch.impress.co.jp/docs/news/1022888.html) - トラベル Watch 2016年10月3日（2016年10月3日閲覧）
 29. [高速バスに「最高の休息」を求める時代へ 「眠り」のための最適な環境が備わった「ReBorn」登場](http://www.willer.co.jp/news/press/detail.php?id=252) - WILLER EXPRESS JAPAN 2017年1月19日
-30. [ベッドで眠るような超豪華シート](http://trendy.nikkeibp.co.jp/article/pickup/20090203/1023269/?ST=life&P=3) - [日経トレンディ](https://ja.wikipedia.org/wiki/日経トレンディ "wikilink") 2009年02月19日配信記事「これは使える、最新ツアーバス。早割りで半額、超豪華シート、増える路線本数...」
+30. [ベッドで眠るような超豪華シート](http://trendy.nikkeibp.co.jp/article/pickup/20090203/1023269/?ST=life&P=3) - [日経トレンディ](../Page/日経トレンディ.md "wikilink") 2009年02月19日配信記事「これは使える、最新ツアーバス。早割りで半額、超豪華シート、増える路線本数...」
 31.
 32. [都市間高速バスの客席ユニットとそのレイアウト \[ウィラーエクスプレス　コクーン\]](http://www.g-mark.org/award/describe/36735) - グッドデザイン賞公式サイト
 33. [「コクーン」の販売終了につきまして](http://travel.willer.co.jp/notice/detail/2018082801.html) - WILLER EXPRESS（2018年9月26日閲覧）

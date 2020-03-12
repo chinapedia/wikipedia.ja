@@ -1,17 +1,17 @@
 > この記事は[WILLER](https://ja.wikipedia.org/wiki/WILLER)から翻訳されています。
 
 
-**WILLER株式会社**（ウィラー）は、[旅行業](https://ja.wikipedia.org/wiki/旅行業 "wikilink")を中心とした複数の企業を傘下に持つ企業。本社は[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](https://ja.wikipedia.org/wiki/大阪市 "wikilink")。
+**WILLER株式会社**（ウィラー）は、[旅行業](https://ja.wikipedia.org/wiki/旅行業 "wikilink")を中心とした複数の企業を傘下に持つ企業。本社は[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")。
 
 ## 概要
 
-[1994年](../Page/1994年.md "wikilink")に[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](https://ja.wikipedia.org/wiki/大阪市 "wikilink")[北区で設立された第](../Page/北区_\(大阪市\).md "wikilink")1種旅行会社「西日本ツアーズ株式会社」（現・[WILLER TRAVEL](https://ja.wikipedia.org/wiki/WILLER_TRAVEL "wikilink")）が前身。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に西日本ツアーズの[株式移転](../Page/株式移転.md "wikilink")により**西日本ホールディングス株式会社**として設立された。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")1月に**WILLER ALLIANCE株式会社**に変更後、2017年3月1日に現社名に変更すると同時に、本社機能を大阪に移転した\[1\]。
+[1994年](../Page/1994年.md "wikilink")に[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[北区で設立された第](../Page/北区_\(大阪市\).md "wikilink")1種旅行会社「西日本ツアーズ株式会社」（現・[WILLER TRAVEL](../Page/WILLER_TRAVEL.md "wikilink")）が前身。[2005年](../Page/2005年.md "wikilink")に西日本ツアーズの[株式移転](../Page/株式移転.md "wikilink")により**西日本ホールディングス株式会社**として設立された。[2006年](../Page/2006年.md "wikilink")1月に**WILLER ALLIANCE株式会社**に変更後、2017年3月1日に現社名に変更すると同時に、本社機能を大阪に移転した\[1\]。
 
-グループ企業の[持株会社](../Page/持株会社.md "wikilink")の役割を果たす他、かつては韓国の大手[バスメーカーである](https://ja.wikipedia.org/wiki/バス_\(車両\) "wikilink")[大宇バス](https://ja.wikipedia.org/wiki/大宇バス "wikilink")の日本での販売代理店を行っており、自社傘下の貸切バス事業者であるWILLER BUS（現:[WILLER EXPRESS西日本](https://ja.wikipedia.org/wiki/WILLER_EXPRESS "wikilink")）に大宇バス製バスを大量導入していた。
+グループ企業の[持株会社](../Page/持株会社.md "wikilink")の役割を果たす他、かつては韓国の大手[バスメーカーである](https://ja.wikipedia.org/wiki/バス_\(車両\) "wikilink")[大宇バス](../Page/大宇バス.md "wikilink")の日本での販売代理店を行っており、自社傘下の貸切バス事業者であるWILLER BUS（現:[WILLER EXPRESS西日本](../Page/WILLER_EXPRESS.md "wikilink")）に大宇バス製バスを大量導入していた。
 
 [2014年](../Page/2014年.md "wikilink")には[北近畿タンゴ鉄道](../Page/北近畿タンゴ鉄道.md "wikilink")の運行を受託するため[WILLER TRAINSを設立した](https://ja.wikipedia.org/wiki/WILLER_TRAINS "wikilink")\[2\]。
 
-[2016年](../Page/2016年.md "wikilink")[4月30日](../Page/4月30日.md "wikilink")に、厨房つきのレストランバスがデビュー。新潟で先行運行されることになったが、本格的な[バス](../Page/バス.md "wikilink")の[食堂車](https://ja.wikipedia.org/wiki/食堂車 "wikilink")は世界初である。
+[2016年](../Page/2016年.md "wikilink")[4月30日](../Page/4月30日.md "wikilink")に、厨房つきのレストランバスがデビュー。新潟で先行運行されることになったが、本格的な[バス](../Page/バス.md "wikilink")の[食堂車](../Page/食堂車.md "wikilink")は世界初である。
 
 ## 沿革
 
@@ -22,9 +22,9 @@
 
 ## グループ企業
 
-  - [WILLER EXPRESS株式会社](https://ja.wikipedia.org/wiki/WILLER_EXPRESS "wikilink")（高速バス事業及び系列バス事業者の統括管理。旧WILLER EXPRESS関東）\[6\]
+  - [WILLER EXPRESS株式会社](../Page/WILLER_EXPRESS.md "wikilink")（高速バス事業及び系列バス事業者の統括管理。旧WILLER EXPRESS関東）\[6\]
       - ニュープリンス高速バス株式会社（同上、[ニュープリンス観光バス](https://ja.wikipedia.org/wiki/ニュープリンス観光バス "wikilink")との合弁企業）
-      - ベイラインエクスプレス株式会社（同上、[中日臨海バス](https://ja.wikipedia.org/wiki/中日臨海バス "wikilink")との合弁企業）
+      - ベイラインエクスプレス株式会社（同上、[中日臨海バス](../Page/中日臨海バス.md "wikilink")との合弁企業）
       - 日本高速バス株式会社（同上、[日本観光](https://ja.wikipedia.org/wiki/日本観光 "wikilink")との合弁企業）
       - 株式会社大阪さやま交通（同上、[さやま交通](https://ja.wikipedia.org/wiki/さやま交通 "wikilink")との合弁企業、2015年11月30日まではWILLER EXPRESS関西株式会社）
   - WILLER損保サービス株式会社（損害保険代理店業）
@@ -40,11 +40,11 @@
 ### かつて存在した企業
 
   - WILLER EXPRESS東日本株式会社（バス事業）
-  - [WILLER TRAVEL株式会社](https://ja.wikipedia.org/wiki/WILLER_TRAVEL "wikilink")（[旅行業](https://ja.wikipedia.org/wiki/旅行業 "wikilink")）
+  - [WILLER TRAVEL株式会社](../Page/WILLER_TRAVEL.md "wikilink")（[旅行業](https://ja.wikipedia.org/wiki/旅行業 "wikilink")）
   - WILLERツーリズム&コンサルティング株式会社（観光コンサルティング事業）
   - WILLER CORPORATION株式会社（地域商社）
-  - [WILLER EXPRESS JAPAN株式会社](https://ja.wikipedia.org/wiki/WILLER_EXPRESS "wikilink")（系列バス事業者の統括管理）
-      - WILLER EXPRESS東北株式会社（バス事業・[南部バス](https://ja.wikipedia.org/wiki/南部バス "wikilink")との合弁企業）
+  - [WILLER EXPRESS JAPAN株式会社](../Page/WILLER_EXPRESS.md "wikilink")（系列バス事業者の統括管理）
+      - WILLER EXPRESS東北株式会社（バス事業・[南部バス](../Page/南部バス.md "wikilink")との合弁企業）
       - WILLER EXPRESS関東株式会社（同上）
       - WILLER EXPRESS北信越株式会社（同上、[アリーナとの合弁企業](https://ja.wikipedia.org/wiki/アリーナ_\(バス\) "wikilink")）
       - WILLER EXPRESS東海株式会社（同上）

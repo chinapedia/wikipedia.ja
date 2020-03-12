@@ -1,31 +1,31 @@
 > この記事は[LOVE \(\)](https://ja.wikipedia.org/wiki/LOVE_\(\))から翻訳されています。
 
 
-**LOVE**（ラヴ、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")[高槻市](https://ja.wikipedia.org/wiki/高槻市 "wikilink")出身。千里国際学園中等部・高等部（SIS）卒業。本名：**中村蕗子**（なかむら ふきこ）。所属事務所はKafkino。
+**LOVE**（ラヴ、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。[大阪府](../Page/大阪府.md "wikilink")[高槻市](../Page/高槻市.md "wikilink")出身。千里国際学園中等部・高等部（SIS）卒業。本名：**中村蕗子**（なかむら ふきこ）。所属事務所はKafkino。
 
 __TOC__{{-}}
 
 ## 概要・人物
 
-[CORE OF SOULの](https://ja.wikipedia.org/wiki/CORE_OF_SOUL "wikilink")[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")を経て、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")に「過ちのサニー」でデビュー。
+[CORE OF SOULの](../Page/CORE_OF_SOUL.md "wikilink")[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")を経て、[2007年](../Page/2007年.md "wikilink")に「過ちのサニー」でデビュー。
 
-アコースティックギターを用い、自らで[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")[作曲](../Page/作曲.md "wikilink")を手掛ける。[1970年代](../Page/1970年代.md "wikilink")の[欧米](../Page/欧米.md "wikilink")[フォークロック](../Page/フォークロック.md "wikilink")と近年の[オルタナティブロックから強い影響を受けており](https://ja.wikipedia.org/wiki/オルタナティブ・ロック "wikilink")、それらを基盤とした楽曲制作を行っている。影響を受けたアーティストには、[ジョニ・ミッチェル](https://ja.wikipedia.org/wiki/ジョニ・ミッチェル "wikilink")、[ローラ・ニーロ](https://ja.wikipedia.org/wiki/ローラ・ニーロ "wikilink")、[トーリ・エイモス](../Page/トーリ・エイモス.md "wikilink")、[サラ・マクラクラン](https://ja.wikipedia.org/wiki/サラ・マクラクラン "wikilink")、[ベン・ハーパー](../Page/ベン・ハーパー.md "wikilink")、[ニルヴァーナ](../Page/ニルヴァーナ_\(アメリカ合衆国のバンド\).md "wikilink")、[レッド・ホット・チリ・ペッパーズ](https://ja.wikipedia.org/wiki/レッド・ホット・チリ・ペッパーズ "wikilink")、[ベック等を挙げている](https://ja.wikipedia.org/wiki/ベック_\(歌手\) "wikilink")。
+アコースティックギターを用い、自らで[作詞](../Page/作詞.md "wikilink")[作曲](../Page/作曲.md "wikilink")を手掛ける。[1970年代](../Page/1970年代.md "wikilink")の[欧米](../Page/欧米.md "wikilink")[フォークロック](../Page/フォークロック.md "wikilink")と近年の[オルタナティブロックから強い影響を受けており](https://ja.wikipedia.org/wiki/オルタナティブ・ロック "wikilink")、それらを基盤とした楽曲制作を行っている。影響を受けたアーティストには、[ジョニ・ミッチェル](../Page/ジョニ・ミッチェル.md "wikilink")、[ローラ・ニーロ](../Page/ローラ・ニーロ.md "wikilink")、[トーリ・エイモス](../Page/トーリ・エイモス.md "wikilink")、[サラ・マクラクラン](../Page/サラ・マクラクラン.md "wikilink")、[ベン・ハーパー](../Page/ベン・ハーパー.md "wikilink")、[ニルヴァーナ](../Page/ニルヴァーナ_\(アメリカ合衆国のバンド\).md "wikilink")、[レッド・ホット・チリ・ペッパーズ](../Page/レッド・ホット・チリ・ペッパーズ.md "wikilink")、[ベック等を挙げている](../Page/ベック_\(歌手\).md "wikilink")。
 
 中学・高校時代をインターナショナルスクールで過ごしたため、英語が堪能である。
 
 ## 略歴
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、高校在学中にCORE OF SOULを結成。[2001年](../Page/2001年.md "wikilink")に[東芝EMIよりシングル](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")「Photosynthesis」で[メジャーデビューし](https://ja.wikipedia.org/wiki/メジャー・デビュー_\(音楽家\) "wikilink")、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に[バンドを解散した](../Page/バンド_\(音楽\).md "wikilink")。当時の活動については[CORE OF SOULの項目を参照のこと](https://ja.wikipedia.org/wiki/CORE_OF_SOUL "wikilink")。
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、高校在学中にCORE OF SOULを結成。[2001年](../Page/2001年.md "wikilink")に[東芝EMIよりシングル](../Page/EMIミュージック・ジャパン.md "wikilink")「Photosynthesis」で[メジャーデビューし](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")、[2006年](../Page/2006年.md "wikilink")に[バンドを解散した](../Page/バンド_\(音楽\).md "wikilink")。当時の活動については[CORE OF SOULの項目を参照のこと](../Page/CORE_OF_SOUL.md "wikilink")。
 
 バンド解散後はソロ活動へ転向。2006年秋より、主にライブハウスを中心に音楽活動を展開する。
 
-2007年[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")、[DCT recordsより配信限定シングル](https://ja.wikipedia.org/wiki/DCT_records "wikilink")「過ちのサニー」でデビュー。夏には[DREAMS COME TRUEのライブツアー](../Page/DREAMS_COME_TRUE.md "wikilink")『DREAMS COME TRUE WONDERLAND 2007』のバッキングボーカルオーディションに合格し、公演に参加した。[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")には初のソロアルバム『Embryo Love Songs』も発表し、翌[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月にはアルバムリリース記念として[東名阪](https://ja.wikipedia.org/wiki/三大都市圏 "wikilink")3公演で初のワンマンライブ『Embryo Love Songs Live 2008』を行った。
+2007年[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")、[DCT recordsより配信限定シングル](../Page/DCT_records.md "wikilink")「過ちのサニー」でデビュー。夏には[DREAMS COME TRUEのライブツアー](../Page/DREAMS_COME_TRUE.md "wikilink")『DREAMS COME TRUE WONDERLAND 2007』のバッキングボーカルオーディションに合格し、公演に参加した。[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")には初のソロアルバム『Embryo Love Songs』も発表し、翌[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月にはアルバムリリース記念として[東名阪](https://ja.wikipedia.org/wiki/三大都市圏 "wikilink")3公演で初のワンマンライブ『Embryo Love Songs Live 2008』を行った。
 
 ラジオパーソナリティとしても活動し、[TOKYO FMや](../Page/エフエム東京.md "wikilink")[FM OH](../Page/エフエム大阪.md "wikilink")\!のワイド番組を担当している。
 
 [2012年](../Page/2012年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")、DCT recordsとの契約解除が発表された。現在は自主レーベルよりCD・DVDをリリースしている。
 
-2013年10月、[TOKIE](https://ja.wikipedia.org/wiki/TOKIE "wikilink")、[山口美代子](https://ja.wikipedia.org/wiki/山口美代子 "wikilink")（DETROITSEVEN）と新バンドTHE LIPSMAXを結成した。
+2013年10月、[TOKIE](../Page/TOKIE.md "wikilink")、[山口美代子](https://ja.wikipedia.org/wiki/山口美代子 "wikilink")（DETROITSEVEN）と新バンドTHE LIPSMAXを結成した。
 
 2014年3月、5枚目のアルバム「FORTUNE LADY」発売。
 
@@ -55,7 +55,7 @@ __TOC__{{-}}
 7.  Trigger -LIVE@Shibuya 2008-（2008年[10月10日](../Page/10月10日.md "wikilink")配信開始）
 8.  ツリーを飾ろう -LIVE@Shibuya 2008-（2008年[11月11日](../Page/11月11日.md "wikilink")配信開始）
 9.  Life Like A Tree 〜あすなろ〜 -LIVE@Shibuya 2008-（2008年[12月12日](../Page/12月12日.md "wikilink")配信開始）
-10. Cross The River -LIVE@Shibuya 2008-（[2009年](../Page/2009年.md "wikilink")[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink")配信開始）
+10. Cross The River -LIVE@Shibuya 2008-（[2009年](../Page/2009年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")配信開始）
 11. Sick And Tired -Live@Shibuya 2008-（2009年[2月2日](../Page/2月2日.md "wikilink")配信開始）
 12. 過ちのサニー -Live@Shibuya 2008-（2009年[3月3日](../Page/3月3日.md "wikilink")配信開始）
 13. ALWAYS NEW AGE（2012年[8月1日](../Page/8月1日.md "wikilink")配信開始）
@@ -78,7 +78,7 @@ __TOC__{{-}}
 
 ### 参加作品
 
-  - [Jazztronik](https://ja.wikipedia.org/wiki/Jazztronik "wikilink")『MADRUGADA/TIGER EYES』（2004年11月3日）
+  - [Jazztronik](../Page/Jazztronik.md "wikilink")『MADRUGADA/TIGER EYES』（2004年11月3日）
       - M-2「TIGER EYES」収録（ゲストボーカル）
   - DCT records "PIZZA"（2007年[5月16日](../Page/5月16日.md "wikilink")）
       - M-1「過ちのサニー」収録
@@ -90,7 +90,7 @@ __TOC__{{-}}
 ### 単独ライブ
 
   - Embryo Love Songs Live 2008 （2008年3月4日-15日、東名阪3公演）
-      - 同年5月15日に[SHIBUYA BOXXで同タイトルのシューティングライブを開催](https://ja.wikipedia.org/wiki/SHIBUYA_BOXX "wikilink")。
+      - 同年5月15日に[SHIBUYA BOXXで同タイトルのシューティングライブを開催](../Page/SHIBUYA_BOXX.md "wikilink")。
   - Confetti Love Songs Live 2009 （2009年3月8日-15日、東名阪3公演）
   - LOVE Live 2010 （2010年3月6日-14日、東名阪3公演）
   - 夜LOVEやねんLIVE （2010年9月23日、渋谷シアターTSUTAYA）
@@ -118,14 +118,14 @@ __TOC__{{-}}
 
   - 2009年
       - 第1回「摩季さんのポジティブパワーを吸い取るDAY」（6月21日、ゲスト：[大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")）
-      - 第2回「愛のビタミンを補給するDAY」（7月26日、ゲスト：[山本シュウ](https://ja.wikipedia.org/wiki/山本シュウ "wikilink")）
+      - 第2回「愛のビタミンを補給するDAY」（7月26日、ゲスト：[山本シュウ](../Page/山本シュウ.md "wikilink")）
       - 第3回「もしも僕たちの街にオーロラが現れたら、、、いい夢見れそうやDAY！」（8月23日、ゲスト：[古賀祐三](https://ja.wikipedia.org/wiki/古賀祐三 "wikilink")）
       - 第4回「何気なかった現実が、特別な現実になるDAY」（9月27日、ゲスト：山我祐生（フォトジャーナリスト））
-      - 第5回「未来を想像するDAY」（10月25日、ゲスト：[手塚眞](https://ja.wikipedia.org/wiki/手塚眞 "wikilink")）
-      - 第6回「日本の伝統を受け継ぐ心意気を学ぶDAY」（11月22日、ゲスト：[天野安喜子](https://ja.wikipedia.org/wiki/天野安喜子 "wikilink")）
+      - 第5回「未来を想像するDAY」（10月25日、ゲスト：[手塚眞](../Page/手塚眞.md "wikilink")）
+      - 第6回「日本の伝統を受け継ぐ心意気を学ぶDAY」（11月22日、ゲスト：[天野安喜子](../Page/天野安喜子.md "wikilink")）
       - 第7回「今年に感謝していい年を迎えるDAY」（12月27日、総集編のためトークゲストは無し）
   - 2010年
-      - 第8回「東京プリン牧野さん流『和み』のココロをたしなむDAY\!」（1月24日、ゲスト：牧野隆志（[東京プリン](https://ja.wikipedia.org/wiki/東京プリン "wikilink")））
+      - 第8回「東京プリン牧野さん流『和み』のココロをたしなむDAY\!」（1月24日、ゲスト：牧野隆志（[東京プリン](../Page/東京プリン.md "wikilink")））
       - 第9回「想いを字にしたためるのも大事やDAY\!」（2月28日、ゲスト：美帆（女流書家））
       - 第10回「吹くならホラよりハーモニカやDAY\!」（3月28日、ゲスト：田中光栄（ハーモニカ奏者））
       - 第11回「検査は笑顔のためやDAY\!」（4月25日、ゲスト：小巻亜矢（NPO法人ハロードリーム実行委員会代表理事））
@@ -134,37 +134,37 @@ __TOC__{{-}}
 ### LOVE VOYAGE TOUR
 
   - 2011年
-      - [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")（4月16日、[タワーレコード](../Page/タワーレコード.md "wikilink")福岡店内イベントスペース）
-      - [兵庫県](../Page/兵庫県.md "wikilink")（4月29日、[阪急西宮ガーデンズ](https://ja.wikipedia.org/wiki/阪急西宮ガーデンズ "wikilink") 4Fスカイガーデン）
-      - [大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")（4月29日、タワーレコード梅田[NU茶屋町](https://ja.wikipedia.org/wiki/NU茶屋町 "wikilink")店 イベントスペース）
-      - [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")（5月3日、[東京ミッドタウン](https://ja.wikipedia.org/wiki/東京ミッドタウン "wikilink")芝生広場； 5月6日、TSUTAYA TOKYO ROPPONGI）
-      - [岐阜県](../Page/岐阜県.md "wikilink")（5月21日、[モレラ岐阜](https://ja.wikipedia.org/wiki/モレラ岐阜 "wikilink")）
+      - [福岡県](../Page/福岡県.md "wikilink")（4月16日、[タワーレコード](../Page/タワーレコード.md "wikilink")福岡店内イベントスペース）
+      - [兵庫県](../Page/兵庫県.md "wikilink")（4月29日、[阪急西宮ガーデンズ](../Page/阪急西宮ガーデンズ.md "wikilink") 4Fスカイガーデン）
+      - [大阪府](../Page/大阪府.md "wikilink")（4月29日、タワーレコード梅田[NU茶屋町](../Page/NU茶屋町.md "wikilink")店 イベントスペース）
+      - [東京都](../Page/東京都.md "wikilink")（5月3日、[東京ミッドタウン](../Page/東京ミッドタウン.md "wikilink")芝生広場； 5月6日、TSUTAYA TOKYO ROPPONGI）
+      - [岐阜県](../Page/岐阜県.md "wikilink")（5月21日、[モレラ岐阜](../Page/モレラ岐阜.md "wikilink")）
       - [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")（5月22日、[中部国際空港](../Page/中部国際空港.md "wikilink")4Fイベントプラザ）
-      - [広島県](../Page/広島県.md "wikilink")（5月28日、[サンモール](https://ja.wikipedia.org/wiki/サンモール "wikilink")[Y人Y（ワイワイワイ）スタジオ](https://ja.wikipedia.org/wiki/広島エフエム放送#Y人Yスタジオ "wikilink")）
-      - [愛媛県](../Page/愛媛県.md "wikilink")（5月29日、[エミフルMASAKI](https://ja.wikipedia.org/wiki/エミフルMASAKI "wikilink")エミモール1階グリーンコート）
-      - [高知県](../Page/高知県.md "wikilink")（6月11日、[中土佐町](https://ja.wikipedia.org/wiki/中土佐町 "wikilink")町民交流会館）
+      - [広島県](../Page/広島県.md "wikilink")（5月28日、[サンモール](../Page/サンモール.md "wikilink")[Y人Y（ワイワイワイ）スタジオ](https://ja.wikipedia.org/wiki/広島エフエム放送#Y人Yスタジオ "wikilink")）
+      - [愛媛県](../Page/愛媛県.md "wikilink")（5月29日、[エミフルMASAKI](../Page/エミフルMASAKI.md "wikilink")エミモール1階グリーンコート）
+      - [高知県](../Page/高知県.md "wikilink")（6月11日、[中土佐町](../Page/中土佐町.md "wikilink")町民交流会館）
       - [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")（6月27日、逗子海岸特設ライブハウスOTODAMA SEA STUDIO）
-      - [鹿児島県](https://ja.wikipedia.org/wiki/鹿児島県 "wikilink")（8月6日、[イオン鹿児島ショッピングセンター風の広場](../Page/イオンモール鹿児島.md "wikilink")；9月24日、[アミュプラザ鹿児島](https://ja.wikipedia.org/wiki/アミュプラザ鹿児島 "wikilink")AMU広場）
+      - [鹿児島県](../Page/鹿児島県.md "wikilink")（8月6日、[イオン鹿児島ショッピングセンター風の広場](../Page/イオンモール鹿児島.md "wikilink")；9月24日、[アミュプラザ鹿児島](https://ja.wikipedia.org/wiki/アミュプラザ鹿児島 "wikilink")AMU広場）
       - [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")（8月7日、蔦屋書店熊本三年坂モリコーネテラス）
       - [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")（9月4日、Studio HooK 一番町店）
       - [滋賀県](../Page/滋賀県.md "wikilink")（9月11日、[三井アウトレットパーク滋賀竜王](https://ja.wikipedia.org/wiki/三井アウトレットパーク滋賀竜王 "wikilink")イベントステージ）
-      - [長崎県](../Page/長崎県.md "wikilink")（9月25日、[アミュプラザ長崎](https://ja.wikipedia.org/wiki/アミュプラザ長崎 "wikilink")かもめ広場）
+      - [長崎県](../Page/長崎県.md "wikilink")（9月25日、[アミュプラザ長崎](../Page/アミュプラザ長崎.md "wikilink")かもめ広場）
       - [群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")（10月16日、[高崎駅](https://ja.wikipedia.org/wiki/高崎駅 "wikilink")西口前特設屋外ステージ（高崎音楽祭））
   - 2012年
-      - [福島県](../Page/福島県.md "wikilink")（3月24日、[福島空港](https://ja.wikipedia.org/wiki/福島空港 "wikilink")国内線出発ラウンジ）
+      - [福島県](../Page/福島県.md "wikilink")（3月24日、[福島空港](../Page/福島空港.md "wikilink")国内線出発ラウンジ）
       - [石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")（4月14日、金沢MILLION CITY（[中澤信栄](https://ja.wikipedia.org/wiki/中澤信栄 "wikilink")のライブにゲスト出演））
-      - [富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")（4月15日、[イオンモール高岡](https://ja.wikipedia.org/wiki/イオンモール高岡 "wikilink") セントラルコート）
-      - [千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")（6月3日、[柏](https://ja.wikipedia.org/wiki/柏 "wikilink")Cafe Line）
-      - [奈良県](https://ja.wikipedia.org/wiki/奈良県 "wikilink")（7月7日、カレー屋マナビアン）
+      - [富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")（4月15日、[イオンモール高岡](../Page/イオンモール高岡.md "wikilink") セントラルコート）
+      - [千葉県](../Page/千葉県.md "wikilink")（6月3日、[柏](https://ja.wikipedia.org/wiki/柏 "wikilink")Cafe Line）
+      - [奈良県](../Page/奈良県.md "wikilink")（7月7日、カレー屋マナビアン）
       - [岩手県](../Page/岩手県.md "wikilink")（8月11日、大槌北小学校特設ステージ（LIGHT UP NIPPON 2012））
-      - [京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")（9月8日、SOLE CAFE）
-      - [茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")（11月17日、[つくば駅](https://ja.wikipedia.org/wiki/つくば駅 "wikilink")ロータリー脇空き地（つくば光の森2012））
-      - [山形県](https://ja.wikipedia.org/wiki/山形県 "wikilink")（12月2日、ふくしまこども未来広場）
+      - [京都府](../Page/京都府.md "wikilink")（9月8日、SOLE CAFE）
+      - [茨城県](../Page/茨城県.md "wikilink")（11月17日、[つくば駅](https://ja.wikipedia.org/wiki/つくば駅 "wikilink")ロータリー脇空き地（つくば光の森2012））
+      - [山形県](../Page/山形県.md "wikilink")（12月2日、ふくしまこども未来広場）
   - 2013年
-      - [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")（2月16日、[HMV](../Page/HMV.md "wikilink")[ステラプレイス](https://ja.wikipedia.org/wiki/札幌ステラプレイス "wikilink")）
+      - [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")（2月16日、[HMV](../Page/HMV.md "wikilink")[ステラプレイス](../Page/札幌ステラプレイス.md "wikilink")）
       - [青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")（5月4日、肴ダイニング心）
-      - [栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")（5月11日、悠日カフェ（[露崎春女](https://ja.wikipedia.org/wiki/露崎春女 "wikilink")ライブにゲスト出演））
-      - [新潟県](../Page/新潟県.md "wikilink")（5月18日、[赤倉温泉ふるや旅館前](https://ja.wikipedia.org/wiki/赤倉温泉_\(新潟県\) "wikilink")（「食の嵐」 in 妙高））
+      - [栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")（5月11日、悠日カフェ（[露崎春女](../Page/露崎春女.md "wikilink")ライブにゲスト出演））
+      - [新潟県](../Page/新潟県.md "wikilink")（5月18日、[赤倉温泉ふるや旅館前](../Page/赤倉温泉_\(新潟県\).md "wikilink")（「食の嵐」 in 妙高））
       - [佐賀県](../Page/佐賀県.md "wikilink")（6月8日、SAGA Rock Ride）
       - [宮崎県](../Page/宮崎県.md "wikilink")（6月9日、NEW RETORO CLUB）
 
@@ -192,14 +192,14 @@ __TOC__{{-}}
       - WINTER FANTASIA 2008 〜 DCTgarden "THE LIVE\!\!\!"（11月-12月、全国6都市9公演。DREAMS COME TRUEと共演）
   - 2009年
       - SWEET GREEN GIRL'S LIVE 〜 SWEET COLLECTION 〜（3月27日、札幌KRAPS HALL）
-      - RED RIBBON LIVE 2009 Spring 〜HIV検査に行こう！〜（5月31日、[SHIBUYA-AX](https://ja.wikipedia.org/wiki/SHIBUYA-AX "wikilink")）
+      - RED RIBBON LIVE 2009 Spring 〜HIV検査に行こう！〜（5月31日、[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")）
       - 音霊 OTODAMA SEA STUDIO 2009（7月15日、逗子海岸特設ライブハウスOTODAMA SEA STUDIO）
       - SAKURA release party "Real Love"（9月6日、大阪[BIG CAT](https://ja.wikipedia.org/wiki/BIG_CAT "wikilink")）
       - [サンシャイン60](../Page/サンシャイン60.md "wikilink")展望台×OTODAMA OTODAMA SKY STUDIO SPECIAL ANNIVERPARY LIVE（10月4日、サンシャイン60展望台）
-      - Thanksgiving to Mother Earth 森への恩返しコンサート（10月11日、[愛・地球博記念公園](https://ja.wikipedia.org/wiki/愛・地球博記念公園 "wikilink")）
+      - Thanksgiving to Mother Earth 森への恩返しコンサート（10月11日、[愛・地球博記念公園](../Page/愛・地球博記念公園.md "wikilink")）
       - WINTER FANTASIA 2009 〜 DCTgarden "THE LIVE\!\!\!"（12月、全国6都市6公演。DREAMS COME TRUE他、DCT RECORDSのアーティストと共演）
       - [BRIGHT](https://ja.wikipedia.org/wiki/BRIGHT_\(ダンスボーカルグループ\) "wikilink") Soul Playground Christmas Party（12月23日、[渋谷クラブクアトロ](https://ja.wikipedia.org/wiki/クラブクアトロ#渋谷CLUB_QUATTRO "wikilink")）
-      - けやきひろばクリスマスコンサート（12月24日、[さいたま新都心](../Page/さいたま新都心.md "wikilink")[けやきひろば](https://ja.wikipedia.org/wiki/けやきひろば "wikilink")）
+      - けやきひろばクリスマスコンサート（12月24日、[さいたま新都心](../Page/さいたま新都心.md "wikilink")[けやきひろば](../Page/けやきひろば.md "wikilink")）
   - 2010年
       - Hellosmile Live 2010（4月9日、[JCBホール](https://ja.wikipedia.org/wiki/ミーツポート#JCBホール "wikilink")）
       - [FM OSAKA開局](https://ja.wikipedia.org/wiki/FM_OSAKA "wikilink")40周年記念プレミアム e∞Tracks Live＠大阪城ホール feat.ビッグバンドナイト（5月29日、[大阪城ホール](../Page/大阪城ホール.md "wikilink")）
@@ -209,14 +209,14 @@ __TOC__{{-}}
       - [メ〜テレ秋祭り](../Page/名古屋テレビ放送.md "wikilink") [BOMBER-E](https://ja.wikipedia.org/wiki/メ〜テレライブ_BOMBER-E "wikilink") 秋祭りSP（9月25日、久屋大通公園久屋広場特設ステージ）
       - WOW FES\! 2010 "WOW FES\! × TOKYO FM LOVE CONNECTION"（10月23日、東京ミッドタウンキャノピー・スクエア）
       - 2010 [GLAMOROUS](https://ja.wikipedia.org/wiki/GLAMOROUS "wikilink") NIGHT EVOLUTION（11月2日、JCBホール）
-      - Hellosmile presents [後藤真希](https://ja.wikipedia.org/wiki/後藤真希 "wikilink")＆LOVE TALK LIVE SHOW in 清泉（11月6日、[清泉女子大学](https://ja.wikipedia.org/wiki/清泉女子大学 "wikilink")講堂）
-      - marunouchi oazo Special Talk & Live Events "LOVE sings CHRISTMAS LIVE"（12月4日、[丸の内オアゾ](https://ja.wikipedia.org/wiki/丸の内オアゾ "wikilink")○○広場）
-      - 「中之島にぎわいの森づくり」×DREAMS COME TRUE WINTER FANTASIA 2010 〜LOVE CENTRAL〜（12月5日、大阪中之島・[八軒家浜屋外エリア](https://ja.wikipedia.org/wiki/八軒家船着場 "wikilink")）
+      - Hellosmile presents [後藤真希](https://ja.wikipedia.org/wiki/後藤真希 "wikilink")＆LOVE TALK LIVE SHOW in 清泉（11月6日、[清泉女子大学](../Page/清泉女子大学.md "wikilink")講堂）
+      - marunouchi oazo Special Talk & Live Events "LOVE sings CHRISTMAS LIVE"（12月4日、[丸の内オアゾ](../Page/丸の内オアゾ.md "wikilink")○○広場）
+      - 「中之島にぎわいの森づくり」×DREAMS COME TRUE WINTER FANTASIA 2010 〜LOVE CENTRAL〜（12月5日、大阪中之島・[八軒家浜屋外エリア](../Page/八軒家船着場.md "wikilink")）
       - WINTER FANTASIA 2010 〜 DCTgarden "THE LIVE\!\!\!"（12月、全国5都市5公演のうち、福岡・横浜・大阪の3公演に参加）
       - 日本橋STYLE Vol.1 BALLADS（12月29日、[日本橋三井ホール](https://ja.wikipedia.org/wiki/室町東三井ビルディング#COREDO室町 "wikilink")）
   - 2011年
-      - SDD TOWN MEETING@阪急三番街（2月5日、[阪急三番街](https://ja.wikipedia.org/wiki/阪急三番街 "wikilink")北館B2F水上ステージ）
-      - ROOTOTE Charity Event チャリティライブ（3月10日、[表参道ヒルズ](https://ja.wikipedia.org/wiki/表参道ヒルズ "wikilink")本館吹抜け大階段）
+      - SDD TOWN MEETING@阪急三番街（2月5日、[阪急三番街](../Page/阪急三番街.md "wikilink")北館B2F水上ステージ）
+      - ROOTOTE Charity Event チャリティライブ（3月10日、[表参道ヒルズ](../Page/表参道ヒルズ.md "wikilink")本館吹抜け大階段）
       - マイロックンロール50（7月6日、[LIQUIDROOM](https://ja.wikipedia.org/wiki/LIQUIDROOM "wikilink")）
       - [indigo blue](https://ja.wikipedia.org/wiki/indigo_blue "wikilink") Unplugged LIVE feat. LOVE（7月7日、音楽実験室 新世界）
       - Heart Beat Rockers（9月18日、[WOMB](https://ja.wikipedia.org/wiki/WOMB "wikilink")）
@@ -242,7 +242,7 @@ __TOC__{{-}}
 ### ラジオ
 
   - LOVEの月の裏がわ研究所（「[The Nutty Radio Show 鬼玉](https://ja.wikipedia.org/wiki/The_Nutty_Radio_Show_鬼玉 "wikilink")」内のアーティストコーナー）（[NACK5](../Page/エフエムナックファイブ.md "wikilink")、2009年1月 - 3月）
-  - [電気事業連合会 presents エレクトリカルサタデーナイト「中村正人の夜は庭イヂリ」](https://ja.wikipedia.org/wiki/中村正人の夜は庭イヂリ "wikilink") （[JFN](https://ja.wikipedia.org/wiki/全国FM放送協議会 "wikilink")38局フルネット、2009年4月から同年12月までアシスタントDJ）
+  - [電気事業連合会 presents エレクトリカルサタデーナイト「中村正人の夜は庭イヂリ」](https://ja.wikipedia.org/wiki/中村正人の夜は庭イヂリ "wikilink") （[JFN](../Page/全国FM放送協議会.md "wikilink")38局フルネット、2009年4月から同年12月までアシスタントDJ）
   - LOVE CONNECTION（TOKYO FM・FM OH\!、2010年4月 - ）
   - LOVE RADIO（FM OH\!、2011年4月 - 2014年9月）
   - [綾小路 翔とLOVEのKUSO](https://ja.wikipedia.org/wiki/氣志團#メンバー "wikilink") RADIO（TOKYO FM、2013年4月 - 2013年9月）

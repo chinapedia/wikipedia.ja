@@ -1,12 +1,12 @@
 > この記事は[Dropz](https://ja.wikipedia.org/wiki/Dropz)から翻訳されています。
 
 
-**dropz**（ドロップス）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のバンド、[BUCK-TICK](https://ja.wikipedia.org/wiki/BUCK-TICK "wikilink")の**[星野英彦](https://ja.wikipedia.org/wiki/星野英彦 "wikilink")**による[ソロプロジェクト](https://ja.wikipedia.org/wiki/ソロプロジェクト "wikilink")である。2004年からスタートし、2007年[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")よりデビュー。
+**dropz**（ドロップス）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のバンド、[BUCK-TICK](../Page/BUCK-TICK.md "wikilink")の**[星野英彦](../Page/星野英彦.md "wikilink")**による[ソロプロジェクト](https://ja.wikipedia.org/wiki/ソロプロジェクト "wikilink")である。2004年からスタートし、2007年[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")よりデビュー。
 
 ## メンバー
 
-  - **[星野英彦](https://ja.wikipedia.org/wiki/星野英彦 "wikilink")**（ほしのひでひこ）ギター・プログラミング・キーボード
-  - **[CUBE JUICE](https://ja.wikipedia.org/wiki/CUBE_JUICE "wikilink")**（キューブ・ジュース）プログラミング・エレクトロ
+  - **[星野英彦](../Page/星野英彦.md "wikilink")**（ほしのひでひこ）ギター・プログラミング・キーボード
+  - **[CUBE JUICE](../Page/CUBE_JUICE.md "wikilink")**（キューブ・ジュース）プログラミング・エレクトロ
   - **[KELLI ALI](https://ja.wikipedia.org/wiki/w:Kelli_Ali "wikilink")**（ケリー・アリ）ボーカル。[スニーカー・ピンプスの初代ヴォーカリスト](https://ja.wikipedia.org/wiki/w:Sneaker_Pimps "wikilink")
 
 ## ディスコグラフィー
@@ -45,7 +45,7 @@
 
 ## 関連項目
 
-  - [BUCK-TICK](https://ja.wikipedia.org/wiki/BUCK-TICK "wikilink")
+  - [BUCK-TICK](../Page/BUCK-TICK.md "wikilink")
 
 ## 外部リンク
 

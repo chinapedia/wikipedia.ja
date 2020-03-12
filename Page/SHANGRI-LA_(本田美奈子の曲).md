@@ -18,7 +18,7 @@
         森本沙夜子 (\#2)
   - 作曲
       -
-        [中崎英也](https://ja.wikipedia.org/wiki/中崎英也 "wikilink") (\#1)
+        [中崎英也](../Page/中崎英也.md "wikilink") (\#1)
         和泉常寛 (\#2)
   - 編曲
       -
@@ -29,14 +29,14 @@
 
   - SHANGRI-LA
       -
-        [ANGEL VOICE 〜本田美奈子.メモリアル・ベスト〜](../Page/ANGEL_VOICE_〜本田美奈子.メモリアル・ベスト〜.md "wikilink") （[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月18日](../Page/4月18日.md "wikilink")）
+        [ANGEL VOICE 〜本田美奈子.メモリアル・ベスト〜](../Page/ANGEL_VOICE_〜本田美奈子.メモリアル・ベスト〜.md "wikilink") （[2007年](../Page/2007年.md "wikilink")[4月18日](../Page/4月18日.md "wikilink")）
   - I〜私のままで
       -
         ANGEL VOICE 〜本田美奈子.メモリアル・ベスト〜 （2007年4月18日）
 
 ## TV
 
-  - [スーパージョッキー](https://ja.wikipedia.org/wiki/スーパージョッキー "wikilink")
+  - [スーパージョッキー](../Page/スーパージョッキー.md "wikilink")
   - [ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")
   - [ミュージックフェア](../Page/ミュージックフェア.md "wikilink")
   - [夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink")

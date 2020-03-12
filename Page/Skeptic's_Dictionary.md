@@ -21,7 +21,7 @@
   - [超自然現象](https://ja.wikipedia.org/wiki/超自然現象 "wikilink")、[超常現象](../Page/超常現象.md "wikilink")
   - [偽医療](../Page/偽医療.md "wikilink")
   - [ニュー・エイジ](https://ja.wikipedia.org/wiki/ニュー・エイジ "wikilink")
-  - [捏造](https://ja.wikipedia.org/wiki/捏造 "wikilink")、[詐欺](https://ja.wikipedia.org/wiki/詐欺 "wikilink")
+  - [捏造](https://ja.wikipedia.org/wiki/捏造 "wikilink")、[詐欺](../Page/詐欺.md "wikilink")
   - [論理学](../Page/論理学.md "wikilink")、[認識論](../Page/認識論.md "wikilink")
 
 ## 参考文献
@@ -40,5 +40,5 @@
 
 1.
 2.  Skeptic's Dictionary 内のページ [PREFACE](http://skepdic.com/preface.html)より。最終アクセス日2007年5月7日。
-3.  原著にはロバート・キャロルによる、資料の誤読や混同、[確証バイアス](https://ja.wikipedia.org/wiki/確証バイアス "wikilink")などによる誤った記述などが見られるが、翻訳版では訳注でこれらの点の訂正や補足が行われている。
+3.  原著にはロバート・キャロルによる、資料の誤読や混同、[確証バイアス](../Page/確証バイアス.md "wikilink")などによる誤った記述などが見られるが、翻訳版では訳注でこれらの点の訂正や補足が行われている。
 4.

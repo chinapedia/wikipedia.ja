@@ -1,11 +1,11 @@
 > この記事は[ANA](https://ja.wikipedia.org/wiki/ANA)から翻訳されています。
 
 
-**ANAオープンゴルフトーナメント**（エイエヌエイ オープンゴルフトーナメント）は毎年[9月](../Page/9月.md "wikilink")第3週に行われる[全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")（ANA）の主催、[日本ゴルフツアー機構](https://ja.wikipedia.org/wiki/日本ゴルフツアー機構 "wikilink")（JGTO）公認の男子プロ[ゴルフ](../Page/ゴルフ.md "wikilink")[トーナメントの](../Page/トーナメント方式.md "wikilink")1つであり、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[北広島市](../Page/北広島市.md "wikilink")にある[札幌ゴルフ倶楽部](https://ja.wikipedia.org/wiki/札幌ゴルフ倶楽部 "wikilink")輪厚（わっつ）コースを舞台にして行われている。[2019年](../Page/2019年.md "wikilink")現在、賞金総額1億1000万円、優勝賞金2200万円\[1\]。
+**ANAオープンゴルフトーナメント**（エイエヌエイ オープンゴルフトーナメント）は毎年[9月](../Page/9月.md "wikilink")第3週に行われる[全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")（ANA）の主催、[日本ゴルフツアー機構](../Page/日本ゴルフツアー機構.md "wikilink")（JGTO）公認の男子プロ[ゴルフ](../Page/ゴルフ.md "wikilink")[トーナメントの](../Page/トーナメント方式.md "wikilink")1つであり、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[北広島市](../Page/北広島市.md "wikilink")にある[札幌ゴルフ倶楽部](https://ja.wikipedia.org/wiki/札幌ゴルフ倶楽部 "wikilink")輪厚（わっつ）コースを舞台にして行われている。[2019年](../Page/2019年.md "wikilink")現在、賞金総額1億1000万円、優勝賞金2200万円\[1\]。
 
 ## 大会の歴史
 
-  - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")に[札幌テレビ放送](https://ja.wikipedia.org/wiki/札幌テレビ放送 "wikilink") (STV) および開催コースの札幌ゴルフ倶楽部の共催により3日間競技による「STVカップ札幌オープンゴルフトーナメント」としてスタート。[1973年](../Page/1973年.md "wikilink")からは全日本空輸が新たな[スポンサー](https://ja.wikipedia.org/wiki/スポンサー "wikilink")となり、「全日空札幌オープンゴルフトーナメント」として生まれ変わり、大会も4日間競技となった。その後「全日空オープンゴルフトーナメント」（1986年から）の名称を経て2002年から現在の大会名となっている\[2\]。
+  - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")に[札幌テレビ放送](../Page/札幌テレビ放送.md "wikilink") (STV) および開催コースの札幌ゴルフ倶楽部の共催により3日間競技による「STVカップ札幌オープンゴルフトーナメント」としてスタート。[1973年](../Page/1973年.md "wikilink")からは全日本空輸が新たな[スポンサー](../Page/スポンサー.md "wikilink")となり、「全日空札幌オープンゴルフトーナメント」として生まれ変わり、大会も4日間競技となった。その後「全日空オープンゴルフトーナメント」（1986年から）の名称を経て2002年から現在の大会名となっている\[2\]。
   - 2018年大会は[北海道胆振東部地震](https://ja.wikipedia.org/wiki/北海道胆振東部地震 "wikilink")の影響により中止され\[3\]、主催のANAは賞金の一部を被災地支援として使うとの声明を発表した。
   - 2019年大会は例年の開催週に[ラグビーワールドカップの試合が](../Page/ラグビーワールドカップ2019.md "wikilink")[札幌ドーム](../Page/札幌ドーム.md "wikilink")で行われることからインフラへの影響を考慮し、開催時期を1週間繰り上げる処置を行った\[4\]。
 
@@ -94,15 +94,15 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
 <td><p>第34回</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/近藤智弘" title="wikilink">近藤智弘</a></p></td>
+<td><p><a href="../Page/近藤智弘.md" title="wikilink">近藤智弘</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
 <td><p>第33回</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/深堀圭一郎" title="wikilink">深堀圭一郎</a></p></td>
+<td><p><a href="../Page/深堀圭一郎.md" title="wikilink">深堀圭一郎</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -138,7 +138,7 @@
 <tr class="even">
 <td><p><a href="../Page/1999年.md" title="wikilink">1999年</a></p></td>
 <td><p>第27回</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/細川和彦" title="wikilink">細川和彦</a></p></td>
+<td><p><a href="../Page/細川和彦.md" title="wikilink">細川和彦</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -150,7 +150,7 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1997年" title="wikilink">1997年</a></p></td>
 <td><p>第25回</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/横田真一" title="wikilink">横田真一</a></p></td>
+<td><p><a href="../Page/横田真一.md" title="wikilink">横田真一</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -204,14 +204,14 @@
 <tr class="odd">
 <td><p><a href="../Page/1988年.md" title="wikilink">1988年</a></p></td>
 <td><p>第16回</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/尾崎直道" title="wikilink">尾崎直道</a></p></td>
+<td><p><a href="../Page/尾崎直道.md" title="wikilink">尾崎直道</a></p></td>
 <td><p>札幌ゴルフ倶楽部由仁コース<br />
 （7,031ヤード、パー72）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1987年" title="wikilink">1987年</a></p></td>
 <td><p>第15回</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/青木功" title="wikilink">青木功</a></p></td>
+<td><p><a href="../Page/青木功.md" title="wikilink">青木功</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -306,8 +306,8 @@
 
 ## テレビ放送
 
-  - テレビ中継は札幌テレビを制作局として、[日本テレビ系列（NNS）全国ネットで録画放送されている](../Page/日本テレビネットワーク協議会.md "wikilink")。3日目は[NNS加盟局のうち](../Page/日本テレビネットワーク協議会.md "wikilink")[マストバイ局](https://ja.wikipedia.org/wiki/フルネット "wikilink")22局で、また最終日は22局および[高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")（NNS非マストバイ局）・[テレビ大分](../Page/テレビ大分.md "wikilink")（NNS非マストバイ局、日本テレビ系列・[フジテレビ系列のクロスネット局](../Page/フジネットワーク.md "wikilink")）・[琉球放送](https://ja.wikipedia.org/wiki/琉球放送 "wikilink")（[TBS系列局](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")）の合計25局ネットで放送されている。また、[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")（NNS非マストバイ局）はローカルスポンサーに差し替えて、2011年のみネットされた。なお、CS放送・[日テレジータス](../Page/日テレジータス.md "wikilink")でも放送されているため、地上波未ネットの地域でも、チャンネル契約すれば、大会の視聴は可能である。
-  - 2018年は前述の通り大会中止になったものの、テレビ放送そのものは北海道ローカルでの放送枠にて編成変更があるものの、全国向けの放送枠では放送内容を変更して放送することを発表。2日目放送予定枠は北海道ローカルであったが、この日は札幌テレビに限り、[読売テレビ制作の全国ネットのワイドショー](../Page/讀賣テレビ放送.md "wikilink")『[情報ライブ ミヤネ屋](https://ja.wikipedia.org/wiki/情報ライブ_ミヤネ屋 "wikilink")』の14時55分以降を臨時にネット返上予定であったが、同番組を通常編成時同様フルネットする。3日目放送予定枠は『ANAオープンゴルフトーナメント～激闘の名場面～』を、最終日放送予定枠は『北海道に元気を\!ANAオープンゴルフトーナメント』を放送した。
+  - テレビ中継は札幌テレビを制作局として、[日本テレビ系列（NNS）全国ネットで録画放送されている](../Page/日本テレビネットワーク協議会.md "wikilink")。3日目は[NNS加盟局のうち](../Page/日本テレビネットワーク協議会.md "wikilink")[マストバイ局](https://ja.wikipedia.org/wiki/フルネット "wikilink")22局で、また最終日は22局および[高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")（NNS非マストバイ局）・[テレビ大分](../Page/テレビ大分.md "wikilink")（NNS非マストバイ局、日本テレビ系列・[フジテレビ系列のクロスネット局](../Page/フジネットワーク.md "wikilink")）・[琉球放送](../Page/琉球放送.md "wikilink")（[TBS系列局](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")）の合計25局ネットで放送されている。また、[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")（NNS非マストバイ局）はローカルスポンサーに差し替えて、2011年のみネットされた。なお、CS放送・[日テレジータス](../Page/日テレジータス.md "wikilink")でも放送されているため、地上波未ネットの地域でも、チャンネル契約すれば、大会の視聴は可能である。
+  - 2018年は前述の通り大会中止になったものの、テレビ放送そのものは北海道ローカルでの放送枠にて編成変更があるものの、全国向けの放送枠では放送内容を変更して放送することを発表。2日目放送予定枠は北海道ローカルであったが、この日は札幌テレビに限り、[読売テレビ制作の全国ネットのワイドショー](../Page/讀賣テレビ放送.md "wikilink")『[情報ライブ ミヤネ屋](../Page/情報ライブ_ミヤネ屋.md "wikilink")』の14時55分以降を臨時にネット返上予定であったが、同番組を通常編成時同様フルネットする。3日目放送予定枠は『ANAオープンゴルフトーナメント～激闘の名場面～』を、最終日放送予定枠は『北海道に元気を\!ANAオープンゴルフトーナメント』を放送した。
 
 ## 出典・脚注
 

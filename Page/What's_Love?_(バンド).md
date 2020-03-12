@@ -61,7 +61,7 @@
             作詞・作曲：松本雅光／編曲：What's Love?
     3.  今年の夏 -Live ver.-\[4:13\]
 4.  あの鐘を鳴らすのはあなた（2001年11月17日）
-    1.  [あの鐘を鳴らすのはあなた](../Page/あの鐘を鳴らすのはあなた.md "wikilink") (by What's Love?と[横山剣](https://ja.wikipedia.org/wiki/横山剣 "wikilink"))\[3:14\]
+    1.  [あの鐘を鳴らすのはあなた](../Page/あの鐘を鳴らすのはあなた.md "wikilink") (by What's Love?と[横山剣](../Page/横山剣.md "wikilink"))\[3:14\]
     2.  あの鐘を鳴らすのはあなた (by What's Love?と[小島麻由美](https://ja.wikipedia.org/wiki/小島麻由美 "wikilink"))\[3:14\]
     3.  あの鐘を鳴らすのはあなた (by What's Love?)\[3:14\]
     4.  あの鐘を鳴らすのはあなた (by What's Love?とあなた)\[3:14\]
@@ -80,7 +80,7 @@
             作詞：[松本隆](../Page/松本隆.md "wikilink")／作曲：[呉田軽穂](https://ja.wikipedia.org/wiki/呉田軽穂 "wikilink")／編曲：What's Love?
     4.  [襟裳岬](../Page/襟裳岬_\(森進一の曲\).md "wikilink")\[5:04\]
           -
-            作詞：[岡本おさみ](https://ja.wikipedia.org/wiki/岡本おさみ "wikilink")／作曲：[吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")／編曲：What's Love?
+            作詞：[岡本おさみ](../Page/岡本おさみ.md "wikilink")／作曲：[吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")／編曲：What's Love?
 6.  ヘッドライトが唄い出す（2002年7月10日）
     1.  ヘッドライトが唄い出す\[3:58\]
           -
@@ -95,14 +95,14 @@
             作詞・作曲：[井上陽水](../Page/井上陽水.md "wikilink")／作曲：[平井夏美](https://ja.wikipedia.org/wiki/平井夏美 "wikilink")／編曲：What's Love?
     4.  [夏の思い出](../Page/夏の思い出.md "wikilink")\[2:14\]
           -
-            作詞：[江間章子](https://ja.wikipedia.org/wiki/江間章子 "wikilink")／作曲：[中田喜直](https://ja.wikipedia.org/wiki/中田喜直 "wikilink")／編曲：What's Love?
+            作詞：[江間章子](../Page/江間章子.md "wikilink")／作曲：[中田喜直](../Page/中田喜直.md "wikilink")／編曲：What's Love?
 7.  夢もなく はてしなく（2002年9月26日）
     1.  夢もなく はてしなく\[4:40\]
           -
             作詞・作曲：松本雅光／編曲：What's Love?
-    2.  トラック・ドライヴィング・ブギ feat.AKIO ([SNAIL RAMP](https://ja.wikipedia.org/wiki/SNAIL_RAMP "wikilink"))\[3:37\]
+    2.  トラック・ドライヴィング・ブギ feat.AKIO ([SNAIL RAMP](../Page/SNAIL_RAMP.md "wikilink"))\[3:37\]
           -
-            作詞：[阿木燿子](https://ja.wikipedia.org/wiki/阿木燿子 "wikilink")／作曲：[宇崎竜童](https://ja.wikipedia.org/wiki/宇崎竜童 "wikilink")／編曲：What's Love?
+            作詞：[阿木燿子](../Page/阿木燿子.md "wikilink")／作曲：[宇崎竜童](../Page/宇崎竜童.md "wikilink")／編曲：What's Love?
     3.  泣けるほど (acoustic ver.)\[5:41\]
 8.  [異邦人](../Page/異邦人_-シルクロードのテーマ-.md "wikilink") feat. [YOU THE ROCK★](https://ja.wikipedia.org/wiki/YOU_THE_ROCK★ "wikilink")（2019年5月8日）※7インチシングルレコード
     1.  異邦人 feat. YOU THE ROCK★　※ヴォーカルはトナミトシエ。
@@ -173,13 +173,13 @@
     10. 正調・恋の味\[5:03\]
           -
             作詞・作曲：松本雅光／編曲：What's Love?
-    11. [知床旅情](https://ja.wikipedia.org/wiki/知床旅情 "wikilink") feat.[畠山美由紀](https://ja.wikipedia.org/wiki/畠山美由紀 "wikilink")&[こだま和文](https://ja.wikipedia.org/wiki/こだま和文 "wikilink")
+    11. [知床旅情](https://ja.wikipedia.org/wiki/知床旅情 "wikilink") feat.[畠山美由紀](../Page/畠山美由紀.md "wikilink")&[こだま和文](../Page/こだま和文.md "wikilink")
           -
             作詞・作曲：[森繁久弥](https://ja.wikipedia.org/wiki/森繁久弥 "wikilink")／編曲：What's Love?
 4.  [温故知新](https://ja.wikipedia.org/wiki/温故知新_\(アルバム\) "wikilink")（2003年3月5日）カバーアルバム　オリコン140位
     1.  あの鐘を鳴らすのはあなた \<What's Love?+横山剣\>\[3:15\]
           -
-            作詞：[阿久悠](https://ja.wikipedia.org/wiki/阿久悠 "wikilink")／作曲：[森田公一](https://ja.wikipedia.org/wiki/森田公一 "wikilink")／編曲：What's Love?
+            作詞：[阿久悠](../Page/阿久悠.md "wikilink")／作曲：[森田公一](../Page/森田公一.md "wikilink")／編曲：What's Love?
     2.  [冬のリヴィエラ](../Page/冬のリヴィエラ.md "wikilink")\[4:16\]
           -
             作詞：松本隆／作曲：[大滝詠一](https://ja.wikipedia.org/wiki/大滝詠一 "wikilink")／編曲：What's Love?
@@ -312,7 +312,7 @@
 
 ## メディア
 
-ラジオ「肚決めて行くぜ」（[仙台ラジオ3](https://ja.wikipedia.org/wiki/仙台シティエフエム "wikilink")） 毎月　第1、第3金曜日　AM 11:00～AM 11:30　O.A
+ラジオ「肚決めて行くぜ」（[仙台ラジオ3](../Page/仙台シティエフエム.md "wikilink")） 毎月　第1、第3金曜日　AM 11:00～AM 11:30　O.A
 
 ## 外部リンク
 

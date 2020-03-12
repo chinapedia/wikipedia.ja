@@ -5,7 +5,7 @@
 
 ## 概要
 
-[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[豊橋市](../Page/豊橋市.md "wikilink")出身、在住。[2001年](../Page/2001年.md "wikilink")6月結成。[2003年](../Page/2003年.md "wikilink")に[EPIC RECORDSよりメジャーデビュー](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")。[2004年](../Page/2004年.md "wikilink")8月、自身のレーベルO-tib Recordsを設立。
+[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[豊橋市](../Page/豊橋市.md "wikilink")出身、在住。[2001年](../Page/2001年.md "wikilink")6月結成。[2003年](../Page/2003年.md "wikilink")に[EPIC RECORDSよりメジャーデビュー](../Page/エピックレコードジャパン.md "wikilink")。[2004年](../Page/2004年.md "wikilink")8月、自身のレーベルO-tib Recordsを設立。
 
 ## メンバー
 
@@ -187,7 +187,7 @@ ESCL-2672:CD</p></td>
 </tr>
 <tr class="odd">
 <td><p>2ndミニ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/5月5日.md" title="wikilink">5月5日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/5月5日.md" title="wikilink">5月5日</a></p></td>
 <td><p><strong>life a novel</strong></p></td>
 <td><p>ZGROT-2001</p></td>
 <td><ol>
@@ -293,19 +293,19 @@ ESCL-2672:CD</p></td>
 <li>Death or Glory / AGGRESSICE DOGS feat.<a href="../Page/間寛平.md" title="wikilink">間寛平</a></li>
 <li>THIS IS RADIO CLASH / <a href="../Page/DMBQ.md" title="wikilink">DMBQ</a></li>
 <li>STAY FREE / <a href="../Page/DOMINO88.md" title="wikilink">DOMINO88</a></li>
-<li>London Calling / THE <a href="https://ja.wikipedia.org/wiki/GELUGUGU" title="wikilink">GELUGUGU</a></li>
+<li>London Calling / THE <a href="../Page/GELUGUGU.md" title="wikilink">GELUGUGU</a></li>
 <li>Should I Stay or Should I Go / <a href="../Page/ギターウルフ.md" title="wikilink">ギターウルフ</a></li>
-<li>Presure Drop / <a href="https://ja.wikipedia.org/wiki/HIGHWAY61" title="wikilink">HIGHWAY61</a></li>
+<li>Presure Drop / <a href="../Page/HIGHWAY61.md" title="wikilink">HIGHWAY61</a></li>
 <li><strong>CLASH CITY ROCKERS / LOOSELY</strong></li>
 <li>WHITE RIOT / <a href="https://ja.wikipedia.org/wiki/MOLMOTT" title="wikilink">MOLMOTT</a></li>
-<li>Janie Jones/Death Is Astar(Medley) / <a href="https://ja.wikipedia.org/wiki/ニューロティカ" title="wikilink">ニューロティカ</a></li>
-<li>Police On My Back / <a href="https://ja.wikipedia.org/wiki/NICOTINE" title="wikilink">NICOTINE</a></li>
-<li>I Fought The Law / <a href="https://ja.wikipedia.org/wiki/PENPALS" title="wikilink">PENPALS</a></li>
-<li>RUDIE CAN'T FAIL / <a href="https://ja.wikipedia.org/wiki/POTSHOT" title="wikilink">POTSHOT</a></li>
+<li>Janie Jones/Death Is Astar(Medley) / <a href="../Page/ニューロティカ.md" title="wikilink">ニューロティカ</a></li>
+<li>Police On My Back / <a href="../Page/NICOTINE.md" title="wikilink">NICOTINE</a></li>
+<li>I Fought The Law / <a href="../Page/PENPALS.md" title="wikilink">PENPALS</a></li>
+<li>RUDIE CAN'T FAIL / <a href="../Page/POTSHOT.md" title="wikilink">POTSHOT</a></li>
 <li>THE GUNS OF BRIXTON / <a href="https://ja.wikipedia.org/wiki/pre-school" title="wikilink">pre-school</a></li>
 <li>THE STAR CLUB-1997 / <a href="../Page/THE_STAR_CLUB.md" title="wikilink">THE STAR CLUB</a></li>
 <li>COMPLETE CONTROL / <a href="https://ja.wikipedia.org/wiki/THE_STRUMMERS" title="wikilink">THE STRUMMERS</a></li>
-<li>Brand New Cadillac / <a href="https://ja.wikipedia.org/wiki/VooDoo_Hawaiians" title="wikilink">VooDoo Hawaiians</a></li>
+<li>Brand New Cadillac / <a href="../Page/VooDoo_Hawaiians.md" title="wikilink">VooDoo Hawaiians</a></li>
 <li>London's Burning / <a href="../Page/YKZ.md" title="wikilink">YKZ</a></li>
 </ol></td>
 <td><p>Sony Music Records</p></td>
@@ -364,10 +364,10 @@ ESCL-2672:CD</p></td>
 
 ## タイアップ
 
-| 曲名      | タイアップ                                                      |
-| ------- | ---------------------------------------------------------- |
-| 旅人      | アニメ「[PAPUWA](../Page/PAPUWA.md "wikilink")」主題歌             |
-| すべてのものに | 「[フタタ](https://ja.wikipedia.org/wiki/フタタ "wikilink")」CMソング |
+| 曲名      | タイアップ                                          |
+| ------- | ---------------------------------------------- |
+| 旅人      | アニメ「[PAPUWA](../Page/PAPUWA.md "wikilink")」主題歌 |
+| すべてのものに | 「[フタタ](../Page/フタタ.md "wikilink")」CMソング        |
 
 ## ミュージックビデオ
 

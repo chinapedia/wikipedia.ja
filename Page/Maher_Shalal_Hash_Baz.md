@@ -1,7 +1,7 @@
 > この記事は[Maher Shalal Hash Baz](https://ja.wikipedia.org/wiki/Maher_Shalal_Hash_Baz)から翻訳されています。
 
 
-**Maher Shalal Hash Baz** (マヘル・シャラル・ハシュ・バズ) は、[インディーズ](../Page/インディーズ.md "wikilink")で活動する[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[実験音楽](https://ja.wikipedia.org/wiki/実験音楽 "wikilink")バンドで、[工藤冬里](https://ja.wikipedia.org/wiki/工藤冬里 "wikilink")を中心とした不定形ユニットである。ふたつの自主制作カセットをリリースしたのち、オルグレコードより『Maher Goes To Gothic Country』(1991) 、83トラックに及ぶボックスセット『Return Visit To Rock Mass』(1996)を発表。その後[ドミノ・レコーズ](../Page/ドミノ・レコーズ.md "wikilink")傘下でスティーヴン・パステル（[ザ・パステルズ](https://ja.wikipedia.org/wiki/ザ・パステルズ "wikilink")）の運営するジオグラフィックと契約。同レーベルから発売した2枚のアルバム、『From A Summer To Another Summer (An Egypt To Another Egypt)』(2000) 、『Blues Du Jour』(2003)により、海外でも知られることになる。2007年にはキャルヴィン・ジョンソン（ビート・ハプニング他）が主宰する[アメリカの名門インディーレーベル](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、Kレコードより『L'Autre Cap（邦題：他の岬）』をリリース。
+**Maher Shalal Hash Baz** (マヘル・シャラル・ハシュ・バズ) は、[インディーズ](../Page/インディーズ.md "wikilink")で活動する[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[実験音楽](../Page/実験音楽.md "wikilink")バンドで、[工藤冬里](https://ja.wikipedia.org/wiki/工藤冬里 "wikilink")を中心とした不定形ユニットである。ふたつの自主制作カセットをリリースしたのち、オルグレコードより『Maher Goes To Gothic Country』(1991) 、83トラックに及ぶボックスセット『Return Visit To Rock Mass』(1996)を発表。その後[ドミノ・レコーズ](../Page/ドミノ・レコーズ.md "wikilink")傘下でスティーヴン・パステル（[ザ・パステルズ](https://ja.wikipedia.org/wiki/ザ・パステルズ "wikilink")）の運営するジオグラフィックと契約。同レーベルから発売した2枚のアルバム、『From A Summer To Another Summer (An Egypt To Another Egypt)』(2000) 、『Blues Du Jour』(2003)により、海外でも知られることになる。2007年にはキャルヴィン・ジョンソン（ビート・ハプニング他）が主宰する[アメリカの名門インディーレーベル](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、Kレコードより『L'Autre Cap（邦題：他の岬）』をリリース。
 
 ## ディスコグラフィー
 

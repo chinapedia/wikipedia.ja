@@ -17,15 +17,15 @@
 <!-- end list -->
 
   - 古澤大（ふるさわ たい）：作詞、アートディレクション
-      - 2007年に“分岐”（≒脱退）したが、その後も引き続いて歌詞提供をするなど、協力・友好関係にある。2010年に、[古澤辰勲](https://ja.wikipedia.org/wiki/古澤辰勲 "wikilink")（ふるさわ たい）と改名。[テレビ朝日](../Page/テレビ朝日.md "wikilink")アナウンサーの[古澤琢](https://ja.wikipedia.org/wiki/古澤琢 "wikilink")は実弟。
+      - 2007年に“分岐”（≒脱退）したが、その後も引き続いて歌詞提供をするなど、協力・友好関係にある。2010年に、[古澤辰勲](https://ja.wikipedia.org/wiki/古澤辰勲 "wikilink")（ふるさわ たい）と改名。[テレビ朝日](../Page/テレビ朝日.md "wikilink")アナウンサーの[古澤琢](../Page/古澤琢.md "wikilink")は実弟。
 
 ## 来歴
 
   - 90年代前半よりクラブDJとして親交のあった杉山と古澤が、1998年にヴォーカルオーディションを実施。ミズノと出逢い、結成。
 
-  - 3人で制作した6曲入りデモテープがきっかけとなり、2000年[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")・[JVCエンタテインメント](https://ja.wikipedia.org/wiki/JVCエンタテインメント "wikilink")よりaosis recordsの立ち上げに参加し、デビュー。同年7月、京都αステーションにて、初のレギュラー番組開始。
+  - 3人で制作した6曲入りデモテープがきっかけとなり、2000年[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")・[JVCエンタテインメント](../Page/JVCエンタテインメント.md "wikilink")よりaosis recordsの立ち上げに参加し、デビュー。同年7月、京都αステーションにて、初のレギュラー番組開始。
 
-  - 2001年、[カネボウ化粧品](https://ja.wikipedia.org/wiki/カネボウ化粧品 "wikilink")の高級ブランドDEWとコラボレートオリジナルCDを作成。10月、FM NORTHWAVEにてレギュラー番組開始。
+  - 2001年、[カネボウ化粧品](../Page/カネボウ化粧品.md "wikilink")の高級ブランドDEWとコラボレートオリジナルCDを作成。10月、FM NORTHWAVEにてレギュラー番組開始。
 
   - 2002年6月、モーションブルーYOKOHAMAにて初の単独ライブを行う。小編成のアコースティックライブを全国で展開。
 
@@ -690,7 +690,7 @@ VICL-63680:通常盤</p></td>
 <td><p>備考</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/3月24日.md" title="wikilink">3月24日</a><br />
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/3月24日.md" title="wikilink">3月24日</a><br />
 2008年11月19日</p></td>
 <td></td>
 <td><p>VIBL-321<br />
@@ -905,7 +905,7 @@ VIBL-531</p></td>
 </tr>
 <tr class="odd">
 <td><p>2007年09月05日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FreeTEMPO" title="wikilink">FreeTEMPO</a>『SOUNDS』</p></td>
+<td><p><a href="../Page/FreeTEMPO.md" title="wikilink">FreeTEMPO</a>『SOUNDS』</p></td>
 <td><p>POCS-1016</p></td>
 </tr>
 <tr class="even">
@@ -980,7 +980,7 @@ VIBL-531</p></td>
 </tr>
 <tr class="even">
 <td><p>2009年11月04日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/DEEN" title="wikilink">DEEN</a>『<a href="https://ja.wikipedia.org/wiki/Negai" title="wikilink">Negai</a> feat.ミズノマリ』</p></td>
+<td><p><a href="../Page/DEEN.md" title="wikilink">DEEN</a>『<a href="https://ja.wikipedia.org/wiki/Negai" title="wikilink">Negai</a> feat.ミズノマリ』</p></td>
 <td><p>BVCL-39<br />
 BVCL-41</p></td>
 </tr>
@@ -1017,7 +1017,7 @@ POCS-1036</p></td>
 </tr>
 <tr class="odd">
 <td><p>2012年01月25日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/土橋安騎夫" title="wikilink">土橋安騎夫</a>『THE BEST OF ALL TIME』</p></td>
+<td><p><a href="../Page/土橋安騎夫.md" title="wikilink">土橋安騎夫</a>『THE BEST OF ALL TIME』</p></td>
 <td><p>XQGK-1005</p></td>
 </tr>
 <tr class="even">
@@ -1050,7 +1050,7 @@ ESCL-4142</p></td>
 | SONG FOR YOU                              | 毎日放送・TBS系「リアルタイム」エンディングテーマ                                                                                                                                                                         |
 | 眠れない悲しい夜なら                                | 名古屋NSCカレッジ CMソング、全国専門学校広報研究会CMソング                                                                                                                                                                  |
 | SUMMER BREEZE                             | [キリンビール](https://ja.wikipedia.org/wiki/キリンビール "wikilink")「[氷結シャルドネ](https://ja.wikipedia.org/wiki/氷結_\(チューハイ\) "wikilink") スパークリング」CMソング                                                           |
-| STAY WITH ME                              | [POLA](https://ja.wikipedia.org/wiki/ポーラ_\(企業\) "wikilink")「ESTHE-INN」CMソング                                                                                                                        |
+| STAY WITH ME                              | [POLA](../Page/ポーラ_\(企業\).md "wikilink")「ESTHE-INN」CMソング                                                                                                                                           |
 | アルメリア ホテル                                 | [WOWOW](../Page/WOWOW.md "wikilink")ドラマ「コスメティック」主題歌                                                                                                                                                |
 | NIGHTFLIGHT                               | POLA「APEX-i」CMソング                                                                                                                                                                                  |
 | 太陽の接吻                                     | キリンビール「氷結ホワイトピーチ スパークリング」CMソング                                                                                                                                                                     |

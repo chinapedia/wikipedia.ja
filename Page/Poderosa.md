@@ -1,11 +1,11 @@
 > この記事は[Poderosa](https://ja.wikipedia.org/wiki/Poderosa)から翻訳されています。
 
 
-**Poderosa**（ポデローザ）は、[Apache License](https://ja.wikipedia.org/wiki/Apache_License "wikilink")（[オープンソースソフトウェア](https://ja.wikipedia.org/wiki/オープンソースソフトウェア "wikilink")）で開発・公開している[タブ型リモートログオン](../Page/タブ_\(GUI\).md "wikilink")[クライアントで](../Page/クライアント_\(コンピュータ\).md "wikilink")、**Poderosa Terminal**は同一の作者が開発している有償のソフトウェア。
+**Poderosa**（ポデローザ）は、[Apache License](https://ja.wikipedia.org/wiki/Apache_License "wikilink")（[オープンソースソフトウェア](../Page/オープンソースソフトウェア.md "wikilink")）で開発・公開している[タブ型リモートログオン](../Page/タブ_\(GUI\).md "wikilink")[クライアントで](../Page/クライアント_\(コンピュータ\).md "wikilink")、**Poderosa Terminal**は同一の作者が開発している有償のソフトウェア。
 
 Poderosaは、[SSH](../Page/Secure_Shell.md "wikilink")・[telnet](https://ja.wikipedia.org/wiki/telnet "wikilink")・[Cygwin](../Page/Cygwin.md "wikilink")・Service for Unix・[シリアルの各](../Page/シリアルポート.md "wikilink")[通信プロトコル](../Page/通信プロトコル.md "wikilink")に対応し、[.NET Frameworkが](https://ja.wikipedia.org/wiki/.NET_Framework "wikilink")[インストール](../Page/インストール.md "wikilink")された[Windowsで使用できる](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。Poderosa TerminalはmacOSでも使用可能。
 
-以前は**VaraTerm**という[シェアウェア](../Page/シェアウェア.md "wikilink")であったが、後に現称の**Poderosa**としてオープンプロジェクトとしての開発方針に変更された。そして、[情報処理推進機構](https://ja.wikipedia.org/wiki/情報処理推進機構 "wikilink") (IPA) により、2005年度下期の[未踏ソフトウェア創造事業に採択された](https://ja.wikipedia.org/wiki/情報処理推進機構#未踏ソフトウェア創造事業 "wikilink")\[1\]。
+以前は**VaraTerm**という[シェアウェア](../Page/シェアウェア.md "wikilink")であったが、後に現称の**Poderosa**としてオープンプロジェクトとしての開発方針に変更された。そして、[情報処理推進機構](../Page/情報処理推進機構.md "wikilink") (IPA) により、2005年度下期の[未踏ソフトウェア創造事業に採択された](https://ja.wikipedia.org/wiki/情報処理推進機構#未踏ソフトウェア創造事業 "wikilink")\[1\]。
 
 2016年、描画エンジンのOpenGL化やWindows以外のプラットフォームでの稼働も視野に入れた形で商用製品としてリニューアルした。
 
@@ -37,8 +37,8 @@ Poderosaは、[SSH](../Page/Secure_Shell.md "wikilink")・[telnet](https://ja.wi
 
   - [Secure Shell](../Page/Secure_Shell.md "wikilink")
 
-      - [OpenSSH](https://ja.wikipedia.org/wiki/OpenSSH "wikilink")
-      - [WinSCP](https://ja.wikipedia.org/wiki/WinSCP "wikilink")
+      - [OpenSSH](../Page/OpenSSH.md "wikilink")
+      - [WinSCP](../Page/WinSCP.md "wikilink")
       - [RLogin](https://ja.wikipedia.org/wiki/RLogin "wikilink")
       - [PuTTY](../Page/PuTTY.md "wikilink")
       - [Tera Term](../Page/Tera_Term.md "wikilink")

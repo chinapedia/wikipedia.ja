@@ -1,7 +1,7 @@
 > この記事は[DALK](https://ja.wikipedia.org/wiki/DALK)から翻訳されています。
 
 
-『**DALK**』（ダルク）は[アリスソフト](../Page/アリスソフト.md "wikilink")から[1992年](../Page/1992年.md "wikilink")[12月15日](../Page/12月15日.md "wikilink")に発売された[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")（生産終了）。 [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")に発売された[ALICEの館4・5・6](https://ja.wikipedia.org/wiki/ALICEの館4・5・6 "wikilink")（生産終了）に移植版が収録された。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月4日](../Page/2月4日.md "wikilink")に配布フリー宣言された。アリスソフトの作品としては珍しくかなり既存のファンタジーを意識した設定がなされている（既存のファンタジーを嫌うTADAが世界観やシナリオには関らなかった\[1\]）。裏面が1000面まで存在することで話題になったがFM TOWNS版以降100面に縮小された。前史的な意味合いで『[DALK外伝](../Page/DALK外伝.md "wikilink")』が存在する。ゲームシステム的は後のSPRGラインの原型である。
+『**DALK**』（ダルク）は[アリスソフト](../Page/アリスソフト.md "wikilink")から[1992年](../Page/1992年.md "wikilink")[12月15日](../Page/12月15日.md "wikilink")に発売された[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")（生産終了）。 [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")に発売された[ALICEの館4・5・6](https://ja.wikipedia.org/wiki/ALICEの館4・5・6 "wikilink")（生産終了）に移植版が収録された。[2005年](../Page/2005年.md "wikilink")[2月4日](../Page/2月4日.md "wikilink")に配布フリー宣言された。アリスソフトの作品としては珍しくかなり既存のファンタジーを意識した設定がなされている（既存のファンタジーを嫌うTADAが世界観やシナリオには関らなかった\[1\]）。裏面が1000面まで存在することで話題になったがFM TOWNS版以降100面に縮小された。前史的な意味合いで『[DALK外伝](../Page/DALK外伝.md "wikilink")』が存在する。ゲームシステム的は後のSPRGラインの原型である。
 
 初期の版にはバグが多く、修正差分が多数リリースされた。またジョイパッドを前提とした操作性で有る為、キーボードでの操作には多少の支障があった。
 
@@ -11,7 +11,7 @@
 
 ## システム
 
-本作は、一般的な[シミュレーションロールプレイングゲーム](https://ja.wikipedia.org/wiki/シミュレーションロールプレイングゲーム "wikilink")で、マップは[ヘクス](../Page/ヘクス.md "wikilink")ではなく[スクエアで構成されている](../Page/正方形.md "wikilink")。戦闘の舞台は[地下迷宮](../Page/ダンジョン.md "wikilink")。各キャラクターはレベルアップを行うことで、[クラスチェンジが可能](https://ja.wikipedia.org/wiki/キャラクタークラス "wikilink")。平均的な[戦士](../Page/戦士.md "wikilink")であるファイター系、移動力が低いが高い防御力を誇る[ナイト系](../Page/騎士.md "wikilink")、遠距離攻撃が可能な[アーチャー](https://ja.wikipedia.org/wiki/アーチャー "wikilink")系、命中率やクリティカルヒットなどに優れる[拳法](https://ja.wikipedia.org/wiki/拳法 "wikilink")使い系、魔法を使用できるマジックユーザー系、移動力の高いシーフ系、「復歌」という特殊コマンドの使える吟遊詩人系、の内から、任意の系統を選べる。レベルが高まれば、さらに強力なクラスを選ぶことも可能。なお、主人公のセイルは修行僧の身であり、ほかのキャラクターとは異なる、専用のクラス系統を持っている\[3\]。
+本作は、一般的な[シミュレーションロールプレイングゲーム](../Page/シミュレーションロールプレイングゲーム.md "wikilink")で、マップは[ヘクス](../Page/ヘクス.md "wikilink")ではなく[スクエアで構成されている](../Page/正方形.md "wikilink")。戦闘の舞台は[地下迷宮](../Page/ダンジョン.md "wikilink")。各キャラクターはレベルアップを行うことで、[クラスチェンジが可能](../Page/キャラクタークラス.md "wikilink")。平均的な[戦士](../Page/戦士.md "wikilink")であるファイター系、移動力が低いが高い防御力を誇る[ナイト系](../Page/騎士.md "wikilink")、遠距離攻撃が可能な[アーチャー](https://ja.wikipedia.org/wiki/アーチャー "wikilink")系、命中率やクリティカルヒットなどに優れる[拳法](../Page/拳法.md "wikilink")使い系、魔法を使用できるマジックユーザー系、移動力の高いシーフ系、「復歌」という特殊コマンドの使える吟遊詩人系、の内から、任意の系統を選べる。レベルが高まれば、さらに強力なクラスを選ぶことも可能。なお、主人公のセイルは修行僧の身であり、ほかのキャラクターとは異なる、専用のクラス系統を持っている\[3\]。
 
 ## 登場人物
 
@@ -101,6 +101,6 @@
 [Category:アリスソフトのゲームソフト](https://ja.wikipedia.org/wiki/Category:アリスソフトのゲームソフト "wikilink") [Category:1992年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:1992年のアダルトゲーム "wikilink") [Category:美少女ゲーム](https://ja.wikipedia.org/wiki/Category:美少女ゲーム "wikilink") [Category:無料公開された商用ゲーム](https://ja.wikipedia.org/wiki/Category:無料公開された商用ゲーム "wikilink") [Category:コンピュータRPG](https://ja.wikipedia.org/wiki/Category:コンピュータRPG "wikilink") [Category:ファンタジーコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:ファンタジーコンピュータゲーム "wikilink")
 
 1.  アリスの館のスタッフコーナーのとりのコメントによれば、TADAの担当は「シナリオシステムだけ」とのこと。
-2.  対応する256色ハードウェアは[PC-H98シリーズ](../Page/PC-H98シリーズ.md "wikilink")、[EPSON PCシリーズ](https://ja.wikipedia.org/wiki/EPSON_PCシリーズ "wikilink")（PC-386M相当）、[アイ・オー・データ機器](https://ja.wikipedia.org/wiki/アイ・オー・データ機器 "wikilink")の[グラフィックボードGA](../Page/ビデオカード.md "wikilink")-1024i/wだけだが、その後の作品で追加されたドライバを使えば[PC-9821シリーズ](../Page/PC-9821シリーズ.md "wikilink")などの256色環境にも対応した。
-3.  『美少女ゲーム最前線 パート11』アソコン・ブックス [辰巳出版](https://ja.wikipedia.org/wiki/辰巳出版 "wikilink") 1993年10月10日 雑誌 61453-56
+2.  対応する256色ハードウェアは[PC-H98シリーズ](../Page/PC-H98シリーズ.md "wikilink")、[EPSON PCシリーズ](../Page/EPSON_PCシリーズ.md "wikilink")（PC-386M相当）、[アイ・オー・データ機器](../Page/アイ・オー・データ機器.md "wikilink")の[グラフィックボードGA](../Page/ビデオカード.md "wikilink")-1024i/wだけだが、その後の作品で追加されたドライバを使えば[PC-9821シリーズ](../Page/PC-9821シリーズ.md "wikilink")などの256色環境にも対応した。
+3.  『美少女ゲーム最前線 パート11』アソコン・ブックス [辰巳出版](../Page/辰巳出版.md "wikilink") 1993年10月10日 雑誌 61453-56
 4.  ヒロインの[ステータス画面では敵を倒した回数と共にセイルとHした回数もカウントされているが](https://ja.wikipedia.org/wiki/ステイタス "wikilink")、あくまでセイルに経験値を分け与えた回数であり、チョルラの筆おろしはカウントされない。

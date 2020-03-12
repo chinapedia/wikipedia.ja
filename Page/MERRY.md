@@ -1,7 +1,7 @@
 > この記事は[MERRY](https://ja.wikipedia.org/wiki/MERRY)から翻訳されています。
 
 
-**MERRY** (**メリー**) は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。ボーカルのガラをリーダーとする５人組のバンド。所属[事務所はSunKrad](../Page/芸能事務所.md "wikilink")、所属[レコード会社](https://ja.wikipedia.org/wiki/レコード会社 "wikilink")は[Fire Wall Division](../Page/フリーウィル.md "wikilink")。公式ファンクラブ名は『CORE』。2001年[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、ガラを中心にメンバーが集められる。華やかな雰囲気のバンドが人気だった当時の風潮に反し、[アンダーグラウンドな匂いのするバンドをコンセプトに](https://ja.wikipedia.org/wiki/アンダーグラウンド_\(文化\)#文化としてのアンダーグラウンド "wikilink")、告知をしないライヴ（シークレットライヴ）で活動を開始した\[1\]。
+**MERRY** (**メリー**) は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。ボーカルのガラをリーダーとする５人組のバンド。所属[事務所はSunKrad](../Page/芸能事務所.md "wikilink")、所属[レコード会社](../Page/レコード会社.md "wikilink")は[Fire Wall Division](../Page/フリーウィル.md "wikilink")。公式ファンクラブ名は『CORE』。2001年[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、ガラを中心にメンバーが集められる。華やかな雰囲気のバンドが人気だった当時の風潮に反し、[アンダーグラウンドな匂いのするバンドをコンセプトに](https://ja.wikipedia.org/wiki/アンダーグラウンド_\(文化\)#文化としてのアンダーグラウンド "wikilink")、告知をしないライヴ（シークレットライヴ）で活動を開始した\[1\]。
 
 ## 概要
 
@@ -28,8 +28,8 @@
   - [7月6日](../Page/7月6日.md "wikilink")生、A型、[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")出身。バンド遍歴（全てVocal） - Visage → After effect → MERRY
   - 独特な[ハスキーボイス](../Page/ハスキーボイス.md "wikilink")が特徴で、本人も「よく人から“声が泣いている”って言われます」と語っている。
   - ライヴでは基本的に裸足であり、現在はほとんど見られないが学習机の上で三点倒立をしたり、墨汁を吐いたりと奇行に出る。また、シャボン玉、柱時計、縄跳びや傘、アンティークチェアなどの小道具を使ってステージの世界観を視覚的に広げるセンスも持ち合わせる。
-  - 当初、バンドでのキャラ設定はかなりの口下手（初期は喋っていてもメンバー以外には声が聞こえないと言う設定もあった）で、MCを習字の筆談で行ったり、番組のインタビューではフリップで回答する、ネロに代弁してもらう等の手段を使う無言キャラだったが、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月31日](../Page/12月31日.md "wikilink")〜2007年[1月1日](../Page/1月1日.md "wikilink")にかけて行われた『[Many Merry Days 5th Anniversary Special 2night 〜白い羊/黒い羊〜](https://ja.wikipedia.org/wiki/Many_Merry_Days_5th_Anniversary_Special_2night_〜白い羊/黒い羊〜 "wikilink")』にてMCを解禁して以来、現在は普通に声を発している。
-  - 上京してすぐ[DIR EN GREYの](https://ja.wikipedia.org/wiki/DIR_EN_GREY "wikilink")[ローディー](../Page/ローディー.md "wikilink")を務めており、ボーカルの[京から多大な影響を受けている](../Page/京_\(ミュージシャン\).md "wikilink")。また、MERRYを結成する構想中に京からアドバイスを受けたり、ガラという名前をつけてもらった\[5\]。
+  - 当初、バンドでのキャラ設定はかなりの口下手（初期は喋っていてもメンバー以外には声が聞こえないと言う設定もあった）で、MCを習字の筆談で行ったり、番組のインタビューではフリップで回答する、ネロに代弁してもらう等の手段を使う無言キャラだったが、[2006年](../Page/2006年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink")〜2007年[1月1日](../Page/1月1日.md "wikilink")にかけて行われた『[Many Merry Days 5th Anniversary Special 2night 〜白い羊/黒い羊〜](https://ja.wikipedia.org/wiki/Many_Merry_Days_5th_Anniversary_Special_2night_〜白い羊/黒い羊〜 "wikilink")』にてMCを解禁して以来、現在は普通に声を発している。
+  - 上京してすぐ[DIR EN GREYの](../Page/DIR_EN_GREY.md "wikilink")[ローディー](../Page/ローディー.md "wikilink")を務めており、ボーカルの[京から多大な影響を受けている](../Page/京_\(ミュージシャン\).md "wikilink")。また、MERRYを結成する構想中に京からアドバイスを受けたり、ガラという名前をつけてもらった\[5\]。
   - 楽曲全ての作詞を手掛け、歌詞に[言葉遊び](../Page/言葉遊び.md "wikilink")をよく用いる。他に『[林檎と嘘](https://ja.wikipedia.org/wiki/林檎と嘘 "wikilink")』という曲では[回文](../Page/回文.md "wikilink")を多用している。歌謡テイストの作詞を得意としており、語彙力もあるため、ライヴで簡易な演奏に乗せて即興ソングを歌うことがよくある。
   - 椎間板ヘルニアのためコルセットを腰に着用していたが病状の悪化に伴い治療に専念、[2013年](../Page/2013年.md "wikilink")[2月13日](../Page/2月13日.md "wikilink")のライヴを最後に約半年間一時的にバンド活動を休止した。
 
@@ -45,7 +45,7 @@
 
 ### ネロ（Drums）
 
-  - [2月11日](../Page/2月11日.md "wikilink")生、A型、[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")出身。バンド遍歴（全てDrums） - ナイトメア → スモーキー・フレーバー → After effect → MERRY
+  - [2月11日](../Page/2月11日.md "wikilink")生、A型、[埼玉県](../Page/埼玉県.md "wikilink")出身。バンド遍歴（全てDrums） - ナイトメア → スモーキー・フレーバー → After effect → MERRY
   - ガラとは、After effectからの付き合いで、一番長い間、共にバンドを組んでいる事になる。当初は、After effect解散後は同じメンバーでバンドを組むことはないとお互い思っていたが、結生の要望で彼と連絡を取る事になり、MERRYのバンド構想を聞いているうちにすっかり意気投合してしまった。実はこの時、ネロと結生の間を取り持ったのはガラだった（ガラが「結生くんがオマエのことが良いって言ってるんだけど。電話番号教えるから連絡してみてくれないか」と事前に間を取り持つ電話をした）。
   - 手数の非常に多い高速なドラムプレイを得意としており、演奏中に立ち上がり観客を煽ったり、歌詞に合わせてジェスチャーを披露したりとダイナミックなパフォーマンスが魅力である。
   - ライブでは初期の頃から彼のドラムソロ『ネロリズム（音路拍子）』があり、大きな会場でのライブになると、その日のために特別なドラムソロが用意される。また、ライブや雑誌において彼の熱いポエムが出てくることがあるが、これも『ネロリズム』と呼ばれている。
@@ -68,7 +68,7 @@
   - 他のメンバーと全くの初対面というわけではなく（それぞれの前バンドで対バンを何度か経験していてある程度顔見知りだった）、性格的にも技術的にも申し分ないということでライヴ直前ギリギリに加入が決まった。
   - 単音の速弾きスタイルが特徴。そのため、彼が作曲した作品はイントロやギターソロに単音の速いメロディーが使われたものが多い。
   - MERRYの曲の多数を作曲しており、結生と並んでMERRYの楽曲作成の要である。
-  - [ロバートの](https://ja.wikipedia.org/wiki/ロバート_\(お笑いトリオ\) "wikilink")[山本博とは中学時代の同級生](../Page/山本博_\(お笑い芸人\).md "wikilink")。
+  - [ロバートの](../Page/ロバート_\(お笑いトリオ\).md "wikilink")[山本博とは中学時代の同級生](../Page/山本博_\(お笑い芸人\).md "wikilink")。
   - [CD](https://ja.wikipedia.org/wiki/CD "wikilink")収集家で、2000枚ぐらいは持っていると公言している。
 
 ## 正規バンド以外の形態
@@ -97,7 +97,7 @@
 <tr class="header">
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>収録曲</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -234,7 +234,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/3月26日" title="wikilink">3月26日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/3月26日" title="wikilink">3月26日</a></p></td>
 <td><p><strong>さかしまエンドロール〜phantom of the gallery</strong></p></td>
 <td><p>FROCKS-007（初回盤）<br />
 FROCKS-008（通常盤）</p></td>
@@ -275,7 +275,7 @@ FROCKS-008（通常盤）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/5月24日.md" title="wikilink">5月24日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/5月24日.md" title="wikilink">5月24日</a></p></td>
 <td><p>'''さよなら雨（レイン） '''</p></td>
 <td><p>VICL-36081（初回盤）<br />
 VICL-36065（通常盤）</p></td>
@@ -432,7 +432,7 @@ VICL-36319（Type3-初回限定盤）</p></td>
 <td><p>オリコン週間チャート初登場12位</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="https://ja.wikipedia.org/wiki/4月16日" title="wikilink">4月16日</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/4月16日.md" title="wikilink">4月16日</a></p></td>
 <td><p><strong>閉ざされた楽園</strong></p></td>
 <td><p>VICL-36404（type A-初回限定盤）<br />
 VIZL-278（type B-初回限定盤）<br />
@@ -731,7 +731,7 @@ CD</p>
 <td><p>オリコン週間チャート初登場26位</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2013年.md" title="wikilink">2013年</a><a href="https://ja.wikipedia.org/wiki/2月6日" title="wikilink">2月6日</a></p></td>
+<td><p><a href="../Page/2013年.md" title="wikilink">2013年</a><a href="../Page/2月6日.md" title="wikilink">2月6日</a></p></td>
 <td><p><strong>梟</strong></p></td>
 <td><p>SFCD-0112〜113（初回生産限定盤A）<br />
 SFCD-0114〜115（初回生産限定盤B）<br />
@@ -1692,12 +1692,12 @@ SFCD-0210（通常盤）</p></td>
 ### DVD
 
 1.  **バイオレットハレンチ〜030829 Limited Edition〜（仮）**（[2003年](../Page/2003年.md "wikilink")[8月29日](../Page/8月29日.md "wikilink")・FULLFACE RECORDS）
-2.  **SCI-FI nuケミカルレトリック〜first cut〜日比谷野外大音楽堂**（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月21日](../Page/12月21日.md "wikilink")・ビクターエンタテインメント）
-3.  **LAST INDIES TOUR〜Shambara to the CORE〜ACT.2**（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月1日](../Page/2月1日.md "wikilink")・劇薬レコード）
-4.  **LAST INDIES TOUR〜Shambara to the CORE〜ACT.1**（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")・劇薬レコード）
-5.  **Many Merry Days \#1〜日比谷野外大音楽堂〜2006.7.30**（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月20日](../Page/12月20日.md "wikilink")・ビクターエンタテインメント）
+2.  **SCI-FI nuケミカルレトリック〜first cut〜日比谷野外大音楽堂**（[2005年](../Page/2005年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")・ビクターエンタテインメント）
+3.  **LAST INDIES TOUR〜Shambara to the CORE〜ACT.2**（[2006年](../Page/2006年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")・劇薬レコード）
+4.  **LAST INDIES TOUR〜Shambara to the CORE〜ACT.1**（[2006年](../Page/2006年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")・劇薬レコード）
+5.  **Many Merry Days \#1〜日比谷野外大音楽堂〜2006.7.30**（[2006年](../Page/2006年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")・ビクターエンタテインメント）
 6.  **Many Merry Days 5th Anniversary Special 2night〜白い羊/黒い羊〜**（[2007年](../Page/2007年.md "wikilink")[12月25日](../Page/12月25日.md "wikilink")・劇薬レコード）
-7.  **Many Merry Days FINAL**（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink")・ビクターエンタテインメント）
+7.  **Many Merry Days FINAL**（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月23日](../Page/7月23日.md "wikilink")・ビクターエンタテインメント）
 8.  **VIC 〜VIDEO ID COLLECTION〜**（[2009年](../Page/2009年.md "wikilink")[4月22日](../Page/4月22日.md "wikilink")・ビクターエンタテインメント）
 9.  **林檎と嘘 Video Clip -multi angle version-**（[2009年](../Page/2009年.md "wikilink")[4月22日](../Page/4月22日.md "wikilink")・ビクターエンタテインメント）
 10. **TOUR09 under-world\[GI・GO\]**（[2009年](../Page/2009年.md "wikilink")[8月26日](../Page/8月26日.md "wikilink")・劇薬レコード）
@@ -1708,7 +1708,7 @@ SFCD-0210（通常盤）</p></td>
 
 ### 書籍
 
-  - **ハイカラ解体新書(上)**　（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[6月30日](../Page/6月30日.md "wikilink")）
+  - **ハイカラ解体新書(上)**　（[2005年](../Page/2005年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")）
   - **ハイカラ解体新書(下)**　（2005年9月30日）
 
 ### 参加オムニバス
@@ -1749,7 +1749,7 @@ SFCD-0210（通常盤）</p></td>
 
 [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のパンク・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のパンク・ロック・バンド "wikilink") [Category:日本のハードロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のハードロック・バンド "wikilink") [Category:日本のヘヴィメタル・バンド](https://ja.wikipedia.org/wiki/Category:日本のヘヴィメタル・バンド "wikilink") [Category:ハードコア・パンク・バンド](https://ja.wikipedia.org/wiki/Category:ハードコア・パンク・バンド "wikilink") [Category:ヴィジュアル系](https://ja.wikipedia.org/wiki/Category:ヴィジュアル系 "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink") [Category:2001年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2001年に結成した音楽グループ "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink")
 
-1.  『Merry ハイカラ解体新書 上巻』より（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[6月30日](../Page/6月30日.md "wikilink")発行）
+1.  『Merry ハイカラ解体新書 上巻』より（[2005年](../Page/2005年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")発行）
 2.  [FM FUJI](https://ja.wikipedia.org/wiki/FM_FUJI "wikilink")『J-HITS POWER STATION』公開生放送より（[2007年](../Page/2007年.md "wikilink")[4月23日](../Page/4月23日.md "wikilink")）
 3.  『[Merry ハイカラ解体新書 下巻](https://ja.wikipedia.org/wiki/Merry_ハイカラ解体新書_下巻 "wikilink")』より（2005年[9月30日](../Page/9月30日.md "wikilink")発行）
 4.  『Merry ハイカラ解体新書 上巻』より（2005年6月30日発行）

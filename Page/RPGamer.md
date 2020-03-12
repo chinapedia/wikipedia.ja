@@ -1,13 +1,13 @@
 > この記事は[RPGamer](https://ja.wikipedia.org/wiki/RPGamer)から翻訳されています。
 
 
-『**RPGamer**』（ロールプレイング・ゲーマー）は、[国際通信社](https://ja.wikipedia.org/wiki/国際通信社 "wikilink")が[2003年](../Page/2003年.md "wikilink")から[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")にかけて発行していた季刊の[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")（TRPG）専門の雑誌。2003年3月に創刊された。3・6・9・12月に発行されていて、定価3,150円と価格が非常に高いが、毎号ゲームが付録されているのが特徴である。
+『**RPGamer**』（ロールプレイング・ゲーマー）は、[国際通信社](https://ja.wikipedia.org/wiki/国際通信社 "wikilink")が[2003年](../Page/2003年.md "wikilink")から[2006年](../Page/2006年.md "wikilink")にかけて発行していた季刊の[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")（TRPG）専門の雑誌。2003年3月に創刊された。3・6・9・12月に発行されていて、定価3,150円と価格が非常に高いが、毎号ゲームが付録されているのが特徴である。
 
 2006年9月のVol.15をもって休刊したが、記事の内容などは[2007年](../Page/2007年.md "wikilink")に創刊された新雑誌『[季刊R・P・G](../Page/季刊R・P・G.md "wikilink")』に引継がれている。
 
 ## 概要
 
-創刊号の序文によると、30代以上のテーブルトークRPGユーザーをターゲットにしているということで、読者がすでにテーブルトークRPGのベテランであることを前提としている。そのため雑誌の構成としてもプレイングのガイダンスなどの入門用記事は皆無で、コアでヘビーな記事が中心になっている。また、毎号テーマに沿った特集を組んでおり、往年の『[RPGマガジン](https://ja.wikipedia.org/wiki/RPGマガジン "wikilink")』と非常に似通った構成になっている。
+創刊号の序文によると、30代以上のテーブルトークRPGユーザーをターゲットにしているということで、読者がすでにテーブルトークRPGのベテランであることを前提としている。そのため雑誌の構成としてもプレイングのガイダンスなどの入門用記事は皆無で、コアでヘビーな記事が中心になっている。また、毎号テーマに沿った特集を組んでおり、往年の『[RPGマガジン](../Page/RPGマガジン.md "wikilink")』と非常に似通った構成になっている。
 
 後期は[d20システム](https://ja.wikipedia.org/wiki/d20システム "wikilink")の熱心なサポートを行っており、d20システムの海外製品紹介やオリジナルシナリオなどの掲載も行っていた。『[ダンジョンズ・アンド・ドラゴンズ](https://ja.wikipedia.org/wiki/ダンジョンズ・アンド・ドラゴンズ "wikilink")』のサポートを行っていた『[ゲームぎゃざ](../Page/ゲームぎゃざ.md "wikilink")』誌が、2005年の『[GAME JAPAN](https://ja.wikipedia.org/wiki/GAME_JAPAN "wikilink")』誌へのリニューアルに際してTRPGへのサポートを縮小したことをきっかけに、『RPGamer』誌が『ダンジョンズ・アンド・ドラゴンズ』のユーザーを新規読者層として取り込むことにも成功している。
 
@@ -17,9 +17,9 @@
 
   - [Aの魔法陣](../Page/Aの魔法陣.md "wikilink")
   - [キャッスル・ファルケンシュタイン](https://ja.wikipedia.org/wiki/キャッスル・ファルケンシュタイン "wikilink")
-  - [トラベラー](https://ja.wikipedia.org/wiki/トラベラー_\(TRPG\) "wikilink")
+  - [トラベラー](../Page/トラベラー_\(TRPG\).md "wikilink")
   - [ナイトメアハンター＝ディープ](../Page/ナイトメアハンター＝ディープ.md "wikilink")
-  - [d20ファイティングファンタジー](https://ja.wikipedia.org/wiki/ファイティング・ファンタジー "wikilink")
+  - [d20ファイティングファンタジー](../Page/ファイティング・ファンタジー.md "wikilink")
   - [モンスターメーカー](../Page/モンスターメーカー.md "wikilink")RPGレジェンド
   - [ルール・ザ・ワールド](https://ja.wikipedia.org/wiki/ルール・ザ・ワールド "wikilink")：ワイルド7
   - [カットスロート・プラネット](https://ja.wikipedia.org/wiki/カットスロート・プラネット "wikilink")
@@ -87,7 +87,7 @@
 <!-- end list -->
 
   -
-    『[キャッスル・ファルケンシュタイン](https://ja.wikipedia.org/wiki/キャッスル・ファルケンシュタイン "wikilink")』のシナリオ。執筆は[桂令夫](https://ja.wikipedia.org/wiki/桂令夫 "wikilink")。
+    『[キャッスル・ファルケンシュタイン](https://ja.wikipedia.org/wiki/キャッスル・ファルケンシュタイン "wikilink")』のシナリオ。執筆は[桂令夫](../Page/桂令夫.md "wikilink")。
 
 <!-- end list -->
 
@@ -96,7 +96,7 @@
 <!-- end list -->
 
   -
-    GDW社の宇宙戦ボードゲームを復刻。『[トラベラー](https://ja.wikipedia.org/wiki/トラベラー_\(TRPG\) "wikilink")』の[サプリメントにもなる](https://ja.wikipedia.org/wiki/サプリメント_\(TRPG\) "wikilink")。
+    GDW社の宇宙戦ボードゲームを復刻。『[トラベラー](../Page/トラベラー_\(TRPG\).md "wikilink")』の[サプリメントにもなる](https://ja.wikipedia.org/wiki/サプリメント_\(TRPG\) "wikilink")。
 
 <!-- end list -->
 
@@ -105,7 +105,7 @@
 <!-- end list -->
 
   -
-    『[モンスターメーカー](../Page/モンスターメーカー.md "wikilink")』のボードゲーム。デザインは[鈴木銀一郎](https://ja.wikipedia.org/wiki/鈴木銀一郎 "wikilink")が担当。
+    『[モンスターメーカー](../Page/モンスターメーカー.md "wikilink")』のボードゲーム。デザインは[鈴木銀一郎](../Page/鈴木銀一郎.md "wikilink")が担当。
 
 <!-- end list -->
 
@@ -123,7 +123,7 @@
 <!-- end list -->
 
   -
-    『[ファイティング・ファンタジー](https://ja.wikipedia.org/wiki/ファイティング・ファンタジー "wikilink")』のオリジナル新作[ゲームブック](https://ja.wikipedia.org/wiki/ゲームブック "wikilink")。総パラグラフ400。
+    『[ファイティング・ファンタジー](../Page/ファイティング・ファンタジー.md "wikilink")』のオリジナル新作[ゲームブック](../Page/ゲームブック.md "wikilink")。総パラグラフ400。
 
 <!-- end list -->
 
@@ -141,7 +141,7 @@
 <!-- end list -->
 
   -
-    GDW社の星間戦争シミュレーションゲームを復刻。『[トラベラー](https://ja.wikipedia.org/wiki/トラベラー_\(TRPG\) "wikilink")』の[サプリメントにもなる](https://ja.wikipedia.org/wiki/サプリメント_\(TRPG\) "wikilink")。
+    GDW社の星間戦争シミュレーションゲームを復刻。『[トラベラー](../Page/トラベラー_\(TRPG\).md "wikilink")』の[サプリメントにもなる](https://ja.wikipedia.org/wiki/サプリメント_\(TRPG\) "wikilink")。
 
 <!-- end list -->
 
@@ -150,7 +150,7 @@
 <!-- end list -->
 
   -
-    ダンジョンを舞台にしたバトルを描くボードゲーム。オリジナル新作。デザインは[藤浪智之](https://ja.wikipedia.org/wiki/藤浪智之 "wikilink")。
+    ダンジョンを舞台にしたバトルを描くボードゲーム。オリジナル新作。デザインは[藤浪智之](../Page/藤浪智之.md "wikilink")。
 
 <!-- end list -->
 
@@ -159,7 +159,7 @@
 <!-- end list -->
 
   -
-    [芝村裕吏](https://ja.wikipedia.org/wiki/芝村裕吏 "wikilink")デザインによるオリジナルTRPG。GMの事前準備ゼロで遊べることをテーマにデザインされている。
+    [芝村裕吏](../Page/芝村裕吏.md "wikilink")デザインによるオリジナルTRPG。GMの事前準備ゼロで遊べることをテーマにデザインされている。
 
 <!-- end list -->
 

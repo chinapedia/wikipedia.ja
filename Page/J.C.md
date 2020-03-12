@@ -1,11 +1,11 @@
 > この記事は[J.C](https://ja.wikipedia.org/wiki/J.C)から翻訳されています。
 
 
-『**J.C**』（ジェーシー）は、日本の[ラジオドラマ](https://ja.wikipedia.org/wiki/ラジオドラマ "wikilink")作品。シナリオバンク、[プレイワークス](../Page/プレイワークス.md "wikilink")（主宰：[岩井俊二](../Page/岩井俊二.md "wikilink")）によるプレイワークスプロジェクトラジオドラマ第1弾。
+『**J.C**』（ジェーシー）は、日本の[ラジオドラマ](../Page/ラジオドラマ.md "wikilink")作品。シナリオバンク、[プレイワークス](../Page/プレイワークス.md "wikilink")（主宰：[岩井俊二](../Page/岩井俊二.md "wikilink")）によるプレイワークスプロジェクトラジオドラマ第1弾。
 
 ## 概要
 
-[JFN系](../Page/全国FM放送協議会.md "wikilink")『円都通信 -YEN TOWN REPORT-』にて、[2004年](../Page/2004年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")から[2004年](../Page/2004年.md "wikilink")[5月6日](../Page/5月6日.md "wikilink")（メイキング放送含む）まで、全2話放送。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月11日](../Page/1月11日.md "wikilink")には[avex traxより](https://ja.wikipedia.org/wiki/avex_trax "wikilink")1万枚限定でCD（[CCCD仕様](../Page/コピーコントロールCD.md "wikilink")）が発売された。
+[JFN系](../Page/全国FM放送協議会.md "wikilink")『円都通信 -YEN TOWN REPORT-』にて、[2004年](../Page/2004年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")から[2004年](../Page/2004年.md "wikilink")[5月6日](../Page/5月6日.md "wikilink")（メイキング放送含む）まで、全2話放送。[2006年](../Page/2006年.md "wikilink")[1月11日](../Page/1月11日.md "wikilink")には[avex traxより](https://ja.wikipedia.org/wiki/avex_trax "wikilink")1万枚限定でCD（[CCCD仕様](../Page/コピーコントロールCD.md "wikilink")）が発売された。
 
 なお、これが[藤本康生](https://ja.wikipedia.org/wiki/藤本康生 "wikilink")（ふじもとやすお）脚本・監督デビュー作となる。
 

@@ -1,7 +1,7 @@
 > この記事は[KATHMANDU \(\)](https://ja.wikipedia.org/wiki/KATHMANDU_\(\))から翻訳されています。
 
 
-『**KATHMANDU**』（カトマンドゥ）は、[松任谷由実](../Page/松任谷由実.md "wikilink")（ユーミン）の27枚目のオリジナルアルバム。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[12月1日](../Page/12月1日.md "wikilink")に[東芝EMIからリリースされた](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")（CD：TOCT-9300、CT：TOTT-9300）。1995年[12月18日](../Page/12月18日.md "wikilink")～[1996年](../Page/1996年.md "wikilink")[6月23日](../Page/6月23日.md "wikilink")、『KATHMANDU PILGRIM』コンサートツアーが行われた。
+『**KATHMANDU**』（カトマンドゥ）は、[松任谷由実](../Page/松任谷由実.md "wikilink")（ユーミン）の27枚目のオリジナルアルバム。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[12月1日](../Page/12月1日.md "wikilink")に[東芝EMIからリリースされた](../Page/EMIミュージック・ジャパン.md "wikilink")（CD：TOCT-9300、CT：TOTT-9300）。1995年[12月18日](../Page/12月18日.md "wikilink")～[1996年](../Page/1996年.md "wikilink")[6月23日](../Page/6月23日.md "wikilink")、『KATHMANDU PILGRIM』コンサートツアーが行われた。
 
 ## 解説
 
@@ -23,17 +23,17 @@
         アンデス風のイントロで始まる。長い旅を経て辿り着いた先は出発地点だったという内容。
 3.  **[命の花](../Page/命の花.md "wikilink")**
       -
-        ユーミン曰く「アシッド演歌」だそうである。[TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[私の運命](../Page/私の運命.md "wikilink")』後期主題歌。元々シングルで発売される予定だったが、[阪神大震災が発生した際](../Page/阪神・淡路大震災.md "wikilink")、詞の中に地震を連想させる歌詞があったため、被災者の心情を考慮し発売中止となった。松任谷正隆は「この曲は、アルバムに収録しなくても良いのでは?」と収録をためらったが、ユーミン本人の強い意向により収録された。また、アルバムに収録されているのは、発売中止となったシングルとは異なるアルバムバージョンとなっている。同ドラマのサウンドトラックにもこの曲は[インストゥルメンタルでしか収録されていない](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")。ゲストバックコーラスは同ドラマで音楽を担当した[熊谷幸子](../Page/熊谷幸子.md "wikilink")。
+        ユーミン曰く「アシッド演歌」だそうである。[TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[私の運命](../Page/私の運命.md "wikilink")』後期主題歌。元々シングルで発売される予定だったが、[阪神大震災が発生した際](../Page/阪神・淡路大震災.md "wikilink")、詞の中に地震を連想させる歌詞があったため、被災者の心情を考慮し発売中止となった。松任谷正隆は「この曲は、アルバムに収録しなくても良いのでは?」と収録をためらったが、ユーミン本人の強い意向により収録された。また、アルバムに収録されているのは、発売中止となったシングルとは異なるアルバムバージョンとなっている。同ドラマのサウンドトラックにもこの曲は[インストゥルメンタルでしか収録されていない](../Page/器楽曲.md "wikilink")。ゲストバックコーラスは同ドラマで音楽を担当した[熊谷幸子](../Page/熊谷幸子.md "wikilink")。
 4.  **Baby Pink**
 5.  **Delphine**
       -
         ユーミンの曲の中で2番目に長い曲（6分38秒、一番長いのは『[時のないホテル](https://ja.wikipedia.org/wiki/時のないホテル "wikilink")』の「コンパートメント」）。
 6.  **[輪舞曲（ロンド）](../Page/輪舞曲_\(松任谷由実の曲\).md "wikilink")**
       -
-        ユーミン談によると「やや皮肉な歌で“永遠って悲しい”がテーマ」だという。1995年[日本テレビ系ドラマ](../Page/日本テレビ放送網.md "wikilink")『[たたかうお嫁さま](https://ja.wikipedia.org/wiki/たたかうお嫁さま "wikilink")』（出演・[松本明子](../Page/松本明子.md "wikilink")、[橋爪功](https://ja.wikipedia.org/wiki/橋爪功 "wikilink")）主題歌である先行シングル。公式サイトと公式[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")チャンネルでプロモーションビデオが視聴可能。
+        ユーミン談によると「やや皮肉な歌で“永遠って悲しい”がテーマ」だという。1995年[日本テレビ系ドラマ](../Page/日本テレビ放送網.md "wikilink")『[たたかうお嫁さま](../Page/たたかうお嫁さま.md "wikilink")』（出演・[松本明子](../Page/松本明子.md "wikilink")、[橋爪功](../Page/橋爪功.md "wikilink")）主題歌である先行シングル。公式サイトと公式[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")チャンネルでプロモーションビデオが視聴可能。
 7.  **Broken Barricade**
       -
-        バグパイプ・マーチがイントロを飾る。1995年[苗場プリンスホテルCMソング](https://ja.wikipedia.org/wiki/プリンスホテル "wikilink")。
+        バグパイプ・マーチがイントロを飾る。1995年[苗場プリンスホテルCMソング](../Page/プリンスホテル.md "wikilink")。
 8.  **Midnight Scarecrow**
       -
         シングル『輪舞曲（ロンド）』のカップリング曲。映画『[キャンプで逢いましょう](../Page/キャンプで逢いましょう.md "wikilink")』主題歌。
@@ -50,10 +50,10 @@
   - キーボード&プログラミング：松任谷正隆
   - シンセサイザー・プログラミング&オペレーティング：山中雅文
   - ドラム：[John Robinson](../Page/ジョン・ロビンソン.md "wikilink")
-  - ハイハット&シンバル：[島村英二](https://ja.wikipedia.org/wiki/島村英二 "wikilink")
+  - ハイハット&シンバル：[島村英二](../Page/島村英二.md "wikilink")
   - ベース：[Nathan East](https://ja.wikipedia.org/wiki/ネイサン・イースト "wikilink")、[Leland Sklar](../Page/リーランド・スカラー.md "wikilink")
   - アコースティック・ギター、マンドリン&エレクトレック・ギター：[Dean Parks](https://ja.wikipedia.org/wiki/ディーン・パークス "wikilink")
-  - エレキギター：[Paul Jackson, Jr.](https://ja.wikipedia.org/wiki/ポール・ジャクソン・ジュニア "wikilink")、[Michael Landou](https://ja.wikipedia.org/wiki/マイケル・ランドー "wikilink")、[松原正樹](../Page/松原正樹.md "wikilink")
+  - エレキギター：[Paul Jackson, Jr.](../Page/ポール・ジャクソン・ジュニア.md "wikilink")、[Michael Landou](https://ja.wikipedia.org/wiki/マイケル・ランドー "wikilink")、[松原正樹](../Page/松原正樹.md "wikilink")
   - ガットギター：Dean Parks
   - トランペット：[Jerry Hey](../Page/ジェリー・ヘイ.md "wikilink")、[Gary Grant](https://ja.wikipedia.org/wiki/ゲリー・グラント "wikilink")
   - トロンボーン：[Bill Reichenbach](../Page/ビル・ライヒェンバッハ.md "wikilink")

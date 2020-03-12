@@ -1,7 +1,7 @@
 > この記事は[Role\&Roll](https://ja.wikipedia.org/wiki/Role\&Roll)から翻訳されています。
 
 
-『**Role\&Roll**』（ロールアンドロール）は、[新紀元社](https://ja.wikipedia.org/wiki/新紀元社 "wikilink")から発行されている[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")（TRPG）専門の[ゲーム雑誌](https://ja.wikipedia.org/wiki/ゲーム雑誌 "wikilink")である。[2003年](../Page/2003年.md "wikilink")6月に創刊。当初は隔月刊であったが第7号より月刊化した。編集は[アークライトが担当している](../Page/アークライト_\(企業\).md "wikilink")。
+『**Role\&Roll**』（ロールアンドロール）は、[新紀元社](../Page/新紀元社.md "wikilink")から発行されている[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")（TRPG）専門の[ゲーム雑誌](../Page/ゲーム雑誌.md "wikilink")である。[2003年](../Page/2003年.md "wikilink")6月に創刊。当初は隔月刊であったが第7号より月刊化した。編集は[アークライトが担当している](../Page/アークライト_\(企業\).md "wikilink")。
 
 ## 概要
 
@@ -11,7 +11,7 @@ TRPG雑誌は[1990年代](../Page/1990年代.md "wikilink")前半までは多数
 
 そんな状況の中で、「一般書店でも購入できるTRPGの総合情報誌」として[2003年](../Page/2003年.md "wikilink")に創刊されたのが『Role\&Roll』である（なお、正確には[雑誌](../Page/雑誌.md "wikilink")ではなく定期刊行の[書籍である](../Page/本.md "wikilink")）。
 
-表紙イラストは創刊号から[緒方剛志](https://ja.wikipedia.org/wiki/緒方剛志 "wikilink")が担当しており、その号の特集記事に関係したテーマを毎号描いている。
+表紙イラストは創刊号から[緒方剛志](../Page/緒方剛志.md "wikilink")が担当しており、その号の特集記事に関係したテーマを毎号描いている。
 
 ## 主な記事
 
@@ -24,7 +24,7 @@ TRPG雑誌は[1990年代](../Page/1990年代.md "wikilink")前半までは多数
   - ボードゲーム関係
     『Role\&Roll』はTRPG雑誌ではあるが、[ボードゲーム](../Page/ボードゲーム.md "wikilink")や[カードゲーム](../Page/カードゲーム.md "wikilink")の紹介に非常に力を入れている雑誌でもある。
   - コラム
-    業界人による[コラム](https://ja.wikipedia.org/wiki/コラム "wikilink")が豊富で、[安田均](../Page/安田均.md "wikilink")や[鈴木銀一郎](https://ja.wikipedia.org/wiki/鈴木銀一郎 "wikilink")などの業界の重鎮の連載もあり単行本化されたものもある。
+    業界人による[コラム](https://ja.wikipedia.org/wiki/コラム "wikilink")が豊富で、[安田均](../Page/安田均.md "wikilink")や[鈴木銀一郎](../Page/鈴木銀一郎.md "wikilink")などの業界の重鎮の連載もあり単行本化されたものもある。
   - レビューコミック
     緑一色作画によるゲームプレイレポートコミック「スピタのコピタの！」が創刊号から続いている。
 
@@ -38,7 +38,7 @@ TRPG雑誌は[1990年代](../Page/1990年代.md "wikilink")前半までは多数
   - [異界戦記カオスフレア](../Page/異界戦記カオスフレア.md "wikilink") ※
   - [異能使い](../Page/異能使い.md "wikilink")
   - [ヴァンパイアハントRPG ブラッド・クルセイド](https://ja.wikipedia.org/wiki/ブラッド・クルセイド "wikilink") ※
-  - [ウィザードリィRPG](https://ja.wikipedia.org/wiki/ウィザードリィRPG "wikilink")
+  - [ウィザードリィRPG](../Page/ウィザードリィRPG.md "wikilink")
   - [ウォーハンマーRPG](../Page/ウォーハンマーRPG.md "wikilink")（第2版）
   - エリュシオンRPG ※
   - [エンドブレイカー\!](https://ja.wikipedia.org/wiki/エンドブレイカー! "wikilink")RPG ※
@@ -50,7 +50,7 @@ TRPG雑誌は[1990年代](../Page/1990年代.md "wikilink")前半までは多数
   - [ガンドッグ](../Page/ガンドッグ_\(TRPG\).md "wikilink") ※
   - [巨神戦記ギガントマキア](https://ja.wikipedia.org/wiki/巨神戦記ギガントマキア "wikilink")
   - [グローリアス・サーガ](https://ja.wikipedia.org/wiki/グローリアス・サーガ "wikilink")
-  - [ゴーストハンターRPG](https://ja.wikipedia.org/wiki/ゴーストハンターRPG "wikilink") （第2版、『ゴーストハンターRPG 02』）
+  - [ゴーストハンターRPG](../Page/ゴーストハンターRPG.md "wikilink") （第2版、『ゴーストハンターRPG 02』）
   - [クトゥルフ神話TRPG](../Page/クトゥルフの呼び声_\(TRPG\).md "wikilink") ※
       - コール オブ クトゥルフ d20
   - [ゲヘナ](../Page/ゲヘナ_\(TRPG\).md "wikilink")
@@ -59,11 +59,11 @@ TRPG雑誌は[1990年代](../Page/1990年代.md "wikilink")前半までは多数
   - [ご近所メルヒェンRPG ピーカーブー](https://ja.wikipedia.org/wiki/ピーカーブー "wikilink") ※
   - [サタスペ](../Page/サタスペ.md "wikilink")
   - [サヴェッジ・サイエンス](https://ja.wikipedia.org/wiki/サヴェッジ・サイエンス "wikilink")
-  - [シャドウラン](https://ja.wikipedia.org/wiki/シャドウラン "wikilink")（第4版）
+  - [シャドウラン](../Page/シャドウラン.md "wikilink")（第4版）
   - [上海退魔行](../Page/上海退魔行.md "wikilink")
-  - [シルバーレイン](https://ja.wikipedia.org/wiki/シルバーレイン "wikilink")RPG
-  - [深淵](https://ja.wikipedia.org/wiki/深淵_\(ゲーム\) "wikilink")（第2版）
-  - [真・女神転生TRPG](https://ja.wikipedia.org/wiki/真・女神転生RPG "wikilink")
+  - [シルバーレイン](../Page/シルバーレイン.md "wikilink")RPG
+  - [深淵](../Page/深淵_\(ゲーム\).md "wikilink")（第2版）
+  - [真・女神転生TRPG](../Page/真・女神転生RPG.md "wikilink")
       - 真・女神転生IIITRPG
       - 真・女神転生TRPG 魔都東京200X
   - [スクラップド・プリンセスRPG](../Page/スクラップド・プリンセスRPG.md "wikilink")
@@ -77,18 +77,18 @@ TRPG雑誌は[1990年代](../Page/1990年代.md "wikilink")前半までは多数
   - [墜落世界](https://ja.wikipedia.org/wiki/墜落世界 "wikilink")
   - [デモンパラサイト](../Page/デモンパラサイト.md "wikilink") ※
   - [トーキョーN◎VA](../Page/トーキョーN◎VA.md "wikilink")
-  - [トラベラー](https://ja.wikipedia.org/wiki/トラベラー_\(TRPG\) "wikilink")
-  - [トンネルズ&トロールズ](https://ja.wikipedia.org/wiki/トンネルズ&トロールズ "wikilink")（第7版） ※
+  - [トラベラー](../Page/トラベラー_\(TRPG\).md "wikilink")
+  - [トンネルズ&トロールズ](../Page/トンネルズ&トロールズ.md "wikilink")（第7版） ※
   - [秘神大作戦](../Page/秘神大作戦.md "wikilink")
   - [扶桑武侠傳](https://ja.wikipedia.org/wiki/扶桑武侠傳 "wikilink") ※
   - [ホラーアクションRPG ハンターズ・ムーン](https://ja.wikipedia.org/wiki/ハンターズ・ムーン "wikilink") ※
   - [魔道書大戦RPG マギカロギア](https://ja.wikipedia.org/wiki/マギカロギア "wikilink") ※
-  - [無限のファンタジア](https://ja.wikipedia.org/wiki/無限のファンタジア "wikilink") ※
-  - [迷宮キングダム](https://ja.wikipedia.org/wiki/迷宮キングダム "wikilink")
+  - [無限のファンタジア](../Page/無限のファンタジア.md "wikilink") ※
+  - [迷宮キングダム](../Page/迷宮キングダム.md "wikilink")
   - [リアリティショーRPG キルデスビジネス](https://ja.wikipedia.org/wiki/キルデスビジネス "wikilink") ※
-  - [ローズ・トゥ・ロード](https://ja.wikipedia.org/wiki/ローズ・トゥ・ロード "wikilink")
-  - [六門世界RPG](https://ja.wikipedia.org/wiki/六門世界RPG "wikilink")
-  - [ワールド・オブ・ダークネス](https://ja.wikipedia.org/wiki/ワールド・オブ・ダークネス "wikilink") ※
+  - [ローズ・トゥ・ロード](../Page/ローズ・トゥ・ロード.md "wikilink")
+  - [六門世界RPG](../Page/六門世界RPG.md "wikilink")
+  - [ワールド・オブ・ダークネス](../Page/ワールド・オブ・ダークネス.md "wikilink") ※
 
 ※印のついているものは『ロール&ロールRPGシリーズ』として発売されているもの\[1\]。このシリーズの作品はゲームサポートが優先的に行われる傾向にある。
 

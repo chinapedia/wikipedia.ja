@@ -1,7 +1,7 @@
 > この記事は[MOSFET](https://ja.wikipedia.org/wiki/MOSFET)から翻訳されています。
 
 
-[D2PAK.JPG](https://ja.wikipedia.org/wiki/File:D2PAK.JPG "fig:D2PAK.JPG") **パワーMOSFET**（）は、大電力を取り扱うように設計された[MOSFET](../Page/MOSFET.md "wikilink")のこと。 他の[パワーデバイスと比較するとスイッチング速度が速く](https://ja.wikipedia.org/wiki/電力用半導体素子 "wikilink")、低電圧領域での変換効率が高い為、200V以下の領域で、[スイッチング電源](https://ja.wikipedia.org/wiki/スイッチング電源 "wikilink")や、[DC-DCコンバータ](https://ja.wikipedia.org/wiki/DC-DCコンバータ "wikilink")等に用いられる。
+[D2PAK.JPG](https://ja.wikipedia.org/wiki/File:D2PAK.JPG "fig:D2PAK.JPG") **パワーMOSFET**（）は、大電力を取り扱うように設計された[MOSFET](../Page/MOSFET.md "wikilink")のこと。 他の[パワーデバイスと比較するとスイッチング速度が速く](../Page/電力用半導体素子.md "wikilink")、低電圧領域での変換効率が高い為、200V以下の領域で、[スイッチング電源](../Page/スイッチング電源.md "wikilink")や、[DC-DCコンバータ](https://ja.wikipedia.org/wiki/DC-DCコンバータ "wikilink")等に用いられる。
 
 [MOSFET.jpg](https://ja.wikipedia.org/wiki/File:MOSFET.jpg "fig:MOSFET.jpg")
 
@@ -45,7 +45,7 @@
 
 ## 関連項目
 
-  - [電力用半導体素子](https://ja.wikipedia.org/wiki/電力用半導体素子 "wikilink")
+  - [電力用半導体素子](../Page/電力用半導体素子.md "wikilink")
   - [絶縁ゲートバイポーラトランジスタ](../Page/絶縁ゲートバイポーラトランジスタ.md "wikilink")
 
 [Category:トランジスタ](https://ja.wikipedia.org/wiki/Category:トランジスタ "wikilink") [Category:パワーエレクトロニクス](https://ja.wikipedia.org/wiki/Category:パワーエレクトロニクス "wikilink")

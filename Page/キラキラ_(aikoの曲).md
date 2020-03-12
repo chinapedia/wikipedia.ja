@@ -5,18 +5,18 @@
 
 ## 概要
 
-  - 前作「[三国駅](https://ja.wikipedia.org/wiki/三国駅_\(aikoの曲\) "wikilink")」から約6ヶ月ぶりのリリース。
+  - 前作「[三国駅](../Page/三国駅_\(aikoの曲\).md "wikilink")」から約6ヶ月ぶりのリリース。
   - 初回限定盤のみカラートレイ仕様。
   - インストバージョンを除く収録曲が全曲オリジナル・アルバムに収録されている（「より道」のみ別アレンジ）。
-  - 累計売上は「[初恋](https://ja.wikipedia.org/wiki/初恋_\(aikoの曲\) "wikilink")」以来11作ぶりに20万枚を突破した。
+  - 累計売上は「[初恋](../Page/初恋_\(aikoの曲\).md "wikilink")」以来11作ぶりに20万枚を突破した。
 
 ## 収録曲
 
 1.  **キラキラ**
       -
-        [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")『[がんばっていきまっしょい](https://ja.wikipedia.org/wiki/がんばっていきまっしょい "wikilink")』主題歌。
+        [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")『[がんばっていきまっしょい](../Page/がんばっていきまっしょい.md "wikilink")』主題歌。
         aikoはこのドラマと「夏」をイメージに曲を作っている。
-        このドラマをイメージして制作された[TOYOTA](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")・[ポルテの](https://ja.wikipedia.org/wiki/トヨタ・ポルテ "wikilink")[CM中においても使われた](../Page/コマーシャルメッセージ.md "wikilink")。
+        このドラマをイメージして制作された[TOYOTA](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")・[ポルテの](../Page/トヨタ・ポルテ.md "wikilink")[CM中においても使われた](../Page/コマーシャルメッセージ.md "wikilink")。
         PVはaikoがピアノを演奏している場面を中心に撮影されているが、これはaikoが作曲を行う際にピアノを使うことが影響している。
 2.  **ある日のひまわり**
       -
@@ -24,7 +24,7 @@
 3.  **より道**
       -
         aikoによる弾き語りである。
-        この曲はカップリングとして扱われていたため『[彼女](https://ja.wikipedia.org/wiki/彼女_\(アルバム\) "wikilink")』『[秘密](https://ja.wikipedia.org/wiki/秘密_\(aikoのアルバム\) "wikilink")』には収録されていなかったが、アルバム『[BABY](https://ja.wikipedia.org/wiki/BABY_\(aikoのアルバム\) "wikilink")』にロックバージョンとして収録されている。アルバム2作を跨ぎカップリングが収録されるのは「[花火](https://ja.wikipedia.org/wiki/花火_\(aikoの曲\) "wikilink")」のカップリング曲「相合傘」が『[秋 そばにいるよ](https://ja.wikipedia.org/wiki/秋_そばにいるよ "wikilink")』に収録されて以来2回目である。
+        この曲はカップリングとして扱われていたため『[彼女](../Page/彼女_\(アルバム\).md "wikilink")』『[秘密](https://ja.wikipedia.org/wiki/秘密_\(aikoのアルバム\) "wikilink")』には収録されていなかったが、アルバム『[BABY](https://ja.wikipedia.org/wiki/BABY_\(aikoのアルバム\) "wikilink")』にロックバージョンとして収録されている。アルバム2作を跨ぎカップリングが収録されるのは「[花火](../Page/花火_\(aikoの曲\).md "wikilink")」のカップリング曲「相合傘」が『[秋 そばにいるよ](../Page/秋_そばにいるよ.md "wikilink")』に収録されて以来2回目である。
 4.  キラキラ（instrumental）
 
 <!-- end list -->
@@ -34,7 +34,7 @@
 
 ## 収録アルバム
 
-  - [彼女](https://ja.wikipedia.org/wiki/彼女_\(アルバム\) "wikilink")（\#1,\#2）
+  - [彼女](../Page/彼女_\(アルバム\).md "wikilink")（\#1,\#2）
   - [BABY](https://ja.wikipedia.org/wiki/BABY_\(aikoのアルバム\) "wikilink")（\#3のアルバムバージョン）
 
 ## 外部リンク

@@ -1,7 +1,7 @@
 > この記事は[SIDSPACE](https://ja.wikipedia.org/wiki/SIDSPACE)から翻訳されています。
 
 
-**SIDSPACE**は[ラテン語](../Page/ラテン語.md "wikilink")で[奪格](../Page/奪格.md "wikilink")をとる代表的な[前置詞](https://ja.wikipedia.org/wiki/前置詞 "wikilink")（sub, in, dē, sine, prō, ab, cum, ex）の頭文字をとった暗記用の符丁である。ほかに奪格をとる[前置詞](https://ja.wikipedia.org/wiki/前置詞 "wikilink")は absque, coram, palam, tenus, prae, subter, super などがある。どの[ラテン語](../Page/ラテン語.md "wikilink")の [前置詞が](https://ja.wikipedia.org/wiki/接置詞 "wikilink")[アブレーションケースを使用するかを記憶するために使用される](../Page/奪格.md "wikilink")[ニーモニック](../Page/記憶術.md "wikilink")。 \[1\] \[2\]
+**SIDSPACE**は[ラテン語](../Page/ラテン語.md "wikilink")で[奪格](../Page/奪格.md "wikilink")をとる代表的な[前置詞](https://ja.wikipedia.org/wiki/前置詞 "wikilink")（sub, in, dē, sine, prō, ab, cum, ex）の頭文字をとった暗記用の符丁である。ほかに奪格をとる[前置詞](https://ja.wikipedia.org/wiki/前置詞 "wikilink")は absque, coram, palam, tenus, prae, subter, super などがある。どの[ラテン語](../Page/ラテン語.md "wikilink")の [前置詞が](../Page/接置詞.md "wikilink")[アブレーションケースを使用するかを記憶するために使用される](../Page/奪格.md "wikilink")[ニーモニック](../Page/記憶術.md "wikilink")。 \[1\] \[2\]
 
 SIDSPACEはsub（中）、in（at）、de（about）、sine（without）、pro（before）、ab（after）、cum（with）、ex（from）の前置詞を表す。 \[3\] \[4\] これらの言葉のすべてがすべての文脈で[アブレーションの場合をとるわけではないが](../Page/奪格.md "wikilink")、それらのすべては時々それをとる。 たとえば、「in」は、「彼はイタリアにいます」のように、位置を表すときは[アブレイティブなケースを取るが](../Page/奪格.md "wikilink")、「彼はイタリアに行った」などの動きを表すときは、 [非難的なケースを取る](../Page/対格.md "wikilink")。  ニーモニックは、韻に含まれるあまり一般的ではない前置詞の一部を省略。
 

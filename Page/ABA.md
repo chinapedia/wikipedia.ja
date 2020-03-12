@@ -15,11 +15,11 @@
 
 <!-- end list -->
 
-  - [アブシシン酸](https://ja.wikipedia.org/wiki/アブシシン酸 "wikilink")の略称。
+  - [アブシシン酸](../Page/アブシシン酸.md "wikilink")の略称。
   - [青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")の[放送局](../Page/放送局.md "wikilink")、[青森朝日放送](../Page/青森朝日放送.md "wikilink") (Asahi Broadcasting Aomori) の略称。
   - [空港アクセスバス・アライアンス](http://airport-bus-alliance.com/)（Airport Bus Alliance）の略称。
   - [アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[バスケットボール](../Page/バスケットボール.md "wikilink")リーグAmerican Basketball Association（アメリカン・バスケットボール・アソシエーション）の略称。
-      - 現存する[独立リーグ](https://ja.wikipedia.org/wiki/独立リーグ "wikilink")（セミプロ組織）→[アメリカン・バスケットボール・アソシエーション](../Page/アメリカン・バスケットボール・アソシエーション.md "wikilink")
+      - 現存する[独立リーグ](../Page/独立リーグ.md "wikilink")（セミプロ組織）→[アメリカン・バスケットボール・アソシエーション](../Page/アメリカン・バスケットボール・アソシエーション.md "wikilink")
       - 1967年-1976年に実在したプロリーグ→[アメリカン・バスケットボール・アソシエーション (1967-1976年)](../Page/アメリカン・バスケットボール・アソシエーション_\(1967-1976年\).md "wikilink")
   - アメリカ合衆国のAmerican Baptist Association（[米国バプテスト連盟](https://ja.wikipedia.org/wiki/米国バプテスト連盟 "wikilink")）の略称。
   - American Bar Association（[アメリカ法曹協会](https://ja.wikipedia.org/wiki/アメリカ法曹協会 "wikilink")）の略称。

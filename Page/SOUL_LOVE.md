@@ -1,7 +1,7 @@
 > この記事は[SOUL LOVE](https://ja.wikipedia.org/wiki/SOUL_LOVE)から翻訳されています。
 
 
-「**SOUL LOVE**」（ソウル ラブ）は、[GLAY](../Page/GLAY.md "wikilink")の14作目の[シングル](../Page/シングル.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月29日](../Page/4月29日.md "wikilink")に[ポリドール](https://ja.wikipedia.org/wiki/ポリドール "wikilink")（現・[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")）から発売された。
+「**SOUL LOVE**」（ソウル ラブ）は、[GLAY](../Page/GLAY.md "wikilink")の14作目の[シングル](../Page/シングル.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月29日](../Page/4月29日.md "wikilink")に[ポリドール](https://ja.wikipedia.org/wiki/ポリドール "wikilink")（現・[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）から発売された。
 
 ## 概要
 
@@ -10,7 +10,7 @@
 
 ## 収録曲
 
-全編曲：GLAY、[佐久間正英](https://ja.wikipedia.org/wiki/佐久間正英 "wikilink")
+全編曲：GLAY、[佐久間正英](../Page/佐久間正英.md "wikilink")
 
 1.  **SOUL LOVE** \[4:26\]
       - 作詞・作曲：[TAKURO](../Page/TAKURO.md "wikilink")
@@ -23,11 +23,11 @@
       -
         HISASHIが作詞・作曲を担当したのはこの曲で3曲目。タイトルは「愛」「eye(眼)」「[AI](../Page/人工知能.md "wikilink")」「I (自分)」など様々な意味を持つ。HISASHI曰く、「自分の中で葛藤して書いた曲」だという。
         2009年のTAKURO Produce Live THE GREAT VACATION -extra-の「ハッピースインガーがライブで聴きたい曲ベスト10」、2011年のHAPPY SWING 15th Anniversary SPECIAL LIVEの「あなたが聴きたいGLAYの曲」で行われたランキングではどちらでも3位にランクインした。
-3.  **SOUL LOVE ([instrumental](https://ja.wikipedia.org/wiki/器楽曲 "wikilink"))**
+3.  **SOUL LOVE ([instrumental](../Page/器楽曲.md "wikilink"))**
 
 ## タイアップ
 
-  - [カネボウ](https://ja.wikipedia.org/wiki/カネボウ化粧品 "wikilink")（現在は[花王](../Page/花王.md "wikilink")傘下）「ブロンズラブ '98夏」キャンペーンソング。（\#1）
+  - [カネボウ](../Page/カネボウ化粧品.md "wikilink")（現在は[花王](../Page/花王.md "wikilink")傘下）「ブロンズラブ '98夏」キャンペーンソング。（\#1）
 
 ## 収録アルバム
 

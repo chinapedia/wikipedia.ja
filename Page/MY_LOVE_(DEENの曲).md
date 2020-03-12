@@ -1,7 +1,7 @@
 > この記事は[MY LOVE \(DEEN\)](https://ja.wikipedia.org/wiki/MY_LOVE_\(DEEN\))から翻訳されています。
 
 
-「**MY LOVE**」（マイ・ラブ）は、[DEEN](https://ja.wikipedia.org/wiki/DEEN "wikilink")の19th[シングル](../Page/シングル.md "wikilink")。
+「**MY LOVE**」（マイ・ラブ）は、[DEEN](../Page/DEEN.md "wikilink")の19th[シングル](../Page/シングル.md "wikilink")。
 
 ## 概要
 
@@ -17,8 +17,8 @@
 
 ## 収録アルバム
 
-  - 『['need love](https://ja.wikipedia.org/wiki/'need_love "wikilink")』(\#1,2、2曲ともアルバム・バージョン)
-  - 『[Ballads in Blue〜The greatest hits of DEEN〜](https://ja.wikipedia.org/wiki/Ballads_in_Blue〜The_greatest_hits_of_DEEN〜 "wikilink")』(\#1、アルバム・バージョン)
+  - 『['need love](../Page/'need_love.md "wikilink")』(\#1,2、2曲ともアルバム・バージョン)
+  - 『[Ballads in Blue〜The greatest hits of DEEN〜](../Page/Ballads_in_Blue〜The_greatest_hits_of_DEEN〜.md "wikilink")』(\#1、アルバム・バージョン)
   - 『[DEEN PERFECT SINGLES +](https://ja.wikipedia.org/wiki/DEEN_PERFECT_SINGLES_+ "wikilink")』(\#1)
   - 『[Another Side Memories〜Precious Best〜](https://ja.wikipedia.org/wiki/Another_Side_Memories〜Precious_Best〜 "wikilink")』(\#2)
   - 『[DEENAGE MEMORY -20周年記念ベストアルバム-](https://ja.wikipedia.org/wiki/DEENAGE_MEMORY_-20周年記念ベストアルバム- "wikilink")』(\#1)
@@ -32,9 +32,9 @@
 <!-- end list -->
 
   - DEEN
-      - [池森秀一](https://ja.wikipedia.org/wiki/池森秀一 "wikilink"): ボーカル
-      - [山根公路](https://ja.wikipedia.org/wiki/山根公路 "wikilink"): キーボード
+      - [池森秀一](../Page/池森秀一.md "wikilink"): ボーカル
+      - [山根公路](../Page/山根公路.md "wikilink"): キーボード
       - [宇津本直紀](../Page/宇津本直紀.md "wikilink"): ドラム
-      - [田川伸治](https://ja.wikipedia.org/wiki/田川伸治 "wikilink"): ギター
+      - [田川伸治](../Page/田川伸治.md "wikilink"): ギター
 
 [Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:DEENの楽曲](https://ja.wikipedia.org/wiki/Category:DEENの楽曲 "wikilink") [Category:ビーイング関連楽曲](https://ja.wikipedia.org/wiki/Category:ビーイング関連楽曲 "wikilink") [Category:東海テレビ制作昼の帯ドラマ主題歌](https://ja.wikipedia.org/wiki/Category:東海テレビ制作昼の帯ドラマ主題歌 "wikilink") [Category:池森秀一が制作した楽曲](https://ja.wikipedia.org/wiki/Category:池森秀一が制作した楽曲 "wikilink") [Category:ポップ・バラード](https://ja.wikipedia.org/wiki/Category:ポップ・バラード "wikilink") [Category:楽曲_ま](https://ja.wikipedia.org/wiki/Category:楽曲_ま "wikilink")

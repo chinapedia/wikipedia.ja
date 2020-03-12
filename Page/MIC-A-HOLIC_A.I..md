@@ -1,7 +1,7 @@
 > この記事は[MIC-A-HOLIC A.I.](https://ja.wikipedia.org/wiki/MIC-A-HOLIC_A.I.)から翻訳されています。
 
 
-『**MIC-A-HOLIC A.I.**』(マイク・ア・ホリック・エーアイ)は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月6日](../Page/7月6日.md "wikilink")に発売された[AIの](https://ja.wikipedia.org/wiki/AI_\(歌手\) "wikilink")4枚目のオリジナルアルバムである。全15曲入り。
+『**MIC-A-HOLIC A.I.**』(マイク・ア・ホリック・エーアイ)は、[2005年](../Page/2005年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink")に発売された[AIの](https://ja.wikipedia.org/wiki/AI_\(歌手\) "wikilink")4枚目のオリジナルアルバムである。全15曲入り。
 
 ## 概要
 
@@ -26,7 +26,7 @@
 4.  **Once In A Lifetime**
       -
         「一度きりの人生、チャンスを逃すな」というメッセージソング。本アルバムで唯一、ラップを披露している。
-        bjリーグ・[仙台89ERS](https://ja.wikipedia.org/wiki/仙台89ERS "wikilink") 2005-06シーズンサポートソング。
+        bjリーグ・[仙台89ERS](../Page/仙台89ERS.md "wikilink") 2005-06シーズンサポートソング。
 5.  **QUEEN**
       -
         「人間は見た目ではなく内面。一人一人がオリジナルなもの」という楽曲。先行シングル『365 Faat.DELI』の2曲目に収録されている。
@@ -50,7 +50,7 @@
         先行シングル『Crayon Beats』の2曲目であるが、本アルバムではこちらのみが収録されている。
 12. **PASSION**
       -
-        [ラテンテイストを取り入れた情熱的な曲](https://ja.wikipedia.org/wiki/ラテン音楽 "wikilink")。先行シングル『Story』の2曲目に収録されており、プロデュースも同じく2 SOULが手がけている。
+        [ラテンテイストを取り入れた情熱的な曲](../Page/ラテン音楽.md "wikilink")。先行シングル『Story』の2曲目に収録されており、プロデュースも同じく2 SOULが手がけている。
 13. **Sunshine**
       -
         「出会い」をテーマにした楽曲。PVも製作された。
@@ -59,6 +59,6 @@
         『Story』への橋渡し的存在で、この曲を書いた意味を英語でいれている。
 15. **[Story](https://ja.wikipedia.org/wiki/Story_\(AIの曲\) "wikilink")**
       -
-        先行シングルとしてロングヒットした楽曲。この楽曲をアルバムのどこに入れるかで悩んだ結果、インタールードを挟み、最後に入れることで落ち着いたとのこと。なお、多くの女声ポップスをカヴァーしたことで有名な[徳永英明](https://ja.wikipedia.org/wiki/徳永英明 "wikilink")が「挑戦したが、この曲を歌いこなせなかった」と語っており「メッセージ性の強いこの曲を完璧に歌いこなせるのはAIだけである」と言った趣旨のことを語っていた。
+        先行シングルとしてロングヒットした楽曲。この楽曲をアルバムのどこに入れるかで悩んだ結果、インタールードを挟み、最後に入れることで落ち着いたとのこと。なお、多くの女声ポップスをカヴァーしたことで有名な[徳永英明](../Page/徳永英明.md "wikilink")が「挑戦したが、この曲を歌いこなせなかった」と語っており「メッセージ性の強いこの曲を完璧に歌いこなせるのはAIだけである」と言った趣旨のことを語っていた。
 
 [Category:2005年のアルバム](https://ja.wikipedia.org/wiki/Category:2005年のアルバム "wikilink") [Category:AIのアルバム](https://ja.wikipedia.org/wiki/Category:AIのアルバム "wikilink")

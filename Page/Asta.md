@@ -1,26 +1,26 @@
 > この記事は[Asta](https://ja.wikipedia.org/wiki/Asta)から翻訳されています。
 
 
-『**asta\***』（アスタ）は、株式会社[ポプラ社](../Page/ポプラ社.md "wikilink")が発行する[文芸雑誌](https://ja.wikipedia.org/wiki/文芸雑誌 "wikilink")、出版社[PR誌](https://ja.wikipedia.org/wiki/PR誌 "wikilink")。毎月発行されている\[1\]。A5判、平綴じ\[2\]。
+『**asta\***』（アスタ）は、株式会社[ポプラ社](../Page/ポプラ社.md "wikilink")が発行する[文芸雑誌](../Page/文芸雑誌.md "wikilink")、出版社[PR誌](../Page/PR誌.md "wikilink")。毎月発行されている\[1\]。A5判、平綴じ\[2\]。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")10月に創刊される\[3\]。ポプラ社では初の小説誌となる\[4\]。創刊号は『[ダ・ヴィンチ](https://ja.wikipedia.org/wiki/ダ・ヴィンチ "wikilink")』11月号の付録として配布され、話題となった\[5\]。公式サイトから申し込むことができる定期購読と大手書店での無料配布で展開している\[6\]。[小説](../Page/小説.md "wikilink")や[エッセイ](https://ja.wikipedia.org/wiki/エッセイ "wikilink")などを掲載している。本誌連載の後、[ハードカバー](https://ja.wikipedia.org/wiki/ハードカバー "wikilink")化されて新潮社より刊行されるケースが多い。[ポプラ社小説新人賞](https://ja.wikipedia.org/wiki/ポプラ社小説新人賞 "wikilink")の受賞作が発表されている\[7\]。
+[2006年](../Page/2006年.md "wikilink")10月に創刊される\[3\]。ポプラ社では初の小説誌となる\[4\]。創刊号は『[ダ・ヴィンチ](../Page/ダ・ヴィンチ.md "wikilink")』11月号の付録として配布され、話題となった\[5\]。公式サイトから申し込むことができる定期購読と大手書店での無料配布で展開している\[6\]。[小説](../Page/小説.md "wikilink")や[エッセイ](https://ja.wikipedia.org/wiki/エッセイ "wikilink")などを掲載している。本誌連載の後、[ハードカバー](https://ja.wikipedia.org/wiki/ハードカバー "wikilink")化されて新潮社より刊行されるケースが多い。[ポプラ社小説新人賞](https://ja.wikipedia.org/wiki/ポプラ社小説新人賞 "wikilink")の受賞作が発表されている\[7\]。
 
 出版社が発行するPR誌には他に、『[図書](https://ja.wikipedia.org/wiki/図書_\(雑誌\) "wikilink")』（[岩波書店](../Page/岩波書店.md "wikilink")）、『[IN★POCKET](https://ja.wikipedia.org/wiki/IN★POCKET "wikilink")』（[講談社](../Page/講談社.md "wikilink")）、『[本の旅人](../Page/本の旅人.md "wikilink")』（[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")）、『[波](https://ja.wikipedia.org/wiki/波_\(雑誌\) "wikilink")』（[新潮社](../Page/新潮社.md "wikilink")）、『[青春と読書](https://ja.wikipedia.org/wiki/青春と読書 "wikilink")』（[集英社](../Page/集英社.md "wikilink")）などがある。
 
 ## 過去の掲載作品
 
   - [飛鳥井千砂](https://ja.wikipedia.org/wiki/飛鳥井千砂 "wikilink")『UNTITLED』
-  - [池上永一](https://ja.wikipedia.org/wiki/池上永一 "wikilink")『統ばる島』
-  - [大崎梢](https://ja.wikipedia.org/wiki/大崎梢 "wikilink")『クローバー・レイン』
-  - [大島真寿美](https://ja.wikipedia.org/wiki/大島真寿美 "wikilink")『ゼラニウムの庭』
+  - [池上永一](../Page/池上永一.md "wikilink")『統ばる島』
+  - [大崎梢](../Page/大崎梢.md "wikilink")『クローバー・レイン』
+  - [大島真寿美](../Page/大島真寿美.md "wikilink")『ゼラニウムの庭』
   - [小川糸](https://ja.wikipedia.org/wiki/小川糸 "wikilink")『喋々喃々』
-  - [小手鞠るい](https://ja.wikipedia.org/wiki/小手鞠るい "wikilink")『アップルソング』
-  - [小路幸也](https://ja.wikipedia.org/wiki/小路幸也 "wikilink")『花咲小路一丁目の刑事』『花咲小路二丁目の花乃子さん』『花咲小路四丁目の聖人』
+  - [小手鞠るい](../Page/小手鞠るい.md "wikilink")『アップルソング』
+  - [小路幸也](../Page/小路幸也.md "wikilink")『花咲小路一丁目の刑事』『花咲小路二丁目の花乃子さん』『花咲小路四丁目の聖人』
   - [野中ともそ](https://ja.wikipedia.org/wiki/野中ともそ "wikilink")『チェリー』
-  - [初野晴](https://ja.wikipedia.org/wiki/初野晴 "wikilink")『ノーマジーン』
-  - [原田マハ](https://ja.wikipedia.org/wiki/原田マハ "wikilink")『翔ぶ少女』
+  - [初野晴](../Page/初野晴.md "wikilink")『ノーマジーン』
+  - [原田マハ](../Page/原田マハ.md "wikilink")『翔ぶ少女』
   - [藤谷治](https://ja.wikipedia.org/wiki/藤谷治 "wikilink")『全員少年探偵団』
-  - [宮下奈都](https://ja.wikipedia.org/wiki/宮下奈都 "wikilink")『メロディ・フェア』
+  - [宮下奈都](../Page/宮下奈都.md "wikilink")『メロディ・フェア』
   - [吉田篤弘](https://ja.wikipedia.org/wiki/吉田篤弘 "wikilink")『モナ・リザの背中』
 
 ## WEB asta\*

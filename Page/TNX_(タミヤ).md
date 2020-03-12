@@ -1,16 +1,16 @@
 > この記事は[TNX \(\)](https://ja.wikipedia.org/wiki/TNX_\(\))から翻訳されています。
 
 
-**TNX（てぃーえぬえっくす、・タミヤ・ナイトロエックス-TAMIYA NITRO X）**は、田宮模型（現・[タミヤ](../Page/タミヤ.md "wikilink")）より発売中の1/8スケールの[グローエンジン](../Page/グローエンジン.md "wikilink")を動力とする[ラジコン](https://ja.wikipedia.org/wiki/ラジコン "wikilink")ビッグフット・モデル。発売は[2004年](../Page/2004年.md "wikilink")。[米国で行われているスタジアムスピードレース用の](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[モンスタートラック](https://ja.wikipedia.org/wiki/モンスタートラック "wikilink")をモチーフとしており、先代「[テラクラッシャー](../Page/テラクラッシャー.md "wikilink")」の弱点を改善しつつリファインし、よりハイスピードでの走行が可能となっている。組み立て済みフルセットでのリリースで、キット価格は￥69,800。
+**TNX（てぃーえぬえっくす、・タミヤ・ナイトロエックス-TAMIYA NITRO X）**は、田宮模型（現・[タミヤ](../Page/タミヤ.md "wikilink")）より発売中の1/8スケールの[グローエンジン](../Page/グローエンジン.md "wikilink")を動力とする[ラジコン](https://ja.wikipedia.org/wiki/ラジコン "wikilink")ビッグフット・モデル。発売は[2004年](../Page/2004年.md "wikilink")。[米国で行われているスタジアムスピードレース用の](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[モンスタートラック](../Page/モンスタートラック.md "wikilink")をモチーフとしており、先代「[テラクラッシャー](../Page/テラクラッシャー.md "wikilink")」の弱点を改善しつつリファインし、よりハイスピードでの走行が可能となっている。組み立て済みフルセットでのリリースで、キット価格は￥69,800。
 
-  - 搭載される[エンジン](../Page/エンジン.md "wikilink")は「FS-18SR」と呼ばれる[小川精機](https://ja.wikipedia.org/wiki/小川精機 "wikilink")(O.S.)との[タイアップ](https://ja.wikipedia.org/wiki/タイアップ "wikilink")により開発された18クラスの（[排気量](https://ja.wikipedia.org/wiki/排気量 "wikilink")約3cc）[2サイクル](https://ja.wikipedia.org/wiki/2サイクル "wikilink")方式グローエンジンで、先代モデルに比して高性能化が施されている。始動機構はエンジン後部に搭載された[スターター](https://ja.wikipedia.org/wiki/スターター "wikilink")[モーター](https://ja.wikipedia.org/wiki/モーター "wikilink")を別電源により駆動させ始動する「タッチスターターシステム」を採用している。
+  - 搭載される[エンジン](../Page/エンジン.md "wikilink")は「FS-18SR」と呼ばれる[小川精機](../Page/小川精機.md "wikilink")(O.S.)との[タイアップ](../Page/タイアップ.md "wikilink")により開発された18クラスの（[排気量](../Page/排気量.md "wikilink")約3cc）[2サイクル](https://ja.wikipedia.org/wiki/2サイクル "wikilink")方式グローエンジンで、先代モデルに比して高性能化が施されている。始動機構はエンジン後部に搭載された[スターター](../Page/スターター.md "wikilink")[モーター](https://ja.wikipedia.org/wiki/モーター "wikilink")を別電源により駆動させ始動する「タッチスターターシステム」を採用している。
   - [エンジン](../Page/エンジン.md "wikilink")先代モデルはTOKI(現在は廃業)製だったものからOS性へと変更され、エンジンマウントはミニブロックサイズの18なら互換性がある。
 
 スターターシステムも、他社性ロトスターターシステムや、田宮純正のスターター(これも実はTOKI製)を装着することで、実装が可能となる。
 
 　　タミヤ純正のスターターシステムはTOKIの企画立案に伴うものであり、当時のTOKI社長によるものである。
 
-  - [シャーシ](https://ja.wikipedia.org/wiki/シャーシ "wikilink")は先代モデルと共通の[ガラス繊維](../Page/ガラス繊維.md "wikilink")強化[ポリアミド樹脂](https://ja.wikipedia.org/wiki/ポリアミド樹脂 "wikilink")（PAGF)製フレーム＋[ジュラルミン](../Page/ジュラルミン.md "wikilink")製フラットパン構造を採用する。[サスペンション](../Page/サスペンション.md "wikilink")形式も勿論同一である。
+  - [シャーシ](../Page/シャーシ.md "wikilink")は先代モデルと共通の[ガラス繊維](../Page/ガラス繊維.md "wikilink")強化[ポリアミド樹脂](https://ja.wikipedia.org/wiki/ポリアミド樹脂 "wikilink")（PAGF)製フレーム＋[ジュラルミン](../Page/ジュラルミン.md "wikilink")製フラットパン構造を採用する。[サスペンション](../Page/サスペンション.md "wikilink")形式も勿論同一である。
 
 <!-- end list -->
 
@@ -30,7 +30,7 @@
 
 <!-- end list -->
 
-  - [米国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[コネチカット州](../Page/コネチカット州.md "wikilink")にて行われたR/Cモンスタートラックレースにおいて1-2フィニッシュを達成したことから特別仕様モデル「プロライン・スペシャル」が[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")にリリースされた。これは完成済みキットに米国プロライン社製ボウタイ（ミニピンスパイク）タイヤ、[金](../Page/金.md "wikilink")[メッキ](https://ja.wikipedia.org/wiki/メッキ "wikilink")[ホイール](https://ja.wikipedia.org/wiki/ホイール "wikilink")、[アルミ](https://ja.wikipedia.org/wiki/アルミ "wikilink")製専用[オイルダンパー](https://ja.wikipedia.org/wiki/オイルダンパー "wikilink")が付属され、[ユーザー](https://ja.wikipedia.org/wiki/ユーザー "wikilink")が購入後標準パーツと組み換える形となっている。キット価格￥74,800。
+  - [米国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[コネチカット州](../Page/コネチカット州.md "wikilink")にて行われたR/Cモンスタートラックレースにおいて1-2フィニッシュを達成したことから特別仕様モデル「プロライン・スペシャル」が[2005年](../Page/2005年.md "wikilink")にリリースされた。これは完成済みキットに米国プロライン社製ボウタイ（ミニピンスパイク）タイヤ、[金](../Page/金.md "wikilink")[メッキ](https://ja.wikipedia.org/wiki/メッキ "wikilink")[ホイール](https://ja.wikipedia.org/wiki/ホイール "wikilink")、[アルミ](https://ja.wikipedia.org/wiki/アルミ "wikilink")製専用[オイルダンパー](https://ja.wikipedia.org/wiki/オイルダンパー "wikilink")が付属され、[ユーザー](https://ja.wikipedia.org/wiki/ユーザー "wikilink")が購入後標準パーツと組み換える形となっている。キット価格￥74,800。
 
 ## メカニズム
 

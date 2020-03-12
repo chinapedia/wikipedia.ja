@@ -5,33 +5,33 @@
 
 ## 解説
 
-2004年2月に[日本武道館](https://ja.wikipedia.org/wiki/日本武道館 "wikilink")にて連日行われた[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")のライブ、「ヒカルの5」の模様を収録。全5公演5万人を動員した公演のうち、3公演の中からベストパフォーマンスをセレクト。タイトルは「[ヒカルの碁](https://ja.wikipedia.org/wiki/ヒカルの碁 "wikilink")」と、宇多田がデビュー5周年を迎えたことを掛けている。
+2004年2月に[日本武道館](../Page/日本武道館.md "wikilink")にて連日行われた[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")のライブ、「ヒカルの5」の模様を収録。全5公演5万人を動員した公演のうち、3公演の中からベストパフォーマンスをセレクト。タイトルは「[ヒカルの碁](https://ja.wikipedia.org/wiki/ヒカルの碁 "wikilink")」と、宇多田がデビュー5周年を迎えたことを掛けている。
 
 DVDシングル「[誰かの願いが叶うころ](https://ja.wikipedia.org/wiki/誰かの願いが叶うころ#誰かの願いが叶うころ_\(映像作品\) "wikilink")」と同時発売。
 
 ## 収録曲
 
-1.  **[光](https://ja.wikipedia.org/wiki/光_\(宇多田ヒカルの曲\) "wikilink")**
+1.  **[光](../Page/光_\(宇多田ヒカルの曲\).md "wikilink")**
 2.  **[traveling](https://ja.wikipedia.org/wiki/traveling "wikilink")**
 3.  **[Letters](https://ja.wikipedia.org/wiki/SAKURAドロップス/Letters "wikilink")**
-4.  **[Another Chance](https://ja.wikipedia.org/wiki/First_Love_\(宇多田ヒカルのアルバム\) "wikilink")**
-5.  **[In My Room](https://ja.wikipedia.org/wiki/First_Love_\(宇多田ヒカルのアルバム\) "wikilink")**
-6.  **[Can You Keep A Secret?](https://ja.wikipedia.org/wiki/Can_You_Keep_A_Secret? "wikilink")**
-7.  **[Addicted To You](https://ja.wikipedia.org/wiki/Addicted_To_You "wikilink") \[UP-IN-HEAVEN MIX\]**
+4.  **[Another Chance](../Page/First_Love_\(宇多田ヒカルのアルバム\).md "wikilink")**
+5.  **[In My Room](../Page/First_Love_\(宇多田ヒカルのアルバム\).md "wikilink")**
+6.  **[Can You Keep A Secret?](../Page/Can_You_Keep_A_Secret?.md "wikilink")**
+7.  **[Addicted To You](../Page/Addicted_To_You.md "wikilink") \[UP-IN-HEAVEN MIX\]**
 8.  **[SAKURAドロップス](https://ja.wikipedia.org/wiki/SAKURAドロップス/Letters "wikilink")**
-9.  **[サングラス](https://ja.wikipedia.org/wiki/Distance_\(宇多田ヒカルのアルバム\) "wikilink")**
-10. **[甘いワナ 〜 Paint It, Black](https://ja.wikipedia.org/wiki/First_Love_\(宇多田ヒカルのアルバム\) "wikilink")**
-11. **[Movin' on without you](https://ja.wikipedia.org/wiki/Movin'_on_without_you "wikilink")**
-12. **[蹴っ飛ばせ\!](https://ja.wikipedia.org/wiki/Can_You_Keep_A_Secret? "wikilink")**
-13. **[Wait & See 〜リスク〜](https://ja.wikipedia.org/wiki/Wait_&_See_〜リスク〜 "wikilink")**
-14. **[COLORS](https://ja.wikipedia.org/wiki/COLORS_\(宇多田ヒカルの曲\) "wikilink")**
-15. **[First Love](https://ja.wikipedia.org/wiki/First_Love_\(宇多田ヒカルの曲\) "wikilink")**
-16. **[Deep River](https://ja.wikipedia.org/wiki/DEEP_RIVER "wikilink")**
-17. **[DISTANCE](https://ja.wikipedia.org/wiki/FINAL_DISTANCE "wikilink")**
-18. **[嘘みたいなI Love You](https://ja.wikipedia.org/wiki/DEEP_RIVER "wikilink")**
+9.  **[サングラス](../Page/Distance_\(宇多田ヒカルのアルバム\).md "wikilink")**
+10. **[甘いワナ 〜 Paint It, Black](../Page/First_Love_\(宇多田ヒカルのアルバム\).md "wikilink")**
+11. **[Movin' on without you](../Page/Movin'_on_without_you.md "wikilink")**
+12. **[蹴っ飛ばせ\!](../Page/Can_You_Keep_A_Secret?.md "wikilink")**
+13. **[Wait & See 〜リスク〜](../Page/Wait_&_See_〜リスク〜.md "wikilink")**
+14. **[COLORS](../Page/COLORS_\(宇多田ヒカルの曲\).md "wikilink")**
+15. **[First Love](../Page/First_Love_\(宇多田ヒカルの曲\).md "wikilink")**
+16. **[Deep River](../Page/DEEP_RIVER.md "wikilink")**
+17. **[DISTANCE](../Page/FINAL_DISTANCE.md "wikilink")**
+18. **[嘘みたいなI Love You](../Page/DEEP_RIVER.md "wikilink")**
 19. **[Automatic](https://ja.wikipedia.org/wiki/Automatic/time_will_tell "wikilink")**
-20. **[幸せになろう](https://ja.wikipedia.org/wiki/DEEP_RIVER "wikilink")**
-21. **[B & C](https://ja.wikipedia.org/wiki/Movin'_on_without_you "wikilink")**
+20. **[幸せになろう](../Page/DEEP_RIVER.md "wikilink")**
+21. **[B & C](../Page/Movin'_on_without_you.md "wikilink")**
 
 ## 脚注
 

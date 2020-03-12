@@ -5,7 +5,7 @@
 
 ## 歴史
 
-  - 1988年、最初のバージョンであるSQLWindows 1.0が[Microsoft Windows 2.0および](https://ja.wikipedia.org/wiki/Microsoft_Windows_2.0 "wikilink")[Windows/386](https://ja.wikipedia.org/wiki/Windows/386 "wikilink")向けにリリースされる。
+  - 1988年、最初のバージョンであるSQLWindows 1.0が[Microsoft Windows 2.0および](../Page/Microsoft_Windows_2.0.md "wikilink")[Windows/386](https://ja.wikipedia.org/wiki/Windows/386 "wikilink")向けにリリースされる。
   - 1996年、32bitのバージョンである、Centura Team Developer 1.0がリリースされる。
   - 2003年、Gupta Team Developer 3.0がリリースされる。
   - 2004年、Gupta Team Developer 3.1がリリースされる。

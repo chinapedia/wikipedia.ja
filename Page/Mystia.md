@@ -1,11 +1,11 @@
 > この記事は[Mystia](https://ja.wikipedia.org/wiki/Mystia)から翻訳されています。
 
 
-『**mystia**』（ミスティア）とは、株式会社[ジー・モード](https://ja.wikipedia.org/wiki/ジー・モード "wikilink") (G-mode) が製作する[携帯電話](../Page/携帯電話.md "wikilink")向けの[ロールプレイングゲームである](../Page/コンピュータRPG.md "wikilink")。
+『**mystia**』（ミスティア）とは、株式会社[ジー・モード](../Page/ジー・モード.md "wikilink") (G-mode) が製作する[携帯電話](../Page/携帯電話.md "wikilink")向けの[ロールプレイングゲームである](../Page/コンピュータRPG.md "wikilink")。
 
 ## 概要
 
-「mystia」は、[2002年](../Page/2002年.md "wikilink")9月にJ-phone（現[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")）で[携帯電話ゲーム](https://ja.wikipedia.org/wiki/携帯電話ゲーム "wikilink")初の100円RPGとして配信をはじめ、わずか一か月で10万ダウンロードを記録。その後[2004年](../Page/2004年.md "wikilink")9月にボーダフォン（現ソフトバンクモバイル）で、「mystia2前編・後編」と2つのアプリに分かれた続編と同時に、「mystiaハイクオリティー版」という前作のグラフィック強化版が配信される。その後[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")、[auへの提供](https://ja.wikipedia.org/wiki/Au_\(携帯電話\) "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")には「mystia2完全版」がボーダフォンソフトバンクモバイルで配信。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")3月にはボーダフォン（現ソフトバンクモバイル）で、「mystia3」が配信される。現在ソフトバンクモバイルのみで50万ダウンロードを記録する。開発は[ジー・モード](https://ja.wikipedia.org/wiki/ジー・モード "wikilink")、[モバイル&ゲームスタジオ](https://ja.wikipedia.org/wiki/モバイル&ゲームスタジオ "wikilink")で行っている。
+「mystia」は、[2002年](../Page/2002年.md "wikilink")9月にJ-phone（現[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")）で[携帯電話ゲーム](../Page/携帯電話ゲーム.md "wikilink")初の100円RPGとして配信をはじめ、わずか一か月で10万ダウンロードを記録。その後[2004年](../Page/2004年.md "wikilink")9月にボーダフォン（現ソフトバンクモバイル）で、「mystia2前編・後編」と2つのアプリに分かれた続編と同時に、「mystiaハイクオリティー版」という前作のグラフィック強化版が配信される。その後[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")、[auへの提供](../Page/Au_\(携帯電話\).md "wikilink")。[2005年](../Page/2005年.md "wikilink")には「mystia2完全版」がボーダフォンソフトバンクモバイルで配信。[2006年](../Page/2006年.md "wikilink")3月にはボーダフォン（現ソフトバンクモバイル）で、「mystia3」が配信される。現在ソフトバンクモバイルのみで50万ダウンロードを記録する。開発は[ジー・モード](../Page/ジー・モード.md "wikilink")、[モバイル&ゲームスタジオ](https://ja.wikipedia.org/wiki/モバイル&ゲームスタジオ "wikilink")で行っている。
 
 ## システム
 
@@ -119,7 +119,7 @@
 
 ## メインスタッフ
 
-  - [長木一記](https://ja.wikipedia.org/wiki/長木一記 "wikilink")（企画・プロデュース）
+  - [長木一記](../Page/長木一記.md "wikilink")（企画・プロデュース）
   - 久我剛（プロデュース）
   - [杉本よしあき](https://ja.wikipedia.org/wiki/杉本よしあき "wikilink")（ディレクション・ゲームデザイン・シナリオ）
   - 倉林健治（ディレクション・ゲームデザイン）
@@ -128,7 +128,7 @@
 
 ## 関連項目
 
-  - [ジー・モード](https://ja.wikipedia.org/wiki/ジー・モード "wikilink")
+  - [ジー・モード](../Page/ジー・モード.md "wikilink")
   - [モバイル&ゲームスタジオ](https://ja.wikipedia.org/wiki/モバイル&ゲームスタジオ "wikilink")
 
 ## 外部リンク

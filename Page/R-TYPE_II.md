@@ -1,7 +1,7 @@
 > この記事は[R-TYPE II](https://ja.wikipedia.org/wiki/R-TYPE_II)から翻訳されています。
 
 
-『**R-TYPE II**』（アール・タイプ ツー）は、[1989年](../Page/1989年.md "wikilink")に[アイレムより発売された横スクロール](https://ja.wikipedia.org/wiki/アピエス "wikilink")[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")。「[R-TYPE](https://ja.wikipedia.org/wiki/R-TYPE "wikilink")」シリーズの第2作。
+『**R-TYPE II**』（アール・タイプ ツー）は、[1989年](../Page/1989年.md "wikilink")に[アイレムより発売された横スクロール](../Page/アピエス.md "wikilink")[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")。「[R-TYPE](https://ja.wikipedia.org/wiki/R-TYPE "wikilink")」シリーズの第2作。
 
 ## 概要
 
@@ -224,9 +224,9 @@
 <td><p>R-TYPE II</p></td>
 <td></td>
 <td><p><a href="../Page/Amiga.md" title="wikilink">Amiga</a><br />
-<a href="https://ja.wikipedia.org/wiki/Atari_ST" title="wikilink">Atari ST</a></p></td>
+<a href="../Page/Atari_ST.md" title="wikilink">Atari ST</a></p></td>
 <td><p>Arc Developments</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アクティビジョン" title="wikilink">アクティビジョン</a></p></td>
+<td><p><a href="../Page/アクティビジョン.md" title="wikilink">アクティビジョン</a></p></td>
 <td><p><a href="../Page/フロッピーディスク.md" title="wikilink">フロッピーディスク</a></p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
@@ -248,7 +248,7 @@
 <td><p>4</p></td>
 <td><p>R-TYPES</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_(ゲーム機)" title="wikilink">PlayStation</a></p></td>
+<td><p><a href="../Page/PlayStation_(ゲーム機).md" title="wikilink">PlayStation</a></p></td>
 <td><p>アイレムソフトウェアエンジニアリング</p></td>
 <td><p>アイレムソフトウェアエンジニアリング</p></td>
 <td><p><a href="../Page/CD-ROM.md" title="wikilink">CD-ROM</a></p></td>
@@ -262,7 +262,7 @@
 <td></td>
 <td><p><a href="../Page/ゲームボーイカラー.md" title="wikilink">ゲームボーイカラー</a></p></td>
 <td><p>アイレムソフトウェアエンジニアリング</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エポック社" title="wikilink">エポック社</a></p></td>
+<td><p><a href="../Page/エポック社.md" title="wikilink">エポック社</a></p></td>
 <td><p>ロムカセット</p></td>
 <td></td>
 <td><p>-</p></td>
@@ -289,7 +289,7 @@
 <td><p>アイレム</p></td>
 <td><p>任天堂</p></td>
 <td><p><a href="../Page/ダウンロード販売.md" title="wikilink">ダウンロード</a><br />
-（<a href="https://ja.wikipedia.org/wiki/バーチャルコンソール" title="wikilink">バーチャルコンソール</a>）</p></td>
+（<a href="../Page/バーチャルコンソール.md" title="wikilink">バーチャルコンソール</a>）</p></td>
 <td></td>
 <td><p>-</p></td>
 <td><p>スーパーファミコン版の移植、<a href="../Page/2012年.md" title="wikilink">2012年</a><a href="../Page/3月30日.md" title="wikilink">3月30日</a>配信終了</p></td>
@@ -303,7 +303,7 @@
 SouthEnd Interactive</p></td>
 <td><p><a href="../Page/マイクロソフト.md" title="wikilink">マイクロソフト</a></p></td>
 <td><p>ダウンロード<br />
-(<a href="https://ja.wikipedia.org/wiki/Xbox_Live" title="wikilink">Xbox Live</a>)</p></td>
+(<a href="../Page/Xbox_Live.md" title="wikilink">Xbox Live</a>)</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>アーケード版の移植</p></td>
@@ -313,7 +313,7 @@ SouthEnd Interactive</p></td>
 <td><p>R-TYPE Dimensions</p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_3" title="wikilink">PlayStation 3</a><br />
-<a href="https://ja.wikipedia.org/wiki/PlayStation_Portable" title="wikilink">PlayStation Portable</a><br />
+<a href="../Page/PlayStation_Portable.md" title="wikilink">PlayStation Portable</a><br />
 (<a href="https://ja.wikipedia.org/wiki/PlayStation_Network" title="wikilink">PlayStation Network</a>)</p></td>
 <td><p>Tozai Games<br />
 SouthEnd Interactive</p></td>
@@ -328,7 +328,7 @@ SouthEnd Interactive</p></td>
 
 ### スーパーファミコン版
 
-『**SUPER R-TYPE**』（スーパー・アール・タイプ）のタイトルで[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[7月13日](../Page/7月13日.md "wikilink")に発売された（同月23日説もある）\[2\]。『R-TYPE II』をベースにしているが、容量や性能の関係上かなりアレンジされており当時のスーパーファミコンソフトの多くに見られたようにタイトルに「スーパー」が冠せられている。2007年1月29日から2012年3月30日まで[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")の[バーチャルコンソール](https://ja.wikipedia.org/wiki/バーチャルコンソール "wikilink")で配信された。
+『**SUPER R-TYPE**』（スーパー・アール・タイプ）のタイトルで[1991年](../Page/1991年.md "wikilink")[7月13日](../Page/7月13日.md "wikilink")に発売された（同月23日説もある）\[2\]。『R-TYPE II』をベースにしているが、容量や性能の関係上かなりアレンジされており当時のスーパーファミコンソフトの多くに見られたようにタイトルに「スーパー」が冠せられている。2007年1月29日から2012年3月30日まで[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")の[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")で配信された。
 
 処理落ちが激しいという難点はあるが、評論筋から「硬派」と評されるような1ミスが命取りの難易度は健在。しかしアーケード版と比べると難易度は抑え目\[3\]。
 
@@ -340,7 +340,7 @@ SouthEnd Interactive</p></td>
   - 復活ポイントが存在せず、どの地点であっても（対ボス戦でも）ミスをすると必ずステージの最初に戻される。
   - 対ボス戦前とステージクリア時にはR-9改が高速で画面右へ退場し、それぞれの専用画面に切り替えられる。
   - 音楽も本作独自のものが多くあり、ほぼ全編にわたって[ハウス・ミュージック](https://ja.wikipedia.org/wiki/ハウス・ミュージック "wikilink")風のサウンドとなっている。
-  - 難易度はKIDS、EASY、NORMAL、HARDの4段階を選択可能（初期設定はEASY）で、2周目は1周目から1段階難易度が上昇する（HARDの2周目のみ、難易度PROが登場している。）。KIDSだとミスしても装備が失われなくなる。ただし、EASY以上の難易度でクリアしないと[エンディングが見られず](https://ja.wikipedia.org/wiki/エンディングデモ "wikilink")、KIDSでクリアすると「これは訓練である」といったメッセージが表示されてゲームが終了するため、1周しかプレイできない。
+  - 難易度はKIDS、EASY、NORMAL、HARDの4段階を選択可能（初期設定はEASY）で、2周目は1周目から1段階難易度が上昇する（HARDの2周目のみ、難易度PROが登場している。）。KIDSだとミスしても装備が失われなくなる。ただし、EASY以上の難易度でクリアしないと[エンディングが見られず](../Page/エンディングデモ.md "wikilink")、KIDSでクリアすると「これは訓練である」といったメッセージが表示されてゲームが終了するため、1周しかプレイできない。
   - ゲーム全体を通して[処理落ち](../Page/処理落ち.md "wikilink")の酷い箇所が多い。
 
 #### ステージ構成
@@ -365,13 +365,13 @@ SouthEnd Interactive</p></td>
 
 ### ゲームボーイ版
 
-[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[12月11日](../Page/12月11日.md "wikilink")に[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")用に発売された。ゲームボーイなのでモノクロになっている。そのほかハードの制約上オリジナルとはかけ離れたものになっている。全5面。拡散波動砲は、地形又は画面の上下端で反射するような形になっている。
+[1992年](../Page/1992年.md "wikilink")[12月11日](../Page/12月11日.md "wikilink")に[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")用に発売された。ゲームボーイなのでモノクロになっている。そのほかハードの制約上オリジナルとはかけ離れたものになっている。全5面。拡散波動砲は、地形又は画面の上下端で反射するような形になっている。
 
 設定部分での違いとしては、『SUPER』でのゲーム開始時のデモシーンに、さらにパイロットと整備員が追加される。一部ボスの名前が異なる。説明書には、パイロットは四肢切断されて搭載されるという記述などがある（アイレム会報誌には関連する記述が記載されているが、脳だけという記述はない）。
 
 ### PlayStation版
 
-商品名は『R・TYPES』。『[R-TYPE](https://ja.wikipedia.org/wiki/R-TYPE "wikilink")』と共に収録されたカップリング移植で、1998年2月5日に発売された。『R-TYPE II』の初の忠実な移殖作品。[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")にて[PlayStation Portableや](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")[PlayStation 3用にも](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")2011年8月11日までダウンロード配信されていた（配信終了後もダウンロード済みのものは引き続きプレイ可能）。
+商品名は『R・TYPES』。『[R-TYPE](https://ja.wikipedia.org/wiki/R-TYPE "wikilink")』と共に収録されたカップリング移植で、1998年2月5日に発売された。『R-TYPE II』の初の忠実な移殖作品。[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")にて[PlayStation Portableや](../Page/PlayStation_Portable.md "wikilink")[PlayStation 3用にも](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")2011年8月11日までダウンロード配信されていた（配信終了後もダウンロード済みのものは引き続きプレイ可能）。
 
 オープニングムービー・エンディングムービーが追加されているほか、R戦闘機および敵キャラクターの設定資料が収められた「R'sライブラリー」や『[R-TYPE Δ](../Page/R-TYPE_Δ.md "wikilink")』のプロモーションムービーも収録されている。
 
@@ -385,7 +385,7 @@ SouthEnd Interactive</p></td>
 
   - ゲーム・デザイン：FUZZIE
   - キャラクター・デザイン：NABE、NIOUDACHI（大舘隆幸）
-  - バックグラウンド・デザイン：OKAYO、KAZAKAMI SHUNG（[風上旬](https://ja.wikipedia.org/wiki/風上旬 "wikilink")）
+  - バックグラウンド・デザイン：OKAYO、KAZAKAMI SHUNG（[風上旬](../Page/風上旬.md "wikilink")）
   - ゲーム・プログラム：RYOUICHIROU、FINALU
   - サウンド・プログラム：MOTO、KEISUKE
   - エディティング：RAN
@@ -395,11 +395,11 @@ SouthEnd Interactive</p></td>
 
   - アーケード版
 
-ゲーム誌『[ゲーメスト](../Page/ゲーメスト.md "wikilink")』（[新声社](https://ja.wikipedia.org/wiki/新声社 "wikilink")）誌上で行われていた「第4回ゲーメスト大賞」（1990年度）においてベストグラフィック賞1位を受賞、プレイヤー人気で17位を獲得した\[4\]。
+ゲーム誌『[ゲーメスト](../Page/ゲーメスト.md "wikilink")』（[新声社](../Page/新声社.md "wikilink")）誌上で行われていた「第4回ゲーメスト大賞」（1990年度）においてベストグラフィック賞1位を受賞、プレイヤー人気で17位を獲得した\[4\]。
 
   - スーパーファミコン版
 
-ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』のクロスレビューでは合計28点（満40点）\[5\]、『[ファミリーコンピュータMagazine](https://ja.wikipedia.org/wiki/ファミリーコンピュータMagazine "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、22.1点（満30点）となっている\[6\]。
+ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』のクロスレビューでは合計28点（満40点）\[5\]、『[ファミリーコンピュータMagazine](../Page/ファミリーコンピュータMagazine.md "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、22.1点（満30点）となっている\[6\]。
 
 | 項目 | キャラクタ | 音楽  | お買得度 | 操作性 | 熱中度 | オリジナリティ | 総合   |
 | -- | ----- | --- | ---- | --- | --- | ------- | ---- |

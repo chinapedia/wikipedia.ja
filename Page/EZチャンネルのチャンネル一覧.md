@@ -1,7 +1,7 @@
 > この記事は[EZ](https://ja.wikipedia.org/wiki/EZ)から翻訳されています。
 
 
-**EZチャンネルのチャンネル一覧**は、[EZチャンネル](https://ja.wikipedia.org/wiki/EZチャンネル "wikilink")・[EZチャンネルプラス](../Page/EZチャンネルプラス.md "wikilink")で配信しているチャンネル、配信されたチャンネルの一覧。
+**EZチャンネルのチャンネル一覧**は、[EZチャンネル](../Page/EZチャンネル.md "wikilink")・[EZチャンネルプラス](../Page/EZチャンネルプラス.md "wikilink")で配信しているチャンネル、配信されたチャンネルの一覧。
 
 ※[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")5月現在。情報料は月額、[税込み](../Page/消費税.md "wikilink")。
 
@@ -23,7 +23,7 @@
   - <span id="無料チャンネル">マジ仕事TV</span>
     提供：メディア・ゲート・ジャパン
     配信日：毎週木曜日
-  - [EZ Today'Sウォッチ](https://ja.wikipedia.org/wiki/EZ_Today'Sウォッチ "wikilink")
+  - [EZ Today'Sウォッチ](../Page/EZ_Today'Sウォッチ.md "wikilink")
     提供：[KDDI](../Page/KDDI.md "wikilink")
     配信日：毎日
   - [着うた](../Page/着うた.md "wikilink") ♪ランキング
@@ -41,20 +41,20 @@
   - おはよう映画です。
     提供：シンクウェア
     配信日：毎週月・水・金曜日
-  - [うたキャス](https://ja.wikipedia.org/wiki/うたキャス "wikilink")
+  - [うたキャス](../Page/うたキャス.md "wikilink")
     提供：KDDI\&NeDic
     配信日：毎日
   - もばいるサッカーTV スーパーカルチョ
     提供：アクアキャスト
     配信日：毎週月?金曜日
-  - [Music Lovers](https://ja.wikipedia.org/wiki/Music_Lovers "wikilink") for EZ
+  - [Music Lovers](../Page/Music_Lovers.md "wikilink") for EZ
     提供：KDDI
     配信日：毎週日曜日
   - How to クッキング
     提供：スカイアンドロード
     配信日：毎週木曜日
   - [avex](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")♪ ミュゥモ・チューン
-    提供：[ドワンゴ](https://ja.wikipedia.org/wiki/ドワンゴ "wikilink")
+    提供：[ドワンゴ](../Page/ドワンゴ.md "wikilink")
     配信日：毎週金曜日
   - [ファミ通](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")ゲームチャンネル
     提供：KDDI
@@ -84,7 +84,7 @@
     配信日：毎週月・水・金曜日
   - ショートムービー・チャンネル
     情報料：105円
-    提供：[ギャガ・クロスメディア・マーケティング](https://ja.wikipedia.org/wiki/キネマ旬報社 "wikilink")
+    提供：[ギャガ・クロスメディア・マーケティング](../Page/キネマ旬報社.md "wikilink")
     配信日：毎週月・金曜日
   - ザ・ショッキング～やはり実在した怪奇生物
     情報料：294円
@@ -114,9 +114,9 @@
     情報料：315円
     提供：[ソニー・ピクチャーズエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・ピクチャーズエンタテインメント "wikilink")
     配信日：毎週月曜日
-  - アニ読メ・[元祖天才バカボン](https://ja.wikipedia.org/wiki/元祖天才バカボン "wikilink")
+  - アニ読メ・[元祖天才バカボン](../Page/元祖天才バカボン.md "wikilink")
     情報料：315円
-    提供：[トムス・エンタテインメント](https://ja.wikipedia.org/wiki/トムス・エンタテインメント "wikilink")
+    提供：[トムス・エンタテインメント](../Page/トムス・エンタテインメント.md "wikilink")
     配信日：毎週水・土曜日
   - モーションコミック『女子高生』
     情報料：210円
@@ -178,7 +178,7 @@
     情報料：315円
     提供：ソニー・ピクチャーズエンタテイメント
     配信日：毎週月・木曜日
-  - [シティーハンター](https://ja.wikipedia.org/wiki/シティーハンター_\(アニメ\) "wikilink")
+  - [シティーハンター](../Page/シティーハンター_\(アニメ\).md "wikilink")
     情報料：315円
     提供：プライムワークス
     配信日：毎週月・木曜日
@@ -216,9 +216,9 @@
     提供：フォアキャスト・コミュニケーションズ
     配信日：毎日
   - テレ朝plus\!channel
-    提供：[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")
+    提供：[テレビ朝日](../Page/テレビ朝日.md "wikilink")
     配信日：毎週土曜日
-  - [第2日本テレビ](https://ja.wikipedia.org/wiki/第2日本テレビ "wikilink")PLUS
+  - [第2日本テレビ](../Page/第2日本テレビ.md "wikilink")PLUS
     提供：フォアキャスト・コミュニケーションズ
     配信日：毎週水曜日
 
@@ -237,7 +237,7 @@
 
 ## 関連項目
 
-  - [EZチャンネル](https://ja.wikipedia.org/wiki/EZチャンネル "wikilink")
+  - [EZチャンネル](../Page/EZチャンネル.md "wikilink")
   - [EZチャンネルプラス](../Page/EZチャンネルプラス.md "wikilink")
 
 ## 外部リンク

@@ -1,14 +1,14 @@
 > この記事は[JNN \(\)](https://ja.wikipedia.org/wiki/JNN_\(\))から翻訳されています。
 
 
-**JNNニュースバード**（**ジェイエヌエヌ ニュースバード**）は、[TBSが運営する](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")[CS](https://ja.wikipedia.org/wiki/衛星放送 "wikilink")[放送局](../Page/放送局.md "wikilink")の[TBSニュースバード](https://ja.wikipedia.org/wiki/TBSニュースバード "wikilink")およびTBSほか[JNN系列局の一部で平日早朝に](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")されていた[ニュース番組](https://ja.wikipedia.org/wiki/ニュース番組 "wikilink")。
+**JNNニュースバード**（**ジェイエヌエヌ ニュースバード**）は、[TBSが運営する](../Page/TBSテレビ.md "wikilink")[CS](../Page/衛星放送.md "wikilink")[放送局](../Page/放送局.md "wikilink")の[TBSニュースバード](https://ja.wikipedia.org/wiki/TBSニュースバード "wikilink")およびTBSほか[JNN系列局の一部で平日早朝に](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[生放送](../Page/生放送.md "wikilink")されていた[ニュース番組](https://ja.wikipedia.org/wiki/ニュース番組 "wikilink")。
 
 本項目では便宜上、[中澤有美子](../Page/中澤有美子.md "wikilink")がメインキャスターを務めていた時期を**第1期**、中澤の降板後を**第2期**として解説する。
 
 ## 概要
 
   - [2004年](../Page/2004年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")より放送開始。2008年3月終了。
-  - 番組タイトルには、同局が運営する24時間ニュース専門チャンネルの当時の名称である「JNNニュースバード」が使われ、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")にチャンネル名称が「TBSニュースバード」に変更後も、2008年3月までは「JNNニュースバード」として放送が続けられていた。但し、同番組はCS放送のオリジナル番組でもあったため、いわゆるJNNの[JNN排他協定](https://ja.wikipedia.org/wiki/JNN排他協定 "wikilink")（『JNN冠がつく番組は報道特番も含め系列全局が同時ネット放送しなければならない』という規定）対象外番組であった。それでも一部のTBS系列局は番組購入などの形でネットしていた。
+  - 番組タイトルには、同局が運営する24時間ニュース専門チャンネルの当時の名称である「JNNニュースバード」が使われ、[2006年](../Page/2006年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")にチャンネル名称が「TBSニュースバード」に変更後も、2008年3月までは「JNNニュースバード」として放送が続けられていた。但し、同番組はCS放送のオリジナル番組でもあったため、いわゆるJNNの[JNN排他協定](https://ja.wikipedia.org/wiki/JNN排他協定 "wikilink")（『JNN冠がつく番組は報道特番も含め系列全局が同時ネット放送しなければならない』という規定）対象外番組であった。それでも一部のTBS系列局は番組購入などの形でネットしていた。
 
 <!-- end list -->
 
@@ -16,18 +16,18 @@
 
 <!-- end list -->
 
-  - 上記以外にも、[関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikilink")の詳細な天気予報を伝えるなど、[衛星放送](https://ja.wikipedia.org/wiki/衛星放送 "wikilink")・[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")を通して全国放送されている番組でありながら、いわゆる[関東ローカル](https://ja.wikipedia.org/wiki/関東ローカル "wikilink")部分がそのまま放送されている。
+  - 上記以外にも、[関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikilink")の詳細な天気予報を伝えるなど、[衛星放送](../Page/衛星放送.md "wikilink")・[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")を通して全国放送されている番組でありながら、いわゆる[関東ローカル](../Page/関東ローカル.md "wikilink")部分がそのまま放送されている。
 
 ### 第1期
 
-  - 放送開始から[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")までは、[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")の[中澤有美子](../Page/中澤有美子.md "wikilink")がメインキャスターを務めていた為、ニュースバードの番組表には「**JNNニュースバード@中澤有美子**」と表記されていた。
+  - 放送開始から[2007年](../Page/2007年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")までは、[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")の[中澤有美子](../Page/中澤有美子.md "wikilink")がメインキャスターを務めていた為、ニュースバードの番組表には「**JNNニュースバード@中澤有美子**」と表記されていた。
   - 番組では「ネタのう」「オハのう（脳）\!」「ドクター月尾・地球の方程式」などのミニコーナーや、曜日別キャスターのキャラクターを生かした日替わりコーナーが用意されており、地上波の視聴者を意識した番組構成となっていた。
   - 先述の事情から、2007年3月30日の最終回（中澤キャスター最後の出演の回）の放送も5時05分 - 5時25分に短縮された。
 
 ### 第2期
 
-  - 中澤キャスター降板後、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")4月からは番組内容が大幅に変更され、[ストレートニュース](https://ja.wikipedia.org/wiki/ストレートニュース "wikilink")が中心となり、他局との差別化を図る。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")10月よりメインキャスターを廃してキャスター1人で伝える体制へ変更。この背景のひとつには6月に[柴山延子](https://ja.wikipedia.org/wiki/柴山延子 "wikilink")キャスターが声帯の不調を訴えて2週間ほどニュースバードを休むなど、未明・早朝帯の2人体制ではキャスター陣の体調管理面に支障が出たからである。
+  - 中澤キャスター降板後、[2007年](../Page/2007年.md "wikilink")4月からは番組内容が大幅に変更され、[ストレートニュース](https://ja.wikipedia.org/wiki/ストレートニュース "wikilink")が中心となり、他局との差別化を図る。
+  - [2007年](../Page/2007年.md "wikilink")10月よりメインキャスターを廃してキャスター1人で伝える体制へ変更。この背景のひとつには6月に[柴山延子](../Page/柴山延子.md "wikilink")キャスターが声帯の不調を訴えて2週間ほどニュースバードを休むなど、未明・早朝帯の2人体制ではキャスター陣の体調管理面に支障が出たからである。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月4日](../Page/1月4日.md "wikilink")の放送は放送機器のトラブルにより放送できない地域があった。TBSではカラーバーで5時半前まで、CMなしで「[みのもんたの朝ズバッ\!](https://ja.wikipedia.org/wiki/みのもんたの朝ズバッ! "wikilink")」に突入した（「朝ズバッ\!」内で当番組の放送不能の理由の説明・謝罪をした）。また、その3日後の[1月7日](../Page/1月7日.md "wikilink")は5時15分から放送開始となった（新聞発表では、4時45分から放送開始の予定だった）。
   - 2008年3月27日は[赤坂サカス](https://ja.wikipedia.org/wiki/赤坂サカス "wikilink")の特設ステージから放送し、「ドクター月尾地球の方程式」を初めて生放送した。
   - 2008年3月28日「JNNニュースバード」のタイトルでの放送は終了。この日から[地上波](../Page/地上波.md "wikilink")TBSテレビと一部の系列局では「[早ズバッ\!ナマたまご](https://ja.wikipedia.org/wiki/早ズバッ!ナマたまご "wikilink")」が放送を開始したこともあり、最終回は45分（4時30分 - 5時15分）に短縮された。後枠には同年3月31日より[あさいちバードがスタートした](https://ja.wikipedia.org/wiki/TBSニュースバード_\(テレビ番組\) "wikilink")（ただし、地上波TBSテレビでは4月2日からスタート）。
@@ -37,15 +37,15 @@
 ### メインキャスター
 
   - [中澤有美子](../Page/中澤有美子.md "wikilink")（2004年10月 - 2007年3月・MC担当）
-  - [柴山延子](https://ja.wikipedia.org/wiki/柴山延子 "wikilink")（2007年4月 - 9月・大村と隔週交代で月 - 水曜MC担当）
-  - [大村絵美](https://ja.wikipedia.org/wiki/大村絵美 "wikilink")（2007年4月 - 6月・柴山と隔週交代で月 - 水曜MC担当、2007年7月 - 9月・木 - 金曜MC担当）
-  - [汾陽麻衣](https://ja.wikipedia.org/wiki/汾陽麻衣 "wikilink")（2007年4月 - 6月・木 - 金曜MC担当）
-  - [松井陽子](https://ja.wikipedia.org/wiki/松井陽子_\(アナウンサー\) "wikilink")（2007年7月 - 9月・月 - 水曜MC担当）
+  - [柴山延子](../Page/柴山延子.md "wikilink")（2007年4月 - 9月・大村と隔週交代で月 - 水曜MC担当）
+  - [大村絵美](../Page/大村絵美.md "wikilink")（2007年4月 - 6月・柴山と隔週交代で月 - 水曜MC担当、2007年7月 - 9月・木 - 金曜MC担当）
+  - [汾陽麻衣](../Page/汾陽麻衣.md "wikilink")（2007年4月 - 6月・木 - 金曜MC担当）
+  - [松井陽子](../Page/松井陽子_\(アナウンサー\).md "wikilink")（2007年7月 - 9月・月 - 水曜MC担当）
 
 <!-- end list -->
 
   -
-    [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")10月よりキャスター1人体制へ変更。　
+    [2007年](../Page/2007年.md "wikilink")10月よりキャスター1人体制へ変更。　
 
 ### キャスター
 
@@ -54,10 +54,10 @@
 <!-- end list -->
 
   - 柴山延子（2004年10月 - 2005年3月・月曜サブ担当）
-  - [藤田真奈美](https://ja.wikipedia.org/wiki/藤田真奈美 "wikilink")（2005年4月 - 9月・月曜サブ担当）
-  - [島ひとみ](https://ja.wikipedia.org/wiki/島ひとみ "wikilink")（2005年10月 - 2006年3月・月曜サブ担当）
-  - [永谷裕香](https://ja.wikipedia.org/wiki/永谷裕香 "wikilink")（2006年4月 - 9月・月曜サブ担当）
-  - [鹿島千穂](https://ja.wikipedia.org/wiki/鹿島千穂 "wikilink")（2006年10月 - 2007年3月・月曜サブ担当）
+  - [藤田真奈美](../Page/藤田真奈美.md "wikilink")（2005年4月 - 9月・月曜サブ担当）
+  - [島ひとみ](../Page/島ひとみ.md "wikilink")（2005年10月 - 2006年3月・月曜サブ担当）
+  - [永谷裕香](../Page/永谷裕香.md "wikilink")（2006年4月 - 9月・月曜サブ担当）
+  - [鹿島千穂](../Page/鹿島千穂.md "wikilink")（2006年10月 - 2007年3月・月曜サブ担当）
   - [黒木奈々](https://ja.wikipedia.org/wiki/黒木奈々 "wikilink")（2007年4月 - 2008年3月・2007年9月までは月曜サブ担当）
 
 <!-- end list -->
@@ -66,12 +66,12 @@
 
 <!-- end list -->
 
-  - [中野知美](https://ja.wikipedia.org/wiki/中野知美 "wikilink")（2004年10月 - 2006年3月・火曜サブ担当）
+  - [中野知美](../Page/中野知美.md "wikilink")（2004年10月 - 2006年3月・火曜サブ担当）
   - 島ひとみ（2006年4月 - 2007年3月・火曜サブ担当）
-  - [小川亜希子](https://ja.wikipedia.org/wiki/小川亜希子 "wikilink")（2007年4月 - 9月・火曜サブ担当）
+  - [小川亜希子](../Page/小川亜希子.md "wikilink")（2007年4月 - 9月・火曜サブ担当）
   - 松井陽子（2007年10月 - 2008年3月・火曜隔週交代）　
   - 柴山延子（2007年10月 - 12月・火曜隔週交代）
-  - [曽根純恵](https://ja.wikipedia.org/wiki/曽根純恵 "wikilink")（2008年1月 - 3月・火曜隔週交代）
+  - [曽根純恵](../Page/曽根純恵.md "wikilink")（2008年1月 - 3月・火曜隔週交代）
 
 <!-- end list -->
 
@@ -81,7 +81,7 @@
 
   - 曽根純恵（2004年10月 - 2006年3月・水曜サブ担当）
   - 松井陽子（2006年4月 - 2007年3月・水曜サブ担当）　
-  - [中村亜裕美](https://ja.wikipedia.org/wiki/中村亜裕美 "wikilink")（2007年4月 - 9月・水曜サブ担当）
+  - [中村亜裕美](../Page/中村亜裕美.md "wikilink")（2007年4月 - 9月・水曜サブ担当）
   - 大村絵美（2007年10月 - 2008年3月・水曜担当）
 
 <!-- end list -->
@@ -90,7 +90,7 @@
 
 <!-- end list -->
 
-  - [水野真里子](https://ja.wikipedia.org/wiki/水野真里子 "wikilink")（2004年10月 - 2006年3月・木曜サブ担当）
+  - [水野真里子](../Page/水野真里子.md "wikilink")（2004年10月 - 2006年3月・木曜サブ担当）
   - [滝本沙奈](../Page/滝本沙奈.md "wikilink")（2006年4月 - 2007年3月・木曜サブ担当）　
   - [杉浦舞](https://ja.wikipedia.org/wiki/杉浦舞 "wikilink")（2007年4月 - 2008年3月・2007年9月までは木曜サブ担当）
 
@@ -110,7 +110,7 @@
 
   - [増田雅昭](https://ja.wikipedia.org/wiki/増田雅昭 "wikilink")（2008年3月時点で月 - 水曜、曜日変動あり）
   - [元井美貴](https://ja.wikipedia.org/wiki/元井美貴 "wikilink")（2008年3月時点で木、金曜）
-  - [真壁京子](https://ja.wikipedia.org/wiki/真壁京子 "wikilink")（2006年3月まで火、木曜担当、2006年4月 - 2007年3月・火 - 金曜担当、曜日変動あり）
+  - [真壁京子](../Page/真壁京子.md "wikilink")（2006年3月まで火、木曜担当、2006年4月 - 2007年3月・火 - 金曜担当、曜日変動あり）
 
 など
 
@@ -149,7 +149,7 @@
 <!-- end list -->
 
   -
-    脳力アップクイズ。キャスターも一緒に考えて解答しており、結果に一喜一憂する様子が人気であった。たまに奇想天外な答えが出ることもあった。詳しくは[島ひとみ](https://ja.wikipedia.org/wiki/島ひとみ "wikilink")、[曽根純恵](https://ja.wikipedia.org/wiki/曽根純恵 "wikilink")の記事を参照。
+    脳力アップクイズ。キャスターも一緒に考えて解答しており、結果に一喜一憂する様子が人気であった。たまに奇想天外な答えが出ることもあった。詳しくは[島ひとみ](../Page/島ひとみ.md "wikilink")、[曽根純恵](../Page/曽根純恵.md "wikilink")の記事を参照。
 
 <!-- end list -->
 
@@ -179,7 +179,7 @@
 <!-- end list -->
 
   -
-    昨日の主なニュースを振り返り、詳細に伝える。「[イブニング・ファイブ](https://ja.wikipedia.org/wiki/イブニング・ファイブ "wikilink")」「[筑紫哲也 NEWS23](https://ja.wikipedia.org/wiki/NEWS23 "wikilink")」のニュース映像がそのまま使用される場合もある。
+    昨日の主なニュースを振り返り、詳細に伝える。「[イブニング・ファイブ](../Page/イブニング・ファイブ.md "wikilink")」「[筑紫哲也 NEWS23](https://ja.wikipedia.org/wiki/NEWS23 "wikilink")」のニュース映像がそのまま使用される場合もある。
     月曜日のみ4:45以降に放送。
 
 <!-- end list -->
@@ -203,7 +203,7 @@
 
   -
     JNN28局が発信した列島ニュースを伝える。尚、ニュース映像はJNN系列局で夕方に放送されたローカルニュースをほぼそのまま流用している。月曜日は休止。
-    参照：[JNN夕方ローカルニュース一覧](https://ja.wikipedia.org/wiki/JNN夕方ローカルニュース一覧 "wikilink")
+    参照：[JNN夕方ローカルニュース一覧](../Page/JNN夕方ローカルニュース一覧.md "wikilink")
 
 <!-- end list -->
 
@@ -237,7 +237,7 @@
 <!-- end list -->
 
   -
-    [東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")[名誉教授](../Page/名誉教授.md "wikilink")の[月尾嘉男](https://ja.wikipedia.org/wiki/月尾嘉男 "wikilink")が現代文明論を毎週1つのテーマに沿って、様々な視点から語る。
+    [東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")[名誉教授](../Page/名誉教授.md "wikilink")の[月尾嘉男](../Page/月尾嘉男.md "wikilink")が現代文明論を毎週1つのテーマに沿って、様々な視点から語る。
     現在の聞き手は黒木奈々。2007年3月までは中澤有美子が務めていた。
     日曜日21時から21時20分ごろに1週間の再放送がある。
 
@@ -249,7 +249,7 @@
 
 ## 関連項目
 
-  - [JNNモーニング](https://ja.wikipedia.org/wiki/JNNモーニング "wikilink")
+  - [JNNモーニング](../Page/JNNモーニング.md "wikilink")
 
 ## 外部リンク
 

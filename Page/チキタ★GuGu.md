@@ -1,7 +1,7 @@
 > この記事は[GuGu](https://ja.wikipedia.org/wiki/GuGu)から翻訳されています。
 
 
-『**チキタ★GuGu**』は、漫画家[TONO](https://ja.wikipedia.org/wiki/TONO "wikilink")による漫画。[朝日ソノラマ](https://ja.wikipedia.org/wiki/朝日ソノラマ "wikilink")『[ネムキ](../Page/ネムキ.md "wikilink")』誌の[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")9月号から[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")5月号にかけて連載された。全8巻。2007年に[センス・オブ・ジェンダー賞](https://ja.wikipedia.org/wiki/センス・オブ・ジェンダー賞 "wikilink")特別賞を受賞している。
+『**チキタ★GuGu**』は、漫画家[TONO](../Page/TONO.md "wikilink")による漫画。[朝日ソノラマ](../Page/朝日ソノラマ.md "wikilink")『[ネムキ](../Page/ネムキ.md "wikilink")』誌の[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")9月号から[2007年](../Page/2007年.md "wikilink")5月号にかけて連載された。全8巻。2007年に[センス・オブ・ジェンダー賞](../Page/センス・オブ・ジェンダー賞.md "wikilink")特別賞を受賞している。
 
 ## 概要
 
@@ -62,7 +62,7 @@
 
 ## 単行本
 
-朝日ソノラマ「眠れぬ夜の奇妙な話コミックス」より刊行。7巻発売後に朝日ソノラマが廃業したため、8巻以外には出版元を朝日新聞社出版局（現・[朝日新聞出版](https://ja.wikipedia.org/wiki/朝日新聞出版 "wikilink")）とする新版が存在する。
+朝日ソノラマ「眠れぬ夜の奇妙な話コミックス」より刊行。7巻発売後に朝日ソノラマが廃業したため、8巻以外には出版元を朝日新聞社出版局（現・[朝日新聞出版](../Page/朝日新聞出版.md "wikilink")）とする新版が存在する。
 
 1.  ISBN 4257904003
       - 新版 ISBN 4022130040

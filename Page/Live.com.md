@@ -1,7 +1,7 @@
 > この記事は[Live.com](https://ja.wikipedia.org/wiki/Live.com)から翻訳されています。
 
 
-**Live.com**（ライブ ドット コム）とは、カスタマイズできる[ポータルサイト](../Page/ポータルサイト.md "wikilink")で[マイクロソフト](../Page/マイクロソフト.md "wikilink")の[Windows Liveサービスである](https://ja.wikipedia.org/wiki/Windows_Live "wikilink")。
+**Live.com**（ライブ ドット コム）とは、カスタマイズできる[ポータルサイト](../Page/ポータルサイト.md "wikilink")で[マイクロソフト](../Page/マイクロソフト.md "wikilink")の[Windows Liveサービスである](../Page/Windows_Live.md "wikilink")。
 
   - 以前は、Start[.com](https://ja.wikipedia.org/wiki/.com "wikilink") という名前だった。
 
@@ -12,7 +12,7 @@
 また、ガジェットは、天気予報や、新着メールの確認ができ、作り上げたタブを [Windows Live Gallery](https://ja.wikipedia.org/wiki/Windows_Live_Gallery "wikilink") で共有することができる。
 
   - 初回アクセス時には、サーチボックスしか表示されず、[ポータルサイト](../Page/ポータルサイト.md "wikilink")を開くには、右上の「Live.com のカスタマイズ」をクリックする必要がある。
-  - サインインせずに、[ポータルサイト](../Page/ポータルサイト.md "wikilink")を作ると、[Cookie](https://ja.wikipedia.org/wiki/HTTP_cookie "wikilink") に保存され、それを削除すると、初期状態に戻るので注意が必要。
+  - サインインせずに、[ポータルサイト](../Page/ポータルサイト.md "wikilink")を作ると、[Cookie](../Page/HTTP_cookie.md "wikilink") に保存され、それを削除すると、初期状態に戻るので注意が必要。
 
 ## 歴史
 
@@ -29,7 +29,7 @@ Start.com は、1年で世代交代し、その後も運用されていたが、
 
 ### Live.com 時代
 
-[Windows Live](https://ja.wikipedia.org/wiki/Windows_Live "wikilink") のサービス名の利用の開始に伴って Live.com に名称を変更した。
+[Windows Live](../Page/Windows_Live.md "wikilink") のサービス名の利用の開始に伴って Live.com に名称を変更した。
 
   - 2005年11月2日　Live.com の運用を開始した。
   - 2005年11月9日　[Firefox](../Page/Mozilla_Firefox.md "wikilink") のサポートを開始した。

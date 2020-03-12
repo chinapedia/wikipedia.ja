@@ -1,25 +1,25 @@
 > この記事は[BOMBER GIRL \(\)](https://ja.wikipedia.org/wiki/BOMBER_GIRL_\(\))から翻訳されています。
 
 
-『**BOMBER GIRL**』（ボンバーガール）は[にわのまこと](https://ja.wikipedia.org/wiki/にわのまこと "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。
+『**BOMBER GIRL**』（ボンバーガール）は[にわのまこと](../Page/にわのまこと.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。
 
 1993年に発表された読切から始まり、多数の「BOMBER GIRL」を冠する作品が発表されている。
 
 ## シリーズ
 
   - BOMBER GIRL（読切版）
-    [1993年](../Page/1993年.md "wikilink")に『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink") (WJ)』[増刊 Spring Specialに掲載](https://ja.wikipedia.org/wiki/週刊少年ジャンプの増刊号 "wikilink")。
+    [1993年](../Page/1993年.md "wikilink")に『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink") (WJ)』[増刊 Spring Specialに掲載](../Page/週刊少年ジャンプの増刊号.md "wikilink")。
     内容は約500年後の荒廃した世界で、涅槃送りこと用心棒エミーと王国兵士カオル・ガイ師弟が誘拐された姫君を救いにゆくアクションものであり、作者初の“脱ギャグ”作品。短編集『闘神スサノオー』に収録。
   - BOMBER GIRL（連載版）
     [1994年](../Page/1994年.md "wikilink")に『WJ』で連載開始。コミックス全1巻（集英社）。
   - BOMBER GIRL CRUSH\!
     [2000年](../Page/2000年.md "wikilink")より『[ヤングコミック](https://ja.wikipedia.org/wiki/ヤングコミック "wikilink")』で不定期連載された続編。青年誌とあってヌードなどのエロスシーン、バイオレンスシーンが増大してある。
-    『ヤングコミック』連載開始後、途中『[ヤングキング](https://ja.wikipedia.org/wiki/ヤングキング "wikilink")』で2話掲載し、『ヤングコミック』に戻り連載を終える。コミックス全3巻（[少年画報社](../Page/少年画報社.md "wikilink")）。
+    『ヤングコミック』連載開始後、途中『[ヤングキング](../Page/ヤングキング.md "wikilink")』で2話掲載し、『ヤングコミック』に戻り連載を終える。コミックス全3巻（[少年画報社](../Page/少年画報社.md "wikilink")）。
   - BOMBER GIRL完全版
     [2002年](../Page/2002年.md "wikilink")に初期作の最終話以降と「CRUSH」を繋げる番外編を加えた『BOMBER GIRL完全版』全2巻が発売（少年画報社）。
     ちなみに番外編は「CRUSH」連載版でCRASH版コミックス未収録になっている回であり、エロスシーンが幾分多めになっている。
   - BOMBER GIRL XXX
-    [2004年](../Page/2004年.md "wikilink")に『[ヤングキング](https://ja.wikipedia.org/wiki/ヤングキング "wikilink")』にて続編『BOMBER GIRL XXX』が連載。前作と比べエロスシーンは減る。コミックス全3巻（少年画報社）。
+    [2004年](../Page/2004年.md "wikilink")に『[ヤングキング](../Page/ヤングキング.md "wikilink")』にて続編『BOMBER GIRL XXX』が連載。前作と比べエロスシーンは減る。コミックス全3巻（少年画報社）。
 
 ## あらすじ
 

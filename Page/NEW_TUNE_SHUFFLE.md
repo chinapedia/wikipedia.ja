@@ -1,9 +1,9 @@
 > この記事は[NEW TUNE SHUFFLE](https://ja.wikipedia.org/wiki/NEW_TUNE_SHUFFLE)から翻訳されています。
 
 
-『**K-MIX NEW TUNE SHUFFLE**\[1\]』（ケイミックス・ニュー・チューン・シャッフル）は、2011年3月27日まで[静岡エフエム放送](../Page/静岡エフエム放送.md "wikilink") (K-MIX) が放送していた[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")である。
+『**K-MIX NEW TUNE SHUFFLE**\[1\]』（ケイミックス・ニュー・チューン・シャッフル）は、2011年3月27日まで[静岡エフエム放送](../Page/静岡エフエム放送.md "wikilink") (K-MIX) が放送していた[音楽番組](../Page/音楽番組.md "wikilink")である。
 
-[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")・[邦楽](../Page/邦楽.md "wikilink")を問わず、さまざまな新曲をフルサイズでオンエアしていた番組。番組のほぼ全てが音楽のみという構成で（オープニングとエンディングの女性[パーソナリティによるトークと曲の間に流れる](../Page/ラジオパーソナリティ.md "wikilink")[ジングルを除く](https://ja.wikipedia.org/wiki/ジングル_\(ラジオ\) "wikilink")）、[CMはオープニングからエンディングまで](https://ja.wikipedia.org/wiki/コマーシャルメッセージ "wikilink")1本も流れなかった。
+[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")・[邦楽](../Page/邦楽.md "wikilink")を問わず、さまざまな新曲をフルサイズでオンエアしていた番組。番組のほぼ全てが音楽のみという構成で（オープニングとエンディングの女性[パーソナリティによるトークと曲の間に流れる](../Page/ラジオパーソナリティ.md "wikilink")[ジングルを除く](https://ja.wikipedia.org/wiki/ジングル_\(ラジオ\) "wikilink")）、[CMはオープニングからエンディングまで](../Page/コマーシャルメッセージ.md "wikilink")1本も流れなかった。
 
 ## 放送時間
 
@@ -14,8 +14,8 @@
 
 ## パーソナリティ
 
-  - [廣木弓子](https://ja.wikipedia.org/wiki/廣木弓子 "wikilink")（ - 2007年3月）
-  - [高原由香子](https://ja.wikipedia.org/wiki/高原由香子 "wikilink")（2007年4月 - 2009年3月）
+  - [廣木弓子](../Page/廣木弓子.md "wikilink")（ - 2007年3月）
+  - [高原由香子](../Page/高原由香子.md "wikilink")（2007年4月 - 2009年3月）
   - [東城佑香](https://ja.wikipedia.org/wiki/東城佑香 "wikilink")（2009年4月 - 2011年3月27日）
 
 ## 脚注

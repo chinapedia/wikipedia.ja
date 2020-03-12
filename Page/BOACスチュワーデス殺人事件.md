@@ -1,30 +1,30 @@
 > この記事は[BOAC](https://ja.wikipedia.org/wiki/BOAC)から翻訳されています。
 
 
-**BOACスチュワーデス殺人事件**（ビーオーエーシースチュワーデスさつじんじけん）は、[1959年](../Page/1959年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")34年）に発生した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[殺人事件](https://ja.wikipedia.org/wiki/殺人事件 "wikilink")。[英国海外航空](https://ja.wikipedia.org/wiki/英国海外航空 "wikilink")（BOAC、現[ブリティッシュ・エアウェイズ](https://ja.wikipedia.org/wiki/ブリティッシュ・エアウェイズ "wikilink")）の日本人女性[客室乗務員](../Page/客室乗務員.md "wikilink")（スチュワーデス）が[扼殺](https://ja.wikipedia.org/wiki/扼殺 "wikilink")され、遺体となって[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[杉並区](https://ja.wikipedia.org/wiki/杉並区 "wikilink")で発見された。
+**BOACスチュワーデス殺人事件**（ビーオーエーシースチュワーデスさつじんじけん）は、[1959年](../Page/1959年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")34年）に発生した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[殺人事件](https://ja.wikipedia.org/wiki/殺人事件 "wikilink")。[英国海外航空](../Page/英国海外航空.md "wikilink")（BOAC、現[ブリティッシュ・エアウェイズ](../Page/ブリティッシュ・エアウェイズ.md "wikilink")）の日本人女性[客室乗務員](../Page/客室乗務員.md "wikilink")（スチュワーデス）が[扼殺](https://ja.wikipedia.org/wiki/扼殺 "wikilink")され、遺体となって[東京都](../Page/東京都.md "wikilink")[杉並区](https://ja.wikipedia.org/wiki/杉並区 "wikilink")で発見された。
 
-[犯人](https://ja.wikipedia.org/wiki/犯人 "wikilink")特定・[犯人](https://ja.wikipedia.org/wiki/犯人 "wikilink")[逮捕](../Page/逮捕.md "wikilink")には至らないまま、[1974年](../Page/1974年.md "wikilink")（昭和49年）3月10日に[公訴時効](https://ja.wikipedia.org/wiki/公訴時効 "wikilink")が成立、[未解決事件](https://ja.wikipedia.org/wiki/未解決事件 "wikilink")となった。
+[犯人](https://ja.wikipedia.org/wiki/犯人 "wikilink")特定・[犯人](https://ja.wikipedia.org/wiki/犯人 "wikilink")[逮捕](../Page/逮捕.md "wikilink")には至らないまま、[1974年](../Page/1974年.md "wikilink")（昭和49年）3月10日に[公訴時効](../Page/公訴時効.md "wikilink")が成立、[未解決事件](https://ja.wikipedia.org/wiki/未解決事件 "wikilink")となった。
 
 ## 概要
 
-[Zenpukuji_river,_from_miyashita_bridge.JPG](https://ja.wikipedia.org/wiki/File:Zenpukuji_river,_from_miyashita_bridge.JPG "fig:Zenpukuji_river,_from_miyashita_bridge.JPG") 1959年（昭和34年）3月10日の午前7時40分頃、東京都杉並区の[善福寺川](https://ja.wikipedia.org/wiki/善福寺川 "wikilink")（[大宮八幡宮](https://ja.wikipedia.org/wiki/大宮八幡宮 "wikilink")近くの宮下橋）下流で、[英国海外航空](https://ja.wikipedia.org/wiki/英国海外航空 "wikilink")（現ブリティッシュ・エアウェイズ）の日本人女性客室乗務員（当時27歳）が水死体で発見された。はじめは自殺と認定されたが、翌11日慶応病院での司法解剖の結果、他殺(扼殺)の疑いが高いとして捜査が開始された\[1\]。
+[Zenpukuji_river,_from_miyashita_bridge.JPG](https://ja.wikipedia.org/wiki/File:Zenpukuji_river,_from_miyashita_bridge.JPG "fig:Zenpukuji_river,_from_miyashita_bridge.JPG") 1959年（昭和34年）3月10日の午前7時40分頃、東京都杉並区の[善福寺川](../Page/善福寺川.md "wikilink")（[大宮八幡宮](https://ja.wikipedia.org/wiki/大宮八幡宮 "wikilink")近くの宮下橋）下流で、[英国海外航空](../Page/英国海外航空.md "wikilink")（現ブリティッシュ・エアウェイズ）の日本人女性客室乗務員（当時27歳）が水死体で発見された。はじめは自殺と認定されたが、翌11日慶応病院での司法解剖の結果、他殺(扼殺)の疑いが高いとして捜査が開始された\[1\]。
 
-[被害者](https://ja.wikipedia.org/wiki/被害者 "wikilink")の交友関係から、[カソリック](https://ja.wikipedia.org/wiki/カソリック "wikilink")杉並ドンボスコ[修道院](../Page/修道院.md "wikilink")の会計主任でベルメルシュ・ルイズ[神父](../Page/神父.md "wikilink")\[2\]（[ベルギー人](https://ja.wikipedia.org/wiki/ベルギー人 "wikilink")、当時38歳\[3\]）が[捜査](../Page/捜査.md "wikilink")線上に浮かんだ。警察は、重要参考人が外国人で神父であることから、マスコミに知られて騒がれると捜査の障害になるという理由で、極秘に捜査を進めていた。だが、1959年4月12日、NHKのドキュメンタリー番組「[日本の素顔](https://ja.wikipedia.org/wiki/日本の素顔 "wikilink")」で、横浜出入国管理事務所（現[東京出入国在留管理局横浜支局](../Page/東京出入国在留管理局横浜支局.md "wikilink")）の壁に貼っている複数の顔写真の中の神父の写真がクローズアップされ\[4\]、これをきっかけに重要参考人の顔と名前がマスコミに漏れてしまうこととなる\[5\]\[6\]。
+[被害者](../Page/被害者.md "wikilink")の交友関係から、[カソリック](https://ja.wikipedia.org/wiki/カソリック "wikilink")杉並ドンボスコ[修道院](../Page/修道院.md "wikilink")の会計主任でベルメルシュ・ルイズ[神父](../Page/神父.md "wikilink")\[2\]（[ベルギー人](../Page/ベルギー人.md "wikilink")、当時38歳\[3\]）が[捜査](../Page/捜査.md "wikilink")線上に浮かんだ。警察は、重要参考人が外国人で神父であることから、マスコミに知られて騒がれると捜査の障害になるという理由で、極秘に捜査を進めていた。だが、1959年4月12日、NHKのドキュメンタリー番組「[日本の素顔](https://ja.wikipedia.org/wiki/日本の素顔 "wikilink")」で、横浜出入国管理事務所（現[東京出入国在留管理局横浜支局](../Page/東京出入国在留管理局横浜支局.md "wikilink")）の壁に貼っている複数の顔写真の中の神父の写真がクローズアップされ\[4\]、これをきっかけに重要参考人の顔と名前がマスコミに漏れてしまうこととなる\[5\]\[6\]。
 
-[弁護人](https://ja.wikipedia.org/wiki/弁護人 "wikilink")と[バチカン](https://ja.wikipedia.org/wiki/バチカン "wikilink")[大使館](https://ja.wikipedia.org/wiki/大使館 "wikilink")一等書記官の立会いのもとでの[事情聴取](https://ja.wikipedia.org/wiki/事情聴取 "wikilink")が、第1回目が5月11－13日に、第2回目が20日、22日と計5日間に渡って行われた。事情聴取をしたのは、[平塚八兵衛](https://ja.wikipedia.org/wiki/平塚八兵衛 "wikilink")警部補である。だが進展はなく\[7\]、6月11日、神父は病気療養のため、正規の出国手続を経てベルギーに帰国した。
+[弁護人](../Page/弁護人.md "wikilink")と[バチカン](https://ja.wikipedia.org/wiki/バチカン "wikilink")[大使館](../Page/大使館.md "wikilink")一等書記官の立会いのもとでの[事情聴取](https://ja.wikipedia.org/wiki/事情聴取 "wikilink")が、第1回目が5月11－13日に、第2回目が20日、22日と計5日間に渡って行われた。事情聴取をしたのは、[平塚八兵衛](../Page/平塚八兵衛.md "wikilink")警部補である。だが進展はなく\[7\]、6月11日、神父は病気療養のため、正規の出国手続を経てベルギーに帰国した。
 
 出国の許可にあたっては、警察は正規の出国手続きが取られていたことを把握していながら、外交的な措置を求めるだけの証拠を提示できず、神父の出国が許される結果となった。この問題は国会でもとりあげられた\[8\]\[9\]。事件は解決のめどの立たないまま、[1974年](../Page/1974年.md "wikilink")（昭和49年）3月10日公訴時効を迎えた\[10\]。
 
 ## 謀略説
 
-被害者は前年の12月、英国海外航空が[コメット機航路の開始に際して](https://ja.wikipedia.org/wiki/デ・ハビランド_DH.106_コメット "wikilink")、初めてスチュワーデスに採用した日本人女性の9人のうちの1人だった\[11\]。そして、この事件の前後の英国海外航空の他のスチュワーデスが金や[麻薬](../Page/麻薬.md "wikilink")などの密輸に関わった事件が発覚している。国際的・組織的な密輸ルートに関わる謀略事件ではないか、という説もある\[12\]。
+被害者は前年の12月、英国海外航空が[コメット機航路の開始に際して](../Page/デ・ハビランド_DH.106_コメット.md "wikilink")、初めてスチュワーデスに採用した日本人女性の9人のうちの1人だった\[11\]。そして、この事件の前後の英国海外航空の他のスチュワーデスが金や[麻薬](../Page/麻薬.md "wikilink")などの密輸に関わった事件が発覚している。国際的・組織的な密輸ルートに関わる謀略事件ではないか、という説もある\[12\]。
 
 ## 著名作家の見解
 
-  - [三浦朱門](https://ja.wikipedia.org/wiki/三浦朱門 "wikilink")は、「もし当の神父が事件に無関係なら、なぜ積極的に警察に協力しないのだろう」と述べた\[13\]。
+  - [三浦朱門](../Page/三浦朱門.md "wikilink")は、「もし当の神父が事件に無関係なら、なぜ積極的に警察に協力しないのだろう」と述べた\[13\]。
   - [遠藤周作](../Page/遠藤周作.md "wikilink")は、「（マスコミは）あたかも彼が真犯人であるかのごとく、その写真を掲載したりその名を発表した。一種の人権蹂躙」、「突然の帰国は一般の日本人の根のない疑惑をさらにふかめる原因となった\[14\]」「潔白なら日本の警察に協力すべき\[15\]」と述べた。
-  - [田中澄江](https://ja.wikipedia.org/wiki/田中澄江 "wikilink")は5月27日に神父を見舞い、被害者の立場にたった現在の心境をのべてもらった。「流暢な日本語である。…事実を曲げた猥雑なペンの暴力にもめげず、澄んできれいな目の色であった」「警察が、調べる義務があると言えば、幾度でも出頭して、殺人者と見ようとする疑問に答えなければならない」と著わした\[16\]。
-  - [松本清張](../Page/松本清張.md "wikilink")は、この事件に関し『スチュワーデス殺し論』（ノンフィクション）を[婦人公論](https://ja.wikipedia.org/wiki/婦人公論 "wikilink")に著し\[17\]、事件をモデルに小説『[黒い福音](https://ja.wikipedia.org/wiki/黒い福音 "wikilink")』を執筆した。1984年には清張が代表を務める「霧プロダクション」が、[増村保造](https://ja.wikipedia.org/wiki/増村保造 "wikilink")監督・[新藤兼人](https://ja.wikipedia.org/wiki/新藤兼人 "wikilink")脚本でテレビドラマ化した（現在はDVD化されている）。また、捜査を担当した[平塚八兵衛](https://ja.wikipedia.org/wiki/平塚八兵衛 "wikilink")が退職した1975年、彼の捜査した事件の解説記事が「[毎日新聞](https://ja.wikipedia.org/wiki/毎日新聞 "wikilink")」「[産経新聞](https://ja.wikipedia.org/wiki/産経新聞 "wikilink")」に連載された\[18\]\[19\]。後年にも[井出孫六](https://ja.wikipedia.org/wiki/井出孫六 "wikilink")が取り上げた\[20\]。
+  - [田中澄江](../Page/田中澄江.md "wikilink")は5月27日に神父を見舞い、被害者の立場にたった現在の心境をのべてもらった。「流暢な日本語である。…事実を曲げた猥雑なペンの暴力にもめげず、澄んできれいな目の色であった」「警察が、調べる義務があると言えば、幾度でも出頭して、殺人者と見ようとする疑問に答えなければならない」と著わした\[16\]。
+  - [松本清張](../Page/松本清張.md "wikilink")は、この事件に関し『スチュワーデス殺し論』（ノンフィクション）を[婦人公論](../Page/婦人公論.md "wikilink")に著し\[17\]、事件をモデルに小説『[黒い福音](https://ja.wikipedia.org/wiki/黒い福音 "wikilink")』を執筆した。1984年には清張が代表を務める「霧プロダクション」が、[増村保造](../Page/増村保造.md "wikilink")監督・[新藤兼人](../Page/新藤兼人.md "wikilink")脚本でテレビドラマ化した（現在はDVD化されている）。また、捜査を担当した[平塚八兵衛](../Page/平塚八兵衛.md "wikilink")が退職した1975年、彼の捜査した事件の解説記事が「[毎日新聞](https://ja.wikipedia.org/wiki/毎日新聞 "wikilink")」「[産経新聞](https://ja.wikipedia.org/wiki/産経新聞 "wikilink")」に連載された\[18\]\[19\]。後年にも[井出孫六](../Page/井出孫六.md "wikilink")が取り上げた\[20\]。
 
 ## 映画化
 
@@ -42,8 +42,8 @@
 
 ## 関連項目
 
-  - [英国海外航空](https://ja.wikipedia.org/wiki/英国海外航空 "wikilink")
-  - [公訴時効](https://ja.wikipedia.org/wiki/公訴時効 "wikilink")
+  - [英国海外航空](../Page/英国海外航空.md "wikilink")
+  - [公訴時効](../Page/公訴時効.md "wikilink")
 
 [Category:昭和時代戦後の殺人事件](https://ja.wikipedia.org/wiki/Category:昭和時代戦後の殺人事件 "wikilink") [Category:日本の未解決殺人事件](https://ja.wikipedia.org/wiki/Category:日本の未解決殺人事件 "wikilink") [Category:杉並区の歴史](https://ja.wikipedia.org/wiki/Category:杉並区の歴史 "wikilink") [Category:1959年の日本の事件](https://ja.wikipedia.org/wiki/Category:1959年の日本の事件 "wikilink") [Category:ブリティッシュ・エアウェイズ](https://ja.wikipedia.org/wiki/Category:ブリティッシュ・エアウェイズ "wikilink") [Category:戦後の東京](https://ja.wikipedia.org/wiki/Category:戦後の東京 "wikilink") [Category:1959年3月](https://ja.wikipedia.org/wiki/Category:1959年3月 "wikilink")
 

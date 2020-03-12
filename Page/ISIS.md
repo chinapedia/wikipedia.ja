@@ -10,15 +10,15 @@
   - [ISIS (人工衛星)](https://ja.wikipedia.org/wiki/ISIS_\(人工衛星\) "wikilink") - カナダの科学衛星。
   - [ISIS neutron source](https://ja.wikipedia.org/wiki/:en:ISIS_neutron_source "wikilink") - [ラザフォード・アップルトン・ラボラトリー](https://ja.wikipedia.org/wiki/ラザフォード・アップルトン・ラボラトリー "wikilink")のパルス中性子源。
   - [科学国際安全保障研究所](https://ja.wikipedia.org/wiki/科学国際安全保障研究所 "wikilink")（） - アメリカのシンクタンク。
-  - [Isis (雑誌)](https://ja.wikipedia.org/wiki/Isis_\(雑誌\) "wikilink")([英語版](https://ja.wikipedia.org/wiki/:en:Isis_\(journal\) "wikilink")) - [シカゴ大学](../Page/シカゴ大学.md "wikilink")が刊行する[科学史](https://ja.wikipedia.org/wiki/科学史 "wikilink")をテーマとする学術雑誌。
+  - [Isis (雑誌)](https://ja.wikipedia.org/wiki/Isis_\(雑誌\) "wikilink")([英語版](https://ja.wikipedia.org/wiki/:en:Isis_\(journal\) "wikilink")) - [シカゴ大学](../Page/シカゴ大学.md "wikilink")が刊行する[科学史](../Page/科学史.md "wikilink")をテーマとする学術雑誌。
   - 規格
       - [Image and Scanner Interface Specification](https://ja.wikipedia.org/wiki/Image_and_Scanner_Interface_Specification "wikilink") - Pixel Translations社（現:[OpenText Captiva](https://ja.wikipedia.org/wiki/OpenText_Captiva "wikilink")）が1990年に開発した[イメージスキャナ](../Page/イメージスキャナ.md "wikilink")インターフェース標準。
-      - [IS-IS](https://ja.wikipedia.org/wiki/IS-IS "wikilink") - ルーティングプロトコル。
-      - [ISIS (規格)](https://ja.wikipedia.org/wiki/ISIS_\(規格\) "wikilink")　- 自転車部品[ボトムブラケット](https://ja.wikipedia.org/wiki/ボトムブラケット "wikilink")のクランクとの勘合部の形状のメーカー規格。
+      - [IS-IS](../Page/IS-IS.md "wikilink") - ルーティングプロトコル。
+      - [ISIS (規格)](https://ja.wikipedia.org/wiki/ISIS_\(規格\) "wikilink")　- 自転車部品[ボトムブラケット](../Page/ボトムブラケット.md "wikilink")のクランクとの勘合部の形状のメーカー規格。
       - [Image and Scanner Interface Specification](https://ja.wikipedia.org/wiki/Image_and_Scanner_Interface_Specification "wikilink") - イメージスキャナなどから画像を入力するための技術標準の一つ
   - 製品
-      - [トヨタ・アイシス](https://ja.wikipedia.org/wiki/トヨタ・アイシス "wikilink") - トヨタ自動車の乗用車車種。
-      - [SureFire](https://ja.wikipedia.org/wiki/:en:SureFire "wikilink") ISIS - [シュアファイア](https://ja.wikipedia.org/wiki/シュアファイア "wikilink")の[懐中電灯](https://ja.wikipedia.org/wiki/懐中電灯 "wikilink")。
+      - [トヨタ・アイシス](../Page/トヨタ・アイシス.md "wikilink") - トヨタ自動車の乗用車車種。
+      - [SureFire](https://ja.wikipedia.org/wiki/:en:SureFire "wikilink") ISIS - [シュアファイア](../Page/シュアファイア.md "wikilink")の[懐中電灯](../Page/懐中電灯.md "wikilink")。
   - ミュージシャン
       - [イーシス](https://ja.wikipedia.org/wiki/イーシス "wikilink") （isis+）- 日本のストリートミュージシャン。
       - [アイシス (バンド)](https://ja.wikipedia.org/wiki/アイシス_\(バンド\) "wikilink") - アメリカのバンド。

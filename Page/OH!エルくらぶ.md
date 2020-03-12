@@ -1,7 +1,7 @@
 > この記事は[OH!](https://ja.wikipedia.org/wiki/OH!)から翻訳されています。
 
 
-『**OH\!エルくらぶ**』（オー エルくらぶ）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")で毎週[土曜日](../Page/土曜日.md "wikilink") の午前に放送された[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")の[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。
+『**OH\!エルくらぶ**』（オー エルくらぶ）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで[テレビ朝日](../Page/テレビ朝日.md "wikilink")で毎週[土曜日](../Page/土曜日.md "wikilink") の午前に放送された[生放送](../Page/生放送.md "wikilink")の[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。
 
 ここでは[2014年](../Page/2014年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[2015年](../Page/2015年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで放送されていた、深夜版についても触れる。
 
@@ -20,10 +20,10 @@
 
 ## 司会者
 
-  - [南美希子](https://ja.wikipedia.org/wiki/南美希子 "wikilink")／[田中康夫](../Page/田中康夫.md "wikilink")（1986年4月 - ）
+  - [南美希子](../Page/南美希子.md "wikilink")／[田中康夫](../Page/田中康夫.md "wikilink")（1986年4月 - ）
   - [鈴木杏樹](https://ja.wikipedia.org/wiki/鈴木杏樹 "wikilink")／[中山秀征](../Page/中山秀征.md "wikilink")／[渡辺正行](../Page/渡辺正行.md "wikilink")／[桐島ノエル](https://ja.wikipedia.org/wiki/桐島ノエル "wikilink")（1992年4月 - 1994年9月）
-  - [山咲千里](https://ja.wikipedia.org/wiki/山咲千里 "wikilink")／[宮本亜門](https://ja.wikipedia.org/wiki/宮本亜門 "wikilink")／[中居正広](../Page/中居正広.md "wikilink")／[田中ひろ子](https://ja.wikipedia.org/wiki/田中ひろ子 "wikilink")（1994年10月 - 1996年3月）
-  - [井森美幸](https://ja.wikipedia.org/wiki/井森美幸 "wikilink")／[長谷川初範](https://ja.wikipedia.org/wiki/長谷川初範 "wikilink")／[草彅剛](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")／[矢部美穂](https://ja.wikipedia.org/wiki/矢部美穂 "wikilink")（1996年4月 - 1997年3月）
+  - [山咲千里](../Page/山咲千里.md "wikilink")／[宮本亜門](https://ja.wikipedia.org/wiki/宮本亜門 "wikilink")／[中居正広](../Page/中居正広.md "wikilink")／[田中ひろ子](https://ja.wikipedia.org/wiki/田中ひろ子 "wikilink")（1994年10月 - 1996年3月）
+  - [井森美幸](https://ja.wikipedia.org/wiki/井森美幸 "wikilink")／[長谷川初範](../Page/長谷川初範.md "wikilink")／[草彅剛](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")／[矢部美穂](https://ja.wikipedia.org/wiki/矢部美穂 "wikilink")（1996年4月 - 1997年3月）
 
 ## レギュラー出演者
 
@@ -31,22 +31,22 @@
   - [藤井暁](../Page/藤井暁.md "wikilink")（1986年4月 - 1987年9月）
   - [三枝成彰](../Page/三枝成彰.md "wikilink")（1988年）
   - [トニー・タナカ](https://ja.wikipedia.org/wiki/トニータナカ "wikilink")
-  - [富田たかし](https://ja.wikipedia.org/wiki/富田たかし "wikilink")(1989年-時期未詳)
-  - [寺崎貴司](https://ja.wikipedia.org/wiki/寺崎貴司 "wikilink")（1987年10月 - 1990年10月）
-  - [Dr.コパ](https://ja.wikipedia.org/wiki/Dr.コパ "wikilink")
+  - [富田たかし](../Page/富田たかし.md "wikilink")(1989年-時期未詳)
+  - [寺崎貴司](../Page/寺崎貴司.md "wikilink")（1987年10月 - 1990年10月）
+  - [Dr.コパ](../Page/Dr.コパ.md "wikilink")
   - [建部和美](https://ja.wikipedia.org/wiki/建部和美 "wikilink") みかん役（1991年4月 - 1992年3月）
-  - [中谷彰宏](https://ja.wikipedia.org/wiki/中谷彰宏 "wikilink")（1989年4月 - 1993年3月 博報堂プランナー退職後 ）
+  - [中谷彰宏](../Page/中谷彰宏.md "wikilink")（1989年4月 - 1993年3月 博報堂プランナー退職後 ）
   - [朝岡聡](../Page/朝岡聡.md "wikilink")（1994年10月 - 1996年3月）
-  - [平野寿将](https://ja.wikipedia.org/wiki/平野寿将 "wikilink")（1994年 - 1996 料理コーナー 桑野と入れ替わり？）
+  - [平野寿将](../Page/平野寿将.md "wikilink")（1994年 - 1996 料理コーナー 桑野と入れ替わり？）
   - [林マヤ](../Page/林マヤ.md "wikilink")（1996年 - 1997年　ファッション）
-  - [桑野信義](https://ja.wikipedia.org/wiki/桑野信義 "wikilink")（1996年 - 1997年　料理コーナー）
-  - [林家いっ平](https://ja.wikipedia.org/wiki/林家三平_\(2代目\) "wikilink")（1996年 - 1997年）
+  - [桑野信義](../Page/桑野信義.md "wikilink")（1996年 - 1997年　料理コーナー）
+  - [林家いっ平](../Page/林家三平_\(2代目\).md "wikilink")（1996年 - 1997年）
   - [伊集院光](../Page/伊集院光.md "wikilink")（1996年 - 1997年）
-  - [島田律子](https://ja.wikipedia.org/wiki/島田律子 "wikilink")（1996年4月 - 1997年3月）
+  - [島田律子](../Page/島田律子.md "wikilink")（1996年4月 - 1997年3月）
   - [新井深志](https://ja.wikipedia.org/wiki/新井深志 "wikilink")（再現ドラマ内）
-  - [きよ彦](https://ja.wikipedia.org/wiki/きよ彦 "wikilink")（ファッション）
+  - [きよ彦](../Page/きよ彦.md "wikilink")（ファッション）
   - [磯野貴理子](../Page/磯野貴理子.md "wikilink")（ファッション）
-  - [クリス・ペプラー](https://ja.wikipedia.org/wiki/クリス・ペプラー "wikilink")（アーバンサウンドコレクション）
+  - [クリス・ペプラー](../Page/クリス・ペプラー.md "wikilink")（アーバンサウンドコレクション）
 
 ## 主なコーナー
 
@@ -62,20 +62,20 @@
 
 ### オープニングテーマ
 
-  - 「I.G.Y.」[ドナルド・フェイゲン](https://ja.wikipedia.org/wiki/ドナルド・フェイゲン "wikilink")
-  - 「Deja　Vu」[サーカス](https://ja.wikipedia.org/wiki/サーカス_\(歌手\) "wikilink")（1988年）
+  - 「I.G.Y.」[ドナルド・フェイゲン](../Page/ドナルド・フェイゲン.md "wikilink")
+  - 「Deja　Vu」[サーカス](../Page/サーカス_\(歌手\).md "wikilink")（1988年）
   - 「週末は旅人」 [SCRAMBLE](https://ja.wikipedia.org/wiki/SCRAMBLE "wikilink") （現・[山石敬之](https://ja.wikipedia.org/wiki/山石敬之 "wikilink")、1989年）
-  - 「恋のマリオネット」 [ザ・シャムロック](https://ja.wikipedia.org/wiki/ザ・シャムロック "wikilink")（1990年）
-  - 「マリッジ」[池田聡](https://ja.wikipedia.org/wiki/池田聡 "wikilink")（1991年）
-  - 「[ふりむいて抱きしめて](https://ja.wikipedia.org/wiki/ふりむいて抱きしめて "wikilink")」 [WANDS](https://ja.wikipedia.org/wiki/WANDS "wikilink") （1992年）
+  - 「恋のマリオネット」 [ザ・シャムロック](../Page/ザ・シャムロック.md "wikilink")（1990年）
+  - 「マリッジ」[池田聡](../Page/池田聡.md "wikilink")（1991年）
+  - 「[ふりむいて抱きしめて](../Page/ふりむいて抱きしめて.md "wikilink")」 [WANDS](../Page/WANDS.md "wikilink") （1992年）
   - 「[君は君の誇り](https://ja.wikipedia.org/wiki/君は君の誇り "wikilink")」[中西圭三](https://ja.wikipedia.org/wiki/中西圭三 "wikilink") （1992年）
-  - 「[ジェラシーを微笑みにかえて](https://ja.wikipedia.org/wiki/ジェラシーを微笑みにかえて "wikilink")」[吉川晃司](https://ja.wikipedia.org/wiki/吉川晃司 "wikilink") （1992年）
+  - 「[ジェラシーを微笑みにかえて](https://ja.wikipedia.org/wiki/ジェラシーを微笑みにかえて "wikilink")」[吉川晃司](../Page/吉川晃司.md "wikilink") （1992年）
   - 「追いつかないよ」藤井宏一 （1992年）
-  - 「[A Touch of Destiny](https://ja.wikipedia.org/wiki/A_Touch_of_Destiny "wikilink")」[松田聖子](../Page/松田聖子.md "wikilink")（1993年）
+  - 「[A Touch of Destiny](../Page/A_Touch_of_Destiny.md "wikilink")」[松田聖子](../Page/松田聖子.md "wikilink")（1993年）
   - 「恋のイントロダクション」[源学](https://ja.wikipedia.org/wiki/源学 "wikilink")（1993年）
-  - 「逆光線に射ち抜かれて」[高橋克典](https://ja.wikipedia.org/wiki/高橋克典 "wikilink")（1993年）
-  - 「[素顔のままKISSしよう](https://ja.wikipedia.org/wiki/素顔のままKISSしよう "wikilink")」[MANISH](https://ja.wikipedia.org/wiki/MANISH "wikilink")（1993年）
-  - 「薄情」[久宝留理子](https://ja.wikipedia.org/wiki/久宝留理子 "wikilink")（1994年）
+  - 「逆光線に射ち抜かれて」[高橋克典](../Page/高橋克典.md "wikilink")（1993年）
+  - 「[素顔のままKISSしよう](../Page/素顔のままKISSしよう.md "wikilink")」[MANISH](../Page/MANISH.md "wikilink")（1993年）
+  - 「薄情」[久宝留理子](../Page/久宝留理子.md "wikilink")（1994年）
   - 「Hello\! Hello\!」[ACID LOVE](https://ja.wikipedia.org/wiki/ACID_LOVE "wikilink")（1994年）
   - 「気まぐれな恋していい」[This Time](https://ja.wikipedia.org/wiki/This_Time "wikilink")（1995年）
   - 「笑いたくても笑えない」 [Groovy Boyfriends](https://ja.wikipedia.org/wiki/Groovy_Boyfriends "wikilink")（1995年）
@@ -88,10 +88,10 @@
 ### エンディングテーマ
 
   - 「[君を二度とはなさない](https://ja.wikipedia.org/wiki/君を二度とはなさない "wikilink")」[角松敏生](https://ja.wikipedia.org/wiki/角松敏生 "wikilink")（1992年）
-  - 「君とずっと…くらしたい」[To Be Continued](https://ja.wikipedia.org/wiki/To_Be_Continued "wikilink")（1993年）
-  - 「会わずにはいられない」[鈴木トオル](https://ja.wikipedia.org/wiki/鈴木トオル "wikilink")（1993年）
+  - 「君とずっと…くらしたい」[To Be Continued](../Page/To_Be_Continued.md "wikilink")（1993年）
+  - 「会わずにはいられない」[鈴木トオル](../Page/鈴木トオル.md "wikilink")（1993年）
   - 「[ヴェネツィアン・ラプソディー](https://ja.wikipedia.org/wiki/ヴェネツィアン・ラプソディー "wikilink")」[ALI PROJECT](https://ja.wikipedia.org/wiki/ALI_PROJECT "wikilink")（1994年）
-  - 「[青い車](https://ja.wikipedia.org/wiki/青い車_\(曲\) "wikilink")」[スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")（1994年）
+  - 「[青い車](../Page/青い車_\(曲\).md "wikilink")」[スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")（1994年）
   - 「[少年](https://ja.wikipedia.org/wiki/少年_\(宇都宮隆の曲\) "wikilink")」[宇都宮隆](https://ja.wikipedia.org/wiki/宇都宮隆 "wikilink")（1996年）
   - 「dawn」[和田弘樹](https://ja.wikipedia.org/wiki/和田弘樹 "wikilink")（1997年）
 
@@ -111,7 +111,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/広域放送.md" title="wikilink">関東広域圏</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビ朝日" title="wikilink">テレビ朝日</a></p></td>
+<td><p><a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/All-nippon_News_Network" title="wikilink">テレビ朝日系列</a></p></td>
 <td><p><strong>制作局</strong></p></td>
 </tr>
@@ -145,7 +145,7 @@
 
 ## 復活版
 
-『**Kis-My-Ft2 presents オフィスラーニングバラエティ OLくらぶ**』（キスマイフットツー プレゼンツ オフィスラーニングバラエティ オーエルくらぶ）と題し、[2014年](../Page/2014年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[2015年](../Page/2015年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")まで毎週水曜日0:15 - 0:45（火曜日深夜）に放送された。[Kis-My-Ft2](https://ja.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")にとっては自身初の単独冠番組である\[1\]。
+『**Kis-My-Ft2 presents オフィスラーニングバラエティ OLくらぶ**』（キスマイフットツー プレゼンツ オフィスラーニングバラエティ オーエルくらぶ）と題し、[2014年](../Page/2014年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[2015年](../Page/2015年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")まで毎週水曜日0:15 - 0:45（火曜日深夜）に放送された。[Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")にとっては自身初の単独冠番組である\[1\]。
 
 ### 概要（復活版）
 
@@ -155,7 +155,7 @@
 
   - 千賀健子のこれってセクハラ？これってパワハラ？
 
-視聴者より寄せられた、オフィスで実際にあった「これはセクハラないしパワハラではないか？」という事案を、Kis-My-Ft2の[千賀健永](https://ja.wikipedia.org/wiki/千賀健永 "wikilink")が「千賀健子」という名のOLに扮してVTRで再現し、VTRを観た後でKis-My-Ft2メンバーが当該事案はセクハラ・パワハラに該当するかを検討した後、[アディーレ法律事務所](https://ja.wikipedia.org/wiki/アディーレ法律事務所 "wikilink")の[篠田恵里香](https://ja.wikipedia.org/wiki/篠田恵里香 "wikilink")弁護士が法的観点から判定を下す\[2\]。
+視聴者より寄せられた、オフィスで実際にあった「これはセクハラないしパワハラではないか？」という事案を、Kis-My-Ft2の[千賀健永](../Page/千賀健永.md "wikilink")が「千賀健子」という名のOLに扮してVTRで再現し、VTRを観た後でKis-My-Ft2メンバーが当該事案はセクハラ・パワハラに該当するかを検討した後、[アディーレ法律事務所](https://ja.wikipedia.org/wiki/アディーレ法律事務所 "wikilink")の[篠田恵里香](https://ja.wikipedia.org/wiki/篠田恵里香 "wikilink")弁護士が法的観点から判定を下す\[2\]。
 
 ### 放送リスト
 
@@ -174,7 +174,7 @@
 <td><p>2014年<br />
 <a href="../Page/10月1日.md" title="wikilink">10月1日</a></p></td>
 <td><p>「コピー機」の便利すぎる機能を学べ!</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/伊藤綾子" title="wikilink">伊藤綾子</a></p></td>
+<td><p><a href="../Page/伊藤綾子.md" title="wikilink">伊藤綾子</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
@@ -186,7 +186,7 @@
 <td><p>3</p></td>
 <td><p><a href="../Page/10月15日.md" title="wikilink">10月15日</a></p></td>
 <td><p>本当はスゴかった!電卓の知られざる機能</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/脊山麻理子" title="wikilink">脊山麻理子</a></p></td>
+<td><p><a href="../Page/脊山麻理子.md" title="wikilink">脊山麻理子</a></p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
@@ -217,7 +217,7 @@
 <td><p>8</p></td>
 <td><p><a href="../Page/11月19日.md" title="wikilink">11月19日</a></p></td>
 <td><p>オフィスで使えるデジタルグッズを体感せよ!</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オリエンタルラジオ" title="wikilink">オリエンタルラジオ</a>（<a href="https://ja.wikipedia.org/wiki/中田敦彦" title="wikilink">中田敦彦</a>・<a href="https://ja.wikipedia.org/wiki/藤森慎吾" title="wikilink">藤森慎吾</a>）</p></td>
+<td><p><a href="../Page/オリエンタルラジオ.md" title="wikilink">オリエンタルラジオ</a>（<a href="../Page/中田敦彦.md" title="wikilink">中田敦彦</a>・<a href="../Page/藤森慎吾.md" title="wikilink">藤森慎吾</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>9</p></td>
@@ -233,10 +233,10 @@
 </tr>
 <tr class="odd">
 <td><p>11</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/12月10日" title="wikilink">12月10日</a></p></td>
+<td><p><a href="../Page/12月10日.md" title="wikilink">12月10日</a></p></td>
 <td><p>人気のテイクアウトランチベスト5を当てろ!〜丸の内編〜</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ミムラ_(女優)" title="wikilink">ミムラ</a><br />
-<a href="https://ja.wikipedia.org/wiki/ロバート_(お笑いトリオ)" title="wikilink">ロバート</a>（<a href="https://ja.wikipedia.org/wiki/山本博_(お笑い芸人)" title="wikilink">山本博</a>・<a href="https://ja.wikipedia.org/wiki/秋山竜次" title="wikilink">秋山竜次</a>・<a href="https://ja.wikipedia.org/wiki/馬場裕之" title="wikilink">馬場裕之</a>）</p></td>
+<a href="../Page/ロバート_(お笑いトリオ).md" title="wikilink">ロバート</a>（<a href="../Page/山本博_(お笑い芸人).md" title="wikilink">山本博</a>・<a href="../Page/秋山竜次.md" title="wikilink">秋山竜次</a>・<a href="../Page/馬場裕之.md" title="wikilink">馬場裕之</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>12</p></td>
@@ -256,13 +256,13 @@
 <td><p>14</p></td>
 <td><p><a href="../Page/1月7日.md" title="wikilink">1月7日</a></p></td>
 <td><p>悪質クレーム対応マニュアルを学べ!≪第3弾≫</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大久保佳代子" title="wikilink">大久保佳代子</a>（<a href="https://ja.wikipedia.org/wiki/オアシズ" title="wikilink">オアシズ</a>）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/大久保佳代子" title="wikilink">大久保佳代子</a>（<a href="../Page/オアシズ.md" title="wikilink">オアシズ</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>15</p></td>
 <td><p><a href="../Page/1月14日.md" title="wikilink">1月14日</a></p></td>
 <td><p>有名企業で本当にあったという「入社面接試験」に挑め!</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/平成ノブシコブシ" title="wikilink">平成ノブシコブシ</a>（<a href="https://ja.wikipedia.org/wiki/吉村崇" title="wikilink">吉村崇</a>・<a href="https://ja.wikipedia.org/wiki/徳井健太" title="wikilink">徳井健太</a>）</p></td>
+<td><p><a href="../Page/平成ノブシコブシ.md" title="wikilink">平成ノブシコブシ</a>（<a href="https://ja.wikipedia.org/wiki/吉村崇" title="wikilink">吉村崇</a>・<a href="https://ja.wikipedia.org/wiki/徳井健太" title="wikilink">徳井健太</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>16</p></td>
@@ -280,13 +280,13 @@
 <td><p>18</p></td>
 <td><p><a href="../Page/2月4日.md" title="wikilink">2月4日</a></p></td>
 <td><p>女性人気のお店で女子ウケメニューTOP3を当てろ!</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/高橋茂雄" title="wikilink">高橋茂雄</a>（<a href="https://ja.wikipedia.org/wiki/サバンナ_(お笑いコンビ)" title="wikilink">サバンナ</a>）</p></td>
+<td><p><a href="../Page/高橋茂雄.md" title="wikilink">高橋茂雄</a>（<a href="../Page/サバンナ_(お笑いコンビ).md" title="wikilink">サバンナ</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>19</p></td>
 <td><p><a href="../Page/2月11日.md" title="wikilink">2月11日</a></p></td>
 <td><p>人気のファッション雑誌編集部でお手製クイズに挑戦!</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ピース_(お笑いコンビ)" title="wikilink">ピース</a>（<a href="https://ja.wikipedia.org/wiki/綾部祐二" title="wikilink">綾部祐二</a>・<a href="https://ja.wikipedia.org/wiki/又吉直樹" title="wikilink">又吉直樹</a>）<br />
+<td><p><a href="../Page/ピース_(お笑いコンビ).md" title="wikilink">ピース</a>（<a href="https://ja.wikipedia.org/wiki/綾部祐二" title="wikilink">綾部祐二</a>・<a href="https://ja.wikipedia.org/wiki/又吉直樹" title="wikilink">又吉直樹</a>）<br />
 <a href="https://ja.wikipedia.org/wiki/押切もえ" title="wikilink">押切もえ</a></p></td>
 </tr>
 <tr class="even">
@@ -305,7 +305,7 @@
 <td><p>22</p></td>
 <td><p><a href="../Page/3月4日.md" title="wikilink">3月4日</a></p></td>
 <td><p>女性に人気のエスニックレストランで女子ウケメニューTOP3を当てろ!</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/井上裕介_(お笑い芸人)" title="wikilink">井上裕介</a>（<a href="https://ja.wikipedia.org/wiki/NON_STYLE" title="wikilink">NON STYLE</a>）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/井上裕介_(お笑い芸人)" title="wikilink">井上裕介</a>（<a href="../Page/NON_STYLE.md" title="wikilink">NON STYLE</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>23</p></td>
@@ -317,7 +317,7 @@
 <td><p>24</p></td>
 <td><p><a href="../Page/3月18日.md" title="wikilink">3月18日</a></p></td>
 <td><p>お医者さんに人気の中華料理店で‘医者ウケ’メニューTOP3を当てろ!</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/彦摩呂" title="wikilink">彦摩呂</a></p></td>
+<td><p><a href="../Page/彦摩呂.md" title="wikilink">彦摩呂</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>25</p></td>
@@ -341,7 +341,7 @@
 | [関東広域圏](../Page/広域放送.md "wikilink")                                                  | テレビ朝日 (EX)                                                       | [テレビ朝日系列](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink") | 水曜 0:15 - 0:45（火曜深夜）                | 2014年10月1日 | **制作局** |
 | [岩手県](../Page/岩手県.md "wikilink")                                                     | [岩手朝日テレビ](../Page/岩手朝日テレビ.md "wikilink") (IAT)                   | [同時ネット](https://ja.wikipedia.org/wiki/同時ネット "wikilink")                     |                                     |            |         |
 | [秋田県](../Page/秋田県.md "wikilink")                                                     | [秋田朝日放送](../Page/秋田朝日放送.md "wikilink") (AAB)                     |                                                                             |                                     |            |         |
-| [山形県](https://ja.wikipedia.org/wiki/山形県 "wikilink")                                  | [山形テレビ](../Page/山形テレビ.md "wikilink") (YTS)                       |                                                                             |                                     |            |         |
+| [山形県](../Page/山形県.md "wikilink")                                                     | [山形テレビ](../Page/山形テレビ.md "wikilink") (YTS)                       |                                                                             |                                     |            |         |
 | [長野県](../Page/長野県.md "wikilink")                                                     | [長野朝日放送](../Page/長野朝日放送.md "wikilink") (abn)                     |                                                                             |                                     |            |         |
 | [沖縄県](../Page/沖縄県.md "wikilink")                                                     | 琉球朝日放送 (QAB)                                                     |                                                                             |                                     |            |         |
 | [中京広域圏](../Page/広域放送.md "wikilink")                                                  | [メ〜テレ](../Page/名古屋テレビ放送.md "wikilink") (NBN)                     | 水曜 0:20 - 0:50（火曜深夜）                                                        | 5分[遅れ](../Page/遅れネット.md "wikilink") |            |         |
@@ -350,7 +350,7 @@
 | [福島県](../Page/福島県.md "wikilink")                                                     | 福島放送 (KFB)                                                       | 木曜 0:20 - 0:50（水曜深夜）                                                        | 2014年10月9日                          | 8日遅れ       |         |
 | [山口県](../Page/山口県.md "wikilink")                                                     | [山口朝日放送](../Page/山口朝日放送.md "wikilink") (yab)                     | 木曜 0:45 - 1:15（水曜深夜）                                                        | 2014年10月16日                         | 15日遅れ      |         |
 | [愛媛県](../Page/愛媛県.md "wikilink")                                                     | [愛媛朝日テレビ](../Page/愛媛朝日テレビ.md "wikilink") (eat)                   | 水曜 1:20 - 1:50（火曜深夜）                                                        | 2014年10月22日                         | 21日遅れ      |         |
-| [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")                                  | [九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink") (KBC)  | 火曜 1:20 - 1:50（月曜深夜）                                                        | 2014年10月21日                         | 20日遅れ      |         |
+| [福岡県](../Page/福岡県.md "wikilink")                                                     | [九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink") (KBC)  | 火曜 1:20 - 1:50（月曜深夜）                                                        | 2014年10月21日                         | 20日遅れ      |         |
 | [長崎県](../Page/長崎県.md "wikilink")                                                     | [長崎文化放送](https://ja.wikipedia.org/wiki/長崎文化放送 "wikilink") (NCC)  | 水曜 1:21 - 1:51（火曜深夜）                                                        | 2014年10月29日                         | 28日遅れ      |         |
 | [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")                                  | [熊本朝日放送](../Page/熊本朝日放送.md "wikilink") (KAB)                     | 火曜 1:15 - 1:45（月曜深夜）                                                        | 2014年10月21日                         | 20日遅れ      |         |
 | [近畿広域圏](../Page/広域放送.md "wikilink")                                                  | [朝日放送](../Page/朝日放送テレビ.md "wikilink") (ABC)                      | 火曜 2:14 - 2:44（月曜深夜）                                                        | 2015年1月6日                           | 82日遅れ      |         |
@@ -361,7 +361,7 @@
 
   - ナレーター：[川澄綾子](../Page/川澄綾子.md "wikilink")、[戸田恵子](../Page/戸田恵子.md "wikilink")
   - 企画：[奥川晃弘](https://ja.wikipedia.org/wiki/奥川晃弘 "wikilink")
-  - 構成：[鈴木おさむ](../Page/鈴木おさむ.md "wikilink")、[樋口卓治](https://ja.wikipedia.org/wiki/樋口卓治 "wikilink")、飯塚大悟、工藤ひろこ、坂田康子、なかじまはじめ、大平将貴、奥山聡紀、三浦智信、久保川きよみ
+  - 構成：[鈴木おさむ](../Page/鈴木おさむ.md "wikilink")、[樋口卓治](../Page/樋口卓治.md "wikilink")、飯塚大悟、工藤ひろこ、坂田康子、なかじまはじめ、大平将貴、奥山聡紀、三浦智信、久保川きよみ
   - ロケ技術：辺見洋、羽田宣廣
   - デザイン：金澤弘道
   - 美術進行：髙崎絵織
@@ -375,7 +375,7 @@
   - TK：中里優子
   - 編成：金澤美保
   - 宣伝：平野三和、平泉季里子
-  - 特別協力：[ジャニーズ事務所](https://ja.wikipedia.org/wiki/ジャニーズ事務所 "wikilink")
+  - 特別協力：[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")
   - 制作スタッフ：東裕二、遠入涼、高橋亜季、森田彩、堂森裕美、蛯名葉乙
   - 制作進行：草柳孝司、木山達朗、杉田ちえみ
   - AP：水野佳世

@@ -7,13 +7,13 @@
 
 ### 初代（ビスカスカップリング式）
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")、それまで[機械式パートタイム四輪駆動を採用していた初代](https://ja.wikipedia.org/wiki/四輪駆動#パートタイム式 "wikilink")[シビックシャトルに](../Page/ホンダ・シビックシャトル.md "wikilink")**リアルタイム4WD**が搭載された。旧来はボタン操作でトランスファを接続することによって[二輪駆動](https://ja.wikipedia.org/wiki/二輪駆動 "wikilink")と四輪駆動を切り替えていたものを、後輪へ駆動力を伝える[プロペラシャフト](https://ja.wikipedia.org/wiki/プロペラシャフト "wikilink")に[ビスカスカップリング](../Page/ビスカスカップリング.md "wikilink")を配すことにより、前後輪の「回転差」により、駆動力が後輪にも伝わるようにしたもの。前後輪の回転差が過大な時に発生するタイトコーナーブレーキング現象には、ビスカスカップリングがトルク差を発生させないため、基本的には発生しない。
+[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")、それまで[機械式パートタイム四輪駆動を採用していた初代](https://ja.wikipedia.org/wiki/四輪駆動#パートタイム式 "wikilink")[シビックシャトルに](../Page/ホンダ・シビックシャトル.md "wikilink")**リアルタイム4WD**が搭載された。旧来はボタン操作でトランスファを接続することによって[二輪駆動](../Page/二輪駆動.md "wikilink")と四輪駆動を切り替えていたものを、後輪へ駆動力を伝える[プロペラシャフト](../Page/プロペラシャフト.md "wikilink")に[ビスカスカップリング](../Page/ビスカスカップリング.md "wikilink")を配すことにより、前後輪の「回転差」により、駆動力が後輪にも伝わるようにしたもの。前後輪の回転差が過大な時に発生するタイトコーナーブレーキング現象には、ビスカスカップリングがトルク差を発生させないため、基本的には発生しない。
 
-[1988年](../Page/1988年.md "wikilink")に発表された初代[コンチェルトには](../Page/ホンダ・コンチェルト.md "wikilink")、新たに[INTRAC](https://ja.wikipedia.org/wiki/INTRAC "wikilink")を搭載。後輪の[ディファレンシャルギアの代わりにビスカスカップリングを左右](https://ja.wikipedia.org/wiki/差動装置 "wikilink")2個配し、前輪及び左右後輪の駆動力配分と差動制限とを行い、ビスカスカップリングとプロペラシャフトとの間に[アンチロック・ブレーキ・システム](https://ja.wikipedia.org/wiki/アンチロック・ブレーキ・システム "wikilink")（ABS）と連動して作動するドグ[クラッチ](https://ja.wikipedia.org/wiki/クラッチ "wikilink")を配し、当時の技術では難しかったスタンバイ式4WDと4輪ABSとを両立した。
+[1988年](../Page/1988年.md "wikilink")に発表された初代[コンチェルトには](../Page/ホンダ・コンチェルト.md "wikilink")、新たに[INTRAC](../Page/INTRAC.md "wikilink")を搭載。後輪の[ディファレンシャルギアの代わりにビスカスカップリングを左右](../Page/差動装置.md "wikilink")2個配し、前輪及び左右後輪の駆動力配分と差動制限とを行い、ビスカスカップリングとプロペラシャフトとの間に[アンチロック・ブレーキ・システム](../Page/アンチロック・ブレーキ・システム.md "wikilink")（ABS）と連動して作動するドグ[クラッチ](https://ja.wikipedia.org/wiki/クラッチ "wikilink")を配し、当時の技術では難しかったスタンバイ式4WDと4輪ABSとを両立した。
 
 ### 2代目（デュアルポンプ式）
 
-[ビスコ社よりの大幅な特許使用料請求を受けて開発されたホンダ独自の油圧差動装置](../Page/ビスカスカップリング.md "wikilink")。[1993年](../Page/1993年.md "wikilink")に発表された2代目[インテグラ](https://ja.wikipedia.org/wiki/ホンダ・インテグラ "wikilink")（4ドア）に初めて搭載された。前輪側と後輪側との二つの油圧ポンプと、その油圧で作動する[クラッチ](https://ja.wikipedia.org/wiki/クラッチ "wikilink")とで構成され、前輪側の回転数が上回った時に油圧を発生させ、クラッチがつながることにより後輪側へ駆動力が伝わる構造である。その構造上、前後輪に回転差がない状態では[FFとなるが](https://ja.wikipedia.org/wiki/前輪駆動 "wikilink")、[凍結路面などの極低](https://ja.wikipedia.org/wiki/路面凍結 "wikilink")[摩擦係数の環境では](https://ja.wikipedia.org/wiki/摩擦力#クーロンの摩擦法則 "wikilink")、前輪の[空転](https://ja.wikipedia.org/wiki/空転 "wikilink")後にやや遅れて唐突に後輪へ駆動力が伝達されることで、カーブなどで大きく車両が動揺することも多かった。
+[ビスコ社よりの大幅な特許使用料請求を受けて開発されたホンダ独自の油圧差動装置](../Page/ビスカスカップリング.md "wikilink")。[1993年](../Page/1993年.md "wikilink")に発表された2代目[インテグラ](../Page/ホンダ・インテグラ.md "wikilink")（4ドア）に初めて搭載された。前輪側と後輪側との二つの油圧ポンプと、その油圧で作動する[クラッチ](https://ja.wikipedia.org/wiki/クラッチ "wikilink")とで構成され、前輪側の回転数が上回った時に油圧を発生させ、クラッチがつながることにより後輪側へ駆動力が伝わる構造である。その構造上、前後輪に回転差がない状態では[FFとなるが](../Page/前輪駆動.md "wikilink")、[凍結路面などの極低](../Page/路面凍結.md "wikilink")[摩擦係数の環境では](https://ja.wikipedia.org/wiki/摩擦力#クーロンの摩擦法則 "wikilink")、前輪の[空転](../Page/空転.md "wikilink")後にやや遅れて唐突に後輪へ駆動力が伝達されることで、カーブなどで大きく車両が動揺することも多かった。
 
 [2003年](../Page/2003年.md "wikilink")に発表された3代目[オデッセイから搭載されたものには](https://ja.wikipedia.org/wiki/ホンダ・オデッセイ "wikilink")、[カム機構が追加され](https://ja.wikipedia.org/wiki/カム_\(機械要素\) "wikilink")、駆動力伝達の初期レスポンスが若干向上させ、上記の欠点を改善しようとした。
 
@@ -24,10 +24,10 @@
 ## 関連項目
 
   - [ビスカスカップリング](../Page/ビスカスカップリング.md "wikilink")
-  - [INTRAC](https://ja.wikipedia.org/wiki/INTRAC "wikilink")
+  - [INTRAC](../Page/INTRAC.md "wikilink")
   - [デュアルポンプ](../Page/デュアルポンプ.md "wikilink")
   - [VTM-4](https://ja.wikipedia.org/wiki/VTM-4 "wikilink")
-  - [SH-AWD](https://ja.wikipedia.org/wiki/SH-AWD "wikilink")
+  - [SH-AWD](../Page/SH-AWD.md "wikilink")
 
 ## 外部リンク
 

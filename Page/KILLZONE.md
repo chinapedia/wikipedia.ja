@@ -1,7 +1,7 @@
 > この記事は[KILLZONE](https://ja.wikipedia.org/wiki/KILLZONE)から翻訳されています。
 
 
-『**KILLZONE**』（キルゾーン）は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")の子会社に当たる[ゲリラゲームズ](https://ja.wikipedia.org/wiki/ゲリラゲームズ "wikilink")が開発した[プレイステーション2専用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ファーストパーソン・シューティングゲーム](../Page/ファーストパーソン・シューティングゲーム.md "wikilink")。日本では[セガ](https://ja.wikipedia.org/wiki/セガ "wikilink")より[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月27日](https://ja.wikipedia.org/wiki/10月27日 "wikilink")に発売された。
+『**KILLZONE**』（キルゾーン）は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")の子会社に当たる[ゲリラゲームズ](https://ja.wikipedia.org/wiki/ゲリラゲームズ "wikilink")が開発した[プレイステーション2専用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ファーストパーソン・シューティングゲーム](../Page/ファーストパーソン・シューティングゲーム.md "wikilink")。日本では[セガ](https://ja.wikipedia.org/wiki/セガ "wikilink")より[2005年](../Page/2005年.md "wikilink")[10月27日](../Page/10月27日.md "wikilink")に発売された。
 
 ## 概要
 

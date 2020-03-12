@@ -1,7 +1,7 @@
 > この記事は[My Sweet Days](https://ja.wikipedia.org/wiki/My_Sweet_Days)から翻訳されています。
 
 
-『**My Sweet Days**』（マイ・スウィート・デイズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[声優](../Page/声優.md "wikilink")、[菊池志穂](https://ja.wikipedia.org/wiki/菊池志穂 "wikilink")が恋愛シミュレーションゲーム『[ときめきメモリアル](../Page/ときめきメモリアル.md "wikilink")』に登場する架空の人物、[館林見晴名義で](https://ja.wikipedia.org/wiki/ときめきメモリアルの登場人物#メインキャラクター "wikilink")[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[11月6日](../Page/11月6日.md "wikilink")に[KONAMIからリリースした](https://ja.wikipedia.org/wiki/コナミレーベル "wikilink")、2枚目の[アルバム](../Page/アルバム.md "wikilink")、及びそのアルバムの4曲目に収録されている楽曲のタイトルである。
+『**My Sweet Days**』（マイ・スウィート・デイズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[声優](../Page/声優.md "wikilink")、[菊池志穂](../Page/菊池志穂.md "wikilink")が恋愛シミュレーションゲーム『[ときめきメモリアル](../Page/ときめきメモリアル.md "wikilink")』に登場する架空の人物、[館林見晴名義で](https://ja.wikipedia.org/wiki/ときめきメモリアルの登場人物#メインキャラクター "wikilink")[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[11月6日](../Page/11月6日.md "wikilink")に[KONAMIからリリースした](../Page/コナミレーベル.md "wikilink")、2枚目の[アルバム](../Page/アルバム.md "wikilink")、及びそのアルバムの4曲目に収録されている楽曲のタイトルである。
 
 ## 解説
 
@@ -10,7 +10,7 @@
 ## 収録曲
 
 1.  **青になれ\!** (4:40)
-      - 作詞：[くまのきよみ](https://ja.wikipedia.org/wiki/くまのきよみ "wikilink") / 作曲：宮島律子 / 編曲：[岩崎元是](https://ja.wikipedia.org/wiki/岩崎元是 "wikilink")
+      - 作詞：[くまのきよみ](../Page/くまのきよみ.md "wikilink") / 作曲：宮島律子 / 編曲：[岩崎元是](../Page/岩崎元是.md "wikilink")
           -
             『ボーカル・ベスト・コレクション5』などに収録されていた曲。
 2.  **ゴールすんぜんっ** (4:25)
@@ -22,13 +22,13 @@
           -
             このアルバムにしか収録されていない曲。
 4.  **My Sweet Days** (4:43)
-      - 作詞：青柳美奈子 / 作曲：宮島律子 / 編曲：[根岸貴幸](https://ja.wikipedia.org/wiki/根岸貴幸 "wikilink")
+      - 作詞：青柳美奈子 / 作曲：宮島律子 / 編曲：[根岸貴幸](../Page/根岸貴幸.md "wikilink")
           -
             このアルバムの表題曲。『ボーカル・ベスト・コレクション3』に収録されていた曲。
 5.  **ハートのスタートライン** (4:53)
-      - 作詞：くまのきよみ /作曲：[村井聖夜](https://ja.wikipedia.org/wiki/村井聖夜 "wikilink") / 編曲：山下正
+      - 作詞：くまのきよみ /作曲：[村井聖夜](../Page/村井聖夜.md "wikilink") / 編曲：山下正
           -
-            原曲は『ボーカル・ベスト・コレクション2』などに収録されており、[虹野沙希役の](https://ja.wikipedia.org/wiki/ときめきメモリアルの登場人物#メインキャラクター "wikilink")[菅原祥子](https://ja.wikipedia.org/wiki/菅原祥子 "wikilink")、[古式ゆかり役の](https://ja.wikipedia.org/wiki/ときめきメモリアルの登場人物#メインキャラクター "wikilink")[黒崎彩子](https://ja.wikipedia.org/wiki/黒崎彩子 "wikilink")との3人で歌っていたが、このアルバムに合わせて菊池志穂のソロで再録音した\[1\]。
+            原曲は『ボーカル・ベスト・コレクション2』などに収録されており、[虹野沙希役の](https://ja.wikipedia.org/wiki/ときめきメモリアルの登場人物#メインキャラクター "wikilink")[菅原祥子](../Page/菅原祥子.md "wikilink")、[古式ゆかり役の](https://ja.wikipedia.org/wiki/ときめきメモリアルの登場人物#メインキャラクター "wikilink")[黒崎彩子](../Page/黒崎彩子.md "wikilink")との3人で歌っていたが、このアルバムに合わせて菊池志穂のソロで再録音した\[1\]。
 6.  **手をつないでいて** (4:14)
       - 作詞：さゆ鈴 / 作曲・編曲：[古川もとあき](../Page/古川元亮.md "wikilink")
           -
@@ -50,7 +50,7 @@
           -
             『ボーカル・ベスト・コレクション4』などに収録されていた曲。
 11. **Over the sky** (4:02)
-      - 作詞：MYU / 作曲：宮島律子 / 編曲：[茂村泰彦](https://ja.wikipedia.org/wiki/茂村泰彦 "wikilink")
+      - 作詞：MYU / 作曲：宮島律子 / 編曲：[茂村泰彦](../Page/茂村泰彦.md "wikilink")
           -
             『ボーカル・ベスト・コレクション6 〜FINAL〜』などに収録されていた曲。
 

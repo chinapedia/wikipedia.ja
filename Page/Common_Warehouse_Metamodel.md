@@ -1,7 +1,7 @@
 > この記事は[Common Warehouse Metamodel](https://ja.wikipedia.org/wiki/Common_Warehouse_Metamodel)から翻訳されています。
 
 
-**Common Warehouse Metamodel** (**CWM**) とは、[データウェアハウス](../Page/データウェアハウス.md "wikilink")における各種オブジェクト（[リレーショナル](https://ja.wikipedia.org/wiki/関係モデル "wikilink")、非リレーショナル、多次元など）の[メタデータ](https://ja.wikipedia.org/wiki/メタデータ "wikilink")のモデリングのための仕様である。[Object Management Group](https://ja.wikipedia.org/wiki/Object_Management_Group "wikilink") (OMG) がリリースしており、"CWM" という用語の商標権も含めて OMG が権利を保有する[1](http://www.omg.org/legal/tm_list.htm)。
+**Common Warehouse Metamodel** (**CWM**) とは、[データウェアハウス](../Page/データウェアハウス.md "wikilink")における各種オブジェクト（[リレーショナル](../Page/関係モデル.md "wikilink")、非リレーショナル、多次元など）の[メタデータ](../Page/メタデータ.md "wikilink")のモデリングのための仕様である。[Object Management Group](../Page/Object_Management_Group.md "wikilink") (OMG) がリリースしており、"CWM" という用語の商標権も含めて OMG が権利を保有する[1](http://www.omg.org/legal/tm_list.htm)。
 
 現在よく使われているバージョンは CWM v1.1 であり、補助的な仕様として CWM Metadata Interchange Patterns (MIP) でツール間の連携についてより詳細に規定している。
 
@@ -24,7 +24,7 @@ CWM準拠のツール間で連携がうまくできるかどうかは CWM の規
 ## 主なベンダー
 
   - **IKAN** : [CWD4ALL](http://www.cwd4all.com/)
-  - **[SAS](https://ja.wikipedia.org/wiki/SAS_Institute "wikilink")** : CWM 採用に積極的 [](http://www.sas.com/technologies/bi/appdev/base/metadatasrv_factsheet.pdf)
+  - **[SAS](../Page/SAS_Institute.md "wikilink")** : CWM 採用に積極的 [](http://www.sas.com/technologies/bi/appdev/base/metadatasrv_factsheet.pdf)
   - **[オラクル](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")** : Oracle Warehouse Builder
   - **[IBM](../Page/IBM.md "wikilink")**
   - **[Cognos](https://ja.wikipedia.org/wiki/Cognos "wikilink")** : CWM v1.0 までしかサポートしていないとも言われている。
@@ -32,7 +32,7 @@ CWM準拠のツール間で連携がうまくできるかどうかは CWM の規
 
 ## 関連項目
 
-  - [ATL](https://ja.wikipedia.org/wiki/ATLAS_Transformation_Language "wikilink")
+  - [ATL](../Page/ATLAS_Transformation_Language.md "wikilink")
   - [Meta-Object Facility](../Page/Meta-Object_Facility.md "wikilink") (MOF)
   - [OCL](../Page/Object_Constraint_Language.md "wikilink")
   - [QVT](../Page/QVT.md "wikilink")
@@ -43,7 +43,7 @@ CWM準拠のツール間で連携がうまくできるかどうかは CWM の規
   - [データウェアハウス](../Page/データウェアハウス.md "wikilink")
   - [ドメイン固有言語](../Page/ドメイン固有言語.md "wikilink") (DSL)
   - [ドメイン固有モデリング](../Page/ドメイン固有モデリング.md "wikilink") (DSM)
-  - [メタデータ](https://ja.wikipedia.org/wiki/メタデータ "wikilink")
+  - [メタデータ](../Page/メタデータ.md "wikilink")
   - [メタモデル](../Page/メタモデル.md "wikilink")
   - [モデルベーステスト](../Page/モデルベーステスト.md "wikilink") (MBT)
   - [モデル変換言語](../Page/モデル変換言語.md "wikilink")

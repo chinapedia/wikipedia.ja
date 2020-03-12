@@ -5,14 +5,14 @@
 
 ## 解説
 
-  - [ビデオクリップのDVD](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。
-  - ファーストアルバム『[G∞VER](https://ja.wikipedia.org/wiki/G∞VER "wikilink")』に収録されているシングル4曲と、他では見られない映像などが収録されている。「OVER-PRECIOUS VERSION-」は、1500枚限定で発売されたインディーズシングルのビデオクリップである。
+  - [ビデオクリップのDVD](../Page/ミュージック・ビデオ.md "wikilink")。
+  - ファーストアルバム『[G∞VER](../Page/G∞VER.md "wikilink")』に収録されているシングル4曲と、他では見られない映像などが収録されている。「OVER-PRECIOUS VERSION-」は、1500枚限定で発売されたインディーズシングルのビデオクリップである。
 
 ## 収録映像
 
 ### PV
 
-1.  [PRIDE](https://ja.wikipedia.org/wiki/PRIDE_\(HIGH_and_MIGHTY_COLORの曲\) "wikilink")
+1.  [PRIDE](../Page/PRIDE_\(HIGH_and_MIGHTY_COLORの曲\).md "wikilink")
 2.  [OVER](../Page/OVER_\(HIGH_and_MIGHTY_COLORの曲\).md "wikilink")
 3.  [RUN☆RUN☆RUN](../Page/RUN☆RUN☆RUN.md "wikilink")
 4.  [Days](../Page/Days_\(HIGH_and_MIGHTY_COLORの曲\).md "wikilink")

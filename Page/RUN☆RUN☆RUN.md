@@ -26,7 +26,7 @@
 
 ## 収録アルバム
 
-  - [G∞VER](https://ja.wikipedia.org/wiki/G∞VER "wikilink") (\#1)
+  - [G∞VER](../Page/G∞VER.md "wikilink") (\#1)
   - [10 COLOR SINGLES](https://ja.wikipedia.org/wiki/10_COLOR_SINGLES "wikilink") (\#1)
 
 ## 脚注

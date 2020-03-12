@@ -5,7 +5,7 @@
 
 ## 概要
 
-講談社MouRa\[[http://moura.jp/\]のサイト内にて](http://moura.jp/%5Dのサイト内にて)[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")12月にプレオープンし、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月27日](../Page/4月27日.md "wikilink")に本格オープン。掲載されている作品は[少年漫画](../Page/少年漫画.md "wikilink")・[少女漫画](../Page/少女漫画.md "wikilink")・[青年漫画](../Page/青年漫画.md "wikilink")・[TL](https://ja.wikipedia.org/wiki/ティーンズラブ "wikilink")・[BLなど幅広いジャンルにわたっており](../Page/ボーイズラブ.md "wikilink")、そのジャンルによって作品がグループ分けされている（しかし2009年以降の新連載作品は何故かジャンル分けされていない）。またほとんどの掲載作品が[携帯コミック](../Page/携帯コミック.md "wikilink")として先行配信されており、その関係からか作品名の頭文字が[あ行](https://ja.wikipedia.org/wiki/あ行 "wikilink")・[か行](../Page/か行.md "wikilink")の作品が多い。なお携帯コミックで先行連載されていた作品には、パソコンで本配信されていない作品も多く存在する。
+講談社MouRa\[[http://moura.jp/\]のサイト内にて](http://moura.jp/%5Dのサイト内にて)[2005年](../Page/2005年.md "wikilink")12月にプレオープンし、[2006年](../Page/2006年.md "wikilink")[4月27日](../Page/4月27日.md "wikilink")に本格オープン。掲載されている作品は[少年漫画](../Page/少年漫画.md "wikilink")・[少女漫画](../Page/少女漫画.md "wikilink")・[青年漫画](../Page/青年漫画.md "wikilink")・[TL](../Page/ティーンズラブ.md "wikilink")・[BLなど幅広いジャンルにわたっており](../Page/ボーイズラブ.md "wikilink")、そのジャンルによって作品がグループ分けされている（しかし2009年以降の新連載作品は何故かジャンル分けされていない）。またほとんどの掲載作品が[携帯コミック](../Page/携帯コミック.md "wikilink")として先行配信されており、その関係からか作品名の頭文字が[あ行](https://ja.wikipedia.org/wiki/あ行 "wikilink")・[か行](../Page/か行.md "wikilink")の作品が多い。なお携帯コミックで先行連載されていた作品には、パソコンで本配信されていない作品も多く存在する。
 
 サイト内の漫画やイラストは会員登録をすることで全て無料で閲覧可能であり、毎週金曜日に更新されていた。ただし更新ペースは各作品により異なり変則的であるが、大抵の作品は約1か月で最新話が配信されていた。また最新話の無料配信は、配信開始から3週間のみであった。
 
@@ -17,7 +17,7 @@
 
 その後2009年[11月13日](../Page/11月13日.md "wikilink")に配信サイトにて公式に更新終了の情報が掲載され、[11月27日](../Page/11月27日.md "wikilink")に更新が終了した。その後は、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月8日](../Page/1月8日.md "wikilink")午前10時にサイト自体が閉鎖される予定であったが、しばらく存続していた。現在は、ドメインが手放された模様。掲載作品は、携帯コミック配信にて順次完結後、PCでは電子書籍として刊行・有料配信される予定（一部作品を除く）。作品情報については携帯コミックサイト『講談社コミックプラス（携帯版）』を参照。
 
-なお、2010年[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")に刊行を開始した『[月刊少年シリウス](https://ja.wikipedia.org/wiki/月刊少年シリウス "wikilink")』からの派生[アンソロジーコミック](https://ja.wikipedia.org/wiki/アンソロジーコミック "wikilink")『[ネメシス](https://ja.wikipedia.org/wiki/ネメシス_\(アンソロジーコミック\) "wikilink")』に、『MiChao\!』で連載されていた「[誘爆発作 ツナガレタ心臓](https://ja.wikipedia.org/wiki/誘爆発作 "wikilink")」「[ディザインド](https://ja.wikipedia.org/wiki/ディザインド "wikilink")」「[五大湖フルバースト ―大相撲“心・技・体”伝説2―](https://ja.wikipedia.org/wiki/大相撲“心・技・体”伝説 "wikilink")」の3作品と、携帯コミックのみで連載されていた「[ママはチャイドル\!\!](https://ja.wikipedia.org/wiki/ママはチャイドル!! "wikilink")」が移籍し第1話から再掲載を行なっている。
+なお、2010年[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")に刊行を開始した『[月刊少年シリウス](../Page/月刊少年シリウス.md "wikilink")』からの派生[アンソロジーコミック](../Page/アンソロジーコミック.md "wikilink")『[ネメシス](https://ja.wikipedia.org/wiki/ネメシス_\(アンソロジーコミック\) "wikilink")』に、『MiChao\!』で連載されていた「[誘爆発作 ツナガレタ心臓](https://ja.wikipedia.org/wiki/誘爆発作 "wikilink")」「[ディザインド](https://ja.wikipedia.org/wiki/ディザインド "wikilink")」「[五大湖フルバースト ―大相撲“心・技・体”伝説2―](https://ja.wikipedia.org/wiki/大相撲“心・技・体”伝説 "wikilink")」の3作品と、携帯コミックのみで連載されていた「[ママはチャイドル\!\!](https://ja.wikipedia.org/wiki/ママはチャイドル!! "wikilink")」が移籍し第1話から再掲載を行なっている。
 
 ## PC版連載作品
 
@@ -25,15 +25,15 @@
 
 **劇画座**\[1\]
 
-  - [アイゼンファウスト 天保忍者伝](https://ja.wikipedia.org/wiki/アイゼンファウスト_天保忍者伝 "wikilink")（原作：[山田風太郎](../Page/山田風太郎.md "wikilink") 漫画：[長谷川哲也](https://ja.wikipedia.org/wiki/長谷川哲也 "wikilink")）
+  - [アイゼンファウスト 天保忍者伝](https://ja.wikipedia.org/wiki/アイゼンファウスト_天保忍者伝 "wikilink")（原作：[山田風太郎](../Page/山田風太郎.md "wikilink") 漫画：[長谷川哲也](../Page/長谷川哲也.md "wikilink")）
   - [五大湖フルバースト ―大相撲“心・技・体”伝説2―](https://ja.wikipedia.org/wiki/大相撲“心・技・体”伝説 "wikilink")（[西野マルタ](https://ja.wikipedia.org/wiki/西野マルタ "wikilink")）<span style="font-size:small;">※ニュー☆フェイスにも所属。</span>→『ネメシス』へ移籍し第1話から再掲載
   - 役者侍 美粧之介（[かわぐちかいじ](../Page/かわぐちかいじ.md "wikilink")）
 
 **ひめちゅ**\[2\]
 
   - あ・い・が・ん いかせて☆メイド（[月森雅十](https://ja.wikipedia.org/wiki/月森雅十 "wikilink")）
-  - みこたん 巫女さまは女子高生（[倉上淳士](https://ja.wikipedia.org/wiki/倉上淳士 "wikilink")）
-  - [胸キュン刑事 みるくCC](https://ja.wikipedia.org/wiki/胸キュン刑事 "wikilink")2（[遠山光](https://ja.wikipedia.org/wiki/遠山光 "wikilink")）
+  - みこたん 巫女さまは女子高生（[倉上淳士](../Page/倉上淳士.md "wikilink")）
+  - [胸キュン刑事 みるくCC](../Page/胸キュン刑事.md "wikilink")2（[遠山光](../Page/遠山光.md "wikilink")）
   - ヤクゼン\! 韓国美少女の挑戦（[チェ・ヘウング](https://ja.wikipedia.org/wiki/チェ・ヘウング "wikilink")）
   - リカレント・ブルー 2nd Season（[かわらじまコウ](https://ja.wikipedia.org/wiki/かわらじまコウ "wikilink")）
 
@@ -49,8 +49,8 @@
   - アルティメットガチンコ 異種格闘技王伝説（[高橋伸輔](https://ja.wikipedia.org/wiki/高橋伸輔 "wikilink")）
   - ヴァイブ（[みやすのんき](../Page/みやすのんき.md "wikilink")）
   - [エレメンタルモンスター シャドウ オブ ハダー](https://ja.wikipedia.org/wiki/エレメンタルモンスター "wikilink")（[丸伝次郎](https://ja.wikipedia.org/wiki/丸伝次郎 "wikilink") 監修：[ハドソン](../Page/ハドソン.md "wikilink") 脚本：[Kira](https://ja.wikipedia.org/wiki/Kira "wikilink")）
-  - [復活\!\! 第三野球部](https://ja.wikipedia.org/wiki/名門!第三野球部 "wikilink")（[むつ利之](../Page/むつ利之.md "wikilink")）
-  - [リーマンギャンブラーマウス](https://ja.wikipedia.org/wiki/リーマンギャンブラーマウス "wikilink")2（[高橋のぼる](https://ja.wikipedia.org/wiki/高橋のぼる "wikilink")）
+  - [復活\!\! 第三野球部](../Page/名門!第三野球部.md "wikilink")（[むつ利之](../Page/むつ利之.md "wikilink")）
+  - [リーマンギャンブラーマウス](../Page/リーマンギャンブラーマウス.md "wikilink")2（[高橋のぼる](../Page/高橋のぼる.md "wikilink")）
 
 **イケパラ**\[5\]
 
@@ -70,26 +70,26 @@
 **カレイドスコープ**\[8\]
 
   - 愛の大奥 舞い散る花の夢 江島生島（[宗美智子](https://ja.wikipedia.org/wiki/宗美智子 "wikilink")）
-  - [海の大陸NOA](https://ja.wikipedia.org/wiki/海の大陸NOA "wikilink")×（[じゅきあきら・T・](../Page/じゅきあきら・T・.md "wikilink")）
+  - [海の大陸NOA](../Page/海の大陸NOA.md "wikilink")×（[じゅきあきら・T・](../Page/じゅきあきら・T・.md "wikilink")）
   - [コクロ](https://ja.wikipedia.org/wiki/クロ號 "wikilink")（[杉作](https://ja.wikipedia.org/wiki/杉作 "wikilink")）
-  - [聖なる花嫁の反乱](https://ja.wikipedia.org/wiki/聖なる花嫁の反乱 "wikilink")（[紫堂恭子](../Page/紫堂恭子.md "wikilink")）→『[FlexComixフレア](https://ja.wikipedia.org/wiki/FlexComixフレア "wikilink")』（[フレックスコミックス](https://ja.wikipedia.org/wiki/フレックスコミックス "wikilink")）へ移籍
-  - [ディープグリーン](https://ja.wikipedia.org/wiki/ディープグリーン "wikilink")（[佐々木淳子](../Page/佐々木淳子.md "wikilink")）
+  - [聖なる花嫁の反乱](https://ja.wikipedia.org/wiki/聖なる花嫁の反乱 "wikilink")（[紫堂恭子](../Page/紫堂恭子.md "wikilink")）→『[FlexComixフレア](https://ja.wikipedia.org/wiki/FlexComixフレア "wikilink")』（[フレックスコミックス](../Page/フレックスコミックス.md "wikilink")）へ移籍
+  - [ディープグリーン](../Page/ディープグリーン.md "wikilink")（[佐々木淳子](../Page/佐々木淳子.md "wikilink")）
 
 ※所属無し
 
-  - あいず ラブ ユー トラブルがいっぱい編（原作：[森永ひとみ](https://ja.wikipedia.org/wiki/森永ひとみ "wikilink") 漫画：[うさ銀太郎](https://ja.wikipedia.org/wiki/うさ銀太郎 "wikilink")）
+  - あいず ラブ ユー トラブルがいっぱい編（原作：[森永ひとみ](https://ja.wikipedia.org/wiki/森永ひとみ "wikilink") 漫画：[うさ銀太郎](../Page/うさ銀太郎.md "wikilink")）
   - あいらぶ\!デコリョーシカ（[じんこ](https://ja.wikipedia.org/wiki/じんこ "wikilink")）
   - あくまじお（[甘福あまね](https://ja.wikipedia.org/wiki/甘福あまね "wikilink")）
   - あげ娘\!涼子 魅惑のくちびる（[春日光広](https://ja.wikipedia.org/wiki/春日光広 "wikilink")）
   - ありえない\!トライアングル ダブル彼氏（[水口舞子](https://ja.wikipedia.org/wiki/水口舞子 "wikilink")）<span style="font-size:small;">※以前はLOVEめいくのマークが付いていた。</span>
   - 淫魔よあえげ、僕の舌で（[安宅十也](https://ja.wikipedia.org/wiki/安宅十也 "wikilink")）
-  - [ウルトラマンSTORY 0](https://ja.wikipedia.org/wiki/ウルトラマンSTORY_0 "wikilink")（漫画：[真船一雄](../Page/真船一雄.md "wikilink") 監修：[円谷プロダクション](../Page/円谷プロダクション.md "wikilink")）
+  - [ウルトラマンSTORY 0](../Page/ウルトラマンSTORY_0.md "wikilink")（漫画：[真船一雄](../Page/真船一雄.md "wikilink") 監修：[円谷プロダクション](../Page/円谷プロダクション.md "wikilink")）
   - おしえてっ\!?ナデシコ先生（[鈴木ぺんた](https://ja.wikipedia.org/wiki/鈴木ぺんた "wikilink") 原案：ほのか）
   - カミイタ\!（[桜川キオイ](https://ja.wikipedia.org/wiki/桜川キオイ "wikilink")）
-  - ジェネシス4〜夢追う者たちの楽園〜（原作：[岡田耕始](https://ja.wikipedia.org/wiki/岡田耕始 "wikilink")&[GAIA](https://ja.wikipedia.org/wiki/ガイア_\(ゲーム会社\) "wikilink") 漫画：[柳澤一明](https://ja.wikipedia.org/wiki/柳澤一明 "wikilink")）<span style="font-size:small;">※以前はザ・怖のマークが付いていた。</span>
+  - ジェネシス4〜夢追う者たちの楽園〜（原作：[岡田耕始](../Page/岡田耕始.md "wikilink")&[GAIA](../Page/ガイア_\(ゲーム会社\).md "wikilink") 漫画：[柳澤一明](https://ja.wikipedia.org/wiki/柳澤一明 "wikilink")）<span style="font-size:small;">※以前はザ・怖のマークが付いていた。</span>
   - 私立男装学園（[小池田マヤ](../Page/小池田マヤ.md "wikilink")）
   - 絶対領域プリンセス スイートホーリー（[永野あかね](../Page/永野あかね.md "wikilink")）<span style="font-size:small;">※ニュー☆フェイスのマークが付いているが、ミスと思われる。</span>
-  - ディアボリカ フランス妖怪奇譚（[クリストフ・クリタ](https://ja.wikipedia.org/wiki/クリストフ・クリタ "wikilink")）
+  - ディアボリカ フランス妖怪奇譚（[クリストフ・クリタ](../Page/クリストフ・クリタ.md "wikilink")）
   - 美女をイカせる69の秘技☆ 絶頂シンボルさん（[木村豪](https://ja.wikipedia.org/wiki/木村豪_\(漫画家\) "wikilink")）
   - [BOYS BE…2009 1学期](https://ja.wikipedia.org/wiki/BOYS_BE… "wikilink")（原作：[イタバシマサヒロ](https://ja.wikipedia.org/wiki/イタバシマサヒロ "wikilink") 漫画：[玉越博幸](../Page/玉越博幸.md "wikilink")）
 
@@ -106,7 +106,7 @@
   - あ〜ん♥お口に幸せサプリ（[天城小百合](https://ja.wikipedia.org/wiki/天城小百合 "wikilink")）
   - あ〜ん食べちゃいたい\!（[米餅昭彦](https://ja.wikipedia.org/wiki/米餅昭彦 "wikilink")）
   - あいず ラブ ユー（原作：森永ひとみ 漫画：うさ銀太郎）
-  - 愛の大奥 篤姫 密命を帯びた花嫁（原作：[良歩五郎](https://ja.wikipedia.org/wiki/良歩五郎 "wikilink") 漫画：[佐々木みすず](https://ja.wikipedia.org/wiki/佐々木みすず "wikilink")）
+  - 愛の大奥 篤姫 密命を帯びた花嫁（原作：[良歩五郎](https://ja.wikipedia.org/wiki/良歩五郎 "wikilink") 漫画：[佐々木みすず](../Page/佐々木みすず.md "wikilink")）
   - 愛の大奥 犬将軍綱吉への復讐（原作：良歩五郎 漫画：[富沢みどり](https://ja.wikipedia.org/wiki/富沢みどり "wikilink")）
   - 愛の大奥 お世継ぎ毒殺\!? 天英院VS月光院（原作：良歩五郎 漫画：[井出智香恵](https://ja.wikipedia.org/wiki/井出智香恵 "wikilink")）
   - 愛の大奥 将軍家光が愛したキリシタン（原作：良歩五郎 漫画：井出智香恵）
@@ -114,7 +114,7 @@
   - 愛の大奥 華迷宮 綱吉が求めた女（[浦川まさる](https://ja.wikipedia.org/wiki/浦川まさる "wikilink")&[佳弥](https://ja.wikipedia.org/wiki/佳弥 "wikilink")）
   - 愛の大奥 吉宗悲恋 呪われた姫君（原作：良歩五郎 漫画：[あさみさとる](https://ja.wikipedia.org/wiki/あさみさとる "wikilink")）
   - 明るい旅館計画 若女将つばめ（原作：[天草ロバート](https://ja.wikipedia.org/wiki/天草ロバート "wikilink") 漫画：[柏屋コッコ](https://ja.wikipedia.org/wiki/柏屋コッコ "wikilink")）
-  - [アクション留学生 チェ・ミミ16歳](https://ja.wikipedia.org/wiki/軍バリ! "wikilink")（原作：[イ・ヒョンソク](https://ja.wikipedia.org/wiki/イ・ヒョンソク "wikilink") 漫画：[イ・ユジョン](https://ja.wikipedia.org/wiki/イ・ユジョン "wikilink")）
+  - [アクション留学生 チェ・ミミ16歳](../Page/軍バリ!.md "wikilink")（原作：[イ・ヒョンソク](https://ja.wikipedia.org/wiki/イ・ヒョンソク "wikilink") 漫画：[イ・ユジョン](https://ja.wikipedia.org/wiki/イ・ユジョン "wikilink")）
   - [あたしたちの快感桃色日記](https://ja.wikipedia.org/wiki/あたしたちの快感桃色日記 "wikilink")（アンソロジーTL）
   - あはっ 一緒に暮らそ\! カレッジ娘と付属高ボーイ（[西森生](https://ja.wikipedia.org/wiki/西森生 "wikilink")）
   - アブナイH娘♪ トコナッツ\!（[中貫えり](https://ja.wikipedia.org/wiki/中貫えり "wikilink")）
@@ -141,29 +141,29 @@
   - ギャル革命G-Revo（[結菜](https://ja.wikipedia.org/wiki/結菜 "wikilink") 脚本：Kira 監修：[SGR](https://ja.wikipedia.org/wiki/SGR "wikilink")）
   - キャン・キャン・キャンパス\!（[木村豪](https://ja.wikipedia.org/wiki/木村豪_\(漫画家\) "wikilink")）
   - 緊急出動\! SENRi119（[吉開寛二](https://ja.wikipedia.org/wiki/吉開寛二 "wikilink")）
-  - グライディングREKI（[姫川明](https://ja.wikipedia.org/wiki/姫川明 "wikilink")）
-  - [軍バリ\! 韓国兵役実戦部隊](https://ja.wikipedia.org/wiki/軍バリ! "wikilink")（原作：イ・ヒョンソク 漫画：イ・ユジョン）
-  - 恋咲忍伝おもいっきりハヤテさま（原作：[有里紅良](https://ja.wikipedia.org/wiki/有里紅良 "wikilink") 作画：[夢来鳥ねむ](https://ja.wikipedia.org/wiki/夢来鳥ねむ "wikilink")）
+  - グライディングREKI（[姫川明](../Page/姫川明.md "wikilink")）
+  - [軍バリ\! 韓国兵役実戦部隊](../Page/軍バリ!.md "wikilink")（原作：イ・ヒョンソク 漫画：イ・ユジョン）
+  - 恋咲忍伝おもいっきりハヤテさま（原作：[有里紅良](../Page/有里紅良.md "wikilink") 作画：[夢来鳥ねむ](../Page/夢来鳥ねむ.md "wikilink")）
   - こねこどこのこ（[葵二葉](https://ja.wikipedia.org/wiki/葵二葉 "wikilink")／[紅三葉](https://ja.wikipedia.org/wiki/紅三葉 "wikilink")）
   - GENESIS（原作：岡田耕始\&GAIA 漫画：柳澤一明）
   - ジェネシス2〜若者の夢がかなう楽園〜（原作：岡田耕始\&GAIA 漫画：柳澤一明）
   - ジェネシス3〜選ばれたものたちの楽園〜（原作：岡田耕始\&GAIA 漫画：柳澤一明）
-  - [7月24日通りのクリスマス](https://ja.wikipedia.org/wiki/7月24日通りのクリスマス "wikilink")（原作：[吉田修一](https://ja.wikipedia.org/wiki/吉田修一 "wikilink") 漫画：浦川まさる&佳弥 映画脚本：[金子ありさ](https://ja.wikipedia.org/wiki/金子ありさ "wikilink")）
+  - [7月24日通りのクリスマス](../Page/7月24日通りのクリスマス.md "wikilink")（原作：[吉田修一](../Page/吉田修一.md "wikilink") 漫画：浦川まさる&佳弥 映画脚本：[金子ありさ](../Page/金子ありさ.md "wikilink")）
   - 渋谷女子高フットサルクラブ 紫EXPRESS（原作：[葛城あゆむ](https://ja.wikipedia.org/wiki/葛城あゆむ "wikilink") 漫画：[綾波けんし](https://ja.wikipedia.org/wiki/綾波けんし "wikilink")）
   - じゃぐちくん（まめこ）
   - ジャンクフード（[井上正治](../Page/井上正治_\(漫画家\).md "wikilink") 企画協力：[Shun](https://ja.wikipedia.org/wiki/Shun "wikilink")）
   - スタンダードボーイズ（[祐也](https://ja.wikipedia.org/wiki/祐也 "wikilink")）
-  - [関の弥太っぺ](https://ja.wikipedia.org/wiki/関の弥太っぺ "wikilink")（原作：[長谷川伸](https://ja.wikipedia.org/wiki/長谷川伸 "wikilink") 漫画：[小林まこと](../Page/小林まこと.md "wikilink")）※『[イブニング](../Page/イブニング.md "wikilink")』に連載されていたものを再掲載
+  - [関の弥太っぺ](../Page/関の弥太っぺ.md "wikilink")（原作：[長谷川伸](../Page/長谷川伸.md "wikilink") 漫画：[小林まこと](../Page/小林まこと.md "wikilink")）※『[イブニング](../Page/イブニング.md "wikilink")』に連載されていたものを再掲載
   - 千の呪いと一つの魔法 踊れ\!ツンデレラ（中都える）
   - 旅くらげ ゆらゆら（[森優子](https://ja.wikipedia.org/wiki/森優子 "wikilink")）
   - たんたかタン（[桜川キオイ](https://ja.wikipedia.org/wiki/桜川キオイ "wikilink")）
-  - だんだら 浪士紅蓮隊（[てしろぎたかし](https://ja.wikipedia.org/wiki/てしろぎたかし "wikilink")）
+  - だんだら 浪士紅蓮隊（[てしろぎたかし](../Page/てしろぎたかし.md "wikilink")）
   - 超ギャル革命G-Revo 激闘編（結菜 脚本：Kira 監修：SGR）
   - 超市民F（原作：[坂本六有](https://ja.wikipedia.org/wiki/坂本六有 "wikilink") 漫画：[ふくしま政美](../Page/ふくしま政美.md "wikilink")）
-  - D1グランプリ DD（[しんむらけーいちろー](https://ja.wikipedia.org/wiki/しんむらけーいちろー "wikilink") 監修：[D1コーポレーション](https://ja.wikipedia.org/wiki/全日本プロドリフト選手権 "wikilink")）
+  - D1グランプリ DD（[しんむらけーいちろー](../Page/しんむらけーいちろー.md "wikilink") 監修：[D1コーポレーション](../Page/全日本プロドリフト選手権.md "wikilink")）
   - D1ストリートリーガル カッティング・エッジ（原作：[丸山康光](https://ja.wikipedia.org/wiki/丸山康光 "wikilink") 漫画：[谷中乱歩](https://ja.wikipedia.org/wiki/谷中乱歩 "wikilink") 監修：D1コーポレーション）
   - [ディザインド](https://ja.wikipedia.org/wiki/ディザインド "wikilink")（[木葉功一](https://ja.wikipedia.org/wiki/木葉功一 "wikilink")）→『ネメシス』へ移籍し第1話から再掲載
-  - [伝染歌](https://ja.wikipedia.org/wiki/伝染歌 "wikilink") 映画原作版（原作：秋元康 漫画：浦川まさる&佳弥）
+  - [伝染歌](../Page/伝染歌.md "wikilink") 映画原作版（原作：秋元康 漫画：浦川まさる&佳弥）
   - 伝染歌 オリジナル版（原作：秋元康 漫画：[タケダケント](https://ja.wikipedia.org/wiki/タケダケント "wikilink") 構成：[Team-MoJo](https://ja.wikipedia.org/wiki/Team-MoJo "wikilink")）
   - 永久保貴一の怪異譚（[永久保貴一](../Page/永久保貴一.md "wikilink")）
   - なないろ☆ビ〜ンズ（[南京ぐれ子](https://ja.wikipedia.org/wiki/南京ぐれ子 "wikilink")）
@@ -176,16 +176,16 @@
   - バドガール 時速350km（[細川幸恵](https://ja.wikipedia.org/wiki/細川幸恵 "wikilink")）
   - 花かんざし捕物帖（原作：[山田風太郎](../Page/山田風太郎.md "wikilink") 漫画：[島崎譲](../Page/島崎譲.md "wikilink")）
   - ひめクリ☆絶頂ナースクリニック（[山中こころ](https://ja.wikipedia.org/wiki/山中こころ "wikilink")）
-  - ファイアキング（[王欣太](https://ja.wikipedia.org/wiki/王欣太 "wikilink")）
-  - 封印恐怖\!百怪忌（原作：[木原浩勝](https://ja.wikipedia.org/wiki/木原浩勝 "wikilink") 漫画：[オムニバス](../Page/オムニバス.md "wikilink")）
+  - ファイアキング（[王欣太](../Page/王欣太.md "wikilink")）
+  - 封印恐怖\!百怪忌（原作：[木原浩勝](../Page/木原浩勝.md "wikilink") 漫画：[オムニバス](../Page/オムニバス.md "wikilink")）
   - 藤野三姉妹 トリコロール（[和子](https://ja.wikipedia.org/wiki/和子 "wikilink")）
   - 不条理マンガの女王が贈る 無限フラフープ（[大畑朋魅](https://ja.wikipedia.org/wiki/大畑朋魅 "wikilink")）
   - プレイプレイプレイ\! 女子高生ミステリーハント3P（[萩原玲二](../Page/萩原玲二.md "wikilink")）
-  - 平成マンガ家実存物語 おはようひで次くん\!（[小田ひで次](https://ja.wikipedia.org/wiki/小田ひで次 "wikilink")）
-  - ま、いっか〜カッパ君それなりの日常〜（[御童カズヒコ](https://ja.wikipedia.org/wiki/御童カズヒコ "wikilink")）
+  - 平成マンガ家実存物語 おはようひで次くん\!（[小田ひで次](../Page/小田ひで次.md "wikilink")）
+  - ま、いっか〜カッパ君それなりの日常〜（[御童カズヒコ](../Page/御童カズヒコ.md "wikilink")）
   - マイダスの薔薇 黄金のギャンブラー（原作：[宮﨑信二](https://ja.wikipedia.org/wiki/宮﨑信二 "wikilink") 漫画：[金井たつお](../Page/金井たつお.md "wikilink")）
   - [マスター・オブ・サンダー 決戦\!\!封魔龍虎伝](https://ja.wikipedia.org/wiki/マスター・オブ・サンダー_決戦!!封魔龍虎伝 "wikilink")（[間部正志](https://ja.wikipedia.org/wiki/間部正志 "wikilink") 監修：[谷垣健治](https://ja.wikipedia.org/wiki/谷垣健治 "wikilink")）
-  - [魔弾戦記リュウケンドー](https://ja.wikipedia.org/wiki/魔弾戦記リュウケンドー "wikilink")（[松本久志](../Page/松本久志.md "wikilink") 監修協力：リュウケンドー製作委員会）
+  - [魔弾戦記リュウケンドー](../Page/魔弾戦記リュウケンドー.md "wikilink")（[松本久志](../Page/松本久志.md "wikilink") 監修協力：リュウケンドー製作委員会）
   - 妙齢ガールトーク（[水谷さるころ](../Page/水谷さるころ.md "wikilink")）
   - [萌える麻雀入門 もえじゃん\!](https://ja.wikipedia.org/wiki/萌える麻雀入門_もえじゃん! "wikilink")（原作：森永ひとみ 漫画：大林森）
   - もっと\!降服ハピネス（[春田ハナ](https://ja.wikipedia.org/wiki/春田ハナ "wikilink")）
@@ -193,7 +193,7 @@
   - ゆうのカクテル（原作：[守靖ヒロヤ](https://ja.wikipedia.org/wiki/守靖ヒロヤ "wikilink") 漫画：[江端恭子](https://ja.wikipedia.org/wiki/江端恭子 "wikilink")）
   - ようこそ\!ナデシコ婦人科（鈴木ぺんた 原案：ほのか）
   - リカレントブルー（かわらじまコウ 原案：[bm-SHIO](https://ja.wikipedia.org/wiki/bm-SHIO "wikilink")）
-  - [リブライアン](https://ja.wikipedia.org/wiki/Libraian "wikilink")’featuring TAKA『CafeLibra〜カフェ・ライブラ〜』（[成瀬千雪](https://ja.wikipedia.org/wiki/成瀬千雪 "wikilink") 原案：[GOKU](https://ja.wikipedia.org/wiki/GOKU "wikilink")）
+  - [リブライアン](../Page/Libraian.md "wikilink")’featuring TAKA『CafeLibra〜カフェ・ライブラ〜』（[成瀬千雪](https://ja.wikipedia.org/wiki/成瀬千雪 "wikilink") 原案：[GOKU](https://ja.wikipedia.org/wiki/GOKU "wikilink")）
   - リブライアン’featuring HIRO『ライアンキス』（[若武ジョウ](https://ja.wikipedia.org/wiki/若武ジョウ "wikilink") 原案：GOKU）
   - [両国リヴァイアサン ―大相撲“心･技･体”伝説―](https://ja.wikipedia.org/wiki/大相撲“心・技・体”伝説 "wikilink")（西野マルタ）
   - ワガママな野獣 やぁん\!（[西川かおり](https://ja.wikipedia.org/wiki/西川かおり "wikilink")）
@@ -215,40 +215,40 @@
 
 ### 更新終了時に連載中だった作品
 
-  - ウイちゃんがみえるもの（[衿沢世衣子](https://ja.wikipedia.org/wiki/衿沢世衣子 "wikilink")）
+  - ウイちゃんがみえるもの（[衿沢世衣子](../Page/衿沢世衣子.md "wikilink")）
   - うどんの国のよしお（[横山ゆうき](https://ja.wikipedia.org/wiki/横山ゆうき "wikilink")）
   - 風招き森のクロ（[わたなべさちよ](https://ja.wikipedia.org/wiki/わたなべさちよ "wikilink")）
   - Kinkoji（[上田隆士](https://ja.wikipedia.org/wiki/上田隆士 "wikilink")）
-  - けつちゃん（[須賀原洋行](https://ja.wikipedia.org/wiki/須賀原洋行 "wikilink")）
+  - けつちゃん（[須賀原洋行](../Page/須賀原洋行.md "wikilink")）
   - 虚化子（[坂本ロクタク](https://ja.wikipedia.org/wiki/坂本ロクタク "wikilink")）
   - コロチ（[下吉田本郷](https://ja.wikipedia.org/wiki/下吉田本郷 "wikilink")）
   - シオン（[黒藤広隆](https://ja.wikipedia.org/wiki/黒藤広隆 "wikilink")）
-  - 忍びのみかんモノ（[のうだたつき](https://ja.wikipedia.org/wiki/能田達規 "wikilink")）
+  - 忍びのみかんモノ（[のうだたつき](../Page/能田達規.md "wikilink")）
   - 純愛エゴイスト（[木村文](https://ja.wikipedia.org/wiki/木村文 "wikilink")）
-  - [STAR AGENT エリカにおまかせ](https://ja.wikipedia.org/wiki/STAR_AGENT_エリカにおまかせ "wikilink")（[田森庸介](https://ja.wikipedia.org/wiki/田森庸介 "wikilink")）
+  - [STAR AGENT エリカにおまかせ](https://ja.wikipedia.org/wiki/STAR_AGENT_エリカにおまかせ "wikilink")（[田森庸介](../Page/田森庸介.md "wikilink")）
   - [TATTOON MASTER II](https://ja.wikipedia.org/wiki/タトウーン・マスター "wikilink")（[矢也晶久](https://ja.wikipedia.org/wiki/矢也晶久 "wikilink")）
   - だんだら（てしろぎたかし）→『MiChao\!』へ移籍
-  - [ツヨシくんしっかりしなさい\!](https://ja.wikipedia.org/wiki/ツヨシしっかりしなさい "wikilink")（[永松潔](../Page/永松潔.md "wikilink")）
+  - [ツヨシくんしっかりしなさい\!](../Page/ツヨシしっかりしなさい.md "wikilink")（[永松潔](../Page/永松潔.md "wikilink")）
   - ディアボリカ（クリストフ・クリタ）→『MiChao\!』へ移籍
   - テオンをさがしに（[三原伸](https://ja.wikipedia.org/wiki/三原伸 "wikilink")）
-  - 手乗りマンモスのモウちゃん（[小田ひで次](https://ja.wikipedia.org/wiki/小田ひで次 "wikilink")）
-  - ドリスとマメ（[石黒正数](https://ja.wikipedia.org/wiki/石黒正数 "wikilink")）
+  - 手乗りマンモスのモウちゃん（[小田ひで次](../Page/小田ひで次.md "wikilink")）
+  - ドリスとマメ（[石黒正数](../Page/石黒正数.md "wikilink")）
   - ニッポンロボズンダモ（[剛田チーズ](https://ja.wikipedia.org/wiki/剛田チーズ "wikilink")）
   - 姫様探偵 スネコ・ヘヴィエンヌ（[たごもりのりこ](https://ja.wikipedia.org/wiki/たごもりのりこ "wikilink")）
   - ふうせんおばけのプースケ（[赤川明](https://ja.wikipedia.org/wiki/赤川明 "wikilink")）
   - ファイアキング（王欣太）→『MiChao\!』へ移籍
   - ブッとび忍者 ブースケ（[せぐちしのぶ](https://ja.wikipedia.org/wiki/せぐちしのぶ "wikilink")）
-  - プリンセス・コレクション（[高田明美](https://ja.wikipedia.org/wiki/高田明美 "wikilink")／[久美沙織](../Page/久美沙織.md "wikilink")）
+  - プリンセス・コレクション（[高田明美](../Page/高田明美.md "wikilink")／[久美沙織](../Page/久美沙織.md "wikilink")）
   - BABY STAR 7（[鈴木志保](https://ja.wikipedia.org/wiki/鈴木志保 "wikilink")）
-  - 変身猫のパナ（[五十嵐大介](https://ja.wikipedia.org/wiki/五十嵐大介 "wikilink")）
+  - 変身猫のパナ（[五十嵐大介](../Page/五十嵐大介.md "wikilink")）
   - ぽうぽうのおくりもの（[こえみ](https://ja.wikipedia.org/wiki/こえみ "wikilink")）
   - ぼくたちの伝説（[布浦翼](https://ja.wikipedia.org/wiki/布浦翼 "wikilink")）
-  - [まこら〜ひひひ怪々伝](https://ja.wikipedia.org/wiki/少女奇談_まこら "wikilink")（原作：[平野俊貴](https://ja.wikipedia.org/wiki/平野俊貴 "wikilink")、[植竹須美男](../Page/植竹須美男.md "wikilink") 漫画：[阿部洋一](https://ja.wikipedia.org/wiki/阿部洋一 "wikilink")）
+  - [まこら〜ひひひ怪々伝](https://ja.wikipedia.org/wiki/少女奇談_まこら "wikilink")（原作：[平野俊貴](../Page/平野俊貴.md "wikilink")、[植竹須美男](../Page/植竹須美男.md "wikilink") 漫画：[阿部洋一](https://ja.wikipedia.org/wiki/阿部洋一 "wikilink")）
   - マテマティシャンズ（[記伊孝](https://ja.wikipedia.org/wiki/記伊孝 "wikilink")）
   - miki—天使の詩（[清水みよこ](https://ja.wikipedia.org/wiki/清水みよこ "wikilink")／[高梨みどり](https://ja.wikipedia.org/wiki/高梨みどり "wikilink")）
   - もぐもぐげんしじん（原作：[涼木遥](https://ja.wikipedia.org/wiki/涼木遥 "wikilink") 漫画：[キミヒラユウキ](https://ja.wikipedia.org/wiki/キミヒラユウキ "wikilink")）
   - 塁（[近藤こうじ](https://ja.wikipedia.org/wiki/近藤こうじ "wikilink")）
-  - ワラバア（[しばたいちこ](https://ja.wikipedia.org/wiki/しばたいちこ "wikilink") 原案：[犬丸りん](https://ja.wikipedia.org/wiki/犬丸りん "wikilink")）
+  - ワラバア（[しばたいちこ](https://ja.wikipedia.org/wiki/しばたいちこ "wikilink") 原案：[犬丸りん](../Page/犬丸りん.md "wikilink")）
 
 ### 連載終了
 
@@ -256,7 +256,7 @@
   - サンパウろ（[原一雄](https://ja.wikipedia.org/wiki/原一雄 "wikilink")）
   - のんのんのんちゃん（[さかもと未明](https://ja.wikipedia.org/wiki/さかもと未明 "wikilink")）
   - パグリ（[ウィルソンひろみ](https://ja.wikipedia.org/wiki/ウィルソンひろみ "wikilink")）
-  - ルリカケス（[村田朋泰](https://ja.wikipedia.org/wiki/村田朋泰 "wikilink")）
+  - ルリカケス（[村田朋泰](../Page/村田朋泰.md "wikilink")）
 
 ### 読みきり
 

@@ -1,19 +1,19 @@
 > この記事は[UFC 69](https://ja.wikipedia.org/wiki/UFC_69)から翻訳されています。
 
 
-**UFC 69: Shootout**（ユーエフシー・シックスティナイン：シュートアウト）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月7日](../Page/4月7日.md "wikilink")、[テキサス州](../Page/テキサス州.md "wikilink")[ヒューストン](../Page/ヒューストン.md "wikilink")の[トヨタセンター](../Page/トヨタセンター.md "wikilink")で開催された。
+**UFC 69: Shootout**（ユーエフシー・シックスティナイン：シュートアウト）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2007年](../Page/2007年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")、[テキサス州](../Page/テキサス州.md "wikilink")[ヒューストン](../Page/ヒューストン.md "wikilink")の[トヨタセンター](../Page/トヨタセンター.md "wikilink")で開催された。
 
-本大会はUFC初のテキサス州興行であり、メインイベントでは[ジョルジュ・サンピエール](https://ja.wikipedia.org/wiki/ジョルジュ・サンピエール "wikilink")対[マット・セラ](../Page/マット・セラ.md "wikilink")のウェルター級タイトルマッチが行われた。
+本大会はUFC初のテキサス州興行であり、メインイベントでは[ジョルジュ・サンピエール](../Page/ジョルジュ・サンピエール.md "wikilink")対[マット・セラ](../Page/マット・セラ.md "wikilink")のウェルター級タイトルマッチが行われた。
 
 ## 大会概要
 
-メインイベントのウェルター級タイトルマッチでは、[The Ultimate Fighter](https://ja.wikipedia.org/wiki/The_Ultimate_Fighter "wikilink")[シーズン4ウェルター級トーナメントを勝ち残り王座挑戦権を獲得したベテランの](https://ja.wikipedia.org/wiki/The_Ultimate_Fighter_4 "wikilink")[マット・セラ](../Page/マット・セラ.md "wikilink")が下馬評を覆し、王者[ジョルジュ・サンピエール](https://ja.wikipedia.org/wiki/ジョルジュ・サンピエール "wikilink")をTKOで下し第7代世界ウェルター級王者となった。
+メインイベントのウェルター級タイトルマッチでは、[The Ultimate Fighter](../Page/The_Ultimate_Fighter.md "wikilink")[シーズン4ウェルター級トーナメントを勝ち残り王座挑戦権を獲得したベテランの](../Page/The_Ultimate_Fighter_4.md "wikilink")[マット・セラ](../Page/マット・セラ.md "wikilink")が下馬評を覆し、王者[ジョルジュ・サンピエール](../Page/ジョルジュ・サンピエール.md "wikilink")をTKOで下し第7代世界ウェルター級王者となった。
 
-プロデビュー以来17連勝中であった[ディエゴ・サンチェス](https://ja.wikipedia.org/wiki/ディエゴ・サンチェス "wikilink")は、[ジョシュ・コスチェック](https://ja.wikipedia.org/wiki/ジョシュ・コスチェック "wikilink")に0-3の判定負けでキャリア初黒星を喫した。
+プロデビュー以来17連勝中であった[ディエゴ・サンチェス](../Page/ディエゴ・サンチェス.md "wikilink")は、[ジョシュ・コスチェック](../Page/ジョシュ・コスチェック.md "wikilink")に0-3の判定負けでキャリア初黒星を喫した。
 
-また、日本の[岡見勇信](https://ja.wikipedia.org/wiki/岡見勇信 "wikilink")は地元出身の[マイク・スウィック](../Page/マイク・スウィック.md "wikilink")を判定で破り、UFC4連勝を果たした。
+また、日本の[岡見勇信](../Page/岡見勇信.md "wikilink")は地元出身の[マイク・スウィック](../Page/マイク・スウィック.md "wikilink")を判定で破り、UFC4連勝を果たした。
 
-試合間のインターバル中に元[PRIDEヘビー級王者](../Page/PRIDE_\(格闘技イベント\).md "wikilink")[アントニオ・ホドリゴ・ノゲイラ](https://ja.wikipedia.org/wiki/アントニオ・ホドリゴ・ノゲイラ "wikilink")がオクタゴンに登場し、UFC参戦を正式に表明した\[1\]。
+試合間のインターバル中に元[PRIDEヘビー級王者](../Page/PRIDE_\(格闘技イベント\).md "wikilink")[アントニオ・ホドリゴ・ノゲイラ](../Page/アントニオ・ホドリゴ・ノゲイラ.md "wikilink")がオクタゴンに登場し、UFC参戦を正式に表明した\[1\]。
 
 ### カード変更
 
@@ -28,31 +28,31 @@
     2R 2:45 KO（右フック）
   - 第2試合 ウェルター級 5分3R
     ○  [マーカス・デイヴィス](https://ja.wikipedia.org/wiki/マーカス・デイヴィス "wikilink") vs.  ピート・スプラット ×
-    2R 2:57 [アキレス腱固め](https://ja.wikipedia.org/wiki/アキレス腱固め "wikilink")
+    2R 2:57 [アキレス腱固め](../Page/アキレス腱固め.md "wikilink")
   - 第3試合 ミドル級 5分3R
     ○  [ターレス・レイチ](https://ja.wikipedia.org/wiki/ターレス・レイチ "wikilink") vs.  ピート・セル ×
     3R終了 判定3-0（30-27、30-27、30-27）
   - 第4試合 ヘビー級 5分3R
-    ○  [ヒース・ヒーリング](https://ja.wikipedia.org/wiki/ヒース・ヒーリング "wikilink") vs.  ブラッド・アイムス ×
+    ○  [ヒース・ヒーリング](../Page/ヒース・ヒーリング.md "wikilink") vs.  ブラッド・アイムス ×
     3R終了 判定3-0（30-27、30-27、30-27）
 
 ### メインカード
 
   - 第5試合 ミドル級 5分3R
-    ○  [ケンドール・グローブ](https://ja.wikipedia.org/wiki/ケンドール・グローブ "wikilink") vs.  [アラン・ベルチャー](https://ja.wikipedia.org/wiki/アラン・ベルチャー "wikilink") ×
-    2R 4:22 [ダースチョーク](https://ja.wikipedia.org/wiki/スピニングチョーク "wikilink")
+    ○  [ケンドール・グローブ](../Page/ケンドール・グローブ.md "wikilink") vs.  [アラン・ベルチャー](../Page/アラン・ベルチャー.md "wikilink") ×
+    2R 4:22 [ダースチョーク](../Page/スピニングチョーク.md "wikilink")
   - 第6試合 ミドル級 5分3R
-    ○  [岡見勇信](https://ja.wikipedia.org/wiki/岡見勇信 "wikilink") vs.  [マイク・スウィック](../Page/マイク・スウィック.md "wikilink") ×
+    ○  [岡見勇信](../Page/岡見勇信.md "wikilink") vs.  [マイク・スウィック](../Page/マイク・スウィック.md "wikilink") ×
     3R終了 判定3-0（29-28、29-28、30-27）
   - 第7試合 ライト級 5分3R
     ○  [ロジャー・ウエルタ](https://ja.wikipedia.org/wiki/ロジャー・ウエルタ "wikilink") vs.  [レオナルド・ガルシア](https://ja.wikipedia.org/wiki/レオナルド・ガルシア "wikilink") ×
     3R終了 判定3-0（30-27、30-27、30-27）
   - 第8試合 ウェルター級 5分3R
-    ○  [ジョシュ・コスチェック](https://ja.wikipedia.org/wiki/ジョシュ・コスチェック "wikilink") vs.  [ディエゴ・サンチェス](https://ja.wikipedia.org/wiki/ディエゴ・サンチェス "wikilink") ×
+    ○  [ジョシュ・コスチェック](../Page/ジョシュ・コスチェック.md "wikilink") vs.  [ディエゴ・サンチェス](../Page/ディエゴ・サンチェス.md "wikilink") ×
     3R終了 判定3-0（30-27、30-27、30-27）
   - 第9試合 UFC世界ウェルター級タイトルマッチ 5分5R
-    ○  [マット・セラ](../Page/マット・セラ.md "wikilink") vs.  [ジョルジュ・サンピエール](https://ja.wikipedia.org/wiki/ジョルジュ・サンピエール "wikilink") ×
-    1R 3:25 TKO（レフェリーストップ：右フック→[パウンド](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    ○  [マット・セラ](../Page/マット・セラ.md "wikilink") vs.  [ジョルジュ・サンピエール](../Page/ジョルジュ・サンピエール.md "wikilink") ×
+    1R 3:25 TKO（レフェリーストップ：右フック→[パウンド](../Page/グラウンドパンチ.md "wikilink")）
     ※セラが王座獲得に成功。
 
 ### 各賞
@@ -68,7 +68,7 @@
 ## 関連項目
 
   - [UFCの大会一覧](../Page/UFCの大会一覧.md "wikilink")
-  - [UFC王者一覧](https://ja.wikipedia.org/wiki/UFC王者一覧 "wikilink")
+  - [UFC王者一覧](../Page/UFC王者一覧.md "wikilink")
 
 ## 外部リンク
 

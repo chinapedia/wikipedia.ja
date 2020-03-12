@@ -1,7 +1,7 @@
 > この記事は[DTIME](https://ja.wikipedia.org/wiki/DTIME)から翻訳されています。
 
 
-**DTIME**（または**TIME**）は、[計算複雑性理論](https://ja.wikipedia.org/wiki/計算複雑性理論 "wikilink")における[決定性チューリング機械での計算時間という](../Page/チューリングマシン.md "wikilink")[計算資源](https://ja.wikipedia.org/wiki/計算資源 "wikilink")を表す。実在の一般的コンピュータが、ある問題を特定の[アルゴリズム](../Page/アルゴリズム.md "wikilink")で解くのに要する時間の量（ステップ数）を表す。実際の[リソース](https://ja.wikipedia.org/wiki/リソース "wikilink")（プログラムの実行にかかる時間）と直接対応することから、最もよく研究されている計算資源の1つである。
+**DTIME**（または**TIME**）は、[計算複雑性理論](https://ja.wikipedia.org/wiki/計算複雑性理論 "wikilink")における[決定性チューリング機械での計算時間という](../Page/チューリングマシン.md "wikilink")[計算資源](../Page/計算資源.md "wikilink")を表す。実在の一般的コンピュータが、ある問題を特定の[アルゴリズム](../Page/アルゴリズム.md "wikilink")で解くのに要する時間の量（ステップ数）を表す。実際の[リソース](https://ja.wikipedia.org/wiki/リソース "wikilink")（プログラムの実行にかかる時間）と直接対応することから、最もよく研究されている計算資源の1つである。
 
 **DTIME**という資源は[複雑性クラス](https://ja.wikipedia.org/wiki/複雑性クラス "wikilink")の定義に使われる。複雑性クラスとは、ある特定の計算時間量で解ける全ての[決定問題](https://ja.wikipedia.org/wiki/決定問題 "wikilink")の集合である。入力長 *\(n\)* の問題を解くのに *\(O(f(n))\)* の計算時間がかかる場合、その複雑性クラスは **\(\text{DTIME}(f(n))\)**（または **\(\text{TIME}(f(n))\)**）となる。このとき使用するメモリ空間量に制限はないが、他の複雑性尺度は制限されることもある。
 
@@ -11,7 +11,7 @@
 
 DTIME は[時間階層定理](https://ja.wikipedia.org/wiki/時間階層定理 "wikilink")に従う。すなわち、漸近的に多くの時間を指定すると、常により大きな問題の集合が生成される。
 
-よく知られている複雑性クラス **[P](https://ja.wikipedia.org/wiki/P_\(計算複雑性理論\) "wikilink")** は、多項式量の DTIME で解ける問題のクラスである。形式的には以下のように定義される。
+よく知られている複雑性クラス **[P](../Page/P_\(計算複雑性理論\).md "wikilink")** は、多項式量の DTIME で解ける問題のクラスである。形式的には以下のように定義される。
 
 \[\text{P} = \bigcup_{k\in\mathbb{N}} \text{DTIME}\left(n^k\right)\]
 

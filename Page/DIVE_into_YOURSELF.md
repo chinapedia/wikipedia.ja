@@ -7,13 +7,13 @@
 
 このシングルの発売を記念して、限定で公開レコーディング「DIVE into YOUR VOICE」を開催した。参加する者は、[ホームページ](../Page/ホームページ.md "wikilink")にある参加申し込み欄に記入し、抽選で当たった人に参加券ハガキが送られてくる。
 
-初回盤には[ラバーバンド](https://ja.wikipedia.org/wiki/ラバーバンド "wikilink")が封入されている。[PVでは](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、メンバーそれぞれがラバーバンドをつけている。全6種類。ただし、ランダムに封入されている。
+初回盤には[ラバーバンド](https://ja.wikipedia.org/wiki/ラバーバンド "wikilink")が封入されている。[PVでは](../Page/ミュージック・ビデオ.md "wikilink")、メンバーそれぞれがラバーバンドをつけている。全6種類。ただし、ランダムに封入されている。
 
 ## 収録曲
 
 1.  **DIVE into YOURSELF**
       -
-        [カプコン](https://ja.wikipedia.org/wiki/カプコン "wikilink")・[PS2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[戦国BASARA](https://ja.wikipedia.org/wiki/戦国BASARA "wikilink")2』オープニング曲。後に発売された[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")用ソフト『戦国BASARA2英雄外伝 ダブルパック』に同梱されている移植版と、[PS3用ソフト](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")『戦国BASARA HD Collection』に収録されているHDリマスター版では別の曲に差し替えられている。
+        [カプコン](../Page/カプコン.md "wikilink")・[PS2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[戦国BASARA](../Page/戦国BASARA.md "wikilink")2』オープニング曲。後に発売された[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")用ソフト『戦国BASARA2英雄外伝 ダブルパック』に同梱されている移植版と、[PS3用ソフト](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")『戦国BASARA HD Collection』に収録されているHDリマスター版では別の曲に差し替えられている。
         元ネタは、SASSYとカズトである。
         ライブで盛り上がる曲を作りたいと思ったために作られた曲。
         歌詞表記に誤記がある。
@@ -23,7 +23,7 @@
         タイトル曲と同じくアップテンポな楽曲になっている。
 3.  **背徳の情熱 〜Urgent Immoral Passion Mix〜**
       -
-        原型版は『[傲音プログレッシヴ](https://ja.wikipedia.org/wiki/傲音プログレッシヴ "wikilink")』に収録されている。
+        原型版は『[傲音プログレッシヴ](../Page/傲音プログレッシヴ.md "wikilink")』に収録されている。
 4.  DIVE INTO YOURSELF（Less Vocal Track）
 
 <!-- end list -->

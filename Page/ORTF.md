@@ -5,7 +5,7 @@
 
 ## 歴史
 
-1964年にそれまでの****（エール・テー・エフ、**RTF**、Radiodiffusion-Télévision Française）から名称を変更して設立されたが、1974年2月に当時の会長マルソー・ロングが廃止すると発表し、同年12月31日に閉局された\[2\]。これにより、[フランス・テレビジョン](https://ja.wikipedia.org/wiki/フランス・テレビジョン "wikilink")や[ラジオ・フランス](https://ja.wikipedia.org/wiki/ラジオ・フランス "wikilink")などといった会社分割が行なわれた。
+1964年にそれまでの****（エール・テー・エフ、**RTF**、Radiodiffusion-Télévision Française）から名称を変更して設立されたが、1974年2月に当時の会長マルソー・ロングが廃止すると発表し、同年12月31日に閉局された\[2\]。これにより、[フランス・テレビジョン](../Page/フランス・テレビジョン.md "wikilink")や[ラジオ・フランス](https://ja.wikipedia.org/wiki/ラジオ・フランス "wikilink")などといった会社分割が行なわれた。
 
 ## 運営されていたチャンネル
 
@@ -18,7 +18,7 @@
 
 ### テレビ
 
-  - [La Première chaîne](https://ja.wikipedia.org/wiki/TF1 "wikilink")
+  - [La Première chaîne](../Page/TF1.md "wikilink")
   - [La Deuxième chaîne](https://ja.wikipedia.org/wiki/フランス2 "wikilink")
   - [La Troisième chaîne](https://ja.wikipedia.org/wiki/フランス3 "wikilink")（1972年12月31日開局）
 

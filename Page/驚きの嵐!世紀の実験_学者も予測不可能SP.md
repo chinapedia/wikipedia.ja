@@ -1,11 +1,11 @@
 > この記事は[! SP](https://ja.wikipedia.org/wiki/!_SP)から翻訳されています。
 
 
-『**驚きの嵐\!世紀の実験 学者も予測不可能SP**』（おどろきのあらし\!せいきのじっけん がくしゃもよそくふかのうスペシャル）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")から[2009年](../Page/2009年.md "wikilink")にかけて、不定期に[日本テレビ](../Page/日本テレビ放送網.md "wikilink")[系列で放送された](../Page/日本テレビネットワーク協議会.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")・[特別番組](https://ja.wikipedia.org/wiki/特別番組 "wikilink")である。アイドルグループ[嵐の冠番組](https://ja.wikipedia.org/wiki/嵐_\(グループ\) "wikilink")。
+『**驚きの嵐\!世紀の実験 学者も予測不可能SP**』（おどろきのあらし\!せいきのじっけん がくしゃもよそくふかのうスペシャル）は、[2006年](../Page/2006年.md "wikilink")から[2009年](../Page/2009年.md "wikilink")にかけて、不定期に[日本テレビ](../Page/日本テレビ放送網.md "wikilink")[系列で放送された](../Page/日本テレビネットワーク協議会.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")・[特別番組](../Page/特別番組.md "wikilink")である。アイドルグループ[嵐の冠番組](../Page/嵐_\(グループ\).md "wikilink")。
 
 ## 番組内容
 
-言われてみれば確かに気になる、くだらない実験を[嵐のメンバーが体を張って挑戦する実験バラエティー番組として放送された](https://ja.wikipedia.org/wiki/嵐_\(グループ\) "wikilink")。2010年3月まで放送された『[嵐の宿題くん](https://ja.wikipedia.org/wiki/嵐の宿題くん "wikilink")』のゴールデン進出枠であるが、番組のコンセプトは『[Dの嵐\!](https://ja.wikipedia.org/wiki/Dの嵐! "wikilink")』で[相葉雅紀](https://ja.wikipedia.org/wiki/相葉雅紀 "wikilink")の考案により生まれた企画、「Aの嵐」を基にしている。本番組の放映直後に放送される『嵐の宿題くん』では、映像が地味、スタッフの単純なミスなどの理由から編集でカットされた「お蔵入り実験」を紹介し、反省会を行うのが恒例となっていた。
+言われてみれば確かに気になる、くだらない実験を[嵐のメンバーが体を張って挑戦する実験バラエティー番組として放送された](../Page/嵐_\(グループ\).md "wikilink")。2010年3月まで放送された『[嵐の宿題くん](https://ja.wikipedia.org/wiki/嵐の宿題くん "wikilink")』のゴールデン進出枠であるが、番組のコンセプトは『[Dの嵐\!](../Page/Dの嵐!.md "wikilink")』で[相葉雅紀](https://ja.wikipedia.org/wiki/相葉雅紀 "wikilink")の考案により生まれた企画、「Aの嵐」を基にしている。本番組の放映直後に放送される『嵐の宿題くん』では、映像が地味、スタッフの単純なミスなどの理由から編集でカットされた「お蔵入り実験」を紹介し、反省会を行うのが恒例となっていた。
 
 ## 出演者
 
@@ -14,35 +14,35 @@
       - [大野智](https://ja.wikipedia.org/wiki/大野智 "wikilink")
       - [櫻井翔](https://ja.wikipedia.org/wiki/櫻井翔 "wikilink") ： 司会兼プレゼンター
       - [相葉雅紀](https://ja.wikipedia.org/wiki/相葉雅紀 "wikilink")
-      - [二宮和也](https://ja.wikipedia.org/wiki/二宮和也 "wikilink")
+      - [二宮和也](../Page/二宮和也.md "wikilink")
       - [松本潤](../Page/松本潤.md "wikilink")
 
 ### 教授
 
-  - [北野大](../Page/北野大.md "wikilink") ： [明治大学](https://ja.wikipedia.org/wiki/明治大学 "wikilink")・環境担当
-  - 橋本健一 ： [千葉県立衛生短期大学](https://ja.wikipedia.org/wiki/千葉県立衛生短期大学 "wikilink")・生物学担当
+  - [北野大](../Page/北野大.md "wikilink") ： [明治大学](../Page/明治大学.md "wikilink")・環境担当
+  - 橋本健一 ： [千葉県立衛生短期大学](../Page/千葉県立衛生短期大学.md "wikilink")・生物学担当
   - 浅井武 ： [筑波大学](../Page/筑波大学.md "wikilink")・身体運動担当
   - 原利次 ： [日本工業大学](../Page/日本工業大学.md "wikilink")・熱工学担当
   - 山本誠 ： [東京理科大学](../Page/東京理科大学.md "wikilink")・流体工学担当
   - 溝口憲治 ： [首都大学東京](../Page/首都大学東京.md "wikilink")・物理担当
-  - 高野克己 ： [東京農業大学](https://ja.wikipedia.org/wiki/東京農業大学 "wikilink")・食品担当
+  - 高野克己 ： [東京農業大学](../Page/東京農業大学.md "wikilink")・食品担当
   - 江前敏晴 ： [東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")大学院・製紙担当
   - 小島昇 ： 明治大学・風力担当
   - 関和市 ： [東海大学](../Page/東海大学.md "wikilink")・航空力学担当
   - 渡邊博之 ： [玉川大学](../Page/玉川大学.md "wikilink")・植物担当
-  - [吉村作治](https://ja.wikipedia.org/wiki/吉村作治 "wikilink") ： [早稲田大学](https://ja.wikipedia.org/wiki/早稲田大学 "wikilink")・エジプト考古学担当
-  - [大槻義彦](https://ja.wikipedia.org/wiki/大槻義彦 "wikilink") ： 早稲田大学・物理担当
+  - [吉村作治](../Page/吉村作治.md "wikilink") ： [早稲田大学](../Page/早稲田大学.md "wikilink")・エジプト考古学担当
+  - [大槻義彦](../Page/大槻義彦.md "wikilink") ： 早稲田大学・物理担当
 
 ### ナレーター
 
-  - [小林清志](https://ja.wikipedia.org/wiki/小林清志 "wikilink")
+  - [小林清志](../Page/小林清志.md "wikilink")
 
 ## 主な実験
 
   - ほっとき実験
     主に二宮と大野が担当。食べ物や植物を一定の条件下の元に置き、しばらく放置（育てる場合は育成）するとどうなるのかを調べる。
   - ○○の船で海を渡れるか?
-    櫻井ともう1人のメンバーが担当。主に相葉が多いが初期は二宮、大野も参加していた。松本は、「ブロックの船」の際に初めて参加した。ある1つの素材（葉っぱ、わら、おもちゃのブロックなど）だけを使い4人乗りの船を製作。それに乗り込み海を横断することを目指す。初期は川を下り海に出ることが目標だったが中期以降は伊豆半島の[熱海市](https://ja.wikipedia.org/wiki/熱海市 "wikilink")から[初島](https://ja.wikipedia.org/wiki/初島 "wikilink")にたどり着くことが目標となっている。
+    櫻井ともう1人のメンバーが担当。主に相葉が多いが初期は二宮、大野も参加していた。松本は、「ブロックの船」の際に初めて参加した。ある1つの素材（葉っぱ、わら、おもちゃのブロックなど）だけを使い4人乗りの船を製作。それに乗り込み海を横断することを目指す。初期は川を下り海に出ることが目標だったが中期以降は伊豆半島の[熱海市](https://ja.wikipedia.org/wiki/熱海市 "wikilink")から[初島](../Page/初島.md "wikilink")にたどり着くことが目標となっている。
     船が航行不能になった時点で終了。これまで全ての回で行っているが全て失敗している。耐久性が弱く、すぐに崩壊してしまうこともあれば、ある程度は持つものの櫻井の秘策が裏目に出た結果失敗することもある。また、通りかかった漁船の横波にあおられ転覆したこともある。
     毎回「これでラスト」と言われているが前述の通り失敗し、嵐の宿題くんの中で謝罪とリベンジすることを誓うのが定番になっている。
     また、船が沈没する際は決まって[加山雄三](https://ja.wikipedia.org/wiki/加山雄三 "wikilink")の「[海 その愛](https://ja.wikipedia.org/wiki/海_その愛 "wikilink")」がBGMとして流れる。
@@ -78,7 +78,7 @@
 <tr class="odd">
 <td><p>相葉雅紀<br />
 松本潤</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/奈美悦子" title="wikilink">奈美悦子</a><br />
+<td><p><a href="../Page/奈美悦子.md" title="wikilink">奈美悦子</a><br />
 <a href="https://ja.wikipedia.org/wiki/高橋ジョージ" title="wikilink">高橋ジョージ</a></p></td>
 <td><p>巨大なタコで人間が空を飛べるのか</p></td>
 </tr>
@@ -106,7 +106,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/青田典子" title="wikilink">青田典子</a><br />
+<td><p><a href="../Page/青田典子.md" title="wikilink">青田典子</a><br />
 <a href="https://ja.wikipedia.org/wiki/山口もえ" title="wikilink">山口もえ</a></p></td>
 <td><p>きゅうりとなすをそれぞれ球体・ハート型・星型の型に入れておくとどう成長するのか</p></td>
 <td></td>
@@ -130,7 +130,7 @@
 </tr>
 <tr class="even">
 <td><p>嵐</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/酒井敏也" title="wikilink">酒井敏也</a><br />
+<td><p><a href="../Page/酒井敏也.md" title="wikilink">酒井敏也</a><br />
 <a href="https://ja.wikipedia.org/wiki/大沢あかね" title="wikilink">大沢あかね</a></p></td>
 <td><p>直径5mの巨大ゼリーは作れるのか</p></td>
 </tr>
@@ -168,7 +168,7 @@
 <td><p>ヘッドホンとアイマスクをして漫才は出来るのか</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/チェ・ホンマン" title="wikilink">チェ・ホンマン</a></p></td>
+<td><p><a href="../Page/チェ・ホンマン.md" title="wikilink">チェ・ホンマン</a></p></td>
 <td><p>218cmの身長で射的をするとどうなるのか?</p></td>
 <td></td>
 </tr>
@@ -251,8 +251,8 @@
 <td><p>ヘリウム風船に入って人は空を飛べるのか</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/青田典子" title="wikilink">青田典子</a><br />
-<a href="https://ja.wikipedia.org/wiki/長州小力" title="wikilink">長州小力</a></p></td>
+<td><p><a href="../Page/青田典子.md" title="wikilink">青田典子</a><br />
+<a href="../Page/長州小力.md" title="wikilink">長州小力</a></p></td>
 <td><p>掃除機のホースの長さの限界はどのくらいか</p></td>
 <td></td>
 </tr>
@@ -276,8 +276,8 @@
 <tr class="odd">
 <td><p>櫻井翔<br />
 大野智</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/酒井敏也" title="wikilink">酒井敏也</a><br />
-<a href="https://ja.wikipedia.org/wiki/勝村政信" title="wikilink">勝村政信</a></p></td>
+<td><p><a href="../Page/酒井敏也.md" title="wikilink">酒井敏也</a><br />
+<a href="../Page/勝村政信.md" title="wikilink">勝村政信</a></p></td>
 <td><p>流氷に乗って東京湾まで辿り着けるか</p></td>
 </tr>
 <tr class="even">
@@ -350,8 +350,8 @@
 <tr class="odd">
 <td><p>大野智<br />
 二宮和也</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/梨花" title="wikilink">梨花</a><br />
-<a href="https://ja.wikipedia.org/wiki/高部あい" title="wikilink">高部あい</a></p></td>
+<td><p><a href="../Page/梨花.md" title="wikilink">梨花</a><br />
+<a href="../Page/高部あい.md" title="wikilink">高部あい</a></p></td>
 <td><p>野菜（すいか、小玉すいか、かぼちゃ）を星型にはめてほっといたらどうなるのか</p></td>
 </tr>
 <tr class="even">
@@ -364,20 +364,20 @@
 <td><p>櫻井翔<br />
 大野智<br />
 二宮和也</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/酒井敏也" title="wikilink">酒井敏也</a><br />
-<a href="https://ja.wikipedia.org/wiki/武田修宏" title="wikilink">武田修宏</a></p></td>
+<td><p><a href="../Page/酒井敏也.md" title="wikilink">酒井敏也</a><br />
+<a href="../Page/武田修宏.md" title="wikilink">武田修宏</a></p></td>
 <td><p>葉っぱの船で東京湾までたどり着けるか</p></td>
 </tr>
 <tr class="even">
 <td><p>大野智<br />
 松本潤</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/時東ぁみ" title="wikilink">時東ぁみ</a><br />
+<td><p><a href="../Page/時東ぁみ.md" title="wikilink">時東ぁみ</a><br />
 <a href="../Page/出川哲朗.md" title="wikilink">出川哲朗</a></p></td>
 <td><p>水団の術の限界は水深何メートルなのか</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/鈴木紗理奈.md" title="wikilink">鈴木紗理奈</a><br />
-<a href="https://ja.wikipedia.org/wiki/角田信朗" title="wikilink">角田信朗</a></p></td>
+<a href="../Page/角田信朗.md" title="wikilink">角田信朗</a></p></td>
 <td><p>竹馬の高さの限界は何メートルなのか</p></td>
 <td></td>
 </tr>
@@ -444,7 +444,7 @@
 <td><p>大野智<br />
 二宮和也</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/羽野晶紀" title="wikilink">羽野晶紀</a><br />
-<a href="https://ja.wikipedia.org/wiki/高部あい" title="wikilink">高部あい</a></p></td>
+<a href="../Page/高部あい.md" title="wikilink">高部あい</a></p></td>
 <td><p>太陽に当てずにほっといたら、白い野菜や果物（キュウリ、ナス、イチゴ、ピーマン）は育つのか</p></td>
 </tr>
 <tr class="odd">
@@ -466,15 +466,15 @@
 <tr class="even">
 <td><p>櫻井翔<br />
 相葉雅紀</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/酒井敏也" title="wikilink">酒井敏也</a><br />
-<a href="https://ja.wikipedia.org/wiki/武田修宏" title="wikilink">武田修宏</a></p></td>
+<td><p><a href="../Page/酒井敏也.md" title="wikilink">酒井敏也</a><br />
+<a href="../Page/武田修宏.md" title="wikilink">武田修宏</a></p></td>
 <td><p>わらの船で海を渡れるのか</p></td>
 </tr>
 <tr class="odd">
 <td><p>大野智<br />
 松本潤</p></td>
 <td><p><a href="../Page/ふかわりょう.md" title="wikilink">ふかわりょう</a><br />
-<a href="https://ja.wikipedia.org/wiki/はしのえみ" title="wikilink">はしのえみ</a></p></td>
+<a href="../Page/はしのえみ.md" title="wikilink">はしのえみ</a></p></td>
 <td><p>重ね合わせた紙の摩擦力の限界はどのくらいか</p></td>
 </tr>
 <tr class="even">
@@ -528,7 +528,7 @@
 <td><p>大野智<br />
 松本潤</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/西村知美" title="wikilink">西村知美</a><br />
-<a href="https://ja.wikipedia.org/wiki/カンニング竹山" title="wikilink">カンニング竹山</a></p></td>
+<a href="../Page/カンニング竹山.md" title="wikilink">カンニング竹山</a></p></td>
 <td><p>ドミノは大きい方から倒すのと、小さい方から倒すの、どっちが速いのか</p></td>
 </tr>
 <tr class="even">
@@ -551,9 +551,9 @@
 <tr class="odd">
 <td><p>相葉雅紀<br />
 松本潤<br />
-<a href="https://ja.wikipedia.org/wiki/桑野信義" title="wikilink">桑野信義</a></p></td>
+<a href="../Page/桑野信義.md" title="wikilink">桑野信義</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/高橋ジョージ" title="wikilink">高橋ジョージ</a><br />
-<a href="https://ja.wikipedia.org/wiki/にしおかすみこ" title="wikilink">にしおかすみこ</a></p></td>
+<a href="../Page/にしおかすみこ.md" title="wikilink">にしおかすみこ</a></p></td>
 <td><p>一音ずつ鳴っている前を通り抜けたら、音楽に聞こえるのか</p></td>
 </tr>
 <tr class="even">
@@ -570,7 +570,7 @@
 <td><p>大野智<br />
 二宮和也</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/矢口真里" title="wikilink">矢口真里</a><br />
-<a href="https://ja.wikipedia.org/wiki/高田万由子" title="wikilink">高田万由子</a></p></td>
+<a href="../Page/高田万由子.md" title="wikilink">高田万由子</a></p></td>
 <td><p>日焼けマシーンにマネキン、豆腐、蟹、ホワイトアスパラ、オセロをほっといたらどうなるのか</p></td>
 </tr>
 <tr class="odd">
@@ -591,9 +591,9 @@
 <tr class="even">
 <td><p>櫻井翔<br />
 相葉雅紀</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/酒井敏也" title="wikilink">酒井敏也</a><br />
-<a href="https://ja.wikipedia.org/wiki/武田修宏" title="wikilink">武田修宏</a><br />
-<a href="https://ja.wikipedia.org/wiki/パッション屋良" title="wikilink">パッション屋良</a><br />
+<td><p><a href="../Page/酒井敏也.md" title="wikilink">酒井敏也</a><br />
+<a href="../Page/武田修宏.md" title="wikilink">武田修宏</a><br />
+<a href="../Page/パッション屋良.md" title="wikilink">パッション屋良</a><br />
 <a href="https://ja.wikipedia.org/wiki/大林素子" title="wikilink">大林素子</a></p></td>
 <td><p>昆布の船で海を渡れるのか</p></td>
 </tr>
@@ -607,7 +607,7 @@
 <tr class="even">
 <td><p>櫻井翔<br />
 大野智</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/有吉弘行" title="wikilink">有吉弘行</a><br />
+<td><p><a href="../Page/有吉弘行.md" title="wikilink">有吉弘行</a><br />
 <a href="https://ja.wikipedia.org/wiki/夏川純" title="wikilink">夏川純</a></p></td>
 <td><p><a href="../Page/ヤッターマン.md" title="wikilink">ヤッターマン</a>のドクロ雲はできるのか</p></td>
 </tr>
@@ -652,10 +652,10 @@
 二宮和也 |rowspan="4" |<a href="../Page/田丸麻紀.md" title="wikilink">田丸麻紀</a><br />
 <a href="https://ja.wikipedia.org/wiki/大沢あかね" title="wikilink">大沢あかね</a> |ヒマワリにヘリウム風船をつけて育てたら高くなるのか |- |ヒマワリに太陽が真上からしか当たらないようにしたら上向きに咲くのか |- |野菜（大根、長ネギ、キャベツ、チンゲン菜）のヘタや芯を土に植えたら元の野菜になるのか |- |秋に満開の桜を咲かせられるのか（第2弾） |- |櫻井翔<br />
 相葉雅紀 |<a href="../Page/佐藤隆太.md" title="wikilink">佐藤隆太</a><br />
-<a href="https://ja.wikipedia.org/wiki/武田修宏" title="wikilink">武田修宏</a><br />
-<a href="https://ja.wikipedia.org/wiki/ザブングル_(お笑いコンビ)" title="wikilink">加藤歩</a> |塩の船に乗って海を渡れるか |- |相葉雅紀<br />
+<a href="../Page/武田修宏.md" title="wikilink">武田修宏</a><br />
+<a href="../Page/ザブングル_(お笑いコンビ).md" title="wikilink">加藤歩</a> |塩の船に乗って海を渡れるか |- |相葉雅紀<br />
 二宮和也 |<a href="../Page/出川哲朗.md" title="wikilink">出川哲朗</a><br />
-<a href="https://ja.wikipedia.org/wiki/上原美優" title="wikilink">上原美優</a> |ミラーマン東海道珍道中（静岡･茶畑編、愛知･名古屋城編、京都･町並み編） |- |櫻井翔<br />
+<a href="../Page/上原美優.md" title="wikilink">上原美優</a> |ミラーマン東海道珍道中（静岡･茶畑編、愛知･名古屋城編、京都･町並み編） |- |櫻井翔<br />
 松本潤 |<a href="https://ja.wikipedia.org/wiki/山本太郎" title="wikilink">山本太郎</a><br />
 <a href="https://ja.wikipedia.org/wiki/矢口真里" title="wikilink">矢口真里</a><br />
 <a href="../Page/ふかわりょう.md" title="wikilink">ふかわりょう</a> |影に色をつけることはできるのか |- |}</p>
@@ -704,20 +704,20 @@
 
 ## スタッフ
 
-  - 構成：山谷隆、[桜井慎一](https://ja.wikipedia.org/wiki/桜井慎一 "wikilink")、石塚祐介、[酒井健作](https://ja.wikipedia.org/wiki/酒井健作 "wikilink")、木南広明、平出尚人、奥山亮 / [安達元一](https://ja.wikipedia.org/wiki/安達元一 "wikilink")
+  - 構成：山谷隆、[桜井慎一](../Page/桜井慎一.md "wikilink")、石塚祐介、[酒井健作](../Page/酒井健作.md "wikilink")、木南広明、平出尚人、奥山亮 / [安達元一](../Page/安達元一.md "wikilink")
   - AP：渡邊奈津子、伊藤康一
   - ディレクター：日野力、中井康二、丹野樹史、佐々木英敏、保野祥子、磯部修、平元潤、吉仲哲也
   - 演出：安彦和弘
   - 総合演出：三浦伸介
   - プロデューサー：[松本浩明](https://ja.wikipedia.org/wiki/松本浩明 "wikilink") / 小塩佳宏、浜田和宏、堀金澄彦、秋丸桃香
   - チーフプロデューサー：松崎聡男
-  - 協力：[ジャニーズ事務所](https://ja.wikipedia.org/wiki/ジャニーズ事務所 "wikilink")
-  - 制作協力：[SION](https://ja.wikipedia.org/wiki/シオン_\(テレビ制作会社\) "wikilink")、[オフィスぼくら](https://ja.wikipedia.org/wiki/オフィスぼくら "wikilink")
+  - 協力：[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")
+  - 制作協力：[SION](../Page/シオン_\(テレビ制作会社\).md "wikilink")、[オフィスぼくら](../Page/オフィスぼくら.md "wikilink")
   - 製作著作：日本テレビ
 
 ### 過去のスタッフ
 
-  - 構成：[桝本壮志](https://ja.wikipedia.org/wiki/桝本壮志 "wikilink")、藤谷弥生
+  - 構成：[桝本壮志](../Page/桝本壮志.md "wikilink")、藤谷弥生
   - ディレクター：愛場剛士、丸山信也、田中匡史、宮本誠臣、森大祐
 
 ## 脚注

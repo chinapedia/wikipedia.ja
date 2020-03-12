@@ -1,13 +1,13 @@
 > この記事は[S.F](https://ja.wikipedia.org/wiki/S.F)から翻訳されています。
 
 
-『**創雅都市S.F**』（そうがとしサンフランシスコ）は『[都市シリーズ](https://ja.wikipedia.org/wiki/都市シリーズ "wikilink")』の作品。[川上稔](https://ja.wikipedia.org/wiki/川上稔 "wikilink")と[さとやす](https://ja.wikipedia.org/wiki/さとやす "wikilink")の共著である。
+『**創雅都市S.F**』（そうがとしサンフランシスコ）は『[都市シリーズ](../Page/都市シリーズ.md "wikilink")』の作品。[川上稔](../Page/川上稔.md "wikilink")と[さとやす](https://ja.wikipedia.org/wiki/さとやす "wikilink")の共著である。
 
 ## 概要
 
-異世界の[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")を描くイラストノベルで、台詞（ネーム）を[川上稔](https://ja.wikipedia.org/wiki/川上稔 "wikilink")が、イラストを[さとやす](https://ja.wikipedia.org/wiki/さとやす "wikilink")が担当している。
+異世界の[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")を描くイラストノベルで、台詞（ネーム）を[川上稔](../Page/川上稔.md "wikilink")が、イラストを[さとやす](https://ja.wikipedia.org/wiki/さとやす "wikilink")が担当している。
 
-[電撃hp](https://ja.wikipedia.org/wiki/電撃hp "wikilink") Volume.4に第1話が掲載され、Volume.6から本格的に連載が開始される。電撃hp Volume.10からは『[矛盾都市TOKYO](https://ja.wikipedia.org/wiki/矛盾都市TOKYO "wikilink")』の連載がスタートし、『創雅都市S.F』と交互に掲載されることとなる。全9回が掲載され、Volume.15にて最終回を迎えた。通販限定の単行本には書き下ろしの話が2話収録されている。
+[電撃hp](https://ja.wikipedia.org/wiki/電撃hp "wikilink") Volume.4に第1話が掲載され、Volume.6から本格的に連載が開始される。電撃hp Volume.10からは『[矛盾都市TOKYO](../Page/矛盾都市TOKYO.md "wikilink")』の連載がスタートし、『創雅都市S.F』と交互に掲載されることとなる。全9回が掲載され、Volume.15にて最終回を迎えた。通販限定の単行本には書き下ろしの話が2話収録されている。
 
 ## あらすじ
 
@@ -45,9 +45,9 @@
   - フェイ・ガーラント
     匪天（座天）。リンのオトコ。『[風水街都 香港](../Page/風水街都_香港.md "wikilink")』の項目を参照。
   - グレアン・クーラーズ
-    猫人。遠隔神術師。『[奏（騒）楽都市OSAKA](https://ja.wikipedia.org/wiki/ソウ楽都市OSAKA "wikilink")』の項目を参照。
+    猫人。遠隔神術師。『[奏（騒）楽都市OSAKA](../Page/ソウ楽都市OSAKA.md "wikilink")』の項目を参照。
   - 九条・句刻
-    人間。言霊師。『[奏（騒）楽都市OSAKA](https://ja.wikipedia.org/wiki/ソウ楽都市OSAKA "wikilink")』の項目を参照。
+    人間。言霊師。『[奏（騒）楽都市OSAKA](../Page/ソウ楽都市OSAKA.md "wikilink")』の項目を参照。
 
 ## 単行本
 

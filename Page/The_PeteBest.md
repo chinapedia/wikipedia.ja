@@ -1,30 +1,30 @@
 > この記事は[The PeteBest](https://ja.wikipedia.org/wiki/The_PeteBest)から翻訳されています。
 
 
-**the PeteBest**（ザ・ピートベスト）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に結成され、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に解散した。
+**the PeteBest**（ザ・ピートベスト）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に結成され、[2005年](../Page/2005年.md "wikilink")に解散した。
 
 ## 来歴
 
-[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に[中学校](../Page/中学校.md "wikilink")の同級生4人により、[大阪市](https://ja.wikipedia.org/wiki/大阪市 "wikilink")で結成された。メンバーは当時[ビートルズ](https://ja.wikipedia.org/wiki/ビートルズ "wikilink")のファンであり、ビートルズの本に記載されていた元ドラムス[ピート・ベスト](https://ja.wikipedia.org/wiki/ピート・ベスト "wikilink")の名前が目に留まったため、これをバンド名とした。メンバーの高校卒業を機に[1994年](../Page/1994年.md "wikilink")から活動拠点を東京に移し、路上でのライブやコンテストへのエントリーを積極的に行った。
+[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に[中学校](../Page/中学校.md "wikilink")の同級生4人により、[大阪市](../Page/大阪市.md "wikilink")で結成された。メンバーは当時[ビートルズ](../Page/ビートルズ.md "wikilink")のファンであり、ビートルズの本に記載されていた元ドラムス[ピート・ベスト](../Page/ピート・ベスト.md "wikilink")の名前が目に留まったため、これをバンド名とした。メンバーの高校卒業を機に[1994年](../Page/1994年.md "wikilink")から活動拠点を東京に移し、路上でのライブやコンテストへのエントリーを積極的に行った。
 
-[1996年](../Page/1996年.md "wikilink")、[CX系のオーディション番組](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[P-STOCK](https://ja.wikipedia.org/wiki/P-STOCK "wikilink")で優勝したことがきっかけとなり、シングル「日向ヶ丘」をインディーズからリリースした。さらに翌[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、[根岸孝旨](../Page/根岸孝旨.md "wikilink")のプロデュースでシングル「24.7 〜Super Sonic Shoes〜」を[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")よりリリースし、[メジャー・デビューした](https://ja.wikipedia.org/wiki/メジャー・デビュー_\(音楽家\) "wikilink")。
+[1996年](../Page/1996年.md "wikilink")、[CX系のオーディション番組](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[P-STOCK](https://ja.wikipedia.org/wiki/P-STOCK "wikilink")で優勝したことがきっかけとなり、シングル「日向ヶ丘」をインディーズからリリースした。さらに翌[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、[根岸孝旨](../Page/根岸孝旨.md "wikilink")のプロデュースでシングル「24.7 〜Super Sonic Shoes〜」を[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")よりリリースし、[メジャー・デビューした](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。
 
-4thシングル「Lucy」が[NHK-FM](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")[ミュージックスクエアのオープニングに](https://ja.wikipedia.org/wiki/ミュージックスクエア_\(NHK-FM\) "wikilink")、7thシングル「陽のあたる場所」が[TVKトーキョー](../Page/テレビ神奈川.md "wikilink")\#REMIXのオープニングにそれぞれ採用されて、ラジオを中心に注目を集めた。この両シングルは、[NACK5Japanese](../Page/エフエムナックファイブ.md "wikilink") Dreamのチャートでそれぞれ月間7位、月間4位にランクインした。
+4thシングル「Lucy」が[NHK-FM](../Page/NHK-FM放送.md "wikilink")[ミュージックスクエアのオープニングに](../Page/ミュージックスクエア_\(NHK-FM\).md "wikilink")、7thシングル「陽のあたる場所」が[TVKトーキョー](../Page/テレビ神奈川.md "wikilink")\#REMIXのオープニングにそれぞれ採用されて、ラジオを中心に注目を集めた。この両シングルは、[NACK5Japanese](../Page/エフエムナックファイブ.md "wikilink") Dreamのチャートでそれぞれ月間7位、月間4位にランクインした。
 
-[1999年](../Page/1999年.md "wikilink")にリリースされた2ndアルバム『the winding road』をレコーディングする直前にリードギターの川副が脱退して[スリーピース](https://ja.wikipedia.org/wiki/スリーピース "wikilink")バンドとなった。さらに[コロムビアに移籍してプロデューサーも](../Page/日本コロムビア.md "wikilink")[岡野ハジメ](https://ja.wikipedia.org/wiki/岡野ハジメ "wikilink")に変わった。
+[1999年](../Page/1999年.md "wikilink")にリリースされた2ndアルバム『the winding road』をレコーディングする直前にリードギターの川副が脱退して[スリーピース](https://ja.wikipedia.org/wiki/スリーピース "wikilink")バンドとなった。さらに[コロムビアに移籍してプロデューサーも](../Page/日本コロムビア.md "wikilink")[岡野ハジメ](../Page/岡野ハジメ.md "wikilink")に変わった。
 
-このことをきっかけにそれまでの[ギターポップ](../Page/ギターポップ.md "wikilink")から[ミクスチャー・ロック](https://ja.wikipedia.org/wiki/ミクスチャー・ロック "wikilink")へとバンドの音楽性を変化させた。このことは、ボーカル田辺の好きなバンドとして、ビートルズではなく[レッド・ホット・チリ・ペッパーズ](https://ja.wikipedia.org/wiki/レッド・ホット・チリ・ペッパーズ "wikilink")が第一に挙げられるようになったことからも分かる。
+このことをきっかけにそれまでの[ギターポップ](../Page/ギターポップ.md "wikilink")から[ミクスチャー・ロック](../Page/ミクスチャー・ロック.md "wikilink")へとバンドの音楽性を変化させた。このことは、ボーカル田辺の好きなバンドとして、ビートルズではなく[レッド・ホット・チリ・ペッパーズ](../Page/レッド・ホット・チリ・ペッパーズ.md "wikilink")が第一に挙げられるようになったことからも分かる。
 
 [2001年](../Page/2001年.md "wikilink")にはインディーズの若手バンド[ストレイテナー](https://ja.wikipedia.org/wiki/ストレイテナー "wikilink")に目をつけて共同でシングル「DRAGORUM」を制作した。続く4thアルバム『a decisive point』ではストレイテナーのホリエアツシをはじめとして多数の若手ミュージシャンをゲストとして招いた。
 
-[2003年](../Page/2003年.md "wikilink")にプライベートレーベルLOW-FATを設立してインディーズに後退した。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink")に[Shibuya O-Westでラストライブを行って解散した](https://ja.wikipedia.org/wiki/Shibuya_O-West "wikilink")。
+[2003年](../Page/2003年.md "wikilink")にプライベートレーベルLOW-FATを設立してインディーズに後退した。[2005年](../Page/2005年.md "wikilink")[7月23日](../Page/7月23日.md "wikilink")に[Shibuya O-Westでラストライブを行って解散した](https://ja.wikipedia.org/wiki/Shibuya_O-West "wikilink")。
 
 ## メンバー
 
   - 田辺 年男（たなべ としお、1976年2月16日 - ）
     [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")担当。B型。ほぼ全曲の作詞作曲も行う。解散後は目立った活動は行っていない。
   - 上総 誠一郎（かずさ せいいちろう、1975年11月17日 - ）
-    [ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。A型。愛称はカンサ。解散後は勝本浩文とともに[BRAZILIAN SIZEとして活動中](https://ja.wikipedia.org/wiki/BRAZILIAN_SIZE "wikilink")。
+    [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。A型。愛称はカンサ。解散後は勝本浩文とともに[BRAZILIAN SIZEとして活動中](https://ja.wikipedia.org/wiki/BRAZILIAN_SIZE "wikilink")。
   - 勝本 浩史（かつもと ひろふみ、1975年12月5日 - ）
     [ドラムス担当](../Page/ドラムセット.md "wikilink")。A型。愛称はパロ。解散後は上総誠一郎とともに[BRAZILIAN SIZEとして活動中](https://ja.wikipedia.org/wiki/BRAZILIAN_SIZE "wikilink")。
 
@@ -445,7 +445,7 @@
 |                                                         |                                                                                             |
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
 | **監督**                                                  | **曲名**                                                                                      |
-| [井上哲央](https://ja.wikipedia.org/wiki/井上哲央 "wikilink")   | 「Brand-new Ground」「Fight for your right」                                                    |
+| [井上哲央](../Page/井上哲央.md "wikilink")                      | 「Brand-new Ground」「Fight for your right」                                                    |
 | [MASAO](https://ja.wikipedia.org/wiki/MASAO "wikilink") | 「DRAGORUM」                                                                                  |
 | [御代川治子](https://ja.wikipedia.org/wiki/御代川治子 "wikilink") | 「[光跡](http://www.indiesmusic.com/musicvideo/video.asp?id=10042)」                            |
 | 不明                                                      | 「Break'em out」「24.7〜Super Sonic Shoes」「Friendship Song」「July」「Lucy」「play?」「風に吹かれて」「陽のあたる場所」 |
@@ -468,7 +468,7 @@
 
 親交のあるバンドのうち、特に著名なものは以下の3バンドである。
 
-  - [ELLEGARDEN](https://ja.wikipedia.org/wiki/ELLEGARDEN "wikilink")
+  - [ELLEGARDEN](../Page/ELLEGARDEN.md "wikilink")
   - [the pillows](https://ja.wikipedia.org/wiki/the_pillows "wikilink")
   - [ストレイテナー](https://ja.wikipedia.org/wiki/ストレイテナー "wikilink")
 

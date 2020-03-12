@@ -1,7 +1,7 @@
 > この記事は[ \(KOF\)](https://ja.wikipedia.org/wiki/_\(KOF\))から翻訳されています。
 
 
-**デューク** (**Duke**) は、[SNKの](../Page/SNK_\(2001年設立の企業\).md "wikilink")[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")『[KOF MAXIMUM IMPACT](https://ja.wikipedia.org/wiki/KOF_MAXIMUM_IMPACT "wikilink")』シリーズに登場する架空の人物。担当[声優](../Page/声優.md "wikilink")は[梁田清之](https://ja.wikipedia.org/wiki/梁田清之 "wikilink")。
+**デューク** (**Duke**) は、[SNKの](../Page/SNK_\(2001年設立の企業\).md "wikilink")[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")『[KOF MAXIMUM IMPACT](../Page/KOF_MAXIMUM_IMPACT.md "wikilink")』シリーズに登場する架空の人物。担当[声優](../Page/声優.md "wikilink")は[梁田清之](../Page/梁田清之.md "wikilink")。
 
 ## 概要
 
@@ -9,11 +9,11 @@
 
 [アルバ・メイラ](../Page/アルバ・メイラ.md "wikilink")と[ソワレ・メイラ](../Page/ソワレ・メイラ.md "wikilink")の宿敵。首に残された大きな傷跡から、「地獄の処刑人」「死なない男」という二つの異名を持つ。巨大組織「アデス」の最高幹部会「コカベルの子供たち」の一人に数えられている。
 
-かつては「クシエル」の幹部を務めていたが離脱。「メフィストフェレス」を立ち上げるも、自ら主催したKOFで返り討ちに遭い「メフィストフェレス」は崩壊、姿を消した。しかし、後に「アデス」の手先として出向く事になる。ちなみに、[ナガセとは同僚](https://ja.wikipedia.org/wiki/ナガセ_\(KOF\) "wikilink")。
+かつては「クシエル」の幹部を務めていたが離脱。「メフィストフェレス」を立ち上げるも、自ら主催したKOFで返り討ちに遭い「メフィストフェレス」は崩壊、姿を消した。しかし、後に「アデス」の手先として出向く事になる。ちなみに、[ナガセとは同僚](../Page/ナガセ_\(KOF\).md "wikilink")。
 
-「デューク」とは[コードネーム](../Page/コードネーム.md "wikilink")で、正式な名称は「D型強化人間」。[ジヴァートマ](https://ja.wikipedia.org/wiki/ジヴァートマ "wikilink")から「タイプD」と呼ばれるが、本人はその呼び名を極端に嫌っている。
+「デューク」とは[コードネーム](../Page/コードネーム.md "wikilink")で、正式な名称は「D型強化人間」。[ジヴァートマ](../Page/ジヴァートマ.md "wikilink")から「タイプD」と呼ばれるが、本人はその呼び名を極端に嫌っている。
 
-「アデス」が生み出した強化人間の一人だが、元々は普通の人間である。20年前は病気の妹がいたらしく、本来は強化手術と引き換えに妹の命を助けてもらう筈であったが、改造された後に「妹は病死した」と告げられた。以後、デュークはその事に疑問を感じ続けていた。[リアン・ネヴィル](https://ja.wikipedia.org/wiki/リアン・ネヴィル "wikilink")を助けたのは妹を彼女に重ねた為。曰く、妹はリアンよりお淑やかだったらしい。
+「アデス」が生み出した強化人間の一人だが、元々は普通の人間である。20年前は病気の妹がいたらしく、本来は強化手術と引き換えに妹の命を助けてもらう筈であったが、改造された後に「妹は病死した」と告げられた。以後、デュークはその事に疑問を感じ続けていた。[リアン・ネヴィル](../Page/リアン・ネヴィル.md "wikilink")を助けたのは妹を彼女に重ねた為。曰く、妹はリアンよりお淑やかだったらしい。
 
 『MI2』のエンディングで、妹の死の真実を知るために「アデス」を裏切った。ジヴァートマとデューク本人の発言によると、デュークに強化手術を施したのは**ジャランジ**という科学者であり、彼がデュークの妹の死の真実も知っているようである。
 
@@ -28,7 +28,7 @@
 ### 必殺技
 
   - パワーアックス
-    踏み込んで[ラリアット](https://ja.wikipedia.org/wiki/ラリアット "wikilink")を繰り出す。『MI2』では強で当てると相手が浮き上がる。
+    踏み込んで[ラリアット](../Page/ラリアット.md "wikilink")を繰り出す。『MI2』では強で当てると相手が浮き上がる。
   - トールハンマー
     力強いアッパーで相手を打ち上げる。強のみ2回繰り出せる。
   - スヴィル･ガン
@@ -59,14 +59,14 @@
 
   - [アルバ・メイラ](../Page/アルバ・メイラ.md "wikilink") - 宿敵
   - [ソワレ・メイラ](../Page/ソワレ・メイラ.md "wikilink") - 宿敵
-  - [リアン・ネヴィル](https://ja.wikipedia.org/wiki/リアン・ネヴィル "wikilink") - 従者？
-  - [ナガセ](https://ja.wikipedia.org/wiki/ナガセ_\(KOF\) "wikilink") - 同僚
-  - [ジヴァートマ](https://ja.wikipedia.org/wiki/ジヴァートマ "wikilink") - 上司
-  - [ハイエナ](https://ja.wikipedia.org/wiki/ハイエナ_\(KOF\) "wikilink") - 元・[腰巾着](https://ja.wikipedia.org/wiki/腰巾着 "wikilink")
+  - [リアン・ネヴィル](../Page/リアン・ネヴィル.md "wikilink") - 従者？
+  - [ナガセ](../Page/ナガセ_\(KOF\).md "wikilink") - 同僚
+  - [ジヴァートマ](../Page/ジヴァートマ.md "wikilink") - 上司
+  - [ハイエナ](../Page/ハイエナ_\(KOF\).md "wikilink") - 元・[腰巾着](https://ja.wikipedia.org/wiki/腰巾着 "wikilink")
 
 ## 関連項目
 
-  - [ザ・キング・オブ・ファイターズの登場人物](https://ja.wikipedia.org/wiki/ザ・キング・オブ・ファイターズの登場人物 "wikilink")
+  - [ザ・キング・オブ・ファイターズの登場人物](../Page/ザ・キング・オブ・ファイターズの登場人物.md "wikilink")
 
 [en:List of KOF: Maximum Impact characters\#Duke](https://ja.wikipedia.org/wiki/en:List_of_KOF:_Maximum_Impact_characters#Duke "wikilink")
 

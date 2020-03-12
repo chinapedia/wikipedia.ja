@@ -1,11 +1,11 @@
 > この記事は[FIVB](https://ja.wikipedia.org/wiki/FIVB)から翻訳されています。
 
 
-**FIVBランキング**（英語表記: **FIVB World Ranking**）は、[国際バレーボール連盟](https://ja.wikipedia.org/wiki/国際バレーボール連盟 "wikilink")（FIVB）より発表されるランキングである。
+**FIVBランキング**（英語表記: **FIVB World Ranking**）は、[国際バレーボール連盟](../Page/国際バレーボール連盟.md "wikilink")（FIVB）より発表されるランキングである。
 
-直近の幾つかの国際大会における順位を、それぞれ数値化（ポイント）したものを合計し、各国の[ナショナルシニアチームの現在の強さを示している](https://ja.wikipedia.org/wiki/ナショナルチーム "wikilink")。
+直近の幾つかの国際大会における順位を、それぞれ数値化（ポイント）したものを合計し、各国の[ナショナルシニアチームの現在の強さを示している](../Page/ナショナルチーム.md "wikilink")。
 
-FIVBが主催する国際大会（4年ごとに開催の「[世界選手権](../Page/バレーボール世界選手権.md "wikilink")」「[夏季五輪](https://ja.wikipedia.org/wiki/オリンピックバレーボール競技 "wikilink")」「[ワールドカップ](https://ja.wikipedia.org/wiki/バレーボールワールドカップ "wikilink")」、毎年開催の「[ワールドグランプリ](https://ja.wikipedia.org/wiki/バレーボール・ワールドグランプリ "wikilink")」「[ワールドリーグ](https://ja.wikipedia.org/wiki/バレーボール・ワールドリーグ "wikilink")」）、FIVB傘下の各大陸連盟が主催する国際大会（2年ごとに開催の「[大陸選手権](https://ja.wikipedia.org/wiki/大陸選手権_\(バレーボール\) "wikilink")」）の終了直後に、更新される。
+FIVBが主催する国際大会（4年ごとに開催の「[世界選手権](../Page/バレーボール世界選手権.md "wikilink")」「[夏季五輪](https://ja.wikipedia.org/wiki/オリンピックバレーボール競技 "wikilink")」「[ワールドカップ](../Page/バレーボールワールドカップ.md "wikilink")」、毎年開催の「[ワールドグランプリ](../Page/バレーボール・ワールドグランプリ.md "wikilink")」「[ワールドリーグ](../Page/バレーボール・ワールドリーグ.md "wikilink")」）、FIVB傘下の各大陸連盟が主催する国際大会（2年ごとに開催の「[大陸選手権](https://ja.wikipedia.org/wiki/大陸選手権_\(バレーボール\) "wikilink")」）の終了直後に、更新される。
 
 同様にアンダーエイジ（U-23、ジュニア（男子:U21、女子:U20）・ユース（男子:U19、女子U18））のランキングも発表されている。
 
@@ -420,7 +420,7 @@ FIVBが主催する国際大会（4年ごとに開催の「[世界選手権](../
 
   - 4年間 - [オリンピック](https://ja.wikipedia.org/wiki/オリンピックバレーボール競技 "wikilink")、[世界選手権](../Page/バレーボール世界選手権.md "wikilink")、オリンピック大陸予選\[11\]、オリンピック最終予選\[12\]、世界選手権予選\[13\]
   - 2年間 - [ワールドカップ](https://ja.wikipedia.org/wiki/バレーボール・ワールドカップ "wikilink")、大陸選手権
-  - 1年間 - [ワールドリーグ](https://ja.wikipedia.org/wiki/バレーボール・ワールドリーグ "wikilink")、[ワールドグランプリ](https://ja.wikipedia.org/wiki/バレーボール・ワールドグランプリ "wikilink")
+  - 1年間 - [ワールドリーグ](../Page/バレーボール・ワールドリーグ.md "wikilink")、[ワールドグランプリ](../Page/バレーボール・ワールドグランプリ.md "wikilink")
 
 ### ジュニア・ユース
 
@@ -435,8 +435,8 @@ U23・ジュニア及びユースのポイント有効期限は次の通り\[14\
 
   - [オリンピックバレーボール競技](https://ja.wikipedia.org/wiki/オリンピックバレーボール競技 "wikilink")
   - [バレーボール世界選手権](../Page/バレーボール世界選手権.md "wikilink")
-  - [バレーボール大会一覧](https://ja.wikipedia.org/wiki/バレーボール大会一覧 "wikilink")
-  - [バレーボールチーム一覧](https://ja.wikipedia.org/wiki/バレーボールチーム一覧 "wikilink")
+  - [バレーボール大会一覧](../Page/バレーボール大会一覧.md "wikilink")
+  - [バレーボールチーム一覧](../Page/バレーボールチーム一覧.md "wikilink")
 
 ## 外部リンク
 

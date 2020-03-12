@@ -1,31 +1,31 @@
 > この記事は[ \(KOF\)](https://ja.wikipedia.org/wiki/_\(KOF\))から翻訳されています。
 
 
-**ナガセ**（流星）は、[SNKの](../Page/SNK_\(2001年設立の企業\).md "wikilink")[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")『[KOF MAXIMUM IMPACT](https://ja.wikipedia.org/wiki/KOF_MAXIMUM_IMPACT "wikilink")』シリーズに登場する架空の人物。担当声優は[谷藤リョーコ](../Page/谷藤リョーコ.md "wikilink")。
+**ナガセ**（流星）は、[SNKの](../Page/SNK_\(2001年設立の企業\).md "wikilink")[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")『[KOF MAXIMUM IMPACT](../Page/KOF_MAXIMUM_IMPACT.md "wikilink")』シリーズに登場する架空の人物。担当声優は[谷藤リョーコ](../Page/谷藤リョーコ.md "wikilink")。
 
 ## 概要
 
 『KOF MAXIMUM IMPACT』（以下『MI』と表記）シリーズの『MI2』で初登場する。
 
-自称「[くノ一](../Page/くノ一.md "wikilink")」である[アキバ系](https://ja.wikipedia.org/wiki/アキバ系 "wikilink")[パソコン](../Page/パーソナルコンピュータ.md "wikilink")[忍者](https://ja.wikipedia.org/wiki/忍者 "wikilink")。正体は「アデス」の下部組織「ベルフェゴール」により改造された「N型強化人間」の少女。「ナガセ」は[コードネーム](../Page/コードネーム.md "wikilink")で、[ジヴァートマ](https://ja.wikipedia.org/wiki/ジヴァートマ "wikilink")からは「タイプN」と呼ばれる。
+自称「[くノ一](../Page/くノ一.md "wikilink")」である[アキバ系](https://ja.wikipedia.org/wiki/アキバ系 "wikilink")[パソコン](../Page/パーソナルコンピュータ.md "wikilink")[忍者](../Page/忍者.md "wikilink")。正体は「アデス」の下部組織「ベルフェゴール」により改造された「N型強化人間」の少女。「ナガセ」は[コードネーム](../Page/コードネーム.md "wikilink")で、[ジヴァートマ](../Page/ジヴァートマ.md "wikilink")からは「タイプN」と呼ばれる。
 
 伊賀流忍法をベースにした格闘術と「バトルディスクシステム」を取り込んでおり、見かけによらず高い戦闘能力を持つ。それ故に自信過剰気味な一面があり、「アデス」への忠誠心は毛頭もない。
 
 かなり口が悪く、傲岸不遜で生意気な[性格](../Page/性格.md "wikilink")。二人称は「お前」で、誰に対しても挑発的な態度を見せる。
 
-37Kgもある[プロテクター](https://ja.wikipedia.org/wiki/プロテクター "wikilink")の装備を義務付けられている。何らかの[副作用](../Page/副作用.md "wikilink")があるらしく、専用の[タブレット](https://ja.wikipedia.org/wiki/タブレット "wikilink")を飲まされていた。
+37Kgもある[プロテクター](../Page/プロテクター.md "wikilink")の装備を義務付けられている。何らかの[副作用](../Page/副作用.md "wikilink")があるらしく、専用の[タブレット](https://ja.wikipedia.org/wiki/タブレット "wikilink")を飲まされていた。
 
 「地獄の処刑人」と評される[デュークとは組織内の同僚](../Page/デューク_\(KOF\).md "wikilink")。ナガセは彼を「デュークちゃん」と呼んでいる。
 
-『MI2』での大会前、ジヴァートマからの指令で[ルイーゼ・マイリンク](https://ja.wikipedia.org/wiki/ルイーゼ・マイリンク "wikilink")と接触した事がある。暗殺の標的として格闘に挑むも、[素人](https://ja.wikipedia.org/wiki/素人 "wikilink")だと舐めてかかったせいか、ルイーゼの力に圧倒され敗れる。
+『MI2』での大会前、ジヴァートマからの指令で[ルイーゼ・マイリンク](../Page/ルイーゼ・マイリンク.md "wikilink")と接触した事がある。暗殺の標的として格闘に挑むも、[素人](https://ja.wikipedia.org/wiki/素人 "wikilink")だと舐めてかかったせいか、ルイーゼの力に圧倒され敗れる。
 
-大会の招待状の配達係を任されており、[八神庵](https://ja.wikipedia.org/wiki/八神庵 "wikilink")に招待状を渡しに出向いている。
+大会の招待状の配達係を任されており、[八神庵](../Page/八神庵.md "wikilink")に招待状を渡しに出向いている。
 
 秘密結社「ネスツ」出身の[クーラ・ダイアモンド](../Page/クーラ・ダイアモンド.md "wikilink")からは同情され、親近感めいた[感情](../Page/感情.md "wikilink")を向けられている。しかし、ナガセ自身は同情される事を嫌い、クーラを快く思っていない。
 
-不知火流継承者であるくノ一・[不知火舞](https://ja.wikipedia.org/wiki/不知火舞 "wikilink")を[ライバル](https://ja.wikipedia.org/wiki/ライバル "wikilink")意識している。「忍びのくせに目立ちすぎ」ている舞の事が気に入らないらしい。
+不知火流継承者であるくノ一・[不知火舞](../Page/不知火舞.md "wikilink")を[ライバル](../Page/ライバル.md "wikilink")意識している。「忍びのくせに目立ちすぎ」ている舞の事が気に入らないらしい。
 
-[マキシマや](https://ja.wikipedia.org/wiki/マキシマ_\(KOF\) "wikilink")[セス](https://ja.wikipedia.org/wiki/セス_\(KOF\) "wikilink")、[二代目Mr.KARATEなどが好みのタイプ](https://ja.wikipedia.org/wiki/リョウ・サカザキ "wikilink")。「男の魅力は顔じゃなくて背中に現れる」というのが自論。
+[マキシマや](../Page/マキシマ_\(KOF\).md "wikilink")[セス](https://ja.wikipedia.org/wiki/セス_\(KOF\) "wikilink")、[二代目Mr.KARATEなどが好みのタイプ](../Page/リョウ・サカザキ.md "wikilink")。「男の魅力は顔じゃなくて背中に現れる」というのが自論。
 
 『MI2』のエンディングで「アデス」を裏切る事になる（抜け忍となる）。
 
@@ -52,7 +52,7 @@
       - CODE：ティンクル
 
       - CODE：スプライツ
-        「シューティングスター」からの追加技。技名は『[ティンクルスタースプライツ](https://ja.wikipedia.org/wiki/ティンクルスタースプライツ "wikilink")』から。
+        「シューティングスター」からの追加技。技名は『[ティンクルスタースプライツ](../Page/ティンクルスタースプライツ.md "wikilink")』から。
   - ラウンドトリッキー
     半蔵の「うつせみ地斬」に相当する技。
       - ブレーキングトリッキー
@@ -85,22 +85,22 @@
 
 ## その他
 
-  - 「流星（ながせ）」の名はアニメ『[マシンロボ クロノスの大逆襲](https://ja.wikipedia.org/wiki/マシンロボ_クロノスの大逆襲 "wikilink")』に登場する剣の名に由来する。デザインコンセプトは「[蜂](../Page/ハチ.md "wikilink")」。
+  - 「流星（ながせ）」の名はアニメ『[マシンロボ クロノスの大逆襲](../Page/マシンロボ_クロノスの大逆襲.md "wikilink")』に登場する剣の名に由来する。デザインコンセプトは「[蜂](../Page/ハチ.md "wikilink")」。
 
 ## 関連人物
 
-  - [ジヴァートマ](https://ja.wikipedia.org/wiki/ジヴァートマ "wikilink") - 上司
+  - [ジヴァートマ](../Page/ジヴァートマ.md "wikilink") - 上司
   - [デューク](../Page/デューク_\(KOF\).md "wikilink") - 同僚
-  - [ルイーゼ・マイリンク](https://ja.wikipedia.org/wiki/ルイーゼ・マイリンク "wikilink") - 宿敵・暗殺の標的
+  - [ルイーゼ・マイリンク](../Page/ルイーゼ・マイリンク.md "wikilink") - 宿敵・暗殺の標的
   - [クーラ・ダイアモンド](../Page/クーラ・ダイアモンド.md "wikilink") - 近親憎悪？
-  - [不知火舞](https://ja.wikipedia.org/wiki/不知火舞 "wikilink") - ライバル視
-  - [マキシマ](https://ja.wikipedia.org/wiki/マキシマ_\(KOF\) "wikilink") - 好意
+  - [不知火舞](../Page/不知火舞.md "wikilink") - ライバル視
+  - [マキシマ](../Page/マキシマ_\(KOF\).md "wikilink") - 好意
   - [セス](https://ja.wikipedia.org/wiki/セス_\(KOF\) "wikilink") - 好意
-  - [二代目Mr.KARATE](https://ja.wikipedia.org/wiki/リョウ・サカザキ "wikilink") - 好意
+  - [二代目Mr.KARATE](../Page/リョウ・サカザキ.md "wikilink") - 好意
   - [服部半蔵](../Page/服部半蔵_\(サムライスピリッツ\).md "wikilink") - 伊賀流つながり
 
 ## 関連項目
 
-  - [ザ・キング・オブ・ファイターズの登場人物](https://ja.wikipedia.org/wiki/ザ・キング・オブ・ファイターズの登場人物 "wikilink")
+  - [ザ・キング・オブ・ファイターズの登場人物](../Page/ザ・キング・オブ・ファイターズの登場人物.md "wikilink")
 
 [Category:ザ・キング・オブ・ファイターズの登場人物](https://ja.wikipedia.org/wiki/Category:ザ・キング・オブ・ファイターズの登場人物 "wikilink") [Category:架空の忍者](https://ja.wikipedia.org/wiki/Category:架空の忍者 "wikilink")

@@ -1,15 +1,15 @@
 > この記事は[MOVING FILE](https://ja.wikipedia.org/wiki/MOVING_FILE)から翻訳されています。
 
 
-**MOVING FILE**（ムービング ファイル）は、[エフエム京都](../Page/エフエム京都.md "wikilink")（α-STATION）で平日の夕方に放送されている[報道](../Page/報道番組.md "wikilink")・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。[DJは](https://ja.wikipedia.org/wiki/ディスクジョッキー "wikilink")[秋田美幸](https://ja.wikipedia.org/wiki/秋田美幸 "wikilink")。[2012年](../Page/2012年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")の番組改編に伴い、一旦終了したが、2016年4月の番組改編で復活。
+**MOVING FILE**（ムービング ファイル）は、[エフエム京都](../Page/エフエム京都.md "wikilink")（α-STATION）で平日の夕方に放送されている[報道](../Page/報道番組.md "wikilink")・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。[DJは](../Page/ディスクジョッキー.md "wikilink")[秋田美幸](https://ja.wikipedia.org/wiki/秋田美幸 "wikilink")。[2012年](../Page/2012年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")の番組改編に伴い、一旦終了したが、2016年4月の番組改編で復活。
 
 ## 放送時間
 
 ### 第1期
 
-  - 2004年4月〜[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - 土曜19:00〜23:00
+  - 2004年4月〜[2005年](../Page/2005年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - 土曜19:00〜23:00
       - 2004年3月まで毎週金曜日に放送されていた『MOVING FRIDAY』の放送時間変更という形で始まった。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")〜[2009年](../Page/2009年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - 土曜19:00〜22:00
+  - [2005年](../Page/2005年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")〜[2009年](../Page/2009年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - 土曜19:00〜22:00
       - 『[URBAN STORM](https://ja.wikipedia.org/wiki/URBAN_STORM "wikilink")』開始に伴い、1時間短縮。
   - [2009年](../Page/2009年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")〜 - 日曜14:00〜16:00
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")〜 [2012年](../Page/2012年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")- 日曜17:00～19:00

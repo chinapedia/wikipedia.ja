@@ -1,15 +1,15 @@
 > この記事は[Livedoor ](https://ja.wikipedia.org/wiki/Livedoor_)から翻訳されています。
 
 
-**livedoor メール**（ライブドアメール、または**ドアメール**）は、[NHN Japan](https://ja.wikipedia.org/wiki/LINE_\(企業\) "wikilink")[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")が提供していた[フリーメールサービス](https://ja.wikipedia.org/wiki/フリーメールサービス "wikilink")。
+**livedoor メール**（ライブドアメール、または**ドアメール**）は、[NHN Japan](https://ja.wikipedia.org/wiki/LINE_\(企業\) "wikilink")[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")が提供していた[フリーメールサービス](../Page/フリーメールサービス.md "wikilink")。
 
 ## 歴史
 
-2000年8月4日、「[ライブドア](https://ja.wikipedia.org/wiki/ライブドア "wikilink")･ウェブメール」として誕生\[1\]。
+2000年8月4日、「[ライブドア](../Page/ライブドア.md "wikilink")･ウェブメール」として誕生\[1\]。
 
 ### 日本初の1GBフリーメールサービス
 
-2004年7月1日、1[GB容量のウェブメール](../Page/バイト_\(情報\).md "wikilink")「livedoor ギガメーラー」としてベータサービスを開始\[2\]\[3\]。ギガバイト級の容量を有するメールサービスは当時すでに[Google](../Page/Google.md "wikilink")のベータ版[Gmail](https://ja.wikipedia.org/wiki/Gmail "wikilink")が先んじて登場していたが、日本語対応のウェブメールでは同サービスが初めてだった\[4\]。なお、この時点ではlivedoor Blog PROとlivedor接続サービスの有料プランを利用している会員の中から先着1万人限定で登録を受け付けるのみに止まっていた。また、容量は[メールボックスと](../Page/電子メール.md "wikilink")[ブリーフケース](https://ja.wikipedia.org/wiki/ブリーフケース "wikilink")の50MBを合わせての1GBだった。
+2004年7月1日、1[GB容量のウェブメール](../Page/バイト_\(情報\).md "wikilink")「livedoor ギガメーラー」としてベータサービスを開始\[2\]\[3\]。ギガバイト級の容量を有するメールサービスは当時すでに[Google](../Page/Google.md "wikilink")のベータ版[Gmail](../Page/Gmail.md "wikilink")が先んじて登場していたが、日本語対応のウェブメールでは同サービスが初めてだった\[4\]。なお、この時点ではlivedoor Blog PROとlivedor接続サービスの有料プランを利用している会員の中から先着1万人限定で登録を受け付けるのみに止まっていた。また、容量は[メールボックスと](../Page/電子メール.md "wikilink")[ブリーフケース](../Page/ブリーフケース.md "wikilink")の50MBを合わせての1GBだった。
 
 同年8月4日にはユーザー数制限が解除され、libedoor IDを登録すれば誰でも利用できるようになり、同時に[日本エフ・セキュア社による無料のウイルスメール対策サービスも提供開始](../Page/F-Secure.md "wikilink")\[5\]\[6\]。同月17日には携帯電話からの利用に対応\[7\]。さらに同年9月2日には日英・英日の自動翻訳機能を追加\[8\]。
 
@@ -19,7 +19,7 @@
 
 ### Google・Gmailの採用
 
-同サービスは200万人の利用者を抱える規模にまで至ったものの、オープン以来赤字が続いており、収益化のためのリニューアルを必須としていた\[13\]。そのため[2007年](../Page/2007年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")、[Google](../Page/Google.md "wikilink")が提供する無料メールサービス「[Gmail](https://ja.wikipedia.org/wiki/Gmail "wikilink")」を採用した、新しいメールシステムへの移行を発表\[14\]。これに伴い、容量は2GBとなり、有料オプションは終了（メールプラス自体は残るが、課金は2007年[8月](../Page/8月.md "wikilink")以降なくなる）。[インターフェースはGmailのものとほぼ同様で](../Page/インタフェース_\(情報技術\).md "wikilink")、ロゴがライブドアのものとなっている。メールアドレスの形式は「＠[サブドメイン](../Page/ドメイン名.md "wikilink").livedoor.com」から「＠livedoor.com」へと変更された。なお、旧livedoorメールのデータ移行は申し込み制となっており、申請が必要である。[フォルダ](https://ja.wikipedia.org/wiki/フォルダ "wikilink")設定、[フィルタ](https://ja.wikipedia.org/wiki/フィルタ "wikilink")設定、送信メール等は移行されない。なお、一定期間ログインしていなかった場合もアカウントは削除されない点が他の[フリーメール](https://ja.wikipedia.org/wiki/フリーメール "wikilink")と異なる\[15\]。
+同サービスは200万人の利用者を抱える規模にまで至ったものの、オープン以来赤字が続いており、収益化のためのリニューアルを必須としていた\[13\]。そのため[2007年](../Page/2007年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")、[Google](../Page/Google.md "wikilink")が提供する無料メールサービス「[Gmail](../Page/Gmail.md "wikilink")」を採用した、新しいメールシステムへの移行を発表\[14\]。これに伴い、容量は2GBとなり、有料オプションは終了（メールプラス自体は残るが、課金は2007年[8月](../Page/8月.md "wikilink")以降なくなる）。[インターフェースはGmailのものとほぼ同様で](../Page/インタフェース_\(情報技術\).md "wikilink")、ロゴがライブドアのものとなっている。メールアドレスの形式は「＠[サブドメイン](../Page/ドメイン名.md "wikilink").livedoor.com」から「＠livedoor.com」へと変更された。なお、旧livedoorメールのデータ移行は申し込み制となっており、申請が必要である。[フォルダ](https://ja.wikipedia.org/wiki/フォルダ "wikilink")設定、[フィルタ](https://ja.wikipedia.org/wiki/フィルタ "wikilink")設定、送信メール等は移行されない。なお、一定期間ログインしていなかった場合もアカウントは削除されない点が他の[フリーメール](https://ja.wikipedia.org/wiki/フリーメール "wikilink")と異なる\[15\]。
 
 2007年[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")にGoogleが公式ブログでGmailの容量大幅拡大を発表した事に伴い後日、livedoorメールも容量が約4GBとなった。その後もGmailの容量拡大にあわせており[2012年](../Page/2012年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")現在はGmailの7666MBに対して、 7660MBとなっている。
 
@@ -35,7 +35,7 @@
 
 ## 関連項目
 
-  - [Gmail](https://ja.wikipedia.org/wiki/Gmail "wikilink")
+  - [Gmail](../Page/Gmail.md "wikilink")
   - [Yahoo\!メール](../Page/Yahoo!メール.md "wikilink")
 
 ## 外部リンク

@@ -1,7 +1,7 @@
 > この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
 
 
-**遭遇難易度ランキングTV**（そうぐうなんいどランキングテレビ）は、[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")の[クイズ](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")[単発特別番組枠](https://ja.wikipedia.org/wiki/単発特別番組枠 "wikilink")『[すくいず\!](https://ja.wikipedia.org/wiki/すくいず! "wikilink")』の中で放送された企画の一つ、企画第5弾および[特別番組](https://ja.wikipedia.org/wiki/特別番組 "wikilink")。
+**遭遇難易度ランキングTV**（そうぐうなんいどランキングテレビ）は、[テレビ朝日](../Page/テレビ朝日.md "wikilink")の[クイズ](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")[単発特別番組枠](../Page/単発特別番組枠.md "wikilink")『[すくいず\!](https://ja.wikipedia.org/wiki/すくいず! "wikilink")』の中で放送された企画の一つ、企画第5弾および[特別番組](../Page/特別番組.md "wikilink")。
 
 ## 内容
 
@@ -15,7 +15,7 @@
 
 ### 司会
 
-  - [南海キャンディーズ](https://ja.wikipedia.org/wiki/南海キャンディーズ "wikilink")（[山里亮太](https://ja.wikipedia.org/wiki/山里亮太 "wikilink")・[しずちゃん](https://ja.wikipedia.org/wiki/山崎静代 "wikilink")）
+  - [南海キャンディーズ](../Page/南海キャンディーズ.md "wikilink")（[山里亮太](../Page/山里亮太.md "wikilink")・[しずちゃん](../Page/山崎静代.md "wikilink")）
 
 ### 解答者
 
@@ -32,8 +32,8 @@
 
 ## 主なスタッフ
 
-  - 構成：[都築浩](https://ja.wikipedia.org/wiki/都築浩 "wikilink")
-  - リサーチ：[Vispo](https://ja.wikipedia.org/wiki/ビスポ "wikilink")
+  - 構成：[都築浩](../Page/都築浩.md "wikilink")
+  - リサーチ：[Vispo](../Page/ビスポ.md "wikilink")
   - 編成：[岩崎浩](https://ja.wikipedia.org/wiki/岩崎浩 "wikilink")（テレビ朝日）
   - 宣伝：[蓮実理奈](https://ja.wikipedia.org/wiki/蓮実理奈 "wikilink")・[曲尾有香](https://ja.wikipedia.org/wiki/曲尾有香 "wikilink")（テレビ朝日）
   - デスク：佐藤まゆみ（テレビ朝日）
@@ -42,8 +42,8 @@
   - ディレクター：有馬巨人、堤俊博、小野哲司
   - 演出：藤田賢城（BERMUDA）
   - プロデューサー：[金澤美保](https://ja.wikipedia.org/wiki/金澤美保 "wikilink")（テレビ朝日）／[奥田創史](https://ja.wikipedia.org/wiki/奥田創史 "wikilink")（テレビ朝日）
-  - チーフプロデューサー：[蓮実一隆](https://ja.wikipedia.org/wiki/蓮実一隆 "wikilink")（テレビ朝日）
-  - 技術協力：[テイクシステムズ](https://ja.wikipedia.org/wiki/テイクシステムズ "wikilink")、[共立照明](https://ja.wikipedia.org/wiki/共立_\(照明\) "wikilink")、[日放](https://ja.wikipedia.org/wiki/日放 "wikilink")
+  - チーフプロデューサー：[蓮実一隆](../Page/蓮実一隆.md "wikilink")（テレビ朝日）
+  - 技術協力：[テイクシステムズ](../Page/テイクシステムズ.md "wikilink")、[共立照明](../Page/共立_\(照明\).md "wikilink")、[日放](../Page/日放.md "wikilink")
   - 企画協力：[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")（[片山勝三](https://ja.wikipedia.org/wiki/片山勝三 "wikilink")・[坪倉大輔](https://ja.wikipedia.org/wiki/坪倉大輔 "wikilink")）
   - 制作協力：[BERMUDA](https://ja.wikipedia.org/wiki/バミューダ_\(テレビ制作会社\) "wikilink")
   - 制作著作：テレビ朝日

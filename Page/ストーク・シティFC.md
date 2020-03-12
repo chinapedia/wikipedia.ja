@@ -1,13 +1,13 @@
 > この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
 
 
-**ストーク・シティFC**（Stoke City Football Club）は、[イングランド](../Page/イングランド.md "wikilink")・[ストーク＝オン＝トレント](https://ja.wikipedia.org/wiki/ストーク＝オン＝トレント "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。愛称はポッターズ（陶器職人の意）。
+**ストーク・シティFC**（Stoke City Football Club）は、[イングランド](../Page/イングランド.md "wikilink")・[ストーク＝オン＝トレント](../Page/ストーク＝オン＝トレント.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。愛称はポッターズ（陶器職人の意）。
 
 ## 概要
 
 1888-89シーズンに始まった[フットボールリーグ](https://ja.wikipedia.org/wiki/フットボールリーグ "wikilink")において最初の12クラブの一つとして名を連ねた。往年の名ウイングである[スタンリー・マシューズ](../Page/スタンリー・マシューズ.md "wikilink")が在籍した事で知られ、キャリアの半分以上を同クラブで過ごした。
 
-また、クラブが獲得した唯一の主要タイトルは、1971-72シーズンの[フットボールリーグカップ](https://ja.wikipedia.org/wiki/フットボールリーグカップ "wikilink")であるが、[チェルシーとの決勝戦において好セーブをみせたGKの](https://ja.wikipedia.org/wiki/チェルシーFC "wikilink")[ゴードン・バンクス](https://ja.wikipedia.org/wiki/ゴードン・バンクス "wikilink")は、この年の[FWA年間最優秀選手賞](../Page/FWA年間最優秀選手賞.md "wikilink")に選ばれた。
+また、クラブが獲得した唯一の主要タイトルは、1971-72シーズンの[フットボールリーグカップ](https://ja.wikipedia.org/wiki/フットボールリーグカップ "wikilink")であるが、[チェルシーとの決勝戦において好セーブをみせたGKの](https://ja.wikipedia.org/wiki/チェルシーFC "wikilink")[ゴードン・バンクス](../Page/ゴードン・バンクス.md "wikilink")は、この年の[FWA年間最優秀選手賞](../Page/FWA年間最優秀選手賞.md "wikilink")に選ばれた。
 
 ホームスタジアムは1997年完成の[Bet365スタジアムを使用する](https://ja.wikipedia.org/wiki/ブリタニア・スタジアム "wikilink")。1878年から1997年までは一世紀以上に渡って[ヴィクトリア・グラウンドを使用していた](https://ja.wikipedia.org/wiki/:en:Victoria_Ground "wikilink")。
 
@@ -19,13 +19,13 @@
 
 2007-08シーズンのチャンピオンシップで2位に食い込み、1984-85シーズンの降格以来、23年ぶりに1部（[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")創設以降では初めて）昇格を決めた。
 
-プレミアリーグ初シーズンとなった2008-09シーズンの序盤は、勝点を伸ばすことができず開幕前の降格有力候補の予想通りに下位に低迷した。 ところが終盤に差し掛かると、冬の移籍シーズンに[シェフィールド・ユナイテッドから獲得した](https://ja.wikipedia.org/wiki/シェフィールド・ユナイテッドFC "wikilink")[ジェームズ・ビーティー](https://ja.wikipedia.org/wiki/ジェームズ・ビーティー "wikilink")の大活躍や残留を争っていたチームから確実にポイントを獲得するなどした結果、大方の予想を覆して残留を決めた。
+プレミアリーグ初シーズンとなった2008-09シーズンの序盤は、勝点を伸ばすことができず開幕前の降格有力候補の予想通りに下位に低迷した。 ところが終盤に差し掛かると、冬の移籍シーズンに[シェフィールド・ユナイテッドから獲得した](../Page/シェフィールド・ユナイテッドFC.md "wikilink")[ジェームズ・ビーティー](../Page/ジェームズ・ビーティー.md "wikilink")の大活躍や残留を争っていたチームから確実にポイントを獲得するなどした結果、大方の予想を覆して残留を決めた。
 
-2010-11シーズンには[FAカップ](../Page/FAカップ.md "wikilink")で決勝に進出、[マンチェスター・シティFC](https://ja.wikipedia.org/wiki/マンチェスター・シティFC "wikilink")に0-1で敗れたが、シティが[UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")出場権を獲得したため、クラブ初の[UEFAヨーロッパリーグ](../Page/UEFAヨーロッパリーグ.md "wikilink")出場権を獲得した。
+2010-11シーズンには[FAカップ](../Page/FAカップ.md "wikilink")で決勝に進出、[マンチェスター・シティFC](../Page/マンチェスター・シティFC.md "wikilink")に0-1で敗れたが、シティが[UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")出場権を獲得したため、クラブ初の[UEFAヨーロッパリーグ](../Page/UEFAヨーロッパリーグ.md "wikilink")出場権を獲得した。
 
-2013年5月30日、ウェールズ人の[マーク・ヒューズが](https://ja.wikipedia.org/wiki/マーク・ヒューズ_\(ウェールズ人サッカー選手\) "wikilink")3年契約で監督に就任した\[4\]\[5\]。2013-14シーズンは9位で終え、1974-75シーズンの5位以来の高順位を記録し\[6\]、2014-15シーズンは勝ち点54で2年連続9位で終えた\[7\]。
+2013年5月30日、ウェールズ人の[マーク・ヒューズが](../Page/マーク・ヒューズ_\(ウェールズ人サッカー選手\).md "wikilink")3年契約で監督に就任した\[4\]\[5\]。2013-14シーズンは9位で終え、1974-75シーズンの5位以来の高順位を記録し\[6\]、2014-15シーズンは勝ち点54で2年連続9位で終えた\[7\]。
 
-[チャンピオンシップに降格して迎えた](https://ja.wikipedia.org/wiki/EFLチャンピオンシップ "wikilink")2018-19シーズンは夏の移籍市場において、選手獲得に5000万ポンド近くを費やしたものの、シーズン46試合中の22試合が引き分け（そのうち9試合が0-0）で勝ち点を伸ばすことができず、最終的に16位でシーズンを終えた\[8\]。
+[チャンピオンシップに降格して迎えた](../Page/EFLチャンピオンシップ.md "wikilink")2018-19シーズンは夏の移籍市場において、選手獲得に5000万ポンド近くを費やしたものの、シーズン46試合中の22試合が引き分け（そのうち9試合が0-0）で勝ち点を伸ばすことができず、最終的に16位でシーズンを終えた\[8\]。
 
 ## クラブ各種記録
 
@@ -35,7 +35,7 @@
 
 **一試合最多観客動員数（[ブリタニア・スタジアム](https://ja.wikipedia.org/wiki/ブリタニア・スタジアム "wikilink")）**
 
-  - 28,218人 vs [エヴァートン](https://ja.wikipedia.org/wiki/エヴァートンFC "wikilink") 2002.2.5
+  - 28,218人 vs [エヴァートン](../Page/エヴァートンFC.md "wikilink") 2002.2.5
 
 **リーグ最高順位**
 
@@ -43,11 +43,11 @@
 
 **一試合最多得点勝利試合**
 
-  - 　10-3 vs [ウェスト・ブロムウィッチ・アルビオン](https://ja.wikipedia.org/wiki/ウェスト・ブロムウィッチ・アルビオンFC "wikilink") 1937
+  - 　10-3 vs [ウェスト・ブロムウィッチ・アルビオン](../Page/ウェスト・ブロムウィッチ・アルビオンFC.md "wikilink") 1937
 
 **一試合最多失点敗戦試合**
 
-  - 　0-10 vs [プレストン・ノースエンド](https://ja.wikipedia.org/wiki/プレストン・ノースエンドFC "wikilink") 1889
+  - 　0-10 vs [プレストン・ノースエンド](../Page/プレストン・ノースエンドFC.md "wikilink") 1889
 
 ## タイトル
 
@@ -296,7 +296,7 @@
 <td><p>1972-73</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1972-73" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1.FCカイザースラウテルン" title="wikilink">カイザースラウテルン</a></p></td>
+<td><p><a href="../Page/1.FCカイザースラウテルン.md" title="wikilink">カイザースラウテルン</a></p></td>
 <td><p>3–1</p></td>
 <td><p>0–4</p></td>
 <td><p>'''3–5</p></td>
@@ -306,7 +306,7 @@
 <td><p>1974-75</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1974-75" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アヤックス・アムステルダム" title="wikilink">アヤックス</a></p></td>
+<td><p><a href="../Page/アヤックス・アムステルダム.md" title="wikilink">アヤックス</a></p></td>
 <td><p>1–1</p></td>
 <td><p>0–0</p></td>
 <td><p>'''1–1 (a)</p></td>
@@ -324,7 +324,7 @@
 </tr>
 <tr class="even">
 <td><p>プレーオフ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCトゥーン" title="wikilink">トゥーン</a></p></td>
+<td><p><a href="../Page/FCトゥーン.md" title="wikilink">トゥーン</a></p></td>
 <td><p>4–1</p></td>
 <td><p>1–0</p></td>
 <td><p>'''5–1</p></td>
@@ -334,7 +334,7 @@
 </tr>
 <tr class="odd">
 <td><p>グループE</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ベシクタシュJK" title="wikilink">ベシクタシュ</a></p></td>
+<td><p><a href="../Page/ベシクタシュJK.md" title="wikilink">ベシクタシュ</a></p></td>
 <td><p>2–1</p></td>
 <td><p>1–3</p></td>
 <td><p>'''2位</p></td>
@@ -343,7 +343,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/FCディナモ・キエフ" title="wikilink">ディナモ・キエフ</a></p></td>
+<td><p><a href="../Page/FCディナモ・キエフ.md" title="wikilink">ディナモ・キエフ</a></p></td>
 <td><p>1–1</p></td>
 <td><p>1–1</p></td>
 <td></td>
@@ -353,7 +353,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/マッカビ・テルアビブFC" title="wikilink">マッカビ・テルアビブ</a></p></td>
+<td><p><a href="../Page/マッカビ・テルアビブFC.md" title="wikilink">マッカビ・テルアビブ</a></p></td>
 <td><p>3–0</p></td>
 <td><p>2–1</p></td>
 <td></td>
@@ -364,7 +364,7 @@
 </tr>
 <tr class="even">
 <td><p>ラウンド32</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/バレンシアCF" title="wikilink">バレンシア</a></p></td>
+<td><p><a href="../Page/バレンシアCF.md" title="wikilink">バレンシア</a></p></td>
 <td><p>0–1</p></td>
 <td><p>0–1</p></td>
 <td><p>'''0–2</p></td>
@@ -863,7 +863,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/マーク・ヒューズ_(ウェールズ人サッカー選手)" title="wikilink">マーク・ヒューズ</a></p></td>
+<td><p><a href="../Page/マーク・ヒューズ_(ウェールズ人サッカー選手).md" title="wikilink">マーク・ヒューズ</a></p></td>
 <td></td>
 <td></td>
 <td><p>[44]</p></td>
@@ -874,7 +874,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ポール・ランバート" title="wikilink">ポール・ランバート</a></p></td>
+<td><p><a href="../Page/ポール・ランバート.md" title="wikilink">ポール・ランバート</a></p></td>
 <td></td>
 <td></td>
 <td><p>[45]</p></td>

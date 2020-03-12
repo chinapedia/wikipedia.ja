@@ -7,7 +7,7 @@
 
 2002年12月　リーダー永竿（As）を中心に結成される。 数々のメンバーチェンジを繰り返しながら現在のメンバーとなり活動中。 オーセンティックを基本にはしているが、それだけにはとどまらないスカパンク、ロックも取り入れた独自のスキャフォニサウンドを展開している。
 
-2007年にはDown Beat Rulerに出演、[スカフレイムス](https://ja.wikipedia.org/wiki/スカフレイムス "wikilink")や[Oi-SKALL MATESと共演](https://ja.wikipedia.org/wiki/Oi-SKALL_MATES "wikilink")。
+2007年にはDown Beat Rulerに出演、[スカフレイムス](../Page/スカフレイムス.md "wikilink")や[Oi-SKALL MATESと共演](https://ja.wikipedia.org/wiki/Oi-SKALL_MATES "wikilink")。
 
 ## メンバー
 

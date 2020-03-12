@@ -10,7 +10,7 @@
 ## 沿革
 
   - [1933年](../Page/1933年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink") - 創業。
-  - [1954年](../Page/1954年.md "wikilink")[3月21日](https://ja.wikipedia.org/wiki/3月21日 "wikilink") - 株式会社土屋組に組織変更。
+  - [1954年](../Page/1954年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink") - 株式会社土屋組に組織変更。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[12月1日](../Page/12月1日.md "wikilink") - TSUCHIYA株式会社に社名変更。
 
 ## 許認可
@@ -21,7 +21,7 @@
 ## 事業所
 
   - 本社所在地：[岐阜県](../Page/岐阜県.md "wikilink")[大垣市](../Page/大垣市.md "wikilink")神田町二丁目55番地
-  - 東京本社所在地：[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")東陽二丁目2番地4号マニュライフプレイス東陽町
+  - 東京本社所在地：[東京都](../Page/東京都.md "wikilink")[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")東陽二丁目2番地4号マニュライフプレイス東陽町
   - 支社：東京・名古屋・関西
   - 支店：北海道・東北・横浜・三重・北陸・神戸・中国・九州
   - 営業所：西東京・埼玉・千葉・岐阜・静岡・春日井・滋賀・沖縄

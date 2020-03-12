@@ -1,11 +1,11 @@
 > この記事は[SPACE BOY](https://ja.wikipedia.org/wiki/SPACE_BOY)から翻訳されています。
 
 
-**SPACE BOY**（スペース・ボーイ）とは、[エイベックスから発売されている](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")『[SUPER EUROBEAT](https://ja.wikipedia.org/wiki/SUPER_EUROBEAT "wikilink")』シリーズに収録された、[ユーロビート](https://ja.wikipedia.org/wiki/ユーロビート "wikilink")ミュージシャン、[デイブ・ロジャース](https://ja.wikipedia.org/wiki/デイブ・ロジャース "wikilink")のナンバーである。
+**SPACE BOY**（スペース・ボーイ）とは、[エイベックスから発売されている](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")『[SUPER EUROBEAT](https://ja.wikipedia.org/wiki/SUPER_EUROBEAT "wikilink")』シリーズに収録された、[ユーロビート](../Page/ユーロビート.md "wikilink")ミュージシャン、[デイブ・ロジャース](../Page/デイブ・ロジャース.md "wikilink")のナンバーである。
 
 ## 概要
 
-  - ヴォーカルの[デイブ・ロジャース](https://ja.wikipedia.org/wiki/デイブ・ロジャース "wikilink")自身がプロデューサーを務めるイタリアの[ユーロビート](https://ja.wikipedia.org/wiki/ユーロビート "wikilink")レーベル・A-BEAT Cより、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")にリリースされたナンバーであり、『SUPER EUROBEAT VOL.87』にて初収録された。
+  - ヴォーカルの[デイブ・ロジャース](../Page/デイブ・ロジャース.md "wikilink")自身がプロデューサーを務めるイタリアの[ユーロビート](../Page/ユーロビート.md "wikilink")レーベル・A-BEAT Cより、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")にリリースされたナンバーであり、『SUPER EUROBEAT VOL.87』にて初収録された。
   - 同シリーズにおいては、キリ番企画として時々行われていたリクエストカウントダウンでも度々ランクインされており、リスナーからの人気は高いものと言える。
   - なお、2009年に発売された『SUPER EUROBEAT VOL.193』では、リメイク版となる「GRAND MIX」が収録され、ギタリストの[Rafael Moreira](https://ja.wikipedia.org/wiki/Rafael_Moreira "wikilink")、ピアニストの[Mike Garsonも制作に参加している](https://ja.wikipedia.org/wiki/:nn:Mike_Garson "wikilink")。
 

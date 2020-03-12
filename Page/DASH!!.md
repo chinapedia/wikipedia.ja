@@ -1,7 +1,7 @@
 > この記事は[DASH!!](https://ja.wikipedia.org/wiki/DASH!!)から翻訳されています。
 
 
-**DASH\!**（ダッシュ）は、[キャレス](https://ja.wikipedia.org/wiki/キャレス "wikilink")大阪校出身の男性2人組[ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")&[ダンス](https://ja.wikipedia.org/wiki/ダンス "wikilink")ユニット。[Lead](https://ja.wikipedia.org/wiki/Lead "wikilink")の弟分。主にストリートライブで活躍。
+**DASH\!**（ダッシュ）は、[キャレス](https://ja.wikipedia.org/wiki/キャレス "wikilink")大阪校出身の男性2人組[ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")&[ダンス](../Page/ダンス.md "wikilink")ユニット。[Lead](../Page/Lead.md "wikilink")の弟分。主にストリートライブで活躍。
 
 ## 略歴
 
@@ -27,7 +27,7 @@
   - [田中駿介](https://ja.wikipedia.org/wiki/田中駿介 "wikilink")（たなか しゅんすけ、1992年4月21日 - 、B型）※SHUN
       - 田中涼の弟。現在は[YARD](https://ja.wikipedia.org/wiki/YARD "wikilink")に所属する。
   - 渡辺黎哉（わたなべ れいや、1992年12月15日 - 、O型 ）※REIYA
-      - [RAVEの元メンバー](https://ja.wikipedia.org/wiki/RAVE_\(ダンスユニット\) "wikilink")。2006年3月加入。脱退後、[ジャニーズ事務所](https://ja.wikipedia.org/wiki/ジャニーズ事務所 "wikilink")に所属し[関西ジャニーズJr.として活動していたが](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")2011年10月に退所している。
+      - [RAVEの元メンバー](../Page/RAVE_\(ダンスユニット\).md "wikilink")。2006年3月加入。脱退後、[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")に所属し[関西ジャニーズJr.として活動していたが](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")2011年10月に退所している。
 
 ## 未発表曲
 
@@ -41,7 +41,7 @@
 
 ### テレビドラマ
 
-  - [ハンマーセッション\!](https://ja.wikipedia.org/wiki/ハンマーセッション! "wikilink")（2010年7月 - 9月、[TBS](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")） - 葛城信吾 役（延山）
+  - [ハンマーセッション\!](../Page/ハンマーセッション!.md "wikilink")（2010年7月 - 9月、[TBS](../Page/TBSテレビ.md "wikilink")） - 葛城信吾 役（延山）
 
 ### ミュージカル
 
@@ -54,7 +54,7 @@
 
 ### イベント
 
-  - [Lead](https://ja.wikipedia.org/wiki/Lead "wikilink")コンサート オープニングアクト
+  - [Lead](../Page/Lead.md "wikilink")コンサート オープニングアクト
   - 城天ストリートライブ（2005年3月13日）
   - 横浜ビブレイベント（2005年3月19日）
   - モザイクダンスフェスティバル（2005年3月20日・21日）

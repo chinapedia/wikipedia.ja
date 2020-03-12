@@ -1,17 +1,17 @@
 > この記事は[BINGO PARTY PIRATES](https://ja.wikipedia.org/wiki/BINGO_PARTY_PIRATES)から翻訳されています。
 
 
-**BINGO PARTY PIRATES**（**ビンゴパーティーパイレーツ**）は、セガ（後の[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")）の[メダルゲーム](https://ja.wikipedia.org/wiki/メダルゲーム "wikilink")であり、[ビンゴ](https://ja.wikipedia.org/wiki/ビンゴ "wikilink")ゲームとして[2007年](../Page/2007年.md "wikilink")に発売された。
+**BINGO PARTY PIRATES**（**ビンゴパーティーパイレーツ**）は、セガ（後の[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")）の[メダルゲーム](../Page/メダルゲーム.md "wikilink")であり、[ビンゴ](../Page/ビンゴ.md "wikilink")ゲームとして[2007年](../Page/2007年.md "wikilink")に発売された。
 
 ビンゴパーティーシリーズ5作目であり、その名の通り[海賊](../Page/海賊.md "wikilink")をテーマとしている。ナレーション・実況には声優の[山寺宏一](https://ja.wikipedia.org/wiki/山寺宏一 "wikilink")を起用（ゲーム中では[バズーカ山寺を名乗ることもある](https://ja.wikipedia.org/wiki/山寺宏一#人物 "wikilink")）。
 
-前作である[BINGO PARTY SPLASH SP](https://ja.wikipedia.org/wiki/BINGO_PARTY_SPLASH_SP "wikilink")（バージョンアップ版）からのみ改造が可能であり、[BINGO PARTY SPLASHからの改造はできない](https://ja.wikipedia.org/wiki/BINGO_PARTY_SPLASH "wikilink")。
+前作である[BINGO PARTY SPLASH SP](../Page/BINGO_PARTY_SPLASH_SP.md "wikilink")（バージョンアップ版）からのみ改造が可能であり、[BINGO PARTY SPLASHからの改造はできない](../Page/BINGO_PARTY_SPLASH.md "wikilink")。
 
 ## 遊び方とルール
 
 基本的なルールは前作を踏襲しており、抽選機構の中に1～25の番号の書かれたボールと、BOMBER BALL（抽選されると周辺の4マスが有効）、カギボール（ジャックポットアドベンチャーに突入しているプレイヤーがいる時のみ使用、トレジャーボーナスゲームにも関わる）、計27個のボールが入っておりゲームを進行する。数字ボールのカラーリングも7色に改められた（紫、水色、黄色、緑、青、赤、ピンク）。
 
-1.  メダルを投入し、[タッチパネル](https://ja.wikipedia.org/wiki/タッチパネル "wikilink")でベットを行う。エントリー[ベット](https://ja.wikipedia.org/wiki/ベット "wikilink")（ゲーム参加のために最低限必要な賭けメダル枚数。工場出荷時は10枚）の枚数分を投入して初めてベット可能になる。それ以降は1枚単位、および5枚単位のベットが可能。
+1.  メダルを投入し、[タッチパネル](../Page/タッチパネル.md "wikilink")でベットを行う。エントリー[ベット](https://ja.wikipedia.org/wiki/ベット "wikilink")（ゲーム参加のために最低限必要な賭けメダル枚数。工場出荷時は10枚）の枚数分を投入して初めてベット可能になる。それ以降は1枚単位、および5枚単位のベットが可能。
 2.  ベットが締め切られると、[カードセレクトとなる](https://ja.wikipedia.org/wiki/#カードセレクト "wikilink")。
 3.  ゲーム開始。大型の抽選カプセルで8球が抽選される（カギボールはカウントされない）。いずれかのカードでビンゴを完成させると、画面右側の対応する配当を得ることができる（但し、前作と異なり複数列のビンゴによる配当の倍増は無く、一度ビンゴが完成するとそのカードではゲームを続行できない）。
 4.  獲得した配当は、8球抽選後にクレジットに加算される。
@@ -56,7 +56,7 @@
 ### キャラクター
 
   - **キャプテン・ジャック** (*Captain JACK*)（CV:[山寺宏一](https://ja.wikipedia.org/wiki/山寺宏一 "wikilink")） - シルバーの息子。同じ海賊の父を倒して一人前になろうと、行方不明の父を探している。
-  - **キャプテン・ナオミ** (*Captain NAOMI*)（CV:[樋口あかり](https://ja.wikipedia.org/wiki/樋口あかり "wikilink")） - 女海賊。船の設計士である恋人を探すために海に出る。ジャックとは親友である。
+  - **キャプテン・ナオミ** (*Captain NAOMI*)（CV:[樋口あかり](../Page/樋口あかり.md "wikilink")） - 女海賊。船の設計士である恋人を探すために海に出る。ジャックとは親友である。
   - **キャプテン・シルバー** (*Captain SILVER*)（CV:[山寺宏一](https://ja.wikipedia.org/wiki/山寺宏一 "wikilink")） - ジャックの父。妻を殺された復讐としてジャックをおいて海賊になった。今やその名は世界中に恐れられている。
 
 各キャラクターにはゲーム中では性能差がある。ジャックは平均的な能力であり、すごろくで進めるのが1～7マス、ザコキャラバトル時の勝率1/2となっている。ナオミはすごろくに特化したスピードタイプ（2～8マス進めるが、ザコキャラバトルの勝率は1/4）、シルバーはバトルに特化したパワフルタイプ（ザコキャラバトルは100%勝利するが、すごろくで進めるのは0～6マス）。
@@ -71,13 +71,13 @@
 
 ## その他
 
-  - 店舗設定により、カードセレクト画面においてキャプテンチャンスで用いる手元の2つのボタンを同時に押しながらカードを選択すると、前作[BINGO PARTY SPLASH SPのシングルカードゲームと同様のルールでプレイできる](https://ja.wikipedia.org/wiki/BINGO_PARTY_SPLASH_SP "wikilink")「クラシックモード」で遊ぶことができる（筐体設定でクラシックモードをONにする必要がある）。カードがメインカード1枚のみになり、オッズも前作同様のものとなる。ビンゴポイント・ジャックポットポイントは存在しない。
-  - ジャックポットアドベンチャーに登場するキャラクターはゲーム中に喋ることは無いが、筐体の電源投入直後、キャラクターがそれぞれのストーリー背景に沿ったプロローグを喋る。CVはジャック・シルバーが山寺宏一、ナオミが[樋口あかり](https://ja.wikipedia.org/wiki/樋口あかり "wikilink")。
+  - 店舗設定により、カードセレクト画面においてキャプテンチャンスで用いる手元の2つのボタンを同時に押しながらカードを選択すると、前作[BINGO PARTY SPLASH SPのシングルカードゲームと同様のルールでプレイできる](../Page/BINGO_PARTY_SPLASH_SP.md "wikilink")「クラシックモード」で遊ぶことができる（筐体設定でクラシックモードをONにする必要がある）。カードがメインカード1枚のみになり、オッズも前作同様のものとなる。ビンゴポイント・ジャックポットポイントは存在しない。
+  - ジャックポットアドベンチャーに登場するキャラクターはゲーム中に喋ることは無いが、筐体の電源投入直後、キャラクターがそれぞれのストーリー背景に沿ったプロローグを喋る。CVはジャック・シルバーが山寺宏一、ナオミが[樋口あかり](../Page/樋口あかり.md "wikilink")。
 
 ## 関連項目
 
-  - [BINGO PARTY SPLASH SP](https://ja.wikipedia.org/wiki/BINGO_PARTY_SPLASH_SP "wikilink")
-  - [BINGO PARTY SPLASH](https://ja.wikipedia.org/wiki/BINGO_PARTY_SPLASH "wikilink")
+  - [BINGO PARTY SPLASH SP](../Page/BINGO_PARTY_SPLASH_SP.md "wikilink")
+  - [BINGO PARTY SPLASH](../Page/BINGO_PARTY_SPLASH.md "wikilink")
 
 ## 外部リンク
 

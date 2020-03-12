@@ -1,7 +1,7 @@
 > この記事は[3-THREE-](https://ja.wikipedia.org/wiki/3-THREE-)から翻訳されています。
 
 
-『**3-THREE-**』（スリー）は、[惣領冬実](https://ja.wikipedia.org/wiki/惣領冬実 "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。
+『**3-THREE-**』（スリー）は、[惣領冬実](../Page/惣領冬実.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。
 
 『[週刊少女コミック](../Page/少女コミック.md "wikilink")』（[小学館](../Page/小学館.md "wikilink")）に連載されていた。[単行本](../Page/単行本.md "wikilink")は小学館から全14巻（文庫全8巻）、[講談社](../Page/講談社.md "wikilink")から全8巻が発売されている。作者にとって2作目の長編漫画。
 
@@ -39,7 +39,7 @@
   - 圭の父
     商社勤めのサラリーマン。
   - ジェイ
-    圭の実の父親。志麻子より3歳年下。[祖母が日本人](https://ja.wikipedia.org/wiki/おばあさん "wikilink")。
+    圭の実の父親。志麻子より3歳年下。[祖母が日本人](../Page/おばあさん.md "wikilink")。
     歌手を目指し、志麻子と圭と3人でアメリカへ行こうとしたが、志麻子に反対され、一人で渡米する。
   - 川島 朱梨（かわしま しゅり）
     ジェイの恋人。無国籍パブで歌う[ジャズ](../Page/ジャズ.md "wikilink")シンガー。

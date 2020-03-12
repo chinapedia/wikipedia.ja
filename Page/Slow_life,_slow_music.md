@@ -1,7 +1,7 @@
 > この記事は[Slow life, slow music](https://ja.wikipedia.org/wiki/Slow_life,_slow_music)から翻訳されています。
 
 
-**slow life, slow music**（スローライフスローミュージック）は、[ミュージックバード](https://ja.wikipedia.org/wiki/ミュージックバード "wikilink")で、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月3日](../Page/10月3日.md "wikilink")から放送されている番組。放送時間は、毎週月～金曜日の28:00～29:00（2007年[3月30日](../Page/3月30日.md "wikilink")までは、毎週月～木曜日の24:00～25:00だった）（JST）。また、一部の[コミュニティ放送](../Page/コミュニティ放送.md "wikilink")局でもネットされている。
+**slow life, slow music**（スローライフスローミュージック）は、[ミュージックバード](../Page/ミュージックバード.md "wikilink")で、[2005年](../Page/2005年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")から放送されている番組。放送時間は、毎週月～金曜日の28:00～29:00（2007年[3月30日](../Page/3月30日.md "wikilink")までは、毎週月～木曜日の24:00～25:00だった）（JST）。また、一部の[コミュニティ放送](../Page/コミュニティ放送.md "wikilink")局でもネットされている。
 
 ## 概要
 

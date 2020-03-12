@@ -5,9 +5,9 @@
 
 ## 解説
 
-  - [2002年](../Page/2002年.md "wikilink")[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink")に、[デフスターレコーズ](https://ja.wikipedia.org/wiki/デフスターレコーズ "wikilink")よりリリースされた。
-  - [資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")「[ピエヌ](https://ja.wikipedia.org/wiki/ピエヌ "wikilink")」の2002年春のテーマソング。
-  - この曲のCM宣伝では、上記のタイアップCMの[パロディ](https://ja.wikipedia.org/wiki/パロディ "wikilink")となっている。
+  - [2002年](../Page/2002年.md "wikilink")[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink")に、[デフスターレコーズ](../Page/デフスターレコーズ.md "wikilink")よりリリースされた。
+  - [資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")「[ピエヌ](../Page/ピエヌ.md "wikilink")」の2002年春のテーマソング。
+  - この曲のCM宣伝では、上記のタイアップCMの[パロディ](../Page/パロディ.md "wikilink")となっている。
 
 ## 収録曲
 
@@ -19,7 +19,7 @@
 
 ## 収録アルバム
 
-  - 『[Tommy february<sup>6</sup>](../Page/Tommy_february6_\(アルバム\).md "wikilink")』（\#1）（[2002年](../Page/2002年.md "wikilink")[2月6日](https://ja.wikipedia.org/wiki/2月6日 "wikilink")）
+  - 『[Tommy february<sup>6</sup>](../Page/Tommy_february6_\(アルバム\).md "wikilink")』（\#1）（[2002年](../Page/2002年.md "wikilink")[2月6日](../Page/2月6日.md "wikilink")）
   - 『[Strawberry Cream Soda Pop “Daydream”](https://ja.wikipedia.org/wiki/Strawberry_Cream_Soda_Pop_“Daydream” "wikilink")』（\#1）（[2009年](../Page/2009年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")）
 
 ## カテゴリ

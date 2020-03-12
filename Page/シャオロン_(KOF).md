@@ -1,19 +1,19 @@
 > この記事は[ \(KOF\)](https://ja.wikipedia.org/wiki/_\(KOF\))から翻訳されています。
 
 
-**笑龍**（シャオロン、作品内英字表記：**Xiaolon**）は、[SNKプレイモア](https://ja.wikipedia.org/wiki/SNKプレイモア "wikilink")の対戦型格闘ゲーム『[KOF MAXIMUM IMPACT](https://ja.wikipedia.org/wiki/KOF_MAXIMUM_IMPACT "wikilink")』シリーズに登場する架空の人物。担当声優は[松本まきこ](https://ja.wikipedia.org/wiki/松本まきこ "wikilink")。
+**笑龍**（シャオロン、作品内英字表記：**Xiaolon**）は、[SNKプレイモア](https://ja.wikipedia.org/wiki/SNKプレイモア "wikilink")の対戦型格闘ゲーム『[KOF MAXIMUM IMPACT](../Page/KOF_MAXIMUM_IMPACT.md "wikilink")』シリーズに登場する架空の人物。担当声優は[松本まきこ](https://ja.wikipedia.org/wiki/松本まきこ "wikilink")。
 
 ## 概要
 
 『KOF MAXIMUM IMPACT REGULATION "A"』（以下『KOF MIA』と表記）にてプレイヤーキャラクターとして初登場。[キャッチコピー](../Page/キャッチコピー.md "wikilink")は「龍哭万里」。
 
-[緑](../Page/緑.md "wikilink")を基調とした[ノースリーブ](https://ja.wikipedia.org/wiki/ノースリーブ "wikilink")のチャイナ服＋だらりと下がった長袖という服装をしており、[蠍のような髪型が特徴](https://ja.wikipedia.org/wiki/サソリ "wikilink")。
+[緑](../Page/緑.md "wikilink")を基調とした[ノースリーブ](../Page/ノースリーブ.md "wikilink")のチャイナ服＋だらりと下がった長袖という服装をしており、[蠍のような髪型が特徴](../Page/サソリ.md "wikilink")。
 
 アナザーモデルは[白](../Page/白.md "wikilink")などを基調とした肌の露出が多い服装であり、頭部や腰に花を飾り付けるなど、女性らしさを醸し出している。花は猛毒性の[トリカブト](../Page/トリカブト.md "wikilink")との事。
 
 ## キャラクター設定
 
-暗殺集団「飛賊」の一員。飛賊の長で四天王の一人であった[龍](https://ja.wikipedia.org/wiki/龍_\(KOF\) "wikilink")（ロン）の娘であり、[デュオロン](https://ja.wikipedia.org/wiki/デュオロン "wikilink")とは異母兄妹に当たる。父と兄を慕い続けているが、龍の[愛人](https://ja.wikipedia.org/wiki/愛人 "wikilink")である[側室](https://ja.wikipedia.org/wiki/側室 "wikilink")の娘（本妻の娘ではない）という立場をわきまえているため、敢えてデュオロンの事を「三太子（サンターツ）」と呼ぶ事にしている。そうする事で彼への愛情を封じ込めている（「兄上」と呼ぶ時もあるが）。三太子とは“三の若君”という意味。
+暗殺集団「飛賊」の一員。飛賊の長で四天王の一人であった[龍](https://ja.wikipedia.org/wiki/龍_\(KOF\) "wikilink")（ロン）の娘であり、[デュオロン](../Page/デュオロン.md "wikilink")とは異母兄妹に当たる。父と兄を慕い続けているが、龍の[愛人](../Page/愛人.md "wikilink")である[側室](../Page/側室.md "wikilink")の娘（本妻の娘ではない）という立場をわきまえているため、敢えてデュオロンの事を「三太子（サンターツ）」と呼ぶ事にしている。そうする事で彼への愛情を封じ込めている（「兄上」と呼ぶ時もあるが）。三太子とは“三の若君”という意味。
 
 性格は素直で優しいが、気弱で[泣き虫](https://ja.wikipedia.org/wiki/泣き虫 "wikilink")な一面もある。年齢はプロフィールに記載されていないが、デュオロンより2つ年下である事がストーリーで確認できるため、19歳とされている。
 
@@ -21,9 +21,9 @@
 
 龍が飛賊の隠れ里を壊滅させたという事件の後、彼女もまた龍を追うために里を離れる。毒を帯びた忌まわしい身を挺してでも、兄より先に龍を捜し、二人の死闘を止めたいと思っている。
 
-両腕を覆い隠している長い袖の中には様々な[暗器](https://ja.wikipedia.org/wiki/暗器 "wikilink")が仕込まれており、戦闘ではこれを自由自在に操って戦う。
+両腕を覆い隠している長い袖の中には様々な[暗器](../Page/暗器.md "wikilink")が仕込まれており、戦闘ではこれを自由自在に操って戦う。
 
-「暗器を使うのは卑怯」である事や、暗殺者という立場のためか、[キムと](https://ja.wikipedia.org/wiki/キム・カッファン "wikilink")[チェ・リム](https://ja.wikipedia.org/wiki/チェ・リム "wikilink")には悪人呼ばわりされている。
+「暗器を使うのは卑怯」である事や、暗殺者という立場のためか、[キムと](../Page/キム・カッファン.md "wikilink")[チェ・リム](https://ja.wikipedia.org/wiki/チェ・リム "wikilink")には悪人呼ばわりされている。
 
 [恋愛シミュレーション](https://ja.wikipedia.org/wiki/恋愛シミュレーション "wikilink")『[Days of Memories](../Page/Days_of_Memories.md "wikilink") 〜風舞う都でつかまえて\!〜』では、メインヒロインの一人として登場。ジャンルの性質上「彼女に触れただけで死ぬ」という設定に問題があったためか、その代わりに「触れた者はみんな不幸になる」と設定されている。
 
@@ -48,9 +48,9 @@
 
   - [虞姫](https://ja.wikipedia.org/wiki/虞姫 "wikilink")献杯（ぐきけんぱい）
     腕を前に向けている状態。接近戦重視で、体術を使った技が多い。
-  - [貂蝉](https://ja.wikipedia.org/wiki/貂蝉 "wikilink")翻身（ちょうせんほんしん）
+  - [貂蝉](../Page/貂蝉.md "wikilink")翻身（ちょうせんほんしん）
     顔を前に向け、身体を後ろに向けた状態。連続技重視で、武器を使用した技や派生技が主になる。スーパーキャンセルに対応している技が多い。
-  - [西施](https://ja.wikipedia.org/wiki/西施 "wikilink")採柴（せいしさいそう）
+  - [西施](../Page/西施.md "wikilink")採柴（せいしさいそう）
     体勢を低くして、両腕をダラリと下げた状態。「貂蝉翻身」同様、武器を使用した技が主だが、こちらは遠距離戦重視で技のリーチが長い。その反面、動きが鈍くなってしまい機動力に欠ける。
 
 ### 特殊技
@@ -62,7 +62,7 @@
 
   - 虞姫献杯
 
-      - [洛妃錦袖](https://ja.wikipedia.org/wiki/文昭皇后甄氏 "wikilink")（らくひきんしゅう）
+      - [洛妃錦袖](../Page/文昭皇后甄氏.md "wikilink")（らくひきんしゅう）
         左右の手で突きを繰り出す追加入力式の技。3段目はボタンの弱強で変化。
         強の3段目は相手を空中に打ち上げる。
       - 飛毛脚（ひもうきゃく）
@@ -118,10 +118,10 @@
 
   - [龍](https://ja.wikipedia.org/wiki/龍_\(KOF\) "wikilink") - 父親
   - [麟](https://ja.wikipedia.org/wiki/麟_\(KOF\) "wikilink") - 師匠
-  - [デュオロン](https://ja.wikipedia.org/wiki/デュオロン "wikilink") - 異母兄
-  - [シェン・ウー](https://ja.wikipedia.org/wiki/シェン・ウー "wikilink") - デュオロンの行方を知るため接触
-  - [アッシュ・クリムゾン](https://ja.wikipedia.org/wiki/アッシュ・クリムゾン "wikilink") - 龍（もしくはデュオロン）の行方を知るため接触
-  - [マキシマ](https://ja.wikipedia.org/wiki/マキシマ_\(KOF\) "wikilink") - 同上
+  - [デュオロン](../Page/デュオロン.md "wikilink") - 異母兄
+  - [シェン・ウー](../Page/シェン・ウー.md "wikilink") - デュオロンの行方を知るため接触
+  - [アッシュ・クリムゾン](../Page/アッシュ・クリムゾン.md "wikilink") - 龍（もしくはデュオロン）の行方を知るため接触
+  - [マキシマ](../Page/マキシマ_\(KOF\).md "wikilink") - 同上
   - [K'](https://ja.wikipedia.org/wiki/K' "wikilink") - 同上
 
 ## その他の出演作品
@@ -131,6 +131,6 @@
 
 ## 関連項目
 
-  - [ザ・キング・オブ・ファイターズの登場人物](https://ja.wikipedia.org/wiki/ザ・キング・オブ・ファイターズの登場人物 "wikilink")
+  - [ザ・キング・オブ・ファイターズの登場人物](../Page/ザ・キング・オブ・ファイターズの登場人物.md "wikilink")
 
 [Category:ザ・キング・オブ・ファイターズの登場人物](https://ja.wikipedia.org/wiki/Category:ザ・キング・オブ・ファイターズの登場人物 "wikilink") [Category:架空の暗殺者](https://ja.wikipedia.org/wiki/Category:架空の暗殺者 "wikilink")

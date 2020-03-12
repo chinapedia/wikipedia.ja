@@ -1,11 +1,11 @@
 > この記事は[ \(KOF\)](https://ja.wikipedia.org/wiki/_\(KOF\))から翻訳されています。
 
 
-**ハイエナ**(**Hyena**)は、[SNKの](../Page/SNK_\(2001年設立の企業\).md "wikilink")[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")『[KOF MAXIMUM IMPACT](https://ja.wikipedia.org/wiki/KOF_MAXIMUM_IMPACT "wikilink")』シリーズに登場する架空の人物。担当[声優](../Page/声優.md "wikilink")は[島田敏](../Page/島田敏.md "wikilink")。
+**ハイエナ**(**Hyena**)は、[SNKの](../Page/SNK_\(2001年設立の企業\).md "wikilink")[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")『[KOF MAXIMUM IMPACT](../Page/KOF_MAXIMUM_IMPACT.md "wikilink")』シリーズに登場する架空の人物。担当[声優](../Page/声優.md "wikilink")は[島田敏](../Page/島田敏.md "wikilink")。
 
 ## 概要
 
-組織「メフィストフェレス」のボス・[デュークの](../Page/デューク_\(KOF\).md "wikilink")[腰巾着](https://ja.wikipedia.org/wiki/腰巾着 "wikilink")。口がうまく目端が利き、街の噂話に通じていることから、[サウスタウン](https://ja.wikipedia.org/wiki/サウスタウン "wikilink")を掌握したデュークに重用されていた。しかし、デューク自身が開催したキング・オブ・ファイターズで[アルバ・メイラ](../Page/アルバ・メイラ.md "wikilink")が彼を破った。
+組織「メフィストフェレス」のボス・[デュークの](../Page/デューク_\(KOF\).md "wikilink")[腰巾着](https://ja.wikipedia.org/wiki/腰巾着 "wikilink")。口がうまく目端が利き、街の噂話に通じていることから、[サウスタウン](../Page/サウスタウン.md "wikilink")を掌握したデュークに重用されていた。しかし、デューク自身が開催したキング・オブ・ファイターズで[アルバ・メイラ](../Page/アルバ・メイラ.md "wikilink")が彼を破った。
 
 その後、経済においての源であるデュークが姿を消したため、高額な家賃が払えなくなってしまい追い出されるなどハイエナの生活はどん底に落ちていった。しかし、再起をあきらめきれず、本人がキング・オブ・ファイターズの出場を果たす。
 
@@ -45,7 +45,7 @@
   - 前代未聞のハイエナ祭りっ\!
     カードを大量に投げつける。
   - JOKE
-    カードで斬りつけた後、連続してカードを投げまくり、「グロベリング」に移行する。[オズワルドの](https://ja.wikipedia.org/wiki/オズワルド_\(KOF\) "wikilink")「JOKER」のパロディだが、性能は全く異なり、攻撃判定は小さい。
+    カードで斬りつけた後、連続してカードを投げまくり、「グロベリング」に移行する。[オズワルドの](../Page/オズワルド_\(KOF\).md "wikilink")「JOKER」のパロディだが、性能は全く異なり、攻撃判定は小さい。
   - 乾坤一擲のハイエナパンチっ\!
     パンチを空振りした後、ガード不能の蹴りを入れて、「グロベリング」に移行する。
 

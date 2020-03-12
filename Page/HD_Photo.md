@@ -26,7 +26,7 @@ HD Photoは、画像データを[Image File Directory](https://ja.wikipedia.org/
   - [Windows Imaging Component](https://ja.wikipedia.org/wiki/:en:Windows_Imaging_Component "wikilink")
   - [Internet Explorer](../Page/Internet_Explorer.md "wikilink") 9
   - [Windows Live フォト ギャラリー](https://ja.wikipedia.org/wiki/Windows_Live_フォト_ギャラリー "wikilink")
-  - [Microsoft Expression Design](https://ja.wikipedia.org/wiki/Microsoft_Expression "wikilink")
+  - [Microsoft Expression Design](../Page/Microsoft_Expression.md "wikilink")
   - [Adobe Photoshop](../Page/Adobe_Photoshop.md "wikilink") CS2/CS3 （Windows\[4\] と Mac OS X\[5\] 向けにマイクロソフトが公開している）
   - [IrfanView](../Page/IrfanView.md "wikilink")（プラグインが必要）
   - [Paint.NET](../Page/Paint.NET.md "wikilink")（ベータ版のプラグインが公開されている。PDNJPEGXRPlugin.dllプラグインで.hdp,.wdp,.jxrに対応。HD Photoのみの専用ベータプラグインは動作しなくなった）

@@ -1,13 +1,13 @@
 > この記事は[C.C.](https://ja.wikipedia.org/wiki/C.C.)から翻訳されています。
 
 
-**C.C.レモン**（C.C. Lemon）は、[サントリーフーズ](https://ja.wikipedia.org/wiki/サントリーフーズ "wikilink")（[サントリー食品インターナショナル](https://ja.wikipedia.org/wiki/サントリー食品インターナショナル "wikilink")）が販売する[ソフトドリンク](../Page/ソフトドリンク.md "wikilink")である。
+**C.C.レモン**（C.C. Lemon）は、[サントリーフーズ](../Page/サントリーフーズ.md "wikilink")（[サントリー食品インターナショナル](https://ja.wikipedia.org/wiki/サントリー食品インターナショナル "wikilink")）が販売する[ソフトドリンク](../Page/ソフトドリンク.md "wikilink")である。
 
 ## 概要
 
 [1994年](../Page/1994年.md "wikilink")発売。発売当初のテレビ[CMの](../Page/コマーシャルメッセージ.md "wikilink")[テロップでは](../Page/スーパーインポーズ_\(映像編集\).md "wikilink")「シーシーレモン」とも表記された。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では、[コカ・コーラ](../Page/コカ・コーラ.md "wikilink")、[ペプシコーラ](../Page/ペプシコーラ.md "wikilink")に次ぐ第3位の売り上げとなっている。缶とボトルの2つのバージョンがある。
 
-[レモン](../Page/レモン.md "wikilink")と[ビタミンC](../Page/ビタミンC.md "wikilink")をテーマとして名前をC.C.レモンとしている。砂糖の量は[コーラなどのソフトドリンクとさほど変わらない](https://ja.wikipedia.org/wiki/コーラ_\(飲料\) "wikilink")\[1\]。
+[レモン](../Page/レモン.md "wikilink")と[ビタミンC](../Page/ビタミンC.md "wikilink")をテーマとして名前をC.C.レモンとしている。砂糖の量は[コーラなどのソフトドリンクとさほど変わらない](../Page/コーラ_\(飲料\).md "wikilink")\[1\]。
 
 2010年7月に500mlペットボトルをリニューアルし、細身のストレートボトルに変更されたが、自動販売機用のペットボトルはそのまま。2014年4月発売の「C.C.グレープ」からはラベルのサイズが小さくなり、既存の「C.C.レモン」のペットボトル製品や「C.C.レモン リフレッシュゼロ」も新ラベルに切り替えられた（1.5Lペットボトルは同年3月にリニューアル発売した「[ペプシコーラ](../Page/ペプシコーラ.md "wikilink")ネックス」で採用したものと同じ小型ラベルである）。
 
@@ -43,29 +43,29 @@
 
 ## コマーシャル
 
-[コマーシャルソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")「C.C.レモン」は、[じんましんや](https://ja.wikipedia.org/wiki/じんましんや "wikilink")の作詞・作曲で、当初は[演歌](../Page/演歌.md "wikilink")[歌手](../Page/歌手.md "wikilink")の[水前寺清子](../Page/水前寺清子.md "wikilink")が歌っていた。「あ、せーの」という出だしのかけ声が特徴的。また、1997年にはこのコマーシャルソングを4分弱のフルバージョンへ発展させた「C.C.レモン」という楽曲が、別名（あだ名）の「**チータ**」名義でシングルCDとして発売された。この曲はCMソングよりもキーが下がっている。
+[コマーシャルソング](../Page/コマーシャルソング.md "wikilink")「C.C.レモン」は、[じんましんや](https://ja.wikipedia.org/wiki/じんましんや "wikilink")の作詞・作曲で、当初は[演歌](../Page/演歌.md "wikilink")[歌手](../Page/歌手.md "wikilink")の[水前寺清子](../Page/水前寺清子.md "wikilink")が歌っていた。「あ、せーの」という出だしのかけ声が特徴的。また、1997年にはこのコマーシャルソングを4分弱のフルバージョンへ発展させた「C.C.レモン」という楽曲が、別名（あだ名）の「**チータ**」名義でシングルCDとして発売された。この曲はCMソングよりもキーが下がっている。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")バージョンでは[ザ・ドリフターズ](../Page/ザ・ドリフターズ.md "wikilink")の[加藤茶](../Page/加藤茶.md "wikilink")が歌唱。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")のリニューアル時には再び水前寺の歌うバージョンのサビ部分が使われる。翌2011年には、彼女自身もイメージキャラクター（「ビタミンCトルズ」と言う架空のグループシンガー）として起用され、レンズの濃いサングラスを外し、「あ、せーの」と叫んで、馴染みあるサビ部分を唄う演出がなされた。
+[2006年](../Page/2006年.md "wikilink")バージョンでは[ザ・ドリフターズ](../Page/ザ・ドリフターズ.md "wikilink")の[加藤茶](../Page/加藤茶.md "wikilink")が歌唱。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")のリニューアル時には再び水前寺の歌うバージョンのサビ部分が使われる。翌2011年には、彼女自身もイメージキャラクター（「ビタミンCトルズ」と言う架空のグループシンガー）として起用され、レンズの濃いサングラスを外し、「あ、せーの」と叫んで、馴染みあるサビ部分を唄う演出がなされた。
 
   - [2000年](../Page/2000年.md "wikilink")から[2002年](../Page/2002年.md "wikilink")にかけて[アメリカの国民的アニメ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")『[ザ・シンプソンズ](https://ja.wikipedia.org/wiki/ザ・シンプソンズ "wikilink")』のキャラクターによるCMが複数放映され、ノベルティグッズや懸賞での展開も行われた。
 
 <!-- end list -->
 
-  - 2006年[10月1日](../Page/10月1日.md "wikilink")の[渋谷公会堂](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")のリニューアルに伴い、2011年9月30日まで[施設命名権が導入され](https://ja.wikipedia.org/wiki/命名権#スポーツ、文化分野での命名権 "wikilink")「**渋谷C.C.Lemonホール**」となった。
+  - 2006年[10月1日](../Page/10月1日.md "wikilink")の[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")のリニューアルに伴い、2011年9月30日まで[施設命名権が導入され](https://ja.wikipedia.org/wiki/命名権#スポーツ、文化分野での命名権 "wikilink")「**渋谷C.C.Lemonホール**」となった。
 
 ### おもなCM出演者
 
   - 1995年:[岡田義徳](https://ja.wikipedia.org/wiki/岡田義徳 "wikilink")、[まつゆう](https://ja.wikipedia.org/wiki/まつゆう "wikilink")
-  - 1996年:[天地真理](https://ja.wikipedia.org/wiki/天地真理 "wikilink")(※長女と共演)
+  - 1996年:[天地真理](../Page/天地真理.md "wikilink")(※長女と共演)
   - 1996年:[角川博](../Page/角川博.md "wikilink")、[中里栄臣](../Page/オミ.md "wikilink")
   - 1998年:[竹内結子](https://ja.wikipedia.org/wiki/竹内結子 "wikilink")
-  - 1999年:[DA PUMP](https://ja.wikipedia.org/wiki/DA_PUMP "wikilink")
+  - 1999年:[DA PUMP](../Page/DA_PUMP.md "wikilink")
   - 2000年 - 2002年:ザ・シンプソンズ（ホーマー、マージ、バート、リサ、マギー）
-  - 2003年:[相武紗季](https://ja.wikipedia.org/wiki/相武紗季 "wikilink")、[大沢あかね](https://ja.wikipedia.org/wiki/大沢あかね "wikilink")、[武田航平](https://ja.wikipedia.org/wiki/武田航平 "wikilink")
+  - 2003年:[相武紗季](https://ja.wikipedia.org/wiki/相武紗季 "wikilink")、[大沢あかね](https://ja.wikipedia.org/wiki/大沢あかね "wikilink")、[武田航平](../Page/武田航平.md "wikilink")
   - 2007年:[北乃きい](https://ja.wikipedia.org/wiki/北乃きい "wikilink")
   - 2008年:複数人の外国人
-  - 2009年:[石井正則](https://ja.wikipedia.org/wiki/石井正則 "wikilink")、[中島知子](https://ja.wikipedia.org/wiki/中島知子 "wikilink")、[松嶋尚美](../Page/松嶋尚美.md "wikilink")
-  - 2010年:[津川雅彦](../Page/津川雅彦.md "wikilink")、[及川光博](https://ja.wikipedia.org/wiki/及川光博 "wikilink")、[吉永淳](../Page/阿部純子.md "wikilink")、子役の男児（名前不明）
+  - 2009年:[石井正則](../Page/石井正則.md "wikilink")、[中島知子](https://ja.wikipedia.org/wiki/中島知子 "wikilink")、[松嶋尚美](../Page/松嶋尚美.md "wikilink")
+  - 2010年:[津川雅彦](../Page/津川雅彦.md "wikilink")、[及川光博](../Page/及川光博.md "wikilink")、[吉永淳](../Page/阿部純子.md "wikilink")、子役の男児（名前不明）
   - 2011年:及川光博、[水前寺清子](../Page/水前寺清子.md "wikilink")、吉永淳、今井堅心
   - 2012年:[関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")
   - 2015年以降:[松岡修造](../Page/松岡修造.md "wikilink")

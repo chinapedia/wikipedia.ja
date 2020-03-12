@@ -1,11 +1,11 @@
 > この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
 
 
-**NHK正月時代劇**（えぬえいちけいしょうがつじだいげき）は、[NHKが](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")「正月時代劇」として[NHK総合テレビにて](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")から毎年[1月1日](../Page/1月1日.md "wikilink")から[1月4日](../Page/1月4日.md "wikilink")の4日間のうちに放送している単発の時代劇[特別番組](https://ja.wikipedia.org/wiki/特別番組 "wikilink")の[テレビドラマ](../Page/テレビドラマ.md "wikilink")である。
+**NHK正月時代劇**（えぬえいちけいしょうがつじだいげき）は、[NHKが](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")「正月時代劇」として[NHK総合テレビにて](../Page/NHK総合テレビジョン.md "wikilink")[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")から毎年[1月1日](../Page/1月1日.md "wikilink")から[1月4日](../Page/1月4日.md "wikilink")の4日間のうちに放送している単発の時代劇[特別番組](../Page/特別番組.md "wikilink")の[テレビドラマ](../Page/テレビドラマ.md "wikilink")である。
 
 放送時間は作品により1時間30分から2時間15分程度で、放送日・時間帯は一定ではない。レギュラー放送した作品や[大河ドラマ](../Page/大河ドラマ.md "wikilink")の特別版を放送することがある。
 
-[2001年](../Page/2001年.md "wikilink")以降は[BShiで初めに先行放送し](https://ja.wikipedia.org/wiki/NHKデジタル衛星ハイビジョン "wikilink")、その2日後に地上波の総合テレビで放送する、という状態になっていたが、[2009年](../Page/2009年.md "wikilink")は同日放送した。
+[2001年](../Page/2001年.md "wikilink")以降は[BShiで初めに先行放送し](../Page/NHKデジタル衛星ハイビジョン.md "wikilink")、その2日後に地上波の総合テレビで放送する、という状態になっていたが、[2009年](../Page/2009年.md "wikilink")は同日放送した。
 
 [2019年](../Page/2019年.md "wikilink")には前後編による初の2夜連続放送\[1\]。また「BS4K開局記念正月時代劇」として[NHK BS4Kで先行放送が行われたが](https://ja.wikipedia.org/wiki/NHK_BS4K "wikilink")、[2020年](../Page/2020年.md "wikilink")は同日放送する。
 
@@ -27,11 +27,11 @@
 <tbody>
 <tr class="odd">
 <td><p>1995年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/清左衛門残日録" title="wikilink">清左衛門残日録</a> 仇討ち!播磨屋の決闘</p></td>
+<td><p><a href="../Page/清左衛門残日録.md" title="wikilink">清左衛門残日録</a> 仇討ち!播磨屋の決闘</p></td>
 <td><p><a href="../Page/1月3日.md" title="wikilink">1月3日</a></p></td>
 <td><p><a href="../Page/藤沢周平.md" title="wikilink">藤沢周平</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/竹山洋" title="wikilink">竹山洋</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/仲代達矢" title="wikilink">仲代達矢</a></p></td>
+<td><p><a href="../Page/竹山洋.md" title="wikilink">竹山洋</a></p></td>
+<td><p><a href="../Page/仲代達矢.md" title="wikilink">仲代達矢</a></p></td>
 <td><p>個別記事参照</p></td>
 <td></td>
 </tr>
@@ -42,8 +42,8 @@
 『帰郷』<br />
 『穴熊』</p></td>
 <td><p><a href="../Page/中島丈博.md" title="wikilink">中島丈博</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/緒形拳" title="wikilink">緒形拳</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/南野陽子" title="wikilink">南野陽子</a>、<a href="https://ja.wikipedia.org/wiki/平田満" title="wikilink">平田満</a>、<a href="../Page/浅野忠信.md" title="wikilink">浅野忠信</a>、<a href="../Page/高松英郎.md" title="wikilink">高松英郎</a>、<a href="https://ja.wikipedia.org/wiki/西岡徳馬" title="wikilink">西岡徳馬</a>、<a href="../Page/八名信夫.md" title="wikilink">八名信夫</a></p></td>
+<td><p><a href="../Page/緒形拳.md" title="wikilink">緒形拳</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/南野陽子" title="wikilink">南野陽子</a>、<a href="../Page/平田満.md" title="wikilink">平田満</a>、<a href="../Page/浅野忠信.md" title="wikilink">浅野忠信</a>、<a href="../Page/高松英郎.md" title="wikilink">高松英郎</a>、<a href="../Page/西岡徳馬.md" title="wikilink">西岡徳馬</a>、<a href="../Page/八名信夫.md" title="wikilink">八名信夫</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -53,15 +53,15 @@
 <td><p><a href="../Page/1月2日.md" title="wikilink">1月2日</a></p></td>
 <td><p>藤沢周平</p></td>
 <td><p><a href="../Page/大野靖子.md" title="wikilink">大野靖子</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中井貴一" title="wikilink">中井貴一</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/高岡早紀" title="wikilink">高岡早紀</a>、<a href="../Page/鶴田真由.md" title="wikilink">鶴田真由</a>、<a href="https://ja.wikipedia.org/wiki/渡辺徹_(俳優)" title="wikilink">渡辺徹</a>、<a href="../Page/白島靖代.md" title="wikilink">白島靖代</a>、<a href="../Page/葛山信吾.md" title="wikilink">葛山信吾</a>、<a href="https://ja.wikipedia.org/wiki/持田真樹" title="wikilink">持田真樹</a>、<a href="../Page/津川雅彦.md" title="wikilink">津川雅彦</a>、<a href="https://ja.wikipedia.org/wiki/中村梅雀" title="wikilink">中村梅雀</a>、<a href="https://ja.wikipedia.org/wiki/田村高廣" title="wikilink">田村高廣</a>、<a href="../Page/神田正輝.md" title="wikilink">神田正輝</a>、<a href="https://ja.wikipedia.org/wiki/八千草薫" title="wikilink">八千草薫</a>、<a href="../Page/黒沢年雄.md" title="wikilink">黒沢年雄</a>、<a href="https://ja.wikipedia.org/wiki/羽賀研二" title="wikilink">羽賀研二</a>、<a href="https://ja.wikipedia.org/wiki/坂上二郎" title="wikilink">坂上二郎</a>、<a href="https://ja.wikipedia.org/wiki/小倉久寛" title="wikilink">小倉久寛</a>、<a href="https://ja.wikipedia.org/wiki/小野寺昭" title="wikilink">小野寺昭</a>、<a href="https://ja.wikipedia.org/wiki/井川比佐志" title="wikilink">井川比佐志</a>、<a href="https://ja.wikipedia.org/wiki/江守徹" title="wikilink">江守徹</a>、<a href="https://ja.wikipedia.org/wiki/里見浩太朗" title="wikilink">里見浩太朗</a>、<a href="https://ja.wikipedia.org/wiki/丹波哲郎" title="wikilink">丹波哲郎</a></p></td>
+<td><p><a href="../Page/中井貴一.md" title="wikilink">中井貴一</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/高岡早紀" title="wikilink">高岡早紀</a>、<a href="../Page/鶴田真由.md" title="wikilink">鶴田真由</a>、<a href="https://ja.wikipedia.org/wiki/渡辺徹_(俳優)" title="wikilink">渡辺徹</a>、<a href="../Page/白島靖代.md" title="wikilink">白島靖代</a>、<a href="../Page/葛山信吾.md" title="wikilink">葛山信吾</a>、<a href="https://ja.wikipedia.org/wiki/持田真樹" title="wikilink">持田真樹</a>、<a href="../Page/津川雅彦.md" title="wikilink">津川雅彦</a>、<a href="https://ja.wikipedia.org/wiki/中村梅雀" title="wikilink">中村梅雀</a>、<a href="../Page/田村高廣.md" title="wikilink">田村高廣</a>、<a href="../Page/神田正輝.md" title="wikilink">神田正輝</a>、<a href="../Page/八千草薫.md" title="wikilink">八千草薫</a>、<a href="../Page/黒沢年雄.md" title="wikilink">黒沢年雄</a>、<a href="https://ja.wikipedia.org/wiki/羽賀研二" title="wikilink">羽賀研二</a>、<a href="../Page/坂上二郎.md" title="wikilink">坂上二郎</a>、<a href="../Page/小倉久寛.md" title="wikilink">小倉久寛</a>、<a href="../Page/小野寺昭.md" title="wikilink">小野寺昭</a>、<a href="../Page/井川比佐志.md" title="wikilink">井川比佐志</a>、<a href="../Page/江守徹.md" title="wikilink">江守徹</a>、<a href="../Page/里見浩太朗.md" title="wikilink">里見浩太朗</a>、<a href="../Page/丹波哲郎.md" title="wikilink">丹波哲郎</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1998年</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/上杉鷹山-二百年前の行政改革-" title="wikilink">上杉鷹山-二百年前の行政改革-</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/童門冬二" title="wikilink">童門冬二</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/筒井道隆" title="wikilink">筒井道隆</a></p></td>
+<td><p><a href="../Page/童門冬二.md" title="wikilink">童門冬二</a></p></td>
+<td><p><a href="../Page/筒井道隆.md" title="wikilink">筒井道隆</a></p></td>
 <td><p>個別記事参照</p></td>
 <td><p>12.9%</p></td>
 <td></td>
@@ -71,10 +71,10 @@
 <td><p>1999年</p></td>
 <td><p><a href="../Page/加賀百万石〜母と子の戦国サバイバル.md" title="wikilink">加賀百万石〜母と子の戦国サバイバル</a></p></td>
 <td><p>1月3日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/津本陽" title="wikilink">津本陽</a><br />
+<td><p><a href="../Page/津本陽.md" title="wikilink">津本陽</a><br />
 『前田利家』<br />
 『加賀百万石』</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/松坂慶子" title="wikilink">松坂慶子</a></p></td>
+<td><p><a href="../Page/松坂慶子.md" title="wikilink">松坂慶子</a></p></td>
 <td><p>10.5%</p></td>
 <td></td>
 <td></td>
@@ -95,7 +95,7 @@
 <td><p><a href="../Page/四千万歩の男.md" title="wikilink">四千万歩の男</a>・伊能忠敬</p></td>
 <td><p><a href="../Page/井上ひさし.md" title="wikilink">井上ひさし</a></p></td>
 <td><p><a href="../Page/尾西兼一.md" title="wikilink">尾西兼一</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/橋爪功" title="wikilink">橋爪功</a></p></td>
+<td><p><a href="../Page/橋爪功.md" title="wikilink">橋爪功</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -103,11 +103,11 @@
 <tr class="even">
 <td><p>2002年</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/おらが春_(テレビドラマ)" title="wikilink">おらが春</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/田辺聖子" title="wikilink">田辺聖子</a><br />
+<td><p><a href="../Page/田辺聖子.md" title="wikilink">田辺聖子</a><br />
 『ひねくれ一茶』</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/市川森一" title="wikilink">市川森一</a></p></td>
+<td><p><a href="../Page/市川森一.md" title="wikilink">市川森一</a></p></td>
 <td><p><a href="../Page/西田敏行.md" title="wikilink">西田敏行</a></p></td>
-<td><p><a href="../Page/石田ゆり子.md" title="wikilink">石田ゆり子</a>、かたせ梨乃、<a href="../Page/田辺誠一.md" title="wikilink">田辺誠一</a>、<a href="../Page/寺島しのぶ.md" title="wikilink">寺島しのぶ</a>、<a href="https://ja.wikipedia.org/wiki/小松政夫" title="wikilink">小松政夫</a>、<a href="https://ja.wikipedia.org/wiki/梨本謙次郎" title="wikilink">梨本謙次郎</a>、<a href="https://ja.wikipedia.org/wiki/三林京子" title="wikilink">三林京子</a>、財津一郎、<a href="https://ja.wikipedia.org/wiki/杉浦直樹" title="wikilink">杉浦直樹</a>、<a href="../Page/市原悦子.md" title="wikilink">市原悦子</a></p></td>
+<td><p><a href="../Page/石田ゆり子.md" title="wikilink">石田ゆり子</a>、かたせ梨乃、<a href="../Page/田辺誠一.md" title="wikilink">田辺誠一</a>、<a href="../Page/寺島しのぶ.md" title="wikilink">寺島しのぶ</a>、<a href="../Page/小松政夫.md" title="wikilink">小松政夫</a>、<a href="../Page/梨本謙次郎.md" title="wikilink">梨本謙次郎</a>、<a href="../Page/三林京子.md" title="wikilink">三林京子</a>、財津一郎、<a href="../Page/杉浦直樹.md" title="wikilink">杉浦直樹</a>、<a href="../Page/市原悦子.md" title="wikilink">市原悦子</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -117,7 +117,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/大島昌宏" title="wikilink">大島昌宏</a><br />
 『罪なくして斬らる〜小栗上野介〜』</p></td>
 <td><p><a href="../Page/鄭義信.md" title="wikilink">鄭義信</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/岸谷五朗" title="wikilink">岸谷五朗</a></p></td>
+<td><p><a href="../Page/岸谷五朗.md" title="wikilink">岸谷五朗</a></p></td>
 <td><p>個別記事参照</p></td>
 <td></td>
 <td></td>
@@ -135,11 +135,11 @@
 </tr>
 <tr class="odd">
 <td><p>2005年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大化改新_(テレビドラマ)" title="wikilink">大化改新</a></p></td>
+<td><p><a href="../Page/大化改新_(テレビドラマ).md" title="wikilink">大化改新</a></p></td>
 <td><p>1月3日</p></td>
 <td><p>書き下ろし作品</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/池端俊策" title="wikilink">池端俊策</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/岡田准一" title="wikilink">岡田准一</a></p></td>
+<td><p><a href="../Page/池端俊策.md" title="wikilink">池端俊策</a></p></td>
+<td><p><a href="../Page/岡田准一.md" title="wikilink">岡田准一</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -149,7 +149,7 @@
 <td><p>_土方歳三_最期の一日|新選組</p></td>
 <td><p>土方歳三 最期の一日]]</p></td>
 <td><p><a href="../Page/三谷幸喜.md" title="wikilink">三谷幸喜</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山本耕史" title="wikilink">山本耕史</a></p></td>
+<td><p><a href="../Page/山本耕史.md" title="wikilink">山本耕史</a></p></td>
 <td><p>9.8%</p></td>
 <td></td>
 </tr>
@@ -229,7 +229,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/吉原裏同心#テレビドラマ" title="wikilink">吉原裏同心〜新春吉原の大火〜</a></p></td>
 <td><p>1月3日</p></td>
 <td><p>佐伯泰英</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/尾崎将也" title="wikilink">尾崎将也</a></p></td>
+<td><p><a href="../Page/尾崎将也.md" title="wikilink">尾崎将也</a></p></td>
 <td><p><a href="../Page/小出恵介.md" title="wikilink">小出恵介</a></p></td>
 <td></td>
 <td></td>
@@ -273,7 +273,7 @@
 <td><p>1月3日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/辻堂魁" title="wikilink">辻堂魁</a></p></td>
 <td><p><a href="../Page/宮村優子_(脚本家).md" title="wikilink">宮村優子</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/向井理" title="wikilink">向井理</a></p></td>
+<td><p><a href="../Page/向井理.md" title="wikilink">向井理</a></p></td>
 <td></td>
 <td></td>
 </tr>

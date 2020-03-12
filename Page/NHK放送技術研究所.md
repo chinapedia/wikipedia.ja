@@ -1,7 +1,7 @@
 > この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
 
 
-**NHK放送技術研究所**（エヌエイチケイほうそうぎじゅつけんきゅうしょ、）は、[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（以下、NHK）が[1930年](../Page/1930年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")5年）に設立した[研究所](../Page/研究所.md "wikilink")で、放送技術の開発を行っている。所在地は[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[世田谷区](https://ja.wikipedia.org/wiki/世田谷区 "wikilink")[砧](../Page/砧_\(世田谷区\).md "wikilink")。[通称](../Page/通称.md "wikilink")は**「NHK技研」**。
+**NHK放送技術研究所**（エヌエイチケイほうそうぎじゅつけんきゅうしょ、）は、[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（以下、NHK）が[1930年](../Page/1930年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")5年）に設立した[研究所](../Page/研究所.md "wikilink")で、放送技術の開発を行っている。所在地は[東京都](../Page/東京都.md "wikilink")[世田谷区](../Page/世田谷区.md "wikilink")[砧](../Page/砧_\(世田谷区\).md "wikilink")。[通称](../Page/通称.md "wikilink")は**「NHK技研」**。
 
 毎年5月下旬には、同研究所の研究成果を一般公開する**「技研公開」**を行っている。
 
@@ -25,7 +25,7 @@
 
 ## デジタル機器開発
 
-デジタル音楽時代の先駆けとなる研究も行った。[ヘルベルト・フォン・カラヤン](../Page/ヘルベルト・フォン・カラヤン.md "wikilink")率いる[ベルリン・フィルハーモニー管弦楽団](../Page/ベルリン・フィルハーモニー管弦楽団.md "wikilink")の第2回日本公演に際して、[FM](https://ja.wikipedia.org/wiki/ラジオ#超短波放送（FM放送・BSデジタルラジオ） "wikilink")[生中継放送を実施したが](https://ja.wikipedia.org/wiki/生放送 "wikilink")、この時に配信する方式として採用したものが、デジタル通信方式である。具体的には、調整室までがアナログ方式であり、一部のFM放送局へ配信する際には、[PCM](https://ja.wikipedia.org/wiki/PCM "wikilink")12[ビット](../Page/ビット.md "wikilink")・24[kHzで量子化を行い](https://ja.wikipedia.org/wiki/キロヘルツ "wikilink")、変調方式はFSK方式で配信を行う実験を行った。
+デジタル音楽時代の先駆けとなる研究も行った。[ヘルベルト・フォン・カラヤン](../Page/ヘルベルト・フォン・カラヤン.md "wikilink")率いる[ベルリン・フィルハーモニー管弦楽団](../Page/ベルリン・フィルハーモニー管弦楽団.md "wikilink")の第2回日本公演に際して、[FM](https://ja.wikipedia.org/wiki/ラジオ#超短波放送（FM放送・BSデジタルラジオ） "wikilink")[生中継放送を実施したが](../Page/生放送.md "wikilink")、この時に配信する方式として採用したものが、デジタル通信方式である。具体的には、調整室までがアナログ方式であり、一部のFM放送局へ配信する際には、[PCM](https://ja.wikipedia.org/wiki/PCM "wikilink")12[ビット](../Page/ビット.md "wikilink")・24[kHzで量子化を行い](https://ja.wikipedia.org/wiki/キロヘルツ "wikilink")、変調方式はFSK方式で配信を行う実験を行った。
 
 また、同時期に回転ヘッド型デジタル録音機器の開発を行い、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")（昭和44年）5月には、世界初の2チャンネルステレオによるPCMデジタル録音機の試作品を完成させた\[1\]。後にこの技術は、[日本コロムビア](../Page/日本コロムビア.md "wikilink")の技術陣に引き継がれて、PCM録音装置及びPCM音源のLP[レコード](../Page/レコード.md "wikilink")の制作が行われる。この回転ヘッド型PCM録音機は、のちに「[DAT](../Page/DAT.md "wikilink")」の開発・販売へと繋がった。
 
@@ -33,7 +33,7 @@
 
 [アナログハイビジョンの信号圧縮規格であるMUSE](https://ja.wikipedia.org/wiki/ハイビジョン#アナログハイビジョン "wikilink")（[Multiple Sub-Nyquist Sampling Encoding](https://ja.wikipedia.org/wiki/Multiple_Sub-Nyquist_Sampling_Encoding "wikilink")）方式は、国際規格として採用されるには至らなかったが、世界における[高精細度テレビジョン放送](https://ja.wikipedia.org/wiki/高精細度テレビジョン放送 "wikilink")の技術開発・テレビカメラや受像機の高画質化、高精細化を牽引してきた。現在の日本の[デジタルハイビジョンでは](https://ja.wikipedia.org/wiki/ハイビジョン#デジタルハイビジョン "wikilink")、MUSE方式ではなく、[ISDB](../Page/ISDB.md "wikilink")方式が採用されている。
 
-地上波デジタル方式に際しては、[ITUや](../Page/国際電気通信連合.md "wikilink")[ABUへ提案を行ったが](https://ja.wikipedia.org/wiki/アジア太平洋放送連合 "wikilink")、現在日本と同じISDB方式で放送が行われることになった国家は[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[ペルー](https://ja.wikipedia.org/wiki/ペルー "wikilink")等の[南アメリカ](../Page/南アメリカ.md "wikilink")や[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")などである。これは、既存の映像フォーマット（アメリカ：NTSC/US、ヨーロッパ：SECAM/PAL）との整合性の他、周波数帯域や地理的要因による受信環境の違い、政治的な要因などによるものである。
+地上波デジタル方式に際しては、[ITUや](../Page/国際電気通信連合.md "wikilink")[ABUへ提案を行ったが](../Page/アジア太平洋放送連合.md "wikilink")、現在日本と同じISDB方式で放送が行われることになった国家は[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[ペルー](https://ja.wikipedia.org/wiki/ペルー "wikilink")等の[南アメリカ](../Page/南アメリカ.md "wikilink")や[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")などである。これは、既存の映像フォーマット（アメリカ：NTSC/US、ヨーロッパ：SECAM/PAL）との整合性の他、周波数帯域や地理的要因による受信環境の違い、政治的な要因などによるものである。
 
 また、MUSE方式の地上ハイビジョン方式は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ワシントン特別区](https://ja.wikipedia.org/wiki/ワシントン特別区 "wikilink")において実験放送を実施したこともある。
 
@@ -55,7 +55,7 @@
 <!-- end list -->
 
   -
-    放送技術研究所と建設会社コンピュータ部門（[清水建設](https://ja.wikipedia.org/wiki/清水建設 "wikilink")）、[シリコングラフィックス](../Page/シリコングラフィックス.md "wikilink")社などの共同開発プロジェクトによって、「ハイビジョン」クオリティのコンピュータ動画像映像開発プラットホームを開発。
+    放送技術研究所と建設会社コンピュータ部門（[清水建設](../Page/清水建設.md "wikilink")）、[シリコングラフィックス](../Page/シリコングラフィックス.md "wikilink")社などの共同開発プロジェクトによって、「ハイビジョン」クオリティのコンピュータ動画像映像開発プラットホームを開発。
 
 <!-- end list -->
 
@@ -64,7 +64,7 @@
 <!-- end list -->
 
   -
-    放送機材メーカ及び[浜松ホトニクス](https://ja.wikipedia.org/wiki/浜松ホトニクス "wikilink")等と共同開発された「[スーパーハープ管](https://ja.wikipedia.org/wiki/撮像管#高感度撮像管 "wikilink")」・「ウルトラハープ管」によって、[天体望遠鏡](../Page/天体望遠鏡.md "wikilink")や望遠レンズに装着されたTVカメラに内蔵することで、暗視野環境での動画撮影が行えるようになった。初めての実践利用は、[函館空港](../Page/函館空港.md "wikilink")で起きた「[全日空857便ハイジャック事件](../Page/全日空857便ハイジャック事件.md "wikilink")」であった。添付画像のモデルは[新潟県中越地震](https://ja.wikipedia.org/wiki/新潟県中越地震 "wikilink")において、土砂崩れの現場で埋まった車から男児が救出された状況の生中継に使われたものの同機種。感度の基本性能は20[lx](https://ja.wikipedia.org/wiki/ルクス "wikilink")/F5.6、最低被写体照度は0.08lx\[2\]（電気ゲインアップ+30dB、4秒の蓄積増感時0.0004lx/F1.6\[3\]）という超高感度を誇る。
+    放送機材メーカ及び[浜松ホトニクス](../Page/浜松ホトニクス.md "wikilink")等と共同開発された「[スーパーハープ管](https://ja.wikipedia.org/wiki/撮像管#高感度撮像管 "wikilink")」・「ウルトラハープ管」によって、[天体望遠鏡](../Page/天体望遠鏡.md "wikilink")や望遠レンズに装着されたTVカメラに内蔵することで、暗視野環境での動画撮影が行えるようになった。初めての実践利用は、[函館空港](../Page/函館空港.md "wikilink")で起きた「[全日空857便ハイジャック事件](../Page/全日空857便ハイジャック事件.md "wikilink")」であった。添付画像のモデルは[新潟県中越地震](https://ja.wikipedia.org/wiki/新潟県中越地震 "wikilink")において、土砂崩れの現場で埋まった車から男児が救出された状況の生中継に使われたものの同機種。感度の基本性能は20[lx](../Page/ルクス.md "wikilink")/F5.6、最低被写体照度は0.08lx\[2\]（電気ゲインアップ+30dB、4秒の蓄積増感時0.0004lx/F1.6\[3\]）という超高感度を誇る。
 
 <!-- end list -->
 
@@ -115,12 +115,12 @@
 
 ### 視聴用機器系
 
-  - [薄型テレビ](https://ja.wikipedia.org/wiki/薄型テレビ "wikilink")の開発
+  - [薄型テレビ](../Page/薄型テレビ.md "wikilink")の開発
 
 <!-- end list -->
 
   -
-    印刷会社と共同で、薄膜ディスプレイの開発予備研究を行う。この技術が、[シャープ](../Page/シャープ.md "wikilink")や[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")などの大型薄膜[液晶ディスプレイ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")、[プラズマディスプレイ](https://ja.wikipedia.org/wiki/プラズマディスプレイ "wikilink")へと引き継がれている。
+    印刷会社と共同で、薄膜ディスプレイの開発予備研究を行う。この技術が、[シャープ](../Page/シャープ.md "wikilink")や[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")などの大型薄膜[液晶ディスプレイ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")、[プラズマディスプレイ](../Page/プラズマディスプレイ.md "wikilink")へと引き継がれている。
 
 <!-- end list -->
 
@@ -129,7 +129,7 @@
 <!-- end list -->
 
   -
-    音楽機器メーカーと共同で、[バイノーラル録音](https://ja.wikipedia.org/wiki/バイノーラル録音 "wikilink")技術を開発。この技術が、日本の[ヘッドフォン](https://ja.wikipedia.org/wiki/ヘッドフォン "wikilink")技術の基礎になった。
+    音楽機器メーカーと共同で、[バイノーラル録音](../Page/バイノーラル録音.md "wikilink")技術を開発。この技術が、日本の[ヘッドフォン](../Page/ヘッドフォン.md "wikilink")技術の基礎になった。
 
 <!-- end list -->
 
@@ -139,15 +139,15 @@
 
   -
     音楽機器メーカーと共同で、高感度[マイクロフォン](../Page/マイクロフォン.md "wikilink")の技術開発を実施。この技術が、マイクロフォン技術の基礎になった。
-    同研究所と[ソニー](../Page/ソニー.md "wikilink")との共同開発で誕生した、日本産第1号の真空管コンデンサー式マイクロホンで[BTS規格CU](https://ja.wikipedia.org/wiki/BTS_\(放送技術規格\) "wikilink")-1を1954年に開発。その後、このマイクはC-37Aとして商品化。更に真空管部分を[トランジスタ](../Page/トランジスタ.md "wikilink")に置き換えて、[C-38B](https://ja.wikipedia.org/wiki/C-38B "wikilink")の誕生とつながった。
+    同研究所と[ソニー](../Page/ソニー.md "wikilink")との共同開発で誕生した、日本産第1号の真空管コンデンサー式マイクロホンで[BTS規格CU](../Page/BTS_\(放送技術規格\).md "wikilink")-1を1954年に開発。その後、このマイクはC-37Aとして商品化。更に真空管部分を[トランジスタ](../Page/トランジスタ.md "wikilink")に置き換えて、[C-38B](https://ja.wikipedia.org/wiki/C-38B "wikilink")の誕生とつながった。
 
 ## 現在
 
 [8K_Broadcast_Experiment_in_Japan2015.jpg](https://ja.wikipedia.org/wiki/File:8K_Broadcast_Experiment_in_Japan2015.jpg "fig:8K_Broadcast_Experiment_in_Japan2015.jpg") 放送に関する技術開発は、成果が出るまでに膨大な時間が掛かることもあるため、[受信料](../Page/受信料.md "wikilink")で運営される同研究所の活動には限界があるとの見方もあるが、日本唯一の放送技術の研究所として、高いレベルの研究成果を上げている。[愛知万博でも公開された](../Page/2005年日本国際博覧会.md "wikilink")[スーパーハイビジョン](../Page/スーパーハイビジョン.md "wikilink")は、機材の可搬性に課題があるものの、[4K 8Kテレビ放送という高解像度動画記録と放送を実現しており](https://ja.wikipedia.org/wiki/4K_8Kテレビ放送 "wikilink")、現在[国際標準化機構](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")に提案を行っている。
 
-電気通信に関しての[標準化](../Page/標準化.md "wikilink")提案は、放送技術研究所の業務ではないが\[4\]、[IP放送](https://ja.wikipedia.org/wiki/IP放送 "wikilink")を用いた「スーパーハイビジョン」の動画配信実験にも成功している。その他、放送機材・視聴に関する材料技術から、放送方式に至るまで幅広い研究を行っている。現在、特に重視しているものが[人間科学](https://ja.wikipedia.org/wiki/人間科学 "wikilink")（もしくは、[人間工学](https://ja.wikipedia.org/wiki/人間工学 "wikilink")）に基づく、[通信と放送の融合](../Page/通信と放送の融合.md "wikilink")を目指した研究開発を行っている。
+電気通信に関しての[標準化](../Page/標準化.md "wikilink")提案は、放送技術研究所の業務ではないが\[4\]、[IP放送](../Page/IP放送.md "wikilink")を用いた「スーパーハイビジョン」の動画配信実験にも成功している。その他、放送機材・視聴に関する材料技術から、放送方式に至るまで幅広い研究を行っている。現在、特に重視しているものが[人間科学](../Page/人間科学.md "wikilink")（もしくは、[人間工学](../Page/人間工学.md "wikilink")）に基づく、[通信と放送の融合](../Page/通信と放送の融合.md "wikilink")を目指した研究開発を行っている。
 
-今後の研究課題としては、高度な技術要求が求められる「プロフェッショナル放送」のための、信頼性の高い技術開発を、更に継続することと、簡便に活用ができる放送機材の開発、加えて[障害者](../Page/障害者.md "wikilink")の[アクセシビリティ](https://ja.wikipedia.org/wiki/アクセシビリティ "wikilink")を高めた放送受信システムの開発を、各メーカーとの共同開発などによって継続してゆく。 {{-}}
+今後の研究課題としては、高度な技術要求が求められる「プロフェッショナル放送」のための、信頼性の高い技術開発を、更に継続することと、簡便に活用ができる放送機材の開発、加えて[障害者](../Page/障害者.md "wikilink")の[アクセシビリティ](../Page/アクセシビリティ.md "wikilink")を高めた放送受信システムの開発を、各メーカーとの共同開発などによって継続してゆく。 {{-}}
 
 ## 主な開発成果
 
@@ -162,7 +162,7 @@
 
 ## その他　
 
-  - [マスコット](https://ja.wikipedia.org/wiki/マスコット "wikilink")[キャラクター](../Page/キャラクター.md "wikilink")は[ラボちゃん](https://ja.wikipedia.org/wiki/ラボちゃん "wikilink")。
+  - [マスコット](../Page/マスコット.md "wikilink")[キャラクター](../Page/キャラクター.md "wikilink")は[ラボちゃん](https://ja.wikipedia.org/wiki/ラボちゃん "wikilink")。
   - 毎年[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")末の[土曜日](../Page/土曜日.md "wikilink")・[日曜日](../Page/日曜日.md "wikilink")を含む週に、放送技術研究所の研究成果を一般に公開する「技研公開」が行われる。
   - 1984年に発生した[グリコ・森永事件](../Page/グリコ・森永事件.md "wikilink")において、[コンビニエンスストア](../Page/コンビニエンスストア.md "wikilink")の[監視カメラ](../Page/監視カメラ.md "wikilink")に、後に「ビデオの男」と呼ばれる不審人物が映っており、不鮮明だった[ビデオテープ](https://ja.wikipedia.org/wiki/ビデオテープ "wikilink")の画像処理を同研究所が施した。日本で最も高度な映像処理技術を持つ[研究施設](https://ja.wikipedia.org/wiki/研究施設 "wikilink")であるとして、[兵庫県警捜査本部の依頼に応じたものである](../Page/兵庫県警察.md "wikilink")\[5\]。
   - 現在の建物は、[松田平田設計](https://ja.wikipedia.org/wiki/松田平田設計 "wikilink")と日本放送協会技術局開発センターの共同設計である。
@@ -171,7 +171,7 @@
 
   - 東京都世田谷区砧1丁目10番11号（一般来場者用駐車場無し）
   - 最寄駅：[小田急小田原線](https://ja.wikipedia.org/wiki/小田急小田原線 "wikilink")[祖師ヶ谷大蔵駅](https://ja.wikipedia.org/wiki/祖師ヶ谷大蔵駅 "wikilink")から徒歩1.3[km](../Page/キロメートル.md "wikilink")
-  - 路線バスでは、いずれも「NHK技術研究所」停留所で、[成城学園前駅](https://ja.wikipedia.org/wiki/成城学園前駅 "wikilink")からバス10分。[東急田園都市線](https://ja.wikipedia.org/wiki/東急田園都市線 "wikilink")[用賀駅](https://ja.wikipedia.org/wiki/用賀駅 "wikilink")から路線バスで約20分。放送技術研究所の前を通る[世田谷通り](https://ja.wikipedia.org/wiki/世田谷通り "wikilink")を通る[路線バス](../Page/路線バス.md "wikilink")が、[三軒茶屋](https://ja.wikipedia.org/wiki/三軒茶屋 "wikilink")・[渋谷駅](https://ja.wikipedia.org/wiki/渋谷駅 "wikilink")行き、[成城学園前駅](https://ja.wikipedia.org/wiki/成城学園前駅 "wikilink")行き、[調布駅](../Page/調布駅.md "wikilink")行き、[二子玉川駅](../Page/二子玉川駅.md "wikilink")行き、[都立大学駅](https://ja.wikipedia.org/wiki/都立大学駅 "wikilink")行き、[等々力行きが通るなど](https://ja.wikipedia.org/wiki/等々力駅 "wikilink")、路線・便数が多様である。鉄道よりも路線バスによるアクセスに優れている立地である。
+  - 路線バスでは、いずれも「NHK技術研究所」停留所で、[成城学園前駅](https://ja.wikipedia.org/wiki/成城学園前駅 "wikilink")からバス10分。[東急田園都市線](https://ja.wikipedia.org/wiki/東急田園都市線 "wikilink")[用賀駅](https://ja.wikipedia.org/wiki/用賀駅 "wikilink")から路線バスで約20分。放送技術研究所の前を通る[世田谷通り](https://ja.wikipedia.org/wiki/世田谷通り "wikilink")を通る[路線バス](../Page/路線バス.md "wikilink")が、[三軒茶屋](../Page/三軒茶屋.md "wikilink")・[渋谷駅](https://ja.wikipedia.org/wiki/渋谷駅 "wikilink")行き、[成城学園前駅](https://ja.wikipedia.org/wiki/成城学園前駅 "wikilink")行き、[調布駅](../Page/調布駅.md "wikilink")行き、[二子玉川駅](../Page/二子玉川駅.md "wikilink")行き、[都立大学駅](https://ja.wikipedia.org/wiki/都立大学駅 "wikilink")行き、[等々力行きが通るなど](https://ja.wikipedia.org/wiki/等々力駅 "wikilink")、路線・便数が多様である。鉄道よりも路線バスによるアクセスに優れている立地である。
 
 ## 開館時間など
 
@@ -188,7 +188,7 @@
   - [高柳健次郎](../Page/高柳健次郎.md "wikilink")
   - [奮龍](https://ja.wikipedia.org/wiki/奮龍_\(ミサイル\) "wikilink")
   - [中島平太郎](../Page/中島平太郎.md "wikilink")
-  - [ダイヤトーン](https://ja.wikipedia.org/wiki/ダイヤトーン "wikilink")
+  - [ダイヤトーン](../Page/ダイヤトーン.md "wikilink")
       - [ダイヤトーン・2S-305](https://ja.wikipedia.org/wiki/ダイヤトーン・2S-305 "wikilink")
       - [ダイヤトーン・2S-208](https://ja.wikipedia.org/wiki/ダイヤトーン・2S-208 "wikilink")
       - [ダイヤトーン・2S-3003](https://ja.wikipedia.org/wiki/ダイヤトーン・2S-3003 "wikilink")
@@ -211,8 +211,8 @@
 
 [Category:日本の研究所](https://ja.wikipedia.org/wiki/Category:日本の研究所 "wikilink") [Category:NHKの施設](https://ja.wikipedia.org/wiki/Category:NHKの施設 "wikilink") [Category:世田谷区の建築物](https://ja.wikipedia.org/wiki/Category:世田谷区の建築物 "wikilink")
 
-1.  この録音機は[NHK放送博物館](https://ja.wikipedia.org/wiki/NHK放送博物館 "wikilink")に資料として所蔵されている。
+1.  この録音機は[NHK放送博物館](../Page/NHK放送博物館.md "wikilink")に資料として所蔵されている。
 2.  <http://www.hitachihyoron.com/jp/pdf/2007/04/2007_04_00_professional.pdf#page=5>
 3.  <https://www.nhk.or.jp/pr/marukaji/m-giju099.html>
-4.  これらは[KDDI総合研究所](https://ja.wikipedia.org/wiki/KDDI総合研究所 "wikilink")、[NTTの各](https://ja.wikipedia.org/wiki/日本電信電話 "wikilink")[研究拠点などが行っている](https://ja.wikipedia.org/wiki/日本電信電話#研究拠点 "wikilink")。
+4.  これらは[KDDI総合研究所](https://ja.wikipedia.org/wiki/KDDI総合研究所 "wikilink")、[NTTの各](../Page/日本電信電話.md "wikilink")[研究拠点などが行っている](https://ja.wikipedia.org/wiki/日本電信電話#研究拠点 "wikilink")。
 5.  朝日新聞大阪社会部「グリコ・森永事件」

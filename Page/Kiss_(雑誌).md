@@ -25,12 +25,12 @@
   - [大人の問題提起シリーズ](https://ja.wikipedia.org/wiki/問題提起シリーズ "wikilink")（[ももち麗子](../Page/ももち麗子.md "wikilink")）：2017年11月号 -
   - [おひとり様物語](https://ja.wikipedia.org/wiki/おひとり様物語 "wikilink")（[谷川史子](../Page/谷川史子.md "wikilink")）：2008年5号 -
   - [カカフカカ](https://ja.wikipedia.org/wiki/カカフカカ "wikilink")（[石田拓実](../Page/石田拓実.md "wikilink")）：2013年12月号 -
-  - [神は細部に宿るのよ](https://ja.wikipedia.org/wiki/神は細部に宿るのよ "wikilink")（[久世番子](https://ja.wikipedia.org/wiki/久世番子 "wikilink")）：2009年7号 -
+  - [神は細部に宿るのよ](https://ja.wikipedia.org/wiki/神は細部に宿るのよ "wikilink")（[久世番子](../Page/久世番子.md "wikilink")）：2009年7号 -
   - [彼と彼女のヒストリごはん](https://ja.wikipedia.org/wiki/彼と彼女のヒストリごはん "wikilink")（[真船きょうこ](https://ja.wikipedia.org/wiki/真船きょうこ "wikilink")）：2017年7月号 -
   - [兄弟犬](https://ja.wikipedia.org/wiki/兄弟犬_\(漫画\) "wikilink")（[ともえ](https://ja.wikipedia.org/wiki/ともえ_\(漫画家\) "wikilink")）：2014年8月号 -
   - [幸子、生きてます](https://ja.wikipedia.org/wiki/幸子、生きてます "wikilink")（[柘植文](https://ja.wikipedia.org/wiki/柘植文 "wikilink")）：2016年11月号 -
   - [世界で一番早い春](https://ja.wikipedia.org/wiki/世界で一番早い春 "wikilink")（[川端志季](https://ja.wikipedia.org/wiki/川端志季 "wikilink")）：2018年4月号 -
-  - [タラレBar](https://ja.wikipedia.org/wiki/東京タラレバ娘 "wikilink")（[東村アキコ](https://ja.wikipedia.org/wiki/東村アキコ "wikilink")）：2017年12月号 -
+  - [タラレBar](https://ja.wikipedia.org/wiki/東京タラレバ娘 "wikilink")（[東村アキコ](../Page/東村アキコ.md "wikilink")）：2017年12月号 -
   - [月と指先の間](https://ja.wikipedia.org/wiki/月と指先の間 "wikilink")（[稚野鳥子](../Page/稚野鳥子.md "wikilink")）：2015年11月号 -
   - [東京アリス girly](https://ja.wikipedia.org/wiki/東京アリス_\(稚野鳥子の漫画\) "wikilink")（稚野鳥子）：2017年10月号 -
   - [東京タラレバ娘 シーズン2](https://ja.wikipedia.org/wiki/東京タラレバ娘_シーズン2 "wikilink")（東村アキコ）：2019年6月号 -
@@ -38,12 +38,12 @@
   - [七つ屋 志のぶの宝石匣](https://ja.wikipedia.org/wiki/七つ屋_志のぶの宝石匣 "wikilink")（[二ノ宮知子](../Page/二ノ宮知子.md "wikilink")）：2014年1月号 -
   - [涙雨とセレナーデ](https://ja.wikipedia.org/wiki/涙雨とセレナーデ "wikilink")（[河内遙](https://ja.wikipedia.org/wiki/河内遙 "wikilink")）：2015年1月号 -
   - [パーフェクトワールド](https://ja.wikipedia.org/wiki/パーフェクトワールド_\(有賀リエの漫画\) "wikilink")（[有賀リエ](https://ja.wikipedia.org/wiki/有賀リエ "wikilink")）：2014年5月号 -
-  - [パルノグラフィティ](https://ja.wikipedia.org/wiki/パルノグラフィティ "wikilink")（[板垣巴留](https://ja.wikipedia.org/wiki/板垣巴留 "wikilink")）：2019年11月号 -
-  - [ホタルノヒカリ BABY](https://ja.wikipedia.org/wiki/ホタルノヒカリ_\(漫画\) "wikilink")（[ひうらさとる](https://ja.wikipedia.org/wiki/ひうらさとる "wikilink")）：2017年12月号 -
+  - [パルノグラフィティ](../Page/パルノグラフィティ.md "wikilink")（[板垣巴留](https://ja.wikipedia.org/wiki/板垣巴留 "wikilink")）：2019年11月号 -
+  - [ホタルノヒカリ BABY](../Page/ホタルノヒカリ_\(漫画\).md "wikilink")（[ひうらさとる](../Page/ひうらさとる.md "wikilink")）：2017年12月号 -
   - [御手洗家、炎上する](https://ja.wikipedia.org/wiki/御手洗家、炎上する "wikilink")（[藤沢もやし](https://ja.wikipedia.org/wiki/藤沢もやし "wikilink")）：2017年5月号 -
   - [無能の鷹](https://ja.wikipedia.org/wiki/無能の鷹 "wikilink")（[はんざき朝未](https://ja.wikipedia.org/wiki/はんざき朝未 "wikilink")）：2019年8月号 -
   - [メイクはただの魔法じゃないの](https://ja.wikipedia.org/wiki/メイクはただの魔法じゃないの "wikilink")（[六多いくみ](https://ja.wikipedia.org/wiki/六多いくみ "wikilink")）：2018年3月号 -
-  - [モトカレマニア](https://ja.wikipedia.org/wiki/モトカレマニア "wikilink")（[瀧波ユカリ](https://ja.wikipedia.org/wiki/瀧波ユカリ "wikilink")）：2017年9月号 -
+  - [モトカレマニア](https://ja.wikipedia.org/wiki/モトカレマニア "wikilink")（[瀧波ユカリ](../Page/瀧波ユカリ.md "wikilink")）：2017年9月号 -
   - [やんごとなき一族](https://ja.wikipedia.org/wiki/やんごとなき一族 "wikilink")（[こやまゆかり](https://ja.wikipedia.org/wiki/こやまゆかり "wikilink")）：2017年8月号 -
   - [わたしのお嫁くん](https://ja.wikipedia.org/wiki/わたしのお嫁くん "wikilink")（[柴なつみ](https://ja.wikipedia.org/wiki/柴なつみ "wikilink")）：2018年6月号 -
   - [私の町の千葉くんは。](https://ja.wikipedia.org/wiki/私の町の千葉くんは。 "wikilink")（[おかもととかさ](https://ja.wikipedia.org/wiki/おかもととかさ "wikilink")）：2019年11月号 -
@@ -62,12 +62,12 @@
   - アリスとアマリリス（[小沢真理](../Page/小沢真理.md "wikilink")）
   - [ありをりはべり](https://ja.wikipedia.org/wiki/ありをりはべり "wikilink")（[日向なつお](https://ja.wikipedia.org/wiki/日向なつお "wikilink")）
       - ありをりはべり いまそかり - 続編。
-  - [アンナさんのおまめ](https://ja.wikipedia.org/wiki/アンナさんのおまめ "wikilink") （[鈴木由美子](../Page/鈴木由美子.md "wikilink")）
-  - 一緒に遭難したいひと（[西村しのぶ](https://ja.wikipedia.org/wiki/西村しのぶ "wikilink")）
+  - [アンナさんのおまめ](../Page/アンナさんのおまめ.md "wikilink") （[鈴木由美子](../Page/鈴木由美子.md "wikilink")）
+  - 一緒に遭難したいひと（[西村しのぶ](../Page/西村しのぶ.md "wikilink")）
   - [苺田さんの話](https://ja.wikipedia.org/wiki/苺田さんの話 "wikilink")（小沢真理）
-  - うさぎ探偵物語（原作：[長崎尚志](https://ja.wikipedia.org/wiki/長崎尚志 "wikilink")、漫画：[芳崎せいむ](../Page/芳崎せいむ.md "wikilink")）
+  - うさぎ探偵物語（原作：[長崎尚志](../Page/長崎尚志.md "wikilink")、漫画：[芳崎せいむ](../Page/芳崎せいむ.md "wikilink")）
   - 海とドリトル（[磯谷友紀](https://ja.wikipedia.org/wiki/磯谷友紀 "wikilink")）
-  - うらら（[ひうらさとる](https://ja.wikipedia.org/wiki/ひうらさとる "wikilink")）
+  - うらら（[ひうらさとる](../Page/ひうらさとる.md "wikilink")）
   - [おいピータン\!\!](../Page/おいピータン!!.md "wikilink")（[伊藤理佐](../Page/伊藤理佐.md "wikilink")）
   - オールトの雲から（[有賀リエ](https://ja.wikipedia.org/wiki/有賀リエ "wikilink")）
   - おかわり のんdeぽ庵（原作：[イタバシマサヒロ](https://ja.wikipedia.org/wiki/イタバシマサヒロ "wikilink")、漫画：なかはら★ももた）
@@ -78,7 +78,7 @@
   - ガキのためいき（[沖田×華](https://ja.wikipedia.org/wiki/沖田×華 "wikilink")）
   - カツ婚\!（[米沢りか](../Page/米沢りか.md "wikilink")）
   - 家電の女（[西山優里子](../Page/西山優里子.md "wikilink")）
-  - [キス&ネバークライ](../Page/キス&ネバークライ.md "wikilink") （[小川彌生](https://ja.wikipedia.org/wiki/小川彌生 "wikilink")）
+  - [キス&ネバークライ](../Page/キス&ネバークライ.md "wikilink") （[小川彌生](../Page/小川彌生.md "wikilink")）
   - [きみはペット](https://ja.wikipedia.org/wiki/きみはペット "wikilink") （小川彌生）
   - 君はぼくのヒーローさ（[真柴ひろみ](https://ja.wikipedia.org/wiki/真柴ひろみ "wikilink")）
   - キャバママ（原作：城戸口靜、漫画：[山田圭子](https://ja.wikipedia.org/wiki/山田圭子_\(漫画家\) "wikilink")）
@@ -87,18 +87,18 @@
   - [QBかりん 警視庁特殊SP班](https://ja.wikipedia.org/wiki/QBかりん_警視庁特殊SP班 "wikilink") （西山優里子）
   - 9時にはおうちに帰りたい（[青色イリコ](https://ja.wikipedia.org/wiki/青色イリコ "wikilink")）
   - [くちうつす](https://ja.wikipedia.org/wiki/くちうつす "wikilink")（[天沢アキ](https://ja.wikipedia.org/wiki/天沢アキ "wikilink")）
-  - [Good Job〜グッジョブ](../Page/Good_Job〜グッジョブ.md "wikilink") （[かたおかみさお](https://ja.wikipedia.org/wiki/かたおかみさお "wikilink")）
-  - [海月姫](https://ja.wikipedia.org/wiki/海月姫 "wikilink")（[東村アキコ](https://ja.wikipedia.org/wiki/東村アキコ "wikilink")）
+  - [Good Job〜グッジョブ](../Page/Good_Job〜グッジョブ.md "wikilink") （[かたおかみさお](../Page/かたおかみさお.md "wikilink")）
+  - [海月姫](https://ja.wikipedia.org/wiki/海月姫 "wikilink")（[東村アキコ](../Page/東村アキコ.md "wikilink")）
   - GREEN FINGER -小花の庭-（[松本小夢](https://ja.wikipedia.org/wiki/松本小夢 "wikilink")）
   - グレイ ロマンス（[楠田夏子](https://ja.wikipedia.org/wiki/楠田夏子 "wikilink")）
   - [ケッコー ケンコウ家族](https://ja.wikipedia.org/wiki/ケッコー_ケンコウ家族 "wikilink")（[栗原まもる](../Page/栗原まもる.md "wikilink")）
   - こいいじ（[志村貴子](../Page/志村貴子.md "wikilink")）
   - 恋のウニフラ（[江本晴](https://ja.wikipedia.org/wiki/江本晴 "wikilink")）
   - 後宮（[海野つなみ](../Page/海野つなみ.md "wikilink")）
-  - [コスメの魔法](https://ja.wikipedia.org/wiki/コスメの魔法 "wikilink")（[あいかわももこ](https://ja.wikipedia.org/wiki/あいかわももこ "wikilink")）
+  - [コスメの魔法](../Page/コスメの魔法.md "wikilink")（[あいかわももこ](https://ja.wikipedia.org/wiki/あいかわももこ "wikilink")）
   - [ことこと かるてっと](https://ja.wikipedia.org/wiki/ことこと_かるてっと "wikilink")（楠田夏子）
   - コマメのお仕事（松本小夢）
-  - コミンカビヨリ（[高須賀由枝](https://ja.wikipedia.org/wiki/高須賀由枝 "wikilink")）
+  - コミンカビヨリ（[高須賀由枝](../Page/高須賀由枝.md "wikilink")）
   - コンビニ恋愛レシピ（松本小夢）
 
 ### さ行
@@ -151,7 +151,7 @@
   - ブルーバードブルー（楠田夏子）
   - ベビーシッター・ギン\!（[大和和紀](../Page/大和和紀.md "wikilink")）
   - ポケットの中の奇跡（大和和紀）
-  - [ホタルノヒカリ](https://ja.wikipedia.org/wiki/ホタルノヒカリ_\(漫画\) "wikilink")（ひうらさとる）
+  - [ホタルノヒカリ](../Page/ホタルノヒカリ_\(漫画\).md "wikilink")（ひうらさとる）
       - ホタルノヒカリSP - 続編
   - [本屋の森のあかり](https://ja.wikipedia.org/wiki/本屋の森のあかり "wikilink")（磯谷友紀）
 

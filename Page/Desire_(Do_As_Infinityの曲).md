@@ -5,11 +5,11 @@
 
 ## 内容
 
-  - 表題曲は「[We are.](../Page/We_are..md "wikilink")」に続いて[花王](../Page/花王.md "wikilink")[ソフィーナ](https://ja.wikipedia.org/wiki/ソフィーナ "wikilink")のAUBEのCMソングとして使われた楽曲である。
-  - PVには[伴都美子](https://ja.wikipedia.org/wiki/伴都美子 "wikilink")のみ出演しており、[長尾大](https://ja.wikipedia.org/wiki/長尾大 "wikilink")と[大渡亮](https://ja.wikipedia.org/wiki/大渡亮 "wikilink")は出演していない（代わりに彼らの持っているギターが登場している）。
+  - 表題曲は「[We are.](../Page/We_are..md "wikilink")」に続いて[花王](../Page/花王.md "wikilink")[ソフィーナ](../Page/ソフィーナ.md "wikilink")のAUBEのCMソングとして使われた楽曲である。
+  - PVには[伴都美子](https://ja.wikipedia.org/wiki/伴都美子 "wikilink")のみ出演しており、[長尾大](../Page/長尾大.md "wikilink")と[大渡亮](../Page/大渡亮.md "wikilink")は出演していない（代わりに彼らの持っているギターが登場している）。
   - カップリングの「CARNAVAL」は「Desire」の歌詞とアレンジが違ったバージョンとなっている。オリジナルアルバムに収録はされず、ベストアルバム『[Do The B-side](../Page/Do_The_B-side.md "wikilink")』にのみ収録された。
   - 「Holiday」も[森永製菓](https://ja.wikipedia.org/wiki/森永製菓 "wikilink")のハイソフトのCMソングとして使われた。
-  - このシングルの[プロモーションから](../Page/宣伝.md "wikilink")[歌番組への露出を始めた](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")。その際はボーカルの[伴都美子](https://ja.wikipedia.org/wiki/伴都美子 "wikilink")のみの出演であった。
+  - このシングルの[プロモーションから](../Page/宣伝.md "wikilink")[歌番組への露出を始めた](../Page/音楽番組.md "wikilink")。その際はボーカルの[伴都美子](https://ja.wikipedia.org/wiki/伴都美子 "wikilink")のみの出演であった。
 
 ## 収録曲
 
@@ -31,7 +31,7 @@
 
 <!-- end list -->
 
-  - 『[NEW WORLD](https://ja.wikipedia.org/wiki/NEW_WORLD_\(Do_As_Infinityのアルバム\) "wikilink")』
+  - 『[NEW WORLD](../Page/NEW_WORLD_\(Do_As_Infinityのアルバム\).md "wikilink")』
   - 『[Do The Best](../Page/Do_The_Best.md "wikilink")』
   - 『[Do The A-side](../Page/Do_The_A-side.md "wikilink")』
   - 『[Do The Best "Great Supporters Selection"](https://ja.wikipedia.org/wiki/Do_The_Best_"Great_Supporters_Selection" "wikilink")』
@@ -45,7 +45,7 @@
 
 <!-- end list -->
 
-  - 『[NEW WORLD](https://ja.wikipedia.org/wiki/NEW_WORLD_\(Do_As_Infinityのアルバム\) "wikilink")』
+  - 『[NEW WORLD](../Page/NEW_WORLD_\(Do_As_Infinityのアルバム\).md "wikilink")』
 
 <!-- end list -->
 
@@ -61,7 +61,7 @@
 
 ### 解説
 
-過去に発表された楽曲16曲を[伴都美子](https://ja.wikipedia.org/wiki/伴都美子 "wikilink")、[大渡亮](https://ja.wikipedia.org/wiki/大渡亮 "wikilink")のメンバー2人だけで再録音し、16週連続で配信していく「2 of Us」と銘打たれたプロジェクトの第4弾。
+過去に発表された楽曲16曲を[伴都美子](https://ja.wikipedia.org/wiki/伴都美子 "wikilink")、[大渡亮](../Page/大渡亮.md "wikilink")のメンバー2人だけで再録音し、16週連続で配信していく「2 of Us」と銘打たれたプロジェクトの第4弾。
 
 ### 収録曲
 

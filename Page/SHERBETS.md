@@ -1,7 +1,7 @@
 > この記事は[SHERBETS](https://ja.wikipedia.org/wiki/SHERBETS)から翻訳されています。
 
 
-**SHERBETS**（シャーベッツ）は元[BLANKEY JET CITYの](https://ja.wikipedia.org/wiki/BLANKEY_JET_CITY "wikilink")[浅井健一](https://ja.wikipedia.org/wiki/浅井健一 "wikilink")が始めた4人組[オルタナティヴ・ロック](../Page/オルタナティヴ・ロック.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。BLANKEY JET CITYが活動中の1996年に**SHERBET**（シャーベット）名義で活動を開始、当初の音楽性はアコースティックサウンドを前面に打ち出したものであったが、1998年に現在のバンドスタイルの新生SHERBETSを結成。2000年のBLANKEY JET CITY解散後精力的に活動していたが、2002年[JUDE](../Page/JUDE.md "wikilink")の結成とともに活動を休止する。2005年活動を再開。この年浅井はJUDEとSHERBETS二つのバンドを並行して活動し、多忙を極める。フロントマンである浅井はSHERBETSを「宝物」と表現する。 2011年、『FREE』リリース直前に会報誌で解散を発表するが、直後に撤回。その後もコンスタントに活動を継続している。
+**SHERBETS**（シャーベッツ）は元[BLANKEY JET CITYの](../Page/BLANKEY_JET_CITY.md "wikilink")[浅井健一](https://ja.wikipedia.org/wiki/浅井健一 "wikilink")が始めた4人組[オルタナティヴ・ロック](../Page/オルタナティヴ・ロック.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。BLANKEY JET CITYが活動中の1996年に**SHERBET**（シャーベット）名義で活動を開始、当初の音楽性はアコースティックサウンドを前面に打ち出したものであったが、1998年に現在のバンドスタイルの新生SHERBETSを結成。2000年のBLANKEY JET CITY解散後精力的に活動していたが、2002年[JUDE](../Page/JUDE.md "wikilink")の結成とともに活動を休止する。2005年活動を再開。この年浅井はJUDEとSHERBETS二つのバンドを並行して活動し、多忙を極める。フロントマンである浅井はSHERBETSを「宝物」と表現する。 2011年、『FREE』リリース直前に会報誌で解散を発表するが、直後に撤回。その後もコンスタントに活動を継続している。
 
 ## メンバー
 

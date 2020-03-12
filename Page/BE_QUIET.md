@@ -6,11 +6,11 @@
 ## 収録曲
 
 1.  **HOW MANY NIGHT**　(4:24)
-      - 作詞：[松尾由紀夫](../Page/松尾由紀夫.md "wikilink")／作曲・編曲：[蓑輪単志](https://ja.wikipedia.org/wiki/蓑輪単志 "wikilink")
+      - 作詞：[松尾由紀夫](../Page/松尾由紀夫.md "wikilink")／作曲・編曲：[蓑輪単志](../Page/蓑輪単志.md "wikilink")
 2.  **ROLLING**　(4:14)
-      - 作詞：[大友康平](https://ja.wikipedia.org/wiki/大友康平 "wikilink")／作曲・編曲：蓑輪単志
+      - 作詞：[大友康平](../Page/大友康平.md "wikilink")／作曲・編曲：蓑輪単志
 3.  **SEPTEMBER RAIN**　(5:40)
-      - 作詞：大友康平／作曲：[八島順一](https://ja.wikipedia.org/wiki/八島順一 "wikilink")／編曲：蓑輪単志
+      - 作詞：大友康平／作曲：[八島順一](../Page/八島順一.md "wikilink")／編曲：蓑輪単志
 4.  **STAY**　(4:06)
       - 作詞：大友康平／作曲：八島順一・蓑輪単志／編曲：蓑輪単志
 5.  **TOKYO**　(5:29)

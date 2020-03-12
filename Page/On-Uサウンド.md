@@ -5,17 +5,17 @@
 
 ## 概要
 
-エイドリアン・シャーウッドが、[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")のレコード・レーベル「カリブ・ジェムズ」、「ヒット・ラン」の運営を経て\[1\]、[1979年](../Page/1979年.md "wikilink")に、「**On-Uサウンド**」を設立した\[2\]。アフリカン・ヘッドチャージ、ダブ・シンジケート等、レゲエ／[ダブ](https://ja.wikipedia.org/wiki/ダブ "wikilink")のアーティストを中心に、ニュー・エイジ・ステッパーズ、[マーク・スチュワート](https://ja.wikipedia.org/wiki/マーク・スチュワート "wikilink")ら、[ニューウェイヴ](https://ja.wikipedia.org/wiki/ニューウェイヴ "wikilink")のアーティストの作品もリリースしている。\[3\] レーベルの名称は、エイドリアン・シャーウッドの友人の名前である「ONUS」を由来としている。また、重要という意味も含んでいる。\[4\]
+エイドリアン・シャーウッドが、[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")のレコード・レーベル「カリブ・ジェムズ」、「ヒット・ラン」の運営を経て\[1\]、[1979年](../Page/1979年.md "wikilink")に、「**On-Uサウンド**」を設立した\[2\]。アフリカン・ヘッドチャージ、ダブ・シンジケート等、レゲエ／[ダブ](../Page/ダブ.md "wikilink")のアーティストを中心に、ニュー・エイジ・ステッパーズ、[マーク・スチュワート](../Page/マーク・スチュワート.md "wikilink")ら、[ニューウェイヴ](https://ja.wikipedia.org/wiki/ニューウェイヴ "wikilink")のアーティストの作品もリリースしている。\[3\] レーベルの名称は、エイドリアン・シャーウッドの友人の名前である「ONUS」を由来としている。また、重要という意味も含んでいる。\[4\]
 
 [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")、「On-Uサウンド」の初リリース作品としてニュー・エイジ・ステッパーズとロンドン・アンダーグラウンドのカップリング・シングル「Fade Away / Learn A Language」を7インチ・レコードで発表した。\[5\]　シングル盤のリリースに続き、[1981年](../Page/1981年.md "wikilink")には、レーベル初のアルバムとしてニュー・エイジ・ステッパーズの「The New Age Steppers」をリリースした。\[6\]
 
-[1984年](../Page/1984年.md "wikilink")、全英チャート4位（Music Week）\[7\]、全米チャート13位（[Billboard Hot 100](https://ja.wikipedia.org/wiki/Billboard_Hot_100 "wikilink")）\[8\]を記録した[デペッシュ・モード](https://ja.wikipedia.org/wiki/デペッシュ・モード "wikilink")「People Are People」の12インチ・シングルには、ON-Uサウンド・リミックスが収録された。\[9\]
+[1984年](../Page/1984年.md "wikilink")、全英チャート4位（Music Week）\[7\]、全米チャート13位（[Billboard Hot 100](https://ja.wikipedia.org/wiki/Billboard_Hot_100 "wikilink")）\[8\]を記録した[デペッシュ・モード](../Page/デペッシュ・モード.md "wikilink")「People Are People」の12インチ・シングルには、ON-Uサウンド・リミックスが収録された。\[9\]
 
 [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")、[リー・ペリー](https://ja.wikipedia.org/wiki/リー・ペリー "wikilink")とダブ・シンジケートのアルバム「Time Boom X De Devil Dead」をリリース。\[10\]
 
 [1991年](../Page/1991年.md "wikilink")、ゲイリー・クレイル & On-Uサウンド・システムのシングル「Human Nature」が、全英チャート10位（Music Week）\[11\]のヒットを記録した。
 
-[1994年](../Page/1994年.md "wikilink")、[audio activeのシングル](https://ja.wikipedia.org/wiki/audio_active "wikilink")「Free The Marijuana」が、イギリスにてDJチャート1位（[NME](https://ja.wikipedia.org/wiki/ニュー・ミュージカル・エクスプレス "wikilink")）を記録した。\[12\]
+[1994年](../Page/1994年.md "wikilink")、[audio activeのシングル](https://ja.wikipedia.org/wiki/audio_active "wikilink")「Free The Marijuana」が、イギリスにてDJチャート1位（[NME](../Page/ニュー・ミュージカル・エクスプレス.md "wikilink")）を記録した。\[12\]
 
 ## 参考文献・出典
 

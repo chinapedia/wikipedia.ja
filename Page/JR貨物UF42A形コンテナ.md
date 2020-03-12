@@ -8,7 +8,7 @@
 ### 30000番台
 
   - 30001 - 30023
-    [ランテック](https://ja.wikipedia.org/wiki/ランテック "wikilink")所有。全高2591mm（規格外）、全長9410mm（規格外）、全幅規格外。[コキ100系積載限定](https://ja.wikipedia.org/wiki/JR貨物コキ100系貨車 "wikilink")。[福岡貨物ターミナル駅](https://ja.wikipedia.org/wiki/福岡貨物ターミナル駅 "wikilink") - [東京貨物ターミナル駅](../Page/東京貨物ターミナル駅.md "wikilink")のみで運用されている。なお、[青函トンネル](../Page/青函トンネル.md "wikilink")は通過可能。
+    [ランテック](../Page/ランテック.md "wikilink")所有。全高2591mm（規格外）、全長9410mm（規格外）、全幅規格外。[コキ100系積載限定](../Page/JR貨物コキ100系貨車.md "wikilink")。[福岡貨物ターミナル駅](../Page/福岡貨物ターミナル駅.md "wikilink") - [東京貨物ターミナル駅](../Page/東京貨物ターミナル駅.md "wikilink")のみで運用されている。なお、[青函トンネル](../Page/青函トンネル.md "wikilink")は通過可能。
 
 <File:UF42A-30009----②> 【ランテック】Containers of Japan Rail.jpg|**UF42A-30009 ランテック所有。**
 
@@ -31,12 +31,12 @@
 
   - 38029 - 38031
     [日本石油輸送](../Page/日本石油輸送.md "wikilink")所有、全高2591mm（規格外）、全長9410mm（規格外）、総重量14.7t。コキ100系貨車積載限定。
-    ※38029は元[ニチレイ](https://ja.wikipedia.org/wiki/ニチレイ "wikilink")借受で、「JOT」のロゴが異なる。
+    ※38029は元[ニチレイ](../Page/ニチレイ.md "wikilink")借受で、「JOT」のロゴが異なる。
 
 <File:UF42A-38031----①> 【ＪＯＴ日本石油輸送】Containers of Japan Rail.jpg|**UF42A-38031 日本石油輸送所有。**
 
   - 38032 - 38037
-    [西久大運輸倉庫](https://ja.wikipedia.org/wiki/西久大運輸倉庫 "wikilink")所有、全高・全長規格外。[コキ100系貨車](https://ja.wikipedia.org/wiki/JR貨物コキ100系貨車 "wikilink")1両につき1個積載限定。[隅田川駅](../Page/隅田川駅.md "wikilink") - [札幌貨物ターミナル駅](https://ja.wikipedia.org/wiki/札幌貨物ターミナル駅 "wikilink")で運用されている。
+    [西久大運輸倉庫](https://ja.wikipedia.org/wiki/西久大運輸倉庫 "wikilink")所有、全高・全長規格外。[コキ100系貨車](../Page/JR貨物コキ100系貨車.md "wikilink")1両につき1個積載限定。[隅田川駅](../Page/隅田川駅.md "wikilink") - [札幌貨物ターミナル駅](../Page/札幌貨物ターミナル駅.md "wikilink")で運用されている。
 
 <File:UF42A-38037> 【西久大運輸倉庫】Containers of Japan Rail.jpg|**UF42A-38037 西久大運輸倉庫所有。** <File:UF42A-38055.jpg>|**UF42A-38055 ランテック所有。**
 

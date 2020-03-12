@@ -7,24 +7,24 @@
 
 タイム・ワーナー（現ワーナーメディア）傘下で[ニューヨーク](../Page/ニューヨーク.md "wikilink")に本部がある。HBOおよび映画専門チャンネル「**Cinemax**」を運営しており、2016年末の段階で契約者数はアメリカ合衆国で4900万、世界中で13000万\[1\]\[2\]。
 
-1975年の通信衛星経由の番組配信はケーブルテレビの歴史を変えた老舗。ライバル局の[Showtime](../Page/Showtime.md "wikilink")・[Starz](../Page/Starz.md "wikilink")を抑えアメリカでトップの実績を誇る。関連企業の[ワーナー・ブラザース](https://ja.wikipedia.org/wiki/ワーナー・ブラザース "wikilink")参加のもと、オリジナルのテレビドラマの制作に絶対的な自信を持っており、主要なコンテンツとなっている\[3\]。近年では『[ゲーム・オブ・スローンズ](https://ja.wikipedia.org/wiki/ゲーム・オブ・スローンズ "wikilink")』が日本を含め世界的に大ヒットした。
+1975年の通信衛星経由の番組配信はケーブルテレビの歴史を変えた老舗。ライバル局の[Showtime](../Page/Showtime.md "wikilink")・[Starz](../Page/Starz.md "wikilink")を抑えアメリカでトップの実績を誇る。関連企業の[ワーナー・ブラザース](../Page/ワーナー・ブラザース.md "wikilink")参加のもと、オリジナルのテレビドラマの制作に絶対的な自信を持っており、主要なコンテンツとなっている\[3\]。近年では『[ゲーム・オブ・スローンズ](https://ja.wikipedia.org/wiki/ゲーム・オブ・スローンズ "wikilink")』が日本を含め世界的に大ヒットした。
 
 基本料金とは別に、2015年の段階で月額15ドル～20ドルの視聴料を支払うことで視聴可能となるプレミアムチャンネルである。HBOは日本における[WOWOW](../Page/WOWOW.md "wikilink")、Cinemaxは[スター・チャンネル](../Page/スター・チャンネル.md "wikilink")と同じような位置付けの局である。なお、視聴者からの視聴料を主要な財源としているため、放送中にコマーシャルが流れることはない。
 
 1999年より[HDTV放送を開始](https://ja.wikipedia.org/wiki/高精細度テレビジョン放送 "wikilink")。現在はHBO・CinemaxのすべてのチャンネルがHDTVで放送している。
 
-日本では、[J:COM子会社のジュピターVODと契約](../Page/ジュピターテレコム.md "wikilink")、[2007年](../Page/2007年.md "wikilink")10月よりJ:COMの[ビデオ・オン・デマンド](https://ja.wikipedia.org/wiki/ビデオ・オン・デマンド "wikilink")サービス「J:COMオンデマンド」で放送。また2016年2月にHuluとSVODサービスにおいてコンテンツ国内独占配信契約を締結した。
+日本では、[J:COM子会社のジュピターVODと契約](../Page/ジュピターテレコム.md "wikilink")、[2007年](../Page/2007年.md "wikilink")10月よりJ:COMの[ビデオ・オン・デマンド](../Page/ビデオ・オン・デマンド.md "wikilink")サービス「J:COMオンデマンド」で放送。また2016年2月にHuluとSVODサービスにおいてコンテンツ国内独占配信契約を締結した。
 
 ## 経歴
 
   - [1972年](../Page/1972年.md "wikilink") - Sterling Manhattan Cableにより放送開始。
-  - [1973年](../Page/1973年.md "wikilink") - 契約者数が伸び悩み、Time Life（現：[ワーナーメディア](https://ja.wikipedia.org/wiki/ワーナーメディア "wikilink")）が経営権を握る。
+  - [1973年](../Page/1973年.md "wikilink") - 契約者数が伸び悩み、Time Life（現：[ワーナーメディア](../Page/ワーナーメディア.md "wikilink")）が経営権を握る。
   - [1975年](../Page/1975年.md "wikilink") - [通信衛星](../Page/通信衛星.md "wikilink")による番組配信を行う。最初の番組は[マニラ](../Page/マニラ.md "wikilink")で行われた[モハメド・アリ](../Page/モハメド・アリ.md "wikilink")対[ジョー・フレージャー](../Page/ジョー・フレージャー.md "wikilink")戦。
   - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink") - 「The Movie Channel」に対抗して、映画専門チャンネル「Cinemax」放送開始。
   - [1981年](../Page/1981年.md "wikilink")[9月](../Page/9月.md "wikilink") - 週末のみ24時間放送開始(これまでは15時～24時までの9時間だけ放送していた)。
   - [1981年](../Page/1981年.md "wikilink")[12月28日](../Page/12月28日.md "wikilink") - 24時間放送を平日にも拡大、完全24時間放送となる。
   - [1989年](../Page/1989年.md "wikilink") - タイム・ワーナー発足により、その傘下となる。
-  - [1991年](../Page/1991年.md "wikilink") - HBO2、Cinemax2（現在のMoreMAX）放送開始。既存のHBO、Cinemaxとの[マルチプレックス放送開始](https://ja.wikipedia.org/wiki/多重化 "wikilink")。
+  - [1991年](../Page/1991年.md "wikilink") - HBO2、Cinemax2（現在のMoreMAX）放送開始。既存のHBO、Cinemaxとの[マルチプレックス放送開始](../Page/多重化.md "wikilink")。
   - [1999年](../Page/1999年.md "wikilink") - HBO HDの放送開始。
   - [2003年](../Page/2003年.md "wikilink") - Cinemax HDの放送開始。
 
@@ -41,7 +41,7 @@
   - [ROME［ローマ］](../Page/ROME［ローマ］.md "wikilink")（[BBCとの共同制作](../Page/英国放送協会.md "wikilink")）
   - [ラリーのミッドライフ★クライシス](https://ja.wikipedia.org/wiki/ラリーのミッドライフ★クライシス "wikilink")
   - [THE WIRE/ザ・ワイヤー](https://ja.wikipedia.org/wiki/THE_WIRE/ザ・ワイヤー "wikilink")
-  - [バンド・オブ・ブラザース](https://ja.wikipedia.org/wiki/バンド・オブ・ブラザース "wikilink")
+  - [バンド・オブ・ブラザース](../Page/バンド・オブ・ブラザース.md "wikilink")
   - [ボードウォーク・エンパイア](https://ja.wikipedia.org/wiki/ボードウォーク・エンパイア "wikilink")
   - [ゲーム・オブ・スローンズ](https://ja.wikipedia.org/wiki/ゲーム・オブ・スローンズ "wikilink")
   - [GIRLS/ガールズ](https://ja.wikipedia.org/wiki/GIRLS/ガールズ "wikilink")
@@ -52,11 +52,11 @@
 
 ### 映画
 
-ワーナーメディア傘下の[ワーナー・ブラザース](https://ja.wikipedia.org/wiki/ワーナー・ブラザース "wikilink")の他、[ドリームワークス](https://ja.wikipedia.org/wiki/ドリームワークス "wikilink")、[20世紀フォックス](https://ja.wikipedia.org/wiki/20世紀フォックス "wikilink")、[ユニバーサル映画](https://ja.wikipedia.org/wiki/ユニバーサル・スタジオ "wikilink")、[ニュー・ライン・シネマ](https://ja.wikipedia.org/wiki/ニュー・ライン・シネマ "wikilink")とペイテレビ独占契約を結んでいる。
+ワーナーメディア傘下の[ワーナー・ブラザース](../Page/ワーナー・ブラザース.md "wikilink")の他、[ドリームワークス](../Page/ドリームワークス.md "wikilink")、[20世紀フォックス](https://ja.wikipedia.org/wiki/20世紀フォックス "wikilink")、[ユニバーサル映画](../Page/ユニバーサル・スタジオ.md "wikilink")、[ニュー・ライン・シネマ](../Page/ニュー・ライン・シネマ.md "wikilink")とペイテレビ独占契約を結んでいる。
 
 ### ドキュメンタリー
 
-[2007年](../Page/2007年.md "wikilink")8月6日、[広島と](https://ja.wikipedia.org/wiki/広島市 "wikilink")[長崎の](../Page/長崎市.md "wikilink")[原爆](https://ja.wikipedia.org/wiki/原爆 "wikilink")被害（→[広島市への原子爆弾投下](https://ja.wikipedia.org/wiki/広島市への原子爆弾投下 "wikilink")、[長崎市への原子爆弾投下](https://ja.wikipedia.org/wiki/長崎市への原子爆弾投下 "wikilink")）の実像を描いた日系3世の監督・[スティーブン・オカザキ](https://ja.wikipedia.org/wiki/スティーブン・オカザキ "wikilink")の「White Light, Black Rain: The destruction of Hiroshima and Nagasaki」（邦題『ヒロシマナガサキ』）を放映し話題になった。このドキュメンタリーには、アメリカのテレビ番組に登場し、広島への原爆投下を後悔するエノラゲイ号の元搭乗員と握手する[谷本清](https://ja.wikipedia.org/wiki/谷本清 "wikilink")牧師の貴重な映像なども含まれている。
+[2007年](../Page/2007年.md "wikilink")8月6日、[広島と](https://ja.wikipedia.org/wiki/広島市 "wikilink")[長崎の](../Page/長崎市.md "wikilink")[原爆](https://ja.wikipedia.org/wiki/原爆 "wikilink")被害（→[広島市への原子爆弾投下](../Page/広島市への原子爆弾投下.md "wikilink")、[長崎市への原子爆弾投下](https://ja.wikipedia.org/wiki/長崎市への原子爆弾投下 "wikilink")）の実像を描いた日系3世の監督・[スティーブン・オカザキ](https://ja.wikipedia.org/wiki/スティーブン・オカザキ "wikilink")の「White Light, Black Rain: The destruction of Hiroshima and Nagasaki」（邦題『ヒロシマナガサキ』）を放映し話題になった。このドキュメンタリーには、アメリカのテレビ番組に登場し、広島への原爆投下を後悔するエノラゲイ号の元搭乗員と握手する[谷本清](../Page/谷本清.md "wikilink")牧師の貴重な映像なども含まれている。
 
 ### その他
 

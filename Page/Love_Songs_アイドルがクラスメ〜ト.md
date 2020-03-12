@@ -34,21 +34,21 @@
 ### ヒロイン
 
   - 瀬戸綾乃（せと あやの）
-    [声](../Page/声優.md "wikilink") - [小松里賀](https://ja.wikipedia.org/wiki/小松里歌 "wikilink")
+    [声](../Page/声優.md "wikilink") - [小松里賀](../Page/小松里歌.md "wikilink")
     本作のメインヒロインで主人公のクラスメイト。仕事と勉強を両立する優等生。現在売り出し中のアイドル。真面目さを絵に書いたような性格ゆえに、コンプレックスを持つことも。
   - 観月唯香（みづき ゆか）
     声 - [浅井清己](../Page/浅井清己.md "wikilink")
     綾乃をライバル視するアイドル。ボーイッシュな性格で人気が高い。
   - 橘涼子（たちばな りょうこ）
     声 - [岩崎陽子](https://ja.wikipedia.org/wiki/岩崎陽子（声優） "wikilink")
-    [ファッション雑誌](../Page/ファッション雑誌.md "wikilink")で人気の[モデル](https://ja.wikipedia.org/wiki/ファッションモデル "wikilink")。175cmの長身で女性人気は高い。高飛車故に男性には辛くあたりがち。
+    [ファッション雑誌](../Page/ファッション雑誌.md "wikilink")で人気の[モデル](../Page/ファッションモデル.md "wikilink")。175cmの長身で女性人気は高い。高飛車故に男性には辛くあたりがち。
   - 桜井美奈子（さくらい みなこ）
-    声 - [安田美和](https://ja.wikipedia.org/wiki/安田美和 "wikilink")
+    声 - [安田美和](../Page/安田美和.md "wikilink")
     [アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")志望の少女。主人公とは仲がいいが友達以上に見られない。
   - 神楽ありす（かぐら ありす）
-    声 - [城雅子](https://ja.wikipedia.org/wiki/城雅子 "wikilink")
+    声 - [城雅子](../Page/城雅子.md "wikilink")
     声優界のトップアイドルで、本名は「鈴木恭子」。主人公の1年後輩。子供っぽい容姿で戦隊ヒーローが大好き。
-  - [双葉理保](https://ja.wikipedia.org/wiki/双葉理保 "wikilink")（ふたば りほ）
+  - [双葉理保](../Page/双葉理保.md "wikilink")（ふたば りほ）
     声 - [後藤邑子](https://ja.wikipedia.org/wiki/後藤邑子 "wikilink")
     95cmの巨乳[グラビアアイドル](https://ja.wikipedia.org/wiki/グラビアアイドル "wikilink")。主人公の幼馴染。芸能人である自覚がいまいち欠けているらしい。
     最初から登場しているのは綾乃と彼女だけである。また、のちにさまざまな作品に登場する彼女は本作がデビュー作である。
@@ -66,7 +66,7 @@
     友人の男子生徒。[関西弁を話す調子のいい性格のキャラクター](https://ja.wikipedia.org/wiki/近畿方言 "wikilink")。
     [芸能界](https://ja.wikipedia.org/wiki/芸能界 "wikilink")全般に詳しく、主人公にヒロインからの評価を教えてくれる。
   - 岡村幸男（おかむら ゆきお）
-    声 - [田中大文](https://ja.wikipedia.org/wiki/田中大文 "wikilink")
+    声 - [田中大文](../Page/田中大文.md "wikilink")
     友人の男子生徒。眼鏡をかけた慇懃な口調のアイドル[オタク](https://ja.wikipedia.org/wiki/オタク "wikilink")。
     主人公にヒロインの性格や趣味を教えてくれる。
   - 宝条瞬（ほうじょう しゅん）
@@ -94,9 +94,9 @@
 
 ### SIMPLE2000シリーズvol.63 もぎたて水着！女まみれのTHE水泳大会
 
-[2004年](../Page/2004年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")に発売された[スポーツゲーム](https://ja.wikipedia.org/wiki/スポーツゲーム "wikilink")。開発は[タムソフト](https://ja.wikipedia.org/wiki/タムソフト "wikilink")。
+[2004年](../Page/2004年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")に発売された[スポーツゲーム](../Page/スポーツゲーム.md "wikilink")。開発は[タムソフト](https://ja.wikipedia.org/wiki/タムソフト "wikilink")。
 
-[アイドル水泳大会](https://ja.wikipedia.org/wiki/アイドル水泳大会 "wikilink")をモチーフにしており、『Love Songs』のヒロイン8人を含む10人の女性キャラクターのうち1人を操作して、他のキャラクターとミニゲームで対決する。
+[アイドル水泳大会](../Page/アイドル水泳大会.md "wikilink")をモチーフにしており、『Love Songs』のヒロイン8人を含む10人の女性キャラクターのうち1人を操作して、他のキャラクターとミニゲームで対決する。
 
 ## 関連項目
 

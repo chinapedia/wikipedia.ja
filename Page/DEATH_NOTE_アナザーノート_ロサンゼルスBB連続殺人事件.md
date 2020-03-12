@@ -1,15 +1,15 @@
 > この記事は[DEATH NOTE  BB](https://ja.wikipedia.org/wiki/DEATH_NOTE__BB)から翻訳されています。
 
 
-『**DEATH NOTE アナザーノート ロサンゼルスBB連続殺人事件**』（デスノート アナザーノート ロサンゼルスビービーれんぞくさつじんじけん）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[8月1日](../Page/8月1日.md "wikilink")に[集英社](../Page/集英社.md "wikilink")から発売された[西尾維新](../Page/西尾維新.md "wikilink")の[小説](../Page/小説.md "wikilink")（[ノベライズ作品](../Page/小説化.md "wikilink")）。同じく西尾維新によるノベライズ作品『xxxHOLiC アナザーホリック ランドルト環エアロゾル』（原作は[CLAMP](../Page/CLAMP.md "wikilink")の漫画『[xxxHOLiC](https://ja.wikipedia.org/wiki/XXXHOLiC "wikilink")』〈[講談社](../Page/講談社.md "wikilink")〉）と同時に刊行された。
+『**DEATH NOTE アナザーノート ロサンゼルスBB連続殺人事件**』（デスノート アナザーノート ロサンゼルスビービーれんぞくさつじんじけん）は、[2006年](../Page/2006年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")に[集英社](../Page/集英社.md "wikilink")から発売された[西尾維新](../Page/西尾維新.md "wikilink")の[小説](../Page/小説.md "wikilink")（[ノベライズ作品](../Page/小説化.md "wikilink")）。同じく西尾維新によるノベライズ作品『xxxHOLiC アナザーホリック ランドルト環エアロゾル』（原作は[CLAMP](../Page/CLAMP.md "wikilink")の漫画『[xxxHOLiC](../Page/XXXHOLiC.md "wikilink")』〈[講談社](../Page/講談社.md "wikilink")〉）と同時に刊行された。
 
-本作は、漫画『[DEATH NOTE](https://ja.wikipedia.org/wiki/DEATH_NOTE "wikilink")』（以下・原作）の[スピンオフ小説である](https://ja.wikipedia.org/wiki/スピンオフ作品 "wikilink")。物語は原作に登場した名探偵**[L](../Page/L_\(DEATH_NOTE\).md "wikilink")**、及びFBI捜査官の**南空ナオミ**を主人公として構成されており、主に南空ナオミの一人称で進んでいく。[語り手](../Page/語り手.md "wikilink")は、Lの後継者候補である**メロ**（太字の人物については[DEATH NOTEの登場人物を参照](https://ja.wikipedia.org/wiki/DEATH_NOTEの登場人物 "wikilink")）。舞台はキラ事件発生以前の[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")であり、原作で名前の挙がった事件「ロサンゼルスBB連続殺人事件\[1\]」について語られる。
+本作は、漫画『[DEATH NOTE](https://ja.wikipedia.org/wiki/DEATH_NOTE "wikilink")』（以下・原作）の[スピンオフ小説である](https://ja.wikipedia.org/wiki/スピンオフ作品 "wikilink")。物語は原作に登場した名探偵**[L](../Page/L_\(DEATH_NOTE\).md "wikilink")**、及びFBI捜査官の**南空ナオミ**を主人公として構成されており、主に南空ナオミの一人称で進んでいく。[語り手](../Page/語り手.md "wikilink")は、Lの後継者候補である**メロ**（太字の人物については[DEATH NOTEの登場人物を参照](../Page/DEATH_NOTEの登場人物.md "wikilink")）。舞台はキラ事件発生以前の[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")であり、原作で名前の挙がった事件「ロサンゼルスBB連続殺人事件\[1\]」について語られる。
 
 ## ストーリー
 
 後にロサンゼルスBB連続殺人事件として知られるその事件は、原作第一部開始の2年前に当たる[2002年](../Page/2002年.md "wikilink")[7月31日](../Page/7月31日.md "wikilink")、[ハリウッド](../Page/ハリウッド.md "wikilink")に住む男性、ビリーヴ・ブライズメイドが「絞殺」されることから始まる。
 
-その4日後の[8月4日](../Page/8月4日.md "wikilink")、[ダウンタウンに住む少女](../Page/繁華街.md "wikilink")、クオーター・クイーンが撲殺。更にその9日後の[8月13日](../Page/8月13日.md "wikilink")には、ウエストサイドに住む女性、バックヤード・ボトムスラッシュが刺殺される。イニシャルが同じアルファベットのぞろ目で、それぞれ、室内の壁に[藁人形](https://ja.wikipedia.org/wiki/藁人形 "wikilink")が打ち付けられており、それらは連続殺人事件として捜査・報道される。
+その4日後の[8月4日](../Page/8月4日.md "wikilink")、[ダウンタウンに住む少女](../Page/繁華街.md "wikilink")、クオーター・クイーンが撲殺。更にその9日後の[8月13日](../Page/8月13日.md "wikilink")には、ウエストサイドに住む女性、バックヤード・ボトムスラッシュが刺殺される。イニシャルが同じアルファベットのぞろ目で、それぞれ、室内の壁に[藁人形](../Page/藁人形.md "wikilink")が打ち付けられており、それらは連続殺人事件として捜査・報道される。
 
 第三の殺人が起こった翌日、Lはパソコンの画面越しにFBI捜査官の南空ナオミに連絡、現場を捜査させる。その中で探偵「竜崎ルエ」と名乗る謎の男と出会ったナオミは、彼らの助言の元、事件の真相へと近付いていく。
 
@@ -20,7 +20,7 @@
     事件解決後に、眼の下に深い隈、長袖の白いシャツ、ブルージーンズ、くたびれたスニーカー姿で南空の前に姿を現す。
     指をしゃぶり、神経質な雰囲気はない。
   - 南空ナオミ（みそら ナオミ）
-    [FBI捜査官](../Page/連邦捜査局.md "wikilink")。とある事件で致命的なミスを犯してしまったことにより休職中の身。Lより依頼を受け、通信を取りながら捜査する。[バイク好き](../Page/オートバイ.md "wikilink")。[カポエイラ](https://ja.wikipedia.org/wiki/カポエイラ "wikilink")の使い手で、大学でストリートダンスにはまった時期に習得したらしい。
+    [FBI捜査官](../Page/連邦捜査局.md "wikilink")。とある事件で致命的なミスを犯してしまったことにより休職中の身。Lより依頼を受け、通信を取りながら捜査する。[バイク好き](../Page/オートバイ.md "wikilink")。[カポエイラ](../Page/カポエイラ.md "wikilink")の使い手で、大学でストリートダンスにはまった時期に習得したらしい。
   - 竜崎ルエ（りゅうざき ルエ、Luxaky Luee; Ryuzaki Rue、で英語）
     被害者の両親より依頼を受け、捜査しているという正体不明の[私立探偵](https://ja.wikipedia.org/wiki/探偵 "wikilink")。
     背が高い、猫背、ぎょろりとしたパンダ目、天然の黒髪、無地のシャツ、洗いざらしのジーンズ、神経質そうに親指の爪を齧る、病的な甘党、足を抱えた座り方、優れた推理力、どこかおかしな挙動と、なにからなにまで読者の知る「彼」を思わせる。

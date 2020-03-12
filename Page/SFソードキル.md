@@ -1,7 +1,7 @@
 > この記事は[SF](https://ja.wikipedia.org/wiki/SF)から翻訳されています。
 
 
-『**SFソードキル**』（*Ghost Warrior*）は[1984年](../Page/1984年.md "wikilink")の[アメリカ合衆国の映画](https://ja.wikipedia.org/wiki/アメリカ合衆国の映画 "wikilink")。[藤岡弘が本作でハリウッド映画に初主演したことで話題となった](../Page/藤岡弘、.md "wikilink")。[エンパイア・ピクチャーズ](https://ja.wikipedia.org/wiki/エンパイア・ピクチャーズ "wikilink")製作。上映時間86分。日本での公開は[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[12月20日](../Page/12月20日.md "wikilink")。
+『**SFソードキル**』（*Ghost Warrior*）は[1984年](../Page/1984年.md "wikilink")の[アメリカ合衆国の映画](../Page/アメリカ合衆国の映画.md "wikilink")。[藤岡弘が本作でハリウッド映画に初主演したことで話題となった](../Page/藤岡弘、.md "wikilink")。[エンパイア・ピクチャーズ](https://ja.wikipedia.org/wiki/エンパイア・ピクチャーズ "wikilink")製作。上映時間86分。日本での公開は[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[12月20日](../Page/12月20日.md "wikilink")。
 
 1985年の[パリ国際ファンタスティック\&SF映画祭](https://ja.wikipedia.org/wiki/パリ国際ファンタスティック&SF映画祭 "wikilink")で批評家賞を受賞した。
 

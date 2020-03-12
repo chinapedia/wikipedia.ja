@@ -9,7 +9,7 @@
 
 本機は、[日本IBM大和研究所と](../Page/日本IBM大和事業所.md "wikilink")、日本IBMと[リコー](../Page/リコー.md "wikilink")の共同出資会社[ライオス・システム](https://ja.wikipedia.org/wiki/ライオス・システム "wikilink")で共同開発されたもので、小さいながらも完全な[PC/AT互換機](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink")である。[A6](../Page/紙の寸法.md "wikilink")[ファイルサイズ](../Page/ファイル_\(文具\).md "wikilink")、[ジュラルミン](../Page/ジュラルミン.md "wikilink")製の外装、バッテリー込みの重量は630 gと、[VGA表示可能なカラー液晶を搭載したPCとしては](../Page/Video_Graphics_Array.md "wikilink")、当時世界最小・最軽量であった。いずれも当時の標準的なサブノートのほぼ半分、一般的な[ノートパソコン](../Page/ノートパソコン.md "wikilink")の四分の一である。このサイズは、開発者のズボンポケットに入る大きさとして企画された。
 
-[CPU](../Page/CPU.md "wikilink")はSLエンハンスド[i486SX](../Page/Intel486.md "wikilink")-33MHz、メモリは4MBまたは8MB（[サードパーティー](https://ja.wikipedia.org/wiki/サードパーティー "wikilink")製では16MBもあった）。ディスプレイは4.7インチ[DSTNカラー液晶](https://ja.wikipedia.org/wiki/STN液晶 "wikilink")。画面はVGA（640×480ドット、256色、ただし外部ディスプレイでは800×600、16色まで表示可能）。[筐体](../Page/筐体.md "wikilink")は[ジュラルミン](../Page/ジュラルミン.md "wikilink")製で、これは小ささゆえの軽さと[強度](../Page/強度.md "wikilink")を求めての採用だった。性能としては当時の標準以下であった。
+[CPU](../Page/CPU.md "wikilink")はSLエンハンスド[i486SX](../Page/Intel486.md "wikilink")-33MHz、メモリは4MBまたは8MB（[サードパーティー](../Page/サードパーティー.md "wikilink")製では16MBもあった）。ディスプレイは4.7インチ[DSTNカラー液晶](../Page/STN液晶.md "wikilink")。画面はVGA（640×480ドット、256色、ただし外部ディスプレイでは800×600、16色まで表示可能）。[筐体](../Page/筐体.md "wikilink")は[ジュラルミン](../Page/ジュラルミン.md "wikilink")製で、これは小ささゆえの軽さと[強度](../Page/強度.md "wikilink")を求めての採用だった。性能としては当時の標準以下であった。
 
 本体に[HDDを持たず](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")、[OSは](../Page/オペレーティングシステム.md "wikilink")4MBの内蔵[フラッシュメモリ](../Page/フラッシュメモリ.md "wikilink")ドライブや[PCカード](../Page/PCカード.md "wikilink")、[コンパクトフラッシュ](../Page/コンパクトフラッシュ.md "wikilink")のいずれかから起動した。
 
@@ -30,7 +30,7 @@
 <!-- end list -->
 
   - タッチパッド
-    キーボードの上中央には[タッチパッド](https://ja.wikipedia.org/wiki/タッチパッド "wikilink")が装備され、付属の[PIMソフトPersonaware](../Page/Personal_Information_Manager.md "wikilink")（後述）専用である。メモパッドの表面に傷が付かないように透明フィルムが乗せられるようになっており、交換用フィルムが数枚付属していた。また、後にWindowsで[PS/2](https://ja.wikipedia.org/wiki/IBM_PS/2 "wikilink")[マウスとして扱うドライバが有志により発表されたり](../Page/マウス_\(コンピュータ\).md "wikilink")、[Linux](../Page/Linux.md "wikilink")でもPS/2マウス互換のポインティングデバイスとして使える様になった（これは[Alan Coxが一時期PC](https://ja.wikipedia.org/wiki/アラン・コックス "wikilink")110でLinuxを開発していたため）。
+    キーボードの上中央には[タッチパッド](../Page/タッチパッド.md "wikilink")が装備され、付属の[PIMソフトPersonaware](../Page/Personal_Information_Manager.md "wikilink")（後述）専用である。メモパッドの表面に傷が付かないように透明フィルムが乗せられるようになっており、交換用フィルムが数枚付属していた。また、後にWindowsで[PS/2](https://ja.wikipedia.org/wiki/IBM_PS/2 "wikilink")[マウスとして扱うドライバが有志により発表されたり](../Page/マウス_\(コンピュータ\).md "wikilink")、[Linux](../Page/Linux.md "wikilink")でもPS/2マウス互換のポインティングデバイスとして使える様になった（これは[Alan Coxが一時期PC](https://ja.wikipedia.org/wiki/アラン・コックス "wikilink")110でLinuxを開発していたため）。
 
 ### 正面および背面
 
@@ -46,7 +46,7 @@
 
 ### 電話機能
 
-本機にはDATA 2400bpsのモデムが装備されているが、[電話](../Page/電話.md "wikilink")としても使用できる。本体前面にある丸い電話スピーカとマイクを受話器として使用する。マイクにスイッチがあり、右にスライドするとフックが上がる仕組みになっている。電話をかけるには、Personawareの電話を選択し、画面上の数字ボタンを押すか、住所録から選ぶ。電話を受けるには本機の背面側を持ち、前面の両端にあるスピーカ（左側）とマイク（右側）を耳と口に当てることになる。電話をかけ始めれば本機の電源を切断しても良く、受電は電源切断状態でも可能である。他にもポケベルにメッセージを送る機能や、[留守番電話](https://ja.wikipedia.org/wiki/留守番電話 "wikilink")の機能も付いていた。
+本機にはDATA 2400bpsのモデムが装備されているが、[電話](../Page/電話.md "wikilink")としても使用できる。本体前面にある丸い電話スピーカとマイクを受話器として使用する。マイクにスイッチがあり、右にスライドするとフックが上がる仕組みになっている。電話をかけるには、Personawareの電話を選択し、画面上の数字ボタンを押すか、住所録から選ぶ。電話を受けるには本機の背面側を持ち、前面の両端にあるスピーカ（左側）とマイク（右側）を耳と口に当てることになる。電話をかけ始めれば本機の電源を切断しても良く、受電は電源切断状態でも可能である。他にもポケベルにメッセージを送る機能や、[留守番電話](../Page/留守番電話.md "wikilink")の機能も付いていた。
 
 ### 内蔵フラッシュメモリとPersonaware
 
@@ -58,7 +58,7 @@
 
 ### ポート・リプリケーター
 
-[IBM_Palm_Top_PC_110_port_replicator.jpg](https://ja.wikipedia.org/wiki/File:IBM_Palm_Top_PC_110_port_replicator.jpg "fig:IBM_Palm_Top_PC_110_port_replicator.jpg") [IBM_Palm_Top_PC_110_with_port_rep.jpg](https://ja.wikipedia.org/wiki/File:IBM_Palm_Top_PC_110_with_port_rep.jpg "fig:IBM_Palm_Top_PC_110_with_port_rep.jpg") 本体には[シリアルポート](../Page/シリアルポート.md "wikilink")や[パラレルポート](https://ja.wikipedia.org/wiki/パラレルポート "wikilink")は装備されておらず、これらを使用するには専用の**ポート・リプリケーター**が必要である。本体よりほんの少し大きく、本体下面の拡張コネクタを介して接続する。ポート・リプリケーターの背面にはシリアルポート、パラレルポート、ディスプレイポート、左側にはPS2ポート、右側には外付けフロッピードライブのコネクタがあった。
+[IBM_Palm_Top_PC_110_port_replicator.jpg](https://ja.wikipedia.org/wiki/File:IBM_Palm_Top_PC_110_port_replicator.jpg "fig:IBM_Palm_Top_PC_110_port_replicator.jpg") [IBM_Palm_Top_PC_110_with_port_rep.jpg](https://ja.wikipedia.org/wiki/File:IBM_Palm_Top_PC_110_with_port_rep.jpg "fig:IBM_Palm_Top_PC_110_with_port_rep.jpg") 本体には[シリアルポート](../Page/シリアルポート.md "wikilink")や[パラレルポート](../Page/パラレルポート.md "wikilink")は装備されておらず、これらを使用するには専用の**ポート・リプリケーター**が必要である。本体よりほんの少し大きく、本体下面の拡張コネクタを介して接続する。ポート・リプリケーターの背面にはシリアルポート、パラレルポート、ディスプレイポート、左側にはPS2ポート、右側には外付けフロッピードライブのコネクタがあった。
 
 ### デジタルカメラ キヤノンCE300
 
@@ -93,13 +93,13 @@
 
 モノリスの内部のプロトタイプは1991年8月にはできあがった。重さ500g、i386SL-20MHz、2MB RAM、640×480ドットVGA16階調のモノクロ液晶、単3電池4本で駆動した。しかし、ディスプレイが5インチ弱で今のようにバックライトもないため漢字表示は見難く、製品化は見送られることになった。
 
-そのモノリスをベースに開発されたのが[ThinkPad 220であった](../Page/ThinkPad_220.md "wikilink")。最初のプロトタイプは1991年末までには完成した。[1993年](../Page/1993年.md "wikilink")5月、220は「[ビジネスシヨウ](https://ja.wikipedia.org/wiki/ビジネスシヨウ "wikilink") '93 TOKYO」でモノリスと共に展示された。220は同年夏に、当時日本IBMが販売していた[マルチステーション5550](https://ja.wikipedia.org/wiki/マルチステーション5550 "wikilink")に因み5550台限定で販売され完売し、**サブノートPC**というジャンルを開拓した。以後、このジャンルはThinkPad 230Csから現在のThinkPad Xシリーズにまで受け継がれている。
+そのモノリスをベースに開発されたのが[ThinkPad 220であった](../Page/ThinkPad_220.md "wikilink")。最初のプロトタイプは1991年末までには完成した。[1993年](../Page/1993年.md "wikilink")5月、220は「[ビジネスシヨウ](../Page/ビジネスシヨウ.md "wikilink") '93 TOKYO」でモノリスと共に展示された。220は同年夏に、当時日本IBMが販売していた[マルチステーション5550](https://ja.wikipedia.org/wiki/マルチステーション5550 "wikilink")に因み5550台限定で販売され完売し、**サブノートPC**というジャンルを開拓した。以後、このジャンルはThinkPad 230Csから現在のThinkPad Xシリーズにまで受け継がれている。
 
 一方、ビジネスシヨウを見た者が[パソコン通信](../Page/パソコン通信.md "wikilink")で「モノリスを出せ」、あるいは勝手に名前を付けて「**ThinkPad 110**を出せ」、などという書き込みがあり、PC110はこれらの声に答えたものであった。あちこちの凝りに凝った作りも、マニアの声に答えるというより、自分たちのやりたいことをできるだけ詰め込んだと言うように見てとれる。試作機モノリスへの思いも込めて、PC110の基板上には、"MONOLITH 1992"と刻印されているのも、それを示したものと言える。電話機能も必ずしも実用的なものではない（多分使わなかった人が大部分だと思われる）が、できるだけいろいろな機能をいれたい、あるいは可能性を世に問いたいという思いのためであろう。企画段階ではさらに多くのものがあったという。コンピュータにインターネット、電話、カメラを合わせる発想はその後の[携帯電話](../Page/携帯電話.md "wikilink")や[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")の進歩を先取りしたものであると言える。
 
 ### ユーザーの反応
 
-という訳で、PC110の発売は一定層には大いに待ち望まれたものであった。反響は大きく、[パソコン雑誌](https://ja.wikipedia.org/wiki/パソコン雑誌 "wikilink")が特集を組んだほどであった。使い方やさまざまな実験例がユーザー間でやり取りされた。ちょうどその直後に[Windows 95が発売され](../Page/Microsoft_Windows_95.md "wikilink")、[インターネット](../Page/インターネット.md "wikilink")が爆発的に普及を始めた時であり、ウェブ上でもさまざまな情報発信が行われた。
+という訳で、PC110の発売は一定層には大いに待ち望まれたものであった。反響は大きく、[パソコン雑誌](../Page/パソコン雑誌.md "wikilink")が特集を組んだほどであった。使い方やさまざまな実験例がユーザー間でやり取りされた。ちょうどその直後に[Windows 95が発売され](../Page/Microsoft_Windows_95.md "wikilink")、[インターネット](../Page/インターネット.md "wikilink")が爆発的に普及を始めた時であり、ウェブ上でもさまざまな情報発信が行われた。
 
 そのWindows 95も多くのユーザがPC110にインストールし使用していた。[OS/2 Warpをインストールした話もあったが](https://ja.wikipedia.org/wiki/OS/2_Warp "wikilink")、これは動いているのがやっと確認できるレベルだった。[Linux](../Page/Linux.md "wikilink")のインストールについて解説したウェブサイトもいくつもあった。[BTRON](../Page/BTRON.md "wikilink")の当時の現行バージョンであった1B/V3もインストール可能で、それを薦める書籍もあった。
 
@@ -109,8 +109,8 @@
 
 キャラクターとして[円谷プロダクション](../Page/円谷プロダクション.md "wikilink")のウルトラマンが使用されただけでなく、当時圧倒的に世界最小最軽量であったPC110の先進性や金属性ボディのデザイン性等からか、いくつかのエンタテインメント作品に登場している。
 
-  - [ジオブリーダーズ](https://ja.wikipedia.org/wiki/ジオブリーダーズ "wikilink")（[伊藤明弘](https://ja.wikipedia.org/wiki/伊藤明弘 "wikilink")作、[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")・[OVA](../Page/OVA.md "wikilink")）- 作品中でPC110が活躍している。
-  - [ウルトラマンガイア](https://ja.wikipedia.org/wiki/ウルトラマンガイア "wikilink")（[特撮](../Page/特撮.md "wikilink")テレビ番組）
+  - [ジオブリーダーズ](https://ja.wikipedia.org/wiki/ジオブリーダーズ "wikilink")（[伊藤明弘](../Page/伊藤明弘.md "wikilink")作、[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")・[OVA](../Page/OVA.md "wikilink")）- 作品中でPC110が活躍している。
+  - [ウルトラマンガイア](../Page/ウルトラマンガイア.md "wikilink")（[特撮](../Page/特撮.md "wikilink")テレビ番組）
 
 ## 弱点
 

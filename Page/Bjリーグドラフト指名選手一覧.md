@@ -1,29 +1,29 @@
 > この記事は[Bj](https://ja.wikipedia.org/wiki/Bj)から翻訳されています。
 
 
-**bjリーグドラフト指名選手一覧**（ビージェイリーグドラフトしめいせんしゅいちらん）は、[bjリーグで](https://ja.wikipedia.org/wiki/日本プロバスケットボールリーグ "wikilink")[ドラフト指名された選手の](https://ja.wikipedia.org/wiki/Bjリーグドラフト会議 "wikilink")[一覧](https://ja.wikipedia.org/wiki/一覧 "wikilink")。
+**bjリーグドラフト指名選手一覧**（ビージェイリーグドラフトしめいせんしゅいちらん）は、[bjリーグで](https://ja.wikipedia.org/wiki/日本プロバスケットボールリーグ "wikilink")[ドラフト指名された選手の](../Page/Bjリーグドラフト会議.md "wikilink")[一覧](https://ja.wikipedia.org/wiki/一覧 "wikilink")。
 
 ## 2005〜2008
 
 |     | 2005              | 2006                                                                 | 2007              | 2008                                                                          |
 | --- | ----------------- | -------------------------------------------------------------------- | ----------------- | ----------------------------------------------------------------------------- |
-| 1位  | <small>大分</small> | **[栗野譲](https://ja.wikipedia.org/wiki/栗野譲 "wikilink")**              | <small>富山</small> | **[呉屋貴教](../Page/呉屋貴教.md "wikilink")**                                        |
+| 1位  | <small>大分</small> | **[栗野譲](../Page/栗野譲.md "wikilink")**                                 | <small>富山</small> | **[呉屋貴教](../Page/呉屋貴教.md "wikilink")**                                        |
 | 2位  | <small>埼玉</small> | <small>[安齋竜三](../Page/安齋竜三.md "wikilink")</small>                    | <small>高松</small> | <small>[石田晃章](../Page/石田晃章.md "wikilink")</small>                             |
 | 3位  | <small>仙台</small> | <small>[日下光](../Page/日下光.md "wikilink")</small>                      | <small>仙台</small> | <small>[高橋憲一](../Page/高橋憲一.md "wikilink")</small>                             |
-| 4位  | <small>大阪</small> | <small>[波多野和也](../Page/波多野和也.md "wikilink")</small>                  | <small>大阪</small> | <small>[佐藤浩貴](https://ja.wikipedia.org/wiki/佐藤浩貴 "wikilink")</small>          |
+| 4位  | <small>大阪</small> | <small>[波多野和也](../Page/波多野和也.md "wikilink")</small>                  | <small>大阪</small> | <small>[佐藤浩貴](../Page/佐藤浩貴.md "wikilink")</small>                             |
 | 5位  | <small>東京</small> | <small>[仲西淳](../Page/仲西淳.md "wikilink")</small>                      | <small>大阪</small> | <small>[斉藤資](../Page/斉藤資.md "wikilink")</small>                               |
 | 6位  | <small>東京</small> | <small>[牧ダレン聡](../Page/牧ダレン聡.md "wikilink")</small>                  | <small>仙台</small> | <small>[近藤雄治](../Page/近藤雄治.md "wikilink")</small>                             |
 | 7位  | <small>大阪</small> | <small>[中村友也](../Page/中村友也.md "wikilink")</small>                    | <small>高松</small> | <small>[ディアン・ティエルノ・セイデゥ・ヌロ](../Page/ディアン・ティエルノ・セイデゥ・ヌロ.md "wikilink")</small> |
 | 8位  | <small>仙台</small> | <small>[大西裕之](../Page/大西裕之.md "wikilink")</small>                    | <small>富山</small> | <small>[陰承民](../Page/陰承民.md "wikilink")</small>                               |
 | 9位  | <small>埼玉</small> | <small>[清水耕介](../Page/清水耕介_\(バスケットボール\).md "wikilink")</small>       | <small>富山</small> | <small>[米本聡](../Page/米本聡.md "wikilink")</small>                               |
-| 10位 | <small>大分</small> | <small>[鈴木裕紀](https://ja.wikipedia.org/wiki/鈴木裕紀 "wikilink")</small> | <small>高松</small> | <small>[城間修平](../Page/城間修平.md "wikilink")</small>                             |
+| 10位 | <small>大分</small> | <small>[鈴木裕紀](../Page/鈴木裕紀.md "wikilink")</small>                    | <small>高松</small> | <small>[城間修平](../Page/城間修平.md "wikilink")</small>                             |
 | 11位 | <small>大分</small> | <small>[佐藤博紀](../Page/佐藤博紀.md "wikilink")</small>                    | <small>新潟</small> | <small>[池田雄一](../Page/池田雄一_\(バスケットボール\).md "wikilink")</small>                |
 | 12位 | <small>埼玉</small> | <small>[原一希](../Page/原一希.md "wikilink")</small>                      | <small>新潟</small> | <small>[田中千尋](https://ja.wikipedia.org/wiki/田中千尋 "wikilink")</small>          |
 | 13位 | <small>仙台</small> | <small>[斉藤恵一](https://ja.wikipedia.org/wiki/斉藤恵一 "wikilink")</small> | <small>高松</small> | <small>[菊池宏之](https://ja.wikipedia.org/wiki/菊池宏之 "wikilink")</small>          |
 | 14位 | <small>大阪</small> | <small>[石橋晴行](https://ja.wikipedia.org/wiki/石橋晴行 "wikilink")</small> | <small>富山</small> | <small>[石橋貴俊](../Page/石橋貴俊.md "wikilink")</small>                             |
 | 15位 | <small>大阪</small> | <small>[太田和利](../Page/太田和利.md "wikilink")</small>                    | <small>富山</small> | <small>[野尻晴一](../Page/野尻晴一.md "wikilink")</small>                             |
 | 16位 | <small>新潟</small> | <small>[佐藤公威](../Page/佐藤公威.md "wikilink")</small>                    | <small>高松</small> | <small>[アイザック・ソジャナー](../Page/アイザック・ソジャナー.md "wikilink")</small>               |
-| 17位 | <small>仙台</small> | <small>[吉田平](../Page/吉田平_\(バスケットボール\).md "wikilink")</small>         | <small>高松</small> | <small>[喜多誠](https://ja.wikipedia.org/wiki/喜多誠 "wikilink")</small>            |
+| 17位 | <small>仙台</small> | <small>[吉田平](../Page/吉田平_\(バスケットボール\).md "wikilink")</small>         | <small>高松</small> | <small>[喜多誠](../Page/喜多誠.md "wikilink")</small>                               |
 | 18位 | <small>埼玉</small> | <small>[安藤毅](https://ja.wikipedia.org/wiki/安藤毅 "wikilink")</small>   | <small></small>   | <small></small>                                                               |
 | 19位 | <small>大分</small> | <small>[島袋脩](../Page/島袋脩.md "wikilink")</small>                      | <small></small>   | <small></small>                                                               |
 | 20位 | <small>大分</small> | <small>[君塚大輔](../Page/君塚大輔.md "wikilink")</small>                    | <small></small>   | <small></small>                                                               |

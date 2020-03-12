@@ -1,9 +1,9 @@
 > この記事は[Protocol Data Unit](https://ja.wikipedia.org/wiki/Protocol_Data_Unit)から翻訳されています。
 
 
-[Pdu_and_sdu.svg](https://ja.wikipedia.org/wiki/File:Pdu_and_sdu.svg "fig:Pdu_and_sdu.svg")(MAC)層のprotocol data unit(PDU)は[物理層](https://ja.wikipedia.org/wiki/物理層 "wikilink")の(SDU)となる。\]\]
+[Pdu_and_sdu.svg](https://ja.wikipedia.org/wiki/File:Pdu_and_sdu.svg "fig:Pdu_and_sdu.svg")(MAC)層のprotocol data unit(PDU)は[物理層](../Page/物理層.md "wikilink")の(SDU)となる。\]\]
 
-[電気通信](../Page/電気通信.md "wikilink")において、**protocol data unit**（**PDU**、プロトコルデータユニット）とは、[コンピュータネットワーク](https://ja.wikipedia.org/wiki/コンピュータネットワーク "wikilink")のピアエンティティ（両端）の間で送受信される最小の情報の単位である。
+[電気通信](../Page/電気通信.md "wikilink")において、**protocol data unit**（**PDU**、プロトコルデータユニット）とは、[コンピュータネットワーク](../Page/コンピュータネットワーク.md "wikilink")のピアエンティティ（両端）の間で送受信される最小の情報の単位である。
 
 PDUは、[通信プロトコル](../Page/通信プロトコル.md "wikilink")で定義された制御情報（[ヘッダ](https://ja.wikipedia.org/wiki/ヘッダ "wikilink")）部分と、通信データの中身である[ペイロードからなる](https://ja.wikipedia.org/wiki/ペイロード_\(コンピュータ\) "wikilink")。 通信プロトコルスタックの階層化アーキテクチャでは、各層は、特定のタイプやモードのデータ交換に合わせて調整されたプロトコルを実装し、それによって、プロトコルで規定されるPDUが異なる。例えば、[TCPはコネクション型転送モードを実施し](../Page/Transmission_Control_Protocol.md "wikilink")、このプロトコルにおけるPDUはセグメントと呼ばれる。一方、[UDPはコネクションレス型転送モードを実施し](../Page/User_Datagram_Protocol.md "wikilink")、PDUとして[データグラム](https://ja.wikipedia.org/wiki/データグラム "wikilink")を使用する。[インターネット・プロトコル・スイート](../Page/インターネット・プロトコル・スイート.md "wikilink")の下位層である[インターネット層](https://ja.wikipedia.org/wiki/インターネット層 "wikilink")では、PDUはペイロードタイプに関係なく[パケット](../Page/パケット.md "wikilink")と呼ばれる。
 
@@ -13,12 +13,12 @@ PDUは、[通信プロトコル](../Page/通信プロトコル.md "wikilink")で
 
 [OSI参照モデル](../Page/OSI参照モデル.md "wikilink")の各層のPDUは次のようになる\[1\]。
 
-| 階層  | PDU                                                           |
-| --- | ------------------------------------------------------------- |
-| 第4層 | [トランスポート層](https://ja.wikipedia.org/wiki/トランスポート層 "wikilink") |
-| 第3層 | [ネットワーク層](https://ja.wikipedia.org/wiki/ネットワーク層 "wikilink")   |
-| 第2層 | [データリンク層](https://ja.wikipedia.org/wiki/データリンク層 "wikilink")   |
-| 第1層 | [物理層](https://ja.wikipedia.org/wiki/物理層 "wikilink")           |
+| 階層  | PDU                                        |
+| --- | ------------------------------------------ |
+| 第4層 | [トランスポート層](../Page/トランスポート層.md "wikilink") |
+| 第3層 | [ネットワーク層](../Page/ネットワーク層.md "wikilink")   |
+| 第2層 | [データリンク層](../Page/データリンク層.md "wikilink")   |
+| 第1層 | [物理層](../Page/物理層.md "wikilink")           |
 
 特定のOSI階層に関する文脈においては、PDUはその階層での表現の同義語として使用されることがある。
 
@@ -28,7 +28,7 @@ PDUは、[通信プロトコル](../Page/通信プロトコル.md "wikilink")で
 
 | 階層                                                            | PDU                                                                           |
 | ------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| [トランスポート層](https://ja.wikipedia.org/wiki/トランスポート層 "wikilink") | TCPではTCPセグメント。UDPでは[データグラム](https://ja.wikipedia.org/wiki/データグラム "wikilink")。 |
+| [トランスポート層](../Page/トランスポート層.md "wikilink")                    | TCPではTCPセグメント。UDPでは[データグラム](https://ja.wikipedia.org/wiki/データグラム "wikilink")。 |
 | [インターネット層](https://ja.wikipedia.org/wiki/インターネット層 "wikilink") | [パケット](../Page/パケット.md "wikilink")                                            |
 | [リンク層](../Page/リンク層.md "wikilink")                            | [フレーム](https://ja.wikipedia.org/wiki/フレーム_\(ネットワーク\) "wikilink")              |
 

@@ -1,12 +1,12 @@
 > この記事は[SPHERE \(\)](https://ja.wikipedia.org/wiki/SPHERE_\(\))から翻訳されています。
 
 
-**SPHERE**（スフィア、本名：**坂倉友之**（さかくら ともゆき）、[1979年](../Page/1979年.md "wikilink")[12月8日](../Page/12月8日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヒップホップMC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")、[クリエイティブ・ディレクター](https://ja.wikipedia.org/wiki/クリエイティブ・ディレクター "wikilink")。異父兄は同じくヒップホップMCの[ZEEBRA](https://ja.wikipedia.org/wiki/Zeebra "wikilink")、父は建築家の[坂倉竹之助](https://ja.wikipedia.org/wiki/坂倉竹之助 "wikilink")。父方の祖父は[建築家](../Page/建築家.md "wikilink")の[坂倉準三](https://ja.wikipedia.org/wiki/坂倉準三 "wikilink")、曽祖父は[文化学院](https://ja.wikipedia.org/wiki/文化学院 "wikilink")創立者の[西村伊作](../Page/西村伊作.md "wikilink")。母方の祖父は[実業家](../Page/実業家.md "wikilink")の[横井英樹](../Page/横井英樹.md "wikilink")\[1\]。
+**SPHERE**（スフィア、本名：**坂倉友之**（さかくら ともゆき）、[1979年](../Page/1979年.md "wikilink")[12月8日](../Page/12月8日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヒップホップMC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")、[クリエイティブ・ディレクター](https://ja.wikipedia.org/wiki/クリエイティブ・ディレクター "wikilink")。異父兄は同じくヒップホップMCの[ZEEBRA](../Page/Zeebra.md "wikilink")、父は建築家の[坂倉竹之助](https://ja.wikipedia.org/wiki/坂倉竹之助 "wikilink")。父方の祖父は[建築家](../Page/建築家.md "wikilink")の[坂倉準三](../Page/坂倉準三.md "wikilink")、曽祖父は[文化学院](../Page/文化学院.md "wikilink")創立者の[西村伊作](../Page/西村伊作.md "wikilink")。母方の祖父は[実業家](../Page/実業家.md "wikilink")の[横井英樹](../Page/横井英樹.md "wikilink")\[1\]。
 
 ## 来歴
 
   - [セント・メリーズ・インターナショナル・スクール](https://ja.wikipedia.org/wiki/セント・メリーズ・インターナショナル・スクール "wikilink")在籍後、中学2年で単身渡米\[2\]。[ブルックリンの高校に入学](../Page/ブルックリン区.md "wikilink")\[3\]。
-  - [1996年](../Page/1996年.md "wikilink") - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")：[フィリップス・アカデミー](https://ja.wikipedia.org/wiki/フィリップス・アカデミー "wikilink")を経て[プラット・インスティテュート](../Page/プラット・インスティテュート.md "wikilink")中退\[4\]。
+  - [1996年](../Page/1996年.md "wikilink") - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")：[フィリップス・アカデミー](../Page/フィリップス・アカデミー.md "wikilink")を経て[プラット・インスティテュート](../Page/プラット・インスティテュート.md "wikilink")中退\[4\]。
   - [2002年](../Page/2002年.md "wikilink")：[Def Jam Japan](https://ja.wikipedia.org/wiki/Def_Jam_Japan "wikilink") と契約。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")：[坂倉アトリエ勤務](../Page/坂倉建築研究所.md "wikilink")。
   - [2009年](../Page/2009年.md "wikilink")：**SPHERE of INFLUENCE**から**SPHERE**に改名。
@@ -182,7 +182,7 @@
 
 <!-- end list -->
 
-  - [DJ YUTAKA](https://ja.wikipedia.org/wiki/DJ_YUTAKA "wikilink")「DJ YUTAKA feat. Sphere of influence "Revolution"」（2003年8月29日）
+  - [DJ YUTAKA](../Page/DJ_YUTAKA.md "wikilink")「DJ YUTAKA feat. Sphere of influence "Revolution"」（2003年8月29日）
   - [DJ MASTERKEY](../Page/DJ_MASTERKEY.md "wikilink")「DADDY'S HOUSE vol.2」（2003年11月12日）
 
 <!-- end list -->
@@ -201,7 +201,7 @@
 
 <!-- end list -->
 
-  - [SAKURA](https://ja.wikipedia.org/wiki/SAKURA_\(歌手\) "wikilink")「Lana」（2004年6月16日）
+  - [SAKURA](../Page/SAKURA_\(歌手\).md "wikilink")「Lana」（2004年6月16日）
 
 <!-- end list -->
 
@@ -255,7 +255,7 @@
 
 <!-- end list -->
 
-  - [森下YAMATO雄一郎](https://ja.wikipedia.org/wiki/森下雄一郎 "wikilink")「Feel the Dream」（2006年11月3日）
+  - [森下YAMATO雄一郎](../Page/森下雄一郎.md "wikilink")「Feel the Dream」（2006年11月3日）
 
 <!-- end list -->
 
@@ -273,7 +273,7 @@
 
 <!-- end list -->
 
-  - [ZEEBRA](https://ja.wikipedia.org/wiki/Zeebra "wikilink")「[World Of Music](https://ja.wikipedia.org/wiki/World_Of_Music "wikilink")」（2007年10月7日）
+  - [ZEEBRA](../Page/Zeebra.md "wikilink")「[World Of Music](https://ja.wikipedia.org/wiki/World_Of_Music "wikilink")」（2007年10月7日）
 
 <!-- end list -->
 

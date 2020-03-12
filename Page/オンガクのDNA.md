@@ -9,7 +9,7 @@ tvkが新社屋移転とVI導入時に開始した新番組（16本）の1本で
 
 番組タイトルの由来はまさしく、山下町時代から続くテレビ神奈川が制作する音楽番組の系譜を受け継ぐというところから来ており、それを「遺伝子＝DNA」に置き換えていた。
 
-前身は「[Music Chat](https://ja.wikipedia.org/wiki/Music_Chat "wikilink")」（火曜22:00 - 、[ライオン提供](../Page/ライオン_\(企業\).md "wikilink")）であるが、「Music Chat」が[MCとゲストミュージシャンとの公開トーク番組だったのに対し](https://ja.wikipedia.org/wiki/司会 "wikilink")、この番組は生演奏およびMCとのトークや、携帯電話や電子メールを活用した視聴者との双方向のコミュニケーションが特徴となっている。
+前身は「[Music Chat](https://ja.wikipedia.org/wiki/Music_Chat "wikilink")」（火曜22:00 - 、[ライオン提供](../Page/ライオン_\(企業\).md "wikilink")）であるが、「Music Chat」が[MCとゲストミュージシャンとの公開トーク番組だったのに対し](../Page/司会.md "wikilink")、この番組は生演奏およびMCとのトークや、携帯電話や電子メールを活用した視聴者との双方向のコミュニケーションが特徴となっている。
 
 [2004年](../Page/2004年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")より[デジタルハイビジョン](https://ja.wikipedia.org/wiki/デジタルハイビジョン "wikilink")制作。
 
@@ -27,7 +27,7 @@ tvkが新社屋移転とVI導入時に開始した新番組（16本）の1本で
 
   - ライオンMeet Your Idol - 来日したアーティストに「ご対面」ができる（現在は「Meet Your Idol」として、年に数回の放送）。
   - ライオン今すぐ三択リクエスト - スタッフが予め選んだ洋楽ビデオクリップから視聴者に携帯で投票してもらい、投票の多かったビデオクリップを放映する。
-  - 倉庫より愛を込めて - ミューコムの所有する豊富な[ビデオクリップをゲストと共に鑑賞](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。
+  - 倉庫より愛を込めて - ミューコムの所有する豊富な[ビデオクリップをゲストと共に鑑賞](../Page/ミュージック・ビデオ.md "wikilink")。
 
 ## 放送時間とMCの変遷
 
@@ -45,7 +45,7 @@ tvkが新社屋移転とVI導入時に開始した新番組（16本）の1本で
 <!-- end list -->
 
   - 放送時間 - 月曜19:30～20:30（スポンサーの[ソニー](../Page/ソニー.md "wikilink")降板と同時に放送時間を短縮）
-  - MC - 山本シュウ、[遠近由美子](https://ja.wikipedia.org/wiki/遠近由美子 "wikilink")
+  - MC - 山本シュウ、[遠近由美子](../Page/遠近由美子.md "wikilink")
 
 <!-- end list -->
 
@@ -77,7 +77,7 @@ tvkが新社屋移転とVI導入時に開始した新番組（16本）の1本で
 ## スポンサー
 
   - [ライオン](../Page/ライオン_\(企業\).md "wikilink")（2004年5月～2011年3月）
-  - [日本工学院専門学校](https://ja.wikipedia.org/wiki/日本工学院専門学校 "wikilink")（2004年5月～2004年9月、2007年4月～2007年9月）
+  - [日本工学院専門学校](../Page/日本工学院専門学校.md "wikilink")（2004年5月～2004年9月、2007年4月～2007年9月）
   - [ソニー](../Page/ソニー.md "wikilink")（2004年10月～2005年3月） - 「[SONY MUSIC ACCESS](https://ja.wikipedia.org/wiki/SONY_MUSIC_ACCESS "wikilink")」から移行\[3\]
   - [tvkハウジング](https://ja.wikipedia.org/wiki/tvkハウジング "wikilink")（2005年4月～2011年3月）
   - [サントリー](../Page/サントリー.md "wikilink")（2008年7月～2008年9月）

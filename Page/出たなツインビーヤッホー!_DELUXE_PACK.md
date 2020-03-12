@@ -1,7 +1,7 @@
 > この記事は[! DELUXE PACK](https://ja.wikipedia.org/wiki/!_DELUXE_PACK)から翻訳されています。
 
 
-**出たなツインビーヤッホー\! DELUXE PACK**（でたなツインビーヤッホー\!デラックスパック）は[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")から[プレイステーション](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")、[セガサターン](../Page/セガサターン.md "wikilink")発売された[ゲームソフト](../Page/ゲームソフト.md "wikilink")で、[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")として制作された[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")、『**[出たな\!\!ツインビー](../Page/出たな!!ツインビー.md "wikilink")**』と『**[ツインビーヤッホー\! ふしぎの国で大あばれ\!\!](../Page/ツインビーヤッホー!_ふしぎの国で大あばれ!!.md "wikilink")**』が収録されている。
+**出たなツインビーヤッホー\! DELUXE PACK**（でたなツインビーヤッホー\!デラックスパック）は[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")から[プレイステーション](../Page/PlayStation_\(ゲーム機\).md "wikilink")、[セガサターン](../Page/セガサターン.md "wikilink")発売された[ゲームソフト](../Page/ゲームソフト.md "wikilink")で、[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")として制作された[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")、『**[出たな\!\!ツインビー](../Page/出たな!!ツインビー.md "wikilink")**』と『**[ツインビーヤッホー\! ふしぎの国で大あばれ\!\!](../Page/ツインビーヤッホー!_ふしぎの国で大あばれ!!.md "wikilink")**』が収録されている。
 
 「デラックスパック」としては『[パロディウスだ\!](https://ja.wikipedia.org/wiki/パロディウスだ! "wikilink")』と『[極上パロディウス](https://ja.wikipedia.org/wiki/極上パロディウス "wikilink")』をカップリングした『**極上パロディウスだ\! DELUXE PACK**』に続く第2弾。
 
@@ -11,7 +11,7 @@
 
 『ツインビーヤッホー\!』はテキストのみだったエンディングにボイスが追加されている。
 
-32ビットハードの性能を存分に生かしており、ステージ間にロードが入るものの移植度は高く、CD-ROMの大容量を生かし2本のソフトを1本に収めるというコンセプトも成功。 この後も『[リーサルエンフォーサーズ](https://ja.wikipedia.org/wiki/リーサルエンフォーサーズ "wikilink")』、『[グラディウス](../Page/グラディウス_\(ゲーム\).md "wikilink")』、『[沙羅曼蛇](../Page/沙羅曼蛇.md "wikilink")』のデラックスパックが発売された。
+32ビットハードの性能を存分に生かしており、ステージ間にロードが入るものの移植度は高く、CD-ROMの大容量を生かし2本のソフトを1本に収めるというコンセプトも成功。 この後も『[リーサルエンフォーサーズ](../Page/リーサルエンフォーサーズ.md "wikilink")』、『[グラディウス](../Page/グラディウス_\(ゲーム\).md "wikilink")』、『[沙羅曼蛇](../Page/沙羅曼蛇.md "wikilink")』のデラックスパックが発売された。
 
 本作の説明書にはツインビーチームの世代表と活躍時期の作品（『ツインビーヤッホー\!』まで）が書かれており、初代ツインビーチームのドンナモン（初代ウィンビーパイロット）、3代目ツインビーチームのスカッシュ（3代目ツインビーパイロット）、ホイップ（3代目ウィンビーパイロット）、メロウ（2代目グインビーパイロット）の名前が公開された。ライト、パステル、ミントは2代目ツインビーチーム、アンナモンは初代ツインビーチームとなっている。
 
@@ -20,15 +20,15 @@
   - ツインビー
     声 - [田中真弓](../Page/田中真弓.md "wikilink")
   - ウインビー
-    声 - [西原久美子](https://ja.wikipedia.org/wiki/西原久美子 "wikilink")
+    声 - [西原久美子](../Page/西原久美子.md "wikilink")
   - エース
     声 - [石川英郎](../Page/石川英郎.md "wikilink")
   - カーキ大佐
-    声 - [増谷康紀](https://ja.wikipedia.org/wiki/増谷康紀 "wikilink")
+    声 - [増谷康紀](../Page/増谷康紀.md "wikilink")
   - ナンセンス大公
     声 - [風間信彦](../Page/風間信彦.md "wikilink")
   - バルーン兄弟
-    声 - [高戸靖広](https://ja.wikipedia.org/wiki/高戸靖広 "wikilink")
+    声 - [高戸靖広](../Page/高戸靖広.md "wikilink")
   - パステル
     声 - [椎名へきる](../Page/椎名へきる.md "wikilink")
   - メローラ姫
@@ -40,7 +40,7 @@
   - ライト
     声 - [山口勝平](../Page/山口勝平.md "wikilink")
   - ワルモン博士
-    声 - [岸野幸正](https://ja.wikipedia.org/wiki/岸野幸正 "wikilink")
+    声 - [岸野幸正](../Page/岸野幸正.md "wikilink")
   - ワンダー将軍
     声 - 増谷康紀
   - 妖精フルート
@@ -48,7 +48,7 @@
 
 ## 両機種間での違い
 
-[プレイステーション版と](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")[セガサターン](../Page/セガサターン.md "wikilink")版の違いは以下の通り。
+[プレイステーション版と](../Page/PlayStation_\(ゲーム機\).md "wikilink")[セガサターン](../Page/セガサターン.md "wikilink")版の違いは以下の通り。
 
   - システム
 

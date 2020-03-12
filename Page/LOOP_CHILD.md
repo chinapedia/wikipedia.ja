@@ -1,26 +1,26 @@
 > この記事は[LOOP CHILD](https://ja.wikipedia.org/wiki/LOOP_CHILD)から翻訳されています。
 
 
-**LOOP CHILD**（ループチャイルド）は、日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。所属[レコード会社](https://ja.wikipedia.org/wiki/レコード会社 "wikilink")は[テイチクエンタテインメント](https://ja.wikipedia.org/wiki/テイチクエンタテインメント "wikilink")。所属[事務所は](../Page/芸能事務所.md "wikilink")[クリアスカイコーポレーション](https://ja.wikipedia.org/wiki/クリアスカイコーポレーション "wikilink")。
+**LOOP CHILD**（ループチャイルド）は、日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。所属[レコード会社](../Page/レコード会社.md "wikilink")は[テイチクエンタテインメント](../Page/テイチクエンタテインメント.md "wikilink")。所属[事務所は](../Page/芸能事務所.md "wikilink")[クリアスカイコーポレーション](https://ja.wikipedia.org/wiki/クリアスカイコーポレーション "wikilink")。
 
 ## 来歴
 
-2003年、ボーカルの柴野真理子が[専門学校](../Page/専門学校.md "wikilink")の仲間とバンド活動を始める。2005年3月「しばのまり子」として[インディーズ](../Page/インディーズ.md "wikilink")デビュー。1枚のシングル、2枚のアルバムをリリースするなど活動を広げた後、2009年6月バンド名を「LOOP CHILD」へと改名。2010年1月に現在のメンバーとなり、同年9月[インペリアルレコードから](https://ja.wikipedia.org/wiki/テイチクエンタテインメント "wikilink")、1stアルバム「EVER」で[メジャーデビューした](https://ja.wikipedia.org/wiki/メジャーレーベル "wikilink")。
+2003年、ボーカルの柴野真理子が[専門学校](../Page/専門学校.md "wikilink")の仲間とバンド活動を始める。2005年3月「しばのまり子」として[インディーズ](../Page/インディーズ.md "wikilink")デビュー。1枚のシングル、2枚のアルバムをリリースするなど活動を広げた後、2009年6月バンド名を「LOOP CHILD」へと改名。2010年1月に現在のメンバーとなり、同年9月[インペリアルレコードから](../Page/テイチクエンタテインメント.md "wikilink")、1stアルバム「EVER」で[メジャーデビューした](https://ja.wikipedia.org/wiki/メジャーレーベル "wikilink")。
 
 ## メンバー
 
 ### 現メンバー
 
-  - **柴野 真理子**（しばの まりこ、[1984年](../Page/1984年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink") - ）ボーカル、ギター。[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")[那須郡](../Page/那須郡.md "wikilink")[南那須町](https://ja.wikipedia.org/wiki/南那須町 "wikilink")（現・[那須烏山市](https://ja.wikipedia.org/wiki/那須烏山市 "wikilink")）出身。
+  - **柴野 真理子**（しばの まりこ、[1984年](../Page/1984年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink") - ）ボーカル、ギター。[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")[那須郡](../Page/那須郡.md "wikilink")[南那須町](../Page/南那須町.md "wikilink")（現・[那須烏山市](../Page/那須烏山市.md "wikilink")）出身。
 
 <!-- end list -->
 
   -
-    [作新学院高等部時代は吹奏楽部に所属](https://ja.wikipedia.org/wiki/作新学院高等学校 "wikilink")。ほとんどの楽曲の作詞・作曲を手がける。「しばのまり子」結成時からの唯一のオリジナルメンバー。
+    [作新学院高等部時代は吹奏楽部に所属](../Page/作新学院高等学校.md "wikilink")。ほとんどの楽曲の作詞・作曲を手がける。「しばのまり子」結成時からの唯一のオリジナルメンバー。
 
 ### 元メンバー
 
-  - **佐藤 シンゴ**（さとう しんご、[4月1日](../Page/4月1日.md "wikilink") - ）ドラム。[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[市川市](../Page/市川市.md "wikilink")出身。
+  - **佐藤 シンゴ**（さとう しんご、[4月1日](../Page/4月1日.md "wikilink") - ）ドラム。[千葉県](../Page/千葉県.md "wikilink")[市川市](../Page/市川市.md "wikilink")出身。
 
 <!-- end list -->
 
@@ -67,11 +67,11 @@
 ## 履歴
 
   - [2003年](../Page/2003年.md "wikilink")：春に結成。ボーカル柴野真理子の地元[栃木](https://ja.wikipedia.org/wiki/栃木 "wikilink")のストリートライブ、ライブハウスを中心に活動。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")：3月、「嗤うヌケガラ」でインディーズデビュー。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")：4月、[RADIO BERRY](https://ja.wikipedia.org/wiki/エフエム栃木 "wikilink")（FM栃木）にて「しばのまり子んち」（毎週火曜20:30～）レギュラースタート。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")：4月、テレビ東京系「[魔弾戦記リュウケンドー](https://ja.wikipedia.org/wiki/魔弾戦記リュウケンドー "wikilink")」2ndエンディングテーマに「ビューティフル」が決定。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")：4月、テレビ東京系「[魔弾戦記リュウケンドー](https://ja.wikipedia.org/wiki/魔弾戦記リュウケンドー "wikilink")」4thエンディングテーマに「ずっとずっとずっと」が決定。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")：12月、ドラムの佐藤シンゴが脱退。サポートドラマーを迎え、活動は継続する。
+  - [2005年](../Page/2005年.md "wikilink")：3月、「嗤うヌケガラ」でインディーズデビュー。
+  - [2005年](../Page/2005年.md "wikilink")：4月、[RADIO BERRY](https://ja.wikipedia.org/wiki/エフエム栃木 "wikilink")（FM栃木）にて「しばのまり子んち」（毎週火曜20:30～）レギュラースタート。
+  - [2006年](../Page/2006年.md "wikilink")：4月、テレビ東京系「[魔弾戦記リュウケンドー](../Page/魔弾戦記リュウケンドー.md "wikilink")」2ndエンディングテーマに「ビューティフル」が決定。
+  - [2006年](../Page/2006年.md "wikilink")：4月、テレビ東京系「[魔弾戦記リュウケンドー](../Page/魔弾戦記リュウケンドー.md "wikilink")」4thエンディングテーマに「ずっとずっとずっと」が決定。
+  - [2006年](../Page/2006年.md "wikilink")：12月、ドラムの佐藤シンゴが脱退。サポートドラマーを迎え、活動は継続する。
   - [2007年](../Page/2007年.md "wikilink")：3月、テレビ埼玉「[浦和レッズスーパーマッチ](https://ja.wikipedia.org/wiki/浦和レッズスーパーマッチ "wikilink")」エンディングテーマに「キミダケノ世界」が決定。
   - [2007年](../Page/2007年.md "wikilink")：4月、新メンバーとして篠崎哲也（ベース）実石昌也（ドラム）が加入。
   - [2007年](../Page/2007年.md "wikilink")：4月、TBS系全国ネット「[どうぶつ奇想天外\!](../Page/どうぶつ奇想天外!.md "wikilink")」エンディングテーマに「はじまりのうた」が決定。
@@ -231,8 +231,8 @@
 <td><p>2006年5月17日</p></td>
 <td><p><strong>ビューティフル</strong></p></td>
 <td><p>GTCR-05018</p></td>
-<td><p>1.ビューティフル（<a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>「<a href="https://ja.wikipedia.org/wiki/魔弾戦記リュウケンドー" title="wikilink">魔弾戦記リュウケンドー</a>」2ndエンディングテーマ）<br />
-2.ずっとずっとずっと（<a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>「<a href="https://ja.wikipedia.org/wiki/魔弾戦記リュウケンドー" title="wikilink">魔弾戦記リュウケンドー</a>」4thエンディングテーマ）<br />
+<td><p>1.ビューティフル（<a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>「<a href="../Page/魔弾戦記リュウケンドー.md" title="wikilink">魔弾戦記リュウケンドー</a>」2ndエンディングテーマ）<br />
+2.ずっとずっとずっと（<a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>「<a href="../Page/魔弾戦記リュウケンドー.md" title="wikilink">魔弾戦記リュウケンドー</a>」4thエンディングテーマ）<br />
 3.ビューティフル "Princy Queency"<br />
 4.ビューティフル ~Instrumental~</p></td>
 </tr>
@@ -243,14 +243,14 @@
 <td><p>GTCR-07003</p></td>
 <td><p>1.はじまりのうた（<a href="../Page/TBSテレビ.md" title="wikilink">TBS</a>「<a href="../Page/どうぶつ奇想天外!.md" title="wikilink">どうぶつ奇想天外!</a>」エンディングテーマ）<br />
 2.キミダケノ世界（<a href="https://ja.wikipedia.org/wiki/テレビ埼玉" title="wikilink">テレビ埼玉</a>「<a href="https://ja.wikipedia.org/wiki/浦和レッズスーパーマッチ" title="wikilink">浦和レッズスーパーマッチ</a>」エンディングテーマ）<br />
-3.ビューティフル（<a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>「<a href="https://ja.wikipedia.org/wiki/魔弾戦記リュウケンドー" title="wikilink">魔弾戦記リュウケンドー</a>」2ndエンディングテーマ）<br />
+3.ビューティフル（<a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>「<a href="../Page/魔弾戦記リュウケンドー.md" title="wikilink">魔弾戦記リュウケンドー</a>」2ndエンディングテーマ）<br />
 4.キミと<br />
 5.赤と黒<br />
 6.このまま<br />
 7.uncontrol（PS2ゲーム「<a href="https://ja.wikipedia.org/wiki/ネバーランド研究史" title="wikilink">ネバーランド研究史</a>」 主題歌）<br />
 8.JUMON<br />
 9.アイコトバ（<a href="../Page/アイスホッケー.md" title="wikilink">アイスホッケー</a>女子日本代表チームオフィシャル応援ソング/PSPゲーム「<a href="https://ja.wikipedia.org/wiki/アストニシアストーリー" title="wikilink">アストニシアストーリー</a>」 主題歌）<br />
-10.ずっとずっとずっと（<a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>「<a href="https://ja.wikipedia.org/wiki/魔弾戦記リュウケンドー" title="wikilink">魔弾戦記リュウケンドー</a>」4thエンディングテーマ）<br />
+10.ずっとずっとずっと（<a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>「<a href="../Page/魔弾戦記リュウケンドー.md" title="wikilink">魔弾戦記リュウケンドー</a>」4thエンディングテーマ）<br />
 11.おやすみの時間<br />
 12.現代ファイター</p></td>
 </tr>
@@ -290,7 +290,7 @@
 
 ## その他
 
-  - [江口亮](https://ja.wikipedia.org/wiki/江口亮 "wikilink")（[Stereo Fabrication of Youth](https://ja.wikipedia.org/wiki/Stereo_Fabrication_of_Youth "wikilink")）
+  - [江口亮](https://ja.wikipedia.org/wiki/江口亮 "wikilink")（[Stereo Fabrication of Youth](../Page/Stereo_Fabrication_of_Youth.md "wikilink")）
 
 <!-- end list -->
 

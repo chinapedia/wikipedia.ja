@@ -14,7 +14,7 @@
 | イスラエルでの区域   |
 | 公共施設        |
 
-**Al-Nahr**（アンナハル、アンナフル、、）は、[1948年](../Page/1948年.md "wikilink")の[第一次中東戦争](https://ja.wikipedia.org/wiki/第一次中東戦争 "wikilink")（アラブ-イスラエル戦争）において破壊された[パレスチナ](../Page/パレスチナ.md "wikilink")の[村](../Page/村.md "wikilink")。
+**Al-Nahr**（アンナハル、アンナフル、、）は、[1948年](../Page/1948年.md "wikilink")の[第一次中東戦争](../Page/第一次中東戦争.md "wikilink")（アラブ-イスラエル戦争）において破壊された[パレスチナ](../Page/パレスチナ.md "wikilink")の[村](../Page/村.md "wikilink")。
 
 ## 関連項目
 

@@ -1,15 +1,15 @@
 > この記事は[PDP-7](https://ja.wikipedia.org/wiki/PDP-7)から翻訳されています。
 
 
-[Pdp7-oslo-2005.jpeg](https://ja.wikipedia.org/wiki/File:Pdp7-oslo-2005.jpeg "fig:Pdp7-oslo-2005.jpeg")（[ノルウェー](../Page/ノルウェー.md "wikilink")）にあるPDP-7\]\] **PDP-7**は、[DECが](../Page/ディジタル・イクイップメント・コーポレーション.md "wikilink")[1965年](../Page/1965年.md "wikilink")にリリースした[ミニコンピュータ](https://ja.wikipedia.org/wiki/ミニコンピュータ "wikilink")である。フリップチップ技術を採用し、価格は72,000[USドルと安価だが高性能だった](../Page/アメリカ合衆国ドル.md "wikilink")。PDP-7はDECの18ビット機としては3機種目で、[PDP-4および](../Page/PDPシリーズ.md "wikilink")[PDP-9と基本的には同じ](../Page/PDPシリーズ.md "wikilink")[命令セット](https://ja.wikipedia.org/wiki/命令セット "wikilink")である。DEC初の[ワイヤラッピング](../Page/ワイヤラッピング.md "wikilink")を採用したマシンでもある。
+[Pdp7-oslo-2005.jpeg](https://ja.wikipedia.org/wiki/File:Pdp7-oslo-2005.jpeg "fig:Pdp7-oslo-2005.jpeg")（[ノルウェー](../Page/ノルウェー.md "wikilink")）にあるPDP-7\]\] **PDP-7**は、[DECが](../Page/ディジタル・イクイップメント・コーポレーション.md "wikilink")[1965年](../Page/1965年.md "wikilink")にリリースした[ミニコンピュータ](../Page/ミニコンピュータ.md "wikilink")である。フリップチップ技術を採用し、価格は72,000[USドルと安価だが高性能だった](../Page/アメリカ合衆国ドル.md "wikilink")。PDP-7はDECの18ビット機としては3機種目で、[PDP-4および](../Page/PDPシリーズ.md "wikilink")[PDP-9と基本的には同じ](../Page/PDPシリーズ.md "wikilink")[命令セット](../Page/命令セット.md "wikilink")である。DEC初の[ワイヤラッピング](../Page/ワイヤラッピング.md "wikilink")を採用したマシンでもある。
 
-[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")、[ケン・トンプソン](../Page/ケン・トンプソン.md "wikilink")はPDP-7上で[アセンブリ言語](../Page/アセンブリ言語.md "wikilink")で最初の[UNIX](../Page/UNIX.md "wikilink")を作成した。当初の名前は Unics であり、[Multics](https://ja.wikipedia.org/wiki/Multics "wikilink")を連想させるちょっとした駄洒落になっている。実際にはUNIX以前に[Space Travel](http://cm.bell-labs.com/cm/cs/who/dmr/spacetravel.html)というゲームをMulticsの元となった[GE 635上からPDP](https://ja.wikipedia.org/wiki/GE-600シリーズ "wikilink")-7に移植しており、後にこのゲームがUNIX上で動作するようにしている。
+[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")、[ケン・トンプソン](../Page/ケン・トンプソン.md "wikilink")はPDP-7上で[アセンブリ言語](../Page/アセンブリ言語.md "wikilink")で最初の[UNIX](../Page/UNIX.md "wikilink")を作成した。当初の名前は Unics であり、[Multics](../Page/Multics.md "wikilink")を連想させるちょっとした駄洒落になっている。実際にはUNIX以前に[Space Travel](http://cm.bell-labs.com/cm/cs/who/dmr/spacetravel.html)というゲームをMulticsの元となった[GE 635上からPDP](../Page/GE-600シリーズ.md "wikilink")-7に移植しており、後にこのゲームがUNIX上で動作するようにしている。
 
 稼動状態のPDP-7の現存数は少ないが、最初のUNIXが動作する事例が存在する。
 
 ## 関連項目
 
-  - [PDPシリーズ](../Page/PDPシリーズ.md "wikilink") - [PDP-1](../Page/PDP-1.md "wikilink"), [PDP-6](https://ja.wikipedia.org/wiki/PDP-6 "wikilink"), **PDP-7**, [PDP-8](https://ja.wikipedia.org/wiki/PDP-8 "wikilink"), [PDP-10](https://ja.wikipedia.org/wiki/PDP-10 "wikilink"), [PDP-11](https://ja.wikipedia.org/wiki/PDP-11 "wikilink"), [PDP-12](https://ja.wikipedia.org/wiki/PDP-12 "wikilink")
+  - [PDPシリーズ](../Page/PDPシリーズ.md "wikilink") - [PDP-1](../Page/PDP-1.md "wikilink"), [PDP-6](../Page/PDP-6.md "wikilink"), **PDP-7**, [PDP-8](../Page/PDP-8.md "wikilink"), [PDP-10](../Page/PDP-10.md "wikilink"), [PDP-11](../Page/PDP-11.md "wikilink"), [PDP-12](https://ja.wikipedia.org/wiki/PDP-12 "wikilink")
 
 ## 外部リンク
 

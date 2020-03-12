@@ -55,7 +55,7 @@
 
 ## 関連項目
 
-  - [登龍門F](https://ja.wikipedia.org/wiki/登龍門F "wikilink")
+  - [登龍門F](../Page/登龍門F.md "wikilink")
 
 ## 外部リンク
 

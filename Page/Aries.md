@@ -36,11 +36,11 @@
       - 幼馴染。主人公の面倒を見ようとして逆に迷惑をかけることが多い。家庭的かつ優しい性格で将来の夢は[保母](../Page/保育士.md "wikilink")。PureDreamで攻略可能。
   - 鈴凛々（りん りんりん）（声：[草柳順子](../Page/草柳順子.md "wikilink")）
       - 中国から交換留学生で来た女の子。退魔師として、アミを物の怪と思って封印しようとする。肉まんが好物で、いつも食べている。にぎやかな所も好き。Ariesではサブキャラクター扱いであったが、PureDreamで攻略可能になった。
-  - 野々村たえ子（ののむら たえこ）（声：Aries [春野日和](https://ja.wikipedia.org/wiki/春野日和 "wikilink")/PureDream・LoveDream [中谷あずみ](https://ja.wikipedia.org/wiki/中谷あずみ "wikilink")）
+  - 野々村たえ子（ののむら たえこ）（声：Aries [春野日和](../Page/春野日和.md "wikilink")/PureDream・LoveDream [中谷あずみ](https://ja.wikipedia.org/wiki/中谷あずみ "wikilink")）
       - 両親と死に別れ、残った弟とバイトを掛け持って暮らす女の子。非常に健気で明るい性格。PureDreamで攻略可能。
   - 山岡あきら（やまおか あきら）（声：[関和美](https://ja.wikipedia.org/wiki/関和美 "wikilink")）
       - 街で人気のケーキ店オレンジペコの娘。主人公と何でも言い合える幼馴染。勝気なしっかり者。LoveDreamで攻略可能。
-  - 月島カオリ（つきしま かおり）（声：[乃田あす実](https://ja.wikipedia.org/wiki/乃田あす実 "wikilink")）
+  - 月島カオリ（つきしま かおり）（声：[乃田あす実](../Page/乃田あす実.md "wikilink")）
       - 人気アイドルグループ"Dear"のメンバー。引っ込み思案で学校にうまくなじめずいつも保健室で寝ている。LoveDreamで攻略可能。
   - 七尾留奈（ななお るな）（声：[歌織](../Page/歌織.md "wikilink")）
       - パソコンマニア。主人公とは電気街で知り合う。さばさばした性格でつきあいやすい。LoveDreamで攻略可能。
@@ -59,7 +59,7 @@
       - 主人公の親友。ケンジと正反対に見えるが意外と気が合うらしく付き合いは長い。
   - 広瀬香美（ひろせ こうみ）
       - 主人公の祖母。離婚し別居中の母親と年中単身赴任の父親の代わりに主人公の面倒を見る。
-  - 天使ミカ（てんし みか）（声：[乃田あす実](https://ja.wikipedia.org/wiki/乃田あす実 "wikilink")）
+  - 天使ミカ（てんし みか）（声：[乃田あす実](../Page/乃田あす実.md "wikilink")）
 
 <!-- end list -->
 
@@ -89,7 +89,7 @@
   - コジロー
       - いかつい顔のシベリアンハスキー。最初はアミに恐れられていたが次第にこころを通わせるようになる。
   - めもち
-      - 地上で修行する天使たちが必ず育てなければならない正体不明のピンク色の[すあま](https://ja.wikipedia.org/wiki/すあま "wikilink")に似た感触の生き物
+      - 地上で修行する天使たちが必ず育てなければならない正体不明のピンク色の[すあま](../Page/すあま.md "wikilink")に似た感触の生き物
 
 ## 主題歌
 
@@ -100,7 +100,7 @@
   - オープニングテーマ『Aries』
       - 歌：[長崎みなみ](../Page/長崎みなみ.md "wikilink")、作詞・作曲：[tororo](https://ja.wikipedia.org/wiki/tororo "wikilink")、編曲：[ロックンバナナ](../Page/ロックンバナナ.md "wikilink")
   - エンディングテーマ『明日への贈り物』
-      - 歌：[春野日和](https://ja.wikipedia.org/wiki/春野日和 "wikilink")、作詞・作曲：tororo、編曲：関眞弓
+      - 歌：[春野日和](../Page/春野日和.md "wikilink")、作詞・作曲：tororo、編曲：関眞弓
 
 <!-- end list -->
 
@@ -119,7 +119,7 @@
 
 ## 闇鍋Aries 〜明日への挑戦状〜
 
-2000年9月29日に『闇鍋Aries 〜明日への挑戦状〜』が発売された。Ariesの外伝のほか、[ケモノ系アダルトゲームが収録されている](https://ja.wikipedia.org/wiki/ケモナー "wikilink")。原画は[いくたたかのん](../Page/いくたたかのん.md "wikilink")・[七尾奈留](https://ja.wikipedia.org/wiki/七尾奈留 "wikilink")で、七尾は今作が原画家デビュー作である。
+2000年9月29日に『闇鍋Aries 〜明日への挑戦状〜』が発売された。Ariesの外伝のほか、[ケモノ系アダルトゲームが収録されている](../Page/ケモナー.md "wikilink")。原画は[いくたたかのん](../Page/いくたたかのん.md "wikilink")・[七尾奈留](../Page/七尾奈留.md "wikilink")で、七尾は今作が原画家デビュー作である。
 
 ### Tail-Tale
 

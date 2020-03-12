@@ -1,11 +1,11 @@
 > この記事は[Audio active](https://ja.wikipedia.org/wiki/Audio_active)から翻訳されています。
 
 
-**audio active**（オーディオ・アクティブ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ダブ](https://ja.wikipedia.org/wiki/ダブ "wikilink")[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。
+**audio active**（オーディオ・アクティブ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ダブ](../Page/ダブ.md "wikilink")[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。
 
 ## 概要
 
-ダブを根底に置きながら、レゲエ/[ニュー・ウェイヴ](https://ja.wikipedia.org/wiki/ニュー・ウェイヴ_\(音楽\) "wikilink")/[ドラムンベース](https://ja.wikipedia.org/wiki/ドラムンベース "wikilink")/[ファンク](https://ja.wikipedia.org/wiki/ファンク "wikilink")の要素を取り入れたサウンドは、日本国外での評価も高い。かねてからバンドの生音とデジタル・サウンドの融合を図り、後進のバンド、DJ、サウンド・クリエーターたちにも影響を与えた。イギリス最大の[ロック・フェスティバル](../Page/ロック・フェスティバル.md "wikilink")、[グラストンベリー・フェスティバル](../Page/グラストンベリー・フェスティバル.md "wikilink")、欧州最大のロック・フェス、ロスギルダー、日本のレインボー2000、[フジ・ロック・フェスティバル](https://ja.wikipedia.org/wiki/フジ・ロック・フェスティバル "wikilink")などのフェスにも多数出演。
+ダブを根底に置きながら、レゲエ/[ニュー・ウェイヴ](../Page/ニュー・ウェイヴ_\(音楽\).md "wikilink")/[ドラムンベース](../Page/ドラムンベース.md "wikilink")/[ファンク](../Page/ファンク.md "wikilink")の要素を取り入れたサウンドは、日本国外での評価も高い。かねてからバンドの生音とデジタル・サウンドの融合を図り、後進のバンド、DJ、サウンド・クリエーターたちにも影響を与えた。イギリス最大の[ロック・フェスティバル](../Page/ロック・フェスティバル.md "wikilink")、[グラストンベリー・フェスティバル](../Page/グラストンベリー・フェスティバル.md "wikilink")、欧州最大のロック・フェス、ロスギルダー、日本のレインボー2000、[フジ・ロック・フェスティバル](https://ja.wikipedia.org/wiki/フジ・ロック・フェスティバル "wikilink")などのフェスにも多数出演。
 
 バンド名はUKレゲエのパイオニア[デニス・ボーヴェル](https://ja.wikipedia.org/wiki/デニス・ボーヴェル "wikilink")&ザ・ダブ・バンドの1986年発表のアルバム『AUDIO ACTIVE』に由来している。
 
@@ -77,7 +77,7 @@
 <!-- end list -->
 
   -
-    1st,2ndアルバムのサックスを担当。現[Reggae Disco Rockers](https://ja.wikipedia.org/wiki/Reggae_Disco_Rockers "wikilink")、[川上つよしと彼のムードメイカーズ](https://ja.wikipedia.org/wiki/川上つよしと彼のムードメイカーズ "wikilink")、TECHNIQUESなど。
+    1st,2ndアルバムのサックスを担当。現[Reggae Disco Rockers](../Page/Reggae_Disco_Rockers.md "wikilink")、[川上つよしと彼のムードメイカーズ](../Page/川上つよしと彼のムードメイカーズ.md "wikilink")、TECHNIQUESなど。
 
 <!-- end list -->
 
@@ -138,10 +138,10 @@
 
   - [AIR](../Page/車谷浩司.md "wikilink")「AIR(RE-MIXED by audio active)」
   - [佐野元春](../Page/佐野元春.md "wikilink")「No surprise at all-驚くに値しない(audio active remixed version)」
-  - [THE MAD CAPSULE MARKETS](https://ja.wikipedia.org/wiki/THE_MAD_CAPSULE_MARKETS "wikilink")「SYSTEMATIC（audio active remix）」
+  - [THE MAD CAPSULE MARKETS](../Page/THE_MAD_CAPSULE_MARKETS.md "wikilink")「SYSTEMATIC（audio active remix）」
   - デニス・ボーヴェル「DEEP DEEP remixed by audio active」
   - Pre [YMO](https://ja.wikipedia.org/wiki/YMO "wikilink") & Various Artists「InDo(audio active Remix)」
-  - [BUGY CRAXONE](https://ja.wikipedia.org/wiki/BUGY_CRAXONE "wikilink")「O.M.D. remix and additional production by audio active」
+  - [BUGY CRAXONE](../Page/BUGY_CRAXONE.md "wikilink")「O.M.D. remix and additional production by audio active」
   - MELONMAN「RETURN FROM THE MEDICAL SURGELY(AUDIO ACTIVE REMIX)」
   - Audio Active + Universe Crew ｢split 12inch｣　Green Tea
   - [ASIAN DUB FOUNDATION](../Page/エイジアン・ダブ・ファウンデーション.md "wikilink") ｢FORTRESS EUROPE EP(audio active Remix)」

@@ -1,7 +1,7 @@
 > この記事は[NACK ON TOWN](https://ja.wikipedia.org/wiki/NACK_ON_TOWN)から翻訳されています。
 
 
-**NACK ON TOWN**（ナック・オン・タウン）は、[FM NACK5で毎週](../Page/エフエムナックファイブ.md "wikilink")[月曜日](../Page/月曜日.md "wikilink")-[木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink")の13:00-16:55に放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。以下、NACK ON TOWNの表記は愛称であるON TOWNとする。
+**NACK ON TOWN**（ナック・オン・タウン）は、[FM NACK5で毎週](../Page/エフエムナックファイブ.md "wikilink")[月曜日](../Page/月曜日.md "wikilink")-[木曜日](../Page/木曜日.md "wikilink")の13:00-16:55に放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。以下、NACK ON TOWNの表記は愛称であるON TOWNとする。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 リスナーからテーマに沿ったメッセージをFAXやメールで募集し紹介したり、その日のテーマに関係のある情報を紹介している。また、中継やゲストを迎えたり、クイズなどのコーナーもあった。以前はスタジオ[ストリーミング](../Page/ストリーミング.md "wikilink")中継を行っていたが、NACK5本社の[さいたま市](https://ja.wikipedia.org/wiki/さいたま市 "wikilink")[浦和区](https://ja.wikipedia.org/wiki/浦和区 "wikilink")からさいたま市[大宮区](https://ja.wikipedia.org/wiki/大宮区 "wikilink")へ移転の際に廃止された\[1\]。
 
-番組では[ラジオネーム](https://ja.wikipedia.org/wiki/ラジオネーム "wikilink")を用いず、本名の下の名前が読まれる\[2\]。番組開始以来、聴取率が良く看板番組として成り立った。[2011年](../Page/2011年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")を持って、NACK5の大規模な大改編を理由に、放送終了となった。同時に、『[OH\! HAPPYDAY](https://ja.wikipedia.org/wiki/OH!_HAPPYDAY "wikilink")』以来続いてきたNACK5土屋滋生MCの平日(月〜木)昼のワイド番組シリーズからも撤退することになった。後番組は、三遊亭鬼丸と横田かおりMCの『GOGOMONZ』がスタート。また、土屋は同年4月から始まった『[STROBE NIGHT\!](https://ja.wikipedia.org/wiki/STROBE_NIGHT! "wikilink")』の水曜MCが与えられた。
+番組では[ラジオネーム](../Page/ラジオネーム.md "wikilink")を用いず、本名の下の名前が読まれる\[2\]。番組開始以来、聴取率が良く看板番組として成り立った。[2011年](../Page/2011年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")を持って、NACK5の大規模な大改編を理由に、放送終了となった。同時に、『[OH\! HAPPYDAY](https://ja.wikipedia.org/wiki/OH!_HAPPYDAY "wikilink")』以来続いてきたNACK5土屋滋生MCの平日(月〜木)昼のワイド番組シリーズからも撤退することになった。後番組は、三遊亭鬼丸と横田かおりMCの『GOGOMONZ』がスタート。また、土屋は同年4月から始まった『[STROBE NIGHT\!](https://ja.wikipedia.org/wiki/STROBE_NIGHT! "wikilink")』の水曜MCが与えられた。
 
 ## パーソナリティ
 
@@ -145,7 +145,7 @@
 <!-- end list -->
 
   -
-    誕生日や業務連絡、家族や親友等宛てにメッセージを伝える伝言板コーナー。SONG FOR YOU にゲストが来た場合は休止になる。誕生日メッセージにはパーソナリティ2人が[Happy Birthday to Youを](https://ja.wikipedia.org/wiki/ハッピーバースデートゥーユー "wikilink")[アカペラで歌い](../Page/ア・カペラ.md "wikilink")、出産間近なリスナーには2人で安産祈願をすることがある。
+    誕生日や業務連絡、家族や親友等宛てにメッセージを伝える伝言板コーナー。SONG FOR YOU にゲストが来た場合は休止になる。誕生日メッセージにはパーソナリティ2人が[Happy Birthday to Youを](../Page/ハッピーバースデートゥーユー.md "wikilink")[アカペラで歌い](../Page/ア・カペラ.md "wikilink")、出産間近なリスナーには2人で安産祈願をすることがある。
 
 <!-- end list -->
 
@@ -163,7 +163,7 @@
 <!-- end list -->
 
   -
-    当番組の次の番組である[NACK AFTER5が公開放送される](https://ja.wikipedia.org/wiki/NACK_AFTER5 "wikilink")[大宮アルシェ](https://ja.wikipedia.org/wiki/大宮アルシェ "wikilink")サテライトスタジオと繋ぎ、NACK AFTER5のパーソナリティ2人から番組宣伝を聞く。
+    当番組の次の番組である[NACK AFTER5が公開放送される](../Page/NACK_AFTER5.md "wikilink")[大宮アルシェ](https://ja.wikipedia.org/wiki/大宮アルシェ "wikilink")サテライトスタジオと繋ぎ、NACK AFTER5のパーソナリティ2人から番組宣伝を聞く。
 
 ### 曜日限定コーナー
 
@@ -172,7 +172,7 @@
 <!-- end list -->
 
   -
-    不定期コーナーから昇格。[フラ](https://ja.wikipedia.org/wiki/フラ "wikilink")ダンスや[ハワイ](https://ja.wikipedia.org/wiki/ハワイ "wikilink")の情報を紹介するコーナー。
+    不定期コーナーから昇格。[フラ](../Page/フラ.md "wikilink")ダンスや[ハワイ](https://ja.wikipedia.org/wiki/ハワイ "wikilink")の情報を紹介するコーナー。
 
 <!-- end list -->
 
@@ -229,7 +229,7 @@
 
   -
     レポート中継コーナー。木曜日はベイシアからの中継が多い。
-    主なレポーター - [棚橋麻衣](../Page/棚橋麻衣.md "wikilink")、[遠近由美子](https://ja.wikipedia.org/wiki/遠近由美子 "wikilink")、[池田香織](../Page/池田香織.md "wikilink")など
+    主なレポーター - [棚橋麻衣](../Page/棚橋麻衣.md "wikilink")、[遠近由美子](../Page/遠近由美子.md "wikilink")、[池田香織](../Page/池田香織.md "wikilink")など
 
 ### 不定期コーナー
 
@@ -247,7 +247,7 @@
 <!-- end list -->
 
   -
-    [ボストン・レッドソックス](https://ja.wikipedia.org/wiki/ボストン・レッドソックス "wikilink")の[松坂大輔](https://ja.wikipedia.org/wiki/松坂大輔 "wikilink")の情報を、現地のレポーター「カルロス・山崎」（通称：カーリー、かるちゃん）に伝えてもらうコーナー。
+    [ボストン・レッドソックス](../Page/ボストン・レッドソックス.md "wikilink")の[松坂大輔](https://ja.wikipedia.org/wiki/松坂大輔 "wikilink")の情報を、現地のレポーター「カルロス・山崎」（通称：カーリー、かるちゃん）に伝えてもらうコーナー。
 
 <!-- end list -->
 
@@ -314,7 +314,7 @@
 
 過去に行った公開放送は下記の通りである。
 
-  - [埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")さいたま市[大宮区](https://ja.wikipedia.org/wiki/大宮区 "wikilink")の[大宮アルシェ](https://ja.wikipedia.org/wiki/大宮アルシェ "wikilink")にあるサテライトスタジオ「STUDIO ARCHE」からの公開生放送（主に夏・冬・春休み期間中の1週間に行う）。
+  - [埼玉県](../Page/埼玉県.md "wikilink")さいたま市[大宮区](https://ja.wikipedia.org/wiki/大宮区 "wikilink")の[大宮アルシェ](https://ja.wikipedia.org/wiki/大宮アルシェ "wikilink")にあるサテライトスタジオ「STUDIO ARCHE」からの公開生放送（主に夏・冬・春休み期間中の1週間に行う）。
   - [イオンのショッピングセンターからの公開放送](../Page/イオン_\(企業\).md "wikilink")。
   - [IBS茨城放送](../Page/茨城放送.md "wikilink")&[FM NACK5](../Page/エフエムナックファイブ.md "wikilink") エネルギー放送局 [茨城県東海文化センター](https://ja.wikipedia.org/wiki/茨城県東海文化センター "wikilink")特設ステージでの公開録音放送。
   - [独立行政法人日本原子力研究開発機構](../Page/日本原子力研究開発機構.md "wikilink")[大洗わくわく科学館](https://ja.wikipedia.org/wiki/大洗わくわく科学館 "wikilink")での公開録音放送。
@@ -339,16 +339,16 @@
 <!-- end list -->
 
   -
-    VERSION1のステッカーの色違いをスペシャルウィークで、浦和駅前コルソ1階の生花店前、[西武新宿駅](https://ja.wikipedia.org/wiki/西武新宿駅 "wikilink")前、[銀座](https://ja.wikipedia.org/wiki/銀座 "wikilink")[山野楽器](https://ja.wikipedia.org/wiki/山野楽器 "wikilink")前、大宮駅西口アルシェ前の4ヵ所で曜日交代で配布した。ステッカー台紙裏には抽選番号があり、当選すれば[キリン](../Page/麒麟麦酒.md "wikilink")[チューハイ](../Page/チューハイ.md "wikilink")がプレゼントされた。
+    VERSION1のステッカーの色違いをスペシャルウィークで、浦和駅前コルソ1階の生花店前、[西武新宿駅](https://ja.wikipedia.org/wiki/西武新宿駅 "wikilink")前、[銀座](https://ja.wikipedia.org/wiki/銀座 "wikilink")[山野楽器](../Page/山野楽器.md "wikilink")前、大宮駅西口アルシェ前の4ヵ所で曜日交代で配布した。ステッカー台紙裏には抽選番号があり、当選すれば[キリン](../Page/麒麟麦酒.md "wikilink")[チューハイ](../Page/チューハイ.md "wikilink")がプレゼントされた。
 
 <!-- end list -->
 
-  - VERSION2（N.O.Tのロゴデザイン）（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月17日](../Page/10月17日.md "wikilink")）
+  - VERSION2（N.O.Tのロゴデザイン）（[2005年](../Page/2005年.md "wikilink")[10月17日](../Page/10月17日.md "wikilink")）
 
 <!-- end list -->
 
   -
-    「ニューステッカーバラまき隊」企画（以後不定期恒例企画）で大量に配布した。そのため、年明けの[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")には在庫が無くなった。
+    「ニューステッカーバラまき隊」企画（以後不定期恒例企画）で大量に配布した。そのため、年明けの[2006年](../Page/2006年.md "wikilink")には在庫が無くなった。
 
 <!-- end list -->
 
@@ -427,7 +427,7 @@
 <!-- end list -->
 
   -
-    リスナーからのお便りにて書かれていた、[ドラゴンボール](https://ja.wikipedia.org/wiki/ドラゴンボール "wikilink")に登場する技の名前「[かめはめ波](https://ja.wikipedia.org/wiki/かめはめ波 "wikilink")（かめはめは）」を、[澤美代子](https://ja.wikipedia.org/wiki/澤美代子 "wikilink")が**「かめはめなみ」**と誤読したのが発端。その日のリスナーからのお便りには、その「かめはめなみ」をネタにしたものが多数届いた。その後、土屋やリスナーに「かめはめなみ」をネタにされた。
+    リスナーからのお便りにて書かれていた、[ドラゴンボール](https://ja.wikipedia.org/wiki/ドラゴンボール "wikilink")に登場する技の名前「[かめはめ波](../Page/かめはめ波.md "wikilink")（かめはめは）」を、[澤美代子](https://ja.wikipedia.org/wiki/澤美代子 "wikilink")が**「かめはめなみ」**と誤読したのが発端。その日のリスナーからのお便りには、その「かめはめなみ」をネタにしたものが多数届いた。その後、土屋やリスナーに「かめはめなみ」をネタにされた。
     [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[10月20日](../Page/10月20日.md "wikilink")-[24日のスペシャルウィークに](../Page/10月24日.md "wikilink")、「かめはめ相談室」というコーナーが設けられた。世界で唯一の「かめはめなみ」の使い手である澤美代子師範が、リスナーのダメなところ、やってしまったところを逆電で聴き、「かめはめなみ」で[お祓いする](https://ja.wikipedia.org/wiki/祓 "wikilink")。
 
 <!-- end list -->
@@ -446,7 +446,7 @@
 <!-- end list -->
 
   -
-    家に関するメッセージテーマの時、妄想で土屋が「澤さん家って吹き抜けホールの玄関にらせん階段があるんでしょ?」の発言で澤美代子=お嬢様的先入観をリスナーに植え付けた。その他にも、普段からゴールドカラーの服やブーツを身にまとい、本人からして「キラッキラした物大好き\!\!」発言で、澤はお嬢様として定着した。また、当番組の前の番組[Fresh Up 9の](https://ja.wikipedia.org/wiki/Fresh_Up_9 "wikilink")[仁井聡子](https://ja.wikipedia.org/wiki/仁井聡子 "wikilink")との番組引継ぎトークでも、よく澤はお嬢様的な内容のトークをしていた。
+    家に関するメッセージテーマの時、妄想で土屋が「澤さん家って吹き抜けホールの玄関にらせん階段があるんでしょ?」の発言で澤美代子=お嬢様的先入観をリスナーに植え付けた。その他にも、普段からゴールドカラーの服やブーツを身にまとい、本人からして「キラッキラした物大好き\!\!」発言で、澤はお嬢様として定着した。また、当番組の前の番組[Fresh Up 9の](https://ja.wikipedia.org/wiki/Fresh_Up_9 "wikilink")[仁井聡子](../Page/仁井聡子.md "wikilink")との番組引継ぎトークでも、よく澤はお嬢様的な内容のトークをしていた。
     夏休みや冬休みを取って良く海外旅行する時は自家用ジェットで渡航したり、本社スタジオに出社する時は自家用ヘリで出社する（土屋談）。
 
 <!-- end list -->
@@ -456,8 +456,8 @@
 <!-- end list -->
 
   -
-    土屋のモノマネレパートリーが多く「[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")」、「[ジャック・バウアー](https://ja.wikipedia.org/wiki/ジャック・バウアー "wikilink")」、[BEAT SHUFFLEパーソナリティの](https://ja.wikipedia.org/wiki/BEAT_SHUFFLE "wikilink")「[浅井博章](https://ja.wikipedia.org/wiki/浅井博章 "wikilink")」、[太陽にほえろ\!](../Page/太陽にほえろ!.md "wikilink")の「山さん」、[アフラック](https://ja.wikipedia.org/wiki/アフラック "wikilink")CMの「アフラックダック」、「[ミッキー](https://ja.wikipedia.org/wiki/ミッキー "wikilink")」、「電車の車掌アナウンス」、「[美輪明宏](https://ja.wikipedia.org/wiki/美輪明宏 "wikilink")」、「[麻生太郎](https://ja.wikipedia.org/wiki/麻生太郎 "wikilink")」などある。その他にもお笑い芸人などもモノマネをする。
-    澤はレパートリーが少ないもののレベルが高い。「[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")」、[WEEKLY NACK5のパーソナリティー](https://ja.wikipedia.org/wiki/WEEKLY_NACK5 "wikilink")「[遠近由美子](https://ja.wikipedia.org/wiki/遠近由美子 "wikilink")」、「[maylee](https://ja.wikipedia.org/wiki/maylee "wikilink")」、DreamCaravanリポーター「[棚橋麻衣](../Page/棚橋麻衣.md "wikilink")」など。
+    土屋のモノマネレパートリーが多く「[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")」、「[ジャック・バウアー](../Page/ジャック・バウアー.md "wikilink")」、[BEAT SHUFFLEパーソナリティの](https://ja.wikipedia.org/wiki/BEAT_SHUFFLE "wikilink")「[浅井博章](https://ja.wikipedia.org/wiki/浅井博章 "wikilink")」、[太陽にほえろ\!](../Page/太陽にほえろ!.md "wikilink")の「山さん」、[アフラック](https://ja.wikipedia.org/wiki/アフラック "wikilink")CMの「アフラックダック」、「[ミッキー](../Page/ミッキー.md "wikilink")」、「電車の車掌アナウンス」、「[美輪明宏](https://ja.wikipedia.org/wiki/美輪明宏 "wikilink")」、「[麻生太郎](https://ja.wikipedia.org/wiki/麻生太郎 "wikilink")」などある。その他にもお笑い芸人などもモノマネをする。
+    澤はレパートリーが少ないもののレベルが高い。「[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")」、[WEEKLY NACK5のパーソナリティー](https://ja.wikipedia.org/wiki/WEEKLY_NACK5 "wikilink")「[遠近由美子](../Page/遠近由美子.md "wikilink")」、「[maylee](https://ja.wikipedia.org/wiki/maylee "wikilink")」、DreamCaravanリポーター「[棚橋麻衣](../Page/棚橋麻衣.md "wikilink")」など。
 
 <!-- end list -->
 
@@ -466,26 +466,26 @@
 <!-- end list -->
 
   -
-    「Song for you」のコーナー時間は、パーソナリティーにとってのしばし休憩になる。このコーナー時間に土屋はよく一服タイムで喫煙所で一服する。そこで本社にたまたま仕事の用事等で来ていた他の番組パーソナリティーと廊下で出会い、そのままスタジオに連れて来て、いきなりゲストとして番組に参加する事がある。[玉川美沙](https://ja.wikipedia.org/wiki/玉川美沙 "wikilink")と久々に会った時は、番組出演を断わられた\[3\]。
+    「Song for you」のコーナー時間は、パーソナリティーにとってのしばし休憩になる。このコーナー時間に土屋はよく一服タイムで喫煙所で一服する。そこで本社にたまたま仕事の用事等で来ていた他の番組パーソナリティーと廊下で出会い、そのままスタジオに連れて来て、いきなりゲストとして番組に参加する事がある。[玉川美沙](../Page/玉川美沙.md "wikilink")と久々に会った時は、番組出演を断わられた\[3\]。
     その他、『NACK5 17th．Anniversary Challenge Radio』の企画でDJトライアル（DJ3人が各番組で[サイコロ](../Page/サイコロ.md "wikilink")を振り、その目でゴールを目指す恒例企画）を行ったが、ゴール設定だった前の番組『NACK WITH YOU』の放送時間内にゴール出来なかった、DJトライアル参加者[山本昇](https://ja.wikipedia.org/wiki/山本昇 "wikilink")はON TOWN放送中に乱入ゴールし、スタジオを追い出された。
 
 <!-- end list -->
 
   - いきなりゲスト
-      - [バカボン鬼塚](https://ja.wikipedia.org/wiki/バカボン鬼塚 "wikilink")
-      - [菊池淳介](https://ja.wikipedia.org/wiki/菊池淳介 "wikilink")
+      - [バカボン鬼塚](../Page/バカボン鬼塚.md "wikilink")
+      - [菊池淳介](../Page/菊池淳介.md "wikilink")
       - [maylee](https://ja.wikipedia.org/wiki/maylee "wikilink")
-      - [平尾博嗣](https://ja.wikipedia.org/wiki/平尾博嗣 "wikilink")（[埼玉西武ライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")）
+      - [平尾博嗣](../Page/平尾博嗣.md "wikilink")（[埼玉西武ライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")）
       - [山口達也](https://ja.wikipedia.org/wiki/山口達也_\(代表的なトピック\) "wikilink") (当時[TOKIO](../Page/TOKIO.md "wikilink"))
       - 山本昇
   - 準レギュラー
       - 山口達也 (当時TOKIO)
       - [倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")
       - [大塚愛](https://ja.wikipedia.org/wiki/大塚愛 "wikilink")
-      - [スガシカオ](https://ja.wikipedia.org/wiki/スガシカオ "wikilink")
+      - [スガシカオ](../Page/スガシカオ.md "wikilink")
       - ナオト（現在は[ナオト・インティライミ](https://ja.wikipedia.org/wiki/ナオト・インティライミ "wikilink")）
       - 平尾博嗣（埼玉西武ライオンズ）
-      - [星野智樹](https://ja.wikipedia.org/wiki/星野智樹 "wikilink")（埼玉西武ライオンズ）
+      - [星野智樹](../Page/星野智樹.md "wikilink")（埼玉西武ライオンズ）
 
 <!-- end list -->
 
@@ -494,7 +494,7 @@
 <!-- end list -->
 
   -
-    銀座スタジオの側で飲んでいたのを呼び出され、急遽（辻プロデューサーの差し金）[The Nutty Radio Show 鬼玉でON](https://ja.wikipedia.org/wiki/The_Nutty_Radio_Show_おに魂 "wikilink") TOWNスペシャルウィークの番組宣伝をするため出演させられたが、土屋自身酔っ払っていて「卒業」をテーマの企画を当たり障り無い程度で説明するつもりが、[バカボン鬼塚](https://ja.wikipedia.org/wiki/バカボン鬼塚 "wikilink")と[菊池淳介](https://ja.wikipedia.org/wiki/菊池淳介 "wikilink")が意味を履き違え、「土屋は番組卒業する」と受け捉え、翌日の当番組に「ツッチー辞めないでっ\!\!」「なんで卒業なの?」という鬼玉を聴いたリスナーからメールが殺到した。その事について土屋滋生から説明がなされ落着した。
+    銀座スタジオの側で飲んでいたのを呼び出され、急遽（辻プロデューサーの差し金）[The Nutty Radio Show 鬼玉でON](../Page/The_Nutty_Radio_Show_おに魂.md "wikilink") TOWNスペシャルウィークの番組宣伝をするため出演させられたが、土屋自身酔っ払っていて「卒業」をテーマの企画を当たり障り無い程度で説明するつもりが、[バカボン鬼塚](../Page/バカボン鬼塚.md "wikilink")と[菊池淳介](../Page/菊池淳介.md "wikilink")が意味を履き違え、「土屋は番組卒業する」と受け捉え、翌日の当番組に「ツッチー辞めないでっ\!\!」「なんで卒業なの?」という鬼玉を聴いたリスナーからメールが殺到した。その事について土屋滋生から説明がなされ落着した。
 
 <!-- end list -->
 
@@ -503,7 +503,7 @@
 <!-- end list -->
 
   -
-    事の発端は、同じ[NACK5の番組](../Page/エフエムナックファイブ.md "wikilink")「[HITS\! THE TOWN](https://ja.wikipedia.org/wiki/HITS!_THE_TOWN "wikilink")」にリスナーから「ON TOWN のツッチーと澤さんは仲良しですよね?」のメールから始まった。そのメールを読んだパーソナリティーのバカボン鬼塚は、「ああ、あの二人出来てるんだよ〜」とあっさり答えたために騒動になった。
+    事の発端は、同じ[NACK5の番組](../Page/エフエムナックファイブ.md "wikilink")「[HITS\! THE TOWN](../Page/HITS!_THE_TOWN.md "wikilink")」にリスナーから「ON TOWN のツッチーと澤さんは仲良しですよね?」のメールから始まった。そのメールを読んだパーソナリティーのバカボン鬼塚は、「ああ、あの二人出来てるんだよ〜」とあっさり答えたために騒動になった。
     翌週月曜日の鬼玉で、再びその事についてリスナーからメールが届き、相方でもある菊池淳介も「あの二人怪しいよね?付き合ってんじゃね?」と答えた。その年の年末カウントダウンイベント「[様ソニ](https://ja.wikipedia.org/wiki/様ソニ "wikilink")」の総合司会をする事となった土屋、アシスタントに誰にするか HITS\! THE TOWN で話題になりリスナー投票で澤美代子になったが、アシスタント選びがいつの間にか「土屋滋生の結婚相手は澤美代子」と趣旨に変わってしまい盛り上がり、カウントダウン当日2人が親密にいた所をバカボン鬼塚が目撃し放送で暴露した為に、また恋人疑惑が過熱した。
     その後、2人はもう時期結婚するという話の展開にまで発展し、当番組にその事についてメールが殺到した。土屋自身番組で異例の否定会見を行ったが、相方の澤が「土屋さんに振られて捨てられちゃった」と冗談を飛ばした。数ヶ月後に澤は別の男性と結婚した（相手の男性は未だに発表されていない）。その後、[maylee](https://ja.wikipedia.org/wiki/maylee "wikilink") の代打で出演した HITS\! THE TOWN でバカボン鬼塚に「結婚した相手は土屋?」と聞かれ、「土屋さんに振られて捨てられちゃった」と同じ冗談を言い、結婚相手は土屋では無い事が判明し、あえなく一連の騒動は終結した。[2009年](../Page/2009年.md "wikilink")12月には、結婚相手（通称：こうちゃん）が「どらTOWN」のクイズの出題者として録音で出演した。
 
@@ -561,12 +561,12 @@
 <!-- end list -->
 
   -
-    「言ってfor Me」の際に2人が歌う「[Happy Birthday to You](https://ja.wikipedia.org/wiki/ハッピーバースデートゥーユー "wikilink")」は好評で、一時期CD化の話も出たが結局CD化されなかった。
+    「言ってfor Me」の際に2人が歌う「[Happy Birthday to You](../Page/ハッピーバースデートゥーユー.md "wikilink")」は好評で、一時期CD化の話も出たが結局CD化されなかった。
 
 ## オリジナルキャラクター
 
   - スペシャルウィークや思いつき企画などで登場したON TOWNオリジナルキャラクター。たまに放送中に出てくるキャラもいる。
-      - ミッキー（[Disney](https://ja.wikipedia.org/wiki/ウォルト・ディズニー・カンパニー "wikilink") ON TOWNコーナー）
+      - ミッキー（[Disney](../Page/ウォルト・ディズニー・カンパニー.md "wikilink") ON TOWNコーナー）
       - サワエさん（オープニングでじゃんけんコーナーをしていた）
       - [太陽にほえろ\!](../Page/太陽にほえろ!.md "wikilink")の山さん（スペシャルウィークで登場）
       - 澤先生としげおくん（スペシャルウィークで登場）
@@ -613,8 +613,8 @@ NACK5全体で2ヶ月に1度行われ、2週間続く。当番組でも以前ま
 ## 関連項目
 
   - [エフエムナックファイブ](../Page/エフエムナックファイブ.md "wikilink") (NACK5)
-  - [The Nutty Radio Show 鬼玉](https://ja.wikipedia.org/wiki/The_Nutty_Radio_Show_おに魂 "wikilink")
-  - [NACK AFTER5](https://ja.wikipedia.org/wiki/NACK_AFTER5 "wikilink")
+  - [The Nutty Radio Show 鬼玉](../Page/The_Nutty_Radio_Show_おに魂.md "wikilink")
+  - [NACK AFTER5](../Page/NACK_AFTER5.md "wikilink")
   - [土屋滋生](../Page/土屋滋生.md "wikilink")
   - [澤美代子](https://ja.wikipedia.org/wiki/澤美代子 "wikilink")
   - [豊田エリー](../Page/豊田エリー.md "wikilink")（DREAM CARAVAN レポーター）
@@ -628,4 +628,4 @@ NACK5全体で2ヶ月に1度行われ、2週間続く。当番組でも以前ま
 
 1.  本社が浦和の頃は[hithit.com](https://ja.wikipedia.org/wiki/hithit.com "wikilink")から中継映像が見られた。
 2.  NACK5では[ファンキーフライデー](../Page/ファンキーフライデー.md "wikilink")もラジオネームを用いていない。
-3.  その日の[The Nutty Radio Show 鬼玉で玉川自身が話題にしていた](https://ja.wikipedia.org/wiki/The_Nutty_Radio_Show_おに魂 "wikilink")。
+3.  その日の[The Nutty Radio Show 鬼玉で玉川自身が話題にしていた](../Page/The_Nutty_Radio_Show_おに魂.md "wikilink")。

@@ -5,10 +5,10 @@
 
 ## メンバー
 
-  - [佐野大樹](https://ja.wikipedia.org/wiki/佐野大樹_\(*pnish*\) "wikilink")（リーダー）
-  - [森山栄治](https://ja.wikipedia.org/wiki/森山栄治 "wikilink")（副リーダー）
+  - [佐野大樹](../Page/佐野大樹_\(*pnish*\).md "wikilink")（リーダー）
+  - [森山栄治](../Page/森山栄治.md "wikilink")（副リーダー）
   - [鷲尾昇](../Page/鷲尾昇.md "wikilink")
-  - [土屋佑壱](https://ja.wikipedia.org/wiki/土屋佑壱 "wikilink")
+  - [土屋佑壱](../Page/土屋佑壱.md "wikilink")
 
 **旧メンバー**
 
@@ -26,8 +26,8 @@
       - vol.06 : [シアターサンモール](https://ja.wikipedia.org/wiki/シアターサンモール "wikilink")(294)
       - vol.07 : [全労済ホールスペース・ゼロ](https://ja.wikipedia.org/wiki/スペース・ゼロ "wikilink")(575)
       - vol.08 : [池袋サンシャイン劇場](https://ja.wikipedia.org/wiki/池袋サンシャイン劇場 "wikilink")(832)
-      - vol.09 : [東京芸術劇場](../Page/東京芸術劇場.md "wikilink")(841)、[兵庫県立芸術文化センター](https://ja.wikipedia.org/wiki/兵庫県立芸術文化センター "wikilink")(800)
-      - vol.10 : [天王洲銀河劇場](https://ja.wikipedia.org/wiki/天王洲銀河劇場 "wikilink")(746)、[梅田芸術劇場](https://ja.wikipedia.org/wiki/梅田芸術劇場 "wikilink")、[シアター・ドラマシティ](https://ja.wikipedia.org/wiki/シアター・ドラマシティ "wikilink")
+      - vol.09 : [東京芸術劇場](../Page/東京芸術劇場.md "wikilink")(841)、[兵庫県立芸術文化センター](../Page/兵庫県立芸術文化センター.md "wikilink")(800)
+      - vol.10 : [天王洲銀河劇場](https://ja.wikipedia.org/wiki/天王洲銀河劇場 "wikilink")(746)、[梅田芸術劇場](../Page/梅田芸術劇場.md "wikilink")、[シアター・ドラマシティ](https://ja.wikipedia.org/wiki/シアター・ドラマシティ "wikilink")
       - vol.11 : 池袋サンシャイン劇場(832)、[新神戸オリエンタル劇場](https://ja.wikipedia.org/wiki/新神戸オリエンタル劇場 "wikilink")(639)、[名古屋市芸術創造センター](https://ja.wikipedia.org/wiki/名古屋市芸術創造センター "wikilink")(640)
       - vol.12 : 天王洲銀河劇場(746)、新神戸オリエンタル劇場(639)
       - vol.13 : 池袋サンシャイン劇場(832)、新神戸オリエンタル劇場(639)、[名古屋テレピアホール](https://ja.wikipedia.org/wiki/名古屋テレピアホール "wikilink")(504)、札幌道新ホール(700)

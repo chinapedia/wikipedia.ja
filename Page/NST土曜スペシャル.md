@@ -1,7 +1,7 @@
 > この記事は[NST](https://ja.wikipedia.org/wiki/NST)から翻訳されています。
 
 
-『**NST土曜スペシャル**』（エヌエスティーどようスペシャル）は、1970年代中期から1982年3月(?)まで[新潟総合テレビ](../Page/NST新潟総合テレビ.md "wikilink") (NST) で毎週[土曜日](../Page/土曜日.md "wikilink")14時30分から放送されていた[単発特別番組枠](https://ja.wikipedia.org/wiki/単発特別番組枠 "wikilink")の名称である。
+『**NST土曜スペシャル**』（エヌエスティーどようスペシャル）は、1970年代中期から1982年3月(?)まで[新潟総合テレビ](../Page/NST新潟総合テレビ.md "wikilink") (NST) で毎週[土曜日](../Page/土曜日.md "wikilink")14時30分から放送されていた[単発特別番組枠](../Page/単発特別番組枠.md "wikilink")の名称である。
 
 ## 主旨
 
@@ -15,8 +15,8 @@ NSTはサービス放送開始時から1981年3月31日まで[フジテレビ](h
       - [FNS歌謡祭](../Page/FNS歌謡祭.md "wikilink")
       - [ドリフ大爆笑](../Page/ドリフ大爆笑.md "wikilink")
       - オールスター大運動会
-      - [オールスター水泳大会](https://ja.wikipedia.org/wiki/アイドル水泳大会 "wikilink")
-      - [日本歌謡大賞](https://ja.wikipedia.org/wiki/日本歌謡大賞 "wikilink")
+      - [オールスター水泳大会](../Page/アイドル水泳大会.md "wikilink")
+      - [日本歌謡大賞](../Page/日本歌謡大賞.md "wikilink")
       - ほか
   - 日本テレビ『[木曜スペシャル](../Page/木曜スペシャル.md "wikilink")』で放送されたもの
       - NTV開局25周年特番『日本テレビ25年の歩み』
@@ -26,7 +26,7 @@ NSTはサービス放送開始時から1981年3月31日まで[フジテレビ](h
   - テレビ朝日『[水曜スペシャル](../Page/水曜スペシャル.md "wikilink")』で放送されたもの
       - 川口浩探検シリーズ
       - [ドリフと女優の爆笑劇場](../Page/ドリフと女優の爆笑劇場.md "wikilink")
-      - [警察24時](https://ja.wikipedia.org/wiki/警察24時 "wikilink")シリーズ
+      - [警察24時](../Page/警察24時.md "wikilink")シリーズ
       - 日本歌謡大賞
       - ほか
   - その他

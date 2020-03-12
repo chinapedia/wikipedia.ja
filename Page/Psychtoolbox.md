@@ -1,13 +1,13 @@
 > この記事は[Psychtoolbox](https://ja.wikipedia.org/wiki/Psychtoolbox)から翻訳されています。
 
 
-**Psychtoolbox**は、[MATLAB](https://ja.wikipedia.org/wiki/MATLAB "wikilink")・[GNU Octave用の](../Page/GNU_Octave.md "wikilink")**Toolbox**(拡張パッケージ)のひとつで、[Mac OS Xと](../Page/MacOS.md "wikilink")[Windowsで動作する](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。David Brainard, Denis Pelli, Mario Kleiner, Allen Inglingによって作られた。
+**Psychtoolbox**は、[MATLAB](../Page/MATLAB.md "wikilink")・[GNU Octave用の](../Page/GNU_Octave.md "wikilink")**Toolbox**(拡張パッケージ)のひとつで、[Mac OS Xと](../Page/MacOS.md "wikilink")[Windowsで動作する](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。David Brainard, Denis Pelli, Mario Kleiner, Allen Inglingによって作られた。
 
-2017年8月現在における最新版は3.0.14であり，[MATLAB](https://ja.wikipedia.org/wiki/MATLAB "wikilink") R2012a・[GNU Octave](../Page/GNU_Octave.md "wikilink")4.2以降（[Linux](../Page/Linux.md "wikilink")上では3.8以降）での使用が推奨されている．
+2017年8月現在における最新版は3.0.14であり，[MATLAB](../Page/MATLAB.md "wikilink") R2012a・[GNU Octave](../Page/GNU_Octave.md "wikilink")4.2以降（[Linux](../Page/Linux.md "wikilink")上では3.8以降）での使用が推奨されている．
 
 ## 用途
 
-[神経科学](../Page/神経科学.md "wikilink")、[心理物理学](https://ja.wikipedia.org/wiki/心理物理学 "wikilink")、[知覚心理学](https://ja.wikipedia.org/wiki/知覚心理学 "wikilink")や[認知心理学](https://ja.wikipedia.org/wiki/認知心理学 "wikilink")の実験を構築するのに用いられる。これらの実験に必要な関数はほぼ揃っており、また十分な精度の実験を他の開発環境にくらべ容易に作成できるとされる。プログラミング経験者であれば、数週間でMATLABとPsychtoolboxの学習、そして目的の実験プログラムを作成できるといわれている。
+[神経科学](../Page/神経科学.md "wikilink")、[心理物理学](https://ja.wikipedia.org/wiki/心理物理学 "wikilink")、[知覚心理学](https://ja.wikipedia.org/wiki/知覚心理学 "wikilink")や[認知心理学](../Page/認知心理学.md "wikilink")の実験を構築するのに用いられる。これらの実験に必要な関数はほぼ揃っており、また十分な精度の実験を他の開発環境にくらべ容易に作成できるとされる。プログラミング経験者であれば、数週間でMATLABとPsychtoolboxの学習、そして目的の実験プログラムを作成できるといわれている。
 
 ## バージョンの変遷
 
@@ -21,7 +21,7 @@
 
 ### Psychtoolbox-3.0.8-PreMatlab6.5
 
-2010年後半に最終更新．[MATLAB](https://ja.wikipedia.org/wiki/MATLAB "wikilink")v6.5(R13)をサポートする最後のバージョン．
+2010年後半に最終更新．[MATLAB](../Page/MATLAB.md "wikilink")v6.5(R13)をサポートする最後のバージョン．
 
 ### Psychtoolbox-3.0.8
 
@@ -29,19 +29,19 @@
 
 ### Psychtoolbox-3.0.9
 
-2012年5月に最終更新．[MATLAB](https://ja.wikipedia.org/wiki/MATLAB "wikilink")v7.4(R2007a)以前のバージョンをサポートする最後のバージョン．
+2012年5月に最終更新．[MATLAB](../Page/MATLAB.md "wikilink")v7.4(R2007a)以前のバージョンをサポートする最後のバージョン．
 
 ### Psychtoolbox-3.0.10
 
-2013年7月に最終更新．[OSX](https://ja.wikipedia.org/wiki/OSX "wikilink")版32bit[MATLAB](https://ja.wikipedia.org/wiki/MATLAB "wikilink")をサポートする最後のバージョン．
+2013年7月に最終更新．[OSX](https://ja.wikipedia.org/wiki/OSX "wikilink")版32bit[MATLAB](../Page/MATLAB.md "wikilink")をサポートする最後のバージョン．
 
 ### Psychtoolbox-3.0.11
 
-2014年9月に最終更新．[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")・[Linux](../Page/Linux.md "wikilink")版32bit[MATLAB](https://ja.wikipedia.org/wiki/MATLAB "wikilink")をサポートする最後のバージョン．
+2014年9月に最終更新．[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")・[Linux](../Page/Linux.md "wikilink")版32bit[MATLAB](../Page/MATLAB.md "wikilink")をサポートする最後のバージョン．
 
 ### Psychtoolbox-3.0.12
 
-2016年6月に最終更新．このバージョン以降は[MATLAB](https://ja.wikipedia.org/wiki/MATLAB "wikilink")(R2012a)以降での使用が推奨され，それ以前のバージョンでは動作保証がされない．
+2016年6月に最終更新．このバージョン以降は[MATLAB](../Page/MATLAB.md "wikilink")(R2012a)以降での使用が推奨され，それ以前のバージョンでは動作保証がされない．
 
 ### Psychtoolbox-3.0.13
 

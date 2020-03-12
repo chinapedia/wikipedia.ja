@@ -1,12 +1,12 @@
 > この記事は[BARGAINS](https://ja.wikipedia.org/wiki/BARGAINS)から翻訳されています。
 
 
-**BARGAINS**（バーゲンズ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の音楽ユニットである。1996年結成。1999年[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")よりデビュー。2000年[UNIVERSAL Jに移籍](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。2002年フリーになり活動開始。楽曲提供などしながら、ライブ活動を続けている。
+**BARGAINS**（バーゲンズ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の音楽ユニットである。1996年結成。1999年[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")よりデビュー。2000年[UNIVERSAL Jに移籍](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。2002年フリーになり活動開始。楽曲提供などしながら、ライブ活動を続けている。
 
 ## メンバー
 
-  - **田島由紀子**（たじまゆきこ、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[3月20日](../Page/3月20日.md "wikilink") - ）ボーカル：[山形県](https://ja.wikipedia.org/wiki/山形県 "wikilink")[米沢市](../Page/米沢市.md "wikilink")生まれ[秋田県](../Page/秋田県.md "wikilink")育ち
-  - **三宅修一**（みやけしゅういち、[1963年](../Page/1963年.md "wikilink")[9月8日](https://ja.wikipedia.org/wiki/9月8日 "wikilink") - ）ギター・ベース・コーラス：[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身
+  - **田島由紀子**（たじまゆきこ、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[3月20日](../Page/3月20日.md "wikilink") - ）ボーカル：[山形県](../Page/山形県.md "wikilink")[米沢市](../Page/米沢市.md "wikilink")生まれ[秋田県](../Page/秋田県.md "wikilink")育ち
+  - **三宅修一**（みやけしゅういち、[1963年](../Page/1963年.md "wikilink")[9月8日](../Page/9月8日.md "wikilink") - ）ギター・ベース・コーラス：[東京都](../Page/東京都.md "wikilink")出身
 
 ## ディスコグラフィー
 
@@ -31,7 +31,7 @@
 4.  ジンセイ（2001年2月7日）オリコン48位
     1.  ジンセイ（作詞：田島由紀子／作曲：三宅修一）
           -
-            [ほっかほっか亭](https://ja.wikipedia.org/wiki/ほっかほっか亭 "wikilink")CMソング/TBS系列[COUNT DOWN TVエンディングテーマ](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")
+            [ほっかほっか亭](https://ja.wikipedia.org/wiki/ほっかほっか亭 "wikilink")CMソング/TBS系列[COUNT DOWN TVエンディングテーマ](../Page/COUNT_DOWN_TV.md "wikilink")
     2.  チェリスト（作詞：田島由紀子／作曲：三宅修一）
     3.  Don't worry Be happy（作詞：田島由紀子・三宅修一／作曲：三宅修一）
 5.  ジンセイ～グッドタイムス バッドタイムス～（2001年6月27日）
@@ -86,7 +86,7 @@
   - [TOKIO](../Page/TOKIO.md "wikilink")「[ding-dong](https://ja.wikipedia.org/wiki/Ding-dong/glider "wikilink")」
   - [山下久美子](../Page/山下久美子.md "wikilink")「恋が死ぬ」「カフェにて」
   - [RAG FAIR](../Page/RAG_FAIR.md "wikilink")「嘘をつかないで」
-  - [BON'Z](https://ja.wikipedia.org/wiki/BON'Z "wikilink")「Days」
+  - [BON'Z](../Page/BON'Z.md "wikilink")「Days」
   - [芋洗坂係長](https://ja.wikipedia.org/wiki/芋洗坂係長 "wikilink")「オヤジだって恋をする／風を浴びたい」
   - [石川ひとみ](../Page/石川ひとみ.md "wikilink")「わたしの毎日」（作詞：田島由紀子／作曲・編曲：三宅修一）
 

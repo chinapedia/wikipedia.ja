@@ -1,7 +1,7 @@
 > この記事は[BOX](https://ja.wikipedia.org/wiki/BOX)から翻訳されています。
 
 
-**アーティストBOX**（アーティストボックス）は、[かしわプロダクション](https://ja.wikipedia.org/wiki/かしわプロダクション "wikilink")の配給により全国で放送中の[ラジオ](../Page/ラジオ.md "wikilink")[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")。毎回、1組の音楽アーティストを取り上げ、番組独特の視点で掘り下げていく。なお、放送日・放送時間は各局により異なっている。
+**アーティストBOX**（アーティストボックス）は、[かしわプロダクション](../Page/かしわプロダクション.md "wikilink")の配給により全国で放送中の[ラジオ](../Page/ラジオ.md "wikilink")[音楽番組](../Page/音楽番組.md "wikilink")。毎回、1組の音楽アーティストを取り上げ、番組独特の視点で掘り下げていく。なお、放送日・放送時間は各局により異なっている。
 
 また、年末年始にはパーソナリティー、番組内容はそのままで不定期ネット局を中心に**ザ・ベスト・オブ○○○**（○○○にはアーティスト名が入る）に改題して放送される。
 
@@ -11,7 +11,7 @@
 
 <!-- end list -->
 
-  - [神原智己](https://ja.wikipedia.org/wiki/神原智己 "wikilink")（かんばら さとみ、元[札幌テレビ放送](https://ja.wikipedia.org/wiki/札幌テレビ放送 "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")）
+  - [神原智己](../Page/神原智己.md "wikilink")（かんばら さとみ、元[札幌テレビ放送](../Page/札幌テレビ放送.md "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")）
 
 <!-- end list -->
 
@@ -102,7 +102,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/近畿広域圏" title="wikilink">近畿広域圏</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/朝日放送ラジオ" title="wikilink">朝日放送ラジオ</a>（ABC）</p></td>
+<td><p><a href="../Page/朝日放送ラジオ.md" title="wikilink">朝日放送ラジオ</a>（ABC）</p></td>
 <td><p>日曜 3:30 - 4:30</p></td>
 <td><p>[10]</p></td>
 </tr>
@@ -137,7 +137,7 @@
 <td><p><a href="../Page/中国放送.md" title="wikilink">中国放送</a>（RCC）</p></td>
 <td><p>『<a href="../Page/中四国ライブネット.md" title="wikilink">中四国ライブネット</a>』休止時の代替番組の一つとして18:00 - 19:00→19:00 - 20:00に放送。<br />
 19時台に放送するもう一つの代替番組は『ベストミュージックコレクション・ジャパン』のタイトルで放送。<br />
-土・日曜の『<a href="https://ja.wikipedia.org/wiki/RCCカープナイター" title="wikilink">RCCカープデーゲーム中継</a>』早終了時の時間調整で放送する場合あり。</p></td>
+土・日曜の『<a href="../Page/RCCカープナイター.md" title="wikilink">RCCカープデーゲーム中継</a>』早終了時の時間調整で放送する場合あり。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/島根県.md" title="wikilink">島根県</a>・<a href="../Page/鳥取県.md" title="wikilink">鳥取県</a></p></td>
@@ -150,7 +150,7 @@
 <td><p>『中四国ライブネット』休止時の代替番組の一つとして19:00 - 20:00に放送。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/山形県" title="wikilink">山形県</a></p></td>
+<td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
 <td><p><a href="../Page/山形放送.md" title="wikilink">山形放送</a>（YBC）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/モンテディオ山形" title="wikilink">モンテディオ山形</a>のホームゲーム中継の前か後に放送。</p></td>
 </tr>
@@ -168,28 +168,28 @@
 
 | 放送対象地域                                              | 放送局名                                                       | 放送時間             | 脚注     |
 | --------------------------------------------------- | ---------------------------------------------------------- | ---------------- | ------ |
-| [茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink") | [茨城放送](../Page/茨城放送.md "wikilink")（IBS）                    | 日曜 12:00 - 13:00 | \[14\] |
+| [茨城県](../Page/茨城県.md "wikilink")                    | [茨城放送](../Page/茨城放送.md "wikilink")（IBS）                    | 日曜 12:00 - 13:00 | \[14\] |
 | [栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink") | [栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink")（CRT） | 日曜 22:00 - 23:00 |        |
 | [長野県](../Page/長野県.md "wikilink")                    | [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")（SBC） | 土曜 17:35 - 17:45 |        |
 | [福井県](../Page/福井県.md "wikilink")                    | [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")（FBC） | 月曜 18:35 - 19:00 | \[15\] |
-| [岐阜県](../Page/岐阜県.md "wikilink")                    | [ぎふチャン](https://ja.wikipedia.org/wiki/岐阜放送ラジオ "wikilink")  | 土曜 23:45 - 24:00 |        |
+| [岐阜県](../Page/岐阜県.md "wikilink")                    | [ぎふチャン](../Page/岐阜放送ラジオ.md "wikilink")                     | 土曜 23:45 - 24:00 |        |
 | 近畿広域圏                                               | [ラジオ大阪](../Page/大阪放送.md "wikilink")（OBC）                   | 火曜 23:30 - 24:00 | \[16\] |
 | [愛媛県](../Page/愛媛県.md "wikilink")                    | [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")（RNB） | 日曜 17:00 - 17:15 | \[17\] |
-| [沖縄県](../Page/沖縄県.md "wikilink")                    | [琉球放送](https://ja.wikipedia.org/wiki/琉球放送 "wikilink")（RBC） | 放送時間不詳           | \[18\] |
+| [沖縄県](../Page/沖縄県.md "wikilink")                    | [琉球放送](../Page/琉球放送.md "wikilink")（RBC）                    | 放送時間不詳           | \[18\] |
 
 ## 脚注
 
 [Category:かしわプロダクション](https://ja.wikipedia.org/wiki/Category:かしわプロダクション "wikilink") [Category:日本のラジオ音楽番組](https://ja.wikipedia.org/wiki/Category:日本のラジオ音楽番組 "wikilink") [Category:ラジオの番販番組](https://ja.wikipedia.org/wiki/Category:ラジオの番販番組 "wikilink")
 
 1.  ナイターインは月曜 18:20 - 19:00に放送。
-2.  『[お昼はZENKAI ラヂオな時間](https://ja.wikipedia.org/wiki/お昼はZENKAI_ラヂオな時間 "wikilink")』の放送拡大のため、2015年3月に打ち切ったが、2016年9月26日から2017年3月31日に火曜 - 金曜 18:30 - 18:45に放送。2017年10月2日より再開。
+2.  『[お昼はZENKAI ラヂオな時間](../Page/お昼はZENKAI_ラヂオな時間.md "wikilink")』の放送拡大のため、2015年3月に打ち切ったが、2016年9月26日から2017年3月31日に火曜 - 金曜 18:30 - 18:45に放送。2017年10月2日より再開。
 3.  2017年1月13日までは火曜 - 金曜 18:20 - 18:30、1月17日 - 3月30日は火曜・木曜 18:20 - 18:30に放送。『中四国ライブネット』休止時の代替番組の一つとして土曜 18:00 - 19:00に放送していた時期もあった。
 4.  ナイターオフ限定ネット。月曜 - 金曜の放送だが、『村上良一の「親への提言」』を放送するため、毎年1月中旬からは火・木曜に縮小（2016年までは全曜日終了）。ナイターインは『[中四国ライブネット](../Page/中四国ライブネット.md "wikilink")』休止時の代替番組の一つとして18:00 - 19:00に放送。
 5.  番組表上では「**[白岳ミュージック](../Page/高橋酒造.md "wikilink")&トーク**」のタイトルで放送。
 6.  2009年10月 - に放送していたが、後に打ち切り。2016年9月30日 - 2017年3月31日は金曜 18:20 - 18:45に放送。2017年10月4日から再開。
 7.  2017年4月1日 - 9月は土曜 23:15 - 23:30に放送。毎月最終土曜は休止。
 8.  2016年3月までは日曜 16:30 - 17:00に放送していた。
-9.  第2土曜は『エンジョイ\!クラシック』を放送するため、19:30 - 19:55に短縮。第4土曜は『HEART TO HEART』（[J-WAVE](../Page/J-WAVE.md "wikilink")制作）を放送するため休止。この他にも『[TBCパワフルベースボール](https://ja.wikipedia.org/wiki/TBCパワフルベースボール "wikilink")』を放送するため休止する場合がある。2017年3月まではナイターインは日曜 17:00試合開始時の『TBCパワフルベースボール』終了後のクッション番組として放送。ナイターオフは『TBCラジオスペシャル』の放送時間が50分以下の場合の穴埋めとして放送していた。
+9.  第2土曜は『エンジョイ\!クラシック』を放送するため、19:30 - 19:55に短縮。第4土曜は『HEART TO HEART』（[J-WAVE](../Page/J-WAVE.md "wikilink")制作）を放送するため休止。この他にも『[TBCパワフルベースボール](../Page/TBCパワフルベースボール.md "wikilink")』を放送するため休止する場合がある。2017年3月まではナイターインは日曜 17:00試合開始時の『TBCパワフルベースボール』終了後のクッション番組として放送。ナイターオフは『TBCラジオスペシャル』の放送時間が50分以下の場合の穴埋めとして放送していた。
 10. 2019年4月7日よりレギュラー放送化。2018年12月2日18:00 - 18:30に『[Cheers\!](https://ja.wikipedia.org/wiki/Cheers!_\(ラジオ番組\) "wikilink")』の代替番組として放送。18:30 - 22:30に『ラジオでウラ実況\!?[M-1グランプリ](../Page/M-1グランプリ.md "wikilink")2018』が組まれたため。またレギュラー枠とは別で、[ABCフレッシュアップベースボール](../Page/ABCフレッシュアップベースボール.md "wikilink")で放送するデーゲームの試合が13:30開始の試合がある時、16:30-17:00の枠（主に日曜）で「ベストミュージックコレクション・ジャパン」の名義で放送することもある（デーゲーム延長の場合は休止）。
 11. 第1・第3日曜は『チャベラジ』を放送するため休止。
 12. 2016年6月25日にいったん打ち切ったが、8月6日に放送再開。10月1日 - 2017年3月26日は土曜 13:50 - 14:00、4月2日から現在の時刻に変更。

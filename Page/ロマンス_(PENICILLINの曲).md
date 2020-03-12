@@ -1,7 +1,7 @@
 > この記事は[ \(PENICILLIN\)](https://ja.wikipedia.org/wiki/_\(PENICILLIN\))から翻訳されています。
 
 
-「**ロマンス**」は、[PENICILLIN](../Page/PENICILLIN.md "wikilink")の6枚目の[シングル](../Page/シングル.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[1月15日](../Page/1月15日.md "wikilink")にイーストウエスト・ジャパン（現：[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")）から発売された。
+「**ロマンス**」は、[PENICILLIN](../Page/PENICILLIN.md "wikilink")の6枚目の[シングル](../Page/シングル.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[1月15日](../Page/1月15日.md "wikilink")にイーストウエスト・ジャパン（現：[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")）から発売された。
 
 ## 概要
 
@@ -21,12 +21,12 @@
 
 ## 収録アルバム
 
-| 曲名                  | アルバム                                                                                                                                                | 発売日                                                           | 備考                                                                 |
-| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------ |
-| **ロマンス**            | **[Ultimate Velocity](https://ja.wikipedia.org/wiki/Ultimate_Velocity "wikilink")**                                                                 | [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")10月21日 | 5th[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink") |
-| **Tomorrow**        |                                                                                                                                                     |                                                               |                                                                    |
-| **ロマンス-20th ver.-** | **[20th Anniversary Fan Selection Best DRAGON HEARTS](https://ja.wikipedia.org/wiki/20th_Anniversary_Fan_Selection_Best_DRAGON_HEARTS "wikilink")** | [2012年](../Page/2012年.md "wikilink")4月12日                     | [ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")      |
-|                     |                                                                                                                                                     |                                                               |                                                                    |
+| 曲名                  | アルバム                                                                                                                                                | 発売日                                                           | 備考                                              |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ----------------------------------------------- |
+| **ロマンス**            | **[Ultimate Velocity](https://ja.wikipedia.org/wiki/Ultimate_Velocity "wikilink")**                                                                 | [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")10月21日 | 5th[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink") |
+| **Tomorrow**        |                                                                                                                                                     |                                                               |                                                 |
+| **ロマンス-20th ver.-** | **[20th Anniversary Fan Selection Best DRAGON HEARTS](https://ja.wikipedia.org/wiki/20th_Anniversary_Fan_Selection_Best_DRAGON_HEARTS "wikilink")** | [2012年](../Page/2012年.md "wikilink")4月12日                     | [ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")      |
+|                     |                                                                                                                                                     |                                                               |                                                 |
 
 ## カバー
 
@@ -42,7 +42,7 @@
   - [インザーギ](https://ja.wikipedia.org/wiki/インザーギ_\(ミュージシャン\) "wikilink")（[2012年](../Page/2012年.md "wikilink")） - 『Visualist ～Precious Hits of V-Rock Cover Song～』収録
   - [樹威](https://ja.wikipedia.org/wiki/樹威 "wikilink")（2012年） - オムニバスアルバム『[Counteraction -V-Rock covered Visual Anime songs Compilation-](https://ja.wikipedia.org/wiki/Counteraction_-V-Rock_covered_Visual_Anime_songs_Compilation- "wikilink")』収録
   - [FEST VAINQUEUR](https://ja.wikipedia.org/wiki/FEST_VAINQUEUR "wikilink")（2012年） - 『GENERATION』収録
-  - 新妻エイジ（[岡本信彦](https://ja.wikipedia.org/wiki/岡本信彦 "wikilink")）（[2013年](../Page/2013年.md "wikilink")） - [キャラクターソング](https://ja.wikipedia.org/wiki/キャラクターソング "wikilink")アルバム『TVアニメ [バクマン。キャラクターカバーソングアルバム](https://ja.wikipedia.org/wiki/バクマン。_\(アニメ\) "wikilink") UTAMAN』収録
+  - 新妻エイジ（[岡本信彦](../Page/岡本信彦.md "wikilink")）（[2013年](../Page/2013年.md "wikilink")） - [キャラクターソング](../Page/キャラクターソング.md "wikilink")アルバム『TVアニメ [バクマン。キャラクターカバーソングアルバム](https://ja.wikipedia.org/wiki/バクマン。_\(アニメ\) "wikilink") UTAMAN』収録
   - [BOYS AND MEN](https://ja.wikipedia.org/wiki/BOYS_AND_MEN "wikilink")（[2016年](../Page/2016年.md "wikilink")） - 『Power Of Dream』収録（フォーチュンオールスターズ名義シングル。同シングル内派生ユニット「OSAMU」にてカバー）
   - わらじ（[河西健吾](https://ja.wikipedia.org/wiki/河西健吾 "wikilink")＆[寺島惇太](https://ja.wikipedia.org/wiki/寺島惇太 "wikilink")）（[2017年](../Page/2017年.md "wikilink")） - オムニバスアルバム『DOUBLE DARE COVERS』収録
 

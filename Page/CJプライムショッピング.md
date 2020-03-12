@@ -1,13 +1,13 @@
 > この記事は[CJ](https://ja.wikipedia.org/wiki/CJ)から翻訳されています。
 
 
-**株式会社CJプライムショッピング**（シージェイプライムショッピング）は、かつて[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[港区に本社を置いていた](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[通信販売](../Page/通信販売.md "wikilink")会社である。 [2017年](../Page/2017年.md "wikilink")に事業を撤退、清算した\[1\]。
+**株式会社CJプライムショッピング**（シージェイプライムショッピング）は、かつて[東京都](../Page/東京都.md "wikilink")[港区に本社を置いていた](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[通信販売](../Page/通信販売.md "wikilink")会社である。 [2017年](../Page/2017年.md "wikilink")に事業を撤退、清算した\[1\]。
 
 ## 概要
 
 全国の民放各局の地上波・[BSデジタルや](https://ja.wikipedia.org/wiki/日本における衛星放送#BSデジタル "wikilink")[CS放送の](../Page/日本における衛星放送.md "wikilink")[スカパー\!各チャンネルで放映](../Page/スカパー!プレミアムサービス.md "wikilink")。また、かつては[スカパー\!e2（現・スカパー\!）で通販専門チャンネル](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink")「プライム365.TV」を展開。また、[テレビショッピング](../Page/テレビショッピング.md "wikilink")の番組タイトルは、「CJプライムショッピング」のブランド名にて展開をしている。
 
-2009年に金鉱山会社の[ジパングと](https://ja.wikipedia.org/wiki/ジパング_\(東京都\) "wikilink")2010年1月に合併。同年11月に通販部門が分離独立し、その後[韓国の](../Page/大韓民国.md "wikilink")[CJグループ](https://ja.wikipedia.org/wiki/CJグループ "wikilink")・大手通販企業CJOショッピングの子会社となり現在に至る。過去、名古屋市を本社拠点に活動していた。現在、CJプライムショッピングになり、東京本社・名古屋支社となる。
+2009年に金鉱山会社の[ジパングと](https://ja.wikipedia.org/wiki/ジパング_\(東京都\) "wikilink")2010年1月に合併。同年11月に通販部門が分離独立し、その後[韓国の](../Page/大韓民国.md "wikilink")[CJグループ](../Page/CJグループ.md "wikilink")・大手通販企業CJOショッピングの子会社となり現在に至る。過去、名古屋市を本社拠点に活動していた。現在、CJプライムショッピングになり、東京本社・名古屋支社となる。
 
 ## 沿革
 
@@ -16,13 +16,13 @@
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（[平成](../Page/平成.md "wikilink")7年）[7月](https://ja.wikipedia.org/wiki/7月 "wikilink") - **株式会社プライム**を設立。
   - [2000年](../Page/2000年.md "wikilink")（平成12年）[12月](https://ja.wikipedia.org/wiki/12月 "wikilink") - [ジャスダック](https://ja.wikipedia.org/wiki/ジャスダック "wikilink")に株式を上場。
   - [2004年](../Page/2004年.md "wikilink")（平成16年）[8月1日](../Page/8月1日.md "wikilink") - スカイパーフェクTV\!110（現・スカパー\!）にてショッピングチャンネル「プライム365.TV」放送開始。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）[11月](../Page/11月.md "wikilink") - 株式会社ハーバー研究所との[合弁会社](../Page/合弁事業.md "wikilink")、プライムハーバープロダクツ株式会社を設立。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）[2月](https://ja.wikipedia.org/wiki/2月 "wikilink") - 子会社として株式会社パルマファイナンシャルサービシーズを設立。
+  - [2005年](../Page/2005年.md "wikilink")（平成17年）[11月](../Page/11月.md "wikilink") - 株式会社ハーバー研究所との[合弁会社](../Page/合弁事業.md "wikilink")、プライムハーバープロダクツ株式会社を設立。
+  - [2006年](../Page/2006年.md "wikilink")（平成18年）[2月](https://ja.wikipedia.org/wiki/2月 "wikilink") - 子会社として株式会社パルマファイナンシャルサービシーズを設立。
   - [2007年](../Page/2007年.md "wikilink")（平成19年）[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - 株式会社ベスト電器と業務・資本提携。同年5月、株式会社エルタナと業務・資本提携。12月には、伊藤忠商事株式会社と資本・業務提携。
   - [2009年](../Page/2009年.md "wikilink")（平成21年）[5月](https://ja.wikipedia.org/wiki/5月 "wikilink") - 子会社であった株式会社パルマファイナンシャルサービシーズの全株式を清水門インベストメント合同会社に売却。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）[1月1日](../Page/1月1日.md "wikilink") - 株式会社[ジパングを吸収合併し](https://ja.wikipedia.org/wiki/ジパング_\(東京都\) "wikilink")、同時に**株式会社ジパング・ホールディングス**に商号変更。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）[11月1日](../Page/11月1日.md "wikilink") ジパング・ホールディングスは通販部門を株式会社ADエージェンシーに分割譲渡、株式会社ADエージェンシーは同日**株式会社プライムショッピング**に商号変更。
-  - [2011年](../Page/2011年.md "wikilink")（平成23年）[1月31日](../Page/1月31日.md "wikilink") 韓国のCJOショッピングがプライムショッピングを買収し、[CJグループ](https://ja.wikipedia.org/wiki/CJグループ "wikilink")の子会社化\[2\]。
+  - [2011年](../Page/2011年.md "wikilink")（平成23年）[1月31日](../Page/1月31日.md "wikilink") 韓国のCJOショッピングがプライムショッピングを買収し、[CJグループ](../Page/CJグループ.md "wikilink")の子会社化\[2\]。
   - [2011年](../Page/2011年.md "wikilink")（平成23年）[4月1日](../Page/4月1日.md "wikilink") プライムショッピングを**株式会社CJプライムショッピング**に商号変更するとともに、ブランド名も『**CJプライムショッピング**』に改称。
 
 ## タイアップ
@@ -40,7 +40,7 @@
   - TSUYAGLA（ツヤグラ）ヘアアイロン（[舟山久美子](https://ja.wikipedia.org/wiki/舟山久美子 "wikilink")、[小森純](https://ja.wikipedia.org/wiki/小森純 "wikilink")、[益若つばさ](https://ja.wikipedia.org/wiki/益若つばさ "wikilink")など）※◎
   - NARL（ナール）ボディデザイン・イエローキャブ（[佐藤江梨子](https://ja.wikipedia.org/wiki/佐藤江梨子 "wikilink")デザイン）※
   - アブトロニックx2（[北斗の拳](https://ja.wikipedia.org/wiki/北斗の拳 "wikilink")バージョン）※◎
-  - アブトロニックx2・ハイグレード（[北斗の拳](https://ja.wikipedia.org/wiki/北斗の拳 "wikilink")[ラオウ](https://ja.wikipedia.org/wiki/ラオウ "wikilink")バージョン）※◎
+  - アブトロニックx2・ハイグレード（[北斗の拳](https://ja.wikipedia.org/wiki/北斗の拳 "wikilink")[ラオウ](../Page/ラオウ.md "wikilink")バージョン）※◎
   - スターキック（[イナズマイレブン](../Page/イナズマイレブン.md "wikilink")モデル）※◎
 
 ## 海外ヒット
@@ -61,8 +61,8 @@
 
 ### ダイエット
 
-  - アブトロニックx2（[北斗の拳](https://ja.wikipedia.org/wiki/北斗の拳 "wikilink")との[タイアップ](https://ja.wikipedia.org/wiki/タイアップ "wikilink")バージョンあり）※◎
-  - アブトロニックx2・ハイグレード（[北斗の拳](https://ja.wikipedia.org/wiki/北斗の拳 "wikilink")との[タイアップ](https://ja.wikipedia.org/wiki/タイアップ "wikilink")バージョンあり）※◎
+  - アブトロニックx2（[北斗の拳](https://ja.wikipedia.org/wiki/北斗の拳 "wikilink")との[タイアップ](../Page/タイアップ.md "wikilink")バージョンあり）※◎
+  - アブトロニックx2・ハイグレード（[北斗の拳](https://ja.wikipedia.org/wiki/北斗の拳 "wikilink")との[タイアップ](../Page/タイアップ.md "wikilink")バージョンあり）※◎
   - フラツイスター※◎
   - うれっこリラックス※◎
   - [ビリー・ブランクス](../Page/ビリー・ブランクス.md "wikilink") PT24/7※◎
@@ -90,7 +90,7 @@
 ### ウォーキングシューズ
 
   - すこぶるウォーカー
-  - プライムスタイルウォーカー（[ミズノ](https://ja.wikipedia.org/wiki/ミズノ "wikilink")と共同開発）※
+  - プライムスタイルウォーカー（[ミズノ](../Page/ミズノ.md "wikilink")と共同開発）※
   - アイグリップウォーカー※
   - ムービングウォーカー※
 
@@ -121,10 +121,10 @@
 
 <!-- end list -->
 
-  - [君の詩](https://ja.wikipedia.org/wiki/君の詩 "wikilink")（[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")）※
+  - [君の詩](../Page/君の詩.md "wikilink")（[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）※
   - フォーク&ニューミュージック大全集
   - 永遠のグループサウンズ大全集
-  - [あの時代にかえりたい](../Page/あの時代にかえりたい.md "wikilink")（[東芝EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")）
+  - [あの時代にかえりたい](../Page/あの時代にかえりたい.md "wikilink")（[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")）
   - 不滅のフォークソングBEST-BOX（ポニーキャニオン）
 
 <!-- end list -->
@@ -163,39 +163,39 @@
 
 ### その他
 
-[衛星放送では](../Page/日本における衛星放送.md "wikilink")、[BSデジタル放送の民放各局](https://ja.wikipedia.org/wiki/日本における衛星放送#BSデジタル "wikilink")（[WOWOW](../Page/WOWOW.md "wikilink")・[TwellVを除く](https://ja.wikipedia.org/wiki/ワールド・ハイビジョン・チャンネル "wikilink")）や、CS放送の各局で放送していた。
+[衛星放送では](../Page/日本における衛星放送.md "wikilink")、[BSデジタル放送の民放各局](https://ja.wikipedia.org/wiki/日本における衛星放送#BSデジタル "wikilink")（[WOWOW](../Page/WOWOW.md "wikilink")・[TwellVを除く](../Page/ワールド・ハイビジョン・チャンネル.md "wikilink")）や、CS放送の各局で放送していた。
 
   - 過去に放送していたCS放送局の一覧
 
 <!-- end list -->
 
   - [ムービープラス](../Page/ムービープラス.md "wikilink")
-  - [ザ・シネマ](https://ja.wikipedia.org/wiki/ザ・シネマ "wikilink")
+  - [ザ・シネマ](../Page/ザ・シネマ.md "wikilink")
   - [スカイ・A sports+](../Page/スカイ・エー.md "wikilink")
   - [GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink")
   - [ゴルフネットワーク](../Page/ゴルフネットワーク.md "wikilink")
   - [日テレG+](https://ja.wikipedia.org/wiki/日テレG+ "wikilink")
-  - [歌謡ポップスチャンネル](https://ja.wikipedia.org/wiki/歌謡ポップスチャンネル "wikilink")
-  - [カートゥーン ネットワーク](https://ja.wikipedia.org/wiki/カートゥーン_ネットワーク "wikilink")
+  - [歌謡ポップスチャンネル](../Page/歌謡ポップスチャンネル.md "wikilink")
+  - [カートゥーン ネットワーク](../Page/カートゥーン_ネットワーク.md "wikilink")
   - [キッズステーション](../Page/キッズステーション.md "wikilink")
   - [アニマックス](../Page/アニマックス.md "wikilink")
   - [日テレプラス](https://ja.wikipedia.org/wiki/日テレプラス "wikilink")
-  - [TBSチャンネル](https://ja.wikipedia.org/wiki/TBSチャンネル "wikilink")
-  - [スーパー\!ドラマTV](https://ja.wikipedia.org/wiki/スーパー!ドラマTV "wikilink")
-  - [女性チャンネル♪LaLa TV](https://ja.wikipedia.org/wiki/LaLa_TV "wikilink")
+  - [TBSチャンネル](../Page/TBSチャンネル.md "wikilink")
+  - [スーパー\!ドラマTV](../Page/スーパー!ドラマTV.md "wikilink")
+  - [女性チャンネル♪LaLa TV](../Page/LaLa_TV.md "wikilink")
   - [FOX](https://ja.wikipedia.org/wiki/FOX "wikilink")
   - [AXN](../Page/AXN.md "wikilink")
   - [ファミリー劇場](../Page/ファミリー劇場.md "wikilink")
-  - [時代劇専門チャンネル](https://ja.wikipedia.org/wiki/時代劇専門チャンネル "wikilink")
+  - [時代劇専門チャンネル](../Page/時代劇専門チャンネル.md "wikilink")
   - [ヒストリーチャンネル](../Page/ヒストリーチャンネル.md "wikilink")
   - [日経CNBC](https://ja.wikipedia.org/wiki/日経CNBC "wikilink")
   - [朝日ニュースター](../Page/朝日ニュースター.md "wikilink")
-  - [CNNj](https://ja.wikipedia.org/wiki/CNNj "wikilink")
+  - [CNNj](../Page/CNNj.md "wikilink")
   - [TBSニュースバード](https://ja.wikipedia.org/wiki/TBSニュースバード "wikilink")
   - [日テレNEWS24](https://ja.wikipedia.org/wiki/日テレNEWS24 "wikilink")
-  - [囲碁・将棋チャンネル](https://ja.wikipedia.org/wiki/囲碁・将棋チャンネル "wikilink")
+  - [囲碁・将棋チャンネル](../Page/囲碁・将棋チャンネル.md "wikilink")
   - [旅チャンネル](../Page/旅チャンネル.md "wikilink")
-  - [食と旅のフーディーズTV](https://ja.wikipedia.org/wiki/食と旅のフーディーズTV "wikilink")
+  - [食と旅のフーディーズTV](../Page/食と旅のフーディーズTV.md "wikilink")
   - [MALL OF TV](https://ja.wikipedia.org/wiki/MALL_OF_TV "wikilink")
 
 ## 事業所

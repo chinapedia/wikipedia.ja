@@ -7,7 +7,7 @@
 
 プロジェクトEGGを利用するには月額¥500（税抜き）の会員登録が必要である。
 
-マスコットキャラクターは『[EGGY](https://ja.wikipedia.org/wiki/EGGY "wikilink")』（ボーステックが1985年に発売した作品。Project EGGのほか[バーチャルコンソール](https://ja.wikipedia.org/wiki/バーチャルコンソール "wikilink")でも配信中）。参入メーカーは60社にも及ぶ。
+マスコットキャラクターは『[EGGY](https://ja.wikipedia.org/wiki/EGGY "wikilink")』（ボーステックが1985年に発売した作品。Project EGGのほか[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")でも配信中）。参入メーカーは60社にも及ぶ。
 
 また、派生事業として、ゲーム音楽の配信サービスであるEGG-MUSICがある。
 
@@ -31,7 +31,7 @@ D4エンタープライズの代表となった鈴木は、ゲームの開発に
 
 ## 配信
 
-本サービスにおいては、メーカーからの協力を得られたタイトルを優先して配信しているほか、ユーザーからの要望を受けて配信したケースもある。 鈴木は、こちらから譲渡をお願いする姿勢はとっていないとしつつも、状況の変化によってメーカー側から譲渡したいという声が寄せられたことがあったと、ゲーム文化保存研究所とのインタビューの中で振り返っている\[2\]。 一方で、鈴木はゲーム文化保存研究所とのインタビューの中で、法人格が消滅している会社の作品の許諾を得ることの難しさについて語っており、法務局で書類を取得したうえで弁護士と相談したケースや、過去のことを思い出したくない関係者から拒否されたケースや、当時の契約書が存在しないケースもあったことを明かしている\[3\]。 。基本的に他社から許諾を得た作品の無料配信は行わない方針が取られている一方、ボーステックの『[レリクス](https://ja.wikipedia.org/wiki/レリクス "wikilink")』は鈴木をはじめとするD4エンタープライズのスタッフたちにとって思い入れがある作品だったことから、真っ先に無料配信が行われたケースもある。
+本サービスにおいては、メーカーからの協力を得られたタイトルを優先して配信しているほか、ユーザーからの要望を受けて配信したケースもある。 鈴木は、こちらから譲渡をお願いする姿勢はとっていないとしつつも、状況の変化によってメーカー側から譲渡したいという声が寄せられたことがあったと、ゲーム文化保存研究所とのインタビューの中で振り返っている\[2\]。 一方で、鈴木はゲーム文化保存研究所とのインタビューの中で、法人格が消滅している会社の作品の許諾を得ることの難しさについて語っており、法務局で書類を取得したうえで弁護士と相談したケースや、過去のことを思い出したくない関係者から拒否されたケースや、当時の契約書が存在しないケースもあったことを明かしている\[3\]。 。基本的に他社から許諾を得た作品の無料配信は行わない方針が取られている一方、ボーステックの『[レリクス](../Page/レリクス.md "wikilink")』は鈴木をはじめとするD4エンタープライズのスタッフたちにとって思い入れがある作品だったことから、真っ先に無料配信が行われたケースもある。
 
 一部のゲームは完全には再現されず、音が一部無音・実機より音や表示が遅れる等の問題がある。それらの再現性の問題があるゲームのサポートサイトが一部閉鎖している為注意が必要となる 以下の作品はボーステックの旧公式サイトで対策パッチが公開されていた。
 
@@ -60,7 +60,7 @@ D4エンタープライズの代表となった鈴木は、ゲームの開発に
   - [サブナック](https://ja.wikipedia.org/wiki/サブナック_\(ゲーム\) "wikilink")
   - [原宿AFTERDARK](https://ja.wikipedia.org/wiki/原宿AFTERDARK "wikilink")
   - [コズミックソルジャー](https://ja.wikipedia.org/wiki/コズミックソルジャー "wikilink")
-  - [スタートレーダー](https://ja.wikipedia.org/wiki/スタートレーダー "wikilink")
+  - [スタートレーダー](../Page/スタートレーダー.md "wikilink")
   - [アステカ](https://ja.wikipedia.org/wiki/アステカ_\(ゲーム\) "wikilink")
   - [イースシリーズ](../Page/イースシリーズ.md "wikilink")
   - [:Category:プロジェクトEGG対応ソフト](https://ja.wikipedia.org/wiki/Category:プロジェクトEGG対応ソフト "wikilink") - 配信されているタイトルのうち、日本語版ウィキペディアに記事が存在するタイトルの一覧（五十音順）。
@@ -70,7 +70,7 @@ D4エンタープライズの代表となった鈴木は、ゲームの開発に
   - [ANMA](https://ja.wikipedia.org/wiki/ANMA "wikilink")
   - [BPS](https://ja.wikipedia.org/wiki/BPS "wikilink")
   - [Bugtaro](https://ja.wikipedia.org/wiki/Bugtaro "wikilink")
-  - [dB-SOFT](https://ja.wikipedia.org/wiki/デービーソフト "wikilink")
+  - [dB-SOFT](../Page/デービーソフト.md "wikilink")
   - [G-mode](https://ja.wikipedia.org/wiki/G-mode "wikilink")
   - [HOT-B](../Page/ホット・ビィ.md "wikilink")
   - [I'MAX](https://ja.wikipedia.org/wiki/I'MAX "wikilink")
@@ -78,7 +78,7 @@ D4エンタープライズの代表となった鈴木は、ゲームの開発に
   - [IRI](https://ja.wikipedia.org/wiki/IRI "wikilink")
   - [NCS/extreme](https://ja.wikipedia.org/wiki/メサイヤ_\(ゲームブランド\) "wikilink")
   - [SNKプレイモア](https://ja.wikipedia.org/wiki/SNKプレイモア "wikilink")
-  - [T\&E SOFT](https://ja.wikipedia.org/wiki/T&E_SOFT "wikilink")
+  - [T\&E SOFT](../Page/T&E_SOFT.md "wikilink")
   - [Tozai Games](https://ja.wikipedia.org/wiki/Tozai_Games "wikilink")
   - [ZOOM](https://ja.wikipedia.org/wiki/ZOOM "wikilink")
   - [アートディンク](../Page/アートディンク.md "wikilink")
@@ -88,7 +88,7 @@ D4エンタープライズの代表となった鈴木は、ゲームの開発に
   - [エス・ピー・エス](../Page/エス・ピー・エス.md "wikilink")
   - [エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")
   - [ガイナックス](../Page/ガイナックス.md "wikilink")
-  - [カルチャーブレーンエクセル](https://ja.wikipedia.org/wiki/カルチャーブレーンエクセル "wikilink")
+  - [カルチャーブレーンエクセル](../Page/カルチャーブレーンエクセル.md "wikilink")
   - [キャリーラボ](../Page/キャリーラボ.md "wikilink")
   - [クエイザーソフト](https://ja.wikipedia.org/wiki/クエイザーソフト "wikilink")
   - [クリスタルソフト](../Page/クリスタルソフト.md "wikilink")
@@ -99,15 +99,15 @@ D4エンタープライズの代表となった鈴木は、ゲームの開発に
   - [サンソフト](https://ja.wikipedia.org/wiki/サンソフト "wikilink")
   - [ジーエーエム](https://ja.wikipedia.org/wiki/ジーエーエム "wikilink")
   - [システムサコム](../Page/システムサコム.md "wikilink")
-  - [システムソフト](https://ja.wikipedia.org/wiki/システムソフト "wikilink")
+  - [システムソフト](../Page/システムソフト.md "wikilink")
   - [ジャレコ](../Page/ジャレコ.md "wikilink")
   - [シンキングラビット](../Page/シンキングラビット.md "wikilink")
   - [スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")
   - [スタジオWING](https://ja.wikipedia.org/wiki/スタジオWING "wikilink")
-  - [テンキー](https://ja.wikipedia.org/wiki/テンキー "wikilink")
+  - [テンキー](../Page/テンキー.md "wikilink")
   - [パオン・ディーピー](../Page/パオン・ディーピー.md "wikilink")
   - [ハドソン](../Page/ハドソン.md "wikilink")（2005年3月31日で販売終了）
-  - [ハミングバードソフト](https://ja.wikipedia.org/wiki/ハミングバードソフト "wikilink")
+  - [ハミングバードソフト](../Page/ハミングバードソフト.md "wikilink")
   - [パンサーソフト](https://ja.wikipedia.org/wiki/パンサーソフト "wikilink")
   - [ファミリーソフト](../Page/ファミリーソフト.md "wikilink")
   - [ヘルツ](../Page/ヘルツ.md "wikilink")
@@ -118,19 +118,19 @@ D4エンタープライズの代表となった鈴木は、ゲームの開発に
   - [マイクロネット](https://ja.wikipedia.org/wiki/マイクロネット "wikilink")
   - [マイクロビジョン](https://ja.wikipedia.org/wiki/マイクロビジョン "wikilink")
   - [ミリオン](https://ja.wikipedia.org/wiki/ミリオン "wikilink")
-  - [メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")
+  - [メディアワークス](../Page/メディアワークス.md "wikilink")
   - [モオソフト](https://ja.wikipedia.org/wiki/モオソフト "wikilink")
   - [もものきはうす](https://ja.wikipedia.org/wiki/もものきはうす "wikilink")
   - [ランダムハウス](https://ja.wikipedia.org/wiki/ランダムハウス "wikilink")
   - [リバーヒルソフト](../Page/リバーヒルソフト.md "wikilink")
   - [ろまんてっく](https://ja.wikipedia.org/wiki/ろまんてっく "wikilink")
   - [呉ソフトウェア工房](../Page/呉ソフトウェア工房.md "wikilink")
-  - [工画堂スタジオ](https://ja.wikipedia.org/wiki/工画堂スタジオ "wikilink")
+  - [工画堂スタジオ](../Page/工画堂スタジオ.md "wikilink")
   - [創現](https://ja.wikipedia.org/wiki/創現 "wikilink")
   - [日本クリエイト](https://ja.wikipedia.org/wiki/日本クリエイト "wikilink")
   - [日本テレネット](https://ja.wikipedia.org/wiki/日本テレネット "wikilink")
   - [日本ファルコム](../Page/日本ファルコム.md "wikilink")
-  - [日本物産](https://ja.wikipedia.org/wiki/日本物産 "wikilink")
+  - [日本物産](../Page/日本物産.md "wikilink")
   - [風雅システム](https://ja.wikipedia.org/wiki/風雅システム "wikilink")
 
 ## アクティベーション

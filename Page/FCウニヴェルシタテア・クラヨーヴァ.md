@@ -13,7 +13,7 @@
 
 ### クライオヴァの絶頂期
 
-1982-83年シーズンは、クラブ史上最高の成績を収めた。コンスタンチン・オチェット(*Constantin Oţet*)とニコラエ・イヴァン(*Nicolae Ivan*)のもと、[UEFAカップでルーマニアのクラブとしては初となる準決勝進出を果たした](https://ja.wikipedia.org/wiki/UEFAカップ1982-83 "wikilink")。前シーズンイタリア[セリエA](../Page/セリエA_\(サッカー\).md "wikilink")2位の[フィオレンティーナ](https://ja.wikipedia.org/wiki/フィオレンティーナ "wikilink")、フランスの[ジロンダン・ボルドー](https://ja.wikipedia.org/wiki/FCジロンダン・ボルドー "wikilink")、西ドイツの[カイザースラウテルンを下し](https://ja.wikipedia.org/wiki/1.FCカイザースラウテルン "wikilink")、準決勝では、過去に[UEFAチャンピオンズカップ](https://ja.wikipedia.org/wiki/UEFAチャンピオンズカップ "wikilink")を2度制したポルトガルの[ベンフィカ](https://ja.wikipedia.org/wiki/ベンフィカ "wikilink")と対戦した。2戦とも引き分けに終わり、ベンフィカがアウェー戦で得点したため決勝進出を果たせなかった。
+1982-83年シーズンは、クラブ史上最高の成績を収めた。コンスタンチン・オチェット(*Constantin Oţet*)とニコラエ・イヴァン(*Nicolae Ivan*)のもと、[UEFAカップでルーマニアのクラブとしては初となる準決勝進出を果たした](https://ja.wikipedia.org/wiki/UEFAカップ1982-83 "wikilink")。前シーズンイタリア[セリエA](../Page/セリエA_\(サッカー\).md "wikilink")2位の[フィオレンティーナ](https://ja.wikipedia.org/wiki/フィオレンティーナ "wikilink")、フランスの[ジロンダン・ボルドー](../Page/FCジロンダン・ボルドー.md "wikilink")、西ドイツの[カイザースラウテルンを下し](../Page/1.FCカイザースラウテルン.md "wikilink")、準決勝では、過去に[UEFAチャンピオンズカップ](https://ja.wikipedia.org/wiki/UEFAチャンピオンズカップ "wikilink")を2度制したポルトガルの[ベンフィカ](https://ja.wikipedia.org/wiki/ベンフィカ "wikilink")と対戦した。2戦とも引き分けに終わり、ベンフィカがアウェー戦で得点したため決勝進出を果たせなかった。
 
 [イリエ・バラチ](https://ja.wikipedia.org/wiki/イリエ・バラチ "wikilink")、[ロディオン・カマタル](https://ja.wikipedia.org/wiki/ロディオン・カマタル "wikilink")だけでなく[シュテファネスク](https://ja.wikipedia.org/wiki/コスティカ・シュテファネスク "wikilink")、[クリシャン](https://ja.wikipedia.org/wiki/ゾルタン・クリシャン "wikilink")、[ゲオルガウ](https://ja.wikipedia.org/wiki/イオン・ゲオルガウ "wikilink")、[ルングといったUEFAカップ](https://ja.wikipedia.org/wiki/シルヴィウ・ルング "wikilink")1982-83準決勝に出場した選手は**クライオヴァ・マクシマ**(*Craiova Maxima*)と呼ばれるようになった。
 
@@ -83,7 +83,7 @@
 
 ## 歴代監督
 
-  - [ヴィクトル・ピツルカ](https://ja.wikipedia.org/wiki/ヴィクトル・ピツルカ "wikilink") 1994-1995, 2010.8-2011.1
+  - [ヴィクトル・ピツルカ](../Page/ヴィクトル・ピツルカ.md "wikilink") 1994-1995, 2010.8-2011.1
 
   - [ミルチェア・レドニク](https://ja.wikipedia.org/wiki/ミルチェア・レドニク "wikilink") 2004-2005
 
@@ -101,19 +101,19 @@
 
   - [ロディオン・カマタル](https://ja.wikipedia.org/wiki/ロディオン・カマタル "wikilink") 1974-86
 
-  - [ゲオルゲ・ポペスク](https://ja.wikipedia.org/wiki/ゲオルゲ・ポペスク "wikilink")
+  - [ゲオルゲ・ポペスク](../Page/ゲオルゲ・ポペスク.md "wikilink")
 
   - [クリスティアン・キヴ](../Page/クリスティアン・キヴ.md "wikilink")
 
   - [ロベルト・ヴァンチャ](https://ja.wikipedia.org/wiki/ロベルト・ヴァンチャ "wikilink")
 
-  - [オビデュ・ブルカ](https://ja.wikipedia.org/wiki/オビデュ・ブルカ "wikilink")
+  - [オビデュ・ブルカ](../Page/オビデュ・ブルカ.md "wikilink")
 
   - [アウレリアン・コスミン・オラロイ](../Page/コスミン・オラロイ.md "wikilink")
 
   - [ガブリエル・ポペスク](../Page/ガブリエル・ポペスク.md "wikilink")
 
-  - [パベル・バデア](https://ja.wikipedia.org/wiki/パベル・バデア "wikilink")
+  - [パベル・バデア](../Page/パベル・バデア.md "wikilink")
 
   - [三原廣樹](../Page/三原廣樹.md "wikilink")
 

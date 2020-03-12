@@ -1,13 +1,13 @@
 > この記事は[MAX](https://ja.wikipedia.org/wiki/MAX)から翻訳されています。
 
 
-『**まんがタイムきららMAX**』（まんがタイムきららマックス）は、[芳文社](https://ja.wikipedia.org/wiki/芳文社 "wikilink")発行の[4コマ漫画雑誌](https://ja.wikipedia.org/wiki/4コマ漫画#4コマ誌 "wikilink")。原則として毎月19日に発売されている（ただし、地域によっては発売日が異なることがある）。B5判、平綴じである。
+『**まんがタイムきららMAX**』（まんがタイムきららマックス）は、[芳文社](../Page/芳文社.md "wikilink")発行の[4コマ漫画雑誌](https://ja.wikipedia.org/wiki/4コマ漫画#4コマ誌 "wikilink")。原則として毎月19日に発売されている（ただし、地域によっては発売日が異なることがある）。B5判、平綴じである。
 
-『[まんがタイムきらら](https://ja.wikipedia.org/wiki/まんがタイムきらら "wikilink")』など他のきらら系雑誌とは姉妹誌の関係にある。[キャッチコピー](../Page/キャッチコピー.md "wikilink")は「ドキドキ★ビジュアル全開マガジン」。
+『[まんがタイムきらら](../Page/まんがタイムきらら.md "wikilink")』など他のきらら系雑誌とは姉妹誌の関係にある。[キャッチコピー](../Page/キャッチコピー.md "wikilink")は「ドキドキ★ビジュアル全開マガジン」。
 
 ## 特徴・内容の傾向
 
-姉妹誌である『まんがタイムきらら』、『[まんがタイムきららキャラット](../Page/まんがタイムきららキャラット.md "wikilink")』に続く第3の『きらら』系雑誌として創刊された。創刊時期が他の姉妹誌より遅かったこともあり、創刊当初からほぼ全ての誌面を新人作家、『きらら』系デビューの作家および異分野出身の作家の作品が占めている（ファミリー向け4コマ出身作家からは[藤島じゅん](https://ja.wikipedia.org/wiki/藤島じゅん "wikilink")および[榛名まお](https://ja.wikipedia.org/wiki/榛名まお "wikilink")がいた程度）。
+姉妹誌である『まんがタイムきらら』、『[まんがタイムきららキャラット](../Page/まんがタイムきららキャラット.md "wikilink")』に続く第3の『きらら』系雑誌として創刊された。創刊時期が他の姉妹誌より遅かったこともあり、創刊当初からほぼ全ての誌面を新人作家、『きらら』系デビューの作家および異分野出身の作家の作品が占めている（ファミリー向け4コマ出身作家からは[藤島じゅん](../Page/藤島じゅん.md "wikilink")および[榛名まお](https://ja.wikipedia.org/wiki/榛名まお "wikilink")がいた程度）。
 
 創刊初期はカラーピンナップが掲載されていた。また、創刊からしばらくの間、表紙や広告などでの紹介文中、やたら日本語を[ローマ字](https://ja.wikipedia.org/wiki/ローマ字 "wikilink")表記した文言が見られた。
 
@@ -26,8 +26,8 @@
 2020年1月19日現在、通巻号数は**NO.185**まで、創刊年数は**16年目**。
 
   - [2004年](../Page/2004年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink") - 『まんがタイムきららMAX』 **2004年11月号**として独立創刊。この号から**○月号**表記で通巻のカウント**NO.○**も始まる。**毎月29日**刊行で創刊。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月20日](../Page/9月20日.md "wikilink") - 『まんがタイムきららMAX』 **2005年11月号**発売号より、**毎月29日**から**毎月19日**に変更、定価も改訂。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月19日](../Page/7月19日.md "wikilink") - 『まんがタイムきららMAX』 **2006年9月号**発売号より、創刊以来使用してきた[セリフ](../Page/セリフ_\(文字\).md "wikilink")（文字飾り）のついた "MAX" のロゴを変更するなど、デザインをポップに大幅リニューアル。
+  - [2005年](../Page/2005年.md "wikilink")[9月20日](../Page/9月20日.md "wikilink") - 『まんがタイムきららMAX』 **2005年11月号**発売号より、**毎月29日**から**毎月19日**に変更、定価も改訂。
+  - [2006年](../Page/2006年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink") - 『まんがタイムきららMAX』 **2006年9月号**発売号より、創刊以来使用してきた[セリフ](../Page/セリフ_\(文字\).md "wikilink")（文字飾り）のついた "MAX" のロゴを変更するなど、デザインをポップに大幅リニューアル。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[10月18日](../Page/10月18日.md "wikilink") - 『まんがタイムきららMAX』 **2008年12月号**が刊行。この号で通巻号数が**No.50**になる。
   - [2009年](../Page/2009年.md "wikilink")[9月19日](../Page/9月19日.md "wikilink") - 『まんがタイムきららMAX』 **2009年11月号**が刊行。この号で、**独立創刊5周年**になる。また、5周年記念付録として「かなめもアンソロジー」を付録している。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月19日](../Page/3月19日.md "wikilink") - 『まんがタイムきららMAX』 **2010年5月号**が刊行。表紙の年月号デザイン&側面のデザインが少々変更される。
@@ -40,8 +40,8 @@
 
 各作品に詳細あり。2013年7月19日現在。
 
-  - 『[天然女子高物語](https://ja.wikipedia.org/wiki/天然女子高物語 "wikilink")』 - 発売日：[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月26日](../Page/4月26日.md "wikilink")
-  - 『[落花流水](https://ja.wikipedia.org/wiki/落花流水_\(漫画\) "wikilink")』 - 発売日：[2009年](../Page/2009年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")
+  - 『[天然女子高物語](https://ja.wikipedia.org/wiki/天然女子高物語 "wikilink")』 - 発売日：[2006年](../Page/2006年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")
+  - 『[落花流水](../Page/落花流水_\(漫画\).md "wikilink")』 - 発売日：[2009年](../Page/2009年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")
   - 『[くすりのマジョラム](https://ja.wikipedia.org/wiki/くすりのマジョラム "wikilink")』 - 発売日：[2011年](../Page/2011年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink")
   - 『[ホイップノート](https://ja.wikipedia.org/wiki/ホイップノート "wikilink")』 - 発売日：2011年[8月31日](../Page/8月31日.md "wikilink")
 
@@ -70,7 +70,7 @@
   - [ご注文はうさぎですか?](https://ja.wikipedia.org/wiki/ご注文はうさぎですか? "wikilink") - 2016年3月3日発売、機種：[PlayStation Vita](https://ja.wikipedia.org/wiki/PlayStation_Vita "wikilink")
   - [きんいろモザイク](https://ja.wikipedia.org/wiki/きんいろモザイク "wikilink") - 2016年12月26日配信開始、機種：[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")/[Android](../Page/Android.md "wikilink")
 
-この他、[クロスオーバー作品](https://ja.wikipedia.org/wiki/クロスオーバー作品 "wikilink")への参加事例として以下の作品がある。
+この他、[クロスオーバー作品](../Page/クロスオーバー作品.md "wikilink")への参加事例として以下の作品がある。
 
   - [ミラクルガールズフェスティバル](https://ja.wikipedia.org/wiki/ミラクルガールズフェスティバル "wikilink") - 2015年12月17日発売、機種：PlayStation Vita、参加作品：『きんいろモザイク』『ご注文はうさぎですか?』
   - [きららファンタジア](https://ja.wikipedia.org/wiki/きららファンタジア "wikilink") - 2017年12月11日配信開始、機種：iOS/Android、参加作品：『[ステラのまほう](https://ja.wikipedia.org/wiki/ステラのまほう "wikilink")』『きんいろモザイク』『[こみっくがーるず](https://ja.wikipedia.org/wiki/こみっくがーるず "wikilink")』『ご注文はうさぎですか?』
@@ -82,7 +82,7 @@
   - **[きんいろモザイク](https://ja.wikipedia.org/wiki/きんいろモザイク "wikilink")** （[原悠衣](../Page/原悠衣.md "wikilink")、2010年2 - 3月号ゲスト、6月号 - ・コミックFUZでは土曜枠）
   - **[ご注文はうさぎですか?](https://ja.wikipedia.org/wiki/ご注文はうさぎですか? "wikilink")** （[Koi](https://ja.wikipedia.org/wiki/Koi "wikilink")、2010年12月号ゲスト、2011年3月号 - ・コミックFUZでは金曜枠）
   - [ステラのまほう](https://ja.wikipedia.org/wiki/ステラのまほう "wikilink")（[くろば・U](https://ja.wikipedia.org/wiki/くろば・U "wikilink")、2012年10月号 - 11月号ゲスト、2013年2月号 - ）
-  - [こみっくがーるず](https://ja.wikipedia.org/wiki/こみっくがーるず "wikilink")（[はんざわかおり](https://ja.wikipedia.org/wiki/はんざわかおり "wikilink")、2014年5月号 - 7月号ゲスト、8月号 - ）
+  - [こみっくがーるず](https://ja.wikipedia.org/wiki/こみっくがーるず "wikilink")（[はんざわかおり](../Page/はんざわかおり.md "wikilink")、2014年5月号 - 7月号ゲスト、8月号 - ）
   - **[私を球場に連れてって\!](https://ja.wikipedia.org/wiki/私を球場に連れてって! "wikilink")**（原作：[スーパーまさら](https://ja.wikipedia.org/wiki/スーパーまさら "wikilink")・作画：[うみのとも](https://ja.wikipedia.org/wiki/うみのとも "wikilink")、2017年4月号 - ・コミックFUZでは連載が終了）
   - [タベモノガタリ](https://ja.wikipedia.org/wiki/タベモノガタリ "wikilink")（[電柱棒](https://ja.wikipedia.org/wiki/電柱棒 "wikilink")、2017年9月号 - 11月号ゲスト\[1\]、2018年1月号 - 2020年4月号）
   - [ぼっち・ざ・ろっく\!](https://ja.wikipedia.org/wiki/ぼっち・ざ・ろっく! "wikilink")（[はまじあき](https://ja.wikipedia.org/wiki/はまじあき "wikilink")、2018年2月号 - 4月号ゲスト、5月号 - ）
@@ -102,10 +102,10 @@
 
 （連載開始号の古い順 / タイトル五十音順）
 
-  - [ことはの王子様](https://ja.wikipedia.org/wiki/ことはの王子様 "wikilink") （[渡辺純子](https://ja.wikipedia.org/wiki/渡辺純子_\(漫画家\) "wikilink")、創刊号 - 2007年6月号掲載の後、休載中）
+  - [ことはの王子様](https://ja.wikipedia.org/wiki/ことはの王子様 "wikilink") （[渡辺純子](../Page/渡辺純子_\(漫画家\).md "wikilink")、創刊号 - 2007年6月号掲載の後、休載中）
   - [アイオン](https://ja.wikipedia.org/wiki/アイオン_\(漫画\) "wikilink") （[MR+](https://ja.wikipedia.org/wiki/MR+ "wikilink")、2005年4月号 - 2007年8月号掲載の後、休載中）
   - [ディアン先生の弟子](https://ja.wikipedia.org/wiki/ディアン先生の弟子 "wikilink") （[日下さつき](https://ja.wikipedia.org/wiki/日下さつき "wikilink")、2007年6月号 - 2009年1月号掲載の後、休載中）
-  - [天国の本屋さん〜路地裏幻草子〜](https://ja.wikipedia.org/wiki/天国の本屋さん〜路地裏幻草子〜 "wikilink") （[阿倍野ちゃこ](https://ja.wikipedia.org/wiki/阿倍野ちゃこ "wikilink")、2008年9月号 - 2009年9月号掲載の後、休載中）
+  - [天国の本屋さん〜路地裏幻草子〜](https://ja.wikipedia.org/wiki/天国の本屋さん〜路地裏幻草子〜 "wikilink") （[阿倍野ちゃこ](../Page/阿倍野ちゃこ.md "wikilink")、2008年9月号 - 2009年9月号掲載の後、休載中）
   - [おにさん、こちら](https://ja.wikipedia.org/wiki/おにさん、こちら "wikilink") （[昼間行燈](https://ja.wikipedia.org/wiki/昼間行燈 "wikilink")、2010年11月号 - 2014年2月号掲載の後、休載中）
   - [ぶらまり〜時給800円の吸血鬼〜](https://ja.wikipedia.org/wiki/ぶらまり〜時給800円の吸血鬼〜 "wikilink")（[神藤かみち](https://ja.wikipedia.org/wiki/神藤かみち "wikilink")、2013年6月号 - 8月号ゲスト、12月号 - 2014年10月号掲載の後、休載中）
   - [アイはぐ](https://ja.wikipedia.org/wiki/アイはぐ "wikilink")（[浪咲ゆか](https://ja.wikipedia.org/wiki/浪咲ゆか "wikilink")、2013年11月号 - 12月号ゲスト、2014年6月号 - 2015年3月号掲載の後、休載中）
@@ -116,36 +116,36 @@
 
   - [かたつむりちゃん](../Page/かたつむりちゃん.md "wikilink") （[今井神](https://ja.wikipedia.org/wiki/今井神 "wikilink")、創刊号 - 2004年11月号）（以降は『まんがタイムきらら』のみで連載し終了）
   - [ちびでびっ\!](https://ja.wikipedia.org/wiki/ちびでびっ! "wikilink") （[寺本薫](https://ja.wikipedia.org/wiki/寺本薫 "wikilink")、創刊号 - 2004年12月号）（以降は『まんがタイムきららキャラット』のみで連載し終了）
-  - [てんしのたまご。](https://ja.wikipedia.org/wiki/てんしのたまご。 "wikilink") （[中山かつみ](https://ja.wikipedia.org/wiki/中山かつみ "wikilink")、創刊号 - 2004年12月号）（以降は『まんがタイムきららキャラット』のみで連載し終了）
-  - [ぴよぴよライフ](https://ja.wikipedia.org/wiki/ぴよぴよライフ "wikilink") （[櫻太助](https://ja.wikipedia.org/wiki/櫻太助 "wikilink")、創刊号 - 2004年12月号）（以降は『まんがタイムきららキャラット』のみで連載し終了）
-  - [帝立第13軍学校歩兵科異常アリ\!?](../Page/帝立第13軍学校歩兵科異常アリ!?.md "wikilink") （[石田あきら](https://ja.wikipedia.org/wiki/石田あきら "wikilink")、創刊号 - 2005年5月号、隔月連載）（以降は『まんがタイムきららキャラット』のみで連載し終了）
-  - [最後の制服](https://ja.wikipedia.org/wiki/最後の制服 "wikilink") （[袴田めら](https://ja.wikipedia.org/wiki/袴田めら "wikilink")、創刊号 - 2005年10月号）（以降は『まんがタイムきららキャラット』のみで連載し終了）
+  - [てんしのたまご。](https://ja.wikipedia.org/wiki/てんしのたまご。 "wikilink") （[中山かつみ](../Page/中山かつみ.md "wikilink")、創刊号 - 2004年12月号）（以降は『まんがタイムきららキャラット』のみで連載し終了）
+  - [ぴよぴよライフ](https://ja.wikipedia.org/wiki/ぴよぴよライフ "wikilink") （[櫻太助](../Page/櫻太助.md "wikilink")、創刊号 - 2004年12月号）（以降は『まんがタイムきららキャラット』のみで連載し終了）
+  - [帝立第13軍学校歩兵科異常アリ\!?](../Page/帝立第13軍学校歩兵科異常アリ!?.md "wikilink") （[石田あきら](../Page/石田あきら.md "wikilink")、創刊号 - 2005年5月号、隔月連載）（以降は『まんがタイムきららキャラット』のみで連載し終了）
+  - [最後の制服](../Page/最後の制服.md "wikilink") （[袴田めら](../Page/袴田めら.md "wikilink")、創刊号 - 2005年10月号）（以降は『まんがタイムきららキャラット』のみで連載し終了）
   - [悪魔のマクアさん](https://ja.wikipedia.org/wiki/悪魔のマクアさん "wikilink") （[超肉](https://ja.wikipedia.org/wiki/超肉 "wikilink")、創刊号 - 2006年2月号、隔月連載）
   - [カラフル曜日](https://ja.wikipedia.org/wiki/カラフル曜日 "wikilink") （[ウエクサユミコ](https://ja.wikipedia.org/wiki/ウエクサユミコ "wikilink")、創刊号 - 2006年3月号）
-  - [えむの王国](https://ja.wikipedia.org/wiki/えむの王国 "wikilink") （[中平凱](https://ja.wikipedia.org/wiki/中平凱 "wikilink")、創刊号 - 2008年4月号）
-  - [0からはじめましょう](https://ja.wikipedia.org/wiki/0からはじめましょう "wikilink") （[ととねみぎ](https://ja.wikipedia.org/wiki/ととねみぎ "wikilink")、創刊号 - 2008年12月号）
-  - [魔法のじゅもん](https://ja.wikipedia.org/wiki/魔法のじゅもん "wikilink") （[あらきかなお](https://ja.wikipedia.org/wiki/あらきかなお "wikilink")、創刊号 - 2009年6月号）
-  - [兄妹はじめました\!](https://ja.wikipedia.org/wiki/兄妹はじめました! "wikilink") （[愁☆一樹](https://ja.wikipedia.org/wiki/愁☆一樹 "wikilink")、創刊号 - 2009年9月号）
+  - [えむの王国](../Page/えむの王国.md "wikilink") （[中平凱](https://ja.wikipedia.org/wiki/中平凱 "wikilink")、創刊号 - 2008年4月号）
+  - [0からはじめましょう](../Page/0からはじめましょう.md "wikilink") （[ととねみぎ](../Page/ととねみぎ.md "wikilink")、創刊号 - 2008年12月号）
+  - [魔法のじゅもん](../Page/魔法のじゅもん.md "wikilink") （[あらきかなお](../Page/あらきかなお.md "wikilink")、創刊号 - 2009年6月号）
+  - [兄妹はじめました\!](https://ja.wikipedia.org/wiki/兄妹はじめました! "wikilink") （[愁☆一樹](../Page/愁☆一樹.md "wikilink")、創刊号 - 2009年9月号）
   - [ワンダフルデイズ](../Page/ワンダフルデイズ_\(漫画\).md "wikilink") （[荒井チェリー](../Page/荒井チェリー.md "wikilink")、創刊号 - 2011年5月号、9月号 - 2012年8月号）
   - [烈\!きなこパーティー](https://ja.wikipedia.org/wiki/烈!きなこパーティー "wikilink") （[犬神なお](https://ja.wikipedia.org/wiki/犬神なお "wikilink")、2004年11月号 - 2005年10月号）
   - [ベリースイート](https://ja.wikipedia.org/wiki/ベリースイート "wikilink") （[神武ひろよし](https://ja.wikipedia.org/wiki/神武ひろよし "wikilink")、2004年11月号 - 2006年3月号）
   - [りんたま](https://ja.wikipedia.org/wiki/りんたま "wikilink") （[鶏子](https://ja.wikipedia.org/wiki/鶏子 "wikilink")、2004年11月号 - 2006年8月号）
-  - [LR少女探偵団](https://ja.wikipedia.org/wiki/LR少女探偵団 "wikilink") （[濱元隆輔](https://ja.wikipedia.org/wiki/濱元隆輔 "wikilink")、2004年11月号 - 2006年9月号）
-  - [スズナリ\!](https://ja.wikipedia.org/wiki/スズナリ! "wikilink") （石見翔子、2004年11月号 - 2007年5月号 ）
+  - [LR少女探偵団](https://ja.wikipedia.org/wiki/LR少女探偵団 "wikilink") （[濱元隆輔](../Page/濱元隆輔.md "wikilink")、2004年11月号 - 2006年9月号）
+  - [スズナリ\!](../Page/スズナリ!.md "wikilink") （石見翔子、2004年11月号 - 2007年5月号 ）
   - [ももえん。](https://ja.wikipedia.org/wiki/ももえん。 "wikilink") （[一智啓](https://ja.wikipedia.org/wiki/一智啓 "wikilink")、2004年11月号 - 2007年6月号）
-  - [きらきらきら](https://ja.wikipedia.org/wiki/きらきらきら "wikilink") （[藤島じゅん](https://ja.wikipedia.org/wiki/藤島じゅん "wikilink")、2004年11月号 - 2007年7月号）（2006年6月号から産休のため休載含む）
-  - [にこプリトランス](https://ja.wikipedia.org/wiki/にこプリトランス "wikilink") （[白雪しおん](https://ja.wikipedia.org/wiki/白雪しおん "wikilink")、2004年11月号 - 2009年1月号）
+  - [きらきらきら](https://ja.wikipedia.org/wiki/きらきらきら "wikilink") （[藤島じゅん](../Page/藤島じゅん.md "wikilink")、2004年11月号 - 2007年7月号）（2006年6月号から産休のため休載含む）
+  - [にこプリトランス](../Page/にこプリトランス.md "wikilink") （[白雪しおん](https://ja.wikipedia.org/wiki/白雪しおん "wikilink")、2004年11月号 - 2009年1月号）
   - [○本の住人](../Page/○本の住人.md "wikilink") （[kashmir](https://ja.wikipedia.org/wiki/kashmir "wikilink")、2004年11月号 - 2015年12月号）
   - [ひより日和](https://ja.wikipedia.org/wiki/ひより日和 "wikilink") （[高藤アユミ](https://ja.wikipedia.org/wiki/高藤アユミ "wikilink")、2004年12月号 - 2006年3月号）
   - [看板娘はさしおさえ](../Page/看板娘はさしおさえ.md "wikilink") （[鈴城芹](../Page/鈴城芹.md "wikilink")、2004年12月号 - 2009年5月号）
-  - [落花流水](https://ja.wikipedia.org/wiki/落花流水_\(漫画\) "wikilink") （[真田一輝](https://ja.wikipedia.org/wiki/真田一輝 "wikilink")、2005年1月号 - 2015年4月号）
+  - [落花流水](../Page/落花流水_\(漫画\).md "wikilink") （[真田一輝](https://ja.wikipedia.org/wiki/真田一輝 "wikilink")、2005年1月号 - 2015年4月号）
   - [天然女子高物語](https://ja.wikipedia.org/wiki/天然女子高物語 "wikilink") （[門井亜矢](../Page/門井亜矢.md "wikilink")、『まんがタイムきらら』単発掲載数回を経て2005年6月号 - 2010年5月号）
   - [はなまるべんと\!](https://ja.wikipedia.org/wiki/はなまるべんと! "wikilink") （[大宮祝詞](https://ja.wikipedia.org/wiki/大宮祝詞 "wikilink")、2005年7月号 - 2009年10月号）
   - [無敵せんせい](https://ja.wikipedia.org/wiki/無敵せんせい "wikilink") （[ザンクロー](../Page/ザンクロー.md "wikilink")、2005年8月号 - 2006年11月号）
   - [オオカミの手かします\!](https://ja.wikipedia.org/wiki/オオカミの手かします! "wikilink") （[大和狸](https://ja.wikipedia.org/wiki/大和狸 "wikilink")、2005年9月号 - 2008年4月号）
-  - [ようこそ。若葉荘へ](https://ja.wikipedia.org/wiki/ようこそ。若葉荘へ "wikilink") （[阿倍野ちゃこ](https://ja.wikipedia.org/wiki/阿倍野ちゃこ "wikilink")、2005年9月号 - 2008年7月号）※非4コマ作品
+  - [ようこそ。若葉荘へ](https://ja.wikipedia.org/wiki/ようこそ。若葉荘へ "wikilink") （[阿倍野ちゃこ](../Page/阿倍野ちゃこ.md "wikilink")、2005年9月号 - 2008年7月号）※非4コマ作品
   - [ひろなex.](../Page/ひろなex..md "wikilink") （[すか](https://ja.wikipedia.org/wiki/すか_\(漫画家\) "wikilink")、2005年10月号 - 2014年2月号）
-  - [ちかちかプラネッツ](https://ja.wikipedia.org/wiki/ちかちかプラネッツ "wikilink") （[佐々木亮](https://ja.wikipedia.org/wiki/佐々木亮 "wikilink")、2005年11月号 - 2006年2月号）（これ以前に『まんがタイムきらら』で2002年7月号 - 2004年2月号）
+  - [ちかちかプラネッツ](https://ja.wikipedia.org/wiki/ちかちかプラネッツ "wikilink") （[佐々木亮](../Page/佐々木亮.md "wikilink")、2005年11月号 - 2006年2月号）（これ以前に『まんがタイムきらら』で2002年7月号 - 2004年2月号）
   - [通りすがりのLibreria](https://ja.wikipedia.org/wiki/通りすがりのLibreria "wikilink") （[永和なやり](https://ja.wikipedia.org/wiki/永和なやり "wikilink")、2005年11月号 - 2006年11月号）
   - [イチロー\!](../Page/イチロー!.md "wikilink") （[未影](https://ja.wikipedia.org/wiki/未影 "wikilink")、2006年3月号 - 2010年6月号）
   - [ぐーぱん\!](https://ja.wikipedia.org/wiki/ぐーぱん! "wikilink") （[榛名まお](https://ja.wikipedia.org/wiki/榛名まお "wikilink")、2006年7月号 - 2011年1月号）
@@ -162,7 +162,7 @@
   - [フィギュ☆モ](https://ja.wikipedia.org/wiki/フィギュ☆モ "wikilink") （[中平凱](https://ja.wikipedia.org/wiki/中平凱 "wikilink")、2008年7月号 - 2010年9月号）
   - [ねこにゆ〜り](https://ja.wikipedia.org/wiki/ねこにゆ〜り "wikilink") （[kodomo兎](https://ja.wikipedia.org/wiki/kodomo兎 "wikilink")、2008年1、3、6 - 8月号ゲスト、10月号 - 2010年9月号）
   - [ぽすから](https://ja.wikipedia.org/wiki/ぽすから "wikilink") （[中村哲也](../Page/中村哲也.md "wikilink")、2008年11月号 - 2010年12月号）
-  - [レンタルきゅーと](https://ja.wikipedia.org/wiki/レンタルきゅーと "wikilink") （[白雪しおん](https://ja.wikipedia.org/wiki/白雪しおん "wikilink")、2004年11月号、2005年4、6、10月号、2006年4月号、2007年3、8月号、2008年5月号掲載の後、2009年2月号 - 2010年10月号、偶数号隔月連載）
+  - [レンタルきゅーと](../Page/レンタルきゅーと.md "wikilink") （[白雪しおん](https://ja.wikipedia.org/wiki/白雪しおん "wikilink")、2004年11月号、2005年4、6、10月号、2006年4月号、2007年3、8月号、2008年5月号掲載の後、2009年2月号 - 2010年10月号、偶数号隔月連載）
   - [くすりのマジョラム](https://ja.wikipedia.org/wiki/くすりのマジョラム "wikilink") （[鈴城芹](../Page/鈴城芹.md "wikilink")、2009年7月号 - 2012年10月号）
   - [つかえて\!コハル](https://ja.wikipedia.org/wiki/つかえて!コハル "wikilink") （[ねことうふ](https://ja.wikipedia.org/wiki/ねことうふ "wikilink")、2009年7 - 8月号ゲスト、10月号 - 2011年1月号）
   - [おしおきっ\!](https://ja.wikipedia.org/wiki/おしおきっ! "wikilink") （[かぐらゆうき](https://ja.wikipedia.org/wiki/かぐらゆうき "wikilink")、2009年10月号 - 2010年12月号）
@@ -177,7 +177,7 @@
   - [ホイップノート](https://ja.wikipedia.org/wiki/ホイップノート "wikilink") （[未影](https://ja.wikipedia.org/wiki/未影 "wikilink")、2010年7月号 - 2014年6月号）
   - [ののことのらと](https://ja.wikipedia.org/wiki/ののことのらと "wikilink") （[柚木ガオ](https://ja.wikipedia.org/wiki/柚木ガオ "wikilink")、2010年7月号、9月号ゲスト、11月号 - 2011年10月号）
   - [あわーちゅーぶ](https://ja.wikipedia.org/wiki/あわーちゅーぶ "wikilink") （[よしむらかな](https://ja.wikipedia.org/wiki/よしむらかな "wikilink")、2010年7 - 8月号ゲスト、11月号 - 2012年5月号）
-  - [放課後せんせーしょん\!](https://ja.wikipedia.org/wiki/放課後せんせーしょん! "wikilink") （[庄名泉石](https://ja.wikipedia.org/wiki/庄名泉石 "wikilink")、2010年9月号ゲスト、2011年1月号 - 2013年1月号）
+  - [放課後せんせーしょん\!](https://ja.wikipedia.org/wiki/放課後せんせーしょん! "wikilink") （[庄名泉石](../Page/庄名泉石.md "wikilink")、2010年9月号ゲスト、2011年1月号 - 2013年1月号）
   - [LSD〜ろんぐすろーでぃすたんす〜](https://ja.wikipedia.org/wiki/LSD〜ろんぐすろーでぃすたんす〜 "wikilink") （[ほた。](https://ja.wikipedia.org/wiki/ほた。 "wikilink")、2010年10 - 11月号ゲスト、2011年2月号 - 2014年5月号）
   - [忍パラサイト](https://ja.wikipedia.org/wiki/忍パラサイト "wikilink") （[りおし](https://ja.wikipedia.org/wiki/りおし "wikilink")、2011年1月号 - 2012年1月号）
   - [こずみっしょん\!](https://ja.wikipedia.org/wiki/こずみっしょん! "wikilink") （[榛名まお](https://ja.wikipedia.org/wiki/榛名まお "wikilink")、2011年4月号 - 2014年4月号）
@@ -239,12 +239,12 @@
 
 【月刊誌】
 
-1.  [魔法のじゅもん](https://ja.wikipedia.org/wiki/魔法のじゅもん "wikilink")（あらきかなお）（2004年11月号（独立創刊号）、2005年2月号、5月号）
+1.  [魔法のじゅもん](../Page/魔法のじゅもん.md "wikilink")（あらきかなお）（2004年11月号（独立創刊号）、2005年2月号、5月号）
 2.  [LR少女探偵団](https://ja.wikipedia.org/wiki/LR少女探偵団 "wikilink")（濱元隆輔）（2004年12月号、2005年3月号 - 4月号）
-3.  [えむの王国](https://ja.wikipedia.org/wiki/えむの王国 "wikilink")（中平凱）（2005年1月号）
+3.  [えむの王国](../Page/えむの王国.md "wikilink")（中平凱）（2005年1月号）
 4.  [天然女子高物語](https://ja.wikipedia.org/wiki/天然女子高物語 "wikilink")（門井亜矢）（2005年6月号 - 2006年8月号、2008年5月号、10月号）
 5.  [イチロー\!](../Page/イチロー!.md "wikilink")（未影）（2006年9月号 - 2008年1月号、3月号、6月号、8月号 - 9月号、2009年2月号、4月号）
-6.  [落花流水](https://ja.wikipedia.org/wiki/落花流水_\(漫画\) "wikilink")（真田一輝）（2008年2月号、7月号、12月号、2009年5月号、2010年7月号、12月号、2011年6月号、12月号）
+6.  [落花流水](../Page/落花流水_\(漫画\).md "wikilink")（真田一輝）（2008年2月号、7月号、12月号、2009年5月号、2010年7月号、12月号、2011年6月号、12月号）
 7.  [ひろなex.](../Page/ひろなex..md "wikilink")（すか）（2008年4月号、11月号、2010年6月号、2012年1月号）
 8.  [そして僕らは家族になる](https://ja.wikipedia.org/wiki/そして僕らは家族になる "wikilink")（荒木風羽）（2009年1月号）
 9.  [かなめも](https://ja.wikipedia.org/wiki/かなめも "wikilink")（石見翔子）（2009年3月号、6月号 - 2010年5月号、11月号、2011年3月号 - 4月号、2012年5月号）

@@ -8,12 +8,12 @@
   - DJMAX Online（Windows [2004年](../Page/2004年.md "wikilink")6月サービス開始、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月21日](../Page/3月21日.md "wikilink")韓国版サービス終了）
   - DJMAX Mobile（携帯電話用コンテンツ、配信終了）
       - 2005はFreezmが、2009はNtreevが開発を担当
-  - DJMAX Portable（PSP [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月14日](../Page/1月14日.md "wikilink")発売）
+  - DJMAX Portable（PSP [2006年](../Page/2006年.md "wikilink")[1月14日](../Page/1月14日.md "wikilink")発売）
       - OST（2枚組み）、カレンダーハンドストラップ、ポストカード（10枚）、スペシャルケースがセットになった限定版、Prestige Box Setも発売。
   - DJMAX Portable International（PSP 2006年[10月27日](../Page/10月27日.md "wikilink")発売）
   - DJMAX Portable 2（PSP [2007年](../Page/2007年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")発売）
       - 限定版（Night Black、Metallic Silver）も発売。セット内容は、特製ケース、OST（3枚組み）、アートブック、ジグソーパズル、ポストカード、お面。OSTとアートブックはNight Black、Metallic Silverそれぞれ同一の物が収録されている。
-  - [DJMAX TECHNIKA](https://ja.wikipedia.org/wiki/DJMAX_TECHNIKA "wikilink")（[アーケードゲーム](../Page/アーケードゲーム.md "wikilink") 2008年8月[ロケーションテスト](https://ja.wikipedia.org/wiki/ロケーションテスト "wikilink")開催）
+  - [DJMAX TECHNIKA](https://ja.wikipedia.org/wiki/DJMAX_TECHNIKA "wikilink")（[アーケードゲーム](../Page/アーケードゲーム.md "wikilink") 2008年8月[ロケーションテスト](../Page/ロケーションテスト.md "wikilink")開催）
       - DJMAX METRO Projectの第1弾タイトル。日本でも2011年1月より順次稼働開始。
   - DJMAX Portable：Clazziquai Edition（PSP 2008年[10月24日](../Page/10月24日.md "wikilink")発売）
       - DJMAX METRO Projectの第2弾。メジャーアーティスト・[CLAZZIQUAI PROJECTとのタイアップ](../Page/CLAZZIQUAI_PROJECT.md "wikilink")。
@@ -47,7 +47,7 @@
   - DJMAX Respect（PS4 [2017年](../Page/2017年.md "wikilink")[7月28日](../Page/7月28日.md "wikilink")発売）
       - Portable 1とPortable 2の楽曲に完全新曲を加えたリブート作。
       - 韓国限定版はアートブック、OST(2枚組)、歴代シリーズロゴのバッジ。
-      - 日本版が[アークシステムワークス](https://ja.wikipedia.org/wiki/アークシステムワークス "wikilink")より発売予定。
+      - 日本版が[アークシステムワークス](../Page/アークシステムワークス.md "wikilink")より発売予定。
 
 ## 基本システム
 
@@ -63,9 +63,9 @@
 
 ### 経緯
 
-韓国で[2004年](../Page/2004年.md "wikilink")6月下旬に、オンラインゲーム[ポータルサイト](../Page/ポータルサイト.md "wikilink")[Netmarbleにて](https://ja.wikipedia.org/wiki/ネットマーブル "wikilink")、最初のサービスの提供が開始された。提供期間の内[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月8日](../Page/3月8日.md "wikilink")までは[ベータテストを兼ねており](https://ja.wikipedia.org/wiki/ソフトウェアテスト "wikilink")、全てのサービスが無料で提供されていた。同年[3月9日](../Page/3月9日.md "wikilink")、ベータテスト終了とともに正式サービスへと移行し、内容の一部が有料化した。
+韓国で[2004年](../Page/2004年.md "wikilink")6月下旬に、オンラインゲーム[ポータルサイト](../Page/ポータルサイト.md "wikilink")[Netmarbleにて](https://ja.wikipedia.org/wiki/ネットマーブル "wikilink")、最初のサービスの提供が開始された。提供期間の内[2005年](../Page/2005年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")までは[ベータテストを兼ねており](../Page/ソフトウェアテスト.md "wikilink")、全てのサービスが無料で提供されていた。同年[3月9日](../Page/3月9日.md "wikilink")、ベータテスト終了とともに正式サービスへと移行し、内容の一部が有料化した。
 
-韓国に続き、日本や中国でもサービスが開始されることとなった。日本では2005年[4月26日](../Page/4月26日.md "wikilink")より[ネットマーブルジャパン](../Page/ネットマーブルジャパン.md "wikilink")にてサービスの提供が開始され、同年[8月4日](../Page/8月4日.md "wikilink")より正式サービスへと移行した。中国では[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")7月より[盛大網絡発展有限公司](https://ja.wikipedia.org/wiki/盛大網絡発展有限公司 "wikilink")にてベータテストが開始された。
+韓国に続き、日本や中国でもサービスが開始されることとなった。日本では2005年[4月26日](../Page/4月26日.md "wikilink")より[ネットマーブルジャパン](../Page/ネットマーブルジャパン.md "wikilink")にてサービスの提供が開始され、同年[8月4日](../Page/8月4日.md "wikilink")より正式サービスへと移行した。中国では[2006年](../Page/2006年.md "wikilink")7月より[盛大網絡発展有限公司](https://ja.wikipedia.org/wiki/盛大網絡発展有限公司 "wikilink")にてベータテストが開始された。
 
 [2007年](../Page/2007年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")、日本版公式ウェブサイトでサービス提供の終了が告知された。同年[12月27日](../Page/12月27日.md "wikilink")には公式ウェブショップの機能が停止し、一部のプレミアム曲は一般曲扱いとなった。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")に公式ウェブサイトが閉鎖されたため、この日が事実上のサービス終了日となった。
 
@@ -130,7 +130,7 @@
           -
             シングルバトル、またはチームバトルにおいて、HPの残量の割合を競い合うバトル方式。演奏中にノートと一緒に落ちて来るアイテムをキャッチし、それを自分、または相手に使用する事で、相手とって不利な状態にしたり、自分や相手のHPを回復させたりすることができる。アイテムの使用はキューを操作するキーとは別に、1〜6のキーを使用するため、スコアバトルと比べるとキー操作がやや複雑になる。
   - COURSE PLAY MODE（コースプレーモード）
-    あらかじめ決められた一連の曲（「コース」）を連続でプレーするモード。プレーするにはMAXや、コースによっては「クレジット」とよばれる、現金で購入できる回数券のようなものやディスクが必要になる場合がある。コースをクリアすると、DJバトルモードで獲得できるものと同等の経験値やMAXが手に入る他、コースによってはそれらにボーナスが加算される場合もある。また、ランダムでアイテムが手に入ることがある他、「コースクリアディスク」と呼ばれる特殊なディスクが手に入る。ボーナスが非常に高く設定されているコースをクリアすると、トレーニングモードやバトルモードで同じ数の曲をクリアするよりも大量の経験値やMAXが手に入るため、一度に多くのMAXや経験値を稼ぎたいプレーヤーに人気がある。演奏を途中停止させることができないのはランキングモードと同様であるが、途中でゲームオーバーになっても再度MAXやクレジットを支払えば[コンティニューすることができる点で異なる](https://ja.wikipedia.org/wiki/ゲームオーバー "wikilink")。また、クリア後の次の曲を開始する画面でEscキーを押すか、もしくは画面右下にある「退室ボタン」を押すと途中退室することができる。その場合、もしくはコンティニューをしなかった場合、それまでに獲得した経験値やMAXにクリア時のボーナスは加算されない。現在、1コースあたりの曲数は、最小は3曲から最高は26曲までが存在する。なお、それぞれのコースで上位50人までのハイスコアが記録されるが、1ヶ月経つと消えてしまう。
+    あらかじめ決められた一連の曲（「コース」）を連続でプレーするモード。プレーするにはMAXや、コースによっては「クレジット」とよばれる、現金で購入できる回数券のようなものやディスクが必要になる場合がある。コースをクリアすると、DJバトルモードで獲得できるものと同等の経験値やMAXが手に入る他、コースによってはそれらにボーナスが加算される場合もある。また、ランダムでアイテムが手に入ることがある他、「コースクリアディスク」と呼ばれる特殊なディスクが手に入る。ボーナスが非常に高く設定されているコースをクリアすると、トレーニングモードやバトルモードで同じ数の曲をクリアするよりも大量の経験値やMAXが手に入るため、一度に多くのMAXや経験値を稼ぎたいプレーヤーに人気がある。演奏を途中停止させることができないのはランキングモードと同様であるが、途中でゲームオーバーになっても再度MAXやクレジットを支払えば[コンティニューすることができる点で異なる](../Page/ゲームオーバー.md "wikilink")。また、クリア後の次の曲を開始する画面でEscキーを押すか、もしくは画面右下にある「退室ボタン」を押すと途中退室することができる。その場合、もしくはコンティニューをしなかった場合、それまでに獲得した経験値やMAXにクリア時のボーナスは加算されない。現在、1コースあたりの曲数は、最小は3曲から最高は26曲までが存在する。なお、それぞれのコースで上位50人までのハイスコアが記録されるが、1ヶ月経つと消えてしまう。
   - DJ MISSION（DJミッション）
     DJバトルモードにおいて、ある時点から4曲目以降の演奏時にランダム選曲をした場合に開始されることがある特殊なバトル。4、5曲目の場合は開始されない場合もあるが、6曲目以降にランダム選曲をすると確実にDJミッションが開始される。DJミッション終了後は通常のバトルに戻るが、終了時から4曲目以降にランダム選曲をすると再びDJミッションが開始される。DJミッション中はランダムに、落ちて来るノートが爆弾になる（キューで拾ってしまうとHPが減る）、ノートの落下速度が速く/遅くなる、画面の上半分/下半分が隠れる、画面が点滅するなど、アイテムバトルのアイテムを使用した時と同様の現象が発生する。このため、クリアやハイスコアを狙うことが非常に困難であるが、クリアすると獲得できるMAXにボーナスが加算される他、1位になったプレーヤーおよびチームは、後述する各スタイルに対応した「ミッションクリアディスク」を獲得できる。DJミッションはレベル1からレベル3まで存在し、レベルに応じて獲得できるミッションクリアディスクが変化し、レベルが高いほどMAXボーナスも増加する。
     どのレベルのDJミッションが開始されるかは予め決まっており、DJミッションが開始される度に、1→1→2→1→1→2→1→1→3→…の順番で回ってくる。レベル3ミッションを開始するには、最低でも40曲は演奏する必要があり、そしてクリアも極めて困難であることから、レベル3のミッションクリアディスクはかなり貴重であると言える。
@@ -147,7 +147,7 @@
   - NORMAL STYLE（ノーマルスタイル）
     EASYスタイルよりもある程度難しい、基準となるパターン。EASYスタイルと比べると、やや高HIT率が出し難くなっており、ノートの総数もやや多めになっている。曲によっては、後述するHARDスタイル並に難しいパターンも存在する。省略形は「NM」。
   - HARD STYLE（ハードスタイル）
-    NORMALスタイルよりも難しい経験者向けパターン。NORMALスタイルと比べて高HIT率が出し難くなっている上、ノートの総数も1000を超えるものも多数。この難易度までは、[キーボードの物理的仕様に配慮して同時押しが](https://ja.wikipedia.org/wiki/キーボード_\(コンピュータ\) "wikilink")3つまでに抑えられている。なお、曲によっては（特に7KEY）HARDスタイルが用意されていないものも存在する。省略形は「HD」。
+    NORMALスタイルよりも難しい経験者向けパターン。NORMALスタイルと比べて高HIT率が出し難くなっている上、ノートの総数も1000を超えるものも多数。この難易度までは、[キーボードの物理的仕様に配慮して同時押しが](../Page/キーボード_\(コンピュータ\).md "wikilink")3つまでに抑えられている。なお、曲によっては（特に7KEY）HARDスタイルが用意されていないものも存在する。省略形は「HD」。
   - MX STYLE（エムエックススタイル）
     EASY、NORMAL、HARD、そして後述する「SC」の各スタイルとはやや異なるパターン。同時に落ちて来るノートの最大数が5列（7列）になり、キューが全て排除されている。このスタイルではキューを操作するのではなく、判定ラインの近くまで落ちて来たノートをタイミングよく「叩く」ことでHITすることができる。ただし、ノートを叩く際にノートが落ちて来ていない列を同時に叩いた場合、「FAULT」というペナルティも同時に発生する。FAULTが発生するとBREAK同様、HPが減少してしまうが、BREAKとは異なりコンボが途切れることはない。基本的にはHARDスタイルの上位の難易度に該当するが、曲によっては同曲のHARDスタイルよりも簡単なパターンになっているものも存在する。その他、予めノートの落ちて来る速度に補正がかかっているものや、HPゲージが回復しないもの、著しく高HIT率が出し辛い/出し易いものなど、同スタイル内でもさまざまなパターンが混在しているのが特徴的である。MXスタイルをプレーする際、プレミアム曲以外ではMAXを150消費する（後述の「クレジット」「プレミアム利用券」参照）。このスタイルは、曲が収録されてからしばらく後に、おまけ的に追加される場合が多い。なお、MXは「MaXimum（マキシマム）」の省略形である。
   - SC STYLE（エスシースタイル）
@@ -282,7 +282,7 @@
 
 ### アイテム
 
-「[アイテム](https://ja.wikipedia.org/wiki/アイテム "wikilink")」を装備すると、プレーヤーのHPが増加する、一度に獲得できる経験値やMAXが増加する、プレー画面やノートの見た目などが変化するなどの効果が表れる。アイテムによっては、一回使用したらなくなる物、使用可能な日数に限りがある物も存在する。ここでは、装備可能なアイテムの種類について解説する。
+「[アイテム](../Page/アイテム.md "wikilink")」を装備すると、プレーヤーのHPが増加する、一度に獲得できる経験値やMAXが増加する、プレー画面やノートの見た目などが変化するなどの効果が表れる。アイテムによっては、一回使用したらなくなる物、使用可能な日数に限りがある物も存在する。ここでは、装備可能なアイテムの種類について解説する。
 
   - アバター
     プレーヤーの顔部分の表示を変更するアイテム。アバターによってはHPや経験値・MAXの獲得量の増加などの効果も同時に持つ物が存在する。通常、ゲーム内ショップや後述する課金サービス、コースプレーの賞品として入手することが可能。
@@ -338,7 +338,7 @@
 
 ## DJMAX Trilogy
 
-サービスを終了したDJMAX Onlineを再編し、『DJMAX Portable：Black Square』のシステムを組み込んだWindows PC向けの音楽ゲーム。同梱されているUSB[ドングル](https://ja.wikipedia.org/wiki/ドングル "wikilink")が起動に必要。
+サービスを終了したDJMAX Onlineを再編し、『DJMAX Portable：Black Square』のシステムを組み込んだWindows PC向けの音楽ゲーム。同梱されているUSB[ドングル](../Page/ドングル.md "wikilink")が起動に必要。
 
 『DJMAX Online』『Portable1』『Portable2』の多くの曲、そしていくつかの新曲が収録されているが、アップデートで『Black Square』の曲が追加されている。
 
@@ -348,7 +348,7 @@
 
 『**DJMAX Respect**』は、[2017年](../Page/2017年.md "wikilink")発売の[PlayStation 4用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")。
 
-日本では[アークシステムワークス](https://ja.wikipedia.org/wiki/アークシステムワークス "wikilink")より2017年[11月9日](../Page/11月9日.md "wikilink")に発売\[3\]。
+日本では[アークシステムワークス](../Page/アークシステムワークス.md "wikilink")より2017年[11月9日](../Page/11月9日.md "wikilink")に発売\[3\]。
 
 一部、版権曲を除き、『Portable』『Portable2』等の過去作の曲に新曲を加えた約150曲を収録。更にダウンロードコンテンツにて『Clazziquai Edition』『Black Square』『TECHNIKA』シリーズ、『Trilogy』、更には各種コラボレーション曲等も配信されており、全て解禁すればシリーズ曲の大多数がプレイ可能になる。但し、『Portable3』の曲は現時点では未収録。
 
@@ -375,7 +375,7 @@
 #### 韓国
 
   - 3rd Coast（<span lang="ko">써드코스트</span> / サードコースト）
-      - 韓国人ミュージシャン3人で構成されたグループ。[R\&B](../Page/リズム・アンド・ブルース.md "wikilink")・[Soul](https://ja.wikipedia.org/wiki/ソウルミュージック "wikilink")・[Hiphopを中心とした楽曲を得意とする](../Page/ヒップホップ.md "wikilink")。2008年[3月18日](../Page/3月18日.md "wikilink")、韓国で1stアルバム（1集）『First Collection』が発売された。
+      - 韓国人ミュージシャン3人で構成されたグループ。[R\&B](../Page/リズム・アンド・ブルース.md "wikilink")・[Soul](../Page/ソウルミュージック.md "wikilink")・[Hiphopを中心とした楽曲を得意とする](../Page/ヒップホップ.md "wikilink")。2008年[3月18日](../Page/3月18日.md "wikilink")、韓国で1stアルバム（1集）『First Collection』が発売された。
           - ハン・ソヒョン（<span lang="ko">한소현</span> / Han, So-hyun / So Fly）
               - ボーカル。作詞・作曲も担当。グループの紅一点。
           - チェ・ジホ（<span lang="ko">최지호</span> / Choi, Ji-ho / JC）
@@ -395,7 +395,7 @@
   - Mr.Funky(Flash Finger)
       - 作曲、リミックスを担当。エレクトロニックバンド(Newton <span lang="ko">뉴튼</span>/ニュートン)のメンバー。
   - Sanch
-      - ボーカル担当。彼女の歌った『Memory of Beach』は日本版DJMAX Onlineの人気第1位常連曲となった。韓国版『[スカッとゴルフ パンヤ](https://ja.wikipedia.org/wiki/スカッとゴルフ_パンヤ "wikilink")』の新テーマソング『Zero Fill Love』を歌い、ファンの注目を集めた。日本語も歌うことができ、『Mellow D Fantasy』は日本語版も用意された他、『Cosmic Fantastic Lovesong』（原語版はChohee）の日本語版も歌っている。
+      - ボーカル担当。彼女の歌った『Memory of Beach』は日本版DJMAX Onlineの人気第1位常連曲となった。韓国版『[スカッとゴルフ パンヤ](../Page/スカッとゴルフ_パンヤ.md "wikilink")』の新テーマソング『Zero Fill Love』を歌い、ファンの注目を集めた。日本語も歌うことができ、『Mellow D Fantasy』は日本語版も用意された他、『Cosmic Fantastic Lovesong』（原語版はChohee）の日本語版も歌っている。
   - SUGAR DONUT（<span lang="ko">슈가도넛</span> / シュガードーナッツ）
       - 韓国人ミュージシャン4人で構成されたパンクバンド。
   - イ・チャンヒョン（<span lang="ko">이창현</span> / Lee, Chang-hyun / DJ Yonda / Andy Lee / ND Lee）
@@ -414,8 +414,8 @@
       - TECHNIKA TUNEプロデューサー。作詞・作曲・編曲・ボーカル、およびギターを担当。韓国のバンド「WINTERGREEN（<span lang="ko">윈터그린</span> / ウィンターグリーン）」のメンバー。
   - ハン・ウォンタク（ / Han, Won-Tak / Lubinn / TAK)
       - 作曲を担当。BMS作家。
-  - パク・ジンベ（朴振培 / <span lang="ko">박진배</span> / Park, Jin-bae / [ESTi](https://ja.wikipedia.org/wiki/ESTi "wikilink")）
-      - 作詞・作曲を担当。詳細は[ESTi](https://ja.wikipedia.org/wiki/ESTi "wikilink")の頁を参照。
+  - パク・ジンベ（朴振培 / <span lang="ko">박진배</span> / Park, Jin-bae / [ESTi](../Page/ESTi.md "wikilink")）
+      - 作詞・作曲を担当。詳細は[ESTi](../Page/ESTi.md "wikilink")の頁を参照。
   - ファン・ソンジェ（<span lang="ko">황성제</span> / Hwang, Seong-Je / BJJ）
       - 作曲を担当。[BoA](../Page/BoA.md "wikilink")や[少女時代の作曲を手がける](https://ja.wikipedia.org/wiki/少女時代_\(音楽グループ\) "wikilink")。EZ2DJ時代にもライセンスながら曲を提供している。
   - ペク・スンチョル（<span lang="ko">백승철</span> / Baek, Seung-chul / Gonzo / BEXTER）
@@ -440,7 +440,7 @@
   - Oriental ST8
       - 作曲・編曲を担当。
   - Ruby Tuesday
-      - 日本人ミュージシャン2人で構成されたグループ。EZ2DJ時代から参加しており、EZ2DJでは[カルロス・トシキ](https://ja.wikipedia.org/wiki/カルロス・トシキ "wikilink")ともコラボしている。DJMAX Portable 2のオープニング曲『Your Own Miracle』を手がけた。
+      - 日本人ミュージシャン2人で構成されたグループ。EZ2DJ時代から参加しており、EZ2DJでは[カルロス・トシキ](../Page/カルロス・トシキ.md "wikilink")ともコラボしている。DJMAX Portable 2のオープニング曲『Your Own Miracle』を手がけた。
           - [和泉常寛](../Page/和泉常寛.md "wikilink")（いずみつねひろ / Tsunehiro Izumi）
               - 詳細は[和泉常寛](../Page/和泉常寛.md "wikilink")の頁を参照。
           - 宮部ひかり（みやべひかり / Hikari Miyabe）
@@ -448,14 +448,14 @@
       - BMS作家。作曲・編曲を担当。
   - [TSUKASA](https://ja.wikipedia.org/wiki/TSUKASA_\(作曲家\) "wikilink")（矢鴇つかさ）
       - 作曲・編曲を担当。
-  - [細江慎治](https://ja.wikipedia.org/wiki/細江慎治 "wikilink")（Hosoe Shinji / Sampling Masters MEGA）
+  - [細江慎治](../Page/細江慎治.md "wikilink")（Hosoe Shinji / Sampling Masters MEGA）
       - 作曲・編曲を担当。
 
 #### 北米
 
   - Myagi(Andrew Mavor)
       - 作曲・編曲を担当。BBCやCBCで活躍する作曲家。
-  - [ローラン・ジェルメッティ](https://ja.wikipedia.org/wiki/ローラン・ジェルメッティ "wikilink")( Laurent Gelmetti / Laurent Newfield)
+  - [ローラン・ジェルメッティ](../Page/ローラン・ジェルメッティ.md "wikilink")( Laurent Gelmetti / Laurent Newfield)
       - 作曲・編曲を担当。DELTAレーベルの設立者。
   - アレッサンドロ・ジラルディ ( Alessandro Gilardi / Ravenant)
       - 作曲・編曲を担当。Laurent Newfieldと一緒にクレジットされている。

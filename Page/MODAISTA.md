@@ -1,9 +1,9 @@
 > この記事は[MODAISTA](https://ja.wikipedia.org/wiki/MODAISTA)から翻訳されています。
 
 
-**MODAISTA**（**モダイスタ**）は、[J-WAVE](../Page/J-WAVE.md "wikilink")で放送されているラジオ番組。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")に放送開始。ナビゲーターは[アンドレア・ポンピリオ](https://ja.wikipedia.org/wiki/アンドレア・ポンピリオ "wikilink")。ポンピリオやスタッフが注目する、世界中の話題の人物や最新トレンドについて紹介、取材やインタビューを通じて得た感覚をそのまま伝える。時には海外から生放送も(下記WORLD WALK EDITIONの項を参照)。
+**MODAISTA**（**モダイスタ**）は、[J-WAVE](../Page/J-WAVE.md "wikilink")で放送されているラジオ番組。[2005年](../Page/2005年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")に放送開始。ナビゲーターは[アンドレア・ポンピリオ](https://ja.wikipedia.org/wiki/アンドレア・ポンピリオ "wikilink")。ポンピリオやスタッフが注目する、世界中の話題の人物や最新トレンドについて紹介、取材やインタビューを通じて得た感覚をそのまま伝える。時には海外から生放送も(下記WORLD WALK EDITIONの項を参照)。
 
-前身の「[MONDO\! WELT\! WORLD\!](https://ja.wikipedia.org/wiki/MONDO!_WELT!_WORLD! "wikilink")」（2000年4月 - 2005年3月、11:30 - 15:00。ナビゲーター[南美布](https://ja.wikipedia.org/wiki/南美布 "wikilink")）を一部引き継ぐ形で放送。放送時間は12:00 - 15:00。2007年9月までは11時開始の4時間番組だったが、[福ノ上達也](../Page/福ノ上達也.md "wikilink")担当のコーナーを廃止した（広告枠を『[RADIO DONUTS](../Page/RADIO_DONUTS.md "wikilink")』に移譲する形）。
+前身の「[MONDO\! WELT\! WORLD\!](https://ja.wikipedia.org/wiki/MONDO!_WELT!_WORLD! "wikilink")」（2000年4月 - 2005年3月、11:30 - 15:00。ナビゲーター[南美布](../Page/南美布.md "wikilink")）を一部引き継ぐ形で放送。放送時間は12:00 - 15:00。2007年9月までは11時開始の4時間番組だったが、[福ノ上達也](../Page/福ノ上達也.md "wikilink")担当のコーナーを廃止した（広告枠を『[RADIO DONUTS](../Page/RADIO_DONUTS.md "wikilink")』に移譲する形）。
 
 ## 主な内容
 
@@ -18,7 +18,7 @@
 
 2006年10月から2006年12月まではBEYES MEET THE WORLDとして[BEYES](https://ja.wikipedia.org/wiki/BEYES "wikilink")が提供。 このときにホームページがリニューアル。
 
-2007年6月は[Mercedes-Benz C class](https://ja.wikipedia.org/wiki/メルセデス・ベンツ・Cクラス "wikilink") MEET THE WORLDとして[ダイムラー・クライスラー](https://ja.wikipedia.org/wiki/ダイムラー・クライスラー "wikilink")日本が提供。
+2007年6月は[Mercedes-Benz C class](../Page/メルセデス・ベンツ・Cクラス.md "wikilink") MEET THE WORLDとして[ダイムラー・クライスラー](https://ja.wikipedia.org/wiki/ダイムラー・クライスラー "wikilink")日本が提供。
 
 現在は[JALの提供で](https://ja.wikipedia.org/wiki/日本航空インターナショナル "wikilink")、提供クレジットも飛行関連の音でコーナーの特性と提供の種類とが合っている。
 
@@ -61,7 +61,7 @@
   - 14:00 - 14:40
   - 三つの“T”（今に息づく伝統tradition、卓越した技術technique、そして今をリードするtrend）をキーワードに、時代に求められるコンテンポラリーな感性を探る番組。
   - 2009年3月までのタイムテーブル上はSUNTORYの提供表示となっているが、実際のオンエアでは提クレ読みは“IYEMON CHA”であった。同年4月より番組タイトルが“SUNTORY T-STYLE CAFE”から“IYEMON T-STYLE CAFE”に変更された。2010年4月より提供なし。
-  - 上記の理由から、年に数回、[伊右衛門](https://ja.wikipedia.org/wiki/伊右衛門 "wikilink")に関係する情報（京都でのお茶会、IYEMON SALON KYOTO、海外進出など）が取上げられ、深掘りされることがある。
+  - 上記の理由から、年に数回、[伊右衛門](../Page/伊右衛門.md "wikilink")に関係する情報（京都でのお茶会、IYEMON SALON KYOTO、海外進出など）が取上げられ、深掘りされることがある。
   - 提供スポンサーであるサントリーへの配慮からか、伊右衛門ではない製品を取上げたこともある（サントリーが発売している高級烏龍茶「大紅袍」、缶コーヒー「BOSS」の話題など）。
   - 前番組のTOSHIBA FUTURE LOUNGEのFUTURE TOPICSを40分に拡大したような番組構成。
   - 2009年5月2日に放送された『A taste of mid Spring KYOTO』の放送が、2週遅れの5月16日に独立局の[α-STATIONでオンエアされた](../Page/エフエム京都.md "wikilink")。なおその際には、導入の部分やCMが一部差替えられている。
@@ -72,10 +72,10 @@
 
 1.  [シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink") - 2005年[5月21日](../Page/5月21日.md "wikilink")放送
 2.  [バルセロナ](../Page/バルセロナ.md "wikilink") - 2005年[6月18日](../Page/6月18日.md "wikilink")放送
-3.  [スイス](../Page/スイス.md "wikilink") - 2005年[7月9日](../Page/7月9日.md "wikilink")放送（[モントルー・ジャズフェスティバル](https://ja.wikipedia.org/wiki/モントルー・ジャズフェスティバル "wikilink")にあわせて、放送は[ローザンヌ](https://ja.wikipedia.org/wiki/ローザンヌ "wikilink")から）
+3.  [スイス](../Page/スイス.md "wikilink") - 2005年[7月9日](../Page/7月9日.md "wikilink")放送（[モントルー・ジャズフェスティバル](https://ja.wikipedia.org/wiki/モントルー・ジャズフェスティバル "wikilink")にあわせて、放送は[ローザンヌ](../Page/ローザンヌ.md "wikilink")から）
 4.  [ラスベガス](../Page/ラスベガス.md "wikilink") - 2005年[10月1日](../Page/10月1日.md "wikilink")放送
-5.  [シドニー](https://ja.wikipedia.org/wiki/シドニー "wikilink") - 2006年[1月14日](../Page/1月14日.md "wikilink")放送（日豪交流年にちなみ）
-6.  [ミラノ](../Page/ミラノ.md "wikilink") - 2006年[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")放送（1年越しの[ミラノ・サローネ](https://ja.wikipedia.org/wiki/ミラノ・サローネ "wikilink")取材）
+5.  [シドニー](../Page/シドニー.md "wikilink") - 2006年[1月14日](../Page/1月14日.md "wikilink")放送（日豪交流年にちなみ）
+6.  [ミラノ](../Page/ミラノ.md "wikilink") - 2006年[4月8日](../Page/4月8日.md "wikilink")放送（1年越しの[ミラノ・サローネ](https://ja.wikipedia.org/wiki/ミラノ・サローネ "wikilink")取材）
 7.  [バンコク](../Page/バンコク.md "wikilink") - 2006年[5月20日](../Page/5月20日.md "wikilink")放送
 8.  [トスカーナ](../Page/トスカーナ州.md "wikilink") - 2006年[7月15日](../Page/7月15日.md "wikilink")放送（放送は[フィレンツェ](../Page/フィレンツェ.md "wikilink")から）
 9.  ミラノ - 2007年4月21日放送（ミラノ・サローネ第2弾）
@@ -94,7 +94,7 @@
 ### dunhill motorities THE COOL COLLECTIVE
 
   - (2006年4月-2006年9月)12:00 - 12:40
-  - この番組のみナビゲーターが[福ノ上達也](../Page/福ノ上達也.md "wikilink")に変わる。エンターテインメントや人物をCOOLをキーワードに伝える。[ダンヒル](https://ja.wikipedia.org/wiki/ダンヒル "wikilink")提供。
+  - この番組のみナビゲーターが[福ノ上達也](../Page/福ノ上達也.md "wikilink")に変わる。エンターテインメントや人物をCOOLをキーワードに伝える。[ダンヒル](../Page/ダンヒル.md "wikilink")提供。
 
 <!-- end list -->
 
@@ -165,14 +165,14 @@ au GLOBAL GROOVESのときと同じ。
 
 <!-- end list -->
 
-  - 世界中の気になるイベントのリポートや、話題の（あるいはこれから話題になるであろう）人物にインタビューを行う。主なインタビューに[アンダーワールド](https://ja.wikipedia.org/wiki/アンダーワールド "wikilink")、[田中宥久子](../Page/田中宥久子.md "wikilink")、[ヴィム・ヴェンダース](https://ja.wikipedia.org/wiki/ヴィム・ヴェンダース "wikilink")など。
+  - 世界中の気になるイベントのリポートや、話題の（あるいはこれから話題になるであろう）人物にインタビューを行う。主なインタビューに[アンダーワールド](../Page/アンダーワールド.md "wikilink")、[田中宥久子](../Page/田中宥久子.md "wikilink")、[ヴィム・ヴェンダース](../Page/ヴィム・ヴェンダース.md "wikilink")など。
 
 ### T-STYLE CAFE
 
   - 14:00 - 14:40
   - 三つの“T”（今に息づく伝統tradition、卓越した技術technique、そして今をリードするtrend）をキーワードに、時代に求められるコンテンポラリーな感性を探る番組。
   - 2009年3月までのタイムテーブル上はSUNTORYの提供表示となっているが、実際のオンエアでは提クレ読みは“IYEMON CHA”であった。同年4月より番組タイトルが“SUNTORY T-STYLE CAFE”から“IYEMON T-STYLE CAFE”に変更された。2010年4月より提供なし。
-  - 上記の理由から、年に数回、[伊右衛門](https://ja.wikipedia.org/wiki/伊右衛門 "wikilink")に関係する情報（京都でのお茶会、IYEMON SALON KYOTO、海外進出など）が取上げられ、深掘りされることがある。
+  - 上記の理由から、年に数回、[伊右衛門](../Page/伊右衛門.md "wikilink")に関係する情報（京都でのお茶会、IYEMON SALON KYOTO、海外進出など）が取上げられ、深掘りされることがある。
   - 提供スポンサーであるサントリーへの配慮からか、伊右衛門ではない製品を取上げたこともある（サントリーが発売している高級烏龍茶「大紅袍」、缶コーヒー「BOSS」の話題など）。
   - 前番組のTOSHIBA FUTURE LOUNGEのFUTURE TOPICSを40分に拡大したような番組構成。
   - 2009年5月2日に放送された『A taste of mid Spring KYOTO』の放送が、2週遅れの5月16日に独立局の[α-STATIONでオンエアされた](../Page/エフエム京都.md "wikilink")。なおその際には、導入の部分やCMが一部差替えられている。

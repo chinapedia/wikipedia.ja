@@ -1,11 +1,11 @@
 > この記事は[Really\? Really!](https://ja.wikipedia.org/wiki/Really\?_Really!)から翻訳されています。
 
 
-『**Really? Really\!**』（リアリー? リアリー\!）は、[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランド[Navel](https://ja.wikipedia.org/wiki/Navel "wikilink")より2006年11月24日に発売された[18禁](https://ja.wikipedia.org/wiki/18禁 "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")である。略称は「**リアリア**」。タイトルロゴには、矢印以外に開かれた本が描かれている。
+『**Really? Really\!**』（リアリー? リアリー\!）は、[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランド[Navel](../Page/Navel.md "wikilink")より2006年11月24日に発売された[18禁](https://ja.wikipedia.org/wiki/18禁 "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")である。略称は「**リアリア**」。タイトルロゴには、矢印以外に開かれた本が描かれている。
 
 ## 概要
 
-Navel処女作である『[SHUFFLE\!](https://ja.wikipedia.org/wiki/SHUFFLE! "wikilink")』のヒロインの一人・**芙蓉楓**とのエンディング後の物語。『SHUFFLE\!』の[アフターストーリー](https://ja.wikipedia.org/wiki/アフターストーリー "wikilink")第2弾。今作は[西又葵](../Page/西又葵.md "wikilink")も参加したため（主題歌の作詞も担当）、新キャラクターの**八重桜**以外は、『[Tick\! Tack\!](../Page/Tick!_Tack!.md "wikilink")』を含むシリーズのキャラクターがほぼ総登場する集大成的な内容となっている。基本は、『SHUFFLE\!』のコンセプトを受け継ぎ、楓の精神世界を中心に物語が展開するが、他作品の[パロディ](https://ja.wikipedia.org/wiki/パロディ "wikilink")や[オマージュ](../Page/オマージュ.md "wikilink")が随所に盛り込まれた内容になっている。
+Navel処女作である『[SHUFFLE\!](../Page/SHUFFLE!.md "wikilink")』のヒロインの一人・**芙蓉楓**とのエンディング後の物語。『SHUFFLE\!』の[アフターストーリー](https://ja.wikipedia.org/wiki/アフターストーリー "wikilink")第2弾。今作は[西又葵](../Page/西又葵.md "wikilink")も参加したため（主題歌の作詞も担当）、新キャラクターの**八重桜**以外は、『[Tick\! Tack\!](../Page/Tick!_Tack!.md "wikilink")』を含むシリーズのキャラクターがほぼ総登場する集大成的な内容となっている。基本は、『SHUFFLE\!』のコンセプトを受け継ぎ、楓の精神世界を中心に物語が展開するが、他作品の[パロディ](../Page/パロディ.md "wikilink")や[オマージュ](../Page/オマージュ.md "wikilink")が随所に盛り込まれた内容になっている。
 
 2006年11月24日にLimited Edition、[2007年](../Page/2007年.md "wikilink")4月27日にStandard Editionが発売された。
 
@@ -28,7 +28,7 @@ Navel処女作である『[SHUFFLE\!](https://ja.wikipedia.org/wiki/SHUFFLE! "wi
       - [西又葵](../Page/西又葵.md "wikilink")（楓、桜、プリムラ、麻弓、紅葉他）
       - [鈴平ひろ](https://ja.wikipedia.org/wiki/鈴平ひろ "wikilink")（亜沙、撫子、カレハ、亜麻、ツボミ、稟等の男性キャラ全般他）
   - 音楽：[アッチョリケ](https://ja.wikipedia.org/wiki/アッチョリケ "wikilink")
-  - ムービー：[Iris motion graphics](https://ja.wikipedia.org/wiki/Iris_motion_graphics "wikilink")
+  - ムービー：[Iris motion graphics](../Page/Iris_motion_graphics.md "wikilink")
 
 ### 主題歌
 
@@ -53,7 +53,7 @@ Navel処女作である『[SHUFFLE\!](https://ja.wikipedia.org/wiki/SHUFFLE! "wi
 
 ### CD
 
-すべて[ランティス](https://ja.wikipedia.org/wiki/ランティス "wikilink")より発売。
+すべて[ランティス](../Page/ランティス.md "wikilink")より発売。
 
 #### ボーカルCD
 
@@ -97,8 +97,8 @@ Navel処女作である『[SHUFFLE\!](https://ja.wikipedia.org/wiki/SHUFFLE! "wi
 
 ### その他書籍
 
-  - [電撃姫増刊](../Page/DENGEKI_HIME.md "wikilink")『まるごと[Navel](https://ja.wikipedia.org/wiki/Navel "wikilink")スペシャル』
-      - 2006年8月10日に[メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")より発売。表紙は、芙蓉楓・八重桜。
+  - [電撃姫増刊](../Page/DENGEKI_HIME.md "wikilink")『まるごと[Navel](../Page/Navel.md "wikilink")スペシャル』
+      - 2006年8月10日に[メディアワークス](../Page/メディアワークス.md "wikilink")より発売。表紙は、芙蓉楓・八重桜。
   - コンプセレクションズ Vol.1
       - 2006年11月24日に角川書店より発売。表紙は、芙蓉楓・時雨亜沙・プリムラ。
   - 電撃姫増刊『まるごとNavelスペシャル vol.2』
@@ -119,8 +119,8 @@ Navel処女作である『[SHUFFLE\!](https://ja.wikipedia.org/wiki/SHUFFLE! "wi
 
 ## 関連項目
 
-  - [Navel](https://ja.wikipedia.org/wiki/Navel "wikilink") - 開発元。
-  - [SHUFFLE\!](https://ja.wikipedia.org/wiki/SHUFFLE! "wikilink") - 本編。
+  - [Navel](../Page/Navel.md "wikilink") - 開発元。
+  - [SHUFFLE\!](../Page/SHUFFLE!.md "wikilink") - 本編。
   - [Tick\! Tack\!](../Page/Tick!_Tack!.md "wikilink") - ネリネEND後のアフターストーリー。
 
 ## 外部リンク

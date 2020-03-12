@@ -1,9 +1,9 @@
 > この記事は[S\&P ](https://ja.wikipedia.org/wiki/S\&P_)から翻訳されています。
 
 
-**S\&P グローバル・レーティング**（）は、[S\&P グローバル](https://ja.wikipedia.org/wiki/S&P_グローバル "wikilink")（）の一部門であり、[金融商品](https://ja.wikipedia.org/wiki/金融商品 "wikilink")または[企業](../Page/企業.md "wikilink")・[政府](../Page/政府.md "wikilink")などにつき、その信用状態に関する意見及び投資情報を提供する、世界最大手の[格付け機関](../Page/格付け機関.md "wikilink")である。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[ニューヨーク市](https://ja.wikipedia.org/wiki/ニューヨーク市 "wikilink")に本部を置き、世界26ヵ国にオフィスを展開している\[1\]。[企業](../Page/企業.md "wikilink")や銀行等の金融機関（[株式](../Page/株式.md "wikilink")と[債券](../Page/債券.md "wikilink")の発行体）の[信用力](https://ja.wikipedia.org/wiki/信用力 "wikilink")の調査研究を行い、2013年には世界総生産の約5％相当の3.5兆ドル（約357兆円）の債務に[信用格付け](https://ja.wikipedia.org/wiki/信用格付け "wikilink")を付与している。
+**S\&P グローバル・レーティング**（）は、[S\&P グローバル](https://ja.wikipedia.org/wiki/S&P_グローバル "wikilink")（）の一部門であり、[金融商品](../Page/金融商品.md "wikilink")または[企業](../Page/企業.md "wikilink")・[政府](../Page/政府.md "wikilink")などにつき、その信用状態に関する意見及び投資情報を提供する、世界最大手の[格付け機関](../Page/格付け機関.md "wikilink")である。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[ニューヨーク市](https://ja.wikipedia.org/wiki/ニューヨーク市 "wikilink")に本部を置き、世界26ヵ国にオフィスを展開している\[1\]。[企業](../Page/企業.md "wikilink")や銀行等の金融機関（[株式](../Page/株式.md "wikilink")と[債券](../Page/債券.md "wikilink")の発行体）の[信用力](https://ja.wikipedia.org/wiki/信用力 "wikilink")の調査研究を行い、2013年には世界総生産の約5％相当の3.5兆ドル（約357兆円）の債務に[信用格付け](../Page/信用格付け.md "wikilink")を付与している。
 
-[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の発行体については、[1975年](../Page/1975年.md "wikilink")に初めて格付けを付与した。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に[東京](../Page/東京.md "wikilink")オフィスを開設。なお、日本ではスタンダード&プアーズの名称を冠する2つの法人、「**S\&P グローバル・レーティング・ジャパン株式会社** （旧・スタンダード&プアーズ・レーティング・ジャパン株式会社）」\[2\]と「**S\&P グローバル SF ジャパン株式会社**（日本スタンダード&プアーズ株式会社）\[3\]」が存在しているが、前者はアメリカ合衆国の登録格付け機関であるS\&P グローバル・レーティングの日本法人を意味し、後者は日本の登録格付け機関を意味している\[4\]。いずれもオフィスは東京（[丸の内北口ビル](https://ja.wikipedia.org/wiki/丸の内オアゾ "wikilink")）にある。
+[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の発行体については、[1975年](../Page/1975年.md "wikilink")に初めて格付けを付与した。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に[東京](../Page/東京.md "wikilink")オフィスを開設。なお、日本ではスタンダード&プアーズの名称を冠する2つの法人、「**S\&P グローバル・レーティング・ジャパン株式会社** （旧・スタンダード&プアーズ・レーティング・ジャパン株式会社）」\[2\]と「**S\&P グローバル SF ジャパン株式会社**（日本スタンダード&プアーズ株式会社）\[3\]」が存在しているが、前者はアメリカ合衆国の登録格付け機関であるS\&P グローバル・レーティングの日本法人を意味し、後者は日本の登録格付け機関を意味している\[4\]。いずれもオフィスは東京（[丸の内北口ビル](../Page/丸の内オアゾ.md "wikilink")）にある。
 
 ## 格付け
 
@@ -11,7 +11,7 @@
 
 [サブプライムローン](../Page/サブプライムローン.md "wikilink")関連[債権](../Page/債権.md "wikilink")などには、最上級であるAAA（トリプルＡ）など、高い格付けが行われていた債権が多数存在していた。これらの債権は、[世界金融危機に際し](https://ja.wikipedia.org/wiki/世界金融危機_\(2007年-\) "wikilink")、わずか数日にて最上級からジャンク格にまでの格下げが実施された。
 
-これにより市場は大混乱に陥り、一連の金融危機に際し格付機関の責任も問われる事態となり、格付けの対象である債券発行側から手数料収入を得ているビジネスモデル・不透明性・[説明責任](https://ja.wikipedia.org/wiki/説明責任 "wikilink")などが問題視され、金融危機を引き起こした一角として、[アメリカ合衆国上院](../Page/アメリカ合衆国上院.md "wikilink")・[下院の](../Page/アメリカ合衆国下院.md "wikilink")[両院で公聴会が開かれ](https://ja.wikipedia.org/wiki/アメリカ合衆国議会 "wikilink")、格付け機関の責任が問われる事態となった。その後は、透明性、監督、説明責任の強化にかかる複数の条項が盛り込まれ、格付け機関規制が実施されている\[5\]。
+これにより市場は大混乱に陥り、一連の金融危機に際し格付機関の責任も問われる事態となり、格付けの対象である債券発行側から手数料収入を得ているビジネスモデル・不透明性・[説明責任](../Page/説明責任.md "wikilink")などが問題視され、金融危機を引き起こした一角として、[アメリカ合衆国上院](../Page/アメリカ合衆国上院.md "wikilink")・[下院の](../Page/アメリカ合衆国下院.md "wikilink")[両院で公聴会が開かれ](https://ja.wikipedia.org/wiki/アメリカ合衆国議会 "wikilink")、格付け機関の責任が問われる事態となった。その後は、透明性、監督、説明責任の強化にかかる複数の条項が盛り込まれ、格付け機関規制が実施されている\[5\]。
 
 以下の格付け定義は、[S\&P社のサイト](http://www.standardandpoors.co.jp/site/creditratings.do?method=ratingCriteria&r=6&l=JP&ln=23284&fl1=Credit_Ratings)（[発行体格付け](http://www.standardandpoors.co.jp/site/contentdetail.do?method=article&r=6&l=JP&oid=092f51ae8000a1d0)、[個別債務格付け](http://www.standardandpoors.co.jp/site/contentdetail.do?method=article&r=6&l=JP&oid=092f51ae80072de5)）からの引用である。
 
@@ -84,7 +84,7 @@
 
 本項の「日本スタンダード&プアーズ株式会社」及び以下の4社（の日本法人）が、[金融庁](../Page/金融庁.md "wikilink")長官から指定を受けた指定格付機関である。
 
-  - [ムーディーズ](https://ja.wikipedia.org/wiki/ムーディーズ "wikilink")
+  - [ムーディーズ](../Page/ムーディーズ.md "wikilink")
   - [フィッチ・レーティングス](../Page/フィッチ・レーティングス.md "wikilink")
   - [日本格付研究所](https://ja.wikipedia.org/wiki/日本格付研究所 "wikilink")
   - [格付投資情報センター](../Page/格付投資情報センター.md "wikilink")

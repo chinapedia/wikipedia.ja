@@ -1,17 +1,17 @@
 > この記事は[UAE](https://ja.wikipedia.org/wiki/UAE)から翻訳されています。
 
 
-**UAEダービー**（**UAE Derby**、）とは[アラブ首長国連邦](../Page/アラブ首長国連邦.md "wikilink")の[ドバイ](../Page/ドバイ.md "wikilink")にある[メイダン競馬場](https://ja.wikipedia.org/wiki/メイダン競馬場 "wikilink")で行われる[競馬の競走](https://ja.wikipedia.org/wiki/競馬の競走 "wikilink")である。2015年は[G2に格付けされている](https://ja.wikipedia.org/wiki/競馬の競走格付け "wikilink")。
+**UAEダービー**（**UAE Derby**、）とは[アラブ首長国連邦](../Page/アラブ首長国連邦.md "wikilink")の[ドバイ](../Page/ドバイ.md "wikilink")にある[メイダン競馬場](https://ja.wikipedia.org/wiki/メイダン競馬場 "wikilink")で行われる[競馬の競走](../Page/競馬の競走.md "wikilink")である。2015年は[G2に格付けされている](../Page/競馬の競走格付け.md "wikilink")。
 
 ## 概要
 
 競走馬の出走条件はサラ系3歳限定である。ただしUAEでは馬齢表記を南半球の基準で定めている為、北半球の基準で表記すると北半球産3歳馬ならびに南半球産4歳となる。[ケンタッキーダービー](../Page/ケンタッキーダービー.md "wikilink")ポイント指定競走でもあり、好走してアメリカの三冠競走を狙う馬もいるが現状通用するとは言い難く苦戦が続いている。
 
-同日には[ドバイミーティング](https://ja.wikipedia.org/wiki/ドバイミーティング "wikilink")と題して[ドバイゴールドカップ](https://ja.wikipedia.org/wiki/ドバイゴールドカップ "wikilink")、[ドバイカハイラクラシック](../Page/ドバイカハイラクラシック.md "wikilink")、[アルクォズスプリント](https://ja.wikipedia.org/wiki/アルクォズスプリント "wikilink")、[ドバイターフ](https://ja.wikipedia.org/wiki/ドバイターフ "wikilink")、[ドバイシーマクラシック](https://ja.wikipedia.org/wiki/ドバイシーマクラシック "wikilink")、[ドバイゴールデンシャヒーン](https://ja.wikipedia.org/wiki/ドバイゴールデンシャヒーン "wikilink")、[ゴドルフィンマイル](../Page/ゴドルフィンマイル.md "wikilink")、[ドバイワールドカップ](../Page/ドバイワールドカップ.md "wikilink")など他の国際招待レースも開催され、ドバイだけでなくアラブ首長国連邦の競馬の祭典として定着している。
+同日には[ドバイミーティング](../Page/ドバイミーティング.md "wikilink")と題して[ドバイゴールドカップ](https://ja.wikipedia.org/wiki/ドバイゴールドカップ "wikilink")、[ドバイカハイラクラシック](../Page/ドバイカハイラクラシック.md "wikilink")、[アルクォズスプリント](https://ja.wikipedia.org/wiki/アルクォズスプリント "wikilink")、[ドバイターフ](../Page/ドバイターフ.md "wikilink")、[ドバイシーマクラシック](../Page/ドバイシーマクラシック.md "wikilink")、[ドバイゴールデンシャヒーン](../Page/ドバイゴールデンシャヒーン.md "wikilink")、[ゴドルフィンマイル](../Page/ゴドルフィンマイル.md "wikilink")、[ドバイワールドカップ](../Page/ドバイワールドカップ.md "wikilink")など他の国際招待レースも開催され、ドバイだけでなくアラブ首長国連邦の競馬の祭典として定着している。
 
 ## 歴史
 
-  - [2000年](../Page/2000年.md "wikilink") 創設。[ナド・アルシバ競馬場](https://ja.wikipedia.org/wiki/ナド・アルシバ競馬場 "wikilink")にてダート1800mで施行。
+  - [2000年](../Page/2000年.md "wikilink") 創設。[ナド・アルシバ競馬場](../Page/ナド・アルシバ競馬場.md "wikilink")にてダート1800mで施行。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink") 開催場がメイダン競馬場に移行し、施行距離がオールウェザー1900mに変更。
   - [2015年](../Page/2015年.md "wikilink") 施行条件がダート1900mに変更。
 
@@ -54,7 +54,7 @@
 <td><p>Essence of Dubai</p></td>
 <td><p>牡3</p></td>
 <td><p>2:02.90</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ランフランコ・デットーリ" title="wikilink">L.デットーリ</a></p></td>
+<td><p><a href="../Page/ランフランコ・デットーリ.md" title="wikilink">L.デットーリ</a></p></td>
 <td><p>S.ビン・スルール</p></td>
 </tr>
 <tr class="even">
@@ -77,7 +77,7 @@
 </tr>
 <tr class="even">
 <td><p>第6回</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a>3月26日</p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a>3月26日</p></td>
 <td><p>Blues and Royals</p></td>
 <td><p>牡3</p></td>
 <td><p>1:50.05</p></td>
@@ -86,7 +86,7 @@
 </tr>
 <tr class="odd">
 <td><p>第7回</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a>3月25日</p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a>3月25日</p></td>
 <td><p><a href="../Page/ディスクリートキャット.md" title="wikilink">Discreet Cat</a></p></td>
 <td><p>牡3</p></td>
 <td><p>1:48.59</p></td>
@@ -126,7 +126,7 @@
 <td><p>Musir</p></td>
 <td><p>牡4</p></td>
 <td><p>1:57.44</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クリストフ・スミヨン" title="wikilink">C.スミヨン</a></p></td>
+<td><p><a href="../Page/クリストフ・スミヨン.md" title="wikilink">C.スミヨン</a></p></td>
 <td><p>M.デ・コック</p></td>
 </tr>
 <tr class="even">

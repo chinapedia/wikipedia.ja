@@ -5,13 +5,13 @@
 
 ## 概要
 
-[1999年](../Page/1999年.md "wikilink")、[システムソフト](https://ja.wikipedia.org/wiki/システムソフト "wikilink")を退社した石川淳一が同志を集って有限会社サイク（[代表取締役](https://ja.wikipedia.org/wiki/代表取締役 "wikilink")は鳥山定仁\[2\]）のブランドとして設立した。
+[1999年](../Page/1999年.md "wikilink")、[システムソフト](../Page/システムソフト.md "wikilink")を退社した石川淳一が同志を集って有限会社サイク（[代表取締役](../Page/代表取締役.md "wikilink")は鳥山定仁\[2\]）のブランドとして設立した。
 
-[2004年](../Page/2004年.md "wikilink")、すべてのブランドを販社である有限会社ビーアイコミュニケーションズへと移管。 [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、有限会社サイクは有限会社エレメンツに社名変更。
+[2004年](../Page/2004年.md "wikilink")、すべてのブランドを販社である有限会社ビーアイコミュニケーションズへと移管。 [2005年](../Page/2005年.md "wikilink")、有限会社サイクは有限会社エレメンツに社名変更。
 
-[2000年](../Page/2000年.md "wikilink")発売の『青の扉 白の鍵』でデビューし、[2001年](../Page/2001年.md "wikilink")には[堕落・鬼畜・陵辱系ブランドのブラックサイク](https://ja.wikipedia.org/wiki/鬼畜系 "wikilink")（Black Cyc）を立ち上げた他、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に立ち上げたホワイトサイク（White Cyc）・[BL系のサイクロゼ](../Page/ボーイズラブ.md "wikilink")（Cyc Rose）・パルミエ（Palmiers）・[乙女系](https://ja.wikipedia.org/wiki/乙女系 "wikilink")の澪（MIO）の各姉妹ブランドを擁する。さらに[2009年](../Page/2009年.md "wikilink")にはレインボウサイク（Rainbow Cyc）創設を発表した\[3\]。
+[2000年](../Page/2000年.md "wikilink")発売の『青の扉 白の鍵』でデビューし、[2001年](../Page/2001年.md "wikilink")には[堕落・鬼畜・陵辱系ブランドのブラックサイク](https://ja.wikipedia.org/wiki/鬼畜系 "wikilink")（Black Cyc）を立ち上げた他、[2005年](../Page/2005年.md "wikilink")に立ち上げたホワイトサイク（White Cyc）・[BL系のサイクロゼ](../Page/ボーイズラブ.md "wikilink")（Cyc Rose）・パルミエ（Palmiers）・[乙女系](https://ja.wikipedia.org/wiki/乙女系 "wikilink")の澪（MIO）の各姉妹ブランドを擁する。さらに[2009年](../Page/2009年.md "wikilink")にはレインボウサイク（Rainbow Cyc）創設を発表した\[3\]。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")3月発売の『戦場デ少女ハ躰ヲカケル』を最後に、オリジナルブランドであるサイクはホワイトサイクに統合され一時消滅した。しかし[2007年](../Page/2007年.md "wikilink")3月、『戦場デ少女ハ心ヲサガス』の製作が発表され、サイクは限定的にではあるがブランドとして復活する事となった。
+[2006年](../Page/2006年.md "wikilink")3月発売の『戦場デ少女ハ躰ヲカケル』を最後に、オリジナルブランドであるサイクはホワイトサイクに統合され一時消滅した。しかし[2007年](../Page/2007年.md "wikilink")3月、『戦場デ少女ハ心ヲサガス』の製作が発表され、サイクは限定的にではあるがブランドとして復活する事となった。
 
 [2011年](../Page/2011年.md "wikilink")1月発売の『小夜子』を最後にブラックサイクは新会社となる[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")ランバ・アミューズに移管された\[4\]。
 
@@ -89,7 +89,7 @@
 #### White Cyc（ホワイトサイク）
 
   - 2005年1月28日 - 時の回廊
-  - 2006年4月7日 - [かみさまの宿っ\!](https://ja.wikipedia.org/wiki/かみさまの宿っ! "wikilink")
+  - 2006年4月7日 - [かみさまの宿っ\!](../Page/かみさまの宿っ!.md "wikilink")
   - 2007年2月23日 - 式神 ～桔梗の華に秘めたる想い～
   - 2008年8月29日 - 恋する式（おとめ）～SHIKIGAMI 2008～
   - 2008年8月29日 - 音美ちゃんの『ヤンデレになるもん！』（恋する式 ソフマップ購入特典）
@@ -181,7 +181,7 @@
 
 #### 澪（MIO）（一般ゲーム）
 
-以下は[全年齢対象](https://ja.wikipedia.org/wiki/全年齢対象 "wikilink")の一般ゲーム。このうち、★は12歳以上推奨（公式サイトより）。
+以下は[全年齢対象](../Page/全年齢対象.md "wikilink")の一般ゲーム。このうち、★は12歳以上推奨（公式サイトより）。
 
   - 2008年7月25日 - [あさき、ゆめみし](https://ja.wikipedia.org/wiki/あさき、ゆめみし "wikilink")
   - 2008年7月25日 - ごはんをつくろう（あさき、ゆめみし 初回限定版特典）
@@ -215,7 +215,7 @@
   - 2003年9月26日 - [薔薇ノ木ニ薔薇ノ花咲ク ファンディスク](https://ja.wikipedia.org/wiki/薔薇ノ木ニ薔薇ノ花咲ク "wikilink")
   - 2006年6月15日 - [薔薇ノ木ニ薔薇ノ花咲ク Versprechen-（PS2版）](https://ja.wikipedia.org/wiki/薔薇ノ木ニ薔薇ノ花咲ク "wikilink")-Das　※[PlayStation 2への移植版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")\[45\]
   - 2007年3月23日 - [薔薇ノ木ニ薔薇ノ花咲ク 愛蔵版](https://ja.wikipedia.org/wiki/薔薇ノ木ニ薔薇ノ花咲ク "wikilink")
-  - 2010年12月22日 - [薔薇ノ木ニ薔薇ノ花咲ク](https://ja.wikipedia.org/wiki/薔薇ノ木ニ薔薇ノ花咲ク "wikilink")（PSP版）　※[PlayStation Portableへの移植版](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")\[46\]
+  - 2010年12月22日 - [薔薇ノ木ニ薔薇ノ花咲ク](https://ja.wikipedia.org/wiki/薔薇ノ木ニ薔薇ノ花咲ク "wikilink")（PSP版）　※[PlayStation Portableへの移植版](../Page/PlayStation_Portable.md "wikilink")\[46\]
 
 #### Palmiers（パルミエ）
 
@@ -225,7 +225,7 @@
 ## 主なスタッフ
 
   - [ことみようじ](https://ja.wikipedia.org/wiki/ことみようじ "wikilink")（原画）
-  - [電気式華憐音楽集団](https://ja.wikipedia.org/wiki/電気式華憐音楽集団 "wikilink")（音楽）
+  - [電気式華憐音楽集団](../Page/電気式華憐音楽集団.md "wikilink")（音楽）
 
 <!-- end list -->
 

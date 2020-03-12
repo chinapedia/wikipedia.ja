@@ -87,7 +87,7 @@ TrackMania Unitedに少し改良を加えたもの。
 
 ## 音楽ファイルについて
 
-TrackMania United/Nations Foreverでは、[WAV](https://ja.wikipedia.org/wiki/WAV "wikilink")と[Ogg Vorbisの音楽を取り込んでBGMにすることができる](https://ja.wikipedia.org/wiki/Ogg_Vorbis "wikilink")。
+TrackMania United/Nations Foreverでは、[WAV](../Page/WAV.md "wikilink")と[Ogg Vorbisの音楽を取り込んでBGMにすることができる](https://ja.wikipedia.org/wiki/Ogg_Vorbis "wikilink")。
 
 また、Ogg Vorbisのヘッダを編集し、専用形式「MUX」に変換することもできる。MUXファイルはエディターで専用BGMに設定すると、音楽が鳴り始めるときに音楽の詳細データが表示されるようになる。 なお、なぜ独自形式を設定しているかは不明である。
 

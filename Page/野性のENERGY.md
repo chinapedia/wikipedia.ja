@@ -1,11 +1,11 @@
 > この記事は[ENERGY](https://ja.wikipedia.org/wiki/ENERGY)から翻訳されています。
 
 
-「**野性のENERGY**」(やせいのエナジー)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")・[B'z](../Page/B'z.md "wikilink")の35作目の[シングル](../Page/シングル.md "wikilink")。
+「**野性のENERGY**」(やせいのエナジー)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の35作目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 概要
 
-13thアルバム『[BIG MACHINE](https://ja.wikipedia.org/wiki/BIG_MACHINE "wikilink")』からの先行シングル。
+13thアルバム『[BIG MACHINE](../Page/BIG_MACHINE.md "wikilink")』からの先行シングル。
 
 前作「[IT'S SHOWTIME\!\!](../Page/IT'S_SHOWTIME!!.md "wikilink")」に続き、デビュー15周年時に発売されたシングル。
 
@@ -17,8 +17,8 @@
       -
         去年までに出来ていて、既にアルバム候補曲として存在していた\[1\]。松本はデモの段階からシングルにしたいと思っていたらしい。
         歌詞は稲葉とドラムスのシェーンとの会話がきっかけでできたもの\[2\]。
-        この曲の[リフ](https://ja.wikipedia.org/wiki/リフ "wikilink")は松本ではなく、[アレンジャーの](../Page/編曲家.md "wikilink")[徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")によるもの。
-        [PVでは](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、“2人が音楽への道を歩まなかった場合”という設定のもと、[教員免許を持っている稲葉が学校の先生に](../Page/教育職員免許状.md "wikilink")、松本がギター屋の店員に扮している。稲葉は[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横須賀市](../Page/横須賀市.md "wikilink")のとある学校、松本はデビュー前実際にアルバイトで働いていた楽器店での撮影となり、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")内のライブハウスでの撮影も含め収録には3日間かかった\[3\]。またPV内では[ANB系音楽番組](../Page/テレビ朝日.md "wikilink")『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』の映像が一瞬映っており、[タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")が出演している。当時のサポートメンバーである徳永や[シェーン・ガラース](../Page/シェーン・ガラース.md "wikilink")らもインディーズバンドのメンバーとして出演している。松本によるとB'zとして初めて[MTV](https://ja.wikipedia.org/wiki/MTV "wikilink")でヘビーローテーションとなった曲であり、2008年発行のMusic Freak Magazine内で行われた「ミュージックビデオ人気投票」においても1位を獲得した。
+        この曲の[リフ](../Page/リフ.md "wikilink")は松本ではなく、[アレンジャーの](../Page/編曲家.md "wikilink")[徳永暁人](../Page/徳永暁人.md "wikilink")によるもの。
+        [PVでは](../Page/ミュージック・ビデオ.md "wikilink")、“2人が音楽への道を歩まなかった場合”という設定のもと、[教員免許を持っている稲葉が学校の先生に](../Page/教育職員免許状.md "wikilink")、松本がギター屋の店員に扮している。稲葉は[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横須賀市](../Page/横須賀市.md "wikilink")のとある学校、松本はデビュー前実際にアルバイトで働いていた楽器店での撮影となり、[東京都](../Page/東京都.md "wikilink")内のライブハウスでの撮影も含め収録には3日間かかった\[3\]。またPV内では[ANB系音楽番組](../Page/テレビ朝日.md "wikilink")『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』の映像が一瞬映っており、[タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")が出演している。当時のサポートメンバーである徳永や[シェーン・ガラース](../Page/シェーン・ガラース.md "wikilink")らもインディーズバンドのメンバーとして出演している。松本によるとB'zとして初めて[MTV](../Page/MTV.md "wikilink")でヘビーローテーションとなった曲であり、2008年発行のMusic Freak Magazine内で行われた「ミュージックビデオ人気投票」においても1位を獲得した。
         松本・稲葉両者ともライブで演奏し続けて成長したと語っており、同年に行われた[北米ツアー・アルバムツアーではイントロがアレンジされた新バージョンで演奏された](https://ja.wikipedia.org/wiki/LIVE-GYM_#2003年 "wikilink")。2004年以降はライブでは一切演奏されていなかったが、2013年に行われた『B'z Special LIVE at EX THEATER ROPPONGI』で10年ぶりに演奏された。その際は、イントロのギターがカッティングではなく太めのギターリフに変更され、重厚なアレンジに変更された。
 2.  **旅☆EVERYDAY** (3:00)
       -
@@ -34,10 +34,10 @@
 ## 参加ミュージシャン
 
   - [松本孝弘](../Page/松本孝弘.md "wikilink"):[ギター](../Page/ギター.md "wikilink")、全曲[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")
-  - [稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink"):[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、全曲[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・編曲
-  - [徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink"):[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink") (\#1)、全曲編曲
+  - [稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink"):[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、全曲[作詞](../Page/作詞.md "wikilink")・編曲
+  - [徳永暁人](../Page/徳永暁人.md "wikilink"):[ベース](../Page/ベース_\(弦楽器\).md "wikilink") (\#1)、全曲編曲
   - [池田大介](../Page/池田大介_\(編曲家\).md "wikilink"):[ブラスアレンジ](https://ja.wikipedia.org/wiki/編曲_#管楽器 "wikilink") (\#2)
-  - [吉田建](https://ja.wikipedia.org/wiki/吉田建 "wikilink"):ベース (\#2)
+  - [吉田建](../Page/吉田建.md "wikilink"):ベース (\#2)
   - [シェーン・ガラース](../Page/シェーン・ガラース.md "wikilink"):[ドラム](../Page/ドラムセット.md "wikilink") (\#1)
   - [ブライアン・ティッシー](https://ja.wikipedia.org/wiki/ブライアン・ティッシー "wikilink"):ドラム (\#1)
   - [山木秀夫](../Page/山木秀夫.md "wikilink"):ドラム (\#2)
@@ -50,7 +50,7 @@
 
 **野性のENERGY**
 
-  - [BIG MACHINE](https://ja.wikipedia.org/wiki/BIG_MACHINE "wikilink") (アルバムバージョン)
+  - [BIG MACHINE](../Page/BIG_MACHINE.md "wikilink") (アルバムバージョン)
   - [B'z The Best "Pleasure II"](https://ja.wikipedia.org/wiki/B'z_The_Best_"Pleasure_II" "wikilink")
   - [B'z The Best XXV 1999-2012](https://ja.wikipedia.org/wiki/B'z_The_Best_XXV_1999-2012 "wikilink")
 
@@ -66,7 +66,7 @@
 
 ## 関連項目
 
-  - [2003年の音楽](https://ja.wikipedia.org/wiki/2003年の音楽 "wikilink")
+  - [2003年の音楽](../Page/2003年の音楽.md "wikilink")
 
 [Category:B'zの楽曲](https://ja.wikipedia.org/wiki/Category:B'zの楽曲 "wikilink") [Category:稲葉浩志が制作した楽曲](https://ja.wikipedia.org/wiki/Category:稲葉浩志が制作した楽曲 "wikilink") [Category:松本孝弘が制作した楽曲](https://ja.wikipedia.org/wiki/Category:松本孝弘が制作した楽曲 "wikilink") [Category:2003年のシングル](https://ja.wikipedia.org/wiki/Category:2003年のシングル "wikilink") [Category:2003年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2003年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:テレビ朝日の主題歌](https://ja.wikipedia.org/wiki/Category:テレビ朝日の主題歌 "wikilink") [Category:応援歌](https://ja.wikipedia.org/wiki/Category:応援歌 "wikilink") [Category:楽曲_や](https://ja.wikipedia.org/wiki/Category:楽曲_や "wikilink")
 

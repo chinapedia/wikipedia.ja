@@ -1,7 +1,7 @@
 > この記事は[Base64](https://ja.wikipedia.org/wiki/Base64)から翻訳されています。
 
 
-**Base64**は、[データ](../Page/データ.md "wikilink")を64種類の印字可能な[英数字](https://ja.wikipedia.org/wiki/英数字 "wikilink")のみを用いて、それ以外の文字を扱うことの出来ない通信環境にて[マルチバイト文字](../Page/マルチバイト文字.md "wikilink")や[バイナリ](../Page/バイナリ.md "wikilink")データを扱うための[エンコード](../Page/エンコード.md "wikilink")方式である。[MIMEによって規定されていて](https://ja.wikipedia.org/wiki/Multipurpose_Internet_Mail_Extensions "wikilink")、7ビットのデータしか扱うことの出来ない[電子メール](../Page/電子メール.md "wikilink")にて広く利用されている。具体的には、`A`–`Z`, `a`–`z`, `0`–`9` までの62文字と、記号2つ (`+`, `/`)、さらにパディング（余った部分を詰める）のための記号として `=` が用いられる。この変換によって、データ量は4/3（約133%）になる\[1\]。また、MIMEの基準では76文字ごとに[改行コード](https://ja.wikipedia.org/wiki/改行コード "wikilink")が入るため、この分の2バイトを計算に入れるとデータ量は約137%となる\[2\]。
+**Base64**は、[データ](../Page/データ.md "wikilink")を64種類の印字可能な[英数字](https://ja.wikipedia.org/wiki/英数字 "wikilink")のみを用いて、それ以外の文字を扱うことの出来ない通信環境にて[マルチバイト文字](../Page/マルチバイト文字.md "wikilink")や[バイナリ](../Page/バイナリ.md "wikilink")データを扱うための[エンコード](../Page/エンコード.md "wikilink")方式である。[MIMEによって規定されていて](../Page/Multipurpose_Internet_Mail_Extensions.md "wikilink")、7ビットのデータしか扱うことの出来ない[電子メール](../Page/電子メール.md "wikilink")にて広く利用されている。具体的には、`A`–`Z`, `a`–`z`, `0`–`9` までの62文字と、記号2つ (`+`, `/`)、さらにパディング（余った部分を詰める）のための記号として `=` が用いられる。この変換によって、データ量は4/3（約133%）になる\[1\]。また、MIMEの基準では76文字ごとに[改行コード](../Page/改行コード.md "wikilink")が入るため、この分の2バイトを計算に入れるとデータ量は約137%となる\[2\]。
 
 ## 変換形式
 
@@ -56,11 +56,11 @@ Base64変換の手順を以下に挙げる。
 
 ### Basic認証
 
-[HTTPヘッダでは](../Page/Hypertext_Transfer_Protocol.md "wikilink")、特殊記号を使用することが出来ないため、ユーザー名とパスワードをコロン (`:`) で区切ってBase64エンコードした文字列が[Basic認証](https://ja.wikipedia.org/wiki/Basic認証 "wikilink")に用いられている。
+[HTTPヘッダでは](../Page/Hypertext_Transfer_Protocol.md "wikilink")、特殊記号を使用することが出来ないため、ユーザー名とパスワードをコロン (`:`) で区切ってBase64エンコードした文字列が[Basic認証](../Page/Basic認証.md "wikilink")に用いられている。
 
 ### 電子掲示板
 
-[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")上の[電子掲示板](../Page/電子掲示板.md "wikilink")では、文字列以外のバイナリデータの書き込みは基本的に不可能である。そこで、[画像](../Page/画像.md "wikilink")やテキスト文章を[圧縮したファイルなどをやり取りするために](../Page/データ圧縮.md "wikilink")、この形式が使用されることがある。
+[インターネット](../Page/インターネット.md "wikilink")上の[電子掲示板](../Page/電子掲示板.md "wikilink")では、文字列以外のバイナリデータの書き込みは基本的に不可能である。そこで、[画像](../Page/画像.md "wikilink")やテキスト文章を[圧縮したファイルなどをやり取りするために](../Page/データ圧縮.md "wikilink")、この形式が使用されることがある。
 
 ## 問題点
 
@@ -100,7 +100,7 @@ Base64変換の手順を以下に挙げる。
 <td><p>(なし)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/Multipurpose_Internet_Mail_Extensions" title="wikilink">MIME</a> の Base64 転送エンコーディング<br />
+<td><p><a href="../Page/Multipurpose_Internet_Mail_Extensions.md" title="wikilink">MIME</a> の Base64 転送エンコーディング<br />
 (RFC 2045)</p></td>
 <td><p><code>+</code></p></td>
 <td><p><code>/</code></p></td>

@@ -1,7 +1,7 @@
 > この記事は[V](https://ja.wikipedia.org/wiki/V)から翻訳されています。
 
 
-**日韓Vリーグトップマッチ**（にっかんブイリーグトップマッチ）は[日本バレーボールリーグ機構](https://ja.wikipedia.org/wiki/日本バレーボールリーグ機構 "wikilink")と[韓国バレーボール連盟](https://ja.wikipedia.org/wiki/韓国バレーボール連盟 "wikilink")のそれぞれ社会人（プロ）の[バレーボール](../Page/バレーボール.md "wikilink")トップリーグ組織である[Vリーグの成績上位チームが対戦する交流試合](../Page/プレミアリーグ_\(バレーボール\).md "wikilink")（「日韓選手権試合」）である。
+**日韓Vリーグトップマッチ**（にっかんブイリーグトップマッチ）は[日本バレーボールリーグ機構](../Page/日本バレーボールリーグ機構.md "wikilink")と[韓国バレーボール連盟](https://ja.wikipedia.org/wiki/韓国バレーボール連盟 "wikilink")のそれぞれ社会人（プロ）の[バレーボール](../Page/バレーボール.md "wikilink")トップリーグ組織である[Vリーグの成績上位チームが対戦する交流試合](../Page/プレミアリーグ_\(バレーボール\).md "wikilink")（「日韓選手権試合」）である。
 
 同大会は[日](https://ja.wikipedia.org/wiki/日本 "wikilink")[韓両国のバレーボールの競技力](../Page/大韓民国.md "wikilink")・国際競争力を高め、バレーボールのレベルを高揚させていこうとする目的、また将来の東アジア各国のクラブチーム実力上位チームによるチャンピオン大会「東アジアトップリーグ構想」の実現へ向けた試験大会として行われるもので、単なる親善試合としてではなく、公式戦の一環として行われ、順位も決定される。
 
@@ -44,18 +44,18 @@
 
 \== 個人賞 ==
 
-| 回 | 開催年  | MVP                                                           | 所属チーム                                                                    | MIP                                                       | 所属チーム                                                                    |
-| - | ---- | ------------------------------------------------------------- | ------------------------------------------------------------------------ | --------------------------------------------------------- | ------------------------------------------------------------------------ |
-| 1 | 2006 | [ケニア・カルカセス](../Page/ケニア・カルカセス.md "wikilink")                  | [久光製薬スプリングス](https://ja.wikipedia.org/wiki/久光製薬スプリングス "wikilink")        |                                                           |                                                                          |
-| 2 | 2007 | [橋本直子](https://ja.wikipedia.org/wiki/橋本直子 "wikilink")         | [久光製薬スプリングス](https://ja.wikipedia.org/wiki/久光製薬スプリングス "wikilink")        |                                                           |                                                                          |
-| 3 | 2009 | [キム・ヨンギョン](https://ja.wikipedia.org/wiki/キム・ヨンギョン "wikilink") | [興国生命ピンクスパイダーズ](../Page/興国生命ピンクスパイダーズ.md "wikilink")                     | [木村沙織](https://ja.wikipedia.org/wiki/木村沙織 "wikilink")     | [東レ・アローズ](https://ja.wikipedia.org/wiki/東レ・アローズ_\(女子バレーボール\) "wikilink") |
-| 4 | 2010 | [木村沙織](https://ja.wikipedia.org/wiki/木村沙織 "wikilink")         | [東レ・アローズ](https://ja.wikipedia.org/wiki/東レ・アローズ_\(女子バレーボール\) "wikilink") | [キム・サニ](../Page/キム・サニ.md "wikilink")                      | [KT\&Gアリエールズ](https://ja.wikipedia.org/wiki/KGC人参公社 "wikilink")          |
-| 5 | 2013 | [石井優希](https://ja.wikipedia.org/wiki/石井優希 "wikilink")         | [久光製薬スプリングス](https://ja.wikipedia.org/wiki/久光製薬スプリングス "wikilink")        | [ナム・ジヨン](https://ja.wikipedia.org/wiki/ナム・ジヨン "wikilink") | [IBK企業銀行アルトス](https://ja.wikipedia.org/wiki/IBK企業銀行アルトス "wikilink")      |
-| 6 | 2015 | [柳田光綺](https://ja.wikipedia.org/wiki/柳田光綺 "wikilink")         | [NECレッドロケッツ](https://ja.wikipedia.org/wiki/NECレッドロケッツ "wikilink")        | [キム・ヒジン](https://ja.wikipedia.org/wiki/キム・ヒジン "wikilink") | [IBK企業銀行アルトス](https://ja.wikipedia.org/wiki/IBK企業銀行アルトス "wikilink")      |
+| 回 | 開催年  | MVP                                                   | 所属チーム                                                                    | MIP                                                       | 所属チーム                                                                    |
+| - | ---- | ----------------------------------------------------- | ------------------------------------------------------------------------ | --------------------------------------------------------- | ------------------------------------------------------------------------ |
+| 1 | 2006 | [ケニア・カルカセス](../Page/ケニア・カルカセス.md "wikilink")          | [久光製薬スプリングス](https://ja.wikipedia.org/wiki/久光製薬スプリングス "wikilink")        |                                                           |                                                                          |
+| 2 | 2007 | [橋本直子](https://ja.wikipedia.org/wiki/橋本直子 "wikilink") | [久光製薬スプリングス](https://ja.wikipedia.org/wiki/久光製薬スプリングス "wikilink")        |                                                           |                                                                          |
+| 3 | 2009 | [キム・ヨンギョン](../Page/キム・ヨンギョン.md "wikilink")            | [興国生命ピンクスパイダーズ](../Page/興国生命ピンクスパイダーズ.md "wikilink")                     | [木村沙織](https://ja.wikipedia.org/wiki/木村沙織 "wikilink")     | [東レ・アローズ](https://ja.wikipedia.org/wiki/東レ・アローズ_\(女子バレーボール\) "wikilink") |
+| 4 | 2010 | [木村沙織](https://ja.wikipedia.org/wiki/木村沙織 "wikilink") | [東レ・アローズ](https://ja.wikipedia.org/wiki/東レ・アローズ_\(女子バレーボール\) "wikilink") | [キム・サニ](../Page/キム・サニ.md "wikilink")                      | [KT\&Gアリエールズ](https://ja.wikipedia.org/wiki/KGC人参公社 "wikilink")          |
+| 5 | 2013 | [石井優希](https://ja.wikipedia.org/wiki/石井優希 "wikilink") | [久光製薬スプリングス](https://ja.wikipedia.org/wiki/久光製薬スプリングス "wikilink")        | [ナム・ジヨン](https://ja.wikipedia.org/wiki/ナム・ジヨン "wikilink") | [IBK企業銀行アルトス](https://ja.wikipedia.org/wiki/IBK企業銀行アルトス "wikilink")      |
+| 6 | 2015 | [柳田光綺](https://ja.wikipedia.org/wiki/柳田光綺 "wikilink") | [NECレッドロケッツ](https://ja.wikipedia.org/wiki/NECレッドロケッツ "wikilink")        | [キム・ヒジン](https://ja.wikipedia.org/wiki/キム・ヒジン "wikilink") | [IBK企業銀行アルトス](https://ja.wikipedia.org/wiki/IBK企業銀行アルトス "wikilink")      |
 
 ## 関連項目
 
-  - [日本バレーボールリーグ機構](https://ja.wikipedia.org/wiki/日本バレーボールリーグ機構 "wikilink")
+  - [日本バレーボールリーグ機構](../Page/日本バレーボールリーグ機構.md "wikilink")
   - [韓国バレーボール連盟](https://ja.wikipedia.org/wiki/韓国バレーボール連盟 "wikilink")
 
 ## 脚注

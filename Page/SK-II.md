@@ -1,19 +1,19 @@
 > この記事は[SK-II](https://ja.wikipedia.org/wiki/SK-II)から翻訳されています。
 
 
-[SK2_Logo.gif](https://ja.wikipedia.org/wiki/File:SK2_Logo.gif "fig:SK2_Logo.gif") **SK-II**（エスケーツー）は、[プロクター・アンド・ギャンブル・ジャパン](../Page/プロクター・アンド・ギャンブル・ジャパン.md "wikilink")（P\&Gジャパン）の子会社である[P\&Gプレステージ](https://ja.wikipedia.org/wiki/P&Gプレステージ "wikilink")合同会社が販売する[化粧品](../Page/化粧品.md "wikilink")[ブランド](../Page/ブランド.md "wikilink")である。
+[SK2_Logo.gif](https://ja.wikipedia.org/wiki/File:SK2_Logo.gif "fig:SK2_Logo.gif") **SK-II**（エスケーツー）は、[プロクター・アンド・ギャンブル・ジャパン](../Page/プロクター・アンド・ギャンブル・ジャパン.md "wikilink")（P\&Gジャパン）の子会社である[P\&Gプレステージ](../Page/P&Gプレステージ.md "wikilink")合同会社が販売する[化粧品](../Page/化粧品.md "wikilink")[ブランド](../Page/ブランド.md "wikilink")である。
 
 ## 概要
 
-[基礎化粧品](https://ja.wikipedia.org/wiki/基礎化粧品 "wikilink")としては高価格帯の商品が多く、30代以上の女性を中心に支持を集めている。
+[基礎化粧品](../Page/基礎化粧品.md "wikilink")としては高価格帯の商品が多く、30代以上の女性を中心に支持を集めている。
 
-看板商品である「フェイシャル トリートメント エッセンス」（[化粧水](https://ja.wikipedia.org/wiki/化粧水 "wikilink")）は160mLで17,000円である。
+看板商品である「フェイシャル トリートメント エッセンス」（[化粧水](../Page/化粧水.md "wikilink")）は160mLで17,000円である。
 
 [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[CMキャラクターに](../Page/コマーシャルメッセージ.md "wikilink")[桃井かおり](../Page/桃井かおり.md "wikilink")、[綾瀬はるか](https://ja.wikipedia.org/wiki/綾瀬はるか "wikilink")、[有村架純](https://ja.wikipedia.org/wiki/有村架純 "wikilink")を起用している。
 
 現在の[キャッチコピー](../Page/キャッチコピー.md "wikilink")は、**「運命を、変えよう。\#changedestiny」**
 
-日本国内で製造しており、[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")各国・[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")等の諸外国でも発売されている。
+日本国内で製造しており、[アジア](../Page/アジア.md "wikilink")各国・[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")等の諸外国でも発売されている。
 
 [2015年](../Page/2015年.md "wikilink")9月、P\&Gマックスファクター合同会社がP\&Gプレステージ合同会社に2016年8月1日に社名変更するのに併せて、SK-IIのカラー製品（[ファンデーション](https://ja.wikipedia.org/wiki/ファンデーション "wikilink")、ベースは除く）の販売を終了すると発表した。\[1\]
 
@@ -35,7 +35,7 @@ SK-IIの**SK**とは「**Secret Key（秘密の鍵）**」の略である。
 
 :\*フェイシャル トリートメント ジェントル クレンジング クリーム
 
-  - [化粧水](https://ja.wikipedia.org/wiki/化粧水 "wikilink")
+  - [化粧水](../Page/化粧水.md "wikilink")
 
 :\*フェイシャル トリートメント エッセンス
 
@@ -119,7 +119,7 @@ SK-IIの**SK**とは「**Secret Key（秘密の鍵）**」の略である。
 
 :\*マスターピース トートネス セラム
 
-  - [パック](https://ja.wikipedia.org/wiki/パック "wikilink")・[マスク](https://ja.wikipedia.org/wiki/マスク "wikilink")
+  - [パック](https://ja.wikipedia.org/wiki/パック "wikilink")・[マスク](../Page/マスク.md "wikilink")
 
 :\*フェイシャル トリートメント マスク
 

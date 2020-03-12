@@ -1,7 +1,7 @@
 > この記事は[KISS](https://ja.wikipedia.org/wiki/KISS)から翻訳されています。
 
 
-「**素顔のままKISSしよう**」（すがおのままキスをしよう）は、[MANISH](https://ja.wikipedia.org/wiki/MANISH "wikilink")の3枚目のシングル。
+「**素顔のままKISSしよう**」（すがおのままキスをしよう）は、[MANISH](../Page/MANISH.md "wikilink")の3枚目のシングル。
 
 ## 解説
 
@@ -11,7 +11,7 @@
 
 1.  **素顔のままKISSしよう**
       -
-        作詞：[大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")　作曲：西本麻里　編曲：[明石昌夫](https://ja.wikipedia.org/wiki/明石昌夫 "wikilink")
+        作詞：[大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")　作曲：西本麻里　編曲：[明石昌夫](../Page/明石昌夫.md "wikilink")
 2.  **さよならPlastic Girl**
       -
         作詞：井上留美子　作曲：西本麻里　編曲：明石昌夫

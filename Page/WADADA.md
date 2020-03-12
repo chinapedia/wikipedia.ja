@@ -1,9 +1,9 @@
 > この記事は[WADADA](https://ja.wikipedia.org/wiki/WADADA)から翻訳されています。
 
 
-**WADADA**（ワダダ）は、[キーボーディスト](https://ja.wikipedia.org/wiki/キーボーディスト "wikilink")・[プロデューサー](../Page/プロデューサー.md "wikilink")の[渡辺貴浩](../Page/渡辺貴浩.md "wikilink")と、[ギタリスト](../Page/ギタリスト.md "wikilink")・[プロデューサー](../Page/プロデューサー.md "wikilink")の[Nodatin](https://ja.wikipedia.org/wiki/Nodatin "wikilink")の2人で構成されるグループ、プロデュース・チーム。ユニット名は[エチオピア](https://ja.wikipedia.org/wiki/エチオピア "wikilink")語（[アムハラ語](https://ja.wikipedia.org/wiki/アムハラ語 "wikilink")）で、「愛」の意。
+**WADADA**（ワダダ）は、[キーボーディスト](../Page/キーボーディスト.md "wikilink")・[プロデューサー](../Page/プロデューサー.md "wikilink")の[渡辺貴浩](../Page/渡辺貴浩.md "wikilink")と、[ギタリスト](../Page/ギタリスト.md "wikilink")・[プロデューサー](../Page/プロデューサー.md "wikilink")の[Nodatin](https://ja.wikipedia.org/wiki/Nodatin "wikilink")の2人で構成されるグループ、プロデュース・チーム。ユニット名は[エチオピア](https://ja.wikipedia.org/wiki/エチオピア "wikilink")語（[アムハラ語](https://ja.wikipedia.org/wiki/アムハラ語 "wikilink")）で、「愛」の意。
 
-ジャパニーズ[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")シーンにおいて、Original Riddimを制作・提供し、多くのレゲエシンガー、レゲエ Dee Jay のレコーディングに参加している他、ダンスホール・レゲエバンド「[Home Grown](https://ja.wikipedia.org/wiki/Home_Grown "wikilink")」と共に、多くのダンス・イベントに参加している。
+ジャパニーズ[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")シーンにおいて、Original Riddimを制作・提供し、多くのレゲエシンガー、レゲエ Dee Jay のレコーディングに参加している他、ダンスホール・レゲエバンド「[Home Grown](../Page/Home_Grown.md "wikilink")」と共に、多くのダンス・イベントに参加している。
 
 ## メンバー
 
@@ -40,7 +40,7 @@
 
 <!-- end list -->
 
-  - [H-MAN](https://ja.wikipedia.org/wiki/H-MAN "wikilink")「諸法無我」（2007年7月11日）
+  - [H-MAN](../Page/H-MAN.md "wikilink")「諸法無我」（2007年7月11日）
 
 <!-- end list -->
 

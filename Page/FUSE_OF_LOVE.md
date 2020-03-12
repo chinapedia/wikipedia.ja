@@ -1,7 +1,7 @@
 > この記事は[FUSE OF LOVE](https://ja.wikipedia.org/wiki/FUSE_OF_LOVE)から翻訳されています。
 
 
-『**FUSE OF LOVE**』（フューズ・オブ・ラヴ）は、[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")の5作目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。
+『**FUSE OF LOVE**』（フューズ・オブ・ラヴ）は、[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")の5作目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 概要
 
@@ -20,12 +20,12 @@
     <!-- end list -->
       -
         遠距離恋愛中の二人が、久々に会う心境を歌った曲。
-2.  **[P.S♡MY SUNSHINE](https://ja.wikipedia.org/wiki/P.S_MY_SUNSHINE "wikilink")** – 3:48
+2.  **[P.S♡MY SUNSHINE](../Page/P.S_MY_SUNSHINE.md "wikilink")** – 3:48
       - 作曲・編曲：[岡本仁志](https://ja.wikipedia.org/wiki/岡本仁志 "wikilink")（from [GARNET CROW](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")）
     <!-- end list -->
       -
         21stシングル。[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[めざましどようび](../Page/めざましどようび.md "wikilink")』テーマソング（2005年4月〜2005年6月）
-3.  **[You look at me〜one](https://ja.wikipedia.org/wiki/ダンシング "wikilink")** – 3:58
+3.  **[You look at me〜one](../Page/ダンシング.md "wikilink")** – 3:58
       - 作曲・編曲：[大賀好修](../Page/大賀好修.md "wikilink")（from [OOM](https://ja.wikipedia.org/wiki/OOM_\(バンド\) "wikilink")）
     <!-- end list -->
       -
@@ -40,25 +40,25 @@
     <!-- end list -->
       -
         アルバムタイトルの意味である「愛の導火線」にちなんだ言葉が登場する作品。
-6.  **[Love,needing](https://ja.wikipedia.org/wiki/Love,needing "wikilink")** – 3:17
+6.  **[Love,needing](../Page/Love,needing.md "wikilink")** – 3:17
       - 作曲：大野愛果　編曲：麻井寛史（from [the★tambourines](https://ja.wikipedia.org/wiki/the★tambourines "wikilink")）
     <!-- end list -->
       -
         19thシングル。初のセルフプロデュース作品。
-7.  **[ダンシング](https://ja.wikipedia.org/wiki/ダンシング "wikilink")** – 3:47
-      - 作曲・編曲：[徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")
+7.  **[ダンシング](../Page/ダンシング.md "wikilink")** – 3:47
+      - 作曲・編曲：[徳永暁人](../Page/徳永暁人.md "wikilink")
     <!-- end list -->
       -
-        20thシングル。[Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink")[徳島ヴォルティス](../Page/徳島ヴォルティス.md "wikilink")公式テーマ曲。「いろメロ呼び出し中の音」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。
+        20thシングル。[Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink")[徳島ヴォルティス](../Page/徳島ヴォルティス.md "wikilink")公式テーマ曲。「いろメロ呼び出し中の音」[CMソング](../Page/コマーシャルソング.md "wikilink")。
 8.  **Tell me what** – 3:49
       - 作曲：大野愛果　編曲：岡本仁志
 9.  **LOVE SICK** – 4:06
       - 作曲：大野愛果　編曲：大賀好修
-10. **[明日へ架ける橋](https://ja.wikipedia.org/wiki/明日へ架ける橋 "wikilink")** – 3:59
+10. **[明日へ架ける橋](../Page/明日へ架ける橋.md "wikilink")** – 3:59
       - 作曲：徳永暁人　編曲：[池田大介](../Page/池田大介_\(編曲家\).md "wikilink")・徳永暁人
     <!-- end list -->
       -
-        18thシングル。[NHK夜の連続ドラマ](../Page/NHK夜の連続ドラマ.md "wikilink")『[ドリーム〜90日で1億円〜](https://ja.wikipedia.org/wiki/ドリーム〜90日で1億円〜 "wikilink")』・『[もっと恋セヨ乙女](https://ja.wikipedia.org/wiki/恋セヨ乙女 "wikilink")』・『[火消し屋小町](https://ja.wikipedia.org/wiki/火消し屋小町 "wikilink")』主題歌。
+        18thシングル。[NHK夜の連続ドラマ](../Page/NHK夜の連続ドラマ.md "wikilink")『[ドリーム〜90日で1億円〜](../Page/ドリーム〜90日で1億円〜.md "wikilink")』・『[もっと恋セヨ乙女](../Page/恋セヨ乙女.md "wikilink")』・『[火消し屋小町](../Page/火消し屋小町.md "wikilink")』主題歌。
 11. **I sing a song for you** – 3:51
       - 作曲・ピアノアレンジ：大野愛果
     <!-- end list -->
@@ -68,7 +68,7 @@
       - 作曲：大野愛果　編曲：麻井寛史
     <!-- end list -->
       -
-        ライブではアンコールにほぼ必ず披露される作品で、観客との斉唱が定番となっている楽曲。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[6月19日](../Page/6月19日.md "wikilink")に公開された映画「[ソフトボーイ](https://ja.wikipedia.org/wiki/ソフトボーイ "wikilink")」の主題歌にリリースから5年の時を経てタイアップされることが決まった。こちらは再レコーディングされたシネマバージョンで、デジタル音楽配信されている。また、20周年バージョンが[2019年](../Page/2019年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")から「[ぶらり途中下車の旅](https://ja.wikipedia.org/wiki/ぶらり途中下車の旅 "wikilink")」の57代目エンディングテーマとして使用される。このほかに『[Mai Kuraki Symphonic Collection in Moscow](https://ja.wikipedia.org/wiki/Mai_Kuraki_Symphonic_Collection_in_Moscow "wikilink")』（2012年）収録シンフォニックバージョン、『[Mai Kuraki Single Collection 〜Chance for you〜](https://ja.wikipedia.org/wiki/Mai_Kuraki_Single_Collection_〜Chance_for_you〜 "wikilink")（Merci Edition）』（2019年）収録のMerciバージョンの計5バージョンが存在する。
+        ライブではアンコールにほぼ必ず披露される作品で、観客との斉唱が定番となっている楽曲。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[6月19日](../Page/6月19日.md "wikilink")に公開された映画「[ソフトボーイ](https://ja.wikipedia.org/wiki/ソフトボーイ "wikilink")」の主題歌にリリースから5年の時を経てタイアップされることが決まった。こちらは再レコーディングされたシネマバージョンで、デジタル音楽配信されている。また、20周年バージョンが[2019年](../Page/2019年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")から「[ぶらり途中下車の旅](../Page/ぶらり途中下車の旅.md "wikilink")」の57代目エンディングテーマとして使用される。このほかに『[Mai Kuraki Symphonic Collection in Moscow](https://ja.wikipedia.org/wiki/Mai_Kuraki_Symphonic_Collection_in_Moscow "wikilink")』（2012年）収録シンフォニックバージョン、『[Mai Kuraki Single Collection 〜Chance for you〜](https://ja.wikipedia.org/wiki/Mai_Kuraki_Single_Collection_〜Chance_for_you〜 "wikilink")（Merci Edition）』（2019年）収録のMerciバージョンの計5バージョンが存在する。
 
 ## 外部リンク
 

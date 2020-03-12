@@ -11,11 +11,11 @@
 
 ヤングバトルからは、[GAO](https://ja.wikipedia.org/wiki/ガオ_\(歌手\) "wikilink")、[シャ乱Q](../Page/シャ乱Q.md "wikilink")、[大事MANブラザーズバンド](../Page/大事MANブラザーズバンド.md "wikilink")、[黒夢](../Page/黒夢.md "wikilink")、[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")など、のちに[J-POP](../Page/J-POP.md "wikilink")界を賑すバンド・[ミュージシャンを輩出している](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。
 
-エントリーは、毎年2月ごろに募集開始、春ごろには[カセットテープ](../Page/カセットテープ.md "wikilink")または[ビデオテープ](https://ja.wikipedia.org/wiki/ビデオテープ "wikilink")による審査を経て、審査を勝ち進んだバンド10数組が初夏から夏にかけて全国47都道府県で行われる地方大会に進出し、各地方大会優勝の2組が夏から秋にかけて行われる各地区のブロック大会に進出。ブロック大会は9ブロックに分けて開催された\[1\]。ブロック大会で優勝した各2組、計18組のバンドが毎年11月に[東京](https://ja.wikipedia.org/wiki/東京都 "wikilink")・[渋谷の](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[NHKホール](https://ja.wikipedia.org/wiki/NHKホール "wikilink")で行われる全国大会に出場し、グランプリを目指すというもの。また、各地区・ブロック大会では2組に、全国大会では1組に審査員特別賞も贈られた。
+エントリーは、毎年2月ごろに募集開始、春ごろには[カセットテープ](../Page/カセットテープ.md "wikilink")または[ビデオテープ](https://ja.wikipedia.org/wiki/ビデオテープ "wikilink")による審査を経て、審査を勝ち進んだバンド10数組が初夏から夏にかけて全国47都道府県で行われる地方大会に進出し、各地方大会優勝の2組が夏から秋にかけて行われる各地区のブロック大会に進出。ブロック大会は9ブロックに分けて開催された\[1\]。ブロック大会で優勝した各2組、計18組のバンドが毎年11月に[東京](../Page/東京都.md "wikilink")・[渋谷の](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[NHKホール](../Page/NHKホール.md "wikilink")で行われる全国大会に出場し、グランプリを目指すというもの。また、各地区・ブロック大会では2組に、全国大会では1組に審査員特別賞も贈られた。
 
-これと平行して[小林克也](../Page/小林克也.md "wikilink")歌唱によるイメージソング「[ガムシャ〜ラ](https://ja.wikipedia.org/wiki/ガムシャ〜ラ "wikilink")」が作られ『[みんなのうた](https://ja.wikipedia.org/wiki/みんなのうた "wikilink")』で流れた。
+これと平行して[小林克也](../Page/小林克也.md "wikilink")歌唱によるイメージソング「[ガムシャ〜ラ](https://ja.wikipedia.org/wiki/ガムシャ〜ラ "wikilink")」が作られ『[みんなのうた](../Page/みんなのうた.md "wikilink")』で流れた。
 
-地方大会やブロック大会は、[衛星第2テレビと](https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン "wikilink")、関東地方以外の[NHK総合テレビで放送され](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")、全国大会は当日衛星第2テレビで生中継された。第1回BSヤングバトルの全国大会は、1990年11月23日にNHKホールで開催され、東京ブロック代表のGAO\[2\]がグランプリに選ばれた。
+地方大会やブロック大会は、[衛星第2テレビと](../Page/NHK衛星第2テレビジョン.md "wikilink")、関東地方以外の[NHK総合テレビで放送され](../Page/NHK総合テレビジョン.md "wikilink")、全国大会は当日衛星第2テレビで生中継された。第1回BSヤングバトルの全国大会は、1990年11月23日にNHKホールで開催され、東京ブロック代表のGAO\[2\]がグランプリに選ばれた。
 
 第1回大会の終了後の1991年1月15日、出場したバンドの青春群像に迫った『**叫び・ロック青春列島**』という[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")番組がNHK総合テレビで放送\[3\]された。
 
@@ -47,7 +47,7 @@
   - 赤坂泰彦
   - [きのしたゆうこ](https://ja.wikipedia.org/wiki/きのしたゆうこ "wikilink")
   - 木ノ島成美
-  - [中村貴子](https://ja.wikipedia.org/wiki/中村貴子 "wikilink")
+  - [中村貴子](../Page/中村貴子.md "wikilink")
   - NHK各放送局アナウンサー
 
 <!-- end list -->
@@ -71,7 +71,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1990年（第1回）[4]</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ガオ_(歌手)" title="wikilink">GAO</a>（東京ブロック・<a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a>代表）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ガオ_(歌手)" title="wikilink">GAO</a>（東京ブロック・<a href="../Page/東京都.md" title="wikilink">東京都</a>代表）</p></td>
 <td><p><a href="../Page/ローリー・クック.md" title="wikilink">THE WALTZ</a> （九州ブロック・<a href="../Page/沖縄県.md" title="wikilink">沖縄県</a>代表）</p></td>
 <td></td>
 <td><p>ROOSE</p></td>
@@ -129,7 +129,7 @@ BRAW-BLO<br />
 <td></td>
 <td></td>
 <td><p>high fat foods</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/CURIO" title="wikilink">CURIO</a></p></td>
+<td><p><a href="../Page/CURIO.md" title="wikilink">CURIO</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1996年（第7回）</p></td>
@@ -149,8 +149,8 @@ No?Yes</p></td>
 <td><p>1997年（第8回）</p></td>
 <td><p>HAYATO（現・新隼人）</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BUGY_CRAXONE" title="wikilink">BUGY CRAXONE</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/イカルス渡辺" title="wikilink">イカルス星人</a></p></td>
+<td><p><a href="../Page/BUGY_CRAXONE.md" title="wikilink">BUGY CRAXONE</a></p></td>
+<td><p><a href="../Page/イカルス渡辺.md" title="wikilink">イカルス星人</a></p></td>
 <td><p>OUTSIDE<br />
 cameramans<br />
 Buddha<br />
@@ -183,7 +183,7 @@ go-st</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p>SIVA（<a href="https://ja.wikipedia.org/wiki/MO&#39;SOME_TONEBENDER" title="wikilink">百々和宏が在籍</a>）</p></td>
+<td><p>SIVA（<a href="../Page/MO&#39;SOME_TONEBENDER.md" title="wikilink">百々和宏が在籍</a>）</p></td>
 </tr>
 </tbody>
 </table>
@@ -193,7 +193,7 @@ go-st</p></td>
 ## 関連項目
 
   - [熱血\!オヤジバトル](https://ja.wikipedia.org/wiki/熱血!オヤジバトル "wikilink")
-  - [熱唱オンエアバトル](https://ja.wikipedia.org/wiki/熱唱オンエアバトル "wikilink")
+  - [熱唱オンエアバトル](../Page/熱唱オンエアバトル.md "wikilink")
   - [ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")
   - [MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink")
   - [SONGS](../Page/SONGS_\(テレビ番組\).md "wikilink")

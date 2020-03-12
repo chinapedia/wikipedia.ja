@@ -5,9 +5,9 @@
 
 ## 沿革
 
-  - [1917年](../Page/1917年.md "wikilink")（[大正](../Page/大正.md "wikilink")6年）[6月1日](../Page/6月1日.md "wikilink") - [門司市](https://ja.wikipedia.org/wiki/門司市 "wikilink")（現 北九州市門司区）に門司鉄道病院として開設
+  - [1917年](../Page/1917年.md "wikilink")（[大正](../Page/大正.md "wikilink")6年）[6月1日](../Page/6月1日.md "wikilink") - [門司市](../Page/門司市.md "wikilink")（現 北九州市門司区）に門司鉄道病院として開設
   - [1982年](../Page/1982年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")57年）[7月1日](../Page/7月1日.md "wikilink") - 一般開放開始
-  - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）[4月1日](../Page/4月1日.md "wikilink") - [国鉄](../Page/日本国有鉄道.md "wikilink")[分割民営化に伴い九州旅客鉄道に継承](https://ja.wikipedia.org/wiki/国鉄分割民営化 "wikilink")
+  - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）[4月1日](../Page/4月1日.md "wikilink") - [国鉄](../Page/日本国有鉄道.md "wikilink")[分割民営化に伴い九州旅客鉄道に継承](../Page/国鉄分割民営化.md "wikilink")
   - [1989年](../Page/1989年.md "wikilink")（[平成](../Page/平成.md "wikilink")元年）6月1日 - JR九州病院に改称
   - [2020年](../Page/2020年.md "wikilink")（[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")2年）4月1日 - 経営母体をJR九州から医療法人若葉会グループに移管予定\[1\]。
 
@@ -40,9 +40,9 @@
   - [大阪鉄道病院](../Page/大阪鉄道病院.md "wikilink")
   - [JR広島病院](../Page/JR広島病院.md "wikilink")
   - [JR札幌病院](../Page/JR札幌病院.md "wikilink")
-  - [JR東京総合病院](https://ja.wikipedia.org/wiki/JR東京総合病院 "wikilink")
+  - [JR東京総合病院](../Page/JR東京総合病院.md "wikilink")
   - [JR仙台病院](https://ja.wikipedia.org/wiki/JR仙台病院 "wikilink")
-  - [名古屋セントラル病院](https://ja.wikipedia.org/wiki/名古屋セントラル病院 "wikilink")
+  - [名古屋セントラル病院](../Page/名古屋セントラル病院.md "wikilink")
 
 ## 外部リンク
 

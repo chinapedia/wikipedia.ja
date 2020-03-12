@@ -1,7 +1,7 @@
 > この記事は[Distance](https://ja.wikipedia.org/wiki/Distance)から翻訳されています。
 
 
-「**恋人と呼べないDistance**」（こいびととよべないディスタンス）は[MANISH](https://ja.wikipedia.org/wiki/MANISH "wikilink")の1枚目のシングル。
+「**恋人と呼べないDistance**」（こいびととよべないディスタンス）は[MANISH](../Page/MANISH.md "wikilink")の1枚目のシングル。
 
 ## 内容
 
@@ -12,7 +12,7 @@
 
 1.  **恋人と呼べないDistance**
       -
-        作詞：[小田佳奈子](../Page/小田佳奈子.md "wikilink")・すみれ　作曲：すみれ　編曲：[明石昌夫](https://ja.wikipedia.org/wiki/明石昌夫 "wikilink")
+        作詞：[小田佳奈子](../Page/小田佳奈子.md "wikilink")・すみれ　作曲：すみれ　編曲：[明石昌夫](../Page/明石昌夫.md "wikilink")
 2.  **ロマン作戦Go\! and Go\!**
       -
         作詞：[大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")　作曲：西本麻里　編曲：明石昌夫

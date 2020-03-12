@@ -1,12 +1,12 @@
 > この記事は[Shalala ](https://ja.wikipedia.org/wiki/Shalala_)から翻訳されています。
 
 
-「**Shalala キボウの歌**」（シャララ キボウのうた）は、日本の音楽グループ[AAAの](https://ja.wikipedia.org/wiki/AAA_\(音楽グループ\) "wikilink")6枚目のシングル。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月23日](../Page/3月23日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+「**Shalala キボウの歌**」（シャララ キボウのうた）は、日本の音楽グループ[AAAの](../Page/AAA_\(音楽グループ\).md "wikilink")6枚目のシングル。[2006年](../Page/2006年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 
   - 前作「[ハレルヤ](../Page/ハレルヤ_\(AAAの曲\).md "wikilink")」から約1ヵ月ぶりの発売となる。
-  - 初回生産盤には「[REMIX ATTACK](https://ja.wikipedia.org/wiki/REMIX_ATTACK "wikilink")」のメンバー別CMそれぞれ収録されている。
+  - 初回生産盤には「[REMIX ATTACK](../Page/REMIX_ATTACK.md "wikilink")」のメンバー別CMそれぞれ収録されている。
 
 ## 収録内容
 

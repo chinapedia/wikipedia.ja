@@ -5,15 +5,15 @@
 
 ## 概要
 
-競輪情報を紹介することが番組の主たる目的だった。そのため、この番組は中国地方に属していて[競輪場](https://ja.wikipedia.org/wiki/競輪場 "wikilink")がある[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")と[山口県](../Page/山口県.md "wikilink")でも放送されていた。しかし、競輪情報に割いている時間は短く、番組の大半は**Kギャル**（下記参照）と呼ばれる[ローカルアイドル](../Page/ローカルアイドル.md "wikilink")グループを前面に押し出した内容になっていた。
+競輪情報を紹介することが番組の主たる目的だった。そのため、この番組は中国地方に属していて[競輪場](../Page/競輪場.md "wikilink")がある[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")と[山口県](../Page/山口県.md "wikilink")でも放送されていた。しかし、競輪情報に割いている時間は短く、番組の大半は**Kギャル**（下記参照）と呼ばれる[ローカルアイドル](../Page/ローカルアイドル.md "wikilink")グループを前面に押し出した内容になっていた。
 
 ## 出演者
 
 ### メイン
 
-  - [中野浩一](https://ja.wikipedia.org/wiki/中野浩一 "wikilink")
-  - [荒谷知穂](https://ja.wikipedia.org/wiki/荒谷知穂 "wikilink") - 出演当時広島ホームテレビアナウンサー。2003年4月 - 2005年3月に出演。
-  - [八木静佳](https://ja.wikipedia.org/wiki/八木静佳 "wikilink") - 広島ホームテレビアナウンサー時代の2005年4月 - 2006年3月に出演。出産のために降板・退社したが、2007年4月に復帰。
+  - [中野浩一](../Page/中野浩一.md "wikilink")
+  - [荒谷知穂](../Page/荒谷知穂.md "wikilink") - 出演当時広島ホームテレビアナウンサー。2003年4月 - 2005年3月に出演。
+  - [八木静佳](../Page/八木静佳.md "wikilink") - 広島ホームテレビアナウンサー時代の2005年4月 - 2006年3月に出演。出産のために降板・退社したが、2007年4月に復帰。
   - [奥村奈津美](../Page/奥村奈津美.md "wikilink") - 出演当時広島ホームテレビアナウンサー。2006年4月 - 2007年3月に出演。
 
 ### Kギャル
@@ -55,7 +55,7 @@
 <td><p><strong>製作局</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/岡山県・香川県の放送" title="wikilink">岡山県・香川県</a></p></td>
+<td><p><a href="../Page/岡山県・香川県の放送.md" title="wikilink">岡山県・香川県</a></p></td>
 <td><p><a href="../Page/瀬戸内海放送.md" title="wikilink">瀬戸内海放送</a> (KSB)</p></td>
 <td><p>日曜 1時35分 - 2時00分</p></td>
 <td></td>
@@ -75,15 +75,15 @@
 
 ## スポンサー
 
-  - [玉野競輪場](https://ja.wikipedia.org/wiki/玉野競輪場 "wikilink")（[玉野市](../Page/玉野市.md "wikilink")）
-  - [広島競輪場](https://ja.wikipedia.org/wiki/広島競輪場 "wikilink")（[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")[南区](../Page/南区_\(広島市\).md "wikilink")）
-  - [防府競輪場](https://ja.wikipedia.org/wiki/防府競輪場 "wikilink")（[防府市](../Page/防府市.md "wikilink")）
+  - [玉野競輪場](../Page/玉野競輪場.md "wikilink")（[玉野市](../Page/玉野市.md "wikilink")）
+  - [広島競輪場](../Page/広島競輪場.md "wikilink")（[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")[南区](../Page/南区_\(広島市\).md "wikilink")）
+  - [防府競輪場](../Page/防府競輪場.md "wikilink")（[防府市](../Page/防府市.md "wikilink")）
 
-※瀬戸内海放送は岡山・香川両県を放送区域としているが、中国地方に対象を限定しているため、[高松](https://ja.wikipedia.org/wiki/高松競輪場 "wikilink")・[観音寺両競輪場は除外](https://ja.wikipedia.org/wiki/観音寺競輪場 "wikilink")。
+※瀬戸内海放送は岡山・香川両県を放送区域としているが、中国地方に対象を限定しているため、[高松](../Page/高松競輪場.md "wikilink")・[観音寺両競輪場は除外](https://ja.wikipedia.org/wiki/観音寺競輪場 "wikilink")。
 
 ## 備考
 
-この番組では広島ホームテレビの男性アナウンサーがナレーションを務めていたが、かつてネット局の山口放送のアナウンサーだった[松藤好典](https://ja.wikipedia.org/wiki/松藤好典 "wikilink")が担当することがよくあった。
+この番組では広島ホームテレビの男性アナウンサーがナレーションを務めていたが、かつてネット局の山口放送のアナウンサーだった[松藤好典](../Page/松藤好典.md "wikilink")が担当することがよくあった。
 
 ## 脚注
 

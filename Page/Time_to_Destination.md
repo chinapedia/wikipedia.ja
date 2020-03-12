@@ -5,7 +5,7 @@
 
 ## 概要
 
-オリジナルアルバムとしては、前作の『[everlasting](https://ja.wikipedia.org/wiki/Everlasting_\(Every_Little_Thingのアルバム\) "wikilink")』から、約1年ぶりのリリース。このアルバムで前作に続いて、オリコンアルバムチャート1位を獲得した。 累計出荷枚数は400万枚以上を記録\[1\]。アルバム売上歴代11位にランクインした。 さらに、同年大晦日の[第40回日本レコード大賞](https://ja.wikipedia.org/wiki/第40回日本レコード大賞 "wikilink")で「ベストアルバム賞」、「アルバム大賞」を受賞した。
+オリジナルアルバムとしては、前作の『[everlasting](../Page/Everlasting_\(Every_Little_Thingのアルバム\).md "wikilink")』から、約1年ぶりのリリース。このアルバムで前作に続いて、オリコンアルバムチャート1位を獲得した。 累計出荷枚数は400万枚以上を記録\[1\]。アルバム売上歴代11位にランクインした。 さらに、同年大晦日の[第40回日本レコード大賞](https://ja.wikipedia.org/wiki/第40回日本レコード大賞 "wikilink")で「ベストアルバム賞」、「アルバム大賞」を受賞した。
 
 ## 収録曲
 
@@ -26,24 +26,24 @@
         オリジナルとは若干異なるアレンジが施されている。
 4.  **Old Dreams (Instrumental)**
       -
-        [インスト](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")。
-        [バッハの](../Page/ヨハン・ゼバスティアン・バッハ.md "wikilink")「[G線上のアリア](https://ja.wikipedia.org/wiki/G線上のアリア "wikilink")」にインスパイアされている。
+        [インスト](../Page/器楽曲.md "wikilink")。
+        [バッハの](../Page/ヨハン・ゼバスティアン・バッハ.md "wikilink")「[G線上のアリア](../Page/G線上のアリア.md "wikilink")」にインスパイアされている。
 5.  **モノクローム**
 6.  **All along**
     （作詞：[持田香織](https://ja.wikipedia.org/wiki/持田香織 "wikilink")、五十嵐充）
       -
         森永製菓「ICE BOX」CMソング
 7.  **Hometown**
-8.  **[出逢った頃のように](https://ja.wikipedia.org/wiki/出逢った頃のように "wikilink")**
+8.  **[出逢った頃のように](../Page/出逢った頃のように.md "wikilink")**
       -
         5thシングル。
         森永製菓「ICE BOX」CMソング
 9.  **[Shapes Of Love](https://ja.wikipedia.org/wiki/Shapes_Of_Love/Never_Stop! "wikilink")**
       -
         6thシングル。
-        [テレビ朝日](../Page/テレビ朝日.md "wikilink")系 [月曜ドラマ・イン](https://ja.wikipedia.org/wiki/月曜ドラマ・イン "wikilink")「[研修医なな子](https://ja.wikipedia.org/wiki/研修医なな子 "wikilink")」主題歌
+        [テレビ朝日](../Page/テレビ朝日.md "wikilink")系 [月曜ドラマ・イン](../Page/月曜ドラマ・イン.md "wikilink")「[研修医なな子](../Page/研修医なな子.md "wikilink")」主題歌
 10. **True colors**
-11. **[Time goes by](https://ja.wikipedia.org/wiki/Time_goes_by "wikilink") (Orchestra Version)**
+11. **[Time goes by](../Page/Time_goes_by.md "wikilink") (Orchestra Version)**
     （ストリングスアレンジ：Jerremy Labbock）
       -
         8thシングルのアレンジ。
@@ -64,7 +64,7 @@
 ## 関連項目
 
   - [オリコンチャート\#オリコンアルバムの売上枚数ベスト20](https://ja.wikipedia.org/wiki/オリコンチャート#オリコンアルバムの売上枚数ベスト20 "wikilink")
-  - [1998年の音楽](https://ja.wikipedia.org/wiki/1998年の音楽 "wikilink")
+  - [1998年の音楽](../Page/1998年の音楽.md "wikilink")
 
 [Category:Every_Little_Thingのアルバム](https://ja.wikipedia.org/wiki/Category:Every_Little_Thingのアルバム "wikilink") [Category:1998年のアルバム](https://ja.wikipedia.org/wiki/Category:1998年のアルバム "wikilink") [Category:1998年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1998年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink")
 

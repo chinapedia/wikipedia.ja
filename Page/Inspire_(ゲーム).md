@@ -12,8 +12,8 @@
   - [2000年](../Page/2000年.md "wikilink")[11月24日](../Page/11月24日.md "wikilink") - 『かえで通り』
   - [2001年](../Page/2001年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink") - 『femme fatale（ファム ファタール)』
   - [2001年](../Page/2001年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink") - 『Pretty Crisis 2nd（プリティ・クライシス 2nd）』
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月17日](../Page/12月17日.md "wikilink") - 『対ノ日 -in the latter half of the 90’s-』
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月22日](../Page/12月22日.md "wikilink") - 『[エーデルヴァイス（Edelweiss）](https://ja.wikipedia.org/wiki/エーデルヴァイス_\(ゲーム\) "wikilink")』
+  - [2006年](../Page/2006年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink") - 『対ノ日 -in the latter half of the 90’s-』
+  - [2006年](../Page/2006年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink") - 『[エーデルヴァイス（Edelweiss）](https://ja.wikipedia.org/wiki/エーデルヴァイス_\(ゲーム\) "wikilink")』
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月17日](../Page/3月17日.md "wikilink") - 『Folklore -フォークロア-』
 
 <!-- end list -->

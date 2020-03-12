@@ -1,9 +1,9 @@
 > この記事は[Association for Computing Machinery](https://ja.wikipedia.org/wiki/Association_for_Computing_Machinery)から翻訳されています。
 
 
-**Association for Computing Machinery** (**ACM**) は、[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")に本部のある[コンピュータ科学](https://ja.wikipedia.org/wiki/コンピュータ科学 "wikilink")分野の国際[学会](../Page/学会.md "wikilink")。[1947年](../Page/1947年.md "wikilink")設立。[IEEE](../Page/IEEE.md "wikilink")とともに、この分野で最も影響力の強い学会であり、IEEEがその名と由来や歴史からエレクトロニクスや通信分野の工学に強いのに対し、[数学](../Page/数学.md "wikilink")的な[理論計算機科学](https://ja.wikipedia.org/wiki/理論計算機科学 "wikilink")のような分野もカバーする。日本語に訳して「計算機械学会」とされることもあるが、こんにちこの訳語が用いられることはほとんどなく、通常は単に"ACM"という略称で呼ばれるのがもっぱらである。ACMの「A」は Association (学会、団体) の頭文字であるが、[アメリカ数学会 (AMS)](https://ja.wikipedia.org/wiki/アメリカ数学会 "wikilink") と混同して「米国計算機学会」と誤訳されることがある。
+**Association for Computing Machinery** (**ACM**) は、[ニューヨーク](../Page/ニューヨーク.md "wikilink")に本部のある[コンピュータ科学](https://ja.wikipedia.org/wiki/コンピュータ科学 "wikilink")分野の国際[学会](../Page/学会.md "wikilink")。[1947年](../Page/1947年.md "wikilink")設立。[IEEE](../Page/IEEE.md "wikilink")とともに、この分野で最も影響力の強い学会であり、IEEEがその名と由来や歴史からエレクトロニクスや通信分野の工学に強いのに対し、[数学](../Page/数学.md "wikilink")的な[理論計算機科学](../Page/理論計算機科学.md "wikilink")のような分野もカバーする。日本語に訳して「計算機械学会」とされることもあるが、こんにちこの訳語が用いられることはほとんどなく、通常は単に"ACM"という略称で呼ばれるのがもっぱらである。ACMの「A」は Association (学会、団体) の頭文字であるが、[アメリカ数学会 (AMS)](../Page/アメリカ数学会.md "wikilink") と混同して「米国計算機学会」と誤訳されることがある。
 
-数多くの国際会議を開催しており、人目を惹くデモ映像の[SIGGRAPH](https://ja.wikipedia.org/wiki/SIGGRAPH "wikilink")や[SIGMODなどはよく知られている](https://ja.wikipedia.org/wiki/Special_Interest_Group_on_Management_of_Data "wikilink")。他の多くの学会と同様にすぐれた業績などへの表彰もおこなっているが、[チューリング賞](../Page/チューリング賞.md "wikilink")は、特にこの分野の最高の賞とみなされており、物理や化学といった分野における[ノーベル賞](../Page/ノーベル賞.md "wikilink")に匹敵するものと扱われることもある（他の賞についても時折「～のノーベル賞」といったような表現が使われることがあるが、この分野の全てを対象とした世界トップクラスの賞という位置づけにあるのはチューリング賞をおいて他にない）。
+数多くの国際会議を開催しており、人目を惹くデモ映像の[SIGGRAPH](../Page/SIGGRAPH.md "wikilink")や[SIGMODなどはよく知られている](https://ja.wikipedia.org/wiki/Special_Interest_Group_on_Management_of_Data "wikilink")。他の多くの学会と同様にすぐれた業績などへの表彰もおこなっているが、[チューリング賞](../Page/チューリング賞.md "wikilink")は、特にこの分野の最高の賞とみなされており、物理や化学といった分野における[ノーベル賞](../Page/ノーベル賞.md "wikilink")に匹敵するものと扱われることもある（他の賞についても時折「～のノーベル賞」といったような表現が使われることがあるが、この分野の全てを対象とした世界トップクラスの賞という位置づけにあるのはチューリング賞をおいて他にない）。
 
 ## チューリング賞
 
@@ -13,22 +13,22 @@
 
   - インフォシス賞 (ACM - Infosys Foundation Award in the Computing Sciences) : 若手研究者やシステム開発者のすぐれた業績に対し贈られる。受賞者には[インフォシス財団の寄付により](https://ja.wikipedia.org/wiki/インフォシス・テクノロジーズ "wikilink")15万ドルの賞金が贈られる。
     [ソフトウェアシステム賞](https://ja.wikipedia.org/wiki/ACMソフトウェアシステム賞 "wikilink") (Software System Award) : 優れた[ソフトウェア](../Page/ソフトウェア.md "wikilink")システムの開発者・開発団体に贈られる。
-    [グレース・ホッパー賞](https://ja.wikipedia.org/wiki/グレース・ホッパー賞 "wikilink") (Grace Murray Hopper Award) : 35歳以下の若手研究者の単一の業績に対し贈られる。賞金は3万5千ドル。賞の名称は[プログラミング言語](../Page/プログラミング言語.md "wikilink")[COBOL](https://ja.wikipedia.org/wiki/COBOL "wikilink")開発者の一人[グレース・ホッパー](https://ja.wikipedia.org/wiki/グレース・ホッパー "wikilink")の名にちなむ。
-    アレン・ニューウェル賞 (ACM/AAAI Allen Newell Award) : 計算機科学分野で優れた功績を残した個人に1万ドルの賞金と共に贈られる。 [AAAI](https://ja.wikipedia.org/wiki/アメリカ人工知能学会 "wikilink") (アメリカ人工知能学会) との共同事業である。賞の名称は[人工知能](../Page/人工知能.md "wikilink")研究の第一人者[アレン・ニューウェル](https://ja.wikipedia.org/wiki/アレン・ニューウェル "wikilink")の名にちなむ。
-    パリス・カネラキス実践的理論賞 (Paris Kanellakis Theory and Practice Award) : 計算機に実践的な影響を与えたすぐれた理論に対して与えられる。賞金は5000ドルであり、賞の名称ともなった[データベース](../Page/データベース.md "wikilink")研究者パリス・カネラキスの遺族やいくつかの[SIGの寄付による](https://ja.wikipedia.org/wiki/Special_Interest_Group "wikilink")。
+    [グレース・ホッパー賞](https://ja.wikipedia.org/wiki/グレース・ホッパー賞 "wikilink") (Grace Murray Hopper Award) : 35歳以下の若手研究者の単一の業績に対し贈られる。賞金は3万5千ドル。賞の名称は[プログラミング言語](../Page/プログラミング言語.md "wikilink")[COBOL](../Page/COBOL.md "wikilink")開発者の一人[グレース・ホッパー](../Page/グレース・ホッパー.md "wikilink")の名にちなむ。
+    アレン・ニューウェル賞 (ACM/AAAI Allen Newell Award) : 計算機科学分野で優れた功績を残した個人に1万ドルの賞金と共に贈られる。 [AAAI](../Page/アメリカ人工知能学会.md "wikilink") (アメリカ人工知能学会) との共同事業である。賞の名称は[人工知能](../Page/人工知能.md "wikilink")研究の第一人者[アレン・ニューウェル](../Page/アレン・ニューウェル.md "wikilink")の名にちなむ。
+    パリス・カネラキス実践的理論賞 (Paris Kanellakis Theory and Practice Award) : 計算機に実践的な影響を与えたすぐれた理論に対して与えられる。賞金は5000ドルであり、賞の名称ともなった[データベース](../Page/データベース.md "wikilink")研究者パリス・カネラキスの遺族やいくつかの[SIGの寄付による](../Page/Special_Interest_Group.md "wikilink")。
     カール・カールストローム教育賞 (Karl V. Karlstrom Outstanding Educator Award) : [計算機科学分野の教育に多大な貢献をしたものに贈られる](https://ja.wikipedia.org/wiki/計算機科学教育 "wikilink")。賞金は5000ドル。
     (Eugene L. Lawler Award) : 計算機科学者による人道的貢献に対して2年に一度与えられる。
     博士論文賞 (Doctoral Dissertation Award) : すぐれた博士論文に対し贈られる。
     ACM貢献賞 (Outstanding Contribution to ACM Award) : ACMの活動に対し優れた貢献した人に対して与えられる。
-    [エッカート・モークリー賞](https://ja.wikipedia.org/wiki/エッカート・モークリー賞 "wikilink") (Eckert-Mauchly Award) : すぐれた[コンピュータ・アーキテクチャ](../Page/コンピュータ・アーキテクチャ.md "wikilink")に対して5000ドルの賞金と共に贈られる。 [IEEE Computer Societyとの共同事業である](https://ja.wikipedia.org/wiki/IEEE_Computer_Society "wikilink")。賞の名称は、[ENIAC](https://ja.wikipedia.org/wiki/ENIAC "wikilink")開発者である[ジョン・プレスパー・エッカート](https://ja.wikipedia.org/wiki/ジョン・プレスパー・エッカート "wikilink")と[ジョン・モークリー](https://ja.wikipedia.org/wiki/ジョン・モークリー "wikilink")の名にちなむ。
+    [エッカート・モークリー賞](https://ja.wikipedia.org/wiki/エッカート・モークリー賞 "wikilink") (Eckert-Mauchly Award) : すぐれた[コンピュータ・アーキテクチャ](../Page/コンピュータ・アーキテクチャ.md "wikilink")に対して5000ドルの賞金と共に贈られる。 [IEEE Computer Societyとの共同事業である](../Page/IEEE_Computer_Society.md "wikilink")。賞の名称は、[ENIAC](../Page/ENIAC.md "wikilink")開発者である[ジョン・プレスパー・エッカート](../Page/ジョン・プレスパー・エッカート.md "wikilink")と[ジョン・モークリー](../Page/ジョン・モークリー.md "wikilink")の名にちなむ。
     SIAM/ACM 計算機科学賞 (SIAM/ACM Prize in Computational Science and Engineering)
     SIMA (アメリカ応用数理学会) との共同事業である。計算機科学分野において優れた功績をあげた個人に贈られる。
 
-  - [ゴードン・ベル賞](https://ja.wikipedia.org/wiki/ゴードン・ベル賞 "wikilink") (Gordon Bell Prize) : [高性能計算](https://ja.wikipedia.org/wiki/高性能計算 "wikilink") (HPC) 分野の優れた性能の達成に対し与えられる。IEEE Computer Societyとの共同事業。
+  - [ゴードン・ベル賞](../Page/ゴードン・ベル賞.md "wikilink") (Gordon Bell Prize) : [高性能計算](../Page/高性能計算.md "wikilink") (HPC) 分野の優れた性能の達成に対し与えられる。IEEE Computer Societyとの共同事業。
 
 ## SIG (Special Interest Group)
 
-ACMでは具体的な研究分野ごとに[SIG](https://ja.wikipedia.org/wiki/Special_Interest_Group "wikilink") (Special Interest Group) と呼ぶ分科会を形成している．各SIGでは分野ごとの国際会議やワークショップの開催，論文誌の編集等を行っている．2007年現在，34のSIGが存在する．
+ACMでは具体的な研究分野ごとに[SIG](../Page/Special_Interest_Group.md "wikilink") (Special Interest Group) と呼ぶ分科会を形成している．各SIGでは分野ごとの国際会議やワークショップの開催，論文誌の編集等を行っている．2007年現在，34のSIGが存在する．
 
   - [SIGACCESS](https://ja.wikipedia.org/wiki/SIGACCESS "wikilink") (Accessibility and Computing)
   - [SIGACT](https://ja.wikipedia.org/wiki/SIGACT "wikilink") (Algorithms and Computation Theory)
@@ -46,7 +46,7 @@ ACMでは具体的な研究分野ごとに[SIG](https://ja.wikipedia.org/wiki/Sp
   - [SIGDOC](https://ja.wikipedia.org/wiki/SIGDOC "wikilink") (Design of Communication)
   - [SIGecom](https://ja.wikipedia.org/wiki/SIGecom "wikilink") (Electronic Commerce)
   - [SIGEVO](https://ja.wikipedia.org/wiki/SIGEVO "wikilink") (Genetic and Evolutionary Computation)
-  - [SIGGRAPH](https://ja.wikipedia.org/wiki/SIGGRAPH "wikilink") (Computer Graphics and Interactive Techniques) - [コンピュータグラフィックス](../Page/コンピュータグラフィックス.md "wikilink")
+  - [SIGGRAPH](../Page/SIGGRAPH.md "wikilink") (Computer Graphics and Interactive Techniques) - [コンピュータグラフィックス](../Page/コンピュータグラフィックス.md "wikilink")
   - [SIGHPC](https://ja.wikipedia.org/wiki/SIGHPC "wikilink") (High Performance Computing)
   - [SIGIR](https://ja.wikipedia.org/wiki/SIGIR "wikilink") (Information Retrieval)
   - [SIGITE](https://ja.wikipedia.org/wiki/SIGITE "wikilink") (Information Technology Education)
@@ -68,7 +68,7 @@ ACMでは具体的な研究分野ごとに[SIG](https://ja.wikipedia.org/wiki/Sp
 
 ## 関連項目
 
-  - [ACM国際大学対抗プログラミングコンテスト](https://ja.wikipedia.org/wiki/ACM国際大学対抗プログラミングコンテスト "wikilink")
+  - [ACM国際大学対抗プログラミングコンテスト](../Page/ACM国際大学対抗プログラミングコンテスト.md "wikilink")
 
 ## 外部リンク
 

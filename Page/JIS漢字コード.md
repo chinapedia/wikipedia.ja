@@ -1,18 +1,18 @@
 > この記事は[JIS](https://ja.wikipedia.org/wiki/JIS)から翻訳されています。
 
 
-**JIS漢字コード**（ジスかんじコード）は、[日本産業規格](../Page/日本産業規格.md "wikilink")（JIS）に収録されている、[漢字](../Page/漢字.md "wikilink")などの[文字コード](../Page/文字コード.md "wikilink")である。「漢字コード」という名称ではあるが、漢字に限定した文脈でなければ、[非漢字](https://ja.wikipedia.org/wiki/JIS_X_0213非漢字一覧 "wikilink")、すなわち漢字以外の[マルチバイト文字](https://ja.wikipedia.org/wiki/マルチバイト文字 "wikilink")（いわゆる全角文字）をも含むことが多い。
+**JIS漢字コード**（ジスかんじコード）は、[日本産業規格](../Page/日本産業規格.md "wikilink")（JIS）に収録されている、[漢字](../Page/漢字.md "wikilink")などの[文字コード](../Page/文字コード.md "wikilink")である。「漢字コード」という名称ではあるが、漢字に限定した文脈でなければ、[非漢字](https://ja.wikipedia.org/wiki/JIS_X_0213非漢字一覧 "wikilink")、すなわち漢字以外の[マルチバイト文字](../Page/マルチバイト文字.md "wikilink")（いわゆる全角文字）をも含むことが多い。
 
-通常は[ベンダー](https://ja.wikipedia.org/wiki/ベンダー "wikilink")（発売元）制定の[漢字コード](https://ja.wikipedia.org/wiki/漢字コード "wikilink")や[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")・[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")で制定された漢字コードに対してJISとして制定された漢字コードを指すときに用いられる。文脈によっては広義のJIS漢字コードには含まれるが、[JIS X 0208](../Page/JIS_X_0208.md "wikilink"):1997において初めて正式に規格に取り入れられた「[Shift_JIS](../Page/Shift_JIS.md "wikilink")コード」に対する「JISコード」を指すこともある。
+通常は[ベンダー](https://ja.wikipedia.org/wiki/ベンダー "wikilink")（発売元）制定の[漢字コード](https://ja.wikipedia.org/wiki/漢字コード "wikilink")や[中国](../Page/中国.md "wikilink")・[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")で制定された漢字コードに対してJISとして制定された漢字コードを指すときに用いられる。文脈によっては広義のJIS漢字コードには含まれるが、[JIS X 0208](../Page/JIS_X_0208.md "wikilink"):1997において初めて正式に規格に取り入れられた「[Shift_JIS](../Page/Shift_JIS.md "wikilink")コード」に対する「JISコード」を指すこともある。
 
 日本産業規格において定められた漢字コードとしては、
 
   - [JIS X 0208](../Page/JIS_X_0208.md "wikilink") - 非漢字、第1・第2水準漢字
   - [JIS X 0212](../Page/JIS_X_0212.md "wikilink") - 非漢字 (0208と重ならず)、補助漢字（0208と重ならず）
   - [JIS X 0213](../Page/JIS_X_0213.md "wikilink") - 非漢字（0208を包含）、第1・第2水準漢字（0208と同じ）、第3・第4水準漢字
-  - [JIS X 0221](https://ja.wikipedia.org/wiki/JIS_X_0221 "wikilink") - 国際符号化文字集合（[Unicode](../Page/Unicode.md "wikilink")、0208・0212・0213の文字を全て含む）
+  - [JIS X 0221](../Page/JIS_X_0221.md "wikilink") - 国際符号化文字集合（[Unicode](../Page/Unicode.md "wikilink")、0208・0212・0213の文字を全て含む）
 
-がある。ただしこのうちJIS X 0221は、[国際規格](https://ja.wikipedia.org/wiki/国際規格 "wikilink")である[ISO/IEC 10646](https://ja.wikipedia.org/wiki/ISO/IEC_10646 "wikilink")（Unicode）の翻訳にすぎないため、JIS漢字からは除外される。
+がある。ただしこのうちJIS X 0221は、[国際規格](../Page/国際規格.md "wikilink")である[ISO/IEC 10646](https://ja.wikipedia.org/wiki/ISO/IEC_10646 "wikilink")（Unicode）の翻訳にすぎないため、JIS漢字からは除外される。
 
 それ以外は、制定（または改正）された年によって次のような通称で呼ばれることもある。
 
@@ -21,7 +21,7 @@
   - 90JISまたはJIS90：[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に制定されたJIS X 0208:1990（同時に制定された補助漢字の規格であるJIS X 0212:1990を含める場合もある）
   - 97JISまたはJIS97：[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に制定されたJIS X 0208:1997
   - 2000JISまたはJIS2000：[2000年](../Page/2000年.md "wikilink")に制定されたJIS X 0213:2000
-  - 2004JISまたはJIS2004：[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")に制定されたJIS X 0213:2004
+  - 2004JISまたはJIS2004：[2004年](../Page/2004年.md "wikilink")に制定されたJIS X 0213:2004
 
 JIS X 0208及びJIS X 0213の各年版ごとの収録文字数はそれぞれ以下の通りである。
 
@@ -32,7 +32,7 @@ JIS X 0208及びJIS X 0213の各年版ごとの収録文字数はそれぞれ以
 | [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink") | 3,390字 | 6,879字  |        |         |      |        |
 | [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") |        |         |        |         |      |        |
 | [2000年](../Page/2000年.md "wikilink")                    | 1,249字 | 2,436字  | 1,183字 | 11,223字 |      |        |
-| [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink") | 1,259字 | 11,233字 |        |         |      |        |
+| [2004年](../Page/2004年.md "wikilink")                    | 1,259字 | 11,233字 |        |         |      |        |
 
 異同について
 
@@ -40,7 +40,7 @@ JIS X 0208及びJIS X 0213の各年版ごとの収録文字数はそれぞれ以
 \==関連項目==
 
   - [常用漢字](../Page/常用漢字.md "wikilink")
-  - [人名用漢字](https://ja.wikipedia.org/wiki/人名用漢字 "wikilink")
+  - [人名用漢字](../Page/人名用漢字.md "wikilink")
   - [表外漢字字体表](https://ja.wikipedia.org/wiki/表外漢字字体表 "wikilink")（[印刷標準字体](https://ja.wikipedia.org/wiki/印刷標準字体 "wikilink")） - [表外漢字字体表の漢字一覧](https://ja.wikipedia.org/wiki/表外漢字字体表の漢字一覧 "wikilink")
 
 ## 外部リンク

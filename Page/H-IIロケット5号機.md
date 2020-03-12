@@ -40,16 +40,16 @@
 
 ### H-IIおよびH-IIAロケット
 
-以後打ち上げる予定であった7号機については、LE-5Aエンジンのより精密な非破壊検査を行い、ろう付け部の欠陥が無いことを確認した上で使用することになった。また、[H-IIロケット8号機](../Page/H-IIロケット8号機.md "wikilink")は[H-IIAロケット](https://ja.wikipedia.org/wiki/H-IIAロケット "wikilink")と同じ[LE-5B](https://ja.wikipedia.org/wiki/LE-5B "wikilink")エンジンを使用しており、構造が異なるため同部位では同様な事故は起こらないが、他のろう付け部分に関しての検査を行うことになった。
+以後打ち上げる予定であった7号機については、LE-5Aエンジンのより精密な非破壊検査を行い、ろう付け部の欠陥が無いことを確認した上で使用することになった。また、[H-IIロケット8号機](../Page/H-IIロケット8号機.md "wikilink")は[H-IIAロケット](../Page/H-IIAロケット.md "wikilink")と同じ[LE-5B](../Page/LE-5B.md "wikilink")エンジンを使用しており、構造が異なるため同部位では同様な事故は起こらないが、他のろう付け部分に関しての検査を行うことになった。
 
-打ち上げは8号機が先に行われたが、5号機と異なる部位（一段の[LE-7](https://ja.wikipedia.org/wiki/LE-7 "wikilink")）の不具合による指令破壊になったため、成果を発揮する前にその役目を終えた。また、5号機と8号機の連続失敗を受けて7号機の打ち上げは中止された。
+打ち上げは8号機が先に行われたが、5号機と異なる部位（一段の[LE-7](../Page/LE-7.md "wikilink")）の不具合による指令破壊になったため、成果を発揮する前にその役目を終えた。また、5号機と8号機の連続失敗を受けて7号機の打ち上げは中止された。
 
 ## 関連記事
 
   - [宇宙開発事業団](../Page/宇宙開発事業団.md "wikilink")
   - [H-IIロケット](../Page/H-IIロケット.md "wikilink")
   - [H-IIロケット8号機](../Page/H-IIロケット8号機.md "wikilink")
-  - [H-IIAロケット6号機](https://ja.wikipedia.org/wiki/H-IIAロケット6号機 "wikilink")
+  - [H-IIAロケット6号機](../Page/H-IIAロケット6号機.md "wikilink")
   - [ロケット](../Page/ロケット.md "wikilink")
   - [宇宙開発](https://ja.wikipedia.org/wiki/宇宙開発 "wikilink")
 

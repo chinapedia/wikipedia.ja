@@ -1,7 +1,7 @@
 > この記事は[VELVET GARDEN](https://ja.wikipedia.org/wiki/VELVET_GARDEN)から翻訳されています。
 
 
-**VELVET GARDEN**（ベルベットガーデン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の二人組み[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")。[ポリドール・レコード](https://ja.wikipedia.org/wiki/ポリドール・レコード "wikilink")所属。
+**VELVET GARDEN**（ベルベットガーデン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の二人組み[音楽ユニット](../Page/音楽ユニット.md "wikilink")。[ポリドール・レコード](../Page/ポリドール・レコード.md "wikilink")所属。
 
 ## 来歴
 
@@ -25,10 +25,10 @@
 <td></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ボーカル" title="wikilink">ボーカル</a><br />
-<a href="https://ja.wikipedia.org/wiki/作詞" title="wikilink">作詞</a></p></td>
+<a href="../Page/作詞.md" title="wikilink">作詞</a></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/川添智久" title="wikilink">川添智久</a></strong><br />
+<td><p><strong><a href="../Page/川添智久.md" title="wikilink">川添智久</a></strong><br />
 <small>（かわぞえ ともひさ）</small></p></td>
 <td></td>
 <td><p><a href="../Page/宮崎県.md" title="wikilink">宮崎県</a><a href="https://ja.wikipedia.org/wiki/宮崎市" title="wikilink">宮崎市</a></p></td>
@@ -41,24 +41,24 @@
 
 ### シングル
 
-| \#                                                                            | 発売日                                                                                           | タイトル                                                              | カップリング    | [規格品番](https://ja.wikipedia.org/wiki/規格品番 "wikilink") | [オリコン最高位](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink") |
-| ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | --------- | ----------------------------------------------------- | ------------------------------------------------------------ |
-| [ポリドール・レコード](https://ja.wikipedia.org/wiki/ポリドール・レコード "wikilink") / Primitive |                                                                                               |                                                                   |           |                                                       |                                                              |
-| 1st                                                                           | [1996年](../Page/1996年.md "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink") | **[Feel Your Heart](../Page/Feel_Your_Heart.md "wikilink")**      | 夢をとめないでいて | PODH-1329                                             | 26位                                                          |
-| 2nd                                                                           | [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月12日](../Page/3月12日.md "wikilink")   | **[ねぇ いいでしょ](https://ja.wikipedia.org/wiki/ねぇ_いいでしょ "wikilink")** | Fake Kiss | PODH-1350                                             | 圏外                                                           |
-| 3rd                                                                           | [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[6月11日](../Page/6月11日.md "wikilink")   | **[プライドになるよ](https://ja.wikipedia.org/wiki/プライドになるよ "wikilink")** | Come Back | PODH-1364                                             | 圏外                                                           |
-| 4th                                                                           | [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月29日](../Page/4月29日.md "wikilink")   | **白夜の空、約束の大地**                                                    | サヨナラの言い訳  | PODH-1404                                             | 圏外                                                           |
-| 5th                                                                           | [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[7月1日](../Page/7月1日.md "wikilink")     | **扉 開けたくて**                                                       | 思い        | PODH-1420                                             | 圏外                                                           |
+| \#                                                         | 発売日                                                                                           | タイトル                                                              | カップリング    | [規格品番](../Page/規格品番.md "wikilink") | [オリコン最高位](../Page/オリコンチャート.md "wikilink") |
+| ---------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | --------- | ---------------------------------- | ----------------------------------------- |
+| [ポリドール・レコード](../Page/ポリドール・レコード.md "wikilink") / Primitive |                                                                                               |                                                                   |           |                                    |                                           |
+| 1st                                                        | [1996年](../Page/1996年.md "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink") | **[Feel Your Heart](../Page/Feel_Your_Heart.md "wikilink")**      | 夢をとめないでいて | PODH-1329                          | 26位                                       |
+| 2nd                                                        | [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月12日](../Page/3月12日.md "wikilink")   | **[ねぇ いいでしょ](https://ja.wikipedia.org/wiki/ねぇ_いいでしょ "wikilink")** | Fake Kiss | PODH-1350                          | 圏外                                        |
+| 3rd                                                        | [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[6月11日](../Page/6月11日.md "wikilink")   | **[プライドになるよ](https://ja.wikipedia.org/wiki/プライドになるよ "wikilink")** | Come Back | PODH-1364                          | 圏外                                        |
+| 4th                                                        | [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月29日](../Page/4月29日.md "wikilink")   | **白夜の空、約束の大地**                                                    | サヨナラの言い訳  | PODH-1404                          | 圏外                                        |
+| 5th                                                        | [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[7月1日](../Page/7月1日.md "wikilink")     | **扉 開けたくて**                                                       | 思い        | PODH-1420                          | 圏外                                        |
 
 ### タイアップ曲
 
-| 楽曲                                                                                                                          | タイアップ                                                                                                                                                        | 収録作品                                                                |
-| --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- |
-| Feel Your Heart                                                                                                             | [YTV](../Page/讀賣テレビ放送.md "wikilink")/[NTV系TVアニメ](../Page/日本テレビ放送網.md "wikilink")『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")』オープニングテーマ | シングル「[Feel Your Heart](../Page/Feel_Your_Heart.md "wikilink")」      |
-| 夢をとめないでいて                                                                                                                   | YTV/NTV系TVアニメ『名探偵コナン』挿入歌                                                                                                                                     |                                                                     |
-| ねぇ いいでしょ                                                                                                                    | [TX系](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")『[開運\!なんでも鑑定団](../Page/開運!なんでも鑑定団.md "wikilink")』エンディングテーマ                                              | シングル「[ねぇ いいでしょ](https://ja.wikipedia.org/wiki/ねぇ_いいでしょ "wikilink")」 |
-| プライドになるよ                                                                                                                    | ジェットスリム CMソング                                                                                                                                                | シングル「[プライドになるよ](https://ja.wikipedia.org/wiki/プライドになるよ "wikilink")」 |
-| [TBS系](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")『[MAGA不思議](https://ja.wikipedia.org/wiki/マガ不思議 "wikilink")』エンディングテーマ |                                                                                                                                                              |                                                                     |
+| 楽曲                                                                                                       | タイアップ                                                                                                                                                        | 収録作品                                                                |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- |
+| Feel Your Heart                                                                                          | [YTV](../Page/讀賣テレビ放送.md "wikilink")/[NTV系TVアニメ](../Page/日本テレビ放送網.md "wikilink")『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")』オープニングテーマ | シングル「[Feel Your Heart](../Page/Feel_Your_Heart.md "wikilink")」      |
+| 夢をとめないでいて                                                                                                | YTV/NTV系TVアニメ『名探偵コナン』挿入歌                                                                                                                                     |                                                                     |
+| ねぇ いいでしょ                                                                                                 | [TX系](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")『[開運\!なんでも鑑定団](../Page/開運!なんでも鑑定団.md "wikilink")』エンディングテーマ                                              | シングル「[ねぇ いいでしょ](https://ja.wikipedia.org/wiki/ねぇ_いいでしょ "wikilink")」 |
+| プライドになるよ                                                                                                 | ジェットスリム CMソング                                                                                                                                                | シングル「[プライドになるよ](https://ja.wikipedia.org/wiki/プライドになるよ "wikilink")」 |
+| [TBS系](../Page/TBSテレビ.md "wikilink")『[MAGA不思議](https://ja.wikipedia.org/wiki/マガ不思議 "wikilink")』エンディングテーマ |                                                                                                                                                              |                                                                     |
 
 ## 外部リンク
 

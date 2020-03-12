@@ -7,19 +7,19 @@
 
   - 前作「[辿り着く場所／オキザリス](https://ja.wikipedia.org/wiki/辿り着く場所/オキザリス "wikilink")」から約半年ぶりのシングルリリース。
   - ハイカラとして初の、外部の[編曲者](https://ja.wikipedia.org/wiki/編曲者 "wikilink")が参加している。だが本作のみであり、これ以降は自主プロデュースである。
-  - このシングルからはまた以前の様にジャケットにロゴが描かれたり、文字種も『[傲音プログレッシヴ](https://ja.wikipedia.org/wiki/傲音プログレッシヴ "wikilink")』から『[参](../Page/参_\(アルバム\).md "wikilink")』まで同じだったが、本作から筆記体やゴシック体などになった。今までは全作詞･作曲･編曲:HIGH and MIGHTY COLOR名義だったが、今作から以下のように個人名が明記されるようになった。
+  - このシングルからはまた以前の様にジャケットにロゴが描かれたり、文字種も『[傲音プログレッシヴ](../Page/傲音プログレッシヴ.md "wikilink")』から『[参](../Page/参_\(アルバム\).md "wikilink")』まで同じだったが、本作から筆記体やゴシック体などになった。今までは全作詞･作曲･編曲:HIGH and MIGHTY COLOR名義だったが、今作から以下のように個人名が明記されるようになった。
 
 ## 収録曲
 
 1.  Dreams
       -
         作詞:マーキー&ユウスケ　作曲:HIGH and MIGHTY COLOR　編曲:[山口寛雄](https://ja.wikipedia.org/wiki/山口寛雄 "wikilink")、HIGH and MIGHTY COLOR
-        [MBS](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")・[TBS系アニメ](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")『[DARKER THAN BLACK -黒の契約者-](../Page/DARKER_THAN_BLACK_-黒の契約者-.md "wikilink")』のエンディングテーマ。
-        今まで主に[ラップ](../Page/ラップ.md "wikilink")や[コーラスなどに徹していたユウスケが](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、この曲ではマーキーとの[デュエット](https://ja.wikipedia.org/wiki/デュエット "wikilink")を披露している。
-        [PV内で](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、ボーカルのマーキーがスタイリストによって髪型をセットされている、また散髪するシーンがあり、ドラムのSASSYは[ドラムセット](../Page/ドラムセット.md "wikilink")がない状況でスティックだけを使って演奏するシーンがある。
+        [MBS](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")・[TBS系アニメ](../Page/TBSテレビ.md "wikilink")『[DARKER THAN BLACK -黒の契約者-](../Page/DARKER_THAN_BLACK_-黒の契約者-.md "wikilink")』のエンディングテーマ。
+        今まで主に[ラップ](../Page/ラップ.md "wikilink")や[コーラスなどに徹していたユウスケが](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、この曲ではマーキーとの[デュエット](../Page/デュエット.md "wikilink")を披露している。
+        [PV内で](../Page/ミュージック・ビデオ.md "wikilink")、ボーカルのマーキーがスタイリストによって髪型をセットされている、また散髪するシーンがあり、ドラムのSASSYは[ドラムセット](../Page/ドラムセット.md "wikilink")がない状況でスティックだけを使って演奏するシーンがある。
 2.  Feel Like Dance
       -
-        作詞:マーキー&ユウスケ　作曲:HIGH and MIGHTY COLOR　編曲:[渡辺未来](https://ja.wikipedia.org/wiki/渡辺未来 "wikilink")、HIGH and MIGHTY COLOR
+        作詞:マーキー&ユウスケ　作曲:HIGH and MIGHTY COLOR　編曲:[渡辺未来](../Page/渡辺未来.md "wikilink")、HIGH and MIGHTY COLOR
         前曲とは対照的に、ユウスケはラップに徹している。
 3.  マッシュルーム
       -

@@ -1,15 +1,15 @@
 > この記事は[CRYSTAL CITY](https://ja.wikipedia.org/wiki/CRYSTAL_CITY)から翻訳されています。
 
 
-**CRYSTAL CITY**（クリスタル・シティー）は[1977年](../Page/1977年.md "wikilink")11月にリリースされた、[大橋純子](https://ja.wikipedia.org/wiki/大橋純子 "wikilink")の4作目のアルバムである。美乃家セントラル・ステイションと共に活動し、全国的に知名度が上がったため、学園祭などのステージ活動を行いながらという多忙な中でのレコーディングであったが、作家・メンバー・スタッフが前作とほぼ同じであったためスムーズに進み短期間で仕上げられた。
+**CRYSTAL CITY**（クリスタル・シティー）は[1977年](../Page/1977年.md "wikilink")11月にリリースされた、[大橋純子](../Page/大橋純子.md "wikilink")の4作目のアルバムである。美乃家セントラル・ステイションと共に活動し、全国的に知名度が上がったため、学園祭などのステージ活動を行いながらという多忙な中でのレコーディングであったが、作家・メンバー・スタッフが前作とほぼ同じであったためスムーズに進み短期間で仕上げられた。
 
 ## 収録曲
 
   - SIDE-A
-    1.クリスタル・シティー（詞：[竜真知子](https://ja.wikipedia.org/wiki/竜真知子 "wikilink")、作・編曲：[佐藤健](https://ja.wikipedia.org/wiki/佐藤健_\(作曲家\) "wikilink")）- 4：01
+    1.クリスタル・シティー（詞：[竜真知子](../Page/竜真知子.md "wikilink")、作・編曲：[佐藤健](https://ja.wikipedia.org/wiki/佐藤健_\(作曲家\) "wikilink")）- 4：01
       -
         Violin solo: H.Tamaki、Strings:T.Ohno group、Horn section(Saxophone:T.Muraoka、Trumpet:K.Hatun、Trombone:E.Arai)
-    2.霧に抱かれて（詞：[竜真知子](https://ja.wikipedia.org/wiki/竜真知子 "wikilink")、曲：[林哲司](https://ja.wikipedia.org/wiki/林哲司 "wikilink")、編曲：[萩田光雄](https://ja.wikipedia.org/wiki/萩田光雄 "wikilink")）- 4:10
+    2.霧に抱かれて（詞：[竜真知子](../Page/竜真知子.md "wikilink")、曲：[林哲司](../Page/林哲司.md "wikilink")、編曲：[萩田光雄](../Page/萩田光雄.md "wikilink")）- 4:10
       -
         E.Guitar solo:M.Tsuchiya、Arp odyssey:K.Sato、Chorus:Singers three、Strings:T.Ohno group
     3.FUNKY LITTLE QUEENIE（詞・作・編曲：[土屋昌巳](../Page/土屋昌巳.md "wikilink")）- 3:18
@@ -28,7 +28,7 @@
     1.アラビアン・ナイト（詞・作・編曲：[土屋昌巳](../Page/土屋昌巳.md "wikilink")）- 4:32
       -
         Marimba solo:I.Kanayama、Saxophone solo:T.Muraoka、Chorus:Tokyo Red snake gasshogan
-    2.夜のハイウェイ（詞：[山上路夫](https://ja.wikipedia.org/wiki/山上路夫 "wikilink")、曲：[梅垣達志](https://ja.wikipedia.org/wiki/梅垣達志 "wikilink")、編曲：萩田光雄）- 4:00
+    2.夜のハイウェイ（詞：[山上路夫](../Page/山上路夫.md "wikilink")、曲：[梅垣達志](https://ja.wikipedia.org/wiki/梅垣達志 "wikilink")、編曲：萩田光雄）- 4:00
       -
         Saxophone solo:Mr.Jake、Chorus:Singers three
     3.炎のヒロイン（詞：松本隆、作・編曲：[深町純](../Page/深町純.md "wikilink")）- 3:43

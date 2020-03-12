@@ -7,7 +7,7 @@
 
 ヴィジュアル系ロックバンド・[Janne Da Arcのヴォーカリスト](../Page/Janne_Da_Arc.md "wikilink")[yasu](https://ja.wikipedia.org/wiki/yasu "wikilink")のソロプロジェクトとして2007年始動。
 
-2007年5月より全国15ヵ所でシークレットライブを行った後、7月18日にシングル「[SPELL MAGIC](https://ja.wikipedia.org/wiki/SPELL_MAGIC "wikilink")」でデビュー。 現在までシングル19枚、オリジナルアルバム4枚、カバーアルバム4枚を発売し、オリジナル作品は全てオリコンTOP5入りを果たす。 2011年7月にABCデビュー4周年を記念し、Acid Black Cherry FREE LIVE 2011を開催。 東名阪3ヶ所で4万人を動員。応募総数は16万通を超える。
+2007年5月より全国15ヵ所でシークレットライブを行った後、7月18日にシングル「[SPELL MAGIC](../Page/SPELL_MAGIC.md "wikilink")」でデビュー。 現在までシングル19枚、オリジナルアルバム4枚、カバーアルバム4枚を発売し、オリジナル作品は全てオリコンTOP5入りを果たす。 2011年7月にABCデビュー4周年を記念し、Acid Black Cherry FREE LIVE 2011を開催。 東名阪3ヶ所で4万人を動員。応募総数は16万通を超える。
 
 2012年3月21日に発売した3枚目のアルバム「『２０１２』」では自身初のオリコンウィークリーチャート初登場1位を記録し、 20万枚を超えるヒット作品となる。 収録曲でもある15枚目のシングル「イエス」は2012 年USEN 年間 J-POP リクエストランキングで 1位を獲得し、youtubeの再生回数は980万回を超えるなど、ABCを一般層へと広げたきっかけの楽曲となった。
 
@@ -21,20 +21,20 @@
 
 最近では音楽誌のみならず、男性ファッション誌の表紙をかざったり、多数の女性誌でも特集が組まれており、男性ファンやカップル、さらには親子連れでのライブ会場に来場されるファンが格段に増えるなど幅広いファンを獲得する事にも成功している。
 
-「エロ」をコンセプトにしているが、生(性)と死、恋愛、犯罪、ファンタジーなど様々な世界観を持った歌詞がある。 音楽は激しい[ロック](../Page/ロック_\(音楽\).md "wikilink")、[ジャズ](../Page/ジャズ.md "wikilink")、ポップ、バラードなど、幅広い楽曲を揃えているのが特徴。 オリジナル楽曲（カバー、企画アルバム以外の楽曲）は全曲をyasuが作詞･作曲･編曲しており、キーボード＆プログラミング、曲によってギターのリフの考案等も手がける。 Janne Da Arc後期よりもヴィジュアル系を意識した濃いアイメイク・服装をしている。青や緑のカラコンも着用。 ライヴは[バンド形式で行っているが](../Page/バンド_\(音楽\).md "wikilink")、あくまでもソロプロジェクトとしている。サポートメンバーは流動的であり、レコーディング、[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")及びライブには、yasu自身が一番合うと思ったミュージシャンを選抜している。
+「エロ」をコンセプトにしているが、生(性)と死、恋愛、犯罪、ファンタジーなど様々な世界観を持った歌詞がある。 音楽は激しい[ロック](../Page/ロック_\(音楽\).md "wikilink")、[ジャズ](../Page/ジャズ.md "wikilink")、ポップ、バラードなど、幅広い楽曲を揃えているのが特徴。 オリジナル楽曲（カバー、企画アルバム以外の楽曲）は全曲をyasuが作詞･作曲･編曲しており、キーボード＆プログラミング、曲によってギターのリフの考案等も手がける。 Janne Da Arc後期よりもヴィジュアル系を意識した濃いアイメイク・服装をしている。青や緑のカラコンも着用。 ライヴは[バンド形式で行っているが](../Page/バンド_\(音楽\).md "wikilink")、あくまでもソロプロジェクトとしている。サポートメンバーは流動的であり、レコーディング、[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")及びライブには、yasu自身が一番合うと思ったミュージシャンを選抜している。
 
 公式ファンクラブは、[Janne Da ArcのFC](../Page/Janne_Da_Arc.md "wikilink")『マドモアゼルなあなた達』に含まれていたものの、Janne Da Arc解散によりファンクラブも解散となる。ファンクラブ解散後の再開設等についてはJanne Da Arc解散発表時点では不明である。
 
 ## 来歴
 
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")
+  - [2007年](../Page/2007年.md "wikilink")
       - 5月6日〜6月10日、全国15ヶ所でシークレットライブを行う。
 
 :: ファイナルとなった[新宿](../Page/新宿.md "wikilink")ステーションスクエアでのゲリラライブには約5000人が集まった。
 
 :: 「Black Cherry」と「SPELL MAGIC」の2曲でライブをやめるように警察から指示されたため中断。ネット中継もされていた。
 
-:\* 7月18日、1stシングル「**[SPELL MAGIC](https://ja.wikipedia.org/wiki/SPELL_MAGIC "wikilink")**」でメジャーデビュー。
+:\* 7月18日、1stシングル「**[SPELL MAGIC](../Page/SPELL_MAGIC.md "wikilink")**」でメジャーデビュー。
 
 :\* 7月15日〜7月21日、「東名阪フリーライブ」開催。
 
@@ -47,7 +47,7 @@
   -
 
       -
-        サポートメンバーが携わるバンド、[BREAKERZ](https://ja.wikipedia.org/wiki/BREAKERZ "wikilink")(AKIHIDE)、[Crack 6](https://ja.wikipedia.org/wiki/Crack_6 "wikilink")(千聖)、\[\[\]_Samurai_Dead_City|\] Samurai Dead City\]\](SHUSE)、[BULL ZEICHEN 88](../Page/BULL_ZEICHEN_88.md "wikilink")(淳士)が出演。
+        サポートメンバーが携わるバンド、[BREAKERZ](https://ja.wikipedia.org/wiki/BREAKERZ "wikilink")(AKIHIDE)、[Crack 6](../Page/Crack_6.md "wikilink")(千聖)、\[\[\]_Samurai_Dead_City|\] Samurai Dead City\]\](SHUSE)、[BULL ZEICHEN 88](../Page/BULL_ZEICHEN_88.md "wikilink")(淳士)が出演。
 
 <!-- end list -->
 
@@ -170,30 +170,30 @@
 
 #### ギター
 
-  - **[YUKI](https://ja.wikipedia.org/wiki/結城雅彦 "wikilink")** （from.[DUSTAR-3](https://ja.wikipedia.org/wiki/DUSTAR-3 "wikilink")、ex.[Λucifer](https://ja.wikipedia.org/wiki/Λucifer "wikilink"))
+  - **[YUKI](https://ja.wikipedia.org/wiki/結城雅彦 "wikilink")** （from.[DUSTAR-3](https://ja.wikipedia.org/wiki/DUSTAR-3 "wikilink")、ex.[Λucifer](../Page/Λucifer.md "wikilink"))
     Black Cherry、Bit Stupid、楽園、Murder Licence、DRAGON CARNIVAL、ジグソー、眠り姫、cord name【JUSTICE】、罪と罰〜神様のアリバイ〜、I'm not a ghost、黒い太陽、Maria、少女の祈りIII、ピストル、シャングリラ、リバース、CRISIS、in the Mirror、GLAMOROUS SKY、ふられ気分でRock'n'Roll、1/3の純情な感情、liar or LIAR?、エストエム、7 colors、眠れぬ夜、& you イエス、君がいない…あの日から。
   - **[AKIHIDE](https://ja.wikipedia.org/wiki/AKIHIDE "wikilink")** （from.[BREAKERZ](https://ja.wikipedia.org/wiki/BREAKERZ "wikilink")）
     愛してない、冬の幻、Prologue End、優しい嘘、Mother、1954 LOVE/HATE、Re:birth、君がいるから、ジグソー
-  - **HIRO** （from.[Libraian](https://ja.wikipedia.org/wiki/Libraian "wikilink")、ex.[La'cryma Christi](../Page/La'cryma_Christi.md "wikilink")）
+  - **HIRO** （from.[Libraian](../Page/Libraian.md "wikilink")、ex.[La'cryma Christi](../Page/La'cryma_Christi.md "wikilink")）
     蝶、イエス、指輪物語、その日が来るまで、so...Good night.、doomsday clock、Greed Greed Greed、黒猫 〜Adult Black Cat〜、君がいない、あの日から･･･、INCUBUS、Round & Round、L-エル-
-  - **[DAITA](https://ja.wikipedia.org/wiki/DAITA "wikilink")** (from.[SIAM SHADE](https://ja.wikipedia.org/wiki/SIAM_SHADE "wikilink"))
+  - **[DAITA](../Page/DAITA.md "wikilink")** (from.[SIAM SHADE](../Page/SIAM_SHADE.md "wikilink"))
     sins、少女の祈り、20+∞Century Boys
-  - **[SUGIZO](https://ja.wikipedia.org/wiki/SUGIZO "wikilink")** (from.[LUNA SEA](../Page/LUNA_SEA.md "wikilink")、[X JAPAN](../Page/X_JAPAN.md "wikilink"))
+  - **[SUGIZO](../Page/SUGIZO.md "wikilink")** (from.[LUNA SEA](../Page/LUNA_SEA.md "wikilink")、[X JAPAN](../Page/X_JAPAN.md "wikilink"))
     SPELL MAGIC、scar
-  - **[YOU](https://ja.wikipedia.org/wiki/足立祐二 "wikilink")** (from.[DEAD END](https://ja.wikipedia.org/wiki/DEAD_END_\(バンド\) "wikilink"))
+  - **[YOU](../Page/足立祐二.md "wikilink")** (from.[DEAD END](https://ja.wikipedia.org/wiki/DEAD_END_\(バンド\) "wikilink"))
     Fallin' Angel
   - **[Leda](https://ja.wikipedia.org/wiki/Leda_\(ギタリスト\) "wikilink")** (from.Far East Dizain、ex.[DELUHI](https://ja.wikipedia.org/wiki/DELUHI "wikilink")）
     versus G
-  - **[ROLLY](https://ja.wikipedia.org/wiki/ROLLY "wikilink")**
+  - **[ROLLY](../Page/ROLLY.md "wikilink")**
     & you
 
 #### ベース
 
   - **SHUSE** （from.[†яi¢к](https://ja.wikipedia.org/wiki/†яi¢к "wikilink")、ex.[La'cryma Christi](../Page/La'cryma_Christi.md "wikilink")）
     SPELL MAGIC、Black Cherry、愛してない、冬の幻、sins、少女の祈り、scar、Bit Stupid、楽園、Murder Licence、DRAGON CARNIVAL、Prologue End、眠り姫、20+∞Century Boys、Mother、罪と罰〜神様のアリバイ〜、黒い太陽、Re:birth、少女の祈りIII、ピストル、シャングリラ、CRISIS、イエス、Fallin' Angel、in the Mirror、その日が来るまで、so...Good night.、doomsday clock、リバースGLAMOROUS SKY、ふられ気分でRock'n'Roll、君がいない、あの日から･･･、Round & Round、liar or LIAR?、エストエム、L-エル-、7 colors、眠れぬ夜、& you
-  - **[Ikuo](https://ja.wikipedia.org/wiki/Ikuo "wikilink")** （from.[BULL ZEICHEN 88](../Page/BULL_ZEICHEN_88.md "wikilink")）
+  - **[Ikuo](../Page/Ikuo.md "wikilink")** （from.[BULL ZEICHEN 88](../Page/BULL_ZEICHEN_88.md "wikilink")）
     ジグソー、優しい嘘、cord name【JUSTICE】、1954 LOVE/HATE、I'm not a ghost、Maria、蝶、Greed Greed Greed、黒猫 〜Adult Black Cat〜、INCUBUS、versus G、Loves(デモのみ)
-  - **[RYO](https://ja.wikipedia.org/wiki/RYO "wikilink")** (from.[defspiral](https://ja.wikipedia.org/wiki/defspiral "wikilink"))
+  - **[RYO](../Page/RYO.md "wikilink")** (from.[defspiral](https://ja.wikipedia.org/wiki/defspiral "wikilink"))
     1/3の純情な感情、フライングゲット
 
 #### キーボード・ピアノ
@@ -202,7 +202,7 @@
     少女の祈り、罪と罰〜神様のアリバイ〜、異邦人、時の流れに身をまかせ
   - **[松下典由](https://ja.wikipedia.org/wiki/松下典由 "wikilink")**
     眠り姫
-  - **[三柴理](https://ja.wikipedia.org/wiki/三柴理 "wikilink")**
+  - **[三柴理](../Page/三柴理.md "wikilink")**
     sins、Prologue End
   - **ローズ高野(高野康弘)**
     黒猫 〜Adult Black Cat〜、Loves
@@ -213,9 +213,9 @@
 
 #### ドラムス
 
-  - **[淳士](https://ja.wikipedia.org/wiki/淳士 "wikilink")**（from.[SIAM SHADE](https://ja.wikipedia.org/wiki/SIAM_SHADE "wikilink")、[BULL ZEICHEN 88](../Page/BULL_ZEICHEN_88.md "wikilink")）
+  - **[淳士](../Page/淳士.md "wikilink")**（from.[SIAM SHADE](../Page/SIAM_SHADE.md "wikilink")、[BULL ZEICHEN 88](../Page/BULL_ZEICHEN_88.md "wikilink")）
     冬の幻、少女の祈り、Bit Stupid、Murder Licence、DRAGON CARNIVAL、Prologue End、眠り姫、罪と罰〜神様のアリバイ〜、ピストル、シャングリラ、イエス、in the Mirror、so...Good night.、doomsday clock、Greed Greed Greed、GLAMOROUS SKY、ふられ気分でRock'n'Roll、liar or LIAR?、エストエム、7 colors、眠れぬ夜、& you
-  - **[菅沼孝三](https://ja.wikipedia.org/wiki/菅沼孝三 "wikilink")**
+  - **[菅沼孝三](../Page/菅沼孝三.md "wikilink")**
     SPELL MAGIC、Black Cherry、愛してない、sins、scar、楽園、ジグソー、優しい嘘、20+∞Century Boys、cord name【JUSTICE】、1954 LOVE/HATE、I'm not a ghost、Maria、少女の祈りIII、蝶、CRISIS、Fallin' Angel、その日が来るまで、
   - **[MAKOTO](https://ja.wikipedia.org/wiki/MAKOTO "wikilink")**
     Mother、黒い太陽、Re:birth、1/3の純情な感情
@@ -224,14 +224,14 @@
 
 #### バンド
 
-  - **[FUZZY CONTROL](https://ja.wikipedia.org/wiki/FUZZY_CONTROL "wikilink")**
+  - **[FUZZY CONTROL](../Page/FUZZY_CONTROL.md "wikilink")**
     チェリーチェリー
-  - **[ピストルバルブ](https://ja.wikipedia.org/wiki/ピストルバルブ "wikilink")**
+  - **[ピストルバルブ](../Page/ピストルバルブ.md "wikilink")**
     Black Cherry
 
 #### ゲスト・ボーカル
 
-  - **[DAIGO](https://ja.wikipedia.org/wiki/DAIGO "wikilink")** （from.[BREAKERZ](https://ja.wikipedia.org/wiki/BREAKERZ "wikilink")）
+  - **[DAIGO](../Page/DAIGO.md "wikilink")** （from.[BREAKERZ](https://ja.wikipedia.org/wiki/BREAKERZ "wikilink")）
     大都会
   - **[KOTO](https://ja.wikipedia.org/wiki/KOTO "wikilink")**
     チェリーチェリー
@@ -240,11 +240,11 @@
 
 #### ギター
 
-  - **[YUKI](https://ja.wikipedia.org/wiki/結城雅彦 "wikilink")**（from.[DUSTAR-3](https://ja.wikipedia.org/wiki/DUSTAR-3 "wikilink")、ex.[Λucifer](https://ja.wikipedia.org/wiki/Λucifer "wikilink")）
+  - **[YUKI](https://ja.wikipedia.org/wiki/結城雅彦 "wikilink")**（from.[DUSTAR-3](https://ja.wikipedia.org/wiki/DUSTAR-3 "wikilink")、ex.[Λucifer](../Page/Λucifer.md "wikilink")）
     ※「20+∞Century Boys」〜参加
-  - **HIRO**（from.[Libraian](https://ja.wikipedia.org/wiki/Libraian "wikilink")、ex.[La'cryma Christi](../Page/La'cryma_Christi.md "wikilink")）
+  - **HIRO**（from.[Libraian](../Page/Libraian.md "wikilink")、ex.[La'cryma Christi](../Page/La'cryma_Christi.md "wikilink")）
     ※「蝶」〜参加
-  - **[千聖](https://ja.wikipedia.org/wiki/千聖 "wikilink")**（from.[PENICILLIN](../Page/PENICILLIN.md "wikilink")）
+  - **[千聖](../Page/千聖.md "wikilink")**（from.[PENICILLIN](../Page/PENICILLIN.md "wikilink")）
     ※「SPELL MAGIC」〜「冬の幻」まで参加
   - **[AKIHIDE](https://ja.wikipedia.org/wiki/AKIHIDE "wikilink")**（from.[BREAKERZ](https://ja.wikipedia.org/wiki/BREAKERZ "wikilink")）
     ※「SPELL MAGIC」〜「シャングリラ」までと、配信シングル「君がいるから」参加
@@ -260,7 +260,7 @@
 
 #### ドラムス
 
-  - **[淳士](https://ja.wikipedia.org/wiki/淳士 "wikilink")**（from.[SIAM SHADE](https://ja.wikipedia.org/wiki/SIAM_SHADE "wikilink")、[BULL ZEICHEN 88](../Page/BULL_ZEICHEN_88.md "wikilink")）
+  - **[淳士](../Page/淳士.md "wikilink")**（from.[SIAM SHADE](../Page/SIAM_SHADE.md "wikilink")、[BULL ZEICHEN 88](../Page/BULL_ZEICHEN_88.md "wikilink")）
 
 #### 出演
 
@@ -281,21 +281,21 @@
 
 #### ギター
 
-  - **[YUKI](https://ja.wikipedia.org/wiki/結城雅彦 "wikilink")**（from.[DUSTAR-3](https://ja.wikipedia.org/wiki/DUSTAR-3 "wikilink")、ex.[Λucifer](https://ja.wikipedia.org/wiki/Λucifer "wikilink")）
+  - **[YUKI](https://ja.wikipedia.org/wiki/結城雅彦 "wikilink")**（from.[DUSTAR-3](https://ja.wikipedia.org/wiki/DUSTAR-3 "wikilink")、ex.[Λucifer](../Page/Λucifer.md "wikilink")）
     リードギター担当
     2007年5月のシークレットライブツアーより参加。ライブでは主にリードギターを担当
     2008年以降はほぼ全てのライブツアーに出演。
-  - **[HIRO](https://ja.wikipedia.org/wiki/HIRO_\(ギターリスト\) "wikilink")**（from.[Libraian](https://ja.wikipedia.org/wiki/Libraian "wikilink")、ex.La'cryma Christi）
+  - **[HIRO](../Page/HIRO_\(ギターリスト\).md "wikilink")**（from.[Libraian](../Page/Libraian.md "wikilink")、ex.La'cryma Christi）
     当初はリードギター、最近はリズムギター担当
     2010年のツアー「Re:birth」、及び2011年のツアー「The Sixth Sense」、同年の「a-nation 10th Anniversary for Life Charge & Go\!」、VAMPS主宰「HALLOWEEN PARTY 2011」に参加。 ギターのサポートメンバーで唯一リードギターとリズムギターの担当経験がある。
       - ※立ち位置は上手側にリードギター、下手側にリズムギターと配置されているが、下手側のギターリストがリードギターを担当する楽曲もある（「冬の幻」、「愛してない」など）。HIRO参加以降、HIROをリードギターとする楽曲が増え（「イエス」、「Greed Greed Greed」など）、最近は両奏者がリードギター、リズムギターを担当する形となっている。
   - **[AKIHIDE](https://ja.wikipedia.org/wiki/AKIHIDE "wikilink")**（from.[BREAKERZ](https://ja.wikipedia.org/wiki/BREAKERZ "wikilink")）
     リズムギター担当
     2007年5月のシークレットライブツアーより参加。ライブでは主にリズムギターやコーラスを担当。2011年後半からほとんど参加していない。2012年VAMPS主宰「HALLOWEEN PARTY 2012」で約2年ぶりに参加。
-  - **[千聖](https://ja.wikipedia.org/wiki/千聖 "wikilink")**（from.[PENICILLIN](../Page/PENICILLIN.md "wikilink")）
+  - **[千聖](../Page/千聖.md "wikilink")**（from.[PENICILLIN](../Page/PENICILLIN.md "wikilink")）
     リードギター担当
     2007年7月のフリーライブより参加。2007年いっぱいサポートを務め、2008年以降は参加していない。
-  - **[室姫深](https://ja.wikipedia.org/wiki/室姫深 "wikilink")**（ex.[DIE IN CRIES](https://ja.wikipedia.org/wiki/DIE_IN_CRIES "wikilink")、ex.[THE MAD CAPSULE MARKETS](https://ja.wikipedia.org/wiki/THE_MAD_CAPSULE_MARKETS "wikilink")）
+  - **[室姫深](https://ja.wikipedia.org/wiki/室姫深 "wikilink")**（ex.[DIE IN CRIES](../Page/DIE_IN_CRIES.md "wikilink")、ex.[THE MAD CAPSULE MARKETS](../Page/THE_MAD_CAPSULE_MARKETS.md "wikilink")）
     リズムギター担当
     2011年のフリーライブ「ABC Dream Cup」にて初参加。
   - **[Leda](https://ja.wikipedia.org/wiki/Leda_\(ギタリスト\) "wikilink")**（ex.[DELUHI](https://ja.wikipedia.org/wiki/DELUHI "wikilink")）
@@ -313,11 +313,11 @@
 
 #### ドラムス
 
-  - **[淳士](https://ja.wikipedia.org/wiki/淳士 "wikilink")**（from.[SIAM SHADE](https://ja.wikipedia.org/wiki/SIAM_SHADE "wikilink")、[BULL ZEICHEN 88](../Page/BULL_ZEICHEN_88.md "wikilink")）
+  - **[淳士](../Page/淳士.md "wikilink")**（from.[SIAM SHADE](../Page/SIAM_SHADE.md "wikilink")、[BULL ZEICHEN 88](../Page/BULL_ZEICHEN_88.md "wikilink")）
     2007年7月のフリーライブより参加。ほぼ全てのライブツアーに出演。
   - **[MAKOTO](https://ja.wikipedia.org/wiki/MAKOTO "wikilink")**（ex.[Deep Soul](https://ja.wikipedia.org/wiki/Deep_Soul "wikilink")）
     2007年5月のシークレットライブツアー、及び2010年のツアー「Re:birth」、2011年VAMPS主宰「HALLOWEEN PARTY 2011」に参加。
-  - **[Shinya](https://ja.wikipedia.org/wiki/Shinya "wikilink")**（from.[DIR EN GREY](https://ja.wikipedia.org/wiki/DIR_EN_GREY "wikilink")）
+  - **[Shinya](../Page/Shinya.md "wikilink")**（from.[DIR EN GREY](../Page/DIR_EN_GREY.md "wikilink")）
     2013年のライブイベント『HALLOWEEN PARTY 2013』にAcid Black Halloween(HALLOWEEN JUNKY ORCHESTRA)として参加。
 
 ## ディスコグラフィ
@@ -349,8 +349,8 @@
 </tr>
 <tr class="even">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="../Page/7月18日.md" title="wikilink">7月18日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/SPELL_MAGIC" title="wikilink">SPELL MAGIC</a></strong></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/7月18日.md" title="wikilink">7月18日</a></p></td>
+<td><p><strong><a href="../Page/SPELL_MAGIC.md" title="wikilink">SPELL MAGIC</a></strong></p></td>
 <td><p>CD+DVD<br />
 CD</p></td>
 <td><p>AVCD-32083/B<br />
@@ -361,7 +361,7 @@ AVCD-32084</p></td>
 <tr class="odd">
 <td><p>2nd</p></td>
 <td><p>2007年<a href="../Page/9月26日.md" title="wikilink">9月26日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Black_Cherry_(Acid_Black_Cherryの曲)" title="wikilink">Black Cherry</a></strong></p></td>
+<td><p><strong><a href="../Page/Black_Cherry_(Acid_Black_Cherryの曲).md" title="wikilink">Black Cherry</a></strong></p></td>
 <td><p>CD+DVD<br />
 CD</p></td>
 <td><p>AVCD-32089/B<br />
@@ -383,7 +383,7 @@ AVCD-32092</p></td>
 <tr class="odd">
 <td><p>4th</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="https://ja.wikipedia.org/wiki/1月16日" title="wikilink">1月16日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/冬の幻" title="wikilink">冬の幻</a></strong></p></td>
+<td><p><strong><a href="../Page/冬の幻.md" title="wikilink">冬の幻</a></strong></p></td>
 <td><p>CD+DVD<br />
 CD</p></td>
 <td><p>AVCD-32097/B<br />
@@ -611,7 +611,7 @@ AVCD-32240</p></td>
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/2月20日.md" title="wikilink">2月20日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/BLACK_LIST_(Acid_Black_Cherryのアルバム)" title="wikilink">BLACK LIST</a></strong></p></td>
+<td><p><strong><a href="../Page/BLACK_LIST_(Acid_Black_Cherryのアルバム).md" title="wikilink">BLACK LIST</a></strong></p></td>
 <td><p>CD+DVD<br />
 CD+DVD<br />
 CD</p></td>
@@ -634,7 +634,7 @@ AVCD-32151</p></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p><a href="../Page/2012年.md" title="wikilink">2012年</a><a href="https://ja.wikipedia.org/wiki/3月21日" title="wikilink">3月21日</a></p></td>
+<td><p><a href="../Page/2012年.md" title="wikilink">2012年</a><a href="../Page/3月21日.md" title="wikilink">3月21日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/2012_(アルバム)" title="wikilink">『2012』</a></strong></p></td>
 <td><p>CD+DVD<br />
 CD+DVD<br />
@@ -777,7 +777,7 @@ AVCD-32273</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><a href="https://ja.wikipedia.org/wiki/10月27日" title="wikilink">10月27日</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><a href="../Page/10月27日.md" title="wikilink">10月27日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/SIAM_SHADE_Tribute" title="wikilink">SIAM SHADE Tribute</a></strong></p></td>
 <td><p>Acid Black Cherry</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1/3の純情な感情" title="wikilink">1/3の純情な感情</a></p></td>
@@ -786,7 +786,7 @@ AVCD-32273</p></td>
 <td><p><a href="../Page/2012年.md" title="wikilink">2012年</a><a href="../Page/7月4日.md" title="wikilink">7月4日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/PARADE_II_〜RESPECTIVE_TRACKS_OF_BUCK-TICK〜" title="wikilink">PARADE II 〜RESPECTIVE TRACKS OF BUCK-TICK〜</a></strong></p></td>
 <td><p>Acid Black Cherry</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ROMANESQUE_(アルバム)" title="wikilink">ROMANESQUE</a></p></td>
+<td><p><a href="../Page/ROMANESQUE_(アルバム).md" title="wikilink">ROMANESQUE</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2012年.md" title="wikilink">2012年</a><a href="../Page/10月17日.md" title="wikilink">10月17日</a><br />
@@ -917,7 +917,7 @@ AVXD-32269〜71</p></td>
 <td><p>2009年11月17日</p></td>
 <td><p>BLACKBOX</p></td>
 <td><p>ISBN 978-4-04-732502-9</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/角川マガジンズ" title="wikilink">角川マガジンズ</a></p></td>
+<td><p><a href="../Page/角川マガジンズ.md" title="wikilink">角川マガジンズ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ドキュメンタリーBOOK</p></td>
@@ -925,7 +925,7 @@ AVXD-32269〜71</p></td>
 <td><p>Acid Black Cherry Project 『Shangri-la』<br />
 ドキュメンタリーPHOTOBOOK 1st Season</p></td>
 <td><p>ISBN 978-4-83-561850-0</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ぴあ" title="wikilink">ぴあ</a>株式会社</p></td>
+<td><p><a href="../Page/ぴあ.md" title="wikilink">ぴあ</a>株式会社</p></td>
 </tr>
 <tr class="even">
 <td><p>ドキュメンタリーBOOK</p></td>
@@ -998,7 +998,7 @@ AVXD-32269〜71</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a></p></td>
 <td><p>ライブツアー</p></td>
 <td><p>Acid Black Cherry secret live</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -1072,13 +1072,13 @@ AVXD-32269〜71</p></td>
 </dl>
 <dl>
 <dt><strong>secret live musicians</strong></dt>
-<dd>Guitar : <a href="https://ja.wikipedia.org/wiki/千聖" title="wikilink">千聖</a> (<a href="../Page/PENICILLIN.md" title="wikilink">PENICILLIN</a>)
+<dd>Guitar : <a href="../Page/千聖.md" title="wikilink">千聖</a> (<a href="../Page/PENICILLIN.md" title="wikilink">PENICILLIN</a>)
 </dd>
 <dd>Guitar : <a href="https://ja.wikipedia.org/wiki/AKIHIDE" title="wikilink">AKIHIDE</a> (<a href="https://ja.wikipedia.org/wiki/BREAKERZ" title="wikilink">BREAKERZ</a>)
 </dd>
 <dd>Bass : <a href="https://ja.wikipedia.org/wiki/SHUSE" title="wikilink">SHUSE</a> (<a href="https://ja.wikipedia.org/wiki/†яi¢к" title="wikilink">†яi¢к</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
 </dd>
-<dd>Drums : <a href="https://ja.wikipedia.org/wiki/淳士" title="wikilink">淳士</a> (<a href="https://ja.wikipedia.org/wiki/SIAM_SHADE" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
+<dd>Drums : <a href="../Page/淳士.md" title="wikilink">淳士</a> (<a href="../Page/SIAM_SHADE.md" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
 </dd>
 </dl>
 </div>
@@ -1087,7 +1087,7 @@ AVXD-32269〜71</p></td>
 </tr>
 <tr class="odd">
 <td><p>ライブイベント</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サマーソニック" title="wikilink">SUMMER SONIC 07 OSAKA</a></p></td>
+<td><p><a href="../Page/サマーソニック.md" title="wikilink">SUMMER SONIC 07 OSAKA</a></p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
 <p>全1公演</p>
@@ -1100,13 +1100,13 @@ AVXD-32269〜71</p></td>
 </dl>
 <dl>
 <dt><strong>live musicians</strong></dt>
-<dd>Guitar : <a href="https://ja.wikipedia.org/wiki/千聖" title="wikilink">千聖</a> (<a href="../Page/PENICILLIN.md" title="wikilink">PENICILLIN</a>)
+<dd>Guitar : <a href="../Page/千聖.md" title="wikilink">千聖</a> (<a href="../Page/PENICILLIN.md" title="wikilink">PENICILLIN</a>)
 </dd>
 <dd>Guitar : <a href="https://ja.wikipedia.org/wiki/AKIHIDE" title="wikilink">AKIHIDE</a> (<a href="https://ja.wikipedia.org/wiki/BREAKERZ" title="wikilink">BREAKERZ</a>)
 </dd>
 <dd>Bass : <a href="https://ja.wikipedia.org/wiki/SHUSE" title="wikilink">SHUSE</a> (<a href="https://ja.wikipedia.org/wiki/†яi¢к" title="wikilink">†яi¢к</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
 </dd>
-<dd>Drums : <a href="https://ja.wikipedia.org/wiki/淳士" title="wikilink">淳士</a> (<a href="https://ja.wikipedia.org/wiki/SIAM_SHADE" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
+<dd>Drums : <a href="../Page/淳士.md" title="wikilink">淳士</a> (<a href="../Page/SIAM_SHADE.md" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
 </dd>
 </dl>
 </div>
@@ -1132,13 +1132,13 @@ AVXD-32269〜71</p></td>
 </dl>
 <dl>
 <dt><strong>live musicians</strong></dt>
-<dd>Guitar : <a href="https://ja.wikipedia.org/wiki/千聖" title="wikilink">千聖</a> (<a href="../Page/PENICILLIN.md" title="wikilink">PENICILLIN</a>)
+<dd>Guitar : <a href="../Page/千聖.md" title="wikilink">千聖</a> (<a href="../Page/PENICILLIN.md" title="wikilink">PENICILLIN</a>)
 </dd>
 <dd>Guitar : <a href="https://ja.wikipedia.org/wiki/AKIHIDE" title="wikilink">AKIHIDE</a> (<a href="https://ja.wikipedia.org/wiki/BREAKERZ" title="wikilink">BREAKERZ</a>)
 </dd>
 <dd>Bass : <a href="https://ja.wikipedia.org/wiki/SHUSE" title="wikilink">SHUSE</a> (<a href="https://ja.wikipedia.org/wiki/†яi¢к" title="wikilink">†яi¢к</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
 </dd>
-<dd>Drums : <a href="https://ja.wikipedia.org/wiki/淳士" title="wikilink">淳士</a> (<a href="https://ja.wikipedia.org/wiki/SIAM_SHADE" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
+<dd>Drums : <a href="../Page/淳士.md" title="wikilink">淳士</a> (<a href="../Page/SIAM_SHADE.md" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
 </dd>
 </dl>
 </div>
@@ -1167,7 +1167,7 @@ AVXD-32269〜71</p></td>
 </dd>
 <dd>Bass : <a href="https://ja.wikipedia.org/wiki/SHUSE" title="wikilink">SHUSE</a> (<a href="https://ja.wikipedia.org/wiki/†яi¢к" title="wikilink">†яi¢к</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
 </dd>
-<dd>Drums : <a href="https://ja.wikipedia.org/wiki/淳士" title="wikilink">淳士</a> (<a href="https://ja.wikipedia.org/wiki/SIAM_SHADE" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
+<dd>Drums : <a href="../Page/淳士.md" title="wikilink">淳士</a> (<a href="../Page/SIAM_SHADE.md" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
 </dd>
 </dl>
 </div>
@@ -1232,7 +1232,7 @@ AVXD-32269〜71</p></td>
 </dd>
 <dd>Bass : <a href="https://ja.wikipedia.org/wiki/SHUSE" title="wikilink">SHUSE</a> (<a href="https://ja.wikipedia.org/wiki/†яi¢к" title="wikilink">†яi¢к</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
 </dd>
-<dd>Drums : <a href="https://ja.wikipedia.org/wiki/淳士" title="wikilink">淳士</a> (<a href="https://ja.wikipedia.org/wiki/SIAM_SHADE" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
+<dd>Drums : <a href="../Page/淳士.md" title="wikilink">淳士</a> (<a href="../Page/SIAM_SHADE.md" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
 </dd>
 </dl>
 </div>
@@ -1272,7 +1272,7 @@ AVXD-32269〜71</p></td>
 </dd>
 <dd>Bass : <a href="https://ja.wikipedia.org/wiki/SHUSE" title="wikilink">SHUSE</a> (<a href="https://ja.wikipedia.org/wiki/†яi¢к" title="wikilink">†яi¢к</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
 </dd>
-<dd>Drums : <a href="https://ja.wikipedia.org/wiki/淳士" title="wikilink">淳士</a> (<a href="https://ja.wikipedia.org/wiki/SIAM_SHADE" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
+<dd>Drums : <a href="../Page/淳士.md" title="wikilink">淳士</a> (<a href="../Page/SIAM_SHADE.md" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
 </dd>
 </dl>
 </div>
@@ -1308,7 +1308,7 @@ AVXD-32269〜71</p></td>
 </dd>
 <dd>Bass : <a href="https://ja.wikipedia.org/wiki/SHUSE" title="wikilink">SHUSE</a> (<a href="https://ja.wikipedia.org/wiki/†яi¢к" title="wikilink">†яi¢к</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
 </dd>
-<dd>Drums : <a href="https://ja.wikipedia.org/wiki/淳士" title="wikilink">淳士</a> (<a href="https://ja.wikipedia.org/wiki/SIAM_SHADE" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
+<dd>Drums : <a href="../Page/淳士.md" title="wikilink">淳士</a> (<a href="../Page/SIAM_SHADE.md" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
 </dd>
 </dl>
 </div>
@@ -1351,7 +1351,7 @@ AVXD-32269〜71</p></td>
 </tr>
 <tr class="odd">
 <td><p>ライブイベント</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サマーソニック" title="wikilink">SUMMER SONIC 09 OSAKA</a></p></td>
+<td><p><a href="../Page/サマーソニック.md" title="wikilink">SUMMER SONIC 09 OSAKA</a></p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
 <p>全1公演</p>
@@ -1370,7 +1370,7 @@ AVXD-32269〜71</p></td>
 </dd>
 <dd>Bass : <a href="https://ja.wikipedia.org/wiki/SHUSE" title="wikilink">SHUSE</a> (<a href="https://ja.wikipedia.org/wiki/†яi¢к" title="wikilink">†яi¢к</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
 </dd>
-<dd>Drums : <a href="https://ja.wikipedia.org/wiki/淳士" title="wikilink">淳士</a> (<a href="https://ja.wikipedia.org/wiki/SIAM_SHADE" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
+<dd>Drums : <a href="../Page/淳士.md" title="wikilink">淳士</a> (<a href="../Page/SIAM_SHADE.md" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
 </dd>
 </dl>
 </div>
@@ -1398,7 +1398,7 @@ AVXD-32269〜71</p></td>
 </dd>
 <dd>Bass : <a href="https://ja.wikipedia.org/wiki/SHUSE" title="wikilink">SHUSE</a> (<a href="https://ja.wikipedia.org/wiki/†яi¢к" title="wikilink">†яi¢к</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
 </dd>
-<dd>Drums : <a href="https://ja.wikipedia.org/wiki/淳士" title="wikilink">淳士</a> (<a href="https://ja.wikipedia.org/wiki/SIAM_SHADE" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
+<dd>Drums : <a href="../Page/淳士.md" title="wikilink">淳士</a> (<a href="../Page/SIAM_SHADE.md" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
 </dd>
 </dl>
 </div>
@@ -1454,7 +1454,7 @@ AVXD-32269〜71</p></td>
 </dd>
 <dd>Bass : <a href="https://ja.wikipedia.org/wiki/SHUSE" title="wikilink">SHUSE</a> (<a href="https://ja.wikipedia.org/wiki/†яi¢к" title="wikilink">†яi¢к</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
 </dd>
-<dd>Drums : <a href="https://ja.wikipedia.org/wiki/淳士" title="wikilink">淳士</a> (<a href="https://ja.wikipedia.org/wiki/SIAM_SHADE" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
+<dd>Drums : <a href="../Page/淳士.md" title="wikilink">淳士</a> (<a href="../Page/SIAM_SHADE.md" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
 </dd>
 </dl>
 </div>
@@ -1483,7 +1483,7 @@ AVXD-32269〜71</p></td>
 </dl>
 <dl>
 <dt><strong>tour “Re:birth” musicians</strong></dt>
-<dd>Guitar : HIRO (<a href="https://ja.wikipedia.org/wiki/Libraian" title="wikilink">Libraian</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
+<dd>Guitar : HIRO (<a href="../Page/Libraian.md" title="wikilink">Libraian</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
 </dd>
 <dd>Guitar : <a href="https://ja.wikipedia.org/wiki/AKIHIDE" title="wikilink">AKIHIDE</a> (<a href="https://ja.wikipedia.org/wiki/BREAKERZ" title="wikilink">BREAKERZ</a>)
 </dd>
@@ -1520,7 +1520,7 @@ AVXD-32269〜71</p></td>
 </dd>
 <dd>Bass : <a href="https://ja.wikipedia.org/wiki/SHUSE" title="wikilink">SHUSE</a> (<a href="https://ja.wikipedia.org/wiki/†яi¢к" title="wikilink">†яi¢к</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
 </dd>
-<dd>Drums : <a href="https://ja.wikipedia.org/wiki/淳士" title="wikilink">淳士</a> (<a href="https://ja.wikipedia.org/wiki/SIAM_SHADE" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
+<dd>Drums : <a href="../Page/淳士.md" title="wikilink">淳士</a> (<a href="../Page/SIAM_SHADE.md" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
 </dd>
 </dl>
 </div>
@@ -1559,11 +1559,11 @@ AVXD-32269〜71</p></td>
 <dt><strong>live musicians</strong></dt>
 <dd>Guitar : <a href="https://ja.wikipedia.org/wiki/結城雅彦" title="wikilink">YUKI</a> (<a href="https://ja.wikipedia.org/wiki/DUSTAR-3" title="wikilink">DUSTAR-3</a> / <a href="https://ja.wikipedia.org/wiki/Rayflower" title="wikilink">Rayflower</a>)
 </dd>
-<dd>Guitar : HIRO (<a href="https://ja.wikipedia.org/wiki/Libraian" title="wikilink">Libraian</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
+<dd>Guitar : HIRO (<a href="../Page/Libraian.md" title="wikilink">Libraian</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
 </dd>
 <dd>Bass : <a href="https://ja.wikipedia.org/wiki/SHUSE" title="wikilink">SHUSE</a> (<a href="https://ja.wikipedia.org/wiki/†яi¢к" title="wikilink">†яi¢к</a> / La'cryma Christi)
 </dd>
-<dd>Drums : <a href="https://ja.wikipedia.org/wiki/淳士" title="wikilink">淳士</a> (<a href="https://ja.wikipedia.org/wiki/SIAM_SHADE" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
+<dd>Drums : <a href="../Page/淳士.md" title="wikilink">淳士</a> (<a href="../Page/SIAM_SHADE.md" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
 </dd>
 </dl>
 </div>
@@ -1594,7 +1594,7 @@ AVXD-32269〜71</p></td>
 </dd>
 <dd>Bass : <a href="https://ja.wikipedia.org/wiki/SHUSE" title="wikilink">SHUSE</a> (<a href="https://ja.wikipedia.org/wiki/†яi¢к" title="wikilink">†яi¢к</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
 </dd>
-<dd>Drums : <a href="https://ja.wikipedia.org/wiki/淳士" title="wikilink">淳士</a> (<a href="https://ja.wikipedia.org/wiki/SIAM_SHADE" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
+<dd>Drums : <a href="../Page/淳士.md" title="wikilink">淳士</a> (<a href="../Page/SIAM_SHADE.md" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
 </dd>
 </dl>
 </div>
@@ -1620,11 +1620,11 @@ AVXD-32269〜71</p></td>
 <dt><strong>live musicians</strong></dt>
 <dd>Guitar : <a href="https://ja.wikipedia.org/wiki/結城雅彦" title="wikilink">YUKI</a> (<a href="https://ja.wikipedia.org/wiki/DUSTAR-3" title="wikilink">DUSTAR-3</a> / <a href="https://ja.wikipedia.org/wiki/Rayflower" title="wikilink">Rayflower</a>)
 </dd>
-<dd>Guitar : HIRO (<a href="https://ja.wikipedia.org/wiki/Libraian" title="wikilink">Libraian</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
+<dd>Guitar : HIRO (<a href="../Page/Libraian.md" title="wikilink">Libraian</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
 </dd>
 <dd>Bass : <a href="https://ja.wikipedia.org/wiki/SHUSE" title="wikilink">SHUSE</a> (<a href="https://ja.wikipedia.org/wiki/†яi¢к" title="wikilink">†яi¢к</a> / La'cryma Christi)
 </dd>
-<dd>Drums : <a href="https://ja.wikipedia.org/wiki/淳士" title="wikilink">淳士</a> (<a href="https://ja.wikipedia.org/wiki/SIAM_SHADE" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
+<dd>Drums : <a href="../Page/淳士.md" title="wikilink">淳士</a> (<a href="../Page/SIAM_SHADE.md" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
 </dd>
 </dl>
 </div>
@@ -1654,11 +1654,11 @@ AVXD-32269〜71</p></td>
 <dt><strong>live musicians</strong></dt>
 <dd>Guitar : <a href="https://ja.wikipedia.org/wiki/結城雅彦" title="wikilink">YUKI</a> (<a href="https://ja.wikipedia.org/wiki/DUSTAR-3" title="wikilink">DUSTAR-3</a> / <a href="https://ja.wikipedia.org/wiki/Rayflower" title="wikilink">Rayflower</a>)
 </dd>
-<dd>Guitar : HIRO (<a href="https://ja.wikipedia.org/wiki/Libraian" title="wikilink">Libraian</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
+<dd>Guitar : HIRO (<a href="../Page/Libraian.md" title="wikilink">Libraian</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
 </dd>
 <dd>Bass : <a href="https://ja.wikipedia.org/wiki/SHUSE" title="wikilink">SHUSE</a> (<a href="https://ja.wikipedia.org/wiki/†яi¢к" title="wikilink">†яi¢к</a> / La'cryma Christi)
 </dd>
-<dd>Drums : <a href="https://ja.wikipedia.org/wiki/淳士" title="wikilink">淳士</a> (<a href="https://ja.wikipedia.org/wiki/SIAM_SHADE" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
+<dd>Drums : <a href="../Page/淳士.md" title="wikilink">淳士</a> (<a href="../Page/SIAM_SHADE.md" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
 </dd>
 <dd>Drums : MAKOTO (10月21日公演のみ)
 </dd>
@@ -1684,11 +1684,11 @@ AVXD-32269〜71</p></td>
 <dt><strong>live musicians</strong></dt>
 <dd>Guitar : <a href="https://ja.wikipedia.org/wiki/結城雅彦" title="wikilink">YUKI</a> (<a href="https://ja.wikipedia.org/wiki/DUSTAR-3" title="wikilink">DUSTAR-3</a> / <a href="https://ja.wikipedia.org/wiki/Rayflower" title="wikilink">Rayflower</a>)
 </dd>
-<dd>Guitar : HIRO (<a href="https://ja.wikipedia.org/wiki/Libraian" title="wikilink">Libraian</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
+<dd>Guitar : HIRO (<a href="../Page/Libraian.md" title="wikilink">Libraian</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
 </dd>
 <dd>Bass : <a href="https://ja.wikipedia.org/wiki/SHUSE" title="wikilink">SHUSE</a> (<a href="https://ja.wikipedia.org/wiki/†яi¢к" title="wikilink">†яi¢к</a> / La'cryma Christi)
 </dd>
-<dd>Drums : <a href="https://ja.wikipedia.org/wiki/淳士" title="wikilink">淳士</a> (<a href="https://ja.wikipedia.org/wiki/SIAM_SHADE" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
+<dd>Drums : <a href="../Page/淳士.md" title="wikilink">淳士</a> (<a href="../Page/SIAM_SHADE.md" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
 </dd>
 </dl>
 </div>
@@ -1713,11 +1713,11 @@ AVXD-32269〜71</p></td>
 <dt><strong>tour “『２０１２』” musicians</strong></dt>
 <dd>Guitar : <a href="https://ja.wikipedia.org/wiki/結城雅彦" title="wikilink">YUKI</a> (<a href="https://ja.wikipedia.org/wiki/DUSTAR-3" title="wikilink">DUSTAR-3</a> / <a href="https://ja.wikipedia.org/wiki/Rayflower" title="wikilink">Rayflower</a>)
 </dd>
-<dd>Guitar : HIRO (<a href="https://ja.wikipedia.org/wiki/Libraian" title="wikilink">Libraian</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
+<dd>Guitar : HIRO (<a href="../Page/Libraian.md" title="wikilink">Libraian</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
 </dd>
 <dd>Bass : <a href="https://ja.wikipedia.org/wiki/SHUSE" title="wikilink">SHUSE</a> (<a href="https://ja.wikipedia.org/wiki/†яi¢к" title="wikilink">†яi¢к</a> / La'cryma Christi)
 </dd>
-<dd>Drums : <a href="https://ja.wikipedia.org/wiki/淳士" title="wikilink">淳士</a> (<a href="https://ja.wikipedia.org/wiki/SIAM_SHADE" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
+<dd>Drums : <a href="../Page/淳士.md" title="wikilink">淳士</a> (<a href="../Page/SIAM_SHADE.md" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
 </dd>
 </dl>
 </div>
@@ -1782,11 +1782,11 @@ AVXD-32269〜71</p></td>
 <dt><strong>tour “『２０１２』” musicians</strong></dt>
 <dd>Guitar : <a href="https://ja.wikipedia.org/wiki/結城雅彦" title="wikilink">YUKI</a> (<a href="https://ja.wikipedia.org/wiki/DUSTAR-3" title="wikilink">DUSTAR-3</a> / <a href="https://ja.wikipedia.org/wiki/Rayflower" title="wikilink">Rayflower</a>)
 </dd>
-<dd>Guitar : HIRO (<a href="https://ja.wikipedia.org/wiki/Libraian" title="wikilink">Libraian</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
+<dd>Guitar : HIRO (<a href="../Page/Libraian.md" title="wikilink">Libraian</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
 </dd>
 <dd>Bass : <a href="https://ja.wikipedia.org/wiki/SHUSE" title="wikilink">SHUSE</a> (<a href="https://ja.wikipedia.org/wiki/†яi¢к" title="wikilink">†яi¢к</a> / La'cryma Christi)
 </dd>
-<dd>Drums : <a href="https://ja.wikipedia.org/wiki/淳士" title="wikilink">淳士</a> (<a href="https://ja.wikipedia.org/wiki/SIAM_SHADE" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
+<dd>Drums : <a href="../Page/淳士.md" title="wikilink">淳士</a> (<a href="../Page/SIAM_SHADE.md" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
 </dd>
 </dl>
 </div>
@@ -1812,11 +1812,11 @@ AVXD-32269〜71</p></td>
 <dt><strong>live musicians</strong></dt>
 <dd>Guitar : <a href="https://ja.wikipedia.org/wiki/結城雅彦" title="wikilink">YUKI</a> (<a href="https://ja.wikipedia.org/wiki/DUSTAR-3" title="wikilink">DUSTAR-3</a> / <a href="https://ja.wikipedia.org/wiki/Rayflower" title="wikilink">Rayflower</a>)
 </dd>
-<dd>Guitar : HIRO (<a href="https://ja.wikipedia.org/wiki/Libraian" title="wikilink">Libraian</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
+<dd>Guitar : HIRO (<a href="../Page/Libraian.md" title="wikilink">Libraian</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
 </dd>
 <dd>Bass : <a href="https://ja.wikipedia.org/wiki/SHUSE" title="wikilink">SHUSE</a> (<a href="https://ja.wikipedia.org/wiki/†яi¢к" title="wikilink">†яi¢к</a> / La'cryma Christi)
 </dd>
-<dd>Drums : <a href="https://ja.wikipedia.org/wiki/淳士" title="wikilink">淳士</a> (<a href="https://ja.wikipedia.org/wiki/SIAM_SHADE" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
+<dd>Drums : <a href="../Page/淳士.md" title="wikilink">淳士</a> (<a href="../Page/SIAM_SHADE.md" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
 </dd>
 </dl>
 </div>
@@ -1852,7 +1852,7 @@ AVXD-32269〜71</p></td>
 </dd>
 <dd>Bass : <a href="https://ja.wikipedia.org/wiki/SHUSE" title="wikilink">SHUSE</a> (<a href="https://ja.wikipedia.org/wiki/†яi¢к" title="wikilink">†яi¢к</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
 </dd>
-<dd>Drums : <a href="https://ja.wikipedia.org/wiki/淳士" title="wikilink">淳士</a> (<a href="https://ja.wikipedia.org/wiki/SIAM_SHADE" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
+<dd>Drums : <a href="../Page/淳士.md" title="wikilink">淳士</a> (<a href="../Page/SIAM_SHADE.md" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
 </dd>
 </dl>
 </div>
@@ -1886,11 +1886,11 @@ AVXD-32269〜71</p></td>
 <dt><strong>live musicians</strong></dt>
 <dd>Guitar : <a href="https://ja.wikipedia.org/wiki/結城雅彦" title="wikilink">YUKI</a> (<a href="https://ja.wikipedia.org/wiki/DUSTAR-3" title="wikilink">DUSTAR-3</a> / <a href="https://ja.wikipedia.org/wiki/Rayflower" title="wikilink">Rayflower</a>)
 </dd>
-<dd>Guitar : HIRO (<a href="https://ja.wikipedia.org/wiki/Libraian" title="wikilink">Libraian</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
+<dd>Guitar : HIRO (<a href="../Page/Libraian.md" title="wikilink">Libraian</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
 </dd>
 <dd>Bass : <a href="https://ja.wikipedia.org/wiki/SHUSE" title="wikilink">SHUSE</a> (<a href="https://ja.wikipedia.org/wiki/†яi¢к" title="wikilink">†яi¢к</a> / La'cryma Christi)
 </dd>
-<dd>Drums : <a href="https://ja.wikipedia.org/wiki/淳士" title="wikilink">淳士</a> (<a href="https://ja.wikipedia.org/wiki/SIAM_SHADE" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
+<dd>Drums : <a href="../Page/淳士.md" title="wikilink">淳士</a> (<a href="../Page/SIAM_SHADE.md" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
 </dd>
 </dl>
 </div>
@@ -1915,11 +1915,11 @@ AVXD-32269〜71</p></td>
 <dt><strong>live musicians</strong></dt>
 <dd>Guitar : <a href="https://ja.wikipedia.org/wiki/結城雅彦" title="wikilink">YUKI</a> (<a href="https://ja.wikipedia.org/wiki/DUSTAR-3" title="wikilink">DUSTAR-3</a> / <a href="https://ja.wikipedia.org/wiki/Rayflower" title="wikilink">Rayflower</a>)
 </dd>
-<dd>Guitar : HIRO (<a href="https://ja.wikipedia.org/wiki/Libraian" title="wikilink">Libraian</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
+<dd>Guitar : HIRO (<a href="../Page/Libraian.md" title="wikilink">Libraian</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
 </dd>
 <dd>Bass : <a href="https://ja.wikipedia.org/wiki/SHUSE" title="wikilink">SHUSE</a> (<a href="https://ja.wikipedia.org/wiki/†яi¢к" title="wikilink">†яi¢к</a> / La'cryma Christi)
 </dd>
-<dd>Drums : <a href="https://ja.wikipedia.org/wiki/淳士" title="wikilink">淳士</a> (<a href="https://ja.wikipedia.org/wiki/SIAM_SHADE" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
+<dd>Drums : <a href="../Page/淳士.md" title="wikilink">淳士</a> (<a href="../Page/SIAM_SHADE.md" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
 </dd>
 </dl>
 </div>
@@ -1962,11 +1962,11 @@ AVXD-32269〜71</p></td>
 <dt><strong>live musicians</strong></dt>
 <dd>Guitar : <a href="https://ja.wikipedia.org/wiki/結城雅彦" title="wikilink">YUKI</a> (<a href="https://ja.wikipedia.org/wiki/DUSTAR-3" title="wikilink">DUSTAR-3</a> / <a href="https://ja.wikipedia.org/wiki/Rayflower" title="wikilink">Rayflower</a>)
 </dd>
-<dd>Guitar : HIRO (<a href="https://ja.wikipedia.org/wiki/Libraian" title="wikilink">Libraian</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
+<dd>Guitar : HIRO (<a href="../Page/Libraian.md" title="wikilink">Libraian</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
 </dd>
 <dd>Bass : <a href="https://ja.wikipedia.org/wiki/SHUSE" title="wikilink">SHUSE</a> (<a href="https://ja.wikipedia.org/wiki/†яi¢к" title="wikilink">†яi¢к</a> / La'cryma Christi)
 </dd>
-<dd>Drums : <a href="https://ja.wikipedia.org/wiki/淳士" title="wikilink">淳士</a> (<a href="https://ja.wikipedia.org/wiki/SIAM_SHADE" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
+<dd>Drums : <a href="../Page/淳士.md" title="wikilink">淳士</a> (<a href="../Page/SIAM_SHADE.md" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
 </dd>
 </dl>
 </div>
@@ -2008,11 +2008,11 @@ AVXD-32269〜71</p></td>
 <dt><strong>live musicians</strong></dt>
 <dd>Guitar : <a href="https://ja.wikipedia.org/wiki/結城雅彦" title="wikilink">YUKI</a> (<a href="https://ja.wikipedia.org/wiki/DUSTAR-3" title="wikilink">DUSTAR-3</a> / <a href="https://ja.wikipedia.org/wiki/Rayflower" title="wikilink">Rayflower</a>)
 </dd>
-<dd>Guitar : HIRO (<a href="https://ja.wikipedia.org/wiki/Libraian" title="wikilink">Libraian</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
+<dd>Guitar : HIRO (<a href="../Page/Libraian.md" title="wikilink">Libraian</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
 </dd>
 <dd>Bass : <a href="https://ja.wikipedia.org/wiki/SHUSE" title="wikilink">SHUSE</a> (<a href="https://ja.wikipedia.org/wiki/†яi¢к" title="wikilink">†яi¢к</a> / La'cryma Christi)
 </dd>
-<dd>Drums : <a href="https://ja.wikipedia.org/wiki/淳士" title="wikilink">淳士</a> (<a href="https://ja.wikipedia.org/wiki/SIAM_SHADE" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
+<dd>Drums : <a href="../Page/淳士.md" title="wikilink">淳士</a> (<a href="../Page/SIAM_SHADE.md" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
 </dd>
 </dl>
 </div>
@@ -2058,11 +2058,11 @@ AVXD-32269〜71</p></td>
 <dt><strong>live musicians</strong></dt>
 <dd>Guitar : <a href="https://ja.wikipedia.org/wiki/結城雅彦" title="wikilink">YUKI</a> (<a href="https://ja.wikipedia.org/wiki/DUSTAR-3" title="wikilink">DUSTAR-3</a> / <a href="https://ja.wikipedia.org/wiki/Rayflower" title="wikilink">Rayflower</a>)
 </dd>
-<dd>Guitar : HIRO (<a href="https://ja.wikipedia.org/wiki/Libraian" title="wikilink">Libraian</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
+<dd>Guitar : HIRO (<a href="../Page/Libraian.md" title="wikilink">Libraian</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
 </dd>
 <dd>Bass : <a href="https://ja.wikipedia.org/wiki/SHUSE" title="wikilink">SHUSE</a> (<a href="https://ja.wikipedia.org/wiki/†яi¢к" title="wikilink">†яi¢к</a> / La'cryma Christi)
 </dd>
-<dd>Drums : <a href="https://ja.wikipedia.org/wiki/淳士" title="wikilink">淳士</a> (<a href="https://ja.wikipedia.org/wiki/SIAM_SHADE" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
+<dd>Drums : <a href="../Page/淳士.md" title="wikilink">淳士</a> (<a href="../Page/SIAM_SHADE.md" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
 </dd>
 </dl>
 </div>
@@ -2099,11 +2099,11 @@ AVXD-32269〜71</p></td>
 <dt><strong>live musicians</strong></dt>
 <dd>Guitar : <a href="https://ja.wikipedia.org/wiki/結城雅彦" title="wikilink">YUKI</a> (<a href="https://ja.wikipedia.org/wiki/DUSTAR-3" title="wikilink">DUSTAR-3</a> / <a href="https://ja.wikipedia.org/wiki/Rayflower" title="wikilink">Rayflower</a>)
 </dd>
-<dd>Guitar : HIRO (<a href="https://ja.wikipedia.org/wiki/Libraian" title="wikilink">Libraian</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
+<dd>Guitar : HIRO (<a href="../Page/Libraian.md" title="wikilink">Libraian</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
 </dd>
 <dd>Bass : <a href="https://ja.wikipedia.org/wiki/SHUSE" title="wikilink">SHUSE</a> (<a href="https://ja.wikipedia.org/wiki/†яi¢к" title="wikilink">†яi¢к</a> / La'cryma Christi)
 </dd>
-<dd>Drums : <a href="https://ja.wikipedia.org/wiki/淳士" title="wikilink">淳士</a> (<a href="https://ja.wikipedia.org/wiki/SIAM_SHADE" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
+<dd>Drums : <a href="../Page/淳士.md" title="wikilink">淳士</a> (<a href="../Page/SIAM_SHADE.md" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
 </dd>
 </dl>
 </div>
@@ -2148,11 +2148,11 @@ AVXD-32269〜71</p></td>
 <dt><strong>live musicians</strong></dt>
 <dd>Guitar : <a href="https://ja.wikipedia.org/wiki/結城雅彦" title="wikilink">YUKI</a> (<a href="https://ja.wikipedia.org/wiki/DUSTAR-3" title="wikilink">DUSTAR-3</a> / <a href="https://ja.wikipedia.org/wiki/Rayflower" title="wikilink">Rayflower</a>)
 </dd>
-<dd>Guitar : HIRO (<a href="https://ja.wikipedia.org/wiki/Libraian" title="wikilink">Libraian</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
+<dd>Guitar : HIRO (<a href="../Page/Libraian.md" title="wikilink">Libraian</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
 </dd>
 <dd>Bass : <a href="https://ja.wikipedia.org/wiki/SHUSE" title="wikilink">SHUSE</a> (<a href="https://ja.wikipedia.org/wiki/†яi¢к" title="wikilink">†яi¢к</a> / La'cryma Christi)
 </dd>
-<dd>Drums : <a href="https://ja.wikipedia.org/wiki/淳士" title="wikilink">淳士</a> (<a href="https://ja.wikipedia.org/wiki/SIAM_SHADE" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
+<dd>Drums : <a href="../Page/淳士.md" title="wikilink">淳士</a> (<a href="../Page/SIAM_SHADE.md" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
 </dd>
 </dl>
 </div>
@@ -2186,11 +2186,11 @@ AVXD-32269〜71</p></td>
 <dt><strong>live musicians</strong></dt>
 <dd>Guitar : <a href="https://ja.wikipedia.org/wiki/結城雅彦" title="wikilink">YUKI</a> (<a href="https://ja.wikipedia.org/wiki/DUSTAR-3" title="wikilink">DUSTAR-3</a> / <a href="https://ja.wikipedia.org/wiki/Rayflower" title="wikilink">Rayflower</a>)
 </dd>
-<dd>Guitar : HIRO (<a href="https://ja.wikipedia.org/wiki/Libraian" title="wikilink">Libraian</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
+<dd>Guitar : HIRO (<a href="../Page/Libraian.md" title="wikilink">Libraian</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
 </dd>
 <dd>Bass : <a href="https://ja.wikipedia.org/wiki/SHUSE" title="wikilink">SHUSE</a> (<a href="https://ja.wikipedia.org/wiki/†яi¢к" title="wikilink">†яi¢к</a> / La'cryma Christi)
 </dd>
-<dd>Drums : <a href="https://ja.wikipedia.org/wiki/淳士" title="wikilink">淳士</a> (<a href="https://ja.wikipedia.org/wiki/SIAM_SHADE" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
+<dd>Drums : <a href="../Page/淳士.md" title="wikilink">淳士</a> (<a href="../Page/SIAM_SHADE.md" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
 </dd>
 </dl>
 </div>
@@ -2216,11 +2216,11 @@ AVXD-32269〜71</p></td>
 <dt><strong>live musicians</strong></dt>
 <dd>Guitar : <a href="https://ja.wikipedia.org/wiki/結城雅彦" title="wikilink">YUKI</a> (<a href="https://ja.wikipedia.org/wiki/DUSTAR-3" title="wikilink">DUSTAR-3</a> / <a href="https://ja.wikipedia.org/wiki/Rayflower" title="wikilink">Rayflower</a>)
 </dd>
-<dd>Guitar : HIRO (<a href="https://ja.wikipedia.org/wiki/Libraian" title="wikilink">Libraian</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
+<dd>Guitar : HIRO (<a href="../Page/Libraian.md" title="wikilink">Libraian</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
 </dd>
 <dd>Bass : <a href="https://ja.wikipedia.org/wiki/SHUSE" title="wikilink">SHUSE</a> (<a href="https://ja.wikipedia.org/wiki/†яi¢к" title="wikilink">†яi¢к</a> / La'cryma Christi)
 </dd>
-<dd>Drums : <a href="https://ja.wikipedia.org/wiki/淳士" title="wikilink">淳士</a> (<a href="https://ja.wikipedia.org/wiki/SIAM_SHADE" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
+<dd>Drums : <a href="../Page/淳士.md" title="wikilink">淳士</a> (<a href="../Page/SIAM_SHADE.md" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
 </dd>
 </dl>
 </div>
@@ -2248,11 +2248,11 @@ AVXD-32269〜71</p></td>
 <dt><strong>live musicians</strong></dt>
 <dd>Guitar : <a href="https://ja.wikipedia.org/wiki/結城雅彦" title="wikilink">YUKI</a> (<a href="https://ja.wikipedia.org/wiki/DUSTAR-3" title="wikilink">DUSTAR-3</a> / <a href="https://ja.wikipedia.org/wiki/Rayflower" title="wikilink">Rayflower</a>)
 </dd>
-<dd>Guitar : HIRO (<a href="https://ja.wikipedia.org/wiki/Libraian" title="wikilink">Libraian</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
+<dd>Guitar : HIRO (<a href="../Page/Libraian.md" title="wikilink">Libraian</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
 </dd>
 <dd>Bass : <a href="https://ja.wikipedia.org/wiki/SHUSE" title="wikilink">SHUSE</a> (<a href="https://ja.wikipedia.org/wiki/†яi¢к" title="wikilink">†яi¢к</a> / La'cryma Christi)
 </dd>
-<dd>Drums : <a href="https://ja.wikipedia.org/wiki/淳士" title="wikilink">淳士</a> (<a href="https://ja.wikipedia.org/wiki/SIAM_SHADE" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
+<dd>Drums : <a href="../Page/淳士.md" title="wikilink">淳士</a> (<a href="../Page/SIAM_SHADE.md" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
 </dd>
 </dl>
 </div>
@@ -2276,11 +2276,11 @@ AVXD-32269〜71</p></td>
 <dt><strong>live musicians</strong></dt>
 <dd>Guitar : <a href="https://ja.wikipedia.org/wiki/結城雅彦" title="wikilink">YUKI</a> (<a href="https://ja.wikipedia.org/wiki/DUSTAR-3" title="wikilink">DUSTAR-3</a> / <a href="https://ja.wikipedia.org/wiki/Rayflower" title="wikilink">Rayflower</a>)
 </dd>
-<dd>Guitar : HIRO (<a href="https://ja.wikipedia.org/wiki/Libraian" title="wikilink">Libraian</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
+<dd>Guitar : HIRO (<a href="../Page/Libraian.md" title="wikilink">Libraian</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
 </dd>
 <dd>Bass : <a href="https://ja.wikipedia.org/wiki/SHUSE" title="wikilink">SHUSE</a> (<a href="https://ja.wikipedia.org/wiki/†яi¢к" title="wikilink">†яi¢к</a> / La'cryma Christi)
 </dd>
-<dd>Drums : <a href="https://ja.wikipedia.org/wiki/淳士" title="wikilink">淳士</a> (<a href="https://ja.wikipedia.org/wiki/SIAM_SHADE" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
+<dd>Drums : <a href="../Page/淳士.md" title="wikilink">淳士</a> (<a href="../Page/SIAM_SHADE.md" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
 </dd>
 </dl>
 </div>
@@ -2289,7 +2289,7 @@ AVXD-32269〜71</p></td>
 </tr>
 <tr class="even">
 <td><p>ライブイベント</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/音楽と髭" title="wikilink">音楽と髭 -Rock'n Roll STADIUM-</a>達2014</p></td>
+<td><p><a href="../Page/音楽と髭.md" title="wikilink">音楽と髭 -Rock'n Roll STADIUM-</a>達2014</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
 <p>全1公演</p>
@@ -2304,11 +2304,11 @@ AVXD-32269〜71</p></td>
 <dt><strong>live musicians</strong></dt>
 <dd>Guitar : <a href="https://ja.wikipedia.org/wiki/結城雅彦" title="wikilink">YUKI</a> (<a href="https://ja.wikipedia.org/wiki/DUSTAR-3" title="wikilink">DUSTAR-3</a> / <a href="https://ja.wikipedia.org/wiki/Rayflower" title="wikilink">Rayflower</a>)
 </dd>
-<dd>Guitar : HIRO (<a href="https://ja.wikipedia.org/wiki/Libraian" title="wikilink">Libraian</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
+<dd>Guitar : HIRO (<a href="../Page/Libraian.md" title="wikilink">Libraian</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
 </dd>
 <dd>Bass : <a href="https://ja.wikipedia.org/wiki/SHUSE" title="wikilink">SHUSE</a> (<a href="https://ja.wikipedia.org/wiki/†яi¢к" title="wikilink">†яi¢к</a> / La'cryma Christi)
 </dd>
-<dd>Drums : <a href="https://ja.wikipedia.org/wiki/淳士" title="wikilink">淳士</a> (<a href="https://ja.wikipedia.org/wiki/SIAM_SHADE" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
+<dd>Drums : <a href="../Page/淳士.md" title="wikilink">淳士</a> (<a href="../Page/SIAM_SHADE.md" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
 </dd>
 </dl>
 </div>
@@ -2381,11 +2381,11 @@ AVXD-32269〜71</p></td>
 <dt><strong>live musicians</strong></dt>
 <dd>Guitar : <a href="https://ja.wikipedia.org/wiki/結城雅彦" title="wikilink">YUKI</a> (<a href="https://ja.wikipedia.org/wiki/DUSTAR-3" title="wikilink">DUSTAR-3</a> / <a href="https://ja.wikipedia.org/wiki/Rayflower" title="wikilink">Rayflower</a>)
 </dd>
-<dd>Guitar : HIRO (<a href="https://ja.wikipedia.org/wiki/Libraian" title="wikilink">Libraian</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
+<dd>Guitar : HIRO (<a href="../Page/Libraian.md" title="wikilink">Libraian</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
 </dd>
 <dd>Bass : <a href="https://ja.wikipedia.org/wiki/SHUSE" title="wikilink">SHUSE</a> (<a href="https://ja.wikipedia.org/wiki/†яi¢к" title="wikilink">†яi¢к</a> / La'cryma Christi)
 </dd>
-<dd>Drums : <a href="https://ja.wikipedia.org/wiki/淳士" title="wikilink">淳士</a> (<a href="https://ja.wikipedia.org/wiki/SIAM_SHADE" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
+<dd>Drums : <a href="../Page/淳士.md" title="wikilink">淳士</a> (<a href="../Page/SIAM_SHADE.md" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
 </dd>
 </dl>
 </div>
@@ -2412,11 +2412,11 @@ AVXD-32269〜71</p></td>
 <dt><strong>live musicians</strong></dt>
 <dd>Guitar : <a href="https://ja.wikipedia.org/wiki/結城雅彦" title="wikilink">YUKI</a> (<a href="https://ja.wikipedia.org/wiki/DUSTAR-3" title="wikilink">DUSTAR-3</a> / <a href="https://ja.wikipedia.org/wiki/Rayflower" title="wikilink">Rayflower</a>)
 </dd>
-<dd>Guitar : HIRO (<a href="https://ja.wikipedia.org/wiki/Libraian" title="wikilink">Libraian</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
+<dd>Guitar : HIRO (<a href="../Page/Libraian.md" title="wikilink">Libraian</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
 </dd>
 <dd>Bass : <a href="https://ja.wikipedia.org/wiki/SHUSE" title="wikilink">SHUSE</a> (<a href="https://ja.wikipedia.org/wiki/†яi¢к" title="wikilink">†яi¢к</a> / La'cryma Christi)
 </dd>
-<dd>Drums : <a href="https://ja.wikipedia.org/wiki/淳士" title="wikilink">淳士</a> (<a href="https://ja.wikipedia.org/wiki/SIAM_SHADE" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
+<dd>Drums : <a href="../Page/淳士.md" title="wikilink">淳士</a> (<a href="../Page/SIAM_SHADE.md" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
 </dd>
 </dl>
 </div>
@@ -2442,11 +2442,11 @@ AVXD-32269〜71</p></td>
 <dt><strong>live musicians</strong></dt>
 <dd>Guitar : <a href="https://ja.wikipedia.org/wiki/Leda_(ギタリスト)" title="wikilink">Leda</a>
 </dd>
-<dd>Guitar : HIRO (<a href="https://ja.wikipedia.org/wiki/Libraian" title="wikilink">Libraian</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
+<dd>Guitar : HIRO (<a href="../Page/Libraian.md" title="wikilink">Libraian</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
 </dd>
 <dd>Bass : <a href="https://ja.wikipedia.org/wiki/SHUSE" title="wikilink">SHUSE</a> (<a href="https://ja.wikipedia.org/wiki/†яi¢к" title="wikilink">†яi¢к</a> / La'cryma Christi)
 </dd>
-<dd>Drums : <a href="https://ja.wikipedia.org/wiki/淳士" title="wikilink">淳士</a> (<a href="https://ja.wikipedia.org/wiki/SIAM_SHADE" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
+<dd>Drums : <a href="../Page/淳士.md" title="wikilink">淳士</a> (<a href="../Page/SIAM_SHADE.md" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
 </dd>
 </dl>
 </div>
@@ -2494,11 +2494,11 @@ AVXD-32269〜71</p></td>
 <dt><strong>live musicians</strong></dt>
 <dd>Guitar : <a href="https://ja.wikipedia.org/wiki/結城雅彦" title="wikilink">YUKI</a> (<a href="https://ja.wikipedia.org/wiki/DUSTAR-3" title="wikilink">DUSTAR-3</a> / <a href="https://ja.wikipedia.org/wiki/Rayflower" title="wikilink">Rayflower</a>)
 </dd>
-<dd>Guitar : HIRO (<a href="https://ja.wikipedia.org/wiki/Libraian" title="wikilink">Libraian</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
+<dd>Guitar : HIRO (<a href="../Page/Libraian.md" title="wikilink">Libraian</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
 </dd>
 <dd>Bass : <a href="https://ja.wikipedia.org/wiki/SHUSE" title="wikilink">SHUSE</a> (<a href="https://ja.wikipedia.org/wiki/†яi¢к" title="wikilink">†яi¢к</a> / La'cryma Christi)
 </dd>
-<dd>Drums : <a href="https://ja.wikipedia.org/wiki/淳士" title="wikilink">淳士</a> (<a href="https://ja.wikipedia.org/wiki/SIAM_SHADE" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
+<dd>Drums : <a href="../Page/淳士.md" title="wikilink">淳士</a> (<a href="../Page/SIAM_SHADE.md" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
 </dd>
 </dl>
 </div>
@@ -2530,11 +2530,11 @@ AVXD-32269〜71</p></td>
 <dt><strong>live musicians</strong></dt>
 <dd>Guitar : <a href="https://ja.wikipedia.org/wiki/結城雅彦" title="wikilink">YUKI</a> (<a href="https://ja.wikipedia.org/wiki/DUSTAR-3" title="wikilink">DUSTAR-3</a> / <a href="https://ja.wikipedia.org/wiki/Rayflower" title="wikilink">Rayflower</a>)
 </dd>
-<dd>Guitar : HIRO (<a href="https://ja.wikipedia.org/wiki/Libraian" title="wikilink">Libraian</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
+<dd>Guitar : HIRO (<a href="../Page/Libraian.md" title="wikilink">Libraian</a> / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>)
 </dd>
 <dd>Bass : <a href="https://ja.wikipedia.org/wiki/SHUSE" title="wikilink">SHUSE</a> (<a href="https://ja.wikipedia.org/wiki/†яi¢к" title="wikilink">†яi¢к</a> / La'cryma Christi)
 </dd>
-<dd>Drums : <a href="https://ja.wikipedia.org/wiki/淳士" title="wikilink">淳士</a> (<a href="https://ja.wikipedia.org/wiki/SIAM_SHADE" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
+<dd>Drums : <a href="../Page/淳士.md" title="wikilink">淳士</a> (<a href="../Page/SIAM_SHADE.md" title="wikilink">SIAM SHADE</a> / <a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>)
 </dd>
 </dl>
 </div>
@@ -2584,7 +2584,7 @@ AVXD-32269〜71</p></td>
 
 ## タイアップ
 
-  - 眠り姫:[TBS系](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")『[恋するハニカミ\!](../Page/恋するハニカミ!.md "wikilink")』2月度エンディングテーマ
+  - 眠り姫:[TBS系](../Page/TBSテレビ.md "wikilink")『[恋するハニカミ\!](../Page/恋するハニカミ!.md "wikilink")』2月度エンディングテーマ
   - Re:birth:[PlayStation 3専用ソフト](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")『[Another Century's Episode:R](https://ja.wikipedia.org/wiki/Another_Century's_Episode:R "wikilink")』
   - Greed Greed Greed:TBS系（[毎日放送](../Page/毎日放送.md "wikilink")製作）『[悪霊病棟](https://ja.wikipedia.org/wiki/悪霊病棟 "wikilink")』主題歌
   - INCUBUS:『[MUSIC B.B.](https://ja.wikipedia.org/wiki/MUSIC_B.B. "wikilink")』 2月度オープニングテーマ
@@ -2596,7 +2596,7 @@ AVXD-32269〜71</p></td>
   - [Janne Da Arc](../Page/Janne_Da_Arc.md "wikilink")
   - [yasu](https://ja.wikipedia.org/wiki/yasu "wikilink")
   - [BREAKERZ](https://ja.wikipedia.org/wiki/BREAKERZ "wikilink")
-      - [DAIGO](https://ja.wikipedia.org/wiki/DAIGO "wikilink")
+      - [DAIGO](../Page/DAIGO.md "wikilink")
 
 ## 外部リンク
 

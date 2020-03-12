@@ -1,7 +1,7 @@
 > この記事は[SHINOBI \(\)](https://ja.wikipedia.org/wiki/SHINOBI_\(\))から翻訳されています。
 
 
-**SHINOBI**（シノビ、[1972年](../Page/1972年.md "wikilink")[1月5日](../Page/1月5日.md "wikilink") - ）は、[忍者](https://ja.wikipedia.org/wiki/忍者 "wikilink")をモチーフにした[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[覆面レスラー](https://ja.wikipedia.org/wiki/覆面レスラー "wikilink")。本名：**山本 輝章**（やまもと てるあき）。
+**SHINOBI**（シノビ、[1972年](../Page/1972年.md "wikilink")[1月5日](../Page/1月5日.md "wikilink") - ）は、[忍者](../Page/忍者.md "wikilink")をモチーフにした[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[覆面レスラー](../Page/覆面レスラー.md "wikilink")。本名：**山本 輝章**（やまもと てるあき）。
 
 ## 経歴
 
@@ -9,11 +9,11 @@
 
 理容学校卒業後、プロレスラーになる夢が断ち切れず、理容師への道を捨て土木工事などのアルバイトで[メキシコ](../Page/メキシコ.md "wikilink")へ渡るべく実費を稼ぐ。
 
-[1993年](../Page/1993年.md "wikilink")1月、メキシコへ渡り、エスペクトロ・ジュニア2号、弟のカダベル・デ・ウルトラトゥンバ（カオス・ジュニア）に師事する。師匠から徹底的に[ルチャリブレ](https://ja.wikipedia.org/wiki/ルチャリブレ "wikilink")の基礎を叩き込まれる。同年、[CMLL](https://ja.wikipedia.org/wiki/CMLL "wikilink")に入団。
+[1993年](../Page/1993年.md "wikilink")1月、メキシコへ渡り、エスペクトロ・ジュニア2号、弟のカダベル・デ・ウルトラトゥンバ（カオス・ジュニア）に師事する。師匠から徹底的に[ルチャリブレ](../Page/ルチャリブレ.md "wikilink")の基礎を叩き込まれる。同年、[CMLL](../Page/CMLL.md "wikilink")に入団。
 
-[1994年](../Page/1994年.md "wikilink")7月、CMLLピスタレボルシオン大会でアギラ・ソリタリア、[オーニタ・ジュニアとタッグを組んで対エスペクトロ](https://ja.wikipedia.org/wiki/フライングキッド市原 "wikilink")・ジュニア&ハビエル・クルス&モグール組戦でデビュー。
+[1994年](../Page/1994年.md "wikilink")7月、CMLLピスタレボルシオン大会でアギラ・ソリタリア、[オーニタ・ジュニアとタッグを組んで対エスペクトロ](../Page/フライングキッド市原.md "wikilink")・ジュニア&ハビエル・クルス&モグール組戦でデビュー。
 
-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")4月に右膝の靭帯損傷と12月に右肘脱臼剥離骨折の怪我に泣かされる。その間、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")に一時帰国して[I.W.A.JAPANに参戦](https://ja.wikipedia.org/wiki/IWA・JAPAN "wikilink")。
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")4月に右膝の靭帯損傷と12月に右肘脱臼剥離骨折の怪我に泣かされる。その間、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")に一時帰国して[I.W.A.JAPANに参戦](../Page/IWA・JAPAN.md "wikilink")。
 
 [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")2月、CMLLが[CMLL JAPANの名で日本に初上陸して全国ツアーを開催する際にブッキングと興行の開催にあたって指揮を執っていた](https://ja.wikipedia.org/wiki/CMLL_JAPAN "wikilink")。
 
@@ -21,7 +21,7 @@
 
 [1999年](../Page/1999年.md "wikilink")5月、生まれ故郷の[中国地方](../Page/中国地方.md "wikilink")にプロレス団体「VAMOS」を設立。7月25日、日南町社会体育館でVAMOSの旗揚げ戦を開催。
 
-[2000年](../Page/2000年.md "wikilink")、[磁雷矢](../Page/磁雷矢.md "wikilink")、[SHIIBA](https://ja.wikipedia.org/wiki/筑前りょう太 "wikilink")、[飛影と共にユニット](https://ja.wikipedia.org/wiki/ビリーケン・キッド "wikilink")「[ルチャリブレ日本](https://ja.wikipedia.org/wiki/ルチャリブレ日本 "wikilink")」を結成して[プロレスリング華☆激](https://ja.wikipedia.org/wiki/プロレスリング華☆激 "wikilink")に参戦。
+[2000年](../Page/2000年.md "wikilink")、[磁雷矢](../Page/磁雷矢.md "wikilink")、[SHIIBA](../Page/筑前りょう太.md "wikilink")、[飛影と共にユニット](../Page/ビリーケン・キッド.md "wikilink")「[ルチャリブレ日本](https://ja.wikipedia.org/wiki/ルチャリブレ日本 "wikilink")」を結成して[プロレスリング華☆激](../Page/プロレスリング華☆激.md "wikilink")に参戦。
 
 ## 得意技
 

@@ -1,7 +1,7 @@
 > この記事は[B.T.A.](https://ja.wikipedia.org/wiki/B.T.A.)から翻訳されています。
 
 
-『'''天使の牙B.T.A. '''』は、2003年公開の日本映画。[大沢在昌](https://ja.wikipedia.org/wiki/大沢在昌 "wikilink")の小説『[天使の牙](https://ja.wikipedia.org/wiki/天使の牙 "wikilink")』を映画化したハードボイルド作品である。
+『'''天使の牙B.T.A. '''』は、2003年公開の日本映画。[大沢在昌](../Page/大沢在昌.md "wikilink")の小説『[天使の牙](https://ja.wikipedia.org/wiki/天使の牙 "wikilink")』を映画化したハードボイルド作品である。
 
 ## ストーリー
 
@@ -23,44 +23,44 @@
   - 古芳和正 - [大沢たかお](../Page/大沢たかお.md "wikilink")
   - 神崎はつみ/アスカ - [佐田真由美](../Page/佐田真由美.md "wikilink")
   - 河野明日香 - [黒谷友香](https://ja.wikipedia.org/wiki/黒谷友香 "wikilink")
-  - 最守康夫 - [豊原功補](https://ja.wikipedia.org/wiki/豊原功補 "wikilink")
+  - 最守康夫 - [豊原功補](../Page/豊原功補.md "wikilink")
   - 関藤亮 - [永井大](../Page/永井大.md "wikilink")
-  - 秋田 - [田中要次](https://ja.wikipedia.org/wiki/田中要次 "wikilink")
-  - 水谷 - [遠山俊也](https://ja.wikipedia.org/wiki/遠山俊也 "wikilink")
-  - 岩村 - [日向崇](https://ja.wikipedia.org/wiki/日向崇 "wikilink")
+  - 秋田 - [田中要次](../Page/田中要次.md "wikilink")
+  - 水谷 - [遠山俊也](../Page/遠山俊也.md "wikilink")
+  - 岩村 - [日向崇](../Page/日向崇.md "wikilink")
   - 赤村 - [要潤](../Page/要潤.md "wikilink")
-  - 警察幹部 - [須永慶](https://ja.wikipedia.org/wiki/須永慶 "wikilink")
-  - 神 - [嶋田久作](https://ja.wikipedia.org/wiki/嶋田久作 "wikilink")
-  - 小田医師 - [小木茂光](https://ja.wikipedia.org/wiki/小木茂光 "wikilink")
-  - 芦田課長 - [佐野史郎](https://ja.wikipedia.org/wiki/佐野史郎 "wikilink")
+  - 警察幹部 - [須永慶](../Page/須永慶.md "wikilink")
+  - 神 - [嶋田久作](../Page/嶋田久作.md "wikilink")
+  - 小田医師 - [小木茂光](../Page/小木茂光.md "wikilink")
+  - 芦田課長 - [佐野史郎](../Page/佐野史郎.md "wikilink")
   - 中西警視正 - [西村雅彦](https://ja.wikipedia.org/wiki/西村雅彦 "wikilink")
   - 君国辰郎 - [萩原健一](https://ja.wikipedia.org/wiki/萩原健一 "wikilink")
 
 ## スタッフ
 
-  - エグゼクティブ・プロデューサー：[佐藤敦](https://ja.wikipedia.org/wiki/佐藤敦_\(プロデューサー\) "wikilink")（日本テレビ）
+  - エグゼクティブ・プロデューサー：[佐藤敦](../Page/佐藤敦_\(プロデューサー\).md "wikilink")（日本テレビ）
   - 製作者：[加賀義二](https://ja.wikipedia.org/wiki/加賀義二 "wikilink")、加藤鉄也
-  - 企画：[奥田誠治](https://ja.wikipedia.org/wiki/奥田誠治_\(映画プロデューサー\) "wikilink")、中嶋哲也、毎熊邦夫
+  - 企画：[奥田誠治](../Page/奥田誠治_\(映画プロデューサー\).md "wikilink")、中嶋哲也、毎熊邦夫
   - プロデュース：北島和久、渡邉浩仁、川端基夫
   - 協力プロデューサー：[河野治彦](https://ja.wikipedia.org/wiki/河野治彦 "wikilink")、[伊藤響](https://ja.wikipedia.org/wiki/伊藤響 "wikilink")
   - 監督：西村了
-  - 原作：[大沢在昌](https://ja.wikipedia.org/wiki/大沢在昌 "wikilink")「天使の牙」
-  - 脚本：[寺田敏雄](https://ja.wikipedia.org/wiki/寺田敏雄 "wikilink")、[落合正幸](https://ja.wikipedia.org/wiki/落合正幸 "wikilink")
-  - 脚本協力：[川嶋澄乃](https://ja.wikipedia.org/wiki/川嶋澄乃 "wikilink")、[大石哲也](https://ja.wikipedia.org/wiki/大石哲也 "wikilink")、石橋周一
+  - 原作：[大沢在昌](../Page/大沢在昌.md "wikilink")「天使の牙」
+  - 脚本：[寺田敏雄](https://ja.wikipedia.org/wiki/寺田敏雄 "wikilink")、[落合正幸](../Page/落合正幸.md "wikilink")
+  - 脚本協力：[川嶋澄乃](https://ja.wikipedia.org/wiki/川嶋澄乃 "wikilink")、[大石哲也](../Page/大石哲也.md "wikilink")、石橋周一
   - 撮影：[河津太郎](https://ja.wikipedia.org/wiki/河津太郎 "wikilink")
   - 編集：[普嶋信一](https://ja.wikipedia.org/wiki/普嶋信一 "wikilink")
   - 音楽：[松本俊明](https://ja.wikipedia.org/wiki/松本俊明 "wikilink")
-  - 音楽プロデュース：[志田博英](https://ja.wikipedia.org/wiki/志田博英 "wikilink")
+  - 音楽プロデュース：[志田博英](../Page/志田博英.md "wikilink")
   - 主題歌：[t.A.T.u.](https://ja.wikipedia.org/wiki/t.A.T.u. "wikilink")「[ノット・ゴナ・ゲット・アス](https://ja.wikipedia.org/wiki/ノット・ゴナ・ゲット・アス "wikilink")」
   - ガンエフェクト：[BIGSHOT](../Page/ビッグショット_\(特殊効果\).md "wikilink")（納富喜久男、唐沢裕一、小西剛）
-  - スタントコーディネイター：[釼持誠](https://ja.wikipedia.org/wiki/釼持誠 "wikilink")
-  - スタジオ：[日活撮影所](https://ja.wikipedia.org/wiki/日活撮影所 "wikilink")
+  - スタントコーディネイター：[釼持誠](../Page/釼持誠.md "wikilink")
+  - スタジオ：[日活撮影所](../Page/日活撮影所.md "wikilink")
   - 企画協力：[大沢オフィス](https://ja.wikipedia.org/wiki/大沢オフィス "wikilink")
   - 配給・宣伝：[ワーナー・ブラザース映画](https://ja.wikipedia.org/wiki/ワーナー_ブラザース_ジャパン "wikilink")
   - 宣伝協力：[レオ・エンタープライズ](https://ja.wikipedia.org/wiki/レオ・エンタープライズ "wikilink")
   - 製作協力：[日本テレビアート](../Page/日本テレビアート.md "wikilink")、三城
   - 制作プロダクション：[トワーニ](https://ja.wikipedia.org/wiki/トワーニ "wikilink")
-  - 製作：「天使の牙」製作委員会（トワーニ（[東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")、ワーナー・ブラザース映画、[日本テレビ放送網](../Page/日本テレビ放送網.md "wikilink")）、[電通](../Page/電通.md "wikilink")、[小学館](../Page/小学館.md "wikilink")、[エイベックス・グループ](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")、[日本出版販売](https://ja.wikipedia.org/wiki/日本出版販売 "wikilink")、[日本テレビ音楽](https://ja.wikipedia.org/wiki/日本テレビ音楽 "wikilink")、[バップ](https://ja.wikipedia.org/wiki/バップ "wikilink")、日本テレビアート）
+  - 製作：「天使の牙」製作委員会（トワーニ（[東芝](../Page/東芝.md "wikilink")、ワーナー・ブラザース映画、[日本テレビ放送網](../Page/日本テレビ放送網.md "wikilink")）、[電通](../Page/電通.md "wikilink")、[小学館](../Page/小学館.md "wikilink")、[エイベックス・グループ](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")、[日本出版販売](../Page/日本出版販売.md "wikilink")、[日本テレビ音楽](../Page/日本テレビ音楽.md "wikilink")、[バップ](../Page/バップ.md "wikilink")、日本テレビアート）
 
 ## ソフト化
 

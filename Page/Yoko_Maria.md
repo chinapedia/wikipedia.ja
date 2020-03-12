@@ -5,7 +5,7 @@
 
 ## 経歴
 
-[東京音楽大学](https://ja.wikipedia.org/wiki/東京音楽大学 "wikilink")大学院修士課程を卒業後、[フィンランド](https://ja.wikipedia.org/wiki/フィンランド "wikilink")の[ヘルシンキ](../Page/ヘルシンキ.md "wikilink")に留学し、[バリトン](../Page/バリトン.md "wikilink")歌手の下で学んだ。その間、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[カールスルーエ音楽大学](https://ja.wikipedia.org/wiki/カールスルーエ音楽大学 "wikilink")や、[ロシア](../Page/ロシア.md "wikilink")の[チャイコフスキー記念ロシア国立モスクワ音楽院でも研鑽を積む](https://ja.wikipedia.org/wiki/モスクワ音楽院 "wikilink")\[1\]。
+[東京音楽大学](../Page/東京音楽大学.md "wikilink")大学院修士課程を卒業後、[フィンランド](../Page/フィンランド.md "wikilink")の[ヘルシンキ](../Page/ヘルシンキ.md "wikilink")に留学し、[バリトン](../Page/バリトン.md "wikilink")歌手の下で学んだ。その間、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[カールスルーエ音楽大学](../Page/カールスルーエ音楽大学.md "wikilink")や、[ロシア](../Page/ロシア.md "wikilink")の[チャイコフスキー記念ロシア国立モスクワ音楽院でも研鑽を積む](../Page/モスクワ音楽院.md "wikilink")\[1\]。
 
 数多くの国際コンクールにて入賞を果たしている\[2\]。
 
@@ -13,7 +13,7 @@
 
 それと共に更なる試行錯誤を続け、音楽のジャンルを超え、国境を越えたクラシック・[クロスオーバーの道をも切り開いている](../Page/クロスオーバー_\(音楽\).md "wikilink")。クラシカル・クロスオーバーの北欧の歌姫と呼ばれる。
 
-2010年12月15日、アメリカ、ニューヨークの[カーネギー・ホール](https://ja.wikipedia.org/wiki/カーネギー・ホール "wikilink")にて、カーネギー・デビュー単独ソプラノ・リサイタルが行われた\[3\]。その後、同ホールでは2016年6月20日に2度目の\[4\]、2018年5月21日に3度目の\[5\]単独リサイタルを行っている。
+2010年12月15日、アメリカ、ニューヨークの[カーネギー・ホール](../Page/カーネギー・ホール.md "wikilink")にて、カーネギー・デビュー単独ソプラノ・リサイタルが行われた\[3\]。その後、同ホールでは2016年6月20日に2度目の\[4\]、2018年5月21日に3度目の\[5\]単独リサイタルを行っている。
 
 ## ディスコグラフィ
 
@@ -36,33 +36,33 @@
 <td><p>Ave Maria - eternal love<br />
 アヴェマリア〜永遠の愛</p></td>
 <td><p>1. 悲しみの果て〜<a href="../Page/ピアノソナタ第8番_(ベートーヴェン).md" title="wikilink">ピアノ・ソナタ「悲愴」より</a><br />
-2. ネッラ・ファンタジア〜映画「<a href="https://ja.wikipedia.org/wiki/ミッション_(映画)" title="wikilink">ミッション</a>」より<br />
+2. ネッラ・ファンタジア〜映画「<a href="../Page/ミッション_(映画).md" title="wikilink">ミッション</a>」より<br />
 3. ジュピター〜組曲「<a href="../Page/惑星_(組曲).md" title="wikilink">惑星</a>」より<br />
-4. 遥かな旅のはてに〜NHKドラマ「<a href="https://ja.wikipedia.org/wiki/ハルとナツ_届かなかった手紙" title="wikilink">ハルとナツ 届かなかった手紙</a>」メインテーマより<br />
-5. 愛のテーマ〜映画「<a href="https://ja.wikipedia.org/wiki/ニュー・シネマ・パラダイス" title="wikilink">ニュー・シネマ・パラダイス</a>」より<br />
+4. 遥かな旅のはてに〜NHKドラマ「<a href="../Page/ハルとナツ_届かなかった手紙.md" title="wikilink">ハルとナツ 届かなかった手紙</a>」メインテーマより<br />
+5. 愛のテーマ〜映画「<a href="../Page/ニュー・シネマ・パラダイス.md" title="wikilink">ニュー・シネマ・パラダイス</a>」より<br />
 6. 心の翼<br />
-7. 夢の扉を開いて〜「<a href="https://ja.wikipedia.org/wiki/愛の挨拶" title="wikilink">愛の挨拶</a>」より<br />
+7. 夢の扉を開いて〜「<a href="../Page/愛の挨拶.md" title="wikilink">愛の挨拶</a>」より<br />
 8. <a href="../Page/聖母たちのララバイ.md" title="wikilink">聖母たちのララバイ</a><br />
 9. 人魚姫（月に寄せる歌）〜歌劇「<a href="https://ja.wikipedia.org/wiki/ルサルカ_(ドヴォルザーク)" title="wikilink">ルサルカ</a>」より<br />
 10. <a href="../Page/さくら_(森山直太朗の曲).md" title="wikilink">さくら</a><br />
 11. 夢のあとに<br />
-12. <a href="https://ja.wikipedia.org/wiki/天城越え_(曲)" title="wikilink">天城越え</a><br />
-13. <a href="https://ja.wikipedia.org/wiki/ウラディーミル・ヴァヴィロフ" title="wikilink">アヴェ・マリア</a>（<a href="https://ja.wikipedia.org/wiki/ジュリオ・カッチーニ" title="wikilink">カッチーニ</a>）<br />
+12. <a href="../Page/天城越え_(曲).md" title="wikilink">天城越え</a><br />
+13. <a href="https://ja.wikipedia.org/wiki/ウラディーミル・ヴァヴィロフ" title="wikilink">アヴェ・マリア</a>（<a href="../Page/ジュリオ・カッチーニ.md" title="wikilink">カッチーニ</a>）<br />
 14. <a href="../Page/エレンの歌第3番.md" title="wikilink">アヴェ・マリア</a>（<a href="../Page/フランツ・シューベルト.md" title="wikilink">シューベルト</a>）<br />
-15. <a href="https://ja.wikipedia.org/wiki/フィンランディア" title="wikilink">フィンランディア</a><br />
-16. <a href="https://ja.wikipedia.org/wiki/誰も寝てはならぬ" title="wikilink">涙の星（リューの愛）</a>〜歌劇「<a href="https://ja.wikipedia.org/wiki/トゥーランドット" title="wikilink">トゥーランドット</a>」より</p></td>
+15. <a href="../Page/フィンランディア.md" title="wikilink">フィンランディア</a><br />
+16. <a href="../Page/誰も寝てはならぬ.md" title="wikilink">涙の星（リューの愛）</a>〜歌劇「<a href="../Page/トゥーランドット.md" title="wikilink">トゥーランドット</a>」より</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
 <td><p>2012年11月27日</p></td>
 <td><p>2番目の優しい歌たち</p></td>
 <td><p>1. めぐり逢い <em>Comme Au Premier Jour</em><br />
-2. <a href="https://ja.wikipedia.org/wiki/ジャンニ・スキッキ" title="wikilink">私のお父さん</a> <em>O mio babbino caro</em><br />
+2. <a href="../Page/ジャンニ・スキッキ.md" title="wikilink">私のお父さん</a> <em>O mio babbino caro</em><br />
 3. <a href="https://ja.wikipedia.org/wiki/ニューシネマパラダイス" title="wikilink">ニューシネマパラダイス</a> <em>New Cinema Paradise</em><br />
-4. <a href="https://ja.wikipedia.org/wiki/タイタニック_(1997年の映画)" title="wikilink">タイタニック</a> <em>Titanic</em><br />
+4. <a href="../Page/タイタニック_(1997年の映画).md" title="wikilink">タイタニック</a> <em>Titanic</em><br />
 5. <a href="https://ja.wikipedia.org/wiki/ネッラ・ファンタジア" title="wikilink">ネッラ ファンタジア</a> <em>Nella Fantasia</em><br />
 6. <a href="https://ja.wikipedia.org/wiki/私を泣かせてください" title="wikilink">私を泣かせてください</a> <em>Lacia ch'io pianga</em><br />
-7. <a href="https://ja.wikipedia.org/wiki/恋におちて_-Fall_in_love-" title="wikilink">恋に落ちて</a> <em>Fall in love</em><br />
+7. <a href="../Page/恋におちて_-Fall_in_love-.md" title="wikilink">恋に落ちて</a> <em>Fall in love</em><br />
 8. <a href="https://ja.wikipedia.org/wiki/スマイル_(チャールズ・チャップリンの曲)" title="wikilink">スマイル</a> <em>Smile</em><br />
 9. ベツレヘムの星 <em>The Star of Bethlehem</em><br />
 </p></td>
@@ -71,10 +71,10 @@
 <td><p>3</p></td>
 <td><p>2016年3月7日</p></td>
 <td><p>Fall in love〜愛する人へ</p></td>
-<td><p>1. 私を想って Think of me（ミュージカル「<a href="https://ja.wikipedia.org/wiki/オペラ座の怪人_(1986年のミュージカル)" title="wikilink">オペラ座の怪人</a>」）<br />
+<td><p>1. 私を想って Think of me（ミュージカル「<a href="../Page/オペラ座の怪人_(1986年のミュージカル).md" title="wikilink">オペラ座の怪人</a>」）<br />
 2. タイム・トゥ・セイ・グッドバイ Time to Say Goodbye<br />
 3. 愛する人へ To my loved one<br />
-4. この愛は永遠に My heart will go on（<a href="https://ja.wikipedia.org/wiki/タイタニック_(1997年の映画)" title="wikilink">タイタニック</a> Titanic）<br />
+4. この愛は永遠に My heart will go on（<a href="../Page/タイタニック_(1997年の映画).md" title="wikilink">タイタニック</a> Titanic）<br />
 5. もしも世界が（<a href="https://ja.wikipedia.org/wiki/アメイジンググレイス" title="wikilink">アメイジンググレイス</a> Amazing Grace）<br />
 6. オーホーリーナイト Oh holy night! 〜ああ、神聖なる夜〜<br />
 7. ベツレヘムの星 The Star of Bethlehem<br />

@@ -1,7 +1,7 @@
 > この記事は[AlohAAA!](https://ja.wikipedia.org/wiki/AlohAAA!)から翻訳されています。
 
 
-『**alohAAA\!**』（アロハ\!）は、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[3月21日](https://ja.wikipedia.org/wiki/3月21日 "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")[AAAの](https://ja.wikipedia.org/wiki/AAA_\(音楽グループ\) "wikilink")3枚目の[ミニアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。
+『**alohAAA\!**』（アロハ\!）は、[2007年](../Page/2007年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")[AAAの](../Page/AAA_\(音楽グループ\).md "wikilink")3枚目の[ミニアルバム](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 解説
 
@@ -26,8 +26,8 @@
         新録曲。
 2.  **太陽(4:48)**
       -
-        1st Album「[ATTACK](https://ja.wikipedia.org/wiki/ATTACK "wikilink")」収録曲。
-3.  **[ハリケーン・リリ、ボストン・マリ](https://ja.wikipedia.org/wiki/ハリケーン・リリ、ボストン・マリ "wikilink")(5:00)**
+        1st Album「[ATTACK](../Page/ATTACK.md "wikilink")」収録曲。
+3.  **[ハリケーン・リリ、ボストン・マリ](../Page/ハリケーン・リリ、ボストン・マリ.md "wikilink")(5:00)**
       -
         7thシングル。
 4.  **VIRGIN F(4:26)**
@@ -36,7 +36,7 @@
 5.  **地球に抱かれて(4:21)**
       -
         1stアルバム「ATTACK」収録曲。
-6.  **[Shalala キボウの歌](https://ja.wikipedia.org/wiki/Shalala_キボウの歌 "wikilink")(4:07)**
+6.  **[Shalala キボウの歌](../Page/Shalala_キボウの歌.md "wikilink")(4:07)**
       -
         6thシングル。
 

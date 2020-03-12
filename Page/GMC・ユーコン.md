@@ -1,21 +1,21 @@
 > この記事は[GMC](https://ja.wikipedia.org/wiki/GMC)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:GMC-Yukon-Hybrid-DC.jpg "wikilink") **GMC・ユーコン**（*GMC Yukon* ）は[ゼネラルモーターズ](https://ja.wikipedia.org/wiki/ゼネラルモーターズ "wikilink") (GM) が[GMC](https://ja.wikipedia.org/wiki/GMC "wikilink")ブランドで販売しているフルサイズ[SUV](https://ja.wikipedia.org/wiki/SUV "wikilink")である。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:GMC-Yukon-Hybrid-DC.jpg "wikilink") **GMC・ユーコン**（*GMC Yukon* ）は[ゼネラルモーターズ](../Page/ゼネラルモーターズ.md "wikilink") (GM) が[GMC](../Page/GMC.md "wikilink")ブランドで販売しているフルサイズ[SUV](https://ja.wikipedia.org/wiki/SUV "wikilink")である。
 
 ## 概要
 
-標準ボディとロングボディ（ユーコンXL）の2種類が存在し、それぞれ[シボレー・タホ](../Page/シボレー・タホ.md "wikilink")と[シボレー・サバーバン](https://ja.wikipedia.org/wiki/シボレー・サバーバン "wikilink")の[リバッジ車である](https://ja.wikipedia.org/wiki/バッジエンジニアリング "wikilink")。[シボレー](https://ja.wikipedia.org/wiki/シボレー "wikilink")版にはないGMC版の大きな特徴として高級グレード「デナリ」の設定があるが、ユーコンはデナリの名称が最初に導入された車種でもある。
+標準ボディとロングボディ（ユーコンXL）の2種類が存在し、それぞれ[シボレー・タホ](../Page/シボレー・タホ.md "wikilink")と[シボレー・サバーバン](../Page/シボレー・サバーバン.md "wikilink")の[リバッジ車である](https://ja.wikipedia.org/wiki/バッジエンジニアリング "wikilink")。[シボレー](../Page/シボレー.md "wikilink")版にはないGMC版の大きな特徴として高級グレード「デナリ」の設定があるが、ユーコンはデナリの名称が最初に導入された車種でもある。
 
 ## 歴史
 
 ### 初代（1992-1999年）
 
-[Yukon2015.jpg](https://ja.wikipedia.org/wiki/File:Yukon2015.jpg "fig:Yukon2015.jpg") [thumb](https://ja.wikipedia.org/wiki/ファイル:1st-GMC-Yukon-4door.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:1st-GMC-Yukon-Denali.jpg "wikilink") 1980年代から1990年代初めにかけて、GMは2つの異なるサイズの[SUV](https://ja.wikipedia.org/wiki/SUV "wikilink")を同一の車名（シボレー版は[ブレイザー](https://ja.wikipedia.org/wiki/シボレー・ブレイザー "wikilink")、GMC版はジミー）で販売していたが、[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")にフルサイズ版のSUVをモデルチェンジするにあたり、GMC版についてはユーコンと改名した。当初は2ドアモデルのみであったが、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")モデルイヤーで4ドアモデルが加わり、同時にシボレー版もブレイザーからタホへと改名した。タホ／ユーコンはシボレー／GMC・サバーバンよりも全長が短いが、いずれもGMT400プラットフォームをベースとしていた。この[プラットフォームは本来トラックのシャシーで](https://ja.wikipedia.org/wiki/プラットフォーム_\(自動車\) "wikilink")、[シボレー・C/K](https://ja.wikipedia.org/wiki/シボレー・C/K "wikilink")シリーズなどのフルサイズ[ピックアップトラック](https://ja.wikipedia.org/wiki/ピックアップトラック "wikilink")に使用されていた。また、[FRと](https://ja.wikipedia.org/wiki/後輪駆動 "wikilink")[AWDの両方をラインナップしていた](../Page/四輪駆動.md "wikilink")。
+[Yukon2015.jpg](https://ja.wikipedia.org/wiki/File:Yukon2015.jpg "fig:Yukon2015.jpg") [thumb](https://ja.wikipedia.org/wiki/ファイル:1st-GMC-Yukon-4door.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:1st-GMC-Yukon-Denali.jpg "wikilink") 1980年代から1990年代初めにかけて、GMは2つの異なるサイズの[SUV](https://ja.wikipedia.org/wiki/SUV "wikilink")を同一の車名（シボレー版は[ブレイザー](https://ja.wikipedia.org/wiki/シボレー・ブレイザー "wikilink")、GMC版はジミー）で販売していたが、[1992年](../Page/1992年.md "wikilink")にフルサイズ版のSUVをモデルチェンジするにあたり、GMC版についてはユーコンと改名した。当初は2ドアモデルのみであったが、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")モデルイヤーで4ドアモデルが加わり、同時にシボレー版もブレイザーからタホへと改名した。タホ／ユーコンはシボレー／GMC・サバーバンよりも全長が短いが、いずれもGMT400プラットフォームをベースとしていた。この[プラットフォームは本来トラックのシャシーで](../Page/プラットフォーム_\(自動車\).md "wikilink")、[シボレー・C/K](https://ja.wikipedia.org/wiki/シボレー・C/K "wikilink")シリーズなどのフルサイズ[ピックアップトラック](../Page/ピックアップトラック.md "wikilink")に使用されていた。また、[FRと](../Page/後輪駆動.md "wikilink")[AWDの両方をラインナップしていた](../Page/四輪駆動.md "wikilink")。
 
   - デナリ
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")モデルイヤーに[リンカーン・ナビゲーター](https://ja.wikipedia.org/wiki/リンカーン・ナビゲーター "wikilink")に対するGMからの回答としてユーコンの豪華版である「デナリ」が導入された。しかし、その後[1999年](../Page/1999年.md "wikilink")にGMは[キャデラック](https://ja.wikipedia.org/wiki/キャデラック "wikilink")からユーコンデナリのリバッジ車を「[エスカレード](https://ja.wikipedia.org/wiki/キャデラック・エスカレード "wikilink")」の車名で登場させた。ユーコンデナリの外観はエスカレードと共通しており、全てのフロントクリップとサイド下部のボディパネルがノーマルのユーコンと異なっていた。デナリはしかし、アップグレードされた革張りの内装、パワーシート、フロント及びリアのヒーター付きシート、[ボーズステレオシステム](https://ja.wikipedia.org/wiki/ボーズ_\(企業\) "wikilink")、ダッシュボードの木目調パネルなど、ノーマルのユーコンにはない豪華なオプションを備えていた。
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")モデルイヤーに[リンカーン・ナビゲーター](../Page/リンカーン・ナビゲーター.md "wikilink")に対するGMからの回答としてユーコンの豪華版である「デナリ」が導入された。しかし、その後[1999年](../Page/1999年.md "wikilink")にGMは[キャデラック](../Page/キャデラック.md "wikilink")からユーコンデナリのリバッジ車を「[エスカレード](../Page/キャデラック・エスカレード.md "wikilink")」の車名で登場させた。ユーコンデナリの外観はエスカレードと共通しており、全てのフロントクリップとサイド下部のボディパネルがノーマルのユーコンと異なっていた。デナリはしかし、アップグレードされた革張りの内装、パワーシート、フロント及びリアのヒーター付きシート、[ボーズステレオシステム](../Page/ボーズ_\(企業\).md "wikilink")、ダッシュボードの木目調パネルなど、ノーマルのユーコンにはない豪華なオプションを備えていた。
 
 ### 2代目（2000-2006年）
 
@@ -27,17 +27,17 @@
 
 ### 3代目（2007年-）
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:GMC_Yukon.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:2010_GMC_Yukon_XL_SLT_--_05-06-2011.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:GMC_Yukon_Denali_2_--_03-22-2010.jpg "wikilink") [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")末にGMT900プラットホームをベースとしたSUVの製造が始まり、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")はじめに2007年モデルとして発売開始された。タホ／サバーバンとユーコンは異なるフロントマスクを与えられ、とりわけグリルとヘッドライトの形状はユーコンを以前のモデルよりおとなしく見せていた。搭載されているエンジンは、4.8L（V8・290馬力）、5.6L（V8・320馬力）、6.0L（V8・350馬力）の3種類である。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")にはタホとともにハイブリッド仕様が追加されたが、XLにはハイブリッドの設定はない。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:GMC_Yukon.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:2010_GMC_Yukon_XL_SLT_--_05-06-2011.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:GMC_Yukon_Denali_2_--_03-22-2010.jpg "wikilink") [2005年](../Page/2005年.md "wikilink")末にGMT900プラットホームをベースとしたSUVの製造が始まり、[2006年](../Page/2006年.md "wikilink")はじめに2007年モデルとして発売開始された。タホ／サバーバンとユーコンは異なるフロントマスクを与えられ、とりわけグリルとヘッドライトの形状はユーコンを以前のモデルよりおとなしく見せていた。搭載されているエンジンは、4.8L（V8・290馬力）、5.6L（V8・320馬力）、6.0L（V8・350馬力）の3種類である。[2007年](../Page/2007年.md "wikilink")にはタホとともにハイブリッド仕様が追加されたが、XLにはハイブリッドの設定はない。
 
   - デナリ
 
-ノーマルのユーコンと同時にデナリも2007年モデルイヤーにモデルチェンジした。クロームアクセントをふんだんに使用している点がノーマルのユーコンとの外観の相違である。[キャデラック・エスカレード](https://ja.wikipedia.org/wiki/キャデラック・エスカレード "wikilink")と同じ6.2Lエンジンが搭載される。また、デナリにもハイブリッド仕様が存在する。
+ノーマルのユーコンと同時にデナリも2007年モデルイヤーにモデルチェンジした。クロームアクセントをふんだんに使用している点がノーマルのユーコンとの外観の相違である。[キャデラック・エスカレード](../Page/キャデラック・エスカレード.md "wikilink")と同じ6.2Lエンジンが搭載される。また、デナリにもハイブリッド仕様が存在する。
 
 ## 関連項目
 
   - [シボレー・タホ](../Page/シボレー・タホ.md "wikilink")
-  - [シボレー・サバーバン](https://ja.wikipedia.org/wiki/シボレー・サバーバン "wikilink")
-  - [キャデラック・エスカレード](https://ja.wikipedia.org/wiki/キャデラック・エスカレード "wikilink")
+  - [シボレー・サバーバン](../Page/シボレー・サバーバン.md "wikilink")
+  - [キャデラック・エスカレード](../Page/キャデラック・エスカレード.md "wikilink")
 
 ## 外部リンク
 

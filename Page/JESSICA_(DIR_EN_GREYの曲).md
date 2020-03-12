@@ -1,13 +1,13 @@
 > この記事は[JESSICA \(DIR EN GREY\)](https://ja.wikipedia.org/wiki/JESSICA_\(DIR_EN_GREY\))から翻訳されています。
 
 
-「**JESSICA**」（ジェシカ）は[Dir en greyのメジャー](https://ja.wikipedia.org/wiki/DIR_EN_GREY "wikilink")11枚目のシングル。
+「**JESSICA**」（ジェシカ）は[Dir en greyのメジャー](../Page/DIR_EN_GREY.md "wikilink")11枚目のシングル。
 
 ## 概説
 
   - 2ヶ月連続リリースシングルの第1弾。
   - この時期、京は雑誌で「ラブ・ソングを歌っていく」という発言をしている。
-  - [ミュージッククリップ](https://ja.wikipedia.org/wiki/ミュージッククリップ "wikilink")には[アニメーション](../Page/アニメーション.md "wikilink")を採用しており、メンバーの映像が[立体](https://ja.wikipedia.org/wiki/立体 "wikilink")、[平面](../Page/平面.md "wikilink")と変化するシーンとの2つで構成されている。
+  - [ミュージッククリップ](https://ja.wikipedia.org/wiki/ミュージッククリップ "wikilink")には[アニメーション](../Page/アニメーション.md "wikilink")を採用しており、メンバーの映像が[立体](../Page/立体.md "wikilink")、[平面](../Page/平面.md "wikilink")と変化するシーンとの2つで構成されている。
 
 ## 曲目
 
@@ -18,7 +18,7 @@
 2.  **24個シリンダー**
     (詞:京 曲:Die 編曲:Dir en grey)
       -
-        展開が多く用いられた、尺の長い[ロック](../Page/ロック_\(音楽\).md "wikilink")・[バラード](../Page/バラード.md "wikilink")。詞には英詞による語りも挿入されるなど、新しい試みが取り入れられている。アルバム「[鬼葬](https://ja.wikipedia.org/wiki/鬼葬 "wikilink")」にも収録されている。
+        展開が多く用いられた、尺の長い[ロック](../Page/ロック_\(音楽\).md "wikilink")・[バラード](../Page/バラード.md "wikilink")。詞には英詞による語りも挿入されるなど、新しい試みが取り入れられている。アルバム「[鬼葬](../Page/鬼葬.md "wikilink")」にも収録されている。
 3.  **24個シリンダー　GRENADE LUNCH MIX〜16キップリミックス**
       -
         24個シリンダーのリミックスヴァージョン。

@@ -1,11 +1,11 @@
 > この記事は[BACK-ON](https://ja.wikipedia.org/wiki/BACK-ON)から翻訳されています。
 
 
-**BACK-ON**（バックオン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミクスチャー・ロック](https://ja.wikipedia.org/wiki/ミクスチャー・ロック "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[2002年](../Page/2002年.md "wikilink")結成。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、[cutting edgeよりメジャーデビュー](https://ja.wikipedia.org/wiki/cutting_edge "wikilink")。
+**BACK-ON**（バックオン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミクスチャー・ロック](../Page/ミクスチャー・ロック.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[2002年](../Page/2002年.md "wikilink")結成。[2005年](../Page/2005年.md "wikilink")、[cutting edgeよりメジャーデビュー](https://ja.wikipedia.org/wiki/cutting_edge "wikilink")。
 
 ## メンバー
 
-KENJI03は[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[松戸市](https://ja.wikipedia.org/wiki/松戸市 "wikilink")出身\[1\]。他メンバー[足立区](https://ja.wikipedia.org/wiki/足立区 "wikilink")出身。
+KENJI03は[千葉県](../Page/千葉県.md "wikilink")[松戸市](https://ja.wikipedia.org/wiki/松戸市 "wikilink")出身\[1\]。他メンバー[足立区](../Page/足立区.md "wikilink")出身。
 
   - **TEEDA**（ティーダ）
 
@@ -22,7 +22,7 @@ KENJI03は[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[松戸
 
   -
     [MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")担当。[1984年](../Page/1984年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")生まれ。O型。
-      - [台湾人](https://ja.wikipedia.org/wiki/台湾人 "wikilink")（[台湾原住民](../Page/台湾原住民.md "wikilink")の[タイヤル族](../Page/タイヤル族.md "wikilink")）の母親と日本人の父親の日台ハーフ。中国語が堪能で、[台北日本人学校](https://ja.wikipedia.org/wiki/台北日本人学校 "wikilink")の小学部で半年間勉強\[2\]したこともある。妻は歌手の[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")\[3\]。他アーティストへの楽曲提供などで活動する場合は、**Hi-yunk**（ハイユンク）名義で行うことが多い\[4\]。
+      - [台湾人](../Page/台湾人.md "wikilink")（[台湾原住民](../Page/台湾原住民.md "wikilink")の[タイヤル族](../Page/タイヤル族.md "wikilink")）の母親と日本人の父親の日台ハーフ。中国語が堪能で、[台北日本人学校](https://ja.wikipedia.org/wiki/台北日本人学校 "wikilink")の小学部で半年間勉強\[2\]したこともある。妻は歌手の[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")\[3\]。他アーティストへの楽曲提供などで活動する場合は、**Hi-yunk**（ハイユンク）名義で行うことが多い\[4\]。
 
 ### 元メンバー
 
@@ -58,37 +58,37 @@ KENJI03は[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[松戸
 <!-- end list -->
 
   -
-    [ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。[1984年](../Page/1984年.md "wikilink")[6月13日](../Page/6月13日.md "wikilink")生まれ。B型。2017年5月26日、恵比寿LIQUIDROOM『BACK-ON 15th Anniversary Live - Ultimate Thanks -』公演をもって脱退した。
+    [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。[1984年](../Page/1984年.md "wikilink")[6月13日](../Page/6月13日.md "wikilink")生まれ。B型。2017年5月26日、恵比寿LIQUIDROOM『BACK-ON 15th Anniversary Live - Ultimate Thanks -』公演をもって脱退した。
 
 ## 概要
 
-[2002年](../Page/2002年.md "wikilink")に、地元足立区の幼なじみ、MCのTEEDA、MC/ギターボーカルのKENJI03、ギターのSHU、ベースのGORIの4人を中心に結成。のちに初期からのメンバー、ドラムのMACCHINが脱退し、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")にドラムICCHANが加入、約5年間の活動後 2011年10月14日に脱退を発表。その後新メンバーを加入する事なく、メンバー4人とサポートドラムの体制で活動していたが、2017年にSHUとGORIが脱退。現在はTEEDAとKENJI03の2人で活動している。
+[2002年](../Page/2002年.md "wikilink")に、地元足立区の幼なじみ、MCのTEEDA、MC/ギターボーカルのKENJI03、ギターのSHU、ベースのGORIの4人を中心に結成。のちに初期からのメンバー、ドラムのMACCHINが脱退し、[2007年](../Page/2007年.md "wikilink")にドラムICCHANが加入、約5年間の活動後 2011年10月14日に脱退を発表。その後新メンバーを加入する事なく、メンバー4人とサポートドラムの体制で活動していたが、2017年にSHUとGORIが脱退。現在はTEEDAとKENJI03の2人で活動している。
 
-バンド名の名付け親は[RIZE](https://ja.wikipedia.org/wiki/RIZE "wikilink")の[JESSE](../Page/JESSE.md "wikilink")。一部で漢字で**爆音**と当て字をすることもある。インディーズデビュー当時から、アルバム『[RELOAD](https://ja.wikipedia.org/wiki/RELOAD_\(BACK-ONのアルバム\) "wikilink")』の一部収録楽曲まで[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")は、ボーカルグループの[GReeeeN](https://ja.wikipedia.org/wiki/GReeeeN "wikilink")や、ロックバンドの[ロットングラフティー](https://ja.wikipedia.org/wiki/ロットングラフティー "wikilink")などのプロデュースを手がける[High Speed Boyzの](https://ja.wikipedia.org/wiki/High_Speed_Boyz "wikilink")[JINが行っていた](https://ja.wikipedia.org/wiki/JIN_\(ミュージシャン\) "wikilink")。(現在はセルフプロデュース)
+バンド名の名付け親は[RIZE](../Page/RIZE.md "wikilink")の[JESSE](../Page/JESSE.md "wikilink")。一部で漢字で**爆音**と当て字をすることもある。インディーズデビュー当時から、アルバム『[RELOAD](https://ja.wikipedia.org/wiki/RELOAD_\(BACK-ONのアルバム\) "wikilink")』の一部収録楽曲まで[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")は、ボーカルグループの[GReeeeN](https://ja.wikipedia.org/wiki/GReeeeN "wikilink")や、ロックバンドの[ロットングラフティー](https://ja.wikipedia.org/wiki/ロットングラフティー "wikilink")などのプロデュースを手がける[High Speed Boyzの](https://ja.wikipedia.org/wiki/High_Speed_Boyz "wikilink")[JINが行っていた](../Page/JIN_\(ミュージシャン\).md "wikilink")。(現在はセルフプロデュース)
 
 **BACK-ON**、GReeeeN、[High Speed BoyzのJINとのコラボレーション音楽ユニット](https://ja.wikipedia.org/wiki/High_Speed_Boyz "wikilink")『[BAReeeeeeeeeeN](https://ja.wikipedia.org/wiki/BAReeeeeeeeeeN "wikilink")』が2008年10月1日に発売したシングル「[足跡](https://ja.wikipedia.org/wiki/足跡_\(BAReeeeeeeeeeNの曲\) "wikilink")」で、オリコン週間シングルチャート7位を記録し、よりBACK-ONの知名度を上げるきっかけとなった。
 
 バンドのコンセプトは「光」と「風」であり、『「光」は希望の光、「風」は迷ったり、一歩踏み出せない人たちの背中を押す追い風』である。
 
-ライブ活動は日本だけでなく、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")、[メキシコ](../Page/メキシコ.md "wikilink")、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")、[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")、[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")、[インドネシア](../Page/インドネシア.md "wikilink")、[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")、[中国本土](https://ja.wikipedia.org/wiki/中国本土 "wikilink")のフェスなどに出演、アジア、アメリカ、ヨーロッパ、南米と世界各所から出演オファーが毎年常に届き、海外からも音楽性とライブパフォーマンスで高い評価を得ている。
+ライブ活動は日本だけでなく、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")、[メキシコ](../Page/メキシコ.md "wikilink")、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")、[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")、[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")、[インドネシア](../Page/インドネシア.md "wikilink")、[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")、[中国本土](../Page/中国本土.md "wikilink")のフェスなどに出演、アジア、アメリカ、ヨーロッパ、南米と世界各所から出演オファーが毎年常に届き、海外からも音楽性とライブパフォーマンスで高い評価を得ている。
 
 2014年12月17日に発売された15thシングル「[セルリアン/Silent Trigger](https://ja.wikipedia.org/wiki/セルリアン/Silent_Trigger "wikilink")」がオリコン週間シングルチャート10位にランクインし、BACK-ON単独名義では初のオリコン週間TOP10入り。
 
 2018年9月29日より、中国語セルフカバー「黑色小丑 ～Clown～」が2018年１０月２６日より、「夢想～Carry on～」が、中華圏の配信サブスクリプションサービスにて配信開始し、本格的に中華圏での活動を広げている。
 
-『[東方神起](https://ja.wikipedia.org/wiki/東方神起 "wikilink")』、『[Kis-My-Ft2](https://ja.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")』や『[lol](https://ja.wikipedia.org/wiki/lol_\(音楽グループ\) "wikilink") 』などのアイドルグループや、『[EXILE SHOKICHI](https://ja.wikipedia.org/wiki/SHOKICHI "wikilink")』、テレビアニメ『[ONE PIECE](https://ja.wikipedia.org/wiki/ONE_PIECE_\(アニメ\) "wikilink")』主題歌などの幅広いジャンルにも、楽曲提供を行っている。
+『[東方神起](https://ja.wikipedia.org/wiki/東方神起 "wikilink")』、『[Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")』や『[lol](https://ja.wikipedia.org/wiki/lol_\(音楽グループ\) "wikilink") 』などのアイドルグループや、『[EXILE SHOKICHI](https://ja.wikipedia.org/wiki/SHOKICHI "wikilink")』、テレビアニメ『[ONE PIECE](../Page/ONE_PIECE_\(アニメ\).md "wikilink")』主題歌などの幅広いジャンルにも、楽曲提供を行っている。
 
 ## 主な経歴
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")
-      - [6月7日](../Page/6月7日.md "wikilink")に発売された1st.シングル、「Chain」がTVアニメ『[エア・ギア](https://ja.wikipedia.org/wiki/エア・ギア "wikilink")』のオープニングテーマとして抜擢される。
+  - [2006年](../Page/2006年.md "wikilink")
+      - [6月7日](../Page/6月7日.md "wikilink")に発売された1st.シングル、「Chain」がTVアニメ『[エア・ギア](../Page/エア・ギア.md "wikilink")』のオープニングテーマとして抜擢される。
 
 <!-- end list -->
 
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")
+  - [2007年](../Page/2007年.md "wikilink")
       - [3月28日](../Page/3月28日.md "wikilink")に発売されたOVA『[MURDER PRINCESS](../Page/MURDER_PRINCESS.md "wikilink")』のオープニングテーマとして、「ヒカリサスホウ (FK Metal ver.)」（未発売）が抜擢される。後に、ミニアルバム「NEW WORLD」に「ヒカリサスホウ （NEW WORLD ver.）」が収録されるが別アレンジ。
       - [4月27日](../Page/4月27日.md "wikilink")にアメリカ、テキサス州で開催された、『ANIME MATSURI 2007』にゲスト出演。（このライブの模様は、PV「BLAZE LINE」で見ることが出来る。）
-      - [6月6日](../Page/6月6日.md "wikilink")に発売された2ndシングル、「BLAZE LINE / a day dreaming...」がTVアニメ『[アイシールド21](https://ja.wikipedia.org/wiki/アイシールド21 "wikilink")』のオープニング&エンディングテーマとして抜擢される。
+      - [6月6日](../Page/6月6日.md "wikilink")に発売された2ndシングル、「BLAZE LINE / a day dreaming...」がTVアニメ『[アイシールド21](../Page/アイシールド21.md "wikilink")』のオープニング&エンディングテーマとして抜擢される。
       - [7月27日](../Page/7月27日.md "wikilink")から3日間台湾、台北で開催された台湾のフジロック的ロックフェスティバル『FORMOZ FESTIVAL』中国語名『野台開唱』に、2番目に大きいステージ「風舞台」の初日ヘッドライナーとして最終出演。初日は5万人の来場者を動員。
       - [8月18日](../Page/8月18日.md "wikilink")にカナダ、バンクーバーで開催された『ANIME EVOLUTION 2007』にゲスト出演。
       - [9月19日](../Page/9月19日.md "wikilink")に発売された3rdシングル、「flower」が2期連続でTVアニメ『アイシールド21』のエンディングテーマとして抜擢される。また、2009年[BAReeeeeeeeeeN](https://ja.wikipedia.org/wiki/BAReeeeeeeeeeN "wikilink")のシングル「足跡」発売にともない、再発された代表曲の一つ。
@@ -98,8 +98,8 @@ KENJI03は[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[松戸
 <!-- end list -->
 
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")
-      - [5月21日](../Page/5月21日.md "wikilink")に発売された5thシングル、「Sands of time」が「[窪田正孝](https://ja.wikipedia.org/wiki/窪田正孝 "wikilink")」主演のTVドラマ『[ケータイ捜査官7](https://ja.wikipedia.org/wiki/ケータイ捜査官7 "wikilink")』のエンディングテーマとして抜擢される。関連商品の[バンダイ](../Page/バンダイ.md "wikilink")「DX フォンブレイバー7」TV-CM、[SoftBank](https://ja.wikipedia.org/wiki/SoftBank "wikilink")「[フォンブレイバー 815T PB](https://ja.wikipedia.org/wiki/SoftBank_815T "wikilink")」商品PVにも起用される。
-      - [10月1日](../Page/10月1日.md "wikilink")に**BACK-ON**、[GReeeeN](https://ja.wikipedia.org/wiki/GReeeeN "wikilink")、[High Speed BoyzのJINとのコラボレーション](https://ja.wikipedia.org/wiki/High_Speed_Boyz "wikilink")[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")『[BAReeeeeeeeeeN](https://ja.wikipedia.org/wiki/BAReeeeeeeeeeN "wikilink")』で発売したシングル「足跡」がオリコン週間シングルチャートで7位を記録。
+      - [5月21日](../Page/5月21日.md "wikilink")に発売された5thシングル、「Sands of time」が「[窪田正孝](../Page/窪田正孝.md "wikilink")」主演のTVドラマ『[ケータイ捜査官7](https://ja.wikipedia.org/wiki/ケータイ捜査官7 "wikilink")』のエンディングテーマとして抜擢される。関連商品の[バンダイ](../Page/バンダイ.md "wikilink")「DX フォンブレイバー7」TV-CM、[SoftBank](https://ja.wikipedia.org/wiki/SoftBank "wikilink")「[フォンブレイバー 815T PB](https://ja.wikipedia.org/wiki/SoftBank_815T "wikilink")」商品PVにも起用される。
+      - [10月1日](../Page/10月1日.md "wikilink")に**BACK-ON**、[GReeeeN](https://ja.wikipedia.org/wiki/GReeeeN "wikilink")、[High Speed BoyzのJINとのコラボレーション](https://ja.wikipedia.org/wiki/High_Speed_Boyz "wikilink")[音楽ユニット](../Page/音楽ユニット.md "wikilink")『[BAReeeeeeeeeeN](https://ja.wikipedia.org/wiki/BAReeeeeeeeeeN "wikilink")』で発売したシングル「足跡」がオリコン週間シングルチャートで7位を記録。
       - [1月28日](../Page/1月28日.md "wikilink")に発売された6thシングル「flyaway」が、ゲーム『[テイルズ オブ ザ ワールド レディアント マイソロジー2](https://ja.wikipedia.org/wiki/テイルズ_オブ_ザ_ワールド_レディアント_マイソロジー2 "wikilink")』の主題歌・挿入歌として抜擢され、オリコンデイリーシングルチャートで最高位4位を記録。
 
 <!-- end list -->
@@ -108,7 +108,7 @@ KENJI03は[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[松戸
       - [6月10日](../Page/6月10日.md "wikilink")にヨーロッパでアルバム「YES\!\!\!」が\[EU edition\]として海外流通で発売。
       - [8月7日](../Page/8月7日.md "wikilink")に夏のロックフェスティバル『[SUMMER SONIC](https://ja.wikipedia.org/wiki/SUMMER_SONIC "wikilink")』大阪会場の「GARDEN STAGE」に出演。
       - [9月19日](../Page/9月19日.md "wikilink")にドイツ、カッセルにて開催されたアニメフェス『[Connichi](https://ja.wikipedia.org/wiki/Connichi "wikilink")』にゲスト出演。
-      - [9月26日](../Page/9月26日.md "wikilink")に東京、[日比谷野外大音楽堂](https://ja.wikipedia.org/wiki/日比谷野外大音楽堂 "wikilink")にて開催された、『HIPS vol.9』に出演。その他出演者に[清水翔太](https://ja.wikipedia.org/wiki/清水翔太 "wikilink")、[SEAMO](https://ja.wikipedia.org/wiki/SEAMO "wikilink")、[HOME MADE 家族が出演](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")。
+      - [9月26日](../Page/9月26日.md "wikilink")に東京、[日比谷野外大音楽堂](https://ja.wikipedia.org/wiki/日比谷野外大音楽堂 "wikilink")にて開催された、『HIPS vol.9』に出演。その他出演者に[清水翔太](../Page/清水翔太.md "wikilink")、[SEAMO](../Page/SEAMO.md "wikilink")、[HOME MADE 家族が出演](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")。
       - [12月26日](../Page/12月26日.md "wikilink")から2日間、初の単独海外ツアーを台湾の台北、台中で開催。オープニングアクトに台湾のロックバンド、OVDSが参加。
 
 <!-- end list -->
@@ -122,13 +122,13 @@ KENJI03は[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[松戸
   - [2011年](../Page/2011年.md "wikilink")
       - [1月19日](../Page/1月19日.md "wikilink")に発売された8thシングル「TELL ME」が、『ららぽーと 福袋&バーゲン 2011』のCMソングに抜擢される。
       - [2月9日](../Page/2月9日.md "wikilink")に発売された9thシングル「with you feat.Me」が、前作に続きゲーム『[テイルズ オブ ザ ワールド レディアント マイソロジー3](https://ja.wikipedia.org/wiki/テイルズ_オブ_ザ_ワールド_レディアント_マイソロジー3 "wikilink")』の主題歌・挿入歌として抜擢され、オリコンデイリーシングルチャートで最高位5位を記録。
-      - [8月17日](../Page/8月17日.md "wikilink")に発売された10thシングル「Connectus and selfish」の収録曲「We are...」が、[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")系「東北笑顔プロジェクト」TV-CMのテーマソングに抜擢。
+      - [8月17日](../Page/8月17日.md "wikilink")に発売された10thシングル「Connectus and selfish」の収録曲「We are...」が、[テレビ朝日](../Page/テレビ朝日.md "wikilink")系「東北笑顔プロジェクト」TV-CMのテーマソングに抜擢。
 
 <!-- end list -->
 
   - [2012年](../Page/2012年.md "wikilink")
-      - [3月28日](../Page/3月28日.md "wikilink")に発売された[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")、[Kis-My-Ft2](https://ja.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")のアルバム『[Kis-My-1st](https://ja.wikipedia.org/wiki/Kis-My-1st "wikilink")』の収録曲「タビダチノウタ」で楽曲提供。
-      - [5月9日](https://ja.wikipedia.org/wiki/5月9日 "wikilink")に発売された11thシングル「Ice cream」が映画『[悪の教典](https://ja.wikipedia.org/wiki/悪の教典#映画 "wikilink")』劇中歌と[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")系[バラエティー番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[今ちゃんの「実は…」](https://ja.wikipedia.org/wiki/今ちゃんの「実は…」 "wikilink")』のエンディングテーマに抜擢。
+      - [3月28日](../Page/3月28日.md "wikilink")に発売された[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")、[Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")のアルバム『[Kis-My-1st](https://ja.wikipedia.org/wiki/Kis-My-1st "wikilink")』の収録曲「タビダチノウタ」で楽曲提供。
+      - [5月9日](../Page/5月9日.md "wikilink")に発売された11thシングル「Ice cream」が映画『[悪の教典](https://ja.wikipedia.org/wiki/悪の教典#映画 "wikilink")』劇中歌と[テレビ朝日](../Page/テレビ朝日.md "wikilink")系[バラエティー番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[今ちゃんの「実は…」](https://ja.wikipedia.org/wiki/今ちゃんの「実は…」 "wikilink")』のエンディングテーマに抜擢。
       - [8月4日](../Page/8月4日.md "wikilink")、『[a-nation](https://ja.wikipedia.org/wiki/a-nation "wikilink") musicweek BAND NATION』に出演。
       - [9月11日](../Page/9月11日.md "wikilink")に配信開始されたGREEソーシャルゲーム『テイルズ オブ カード エボルブ』に「Brand new story」をイメージソングとして楽曲を書き下ろす。
       - [12月22日](../Page/12月22日.md "wikilink")に[国立代々木競技場第一体育館](https://ja.wikipedia.org/wiki/国立代々木競技場第一体育館 "wikilink")にて開催された、『MUSIC FOR ALL, ALL FOR ONE 2012』に出演。
@@ -137,7 +137,7 @@ KENJI03は[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[松戸
 
   - [2013年](../Page/2013年.md "wikilink")
       - [3月23日](../Page/3月23日.md "wikilink")、『Isle of MTV Miyakojima』に出演。
-      - [7月31日](../Page/7月31日.md "wikilink")に発売された、テレビアニメ『[ONE PIECE](https://ja.wikipedia.org/wiki/ONE_PIECE_\(アニメ\) "wikilink")』の主題歌「HANDS UP\!」（歌・[新里宏太](https://ja.wikipedia.org/wiki/新里宏太 "wikilink")）を楽曲提供。また、同曲を歌い「[第55回輝く\!日本レコード大賞](https://ja.wikipedia.org/wiki/第55回日本レコード大賞 "wikilink")」の最優秀新人賞を[新里宏太](https://ja.wikipedia.org/wiki/新里宏太 "wikilink")が受賞。
+      - [7月31日](../Page/7月31日.md "wikilink")に発売された、テレビアニメ『[ONE PIECE](../Page/ONE_PIECE_\(アニメ\).md "wikilink")』の主題歌「HANDS UP\!」（歌・[新里宏太](https://ja.wikipedia.org/wiki/新里宏太 "wikilink")）を楽曲提供。また、同曲を歌い「[第55回輝く\!日本レコード大賞](https://ja.wikipedia.org/wiki/第55回日本レコード大賞 "wikilink")」の最優秀新人賞を[新里宏太](https://ja.wikipedia.org/wiki/新里宏太 "wikilink")が受賞。
       - [8月10日](../Page/8月10日.md "wikilink")、『MTV ZUSHI FES 13 supported by RIVIERA』に出演。
       - [9月13日](../Page/9月13日.md "wikilink")から3日間アメリカ、ワシントンDCにて開催された『Anime USA 2013』にゲスト出演。
       - [11月6日](../Page/11月6日.md "wikilink")に発売された12thシングル「ニブンノイチ/INFINITY」がTVアニメ『[ガンダムビルドファイターズ](https://ja.wikipedia.org/wiki/ガンダムビルドファイターズ "wikilink")』のOPテーマと、ゲーム『[ガンダムブレイカー](https://ja.wikipedia.org/wiki/ガンダムブレイカー "wikilink")』のオープニングテーマで、ガンダム関連作品に2曲同時に抜擢される。
@@ -147,14 +147,14 @@ KENJI03は[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[松戸
 <!-- end list -->
 
   - [2014年](../Page/2014年.md "wikilink")
-      - [3月5日](../Page/3月5日.md "wikilink")に発売された[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")、[Kis-My-Ft2](https://ja.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")のシングル『[光のシグナル](https://ja.wikipedia.org/wiki/光のシグナル "wikilink")』のカップリング収録曲「Crush\! Crush\! Crush\! 」で楽曲提供。
+      - [3月5日](../Page/3月5日.md "wikilink")に発売された[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")、[Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")のシングル『[光のシグナル](https://ja.wikipedia.org/wiki/光のシグナル "wikilink")』のカップリング収録曲「Crush\! Crush\! Crush\! 」で楽曲提供。
       - [3月12日](../Page/3月12日.md "wikilink")に発売された13thシングル「wimp ft. Lil'Fang (from FAKY) 」がTVアニメ『[ガンダムビルドファイターズ](https://ja.wikipedia.org/wiki/ガンダムビルドファイターズ "wikilink")』の2期オープニングテーマ曲として1期オープニングテーマ曲に続けて抜擢される。また、カップリング曲の「Around the world」が携帯アプリゲーム『[SDガンダム GGENERATION FRONTIER](https://ja.wikipedia.org/wiki/SDガンダム_GGENERATION#SDガンダム_GGENERATION_FRONTIER "wikilink")』のCM挿入曲として、こちらも異例の2作連続でガンダム関連作品に2曲同時に抜擢される。前作「ニブンノイチ」が収録されたシングル「ニブンノイチ / INFINITY」が集計期間わずか3週間で「mora年間ダウンロードランキング」の「アニソン アルバム部門」で9位にランクインした事が、2期連続起用された要因の1つとされている。「wimp ft. Lil'Fang (from FAKY) 」はamazon MP3 ロックベストセラーランキングにて1位獲得。また、iTunes ロックジャンルランキングでも1位を獲得し配信チャートにて好成績をおさめる。その影響もあり、前作「ニブンノイチ」も同時期に6位へ急上昇し、1位と6位に2作同時に楽曲がiTunes ロックジャンルランキングのベスト10内にランクイン。
-      - [7月30日](../Page/7月30日.md "wikilink")に発売された、14thダブルA面シングル「Departure/STRIKE BACK」の「Departure」が『[日本工学院専門学校](https://ja.wikipedia.org/wiki/日本工学院専門学校 "wikilink")』の2014年度CMソングに、「STRIKE BACK」がテレビ東京系アニメ『[FAIRY TAIL](https://ja.wikipedia.org/wiki/FAIRY_TAIL "wikilink")』新シリーズ第2期オープニングテーマ曲に抜擢される。
+      - [7月30日](../Page/7月30日.md "wikilink")に発売された、14thダブルA面シングル「Departure/STRIKE BACK」の「Departure」が『[日本工学院専門学校](../Page/日本工学院専門学校.md "wikilink")』の2014年度CMソングに、「STRIKE BACK」がテレビ東京系アニメ『[FAIRY TAIL](../Page/FAIRY_TAIL.md "wikilink")』新シリーズ第2期オープニングテーマ曲に抜擢される。
       - [7月4日](../Page/7月4日.md "wikilink")から[9月26日](../Page/9月26日.md "wikilink")までの3ヶ月間『[Fm yokohama 84.7](https://ja.wikipedia.org/wiki/Fm_yokohama_84.7 "wikilink")』にて、毎週金曜レギュラーラジオ番組「トレセンバラエティ「Blah\! Blah\! Blah\!」」が放送された。
       - [7月26日](../Page/7月26日.md "wikilink")にブラジル、サンパウロで開催された『Animefriends』にゲスト出演。
       - [7月27日](../Page/7月27日.md "wikilink")にブラジル、フォルタレーザで開催された『[SANA](https://ja.wikipedia.org/wiki/SANA "wikilink")』にゲスト出演。空軍の空港滑走路に作られた特設ライブ会場に6000人を動員。
       - [9月13日](../Page/9月13日.md "wikilink")に台湾、台北で開催された『[a-nation taiwan](https://ja.wikipedia.org/wiki/a-nation "wikilink")』に出演。
-      - [10月5日](../Page/10月5日.md "wikilink")に『[赤坂BLITZ](https://ja.wikipedia.org/wiki/赤坂BLITZ "wikilink")』にてワンマンライブ「BACK-ON LIVE 2014 〜RELOAD〜」開催。
+      - [10月5日](../Page/10月5日.md "wikilink")に『[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")』にてワンマンライブ「BACK-ON LIVE 2014 〜RELOAD〜」開催。
       - [12月17日](../Page/12月17日.md "wikilink")に発売される15thシングル「セルリアン/Silent Trigger」から「セルリアン」が、TVアニメ『[ガンダムビルドファイターズトライ](https://ja.wikipedia.org/wiki/ガンダムビルドファイターズトライ "wikilink")』のオープニングテーマ曲に抜擢される。前作『ガンダムビルドファイターズ』から、ガンダムシリーズでは異例の3度連続で主題歌を担当。レコチョクにて先行配信され、邦楽ロック部門週間ランキング1位を獲得。デイリーランキングでは、アニメ部門&邦楽ロック部門で1位になり、2冠を獲得。iTunesのロックカテゴリーランキングでも1位を獲得。その他、Amazon MP3、moraなど主要配信チャートで好成績をおさめる。更に「Silent Trigger」も2作連続で、「[ガンダムブレイカー2](https://ja.wikipedia.org/wiki/ガンダムブレイカー2 "wikilink")」のオープニングテーマに抜擢される。また、オリコンウィークリーランキングにて10位を獲得し、同バンド名義では初のオリコン週間TOP10入り。
 
 <!-- end list -->
@@ -168,18 +168,18 @@ KENJI03は[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[松戸
       - [6月20日](../Page/6月20日.md "wikilink")、シンガポールにて開催された「GUNDAM DOCK AT SINGAPORE」に出演。
       - [6月21日](../Page/6月21日.md "wikilink")、シンガポールにて開催された「CHARA EXPO」に出演。
       - [7月2日](../Page/7月2日.md "wikilink")から4日間に渡り、フランスのパリにて開催された、欧州最大の日本文化とエンタメのイベント『[Japan Expo](https://ja.wikipedia.org/wiki/Japan_Expo "wikilink")』に初日と最終日に出演。最終日の出演時には、入場規制が掛かる中、会場に4,000人を動員。入場出来なかった観客が会場外に1,000人集まり、会場の内外に観客を5,000人動員した。2015年の『[Japan Expo](https://ja.wikipedia.org/wiki/Japan_Expo "wikilink")』ではBACK-ONがNo.1の観客動員数を記録し、改めて海外での人気の高さとパフォーマンスの高さを実証するライブとなった。
-      - [7月15日](../Page/7月15日.md "wikilink")と[7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink")の2日間、アメリカ・ ボルチモアの「Baltimore Convention Center」にて開催された、北米最大級のアニメイベントの1つ「[OTAKON](https://ja.wikipedia.org/wiki/OTAKON "wikilink") MATSURI」にヘッドライナーとして出演。
+      - [7月15日](../Page/7月15日.md "wikilink")と[7月23日](../Page/7月23日.md "wikilink")の2日間、アメリカ・ ボルチモアの「Baltimore Convention Center」にて開催された、北米最大級のアニメイベントの1つ「[OTAKON](https://ja.wikipedia.org/wiki/OTAKON "wikilink") MATSURI」にヘッドライナーとして出演。
       - [8月23日](../Page/8月23日.md "wikilink")、マレーシアで開催された『visual arts expo 2015』出演。
       - [8月28日](../Page/8月28日.md "wikilink")、さいたまスーパーアリーナにて開催された『[Animelo Summer Live](https://ja.wikipedia.org/wiki/Animelo_Summer_Live "wikilink") 2015 -THE GATE-』に出演。
       - [9月20日](../Page/9月20日.md "wikilink")、滋賀県草津市烏丸半島芝生広場にて開催された、[T.M.Revolution](../Page/T.M.Revolution.md "wikilink") [西川貴教](../Page/西川貴教.md "wikilink")主催の『[イナズマロックフェス](https://ja.wikipedia.org/wiki/イナズマロックフェス "wikilink") 2015』に出演。
-      - [10月17日](../Page/10月17日.md "wikilink")、[10月18日](https://ja.wikipedia.org/wiki/10月18日 "wikilink") に台湾・台北で開催された、Rockフェス 『ROCK BANDOH』に出演。
-      - [11月27日](../Page/11月27日.md "wikilink")にシンガポールで開催された、『[AFA](https://ja.wikipedia.org/wiki/AFA "wikilink")』に出演。
-      - [11月29日](../Page/11月29日.md "wikilink")に仙台Rensaで開催された、『[FLOW](../Page/FLOW.md "wikilink")』が主催する『[Act Against AIDS 2015 in SENDAI](https://ja.wikipedia.org/wiki/アクト・アゲインスト・エイズ "wikilink")』に出演。
+      - [10月17日](../Page/10月17日.md "wikilink")、[10月18日](../Page/10月18日.md "wikilink") に台湾・台北で開催された、Rockフェス 『ROCK BANDOH』に出演。
+      - [11月27日](../Page/11月27日.md "wikilink")にシンガポールで開催された、『[AFA](../Page/AFA.md "wikilink")』に出演。
+      - [11月29日](../Page/11月29日.md "wikilink")に仙台Rensaで開催された、『[FLOW](../Page/FLOW.md "wikilink")』が主催する『[Act Against AIDS 2015 in SENDAI](../Page/アクト・アゲインスト・エイズ.md "wikilink")』に出演。
 
 <!-- end list -->
 
   - [2016年](../Page/2016年.md "wikilink")
-      - [1月15日](../Page/1月15日.md "wikilink")から3日間、千葉『[幕張メッセ](../Page/幕張メッセ.md "wikilink")』で開催された、『[東京オートサロン](https://ja.wikipedia.org/wiki/東京オートサロン "wikilink")2016』に出演。
+      - [1月15日](../Page/1月15日.md "wikilink")から3日間、千葉『[幕張メッセ](../Page/幕張メッセ.md "wikilink")』で開催された、『[東京オートサロン](../Page/東京オートサロン.md "wikilink")2016』に出演。
       - [3月3日](../Page/3月3日.md "wikilink")に発売のゲーム「[ガンダムブレイカー3](https://ja.wikipedia.org/wiki/ガンダムブレイカー3 "wikilink")」のオープニングテーマに「Mirrors」が起用され、前作、前々作に続き3度目の抜擢となり、ガンダムシリーズの楽曲提供は通算7回目となった。[2016年](../Page/2016年.md "wikilink")[3月2日](../Page/3月2日.md "wikilink")発売のALBUM「[PACK OF THE FUTURE](https://ja.wikipedia.org/wiki/PACK_OF_THE_FUTURE "wikilink")」に収録。
       - [4月7日](../Page/4月7日.md "wikilink")から10日まで、アメリカ・ピッツバーグにて開催される『TEKKO 2016』に出演。
       - [4月30日](../Page/4月30日.md "wikilink")に、『[Club Lizard Yokohama](https://ja.wikipedia.org/wiki/Club_Lizard_Yokohama "wikilink")』にて、BACK-ONの「[PACK OF THE FUTURE](https://ja.wikipedia.org/wiki/PACK_OF_THE_FUTURE "wikilink")」ツアーに『[FLOW](../Page/FLOW.md "wikilink")』が出演し、ツーマンライブを開催。
@@ -213,10 +213,10 @@ KENJI03は[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[松戸
       - [9月29日](../Page/9月29日.md "wikilink")より、中国語でセルフカバーした「黑色小丑 ～Clown～」がサブスクリプションサービス、網易雲音樂・KK BOX・friDay 音樂・MyMusic にて中華圏限定で配信開始。
       - [10月26日](../Page/10月26日.md "wikilink")より、「夢想～Carry on～」がサブスクリプションサービス、網易雲音樂・KK BOX・friDay 音樂・MyMusic にて中華圏限定で配信開始。
       - [10月26日](../Page/10月26日.md "wikilink")に、台湾、台北で開催された、「Asia Rolling Music Festival」 に出演。中国語セルフカバーの「黑色小丑～Clown～」と「夢想～Carry on～」をLIVEにて初披露された。
-      - [10月27日](https://ja.wikipedia.org/wiki/10月27日 "wikilink")に、台湾、「台湾大学総合体育館」にて開催された、台湾のミュージックアワード、第９回『[金音創作獎](https://ja.wikipedia.org/wiki/金音創作獎 "wikilink")』に出席。
+      - [10月27日](../Page/10月27日.md "wikilink")に、台湾、「台湾大学総合体育館」にて開催された、台湾のミュージックアワード、第９回『[金音創作獎](https://ja.wikipedia.org/wiki/金音創作獎 "wikilink")』に出席。
       - [10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")に、『[六本木ヒルズアリーナ](https://ja.wikipedia.org/wiki/六本木ヒルズアリーナ "wikilink")』にて開催された、『第31回[東京国際映画祭](https://ja.wikipedia.org/wiki/東京国際映画祭 "wikilink")』の連携イベント「TIFFプラス」の「JAMLAB. Presents JAPAN ANIME MUSIC SHOWCASE 2018」に出演。
-      - [11月11日](../Page/11月11日.md "wikilink")に、『[渋谷WWW](https://ja.wikipedia.org/wiki/渋谷WWW "wikilink")』にて、BACK-ON主催の対バンライブ「Bring the Noise Vol.1」を開催。w/[あっこゴリラ](https://ja.wikipedia.org/wiki/あっこゴリラ "wikilink")、FAITH
-      - [11月25日](../Page/11月25日.md "wikilink")に、中国の[テンセントQQ](https://ja.wikipedia.org/wiki/テンセントQQ "wikilink")音楽生放送の人気音楽番組『YO\!BANG 由你音乐榜』にSPECIAL LIVEで生出演。中国語セルカバー曲『夢想～Carry on～』を音楽番組にて初演奏。BACK-ON出演週のリアルタイム総視聴数は340万視聴を超え、ディレイ放送で上海東方テレビにて地上波放送された。今回が中国国内での初LIVE。
+      - [11月11日](../Page/11月11日.md "wikilink")に、『[渋谷WWW](https://ja.wikipedia.org/wiki/渋谷WWW "wikilink")』にて、BACK-ON主催の対バンライブ「Bring the Noise Vol.1」を開催。w/[あっこゴリラ](../Page/あっこゴリラ.md "wikilink")、FAITH
+      - [11月25日](../Page/11月25日.md "wikilink")に、中国の[テンセントQQ](../Page/テンセントQQ.md "wikilink")音楽生放送の人気音楽番組『YO\!BANG 由你音乐榜』にSPECIAL LIVEで生出演。中国語セルカバー曲『夢想～Carry on～』を音楽番組にて初演奏。BACK-ON出演週のリアルタイム総視聴数は340万視聴を超え、ディレイ放送で上海東方テレビにて地上波放送された。今回が中国国内での初LIVE。
 
 <!-- end list -->
 
@@ -235,7 +235,7 @@ KENJI03は[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[松戸
       - [8月31日](../Page/8月31日.md "wikilink")より、2日間に渡り、フィリピン、マニラのSMX Convention Centerで開催される、「The Best of Anime 2019」にゲスト出演。
       - [9月7日](../Page/9月7日.md "wikilink")より、2日間に渡り幕張メッセイベントホールにて、ガンダムシリーズ40周年を記念して開催される『[GUNDAM 40th FES."LIVE-BEYOND"](https://ja.wikipedia.org/wiki/GUNDAM_40th_FES."LIVE-BEYOND" "wikilink")』に出演。w/ [LUNA SEA](../Page/LUNA_SEA.md "wikilink") 、[西川貴教](../Page/西川貴教.md "wikilink")、[May J](https://ja.wikipedia.org/wiki/May_J "wikilink") 、[SKY-HI](https://ja.wikipedia.org/wiki/SKY-HI "wikilink")、[BiSH](https://ja.wikipedia.org/wiki/BiSH "wikilink") .etc...
       - [10月16日](../Page/10月16日.md "wikilink")発売、『[東方神起](https://ja.wikipedia.org/wiki/東方神起 "wikilink")』\[8\]。が歌う、フジテレビ系で放送される第35回東日本女子駅伝 大会応援ソング「Hello」をKENJI03が楽曲提供。
-      - [12月4日](../Page/12月4日.md "wikilink")に新宿LOFTにて[大阪☆春夏秋冬](https://ja.wikipedia.org/wiki/大阪☆春夏秋冬 "wikilink") とのツーマンライブ「choir loft Ⅳ -lila-」に出演。両アーティストがオープニング曲を担当したテレビアニメ「[FAIRY TAIL](https://ja.wikipedia.org/wiki/FAIRY_TAIL "wikilink") 」の楽曲より、BACK-ONの「STRIKE BACK」（テレビ東京系アニメ『[FAIRY TAIL](https://ja.wikipedia.org/wiki/FAIRY_TAIL "wikilink") 』新シリーズ第2期オープニングテーマ曲）をコラボして披露された。
+      - [12月4日](../Page/12月4日.md "wikilink")に新宿LOFTにて[大阪☆春夏秋冬](https://ja.wikipedia.org/wiki/大阪☆春夏秋冬 "wikilink") とのツーマンライブ「choir loft Ⅳ -lila-」に出演。両アーティストがオープニング曲を担当したテレビアニメ「[FAIRY TAIL](../Page/FAIRY_TAIL.md "wikilink") 」の楽曲より、BACK-ONの「STRIKE BACK」（テレビ東京系アニメ『[FAIRY TAIL](../Page/FAIRY_TAIL.md "wikilink") 』新シリーズ第2期オープニングテーマ曲）をコラボして披露された。
 
 <!-- end list -->
 
@@ -248,40 +248,40 @@ KENJI03は[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[松戸
 
 ### シングル
 
-| 枚                                                             | 発売日                                                                                         | タイトル                                                                                                                               | 規格                                                             | 規格品番            |
-| ------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | --------------- |
-| 1st                                                           | [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[6月7日](../Page/6月7日.md "wikilink")   | **[Chain](https://ja.wikipedia.org/wiki/Chain_\(BACK-ONの曲\) "wikilink")**                                                          | [12cmCD](https://ja.wikipedia.org/wiki/シングル#CDシングル "wikilink") | CTCR-40233      |
-| 2nd                                                           | [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[6月6日](../Page/6月6日.md "wikilink")   | **[BLAZE LINE/a day dreaming...](https://ja.wikipedia.org/wiki/BLAZE_LINE/a_day_dreaming... "wikilink")**                          | 12cmCD                                                         | CTCR-40251      |
-| 3rd                                                           | 2007年[9月19日](../Page/9月19日.md "wikilink")                                                   | **[flower](https://ja.wikipedia.org/wiki/flower_\(BACK-ONの曲\) "wikilink")**                                                        | 12cmCD                                                         | CTCR-40261      |
-| 4th                                                           | **[Butterfly](https://ja.wikipedia.org/wiki/Butterfly_\(BACK-ONの曲\) "wikilink")**           | 12cmCD                                                                                                                             | CTCR-40267                                                     |                 |
-| 5th                                                           | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月21日](../Page/5月21日.md "wikilink") | **[Sands of time](https://ja.wikipedia.org/wiki/Sands_of_time "wikilink")**                                                        | 12cmCD                                                         | CTCR-40276      |
-| 6th                                                           | [2009年](../Page/2009年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink")                    | **[flyaway](https://ja.wikipedia.org/wiki/flyaway "wikilink")**                                                                    | 12cmCD                                                         | CTCR-40285（通常盤） |
-| CTCR-40286（テイルズ オブ盤）                                          |                                                                                             |                                                                                                                                    |                                                                |                 |
-| 7th                                                           | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月27日](../Page/1月27日.md "wikilink") | **[ONE STEP\! feat.mini/Tomorrow never knows](https://ja.wikipedia.org/wiki/ONE_STEP!_feat.mini/Tomorrow_never_knows "wikilink")** | 12cmCD                                                         | CTCR-40293      |
-| 8th                                                           | [2011年](../Page/2011年.md "wikilink")[1月19日](../Page/1月19日.md "wikilink")                    | **[TELL ME](https://ja.wikipedia.org/wiki/TELL_ME_\(BACK-ONの曲\) "wikilink")**                                                      | 12cmCD                                                         | CTCR-40320      |
-| 9th                                                           | 2011年[2月9日](../Page/2月9日.md "wikilink")                                                     | **[with you feat.Me](https://ja.wikipedia.org/wiki/with_you_feat.Me "wikilink")**                                                  | 12cmCD                                                         | CTCR-40325（通常盤） |
-| CTCR-40324（テイルズ オブ盤）                                          |                                                                                             |                                                                                                                                    |                                                                |                 |
-| 10th                                                          | 2011年[8月17日](../Page/8月17日.md "wikilink")                                                   | **[Connectus and selfish](https://ja.wikipedia.org/wiki/Connectus_and_selfish "wikilink")**                                        | 12cmCD                                                         | CTCR-40334      |
-| 11th                                                          | [2012年](../Page/2012年.md "wikilink")[5月9日](https://ja.wikipedia.org/wiki/5月9日 "wikilink")   | **[Ice cream](https://ja.wikipedia.org/wiki/Ice_cream_\(BACK-ONの曲\) "wikilink")**                                                  | 12cmCD                                                         | CTCR-40339      |
-| 12th                                                          | [2013年](../Page/2013年.md "wikilink")[11月6日](../Page/11月6日.md "wikilink")                    | **[ニブンノイチ/INFINITY](https://ja.wikipedia.org/wiki/ニブンノイチ/INFINITY "wikilink")**                                                    | 12cmCD                                                         | CTCR-40355      |
-| 12cmCD+DVD                                                    | CTCR-40354                                                                                  |                                                                                                                                    |                                                                |                 |
-| 12cmCD+[プラモデル](https://ja.wikipedia.org/wiki/ガンプラ "wikilink") | CTCR-40353                                                                                  |                                                                                                                                    |                                                                |                 |
-| 13th                                                          | [2014年](../Page/2014年.md "wikilink")[3月12日](../Page/3月12日.md "wikilink")                    | **[wimp ft. Lil' Fang (from FAKY)](https://ja.wikipedia.org/wiki/wimp_ft._Lil'_Fang_\(from_FAKY\) "wikilink")**                    | 12cmCD                                                         | CTCR-40358      |
-| 12cmCD+DVD                                                    | CTCR-40357                                                                                  |                                                                                                                                    |                                                                |                 |
-| 12cmCD+プラモデル                                                  | CTCR-40356                                                                                  |                                                                                                                                    |                                                                |                 |
-| 14th                                                          | [2014年](../Page/2014年.md "wikilink")[7月30日](../Page/7月30日.md "wikilink")                    | **[Departure/STRIKE BACK](https://ja.wikipedia.org/wiki/Departure/STRIKE_BACK "wikilink")**                                        | 12cmCD                                                         | CTCR-40365      |
-| CTCR-40364/B（FAIRY TAIL盤）                                     |                                                                                             |                                                                                                                                    |                                                                |                 |
-| 12cmCD+DVD                                                    | CTCR-40363/B                                                                                |                                                                                                                                    |                                                                |                 |
-| 15th                                                          | [2014年](../Page/2014年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink")                  | **[セルリアン/Silent Trigger](https://ja.wikipedia.org/wiki/セルリアン/Silent_Trigger "wikilink")**                                          | 12cmCD                                                         | CTZR-40369      |
-| 12cmCD+DVD                                                    | CTCR-40368/B                                                                                |                                                                                                                                    |                                                                |                 |
-| 12cmCD+プラモデル                                                  | CTCR-40367                                                                                  |                                                                                                                                    |                                                                |                 |
-|                                                               |                                                                                             |                                                                                                                                    |                                                                |                 |
+| 枚                                          | 発売日                                                                                         | タイトル                                                                                                                               | 規格                                                             | 規格品番            |
+| ------------------------------------------ | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | --------------- |
+| 1st                                        | [2006年](../Page/2006年.md "wikilink")[6月7日](../Page/6月7日.md "wikilink")                      | **[Chain](https://ja.wikipedia.org/wiki/Chain_\(BACK-ONの曲\) "wikilink")**                                                          | [12cmCD](https://ja.wikipedia.org/wiki/シングル#CDシングル "wikilink") | CTCR-40233      |
+| 2nd                                        | [2007年](../Page/2007年.md "wikilink")[6月6日](../Page/6月6日.md "wikilink")                      | **[BLAZE LINE/a day dreaming...](https://ja.wikipedia.org/wiki/BLAZE_LINE/a_day_dreaming... "wikilink")**                          | 12cmCD                                                         | CTCR-40251      |
+| 3rd                                        | 2007年[9月19日](../Page/9月19日.md "wikilink")                                                   | **[flower](https://ja.wikipedia.org/wiki/flower_\(BACK-ONの曲\) "wikilink")**                                                        | 12cmCD                                                         | CTCR-40261      |
+| 4th                                        | **[Butterfly](https://ja.wikipedia.org/wiki/Butterfly_\(BACK-ONの曲\) "wikilink")**           | 12cmCD                                                                                                                             | CTCR-40267                                                     |                 |
+| 5th                                        | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月21日](../Page/5月21日.md "wikilink") | **[Sands of time](https://ja.wikipedia.org/wiki/Sands_of_time "wikilink")**                                                        | 12cmCD                                                         | CTCR-40276      |
+| 6th                                        | [2009年](../Page/2009年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink")                    | **[flyaway](https://ja.wikipedia.org/wiki/flyaway "wikilink")**                                                                    | 12cmCD                                                         | CTCR-40285（通常盤） |
+| CTCR-40286（テイルズ オブ盤）                       |                                                                                             |                                                                                                                                    |                                                                |                 |
+| 7th                                        | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月27日](../Page/1月27日.md "wikilink") | **[ONE STEP\! feat.mini/Tomorrow never knows](https://ja.wikipedia.org/wiki/ONE_STEP!_feat.mini/Tomorrow_never_knows "wikilink")** | 12cmCD                                                         | CTCR-40293      |
+| 8th                                        | [2011年](../Page/2011年.md "wikilink")[1月19日](../Page/1月19日.md "wikilink")                    | **[TELL ME](https://ja.wikipedia.org/wiki/TELL_ME_\(BACK-ONの曲\) "wikilink")**                                                      | 12cmCD                                                         | CTCR-40320      |
+| 9th                                        | 2011年[2月9日](../Page/2月9日.md "wikilink")                                                     | **[with you feat.Me](https://ja.wikipedia.org/wiki/with_you_feat.Me "wikilink")**                                                  | 12cmCD                                                         | CTCR-40325（通常盤） |
+| CTCR-40324（テイルズ オブ盤）                       |                                                                                             |                                                                                                                                    |                                                                |                 |
+| 10th                                       | 2011年[8月17日](../Page/8月17日.md "wikilink")                                                   | **[Connectus and selfish](https://ja.wikipedia.org/wiki/Connectus_and_selfish "wikilink")**                                        | 12cmCD                                                         | CTCR-40334      |
+| 11th                                       | [2012年](../Page/2012年.md "wikilink")[5月9日](../Page/5月9日.md "wikilink")                      | **[Ice cream](https://ja.wikipedia.org/wiki/Ice_cream_\(BACK-ONの曲\) "wikilink")**                                                  | 12cmCD                                                         | CTCR-40339      |
+| 12th                                       | [2013年](../Page/2013年.md "wikilink")[11月6日](../Page/11月6日.md "wikilink")                    | **[ニブンノイチ/INFINITY](https://ja.wikipedia.org/wiki/ニブンノイチ/INFINITY "wikilink")**                                                    | 12cmCD                                                         | CTCR-40355      |
+| 12cmCD+DVD                                 | CTCR-40354                                                                                  |                                                                                                                                    |                                                                |                 |
+| 12cmCD+[プラモデル](../Page/ガンプラ.md "wikilink") | CTCR-40353                                                                                  |                                                                                                                                    |                                                                |                 |
+| 13th                                       | [2014年](../Page/2014年.md "wikilink")[3月12日](../Page/3月12日.md "wikilink")                    | **[wimp ft. Lil' Fang (from FAKY)](https://ja.wikipedia.org/wiki/wimp_ft._Lil'_Fang_\(from_FAKY\) "wikilink")**                    | 12cmCD                                                         | CTCR-40358      |
+| 12cmCD+DVD                                 | CTCR-40357                                                                                  |                                                                                                                                    |                                                                |                 |
+| 12cmCD+プラモデル                               | CTCR-40356                                                                                  |                                                                                                                                    |                                                                |                 |
+| 14th                                       | [2014年](../Page/2014年.md "wikilink")[7月30日](../Page/7月30日.md "wikilink")                    | **[Departure/STRIKE BACK](https://ja.wikipedia.org/wiki/Departure/STRIKE_BACK "wikilink")**                                        | 12cmCD                                                         | CTCR-40365      |
+| CTCR-40364/B（FAIRY TAIL盤）                  |                                                                                             |                                                                                                                                    |                                                                |                 |
+| 12cmCD+DVD                                 | CTCR-40363/B                                                                                |                                                                                                                                    |                                                                |                 |
+| 15th                                       | [2014年](../Page/2014年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink")                  | **[セルリアン/Silent Trigger](https://ja.wikipedia.org/wiki/セルリアン/Silent_Trigger "wikilink")**                                          | 12cmCD                                                         | CTZR-40369      |
+| 12cmCD+DVD                                 | CTCR-40368/B                                                                                |                                                                                                                                    |                                                                |                 |
+| 12cmCD+プラモデル                               | CTCR-40367                                                                                  |                                                                                                                                    |                                                                |                 |
+|                                            |                                                                                             |                                                                                                                                    |                                                                |                 |
 
 #### 配信限定シングル
 
 | 枚   | 発売日                                                                        | タイトル                                                                           | 規格                                                                  |
 | --- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------- |
-| 1st | [2014年](../Page/2014年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")     | **[BUZZ BOY](https://ja.wikipedia.org/wiki/BUZZ_BOY "wikilink")**              | [デジタル・ダウンロード](https://ja.wikipedia.org/wiki/音楽配信 "wikilink")        |
+| 1st | [2014年](../Page/2014年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")     | **[BUZZ BOY](https://ja.wikipedia.org/wiki/BUZZ_BOY "wikilink")**              | [デジタル・ダウンロード](../Page/音楽配信.md "wikilink")                           |
 | 2nd | [2015年](../Page/2015年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink")   | **[Dear Me](https://ja.wikipedia.org/wiki/Dear_Me "wikilink")**                | [YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")限定配信     |
 | 3rd | [2015年](../Page/2015年.md "wikilink")[5月20日](../Page/5月20日.md "wikilink")   | **[リザレクション](https://ja.wikipedia.org/wiki/リザレクション_\(BACK-ONの曲\) "wikilink")**  | [デジタル・ダウンロード](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink") |
 | 4th | [2016年](../Page/2016年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink")     | **[Mirrors](https://ja.wikipedia.org/wiki/Mirrors_\(BACK-ONの曲\) "wikilink")**  | [デジタル・ダウンロード](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink") |
@@ -296,16 +296,16 @@ KENJI03は[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[松戸
 
 #### ミニアルバム
 
-| 枚   | 発売日                                                                                           | タイトル                                                                                 | 規格品番                                                         | 備考                                            |
-| --- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------ | --------------------------------------------- |
-| 1st | [2004年](../Page/2004年.md "wikilink")[10月27日](https://ja.wikipedia.org/wiki/10月27日 "wikilink") | **[ADACHI TRIBE](https://ja.wikipedia.org/wiki/ADACHI_TRIBE "wikilink")**            | MTCH-1115                                                    | 有限会社PSC。インディーズデビュー作品。                         |
-| 2nd | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月13日](../Page/7月13日.md "wikilink")   | **[HERO](https://ja.wikipedia.org/wiki/HERO_\(BACK-ONのアルバム\) "wikilink")**           | FLYM-00001                                                   | [タワーレコード](../Page/タワーレコード.md "wikilink")限定販売。 |
-| 3rd | 2005年[10月19日](../Page/10月19日.md "wikilink")                                                   | **[BABY ROCK](https://ja.wikipedia.org/wiki/BABY_ROCK "wikilink")**                  | CTCR-14447                                                   | メジャーデビュー作品。                                   |
-| 4th | 2006年[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")                                | **[NEW WORLD](https://ja.wikipedia.org/wiki/NEW_WORLD_\(BACK-ONのアルバム\) "wikilink")** | CTCR-14502                                                   | ‐                                             |
-| 5th | [2015年](../Page/2015年.md "wikilink")[10月30日](../Page/10月30日.md "wikilink")                    | **[DTM EP](https://ja.wikipedia.org/wiki/DTM_EP "wikilink")**                        | [デジタル・ダウンロード](https://ja.wikipedia.org/wiki/音楽配信 "wikilink") | ‐                                             |
-| 6th | [2018年](../Page/2018年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")                      | **[NEW ERA](https://ja.wikipedia.org/wiki/NEW_ERA "wikilink")**                      | 音楽配信|デジタル・ダウンロード                                             | ‐                                             |
-| 7th | [2019年](../Page/2019年.md "wikilink")[2月6日](https://ja.wikipedia.org/wiki/2月6日 "wikilink")     | **Chop Kick Turn**                                                                   | 音楽配信|デジタル・ダウンロード                                             | ‐                                             |
-|     |                                                                                               |                                                                                      |                                                              |                                               |
+| 枚   | 発売日                                                                        | タイトル                                                                                 | 規格品番                                      | 備考                                            |
+| --- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ----------------------------------------- | --------------------------------------------- |
+| 1st | [2004年](../Page/2004年.md "wikilink")[10月27日](../Page/10月27日.md "wikilink") | **[ADACHI TRIBE](https://ja.wikipedia.org/wiki/ADACHI_TRIBE "wikilink")**            | MTCH-1115                                 | 有限会社PSC。インディーズデビュー作品。                         |
+| 2nd | [2005年](../Page/2005年.md "wikilink")[7月13日](../Page/7月13日.md "wikilink")   | **[HERO](https://ja.wikipedia.org/wiki/HERO_\(BACK-ONのアルバム\) "wikilink")**           | FLYM-00001                                | [タワーレコード](../Page/タワーレコード.md "wikilink")限定販売。 |
+| 3rd | 2005年[10月19日](../Page/10月19日.md "wikilink")                                | **[BABY ROCK](https://ja.wikipedia.org/wiki/BABY_ROCK "wikilink")**                  | CTCR-14447                                | メジャーデビュー作品。                                   |
+| 4th | 2006年[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")             | **[NEW WORLD](https://ja.wikipedia.org/wiki/NEW_WORLD_\(BACK-ONのアルバム\) "wikilink")** | CTCR-14502                                | ‐                                             |
+| 5th | [2015年](../Page/2015年.md "wikilink")[10月30日](../Page/10月30日.md "wikilink") | **[DTM EP](https://ja.wikipedia.org/wiki/DTM_EP "wikilink")**                        | [デジタル・ダウンロード](../Page/音楽配信.md "wikilink") | ‐                                             |
+| 6th | [2018年](../Page/2018年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")   | **[NEW ERA](https://ja.wikipedia.org/wiki/NEW_ERA "wikilink")**                      | 音楽配信|デジタル・ダウンロード                          | ‐                                             |
+| 7th | [2019年](../Page/2019年.md "wikilink")[2月6日](../Page/2月6日.md "wikilink")     | **Chop Kick Turn**                                                                   | 音楽配信|デジタル・ダウンロード                          | ‐                                             |
+|     |                                                                            |                                                                                      |                                           |                                               |
 
 #### オリジナルアルバム
 
@@ -368,7 +368,7 @@ KENJI03は[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[松戸
 <tr class="even">
 <td><p>2006年</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Chain_(BACK-ONの曲)" title="wikilink">Chain</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>系アニメ『<a href="https://ja.wikipedia.org/wiki/エア・ギア" title="wikilink">エア・ギア</a>』オープニングテーマ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>系アニメ『<a href="../Page/エア・ギア.md" title="wikilink">エア・ギア</a>』オープニングテーマ</p></td>
 <td><p>「Chain」</p></td>
 </tr>
 <tr class="odd">
@@ -380,7 +380,7 @@ KENJI03は[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[松戸
 <tr class="even">
 <td><p>2007年</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/BLAZE_LINE/a_day_dreaming..." title="wikilink">BLAZE LINE</a></p></td>
-<td><p>テレビ東京系アニメ『<a href="https://ja.wikipedia.org/wiki/アイシールド21" title="wikilink">アイシールド21</a>』オープニングテーマ</p></td>
+<td><p>テレビ東京系アニメ『<a href="../Page/アイシールド21.md" title="wikilink">アイシールド21</a>』オープニングテーマ</p></td>
 <td><p>「BLAZE LINE/a day dreaming...」</p></td>
 </tr>
 <tr class="odd">
@@ -403,7 +403,7 @@ KENJI03は[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[松戸
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/Butterfly_(BACK-ONの曲)" title="wikilink">Butterfly</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビ朝日" title="wikilink">テレビ朝日</a>系ドラマ『<a href="../Page/新宿スワン.md" title="wikilink">新宿スワン</a>』主題歌</p></td>
+<td><p><a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a>系ドラマ『<a href="../Page/新宿スワン.md" title="wikilink">新宿スワン</a>』主題歌</p></td>
 <td><p>「Butterfly」</p></td>
 <td></td>
 </tr>
@@ -424,7 +424,7 @@ KENJI03は[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[松戸
 <tr class="odd">
 <td><p>2009年</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/flyaway" title="wikilink">flyaway</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_Portable" title="wikilink">PSP用ゲームソフト</a>『<a href="https://ja.wikipedia.org/wiki/テイルズ_オブ_ザ_ワールド_レディアント_マイソロジー2" title="wikilink">テイルズ オブ ザ ワールド レディアント マイソロジー2</a>』オープニングテーマ</p></td>
+<td><p><a href="../Page/PlayStation_Portable.md" title="wikilink">PSP用ゲームソフト</a>『<a href="https://ja.wikipedia.org/wiki/テイルズ_オブ_ザ_ワールド_レディアント_マイソロジー2" title="wikilink">テイルズ オブ ザ ワールド レディアント マイソロジー2</a>』オープニングテーマ</p></td>
 <td><p>「flyaway」</p></td>
 </tr>
 <tr class="even">
@@ -522,7 +522,7 @@ KENJI03は[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[松戸
 </tr>
 <tr class="odd">
 <td><p>STRIKE BACK</p></td>
-<td><p>テレビ東京系アニメ『<a href="https://ja.wikipedia.org/wiki/FAIRY_TAIL" title="wikilink">FAIRY TAIL</a>』オープニングテーマ</p></td>
+<td><p>テレビ東京系アニメ『<a href="../Page/FAIRY_TAIL.md" title="wikilink">FAIRY TAIL</a>』オープニングテーマ</p></td>
 <td><p>「Departure/STRIKE BACK」</p></td>
 <td></td>
 </tr>
@@ -577,7 +577,7 @@ KENJI03は[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[松戸
 
 <!-- end list -->
 
-  - [Kis-My-Ft2](https://ja.wikipedia.org/wiki/Kis-My-Ft2 "wikilink") - 「[タビタチノウタ](https://ja.wikipedia.org/wiki/Kis-My-1st "wikilink")」、「[Crush\! Crush\! Crush\!](https://ja.wikipedia.org/wiki/光のシグナル "wikilink")」
+  - [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink") - 「[タビタチノウタ](https://ja.wikipedia.org/wiki/Kis-My-1st "wikilink")」、「[Crush\! Crush\! Crush\!](https://ja.wikipedia.org/wiki/光のシグナル "wikilink")」
   - [倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink") - 「[Poppin' love cocktail feat. TEEDA](https://ja.wikipedia.org/wiki/4_TIMES "wikilink")」、「[Bring It On](https://ja.wikipedia.org/wiki/Bring_It_On "wikilink")」、「[Guess Who Is Back](https://ja.wikipedia.org/wiki/Guess_Who_Is_Back "wikilink")」
   - [新里宏太](https://ja.wikipedia.org/wiki/新里宏太 "wikilink") - 「[HANDS UP\!](https://ja.wikipedia.org/wiki/HANDS_UP! "wikilink")」、「Hold on」
   - [lol](https://ja.wikipedia.org/wiki/lol_\(音楽グループ\) "wikilink") - 「[fire\!](https://ja.wikipedia.org/wiki/fire! "wikilink")」、「[ladi dadi](https://ja.wikipedia.org/wiki/ladi_dadi "wikilink")」、「[spank\!\!](https://ja.wikipedia.org/wiki/spank!! "wikilink")」、「[sync](https://ja.wikipedia.org/wiki/bye_bye_\(lolの曲\) "wikilink")」、「[shhh...](https://ja.wikipedia.org/wiki/lolol "wikilink")」、「[ice cream](https://ja.wikipedia.org/wiki/ice_cream/ワスレナイ "wikilink")」、「[color of love](https://ja.wikipedia.org/wiki/color_of_love "wikilink")」、「[playback](https://ja.wikipedia.org/wiki/playback "wikilink")」、「Trigger」、「[special love](https://ja.wikipedia.org/wiki/special_love "wikilink")」、「[bring back](https://ja.wikipedia.org/wiki/bring_back "wikilink")」
@@ -631,24 +631,24 @@ KENJI03は[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[松戸
 5.  **EAST T.O.K.Y.O**（2005年12月22日）
       -
         **G・F・S**名義 ※TEEDA, KENJI03が3曲feat.参加
-        「タネウマ☆ feat. Mr.Blistah, KENJI03, TEEDA, マシュー・バロン」のPVが[CD EXTRAとして収録されている](https://ja.wikipedia.org/wiki/CD_EXTRA "wikilink")。
+        「タネウマ☆ feat. Mr.Blistah, KENJI03, TEEDA, マシュー・バロン」のPVが[CD EXTRAとして収録されている](../Page/CD_EXTRA.md "wikilink")。
         同作でKENJI03は、ボーカルではなくMCとして参加している。
 6.  **[足跡](https://ja.wikipedia.org/wiki/足跡_\(BAReeeeeeeeeeNの曲\) "wikilink")**（2008年10月1日）
       -
         **[BAReeeeeeeeeeN](https://ja.wikipedia.org/wiki/BAReeeeeeeeeeN "wikilink")**名義
 7.  **[4 TIMES](https://ja.wikipedia.org/wiki/4_TIMES "wikilink")**（2011年8月17日）
       -
-        倖田來未の50枚目のシングルであり、収録曲「Poppin’love cocktail」はBACK-ONが作曲し、さらにTEEDAが[フィーチャリング](https://ja.wikipedia.org/wiki/フィーチャリング "wikilink")で、KENJI03がサビのコーラスで参加している。BACK-ONの10thシングル「Connectus and selfish」と同日発売である。
+        倖田來未の50枚目のシングルであり、収録曲「Poppin’love cocktail」はBACK-ONが作曲し、さらにTEEDAが[フィーチャリング](../Page/フィーチャリング.md "wikilink")で、KENJI03がサビのコーラスで参加している。BACK-ONの10thシングル「Connectus and selfish」と同日発売である。
 8.  **[TRF TRIBUTE ALBUM BEST](https://ja.wikipedia.org/wiki/TRF_TRIBUTE_ALBUM_BEST "wikilink")**（2013年3月13日）
       -
-        [TRF](https://ja.wikipedia.org/wiki/TRF "wikilink")の「[Where to begin](https://ja.wikipedia.org/wiki/Where_to_begin "wikilink")」をカバーで参加。
+        [TRF](../Page/TRF.md "wikilink")の「[Where to begin](https://ja.wikipedia.org/wiki/Where_to_begin "wikilink")」をカバーで参加。
 9.  **雨のち晴れ**（2013年7月24日）
       -
-        **[SoulJa](https://ja.wikipedia.org/wiki/SoulJa "wikilink")×KenJi03×[河北麻友子](https://ja.wikipedia.org/wiki/河北麻友子 "wikilink")**名義
-        KENJI03名義でソロでは初のコラボ参加作品。MUSIC CLIPにはフジテレビ系番組「[テラスハウス](https://ja.wikipedia.org/wiki/テラスハウス "wikilink")」に出演していた[菅谷哲也](https://ja.wikipedia.org/wiki/菅谷哲也 "wikilink")が初主演として参加。
+        **[SoulJa](https://ja.wikipedia.org/wiki/SoulJa "wikilink")×KenJi03×[河北麻友子](../Page/河北麻友子.md "wikilink")**名義
+        KENJI03名義でソロでは初のコラボ参加作品。MUSIC CLIPにはフジテレビ系番組「[テラスハウス](../Page/テラスハウス.md "wikilink")」に出演していた[菅谷哲也](https://ja.wikipedia.org/wiki/菅谷哲也 "wikilink")が初主演として参加。
 10. **[IA/03 -VISION-](https://ja.wikipedia.org/wiki/IA/03_-VISION- "wikilink")**（2014年11月05日）
       -
-        IA PROJECTから発売されたアルバムで、収録曲「憧憬〜DOUKEI〜」が[ボーカロイドの](https://ja.wikipedia.org/wiki/VOCALOID "wikilink")[IAとのコラボレーション曲である](https://ja.wikipedia.org/wiki/IA_-ARIA_ON_THE_PLANETES- "wikilink")\[9\]。
+        IA PROJECTから発売されたアルバムで、収録曲「憧憬〜DOUKEI〜」が[ボーカロイドの](../Page/VOCALOID.md "wikilink")[IAとのコラボレーション曲である](https://ja.wikipedia.org/wiki/IA_-ARIA_ON_THE_PLANETES- "wikilink")\[9\]。
 11. **[新劇場版 頭文字D Legend2 -闘争- SOUND COLLECTION](https://ja.wikipedia.org/wiki/新劇場版_頭文字D_Legend2_-闘争-_SOUND_COLLECTION "wikilink")** (2015年5月20日)
       -
         29曲目に｢リザレクション｣が収録。
@@ -672,7 +672,7 @@ KENJI03は[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[松戸
 | ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **監督**                                                            | **曲名**                                                                                                                                                                                                    |
 | [新宮良平](https://ja.wikipedia.org/wiki/新宮良平 "wikilink")             | 「[ニブンノイチ](https://www.youtube.com/watch?v=rFCSwMc6zNs)」                                                                                                                                                   |
-| [須永秀明](https://ja.wikipedia.org/wiki/須永秀明 "wikilink")             | 「Chain」「[ONE STEP\!feat.mini](https://www.youtube.com/watch?v=fAZUbQRf6DI)」「[Sands of time](https://www.youtube.com/watch?v=aBbQhjSy4vI)」「[flyaway](https://www.youtube.com/watch?v=b4HANHf0k8c)」         |
+| [須永秀明](../Page/須永秀明.md "wikilink")                                | 「Chain」「[ONE STEP\!feat.mini](https://www.youtube.com/watch?v=fAZUbQRf6DI)」「[Sands of time](https://www.youtube.com/watch?v=aBbQhjSy4vI)」「[flyaway](https://www.youtube.com/watch?v=b4HANHf0k8c)」         |
 | [高田弘隆](https://ja.wikipedia.org/wiki/高田弘隆 "wikilink")             | 「[with you feat.Me](https://www.youtube.com/watch?v=Yq973zVrTXI)」                                                                                                                                         |
 | [多田卓也](https://ja.wikipedia.org/wiki/多田卓也 "wikilink")             | 「[TELL ME](https://www.youtube.com/watch?v=zI2MtyqzJzA)」                                                                                                                                                  |
 | [tatsuaki](https://ja.wikipedia.org/wiki/tatsuaki "wikilink")     | 「[Departure](https://www.youtube.com/watch?v=MHjjtFlgQH4)」                                                                                                                                                |

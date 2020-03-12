@@ -1,15 +1,15 @@
 > この記事は[FILTH](https://ja.wikipedia.org/wiki/FILTH)から翻訳されています。
 
 
-「**FILTH**」（フィルス）は[Dir en greyのメジャー](https://ja.wikipedia.org/wiki/DIR_EN_GREY "wikilink")10枚目の[シングル](../Page/シングル.md "wikilink")。
+「**FILTH**」（フィルス）は[Dir en greyのメジャー](../Page/DIR_EN_GREY.md "wikilink")10枚目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 概説
 
-[ライブでは発売に先駆けて披露されており](https://ja.wikipedia.org/wiki/演奏会 "wikilink")、発売記念ミニライブなども開催されている。
+[ライブでは発売に先駆けて披露されており](../Page/演奏会.md "wikilink")、発売記念ミニライブなども開催されている。
 
 [ジャケットの綴りが間違っており](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")、「FHLTH」になっている。
 
-PVの演奏シーンは、実際に[ファン](../Page/ファン.md "wikilink")を[エキストラ](https://ja.wikipedia.org/wiki/エキストラ "wikilink")で起用して撮影している。PV集「**鬼門**」で確認することができる。
+PVの演奏シーンは、実際に[ファン](../Page/ファン.md "wikilink")を[エキストラ](../Page/エキストラ.md "wikilink")で起用して撮影している。PV集「**鬼門**」で確認することができる。
 
 ## 曲目
 

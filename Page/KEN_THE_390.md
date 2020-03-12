@@ -1,29 +1,29 @@
 > この記事は[KEN THE 390](https://ja.wikipedia.org/wiki/KEN_THE_390)から翻訳されています。
 
 
-**KEN THE 390**（ケン・ザ・サンキューマル)（[1981年](../Page/1981年.md "wikilink")[6月17日](../Page/6月17日.md "wikilink") - ）は、[日本のヒップホップ](https://ja.wikipedia.org/wiki/日本のヒップホップ "wikilink")[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。[ドリームボーイ・インクストゥエンター所属](https://ja.wikipedia.org/wiki/インクストゥエンター "wikilink")。
+**KEN THE 390**（ケン・ザ・サンキューマル)（[1981年](../Page/1981年.md "wikilink")[6月17日](../Page/6月17日.md "wikilink") - ）は、[日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。[ドリームボーイ・インクストゥエンター所属](https://ja.wikipedia.org/wiki/インクストゥエンター "wikilink")。
 
 ## 来歴
 
 [1999年](../Page/1999年.md "wikilink")より、音楽活動を始める。[2000年](../Page/2000年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")、[桐蔭学園](https://ja.wikipedia.org/wiki/桐蔭学園 "wikilink")高校卒業。[2004年](../Page/2004年.md "wikilink")、EI-ONE、はなびと結成した3人組ユニット**りんご**として、アルバム「りんごのりんご」をリリース。
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
       - [2月](https://ja.wikipedia.org/wiki/2月 "wikilink")、[TARO SOULと](https://ja.wikipedia.org/wiki/TARO_SOUL "wikilink")**太郎 & KEN THE 390**(後に**TARO SOUL & KEN THE 390**)として、1stアルバム『JAAAM\!\!\!』をリリース。
-      - [3月](https://ja.wikipedia.org/wiki/3月 "wikilink")、[早稲田大学](https://ja.wikipedia.org/wiki/早稲田大学 "wikilink")[社会科学部](../Page/社会科学部.md "wikilink")卒業。
-      - [4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、[リクルートに入社](https://ja.wikipedia.org/wiki/リクルートホールディングス "wikilink")。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")
+      - [3月](https://ja.wikipedia.org/wiki/3月 "wikilink")、[早稲田大学](../Page/早稲田大学.md "wikilink")[社会科学部](../Page/社会科学部.md "wikilink")卒業。
+      - [4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、[リクルートに入社](../Page/リクルートホールディングス.md "wikilink")。
+  - [2006年](../Page/2006年.md "wikilink")
       - [3月](https://ja.wikipedia.org/wiki/3月 "wikilink")、初のソロアルバム『プロローグ』をリリース。
       - [10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、TARO SOUL & KEN THE 390の2ndアルバム『Flying Sound Track』をリリース。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")
+  - [2007年](../Page/2007年.md "wikilink")
       - [6月](../Page/6月.md "wikilink")、2ndアルバム『My Life』をリリース。11月には前作のアウトテイク集的3rdアルバム『More Life』を発表。
-      - [7月](https://ja.wikipedia.org/wiki/7月 "wikilink")、[リクルートを退社](https://ja.wikipedia.org/wiki/リクルートホールディングス "wikilink")。
-      - [10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、[マボロシ](https://ja.wikipedia.org/wiki/マボロシ "wikilink")のシングル「饒舌エクスプレス feat. TARO SOUL, KEN THE 390」に参加。2008年1月に行われたマボロシの全国ツアーにも参加。
+      - [7月](https://ja.wikipedia.org/wiki/7月 "wikilink")、[リクルートを退社](../Page/リクルートホールディングス.md "wikilink")。
+      - [10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、[マボロシ](../Page/マボロシ.md "wikilink")のシングル「饒舌エクスプレス feat. TARO SOUL, KEN THE 390」に参加。2008年1月に行われたマボロシの全国ツアーにも参加。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")
       - [10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、メジャーレーベルの[rhythm zoneからミニアルバム](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")『FANTASTIC WORLD』をリリース。
   - [2009年](../Page/2009年.md "wikilink")
       - [2月](https://ja.wikipedia.org/wiki/2月 "wikilink")、初のシングル「届けたくて… feat. [青山テルマ](https://ja.wikipedia.org/wiki/青山テルマ "wikilink")」をリリース。
-      - [8月12日](../Page/8月12日.md "wikilink")、2枚目のシングル「Hey Boy feat. [童子-T](https://ja.wikipedia.org/wiki/童子-T "wikilink")」をリリース。
-      - [8月23日](../Page/8月23日.md "wikilink")、[3 ON 3 PROFESSIONAL MC BATTLEに](https://ja.wikipedia.org/wiki/B-BOY_PARK "wikilink")[ダースレイダー](https://ja.wikipedia.org/wiki/ダースレイダー "wikilink"), [MASARUと共に出場し](https://ja.wikipedia.org/wiki/妄走族 "wikilink")、優勝。
+      - [8月12日](../Page/8月12日.md "wikilink")、2枚目のシングル「Hey Boy feat. [童子-T](../Page/童子-T.md "wikilink")」をリリース。
+      - [8月23日](../Page/8月23日.md "wikilink")、[3 ON 3 PROFESSIONAL MC BATTLEに](https://ja.wikipedia.org/wiki/B-BOY_PARK "wikilink")[ダースレイダー](https://ja.wikipedia.org/wiki/ダースレイダー "wikilink"), [MASARUと共に出場し](../Page/妄走族.md "wikilink")、優勝。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")
       - [4月7日](../Page/4月7日.md "wikilink")、メジャー1stアルバム『NEW ORDER』をリリース。
   - [2011年](../Page/2011年.md "wikilink")
@@ -57,16 +57,16 @@
 
 ## 人物
 
-[RHYMESTER](https://ja.wikipedia.org/wiki/RHYMESTER "wikilink")、[MELLOW YELLOWなどを輩出した早稲田大学ソウルミュージック研究会ギャラクシー出身](https://ja.wikipedia.org/wiki/MELLOW_YELLOW "wikilink")。活動開始当初は、[降神](https://ja.wikipedia.org/wiki/降神 "wikilink")の志人とグループを組んで2年半ほど活動していた。フリースタイルの[MCバトル](https://ja.wikipedia.org/wiki/MCバトル "wikilink")を得意としている。テレビ朝日系列「フリースタイルダンジョン」レギュラー審査員。
+[RHYMESTER](../Page/RHYMESTER.md "wikilink")、[MELLOW YELLOWなどを輩出した早稲田大学ソウルミュージック研究会ギャラクシー出身](../Page/MELLOW_YELLOW.md "wikilink")。活動開始当初は、[降神](https://ja.wikipedia.org/wiki/降神 "wikilink")の志人とグループを組んで2年半ほど活動していた。フリースタイルの[MCバトル](https://ja.wikipedia.org/wiki/MCバトル "wikilink")を得意としている。テレビ朝日系列「フリースタイルダンジョン」レギュラー審査員。
 
 ### フリースタイルバトルの主な戦績
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
       - [B-BOY PARK MC BATTLE](https://ja.wikipedia.org/wiki/B-BOY_PARK "wikilink") ベスト4
       - [ULTIMATE MC BATTLE(UMB)2005東京大会準優勝](../Page/ULTIMATE_MC_BATTLE.md "wikilink")
       - [UMB全国大会ベスト](../Page/ULTIMATE_MC_BATTLE.md "wikilink")8
   - [2009年](../Page/2009年.md "wikilink")
-      - [3 ON 3 PROFESSIONAL MC BATTLEに](https://ja.wikipedia.org/wiki/B-BOY_PARK "wikilink")[ダースレイダー](https://ja.wikipedia.org/wiki/ダースレイダー "wikilink"), [MASARUと共に出場し](https://ja.wikipedia.org/wiki/妄走族 "wikilink")、優勝。
+      - [3 ON 3 PROFESSIONAL MC BATTLEに](https://ja.wikipedia.org/wiki/B-BOY_PARK "wikilink")[ダースレイダー](https://ja.wikipedia.org/wiki/ダースレイダー "wikilink"), [MASARUと共に出場し](../Page/妄走族.md "wikilink")、優勝。
   - [2015年](../Page/2015年.md "wikilink")
       - [戦極 MCBATTLE第](https://ja.wikipedia.org/wiki/戦極_MCBATTLE "wikilink")13章準優勝
 
@@ -75,14 +75,14 @@
 ### シングル
 
   - 『届けたくて… feat. [青山テルマ](https://ja.wikipedia.org/wiki/青山テルマ "wikilink")』（2009年2月11日）
-  - 『Hey Boy feat. [童子-T](https://ja.wikipedia.org/wiki/童子-T "wikilink")』（2009年8月11日）
+  - 『Hey Boy feat. [童子-T](../Page/童子-T.md "wikilink")』（2009年8月11日）
   - 『DREAM BOY/ガッデム\!\!』（2011年12月4日）-※TSUTAYA渋谷店(東京)とTSUTAYA戎橋店（大阪)の2店舗限定シングル。
   - 『Lovin' You All』（2012年3月1日）-※LIVE会場限定シングル。後に[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")にて配信された。
   - 『2階建ての家を買おう』（2013年7月10日）-※ミニアルバム
   - 『無重力ガール/Chase feat.TAKUMA THE GREAT,FORK,ISH-ONE,サイプレス上野』（2013年12月4日）
   - 『Bangin'』※EP (2015年1月21日)
   - 『How We Do』（2015年5月20日）-彩-xi-,KEN THE 390,FALCO & SHINO名義・iTunes配信限定
-  - 『Make Some Noise feat.[ZORN](https://ja.wikipedia.org/wiki/ZONE_\(ラッパー\) "wikilink"),[NORIKIYO](https://ja.wikipedia.org/wiki/NORIKIYO "wikilink")』(2015年9月25日)
+  - 『Make Some Noise feat.[ZORN](https://ja.wikipedia.org/wiki/ZONE_\(ラッパー\) "wikilink"),[NORIKIYO](../Page/NORIKIYO.md "wikilink")』(2015年9月25日)
   - 『真っ向勝負 feat.MC☆ニガリ a.k.a 赤い稲妻,[KOPERU](https://ja.wikipedia.org/wiki/KOPERU "wikilink"),CHICO CARLITO,晋平太』(2015年12月18日) ・iTunes配信限定
   - 『Rock The House』（2016年7月15日） ・配信限定
 
@@ -150,7 +150,7 @@
 <!-- end list -->
 
   -
-    20\. ガレージ男の魂 feat. KEN THE 390, [TARO SOUL](https://ja.wikipedia.org/wiki/TARO_SOUL "wikilink"), [COMA-CHI](https://ja.wikipedia.org/wiki/COMA-CHI "wikilink")
+    20\. ガレージ男の魂 feat. KEN THE 390, [TARO SOUL](https://ja.wikipedia.org/wiki/TARO_SOUL "wikilink"), [COMA-CHI](../Page/COMA-CHI.md "wikilink")
 
 <!-- end list -->
 
@@ -172,7 +172,7 @@
 <!-- end list -->
 
   -
-    13\. どしゃぶりマイク feat. KEN THE 390, [CHANNEL](../Page/CHANNEL.md "wikilink"), [FORK](https://ja.wikipedia.org/wiki/ICE_BAHN "wikilink"), [鎮座DOPENESS](https://ja.wikipedia.org/wiki/鎮座DOPENESS "wikilink")
+    13\. どしゃぶりマイク feat. KEN THE 390, [CHANNEL](../Page/CHANNEL.md "wikilink"), [FORK](../Page/ICE_BAHN.md "wikilink"), [鎮座DOPENESS](https://ja.wikipedia.org/wiki/鎮座DOPENESS "wikilink")
 
 <!-- end list -->
 
@@ -217,7 +217,7 @@
 
 <!-- end list -->
 
-  - [マボロシ](https://ja.wikipedia.org/wiki/マボロシ "wikilink") 「饒舌エクスプレス feat. [TARO SOUL](https://ja.wikipedia.org/wiki/TARO_SOUL "wikilink") & KEN THE 390」（2007年10月31日）
+  - [マボロシ](../Page/マボロシ.md "wikilink") 「饒舌エクスプレス feat. [TARO SOUL](https://ja.wikipedia.org/wiki/TARO_SOUL "wikilink") & KEN THE 390」（2007年10月31日）
   - DEJI 「HEAVY WEIGHT TANKS」（2007年12月8日）
 
 <!-- end list -->
@@ -252,11 +252,11 @@
   -
     1\. NO HIPHOP, NO LIFE
       -
-        feat. TARO SOUL, 坂THE上, [エムラスタ](https://ja.wikipedia.org/wiki/Romancrew "wikilink"), STC, はなび, サイプレス上野, ドタマ, KEN-1-RAW, ILL DA ASSULT, [ポチョムキン](https://ja.wikipedia.org/wiki/餓鬼レンジャー "wikilink"), SHIGA-SHIT, [将絢](https://ja.wikipedia.org/wiki/Romancrew "wikilink"), tkzmgcl, 祥, KEN THE 390, [ALI-KICK](https://ja.wikipedia.org/wiki/Romancrew "wikilink"), KOTOBUKI, [GOCCI](https://ja.wikipedia.org/wiki/LUNCH_TIME_SPEAX "wikilink")
+        feat. TARO SOUL, 坂THE上, [エムラスタ](../Page/Romancrew.md "wikilink"), STC, はなび, サイプレス上野, ドタマ, KEN-1-RAW, ILL DA ASSULT, [ポチョムキン](https://ja.wikipedia.org/wiki/餓鬼レンジャー "wikilink"), SHIGA-SHIT, [将絢](../Page/Romancrew.md "wikilink"), tkzmgcl, 祥, KEN THE 390, [ALI-KICK](../Page/Romancrew.md "wikilink"), KOTOBUKI, [GOCCI](../Page/LUNCH_TIME_SPEAX.md "wikilink")
 
 <!-- end list -->
 
-  - [SATOMI'](https://ja.wikipedia.org/wiki/SATOMI' "wikilink") 「Daisylight」（2008年10月29日）
+  - [SATOMI'](../Page/SATOMI'.md "wikilink") 「Daisylight」（2008年10月29日）
 
 <!-- end list -->
 
@@ -283,12 +283,12 @@
 
 <!-- end list -->
 
-  - [COMA-CHI](https://ja.wikipedia.org/wiki/COMA-CHI "wikilink")　「LOVE ME PLEASE」(2009年6月10日)
+  - [COMA-CHI](../Page/COMA-CHI.md "wikilink")　「LOVE ME PLEASE」(2009年6月10日)
 
 <!-- end list -->
 
   -
-    7\. Miss You feat. [COMA-CHI](https://ja.wikipedia.org/wiki/COMA-CHI "wikilink") (KEN THE 390)
+    7\. Miss You feat. [COMA-CHI](../Page/COMA-CHI.md "wikilink") (KEN THE 390)
 
 <!-- end list -->
 
@@ -355,7 +355,7 @@
 
 <!-- end list -->
 
-  - [らっぷびと](https://ja.wikipedia.org/wiki/らっぷびと "wikilink")「[RAP BLEND](https://ja.wikipedia.org/wiki/RAP_BLEND "wikilink")」(2011年6月1日)
+  - [らっぷびと](../Page/らっぷびと.md "wikilink")「[RAP BLEND](https://ja.wikipedia.org/wiki/RAP_BLEND "wikilink")」(2011年6月1日)
 
 <!-- end list -->
 
@@ -391,13 +391,13 @@
 
 <!-- end list -->
 
-  - [MAY'S](https://ja.wikipedia.org/wiki/MAY'S "wikilink")「Traveling」(2015年9月2日)
+  - [MAY'S](../Page/MAY'S.md "wikilink")「Traveling」(2015年9月2日)
 
 <!-- end list -->
 
   -
     4\. ハートビートがとまらない feat. KEN THE 390
-    11\. JOURNEY / [SOFFet](https://ja.wikipedia.org/wiki/SOFFet "wikilink") × MAY'S × KEN THE 390
+    11\. JOURNEY / [SOFFet](../Page/SOFFet.md "wikilink") × MAY'S × KEN THE 390
 
 <!-- end list -->
 
@@ -447,7 +447,7 @@
 
 ## 関連項目
 
-  - [Da.Me.Records](https://ja.wikipedia.org/wiki/Da.Me.Records "wikilink")
+  - [Da.Me.Records](../Page/Da.Me.Records.md "wikilink")
   - [降神](https://ja.wikipedia.org/wiki/降神 "wikilink")
   - [ULTIMATE MC BATTLE](../Page/ULTIMATE_MC_BATTLE.md "wikilink")
   - [フリースタイルダンジョン](https://ja.wikipedia.org/wiki/フリースタイルダンジョン "wikilink")

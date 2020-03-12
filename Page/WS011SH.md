@@ -7,13 +7,13 @@
 
 2007年4月に開催されたWILLCOM FORUM & EXPO 2007で予告されたほか、[x-w.jp](http://x-w.jp/)でも[ティザー広告](https://ja.wikipedia.org/wiki/ティザー広告 "wikilink")としてスペックや外観の一部が公開され、2007年6月7日に詳細が発表された。
 
-[W-ZERO3](https://ja.wikipedia.org/wiki/W-ZERO3 "wikilink")シリーズのひとつであるW-ZERO3 \[es\]（[WS007SH](../Page/WS007SH.md "wikilink")）の後継機とされ、横幅は50mm、厚みは最薄部で17.9mmとWS007SHより小型化されている。スライド[キーボード搭載](https://ja.wikipedia.org/wiki/キーボード_\(コンピュータ\) "wikilink")。スタイラスを収納するスペースは無く、ストラップを用いて取り付ける仕組みになる。
+[W-ZERO3](../Page/W-ZERO3.md "wikilink")シリーズのひとつであるW-ZERO3 \[es\]（[WS007SH](../Page/WS007SH.md "wikilink")）の後継機とされ、横幅は50mm、厚みは最薄部で17.9mmとWS007SHより小型化されている。スライド[キーボード搭載](../Page/キーボード_\(コンピュータ\).md "wikilink")。スタイラスを収納するスペースは無く、ストラップを用いて取り付ける仕組みになる。
 
-また、[ジョグダイヤル](https://ja.wikipedia.org/wiki/ジョグダイヤル "wikilink")のような機能を内蔵した方向キー、**Xcrawl**（エクスクロール）が搭載されており、表面をなぞるとスクロールホイールのような使い方ができるようになっている。[iPod](https://ja.wikipedia.org/wiki/iPod "wikilink")のような[タッチパッド](https://ja.wikipedia.org/wiki/タッチパッド "wikilink")ではなく、方向キーの下にボタンのようなセンサーがあり、それで判別する。そのため、手袋のように電気を通さないものでなぞっても使用できる。感度は調整可能。 [無線LAN](../Page/無線LAN.md "wikilink")（IEEE 802.11g/b）を標準搭載するほか、[赤外線通信の高速通信規格である](https://ja.wikipedia.org/wiki/赤外線#赤外線通信 "wikilink")[IrSimple](https://ja.wikipedia.org/wiki/IrSimple "wikilink")に対応した。その他、CPUのクロックアップやメモリの増量化、高解像度化（800×480）が図られている。
+また、[ジョグダイヤル](../Page/ジョグダイヤル.md "wikilink")のような機能を内蔵した方向キー、**Xcrawl**（エクスクロール）が搭載されており、表面をなぞるとスクロールホイールのような使い方ができるようになっている。[iPod](https://ja.wikipedia.org/wiki/iPod "wikilink")のような[タッチパッド](../Page/タッチパッド.md "wikilink")ではなく、方向キーの下にボタンのようなセンサーがあり、それで判別する。そのため、手袋のように電気を通さないものでなぞっても使用できる。感度は調整可能。 [無線LAN](../Page/無線LAN.md "wikilink")（IEEE 802.11g/b）を標準搭載するほか、[赤外線通信の高速通信規格である](https://ja.wikipedia.org/wiki/赤外線#赤外線通信 "wikilink")[IrSimple](https://ja.wikipedia.org/wiki/IrSimple "wikilink")に対応した。その他、CPUのクロックアップやメモリの増量化、高解像度化（800×480）が図られている。
 
 ## 沿革
 
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月12日](../Page/4月12日.md "wikilink") - WILLCOM FORUM & EXPO 2007にて[Windows Mobile 6を搭載したW](https://ja.wikipedia.org/wiki/Pocket_PC "wikilink")-ZERO3シリーズの後継機種として予告される。
+  - [2007年](../Page/2007年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink") - WILLCOM FORUM & EXPO 2007にて[Windows Mobile 6を搭載したW](../Page/Pocket_PC.md "wikilink")-ZERO3シリーズの後継機種として予告される。
   - 2007年[6月7日](../Page/6月7日.md "wikilink") - 発表。
   - 2007年[6月29日](../Page/6月29日.md "wikilink") - 予約開始。
   - 2007年[7月19日](../Page/7月19日.md "wikilink") - 発売。

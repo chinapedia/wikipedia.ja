@@ -11,7 +11,7 @@
     1.  Evolution-X
     2.  Brave New World
     3.  Mr.Destiny
-    4.  If I...feat. [JAY'ED](https://ja.wikipedia.org/wiki/JAY'ED "wikilink")
+    4.  If I...feat. [JAY'ED](../Page/JAY'ED.md "wikilink")
     5.  FYI-レシートと釣り銭-
     6.  Dream Maker-彼女の場合-
     7.  EX.Girlfriend
@@ -24,7 +24,7 @@
     1.  Intro:Thunder Clap
     2.  NO GOOD\!(dame dame)
     3.  POP THEM BOTTLES (Album Mix)
-    4.  Oventuara (A＊s-Licking) feat. [SPHERE of INFLUENCE](https://ja.wikipedia.org/wiki/SPHERE_of_INFLUENCE "wikilink") & [RICKIE G](https://ja.wikipedia.org/wiki/Rickie-G "wikilink")
+    4.  Oventuara (A＊s-Licking) feat. [SPHERE of INFLUENCE](https://ja.wikipedia.org/wiki/SPHERE_of_INFLUENCE "wikilink") & [RICKIE G](../Page/Rickie-G.md "wikilink")
     5.  Skit:Adassa“Oventuara Reprise”
     6.  Skit:×○×○ feat. イロコマさん & マッスル☆ジョージ
     7.  The Goddess Workout feat. イロコマネチ
@@ -35,14 +35,14 @@
     12. Radio Skit:「Brave New World」
     13. 「恋愛論 〜恋について〜」Poem by YUKA ITOH
     14. Mr.Destiny 2005 feat. [SAL the soul](https://ja.wikipedia.org/wiki/SAL_the_soul "wikilink")
-    15. O.K. -N☆X☆R☆2 Version- [YOUNGSHIM](https://ja.wikipedia.org/wiki/YOUNGSHIM "wikilink") feat. NORISIAM-X
+    15. O.K. -N☆X☆R☆2 Version- [YOUNGSHIM](../Page/YOUNGSHIM.md "wikilink") feat. NORISIAM-X
     16. バックアップ 〜my memory〜
     17. Justafriend @ the triangle park feat. P-CHO (DOBERMAN INC) & JAZZY BLAZE
     18. Skit:キター\! feat. WOLF PACK
     19. MATSURIZUKI ♪＼(゜∀゜)/♪ feat. WOLF PACK
     20. Speak Off The Record feat. [lecca](https://ja.wikipedia.org/wiki/lecca "wikilink")
     21. Shout Out→[DJ KAORI](https://ja.wikipedia.org/wiki/DJ_KAORI "wikilink")
-    22. Focus On The Streets (my火リレー) feat. TOMOGEN (DOBERMAN INC), WAYZZY (IMP), MIKU ([YA-KYIM](https://ja.wikipedia.org/wiki/YA-KYIM "wikilink")) & MOGGY (9 FAR EAST)
+    22. Focus On The Streets (my火リレー) feat. TOMOGEN (DOBERMAN INC), WAYZZY (IMP), MIKU ([YA-KYIM](../Page/YA-KYIM.md "wikilink")) & MOGGY (9 FAR EAST)
     23. FAN feat. カミカオル
     24. 虹色の夜空 feat. [JiN](https://ja.wikipedia.org/wiki/JiN "wikilink")
 3.  **DEPARTURE** (2009年)
@@ -61,7 +61,7 @@
 1.  [オムニバス](../Page/オムニバス.md "wikilink")「**D-st. ent. INFINITY**」（2004年6月30日）
       -
         15.DANGER DANGER (NORISIAM-X IS COMIN')
-2.  ["E"qual](https://ja.wikipedia.org/wiki/"E"qual "wikilink")「**The Rock City (M.O.S.A.D's Town)**」（2005年9月21日）
+2.  ["E"qual](../Page/"E"qual.md "wikilink")「**The Rock City (M.O.S.A.D's Town)**」（2005年9月21日）
       -
         10.Go Away feat. [ANTY the 紅乃壱](https://ja.wikipedia.org/wiki/ANTY_the_紅乃壱 "wikilink"), NORISIAM-X, CEYREN
 3.  ANTY the 紅乃壱「**HOW TO=B=EAT**」（2006年2月14日）
@@ -72,7 +72,7 @@
         13.Happy the globe PART III (feat. NORISIAM-X, P-CHO (DOBARMAN INC), SPHERE of INFLUENCE & RICKIE G)
 5.  YA-KYIM「**Keep YA Style**」（2006年8月2日）
       -
-        6.STYLES feat. SIMON, NORISIAM-X, [WISE](https://ja.wikipedia.org/wiki/WISE "wikilink") & GS
+        6.STYLES feat. SIMON, NORISIAM-X, [WISE](../Page/WISE.md "wikilink") & GS
 
 ## 外部リンク
 

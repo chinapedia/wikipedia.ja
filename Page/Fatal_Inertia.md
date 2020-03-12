@@ -1,7 +1,7 @@
 > この記事は[Fatal Inertia](https://ja.wikipedia.org/wiki/Fatal_Inertia)から翻訳されています。
 
 
-『**Fatal Inertia**』（フェイタル・イナーシャ）は、[無双シリーズ](../Page/無双シリーズ.md "wikilink")を手掛ける「ω-Force」がプロデュース、「[コーエー](../Page/コーエー.md "wikilink")カナダ」が開発する[Xbox 360用のSFレーシングゲーム](https://ja.wikipedia.org/wiki/Xbox_360 "wikilink")。本稿では[プレイステーション3移植版の](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")『**Fatal Inertia EX**』も含めて解説する。
+『**Fatal Inertia**』（フェイタル・イナーシャ）は、[無双シリーズ](../Page/無双シリーズ.md "wikilink")を手掛ける「ω-Force」がプロデュース、「[コーエー](../Page/コーエー.md "wikilink")カナダ」が開発する[Xbox 360用のSFレーシングゲーム](../Page/Xbox_360.md "wikilink")。本稿では[プレイステーション3移植版の](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")『**Fatal Inertia EX**』も含めて解説する。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 本作のアイテムの使い方は、前方もしくは後方に発射するものであり、それによって効果に違いが出るものもある。例えば、ブースターのアイテムの場合は、前方に発射するとブースターが敵機のボディのどこかに取り付いてコントロールを妨害させることができ、後方に発射した場合は自機の真後ろにブースターを取り付けて速度を少し上げることができる。
 
-当初はPS3の[ローンチタイトル](https://ja.wikipedia.org/wiki/ローンチタイトル "wikilink")を目指していたが延期を繰り返し、後から発表されたXbox 360版の方が先行して発売された。PS3版は『**Fatal Inertia EX**』と改名され、ダウンロード専売ソフトとして発売された。
+当初はPS3の[ローンチタイトル](../Page/ローンチタイトル.md "wikilink")を目指していたが延期を繰り返し、後から発表されたXbox 360版の方が先行して発売された。PS3版は『**Fatal Inertia EX**』と改名され、ダウンロード専売ソフトとして発売された。
 
 ## ステージ
 

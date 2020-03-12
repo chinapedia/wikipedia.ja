@@ -7,13 +7,13 @@
 
   - Vo.栄二郎(ex.DREAD NOUGHT FUSE)
   - Gt.sebastian(ex.BOOZE / ex.BAGGY CONNECTION)
-  - Ba.[Ikuo](https://ja.wikipedia.org/wiki/Ikuo "wikilink")(ex.Ex-iT / ex.[Lapis Lazuli](https://ja.wikipedia.org/wiki/Lapis_Lazuli_\(バンド\) "wikilink"))
-  - Dr.[淳士](https://ja.wikipedia.org/wiki/淳士 "wikilink")([SIAM SHADE](https://ja.wikipedia.org/wiki/SIAM_SHADE "wikilink"))
+  - Ba.[Ikuo](../Page/Ikuo.md "wikilink")(ex.Ex-iT / ex.[Lapis Lazuli](https://ja.wikipedia.org/wiki/Lapis_Lazuli_\(バンド\) "wikilink"))
+  - Dr.[淳士](../Page/淳士.md "wikilink")([SIAM SHADE](../Page/SIAM_SHADE.md "wikilink"))
 
 ## 概要
 
   - 淳士とIKUOが中心となり、結成された。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月19日](../Page/11月19日.md "wikilink")、さいたま新都心Heaven'sRock VJ-3にてライブデビューを果たす。
+  - [2006年](../Page/2006年.md "wikilink")[11月19日](../Page/11月19日.md "wikilink")、さいたま新都心Heaven'sRock VJ-3にてライブデビューを果たす。
   - リーダーは淳士で「大将」とも呼ばれている。
   - 2018年3月28日、徳間ジャパンよりメジャーデビューを果たす。
   - 2018年12月14日、活動休止を発表。

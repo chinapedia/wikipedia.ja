@@ -1,11 +1,11 @@
 > この記事は[SHORT LEG SUMMER](https://ja.wikipedia.org/wiki/SHORT_LEG_SUMMER)から翻訳されています。
 
 
-**SHORT LEG SUMMER**（ショート・レッグ・サマー）は[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")出身の4人組[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。2003年結成。2007年[avex traxよりメジャーデビュー](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+**SHORT LEG SUMMER**（ショート・レッグ・サマー）は[千葉県](../Page/千葉県.md "wikilink")出身の4人組[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。2003年結成。2007年[avex traxよりメジャーデビュー](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 綱要
 
-2001年に前身となるバンドを設立するが解散。東野ハマジ一人で続けメンバーを探し 2005年にファーストCDを自主販売。2007年6月にメジャーデビュー。 歌声は[串田アキラ](https://ja.wikipedia.org/wiki/串田アキラ "wikilink")に通じるものがある。
+2001年に前身となるバンドを設立するが解散。東野ハマジ一人で続けメンバーを探し 2005年にファーストCDを自主販売。2007年6月にメジャーデビュー。 歌声は[串田アキラ](../Page/串田アキラ.md "wikilink")に通じるものがある。
 
 ## メンバー
 
@@ -32,7 +32,7 @@
     1.  だから、ずっとそばにいろよ
     2.  炎のランニングバック
           -
-            [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[アイシールド21](https://ja.wikipedia.org/wiki/アイシールド21 "wikilink")』オープニングテーマ。
+            [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[アイシールド21](../Page/アイシールド21.md "wikilink")』オープニングテーマ。
     3.  Song of Power
           -
             テレビ東京系アニメ『アイシールド21』エンディングテーマ。
@@ -81,12 +81,12 @@
 
 ### テレビドラマ
 
-  - [新・警視庁捜査一課9係](https://ja.wikipedia.org/wiki/警視庁捜査一課9係 "wikilink")（2009年、[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")） 第8話（DVDでは第7話）本人役
+  - [新・警視庁捜査一課9係](https://ja.wikipedia.org/wiki/警視庁捜査一課9係 "wikilink")（2009年、[テレビ朝日](../Page/テレビ朝日.md "wikilink")） 第8話（DVDでは第7話）本人役
 
 ## 関連項目
 
-  - [東海ラジオミッドナイトスペシャル](https://ja.wikipedia.org/wiki/東海ラジオミッドナイトスペシャル "wikilink")
-  - [ニコニコ動画](https://ja.wikipedia.org/wiki/ニコニコ動画 "wikilink") - 削除動画の代替画像に東野ハマジが出演していた。
+  - [東海ラジオミッドナイトスペシャル](../Page/東海ラジオミッドナイトスペシャル.md "wikilink")
+  - [ニコニコ動画](../Page/ニコニコ動画.md "wikilink") - 削除動画の代替画像に東野ハマジが出演していた。
 
 ## 外部リンク
 

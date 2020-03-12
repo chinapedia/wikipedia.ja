@@ -1,12 +1,12 @@
 > この記事は[ \(Dir en grey\)](https://ja.wikipedia.org/wiki/_\(Dir_en_grey\))から翻訳されています。
 
 
-「**予感**」（よかん）は[Dir en greyのメジャー](https://ja.wikipedia.org/wiki/DIR_EN_GREY "wikilink")5枚目の[シングル](../Page/シングル.md "wikilink")。
+「**予感**」（よかん）は[Dir en greyのメジャー](../Page/DIR_EN_GREY.md "wikilink")5枚目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 概説
 
-  - アルバム『[GAUZE](../Page/GAUZE.md "wikilink")』の先行シングル。読売テレビ・日本テレビ系ドラマ『[女医](https://ja.wikipedia.org/wiki/女医_\(テレビドラマ\) "wikilink")』エンディングテーマに起用された。
-  - この曲で『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』、『[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")』、『[COUNT DOWN TV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")』に出演して、注目を集めた。『ミュージックステーション』出演時、[ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")の[京は](../Page/京_\(ミュージシャン\).md "wikilink")「今まで出した[シングル](../Page/シングル.md "wikilink")の中で1番メロディアスな曲。みんなも歌いやすいと思う」と語っていた。
+  - アルバム『[GAUZE](../Page/GAUZE.md "wikilink")』の先行シングル。読売テレビ・日本テレビ系ドラマ『[女医](../Page/女医_\(テレビドラマ\).md "wikilink")』エンディングテーマに起用された。
+  - この曲で『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』、『[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")』、『[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")』に出演して、注目を集めた。『ミュージックステーション』出演時、[ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")の[京は](../Page/京_\(ミュージシャン\).md "wikilink")「今まで出した[シングル](../Page/シングル.md "wikilink")の中で1番メロディアスな曲。みんなも歌いやすいと思う」と語っていた。
 
 ## 曲目
 

@@ -19,7 +19,7 @@ intebroという名称の起源には以下の2つがある。[internetと](http
   - [2001年](../Page/2001年.md "wikilink") [3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に[東京工科大学](../Page/東京工科大学.md "wikilink")学位授与式をライブ配信する。
   - [2002年](../Page/2002年.md "wikilink") [3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に[東京工業大学](../Page/東京工業大学.md "wikilink")とともにニュース配信システムを構築した。
 
-　　[9月](../Page/9月.md "wikilink")には[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")と自動映像作成プロジェクト（DMPプロジェクト）の共同研究を開始した。[11月](../Page/11月.md "wikilink")に[サンリオピューロランド](https://ja.wikipedia.org/wiki/サンリオピューロランド "wikilink")と共同企画をしている。
+　　[9月](../Page/9月.md "wikilink")には[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")と自動映像作成プロジェクト（DMPプロジェクト）の共同研究を開始した。[11月](../Page/11月.md "wikilink")に[サンリオピューロランド](../Page/サンリオピューロランド.md "wikilink")と共同企画をしている。
 
   - [2003年](../Page/2003年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink") インターネット放送の新しい表現手法に関する研究活動を開始した。
 
@@ -29,19 +29,19 @@ intebroという名称の起源には以下の2つがある。[internetと](http
   - [2004年](../Page/2004年.md "wikilink") 「学生史上最大の挑戦」と銘打ち、バラエティー色の強い番組編成でCEATEC JAPAN展示会を強力にバックアップ。
 
 　　[携帯電話](../Page/携帯電話.md "wikilink")（[P900iv](https://ja.wikipedia.org/wiki/P900iv "wikilink")）を使った同展示会場フロアからの史上初となる中継番組など学生ならではのアイデアを光らせた。また、5日間に渡り99時間連続でLIVE番組を制作・配信した。
-　　さらに、[九州工業大学](../Page/九州工業大学.md "wikilink")、[慶應義塾大学](https://ja.wikipedia.org/wiki/慶應義塾大学 "wikilink")、[千葉大学](https://ja.wikipedia.org/wiki/千葉大学 "wikilink")、[東京藝術大学](https://ja.wikipedia.org/wiki/東京藝術大学 "wikilink")、[日本工学院専門学校](https://ja.wikipedia.org/wiki/日本工学院専門学校 "wikilink")、[立教大学](../Page/立教大学.md "wikilink")、[立命館大学](https://ja.wikipedia.org/wiki/立命館大学 "wikilink")の学生等と共に学生制作による映像コンテンツを多数配信した。
+　　さらに、[九州工業大学](../Page/九州工業大学.md "wikilink")、[慶應義塾大学](https://ja.wikipedia.org/wiki/慶應義塾大学 "wikilink")、[千葉大学](https://ja.wikipedia.org/wiki/千葉大学 "wikilink")、[東京藝術大学](https://ja.wikipedia.org/wiki/東京藝術大学 "wikilink")、[日本工学院専門学校](../Page/日本工学院専門学校.md "wikilink")、[立教大学](../Page/立教大学.md "wikilink")、[立命館大学](https://ja.wikipedia.org/wiki/立命館大学 "wikilink")の学生等と共に学生制作による映像コンテンツを多数配信した。
 　　また、当時の市民メディアの先駆けであった「ユビキタス村TV」とも協力連携し、ラジオ番組等でも広告活動をしていた。
 　　（出展：「[下村健一の眼のツケドコロ](http://shimomuraken1.sakura.ne.jp/www/old/ken1-eye/2004/041002.html)」）
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") 世界への配信に方針転換し、国際的な要素を多く採り入れた番組を展開。[ハノイ国家大学](https://ja.wikipedia.org/wiki/ハノイ国家大学 "wikilink")等と連携し、学生としては史上初となる、
+  - [2005年](../Page/2005年.md "wikilink") 世界への配信に方針転換し、国際的な要素を多く採り入れた番組を展開。[ハノイ国家大学](https://ja.wikipedia.org/wiki/ハノイ国家大学 "wikilink")等と連携し、学生としては史上初となる、
 
 　　学生が学生を招聘する形で[世界学生サミット](https://ja.wikipedia.org/wiki/世界学生サミット "wikilink")のインターネット放送配信を企画・立案した。
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink") 過去例のない配信スタイルである「[Ondemand With Live](https://ja.wikipedia.org/wiki/Ondemand_With_Live "wikilink")（[OWL](https://ja.wikipedia.org/wiki/OWL "wikilink")）」という独自規格を新たに導入。
+  - [2006年](../Page/2006年.md "wikilink") 過去例のない配信スタイルである「[Ondemand With Live](https://ja.wikipedia.org/wiki/Ondemand_With_Live "wikilink")（[OWL](../Page/OWL.md "wikilink")）」という独自規格を新たに導入。
 
 　　これは、ライブをオンデマンドする形態としてインターネット放送業界の話題をさらった。また、[CEATEC JAPAN](https://ja.wikipedia.org/wiki/CEATEC_JAPAN "wikilink") 2006への参加・配信等を行った。
 
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink") [CEATEC JAPAN](https://ja.wikipedia.org/wiki/CEATEC_JAPAN "wikilink") 2007への参加・配信やintebro Web Magazineの制作・配信等を行った。
+  - [2007年](../Page/2007年.md "wikilink") [CEATEC JAPAN](https://ja.wikipedia.org/wiki/CEATEC_JAPAN "wikilink") 2007への参加・配信やintebro Web Magazineの制作・配信等を行った。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") 東京工科大学メディア学部オープンキャンパス『レクチャーラリー』の配信、GOOD DESIGN EXPO 2008及びWRO2008国際大会への参加・配信、
 
 　　2008年度[東京工科大学トキ野生復帰プロジェクトの取材](https://ja.wikipedia.org/wiki/東京工科大学#ボランティア "wikilink")・配信等を行った。
@@ -56,7 +56,7 @@ intebroという名称の起源には以下の2つがある。[internetと](http
 
   - その他、[日本インターネット放送学生連盟](https://ja.wikipedia.org/wiki/日本インターネット放送学生連盟 "wikilink")を立ち上げた他大学とのコラボレーションを日本で初めて展開した。
 
-　　また、MdNコーポレーション「プロとして恥ずかしくないシリーズ」の執筆協力や　　[ライブドア](https://ja.wikipedia.org/wiki/ライブドア "wikilink")ネットシネマ「ベストフレンズ」の制作協力（出演）、
+　　また、MdNコーポレーション「プロとして恥ずかしくないシリーズ」の執筆協力や　　[ライブドア](../Page/ライブドア.md "wikilink")ネットシネマ「ベストフレンズ」の制作協力（出演）、
 　　[ウルトラマンシリーズ](https://ja.wikipedia.org/wiki/ウルトラマンシリーズ "wikilink")40周年記念ワークショップ運営協力などを行った。
 
 ## 研究
@@ -66,7 +66,7 @@ intebroという名称の起源には以下の2つがある。[internetと](http
   - 主な研究
       - 自動映像作成プロジェクト - [東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")との共同研究
       - 自動ニュース配信システム - [東京工業大学](../Page/東京工業大学.md "wikilink")との共同研究
-      - 多視点配信システムの研究 - [サンリオピューロランド](https://ja.wikipedia.org/wiki/サンリオピューロランド "wikilink")との共同研究
+      - 多視点配信システムの研究 - [サンリオピューロランド](../Page/サンリオピューロランド.md "wikilink")との共同研究
 
 ## チャネル
 

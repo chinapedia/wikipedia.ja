@@ -3,7 +3,7 @@
 
 『**CEREAL**』（シリアル）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[SAICO](https://ja.wikipedia.org/wiki/SAICO "wikilink")の1stアルバム。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月27日](../Page/7月27日.md "wikilink")にDEAD GIRLSよりリリースされた。
+[2005年](../Page/2005年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink")にDEAD GIRLSよりリリースされた。
 
 ## 解説
 

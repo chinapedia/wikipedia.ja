@@ -5,21 +5,21 @@
 
 ## 概要
 
-  - 前年の「[シーズン・イン・ザ・サン](../Page/シーズン・イン・ザ・サン_\(TUBEの曲\).md "wikilink")」に次いで、[オリコン週間チャートでトップ](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")10入りし、『[ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")』ではともに第1位を獲得した。「TUBE＝夏」という方程式が出来上がった楽曲。『ザ・ベストテン』で1位を記録した時は[高知県](../Page/高知県.md "wikilink")[桂浜](https://ja.wikipedia.org/wiki/桂浜 "wikilink")から[生中継で放送された](../Page/中継放送.md "wikilink")。1987年のザ・ベストテン年間ランキングでは8位を記録した。
+  - 前年の「[シーズン・イン・ザ・サン](../Page/シーズン・イン・ザ・サン_\(TUBEの曲\).md "wikilink")」に次いで、[オリコン週間チャートでトップ](../Page/オリコンチャート.md "wikilink")10入りし、『[ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")』ではともに第1位を獲得した。「TUBE＝夏」という方程式が出来上がった楽曲。『ザ・ベストテン』で1位を記録した時は[高知県](../Page/高知県.md "wikilink")[桂浜](../Page/桂浜.md "wikilink")から[生中継で放送された](../Page/中継放送.md "wikilink")。1987年のザ・ベストテン年間ランキングでは8位を記録した。
   - レコード、CDのジャケットは[ハワイで撮影されたもの](../Page/ハワイ州.md "wikilink")。
-  - この楽曲の歌詞「渚のカセット 好きな歌だけ詰め込んで」のフレーズから[渚のオールスターズ](https://ja.wikipedia.org/wiki/渚のオールスターズ "wikilink")が結成された。
-  - 本作は[1989年](../Page/1989年.md "wikilink")[3月21日](https://ja.wikipedia.org/wiki/3月21日 "wikilink")にCDとして発売、収録曲は本作と次作シングル「ダンス・ウィズ・ユー」との両A面になっている。
-  - 作曲の[織田哲郎](../Page/織田哲郎.md "wikilink")が自身のアルバム『[Songs](https://ja.wikipedia.org/wiki/Songs_\(織田哲郎のアルバム\) "wikilink")』でセルフカバーしている。
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月4日](../Page/7月4日.md "wikilink")、[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[僕らの音楽](https://ja.wikipedia.org/wiki/僕らの音楽 "wikilink")』で[伊藤由奈](https://ja.wikipedia.org/wiki/伊藤由奈 "wikilink")とハワイアン・バージョンで[コラボレーション](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")している。
-  - [TBSの番組](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")[新・ウンナンの気分は上々。にてバカルディから改名した](https://ja.wikipedia.org/wiki/ウンナンの気分は上々 "wikilink")[さまぁ〜ず](../Page/さまぁ〜ず.md "wikilink")の登場曲として使われた。
+  - この楽曲の歌詞「渚のカセット 好きな歌だけ詰め込んで」のフレーズから[渚のオールスターズ](../Page/渚のオールスターズ.md "wikilink")が結成された。
+  - 本作は[1989年](../Page/1989年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")にCDとして発売、収録曲は本作と次作シングル「ダンス・ウィズ・ユー」との両A面になっている。
+  - 作曲の[織田哲郎](../Page/織田哲郎.md "wikilink")が自身のアルバム『[Songs](../Page/Songs_\(織田哲郎のアルバム\).md "wikilink")』でセルフカバーしている。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月4日](../Page/7月4日.md "wikilink")、[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[僕らの音楽](https://ja.wikipedia.org/wiki/僕らの音楽 "wikilink")』で[伊藤由奈](https://ja.wikipedia.org/wiki/伊藤由奈 "wikilink")とハワイアン・バージョンで[コラボレーション](../Page/コラボレーション.md "wikilink")している。
+  - [TBSの番組](../Page/TBSテレビ.md "wikilink")[新・ウンナンの気分は上々。にてバカルディから改名した](https://ja.wikipedia.org/wiki/ウンナンの気分は上々 "wikilink")[さまぁ〜ず](../Page/さまぁ〜ず.md "wikilink")の登場曲として使われた。
 
 ## 収録曲
 
 1987年4月10日リリース(レコード・カセット)
 
 1.  **SUMMER DREAM**
-      - 作詞:[亜蘭知子](https://ja.wikipedia.org/wiki/亜蘭知子 "wikilink")／作曲・編曲:織田哲郎
-      - [キリン](../Page/キリンビバレッジ.md "wikilink") 「[キリンレモン](https://ja.wikipedia.org/wiki/キリンレモン "wikilink")」CMソング
+      - 作詞:[亜蘭知子](../Page/亜蘭知子.md "wikilink")／作曲・編曲:織田哲郎
+      - [キリン](../Page/キリンビバレッジ.md "wikilink") 「[キリンレモン](../Page/キリンレモン.md "wikilink")」CMソング
 2.  **真夏の夜はROCK'n ROLL** (未CD化)
       - 作詞・作曲：[前田亘輝](../Page/前田亘輝.md "wikilink")／編曲:[TUBE](../Page/TUBE.md "wikilink")
 
@@ -29,8 +29,8 @@
 
 1.  **SUMMER DREAM**
       - 作詞:亜蘭知子／作曲・編曲:織田哲郎
-2.  **[Dance With You](https://ja.wikipedia.org/wiki/Dance_With_You "wikilink")**
-      - 作詞:亜蘭知子／作曲：[栗林誠一郎](https://ja.wikipedia.org/wiki/栗林誠一郎 "wikilink")／編曲：[長戸大幸](https://ja.wikipedia.org/wiki/長戸大幸 "wikilink")
+2.  **[Dance With You](../Page/Dance_With_You.md "wikilink")**
+      - 作詞:亜蘭知子／作曲：[栗林誠一郎](../Page/栗林誠一郎.md "wikilink")／編曲：[長戸大幸](https://ja.wikipedia.org/wiki/長戸大幸 "wikilink")
 
 ## リミックス・シングル
 
@@ -67,8 +67,8 @@
 ## 参加ミュージシャン
 
   - [斉藤ノブ](https://ja.wikipedia.org/wiki/斉藤ノブ "wikilink")：[パーカッション](../Page/パーカッション.md "wikilink")
-  - [坪倉唯子](https://ja.wikipedia.org/wiki/坪倉唯子 "wikilink")：[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
-  - [古村敏比古](https://ja.wikipedia.org/wiki/古村敏比古 "wikilink")：[サックス](../Page/サクソフォーン.md "wikilink")
+  - [坪倉唯子](../Page/坪倉唯子.md "wikilink")：[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
+  - [古村敏比古](../Page/古村敏比古.md "wikilink")：[サックス](../Page/サクソフォーン.md "wikilink")
   - [吉川忠英](../Page/吉川忠英.md "wikilink")：[アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")
 
 [Category:1987年のシングル](https://ja.wikipedia.org/wiki/Category:1987年のシングル "wikilink") [Category:ソニー・ミュージックレコーズのシングル](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのシングル "wikilink") [Category:TUBEの楽曲](https://ja.wikipedia.org/wiki/Category:TUBEの楽曲 "wikilink") [Category:夏を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:夏を題材とした楽曲 "wikilink") [Category:夢を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:夢を題材とした楽曲 "wikilink") [Category:炭酸飲料のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:炭酸飲料のコマーシャルソング "wikilink") [Category:亜蘭知子が制作した楽曲](https://ja.wikipedia.org/wiki/Category:亜蘭知子が制作した楽曲 "wikilink") [Category:織田哲郎が制作した楽曲](https://ja.wikipedia.org/wiki/Category:織田哲郎が制作した楽曲 "wikilink") [Category:ザ・ベストテン1位獲得作品](https://ja.wikipedia.org/wiki/Category:ザ・ベストテン1位獲得作品 "wikilink") [Category:楽曲_さ](https://ja.wikipedia.org/wiki/Category:楽曲_さ "wikilink") [Category:変ト長調](https://ja.wikipedia.org/wiki/Category:変ト長調 "wikilink")

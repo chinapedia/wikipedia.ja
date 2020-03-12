@@ -1,13 +1,13 @@
 > この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
 
 
-**生駒山テレビ・FM送信所**（いこまさんテレビ・エフエムそうしんじょ）は、[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")[東大阪市](../Page/東大阪市.md "wikilink")と[奈良県](https://ja.wikipedia.org/wiki/奈良県 "wikilink")[生駒市](https://ja.wikipedia.org/wiki/生駒市 "wikilink")にまたがる[生駒山](https://ja.wikipedia.org/wiki/生駒山 "wikilink")に所在する[テレビジョン放送](../Page/テレビジョン放送.md "wikilink")と一部の[FMラジオ放送の](../Page/超短波放送.md "wikilink")[親局](https://ja.wikipedia.org/wiki/親局 "wikilink")[送信所](https://ja.wikipedia.org/wiki/送信所 "wikilink")および[中継局](../Page/中継局.md "wikilink")である。[民放在阪広域テレビジョン放送や](https://ja.wikipedia.org/wiki/在阪テレビジョン放送局#民放在阪4局or民放在阪広域局 "wikilink")[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")域局のテレビジョン放送と[FM COCOLOの親局](../Page/FM_COCOLO.md "wikilink")、[奈良県](https://ja.wikipedia.org/wiki/奈良県 "wikilink")域局の親局と中継局及び民放在阪広域[AMラジオ放送の](../Page/中波放送.md "wikilink")[FM補完中継局](https://ja.wikipedia.org/wiki/FM補完中継局 "wikilink")が設置されている。
+**生駒山テレビ・FM送信所**（いこまさんテレビ・エフエムそうしんじょ）は、[大阪府](../Page/大阪府.md "wikilink")[東大阪市](../Page/東大阪市.md "wikilink")と[奈良県](../Page/奈良県.md "wikilink")[生駒市](https://ja.wikipedia.org/wiki/生駒市 "wikilink")にまたがる[生駒山](../Page/生駒山.md "wikilink")に所在する[テレビジョン放送](../Page/テレビジョン放送.md "wikilink")と一部の[FMラジオ放送の](../Page/超短波放送.md "wikilink")[親局](../Page/親局.md "wikilink")[送信所](../Page/送信所.md "wikilink")および[中継局](../Page/中継局.md "wikilink")である。[民放在阪広域テレビジョン放送や](https://ja.wikipedia.org/wiki/在阪テレビジョン放送局#民放在阪4局or民放在阪広域局 "wikilink")[大阪府](../Page/大阪府.md "wikilink")域局のテレビジョン放送と[FM COCOLOの親局](../Page/FM_COCOLO.md "wikilink")、[奈良県](../Page/奈良県.md "wikilink")域局の親局と中継局及び民放在阪広域[AMラジオ放送の](../Page/中波放送.md "wikilink")[FM補完中継局](https://ja.wikipedia.org/wiki/FM補完中継局 "wikilink")が設置されている。
 
 ## 放送区域
 
 ### NHK大阪・広域圏民放
 
-[生駒山テレビ塔.jpg](https://ja.wikipedia.org/wiki/File:生駒山テレビ塔.jpg "fig:生駒山テレビ塔.jpg") [大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")の大部分の世帯、[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")の[京都盆地](https://ja.wikipedia.org/wiki/京都盆地 "wikilink")、[兵庫県](../Page/兵庫県.md "wikilink")の[阪神平野](https://ja.wikipedia.org/wiki/大阪平野 "wikilink")・[淡路島](../Page/淡路島.md "wikilink")、[奈良県](https://ja.wikipedia.org/wiki/奈良県 "wikilink")の一部\[1\]。
+[生駒山テレビ塔.jpg](https://ja.wikipedia.org/wiki/File:生駒山テレビ塔.jpg "fig:生駒山テレビ塔.jpg") [大阪府](../Page/大阪府.md "wikilink")の大部分の世帯、[京都府](../Page/京都府.md "wikilink")の[京都盆地](https://ja.wikipedia.org/wiki/京都盆地 "wikilink")、[兵庫県](../Page/兵庫県.md "wikilink")の[阪神平野](../Page/大阪平野.md "wikilink")・[淡路島](../Page/淡路島.md "wikilink")、[奈良県](../Page/奈良県.md "wikilink")の一部\[1\]。
 
 ### 大阪府域局（テレビ大阪）
 
@@ -19,32 +19,32 @@
 
 ## 歴史
 
-  - [1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")（[昭和](../Page/昭和.md "wikilink")26年）6月 - [NHK大阪放送局](../Page/NHK大阪放送局.md "wikilink")、[総合テレビジョン実験放送開始](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")。
+  - [1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")（[昭和](../Page/昭和.md "wikilink")26年）6月 - [NHK大阪放送局](../Page/NHK大阪放送局.md "wikilink")、[総合テレビジョン実験放送開始](../Page/NHK総合テレビジョン.md "wikilink")。
   - [1954年](../Page/1954年.md "wikilink")（昭和29年）3月1日 - NHK大阪総合テレビジョン（4ch）、[近畿広域圏の親局として正式開局](../Page/広域放送.md "wikilink")。
-  - [1956年](../Page/1956年.md "wikilink")（昭和31年）12月1日 - [大阪テレビ放送](https://ja.wikipedia.org/wiki/大阪テレビ放送 "wikilink")（6ch）、西日本初の民放テレビ局として開局。
+  - [1956年](../Page/1956年.md "wikilink")（昭和31年）12月1日 - [大阪テレビ放送](../Page/大阪テレビ放送.md "wikilink")（6ch）、西日本初の民放テレビ局として開局。
   - [1958年](../Page/1958年.md "wikilink")（昭和33年）
       - 8月28日 - [讀賣テレビ放送](../Page/讀賣テレビ放送.md "wikilink")（10ch）開局。
       - 11月22日 - [関西テレビ放送](../Page/関西テレビ放送.md "wikilink")（8ch）開局。
       - 12月1日 - NHK大阪総合テレビのチャンネルを4ch→2chに変更。[米軍からレーダー用として使われていた](../Page/アメリカ軍.md "wikilink")1chと2chの帯域が返還されたことに加え、民放新局に周波数を割り当てるための変更である。
   - [1959年](../Page/1959年.md "wikilink")（昭和34年）
       - 3月1日 - [毎日放送テレビジョン](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")（4ch）開局。これに伴い大阪テレビ放送は「[朝日放送大阪テレビ](../Page/朝日放送テレビ.md "wikilink")」の呼称使用を開始し、同年6月、朝日放送と合併。
-      - 4月 - NHK大阪[教育テレビジョン](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")（12ch）開局。現在に至るまで近畿広域圏の実質親局\[4\]である。
-  - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")（昭和44年）3月1日 - NHK大阪[FM放送本放送開始](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")\[5\]。当初はテレビ送信所から電波送信。
-  - [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")（昭和45年）[12月24日](../Page/12月24日.md "wikilink") [NHK大阪UHFテレビ実験局](https://ja.wikipedia.org/wiki/NHK_UHFテレビ実験局#放送大学開設に向けて "wikilink")（14ch）開局（[1975年](../Page/1975年.md "wikilink")（昭和50年）[4月6日](../Page/4月6日.md "wikilink")廃止）。
+      - 4月 - NHK大阪[教育テレビジョン](../Page/NHK教育テレビジョン.md "wikilink")（12ch）開局。現在に至るまで近畿広域圏の実質親局\[4\]である。
+  - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")（昭和44年）3月1日 - NHK大阪[FM放送本放送開始](../Page/NHK-FM放送.md "wikilink")\[5\]。当初はテレビ送信所から電波送信。
+  - [1970年](../Page/1970年.md "wikilink")（昭和45年）[12月24日](../Page/12月24日.md "wikilink") [NHK大阪UHFテレビ実験局](https://ja.wikipedia.org/wiki/NHK_UHFテレビ実験局#放送大学開設に向けて "wikilink")（14ch）開局（[1975年](../Page/1975年.md "wikilink")（昭和50年）[4月6日](../Page/4月6日.md "wikilink")廃止）。
   - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")（昭和46年）
-      - 4月1日 - [NHK大津放送局](../Page/NHK大津放送局.md "wikilink")、ここを親局とする既設の総合テレビ中継局をチャンネル変更した上で親局に転換し、[滋賀県](../Page/滋賀県.md "wikilink")内での[県域放送](../Page/県域放送.md "wikilink")開始。以後近畿他府県のNHK放送局も順次総合テレビの府県域親局を開局させ、その結果、NHK大阪総合テレビは大阪府域局扱いとなったものの、[スピルオーバー](https://ja.wikipedia.org/wiki/スピルオーバー "wikilink")（電波漏れ）対策（減力・送信パターン変更）は実施されなかった（後のデジタル放送化でも同様）。
-      - 6月1日 - NHKがFM放送を府県域化するにあたり、大阪府外へのスピルオーバーが大きな問題となったことから、当時[大阪市](https://ja.wikipedia.org/wiki/大阪市 "wikilink")内に送信所\[6\]があった[エフエム大阪](../Page/エフエム大阪.md "wikilink")とともに[飯盛山に共同でFM専用の新送信所を設置し](https://ja.wikipedia.org/wiki/飯盛山_\(生駒山地\) "wikilink")、生駒山のNHK-FM送信所は廃止。
+      - 4月1日 - [NHK大津放送局](../Page/NHK大津放送局.md "wikilink")、ここを親局とする既設の総合テレビ中継局をチャンネル変更した上で親局に転換し、[滋賀県](../Page/滋賀県.md "wikilink")内での[県域放送](../Page/県域放送.md "wikilink")開始。以後近畿他府県のNHK放送局も順次総合テレビの府県域親局を開局させ、その結果、NHK大阪総合テレビは大阪府域局扱いとなったものの、[スピルオーバー](../Page/スピルオーバー.md "wikilink")（電波漏れ）対策（減力・送信パターン変更）は実施されなかった（後のデジタル放送化でも同様）。
+      - 6月1日 - NHKがFM放送を府県域化するにあたり、大阪府外へのスピルオーバーが大きな問題となったことから、当時[大阪市](../Page/大阪市.md "wikilink")内に送信所\[6\]があった[エフエム大阪](../Page/エフエム大阪.md "wikilink")とともに[飯盛山に共同でFM専用の新送信所を設置し](../Page/飯盛山_\(生駒山地\).md "wikilink")、生駒山のNHK-FM送信所は廃止。
   - [1982年](../Page/1982年.md "wikilink")（昭和57年）3月1日 - [テレビ大阪](../Page/テレビ大阪.md "wikilink")（19ch）開局。大阪府域の民放テレビ局の為、先述のFMスピルオーバー問題を踏まえ、広域圏各局よりも標高が低い場所に送信所を設置した。
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（[平成](../Page/平成.md "wikilink")7年）10月16日 - 関西インターメディア（現：[FM COCOLO](../Page/FM_COCOLO.md "wikilink")）、日本初の外国語民放FM局として開局。約24年ぶりに生駒山にFM送信所が設置された。
   - [2003年](../Page/2003年.md "wikilink")（平成15年）12月1日 - 広域圏各局及び大阪府域局が[地上デジタルテレビジョン放送本放送開始](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")\[7\]。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）4月1日 - 奈良県域局、地上デジタルテレビジョン放送本放送開始\[8\]。
+  - [2006年](../Page/2006年.md "wikilink")（平成18年）4月1日 - 奈良県域局、地上デジタルテレビジョン放送本放送開始\[8\]。
   - [2011年](../Page/2011年.md "wikilink")（平成23年）7月24日 - すべての[地上アナログテレビジョン放送が終了し](https://ja.wikipedia.org/wiki/NTSC#日本における実装_\(NTSC-J\) "wikilink")、60年弱の同放送の歴史に幕を降ろす。
-  - [2016年](../Page/2016年.md "wikilink")（平成28年）3月19日 - 正午より、[毎日放送](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")、[ラジオ大阪](https://ja.wikipedia.org/wiki/大阪放送 "wikilink")、[朝日放送の在阪AM各局が](https://ja.wikipedia.org/wiki/朝日放送ラジオ "wikilink")[FM補完放送を開始](https://ja.wikipedia.org/wiki/FM補完中継局 "wikilink")\[9\]\[10\]。
-  - [2018年](../Page/2018年.md "wikilink")（平成30年）4月1日 - 朝日放送が持株会社・[朝日放送グループホールディングス](../Page/朝日放送グループホールディングス.md "wikilink")への移行に伴い、各放送部門を[朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")と[朝日放送ラジオ](https://ja.wikipedia.org/wiki/朝日放送ラジオ "wikilink")に分社化。
+  - [2016年](../Page/2016年.md "wikilink")（平成28年）3月19日 - 正午より、[毎日放送](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")、[ラジオ大阪](../Page/大阪放送.md "wikilink")、[朝日放送の在阪AM各局が](../Page/朝日放送ラジオ.md "wikilink")[FM補完放送を開始](https://ja.wikipedia.org/wiki/FM補完中継局 "wikilink")\[9\]\[10\]。
+  - [2018年](../Page/2018年.md "wikilink")（平成30年）4月1日 - 朝日放送が持株会社・[朝日放送グループホールディングス](../Page/朝日放送グループホールディングス.md "wikilink")への移行に伴い、各放送部門を[朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")と[朝日放送ラジオ](../Page/朝日放送ラジオ.md "wikilink")に分社化。
 
 ## 所在地
 
-生駒山は奈良県と大阪府の府県境に位置することもあり、ここに置かれている放送送信所は親局と中継局が複雑に入り混じっている。こうしたケースとしてはほかに[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")と[佐賀県](../Page/佐賀県.md "wikilink")の県境に位置する[九千部山](https://ja.wikipedia.org/wiki/九千部山 "wikilink")の[久留米・鳥栖テレビ・FM放送所](https://ja.wikipedia.org/wiki/久留米・鳥栖テレビ・FM放送所 "wikilink")がある。
+生駒山は奈良県と大阪府の府県境に位置することもあり、ここに置かれている放送送信所は親局と中継局が複雑に入り混じっている。こうしたケースとしてはほかに[福岡県](../Page/福岡県.md "wikilink")と[佐賀県](../Page/佐賀県.md "wikilink")の県境に位置する[九千部山](../Page/九千部山.md "wikilink")の[久留米・鳥栖テレビ・FM放送所](../Page/久留米・鳥栖テレビ・FM放送所.md "wikilink")がある。
 
   - NHK大阪・近畿広域圏民放各社：大阪府東大阪市山手町2028又は奈良県生駒市鬼取町662-1\[11\]
 
@@ -66,10 +66,10 @@
 <thead>
 <tr class="header">
 <th><p><a href="https://ja.wikipedia.org/wiki/リモコンキーID#日本" title="wikilink">リモコンキーID</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/日本のテレビジョン放送局" title="wikilink">放送局名</a></p></th>
+<th><p><a href="../Page/日本のテレビジョン放送局.md" title="wikilink">放送局名</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/日本の放送局所の呼出符号" title="wikilink">コールサイン</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/テレビ周波数チャンネル#近畿広域圏" title="wikilink">物理チャンネル</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/空中線電力" title="wikilink">空中線電力</a></p></th>
+<th><p><a href="../Page/空中線電力.md" title="wikilink">空中線電力</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/実効輻射電力" title="wikilink">実効輻射電力</a></p></th>
 <th><p><a href="../Page/放送対象地域.md" title="wikilink">放送対象地域</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/放送区域" title="wikilink">放送区域</a>内世帯数</p></th>
@@ -80,7 +80,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p><a href="../Page/NHK大阪放送局.md" title="wikilink">NHK<br />
-大阪</a><a href="https://ja.wikipedia.org/wiki/NHK総合テレビジョン" title="wikilink">総合</a></p></td>
+大阪</a><a href="../Page/NHK総合テレビジョン.md" title="wikilink">総合</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/日本の放送局所の呼出符号#JO＊K" title="wikilink">JOBK-DTV</a>[20]</p></td>
 <td><p>24ch</p></td>
 <td><p>3kW[21]</p></td>
@@ -97,7 +97,7 @@
 <td><p>31ch</p></td>
 <td><p>10W[24]</p></td>
 <td><p>120W[25]</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/奈良県" title="wikilink">奈良県</a></p></td>
+<td><p><a href="../Page/奈良県.md" title="wikilink">奈良県</a></p></td>
 <td><p>約26万世帯</p></td>
 <td><p>東中腹[26]</p></td>
 <td></td>
@@ -105,7 +105,7 @@
 <tr class="odd">
 <td><p>2</p></td>
 <td><p>NHK<br />
-大阪<a href="https://ja.wikipedia.org/wiki/NHK教育テレビジョン" title="wikilink">教育</a></p></td>
+大阪<a href="../Page/NHK教育テレビジョン.md" title="wikilink">教育</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/日本の放送局所の呼出符号#JO＊B" title="wikilink">JOBB-DTV</a>[27]</p></td>
 <td><p>13ch</p></td>
 <td><p>3kW[28]</p></td>
@@ -216,7 +216,7 @@
 ### 備考
 
   - NHK大阪は総合と教育の送信設備を共用。。
-  - NHK奈良総合の親局は[斑鳩町](../Page/斑鳩町.md "wikilink")と[大和郡山市](https://ja.wikipedia.org/wiki/大和郡山市 "wikilink")にまたがる[松尾山の](https://ja.wikipedia.org/wiki/松尾山_\(奈良県\) "wikilink")[松尾山テレビ・FM送信所](https://ja.wikipedia.org/wiki/松尾山テレビ・FM送信所 "wikilink")にあるが、デジタル化に伴い、NHK奈良総合以外は生駒山からの電波を直接受信する方針に転換され、送信所が集約された。
+  - NHK奈良総合の親局は[斑鳩町](../Page/斑鳩町.md "wikilink")と[大和郡山市](https://ja.wikipedia.org/wiki/大和郡山市 "wikilink")にまたがる[松尾山の](https://ja.wikipedia.org/wiki/松尾山_\(奈良県\) "wikilink")[松尾山テレビ・FM送信所](../Page/松尾山テレビ・FM送信所.md "wikilink")にあるが、デジタル化に伴い、NHK奈良総合以外は生駒山からの電波を直接受信する方針に転換され、送信所が集約された。
   - 朝日放送テレビは[持株会社](../Page/持株会社.md "wikilink")移行に伴うテレビ・ラジオ分社化に際しコールサインを[JONR-DTV](https://ja.wikipedia.org/wiki/日本の放送局所の呼出符号#JO＊R "wikilink")\[61\]から変更した\[62\]。
 
 ## 地上アナログテレビジョン放送送信設備
@@ -415,7 +415,7 @@
   - 当送信所のVHF放送電波は、放送対象地域外の広範囲に電波が届いていた。
   - NHK東大阪石切中継局は、生駒山の山裾にあたり、親局の受信が困難な東大阪市の一部を対象とする難視聴対策用中継局であった。
   - NHK奈良総合とTVNのアナログ親局は、[斑鳩町](../Page/斑鳩町.md "wikilink")と[大和郡山市](https://ja.wikipedia.org/wiki/大和郡山市 "wikilink")にまたがる松尾山にあり、現在松尾山にデジタル送信所を構えているのはNHK奈良総合のみである。
-  - 朝日放送（現：[朝日放送グループホールディングス](../Page/朝日放送グループホールディングス.md "wikilink")）は1959年に[大阪テレビ放送](https://ja.wikipedia.org/wiki/大阪テレビ放送 "wikilink")を合併した際に、コールサインをJOBX-TVから変更している。
+  - 朝日放送（現：[朝日放送グループホールディングス](../Page/朝日放送グループホールディングス.md "wikilink")）は1959年に[大阪テレビ放送](../Page/大阪テレビ放送.md "wikilink")を合併した際に、コールサインをJOBX-TVから変更している。
 
 ## FMラジオ放送送信設備
 
@@ -423,7 +423,7 @@
 <thead>
 <tr class="header">
 <th><p><a href="../Page/周波数.md" title="wikilink">周波数</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/日本のラジオ放送局" title="wikilink">放送局名</a></p></th>
+<th><p><a href="../Page/日本のラジオ放送局.md" title="wikilink">放送局名</a></p></th>
 <th><p>コールサイン</p></th>
 <th><p>空中線電力</p></th>
 <th><p>実効輻射電力</p></th>
@@ -447,7 +447,7 @@
 </tr>
 <tr class="even">
 <td><p>83.4MHz[71]</p></td>
-<td><p>NHK奈良放送局<a href="https://ja.wikipedia.org/wiki/NHK-FM放送" title="wikilink">FM</a><br />
+<td><p>NHK奈良放送局<a href="../Page/NHK-FM放送.md" title="wikilink">FM</a><br />
 生駒奈良北中継局</p></td>
 <td><p>-</p></td>
 <td><p>3W[72]</p></td>
@@ -466,7 +466,7 @@
 </tr>
 <tr class="even">
 <td><p>91.9MHz[80][81]</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大阪放送" title="wikilink">OBC ラジオ大阪</a></p></td>
+<td><p><a href="../Page/大阪放送.md" title="wikilink">OBC ラジオ大阪</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -475,7 +475,7 @@
 </tr>
 <tr class="odd">
 <td><p>93.3MHz[82][83]</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/朝日放送ラジオ" title="wikilink">ABC 朝日放送ラジオ</a></p></td>
+<td><p><a href="../Page/朝日放送ラジオ.md" title="wikilink">ABC 朝日放送ラジオ</a></p></td>
 <td><p>12.5kW[84]</p></td>
 <td></td>
 <td></td>
@@ -487,7 +487,7 @@
 <li>MBS・OBC・ABCはいずれも2016年3月19日正午本放送開始[85]。</li>
 <li><p>。</p></li>
 <li>大阪府のみを放送対象地域とするFM（超短波）放送は、生駒山の北に位置する<a href="../Page/大東市.md" title="wikilink">大東市</a>の<a href="https://ja.wikipedia.org/wiki/飯盛山_(生駒山地)#在阪FMラジオ送信所" title="wikilink">飯盛山より送信中だが</a>、（<a href="../Page/エフエム大阪.md" title="wikilink">エフエム大阪</a>は飯盛山移転まで大阪市内のビルの屋上より送信していた[86]。<a href="../Page/FM802.md" title="wikilink">FM802</a>は開局時より飯盛山）。</li>
-<li>外国語放送を行う放送対象地域は<a href="https://ja.wikipedia.org/wiki/大阪市" title="wikilink">大阪市</a>、<a href="https://ja.wikipedia.org/wiki/堺市" title="wikilink">堺市</a>、<a href="../Page/東大阪市.md" title="wikilink">東大阪市</a>、<a href="../Page/京都市.md" title="wikilink">京都市</a>、<a href="../Page/神戸市.md" title="wikilink">神戸市</a>、<a href="../Page/尼崎市.md" title="wikilink">尼崎市</a>、<a href="https://ja.wikipedia.org/wiki/奈良市" title="wikilink">奈良市</a>および<a href="https://ja.wikipedia.org/wiki/関西国際空港" title="wikilink">関西国際空港</a>である[87]。</li>
+<li>外国語放送を行う放送対象地域は<a href="../Page/大阪市.md" title="wikilink">大阪市</a>、<a href="https://ja.wikipedia.org/wiki/堺市" title="wikilink">堺市</a>、<a href="../Page/東大阪市.md" title="wikilink">東大阪市</a>、<a href="../Page/京都市.md" title="wikilink">京都市</a>、<a href="../Page/神戸市.md" title="wikilink">神戸市</a>、<a href="../Page/尼崎市.md" title="wikilink">尼崎市</a>、<a href="https://ja.wikipedia.org/wiki/奈良市" title="wikilink">奈良市</a>および<a href="https://ja.wikipedia.org/wiki/関西国際空港" title="wikilink">関西国際空港</a>である[87]。</li>
 </ul></td>
 <td></td>
 <td></td>
@@ -519,7 +519,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/社団法人.md" title="wikilink">社団法人</a><br />
-<a href="https://ja.wikipedia.org/wiki/デジタルラジオ推進協会" title="wikilink">デジタルラジオ推進協会</a></p></td>
+<a href="../Page/デジタルラジオ推進協会.md" title="wikilink">デジタルラジオ推進協会</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/日本の放送局所の呼出符号#JO＊Z_2" title="wikilink">JOBZ-FM</a></p></td>
 <td><p>190.214286MHz<br />
 VHFテレビ7chに相当する周波数帯</p></td>
@@ -611,10 +611,10 @@ VHFテレビ7chに相当する周波数帯</p></td>
 1.  [\[A-PAB\]放送エリアのめやす（大阪局)](http://apab-tv-area.jp/map/27-0186)
 2.
 3.  [\[A-PAB\]放送エリアのめやす（生駒奈良北（奈良）中継局 )](http://apab-tv-area.jp/map/27-0186)
-4.  NHK教育は[東京タワー](https://ja.wikipedia.org/wiki/東京タワー "wikilink")（アナログ3ch、デジタル[リモコンキーID](../Page/リモコンキーID.md "wikilink")2ch（[アナログ廃止後](https://ja.wikipedia.org/wiki/NTSC#日本における実装_\(NTSC-J\) "wikilink")、[東京スカイツリー](https://ja.wikipedia.org/wiki/東京スカイツリー "wikilink")に移転））を親局とする全国同一エリアで、放送免許上は「コールサイン付き中継局」の扱い。
+4.  NHK教育は[東京タワー](https://ja.wikipedia.org/wiki/東京タワー "wikilink")（アナログ3ch、デジタル[リモコンキーID](../Page/リモコンキーID.md "wikilink")2ch（[アナログ廃止後](https://ja.wikipedia.org/wiki/NTSC#日本における実装_\(NTSC-J\) "wikilink")、[東京スカイツリー](../Page/東京スカイツリー.md "wikilink")に移転））を親局とする全国同一エリアで、放送免許上は「コールサイン付き中継局」の扱い。
 5.  1958年（昭和33年）2月20日にコールサインJOBK-FMX、1kWの実験局で開局。その後、1961年（昭和36年）6月15日に10kWに増力し、そのまま本放送へ移行した。
     出典：こちらJOBK NHK大阪放送局七十年、181ページ
-6.  開局時は[新朝日ビル屋上にあった](https://ja.wikipedia.org/wiki/新朝日ビルディング "wikilink")。出典：「僕はFMしか知らなかった」[共同通信社](../Page/共同通信社.md "wikilink")刊、エフエム大阪編集、69ページ。
+6.  開局時は[新朝日ビル屋上にあった](../Page/新朝日ビルディング.md "wikilink")。出典：「僕はFMしか知らなかった」[共同通信社](../Page/共同通信社.md "wikilink")刊、エフエム大阪編集、69ページ。
 7.  [近畿地区の地上デジタルテレビ放送局 （総務省、近畿総合通信局）](http://www.soumu.go.jp/soutsu/kinki/2011/schedule/index.html)
 8.
 9.

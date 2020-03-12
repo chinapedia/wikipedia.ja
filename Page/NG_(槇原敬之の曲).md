@@ -3,7 +3,7 @@
 
 「**NG**」（エヌジー）は、[槇原敬之](../Page/槇原敬之.md "wikilink")の[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")[シングル](../Page/シングル.md "wikilink")。
 
-[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[10月25日](../Page/10月25日.md "wikilink")にデビューアルバム「[君が笑うとき君の胸が痛まないように](https://ja.wikipedia.org/wiki/君が笑うとき君の胸が痛まないように "wikilink")」と同時発売。発売元はWEAミュージック（後に[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")に併合）。
+[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[10月25日](../Page/10月25日.md "wikilink")にデビューアルバム「[君が笑うとき君の胸が痛まないように](https://ja.wikipedia.org/wiki/君が笑うとき君の胸が痛まないように "wikilink")」と同時発売。発売元はWEAミュージック（後に[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")に併合）。
 
 ## 解説
 
@@ -13,7 +13,7 @@
 
 ## 収録曲
 
-全曲 作詞・作曲：槇原敬之、編曲：[西平彰](https://ja.wikipedia.org/wiki/西平彰 "wikilink")・槇原敬之
+全曲 作詞・作曲：槇原敬之、編曲：[西平彰](../Page/西平彰.md "wikilink")・槇原敬之
 
 1.  **NG**
 2.  **RAIN DANCE MUSIC**

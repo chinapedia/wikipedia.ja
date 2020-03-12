@@ -5,9 +5,9 @@
 
 ## 概要
 
-ALLOFMP3.com などと競合。世界的にはiTunesとも競合する。[ビットレート](https://ja.wikipedia.org/wiki/ビットレート "wikilink")は192Kと320Kbpsの2種類がある。過去には、ALLOFMP3や[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")といった他のダウンロードサイトと同様に、曲単位での購入がメインだったが、後に1日＄1ダウンロードし放題のプラン（Priceless Plan）を発表。同種サービスのなかでも、異端的存在となり、一部の洋楽マニアの注目を浴びる。
+ALLOFMP3.com などと競合。世界的にはiTunesとも競合する。[ビットレート](../Page/ビットレート.md "wikilink")は192Kと320Kbpsの2種類がある。過去には、ALLOFMP3や[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")といった他のダウンロードサイトと同様に、曲単位での購入がメインだったが、後に1日＄1ダウンロードし放題のプラン（Priceless Plan）を発表。同種サービスのなかでも、異端的存在となり、一部の洋楽マニアの注目を浴びる。
 
-その後、多方面からの圧力や、クレジットカード会社からのデポジット利用の締め出しが行われ、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[6月](../Page/6月.md "wikilink")のサーバ停止を噂されるも、新たなサービス(Heat Plan）の発表により人気の継続と隠れたファンの拡大を産んでいる。
+その後、多方面からの圧力や、クレジットカード会社からのデポジット利用の締め出しが行われ、[2007年](../Page/2007年.md "wikilink")[6月](../Page/6月.md "wikilink")のサーバ停止を噂されるも、新たなサービス(Heat Plan）の発表により人気の継続と隠れたファンの拡大を産んでいる。
 
 ## 主な特徴・サービス内容
 

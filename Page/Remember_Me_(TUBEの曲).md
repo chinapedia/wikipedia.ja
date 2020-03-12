@@ -5,15 +5,15 @@
 
 ## 概要
 
-  - シングル曲では初めて[前田亘輝](../Page/前田亘輝.md "wikilink")が作詞を担当し、作曲には一時期TUBEのライヴサポートも務めた[栗林誠一郎](https://ja.wikipedia.org/wiki/栗林誠一郎 "wikilink")を迎えた楽曲である。編曲には翌年のアルバム「SUMMER CITY」で数曲の編曲に携わることになる[明石昌夫](https://ja.wikipedia.org/wiki/明石昌夫 "wikilink")を迎える。
+  - シングル曲では初めて[前田亘輝](../Page/前田亘輝.md "wikilink")が作詞を担当し、作曲には一時期TUBEのライヴサポートも務めた[栗林誠一郎](../Page/栗林誠一郎.md "wikilink")を迎えた楽曲である。編曲には翌年のアルバム「SUMMER CITY」で数曲の編曲に携わることになる[明石昌夫](../Page/明石昌夫.md "wikilink")を迎える。
 
 <!-- end list -->
 
-  - A面はシングル盤及びアルバム共に収録されているが、[前田亘輝](../Page/前田亘輝.md "wikilink")の歌い方が若干異なっている。また、名称にはアルバムヴァージョン等との表記はない。B面は、B面初の作曲となる[春畑道哉](https://ja.wikipedia.org/wiki/春畑道哉 "wikilink")が編曲も兼ねて作曲を担当。歌詞には「[江ノ島](../Page/江の島.md "wikilink")」、「[雄三通り](../Page/神奈川県道310号茅ヶ崎停車場茅ヶ崎線.md "wikilink")」など湘南の具体的な地名が登場、前田亘輝の作詞である。なお、ジャケットのイラストは[わたせせいぞう](https://ja.wikipedia.org/wiki/わたせせいぞう "wikilink")によるもの。
+  - A面はシングル盤及びアルバム共に収録されているが、[前田亘輝](../Page/前田亘輝.md "wikilink")の歌い方が若干異なっている。また、名称にはアルバムヴァージョン等との表記はない。B面は、B面初の作曲となる[春畑道哉](../Page/春畑道哉.md "wikilink")が編曲も兼ねて作曲を担当。歌詞には「[江ノ島](../Page/江の島.md "wikilink")」、「[雄三通り](../Page/神奈川県道310号茅ヶ崎停車場茅ヶ崎線.md "wikilink")」など湘南の具体的な地名が登場、前田亘輝の作詞である。なお、ジャケットのイラストは[わたせせいぞう](../Page/わたせせいぞう.md "wikilink")によるもの。
 
 <!-- end list -->
 
-  - 作曲の栗林誠一郎は[渚のオールスターズ](https://ja.wikipedia.org/wiki/渚のオールスターズ "wikilink")で[近藤房之助](https://ja.wikipedia.org/wiki/近藤房之助 "wikilink")らとともに英語でヴォーカルを務めている他、自身のアルバムでセルフカバーしている。
+  - 作曲の栗林誠一郎は[渚のオールスターズ](../Page/渚のオールスターズ.md "wikilink")で[近藤房之助](../Page/近藤房之助.md "wikilink")らとともに英語でヴォーカルを務めている他、自身のアルバムでセルフカバーしている。
 
 <!-- end list -->
 
@@ -24,10 +24,10 @@
 （全作詞：[前田亘輝](../Page/前田亘輝.md "wikilink")）
 
 1.  **Remember Me**
-      - [銀座ジュエリーマキ](https://ja.wikipedia.org/wiki/三貴 "wikilink")「カメリアダイアモンド」CMソング
-      - 作曲：[栗林誠一郎](https://ja.wikipedia.org/wiki/栗林誠一郎 "wikilink")／編曲：[明石昌夫](https://ja.wikipedia.org/wiki/明石昌夫 "wikilink")
+      - [銀座ジュエリーマキ](../Page/三貴.md "wikilink")「カメリアダイアモンド」CMソング
+      - 作曲：[栗林誠一郎](../Page/栗林誠一郎.md "wikilink")／編曲：[明石昌夫](../Page/明石昌夫.md "wikilink")
 2.  **Miss You**
-      - 作曲・編曲：[春畑道哉](https://ja.wikipedia.org/wiki/春畑道哉 "wikilink")
+      - 作曲・編曲：[春畑道哉](../Page/春畑道哉.md "wikilink")
 
 ※CT版には、上記2曲の[オフヴォーカル](https://ja.wikipedia.org/wiki/オフヴォーカル "wikilink")版が収録されている。
 

@@ -5,9 +5,9 @@
 
 ## 解説
 
-  - 表題曲「Sweet Emotion」は『[ハイチュウ](https://ja.wikipedia.org/wiki/ハイチュウ "wikilink")』CMソング、[全国民放ラジオの](../Page/日本民間放送連盟.md "wikilink")「ラジオ新時代」キャンペーンソング。曲名は[エアロスミス](https://ja.wikipedia.org/wiki/エアロスミス "wikilink")の[同名曲に由来する](https://ja.wikipedia.org/wiki/スウィート・エモーション_\(エアロスミスの曲\) "wikilink")\[1\]。
+  - 表題曲「Sweet Emotion」は『[ハイチュウ](../Page/ハイチュウ.md "wikilink")』CMソング、[全国民放ラジオの](../Page/日本民間放送連盟.md "wikilink")「ラジオ新時代」キャンペーンソング。曲名は[エアロスミス](../Page/エアロスミス.md "wikilink")の[同名曲に由来する](https://ja.wikipedia.org/wiki/スウィート・エモーション_\(エアロスミスの曲\) "wikilink")\[1\]。
   - CDケースには日本の全民放ラジオ局（AM、FM、短波）の視聴可能な周波数が書いてある。
-  - 累計50.3万枚を売り上げ（[オリコン調べ](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")）、「[恋心](https://ja.wikipedia.org/wiki/恋心_\(相川七瀬の曲\) "wikilink")」、「[トラブルメイカー](https://ja.wikipedia.org/wiki/トラブルメイカー_\(相川七瀬の曲\) "wikilink")」に次いで自身3番目に高い売上を記録した。
+  - 累計50.3万枚を売り上げ（[オリコン調べ](../Page/オリコンチャート.md "wikilink")）、「[恋心](../Page/恋心_\(相川七瀬の曲\).md "wikilink")」、「[トラブルメイカー](https://ja.wikipedia.org/wiki/トラブルメイカー_\(相川七瀬の曲\) "wikilink")」に次いで自身3番目に高い売上を記録した。
   - [ビーイング](../Page/ビーイング.md "wikilink")のスタジオ制作。
 
 ## 収録曲
@@ -16,7 +16,7 @@
       - 作詞：相川七瀬、[織田哲郎](../Page/織田哲郎.md "wikilink") / 作曲・編曲：織田哲郎
     <!-- end list -->
       -
-        [PVはライブ映像であり](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、ストリングス隊はお面をかぶっている。タイアップを意識し、歌詞には「ボリューム」「ノイズ」「チューナー」などのラジオに関係のある用語が登場する。
+        [PVはライブ映像であり](../Page/ミュージック・ビデオ.md "wikilink")、ストリングス隊はお面をかぶっている。タイアップを意識し、歌詞には「ボリューム」「ノイズ」「チューナー」などのラジオに関係のある用語が登場する。
 2.  **こんなに愛しても**
       - 作詞：相川七瀬 / 作曲・編曲：織田哲郎
 3.  **Sweet Emotion (オリジナルカラオケ)**
@@ -29,7 +29,7 @@
   - [ID](https://ja.wikipedia.org/wiki/ID_\(相川七瀬のアルバム\) "wikilink")
   - [NANASE AIKAWA BEST ALBUM "ROCK or DIE"](https://ja.wikipedia.org/wiki/NANASE_AIKAWA_BEST_ALBUM_"ROCK_or_DIE" "wikilink")
   - [a-box 〜avex Best Hit Collection〜](https://ja.wikipedia.org/wiki/a-box_〜avex_Best_Hit_Collection〜 "wikilink")
-  - [十八番 〜J-POP 90's BEST〜](https://ja.wikipedia.org/wiki/十八番_〜J-POP_90's_BEST〜 "wikilink")
+  - [十八番 〜J-POP 90's BEST〜](../Page/十八番_〜J-POP_90's_BEST〜.md "wikilink")
   - First Kiss
   - 20年200曲
   - a LOVE

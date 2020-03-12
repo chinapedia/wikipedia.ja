@@ -3,7 +3,7 @@
 
 『**Numb**』（ナム）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[SAICO](https://ja.wikipedia.org/wiki/SAICO "wikilink")の2ndアルバム。
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[6月6日](../Page/6月6日.md "wikilink")にarights recordsよりリリースされた。
+[2007年](../Page/2007年.md "wikilink")[6月6日](../Page/6月6日.md "wikilink")にarights recordsよりリリースされた。
 
 ## 解説
 
@@ -18,7 +18,7 @@
 4.  **渇いた目だね**
     （作詞・作曲：Takashi Numakura / 編曲：YUJIN\&TAKASHI NUMAKURA）
 5.  **FLOWER**
-    （作詞：SAICO / 作曲：[Yohei Ohmori](https://ja.wikipedia.org/wiki/大森洋平 "wikilink") / 編曲：HIROO YAMAGUCHI\&SHINICHI ONO）
+    （作詞：SAICO / 作曲：[Yohei Ohmori](../Page/大森洋平.md "wikilink") / 編曲：HIROO YAMAGUCHI\&SHINICHI ONO）
 6.  **夜**
     （作詞：SAICO・Takashi Numakura / 作曲：Takashi Numakura / 編曲：KENICHIRO MIYAGAKI\&TAKASHI OHTSUKI）
 7.  **月光**

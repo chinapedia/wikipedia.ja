@@ -30,7 +30,7 @@ Mac OS Xの中では初期のバージョンであり、リリース当初はv10
     ファイルごとに拡張子の表示を選択できるようになった
   - Image Capture
     デジタルカメラからの画像自動ダウンロード
-  - [ことえり](https://ja.wikipedia.org/wiki/ことえり "wikilink")3
+  - [ことえり](../Page/ことえり.md "wikilink")3
     AI変換に対応。変換効率が大幅に向上。「関連文字へ変換」機能の追加
   - ネットワーク互換性強化
     [SMB](https://ja.wikipedia.org/wiki/SMB "wikilink")/[CIFS](https://ja.wikipedia.org/wiki/CIFS "wikilink")クライアント機能が付属。iDiskが[WebDAV](../Page/WebDAV.md "wikilink")ベースに。

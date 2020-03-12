@@ -3,7 +3,7 @@
 
 『**Chara**』（キャラ）は、[徳間書店](../Page/徳間書店.md "wikilink")から発行の[隔月刊](https://ja.wikipedia.org/wiki/逐次刊行物#隔月刊 "wikilink")[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")。偶数月22日発売。
 
-『[アニメージュ](https://ja.wikipedia.org/wiki/アニメージュ "wikilink")』増刊であった[少女漫画](../Page/少女漫画.md "wikilink")雑誌『**Noel**』（ノエル）が[1994年](../Page/1994年.md "wikilink")に独立創刊してできた漫画誌。主に、[BL作品が掲載されている](../Page/ボーイズラブ.md "wikilink")。
+『[アニメージュ](../Page/アニメージュ.md "wikilink")』増刊であった[少女漫画](../Page/少女漫画.md "wikilink")雑誌『**Noel**』（ノエル）が[1994年](../Page/1994年.md "wikilink")に独立創刊してできた漫画誌。主に、[BL作品が掲載されている](../Page/ボーイズラブ.md "wikilink")。
 
 ## 兄弟誌
 
@@ -17,18 +17,18 @@
 
   - ANIMAL X 原始再来（[杉本亜未](https://ja.wikipedia.org/wiki/杉本亜未 "wikilink")）
   - [美しい男](../Page/美しい男.md "wikilink")（[高口里純](../Page/高口里純.md "wikilink")）
-  - [カルバニア物語](../Page/カルバニア物語.md "wikilink")（[TONO](https://ja.wikipedia.org/wiki/TONO "wikilink")）
+  - [カルバニア物語](../Page/カルバニア物語.md "wikilink")（[TONO](../Page/TONO.md "wikilink")）
   - [銀河英雄伝説](../Page/銀河英雄伝説.md "wikilink")（[道原かつみ](../Page/道原かつみ.md "wikilink") 原作：[田中芳樹](../Page/田中芳樹.md "wikilink")）
-  - 下宿日和（[麻々原絵里依](https://ja.wikipedia.org/wiki/麻々原絵里依 "wikilink")）
+  - 下宿日和（[麻々原絵里依](../Page/麻々原絵里依.md "wikilink")）
   - 幻月楼奇譚（[今市子](../Page/今市子.md "wikilink")）
   - Code:Leviathan（[稲荷家房之介](https://ja.wikipedia.org/wiki/稲荷家房之介 "wikilink")）
-  - [THE WORLD](https://ja.wikipedia.org/wiki/THE_WORLD_\(漫画\) "wikilink")（[獸木野生](../Page/獸木野生.md "wikilink")）
+  - [THE WORLD](../Page/THE_WORLD_\(漫画\).md "wikilink")（[獸木野生](../Page/獸木野生.md "wikilink")）
   - C\!\! （反島津小太郎）
-  - [私立荒磯高等学校生徒会執行部](https://ja.wikipedia.org/wiki/私立荒磯高等学校生徒会執行部 "wikilink")（[峰倉かずや](../Page/峰倉かずや.md "wikilink")）
-  - デミアン症候群（[沖麻実也](https://ja.wikipedia.org/wiki/沖麻実也 "wikilink")）
+  - [私立荒磯高等学校生徒会執行部](../Page/私立荒磯高等学校生徒会執行部.md "wikilink")（[峰倉かずや](../Page/峰倉かずや.md "wikilink")）
+  - デミアン症候群（[沖麻実也](../Page/沖麻実也.md "wikilink")）
   - [透明少年](https://ja.wikipedia.org/wiki/透明少年 "wikilink")（小田切ほたる）
   - [ななひかり](https://ja.wikipedia.org/wiki/ななひかり "wikilink")（高口里純）
-  - [毎日晴天\!](https://ja.wikipedia.org/wiki/毎日晴天! "wikilink")（二宮悦巳 原作：[菅野彰](https://ja.wikipedia.org/wiki/菅野彰 "wikilink")）
+  - [毎日晴天\!](../Page/毎日晴天!.md "wikilink")（二宮悦巳 原作：[菅野彰](../Page/菅野彰.md "wikilink")）
   - ミスター・シーナの精霊日記（藤たまき）
   - [Midnight Sun](https://ja.wikipedia.org/wiki/Midnight_Sun "wikilink")（有那寿実）
   - やってらんねェぜ\!（[こいでみえこ](https://ja.wikipedia.org/wiki/こいでみえこ "wikilink") 原作：[秋月こお](../Page/秋月こお.md "wikilink")）

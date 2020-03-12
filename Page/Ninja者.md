@@ -1,7 +1,7 @@
 > この記事は[Ninja](https://ja.wikipedia.org/wiki/Ninja)から翻訳されています。
 
 
-『**Ninja者**』（ニンジャもの）は、[1996年](../Page/1996年.md "wikilink")に作られた[OVA](../Page/OVA.md "wikilink")作品。全2巻。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink")には[DVD](../Page/DVD.md "wikilink")版(全1巻)が発売された。これは日本で発売された最初のアニメDVDである。
+『**Ninja者**』（ニンジャもの）は、[1996年](../Page/1996年.md "wikilink")に作られた[OVA](../Page/OVA.md "wikilink")作品。全2巻。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[1月1日](../Page/1月1日.md "wikilink")には[DVD](../Page/DVD.md "wikilink")版(全1巻)が発売された。これは日本で発売された最初のアニメDVDである。
 
 ## あらすじ
 
@@ -12,25 +12,25 @@
   - サクラ：[小西寛子](../Page/小西寛子.md "wikilink")
   - マツリ：[中島麻実](https://ja.wikipedia.org/wiki/中島麻実 "wikilink")
   - ユメ：[宮嶋ひとみ](https://ja.wikipedia.org/wiki/宮嶋ひとみ "wikilink")
-  - ポチ：[宮田始典](https://ja.wikipedia.org/wiki/宮田幸季 "wikilink")
-  - ハヤシ：[石塚堅](https://ja.wikipedia.org/wiki/石塚堅 "wikilink")
+  - ポチ：[宮田始典](../Page/宮田幸季.md "wikilink")
+  - ハヤシ：[石塚堅](../Page/石塚堅.md "wikilink")
   - カヲル：[鈴村健一](../Page/鈴村健一.md "wikilink")
-  - ジャメ：[川村万梨阿](https://ja.wikipedia.org/wiki/川村万梨阿 "wikilink")
-  - ニッコー：[菅原淳一](https://ja.wikipedia.org/wiki/菅原淳一 "wikilink")
+  - ジャメ：[川村万梨阿](../Page/川村万梨阿.md "wikilink")
+  - ニッコー：[菅原淳一](../Page/菅原淳一.md "wikilink")
   - マツザカ：[二又一成](../Page/二又一成.md "wikilink")
-  - イナバ：[浅田葉子](https://ja.wikipedia.org/wiki/浅田葉子 "wikilink")
-  - ユキノブ：[沢木郁也](https://ja.wikipedia.org/wiki/沢木郁也 "wikilink")
+  - イナバ：[浅田葉子](../Page/浅田葉子.md "wikilink")
+  - ユキノブ：[沢木郁也](../Page/沢木郁也.md "wikilink")
   - 役人：[岩永哲哉](../Page/岩永哲哉.md "wikilink")
-  - 殿様：[飛田展男](https://ja.wikipedia.org/wiki/飛田展男 "wikilink")
+  - 殿様：[飛田展男](../Page/飛田展男.md "wikilink")
   - 司令官：[千葉一伸](../Page/千葉一伸.md "wikilink")
 
 ## スタッフ
 
   - 原案・監督・絵コンテ・キャラクターデザイン - [菅沼栄治](../Page/菅沼栄治.md "wikilink")
   - 脚本 - [山田光洋](https://ja.wikipedia.org/wiki/山田光洋 "wikilink")
-  - デザインワークス - [岸田隆宏](https://ja.wikipedia.org/wiki/岸田隆宏 "wikilink")
-  - 演出 - [元永慶太郎](https://ja.wikipedia.org/wiki/元永慶太郎 "wikilink")
-  - 作画監督 - [木崎文智](https://ja.wikipedia.org/wiki/木崎文智 "wikilink")（共通）、[北爪宏幸](https://ja.wikipedia.org/wiki/北爪宏幸 "wikilink")（第1巻）、北島信幸（共通）、菅沼栄治（第1巻）、[西井正典](https://ja.wikipedia.org/wiki/西井正典 "wikilink")（第2巻）、岸田隆宏（第2巻）
+  - デザインワークス - [岸田隆宏](../Page/岸田隆宏.md "wikilink")
+  - 演出 - [元永慶太郎](../Page/元永慶太郎.md "wikilink")
+  - 作画監督 - [木崎文智](../Page/木崎文智.md "wikilink")（共通）、[北爪宏幸](../Page/北爪宏幸.md "wikilink")（第1巻）、北島信幸（共通）、菅沼栄治（第1巻）、[西井正典](../Page/西井正典.md "wikilink")（第2巻）、岸田隆宏（第2巻）
   - 美術監督・美術設定 - 須江信人
   - 色彩設定 - 金丸ゆう子
   - 撮影監督 - 佐藤均
@@ -38,13 +38,13 @@
   - 音楽 - [見良津健雄](../Page/見良津健雄.md "wikilink")
   - 音響監督 - [松浦典良](https://ja.wikipedia.org/wiki/松浦典良 "wikilink")
   - プロデューサー - 田崎廣、渡辺欽哉
-  - 制作 - [AIC](https://ja.wikipedia.org/wiki/アニメインターナショナルカンパニー "wikilink")
-  - 製作 - [ユーメックス](https://ja.wikipedia.org/wiki/ユーメックス "wikilink")
+  - 制作 - [AIC](../Page/アニメインターナショナルカンパニー.md "wikilink")
+  - 製作 - [ユーメックス](../Page/ユーメックス.md "wikilink")
 
 ## 主題歌
 
   - 「GIRLS SUNSHINE」
-    作詞 - [工藤哲雄](https://ja.wikipedia.org/wiki/工藤哲雄 "wikilink") / 作曲 - [都志見隆](https://ja.wikipedia.org/wiki/都志見隆 "wikilink") / 編曲 - 見良津健雄 / 歌 - [NINJ GIRLS](https://ja.wikipedia.org/wiki/NINJ_GIRLS "wikilink")
+    作詞 - [工藤哲雄](https://ja.wikipedia.org/wiki/工藤哲雄 "wikilink") / 作曲 - [都志見隆](../Page/都志見隆.md "wikilink") / 編曲 - 見良津健雄 / 歌 - [NINJ GIRLS](https://ja.wikipedia.org/wiki/NINJ_GIRLS "wikilink")
 
 ## 小説
 

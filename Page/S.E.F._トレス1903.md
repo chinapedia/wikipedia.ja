@@ -1,15 +1,15 @@
 > この記事は[S.E.F. 1903](https://ja.wikipedia.org/wiki/S.E.F._1903)から翻訳されています。
 
 
-**S.E.F. トレス1903**（**Società di Educazione Fisica Torres 1903**）は、[イタリア](../Page/イタリア.md "wikilink")・[サルデーニャ](../Page/サルデーニャ.md "wikilink")自治州[サッサリ](../Page/サッサリ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。略称はトレス。2015-16シーズンは、[セリエD](https://ja.wikipedia.org/wiki/セリエD_\(サッカー\) "wikilink")・ジローネGに所属している。
+**S.E.F. トレス1903**（**Società di Educazione Fisica Torres 1903**）は、[イタリア](../Page/イタリア.md "wikilink")・[サルデーニャ](../Page/サルデーニャ.md "wikilink")自治州[サッサリ](../Page/サッサリ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。略称はトレス。2015-16シーズンは、[セリエD](../Page/セリエD_\(サッカー\).md "wikilink")・ジローネGに所属している。
 
 ## 歴史
 
-[1903年](../Page/1903年.md "wikilink")にポリスポルティーヴァ・サッサリ・トレス (*Polisportiva Sassari Torres*) として設立。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に一度破産した後にサッサリ・トレス1903 (*Sassari Torres 1903*) として再建され、[セリエC2](https://ja.wikipedia.org/wiki/レガ・プロ・セコンダ・ディヴィジオーネ "wikilink")（4部）に編入された。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、財政難のために再び活動停止し、ASDトレス・カルチョ（*Associazione Sportiva Dilettantistica Torres Calcio*）として、アマチュアのプロモツィオーネから再び出直しとなった。
+[1903年](../Page/1903年.md "wikilink")にポリスポルティーヴァ・サッサリ・トレス (*Polisportiva Sassari Torres*) として設立。[2006年](../Page/2006年.md "wikilink")に一度破産した後にサッサリ・トレス1903 (*Sassari Torres 1903*) として再建され、[セリエC2](../Page/レガ・プロ・セコンダ・ディヴィジオーネ.md "wikilink")（4部）に編入された。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、財政難のために再び活動停止し、ASDトレス・カルチョ（*Associazione Sportiva Dilettantistica Torres Calcio*）として、アマチュアのプロモツィオーネから再び出直しとなった。
 
-2013年、[レガ・プロ・セコンダ・ディヴィジオーネ](https://ja.wikipedia.org/wiki/レガ・プロ・セコンダ・ディヴィジオーネ "wikilink")（4部）復帰を果たし、現在のチーム名に改称された。
+2013年、[レガ・プロ・セコンダ・ディヴィジオーネ](../Page/レガ・プロ・セコンダ・ディヴィジオーネ.md "wikilink")（4部）復帰を果たし、現在のチーム名に改称された。
 
-2014-15シーズンは11位で終えたが、八百長問題が発覚し、翌シーズンの[セリエD降格処分が裁定で下された](https://ja.wikipedia.org/wiki/セリエD_\(サッカー\) "wikilink")\[1\]。
+2014-15シーズンは11位で終えたが、八百長問題が発覚し、翌シーズンの[セリエD降格処分が裁定で下された](../Page/セリエD_\(サッカー\).md "wikilink")\[1\]。
 
 ## タイトル
 
@@ -24,14 +24,14 @@
   - 2009-10 [エッチェッレンツァ](https://ja.wikipedia.org/wiki/エッチェッレンツァ "wikilink")・サルデーニャ 10位
   - 2010-11 [エッチェッレンツァ](https://ja.wikipedia.org/wiki/エッチェッレンツァ "wikilink")・サルデーニャ 2位
   - 2011-12 [エッチェッレンツァ](https://ja.wikipedia.org/wiki/エッチェッレンツァ "wikilink")・サルデーニャ 1位 **昇格**
-  - 2012-13 [セリエD](https://ja.wikipedia.org/wiki/セリエD_\(サッカー\) "wikilink")・ジローネG 1位 **昇格**
-  - 2013-14 [レガ・プロ・セコンダ・ディヴィジオーネ](https://ja.wikipedia.org/wiki/レガ・プロ・セコンダ・ディヴィジオーネ "wikilink")・ジローネA 12位 **<s>降格</s>** **特別残留**
+  - 2012-13 [セリエD](../Page/セリエD_\(サッカー\).md "wikilink")・ジローネG 1位 **昇格**
+  - 2013-14 [レガ・プロ・セコンダ・ディヴィジオーネ](../Page/レガ・プロ・セコンダ・ディヴィジオーネ.md "wikilink")・ジローネA 12位 **<s>降格</s>** **特別残留**
   - 2014-15 [レガ・プロ](https://ja.wikipedia.org/wiki/レガ・プロ "wikilink")・ジローネA 11位 **八百長により降格**
-  - 2015-16 [セリエD](https://ja.wikipedia.org/wiki/セリエD_\(サッカー\) "wikilink")・ジローネG
+  - 2015-16 [セリエD](../Page/セリエD_\(サッカー\).md "wikilink")・ジローネG
 
 ## 歴代所属選手
 
-  - [ジャンフランコ・ゾラ](https://ja.wikipedia.org/wiki/ジャンフランコ・ゾラ "wikilink") 1986-1989
+  - [ジャンフランコ・ゾラ](../Page/ジャンフランコ・ゾラ.md "wikilink") 1986-1989
 
   - [アントニオ・ランジェッラ](../Page/アントニオ・ランジェッラ.md "wikilink") 1999-2002
 

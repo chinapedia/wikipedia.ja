@@ -1,7 +1,7 @@
 > この記事は[FENCE OF DEFENSE XIII ](https://ja.wikipedia.org/wiki/FENCE_OF_DEFENSE_XIII_)から翻訳されています。
 
 
-**FENCE OF DEFENSE XIII パンゲア**（フェンス・オブ・ディフェンス サーティーン パンゲア）は[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月21日](https://ja.wikipedia.org/wiki/3月21日 "wikilink")にリリースされた[FENCE OF DEFENSEの](../Page/FENCE_OF_DEFENSE.md "wikilink")13thアルバム。
+**FENCE OF DEFENSE XIII パンゲア**（フェンス・オブ・ディフェンス サーティーン パンゲア）は[2005年](../Page/2005年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")にリリースされた[FENCE OF DEFENSEの](../Page/FENCE_OF_DEFENSE.md "wikilink")13thアルバム。
 
 ## 解説
 
@@ -16,7 +16,7 @@
 2.  **ホクチュウソウ**
     　（作詞:SEVEN　作曲:西村麻聡　編曲:FENCE OF DEFENSE）
 3.  **さそり**
-    　（作詞:[K.INOJO](https://ja.wikipedia.org/wiki/K.INOJO "wikilink")　作曲:西村麻聡　編曲:FENCE OF DEFENSE）
+    　（作詞:[K.INOJO](../Page/K.INOJO.md "wikilink")　作曲:西村麻聡　編曲:FENCE OF DEFENSE）
 4.  **星を継ぐもの**
     　（作詞:尾崎雪絵/柳川英巳/西村麻聡　作曲:北島健二/西村麻聡　編曲:FENCE OF DEFENSE）
 5.  **デジール**

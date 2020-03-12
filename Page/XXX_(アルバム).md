@@ -5,13 +5,13 @@
 
 ## 解説
 
-デビュー以来所属していた[EPICソニーから](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")[ポリドール](https://ja.wikipedia.org/wiki/ポリドール・レコード "wikilink")（現[ユニバーサル・ミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")）内の、[月光恵亮](https://ja.wikipedia.org/wiki/月光恵亮 "wikilink")を中心とした[パブリック・イメージ](https://ja.wikipedia.org/wiki/パブリック・イメージ "wikilink")所属アーティストの専門レーベルであるPrimitive Recordsに移籍しての第1弾アルバム。
+デビュー以来所属していた[EPICソニーから](../Page/エピックレコードジャパン.md "wikilink")[ポリドール](../Page/ポリドール・レコード.md "wikilink")（現[ユニバーサル・ミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）内の、[月光恵亮](https://ja.wikipedia.org/wiki/月光恵亮 "wikilink")を中心とした[パブリック・イメージ](https://ja.wikipedia.org/wiki/パブリック・イメージ "wikilink")所属アーティストの専門レーベルであるPrimitive Recordsに移籍しての第1弾アルバム。
 
 タイトルのXは[ローマ数字](../Page/ローマ数字.md "wikilink")の**10**を意味し、リリースがバンドのデビュー10周年に当たることと10枚目のオリジナルアルバムであることに掛けている。3つ並んでいるのは前のオリジナルアルバム「[hot dogs](https://ja.wikipedia.org/wiki/hot_dogs "wikilink")」同様、メンバーの人数に掛けているためで、ジャケットは「見ざる言わざる聞かざる」を模している。この時期のLIVEも10周年記念として、新曲以外にも代表曲を網羅したベスト的な選曲で実施されている。
 
 北島健二がこの作品以降、[ヤマハ・KK-1](https://ja.wikipedia.org/wiki/ヤマハ・KK-1 "wikilink")以外のギターを使用するようになり、この作品では主に[ギブソン・レス・ポール](https://ja.wikipedia.org/wiki/ギブソン・レス・ポール "wikilink")を使用している。
 
-このアルバムはFOD史上初となる外部プロデューサーを迎えた作品で、外部ミュージシャンも多数起用され、北島が当時併行して活動していた[PEARLの](https://ja.wikipedia.org/wiki/PEARL_\(バンド\) "wikilink")[田村直美](https://ja.wikipedia.org/wiki/田村直美 "wikilink")も参加している。同バンドと田村はこの時期、FODと同レーベル同プロデューサーでの活動を行ってもいた。作詞には作詞家の[森雪之丞](https://ja.wikipedia.org/wiki/森雪之丞 "wikilink")をシングルを含む多くの楽曲で起用している。
+このアルバムはFOD史上初となる外部プロデューサーを迎えた作品で、外部ミュージシャンも多数起用され、北島が当時併行して活動していた[PEARLの](../Page/PEARL_\(バンド\).md "wikilink")[田村直美](../Page/田村直美.md "wikilink")も参加している。同バンドと田村はこの時期、FODと同レーベル同プロデューサーでの活動を行ってもいた。作詞には作詞家の[森雪之丞](../Page/森雪之丞.md "wikilink")をシングルを含む多くの楽曲で起用している。
 
 先行シングルのリリースも活発に行われ、前年のシングル「遥か〜Sailing for my dream〜」はTBS系アニメ『[B'T X](https://ja.wikipedia.org/wiki/B'T_X "wikilink")』OP曲に起用され、スマッシュヒットを記録した。ちなみに同曲は当初、リリース予定のない所謂「没曲」であったが、同アニメの原作者[車田正美](https://ja.wikipedia.org/wiki/車田正美 "wikilink")がこの曲を非常に気に入ったため、主題歌に起用→シングルリリースにいたった経緯がある。
 
@@ -19,7 +19,7 @@
 
 なお、FODのヒットシングル「SARA」「時の河」「DON'T LOOK BACK」「遥か〜Sailing for my dream〜」はいずれもテレビアニメのテーマ曲であるため、彼らを（揶揄的なニュアンスを込めて）「[アニソンバンド](https://ja.wikipedia.org/wiki/アニメソング "wikilink")」と語る向きもあるが、西村はいずれの作品も原作や企画書を精読してから取り組んでいる（特に「横山光輝三国志」（西村が音楽監督を担当）全巻読破は当時の雑誌インタビューで語られており、自身のブログでも2008年の三国志展に行ったという記述がある）。
 
-先行シングルの多くはテレビタイアップを獲得し、またこの時期西村は「[それいけ\!\!ココロジー](https://ja.wikipedia.org/wiki/それいけ!!ココロジー "wikilink")」の[PSソフトの音楽監督を務めてOSTを発表するなど](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")、レーベル側もこれまで以上に商業的成功を志向していた。アルバムリリース後も、シングル「13月の革命」（テレビ東京系アニメ『[異次元の世界エルハザード](https://ja.wikipedia.org/wiki/異次元の世界エルハザード "wikilink")』OP曲）のリリースが行われたが、その後FODはイーストウエスト・ジャパン（現[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")）に再移籍する事となる。
+先行シングルの多くはテレビタイアップを獲得し、またこの時期西村は「[それいけ\!\!ココロジー](../Page/それいけ!!ココロジー.md "wikilink")」の[PSソフトの音楽監督を務めてOSTを発表するなど](../Page/PlayStation_\(ゲーム機\).md "wikilink")、レーベル側もこれまで以上に商業的成功を志向していた。アルバムリリース後も、シングル「13月の革命」（テレビ東京系アニメ『[異次元の世界エルハザード](https://ja.wikipedia.org/wiki/異次元の世界エルハザード "wikilink")』OP曲）のリリースが行われたが、その後FODはイーストウエスト・ジャパン（現[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")）に再移籍する事となる。
 
 ## 収録曲
 
@@ -76,7 +76,7 @@
   - 佐野聡 - トロンボーン
   - 田村直美 - コーラス
   - [仁科かおり](https://ja.wikipedia.org/wiki/仁科かおり "wikilink") - コーラス
-  - [松田樹利亜](https://ja.wikipedia.org/wiki/松田樹利亜 "wikilink") - コーラス
+  - [松田樹利亜](../Page/松田樹利亜.md "wikilink") - コーラス
   - [LISAGO](https://ja.wikipedia.org/wiki/LISAGO "wikilink") - コーラス
 
 [Category:FENCE_OF_DEFENSEのアルバム](https://ja.wikipedia.org/wiki/Category:FENCE_OF_DEFENSEのアルバム "wikilink") [Category:1997年のアルバム](https://ja.wikipedia.org/wiki/Category:1997年のアルバム "wikilink") [Category:ポリドール・レコードのアルバム](https://ja.wikipedia.org/wiki/Category:ポリドール・レコードのアルバム "wikilink") [Category:月光恵亮プロデュースのアルバム](https://ja.wikipedia.org/wiki/Category:月光恵亮プロデュースのアルバム "wikilink")

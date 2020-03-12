@@ -1,7 +1,7 @@
 > この記事は[TDK](https://ja.wikipedia.org/wiki/TDK)から翻訳されています。
 
 
-**TDK庄内株式会社**（ティーディーケイしょうない）は、電子部品の製造・販売を行っている会社。[TDK](https://ja.wikipedia.org/wiki/TDK "wikilink")の100%出資の子会社で、[山形県](https://ja.wikipedia.org/wiki/山形県 "wikilink")[鶴岡市](../Page/鶴岡市.md "wikilink")に本社を置く。
+**TDK庄内株式会社**（ティーディーケイしょうない）は、電子部品の製造・販売を行っている会社。[TDK](../Page/TDK.md "wikilink")の100%出資の子会社で、[山形県](../Page/山形県.md "wikilink")[鶴岡市](../Page/鶴岡市.md "wikilink")に本社を置く。
 
 ## 本社・生産部
 
@@ -23,7 +23,7 @@
 ### 合併後
 
   - [2002年](../Page/2002年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink") – 鶴岡TDKが酒田TDKとユザTDKを吸収合併し、商号を**TDK庄内マニュファクチャリング株式会社**に変更。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")4月1日 – 商号を**TDK庄内株式会社**に変更。
+  - [2005年](../Page/2005年.md "wikilink")4月1日 – 商号を**TDK庄内株式会社**に変更。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月1日](../Page/10月1日.md "wikilink") - TDK飯田株式会社を吸収合併\[1\]。
   - [2012年](../Page/2012年.md "wikilink")[9月](../Page/9月.md "wikilink") - 遊佐工場は閉鎖
 
@@ -53,11 +53,11 @@
 
 ## 関連項目
 
-  - [TDK](https://ja.wikipedia.org/wiki/TDK "wikilink")
+  - [TDK](../Page/TDK.md "wikilink")
   - [TDK由利本荘](../Page/TDK由利本荘.md "wikilink")
   - [TDK羽後](../Page/TDK羽後.md "wikilink")
   - [TDK羽城](../Page/TDK羽城.md "wikilink")
-  - [TDK-MCC](https://ja.wikipedia.org/wiki/TDK-MCC "wikilink")
+  - [TDK-MCC](../Page/TDK-MCC.md "wikilink")
 
 [Category:日本の電気機器メーカー](https://ja.wikipedia.org/wiki/Category:日本の電気機器メーカー "wikilink") [Category:鶴岡市の企業](https://ja.wikipedia.org/wiki/Category:鶴岡市の企業 "wikilink") [Category:TDK](https://ja.wikipedia.org/wiki/Category:TDK "wikilink") [Category:1968年設立の企業](https://ja.wikipedia.org/wiki/Category:1968年設立の企業 "wikilink")
 

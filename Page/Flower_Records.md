@@ -17,22 +17,22 @@
   - [DJ NORI](https://ja.wikipedia.org/wiki/DJ_NORI "wikilink")
   - [eico](https://ja.wikipedia.org/wiki/eico "wikilink")
   - [高宮永徹](https://ja.wikipedia.org/wiki/高宮永徹 "wikilink") ([Eitetsu Takamiya](https://ja.wikipedia.org/wiki/Eitetsu_Takamiya "wikilink"))
-  - [Flat Three](https://ja.wikipedia.org/wiki/Flat_Three "wikilink")
+  - [Flat Three](../Page/Flat_Three.md "wikilink")
   - [Izuru Utsumi](https://ja.wikipedia.org/wiki/Izuru_Utsumi "wikilink")
-  - [Jazztronik](https://ja.wikipedia.org/wiki/Jazztronik "wikilink") ([野崎良太](https://ja.wikipedia.org/wiki/野崎良太 "wikilink"))
+  - [Jazztronik](../Page/Jazztronik.md "wikilink") ([野崎良太](https://ja.wikipedia.org/wiki/野崎良太 "wikilink"))
   - [Leftbrown](https://ja.wikipedia.org/wiki/Leftbrown "wikilink")
-  - [瀧澤賢太郎](https://ja.wikipedia.org/wiki/瀧澤賢太郎 "wikilink") ([Kentaro Takizawa](https://ja.wikipedia.org/wiki/Kentaro_Takizawa "wikilink"))
+  - [瀧澤賢太郎](../Page/瀧澤賢太郎.md "wikilink") ([Kentaro Takizawa](https://ja.wikipedia.org/wiki/Kentaro_Takizawa "wikilink"))
   - [Little Big Bee](https://ja.wikipedia.org/wiki/Little_Big_Bee "wikilink")
   - [奥山みなこ](https://ja.wikipedia.org/wiki/奥山みなこ "wikilink") ([Minako Okuyama](https://ja.wikipedia.org/wiki/Minako_Okuyama "wikilink"))
   - [M.O.K.](https://ja.wikipedia.org/wiki/M.O.K. "wikilink")
-  - [Reggae Disco Rockers](https://ja.wikipedia.org/wiki/Reggae_Disco_Rockers "wikilink")
+  - [Reggae Disco Rockers](../Page/Reggae_Disco_Rockers.md "wikilink")
   - [romantic couch](https://ja.wikipedia.org/wiki/romantic_couch "wikilink")
   - [Slowly](https://ja.wikipedia.org/wiki/Slowly "wikilink")
   - [Sunaga t experience](https://ja.wikipedia.org/wiki/Sunaga_t_experience "wikilink") ([須永辰緒](https://ja.wikipedia.org/wiki/須永辰緒 "wikilink"))
   - [Su-Paka-Pooh](https://ja.wikipedia.org/wiki/Su-Paka-Pooh "wikilink")
   - [Too Rooms](https://ja.wikipedia.org/wiki/Too_Rooms "wikilink")
   - [Toshiyuki Goto](https://ja.wikipedia.org/wiki/Toshiyuki_Goto "wikilink")
-  - [Yukihiro Fukutomi](https://ja.wikipedia.org/wiki/福富幸宏 "wikilink")
+  - [Yukihiro Fukutomi](../Page/福富幸宏.md "wikilink")
   - [Masanori Ikeda](https://ja.wikipedia.org/wiki/池田正典 "wikilink")
 
 ### マネジメント部門の所属アーティスト
@@ -41,7 +41,7 @@
 
 ### ※過去の所属アーティスト
 
-  - [Jazztronik](https://ja.wikipedia.org/wiki/Jazztronik "wikilink") (→[徳間ジャパンコミュニケーションズ](https://ja.wikipedia.org/wiki/徳間ジャパンコミュニケーションズ "wikilink")→[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")（レーベルは[Knife Edge](https://ja.wikipedia.org/wiki/Knife_Edge "wikilink")）)
+  - [Jazztronik](../Page/Jazztronik.md "wikilink") (→[徳間ジャパンコミュニケーションズ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")→[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")（レーベルは[Knife Edge](https://ja.wikipedia.org/wiki/Knife_Edge "wikilink")）)
 
 ## シリーズ
 
@@ -640,14 +640,14 @@ World Standard.02はcutting edgeよりリリース</p></td>
 <li>Cherry Oh! Baby feat. <a href="https://ja.wikipedia.org/wiki/加藤ミリヤ" title="wikilink">Miliyah</a></li>
 <li>Zone XXX</li>
 <li>Geshunin</li>
-<li>AUTOMOBILE feat. <a href="https://ja.wikipedia.org/wiki/横山剣" title="wikilink">横山剣</a></li>
+<li>AUTOMOBILE feat. <a href="../Page/横山剣.md" title="wikilink">横山剣</a></li>
 <li>I Shall Be Released feat. arvin homa aya</li>
 <li>Cry Me A River</li>
 <li>太陽の石 feat. <a href="https://ja.wikipedia.org/wiki/eico" title="wikilink">eico</a></li>
 <li>Wedding</li>
 </ol></td>
 <td><p>-</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/横山剣" title="wikilink">横山剣</a>(<a href="https://ja.wikipedia.org/wiki/クレイジーケンバンド" title="wikilink">クレイジーケンバンド</a>)、<a href="https://ja.wikipedia.org/wiki/加藤ミリヤ" title="wikilink">加藤ミリヤ</a>、arvin homa aya、eicoなど、沢山のボーカリストをフィーチャーしたRDRの2ndアルバム</p></td>
+<td><p><a href="../Page/横山剣.md" title="wikilink">横山剣</a>(<a href="../Page/クレイジーケンバンド.md" title="wikilink">クレイジーケンバンド</a>)、<a href="https://ja.wikipedia.org/wiki/加藤ミリヤ" title="wikilink">加藤ミリヤ</a>、arvin homa aya、eicoなど、沢山のボーカリストをフィーチャーしたRDRの2ndアルバム</p></td>
 </tr>
 <tr class="even">
 <td><p>FLRC-022</p></td>

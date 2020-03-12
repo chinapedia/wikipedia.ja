@@ -1,7 +1,7 @@
 > この記事は[REUNITED \& STARTING OVER](https://ja.wikipedia.org/wiki/REUNITED_\&_STARTING_OVER)から翻訳されています。
 
 
-『**REUNITED & STARTING OVER**』（リユナイテッド アンド スターティング・オーヴァー）は、[2004年](../Page/2004年.md "wikilink")[4月16日](https://ja.wikipedia.org/wiki/4月16日 "wikilink")にリリースされた、[FENCE OF DEFENSEのライブアルバム](../Page/FENCE_OF_DEFENSE.md "wikilink")。
+『**REUNITED & STARTING OVER**』（リユナイテッド アンド スターティング・オーヴァー）は、[2004年](../Page/2004年.md "wikilink")[4月16日](../Page/4月16日.md "wikilink")にリリースされた、[FENCE OF DEFENSEのライブアルバム](../Page/FENCE_OF_DEFENSE.md "wikilink")。
 
 ## 解説
 
@@ -32,7 +32,7 @@
         （作詞：FENCE OF DEFENSE　作曲：西村麻聡　編曲：FENCE OF DEFENSE）
 6.  **[VIOLET SONG](../Page/FENCE_OF_DEFENSE_VII_RIDE.md "wikilink")**
       -
-        （作詞：[K.INOJO](https://ja.wikipedia.org/wiki/K.INOJO "wikilink")　作曲：[北島健二](../Page/北島健二.md "wikilink")/西村麻聡/ 山田亘 編曲：FENCE OF DEFENSE）
+        （作詞：[K.INOJO](../Page/K.INOJO.md "wikilink")　作曲：[北島健二](../Page/北島健二.md "wikilink")/西村麻聡/ 山田亘 編曲：FENCE OF DEFENSE）
 7.  **[BURN](../Page/FENCE_OF_DEFENSE_\(アルバム\).md "wikilink")**
       -
         （作詞：FENCE OF DEFENSE　作曲：西村麻聡　編曲：FENCE OF DEFENSE）

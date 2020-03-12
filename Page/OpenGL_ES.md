@@ -3,21 +3,21 @@
 
 **OpenGL ES**（OpenGL for Embedded Systems）は、主に[携帯電話](../Page/携帯電話.md "wikilink")などの[組み込みシステム](../Page/組み込みシステム.md "wikilink")で使用されている[3次元コンピュータグラフィックス](../Page/3次元コンピュータグラフィックス.md "wikilink")用 [API](https://ja.wikipedia.org/wiki/Application_Programming_Interface "wikilink") である。
 
-OpenGL ESは、従来から存在する（主に[デスクトップPC](https://ja.wikipedia.org/wiki/デスクトップPC "wikilink")や[ワークステーション](../Page/ワークステーション.md "wikilink")向けの）クロスプラットフォームなリアルタイム3DグラフィックスAPIである [OpenGL](../Page/OpenGL.md "wikilink") のサブセットである。OpenGL同様、グラフィックスハードウェア（[GPU](../Page/Graphics_Processing_Unit.md "wikilink")）の機能および性能を活用した高速なグラフィックス描画が可能となる。OpenGL ESはオープン仕様でロイヤリティフリーであり、適合試験にパスすれば誰でもOpenGL ES実装を謳えるため、[iOSや](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")[Android](https://ja.wikipedia.org/wiki/Android "wikilink")、[Symbian OSなどの携帯端末向けオペレーティングシステムで採用されているほか](https://ja.wikipedia.org/wiki/Symbian_OS "wikilink")、[プレイステーション3や](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")[ニンテンドー3DS](https://ja.wikipedia.org/wiki/ニンテンドー3DS "wikilink")にも採用されており、[ゲーム開発でも使用されている](../Page/ゲームプログラミング.md "wikilink")。OpenGL ESの仕様は、OpenGLと同様に[クロノス・グループ](https://ja.wikipedia.org/wiki/クロノス・グループ "wikilink")によって管理されている。
+OpenGL ESは、従来から存在する（主に[デスクトップPC](https://ja.wikipedia.org/wiki/デスクトップPC "wikilink")や[ワークステーション](../Page/ワークステーション.md "wikilink")向けの）クロスプラットフォームなリアルタイム3DグラフィックスAPIである [OpenGL](../Page/OpenGL.md "wikilink") のサブセットである。OpenGL同様、グラフィックスハードウェア（[GPU](../Page/Graphics_Processing_Unit.md "wikilink")）の機能および性能を活用した高速なグラフィックス描画が可能となる。OpenGL ESはオープン仕様でロイヤリティフリーであり、適合試験にパスすれば誰でもOpenGL ES実装を謳えるため、[iOSや](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")[Android](../Page/Android.md "wikilink")、[Symbian OSなどの携帯端末向けオペレーティングシステムで採用されているほか](../Page/Symbian_OS.md "wikilink")、[プレイステーション3や](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")[ニンテンドー3DS](https://ja.wikipedia.org/wiki/ニンテンドー3DS "wikilink")にも採用されており、[ゲーム開発でも使用されている](../Page/ゲームプログラミング.md "wikilink")。OpenGL ESの仕様は、OpenGLと同様に[クロノス・グループ](https://ja.wikipedia.org/wiki/クロノス・グループ "wikilink")によって管理されている。
 
 ## バージョン
 
-OpenGL ES 1.x系には1.0と1.1の2つが存在する。1.x系は、[グラフィックスパイプライン](../Page/グラフィックスパイプライン.md "wikilink")処理が固定された[シェーダー](https://ja.wikipedia.org/wiki/シェーダー "wikilink")（固定機能シェーダー）のみに対応しており、プログラム可能なシェーディング機能（[プログラマブルシェーダー](https://ja.wikipedia.org/wiki/プログラマブルシェーダー "wikilink")）には対応していない。このため、[フラットシェーディング](https://ja.wikipedia.org/wiki/フラットシェーディング "wikilink")あるいは[グーローシェーディング](https://ja.wikipedia.org/wiki/グーローシェーディング "wikilink")といった、カスタマイズ不可能な頂点単位の[シェーディング](https://ja.wikipedia.org/wiki/シェーディング "wikilink")（陰影計算）や質感表現のみがサポートされている。[ハードウェアアクセラレーション](https://ja.wikipedia.org/wiki/ハードウェアアクセラレーション "wikilink")がサポートされていない複雑な陰影処理や各種エフェクトなどの高度な特殊効果を実現する場合にはGPU側の支援は受けられなくなるため、 でない限りは動作速度は 。
+OpenGL ES 1.x系には1.0と1.1の2つが存在する。1.x系は、[グラフィックスパイプライン](../Page/グラフィックスパイプライン.md "wikilink")処理が固定された[シェーダー](../Page/シェーダー.md "wikilink")（固定機能シェーダー）のみに対応しており、プログラム可能なシェーディング機能（[プログラマブルシェーダー](https://ja.wikipedia.org/wiki/プログラマブルシェーダー "wikilink")）には対応していない。このため、[フラットシェーディング](https://ja.wikipedia.org/wiki/フラットシェーディング "wikilink")あるいは[グーローシェーディング](https://ja.wikipedia.org/wiki/グーローシェーディング "wikilink")といった、カスタマイズ不可能な頂点単位の[シェーディング](https://ja.wikipedia.org/wiki/シェーディング "wikilink")（陰影計算）や質感表現のみがサポートされている。[ハードウェアアクセラレーション](../Page/ハードウェアアクセラレーション.md "wikilink")がサポートされていない複雑な陰影処理や各種エフェクトなどの高度な特殊効果を実現する場合にはGPU側の支援は受けられなくなるため、 でない限りは動作速度は 。
 
-OpenGL ES 2.0は、[プログラマブルシェーダー](https://ja.wikipedia.org/wiki/プログラマブルシェーダー "wikilink")に対応した仕様であり、シェーディング言語[GLSL](../Page/GLSL.md "wikilink") ESに対応する一方で固定機能シェーダーは削除されている。OpenGL ES 2.0は1.x系との完全な後方[互換性](https://ja.wikipedia.org/wiki/互換性 "wikilink")はない。陰影計算・質感表現をプログラマブルシェーダーで記述することによって、GPUによる支援が受けられるようになる。
+OpenGL ES 2.0は、[プログラマブルシェーダー](https://ja.wikipedia.org/wiki/プログラマブルシェーダー "wikilink")に対応した仕様であり、シェーディング言語[GLSL](../Page/GLSL.md "wikilink") ESに対応する一方で固定機能シェーダーは削除されている。OpenGL ES 2.0は1.x系との完全な後方[互換性](../Page/互換性.md "wikilink")はない。陰影計算・質感表現をプログラマブルシェーダーで記述することによって、GPUによる支援が受けられるようになる。
 
 ### OpenGL ES 1.0
 
-OpenGL ES 1.0はOpenGL 1.3のサブセットとして[2003年](../Page/2003年.md "wikilink")に登場した。[Symbian OS](https://ja.wikipedia.org/wiki/Symbian_OS "wikilink") と [Android](https://ja.wikipedia.org/wiki/Android "wikilink") プラットフォームの公式3DグラフィックスAPIとして採用されている。また、[SCEによるOpenGL](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink") ES 1.0の拡張版（）が[プレイステーション3の公式グラフィックスAPIの](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")１つとしてサポートされている\[1\]。
+OpenGL ES 1.0はOpenGL 1.3のサブセットとして[2003年](../Page/2003年.md "wikilink")に登場した。[Symbian OS](../Page/Symbian_OS.md "wikilink") と [Android](../Page/Android.md "wikilink") プラットフォームの公式3DグラフィックスAPIとして採用されている。また、[SCEによるOpenGL](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink") ES 1.0の拡張版（）が[プレイステーション3の公式グラフィックスAPIの](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")１つとしてサポートされている\[1\]。
 
 ### OpenGL ES 1.1
 
-OpenGL ES 1.1はOpenGL 1.5のサブセットとして、[2004年](../Page/2004年.md "wikilink")[8月9日](../Page/8月9日.md "wikilink")に発表。[Android](https://ja.wikipedia.org/wiki/Android "wikilink") 1.6、[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")、[iPod touch](https://ja.wikipedia.org/wiki/iPod_touch "wikilink")、[iPad](https://ja.wikipedia.org/wiki/iPad "wikilink")等で広くサポートされている。1.0世代のハードウェアでもドライバーレベルのアップデートで1.1に対応可能とされる。
+OpenGL ES 1.1はOpenGL 1.5のサブセットとして、[2004年](../Page/2004年.md "wikilink")[8月9日](../Page/8月9日.md "wikilink")に発表。[Android](../Page/Android.md "wikilink") 1.6、[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")、[iPod touch](https://ja.wikipedia.org/wiki/iPod_touch "wikilink")、[iPad](https://ja.wikipedia.org/wiki/iPad "wikilink")等で広くサポートされている。1.0世代のハードウェアでもドライバーレベルのアップデートで1.1に対応可能とされる。
 
 以下の機能がOpenGL ES 1.0に追加になっている。
 
@@ -43,7 +43,7 @@ OpenGL ES 2.0はOpenGL 2.0のサブセットとして[2007年](../Page/2007年.m
 
 ### OpenGL ES 3.0
 
-OpenGL ES 3.0は[2012年](../Page/2012年.md "wikilink")に発表された。2.0との後方[互換性](https://ja.wikipedia.org/wiki/互換性 "wikilink")あり。 [DirectX](https://ja.wikipedia.org/wiki/DirectX "wikilink") 10 ([Direct3D](https://ja.wikipedia.org/wiki/Direct3D "wikilink") 10) やOpenGL 3.2の[ジオメトリシェーダー](https://ja.wikipedia.org/wiki/ジオメトリシェーダー "wikilink")はサポートされないが、マルチレンダーターゲット機能やマルチサンプル[アンチエイリアス](https://ja.wikipedia.org/wiki/アンチエイリアス "wikilink")（MSAA）を標準サポートするようになり、またUniform BlockやTransform FeedbackなどのDirectX 10世代（[統合型シェーダーアーキテクチャ](https://ja.wikipedia.org/wiki/統合型シェーダーアーキテクチャ "wikilink")世代）の機能を多数サポートする。
+OpenGL ES 3.0は[2012年](../Page/2012年.md "wikilink")に発表された。2.0との後方[互換性](../Page/互換性.md "wikilink")あり。 [DirectX](https://ja.wikipedia.org/wiki/DirectX "wikilink") 10 ([Direct3D](../Page/Direct3D.md "wikilink") 10) やOpenGL 3.2の[ジオメトリシェーダー](https://ja.wikipedia.org/wiki/ジオメトリシェーダー "wikilink")はサポートされないが、マルチレンダーターゲット機能やマルチサンプル[アンチエイリアス](../Page/アンチエイリアス.md "wikilink")（MSAA）を標準サポートするようになり、またUniform BlockやTransform FeedbackなどのDirectX 10世代（[統合型シェーダーアーキテクチャ](https://ja.wikipedia.org/wiki/統合型シェーダーアーキテクチャ "wikilink")世代）の機能を多数サポートする。
 
 シェーディング言語はGLSL ES 3.0をサポートする。
 
@@ -71,7 +71,7 @@ OpenGL ES 3.2は[2015年](../Page/2015年.md "wikilink")[8月10日](../Page/8月
 
 [アップルは](../Page/アップル_\(企業\).md "wikilink")[WWDC](https://ja.wikipedia.org/wiki/WWDC "wikilink") 2018で自社プラットフォームにおけるOpenGL/OpenCLの非推奨化を発表し、[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink") 12および[tvOS](https://ja.wikipedia.org/wiki/tvOS "wikilink") 12において（サポートはまだ打ち切られないものの）OpenGL ESは非推奨APIとなった\[8\]\[9\]。iOSがネイティブにサポートするOpenGL ESのバージョンは3.0が最後となっている\[10\]。
 
-OpenGL ESの代替として推奨されているAPIは[Metalだが](https://ja.wikipedia.org/wiki/Metal_\(API\) "wikilink")、MetalはOpenGL ESよりもハードウェア層に近い下位レベルのAPIであり、基本的に[アプリケーションソフトウェア](../Page/アプリケーションソフトウェア.md "wikilink")開発向けではなく[ミドルウェア](https://ja.wikipedia.org/wiki/ミドルウェア "wikilink")開発向けである。Metal APIを利用してOpenGL ESを実現する**MoltenGL**ライブラリが[Brenwill Workshop](http://brenwill.com/)によって開発されている\[11\]。
+OpenGL ESの代替として推奨されているAPIは[Metalだが](https://ja.wikipedia.org/wiki/Metal_\(API\) "wikilink")、MetalはOpenGL ESよりもハードウェア層に近い下位レベルのAPIであり、基本的に[アプリケーションソフトウェア](../Page/アプリケーションソフトウェア.md "wikilink")開発向けではなく[ミドルウェア](../Page/ミドルウェア.md "wikilink")開発向けである。Metal APIを利用してOpenGL ESを実現する**MoltenGL**ライブラリが[Brenwill Workshop](http://brenwill.com/)によって開発されている\[11\]。
 
 ## 出典
 
@@ -82,7 +82,7 @@ OpenGL ESの代替として推奨されているAPIは[Metalだが](https://ja.w
   - [OpenGL](../Page/OpenGL.md "wikilink")
   - [GLSL](../Page/GLSL.md "wikilink")
   - [WebGL](https://ja.wikipedia.org/wiki/WebGL "wikilink")
-  - [Direct3D](https://ja.wikipedia.org/wiki/Direct3D "wikilink")
+  - [Direct3D](../Page/Direct3D.md "wikilink")
   - [DirectX](https://ja.wikipedia.org/wiki/DirectX "wikilink")
   - [Metal (API)](https://ja.wikipedia.org/wiki/Metal_\(API\) "wikilink")
   - [Vulkan (API)](https://ja.wikipedia.org/wiki/Vulkan_\(API\) "wikilink")

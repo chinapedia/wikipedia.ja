@@ -1,19 +1,19 @@
 > この記事は[KDDI ](https://ja.wikipedia.org/wiki/KDDI_)から翻訳されています。
 
 
-**KDDI デザイニングスタジオ**（ケイディーディーアイ デザイニングスタジオ、*KDDI Designing Studio*）は、かつて[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")にあった、[KDDI](../Page/KDDI.md "wikilink")の[ショールーム](https://ja.wikipedia.org/wiki/ショールーム "wikilink")・PR施設。
+**KDDI デザイニングスタジオ**（ケイディーディーアイ デザイニングスタジオ、*KDDI Designing Studio*）は、かつて[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")にあった、[KDDI](../Page/KDDI.md "wikilink")の[ショールーム](https://ja.wikipedia.org/wiki/ショールーム "wikilink")・PR施設。
 
-同社のサービスである[auのPRや](https://ja.wikipedia.org/wiki/au_\(通信\) "wikilink")、利用者からの意見を取り込みによる[電気通信](../Page/電気通信.md "wikilink")市場の[マーケティング](https://ja.wikipedia.org/wiki/マーケティング "wikilink")を目的としており、[携帯機器](../Page/携帯機器.md "wikilink")や[モデム](https://ja.wikipedia.org/wiki/モデム "wikilink")、[セットトップボックス](https://ja.wikipedia.org/wiki/セットトップボックス "wikilink")等が陳列されていた。
+同社のサービスである[auのPRや](https://ja.wikipedia.org/wiki/au_\(通信\) "wikilink")、利用者からの意見を取り込みによる[電気通信](../Page/電気通信.md "wikilink")市場の[マーケティング](../Page/マーケティング.md "wikilink")を目的としており、[携帯機器](../Page/携帯機器.md "wikilink")や[モデム](https://ja.wikipedia.org/wiki/モデム "wikilink")、[セットトップボックス](../Page/セットトップボックス.md "wikilink")等が陳列されていた。
 
 ## 概要
 
-[通称](../Page/通称.md "wikilink")**Kスタ**。[KDDI](../Page/KDDI.md "wikilink")によって[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（[平成](../Page/平成.md "wikilink")17年）3月4日に開業した。関東では唯一のKDDI（コンシューマ事業統括本部）が運営する直営店として、通常の[auショップ](https://ja.wikipedia.org/wiki/auショップ "wikilink")として移動機やアクセサリー類などが販売されており、購入や諸手続や修理の受付も可能であった。
+[通称](../Page/通称.md "wikilink")**Kスタ**。[KDDI](../Page/KDDI.md "wikilink")によって[2005年](../Page/2005年.md "wikilink")（[平成](../Page/平成.md "wikilink")17年）3月4日に開業した。関東では唯一のKDDI（コンシューマ事業統括本部）が運営する直営店として、通常の[auショップ](https://ja.wikipedia.org/wiki/auショップ "wikilink")として移動機やアクセサリー類などが販売されており、購入や諸手続や修理の受付も可能であった。
 
-2014年11月16日を以って閉店。ショールームとしての機能は[au SHINJUKUに移された](https://ja.wikipedia.org/wiki/au_SHINJUKU "wikilink")\[1\]。建物は再利用されることなく解体され、跡地には[イオングループ](../Page/イオングループ.md "wikilink")の[OPA](https://ja.wikipedia.org/wiki/OPA "wikilink")が商業ビルを開発\[2\]。[スポーツ](../Page/スポーツ.md "wikilink")[シューズメーカー](../Page/靴.md "wikilink")・[ニューバランス](https://ja.wikipedia.org/wiki/ニューバランス "wikilink")の[グローバル](https://ja.wikipedia.org/wiki/グローバル "wikilink")[旗艦](../Page/旗艦.md "wikilink")店が[2016年](../Page/2016年.md "wikilink")[11月5日](../Page/11月5日.md "wikilink")にオープンした\[3\]。
+2014年11月16日を以って閉店。ショールームとしての機能は[au SHINJUKUに移された](https://ja.wikipedia.org/wiki/au_SHINJUKU "wikilink")\[1\]。建物は再利用されることなく解体され、跡地には[イオングループ](../Page/イオングループ.md "wikilink")の[OPA](../Page/OPA.md "wikilink")が商業ビルを開発\[2\]。[スポーツ](../Page/スポーツ.md "wikilink")[シューズメーカー](../Page/靴.md "wikilink")・[ニューバランス](../Page/ニューバランス.md "wikilink")の[グローバル](https://ja.wikipedia.org/wiki/グローバル "wikilink")[旗艦](../Page/旗艦.md "wikilink")店が[2016年](../Page/2016年.md "wikilink")[11月5日](../Page/11月5日.md "wikilink")にオープンした\[3\]。
 
 ## 建物について
 
-メインフロアは[楕円](../Page/楕円.md "wikilink")の形状をしており、その周囲にスロープを配して、来場者はそれを用いて各階を上下に移動する。外観は[ガラス](https://ja.wikipedia.org/wiki/ガラス "wikilink")[カーテンウォール](https://ja.wikipedia.org/wiki/カーテンウォール "wikilink")貼り。 [カフェ](https://ja.wikipedia.org/wiki/カフェ "wikilink")のある5階には屋上緑化が施されていた\[4\]。2005年度[グッドデザイン賞](https://ja.wikipedia.org/wiki/グッドデザイン賞 "wikilink")を新領域デザイン部門で受賞している。
+メインフロアは[楕円](../Page/楕円.md "wikilink")の形状をしており、その周囲にスロープを配して、来場者はそれを用いて各階を上下に移動する。外観は[ガラス](https://ja.wikipedia.org/wiki/ガラス "wikilink")[カーテンウォール](../Page/カーテンウォール.md "wikilink")貼り。 [カフェ](../Page/カフェ.md "wikilink")のある5階には屋上緑化が施されていた\[4\]。2005年度[グッドデザイン賞](https://ja.wikipedia.org/wiki/グッドデザイン賞 "wikilink")を新領域デザイン部門で受賞している。
 
 ## フロア構成
 
@@ -28,7 +28,7 @@
 
 KDDIデザイニングスタジオの所在地にはかつて、1994年（平成6年）春に開業した商業施設、『デザイナーズ・コレチオーネ・ジャパン・ビル』があった\[5\]。
 
-この施設は[ブランド品](https://ja.wikipedia.org/wiki/ブランド品 "wikilink")の安売り店を東京や大阪で展開していた企業、デザイナーズ・コレチオーネによって企画されたもので、交差点から地上3階まで続く巨大な石造りの[階段](https://ja.wikipedia.org/wiki/階段 "wikilink")（[階段ピラミッド](https://ja.wikipedia.org/wiki/階段ピラミッド "wikilink")状）を特徴としていた\[6\]。この階段を含め、この施設のコンセプトはイタリア・[ローマ](../Page/ローマ.md "wikilink")の『[スペイン広場](https://ja.wikipedia.org/wiki/スペイン広場_\(ローマ\) "wikilink")』であり、同地を意識して施設の1階には、[花屋](https://ja.wikipedia.org/wiki/花屋 "wikilink")や[コーヒー](https://ja.wikipedia.org/wiki/コーヒー "wikilink")店などが誘致されて入居していた\[7\]。
+この施設は[ブランド品](https://ja.wikipedia.org/wiki/ブランド品 "wikilink")の安売り店を東京や大阪で展開していた企業、デザイナーズ・コレチオーネによって企画されたもので、交差点から地上3階まで続く巨大な石造りの[階段](../Page/階段.md "wikilink")（[階段ピラミッド](https://ja.wikipedia.org/wiki/階段ピラミッド "wikilink")状）を特徴としていた\[6\]。この階段を含め、この施設のコンセプトはイタリア・[ローマ](../Page/ローマ.md "wikilink")の『[スペイン広場](../Page/スペイン広場_\(ローマ\).md "wikilink")』であり、同地を意識して施設の1階には、[花屋](../Page/花屋.md "wikilink")や[コーヒー](https://ja.wikipedia.org/wiki/コーヒー "wikilink")店などが誘致されて入居していた\[7\]。
 
 ## 交通アクセス
 

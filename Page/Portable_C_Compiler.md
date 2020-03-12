@@ -1,7 +1,7 @@
 > この記事は[Portable C Compiler](https://ja.wikipedia.org/wiki/Portable_C_Compiler)から翻訳されています。
 
 
-**Portable C Compiler** (略して **pcc**) は[ベル研究所](../Page/ベル研究所.md "wikilink")の[スティーヴン・カーティス・ジョンソン](https://ja.wikipedia.org/wiki/スティーヴン・カーティス・ジョンソン "wikilink")が1970年代に書いた[C言語](../Page/C言語.md "wikilink")コンパイラである\[1\]。異なるアーキテクチャ用のコードを出力することが容易な[コンパイラ](../Page/コンパイラ.md "wikilink")の先駆けであり、1980年代初期には多くのCコンパイラが**pcc**をもとにしていた\[2\]。[Version 7 Unixで](https://ja.wikipedia.org/wiki/Version_7_Unix "wikilink")[デニス・リッチー](../Page/デニス・リッチー.md "wikilink")のコンパイラに代わって採用されたあとは、1990年の[4.3BSD](https://ja.wikipedia.org/wiki/4.3BSD "wikilink")-Renoに含まれるなど、[4.4BSD](https://ja.wikipedia.org/wiki/4.4BSD "wikilink")で[GNU Cコンパイラに取って代わられるまで](../Page/GNUコンパイラコレクション.md "wikilink")、長く標準コンパイラとして君臨していた。
+**Portable C Compiler** (略して **pcc**) は[ベル研究所](../Page/ベル研究所.md "wikilink")の[スティーヴン・カーティス・ジョンソン](https://ja.wikipedia.org/wiki/スティーヴン・カーティス・ジョンソン "wikilink")が1970年代に書いた[C言語](../Page/C言語.md "wikilink")コンパイラである\[1\]。異なるアーキテクチャ用のコードを出力することが容易な[コンパイラ](../Page/コンパイラ.md "wikilink")の先駆けであり、1980年代初期には多くのCコンパイラが**pcc**をもとにしていた\[2\]。[Version 7 Unixで](../Page/Version_7_Unix.md "wikilink")[デニス・リッチー](../Page/デニス・リッチー.md "wikilink")のコンパイラに代わって採用されたあとは、1990年の[4.3BSD](https://ja.wikipedia.org/wiki/4.3BSD "wikilink")-Renoに含まれるなど、[4.4BSD](https://ja.wikipedia.org/wiki/4.4BSD "wikilink")で[GNU Cコンパイラに取って代わられるまで](../Page/GNUコンパイラコレクション.md "wikilink")、長く標準コンパイラとして君臨していた。
 
 **pcc**の成功の鍵は移植性と診断能力にある。
 
@@ -9,7 +9,7 @@
   - 文法違反に強く、不正なプログラムを受け付けない。[lint](https://ja.wikipedia.org/wiki/lint "wikilink")はもともと**pcc**の一部だった。
   - pass1の時点でも最適化する。
 
-こうした特徴を持つコンパイラは当時としては斬新で、たとえば[デニス・リッチー](../Page/デニス・リッチー.md "wikilink")による最初のCコンパイラは[PDP-11](https://ja.wikipedia.org/wiki/PDP-11 "wikilink")に強く依存していた。
+こうした特徴を持つコンパイラは当時としては斬新で、たとえば[デニス・リッチー](../Page/デニス・リッチー.md "wikilink")による最初のCコンパイラは[PDP-11](../Page/PDP-11.md "wikilink")に強く依存していた。
 
 なお、**pcc**は[Alan Snyderによる別のportable](https://ja.wikipedia.org/wiki/Alan_Snyder "wikilink") C compilerからアイディアを取り入れているが、Snyderのものは遅く複雑で、実装上の問題もあった。
 

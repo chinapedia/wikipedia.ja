@@ -1,7 +1,7 @@
 > この記事は[ Again](https://ja.wikipedia.org/wiki/_Again)から翻訳されています。
 
 
-「**星のかけらを探しに行こう Again**」（ほしのかけらをさがしにいこう アゲイン）は、[福耳の](https://ja.wikipedia.org/wiki/福耳_\(音楽\) "wikilink")1枚目の[シングル](../Page/シングル.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink")に[キティより発売](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。
+「**星のかけらを探しに行こう Again**」（ほしのかけらをさがしにいこう アゲイン）は、[福耳の](../Page/福耳_\(音楽\).md "wikilink")1枚目の[シングル](../Page/シングル.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink")に[キティより発売](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
 
 ## 概要
 
@@ -9,9 +9,9 @@
 
 ## 参加アーティスト
 
-  - [杏子](https://ja.wikipedia.org/wiki/杏子_\(ミュージシャン\) "wikilink")
+  - [杏子](../Page/杏子_\(ミュージシャン\).md "wikilink")
   - [山崎まさよし](https://ja.wikipedia.org/wiki/山崎まさよし "wikilink")
-  - [スガシカオ](https://ja.wikipedia.org/wiki/スガシカオ "wikilink")
+  - [スガシカオ](../Page/スガシカオ.md "wikilink")
 
 ## 参加ミュージシャン
 
@@ -39,11 +39,11 @@
 ## 収録曲
 
 1.  **星のかけらを探しに行こう Again**
-    （作詞:[K・Y・O・K・O](https://ja.wikipedia.org/wiki/杏子_\(ミュージシャン\) "wikilink") 作曲:[馬場一嘉](https://ja.wikipedia.org/wiki/馬場一嘉 "wikilink") 編曲:福耳Project 弦編曲:[森英治](../Page/森英治.md "wikilink")）
+    （作詞:[K・Y・O・K・O](../Page/杏子_\(ミュージシャン\).md "wikilink") 作曲:[馬場一嘉](https://ja.wikipedia.org/wiki/馬場一嘉 "wikilink") 編曲:福耳Project 弦編曲:[森英治](../Page/森英治.md "wikilink")）
       -
         NHKBS 10周年 イメージソング
         もともと[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に杏子のシングルとしてリリースされた「星のかけらを探しに行こう」をリメイクしたもの。
-        当時、この曲が披露されたのは[TBS系](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")『[うたばん](../Page/うたばん.md "wikilink")』（1999年8月19日放送）に出演時のみである。
+        当時、この曲が披露されたのは[TBS系](../Page/TBSテレビ.md "wikilink")『[うたばん](../Page/うたばん.md "wikilink")』（1999年8月19日放送）に出演時のみである。
 2.  **Happy Birthday (Live at Zepp Sapporo '98.4.12)**
     （作詞・作曲：スガシカオ 編曲:スガシカオ・杏子）
 3.  **星のかけらを探しに行こう (Southern Milky Way Version)**

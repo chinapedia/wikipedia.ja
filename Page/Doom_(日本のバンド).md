@@ -5,42 +5,42 @@
 
 ## メンバー
 
-  - **[藤田タカシ](https://ja.wikipedia.org/wiki/藤田タカシ "wikilink")**（[ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")・[ギター](../Page/ギター.md "wikilink")）
-  - **PAZZ**（[ドラム](../Page/ドラムセット.md "wikilink")） [GASTUNK](https://ja.wikipedia.org/wiki/GASTUNK "wikilink")、[I love you... OK?](http://iloveyouok.web.fc2.com/)、ex:[Z.O.A](https://ja.wikipedia.org/wiki/Z.O.A "wikilink")、Shell Shock
+  - **[藤田タカシ](../Page/藤田タカシ.md "wikilink")**（[ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")・[ギター](../Page/ギター.md "wikilink")）
+  - **PAZZ**（[ドラム](../Page/ドラムセット.md "wikilink")） [GASTUNK](../Page/GASTUNK.md "wikilink")、[I love you... OK?](http://iloveyouok.web.fc2.com/)、ex:[Z.O.A](https://ja.wikipedia.org/wiki/Z.O.A "wikilink")、Shell Shock
       - 広川の後任ドラマーとして加入。PAZZも白塗りメイクをしていた時期があった。
-  - **アベ ユキヤ**（[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")）[セウ](http://sewu.jp/),[GOOFYSTYLE](https://www.facebook.com/GoofyStyle/)
+  - **アベ ユキヤ**（[ベース](../Page/ベース_\(弦楽器\).md "wikilink")）[セウ](http://sewu.jp/),[GOOFYSTYLE](https://www.facebook.com/GoofyStyle/)
       - 諸田コウに師事していた
 
 ### 旧メンバー
 
   - **諸田コウ**（ベース） ex.ZADKIEL、えがおドラミ
-      - 本名：諸田耕、[1963年](../Page/1963年.md "wikilink")[2月6日](https://ja.wikipedia.org/wiki/2月6日 "wikilink")-[1999年](../Page/1999年.md "wikilink")[5月7日](../Page/5月7日.md "wikilink")、[AB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。身長170cm、体重50kg。
-      - 12歳より[フォークギター](https://ja.wikipedia.org/wiki/フォークギター "wikilink")を始め、翌年には[E.Bassを手にしバンド活動を始める](../Page/エレクトリックベース.md "wikilink")。後に[フュージョンや](../Page/フュージョン_\(音楽\).md "wikilink")[ジャズ](../Page/ジャズ.md "wikilink")にも影響され、[W.Bassも演奏するようになる](https://ja.wikipedia.org/wiki/ウッドベース "wikilink")（DOOMのレコーディングの際にも使用されている楽曲が存在）\[2\]。ZADKIEL時代は[Motörhead](https://ja.wikipedia.org/wiki/Motörhead "wikilink")～[Venomの流れをくんだ音楽性であった](https://ja.wikipedia.org/wiki/ヴェノム_\(バンド\) "wikilink")。
-      - 影響されたアーティスト：Motörhead、[D.U.B.](https://ja.wikipedia.org/wiki/梅津和時 "wikilink")、[ミック・カーン](https://ja.wikipedia.org/wiki/ミック・カーン "wikilink")、[Golden Palominos](https://ja.wikipedia.org/wiki/w:Golden_Palominos "wikilink")、[スティングなど](../Page/スティング_\(ミュージシャン\).md "wikilink")。
-  - **広川錠一**（ドラム） ex.ZADKIEL、[UNITED](https://ja.wikipedia.org/wiki/UNITED "wikilink")、War Pigs、えがおドラミ
+      - 本名：諸田耕、[1963年](../Page/1963年.md "wikilink")[2月6日](../Page/2月6日.md "wikilink")-[1999年](../Page/1999年.md "wikilink")[5月7日](../Page/5月7日.md "wikilink")、[AB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。身長170cm、体重50kg。
+      - 12歳より[フォークギター](https://ja.wikipedia.org/wiki/フォークギター "wikilink")を始め、翌年には[E.Bassを手にしバンド活動を始める](../Page/エレクトリックベース.md "wikilink")。後に[フュージョンや](../Page/フュージョン_\(音楽\).md "wikilink")[ジャズ](../Page/ジャズ.md "wikilink")にも影響され、[W.Bassも演奏するようになる](https://ja.wikipedia.org/wiki/ウッドベース "wikilink")（DOOMのレコーディングの際にも使用されている楽曲が存在）\[2\]。ZADKIEL時代は[Motörhead](https://ja.wikipedia.org/wiki/Motörhead "wikilink")～[Venomの流れをくんだ音楽性であった](../Page/ヴェノム_\(バンド\).md "wikilink")。
+      - 影響されたアーティスト：Motörhead、[D.U.B.](../Page/梅津和時.md "wikilink")、[ミック・カーン](../Page/ミック・カーン.md "wikilink")、[Golden Palominos](https://ja.wikipedia.org/wiki/w:Golden_Palominos "wikilink")、[スティングなど](../Page/スティング_\(ミュージシャン\).md "wikilink")。
+  - **広川錠一**（ドラム） ex.ZADKIEL、[UNITED](../Page/UNITED.md "wikilink")、War Pigs、えがおドラミ
       - [1964年](../Page/1964年.md "wikilink")[11月2日](../Page/11月2日.md "wikilink")生、[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。身長175cm、体重60kg。
       - 11歳になってロックに目覚め、[Van Halenなどのアメリカン](https://ja.wikipedia.org/wiki/Van_Halen "wikilink")・ハードロックに影響されドラムを始める。18歳頃から、数多くのバンドに加入し活動を続ける。その一つが当時、諸田が在籍していたZADKIELであった。
       - アルバム『Incompetent...』の発売後にDOOMを脱退。その後、War Pigsを結成するも、長続きはしなかった\[3\]。
-      - 影響されたアーティスト：[スチュワート・コープランド](https://ja.wikipedia.org/wiki/スチュワート・コープランド "wikilink")、[プリンス](https://ja.wikipedia.org/wiki/プリンス_\(ミュージシャン\) "wikilink")、[KISSなど](https://ja.wikipedia.org/wiki/キッス "wikilink")。
+      - 影響されたアーティスト：[スチュワート・コープランド](../Page/スチュワート・コープランド.md "wikilink")、[プリンス](https://ja.wikipedia.org/wiki/プリンス_\(ミュージシャン\) "wikilink")、[KISSなど](../Page/キッス.md "wikilink")。
   - **千葉政己**（ベース） [Shell Shock](http://www.revontuletrecords.com/shellshock/)、ex:GIGATIC KHMER
       - 脱退した諸田に代わって、レコーディングなどに幾度か参加している。Shell Shock復活以降におけるステージネームは"DIE HARD"。
 
 <!-- end list -->
 
-  - **古平崇敏**（[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")） ex.CASBAH、SKULL SMASH
+  - **古平崇敏**（[ベース](../Page/ベース_\(弦楽器\).md "wikilink")） ex.CASBAH、SKULL SMASH
       - DOOMのトリビュート・バンド、SKULL SMASH（2013年無期限活動停止）のベーシストであった彼がDOOMに加入した。2019.5.25　東高円寺二万電圧のライブにて脱退（卒業）
 
 ## 概要
 
 プログレ、ハードコア、[ブルース](../Page/ブルース.md "wikilink")、ジャズなど多ジャンルの影響から創り出す独自のメタル・サウンドを確立しており、不可思議なメロディセンスを持ったジャンルにとらわれない音楽性が特徴\[4\]\[5\]\[6\]。
 
-ビクターからは、**ノン・[カテゴリー](https://ja.wikipedia.org/wiki/カテゴリー "wikilink")の刺激的ヘヴィ・トリオ**という[キャッチコピー](../Page/キャッチコピー.md "wikilink")で紹介されていた（1989年当時）。また、非常にテクニカルな演奏力を持つ事で知られており、[変拍子](https://ja.wikipedia.org/wiki/変拍子 "wikilink")や[転調](../Page/転調.md "wikilink")を多用した複雑な[リズム](../Page/リズム.md "wikilink")を得意としている\[7\]\[8\]。とりわけ、諸田の[フレットレスベース](https://ja.wikipedia.org/wiki/フレットレスベース "wikilink")から繰り出される恐ろしくテンションの高い演奏は圧倒的な存在感があり\[9\]\[10\]、HR/HM界の[ジャコ・パストリアス](https://ja.wikipedia.org/wiki/ジャコ・パストリアス "wikilink")と称される程の実力を誇っていた。
+ビクターからは、**ノン・[カテゴリー](https://ja.wikipedia.org/wiki/カテゴリー "wikilink")の刺激的ヘヴィ・トリオ**という[キャッチコピー](../Page/キャッチコピー.md "wikilink")で紹介されていた（1989年当時）。また、非常にテクニカルな演奏力を持つ事で知られており、[変拍子](https://ja.wikipedia.org/wiki/変拍子 "wikilink")や[転調](../Page/転調.md "wikilink")を多用した複雑な[リズム](../Page/リズム.md "wikilink")を得意としている\[7\]\[8\]。とりわけ、諸田の[フレットレスベース](../Page/フレットレスベース.md "wikilink")から繰り出される恐ろしくテンションの高い演奏は圧倒的な存在感があり\[9\]\[10\]、HR/HM界の[ジャコ・パストリアス](../Page/ジャコ・パストリアス.md "wikilink")と称される程の実力を誇っていた。
 
 『Complicated Mind』のミキサーを務めたスティーヴン・リンズレーは「諸田のプレイは見ていて身の毛がよだつほどだった」と後年インタビューで語っている\[11\]。
 
 「Go Mad Yourself\!」から『No More Pain...』まではスラッシュメタルが中心で暗い雰囲気を感じさせる楽曲が多かったが、『Killing Field...』辺りからアヴァンギャルドの要素が強くなり、『Complicated Mind』、『Incompetent...』の2作ではハードロック色を強め、『HUMAN NOISE』以降はサウンドエフェクトを使用したインダストリアル的なアプローチを見せるなど、サウンド面でも大きな変化を遂げている。
 
-[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")の[ライヴハウス](https://ja.wikipedia.org/wiki/ライヴハウス "wikilink")・[CBGB](https://ja.wikipedia.org/wiki/CBGB "wikilink")のオーナーであった[ヒリー・クリスタルは](https://ja.wikipedia.org/wiki/w:Hilly_Kristal "wikilink")、「DOOMは強烈な[オリジナリティ](https://ja.wikipedia.org/wiki/オリジナリティ "wikilink")を持っている凄いバンドだ。」と彼らを評している。プロデューサーのクリス・バトラーは彼らの音楽性を「ニュー・ウェイヴ・アート・メタル」と評した\[12\]。
+[ニューヨーク](../Page/ニューヨーク.md "wikilink")の[ライヴハウス](https://ja.wikipedia.org/wiki/ライヴハウス "wikilink")・[CBGB](../Page/CBGB.md "wikilink")のオーナーであった[ヒリー・クリスタルは](https://ja.wikipedia.org/wiki/w:Hilly_Kristal "wikilink")、「DOOMは強烈な[オリジナリティ](https://ja.wikipedia.org/wiki/オリジナリティ "wikilink")を持っている凄いバンドだ。」と彼らを評している。プロデューサーのクリス・バトラーは彼らの音楽性を「ニュー・ウェイヴ・アート・メタル」と評した\[12\]。
 
 ## 来歴
 
@@ -65,7 +65,7 @@
 
 <!-- end list -->
 
-  - 2月[ビクター・インビテーションより](https://ja.wikipedia.org/wiki/Invitation_\(レーベル\) "wikilink")、[オムニバス](../Page/オムニバス.md "wikilink")[LP](https://ja.wikipedia.org/wiki/レコード#レコードの諸形態 "wikilink")『Skull Thrash Zone』を発表。2曲参加。アルバムに参加したX、[ROSE ROSE](http://members2.jcom.home.ne.jp/roserose-natsuki75/)、[Jurassic Jade](http://www.myspace.com/jurassicjade)、Ground Zero、SHELL SHOCKらと共に発売記念ツアーを行う。
+  - 2月[ビクター・インビテーションより](../Page/Invitation_\(レーベル\).md "wikilink")、[オムニバス](../Page/オムニバス.md "wikilink")[LP](https://ja.wikipedia.org/wiki/レコード#レコードの諸形態 "wikilink")『Skull Thrash Zone』を発表。2曲参加。アルバムに参加したX、[ROSE ROSE](http://members2.jcom.home.ne.jp/roserose-natsuki75/)、[Jurassic Jade](http://www.myspace.com/jurassicjade)、Ground Zero、SHELL SHOCKらと共に発売記念ツアーを行う。
   - 4月、エクスプロージョンよりアルバム『No More Pain...』リリース。5,000枚のセールスを上げ\[15\]、インディーズ・チャート1位となる\[16\]。また海外においても、その音楽性が高い評価をうけ、発売直後にもかかわらず電話での問い合わせが殺到するほどであった。[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[スラッシュ・メタル](https://ja.wikipedia.org/wiki/スラッシュ・メタル "wikilink")誌に登場するなど、[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")を中心にニューヨークなどでも大きく注目される。
 
 <!-- end list -->
@@ -89,19 +89,19 @@
 
 <!-- end list -->
 
-  - [1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")
+  - [1991年](../Page/1991年.md "wikilink")
 
 <!-- end list -->
 
-  - 3月、アルバム『HUMAN NOISE』を発売。本作では[菊地成孔](https://ja.wikipedia.org/wiki/菊地成孔 "wikilink")が[サックス](https://ja.wikipedia.org/wiki/サックス "wikilink")を演奏している。
+  - 3月、アルバム『HUMAN NOISE』を発売。本作では[菊地成孔](../Page/菊地成孔.md "wikilink")が[サックス](https://ja.wikipedia.org/wiki/サックス "wikilink")を演奏している。
 
 <!-- end list -->
 
-  - [1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")
+  - [1992年](../Page/1992年.md "wikilink")
 
 <!-- end list -->
 
-  - DOOMのメンバーにBAKI（ex.[GASTUNK](https://ja.wikipedia.org/wiki/GASTUNK "wikilink")）を加えたクオーターゲートのアルバム『QUARTERGATE』を1月にリリース。
+  - DOOMのメンバーにBAKI（ex.[GASTUNK](../Page/GASTUNK.md "wikilink")）を加えたクオーターゲートのアルバム『QUARTERGATE』を1月にリリース。
   - 11月、アルバム『Illegal Soul』を発売。
 
 <!-- end list -->
@@ -127,7 +127,7 @@
 <!-- end list -->
 
   - 諸田がソロアルバム『生∞死』を発表。また、BAKIが在籍していたバンド「\#9」にも参加している。
-  - 元CATCH-UPの[ハコザキミナコ](https://ja.wikipedia.org/wiki/Kuh_\(バンド\) "wikilink")(G,Vo)と諸田、広川の3人でバンド「えがおドラミ」を結成。後に、当時[DRUMKAN](https://ja.wikipedia.org/wiki/DRUMKAN "wikilink")のギタリストであったGORO SHIMIZUが加入し4人編成となる。以後、精力的なライブ活動を展開。
+  - 元CATCH-UPの[ハコザキミナコ](https://ja.wikipedia.org/wiki/Kuh_\(バンド\) "wikilink")(G,Vo)と諸田、広川の3人でバンド「えがおドラミ」を結成。後に、当時[DRUMKAN](../Page/DRUMKAN.md "wikilink")のギタリストであったGORO SHIMIZUが加入し4人編成となる。以後、精力的なライブ活動を展開。
 
 <!-- end list -->
 

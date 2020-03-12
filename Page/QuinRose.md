@@ -9,9 +9,9 @@
 
   - ロールプレイングゲームの要素を含むファンタジー調のフルークハーフェン大陸シリーズ、完全ノベル形式アドベンチャーゲームの『[ハートの国のアリス 〜Wonderful Wonder World〜](https://ja.wikipedia.org/wiki/ハートの国のアリス_〜Wonderful_Wonder_World〜 "wikilink")』をQuinRose UnderGardenから出している。
   - 我が強く、世をひねていたり、一般的な道徳観念・倫理観から外れたところがある屈折した性格の少女が主人公である事が多い。
-  - 自社で[サウンドトラック](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")や、[ドラマCD](https://ja.wikipedia.org/wiki/ドラマCD "wikilink")の製作・販売も行っている。
+  - 自社で[サウンドトラック](../Page/サウンドトラック.md "wikilink")や、[ドラマCD](../Page/ドラマCD.md "wikilink")の製作・販売も行っている。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")5月3日に[川崎市](../Page/川崎市.md "wikilink")教育文化会館で、今まで製作してきたゲーム3タイトル（『[アラビアンズ・ロスト](../Page/アラビアンズ・ロスト.md "wikilink")』、『[ハートの国のアリス](https://ja.wikipedia.org/wiki/ハートの国のアリス "wikilink")』、『[クローバーの国のアリス](https://ja.wikipedia.org/wiki/クローバーの国のアリス "wikilink")』）の出演者と各々主題歌を担当する歌手を集めてイベントを開催。この模様はDVDに収録され、2008年10月24日に発売された。
-  - 2010年から他メーカー作品の[PlayStation Portable移植もリリースしている](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")。
+  - 2010年から他メーカー作品の[PlayStation Portable移植もリリースしている](../Page/PlayStation_Portable.md "wikilink")。
   - [2015年](../Page/2015年.md "wikilink")9月25日 運営・開発会社である（株）アートムーヴが事業を停止した\[1\]。
   - 2016年2月末に公式サイト閉鎖。問い合わせやサポートも終了。その後は五月攻氏の個人サイトにて楽曲やシナリオの一部が公開されている。
   - 2019年6月1日のオトメイトパーティーにて、オトメイトの新ブランド「QuinRose_Reborn」として復活。そしてその第一弾タイトルとして「**スペードの国のアリス** ～Wonderful White World～」「**スペードの国のアリス** ～Wonderful Black World～」がNintendo Switchで発売されることが決定し、アリスシリーズが復活することとなった。
@@ -34,14 +34,14 @@
 
 #### PS2ゲーム
 
-  - 2007年10月11日 - [アラビアンズ・ロスト engagement on desert〜](../Page/アラビアンズ・ロスト.md "wikilink")〜The（販売元：[プロトタイプ](https://ja.wikipedia.org/wiki/プロトタイプ_\(企業\) "wikilink")　PS2版）
-  - 2008年9月18日 - [ハートの国のアリス〜Wonderful Wonder World〜](https://ja.wikipedia.org/wiki/ハートの国のアリス〜Wonderful_Wonder_World〜 "wikilink")（販売元：[プロトタイプ](https://ja.wikipedia.org/wiki/プロトタイプ_\(企業\) "wikilink")　PS2版）
-  - 2010年4月15日 - [クローバーの国のアリス〜Wonderful Wonder World〜](https://ja.wikipedia.org/wiki/クローバーの国のアリス〜Wonderful_Wonder_World〜 "wikilink")（販売元：[プロトタイプ](https://ja.wikipedia.org/wiki/プロトタイプ_\(企業\) "wikilink")　PS2版）
+  - 2007年10月11日 - [アラビアンズ・ロスト engagement on desert〜](../Page/アラビアンズ・ロスト.md "wikilink")〜The（販売元：[プロトタイプ](../Page/プロトタイプ_\(企業\).md "wikilink")　PS2版）
+  - 2008年9月18日 - [ハートの国のアリス〜Wonderful Wonder World〜](https://ja.wikipedia.org/wiki/ハートの国のアリス〜Wonderful_Wonder_World〜 "wikilink")（販売元：[プロトタイプ](../Page/プロトタイプ_\(企業\).md "wikilink")　PS2版）
+  - 2010年4月15日 - [クローバーの国のアリス〜Wonderful Wonder World〜](https://ja.wikipedia.org/wiki/クローバーの国のアリス〜Wonderful_Wonder_World〜 "wikilink")（販売元：[プロトタイプ](../Page/プロトタイプ_\(企業\).md "wikilink")　PS2版）
   - 2010年12月16日 - [クリムゾン・エンパイア〜Circumstance to serve a noble〜](https://ja.wikipedia.org/wiki/クリムゾン・エンパイア〜Circumstance_to_serve_a_noble〜 "wikilink")（PS2版）
 
 #### Nintendo DSゲーム
 
-  - 2009年9月10日 - [アラビアンズ・ロスト engagement on desert〜](../Page/アラビアンズ・ロスト.md "wikilink")〜The（販売元：[プロトタイプ](https://ja.wikipedia.org/wiki/プロトタイプ_\(企業\) "wikilink")　DS版）
+  - 2009年9月10日 - [アラビアンズ・ロスト engagement on desert〜](../Page/アラビアンズ・ロスト.md "wikilink")〜The（販売元：[プロトタイプ](../Page/プロトタイプ_\(企業\).md "wikilink")　DS版）
 
 #### PSPゲーム
 
@@ -223,7 +223,7 @@
       - PC版「[ハートの国のアリス](https://ja.wikipedia.org/wiki/ハートの国のアリス "wikilink")」OP曲
           - 『Eternal Alice エターナル・アリス』収録曲
 2.  Bubble
-      - 歌：[平川大輔](https://ja.wikipedia.org/wiki/平川大輔 "wikilink")、作詞：五月攻、作曲：鞠
+      - 歌：[平川大輔](../Page/平川大輔.md "wikilink")、作詞：五月攻、作曲：鞠
           - 『Alice in deep forest～深い森の国のアリス～』収録曲
 3.  Blue prison
       - 歌：SHIGERU（[AciD FLavoR](https://ja.wikipedia.org/wiki/AciD_FLavoR "wikilink")）、作詞：五月攻、作曲：鞠
@@ -242,19 +242,19 @@
       - PC版「[クローバーの国のアリス](https://ja.wikipedia.org/wiki/ハートの国のアリス "wikilink")」END曲
           - 『Alice in deep forest～深い森の国のアリス～』収録曲
 7.  赤の世界
-      - 歌：[最上嗣生](https://ja.wikipedia.org/wiki/最上嗣生 "wikilink")、作詞：五月攻、作曲：鞠
+      - 歌：[最上嗣生](../Page/最上嗣生.md "wikilink")、作詞：五月攻、作曲：鞠
           - 『Alice in deep Sea～深い海の国のアリス～』収録曲
 8.  寄り道は長く(Alt Lyrics)
       - 歌：frederick"N"、作詞：五月攻、作曲：鞠
           - 『Alice in deep forest～深い森の国のアリス～』収録曲
 9.  パンドラ
-      - 歌：[勝杏里](https://ja.wikipedia.org/wiki/勝杏里 "wikilink")、作詞：五月攻、作曲：鞠
+      - 歌：[勝杏里](../Page/勝杏里.md "wikilink")、作詞：五月攻、作曲：鞠
           - 『Shadow in sun』収録曲
 10. Whale
       - 歌：[ヒサノ](https://ja.wikipedia.org/wiki/ヒサノ "wikilink")、作詞：五月攻、作曲鞠
           - 『Alice in deep forest～深い森の国のアリス～』収録曲
 11. 水面下の仕掛け
-      - 歌：[鈴木達央](https://ja.wikipedia.org/wiki/鈴木達央 "wikilink")、作詞：五月攻、作曲：鞠
+      - 歌：[鈴木達央](../Page/鈴木達央.md "wikilink")、作詞：五月攻、作曲：鞠
           - 『Crimson Empire　～Glace～』収録曲
 12. Play by the Rules
       - 歌：[ヒサノ](https://ja.wikipedia.org/wiki/ヒサノ "wikilink")、作詞：五月攻、作曲鞠
@@ -285,10 +285,10 @@
       - 歌：[ヒサノ](https://ja.wikipedia.org/wiki/ヒサノ "wikilink")、作詞：五月攻、作曲：鞠
           - 『ブラック・アニバーサリー（ジョーカー＆アニバーサリー2枚組みCD）』収録曲
 3.  Popular Lover
-      - 歌：[杉山紀彰](https://ja.wikipedia.org/wiki/杉山紀彰 "wikilink")、作詞：五月攻、作曲：鞠
+      - 歌：[杉山紀彰](../Page/杉山紀彰.md "wikilink")、作詞：五月攻、作曲：鞠
           - 『Alice in deep Sea～深い海の国のアリス～』収録曲
 4.  Reminiscences(Alt Lyrics)
-      - 歌：[平川大輔](https://ja.wikipedia.org/wiki/平川大輔 "wikilink")、作詞：五月攻、作曲：鞠
+      - 歌：[平川大輔](../Page/平川大輔.md "wikilink")、作詞：五月攻、作曲：鞠
           - 『Eternal Alice エターナル・アリス』収録曲
 5.  夢の後先
       - 歌：[ヒサノ](https://ja.wikipedia.org/wiki/ヒサノ "wikilink")、作詞：五月攻、作曲：鞠
@@ -315,7 +315,7 @@
       - 歌：frederick"N"、作詞：五月攻、作曲：鞠
           - 『Alice in deep forest～深い森の国のアリス～』収録曲
 12. Low-altitude Flight
-      - 歌：[成田剣](https://ja.wikipedia.org/wiki/成田剣 "wikilink")、作詞：五月攻、さ曲：鞠
+      - 歌：[成田剣](../Page/成田剣.md "wikilink")、作詞：五月攻、さ曲：鞠
           - 『Crimson Empire　～Flamme～』収録曲
 13. Star and Dance
       - 歌：[ヒサノ](https://ja.wikipedia.org/wiki/ヒサノ "wikilink")、作詞：五月攻、作曲：鞠
@@ -346,13 +346,13 @@
       - 歌：[ヒサノ](https://ja.wikipedia.org/wiki/ヒサノ "wikilink")、作詞：五月攻、作曲：鞠
           - 『ブラック・アニバーサリー（ジョーカー＆アニバーサリー2枚組みCD）』収録曲
 3.  Song of Love(Alt Lyrics)
-      - 歌：[宮田幸季](https://ja.wikipedia.org/wiki/宮田幸季 "wikilink")、作詞：五月攻、作曲：鞠
+      - 歌：[宮田幸季](../Page/宮田幸季.md "wikilink")、作詞：五月攻、作曲：鞠
           - 『Eternal Alice エターナル・アリス』収録曲
 4.  W.Liar
-      - 歌：[福山潤](https://ja.wikipedia.org/wiki/福山潤 "wikilink")、作詞：五月攻、作曲：鞠
+      - 歌：[福山潤](../Page/福山潤.md "wikilink")、作詞：五月攻、作曲：鞠
           - 『Alice in deep Sea～深い海の国のアリス～』収録曲
 5.  be in decline
-      - 歌：[勝杏里](https://ja.wikipedia.org/wiki/勝杏里 "wikilink")、作詞：五月攻、作曲：鞠
+      - 歌：[勝杏里](../Page/勝杏里.md "wikilink")、作詞：五月攻、作曲：鞠
       - PC版「[ハートの国のアリス](https://ja.wikipedia.org/wiki/ハートの国のアリス "wikilink")」END曲
           - 『Eternal Alice エターナル・アリス』収録曲
 6.  Day in Day Out
@@ -368,7 +368,7 @@
       - PC版「[クリムゾン・エンパイア](https://ja.wikipedia.org/wiki/クリムゾン・エンパイア "wikilink")」END曲
           - 『Crimson Empire　～Flamme～』収録曲
 9.  願いごと
-      - 歌：[下野紘](https://ja.wikipedia.org/wiki/下野紘 "wikilink")、作詞：五月攻、作曲：鞠
+      - 歌：[下野紘](../Page/下野紘.md "wikilink")、作詞：五月攻、作曲：鞠
           - 『Shadow in sun』収録曲
 10. Reminiscences(Alt LyricsII)
       - 歌：[ヒサノ](https://ja.wikipedia.org/wiki/ヒサノ "wikilink")、作詞：五月攻＆LENNON、作曲：鞠
@@ -402,7 +402,7 @@
       - PC版「[クリムゾン・エンパイア](https://ja.wikipedia.org/wiki/クリムゾン・エンパイア "wikilink")」OP曲2
           - 『Crimson Empire　～Glace～』収録曲
 2.  DICE
-      - 歌：[高橋直純](https://ja.wikipedia.org/wiki/高橋直純 "wikilink")、作詞：五月攻、作曲：鞠
+      - 歌：[高橋直純](../Page/高橋直純.md "wikilink")、作詞：五月攻、作曲：鞠
       - PS2版「[アラビアンズ・ロスト](../Page/アラビアンズ・ロスト.md "wikilink")」タイトル画面曲
           - 『Shadow in sun』収録曲
 3.  Day in Day Out～St.VD Mix～
@@ -412,7 +412,7 @@
       - 歌：[ヒサノ](https://ja.wikipedia.org/wiki/ヒサノ "wikilink")、作詞：五月攻、作曲：鞠
           - 『Eternal Alice エターナル・アリス』収録曲
 5.  最果ての国
-      - 歌：[浪川大輔](https://ja.wikipedia.org/wiki/浪川大輔 "wikilink")、作詞：五月攻、作曲：鞠
+      - 歌：[浪川大輔](../Page/浪川大輔.md "wikilink")、作詞：五月攻、作曲：鞠
           - 『Crimson Empire　～Flamme～』収録曲
 6.  底なしの世界(Alt Lyrics)
       - 歌：ソラリズム、作詞：五月攻、作曲：鞠
@@ -429,13 +429,13 @@
       - PS2版「[ハートの国のアリス](https://ja.wikipedia.org/wiki/ハートの国のアリス "wikilink")」END曲
           - 『Alice in deep Sea～深い海の国のアリス～』収録曲
 10. 寄り道は長く
-      - 歌：[杉山紀彰](https://ja.wikipedia.org/wiki/杉山紀彰 "wikilink")、作詞：五月攻、作曲：鞠
+      - 歌：[杉山紀彰](../Page/杉山紀彰.md "wikilink")、作詞：五月攻、作曲：鞠
           - 『Alice in deep forest～深い森の国のアリス～』収録曲
 11. Whale(VersionII)
       - 歌：且優矢、作詞：五月攻、作曲：鞠
           - 『Alice in deep forest～深い森の国のアリス～』収録曲
 12. Solitary Dawn
-      - 歌：[下野紘](https://ja.wikipedia.org/wiki/下野紘 "wikilink")、作詞：五月攻、作曲：鞠
+      - 歌：[下野紘](../Page/下野紘.md "wikilink")、作詞：五月攻、作曲：鞠
           - 『Crimson Empire　～Glace～』収録曲
 13. Correct Direction
       - 歌：[ヒサノ](https://ja.wikipedia.org/wiki/ヒサノ "wikilink")、作詞：五月攻、作曲：鞠
@@ -463,7 +463,7 @@
       - 歌：[ヒサノ](https://ja.wikipedia.org/wiki/ヒサノ "wikilink")、作詞：五月攻、作曲：鞠
       - PSP「[おもちゃ箱の国のアリス](https://ja.wikipedia.org/wiki/ハートの国のアリス "wikilink")」OP曲
 3.  ゆかし　ひとひら
-      - 歌：[千葉進歩](https://ja.wikipedia.org/wiki/千葉進歩 "wikilink")、作詞：五月攻、作曲：鞠
+      - 歌：[千葉進歩](../Page/千葉進歩.md "wikilink")、作詞：五月攻、作曲：鞠
       - PSP版「[薔薇ノ木ニ薔薇ノ花咲ク](https://ja.wikipedia.org/wiki/薔薇ノ木ニ薔薇ノ花咲ク "wikilink")」OP曲
           - 『ROSE GARDEN（QuinRoseMIX。オリジナルイメージトラック）』収録曲
 4.  Grimm the Bounty hunter
@@ -487,16 +487,16 @@
       - PC版「[魔法使いとご主人様 Ground](https://ja.wikipedia.org/wiki/魔法使いとご主人様 "wikilink")New」END曲
           - 『Une etoile（「魔法使いとご主人様」オリジナルイメージトラック）』収録曲
 9.  シャンパン・パレード
-      - 歌：[堀内賢雄](https://ja.wikipedia.org/wiki/堀内賢雄 "wikilink")、作詞：五月攻、作曲：鞠
+      - 歌：[堀内賢雄](../Page/堀内賢雄.md "wikilink")、作詞：五月攻、作曲：鞠
           - 『ROSE GARDEN（QuinRoseMIX. オリジナルイメージトラック）』収録曲
 10. Deep Sleep
-      - 歌：[杉田智和](https://ja.wikipedia.org/wiki/杉田智和 "wikilink")、作詞：五月攻、作曲：鞠
+      - 歌：[杉田智和](../Page/杉田智和.md "wikilink")、作詞：五月攻、作曲：鞠
           - 『ROSE GARDEN（QuinRoseMIX. オリジナルイメージトラック）』収録曲
 11. 子供達はロマンチスト
       - 歌：[近藤隆](https://ja.wikipedia.org/wiki/近藤隆 "wikilink")、作詞：五月攻、作曲：鞠
           - 『Le soir（「魔法使いとご主人様」オリジナルイメージトラック）』収録曲
 12. 満ち潮に月
-      - 歌：[鈴木千尋](https://ja.wikipedia.org/wiki/鈴木千尋_\(声優\) "wikilink")、作詞：五月攻、作曲：鞠
+      - 歌：[鈴木千尋](../Page/鈴木千尋_\(声優\).md "wikilink")、作詞：五月攻、作曲：鞠
           - 『Le soir（「魔法使いとご主人様」オリジナルイメージトラック）』収録曲
 
 </div>
@@ -546,13 +546,13 @@
       - PC版「[魔法使いとご主人様 Ground](https://ja.wikipedia.org/wiki/魔法使いとご主人様 "wikilink")New」END曲
           - 『Le soir（「魔法使いとご主人様」オリジナルイメージトラック）』収録曲
 9.  Desert Rose
-      - 歌：[勝杏里](https://ja.wikipedia.org/wiki/勝杏里 "wikilink")、作詞：五月攻、作曲：鞠
+      - 歌：[勝杏里](../Page/勝杏里.md "wikilink")、作詞：五月攻、作曲：鞠
           - 『ROSE GARDEN（QuinRoseMIX. オリジナルイメージトラック）』収録曲
 10. 脆く醜く、尊く。
       - 歌：[緑川光](../Page/緑川光.md "wikilink")、作詞：五月攻、作曲：鞠
           - 『ROSE MAGIC（QuinRoseMIX. オリジナルイメージトラック）』収録曲
 11. ジキルとハイド
-      - 歌：[小野大輔](https://ja.wikipedia.org/wiki/小野大輔 "wikilink")、作詞：五月攻、作曲：鞠
+      - 歌：[小野大輔](../Page/小野大輔.md "wikilink")、作詞：五月攻、作曲：鞠
           - 『Une etoile（「魔法使いとご主人様」オリジナルイメージトラック）』収録曲
 12. 永遠より先に
       - 歌：[井上和彦](../Page/井上和彦_\(声優\).md "wikilink")、作詞：五月攻、作曲：鞠
@@ -609,13 +609,13 @@
       - PC版「[クリムゾン・ロワイヤル](https://ja.wikipedia.org/wiki/クリムゾン・エンパイア "wikilink")」END曲
           - 『Crimson Royale　～Promesse～』収録曲
 10. 悲愴
-      - 歌：[成田剣](https://ja.wikipedia.org/wiki/成田剣 "wikilink")、作詞：五月攻、作曲：鞠
+      - 歌：[成田剣](../Page/成田剣.md "wikilink")、作詞：五月攻、作曲：鞠
           - 『Crimson Royale　～Promesse～』収録曲
 11. 1WEEKキッチン
-      - 歌：[杉山紀彰](https://ja.wikipedia.org/wiki/杉山紀彰 "wikilink")、作詞：五月攻、作曲：鞠
+      - 歌：[杉山紀彰](../Page/杉山紀彰.md "wikilink")、作詞：五月攻、作曲：鞠
           - 『ROSE MAGIC（QuinRoseMIX. オリジナルイメージトラック）』収録曲
 12. ライバルに告ぐ
-      - 歌：[浪川大輔](https://ja.wikipedia.org/wiki/浪川大輔 "wikilink")、作詞：五月攻、作曲：鞠
+      - 歌：[浪川大輔](../Page/浪川大輔.md "wikilink")、作詞：五月攻、作曲：鞠
           - 『ROSE MAGIC（QuinRoseMIX. オリジナルイメージトラック）』収録曲
 
 </div>
@@ -664,7 +664,7 @@
       - 歌：成田剣、作詞：五月攻、作曲：鞠
           - 『ROSE GARDEN（QuinRoseMIX. オリジナルイメージトラック）』収録曲
 9.  Amusement park
-      - 歌：[堀内賢雄](https://ja.wikipedia.org/wiki/堀内賢雄 "wikilink")、作詞：五月攻、作曲：鞠
+      - 歌：[堀内賢雄](../Page/堀内賢雄.md "wikilink")、作詞：五月攻、作曲：鞠
           - 『ROSE MAGIC（QuinRoseMIX. オリジナルイメージトラック）』収録曲
 10. LAST
       - 歌：井上和彦、作詞：五月攻、作曲：鞠
@@ -705,7 +705,7 @@
       - 歌：リツカ、作詞：五月攻、作曲：鞠
       - PSP「[0時の鐘とシンデレラ](https://ja.wikipedia.org/wiki/0時の鐘とシンデレラ "wikilink")」END曲
 5.  DICE(Remix)
-      - 歌：[高橋直純](https://ja.wikipedia.org/wiki/高橋直純 "wikilink")、作詞：五月攻、作曲：鞠
+      - 歌：[高橋直純](../Page/高橋直純.md "wikilink")、作詞：五月攻、作曲：鞠
       - PSP版「[アラビアンズ・ロスト](../Page/アラビアンズ・ロスト.md "wikilink")」OP曲
           - 『「アラビアンズ・ロスト」イメージCD』収録曲
 6.  ラスト・ウォーズ
@@ -727,7 +727,7 @@
       - 歌：ヒサノ、作詞：五月攻、作曲：鞠
           - 『「アラビアンズ・ロスト」イメージCD』収録曲
 12. 二重スパイのアリバイ工作
-      - 歌：[福山潤](https://ja.wikipedia.org/wiki/福山潤 "wikilink")、作詞：五月攻、作曲：鞠
+      - 歌：[福山潤](../Page/福山潤.md "wikilink")、作詞：五月攻、作曲：鞠
           - 『「ダイヤの国のアリス」イメージCD』収録曲
 
 </div>
@@ -760,7 +760,7 @@
       - 歌：QuinRose、作詞：五月攻、作曲：朝人
       - PSP「[死神所業～怪談ロマンス～](https://ja.wikipedia.org/wiki/死神稼業〜怪談ロマンス〜 "wikilink")」OP曲
 6.  Doubt
-      - 歌：[高橋直純](https://ja.wikipedia.org/wiki/高橋直純 "wikilink")、作詞：五月攻、作曲：鞠
+      - 歌：[高橋直純](../Page/高橋直純.md "wikilink")、作詞：五月攻、作曲：鞠
       - PSP「[アラビアンズ・ダウト](../Page/アラビアンズ・ロスト.md "wikilink")」OP曲
 7.  Cross My Heart
       - 歌：井上和彦、作詞：五月攻、作曲：アサヒナユウ
@@ -776,7 +776,7 @@
       - 歌：QuinRose、作詞：五月攻、作曲：アサヒナユウ
       - PSP「[百物語～怪談ロマンス～](https://ja.wikipedia.org/wiki/百鬼夜行〜怪談ロマンス〜 "wikilink")」OP曲
 11. 花火の跡
-      - 歌：[浅沼晋太郎](https://ja.wikipedia.org/wiki/浅沼晋太郎 "wikilink")、作詞：五月攻＆[浅沼晋太郎](https://ja.wikipedia.org/wiki/浅沼晋太郎 "wikilink")、作曲：鞠
+      - 歌：[浅沼晋太郎](../Page/浅沼晋太郎.md "wikilink")、作詞：五月攻＆[浅沼晋太郎](../Page/浅沼晋太郎.md "wikilink")、作曲：鞠
       - PSP「[死神所業～怪談ロマンス～](https://ja.wikipedia.org/wiki/死神稼業〜怪談ロマンス〜 "wikilink")」END曲
 12. 徒然に長い夜
       - 歌：QuinRose、作詞：五月攻、作曲：鞠
@@ -804,7 +804,7 @@
       - 歌：赤ティン、作詞：五月攻、作曲：朝人、編曲：朝人＆鞠
       - PSP「[黒雪姫](https://ja.wikipedia.org/wiki/黒雪姫 "wikilink")～スノウ・ブラック～」END曲
 3.  be in decline -Extended Remix-
-      - 歌：[勝杏里](https://ja.wikipedia.org/wiki/勝杏里 "wikilink")、作詞：五月攻、作曲：鞠
+      - 歌：[勝杏里](../Page/勝杏里.md "wikilink")、作詞：五月攻、作曲：鞠
       - PSP「[新装版ハートの国のアリス](https://ja.wikipedia.org/wiki/ハートの国のアリス "wikilink")」END曲
           - 『「新装版ハートの国のアリス」イメージCD』収録曲
 4.  終わりなき旅

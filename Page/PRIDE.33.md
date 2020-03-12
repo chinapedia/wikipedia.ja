@@ -5,55 +5,55 @@
 
 ## 大会概要
 
-本大会では[ジェームス・リー](https://ja.wikipedia.org/wiki/ジェームス・リー "wikilink")、[トラビス・ビュー](https://ja.wikipedia.org/wiki/トラビス・ビュー "wikilink")、[ソクジュ](../Page/ソクジュ.md "wikilink")、[マック・ダンジグ](https://ja.wikipedia.org/wiki/マック・ダンジグ "wikilink")、[マイク・ルソー](../Page/マイク・ルソー.md "wikilink")、[ニック・ディアス](../Page/ニック・ディアス.md "wikilink")の6名がPRIDEに初参戦を果たした。トラビス・ビューとの対戦が予定されていた[中村和裕](https://ja.wikipedia.org/wiki/中村和裕 "wikilink")は練習中の負傷（左膝[外側半月板損傷](https://ja.wikipedia.org/wiki/半月板損傷 "wikilink")）により、欠場となった\[1\]。
+本大会では[ジェームス・リー](../Page/ジェームス・リー.md "wikilink")、[トラビス・ビュー](https://ja.wikipedia.org/wiki/トラビス・ビュー "wikilink")、[ソクジュ](../Page/ソクジュ.md "wikilink")、[マック・ダンジグ](https://ja.wikipedia.org/wiki/マック・ダンジグ "wikilink")、[マイク・ルソー](../Page/マイク・ルソー.md "wikilink")、[ニック・ディアス](../Page/ニック・ディアス.md "wikilink")の6名がPRIDEに初参戦を果たした。トラビス・ビューとの対戦が予定されていた[中村和裕](../Page/中村和裕.md "wikilink")は練習中の負傷（左膝[外側半月板損傷](https://ja.wikipedia.org/wiki/半月板損傷 "wikilink")）により、欠場となった\[1\]。
 
-第2試合の[フランク・トリッグ](../Page/フランク・トリッグ.md "wikilink")対[三崎和雄](https://ja.wikipedia.org/wiki/三崎和雄 "wikilink")を除いてはいずれの試合もKOまたは一本による決着となった。今大会がPRIDEデビュー戦となるPRIDE初のアフリカ人選手である[ソクジュ](../Page/ソクジュ.md "wikilink")は[アントニオ・ホジェリオ・ノゲイラ](https://ja.wikipedia.org/wiki/アントニオ・ホジェリオ・ノゲイラ "wikilink")を試合開始23秒でTKOし、白星デビューを果たした。
+第2試合の[フランク・トリッグ](../Page/フランク・トリッグ.md "wikilink")対[三崎和雄](../Page/三崎和雄.md "wikilink")を除いてはいずれの試合もKOまたは一本による決着となった。今大会がPRIDEデビュー戦となるPRIDE初のアフリカ人選手である[ソクジュ](../Page/ソクジュ.md "wikilink")は[アントニオ・ホジェリオ・ノゲイラ](../Page/アントニオ・ホジェリオ・ノゲイラ.md "wikilink")を試合開始23秒でTKOし、白星デビューを果たした。
 
-セミファイナルではPRIDEライト級王者[五味隆典](https://ja.wikipedia.org/wiki/五味隆典 "wikilink")と[ニック・ディアス](../Page/ニック・ディアス.md "wikilink")がノンタイトル戦で対戦し、試合は[フットチョーク](../Page/フットチョーク.md "wikilink")による五味の一本負け。試合後の薬物検査でディアスから[マリファナの陽性反応が検出されたため](https://ja.wikipedia.org/wiki/大麻 "wikilink")、[ネバダ州アスレチック・コミッション](https://ja.wikipedia.org/wiki/ネバダ州アスレチック・コミッション "wikilink")の裁定により、無効試合となった\[2\]。
+セミファイナルではPRIDEライト級王者[五味隆典](../Page/五味隆典.md "wikilink")と[ニック・ディアス](../Page/ニック・ディアス.md "wikilink")がノンタイトル戦で対戦し、試合は[フットチョーク](../Page/フットチョーク.md "wikilink")による五味の一本負け。試合後の薬物検査でディアスから[マリファナの陽性反応が検出されたため](https://ja.wikipedia.org/wiki/大麻 "wikilink")、[ネバダ州アスレチック・コミッション](../Page/ネバダ州アスレチック・コミッション.md "wikilink")の裁定により、無効試合となった\[2\]。
 
-メインイベントではウェルター級王者として二冠を目指す[ダン・ヘンダーソン](https://ja.wikipedia.org/wiki/ダン・ヘンダーソン "wikilink")が、殴り合いの末にミドル級王者[ヴァンダレイ・シウバ](https://ja.wikipedia.org/wiki/ヴァンダレイ・シウバ "wikilink")を左フックでTKO。シウバがミドル級創設以来5年余りに渡って保持してきたミドル級王座が移動し、ダンが母国アメリカでPRIDE史上初の2階級制覇を果たした。
+メインイベントではウェルター級王者として二冠を目指す[ダン・ヘンダーソン](../Page/ダン・ヘンダーソン.md "wikilink")が、殴り合いの末にミドル級王者[ヴァンダレイ・シウバ](../Page/ヴァンダレイ・シウバ.md "wikilink")を左フックでTKO。シウバがミドル級創設以来5年余りに渡って保持してきたミドル級王座が移動し、ダンが母国アメリカでPRIDE史上初の2階級制覇を果たした。
 
 ### ルール変更
 
-本大会は[ネバダ州アスレチック・コミッション](https://ja.wikipedia.org/wiki/ネバダ州アスレチック・コミッション "wikilink")の管理下で行われたため、従来のPRIDEルールではなく、同コミッションの認可した統一総合格闘技ルールが適用された。そのため、試合時間は5分3Rとなり、また選手の体重差にかかわらず、グラウンド状態の相手の頭部への蹴りによる攻撃（[サッカーボールキック](https://ja.wikipedia.org/wiki/サッカーボールキック "wikilink")、踏みつけ、がぶりからの膝等）は全て禁止となった。なお、頭部への肘打ちは従来のPRIDEルール通り禁止とされた。当該ルールは[PRIDE.32](https://ja.wikipedia.org/wiki/PRIDE.32 "wikilink")においても同様に適用された。
+本大会は[ネバダ州アスレチック・コミッション](../Page/ネバダ州アスレチック・コミッション.md "wikilink")の管理下で行われたため、従来のPRIDEルールではなく、同コミッションの認可した統一総合格闘技ルールが適用された。そのため、試合時間は5分3Rとなり、また選手の体重差にかかわらず、グラウンド状態の相手の頭部への蹴りによる攻撃（[サッカーボールキック](https://ja.wikipedia.org/wiki/サッカーボールキック "wikilink")、踏みつけ、がぶりからの膝等）は全て禁止となった。なお、頭部への肘打ちは従来のPRIDEルール通り禁止とされた。当該ルールは[PRIDE.32](../Page/PRIDE.32.md "wikilink")においても同様に適用された。
 
 ## 試合結果
 
   - 第1試合 ライト級ワンマッチ 5分3R
-    ○  [ヨアキム・ハンセン](https://ja.wikipedia.org/wiki/ヨアキム・ハンセン "wikilink") vs.  [ジェイソン・アイルランド](https://ja.wikipedia.org/wiki/ジェイソン・アイルランド "wikilink") ×
-    3R 2:33 [腕ひしぎ十字固め](https://ja.wikipedia.org/wiki/腕挫十字固 "wikilink")
+    ○  [ヨアキム・ハンセン](../Page/ヨアキム・ハンセン.md "wikilink") vs.  [ジェイソン・アイルランド](../Page/ジェイソン・アイルランド.md "wikilink") ×
+    3R 2:33 [腕ひしぎ十字固め](../Page/腕挫十字固.md "wikilink")
   - 第2試合 ウェルター級ワンマッチ 5分3R
-    ○  [フランク・トリッグ](../Page/フランク・トリッグ.md "wikilink") vs.  [三崎和雄](https://ja.wikipedia.org/wiki/三崎和雄 "wikilink") ×
+    ○  [フランク・トリッグ](../Page/フランク・トリッグ.md "wikilink") vs.  [三崎和雄](../Page/三崎和雄.md "wikilink") ×
     3R終了 判定3-0（30-27、30-27、30-27）
   - 第3試合 ミドル級ワンマッチ 5分3R
-    ○  [ジェームス・リー](https://ja.wikipedia.org/wiki/ジェームス・リー "wikilink") vs.  [トラビス・ビュー](https://ja.wikipedia.org/wiki/トラビス・ビュー "wikilink") ×
-    1R 0:39 [フロントチョーク](https://ja.wikipedia.org/wiki/フロントチョーク "wikilink")
+    ○  [ジェームス・リー](../Page/ジェームス・リー.md "wikilink") vs.  [トラビス・ビュー](https://ja.wikipedia.org/wiki/トラビス・ビュー "wikilink") ×
+    1R 0:39 [フロントチョーク](../Page/フロントチョーク.md "wikilink")
   - 第4試合 ミドル級ワンマッチ 5分3R
-    ○  [ソクジュ](../Page/ソクジュ.md "wikilink") vs.  [アントニオ・ホジェリオ・ノゲイラ](https://ja.wikipedia.org/wiki/アントニオ・ホジェリオ・ノゲイラ "wikilink") ×
+    ○  [ソクジュ](../Page/ソクジュ.md "wikilink") vs.  [アントニオ・ホジェリオ・ノゲイラ](../Page/アントニオ・ホジェリオ・ノゲイラ.md "wikilink") ×
     1R 0:23 TKO（レフェリーストップ：左フック）
   - 第5試合 ライト級ワンマッチ 5分3R
-    ○  [桜井"マッハ"速人](https://ja.wikipedia.org/wiki/桜井速人 "wikilink") vs.  [マック・ダンジグ](https://ja.wikipedia.org/wiki/マック・ダンジグ "wikilink") ×
+    ○  [桜井"マッハ"速人](../Page/桜井速人.md "wikilink") vs.  [マック・ダンジグ](https://ja.wikipedia.org/wiki/マック・ダンジグ "wikilink") ×
     2R 4:01 TKO（レフェリーストップ：右フック）
   - 第6試合 ヘビー級ワンマッチ 5分3R
-    ○  [セルゲイ・ハリトーノフ](https://ja.wikipedia.org/wiki/セルゲイ・ハリトーノフ "wikilink") vs.  [マイク・ルソー](../Page/マイク・ルソー.md "wikilink") ×
-    1R 3:46 [腕ひしぎ十字固め](https://ja.wikipedia.org/wiki/腕挫十字固 "wikilink")
+    ○  [セルゲイ・ハリトーノフ](../Page/セルゲイ・ハリトーノフ.md "wikilink") vs.  [マイク・ルソー](../Page/マイク・ルソー.md "wikilink") ×
+    1R 3:46 [腕ひしぎ十字固め](../Page/腕挫十字固.md "wikilink")
   - 第7試合 ミドル級ワンマッチ 5分3R
-    ○  [マウリシオ・ショーグン](https://ja.wikipedia.org/wiki/マウリシオ・ショーグン "wikilink") vs.  [アリスター・オーフレイム](https://ja.wikipedia.org/wiki/アリスター・オーフレイム "wikilink") ×
-    1R 3:27 TKO（レフェリーストップ：[パウンド](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    ○  [マウリシオ・ショーグン](../Page/マウリシオ・ショーグン.md "wikilink") vs.  [アリスター・オーフレイム](../Page/アリスター・オーフレイム.md "wikilink") ×
+    1R 3:27 TKO（レフェリーストップ：[パウンド](../Page/グラウンドパンチ.md "wikilink")）
   - 第8試合 ライト級ワンマッチ 5分3R
-    －  [ニック・ディアス](../Page/ニック・ディアス.md "wikilink") vs.  [五味隆典](https://ja.wikipedia.org/wiki/五味隆典 "wikilink") －
+    －  [ニック・ディアス](../Page/ニック・ディアス.md "wikilink") vs.  [五味隆典](../Page/五味隆典.md "wikilink") －
     ノーコンテスト
     ※当初の試合結果は「2R 1:46 フットチョークにてディアス勝利」だったが、ディアスの薬物検査失格により、ネバダ州アスレチック・コミッションの裁定でノーコンテストに変更された\[3\]。
   - 第9試合 PRIDEミドル級タイトルマッチ 5分5R
-    ○  [ダン・ヘンダーソン](https://ja.wikipedia.org/wiki/ダン・ヘンダーソン "wikilink") vs.  [ヴァンダレイ・シウバ](https://ja.wikipedia.org/wiki/ヴァンダレイ・シウバ "wikilink") ×
-    3R 2:08 TKO（レフェリーストップ：左フック→[パウンド](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    ○  [ダン・ヘンダーソン](../Page/ダン・ヘンダーソン.md "wikilink") vs.  [ヴァンダレイ・シウバ](../Page/ヴァンダレイ・シウバ.md "wikilink") ×
+    3R 2:08 TKO（レフェリーストップ：左フック→[パウンド](../Page/グラウンドパンチ.md "wikilink")）
     ※ヘンダーソンが王座獲得に成功。
 
 ## 脚注
 
 ## 関連項目
 
-  - [PRIDEの大会一覧](https://ja.wikipedia.org/wiki/PRIDEの大会一覧 "wikilink")
+  - [PRIDEの大会一覧](../Page/PRIDEの大会一覧.md "wikilink")
   - [PRIDE王者一覧](https://ja.wikipedia.org/wiki/PRIDE王者一覧 "wikilink")
 
 ## 外部リンク

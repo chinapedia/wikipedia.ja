@@ -28,7 +28,7 @@
   - **DANCING SHOES**
       - [SOUND OF MY HEART](https://ja.wikipedia.org/wiki/SOUND_OF_MY_HEART "wikilink")
   - **DANCING SHOES (Club Mix)**
-      - [Seiko Box](https://ja.wikipedia.org/wiki/Seiko_Box "wikilink")
+      - [Seiko Box](../Page/Seiko_Box.md "wikilink")
       - [Premium Diamond Bible](https://ja.wikipedia.org/wiki/Premium_Diamond_Bible "wikilink")
       - [Diamond Bible](https://ja.wikipedia.org/wiki/Diamond_Bible "wikilink")
   - **Crazy Me, Crazy For You**
@@ -36,6 +36,6 @@
 
 <!-- end list -->
 
-  - [1985年の音楽](https://ja.wikipedia.org/wiki/1985年の音楽 "wikilink")
+  - [1985年の音楽](../Page/1985年の音楽.md "wikilink")
 
 [Category:松田聖子の楽曲](https://ja.wikipedia.org/wiki/Category:松田聖子の楽曲 "wikilink") [Category:1985年のシングル](https://ja.wikipedia.org/wiki/Category:1985年のシングル "wikilink") [Category:1985年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1985年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:フィル・ラモーンがプロデュースした楽曲](https://ja.wikipedia.org/wiki/Category:フィル・ラモーンがプロデュースした楽曲 "wikilink") [Category:ダンスを題材とした楽曲](https://ja.wikipedia.org/wiki/Category:ダンスを題材とした楽曲 "wikilink") [Category:靴を題材とした作品](https://ja.wikipedia.org/wiki/Category:靴を題材とした作品 "wikilink") [Category:楽曲_た](https://ja.wikipedia.org/wiki/Category:楽曲_た "wikilink")

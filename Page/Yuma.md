@@ -8,7 +8,7 @@
   - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")、[静岡県](../Page/静岡県.md "wikilink")で生まれる。
   - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")、父親の仕事の関係で[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の[トロント](../Page/トロント.md "wikilink")に移住。
   - [1988年](../Page/1988年.md "wikilink")、日本に帰国し、[兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")に在住。
-  - [1996年](../Page/1996年.md "wikilink")、静岡県[清水市](../Page/清水市.md "wikilink")（現・[静岡市](https://ja.wikipedia.org/wiki/静岡市 "wikilink")[清水区](../Page/清水区.md "wikilink")）に転居。その後[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[立川市](../Page/立川市.md "wikilink")に転居。高校の文化祭でミュージカルを企画。自ら監督・脚本・演出を担当。このころより趣味で声楽を習い始める。
+  - [1996年](../Page/1996年.md "wikilink")、静岡県[清水市](../Page/清水市.md "wikilink")（現・[静岡市](../Page/静岡市.md "wikilink")[清水区](../Page/清水区.md "wikilink")）に転居。その後[東京都](../Page/東京都.md "wikilink")[立川市](../Page/立川市.md "wikilink")に転居。高校の文化祭でミュージカルを企画。自ら監督・脚本・演出を担当。このころより趣味で声楽を習い始める。
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、[辻仁成](../Page/辻仁成.md "wikilink")初監督映画「[千年旅人](https://ja.wikipedia.org/wiki/千年旅人 "wikilink")」の新聞公募によるヒロインオーディションで、応募総数1200名の中、ヒロインのユマ役を射止める。オーディションで歌ったイタリア歌曲が辻仁成の音楽的インスピレーションに火を点け\[1\]、映画に先駆けて、映画とyumaのイメージから浮かんだ10曲のレコーディングが東京と[アイルランド](../Page/アイルランド.md "wikilink")で行われる。
   - 1999年[9月](../Page/9月.md "wikilink")、音楽雑誌『Gb』9月号より「yumaの宝探し」連載。
   - 1999年[10月30日](../Page/10月30日.md "wikilink")、[ラジオ番組](../Page/ラジオ番組.md "wikilink")「[yumaのスピークスピリッツ](https://ja.wikipedia.org/wiki/yumaのスピークスピリッツ "wikilink")」放送。
@@ -19,7 +19,7 @@
 ## 人物
 
   - [血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")：[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")
-  - [身長](https://ja.wikipedia.org/wiki/身長 "wikilink")：164[cm](../Page/センチメートル.md "wikilink")。
+  - [身長](../Page/身長.md "wikilink")：164[cm](../Page/センチメートル.md "wikilink")。
   - 趣味：[声楽](../Page/声楽.md "wikilink")（[イタリア歌曲](https://ja.wikipedia.org/wiki/イタリア歌曲 "wikilink")等）、[水泳](../Page/水泳.md "wikilink")、[フルート](../Page/フルート.md "wikilink")、[クラシック鑑賞](../Page/クラシック音楽.md "wikilink")、[読書](../Page/読書.md "wikilink")。
 
 ## 主な出演

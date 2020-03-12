@@ -5,11 +5,11 @@
 
 ## 概要
 
-本作は[ビクター音楽産業のOVA第一弾](https://ja.wikipedia.org/wiki/JVCケンウッド・ビクターエンタテインメント "wikilink")。レコード会社が初めて販売したOVAでもある。
+本作は[ビクター音楽産業のOVA第一弾](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")。レコード会社が初めて販売したOVAでもある。
 
-売上目標は3万本だったが売上は1万8000本に留まった。しかし、一定の成功はしたとみなされ、第2弾の『[メガゾーン23](https://ja.wikipedia.org/wiki/メガゾーン23 "wikilink")』につながった。
+売上目標は3万本だったが売上は1万8000本に留まった。しかし、一定の成功はしたとみなされ、第2弾の『[メガゾーン23](../Page/メガゾーン23.md "wikilink")』につながった。
 
-監督は[貞光紳也](https://ja.wikipedia.org/wiki/貞光紳也 "wikilink")、アニメーションディレクターは[金田伊功](../Page/金田伊功.md "wikilink")が務めている。また、[矢尾一樹](https://ja.wikipedia.org/wiki/矢尾一樹 "wikilink")の声優デビュー作でもある。
+監督は[貞光紳也](../Page/貞光紳也.md "wikilink")、アニメーションディレクターは[金田伊功](../Page/金田伊功.md "wikilink")が務めている。また、[矢尾一樹](../Page/矢尾一樹.md "wikilink")の声優デビュー作でもある。
 
 もともとはOVAではなくテレビシリーズとして企画された作品である\[1\]。
 
@@ -20,7 +20,7 @@
 ## 登場人物
 
   - シュルギ・ナム
-    声 - [矢尾一樹](https://ja.wikipedia.org/wiki/矢尾一樹 "wikilink")
+    声 - [矢尾一樹](../Page/矢尾一樹.md "wikilink")
     主人公。アクアロイドに住む16歳の少年。黒髪で瞳は茶色。元気があり余り過ぎてとにかく暴れん坊だが、性根は善良。
     聖剣を手に入れたことから渦中の人となる。
   - ユピテル・ラサ
@@ -38,20 +38,20 @@
   - アーリア
     声 - [戸田恵子](../Page/戸田恵子.md "wikilink")
   - イノガニック・ベイビー
-    声 - [つかせのりこ](https://ja.wikipedia.org/wiki/つかせのりこ "wikilink")
+    声 - [つかせのりこ](../Page/つかせのりこ.md "wikilink")
     謎の知性体の幼体。泣き虫で癇癪持ち。幼い見た目に反しとんでもない能力を持つ。
   - ジイ
     声 - [八奈見乗児](../Page/八奈見乗児.md "wikilink")
   - バア
-    声 - [鈴木れい子](https://ja.wikipedia.org/wiki/鈴木れい子 "wikilink")
+    声 - [鈴木れい子](../Page/鈴木れい子.md "wikilink")
   - ソルジャーA
-    声 - [大林隆介](https://ja.wikipedia.org/wiki/大林隆介 "wikilink")
+    声 - [大林隆介](../Page/大林隆介.md "wikilink")
   - ソルジャーB
     声 - [屋良有作](../Page/屋良有作.md "wikilink")
   - ソルジャーC
-    声 - [塩屋浩三](https://ja.wikipedia.org/wiki/塩屋浩三 "wikilink")
+    声 - [塩屋浩三](../Page/塩屋浩三.md "wikilink")
   - 小鬼
-    声 - [安西正弘](https://ja.wikipedia.org/wiki/安西正弘 "wikilink")
+    声 - [安西正弘](../Page/安西正弘.md "wikilink")
   - ムニョ
     声 - [坂本千夏](../Page/坂本千夏.md "wikilink")
   - シャムナ・オリッサ
@@ -61,21 +61,21 @@
 
 ## スタッフ
 
-  - 監督 - [貞光紳也](https://ja.wikipedia.org/wiki/貞光紳也 "wikilink")
+  - 監督 - [貞光紳也](../Page/貞光紳也.md "wikilink")
   - 製作 - 小野寺脩一、相原義彰
   - プロデューサー - 長尾聡浩
   - 企画 - 小野寺脩一、相原義彰
   - 原作 - カナメ企画
-  - 原案協力 - [武上純希](https://ja.wikipedia.org/wiki/武上純希 "wikilink")
+  - 原案協力 - [武上純希](../Page/武上純希.md "wikilink")
   - 原画 - [鍋島修](https://ja.wikipedia.org/wiki/鍋島修 "wikilink")、[山下将仁](https://ja.wikipedia.org/wiki/山下将仁 "wikilink")、[亀垣一](https://ja.wikipedia.org/wiki/亀垣一 "wikilink")、[越智一裕](https://ja.wikipedia.org/wiki/越智一裕 "wikilink")、飯島正勝、[庵野秀明](../Page/庵野秀明.md "wikilink") 他
   - アニメーションディレクター・キャラクターデザイン - [金田伊功](../Page/金田伊功.md "wikilink")
-  - アニメーションコーディネーター - [影山楙倫](https://ja.wikipedia.org/wiki/影山楙倫 "wikilink")、[いのまたむつみ](../Page/いのまたむつみ.md "wikilink")
-  - メカニックデザイン - 小原渉平、[小林誠](https://ja.wikipedia.org/wiki/小林誠_\(イラストレーター\) "wikilink")
+  - アニメーションコーディネーター - [影山楙倫](../Page/影山楙倫.md "wikilink")、[いのまたむつみ](../Page/いのまたむつみ.md "wikilink")
+  - メカニックデザイン - 小原渉平、[小林誠](../Page/小林誠_\(イラストレーター\).md "wikilink")
   - 美術監督 - 勝又激
   - 音楽 - [久石譲](../Page/久石譲.md "wikilink")
   - 音響監督 - [松浦典良](https://ja.wikipedia.org/wiki/松浦典良 "wikilink")
   - 撮影監督 - 佐野禎司
-  - 製作 - あいどる、[カナメプロダクション](https://ja.wikipedia.org/wiki/カナメプロダクション "wikilink")
+  - 製作 - あいどる、[カナメプロダクション](../Page/カナメプロダクション.md "wikilink")
 
 ## 主題歌
 
@@ -91,7 +91,7 @@
   - バース BIRTH 1
     金田伊功：著、武上純希・カナメ企画：原案、徳間書店モーションブックス、1983年\[2\]。
   - バース―または子どもの遊び
-    [首藤剛志](https://ja.wikipedia.org/wiki/首藤剛志 "wikilink")：著、金田伊功：イラスト、講談社X文庫、1984年。
+    [首藤剛志](../Page/首藤剛志.md "wikilink")：著、金田伊功：イラスト、講談社X文庫、1984年。
   - [ジ･アニメ](https://ja.wikipedia.org/wiki/ジ･アニメ "wikilink")特別編集 バース BIRTH
     [近代映画社](../Page/近代映画社.md "wikilink")、1984年。
   - ビデオマニュアルAVAAVA（アバアバ）別冊 メガゾーン23/バース

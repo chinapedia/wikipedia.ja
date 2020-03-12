@@ -3,19 +3,19 @@
 
 [Alyssa_Campanella_2010.jpg](https://ja.wikipedia.org/wiki/File:Alyssa_Campanella_2010.jpg "fig:Alyssa_Campanella_2010.jpg")
 
-**ミスUSA**（Miss USA）は、毎年春に開催される[ミス・ユニバース機構](https://ja.wikipedia.org/wiki/ミス・ユニバース機構 "wikilink")が主催する[ミス・コンテスト](https://ja.wikipedia.org/wiki/ミス・コンテスト "wikilink")。[ミス・ユニバース](https://ja.wikipedia.org/wiki/ミス・ユニバース "wikilink")[USA代表選考会を兼ねている](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。全米50州と[コロンビア特別区の代表](../Page/ワシントンD.C..md "wikilink")51名がミスUSAを目指す。
+**ミスUSA**（Miss USA）は、毎年春に開催される[ミス・ユニバース機構](https://ja.wikipedia.org/wiki/ミス・ユニバース機構 "wikilink")が主催する[ミス・コンテスト](../Page/ミス・コンテスト.md "wikilink")。[ミス・ユニバース](../Page/ミス・ユニバース.md "wikilink")[USA代表選考会を兼ねている](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。全米50州と[コロンビア特別区の代表](../Page/ワシントンD.C..md "wikilink")51名がミスUSAを目指す。
 
-第1回が行われたのは[1952年](../Page/1952年.md "wikilink")。この年は[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[ロングビーチで開催され](https://ja.wikipedia.org/wiki/ロングビーチ_\(カリフォルニア州\) "wikilink")、Jackie Lougheryが初代ミスUSAに輝いた。
+第1回が行われたのは[1952年](../Page/1952年.md "wikilink")。この年は[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[ロングビーチで開催され](../Page/ロングビーチ_\(カリフォルニア州\).md "wikilink")、Jackie Lougheryが初代ミスUSAに輝いた。
 
 最も多くのミスUSAを輩出している州は[テキサス州](../Page/テキサス州.md "wikilink")で、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")から[1989年](../Page/1989年.md "wikilink")の5年連続を含め、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")までに9人がミスUSAに輝いている。
 
 最初のアジア系のミスUSAは[1984年](../Page/1984年.md "wikilink")のMai Shanley、最初の黒人のミスUSAは[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")のCarole Gistである。
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")にミスUSAのブルック・マヘアラニ・リーが[ミス・ユニバース](https://ja.wikipedia.org/wiki/ミス・ユニバース "wikilink")で優勝したため、[ブランディ・シャーウッド](https://ja.wikipedia.org/wiki/ブランディ・シャーウッド "wikilink")は[1989年](../Page/1989年.md "wikilink")に[ミス・ティーンUSA](https://ja.wikipedia.org/wiki/ミス・ティーンUSA "wikilink")、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")にミスUSAとなり、史上唯一ミス・ティーンUSAとミスUSA双方のタイトルを持つ女性となった。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")にミスUSAのブルック・マヘアラニ・リーが[ミス・ユニバース](../Page/ミス・ユニバース.md "wikilink")で優勝したため、[ブランディ・シャーウッド](https://ja.wikipedia.org/wiki/ブランディ・シャーウッド "wikilink")は[1989年](../Page/1989年.md "wikilink")に[ミス・ティーンUSA](../Page/ミス・ティーンUSA.md "wikilink")、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")にミスUSAとなり、史上唯一ミス・ティーンUSAとミスUSA双方のタイトルを持つ女性となった。
 
 ミスUSA史上最も美しいと言われているのは、テキサス代表として参加し優勝したChristy Fichtnerである。
 
-なお、ミスUSAは自動的にミス・ユニバース・アメリカ代表の出場権が与えられるが、そこでミス・ユニバースに輝いた場合、第2位（準ミス）が繰上げでミスUSAの任務を遂行する（ただし、初期のころはミスUSAの繰上げ処置はなく、1954年の[ミリアム・スティーブンソン](https://ja.wikipedia.org/wiki/ミリアム・スティーブンソン "wikilink")、1956年の[キャロル・モリス](https://ja.wikipedia.org/wiki/キャロル・モリス "wikilink")、1960年の[リンダ・ビメント](https://ja.wikipedia.org/wiki/リンダ・ビメント "wikilink")の3人は共にミスUSAとミス・ユニバースの2つの肩書きを同時に背負って活動を行っていた）。またこの大会はミス・ユニバース機構管轄のコンテストで、ミスUSAに選出されると、[ミス・ユニバース](https://ja.wikipedia.org/wiki/ミス・ユニバース "wikilink")、[ミス・ティーンUSA](https://ja.wikipedia.org/wiki/ミス・ティーンUSA "wikilink")と共に、各種プロモーション（[慈善キャンペーンや各種公式行事](https://ja.wikipedia.org/wiki/チャリティー "wikilink")）への参加などの特典が与えられる。。
+なお、ミスUSAは自動的にミス・ユニバース・アメリカ代表の出場権が与えられるが、そこでミス・ユニバースに輝いた場合、第2位（準ミス）が繰上げでミスUSAの任務を遂行する（ただし、初期のころはミスUSAの繰上げ処置はなく、1954年の[ミリアム・スティーブンソン](https://ja.wikipedia.org/wiki/ミリアム・スティーブンソン "wikilink")、1956年の[キャロル・モリス](https://ja.wikipedia.org/wiki/キャロル・モリス "wikilink")、1960年の[リンダ・ビメント](https://ja.wikipedia.org/wiki/リンダ・ビメント "wikilink")の3人は共にミスUSAとミス・ユニバースの2つの肩書きを同時に背負って活動を行っていた）。またこの大会はミス・ユニバース機構管轄のコンテストで、ミスUSAに選出されると、[ミス・ユニバース](../Page/ミス・ユニバース.md "wikilink")、[ミス・ティーンUSA](../Page/ミス・ティーンUSA.md "wikilink")と共に、各種プロモーション（[慈善キャンペーンや各種公式行事](../Page/チャリティー.md "wikilink")）への参加などの特典が与えられる。。
 
 ## 歴代ミスUSA
 
@@ -38,7 +38,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Flag_of_New_York.svg" title="wikilink">22px</a></p></td>
 <td><p>Jackie Loughery</p></td>
 <td><p><a href="../Page/ニューヨーク州.md" title="wikilink">ニューヨーク州</a></p></td>
-<td><p><a href="../Page/カリフォルニア州.md" title="wikilink">カリフォルニア州</a><a href="https://ja.wikipedia.org/wiki/ロングビーチ_(カリフォルニア州)" title="wikilink">ロングビーチ</a></p></td>
+<td><p><a href="../Page/カリフォルニア州.md" title="wikilink">カリフォルニア州</a><a href="../Page/ロングビーチ_(カリフォルニア州).md" title="wikilink">ロングビーチ</a></p></td>
 <td><p>準決勝進出</p></td>
 </tr>
 <tr class="even">
@@ -189,7 +189,7 @@
 <td><p>1969</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Flag_of_New_York.svg" title="wikilink">22px</a></p></td>
 <td><p>Wendy Dascomb</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/バージニア州" title="wikilink">バージニア州</a></p></td>
+<td><p><a href="../Page/バージニア州.md" title="wikilink">バージニア州</a></p></td>
 <td><p>マイアミビーチ</p></td>
 <td><p>準決勝進出</p></td>
 </tr>
@@ -222,7 +222,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Flag_of_Illinois.svg" title="wikilink">22px</a></p></td>
 <td><p>Amanda Jones</p></td>
 <td><p>イリノイ州</p></td>
-<td><p><a href="../Page/ニューヨーク州.md" title="wikilink">ニューヨーク州</a><a href="https://ja.wikipedia.org/wiki/ニューヨーク" title="wikilink">ニューヨーク</a></p></td>
+<td><p><a href="../Page/ニューヨーク州.md" title="wikilink">ニューヨーク州</a><a href="../Page/ニューヨーク.md" title="wikilink">ニューヨーク</a></p></td>
 <td><p>2位</p></td>
 </tr>
 <tr class="odd">
@@ -230,7 +230,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Flag_of_Illinois.svg" title="wikilink">22px</a></p></td>
 <td><p>Karen Morrison</p></td>
 <td><p>イリノイ州</p></td>
-<td><p><a href="../Page/ニューヨーク州.md" title="wikilink">ニューヨーク州</a><a href="https://ja.wikipedia.org/wiki/ナイアガラフォールズ_(ニューヨーク州)" title="wikilink">ナイアガラフォールズ</a></p></td>
+<td><p><a href="../Page/ニューヨーク州.md" title="wikilink">ニューヨーク州</a><a href="../Page/ナイアガラフォールズ_(ニューヨーク州).md" title="wikilink">ナイアガラフォールズ</a></p></td>
 <td><p>準決勝進出</p></td>
 </tr>
 <tr class="even">
@@ -254,7 +254,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Flag_of_Texas.svg" title="wikilink">22px</a></p></td>
 <td><p>Kimberly Tomes</p></td>
 <td><p><a href="../Page/テキサス州.md" title="wikilink">テキサス州</a></p></td>
-<td><p><a href="../Page/サウスカロライナ州.md" title="wikilink">サウスカロライナ州</a><a href="https://ja.wikipedia.org/wiki/チャールストン_(サウスカロライナ州)" title="wikilink">チャールストン</a></p></td>
+<td><p><a href="../Page/サウスカロライナ州.md" title="wikilink">サウスカロライナ州</a><a href="../Page/チャールストン_(サウスカロライナ州).md" title="wikilink">チャールストン</a></p></td>
 <td><p>準決勝進出</p></td>
 </tr>
 <tr class="odd">
@@ -310,7 +310,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Flag_of_California.svg" title="wikilink">22px</a></p></td>
 <td><p>Julie Hayek</p></td>
 <td><p>カリフォルニア州</p></td>
-<td><p><a href="../Page/テネシー州.md" title="wikilink">テネシー州</a><a href="https://ja.wikipedia.org/wiki/ノックスビル_(テネシー州)" title="wikilink">ノックスビル</a></p></td>
+<td><p><a href="../Page/テネシー州.md" title="wikilink">テネシー州</a><a href="../Page/ノックスビル_(テネシー州).md" title="wikilink">ノックスビル</a></p></td>
 <td><p>2位</p></td>
 </tr>
 <tr class="even">
@@ -324,7 +324,7 @@
 <tr class="odd">
 <td><p>1985</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Flag_of_Texas.svg" title="wikilink">22px</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ローラ・ハリング" title="wikilink">ローラ・ハリング</a></p></td>
+<td><p><a href="../Page/ローラ・ハリング.md" title="wikilink">ローラ・ハリング</a></p></td>
 <td><p>テキサス州</p></td>
 <td><p>フロリダ州レイクランド</p></td>
 <td><p>準決勝進出</p></td>
@@ -342,7 +342,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Flag_of_Texas.svg" title="wikilink">22px</a></p></td>
 <td><p>Michelle Royer</p></td>
 <td><p>テキサス州</p></td>
-<td><p><a href="../Page/ニューメキシコ州.md" title="wikilink">ニューメキシコ州</a><a href="https://ja.wikipedia.org/wiki/アルバカーキ" title="wikilink">アルバカーキ</a></p></td>
+<td><p><a href="../Page/ニューメキシコ州.md" title="wikilink">ニューメキシコ州</a><a href="../Page/アルバカーキ.md" title="wikilink">アルバカーキ</a></p></td>
 <td><p>3位</p></td>
 </tr>
 <tr class="even">
@@ -350,7 +350,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Flag_of_Texas.svg" title="wikilink">22px</a></p></td>
 <td><p>Courtney Gibbs</p></td>
 <td><p>テキサス州</p></td>
-<td><p>テキサス州<a href="https://ja.wikipedia.org/wiki/エルパソ_(テキサス州)" title="wikilink">エルパソ</a></p></td>
+<td><p>テキサス州<a href="../Page/エルパソ_(テキサス州).md" title="wikilink">エルパソ</a></p></td>
 <td><p>トップ10 準決勝進出</p></td>
 </tr>
 <tr class="odd">
@@ -358,7 +358,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Flag_of_Texas.svg" title="wikilink">22px</a></p></td>
 <td><p>Gretchen Polhemus</p></td>
 <td><p>テキサス州</p></td>
-<td><p><a href="../Page/アラバマ州.md" title="wikilink">アラバマ州</a><a href="https://ja.wikipedia.org/wiki/モービル_(アラバマ州)" title="wikilink">モービル</a></p></td>
+<td><p><a href="../Page/アラバマ州.md" title="wikilink">アラバマ州</a><a href="../Page/モービル_(アラバマ州).md" title="wikilink">モービル</a></p></td>
 <td><p>3位</p></td>
 </tr>
 <tr class="even">
@@ -428,7 +428,7 @@
 <tr class="even">
 <td><p>1997</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Flag_of_Hawaii.svg" title="wikilink">22px</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ブルック・マヘアラニ・リー" title="wikilink">ブルック・マヘアラニ・リー</a></strong>[7]</p></td>
+<td><p><strong><a href="../Page/ブルック・マヘアラニ・リー.md" title="wikilink">ブルック・マヘアラニ・リー</a></strong>[7]</p></td>
 <td><p>ハワイ州</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ルイジアナ州" title="wikilink">ルイジアナ州</a><a href="https://ja.wikipedia.org/wiki/シュリーブポート_(ルイジアナ州)" title="wikilink">シュリーブポート</a></p></td>
 <td><p>優勝</p></td>
@@ -470,7 +470,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Flag_of_Texas.svg" title="wikilink">22px</a></p></td>
 <td><p>Kandace Krueger</p></td>
 <td><p>テキサス州</p></td>
-<td><p><a href="../Page/インディアナ州.md" title="wikilink">インディアナ州</a><a href="https://ja.wikipedia.org/wiki/ゲーリー_(インディアナ州)" title="wikilink">ゲーリー</a></p></td>
+<td><p><a href="../Page/インディアナ州.md" title="wikilink">インディアナ州</a><a href="../Page/ゲーリー_(インディアナ州).md" title="wikilink">ゲーリー</a></p></td>
 <td><p>3位</p></td>
 </tr>
 <tr class="even">
@@ -492,7 +492,7 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ミスUSA2004" title="wikilink">2004</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Flag_of_Missouri.svg" title="wikilink">22px</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シャンディ・フィネッセー" title="wikilink">シャンディ・フィネッセー</a></p></td>
+<td><p><a href="../Page/シャンディ・フィネッセー.md" title="wikilink">シャンディ・フィネッセー</a></p></td>
 <td><p><a href="../Page/ミズーリ州.md" title="wikilink">ミズーリ州</a></p></td>
 <td><p>カリフォルニア州<a href="../Page/ロサンゼルス.md" title="wikilink">ロサンゼルス</a>、<a href="https://ja.wikipedia.org/wiki/コダック・シアター" title="wikilink">コダック・シアター</a></p></td>
 <td><p>2位</p></td>
@@ -502,13 +502,13 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Flag_of_North_Carolina.svg" title="wikilink">22px</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/チェルシー・クーリイ" title="wikilink">チェルシー・クーリイ</a></p></td>
 <td><p><a href="../Page/ノースカロライナ州.md" title="wikilink">ノースカロライナ州</a></p></td>
-<td><p><a href="../Page/メリーランド州.md" title="wikilink">メリーランド州</a><a href="https://ja.wikipedia.org/wiki/ボルチモア" title="wikilink">ボルチモア</a></p></td>
+<td><p><a href="../Page/メリーランド州.md" title="wikilink">メリーランド州</a><a href="../Page/ボルチモア.md" title="wikilink">ボルチモア</a></p></td>
 <td><p>トップ10 決勝進出</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ミスUSA2006" title="wikilink">2006</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Flag_of_Kentucky.svg" title="wikilink">22px</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/タラ・コナー" title="wikilink">タラ・コナー</a></p></td>
+<td><p><a href="../Page/タラ・コナー.md" title="wikilink">タラ・コナー</a></p></td>
 <td><p><a href="../Page/ケンタッキー州.md" title="wikilink">ケンタッキー州</a></p></td>
 <td><p>メリーランド州ボルチモア、<a href="https://ja.wikipedia.org/wiki/ファースト・マリナー・アリーナ" title="wikilink">ファースト・マリナー・アリーナ</a></p></td>
 <td><p>5位</p></td>
@@ -516,7 +516,7 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ミスUSA2007" title="wikilink">2007</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Flag_of_Tennessee.svg" title="wikilink">22px</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レイチェル・スミス" title="wikilink">レイチェル・スミス</a></p></td>
+<td><p><a href="../Page/レイチェル・スミス.md" title="wikilink">レイチェル・スミス</a></p></td>
 <td><p>テネシー州</p></td>
 <td><p>カリフォルニア州ロサンゼルス、コダック・シアター</p></td>
 <td><p>5位</p></td>
@@ -526,7 +526,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Flag_of_Texas.svg" title="wikilink">22px</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/クリストル・スチュワート" title="wikilink">クリストル・スチュワート</a></p></td>
 <td><p>テキサス州</p></td>
-<td><p>ネバダ州ラスベガス、<a href="https://ja.wikipedia.org/wiki/プラネット・ハリウッド・リゾート・アンド・カジノ" title="wikilink">プラネット・ハリウッド・リゾート・アンド・カジノ</a></p></td>
+<td><p>ネバダ州ラスベガス、<a href="../Page/プラネット・ハリウッド・リゾート・アンド・カジノ.md" title="wikilink">プラネット・ハリウッド・リゾート・アンド・カジノ</a></p></td>
 <td><p>トップ10 決勝進出</p></td>
 </tr>
 <tr class="odd">

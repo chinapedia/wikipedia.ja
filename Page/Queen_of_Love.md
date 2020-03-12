@@ -1,17 +1,17 @@
 > この記事は[Queen of Love](https://ja.wikipedia.org/wiki/Queen_of_Love)から翻訳されています。
 
 
-『**Queen of Love**』（クィーン・オブ・ラブ）は、[Wink](../Page/Wink.md "wikilink")の6枚目のオリジナル・アルバム。[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[7月10日](../Page/7月10日.md "wikilink")に[ポリスター](https://ja.wikipedia.org/wiki/ポリスター "wikilink")より発売された。
+『**Queen of Love**』（クィーン・オブ・ラブ）は、[Wink](../Page/Wink.md "wikilink")の6枚目のオリジナル・アルバム。[1991年](../Page/1991年.md "wikilink")[7月10日](../Page/7月10日.md "wikilink")に[ポリスター](../Page/ポリスター.md "wikilink")より発売された。
 
 ## 解説
 
   - 夏をイメージして作られたアルバム。
-  - 2018年8月22日\[1\]には、[レコチョク](https://ja.wikipedia.org/wiki/レコチョク "wikilink")、およびe-onkyo music（[オンキヨー](https://ja.wikipedia.org/wiki/オンキヨー "wikilink")）、[mora](https://ja.wikipedia.org/wiki/mora "wikilink")（[レーベルゲート](https://ja.wikipedia.org/wiki/レーベルゲート "wikilink")）などの音楽配信サイトで[ハイレゾ版](https://ja.wikipedia.org/wiki/ハイレゾリューションオーディオ "wikilink")（96[kHz](../Page/サンプリング周波数.md "wikilink")/24[bit](https://ja.wikipedia.org/wiki/量子 "wikilink")）を含むダウンロードアルバムの配信が開始された。
-  - 2018年復刻盤（CD:PSCR-6263、及び上記のダウンロード版）に収録された「[真夏のトレモロ](https://ja.wikipedia.org/wiki/真夏のトレモロ "wikilink")」は、[鈴木早智子](../Page/鈴木早智子.md "wikilink")と[相田翔子](https://ja.wikipedia.org/wiki/相田翔子 "wikilink")のソロパートが入れ替わったテイクである。購入者からの問い合わせに対する[ポリスター](https://ja.wikipedia.org/wiki/ポリスター "wikilink")の回答によれば、「今作はオリジナル・マスターテープよりマスタリングを施しており、歌のパートが従来のものとは逆になっている事は承知しております。従いまして、理由等はございません。」とされている\[2\]。
+  - 2018年8月22日\[1\]には、[レコチョク](https://ja.wikipedia.org/wiki/レコチョク "wikilink")、およびe-onkyo music（[オンキヨー](../Page/オンキヨー.md "wikilink")）、[mora](https://ja.wikipedia.org/wiki/mora "wikilink")（[レーベルゲート](../Page/レーベルゲート.md "wikilink")）などの音楽配信サイトで[ハイレゾ版](https://ja.wikipedia.org/wiki/ハイレゾリューションオーディオ "wikilink")（96[kHz](../Page/サンプリング周波数.md "wikilink")/24[bit](https://ja.wikipedia.org/wiki/量子 "wikilink")）を含むダウンロードアルバムの配信が開始された。
+  - 2018年復刻盤（CD:PSCR-6263、及び上記のダウンロード版）に収録された「[真夏のトレモロ](https://ja.wikipedia.org/wiki/真夏のトレモロ "wikilink")」は、[鈴木早智子](../Page/鈴木早智子.md "wikilink")と[相田翔子](https://ja.wikipedia.org/wiki/相田翔子 "wikilink")のソロパートが入れ替わったテイクである。購入者からの問い合わせに対する[ポリスター](../Page/ポリスター.md "wikilink")の回答によれば、「今作はオリジナル・マスターテープよりマスタリングを施しており、歌のパートが従来のものとは逆になっている事は承知しております。従いまして、理由等はございません。」とされている\[2\]。
 
 ## 収録曲
 
-※全編曲: [門倉聡](https://ja.wikipedia.org/wiki/門倉聡 "wikilink")
+※全編曲: [門倉聡](../Page/門倉聡.md "wikilink")
 
 1.  **[真夏のトレモロ](https://ja.wikipedia.org/wiki/真夏のトレモロ "wikilink") (Album Version)**
       - 作詞: [及川眠子](https://ja.wikipedia.org/wiki/及川眠子 "wikilink")、作曲: [工藤崇](https://ja.wikipedia.org/wiki/工藤崇 "wikilink")
@@ -21,7 +21,7 @@
       - 作詞・作曲: Roxanne Seeman・Joe Curiale、日本語詞: [江崎ひろ子](https://ja.wikipedia.org/wiki/江崎ひろ子 "wikilink")
           - 相田翔子ソロ
 4.  **一年前の恋人**
-      - 作詞: [竜真知子](https://ja.wikipedia.org/wiki/竜真知子 "wikilink")、作曲: [来生たかお](https://ja.wikipedia.org/wiki/来生たかお "wikilink")
+      - 作詞: [竜真知子](../Page/竜真知子.md "wikilink")、作曲: [来生たかお](https://ja.wikipedia.org/wiki/来生たかお "wikilink")
           - 鈴木早智子ソロ
 5.  **Fun Fun Fun**
       - 作詞・作曲: Brian Wilson・Mike Love、日本語詞: 及川眠子

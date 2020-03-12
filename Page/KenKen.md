@@ -1,44 +1,44 @@
 > この記事は[KenKen](https://ja.wikipedia.org/wiki/KenKen)から翻訳されています。
 
 
-**KenKen**（**ケンケン**、本名：金子 賢輔\[1\]（かねこ けんすけ）、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[12月30日](../Page/12月30日.md "wikilink")\[2\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ベーシスト](../Page/ベーシスト.md "wikilink") 。[血液型はAB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[世田谷区](https://ja.wikipedia.org/wiki/世田谷区 "wikilink")[下北沢](../Page/下北沢.md "wikilink")出身\[3\]。ロックバンド[RIZE](https://ja.wikipedia.org/wiki/RIZE "wikilink")のベーシスト。
+**KenKen**（**ケンケン**、本名：金子 賢輔\[1\]（かねこ けんすけ）、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[12月30日](../Page/12月30日.md "wikilink")\[2\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ベーシスト](../Page/ベーシスト.md "wikilink") 。[血液型はAB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[東京都](../Page/東京都.md "wikilink")[世田谷区](../Page/世田谷区.md "wikilink")[下北沢](../Page/下北沢.md "wikilink")出身\[3\]。ロックバンド[RIZE](../Page/RIZE.md "wikilink")のベーシスト。
 
 ## プロフィール
 
-父はドラマーの[ジョニー吉長](https://ja.wikipedia.org/wiki/ジョニー吉長 "wikilink")、母は歌手の[金子マリ](https://ja.wikipedia.org/wiki/金子マリ "wikilink")\[4\]、兄は[ドラマー](https://ja.wikipedia.org/wiki/ドラマー "wikilink")の[金子ノブアキという音楽一家で育つ](https://ja.wikipedia.org/wiki/金子統昭 "wikilink")\[5\]。[世田谷区立代沢小学校](https://ja.wikipedia.org/wiki/世田谷区立代沢小学校 "wikilink")に通い置いてあったドラムセットでドラムを始めるも、兄のライブでのドラムの上手さを見てドラムに飽き始めていた8歳の時に、兄と観ていた[チャド・スミス](https://ja.wikipedia.org/wiki/チャド・スミス "wikilink")([レッド・ホット・チリ・ペッパーズ](https://ja.wikipedia.org/wiki/レッド・ホット・チリ・ペッパーズ "wikilink"))のドラム教則ビデオで観た[フリーによる](https://ja.wikipedia.org/wiki/フリー_\(ミュージシャン\) "wikilink")[スラップ奏法](https://ja.wikipedia.org/wiki/スラップ奏法 "wikilink")に衝撃を受け、小学校に置いてあったベースで本格的にベースを始める\[6\] \[7\]。15歳の時に、[下北沢](../Page/下北沢.md "wikilink")の[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")を拠点にライブ活動を始める\[8\]。[2002年](../Page/2002年.md "wikilink")、17歳の頃から『[アトリエz](https://ja.wikipedia.org/wiki/アトリエ_Z "wikilink")/BK4 Kenkenシグネチャーモデル』の[プロトタイプ](https://ja.wikipedia.org/wiki/プロトタイプ "wikilink")を使用している\[9\]\[10\]。
+父はドラマーの[ジョニー吉長](../Page/ジョニー吉長.md "wikilink")、母は歌手の[金子マリ](../Page/金子マリ.md "wikilink")\[4\]、兄は[ドラマー](../Page/ドラマー.md "wikilink")の[金子ノブアキという音楽一家で育つ](https://ja.wikipedia.org/wiki/金子統昭 "wikilink")\[5\]。[世田谷区立代沢小学校](https://ja.wikipedia.org/wiki/世田谷区立代沢小学校 "wikilink")に通い置いてあったドラムセットでドラムを始めるも、兄のライブでのドラムの上手さを見てドラムに飽き始めていた8歳の時に、兄と観ていた[チャド・スミス](../Page/チャド・スミス.md "wikilink")([レッド・ホット・チリ・ペッパーズ](../Page/レッド・ホット・チリ・ペッパーズ.md "wikilink"))のドラム教則ビデオで観た[フリーによる](../Page/フリー_\(ミュージシャン\).md "wikilink")[スラップ奏法](../Page/スラップ奏法.md "wikilink")に衝撃を受け、小学校に置いてあったベースで本格的にベースを始める\[6\] \[7\]。15歳の時に、[下北沢](../Page/下北沢.md "wikilink")の[ライブハウス](../Page/ライブハウス.md "wikilink")を拠点にライブ活動を始める\[8\]。[2002年](../Page/2002年.md "wikilink")、17歳の頃から『[アトリエz](https://ja.wikipedia.org/wiki/アトリエ_Z "wikilink")/BK4 Kenkenシグネチャーモデル』の[プロトタイプ](../Page/プロトタイプ.md "wikilink")を使用している\[9\]\[10\]。
 
-数々のバンド活動やサポートを経て、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、『ベース・マガジン』（[リットー・ミュージック](https://ja.wikipedia.org/wiki/リットー・ミュージック "wikilink")）企画のオムニバスCDに参加。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")4月、兄のいる[RIZE](https://ja.wikipedia.org/wiki/RIZE "wikilink")に加入\[11\]。同年6月に[コロムビアミュージックエンタテインメント傘下のトライアドからソロ](../Page/日本コロムビア.md "wikilink")・アーティストとしてもメジャー・デビュー\[12\]。RIZE,Dragon Ash, KenKen of INVADERS, SPEEDER-X, WAGDUG FUTURISTIC UNITY, THE STALIN Z, 二枚舌などのバンドにて活動している。FUZZY CONTROLの元メンバー。
+数々のバンド活動やサポートを経て、[2005年](../Page/2005年.md "wikilink")、『ベース・マガジン』（[リットー・ミュージック](https://ja.wikipedia.org/wiki/リットー・ミュージック "wikilink")）企画のオムニバスCDに参加。[2006年](../Page/2006年.md "wikilink")4月、兄のいる[RIZE](../Page/RIZE.md "wikilink")に加入\[11\]。同年6月に[コロムビアミュージックエンタテインメント傘下のトライアドからソロ](../Page/日本コロムビア.md "wikilink")・アーティストとしてもメジャー・デビュー\[12\]。RIZE,Dragon Ash, KenKen of INVADERS, SPEEDER-X, WAGDUG FUTURISTIC UNITY, THE STALIN Z, 二枚舌などのバンドにて活動している。FUZZY CONTROLの元メンバー。
 
 原発問題・放射能問題についての団体「オペレーション・コドモタチ」の賛同者\[13\]。
 
 [2016年](../Page/2016年.md "wikilink")、[N高等学校](https://ja.wikipedia.org/wiki/N高等学校 "wikilink")に第一期生として入学\[14\]。
 
-2017年に[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")に移住。東京にも住居を残し、仕事によって行き来する生活を送っている\[15\]\[16\]\[17\]\[18\]\[19\]\[20\]\[21\]。
+2017年に[京都府](../Page/京都府.md "wikilink")に移住。東京にも住居を残し、仕事によって行き来する生活を送っている\[15\]\[16\]\[17\]\[18\]\[19\]\[20\]\[21\]。
 
 2019年7月19日午前、京都の自宅で、警視庁組織犯罪対策5課により、大麻取締法違反容疑で[現行犯逮捕された](https://ja.wikipedia.org/wiki/逮捕_\(日本法\)#現行犯逮捕 "wikilink")。同年8月14日、保釈金250万円を納付し保釈された\[22\]。同年10月16日、東京地裁の初公判で「間違いありません」と起訴内容を認めた。検察側は懲役6月を求刑、弁護側は執行猶予付きの判決を求めて即日結審した。10月30日の判決公判で裁判官は、懲役6月、執行猶予3年（求刑懲役6月）を言い渡した\[23\]。
 
 ## 評価
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")4月号『ベース・マガジン』の表紙を、過去最年少（21歳）で飾り、巻頭特集では「その実力が、若手筆頭と言っても過言でない」「若き低音のカリスマ」と紹介された\[24\]。同誌の2006年1月号2008年2月号2011年3月号でも他のベーシスト数名と共に表紙と巻頭特集に取り上げられているほか、2006年8月号、2007年7月号、12月号でも記事が掲載された\[25\]\[26\]。
+[2007年](../Page/2007年.md "wikilink")4月号『ベース・マガジン』の表紙を、過去最年少（21歳）で飾り、巻頭特集では「その実力が、若手筆頭と言っても過言でない」「若き低音のカリスマ」と紹介された\[24\]。同誌の2006年1月号2008年2月号2011年3月号でも他のベーシスト数名と共に表紙と巻頭特集に取り上げられているほか、2006年8月号、2007年7月号、12月号でも記事が掲載された\[25\]\[26\]。
 
-『ロック・ジェット』誌 Vol.28（2007年6月発売）にも、[レッド・ホット・チリ・ペッパーズ](https://ja.wikipedia.org/wiki/レッド・ホット・チリ・ペッパーズ "wikilink")への思いなどを語ったインタビュー記事が掲載された\[27\]。
+『ロック・ジェット』誌 Vol.28（2007年6月発売）にも、[レッド・ホット・チリ・ペッパーズ](../Page/レッド・ホット・チリ・ペッパーズ.md "wikilink")への思いなどを語ったインタビュー記事が掲載された\[27\]。
 
 ## 参加バンド
 
   - JERK EGGPLANT（2001年 - 2004年）
   - SUPER Goooooood\!（2002年 - ） - [高田エージ率いる総勢](https://ja.wikipedia.org/wiki/SUPER_BAD "wikilink")28人の大所帯バンド
   - 二枚舌（2002年 - ） - ATSUSHI（G,Vo）＝番長、[D.I.E.](../Page/D.I.E..md "wikilink")（Key）＝主任、[スティーブ・エトウ](https://ja.wikipedia.org/wiki/スティーブ・エトウ "wikilink")（Perc）＝監督、KenKen（B）＝若
-  - STARS（2002年 - 2004年） - [鮫島巧](https://ja.wikipedia.org/wiki/鮫島巧 "wikilink")（G）、[U-TA★ROCK](https://ja.wikipedia.org/wiki/山崎裕太 "wikilink")（Vo）、[川野直輝](https://ja.wikipedia.org/wiki/川野直輝 "wikilink")（Dr）と組んだバンド
+  - STARS（2002年 - 2004年） - [鮫島巧](../Page/鮫島巧.md "wikilink")（G）、[U-TA★ROCK](../Page/山崎裕太.md "wikilink")（Vo）、[川野直輝](../Page/川野直輝.md "wikilink")（Dr）と組んだバンド
   - Screaming Soul Hill（2005年）
-  - SHAG - [SUGIZO](https://ja.wikipedia.org/wiki/SUGIZO "wikilink")のバンド
-  - [RIZE](https://ja.wikipedia.org/wiki/RIZE "wikilink")（2006年4月 - ）
+  - SHAG - [SUGIZO](../Page/SUGIZO.md "wikilink")のバンド
+  - [RIZE](../Page/RIZE.md "wikilink")（2006年4月 - ）
   - [KENKEN of INVADERS](https://ja.wikipedia.org/wiki/KENKEN_of_INVADERS "wikilink") - KenKenのソロ活動のバンド
   - TORCERSE（トルセルセ） - 実兄である金子ノブアキとのユニット
-  - [SPEEDER-X](https://ja.wikipedia.org/wiki/SPEEDER-X "wikilink")（2009年 - ） - [中村達也とのセッションユニット](https://ja.wikipedia.org/wiki/中村達也_\(ドラマー\) "wikilink")
-  - [FUZZY CONTROL](https://ja.wikipedia.org/wiki/FUZZY_CONTROL "wikilink") - 結成時のメンバーであったが諸事情で脱退している。
-  - [Dragon Ash](https://ja.wikipedia.org/wiki/Dragon_Ash "wikilink") - サポートメンバー\[28\]。馬場育三が療養中および逝去後、ライブやレコーディングに参加している。
+  - [SPEEDER-X](https://ja.wikipedia.org/wiki/SPEEDER-X "wikilink")（2009年 - ） - [中村達也とのセッションユニット](../Page/中村達也_\(ドラマー\).md "wikilink")
+  - [FUZZY CONTROL](../Page/FUZZY_CONTROL.md "wikilink") - 結成時のメンバーであったが諸事情で脱退している。
+  - [Dragon Ash](../Page/Dragon_Ash.md "wikilink") - サポートメンバー\[28\]。馬場育三が療養中および逝去後、ライブやレコーディングに参加している。
   - [LIFE IS GROOVE](https://ja.wikipedia.org/wiki/LIFE_IS_GROOVE_\(バンド\) "wikilink") - 2013年結成のスピードファンクバンド。KenKen（B,Vo）、[ムッシュかまやつ](https://ja.wikipedia.org/wiki/ムッシュかまやつ "wikilink")（G,Vo）、[山岸竜之介](https://ja.wikipedia.org/wiki/山岸竜之介 "wikilink")（G,Vo）\[29\]
-  - [獄門島一家](https://ja.wikipedia.org/wiki/獄門島一家 "wikilink")（2013年 - ） - [アヴちゃん](https://ja.wikipedia.org/wiki/女王蜂_\(バンド\) "wikilink")（Vo）、[長岡亮介](https://ja.wikipedia.org/wiki/長岡亮介_\(ギタリスト\) "wikilink")（G）、中村達也（Dr）、KenKen（B）\[30\]
+  - [獄門島一家](https://ja.wikipedia.org/wiki/獄門島一家 "wikilink")（2013年 - ） - [アヴちゃん](https://ja.wikipedia.org/wiki/女王蜂_\(バンド\) "wikilink")（Vo）、[長岡亮介](../Page/長岡亮介_\(ギタリスト\).md "wikilink")（G）、中村達也（Dr）、KenKen（B）\[30\]
 
 ## 作品
 
@@ -51,9 +51,9 @@
 
 ### 映画
 
-  - [一遍上人](https://ja.wikipedia.org/wiki/一遍上人 "wikilink")（2012年、[秋原北胤監督](https://ja.wikipedia.org/wiki/秋原正俊 "wikilink")） - 武士 役
+  - [一遍上人](https://ja.wikipedia.org/wiki/一遍上人 "wikilink")（2012年、[秋原北胤監督](../Page/秋原正俊.md "wikilink")） - 武士 役
   - [モンスターズクラブ](https://ja.wikipedia.org/wiki/モンスターズクラブ "wikilink")（2012年、[豊田利晃](../Page/豊田利晃.md "wikilink")監督） - 垣内ケンタ 役
-  - [音量を上げろタコ\!なに歌ってんのか全然わかんねぇんだよ\!\!](https://ja.wikipedia.org/wiki/音量を上げろタコ!なに歌ってんのか全然わかんねぇんだよ!! "wikilink")（2018年、[三木聡](https://ja.wikipedia.org/wiki/三木聡 "wikilink")監督） - 劇中バンド「SIN+EX MACHiNA」のメンバーとして\[31\]
+  - [音量を上げろタコ\!なに歌ってんのか全然わかんねぇんだよ\!\!](https://ja.wikipedia.org/wiki/音量を上げろタコ!なに歌ってんのか全然わかんねぇんだよ!! "wikilink")（2018年、[三木聡](../Page/三木聡.md "wikilink")監督） - 劇中バンド「SIN+EX MACHiNA」のメンバーとして\[31\]
 
 ### テレビ
 
@@ -72,7 +72,7 @@
 ### CM
 
   - [サントリー](../Page/サントリー.md "wikilink")「ペプシ Jコーラ」（2018年4月17日 - ）
-      - 『怪物舞踏団』の一員として、[石川さゆり](https://ja.wikipedia.org/wiki/石川さゆり "wikilink")、[SUGIZO](https://ja.wikipedia.org/wiki/SUGIZO "wikilink")、[DJ RENA](https://ja.wikipedia.org/wiki/DJ_RENA "wikilink")\[40\]、[にゃんごすたー](https://ja.wikipedia.org/wiki/にゃんごすたー "wikilink")とともに出演\[41\]
+      - 『怪物舞踏団』の一員として、[石川さゆり](../Page/石川さゆり.md "wikilink")、[SUGIZO](../Page/SUGIZO.md "wikilink")、[DJ RENA](https://ja.wikipedia.org/wiki/DJ_RENA "wikilink")\[40\]、[にゃんごすたー](https://ja.wikipedia.org/wiki/にゃんごすたー "wikilink")とともに出演\[41\]
 
 ## 参加
 
@@ -89,16 +89,16 @@
 ## 関連アーティスト
 
   - [Char](../Page/Char.md "wikilink")
-  - [ジョニー吉長](https://ja.wikipedia.org/wiki/ジョニー吉長 "wikilink") - 父親
-  - [金子マリ](https://ja.wikipedia.org/wiki/金子マリ "wikilink") - 母親
-  - [SUGIZO](https://ja.wikipedia.org/wiki/SUGIZO "wikilink") & THE SPANKY YOUR JUICE
+  - [ジョニー吉長](../Page/ジョニー吉長.md "wikilink") - 父親
+  - [金子マリ](../Page/金子マリ.md "wikilink") - 母親
+  - [SUGIZO](../Page/SUGIZO.md "wikilink") & THE SPANKY YOUR JUICE
   - うつみようこ（元[ソウル・フラワー・ユニオン](https://ja.wikipedia.org/wiki/ソウル・フラワー・ユニオン "wikilink")）バンド ライブサポート
-  - [田村直美](https://ja.wikipedia.org/wiki/田村直美 "wikilink") - ライブサポート\[49\]
+  - [田村直美](../Page/田村直美.md "wikilink") - ライブサポート\[49\]
   - 244 ENDLI-x / 剛紫 / [堂本剛](../Page/堂本剛.md "wikilink") - ライヴサポートや音楽番組出演時にバンドとして演奏\[50\]\[51\]
 
 ## 参考文献
 
-  - 『KenKen interviews 2004--2014-LIFE IS GROOVE-』(KenKen(著)、ベース・マガジン編集部(編集)、[リットーミュージック](https://ja.wikipedia.org/wiki/リットーミュージック "wikilink")(2014年10月20日))
+  - 『KenKen interviews 2004--2014-LIFE IS GROOVE-』(KenKen(著)、ベース・マガジン編集部(編集)、[リットーミュージック](../Page/リットーミュージック.md "wikilink")(2014年10月20日))
 
 ## 脚注
 
@@ -118,7 +118,7 @@
 3.
 4.
 5.
-6.  [『KenKen interviews 2004--2014-LIFE IS GROOVE-』](http://www.rittor-music.co.jp/e/kenken/)KenKen(著),ベース・マガジン編集部(編集),[リットーミュージック](https://ja.wikipedia.org/wiki/リットーミュージック "wikilink")(2014年10月20日).2019年04月17日閲覧。
+6.  [『KenKen interviews 2004--2014-LIFE IS GROOVE-』](http://www.rittor-music.co.jp/e/kenken/)KenKen(著),ベース・マガジン編集部(編集),[リットーミュージック](../Page/リットーミュージック.md "wikilink")(2014年10月20日).2019年04月17日閲覧。
 7.  [ハマ・オカモト＆KenKen、リズム隊に着目した音楽番組でセッション](https://rockinon.com/news/detail/119020)
 8.
 9.

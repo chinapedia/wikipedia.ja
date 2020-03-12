@@ -1,13 +1,13 @@
 > この記事は[J.BOY \(\)](https://ja.wikipedia.org/wiki/J.BOY_\(\))から翻訳されています。
 
 
-『**J.BOY**』（ジェー・ボーイ）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に発表された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[浜田省吾](https://ja.wikipedia.org/wiki/浜田省吾 "wikilink")の2枚組[アルバム](../Page/アルバム.md "wikilink")。発売当時は[CD盤](../Page/コンパクトディスク.md "wikilink")、[アナログ盤](../Page/レコード.md "wikilink")、[カセット盤の](../Page/カセットテープ.md "wikilink")3形態で発売された。浜田にとって初の[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を獲得した作品。
+『**J.BOY**』（ジェー・ボーイ）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に発表された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[浜田省吾](https://ja.wikipedia.org/wiki/浜田省吾 "wikilink")の2枚組[アルバム](../Page/アルバム.md "wikilink")。発売当時は[CD盤](../Page/コンパクトディスク.md "wikilink")、[アナログ盤](../Page/レコード.md "wikilink")、[カセット盤の](../Page/カセットテープ.md "wikilink")3形態で発売された。浜田にとって初の[オリコンチャート](../Page/オリコンチャート.md "wikilink")1位を獲得した作品。
 
 ## 概要
 
-[アメリカで](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[トラックダウン](https://ja.wikipedia.org/wiki/トラックダウン "wikilink")が行われ、浜田の希望により、[ジャクソン・ブラウン](https://ja.wikipedia.org/wiki/ジャクソン・ブラウン "wikilink")、[TOTO](https://ja.wikipedia.org/wiki/TOTO_\(バンド\) "wikilink")、[ドン・ヘンリー](../Page/ドン・ヘンリー.md "wikilink")などの作品を手掛けた[エンジニア](https://ja.wikipedia.org/wiki/エンジニア "wikilink")の[グレッグ・ラダニー](https://ja.wikipedia.org/wiki/グレッグ・ラダニー "wikilink")がミックスを担当している。
+[アメリカで](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[トラックダウン](https://ja.wikipedia.org/wiki/トラックダウン "wikilink")が行われ、浜田の希望により、[ジャクソン・ブラウン](../Page/ジャクソン・ブラウン.md "wikilink")、[TOTO](../Page/TOTO_\(バンド\).md "wikilink")、[ドン・ヘンリー](../Page/ドン・ヘンリー.md "wikilink")などの作品を手掛けた[エンジニア](https://ja.wikipedia.org/wiki/エンジニア "wikilink")の[グレッグ・ラダニー](https://ja.wikipedia.org/wiki/グレッグ・ラダニー "wikilink")がミックスを担当している。
 
-アメリカでトラックダウンが終わった際、ソニーの[ディレクター](../Page/ディレクター.md "wikilink")の[須藤晃](../Page/須藤晃.md "wikilink")、[尾崎豊](../Page/尾崎豊.md "wikilink")、[辻仁成](../Page/辻仁成.md "wikilink")（[ECHOES](https://ja.wikipedia.org/wiki/ECHOES "wikilink")）等と共に食事に出掛けた。出来上がったばかりのテープを聴いた尾崎が「僕のことを歌ってるみたいだ」と話し、浜田も「そうだよ。君のことを歌ってるんだよ」と答えたエピソードがある。
+アメリカでトラックダウンが終わった際、ソニーの[ディレクター](../Page/ディレクター.md "wikilink")の[須藤晃](../Page/須藤晃.md "wikilink")、[尾崎豊](../Page/尾崎豊.md "wikilink")、[辻仁成](../Page/辻仁成.md "wikilink")（[ECHOES](../Page/ECHOES.md "wikilink")）等と共に食事に出掛けた。出来上がったばかりのテープを聴いた尾崎が「僕のことを歌ってるみたいだ」と話し、浜田も「そうだよ。君のことを歌ってるんだよ」と答えたエピソードがある。
 
 タイトルの「J.BOY」とは浜田自身の造語であり、「**[Japanese](https://ja.wikipedia.org/wiki/日本人 "wikilink") [Boy](../Page/少年.md "wikilink")**」という意味の略語である。浜田自身、『[月刊カドカワ](../Page/月刊カドカワ.md "wikilink")』[1994年](../Page/1994年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")号のインタビューで、「『J.BOY』を発表して以来、その後世の中、[JR](../Page/JR.md "wikilink")や[J-WAVE](../Page/J-WAVE.md "wikilink")だ、[Jリーグだと](../Page/日本プロサッカーリーグ.md "wikilink")、やたらJをつけたがるようになったね。[ナショナリズム](../Page/ナショナリズム.md "wikilink")の匂いもするね」と述べている\[1\]。
 
@@ -19,7 +19,7 @@
 
 [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に最初の[CD再発盤が発売された](../Page/コンパクトディスク.md "wikilink")。
 
-その後、[1999年](../Page/1999年.md "wikilink")に[リマスタリング](https://ja.wikipedia.org/wiki/マスタリング#リマスタリング "wikilink")、[リミックス](../Page/リミックス.md "wikilink")、[リアレンジメントされて再発された](../Page/編曲.md "wikilink")。音質向上だけではなく、演奏面にも手が加えられている。この再発盤にはクレジットはないが、[シークレット・トラックとしてDISC](https://ja.wikipedia.org/wiki/隠しトラック "wikilink") 2のエンディングに歌入りの「晩夏の鐘」が収録されている。
+その後、[1999年](../Page/1999年.md "wikilink")に[リマスタリング](https://ja.wikipedia.org/wiki/マスタリング#リマスタリング "wikilink")、[リミックス](../Page/リミックス.md "wikilink")、[リアレンジメントされて再発された](../Page/編曲.md "wikilink")。音質向上だけではなく、演奏面にも手が加えられている。この再発盤にはクレジットはないが、[シークレット・トラックとしてDISC](../Page/隠しトラック.md "wikilink") 2のエンディングに歌入りの「晩夏の鐘」が収録されている。
 
 [2016年](../Page/2016年.md "wikilink")[11月9日](../Page/11月9日.md "wikilink")\[3\] に、『J.BOY』発売30周年を記念して制作された『**"J.BOY" 30th Anniversary Box**』と『**"J.BOY" 30th Anniversary Edition**』が発売された。
 
@@ -29,7 +29,7 @@
 
 1.  **A NEW STYLE WAR**
       -
-        <small>（作詞・作曲：[浜田省吾](https://ja.wikipedia.org/wiki/浜田省吾 "wikilink")、編曲：浜田省吾, [古村敏比古](https://ja.wikipedia.org/wiki/古村敏比古 "wikilink") and 板倉雅一）</small>
+        <small>（作詞・作曲：[浜田省吾](https://ja.wikipedia.org/wiki/浜田省吾 "wikilink")、編曲：浜田省吾, [古村敏比古](../Page/古村敏比古.md "wikilink") and 板倉雅一）</small>
 2.  **[BIG BOY BLUES](https://ja.wikipedia.org/wiki/BIG_BOY_BLUES "wikilink")**
       -
         <small>（作詞・作曲：浜田省吾、編曲：板倉雅一）</small>
@@ -92,12 +92,12 @@
       -
         <small>（作詞・作曲：浜田省吾、編曲：板倉雅一 and 江澤宏明）</small>
     <!-- end list -->
-      - アルバムのタイトル曲であり、現在に至るまで[ライブでほぼ必ず歌われる](https://ja.wikipedia.org/wiki/演奏会 "wikilink")。
+      - アルバムのタイトル曲であり、現在に至るまで[ライブでほぼ必ず歌われる](../Page/演奏会.md "wikilink")。
 8.  **滑走路 - 夕景**
       -
         <small>（作曲：浜田省吾、編曲：板倉雅一）</small>
     <!-- end list -->
-      - 元々は[井上鑑](https://ja.wikipedia.org/wiki/井上鑑 "wikilink")に提供していた楽曲で、[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")となる。歌詞はないが、浜田による語りが入っている。
+      - 元々は[井上鑑](../Page/井上鑑.md "wikilink")に提供していた楽曲で、[セルフカバー](../Page/セルフカバー.md "wikilink")となる。歌詞はないが、浜田による語りが入っている。
 
 ## "J.BOY" 30th Anniversary Box / Edition
 
@@ -105,7 +105,7 @@
 
 『J.BOY』の発売から30周年を記念して発売された本作は、2万セット限定生産の『"J.BOY" 30th Anniversary Box』と完全生産限定盤の『"J.BOY" 30th Anniversary Edition』の2形態で発売。
 
-『30th Anniversary Box』には、30cmサイズのBOXパッケージに、[1999年](../Page/1999年.md "wikilink")に[リミックス](../Page/リミックス.md "wikilink")された音源の[2016年](../Page/2016年.md "wikilink")リマスター[CD盤](../Page/コンパクトディスク.md "wikilink")2枚と、1986年に発売されたオリジナル音源の2016年リマスター[LP盤](https://ja.wikipedia.org/wiki/レコード#LP盤 "wikilink")2枚、同年に開催されたコンサートツアー『ON THE ROAD '86 "I'm a J.BOY"』より、[東京](../Page/東京.md "wikilink")・[国立代々木競技場](https://ja.wikipedia.org/wiki/国立代々木競技場 "wikilink")第一体育館のライブ映像を収録した[DVD](../Page/DVD.md "wikilink")2枚、[プロモーション](https://ja.wikipedia.org/wiki/プロモーション "wikilink")用の片面シングル「[J.BOY](https://ja.wikipedia.org/wiki/J.BOY_\(曲\) "wikilink")」の[アナログ7インチドーナツ盤の復刻盤で計](https://ja.wikipedia.org/wiki/レコード#EP盤 "wikilink")7枚に、[カラーフォトブックレットなどの特典を封入](../Page/写真集.md "wikilink")。
+『30th Anniversary Box』には、30cmサイズのBOXパッケージに、[1999年](../Page/1999年.md "wikilink")に[リミックス](../Page/リミックス.md "wikilink")された音源の[2016年](../Page/2016年.md "wikilink")リマスター[CD盤](../Page/コンパクトディスク.md "wikilink")2枚と、1986年に発売されたオリジナル音源の2016年リマスター[LP盤](https://ja.wikipedia.org/wiki/レコード#LP盤 "wikilink")2枚、同年に開催されたコンサートツアー『ON THE ROAD '86 "I'm a J.BOY"』より、[東京](../Page/東京.md "wikilink")・[国立代々木競技場](../Page/国立代々木競技場.md "wikilink")第一体育館のライブ映像を収録した[DVD](../Page/DVD.md "wikilink")2枚、[プロモーション](https://ja.wikipedia.org/wiki/プロモーション "wikilink")用の片面シングル「[J.BOY](https://ja.wikipedia.org/wiki/J.BOY_\(曲\) "wikilink")」の[アナログ7インチドーナツ盤の復刻盤で計](https://ja.wikipedia.org/wiki/レコード#EP盤 "wikilink")7枚に、[カラーフォトブックレットなどの特典を封入](../Page/写真集.md "wikilink")。
 
 『Anniversary Edition』には、[A4](https://ja.wikipedia.org/wiki/A4 "wikilink")サイズ変形版三方背ケース仕様に、1999年にリミックスされた音源の2016年リマスターCD盤2枚と、[DVD](../Page/DVD.md "wikilink")2枚、カラーフォトブックレットを封入して発売された。
 
@@ -198,7 +198,7 @@
   -
     Performed by Shogo Hamada & [The Fuse](https://ja.wikipedia.org/wiki/THE_FUSE "wikilink")
       -
-        at [Yoyogi Olympic Pool](https://ja.wikipedia.org/wiki/国立代々木競技場 "wikilink"), [October 5th](../Page/10月5日.md "wikilink") [1986](https://ja.wikipedia.org/wiki/1986年 "wikilink")
+        at [Yoyogi Olympic Pool](../Page/国立代々木競技場.md "wikilink"), [October 5th](../Page/10月5日.md "wikilink") [1986](https://ja.wikipedia.org/wiki/1986年 "wikilink")
 
 **SUPPLEMENTAL DISC**
 
@@ -217,7 +217,7 @@
   - Drums：高橋伸之
   - Keyboards & Synthesizers：板倉雅一
   - Bass & Synthesizer：江澤宏明
-  - Saxophones & Flute：[古村敏比古](https://ja.wikipedia.org/wiki/古村敏比古 "wikilink")
+  - Saxophones & Flute：[古村敏比古](../Page/古村敏比古.md "wikilink")
 
 ### Disc1
 
@@ -273,7 +273,7 @@
 
   - Vocal Arranged by 町支寛二
   - Guitars：松原正樹
-  - Synthesizers：[佐藤準](https://ja.wikipedia.org/wiki/佐藤準 "wikilink")
+  - Synthesizers：[佐藤準](../Page/佐藤準.md "wikilink")
   - Organ：福田裕彦
   - Percussion：Pecker
 
@@ -319,7 +319,7 @@
 
 **SWEET LITTLE DARLIN**'
 
-  - Horn Arranged by [古村敏比古](https://ja.wikipedia.org/wiki/古村敏比古 "wikilink")
+  - Horn Arranged by [古村敏比古](../Page/古村敏比古.md "wikilink")
   - Vocal Arranged by 町支寛二
   - Organ：小島良喜
   - Percussion：Pecker

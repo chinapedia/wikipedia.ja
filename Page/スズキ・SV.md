@@ -9,23 +9,23 @@
 
 [SUZUKI_SV_400S_2007-10-20.jpg](https://ja.wikipedia.org/wiki/File:SUZUKI_SV_400S_2007-10-20.jpg "fig:SUZUKI_SV_400S_2007-10-20.jpg") [SUZUKI_SV400.jpg](https://ja.wikipedia.org/wiki/File:SUZUKI_SV400.jpg "fig:SUZUKI_SV400.jpg")
 
-SV400は[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に発売された。[4ストローク](../Page/4ストローク機関.md "wikilink")[水冷](https://ja.wikipedia.org/wiki/水冷エンジン "wikilink")90度[V型2気筒](../Page/V型2気筒.md "wikilink")[エンジンを搭載しており](https://ja.wikipedia.org/wiki/レシプロエンジン "wikilink")、スポーツ性を強調したハーフカウルモデルであるSV400Sと、タウンユースを優先した[ネイキッドモデルのSV](../Page/ネイキッド_\(オートバイ\).md "wikilink")400の2種類がある。
+SV400は[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に発売された。[4ストローク](../Page/4ストローク機関.md "wikilink")[水冷](../Page/水冷エンジン.md "wikilink")90度[V型2気筒](../Page/V型2気筒.md "wikilink")[エンジンを搭載しており](https://ja.wikipedia.org/wiki/レシプロエンジン "wikilink")、スポーツ性を強調したハーフカウルモデルであるSV400Sと、タウンユースを優先した[ネイキッドモデルのSV](../Page/ネイキッド_\(オートバイ\).md "wikilink")400の2種類がある。
 
-当初は前輪ブレーキがシングルディスクであったが、SV400Sは[2000年](../Page/2000年.md "wikilink")、SV400は[2002年](../Page/2002年.md "wikilink")にダブルディスクに変更された。定価はSのほうが9万円以上高かった。共に[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")12月をもって生産終了となる。
+当初は前輪ブレーキがシングルディスクであったが、SV400Sは[2000年](../Page/2000年.md "wikilink")、SV400は[2002年](../Page/2002年.md "wikilink")にダブルディスクに変更された。定価はSのほうが9万円以上高かった。共に[2006年](../Page/2006年.md "wikilink")12月をもって生産終了となる。
 
 なお[2009年](../Page/2009年.md "wikilink")に発売された[グラディウスが後継車種にあたる](https://ja.wikipedia.org/wiki/スズキ・グラディウス "wikilink")。
 
 ### SV1000 / S
 
-[thumb](https://ja.wikipedia.org/wiki/画像:Suzuki_SV1000S.jpg "wikilink") SV1000Sは[2003年](../Page/2003年.md "wikilink")に発売された。以前発売されていた[フューエルインジェクション (FI)採用の同型エンジン搭載車である](../Page/燃料噴射装置.md "wikilink")[TL1000S/Rの評価が良くなかったことから](../Page/スズキ・TL.md "wikilink")、イメージを一新させるため角調の斬新な車体デザインとなっている。後に下位車種と同じようにネイキッドモデルのSV1000も発売されたが、先に生産が終了されSV1000Sのみに一本化された。 また、400や650と異なり、エンジンには[セミカムギアトレーンを採用している](https://ja.wikipedia.org/wiki/カムギアトレーン#セミカムギアトレーン "wikilink")。 なお当時の[馬力規制により日本仕様は](https://ja.wikipedia.org/wiki/自動車馬力規制 "wikilink")94psとなっていたが、欧州仕様では120psまで発生させていた。
+[thumb](https://ja.wikipedia.org/wiki/画像:Suzuki_SV1000S.jpg "wikilink") SV1000Sは[2003年](../Page/2003年.md "wikilink")に発売された。以前発売されていた[フューエルインジェクション (FI)採用の同型エンジン搭載車である](../Page/燃料噴射装置.md "wikilink")[TL1000S/Rの評価が良くなかったことから](../Page/スズキ・TL.md "wikilink")、イメージを一新させるため角調の斬新な車体デザインとなっている。後に下位車種と同じようにネイキッドモデルのSV1000も発売されたが、先に生産が終了されSV1000Sのみに一本化された。 また、400や650と異なり、エンジンには[セミカムギアトレーンを採用している](https://ja.wikipedia.org/wiki/カムギアトレーン#セミカムギアトレーン "wikilink")。 なお当時の[馬力規制により日本仕様は](../Page/自動車馬力規制.md "wikilink")94psとなっていたが、欧州仕様では120psまで発生させていた。
 
-400と同じく日本仕様は[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")12月に生産終了となった。輸出仕様も2008年に姿を消している。
+400と同じく日本仕様は[2006年](../Page/2006年.md "wikilink")12月に生産終了となった。輸出仕様も2008年に姿を消している。
 
 ### SV650 / S
 
 SV650は[1999年](../Page/1999年.md "wikilink")に発売された。当初は400の排気量上位版として、400同様にSV650SとSV650の2車種を発売したが、人気が芳しくなく国内ではそのまま販売終了となった。
 
-しかし輸出先での欧州では人気が高かったことから、後にモデルチェンジを受け1000の排気量下位版として車体構成やエンジンが一新され、K7型からはABS仕様も追加された。また、SV650系エンジンはイタリア・[カジバ](https://ja.wikipedia.org/wiki/カジバ "wikilink")のRAPTOR650にも搭載されている。
+しかし輸出先での欧州では人気が高かったことから、後にモデルチェンジを受け1000の排気量下位版として車体構成やエンジンが一新され、K7型からはABS仕様も追加された。また、SV650系エンジンはイタリア・[カジバ](../Page/カジバ.md "wikilink")のRAPTOR650にも搭載されている。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月30日](../Page/9月30日.md "wikilink")にSV650系エンジンを使用するネイキッドモデルの新型車となる[グラディウス](https://ja.wikipedia.org/wiki/スズキ・グラディウス "wikilink")（英:Gladius, SFV650）が発表されたが、SV650Sは[2011年](../Page/2011年.md "wikilink")以降も併売された。
 
@@ -33,13 +33,13 @@ Image:Suzuki sv650s 1.JPG|Suzuki SV650S（旧デザイン） Image:Suzuki sv650s
 
 ### 2016年モデル
 
-[2015年](../Page/2015年.md "wikilink")にはネイキッドスタイルで[ABS仕様も加えた](https://ja.wikipedia.org/wiki/アンチロック・ブレーキ・システム "wikilink") **SV650/A** としてフルモデルチェンジされ\[1\]、日本仕様は[2016年](../Page/2016年.md "wikilink")[8月11日](../Page/8月11日.md "wikilink")より **SV650 ABS** として発売された。
+[2015年](../Page/2015年.md "wikilink")にはネイキッドスタイルで[ABS仕様も加えた](../Page/アンチロック・ブレーキ・システム.md "wikilink") **SV650/A** としてフルモデルチェンジされ\[1\]、日本仕様は[2016年](../Page/2016年.md "wikilink")[8月11日](../Page/8月11日.md "wikilink")より **SV650 ABS** として発売された。
 
 エンジンはグラディウス650に搭載していたものを欧州EURO4排出ガス規制（日本の[平成28年規制と同等](../Page/自動車排出ガス規制.md "wikilink")）対応のため改良し、また極低回転域での補助を行う「ローRPMアシスト」を搭載した。車体もグラディウスからの改良で大幅に軽量化されている\[2\]。 {{-}}
 
 ### SV650X
 
-[2017年](../Page/2017年.md "wikilink")の[東京モーターショー](../Page/東京モーターショー.md "wikilink")において世界初出展の参考出品車でカフェレーサースタイルのメーカーカスタマイズモデルである。同年、ミラノで開催されている[EICMA](https://ja.wikipedia.org/wiki/EICMA "wikilink")において[2018年](../Page/2018年.md "wikilink")初頭にヨーロッパなどでの販売を予定していることが発表された\[3\]。
+[2017年](../Page/2017年.md "wikilink")の[東京モーターショー](../Page/東京モーターショー.md "wikilink")において世界初出展の参考出品車でカフェレーサースタイルのメーカーカスタマイズモデルである。同年、ミラノで開催されている[EICMA](../Page/EICMA.md "wikilink")において[2018年](../Page/2018年.md "wikilink")初頭にヨーロッパなどでの販売を予定していることが発表された\[3\]。
 
 ## 脚注
 

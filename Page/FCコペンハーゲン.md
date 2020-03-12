@@ -1,7 +1,7 @@
 > この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
 
 
-**FCコペンハーゲン**（, **）は、[デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")の首都[コペンハーゲン](https://ja.wikipedia.org/wiki/コペンハーゲン "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
+**FCコペンハーゲン**（, **）は、[デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")の首都[コペンハーゲン](../Page/コペンハーゲン.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
 
 [1992年](../Page/1992年.md "wikilink")に「コペンハーゲン・ボルドクラブ」と「ボルドクルッベン1903」が合併して誕生した。
 
@@ -202,7 +202,7 @@
 <td><p><a href="../Page/UEFAチャンピオンズリーグ_2007-08.md" title="wikilink">チャンピオンズリーグ</a> 予選3回戦敗退<br />
 <a href="https://ja.wikipedia.org/wiki/UEFAカップ_2007-08" title="wikilink">UEFAカップ</a> グループステージ敗退</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マルクス・アルベック" title="wikilink">マルクス・アルベック</a><br />
+<td><p><a href="../Page/マルクス・アルベック.md" title="wikilink">マルクス・アルベック</a><br />
 <a href="https://ja.wikipedia.org/wiki/モルテン・ノルストラン" title="wikilink">モルテン・ノルストラン</a></p></td>
 </tr>
 <tr class="odd">
@@ -387,9 +387,9 @@
 
   - [アラン・ニールセン](https://ja.wikipedia.org/wiki/アラン・ニールセン "wikilink") 1994-1995
 
-  - [クリスティアン・ポウルセン](https://ja.wikipedia.org/wiki/クリスティアン・ポウルセン "wikilink") 2000-2002
+  - [クリスティアン・ポウルセン](../Page/クリスティアン・ポウルセン.md "wikilink") 2000-2002
 
-  - [トビアス・リンデロート](https://ja.wikipedia.org/wiki/トビアス・リンデロート "wikilink") 2004-2007
+  - [トビアス・リンデロート](../Page/トビアス・リンデロート.md "wikilink") 2004-2007
 
   - [イェスパー・グレンケア](../Page/イェスパー・グレンケア.md "wikilink") 2006-2011
 
@@ -399,13 +399,13 @@
 
   - [ケネス・ペレス](../Page/ケネス・ペレス.md "wikilink") 1995-1997
 
-  - [ブライアン・ラウドルップ](https://ja.wikipedia.org/wiki/ブライアン・ラウドルップ "wikilink") 1998-1999
+  - [ブライアン・ラウドルップ](../Page/ブライアン・ラウドルップ.md "wikilink") 1998-1999
 
   - [ニクラス・ベントナー](../Page/ニクラス・ベントナー.md "wikilink") 2002-2004
 
   - [アルバロ・サントス](https://ja.wikipedia.org/wiki/アルバロ・サントス "wikilink") 2003-2006
 
-  - [マルクス・アルベック](https://ja.wikipedia.org/wiki/マルクス・アルベック "wikilink") 2005-2008
+  - [マルクス・アルベック](../Page/マルクス・アルベック.md "wikilink") 2005-2008
 
   - [セーザル・サンチン](https://ja.wikipedia.org/wiki/セーザル・サンチン "wikilink") 2008-2013
 

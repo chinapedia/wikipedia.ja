@@ -9,7 +9,7 @@
 
 ## 音楽性
 
-[メロディック・ハードコア](../Page/メロディック・ハードコア.md "wikilink")を基調としつつ、アコースティックサウンドも取り入れ、親交を持ち共作も行っている[ヒダカトオル](https://ja.wikipedia.org/wiki/ヒダカトオル "wikilink")（[BEAT CRUSADERS](https://ja.wikipedia.org/wiki/BEAT_CRUSADERS "wikilink")）は「アコースティックギターで[モッシュ](https://ja.wikipedia.org/wiki/モッシュ "wikilink")を起こす唯一のバンド」と評している\[4\]。
+[メロディック・ハードコア](../Page/メロディック・ハードコア.md "wikilink")を基調としつつ、アコースティックサウンドも取り入れ、親交を持ち共作も行っている[ヒダカトオル](https://ja.wikipedia.org/wiki/ヒダカトオル "wikilink")（[BEAT CRUSADERS](../Page/BEAT_CRUSADERS.md "wikilink")）は「アコースティックギターで[モッシュ](../Page/モッシュ.md "wikilink")を起こす唯一のバンド」と評している\[4\]。
 
 ## メンバー
 
@@ -26,7 +26,7 @@
     使用ドラムは、[DWのドラムセット](https://ja.wikipedia.org/wiki/ドラム・ワークショップ "wikilink")。
   - 原 直央（BASS & VOCAL）
     元[SHORT CIRCUITのベース](https://ja.wikipedia.org/wiki/SHORT_CIRCUIT_\(バンド\) "wikilink")・ボーカル。
-    2007年の[BEAT CRUSADERSとのSPLIT](https://ja.wikipedia.org/wiki/BEAT_CRUSADERS "wikilink") TOUR 2007「NIGHT ON THE PLANETARIUM」にサポートベーシストとして参加が決定したことをきっかけに、1月25日に正式にバンドに加入。
+    2007年の[BEAT CRUSADERSとのSPLIT](../Page/BEAT_CRUSADERS.md "wikilink") TOUR 2007「NIGHT ON THE PLANETARIUM」にサポートベーシストとして参加が決定したことをきっかけに、1月25日に正式にバンドに加入。
     使用ベースは、[モズライト](https://ja.wikipedia.org/wiki/モズライト "wikilink")・ベース、リッケンバッカー・4000シリーズ。
 
 **元メンバー**
@@ -330,7 +330,7 @@
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>FAIRY TALE（ASPARAGUS×<a href="https://ja.wikipedia.org/wiki/BEAT_CRUSADERS" title="wikilink">BEAT CRUSADERS</a>）</li>
+<li>FAIRY TALE（ASPARAGUS×<a href="../Page/BEAT_CRUSADERS.md" title="wikilink">BEAT CRUSADERS</a>）</li>
 <li>DEAD SONG（ASPARAGUS）</li>
 <li>MEMORIES（BEAT CRUSADERS）</li>
 <li>OVERKILL（BEAT CRUSADERS）</li>
@@ -518,12 +518,12 @@
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>MICKEY MOUSE CLUB MARCH / <a href="https://ja.wikipedia.org/wiki/BEAT_CRUSADERS" title="wikilink">BEAT CRUSADERS</a></li>
+<li>MICKEY MOUSE CLUB MARCH / <a href="../Page/BEAT_CRUSADERS.md" title="wikilink">BEAT CRUSADERS</a></li>
 <li>Yo HO / <a href="https://ja.wikipedia.org/wiki/SNUFF" title="wikilink">SNUFF</a></li>
 <li>MAIN STREET ELECTRICAL PARADE / <a href="https://ja.wikipedia.org/wiki/REEL_BIG_FISH" title="wikilink">REEL BIG FISH</a></li>
 <li>IT'S A SMALL WORLD / <a href="https://ja.wikipedia.org/wiki/H2O_(バンド)" title="wikilink">H2O</a></li>
 <li>WHEN YOU WISH UPON A STAR / <a href="https://ja.wikipedia.org/wiki/the_band_apart" title="wikilink">the band apart</a></li>
-<li>BABY MINE / <a href="https://ja.wikipedia.org/wiki/HUSKING_BEE" title="wikilink">HUSKING BEE</a></li>
+<li>BABY MINE / <a href="../Page/HUSKING_BEE.md" title="wikilink">HUSKING BEE</a></li>
 <li>CHIM CHIM CHER-EE / <a href="https://ja.wikipedia.org/wiki/オール_(バンド)" title="wikilink">All</a></li>
 <li><strong>「WINNIE THE POOH'S MOST GRAND ADVENTURE」〜FOREVER AND EVER（いつまでもずっと）（<a href="https://ja.wikipedia.org/wiki/くまのプーさん" title="wikilink">くまのプーさん</a>のカバー） / ASPARAGUS</strong></li>
 <li>I WAN'NA BE LIKE YOU / <a href="https://ja.wikipedia.org/wiki/Voodoo_Glow_Skulls" title="wikilink">Voodoo Glow Skulls</a></li>
@@ -531,7 +531,7 @@
 <li>GO THE DISTANCE / <a href="../Page/DOPING_PANDA.md" title="wikilink">DOPING PANDA</a></li>
 <li>BIBBIDI-BOBBIDI-BOO / <a href="https://ja.wikipedia.org/wiki/SPOONY" title="wikilink">SPOONY</a></li>
 <li>HAKUNA MATATA / <a href="../Page/RUDEBONES.md" title="wikilink">RUDEBONES</a></li>
-<li>SOMEONE'S WAITING YOU / Tsutchie（from<a href="https://ja.wikipedia.org/wiki/SHAKKAZOMBIE" title="wikilink">SHAKKAZOMBIE</a>） Feat. <a href="https://ja.wikipedia.org/wiki/キタキマユ" title="wikilink">Mayu Kitaki</a>
+<li>SOMEONE'S WAITING YOU / Tsutchie（from<a href="../Page/SHAKKAZOMBIE.md" title="wikilink">SHAKKAZOMBIE</a>） Feat. <a href="../Page/キタキマユ.md" title="wikilink">Mayu Kitaki</a>
 </div>
 </div></li>
 </ol></td>
@@ -629,7 +629,7 @@
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>MICKEY MOUSE CLUB MARCH / <a href="https://ja.wikipedia.org/wiki/アンドリューW.K." title="wikilink">ANDREW W.K.</a></li>
+<li>MICKEY MOUSE CLUB MARCH / <a href="../Page/アンドリューW.K..md" title="wikilink">ANDREW W.K.</a></li>
 <li>A WHOLE NEW WORLD / <a href="https://ja.wikipedia.org/wiki/LOW_IQ_01" title="wikilink">LOW IQ 01</a></li>
 <li>COLORS OF THE WIND / <a href="../Page/ACIDMAN.md" title="wikilink">ACIDMAN</a></li>
 <li>GIVE A LITTLE WHISTLE / <a href="https://ja.wikipedia.org/wiki/the_band_apart" title="wikilink">the band apart</a></li>
@@ -649,7 +649,7 @@
 <li>HEARTBREAK HOTEL / <a href="https://ja.wikipedia.org/wiki/SEXER" title="wikilink">SEXER</a></li>
 <li>I WANNA BE LIKE YOU / <a href="https://ja.wikipedia.org/wiki/SMASH_MOUTH" title="wikilink">SMASH MOUTH</a></li>
 <li>GOOD COMPANY / <a href="https://ja.wikipedia.org/wiki/CUBISMO_GRAFICO_FIVE" title="wikilink">CUBISMO GRAFICO FIVE</a></li>
-<li>UNDER THE SEA / <a href="https://ja.wikipedia.org/wiki/YOUR_SONG_IS_GOOD" title="wikilink">YOUR SONG IS GOOD</a></li>
+<li>UNDER THE SEA / <a href="../Page/YOUR_SONG_IS_GOOD.md" title="wikilink">YOUR SONG IS GOOD</a></li>
 <li>SOME DAY MY PRINCE WILL COME / <a href="https://ja.wikipedia.org/wiki/Full_Swing" title="wikilink">Full Swing</a></li>
 <li>PART OF YOUR WORLD / <a href="https://ja.wikipedia.org/wiki/SUEMITSU_&amp;_THE_SUEMITH" title="wikilink">The Suemith</a>
 </div>
@@ -671,13 +671,13 @@
 <ol>
 <li>Jealous / <a href="https://ja.wikipedia.org/wiki/Ken_Yokoyama" title="wikilink">Ken Yokoyama</a></li>
 <li><strong>Nap / ASPARAGUS</strong></li>
-<li>World / <a href="https://ja.wikipedia.org/wiki/HAWAIIAN6" title="wikilink">HAWAIIAN6</a></li>
+<li>World / <a href="../Page/HAWAIIAN6.md" title="wikilink">HAWAIIAN6</a></li>
 <li>Another Country's (Dead Soldiers) / <a href="https://ja.wikipedia.org/wiki/the_原爆オナニーズ" title="wikilink">the 原爆オナニーズ</a></li>
 <li>夕空のエレジー / <a href="https://ja.wikipedia.org/wiki/MOGA_THE_/5" title="wikilink">MOGA THE \5</a></li>
 <li>You Are Gone / <a href="https://ja.wikipedia.org/wiki/WATER_CLOSET" title="wikilink">WATER CLOSET</a></li>
 <li>Washing To Know / <a href="https://ja.wikipedia.org/wiki/SLIME_BALL" title="wikilink">SLIME BALL</a></li>
 <li>Fully Closed And Naked / <a href="https://ja.wikipedia.org/wiki/COMEBACK_MY_DAUGHTERS" title="wikilink">COMEBACK MY DAUGHTERS</a></li>
-<li>Pizza Of Death's Theme / <a href="https://ja.wikipedia.org/wiki/BBQ_CHICKENS" title="wikilink">BBQ CHICKENS</a>
+<li>Pizza Of Death's Theme / <a href="../Page/BBQ_CHICKENS.md" title="wikilink">BBQ CHICKENS</a>
 </div>
 </div></li>
 </ol></td>
@@ -694,13 +694,13 @@
 <ol>
 <li>Highway Cost / <a href="https://ja.wikipedia.org/wiki/WATER_CLOSET" title="wikilink">WATER CLOSET</a></li>
 <li>Are you standing on? / <a href="https://ja.wikipedia.org/wiki/F.I.B" title="wikilink">F.I.B</a></li>
-<li>The Evidence / <a href="https://ja.wikipedia.org/wiki/HAWAIIAN6" title="wikilink">HAWAIIAN6</a></li>
+<li>The Evidence / <a href="../Page/HAWAIIAN6.md" title="wikilink">HAWAIIAN6</a></li>
 <li>消せない足跡 / <a href="https://ja.wikipedia.org/wiki/MOGA_THE_/5" title="wikilink">MOGA THE \5</a></li>
-<li>Let's Fuckin' Go / <a href="https://ja.wikipedia.org/wiki/BBQ_CHICKENS" title="wikilink">BBQ CHICKENS</a></li>
+<li>Let's Fuckin' Go / <a href="../Page/BBQ_CHICKENS.md" title="wikilink">BBQ CHICKENS</a></li>
 <li>電撃セラピー / <a href="https://ja.wikipedia.org/wiki/GARLIC_BOYS" title="wikilink">GARLIC BOYS</a></li>
 <li>RADIO "PUNK 007" / <a href="https://ja.wikipedia.org/wiki/RAZORS_EDGE" title="wikilink">RAZORS EDGE</a></li>
 <li>CONFIDENCE / <a href="https://ja.wikipedia.org/wiki/UPPER" title="wikilink">UPPER</a></li>
-<li>ROCKALYPSO / <a href="https://ja.wikipedia.org/wiki/YOUR_SONG_IS_GOOD" title="wikilink">YOUR SONG IS GOOD</a></li>
+<li>ROCKALYPSO / <a href="../Page/YOUR_SONG_IS_GOOD.md" title="wikilink">YOUR SONG IS GOOD</a></li>
 <li>My Day / <a href="https://ja.wikipedia.org/wiki/Ken_Yokoyama" title="wikilink">Ken Yokoyama</a></li>
 <li>Time Flies / <a href="https://ja.wikipedia.org/wiki/SLIME_BALL" title="wikilink">SLIME BALL</a></li>
 <li>YOUR WAY / <a href="https://ja.wikipedia.org/wiki/the原爆オナニーズ" title="wikilink">the原爆オナニーズ</a></li>
@@ -727,13 +727,13 @@
 <li>8.6 / <a href="https://ja.wikipedia.org/wiki/toe" title="wikilink">toe</a> + <a href="https://ja.wikipedia.org/wiki/土岐麻子" title="wikilink">土岐麻子</a></li>
 <li>WALK / <a href="https://ja.wikipedia.org/wiki/Ken_Yokoyama" title="wikilink">Ken Yokoyama</a></li>
 <li>SHARE THE JOY OF OUR TOUR / <a href="https://ja.wikipedia.org/wiki/WATER_CLOSET" title="wikilink">WATER CLOSET</a></li>
-<li>SUN MYSELF / <a href="https://ja.wikipedia.org/wiki/BRAHMAN" title="wikilink">BRAHMAN</a></li>
+<li>SUN MYSELF / <a href="../Page/BRAHMAN.md" title="wikilink">BRAHMAN</a></li>
 <li>A SINGLE WORD / <a href="https://ja.wikipedia.org/wiki/FINE_LINES" title="wikilink">FINE LINES</a></li>
-<li>欠けボタンの浜 / <a href="https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
-<li>BY CHANCE / <a href="https://ja.wikipedia.org/wiki/BEAT_CRUSADERS" title="wikilink">BEAT CRUSADERS</a></li>
+<li>欠けボタンの浜 / <a href="../Page/ASIAN_KUNG-FU_GENERATION.md" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
+<li>BY CHANCE / <a href="../Page/BEAT_CRUSADERS.md" title="wikilink">BEAT CRUSADERS</a></li>
 <li>STILL IN THE SAME PLACE? / <a href="https://ja.wikipedia.org/wiki/WOWW" title="wikilink">WOWW</a></li>
-<li>THE SUN AND THE MOON / <a href="https://ja.wikipedia.org/wiki/OVERGROUND_ACOUSTIC_UNDERGROUND" title="wikilink">OVERGROUND ACOUSTIC UNDERGROUND</a></li>
-<li>後に跡 / <a href="https://ja.wikipedia.org/wiki/YOUR_SONG_IS_GOOD" title="wikilink">YOUR SONG IS GOOD</a></li>
+<li>THE SUN AND THE MOON / <a href="../Page/OVERGROUND_ACOUSTIC_UNDERGROUND.md" title="wikilink">OVERGROUND ACOUSTIC UNDERGROUND</a></li>
+<li>後に跡 / <a href="../Page/YOUR_SONG_IS_GOOD.md" title="wikilink">YOUR SONG IS GOOD</a></li>
 <li>The steady-state theory / <a href="../Page/ハナレグミ.md" title="wikilink">ハナレグミ</a></li>
 <li>オーバーラップワルツ / <a href="../Page/MONGOL800.md" title="wikilink">MONGOL800</a></li>
 <li>新利の風 / <a href="../Page/BACK_DROP_BOMB.md" title="wikilink">BACK DROP BOMB</a></li>
@@ -809,7 +809,7 @@
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>I WANNA BE A DREAMMAKER / <a href="https://ja.wikipedia.org/wiki/BEAT_CRUSADERS" title="wikilink">BEAT CRUSADERS</a></li>
+<li>I WANNA BE A DREAMMAKER / <a href="../Page/BEAT_CRUSADERS.md" title="wikilink">BEAT CRUSADERS</a></li>
 <li>TREKKIN' CREW / <a href="https://ja.wikipedia.org/wiki/SpecialThanks" title="wikilink">SpecialThanks</a></li>
 <li>Get up / <a href="https://ja.wikipedia.org/wiki/locofrank" title="wikilink">locofrank</a></li>
 <li>MOKUKARA PARTY TONIGHT / <a href="https://ja.wikipedia.org/wiki/WATER_CLOSET" title="wikilink">WATER CLOSET</a></li>
@@ -862,13 +862,13 @@
 <li>YOU UP AROUND / <a href="https://ja.wikipedia.org/wiki/locofrank" title="wikilink">locofrank</a></li>
 <li>NEVER SEEM TO LAST / <a href="../Page/ACIDMAN.md" title="wikilink">ACIDMAN</a></li>
 <li><strong>IN ORDER TO FIND THE NEW SENSE / ASPARAGUS</strong></li>
-<li>BLACK SKY ABOVE / <a href="https://ja.wikipedia.org/wiki/HUSKING_BEE" title="wikilink">HUSKING BEE</a></li>
+<li>BLACK SKY ABOVE / <a href="../Page/HUSKING_BEE.md" title="wikilink">HUSKING BEE</a></li>
 <li>TURN ON THE LIGHT / <a href="https://ja.wikipedia.org/wiki/LOW_IQ_01" title="wikilink">LOW IQ 01と</a><a href="../Page/會田茂一.md" title="wikilink">會田茂一</a></li>
-<li>FLIP OUT / <a href="https://ja.wikipedia.org/wiki/FIRE_BALL_(レゲエグループ)" title="wikilink">FIRE BALL</a></li>
-<li>THAT'S THE WAY WE UNITE / <a href="https://ja.wikipedia.org/wiki/Dragon_Ash" title="wikilink">Dragon Ash</a></li>
+<li>FLIP OUT / <a href="../Page/FIRE_BALL_(レゲエグループ).md" title="wikilink">FIRE BALL</a></li>
+<li>THAT'S THE WAY WE UNITE / <a href="../Page/Dragon_Ash.md" title="wikilink">Dragon Ash</a></li>
 <li>MASTADABESTAH / <a href="https://ja.wikipedia.org/wiki/THE_NOVEMBERS" title="wikilink">THE NOVEMBERS</a></li>
 <li>REMIND ME / <a href="../Page/LITE_(バンド).md" title="wikilink">LITE</a></li>
-<li>FLOW (IT'S LIKE THAT) / <a href="https://ja.wikipedia.org/wiki/BRAHMAN" title="wikilink">BRAHMAN</a>
+<li>FLOW (IT'S LIKE THAT) / <a href="../Page/BRAHMAN.md" title="wikilink">BRAHMAN</a>
 </div>
 </div></li>
 </ol></td>
@@ -898,7 +898,7 @@
 
 ## 主な出演イベント
 
-  - 2003年07月05日 - [BPR5000](https://ja.wikipedia.org/wiki/BPR5000 "wikilink") presents つるROCKフェスティバルVol.3
+  - 2003年07月05日 - [BPR5000](../Page/BPR5000.md "wikilink") presents つるROCKフェスティバルVol.3
   - 2004年07月09日 - スペースシャワー列伝 第40巻 ～青天(せいてん)の宴～
   - 2004年08月17日 - SPIRIT SOUL FLAVOR Vol.3～[BOYZ OF SUMMER](https://ja.wikipedia.org/wiki/BOYZ_OF_SUMMER "wikilink")～
   - 2005年09月04日 - [BOYZ OF SUMMER](https://ja.wikipedia.org/wiki/BOYZ_OF_SUMMER "wikilink")'05
@@ -921,7 +921,7 @@
   - 2008年08月31日 - [RUSH BALL](../Page/RUSH_BALL.md "wikilink") 2008
   - 2008年09月13日 - BOYZ OF SUMMER'08
   - 2008年12月30日・31日 - COUNTDOWN JAPAN 08/09
-  - 2009年01月31日・02月01日 - [9mm Parabellum Bullet](https://ja.wikipedia.org/wiki/9mm_Parabellum_Bullet "wikilink") VAMPIRE EMPIRE TOUR 08/09
+  - 2009年01月31日・02月01日 - [9mm Parabellum Bullet](../Page/9mm_Parabellum_Bullet.md "wikilink") VAMPIRE EMPIRE TOUR 08/09
   - 2009年04月25日 - [ARABAKI ROCK FEST.](../Page/ARABAKI_ROCK_FEST..md "wikilink")09
   - 2009年05月09日 - BEA presents F-X 2009
   - 2009年07月19日 - KESEN ROCK FESTIVAL'09
@@ -947,7 +947,7 @@
   - 2012年10月08日 - ECHOES 2012
   - 2012年12月09日 - SPOOKY ZOO 2012
   - 2012年12月16日・2013年02月08日 - [locofrank](https://ja.wikipedia.org/wiki/locofrank "wikilink") TOUR 2012-2013 "ONE"
-  - 2012年12月23日 - [HAWAIIAN6](https://ja.wikipedia.org/wiki/HAWAIIAN6 "wikilink") Presents"The Grails"TOUR
+  - 2012年12月23日 - [HAWAIIAN6](../Page/HAWAIIAN6.md "wikilink") Presents"The Grails"TOUR
   - 2013年02月23日 - BEA × Zepp Fukuoka presents F-X
   - 2013年03月07日 - [cinema staff](https://ja.wikipedia.org/wiki/cinema_staff "wikilink") double single release live「two strike 2(to) night～2013開幕版～」
   - 2013年05月10日 - [BACK DROP BOMB](../Page/BACK_DROP_BOMB.md "wikilink") tour "3days preface"
@@ -961,7 +961,7 @@
   - 2013年11月30日・12月01日 - locofrank "Signs TOUR 2013"
   - 2013年12月06日 - [SPREAD](https://ja.wikipedia.org/wiki/SPREAD "wikilink")×ASPARAGUS
   - 2013年12月14日 - 郡山 HIPSHOT JAPAN
-  - 2013年12月17日 - [HUSKING BEE](https://ja.wikipedia.org/wiki/HUSKING_BEE "wikilink") presents New Peace
+  - 2013年12月17日 - [HUSKING BEE](../Page/HUSKING_BEE.md "wikilink") presents New Peace
   - 2013年12月29日 - COUNTDOWN JAPAN 13/14
   - 2013年12月30日 - new T.W.I.M BOMB NIGHT vol.13 2013 Final\!\! =DESTROY YOUR FUCKIN'WORLD=
   - 2013年12月31日 - F.A.D YOKOHAMA pre. 爆裂FxAxD COUNT DOWN 2013-2014
@@ -1027,6 +1027,6 @@
 1.
 2.
 3.
-4.  [WORLD RIDE](https://ja.wikipedia.org/wiki/WORLD_RIDE "wikilink")（[スペースシャワーTV](https://ja.wikipedia.org/wiki/スペースシャワーTV "wikilink")内の発言）
+4.  [WORLD RIDE](https://ja.wikipedia.org/wiki/WORLD_RIDE "wikilink")（[スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")内の発言）
 5.
 6.

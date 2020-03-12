@@ -1,13 +1,13 @@
 > この記事は[LOHAS SUNDAY](https://ja.wikipedia.org/wiki/LOHAS_SUNDAY)から翻訳されています。
 
 
-**LOHAS SUNDAY**（ロハス・サンデー）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2013年](../Page/2013年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[J-WAVE](../Page/J-WAVE.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
+**LOHAS SUNDAY**（ロハス・サンデー）は、[2005年](../Page/2005年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2013年](../Page/2013年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[J-WAVE](../Page/J-WAVE.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
 
 ## 概要
 
 [2000年代](../Page/2000年代.md "wikilink")初頭に日本へ紹介され広まっていった概念である[LOHAS](../Page/LOHAS.md "wikilink")をテーマとしている。番組内で流れる曲も日曜の朝という時間帯もあって比較的穏やかなものが選ばれることが多い。
 
-前身は[2004年](../Page/2004年.md "wikilink")4月から2005年3月まで放送されていた**LOHAS MORNING**（後述）。また関連番組として[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")4月からは[JAM THE WORLD内で](https://ja.wikipedia.org/wiki/Jam_the_WORLD "wikilink")[LOHAS TALKが放送されている](../Page/LOHAS_TALK.md "wikilink")。
+前身は[2004年](../Page/2004年.md "wikilink")4月から2005年3月まで放送されていた**LOHAS MORNING**（後述）。また関連番組として[2006年](../Page/2006年.md "wikilink")4月からは[JAM THE WORLD内で](../Page/Jam_the_WORLD.md "wikilink")[LOHAS TALKが放送されている](../Page/LOHAS_TALK.md "wikilink")。
 
 ## 放送時間
 
@@ -26,7 +26,7 @@
 
   - [野村友里](https://ja.wikipedia.org/wiki/野村友里 "wikilink")、[ペオ・エクベリ](https://ja.wikipedia.org/wiki/ペオ・エクベリ "wikilink")（2005年4月 - 2006年3月）
   - [大橋マキ](https://ja.wikipedia.org/wiki/大橋マキ "wikilink")（2006年4月 - 2007年9月）
-  - [王理恵](https://ja.wikipedia.org/wiki/王理恵 "wikilink")（2007年10月 - 2010年3月）
+  - [王理恵](../Page/王理恵.md "wikilink")（2007年10月 - 2010年3月）
   - [丹羽順子](https://ja.wikipedia.org/wiki/丹羽順子 "wikilink")（2010年4月 - 2012年3月）
   - [松原広美](https://ja.wikipedia.org/wiki/松原広美 "wikilink")（2012年4月 - 2013年3月）
 
@@ -45,7 +45,7 @@
 
 <!-- end list -->
 
-  - 7:20-7:40 [SARAYA](https://ja.wikipedia.org/wiki/サラヤ "wikilink") ENJOY\! NATURAL STYLE (7:20-7:40)
+  - 7:20-7:40 [SARAYA](../Page/サラヤ.md "wikilink") ENJOY\! NATURAL STYLE (7:20-7:40)
 
 <!-- end list -->
 
@@ -54,7 +54,7 @@
 
 <!-- end list -->
 
-  - 8:00-8:20 [HUMAN NETWORK TOKYO](https://ja.wikipedia.org/wiki/東京都 "wikilink") ENTERTAINMENT EXPLORER
+  - 8:00-8:20 [HUMAN NETWORK TOKYO](../Page/東京都.md "wikilink") ENTERTAINMENT EXPLORER
 
 <!-- end list -->
 
@@ -74,7 +74,7 @@
 
 ## LOHAS MORNING
 
-当番組の前身となるのが**LOHAS MORNING**（ロハス・モーニング）（[2004年](../Page/2004年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink") - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")3月31日、月曜 - 金曜）である。ナビゲーターは[鳥越さやか](https://ja.wikipedia.org/wiki/鳥越さやか "wikilink")。コンセプトは「早朝を使いこなす、全ての女性たちへ。」であり、LOHASに加え「女性」も番組テーマの一つとしていた。なお、この番組の開始にともない[J-WAVE GOOD MORNING TOKYOの放送開始時間が](https://ja.wikipedia.org/wiki/J-WAVE_GOOD_MORNING_TOKYO "wikilink")1時間繰り下がった。
+当番組の前身となるのが**LOHAS MORNING**（ロハス・モーニング）（[2004年](../Page/2004年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink") - [2005年](../Page/2005年.md "wikilink")3月31日、月曜 - 金曜）である。ナビゲーターは[鳥越さやか](../Page/鳥越さやか.md "wikilink")。コンセプトは「早朝を使いこなす、全ての女性たちへ。」であり、LOHASに加え「女性」も番組テーマの一つとしていた。なお、この番組の開始にともない[J-WAVE GOOD MORNING TOKYOの放送開始時間が](../Page/J-WAVE_GOOD_MORNING_TOKYO.md "wikilink")1時間繰り下がった。
 
 ### 番組内容
 

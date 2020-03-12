@@ -5,13 +5,13 @@
 
 ## 略歴
 
-作曲家・[筒美京平](https://ja.wikipedia.org/wiki/筒美京平 "wikilink")の楽曲提供とプロデュースを受け、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月7日](../Page/12月7日.md "wikilink")、本名の尾関美穂の名で、「メコンの憂鬱」にて[エイベックスよりメジャーデビュー](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。その後も同作曲家より楽曲提供を受け、シングル4枚・アルバム1枚をリリース。所属事務所は[サンズエンタテインメント](../Page/サンズエンタテインメント.md "wikilink")、レコード会社はエイベックスだった。
+作曲家・[筒美京平](https://ja.wikipedia.org/wiki/筒美京平 "wikilink")の楽曲提供とプロデュースを受け、[2005年](../Page/2005年.md "wikilink")[12月7日](../Page/12月7日.md "wikilink")、本名の尾関美穂の名で、「メコンの憂鬱」にて[エイベックスよりメジャーデビュー](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。その後も同作曲家より楽曲提供を受け、シングル4枚・アルバム1枚をリリース。所属事務所は[サンズエンタテインメント](../Page/サンズエンタテインメント.md "wikilink")、レコード会社はエイベックスだった。
 
 [2007年](../Page/2007年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")に事務所移籍、約1年の活動休止をはさみ、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月6日](../Page/2月6日.md "wikilink")にme_ho(みーほ)に改名し、インデックスミュージック（販売元：[キングレコード](../Page/キングレコード.md "wikilink")）から「lovers'tone」をリリース。
 
 [2011年](../Page/2011年.md "wikilink")より、**ハルカミホ**に改名。
 
-[美空ひばり](../Page/美空ひばり.md "wikilink")や[坂本冬美](https://ja.wikipedia.org/wiki/坂本冬美 "wikilink")をフェイバリットと公言しており、デビュー以降[昭和](../Page/昭和.md "wikilink")の曲をカバーしている他、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")まで[LFX mudigi](../Page/LFX_mudigi.md "wikilink")『[サンデー蔵出しアナログ盤アワー](../Page/ブロードバンド!ニッポン.md "wikilink")』の[アシスタントを務めていた](https://ja.wikipedia.org/wiki/助手 "wikilink")。
+[美空ひばり](../Page/美空ひばり.md "wikilink")や[坂本冬美](../Page/坂本冬美.md "wikilink")をフェイバリットと公言しており、デビュー以降[昭和](../Page/昭和.md "wikilink")の曲をカバーしている他、[2006年](../Page/2006年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")まで[LFX mudigi](../Page/LFX_mudigi.md "wikilink")『[サンデー蔵出しアナログ盤アワー](../Page/ブロードバンド!ニッポン.md "wikilink")』の[アシスタントを務めていた](https://ja.wikipedia.org/wiki/助手 "wikilink")。
 
 ## ディスコグラフィー
 
@@ -30,7 +30,7 @@
 
 #### ハルカミホ
 
-  - 恋のバカンス（2011年2月2日） - [大内義昭](https://ja.wikipedia.org/wiki/大内義昭 "wikilink")とのデュエットカバー
+  - 恋のバカンス（2011年2月2日） - [大内義昭](../Page/大内義昭.md "wikilink")とのデュエットカバー
 
 ### アルバム
 
@@ -50,11 +50,11 @@
 
 ## 関連項目
 
-  - [野田義治](https://ja.wikipedia.org/wiki/野田義治 "wikilink")
+  - [野田義治](../Page/野田義治.md "wikilink")
   - [及川伸一](https://ja.wikipedia.org/wiki/及川伸一 "wikilink")
   - [ジャパン・アーチスト・オフィス](https://ja.wikipedia.org/wiki/ジャパン・アーチスト・オフィス "wikilink")
   - [筒美京平](https://ja.wikipedia.org/wiki/筒美京平 "wikilink")
-  - [大内義昭](https://ja.wikipedia.org/wiki/大内義昭 "wikilink")
+  - [大内義昭](../Page/大内義昭.md "wikilink")
 
 ## 外部リンク
 

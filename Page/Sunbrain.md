@@ -1,7 +1,7 @@
 > この記事は[Sunbrain](https://ja.wikipedia.org/wiki/Sunbrain)から翻訳されています。
 
 
-**Sunbrain**（サンブレイン）[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")出身の2人組[宅録](https://ja.wikipedia.org/wiki/宅録 "wikilink")[ユニットである](../Page/音楽ユニット.md "wikilink")。[2004年](../Page/2004年.md "wikilink")結成。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[デフスターレコーズ](https://ja.wikipedia.org/wiki/デフスターレコーズ "wikilink")よりメジャーデビュー。5枚のシングル、1枚のアルバムをリリースし、[2009年](../Page/2009年.md "wikilink")に活動休止を発表。
+**Sunbrain**（サンブレイン）[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")出身の2人組[宅録](https://ja.wikipedia.org/wiki/宅録 "wikilink")[ユニットである](../Page/音楽ユニット.md "wikilink")。[2004年](../Page/2004年.md "wikilink")結成。[2005年](../Page/2005年.md "wikilink")[デフスターレコーズ](../Page/デフスターレコーズ.md "wikilink")よりメジャーデビュー。5枚のシングル、1枚のアルバムをリリースし、[2009年](../Page/2009年.md "wikilink")に活動休止を発表。
 
 以後、丸谷学は[丸谷マナブ](https://ja.wikipedia.org/wiki/丸谷マナブ "wikilink")としてソロのシンガー・コンポーザーとして活動中。南ヤスヒロは[2011年](../Page/2011年.md "wikilink")[10月20日](../Page/10月20日.md "wikilink")に事故により死去。
 
@@ -28,7 +28,7 @@
 ### シングル
 
   - emotion（2005年2月9日）
-    1.  emotion（アニメ「[冒険王ビィト](https://ja.wikipedia.org/wiki/冒険王ビィト "wikilink")」オープニングテーマ）
+    1.  emotion（アニメ「[冒険王ビィト](../Page/冒険王ビィト.md "wikilink")」オープニングテーマ）
     2.  クライテリア
   - wish men（2005年6月8日）
     1.  wish men（アニメ「冒険王ビィト」オープニングテーマ）
@@ -68,8 +68,8 @@
 
 ## 関連項目
 
-  - [歌スタ\!\!](https://ja.wikipedia.org/wiki/歌スタ!! "wikilink")
-  - [細野ひで晃](https://ja.wikipedia.org/wiki/細野ひで晃 "wikilink")
+  - [歌スタ\!\!](../Page/歌スタ!!.md "wikilink")
+  - [細野ひで晃](../Page/細野ひで晃.md "wikilink")
 
 ## 外部リンク
 

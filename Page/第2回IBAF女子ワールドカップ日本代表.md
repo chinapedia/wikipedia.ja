@@ -1,11 +1,11 @@
 > この記事は[2IBAF](https://ja.wikipedia.org/wiki/2IBAF)から翻訳されています。
 
 
-**第2回IBAF女子ワールドカップ日本代表**は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月31日](../Page/7月31日.md "wikilink")から[8月6日](../Page/8月6日.md "wikilink")まで開かれた第2回[IBAF女子ワールドカップ](https://ja.wikipedia.org/wiki/IBAF女子ワールドカップ "wikilink")に出場するために編成された日本代表チームである。
+**第2回IBAF女子ワールドカップ日本代表**は、[2006年](../Page/2006年.md "wikilink")[7月31日](../Page/7月31日.md "wikilink")から[8月6日](../Page/8月6日.md "wikilink")まで開かれた第2回[IBAF女子ワールドカップ](https://ja.wikipedia.org/wiki/IBAF女子ワールドカップ "wikilink")に出場するために編成された日本代表チームである。
 
 ## 概要
 
-[前回の代表は前後する大会の日程的な問題から高校生のみで編成されたが](../Page/第1回IBAF女子ワールドカップ日本代表.md "wikilink")、今回の日本代表はそのような縛りがかからず、セレクションにより選手が選ばれた。また今回の代表チームから正式に[全日本野球会議](https://ja.wikipedia.org/wiki/全日本野球会議 "wikilink")の代表派遣事業と承認され、ユニフォームも[アテネ五輪の男子代表のユニフォームと同じものを着用しての参加となった](https://ja.wikipedia.org/wiki/アテネオリンピック_\(2004年\) "wikilink")。
+[前回の代表は前後する大会の日程的な問題から高校生のみで編成されたが](../Page/第1回IBAF女子ワールドカップ日本代表.md "wikilink")、今回の日本代表はそのような縛りがかからず、セレクションにより選手が選ばれた。また今回の代表チームから正式に[全日本野球会議](../Page/全日本野球会議.md "wikilink")の代表派遣事業と承認され、ユニフォームも[アテネ五輪の男子代表のユニフォームと同じものを着用しての参加となった](https://ja.wikipedia.org/wiki/アテネオリンピック_\(2004年\) "wikilink")。
 
 ## 代表メンバー
 
@@ -22,10 +22,10 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ゼネラルマネージャー" title="wikilink">ゼネラルマネージャー</a></p></td>
+<td><p><a href="../Page/ゼネラルマネージャー.md" title="wikilink">ゼネラルマネージャー</a></p></td>
 <td></td>
 <td><p><a href="../Page/村上雅則.md" title="wikilink">村上雅則</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/野球解説者" title="wikilink">野球解説者</a></p></td>
+<td><p><a href="../Page/野球解説者.md" title="wikilink">野球解説者</a></p></td>
 <td><p>62歳</p></td>
 <td></td>
 </tr>
@@ -41,7 +41,7 @@
 <td><p><a href="../Page/コーチ.md" title="wikilink">コーチ</a></p></td>
 <td><p>45</p></td>
 <td><p>狐塚賢浩</p></td>
-<td><p>元<a href="https://ja.wikipedia.org/wiki/サンワード貿易硬式野球部" title="wikilink">サンワード貿易</a></p></td>
+<td><p>元<a href="../Page/サンワード貿易硬式野球部.md" title="wikilink">サンワード貿易</a></p></td>
 <td><p>40歳</p></td>
 <td></td>
 </tr>
@@ -97,7 +97,7 @@
 <td><p><a href="../Page/捕手.md" title="wikilink">捕手</a></p></td>
 <td><p>2</p></td>
 <td><p>西朝美</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/尚美学園大学" title="wikilink">尚美学園大学</a></p></td>
+<td><p><a href="../Page/尚美学園大学.md" title="wikilink">尚美学園大学</a></p></td>
 <td><p>18歳</p></td>
 <td></td>
 </tr>
@@ -113,7 +113,7 @@
 <td><p>27</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/田村知佳_(野球)" title="wikilink">田村知佳</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/國學院大學久我山中学高等学校" title="wikilink">國學院大學久我山中学高等学校</a>、<br />
-<a href="https://ja.wikipedia.org/wiki/日本体育大学" title="wikilink">日本体育大学</a>、町田、<a href="https://ja.wikipedia.org/wiki/サウザンリーフ市原" title="wikilink">サウザンリーフ市原</a></p></td>
+<a href="https://ja.wikipedia.org/wiki/日本体育大学" title="wikilink">日本体育大学</a>、町田、<a href="../Page/サウザンリーフ市原.md" title="wikilink">サウザンリーフ市原</a></p></td>
 <td><p>26歳</p></td>
 <td></td>
 <td></td>
@@ -161,7 +161,7 @@
 <tr class="even">
 <td><p>35　</p></td>
 <td><p>山崎まり</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/札幌ホーネッツ" title="wikilink">ホーネッツレディース</a></p></td>
+<td><p><a href="../Page/札幌ホーネッツ.md" title="wikilink">ホーネッツレディース</a></p></td>
 <td><p>16歳</p></td>
 <td></td>
 <td></td>
@@ -225,7 +225,7 @@
 
   - 第1戦（[7月31日](../Page/7月31日.md "wikilink")）　日本 9-0 [台湾](https://ja.wikipedia.org/wiki/野球チャイニーズタイペイ代表 "wikilink")
   - 第2戦（[8月1日](../Page/8月1日.md "wikilink")）　日本 43-0 [香港](../Page/野球香港代表.md "wikilink")　（5回コールド）
-  - 第3戦（[8月2日](../Page/8月2日.md "wikilink")）　日本 15-0 [キューバ](https://ja.wikipedia.org/wiki/野球キューバ代表 "wikilink")　（5回コールド）
+  - 第3戦（[8月2日](../Page/8月2日.md "wikilink")）　日本 15-0 [キューバ](../Page/野球キューバ代表.md "wikilink")　（5回コールド）
   - 第4戦（[8月3日](../Page/8月3日.md "wikilink")）　日本 3-6 [カナダ](../Page/野球カナダ代表.md "wikilink")
   - 第5戦（[8月4日](../Page/8月4日.md "wikilink")）　日本 11-6 [オーストラリア](../Page/野球オーストラリア代表.md "wikilink")
   - 第6戦（[8月6日](../Page/8月6日.md "wikilink")）　日本 11-13 [アメリカ](https://ja.wikipedia.org/wiki/野球アメリカ合衆国女子代表 "wikilink")

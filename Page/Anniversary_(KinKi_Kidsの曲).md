@@ -1,7 +1,7 @@
 > この記事は[Anniversary \(KinKi Kids\)](https://ja.wikipedia.org/wiki/Anniversary_\(KinKi_Kids\))から翻訳されています。
 
 
-「**Anniversary**」（アニヴァーサリー）は、[KinKi Kidsの](../Page/KinKi_Kids.md "wikilink")20枚目の[シングル](../Page/シングル.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")発売。発売元は[ジャニーズ・エンタテイメント](https://ja.wikipedia.org/wiki/ジャニーズ・エンタテイメント "wikilink")。
+「**Anniversary**」（アニヴァーサリー）は、[KinKi Kidsの](../Page/KinKi_Kids.md "wikilink")20枚目の[シングル](../Page/シングル.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")発売。発売元は[ジャニーズ・エンタテイメント](../Page/ジャニーズ・エンタテイメント.md "wikilink")。
 
 ## 解説
 
@@ -9,11 +9,11 @@
 
 前作から約11ヶ月ぶりのシングルであり、この時点ではKinKi Kids最長のシングルリリース間隔であった（後の「[永遠に](../Page/永遠に_\(KinKi_Kidsの曲\).md "wikilink")」～「[Secret Code](../Page/Secret_Code_\(KinKi_Kidsの曲\).md "wikilink")」も同様の間隔）が、2010年の「[Family 〜ひとつになること](https://ja.wikipedia.org/wiki/Family_〜ひとつになること "wikilink")」が前作から約1年1ヶ月ぶり、さらに2013年の「[まだ涙にならない悲しみが/恋は匂へと散りぬるを](https://ja.wikipedia.org/wiki/まだ涙にならない悲しみが/恋は匂へと散りぬるを "wikilink")」が前作から約1年9カ月ぶりにリリースされ、今作を上回っている。
 
-当初はアルバムと共に[12月8日](../Page/12月8日.md "wikilink")に発売される予定だったが、発売直前に急遽発売が延期された。そのため[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")上旬には既に[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")などで披露されており、レコードショップ店頭やオンラインショップ、[インターネット](../Page/インターネット.md "wikilink")上などでも12月8日発売と発表されていた。
+当初はアルバムと共に[12月8日](../Page/12月8日.md "wikilink")に発売される予定だったが、発売直前に急遽発売が延期された。そのため[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")上旬には既に[音楽番組](../Page/音楽番組.md "wikilink")などで披露されており、レコードショップ店頭やオンラインショップ、[インターネット](../Page/インターネット.md "wikilink")上などでも12月8日発売と発表されていた。
 
 ## チャート成績
 
-本作は2005年1月3日付の[オリコン週間ランキングで初週](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")35.5万枚を売り上げて1位を獲得した。また、本作と同日発売されたアルバム『[KinKi Single Selection II](https://ja.wikipedia.org/wiki/KinKi_Single_Selection_II "wikilink")』も同日付で首位獲得し、シングルとアルバムによる初登場同時首位獲得は、史上7度目であり、自身としては、デビューシングル「[硝子の少年](../Page/硝子の少年.md "wikilink")｣と、アルバム『[A album](https://ja.wikipedia.org/wiki/A_album "wikilink")』で記録して以来、7年5ヵ月ぶりであり、[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")に並ぶ史上最多、2度目の達成となった\[1\]。CD累計売上は52.6万枚（オリコン調べ）を記録し、2001年発売の「[情熱](../Page/情熱_\(KinKi_Kidsの曲\).md "wikilink")」以来、累計売上が50万枚を突破した\[2\]。
+本作は2005年1月3日付の[オリコン週間ランキングで初週](../Page/オリコンチャート.md "wikilink")35.5万枚を売り上げて1位を獲得した。また、本作と同日発売されたアルバム『[KinKi Single Selection II](../Page/KinKi_Single_Selection_II.md "wikilink")』も同日付で首位獲得し、シングルとアルバムによる初登場同時首位獲得は、史上7度目であり、自身としては、デビューシングル「[硝子の少年](../Page/硝子の少年.md "wikilink")｣と、アルバム『[A album](../Page/A_album.md "wikilink")』で記録して以来、7年5ヵ月ぶりであり、[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")に並ぶ史上最多、2度目の達成となった\[1\]。CD累計売上は52.6万枚（オリコン調べ）を記録し、2001年発売の「[情熱](../Page/情熱_\(KinKi_Kidsの曲\).md "wikilink")」以来、累計売上が50万枚を突破した\[2\]。
 
 また、[1999年](../Page/1999年.md "wikilink")の「[雨のMelody/to Heart](https://ja.wikipedia.org/wiki/雨のMelody/to_Heart "wikilink")」以来となるオリコンチャート複数週1位となっており、3週連続は[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")の「[全部だきしめて/青の時代](https://ja.wikipedia.org/wiki/全部だきしめて/青の時代 "wikilink")」（4週連続）以来である\[3\]。
 
@@ -22,12 +22,12 @@
 1.  **Anniversary**
       -
         （作詞：[Satomi](../Page/Satomi.md "wikilink") / 作曲：[織田哲郎](../Page/織田哲郎.md "wikilink") / 編曲：家原正樹）
-        作曲は[2001年](../Page/2001年.md "wikilink")の「[ボクの背中には羽根がある](../Page/ボクの背中には羽根がある.md "wikilink")」以来となる織田による提供。後に、織田がアルバム『[MELODIES](https://ja.wikipedia.org/wiki/MELODIES_\(織田哲郎のアルバム\) "wikilink")』にて、セルフカバーしている。
+        作曲は[2001年](../Page/2001年.md "wikilink")の「[ボクの背中には羽根がある](../Page/ボクの背中には羽根がある.md "wikilink")」以来となる織田による提供。後に、織田がアルバム『[MELODIES](../Page/MELODIES_\(織田哲郎のアルバム\).md "wikilink")』にて、セルフカバーしている。
         歌詞はストレートな愛情表現で記念日を祝った内容になっている。
         出版者：ジャニーズ出版
 2.  **Anniversary -20th. memorial version-**
       -
-        （作詞：Satomi / 作曲：織田哲郎 / 編曲：[安部潤](https://ja.wikipedia.org/wiki/安部潤 "wikilink")）
+        （作詞：Satomi / 作曲：織田哲郎 / 編曲：[安部潤](../Page/安部潤.md "wikilink")）
         こちらは演奏が主に[ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")だけになっており、ボーカルをメインに置いたアレンジバージョンである。
 
 ## 参加ミュージシャン
@@ -35,7 +35,7 @@
 ## 収録アルバム
 
   - **Anniversary**
-      - [H album -H・A・N・D-](https://ja.wikipedia.org/wiki/H_album_-H・A・N・D- "wikilink")
+      - [H album -H・A・N・D-](../Page/H_album_-H・A・N・D-.md "wikilink")
       - [39](../Page/39_\(KinKi_Kidsのアルバム\).md "wikilink")
       - [Ballad Selection](https://ja.wikipedia.org/wiki/Ballad_Selection_\(KinKi_Kidsのアルバム\) "wikilink")
       - [The BEST](https://ja.wikipedia.org/wiki/The_BEST_\(KinKi_Kidsのアルバム\) "wikilink")

@@ -5,8 +5,8 @@
 
 ## 解説
 
-  - [オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")では、再びTOP3に返り咲いた。この作品以降のシングルは全てオリコンチャートTOP3にランクインしている。
-  - 今作以降のシングル、アルバム初回限定版には全て[DVD](../Page/DVD.md "wikilink")が付属するようになった（内容は主にシングルナンバーの[PV](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")）。
+  - [オリコンチャート](../Page/オリコンチャート.md "wikilink")では、再びTOP3に返り咲いた。この作品以降のシングルは全てオリコンチャートTOP3にランクインしている。
+  - 今作以降のシングル、アルバム初回限定版には全て[DVD](../Page/DVD.md "wikilink")が付属するようになった（内容は主にシングルナンバーの[PV](../Page/ミュージック・ビデオ.md "wikilink")）。
   - 最高初動売り上げを2作連続で更新し、累計売り上げは、デビューシングル「[RED ZONE](../Page/RED_ZONE_\(Janne_Da_Arcの曲\).md "wikilink")」を越え当時のJanne Da Arcの最大のヒットシングルとなったが、2ヶ月後に23rdシングル「[月光花](../Page/月光花.md "wikilink")」に初動売り上げのみで累計売り上げを越えられた。また、今作以降のシングル4作は全て今作の累計を上回っている。
 
 ## 収録曲
@@ -15,7 +15,7 @@
       - 作詞・作曲:[yasu](https://ja.wikipedia.org/wiki/yasu "wikilink")
     <!-- end list -->
       -
-        オリジナルDVD『[スキージャンプ・ペア](https://ja.wikipedia.org/wiki/スキージャンプ・ペア "wikilink")2』エンディングテーマ。
+        オリジナルDVD『[スキージャンプ・ペア](../Page/スキージャンプ・ペア.md "wikilink")2』エンディングテーマ。
         5枚目のフルアルバム『[ARCADIA](../Page/ARCADIA_\(Janne_Da_Arcのアルバム\).md "wikilink")』に収録された「心の行方」のアンサーソングとして作られた楽曲。
         PVの内容は、一人の[騎士](../Page/騎士.md "wikilink")が敵と戦う内容だが、ラストでその真相が明かされる、というストーリーになっている。
 2.  **少年の瞳**

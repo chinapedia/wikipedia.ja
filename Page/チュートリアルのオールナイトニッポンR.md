@@ -1,12 +1,12 @@
 > この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
 
 
-**チュートリアルのオールナイトニッポンR**（ - あーる）とは、[ニッポン放送](../Page/ニッポン放送.md "wikilink")の[深夜放送](../Page/深夜放送.md "wikilink")『[オールナイトニッポンR](https://ja.wikipedia.org/wiki/オールナイトニッポンR "wikilink")』で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[チュートリアル](https://ja.wikipedia.org/wiki/チュートリアル_\(お笑いコンビ\) "wikilink")（[徳井義実](../Page/徳井義実.md "wikilink")、[福田充徳](../Page/福田充徳.md "wikilink")）。
+**チュートリアルのオールナイトニッポンR**（ - あーる）とは、[ニッポン放送](../Page/ニッポン放送.md "wikilink")の[深夜放送](../Page/深夜放送.md "wikilink")『[オールナイトニッポンR](../Page/オールナイトニッポンR.md "wikilink")』で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[チュートリアル](../Page/チュートリアル_\(お笑いコンビ\).md "wikilink")（[徳井義実](../Page/徳井義実.md "wikilink")、[福田充徳](../Page/福田充徳.md "wikilink")）。
 
 ## 放送時間
 
-  - 特番第1回：[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[6月10日](../Page/6月10日.md "wikilink") [土曜日](../Page/土曜日.md "wikilink") 27:00-28:30（日曜3:00-4:30）(録音)
-  - 特番第2回：[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[3月17日](../Page/3月17日.md "wikilink") 土曜日 27:00-29:00（日曜3:00-5:00）
+  - 特番第1回：[2006年](../Page/2006年.md "wikilink")[6月10日](../Page/6月10日.md "wikilink") [土曜日](../Page/土曜日.md "wikilink") 27:00-28:30（日曜3:00-4:30）(録音)
+  - 特番第2回：[2007年](../Page/2007年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink") 土曜日 27:00-29:00（日曜3:00-5:00）
   - レギュラー：2007年[4月21日](../Page/4月21日.md "wikilink")～2008年[12月20日](../Page/12月20日.md "wikilink") 毎月第3土曜日 27:00-29:00（日曜3:00-5:00）
 
 ## ネット局
@@ -15,7 +15,7 @@
 
   - 27:00～29:00
       -
-        [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink") ・ [茨城放送](https://ja.wikipedia.org/wiki/茨城放送 "wikilink") ・ [栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink") ・ [KBS京都](../Page/京都放送.md "wikilink") ・[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")
+        [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink") ・ [茨城放送](../Page/茨城放送.md "wikilink") ・ [栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink") ・ [KBS京都](../Page/京都放送.md "wikilink") ・[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")
   - 27:00～28:30
       -
         [ニッポン放送](../Page/ニッポン放送.md "wikilink")
@@ -50,12 +50,12 @@
   - [4月21日](../Page/4月21日.md "wikilink")、レギュラー放送開始。『福田くんのウィキペディア大作戦』『徳井のズルムケ駆け込み寺』『細かすぎて伝わらないドッキリ』『可能性はゼロではない』などのコーナーがスタート。
   - [7月21日](../Page/7月21日.md "wikilink")、ウィキペディアの[福田充徳](../Page/福田充徳.md "wikilink")のページを盛り上げようという趣旨でスタートした『福田くんのウィキペディア大作戦』が、「全然成果が上がらない」ということで終了。このコーナーが始まったことで、ウィキペディアの福田のページへのコメント的投稿が殺到し、ウィキペディア管理側よりこのページの編集を厳しく制限されるようになってしまったのが原因である。
   - また、[7月21日](../Page/7月21日.md "wikilink")、コーナーの廃止に伴い、新コーナー『デリ福』がスタート。
-  - [10月20日](../Page/10月20日.md "wikilink")、福田が遅刻（3時すぎに福田に電話したときまだ家に居たようで、すいませんを連呼）したため前半は徳井が一人で進行を行った。「福田に罰ゲームをさせるべき」という流れだったが、到着後福田はこれを頑なに拒否。挙句の果てに何が悪いのかと開き直った。徳井も「福田はこういうのほんとに嫌がるから…」とうやむやになり3時台が終了した。また、同じ曲（アニメ[フクちゃん](https://ja.wikipedia.org/wiki/フクちゃん "wikilink")のテーマ曲）を何回も繰り返し放送した。またこの時の福田の「ごめんなさい」のセリフがジングルになった。
+  - [10月20日](../Page/10月20日.md "wikilink")、福田が遅刻（3時すぎに福田に電話したときまだ家に居たようで、すいませんを連呼）したため前半は徳井が一人で進行を行った。「福田に罰ゲームをさせるべき」という流れだったが、到着後福田はこれを頑なに拒否。挙句の果てに何が悪いのかと開き直った。徳井も「福田はこういうのほんとに嫌がるから…」とうやむやになり3時台が終了した。また、同じ曲（アニメ[フクちゃん](../Page/フクちゃん.md "wikilink")のテーマ曲）を何回も繰り返し放送した。またこの時の福田の「ごめんなさい」のセリフがジングルになった。
 
 ### 2008年
 
   - [5月17日](../Page/5月17日.md "wikilink")、福田のイメージアップのためにスタートした『デリ福』が、「福田が拒否ばかりしてイメージがアップしない」ということで終了。それに伴い、新コーナー『福田充徳イメージランキングベスト6』がスタート。
-  - [10月18日](https://ja.wikipedia.org/wiki/10月18日 "wikilink")、徳井が遅刻したため、前半は福田が一人で進行を行った。
+  - [10月18日](../Page/10月18日.md "wikilink")、徳井が遅刻したため、前半は福田が一人で進行を行った。
 
 ## スタッフ
 
@@ -64,9 +64,9 @@
 
 ## 関連項目
 
-  - [ニッポン放送番組一覧](https://ja.wikipedia.org/wiki/ニッポン放送番組一覧 "wikilink")
+  - [ニッポン放送番組一覧](../Page/ニッポン放送番組一覧.md "wikilink")
   - [オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")
   - [オールナイトニッポンR スペシャルナイト](https://ja.wikipedia.org/wiki/オールナイトニッポンR_スペシャルナイト "wikilink")
-  - [キョートリアル\!コンニチ的チュートリアル](https://ja.wikipedia.org/wiki/キョートリアル!コンニチ的チュートリアル "wikilink")
+  - [キョートリアル\!コンニチ的チュートリアル](../Page/キョートリアル!コンニチ的チュートリアル.md "wikilink")
 
 [Category:オールナイトニッポンR](https://ja.wikipedia.org/wiki/Category:オールナイトニッポンR "wikilink")

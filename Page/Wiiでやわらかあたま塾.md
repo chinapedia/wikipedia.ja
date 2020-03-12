@@ -5,7 +5,7 @@
 
 ## 概要
 
-『[直感](https://ja.wikipedia.org/wiki/直感 "wikilink")』、『[記憶](../Page/記憶.md "wikilink")』、『[分析](https://ja.wikipedia.org/wiki/分析 "wikilink")』、『[数字](../Page/数字.md "wikilink")』、『[知覚](../Page/知覚.md "wikilink")』の5分野の簡単な問題を解いて、頭を柔らかくするゲーム。各ジャンルとも3種類（どきどきパネルでは4種類）の問題があり、3段階（あたまのストレッチではある条件を満たすと4段階に増える）のレベルが用意されており、どの問題も、解答のスピードと正確さが重視される。[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")の[Touch\! Generationsシリーズの](https://ja.wikipedia.org/wiki/Touch!_Generations "wikilink")3作目。
+『[直感](https://ja.wikipedia.org/wiki/直感 "wikilink")』、『[記憶](../Page/記憶.md "wikilink")』、『[分析](../Page/分析.md "wikilink")』、『[数字](../Page/数字.md "wikilink")』、『[知覚](../Page/知覚.md "wikilink")』の5分野の簡単な問題を解いて、頭を柔らかくするゲーム。各ジャンルとも3種類（どきどきパネルでは4種類）の問題があり、3段階（あたまのストレッチではある条件を満たすと4段階に増える）のレベルが用意されており、どの問題も、解答のスピードと正確さが重視される。[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")の[Touch\! Generationsシリーズの](../Page/Touch!_Generations.md "wikilink")3作目。
 
 ## 問題の種類
 

@@ -1,11 +1,11 @@
 > この記事は[PowerVR](https://ja.wikipedia.org/wiki/PowerVR)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Matrox_m3D_\(Rev_757-00B\).png "wikilink") m3D\]\] **PowerVR**（パワーブイアール）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[ファブレス](https://ja.wikipedia.org/wiki/ファブレス "wikilink")企業である[ビデオロジック](https://ja.wikipedia.org/wiki/ビデオロジック "wikilink")（現：）が開発した、[グラフィックコントローラ](https://ja.wikipedia.org/wiki/グラフィックコントローラ "wikilink")[IPコア](../Page/IPコア.md "wikilink")およびそれを[集積回路](../Page/集積回路.md "wikilink")として実装したグラフィックチップである。チップ製造は[NECや](../Page/日本電気.md "wikilink")[STマイクロエレクトロニクス](https://ja.wikipedia.org/wiki/STマイクロエレクトロニクス "wikilink")\[1\]等が行なってきた。当初、メインターゲットとされていた[パソコン用](../Page/パーソナルコンピュータ.md "wikilink")[ビデオカード](../Page/ビデオカード.md "wikilink")としては、ほとんど普及しなかったが、比較的メモリへの負荷が少ないというその特徴から、家庭用[ゲーム機](../Page/ゲーム機.md "wikilink")および[アーケードゲーム基板](https://ja.wikipedia.org/wiki/アーケードゲーム基板 "wikilink")、[携帯電話](../Page/携帯電話.md "wikilink")、[携帯情報端末](../Page/携帯情報端末.md "wikilink") (PDA)、[カーナビゲーション](../Page/カーナビゲーション.md "wikilink")といった[組み込みシステム](../Page/組み込みシステム.md "wikilink")に広く採用されている。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Matrox_m3D_\(Rev_757-00B\).png "wikilink") m3D\]\] **PowerVR**（パワーブイアール）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[ファブレス](../Page/ファブレス.md "wikilink")企業である[ビデオロジック](https://ja.wikipedia.org/wiki/ビデオロジック "wikilink")（現：）が開発した、[グラフィックコントローラ](https://ja.wikipedia.org/wiki/グラフィックコントローラ "wikilink")[IPコア](../Page/IPコア.md "wikilink")およびそれを[集積回路](../Page/集積回路.md "wikilink")として実装したグラフィックチップである。チップ製造は[NECや](../Page/日本電気.md "wikilink")[STマイクロエレクトロニクス](../Page/STマイクロエレクトロニクス.md "wikilink")\[1\]等が行なってきた。当初、メインターゲットとされていた[パソコン用](../Page/パーソナルコンピュータ.md "wikilink")[ビデオカード](../Page/ビデオカード.md "wikilink")としては、ほとんど普及しなかったが、比較的メモリへの負荷が少ないというその特徴から、家庭用[ゲーム機](../Page/ゲーム機.md "wikilink")および[アーケードゲーム基板](../Page/アーケードゲーム基板.md "wikilink")、[携帯電話](../Page/携帯電話.md "wikilink")、[携帯情報端末](../Page/携帯情報端末.md "wikilink") (PDA)、[カーナビゲーション](../Page/カーナビゲーション.md "wikilink")といった[組み込みシステム](../Page/組み込みシステム.md "wikilink")に広く採用されている。
 
-また [Intel Atom](https://ja.wikipedia.org/wiki/Intel_Atom "wikilink")、Apple Axシリーズ、[Texas Instruments OMAP](https://ja.wikipedia.org/wiki/Texas_Instruments_OMAP "wikilink") などに GPU として組み込まれ、携帯電話・タブレットなどに広く採用されている。
+また [Intel Atom](https://ja.wikipedia.org/wiki/Intel_Atom "wikilink")、Apple Axシリーズ、[Texas Instruments OMAP](../Page/Texas_Instruments_OMAP.md "wikilink") などに GPU として組み込まれ、携帯電話・タブレットなどに広く採用されている。
 
-特徴は、[Zバッファ](https://ja.wikipedia.org/wiki/Zバッファ "wikilink")法で通常行なうような「手前にある物体は上書きする」という方式を採らず、「一番手前の物体しか描画しない」という手法により、Zバッファ用のメモリをほぼ不要にした点である。タイル単位でこの処理を行なうことから "tile-based deferred rendering" と呼んでおり、TBDRと略す（詳細は[w:Tiled renderingを参照](https://ja.wikipedia.org/wiki/w:Tiled_rendering "wikilink")）。2009年現在、[OpenGL ESの](https://ja.wikipedia.org/wiki/OpenGL_ES "wikilink")[プログラマブルシェーダー](https://ja.wikipedia.org/wiki/プログラマブルシェーダー "wikilink")や、[H.264](https://ja.wikipedia.org/wiki/H.264 "wikilink")や[MPEG-2](../Page/MPEG-2.md "wikilink")、[MPEG-4](../Page/MPEG-4.md "wikilink")などの動画コーデックに対応した高機能な製品をリリースしている。
+特徴は、[Zバッファ](../Page/Zバッファ.md "wikilink")法で通常行なうような「手前にある物体は上書きする」という方式を採らず、「一番手前の物体しか描画しない」という手法により、Zバッファ用のメモリをほぼ不要にした点である。タイル単位でこの処理を行なうことから "tile-based deferred rendering" と呼んでおり、TBDRと略す（詳細は[w:Tiled renderingを参照](https://ja.wikipedia.org/wiki/w:Tiled_rendering "wikilink")）。2009年現在、[OpenGL ESの](../Page/OpenGL_ES.md "wikilink")[プログラマブルシェーダー](https://ja.wikipedia.org/wiki/プログラマブルシェーダー "wikilink")や、[H.264](../Page/H.264.md "wikilink")や[MPEG-2](../Page/MPEG-2.md "wikilink")、[MPEG-4](../Page/MPEG-4.md "wikilink")などの動画コーデックに対応した高機能な製品をリリースしている。
 
 ## ラインナップ
 
@@ -86,24 +86,24 @@
 
 ### Series 5
 
-| モデル                     | 年                        | ダイサイズ (mm<sup>2</sup>)<sup>\[1\]</sup>                      | 設定コア<sup>\[2\]</sup>                   | フィルレート (@ 200 MHz)                                              | バス幅 ([ビット](../Page/ビット.md "wikilink")) | [API](https://ja.wikipedia.org/wiki/Application_Programming_Interface "wikilink") (version) | GFLOPS(@ 200 MHz) |
-| ----------------------- | ------------------------ | ----------------------------------------------------------- | -------------------------------------- | --------------------------------------------------------------- | -------------------------------------- | ------------------------------------------------------------------------------------------- | ----------------- |
-| メガ三角形/s<sup>\[1\]</sup> | メガピクセル/s<sup>\[1\]</sup> | [DirectX](https://ja.wikipedia.org/wiki/DirectX "wikilink") | [OpenGL](../Page/OpenGL.md "wikilink") | [OpenGL ES](https://ja.wikipedia.org/wiki/OpenGL_ES "wikilink") |                                        |                                                                                             |                   |
-| SGX520                  | Jul 2005                 | 2.6@65 nm                                                   | 1/1                                    | 7                                                               | 250                                    | 64                                                                                          | N/A               |
-| SGX530                  | Jul 2005                 | 7.2@65 nm                                                   | 2/1                                    | 14                                                              | 500                                    | 64                                                                                          | N/A               |
-| SGX531                  | Oct 2006                 | 65 nm                                                       | 2/1                                    | 14                                                              | 500                                    | 64                                                                                          | N/A               |
-| SGX535                  | Nov 2007                 | 65 nm                                                       | 2/2                                    | 14                                                              | 500                                    | 64                                                                                          | 9.0L              |
-| SGX540                  | Nov 2007                 | 65 nm                                                       | 4/2                                    | 20                                                              | 1000                                   | 64                                                                                          | N/A               |
-| SGX545                  | Jan 2010                 | 12.5@65 nm                                                  | 4/2                                    | 40                                                              | 1000                                   | 64                                                                                          | 10.1              |
+| モデル                     | 年                        | ダイサイズ (mm<sup>2</sup>)<sup>\[1\]</sup>                      | 設定コア<sup>\[2\]</sup>                   | フィルレート (@ 200 MHz)                           | バス幅 ([ビット](../Page/ビット.md "wikilink")) | [API](https://ja.wikipedia.org/wiki/Application_Programming_Interface "wikilink") (version) | GFLOPS(@ 200 MHz) |
+| ----------------------- | ------------------------ | ----------------------------------------------------------- | -------------------------------------- | -------------------------------------------- | -------------------------------------- | ------------------------------------------------------------------------------------------- | ----------------- |
+| メガ三角形/s<sup>\[1\]</sup> | メガピクセル/s<sup>\[1\]</sup> | [DirectX](https://ja.wikipedia.org/wiki/DirectX "wikilink") | [OpenGL](../Page/OpenGL.md "wikilink") | [OpenGL ES](../Page/OpenGL_ES.md "wikilink") |                                        |                                                                                             |                   |
+| SGX520                  | Jul 2005                 | 2.6@65 nm                                                   | 1/1                                    | 7                                            | 250                                    | 64                                                                                          | N/A               |
+| SGX530                  | Jul 2005                 | 7.2@65 nm                                                   | 2/1                                    | 14                                           | 500                                    | 64                                                                                          | N/A               |
+| SGX531                  | Oct 2006                 | 65 nm                                                       | 2/1                                    | 14                                           | 500                                    | 64                                                                                          | N/A               |
+| SGX535                  | Nov 2007                 | 65 nm                                                       | 2/2                                    | 14                                           | 500                                    | 64                                                                                          | 9.0L              |
+| SGX540                  | Nov 2007                 | 65 nm                                                       | 4/2                                    | 20                                           | 1000                                   | 64                                                                                          | N/A               |
+| SGX545                  | Jan 2010                 | 12.5@65 nm                                                  | 4/2                                    | 40                                           | 1000                                   | 64                                                                                          | 10.1              |
 
 ### Series 5XT
 
-| モデル                     | 日時                       | コア                                                          | ダイサイズ (mm<sup>2</sup>)<sup>\[1\]</sup> | 設定コア<sup>\[3\]</sup>                                      | フィルレート (@ 200 MHz) | バス幅 ([ビット](../Page/ビット.md "wikilink")) | API (version) | GFLOPS(@ 200 MHz,per core) |
-| ----------------------- | ------------------------ | ----------------------------------------------------------- | -------------------------------------- | --------------------------------------------------------- | ------------------ | -------------------------------------- | ------------- | -------------------------- |
-| メガ三角形/s<sup>\[1\]</sup> | メガピクセル/s<sup>\[1\]</sup> | [DirectX](https://ja.wikipedia.org/wiki/DirectX "wikilink") | [OpenGL](../Page/OpenGL.md "wikilink") | [OpenCL](https://ja.wikipedia.org/wiki/OpenCL "wikilink") |                    |                                        |               |                            |
-| SGX543                  | Jan 2009                 | 1-16                                                        | 5.4@40nm                               | 4/2                                                       | 35                 | 1000                                   | 64            | 9.0L                       |
-| SGX544                  | Jun 2010                 | 1-16                                                        | 5.4@40nm                               | 4/2                                                       | 35                 | 1000                                   | 64            | 9.0                        |
-| SGX554                  | Dec 2010                 | 1-16                                                        | 8.7@40nm                               | 8/2                                                       | 〜50                | 1000                                   | 64            | 9.0                        |
+| モデル                     | 日時                       | コア                                                          | ダイサイズ (mm<sup>2</sup>)<sup>\[1\]</sup> | 設定コア<sup>\[3\]</sup>                   | フィルレート (@ 200 MHz) | バス幅 ([ビット](../Page/ビット.md "wikilink")) | API (version) | GFLOPS(@ 200 MHz,per core) |
+| ----------------------- | ------------------------ | ----------------------------------------------------------- | -------------------------------------- | -------------------------------------- | ------------------ | -------------------------------------- | ------------- | -------------------------- |
+| メガ三角形/s<sup>\[1\]</sup> | メガピクセル/s<sup>\[1\]</sup> | [DirectX](https://ja.wikipedia.org/wiki/DirectX "wikilink") | [OpenGL](../Page/OpenGL.md "wikilink") | [OpenCL](../Page/OpenCL.md "wikilink") |                    |                                        |               |                            |
+| SGX543                  | Jan 2009                 | 1-16                                                        | 5.4@40nm                               | 4/2                                    | 35                 | 1000                                   | 64            | 9.0L                       |
+| SGX544                  | Jun 2010                 | 1-16                                                        | 5.4@40nm                               | 4/2                                    | 35                 | 1000                                   | 64            | 9.0                        |
+| SGX554                  | Dec 2010                 | 1-16                                                        | 8.7@40nm                               | 8/2                                    | 〜50                | 1000                                   | 64            | 9.0                        |
 
 これらの GPU はシングルコアでもマルチコアでも利用可能。\[2\]
 
@@ -148,10 +148,10 @@ USSEx, 第6世代TBDR\[3\]
 <td><p>MPolygons/s</p></td>
 <td><p>(<a href="https://ja.wikipedia.org/wiki/Pixel" title="wikilink">GP</a>/s)</p></td>
 <td><p>(<a href="https://ja.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/OpenGL_ES" title="wikilink">OpenGL ES</a></p></td>
+<td><p><a href="../Page/OpenGL_ES.md" title="wikilink">OpenGL ES</a></p></td>
 <td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/OpenCL" title="wikilink">OpenCL</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Direct3D" title="wikilink">Direct3D</a></p></td>
+<td><p><a href="../Page/OpenCL.md" title="wikilink">OpenCL</a></p></td>
+<td><p><a href="../Page/Direct3D.md" title="wikilink">Direct3D</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -264,10 +264,10 @@ USSEx, 第6世代TBDR\[3\]
 <td><p>MPolygons/s</p></td>
 <td><p>(<a href="https://ja.wikipedia.org/wiki/Pixel" title="wikilink">GP</a>/s)</p></td>
 <td><p>(<a href="https://ja.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/OpenGL_ES" title="wikilink">OpenGL ES</a></p></td>
+<td><p><a href="../Page/OpenGL_ES.md" title="wikilink">OpenGL ES</a></p></td>
 <td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/OpenCL" title="wikilink">OpenCL</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Direct3D" title="wikilink">Direct3D</a></p></td>
+<td><p><a href="../Page/OpenCL.md" title="wikilink">OpenCL</a></p></td>
+<td><p><a href="../Page/Direct3D.md" title="wikilink">Direct3D</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -380,10 +380,10 @@ USSEx, 第6世代TBDR\[3\]
 <td><p>MPolygons/s</p></td>
 <td><p>(<a href="https://ja.wikipedia.org/wiki/Pixel" title="wikilink">GP</a>/s)</p></td>
 <td><p>(<a href="https://ja.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/OpenGL_ES" title="wikilink">OpenGL ES</a></p></td>
+<td><p><a href="../Page/OpenGL_ES.md" title="wikilink">OpenGL ES</a></p></td>
 <td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/OpenCL" title="wikilink">OpenCL</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Direct3D" title="wikilink">Direct3D</a></p></td>
+<td><p><a href="../Page/OpenCL.md" title="wikilink">OpenCL</a></p></td>
+<td><p><a href="../Page/Direct3D.md" title="wikilink">Direct3D</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -457,10 +457,10 @@ USSEx, 第6世代TBDR\[3\]
 <td><p>MPolygons/s</p></td>
 <td><p>(<a href="https://ja.wikipedia.org/wiki/Pixel" title="wikilink">GP</a>/s)</p></td>
 <td><p>(<a href="https://ja.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/OpenGL_ES" title="wikilink">OpenGL ES</a></p></td>
+<td><p><a href="../Page/OpenGL_ES.md" title="wikilink">OpenGL ES</a></p></td>
 <td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/OpenCL" title="wikilink">OpenCL</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Direct3D" title="wikilink">Direct3D</a></p></td>
+<td><p><a href="../Page/OpenCL.md" title="wikilink">OpenCL</a></p></td>
+<td><p><a href="../Page/Direct3D.md" title="wikilink">Direct3D</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -552,9 +552,9 @@ USSEx, 第6世代TBDR\[3\]
 ### ビデオカード
 
   - [日本電気ホームエレクトロニクス](../Page/日本電気ホームエレクトロニクス.md "wikilink") PC 3DEngine(PCX1)およびPC 3DEngine2(PCX2) - PowerVR搭載の3Dビデオカード。
-  - [Matrox](https://ja.wikipedia.org/wiki/Matrox "wikilink") m3D 4MB PCI - PowerVR(PCX2)搭載、3D専用ビデオカード。
-  - [メルコ](https://ja.wikipedia.org/wiki/バッファロー_\(パソコン周辺機器\) "wikilink") TGP-VR4 - PowerVR(PCX1)搭載、3D専用ビデオカード。
-  - [アイ・オー・データ機器](https://ja.wikipedia.org/wiki/アイ・オー・データ機器 "wikilink") GA-PVR3D4/PCI - PowerVR(PCX1)搭載、3D専用ビデオカード。
+  - [Matrox](../Page/Matrox.md "wikilink") m3D 4MB PCI - PowerVR(PCX2)搭載、3D専用ビデオカード。
+  - [メルコ](../Page/バッファロー_\(パソコン周辺機器\).md "wikilink") TGP-VR4 - PowerVR(PCX1)搭載、3D専用ビデオカード。
+  - [アイ・オー・データ機器](../Page/アイ・オー・データ機器.md "wikilink") GA-PVR3D4/PCI - PowerVR(PCX1)搭載、3D専用ビデオカード。
   - [PowerColor](https://ja.wikipedia.org/wiki/PowerColor "wikilink") EVIL KYRO 32MB AGP - PowerVR3 KYRO搭載ビデオカード。
   - Hercules 3D PROPHET 4500 - PowerVR3 KYROII(STG4500-X)搭載ビデオカード\[10\]
 
@@ -563,36 +563,36 @@ USSEx, 第6世代TBDR\[3\]
 [thumb](https://ja.wikipedia.org/wiki/ファイル:DreamcastConsole.jpg "wikilink")
 
   - [ドリームキャスト](../Page/ドリームキャスト.md "wikilink")
-  - [NAOMI](https://ja.wikipedia.org/wiki/NAOMI "wikilink")
+  - [NAOMI](../Page/NAOMI.md "wikilink")
   - [NAOMI2](https://ja.wikipedia.org/wiki/NAOMI2 "wikilink")
-  - [ATOMISWAVE](https://ja.wikipedia.org/wiki/ATOMISWAVE "wikilink")
+  - [ATOMISWAVE](../Page/ATOMISWAVE.md "wikilink")
   - [PlayStation Vita](https://ja.wikipedia.org/wiki/PlayStation_Vita "wikilink")/[PlayStation Vita TV](https://ja.wikipedia.org/wiki/PlayStation_Vita_TV "wikilink")(SGX543MP4+)\[11\]\[12\]
   - [プレイステーション クラシック](https://ja.wikipedia.org/wiki/プレイステーション_クラシック "wikilink")
 
 ### 携帯電話
 
-  - [富士通](../Page/富士通.md "wikilink") [FOMA](../Page/FOMA.md "wikilink") [F902i](https://ja.wikipedia.org/wiki/F902i "wikilink")、[F901i](https://ja.wikipedia.org/wiki/F901i "wikilink")、[F702iD](../Page/F702iD.md "wikilink")、[F902iS](https://ja.wikipedia.org/wiki/F902iS "wikilink")
-  - [三菱電機](../Page/三菱電機.md "wikilink") FOMA [D702i](https://ja.wikipedia.org/wiki/D702i "wikilink")、[D901i](https://ja.wikipedia.org/wiki/D901i "wikilink")、[D901iS](https://ja.wikipedia.org/wiki/D901iS "wikilink")、[D902i](https://ja.wikipedia.org/wiki/D902i "wikilink")、[D902iS](https://ja.wikipedia.org/wiki/D902iS "wikilink")、[MUSIC PORTER X](https://ja.wikipedia.org/wiki/MUSIC_PORTER_X "wikilink")
-  - [日本電気](../Page/日本電気.md "wikilink") FOMA [N902i](https://ja.wikipedia.org/wiki/N902i "wikilink")、[N902iS](https://ja.wikipedia.org/wiki/N902iS "wikilink")、[N902iX HIGH-SPEED](https://ja.wikipedia.org/wiki/N902iX_HIGH-SPEED "wikilink")
-  - [パナソニック モバイルコミュニケーションズ](https://ja.wikipedia.org/wiki/パナソニック_モバイルコミュニケーションズ "wikilink") FOMA [P702iS](https://ja.wikipedia.org/wiki/P702iS "wikilink")、[P902i](https://ja.wikipedia.org/wiki/P902i "wikilink")、[P902iS](https://ja.wikipedia.org/wiki/P902iS "wikilink")
-  - [シャープ](../Page/シャープ.md "wikilink") [SH702iD](../Page/SH702iD.md "wikilink")、[SH702iS](../Page/SH702iS.md "wikilink")、[SH902i](https://ja.wikipedia.org/wiki/SH902i "wikilink")、[SH902iS](https://ja.wikipedia.org/wiki/SH902iS "wikilink")、[DOLCE SL](../Page/DOLCE_SL.md "wikilink")
-  - [ソニー・エリクソン・モバイルコミュニケーションズ](https://ja.wikipedia.org/wiki/ソニー・エリクソン・モバイルコミュニケーションズ "wikilink") [P990](https://ja.wikipedia.org/wiki/P990 "wikilink")、[M600](https://ja.wikipedia.org/wiki/M600 "wikilink")、[W950](https://ja.wikipedia.org/wiki/W950 "wikilink")、FOMA [SO902iWP+](https://ja.wikipedia.org/wiki/SO902iWP+ "wikilink")、[M600i](https://ja.wikipedia.org/wiki/M600i "wikilink")
+  - [富士通](../Page/富士通.md "wikilink") [FOMA](../Page/FOMA.md "wikilink") [F902i](../Page/F902i.md "wikilink")、[F901i](https://ja.wikipedia.org/wiki/F901i "wikilink")、[F702iD](../Page/F702iD.md "wikilink")、[F902iS](../Page/F902iS.md "wikilink")
+  - [三菱電機](../Page/三菱電機.md "wikilink") FOMA [D702i](../Page/D702i.md "wikilink")、[D901i](../Page/D901i.md "wikilink")、[D901iS](../Page/D901iS.md "wikilink")、[D902i](../Page/D902i.md "wikilink")、[D902iS](../Page/D902iS.md "wikilink")、[MUSIC PORTER X](../Page/MUSIC_PORTER_X.md "wikilink")
+  - [日本電気](../Page/日本電気.md "wikilink") FOMA [N902i](../Page/N902i.md "wikilink")、[N902iS](../Page/N902iS.md "wikilink")、[N902iX HIGH-SPEED](../Page/N902iX_HIGH-SPEED.md "wikilink")
+  - [パナソニック モバイルコミュニケーションズ](../Page/パナソニック_モバイルコミュニケーションズ.md "wikilink") FOMA [P702iS](https://ja.wikipedia.org/wiki/P702iS "wikilink")、[P902i](../Page/P902i.md "wikilink")、[P902iS](../Page/P902iS.md "wikilink")
+  - [シャープ](../Page/シャープ.md "wikilink") [SH702iD](../Page/SH702iD.md "wikilink")、[SH702iS](../Page/SH702iS.md "wikilink")、[SH902i](../Page/SH902i.md "wikilink")、[SH902iS](../Page/SH902iS.md "wikilink")、[DOLCE SL](../Page/DOLCE_SL.md "wikilink")
+  - [ソニー・エリクソン・モバイルコミュニケーションズ](https://ja.wikipedia.org/wiki/ソニー・エリクソン・モバイルコミュニケーションズ "wikilink") [P990](https://ja.wikipedia.org/wiki/P990 "wikilink")、[M600](https://ja.wikipedia.org/wiki/M600 "wikilink")、[W950](https://ja.wikipedia.org/wiki/W950 "wikilink")、FOMA [SO902iWP+](../Page/SO902iWP+.md "wikilink")、[M600i](https://ja.wikipedia.org/wiki/M600i "wikilink")
   - [京セラ](../Page/京セラ.md "wikilink") [WX04K](https://ja.wikipedia.org/wiki/WX04K "wikilink")、[SoftBank 101K](https://ja.wikipedia.org/wiki/SoftBank_101K "wikilink")
   - [モトローラ](../Page/モトローラ.md "wikilink") [MS550](https://ja.wikipedia.org/wiki/MS550 "wikilink")
   - [SKテレテック](https://ja.wikipedia.org/wiki/SKテレテック "wikilink") [IM-8300](https://ja.wikipedia.org/wiki/IM-8300 "wikilink")
   - [Pepperpad](https://ja.wikipedia.org/wiki/Pepperpad "wikilink")
   - [Helio Hero](https://ja.wikipedia.org/wiki/Helio_Hero "wikilink")
   - [アップル](../Page/アップル_\(企業\).md "wikilink") [iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")
-  - [ASUS](https://ja.wikipedia.org/wiki/ASUS "wikilink") [ZenFone2](https://ja.wikipedia.org/wiki/ZenFone2 "wikilink")
+  - [ASUS](../Page/ASUS.md "wikilink") [ZenFone2](https://ja.wikipedia.org/wiki/ZenFone2 "wikilink")
 
 ### PDA・モバイル端末
 
   - [デル](../Page/デル.md "wikilink") [Axim](../Page/Axim.md "wikilink") X50v、X51v
-  - アップル [iPad](https://ja.wikipedia.org/wiki/iPad "wikilink")、[iPad mini](https://ja.wikipedia.org/wiki/iPad_mini "wikilink")、[iPod touch](https://ja.wikipedia.org/wiki/iPod_touch "wikilink")、[Apple TV](https://ja.wikipedia.org/wiki/Apple_TV "wikilink")
+  - アップル [iPad](https://ja.wikipedia.org/wiki/iPad "wikilink")、[iPad mini](https://ja.wikipedia.org/wiki/iPad_mini "wikilink")、[iPod touch](https://ja.wikipedia.org/wiki/iPod_touch "wikilink")、[Apple TV](../Page/Apple_TV.md "wikilink")
 
 ### カーナビゲーション
 
-  - [クラリオン](https://ja.wikipedia.org/wiki/クラリオン "wikilink") MAX960
+  - [クラリオン](../Page/クラリオン.md "wikilink") MAX960
   - 三菱電機 HDD Navi H9000、H9700
   - [パイオニア](https://ja.wikipedia.org/wiki/パイオニア "wikilink") Cybernavi AVIC-VH009
 

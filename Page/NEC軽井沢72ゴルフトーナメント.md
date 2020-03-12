@@ -1,9 +1,9 @@
 > この記事は[NEC72](https://ja.wikipedia.org/wiki/NEC72)から翻訳されています。
 
 
-**NEC軽井沢72ゴルフトーナメント**（エヌイーシーかるいざわセブンツーゴルフトーナメント）は[日本女子プロゴルフ協会](https://ja.wikipedia.org/wiki/日本女子プロゴルフ協会 "wikilink")公認の女子プロ[ゴルフ](../Page/ゴルフ.md "wikilink")[トーナメントの一つであり](../Page/トーナメント方式.md "wikilink")、毎年8月第2週に[長野県](../Page/長野県.md "wikilink")[北佐久郡](../Page/北佐久郡.md "wikilink")[軽井沢町](../Page/軽井沢町.md "wikilink")にある[軽井沢72ゴルフ](https://ja.wikipedia.org/wiki/軽井沢72ゴルフ "wikilink")北コースを舞台に行われている。[2019年](../Page/2019年.md "wikilink")現在、賞金総額8000万円、優勝賞金1440万円\[1\]。
+**NEC軽井沢72ゴルフトーナメント**（エヌイーシーかるいざわセブンツーゴルフトーナメント）は[日本女子プロゴルフ協会](../Page/日本女子プロゴルフ協会.md "wikilink")公認の女子プロ[ゴルフ](../Page/ゴルフ.md "wikilink")[トーナメントの一つであり](../Page/トーナメント方式.md "wikilink")、毎年8月第2週に[長野県](../Page/長野県.md "wikilink")[北佐久郡](../Page/北佐久郡.md "wikilink")[軽井沢町](../Page/軽井沢町.md "wikilink")にある[軽井沢72ゴルフ](https://ja.wikipedia.org/wiki/軽井沢72ゴルフ "wikilink")北コースを舞台に行われている。[2019年](../Page/2019年.md "wikilink")現在、賞金総額8000万円、優勝賞金1440万円\[1\]。
 
-[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")から[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")までは[東急グループ](https://ja.wikipedia.org/wiki/東急グループ "wikilink")の主催により「**軽井沢72・東急女子オープンゴルフトーナメント**」として行われていたが、東急グループが1991年限りで[スポンサー](https://ja.wikipedia.org/wiki/スポンサー "wikilink")から撤退。代わって翌[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")からは[NECグループ](../Page/NECグループ.md "wikilink")の主催により現在の名称で行われている\[2\]。
+[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")から[1991年](../Page/1991年.md "wikilink")までは[東急グループ](https://ja.wikipedia.org/wiki/東急グループ "wikilink")の主催により「**軽井沢72・東急女子オープンゴルフトーナメント**」として行われていたが、東急グループが1991年限りで[スポンサー](../Page/スポンサー.md "wikilink")から撤退。代わって翌[1992年](../Page/1992年.md "wikilink")からは[NECグループ](../Page/NECグループ.md "wikilink")の主催により現在の名称で行われている\[2\]。
 
 ## 大会歴代優勝者
 

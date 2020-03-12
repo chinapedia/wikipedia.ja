@@ -42,9 +42,9 @@
 
 ## 引用作品
 
-  - [ローラ・インガルス・ワイルダー](https://ja.wikipedia.org/wiki/ローラ・インガルス・ワイルダー "wikilink")著『プラム・クリークの土手で』の中で、小さな女の子たちはいつも「ばらの花輪」(Ring around a rosy) で遊んだと記されている。
-  - [トム・クルーズ](https://ja.wikipedia.org/wiki/トム・クルーズ "wikilink")主演のアメリカ映画『[ミッション:インポッシブル2](https://ja.wikipedia.org/wiki/ミッション:インポッシブル2 "wikilink")』の冒頭で、子供たちがこの唄を歌っている。
-  - [Ndemic Creations製作のゲーム](https://ja.wikipedia.org/wiki/Ndemic_Creations "wikilink")『[Plague inc](https://ja.wikipedia.org/wiki/Plague_inc "wikilink")』のゲーム中、[BGMとしてランダムに子供の声で流れる](https://ja.wikipedia.org/wiki/バックグラウンドミュージック "wikilink")。
+  - [ローラ・インガルス・ワイルダー](../Page/ローラ・インガルス・ワイルダー.md "wikilink")著『プラム・クリークの土手で』の中で、小さな女の子たちはいつも「ばらの花輪」(Ring around a rosy) で遊んだと記されている。
+  - [トム・クルーズ](https://ja.wikipedia.org/wiki/トム・クルーズ "wikilink")主演のアメリカ映画『[ミッション:インポッシブル2](../Page/ミッション:インポッシブル2.md "wikilink")』の冒頭で、子供たちがこの唄を歌っている。
+  - [Ndemic Creations製作のゲーム](https://ja.wikipedia.org/wiki/Ndemic_Creations "wikilink")『[Plague inc](https://ja.wikipedia.org/wiki/Plague_inc "wikilink")』のゲーム中、[BGMとしてランダムに子供の声で流れる](../Page/バックグラウンドミュージック.md "wikilink")。
   - [Fate/EXTRA\#テレビアニメ「Fate/EXTRA Last Encore」のキャラクター](https://ja.wikipedia.org/wiki/Fate/EXTRA#テレビアニメ「Fate/EXTRA_Last_Encore」 "wikilink")「ありす」が、怪物へと変異し殺戮を犯してしまうシーンのBGMとして流れる。
 
 ## 関連する唄
@@ -56,11 +56,11 @@
 
 [Category:童歌](https://ja.wikipedia.org/wiki/Category:童歌 "wikilink") [Category:イギリスの民謡](https://ja.wikipedia.org/wiki/Category:イギリスの民謡 "wikilink") [Category:マザー・グース](https://ja.wikipedia.org/wiki/Category:マザー・グース "wikilink") [Category:バラを題材とした楽曲](https://ja.wikipedia.org/wiki/Category:バラを題材とした楽曲 "wikilink")
 
-1.  イギリスと[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")では歌詞が異なり、[西田ひかる](../Page/西田ひかる.md "wikilink")は『<small>[ケイト・グリーナウェイ](https://ja.wikipedia.org/wiki/ケイト・グリーナウェイ "wikilink")の</small>マザーグース』（[飛鳥新社](https://ja.wikipedia.org/wiki/飛鳥新社 "wikilink")、2003年）のあとがきに「勘違いで子供の頃は、"Ring around a roses"と歌っていました」と記しているが、それは勘違いではなくアメリカ版の歌詞で、[カリフォルニア](https://ja.wikipedia.org/wiki/カリフォルニア "wikilink")育ちの西田がこのバージョンで覚えているのはむしろ当然であると、[鷲津名都江](https://ja.wikipedia.org/wiki/鷲津名都江 "wikilink")は『ようこそ「マザーグース」の世界へ』（[日本放送出版協会](https://ja.wikipedia.org/wiki/日本放送出版協会 "wikilink")、2007年）に記している。
+1.  イギリスと[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")では歌詞が異なり、[西田ひかる](../Page/西田ひかる.md "wikilink")は『<small>[ケイト・グリーナウェイ](../Page/ケイト・グリーナウェイ.md "wikilink")の</small>マザーグース』（[飛鳥新社](../Page/飛鳥新社.md "wikilink")、2003年）のあとがきに「勘違いで子供の頃は、"Ring around a roses"と歌っていました」と記しているが、それは勘違いではなくアメリカ版の歌詞で、[カリフォルニア](https://ja.wikipedia.org/wiki/カリフォルニア "wikilink")育ちの西田がこのバージョンで覚えているのはむしろ当然であると、[鷲津名都江](../Page/鷲津名都江.md "wikilink")は『ようこそ「マザーグース」の世界へ』（[日本放送出版協会](https://ja.wikipedia.org/wiki/日本放送出版協会 "wikilink")、2007年）に記している。
 2.  鳥山淳子は『もっと知りたいマザーグース』（スクリーンプレイ、2002年）の中で、アメリカでは"Ring around the rosy"と歌われていると記している。
-3.  鷲津名都江著『<small>英国への招待　</small>マザー・グースをたずねて』（[筑摩書房](https://ja.wikipedia.org/wiki/筑摩書房 "wikilink")、1996年）参照。
+3.  鷲津名都江著『<small>英国への招待　</small>マザー・グースをたずねて』（[筑摩書房](../Page/筑摩書房.md "wikilink")、1996年）参照。
 4.
 5.  鳥山淳子著『もっと知りたいマザーグース』（スクリーンプレイ、2002年）参照。
-6.  藤野紀男は『<small>図説　</small>マザーグース』（[河出書房新社](https://ja.wikipedia.org/wiki/河出書房新社 "wikilink")、2007年）に、この唄は14世紀と17世紀に大流行したペストの奇禍（きか）を歌い込んだものとされていると記している。
+6.  藤野紀男は『<small>図説　</small>マザーグース』（[河出書房新社](../Page/河出書房新社.md "wikilink")、2007年）に、この唄は14世紀と17世紀に大流行したペストの奇禍（きか）を歌い込んだものとされていると記している。
 7.
 8.

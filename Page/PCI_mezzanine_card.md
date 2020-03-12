@@ -20,7 +20,7 @@ PMC規格によってシリアル通信、[SCSI](../Page/Small_Computer_System_I
   - PMC-X ([PCI-X](../Page/PCI-X.md "wikilink") PMC) VITA 39規格
   - PPMC (processor PMC) VITA 32規格
   - CCPMC (conduction-cooled PMC) VITA 20規格
-  - XMC (PMC with high-speed serial fabric interconnect) VITA 42規格。XMCは[PCI Express](https://ja.wikipedia.org/wiki/PCI_Express "wikilink")(VITA 42.3規格)かSerial RapidIO(VITA 42.2規格)とParallel RapdIO(VITA 42.1規格)のような他の高速シリアル通信をサポートする5番目のコネクタ(P5)を規定している。
+  - XMC (PMC with high-speed serial fabric interconnect) VITA 42規格。XMCは[PCI Express](../Page/PCI_Express.md "wikilink")(VITA 42.3規格)かSerial RapidIO(VITA 42.2規格)とParallel RapdIO(VITA 42.1規格)のような他の高速シリアル通信をサポートする5番目のコネクタ(P5)を規定している。
 
 ## 外部リンク
 

@@ -7,19 +7,19 @@
 
   - AYA(Vocal)
 
-[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")出身。
+[大阪府](../Page/大阪府.md "wikilink")出身。
 
   - Fuming(Piano)
 
-[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")出身。アワラブのリーダー。多数のアーティストに楽曲提供している。
+[大阪府](../Page/大阪府.md "wikilink")出身。アワラブのリーダー。多数のアーティストに楽曲提供している。
 
   - Tamotsu(W.Bass)
 
-[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身。バンド活動以外にも[リュ・シウォン](https://ja.wikipedia.org/wiki/リュ・シウォン "wikilink")や[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")などのレコーディング、ライブサポートを務める。
+[東京都](../Page/東京都.md "wikilink")出身。バンド活動以外にも[リュ・シウォン](../Page/リュ・シウォン.md "wikilink")や[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")などのレコーディング、ライブサポートを務める。
 
 ## 来歴
 
-  - 1997年、[大阪でFumingとAyaにより結成](https://ja.wikipedia.org/wiki/大阪市 "wikilink")。上京後、Tamotsuが加入し現編成となる。ライブやイベントに多数出演した後、2004年4月にシングル「春」で[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")からメジャーデビュー。以後も精力的に活動を続けたが、2008年5月6日、渋谷7th FLOORでのライブを最後に活動を停止（本人達は「卒業」）した。
+  - 1997年、[大阪でFumingとAyaにより結成](../Page/大阪市.md "wikilink")。上京後、Tamotsuが加入し現編成となる。ライブやイベントに多数出演した後、2004年4月にシングル「春」で[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")からメジャーデビュー。以後も精力的に活動を続けたが、2008年5月6日、渋谷7th FLOORでのライブを最後に活動を停止（本人達は「卒業」）した。
 
 ## ディスコグラフィ
 

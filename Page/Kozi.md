@@ -1,7 +1,7 @@
 > この記事は[Kozi](https://ja.wikipedia.org/wiki/Kozi)から翻訳されています。
 
 
-**Közi**（コージ、[1972年](../Page/1972年.md "wikilink")[5月29日](../Page/5月29日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")、[シンセシスト](../Page/シンセサイザー奏者.md "wikilink")。現在活動停止中の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")[MALICE MIZER](https://ja.wikipedia.org/wiki/MALICE_MIZER "wikilink")、及び、現在は海外での活動を中心とするEve of Destinyの[ギタリスト](../Page/ギタリスト.md "wikilink")。また、[ZIZ](https://ja.wikipedia.org/wiki/ZIZ "wikilink")の[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")であり、国内でのソロ活動では主に[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")を担当している。
+**Közi**（コージ、[1972年](../Page/1972年.md "wikilink")[5月29日](../Page/5月29日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")、[シンセシスト](../Page/シンセサイザー奏者.md "wikilink")。現在活動停止中の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")[MALICE MIZER](../Page/MALICE_MIZER.md "wikilink")、及び、現在は海外での活動を中心とするEve of Destinyの[ギタリスト](../Page/ギタリスト.md "wikilink")。また、[ZIZ](https://ja.wikipedia.org/wiki/ZIZ "wikilink")の[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")であり、国内でのソロ活動では主に[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")を担当している。
 
 Girl及びBeyond The Reinsightという2つのバンドを経て、アルバイト先で知り合った[Manaと摩天楼というバンドで共に活動](../Page/Mana_\(ミュージシャン\).md "wikilink")。以後は略歴を参照のこと。
 
@@ -15,11 +15,11 @@ MALICE MIZER後のEve of Destinyでのステージやサウンドはよりゴシ
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")5月、活動休止中の[deadman](https://ja.wikipedia.org/wiki/deadman "wikilink")のボーカル[眞呼](https://ja.wikipedia.org/wiki/眞呼 "wikilink")が発表したパーソナルブック“ buried alive by words”に付属するソロCD「buried with the light」で、ゲスト・ミュージシャンとしてギターとベースにて参加している。
 
-Köziソロとして、2008年12月にMana率いる[Moi dix Moisのイベントゲスト](https://ja.wikipedia.org/wiki/Moi_dix_Mois "wikilink")、2009年7月にMoi dix Moisとのカップリングツアーにて公演。
+Köziソロとして、2008年12月にMana率いる[Moi dix Moisのイベントゲスト](../Page/Moi_dix_Mois.md "wikilink")、2009年7月にMoi dix Moisとのカップリングツアーにて公演。
 
 ## 略歴
 
-  - [1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")8月 - 摩天楼を経て、[Manaと](../Page/Mana_\(ミュージシャン\).md "wikilink")[MALICE MIZER結成](https://ja.wikipedia.org/wiki/MALICE_MIZER "wikilink")
+  - [1992年](../Page/1992年.md "wikilink")8月 - 摩天楼を経て、[Manaと](../Page/Mana_\(ミュージシャン\).md "wikilink")[MALICE MIZER結成](../Page/MALICE_MIZER.md "wikilink")
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") - [日本コロムビア](../Page/日本コロムビア.md "wikilink")と契約しMALICE MIZERのギタリストとしてメジャーデビュー
   - [2001年](../Page/2001年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink") - MALICE MIZER活動停止
   - [2002年](../Page/2002年.md "wikilink")4月 - [HARUHIKO ASHのプロジェクトEVE](https://ja.wikipedia.org/wiki/THE_ZOLGE "wikilink") OF DESTINYへの参加を発表

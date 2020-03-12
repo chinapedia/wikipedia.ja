@@ -35,7 +35,7 @@
 
   - [BNN-20](https://ja.wikipedia.org/wiki/w:BNN-20 "wikilink")\[3\]
 
-  - [脳由来神経栄養因子](https://ja.wikipedia.org/wiki/脳由来神経栄養因子 "wikilink") (BDNF)
+  - [脳由来神経栄養因子](../Page/脳由来神経栄養因子.md "wikilink") (BDNF)
 
   - \[4\]
 

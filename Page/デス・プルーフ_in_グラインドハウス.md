@@ -1,7 +1,7 @@
 > この記事は[ in ](https://ja.wikipedia.org/wiki/_in_)から翻訳されています。
 
 
-『**デス・プルーフ in グラインドハウス**』（*Death Proof*）は、[2007年の](../Page/2007年の映画.md "wikilink")[アメリカ合衆国の](https://ja.wikipedia.org/wiki/アメリカ合衆国の映画 "wikilink")[アクション](../Page/アクション映画.md "wikilink")・[ホラー映画](../Page/ホラー映画.md "wikilink")。[クエンティン・タランティーノ](../Page/クエンティン・タランティーノ.md "wikilink")監督、[カート・ラッセル](https://ja.wikipedia.org/wiki/カート・ラッセル "wikilink")主演による[カーアクション](https://ja.wikipedia.org/wiki/カーアクション映画 "wikilink")・[スリラー映画](https://ja.wikipedia.org/wiki/スリラー映画 "wikilink")である。2本立て映画『[グラインドハウス](https://ja.wikipedia.org/wiki/グラインドハウス "wikilink")』（*Grindhouse*）の1編「デス・プルーフ」に、[アメリカでの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")2本立て公開時にカットされたシーンを加えて、1本の作品としたもの。
+『**デス・プルーフ in グラインドハウス**』（*Death Proof*）は、[2007年の](../Page/2007年の映画.md "wikilink")[アメリカ合衆国の](../Page/アメリカ合衆国の映画.md "wikilink")[アクション](../Page/アクション映画.md "wikilink")・[ホラー映画](../Page/ホラー映画.md "wikilink")。[クエンティン・タランティーノ](../Page/クエンティン・タランティーノ.md "wikilink")監督、[カート・ラッセル](https://ja.wikipedia.org/wiki/カート・ラッセル "wikilink")主演による[カーアクション](../Page/カーアクション映画.md "wikilink")・[スリラー映画](https://ja.wikipedia.org/wiki/スリラー映画 "wikilink")である。2本立て映画『[グラインドハウス](../Page/グラインドハウス.md "wikilink")』（*Grindhouse*）の1編「デス・プルーフ」に、[アメリカでの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")2本立て公開時にカットされたシーンを加えて、1本の作品としたもの。
 
 ## 概要
 
@@ -11,7 +11,7 @@
 
 ## ストーリー
 
-[テキサス州](../Page/テキサス州.md "wikilink")[オースティンの地元](https://ja.wikipedia.org/wiki/オースティン_\(テキサス州\) "wikilink")[ラジオ局](https://ja.wikipedia.org/wiki/ラジオ局 "wikilink")の人気DJジャングル・ジュリアは、長年の親友シャナの運転する車で、久しぶりに街にやって来た友人アーリーンと共に出かけた。しかし、怪しい車に乗った男がジュリアたちの前に何度もあらわれることにアーリーンは気付く。彼は、女の子たちが向かったバー「テキサス・チリ・パーラー」にも現れ、スタントマン・マイクと名乗り、ジュリアがラジオで放送したことについて、アーリーンに話しかけてくるのだった。怪しみながらも、個性的なマイクとのやり取りを楽しんでから、アーリーンとジュリアたちはバーを出て、ラナの運転の車に乗り帰路に着く。マイクも、パムと約束したために彼女を送ろうとしていた。マイクは自分の車を、カースタントのための**耐死仕様**（**デス・プルーフ**）だとパムに話す。そして発車させたとたんマイクはおぞましい本性を現し、女の子たちは皆、悲惨な死を迎えることになった。
+[テキサス州](../Page/テキサス州.md "wikilink")[オースティンの地元](../Page/オースティン_\(テキサス州\).md "wikilink")[ラジオ局](https://ja.wikipedia.org/wiki/ラジオ局 "wikilink")の人気DJジャングル・ジュリアは、長年の親友シャナの運転する車で、久しぶりに街にやって来た友人アーリーンと共に出かけた。しかし、怪しい車に乗った男がジュリアたちの前に何度もあらわれることにアーリーンは気付く。彼は、女の子たちが向かったバー「テキサス・チリ・パーラー」にも現れ、スタントマン・マイクと名乗り、ジュリアがラジオで放送したことについて、アーリーンに話しかけてくるのだった。怪しみながらも、個性的なマイクとのやり取りを楽しんでから、アーリーンとジュリアたちはバーを出て、ラナの運転の車に乗り帰路に着く。マイクも、パムと約束したために彼女を送ろうとしていた。マイクは自分の車を、カースタントのための**耐死仕様**（**デス・プルーフ**）だとパムに話す。そして発車させたとたんマイクはおぞましい本性を現し、女の子たちは皆、悲惨な死を迎えることになった。
 
 オースティンから14ヶ月後の[テネシー州](../Page/テネシー州.md "wikilink")にマイクはあらわれる。映画業界で働くキム、アバナシー、リーの3人はニュージーランドから来た仲間のゾーイを空港に迎えに行ってから、4人で仕事の合間の休みを過ごそうとしていた。そしてスタントウーマンであるゾーイの希望で、レバノンで売りに出ているという或る中古車を見に農家に行くことになる。それはゾーイの憧れの車で、440エンジン搭載の白の1970年型ダッジ・チャレンジャーだった。オーナーから許可を得たゾーイは、キムとアバナシーを伴って試乗するが、マイクがマッスル・カーで絡んでくる。何とか危機を脱した3人に、マイクは機嫌良く別れを告げるが、ゾーイたちはやられっぱなしになるような甘い女ではなかった。マイクは反対に追い詰められ、許しを請うものの、ゾーイたちに半殺しにされる。
 
@@ -19,17 +19,17 @@
 
 後述の括弧内はDVD版の日本語吹替え声優
 
-  - スタントマン・マイク・マッケイ - [カート・ラッセル](https://ja.wikipedia.org/wiki/カート・ラッセル "wikilink")（[菅生隆之](https://ja.wikipedia.org/wiki/菅生隆之 "wikilink")）
+  - スタントマン・マイク・マッケイ - [カート・ラッセル](https://ja.wikipedia.org/wiki/カート・ラッセル "wikilink")（[菅生隆之](../Page/菅生隆之.md "wikilink")）
 
 **テキサス州オースティン**
 
-  - アーリーン（バタフライ） - [ヴァネッサ・フェルリト](https://ja.wikipedia.org/wiki/ヴァネッサ・フェルリト "wikilink")（[渡辺明乃](../Page/渡辺明乃.md "wikilink")）
+  - アーリーン（バタフライ） - [ヴァネッサ・フェルリト](../Page/ヴァネッサ・フェルリト.md "wikilink")（[渡辺明乃](../Page/渡辺明乃.md "wikilink")）
 
-  - ジャングル・ジュリア・ルカイ（[ラジオ](../Page/ラジオ.md "wikilink")[DJ](../Page/ディスクジョッキー.md "wikilink")） - [シドニー・ターミア・ポワチエ](https://ja.wikipedia.org/wiki/シドニー・ターミア・ポワチエ "wikilink")（[佐古真弓](https://ja.wikipedia.org/wiki/佐古真弓 "wikilink")）
+  - ジャングル・ジュリア・ルカイ（[ラジオ](../Page/ラジオ.md "wikilink")[DJ](../Page/ディスクジョッキー.md "wikilink")） - [シドニー・ターミア・ポワチエ](../Page/シドニー・ターミア・ポワチエ.md "wikilink")（[佐古真弓](../Page/佐古真弓.md "wikilink")）
 
-  - シャナ・バナナ（ジュリアの親友） - [ジョーダン・ラッド](https://ja.wikipedia.org/wiki/ジョーダン・ラッド "wikilink")（[斉藤梨絵](https://ja.wikipedia.org/wiki/斉藤梨絵 "wikilink")）
+  - シャナ・バナナ（ジュリアの親友） - [ジョーダン・ラッド](https://ja.wikipedia.org/wiki/ジョーダン・ラッド "wikilink")（[斉藤梨絵](../Page/斉藤梨絵.md "wikilink")）
 
-  - パム（ジュリアの昔馴染み） - [ローズ・マッゴーワン](https://ja.wikipedia.org/wiki/ローズ・マッゴーワン "wikilink")（[岡本麻弥](https://ja.wikipedia.org/wiki/岡本麻弥 "wikilink")）
+  - パム（ジュリアの昔馴染み） - [ローズ・マッゴーワン](../Page/ローズ・マッゴーワン.md "wikilink")（[岡本麻弥](../Page/岡本麻弥.md "wikilink")）
 
   - ウォーレン（テキサス・チリ・パーラー店主） - [クエンティン・タランティーノ](../Page/クエンティン・タランティーノ.md "wikilink")（[青山穣](../Page/青山穣.md "wikilink")）
 
@@ -39,7 +39,7 @@
 
   - ドヴ - [イーライ・ロス](https://ja.wikipedia.org/wiki/イーライ・ロス "wikilink")
 
-  - エバ - ウラ・ベルグリッド - （[玉川砂記子](https://ja.wikipedia.org/wiki/玉川砂記子 "wikilink")）
+  - エバ - ウラ・ベルグリッド - （[玉川砂記子](../Page/玉川砂記子.md "wikilink")）
 
   - ネイト - オマー・ドゥーム
 
@@ -51,31 +51,31 @@
 
   - ヴィーナス・エンヴィー - [メリッサ・アーカロ](https://ja.wikipedia.org/wiki/メリッサ・アーカロ "wikilink")
 
-  - （[テキサス・レンジャー](https://ja.wikipedia.org/wiki/テキサス・レンジャー "wikilink")） - [マイケル・パークス](https://ja.wikipedia.org/wiki/マイケル・パークス "wikilink")
+  - （[テキサス・レンジャー](../Page/テキサス・レンジャー.md "wikilink")） - [マイケル・パークス](https://ja.wikipedia.org/wiki/マイケル・パークス "wikilink")
 
   - （テキサス・レンジャー、アールの息子） - [ジェームズ・パークス](https://ja.wikipedia.org/wiki/ジェームズ・パークス "wikilink")
 
-  - ダコタ・マクグロウ・ブロック（医師、アールの娘） - [マーリー・シェルトン](https://ja.wikipedia.org/wiki/マーリー・シェルトン "wikilink")
+  - ダコタ・マクグロウ・ブロック（医師、アールの娘） - [マーリー・シェルトン](../Page/マーリー・シェルトン.md "wikilink")
 
 **テネシー州レバノン**
 
-  - アバナシー（メイク係） - [ロザリオ・ドーソン](https://ja.wikipedia.org/wiki/ロザリオ・ドーソン "wikilink")（[高山佳音里](../Page/高山佳音里.md "wikilink")）
-  - ゾーイ・ベル（[スタントウーマン](https://ja.wikipedia.org/wiki/スタントマン "wikilink")、本人役） - [ゾーイ・ベル](https://ja.wikipedia.org/wiki/ゾーイ・ベル "wikilink")（[唐沢潤](https://ja.wikipedia.org/wiki/唐沢潤 "wikilink")）
-  - キム（スタントウーマン） - [トレイシー・トムズ](https://ja.wikipedia.org/wiki/トレイシー・トムズ "wikilink")（[高乃麗](https://ja.wikipedia.org/wiki/高乃麗 "wikilink")）
-  - リー（女優） - [メアリー・エリザベス・ウィンステッド](https://ja.wikipedia.org/wiki/メアリー・エリザベス・ウィンステッド "wikilink")（[加藤優子](https://ja.wikipedia.org/wiki/加藤優子 "wikilink")）
+  - アバナシー（メイク係） - [ロザリオ・ドーソン](../Page/ロザリオ・ドーソン.md "wikilink")（[高山佳音里](../Page/高山佳音里.md "wikilink")）
+  - ゾーイ・ベル（[スタントウーマン](../Page/スタントマン.md "wikilink")、本人役） - [ゾーイ・ベル](https://ja.wikipedia.org/wiki/ゾーイ・ベル "wikilink")（[唐沢潤](../Page/唐沢潤.md "wikilink")）
+  - キム（スタントウーマン） - [トレイシー・トムズ](https://ja.wikipedia.org/wiki/トレイシー・トムズ "wikilink")（[高乃麗](../Page/高乃麗.md "wikilink")）
+  - リー（女優） - [メアリー・エリザベス・ウィンステッド](../Page/メアリー・エリザベス・ウィンステッド.md "wikilink")（[加藤優子](https://ja.wikipedia.org/wiki/加藤優子 "wikilink")）
   - ジャスパー（中古車オーナー） - [ジョナサン・ローラン](https://ja.wikipedia.org/wiki/ジョナサン・ローラン "wikilink")
   - コンビニ店員 - [ニッキー・カット](https://ja.wikipedia.org/wiki/ニッキー・カット "wikilink")
       -
-        その他の日本語吹き替え：[藤本教子](../Page/藤本教子.md "wikilink")／[佐藤美一](https://ja.wikipedia.org/wiki/佐藤美一 "wikilink")／[中川慶一](https://ja.wikipedia.org/wiki/中川慶一 "wikilink")／[杉山大](https://ja.wikipedia.org/wiki/杉山大 "wikilink")／[寺井沙織](https://ja.wikipedia.org/wiki/寺井沙織 "wikilink")／[下田レイ](https://ja.wikipedia.org/wiki/下田レイ "wikilink")／[中村浩太郎](../Page/中村浩太郎.md "wikilink")
+        その他の日本語吹き替え：[藤本教子](../Page/藤本教子.md "wikilink")／[佐藤美一](../Page/佐藤美一.md "wikilink")／[中川慶一](../Page/中川慶一.md "wikilink")／[杉山大](../Page/杉山大.md "wikilink")／[寺井沙織](https://ja.wikipedia.org/wiki/寺井沙織 "wikilink")／[下田レイ](https://ja.wikipedia.org/wiki/下田レイ "wikilink")／[中村浩太郎](../Page/中村浩太郎.md "wikilink")
 
 ## 主な使用車両
 
 車種と運転している登場人物
 
   - [シボレー・ノヴァ](https://ja.wikipedia.org/wiki/シボレー・ノヴァ "wikilink")（1970年型） - スタントマン・マイク（オースティン）
-  - [ダッジ・チャージャー](https://ja.wikipedia.org/wiki/ダッジ・チャージャー "wikilink")（1969年型） - スタントマン・マイク（レバノン）
+  - [ダッジ・チャージャー](../Page/ダッジ・チャージャー.md "wikilink")（1969年型） - スタントマン・マイク（レバノン）
   - [ダッジ・チャレンジャー](../Page/ダッジ・チャレンジャー.md "wikilink")（1970年型） - キム
-  - [フォード・マスタング](https://ja.wikipedia.org/wiki/フォード・マスタング "wikilink")（1971年型） - キム
+  - [フォード・マスタング](../Page/フォード・マスタング.md "wikilink")（1971年型） - キム
   - [ホンダ・シビック](../Page/ホンダ・シビック.md "wikilink")（1995年型） - バタフライ
 
 ## 音楽
@@ -84,9 +84,9 @@
 
 アメリカでは、2007年4月6日に2本立ての『グラインドハウス』として2624館で公開され、週末[興行成績](https://ja.wikipedia.org/wiki/興行成績 "wikilink")で初登場4位に なった。また、5月には『デス・プルーフ』のみ[第60回](../Page/第60回カンヌ国際映画祭.md "wikilink")[カンヌ国際映画祭](../Page/カンヌ国際映画祭.md "wikilink")コンペティション部門に選ばれ上映された。
 
-日本では、アメリカ公開版『グラインドハウス』が同年8月24日から31日までの8日間限定で[TOHOシネマズ](https://ja.wikipedia.org/wiki/TOHOシネマズ "wikilink") [六本木ヒルズ](../Page/六本木ヒルズ.md "wikilink")とTOHOシネマズ [なんばの](https://ja.wikipedia.org/wiki/難波 "wikilink")2館で公開された。その後、9月1日から『デス・プルーフ in グラインドハウス』がTOHOシネマズと[みゆき座系列ほかで全国公開され](https://ja.wikipedia.org/wiki/TOHOシネマズみゆき座 "wikilink") た。
+日本では、アメリカ公開版『グラインドハウス』が同年8月24日から31日までの8日間限定で[TOHOシネマズ](https://ja.wikipedia.org/wiki/TOHOシネマズ "wikilink") [六本木ヒルズ](../Page/六本木ヒルズ.md "wikilink")とTOHOシネマズ [なんばの](../Page/難波.md "wikilink")2館で公開された。その後、9月1日から『デス・プルーフ in グラインドハウス』がTOHOシネマズと[みゆき座系列ほかで全国公開され](../Page/TOHOシネマズみゆき座.md "wikilink") た。
 
-『グラインドハウス』のもう1編「プラネット・テラー」（監督[ロバート・ロドリゲス](https://ja.wikipedia.org/wiki/ロバート・ロドリゲス "wikilink")）は、『[プラネット・テラー in グラインドハウス](https://ja.wikipedia.org/wiki/プラネット・テラー_in_グラインドハウス "wikilink")』として9月22日にTOHOシネマズとみゆき座系列ほかで全国公開された。
+『グラインドハウス』のもう1編「プラネット・テラー」（監督[ロバート・ロドリゲス](../Page/ロバート・ロドリゲス.md "wikilink")）は、『[プラネット・テラー in グラインドハウス](../Page/プラネット・テラー_in_グラインドハウス.md "wikilink")』として9月22日にTOHOシネマズとみゆき座系列ほかで全国公開された。
 
 ## 関連項目
 

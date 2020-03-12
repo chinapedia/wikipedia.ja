@@ -1,12 +1,12 @@
 > この記事は[TONGUE TE TONGUE](https://ja.wikipedia.org/wiki/TONGUE_TE_TONGUE)から翻訳されています。
 
 
-「**TONGUE TE TONGUE**」（タン テ タン）は、[SOUL'd OUTの](../Page/SOUL'd_OUT.md "wikilink")16th[シングル](../Page/シングル.md "wikilink")である。[2007年](../Page/2007年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")に[SMEレコーズより発売](https://ja.wikipedia.org/wiki/エスエムイーレコーズ "wikilink")。
+「**TONGUE TE TONGUE**」（タン テ タン）は、[SOUL'd OUTの](../Page/SOUL'd_OUT.md "wikilink")16th[シングル](../Page/シングル.md "wikilink")である。[2007年](../Page/2007年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")に[SMEレコーズより発売](../Page/エスエムイーレコーズ.md "wikilink")。
 
 ## 概要
 
   - [SOUL'd OUT初の](../Page/SOUL'd_OUT.md "wikilink")[シングル](../Page/シングル.md "wikilink")3ヶ月連続リリース企画の第2弾である。
-  - [日本武道館](https://ja.wikipedia.org/wiki/日本武道館 "wikilink")ライブ公演後に作られた曲。3ヶ月リリース企画の作品の中では最後に完成した曲で、既に完成していた「[MEGALOPOLIS PATROL](../Page/MEGALOPOLIS_PATROL.md "wikilink")」と「[COZMIC TRAVEL](https://ja.wikipedia.org/wiki/COZMIC_TRAVEL "wikilink")」に足りないものをテーマに制作された。
+  - [日本武道館](../Page/日本武道館.md "wikilink")ライブ公演後に作られた曲。3ヶ月リリース企画の作品の中では最後に完成した曲で、既に完成していた「[MEGALOPOLIS PATROL](../Page/MEGALOPOLIS_PATROL.md "wikilink")」と「[COZMIC TRAVEL](../Page/COZMIC_TRAVEL.md "wikilink")」に足りないものをテーマに制作された。
   - 3曲目の「TONGUE TE TONGUE 〜EDGE-PLAYER REMIX〜」は「TONGUE TE TONGUE」のリミックスであり、Bro.Hi率いるEDGE-PLAYERが手がけている。
 
 ## 収録曲
@@ -25,7 +25,7 @@
 ## タイアップ
 
   - TONGUE TE TONGUE
-    テレビ東京系「[流派-R](https://ja.wikipedia.org/wiki/流派-R "wikilink")」2007年10月度オープニングテーマ
+    テレビ東京系「[流派-R](../Page/流派-R.md "wikilink")」2007年10月度オープニングテーマ
 
 ## 収録アルバム
 

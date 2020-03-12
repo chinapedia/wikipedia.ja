@@ -1,9 +1,9 @@
 > この記事は[FEEL YOUNG](https://ja.wikipedia.org/wiki/FEEL_YOUNG)から翻訳されています。
 
 
-『**FEEL YOUNG**』（フィール・ヤング）は、[祥伝社](https://ja.wikipedia.org/wiki/祥伝社 "wikilink")から発売されている[ヤング女性向けの](../Page/ヤング・レディース.md "wikilink")[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")。発売日は毎月8日（[日曜日](../Page/日曜日.md "wikilink")の場合は7日）。略称「**フィーヤン**」。
+『**FEEL YOUNG**』（フィール・ヤング）は、[祥伝社](../Page/祥伝社.md "wikilink")から発売されている[ヤング女性向けの](../Page/ヤング・レディース.md "wikilink")[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")。発売日は毎月8日（[日曜日](../Page/日曜日.md "wikilink")の場合は7日）。略称「**フィーヤン**」。
 
-先だって発行されていた『FEEL』（現在休刊）の姉妹誌として[1989年](../Page/1989年.md "wikilink")に創刊。読者は20代独身女性が中心\[1\]。[レディコミ](../Page/レディースコミック.md "wikilink")[バブル](../Page/バブル.md "wikilink")とも呼ばれたブーム終焉後、大手出版社以外の競合誌が休廃刊する中で、それまで青年誌を中心に活躍していた[岡崎京子](../Page/岡崎京子.md "wikilink")、[内田春菊](https://ja.wikipedia.org/wiki/内田春菊 "wikilink")、[やまだないと](../Page/やまだないと.md "wikilink")、[南Q太](https://ja.wikipedia.org/wiki/南Q太 "wikilink")らを迎える。[少女漫画](../Page/少女漫画.md "wikilink")界で伸び悩んでいた[安野モヨコ](https://ja.wikipedia.org/wiki/安野モヨコ "wikilink")をブレイクさせるなど、質の高い誌面を維持し生き残った。現在では誌名に「ヤング」が含まれる唯一のヤングレディース誌である。 2011年3月号よりコミック誌で初めて紙と電子版の同時販売を開始した。
+先だって発行されていた『FEEL』（現在休刊）の姉妹誌として[1989年](../Page/1989年.md "wikilink")に創刊。読者は20代独身女性が中心\[1\]。[レディコミ](../Page/レディースコミック.md "wikilink")[バブル](../Page/バブル.md "wikilink")とも呼ばれたブーム終焉後、大手出版社以外の競合誌が休廃刊する中で、それまで青年誌を中心に活躍していた[岡崎京子](../Page/岡崎京子.md "wikilink")、[内田春菊](../Page/内田春菊.md "wikilink")、[やまだないと](../Page/やまだないと.md "wikilink")、[南Q太](https://ja.wikipedia.org/wiki/南Q太 "wikilink")らを迎える。[少女漫画](../Page/少女漫画.md "wikilink")界で伸び悩んでいた[安野モヨコ](https://ja.wikipedia.org/wiki/安野モヨコ "wikilink")をブレイクさせるなど、質の高い誌面を維持し生き残った。現在では誌名に「ヤング」が含まれる唯一のヤングレディース誌である。 2011年3月号よりコミック誌で初めて紙と電子版の同時販売を開始した。
 
 ## 連載作品
 
@@ -20,20 +20,20 @@
   - [中学聖日記](https://ja.wikipedia.org/wiki/中学聖日記 "wikilink")（[かわかみじゅんこ](../Page/かわかみじゅんこ.md "wikilink")）
   - TOKYO異邦人（じゃんぽ～る西）
   - にれこスケッチ（[鴨居まさね](../Page/鴨居まさね.md "wikilink")）
-  - 夫婦サファリ（[ジョージ朝倉](https://ja.wikipedia.org/wiki/ジョージ朝倉 "wikilink")）※休載中
+  - 夫婦サファリ（[ジョージ朝倉](../Page/ジョージ朝倉.md "wikilink")）※休載中
   - ボンクラボンボンハウス（ねむようこ）
   - やわ男とカタ子（長田亜弓）
 
 ### エッセイ
 
-  - 下山手ドレス別室（[西村しのぶ](https://ja.wikipedia.org/wiki/西村しのぶ "wikilink")）
+  - 下山手ドレス別室（[西村しのぶ](../Page/西村しのぶ.md "wikilink")）
   - [そろえてちょうだい?](https://ja.wikipedia.org/wiki/そろえてちょうだい? "wikilink")（いくえみ綾）
 
 ## 主な過去の掲載作品
 
   - 愛の時間（[やまじえびね](https://ja.wikipedia.org/wiki/やまじえびね "wikilink")）
   - 味すごろく（[堀内三佳](https://ja.wikipedia.org/wiki/堀内三佳 "wikilink")）
-  - [あなたのことはそれほど](https://ja.wikipedia.org/wiki/あなたのことはそれほど "wikilink")（[いくえみ綾](https://ja.wikipedia.org/wiki/いくえみ綾 "wikilink")）
+  - [あなたのことはそれほど](https://ja.wikipedia.org/wiki/あなたのことはそれほど "wikilink")（[いくえみ綾](../Page/いくえみ綾.md "wikilink")）
   - [&](https://ja.wikipedia.org/wiki/&_\(漫画\) "wikilink")（[おかざき真里](../Page/おかざき真里.md "wikilink")）
   - いとへん（[宇仁田ゆみ](../Page/宇仁田ゆみ.md "wikilink")）
   - [うさぎドロップ](https://ja.wikipedia.org/wiki/うさぎドロップ "wikilink")（宇仁田ゆみ）
@@ -44,16 +44,16 @@
   - [かことみらい](https://ja.wikipedia.org/wiki/かことみらい "wikilink")（今日マチ子）
   - 今日も渋谷のはじっこで（[平尾アウリ](https://ja.wikipedia.org/wiki/平尾アウリ "wikilink")）
   - [午前3時の無法地帯](https://ja.wikipedia.org/wiki/午前3時の無法地帯 "wikilink")、～危険地帯（ねむようこ）
-  - [サプリ](https://ja.wikipedia.org/wiki/サプリ_\(漫画\) "wikilink")（おかざき真里）
-  - [死化粧師](https://ja.wikipedia.org/wiki/死化粧師 "wikilink")（[三原ミツカズ](https://ja.wikipedia.org/wiki/三原ミツカズ "wikilink")）
+  - [サプリ](../Page/サプリ_\(漫画\).md "wikilink")（おかざき真里）
+  - [死化粧師](../Page/死化粧師.md "wikilink")（[三原ミツカズ](../Page/三原ミツカズ.md "wikilink")）
   - 柴田さんちのエリザベス（[野口ともこ](https://ja.wikipedia.org/wiki/野口ともこ "wikilink")）
   - [しまいもん](https://ja.wikipedia.org/wiki/しまいもん "wikilink")（[イカリン](https://ja.wikipedia.org/wiki/IKARING "wikilink")）
-  - [新・花のあすか組\!](https://ja.wikipedia.org/wiki/新・花のあすか組! "wikilink")（[高口里純](../Page/高口里純.md "wikilink")）
+  - [新・花のあすか組\!](../Page/新・花のあすか組!.md "wikilink")（[高口里純](../Page/高口里純.md "wikilink")）
   - ソウル・オブ・ロック（[ノセクニコ](https://ja.wikipedia.org/wiki/ノセクニコ "wikilink")）
   - チューネン娘（[伊藤理佐](../Page/伊藤理佐.md "wikilink")）
   - トラップホール（[ねむようこ](https://ja.wikipedia.org/wiki/ねむようこ "wikilink")）
   - [夏雪ランデブー](https://ja.wikipedia.org/wiki/夏雪ランデブー "wikilink")（[河内遙](https://ja.wikipedia.org/wiki/河内遙 "wikilink")）
-  - [ハッピー・マニア](https://ja.wikipedia.org/wiki/ハッピー・マニア "wikilink")（[安野モヨコ](https://ja.wikipedia.org/wiki/安野モヨコ "wikilink")）
+  - [ハッピー・マニア](../Page/ハッピー・マニア.md "wikilink")（[安野モヨコ](https://ja.wikipedia.org/wiki/安野モヨコ "wikilink")）
   - パリパリ伝説（[かわかみじゅんこ](../Page/かわかみじゅんこ.md "wikilink")）
   - [ピース オブ ケイク](https://ja.wikipedia.org/wiki/ピース_オブ_ケイク "wikilink")（ジョージ朝倉）
   - [鼻下長紳士回顧録](https://ja.wikipedia.org/wiki/鼻下長紳士回顧録 "wikilink")（[安野モヨコ](https://ja.wikipedia.org/wiki/安野モヨコ "wikilink")）
@@ -67,24 +67,24 @@
   - [目を閉じて抱いて](https://ja.wikipedia.org/wiki/目を閉じて抱いて "wikilink")（内田春菊）
   - 満月の夜（[原田梨花](https://ja.wikipedia.org/wiki/原田梨花 "wikilink")）
   - [モテかわ☆ハピネス](https://ja.wikipedia.org/wiki/モテかわ☆ハピネス "wikilink")（[青木光恵](../Page/青木光恵.md "wikilink")）
-  - [モンキー・パトロール](https://ja.wikipedia.org/wiki/モンキー・パトロール "wikilink")（[有間しのぶ](https://ja.wikipedia.org/wiki/有間しのぶ "wikilink")）
+  - [モンキー・パトロール](../Page/モンキー・パトロール.md "wikilink")（[有間しのぶ](https://ja.wikipedia.org/wiki/有間しのぶ "wikilink")）
   - 再婚一直線\!（[安彦麻理絵](https://ja.wikipedia.org/wiki/安彦麻理絵 "wikilink")）
-  - たましいのふたご（[三原ミツカズ](https://ja.wikipedia.org/wiki/三原ミツカズ "wikilink")）
-  - 本日の猫事情（[いわみちさくら](https://ja.wikipedia.org/wiki/いわみちさくら "wikilink")）
+  - たましいのふたご（[三原ミツカズ](../Page/三原ミツカズ.md "wikilink")）
+  - 本日の猫事情（[いわみちさくら](../Page/いわみちさくら.md "wikilink")）
   - my dear life（[桜沢エリカ](../Page/桜沢エリカ.md "wikilink")）
   - みちゆき（安堂維子里）※コミックスでは「雪女幻想 みちゆき篇」に改題
   - めめんと森（[ふみふみこ](https://ja.wikipedia.org/wiki/ふみふみこ "wikilink")）
   - 夢の温度（[南Q太](https://ja.wikipedia.org/wiki/南Q太 "wikilink")）
-  - ライジングガール\!―[人見絹枝](https://ja.wikipedia.org/wiki/人見絹枝 "wikilink")物語（[比古地朔弥](../Page/比古地朔弥.md "wikilink")）
+  - ライジングガール\!―[人見絹枝](../Page/人見絹枝.md "wikilink")物語（[比古地朔弥](../Page/比古地朔弥.md "wikilink")）
   - わたしの好きな実可子ちゃん（[元町夏央](https://ja.wikipedia.org/wiki/元町夏央 "wikilink")）※読み切り
 
 ## 関連作家
 
   - [朝倉世界一](../Page/朝倉世界一.md "wikilink")
-  - [いわみちさくら](https://ja.wikipedia.org/wiki/いわみちさくら "wikilink")
+  - [いわみちさくら](../Page/いわみちさくら.md "wikilink")
   - [小野塚カホリ](https://ja.wikipedia.org/wiki/小野塚カホリ "wikilink")
-  - [楠本まき](https://ja.wikipedia.org/wiki/楠本まき "wikilink")
-  - [こいずみまり](https://ja.wikipedia.org/wiki/こいずみまり "wikilink")
+  - [楠本まき](../Page/楠本まき.md "wikilink")
+  - [こいずみまり](../Page/こいずみまり.md "wikilink")
   - [魚喃キリコ](../Page/魚喃キリコ.md "wikilink")
   - [羽央](https://ja.wikipedia.org/wiki/羽央 "wikilink")
   - [藤末さくら](../Page/藤末さくら.md "wikilink")
@@ -113,14 +113,14 @@
 ## 関連人物
 
   - [まついなつき](../Page/まついなつき.md "wikilink")
-  - [伏見憲明](https://ja.wikipedia.org/wiki/伏見憲明 "wikilink")
+  - [伏見憲明](../Page/伏見憲明.md "wikilink")
   - [斉藤綾子](https://ja.wikipedia.org/wiki/斉藤綾子 "wikilink")
   - [おおたうに](https://ja.wikipedia.org/wiki/おおたうに "wikilink")
   - [D［di:］](../Page/D［di:］.md "wikilink")
 
 ## 単行本レーベル
 
-初期においてはB6判の『**FEEL COMICS**』を『FEEL』と共用して発行、内田春菊、岡崎京子、桜沢エリカなどの一部人気作家の作品はA5版の『**FEEL COMICS GOLD**』から発行していた。『FEEL』休刊後は『FEEL COMICS GOLD』に一本化、現在はGOLDが取れて『FEEL COMICS 』となっている。また、同じ祥伝社より発行されているファッション誌連載漫画もこのレーベルより発行されている（[井上三太](../Page/井上三太.md "wikilink")『[TOKYO TRIBE2](https://ja.wikipedia.org/wiki/TOKYO_TRIBE2 "wikilink")』、[矢沢あい](../Page/矢沢あい.md "wikilink")『[Paradise Kiss](https://ja.wikipedia.org/wiki/Paradise_Kiss "wikilink")』など）。
+初期においてはB6判の『**FEEL COMICS**』を『FEEL』と共用して発行、内田春菊、岡崎京子、桜沢エリカなどの一部人気作家の作品はA5版の『**FEEL COMICS GOLD**』から発行していた。『FEEL』休刊後は『FEEL COMICS GOLD』に一本化、現在はGOLDが取れて『FEEL COMICS 』となっている。また、同じ祥伝社より発行されているファッション誌連載漫画もこのレーベルより発行されている（[井上三太](../Page/井上三太.md "wikilink")『[TOKYO TRIBE2](../Page/TOKYO_TRIBE2.md "wikilink")』、[矢沢あい](../Page/矢沢あい.md "wikilink")『[Paradise Kiss](../Page/Paradise_Kiss.md "wikilink")』など）。
 
 ## 関連項目
 

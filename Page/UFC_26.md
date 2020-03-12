@@ -5,9 +5,9 @@
 
 ## 大会概要
 
-メインイベントの世界ヘビー級タイトルマッチでは王者[ケビン・ランデルマン](https://ja.wikipedia.org/wiki/ケビン・ランデルマン "wikilink")が、キャリア9戦全勝の挑戦者[ペドロ・ヒーゾ](https://ja.wikipedia.org/wiki/ペドロ・ヒーゾ "wikilink")を判定で退け、王座の初防衛に成功した。
+メインイベントの世界ヘビー級タイトルマッチでは王者[ケビン・ランデルマン](../Page/ケビン・ランデルマン.md "wikilink")が、キャリア9戦全勝の挑戦者[ペドロ・ヒーゾ](../Page/ペドロ・ヒーゾ.md "wikilink")を判定で退け、王座の初防衛に成功した。
 
-第6試合で行われた世界ライト級タイトルマッチでは王者[パット・ミレティッチ](https://ja.wikipedia.org/wiki/パット・ミレティッチ "wikilink")が、挑戦者ジョン・アレッシオに勝利し、同じく王座の初防衛に成功した。
+第6試合で行われた世界ライト級タイトルマッチでは王者[パット・ミレティッチ](../Page/パット・ミレティッチ.md "wikilink")が、挑戦者ジョン・アレッシオに勝利し、同じく王座の初防衛に成功した。
 
 ## 試合結果
 
@@ -18,35 +18,35 @@
     2R終了 判定3-0
   - 第2試合 ヘビー級 5分2R
     ○  [イアン・フリーマン](../Page/イアン・フリーマン.md "wikilink") vs.  ネイト・シュローダー ×
-    2R 2:13 ギブアップ（[パウンド](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    2R 2:13 ギブアップ（[パウンド](../Page/グラウンドパンチ.md "wikilink")）
 
 ### メインカード
 
   - 第3試合 ライト級 5分3R
-    ○  [ジェンス・パルヴァー](https://ja.wikipedia.org/wiki/ジェンス・パルヴァー "wikilink") vs.  ジョン・ホーキ ×
+    ○  [ジェンス・パルヴァー](../Page/ジェンス・パルヴァー.md "wikilink") vs.  ジョン・ホーキ ×
     3R終了 判定3-0
   - 第4試合 ライト級 5分3R
-    ○  [マット・ヒューズ](https://ja.wikipedia.org/wiki/マット・ヒューズ "wikilink") vs.  マセロ・アグア ×
+    ○  [マット・ヒューズ](../Page/マット・ヒューズ.md "wikilink") vs.  マセロ・アグア ×
     1R 4:34 TKO（ドクターストップ：カット）
   - 第5試合 ミドル級 5分3R
     ○  アマウリ・ビテッチ vs.  アレックス・アンドラーデ ×
     2R 0:43 失格（シューズを履いたままの蹴り）
   - 第6試合 UFC世界ライト級タイトルマッチ 5分5R
-    ○  [パット・ミレティッチ](https://ja.wikipedia.org/wiki/パット・ミレティッチ "wikilink") vs.  ジョン・アレッシオ ×
-    2R 1:43 [腕ひしぎ十字固め](https://ja.wikipedia.org/wiki/腕挫十字固 "wikilink")
+    ○  [パット・ミレティッチ](../Page/パット・ミレティッチ.md "wikilink") vs.  ジョン・アレッシオ ×
+    2R 1:43 [腕ひしぎ十字固め](../Page/腕挫十字固.md "wikilink")
     ※ミレティッチが3度目の王座防衛に成功。
   - 第7試合 ミドル級 5分3R
     ○  タイロン・ロバーツ vs.  デビッド・ドッド ×
     3R終了 判定3-0
   - 第8試合 UFC世界ヘビー級タイトルマッチ 5分5R
-    ○  [ケビン・ランデルマン](https://ja.wikipedia.org/wiki/ケビン・ランデルマン "wikilink") vs.  [ペドロ・ヒーゾ](https://ja.wikipedia.org/wiki/ペドロ・ヒーゾ "wikilink") ×
+    ○  [ケビン・ランデルマン](../Page/ケビン・ランデルマン.md "wikilink") vs.  [ペドロ・ヒーゾ](../Page/ペドロ・ヒーゾ.md "wikilink") ×
     5R終了 判定3-0
     ※ランデルマンが王座の初防衛に成功。
 
 ## 関連項目
 
   - [UFCの大会一覧](../Page/UFCの大会一覧.md "wikilink")
-  - [UFC王者一覧](https://ja.wikipedia.org/wiki/UFC王者一覧 "wikilink")
+  - [UFC王者一覧](../Page/UFC王者一覧.md "wikilink")
 
 ## 外部リンク
 

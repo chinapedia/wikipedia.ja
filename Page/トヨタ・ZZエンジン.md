@@ -1,7 +1,7 @@
 > この記事は[ZZ](https://ja.wikipedia.org/wiki/ZZ)から翻訳されています。
 
 
-**ZZエンジン**とは、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[水冷](https://ja.wikipedia.org/wiki/水冷 "wikilink")[直列4気筒](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink")・[アルミ](../Page/アルミニウム.md "wikilink")[ダイキャスト製](https://ja.wikipedia.org/wiki/ダイカスト "wikilink")[ガソリンエンジン](https://ja.wikipedia.org/wiki/ガソリンエンジン "wikilink")の[系列である](https://ja.wikipedia.org/wiki/トヨタのエンジン系列名 "wikilink")。[A型（2代目）および](https://ja.wikipedia.org/wiki/トヨタ・A型エンジン_\(2代目\) "wikilink") [S型（2代目）エンジンの後継機種として](https://ja.wikipedia.org/wiki/トヨタ・S型エンジン_\(2代目\) "wikilink")、ミディアムサイズの車種に搭載されている。[1ZZ-FE](https://ja.wikipedia.org/wiki/トヨタ・1ZZ-FE "wikilink")・[2ZZ-GEなどの総称](https://ja.wikipedia.org/wiki/トヨタ・2ZZ-GE "wikilink")。1998年7月登場。
+**ZZエンジン**とは、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[水冷](../Page/水冷.md "wikilink")[直列4気筒](../Page/直列4気筒.md "wikilink")・[アルミ](../Page/アルミニウム.md "wikilink")[ダイキャスト製](../Page/ダイカスト.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")の[系列である](../Page/トヨタのエンジン系列名.md "wikilink")。[A型（2代目）および](../Page/トヨタ・A型エンジン_\(2代目\).md "wikilink") [S型（2代目）エンジンの後継機種として](../Page/トヨタ・S型エンジン_\(2代目\).md "wikilink")、ミディアムサイズの車種に搭載されている。[1ZZ-FE](../Page/トヨタ・1ZZ-FE.md "wikilink")・[2ZZ-GEなどの総称](../Page/トヨタ・2ZZ-GE.md "wikilink")。1998年7月登場。
 
 2ZZ-GEは2002年[インターナショナル・エンジン・オブ・ザ・イヤー](https://ja.wikipedia.org/wiki/インターナショナル・エンジン・オブ・ザ・イヤー "wikilink")の1.4～1.8Lエンジン部門賞に選ばれている。
 
@@ -9,11 +9,11 @@
 
 ## 系譜
 
-  - [エンジン型式一覧の](https://ja.wikipedia.org/wiki/トヨタのエンジン型式一覧 "wikilink")[自動車用エンジンの系譜を参照](https://ja.wikipedia.org/wiki/トヨタのエンジン型式一覧#自動車用エンジンの系譜 "wikilink")。
+  - [エンジン型式一覧の](../Page/トヨタのエンジン型式一覧.md "wikilink")[自動車用エンジンの系譜を参照](https://ja.wikipedia.org/wiki/トヨタのエンジン型式一覧#自動車用エンジンの系譜 "wikilink")。
 
 ## バリエーション
 
-### [1ZZ-FE](https://ja.wikipedia.org/wiki/トヨタ・1ZZ-FE "wikilink")
+### [1ZZ-FE](../Page/トヨタ・1ZZ-FE.md "wikilink")
 
   - タイプ:直列4気筒 DOHC 16バルブ VVT-i
   - 排気量:1.794L
@@ -29,24 +29,24 @@
 
 ＜主な搭載車種＞
 
-  - （初）5代目[ビスタ / ビスタアルデオ](https://ja.wikipedia.org/wiki/トヨタ・ビスタ "wikilink")（ZZV50 / 50G）
-  - 7代目[セリカ](https://ja.wikipedia.org/wiki/トヨタ・セリカ "wikilink")1800SS-I（ZZT230）
-  - 9代目[カローラ](https://ja.wikipedia.org/wiki/トヨタ・カローラ "wikilink") / [カローラフィールダー](https://ja.wikipedia.org/wiki/トヨタ・カローラフィールダー "wikilink") / [カローラランクス・アレックス](https://ja.wikipedia.org/wiki/トヨタ・カローラランクス "wikilink") / [カローラスパシオ](https://ja.wikipedia.org/wiki/トヨタ・カローラスパシオ "wikilink")
+  - （初）5代目[ビスタ / ビスタアルデオ](../Page/トヨタ・ビスタ.md "wikilink")（ZZV50 / 50G）
+  - 7代目[セリカ](../Page/トヨタ・セリカ.md "wikilink")1800SS-I（ZZT230）
+  - 9代目[カローラ](../Page/トヨタ・カローラ.md "wikilink") / [カローラフィールダー](../Page/トヨタ・カローラフィールダー.md "wikilink") / [カローラランクス・アレックス](../Page/トヨタ・カローラランクス.md "wikilink") / [カローラスパシオ](../Page/トヨタ・カローラスパシオ.md "wikilink")
 
 （ZZE122 / 122G / 122H / 122N / 124 / 124G / 124H / 124N）
-\* [プレミオ](https://ja.wikipedia.org/wiki/トヨタ・プレミオ "wikilink") / [アリオン](https://ja.wikipedia.org/wiki/トヨタ・アリオン "wikilink")（ZZT240 / 244）
+\* [プレミオ](../Page/トヨタ・プレミオ.md "wikilink") / [アリオン](../Page/トヨタ・アリオン.md "wikilink")（ZZT240 / 244）
 
-  - 3代目[カルディナ](https://ja.wikipedia.org/wiki/トヨタ・カルディナ "wikilink")（ZZT241W）
-  - [Opa](https://ja.wikipedia.org/wiki/トヨタ・Opa "wikilink")（ZCT10）
-  - [WiLL VS](https://ja.wikipedia.org/wiki/トヨタ・WiLL_VS "wikilink")（ZZE127 / 129）
+  - 3代目[カルディナ](../Page/トヨタ・カルディナ.md "wikilink")（ZZT241W）
+  - [Opa](../Page/トヨタ・Opa.md "wikilink")（ZCT10）
+  - [WiLL VS](../Page/トヨタ・WiLL_VS.md "wikilink")（ZZE127 / 129）
   - [マトリックス](../Page/トヨタ・マトリックス.md "wikilink")（ZZE130W）（北米専売車）
-  - [ヴォルツ（ポンティアック・ヴァイヴ）](https://ja.wikipedia.org/wiki/トヨタ・ヴォルツ "wikilink")（ZZE137 / 139）
+  - [ヴォルツ（ポンティアック・ヴァイヴ）](../Page/トヨタ・ヴォルツ.md "wikilink")（ZZE137 / 139）
   - [アベンシス](https://ja.wikipedia.org/wiki/トヨタ・アベンシス "wikilink")（欧州仕様）
-  - [MR-S](https://ja.wikipedia.org/wiki/トヨタ・MR-S "wikilink")
-  - [ウィッシュ](https://ja.wikipedia.org/wiki/トヨタ・ウィッシュ "wikilink")
-  - [アイシス](https://ja.wikipedia.org/wiki/トヨタ・アイシス "wikilink")
-  - [RAV4](https://ja.wikipedia.org/wiki/トヨタ・RAV4 "wikilink")
-  - [ロータス・エリーゼ](https://ja.wikipedia.org/wiki/ロータス・エリーゼ "wikilink")S
+  - [MR-S](../Page/トヨタ・MR-S.md "wikilink")
+  - [ウィッシュ](../Page/トヨタ・ウィッシュ.md "wikilink")
+  - [アイシス](../Page/トヨタ・アイシス.md "wikilink")
+  - [RAV4](../Page/トヨタ・RAV4.md "wikilink")
+  - [ロータス・エリーゼ](../Page/ロータス・エリーゼ.md "wikilink")S
 
 
 
@@ -62,11 +62,11 @@
 
 ＜主な搭載車種＞
 
-  - [カローラセダン](https://ja.wikipedia.org/wiki/トヨタ・カローラ "wikilink")(ブラジル仕様のみ)
+  - [カローラセダン](../Page/トヨタ・カローラ.md "wikilink")(ブラジル仕様のみ)
 
 アルコール系燃料とガソリンが使用できるエンジンである
 
-\===[2ZZ-GE](https://ja.wikipedia.org/wiki/トヨタ・2ZZ-GE "wikilink")===
+\===[2ZZ-GE](../Page/トヨタ・2ZZ-GE.md "wikilink")===
 
   - タイプ:直列4気筒 DOHC 16バルブ VVTL-i
   - 排気量:1.795L
@@ -77,16 +77,16 @@
 
 ＜主な搭載車種＞
 
-  - （初）7代目[セリカ](https://ja.wikipedia.org/wiki/トヨタ・セリカ "wikilink")1800SS-II（ZZT231）
+  - （初）7代目[セリカ](../Page/トヨタ・セリカ.md "wikilink")1800SS-II（ZZT231）
   - 9代目カローラ（ZZE123G / 123H）
-    （[フィールダー](https://ja.wikipedia.org/wiki/トヨタ・カローラフィールダー "wikilink") / [ランクス・アレックスのみ](https://ja.wikipedia.org/wiki/トヨタ・カローラランクス "wikilink")）
+    （[フィールダー](../Page/トヨタ・カローラフィールダー.md "wikilink") / [ランクス・アレックスのみ](../Page/トヨタ・カローラランクス.md "wikilink")）
   - カローラハッチバック 欧州仕様（ZZE123 3ドアハッチバックのみ）
-  - [カローラセダン](https://ja.wikipedia.org/wiki/トヨタ・カローラ "wikilink")（ただし、北米仕様のみ、ZZE131 グレード名「XRS」）
+  - [カローラセダン](../Page/トヨタ・カローラ.md "wikilink")（ただし、北米仕様のみ、ZZE131 グレード名「XRS」）
   - [マトリックス](../Page/トヨタ・マトリックス.md "wikilink")（北米専売車、ZZE131W）
-  - [WiLL VS](https://ja.wikipedia.org/wiki/トヨタ・WiLL_VS "wikilink")（ZZE128）
-  - [ヴォルツ（ポンティアック・ヴァイブ）](https://ja.wikipedia.org/wiki/トヨタ・ヴォルツ "wikilink")（ZZE138）
-  - [ロータス・エリーゼ](https://ja.wikipedia.org/wiki/ロータス・エリーゼ "wikilink")111R/R
-  - [ロータス・エキシージ](https://ja.wikipedia.org/wiki/ロータス・エキシージ "wikilink")MK-II
+  - [WiLL VS](../Page/トヨタ・WiLL_VS.md "wikilink")（ZZE128）
+  - [ヴォルツ（ポンティアック・ヴァイブ）](../Page/トヨタ・ヴォルツ.md "wikilink")（ZZE138）
+  - [ロータス・エリーゼ](../Page/ロータス・エリーゼ.md "wikilink")111R/R
+  - [ロータス・エキシージ](../Page/ロータス・エキシージ.md "wikilink")MK-II
 
 [ハイオクガソリン必須で](../Page/高オクタン価ガソリン.md "wikilink")、**レギュラー厳禁**である。
 
@@ -102,7 +102,7 @@
 
 ＜主な搭載車種＞
 
-  - [カローラシリーズ](https://ja.wikipedia.org/wiki/トヨタ・カローラ "wikilink")（E110系後期型以降の欧州仕様車）
+  - [カローラシリーズ](../Page/トヨタ・カローラ.md "wikilink")（E110系後期型以降の欧州仕様車）
   - [アベンシス](https://ja.wikipedia.org/wiki/トヨタ・アベンシス "wikilink")（欧州仕様車）
 
 
@@ -117,7 +117,7 @@
 
 ＜主な搭載車種＞
 
-  - [カローラシリーズ](https://ja.wikipedia.org/wiki/トヨタ・カローラ "wikilink")（E110系後期型以降の欧州仕様車）
+  - [カローラシリーズ](../Page/トヨタ・カローラ.md "wikilink")（E110系後期型以降の欧州仕様車）
   - [オーリス](https://ja.wikipedia.org/wiki/トヨタ・オーリス "wikilink")（欧州仕様車のみ）
 
 ## 脚注
@@ -127,10 +127,10 @@
 ## 関連項目
 
   - [トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")
-  - [トヨタ・NZエンジン](https://ja.wikipedia.org/wiki/トヨタ・NZエンジン "wikilink")
+  - [トヨタ・NZエンジン](../Page/トヨタ・NZエンジン.md "wikilink")
   - [トヨタ・ZRエンジン](../Page/トヨタ・ZRエンジン.md "wikilink")
   - [トヨタのエンジン型式命名規則](https://ja.wikipedia.org/wiki/トヨタのエンジン型式命名規則 "wikilink")
-  - [トヨタのエンジン系列名](https://ja.wikipedia.org/wiki/トヨタのエンジン系列名 "wikilink")
-  - [トヨタのエンジン型式一覧](https://ja.wikipedia.org/wiki/トヨタのエンジン型式一覧 "wikilink")
+  - [トヨタのエンジン系列名](../Page/トヨタのエンジン系列名.md "wikilink")
+  - [トヨタのエンジン型式一覧](../Page/トヨタのエンジン型式一覧.md "wikilink")
 
 [Category:トヨタ自動車のエンジン](https://ja.wikipedia.org/wiki/Category:トヨタ自動車のエンジン "wikilink")

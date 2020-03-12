@@ -20,22 +20,22 @@
 ### CD
 
 1.  **Intro** (0:46)
-      - 「[Your eyes only 〜曖昧なぼくの輪郭〜](https://ja.wikipedia.org/wiki/Your_eyes_only_〜曖昧なぼくの輪郭〜 "wikilink")」「[style](https://ja.wikipedia.org/wiki/style_\(EXILEの曲\) "wikilink")」「[Fly Away](../Page/Fly_Away_\(EXILEの曲\).md "wikilink")」「song for you」「Cross 〜never say die〜」「Kiss you」の6曲がサンプリング
+      - 「[Your eyes only 〜曖昧なぼくの輪郭〜](../Page/Your_eyes_only_〜曖昧なぼくの輪郭〜.md "wikilink")」「[style](https://ja.wikipedia.org/wiki/style_\(EXILEの曲\) "wikilink")」「[Fly Away](../Page/Fly_Away_\(EXILEの曲\).md "wikilink")」「song for you」「Cross 〜never say die〜」「Kiss you」の6曲がサンプリング
 2.  **ESCAPE** (Inst.) (3:28)
       -
-        作曲・編曲：[HIRO](https://ja.wikipedia.org/wiki/五十嵐広行 "wikilink") × (Kira + Okayan)
+        作曲・編曲：[HIRO](../Page/五十嵐広行.md "wikilink") × (Kira + Okayan)
     <!-- end list -->
-      - [ホーユー](https://ja.wikipedia.org/wiki/ホーユー "wikilink")「Men's Beauteen 02サマー」CFタイアップソング
-      - ベストアルバム『[PERFECT BEST](https://ja.wikipedia.org/wiki/PERFECT_BEST_\(EXILEのアルバム\) "wikilink")』にも収録
+      - [ホーユー](../Page/ホーユー.md "wikilink")「Men's Beauteen 02サマー」CFタイアップソング
+      - ベストアルバム『[PERFECT BEST](../Page/PERFECT_BEST_\(EXILEのアルバム\).md "wikilink")』にも収録
 3.  **Sandcastles** (3:25)
       -
-        作詞：[Kenn Kato](https://ja.wikipedia.org/wiki/Kenn_Kato "wikilink") / 作曲：[BOUNCEBACK](https://ja.wikipedia.org/wiki/BOUNCEBACK "wikilink")
-4.  **[Kiss you](https://ja.wikipedia.org/wiki/EX-STYLE_〜Kiss_you〜 "wikilink")** (4:56)
+        作詞：[Kenn Kato](https://ja.wikipedia.org/wiki/Kenn_Kato "wikilink") / 作曲：[BOUNCEBACK](../Page/BOUNCEBACK.md "wikilink")
+4.  **[Kiss you](../Page/EX-STYLE_〜Kiss_you〜.md "wikilink")** (4:56)
       -
-        作詞：Kenn Kato / 作曲：[原一博](https://ja.wikipedia.org/wiki/原一博 "wikilink")
+        作詞：Kenn Kato / 作曲：[原一博](../Page/原一博.md "wikilink")
     <!-- end list -->
       - 6thシングル「EX-STYLE ～Kiss you～」表題曲
-      - [ニベアボディ](https://ja.wikipedia.org/wiki/ニベア花王 "wikilink")「スキンミルク」CMソング
+      - [ニベアボディ](../Page/ニベア花王.md "wikilink")「スキンミルク」CMソング
 5.  **Ring your bell** (4:00)
       -
         作詞：Kenn Kato / 作曲：[中西圭三](https://ja.wikipedia.org/wiki/中西圭三 "wikilink")
@@ -43,25 +43,25 @@
       -
         作詞：Kenn Kato / 作曲：原一博
     <!-- end list -->
-      - [山崎製パン](https://ja.wikipedia.org/wiki/山崎製パン "wikilink")「新食感宣言」CMソング
+      - [山崎製パン](../Page/山崎製パン.md "wikilink")「新食感宣言」CMソング
       - ベストアルバム『PERFECT BEST』にも収録
 7.  **[羽1/2](https://ja.wikipedia.org/wiki/羽1/2 "wikilink")** (5:12)
       -
-        作詞：[SHUN](https://ja.wikipedia.org/wiki/清木場俊介 "wikilink") / 作曲：[長岡成貢](https://ja.wikipedia.org/wiki/長岡成貢 "wikilink")
-8.  **[Distance](https://ja.wikipedia.org/wiki/EX-STYLE_〜Kiss_you〜 "wikilink") "Orchestra Version"** (4:42)
+        作詞：[SHUN](../Page/清木場俊介.md "wikilink") / 作曲：[長岡成貢](https://ja.wikipedia.org/wiki/長岡成貢 "wikilink")
+8.  **[Distance](../Page/EX-STYLE_〜Kiss_you〜.md "wikilink") "Orchestra Version"** (4:42)
       -
         作詞：Kenn Kato / 作曲：BOUNCEBACK
     <!-- end list -->
       - 6thシングル「EX-STYLE ～Kiss you～」のカップリング曲のオーケストラ・バージョン
 9.  **Release yourself** (4:24)
       -
-        作詞：Kenn Kato / 作曲：[朝本浩文](https://ja.wikipedia.org/wiki/朝本浩文 "wikilink")
+        作詞：Kenn Kato / 作曲：[朝本浩文](../Page/朝本浩文.md "wikilink")
 10. **[Cross 〜never say die〜](../Page/Cross_〜never_say_die〜.md "wikilink")** (5:00)
       -
         作詞：Kenn Kato / 作曲：原一博
     <!-- end list -->
       - 5thシングル
-      - [日本テレビ系ドラマ](../Page/日本テレビ放送網.md "wikilink")『[東京庭付き一戸建て](https://ja.wikipedia.org/wiki/東京庭付き一戸建て "wikilink")』挿入歌
+      - [日本テレビ系ドラマ](../Page/日本テレビ放送網.md "wikilink")『[東京庭付き一戸建て](../Page/東京庭付き一戸建て.md "wikilink")』挿入歌
 11. **can't say words** (4:24)
       -
         作詞：[ATSUSHI](https://ja.wikipedia.org/wiki/ATSUSHI_\(歌手\) "wikilink") / 作曲：山木隆一郎
@@ -70,7 +70,7 @@
         作詞：ATSUSHI、SHUN / 作曲：原一博
     <!-- end list -->
       - 作詞はEXILEの曲では初のボーカル2名による共作
-13. **[We Will 〜あの場所で〜](https://ja.wikipedia.org/wiki/We_Will_〜あの場所で〜 "wikilink")** (5:27)
+13. **[We Will 〜あの場所で〜](../Page/We_Will_〜あの場所で〜.md "wikilink")** (5:27)
       -
         作詞：SHUN / 作曲：中野雄太
     <!-- end list -->
@@ -78,10 +78,10 @@
       - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『winners\!』エンディングテーマ
 14. **[song for you](https://ja.wikipedia.org/wiki/song_for_you_\(EXILEの曲\) "wikilink")** (5:43)
       -
-        作詞：Kenn Kato / 作曲：[Face 2 fAKE](https://ja.wikipedia.org/wiki/Face_2_fAKE "wikilink")
+        作詞：Kenn Kato / 作曲：[Face 2 fAKE](../Page/Face_2_fAKE.md "wikilink")
     <!-- end list -->
       - 4thシングル
-      - [kanebo](https://ja.wikipedia.org/wiki/カネボウ化粧品 "wikilink")「REVUE」TVCMイメージソング
+      - [kanebo](../Page/カネボウ化粧品.md "wikilink")「REVUE」TVCMイメージソング
 15. **S・O・B** (Inst.) (2:55)
       -
         作曲・編曲：HIRO × (Kira + Okayan)
@@ -89,9 +89,9 @@
       - [VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")、[SOUL TRAINのRYU](https://ja.wikipedia.org/wiki/SOUL_TRAIN "wikilink")、[ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink")の留守電話が収録
 17. **[Feel the Conflict](https://ja.wikipedia.org/wiki/our_style "wikilink") "S・O・B Version"**（5:22）
       -
-        作詞：Kenn Kato / 作曲：[横山輝一](https://ja.wikipedia.org/wiki/横山輝一 "wikilink")
+        作詞：Kenn Kato / 作曲：[横山輝一](../Page/横山輝一.md "wikilink")
     <!-- end list -->
-      - 初回限定盤[ボーナス・トラック](https://ja.wikipedia.org/wiki/ボーナス・トラック "wikilink")\[5\]
+      - 初回限定盤[ボーナス・トラック](../Page/ボーナス・トラック.md "wikilink")\[5\]
       - 1stアルバム『our style』収録曲の新録バージョン
 
 ### SPECIAL DVD

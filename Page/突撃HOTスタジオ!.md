@@ -1,25 +1,25 @@
 > この記事は[HOT!](https://ja.wikipedia.org/wiki/HOT!)から翻訳されています。
 
 
-『**突撃HOTスタジオ！**』（とつげきホットスタジオ）は、[TBS系列](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")（[信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")と[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")を除く）と[テレビ山口](../Page/テレビ山口.md "wikilink")（当時[フジテレビ系列との](../Page/フジネットワーク.md "wikilink")[クロスネット局](../Page/クロスネット局.md "wikilink")）で放送されていた[TBS製作の](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。全7回。TBS系列では1983年4月20日から同年6月29日まで、毎週水曜 19時00分 - 19時54分（[日本標準時](../Page/日本標準時.md "wikilink")）に放送。
+『**突撃HOTスタジオ！**』（とつげきホットスタジオ）は、[TBS系列](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")（[信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")と[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")を除く）と[テレビ山口](../Page/テレビ山口.md "wikilink")（当時[フジテレビ系列との](../Page/フジネットワーク.md "wikilink")[クロスネット局](../Page/クロスネット局.md "wikilink")）で放送されていた[TBS製作の](../Page/TBSテレビ.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。全7回。TBS系列では1983年4月20日から同年6月29日まで、毎週水曜 19時00分 - 19時54分（[日本標準時](../Page/日本標準時.md "wikilink")）に放送。
 
 ## 概要
 
-[ビートたけし](../Page/ビートたけし.md "wikilink")や[たのきんトリオ](https://ja.wikipedia.org/wiki/たのきんトリオ "wikilink")などが出演していた番組で、ミニドラマ・ゲーム・歌などのコーナーで構成されていた。タイトルロゴの色は、「突撃」箇所が赤色、「HOT」箇所がオレンジ色、「スタジオ」箇所が黄色。
+[ビートたけし](../Page/ビートたけし.md "wikilink")や[たのきんトリオ](../Page/たのきんトリオ.md "wikilink")などが出演していた番組で、ミニドラマ・ゲーム・歌などのコーナーで構成されていた。タイトルロゴの色は、「突撃」箇所が赤色、「HOT」箇所がオレンジ色、「スタジオ」箇所が黄色。
 
-本番組に出演していたメンバーは、次番組『[笑ってポン\!](https://ja.wikipedia.org/wiki/笑ってポン! "wikilink")』にも引き続き出演した。
+本番組に出演していたメンバーは、次番組『[笑ってポン\!](../Page/笑ってポン!.md "wikilink")』にも引き続き出演した。
 
 ## 出演者
 
   - [ビートたけし](../Page/ビートたけし.md "wikilink")
-  - [田原俊彦](../Page/田原俊彦.md "wikilink")（[たのきんトリオ](https://ja.wikipedia.org/wiki/たのきんトリオ "wikilink")）
-  - [近藤真彦](https://ja.wikipedia.org/wiki/近藤真彦 "wikilink")（たのきんトリオ）
-  - [野村義男](https://ja.wikipedia.org/wiki/野村義男 "wikilink")（たのきんトリオ）
+  - [田原俊彦](../Page/田原俊彦.md "wikilink")（[たのきんトリオ](../Page/たのきんトリオ.md "wikilink")）
+  - [近藤真彦](../Page/近藤真彦.md "wikilink")（たのきんトリオ）
+  - [野村義男](../Page/野村義男.md "wikilink")（たのきんトリオ）
   - [松本伊代](../Page/松本伊代.md "wikilink")
 
 ## スタッフ
 
-  - ナレーター：[芥川隆行](https://ja.wikipedia.org/wiki/芥川隆行 "wikilink")
+  - ナレーター：[芥川隆行](../Page/芥川隆行.md "wikilink")
   - プロデューサー：[桂邦彦](../Page/桂邦彦.md "wikilink")
 
 ## 放送リスト

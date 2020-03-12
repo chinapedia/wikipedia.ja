@@ -7,38 +7,38 @@
 
   - **LANCE**（ランス）MC・ボーカル
       -
-        [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")出身。4月21日生まれ。身長180cm。[帝京高校](https://ja.wikipedia.org/wiki/帝京高校 "wikilink")時代の[ポジション](https://ja.wikipedia.org/wiki/ポジション "wikilink")は[センター](../Page/中堅手.md "wikilink")。
+        [福岡県](../Page/福岡県.md "wikilink")出身。4月21日生まれ。身長180cm。[帝京高校](https://ja.wikipedia.org/wiki/帝京高校 "wikilink")時代の[ポジション](https://ja.wikipedia.org/wiki/ポジション "wikilink")は[センター](../Page/中堅手.md "wikilink")。
         5歳から中学3年生までピアノのレッスンを受け、[クラシックの素地を身につけた](../Page/クラシック音楽.md "wikilink")。そのため、現在もピアノでメロディーラインを作り歌詞を書く\[1\]。
-        初めて買ったCDは[横浜銀蝿](https://ja.wikipedia.org/wiki/横浜銀蝿 "wikilink")のベストアルバム\[2\]。音楽を始めたきっかけは、5歳から中学3年生まで習い続けたクラシックピアノ。小学5年生の頃、[ベートーベンの](../Page/ルートヴィヒ・ヴァン・ベートーヴェン.md "wikilink")『[月光](../Page/ピアノソナタ第14番_\(ベートーヴェン\).md "wikilink")』を映画で聴いて、クラシック音楽の表現力の凄さに感動したという\[3\]。
+        初めて買ったCDは[横浜銀蝿](../Page/横浜銀蝿.md "wikilink")のベストアルバム\[2\]。音楽を始めたきっかけは、5歳から中学3年生まで習い続けたクラシックピアノ。小学5年生の頃、[ベートーベンの](../Page/ルートヴィヒ・ヴァン・ベートーヴェン.md "wikilink")『[月光](../Page/ピアノソナタ第14番_\(ベートーヴェン\).md "wikilink")』を映画で聴いて、クラシック音楽の表現力の凄さに感動したという\[3\]。
         [チョコレート](https://ja.wikipedia.org/wiki/チョコレート "wikilink")等甘いものがとても好きである。しかし果物は嫌いだという。
         ブログでは、コメントを書いた人の誕生日を祝っていた時期があった。
         メンバーの中で最も髪型や髪色の変わる頻度が高い。
   - **RYO**（リョウ）ボーカル
       -
-        [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身。7月26日生まれ。身長186cm。帝京高校時代のポジションは[キャッチャー](../Page/捕手.md "wikilink")。
-        初めて買ったCDは[J-WALKの](https://ja.wikipedia.org/wiki/THE_JAYWALK "wikilink")『[何も言えなくて…夏](https://ja.wikipedia.org/wiki/何も言えなくて…夏 "wikilink")』。音楽を始めたきっかけは、オーディション番組に軽い気持ちで応募し、最終選考まで残ったこと。地元の仲間と受けにいく、くらいのノリであったが、それが人前で本格的に歌った初めての経験だったという\[4\]。
-        [ゲーマー](https://ja.wikipedia.org/wiki/ゲーマー "wikilink")で、ブログの写真にもゲームをする姿がたびたび掲載されていた。
+        [東京都](../Page/東京都.md "wikilink")出身。7月26日生まれ。身長186cm。帝京高校時代のポジションは[キャッチャー](../Page/捕手.md "wikilink")。
+        初めて買ったCDは[J-WALKの](../Page/THE_JAYWALK.md "wikilink")『[何も言えなくて…夏](https://ja.wikipedia.org/wiki/何も言えなくて…夏 "wikilink")』。音楽を始めたきっかけは、オーディション番組に軽い気持ちで応募し、最終選考まで残ったこと。地元の仲間と受けにいく、くらいのノリであったが、それが人前で本格的に歌った初めての経験だったという\[4\]。
+        [ゲーマー](../Page/ゲーマー.md "wikilink")で、ブログの写真にもゲームをする姿がたびたび掲載されていた。
   - **DJ MAKKI**（マッキー）DJ
       -
         [沖縄県](../Page/沖縄県.md "wikilink")出身。4月6日生まれ。身長172cm。帝京高校時代のポジションは[ピッチャー](../Page/投手.md "wikilink")。最高球速は130km/hぐらいだったという。
-        初めて買ったCDは[CHAGE and ASKAの](../Page/CHAGE_and_ASKA.md "wikilink")『[SAY YES](https://ja.wikipedia.org/wiki/SAY_YES "wikilink")』。音楽を始めたきっかけは、高校時代、RYOからターンテーブルを譲り受けたこと\[5\]。
+        初めて買ったCDは[CHAGE and ASKAの](../Page/CHAGE_and_ASKA.md "wikilink")『[SAY YES](../Page/SAY_YES.md "wikilink")』。音楽を始めたきっかけは、高校時代、RYOからターンテーブルを譲り受けたこと\[5\]。
 
 ## 概説
 
 ### 野球関連
 
-全員1981年生まれの同級生である。中学卒業後、3人は帝京高校野球部に特待生として入部（1学年上に、[埼玉西武ライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")の[森本稀哲](https://ja.wikipedia.org/wiki/森本稀哲 "wikilink")[外野手](../Page/外野手.md "wikilink")が在籍）。高校入学後、2年生のとき、同校は[第80回全国高等学校野球選手権大会](https://ja.wikipedia.org/wiki/第80回全国高等学校野球選手権大会 "wikilink")に出場したが、当人たちはスタンドでの応援であった。
+全員1981年生まれの同級生である。中学卒業後、3人は帝京高校野球部に特待生として入部（1学年上に、[埼玉西武ライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")の[森本稀哲](../Page/森本稀哲.md "wikilink")[外野手](../Page/外野手.md "wikilink")が在籍）。高校入学後、2年生のとき、同校は[第80回全国高等学校野球選手権大会](../Page/第80回全国高等学校野球選手権大会.md "wikilink")に出場したが、当人たちはスタンドでの応援であった。
 
 野球部出身ということもあり、DJ / RAPPER / SINGERそれぞれドラフト1位という願いを込め「ONE☆DRAFT」を結成。目標は「[甲子園ワンマンライブ](https://ja.wikipedia.org/wiki/阪神甲子園球場 "wikilink")」である。
 
 キャッチコピーは「ドラフト1位大型ルーキー」。宣伝文句は「バットをマイクに握り替え、目指すはミュージックシーンのスラッガー（強打者）\!甲子園ワンマンライブで、再び甲子園の地を踏むことを硬く決意」\[6\]。
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")と[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")には、[J SPORTS STADIUM 野球好きのテーマソングを担当](https://ja.wikipedia.org/wiki/J_SPORTS_STADIUM "wikilink")。
+[2007年](../Page/2007年.md "wikilink")と[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")には、[J SPORTS STADIUM 野球好きのテーマソングを担当](../Page/J_SPORTS_STADIUM.md "wikilink")。
 
-  - 2007年:『[大航海](https://ja.wikipedia.org/wiki/SUMMER_DAYZ "wikilink")』
-  - 2008年:『[ワスレナSWEEEEENG\!](https://ja.wikipedia.org/wiki/ONE_FOR_ALL "wikilink")』
+  - 2007年:『[大航海](../Page/SUMMER_DAYZ.md "wikilink")』
+  - 2008年:『[ワスレナSWEEEEENG\!](../Page/ONE_FOR_ALL.md "wikilink")』
 
-シングル『[情熱](https://ja.wikipedia.org/wiki/情熱_\(ONE☆DRAFTの曲\) "wikilink")』が、[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[PRIDE\&SPIRIT 日本プロ野球 2009](https://ja.wikipedia.org/wiki/Dramatic_Game_1844 "wikilink")』のテーマソングに起用され、[2009年](../Page/2009年.md "wikilink")5月3日（日）に[福岡 Yahoo\! JAPANドームで行われた](../Page/福岡ドーム.md "wikilink")[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")×[千葉ロッテマリーンズ](../Page/千葉ロッテマリーンズ.md "wikilink")戦の試合開始前イベント「[Asahi SUPER DRY MUSIC LIVE](https://ja.wikipedia.org/wiki/Asahi_SUPER_DRY_MUSIC_LIVE "wikilink")」で歌唱し、同年8月16日に東京ドームで行われた[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")×[阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")戦では始球式も務め、試合終了後に歌唱した。ちなみに両日共に中継は日本テレビ系列の放送局が担当している（5月3日は[FBSで福岡ローカル](../Page/福岡放送.md "wikilink")、8月16日は日本テレビで全国ネット）。
+シングル『[情熱](https://ja.wikipedia.org/wiki/情熱_\(ONE☆DRAFTの曲\) "wikilink")』が、[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[PRIDE\&SPIRIT 日本プロ野球 2009](https://ja.wikipedia.org/wiki/Dramatic_Game_1844 "wikilink")』のテーマソングに起用され、[2009年](../Page/2009年.md "wikilink")5月3日（日）に[福岡 Yahoo\! JAPANドームで行われた](../Page/福岡ドーム.md "wikilink")[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")×[千葉ロッテマリーンズ](../Page/千葉ロッテマリーンズ.md "wikilink")戦の試合開始前イベント「[Asahi SUPER DRY MUSIC LIVE](https://ja.wikipedia.org/wiki/Asahi_SUPER_DRY_MUSIC_LIVE "wikilink")」で歌唱し、同年8月16日に東京ドームで行われた[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")×[阪神タイガース](../Page/阪神タイガース.md "wikilink")戦では始球式も務め、試合終了後に歌唱した。ちなみに両日共に中継は日本テレビ系列の放送局が担当している（5月3日は[FBSで福岡ローカル](../Page/福岡放送.md "wikilink")、8月16日は日本テレビで全国ネット）。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink"):『[ワンダフルデイズ](https://ja.wikipedia.org/wiki/ワンダフルデイズ_\(ONE☆DRAFTの曲\) "wikilink")』『[TRAIN](https://ja.wikipedia.org/wiki/TRAIN_\(ONE☆DRAFTの曲\) "wikilink")』を、5月2日（日）に福岡 Yahoo\! JAPANドームで行われた[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")×[千葉ロッテマリーンズ](../Page/千葉ロッテマリーンズ.md "wikilink")戦の試合開始前イベント「Asahi SUPER DRY LIVE POP HAWKS」で歌唱。またその模様はTVQ九州放送での試合中継内で放送された。
 
@@ -46,7 +46,7 @@
 
 ### 結成までの経緯
 
-LANCEは高校卒業後、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[ボストン](../Page/ボストン.md "wikilink")に留学。ヒップホップを初めとする音楽文化を各地で吸収して5年後に帰国した。帰国後再会したDJ MAKKIは既に年間約80本をこなすクラブDJとして、また、[SOULHEAD](https://ja.wikipedia.org/wiki/SOULHEAD "wikilink")のライブDJとして活躍していた。MAKKIに誘われ、LANCEはクラブのMCとして出演するようになる。一方、横浜のソウルバーで働きながらステージで歌う経験を積んでいたRYOを「3人だとやれることが広がるから」と誘い、ユニットを結成した。ユニットを結成したとき高校卒業から6年経っていた\[7\]。
+LANCEは高校卒業後、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[ボストン](../Page/ボストン.md "wikilink")に留学。ヒップホップを初めとする音楽文化を各地で吸収して5年後に帰国した。帰国後再会したDJ MAKKIは既に年間約80本をこなすクラブDJとして、また、[SOULHEAD](../Page/SOULHEAD.md "wikilink")のライブDJとして活躍していた。MAKKIに誘われ、LANCEはクラブのMCとして出演するようになる。一方、横浜のソウルバーで働きながらステージで歌う経験を積んでいたRYOを「3人だとやれることが広がるから」と誘い、ユニットを結成した。ユニットを結成したとき高校卒業から6年経っていた\[7\]。
 
 ## 音楽性
 
@@ -54,24 +54,24 @@ LANCEは高校卒業後、[アメリカ](https://ja.wikipedia.org/wiki/アメリ
 
 ## 歴史
 
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")
-      - [3月21日](https://ja.wikipedia.org/wiki/3月21日 "wikilink")、[ソニー・ミュージックアソシエイテッドレコーズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックアソシエイテッドレコーズ "wikilink")よりメジャーデビュー。デビューシングル『[フルサト](https://ja.wikipedia.org/wiki/フルサト_\(ONE☆DRAFTの曲\) "wikilink")』発売。[5月16日](../Page/5月16日.md "wikilink")付のUSEN総合チャートで1位を獲得。
-      - [7月4日](../Page/7月4日.md "wikilink")、1枚目のミニアルバム『[SUMMER DAYZ](https://ja.wikipedia.org/wiki/SUMMER_DAYZ "wikilink")』発売。
+  - [2007年](../Page/2007年.md "wikilink")
+      - [3月21日](../Page/3月21日.md "wikilink")、[ソニー・ミュージックアソシエイテッドレコーズ](../Page/ソニー・ミュージックアソシエイテッドレコーズ.md "wikilink")よりメジャーデビュー。デビューシングル『[フルサト](../Page/フルサト_\(ONE☆DRAFTの曲\).md "wikilink")』発売。[5月16日](../Page/5月16日.md "wikilink")付のUSEN総合チャートで1位を獲得。
+      - [7月4日](../Page/7月4日.md "wikilink")、1枚目のミニアルバム『[SUMMER DAYZ](../Page/SUMMER_DAYZ.md "wikilink")』発売。
       - [7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")、アルバム発売記念ライブ｢SUMMER DAYZ PARTY\!\!｣開催。
-      - [8月11日](../Page/8月11日.md "wikilink")、[サマーソニック](https://ja.wikipedia.org/wiki/サマーソニック "wikilink")初出演。
-      - [11月21日](../Page/11月21日.md "wikilink")、2枚目のシングル『[ラヴソング](https://ja.wikipedia.org/wiki/ラヴソング_\(ONE☆DRAFTの曲\) "wikilink")』発売。シングルでは最高位のオリコンチャート35位を記録。
+      - [8月11日](../Page/8月11日.md "wikilink")、[サマーソニック](../Page/サマーソニック.md "wikilink")初出演。
+      - [11月21日](../Page/11月21日.md "wikilink")、2枚目のシングル『[ラヴソング](../Page/ラヴソング_\(ONE☆DRAFTの曲\).md "wikilink")』発売。シングルでは最高位のオリコンチャート35位を記録。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")
-      - [1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")、3枚目のシングル『[一歩一歩 ～終わりなき道しるべ～](https://ja.wikipedia.org/wiki/一歩一歩〜終わりなき道しるべ〜 "wikilink")』発売。
-      - [3月5日](../Page/3月5日.md "wikilink")、1枚目のフルアルバム『**[ONE FOR ALL](https://ja.wikipedia.org/wiki/ONE_FOR_ALL "wikilink")**』発売。シングル･アルバムで最高位のオリコン12位を記録。
+      - [1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")、3枚目のシングル『[一歩一歩 ～終わりなき道しるべ～](../Page/一歩一歩〜終わりなき道しるべ〜.md "wikilink")』発売。
+      - [3月5日](../Page/3月5日.md "wikilink")、1枚目のフルアルバム『**[ONE FOR ALL](../Page/ONE_FOR_ALL.md "wikilink")**』発売。シングル･アルバムで最高位のオリコン12位を記録。
       - [4月29日](../Page/4月29日.md "wikilink")と[5月6日](../Page/5月6日.md "wikilink")に初のワンマンライブ｢ONE FOR ALL LIVE｣開催。
-      - [8月13日](../Page/8月13日.md "wikilink")、4枚目のシングル『[青春の雨](https://ja.wikipedia.org/wiki/青春の雨 "wikilink")（なみだ）』発売。
+      - [8月13日](../Page/8月13日.md "wikilink")、4枚目のシングル『[青春の雨](../Page/青春の雨.md "wikilink")（なみだ）』発売。
       - [12月11日](../Page/12月11日.md "wikilink")と[12月18日](../Page/12月18日.md "wikilink")にワンマンライブ｢PYLON｣開催。
   - [2009年](../Page/2009年.md "wikilink")
       - [1月14日](../Page/1月14日.md "wikilink")、5枚目のシングル『[アイヲクダサイ](https://ja.wikipedia.org/wiki/アイヲクダサイ "wikilink")』発売。オリコン初登場14位、配信60万ダウンロードを記録するなどグループ史上最大のヒット曲となる。
-      - [5月3日](https://ja.wikipedia.org/wiki/5月3日 "wikilink")、[福岡 Yahoo\! JAPANドームでの試合前イベント](../Page/福岡ドーム.md "wikilink")「ASAHI SUPER DRY LIVE POP HAWKS」で熱唱。初めて[野球場](../Page/野球場.md "wikilink")でライブを行う。
+      - [5月3日](../Page/5月3日.md "wikilink")、[福岡 Yahoo\! JAPANドームでの試合前イベント](../Page/福岡ドーム.md "wikilink")「ASAHI SUPER DRY LIVE POP HAWKS」で熱唱。初めて[野球場](../Page/野球場.md "wikilink")でライブを行う。
       - [5月13日](../Page/5月13日.md "wikilink")、6枚目のシングル『[情熱](https://ja.wikipedia.org/wiki/情熱_\(ONE☆DRAFTの曲\) "wikilink")』発売。
       - [6月24日](../Page/6月24日.md "wikilink")、2枚目のフルアルバム『**[DREAMAKER](https://ja.wikipedia.org/wiki/DREAMAKER "wikilink")**』発売。
-      - [8月16日](../Page/8月16日.md "wikilink")、[東京ドーム](../Page/東京ドーム.md "wikilink")での[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")×[阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")戦で始球式をし、LANCEの速球で場内をおおいにわかせる[1](http://www.excite.co.jp/music/news/story/65452/)。試合終了後にライブも行う。
+      - [8月16日](../Page/8月16日.md "wikilink")、[東京ドーム](../Page/東京ドーム.md "wikilink")での[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")×[阪神タイガース](../Page/阪神タイガース.md "wikilink")戦で始球式をし、LANCEの速球で場内をおおいにわかせる[1](http://www.excite.co.jp/music/news/story/65452/)。試合終了後にライブも行う。
       - [11月11日](../Page/11月11日.md "wikilink")、7枚目のシングル『[ワンダフルデイズ](https://ja.wikipedia.org/wiki/ワンダフルデイズ_\(ONE☆DRAFTの曲\) "wikilink")』発売。
       - 11月23日から12月6日にかけて、全国5ヶ所で、初の全国ツアー「DREAMING TOUR 2009」開催。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")
@@ -85,7 +85,7 @@ LANCEは高校卒業後、[アメリカ](https://ja.wikipedia.org/wiki/アメリ
   - [2011年](../Page/2011年.md "wikilink")
       - 4月21日から6月12日にかけて、全国12ヶ所で「Bee Alive vol.3 」開催。6月25日には追加公演として「"蜂の巣" in 大阪」を[なんばHatch](https://ja.wikipedia.org/wiki/なんばHatch "wikilink")にて開催。
       - [5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink")、福岡 Yahoo\! JAPANドームでの試合前イベント「ASAHI SUPER DRY LIVE POP HAWKS」に3年連続出演。「アイヲクダサイ」「まだ止まれない（未発表曲）」を熱唱し、ミニライブ終了後にはRYOが国歌を独唱した。
-      - 8月11日、[サマーソニック](https://ja.wikipedia.org/wiki/サマーソニック "wikilink")2回目の出演
+      - 8月11日、[サマーソニック](../Page/サマーソニック.md "wikilink")2回目の出演
       - 8月20日から22日の3日間にわたって、初めてのファンクラブツアー「Bee旅夢気分 in 伊東」開催。
       - [9月21日](../Page/9月21日.md "wikilink")、6月に行われた追加公演の模様を映像化した、初のDVD作品となる『LIVE 2011「蜂の巣」in 大阪 ～at なんばHatch～』を発売。
       - 11月13日から12月22日にかけて、全国6ヵ所で「DREAMING TOUR vol.2」開催。
@@ -94,7 +94,7 @@ LANCEは高校卒業後、[アメリカ](https://ja.wikipedia.org/wiki/アメリ
       - 8月18日から20日にかけて、2度目のファンクラブツアー「Bee旅夢気分 in 長良川」開催。
       - 11月22日から12月14日にかけて、全国5ヵ所で「Bee Alive vol.5」開催。2013年1月19日には東京・新宿BLAZEで追加公演「"蜂の巣"in 東京」を開催。
   - [2013年](../Page/2013年.md "wikilink")
-      - 1月22日、所属レコード会社を[徳間ジャパンコミュニケーションズ](https://ja.wikipedia.org/wiki/徳間ジャパンコミュニケーションズ "wikilink")へ移籍することを発表。
+      - 1月22日、所属レコード会社を[徳間ジャパンコミュニケーションズ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")へ移籍することを発表。
       - 4月3日、約2年半振りのリリースとなる11枚目のシングル『[あいたくて、あえなくて、あいしてる](https://ja.wikipedia.org/wiki/あいたくて、あえなくて、あいしてる "wikilink")』発売。
       - 4月19日から7月12日にかけて、全国14ヵ所で「Bee Alive vol.6」開催。
       - 7月24日、4枚目のフルアルバム『**[ガチウタ](https://ja.wikipedia.org/wiki/ガチウタ "wikilink")**』発売。
@@ -133,17 +133,17 @@ LANCEは高校卒業後、[アメリカ](https://ja.wikipedia.org/wiki/アメリ
 
 | 枚    | 発売日                                                                                                            | タイトル                                                                                      | 順位  |
 | ---- | -------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | --- |
-| 1st  | [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[3月21日](https://ja.wikipedia.org/wiki/3月21日 "wikilink") | ''' [フルサト](https://ja.wikipedia.org/wiki/フルサト_\(ONE☆DRAFTの曲\) "wikilink") '''             | 92位 |
-| 2nd  | 2007年[11月21日](../Page/11月21日.md "wikilink")                                                                    | ''' [ラヴソング](https://ja.wikipedia.org/wiki/ラヴソング_\(ONE☆DRAFTの曲\) "wikilink") '''           | 35位 |
-| 3rd  | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink") | ''' [一歩一歩 ～終わりなき道しるべ～](https://ja.wikipedia.org/wiki/一歩一歩〜終わりなき道しるべ〜 "wikilink") '''      | 47位 |
-| 4th  | 2008年[8月13日](../Page/8月13日.md "wikilink")                                                                      | ''' [青春の雨](https://ja.wikipedia.org/wiki/青春の雨 "wikilink")（なみだ） '''                        | 39位 |
+| 1st  | [2007年](../Page/2007年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")                                       | ''' [フルサト](../Page/フルサト_\(ONE☆DRAFTの曲\).md "wikilink") '''                                | 92位 |
+| 2nd  | 2007年[11月21日](../Page/11月21日.md "wikilink")                                                                    | ''' [ラヴソング](../Page/ラヴソング_\(ONE☆DRAFTの曲\).md "wikilink") '''                              | 35位 |
+| 3rd  | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink") | ''' [一歩一歩 ～終わりなき道しるべ～](../Page/一歩一歩〜終わりなき道しるべ〜.md "wikilink") '''                         | 47位 |
+| 4th  | 2008年[8月13日](../Page/8月13日.md "wikilink")                                                                      | ''' [青春の雨](../Page/青春の雨.md "wikilink")（なみだ） '''                                           | 39位 |
 | 5th  | [2009年](../Page/2009年.md "wikilink")[1月14日](../Page/1月14日.md "wikilink")                                       | ''' [アイヲクダサイ](https://ja.wikipedia.org/wiki/アイヲクダサイ "wikilink") '''                       | 14位 |
 | 6th  | 2009年[5月13日](../Page/5月13日.md "wikilink")                                                                      | ''' [情熱](https://ja.wikipedia.org/wiki/情熱_\(ONE☆DRAFTの曲\) "wikilink") '''                 | 43位 |
 | 7th  | 2009年[11月11日](../Page/11月11日.md "wikilink")                                                                    | ''' [ワンダフルデイズ](https://ja.wikipedia.org/wiki/ワンダフルデイズ_\(ONE☆DRAFTの曲\) "wikilink") '''     | 27位 |
 | 8th  | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")                    | ''' [TRAIN](https://ja.wikipedia.org/wiki/TRAIN_\(ONE☆DRAFTの曲\) "wikilink") '''           | 39位 |
 | 9th  | 2010年[6月30日](../Page/6月30日.md "wikilink")                                                                      | ''' [夜空](https://ja.wikipedia.org/wiki/夜空_\(ONE☆DRAFTの曲\) "wikilink") '''                 | 29位 |
 | 10th | 2010年[9月15日](../Page/9月15日.md "wikilink")                                                                      | ''' [5年後……](https://ja.wikipedia.org/wiki/5年後…… "wikilink") '''                           | 19位 |
-| 11th | [2013年](../Page/2013年.md "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")                      | ''' [あいたくて、あえなくて、あいしてる](https://ja.wikipedia.org/wiki/あいたくて、あえなくて、あいしてる "wikilink") '''   | 42位 |
+| 11th | [2013年](../Page/2013年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")                                         | ''' [あいたくて、あえなくて、あいしてる](https://ja.wikipedia.org/wiki/あいたくて、あえなくて、あいしてる "wikilink") '''   | 42位 |
 | 12th | 2013年[11月13日](../Page/11月13日.md "wikilink")                                                                    | ''' [ダイヤモンド 〜世界で一番固いイシ〜](https://ja.wikipedia.org/wiki/ダイヤモンド_〜世界で一番固いイシ〜 "wikilink") ''' | 60位 |
 | 13th | [2018年](../Page/2018年.md "wikilink")[6月6日](../Page/6月6日.md "wikilink")                                         | ''' 自分時代 '''                                                                              | 72位 |
 
@@ -151,7 +151,7 @@ LANCEは高校卒業後、[アメリカ](https://ja.wikipedia.org/wiki/アメリ
 
 | 枚   | 発売日                                                                                           | タイトル                                                                                   | 順位   |
 | --- | --------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ---- |
-| 1st | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月5日](../Page/3月5日.md "wikilink")     | ''' [ONE FOR ALL](https://ja.wikipedia.org/wiki/ONE_FOR_ALL "wikilink") '''            | 12位  |
+| 1st | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月5日](../Page/3月5日.md "wikilink")     | ''' [ONE FOR ALL](../Page/ONE_FOR_ALL.md "wikilink") '''                               | 12位  |
 | 2nd | [2009年](../Page/2009年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink")                      | ''' [DREAMAKER](https://ja.wikipedia.org/wiki/DREAMAKER "wikilink") '''                | 13位  |
 | 3rd | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[11月10日](../Page/11月10日.md "wikilink") | ''' [蜂の巣](https://ja.wikipedia.org/wiki/蜂の巣_\(アルバム\) "wikilink") '''                   | 20位  |
 | 4th | [2013年](../Page/2013年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")                      | ''' [ガチウタ](https://ja.wikipedia.org/wiki/ガチウタ "wikilink") '''                          | 43位  |
@@ -163,9 +163,9 @@ LANCEは高校卒業後、[アメリカ](https://ja.wikipedia.org/wiki/アメリ
 
 ### ミニアルバム
 
-| 枚   | 発売日                                                                                       | タイトル                                                                        | 順位   |
-| --- | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ---- |
-| 1st | [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[7月4日](../Page/7月4日.md "wikilink") | ''' [SUMMER DAYZ](https://ja.wikipedia.org/wiki/SUMMER_DAYZ "wikilink") ''' | 113位 |
+| 枚   | 発売日                                                                    | タイトル                                                     | 順位   |
+| --- | ---------------------------------------------------------------------- | -------------------------------------------------------- | ---- |
+| 1st | [2007年](../Page/2007年.md "wikilink")[7月4日](../Page/7月4日.md "wikilink") | ''' [SUMMER DAYZ](../Page/SUMMER_DAYZ.md "wikilink") ''' | 113位 |
 
 ### ベストアルバム
 
@@ -201,11 +201,11 @@ LANCEは高校卒業後、[アメリカ](https://ja.wikipedia.org/wiki/アメリ
 
 | 監督                                                                                                              | 曲名                                                                                                                                            |
 | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| [大木綾子](https://ja.wikipedia.org/wiki/大木綾子 "wikilink")                                                           | 「5年後…」                                                                                                                                        |
+| [大木綾子](../Page/大木綾子.md "wikilink")                                                                              | 「5年後…」                                                                                                                                        |
 | [大喜多正毅](../Page/大喜多正毅.md "wikilink")                                                                            | 「TRAIN」「ワンダフルデイズ」「夜空」                                                                                                                         |
 | [志伯健太郎](https://ja.wikipedia.org/wiki/志伯健太郎 "wikilink") & [三國喜昭](https://ja.wikipedia.org/wiki/三國喜昭 "wikilink") | 「ラヴソング」                                                                                                                                       |
-| [末田健](https://ja.wikipedia.org/wiki/末田健 "wikilink")                                                             | 「SUMMER DAYZ」                                                                                                                                 |
-| [須永秀明](https://ja.wikipedia.org/wiki/須永秀明 "wikilink")                                                           | 「情熱」                                                                                                                                          |
+| [末田健](../Page/末田健.md "wikilink")                                                                                | 「SUMMER DAYZ」                                                                                                                                 |
+| [須永秀明](../Page/須永秀明.md "wikilink")                                                                              | 「情熱」                                                                                                                                          |
 | [多田淳一](https://ja.wikipedia.org/wiki/多田淳一 "wikilink")                                                           | 「[あいたくて、あえなくて、あいしてる](https://www.youtube.com/watch?v=xrfWX1E1cdw)」「[カレンダー 〜ケンカしたり、ふざけたり、泣かせたり〜](https://www.youtube.com/watch?v=IVuzYLq2jmk)」 |
 | [tatsuaki](https://ja.wikipedia.org/wiki/tatsuaki "wikilink")                                                   | 「[ダイヤモンド 〜世界で一番固いイシ〜](https://www.youtube.com/watch?v=6CROcuw0dfU)」「[一度きりの大声で](https://www.youtube.com/watch?v=AajFZ2O1gc4)」                  |
 | [牧鉄馬](../Page/牧鉄馬.md "wikilink")                                                                                | 「一歩一歩〜終わりなき道しるべ〜」                                                                                                                             |
@@ -260,7 +260,7 @@ Bee Alive
   - 2010.05.21　岩手・盛岡club changeWAVE
   - 2010.05.23　福島・郡山FREE WAY JAM
   - 2010.05.28　新潟・JUNKBOX
-  - 2010.05.29　福井・[響のホール](https://ja.wikipedia.org/wiki/福井まちなか文化施設_響のホール "wikilink")
+  - 2010.05.29　福井・[響のホール](../Page/福井まちなか文化施設_響のホール.md "wikilink")
   - 2010.06.12　東京・渋谷 (追加公演「蜂の巣」)
 
 </div>
@@ -311,7 +311,7 @@ Bee Alive vol.3
   - 2011.05.15　青森・Quarter
   - 2011.06.11　東京・ラフォーレ六本木
   - 2011.06.12　愛知・[名古屋ダイアモンドホール](https://ja.wikipedia.org/wiki/CLUB_DIAMOND_HALL "wikilink")
-  - 2011.06.25　大阪・[なんばHatch](https://ja.wikipedia.org/wiki/湊町リバープレイス "wikilink") (追加公演「蜂の巣」)
+  - 2011.06.25　大阪・[なんばHatch](../Page/湊町リバープレイス.md "wikilink") (追加公演「蜂の巣」)
 
 </div>
 
@@ -692,7 +692,7 @@ Bee Alive vol.13
 
 ## エピソード
 
-  - アーティストロゴは[サッポロビール](../Page/サッポロビール.md "wikilink")が製造・販売している[第三のビール](https://ja.wikipedia.org/wiki/第三のビール "wikilink")**「DRAFT☆ONE」（ドラフトワン）の初代ロゴ**（[吉田秀彦](../Page/吉田秀彦.md "wikilink")が[CMに出演していた時代](https://ja.wikipedia.org/wiki/コマーシャルメッセージ "wikilink")）**とほとんど同じ**だったが、サッポロ社に承諾を得ていたかどうかは不明。なお「DRAFT☆ONE」は[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")にロゴを変更している。
+  - アーティストロゴは[サッポロビール](../Page/サッポロビール.md "wikilink")が製造・販売している[第三のビール](../Page/第三のビール.md "wikilink")**「DRAFT☆ONE」（ドラフトワン）の初代ロゴ**（[吉田秀彦](../Page/吉田秀彦.md "wikilink")が[CMに出演していた時代](../Page/コマーシャルメッセージ.md "wikilink")）**とほとんど同じ**だったが、サッポロ社に承諾を得ていたかどうかは不明。なお「DRAFT☆ONE」は[2007年](../Page/2007年.md "wikilink")にロゴを変更している。
   - ONE☆DRAFTのデビュー曲である「フルサト」を、映画「[キトキト\!](https://ja.wikipedia.org/wiki/キトキト! "wikilink")」の最初の試写会で聴いた女優・[大竹しのぶ](https://ja.wikipedia.org/wiki/大竹しのぶ "wikilink")は『映画の内容とぴったり合っていて映画の完成の喜びをかみしめながら、胸がいっぱいになりました。』とコメントしている。また、『映画の初日にお会いしたメンバーの皆さんは、とても素敵でキラキラしていました。たくさんの人に愛される歌をこれからも、歌ってほしいと思います。』とエールを送った。そしてその試写会のパーティーで[大竹しのぶ](https://ja.wikipedia.org/wiki/大竹しのぶ "wikilink")とONE☆DRAFTは「歌と映画をヒットさせて[ハワイ](https://ja.wikipedia.org/wiki/ハワイ "wikilink")に行こう」という約束を交わした。
 
 ## 脚注
@@ -709,7 +709,7 @@ Bee Alive vol.13
 
 [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink") [Category:帝京高等出身の野球選手](https://ja.wikipedia.org/wiki/Category:帝京高等出身の野球選手 "wikilink")
 
-1.  2008年4月号『[日経エンタテインメント\!](https://ja.wikipedia.org/wiki/日経エンタテインメント! "wikilink")』インタビューより
+1.  2008年4月号『[日経エンタテインメント\!](../Page/日経エンタテインメント!.md "wikilink")』インタビューより
 2.
 3.
 4.

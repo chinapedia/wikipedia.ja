@@ -5,34 +5,34 @@
 
 この装置は車両の各所（主に乗降扉上部）に設置された媒体に運行情報、次駅案内、乗り換え案内、到達時分、その他アナウンス（『鉄道施設の警備強化のお知らせ』など）を表示している。車両と地上の双方向で[通信](../Page/通信.md "wikilink")できるため、[TIMS](../Page/TIMS.md "wikilink")が持っている情報を地上に送信することも可能である。
 
-表示を行う媒体は車両により異なっており、[液晶ディスプレイ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")を用いる方式と[スクロール](https://ja.wikipedia.org/wiki/スクロール "wikilink")式[LEDパネルを用いる方式が採用されている](../Page/発光ダイオード.md "wikilink")。
+表示を行う媒体は車両により異なっており、[液晶ディスプレイ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")を用いる方式と[スクロール](../Page/スクロール.md "wikilink")式[LEDパネルを用いる方式が採用されている](../Page/発光ダイオード.md "wikilink")。
 
 ## JR東日本の搭載車両
 
 ### 液晶ディスプレイ方式
 
   - [E231系500番台](https://ja.wikipedia.org/wiki/JR東日本E231系電車#500番台 "wikilink")
-  - [E233系](https://ja.wikipedia.org/wiki/JR東日本E233系電車 "wikilink")（3000番台をのぞく）
+  - [E233系](../Page/JR東日本E233系電車.md "wikilink")（3000番台をのぞく）
   - [E235系](https://ja.wikipedia.org/wiki/JR東日本E235系電車 "wikilink")
   - [E129系](https://ja.wikipedia.org/wiki/JR東日本E129系電車 "wikilink")\[1\]
-  - [E331系](https://ja.wikipedia.org/wiki/JR東日本E331系電車 "wikilink")（廃車解体済）
+  - [E331系](../Page/JR東日本E331系電車.md "wikilink")（廃車解体済）
 
-乗降扉上部に「[トレインチャンネル](https://ja.wikipedia.org/wiki/トレインチャンネル "wikilink")」とよばれる2基の液晶ディスプレイを設置して情報を提供している。
+乗降扉上部に「[トレインチャンネル](../Page/トレインチャンネル.md "wikilink")」とよばれる2基の液晶ディスプレイを設置して情報を提供している。
 
-主に停車駅や乗り換えなどの列車情報、遅延などの運行状況やCMなどの広告を表示している。そのうち広告は主に[ミリ波](../Page/ミリ波.md "wikilink")を使用した[SS無線や](https://ja.wikipedia.org/wiki/スペクトラム拡散 "wikilink")[無線LAN](../Page/無線LAN.md "wikilink")、[モバイルWiMAX](https://ja.wikipedia.org/wiki/モバイルWiMAX "wikilink")を使用し、運行状況は[デジタル列車無線を使用して内容を更新している](https://ja.wikipedia.org/wiki/列車無線#JR在来線における方式の違い "wikilink")。
+主に停車駅や乗り換えなどの列車情報、遅延などの運行状況やCMなどの広告を表示している。そのうち広告は主に[ミリ波](../Page/ミリ波.md "wikilink")を使用した[SS無線や](../Page/スペクトラム拡散.md "wikilink")[無線LAN](../Page/無線LAN.md "wikilink")、[モバイルWiMAX](https://ja.wikipedia.org/wiki/モバイルWiMAX "wikilink")を使用し、運行状況は[デジタル列車無線を使用して内容を更新している](https://ja.wikipedia.org/wiki/列車無線#JR在来線における方式の違い "wikilink")。
 
-E231系500番台はアナログ伝送のため映像に[ノイズ](../Page/ノイズ.md "wikilink")が見られるが、E233系では伝送速度の向上により[デジタルRGBを採用したためより鮮明な映像となっている](https://ja.wikipedia.org/wiki/Digital_Visual_Interface "wikilink")。
+E231系500番台はアナログ伝送のため映像に[ノイズ](../Page/ノイズ.md "wikilink")が見られるが、E233系では伝送速度の向上により[デジタルRGBを採用したためより鮮明な映像となっている](../Page/Digital_Visual_Interface.md "wikilink")。
 
-E233系0番台までは、[画面アスペクト比](https://ja.wikipedia.org/wiki/画面アスペクト比 "wikilink")が4:3の液晶ディスプレイを搭載していたが、1000番台以降はアスペクト比16:9の液晶ディスプレイを搭載している。この為、4:3の画面サイズ用に制作された映像・広告が表示される場合、画面の左右端に黒い縦の帯が表示される。E233系2000番台では導入当初１基のみの設置で広告の表示は行っていなかったが、2015年2月19日より順次表示が開始された\[2\]。この他、乗り入れ先の[地下鉄千代田線内での](../Page/東京メトロ千代田線.md "wikilink")[駅ナンバリング](https://ja.wikipedia.org/wiki/駅ナンバリング "wikilink")表示に対応している。E233系7000番台は三菱電機製のセサミクロを用いたアニメーション表示に対応している。
+E233系0番台までは、[画面アスペクト比](../Page/画面アスペクト比.md "wikilink")が4:3の液晶ディスプレイを搭載していたが、1000番台以降はアスペクト比16:9の液晶ディスプレイを搭載している。この為、4:3の画面サイズ用に制作された映像・広告が表示される場合、画面の左右端に黒い縦の帯が表示される。E233系2000番台では導入当初１基のみの設置で広告の表示は行っていなかったが、2015年2月19日より順次表示が開始された\[2\]。この他、乗り入れ先の[地下鉄千代田線内での](../Page/東京メトロ千代田線.md "wikilink")[駅ナンバリング](../Page/駅ナンバリング.md "wikilink")表示に対応している。E233系7000番台は三菱電機製のセサミクロを用いたアニメーション表示に対応している。
 
-E235系では、新たなデジタルサイネージとして[トレインチャンネル](https://ja.wikipedia.org/wiki/トレインチャンネル "wikilink")に加え「まど上チャンネル」と「サイドチャンネル」が新設されている。21.5インチ液晶ディスプレイを窓上部に３基、妻上部に１基設置している\[3\]。
+E235系では、新たなデジタルサイネージとして[トレインチャンネル](../Page/トレインチャンネル.md "wikilink")に加え「まど上チャンネル」と「サイドチャンネル」が新設されている。21.5インチ液晶ディスプレイを窓上部に３基、妻上部に１基設置している\[3\]。
 
 ### スクロール式LEDパネル方式
 
   - [209系](../Page/JR東日本209系電車.md "wikilink")
   - [E217系](../Page/JR東日本E217系電車.md "wikilink")
   - [E231系](https://ja.wikipedia.org/wiki/JR東日本E231系電車 "wikilink")（500番台をのぞく）
-  - [E531系](https://ja.wikipedia.org/wiki/JR東日本E531系電車 "wikilink")
+  - [E531系](../Page/JR東日本E531系電車.md "wikilink")
   - [E233系3000番台](https://ja.wikipedia.org/wiki/JR東日本E233系電車#3000番台 "wikilink")
 
 列車の運行状況を表示しているほか、E231系通勤タイプでは到達時分も表示する。E231系近郊タイプ初期編成では当初グリーン車のみ運行状況が表示されていたが、2009年頃から普通車にも表示されるようになった。なお、2004年以降に製造された後期編成は当初から全車両で運行状況が表示されている。
@@ -46,8 +46,8 @@ E235系では、新たなデジタルサイネージとして[トレインチャ
 (Train Information system for Passenger。TOQビジョン)
 
   - [東京急行電鉄](https://ja.wikipedia.org/wiki/東京急行電鉄 "wikilink")・[横浜高速鉄道](../Page/横浜高速鉄道.md "wikilink")
-      - [5000系（2代）・5050系・5080系](https://ja.wikipedia.org/wiki/東急5000系電車_\(2代\) "wikilink")
-      - [6000系（2代）](https://ja.wikipedia.org/wiki/東急6000系電車_\(2代\) "wikilink")
+      - [5000系（2代）・5050系・5080系](../Page/東急5000系電車_\(2代\).md "wikilink")
+      - [6000系（2代）](../Page/東急6000系電車_\(2代\).md "wikilink")
       - [7000系（2代）](https://ja.wikipedia.org/wiki/東急7000系電車_\(2代\) "wikilink")
       - [2020系・6020系](https://ja.wikipedia.org/wiki/東急2020系電車 "wikilink")
       - [Y500系](../Page/横浜高速鉄道Y500系電車.md "wikilink")
@@ -66,9 +66,9 @@ E235系では、新たなデジタルサイネージとして[トレインチャ
       - [4000形（2代）](../Page/小田急4000形電車_\(2代\).md "wikilink")
       - [50000形](../Page/小田急50000形電車.md "wikilink")
 
-液晶ディスプレイにて次駅案内や運行状況を表示している。4000形と3000形の一部と1000形のリニューアル車ではディスプレイを2台設置し、左側を「小田急TV([電子広告](https://ja.wikipedia.org/wiki/デジタルサイネージ "wikilink"))」を用いている。50000形では車外に設置されたカメラの映像をリアルタイムでモニターに伝送する機能も搭載されている。このほかスクロール式LEDパネル方式を採用している車両でも運行状況を表示する機能を搭載している。
+液晶ディスプレイにて次駅案内や運行状況を表示している。4000形と3000形の一部と1000形のリニューアル車ではディスプレイを2台設置し、左側を「小田急TV([電子広告](../Page/デジタルサイネージ.md "wikilink"))」を用いている。50000形では車外に設置されたカメラの映像をリアルタイムでモニターに伝送する機能も搭載されている。このほかスクロール式LEDパネル方式を採用している車両でも運行状況を表示する機能を搭載している。
 
-ファイル:LCD information board of OER 3000.jpg|3000形の旅客案内表示器 ファイル:OER-3223-inside-LCD-Kazamatsuri.jpg|[ドアカット](https://ja.wikipedia.org/wiki/ドアカット "wikilink")の案内表示
+ファイル:LCD information board of OER 3000.jpg|3000形の旅客案内表示器 ファイル:OER-3223-inside-LCD-Kazamatsuri.jpg|[ドアカット](../Page/ドアカット.md "wikilink")の案内表示
 
 ### SIS
 
@@ -89,7 +89,7 @@ E235系では、新たなデジタルサイネージとして[トレインチャ
 (Seibu-Train Vision System。西武スマイルビジョン)
 
   - [西武鉄道](../Page/西武鉄道.md "wikilink")
-      - [30000系](https://ja.wikipedia.org/wiki/西武30000系電車 "wikilink")
+      - [30000系](../Page/西武30000系電車.md "wikilink")
       - [40000系](https://ja.wikipedia.org/wiki/西武40000系電車 "wikilink")
       - [6000系](../Page/西武6000系電車.md "wikilink")（搭載工事を施工した一部車両のみ）
 
@@ -102,7 +102,7 @@ E235系では、新たなデジタルサイネージとして[トレインチャ
 （Tokyo Metro ビジョン）
 
   - [東京地下鉄](https://ja.wikipedia.org/wiki/東京地下鉄 "wikilink")
-      - [10000系](https://ja.wikipedia.org/wiki/東京メトロ10000系電車 "wikilink")
+      - [10000系](../Page/東京メトロ10000系電車.md "wikilink")
       - [13000系](https://ja.wikipedia.org/wiki/東京メトロ13000系電車 "wikilink")
       - [15000系](https://ja.wikipedia.org/wiki/東京メトロ15000系電車 "wikilink")
       - [16000系](https://ja.wikipedia.org/wiki/東京メトロ16000系電車 "wikilink")
@@ -142,8 +142,8 @@ E235系では、新たなデジタルサイネージとして[トレインチャ
 
 ## 関連項目
 
-  - [車内案内表示装置](https://ja.wikipedia.org/wiki/車内案内表示装置 "wikilink")
-  - [トレインチャンネル](https://ja.wikipedia.org/wiki/トレインチャンネル "wikilink")
+  - [車内案内表示装置](../Page/車内案内表示装置.md "wikilink")
+  - [トレインチャンネル](../Page/トレインチャンネル.md "wikilink")
 
 [Category:鉄道とIT](https://ja.wikipedia.org/wiki/Category:鉄道とIT "wikilink") [Category:鉄道のサービス](https://ja.wikipedia.org/wiki/Category:鉄道のサービス "wikilink")
 

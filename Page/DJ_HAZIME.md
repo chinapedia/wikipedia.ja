@@ -1,18 +1,18 @@
 > この記事は[DJ HAZIME](https://ja.wikipedia.org/wiki/DJ_HAZIME)から翻訳されています。
 
 
-**DJ HAZIME**（ディージェイ・ハジメ、本名: 平山肇、[1975年](../Page/1975年.md "wikilink")[6月12日](../Page/6月12日.md "wikilink") -）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[DJ](https://ja.wikipedia.org/wiki/ディスクジョッキー "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")、アパレルブランド「DOUBLE HARD」の取締役である。
+**DJ HAZIME**（ディージェイ・ハジメ、本名: 平山肇、[1975年](../Page/1975年.md "wikilink")[6月12日](../Page/6月12日.md "wikilink") -）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[DJ](../Page/ディスクジョッキー.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")、アパレルブランド「DOUBLE HARD」の取締役である。
 
 ## 略歴
 
-  - 1993年、クラブDJとして活動。同時期に[DABO](https://ja.wikipedia.org/wiki/DABO "wikilink")や[SUIKEN](https://ja.wikipedia.org/wiki/SUIKEN "wikilink")、K-BOMBらとCHANNEL 5を結成。その後数多くのアーティストのプロデュース・リミックスを手がける。
+  - 1993年、クラブDJとして活動。同時期に[DABO](../Page/DABO.md "wikilink")や[SUIKEN](../Page/SUIKEN.md "wikilink")、K-BOMBらとCHANNEL 5を結成。その後数多くのアーティストのプロデュース・リミックスを手がける。
   - 2004年、[cutting edgeよりメジャーデビュー](https://ja.wikipedia.org/wiki/cutting_edge "wikilink")。
 
 ## ディスコグラフィー
 
 ### シングル
 
-1.  **ON THE WHEELZ OF STEEL(WHAT'S MY NAME?)feat.[NITRO MICROPHONE UNDERGROUND](https://ja.wikipedia.org/wiki/NITRO_MICROPHONE_UNDERGROUND "wikilink")**（2004年10月20日）\[CCCD／1万枚限定生産\]オリコン25位
+1.  **ON THE WHEELZ OF STEEL(WHAT'S MY NAME?)feat.[NITRO MICROPHONE UNDERGROUND](../Page/NITRO_MICROPHONE_UNDERGROUND.md "wikilink")**（2004年10月20日）\[CCCD／1万枚限定生産\]オリコン25位
     1.  ON THE WHEELZ OF STEEL(WHAT'S MY NAME?)feat.NITRO MICROPHONE UNDERGROUND
           -
             作詞：NITRO MICROPHONE UNDERGROUND、作曲：DJ HAZIME
@@ -53,7 +53,7 @@
 
 <!-- end list -->
 
-  - [SHAKKAZOMBIE](https://ja.wikipedia.org/wiki/SHAKKAZOMBIE "wikilink")「**SO TIGHT, SO DEEP**」（2001年11月28日）
+  - [SHAKKAZOMBIE](../Page/SHAKKAZOMBIE.md "wikilink")「**SO TIGHT, SO DEEP**」（2001年11月28日）
 
 <!-- end list -->
 
@@ -62,7 +62,7 @@
 
 <!-- end list -->
 
-  - [SUITE CHIC](https://ja.wikipedia.org/wiki/SUITE_CHIC "wikilink")「**WHEN POP HITS THE LAB**」（2003年3月26日）
+  - [SUITE CHIC](../Page/SUITE_CHIC.md "wikilink")「**WHEN POP HITS THE LAB**」（2003年3月26日）
 
 <!-- end list -->
 
@@ -71,7 +71,7 @@
 
 <!-- end list -->
 
-  - [DABO](https://ja.wikipedia.org/wiki/DABO "wikilink")「**DIAMOND**」（2003年12月24日）
+  - [DABO](../Page/DABO.md "wikilink")「**DIAMOND**」（2003年12月24日）
 
 <!-- end list -->
 
@@ -80,7 +80,7 @@
 
 <!-- end list -->
 
-  - [MICHICO](https://ja.wikipedia.org/wiki/MICHICO "wikilink")「**O.P.D.**」（2004年4月7日）
+  - [MICHICO](../Page/MICHICO.md "wikilink")「**O.P.D.**」（2004年4月7日）
 
 <!-- end list -->
 
@@ -89,7 +89,7 @@
 
 ## 関連項目
 
-  - [日本のヒップホップ](https://ja.wikipedia.org/wiki/日本のヒップホップ "wikilink")
+  - [日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")
 
 ## 外部リンク
 

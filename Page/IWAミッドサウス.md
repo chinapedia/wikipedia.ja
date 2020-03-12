@@ -5,7 +5,7 @@
 
 ## 概要
 
-[1996年](../Page/1996年.md "wikilink")、[ECW](https://ja.wikipedia.org/wiki/ECW "wikilink")で活躍していた[イアン・ロッテン](https://ja.wikipedia.org/wiki/イアン・ロッテン "wikilink")が[ケンタッキー州](../Page/ケンタッキー州.md "wikilink")[ルイビル](https://ja.wikipedia.org/wiki/ルイビル "wikilink")を本拠地にして設立。いわゆる[ハードコア](https://ja.wikipedia.org/wiki/ハードコア・レスリング "wikilink")・[デスマッチ](https://ja.wikipedia.org/wiki/デスマッチ "wikilink")形式の試合を行うことが特徴。「[キング・オブ・ザ・デスマッチ](https://ja.wikipedia.org/wiki/キング・オブ・ザ・デスマッチ "wikilink")」という大会をその目玉としつつ、[イリノイ州](../Page/イリノイ州.md "wikilink")や[インディアナ州](../Page/インディアナ州.md "wikilink")で興行を行っていた。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")からは女性レスラーの大会「[クイーン・オブ・ザ・デスマッチ](https://ja.wikipedia.org/wiki/クイーン・オブ・ザ・デスマッチ "wikilink")」を始動させたが、[2011年](../Page/2011年.md "wikilink")3月28日に活動停止が発表された\[1\]。
+[1996年](../Page/1996年.md "wikilink")、[ECW](../Page/ECW.md "wikilink")で活躍していた[イアン・ロッテン](https://ja.wikipedia.org/wiki/イアン・ロッテン "wikilink")が[ケンタッキー州](../Page/ケンタッキー州.md "wikilink")[ルイビル](../Page/ルイビル.md "wikilink")を本拠地にして設立。いわゆる[ハードコア](https://ja.wikipedia.org/wiki/ハードコア・レスリング "wikilink")・[デスマッチ](../Page/デスマッチ.md "wikilink")形式の試合を行うことが特徴。「[キング・オブ・ザ・デスマッチ](https://ja.wikipedia.org/wiki/キング・オブ・ザ・デスマッチ "wikilink")」という大会をその目玉としつつ、[イリノイ州](../Page/イリノイ州.md "wikilink")や[インディアナ州](../Page/インディアナ州.md "wikilink")で興行を行っていた。[2006年](../Page/2006年.md "wikilink")からは女性レスラーの大会「[クイーン・オブ・ザ・デスマッチ](https://ja.wikipedia.org/wiki/クイーン・オブ・ザ・デスマッチ "wikilink")」を始動させたが、[2011年](../Page/2011年.md "wikilink")3月28日に活動停止が発表された\[1\]。
 
 ## タイトル
 
@@ -26,24 +26,24 @@
 
 ## 参戦選手
 
-  - [ネクロ・ブッチャー](https://ja.wikipedia.org/wiki/ネクロ・ブッチャー "wikilink")
-  - [スティーブ・コリノ](https://ja.wikipedia.org/wiki/スティーブ・コリノ "wikilink")
+  - [ネクロ・ブッチャー](../Page/ネクロ・ブッチャー.md "wikilink")
+  - [スティーブ・コリノ](../Page/スティーブ・コリノ.md "wikilink")
   - [クリス・ヒーロー](https://ja.wikipedia.org/wiki/クリス・ヒーロー "wikilink")
-  - [ロウ・キー](https://ja.wikipedia.org/wiki/ブランドン・シルベストリー "wikilink")
-  - [マッドマン・ポンド](https://ja.wikipedia.org/wiki/マッドマン・ポンド "wikilink")
+  - [ロウ・キー](../Page/ブランドン・シルベストリー.md "wikilink")
+  - [マッドマン・ポンド](../Page/マッドマン・ポンド.md "wikilink")
   - [ミッキー・ナックルズ](https://ja.wikipedia.org/wiki/ミッキー・ナックルズ "wikilink")
-  - [2コールド・スコーピオ](https://ja.wikipedia.org/wiki/チャールズ・スキャッグス "wikilink")
-  - [CMパンク](https://ja.wikipedia.org/wiki/CMパンク "wikilink")
-  - [サブゥー](https://ja.wikipedia.org/wiki/サブゥー "wikilink")
-  - [マット・ハーディー](https://ja.wikipedia.org/wiki/マット・ハーディー "wikilink")
-  - [A・J・スタイルズ](https://ja.wikipedia.org/wiki/アレン・ジョーンズ "wikilink")
-  - [クリストファー・ダニエルズ](https://ja.wikipedia.org/wiki/ダニエル・コベル "wikilink")
-  - [サモア・ジョー](https://ja.wikipedia.org/wiki/サモア・ジョー "wikilink")
-  - [ビリー・ガン](https://ja.wikipedia.org/wiki/モンティ・ソップ "wikilink")
-  - [エディ・ゲレロ](https://ja.wikipedia.org/wiki/エディ・ゲレロ "wikilink")
-  - [レイ・ミステリオ・ジュニア](https://ja.wikipedia.org/wiki/レイ・ミステリオ・ジュニア "wikilink")
+  - [2コールド・スコーピオ](../Page/チャールズ・スキャッグス.md "wikilink")
+  - [CMパンク](../Page/CMパンク.md "wikilink")
+  - [サブゥー](../Page/サブゥー.md "wikilink")
+  - [マット・ハーディー](../Page/マット・ハーディー.md "wikilink")
+  - [A・J・スタイルズ](../Page/アレン・ジョーンズ.md "wikilink")
+  - [クリストファー・ダニエルズ](../Page/ダニエル・コベル.md "wikilink")
+  - [サモア・ジョー](../Page/サモア・ジョー.md "wikilink")
+  - [ビリー・ガン](../Page/モンティ・ソップ.md "wikilink")
+  - [エディ・ゲレロ](../Page/エディ・ゲレロ.md "wikilink")
+  - [レイ・ミステリオ・ジュニア](../Page/レイ・ミステリオ・ジュニア.md "wikilink")
   - [ミッチ・ペイジ](https://ja.wikipedia.org/wiki/ミッチ・ペイジ "wikilink")
-  - [サンドマン](https://ja.wikipedia.org/wiki/サンドマン_\(プロレスラー\) "wikilink")
+  - [サンドマン](../Page/サンドマン_\(プロレスラー\).md "wikilink")
   - [トレイシー・スマザーズ](https://ja.wikipedia.org/wiki/トレイシー・スマザーズ "wikilink")
   - [J・C・アイス](https://ja.wikipedia.org/wiki/ジェイミー・ダンディー "wikilink")
 

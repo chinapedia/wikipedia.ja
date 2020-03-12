@@ -1,7 +1,7 @@
 > この記事は[Shio](https://ja.wikipedia.org/wiki/Shio)から翻訳されています。
 
 
-**shio** （*Tomoko Shiono*、**塩野友子**、シオ、[3月24日](../Page/3月24日.md "wikilink") -） は、株式会社[コナミデジタルエンタテインメント](https://ja.wikipedia.org/wiki/コナミデジタルエンタテインメント "wikilink")所属の[グラフィックデザイナー](../Page/グラフィックデザイナー.md "wikilink")。[音楽ゲーム](../Page/音楽ゲーム.md "wikilink")『[pop'n music](https://ja.wikipedia.org/wiki/pop'n_music "wikilink")』シリーズのキャラクターデザインなどを担当しており、その他の[BEMANIシリーズ](../Page/BEMANIシリーズ.md "wikilink")のムービーやクリップなども手がける。他に『[beatmania](https://ja.wikipedia.org/wiki/beatmania "wikilink")』、『[beatmania IIDX](https://ja.wikipedia.org/wiki/beatmania_IIDX "wikilink")』シリーズでは**kaeru**名義、『[GUITARFREAKS](../Page/GUITARFREAKS.md "wikilink")』&『[drummania](https://ja.wikipedia.org/wiki/drummania "wikilink")』シリーズでは**shio忍**名義を使用している。
+**shio** （*Tomoko Shiono*、**塩野友子**、シオ、[3月24日](../Page/3月24日.md "wikilink") -） は、株式会社[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")所属の[グラフィックデザイナー](../Page/グラフィックデザイナー.md "wikilink")。[音楽ゲーム](../Page/音楽ゲーム.md "wikilink")『[pop'n music](https://ja.wikipedia.org/wiki/pop'n_music "wikilink")』シリーズのキャラクターデザインなどを担当しており、その他の[BEMANIシリーズ](../Page/BEMANIシリーズ.md "wikilink")のムービーやクリップなども手がける。他に『[beatmania](https://ja.wikipedia.org/wiki/beatmania "wikilink")』、『[beatmania IIDX](https://ja.wikipedia.org/wiki/beatmania_IIDX "wikilink")』シリーズでは**kaeru**名義、『[GUITARFREAKS](../Page/GUITARFREAKS.md "wikilink")』&『[drummania](https://ja.wikipedia.org/wiki/drummania "wikilink")』シリーズでは**shio忍**名義を使用している。
 
 ## 参加作品
 
@@ -101,14 +101,14 @@
 イラストを描き下ろししたBEMANIシリーズに関連したアイテム。
 
   - CD
-      - pop'n music Artist Collection パーキッツ （[パーキッツ](https://ja.wikipedia.org/wiki/パーキッツ "wikilink")）
-      - pop'n music Artist Collection 新谷さなえ （[新谷さなえ](https://ja.wikipedia.org/wiki/新谷さなえ "wikilink")）
+      - pop'n music Artist Collection パーキッツ （[パーキッツ](../Page/パーキッツ.md "wikilink")）
+      - pop'n music Artist Collection 新谷さなえ （[新谷さなえ](../Page/新谷さなえ.md "wikilink")）
       - ぱきポプ全部入り！ PARQUETS pop'n music best （パーキッツ）
-      - Sana-molle Collection ([Sana](https://ja.wikipedia.org/wiki/新谷さなえ "wikilink"))
+      - Sana-molle Collection ([Sana](../Page/新谷さなえ.md "wikilink"))
       - ポップンミュージック リクエストベスト！
-      - アルバム『音楽』([wac](https://ja.wikipedia.org/wiki/脇田潤 "wikilink"))
+      - アルバム『音楽』([wac](../Page/脇田潤.md "wikilink"))
   - グッズ
       - ポップンミュージック缶バッジコレクション
-      - ポップンB2サイズポスター（[月刊アルカディア](https://ja.wikipedia.org/wiki/月刊アルカディア "wikilink")2003年6月号、2008年7月号・付録）
+      - ポップンB2サイズポスター（[月刊アルカディア](../Page/月刊アルカディア.md "wikilink")2003年6月号、2008年7月号・付録）
 
 [Category:日本のグラフィックデザイナー](https://ja.wikipedia.org/wiki/Category:日本のグラフィックデザイナー "wikilink") [Category:BEMANIシリーズの人物](https://ja.wikipedia.org/wiki/Category:BEMANIシリーズの人物 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

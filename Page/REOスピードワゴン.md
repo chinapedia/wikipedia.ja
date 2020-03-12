@@ -13,7 +13,7 @@
 
 ## バンド名の由来
 
-アメリカの自動車メーカー「[レオ・モーター・カー・カンパニー](https://ja.wikipedia.org/wiki/レオ・モーター・カー・カンパニー "wikilink")」で[1930年代](../Page/1930年代.md "wikilink")に生産されたモデル「スピードワゴン ([Speed-Wagon](https://ja.wikipedia.org/wiki/:en:Reo_Speed-Wagon "wikilink"))」と、同社の創業者ランサム・E・オールズ（Ransom E. Olds）の頭文字に因む。
+アメリカの自動車メーカー「[レオ・モーター・カー・カンパニー](../Page/レオ・モーター・カー・カンパニー.md "wikilink")」で[1930年代](../Page/1930年代.md "wikilink")に生産されたモデル「スピードワゴン ([Speed-Wagon](https://ja.wikipedia.org/wiki/:en:Reo_Speed-Wagon "wikilink"))」と、同社の創業者ランサム・E・オールズ（Ransom E. Olds）の頭文字に因む。
 
 ## 来歴
 
@@ -85,7 +85,7 @@
 
 <!-- end list -->
 
-  - [5月](https://ja.wikipedia.org/wiki/5月 "wikilink")、7作目にして初のライヴアルバム『ライヴ～嵐の中へ』リリース、全米第72位。このアルバムは2枚組ライヴアルバムとして初の[ゴールドディスク](https://ja.wikipedia.org/wiki/ゴールドディスク "wikilink")を獲得する。
+  - [5月](https://ja.wikipedia.org/wiki/5月 "wikilink")、7作目にして初のライヴアルバム『ライヴ～嵐の中へ』リリース、全米第72位。このアルバムは2枚組ライヴアルバムとして初の[ゴールドディスク](../Page/ゴールドディスク.md "wikilink")を獲得する。
   - 先に挙げたツアー終了と同時にベーシストのグレッグが脱退。
 
 <!-- end list -->
@@ -122,7 +122,7 @@
 
 <!-- end list -->
 
-  - アルバム『[禁じられた夜](https://ja.wikipedia.org/wiki/禁じられた夜 "wikilink")』が、それまで[ビルボード](../Page/ビルボード.md "wikilink")のアルバムチャートで8週連続全米No.1を獲得していた[ジョン・レノン](../Page/ジョン・レノン.md "wikilink")の（遺作）『[ダブル・ファンタジー](https://ja.wikipedia.org/wiki/ダブル・ファンタジー "wikilink")』にかわってNo.1になった。その後、15週連続全米No.1を獲得し、売り上げも最終的には1000万枚を突破した。そして、この年の年間アルバムチャートでは『ダブル・ファンタジー』を抑えて年間第1位を獲得した。
+  - アルバム『[禁じられた夜](https://ja.wikipedia.org/wiki/禁じられた夜 "wikilink")』が、それまで[ビルボード](../Page/ビルボード.md "wikilink")のアルバムチャートで8週連続全米No.1を獲得していた[ジョン・レノン](../Page/ジョン・レノン.md "wikilink")の（遺作）『[ダブル・ファンタジー](../Page/ダブル・ファンタジー.md "wikilink")』にかわってNo.1になった。その後、15週連続全米No.1を獲得し、売り上げも最終的には1000万枚を突破した。そして、この年の年間アルバムチャートでは『ダブル・ファンタジー』を抑えて年間第1位を獲得した。
   - アルバムからの先行シングルとなった「キープ・オン・ラヴィング・ユー」は同年[3月21日](../Page/3月21日.md "wikilink")付の[ビルボード](../Page/ビルボード.md "wikilink")・シングルチャートで全米No.1を獲得した。そして、この年の年間シングルチャート第10位にもなった。売れない地味なハードロック・バンドのままなら、批判されることもなかったのだが、大ヒットを飛ばすに至り「産業ロック」との批判を受けることになってしまった。
 
 <!-- end list -->
@@ -174,7 +174,7 @@
 <!-- end list -->
 
   - 6月、2枚目のベストアルバム『ザ・ヒッツ』（通算16枚目）をリリース、全米第56位。その中の新曲「アイ・ドント・ウォント・トゥ・ルーズ・ユー（涙のルーズ・ユー）」と「ヒア・ウィズ・ミー」（全米第20位）がゲイリーとアランがバンドメンバーとしての最後のレコーディングとなる。
-  - このリリース直後、ドラムのアランが脱退。元[サンタナのグラハム](https://ja.wikipedia.org/wiki/サンタナ_\(バンド\) "wikilink")・リアー加入。
+  - このリリース直後、ドラムのアランが脱退。元[サンタナのグラハム](../Page/サンタナ_\(バンド\).md "wikilink")・リアー加入。
 
 <!-- end list -->
 
@@ -281,7 +281,7 @@
 
 <!-- end list -->
 
-  - 27枚目のアルバム『Not So Silent Night... Christmas with REO Speedwagon』を[クリスマス](https://ja.wikipedia.org/wiki/クリスマス "wikilink")アルバムとしてリリース。
+  - 27枚目のアルバム『Not So Silent Night... Christmas with REO Speedwagon』を[クリスマス](../Page/クリスマス.md "wikilink")アルバムとしてリリース。
 
 <!-- end list -->
 
@@ -319,7 +319,7 @@
   - スティーブ・スコーフィーナ　Steve Scorfina – ギター (1969–1970)
   - ゲイリー・リッチラス　Gary Richrath – ギター (1970–1989)　デビューメンバー。♱RIP.2015
   - マイク・マーフィー　Mike Murphy – ボーカル (1973–1976)
-  - グラハム・リアー　Graham Lear – ドラム (1988–1989)　元[サンタナ](https://ja.wikipedia.org/wiki/サンタナ_\(バンド\) "wikilink")
+  - グラハム・リアー　Graham Lear – ドラム (1988–1989)　元[サンタナ](../Page/サンタナ_\(バンド\).md "wikilink")
   - マイルス・ジョセフ　Miles Joseph – ギター (1989)　元プレイヤー。♱RIP.2012
   - ジェシー・ハームス　Jesse Harms – キーボード (1989–1991)
 

@@ -3,7 +3,7 @@
 
 [Whitespace_in_vim2-recolored.png](https://ja.wikipedia.org/wiki/File:Whitespace_in_vim2-recolored.png "fig:Whitespace_in_vim2-recolored.png")。以下のような色付けをしてある。 \]\] **Whitespace**（ホワイトスペース）は、[プログラミング言語](../Page/プログラミング言語.md "wikilink")のひとつであり、またそれを動作させる[インタプリタ](../Page/インタプリタ.md "wikilink")を指している。Whitespaceは[GPLにより配布されている](https://ja.wikipedia.org/wiki/GNU_GPL "wikilink")。実用言語ではない[難解プログラミング言語](https://ja.wikipedia.org/wiki/難解プログラミング言語 "wikilink")のひとつ。
 
-本来 "whitespace" とは「空白」や「余白」を意味する英単語である。多くの一般的なプログラミング言語では空白に相当する文字（[スペース](../Page/スペース.md "wikilink")、[タブ](../Page/タブキー.md "wikilink")、言語によっては[改行も](https://ja.wikipedia.org/wiki/改行コード "wikilink")）は他の言語要素間の区切りとして使われている。しかし、言語 Whitespace においてはプログラムは空白文字だけで構成される（それ以外の文字列はコメント扱いで無視される）。そのため、一見するとプログラムであることすらわからないという珍しい言語である。
+本来 "whitespace" とは「空白」や「余白」を意味する英単語である。多くの一般的なプログラミング言語では空白に相当する文字（[スペース](../Page/スペース.md "wikilink")、[タブ](../Page/タブキー.md "wikilink")、言語によっては[改行も](../Page/改行コード.md "wikilink")）は他の言語要素間の区切りとして使われている。しかし、言語 Whitespace においてはプログラムは空白文字だけで構成される（それ以外の文字列はコメント扱いで無視される）。そのため、一見するとプログラムであることすらわからないという珍しい言語である。
 
 ## 実例
 

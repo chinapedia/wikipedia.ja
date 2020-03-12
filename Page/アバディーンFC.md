@@ -1,11 +1,11 @@
 > この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
 
 
-**アバディーン・フットボールクラブ**（）は、[スコットランド](../Page/スコットランド.md "wikilink")北東部の都市[アバディーン](https://ja.wikipedia.org/wiki/アバディーン "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。
+**アバディーン・フットボールクラブ**（）は、[スコットランド](../Page/スコットランド.md "wikilink")北東部の都市[アバディーン](../Page/アバディーン.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。
 
-[1903年](../Page/1903年.md "wikilink")創設。[セルティックと](https://ja.wikipedia.org/wiki/セルティックFC "wikilink")[レンジャーズが二強を形成する](https://ja.wikipedia.org/wiki/グラスゴー・レンジャーズFC "wikilink")[スコティッシュ・プレミアリーグ](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアリーグ "wikilink")の中でリーグ優勝4回、リーグカップ優勝5回などを誇る。
+[1903年](../Page/1903年.md "wikilink")創設。[セルティックと](../Page/セルティックFC.md "wikilink")[レンジャーズが二強を形成する](https://ja.wikipedia.org/wiki/グラスゴー・レンジャーズFC "wikilink")[スコティッシュ・プレミアリーグ](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアリーグ "wikilink")の中でリーグ優勝4回、リーグカップ優勝5回などを誇る。
 
-特に、[マンチェスター・ユナイテッド元監督](../Page/マンチェスター・ユナイテッドFC.md "wikilink")・[アレックス・ファーガソン](https://ja.wikipedia.org/wiki/アレックス・ファーガソン "wikilink")が指揮を執っていた1978年から1986年は黄金時代であり、リーグにおいて1983-84シーズン、1984-85シーズンの連覇を含め3度チャンピオンとなっている。また、ヨーロッパでの大会においても[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に[UEFAカップウィナーズカップ](../Page/UEFAカップウィナーズカップ.md "wikilink")で優勝を果し、[UEFAスーパーカップ](../Page/UEFAスーパーカップ.md "wikilink")でも[ハンブルガーSV](https://ja.wikipedia.org/wiki/ハンブルガーSV "wikilink")を下して栄冠に輝いている。共にスコットランドのクラブとしてはアバディーンFCのみである。
+特に、[マンチェスター・ユナイテッド元監督](../Page/マンチェスター・ユナイテッドFC.md "wikilink")・[アレックス・ファーガソン](../Page/アレックス・ファーガソン.md "wikilink")が指揮を執っていた1978年から1986年は黄金時代であり、リーグにおいて1983-84シーズン、1984-85シーズンの連覇を含め3度チャンピオンとなっている。また、ヨーロッパでの大会においても[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に[UEFAカップウィナーズカップ](../Page/UEFAカップウィナーズカップ.md "wikilink")で優勝を果し、[UEFAスーパーカップ](../Page/UEFAスーパーカップ.md "wikilink")でも[ハンブルガーSV](../Page/ハンブルガーSV.md "wikilink")を下して栄冠に輝いている。共にスコットランドのクラブとしてはアバディーンFCのみである。
 
 愛称のDonsは「アバディーンの人」を表す単語「Aberdonian」に由来する。
 
@@ -705,7 +705,7 @@
 
   - [ビリー・マクニール](https://ja.wikipedia.org/wiki/ビリー・マクニール "wikilink")　1977-1978
 
-  - [アレックス・ファーガソン](https://ja.wikipedia.org/wiki/アレックス・ファーガソン "wikilink")　1978-1986
+  - [アレックス・ファーガソン](../Page/アレックス・ファーガソン.md "wikilink")　1978-1986
 
   - [イアン・ポーターフィールド](https://ja.wikipedia.org/wiki/イアン・ポーターフィールド "wikilink")　1986-1988
 
@@ -753,7 +753,7 @@
 
   - [ウィリー・ミラー](https://ja.wikipedia.org/wiki/ウィリー・ミラー "wikilink")　1972-1990
 
-  - [エディ・トムソン](https://ja.wikipedia.org/wiki/エディ・トムソン "wikilink") 1973-1976
+  - [エディ・トムソン](../Page/エディ・トムソン.md "wikilink") 1973-1976
 
   - [アレックス・マクレイシュ](https://ja.wikipedia.org/wiki/アレックス・マクレイシュ "wikilink") 1978-1994
 
@@ -785,7 +785,7 @@
 
 <!-- end list -->
 
-  - [ハンス・ヒルハウス](https://ja.wikipedia.org/wiki/ハンス・ヒルハウス "wikilink") 1990-1992
+  - [ハンス・ヒルハウス](../Page/ハンス・ヒルハウス.md "wikilink") 1990-1992
 
   - [ダレン・マッキー](https://ja.wikipedia.org/wiki/ダレン・マッキー "wikilink") 1998-2012
 

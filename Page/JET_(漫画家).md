@@ -26,37 +26,37 @@
   - [花鳥風月殺人事件](https://ja.wikipedia.org/wiki/花鳥風月殺人事件 "wikilink")
   - [綺譚倶楽部](../Page/綺譚倶楽部.md "wikilink")
   - [螺旋のアルルカン](https://ja.wikipedia.org/wiki/螺旋のアルルカン "wikilink")
-  - [着信アリ](https://ja.wikipedia.org/wiki/着信アリ "wikilink")\! 携帯にまつわる怖い話
+  - [着信アリ](../Page/着信アリ.md "wikilink")\! 携帯にまつわる怖い話
   - J9って知ってるかい?
 
 ## 漫画化作品
 
 ### 横溝正史
 
-  - [獄門島](https://ja.wikipedia.org/wiki/獄門島 "wikilink")
-  - [本陣殺人事件](https://ja.wikipedia.org/wiki/本陣殺人事件 "wikilink")
-  - [睡れる花嫁](https://ja.wikipedia.org/wiki/睡れる花嫁 "wikilink")
-  - [八つ墓村](https://ja.wikipedia.org/wiki/八つ墓村 "wikilink")
+  - [獄門島](../Page/獄門島.md "wikilink")
+  - [本陣殺人事件](../Page/本陣殺人事件.md "wikilink")
+  - [睡れる花嫁](../Page/睡れる花嫁.md "wikilink")
+  - [八つ墓村](../Page/八つ墓村.md "wikilink")
   - [悪魔の手毬唄](../Page/悪魔の手毬唄.md "wikilink")
-  - [犬神家の一族](https://ja.wikipedia.org/wiki/犬神家の一族 "wikilink")
+  - [犬神家の一族](../Page/犬神家の一族.md "wikilink")
   - [金田一耕助](../Page/金田一耕助.md "wikilink")ベスト・セレクション
-    1.  [犬神家の一族](https://ja.wikipedia.org/wiki/犬神家の一族 "wikilink")
-    2.  [本陣殺人事件](https://ja.wikipedia.org/wiki/本陣殺人事件 "wikilink")
-    3.  [八つ墓村](https://ja.wikipedia.org/wiki/八つ墓村 "wikilink")
-    4.  [獄門島](https://ja.wikipedia.org/wiki/獄門島 "wikilink")
+    1.  [犬神家の一族](../Page/犬神家の一族.md "wikilink")
+    2.  [本陣殺人事件](../Page/本陣殺人事件.md "wikilink")
+    3.  [八つ墓村](../Page/八つ墓村.md "wikilink")
+    4.  [獄門島](../Page/獄門島.md "wikilink")
   - 名探偵・[金田一耕助シリーズ](https://ja.wikipedia.org/wiki/金田一耕助シリーズ "wikilink")
-    1.  [悪魔が来りて笛を吹く](https://ja.wikipedia.org/wiki/悪魔が来りて笛を吹く "wikilink")
+    1.  [悪魔が来りて笛を吹く](../Page/悪魔が来りて笛を吹く.md "wikilink")
           - [雌蛭](https://ja.wikipedia.org/wiki/雌蛭 "wikilink")を併録
     2.  [悪魔の寵児](https://ja.wikipedia.org/wiki/悪魔の寵児 "wikilink")
           - [花園の悪魔](https://ja.wikipedia.org/wiki/花園の悪魔 "wikilink")を併録
-    3.  [悪霊島](https://ja.wikipedia.org/wiki/悪霊島 "wikilink")
+    3.  [悪霊島](../Page/悪霊島.md "wikilink")
           - [鴉を併録](https://ja.wikipedia.org/wiki/鴉_\(横溝正史\) "wikilink")。
   - 名探偵・[由利麟太郎](https://ja.wikipedia.org/wiki/由利麟太郎 "wikilink")
     1.  [真珠郎](https://ja.wikipedia.org/wiki/真珠郎 "wikilink")
 
 ### ハーレクイン・ロマンス
 
-[宙出版](https://ja.wikipedia.org/wiki/宙出版 "wikilink")のハーレクイン・コミックスとして漫画化したものが出版されている。
+[宙出版](../Page/宙出版.md "wikilink")のハーレクイン・コミックスとして漫画化したものが出版されている。
 
   - ハリケーンの夜 （原作：リタ・C・エストラーダ）
   - レディと[FBI](../Page/連邦捜査局.md "wikilink") （原作：ダラス・シュルツェ）
@@ -82,8 +82,8 @@
 
 ### その他
 
-  - [黒蜥蜴](https://ja.wikipedia.org/wiki/黒蜥蜴 "wikilink") （原作：[江戸川乱歩](../Page/江戸川乱歩.md "wikilink")）
-  - [オペラ座の怪人](https://ja.wikipedia.org/wiki/オペラ座の怪人 "wikilink") （原作：[ガストン・ルルー](https://ja.wikipedia.org/wiki/ガストン・ルルー "wikilink")）
+  - [黒蜥蜴](../Page/黒蜥蜴.md "wikilink") （原作：[江戸川乱歩](../Page/江戸川乱歩.md "wikilink")）
+  - [オペラ座の怪人](../Page/オペラ座の怪人.md "wikilink") （原作：[ガストン・ルルー](../Page/ガストン・ルルー.md "wikilink")）
   - エラリー・クイーンの冒険 （原作：[エラリー・クイーン](../Page/エラリー・クイーン.md "wikilink")）
       - 双頭の犬の冒険
       - ひげのある女の冒険
@@ -103,7 +103,7 @@
       - [ギリシャ語通訳](../Page/ギリシャ語通訳.md "wikilink")
       - [ぶなの木立ち](../Page/ぶな屋敷.md "wikilink")
   - ウエスタン武芸帳 （原作：[菊地秀行](../Page/菊地秀行.md "wikilink")）
-  - [吸血鬼ドラキュラ](https://ja.wikipedia.org/wiki/吸血鬼ドラキュラ_\(小説\) "wikilink") （原作：[ブラム・ストーカー](https://ja.wikipedia.org/wiki/ブラム・ストーカー "wikilink")）
+  - [吸血鬼ドラキュラ](https://ja.wikipedia.org/wiki/吸血鬼ドラキュラ_\(小説\) "wikilink") （原作：[ブラム・ストーカー](../Page/ブラム・ストーカー.md "wikilink")）
   - [アッシャー家の崩壊](../Page/アッシャー家の崩壊.md "wikilink") （原作：[エドガー・アラン・ポー](../Page/エドガー・アラン・ポー.md "wikilink")）
   - 暗闇からいらっしゃい （原案：[竹河聖](../Page/竹河聖.md "wikilink")）
   - KEN\&JETの魔界召喚 （原案：[朝松健](../Page/朝松健.md "wikilink")）
@@ -113,14 +113,14 @@
     3.  鬼神来訪の怪編
     4.  光と闇のシャーマン編
   - 怪談徒然草 出雲大社大遷宮の夜（原作：加門七海『怪談徒然草』角川ホラー文庫）
-  - [宇宙刑事シャイダー](https://ja.wikipedia.org/wiki/宇宙刑事シャイダー "wikilink") （[特撮エース](https://ja.wikipedia.org/wiki/特撮エース "wikilink")、読み切り）
-  - [怪盗アルセーヌ・ルパン](../Page/アルセーヌ・ルパン.md "wikilink") [八点鐘](https://ja.wikipedia.org/wiki/八点鐘 "wikilink")（原作：[モーリス・ルブラン](../Page/モーリス・ルブラン.md "wikilink")）
+  - [宇宙刑事シャイダー](../Page/宇宙刑事シャイダー.md "wikilink") （[特撮エース](../Page/特撮エース.md "wikilink")、読み切り）
+  - [怪盗アルセーヌ・ルパン](../Page/アルセーヌ・ルパン.md "wikilink") [八点鐘](../Page/八点鐘.md "wikilink")（原作：[モーリス・ルブラン](../Page/モーリス・ルブラン.md "wikilink")）
 
 <!-- end list -->
 
   - 小説表紙、挿絵
 
-:\* [妖世紀水滸伝](https://ja.wikipedia.org/wiki/妖世紀水滸伝 "wikilink")第1部 [吉岡平](https://ja.wikipedia.org/wiki/吉岡平 "wikilink")著
+:\* [妖世紀水滸伝](../Page/妖世紀水滸伝.md "wikilink")第1部 [吉岡平](../Page/吉岡平.md "wikilink")著
 
 :\* [春陽堂書店](../Page/春陽堂書店.md "wikilink")くれよん文庫版 怪盗ルパンシリーズ モーリス・ルブラン著、[榊原晃三](https://ja.wikipedia.org/wiki/榊原晃三 "wikilink")訳
 
@@ -150,9 +150,9 @@
 
 ## 備考
 
-『[綺譚倶楽部](https://ja.wikipedia.org/wiki/奇譚倶楽部 "wikilink")』には金田一耕助をモデルにした（後に漫画化した金田一耕助と瓜二つの）主人公がおり、漫画「名探偵・[金田一耕助シリーズ](https://ja.wikipedia.org/wiki/金田一耕助シリーズ "wikilink")」の好評を受けて『[綺譚倶楽部](https://ja.wikipedia.org/wiki/奇譚倶楽部 "wikilink")』連載再開の話が持ち上がった。顔の描き方を変えなくてはいけない。と作者が、漫画『[本陣殺人事件](https://ja.wikipedia.org/wiki/本陣殺人事件 "wikilink")』単行本あとがきで述べている。この後、二者の顔の相似ははっきり分かるほど別人に離れた。
+『[綺譚倶楽部](https://ja.wikipedia.org/wiki/奇譚倶楽部 "wikilink")』には金田一耕助をモデルにした（後に漫画化した金田一耕助と瓜二つの）主人公がおり、漫画「名探偵・[金田一耕助シリーズ](https://ja.wikipedia.org/wiki/金田一耕助シリーズ "wikilink")」の好評を受けて『[綺譚倶楽部](https://ja.wikipedia.org/wiki/奇譚倶楽部 "wikilink")』連載再開の話が持ち上がった。顔の描き方を変えなくてはいけない。と作者が、漫画『[本陣殺人事件](../Page/本陣殺人事件.md "wikilink")』単行本あとがきで述べている。この後、二者の顔の相似ははっきり分かるほど別人に離れた。
 
-[若山富三郎](../Page/若山富三郎.md "wikilink")、[千葉真一](https://ja.wikipedia.org/wiki/千葉真一 "wikilink")を敬愛し、1981年の映画『[魔界転生](https://ja.wikipedia.org/wiki/魔界転生 "wikilink")』が好き。これが縁で『[十兵衛紅変化](../Page/十兵衛紅変化.md "wikilink")』、『[柳生剣鬼抄](https://ja.wikipedia.org/wiki/柳生剣鬼抄 "wikilink")』を執筆する。
+[若山富三郎](../Page/若山富三郎.md "wikilink")、[千葉真一](https://ja.wikipedia.org/wiki/千葉真一 "wikilink")を敬愛し、1981年の映画『[魔界転生](../Page/魔界転生.md "wikilink")』が好き。これが縁で『[十兵衛紅変化](../Page/十兵衛紅変化.md "wikilink")』、『[柳生剣鬼抄](https://ja.wikipedia.org/wiki/柳生剣鬼抄 "wikilink")』を執筆する。
 
 自画像は亀→男性→高木ブーに変化している。
 

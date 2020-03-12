@@ -1,7 +1,7 @@
 > この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
 
 
-**コヴェントリー・シティFC**（Coventry City Football Club）は、[イングランド](../Page/イングランド.md "wikilink")・[コヴェントリー](https://ja.wikipedia.org/wiki/コヴェントリー "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。
+**コヴェントリー・シティFC**（Coventry City Football Club）は、[イングランド](../Page/イングランド.md "wikilink")・[コヴェントリー](../Page/コヴェントリー.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。
 
 [1883年](../Page/1883年.md "wikilink")、[自転車](https://ja.wikipedia.org/wiki/自転車 "wikilink")会社の従業員が集まってチームを結成したことに始まり、[1898年](../Page/1898年.md "wikilink")にコヴェントリー・シティとしてプロチームとして結成された。長く下部リーグに所属するシーズンが続いたが、[1967年](../Page/1967年.md "wikilink")に1部（現在のプレミアリーグ）昇格を果たし、1986-87シーズンにはクラブ初のタイトルとなる[FAカップ](../Page/FAカップ.md "wikilink")優勝を果たした。
 
@@ -118,21 +118,21 @@
 
   - [ガリー・ブリーン](https://ja.wikipedia.org/wiki/ガリー・ブリーン "wikilink") 1997-2002
 
-  - [マグヌス・ヘドマン](https://ja.wikipedia.org/wiki/マグヌス・ヘドマン "wikilink") 1997-2002
+  - [マグヌス・ヘドマン](../Page/マグヌス・ヘドマン.md "wikilink") 1997-2002
 
   - [ロビー・キーン](../Page/ロビー・キーン.md "wikilink") 1999-2000
 
-  - [ジョン・アロイージ](https://ja.wikipedia.org/wiki/ジョン・アロイージ "wikilink") 1999-2001
+  - [ジョン・アロイージ](../Page/ジョン・アロイージ.md "wikilink") 1999-2001
 
-  - [ムスタファ・ハッジ](https://ja.wikipedia.org/wiki/ムスタファ・ハッジ "wikilink") 1999-2001
+  - [ムスタファ・ハッジ](../Page/ムスタファ・ハッジ.md "wikilink") 1999-2001
 
-  - [クレイグ・ベラミー](https://ja.wikipedia.org/wiki/クレイグ・ベラミー "wikilink") 2000-2001
+  - [クレイグ・ベラミー](../Page/クレイグ・ベラミー.md "wikilink") 2000-2001
 
-  - [ジョン・ハートソン](https://ja.wikipedia.org/wiki/ジョン・ハートソン "wikilink") 2001
+  - [ジョン・ハートソン](../Page/ジョン・ハートソン.md "wikilink") 2001
 
   - [ローランド・ニルソン](https://ja.wikipedia.org/wiki/ローランド・ニルソン "wikilink") 2001-2002
 
-  - [カラム・ダヴェンポート](https://ja.wikipedia.org/wiki/カラム・ダヴェンポート "wikilink") 2001-2004
+  - [カラム・ダヴェンポート](../Page/カラム・ダヴェンポート.md "wikilink") 2001-2004
 
   - [ドン・ハッチソン](https://ja.wikipedia.org/wiki/ドン・ハッチソン "wikilink") 2005-2006, 2006-2007
 

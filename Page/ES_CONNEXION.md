@@ -1,13 +1,13 @@
 > この記事は[ES CONNEXION](https://ja.wikipedia.org/wiki/ES_CONNEXION)から翻訳されています。
 
 
-**ES CONNEXION**（イーエス・コネクション）は、[高山みなみ](../Page/高山みなみ.md "wikilink")主催の音楽集団および、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の3人組[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")。
+**ES CONNEXION**（イーエス・コネクション）は、[高山みなみ](../Page/高山みなみ.md "wikilink")主催の音楽集団および、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の3人組[音楽ユニット](../Page/音楽ユニット.md "wikilink")。
 
 ## 概要
 
 [声優](../Page/声優.md "wikilink")としても活動しているMINAMIこと[高山みなみ](../Page/高山みなみ.md "wikilink")主催の音楽集団で、[1994年](../Page/1994年.md "wikilink")にアルバム『RHYTHMIX』を発売し、同年冬頃に活動を終了した\[1\]。
 
-[1992年](../Page/1992年.md "wikilink")より[TWO-MIX](https://ja.wikipedia.org/wiki/TWO-MIX "wikilink")が結成される[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")まで「高山みなみ with ESC」としてライブ活動も定期的に開催。参加メンバーは座長の高山みなみ以外固定されておらず、[森川智之](https://ja.wikipedia.org/wiki/森川智之 "wikilink")・[佐久間レイ](../Page/佐久間レイ.md "wikilink")・[小林優子](https://ja.wikipedia.org/wiki/小林優子 "wikilink")・[勝生真沙子](../Page/勝生真沙子.md "wikilink")・[神奈延年](https://ja.wikipedia.org/wiki/神奈延年 "wikilink")・[田中一成](https://ja.wikipedia.org/wiki/田中一成 "wikilink")など、当時高山と音楽面で交流があった[声優](../Page/声優.md "wikilink")達が参加している。
+[1992年](../Page/1992年.md "wikilink")より[TWO-MIX](../Page/TWO-MIX.md "wikilink")が結成される[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")まで「高山みなみ with ESC」としてライブ活動も定期的に開催。参加メンバーは座長の高山みなみ以外固定されておらず、[森川智之](../Page/森川智之.md "wikilink")・[佐久間レイ](../Page/佐久間レイ.md "wikilink")・[小林優子](../Page/小林優子.md "wikilink")・[勝生真沙子](../Page/勝生真沙子.md "wikilink")・[神奈延年](../Page/神奈延年.md "wikilink")・[田中一成](../Page/田中一成.md "wikilink")など、当時高山と音楽面で交流があった[声優](../Page/声優.md "wikilink")達が参加している。
 
 ## メンバー
 
@@ -25,22 +25,22 @@
 <td><p><strong><a href="../Page/高山みなみ.md" title="wikilink">MINAMI</a></strong><br />
 <small>（みなみ）</small></p></td>
 <td><p><br />
-<a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/足立区" title="wikilink">足立区</a>出身</p></td>
+<a href="../Page/東京都.md" title="wikilink">東京都</a><a href="../Page/足立区.md" title="wikilink">足立区</a>出身</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ボーカル" title="wikilink">ボーカル</a></p></td>
 <td><p>高山みなみ名義で、<a href="../Page/声優.md" title="wikilink">声優</a>や<a href="../Page/歌手.md" title="wikilink">歌手</a>として活動している。</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/永野椎菜" title="wikilink">永野椎菜</a></strong><br />
+<td><p><strong><a href="../Page/永野椎菜.md" title="wikilink">永野椎菜</a></strong><br />
 <small>（ながの しいな）</small></p></td>
 <td><p><br />
 <a href="https://ja.wikipedia.org/wiki/熊本県" title="wikilink">熊本県</a><a href="../Page/阿蘇郡.md" title="wikilink">阿蘇郡</a><a href="../Page/南小国町.md" title="wikilink">南小国町</a>出身</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/キーボード_(楽器)" title="wikilink">キーボード</a></p></td>
+<td><p><a href="../Page/キーボード_(楽器).md" title="wikilink">キーボード</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/虻川治" title="wikilink">虻川治</a></strong><br />
 <small>（あぶかわ おさむ）</small></p></td>
-<td><p><a href="../Page/鹿児島県.md" title="wikilink">鹿児島県</a><a href="https://ja.wikipedia.org/wiki/薩摩川内市" title="wikilink">薩摩川内市</a>入来出身</p></td>
+<td><p><a href="../Page/鹿児島県.md" title="wikilink">鹿児島県</a><a href="../Page/薩摩川内市.md" title="wikilink">薩摩川内市</a>入来出身</p></td>
 <td><p><a href="../Page/ギター.md" title="wikilink">ギター</a></p></td>
 <td></td>
 </tr>
@@ -73,11 +73,11 @@
 <li><strong>ENDLESS COMMUNICATION (SF MEGA MIX)</strong>
 <dl>
 <dt></dt>
-<dd>作詞：<a href="https://ja.wikipedia.org/wiki/永野椎菜" title="wikilink">永野椎菜</a> / 作曲：<a href="../Page/高山みなみ.md" title="wikilink">MINAMI</a> / 編曲：MASATOSHI NAKATA, MINAMI
+<dd>作詞：<a href="../Page/永野椎菜.md" title="wikilink">永野椎菜</a> / 作曲：<a href="../Page/高山みなみ.md" title="wikilink">MINAMI</a> / 編曲：MASATOSHI NAKATA, MINAMI
 </dd>
 </dl>
 <ul>
-<li>高山みなみのアルバム『<a href="https://ja.wikipedia.org/wiki/Endless_Communication" title="wikilink">Endless Communication</a>』に収録されている曲の<a href="https://ja.wikipedia.org/wiki/セルフカバー" title="wikilink">セルフカバー</a>。</li>
+<li>高山みなみのアルバム『<a href="https://ja.wikipedia.org/wiki/Endless_Communication" title="wikilink">Endless Communication</a>』に収録されている曲の<a href="../Page/セルフカバー.md" title="wikilink">セルフカバー</a>。</li>
 </ul></li>
 <li><strong>E・L (ENDLESS LOVE) TIMEMACHINE</strong>
 <dl>
@@ -133,7 +133,7 @@
 
 ## 関連項目
 
-  - [TWO-MIX](https://ja.wikipedia.org/wiki/TWO-MIX "wikilink")
+  - [TWO-MIX](../Page/TWO-MIX.md "wikilink")
 
 ## 脚注
 

@@ -1,7 +1,7 @@
 > この記事は[ROOMMANIA203](https://ja.wikipedia.org/wiki/ROOMMANIA203)から翻訳されています。
 
 
-『**ROOMMANIA\#203**』（ルーマニア にいまるさん）は、[2000年](../Page/2000年.md "wikilink")[1月27日](../Page/1月27日.md "wikilink")にセガ（後の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）から発売された[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")用[ゲーム](../Page/コンピュータゲーム.md "wikilink")。[PlayStation 2で](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[2002年](../Page/2002年.md "wikilink")にリメイク版『ROOMMANIA\#203』を、[2003年](../Page/2003年.md "wikilink")に続編『[ニュールーマニア ポロリ青春](https://ja.wikipedia.org/wiki/ニュールーマニア_ポロリ青春 "wikilink")』を発売する。
+『**ROOMMANIA\#203**』（ルーマニア にいまるさん）は、[2000年](../Page/2000年.md "wikilink")[1月27日](../Page/1月27日.md "wikilink")にセガ（後の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）から発売された[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")用[ゲーム](../Page/コンピュータゲーム.md "wikilink")。[PlayStation 2で](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[2002年](../Page/2002年.md "wikilink")にリメイク版『ROOMMANIA\#203』を、[2003年](../Page/2003年.md "wikilink")に続編『[ニュールーマニア ポロリ青春](../Page/ニュールーマニア_ポロリ青春.md "wikilink")』を発売する。
 
 プレイヤーは、アパートの一室に住み着く神様となって、アパートの住人ネジタイヘイを見守りつつ、平凡な彼の人生を波乱に富んだ物へと変化させる、人生介入型[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。
 
@@ -29,9 +29,9 @@
   - タカハシ ヒデヒロ
     ネジの親友。
   - チビネジ
-    [セラニポージ](https://ja.wikipedia.org/wiki/セラニポージ "wikilink")
+    [セラニポージ](../Page/セラニポージ.md "wikilink")
     ネジが大ファンであり、ゲーム中に何度もCDを聞くシーンがあるミュージシャン。
-    ゲーム内のみの架空のアーティストであったが、実際に同名義でCDが発売された。当初その正体はシークレットだったが、後に作詞・作曲はゲーム製作元[WAVEMASTER](https://ja.wikipedia.org/wiki/WAVEMASTER "wikilink")の[佐々木朋子](https://ja.wikipedia.org/wiki/佐々木朋子 "wikilink")、ボーカリストは[東野佑美](https://ja.wikipedia.org/wiki/東野佑美 "wikilink")（1stアルバム「まなもぉん」のみ[CECIL](https://ja.wikipedia.org/wiki/CECIL "wikilink")のゆきち）であることが明らかになった。
+    ゲーム内のみの架空のアーティストであったが、実際に同名義でCDが発売された。当初その正体はシークレットだったが、後に作詞・作曲はゲーム製作元[WAVEMASTER](https://ja.wikipedia.org/wiki/WAVEMASTER "wikilink")の[佐々木朋子](../Page/佐々木朋子.md "wikilink")、ボーカリストは[東野佑美](../Page/東野佑美.md "wikilink")（1stアルバム「まなもぉん」のみ[CECIL](../Page/CECIL.md "wikilink")のゆきち）であることが明らかになった。
 
 ## シナリオ
 

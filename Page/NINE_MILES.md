@@ -1,11 +1,11 @@
 > この記事は[NINE MILES](https://ja.wikipedia.org/wiki/NINE_MILES)から翻訳されています。
 
 
-**NINE MILES**（ナインマイルス）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")、[真鍋吉明](https://ja.wikipedia.org/wiki/真鍋吉明 "wikilink")の[ソロプロジェクトである](../Page/一人バンド.md "wikilink")。[avex traxに所属](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。[ボブ・マーリー](../Page/ボブ・マーリー.md "wikilink")などからの影響下である[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")を主軸とした楽曲を録音製作し、[the pillowsの](https://ja.wikipedia.org/wiki/the_pillows "wikilink")[ギター](../Page/ギター.md "wikilink")担当として活動する傍ら、非常に緩やかなペースでアルバムを発表している。
+**NINE MILES**（ナインマイルス）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")、[真鍋吉明](../Page/真鍋吉明.md "wikilink")の[ソロプロジェクトである](../Page/一人バンド.md "wikilink")。[avex traxに所属](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。[ボブ・マーリー](../Page/ボブ・マーリー.md "wikilink")などからの影響下である[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")を主軸とした楽曲を録音製作し、[the pillowsの](https://ja.wikipedia.org/wiki/the_pillows "wikilink")[ギター](../Page/ギター.md "wikilink")担当として活動する傍ら、非常に緩やかなペースでアルバムを発表している。
 
 ## 概要・来歴
 
-ソロプロジェクト始動の切っ掛けは、[the pillowsのリーダーである](https://ja.wikipedia.org/wiki/the_pillows "wikilink")[山中さわお](https://ja.wikipedia.org/wiki/山中さわお "wikilink")にソロ名義における作品の製作、発表を依頼されたことによる。始動当初は、山中が代表を務めるレーベルである[DELICIOUS LABELから作品を発表していたが](../Page/DELICIOUS_LABEL.md "wikilink")、3rdアルバム『REVOLUTION IS MY NAME』から販売元を[avex traxに移行させた](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+ソロプロジェクト始動の切っ掛けは、[the pillowsのリーダーである](https://ja.wikipedia.org/wiki/the_pillows "wikilink")[山中さわお](../Page/山中さわお.md "wikilink")にソロ名義における作品の製作、発表を依頼されたことによる。始動当初は、山中が代表を務めるレーベルである[DELICIOUS LABELから作品を発表していたが](../Page/DELICIOUS_LABEL.md "wikilink")、3rdアルバム『REVOLUTION IS MY NAME』から販売元を[avex traxに移行させた](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 the pillowsでは[オルタナティブ・ロックを演奏しているので](https://ja.wikipedia.org/wiki/オルタナティブ・ミュージック "wikilink")、ソロでは別のジャンルを題材にしたいと考え、かねてからの趣味である[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")を主軸とした楽曲を製作することを決定させる。結果、the pillowsとは完全に別ジャンルの音楽となった。また、始動が決定した際、洋楽の[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")の歌詞を理解する為に[旧約聖書](../Page/旧約聖書.md "wikilink")を読破。一日一章ずつ読んでも3年半かかるものを、2年間で2回廻したと語っている。
 

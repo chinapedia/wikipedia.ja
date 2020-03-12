@@ -1,7 +1,7 @@
 > この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
 
 
-**FCアウクスブルク**（）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[バイエルン州](https://ja.wikipedia.org/wiki/バイエルン州 "wikilink")の[アウクスブルク](https://ja.wikipedia.org/wiki/アウクスブルク "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。
+**FCアウクスブルク**（）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[バイエルン州](https://ja.wikipedia.org/wiki/バイエルン州 "wikilink")の[アウクスブルク](../Page/アウクスブルク.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。
 
 ## 歴史
 
@@ -11,13 +11,13 @@
 
 2010-2011年シーズンでは2位となり、クラブ史上初となる1部への昇格を果たした。
 
-2014-15シーズン、[ボルシア・ドルトムント](https://ja.wikipedia.org/wiki/ボルシア・ドルトムント "wikilink")など国内の強豪クラブの不調や、リーグ後半戦の[バイエルン・ミュンヘン戦での勝利が重なり](https://ja.wikipedia.org/wiki/FCバイエルン・ミュンヘン "wikilink")、クラブ創設以降最高位となるリーグ5位でシーズンを終えた。結果、クラブ史上初の[UEFAヨーロッパリーグ](../Page/UEFAヨーロッパリーグ.md "wikilink")への出場権を手にした。
+2014-15シーズン、[ボルシア・ドルトムント](../Page/ボルシア・ドルトムント.md "wikilink")など国内の強豪クラブの不調や、リーグ後半戦の[バイエルン・ミュンヘン戦での勝利が重なり](https://ja.wikipedia.org/wiki/FCバイエルン・ミュンヘン "wikilink")、クラブ創設以降最高位となるリーグ5位でシーズンを終えた。結果、クラブ史上初の[UEFAヨーロッパリーグ](../Page/UEFAヨーロッパリーグ.md "wikilink")への出場権を手にした。
 
 ## タイトル
 
 ### 国内タイトル
 
-  - **[レギオナルリーガ](https://ja.wikipedia.org/wiki/レギオナルリーガ_\(ドイツサッカー\) "wikilink")：1回**
+  - **[レギオナルリーガ](../Page/レギオナルリーガ_\(ドイツサッカー\).md "wikilink")：1回**
       - 2005-06
 
 ### 国際タイトル
@@ -26,26 +26,26 @@
 
 ## 過去の成績
 
-| シーズン                                                                     | ディビジョン                                                                       | [DFBポカール](https://ja.wikipedia.org/wiki/DFBポカール "wikilink") |
-| ------------------------------------------------------------------------ | ---------------------------------------------------------------------------- | ----------------------------------------------------------- |
-| リーグ                                                                      | 順位                                                                           | 試                                                           |
-| 2002-03                                                                  | [レギオナルリーガ南部](https://ja.wikipedia.org/wiki/レギオナルリーガ_\(ドイツサッカー\) "wikilink")  | '''3位                                                       |
-| 2003-04                                                                  | レギオナルリーガ南部                                                                   | '''4位                                                       |
-| 2004-05                                                                  | レギオナルリーガ南部                                                                   | '''4位                                                       |
-| 2005-06                                                                  | レギオナルリーガ南部                                                                   | '''1位                                                       |
-| 2006-07                                                                  | [ブンデスリーガ2部](https://ja.wikipedia.org/wiki/2._ブンデスリーガ_\(ドイツサッカー\) "wikilink") | '''7位                                                       |
-| 2007-08                                                                  | ブンデスリーガ2部                                                                    | '''14位                                                      |
-| 2008-09                                                                  | ブンデスリーガ2部                                                                    | '''11位                                                      |
-| 2009-10                                                                  | ブンデスリーガ2部                                                                    | '''3位                                                       |
-| 2010-11                                                                  | ブンデスリーガ2部                                                                    | '''2位                                                       |
-| [2011-12](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2011-2012 "wikilink") | [ブンデスリーガ1部](../Page/サッカー・ブンデスリーガ_\(ドイツ\).md "wikilink")                      | '''14位                                                      |
-| [2012-13](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2012-2013 "wikilink") | ブンデスリーガ1部                                                                    | '''15位                                                      |
-| [2013-14](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2013-2014 "wikilink") | ブンデスリーガ1部                                                                    | '''8位                                                       |
-| [2014-15](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2014-2015 "wikilink") | ブンデスリーガ1部                                                                    | '''5位                                                       |
-| [2015-16](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2015-2016 "wikilink") | ブンデスリーガ1部                                                                    | '''12位                                                      |
-| [2016-17](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2016-2017 "wikilink") | ブンデスリーガ1部                                                                    | '''13位                                                      |
-| [2017-18](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2017-2018 "wikilink") | ブンデスリーガ1部                                                                    | '''12位                                                      |
-| [2018-19](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2018-2019 "wikilink") | ブンデスリーガ1部                                                                    | '''15位 '''                                                  |
+| シーズン                                                                     | ディビジョン                                                                       | [DFBポカール](../Page/DFBポカール.md "wikilink") |
+| ------------------------------------------------------------------------ | ---------------------------------------------------------------------------- | ---------------------------------------- |
+| リーグ                                                                      | 順位                                                                           | 試                                        |
+| 2002-03                                                                  | [レギオナルリーガ南部](../Page/レギオナルリーガ_\(ドイツサッカー\).md "wikilink")                     | '''3位                                    |
+| 2003-04                                                                  | レギオナルリーガ南部                                                                   | '''4位                                    |
+| 2004-05                                                                  | レギオナルリーガ南部                                                                   | '''4位                                    |
+| 2005-06                                                                  | レギオナルリーガ南部                                                                   | '''1位                                    |
+| 2006-07                                                                  | [ブンデスリーガ2部](https://ja.wikipedia.org/wiki/2._ブンデスリーガ_\(ドイツサッカー\) "wikilink") | '''7位                                    |
+| 2007-08                                                                  | ブンデスリーガ2部                                                                    | '''14位                                   |
+| 2008-09                                                                  | ブンデスリーガ2部                                                                    | '''11位                                   |
+| 2009-10                                                                  | ブンデスリーガ2部                                                                    | '''3位                                    |
+| 2010-11                                                                  | ブンデスリーガ2部                                                                    | '''2位                                    |
+| [2011-12](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2011-2012 "wikilink") | [ブンデスリーガ1部](../Page/サッカー・ブンデスリーガ_\(ドイツ\).md "wikilink")                      | '''14位                                   |
+| [2012-13](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2012-2013 "wikilink") | ブンデスリーガ1部                                                                    | '''15位                                   |
+| [2013-14](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2013-2014 "wikilink") | ブンデスリーガ1部                                                                    | '''8位                                    |
+| [2014-15](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2014-2015 "wikilink") | ブンデスリーガ1部                                                                    | '''5位                                    |
+| [2015-16](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2015-2016 "wikilink") | ブンデスリーガ1部                                                                    | '''12位                                   |
+| [2016-17](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2016-2017 "wikilink") | ブンデスリーガ1部                                                                    | '''13位                                   |
+| [2017-18](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2017-2018 "wikilink") | ブンデスリーガ1部                                                                    | '''12位                                   |
+| [2018-19](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2018-2019 "wikilink") | ブンデスリーガ1部                                                                    | '''15位 '''                               |
 
 ## 欧州の成績
 
@@ -67,14 +67,14 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2015-16" title="wikilink">2015-16</a></p></td>
 <td><p><a href="../Page/UEFAヨーロッパリーグ.md" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>グループL</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アスレティック・ビルバオ" title="wikilink">アスレティック・ビルバオ</a></p></td>
+<td><p><a href="../Page/アスレティック・ビルバオ.md" title="wikilink">アスレティック・ビルバオ</a></p></td>
 <td><p>2–3</p></td>
 <td><p>1–3</p></td>
 <td><p>'''2位</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/AZアルクマール" title="wikilink">AZ</a></p></td>
+<td><p><a href="../Page/AZアルクマール.md" title="wikilink">AZ</a></p></td>
 <td><p>4–1</p></td>
 <td><p>1–0</p></td>
 <td></td>
@@ -84,7 +84,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/パルチザン・ベオグラード" title="wikilink">パルチザン・ベオグラード</a></p></td>
+<td><p><a href="../Page/パルチザン・ベオグラード.md" title="wikilink">パルチザン・ベオグラード</a></p></td>
 <td><p>1–3</p></td>
 <td><p>3–1</p></td>
 <td></td>
@@ -180,15 +180,15 @@
 
   - [ヘルムート・ハーラー](../Page/ヘルムート・ハーラー.md "wikilink") 1957-1962, 1974-1978
 
-  - [ベルント・シュスター](https://ja.wikipedia.org/wiki/ベルント・シュスター "wikilink") 1976-1978
+  - [ベルント・シュスター](../Page/ベルント・シュスター.md "wikilink") 1976-1978
 
   - [ダニエル・バイアー](https://ja.wikipedia.org/wiki/ダニエル・バイアー "wikilink") 2008-
 
   - [モリッツ・ライトナー](https://ja.wikipedia.org/wiki/モリッツ・ライトナー "wikilink") 2011, 2017-2018
 
-  - [細貝萌](https://ja.wikipedia.org/wiki/細貝萌 "wikilink") 2011-2012
+  - [細貝萌](../Page/細貝萌.md "wikilink") 2011-2012
 
-  - [ハリル・アルトゥントップ](https://ja.wikipedia.org/wiki/ハリル・アルトゥントップ "wikilink") 2013-
+  - [ハリル・アルトゥントップ](../Page/ハリル・アルトゥントップ.md "wikilink") 2013-
 
   - [マルクス・フォイルナー](https://ja.wikipedia.org/wiki/マルクス・フォイルナー "wikilink") 2014-
 

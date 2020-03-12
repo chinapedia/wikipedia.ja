@@ -15,7 +15,7 @@ CDジャーナルは「より大衆性を押し出したりと、彼らなりに
 
 1.  Shallow Runner(Fool's Game)
       -
-        作詞・作曲・編曲:[松川敏也](https://ja.wikipedia.org/wiki/松川敏也 "wikilink")
+        作詞・作曲・編曲:[松川敏也](../Page/松川敏也.md "wikilink")
 2.  Interlude D(INSTRUMENTAL)
 3.  Feel Like Fire
       -
@@ -28,7 +28,7 @@ CDジャーナルは「より大衆性を押し出したりと、彼らなりに
         作詞:村上孝之 作曲・編曲:松川敏也
 6.  HOT SHOT\!
       -
-        作詞:[下村成二郎](https://ja.wikipedia.org/wiki/下村成二郎 "wikilink") 作曲・編曲:松川敏也
+        作詞:[下村成二郎](../Page/下村成二郎.md "wikilink") 作曲・編曲:松川敏也
 7.  Follow Me
       -
         作詞:下村成二郎 作曲・編曲:松川敏也
@@ -44,7 +44,7 @@ CDジャーナルは「より大衆性を押し出したりと、彼らなりに
 ## 関連項目
 
   - [ビーイング](../Page/ビーイング.md "wikilink")
-  - [1985年の音楽](https://ja.wikipedia.org/wiki/1985年の音楽 "wikilink")
+  - [1985年の音楽](../Page/1985年の音楽.md "wikilink")
 
 [Category:1985年のアルバム](https://ja.wikipedia.org/wiki/Category:1985年のアルバム "wikilink") [Category:Blizardのアルバム](https://ja.wikipedia.org/wiki/Category:Blizardのアルバム "wikilink") [Category:ワーナーミュージック・ジャパンのアルバム](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのアルバム "wikilink")
 

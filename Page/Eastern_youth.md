@@ -14,7 +14,7 @@
 
 <!-- end list -->
 
-  - **田森 篤哉**（たもり あつや） - 北海道[礼文郡](https://ja.wikipedia.org/wiki/礼文郡 "wikilink")[礼文町](../Page/礼文町.md "wikilink")出身。[ドラム担当](../Page/ドラムセット.md "wikilink")　
+  - **田森 篤哉**（たもり あつや） - 北海道[礼文郡](../Page/礼文郡.md "wikilink")[礼文町](../Page/礼文町.md "wikilink")出身。[ドラム担当](../Page/ドラムセット.md "wikilink")　
 
 <!-- end list -->
 
@@ -23,7 +23,7 @@
 
 <!-- end list -->
 
-  - **村岡 ゆか**（むらおか ゆか） - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、コーラス担当
+  - **村岡 ゆか**（むらおか ゆか） - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")、コーラス担当
 
 <!-- end list -->
 
@@ -32,7 +32,7 @@
 
 ### 旧メンバー
 
-  - **三橋 徹**（みつはし とおる） - 北海道[新十津川町](https://ja.wikipedia.org/wiki/新十津川町 "wikilink")出身。[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、コーラス担当
+  - **三橋 徹**（みつはし とおる） - 北海道[新十津川町](../Page/新十津川町.md "wikilink")出身。[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、コーラス担当
 
 <!-- end list -->
 
@@ -41,7 +41,7 @@
 
 <!-- end list -->
 
-  - **二宮 友和**（にのみや ともかず） - [愛媛県](../Page/愛媛県.md "wikilink")[宇和島市](../Page/宇和島市.md "wikilink")出身。[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、[コーラス担当](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
+  - **二宮 友和**（にのみや ともかず） - [愛媛県](../Page/愛媛県.md "wikilink")[宇和島市](../Page/宇和島市.md "wikilink")出身。[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[コーラス担当](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
 
 <!-- end list -->
 
@@ -52,9 +52,9 @@
 
 1988年北海道[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")にて結成。前身は「スキャナーズ」というバンドで、ベースが三橋徹に交代したのを機に改名した。当時はSKINS・[Oiバンドで](https://ja.wikipedia.org/wiki/オイ! "wikilink")、バンド名表記も大文字の「EASTERN YOUTH」だった。上京に際して三橋が脱退し、いったん吉野・田森の2人となったが、ギタリストを目指し上京していた二宮と知り合った吉野が「ギターが弾けるならベースも弾けるだろ」と強引に勧誘し、二宮がベースで加入した。
 
-自主レーベル「坂本商店」を立ち上げ、精力的にライブを行い、1994年からは自主企画「極東最前線」を開始した。また[カーシヴ](https://ja.wikipedia.org/wiki/カーシヴ "wikilink")、[アット・ザ・ドライヴイン](https://ja.wikipedia.org/wiki/アット・ザ・ドライヴイン "wikilink")などの北米ツアーに同行するなど、日本国外での活動も行うようになった。2003年秋のアメリカツアーでは、移動中にメンバーの乗っていた車が高速道路上で横転する事故を起こすも、機材が破損したのみでメンバーは軽傷で済んだという一件もあった\[9\]。
+自主レーベル「坂本商店」を立ち上げ、精力的にライブを行い、1994年からは自主企画「極東最前線」を開始した。また[カーシヴ](https://ja.wikipedia.org/wiki/カーシヴ "wikilink")、[アット・ザ・ドライヴイン](../Page/アット・ザ・ドライヴイン.md "wikilink")などの北米ツアーに同行するなど、日本国外での活動も行うようになった。2003年秋のアメリカツアーでは、移動中にメンバーの乗っていた車が高速道路上で横転する事故を起こすも、機材が破損したのみでメンバーは軽傷で済んだという一件もあった\[9\]。
 
-2005年より活動休止の[fOUL](https://ja.wikipedia.org/wiki/fOUL "wikilink")を残して坂本商店を離れ、自主レーベル「裸足の音楽社」を設立した。所属レコード会社は[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")、[キングレコード](../Page/キングレコード.md "wikilink")、[バップ](https://ja.wikipedia.org/wiki/バップ "wikilink")を経て2015年現在は「裸足の音楽社」。
+2005年より活動休止の[fOUL](https://ja.wikipedia.org/wiki/fOUL "wikilink")を残して坂本商店を離れ、自主レーベル「裸足の音楽社」を設立した。所属レコード会社は[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")、[キングレコード](../Page/キングレコード.md "wikilink")、[バップ](../Page/バップ.md "wikilink")を経て2015年現在は「裸足の音楽社」。
 
 2009年9月、ツアー期間中に吉野が[心筋梗塞](../Page/心筋梗塞.md "wikilink")で倒れ、緊急手術を受けた。一命は取りとめたもののツアーの残りの公演はキャンセルされ\[10\]、吉野が復帰した2010年春に改めてツアーを行った。
 
@@ -62,17 +62,17 @@
 
 ## 音楽性
 
-漢語や近代詩風の表現を用いた歌詞とエモーショナルなサウンドが特徴。特に絶叫するかのような吉野の歌唱はクレジット上で「ボーカル」ではなく「ボイス」と表記される。吉野が自らが影響を受けたと公言する音楽家は、[キャンディーズ](../Page/キャンディーズ.md "wikilink")、[和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")にはじまり、新旧・メジャーマイナーを問わず極めて多岐に亘る。また影響を受けたと公言する作家は、[坂口安吾](../Page/坂口安吾.md "wikilink")、[太宰治](../Page/太宰治.md "wikilink")、[梅崎春生](https://ja.wikipedia.org/wiki/梅崎春生 "wikilink")、[木山捷平](https://ja.wikipedia.org/wiki/木山捷平 "wikilink")、[島尾敏雄](../Page/島尾敏雄.md "wikilink")など、これまた多岐に亘る\[14\]。
+漢語や近代詩風の表現を用いた歌詞とエモーショナルなサウンドが特徴。特に絶叫するかのような吉野の歌唱はクレジット上で「ボーカル」ではなく「ボイス」と表記される。吉野が自らが影響を受けたと公言する音楽家は、[キャンディーズ](../Page/キャンディーズ.md "wikilink")、[和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")にはじまり、新旧・メジャーマイナーを問わず極めて多岐に亘る。また影響を受けたと公言する作家は、[坂口安吾](../Page/坂口安吾.md "wikilink")、[太宰治](../Page/太宰治.md "wikilink")、[梅崎春生](../Page/梅崎春生.md "wikilink")、[木山捷平](../Page/木山捷平.md "wikilink")、[島尾敏雄](../Page/島尾敏雄.md "wikilink")など、これまた多岐に亘る\[14\]。
 
-初期の頃は右翼的思想を持った「[スキンヘッズ](https://ja.wikipedia.org/wiki/スキンヘッド "wikilink")」の影響を受けていたが、吉野曰く「知れば知るほど矛盾があるし、より良い世の中のために動いているのに全然より良く感じられなかった」「俺は国家に忠誠なんて誓えない。『戦争に行け』って言われたって行きたくないし、国家のためには闘わない」という考えを表明している\[15\]。
+初期の頃は右翼的思想を持った「[スキンヘッズ](../Page/スキンヘッド.md "wikilink")」の影響を受けていたが、吉野曰く「知れば知るほど矛盾があるし、より良い世の中のために動いているのに全然より良く感じられなかった」「俺は国家に忠誠なんて誓えない。『戦争に行け』って言われたって行きたくないし、国家のためには闘わない」という考えを表明している\[15\]。
 
 一般的にはエモと呼ばれている\[16\]が、吉野はインタビューやブログで「エモ」と呼ばれることを否定している\[17\]\[18\]。
 
 ## 交流
 
-[向井秀徳](https://ja.wikipedia.org/wiki/向井秀徳 "wikilink")（[ナンバーガール](../Page/ナンバーガール.md "wikilink")、[ZAZEN BOYS](https://ja.wikipedia.org/wiki/ZAZEN_BOYS "wikilink")）など多くのロックミュージシャンが彼らからの影響を公言している。吉野自身はナンバーガールの楽曲にeastern youthの影響は感じられないとしつつも、そのオリジナリティーを「[ブッチャーズとfOULで打ち止めかと思っていたけど](https://ja.wikipedia.org/wiki/bloodthirsty_butchers "wikilink")、もう一個刺客が出て来た」と評した\[19\]。
+[向井秀徳](../Page/向井秀徳.md "wikilink")（[ナンバーガール](../Page/ナンバーガール.md "wikilink")、[ZAZEN BOYS](../Page/ZAZEN_BOYS.md "wikilink")）など多くのロックミュージシャンが彼らからの影響を公言している。吉野自身はナンバーガールの楽曲にeastern youthの影響は感じられないとしつつも、そのオリジナリティーを「[ブッチャーズとfOULで打ち止めかと思っていたけど](https://ja.wikipedia.org/wiki/bloodthirsty_butchers "wikilink")、もう一個刺客が出て来た」と評した\[19\]。
 
-同じ北海道出身のbloodthirsty butchersおよびfOULとは親交が深く、「極東最前線」を含む数多くのライブで共演している。吉野自身大好きなバンドとしてこの2つのバンドを頻繁に挙げ、活動休止中のfOULに1人のファンとして呼びかけ、後述の[オムニバス](../Page/オムニバス.md "wikilink")アルバム『極東最前線2』に参加してもらうなどしている。「極東最前線」の開催数は80回を超え（2012年4月現在）、bloodthirsty butchers, [あぶらだこ](https://ja.wikipedia.org/wiki/あぶらだこ "wikilink")、[怒髪天](https://ja.wikipedia.org/wiki/怒髪天 "wikilink")、[ハスキング・ビー](https://ja.wikipedia.org/wiki/ハスキング・ビー "wikilink")、[小谷美紗子](../Page/小谷美紗子.md "wikilink")、[タテタカコ](https://ja.wikipedia.org/wiki/タテタカコ "wikilink")、[ジミー・イート・ワールド](https://ja.wikipedia.org/wiki/ジミー・イート・ワールド "wikilink")、カーシヴなど、国を問わず様々なアーティストをゲストとして迎え入れている。
+同じ北海道出身のbloodthirsty butchersおよびfOULとは親交が深く、「極東最前線」を含む数多くのライブで共演している。吉野自身大好きなバンドとしてこの2つのバンドを頻繁に挙げ、活動休止中のfOULに1人のファンとして呼びかけ、後述の[オムニバス](../Page/オムニバス.md "wikilink")アルバム『極東最前線2』に参加してもらうなどしている。「極東最前線」の開催数は80回を超え（2012年4月現在）、bloodthirsty butchers, [あぶらだこ](../Page/あぶらだこ.md "wikilink")、[怒髪天](https://ja.wikipedia.org/wiki/怒髪天 "wikilink")、[ハスキング・ビー](https://ja.wikipedia.org/wiki/ハスキング・ビー "wikilink")、[小谷美紗子](../Page/小谷美紗子.md "wikilink")、[タテタカコ](https://ja.wikipedia.org/wiki/タテタカコ "wikilink")、[ジミー・イート・ワールド](https://ja.wikipedia.org/wiki/ジミー・イート・ワールド "wikilink")、カーシヴなど、国を問わず様々なアーティストをゲストとして迎え入れている。
 
 ## ディスコグラフィー
 
@@ -86,7 +86,7 @@
 <th><p>タイトル</p></th>
 <th><p>規格品番</p></th>
 <th><p>収録曲</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">Oricon</a><br />
+<th><p><a href="../Page/オリコンチャート.md" title="wikilink">Oricon</a><br />
 最高位</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -277,7 +277,7 @@
 <li>一分間</li>
 </ol></td>
 <td><p>75位</p></td>
-<td><p>ジャケット：<a href="https://ja.wikipedia.org/wiki/石田徹也" title="wikilink">石田徹也</a>『無題』</p></td>
+<td><p>ジャケット：<a href="../Page/石田徹也.md" title="wikilink">石田徹也</a>『無題』</p></td>
 </tr>
 <tr class="even">
 <td><p>11</p></td>
@@ -308,7 +308,7 @@
 </tr>
 <tr class="even">
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="https://ja.wikipedia.org/wiki/2月6日" title="wikilink">2月6日</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/2月6日.md" title="wikilink">2月6日</a></p></td>
 <td><p>赤い胃の頭ブルース</p></td>
 <td><p>―</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -360,7 +360,7 @@
 <th><p>タイトル</p></th>
 <th><p>規格品番</p></th>
 <th><p>収録曲</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">Oricon</a><br />
+<th><p><a href="../Page/オリコンチャート.md" title="wikilink">Oricon</a><br />
 最高位</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -640,7 +640,7 @@
 </tr>
 <tr class="odd">
 <td><p>11</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/3月8日.md" title="wikilink">3月8日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/3月8日.md" title="wikilink">3月8日</a></p></td>
 <td><p>365歩のブルース</p></td>
 <td><p>KICS-1234</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -664,7 +664,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/3月21日.md" title="wikilink">3月21日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/3月21日.md" title="wikilink">3月21日</a></p></td>
 <td><p>365-Step Blues</p></td>
 <td><p>―</p></td>
 <td><p>日本国外盤</p></td>
@@ -851,7 +851,7 @@
 </tr>
 <tr class="even">
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="https://ja.wikipedia.org/wiki/7月23日" title="wikilink">7月23日</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/7月23日.md" title="wikilink">7月23日</a></p></td>
 <td><p>1996-2001</p></td>
 <td><p>TFCC-86262</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -958,13 +958,13 @@
         「赤い胃の頭ブルース」で参加
 13. 極東最前線2（2008年7月23日）
       -
-        WESTERN DEVELOPMENT ([panicsmile](https://ja.wikipedia.org/wiki/panicsmile "wikilink"))／ラストナイト ([toe](https://ja.wikipedia.org/wiki/toe "wikilink"))／タコ物語 (LIVE)（[ゆらゆら帝国](https://ja.wikipedia.org/wiki/ゆらゆら帝国 "wikilink")）／あなたと歩くの（[二階堂和美](https://ja.wikipedia.org/wiki/二階堂和美 "wikilink")）／Micro Guitar Music（[トクマルシューゴ](https://ja.wikipedia.org/wiki/トクマルシューゴ "wikilink")）／東京 (eastern youth)／蒼（[枡本航太](https://ja.wikipedia.org/wiki/枡本航太 "wikilink")）／アイオライト ([M.A.G.O.](https://ja.wikipedia.org/wiki/M.A.G.O. "wikilink"))／遊星からの物体X（[OWKMJ](https://ja.wikipedia.org/wiki/OWKMJ "wikilink")〈俺はこんなもんじゃない〉）／Heartbreak ([Facing New York](https://ja.wikipedia.org/wiki/Facing_New_York "wikilink"))／七七日 ([SAKEROCK](https://ja.wikipedia.org/wiki/SAKEROCK "wikilink"))／遠足 ([TEASI](https://ja.wikipedia.org/wiki/TEASI "wikilink"))／wrong again ([54-71](https://ja.wikipedia.org/wiki/54-71 "wikilink"))／Evil Birds（[少年ナイフ](https://ja.wikipedia.org/wiki/少年ナイフ "wikilink")）
-        You Will Regret（[ディアフーフ](../Page/ディアフーフ.md "wikilink")）／Amayadori ([ZAZEN BOYS](https://ja.wikipedia.org/wiki/ZAZEN_BOYS "wikilink"))／Decade (fOUL)／MeatBalls ([TUCKER](https://ja.wikipedia.org/wiki/TUCKER "wikilink"))／All I know（カーシヴ）／何もない世界 ([THE BACK HORN](https://ja.wikipedia.org/wiki/THE_BACK_HORN "wikilink"))／東京～イースタン小谷.Ver.～（[小谷美紗子](../Page/小谷美紗子.md "wikilink")）／of daybreak ([miscorner/c+llooqtortion](https://ja.wikipedia.org/wiki/miscorner/c+llooqtortion "wikilink"))／夜を歩く（[手水](https://ja.wikipedia.org/wiki/手水_\(バンド\) "wikilink")）／フィルムのかたち ([Test Pattern](https://ja.wikipedia.org/wiki/Test_Pattern "wikilink"))／Efter god mad（[にせんねんもんだい](https://ja.wikipedia.org/wiki/にせんねんもんだい "wikilink")）／プレゼント ([COCK C'NELL](https://ja.wikipedia.org/wiki/COCK_C'NELL "wikilink"))／アイウエオ ([NOTALIN'S](https://ja.wikipedia.org/wiki/NOTALIN'S "wikilink"))／季想（[タテタカコ](https://ja.wikipedia.org/wiki/タテタカコ "wikilink")）／Fallen fragments ([envy](https://ja.wikipedia.org/wiki/envy "wikilink"))
+        WESTERN DEVELOPMENT ([panicsmile](https://ja.wikipedia.org/wiki/panicsmile "wikilink"))／ラストナイト ([toe](https://ja.wikipedia.org/wiki/toe "wikilink"))／タコ物語 (LIVE)（[ゆらゆら帝国](../Page/ゆらゆら帝国.md "wikilink")）／あなたと歩くの（[二階堂和美](../Page/二階堂和美.md "wikilink")）／Micro Guitar Music（[トクマルシューゴ](../Page/トクマルシューゴ.md "wikilink")）／東京 (eastern youth)／蒼（[枡本航太](https://ja.wikipedia.org/wiki/枡本航太 "wikilink")）／アイオライト ([M.A.G.O.](https://ja.wikipedia.org/wiki/M.A.G.O. "wikilink"))／遊星からの物体X（[OWKMJ](https://ja.wikipedia.org/wiki/OWKMJ "wikilink")〈俺はこんなもんじゃない〉）／Heartbreak ([Facing New York](https://ja.wikipedia.org/wiki/Facing_New_York "wikilink"))／七七日 ([SAKEROCK](../Page/SAKEROCK.md "wikilink"))／遠足 ([TEASI](https://ja.wikipedia.org/wiki/TEASI "wikilink"))／wrong again ([54-71](../Page/54-71.md "wikilink"))／Evil Birds（[少年ナイフ](../Page/少年ナイフ.md "wikilink")）
+        You Will Regret（[ディアフーフ](../Page/ディアフーフ.md "wikilink")）／Amayadori ([ZAZEN BOYS](../Page/ZAZEN_BOYS.md "wikilink"))／Decade (fOUL)／MeatBalls ([TUCKER](https://ja.wikipedia.org/wiki/TUCKER "wikilink"))／All I know（カーシヴ）／何もない世界 ([THE BACK HORN](../Page/THE_BACK_HORN.md "wikilink"))／東京～イースタン小谷.Ver.～（[小谷美紗子](../Page/小谷美紗子.md "wikilink")）／of daybreak ([miscorner/c+llooqtortion](https://ja.wikipedia.org/wiki/miscorner/c+llooqtortion "wikilink"))／夜を歩く（[手水](https://ja.wikipedia.org/wiki/手水_\(バンド\) "wikilink")）／フィルムのかたち ([Test Pattern](https://ja.wikipedia.org/wiki/Test_Pattern "wikilink"))／Efter god mad（[にせんねんもんだい](https://ja.wikipedia.org/wiki/にせんねんもんだい "wikilink")）／プレゼント ([COCK C'NELL](https://ja.wikipedia.org/wiki/COCK_C'NELL "wikilink"))／アイウエオ ([NOTALIN'S](https://ja.wikipedia.org/wiki/NOTALIN'S "wikilink"))／季想（[タテタカコ](https://ja.wikipedia.org/wiki/タテタカコ "wikilink")）／Fallen fragments ([envy](https://ja.wikipedia.org/wiki/envy "wikilink"))
 14. 家族時間～NHKみんなのうたカバー集～（2008年12月10日）
       -
         「ヒロミ」で参加。
 15. 極東最前線3（2013年9月18日）
-      - Hatomune ([GELLERS](https://ja.wikipedia.org/wiki/GELLERS "wikilink"))／SEIMEI ([GOUPIL AND C](https://ja.wikipedia.org/wiki/GOUPIL_AND_C "wikilink"))／泣く影（[オシリペンペンズ](https://ja.wikipedia.org/wiki/オシリペンペンズ "wikilink")）／タニシ ([OGRE YOU ASSHOLE](../Page/OGRE_YOU_ASSHOLE.md "wikilink"))／LIVE IN 和歌山（[竹原ピストル](https://ja.wikipedia.org/wiki/竹原ピストル "wikilink")）／雨に抗う (eastern youth)／空の上（[キセル](https://ja.wikipedia.org/wiki/キセル_\(バンド\) "wikilink")）／アレかも、、（[田我流](https://ja.wikipedia.org/wiki/田我流 "wikilink")）／←NOW→ \~Dance with ill present\~ ([KIRIHITO](https://ja.wikipedia.org/wiki/KIRIHITO "wikilink"))／東京砂漠（[赤い疑惑](https://ja.wikipedia.org/wiki/赤い疑惑（バンド） "wikilink")）／しらないまち ([HINTO](https://ja.wikipedia.org/wiki/HINTO "wikilink"))／湿地帯 ([BEYONDS](../Page/BEYONDS.md "wikilink"))／汀に咲く ([BRAHMAN](https://ja.wikipedia.org/wiki/BRAHMAN "wikilink"))／極東温度 ([the band apart](https://ja.wikipedia.org/wiki/the_band_apart "wikilink"))／SWEETIE ([group_inou](https://ja.wikipedia.org/wiki/group_inou "wikilink"))
+      - Hatomune ([GELLERS](https://ja.wikipedia.org/wiki/GELLERS "wikilink"))／SEIMEI ([GOUPIL AND C](https://ja.wikipedia.org/wiki/GOUPIL_AND_C "wikilink"))／泣く影（[オシリペンペンズ](https://ja.wikipedia.org/wiki/オシリペンペンズ "wikilink")）／タニシ ([OGRE YOU ASSHOLE](../Page/OGRE_YOU_ASSHOLE.md "wikilink"))／LIVE IN 和歌山（[竹原ピストル](https://ja.wikipedia.org/wiki/竹原ピストル "wikilink")）／雨に抗う (eastern youth)／空の上（[キセル](../Page/キセル_\(バンド\).md "wikilink")）／アレかも、、（[田我流](https://ja.wikipedia.org/wiki/田我流 "wikilink")）／←NOW→ \~Dance with ill present\~ ([KIRIHITO](https://ja.wikipedia.org/wiki/KIRIHITO "wikilink"))／東京砂漠（[赤い疑惑](https://ja.wikipedia.org/wiki/赤い疑惑（バンド） "wikilink")）／しらないまち ([HINTO](https://ja.wikipedia.org/wiki/HINTO "wikilink"))／湿地帯 ([BEYONDS](../Page/BEYONDS.md "wikilink"))／汀に咲く ([BRAHMAN](../Page/BRAHMAN.md "wikilink"))／極東温度 ([the band apart](https://ja.wikipedia.org/wiki/the_band_apart "wikilink"))／SWEETIE ([group_inou](https://ja.wikipedia.org/wiki/group_inou "wikilink"))
 
 ### 映像作品
 
@@ -1021,7 +1021,7 @@ TFVQ-68053:VHS</p></td>
 
 ## 関連書籍
 
-  - 吉野寿『天沼メガネ節』 2012年12月25日、[青土社](https://ja.wikipedia.org/wiki/青土社 "wikilink")
+  - 吉野寿『天沼メガネ節』 2012年12月25日、[青土社](../Page/青土社.md "wikilink")
 
 ## ミュージックビデオ
 
@@ -1038,10 +1038,10 @@ TFVQ-68053:VHS</p></td>
 
 ## タイアップ
 
-| 曲名             | タイアップ                                                                                                                   |
-| -------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| 世界は割れ響く耳鳴りのようだ | [TBS系列](../Page/TBSテレビ.md "wikilink")『[COUNT DOWN TV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")』オープニングテーマ |
-| 時計台の鐘          | TVアニメ『[ゴールデンカムイ](https://ja.wikipedia.org/wiki/ゴールデンカムイ "wikilink")』第2期エンディングテーマ                                        |
+| 曲名             | タイアップ                                                                                                |
+| -------------- | ---------------------------------------------------------------------------------------------------- |
+| 世界は割れ響く耳鳴りのようだ | [TBS系列](../Page/TBSテレビ.md "wikilink")『[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")』オープニングテーマ |
+| 時計台の鐘          | TVアニメ『[ゴールデンカムイ](https://ja.wikipedia.org/wiki/ゴールデンカムイ "wikilink")』第2期エンディングテーマ                     |
 
 ## 主なライブ
 
@@ -1095,7 +1095,7 @@ TFVQ-68053:VHS</p></td>
   - 2008年 - 極東最前線 ～ジャンプ・スウィング・花に嵐～　（対バン：[the band apart](https://ja.wikipedia.org/wiki/the_band_apart "wikilink")）
   - 2008年 - 極東最前線 ～あのUFOに乗りたかったの。～　（対バン：[キセル](https://ja.wikipedia.org/wiki/キセル "wikilink")）
   - 2008年 - 極東最前線 / 巡業～スットコドッコイ20年～
-  - 2008年 - SHIBUYA CLUB QUATTRO 20th Anniversary極東最前線～ファイトバック現代～　（対バン：[SPARTA LOCALS](https://ja.wikipedia.org/wiki/SPARTA_LOCALS "wikilink")）
+  - 2008年 - SHIBUYA CLUB QUATTRO 20th Anniversary極東最前線～ファイトバック現代～　（対バン：[SPARTA LOCALS](../Page/SPARTA_LOCALS.md "wikilink")）
   - 2009年 - 極東最前線 ～ore no noizu ni tobinore～　（対バン：[GOUPIL AND C](https://ja.wikipedia.org/wiki/GOUPIL_AND_C "wikilink")）
   - 2009年 - 極東最前線 ～俺達まだ旅の途中～　（対バン：[group_inou](https://ja.wikipedia.org/wiki/group_inou "wikilink")）
   - 2009年 - 極東最前線 / 巡業～一切合切太陽みたいに輝く～　（一部公演中止）
@@ -1108,7 +1108,7 @@ TFVQ-68053:VHS</p></td>
   - 2011年 - 極東最前線 ～ユモレスタ！きょうのできごと～　（対バン：[GELLERS](https://ja.wikipedia.org/wiki/GELLERS "wikilink")）
   - 2011年 - 極東最前線 ～センチメンタル犠牲フライ～　（対バン：[竹原ピストル](https://ja.wikipedia.org/wiki/竹原ピストル "wikilink")）
   - 2011年 - 極東最前線 / プチ巡業 ～３アウト！チェンジ拒否～
-  - 2012年 - 極東最前線 ～人の子こぞりて足踏み鳴らせ\!～　（対バン：[BRAHMAN](https://ja.wikipedia.org/wiki/BRAHMAN "wikilink")）
+  - 2012年 - 極東最前線 ～人の子こぞりて足踏み鳴らせ\!～　（対バン：[BRAHMAN](../Page/BRAHMAN.md "wikilink")）
   - 2012年 - 極東最前線 / 巡業 ～すべってころんで夜の果てまでも～　（東京公演対バン：赤い疑惑）
   - 2012年 - 極東最前線 ～蒔かず刈らず蔵に納めず～　（対バン：KIRIHITO）
   - 2012年 - 極東最前線 / 巡業2012「ゼロ番地から彼方の空まで」
@@ -1124,7 +1124,7 @@ TFVQ-68053:VHS</p></td>
   - 2015年 - 極東最前線 / 巡業2015～ボトムオブザワールド人間達～
   - 2015年 - 極東最前線 ～ドキュメント街の底～　（対バン：[コーパス・グラインダーズ](https://ja.wikipedia.org/wiki/コーパス・グラインダーズ "wikilink")）
   - 2016年 - 極東最前線 ～お父さんもなぁ、若い頃は高田馬場のジョイディビジョンと言われていたん だよ～　（対バン：[トリプルファイヤー](https://ja.wikipedia.org/wiki/トリプルファイヤー "wikilink")）
-  - 2016年 - 極東最前線 ～旅は続くよ 風吹くままに～　（対バン：[HUSKING BEE](https://ja.wikipedia.org/wiki/HUSKING_BEE "wikilink")）
+  - 2016年 - 極東最前線 ～旅は続くよ 風吹くままに～　（対バン：[HUSKING BEE](../Page/HUSKING_BEE.md "wikilink")）
   - 2016年 - 極東最前線 〜こんにちは名古屋〜
   - 2016年 - 極東最前線 ～箱の生活は日々積みかさんでゆく～　（対バン：左右）
   - 2017年 - 極東最前線 ～明けない夜はないのだ～　（対バン：[クラムボン](https://ja.wikipedia.org/wiki/クラムボン "wikilink")）
@@ -1138,15 +1138,15 @@ TFVQ-68053:VHS</p></td>
 ### 出演イベント
 
   - 1999年07月31日 - [FUJI ROCK FESTIVAL](https://ja.wikipedia.org/wiki/フジロックフェスティバル "wikilink") '99
-  - 2000年08月05日 - [SUMMER SONIC](https://ja.wikipedia.org/wiki/サマーソニック "wikilink") 2000
-  - 2000年08月19日 - [RISING SUN ROCK FESTIVAL](https://ja.wikipedia.org/wiki/ライジング・サン・ロックフェスティバル "wikilink") 2000 in EZO
+  - 2000年08月05日 - [SUMMER SONIC](../Page/サマーソニック.md "wikilink") 2000
+  - 2000年08月19日 - [RISING SUN ROCK FESTIVAL](../Page/ライジング・サン・ロックフェスティバル.md "wikilink") 2000 in EZO
   - 2000年09月03日 - SPACE SHOWER TV [SWEET LOVE SHOWER](../Page/SWEET_LOVE_SHOWER.md "wikilink") 2000
   - 2001年07月28日 - FUJI ROCK FESTIVAL '01
   - 2001年08月18日 - RISING SUN ROCK FESTIVAL 2001 in EZO
   - 2003年07月25日 - FUJI ROCK FESTIVAL '03
   - 2003年09月07日 - [ARABAKI ROCK FEST.](../Page/ARABAKI_ROCK_FEST..md "wikilink")09072003
   - 2004年08月14日 - RISING SUN ROCK FESTIVAL 2004 in EZO
-  - 2004年12月30日 - [COUNTDOWN JAPAN](https://ja.wikipedia.org/wiki/COUNTDOWN_JAPAN "wikilink") 04/05
+  - 2004年12月30日 - [COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 04/05
   - 2005年04月29日 - ARABAKI ROCK FEST.04292005
   - 2005年12月30日 - COUNTDOWN JAPAN 05/06
   - 2006年07月29日 - FUJI ROCK FESTIVAL '06
@@ -1168,7 +1168,7 @@ TFVQ-68053:VHS</p></td>
   - 2010年12月28日 - COUNTDOWN JAPAN 10/11
   - 2011年07月31日 - FUJI ROCK FESTIVAL '11
   - 2011年08月27日 - ARABAKI ROCK FEST.11
-  - 2011年09月25日 - [ガガガSP](https://ja.wikipedia.org/wiki/ガガガSP "wikilink") 長田大行進曲 2011
+  - 2011年09月25日 - [ガガガSP](../Page/ガガガSP.md "wikilink") 長田大行進曲 2011
   - 2011年10月13日 - 電撃バップ vol.1
   - 2011年10月22日 - BOROFESTA 2011
   - 2011年12月30日 - COUNTDOWN JAPAN 11/12
@@ -1247,7 +1247,7 @@ TFVQ-68053:VHS</p></td>
 13.
 14. [文化デリックのPOP寄席 2007年8月](http://blog.livedoor.jp/bunkadelic/archives/64643501.html)
 15. [ミュージシャンはネトウヨがお嫌い？ 「キッタネエ思考」「可哀相としか」批判相次ぐ（1/2）](http://www.j-cast.com/2013/04/23173739.html?p=1) J-CASTニュース 2013年4月23日
-16. [1](http://www.allmusic.com/artist/eastern-youth-mn0000163262)[AllMusic](https://ja.wikipedia.org/wiki/オールミュージック "wikilink")
+16. [1](http://www.allmusic.com/artist/eastern-youth-mn0000163262)[AllMusic](../Page/オールミュージック.md "wikilink")
 17. [Loft Project 吉野寿×磯部正文](http://www.loft-prj.co.jp/interview/0410/11.html)
 18. [天沼メガネ節 2013年1月25日 その2](http://www.yoshino-seisakujyo.com/meganebushi/?p=952)
-19. 『CROSSBEAT』1999年11月号、[シンコーミュージック](https://ja.wikipedia.org/wiki/シンコーミュージック・エンタテイメント "wikilink")
+19. 『CROSSBEAT』1999年11月号、[シンコーミュージック](../Page/シンコーミュージック・エンタテイメント.md "wikilink")

@@ -5,7 +5,7 @@
 
 ## 概要
 
-新日本プロレスのジュニア戦線は、[藤波辰巳と](https://ja.wikipedia.org/wiki/藤波辰爾 "wikilink")[タイガーマスク](https://ja.wikipedia.org/wiki/佐山聡 "wikilink")（初代）の活躍以降、トップ・オブ・ザ・スーパージュニア（1988年 - ）、[ベスト・オブ・ザ・スーパージュニア](https://ja.wikipedia.org/wiki/ベスト・オブ・ザ・スーパージュニア "wikilink")（1994年 - ）と充実していたもののシングル戦がメインで、格下扱いされていたジュニアの[タッグマッチ](../Page/タッグマッチ.md "wikilink")がメインの扱いをされることはなかった。
+新日本プロレスのジュニア戦線は、[藤波辰巳と](../Page/藤波辰爾.md "wikilink")[タイガーマスク](../Page/佐山聡.md "wikilink")（初代）の活躍以降、トップ・オブ・ザ・スーパージュニア（1988年 - ）、[ベスト・オブ・ザ・スーパージュニア](../Page/ベスト・オブ・ザ・スーパージュニア.md "wikilink")（1994年 - ）と充実していたもののシングル戦がメインで、格下扱いされていたジュニアの[タッグマッチ](../Page/タッグマッチ.md "wikilink")がメインの扱いをされることはなかった。
 
 しかし、[1994年](../Page/1994年.md "wikilink")4月16日に他団体の選手も参加して[両国国技館](../Page/両国国技館.md "wikilink")で開催されたSUPER J CUP 1st. STAGEの成功で、ヘビー級にはない「空中戦」やスピーディな試合展開で新日本プロレスにおけるジュニアヘビー級再評価の機運が高まった。「[ワールドプロレスリング](../Page/ワールドプロレスリング.md "wikilink")」でもヘビー級と同等に放送されるようになり、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")にIWGPジュニアタッグ王座を設立。
 
@@ -29,16 +29,16 @@
 <tbody>
 <tr class="odd">
 <td><p>初代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大谷晋二郎" title="wikilink">大谷晋二郎</a>&amp;<a href="https://ja.wikipedia.org/wiki/高岩竜一" title="wikilink">高岩竜一</a></p></td>
+<td><p><a href="../Page/大谷晋二郎.md" title="wikilink">大谷晋二郎</a>&amp;<a href="../Page/高岩竜一.md" title="wikilink">高岩竜一</a></p></td>
 <td><p>1</p></td>
 <td><p>2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1998年" title="wikilink">1998年</a>8月8日</p></td>
 <td><p><a href="../Page/大阪ドーム.md" title="wikilink">大阪ドーム</a><br />
-<a href="https://ja.wikipedia.org/wiki/金本浩二" title="wikilink">金本浩二</a>&amp;<a href="https://ja.wikipedia.org/wiki/ドクトル・ワグナー・ジュニア" title="wikilink">ドクトル・ワグナーJr.</a></p></td>
+<a href="../Page/金本浩二.md" title="wikilink">金本浩二</a>&amp;<a href="../Page/ドクトル・ワグナー・ジュニア.md" title="wikilink">ドクトル・ワグナーJr.</a></p></td>
 </tr>
 <tr class="even">
 <td><p>第2代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/石澤常光" title="wikilink">ケンドー・カシン</a>&amp;<a href="https://ja.wikipedia.org/wiki/ドクトル・ワグナー・ジュニア" title="wikilink">ドクトル・ワグナーJr.</a></p></td>
+<td><p><a href="../Page/石澤常光.md" title="wikilink">ケンドー・カシン</a>&amp;<a href="../Page/ドクトル・ワグナー・ジュニア.md" title="wikilink">ドクトル・ワグナーJr.</a></p></td>
 <td><p>1</p></td>
 <td><p>2</p></td>
 <td><p><a href="../Page/1999年.md" title="wikilink">1999年</a>1月4日</p></td>
@@ -46,7 +46,7 @@
 </tr>
 <tr class="odd">
 <td><p>第3代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/獣神サンダー・ライガー" title="wikilink">獣神サンダー・ライガー</a>&amp;<a href="../Page/ザ・グレート・サスケ.md" title="wikilink">ザ・グレート・サスケ</a></p></td>
+<td><p><a href="../Page/獣神サンダー・ライガー.md" title="wikilink">獣神サンダー・ライガー</a>&amp;<a href="../Page/ザ・グレート・サスケ.md" title="wikilink">ザ・グレート・サスケ</a></p></td>
 <td><p>1</p></td>
 <td><p>0</p></td>
 <td><p>1999年4月10日</p></td>
@@ -58,27 +58,27 @@
 <td><p>2</p></td>
 <td><p>4</p></td>
 <td><p>1999年7月13日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/岩手県営体育館" title="wikilink">岩手県営体育館</a></p></td>
+<td><p><a href="../Page/岩手県営体育館.md" title="wikilink">岩手県営体育館</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>第5代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/金本浩二" title="wikilink">金本浩二</a>&amp;<a href="https://ja.wikipedia.org/wiki/田中稔_(プロレスラー)" title="wikilink">田中稔</a></p></td>
+<td><p><a href="../Page/金本浩二.md" title="wikilink">金本浩二</a>&amp;<a href="../Page/田中稔_(プロレスラー).md" title="wikilink">田中稔</a></p></td>
 <td><p>1</p></td>
 <td><p>3</p></td>
 <td><p><a href="../Page/2000年.md" title="wikilink">2000年</a>6月25日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/後楽園ホール" title="wikilink">後楽園ホール</a></p></td>
+<td><p><a href="../Page/後楽園ホール.md" title="wikilink">後楽園ホール</a></p></td>
 </tr>
 <tr class="even">
 <td><p>第6代</p></td>
-<td><p>獣神サンダー・ライガー&amp;<a href="https://ja.wikipedia.org/wiki/エル・サムライ" title="wikilink">エル・サムライ</a></p></td>
+<td><p>獣神サンダー・ライガー&amp;<a href="../Page/エル・サムライ.md" title="wikilink">エル・サムライ</a></p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
 <td><p><a href="../Page/2001年.md" title="wikilink">2001年</a>3月6日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大田区体育館" title="wikilink">大田区体育館</a></p></td>
+<td><p><a href="../Page/大田区体育館.md" title="wikilink">大田区体育館</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>第7代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/邪道_(プロレスラー)" title="wikilink">邪道</a>&amp;<a href="https://ja.wikipedia.org/wiki/外道_(プロレスラー)" title="wikilink">外道</a></p></td>
+<td><p><a href="../Page/邪道_(プロレスラー).md" title="wikilink">邪道</a>&amp;<a href="../Page/外道_(プロレスラー).md" title="wikilink">外道</a></p></td>
 <td><p>1</p></td>
 <td><p>6</p></td>
 <td><p>2001年7月20日</p></td>
@@ -94,7 +94,7 @@
 </tr>
 <tr class="odd">
 <td><p>第9代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/金丸義信" title="wikilink">金丸義信</a>&amp;<a href="../Page/菊地毅.md" title="wikilink">菊地毅</a></p></td>
+<td><p><a href="../Page/金丸義信.md" title="wikilink">金丸義信</a>&amp;<a href="../Page/菊地毅.md" title="wikilink">菊地毅</a></p></td>
 <td><p>1</p></td>
 <td><p>4</p></td>
 <td><p>2002年8月29日</p></td>
@@ -106,7 +106,7 @@
 <td><p>1</p></td>
 <td><p>6</p></td>
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a>1月26日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ワールド記念ホール" title="wikilink">神戸ワールド記念ホール</a><br />
+<td><p><a href="../Page/ワールド記念ホール.md" title="wikilink">神戸ワールド記念ホール</a><br />
 金本負傷のため、王座返上</p></td>
 </tr>
 <tr class="odd">
@@ -115,16 +115,16 @@
 <td><p>2</p></td>
 <td><p>2</p></td>
 <td><p>2003年11月29日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/宮城県スポーツセンター" title="wikilink">宮城県スポーツセンター</a><br />
-<a href="https://ja.wikipedia.org/wiki/田口隆祐" title="wikilink">田口隆祐</a>&amp;<a href="https://ja.wikipedia.org/wiki/後藤洋央紀" title="wikilink">後藤洋央紀</a></p></td>
+<td><p><a href="../Page/宮城県スポーツセンター.md" title="wikilink">宮城県スポーツセンター</a><br />
+<a href="../Page/田口隆祐.md" title="wikilink">田口隆祐</a>&amp;<a href="../Page/後藤洋央紀.md" title="wikilink">後藤洋央紀</a></p></td>
 </tr>
 <tr class="even">
 <td><p>第12代</p></td>
-<td><p><a href="../Page/ダニエル・コベル.md" title="wikilink">カレーマン</a>&amp;<a href="https://ja.wikipedia.org/wiki/ブライアン・ダニエルソン" title="wikilink">アメリカン・ドラゴン</a></p></td>
+<td><p><a href="../Page/ダニエル・コベル.md" title="wikilink">カレーマン</a>&amp;<a href="../Page/ブライアン・ダニエルソン.md" title="wikilink">アメリカン・ドラゴン</a></p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
 <td><p><a href="../Page/2004年.md" title="wikilink">2004年</a>3月12日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/国立代々木競技場" title="wikilink">国立代々木競技場</a>第2体育館</p></td>
+<td><p><a href="../Page/国立代々木競技場.md" title="wikilink">国立代々木競技場</a>第2体育館</p></td>
 </tr>
 <tr class="odd">
 <td><p>第13代</p></td>
@@ -132,19 +132,19 @@
 <td><p>3</p></td>
 <td><p>5</p></td>
 <td><p>2004年6月5日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大阪府立体育会館" title="wikilink">大阪府立体育会館</a></p></td>
+<td><p><a href="../Page/大阪府立体育会館.md" title="wikilink">大阪府立体育会館</a></p></td>
 </tr>
 <tr class="even">
 <td><p>第14代</p></td>
-<td><p>金本浩二&amp;<a href="https://ja.wikipedia.org/wiki/井上亘" title="wikilink">井上亘</a></p></td>
+<td><p>金本浩二&amp;<a href="../Page/井上亘.md" title="wikilink">井上亘</a></p></td>
 <td><p>1</p></td>
 <td><p>2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a>3月4日</p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a>3月4日</p></td>
 <td><p>後楽園ホール</p></td>
 </tr>
 <tr class="odd">
 <td><p>第15代</p></td>
-<td><p>稔&amp;<a href="https://ja.wikipedia.org/wiki/後藤洋央紀" title="wikilink">後藤洋央紀</a></p></td>
+<td><p>稔&amp;<a href="../Page/後藤洋央紀.md" title="wikilink">後藤洋央紀</a></p></td>
 <td><p>1</p></td>
 <td><p>3</p></td>
 <td><p>2005年5月14日</p></td>
@@ -152,10 +152,10 @@
 </tr>
 <tr class="even">
 <td><p>第16代</p></td>
-<td><p>エル・サムライ&amp;<a href="https://ja.wikipedia.org/wiki/田口隆祐" title="wikilink">田口隆祐</a></p></td>
+<td><p>エル・サムライ&amp;<a href="../Page/田口隆祐.md" title="wikilink">田口隆祐</a></p></td>
 <td><p>1</p></td>
 <td><p>2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a>2月19日</p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a>2月19日</p></td>
 <td><p>両国国技館</p></td>
 </tr>
 <tr class="odd">
@@ -164,11 +164,11 @@
 <td><p>4</p></td>
 <td><p>2</p></td>
 <td><p>2006年7月8日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/静岡産業支援センター" title="wikilink">ツインメッセ静岡</a></p></td>
+<td><p><a href="../Page/静岡産業支援センター.md" title="wikilink">ツインメッセ静岡</a></p></td>
 </tr>
 <tr class="even">
 <td><p>第18代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ディック東郷" title="wikilink">ディック東郷</a>&amp;<a href="https://ja.wikipedia.org/wiki/TAKAみちのく" title="wikilink">TAKAみちのく</a></p></td>
+<td><p><a href="../Page/ディック東郷.md" title="wikilink">ディック東郷</a>&amp;<a href="../Page/TAKAみちのく.md" title="wikilink">TAKAみちのく</a></p></td>
 <td><p>1</p></td>
 <td><p>3</p></td>
 <td><p><a href="../Page/2007年.md" title="wikilink">2007年</a>5月2日</p></td>
@@ -176,7 +176,7 @@
 </tr>
 <tr class="odd">
 <td><p>第19代</p></td>
-<td><p>稔&amp;<a href="https://ja.wikipedia.org/wiki/ファーガル・デヴィット" title="wikilink">プリンス・デヴィット</a></p></td>
+<td><p>稔&amp;<a href="../Page/ファーガル・デヴィット.md" title="wikilink">プリンス・デヴィット</a></p></td>
 <td><p>1</p></td>
 <td><p>0</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a>1月27日</p></td>
@@ -184,7 +184,7 @@
 </tr>
 <tr class="even">
 <td><p>第20代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/獣神サンダー・ライガー" title="wikilink">獣神サンダー・ライガー</a>&amp;<a href="https://ja.wikipedia.org/wiki/AKIRA_(プロレスラー)" title="wikilink">AKIRA</a></p></td>
+<td><p><a href="../Page/獣神サンダー・ライガー.md" title="wikilink">獣神サンダー・ライガー</a>&amp;<a href="../Page/AKIRA_(プロレスラー).md" title="wikilink">AKIRA</a></p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
 <td><p>2008年2月17日</p></td>
@@ -196,11 +196,11 @@
 <td><p>2</p></td>
 <td><p>1</p></td>
 <td><p>2008年7月21日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/北海道立産業共進会場" title="wikilink">月寒アルファコートドーム</a></p></td>
+<td><p><a href="../Page/北海道立産業共進会場.md" title="wikilink">月寒アルファコートドーム</a></p></td>
 </tr>
 <tr class="even">
 <td><p>第22代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/高橋裕二郎" title="wikilink">裕次郎</a>&amp;<a href="https://ja.wikipedia.org/wiki/内藤哲也" title="wikilink">内藤哲也</a></p></td>
+<td><p><a href="../Page/高橋裕二郎.md" title="wikilink">裕次郎</a>&amp;<a href="../Page/内藤哲也.md" title="wikilink">内藤哲也</a></p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
 <td><p>2008年10月13日</p></td>
@@ -241,7 +241,7 @@
 </tr>
 <tr class="odd">
 <td><p>第27代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/飯伏幸太" title="wikilink">飯伏幸太</a>&amp;<a href="https://ja.wikipedia.org/wiki/ケニー・オメガ" title="wikilink">ケニー・オメガ</a></p></td>
+<td><p><a href="../Page/飯伏幸太.md" title="wikilink">飯伏幸太</a>&amp;<a href="https://ja.wikipedia.org/wiki/ケニー・オメガ" title="wikilink">ケニー・オメガ</a></p></td>
 <td><p>1</p></td>
 <td><p>2</p></td>
 <td><p>2010年10月11日</p></td>
@@ -282,12 +282,12 @@
 </tr>
 <tr class="even">
 <td><p>第32代</p></td>
-<td><p>獣神サンダー・ライガー&amp;<a href="https://ja.wikipedia.org/wiki/タイガーマスク_(4代目)" title="wikilink">タイガーマスク</a></p></td>
+<td><p>獣神サンダー・ライガー&amp;<a href="../Page/タイガーマスク_(4代目).md" title="wikilink">タイガーマスク</a></p></td>
 <td><p>1</p></td>
 <td><p>0</p></td>
 <td><p>2012年6月16日</p></td>
 <td><p>大阪府立体育会館<br />
-<a href="https://ja.wikipedia.org/wiki/TAKAみちのく" title="wikilink">TAKAみちのく</a>&amp;<a href="https://ja.wikipedia.org/wiki/石狩太一" title="wikilink">タイチ</a></p></td>
+<a href="../Page/TAKAみちのく.md" title="wikilink">TAKAみちのく</a>&amp;<a href="https://ja.wikipedia.org/wiki/石狩太一" title="wikilink">タイチ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>第33代</p></td>
@@ -311,7 +311,7 @@
 <td><p>2</p></td>
 <td><p>3</p></td>
 <td><p>2013年5月3日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡国際センター" title="wikilink">福岡国際センター</a></p></td>
+<td><p><a href="../Page/福岡国際センター.md" title="wikilink">福岡国際センター</a></p></td>
 </tr>
 <tr class="even">
 <td><p>第36代</p></td>
@@ -327,7 +327,7 @@
 <td><p>1</p></td>
 <td><p>5</p></td>
 <td><p>2013年11月9日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大阪府立体育会館" title="wikilink">大阪府立体育会館</a></p></td>
+<td><p><a href="../Page/大阪府立体育会館.md" title="wikilink">大阪府立体育会館</a></p></td>
 </tr>
 <tr class="even">
 <td><p>第38代</p></td>
@@ -391,7 +391,7 @@
 <td><p>1</p></td>
 <td><p>0</p></td>
 <td><p>2016年2月11日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大阪府立体育会館" title="wikilink">大阪府立体育会館</a></p></td>
+<td><p><a href="../Page/大阪府立体育会館.md" title="wikilink">大阪府立体育会館</a></p></td>
 </tr>
 <tr class="even">
 <td><p>第46代</p></td>

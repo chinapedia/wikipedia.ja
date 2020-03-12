@@ -45,7 +45,7 @@
 
 ### 国外タイトル
 
-  - **[UEFAフットサルカップ](https://ja.wikipedia.org/wiki/UEFAフットサルカップ "wikilink")**: **2**
+  - **[UEFAフットサルカップ](../Page/UEFAフットサルカップ.md "wikilink")**: **2**
 
 <!-- end list -->
 

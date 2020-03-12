@@ -1,15 +1,15 @@
 > この記事は[TB](https://ja.wikipedia.org/wiki/TB)から翻訳されています。
 
 
-**日産・TBエンジン**とは、[日産自動車](https://ja.wikipedia.org/wiki/日産自動車 "wikilink")の[直列6気筒](https://ja.wikipedia.org/wiki/直列6気筒 "wikilink")[ガソリンエンジン](https://ja.wikipedia.org/wiki/ガソリンエンジン "wikilink")の系列である。生産は[日産工機](https://ja.wikipedia.org/wiki/日産工機 "wikilink")が担当している。
+**日産・TBエンジン**とは、[日産自動車](../Page/日産自動車.md "wikilink")の[直列6気筒](../Page/直列6気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")の系列である。生産は[日産工機](../Page/日産工機.md "wikilink")が担当している。
 
-1987年のY60型[サファリのフルモデルチェンジ時に](https://ja.wikipedia.org/wiki/日産・サファリ "wikilink")、[P40に代わりTB](https://ja.wikipedia.org/wiki/日産・P型エンジン "wikilink")42S / 42Eが登場。日本国内へは1991年のマイナーチェンジでTB42Eが初設定された。その後ボアアップされたTB45Eが、Y61型のサファリに搭載された。
+1987年のY60型[サファリのフルモデルチェンジ時に](../Page/日産・サファリ.md "wikilink")、[P40に代わりTB](https://ja.wikipedia.org/wiki/日産・P型エンジン "wikilink")42S / 42Eが登場。日本国内へは1991年のマイナーチェンジでTB42Eが初設定された。その後ボアアップされたTB45Eが、Y61型のサファリに搭載された。
 
-2002年11月、Y61型サファリのマイナーチェンジと同時に[DOHC](../Page/DOHC.md "wikilink")化され、[可変バルブ機構](https://ja.wikipedia.org/wiki/可変バルブ機構 "wikilink")を備えたTB48DEが登場した。排気量は[トヨタの2UZ-FEを凌駕する数値に設定された](https://ja.wikipedia.org/wiki/トヨタ・UZエンジン "wikilink")。
+2002年11月、Y61型サファリのマイナーチェンジと同時に[DOHC](../Page/DOHC.md "wikilink")化され、[可変バルブ機構](../Page/可変バルブ機構.md "wikilink")を備えたTB48DEが登場した。排気量は[トヨタの2UZ-FEを凌駕する数値に設定された](../Page/トヨタ・UZエンジン.md "wikilink")。
 
-2003年以降日産の[SUVや](../Page/スポーツ・ユーティリティ・ビークル.md "wikilink")[ピックアップトラック](https://ja.wikipedia.org/wiki/ピックアップトラック "wikilink")にはすべて[VQエンジンや](https://ja.wikipedia.org/wiki/日産・VQエンジン "wikilink")[VKエンジンが搭載されたため](../Page/日産・VKエンジン.md "wikilink")、結局サファリ以外の車種には搭載されていない。日本では2007年6月にサファリの販売が終了したため、TB48DEが日産の乗用車としては最後の直6エンジンとなった。
+2003年以降日産の[SUVや](../Page/スポーツ・ユーティリティ・ビークル.md "wikilink")[ピックアップトラック](../Page/ピックアップトラック.md "wikilink")にはすべて[VQエンジンや](../Page/日産・VQエンジン.md "wikilink")[VKエンジンが搭載されたため](../Page/日産・VKエンジン.md "wikilink")、結局サファリ以外の車種には搭載されていない。日本では2007年6月にサファリの販売が終了したため、TB48DEが日産の乗用車としては最後の直6エンジンとなった。
 
-2003年11月、[NOx規制への対応から](https://ja.wikipedia.org/wiki/自動車から排出される窒素酸化物及び粒子状物質の特定地域における総量の削減等に関する特別措置法 "wikilink")[マイクロバス](https://ja.wikipedia.org/wiki/マイクロバス "wikilink")のW41型[シビリアンと](https://ja.wikipedia.org/wiki/日産・シビリアン "wikilink")、[OEM](../Page/OEM.md "wikilink")供給される[いすゞ・ジャーニー](https://ja.wikipedia.org/wiki/いすゞ・ジャーニー "wikilink")にTB45Eが搭載される。2017年時点で日産自動車としては唯一の直6エンジンとなっている。
+2003年11月、[NOx規制への対応から](../Page/自動車から排出される窒素酸化物及び粒子状物質の特定地域における総量の削減等に関する特別措置法.md "wikilink")[マイクロバス](../Page/マイクロバス.md "wikilink")のW41型[シビリアンと](../Page/日産・シビリアン.md "wikilink")、[OEM](../Page/OEM.md "wikilink")供給される[いすゞ・ジャーニー](../Page/いすゞ・ジャーニー.md "wikilink")にTB45Eが搭載される。2017年時点で日産自動車としては唯一の直6エンジンとなっている。
 
 ## バリエーション
 
@@ -22,8 +22,8 @@
 
 #### 搭載車種
 
-  - [日産・サファリ](https://ja.wikipedia.org/wiki/日産・サファリ "wikilink")（Y60型）
-  - [小松フォークリフト](https://ja.wikipedia.org/wiki/コマツユーティリティ "wikilink")（CXシリーズ）
+  - [日産・サファリ](../Page/日産・サファリ.md "wikilink")（Y60型）
+  - [小松フォークリフト](../Page/コマツユーティリティ.md "wikilink")（CXシリーズ）
 
 ### TB45E / TB45S
 
@@ -36,8 +36,8 @@
 
 #### 搭載車種
 
-  - [日産・サファリ](https://ja.wikipedia.org/wiki/日産・サファリ "wikilink")（Y61型、Y60型）
-  - [日産・シビリアン](https://ja.wikipedia.org/wiki/日産・シビリアン "wikilink")/[いすゞ・ジャーニー](https://ja.wikipedia.org/wiki/いすゞ・ジャーニー "wikilink")（W41型）
+  - [日産・サファリ](../Page/日産・サファリ.md "wikilink")（Y61型、Y60型）
+  - [日産・シビリアン](../Page/日産・シビリアン.md "wikilink")/[いすゞ・ジャーニー](../Page/いすゞ・ジャーニー.md "wikilink")（W41型）
 
 ### TB48DE
 
@@ -50,11 +50,11 @@
 
 #### 搭載車種
 
-  - [日産・サファリ](https://ja.wikipedia.org/wiki/日産・サファリ "wikilink")（Y61型）
+  - [日産・サファリ](../Page/日産・サファリ.md "wikilink")（Y61型）
 
 ## 関連項目
 
-  - [日産自動車](https://ja.wikipedia.org/wiki/日産自動車 "wikilink")
-  - [日産のエンジン型式一覧](https://ja.wikipedia.org/wiki/日産のエンジン型式一覧 "wikilink")
+  - [日産自動車](../Page/日産自動車.md "wikilink")
+  - [日産のエンジン型式一覧](../Page/日産のエンジン型式一覧.md "wikilink")
 
 [Category:日産自動車のエンジン](https://ja.wikipedia.org/wiki/Category:日産自動車のエンジン "wikilink")

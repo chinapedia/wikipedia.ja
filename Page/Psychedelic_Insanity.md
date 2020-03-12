@@ -1,9 +1,9 @@
 > この記事は[Psychedelic Insanity](https://ja.wikipedia.org/wiki/Psychedelic_Insanity)から翻訳されています。
 
 
-**Psychedelic Insanity**（サイケデリック インサニティ）は、[宝野アリカ](https://ja.wikipedia.org/wiki/宝野アリカ "wikilink")と[片倉三起也](https://ja.wikipedia.org/wiki/片倉三起也 "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")、[ALI PROJECTの](https://ja.wikipedia.org/wiki/ALI_PROJECT "wikilink")9作目（インディーズから通算）のオリジナルアルバム。
+**Psychedelic Insanity**（サイケデリック インサニティ）は、[宝野アリカ](https://ja.wikipedia.org/wiki/宝野アリカ "wikilink")と[片倉三起也](../Page/片倉三起也.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")、[ALI PROJECTの](https://ja.wikipedia.org/wiki/ALI_PROJECT "wikilink")9作目（インディーズから通算）のオリジナルアルバム。
 
-『[Dilettante](../Page/Dilettante.md "wikilink")』以来2年2か月ぶりのオリジナルアルバム。収録曲数・最終トラックが[インストゥルメンタルとなることに前作との共通点がみられる](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")。 タイトルは直訳すると「サイケな狂気」。
+『[Dilettante](../Page/Dilettante.md "wikilink")』以来2年2か月ぶりのオリジナルアルバム。収録曲数・最終トラックが[インストゥルメンタルとなることに前作との共通点がみられる](../Page/器楽曲.md "wikilink")。 タイトルは直訳すると「サイケな狂気」。
 
 ## 収録曲
 
@@ -14,10 +14,10 @@
 2.  **暗黒サイケデリック**
       -
         楽曲タイトルはALI PROJECTの2007年におけるライブツアーのタイトルとしても採用されている。
-        2009年3月4日に稼動した[コナミデジタルエンタテインメント](https://ja.wikipedia.org/wiki/コナミデジタルエンタテインメント "wikilink")の[音楽ゲーム](../Page/音楽ゲーム.md "wikilink")『[pop'n music](https://ja.wikipedia.org/wiki/pop'n_music "wikilink") 17 THE MOVIE』にてジャンル「アリプロ2」で収録された。[PSP版](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")『pop'n music portable』にもジャンル「暗黒サイケデリック」として収録。
+        2009年3月4日に稼動した[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")の[音楽ゲーム](../Page/音楽ゲーム.md "wikilink")『[pop'n music](https://ja.wikipedia.org/wiki/pop'n_music "wikilink") 17 THE MOVIE』にてジャンル「アリプロ2」で収録された。[PSP版](../Page/PlayStation_Portable.md "wikilink")『pop'n music portable』にもジャンル「暗黒サイケデリック」として収録。
 3.  **CYBER DEVILS**
       -
-        歌詞が『[少女殉血](https://ja.wikipedia.org/wiki/Avenger_O.S.T. "wikilink")』等と同じように漢字部分以外カタカナで表記されている。もともと「**[GOD DIVA](https://ja.wikipedia.org/wiki/.hack/Roots#サウンドトラック "wikilink")**」「**[KING KNIGHT](https://ja.wikipedia.org/wiki/.hack/Roots#サウンドトラック "wikilink")**」の2曲と、3部作として作られた楽曲だったが、あまりに系統が違いすぎるために除外された。歌詞の内容は[中井英夫](../Page/中井英夫.md "wikilink")の短編「卵の王子たち」を意識したと思われる。
+        歌詞が『[少女殉血](../Page/Avenger_O.S.T..md "wikilink")』等と同じように漢字部分以外カタカナで表記されている。もともと「**[GOD DIVA](https://ja.wikipedia.org/wiki/.hack/Roots#サウンドトラック "wikilink")**」「**[KING KNIGHT](https://ja.wikipedia.org/wiki/.hack/Roots#サウンドトラック "wikilink")**」の2曲と、3部作として作られた楽曲だったが、あまりに系統が違いすぎるために除外された。歌詞の内容は[中井英夫](../Page/中井英夫.md "wikilink")の短編「卵の王子たち」を意識したと思われる。
 4.  **胡蝶夢心中**
       -
         [胡蝶の夢](https://ja.wikipedia.org/wiki/胡蝶の夢 "wikilink")は“この世の生の儚いことのたとえ”。
@@ -41,8 +41,8 @@
 ## 参加ミュージシャン
 
   - 作詞：[宝野アリカ](https://ja.wikipedia.org/wiki/宝野アリカ "wikilink")
-  - 作曲：[片倉三起也](https://ja.wikipedia.org/wiki/片倉三起也 "wikilink")
-  - 編曲：[片倉三起也](https://ja.wikipedia.org/wiki/片倉三起也 "wikilink")(M1，M2，M3，M4，M6，M7，M8)、[平野義久](https://ja.wikipedia.org/wiki/平野義久 "wikilink")(M9, M10)
+  - 作曲：[片倉三起也](../Page/片倉三起也.md "wikilink")
+  - 編曲：[片倉三起也](../Page/片倉三起也.md "wikilink")(M1，M2，M3，M4，M6，M7，M8)、[平野義久](https://ja.wikipedia.org/wiki/平野義久 "wikilink")(M9, M10)
   - ストリングスアレンジ：[渡辺剛](../Page/渡辺剛_\(ヴァイオリニスト\).md "wikilink")(M4, M6)
 
 ## クレジット
@@ -86,7 +86,7 @@
 
 <!-- end list -->
 
-  - 今作の宝野の衣裳は[少女貴族のスタイリングによる](https://ja.wikipedia.org/wiki/ゴスロリブランド一覧#少女貴族 "wikilink")[ゴシック・アンド・ロリータ](../Page/ゴシック・アンド・ロリータ.md "wikilink")や[ゴシック・ファッション](https://ja.wikipedia.org/wiki/ゴシック・ファッション "wikilink")ではなく、[ドラァグクイーン](https://ja.wikipedia.org/wiki/ドラァグクイーン "wikilink")の[紫泉](https://ja.wikipedia.org/wiki/紫泉 "wikilink")のコーディネートによる「**[サイバーゴス(Cyber Gothic)](https://ja.wikipedia.org/wiki/サイバーファッション "wikilink")**」というKERA系ファッションである。
+  - 今作の宝野の衣裳は[少女貴族のスタイリングによる](https://ja.wikipedia.org/wiki/ゴスロリブランド一覧#少女貴族 "wikilink")[ゴシック・アンド・ロリータ](../Page/ゴシック・アンド・ロリータ.md "wikilink")や[ゴシック・ファッション](../Page/ゴシック・ファッション.md "wikilink")ではなく、[ドラァグクイーン](https://ja.wikipedia.org/wiki/ドラァグクイーン "wikilink")の[紫泉](https://ja.wikipedia.org/wiki/紫泉 "wikilink")のコーディネートによる「**[サイバーゴス(Cyber Gothic)](../Page/サイバーファッション.md "wikilink")**」というKERA系ファッションである。
 
 ## 脚注
 

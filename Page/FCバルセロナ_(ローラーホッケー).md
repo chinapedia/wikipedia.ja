@@ -1,7 +1,7 @@
 > この記事は[FC \(\)](https://ja.wikipedia.org/wiki/FC_\(\))から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Pista_de_Gel_FC_Barcelona.JPG "wikilink") **FCバルセロナ・オケイ**（）は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[バルセロナ](../Page/バルセロナ.md "wikilink")を本拠地とする[ローラーホッケー](https://ja.wikipedia.org/wiki/ローラーホッケー "wikilink")チーム。総合スポーツクラブである[FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")の一部である。スペインの[OKリーガ](https://ja.wikipedia.org/wiki/OKリーガ "wikilink")に属している。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Pista_de_Gel_FC_Barcelona.JPG "wikilink") **FCバルセロナ・オケイ**（）は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[バルセロナ](../Page/バルセロナ.md "wikilink")を本拠地とする[ローラーホッケー](../Page/ローラーホッケー.md "wikilink")チーム。総合スポーツクラブである[FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")の一部である。スペインの[OKリーガ](https://ja.wikipedia.org/wiki/OKリーガ "wikilink")に属している。
 
 [パラウ・ブラウグラナ](https://ja.wikipedia.org/wiki/パラウ・ブラウグラナ "wikilink")がホームアリーナであり、[FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")の[バスケットボール](../Page/FCバルセロナ_\(バスケットボール\).md "wikilink")、[フットサル](../Page/FCバルセロナ_\(フットサル\).md "wikilink")、[ハンドボールとともに計](../Page/FCバルセロナ_\(ハンドボール\).md "wikilink")4チームで共同利用している。
 

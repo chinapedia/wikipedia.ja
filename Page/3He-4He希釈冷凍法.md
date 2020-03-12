@@ -14,7 +14,7 @@
 ## 関連項目
 
   - [断熱消磁](https://ja.wikipedia.org/wiki/断熱消磁 "wikilink")
-  - [冷凍機](https://ja.wikipedia.org/wiki/冷凍機 "wikilink")
+  - [冷凍機](../Page/冷凍機.md "wikilink")
   - [低温物理学](https://ja.wikipedia.org/wiki/低温物理学 "wikilink")
 
 ## 出典

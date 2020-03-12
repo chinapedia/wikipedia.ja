@@ -6,7 +6,7 @@
 ## 概要
 
   - 「[花の名](../Page/花の名.md "wikilink")」との同時発売で、2枚同時購入特典としてBUMP OF CHICKEN特製ネコ（[ニコル](https://ja.wikipedia.org/wiki/藤原基央#ニコル "wikilink")）バッジが数量限定で用意された。
-  - シングルでは「[車輪の唄](https://ja.wikipedia.org/wiki/車輪の唄 "wikilink")」以来となる、メンバーの写真がジャケットに使用された。ジャケット表面に「BUMP」、裏面には「メーデー」と火文字で書かれていて、撮影は[山梨県](../Page/山梨県.md "wikilink")の[西湖で行われた](https://ja.wikipedia.org/wiki/西湖_\(富士五湖\) "wikilink")。
+  - シングルでは「[車輪の唄](../Page/車輪の唄.md "wikilink")」以来となる、メンバーの写真がジャケットに使用された。ジャケット表面に「BUMP」、裏面には「メーデー」と火文字で書かれていて、撮影は[山梨県](../Page/山梨県.md "wikilink")の[西湖で行われた](../Page/西湖_\(富士五湖\).md "wikilink")。
 
 ## 収録曲
 
@@ -17,15 +17,15 @@
 1.  **メーデー**
       -
         タイトルの「メーデー」は[5月1日](../Page/5月1日.md "wikilink")に行われる[労働祭のことではなく](../Page/メーデー.md "wikilink")、船や飛行機などで使われる救難信号の「[メーデー](https://ja.wikipedia.org/wiki/メーデー_\(遭難信号\) "wikilink")」を意味する\[1\]。曲中には、モールス信号を思わせる電子音が使われている箇所がある。
-        アルバム『[orbital period](https://ja.wikipedia.org/wiki/orbital_period_\(アルバム\) "wikilink")』に収録されているが、アルバムではシングルバージョンに比べて前奏が約7秒カットされている。これはディレクターの「"メーデー"をアルバムに入れるときは、前奏を長くして入れよう」という発案がきっかけで\[2\][インストゥルメンタル曲](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")「星の鳥」が制作されたためである。また、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、[2011年](../Page/2011年.md "wikilink")、[2012年](../Page/2012年.md "wikilink")、[2013年](../Page/2013年.md "wikilink")のライブでは「星の鳥」と合わせて演奏されていた。
+        アルバム『[orbital period](https://ja.wikipedia.org/wiki/orbital_period_\(アルバム\) "wikilink")』に収録されているが、アルバムではシングルバージョンに比べて前奏が約7秒カットされている。これはディレクターの「"メーデー"をアルバムに入れるときは、前奏を長くして入れよう」という発案がきっかけで\[2\][インストゥルメンタル曲](../Page/器楽曲.md "wikilink")「星の鳥」が制作されたためである。また、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、[2011年](../Page/2011年.md "wikilink")、[2012年](../Page/2012年.md "wikilink")、[2013年](../Page/2013年.md "wikilink")のライブでは「星の鳥」と合わせて演奏されていた。
         PVはシングル発売当初は発表されず、アルバム『[orbital period](https://ja.wikipedia.org/wiki/orbital_period_\(アルバム\) "wikilink")』の発売期になって発表された。2008年度の[SPACE SHOWER Music Video Awardsの](https://ja.wikipedia.org/wiki/SPACE_SHOWER_Music_Video_Awards "wikilink")「BEST YOUR CHOICE」部門において、「花の名」に次ぐ2位を獲得している。
-2.  **[ガラスのブルース](https://ja.wikipedia.org/wiki/FLAME_VEIN "wikilink") (28 years round)**
+2.  **[ガラスのブルース](../Page/FLAME_VEIN.md "wikilink") (28 years round)**
       -
-        アルバム『[FLAME VEIN](https://ja.wikipedia.org/wiki/FLAME_VEIN "wikilink")』収録曲のアコースティックバージョン。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に名古屋[ささしまサテライト](https://ja.wikipedia.org/wiki/ささしまサテライト "wikilink")内で行なわれたプラネタリウム・ライヴで披露したものから、コーラスが追加された。
+        アルバム『[FLAME VEIN](../Page/FLAME_VEIN.md "wikilink")』収録曲のアコースティックバージョン。[2005年](../Page/2005年.md "wikilink")に名古屋[ささしまサテライト](https://ja.wikipedia.org/wiki/ささしまサテライト "wikilink")内で行なわれたプラネタリウム・ライヴで披露したものから、コーラスが追加された。
 
 <!-- end list -->
 
-  - [隠しトラック](https://ja.wikipedia.org/wiki/隠しトラック "wikilink")に「**スターダストダンスホール**」（作詞・作曲:BUMP OF CHICKEN）が収録されている。メインボーカルは直井。
+  - [隠しトラック](../Page/隠しトラック.md "wikilink")に「**スターダストダンスホール**」（作詞・作曲:BUMP OF CHICKEN）が収録されている。メインボーカルは直井。
 
 ## 収録アルバム
 

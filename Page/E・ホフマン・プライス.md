@@ -1,7 +1,7 @@
 > この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
 
 
-**エドガー・ホフマン・プライス**（**Edgar Hoffmann Trooper Price**、[1898年](../Page/1898年.md "wikilink")[7月3日](https://ja.wikipedia.org/wiki/7月3日 "wikilink") - [1988年](../Page/1988年.md "wikilink")[6月18日](../Page/6月18日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")ファウラー出身の[作家](../Page/作家.md "wikilink")。
+**エドガー・ホフマン・プライス**（**Edgar Hoffmann Trooper Price**、[1898年](../Page/1898年.md "wikilink")[7月3日](../Page/7月3日.md "wikilink") - [1988年](../Page/1988年.md "wikilink")[6月18日](../Page/6月18日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")ファウラー出身の[作家](../Page/作家.md "wikilink")。
 
 [SF](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")、[ホラー](../Page/ホラー小説.md "wikilink")、[犯罪小説](https://ja.wikipedia.org/wiki/犯罪#犯罪とフィクション "wikilink")、[ファンタジー](../Page/ファンタジー.md "wikilink")などの様々なジャンルの作品を残しているが、特に[ハワード・フィリップス・ラヴクラフト](../Page/ハワード・フィリップス・ラヴクラフト.md "wikilink")と合作した[クトゥルフ神話](https://ja.wikipedia.org/wiki/クトゥルフ神話 "wikilink")作品『銀の鍵の門を越えて(Through the Gates of the Silver Key)』で知られる。
 
@@ -11,7 +11,7 @@
 
 [フェンシング](../Page/フェンシング.md "wikilink")と[ボクシング](../Page/ボクシング.md "wikilink")でチャンピオンになった経験があり、アマチュア東洋学者でもあり、[アラビア語](../Page/アラビア語.md "wikilink")を学んでいた。
 
-『[アーゴシー](https://ja.wikipedia.org/wiki/アーゴシー "wikilink")(Argosy)』誌から『テラー・テイルズ(Terror Tales)』誌まで、あるいは『スピード・ディテクティブ(Speed Detective)』誌から『スパイシー・ミステリー・ストーリーズ(Spicy Mystery Stories)』誌まで、彼の執筆範囲は広く[パルプ・マガジン](../Page/パルプ・マガジン.md "wikilink")全体に及んだ。『[ウィアード・テイルズ](https://ja.wikipedia.org/wiki/ウィアード・テイルズ "wikilink")』誌においては、いわゆる“ラヴクラフト･サークル”のひとりとされ、[ロバート・E・ハワード](https://ja.wikipedia.org/wiki/ロバート・E・ハワード "wikilink")や[クラーク・アシュトン・スミス](https://ja.wikipedia.org/wiki/クラーク・アシュトン・スミス "wikilink")と並び賞された。
+『[アーゴシー](https://ja.wikipedia.org/wiki/アーゴシー "wikilink")(Argosy)』誌から『テラー・テイルズ(Terror Tales)』誌まで、あるいは『スピード・ディテクティブ(Speed Detective)』誌から『スパイシー・ミステリー・ストーリーズ(Spicy Mystery Stories)』誌まで、彼の執筆範囲は広く[パルプ・マガジン](../Page/パルプ・マガジン.md "wikilink")全体に及んだ。『[ウィアード・テイルズ](../Page/ウィアード・テイルズ.md "wikilink")』誌においては、いわゆる“ラヴクラフト･サークル”のひとりとされ、[ロバート・E・ハワード](../Page/ロバート・E・ハワード.md "wikilink")や[クラーク・アシュトン・スミス](../Page/クラーク・アシュトン・スミス.md "wikilink")と並び賞された。
 
 1930年代には[ニューオリンズ](https://ja.wikipedia.org/wiki/ニューオリンズ "wikilink")に在住し、しばらくユニオン・カーバイド社(Union Carbide Corporation)で働いている。その頃に彼は広く国内を旅行し、[O・A・クライン](../Page/O・A・クライン.md "wikilink")や[エドモンド・ハミルトン](../Page/エドモンド・ハミルトン.md "wikilink")を含む多くパルプ作家との親交を深めている。1930年代半ばのテキサスへの旅行で彼は、ロバート・E・ハワードと対面した唯一のパルプ作家となった。
 

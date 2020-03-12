@@ -1,7 +1,7 @@
 > この記事は[KISS](https://ja.wikipedia.org/wiki/KISS)から翻訳されています。
 
 
-『**KISSして・超能力少女**』（キスしてエスパーガール）とは、[八神千歳](https://ja.wikipedia.org/wiki/八神千歳 "wikilink")が「[ちゃお](https://ja.wikipedia.org/wiki/ちゃお "wikilink")」（[小学館](../Page/小学館.md "wikilink")）にて[2002年](../Page/2002年.md "wikilink")1月号に掲載した漫画作品である。
+『**KISSして・超能力少女**』（キスしてエスパーガール）とは、[八神千歳](../Page/八神千歳.md "wikilink")が「[ちゃお](https://ja.wikipedia.org/wiki/ちゃお "wikilink")」（[小学館](../Page/小学館.md "wikilink")）にて[2002年](../Page/2002年.md "wikilink")1月号に掲載した漫画作品である。
 
 当項目では当作品の続編についても一括して記す。
 

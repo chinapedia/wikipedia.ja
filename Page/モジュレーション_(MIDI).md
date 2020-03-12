@@ -1,9 +1,9 @@
 > この記事は[ \(MIDI\)](https://ja.wikipedia.org/wiki/_\(MIDI\))から翻訳されています。
 
 
-**モジュレーション**または**モジュレーション・デプス** () は、[MIDI](../Page/MIDI.md "wikilink")の[コントロールチェンジ](https://ja.wikipedia.org/wiki/コントロールチェンジ "wikilink")のひとつ。モジュレーション・ホイールなどの操作によって、主に[ビブラート](../Page/ビブラート.md "wikilink")効果を与える際に使用される。コントロール番号1。
+**モジュレーション**または**モジュレーション・デプス** () は、[MIDI](../Page/MIDI.md "wikilink")の[コントロールチェンジ](../Page/コントロールチェンジ.md "wikilink")のひとつ。モジュレーション・ホイールなどの操作によって、主に[ビブラート](../Page/ビブラート.md "wikilink")効果を与える際に使用される。コントロール番号1。
 
-MIDIでのビブラート効果とは、[LFO](https://ja.wikipedia.org/wiki/LFO_\(電子楽器\) "wikilink")[ピッチ](../Page/音高.md "wikilink")[変調](https://ja.wikipedia.org/wiki/変調 "wikilink")であり、モジュレーション・デプスはその深さ（強さ）を制御する。なお、[ピッチベンド](https://ja.wikipedia.org/wiki/ピッチベンド "wikilink")を使うことで、LFOによらないビブラートを表現することもできる。
+MIDIでのビブラート効果とは、[LFO](../Page/LFO_\(電子楽器\).md "wikilink")[ピッチ](../Page/音高.md "wikilink")[変調](https://ja.wikipedia.org/wiki/変調 "wikilink")であり、モジュレーション・デプスはその深さ（強さ）を制御する。なお、[ピッチベンド](../Page/ピッチベンド.md "wikilink")を使うことで、LFOによらないビブラートを表現することもできる。
 
 ## 仕様
 
@@ -25,7 +25,7 @@ MIDIでのビブラート効果とは、[LFO](https://ja.wikipedia.org/wiki/LFO_
   - 音量
   - LFOピッチ変調（ビブラート）
   - LFOフィルターカットオフ変調
-  - LFO音量変調（[トレモロ](https://ja.wikipedia.org/wiki/トレモロ "wikilink")）
+  - LFO音量変調（[トレモロ](../Page/トレモロ.md "wikilink")）
 
 ## 参考文献
 

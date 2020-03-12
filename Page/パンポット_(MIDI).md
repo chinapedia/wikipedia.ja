@@ -1,7 +1,7 @@
 > この記事は[ \(MIDI\)](https://ja.wikipedia.org/wiki/_\(MIDI\))から翻訳されています。
 
 
-**パンポット** () または**パン** () は、[MIDI](../Page/MIDI.md "wikilink")の[コントロールチェンジ](https://ja.wikipedia.org/wiki/コントロールチェンジ "wikilink")のひとつで、音像定位を左右方向の任意の位置に設定する。コントロール番号10。
+**パンポット** () または**パン** () は、[MIDI](../Page/MIDI.md "wikilink")の[コントロールチェンジ](../Page/コントロールチェンジ.md "wikilink")のひとつで、音像定位を左右方向の任意の位置に設定する。コントロール番号10。
 
 類似のコントロールチェンジに[バランス](https://ja.wikipedia.org/wiki/バランス・コントロール_\(MIDI\) "wikilink") (コントロール番号8) があり、ステレオスピーカーの左右の音量バランスを設定する。
 

@@ -1,15 +1,15 @@
 > この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
 
 
-[188px](https://ja.wikipedia.org/wiki/ファイル:Musée_Mécanique_192.JPG "wikilink") 『**雷電II**』（らいでんツー）は[1993年](../Page/1993年.md "wikilink")に[セイブ開発](../Page/セイブ開発.md "wikilink")が制作・販売したアーケード用シューティングゲームである。『[雷電](https://ja.wikipedia.org/wiki/雷電_\(シューティングゲーム\) "wikilink")』の続編に当たる。
+[188px](https://ja.wikipedia.org/wiki/ファイル:Musée_Mécanique_192.JPG "wikilink") 『**雷電II**』（らいでんツー）は[1993年](../Page/1993年.md "wikilink")に[セイブ開発](../Page/セイブ開発.md "wikilink")が制作・販売したアーケード用シューティングゲームである。『[雷電](../Page/雷電_\(シューティングゲーム\).md "wikilink")』の続編に当たる。
 
 ## システム解説
 
-8方向レバー+2ボタン（ショット、[ボンバー](https://ja.wikipedia.org/wiki/ボム_\(シューティングゲーム\) "wikilink")）で[自機](../Page/自機.md "wikilink")の「超高空戦闘爆撃機・雷電マークII」を操作する。全8ステージ。このゲームはループ制で、最終ステージをクリアするとまた1面に戻る（但し、難易度が上がる）。ボンバーに拡散ボンバーが加わった。
+8方向レバー+2ボタン（ショット、[ボンバー](../Page/ボム_\(シューティングゲーム\).md "wikilink")）で[自機](../Page/自機.md "wikilink")の「超高空戦闘爆撃機・雷電マークII」を操作する。全8ステージ。このゲームはループ制で、最終ステージをクリアするとまた1面に戻る（但し、難易度が上がる）。ボンバーに拡散ボンバーが加わった。
 
 ## アイテム
 
-アイテムの種類及び効果は[雷電を参照](https://ja.wikipedia.org/wiki/雷電_\(シューティングゲーム\) "wikilink")。
+アイテムの種類及び効果は[雷電を参照](../Page/雷電_\(シューティングゲーム\).md "wikilink")。
 
   - バルカン（赤）:
 
@@ -115,7 +115,7 @@
 
 ## 移植作品
 
-  - [プレイステーション](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")（日本システム販売）
+  - [プレイステーション](../Page/PlayStation_\(ゲーム機\).md "wikilink")（日本システム販売）
   - [Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")
 
 ## 脚注

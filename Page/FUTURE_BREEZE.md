@@ -6,7 +6,7 @@
 ## 概要
 
   - テクノやトランスが続いた中、少し懐かしい雰囲気の曲にチェンジ。カップリングにはレゲエ・バージョンもあり、「夏」を強く意識した曲である。
-  - [PVは](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")[九十九里浜](../Page/九十九里浜.md "wikilink")にて撮影された
+  - [PVは](../Page/ミュージック・ビデオ.md "wikilink")[九十九里浜](../Page/九十九里浜.md "wikilink")にて撮影された
 
 ## 収録曲
 
@@ -14,7 +14,7 @@
 
 1.  **FUTURE BREEZE**
       - 作詞：[motsu](https://ja.wikipedia.org/wiki/motsu "wikilink") 作曲・編曲：[t-kimura](https://ja.wikipedia.org/wiki/t-kimura "wikilink")
-      - [TBS系](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")「[CDTV-Neo](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV#CDTV-Neo "wikilink")」オープニングテーマ
+      - [TBS系](../Page/TBSテレビ.md "wikilink")「[CDTV-Neo](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV#CDTV-Neo "wikilink")」オープニングテーマ
 2.  **Passenger Seat**
       - 作詞：[motsu](https://ja.wikipedia.org/wiki/motsu "wikilink") 作曲・編曲：[t-kimura](https://ja.wikipedia.org/wiki/t-kimura "wikilink")
 3.  **FUTURE BREEZE (Summer Breeze mix:t-kimura)**
@@ -37,6 +37,6 @@
 
 ## 関連項目
 
-  - [2002年の音楽](https://ja.wikipedia.org/wiki/2002年の音楽 "wikilink")
+  - [2002年の音楽](../Page/2002年の音楽.md "wikilink")
 
 [Category:M.o.v.eの楽曲](https://ja.wikipedia.org/wiki/Category:M.o.v.eの楽曲 "wikilink") [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:風を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:風を題材とした楽曲 "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")

@@ -1,16 +1,16 @@
 > この記事は[Absorb](https://ja.wikipedia.org/wiki/Absorb)から翻訳されています。
 
 
-**absorb**（アブソーブ）は、日本のアコースティックバンド。略称“**アブ**”。2008年に[日本クラウン](https://ja.wikipedia.org/wiki/日本クラウン "wikilink")よりメジャーデビュー。2010年解散。
+**absorb**（アブソーブ）は、日本のアコースティックバンド。略称“**アブ**”。2008年に[日本クラウン](../Page/日本クラウン.md "wikilink")よりメジャーデビュー。2010年解散。
 
 ## メンバー
 
   - 森 晴義（もり はるよし） Vo・Key
     [1981年](../Page/1981年.md "wikilink")[5月13日](../Page/5月13日.md "wikilink") –、[岐阜県](../Page/岐阜県.md "wikilink")[多治見市](../Page/多治見市.md "wikilink")出身、身長171cm。absorbのリーダー。absorb以外では**halyosy**（ハルヨシ）としても活動。
-    高校を中退し、[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")圏を歩いて旅をする中で、[民族音楽](../Page/民族音楽.md "wikilink")に感銘を受ける。absorbの楽曲の多くは彼による作詞・作曲である。また音楽以外の[絵画](../Page/絵画.md "wikilink")や[デザイン](../Page/デザイン.md "wikilink")などの才能もabsorbに生かしており、現在に至るまでのabsorbのウェブサイト、[CDジャケット](https://ja.wikipedia.org/wiki/CDジャケット "wikilink")、[フライヤー](https://ja.wikipedia.org/wiki/フライヤー "wikilink")など、主なデザインは彼が行っている。
+    高校を中退し、[アジア](../Page/アジア.md "wikilink")圏を歩いて旅をする中で、[民族音楽](../Page/民族音楽.md "wikilink")に感銘を受ける。absorbの楽曲の多くは彼による作詞・作曲である。また音楽以外の[絵画](../Page/絵画.md "wikilink")や[デザイン](../Page/デザイン.md "wikilink")などの才能もabsorbに生かしており、現在に至るまでのabsorbのウェブサイト、[CDジャケット](https://ja.wikipedia.org/wiki/CDジャケット "wikilink")、[フライヤー](../Page/フライヤー.md "wikilink")など、主なデザインは彼が行っている。
   - 中村 博（なかむら ひろし） Gt・cho
-    [1982年](../Page/1982年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink") –、[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")出身、身長180cm。リードギター。absorb以外では**is**（イズ）としても活動。
-    高校1年のときに友達のエレキギターを借りて遊んだことがきっかけとなり、ギタリストを志す。様々なバンドのギターサポート、及びスタジオミュージシャンとしての活動を続けつつ、ソロ時代の森晴義の音源にギターアレンジを加えてきた。森晴義と同じ[専門学校](../Page/専門学校.md "wikilink")という繋がりから、当初は「s+h」に[サポートメンバー](https://ja.wikipedia.org/wiki/サポートメンバー "wikilink")として参加。その後absorbに改名される際に正式メンバーとなる。彼も[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")[作曲](../Page/作曲.md "wikilink")を手がける。
+    [1982年](../Page/1982年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink") –、[大阪府](../Page/大阪府.md "wikilink")出身、身長180cm。リードギター。absorb以外では**is**（イズ）としても活動。
+    高校1年のときに友達のエレキギターを借りて遊んだことがきっかけとなり、ギタリストを志す。様々なバンドのギターサポート、及びスタジオミュージシャンとしての活動を続けつつ、ソロ時代の森晴義の音源にギターアレンジを加えてきた。森晴義と同じ[専門学校](../Page/専門学校.md "wikilink")という繋がりから、当初は「s+h」に[サポートメンバー](https://ja.wikipedia.org/wiki/サポートメンバー "wikilink")として参加。その後absorbに改名される際に正式メンバーとなる。彼も[作詞](../Page/作詞.md "wikilink")[作曲](../Page/作曲.md "wikilink")を手がける。
   - 笹原 翔太（ささはら しょうた） Vo・Gt
     [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[1月13日](../Page/1月13日.md "wikilink") –、[山口県](../Page/山口県.md "wikilink")出身、身長180cm。メイン[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")&[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")。absorb以外では**that**（ザット）としても活動。
     高校在学中からライブ活動を積極的に行い、さまざまなコンテストに入賞。[ワンマンライブ](https://ja.wikipedia.org/wiki/ワンマンライブ "wikilink")を毎月開催し、[自費出版](../Page/自費出版.md "wikilink")となる[CD](https://ja.wikipedia.org/wiki/CD "wikilink")を発売するなど、音楽活動を進める。高校卒業後、地元の大手[電力会社](https://ja.wikipedia.org/wiki/電力会社 "wikilink")に就職した後も音楽はやめることなく続け、absorbの前身となるs+hの活動も平行して行う。absorbとしてバンド結成した後も会社には勤務するものの、翌年の2007年に[退社](https://ja.wikipedia.org/wiki/退社 "wikilink")、[上京](../Page/上京.md "wikilink")する。
@@ -22,15 +22,15 @@
 ## 略歴
 
   - [2004年](../Page/2004年.md "wikilink")4月、当時17歳の笹原は、実家の山口県にて高校生活中より友人と音楽活動をしていた。そのウェブサイトから配信されていた「missing」に森晴義が独自にコーラスを付ける。このことが笹原と森を繋げるきっかけとなる。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")4月、森と笹原の2人で「S+H」を結成。音楽ランキングサイト「プレイヤーズ王国」において「bless you」が3ヶ月に渡り首位を独占。
+  - [2005年](../Page/2005年.md "wikilink")4月、森と笹原の2人で「S+H」を結成。音楽ランキングサイト「プレイヤーズ王国」において「bless you」が3ヶ月に渡り首位を独占。
   - 2005年8月、森と同じ専門学校出身の中村博がメンバーに加わる。
   - 2005年11月、バンド名をS+Hよりabsorbと改名し、[メジャーデビューへ向けて本格活動開始を発表](https://ja.wikipedia.org/wiki/メジャーレーベル "wikilink")。
-  - 中京地区で[2007年](../Page/2007年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")に放送された、バラエティ番組『[ノブナガ](../Page/ノブナガ.md "wikilink")』（[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")他）内のコーナー「[ごはんリレー](https://ja.wikipedia.org/wiki/ごはんリレー "wikilink")」に、三軒茶屋の商店街から偶然出演。森の自宅にて、コーナーを担当している[小泉エリ](https://ja.wikipedia.org/wiki/小泉エリ "wikilink")にバンド結成の元となった曲「missing」の生演奏と、森が前日食べたスパゲッティツナトマトソースを食べさせてあげた。後述する『未知導』は、このことがきっかけとなり、彼女のために作った曲である。
+  - 中京地区で[2007年](../Page/2007年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")に放送された、バラエティ番組『[ノブナガ](../Page/ノブナガ.md "wikilink")』（[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")他）内のコーナー「[ごはんリレー](../Page/ごはんリレー.md "wikilink")」に、三軒茶屋の商店街から偶然出演。森の自宅にて、コーナーを担当している[小泉エリ](../Page/小泉エリ.md "wikilink")にバンド結成の元となった曲「missing」の生演奏と、森が前日食べたスパゲッティツナトマトソースを食べさせてあげた。後述する『未知導』は、このことがきっかけとなり、彼女のために作った曲である。
   - 2007年[6月22日](../Page/6月22日.md "wikilink")、エレックレコードより『となりで』でインディーズデビュー。
   - 2007年[10月17日](../Page/10月17日.md "wikilink")、2nd Single「未知導」リリース。バラエティ番組『ノブナガ』内のコーナー「ごはんリレー」公式応援ソング。
-  - 2007年[12月12日](../Page/12月12日.md "wikilink")、動画共有サイト「[ニコニコ動画](https://ja.wikipedia.org/wiki/ニコニコ動画 "wikilink")」にhalyosyというハンドルネームにて、[VOCALOID](https://ja.wikipedia.org/wiki/VOCALOID "wikilink")ソフト「[初音ミク](https://ja.wikipedia.org/wiki/初音ミク "wikilink")」が歌唱する楽曲「[メルト](https://ja.wikipedia.org/wiki/supercell_\(アルバム\) "wikilink")」をカバーした作品を公開。この頃はabsorbやニコニコ動画のユーザーへの配慮もあり本人であることを伏せて活動するが、後に本名を名乗るようになる。その後いくつかのコラボ作品を公開する。
+  - 2007年[12月12日](../Page/12月12日.md "wikilink")、動画共有サイト「[ニコニコ動画](../Page/ニコニコ動画.md "wikilink")」にhalyosyというハンドルネームにて、[VOCALOID](../Page/VOCALOID.md "wikilink")ソフト「[初音ミク](../Page/初音ミク.md "wikilink")」が歌唱する楽曲「[メルト](https://ja.wikipedia.org/wiki/supercell_\(アルバム\) "wikilink")」をカバーした作品を公開。この頃はabsorbやニコニコ動画のユーザーへの配慮もあり本人であることを伏せて活動するが、後に本名を名乗るようになる。その後いくつかのコラボ作品を公開する。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")、ニコニコ動画に「[桜ノ雨](https://ja.wikipedia.org/wiki/桜ノ雨 "wikilink")」を投稿。ファン有志による合唱企画「桜ノ雨プロジェクト」には、5ヶ月間で約40の中学校、高等学校から文化祭や卒業式で使用したいとのオファーが届いた\[2\]\[3\]。
-  - 2008年[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")、「absorb/absorb feat.初音ミク」名義の「桜ノ雨」で[日本クラウン](https://ja.wikipedia.org/wiki/日本クラウン "wikilink")からメジャーデビュー。パッケージには初音ミクも描かれている。
+  - 2008年[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")、「absorb/absorb feat.初音ミク」名義の「桜ノ雨」で[日本クラウン](../Page/日本クラウン.md "wikilink")からメジャーデビュー。パッケージには初音ミクも描かれている。
   - [2009年](../Page/2009年.md "wikilink")、卒業シーズンにあわせて「桜ノ雨」を合唱する学校が全国80校以上になる見通しとニュースになる\[4\]\[5\]。
   - 2009年[4月15日](../Page/4月15日.md "wikilink")、メジャー第2弾となる「愛ノ詩」を発売。
   - 2009年[5月20日](../Page/5月20日.md "wikilink")、1stフルアルバム「we walk abreast」を発売。
@@ -130,7 +130,7 @@
 
 1.  Fire◎Flower
       - 作詞/森晴義 作曲/森晴義
-      - [鏡音レン歌唱版](https://ja.wikipedia.org/wiki/鏡音リン・レン "wikilink")（halyosy feat.鏡音レン名義）もあり、そちらは『[VOCALOID BEST from ニコニコ動画 (あか)](https://ja.wikipedia.org/wiki/VOCALOID_BEST_from_ニコニコ動画_\(あか\) "wikilink")』に、そのリメイク版「Fire◎Flower 2011」が『[EXIT TUNES PRESENTS Vocalonation feat.初音ミク](https://ja.wikipedia.org/wiki/EXIT_TUNES_PRESENTS_Vocalonation_feat.初音ミク "wikilink")』にそれぞれ収録されている。
+      - [鏡音レン歌唱版](../Page/鏡音リン・レン.md "wikilink")（halyosy feat.鏡音レン名義）もあり、そちらは『[VOCALOID BEST from ニコニコ動画 (あか)](https://ja.wikipedia.org/wiki/VOCALOID_BEST_from_ニコニコ動画_\(あか\) "wikilink")』に、そのリメイク版「Fire◎Flower 2011」が『[EXIT TUNES PRESENTS Vocalonation feat.初音ミク](https://ja.wikipedia.org/wiki/EXIT_TUNES_PRESENTS_Vocalonation_feat.初音ミク "wikilink")』にそれぞれ収録されている。
 2.  未知導-abreast ver.-
       - 作詞/森晴義 作曲/森晴義
 3.  愛ノ詩
@@ -237,7 +237,7 @@
   - 『未知導』 [CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")『[ノブナガ](../Page/ノブナガ.md "wikilink")』 [エンディング](https://ja.wikipedia.org/wiki/エンディング "wikilink")テーマ
   - 『手人手』 [テレビ神奈川](../Page/テレビ神奈川.md "wikilink")（tvk） あすの地球と子どもたち[CM](https://ja.wikipedia.org/wiki/CM "wikilink")ソング（2008年2\~3月放送分）
   - 『愛そう敵を』 [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")『[ドライブ A GO\!GO\!](https://ja.wikipedia.org/wiki/ドライブ_A_GO!GO! "wikilink")』　[エンディング](https://ja.wikipedia.org/wiki/エンディング "wikilink")テーマ（2008年7\~9月放送分）
-  - 『愛ノ詩』 [日本テレビ](../Page/日本テレビ放送網.md "wikilink")『[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")』 4月POWER PLAY（2009年4月放送分）、『[歌スタ\!\!](https://ja.wikipedia.org/wiki/歌スタ!! "wikilink")』 6月お題歌
+  - 『愛ノ詩』 [日本テレビ](../Page/日本テレビ放送網.md "wikilink")『[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")』 4月POWER PLAY（2009年4月放送分）、『[歌スタ\!\!](../Page/歌スタ!!.md "wikilink")』 6月お題歌
 
 ## 脚注
 
@@ -254,6 +254,6 @@
 1.  『DTM magazine』通巻172号（平成20年7月）、p.45
 2.  [新人ユニット「absorb」デビュー曲…中高から合唱オファー殺到](http://hochi.yomiuri.co.jp/entertainment/news/20081102-OHT1T00004.htm)、[スポーツ報知](../Page/スポーツ報知.md "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[11月2日](../Page/11月2日.md "wikilink")
 3.  [制服姿の“初音ミク”ジャケットも話題\! absorbのデビュー・シングル「桜ノ雨」に合唱オファーが殺到中](http://www.cdjournal.com/main/news/news.php?nno=21305)、[CDジャーナル](https://ja.wikipedia.org/wiki/CDジャーナル "wikilink")、2008年[11月6日](../Page/11月6日.md "wikilink")
-4.  [初音ミク「桜ノ雨」で卒業式…ネットで登場、希望殺到](http://www.yomiuri.co.jp/entertainment/news/20090225-OYT1T00578.htm)、[読売新聞](https://ja.wikipedia.org/wiki/読売新聞 "wikilink")、[2009年](../Page/2009年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")
+4.  [初音ミク「桜ノ雨」で卒業式…ネットで登場、希望殺到](http://www.yomiuri.co.jp/entertainment/news/20090225-OYT1T00578.htm)、[読売新聞](../Page/読売新聞.md "wikilink")、[2009年](../Page/2009年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")
 5.  [「桜ノ雨」を降らそうよ ネットで“産声” 卒業ソング大ヒット](http://www.tokyo-np.co.jp/article/thatu/list/CK2009022502000050.html)、東京新聞、2009年2月25日
 6.  [absorbを応援してくださるみなさまへ](http://www.absorb.asia/)、公式サイト、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[12月20日](../Page/12月20日.md "wikilink")

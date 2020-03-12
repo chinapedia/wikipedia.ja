@@ -9,15 +9,15 @@
 
 ## キャスト
 
-  - メーガン：[ナターシャ・リオン](https://ja.wikipedia.org/wiki/ナターシャ・リオン "wikilink")
-  - グレアム：[クレア・デュヴァル](https://ja.wikipedia.org/wiki/クレア・デュヴァル "wikilink")
+  - メーガン：[ナターシャ・リオン](../Page/ナターシャ・リオン.md "wikilink")
+  - グレアム：[クレア・デュヴァル](../Page/クレア・デュヴァル.md "wikilink")
   - メアリー：[キャシー・モリアーティ](https://ja.wikipedia.org/wiki/キャシー・モリアーティ "wikilink")
   - マイク：[ルポール](https://ja.wikipedia.org/wiki/ルポール "wikilink")
   - ナンシー：[ミンク・ストール](https://ja.wikipedia.org/wiki/ミンク・ストール "wikilink")
-  - ヒラリー：[メラニー・リンスキー](https://ja.wikipedia.org/wiki/メラニー・リンスキー "wikilink")　
-  - クレイトン：[キップ・パルデュー](https://ja.wikipedia.org/wiki/キップ・パルデュー "wikilink")
-  - ガールズバーで出会うレズビアン：[ジュリー・デルピー](https://ja.wikipedia.org/wiki/ジュリー・デルピー "wikilink")
-  - キンバリー：[ミシェル・ウィリアムズ](https://ja.wikipedia.org/wiki/ミシェル・ウィリアムズ_\(女優\) "wikilink")
+  - ヒラリー：[メラニー・リンスキー](../Page/メラニー・リンスキー.md "wikilink")　
+  - クレイトン：[キップ・パルデュー](../Page/キップ・パルデュー.md "wikilink")
+  - ガールズバーで出会うレズビアン：[ジュリー・デルピー](../Page/ジュリー・デルピー.md "wikilink")
+  - キンバリー：[ミシェル・ウィリアムズ](../Page/ミシェル・ウィリアムズ_\(女優\).md "wikilink")
 
 ## 外部リンク
 

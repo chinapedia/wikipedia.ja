@@ -5,7 +5,7 @@
 
 ## 解説
 
-初のセルフ・プロデュースによるシングル。[ニベア花王](https://ja.wikipedia.org/wiki/ニベア花王 "wikilink")「薬用ホワイトニングストレッチアップ」CMソング。制作風景を収めた「One Afternoon with OMOIDASUYO」\[1\]を収録したエンハンストCD仕様。
+初のセルフ・プロデュースによるシングル。[ニベア花王](../Page/ニベア花王.md "wikilink")「薬用ホワイトニングストレッチアップ」CMソング。制作風景を収めた「One Afternoon with OMOIDASUYO」\[1\]を収録したエンハンストCD仕様。
 
 「思い出すよ」および「Pretty Gooday (pretty good HALFBY remix)」では、女性[MCのBumble](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink") Beeをフィーチャリングしている。
 
@@ -13,7 +13,7 @@
 
 作詞・作曲・編曲はAYUSE KOZUEによる。
 
-1.  **eyes to eyes**：1stアルバム『[A♥K](https://ja.wikipedia.org/wiki/A・K "wikilink")』に収録
+1.  **eyes to eyes**：1stアルバム『[A♥K](../Page/A・K.md "wikilink")』に収録
 2.  **思い出すよ**：1stアルバム『A♥K』に収録
 3.  **Pretty Gooday** (pretty good HALFBY remix)
 4.  **eyes to eyes** (instrumental)

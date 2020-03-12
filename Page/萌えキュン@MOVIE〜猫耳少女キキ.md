@@ -21,9 +21,9 @@
 
 ### キャスト
 
-  - [鹿野優以](https://ja.wikipedia.org/wiki/鹿野優以 "wikilink")：猫耳のキキ&天使
+  - [鹿野優以](../Page/鹿野優以.md "wikilink")：猫耳のキキ&天使
   - [魚谷輝明](../Page/魚谷輝明.md "wikilink")：高木義郎
-  - [藍山みなみ](https://ja.wikipedia.org/wiki/藍山みなみ "wikilink")：高木の元カノ
+  - [藍山みなみ](../Page/藍山みなみ.md "wikilink")：高木の元カノ
   - [小林且弥](../Page/小林且弥.md "wikilink")：高木と元カノの共通の友人
 
 ## 第2弾「萌えキュン@MOVIE 恋するメイドカフェ」
@@ -41,8 +41,8 @@
 
 ### キャスト
 
-  - [琴乃](https://ja.wikipedia.org/wiki/琴乃 "wikilink") ：美咲
-  - [高槻純](https://ja.wikipedia.org/wiki/高槻純 "wikilink")：川口英樹
+  - [琴乃](../Page/琴乃.md "wikilink") ：美咲
+  - [高槻純](../Page/高槻純.md "wikilink")：川口英樹
   - [森田猛虎](https://ja.wikipedia.org/wiki/森田猛虎 "wikilink")
   - [平林鯛一](https://ja.wikipedia.org/wiki/平林鯛一 "wikilink")
 
@@ -60,7 +60,7 @@
 
   - [木嶋のりこ](https://ja.wikipedia.org/wiki/木嶋のりこ "wikilink")：愛流
   - [坪田秀雄](../Page/坪田秀雄.md "wikilink")：涼太
-  - [日高ゆりあ](https://ja.wikipedia.org/wiki/日高ゆりあ "wikilink")：？
+  - [日高ゆりあ](../Page/日高ゆりあ.md "wikilink")：？
   - [高東楓](https://ja.wikipedia.org/wiki/高東楓 "wikilink")：？
 
 ## 外部リンク

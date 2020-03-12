@@ -1,15 +1,15 @@
 > この記事は[W](https://ja.wikipedia.org/wiki/W)から翻訳されています。
 
 
-**ロバート・W・スミス**（**Robert W. Smith**, [1958年](../Page/1958年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[作曲家](../Page/作曲家.md "wikilink")、[編曲家](../Page/編曲家.md "wikilink")、[指揮者](../Page/指揮者.md "wikilink")、[音楽教師](https://ja.wikipedia.org/wiki/音楽教師 "wikilink")。主として[吹奏楽](../Page/吹奏楽.md "wikilink")や[映画音楽](https://ja.wikipedia.org/wiki/映画音楽 "wikilink")の作曲家として知られる。
+**ロバート・W・スミス**（**Robert W. Smith**, [1958年](../Page/1958年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[作曲家](../Page/作曲家.md "wikilink")、[編曲家](../Page/編曲家.md "wikilink")、[指揮者](../Page/指揮者.md "wikilink")、[音楽教師](https://ja.wikipedia.org/wiki/音楽教師 "wikilink")。主として[吹奏楽](../Page/吹奏楽.md "wikilink")や[映画音楽](../Page/映画音楽.md "wikilink")の作曲家として知られる。
 
 ## 略歴
 
 [アラバマ州](../Page/アラバマ州.md "wikilink")に生まれ、同州[トロイの](https://ja.wikipedia.org/wiki/トロイ_\(アラバマ州\) "wikilink")[トロイ州立大学](https://ja.wikipedia.org/wiki/トロイ州立大学 "wikilink")に入学、マーチングバンドで首席[トランペット](../Page/トランペット.md "wikilink")奏者を務める傍ら、[ポール・ヨーダー](https://ja.wikipedia.org/wiki/ポール・ヨーダー "wikilink")に師事して[作曲](../Page/作曲.md "wikilink")を習う。
 
-トロイ州立大学で音楽[学士](../Page/学士.md "wikilink")号を受けて卒業後、スミスは[フロリダへ移り](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")、1990年に[マイアミ大学で音楽](https://ja.wikipedia.org/wiki/マイアミ大学_\(フロリダ州\) "wikilink")[修士](https://ja.wikipedia.org/wiki/修士 "wikilink")号を取得した。また、この時期[アルフレッド・リード](../Page/アルフレッド・リード.md "wikilink")に師事している。
+トロイ州立大学で音楽[学士](../Page/学士.md "wikilink")号を受けて卒業後、スミスは[フロリダへ移り](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")、1990年に[マイアミ大学で音楽](../Page/マイアミ大学_\(フロリダ州\).md "wikilink")[修士](../Page/修士.md "wikilink")号を取得した。また、この時期[アルフレッド・リード](../Page/アルフレッド・リード.md "wikilink")に師事している。
 
-スミスは1997年にトロイに戻り、トロイ州立大学のバンドディレクターに就任する。以後、音楽産業プログラムの教授を務めながら、同バンドで指揮を行うとともに、多くの楽曲を作曲している。[ワーナー・ブラザース](https://ja.wikipedia.org/wiki/ワーナー・ブラザース "wikilink")出版社（[Warner/Chappell Music](https://ja.wikipedia.org/wiki/:en:Warner/Chappell_Music "wikilink")）の編集者を務めていたが、音楽出版部門のアルフレッド出版社（[Alfred Music Publishing](https://ja.wikipedia.org/wiki/:en:Alfred_Music_Publishing "wikilink")）への売却にあわせて職を辞し、バーンハウス社（[C. L. Barnhouse Company](https://ja.wikipedia.org/wiki/:en:C._L._Barnhouse_Company "wikilink")）に移籍して同社およびそのCDレーベルであるウォーキング・フロッグ・レコードの商品開発担当副社長に就いている。
+スミスは1997年にトロイに戻り、トロイ州立大学のバンドディレクターに就任する。以後、音楽産業プログラムの教授を務めながら、同バンドで指揮を行うとともに、多くの楽曲を作曲している。[ワーナー・ブラザース](../Page/ワーナー・ブラザース.md "wikilink")出版社（[Warner/Chappell Music](https://ja.wikipedia.org/wiki/:en:Warner/Chappell_Music "wikilink")）の編集者を務めていたが、音楽出版部門のアルフレッド出版社（[Alfred Music Publishing](https://ja.wikipedia.org/wiki/:en:Alfred_Music_Publishing "wikilink")）への売却にあわせて職を辞し、バーンハウス社（[C. L. Barnhouse Company](https://ja.wikipedia.org/wiki/:en:C._L._Barnhouse_Company "wikilink")）に移籍して同社およびそのCDレーベルであるウォーキング・フロッグ・レコードの商品開発担当副社長に就いている。
 
 ## 作品
 
@@ -17,7 +17,7 @@
 
   - アフリカの儀式と歌、宗教的典礼 *Africa: Ceremony, Song and Ritual*
   - 嵐の中へ *Into the storm*
-  - インチョン *Inchon* - [韓国](https://ja.wikipedia.org/wiki/大韓民国 "wikilink")・[仁川のこと](../Page/仁川広域市.md "wikilink")。[朝鮮戦争](https://ja.wikipedia.org/wiki/朝鮮戦争 "wikilink")に出兵した経験をもつスミスの父親の死去に際し、追悼の意味で作曲された。
+  - インチョン *Inchon* - [韓国](../Page/大韓民国.md "wikilink")・[仁川のこと](../Page/仁川広域市.md "wikilink")。[朝鮮戦争](https://ja.wikipedia.org/wiki/朝鮮戦争 "wikilink")に出兵した経験をもつスミスの父親の死去に際し、追悼の意味で作曲された。
   - 機関車大追跡 *The Great Locomotive Chase*
   - 交響曲第1番「神曲」 *The Divine Comedy (Symphony No. 1)* - [ダンテの](../Page/ダンテ・アリギエーリ.md "wikilink")『[神曲](../Page/神曲.md "wikilink")』をもとにした作品。
     1.  地獄篇 *The Inferno*

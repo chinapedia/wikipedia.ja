@@ -1,7 +1,7 @@
 > この記事は[Birthday eve ](https://ja.wikipedia.org/wiki/Birthday_eve_)から翻訳されています。
 
 
-「**Birthday eve〜誰よりも早い愛の歌〜**」（バースデイ・イヴ だれよりもはやいあいのうた）は、[DEEN](https://ja.wikipedia.org/wiki/DEEN "wikilink")の24枚目の[シングル](../Page/シングル.md "wikilink")。PVには麻生久美子が出演している。
+「**Birthday eve〜誰よりも早い愛の歌〜**」（バースデイ・イヴ だれよりもはやいあいのうた）は、[DEEN](../Page/DEEN.md "wikilink")の24枚目の[シングル](../Page/シングル.md "wikilink")。PVには麻生久美子が出演している。
 
 ## 収録トラックス
 
@@ -34,7 +34,7 @@
 
   - サポート
       - [塩谷哲](../Page/塩谷哲.md "wikilink"): Acoustic Piano (M-1)
-      - [沼澤尚](https://ja.wikipedia.org/wiki/沼澤尚 "wikilink"): Drums (M-1)
+      - [沼澤尚](../Page/沼澤尚.md "wikilink"): Drums (M-1)
       - HIDE (from [can/goo](https://ja.wikipedia.org/wiki/can/goo "wikilink")): Drums (M-2)
       - 仙道さおり: Percussion (M-2)
       - 酒井勇也 (from PICK2HAND): Bass (M-2)
@@ -47,6 +47,6 @@
 
 ## タイアップ
 
-  - [TBS系](../Page/TBSテレビ.md "wikilink")「[チューボーですよ\!](https://ja.wikipedia.org/wiki/チューボーですよ! "wikilink")」挿入歌
+  - [TBS系](../Page/TBSテレビ.md "wikilink")「[チューボーですよ\!](../Page/チューボーですよ!.md "wikilink")」挿入歌
 
 [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:DEENの楽曲](https://ja.wikipedia.org/wiki/Category:DEENの楽曲 "wikilink") [Category:ビーイング関連楽曲](https://ja.wikipedia.org/wiki/Category:ビーイング関連楽曲 "wikilink") [Category:池森秀一が制作した楽曲](https://ja.wikipedia.org/wiki/Category:池森秀一が制作した楽曲 "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink")

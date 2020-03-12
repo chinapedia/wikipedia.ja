@@ -1,11 +1,11 @@
 > この記事は[Mine](https://ja.wikipedia.org/wiki/Mine)から翻訳されています。
 
 
-『**mine**』（マイン）は、[飯塚雅弓](../Page/飯塚雅弓.md "wikilink")の9枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月7日](../Page/12月7日.md "wikilink")に[徳間ジャパンコミュニケーションズ](https://ja.wikipedia.org/wiki/徳間ジャパンコミュニケーションズ "wikilink")から発売された。
+『**mine**』（マイン）は、[飯塚雅弓](../Page/飯塚雅弓.md "wikilink")の9枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[12月7日](../Page/12月7日.md "wikilink")に[徳間ジャパンコミュニケーションズ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")から発売された。
 
 ## 概要
 
-『[BESTrawberry](https://ja.wikipedia.org/wiki/BESTrawberry "wikilink")』に続いて2005年にリリースされた3枚目のアルバムで、オリジナルアルバムとしては『[∞Infinity∞](../Page/∞Infinity∞.md "wikilink")』から1年5ヶ月ぶりで9枚目となる。
+『[BESTrawberry](../Page/BESTrawberry.md "wikilink")』に続いて2005年にリリースされた3枚目のアルバムで、オリジナルアルバムとしては『[∞Infinity∞](../Page/∞Infinity∞.md "wikilink")』から1年5ヶ月ぶりで9枚目となる。
 
 飯塚が全曲作詞を手がけており、飯塚の日々の思いを綴った作品となっている。
 
@@ -22,9 +22,9 @@ CDジャーナルは、「特に堂島孝平のペンによるクリスマス・
 **未来へ**
 **あいのはな**
 
-  - [Guitars](../Page/ギター.md "wikilink") & [Keyboards](../Page/キーボード_\(楽器\).md "wikilink") & [Programming](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")：[長谷川智樹](https://ja.wikipedia.org/wiki/長谷川智樹 "wikilink")
-  - [Strings](https://ja.wikipedia.org/wiki/ストリングス "wikilink")：[弦一徹グループ](https://ja.wikipedia.org/wiki/落合徹也 "wikilink")
-  - [Bass](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink") & [Percussions](../Page/パーカッション.md "wikilink")：阿部光一郎
+  - [Guitars](../Page/ギター.md "wikilink") & [Keyboards](../Page/キーボード_\(楽器\).md "wikilink") & [Programming](../Page/ミュージックシーケンサー.md "wikilink")：[長谷川智樹](../Page/長谷川智樹.md "wikilink")
+  - [Strings](https://ja.wikipedia.org/wiki/ストリングス "wikilink")：[弦一徹グループ](../Page/落合徹也.md "wikilink")
+  - [Bass](../Page/ベース_\(弦楽器\).md "wikilink") & [Percussions](../Page/パーカッション.md "wikilink")：阿部光一郎
   - [Drums](../Page/ドラムセット.md "wikilink")：小島徹也
 
 **Twinkle Wink**
@@ -37,7 +37,7 @@ CDジャーナルは、「特に堂島孝平のペンによるクリスマス・
 
 **おはようとシャンプー**
 
-  - Guitars & Programming：[加藤みちあき](https://ja.wikipedia.org/wiki/加藤みちあき "wikilink")
+  - Guitars & Programming：[加藤みちあき](../Page/加藤みちあき.md "wikilink")
   - [Trumpet](../Page/トランペット.md "wikilink")：西村浩二
 
 **チャンス\!\!**
@@ -61,7 +61,7 @@ CDジャーナルは、「特に堂島孝平のペンによるクリスマス・
 
 **君想う空に願う**
 
-  - [Piano](../Page/ピアノ.md "wikilink")：[大津美紀](https://ja.wikipedia.org/wiki/大津美紀 "wikilink")
+  - [Piano](../Page/ピアノ.md "wikilink")：[大津美紀](../Page/大津美紀.md "wikilink")
   - [Cello](../Page/チェロ.md "wikilink")：[徳澤青弦](https://ja.wikipedia.org/wiki/anonymass "wikilink")
 
 ## タイアップ

@@ -1,15 +1,15 @@
 > この記事は[BESTrawberry](https://ja.wikipedia.org/wiki/BESTrawberry)から翻訳されています。
 
 
-『**BESTrawberry**』（ベストロベリー）は、[飯塚雅弓](../Page/飯塚雅弓.md "wikilink")の2枚目の[ベストアルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月21日](../Page/7月21日.md "wikilink")に[徳間ジャパンコミュニケーションズ](https://ja.wikipedia.org/wiki/徳間ジャパンコミュニケーションズ "wikilink")から発売された。
+『**BESTrawberry**』（ベストロベリー）は、[飯塚雅弓](../Page/飯塚雅弓.md "wikilink")の2枚目の[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")に[徳間ジャパンコミュニケーションズ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")から発売された。
 
 ## 概要
 
-前作『[berry best](https://ja.wikipedia.org/wiki/berry_best "wikilink")』から6年5か月ぶりとなる2枚目のベストアルバム。移籍後初となるベストアルバムで、[徳間ジャパンコミュニケーションズ](https://ja.wikipedia.org/wiki/徳間ジャパンコミュニケーションズ "wikilink")からリリースされたシングル・アルバムが収録。
+前作『[berry best](https://ja.wikipedia.org/wiki/berry_best "wikilink")』から6年5か月ぶりとなる2枚目のベストアルバム。移籍後初となるベストアルバムで、[徳間ジャパンコミュニケーションズ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")からリリースされたシングル・アルバムが収録。
 
 雑誌・ラジオで、読者・リスナーから好きな曲を募集し、人気の高い曲と飯塚本人が思い入れのある曲をセレクションしている。
 
-同年2月6日に[SHIBUYA-AX](https://ja.wikipedia.org/wiki/SHIBUYA-AX "wikilink")で行われたツアーライブ『Strawberry Selection Tour 2005』を収録したDVDが同梱。
+同年2月6日に[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")で行われたツアーライブ『Strawberry Selection Tour 2005』を収録したDVDが同梱。
 
 ## 収録内容
 
@@ -27,7 +27,7 @@
 <td><p>1</p></td>
 <td><p>ひまわり</p></td>
 <td><p>5thアルバム『<a href="../Page/ひまわり_(飯塚雅弓のアルバム).md" title="wikilink">ひまわり</a>』</p></td>
-<td><p><a href="../Page/テレビ神奈川.md" title="wikilink">テレビ神奈川</a>『<a href="https://ja.wikipedia.org/wiki/アニメTV" title="wikilink">アニメTV</a>』エンディングテーマ</p></td>
+<td><p><a href="../Page/テレビ神奈川.md" title="wikilink">テレビ神奈川</a>『<a href="../Page/アニメTV.md" title="wikilink">アニメTV</a>』エンディングテーマ</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
@@ -51,7 +51,7 @@
 <td><p>5</p></td>
 <td><p>恋の色</p></td>
 <td><p>テレビ神奈川『アニメTV』2002年6月度エンディングテーマ<br />
-<a href="https://ja.wikipedia.org/wiki/千葉テレビ放送" title="wikilink">千葉テレビ</a>『<a href="https://ja.wikipedia.org/wiki/テレジオ" title="wikilink">テレジオ</a>5』2002年7月度テーマソング<br />
+<a href="../Page/千葉テレビ放送.md" title="wikilink">千葉テレビ</a>『<a href="../Page/テレジオ.md" title="wikilink">テレジオ</a>5』2002年7月度テーマソング<br />
 子供服ブランド『TINKERBELL』CMソング</p></td>
 <td></td>
 </tr>
@@ -101,7 +101,7 @@
 <tr class="odd">
 <td><p>13</p></td>
 <td><p>I'm in the Pink</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/音泉" title="wikilink">音泉</a>『<a href="https://ja.wikipedia.org/wiki/〜飯塚雅弓の月刊ラジオグランプリ〜_ともだち100人できるからっ♪" title="wikilink">〜飯塚雅弓の月刊ラジオグランプリ〜 ともだち100人できるからっ♪</a>』オープニングテーマ</p></td>
+<td><p><a href="../Page/音泉.md" title="wikilink">音泉</a>『<a href="../Page/〜飯塚雅弓の月刊ラジオグランプリ〜_ともだち100人できるからっ♪.md" title="wikilink">〜飯塚雅弓の月刊ラジオグランプリ〜 ともだち100人できるからっ♪</a>』オープニングテーマ</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -124,24 +124,24 @@
 **ひまわり**
 
   - [Drums](../Page/ドラムセット.md "wikilink") & [Tambourine](https://ja.wikipedia.org/wiki/タンブリング "wikilink")：渡嘉敷祐一
-  - [Bass](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")：岡沢茂
-  - [Guitars](../Page/ギター.md "wikilink")：[加藤道明](https://ja.wikipedia.org/wiki/加藤みちあき "wikilink")
+  - [Bass](../Page/ベース_\(弦楽器\).md "wikilink")：岡沢茂
+  - [Guitars](../Page/ギター.md "wikilink")：[加藤道明](../Page/加藤みちあき.md "wikilink")
   - [Piano](../Page/ピアノ.md "wikilink")：松田真人
   - [Flute](../Page/フルート.md "wikilink")：[山本拓夫](../Page/山本拓夫.md "wikilink")
-  - [Glocken](https://ja.wikipedia.org/wiki/グロッケンシュピール "wikilink")：[飯塚雅弓](../Page/飯塚雅弓.md "wikilink")
+  - [Glocken](../Page/グロッケンシュピール.md "wikilink")：[飯塚雅弓](../Page/飯塚雅弓.md "wikilink")
   - [Strings](https://ja.wikipedia.org/wiki/ストリングス "wikilink")：Joe Group
 
 ''' そよ風とカフェオレ '''
 
   - Drums：[矢部浩志](https://ja.wikipedia.org/wiki/矢部浩志 "wikilink")
-  - Bass：[沖山優司](https://ja.wikipedia.org/wiki/沖山優司 "wikilink")
+  - Bass：[沖山優司](../Page/沖山優司.md "wikilink")
   - Guitars：CHiBUN
-  - [Keyboards](../Page/キーボード_\(楽器\).md "wikilink") & [Programming](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")：中山努
-  - [Melodica](https://ja.wikipedia.org/wiki/鍵盤ハーモニカ "wikilink")：飯塚雅弓
+  - [Keyboards](../Page/キーボード_\(楽器\).md "wikilink") & [Programming](../Page/ミュージックシーケンサー.md "wikilink")：中山努
+  - [Melodica](../Page/鍵盤ハーモニカ.md "wikilink")：飯塚雅弓
 
 **小さな私から**
 
-  - Piano：[中西康晴](https://ja.wikipedia.org/wiki/中西康晴 "wikilink")
+  - Piano：[中西康晴](../Page/中西康晴.md "wikilink")
   - Strings：Joe Group
   - [French Horn](../Page/ホルン.md "wikilink")：南浩之
 
@@ -156,7 +156,7 @@
 
 **恋の色**
 
-  - Guitars & [Programming](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")：鈴木"CHiBUN"智文
+  - Guitars & [Programming](../Page/ミュージックシーケンサー.md "wikilink")：鈴木"CHiBUN"智文
   - Violin：加藤高志
   - Synthesizer Operator：坂元俊介
   - [Back Ground Vocals](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")：飯塚雅弓
@@ -197,12 +197,12 @@
   - Bass：美久月千春
   - Drums：佐野康夫
   - Piano：中西康晴
-  - [Strings](https://ja.wikipedia.org/wiki/ストリングス "wikilink")：[弦一徹グループ](https://ja.wikipedia.org/wiki/落合徹也 "wikilink")
+  - [Strings](https://ja.wikipedia.org/wiki/ストリングス "wikilink")：[弦一徹グループ](../Page/落合徹也.md "wikilink")
 
 **またね。**
 
-  - Guitar & Keyboards & Sound Produce：[長谷川智樹](https://ja.wikipedia.org/wiki/長谷川智樹 "wikilink")
-  - Keyboard & Chorus：[渡辺俊介](https://ja.wikipedia.org/wiki/渡辺俊介 "wikilink")
+  - Guitar & Keyboards & Sound Produce：[長谷川智樹](../Page/長谷川智樹.md "wikilink")
+  - Keyboard & Chorus：[渡辺俊介](../Page/渡辺俊介.md "wikilink")
   - Bass & [Triangle](../Page/トライアングル.md "wikilink") & Chorus：阿部光一郎
   - |Drums & [Percussions](../Page/パーカッション.md "wikilink")：小島徹也
   - Chorus：一木由佳子
@@ -217,7 +217,7 @@
 
   - Guitars & Drums & Keyboards：宅見将典
   - Bass：宮脇哲
-  - [Trumpet](../Page/トランペット.md "wikilink")：[エリック宮城](https://ja.wikipedia.org/wiki/エリック・ミヤシロ "wikilink")
+  - [Trumpet](../Page/トランペット.md "wikilink")：[エリック宮城](../Page/エリック・ミヤシロ.md "wikilink")
   - [Trombone](../Page/トロンボーン.md "wikilink")：清岡太郎
   - [Tenor Sax](../Page/サクソフォーン.md "wikilink")：淵野繁雄
 

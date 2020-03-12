@@ -9,7 +9,7 @@
 
 幅広い画像形式に対応する画像変換・管理ソフトウェアで、歴代[マッキントッシュの](../Page/Macintosh.md "wikilink")[バンドルソフトウェア](https://ja.wikipedia.org/wiki/バンドルソフトウェア "wikilink")でもある。
 
-[DTP](../Page/DTP.md "wikilink")の標準画像フォーマット[EPSや](../Page/Encapsulated_PostScript.md "wikilink")[TIFF](../Page/Tagged_Image_File_Format.md "wikilink")、ウェブページなどの標準の画像フォーマットの[JPEG](../Page/JPEG.md "wikilink")、[GIFにも対応し](../Page/Graphics_Interchange_Format.md "wikilink")、大量の画像を自動的に変換する[バッチ処理](https://ja.wikipedia.org/wiki/バッチ処理 "wikilink")や[アップルスクリプト](../Page/AppleScript.md "wikilink")/Automator 処理も可能である。
+[DTP](../Page/DTP.md "wikilink")の標準画像フォーマット[EPSや](../Page/Encapsulated_PostScript.md "wikilink")[TIFF](../Page/Tagged_Image_File_Format.md "wikilink")、ウェブページなどの標準の画像フォーマットの[JPEG](../Page/JPEG.md "wikilink")、[GIFにも対応し](../Page/Graphics_Interchange_Format.md "wikilink")、大量の画像を自動的に変換する[バッチ処理](../Page/バッチ処理.md "wikilink")や[アップルスクリプト](../Page/AppleScript.md "wikilink")/Automator 処理も可能である。
 
 扱える画像フォーマットの例： PICT、Startup-Screen、PDF、MacPaint、TIFF (非圧縮、Packbits、CCITT3/4、lzw)、RIFF、PICS、8BIM、8BPS/PSD、 JPEG/JFIF、GIF、PCX /SCR、GEM-IMG/-XIMG、BMP (RLE で圧縮された BMP を含む)、ICO/ICN、PIC (16 bit)、 FLI/FLC、TGA、MSP、PIC (PC Paint)、SCX (ColoRIX)、SHP、WPG、PBM/PGM/PPM、CGM (only binary)、SUN 、  RLE、XBM、PM、IFF/LBM、PAC、Degas、TINY、NeoChrome、PIC (ATARI)、SPU/SPC、GEM-Metafile、 Animated NeoChrome、Imagic、ImageLab/Print Technic、HP-GL/2、FITS、SGI、DL、XWD、WMF、Scitex-CT、 DCX、KONTRON、Lotus-PIC、Dr. Halo、GRP、VFF、Apple IIgs、AMBER、TRS-80、VB HB600、ppat、QDV、CLP、 IPLab、SOFTIMAGE、GATAN、CVG、MSX、PNG、ART、RAW、PSION、 SIXEL、PCD、ST-X、ALIAS pix、MAG、 VITRONIC、CAM、PORST、NIF、TIM、AFP、BLD、GFX、FAX、SFW、PSION 5、BioRad、JBI、QNT、DICOM、KDC、 FAXstf、CALS、Sketch、qtif、ElectricImage、X-Face、 DJ1000、NASA Raster Metafile、Acorn Sprite、HSI-BUF、 FlashPix などの画像フォーマットが扱えます。
 

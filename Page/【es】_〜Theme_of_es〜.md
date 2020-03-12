@@ -6,7 +6,7 @@
 ## 概要
 
 前作から約5ヶ月ぶりのシングルとなるが、この間に[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")と[桑田佳祐\&Mr.Children](../Page/桑田佳祐&Mr.Children.md "wikilink")名義でコラボレーションシングル「[奇跡の地球](../Page/奇跡の地球.md "wikilink")」をリリースしている。
-4thシングル「[CROSS ROAD](https://ja.wikipedia.org/wiki/CROSS_ROAD_\(Mr.Childrenの曲\) "wikilink")」から5作連続で[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を達成した。初週で52.1万枚。累計売上は157.2万枚。
+4thシングル「[CROSS ROAD](../Page/CROSS_ROAD_\(Mr.Childrenの曲\).md "wikilink")」から5作連続で[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を達成した。初週で52.1万枚。累計売上は157.2万枚。
 本作の発売日がデビュー3周年であった。
 アートディレクターは[信藤三雄](../Page/信藤三雄.md "wikilink")。
 
@@ -17,7 +17,7 @@
     <!-- end list -->
       -
         歌い出しは[アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")一本から始まり、徐々にバンド音と[ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")が加わってくる。Bメロになる際に[転調](../Page/転調.md "wikilink")しているが、これは自然とそうなったらしい。
-        タイトルの日本語訳は「【es】のテーマ」で、文字通りドキュメンタリー映画『[【es】 Mr.Children in FILM](../Page/【es】_Mr.Children_in_FILM.md "wikilink")』の主題歌になっており、[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")とこの映画のエンディングは数ヶ所一致する場面がある。[2018年](../Page/2018年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")発売の『[Mr.Children DOME & STADIUM TOUR 2017 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_DOME_&_STADIUM_TOUR_2017_Thanksgiving_25 "wikilink")』に収録されており、監督は信藤三雄と小林武史。
+        タイトルの日本語訳は「【es】のテーマ」で、文字通りドキュメンタリー映画『[【es】 Mr.Children in FILM](../Page/【es】_Mr.Children_in_FILM.md "wikilink")』の主題歌になっており、[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")とこの映画のエンディングは数ヶ所一致する場面がある。[2018年](../Page/2018年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")発売の『[Mr.Children DOME & STADIUM TOUR 2017 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_DOME_&_STADIUM_TOUR_2017_Thanksgiving_25 "wikilink")』に収録されており、監督は信藤三雄と小林武史。
         この曲のヒントとなった言葉の「es」は、心理学用語では「[自我](../Page/自我.md "wikilink")の一種」となっている。次作「[シーソーゲーム 〜勇敢な恋の歌〜](../Page/シーソーゲーム_〜勇敢な恋の歌〜.md "wikilink")」の歌詞にも自我そのものを意味する「エゴ」という単語が使われ、また前作「[everybody goes -秩序のない現代にドロップキック-](https://ja.wikipedia.org/wiki/everybody_goes_-秩序のない現代にドロップキック- "wikilink")」のジャケットには「es」というロゴの入ったTシャツを着た「es君」が登場している。
         ライヴで披露されることはほとんどなかったが、[ap bank fes '10で久々に演奏され](https://ja.wikipedia.org/wiki/ap_bank_fes_'10 "wikilink")、翌年に行われたライブツアー『[Mr.Children Tour 2011 "SENSE"](https://ja.wikipedia.org/wiki/Mr.Children_Tour_2011_"SENSE" "wikilink")』でも披露されている。
         アウトロに[キング・クリムゾン](../Page/キング・クリムゾン.md "wikilink")のアルバム『[クリムゾン・キングの宮殿](../Page/クリムゾン・キングの宮殿.md "wikilink")』収録曲である「[クリムゾン・キングの宮殿](https://ja.wikipedia.org/wiki/クリムゾン・キングの宮殿_\(曲\) "wikilink")」のフレーズが引用されている。
@@ -25,7 +25,7 @@
       - 作詞：桜井和寿 作曲：桜井和寿・小林武史 編曲：小林武史 & Mr.Children
     <!-- end list -->
       -
-        4thアルバム『[Atomic Heart](https://ja.wikipedia.org/wiki/Atomic_Heart "wikilink")』収録曲の「雨のち晴れ」の[リミックス](../Page/リミックス.md "wikilink")バージョン。桜井による日記朗読のような間奏部分も入っている。
+        4thアルバム『[Atomic Heart](../Page/Atomic_Heart.md "wikilink")』収録曲の「雨のち晴れ」の[リミックス](../Page/リミックス.md "wikilink")バージョン。桜井による日記朗読のような間奏部分も入っている。
         演奏時間はMr.Childrenのスタジオレコーディング曲の中では最長である（全ての音源では、36thシングル『[ヒカリノアトリエ](https://ja.wikipedia.org/wiki/ヒカリノアトリエ "wikilink")』収録の[シークレット・トラック](https://ja.wikipedia.org/wiki/シークレット・トラック "wikilink")「Over (弾き+語りVersion)」が最長）。
         このバージョンは映画『【es】Mr.Children in FILM』でも確認できるように、『Mr.Children '94 tour innocent world』でのライヴバージョンとして製作されたもので、元々音源化する予定はなかったが、映画内で使用されていることや、このバージョンが好評であったことなどから収録された。
         ライヴでは寸劇スタイルを取り、実際に生演奏されるのは最後の2分半ほどで、それまではほぼテープ演奏によるものである。寸劇内容は歌詞の内容をそのまま表現したもの。
@@ -44,7 +44,7 @@
   - 『[BOLERO](../Page/BOLERO_\(Mr.Childrenのアルバム\).md "wikilink")』(\#1)
   - 『[Mr.Children 1992-1995](../Page/Mr.Children_1992-1995.md "wikilink")』(\#1)
   - 『[Mr.Children 1992-2002 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_1992-2002_Thanksgiving_25 "wikilink")』(\#1)
-  - 『[Atomic Heart](https://ja.wikipedia.org/wiki/Atomic_Heart "wikilink")』(\#2、原曲)
+  - 『[Atomic Heart](../Page/Atomic_Heart.md "wikilink")』(\#2、原曲)
   - 『[B-SIDE](../Page/B-SIDE.md "wikilink")』(\#2)
 
 [Category:Mr.Childrenの楽曲](https://ja.wikipedia.org/wiki/Category:Mr.Childrenの楽曲 "wikilink") [Category:1995年のシングル](https://ja.wikipedia.org/wiki/Category:1995年のシングル "wikilink") [Category:桜井和寿が制作した楽曲](https://ja.wikipedia.org/wiki/Category:桜井和寿が制作した楽曲 "wikilink") [Category:1995年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1995年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:日本映画の主題歌](https://ja.wikipedia.org/wiki/Category:日本映画の主題歌 "wikilink") [Category:楽曲_え](https://ja.wikipedia.org/wiki/Category:楽曲_え "wikilink") [Category:ホ長調](https://ja.wikipedia.org/wiki/Category:ホ長調 "wikilink")

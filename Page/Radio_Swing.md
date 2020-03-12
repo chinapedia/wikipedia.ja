@@ -1,7 +1,7 @@
 > この記事は[Radio Swing](https://ja.wikipedia.org/wiki/Radio_Swing)から翻訳されています。
 
 
-**Radio Swing**（レディオスウィング）は、日本の[ジャズ](../Page/ジャズ.md "wikilink")・[フュージョン](../Page/フュージョン_\(音楽\).md "wikilink")・[バンドである](../Page/バンド_\(音楽\).md "wikilink")。1994年、当時音楽学校[メーザーハウス](https://ja.wikipedia.org/wiki/メーザーハウス "wikilink")の[ギター](../Page/ギター.md "wikilink")科だった田村直樹と[ベース科だった谷](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink") 源昌によって結成されストリートで演奏活動をはじめた。1997年センチュリーレコードよりデビュー。99'[平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink") With Radio Swingとして「Ken's Bar」に出演。
+**Radio Swing**（レディオスウィング）は、日本の[ジャズ](../Page/ジャズ.md "wikilink")・[フュージョン](../Page/フュージョン_\(音楽\).md "wikilink")・[バンドである](../Page/バンド_\(音楽\).md "wikilink")。1994年、当時音楽学校[メーザーハウス](https://ja.wikipedia.org/wiki/メーザーハウス "wikilink")の[ギター](../Page/ギター.md "wikilink")科だった田村直樹と[ベース科だった谷](../Page/ベース_\(弦楽器\).md "wikilink") 源昌によって結成されストリートで演奏活動をはじめた。1997年センチュリーレコードよりデビュー。99'[平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink") With Radio Swingとして「Ken's Bar」に出演。
 
 ## メンバー
 

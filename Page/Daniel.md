@@ -1,7 +1,7 @@
 > この記事は[Daniel](https://ja.wikipedia.org/wiki/Daniel)から翻訳されています。
 
 
-『**Daniel**』（**ダニエル**）は[MONGOL800](../Page/MONGOL800.md "wikilink")のインディーズデビュー後4枚目のアルバムである。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[8月8日](../Page/8月8日.md "wikilink")にリリース。
+『**Daniel**』（**ダニエル**）は[MONGOL800](../Page/MONGOL800.md "wikilink")のインディーズデビュー後4枚目のアルバムである。[2006年](../Page/2006年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")にリリース。
 
 発売元は[ハイ・ウェーブ](../Page/ハイ・ウェーブ.md "wikilink")内の[レーベル](../Page/レコードレーベル.md "wikilink")、[TISSUE FREAK RECORDS](https://ja.wikipedia.org/wiki/TISSUE_FREAK_RECORDS "wikilink")。
 

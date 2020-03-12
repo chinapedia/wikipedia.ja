@@ -5,14 +5,14 @@
 
 ## 概要
 
-[テレゴング](https://ja.wikipedia.org/wiki/テレゴング "wikilink")を特化した アンケートや特集などを組んでいた、[視聴者参加型の](https://ja.wikipedia.org/wiki/視聴者参加型番組 "wikilink")[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")番組。直前の時間帯に放送されていた『[さんまのからくりTV](https://ja.wikipedia.org/wiki/さんまのSUPERからくりTV "wikilink")』の司会・[明石家さんま](../Page/明石家さんま.md "wikilink")も何度か出演したが、半年で打ち切られた。
+[テレゴング](../Page/テレゴング.md "wikilink")を特化した アンケートや特集などを組んでいた、[視聴者参加型の](https://ja.wikipedia.org/wiki/視聴者参加型番組 "wikilink")[生放送](../Page/生放送.md "wikilink")番組。直前の時間帯に放送されていた『[さんまのからくりTV](../Page/さんまのSUPERからくりTV.md "wikilink")』の司会・[明石家さんま](../Page/明石家さんま.md "wikilink")も何度か出演したが、半年で打ち切られた。
 
 ## 出演者
 
 ### 司会
 
   - [古舘伊知郎](../Page/古舘伊知郎.md "wikilink")
-  - [長野智子](https://ja.wikipedia.org/wiki/長野智子 "wikilink") - [古舘プロジェクト](../Page/古舘プロジェクト.md "wikilink")の所属者で、古舘が『[F1グランプリ](https://ja.wikipedia.org/wiki/F1グランプリ "wikilink")』の中継で出張した際の代理で出演。
+  - [長野智子](../Page/長野智子.md "wikilink") - [古舘プロジェクト](../Page/古舘プロジェクト.md "wikilink")の所属者で、古舘が『[F1グランプリ](https://ja.wikipedia.org/wiki/F1グランプリ "wikilink")』の中継で出張した際の代理で出演。
 
 ### ナレーター
 

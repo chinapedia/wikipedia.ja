@@ -1,11 +1,11 @@
 > この記事は[Oh!](https://ja.wikipedia.org/wiki/Oh!)から翻訳されています。
 
 
-『**二郎さんのOH\!マイおやじ**』（じろうさんのオー マイおやじ）は、[NET系列局で放送されていた](../Page/オールニッポン・ニュースネットワーク.md "wikilink")[朝日放送製作の](../Page/朝日放送テレビ.md "wikilink")[トーク番組](https://ja.wikipedia.org/wiki/トーク番組 "wikilink")である。[積水ハウス](https://ja.wikipedia.org/wiki/積水ハウス "wikilink")の一社提供（[提供クレジット](https://ja.wikipedia.org/wiki/提供クレジット "wikilink")表記は「セキスイハウス」）。製作局の朝日放送では1975年4月6日から1976年3月28日まで、毎週日曜 19:00 - 19:30 （[日本標準時](../Page/日本標準時.md "wikilink")）に放送。
+『**二郎さんのOH\!マイおやじ**』（じろうさんのオー マイおやじ）は、[NET系列局で放送されていた](../Page/オールニッポン・ニュースネットワーク.md "wikilink")[朝日放送製作の](../Page/朝日放送テレビ.md "wikilink")[トーク番組](../Page/トーク番組.md "wikilink")である。[積水ハウス](../Page/積水ハウス.md "wikilink")の一社提供（[提供クレジット](../Page/提供クレジット.md "wikilink")表記は「セキスイハウス」）。製作局の朝日放送では1975年4月6日から1976年3月28日まで、毎週日曜 19:00 - 19:30 （[日本標準時](../Page/日本標準時.md "wikilink")）に放送。
 
 ## 概要
 
-毎回[ABCホール](https://ja.wikipedia.org/wiki/ABCセンター#施設 "wikilink")（2代目）での公開収録を行っていた番組で、[坂上二郎](https://ja.wikipedia.org/wiki/坂上二郎 "wikilink")とその息子の[坂上大樹](https://ja.wikipedia.org/wiki/坂上大樹 "wikilink")が司会を務めていた。積水ハウスの一社提供番組であることから、19:00の時報後には同社の[オープニングキャッチ](../Page/オープニングキャッチ.md "wikilink")が流れるという構成になっていた。
+毎回[ABCホール](https://ja.wikipedia.org/wiki/ABCセンター#施設 "wikilink")（2代目）での公開収録を行っていた番組で、[坂上二郎](../Page/坂上二郎.md "wikilink")とその息子の[坂上大樹](https://ja.wikipedia.org/wiki/坂上大樹 "wikilink")が司会を務めていた。積水ハウスの一社提供番組であることから、19:00の時報後には同社の[オープニングキャッチ](../Page/オープニングキャッチ.md "wikilink")が流れるという構成になっていた。
 
 ## 放送局
 

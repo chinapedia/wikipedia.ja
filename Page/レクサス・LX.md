@@ -1,11 +1,11 @@
 > この記事は[LX](https://ja.wikipedia.org/wiki/LX)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Lexus_LX_570_IMG_0467.jpg "wikilink") **LX**（エルエックス, Lexus LX）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")が展開する[高級車](https://ja.wikipedia.org/wiki/高級車 "wikilink")ブランド「**[レクサス](https://ja.wikipedia.org/wiki/レクサス "wikilink")**」が販売するフラッグシップSUVである。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Lexus_LX_570_IMG_0467.jpg "wikilink") **LX**（エルエックス, Lexus LX）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")が展開する[高級車](../Page/高級車.md "wikilink")ブランド「**[レクサス](../Page/レクサス.md "wikilink")**」が販売するフラッグシップSUVである。
 
 ## 概要
 
-トヨタブランド（[トヨタ店](https://ja.wikipedia.org/wiki/トヨタ店 "wikilink")）として販売されている「[ランドクルーザー](https://ja.wikipedia.org/wiki/トヨタ・ランドクルーザー "wikilink")」の[姉妹車](../Page/姉妹車.md "wikilink")にあたり、初代モデルから3代目の途中まで北米を中心とした海外市場専用モデルとなっていったが、2015年に実施された2度目の[マイナーチェンジに伴い](https://ja.wikipedia.org/wiki/モデルチェンジ "wikilink")、[2015年](../Page/2015年.md "wikilink")8月から日本国内でも販売されることとなった。
+トヨタブランド（[トヨタ店](../Page/トヨタ店.md "wikilink")）として販売されている「[ランドクルーザー](https://ja.wikipedia.org/wiki/トヨタ・ランドクルーザー "wikilink")」の[姉妹車](../Page/姉妹車.md "wikilink")にあたり、初代モデルから3代目の途中まで北米を中心とした海外市場専用モデルとなっていったが、2015年に実施された2度目の[マイナーチェンジに伴い](../Page/モデルチェンジ.md "wikilink")、[2015年](../Page/2015年.md "wikilink")8月から日本国内でも販売されることとなった。
 
 日本では、LXの2代目モデルに相当する車種が、ランドクルーザーの上級グレード「ランドクルーザーシグナス」としてトヨタブランドから販売されていた。
 
@@ -13,19 +13,19 @@
 
 ## 初代「LX450」（1996年-1997年）FZJ80
 
-[1996年](../Page/1996年.md "wikilink")、レクサス初のプレミアムSUVとして主に北米で発売された。トヨタ「[ランドクルーザー（80系）](https://ja.wikipedia.org/wiki/トヨタ・ランドクルーザー#80系（1989年-1997年） "wikilink")」をベースに、[フロントグリル](https://ja.wikipedia.org/wiki/フロントグリル "wikilink")、[ヘッドライト](https://ja.wikipedia.org/wiki/前照灯 "wikilink")、フロント[バンパー](https://ja.wikipedia.org/wiki/バンパー "wikilink")、[アロイホイールをLX専用のデザインとし](../Page/アルミホイール.md "wikilink")、本革シートに木目パネルの装備や高品位の塗装などで、より上級の仕上げとしたものである。背面[スペアタイヤ](../Page/スペアタイヤ.md "wikilink")の設定は無い。
+[1996年](../Page/1996年.md "wikilink")、レクサス初のプレミアムSUVとして主に北米で発売された。トヨタ「[ランドクルーザー（80系）](https://ja.wikipedia.org/wiki/トヨタ・ランドクルーザー#80系（1989年-1997年） "wikilink")」をベースに、[フロントグリル](https://ja.wikipedia.org/wiki/フロントグリル "wikilink")、[ヘッドライト](../Page/前照灯.md "wikilink")、フロント[バンパー](../Page/バンパー.md "wikilink")、[アロイホイールをLX専用のデザインとし](../Page/アルミホイール.md "wikilink")、本革シートに木目パネルの装備や高品位の塗装などで、より上級の仕上げとしたものである。背面[スペアタイヤ](../Page/スペアタイヤ.md "wikilink")の設定は無い。
 
-エンジンは[直列6気筒](https://ja.wikipedia.org/wiki/直列6気筒 "wikilink") 4,500cc の[1FZ-FE型](../Page/トヨタ・FZエンジン.md "wikilink")、足回りは4輪コイル[リジッドと](../Page/車軸懸架.md "wikilink")、ランドクルーザー80系と共通である。[トランスミッション](../Page/トランスミッション.md "wikilink")は乗用車系の[アイシンAW製A](../Page/アイシン・エィ・ダブリュ.md "wikilink")343F型・4速[ATで](../Page/オートマチックトランスミッション.md "wikilink")、これも[北米向けランドクルーザー](../Page/北アメリカ.md "wikilink")80系と同様であるが、日本国内を含め、他の仕向地向けのランドクルーザー80系に搭載されている[ライトトラック用の](https://ja.wikipedia.org/wiki/ピックアップトラック "wikilink")[アイシン精機](https://ja.wikipedia.org/wiki/アイシン精機 "wikilink")製A442F型・4速ATに比べ、許容トルクや耐久性の面では下回るが、変速ショックや[騒音](https://ja.wikipedia.org/wiki/騒音 "wikilink")が少なく、重量も40kg程度軽い\[1\]。
+エンジンは[直列6気筒](../Page/直列6気筒.md "wikilink") 4,500cc の[1FZ-FE型](../Page/トヨタ・FZエンジン.md "wikilink")、足回りは4輪コイル[リジッドと](../Page/車軸懸架.md "wikilink")、ランドクルーザー80系と共通である。[トランスミッション](../Page/トランスミッション.md "wikilink")は乗用車系の[アイシンAW製A](../Page/アイシン・エィ・ダブリュ.md "wikilink")343F型・4速[ATで](../Page/オートマチックトランスミッション.md "wikilink")、これも[北米向けランドクルーザー](../Page/北アメリカ.md "wikilink")80系と同様であるが、日本国内を含め、他の仕向地向けのランドクルーザー80系に搭載されている[ライトトラック用の](../Page/ピックアップトラック.md "wikilink")[アイシン精機](../Page/アイシン精機.md "wikilink")製A442F型・4速ATに比べ、許容トルクや耐久性の面では下回るが、変速ショックや[騒音](../Page/騒音.md "wikilink")が少なく、重量も40kg程度軽い\[1\]。
 
-駆動方式はセンターデフ式のフルタイム[AWDのみで](../Page/四輪駆動.md "wikilink")、ランドクルーザー80系のフルタイム式HF2A型[トランスファー](../Page/トランスファー.md "wikilink")に、[ABSの動作を制限しないよう](https://ja.wikipedia.org/wiki/アンチロック・ブレーキ・システム "wikilink")、[ビスカスカップリング](../Page/ビスカスカップリング.md "wikilink")LSDが追加されたHF2AV型（Vはビスカスカップリング付きを表す）となっている。このトランスファーは2速（Hi 1.000、Lo 2.488）の[副変速機](https://ja.wikipedia.org/wiki/副変速機 "wikilink")も兼ねており、1輪への過大なトルクの集中を防ぐため、ローレンジでは強制的に直結となる。HF2AVは、ABSを装備する同時期のランドクルーザー80系にも採用されている。
+駆動方式はセンターデフ式のフルタイム[AWDのみで](../Page/四輪駆動.md "wikilink")、ランドクルーザー80系のフルタイム式HF2A型[トランスファー](../Page/トランスファー.md "wikilink")に、[ABSの動作を制限しないよう](../Page/アンチロック・ブレーキ・システム.md "wikilink")、[ビスカスカップリング](../Page/ビスカスカップリング.md "wikilink")LSDが追加されたHF2AV型（Vはビスカスカップリング付きを表す）となっている。このトランスファーは2速（Hi 1.000、Lo 2.488）の[副変速機](https://ja.wikipedia.org/wiki/副変速機 "wikilink")も兼ねており、1輪への過大なトルクの集中を防ぐため、ローレンジでは強制的に直結となる。HF2AVは、ABSを装備する同時期のランドクルーザー80系にも採用されている。
 
-生産は[アラコ](https://ja.wikipedia.org/wiki/アラコ "wikilink")（現・[トヨタ車体](https://ja.wikipedia.org/wiki/トヨタ車体 "wikilink")吉原工場）で、ボディーメーカーが生産を担当した初めてのレクサス車となった。
+生産は[アラコ](../Page/アラコ.md "wikilink")（現・[トヨタ車体](../Page/トヨタ車体.md "wikilink")吉原工場）で、ボディーメーカーが生産を担当した初めてのレクサス車となった。
 
-当時の北米市場ではレクサス車はまだあまり注目されておらず、LX450は走りの機能も内外装の仕様もランドクルーザー80系との差別性が乏しく、[フォードの](https://ja.wikipedia.org/wiki/フォード・モーター "wikilink")[リンカーン・ナビゲーター](../Page/リンカーン・ナビゲーター.md "wikilink")や[GMの](https://ja.wikipedia.org/wiki/ゼネラルモーターズ "wikilink")[キャデラック・エスカレード](https://ja.wikipedia.org/wiki/キャデラック・エスカレード "wikilink")など、他のプレミアムSUVの存在の前ではとても陰の薄い存在だった。その後、ランドクルーザー100系をベースとしたLX470となって成功を収めた。
+当時の北米市場ではレクサス車はまだあまり注目されておらず、LX450は走りの機能も内外装の仕様もランドクルーザー80系との差別性が乏しく、[フォードの](../Page/フォード・モーター.md "wikilink")[リンカーン・ナビゲーター](../Page/リンカーン・ナビゲーター.md "wikilink")や[GMの](../Page/ゼネラルモーターズ.md "wikilink")[キャデラック・エスカレード](../Page/キャデラック・エスカレード.md "wikilink")など、他のプレミアムSUVの存在の前ではとても陰の薄い存在だった。その後、ランドクルーザー100系をベースとしたLX470となって成功を収めた。
 
 しかしながら現在、中途半端とも言えたLX450の希少性に注目され、台数は少ないながら日本国内に逆輸入された個体も存在する。今も高い人気のランドクルーザー80系同様に、オフロード性能アップやハイライダー化へのサスペンションチューニングが容易で、パーツも揃っていることで一定の人気がある。
 
-  - LX450：[1FZ-FE](../Page/トヨタ・FZエンジン.md "wikilink") [直列6気筒](https://ja.wikipedia.org/wiki/直列6気筒 "wikilink") 4.5L [DOHC](../Page/DOHC.md "wikilink") [ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")
+  - LX450：[1FZ-FE](../Page/トヨタ・FZエンジン.md "wikilink") [直列6気筒](../Page/直列6気筒.md "wikilink") 4.5L [DOHC](../Page/DOHC.md "wikilink") [ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")
 
 <File:90-97> LandCruiser.jpg|トヨタ・ランドクルーザー80系
 
@@ -33,17 +33,17 @@
 
 ## 2代目「LX470」（1998年-2007年）UZJ100
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、トヨタ「ランドクルーザー」の[モデルチェンジ](https://ja.wikipedia.org/wiki/モデルチェンジ "wikilink")に伴いLXも2代目モデルへ移行。エンジンはレクサスの[フラグシップ](https://ja.wikipedia.org/wiki/フラグシップ "wikilink")である「[LS](../Page/レクサス・LS.md "wikilink")」の[V型8気筒](../Page/V型8気筒.md "wikilink")（[1UZ-FE型](https://ja.wikipedia.org/wiki/トヨタ・UZエンジン "wikilink")）をベースに排気量拡大・耐久性向上を図った4.7Lの[2UZ-FE型を搭載する](https://ja.wikipedia.org/wiki/トヨタ・UZエンジン "wikilink")。ヘッドライトは異型4灯式となり、フロントマスクは「[GS（2代目モデル）](https://ja.wikipedia.org/wiki/レクサス・GS#2代目_S16#L型（1998年_-_2005年） "wikilink")」を思わせる意匠となった。インテリアでは本木目パネル、パワーシートなどを新たに装備したほか、ステップ灯や室内灯に[LEDを大幅に採用](../Page/発光ダイオード.md "wikilink")、近[赤外線](../Page/赤外線.md "wikilink")ランプを用いた[暗視カメラ](https://ja.wikipedia.org/wiki/暗視カメラ "wikilink")など、レクサスの最高級SUVに相応しい上級装備をふんだんに搭載する。
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、トヨタ「ランドクルーザー」の[モデルチェンジ](../Page/モデルチェンジ.md "wikilink")に伴いLXも2代目モデルへ移行。エンジンはレクサスの[フラグシップ](https://ja.wikipedia.org/wiki/フラグシップ "wikilink")である「[LS](../Page/レクサス・LS.md "wikilink")」の[V型8気筒](../Page/V型8気筒.md "wikilink")（[1UZ-FE型](../Page/トヨタ・UZエンジン.md "wikilink")）をベースに排気量拡大・耐久性向上を図った4.7Lの[2UZ-FE型を搭載する](../Page/トヨタ・UZエンジン.md "wikilink")。ヘッドライトは異型4灯式となり、フロントマスクは「[GS（2代目モデル）](https://ja.wikipedia.org/wiki/レクサス・GS#2代目_S16#L型（1998年_-_2005年） "wikilink")」を思わせる意匠となった。インテリアでは本木目パネル、パワーシートなどを新たに装備したほか、ステップ灯や室内灯に[LEDを大幅に採用](../Page/発光ダイオード.md "wikilink")、近[赤外線](../Page/赤外線.md "wikilink")ランプを用いた[暗視カメラ](https://ja.wikipedia.org/wiki/暗視カメラ "wikilink")など、レクサスの最高級SUVに相応しい上級装備をふんだんに搭載する。
 
-生産は先代に続き、アラコ（現・[トヨタ車体](https://ja.wikipedia.org/wiki/トヨタ車体 "wikilink")）吉原工場が担当する。
+生産は先代に続き、アラコ（現・[トヨタ車体](../Page/トヨタ車体.md "wikilink")）吉原工場が担当する。
 
-シートの縫製や、パネルのチリ、塗装などの各面において極めて品質の高い自動車であり、市場調査会社[JDパワー](../Page/JDパワー.md "wikilink")による初期品質調査では、[2000年](../Page/2000年.md "wikilink")・[2002年](../Page/2002年.md "wikilink")・[2004年](../Page/2004年.md "wikilink")に、それぞれ高級SUV部門のトップとなっている。また、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")には、購入後3年間の評価による自動車信頼度調査でも、高級SUVのベストに認定された。\[2\] \[3\]
+シートの縫製や、パネルのチリ、塗装などの各面において極めて品質の高い自動車であり、市場調査会社[JDパワー](../Page/JDパワー.md "wikilink")による初期品質調査では、[2000年](../Page/2000年.md "wikilink")・[2002年](../Page/2002年.md "wikilink")・[2004年](../Page/2004年.md "wikilink")に、それぞれ高級SUV部門のトップとなっている。また、[2005年](../Page/2005年.md "wikilink")には、購入後3年間の評価による自動車信頼度調査でも、高級SUVのベストに認定された。\[2\] \[3\]
 
-[2002年](../Page/2002年.md "wikilink")8月にマイナーチェンジ。トヨタ自動車製の車種として初めて「可変レシオステアリング」（VGRS\[4\]）と、[ナイトビジョン](https://ja.wikipedia.org/wiki/ナイトビジョン#自動車のナイトビジョン・システム "wikilink")\[5\]を採用し、ATを4速から5速（5 Super ECT\[6\]）へ変更した。その他、[イモビライザー](https://ja.wikipedia.org/wiki/イモビライザー "wikilink")と盗難防止アラームの搭載、フロントグリルの意匠変更、インテリアの改良などが行われた。
+[2002年](../Page/2002年.md "wikilink")8月にマイナーチェンジ。トヨタ自動車製の車種として初めて「可変レシオステアリング」（VGRS\[4\]）と、[ナイトビジョン](https://ja.wikipedia.org/wiki/ナイトビジョン#自動車のナイトビジョン・システム "wikilink")\[5\]を採用し、ATを4速から5速（5 Super ECT\[6\]）へ変更した。その他、[イモビライザー](../Page/イモビライザー.md "wikilink")と盗難防止アラームの搭載、フロントグリルの意匠変更、インテリアの改良などが行われた。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")にもマイナーチェンジ。エンジンが改良され、230psから275psへと出力が向上。[リアコンビネーションランプを](https://ja.wikipedia.org/wiki/尾灯 "wikilink")[バルブからLEDへ変更](../Page/電球.md "wikilink")。その他、フロントグリルやホイールのデザインを変更。
+[2006年](../Page/2006年.md "wikilink")にもマイナーチェンジ。エンジンが改良され、230psから275psへと出力が向上。[リアコンビネーションランプを](../Page/尾灯.md "wikilink")[バルブからLEDへ変更](../Page/電球.md "wikilink")。その他、フロントグリルやホイールのデザインを変更。
 
-  - LX470：[V型8気筒](../Page/V型8気筒.md "wikilink")4.7L DOHCエンジン [2UZ-FE](https://ja.wikipedia.org/wiki/トヨタ・UZエンジン "wikilink")
+  - LX470：[V型8気筒](../Page/V型8気筒.md "wikilink")4.7L DOHCエンジン [2UZ-FE](../Page/トヨタ・UZエンジン.md "wikilink")
 
 {{-}}
 
@@ -51,20 +51,20 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:2005_Toyota_Land_Cruiser-cygnus_02.jpg "wikilink") 日本では、2代目LXに相当するモデルがトヨタブランドから「**ランドクルーザーシグナス**」の名称で発売されていた。LXとは以下の相違点がある。
 
-  - [エンブレム](https://ja.wikipedia.org/wiki/エンブレム "wikilink")など車両内外で、LXでは「LEXUS」と表記されている箇所がランドクルーザーシグナスでは全て「TOYOTA」に改められている。フロント・リアやステアリングに装着されるエンブレムのほか、ウインドウのMナンバー、フューエルリッドのコーションラベル、[シートベルト](https://ja.wikipedia.org/wiki/シートベルト "wikilink")の[タグ](https://ja.wikipedia.org/wiki/タグ "wikilink")など。
-  - [ATの違い](../Page/オートマチックトランスミッション.md "wikilink")。LXは[アイシンAW製の](../Page/アイシン・エィ・ダブリュ.md "wikilink")[乗用車](../Page/乗用車.md "wikilink")用、ランドクルーザーシグナスは[アイシン精機](https://ja.wikipedia.org/wiki/アイシン精機 "wikilink")製のSUV / [ライトトラック用を搭載する](https://ja.wikipedia.org/wiki/ピックアップトラック "wikilink")\[7\]。
+  - [エンブレム](../Page/エンブレム.md "wikilink")など車両内外で、LXでは「LEXUS」と表記されている箇所がランドクルーザーシグナスでは全て「TOYOTA」に改められている。フロント・リアやステアリングに装着されるエンブレムのほか、ウインドウのMナンバー、フューエルリッドのコーションラベル、[シートベルト](../Page/シートベルト.md "wikilink")の[タグ](../Page/タグ.md "wikilink")など。
+  - [ATの違い](../Page/オートマチックトランスミッション.md "wikilink")。LXは[アイシンAW製の](../Page/アイシン・エィ・ダブリュ.md "wikilink")[乗用車](../Page/乗用車.md "wikilink")用、ランドクルーザーシグナスは[アイシン精機](../Page/アイシン精機.md "wikilink")製のSUV / [ライトトラック用を搭載する](../Page/ピックアップトラック.md "wikilink")\[7\]。
   - 塗装色の選択肢の違い。「ギャラクティックグレイマイカ」「サンドダラーパール」などはLXのみの設定。
   - その他、パネルのチリや塗装などの各面において、レクサス車たるLXの方がより高水準の品質管理に基づき製造される。
   - 日本国内仕様として要求される技術仕様変更
       - 車幅灯のワット数やサイドマーカーの有無\[8\]。
-      - 日本の道路運送車両保安基準を満たすため、ランドクルーザーシグナスでは[サイドアンダーミラー](https://ja.wikipedia.org/wiki/サイドアンダーミラー "wikilink")が装着される。
-      - [ドアミラー](https://ja.wikipedia.org/wiki/ドアミラー "wikilink")の[曲率](../Page/曲率.md "wikilink")の違い。
+      - 日本の道路運送車両保安基準を満たすため、ランドクルーザーシグナスでは[サイドアンダーミラー](../Page/サイドアンダーミラー.md "wikilink")が装着される。
+      - [ドアミラー](../Page/ドアミラー.md "wikilink")の[曲率](../Page/曲率.md "wikilink")の違い。
 
 {{-}}
 
 ## 3代目「LX570」（2007年-）URJ200
 
-[2007年](../Page/2007年.md "wikilink")、3代目「LX570」へモデルチェンジ。車名が表す通り、V型8気筒エンジンは新開発の5.7L [3UR-FE型へ換装された](https://ja.wikipedia.org/wiki/トヨタ・URエンジン "wikilink")。同年4月の[ニューヨーク国際オートショー](https://ja.wikipedia.org/wiki/ニューヨーク国際オートショー "wikilink")で発表され、同年[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")で販売を開始。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")には[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")でも販売が開始された。また、[オーストラリア](../Page/オーストラリア.md "wikilink")や[インドネシア](../Page/インドネシア.md "wikilink")などの左側通行の国においては、右ハンドル仕様が販売されている。
+[2007年](../Page/2007年.md "wikilink")、3代目「LX570」へモデルチェンジ。車名が表す通り、V型8気筒エンジンは新開発の5.7L [3UR-FE型へ換装された](../Page/トヨタ・URエンジン.md "wikilink")。同年4月の[ニューヨーク国際オートショー](../Page/ニューヨーク国際オートショー.md "wikilink")で発表され、同年[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")で販売を開始。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")には[中国](../Page/中国.md "wikilink")、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")でも販売が開始された。また、[オーストラリア](../Page/オーストラリア.md "wikilink")や[インドネシア](../Page/インドネシア.md "wikilink")などの左側通行の国においては、右ハンドル仕様が販売されている。
 
 [2012年](../Page/2012年.md "wikilink")にはマイナーチェンジが実施され、フロントマスクがレクサスの新デザインアイコン「**スピンドルグリル**」に改められた。
 
@@ -73,7 +73,7 @@
   - 2015年8月20日
     同日、日本市場への導入を発表\[9\]。（9月14日発売）
     2度目のマイナーチェンジの実施に併せ、レクサスSUVラインアップのフラッグシップモデルとして日本でも発売することとなった。日本仕様は、V型8気筒5.7Lエンジンを搭載する「LX570」のみの設定。
-    エクステリアは、レクサスを象徴するスピンドルグリルに加え、三連フル[LEDヘッドランプ](../Page/発光ダイオード.md "wikilink")（ロー・ハイビーム）を採用するなど、最新のレクサス車に通ずる意匠とした。また、[ターンシグナルが流れるように点灯し](https://ja.wikipedia.org/wiki/方向指示器 "wikilink")、右左折時の注意喚起を高めると共に先進性を演出する「LEDシーケンシャルターンシグナルランプ」をレクサスでは初採用。また、タイヤ/ホイールは、285/50R20 112Hタイヤ＆20インチアルミホイール (切削光輝)を標準装備とし、275/50R21 110Hタイヤ＆21インチアルミホイール (切削光輝)をメーカーオプションで用意した。
+    エクステリアは、レクサスを象徴するスピンドルグリルに加え、三連フル[LEDヘッドランプ](../Page/発光ダイオード.md "wikilink")（ロー・ハイビーム）を採用するなど、最新のレクサス車に通ずる意匠とした。また、[ターンシグナルが流れるように点灯し](../Page/方向指示器.md "wikilink")、右左折時の注意喚起を高めると共に先進性を演出する「LEDシーケンシャルターンシグナルランプ」をレクサスでは初採用。また、タイヤ/ホイールは、285/50R20 112Hタイヤ＆20インチアルミホイール (切削光輝)を標準装備とし、275/50R21 110Hタイヤ＆21インチアルミホイール (切削光輝)をメーカーオプションで用意した。
     インテリアは、金属、革、本木目と異なる素材のコントラストを際立たせる意匠としたほか、水平基調のインストルメントパネルにより、車両の姿勢状態を容易に把握できるなど、本格SUVとしての基本性能も確保している。
     エンジンは、V型8気筒5.7L「3UR-FE」型を搭載。トランミッションはスーパーインテリジェント8速オートマチック（8 Super ECT）を組み合わせている。
     CUSTOMIZEモード搭載の「ドライブモードセレクト」をレクサスとして初採用。CUSTOMIZEモード選択時には、パワートレイン、シャシー、空調の各制御の組み合わせを自由に選択でき、よりドライバーの嗜好に応じた走行モードを実現する。
@@ -112,7 +112,7 @@
 ## 関連項目
 
   - [トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")
-  - [レクサス](https://ja.wikipedia.org/wiki/レクサス "wikilink")
+  - [レクサス](../Page/レクサス.md "wikilink")
   - [トヨタ・ランドクルーザー](https://ja.wikipedia.org/wiki/トヨタ・ランドクルーザー "wikilink")
 
 ## 外部リンク
@@ -126,7 +126,7 @@
 2.  [J.D. Power and Associates 2002 Initial Quality Study](http://www.jdpower.com/corporate/news/releases/pressrelease.asp?ID=2002040)
 3.  [Lexus Ranks Highest in Vehicle Dependability for the 11th Consecutive Year](http://www.jdpower.com/corporate/news/releases/pressrelease.asp?ID=2005089)
 4.  Variable Gear Ratio Steering の略。日本車としては[ホンダ・S2000](../Page/ホンダ・S2000.md "wikilink")のVGSに次ぐ2例目。
-5.  現在では[ナイトビュー](https://ja.wikipedia.org/wiki/ナイトビュー "wikilink")と呼称。近赤外線ランプと[近赤外線カメラを組み合わせ](https://ja.wikipedia.org/wiki/赤外線#近赤外線カメラ "wikilink")、[肉眼](../Page/肉眼.md "wikilink")では見えにくい暗闇の中の[人や](../Page/ヒト.md "wikilink")[動物](https://ja.wikipedia.org/wiki/動物 "wikilink")を[可視化](../Page/可視化.md "wikilink")する補助システム。ランプはフロントバンパー、カメラはフロントグリルにそれぞれ装備され、映像は[ダッシュボード上からフロントウインドシールド左下](https://ja.wikipedia.org/wiki/ダッシュボード_\(自動車\) "wikilink")（右ハンドルでは右下）に投影される。
+5.  現在では[ナイトビュー](https://ja.wikipedia.org/wiki/ナイトビュー "wikilink")と呼称。近赤外線ランプと[近赤外線カメラを組み合わせ](https://ja.wikipedia.org/wiki/赤外線#近赤外線カメラ "wikilink")、[肉眼](../Page/肉眼.md "wikilink")では見えにくい暗闇の中の[人や](../Page/ヒト.md "wikilink")[動物](https://ja.wikipedia.org/wiki/動物 "wikilink")を[可視化](../Page/可視化.md "wikilink")する補助システム。ランプはフロントバンパー、カメラはフロントグリルにそれぞれ装備され、映像は[ダッシュボード上からフロントウインドシールド左下](../Page/ダッシュボード_\(自動車\).md "wikilink")（右ハンドルでは右下）に投影される。
 6.  Electoronic Controlled Transmission の略。トヨタの電子制御式ATの名称。
 7.  騒音、変速ショックではアイシンAW 製が優れ、許容トルク容量、耐久性などはアイシン精機製が上回る。重量差は約40 kg。
 8.  北米は車幅灯10W、サイドマーカーあり、日本国内は車幅灯5W、サイドマーカーなし

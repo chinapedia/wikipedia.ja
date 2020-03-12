@@ -1,7 +1,7 @@
 > この記事は[  GOD SPEED LOVE](https://ja.wikipedia.org/wiki/__GOD_SPEED_LOVE)から翻訳されています。
 
 
-『**劇場版 仮面ライダーカブト GOD SPEED LOVE**』（げきじょうばん かめんライダーカブト ゴッド スピード ラブ）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[8月5日](../Page/8月5日.md "wikilink")より[東映](../Page/東映.md "wikilink")系で公開された、日本の映画作品。[特撮](../Page/特撮.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")シリーズ『[平成](../Page/平成.md "wikilink")[仮面ライダーシリーズ](https://ja.wikipedia.org/wiki/仮面ライダーシリーズ "wikilink")』の『[仮面ライダーカブト](../Page/仮面ライダーカブト.md "wikilink")』の劇場版作品にあたる。同時上映は『[轟轟戦隊ボウケンジャー THE MOVIE 最強のプレシャス](../Page/轟轟戦隊ボウケンジャー_THE_MOVIE_最強のプレシャス.md "wikilink")』。
+『**劇場版 仮面ライダーカブト GOD SPEED LOVE**』（げきじょうばん かめんライダーカブト ゴッド スピード ラブ）は、[2006年](../Page/2006年.md "wikilink")[8月5日](../Page/8月5日.md "wikilink")より[東映](../Page/東映.md "wikilink")系で公開された、日本の映画作品。[特撮](../Page/特撮.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")シリーズ『[平成](../Page/平成.md "wikilink")[仮面ライダーシリーズ](https://ja.wikipedia.org/wiki/仮面ライダーシリーズ "wikilink")』の『[仮面ライダーカブト](../Page/仮面ライダーカブト.md "wikilink")』の劇場版作品にあたる。同時上映は『[轟轟戦隊ボウケンジャー THE MOVIE 最強のプレシャス](../Page/轟轟戦隊ボウケンジャー_THE_MOVIE_最強のプレシャス.md "wikilink")』。
 
 キャッチコピーは「**この地球〈ほし〉に、未来を。人類の存亡を賭けて、宇宙での死闘が始まる。**」。
 
@@ -9,7 +9,7 @@
 
 **仮面ライダー生誕35周年記念作品**。前年までとは異なり夏休み期間へと公開が前倒しされ、以降の夏の劇場版も一部を除いて8月上旬の公開が踏襲されている。
 
-前年までと同様、テレビシリーズの物語とは基本的には関連のない[パラレルワールド](https://ja.wikipedia.org/wiki/パラレルワールド "wikilink")的作品でもあり、テレビシリーズとは世界観・設定から大きく異なるものとなっている。脚本はテレビシリーズのメインライターである[米村正二](../Page/米村正二.md "wikilink")が担当。
+前年までと同様、テレビシリーズの物語とは基本的には関連のない[パラレルワールド](../Page/パラレルワールド.md "wikilink")的作品でもあり、テレビシリーズとは世界観・設定から大きく異なるものとなっている。脚本はテレビシリーズのメインライターである[米村正二](../Page/米村正二.md "wikilink")が担当。
 
 本作品の見所として、[軌道エレベーター](https://ja.wikipedia.org/wiki/軌道エレベーター "wikilink")が登場する世界初の実写作品である点を含めたライダー初の宇宙戦や、[オリンピックのメダルに準えた金](../Page/近代オリンピック.md "wikilink")・銀・銅の映画オリジナルライダーの登場が挙げられる。配役面では格闘家・[武蔵の映画初出演](../Page/武蔵_\(格闘家\).md "wikilink")、『[仮面ライダー龍騎](../Page/仮面ライダー龍騎.md "wikilink")』にも出演した[森下千里](https://ja.wikipedia.org/wiki/森下千里 "wikilink")のライダー作品再出演が話題となった。また主役仮面ライダーの最強形態（仮面ライダーカブト ハイパーフォーム）の先行登場も、例年に引き続き盛り込まれている。
 
@@ -21,7 +21,7 @@
 
 [1999年](../Page/1999年.md "wikilink")、地球に衝突した巨大隕石は海の大半を蒸発させ、同時に地球外生命体・ワームが隕石から出現、瞬く間に広範囲を支配した。人類は対ワーム組織・ZECTを設立。マスクドライダーシステムを開発し、戦場に投入した。
 
-それから7年後の[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")。深刻な水不足に陥った地上でワームとライダーの戦いが続く中、ZECTに反旗を翻す一部メンバーが新組織・NEO ZECTを結成。ZECTはNEO ZECTの粛清に乗り出す。ZECTのライダー大和鉄騎＝ケタロス、矢車想＝ザビー率いる部隊に追いつめられるNEO ZECTの織田秀成＝ヘラクス、風間大介＝ドレイク、北斗修羅。そこへ天道総司＝カブトが乱入し、戦況は新たなる段階を迎える。
+それから7年後の[2006年](../Page/2006年.md "wikilink")。深刻な水不足に陥った地上でワームとライダーの戦いが続く中、ZECTに反旗を翻す一部メンバーが新組織・NEO ZECTを結成。ZECTはNEO ZECTの粛清に乗り出す。ZECTのライダー大和鉄騎＝ケタロス、矢車想＝ザビー率いる部隊に追いつめられるNEO ZECTの織田秀成＝ヘラクス、風間大介＝ドレイク、北斗修羅。そこへ天道総司＝カブトが乱入し、戦況は新たなる段階を迎える。
 
 折しもZECTでは、巨大[彗星](../Page/彗星.md "wikilink")が地球に接近する情報を掴んでいた。この彗星を引き寄せれば、地球に莫大な水を獲得でき、ZECTは益々権力を強めることができるのだ。ZECTは「天空の梯子」と呼ばれる[軌道エレベータ](https://ja.wikipedia.org/wiki/軌道エレベータ "wikilink")を用いて、「天空の梯子計画」を発令。天道よりこの情報を得たNEO ZECTも、ZECTの支配力増加を抑えるべく、計画の乗っ取りを画策する。
 
@@ -60,19 +60,19 @@
 
   - 身長：199cm / 体重：102kg / パンチ力：4.5t / キック力：8t / 走力：100mを5秒 / ジャンプ力：ひと跳び42m
 
-黒崎一誠が変身する。モチーフは[コーカサスオオカブト](https://ja.wikipedia.org/wiki/コーカサスオオカブト "wikilink")。基本カラーは[金色](https://ja.wikipedia.org/wiki/金色 "wikilink")。複眼の色は[青](../Page/青.md "wikilink")。「黄金の仮面ライダー」の異名を持ち、その呼び名に相応しいスペックと戦闘能力を持つ。また、[ハイパーゼクターを用いることでハイパークロックアップなどの各種能力を使用でき](https://ja.wikipedia.org/wiki/仮面ライダーカブト#仮面ライダーカブト "wikilink")、ライダービート（パンチ）も使用した。
+黒崎一誠が変身する。モチーフは[コーカサスオオカブト](../Page/コーカサスオオカブト.md "wikilink")。基本カラーは[金色](../Page/金色.md "wikilink")。複眼の色は[青](../Page/青.md "wikilink")。「黄金の仮面ライダー」の異名を持ち、その呼び名に相応しいスペックと戦闘能力を持つ。また、[ハイパーゼクターを用いることでハイパークロックアップなどの各種能力を使用でき](https://ja.wikipedia.org/wiki/仮面ライダーカブト#仮面ライダーカブト "wikilink")、ライダービート（パンチ）も使用した。
 
 必殺技はハイパーゼクターのゼクターホーンを倒すことで「Maximum Rider Power」という電子音声の発声とともにチャージアップ、カブティックゼクターを経由して脚部のライダーストンパーにマキシマムライダーパワーが送り込まれ威力を格段に強化した中段回し蹴りを放つ**ライダーキック**。
 
-初登場時に正座していたのはスーツアクターの[岡元次郎](https://ja.wikipedia.org/wiki/岡元次郎 "wikilink")の提案によるもので、武道のイメージと登場時のインパクトを意図している。
+初登場時に正座していたのはスーツアクターの[岡元次郎](../Page/岡元次郎.md "wikilink")の提案によるもので、武道のイメージと登場時のインパクトを意図している。
 
-[PS2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『仮面ライダーカブト』では[中田譲治](https://ja.wikipedia.org/wiki/中田譲治 "wikilink")が声を担当。[PS3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")・[Wii Uソフト](https://ja.wikipedia.org/wiki/Wii_U "wikilink")『[仮面ライダー バトライド・ウォーII](https://ja.wikipedia.org/wiki/仮面ライダー_バトライド・ウォー "wikilink")』では黒崎を演じた[武蔵が声を担当](../Page/武蔵_\(格闘家\).md "wikilink")。
+[PS2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『仮面ライダーカブト』では[中田譲治](../Page/中田譲治.md "wikilink")が声を担当。[PS3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")・[Wii Uソフト](https://ja.wikipedia.org/wiki/Wii_U "wikilink")『[仮面ライダー バトライド・ウォーII](https://ja.wikipedia.org/wiki/仮面ライダー_バトライド・ウォー "wikilink")』では黒崎を演じた[武蔵が声を担当](../Page/武蔵_\(格闘家\).md "wikilink")。
 
 #### 仮面ライダーヘラクス
 
   - 身長：197cm / 体重：100kg / パンチ力：4t / キック力：7t / 走力：100mを5.4秒 / ジャンプ力：ひと跳び37m
 
-織田秀成が変身する。モチーフは[ヘラクレスオオカブト](https://ja.wikipedia.org/wiki/ヘラクレスオオカブト "wikilink")。基本カラーは[銀色](https://ja.wikipedia.org/wiki/銀色 "wikilink")。複眼の色は[赤](../Page/赤.md "wikilink")。ゼクトクナイガン・ガンモードとアックスモードを携行し、距離を問わずバランスのとれた戦法を得意とするほか、マシンゼクトロンの操縦にも長ける。必殺技のアバランチブレイクはライダービートで強化して使用される。
+織田秀成が変身する。モチーフは[ヘラクレスオオカブト](../Page/ヘラクレスオオカブト.md "wikilink")。基本カラーは[銀色](../Page/銀色.md "wikilink")。複眼の色は[赤](../Page/赤.md "wikilink")。ゼクトクナイガン・ガンモードとアックスモードを携行し、距離を問わずバランスのとれた戦法を得意とするほか、マシンゼクトロンの操縦にも長ける。必殺技のアバランチブレイクはライダービートで強化して使用される。
 
 #### 仮面ライダーケタロス
 
@@ -80,7 +80,7 @@
 
 大和鉄騎が変身するマスクドライダー。モチーフは[ケンタウルスオオカブト](../Page/ケンタウルスオオカブト属.md "wikilink")。基本カラーは[銅](../Page/銅.md "wikilink")。複眼の色は[緑](../Page/緑.md "wikilink")。携行武器はゼクトクナイガン・クナイモードで、素早い戦術を得意とする。劇中未使用だが、必殺技のアバランチスラッシュはライダービートで強化して使用される。
 
-PS2版『仮面ライダーカブト』では[塩野勝美](https://ja.wikipedia.org/wiki/塩野勝美 "wikilink")が声を担当。
+PS2版『仮面ライダーカブト』では[塩野勝美](../Page/塩野勝美.md "wikilink")が声を担当。
 
 ##### ツール
 
@@ -122,16 +122,16 @@ PS2版『仮面ライダーカブト』では[塩野勝美](https://ja.wikipedia
   - 織田秀成 / 仮面ライダーヘラクス（声） - [小林且弥](../Page/小林且弥.md "wikilink")
   - 大和鉄騎 / 仮面ライダーケタロス（声） - [虎牙光揮](../Page/虎牙光揮.md "wikilink")
   - 黒崎一誠 / 仮面ライダーコーカサス（声） - [武蔵](../Page/武蔵_\(格闘家\).md "wikilink")
-  - 7年前のひより - [藤井玲奈](https://ja.wikipedia.org/wiki/藤沢玲花 "wikilink")
+  - 7年前のひより - [藤井玲奈](../Page/藤沢玲花.md "wikilink")
   - 7年前の天道 - ショーン・ウィーグ
   - 天道樹花 - [奥村夏未](../Page/奥村夏未.md "wikilink")
   - 日下部さとみ - [浅野香織](../Page/浅野香織.md "wikilink")
   - 北斗修羅 - [森下千里](https://ja.wikipedia.org/wiki/森下千里 "wikilink")
   - 矢車想 / 仮面ライダーザビー（声） - [徳山秀典](../Page/徳山秀典.md "wikilink")
-  - 風間大介 / 仮面ライダードレイク（声） - [加藤和樹](https://ja.wikipedia.org/wiki/加藤和樹 "wikilink")
-  - 岬祐月 - [永田杏奈](https://ja.wikipedia.org/wiki/永田杏奈 "wikilink")
+  - 風間大介 / 仮面ライダードレイク（声） - [加藤和樹](../Page/加藤和樹.md "wikilink")
+  - 岬祐月 - [永田杏奈](../Page/永田杏奈.md "wikilink")
   - 三島正人 - [弓削智久](../Page/弓削智久.md "wikilink")
-  - 客 - [次長課長](https://ja.wikipedia.org/wiki/次長課長 "wikilink")（[井上聡](https://ja.wikipedia.org/wiki/井上聡 "wikilink")・[河本準一](../Page/河本準一.md "wikilink")）
+  - 客 - [次長課長](https://ja.wikipedia.org/wiki/次長課長 "wikilink")（[井上聡](../Page/井上聡.md "wikilink")・[河本準一](../Page/河本準一.md "wikilink")）
   - 医者 - [佐戸井けん太](https://ja.wikipedia.org/wiki/佐戸井けん太 "wikilink")
   - 竹宮弓子 - [西牟田恵](../Page/西牟田恵.md "wikilink")
   - 田所修一 - [山口祥行](../Page/山口祥行.md "wikilink")
@@ -144,13 +144,13 @@ PS2版『仮面ライダーカブト』では[塩野勝美](https://ja.wikipedia
 
 ### スーツアクター
 
-  - 仮面ライダーカブト - [高岩成二](https://ja.wikipedia.org/wiki/高岩成二 "wikilink")
-  - 仮面ライダーガタック、仮面ライダーザビー - [伊藤慎](https://ja.wikipedia.org/wiki/伊藤慎 "wikilink")
-  - 仮面ライダードレイク - [押川善文](https://ja.wikipedia.org/wiki/押川善文 "wikilink")
+  - 仮面ライダーカブト - [高岩成二](../Page/高岩成二.md "wikilink")
+  - 仮面ライダーガタック、仮面ライダーザビー - [伊藤慎](../Page/伊藤慎.md "wikilink")
+  - 仮面ライダードレイク - [押川善文](../Page/押川善文.md "wikilink")
   - 仮面ライダーサソード - [渡辺淳](../Page/渡辺淳_\(俳優\).md "wikilink")
   - 仮面ライダーヘラクス\[2\] - [大岩永徳](../Page/永徳_\(俳優\).md "wikilink")
-  - 仮面ライダーケタロス\[3\] - [永瀬尚希](https://ja.wikipedia.org/wiki/永瀬尚希 "wikilink")
-  - 仮面ライダーコーカサス\[4\] - [岡元次郎](https://ja.wikipedia.org/wiki/岡元次郎 "wikilink")
+  - 仮面ライダーケタロス\[3\] - [永瀬尚希](../Page/永瀬尚希.md "wikilink")
+  - 仮面ライダーコーカサス\[4\] - [岡元次郎](../Page/岡元次郎.md "wikilink")
   - [藤榮史哉](../Page/藤榮史哉.md "wikilink")
   - 佐野弥生
   - 斉藤英長
@@ -171,9 +171,9 @@ PS2版『仮面ライダーカブト』では[塩野勝美](https://ja.wikipedia
   - 原作 - [石ノ森章太郎](../Page/石ノ森章太郎.md "wikilink")
   - 脚本 - [米村正二](../Page/米村正二.md "wikilink")
   - 音楽 - [蓜島邦明](../Page/はい島邦明.md "wikilink")
-  - 製作 - 福湯通夫（[東映](../Page/東映.md "wikilink")）、[高橋浩](https://ja.wikipedia.org/wiki/高橋浩 "wikilink")（[東映アニメーション](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")）、[亀山慶二](https://ja.wikipedia.org/wiki/亀山慶二 "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
+  - 製作 - 福湯通夫（[東映](../Page/東映.md "wikilink")）、[高橋浩](../Page/高橋浩.md "wikilink")（[東映アニメーション](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")）、[亀山慶二](https://ja.wikipedia.org/wiki/亀山慶二 "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
   - 企画 - [鈴木武幸](../Page/鈴木武幸.md "wikilink")（東映）、梅沢道彦（テレビ朝日）、日達長夫（[東映ビデオ](../Page/東映ビデオ.md "wikilink")）、竹中一博（[バンダイ](../Page/バンダイ.md "wikilink")）、永井秀之（[アサツー ディ・ケイ](https://ja.wikipedia.org/wiki/アサツー_ディ・ケイ "wikilink")）、福中脩（[東映エージエンシー](../Page/東映エージエンシー.md "wikilink")）
-  - 撮影 - [いのくままさお](https://ja.wikipedia.org/wiki/いのくままさお "wikilink")
+  - 撮影 - [いのくままさお](../Page/いのくままさお.md "wikilink")
   - 照明 - 斗沢秀
   - 美術 - [大嶋修一](https://ja.wikipedia.org/wiki/大嶋修一 "wikilink")
   - Bカメ - 宮本亘
@@ -181,15 +181,15 @@ PS2版『仮面ライダーカブト』では[塩野勝美](https://ja.wikipedia
   - 編集 - 長田直樹
   - プロデュース補 - 和佐野健一
   - キャラクターデザイン - [早瀬マサト](../Page/早瀬マサト.md "wikilink")（[石森プロ](https://ja.wikipedia.org/wiki/石森プロ "wikilink")）、[野中剛](../Page/野中剛.md "wikilink")・菊地和浩・小林大祐・田野辺尚伯（[PLEX](../Page/プレックス.md "wikilink")）
-  - クリーチャーデザイン - [韮沢靖](https://ja.wikipedia.org/wiki/韮沢靖 "wikilink")
+  - クリーチャーデザイン - [韮沢靖](../Page/韮沢靖.md "wikilink")
   - ZECT衣装デザイン - [出渕裕](../Page/出渕裕.md "wikilink")
-  - 妖精イラスト - [唐橋充](https://ja.wikipedia.org/wiki/唐橋充 "wikilink")
+  - 妖精イラスト - [唐橋充](../Page/唐橋充.md "wikilink")
   - 絵コンテ - 角田徳秀（サムズアップ）
   - 制作協力 - [東映テレビプロダクション](https://ja.wikipedia.org/wiki/東映テレビプロダクション "wikilink")
-  - 特撮監督 - [佛田洋](https://ja.wikipedia.org/wiki/佛田洋 "wikilink")
-  - アクション監督 - [宮崎剛](https://ja.wikipedia.org/wiki/宮崎剛_\(俳優\) "wikilink")（[ジャパンアクションエンタープライズ](https://ja.wikipedia.org/wiki/ジャパンアクションエンタープライズ "wikilink")）
+  - 特撮監督 - [佛田洋](../Page/佛田洋.md "wikilink")
+  - アクション監督 - [宮崎剛](../Page/宮崎剛_\(俳優\).md "wikilink")（[ジャパンアクションエンタープライズ](../Page/ジャパンアクションエンタープライズ.md "wikilink")）
   - スーパーバイザー - 小野寺章（石森プロ）
-  - プロデュース - [白倉伸一郎](https://ja.wikipedia.org/wiki/白倉伸一郎 "wikilink")、[武部直美](https://ja.wikipedia.org/wiki/武部直美 "wikilink")、[梶淳](https://ja.wikipedia.org/wiki/梶淳 "wikilink")（テレビ朝日）
+  - プロデュース - [白倉伸一郎](../Page/白倉伸一郎.md "wikilink")、[武部直美](https://ja.wikipedia.org/wiki/武部直美 "wikilink")、[梶淳](../Page/梶淳.md "wikilink")（テレビ朝日）
   - 制作 - 劇場版『カブト・ボウケンジャー』製作委員会（東映、東映アニメーション、テレビ朝日、東映ビデオ、アサツー ディ・ケイ、東映エージエンシー、バンダイ）
   - 監督 - [石田秀範](../Page/石田秀範.md "wikilink")
   - 配給 - 東映（ノンクレジット）
@@ -197,7 +197,7 @@ PS2版『仮面ライダーカブト』では[塩野勝美](https://ja.wikipedia
 ## 主題歌
 
   - 「[ONE WORLD](https://ja.wikipedia.org/wiki/ONE_WORLD_\(吉川晃司の曲\) "wikilink")」
-    作詞・作曲 - [吉川晃司](https://ja.wikipedia.org/wiki/吉川晃司 "wikilink") / 編曲 - [菅原弘明](../Page/菅原弘明.md "wikilink") / ストリングス編曲 - [斎藤ネコ](../Page/斎藤ネコ.md "wikilink") / 歌 - 吉川晃司（TKCA-73102）
+    作詞・作曲 - [吉川晃司](../Page/吉川晃司.md "wikilink") / 編曲 - [菅原弘明](../Page/菅原弘明.md "wikilink") / ストリングス編曲 - [斎藤ネコ](../Page/斎藤ネコ.md "wikilink") / 歌 - 吉川晃司（TKCA-73102）
 
 ## 映像ソフト化
 

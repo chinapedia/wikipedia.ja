@@ -1,13 +1,13 @@
 > この記事は[Berry best](https://ja.wikipedia.org/wiki/Berry_best)から翻訳されています。
 
 
-『**berry best**』（ベリー ベスト）は、[飯塚雅弓](../Page/飯塚雅弓.md "wikilink")の1枚目の[ベストアルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。[2001年](../Page/2001年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")に[パイオニアLDC](https://ja.wikipedia.org/wiki/パイオニアLDC "wikilink")から発売された。
+『**berry best**』（ベリー ベスト）は、[飯塚雅弓](../Page/飯塚雅弓.md "wikilink")の1枚目の[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")に[パイオニアLDC](https://ja.wikipedia.org/wiki/パイオニアLDC "wikilink")から発売された。
 
 ## 概要
 
 飯塚の1枚目のベストアルバムで、『[AERIS](../Page/AERIS.md "wikilink")』から6か月ぶりとなるアルバム。[パイオニアLDC](https://ja.wikipedia.org/wiki/パイオニアLDC "wikilink")からリリースされたアルバムは本アルバムが最後となった。
 
-初回限定盤(PICA-1213)と通常盤(PICA-1224)の計2種の仕様でリリースされた。飯塚のアルバムでは初となる試み。うち初回限定盤のみボックス仕様で、スフォトカードブックとインタビューや[ミュージッククリップを収録したDVDが同梱](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。通常盤はピクチャーレーベル仕様｡
+初回限定盤(PICA-1213)と通常盤(PICA-1224)の計2種の仕様でリリースされた。飯塚のアルバムでは初となる試み。うち初回限定盤のみボックス仕様で、スフォトカードブックとインタビューや[ミュージッククリップを収録したDVDが同梱](../Page/ミュージック・ビデオ.md "wikilink")。通常盤はピクチャーレーベル仕様｡
 
 ## 収録内容
 
@@ -123,7 +123,7 @@
 
 **ロマンチックだね**
 
-  - [Guitars](../Page/ギター.md "wikilink") & [Organ](../Page/オルガン.md "wikilink") & [Synthesizer](../Page/シンセサイザー.md "wikilink")：[長谷川智樹](https://ja.wikipedia.org/wiki/長谷川智樹 "wikilink")
+  - [Guitars](../Page/ギター.md "wikilink") & [Organ](../Page/オルガン.md "wikilink") & [Synthesizer](../Page/シンセサイザー.md "wikilink")：[長谷川智樹](../Page/長谷川智樹.md "wikilink")
 
 **ブルーのストーリー**
 
@@ -132,15 +132,15 @@
 
 **かたおもい**
 
-  - Piano & [Pianica](https://ja.wikipedia.org/wiki/鍵盤ハーモニカ "wikilink")：[大津美紀](https://ja.wikipedia.org/wiki/大津美紀 "wikilink")
+  - Piano & [Pianica](../Page/鍵盤ハーモニカ.md "wikilink")：[大津美紀](../Page/大津美紀.md "wikilink")
   - [Acoustic Guitar](../Page/アコースティック・ギター.md "wikilink")：田代精一郎
   - W Bass：加瀬達
   - [Percussions](../Page/パーカッション.md "wikilink")：菅原裕紀
 
 **ストロベリーキャンドル**
 
-  - [Electric Bass](../Page/エレクトリックベース.md "wikilink")：[沖山優司](https://ja.wikipedia.org/wiki/沖山優司 "wikilink")
-  - [Drums](../Page/ドラムセット.md "wikilink")：[湊雅史](https://ja.wikipedia.org/wiki/湊雅史 "wikilink")
+  - [Electric Bass](../Page/エレクトリックベース.md "wikilink")：[沖山優司](../Page/沖山優司.md "wikilink")
+  - [Drums](../Page/ドラムセット.md "wikilink")：[湊雅史](../Page/湊雅史.md "wikilink")
   - Acoustic Guitar & Electric Guitar & Acoustic Piano & [Electric Piano](../Page/エレクトリックピアノ.md "wikilink") & Synthesizer：長谷川智樹
 
 **ミントと口笛**
@@ -157,7 +157,7 @@
 **X'mas time Hold me tight**
 
   - Guitars & Electric Sitar & Keyboards & Chorus：長谷川智樹
-  - [Bass](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")：[中原信雄](https://ja.wikipedia.org/wiki/中原信雄 "wikilink")
+  - [Bass](../Page/ベース_\(弦楽器\).md "wikilink")：[中原信雄](https://ja.wikipedia.org/wiki/中原信雄 "wikilink")
   - Drums：[宮田繁男](https://ja.wikipedia.org/wiki/宮田繁男 "wikilink")
   - Chorus：[杉並児童合唱団](../Page/杉並児童合唱団.md "wikilink")、[飯塚雅弓](../Page/飯塚雅弓.md "wikilink")
 

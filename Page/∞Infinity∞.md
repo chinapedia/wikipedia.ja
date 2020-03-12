@@ -1,13 +1,13 @@
 > この記事は[Infinity](https://ja.wikipedia.org/wiki/Infinity)から翻訳されています。
 
 
-『**∞Infinity∞**』（インフニティー）は、[飯塚雅弓](../Page/飯塚雅弓.md "wikilink")の8枚目の[オリジナルアルバムおよびそれに収録されている楽曲のタイトル](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。[2004年](../Page/2004年.md "wikilink")[7月22日](../Page/7月22日.md "wikilink")に[徳間ジャパンコミュニケーションズ](https://ja.wikipedia.org/wiki/徳間ジャパンコミュニケーションズ "wikilink")から発売された。
+『**∞Infinity∞**』（インフニティー）は、[飯塚雅弓](../Page/飯塚雅弓.md "wikilink")の8枚目の[オリジナルアルバムおよびそれに収録されている楽曲のタイトル](../Page/スタジオ・アルバム.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[7月22日](../Page/7月22日.md "wikilink")に[徳間ジャパンコミュニケーションズ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")から発売された。
 
 ## 概要
 
 『[SMILE×SMILE](../Page/SMILE×SMILE.md "wikilink")』から1年ぶりとなる、8枚目のオリジナルアルバム。
 
-初回限定盤(TKCA-72700)と通常盤(TKCA-72705)の計2種の仕様で発売され、初回限定盤には三方ボックス仕様でDVDと飯塚本人が選んだこれまでの楽曲の[インストゥルメンタルにのせて飯塚が朗読したCDと全](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")9種の内3種のトレーディングジャケットが同梱。初回限定盤は5000セット限定となっている。
+初回限定盤(TKCA-72700)と通常盤(TKCA-72705)の計2種の仕様で発売され、初回限定盤には三方ボックス仕様でDVDと飯塚本人が選んだこれまでの楽曲の[インストゥルメンタルにのせて飯塚が朗読したCDと全](../Page/器楽曲.md "wikilink")9種の内3種のトレーディングジャケットが同梱。初回限定盤は5000セット限定となっている。
 
 2曲目「∞Infinity∞」以外の楽曲は、飯塚が単独で作詞を手がけており、3曲目「愛しい時間」では、星舞名義で初の作曲にも挑戦している。同名義を使った理由に関して飯塚は、「作曲・飯塚雅弓として聴いてほしくなかったというか、他の作曲家の方達と並んで同じように聴いてもらって、どう感じてもらえるのか試してみたかったんです」と後のインタビューで語っている\[1\]。
 
@@ -22,7 +22,7 @@ CDジャーナルは、「全体的に洗練されたポップスが主軸にな
 **I'm in the Pink**
 
   - [Guitars](../Page/ギター.md "wikilink") & [Drums](../Page/ドラムセット.md "wikilink") & [Keyboards](../Page/キーボード_\(楽器\).md "wikilink")：[宅見将典](../Page/宅見将典.md "wikilink")
-  - [Bass](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")：宮脇哲
+  - [Bass](../Page/ベース_\(弦楽器\).md "wikilink")：宮脇哲
   - [Trumpet](../Page/トランペット.md "wikilink")：[エリック宮城](https://ja.wikipedia.org/wiki/エリック宮城 "wikilink")
   - [Trombone](../Page/トロンボーン.md "wikilink")：清岡太郎
   - [Tenor Sax](../Page/サクソフォーン.md "wikilink")：淵野繁雄
@@ -31,7 +31,7 @@ CDジャーナルは、「全体的に洗練されたポップスが主軸にな
 
   - Guitars & Drums & [Percussions](../Page/パーカッション.md "wikilink") & Keyboards：宅見将典
   - Bass：宮脇哲
-  - [Strings](https://ja.wikipedia.org/wiki/ストリングス "wikilink")：[弦一徹strings](https://ja.wikipedia.org/wiki/落合徹也 "wikilink")
+  - [Strings](https://ja.wikipedia.org/wiki/ストリングス "wikilink")：[弦一徹strings](../Page/落合徹也.md "wikilink")
 
 **愛しい時間**
 
@@ -39,7 +39,7 @@ CDジャーナルは、「全体的に洗練されたポップスが主軸にな
 
 **Strawberry Fantasy**
 
-  - Guitars & Keyboards：[長谷川智樹](https://ja.wikipedia.org/wiki/長谷川智樹 "wikilink")
+  - Guitars & Keyboards：[長谷川智樹](../Page/長谷川智樹.md "wikilink")
 
 **moonless**
 
@@ -53,8 +53,8 @@ CDジャーナルは、「全体的に洗練されたポップスが主軸にな
 
 **カレー日和**
 
-  - Guitars & Keyboards：[加藤みちあき](https://ja.wikipedia.org/wiki/加藤みちあき "wikilink")
-  - Trumpet & [Flugel Horn](../Page/フリューゲルホルン.md "wikilink")：[エリック宮城](https://ja.wikipedia.org/wiki/エリック・ミヤシロ "wikilink")
+  - Guitars & Keyboards：[加藤みちあき](../Page/加藤みちあき.md "wikilink")
+  - Trumpet & [Flugel Horn](../Page/フリューゲルホルン.md "wikilink")：[エリック宮城](../Page/エリック・ミヤシロ.md "wikilink")
 
 **0％**
 
@@ -64,7 +64,7 @@ CDジャーナルは、「全体的に洗練されたポップスが主軸にな
 
 **願い**
 
-  - Piano：[中西康晴](https://ja.wikipedia.org/wiki/中西康晴 "wikilink")
+  - Piano：[中西康晴](../Page/中西康晴.md "wikilink")
   - Strings：弦一徹strings
 
 **2004年のdiary**
@@ -74,9 +74,9 @@ CDジャーナルは、「全体的に洗練されたポップスが主軸にな
 
 ## タイアップ
 
-| 楽曲              | タイアップ                                                                                                                                                                       |
-| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| I'm in the Pink | [音泉](https://ja.wikipedia.org/wiki/音泉 "wikilink")『[〜飯塚雅弓の月刊ラジオグランプリ〜 ともだち100人できるからっ♪](https://ja.wikipedia.org/wiki/〜飯塚雅弓の月刊ラジオグランプリ〜_ともだち100人できるからっ♪ "wikilink")』オープニングテーマ |
+| 楽曲              | タイアップ                                                                                                                                 |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| I'm in the Pink | [音泉](../Page/音泉.md "wikilink")『[〜飯塚雅弓の月刊ラジオグランプリ〜 ともだち100人できるからっ♪](../Page/〜飯塚雅弓の月刊ラジオグランプリ〜_ともだち100人できるからっ♪.md "wikilink")』オープニングテーマ |
 
 ## 出典
 

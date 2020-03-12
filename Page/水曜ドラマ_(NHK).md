@@ -1,11 +1,11 @@
 > この記事は[ \(NHK\)](https://ja.wikipedia.org/wiki/_\(NHK\))から翻訳されています。
 
 
-『**水曜ドラマ**』（すいようドラマ）は、かつて[NHK総合テレビが編成していた連続](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")枠である。
+『**水曜ドラマ**』（すいようドラマ）は、かつて[NHK総合テレビが編成していた連続](../Page/NHK総合テレビジョン.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")枠である。
 
 ## 概要
 
-[1972年](../Page/1972年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に水曜20:00枠でスタート。ただし期間は短く、[1975年](../Page/1975年.md "wikilink")4月から[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")3月までの歌謡・バラエティ番組枠、1978年4月から[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")12月までの[時代劇枠を挟んで](https://ja.wikipedia.org/wiki/土曜時代劇_\(NHK\) "wikilink")、12年後の[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に再び現代劇中心のドラマ枠となり、中断期間を幾度も挿みつつも[1991年](../Page/1991年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで編成され続けた。
+[1972年](../Page/1972年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に水曜20:00枠でスタート。ただし期間は短く、[1975年](../Page/1975年.md "wikilink")4月から[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")3月までの歌謡・バラエティ番組枠、1978年4月から[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")12月までの[時代劇枠を挟んで](../Page/土曜時代劇_\(NHK\).md "wikilink")、12年後の[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に再び現代劇中心のドラマ枠となり、中断期間を幾度も挿みつつも[1991年](../Page/1991年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで編成され続けた。
 
 そして[1996年](../Page/1996年.md "wikilink")4月から水曜22:00枠で『**水曜シリーズドラマ**』と題して再度編成\[1\]、その後[1999年](../Page/1999年.md "wikilink")4月に『**水曜ドラマの花束**』に名称変更され\[2\]、[2000年](../Page/2000年.md "wikilink")3月まで続けられた。
 
@@ -19,14 +19,14 @@
   - 1972年7月 - 8月：[桃から生まれた桃太郎](https://ja.wikipedia.org/wiki/桃から生まれた桃太郎 "wikilink")
   - 1972年8月：[幻の殺意](../Page/幻の殺意.md "wikilink")
   - 1972年9月 - 12月：[あした天気になあれ](https://ja.wikipedia.org/wiki/あした天気になあれ_\(テレビドラマ\) "wikilink")
-  - 1973年1月：[金色夜叉](https://ja.wikipedia.org/wiki/金色夜叉 "wikilink")
+  - 1973年1月：[金色夜叉](../Page/金色夜叉.md "wikilink")
   - 1973年2月：[春雷](https://ja.wikipedia.org/wiki/春雷 "wikilink")
-  - 1973年4月 - 1974年3月：[銀座わが町](https://ja.wikipedia.org/wiki/銀座わが町 "wikilink")
+  - 1973年4月 - 1974年3月：[銀座わが町](../Page/銀座わが町.md "wikilink")
   - 1974年4月 - 9月：[帽子とひまわり](https://ja.wikipedia.org/wiki/帽子とひまわり "wikilink")
   - 1974年10月 - 1975年2月：[四季の家](https://ja.wikipedia.org/wiki/四季の家 "wikilink")
   - 1975年3月：[あかあかと](https://ja.wikipedia.org/wiki/あかあかと "wikilink")
 
-ここで一時中断し、その間『[ゲーム ホントにホント?](../Page/ゲーム_ホントにホント?.md "wikilink")』→『[お国自慢にしひがし](https://ja.wikipedia.org/wiki/お国自慢にしひがし "wikilink")』→『[歌のグランド・ショー](../Page/歌のグランド・ショー.md "wikilink")』→『[花のステージ](../Page/花のステージ.md "wikilink")』→『[水曜時代劇](https://ja.wikipedia.org/wiki/土曜時代劇_\(NHK\) "wikilink")』→『新大型時代劇』が放送される。
+ここで一時中断し、その間『[ゲーム ホントにホント?](../Page/ゲーム_ホントにホント?.md "wikilink")』→『[お国自慢にしひがし](https://ja.wikipedia.org/wiki/お国自慢にしひがし "wikilink")』→『[歌のグランド・ショー](../Page/歌のグランド・ショー.md "wikilink")』→『[花のステージ](../Page/花のステージ.md "wikilink")』→『[水曜時代劇](../Page/土曜時代劇_\(NHK\).md "wikilink")』→『新大型時代劇』が放送される。
 
   - 1987年1月 - 3月：[イキのいい奴](../Page/イキのいい奴.md "wikilink")
   - 1987年4月 - 7月：[ばら色の人生](../Page/ばら色の人生_\(テレビドラマ\).md "wikilink")
@@ -60,7 +60,7 @@
   - 6月 - 7月：[大往生](https://ja.wikipedia.org/wiki/大往生 "wikilink")
   - 8月 - 9月：[父帰る](https://ja.wikipedia.org/wiki/大熱血闘病記#テレビドラマ "wikilink")
   - 9月 - 10月：[夜会の果て](https://ja.wikipedia.org/wiki/夜会の果て "wikilink")
-  - 10月 - 11月：[鏡は眠らない](https://ja.wikipedia.org/wiki/鏡は眠らない "wikilink")
+  - 10月 - 11月：[鏡は眠らない](../Page/鏡は眠らない.md "wikilink")
   - 11月 - 12月：[噂の伝次郎](https://ja.wikipedia.org/wiki/噂の伝次郎 "wikilink")
 
 #### 1998年
@@ -96,8 +96,8 @@
 ## 関連項目
 
   - [ドラマ家族模様](https://ja.wikipedia.org/wiki/ドラマ家族模様 "wikilink")
-  - [ドラマ人間模様](https://ja.wikipedia.org/wiki/ドラマ人間模様 "wikilink")
-  - [月曜ドラマシリーズ](https://ja.wikipedia.org/wiki/月曜ドラマシリーズ "wikilink")
+  - [ドラマ人間模様](../Page/ドラマ人間模様.md "wikilink")
+  - [月曜ドラマシリーズ](../Page/月曜ドラマシリーズ.md "wikilink")
   - [土曜ドラマ (NHK)](../Page/土曜ドラマ_\(NHK\).md "wikilink")
   - [ドラマ10](../Page/ドラマ10.md "wikilink")
 

@@ -1,31 +1,31 @@
 > この記事は[GRANRODEO](https://ja.wikipedia.org/wiki/GRANRODEO)から翻訳されています。
 
 
-**GRANRODEO**（グランロデオ）は、KISHOW（[谷山紀章](https://ja.wikipedia.org/wiki/谷山紀章 "wikilink")）とe-ZUKA（[飯塚昌明](../Page/飯塚昌明.md "wikilink")）の2人で構成される[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")。[Lantisと](https://ja.wikipedia.org/wiki/ランティス "wikilink")[ハイウェイスターに所属している](https://ja.wikipedia.org/wiki/ハイウェイスター_\(企業\) "wikilink")。略称は「**ロデオ**」、「**グラロデ**」、「**GR**」。
+**GRANRODEO**（グランロデオ）は、KISHOW（[谷山紀章](../Page/谷山紀章.md "wikilink")）とe-ZUKA（[飯塚昌明](../Page/飯塚昌明.md "wikilink")）の2人で構成される[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。[Lantisと](../Page/ランティス.md "wikilink")[ハイウェイスターに所属している](https://ja.wikipedia.org/wiki/ハイウェイスター_\(企業\) "wikilink")。略称は「**ロデオ**」、「**グラロデ**」、「**GR**」。
 
 ファンクラブ名は「**ロデオ組**」。男性ファンを「**RODEOBOY（RB）**」、女性ファンを「**RODEOGIRL（RG）**」と呼ぶ。
 
 ## 概要
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、TVアニメ『[君が望む永遠](../Page/君が望む永遠.md "wikilink")』の主人公・鳴海孝之のキャラクターソングを作成する際、CV担当の[声優](../Page/声優.md "wikilink")・[谷山紀章](https://ja.wikipedia.org/wiki/谷山紀章 "wikilink")（KISHOW）が作詞、同アニメ（及びゲーム）の楽曲を多く手掛けていた[ギタリスト](../Page/ギタリスト.md "wikilink")・[飯塚昌明](../Page/飯塚昌明.md "wikilink")（e-ZUKA）が作編曲を担当したことが結成のきっかけ。[アージュ](../Page/アージュ.md "wikilink")の斉藤Kと[ランティス](https://ja.wikipedia.org/wiki/ランティス "wikilink")の伊藤善之、そして谷山と3人で[カラオケ](../Page/カラオケ.md "wikilink")に行った際、熱唱する谷山を見て「歌ってもらおう」と決めたという。
+[2005年](../Page/2005年.md "wikilink")、TVアニメ『[君が望む永遠](../Page/君が望む永遠.md "wikilink")』の主人公・鳴海孝之のキャラクターソングを作成する際、CV担当の[声優](../Page/声優.md "wikilink")・[谷山紀章](../Page/谷山紀章.md "wikilink")（KISHOW）が作詞、同アニメ（及びゲーム）の楽曲を多く手掛けていた[ギタリスト](../Page/ギタリスト.md "wikilink")・[飯塚昌明](../Page/飯塚昌明.md "wikilink")（e-ZUKA）が作編曲を担当したことが結成のきっかけ。[アージュ](../Page/アージュ.md "wikilink")の斉藤Kと[ランティス](../Page/ランティス.md "wikilink")の伊藤善之、そして谷山と3人で[カラオケ](../Page/カラオケ.md "wikilink")に行った際、熱唱する谷山を見て「歌ってもらおう」と決めたという。
 
-ほぼ全ての作詞をKISHOWが、全ての作編曲をe-ZUKAが手掛ける。2人が好む[ハードロック](../Page/ハードロック.md "wikilink")、[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")調を主軸としつつ、[ポップス](../Page/ポピュラー音楽.md "wikilink")、[オルタナ](../Page/オルタナティヴ・ロック.md "wikilink")、[ミクスチャー](https://ja.wikipedia.org/wiki/ミクスチャー "wikilink")、[メロコア](../Page/メロディック・ハードコア.md "wikilink")、[パンク](../Page/パンク・ロック.md "wikilink")、[ブラスロック](https://ja.wikipedia.org/wiki/ブラス・ロック "wikilink")、[AOR](../Page/AOR.md "wikilink")、[ファンク](https://ja.wikipedia.org/wiki/ファンク "wikilink")、[フォークなど](../Page/フォークソング.md "wikilink")、枠にこだわらない様々なタイプの楽曲を発表している。
+ほぼ全ての作詞をKISHOWが、全ての作編曲をe-ZUKAが手掛ける。2人が好む[ハードロック](../Page/ハードロック.md "wikilink")、[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")調を主軸としつつ、[ポップス](../Page/ポピュラー音楽.md "wikilink")、[オルタナ](../Page/オルタナティヴ・ロック.md "wikilink")、[ミクスチャー](https://ja.wikipedia.org/wiki/ミクスチャー "wikilink")、[メロコア](../Page/メロディック・ハードコア.md "wikilink")、[パンク](../Page/パンク・ロック.md "wikilink")、[ブラスロック](../Page/ブラス・ロック.md "wikilink")、[AOR](../Page/AOR.md "wikilink")、[ファンク](../Page/ファンク.md "wikilink")、[フォークなど](../Page/フォークソング.md "wikilink")、枠にこだわらない様々なタイプの楽曲を発表している。
 
 メンバーはe-ZUKAとKISHOWのみ。ライブはドラムス・[長井"VAL"一郎とベース](https://ja.wikipedia.org/wiki/長井一郎 "wikilink")・[瀧田イサム](https://ja.wikipedia.org/wiki/瀧田イサム "wikilink")をサポートに加えた[4ピース体制で行われているが](../Page/四人組.md "wikilink")、ドラムスの長井"VAL"一郎に関しては2017年2月19日をもって専属のライブサポートから離れることになった。その理由は明らかにされていない。その後のドラムスサポートはSHiNに変更された。
 
-[2009年](../Page/2009年.md "wikilink")頃から発売したCDが[オリコン](../Page/オリコン.md "wikilink")（[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")）ランキングの上位に入るようになり（詳細は『[\#ディスコグラフィ](https://ja.wikipedia.org/wiki/#ディスコグラフィ "wikilink")』を参照）、2012年[10月10日](../Page/10月10日.md "wikilink")発売の5thアルバム『[CRACK STAR FLASH](https://ja.wikipedia.org/wiki/CRACK_STAR_FLASH "wikilink")』は10月10日付のオリコンデイリーアルバムチャートで初の1位となる。その後[2014年](../Page/2014年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink")発売の6thアルバム『カルマとラビリンス』では、デイリー2位、ウィークリー3位を記録し、また初動売上枚数は21,944枚と自己最高を記録した。
+[2009年](../Page/2009年.md "wikilink")頃から発売したCDが[オリコン](../Page/オリコン.md "wikilink")（[オリコンチャート](../Page/オリコンチャート.md "wikilink")）ランキングの上位に入るようになり（詳細は『[\#ディスコグラフィ](https://ja.wikipedia.org/wiki/#ディスコグラフィ "wikilink")』を参照）、2012年[10月10日](../Page/10月10日.md "wikilink")発売の5thアルバム『[CRACK STAR FLASH](https://ja.wikipedia.org/wiki/CRACK_STAR_FLASH "wikilink")』は10月10日付のオリコンデイリーアルバムチャートで初の1位となる。その後[2014年](../Page/2014年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink")発売の6thアルバム『カルマとラビリンス』では、デイリー2位、ウィークリー3位を記録し、また初動売上枚数は21,944枚と自己最高を記録した。
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[5月3日](../Page/5月3日.md "wikilink")に[日本武道館](../Page/日本武道館.md "wikilink")で結成5周年記念ライブを開催。男性声優が歌手として武道館で単独ライブを行ったのはKISHOWが初である。その後も[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")、[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")、[大阪城ホール](../Page/大阪城ホール.md "wikilink")、[東京体育館](https://ja.wikipedia.org/wiki/東京体育館 "wikilink")、[幕張メッセ](../Page/幕張メッセ.md "wikilink")展示場1-3ホールといった大会場でライブを開催している（詳細は『[\#ワンマンライブ・ツアー](https://ja.wikipedia.org/wiki/#ワンマンライブ・ツアー "wikilink")』を参照）。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[5月3日](../Page/5月3日.md "wikilink")に[日本武道館](../Page/日本武道館.md "wikilink")で結成5周年記念ライブを開催。男性声優が歌手として武道館で単独ライブを行ったのはKISHOWが初である。その後も[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")、[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")、[大阪城ホール](../Page/大阪城ホール.md "wikilink")、[東京体育館](../Page/東京体育館.md "wikilink")、[幕張メッセ](../Page/幕張メッセ.md "wikilink")展示場1-3ホールといった大会場でライブを開催している（詳細は『[\#ワンマンライブ・ツアー](https://ja.wikipedia.org/wiki/#ワンマンライブ・ツアー "wikilink")』を参照）。
 
 [2012年](../Page/2012年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")にオフィシャルファンクラブ『ロデオ組』が発足。男性ファンを『**RODEOBOY**』（ロデオボーイ）、女性ファンを『**RODEOGIRL**』（ロデオガール）と呼んでいる。
 
 [2012年](../Page/2012年.md "wikilink")4月から放送が開始されたTVアニメ『[黒子のバスケ](https://ja.wikipedia.org/wiki/黒子のバスケ_\(アニメ\) "wikilink")』では、第3期第2クール帝光編を除くほぼ全てのシーズンで『Can Do』『RIMFIRE』『The Other self』『変幻自在のマジカルスター』『Punky Funky Love』『メモリーズ』と計6曲のOP主題歌を手がけた。[2013年](../Page/2013年.md "wikilink")[10月16日](../Page/10月16日.md "wikilink")発売の『The Other self』はそれまでの初回限定盤・通常盤2種展開に加え初めてアニメ盤が導入され、以後アニメタイアップに関しては3種展開が基本となった。なお『Can Do』を除きオリコン週間チャートでTOP10入りしている。
 
-[2014年](../Page/2014年.md "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")には以前より交流のあったバンド・[FLOW](../Page/FLOW.md "wikilink")と組んだ期間限定ユニット『FLOW×GRANRODEO』としてコラボシングル『7 -seven-』を発売。発売レーベルはFLOWの所属する[Ki/oon Musicで](https://ja.wikipedia.org/wiki/Ki/oon_Music "wikilink")、GRANRODEOとしては初めて[ランティス](https://ja.wikipedia.org/wiki/ランティス "wikilink")\[1\]以外からリリースすることとなった。
+[2014年](../Page/2014年.md "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")には以前より交流のあったバンド・[FLOW](../Page/FLOW.md "wikilink")と組んだ期間限定ユニット『FLOW×GRANRODEO』としてコラボシングル『7 -seven-』を発売。発売レーベルはFLOWの所属する[Ki/oon Musicで](https://ja.wikipedia.org/wiki/Ki/oon_Music "wikilink")、GRANRODEOとしては初めて[ランティス](../Page/ランティス.md "wikilink")\[1\]以外からリリースすることとなった。
 
 [2015年](../Page/2015年.md "wikilink")[11月23日](../Page/11月23日.md "wikilink")、デビュー10周年を迎えた。なおこの年ライブ・セットリスト情報サービス「LiveFans（ライブファンズ） 」が発表した『2015年 年間ライブ観客動員ランキング』の声優・アニメ部門にて、[水樹奈々](../Page/水樹奈々.md "wikilink")（205,939人）・[μ's](https://ja.wikipedia.org/wiki/μ's "wikilink")（159,026人）に次ぎGRANRODEOが134,217人を動員し3位にランクインした。
 
-[2016年](../Page/2016年.md "wikilink")7月〜9月に行われるGRANRODEO LIVE TOUR 2016『TREASURE CANDY』の7月22日Zepp DiverCity公演において、初めて映画館での[ライブビューイング](https://ja.wikipedia.org/wiki/ライブビューイング "wikilink")を開催。国内19会場に加え海外5カ国7会場でも開催された（うち2会場は後日録画を上映）。
+[2016年](../Page/2016年.md "wikilink")7月〜9月に行われるGRANRODEO LIVE TOUR 2016『TREASURE CANDY』の7月22日Zepp DiverCity公演において、初めて映画館での[ライブビューイング](../Page/ライブビューイング.md "wikilink")を開催。国内19会場に加え海外5カ国7会場でも開催された（うち2会場は後日録画を上映）。
 
 2017年2月8日に発売されたアルバム『Pierrot Dancin'』がオリコン週間ランキングで前々作、前作と引き続いての3位を獲得し、アルバム3作品連続でのトップ3位入りとなった。
 
@@ -36,9 +36,9 @@
 ## 主な楽曲参加ミュージシャン
 
   - [ドラム](../Page/ドラムセット.md "wikilink")
-      - [長井"VAL"一郎](https://ja.wikipedia.org/wiki/長井一郎 "wikilink")（ライブサポート）、[SHiN](https://ja.wikipedia.org/wiki/SHiN "wikilink")（ライブサポート）、[SOUL TOUL](../Page/そうる透.md "wikilink")、[渡邊豊](../Page/渡辺豊.md "wikilink")、[村石雅行](../Page/村石雅行.md "wikilink")、[真矢](https://ja.wikipedia.org/wiki/真矢_\(ドラマー\) "wikilink")、[青山英樹](https://ja.wikipedia.org/wiki/青山英樹 "wikilink")、[河村"カースケ"智康](https://ja.wikipedia.org/wiki/河村智康 "wikilink")、[佐野康夫](../Page/佐野康夫.md "wikilink")、かどしゅんたろう、[岩田ガンタ康彦](../Page/岩田ガンタ康彦.md "wikilink")
-  - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
-      - [瀧田イサム](https://ja.wikipedia.org/wiki/瀧田イサム "wikilink")（ライブサポート）、[坂本尭之](https://ja.wikipedia.org/wiki/Fo'xTails "wikilink")（ライブサポートのみ\[3\]）、[種子田健](https://ja.wikipedia.org/wiki/種子田健 "wikilink")、[黒須克彦](../Page/黒須克彦.md "wikilink")、松田卓己、[田辺トシノ](../Page/田辺トシノ.md "wikilink")
+      - [長井"VAL"一郎](https://ja.wikipedia.org/wiki/長井一郎 "wikilink")（ライブサポート）、[SHiN](https://ja.wikipedia.org/wiki/SHiN "wikilink")（ライブサポート）、[SOUL TOUL](../Page/そうる透.md "wikilink")、[渡邊豊](../Page/渡辺豊.md "wikilink")、[村石雅行](../Page/村石雅行.md "wikilink")、[真矢](../Page/真矢_\(ドラマー\).md "wikilink")、[青山英樹](https://ja.wikipedia.org/wiki/青山英樹 "wikilink")、[河村"カースケ"智康](https://ja.wikipedia.org/wiki/河村智康 "wikilink")、[佐野康夫](../Page/佐野康夫.md "wikilink")、かどしゅんたろう、[岩田ガンタ康彦](../Page/岩田ガンタ康彦.md "wikilink")
+  - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
+      - [瀧田イサム](https://ja.wikipedia.org/wiki/瀧田イサム "wikilink")（ライブサポート）、[坂本尭之](https://ja.wikipedia.org/wiki/Fo'xTails "wikilink")（ライブサポートのみ\[3\]）、[種子田健](../Page/種子田健.md "wikilink")、[黒須克彦](../Page/黒須克彦.md "wikilink")、松田卓己、[田辺トシノ](../Page/田辺トシノ.md "wikilink")
   - [ピアノ](../Page/ピアノ.md "wikilink")
       - 山田秀俊、柴田俊文
   - [ストリング](https://ja.wikipedia.org/wiki/ストリングス "wikilink")
@@ -131,7 +131,7 @@
 ### コンピレーション / サウンドトラックCD
 
   - **マブラヴ オルタネイティヴ Collection of Standard Edition Songs "Name"**
-      - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月6日](../Page/12月6日.md "wikilink")発売 / LACA-5575 / Lantis
+      - [2006年](../Page/2006年.md "wikilink")[12月6日](../Page/12月6日.md "wikilink")発売 / LACA-5575 / Lantis
           - [Once\&Forever](../Page/RIDE_ON_THE_EDGE.md "wikilink")
   - **鬼公子炎魔 オリジナルサウンドトラック**
       - [2007年](../Page/2007年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")発売 / LACA-5629 / Lantis
@@ -231,10 +231,10 @@
 
 ### 参加楽曲
 
-| 発売日    | 商品名                                                                                                                 | 歌                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 楽曲                                    | 備考                                                              |
-| ------ | ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- | --------------------------------------------------------------- |
-| 2017年  |                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                                       |                                                                 |
-| 10月25日 | [翼を持つ者 〜Not an angel Just a dreamer〜](https://ja.wikipedia.org/wiki/翼を持つ者_〜Not_an_angel_Just_a_dreamer〜 "wikilink") | [i☆Ris](https://ja.wikipedia.org/wiki/i☆Ris "wikilink")、[井上あずみ](https://ja.wikipedia.org/wiki/井上あずみ "wikilink")、[Wake Up, Girls\!](https://ja.wikipedia.org/wiki/Wake_Up,_Girls!_\(声優ユニット\) "wikilink")、[内田真礼](https://ja.wikipedia.org/wiki/内田真礼 "wikilink")、[串田アキラ](https://ja.wikipedia.org/wiki/串田アキラ "wikilink")、**GRANRODEO**、[ささきいさお](https://ja.wikipedia.org/wiki/ささきいさお "wikilink")、[下野紘](https://ja.wikipedia.org/wiki/下野紘 "wikilink")、[JAM Project](https://ja.wikipedia.org/wiki/JAM_Project "wikilink")、[鈴木このみ](https://ja.wikipedia.org/wiki/鈴木このみ "wikilink")、[鈴村健一](../Page/鈴村健一.md "wikilink")、[竹達彩奈](../Page/竹達彩奈.md "wikilink")、[茅原実里](https://ja.wikipedia.org/wiki/茅原実里 "wikilink")、[TRUE](https://ja.wikipedia.org/wiki/唐沢美帆 "wikilink")、[豊永利行](https://ja.wikipedia.org/wiki/豊永利行 "wikilink")、[中川翔子](https://ja.wikipedia.org/wiki/中川翔子 "wikilink")、[羽多野渉](https://ja.wikipedia.org/wiki/羽多野渉 "wikilink")、[堀江美都子](../Page/堀江美都子.md "wikilink")、[水木一郎](../Page/水木一郎.md "wikilink")、[Minami](https://ja.wikipedia.org/wiki/Minami "wikilink")、[三森すずこ](https://ja.wikipedia.org/wiki/三森すずこ "wikilink")、[May'n](https://ja.wikipedia.org/wiki/May'n "wikilink")、[米倉千尋](https://ja.wikipedia.org/wiki/米倉千尋 "wikilink") | 「翼を持つ者 〜Not an angel Just a dreamer〜」 | [日本動画協会](../Page/日本動画協会.md "wikilink")「アニメNEXT_100」プロジェクト公式ソング |
+| 発売日    | 商品名                                                                                                                 | 歌                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | 楽曲                                    | 備考                                                              |
+| ------ | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- | --------------------------------------------------------------- |
+| 2017年  |                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |                                       |                                                                 |
+| 10月25日 | [翼を持つ者 〜Not an angel Just a dreamer〜](https://ja.wikipedia.org/wiki/翼を持つ者_〜Not_an_angel_Just_a_dreamer〜 "wikilink") | [i☆Ris](https://ja.wikipedia.org/wiki/i☆Ris "wikilink")、[井上あずみ](../Page/井上あずみ.md "wikilink")、[Wake Up, Girls\!](https://ja.wikipedia.org/wiki/Wake_Up,_Girls!_\(声優ユニット\) "wikilink")、[内田真礼](https://ja.wikipedia.org/wiki/内田真礼 "wikilink")、[串田アキラ](../Page/串田アキラ.md "wikilink")、**GRANRODEO**、[ささきいさお](../Page/ささきいさお.md "wikilink")、[下野紘](../Page/下野紘.md "wikilink")、[JAM Project](../Page/JAM_Project.md "wikilink")、[鈴木このみ](https://ja.wikipedia.org/wiki/鈴木このみ "wikilink")、[鈴村健一](../Page/鈴村健一.md "wikilink")、[竹達彩奈](../Page/竹達彩奈.md "wikilink")、[茅原実里](https://ja.wikipedia.org/wiki/茅原実里 "wikilink")、[TRUE](../Page/唐沢美帆.md "wikilink")、[豊永利行](../Page/豊永利行.md "wikilink")、[中川翔子](../Page/中川翔子.md "wikilink")、[羽多野渉](../Page/羽多野渉.md "wikilink")、[堀江美都子](../Page/堀江美都子.md "wikilink")、[水木一郎](../Page/水木一郎.md "wikilink")、[Minami](https://ja.wikipedia.org/wiki/Minami "wikilink")、[三森すずこ](https://ja.wikipedia.org/wiki/三森すずこ "wikilink")、[May'n](../Page/May'n.md "wikilink")、[米倉千尋](https://ja.wikipedia.org/wiki/米倉千尋 "wikilink") | 「翼を持つ者 〜Not an angel Just a dreamer〜」 | [日本動画協会](../Page/日本動画協会.md "wikilink")「アニメNEXT_100」プロジェクト公式ソング |
 
 ## 出演
 
@@ -243,7 +243,7 @@
 #### レギュラーラジオ
 
   - GRANRODEOのもっともハートに火をつけて（[TOKYO FM](../Page/エフエム東京.md "wikilink")：2014年4月1日 - 2016年3月25日）
-  - GRANRODEOのDOKI×2ラジオジャンボリー（[文化放送](../Page/文化放送.md "wikilink")：2012年4月8日 - 2014年3月30日、[ABCラジオでも同期間時差ネットで放送](https://ja.wikipedia.org/wiki/朝日放送ラジオ "wikilink")）
+  - GRANRODEOのDOKI×2ラジオジャンボリー（[文化放送](../Page/文化放送.md "wikilink")：2012年4月8日 - 2014年3月30日、[ABCラジオでも同期間時差ネットで放送](../Page/朝日放送ラジオ.md "wikilink")）
   - GRANRODEO ハートに火をつけて（TOKYO FM「RADIO DRAGON」内Doors火曜日箱番組：2010年4月6日 - 6月29日）
   - GRANRODEO もっとハートに火をつけて（TOKYO FM「RADIO DRAGON」内Doors火曜日箱番組：2010年10月5日 - 2012年3月27日）
   - GRANRODEO それでもハートに火をつけて（TOKYO FM「RADIO DRAGON」内Doors火曜日箱番組：2012年10月2日 - 12月25日）
@@ -261,7 +261,7 @@
 
 #### 単発ラジオ
 
-  - GRANRODEOの[オールナイトニッポンR](https://ja.wikipedia.org/wiki/オールナイトニッポンR "wikilink")（2016年10月15日、2017年8月5日）
+  - GRANRODEOの[オールナイトニッポンR](../Page/オールナイトニッポンR.md "wikilink")（2016年10月15日、2017年8月5日）
 
 ### ワンマンライブ・ツアー
 
@@ -379,7 +379,7 @@
 <a href="https://ja.wikipedia.org/wiki/1月23日" title="wikilink">1月23日</a>　Zepp Osaka<br />
 <a href="../Page/1月24日.md" title="wikilink">1月24日</a>　<a href="https://ja.wikipedia.org/wiki/Zepp_Fukuoka" title="wikilink">Zepp Fukuoka</a><br />
 <a href="../Page/2月7日.md" title="wikilink">2月7日</a>　Zepp Tokyo<br />
-<a href="../Page/2月20日.md" title="wikilink">2月20日</a>　<a href="https://ja.wikipedia.org/wiki/神戸国際会館" title="wikilink">神戸国際会館</a>こくさいホール（追加公演）<br />
+<a href="../Page/2月20日.md" title="wikilink">2月20日</a>　<a href="../Page/神戸国際会館.md" title="wikilink">神戸国際会館</a>こくさいホール（追加公演）<br />
 <a href="../Page/2月27日.md" title="wikilink">2月27日</a>　<a href="https://ja.wikipedia.org/wiki/渋谷C.C.Lemonホール" title="wikilink">渋谷C.C.Lemonホール</a>（追加公演）<br />
 </p>
 </div>
@@ -405,7 +405,7 @@
 <td><p>2010年</p></td>
 <td><p>GRANRODEO 5TH ANNIVERSARY EVENT "GR感謝祭" 〜オレとオマエとグランロデオ〜</p></td>
 <td><div class="NavContent" style="text-align:center;">
-<p><a href="../Page/11月23日.md" title="wikilink">11月23日</a>　<a href="https://ja.wikipedia.org/wiki/NHKホール" title="wikilink">NHKホール</a><br />
+<p><a href="../Page/11月23日.md" title="wikilink">11月23日</a>　<a href="../Page/NHKホール.md" title="wikilink">NHKホール</a><br />
 </p>
 </div></td>
 </tr>
@@ -439,18 +439,18 @@
 <a href="../Page/5月15日.md" title="wikilink">5月15日</a>　<a href="https://ja.wikipedia.org/wiki/神奈川県民ホール" title="wikilink">神奈川県立県民ホール大ホール</a><br />
 <a href="../Page/5月21日.md" title="wikilink">5月21日</a>　<a href="https://ja.wikipedia.org/wiki/栃木県総合文化センター" title="wikilink">栃木県総合文化センター</a>メインホール<br />
 <a href="../Page/5月22日.md" title="wikilink">5月22日</a>　<a href="../Page/千葉県文化会館.md" title="wikilink">千葉県文化会館</a>大ホール<br />
-<a href="../Page/5月29日.md" title="wikilink">5月29日</a>　<a href="https://ja.wikipedia.org/wiki/新潟県民会館" title="wikilink">新潟県民会館</a>大ホール<br />
+<a href="../Page/5月29日.md" title="wikilink">5月29日</a>　<a href="../Page/新潟県民会館.md" title="wikilink">新潟県民会館</a>大ホール<br />
 <a href="../Page/6月4日.md" title="wikilink">6月4日</a>　<a href="../Page/静岡市民文化会館.md" title="wikilink">静岡市民文化会館</a>中ホール<br />
 <a href="../Page/6月12日.md" title="wikilink">6月12日</a>　仙台<a href="https://ja.wikipedia.org/wiki/イズミティ21" title="wikilink">イズミティ21</a>大ホール→<a href="https://ja.wikipedia.org/wiki/東日本大震災" title="wikilink">東日本大震災</a>の為延期<br />
 <a href="../Page/6月19日.md" title="wikilink">6月19日</a>　渋谷<a href="https://ja.wikipedia.org/wiki/C.C.Lemonホール" title="wikilink">C.C.Lemonホール</a><br />
 <a href="../Page/6月25日.md" title="wikilink">6月25日</a>　<a href="../Page/愛知県芸術劇場.md" title="wikilink">愛知県芸術劇場</a>大ホール<br />
 <a href="../Page/6月26日.md" title="wikilink">6月26日</a>　<a href="../Page/アステールプラザ.md" title="wikilink">アステールプラザ</a>大ホール<br />
-<a href="../Page/7月2日.md" title="wikilink">7月2日</a>　<a href="https://ja.wikipedia.org/wiki/神戸国際会館" title="wikilink">神戸国際会館</a>こくさいホール<br />
-<a href="https://ja.wikipedia.org/wiki/7月3日" title="wikilink">7月3日</a>　<a href="../Page/福岡国際会議場.md" title="wikilink">福岡国際会議場</a>メインホール<br />
+<a href="../Page/7月2日.md" title="wikilink">7月2日</a>　<a href="../Page/神戸国際会館.md" title="wikilink">神戸国際会館</a>こくさいホール<br />
+<a href="../Page/7月3日.md" title="wikilink">7月3日</a>　<a href="../Page/福岡国際会議場.md" title="wikilink">福岡国際会議場</a>メインホール<br />
 <a href="../Page/7月9日.md" title="wikilink">7月9日</a>　<a href="../Page/NHK大阪ホール.md" title="wikilink">NHK大阪ホール</a><br />
 <a href="../Page/7月10日.md" title="wikilink">7月10日</a>　NHK大阪ホール<br />
 <a href="../Page/7月16日.md" title="wikilink">7月16日</a>　<a href="../Page/札幌市民ホール.md" title="wikilink">札幌市民ホール</a><br />
-<a href="https://ja.wikipedia.org/wiki/7月23日" title="wikilink">7月23日</a>　<a href="../Page/松山市総合コミュニティセンター.md" title="wikilink">松山市総合コミュニティセンター</a>・キャメリアホール<br />
+<a href="../Page/7月23日.md" title="wikilink">7月23日</a>　<a href="../Page/松山市総合コミュニティセンター.md" title="wikilink">松山市総合コミュニティセンター</a>・キャメリアホール<br />
 <a href="../Page/7月24日.md" title="wikilink">7月24日</a>　<a href="https://ja.wikipedia.org/wiki/山口市民会館" title="wikilink">山口市民会館</a>大ホール（追加公演）<br />
 <a href="../Page/7月30日.md" title="wikilink">7月30日</a>　<a href="https://ja.wikipedia.org/wiki/南魚沼市民会館" title="wikilink">南魚沼市民会館</a>大ホール（追加公演）→<a href="https://ja.wikipedia.org/wiki/平成23年7月新潟・福島豪雨" title="wikilink">平成23年7月新潟・福島豪雨</a>の影響で延期<br />
 <a href="../Page/9月11日.md" title="wikilink">9月11日</a>　<a href="https://ja.wikipedia.org/wiki/Zepp_Sendai" title="wikilink">Zepp Sendai</a>（6月12日の振替公演）<br />
@@ -639,7 +639,7 @@
 <a href="../Page/2月8日.md" title="wikilink">2月8日</a> 愛知県芸術劇場 大ホール<br />
 <a href="../Page/2月15日.md" title="wikilink">2月15日</a> 大阪城ホール<br />
 <a href="../Page/3月8日.md" title="wikilink">3月8日</a> Zepp Sapporo<br />
-<a href="../Page/3月15日.md" title="wikilink">3月15日</a> <a href="https://ja.wikipedia.org/wiki/福岡サンパレス" title="wikilink">福岡サンパレス</a><br />
+<a href="../Page/3月15日.md" title="wikilink">3月15日</a> <a href="../Page/福岡サンパレス.md" title="wikilink">福岡サンパレス</a><br />
 <a href="../Page/3月21日.md" title="wikilink">3月21日</a> さいたまスーパーアリーナ<br />
 <a href="../Page/3月22日.md" title="wikilink">3月22日</a> さいたまスーパーアリーナ<br />
 <a href="../Page/3月29日.md" title="wikilink">3月29日</a> 仙台<a href="https://ja.wikipedia.org/wiki/イズミティ21" title="wikilink">イズミティ21</a> 大ホール<br />
@@ -696,12 +696,12 @@
 </div>
 <div class="NavContent" style="text-align:left;">
 <p><a href="../Page/7月2日.md" title="wikilink">7月2日</a> 福岡 DRUM LOGOS<br />
-<a href="https://ja.wikipedia.org/wiki/7月3日" title="wikilink">7月3日</a> 福岡 DRUM LOGOS<br />
+<a href="../Page/7月3日.md" title="wikilink">7月3日</a> 福岡 DRUM LOGOS<br />
 <a href="../Page/7月9日.md" title="wikilink">7月9日</a> 大阪城野外音楽堂<br />
 <a href="../Page/7月16日.md" title="wikilink">7月16日</a> 仙台PIT<br />
 <a href="../Page/7月17日.md" title="wikilink">7月17日</a> 仙台PIT<br />
 <a href="../Page/7月22日.md" title="wikilink">7月22日</a> Zepp DiverCity Tokyo<br />
-<a href="https://ja.wikipedia.org/wiki/7月23日" title="wikilink">7月23日</a> Zepp DiverCity Tokyo<br />
+<a href="../Page/7月23日.md" title="wikilink">7月23日</a> Zepp DiverCity Tokyo<br />
 <a href="../Page/7月30日.md" title="wikilink">7月30日</a> <a href="https://ja.wikipedia.org/wiki/なんばHatch" title="wikilink">なんばHatch</a><br />
 <a href="../Page/7月31日.md" title="wikilink">7月31日</a> なんばHatch<br />
 <a href="../Page/8月13日.md" title="wikilink">8月13日</a> 日比谷野外大音楽堂<br />
@@ -717,7 +717,7 @@
 <td><p>2016年</p></td>
 <td><p>GRANRODEO LIVE 2016 G11 ROCK☆SHOW -TRECAN ▶◉◀ PARTY-</p></td>
 <td><div class="NavContent" style="text-align:center;">
-<p><a href="../Page/9月19日.md" title="wikilink">9月19日</a>　<a href="https://ja.wikipedia.org/wiki/国立代々木競技場" title="wikilink">国立代々木競技場 第一体育館</a><br />
+<p><a href="../Page/9月19日.md" title="wikilink">9月19日</a>　<a href="../Page/国立代々木競技場.md" title="wikilink">国立代々木競技場 第一体育館</a><br />
 </p>
 </div>
 </div></td>
@@ -837,7 +837,7 @@
 <a href="../Page/9月1日.md" title="wikilink">9月1日</a>　新潟 NIIGATA LOTS<br />
 <a href="../Page/9月6日.md" title="wikilink">9月6日</a>　愛媛 W studio RED<br />
 <a href="../Page/9月7日.md" title="wikilink">9月7日</a>　香川 高松Festhalle<br />
-<a href="https://ja.wikipedia.org/wiki/9月8日" title="wikilink">9月8日</a>　香川 高松Festhalle<br />
+<a href="../Page/9月8日.md" title="wikilink">9月8日</a>　香川 高松Festhalle<br />
 <a href="../Page/9月14日.md" title="wikilink">9月14日</a>　北海道 Zepp Sapporo<br />
 <a href="../Page/9月20日.md" title="wikilink">9月20日</a>　東京 Zepp DiverCity Tokyo<br />
 <a href="../Page/9月21日.md" title="wikilink">9月21日</a>　東京 Zepp DiverCity Tokyo<br />
@@ -884,10 +884,10 @@
 <td><p>2015年</p></td>
 <td><p>GRANRODEO 10th ANNIVERSARY FES ROUND GR 2015</p></td>
 <td><div class="NavContent" style="text-align:center;">
-<p><a href="https://ja.wikipedia.org/wiki/6月5日" title="wikilink">6月5日</a> <a href="https://ja.wikipedia.org/wiki/東京体育館" title="wikilink">東京体育館</a><br />
+<p><a href="https://ja.wikipedia.org/wiki/6月5日" title="wikilink">6月5日</a> <a href="../Page/東京体育館.md" title="wikilink">東京体育館</a><br />
 出演 <a href="https://ja.wikipedia.org/wiki/OLDCODEX" title="wikilink">OLDCODEX</a>、<a href="../Page/FLOW.md" title="wikilink">FLOW</a>、<a href="../Page/MUCC.md" title="wikilink">MUCC</a><br />
-<a href="../Page/6月6日.md" title="wikilink">6月6日</a> <a href="https://ja.wikipedia.org/wiki/東京体育館" title="wikilink">東京体育館</a><br />
-出演 <a href="https://ja.wikipedia.org/wiki/BREAKERZ" title="wikilink">BREAKERZ</a>、<a href="../Page/FLOW.md" title="wikilink">FLOW</a>、<a href="https://ja.wikipedia.org/wiki/宮野真守" title="wikilink">宮野真守</a><br />
+<a href="../Page/6月6日.md" title="wikilink">6月6日</a> <a href="../Page/東京体育館.md" title="wikilink">東京体育館</a><br />
+出演 <a href="https://ja.wikipedia.org/wiki/BREAKERZ" title="wikilink">BREAKERZ</a>、<a href="../Page/FLOW.md" title="wikilink">FLOW</a>、<a href="../Page/宮野真守.md" title="wikilink">宮野真守</a><br />
 ※両日OPENING ACT: <a href="https://ja.wikipedia.org/wiki/Fo&#39;xTails" title="wikilink">Fo'xTails</a></p></td>
 </tr>
 </tbody>
@@ -998,7 +998,7 @@
 <td><p>TEAM RODEO SPECIAL PROGRAM GRANRODEO Acoustics 2019 平成最後のイクジナシ！プラグナシ！</p></td>
 <td><div class="NavContent" style="text-align:center;">
 <p>全2公演（昼夜2公演）<br />
-<a href="https://ja.wikipedia.org/wiki/4月20日" title="wikilink">4月20日</a>　<a href="https://ja.wikipedia.org/wiki/中野サンプラザ" title="wikilink">中野サンプラザ</a><br />
+<a href="https://ja.wikipedia.org/wiki/4月20日" title="wikilink">4月20日</a>　<a href="../Page/中野サンプラザ.md" title="wikilink">中野サンプラザ</a><br />
 </p>
 </div>
 </div></td>
@@ -1030,7 +1030,7 @@
   - [FLOW](../Page/FLOW.md "wikilink") THE PARTY 2013,2014
   - [ランティス祭り](https://ja.wikipedia.org/wiki/ランティス祭り "wikilink") 2009,2014,2019
   - ネオロマンス・ライヴ ROCKET PUNCH\! 1,2,3,4
-  - [君のぞらじお](https://ja.wikipedia.org/wiki/君のぞらじお "wikilink")感謝祭
+  - [君のぞらじお](../Page/君のぞらじお.md "wikilink")感謝祭
   - ネオロマンス♥ライヴ 〜アンジェリーク＆ネオアンジェリーク〜
   - NITRO SUPER SONIC 10th Anniversary
   - [V-ROCK FESTIVAL '09](https://ja.wikipedia.org/wiki/V-ROCK_FESTIVAL_'09 "wikilink")
@@ -1095,13 +1095,13 @@
   - GRANRODEO LIVE 2014 G9 ROCK☆SHOW（2014年2月16日 [フジテレビNEXT](https://ja.wikipedia.org/wiki/フジテレビNEXT "wikilink")）※
   - 氣志團万博2014 〜房総大パニック！超激突\!\!〜 二日目（2014年11月1日 [WOWOW](../Page/WOWOW.md "wikilink")ライブ）
   - TOKYOアニメパーク 15th Anniversary Live ランティス祭り（2014年11月3日 [フジテレビNEXT](https://ja.wikipedia.org/wiki/フジテレビNEXT "wikilink")）
-  - [MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink")（2014年11月23日 [NHK総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")/「7 -seven-」(FLOWとの共演・歌唱）)
+  - [MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink")（2014年11月23日 [NHK総合](../Page/NHK総合テレビジョン.md "wikilink")/「7 -seven-」(FLOWとの共演・歌唱）)
   - [スッキリ\!\!](https://ja.wikipedia.org/wiki/スッキリ!! "wikilink")（2014年11月25日 [日本テレビ](../Page/日本テレビ放送網.md "wikilink") 「WEニュース」ゲスト/「7 -seven-」(FLOWとの共演・歌唱）)※
   - 「カンニングのDAI安☆吉日！」10周年記念イベントVERY LUCKY DAY\!\!（2014年12月27日 BSフジ）
   - GRANRODEO LIVE TOUR 2015 カルマとラビリンス atさいたまスーパーアリーナ（2015年4月25日 WOWOWライブ）
   - 「カンニングのDAI安☆吉日！」お台場夢大陸2015で生放送！（2015年7月19日 BSフジ）※
   - お台場夢大陸めざましライブ（2015年7月27日 フジテレビNEXT）
-  - GRANRODEO LIVE TOUR 2014 MAGICAL RODEO TOUR（2015年9月28日 [MUSIC ON\! TV](https://ja.wikipedia.org/wiki/MUSIC_ON!_TV "wikilink")）
+  - GRANRODEO LIVE TOUR 2014 MAGICAL RODEO TOUR（2015年9月28日 [MUSIC ON\! TV](../Page/MUSIC_ON!_TV.md "wikilink")）
   - GRANRODEO 10th ANNIVERSARY LIVE 2015 G10 ROCK☆SHOW -RODEO DECADE-（2015年10月25日 フジテレビNEXT）※
   - GRANRODEO COUNTDOWN SPECIAL LIVE 2015〜2016（2015年12月31日 フジテレビNEXT）※
   - [アニソン・ハンター](https://ja.wikipedia.org/wiki/アニソン・ハンター "wikilink") 年またぎ生放送SP（2015年12月31日 BSフジ/「Go For It\!」GRANRODEO COUNTDOWN SPECIAL LIVE 2015〜2016からの年越し生中継）※
@@ -1113,16 +1113,16 @@
       - 第2回「KISHOWの故郷・宇部を巡る珍道中！今度は濃霧でハプニング続出」（前編：2017年5月19日 後編：6月17日 完全版：7月10日）
       - 第3回「待望の第3弾は沖縄…なのに曇天\!夜の宴で喜劇の女王と初チャンプルー\!KISHOW“島唄”熱唱\!＆e-ZUKA三線初披露\!」（前編：2017年12月30日 後編：2018年1月27日 完全版：2月17日）
   - GRANRODEO 5TH ANNIVERSARY LIVE AT BUDOKAN 〜G5 ROCK★SHOW〜（2017年2月5日 TBSチャンネル1）
-  - [週末ちぐまや家族](https://ja.wikipedia.org/wiki/週末ちぐまや家族 "wikilink")（2017年4月7日※ [テレビ山口](../Page/テレビ山口.md "wikilink")）
+  - [週末ちぐまや家族](../Page/週末ちぐまや家族.md "wikilink")（2017年4月7日※ [テレビ山口](../Page/テレビ山口.md "wikilink")）
   - J:COM PRESENTS GRANRODEO limited SHOW（2017年4月22日 J:COMプレミアチャンネル）
   - お台場みんなの夢大陸めざましライブ2017（2017年8月9日 フジテレビNEXT）
   - GRANRODEO LIVE TOUR 2017 Pierrot Dancin'（初回放送※：8月11日 拡大版：9月22日 TBSチャンネル1）
   - KENPROCK Festival 2017（2017年9月3日 TBSチャンネル1）
   - GRANRODEO LIVE 2017 G12 ROCK☆SHOW 道化達ノ宴 完全生中継（2017年9月23日 フジテレビNEXT）※
-  - [シブヤノオト](https://ja.wikipedia.org/wiki/シブヤノオト "wikilink")（2018年2月4日 [NHK総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")/「Deadly Drive」）
+  - [シブヤノオト](https://ja.wikipedia.org/wiki/シブヤノオト "wikilink")（2018年2月4日 [NHK総合](../Page/NHK総合テレビジョン.md "wikilink")/「Deadly Drive」）
   - GRANRODEO LIVE 2017 G7 ROCK☆SHOW 忘れ歌を、届けにきました。（2018年2月18日 TBSチャンネル1）
   - GRANRODEO LIVE 2018 KISHOW 宇部凱旋 ロデオぶるとっぴん 〜暑ぅてわやになりそうじゃけえ皆でぶち盛り上がろうや〜 完全生中継！（2018年8月11日 フジテレビTWO）
-  - STV夏フェスSP！”サニトレ”in岩見沢（2018年10月5日 [札幌テレビ](https://ja.wikipedia.org/wiki/札幌テレビ放送 "wikilink")）
+  - STV夏フェスSP！”サニトレ”in岩見沢（2018年10月5日 [札幌テレビ](../Page/札幌テレビ放送.md "wikilink")）
   - GRANRODEO G13 ROCK SHOW（2018年12月9日 フジテレビNEXT）
   - アニソン\!プレミアム\!（2018年12月29日 NHK BSプレミアム・31日 NHK BS4K）
 

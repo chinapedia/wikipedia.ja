@@ -1,7 +1,7 @@
 > この記事は[KENTY-GROSS](https://ja.wikipedia.org/wiki/KENTY-GROSS)から翻訳されています。
 
 
-**KENTY GROSS**（ケンティ・グロス）は[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")出身の[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")DJである。2005年[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")よりメジャーデビュー。
+**KENTY GROSS**（ケンティ・グロス）は[大阪府](../Page/大阪府.md "wikilink")出身の[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")DJである。2005年[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")よりメジャーデビュー。
 
 ## ディスコグラフィー
 
@@ -82,7 +82,7 @@
 
 ### 参加作品
 
-1.  [湘南乃風](https://ja.wikipedia.org/wiki/湘南乃風 "wikilink")「**湘南乃風〜ラガパレード〜**」（2004年8月18日）
+1.  [湘南乃風](../Page/湘南乃風.md "wikilink")「**湘南乃風〜ラガパレード〜**」（2004年8月18日）
       -
         10.これが一番大事\! feat.KENTY-GROSS
 2.  [MINMI](https://ja.wikipedia.org/wiki/MINMI "wikilink")「**西麻布伝説**」（2006年2月22日）

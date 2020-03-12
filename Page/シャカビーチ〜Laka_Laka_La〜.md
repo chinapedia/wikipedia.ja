@@ -1,11 +1,11 @@
 > この記事は[Laka Laka La](https://ja.wikipedia.org/wiki/Laka_Laka_La)から翻訳されています。
 
 
-「**シャカビーチ〜Laka Laka La〜**」（シャカビーチ ラカ ラカ ラ）は、[UVERworld](../Page/UVERworld.md "wikilink")の8枚目の[シングル](../Page/シングル.md "wikilink")である。発売元は、[gr8\!records](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")(SME)。
+「**シャカビーチ〜Laka Laka La〜**」（シャカビーチ ラカ ラカ ラ）は、[UVERworld](../Page/UVERworld.md "wikilink")の8枚目の[シングル](../Page/シングル.md "wikilink")である。発売元は、[gr8\!records](../Page/ソニー・ミュージックレコーズ.md "wikilink")(SME)。
 
 ## 概要
 
-[PVは前作に引き続き](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、[久保茂昭](../Page/久保茂昭.md "wikilink")が監督を勤めている。
+[PVは前作に引き続き](../Page/ミュージック・ビデオ.md "wikilink")、[久保茂昭](../Page/久保茂昭.md "wikilink")が監督を勤めている。
 
 初のノンタイアップシングルであり、メディア露出も極端に少なかったが、オリコンチャートで初登場2位を記録。
 
@@ -28,11 +28,11 @@
 2.  **Rainy**
     :\***<small>作詞:TAKUYA∞　/　作曲:TAKUYA∞　/　編曲:UVERworld , 平出悟</small>**
       -
-        冒頭のピアノはTAKUYA∞自身が弾いており、TAKUYA∞自らピアノの伴奏をするのは、4thシングル「[Colors of the Heart](https://ja.wikipedia.org/wiki/Colors_of_the_Heart "wikilink")」の[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")「一人じゃないから」（2ndアルバム『[BUGRIGHT](../Page/BUGRIGHT.md "wikilink")』にも収録）以来2度目である。また、TAKUYA∞はUVER家のTVで「冒頭のピアノは適当に弾いているから、また弾けといわれても弾けない」と語っている。
+        冒頭のピアノはTAKUYA∞自身が弾いており、TAKUYA∞自らピアノの伴奏をするのは、4thシングル「[Colors of the Heart](../Page/Colors_of_the_Heart.md "wikilink")」の[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")「一人じゃないから」（2ndアルバム『[BUGRIGHT](../Page/BUGRIGHT.md "wikilink")』にも収録）以来2度目である。また、TAKUYA∞はUVER家のTVで「冒頭のピアノは適当に弾いているから、また弾けといわれても弾けない」と語っている。
 3.  **sorrow\[file named “moment”\]**
     :\***<small>作詞:TAKUYA∞　/　作曲:TAKUYA∞　/　編曲:TAKUYA∞</small>**
       -
-        この曲は、曲が始まる前に4分弱の空白がある。これはデビューの日の[7月6日](../Page/7月6日.md "wikilink")に合わせて、曲が終わる時間を**7分06秒**にするためである。2007年[11月2日](../Page/11月2日.md "wikilink")に、音楽番組『[MUSIC STATION](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』内のコーナー、Mトピでこのエピソードが紹介された。ライブでは、序盤のTAKUYA∞の[ヒューマンビートボックス](https://ja.wikipedia.org/wiki/ヒューマンビートボックス "wikilink")の部分から1stシングル「[D-tecnoLife](https://ja.wikipedia.org/wiki/D-tecnoLife "wikilink")」のカップリング曲「Mixed-Up」へ繋げている。また、この曲についてTAKUYA∞は、「賛否両論が分かれるだろう」と語っている。
+        この曲は、曲が始まる前に4分弱の空白がある。これはデビューの日の[7月6日](../Page/7月6日.md "wikilink")に合わせて、曲が終わる時間を**7分06秒**にするためである。2007年[11月2日](../Page/11月2日.md "wikilink")に、音楽番組『[MUSIC STATION](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』内のコーナー、Mトピでこのエピソードが紹介された。ライブでは、序盤のTAKUYA∞の[ヒューマンビートボックス](../Page/ヒューマンビートボックス.md "wikilink")の部分から1stシングル「[D-tecnoLife](../Page/D-tecnoLife.md "wikilink")」のカップリング曲「Mixed-Up」へ繋げている。また、この曲についてTAKUYA∞は、「賛否両論が分かれるだろう」と語っている。
 
 ## 初回生産限定盤
 
@@ -63,6 +63,6 @@
 ## 関連項目
 
   - [UVERworld](../Page/UVERworld.md "wikilink")
-  - [2007年の音楽](https://ja.wikipedia.org/wiki/2007年の音楽 "wikilink")
+  - [2007年の音楽](../Page/2007年の音楽.md "wikilink")
 
 [Category:UVERworldの楽曲](https://ja.wikipedia.org/wiki/Category:UVERworldの楽曲 "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:久保茂昭の監督したミュージック・ビデオ](https://ja.wikipedia.org/wiki/Category:久保茂昭の監督したミュージック・ビデオ "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink")

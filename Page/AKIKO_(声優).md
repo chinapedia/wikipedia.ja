@@ -1,7 +1,7 @@
 > この記事は[AKIKO \(\)](https://ja.wikipedia.org/wiki/AKIKO_\(\))から翻訳されています。
 
 
-**AKIKO**（あきこ、[1977年](../Page/1977年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[ヘアメイクアーティスト](https://ja.wikipedia.org/wiki/ヘアメイクアーティスト "wikilink")、元[声優](../Page/声優.md "wikilink")。[大沢事務所](https://ja.wikipedia.org/wiki/大沢事務所 "wikilink")所属。本名は大谷安希子（旧姓：岩田）。[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")[所沢市](../Page/所沢市.md "wikilink")出身\[2\]。兄は声優の[岩田光央](https://ja.wikipedia.org/wiki/岩田光央 "wikilink")\[3\]。
+**AKIKO**（あきこ、[1977年](../Page/1977年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[ヘアメイクアーティスト](https://ja.wikipedia.org/wiki/ヘアメイクアーティスト "wikilink")、元[声優](../Page/声優.md "wikilink")。[大沢事務所](../Page/大沢事務所.md "wikilink")所属。本名は大谷安希子（旧姓：岩田）。[埼玉県](../Page/埼玉県.md "wikilink")[所沢市](../Page/所沢市.md "wikilink")出身\[2\]。兄は声優の[岩田光央](../Page/岩田光央.md "wikilink")\[3\]。
 
 ## 人物
 
@@ -17,12 +17,12 @@
 
 ### OVA
 
-  - [いちご100%](https://ja.wikipedia.org/wiki/いちご100% "wikilink")〜桜海学園エクソダス編〜（2005年、女生徒F）
-  - [大魔法峠](https://ja.wikipedia.org/wiki/大魔法峠 "wikilink")（2006年、カバ香）
+  - [いちご100%](../Page/いちご100%.md "wikilink")〜桜海学園エクソダス編〜（2005年、女生徒F）
+  - [大魔法峠](../Page/大魔法峠.md "wikilink")（2006年、カバ香）
 
 ### 吹き替え
 
-  - [ワールド・トレード・センター](https://ja.wikipedia.org/wiki/ワールド・トレード・センター_\(映画\) "wikilink")
+  - [ワールド・トレード・センター](../Page/ワールド・トレード・センター_\(映画\).md "wikilink")
 
 ### CMナレーション
 

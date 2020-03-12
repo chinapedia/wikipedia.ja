@@ -1,21 +1,21 @@
 > この記事は[B.](https://ja.wikipedia.org/wiki/B.)から翻訳されています。
 
 
-**B.ジェニー**（B. Jenet、本名ジェニー・バーン）は[SNK](../Page/SNK_\(1978年設立の企業\).md "wikilink")（[SNKプレイモア](https://ja.wikipedia.org/wiki/SNKプレイモア "wikilink")）の[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")『[餓狼 MARK OF THE WOLVES](https://ja.wikipedia.org/wiki/餓狼_MARK_OF_THE_WOLVES "wikilink")』などに登場する架空の人物。担当声優は[斉藤レイ](https://ja.wikipedia.org/wiki/斉藤レイ "wikilink")。
+**B.ジェニー**（B. Jenet、本名ジェニー・バーン）は[SNK](../Page/SNK_\(1978年設立の企業\).md "wikilink")（[SNKプレイモア](https://ja.wikipedia.org/wiki/SNKプレイモア "wikilink")）の[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")『[餓狼 MARK OF THE WOLVES](../Page/餓狼_MARK_OF_THE_WOLVES.md "wikilink")』などに登場する架空の人物。担当声優は[斉藤レイ](../Page/斉藤レイ.md "wikilink")。
 
 ## 概要
 
 グラマラスなブロンド美女。上半身の露出度が高いロングドレスを着用している。飄々とした性格で、語尾に「〜よねん」などがつく。世界有数の財閥・バーン家の一人娘であるが、生きている実感が欲しくて世間を驚かせたいと考えるようになり、義賊「リーリンナイツ」を結成して世界中を旅している。
 
-大人の色香を感じさせ、男を手玉に取るのが上手いかのようなイメージがあり、本人もそのような言動をよくするが、その本質はいわゆる「悪女」とはほど遠い、純粋さを持った女性である。『餓狼 MARK OF THE WOLVES』（以下『餓狼MOW』と表記）のエンディングでも、対戦相手の[カイン・R・ハインライン](https://ja.wikipedia.org/wiki/カイン・R・ハインライン "wikilink")に「一見軽薄なように見えるが、澄んだ瞳をしている」という旨の評価を受けている。カインは続いて「そんな目をするな…誰かを想いだすではないか…」とも言っており、カインの姉のかつての表情と少しだけ重ね合わせて彼女を見ていたことも伺える。
+大人の色香を感じさせ、男を手玉に取るのが上手いかのようなイメージがあり、本人もそのような言動をよくするが、その本質はいわゆる「悪女」とはほど遠い、純粋さを持った女性である。『餓狼 MARK OF THE WOLVES』（以下『餓狼MOW』と表記）のエンディングでも、対戦相手の[カイン・R・ハインライン](../Page/カイン・R・ハインライン.md "wikilink")に「一見軽薄なように見えるが、澄んだ瞳をしている」という旨の評価を受けている。カインは続いて「そんな目をするな…誰かを想いだすではないか…」とも言っており、カインの姉のかつての表情と少しだけ重ね合わせて彼女を見ていたことも伺える。
 
-『餓狼MOW』の勝利メッセージによると、[テリー・ボガード](https://ja.wikipedia.org/wiki/テリー・ボガード "wikilink")は初恋の人で、[北斗丸](https://ja.wikipedia.org/wiki/北斗丸 "wikilink")のことは可愛いと思っている（だが、北斗丸自身はジェニーの事は苦手）。逆に[フリーマン](https://ja.wikipedia.org/wiki/餓狼_MARK_OF_THE_WOLVES#登場キャラクター "wikilink")（彼女のドレスを傷付けた）と[ケビン・ライアン](https://ja.wikipedia.org/wiki/ケビン・ライアン "wikilink")（警察官は苦手）のことは嫌っている。
+『餓狼MOW』の勝利メッセージによると、[テリー・ボガード](../Page/テリー・ボガード.md "wikilink")は初恋の人で、[北斗丸](../Page/北斗丸.md "wikilink")のことは可愛いと思っている（だが、北斗丸自身はジェニーの事は苦手）。逆に[フリーマン](https://ja.wikipedia.org/wiki/餓狼_MARK_OF_THE_WOLVES#登場キャラクター "wikilink")（彼女のドレスを傷付けた）と[ケビン・ライアン](https://ja.wikipedia.org/wiki/ケビン・ライアン "wikilink")（警察官は苦手）のことは嫌っている。
 
 ### 客演作品
 
-『[ザ・キング・オブ・ファイターズ](../Page/ザ・キング・オブ・ファイターズ.md "wikilink")XI』（以下『KOF XI』と表記）では、[牙刀](https://ja.wikipedia.org/wiki/牙刀 "wikilink")には「あなたの父親の情報を知っている。」と言い、[グリフォンマスク](https://ja.wikipedia.org/wiki/グリフォンマスク "wikilink")には「あなたのファンです。」と称して、チームメンバーに誘っている。なお、『[KOF XIII](https://ja.wikipedia.org/wiki/ザ・キング・オブ・ファイターズ#THE_KING_OF_FIGHTERS_XIII "wikilink")』及び『[KOF XIV](https://ja.wikipedia.org/wiki/ザ・キング・オブ・ファイターズ#THE_KING_OF_FIGHTERS_XIV "wikilink")』では参加していないが、同2作品の女性格闘家チームのエンディングで女性格闘家チームのメンバーと同2作品の大会では不参加だった女性格闘家達（一部の女性格闘家は除く）と一緒にパオパオカフェに来店している。
+『[ザ・キング・オブ・ファイターズ](../Page/ザ・キング・オブ・ファイターズ.md "wikilink")XI』（以下『KOF XI』と表記）では、[牙刀](../Page/牙刀.md "wikilink")には「あなたの父親の情報を知っている。」と言い、[グリフォンマスク](https://ja.wikipedia.org/wiki/グリフォンマスク "wikilink")には「あなたのファンです。」と称して、チームメンバーに誘っている。なお、『[KOF XIII](https://ja.wikipedia.org/wiki/ザ・キング・オブ・ファイターズ#THE_KING_OF_FIGHTERS_XIII "wikilink")』及び『[KOF XIV](https://ja.wikipedia.org/wiki/ザ・キング・オブ・ファイターズ#THE_KING_OF_FIGHTERS_XIV "wikilink")』では参加していないが、同2作品の女性格闘家チームのエンディングで女性格闘家チームのメンバーと同2作品の大会では不参加だった女性格闘家達（一部の女性格闘家は除く）と一緒にパオパオカフェに来店している。
 
-『[KOF MAXIMUM IMPACT](https://ja.wikipedia.org/wiki/KOF_MAXIMUM_IMPACT "wikilink")』（以下『KOF MI』と表記）シリーズにも『MAXIMUM IMPACT 2』（以下『KOF MI2』と表記）と『MAXIMUM IMPACT Regulation "A"』（以下『KOF MIA』と表記）に登場し、『MI2』の本人のバックストーリーではバーン家の令嬢としての一面が描かれている。
+『[KOF MAXIMUM IMPACT](../Page/KOF_MAXIMUM_IMPACT.md "wikilink")』（以下『KOF MI』と表記）シリーズにも『MAXIMUM IMPACT 2』（以下『KOF MI2』と表記）と『MAXIMUM IMPACT Regulation "A"』（以下『KOF MIA』と表記）に登場し、『MI2』の本人のバックストーリーではバーン家の令嬢としての一面が描かれている。
 
 [恋愛ゲーム](../Page/恋愛ゲーム_\(ゲームジャンル\).md "wikilink")『[Days of Memories](../Page/Days_of_Memories.md "wikilink")』シリーズの『Days of Memories 〜僕と彼女の熱い夏〜』ではヒロインの1人として登場している。本作では日本に留学してきた大学生で、主人公の通う高校の教育実習生という設定。また、「リーリンナイツ」は彼女がボーカルを務めるバンドという形で登場する。
 
@@ -74,19 +74,19 @@
 
 ## 登場作品
 
-  - [餓狼 MARK OF THE WOLVES](https://ja.wikipedia.org/wiki/餓狼_MARK_OF_THE_WOLVES "wikilink")
+  - [餓狼 MARK OF THE WOLVES](../Page/餓狼_MARK_OF_THE_WOLVES.md "wikilink")
   - [THE KING OF FIGHTERS XI](../Page/ザ・キング・オブ・ファイターズ.md "wikilink")
-  - [KOF MAXIMUM IMPACTシリーズ](https://ja.wikipedia.org/wiki/KOF_MAXIMUM_IMPACT "wikilink")
+  - [KOF MAXIMUM IMPACTシリーズ](../Page/KOF_MAXIMUM_IMPACT.md "wikilink")
       - KOF MAXIMUM IMPACT 2（隠しキャラクターとして）
       - KOF MAXIMUM IMPACT Regulation "A"
   - [Days of Memories](../Page/Days_of_Memories.md "wikilink") 〜僕と彼女の熱い夏〜
 
 ## 関連人物
 
-  - [テリー・ボガード](https://ja.wikipedia.org/wiki/テリー・ボガード "wikilink") - 初恋の人
-  - [牙刀](https://ja.wikipedia.org/wiki/牙刀 "wikilink") - 『KOF XI』でのチームメイト
+  - [テリー・ボガード](../Page/テリー・ボガード.md "wikilink") - 初恋の人
+  - [牙刀](../Page/牙刀.md "wikilink") - 『KOF XI』でのチームメイト
   - [グリフォンマスク](https://ja.wikipedia.org/wiki/グリフォンマスク "wikilink") - 『KOF XI』でのチームメイト
-  - [不知火舞](https://ja.wikipedia.org/wiki/不知火舞 "wikilink") - クロスオーバー作品ではライバル関係（『餓狼MOW』では面識なし）
+  - [不知火舞](../Page/不知火舞.md "wikilink") - クロスオーバー作品ではライバル関係（『餓狼MOW』では面識なし）
 
 ## 脚注
 

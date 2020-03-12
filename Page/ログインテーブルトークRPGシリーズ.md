@@ -5,11 +5,11 @@
 
 ## 概要
 
-ログインテーブルトークRPGシリーズの前身であるログアウトテーブルトークRPGシリーズは、1993年にアスペクト社によって創刊されたレーベルである。同社のテーブルトークRPG雑誌『[LOGOUT](https://ja.wikipedia.org/wiki/LOGOUT "wikilink")』の創刊と同時で、同誌で取り上げていたゲームの関連製品の出版を行うことがレーベルの目的となっていた。
+ログインテーブルトークRPGシリーズの前身であるログアウトテーブルトークRPGシリーズは、1993年にアスペクト社によって創刊されたレーベルである。同社のテーブルトークRPG雑誌『[LOGOUT](../Page/LOGOUT.md "wikilink")』の創刊と同時で、同誌で取り上げていたゲームの関連製品の出版を行うことがレーベルの目的となっていた。
 
 『LOGOUT』休刊後もレーベルは継続し、いわゆる「[TRPG冬の時代](https://ja.wikipedia.org/wiki/TRPG冬の時代 "wikilink")」の間はテーブルトークRPGを定期的に出し続けた数少ないレーベルの一つとなっていた。その時期に多くの浮動ユーザーを取り込んだおかげで、2000年代以降の国産テーブルトークRPG市場においては中心的な位置に立つレーベルにまで成長した。
 
-レーベルで扱うゲームは[ファーイースト・アミューズメント・リサーチ](https://ja.wikipedia.org/wiki/ファーイースト・アミューズメント・リサーチ "wikilink")（F.E.A.R.）社が製作したゲームが多く、TRPG出版ではエンターブレインのライバルとも言える[富士見書房](../Page/富士見書房.md "wikilink")が[グループSNE](../Page/グループSNE.md "wikilink")が製作/翻訳したゲームが中心なのとは対照的になっている。
+レーベルで扱うゲームは[ファーイースト・アミューズメント・リサーチ](../Page/ファーイースト・アミューズメント・リサーチ.md "wikilink")（F.E.A.R.）社が製作したゲームが多く、TRPG出版ではエンターブレインのライバルとも言える[富士見書房](../Page/富士見書房.md "wikilink")が[グループSNE](../Page/グループSNE.md "wikilink")が製作/翻訳したゲームが中心なのとは対照的になっている。
 
 ## 判型について
 
@@ -36,43 +36,43 @@
   - [Aの魔法陣](../Page/Aの魔法陣.md "wikilink")
   - [エンゼルギア 天使大戦TRPG](../Page/エンゼルギア_天使大戦TRPG.md "wikilink")
   - [鋼鉄の虹 パンツァーメルヒェンRPG](../Page/鋼鉄の虹_パンツァーメルヒェンRPG.md "wikilink")
-  - [ゴーストハンターRPG](https://ja.wikipedia.org/wiki/ゴーストハンターRPG "wikilink")
+  - [ゴーストハンターRPG](../Page/ゴーストハンターRPG.md "wikilink")
   - [クトゥルフ神話TRPG](https://ja.wikipedia.org/wiki/クトゥルフ神話TRPG "wikilink")
   - [上海退魔行](../Page/上海退魔行.md "wikilink")
   - [新世黙示録](../Page/新世黙示録.md "wikilink")
-  - [真・女神転生RPG](https://ja.wikipedia.org/wiki/真・女神転生RPG "wikilink")
+  - [真・女神転生RPG](../Page/真・女神転生RPG.md "wikilink")
       - 真・女神転生II TRPG誕生篇
       - 真・女神転生TRPG覚醒篇
   - [スターレジェンド](../Page/スターレジェンド.md "wikilink")
   - [ストームブリンガー](../Page/ストームブリンガー_\(TRPG\).md "wikilink")
       - MICHAEL MOORCOCK'S ストームブリンガー
-  - [セブン＝フォートレス](https://ja.wikipedia.org/wiki/セブン＝フォートレス "wikilink")
+  - [セブン＝フォートレス](../Page/セブン＝フォートレス.md "wikilink")
       - セブン＝フォートレス Advanced
       - セブン＝フォートレスV3
   - [装甲騎兵ボトムズ](../Page/装甲騎兵ボトムズ.md "wikilink")TRPG
   - [TRPGスーパーセッション大饗宴](https://ja.wikipedia.org/wiki/TRPGスーパーセッション大饗宴 "wikilink")
-  - [テラ:ザ・ガンスリンガー](https://ja.wikipedia.org/wiki/テラ:ザ・ガンスリンガー "wikilink")
+  - [テラ:ザ・ガンスリンガー](../Page/テラ:ザ・ガンスリンガー.md "wikilink")
   - [天羅WAR](../Page/天羅WAR.md "wikilink")
-  - [天羅万象](https://ja.wikipedia.org/wiki/天羅万象 "wikilink")
+  - [天羅万象](../Page/天羅万象.md "wikilink")
       - 天羅万象・零
   - [トーキョーN◎VA](../Page/トーキョーN◎VA.md "wikilink")
       - トーキョーN◎VA The Revolution
       - トーキョーN◎VA The Revolution REVISED
       - トーキョーN◎VA The Detonation
   - [特命転攻生](../Page/特命転攻生.md "wikilink")
-  - [ドラゴンアームズ バハムートハウリング](https://ja.wikipedia.org/wiki/ドラゴンアームズ_バハムートハウリング "wikilink")
-  - [ナイトウィザード](https://ja.wikipedia.org/wiki/ナイトウィザード "wikilink")
+  - [ドラゴンアームズ バハムートハウリング](../Page/ドラゴンアームズ_バハムートハウリング.md "wikilink")
+  - [ナイトウィザード](../Page/ナイトウィザード.md "wikilink")
   - [BEAST BIND NEW TESTAMENT 新約・魔獣の絆](../Page/BEAST_BIND_NEW_TESTAMENT_新約・魔獣の絆.md "wikilink")
   - [ビーストバインド トリニティ](https://ja.wikipedia.org/wiki/ビーストバインド_トリニティ "wikilink")
   - [秘神大作戦](../Page/秘神大作戦.md "wikilink")
-  - [ブルーローズ](https://ja.wikipedia.org/wiki/ブルーローズ "wikilink")
-  - [ブレイド・オブ・アルカナ](https://ja.wikipedia.org/wiki/ブレイド・オブ・アルカナ "wikilink")
+  - [ブルーローズ](../Page/ブルーローズ.md "wikilink")
+  - [ブレイド・オブ・アルカナ](../Page/ブレイド・オブ・アルカナ.md "wikilink")
       - ブレイド・オブ・アルカナ
       - ブレイド・オブ・アルカナ The 2nd Edition
       - ブレイド・オブ・アルカナ The 3rd Edition
-  - [モンスターメーカー](https://ja.wikipedia.org/wiki/モンスターメーカー "wikilink")リザレクションTRPG
-  - [輪廻戦記ゼノスケープ](https://ja.wikipedia.org/wiki/輪廻戦記ゼノスケープ "wikilink")
+  - [モンスターメーカー](../Page/モンスターメーカー.md "wikilink")リザレクションTRPG
+  - [輪廻戦記ゼノスケープ](../Page/輪廻戦記ゼノスケープ.md "wikilink")
   - [レジェンド・オブ・フェアリーアース](../Page/レジェンド・オブ・フェアリーアース.md "wikilink")
-  - [ローズ・トゥ・ロード](https://ja.wikipedia.org/wiki/ローズ・トゥ・ロード "wikilink")（新版）
+  - [ローズ・トゥ・ロード](../Page/ローズ・トゥ・ロード.md "wikilink")（新版）
 
 [Category:エンターブレインの出版物](https://ja.wikipedia.org/wiki/Category:エンターブレインの出版物 "wikilink") [Category:エンターブレインのテーブルトークRPG](https://ja.wikipedia.org/wiki/Category:エンターブレインのテーブルトークRPG "wikilink") [Category:テーブルトークRPG関連の文庫・叢書](https://ja.wikipedia.org/wiki/Category:テーブルトークRPG関連の文庫・叢書 "wikilink")

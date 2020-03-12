@@ -7,7 +7,7 @@
 
 ### 概要
 
-『L'Arc〜en〜Ciel 15th L'Anniversary Live』は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月25日](../Page/11月25日.md "wikilink")・[26日に](https://ja.wikipedia.org/wiki/11月26日 "wikilink")[東京ドーム](../Page/東京ドーム.md "wikilink")で開催されたコンサートである。各メンバーのソロ活動期間を経たL'Arc〜en〜Cielにとって、[前年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月](../Page/9月.md "wikilink")に行われた「ASIALIVE 2005」以来のライブとなった。
+『L'Arc〜en〜Ciel 15th L'Anniversary Live』は、[2006年](../Page/2006年.md "wikilink")[11月25日](../Page/11月25日.md "wikilink")・[26日に](https://ja.wikipedia.org/wiki/11月26日 "wikilink")[東京ドーム](../Page/東京ドーム.md "wikilink")で開催されたコンサートである。各メンバーのソロ活動期間を経たL'Arc〜en〜Cielにとって、[前年](../Page/2005年.md "wikilink")[9月](../Page/9月.md "wikilink")に行われた「ASIALIVE 2005」以来のライブとなった。
 
 タイトルが示すように、このライブはL'Arc〜en〜Cielのバンド結成15周年を記念して行われたもの\[1\]であり、「L'Arc〜en〜Cielの4人が機長を務める『東京ドーム型の[タイムマシン](https://ja.wikipedia.org/wiki/タイムマシン "wikilink")』に搭乗し、過去のL'Arc〜en〜Cielを見るための[タイムトラベル](https://ja.wikipedia.org/wiki/タイムトラベル "wikilink")を行う」という設定を基に、近年のライブで演奏されることが少なくなった曲が主に披露された。また、メンバーもタイムトラベルというテーマに合わせ、移動した当時に使用していた楽器や衣装などを使用している。
 
@@ -28,7 +28,7 @@
 <!-- end list -->
 
   - メインステージ中央部には、上部に大型[LEDビジョンを](../Page/発光ダイオード.md "wikilink")、メンバー後部には透過型LEDディスプレイを設置。左右には過去の[アルバム](../Page/アルバム.md "wikilink")作品のアートワークをモチーフとした[オブジェ](https://ja.wikipedia.org/wiki/オブジェ "wikilink")を配置。
-  - サブステージへの移動は、1・2曲目の間の移動がゴーカート、17・18曲目および19・20曲目の間の移動が[馬車](https://ja.wikipedia.org/wiki/馬車 "wikilink")を模した車で行った。
+  - サブステージへの移動は、1・2曲目の間の移動がゴーカート、17・18曲目および19・20曲目の間の移動が[馬車](../Page/馬車.md "wikilink")を模した車で行った。
 
 ### 演奏曲
 
@@ -53,17 +53,17 @@
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Vivid_Colors" title="wikilink">Vivid Colors</a></p></td>
+<td><p><a href="../Page/Vivid_Colors.md" title="wikilink">Vivid Colors</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Lies_and_Truth" title="wikilink">Lies and Truth</a></p></td>
+<td><p><a href="../Page/Lies_and_Truth.md" title="wikilink">Lies and Truth</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/夏の憂鬱" title="wikilink">夏の憂鬱 [time to say good-bye]</a></p></td>
+<td><p><a href="../Page/夏の憂鬱.md" title="wikilink">夏の憂鬱 [time to say good-bye]</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -83,12 +83,12 @@
 </tr>
 <tr class="odd">
 <td><p>9</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/HONEY_(L&#39;Arc〜en〜Cielの曲)" title="wikilink">HONEY</a></p></td>
+<td><p><a href="../Page/HONEY_(L&#39;Arc〜en〜Cielの曲).md" title="wikilink">HONEY</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>10</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/STAY_AWAY" title="wikilink">STAY AWAY</a></p></td>
+<td><p><a href="../Page/STAY_AWAY.md" title="wikilink">STAY AWAY</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -103,7 +103,7 @@
 </tr>
 <tr class="odd">
 <td><p>13</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Pieces_(L&#39;Arc〜en〜Cielの曲)" title="wikilink">Pieces</a></p></td>
+<td><p><a href="../Page/Pieces_(L&#39;Arc〜en〜Cielの曲).md" title="wikilink">Pieces</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/HEART_(L&#39;Arc〜en〜Cielのアルバム)#収録曲" title="wikilink">あなた</a></p></td>
 </tr>
 <tr class="even">
@@ -116,12 +116,12 @@
 <td><p>L'Arc〜en〜Ciel PARADE 2006[8]<br />
 </p>
 <div style="font-size:90%">
-<p><a href="https://ja.wikipedia.org/wiki/HEAVEN&#39;S_DRIVE" title="wikilink">HEAVEN'S DRIVE</a><br />
-<a href="https://ja.wikipedia.org/wiki/DIVE_TO_BLUE" title="wikilink">DIVE TO BLUE</a><br />
-<a href="https://ja.wikipedia.org/wiki/LOVE_FLIES" title="wikilink">LOVE FLIES</a><br />
-<a href="https://ja.wikipedia.org/wiki/花葬" title="wikilink">花葬</a><br />
+<p><a href="../Page/HEAVEN&#39;S_DRIVE.md" title="wikilink">HEAVEN'S DRIVE</a><br />
+<a href="../Page/DIVE_TO_BLUE.md" title="wikilink">DIVE TO BLUE</a><br />
+<a href="../Page/LOVE_FLIES.md" title="wikilink">LOVE FLIES</a><br />
+<a href="../Page/花葬.md" title="wikilink">花葬</a><br />
 <a href="https://ja.wikipedia.org/wiki/NEO_UNIVERSE/finale" title="wikilink">finale</a><br />
-<a href="https://ja.wikipedia.org/wiki/浸食_〜lose_control〜" title="wikilink">浸食 〜lose control〜</a><br />
+<a href="../Page/浸食_〜lose_control〜.md" title="wikilink">浸食 〜lose control〜</a><br />
 <a href="https://ja.wikipedia.org/wiki/Clicked_Singles_Best_13#収録曲" title="wikilink">Anemone</a><br />
 <a href="https://ja.wikipedia.org/wiki/flower_(L&#39;Arc〜en〜Cielの曲)" title="wikilink">flower</a><br />
 <a href="https://ja.wikipedia.org/wiki/snow_drop_(L&#39;Arc〜en〜Cielの曲)" title="wikilink">snow drop</a><br />
@@ -130,7 +130,7 @@ HEAVEN'S DRIVE</font></p></td>
 </tr>
 <tr class="even">
 <td><p>16</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Driver&#39;s_High" title="wikilink">Driver's High</a></p></td>
+<td><p><a href="../Page/Driver&#39;s_High.md" title="wikilink">Driver's High</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -150,32 +150,32 @@ HEAVEN'S DRIVE</font></p></td>
 </tr>
 <tr class="even">
 <td><p>20</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/New_World_(L&#39;Arc〜en〜Cielの曲)" title="wikilink">New World</a>[11]</p></td>
+<td><p><a href="../Page/New_World_(L&#39;Arc〜en〜Cielの曲).md" title="wikilink">New World</a>[11]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>21</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/自由への招待" title="wikilink">自由への招待</a></p></td>
+<td><p><a href="../Page/自由への招待.md" title="wikilink">自由への招待</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>22</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/瞳の住人" title="wikilink">瞳の住人</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/叙情詩_(曲)" title="wikilink">叙情詩</a></p></td>
+<td><p><a href="../Page/瞳の住人.md" title="wikilink">瞳の住人</a></p></td>
+<td><p><a href="../Page/叙情詩_(曲).md" title="wikilink">叙情詩</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>23</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Killing_Me" title="wikilink">Killing Me</a></p></td>
+<td><p><a href="../Page/Killing_Me.md" title="wikilink">Killing Me</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>24</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/READY_STEADY_GO_(L&#39;Arc〜en〜Cielの曲)" title="wikilink">READY STEADY GO</a></p></td>
+<td><p><a href="../Page/READY_STEADY_GO_(L&#39;Arc〜en〜Cielの曲).md" title="wikilink">READY STEADY GO</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>25</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Link_(L&#39;Arc〜en〜Cielの曲)" title="wikilink">Link</a></p></td>
+<td><p><a href="../Page/Link_(L&#39;Arc〜en〜Cielの曲).md" title="wikilink">Link</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -185,7 +185,7 @@ HEAVEN'S DRIVE</font></p></td>
 </tr>
 <tr class="odd">
 <td><p>27</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/虹_(L&#39;Arc〜en〜Cielの曲)" title="wikilink">虹</a></p></td>
+<td><p><a href="../Page/虹_(L&#39;Arc〜en〜Cielの曲).md" title="wikilink">虹</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -209,10 +209,10 @@ HEAVEN'S DRIVE</font></p></td>
 2.　 flower
 3.　 White Feathers
 4.　 いばらの涙
-5.　 [I'm so happy](https://ja.wikipedia.org/wiki/風にきえないで "wikilink") （※）
+5.　 [I'm so happy](../Page/風にきえないで.md "wikilink") （※）
 6.　 あなた
 7.　 Caress of Venus
-8.　 [賽は投げられた](https://ja.wikipedia.org/wiki/Lies_and_Truth "wikilink") （※）
+8.　 [賽は投げられた](../Page/Lies_and_Truth.md "wikilink") （※）
 9.　 Link
 10\. [C'est La Vie](https://ja.wikipedia.org/wiki/heavenly_\(L'Arc〜en〜Cielのアルバム\) "wikilink") （※）
  11. 夏の憂鬱 \[time to say good-bye\]
@@ -221,8 +221,8 @@ HEAVEN'S DRIVE</font></p></td>
 14\. 瞳の住人
 15\. Vivid Colors
 16\. [ガラス玉](https://ja.wikipedia.org/wiki/heavenly_\(L'Arc〜en〜Cielのアルバム\) "wikilink") （※）
-17\. [予感](https://ja.wikipedia.org/wiki/DUNE_\(アルバム\) "wikilink") （※）
-18\. [I Wish](https://ja.wikipedia.org/wiki/True_\(L'Arc〜en〜Cielのアルバム\) "wikilink") （※）
+17\. [予感](../Page/DUNE_\(アルバム\).md "wikilink") （※）
+18\. [I Wish](../Page/True_\(L'Arc〜en〜Cielのアルバム\).md "wikilink") （※）
 19\. winter fall
 20\. Dune
 
@@ -244,16 +244,16 @@ HEAVEN'S DRIVE</font></p></td>
 22\. Lies and Truth
 23\. 浸食 〜lose control〜
 24\. Pieces
-25\. [Dearest Love](https://ja.wikipedia.org/wiki/True_\(L'Arc〜en〜Cielのアルバム\) "wikilink") （※）
-26\. [風にきえないで](https://ja.wikipedia.org/wiki/風にきえないで "wikilink") （※）
+25\. [Dearest Love](../Page/True_\(L'Arc〜en〜Cielのアルバム\).md "wikilink") （※）
+26\. [風にきえないで](../Page/風にきえないで.md "wikilink") （※）
 27\. [forbidden lover](https://ja.wikipedia.org/wiki/forbidden_lover "wikilink") （※）
 28\. DIVE TO BLUE
-29\. [Brilliant Years](https://ja.wikipedia.org/wiki/Vivid_Colors "wikilink") （※）
+29\. [Brilliant Years](../Page/Vivid_Colors.md "wikilink") （※）
 30\. snow drop
 32\. HEAVENS DRIVE
 33\. LOVE FLIES
-34\. [What is love](https://ja.wikipedia.org/wiki/Ark_\(アルバム\) "wikilink") （※）
- 35. [Fare Well](https://ja.wikipedia.org/wiki/True_\(L'Arc〜en〜Cielのアルバム\) "wikilink") （※）
+34\. [What is love](../Page/Ark_\(アルバム\).md "wikilink") （※）
+ 35. [Fare Well](../Page/True_\(L'Arc〜en〜Cielのアルバム\).md "wikilink") （※）
 36\. 虹
 37\. NEO UNIVERSE
 38\. Driver's high
@@ -261,8 +261,8 @@ HEAVEN'S DRIVE</font></p></td>
 40\. READY STEADY GO
 42\. STAY AWAY
 43\. [Blurry eyes](https://ja.wikipedia.org/wiki/Blurry_eyes "wikilink") （※）
-44\. [fate](https://ja.wikipedia.org/wiki/HEART_\(L'Arc〜en〜Cielのアルバム\) "wikilink") （※）
-45\. [milky way](https://ja.wikipedia.org/wiki/HEART_\(L'Arc〜en〜Cielのアルバム\) "wikilink") （※）
+44\. [fate](../Page/HEART_\(L'Arc〜en〜Cielのアルバム\).md "wikilink") （※）
+45\. [milky way](../Page/HEART_\(L'Arc〜en〜Cielのアルバム\).md "wikilink") （※）
 48\. [and She Said](https://ja.wikipedia.org/wiki/and_She_Said "wikilink") （※）
 49\. HONEY
 
@@ -285,15 +285,15 @@ HEAVEN'S DRIVE</font></p></td>
 
 ## ビデオ
 
-[2007年](../Page/2007年.md "wikilink")[9月12日](../Page/9月12日.md "wikilink")発売。発売元は[Ki/oon Records](https://ja.wikipedia.org/wiki/キューンミュージック "wikilink")。
+[2007年](../Page/2007年.md "wikilink")[9月12日](../Page/9月12日.md "wikilink")発売。発売元は[Ki/oon Records](../Page/キューンミュージック.md "wikilink")。
 
 L'Arc〜en〜Cielが同年の8月から行った「[シングル](../Page/シングル.md "wikilink")・[アルバム](../Page/アルバム.md "wikilink")・[DVD](../Page/DVD.md "wikilink")全6作品・5ヶ月連続リリース」の第2弾で、結成15周年を記念して行われた「L'Anniversary」企画に関連するリリース・イベントも、この作品が最後となった。また、本作の売り上げは現在までラルクのDVD作品では最大の売上枚数を記録している\[13\]。
 
-映像は[WOWOW](../Page/WOWOW.md "wikilink")で録画放送されたものと同様に2日目の公演を中心とし\[14\]、ボーナストラックに収録されている新曲「[Bye Bye](https://ja.wikipedia.org/wiki/BUTTERFLY_\(L'Arc〜en〜Cielのアルバム\)#収録曲 "wikilink")」（ダイジェスト収録）も含めた演奏曲を全曲収録。また、1日目のみで演奏された「[Pieces](https://ja.wikipedia.org/wiki/Pieces_\(L'Arc〜en〜Cielの曲\) "wikilink")」「[Shout at the Devil](https://ja.wikipedia.org/wiki/HEART_\(L'Arc〜en〜Cielのアルバム\)#収録曲 "wikilink")」「[瞳の住人](https://ja.wikipedia.org/wiki/瞳の住人 "wikilink")」に加え、約10年ぶりに演奏された[インディーズ](../Page/インディーズ.md "wikilink")時代の楽曲、「[I'm in Pain](https://ja.wikipedia.org/wiki/L'Arc-en-Ciel_\(ビデオ\)#収録曲 "wikilink")」もボーナストラックとして収められている。
+映像は[WOWOW](../Page/WOWOW.md "wikilink")で録画放送されたものと同様に2日目の公演を中心とし\[14\]、ボーナストラックに収録されている新曲「[Bye Bye](https://ja.wikipedia.org/wiki/BUTTERFLY_\(L'Arc〜en〜Cielのアルバム\)#収録曲 "wikilink")」（ダイジェスト収録）も含めた演奏曲を全曲収録。また、1日目のみで演奏された「[Pieces](../Page/Pieces_\(L'Arc〜en〜Cielの曲\).md "wikilink")」「[Shout at the Devil](https://ja.wikipedia.org/wiki/HEART_\(L'Arc〜en〜Cielのアルバム\)#収録曲 "wikilink")」「[瞳の住人](../Page/瞳の住人.md "wikilink")」に加え、約10年ぶりに演奏された[インディーズ](../Page/インディーズ.md "wikilink")時代の楽曲、「[I'm in Pain](https://ja.wikipedia.org/wiki/L'Arc-en-Ciel_\(ビデオ\)#収録曲 "wikilink")」もボーナストラックとして収められている。
 
 初回限定仕様はスペシャルパッケージ（プラスチック製スリーブケース・2面デジパックケース）、初回封入特典はスペシャルポストカードセット。
 
-また、[2014年](../Page/2014年.md "wikilink")[2月26日](https://ja.wikipedia.org/wiki/2月26日 "wikilink")には本作を含む音楽作品18タイトルを収録した[BD-BOX](https://ja.wikipedia.org/wiki/DVD-BOX "wikilink")『[L'Aive Blu-ray BOX -Limited Edition-](https://ja.wikipedia.org/wiki/L'Aive_Blu-ray_BOX_-Limited_Edition- "wikilink")』が発売され、本作のライブ音源CDも収録された。同年[3月19日](../Page/3月19日.md "wikilink")にはBlu-ray Disc版が単体でリリースされた。さらに、[2018年](../Page/2018年.md "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")から[iTunes Storeにて配信が開始された](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")。
+また、[2014年](../Page/2014年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink")には本作を含む音楽作品18タイトルを収録した[BD-BOX](https://ja.wikipedia.org/wiki/DVD-BOX "wikilink")『[L'Aive Blu-ray BOX -Limited Edition-](https://ja.wikipedia.org/wiki/L'Aive_Blu-ray_BOX_-Limited_Edition- "wikilink")』が発売され、本作のライブ音源CDも収録された。同年[3月19日](../Page/3月19日.md "wikilink")にはBlu-ray Disc版が単体でリリースされた。さらに、[2018年](../Page/2018年.md "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")から[iTunes Storeにて配信が開始された](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")。
 
 ### 収録曲
 
@@ -359,7 +359,7 @@ L'Arc〜en〜Cielが同年の8月から行った「[シングル](../Page/シン
 
 [Category:日本のコンサート](https://ja.wikipedia.org/wiki/Category:日本のコンサート "wikilink") [Category:2006年のコンサート](https://ja.wikipedia.org/wiki/Category:2006年のコンサート "wikilink") [Category:2006年の日本の音楽](https://ja.wikipedia.org/wiki/Category:2006年の日本の音楽 "wikilink") [Category:東京ドームの行事・イベント](https://ja.wikipedia.org/wiki/Category:東京ドームの行事・イベント "wikilink") [Category:東京都の音楽](https://ja.wikipedia.org/wiki/Category:東京都の音楽 "wikilink") [Category:2006年11月](https://ja.wikipedia.org/wiki/Category:2006年11月 "wikilink") [Category:L'Arc〜en〜Cielの映像作品](https://ja.wikipedia.org/wiki/Category:L'Arc〜en〜Cielの映像作品 "wikilink") [Category:2007年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:2007年の音楽関連の映像作品 "wikilink") [Category:2007年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2007年のライブ・ビデオ "wikilink")
 
-1.  設定上は架空の[航空会社](../Page/航空会社.md "wikilink")、「パンラル（PAN L'AL）」の15周年記念ツアー。「パンラル」は[パンアメリカン航空](https://ja.wikipedia.org/wiki/パンアメリカン航空 "wikilink")のパロディ。
+1.  設定上は架空の[航空会社](../Page/航空会社.md "wikilink")、「パンラル（PAN L'AL）」の15周年記念ツアー。「パンラル」は[パンアメリカン航空](../Page/パンアメリカン航空.md "wikilink")のパロディ。
 2.  上位の曲がすべて演奏された訳ではなく、メンバーからのリクエストも反映した上で曲順が決定された。
 3.  「[1994年](../Page/1994年.md "wikilink")」へのタイムトラベル。サブステージから登場し、演奏終了後にゴーカートでメインステージへ移動。
 4.  「[1999年](../Page/1999年.md "wikilink")」へのタイムトラベル。同年開催のコンサートツアー「GRAND CROSS TOUR 1999」がモチーフ。
@@ -367,7 +367,7 @@ L'Arc〜en〜Cielが同年の8月から行った「[シングル](../Page/シン
 6.
 7.
 8.  メドレー。
-9.  「[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")」へのタイムトラベル。以降2曲はサブステージでの演奏。
+9.  「[1991年](../Page/1991年.md "wikilink")」へのタイムトラベル。以降2曲はサブステージでの演奏。
 10.
 11. 「2006年」への帰還。
 12. 本公演で披露された新曲。2012年2月8日に発売された12thアルバム『[BUTTERFLY](https://ja.wikipedia.org/wiki/BUTTERFLY_\(L'Arc〜en〜Cielのアルバム\) "wikilink")』に初収録された。

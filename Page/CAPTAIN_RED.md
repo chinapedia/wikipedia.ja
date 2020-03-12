@@ -1,7 +1,7 @@
 > この記事は[CAPTAIN RED](https://ja.wikipedia.org/wiki/CAPTAIN_RED)から翻訳されています。
 
 
-『**CAPTAIN RED**』（きゃぷてん れっど）は[藤田貴美](https://ja.wikipedia.org/wiki/藤田貴美 "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[少女漫画](../Page/少女漫画.md "wikilink")作品。 初出は[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")「[花とゆめ](../Page/花とゆめ.md "wikilink")」11～12号。
+『**CAPTAIN RED**』（きゃぷてん れっど）は[藤田貴美](https://ja.wikipedia.org/wiki/藤田貴美 "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[少女漫画](../Page/少女漫画.md "wikilink")作品。 初出は[1992年](../Page/1992年.md "wikilink")「[花とゆめ](../Page/花とゆめ.md "wikilink")」11～12号。
 
 ## あらすじ
 

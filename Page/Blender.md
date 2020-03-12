@@ -1,7 +1,7 @@
 > この記事は[Blender](https://ja.wikipedia.org/wiki/Blender)から翻訳されています。
 
 
-**Blender**（ブレンダー）とは、[オープンソース](../Page/オープンソース.md "wikilink")の統合型[3DCGソフトウェア](https://ja.wikipedia.org/wiki/3DCGソフトウェア "wikilink")の一つであり、3Dモデル作成、レイアウト、[アニメーション](https://ja.wikipedia.org/wiki/コンピュータアニメーション "wikilink")、シミュレーション、[レンダリング](https://ja.wikipedia.org/wiki/レンダリング_\(コンピュータ\) "wikilink")、[デジタル合成](https://ja.wikipedia.org/wiki/デジタル合成 "wikilink") (コンポジット)などの機能を備えている。
+**Blender**（ブレンダー）とは、[オープンソース](../Page/オープンソース.md "wikilink")の統合型[3DCGソフトウェア](https://ja.wikipedia.org/wiki/3DCGソフトウェア "wikilink")の一つであり、3Dモデル作成、レイアウト、[アニメーション](https://ja.wikipedia.org/wiki/コンピュータアニメーション "wikilink")、シミュレーション、[レンダリング](../Page/レンダリング_\(コンピュータ\).md "wikilink")、[デジタル合成](../Page/デジタル合成.md "wikilink") (コンポジット)などの機能を備えている。
 
 また、バージョン2.8以降は2D Animationテンプレートを持っており、[2Dアニメーション制作ソフトとして使うことも容易となっている](https://ja.wikipedia.org/wiki/2Dアニメーション制作ソフト一覧 "wikilink")。
 
@@ -11,9 +11,9 @@
 
 。
 
-画面描画の[バックエンド](https://ja.wikipedia.org/wiki/バックエンド "wikilink")に[OpenGL](https://ja.wikipedia.org/wiki/OpenGL "wikilink")を採用している\[1\]。
+画面描画の[バックエンド](https://ja.wikipedia.org/wiki/バックエンド "wikilink")に[OpenGL](../Page/OpenGL.md "wikilink")を採用している\[1\]。
 
-様々な機能と柔軟性から、徐々にプロフェッショナルの現場で使用されはじめている\[2\]。[カラーとその子会社であるプロジェクトスタジオQは従来使用してきた](https://ja.wikipedia.org/wiki/カラー_\(アニメ制作会社\) "wikilink")[3ds MaxからBlenderへの移行を進めており](https://ja.wikipedia.org/wiki/3ds_Max "wikilink")、制作中の『[シン・エヴァンゲリオン劇場版<nowiki>](https://ja.wikipedia.org/wiki/シン・エヴァンゲリオン劇場版 "wikilink"):』においてもBlenderの「実地検証」を実施している\[3\]。また、両社はBlender財団への賛同と開発資金の提供を発表した\[4\]\[5\]。
+様々な機能と柔軟性から、徐々にプロフェッショナルの現場で使用されはじめている\[2\]。[カラーとその子会社であるプロジェクトスタジオQは従来使用してきた](../Page/カラー_\(アニメ制作会社\).md "wikilink")[3ds MaxからBlenderへの移行を進めており](../Page/3ds_Max.md "wikilink")、制作中の『[シン・エヴァンゲリオン劇場版<nowiki>](https://ja.wikipedia.org/wiki/シン・エヴァンゲリオン劇場版 "wikilink"):』においてもBlenderの「実地検証」を実施している\[3\]。また、両社はBlender財団への賛同と開発資金の提供を発表した\[4\]\[5\]。
 
 ### モデリング
 
@@ -37,7 +37,7 @@
 
 ### ゲームエンジン
 
-2.7xまではゲームエンジン機能を内蔵しており、[Python](../Page/Python.md "wikilink")[スクリプト](https://ja.wikipedia.org/wiki/スクリプト "wikilink")などを利用することでインタラクティブな[コンテンツ](../Page/コンテンツ.md "wikilink")を制作することが可能であった。2.8ではゲームエンジン機能が一旦削除されたものの、今後インタラクティブモードが再度追加される予定となっている。
+2.7xまではゲームエンジン機能を内蔵しており、[Python](../Page/Python.md "wikilink")[スクリプト](../Page/スクリプト.md "wikilink")などを利用することでインタラクティブな[コンテンツ](../Page/コンテンツ.md "wikilink")を制作することが可能であった。2.8ではゲームエンジン機能が一旦削除されたものの、今後インタラクティブモードが再度追加される予定となっている。
 
 ## バージョン履歴
 
@@ -49,11 +49,11 @@
 
 ### 国際化と地域化
 
-日本語環境は2.49aまでは貧弱だったが、2.49bにて[2ちゃんねる](https://ja.wikipedia.org/wiki/2ちゃんねる "wikilink")のBlenderスレッドの有志が制作・配布した詳細な日本語翻訳テーブルが公式採用された事で強化された。 その後、バージョン2.5系列で[国際化がなくなり日本語環境での使用はできなくなっていたが](https://ja.wikipedia.org/wiki/国際化と地域化 "wikilink")、GSoC2011にて国際化され、平行して日本の有志により再び日本語対応が行われ、バージョン2.60にて公式に日本語環境が復活した。
+日本語環境は2.49aまでは貧弱だったが、2.49bにて[2ちゃんねる](../Page/2ちゃんねる.md "wikilink")のBlenderスレッドの有志が制作・配布した詳細な日本語翻訳テーブルが公式採用された事で強化された。 その後、バージョン2.5系列で[国際化がなくなり日本語環境での使用はできなくなっていたが](../Page/国際化と地域化.md "wikilink")、GSoC2011にて国際化され、平行して日本の有志により再び日本語対応が行われ、バージョン2.60にて公式に日本語環境が復活した。
 
 ## 歴史
 
-Blenderの前身である**Traces**は、オランダの[CG](https://ja.wikipedia.org/wiki/CG "wikilink")スタジオ、NEOGEO社の共同創設者の一人であるトン・ローセンダール (Ton Roosendaal) によって、[AmigaOS](https://ja.wikipedia.org/wiki/AmigaOS "wikilink")向けのレイトレーシングレンダラーとして開発され、後にSGI [IRIX](https://ja.wikipedia.org/wiki/IRIX "wikilink")へと移植された。その後、Tracesのソースコードは書き直されて、Blenderとなった。
+Blenderの前身である**Traces**は、オランダの[CG](https://ja.wikipedia.org/wiki/CG "wikilink")スタジオ、NEOGEO社の共同創設者の一人であるトン・ローセンダール (Ton Roosendaal) によって、[AmigaOS](../Page/AmigaOS.md "wikilink")向けのレイトレーシングレンダラーとして開発され、後にSGI [IRIX](../Page/IRIX.md "wikilink")へと移植された。その後、Tracesのソースコードは書き直されて、Blenderとなった。
 
 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、トン・ローセンダールはインハウス・ツールとして使用されてきたBlenderの開発・外販を行う為に社を設立した。Windows版も用意され、[ラジオシティ](../Page/ラジオシティ.md "wikilink")機能などを実装した有料版と無料版の二種を展開した。
 

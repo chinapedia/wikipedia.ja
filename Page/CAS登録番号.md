@@ -1,11 +1,11 @@
 > この記事は[CAS](https://ja.wikipedia.org/wiki/CAS)から翻訳されています。
 
 
-**CAS登録番号**（キャスとうろくばんごう、CAS registry number）とは、[化学物質](https://ja.wikipedia.org/wiki/化学物質 "wikilink")を特定するための番号である。CAS番号、CASナンバー、CAS RNとも呼ばれる。
+**CAS登録番号**（キャスとうろくばんごう、CAS registry number）とは、[化学物質](../Page/化学物質.md "wikilink")を特定するための番号である。CAS番号、CASナンバー、CAS RNとも呼ばれる。
 
 ## 概要
 
-[アメリカ化学会](https://ja.wikipedia.org/wiki/アメリカ化学会 "wikilink") (American Chemical Society, ACS) が発行する[Chemical Abstracts誌で使用される化合物番号で](https://ja.wikipedia.org/wiki/Chemical_Abstracts "wikilink")、同学会の下部組織であるCAS (Chemical Abstracts Service) が、同誌をはじめ各種検索サービスとCASレジストリへの登録業務を行っている。日本では、一般社団法人化学情報協会がCASの代理店業務を行い、CAS登録番号取得の取次ぎも行っている。
+[アメリカ化学会](../Page/アメリカ化学会.md "wikilink") (American Chemical Society, ACS) が発行する[Chemical Abstracts誌で使用される化合物番号で](../Page/Chemical_Abstracts.md "wikilink")、同学会の下部組織であるCAS (Chemical Abstracts Service) が、同誌をはじめ各種検索サービスとCASレジストリへの登録業務を行っている。日本では、一般社団法人化学情報協会がCASの代理店業務を行い、CAS登録番号取得の取次ぎも行っている。
 
 CASレジストリに登録される化学物質は以下の通り：
 
@@ -26,16 +26,16 @@ CASレジストリに登録される化学物質は以下の通り：
 
 現在の登録数はCASのWebサイト「CAS Database Counter」に逐次公開され、1日あたり約14,000の物質が登録されている。[2012年](../Page/2012年.md "wikilink")12月時点で約71,000,000の無機および有機化合物、約64,200,000の遺伝子配列が登録されている。
 
-Chemical Abstracts誌は[1907年](../Page/1907年.md "wikilink")から収録を開始し、現在では全世界が発行している40,000誌以上の[学術雑誌](https://ja.wikipedia.org/wiki/学術雑誌 "wikilink")、[特許](https://ja.wikipedia.org/wiki/特許 "wikilink")、学会議事録などの文書を要約している。したがってCASレジストリは化学物質IDの[デファクトスタンダード](../Page/デファクトスタンダード.md "wikilink")になっており、化合物の各種申請に際してCAS登録番号の提示が求められることが多い。
+Chemical Abstracts誌は[1907年](../Page/1907年.md "wikilink")から収録を開始し、現在では全世界が発行している40,000誌以上の[学術雑誌](../Page/学術雑誌.md "wikilink")、[特許](../Page/特許.md "wikilink")、学会議事録などの文書を要約している。したがってCASレジストリは化学物質IDの[デファクトスタンダード](../Page/デファクトスタンダード.md "wikilink")になっており、化合物の各種申請に際してCAS登録番号の提示が求められることが多い。
 
-CAS登録番号はハイフンにより3つの部分に分けられる。左は7桁（以下）の数値（2012年12月現在）、中央は2桁の数値、右は1桁の数値である。右の1桁は[チェックディジット](https://ja.wikipedia.org/wiki/チェックディジット "wikilink")である。以下の特徴がある：
+CAS登録番号はハイフンにより3つの部分に分けられる。左は7桁（以下）の数値（2012年12月現在）、中央は2桁の数値、右は1桁の数値である。右の1桁は[チェックディジット](../Page/チェックディジット.md "wikilink")である。以下の特徴がある：
 
   - 番号は基本的に登録順で、左の数値、中央の数値を用いた通し番号がつけられる
   - 構造や物性などとは関連付けることなく割り当てられ、番号に化学的な意味は持たせていない
 
 異性体は異なる物質なので、CAS登録番号の割り当ても異なる。例えばD-[グルコース](../Page/グルコース.md "wikilink")は50-99-7、L-グルコースは921-60-8である。まれに、分子の種類全体に対して1つの CAS 登録番号が割り当てられることもある（全ての[アルコール脱水素酵素](https://ja.wikipedia.org/wiki/アルコール脱水素酵素 "wikilink")は9031-72-5である）。
 
-[チェックディジット](https://ja.wikipedia.org/wiki/チェックディジット "wikilink")の計算式は次のとおりである。
+[チェックディジット](../Page/チェックディジット.md "wikilink")の計算式は次のとおりである。
 
 CAS登録番号が *N*<sub>8</sub>*N*<sub>7</sub>*N*<sub>6</sub>*N*<sub>5</sub>*N*<sub>4</sub>*N*<sub>3</sub>-*N*<sub>2</sub>*N*<sub>1</sub>-*R* （*R*, *N*<sub>i</sub> は各桁の0～9の数字、桁が存在しない場合は0とみなす）の場合、
 

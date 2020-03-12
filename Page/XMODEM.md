@@ -1,13 +1,13 @@
 > この記事は[XMODEM](https://ja.wikipedia.org/wiki/XMODEM)から翻訳されています。
 
 
-**XMODEM**（えっくすもでむ）は、[バイナリ転送プロトコル](../Page/バイナリ転送プロトコル.md "wikilink")の一種である。128[バイト単位で](https://ja.wikipedia.org/wiki/バイト_\(情報\) "wikilink")[非同期通信](https://ja.wikipedia.org/wiki/非同期通信 "wikilink")を行う。開発者の Ward Christensen が[パブリックドメイン](../Page/パブリックドメイン.md "wikilink")扱いで仕様を公開したため、[パソコン通信](../Page/パソコン通信.md "wikilink")で広く使われた。XMODEMを元に考案されたプロトコルも多く、またXMODEM自身にもいくつかのタイプがある。
+**XMODEM**（えっくすもでむ）は、[バイナリ転送プロトコル](../Page/バイナリ転送プロトコル.md "wikilink")の一種である。128[バイト単位で](../Page/バイト_\(情報\).md "wikilink")[非同期通信](https://ja.wikipedia.org/wiki/非同期通信 "wikilink")を行う。開発者の Ward Christensen が[パブリックドメイン](../Page/パブリックドメイン.md "wikilink")扱いで仕様を公開したため、[パソコン通信](../Page/パソコン通信.md "wikilink")で広く使われた。XMODEMを元に考案されたプロトコルも多く、またXMODEM自身にもいくつかのタイプがある。
 
 ## 特徴
 
   - 構造が簡単。ただし転送効率が悪い。
   - 128バイトもしくは1024バイト単位でデータを転送する。
-  - エラー検出に8ビットの[チェックサム](https://ja.wikipedia.org/wiki/チェックサム "wikilink")もしくは16ビットの[CRC符号を利用する](https://ja.wikipedia.org/wiki/巡回冗長検査 "wikilink")。
+  - エラー検出に8ビットの[チェックサム](../Page/チェックサム.md "wikilink")もしくは16ビットの[CRC符号を利用する](../Page/巡回冗長検査.md "wikilink")。
   - 転送エラーがあった場合、エラーのあったブロックを再送することができる。しかし指定したブロックからやり直す機能はない。
   - ファイル名やファイルサイズ、[タイムスタンプ](https://ja.wikipedia.org/wiki/タイムスタンプ "wikilink")などのファイル情報を転送する機能はない。
   - 一度に転送できるのは1ファイルのみ（バッチ転送不能）。
@@ -19,7 +19,7 @@
   - XMODEM/SUM: 128バイト単位でデータを転送し、エラー検出に8ビットのチェックサムを使用する。単に "XMODEM" といった場合は XMODEM/SUM を指す場合が多い。
     XMODEM/CRC: 128バイト単位でデータを転送し、エラー検出に16ビットのCRCを使用することで信頼性の向上を図ったもの。
     XMODEM/1k: 1024バイト単位でデータを転送し、エラー検出に16ビットのCRCを使用することで転送速度と信頼性の向上を図ったもの。
-    Flying-XMODEM: 本来はデータブロックを全て受け取り、エラーがないことを確認した上で送信側に送る**ACK**を、データブロックを受け取り終わる前に先に送ってしまう（[フライングする](https://ja.wikipedia.org/wiki/不正スタート "wikilink")）ことで転送速度の向上を図ったもの。-/SUM、-/CRC、-/1kのいずれに対しても使用される。規約違反であり、性質上エラーがあっても回復することができない。
+    Flying-XMODEM: 本来はデータブロックを全て受け取り、エラーがないことを確認した上で送信側に送る**ACK**を、データブロックを受け取り終わる前に先に送ってしまう（[フライングする](../Page/不正スタート.md "wikilink")）ことで転送速度の向上を図ったもの。-/SUM、-/CRC、-/1kのいずれに対しても使用される。規約違反であり、性質上エラーがあっても回復することができない。
 
 ## 手順
 
@@ -82,19 +82,19 @@ SOH、STX、EOT、ACK、NAK、CANの6つの[コントロールコードと文字
 
 ## 発展
 
-XMODEMは効率があまり良くないため、これを改良した[YMODEM](https://ja.wikipedia.org/wiki/YMODEM "wikilink")、[ZMODEM](https://ja.wikipedia.org/wiki/ZMODEM "wikilink")などが後に開発された。
+XMODEMは効率があまり良くないため、これを改良した[YMODEM](../Page/YMODEM.md "wikilink")、[ZMODEM](https://ja.wikipedia.org/wiki/ZMODEM "wikilink")などが後に開発された。
 
 ## 関連項目
 
   - [バイナリ転送プロトコル](../Page/バイナリ転送プロトコル.md "wikilink")
-  - [YMODEM](https://ja.wikipedia.org/wiki/YMODEM "wikilink")
+  - [YMODEM](../Page/YMODEM.md "wikilink")
   - [ZMODEM](https://ja.wikipedia.org/wiki/ZMODEM "wikilink")
   - [B Plus](https://ja.wikipedia.org/wiki/B_Plus_\(プロトコル\) "wikilink")
   - [QuickVAN](https://ja.wikipedia.org/wiki/QuickVAN "wikilink")
 
 <!-- end list -->
 
-  - [カーミット (プロトコル)](https://ja.wikipedia.org/wiki/カーミット_\(プロトコル\) "wikilink")
-  - [バイナリ](https://ja.wikipedia.org/wiki/バイナリ "wikilink")
+  - [カーミット (プロトコル)](../Page/カーミット_\(プロトコル\).md "wikilink")
+  - [バイナリ](../Page/バイナリ.md "wikilink")
 
 [Category:パソコン通信](https://ja.wikipedia.org/wiki/Category:パソコン通信 "wikilink") [Category:ファイル転送プロトコル](https://ja.wikipedia.org/wiki/Category:ファイル転送プロトコル "wikilink")

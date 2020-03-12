@@ -1,9 +1,9 @@
 > この記事は[Hello world](https://ja.wikipedia.org/wiki/Hello_world)から翻訳されています。
 
 
-[HelloWorld_Maktivism_ComputerProgramming_LEDs.jpg](https://ja.wikipedia.org/wiki/File:HelloWorld_Maktivism_ComputerProgramming_LEDs.jpg "fig:HelloWorld_Maktivism_ComputerProgramming_LEDs.jpg")ライトの[発光](https://ja.wikipedia.org/wiki/発光 "wikilink")を用いた"Hello, World\!"の表示\]\]
+[HelloWorld_Maktivism_ComputerProgramming_LEDs.jpg](https://ja.wikipedia.org/wiki/File:HelloWorld_Maktivism_ComputerProgramming_LEDs.jpg "fig:HelloWorld_Maktivism_ComputerProgramming_LEDs.jpg")ライトの[発光](../Page/発光.md "wikilink")を用いた"Hello, World\!"の表示\]\]
 
-**Hello world**（ハロー・ワールド）は、画面に「Hello, world\!」やそれに類する文字列を表示する[プログラムの通称である](https://ja.wikipedia.org/wiki/プログラム_\(コンピュータ\) "wikilink")。多くの[プログラミング言語](../Page/プログラミング言語.md "wikilink")において非常に単純なプログラムであり、[プログラミング言語](../Page/プログラミング言語.md "wikilink")の入門書で、プログラムを動かすためのプログラミング言語の基本文法の解説例として提示される。
+**Hello world**（ハロー・ワールド）は、画面に「Hello, world\!」やそれに類する文字列を表示する[プログラムの通称である](../Page/プログラム_\(コンピュータ\).md "wikilink")。多くの[プログラミング言語](../Page/プログラミング言語.md "wikilink")において非常に単純なプログラムであり、[プログラミング言語](../Page/プログラミング言語.md "wikilink")の入門書で、プログラムを動かすためのプログラミング言語の基本文法の解説例として提示される。
 
 ## 利用目的
 
@@ -41,17 +41,17 @@ b 'o, w';
 c 'orld';
 ```
 
-`hello, world`の起源は[BCPL](https://ja.wikipedia.org/wiki/BCPL "wikilink")（1967年）であるとも言われている。この主張はBCPLの発明者[ブライアン・カーニハン](../Page/ブライアン・カーニハン.md "wikilink")と[マーティン・リチャーズ](https://ja.wikipedia.org/wiki/マーティン・リチャーズ "wikilink")の[アーカイブ](https://ja.wikipedia.org/wiki/アーカイブ "wikilink")ノートに依るものである。
+`hello, world`の起源は[BCPL](../Page/BCPL.md "wikilink")（1967年）であるとも言われている。この主張はBCPLの発明者[ブライアン・カーニハン](../Page/ブライアン・カーニハン.md "wikilink")と[マーティン・リチャーズ](https://ja.wikipedia.org/wiki/マーティン・リチャーズ "wikilink")の[アーカイブ](../Page/アーカイブ.md "wikilink")ノートに依るものである。
 
 モダンな言語においてHello Worldは洗練された変化を遂げている。例えば、[Go言語は多言語対応プログラムを紹介し](https://ja.wikipedia.org/wiki/Go_\(プログラミング言語\) "wikilink")\[4\]、[Sun](../Page/サン・マイクロシステムズ.md "wikilink") [Java](https://ja.wikipedia.org/wiki/Java "wikilink")は[SVG](https://ja.wikipedia.org/wiki/SVG "wikilink")で文言を表し\[5\]、[XL言語は](https://ja.wikipedia.org/wiki/XL_\(プログラミング言語\) "wikilink")3Dグラフィックの地球で見せている\[6\] 。`hello, world`の出力には、[Perl](../Page/Perl.md "wikilink")、[Python](../Page/Python.md "wikilink")、[Rubyのような言語では一行だけを必要とするかもしれないが](https://ja.wikipedia.org/wiki/Ruby_\(代表的なトピック\) "wikilink")、一方で低レベルのアセンブリ言語では数十行の命令を必要とする。とエリオット・ソロウェイは、グラフィックスやサウンドがテキストより簡単に操作できるようになり、「Hello, World\!」のテスト文言が過去のものとなる可能性があることを示唆している。
 
 ## 種類
 
-[PSP-Homebrew.jpeg](https://ja.wikipedia.org/wiki/File:PSP-Homebrew.jpeg "fig:PSP-Homebrew.jpeg")の[実証実験のためのハロー](https://ja.wikipedia.org/wiki/概念実証 "wikilink")・ワールド\]\] この文言は句読点や頭文字の異なる多数の種類が存在している。その種類はコンマ「,」や感嘆符「\!」の有無、頭文字の「H」および「W」が大文字かどうかを含む。いくつかの大文字のみサポートするシステム上の言語では「HELLO WORLD」のように異なる形式の実装を強制し、[難解プログラミング言語](https://ja.wikipedia.org/wiki/難解プログラミング言語 "wikilink")でのハロー・ワールドはわずかに修正された文字列を出力する。「」以外の文言でも良いので、同様の意味で「」が用いられることもあり、[日本語プログラミング言語](https://ja.wikipedia.org/wiki/日本語プログラミング言語 "wikilink")では「Hello World」を直訳した「こんにちは世界」が用いられることもある。
+[PSP-Homebrew.jpeg](https://ja.wikipedia.org/wiki/File:PSP-Homebrew.jpeg "fig:PSP-Homebrew.jpeg")の[実証実験のためのハロー](../Page/概念実証.md "wikilink")・ワールド\]\] この文言は句読点や頭文字の異なる多数の種類が存在している。その種類はコンマ「,」や感嘆符「\!」の有無、頭文字の「H」および「W」が大文字かどうかを含む。いくつかの大文字のみサポートするシステム上の言語では「HELLO WORLD」のように異なる形式の実装を強制し、[難解プログラミング言語](https://ja.wikipedia.org/wiki/難解プログラミング言語 "wikilink")でのハロー・ワールドはわずかに修正された文字列を出力する。「」以外の文言でも良いので、同様の意味で「」が用いられることもあり、[日本語プログラミング言語](https://ja.wikipedia.org/wiki/日本語プログラミング言語 "wikilink")では「Hello World」を直訳した「こんにちは世界」が用いられることもある。
 
-利用目的にも異なる種類がある。[Lisp](https://ja.wikipedia.org/wiki/Lisp "wikilink")、[ML](../Page/ML.md "wikilink")、[Haskell](../Page/Haskell.md "wikilink")のような[関数型プログラミング言語](https://ja.wikipedia.org/wiki/関数型プログラミング言語 "wikilink")では、[再起手法を強調する関数型プログラミングの実例として利用されることがある](https://ja.wikipedia.org/wiki/再帰#再帰呼び出し "wikilink")。一方で、オリジナルの例は副作用を伴った[純粋関数型言語に違反した入出力の例として見られる](../Page/関数型言語.md "wikilink")。[アセンブリ言語](../Page/アセンブリ言語.md "wikilink")、[C言語](../Page/C言語.md "wikilink")、[VHDL](https://ja.wikipedia.org/wiki/VHDL "wikilink")のような組み込みで使われる言語では、文言を出力することが追加のコンポーネントや他機器との連携なしでは難しい、もしくは、その手法が存在しないことの例として用いられる。[マイコン](../Page/マイクロコンピュータ.md "wikilink")、[FPGA](https://ja.wikipedia.org/wiki/FPGA "wikilink")、[CPLD](https://ja.wikipedia.org/wiki/CPLD "wikilink")などの機器では、制御間隔と機器連携を実験するLEDの発光が文言出力の代わりに利用される。
+利用目的にも異なる種類がある。[Lisp](https://ja.wikipedia.org/wiki/Lisp "wikilink")、[ML](../Page/ML.md "wikilink")、[Haskell](../Page/Haskell.md "wikilink")のような[関数型プログラミング言語](https://ja.wikipedia.org/wiki/関数型プログラミング言語 "wikilink")では、[再起手法を強調する関数型プログラミングの実例として利用されることがある](https://ja.wikipedia.org/wiki/再帰#再帰呼び出し "wikilink")。一方で、オリジナルの例は副作用を伴った[純粋関数型言語に違反した入出力の例として見られる](../Page/関数型言語.md "wikilink")。[アセンブリ言語](../Page/アセンブリ言語.md "wikilink")、[C言語](../Page/C言語.md "wikilink")、[VHDL](../Page/VHDL.md "wikilink")のような組み込みで使われる言語では、文言を出力することが追加のコンポーネントや他機器との連携なしでは難しい、もしくは、その手法が存在しないことの例として用いられる。[マイコン](../Page/マイクロコンピュータ.md "wikilink")、[FPGA](../Page/FPGA.md "wikilink")、[CPLD](../Page/CPLD.md "wikilink")などの機器では、制御間隔と機器連携を実験するLEDの発光が文言出力の代わりに利用される。
 
-[Debian](../Page/Debian.md "wikilink")と[Ubuntu](https://ja.wikipedia.org/wiki/Ubuntu "wikilink")は[apt](https://ja.wikipedia.org/wiki/apt "wikilink")パッケージシステムでハロー・ワールドプログラムを提供している。利用者は`apt-get install hello`と入力すると依存ソフトウェアと一緒に同プログラムがインストールされる。それ自身には意味はないが、そのプログラムが[健全性テスト](https://ja.wikipedia.org/wiki/健全性テスト "wikilink")を提供すると同時に、初心者にパッケージのインストール方法を伝えるシンプルな例となる。しかし、開発者にとってはより重要な利便性があり、手作業だったりdebhelperを使っての[debパッケージの作り方の良い例であり](https://ja.wikipedia.org/wiki/deb_\(ファイルフォーマット\) "wikilink")、[GNU Helloを使ったバージョンは](https://ja.wikipedia.org/wiki/GNU_Hello "wikilink")[GNU](../Page/GNU.md "wikilink")プログラムの書き方の例となる。
+[Debian](../Page/Debian.md "wikilink")と[Ubuntu](../Page/Ubuntu.md "wikilink")は[apt](https://ja.wikipedia.org/wiki/apt "wikilink")パッケージシステムでハロー・ワールドプログラムを提供している。利用者は`apt-get install hello`と入力すると依存ソフトウェアと一緒に同プログラムがインストールされる。それ自身には意味はないが、そのプログラムが[健全性テスト](https://ja.wikipedia.org/wiki/健全性テスト "wikilink")を提供すると同時に、初心者にパッケージのインストール方法を伝えるシンプルな例となる。しかし、開発者にとってはより重要な利便性があり、手作業だったりdebhelperを使っての[debパッケージの作り方の良い例であり](https://ja.wikipedia.org/wiki/deb_\(ファイルフォーマット\) "wikilink")、[GNU Helloを使ったバージョンは](https://ja.wikipedia.org/wiki/GNU_Hello "wikilink")[GNU](../Page/GNU.md "wikilink")プログラムの書き方の例となる。
 
 ## 脚注
 

@@ -1,9 +1,9 @@
 > この記事は[LENPHa](https://ja.wikipedia.org/wiki/LENPHa)から翻訳されています。
 
 
-**LENPHa**（**れんふぁ**）は、 女性2人による[音楽ユニット](https://ja.wikipedia.org/wiki/二人組 "wikilink")。
+**LENPHa**（**れんふぁ**）は、 女性2人による[音楽ユニット](../Page/二人組.md "wikilink")。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月30日](../Page/11月30日.md "wikilink")、[全薬工業](https://ja.wikipedia.org/wiki/全薬工業 "wikilink")株式会社新ジキニン顆粒の[CMソングとして](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")「スウィート スマイル」で[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")。ユニット名のLENPHaは[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")で恋花（れんふぁ）と書き、響きが良く、女性の恋の歌を花のように優しく歌っていきたいという気持ちを込めて命名された。
+[2005年](../Page/2005年.md "wikilink")[11月30日](../Page/11月30日.md "wikilink")、[全薬工業](../Page/全薬工業.md "wikilink")株式会社新ジキニン顆粒の[CMソングとして](../Page/コマーシャルソング.md "wikilink")「スウィート スマイル」で[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")。ユニット名のLENPHaは[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")で恋花（れんふぁ）と書き、響きが良く、女性の恋の歌を花のように優しく歌っていきたいという気持ちを込めて命名された。
 
 メンバーは[永遠花](https://ja.wikipedia.org/wiki/吉田玲奈 "wikilink")（はるか、[大阪府](../Page/大阪府.md "wikilink")出身）と[樹凛花](https://ja.wikipedia.org/wiki/河田純子 "wikilink")（じゅりか、[秋田県](../Page/秋田県.md "wikilink")出身）の2人。本人たちの[ブログ](../Page/ブログ.md "wikilink")では「LENPHa☆ハルカ」「LENPHa☆ジュリカ」と自らを表記している。
 
@@ -31,7 +31,7 @@
 
 ## その他
 
-  - 2006年02月03日　[あっ\!とおどろく放送局](https://ja.wikipedia.org/wiki/あっ!とおどろく放送局 "wikilink")『[晴香葉子](https://ja.wikipedia.org/wiki/晴香葉子 "wikilink")のスピリチュアルLives』生出演
+  - 2006年02月03日　[あっ\!とおどろく放送局](../Page/あっ!とおどろく放送局.md "wikilink")『[晴香葉子](https://ja.wikipedia.org/wiki/晴香葉子 "wikilink")のスピリチュアルLives』生出演
 
 ## 外部リンク
 

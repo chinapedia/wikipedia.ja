@@ -5,7 +5,7 @@
 
 ## 概要
 
-「アンファンテリブル」が、「賢者」や「魔法使い」、「格闘家」等の設定のゲスト芸能人を相手に、体を張って映像クイズや巨大文字・マッチを使ったクイズで対戦する。なお、使用された問題には『[タイムショック](https://ja.wikipedia.org/wiki/タイムショック "wikilink")21』で使用予定だった問題も含まれている。『タイムショック21』と同じく[ノンプロダクション](https://ja.wikipedia.org/wiki/ノンプロダクション "wikilink")が制作協力のプロダクションとしてクレジットされている。
+「アンファンテリブル」が、「賢者」や「魔法使い」、「格闘家」等の設定のゲスト芸能人を相手に、体を張って映像クイズや巨大文字・マッチを使ったクイズで対戦する。なお、使用された問題には『[タイムショック](https://ja.wikipedia.org/wiki/タイムショック "wikilink")21』で使用予定だった問題も含まれている。『タイムショック21』と同じく[ノンプロダクション](../Page/ノンプロダクション.md "wikilink")が制作協力のプロダクションとしてクレジットされている。
 
 ## 番組の設定
 
@@ -14,11 +14,11 @@
 ## 主な出演者
 
   - [浅草キッド](../Page/浅草キッド.md "wikilink") ※事実上の進行役
-      - [玉袋筋太郎](https://ja.wikipedia.org/wiki/玉袋筋太郎 "wikilink")（クイズ魔人スージー）
-      - [水道橋博士](https://ja.wikipedia.org/wiki/水道橋博士 "wikilink")（クイズ魔人バッシー）
+      - [玉袋筋太郎](../Page/玉袋筋太郎.md "wikilink")（クイズ魔人スージー）
+      - [水道橋博士](../Page/水道橋博士.md "wikilink")（クイズ魔人バッシー）
   - [野村真季](https://ja.wikipedia.org/wiki/野村真季 "wikilink")アナ（マーシャ姫）
-  - [篠井英介](https://ja.wikipedia.org/wiki/篠井英介 "wikilink")（ミラクル大魔王）
-  - [杉山邦博](https://ja.wikipedia.org/wiki/杉山邦博 "wikilink")（ナレーター）
+  - [篠井英介](../Page/篠井英介.md "wikilink")（ミラクル大魔王）
+  - [杉山邦博](../Page/杉山邦博.md "wikilink")（ナレーター）
 
 <!-- end list -->
 
@@ -54,7 +54,7 @@
 ## 特別編
 
   - 8月17日放送分はアンファンテリブルが出演せず、芸能人が男女2人のペアで対決する特別編を放送。トーナメント形式で予選（アナグラム問題・マッチ棒問題・間違い探し問題を1問ずつ出題）を2戦行い、勝者が決勝ステージへ進出。決勝ステージのルールは、後期のファイナルステージと同様。
-  - 8月31日放送分は『[忍風戦隊ハリケンジャー](../Page/忍風戦隊ハリケンジャー.md "wikilink")』の出演者と対戦する特別編を放送。出演したのは[塩谷瞬](https://ja.wikipedia.org/wiki/塩谷瞬 "wikilink")（椎名鷹介/ハリケンレッド役）、[長澤奈央](https://ja.wikipedia.org/wiki/長澤奈央 "wikilink")（野乃七海/ハリケンブルー役）、[山本康平](https://ja.wikipedia.org/wiki/山本康平 "wikilink")（尾藤吼太/ハリケンイエロー役）、[山本梓](https://ja.wikipedia.org/wiki/山本梓 "wikilink")（フラビージョ役）、[福澄美緒](https://ja.wikipedia.org/wiki/福澄美緒 "wikilink")（ウェンディーヌ役）の5人で、本来敵対関係である設定のハリケンジャー3人と宇宙忍群ジャカンジャの2人が連合を組んで戦うという、珍しい展開が見られた。この回は、ファイナルステージの鳥かごルールは無かった。
+  - 8月31日放送分は『[忍風戦隊ハリケンジャー](../Page/忍風戦隊ハリケンジャー.md "wikilink")』の出演者と対戦する特別編を放送。出演したのは[塩谷瞬](https://ja.wikipedia.org/wiki/塩谷瞬 "wikilink")（椎名鷹介/ハリケンレッド役）、[長澤奈央](https://ja.wikipedia.org/wiki/長澤奈央 "wikilink")（野乃七海/ハリケンブルー役）、[山本康平](../Page/山本康平.md "wikilink")（尾藤吼太/ハリケンイエロー役）、[山本梓](https://ja.wikipedia.org/wiki/山本梓 "wikilink")（フラビージョ役）、[福澄美緒](../Page/福澄美緒.md "wikilink")（ウェンディーヌ役）の5人で、本来敵対関係である設定のハリケンジャー3人と宇宙忍群ジャカンジャの2人が連合を組んで戦うという、珍しい展開が見られた。この回は、ファイナルステージの鳥かごルールは無かった。
 
 ## ネット局
 
@@ -105,7 +105,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/山形県" title="wikilink">山形県</a></p></td>
+<td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
 <td><p><a href="../Page/山形テレビ.md" title="wikilink">山形テレビ</a></p></td>
 <td></td>
 <td></td>
@@ -178,7 +178,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/九州朝日放送" title="wikilink">九州朝日放送</a></p></td>
 <td></td>
 <td></td>

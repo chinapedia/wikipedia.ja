@@ -1,7 +1,7 @@
 > この記事は[Tss](https://ja.wikipedia.org/wiki/Tss)から翻訳されています。
 
 
-『**tssスーパータイム**』（ティーエスエス スーパータイム）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月5日](../Page/10月5日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")で放送された夕方の[ローカルワイド](https://ja.wikipedia.org/wiki/ローカルワイド番組 "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")（『[FNNスーパータイム](../Page/FNNスーパータイム.md "wikilink")』の[広島県](../Page/広島県.md "wikilink")ローカルパート）。
+『**tssスーパータイム**』（ティーエスエス スーパータイム）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月5日](../Page/10月5日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")で放送された夕方の[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")（『[FNNスーパータイム](../Page/FNNスーパータイム.md "wikilink")』の[広島県](../Page/広島県.md "wikilink")ローカルパート）。
 
 ## 概要
 
@@ -16,14 +16,14 @@
 ## 歴代ニュースキャスター
 
   - [笠間雅一](https://ja.wikipedia.org/wiki/笠間雅一 "wikilink")（当時tssアナウンサー）
-  - [棚田徹](https://ja.wikipedia.org/wiki/棚田徹 "wikilink")（tssアナウンサー）
+  - [棚田徹](../Page/棚田徹.md "wikilink")（tssアナウンサー）
   - [松本京子](../Page/松本京子_\(アナウンサー\).md "wikilink")（当時tssアナウンサー）
-  - [古沢知子](https://ja.wikipedia.org/wiki/古沢知子 "wikilink")（tssアナウンサー）
+  - [古沢知子](../Page/古沢知子.md "wikilink")（tssアナウンサー）
   - ほか
 
 ## 備考
 
-  - 最終キャスターの棚田と古沢は、2000年度から『[ひろしま満点ママ\!\!](https://ja.wikipedia.org/wiki/ひろしま満点ママ!! "wikilink")』の総合司会を務めている。
+  - 最終キャスターの棚田と古沢は、2000年度から『[ひろしま満点ママ\!\!](../Page/ひろしま満点ママ!!.md "wikilink")』の総合司会を務めている。
 
 ## 関連項目
 

@@ -9,7 +9,7 @@
 
 また2010 - 2011年シーズン途中から[WIN5](https://ja.wikipedia.org/wiki/WIN5 "wikilink")対象レースを予想家4人(or5人)＋松本ヒロシの中から5人で各々の担当レースを決め予想をするコーナーも開始された。 なおWIN5はインターネット投票のみでしか購入出来ないが、誰の口座で購入しているかは明らかにされていない。
 
-馬券の買い方（[賭式](https://ja.wikipedia.org/wiki/投票券_\(公営競技\)#投票法の種類 "wikilink")）や投資金額は予想家の裁量に任されているが本人の自己資金で実際に購入しなければならないうえ、原則的に[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")であるため文字通りの真剣勝負が展開され、ときには『[朝まで生テレビ\!](../Page/朝まで生テレビ!.md "wikilink")』さながらの熱い討論（バトル）が展開されることもある（[2004年](../Page/2004年.md "wikilink")[5月22日](../Page/5月22日.md "wikilink")放送の第65回[オークス予想時の](https://ja.wikipedia.org/wiki/優駿牝馬 "wikilink")「ちゃんちゃらおかしい」発言が有名）。
+馬券の買い方（[賭式](https://ja.wikipedia.org/wiki/投票券_\(公営競技\)#投票法の種類 "wikilink")）や投資金額は予想家の裁量に任されているが本人の自己資金で実際に購入しなければならないうえ、原則的に[生放送](../Page/生放送.md "wikilink")であるため文字通りの真剣勝負が展開され、ときには『[朝まで生テレビ\!](../Page/朝まで生テレビ!.md "wikilink")』さながらの熱い討論（バトル）が展開されることもある（[2004年](../Page/2004年.md "wikilink")[5月22日](../Page/5月22日.md "wikilink")放送の第65回[オークス予想時の](https://ja.wikipedia.org/wiki/優駿牝馬 "wikilink")「ちゃんちゃらおかしい」発言が有名）。
 
 ## 予想バトル
 
@@ -46,7 +46,7 @@
 
 ### サマーシリーズ
 
-これまでシーズンの間にあたる8月の夏期ローカル開催期間（新潟・小倉・札幌後半戦の期間）は放送を休止していたが、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に（[札幌記念](https://ja.wikipedia.org/wiki/札幌記念 "wikilink")）を予想、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")には**夏休みスペシャル**と題し[8月12日](../Page/8月12日.md "wikilink")・[19日の](../Page/8月19日.md "wikilink")2戦予想を行った。これ以降「サマーシリーズ」として7月〜8月間に全4〜6戦の予想バトルを行っている。
+これまでシーズンの間にあたる8月の夏期ローカル開催期間（新潟・小倉・札幌後半戦の期間）は放送を休止していたが、[2005年](../Page/2005年.md "wikilink")に（[札幌記念](../Page/札幌記念.md "wikilink")）を予想、[2006年](../Page/2006年.md "wikilink")には**夏休みスペシャル**と題し[8月12日](../Page/8月12日.md "wikilink")・[19日の](../Page/8月19日.md "wikilink")2戦予想を行った。これ以降「サマーシリーズ」として7月〜8月間に全4〜6戦の予想バトルを行っている。
 
 基本的なルールはレギュラーシーズンとほぼ同じ。予想するレースは日曜のメイン競走（主に重賞競走であるがオープン特別の場合もある）と「あしたのねらい目」で指定した競走でシリーズ全体での回収率で競う。短期決戦であり、予想家は2-3戦の出演で回収率100%を超えなければならない。
 
@@ -59,14 +59,14 @@
 原則として日曜日の競走を予想する番組であるが、一部例外もある。
 
   - 年明け1回目の放送は「**金杯で乾杯スペシャル**」と題して、日曜日以外に行われることの多い[中山金杯](../Page/中山金杯.md "wikilink")と[京都金杯](../Page/京都金杯.md "wikilink")の予想を行う。反対に金杯の開催日などの関係で[シンザン記念](../Page/シンザン記念.md "wikilink")が施行される週に番組が休止になることもある。
-  - 3日間開催で月曜日に施行されるレースの予想を行うこともある。例として[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")から[2012年](../Page/2012年.md "wikilink")の[フェアリーステークス](../Page/フェアリーステークス.md "wikilink")、[2012年](../Page/2012年.md "wikilink")以降の[セントライト記念](../Page/セントライト記念.md "wikilink")、[2012年](../Page/2012年.md "wikilink")の[京都大賞典](https://ja.wikipedia.org/wiki/京都大賞典 "wikilink")など。
+  - 3日間開催で月曜日に施行されるレースの予想を行うこともある。例として[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")から[2012年](../Page/2012年.md "wikilink")の[フェアリーステークス](../Page/フェアリーステークス.md "wikilink")、[2012年](../Page/2012年.md "wikilink")以降の[セントライト記念](../Page/セントライト記念.md "wikilink")、[2012年](../Page/2012年.md "wikilink")の[京都大賞典](../Page/京都大賞典.md "wikilink")など。
   - 2017年1月14日の放送では[京成杯](../Page/京成杯.md "wikilink")と[日経新春杯](../Page/日経新春杯.md "wikilink")の予想を行ったが、後者は[京都競馬場](../Page/京都競馬場.md "wikilink")が降雪による中止のため当該レースの開催が1月17日に延期になり、出馬投票がやり直されたため、翌週（1月24日）の放送での振り返りはなかった。
 
 ## アシスタントのコーナー
 
 ### ルリカの当たりますよ〜に\!\!\!
 
-2014年11月から開始した、アシスタントMC・[横山ルリカ](../Page/横山ルリカ.md "wikilink")による馬券予想企画。番組の[オンデマンド契約で条件を満たす会員のみに](https://ja.wikipedia.org/wiki/ビデオ・オン・デマンド "wikilink")、特典映像として配信されている。
+2014年11月から開始した、アシスタントMC・[横山ルリカ](../Page/横山ルリカ.md "wikilink")による馬券予想企画。番組の[オンデマンド契約で条件を満たす会員のみに](../Page/ビデオ・オン・デマンド.md "wikilink")、特典映像として配信されている。
 
 内容は、前回予想結果の反省会やお便りなどを紹介し、番組本編のデータも参考に本人が狙った1レースを予想して、馬券購入シートにマークする流れまでが基本。実際に購入した馬券（当たり馬券はコピー）は、サイン入りで視聴者プレゼントにしている。
 
@@ -76,15 +76,15 @@
 
 #### うま9いくデータ\!\!\!
 
-[横山ルリカ](../Page/横山ルリカ.md "wikilink")による「サキよみデータ」を引き継ぐ形の、第17シーズンからの呼称。就任した2014年の[午](https://ja.wikipedia.org/wiki/午 "wikilink")(うま)年と9代目アシスタントの数字、もしくは横山が在籍していた「[アイドリング\!\!\!](https://ja.wikipedia.org/wiki/アイドリング!!!_\(グループ\) "wikilink")」での号数と3連[感嘆符](https://ja.wikipedia.org/wiki/感嘆符 "wikilink")の組み合わせとなっている。第19シーズンからは、前週に提示したデータの結果を翌週に検証するようになった。
+[横山ルリカ](../Page/横山ルリカ.md "wikilink")による「サキよみデータ」を引き継ぐ形の、第17シーズンからの呼称。就任した2014年の[午](https://ja.wikipedia.org/wiki/午 "wikilink")(うま)年と9代目アシスタントの数字、もしくは横山が在籍していた「[アイドリング\!\!\!](https://ja.wikipedia.org/wiki/アイドリング!!!_\(グループ\) "wikilink")」での号数と3連[感嘆符](../Page/感嘆符.md "wikilink")の組み合わせとなっている。第19シーズンからは、前週に提示したデータの結果を翌週に検証するようになった。
 
 #### 過去のデータ
 
-予想家のバトル前にアシスタントが過去の重賞データから消し馬を選び、最終的に3〜5頭に絞り込むコーナー。2010年末までは、[岡村麻純](https://ja.wikipedia.org/wiki/岡村麻純 "wikilink")の名を冠した「Masumiデータ」としていたが、2011年からは干支にちなみ「ぴょんぴょんデータ」「ドラゴンデータ」と名付けられ、2012年の第15シーズンからは、[井上早紀](https://ja.wikipedia.org/wiki/井上早紀 "wikilink")の名を冠した「サキよみデータ」として発表している。第16シーズンは、予想家達より井上の的中率が高かった。
+予想家のバトル前にアシスタントが過去の重賞データから消し馬を選び、最終的に3〜5頭に絞り込むコーナー。2010年末までは、[岡村麻純](../Page/岡村麻純.md "wikilink")の名を冠した「Masumiデータ」としていたが、2011年からは干支にちなみ「ぴょんぴょんデータ」「ドラゴンデータ」と名付けられ、2012年の第15シーズンからは、[井上早紀](https://ja.wikipedia.org/wiki/井上早紀 "wikilink")の名を冠した「サキよみデータ」として発表している。第16シーズンは、予想家達より井上の的中率が高かった。
 
 #### 魔女のささやき
 
-第8シーズンでの予想終了間際に、[玉城ちはる](https://ja.wikipedia.org/wiki/玉城ちはる "wikilink")が本命・対抗馬を発表する**魔女のささやき**というコーナーが存在した。これは彼女が推した本命馬が人気を背負いながら次々と敗れていくことから作られた。実例としては[ヴィクトリアマイル](../Page/ヴィクトリアマイル.md "wikilink")の[ラインクラフト](https://ja.wikipedia.org/wiki/ラインクラフト "wikilink")（1番人気で9着）、オークスの[アドマイヤキッス](https://ja.wikipedia.org/wiki/アドマイヤキッス "wikilink")（1番人気で4着）、[安田記念](https://ja.wikipedia.org/wiki/安田記念 "wikilink")の[オレハマッテルゼ](https://ja.wikipedia.org/wiki/オレハマッテルゼ "wikilink")（1番人気で10着）など。本人からすれば不名誉なコーナーだが、指名された人気馬を消せるという理由から視聴者からは好評であった。また単勝オッズ10倍前後（または5番人気前後）の馬を馬券対象から外すと、その馬が馬券によく絡んだ。例としては[桜花賞](https://ja.wikipedia.org/wiki/桜花賞 "wikilink")の[キストゥヘヴン](https://ja.wikipedia.org/wiki/キストゥヘヴン "wikilink")（6番人気で1着）、[皐月賞](../Page/皐月賞.md "wikilink")の[メイショウサムソン](https://ja.wikipedia.org/wiki/メイショウサムソン "wikilink")（6番人気で1着）などがある。2006年8月19日の放送で玉城が番組を降板したため、このコーナーも終了となった。
+第8シーズンでの予想終了間際に、[玉城ちはる](../Page/玉城ちはる.md "wikilink")が本命・対抗馬を発表する**魔女のささやき**というコーナーが存在した。これは彼女が推した本命馬が人気を背負いながら次々と敗れていくことから作られた。実例としては[ヴィクトリアマイル](../Page/ヴィクトリアマイル.md "wikilink")の[ラインクラフト](../Page/ラインクラフト.md "wikilink")（1番人気で9着）、オークスの[アドマイヤキッス](../Page/アドマイヤキッス.md "wikilink")（1番人気で4着）、[安田記念](https://ja.wikipedia.org/wiki/安田記念 "wikilink")の[オレハマッテルゼ](../Page/オレハマッテルゼ.md "wikilink")（1番人気で10着）など。本人からすれば不名誉なコーナーだが、指名された人気馬を消せるという理由から視聴者からは好評であった。また単勝オッズ10倍前後（または5番人気前後）の馬を馬券対象から外すと、その馬が馬券によく絡んだ。例としては[桜花賞](https://ja.wikipedia.org/wiki/桜花賞 "wikilink")の[キストゥヘヴン](../Page/キストゥヘヴン.md "wikilink")（6番人気で1着）、[皐月賞](../Page/皐月賞.md "wikilink")の[メイショウサムソン](../Page/メイショウサムソン.md "wikilink")（6番人気で1着）などがある。2006年8月19日の放送で玉城が番組を降板したため、このコーナーも終了となった。
 
 ## 放送時間
 
@@ -93,7 +93,7 @@
   - 再放送
     日曜日0:00～2:00（土曜深夜）、7:00～9:00、10:00～12:00
 
-スポーツ中継（主にヤクルトスワローズ戦の生中継）や特別番組が放送される日などは、本放送の放送時間を変更する。この場合はもともとの時間である20時から収録（いわゆる[完パケ（完全パッケージメディア）による](../Page/完全パッケージメディア.md "wikilink")[撮って出し](https://ja.wikipedia.org/wiki/撮って出し "wikilink")）を行う。まれにスポーツ中継が直前にあり、延長した場合には本来20時からの番組の途中から飛び乗る形で（予想バトル中に）生放送が始まることもある。
+スポーツ中継（主にヤクルトスワローズ戦の生中継）や特別番組が放送される日などは、本放送の放送時間を変更する。この場合はもともとの時間である20時から収録（いわゆる[完パケ（完全パッケージメディア）による](../Page/完全パッケージメディア.md "wikilink")[撮って出し](../Page/撮って出し.md "wikilink")）を行う。まれにスポーツ中継が直前にあり、延長した場合には本来20時からの番組の途中から飛び乗る形で（予想バトル中に）生放送が始まることもある。
 
 ## 過去の放送時間
 
@@ -105,9 +105,9 @@
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[7月4日](../Page/7月4日.md "wikilink") [フジテレビ721開局](https://ja.wikipedia.org/wiki/フジテレビTWO "wikilink")（[7月1日](../Page/7月1日.md "wikilink")）と同時に放送開始。
   - [1999年](../Page/1999年.md "wikilink")4月 フジテレビ739の開局に伴い、放送チャンネルをフジテレビ739に変更。
   - [2000年](../Page/2000年.md "wikilink")12月 [BSデジタル放送](https://ja.wikipedia.org/wiki/BSデジタル放送 "wikilink")の[BSフジ](../Page/BSフジ.md "wikilink")でも放送開始。それに伴いハイビジョン制作に移行。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")（25日深夜） BSフジでの放送打ち切り。
+  - [2006年](../Page/2006年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")（25日深夜） BSフジでの放送打ち切り。
   - 2006年4月 フジテレビ On Demandでの配信を開始。これに伴い番組中のBGMも一新され、[CMの挿入もなくなった](../Page/コマーシャルメッセージ.md "wikilink")。
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")4月 フジテレビCSHDでの[サイマル放送](https://ja.wikipedia.org/wiki/サイマル放送 "wikilink")を開始。これに伴いハイビジョン放送が復活。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")4月 フジテレビCSHDでの[サイマル放送](../Page/サイマル放送.md "wikilink")を開始。これに伴いハイビジョン放送が復活。
   - [2009年](../Page/2009年.md "wikilink")4月 フジテレビのCSチャンネルが全面的に再編されたことに伴い、放送が[フジテレビNEXT](https://ja.wikipedia.org/wiki/フジテレビNEXT "wikilink")に移行。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")1月 放送チャンネルをフジテレビTWOに移行。
   - [2012年](../Page/2012年.md "wikilink")4月1日 放送チャンネルをフジテレビONEに移行。（3月31日にフジテレビTWOで放送された再放送分より。）
@@ -120,17 +120,17 @@
 
 ### 司会
 
-  - [見栄晴](https://ja.wikipedia.org/wiki/見栄晴 "wikilink")
-  - [松本ヒロシ](https://ja.wikipedia.org/wiki/松本ヒロシ "wikilink")（[競馬エイト](https://ja.wikipedia.org/wiki/競馬エイト "wikilink")・[トラックマン](https://ja.wikipedia.org/wiki/トラックマン "wikilink")）\[3\]
+  - [見栄晴](../Page/見栄晴.md "wikilink")
+  - [松本ヒロシ](https://ja.wikipedia.org/wiki/松本ヒロシ "wikilink")（[競馬エイト](../Page/競馬エイト.md "wikilink")・[トラックマン](../Page/トラックマン.md "wikilink")）\[3\]
 
 ### 歴代アシスタント
 
   - [横山ルリカ](../Page/横山ルリカ.md "wikilink")（2014年9月 - ）\[4\]
   - [井上早紀](https://ja.wikipedia.org/wiki/井上早紀 "wikilink")（2012年9月 - 2014年8月）
   - [高村彩乃](https://ja.wikipedia.org/wiki/高村彩乃 "wikilink")（2011年1月 - 2012年8月）
-  - [岡村麻純](https://ja.wikipedia.org/wiki/岡村麻純 "wikilink")（2008年9月 - 2010年12月、2011年1月より『[BSイレブン競馬中継](https://ja.wikipedia.org/wiki/BSイレブン競馬中継 "wikilink")』へ移行。）
-  - [寺岡望美](https://ja.wikipedia.org/wiki/寺岡のぞみ "wikilink")（2006年9月 - 2008年8月）
-  - [玉城ちはる](https://ja.wikipedia.org/wiki/玉城ちはる "wikilink")（2003年1月 - 2006年8月）
+  - [岡村麻純](../Page/岡村麻純.md "wikilink")（2008年9月 - 2010年12月、2011年1月より『[BSイレブン競馬中継](https://ja.wikipedia.org/wiki/BSイレブン競馬中継 "wikilink")』へ移行。）
+  - [寺岡望美](../Page/寺岡のぞみ.md "wikilink")（2006年9月 - 2008年8月）
+  - [玉城ちはる](../Page/玉城ちはる.md "wikilink")（2003年1月 - 2006年8月）
   - [高田真希子](https://ja.wikipedia.org/wiki/高田真希子 "wikilink")（2002年9月 - 2002年12月）
   - [柳沼淳子](../Page/柳沼淳子.md "wikilink")（2000年9月 - 2002年7月）
   - [ひがたともこ](https://ja.wikipedia.org/wiki/ひがたともこ "wikilink")（1999年9月 - 2000年7月）
@@ -144,17 +144,17 @@
 第22シーズン現在の予想家
 獲得タイトル：シ＝シーズン、G＝GI、ね＝ねらい目、サ＝サマーシリーズ（第21シーズン最終結果時点）
 
-| 名前                                                          | 読み        | 番組でのキャッチフレーズ   | 職業                               | 予想法                                                                         | 主な獲得タイトル \<\!--       | 出演シーズン--\> |
-| ----------------------------------------------------------- | --------- | -------------- | -------------------------------- | --------------------------------------------------------------------------- | --------------------- | ---------- |
-| [亀谷敬正](https://ja.wikipedia.org/wiki/亀谷敬正 "wikilink")       | かめたに たかまさ | **アウトサイダー予想家** | 競馬ライター                           | 血統ビーム                                                                       | シ2回・G4回・ね1回           |            |
-| [市丸博司](../Page/市丸博司.md "wikilink")                          | いちまる ひろし  | **電脳予想家**      | パソコンライター                         | [タイムフィルター指数](https://ja.wikipedia.org/wiki/スピード指数 "wikilink")               | シ4回・G4回・ね3回・三冠王2回     |            |
-| [水上学](../Page/水上学.md "wikilink")                            | みずかみ まなぶ  | **血統予想家**      | [作家](../Page/放送作家.md "wikilink") | 血統                                                                          | シ3回・G3回・サ2回           |            |
-| [井内利彰](https://ja.wikipedia.org/wiki/井内利彰 "wikilink")       | いうち としあき  | **調教捜査官**      | 競馬ライター                           | 調教（調教チャート・調教マトリックス）                                                         | シ1回・G1回・サ2回           |            |
-| [小林弘明](https://ja.wikipedia.org/wiki/小林弘明 "wikilink")       | こばやし ひろあき | **指数の達人**      | 投資家                              | 小林式能力指数（風向き）                                                                | シ5回・G3回・ね4回・サ1回・三冠王1回 |            |
-| [高柳誠二](https://ja.wikipedia.org/wiki/高柳誠二 "wikilink")       | たかやなぎ せいじ | **予想博士**       | 競馬予想家                            | 牝系[ファミリーナンバー](https://ja.wikipedia.org/wiki/ファミリーナンバー "wikilink")・高柳式スピード指数 | シ1回・G2回・ね2回・サ1回       |            |
-| [夏目耕四郎](https://ja.wikipedia.org/wiki/夏目耕四郎 "wikilink")     | なつめ こうしろう | **ラップエディター**   | デザイナー                            | ラップフォーカス                                                                    | シ1回・サ3回               |            |
-| [太組不二雄](https://ja.wikipedia.org/wiki/太組不二雄 "wikilink")     | たくみ ふじお   | **4コーナーの番人**   | 元お笑い芸人                           | 馬群マスター                                                                      | G1回・ね3回               |            |
-| [キムラヨウヘイ](https://ja.wikipedia.org/wiki/キムラヨウヘイ "wikilink") | きむら ようへい  | **競馬プロファイラー**  | 競馬ブロガー                           | プロファイリング（PL・PP）                                                             |                       |            |
+| 名前                                                          | 読み        | 番組でのキャッチフレーズ   | 職業                               | 予想法                                                      | 主な獲得タイトル \<\!--       | 出演シーズン--\> |
+| ----------------------------------------------------------- | --------- | -------------- | -------------------------------- | -------------------------------------------------------- | --------------------- | ---------- |
+| [亀谷敬正](https://ja.wikipedia.org/wiki/亀谷敬正 "wikilink")       | かめたに たかまさ | **アウトサイダー予想家** | 競馬ライター                           | 血統ビーム                                                    | シ2回・G4回・ね1回           |            |
+| [市丸博司](../Page/市丸博司.md "wikilink")                          | いちまる ひろし  | **電脳予想家**      | パソコンライター                         | [タイムフィルター指数](../Page/スピード指数.md "wikilink")               | シ4回・G4回・ね3回・三冠王2回     |            |
+| [水上学](../Page/水上学.md "wikilink")                            | みずかみ まなぶ  | **血統予想家**      | [作家](../Page/放送作家.md "wikilink") | 血統                                                       | シ3回・G3回・サ2回           |            |
+| [井内利彰](https://ja.wikipedia.org/wiki/井内利彰 "wikilink")       | いうち としあき  | **調教捜査官**      | 競馬ライター                           | 調教（調教チャート・調教マトリックス）                                      | シ1回・G1回・サ2回           |            |
+| [小林弘明](https://ja.wikipedia.org/wiki/小林弘明 "wikilink")       | こばやし ひろあき | **指数の達人**      | 投資家                              | 小林式能力指数（風向き）                                             | シ5回・G3回・ね4回・サ1回・三冠王1回 |            |
+| [高柳誠二](https://ja.wikipedia.org/wiki/高柳誠二 "wikilink")       | たかやなぎ せいじ | **予想博士**       | 競馬予想家                            | 牝系[ファミリーナンバー](../Page/ファミリーナンバー.md "wikilink")・高柳式スピード指数 | シ1回・G2回・ね2回・サ1回       |            |
+| [夏目耕四郎](https://ja.wikipedia.org/wiki/夏目耕四郎 "wikilink")     | なつめ こうしろう | **ラップエディター**   | デザイナー                            | ラップフォーカス                                                 | シ1回・サ3回               |            |
+| [太組不二雄](https://ja.wikipedia.org/wiki/太組不二雄 "wikilink")     | たくみ ふじお   | **4コーナーの番人**   | 元お笑い芸人                           | 馬群マスター                                                   | G1回・ね3回               |            |
+| [キムラヨウヘイ](https://ja.wikipedia.org/wiki/キムラヨウヘイ "wikilink") | きむら ようへい  | **競馬プロファイラー**  | 競馬ブロガー                           | プロファイリング（PL・PP）                                          |                       |            |
 
 #### 過去
 
@@ -162,15 +162,15 @@
 
   - [奥田隆一郎](https://ja.wikipedia.org/wiki/奥田隆一郎 "wikilink")（フリーライター）
   - [西山健太](https://ja.wikipedia.org/wiki/西山健太 "wikilink")（[会社員](https://ja.wikipedia.org/wiki/会社員 "wikilink")）
-  - [月本裕](https://ja.wikipedia.org/wiki/月本裕 "wikilink")（[小説家](../Page/小説家.md "wikilink")）
+  - [月本裕](../Page/月本裕.md "wikilink")（[小説家](../Page/小説家.md "wikilink")）
   - [宮崎広行](https://ja.wikipedia.org/wiki/宮崎広行 "wikilink")（ゲーム会社社員）
   - [木下健](https://ja.wikipedia.org/wiki/木下健 "wikilink")（馬券生活者）
   - [阿部隆](../Page/阿部隆.md "wikilink")（[棋士](../Page/棋士_\(将棋\).md "wikilink")）
   - [南極二朗](https://ja.wikipedia.org/wiki/南極二朗 "wikilink")（会社員）
   - [橋浜保子](https://ja.wikipedia.org/wiki/橋浜保子 "wikilink")（競馬ライター）
-  - [須田鷹雄](https://ja.wikipedia.org/wiki/須田鷹雄 "wikilink")（競馬評論家）
+  - [須田鷹雄](../Page/須田鷹雄.md "wikilink")（競馬評論家）
   - [成沢大輔](../Page/成沢大輔.md "wikilink")（作家・会社社長）
-  - [藤川京子](https://ja.wikipedia.org/wiki/藤川京子 "wikilink")（タレント）
+  - [藤川京子](../Page/藤川京子.md "wikilink")（タレント）
   - [大内徹](https://ja.wikipedia.org/wiki/大内徹 "wikilink")
 
 ## シーズン別タイトル
@@ -219,7 +219,7 @@
 
 ## 関連項目
 
-  - [武豊TV\!II](https://ja.wikipedia.org/wiki/武豊TV!II "wikilink")
+  - [武豊TV\!II](../Page/武豊TV!II.md "wikilink")
   - [週刊UMAJIN](https://ja.wikipedia.org/wiki/週刊UMAJIN "wikilink")（BSフジの日曜競馬展望番組）
   - [競馬血統研究所](https://ja.wikipedia.org/wiki/競馬血統研究所 "wikilink")
   - [競馬予想フェスティバル](https://ja.wikipedia.org/wiki/競馬予想フェスティバル "wikilink")
@@ -232,6 +232,6 @@
 [Category:フジテレビの競馬番組](https://ja.wikipedia.org/wiki/Category:フジテレビの競馬番組 "wikilink") [Category:フジテレビのCS放送の番組](https://ja.wikipedia.org/wiki/Category:フジテレビのCS放送の番組 "wikilink") [Category:CSのスポーツ番組](https://ja.wikipedia.org/wiki/Category:CSのスポーツ番組 "wikilink") [Category:BSフジのスポーツ番組](https://ja.wikipedia.org/wiki/Category:BSフジのスポーツ番組 "wikilink") [Category:NOTTV](https://ja.wikipedia.org/wiki/Category:NOTTV "wikilink")
 
 1.  [松本ヒロシ氏がWIN5で「851万馬券」的中！](http://biz-journal.jp/gj/2017/08/post_4081.html) - Business Journal
-2.  JRAは2017年までは騎乗依頼仲介者は「[競馬法](../Page/競馬法.md "wikilink")の規制を受ける厩舎関係者（[調教師](https://ja.wikipedia.org/wiki/調教師 "wikilink")・[厩務員](../Page/厩務員.md "wikilink")等）には含まれない」との見解を示していたため[勝馬投票券](https://ja.wikipedia.org/wiki/勝馬投票券 "wikilink")の購入も可能であったが、[2018年](../Page/2018年.md "wikilink")1月1日から同制度の見直しを行い「騎乗依頼仲介者の勝馬投票券購入または譲り受け禁止」と規定を変更したことによる（なお、予想行為自体は引き続き可能である）。このため、番組の基本コンセプトである「本人の自己資金で実際に馬券を購入」が不可能となった。
+2.  JRAは2017年までは騎乗依頼仲介者は「[競馬法](../Page/競馬法.md "wikilink")の規制を受ける厩舎関係者（[調教師](../Page/調教師.md "wikilink")・[厩務員](../Page/厩務員.md "wikilink")等）には含まれない」との見解を示していたため[勝馬投票券](../Page/勝馬投票券.md "wikilink")の購入も可能であったが、[2018年](../Page/2018年.md "wikilink")1月1日から同制度の見直しを行い「騎乗依頼仲介者の勝馬投票券購入または譲り受け禁止」と規定を変更したことによる（なお、予想行為自体は引き続き可能である）。このため、番組の基本コンセプトである「本人の自己資金で実際に馬券を購入」が不可能となった。
 3.  [夏競馬特別対談「松本ヒロシ×亀谷敬正」のぶっちゃけウラ話（6）騎手エージェントは馬券の購入がNG？](http://www.asagei.com/excerpt/84742) - アサ芸プラス
 4.  [横山ルリカ「競馬予想TV\!」9代目アシスタント](http://www.sanspo.com/geino/news/20140911/ido14091105060001-n3.html) - sanspo.com

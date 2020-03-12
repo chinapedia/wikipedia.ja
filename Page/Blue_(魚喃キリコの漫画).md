@@ -1,15 +1,15 @@
 > この記事は[Blue \(\)](https://ja.wikipedia.org/wiki/Blue_\(\))から翻訳されています。
 
 
-『**blue**』（ブルー）は、[1996年](../Page/1996年.md "wikilink")の[魚喃キリコ](../Page/魚喃キリコ.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")、および漫画を原作として[2003年に公開された映画である](https://ja.wikipedia.org/wiki/2003年の映画 "wikilink")。
+『**blue**』（ブルー）は、[1996年](../Page/1996年.md "wikilink")の[魚喃キリコ](../Page/魚喃キリコ.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")、および漫画を原作として[2003年に公開された映画である](../Page/2003年の映画.md "wikilink")。
 
 ## 漫画
 
-『blue』は、[1996年](../Page/1996年.md "wikilink")、[マガジンハウス](https://ja.wikipedia.org/wiki/マガジンハウス "wikilink") 『コミック アレ\!』 （1月号～10月号）に連載された。[魚喃キリコ](../Page/魚喃キリコ.md "wikilink")の初の長編作品となった。
+『blue』は、[1996年](../Page/1996年.md "wikilink")、[マガジンハウス](../Page/マガジンハウス.md "wikilink") 『コミック アレ\!』 （1月号～10月号）に連載された。[魚喃キリコ](../Page/魚喃キリコ.md "wikilink")の初の長編作品となった。
 
 ### 単行本
 
-『blue』（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月24日](../Page/4月24日.md "wikilink") 「MAG COMICS」 ISBN 4-8387-0896-3 マガジンハウス刊）全1巻。[装幀](../Page/装幀.md "wikilink")は[南伸坊](https://ja.wikipedia.org/wiki/南伸坊 "wikilink")。[英語](../Page/英語.md "wikilink")版、[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")版、[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")版、[ドイツ語](../Page/ドイツ語.md "wikilink")版も翻訳刊行されている。
+『blue』（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月24日](../Page/4月24日.md "wikilink") 「MAG COMICS」 ISBN 4-8387-0896-3 マガジンハウス刊）全1巻。[装幀](../Page/装幀.md "wikilink")は[南伸坊](../Page/南伸坊.md "wikilink")。[英語](../Page/英語.md "wikilink")版、[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")版、[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")版、[ドイツ語](../Page/ドイツ語.md "wikilink")版も翻訳刊行されている。
 
 ### ストーリー
 
@@ -19,7 +19,7 @@
 
 [安藤尋](../Page/安藤尋.md "wikilink")監督の長編映画作品。2003年日本公開。オメガ・ミコット/スローラーナー配給。
 
-本作が初主演の[ファッションモデル](https://ja.wikipedia.org/wiki/ファッションモデル "wikilink")出身の[女優](../Page/俳優.md "wikilink")、[市川実日子](https://ja.wikipedia.org/wiki/市川実日子 "wikilink")は、本作の演技で第24回[モスクワ国際映画祭](../Page/モスクワ国際映画祭.md "wikilink")最優秀女優賞を受賞。本作以降、主に女優として認知されるようになった。共演者として同じくモデル出身の[小西真奈美](https://ja.wikipedia.org/wiki/小西真奈美 "wikilink")が出演しており、ストリート系[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")でモデルとして活躍していた[今宿麻美](../Page/今宿麻美.md "wikilink")の女優デビュー作でもある。原作の魚喃キリコが、脚本、音楽、キャスティングに関わっている。
+本作が初主演の[ファッションモデル](../Page/ファッションモデル.md "wikilink")出身の[女優](../Page/俳優.md "wikilink")、[市川実日子](https://ja.wikipedia.org/wiki/市川実日子 "wikilink")は、本作の演技で第24回[モスクワ国際映画祭](../Page/モスクワ国際映画祭.md "wikilink")最優秀女優賞を受賞。本作以降、主に女優として認知されるようになった。共演者として同じくモデル出身の[小西真奈美](https://ja.wikipedia.org/wiki/小西真奈美 "wikilink")が出演しており、ストリート系[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")でモデルとして活躍していた[今宿麻美](../Page/今宿麻美.md "wikilink")の女優デビュー作でもある。原作の魚喃キリコが、脚本、音楽、キャスティングに関わっている。
 
 なお、映画では桐島と遠藤の家庭はどちらも[母子家庭](https://ja.wikipedia.org/wiki/母子家庭 "wikilink")という設定となっている（原作ではそのような描写はない）。
 
@@ -36,7 +36,7 @@
 
 **高岡市**
 
-  - [富山県立伏木高等学校](https://ja.wikipedia.org/wiki/富山県立伏木高等学校 "wikilink") - 高校でのシーン。
+  - [富山県立伏木高等学校](../Page/富山県立伏木高等学校.md "wikilink") - 高校でのシーン。
 
 ### ストーリー
 
@@ -52,17 +52,17 @@
   - 村井綾奈 - [太田綾花](https://ja.wikipedia.org/wiki/太田綾花 "wikilink")
   - 水内学 - 高岡蒼佑（現：[高岡奏輔](https://ja.wikipedia.org/wiki/高岡奏輔 "wikilink")）　
   - 桐島アツシ - [天岸将](https://ja.wikipedia.org/wiki/天岸将 "wikilink")
-  - 年上の男 - [村上淳](https://ja.wikipedia.org/wiki/村上淳 "wikilink")
+  - 年上の男 - [村上淳](../Page/村上淳.md "wikilink")
 
 ### スタッフ
 
   - 監督 - [安藤尋](../Page/安藤尋.md "wikilink")
   - 脚本 - [本調有香](https://ja.wikipedia.org/wiki/本調有香 "wikilink")
   - プロデューサー - [宮崎大](https://ja.wikipedia.org/wiki/宮崎大 "wikilink")
-  - 音楽 - [大友良英](https://ja.wikipedia.org/wiki/大友良英 "wikilink")
+  - 音楽 - [大友良英](../Page/大友良英.md "wikilink")
       - 演奏 - "blueバンド" （大友良英、[栗原正己](../Page/栗原正己.md "wikilink")、[江藤直子](https://ja.wikipedia.org/wiki/江藤直子 "wikilink")、[西村雄介](https://ja.wikipedia.org/wiki/西村雄介 "wikilink")、[芳垣安洋](https://ja.wikipedia.org/wiki/芳垣安洋 "wikilink")、魚喃キリコ)
   - 撮影 - [鈴木一博](https://ja.wikipedia.org/wiki/鈴木一博 "wikilink")
-  - スチル - [川内倫子](https://ja.wikipedia.org/wiki/川内倫子 "wikilink")
+  - スチル - [川内倫子](../Page/川内倫子.md "wikilink")
   - 録音 - [鈴木昭彦](https://ja.wikipedia.org/wiki/鈴木昭彦 "wikilink")
   - 美術 - [鈴村鏡子](https://ja.wikipedia.org/wiki/鈴村鏡子 "wikilink")
   - 編集 - [冨田伸子](https://ja.wikipedia.org/wiki/冨田伸子 "wikilink")
@@ -72,7 +72,7 @@
 
 ### サウンドトラック
 
-  - 『blue』- 2003年3月発売。サウンドトラックに別バージョンのスタジオ録音を加えたCD。大友良英作曲の全曲[リコーダー](../Page/リコーダー.md "wikilink")、[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、[パーカッション](../Page/パーカッション.md "wikilink")による[インストゥルメンタル](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")。演奏には "blueバンド" のほか、2曲目と11曲目には安藤尋、市川実日子もパーカッションで特別参加している。[2003年](../Page/2003年.md "wikilink")、[2004年](../Page/2004年.md "wikilink")にはblueバンドによるライブも行われた。
+  - 『blue』- 2003年3月発売。サウンドトラックに別バージョンのスタジオ録音を加えたCD。大友良英作曲の全曲[リコーダー](../Page/リコーダー.md "wikilink")、[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[パーカッション](../Page/パーカッション.md "wikilink")による[インストゥルメンタル](../Page/器楽曲.md "wikilink")。演奏には "blueバンド" のほか、2曲目と11曲目には安藤尋、市川実日子もパーカッションで特別参加している。[2003年](../Page/2003年.md "wikilink")、[2004年](../Page/2004年.md "wikilink")にはblueバンドによるライブも行われた。
 
 <!-- end list -->
 

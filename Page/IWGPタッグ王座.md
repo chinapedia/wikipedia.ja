@@ -5,9 +5,9 @@
 
 ## 概要
 
-1981年に[NWA北米タッグ王座が封印されて以来](../Page/北米タッグ王座.md "wikilink")、新日本は長らくタッグ王座不在の時期が続いていたが、1985年5月に[WWFインターナショナル・タッグ王座](https://ja.wikipedia.org/wiki/WWFインターナショナル・タッグ王座 "wikilink")が復活され、[藤波辰巳](https://ja.wikipedia.org/wiki/藤波辰爾 "wikilink")&[木村健吾組が第](https://ja.wikipedia.org/wiki/木村健悟 "wikilink")8代王者組となり、4度の防衛を果たしていた。しかし、10月末に[WWFが新日本との業務提携を解消して同王座は復活からわずか](../Page/WWE.md "wikilink")5ヶ月で[WWFインターナショナル・ヘビー級王座](https://ja.wikipedia.org/wiki/WWFインターナショナル・ヘビー級王座 "wikilink")、[WWFジュニアヘビー級王座](https://ja.wikipedia.org/wiki/WWFジュニアヘビー級王座 "wikilink")と共に封印されてしまった。それに代わるタッグ王座として新日本プロレスが[IWGP](https://ja.wikipedia.org/wiki/IWGP "wikilink")の王座として初めて認定したタイトルが、このIWGPタッグ王座である。
+1981年に[NWA北米タッグ王座が封印されて以来](../Page/北米タッグ王座.md "wikilink")、新日本は長らくタッグ王座不在の時期が続いていたが、1985年5月に[WWFインターナショナル・タッグ王座](https://ja.wikipedia.org/wiki/WWFインターナショナル・タッグ王座 "wikilink")が復活され、[藤波辰巳](../Page/藤波辰爾.md "wikilink")&[木村健吾組が第](../Page/木村健悟.md "wikilink")8代王者組となり、4度の防衛を果たしていた。しかし、10月末に[WWFが新日本との業務提携を解消して同王座は復活からわずか](../Page/WWE.md "wikilink")5ヶ月で[WWFインターナショナル・ヘビー級王座](https://ja.wikipedia.org/wiki/WWFインターナショナル・ヘビー級王座 "wikilink")、[WWFジュニアヘビー級王座](https://ja.wikipedia.org/wiki/WWFジュニアヘビー級王座 "wikilink")と共に封印されてしまった。それに代わるタッグ王座として新日本プロレスが[IWGP](../Page/IWGP.md "wikilink")の王座として初めて認定したタイトルが、このIWGPタッグ王座である。
 
-[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")11月、本来行われる予定だった「[MSGタッグリーグ戦](https://ja.wikipedia.org/wiki/MSGタッグ・リーグ戦 "wikilink")」が業務提携解消で「[MSG](https://ja.wikipedia.org/wiki/マディソン・スクエア・ガーデン "wikilink")」の名称が使えなくなった事から、その代替として「IWGPタッグリーグ戦」の開催が発表され、優勝チームが初代IWGPタッグ王者チームに認定されることになった。ところがリーグ戦1位通過の[ブルーザー・ブロディ](../Page/ブルーザー・ブロディ.md "wikilink")&[ジミー・スヌーカ](https://ja.wikipedia.org/wiki/ジミー・スヌーカ "wikilink")組が[12月12日](../Page/12月12日.md "wikilink")の決勝を[ボイコット](../Page/ボイコット.md "wikilink")して帰国してしまった為、急遽[アントニオ猪木](../Page/アントニオ猪木.md "wikilink")＆[坂口征二](https://ja.wikipedia.org/wiki/坂口征二 "wikilink")組と藤波＆木村組のリーグ戦2位同士の間で決勝戦が行われ、[ドラゴン・スープレックス](https://ja.wikipedia.org/wiki/ドラゴン・スープレックス "wikilink")・ホールドで藤波が猪木からで3カウントを奪い、WWFインターナショナル・タッグ王座 組だった藤波＆木村組が記念すべき初代王者組に輝いた。
+[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")11月、本来行われる予定だった「[MSGタッグリーグ戦](../Page/MSGタッグ・リーグ戦.md "wikilink")」が業務提携解消で「[MSG](../Page/マディソン・スクエア・ガーデン.md "wikilink")」の名称が使えなくなった事から、その代替として「IWGPタッグリーグ戦」の開催が発表され、優勝チームが初代IWGPタッグ王者チームに認定されることになった。ところがリーグ戦1位通過の[ブルーザー・ブロディ](../Page/ブルーザー・ブロディ.md "wikilink")&[ジミー・スヌーカ](../Page/ジミー・スヌーカ.md "wikilink")組が[12月12日](../Page/12月12日.md "wikilink")の決勝を[ボイコット](../Page/ボイコット.md "wikilink")して帰国してしまった為、急遽[アントニオ猪木](../Page/アントニオ猪木.md "wikilink")＆[坂口征二](../Page/坂口征二.md "wikilink")組と藤波＆木村組のリーグ戦2位同士の間で決勝戦が行われ、[ドラゴン・スープレックス](../Page/ドラゴン・スープレックス.md "wikilink")・ホールドで藤波が猪木からで3カウントを奪い、WWFインターナショナル・タッグ王座 組だった藤波＆木村組が記念すべき初代王者組に輝いた。
 
 ## 歴代王者
 
@@ -29,16 +29,16 @@
 <tbody>
 <tr class="odd">
 <td><p>初代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/藤波辰爾" title="wikilink">藤波辰巳</a>&amp;<a href="https://ja.wikipedia.org/wiki/木村健悟" title="wikilink">木村健吾</a></p></td>
+<td><p><a href="../Page/藤波辰爾.md" title="wikilink">藤波辰巳</a>&amp;<a href="../Page/木村健悟.md" title="wikilink">木村健吾</a></p></td>
 <td><p>1</p></td>
 <td><p>5</p></td>
 <td><p>1985年12月12日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/宮城県スポーツセンター" title="wikilink">宮城県スポーツセンター</a><br />
-初代王座決定戦、もう1組は<a href="../Page/アントニオ猪木.md" title="wikilink">アントニオ猪木</a>&amp;<a href="https://ja.wikipedia.org/wiki/坂口征二" title="wikilink">坂口征二</a></p></td>
+<td><p><a href="../Page/宮城県スポーツセンター.md" title="wikilink">宮城県スポーツセンター</a><br />
+初代王座決定戦、もう1組は<a href="../Page/アントニオ猪木.md" title="wikilink">アントニオ猪木</a>&amp;<a href="../Page/坂口征二.md" title="wikilink">坂口征二</a></p></td>
 </tr>
 <tr class="even">
 <td><p>第2代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/前田日明" title="wikilink">前田日明</a>&amp;<a href="https://ja.wikipedia.org/wiki/木戸修" title="wikilink">木戸修</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/前田日明" title="wikilink">前田日明</a>&amp;<a href="../Page/木戸修.md" title="wikilink">木戸修</a></p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
 <td><p>1986年8月5日</p></td>
@@ -50,12 +50,12 @@
 <td><p>2</p></td>
 <td><p>0</p></td>
 <td><p>1986年9月23日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/後楽園ホール" title="wikilink">後楽園ホール</a><br />
+<td><p><a href="../Page/後楽園ホール.md" title="wikilink">後楽園ホール</a><br />
 <a href="../Page/タッグチーム.md" title="wikilink">タッグ解消による王座返上</a></p></td>
 </tr>
 <tr class="even">
 <td><p>第4代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/越中詩郎" title="wikilink">越中詩郎</a>&amp;<a href="https://ja.wikipedia.org/wiki/武藤敬司" title="wikilink">武藤敬司</a></p></td>
+<td><p><a href="../Page/越中詩郎.md" title="wikilink">越中詩郎</a>&amp;<a href="https://ja.wikipedia.org/wiki/武藤敬司" title="wikilink">武藤敬司</a></p></td>
 <td><p>1</p></td>
 <td><p>0</p></td>
 <td><p>1987年3月20日</p></td>
@@ -72,11 +72,11 @@
 </tr>
 <tr class="even">
 <td><p>第6代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/藤原喜明" title="wikilink">藤原喜明</a>&amp;<a href="https://ja.wikipedia.org/wiki/山崎一夫_(プロレスラー)" title="wikilink">山崎一夫</a></p></td>
+<td><p><a href="../Page/藤原喜明.md" title="wikilink">藤原喜明</a>&amp;<a href="../Page/山崎一夫_(プロレスラー).md" title="wikilink">山崎一夫</a></p></td>
 <td><p>1</p></td>
 <td><p>2</p></td>
 <td><p>1987年9月1日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡国際センター" title="wikilink">福岡国際センター</a></p></td>
+<td><p><a href="../Page/福岡国際センター.md" title="wikilink">福岡国際センター</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>第7代</p></td>
@@ -88,7 +88,7 @@
 </tr>
 <tr class="even">
 <td><p>第8代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長州力" title="wikilink">長州力</a>&amp;<a href="https://ja.wikipedia.org/wiki/マサ斎藤" title="wikilink">マサ斎藤</a></p></td>
+<td><p><a href="../Page/長州力.md" title="wikilink">長州力</a>&amp;<a href="../Page/マサ斎藤.md" title="wikilink">マサ斎藤</a></p></td>
 <td><p>1</p></td>
 <td><p>4</p></td>
 <td><p>1988年6月10日</p></td>
@@ -96,15 +96,15 @@
 </tr>
 <tr class="odd">
 <td><p>第9代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/平田淳嗣" title="wikilink">スーパー・ストロング・マシン</a>&amp;<a href="https://ja.wikipedia.org/wiki/ジョージ高野" title="wikilink">ジョージ高野</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/平田淳嗣" title="wikilink">スーパー・ストロング・マシン</a>&amp;<a href="../Page/ジョージ高野.md" title="wikilink">ジョージ高野</a></p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
 <td><p>1989年3月16日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/横浜文化体育館" title="wikilink">横浜文化体育館</a></p></td>
+<td><p><a href="../Page/横浜文化体育館.md" title="wikilink">横浜文化体育館</a></p></td>
 </tr>
 <tr class="even">
 <td><p>第10代</p></td>
-<td><p>長州力&amp;<a href="https://ja.wikipedia.org/wiki/飯塚高史" title="wikilink">飯塚孝之</a></p></td>
+<td><p>長州力&amp;<a href="../Page/飯塚高史.md" title="wikilink">飯塚孝之</a></p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
 <td><p>1989年7月13日</p></td>
@@ -112,7 +112,7 @@
 </tr>
 <tr class="odd">
 <td><p>第11代</p></td>
-<td><p>マサ斎藤&amp;<a href="https://ja.wikipedia.org/wiki/橋本真也" title="wikilink">橋本真也</a></p></td>
+<td><p>マサ斎藤&amp;<a href="../Page/橋本真也.md" title="wikilink">橋本真也</a></p></td>
 <td><p>1</p></td>
 <td><p>3</p></td>
 <td><p>1989年9月20日</p></td>
@@ -124,11 +124,11 @@
 <td><p>1</p></td>
 <td><p>3</p></td>
 <td><p>1990年4月27日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京ベイNKホール" title="wikilink">東京ベイNKホール</a></p></td>
+<td><p><a href="../Page/東京ベイNKホール.md" title="wikilink">東京ベイNKホール</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>第13代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/馳浩" title="wikilink">馳浩</a>&amp;<a href="https://ja.wikipedia.org/wiki/佐々木健介" title="wikilink">佐々木健介</a></p></td>
+<td><p><a href="../Page/馳浩.md" title="wikilink">馳浩</a>&amp;<a href="https://ja.wikipedia.org/wiki/佐々木健介" title="wikilink">佐々木健介</a></p></td>
 <td><p>1</p></td>
 <td><p>2</p></td>
 <td><p>1990年11月1日</p></td>
@@ -136,11 +136,11 @@
 </tr>
 <tr class="even">
 <td><p>第14代</p></td>
-<td><p>スーパー・ストロング・マシン&amp;<a href="https://ja.wikipedia.org/wiki/ヒロ斎藤" title="wikilink">ヒロ斎藤</a></p></td>
+<td><p>スーパー・ストロング・マシン&amp;<a href="../Page/ヒロ斎藤.md" title="wikilink">ヒロ斎藤</a></p></td>
 <td><p>1</p></td>
 <td><p>2</p></td>
 <td><p>1990年12月26日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/浜松アリーナ" title="wikilink">浜松アリーナ</a></p></td>
+<td><p><a href="../Page/浜松アリーナ.md" title="wikilink">浜松アリーナ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>第15代</p></td>
@@ -152,7 +152,7 @@
 </tr>
 <tr class="even">
 <td><p>第16代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/リック・スタイナー" title="wikilink">リック・スタイナー</a>&amp;<a href="../Page/スコット・スタイナー.md" title="wikilink">スコット・スタイナー</a></p></td>
+<td><p><a href="../Page/リック・スタイナー.md" title="wikilink">リック・スタイナー</a>&amp;<a href="../Page/スコット・スタイナー.md" title="wikilink">スコット・スタイナー</a></p></td>
 <td><p>1</p></td>
 <td><p>2</p></td>
 <td><p>1991年3月21日</p></td>
@@ -169,7 +169,7 @@
 </tr>
 <tr class="even">
 <td><p>第18代</p></td>
-<td><p><a href="../Page/ビッグバン・ベイダー.md" title="wikilink">ビッグバン・ベイダー</a>&amp;<a href="https://ja.wikipedia.org/wiki/バンバン・ビガロ" title="wikilink">クラッシャー・バンバン・ビガロ</a></p></td>
+<td><p><a href="../Page/ビッグバン・ベイダー.md" title="wikilink">ビッグバン・ベイダー</a>&amp;<a href="../Page/バンバン・ビガロ.md" title="wikilink">クラッシャー・バンバン・ビガロ</a></p></td>
 <td><p>1</p></td>
 <td><p>2</p></td>
 <td><p>1992年3月1日</p></td>
@@ -185,7 +185,7 @@
 </tr>
 <tr class="even">
 <td><p>第20代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スコット・ノートン" title="wikilink">スコット・ノートン</a>&amp;<a href="https://ja.wikipedia.org/wiki/トニー・ホーム" title="wikilink">トニー・ホーム</a></p></td>
+<td><p><a href="../Page/スコット・ノートン.md" title="wikilink">スコット・ノートン</a>&amp;<a href="https://ja.wikipedia.org/wiki/トニー・ホーム" title="wikilink">トニー・ホーム</a></p></td>
 <td><p>1</p></td>
 <td><p>0</p></td>
 <td><p>1992年11月22日</p></td>
@@ -197,7 +197,7 @@
 <td><p>1</p></td>
 <td><p>4</p></td>
 <td><p>1992年12月14日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大阪府立体育会館" title="wikilink">大阪府立体育会館</a></p></td>
+<td><p><a href="../Page/大阪府立体育会館.md" title="wikilink">大阪府立体育会館</a></p></td>
 </tr>
 <tr class="even">
 <td><p>第22代</p></td>
@@ -221,11 +221,11 @@
 <td><p>2</p></td>
 <td><p>1</p></td>
 <td><p>1994年11月25日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/岩手県営体育館" title="wikilink">岩手県営体育館</a>、王座返上</p></td>
+<td><p><a href="../Page/岩手県営体育館.md" title="wikilink">岩手県営体育館</a>、王座返上</p></td>
 </tr>
 <tr class="odd">
 <td><p>第25代</p></td>
-<td><p>蝶野正洋&amp;<a href="https://ja.wikipedia.org/wiki/天山広吉" title="wikilink">天山広吉</a></p></td>
+<td><p>蝶野正洋&amp;<a href="../Page/天山広吉.md" title="wikilink">天山広吉</a></p></td>
 <td><p>1</p></td>
 <td><p>0</p></td>
 <td><p>1995年6月12日</p></td>
@@ -275,7 +275,7 @@
 </tr>
 <tr class="odd">
 <td><p>第31代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中西学" title="wikilink">中西学</a>&amp;<a href="https://ja.wikipedia.org/wiki/小島聡" title="wikilink">小島聡</a></p></td>
+<td><p><a href="../Page/中西学.md" title="wikilink">中西学</a>&amp;<a href="../Page/小島聡.md" title="wikilink">小島聡</a></p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
 <td><p>1997年5月3日</p></td>
@@ -295,7 +295,7 @@
 <td><p>2</p></td>
 <td><p>2</p></td>
 <td><p>1997年10月19日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ワールド記念ホール" title="wikilink">神戸ワールド記念ホール</a><br />
+<td><p><a href="../Page/ワールド記念ホール.md" title="wikilink">神戸ワールド記念ホール</a><br />
 王座返上</p></td>
 </tr>
 <tr class="even">
@@ -305,11 +305,11 @@
 <td><p>0</p></td>
 <td><p>1998年6月5日</p></td>
 <td><p>日本武道館<br />
-王座決定戦、<a href="https://ja.wikipedia.org/wiki/天龍源一郎" title="wikilink">天龍源一郎</a>&amp;越中詩郎</p></td>
+王座決定戦、<a href="../Page/天龍源一郎.md" title="wikilink">天龍源一郎</a>&amp;越中詩郎</p></td>
 </tr>
 <tr class="odd">
 <td><p>第35代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/天龍源一郎" title="wikilink">天龍源一郎</a>&amp;越中詩郎</p></td>
+<td><p><a href="../Page/天龍源一郎.md" title="wikilink">天龍源一郎</a>&amp;越中詩郎</p></td>
 <td><p>1</p></td>
 <td><p>2</p></td>
 <td><p>1998年7月15日</p></td>
@@ -333,15 +333,15 @@
 </tr>
 <tr class="even">
 <td><p>第38代</p></td>
-<td><p><a href="../Page/後藤達俊.md" title="wikilink">後藤達俊</a>&amp;<a href="https://ja.wikipedia.org/wiki/小原道由" title="wikilink">小原道由</a></p></td>
+<td><p><a href="../Page/後藤達俊.md" title="wikilink">後藤達俊</a>&amp;<a href="../Page/小原道由.md" title="wikilink">小原道由</a></p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
 <td><p>1999年6月27日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/静岡県コンベンションアーツセンター" title="wikilink">グランシップ静岡</a></p></td>
+<td><p><a href="../Page/静岡県コンベンションアーツセンター.md" title="wikilink">グランシップ静岡</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>第39代</p></td>
-<td><p>中西学&amp;<a href="https://ja.wikipedia.org/wiki/永田裕志" title="wikilink">永田裕志</a></p></td>
+<td><p>中西学&amp;<a href="../Page/永田裕志.md" title="wikilink">永田裕志</a></p></td>
 <td><p>1</p></td>
 <td><p>4</p></td>
 <td><p>1999年8月28日</p></td>
@@ -353,11 +353,11 @@
 <td><p>2</p></td>
 <td><p>6</p></td>
 <td><p>2000年7月20日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/北海道立総合体育センター" title="wikilink">北海道立総合体育センター</a></p></td>
+<td><p><a href="../Page/北海道立総合体育センター.md" title="wikilink">北海道立総合体育センター</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>第41代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/西村修" title="wikilink">西村修</a>&amp;藤波辰爾</p></td>
+<td><p><a href="../Page/西村修.md" title="wikilink">西村修</a>&amp;藤波辰爾</p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
 <td><p>2001年9月23日</p></td>
@@ -369,7 +369,7 @@
 <td><p>1</p></td>
 <td><p>0</p></td>
 <td><p>2001年10月28日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡国際センター" title="wikilink">福岡国際センター</a><br />
+<td><p><a href="../Page/福岡国際センター.md" title="wikilink">福岡国際センター</a><br />
 王座返上</p></td>
 </tr>
 <tr class="odd">
@@ -383,7 +383,7 @@
 </tr>
 <tr class="even">
 <td><p>第44代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/吉江豊" title="wikilink">吉江豊</a>&amp;<a href="../Page/棚橋弘至.md" title="wikilink">棚橋弘至</a></p></td>
+<td><p><a href="../Page/吉江豊.md" title="wikilink">吉江豊</a>&amp;<a href="../Page/棚橋弘至.md" title="wikilink">棚橋弘至</a></p></td>
 <td><p>1</p></td>
 <td><p>3</p></td>
 <td><p>2003年6月13日</p></td>
@@ -399,7 +399,7 @@
 </tr>
 <tr class="even">
 <td><p>第46代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/鈴木みのる" title="wikilink">鈴木みのる</a>&amp;<a href="../Page/高山善廣.md" title="wikilink">高山善廣</a></p></td>
+<td><p><a href="../Page/鈴木みのる.md" title="wikilink">鈴木みのる</a>&amp;<a href="../Page/高山善廣.md" title="wikilink">高山善廣</a></p></td>
 <td><p>1</p></td>
 <td><p>4</p></td>
 <td><p>2004年2月1日</p></td>
@@ -408,7 +408,7 @@
 </tr>
 <tr class="odd">
 <td><p>第47代</p></td>
-<td><p>棚橋弘至&amp;<a href="https://ja.wikipedia.org/wiki/中邑真輔" title="wikilink">中邑真輔</a></p></td>
+<td><p>棚橋弘至&amp;<a href="../Page/中邑真輔.md" title="wikilink">中邑真輔</a></p></td>
 <td><p>1</p></td>
 <td><p>4</p></td>
 <td><p>2004年12月11日</p></td>
@@ -426,7 +426,7 @@
 </tr>
 <tr class="odd">
 <td><p>第49代</p></td>
-<td><p>中西学&amp;<a href="https://ja.wikipedia.org/wiki/大森隆男" title="wikilink">大森隆男</a></p></td>
+<td><p>中西学&amp;<a href="../Page/大森隆男.md" title="wikilink">大森隆男</a></p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
 <td><p>2006年9月28日</p></td>
@@ -435,7 +435,7 @@
 </tr>
 <tr class="even">
 <td><p>第50代</p></td>
-<td><p><a href="../Page/マシュー・ブルーム.md" title="wikilink">ジャイアント・バーナード</a>&amp;<a href="https://ja.wikipedia.org/wiki/トラヴィス・トムコ" title="wikilink">トラヴィス・トムコ</a></p></td>
+<td><p><a href="../Page/マシュー・ブルーム.md" title="wikilink">ジャイアント・バーナード</a>&amp;<a href="../Page/トラヴィス・トムコ.md" title="wikilink">トラヴィス・トムコ</a></p></td>
 <td><p>1</p></td>
 <td><p>5</p></td>
 <td><p>2007年3月11日</p></td>
@@ -443,7 +443,7 @@
 </tr>
 <tr class="odd">
 <td><p>第51代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/真壁刀義" title="wikilink">真壁刀義</a>&amp;<a href="https://ja.wikipedia.org/wiki/矢野通" title="wikilink">矢野通</a></p></td>
+<td><p><a href="../Page/真壁刀義.md" title="wikilink">真壁刀義</a>&amp;<a href="../Page/矢野通.md" title="wikilink">矢野通</a></p></td>
 <td><p>1</p></td>
 <td><p>4</p></td>
 <td><p>2008年2月17日</p></td>
@@ -451,7 +451,7 @@
 </tr>
 <tr class="even">
 <td><p>第52代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マーク・ロモナコ" title="wikilink">ブラザー・レイ</a>&amp;<a href="https://ja.wikipedia.org/wiki/ディーボン・ヒューズ" title="wikilink">ブラザー・ディーボン</a></p></td>
+<td><p><a href="../Page/マーク・ロモナコ.md" title="wikilink">ブラザー・レイ</a>&amp;<a href="../Page/ディーボン・ヒューズ.md" title="wikilink">ブラザー・ディーボン</a></p></td>
 <td><p>1</p></td>
 <td><p>4</p></td>
 <td><p>2009年1月4日</p></td>
@@ -459,7 +459,7 @@
 </tr>
 <tr class="odd">
 <td><p>第53代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブルータス・マグナス" title="wikilink">ブルータス・マグナス</a>&amp;<a href="https://ja.wikipedia.org/wiki/ダグ・ウィリアムス_(プロレスラー)" title="wikilink">ダグ・ウィリアムズ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ブルータス・マグナス" title="wikilink">ブルータス・マグナス</a>&amp;<a href="../Page/ダグ・ウィリアムス_(プロレスラー).md" title="wikilink">ダグ・ウィリアムズ</a></p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
 <td><p>2009年7月22日</p></td>
@@ -476,16 +476,16 @@
 </tr>
 <tr class="odd">
 <td><p>第55代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/高橋裕二郎" title="wikilink">高橋裕二郎</a>&amp;<a href="https://ja.wikipedia.org/wiki/内藤哲也" title="wikilink">内藤哲也</a></p></td>
+<td><p><a href="../Page/高橋裕二郎.md" title="wikilink">高橋裕二郎</a>&amp;<a href="../Page/内藤哲也.md" title="wikilink">内藤哲也</a></p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
 <td><p>2010年1月4日</p></td>
 <td><p>東京ドーム<br />
-前王者組、<a href="../Page/マシュー・ブルーム.md" title="wikilink">ジャイアント・バーナード</a>&amp;<a href="https://ja.wikipedia.org/wiki/カール・アンダーソン_(プロレスラー)" title="wikilink">カール・アンダーソン組との</a><a href="https://ja.wikipedia.org/wiki/トリプルスレットマッチ" title="wikilink">3ウェイ戦</a></p></td>
+前王者組、<a href="../Page/マシュー・ブルーム.md" title="wikilink">ジャイアント・バーナード</a>&amp;<a href="https://ja.wikipedia.org/wiki/カール・アンダーソン_(プロレスラー)" title="wikilink">カール・アンダーソン組との</a><a href="../Page/トリプルスレットマッチ.md" title="wikilink">3ウェイ戦</a></p></td>
 </tr>
 <tr class="even">
 <td><p>第56代</p></td>
-<td><p>永田裕志&amp;<a href="https://ja.wikipedia.org/wiki/井上亘" title="wikilink">井上亘</a></p></td>
+<td><p>永田裕志&amp;<a href="../Page/井上亘.md" title="wikilink">井上亘</a></p></td>
 <td><p>1</p></td>
 <td><p>0</p></td>
 <td><p>2010年5月3日</p></td>
@@ -550,8 +550,8 @@
 <td><p>2</p></td>
 <td><p>0</p></td>
 <td><p>2013年11月9日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大阪府立体育会館" title="wikilink">大阪府立体育会館</a>、前王者組、<a href="../Page/ロブ・コンウェイ.md" title="wikilink">ロブ・コンウェイ</a>&amp;<a href="https://ja.wikipedia.org/wiki/ジャックス・デイン" title="wikilink">ジャックス・デイン</a>組との3ウェイ戦。<br />
-<a href="https://ja.wikipedia.org/wiki/NWA世界タッグチーム王座" title="wikilink">NWA世界タッグチーム王座</a>とのダブル選手権。</p></td>
+<td><p><a href="../Page/大阪府立体育会館.md" title="wikilink">大阪府立体育会館</a>、前王者組、<a href="../Page/ロブ・コンウェイ.md" title="wikilink">ロブ・コンウェイ</a>&amp;<a href="https://ja.wikipedia.org/wiki/ジャックス・デイン" title="wikilink">ジャックス・デイン</a>組との3ウェイ戦。<br />
+<a href="../Page/NWA世界タッグチーム王座.md" title="wikilink">NWA世界タッグチーム王座</a>とのダブル選手権。</p></td>
 </tr>
 <tr class="even">
 <td><p>第64代</p></td>
@@ -563,7 +563,7 @@
 </tr>
 <tr class="odd">
 <td><p>第65代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/後藤洋央紀" title="wikilink">後藤洋央紀</a>&amp;<a href="https://ja.wikipedia.org/wiki/柴田勝頼" title="wikilink">柴田勝頼</a></p></td>
+<td><p><a href="../Page/後藤洋央紀.md" title="wikilink">後藤洋央紀</a>&amp;<a href="../Page/柴田勝頼.md" title="wikilink">柴田勝頼</a></p></td>
 <td><p>1</p></td>
 <td><p>0</p></td>
 <td><p>2015年1月4日</p></td>
@@ -595,7 +595,7 @@
 </tr>
 <tr class="odd">
 <td><p>第69代</p></td>
-<td><p>真壁刀義&amp;<a href="https://ja.wikipedia.org/wiki/本間朋晃" title="wikilink">本間朋晃</a></p></td>
+<td><p>真壁刀義&amp;<a href="../Page/本間朋晃.md" title="wikilink">本間朋晃</a></p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
 <td><p>2016年1月4日</p></td>
@@ -627,7 +627,7 @@
 </tr>
 <tr class="odd">
 <td><p>第73代</p></td>
-<td><p>矢野通&amp;<a href="https://ja.wikipedia.org/wiki/石井智宏" title="wikilink">石井智宏</a></p></td>
+<td><p>矢野通&amp;<a href="../Page/石井智宏.md" title="wikilink">石井智宏</a></p></td>
 <td><p>1</p></td>
 <td><p>2</p></td>
 <td><p>2017年1月4日</p></td>
@@ -731,7 +731,7 @@
 </tr>
 <tr class="even">
 <td><p>第86代</p></td>
-<td><p>棚橋弘至&amp;<a href="https://ja.wikipedia.org/wiki/飯伏幸太" title="wikilink">飯伏幸太</a></p></td>
+<td><p>棚橋弘至&amp;<a href="../Page/飯伏幸太.md" title="wikilink">飯伏幸太</a></p></td>
 <td><p>1</p></td>
 <td></td>
 <td><p>2020年2月21日</p></td>
@@ -754,11 +754,11 @@
 ## エピソード
 
   - 第47代王者は、高山の長期欠場により王座を剥奪、高山が新王者に健介&鈴木組を指名したが許可されず棚橋&中邑組VS佐々木&鈴木組による王座決定戦が行われた。
-  - 第48代王者は、蝶野の左ひじ手術による離脱で長期間防衛戦をしていない等の理由で[サイモン・ケリー新日本プロレス社長により同王座史上初の王座剥奪](https://ja.wikipedia.org/wiki/サイモン・ケリー猪木 "wikilink")。
+  - 第48代王者は、蝶野の左ひじ手術による離脱で長期間防衛戦をしていない等の理由で[サイモン・ケリー新日本プロレス社長により同王座史上初の王座剥奪](../Page/サイモン・ケリー猪木.md "wikilink")。
   - 第49代王者は、2006年7月2日に真壁&越中組とバーナード&トムコ組の間で[暫定王者決定戦を実施](../Page/暫定王座.md "wikilink")。勝利した真壁&越中組と中西&大森組が正規王座決定戦を行い、勝った中西&大森組が正式に第49代王者に認定される。
   - 第59代王者は、調印式のボイコット、2012年6月16日大阪での試合内容並びに結果（ノーコンテスト）、[菅林直樹](https://ja.wikipedia.org/wiki/菅林直樹 "wikilink")新日本プロレス社長への暴行を受けて新日本プロレス社長、IWGP実行委員会、審判部で協議の結果、矢野&飯塚組は王者にふさわしくないと判断、6月16日の大阪の防衛も認めず王座剥奪。
   - 第60代王者は、2012年7月22日に天山&小島組と矢野&飯塚組の間で王者決定戦を実施、勝利した天山&小島組を第60代王者に認定。なお試合は、場外カウント無し、4人のレフェリーが試合を裁く特別ルールで行われた。
-  - 第63代王者は[NWA世界タッグチーム王座](https://ja.wikipedia.org/wiki/NWA世界タッグチーム王座 "wikilink")とのダブル選手権試合で、NWA世界タッグ王者組のアーチャー&スミス組、第62代IWGPタッグ王者組の天山&小島組、[ロブ・コンウェイ](../Page/ロブ・コンウェイ.md "wikilink")&[ジャックス・デイン](https://ja.wikipedia.org/wiki/ジャックス・デイン "wikilink")組との変則3WAYマッチで行われた。この試合は60分2本勝負で行われ、1本目の勝利者チームはNWA世界タッグ王座に認定、2本目の勝利者チームはIWGPタッグ王座に認定というルールで行われた。試合結果は1本目をロブ&ジャックス組、2本目をアーチャー&スミス組となり、第63代王者にアーチャー&スミス組が認定された。
+  - 第63代王者は[NWA世界タッグチーム王座](../Page/NWA世界タッグチーム王座.md "wikilink")とのダブル選手権試合で、NWA世界タッグ王者組のアーチャー&スミス組、第62代IWGPタッグ王者組の天山&小島組、[ロブ・コンウェイ](../Page/ロブ・コンウェイ.md "wikilink")&[ジャックス・デイン](https://ja.wikipedia.org/wiki/ジャックス・デイン "wikilink")組との変則3WAYマッチで行われた。この試合は60分2本勝負で行われ、1本目の勝利者チームはNWA世界タッグ王座に認定、2本目の勝利者チームはIWGPタッグ王座に認定というルールで行われた。試合結果は1本目をロブ&ジャックス組、2本目をアーチャー&スミス組となり、第63代王者にアーチャー&スミス組が認定された。
   - 第83代王者は[ROH世界タッグ王座](https://ja.wikipedia.org/wiki/ROH世界タッグ王座 "wikilink")チームとの ダブル選手権試合4WAYマッチでROH世界タッグ王者のブロディ・キング＆PCO組、第83代IWGPタッグ王者組のタンガ・ロア＆タマ・トンガ組、SANADA＆EVIL組、マーク・ブリスコ＆ジェイ・ブリスコ組行われた。
 
 ## 外部リンク

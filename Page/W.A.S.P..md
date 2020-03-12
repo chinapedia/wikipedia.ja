@@ -13,13 +13,13 @@
 <!-- end list -->
 
   - [1982年](../Page/1982年.md "wikilink")、[ブラッキー・ローレス](https://ja.wikipedia.org/wiki/ブラッキー・ローレス "wikilink")を中心に[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")で結成。
-  - [1984年](../Page/1984年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、シングル「Animal(Fuck Like A Beast)」でデビュー。タイトルと歌詞が過激なため、所属レコード会社の[キャピトル・レコード](https://ja.wikipedia.org/wiki/キャピトル・レコード "wikilink")から発売が許可されず、イギリスの[ミュージック・フォー・ネイションズ](https://ja.wikipedia.org/wiki/ミュージック・フォー・ネイションズ "wikilink")から発表。
+  - [1984年](../Page/1984年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、シングル「Animal(Fuck Like A Beast)」でデビュー。タイトルと歌詞が過激なため、所属レコード会社の[キャピトル・レコード](../Page/キャピトル・レコード.md "wikilink")から発売が許可されず、イギリスの[ミュージック・フォー・ネイションズ](https://ja.wikipedia.org/wiki/ミュージック・フォー・ネイションズ "wikilink")から発表。
   - 同年[8月](../Page/8月.md "wikilink")、キャピトル・レコードからデビュー・アルバム『[W.A.S.P.](https://ja.wikipedia.org/wiki/魔人伝 "wikilink")』発表。問題の「Animal」収録は見送られた（後に[リマスター](https://ja.wikipedia.org/wiki/リマスター "wikilink")盤CDに収録される）。が、[9月](../Page/9月.md "wikilink")には早くもドラムのトニー・リチャーズが脱退。後任にスティーヴン・ライリーが加入。
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[11月](../Page/11月.md "wikilink")、2ndアルバム『[The Last Command](https://ja.wikipedia.org/wiki/ラスト・コマンド "wikilink")』発表。
   - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")、ランディ・パイパーが脱退したため、後任にジョニー・ロッド（b.、元[キング・コブラ](https://ja.wikipedia.org/wiki/キング・コブラ "wikilink")）を迎え、[11月](../Page/11月.md "wikilink")リリースの3rdアルバム『Inside The Electric Circus』以降、ブラッキーが[ベースからリズム](../Page/エレクトリックベース.md "wikilink")・ギターにパート・チェンジ。
-  - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[8月](../Page/8月.md "wikilink")、「[モンスターズ・オブ・ロック](https://ja.wikipedia.org/wiki/モンスターズ・オブ・ロック "wikilink")」に出演。
+  - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[8月](../Page/8月.md "wikilink")、「[モンスターズ・オブ・ロック](../Page/モンスターズ・オブ・ロック.md "wikilink")」に出演。
   - [1989年](../Page/1989年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")に4thアルバム『[The Headless Children](https://ja.wikipedia.org/wiki/ヘッドレス・チルドレン "wikilink")』をリリースするも、[9月](../Page/9月.md "wikilink")にオリジナル・メンバーだったクリス・ホルムスが脱退。デビュー当時からのメンバーがブラッキーだけとなり、バンドはほぼ解散状態となる。
-  - [1992年](../Page/1992年.md "wikilink")[6月](../Page/6月.md "wikilink")、ブラッキーがソロ・アルバムとして製作した『[The Crimson Idol](https://ja.wikipedia.org/wiki/クリムゾン・アイドル "wikilink")』を、レコード会社のアドバイスによりW.A.S.P.名義の5thアルバムとして発表。今作品は[ザ・フー](../Page/ザ・フー.md "wikilink")の『[トミー](https://ja.wikipedia.org/wiki/トミー_\(アルバム\) "wikilink")』に影響を受けた[コンセプト・アルバム](../Page/コンセプト・アルバム.md "wikilink")である。ツアーにはダグ･ブレアー(g)が参加している。[8月](../Page/8月.md "wikilink")に「[モンスターズ・オブ・ロック](https://ja.wikipedia.org/wiki/モンスターズ・オブ・ロック "wikilink")」に再び出演。
+  - [1992年](../Page/1992年.md "wikilink")[6月](../Page/6月.md "wikilink")、ブラッキーがソロ・アルバムとして製作した『[The Crimson Idol](https://ja.wikipedia.org/wiki/クリムゾン・アイドル "wikilink")』を、レコード会社のアドバイスによりW.A.S.P.名義の5thアルバムとして発表。今作品は[ザ・フー](../Page/ザ・フー.md "wikilink")の『[トミー](../Page/トミー_\(アルバム\).md "wikilink")』に影響を受けた[コンセプト・アルバム](../Page/コンセプト・アルバム.md "wikilink")である。ツアーにはダグ･ブレアー(g)が参加している。[8月](../Page/8月.md "wikilink")に「[モンスターズ・オブ・ロック](../Page/モンスターズ・オブ・ロック.md "wikilink")」に再び出演。
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")の6thアルバム『Still Not Black Enough』もブラッキーのソロ・プロジェクトの意味合いの強い作品となった。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")の7thアルバム『Kill Fuck Die』で、クリス・ホルムズ復帰。
   - 『K.F.D.』時のメンバーにより、『Helldorado』（[1999年](../Page/1999年.md "wikilink")）『[Unholy Terror](https://ja.wikipedia.org/wiki/アンホーリー・テラー "wikilink")』（[2001年](../Page/2001年.md "wikilink")）の2作が発表される。
@@ -39,7 +39,7 @@
 
 [Blackie_Lawless_of_W.A.S.P._in_performance_(2006).jpg](https://ja.wikipedia.org/wiki/File:Blackie_Lawless_of_W.A.S.P._in_performance_\(2006\).jpg "fig:Blackie_Lawless_of_W.A.S.P._in_performance_(2006).jpg") ブラッキーが股間にノコギリをつけたファッションで、血糊を飲むなどの過激なパフォーマンスを展開。 クリスは股間を掻き毟り（[毛虱](https://ja.wikipedia.org/wiki/毛虱 "wikilink")だったとは本人の談）、ランディはコスチュームの背中から煙を噴出していた。
 
-『Kill Fuck Die』に伴うツアーでは、豚（もちろん模型）を殺すという残虐なショウも行われたが、1997年の来日公演では[神戸連続児童殺傷事件](https://ja.wikipedia.org/wiki/神戸連続児童殺傷事件 "wikilink")の直後だったため自粛した。同じく過激なパフォーマンスで有名な[マリリン・マンソン](https://ja.wikipedia.org/wiki/マリリン・マンソン "wikilink")も影響を公言している。
+『Kill Fuck Die』に伴うツアーでは、豚（もちろん模型）を殺すという残虐なショウも行われたが、1997年の来日公演では[神戸連続児童殺傷事件](https://ja.wikipedia.org/wiki/神戸連続児童殺傷事件 "wikilink")の直後だったため自粛した。同じく過激なパフォーマンスで有名な[マリリン・マンソン](../Page/マリリン・マンソン.md "wikilink")も影響を公言している。
 
 ## メンバー
 

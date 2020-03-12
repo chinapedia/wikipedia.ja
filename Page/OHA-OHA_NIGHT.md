@@ -1,7 +1,7 @@
 > この記事は[OHA-OHA NIGHT](https://ja.wikipedia.org/wiki/OHA-OHA_NIGHT)から翻訳されています。
 
 
-『**OHA-OHA NIGHT**』（おはおはナイト）は、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系子供向けバラエティ番組『[おはスタ](https://ja.wikipedia.org/wiki/おはスタ "wikilink")』のラジオ版として、[2001年](../Page/2001年.md "wikilink")10月から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")3月まで放送された[ニッポン放送](../Page/ニッポン放送.md "wikilink")製作によるラジオ番組である。
+『**OHA-OHA NIGHT**』（おはおはナイト）は、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系子供向けバラエティ番組『[おはスタ](../Page/おはスタ.md "wikilink")』のラジオ版として、[2001年](../Page/2001年.md "wikilink")10月から[2005年](../Page/2005年.md "wikilink")3月まで放送された[ニッポン放送](../Page/ニッポン放送.md "wikilink")製作によるラジオ番組である。
 
 ニッポン放送の番組表では「OHA-OHA NIGHT」だったが、他のネット局の番組表では「**OHA-OHA-Night**」だった。また、タイトルコールは「**やまちゃん・ベッキーの**OHA-OHA NIGHT」だった。
 
@@ -9,13 +9,13 @@
 
 [2001年](../Page/2001年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink")からスタートし3年半（全179回）放送されたが、[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")ニッポン放送では、スポーツ中継や特別番組などで番組がしばしば休止し、放送回数は179回よりも少ない。
 
-テレビ東京系『[おはスタ](https://ja.wikipedia.org/wiki/おはスタ "wikilink")』とは視聴者が違うこともあり、テレビ番組との連携は少なかった。[ナイター](../Page/ナイター.md "wikilink")シーズンに伴う春・秋の番組改編期ごとに、放送局によっては曜日や時間帯が大幅に変更することもあった。
+テレビ東京系『[おはスタ](../Page/おはスタ.md "wikilink")』とは視聴者が違うこともあり、テレビ番組との連携は少なかった。[ナイター](../Page/ナイター.md "wikilink")シーズンに伴う春・秋の番組改編期ごとに、放送局によっては曜日や時間帯が大幅に変更することもあった。
 
-[ニッポン放送](../Page/ニッポン放送.md "wikilink")の他にも、[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")・[東海ラジオ](../Page/東海ラジオ放送.md "wikilink")・[ラジオ大阪](https://ja.wikipedia.org/wiki/大阪放送 "wikilink")・[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")で放送されたが、2005年3月に番組が終了したため、この4局は後番組として同年4月から、[文化放送](../Page/文化放送.md "wikilink")発の『[テニスの王子様 オン・ザ・レイディオ](https://ja.wikipedia.org/wiki/テニスの王子様_オン・ザ・レイディオ "wikilink")』を放送することになった。
+[ニッポン放送](../Page/ニッポン放送.md "wikilink")の他にも、[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")・[東海ラジオ](../Page/東海ラジオ放送.md "wikilink")・[ラジオ大阪](../Page/大阪放送.md "wikilink")・[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")で放送されたが、2005年3月に番組が終了したため、この4局は後番組として同年4月から、[文化放送](../Page/文化放送.md "wikilink")発の『[テニスの王子様 オン・ザ・レイディオ](../Page/テニスの王子様_オン・ザ・レイディオ.md "wikilink")』を放送することになった。
 
 ## ニッポン放送の放送時間
 
-20時〜21時台の比較的早い時間帯に放送されていた。ナイターオフシーズンには週末（最初のシーズン以外は土曜日）に放送されていたが、オンシーズンには[ショウアップナイター](https://ja.wikipedia.org/wiki/ショウアップナイター "wikilink")やクッション番組の[ショウアップナイターハイライト](https://ja.wikipedia.org/wiki/ショウアップナイターハイライト "wikilink")が放送されるため、ナイターが休みの月曜日に放送されていた。
+20時〜21時台の比較的早い時間帯に放送されていた。ナイターオフシーズンには週末（最初のシーズン以外は土曜日）に放送されていたが、オンシーズンには[ショウアップナイター](https://ja.wikipedia.org/wiki/ショウアップナイター "wikilink")やクッション番組の[ショウアップナイターハイライト](../Page/ショウアップナイターハイライト.md "wikilink")が放送されるため、ナイターが休みの月曜日に放送されていた。
 
   - 日曜日 20:20–20:50（2001年10月7日 - 2002年3月31日）
   - 月曜日 20:20–20:50（2002年4月1日 - 9月30日）
@@ -24,7 +24,7 @@
 
 ## パーソナリティ発表
 
-放送開始月である2001年10月の番組表は、ニッポン放送では「P・山寺宏一」、ラジオ大阪で「出演 : 山寺宏一、[酒井彩名](https://ja.wikipedia.org/wiki/酒井彩名 "wikilink")」となっており、山寺宏一と（おそらくはアシスタント的に）酒井彩名が出演すると思われていた。
+放送開始月である2001年10月の番組表は、ニッポン放送では「P・山寺宏一」、ラジオ大阪で「出演 : 山寺宏一、[酒井彩名](../Page/酒井彩名.md "wikilink")」となっており、山寺宏一と（おそらくはアシスタント的に）酒井彩名が出演すると思われていた。
 
 しかし実際に番組が開始すると、出演したのは山寺宏一とベッキーであった。番組中では、ベッキーの出演が急に決まったことが明かされた。
 
@@ -36,6 +36,6 @@
 
 番組の締めの挨拶は必ず「ロケットビーバイ\!」と叫んでいた。この言葉はベッキー名言集の中の“お別れの言葉”の一つ。
 
-エンディングテーマは、『おはスタ』内で作られた、山寺と[レイモンド・ジョンソン](https://ja.wikipedia.org/wiki/レイモンド・ジョンソン "wikilink")が歌う「ジャバジャバモーニング」が使用されていた。ただし毎年3月には、『おはスタ』で卒業の歌として作られた「[サヨナラのかわりに](https://ja.wikipedia.org/wiki/サヨナラのかわりに "wikilink")」をエンディングテーマとして流した。
+エンディングテーマは、『おはスタ』内で作られた、山寺と[レイモンド・ジョンソン](../Page/レイモンド・ジョンソン.md "wikilink")が歌う「ジャバジャバモーニング」が使用されていた。ただし毎年3月には、『おはスタ』で卒業の歌として作られた「[サヨナラのかわりに](https://ja.wikipedia.org/wiki/サヨナラのかわりに "wikilink")」をエンディングテーマとして流した。
 
 [Category:ニッポン放送のバラエティ番組](https://ja.wikipedia.org/wiki/Category:ニッポン放送のバラエティ番組 "wikilink") [Category:2001年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2001年のラジオ番組_\(日本\) "wikilink") [Category:おはスタ](https://ja.wikipedia.org/wiki/Category:おはスタ "wikilink") [Category:アニラジ](https://ja.wikipedia.org/wiki/Category:アニラジ "wikilink") [Category:山寺宏一](https://ja.wikipedia.org/wiki/Category:山寺宏一 "wikilink") [Category:ベッキー](https://ja.wikipedia.org/wiki/Category:ベッキー "wikilink")

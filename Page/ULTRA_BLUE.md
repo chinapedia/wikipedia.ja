@@ -1,11 +1,11 @@
 > この記事は[ULTRA BLUE](https://ja.wikipedia.org/wiki/ULTRA_BLUE)から翻訳されています。
 
 
-『**ULTRA BLUE**』（ウルトラ・ブルー）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[6月14日](../Page/6月14日.md "wikilink")に発売された[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")の4th[アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。
+『**ULTRA BLUE**』（ウルトラ・ブルー）は、[2006年](../Page/2006年.md "wikilink")[6月14日](../Page/6月14日.md "wikilink")に発売された[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")の4th[アルバム](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 概要
 
-  - 宇多田ヒカル名義のオリジナルアルバムとしては、3rdアルバム『[DEEP RIVER](../Page/DEEP_RIVER.md "wikilink")』以来約4年振りであり、Utada名義の英語詞のアルバム『[EXODUS](../Page/エキソドス_\(アルバム\).md "wikilink")』以来約2年振りとなる。[オリコン初登場](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位。デビューアルバムから5作連続首位獲得は歴代1位タイ記録である。また、デビューアルバムからの初動50万枚突破記録を更新し、歴代1位となった。発売後、6年ぶりの全国ツアー「UTADA UNITED 2006」を開催。
+  - 宇多田ヒカル名義のオリジナルアルバムとしては、3rdアルバム『[DEEP RIVER](../Page/DEEP_RIVER.md "wikilink")』以来約4年振りであり、Utada名義の英語詞のアルバム『[EXODUS](../Page/エキソドス_\(アルバム\).md "wikilink")』以来約2年振りとなる。[オリコン初登場](../Page/オリコンチャート.md "wikilink")1位。デビューアルバムから5作連続首位獲得は歴代1位タイ記録である。また、デビューアルバムからの初動50万枚突破記録を更新し、歴代1位となった。発売後、6年ぶりの全国ツアー「UTADA UNITED 2006」を開催。
 
 ## 構成とテーマ
 
@@ -13,7 +13,7 @@
   - 今まで彼女自身、自分を隠そう、他人に自分を見せないようにしようという気持ちが強く、作品にも表れていたというが、今回は初めて自分を見せよう、自分の良い部分も悪い部分も全て認め、表現することが出来たと語っている\[2\]。
   - 内省的で私小説のような趣を持つ作品という多くの評価通り、後に本人もアルバム製作時は内面的に病んでいたことを明かしており、結果的に暗めのアルバムになったことを認めているが、同時に今となっては一番好きなアルバムだとも発言しており、1番の出来であるとも語っている\[3\]。
   - [宮沢賢治](../Page/宮沢賢治.md "wikilink")の詩の[擬音](https://ja.wikipedia.org/wiki/擬音 "wikilink")の使い方に感銘を受け、今作ではそれを一部取り入れたという。宮沢賢治については、次作アルバム『[HEART STATION](../Page/HEART_STATION.md "wikilink")』でも「テイク5」で、[銀河鉄道の夜](../Page/銀河鉄道の夜.md "wikilink")を意識した歌詞を書いている。
-  - 前作まで編曲は共作だったが、今回は1曲を除き一人で[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")、[作曲](../Page/作曲.md "wikilink")、[編曲](../Page/編曲.md "wikilink")を手がけている。また[プログラミングも自ら行っている](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")。
+  - 前作まで編曲は共作だったが、今回は1曲を除き一人で[作詞](../Page/作詞.md "wikilink")、[作曲](../Page/作曲.md "wikilink")、[編曲](../Page/編曲.md "wikilink")を手がけている。また[プログラミングも自ら行っている](../Page/ミュージックシーケンサー.md "wikilink")。
   - 全13曲収録。
 
 ## 楽曲の解説
@@ -51,12 +51,12 @@
 <!-- end list -->
 
   - One Night Magic feat.[Yamada Masashi](https://ja.wikipedia.org/wiki/THE_BACK_HORN#山田将司 "wikilink")
-    本楽曲については、フィーチャリング相手のYamada Masashiは[THE BACK HORNのボーカルの山田将司のことで](https://ja.wikipedia.org/wiki/THE_BACK_HORN "wikilink")、この曲ではコーラスなどに参加している。
+    本楽曲については、フィーチャリング相手のYamada Masashiは[THE BACK HORNのボーカルの山田将司のことで](../Page/THE_BACK_HORN.md "wikilink")、この曲ではコーラスなどに参加している。
 
 <!-- end list -->
 
   - 海路
-    17thシングル「[ぼくはくま](https://ja.wikipedia.org/wiki/ぼくはくま "wikilink")」やカバー曲、アルバムにたびたび収録されるInterludeを除くと最も演奏時間の短い曲。その上かなりの時間伴奏のみの部分があるため、歌詞は11行、文字でいうと100文字前後しかない。本人は意識しなかったようだが、[5音音階](https://ja.wikipedia.org/wiki/5音音階 "wikilink")（ペンタトニック）でメロディが構成されており、英語歌詞は全く入っていない。
+    17thシングル「[ぼくはくま](../Page/ぼくはくま.md "wikilink")」やカバー曲、アルバムにたびたび収録されるInterludeを除くと最も演奏時間の短い曲。その上かなりの時間伴奏のみの部分があるため、歌詞は11行、文字でいうと100文字前後しかない。本人は意識しなかったようだが、[5音音階](https://ja.wikipedia.org/wiki/5音音階 "wikilink")（ペンタトニック）でメロディが構成されており、英語歌詞は全く入っていない。
     宇多田いわく本アルバムを表すキーワードのような位置付けの曲であると語っており、「『COLORS』とこの曲は自分自身の哲学を表した歌詞になってて、自分の手で作り上げられた作品は自分の手元から離れると後は、受け取る側の人々次第、って事を言い表したのがこの2曲で、そうすることで独り善がりで、偏りのある作品を作らずに済むって考えてて、最終的に一度他の人の元へ言った作品はもうその人々の物になるから、そうなったら言い訳は聞かないな。って思ってます」と語っている\[7\]。
 
 <!-- end list -->
@@ -86,7 +86,7 @@
 5.  **Making Love**　(4:25)
 6.  **[誰かの願いが叶うころ](../Page/誰かの願いが叶うころ.md "wikilink")**　(4:27)
       -
-        13thシングル。邦画『[CASSHERN](https://ja.wikipedia.org/wiki/CASSHERN "wikilink")』主題歌。
+        13thシングル。邦画『[CASSHERN](../Page/CASSHERN.md "wikilink")』主題歌。
 7.  **[COLORS](../Page/COLORS_\(宇多田ヒカルの曲\).md "wikilink")**　(3:59)
       -
         12thシングル。[トヨタ・ウィッシュ](../Page/トヨタ・ウィッシュ.md "wikilink")のCMソング。

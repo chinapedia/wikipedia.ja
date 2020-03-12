@@ -1,21 +1,21 @@
 > この記事は[SMART ICOCA](https://ja.wikipedia.org/wiki/SMART_ICOCA)から翻訳されています。
 
 
-**SMART ICOCA**（スマート イコカ）は、[西日本旅客鉄道](https://ja.wikipedia.org/wiki/西日本旅客鉄道 "wikilink")（JR西日本）が発行している[サイバネ規格の](https://ja.wikipedia.org/wiki/日本鉄道技術協会 "wikilink")[ICカード](../Page/ICカード.md "wikilink")[乗車券](../Page/乗車券.md "wikilink")「[ICOCA](../Page/ICOCA.md "wikilink")」の一種で、[クレジットカード](../Page/クレジットカード.md "wikilink")と紐付けることでサービスを拡充させた記名式ICカードである。
+**SMART ICOCA**（スマート イコカ）は、[西日本旅客鉄道](../Page/西日本旅客鉄道.md "wikilink")（JR西日本）が発行している[サイバネ規格の](../Page/日本鉄道技術協会.md "wikilink")[ICカード](../Page/ICカード.md "wikilink")[乗車券](../Page/乗車券.md "wikilink")「[ICOCA](../Page/ICOCA.md "wikilink")」の一種で、[クレジットカード](../Page/クレジットカード.md "wikilink")と紐付けることでサービスを拡充させた記名式ICカードである。
 
 ## 概要
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）[2月1日](../Page/2月1日.md "wikilink")から発行された。これ以前より発行されているICOCAが持つ機能に加え、クレジット決済によりキャッシュレスでカードに[チャージ](https://ja.wikipedia.org/wiki/チャージ "wikilink")（入金）ができる「クイックチャージ」サービス（後述）が利用可能な他、JR西日本のポイント制度である「J-WESTポイント」が付与されるなどの差別化が図られている。[VIEW Suicaカード](../Page/VIEW_Suicaカード.md "wikilink")・[JQ SUGOCAなどと異なり](https://ja.wikipedia.org/wiki/SUGOCA#JQ_SUGOCA "wikilink")、ICOCA機能を同梱したクレジットカードではなく、SMART ICOCA にはICOCA（プリペイド型[電子マネー](../Page/電子マネー.md "wikilink")）として以外の決済手段を持たない。子供用のSMART ICOCAはなく、種類は1種類のみである。
+[2006年](../Page/2006年.md "wikilink")（平成18年）[2月1日](../Page/2月1日.md "wikilink")から発行された。これ以前より発行されているICOCAが持つ機能に加え、クレジット決済によりキャッシュレスでカードに[チャージ](https://ja.wikipedia.org/wiki/チャージ "wikilink")（入金）ができる「クイックチャージ」サービス（後述）が利用可能な他、JR西日本のポイント制度である「J-WESTポイント」が付与されるなどの差別化が図られている。[VIEW Suicaカード](../Page/VIEW_Suicaカード.md "wikilink")・[JQ SUGOCAなどと異なり](https://ja.wikipedia.org/wiki/SUGOCA#JQ_SUGOCA "wikilink")、ICOCA機能を同梱したクレジットカードではなく、SMART ICOCA にはICOCA（プリペイド型[電子マネー](../Page/電子マネー.md "wikilink")）として以外の決済手段を持たない。子供用のSMART ICOCAはなく、種類は1種類のみである。
 
-当初、SMART ICOCAの利用はJR西日本の[ハウスカード](https://ja.wikipedia.org/wiki/ハウスカード "wikilink")である[J-WESTカード](../Page/J-WESTカード.md "wikilink")の会員に限られ、決済用クレジットカードもJ-WESTカードのみであったが、2008年7月1日からはJ-WESTカード以外の多くのクレジットカードに対応するようになり、使用者がJ-WESTカード会員である必要はなくなった。
+当初、SMART ICOCAの利用はJR西日本の[ハウスカード](../Page/ハウスカード.md "wikilink")である[J-WESTカード](../Page/J-WESTカード.md "wikilink")の会員に限られ、決済用クレジットカードもJ-WESTカードのみであったが、2008年7月1日からはJ-WESTカード以外の多くのクレジットカードに対応するようになり、使用者がJ-WESTカード会員である必要はなくなった。
 
-カードの図柄は通常のICOCAとは異なり、「[カモノハシのイコちゃん](https://ja.wikipedia.org/wiki/カモノハシのイコちゃん "wikilink")」が大きくデザインされている。
+カードの図柄は通常のICOCAとは異なり、「[カモノハシのイコちゃん](../Page/カモノハシのイコちゃん.md "wikilink")」が大きくデザインされている。
 
 2007年秋のキャッチフレーズは「**バトンタッチしてICOCA（いこか）**」（ICOCA定期券からSMART ICOCA定期券への切り替え促進）。
 
 ## 購入方法
 
-購入には対応するクレジットカード（J-WESTカード、[JCBカード](../Page/ジェーシービー.md "wikilink")、[VISAカード](../Page/Visa.md "wikilink")、[MasterCard](../Page/マスターカード.md "wikilink")、[ダイナースクラブ](../Page/ダイナースクラブ.md "wikilink")、[アメリカン・エキスプレス](../Page/アメリカン・エキスプレス.md "wikilink")、[UFJカード](https://ja.wikipedia.org/wiki/UFJカード "wikilink")（2012年7月16日以降順次MUFGカードに統合）[MUFGカード](../Page/MUFGカード.md "wikilink")、[UCカード](https://ja.wikipedia.org/wiki/UCカード "wikilink")、[DCカード](../Page/DCカード.md "wikilink")。[デビットカード](../Page/デビットカード.md "wikilink")不可）\[1\]の所持が必要となる\[2\]。[みどりの窓口](../Page/みどりの窓口.md "wikilink")等では販売しておらず、以下のいずれかの方法で購入を申し込むことになる。いずれの場合も、申し込み時に2,000円（チャージ1,500円+[デポジット](../Page/デポジット.md "wikilink")（預り金）500円）がクレジットカードにより決済される。同一人が2枚以上のSMART ICOCAを持つことはできない。
+購入には対応するクレジットカード（J-WESTカード、[JCBカード](../Page/ジェーシービー.md "wikilink")、[VISAカード](../Page/Visa.md "wikilink")、[MasterCard](../Page/マスターカード.md "wikilink")、[ダイナースクラブ](../Page/ダイナースクラブ.md "wikilink")、[アメリカン・エキスプレス](../Page/アメリカン・エキスプレス.md "wikilink")、[UFJカード](../Page/UFJカード.md "wikilink")（2012年7月16日以降順次MUFGカードに統合）[MUFGカード](../Page/MUFGカード.md "wikilink")、[UCカード](../Page/UCカード.md "wikilink")、[DCカード](../Page/DCカード.md "wikilink")。[デビットカード](../Page/デビットカード.md "wikilink")不可）\[1\]の所持が必要となる\[2\]。[みどりの窓口](../Page/みどりの窓口.md "wikilink")等では販売しておらず、以下のいずれかの方法で購入を申し込むことになる。いずれの場合も、申し込み時に2,000円（チャージ1,500円+[デポジット](../Page/デポジット.md "wikilink")（預り金）500円）がクレジットカードにより決済される。同一人が2枚以上のSMART ICOCAを持つことはできない。
 
   - 郵送申し込み
     JR西日本のICOCAエリアの主な駅に備え付けの「SMART ICOCA入会申込書」、もしくはJR西日本のインターネットサービス「JRおでかけネット」で請求（請求時に「J-WESTネット」への会員登録が必要\[3\]）した「SMART ICOCA入会申込書」に必要事項を記入し、郵送で申し込む。
@@ -29,7 +29,7 @@
 
 なお、定期券を追加購入した場合に“SMART ICOCA定期券”という名称で扱われるが、手持ちのSMART ICOCAの表面に購入した定期の内容が設定されるだけであり、異なった種類のカードに交換されるわけではない。
 
-また、2011年6月1日より[京阪電気鉄道](https://ja.wikipedia.org/wiki/京阪電気鉄道 "wikilink")（京阪）において、また2012年12月1日より[近畿日本鉄道](../Page/近畿日本鉄道.md "wikilink")（近鉄）においてICOCAとICOCA定期券の発売を開始したが、京阪と近鉄ではSMART ICOCA定期券の発売は行っていない。2016年2月下旬からICOCA定期券を発売した[あいの風とやま鉄道](https://ja.wikipedia.org/wiki/あいの風とやま鉄道 "wikilink")でもSMART ICOCA定期券の発売は行っていない。
+また、2011年6月1日より[京阪電気鉄道](../Page/京阪電気鉄道.md "wikilink")（京阪）において、また2012年12月1日より[近畿日本鉄道](../Page/近畿日本鉄道.md "wikilink")（近鉄）においてICOCAとICOCA定期券の発売を開始したが、京阪と近鉄ではSMART ICOCA定期券の発売は行っていない。2016年2月下旬からICOCA定期券を発売した[あいの風とやま鉄道](https://ja.wikipedia.org/wiki/あいの風とやま鉄道 "wikilink")でもSMART ICOCA定期券の発売は行っていない。
 
 2018年3月31日までは、SMART ICOCAを新規購入すると「ICOCA残額払いもどし券」が交付されるサービスがあった（既に交付されているものは利用可能）\[5\]。通常のICOCAに新規購入したSMART ICOCAと払いもどし券を添えて窓口に申し出ると、1枚に限り手数料無料で払い戻すことができる（定期券の払い戻しが伴う場合を除く）。
 
@@ -46,8 +46,8 @@ SMART ICOCAは「現金」のほか、クレジット決済による「クイッ
     タッチパネル式の自動券売機で現金チャージを行う場合は、カードを挿入して表示される画面で「現金チャージ」を選択する。
   - クイックチャージ
     [サムネイル](https://ja.wikipedia.org/wiki/ファイル:Smart_Icoca_Charge_Machine.jpg "wikilink")
-    JR西日本の各駅にあるICOCA対応の[自動券売機](../Page/自動券売機.md "wikilink")、[のりこし精算機ならびに専用チャージ機での操作により](https://ja.wikipedia.org/wiki/自動精算機 "wikilink")、3,000円・5,000円・10,000円（3種類）の単位でクレジットカード決済によりチャージが行われる（京阪神地区の古い機種では一部クイックチャージに対応していない機種がある）。紐付けされたクレジットカードを用意する必要は無く、暗証番号等の入力も不要。JR四国・あいの風とやま鉄道でもクイックチャージできるが、両社では自動券売機でのチャージができないため、専用チャージ機のみでの取り扱いとなる。
-    一部のカード発行会社（[三井住友カード](../Page/三井住友カード.md "wikilink")\[6\]、JCB\[7\]、[三菱UFJニコス](https://ja.wikipedia.org/wiki/三菱UFJニコス "wikilink")\[8\]など）は、クイックチャージ分によるクレジットカードの利用ポイント加算を取り止めている。
+    JR西日本の各駅にあるICOCA対応の[自動券売機](../Page/自動券売機.md "wikilink")、[のりこし精算機ならびに専用チャージ機での操作により](../Page/自動精算機.md "wikilink")、3,000円・5,000円・10,000円（3種類）の単位でクレジットカード決済によりチャージが行われる（京阪神地区の古い機種では一部クイックチャージに対応していない機種がある）。紐付けされたクレジットカードを用意する必要は無く、暗証番号等の入力も不要。JR四国・あいの風とやま鉄道でもクイックチャージできるが、両社では自動券売機でのチャージができないため、専用チャージ機のみでの取り扱いとなる。
+    一部のカード発行会社（[三井住友カード](../Page/三井住友カード.md "wikilink")\[6\]、JCB\[7\]、[三菱UFJニコス](../Page/三菱UFJニコス.md "wikilink")\[8\]など）は、クイックチャージ分によるクレジットカードの利用ポイント加算を取り止めている。
     なお、VIEW SuicaカードやSUGOCAで行っている[オートチャージ](https://ja.wikipedia.org/wiki/オートチャージ "wikilink")（自動改札機にタッチした際に残額が一定以下の場合に自動的にチャージする）サービスはSMART ICOCAでは実施されておらず、必ず端末でのチャージ操作が必要になる。また、コンビニエンスストア店頭等でのクイックチャージには対応していない（現金チャージのみ対応）。
   - ポイントチャージ
     上述のクイックチャージ操作の際、SMART ICOCAに貯まったJ-WESTポイント（後述）をチャージに交換できる。「1ポイント=1円」換算で、3,000円・5,000円単位でのチャージが可能。
@@ -75,7 +75,7 @@ SMART ICOCAは「現金」のほか、クレジット決済による「クイッ
 ## 歴史
 
   - 2006年2月1日 発行開始
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月18日](../Page/3月18日.md "wikilink") [イオンクレジットサービス](https://ja.wikipedia.org/wiki/イオンクレジットサービス "wikilink")発行の[イオンカード](https://ja.wikipedia.org/wiki/イオンカード "wikilink")会員に対応
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月18日](../Page/3月18日.md "wikilink") [イオンクレジットサービス](../Page/イオンクレジットサービス.md "wikilink")発行の[イオンカード](https://ja.wikipedia.org/wiki/イオンカード "wikilink")会員に対応
   - 2008年7月1日 J-WESTカード以外の9種類のクレジットカードに対応開始。
 
 ## 脚注

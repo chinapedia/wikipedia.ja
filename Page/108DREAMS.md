@@ -5,9 +5,9 @@
 
 ## 解説
 
-前作『[ブッコロリー](https://ja.wikipedia.org/wiki/ブッコロリー "wikilink")』より約3年ぶりのリリース。LP版も完全限定生産でリリースされた。ジャケットは[groovisions](https://ja.wikipedia.org/wiki/groovisions "wikilink")によるもの。
+前作『[ブッコロリー](../Page/ブッコロリー.md "wikilink")』より約3年ぶりのリリース。LP版も完全限定生産でリリースされた。ジャケットは[groovisions](https://ja.wikipedia.org/wiki/groovisions "wikilink")によるもの。
 
-アルバムタイトルは3曲目、「フランクフルト」の歌詞中の一節にちなんだもの\[2\]。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月9日](../Page/12月9日.md "wikilink")ツアー「キミトベ2005」渋谷クアトロのツアーファイナルにて発表された。
+アルバムタイトルは3曲目、「フランクフルト」の歌詞中の一節にちなんだもの\[2\]。[2005年](../Page/2005年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink")ツアー「キミトベ2005」渋谷クアトロのツアーファイナルにて発表された。
 
 初回生産版は特別ジャケット、特別レーベルおよびシングル「悲しみのシミかな」との連動購入者特典応募用紙が封入。予約特典は蜂携帯クリーナーで、タワーレコード先着特典は携帯ストラップ。収録は伊豆で合宿形式で行われた。
 
@@ -56,7 +56,7 @@
       -
         アルバム曲のうち、唯一のキャプテンストライダムのみによる楽曲。稲作が開始された[弥生時代](https://ja.wikipedia.org/wiki/弥生時代 "wikilink")の農民をテーマとした[レッド・ツェッペリン](../Page/レッド・ツェッペリン.md "wikilink")風の[ハードロック](../Page/ハードロック.md "wikilink")チューン\[5\]。
         後に曲名をスペースシャワーTVの特別番組に流用。
-        ベストアルバム『ベストロリー』には[渋谷公会堂](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")でのライブ音源\[6\]が収録されている。
+        ベストアルバム『ベストロリー』には[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")でのライブ音源\[6\]が収録されている。
 9.  **メトロのメロス** (4:02)
     作詞:久保田洋司/編曲:大平太一
       -
@@ -75,7 +75,7 @@
 
 ## 108 FILMS
 
-[キャプテンストライダム](https://ja.wikipedia.org/wiki/キャプテンストライダム "wikilink")初の映像作品。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月24日](../Page/3月24日.md "wikilink")発売。
+[キャプテンストライダム](https://ja.wikipedia.org/wiki/キャプテンストライダム "wikilink")初の映像作品。[2006年](../Page/2006年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")発売。
 
 『108DREAMS』に収録されているシングル4曲と「サイボーグ」のミュージック・ビデオを収録。キャプテンストライダムの楽曲のミュージック・ビデオが公式的に発表されているのはこの作品と3rdアルバム『[BAN BAN BAN](../Page/BAN_BAN_BAN_\(アルバム\).md "wikilink")』初回限定盤、シングル「[ブギーナイト・フィーバー](https://ja.wikipedia.org/wiki/ブギーナイト・フィーバー "wikilink")」初回盤のみ。
 
@@ -105,7 +105,7 @@
 ## 108DREAMS+1
 
   - キャプテンストライダム初のバンドスコア集。2006年6月15日発売。
-  - [シンコーミュージック・エンタテイメント](https://ja.wikipedia.org/wiki/シンコーミュージック・エンタテイメント "wikilink")より発行。定価3360円。B5版。ISBN4401352998
+  - [シンコーミュージック・エンタテイメント](../Page/シンコーミュージック・エンタテイメント.md "wikilink")より発行。定価3360円。B5版。ISBN4401352998
   - 108DREAMSの11曲と「[風船ガム](https://ja.wikipedia.org/wiki/風船ガム_\(曲\) "wikilink")」が収録。
 
 ## ライブ映像作品

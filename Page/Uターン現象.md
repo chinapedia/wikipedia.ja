@@ -1,7 +1,7 @@
 > この記事は[U](https://ja.wikipedia.org/wiki/U)から翻訳されています。
 
 
-**Uターン現象**（ユーターンげんしょう）とは、[人口](../Page/人口.md "wikilink")還流現象のひとつで、[地方](https://ja.wikipedia.org/wiki/地方 "wikilink")から[都市](../Page/都市.md "wikilink")部へ移住した者が再び地方の生まれ故郷に戻る現象。人の流れを[地図](../Page/地図.md "wikilink")上に見立てて[アルファベット](https://ja.wikipedia.org/wiki/アルファベット "wikilink")の[U](../Page/U.md "wikilink")の字を描くような移動のためにこう呼ばれる。
+**Uターン現象**（ユーターンげんしょう）とは、[人口](../Page/人口.md "wikilink")還流現象のひとつで、[地方](../Page/地方.md "wikilink")から[都市](../Page/都市.md "wikilink")部へ移住した者が再び地方の生まれ故郷に戻る現象。人の流れを[地図](../Page/地図.md "wikilink")上に見立てて[アルファベット](https://ja.wikipedia.org/wiki/アルファベット "wikilink")の[U](../Page/U.md "wikilink")の字を描くような移動のためにこう呼ばれる。
 
 ## 概説
 
@@ -17,12 +17,12 @@
 4.  地域の濃厚な人間関係を基に、縁故が利く世界であった。
 5.  町村議会議員・区長会長経験者等の地域の有力者が仲介、[口利き等の役割を果たす](../Page/汚職.md "wikilink")。
 
-これらは、Uターン者にとっても一般の民間企業に比べて極めて恵まれた働き口と言えた。ところが、これらの団体は合併により、出先機関の整理統合・規模機能の縮小を進めており、新規採用どころではなくなっている。仮に、新規採用があっても、職場は遠く離れた都市部ということも珍しくない。今後、田舎において、雇用の拡大が見込めるのは[病院](../Page/病院.md "wikilink")や[高齢者福祉介護施設くらいであろうといわれている](https://ja.wikipedia.org/wiki/老人福祉施設 "wikilink")。[郵便局](../Page/郵便局.md "wikilink")も田舎では安定した職場であったが、[合理化により田舎での就職は今後ますます難しくなってくることが予想される](https://ja.wikipedia.org/wiki/郵政民営化 "wikilink")。口利きも行きすぎると、[汚職](../Page/汚職.md "wikilink")などの[刑事事件](https://ja.wikipedia.org/wiki/刑事事件 "wikilink")に発展しかねない。
+これらは、Uターン者にとっても一般の民間企業に比べて極めて恵まれた働き口と言えた。ところが、これらの団体は合併により、出先機関の整理統合・規模機能の縮小を進めており、新規採用どころではなくなっている。仮に、新規採用があっても、職場は遠く離れた都市部ということも珍しくない。今後、田舎において、雇用の拡大が見込めるのは[病院](../Page/病院.md "wikilink")や[高齢者福祉介護施設くらいであろうといわれている](../Page/老人福祉施設.md "wikilink")。[郵便局](../Page/郵便局.md "wikilink")も田舎では安定した職場であったが、[合理化により田舎での就職は今後ますます難しくなってくることが予想される](https://ja.wikipedia.org/wiki/郵政民営化 "wikilink")。口利きも行きすぎると、[汚職](../Page/汚職.md "wikilink")などの[刑事事件](https://ja.wikipedia.org/wiki/刑事事件 "wikilink")に発展しかねない。
 
 ## 関連項目
 
   - [Jターン現象](https://ja.wikipedia.org/wiki/Jターン現象 "wikilink")
-  - [Iターン現象](https://ja.wikipedia.org/wiki/Iターン現象 "wikilink")
+  - [Iターン現象](../Page/Iターン現象.md "wikilink")
   - [UJIターン現象](https://ja.wikipedia.org/wiki/UJIターン現象 "wikilink")
 
 

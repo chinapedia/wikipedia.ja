@@ -15,7 +15,7 @@
       - 2001年9月11日の「同時多発テロ」を受けて作った曲。
       - ミュージックビデオが「acoustic version」も含め2種類存在していて、過去にネット配信にて閲覧する事もできたが、いずれも商品化されていない。後に、[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")にて\[acoustic version｣ではないバージョンが配信された。
       - 同年開催された全国ツアー「2002:monkey girl odyssey arena-mix」では発売に先駆けて披露されていた。その際、英語詞の訳詞をメンバーの[中村正人](https://ja.wikipedia.org/wiki/中村正人 "wikilink")が読み上げてから演奏されるという演出であった。
-      - 本人達も出演した[爽健美茶](https://ja.wikipedia.org/wiki/爽健美茶 "wikilink")＋DREAMS COME TRUEコラボレーションソング。後にベストアルバム『[LOVE OVERFLOWS -ASIAN EDITION-](../Page/LOVE_OVERFLOWS_-ASIAN_EDITION-.md "wikilink")』に収録。
+      - 本人達も出演した[爽健美茶](../Page/爽健美茶.md "wikilink")＋DREAMS COME TRUEコラボレーションソング。後にベストアルバム『[LOVE OVERFLOWS -ASIAN EDITION-](../Page/LOVE_OVERFLOWS_-ASIAN_EDITION-.md "wikilink")』に収録。
 2.  **SAY IT**
 3.  **IT'S ALL ABOUT LOVE -acoustic version-**
 4.  **SAY IT -acoustic version-**

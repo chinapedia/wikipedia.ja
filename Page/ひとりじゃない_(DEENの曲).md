@@ -1,7 +1,7 @@
 > この記事は[ \(DEEN\)](https://ja.wikipedia.org/wiki/_\(DEEN\))から翻訳されています。
 
 
-「**ひとりじゃない**」は、[DEEN](https://ja.wikipedia.org/wiki/DEEN "wikilink")の9th[シングル](../Page/シングル.md "wikilink")。
+「**ひとりじゃない**」は、[DEEN](../Page/DEEN.md "wikilink")の9th[シングル](../Page/シングル.md "wikilink")。
 
 ## 概要
 
@@ -30,10 +30,10 @@
 
 <!-- end list -->
 
-  - 『[I wish](https://ja.wikipedia.org/wiki/I_wish_\(DEENのアルバム\) "wikilink")』
-  - 『[SINGLES+1](https://ja.wikipedia.org/wiki/SINGLES+1 "wikilink")』
+  - 『[I wish](../Page/I_wish_\(DEENのアルバム\).md "wikilink")』
+  - 『[SINGLES+1](../Page/SINGLES+1.md "wikilink")』
   - 『[DEEN PERFECT SINGLES +](https://ja.wikipedia.org/wiki/DEEN_PERFECT_SINGLES_+ "wikilink")』
-  - 『[DEEN The Best キセキ](https://ja.wikipedia.org/wiki/DEEN_The_Best_キセキ "wikilink")』※アレンジ、新録音して収録
+  - 『[DEEN The Best キセキ](../Page/DEEN_The_Best_キセキ.md "wikilink")』※アレンジ、新録音して収録
   - 『[マリアージュ](https://ja.wikipedia.org/wiki/マリアージュ_\(DEENのアルバム\) "wikilink")』※アレンジ、新録音して収録
   - 『[DEENAGE MEMORY -20周年記念ベストアルバム-](https://ja.wikipedia.org/wiki/DEENAGE_MEMORY_-20周年記念ベストアルバム- "wikilink")』
   - 『[DEEN The Best FOREVER 〜Complete Singles +〜](https://ja.wikipedia.org/wiki/DEEN_The_Best_FOREVER_〜Complete_Singles_+〜 "wikilink")』
@@ -44,9 +44,9 @@
 
 <!-- end list -->
 
-  - 『[DEEN The Best キセキ](https://ja.wikipedia.org/wiki/DEEN_The_Best_キセキ "wikilink")』※アレンジ、新録音して収録
+  - 『[DEEN The Best キセキ](../Page/DEEN_The_Best_キセキ.md "wikilink")』※アレンジ、新録音して収録
   - 『[Another Side Memories〜Precious Best〜](https://ja.wikipedia.org/wiki/Another_Side_Memories〜Precious_Best〜 "wikilink")』
-  - 『[Ballads in Blue〜The greatest hits of DEEN〜](https://ja.wikipedia.org/wiki/Ballads_in_Blue〜The_greatest_hits_of_DEEN〜 "wikilink")』
+  - 『[Ballads in Blue〜The greatest hits of DEEN〜](../Page/Ballads_in_Blue〜The_greatest_hits_of_DEEN〜.md "wikilink")』
 
 ## 参加ミュージシャン
 
@@ -56,17 +56,17 @@
 
 <!-- end list -->
 
-  - [池森秀一](https://ja.wikipedia.org/wiki/池森秀一 "wikilink"): ボーカル
-  - [山根公路](https://ja.wikipedia.org/wiki/山根公路 "wikilink"): キーボード
+  - [池森秀一](../Page/池森秀一.md "wikilink"): ボーカル
+  - [山根公路](../Page/山根公路.md "wikilink"): キーボード
   - [宇津本直紀](../Page/宇津本直紀.md "wikilink"): ドラム
-  - [田川伸治](https://ja.wikipedia.org/wiki/田川伸治 "wikilink"): ギター
+  - [田川伸治](../Page/田川伸治.md "wikilink"): ギター
 
 ## 脚注
 
 <table>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビアニメ" title="wikilink">テレビアニメ</a>『<a href="https://ja.wikipedia.org/wiki/ドラゴンボールGT" title="wikilink">ドラゴンボールGT</a>』<a href="https://ja.wikipedia.org/wiki/主題歌" title="wikilink">エンディングテーマ</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/テレビアニメ" title="wikilink">テレビアニメ</a>『<a href="https://ja.wikipedia.org/wiki/ドラゴンボールGT" title="wikilink">ドラゴンボールGT</a>』<a href="../Page/主題歌.md" title="wikilink">エンディングテーマ</a><br />
 <a href="../Page/1996年.md" title="wikilink">1996年</a><a href="../Page/2月7日.md" title="wikilink">2月7日</a> - <a href="../Page/10月30日.md" title="wikilink">10月30日</a></p></td>
 </tr>
 <tr class="even">

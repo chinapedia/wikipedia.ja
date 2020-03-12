@@ -1,11 +1,11 @@
 > この記事は[PRIMEQUEST](https://ja.wikipedia.org/wiki/PRIMEQUEST)から翻訳されています。
 
 
-**FUJITSU Server PRIMEQUEST**（プライムクエスト）は、[富士通](../Page/富士通.md "wikilink")が発売している基幹[IAサーバである](https://ja.wikipedia.org/wiki/PCサーバ#IAサーバ "wikilink")。 [CPU](../Page/CPU.md "wikilink")は[Intel Xeon](../Page/Xeon.md "wikilink")（初期は[Itanium](https://ja.wikipedia.org/wiki/Itanium "wikilink")）。対応OSは[Linux](../Page/Linux.md "wikilink")と[Microsoft Windows Server](https://ja.wikipedia.org/wiki/Microsoft_Windows_Server "wikilink")。
+**FUJITSU Server PRIMEQUEST**（プライムクエスト）は、[富士通](../Page/富士通.md "wikilink")が発売している基幹[IAサーバである](https://ja.wikipedia.org/wiki/PCサーバ#IAサーバ "wikilink")。 [CPU](../Page/CPU.md "wikilink")は[Intel Xeon](../Page/Xeon.md "wikilink")（初期は[Itanium](../Page/Itanium.md "wikilink")）。対応OSは[Linux](../Page/Linux.md "wikilink")と[Microsoft Windows Server](https://ja.wikipedia.org/wiki/Microsoft_Windows_Server "wikilink")。
 
 ## 歴史
 
-  - 2005年4月6日 - PRIMEQUEST400シリーズ発売開始。400シリーズと500シリーズは [Itanium](https://ja.wikipedia.org/wiki/Itanium "wikilink") 搭載。
+  - 2005年4月6日 - PRIMEQUEST400シリーズ発売開始。400シリーズと500シリーズは [Itanium](../Page/Itanium.md "wikilink") 搭載。
   - 2006年7月19日 - PRIMEQUEST500シリーズ発売開始。
   - 2008年4月17日 - PRIMEQUEST500Aシリーズ発売開始。
   - 2008年4月 - PRIMEQUEST520Xモデルグループ発売開始\[1\]。
@@ -15,7 +15,7 @@
 
 ## 特徴
 
-  - [Linux](../Page/Linux.md "wikilink")（[Red Hat Enterprise Linux](https://ja.wikipedia.org/wiki/Red_Hat_Enterprise_Linux "wikilink")、SUSE Linux Enterprise Server）と[Microsoft Windows Serverをサポート](https://ja.wikipedia.org/wiki/Microsoft_Windows_Server "wikilink")。
+  - [Linux](../Page/Linux.md "wikilink")（[Red Hat Enterprise Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink")、SUSE Linux Enterprise Server）と[Microsoft Windows Serverをサポート](https://ja.wikipedia.org/wiki/Microsoft_Windows_Server "wikilink")。
       - PRIMEQUEST1000シリーズまではエミュレーションにより富士通の中規模メインフレーム向けオペレーティングシステムである[OSIV/XSP動作機構](../Page/メインフレーム.md "wikilink")、[ASP動作機構をサポートしていた](../Page/PRIMERGY_6000.md "wikilink")。
   - あらゆる部品を二重化し、メインフレームクラスの高信頼性を実現している。Itanium の時代は[チップセット](../Page/チップセット.md "wikilink")等を独自に作っていた\[3\]。
       - 主要部品（[チップセット](../Page/チップセット.md "wikilink")、メモリ、[クロスバーなど](https://ja.wikipedia.org/wiki/クロスバースイッチ "wikilink")）の二重化・同期動作。
@@ -24,14 +24,14 @@
 
 ## 採用事例
 
-  - 2006年7月、[自然科学研究機構](https://ja.wikipedia.org/wiki/自然科学研究機構 "wikilink")計算科学研究センターの超高速分子シミュレータとして10ノード・計640コアのシステムが稼働を開始した\[4\]。
+  - 2006年7月、[自然科学研究機構](../Page/自然科学研究機構.md "wikilink")計算科学研究センターの超高速分子シミュレータとして10ノード・計640コアのシステムが稼働を開始した\[4\]。
   - 2010年1月、[東京証券取引所](../Page/東京証券取引所.md "wikilink")の売買システム[arrowhead](https://ja.wikipedia.org/wiki/arrowhead "wikilink")に採用された\[5\]。
 
 ## 出典
 
 ## 関連項目
 
-  - [PCサーバ](https://ja.wikipedia.org/wiki/PCサーバ "wikilink")
+  - [PCサーバ](../Page/PCサーバ.md "wikilink")
 
 ## 外部リンク
 

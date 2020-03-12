@@ -1,7 +1,7 @@
 > この記事は[SUNSHINE ON SUMMER TIME](https://ja.wikipedia.org/wiki/SUNSHINE_ON_SUMMER_TIME)から翻訳されています。
 
 
-**SUNSHINE ON SUMMER TIME**（サンシャイン・オン・サマー・タイム）は、[DEEN](https://ja.wikipedia.org/wiki/DEEN "wikilink")の10th[シングル](../Page/シングル.md "wikilink")。
+**SUNSHINE ON SUMMER TIME**（サンシャイン・オン・サマー・タイム）は、[DEEN](../Page/DEEN.md "wikilink")の10th[シングル](../Page/シングル.md "wikilink")。
 
 ## 概要
 
@@ -16,7 +16,7 @@
 1.  **SUNSHINE ON SUMMER TIME**
       -
         [キリンビール](https://ja.wikipedia.org/wiki/キリンビール "wikilink")『アイスビール』CMソング
-        [KBS京都制作](../Page/京都放送.md "wikilink")・[UHF](https://ja.wikipedia.org/wiki/全国独立UHF放送協議会 "wikilink")34局ネット[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")『[J-ROCK ARTIST COUNT DOWN 50](https://ja.wikipedia.org/wiki/J-ROCK_ARTIST_COUNT_DOWN_50 "wikilink")』オープニングテーマ
+        [KBS京都制作](../Page/京都放送.md "wikilink")・[UHF](https://ja.wikipedia.org/wiki/全国独立UHF放送協議会 "wikilink")34局ネット[音楽番組](../Page/音楽番組.md "wikilink")『[J-ROCK ARTIST COUNT DOWN 50](../Page/J-ROCK_ARTIST_COUNT_DOWN_50.md "wikilink")』オープニングテーマ
 
 <!-- end list -->
 
@@ -30,8 +30,8 @@
 
 <!-- end list -->
 
-  - 『[I wish](https://ja.wikipedia.org/wiki/I_wish_\(DEENのアルバム\) "wikilink")』
-  - 『[SINGLES+1](https://ja.wikipedia.org/wiki/SINGLES+1 "wikilink")』
+  - 『[I wish](../Page/I_wish_\(DEENのアルバム\).md "wikilink")』
+  - 『[SINGLES+1](../Page/SINGLES+1.md "wikilink")』
   - 『[DEEN PERFECT SINGLES +](https://ja.wikipedia.org/wiki/DEEN_PERFECT_SINGLES_+ "wikilink")』
   - 『[DEENAGE MEMORY -20周年記念ベストアルバム-](https://ja.wikipedia.org/wiki/DEENAGE_MEMORY_-20周年記念ベストアルバム- "wikilink")』
   - 『[DEEN The Best FOREVER 〜Complete Singles +〜](https://ja.wikipedia.org/wiki/DEEN_The_Best_FOREVER_〜Complete_Singles_+〜 "wikilink")』
@@ -47,11 +47,11 @@
 ## 参加ミュージシャン
 
 1.  作曲:[宇津本直紀](../Page/宇津本直紀.md "wikilink")
-2.  作曲:[山根公路](https://ja.wikipedia.org/wiki/山根公路 "wikilink")
+2.  作曲:[山根公路](../Page/山根公路.md "wikilink")
 
 <!-- end list -->
 
-  - 作詞:[池森秀一](https://ja.wikipedia.org/wiki/池森秀一 "wikilink")
+  - 作詞:[池森秀一](../Page/池森秀一.md "wikilink")
   - 編曲:[古井弘人](https://ja.wikipedia.org/wiki/古井弘人 "wikilink")
 
 <!-- end list -->

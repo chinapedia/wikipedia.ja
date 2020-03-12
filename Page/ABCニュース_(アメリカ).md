@@ -1,15 +1,15 @@
 > この記事は[ABC \(\)](https://ja.wikipedia.org/wiki/ABC_\(\))から翻訳されています。
 
 
-**ABCニュース** (**ABC News**) は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[アメリカン・ブロードキャスティング・カンパニー](https://ja.wikipedia.org/wiki/アメリカン・ブロードキャスティング・カンパニー "wikilink")（[ウォルト・ディズニー・カンパニー](https://ja.wikipedia.org/wiki/ウォルト・ディズニー・カンパニー "wikilink")）とその所有者である[ウォルト・ディズニー・テレビジョン](https://ja.wikipedia.org/wiki/ウォルト・ディズニー・テレビジョン "wikilink")の[ニュース番組](https://ja.wikipedia.org/wiki/ニュース番組 "wikilink")制作子会社。
+**ABCニュース** (**ABC News**) は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[アメリカン・ブロードキャスティング・カンパニー](../Page/アメリカン・ブロードキャスティング・カンパニー.md "wikilink")（[ウォルト・ディズニー・カンパニー](../Page/ウォルト・ディズニー・カンパニー.md "wikilink")）とその所有者である[ウォルト・ディズニー・テレビジョン](https://ja.wikipedia.org/wiki/ウォルト・ディズニー・テレビジョン "wikilink")の[ニュース番組](https://ja.wikipedia.org/wiki/ニュース番組 "wikilink")制作子会社。
 
 日本においては[NHKと](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[フジテレビとそれぞれ提携関係にあたり](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、また[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[BBCとも提携関係にある](../Page/英国放送協会.md "wikilink")。
 
 ## 制作番組
 
-  - [グッド・モーニング・アメリカ](https://ja.wikipedia.org/wiki/グッド・モーニング・アメリカ "wikilink")
+  - [グッド・モーニング・アメリカ](../Page/グッド・モーニング・アメリカ.md "wikilink")
 
-  - [ABCワールドニュース](https://ja.wikipedia.org/wiki/ABCワールドニュース "wikilink")トゥナイト
+  - [ABCワールドニュース](../Page/ABCワールドニュース.md "wikilink")トゥナイト
 
   - [ナイトライン](../Page/ナイトライン.md "wikilink")
 
@@ -30,7 +30,7 @@
 
 <!-- end list -->
 
-  - [ピーター・ジェニングス](https://ja.wikipedia.org/wiki/ピーター・ジェニングス "wikilink")
+  - [ピーター・ジェニングス](../Page/ピーター・ジェニングス.md "wikilink")
   - [チャールズ・ギブソン](../Page/チャールズ・ギブソン.md "wikilink")
   - バーバラ・ウォルターズ
 
@@ -42,12 +42,12 @@
 
 ## 関連項目
 
-  - [CBSニュース](https://ja.wikipedia.org/wiki/CBSニュース "wikilink")
+  - [CBSニュース](../Page/CBSニュース.md "wikilink")
   - [NBCニュース](https://ja.wikipedia.org/wiki/NBCニュース "wikilink")
   - [CNN](https://ja.wikipedia.org/wiki/CNN "wikilink")
-  - [FOXニュース](https://ja.wikipedia.org/wiki/FOXニュース "wikilink")
-  - [NHK BS1](https://ja.wikipedia.org/wiki/NHK_BS1 "wikilink")
-  - [ABCニュースシャワー](https://ja.wikipedia.org/wiki/ABCニュースシャワー "wikilink")
+  - [FOXニュース](../Page/FOXニュース.md "wikilink")
+  - [NHK BS1](../Page/NHK_BS1.md "wikilink")
+  - [ABCニュースシャワー](../Page/ABCニュースシャワー.md "wikilink")
 
 ## 脚注
 

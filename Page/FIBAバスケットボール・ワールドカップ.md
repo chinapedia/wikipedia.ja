@@ -1,7 +1,7 @@
 > この記事は[FIBA](https://ja.wikipedia.org/wiki/FIBA)から翻訳されています。
 
 
-**FIBAバスケットボール・ワールドカップ**（**FIBA Basketball World Cup**）\[1\]は、4年に一度、[夏季オリンピック](../Page/夏季オリンピック.md "wikilink")の中間年に開催されるFIBA（[国際バスケットボール連盟](https://ja.wikipedia.org/wiki/国際バスケットボール連盟 "wikilink")）主催の男子の公式戦の一つ。**2010年大会まではバスケットボール世界選手権（FIBA World Championship）という名前だった。**2014年大会から現在のようなワールドカップという名称に変わった。※名前が変わっただけで大会の内容自体は今まで通りの世界バスケと同じである。なお、優勝国には[ネイスミス・トロフィー](https://ja.wikipedia.org/wiki/ネイスミス・トロフィー "wikilink")が贈られる。
+**FIBAバスケットボール・ワールドカップ**（**FIBA Basketball World Cup**）\[1\]は、4年に一度、[夏季オリンピック](../Page/夏季オリンピック.md "wikilink")の中間年に開催されるFIBA（[国際バスケットボール連盟](../Page/国際バスケットボール連盟.md "wikilink")）主催の男子の公式戦の一つ。**2010年大会まではバスケットボール世界選手権（FIBA World Championship）という名前だった。**2014年大会から現在のようなワールドカップという名称に変わった。※名前が変わっただけで大会の内容自体は今まで通りの世界バスケと同じである。なお、優勝国には[ネイスミス・トロフィー](https://ja.wikipedia.org/wiki/ネイスミス・トロフィー "wikilink")が贈られる。
 
 ## 競技方式
 
@@ -82,7 +82,7 @@
 <tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/1959年バスケットボール世界選手権" title="wikilink">1959</a></strong></p></td>
 <td><p><br />
-(<a href="https://ja.wikipedia.org/wiki/サンティアゴ_(チリ)" title="wikilink">サンティアゴ</a>)</p></td>
+(<a href="../Page/サンティアゴ_(チリ).md" title="wikilink">サンティアゴ</a>)</p></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>81–67</strong>[6]</p></td>
 <td></td>
@@ -116,7 +116,7 @@
 <tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/1970年バスケットボール世界選手権" title="wikilink">1970</a></strong></p></td>
 <td><p><br />
-(<a href="https://ja.wikipedia.org/wiki/リュブリャナ" title="wikilink">リュブリャナ</a>)</p></td>
+(<a href="../Page/リュブリャナ.md" title="wikilink">リュブリャナ</a>)</p></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>80–55</strong>[12]</p></td>
 <td></td>
@@ -127,7 +127,7 @@
 <tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/1974年バスケットボール世界選手権" title="wikilink">1974</a></strong></p></td>
 <td><p><br />
-(<a href="https://ja.wikipedia.org/wiki/サンフアン_(プエルトリコ)" title="wikilink">サンフアン</a>)</p></td>
+(<a href="../Page/サンフアン_(プエルトリコ).md" title="wikilink">サンフアン</a>)</p></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>82–79</strong>[14]</p></td>
 <td></td>
@@ -138,7 +138,7 @@
 <tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/1978年バスケットボール世界選手権" title="wikilink">1978</a></strong></p></td>
 <td><p><br />
-(<a href="https://ja.wikipedia.org/wiki/マニラ首都圏" title="wikilink">マニラ首都圏</a>)</p></td>
+(<a href="../Page/マニラ首都圏.md" title="wikilink">マニラ首都圏</a>)</p></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>82–81</strong><br />
 <a href="../Page/延長戦.md" title="wikilink">延長戦</a></p></td>
@@ -150,7 +150,7 @@
 <tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/1982年バスケットボール世界選手権" title="wikilink">1982</a></strong></p></td>
 <td><p><br />
-(<a href="https://ja.wikipedia.org/wiki/サンティアゴ・デ・カリ" title="wikilink">サンティアゴ・デ・カリ</a>)</p></td>
+(<a href="../Page/サンティアゴ・デ・カリ.md" title="wikilink">サンティアゴ・デ・カリ</a>)</p></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>95–94</strong></p></td>
 <td></td>
@@ -193,7 +193,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/1998年バスケットボール世界選手権" title="wikilink">1998</a></strong></p></td>
+<td><p><strong><a href="../Page/1998年バスケットボール世界選手権.md" title="wikilink">1998</a></strong></p></td>
 <td><p><br />
 (<a href="../Page/アテネ.md" title="wikilink">アテネ</a>)</p></td>
 <td><p><strong></strong></p></td>
@@ -204,9 +204,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/2002年バスケットボール世界選手権" title="wikilink">2002</a></strong></p></td>
+<td><p><strong><a href="../Page/2002年バスケットボール世界選手権.md" title="wikilink">2002</a></strong></p></td>
 <td><p><br />
-(<a href="https://ja.wikipedia.org/wiki/インディアナポリス" title="wikilink">インディアナポリス</a>)</p></td>
+(<a href="../Page/インディアナポリス.md" title="wikilink">インディアナポリス</a>)</p></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>84–77</strong><br />
 <a href="../Page/延長戦.md" title="wikilink">延長戦</a></p></td>
@@ -227,7 +227,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/2010年バスケットボール世界選手権" title="wikilink">2010</a></strong></p></td>
+<td><p><strong><a href="../Page/2010年バスケットボール世界選手権.md" title="wikilink">2010</a></strong></p></td>
 <td><p><br />
 (<a href="../Page/イスタンブール.md" title="wikilink">イスタンブール</a>)</p></td>
 <td><p><strong></strong></p></td>
@@ -262,7 +262,7 @@
 <tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/2023年FIBAバスケットボール・ワールドカップ" title="wikilink">2023</a></strong></p></td>
 <td><p><br />
-(<a href="https://ja.wikipedia.org/wiki/マニラ首都圏" title="wikilink">マニラ首都圏</a>)</p></td>
+(<a href="../Page/マニラ首都圏.md" title="wikilink">マニラ首都圏</a>)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -325,11 +325,11 @@
 </tr>
 <tr class="odd">
 <td><p>1990年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トニー・クーコッチ" title="wikilink">トニー・クーコッチ</a></p></td>
+<td><p><a href="../Page/トニー・クーコッチ.md" title="wikilink">トニー・クーコッチ</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1994年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シャキール・オニール" title="wikilink">シャキール・オニール</a></p></td>
+<td><p><a href="../Page/シャキール・オニール.md" title="wikilink">シャキール・オニール</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1998年</p></td>
@@ -337,11 +337,11 @@
 </tr>
 <tr class="even">
 <td><p>2002年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ダーク・ノヴィツキー" title="wikilink">ダーク・ノヴィツキー</a></p></td>
+<td><p><a href="../Page/ダーク・ノヴィツキー.md" title="wikilink">ダーク・ノヴィツキー</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2006年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/パウ・ガソル" title="wikilink">パウ・ガソル</a></p></td>
+<td><p><a href="../Page/パウ・ガソル.md" title="wikilink">パウ・ガソル</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2010年</p></td>
@@ -361,7 +361,7 @@
 ## 日本における放送体制
 
   - 日本が出場した1998年大会は[WOWOW](../Page/WOWOW.md "wikilink")で中継が行われた。
-  - また[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")日本大会は地上波には[TBSテレビ](../Page/TBSテレビ.md "wikilink")から[JNN系列独占放送で日本戦を](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")、また[CS](../Page/通信衛星.md "wikilink")[衛星放送](../Page/衛星放送.md "wikilink")・[スカイパーフェクTV\!](../Page/スカパー!プレミアムサービス.md "wikilink")（[パーフェクト・チョイス](https://ja.wikipedia.org/wiki/パーフェクト・チョイス "wikilink")での無料放送）では全試合を放映した。
+  - また[2006年](../Page/2006年.md "wikilink")日本大会は地上波には[TBSテレビ](../Page/TBSテレビ.md "wikilink")から[JNN系列独占放送で日本戦を](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")、また[CS](../Page/通信衛星.md "wikilink")[衛星放送](../Page/衛星放送.md "wikilink")・[スカイパーフェクTV\!](../Page/スカパー!プレミアムサービス.md "wikilink")（[パーフェクト・チョイス](../Page/パーフェクト・チョイス.md "wikilink")での無料放送）では全試合を放映した。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")トルコ大会は2011年までのFIBA主催試合中継権を獲得した[J SPORTSが中継](../Page/J_SPORTS.md "wikilink")。
   - 2013年から4年契約で[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")が放送権を取得。[フジテレビNEXT](https://ja.wikipedia.org/wiki/フジテレビNEXT "wikilink")で中継。2017年にはさらに4年間契約更新。
 
@@ -370,12 +370,12 @@
 ## 関連項目
 
   - 男子
-      - [ウィリアム・ジョーンズカップ](https://ja.wikipedia.org/wiki/ウィリアム・ジョーンズカップ "wikilink")
-      - [オリンピックのバスケットボール競技](https://ja.wikipedia.org/wiki/オリンピックのバスケットボール競技 "wikilink")
+      - [ウィリアム・ジョーンズカップ](../Page/ウィリアム・ジョーンズカップ.md "wikilink")
+      - [オリンピックのバスケットボール競技](../Page/オリンピックのバスケットボール競技.md "wikilink")
   - 女子
-      - [ウィリアム・ジョーンズカップ](https://ja.wikipedia.org/wiki/ウィリアム・ジョーンズカップ "wikilink")
-      - [オリンピックのバスケットボール競技](https://ja.wikipedia.org/wiki/オリンピックのバスケットボール競技 "wikilink")
-      - [FIBA女子バスケットボール・ワールドカップ](https://ja.wikipedia.org/wiki/FIBA女子バスケットボール・ワールドカップ "wikilink")
+      - [ウィリアム・ジョーンズカップ](../Page/ウィリアム・ジョーンズカップ.md "wikilink")
+      - [オリンピックのバスケットボール競技](../Page/オリンピックのバスケットボール競技.md "wikilink")
+      - [FIBA女子バスケットボール・ワールドカップ](../Page/FIBA女子バスケットボール・ワールドカップ.md "wikilink")
 
 ## 外部リンク
 

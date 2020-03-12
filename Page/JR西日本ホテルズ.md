@@ -1,11 +1,11 @@
 > この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
 
 
-**JR西日本ホテルズ**（ジェイアールにしにほんホテルズ）は、[西日本旅客鉄道](https://ja.wikipedia.org/wiki/西日本旅客鉄道 "wikilink")（JR西日本）関連の[ホテル](../Page/ホテル.md "wikilink")の総称。
+**JR西日本ホテルズ**（ジェイアールにしにほんホテルズ）は、[西日本旅客鉄道](../Page/西日本旅客鉄道.md "wikilink")（JR西日本）関連の[ホテル](../Page/ホテル.md "wikilink")の総称。
 
 ## 概要
 
-原則として**株式会社ジェイアール西日本ホテル開発**が運営しているが、奈良ホテルはJR西日本の子会社である**株式会社奈良ホテル**が運営し、同ホテルの歴史的経緯から[近鉄・都ホテルズ](https://ja.wikipedia.org/wiki/都ホテルズ&リゾーツ "wikilink")（[近畿日本鉄道](https://ja.wikipedia.org/wiki/近畿日本鉄道 "wikilink")系）とも提携している（2018年8月末までは[近鉄グループホールディングス](https://ja.wikipedia.org/wiki/近鉄グループホールディングス "wikilink")も出資していた\[1\]\[2\]）。
+原則として**株式会社ジェイアール西日本ホテル開発**が運営しているが、奈良ホテルはJR西日本の子会社である**株式会社奈良ホテル**が運営し、同ホテルの歴史的経緯から[近鉄・都ホテルズ](../Page/都ホテルズ&リゾーツ.md "wikilink")（[近畿日本鉄道](../Page/近畿日本鉄道.md "wikilink")系）とも提携している（2018年8月末までは[近鉄グループホールディングス](https://ja.wikipedia.org/wiki/近鉄グループホールディングス "wikilink")も出資していた\[1\]\[2\]）。
 
 「**ホテルグランヴィア**」シリーズをメインブランドとして展開している。グランヴィアブランドのホテルのうち、最初から「グランヴィア」として開業したのは京都と岡山（ただし、岡山は現ホテルに建て替えられる前に岡山ターミナルホテルと呼ばれる前身ホテルがあった）のみで、その他はそれぞれ「○○ターミナルホテル（○○には地名が入る）」と称していた。
 
@@ -18,7 +18,7 @@
 <!-- end list -->
 
   - [ホテルグランヴィア京都](https://ja.wikipedia.org/wiki/ホテルグランヴィア京都 "wikilink")（[京都市](../Page/京都市.md "wikilink")[下京区](../Page/下京区.md "wikilink")、[京都駅](https://ja.wikipedia.org/wiki/京都駅 "wikilink")直結）
-  - [ホテルグランヴィア大阪](https://ja.wikipedia.org/wiki/ホテルグランヴィア大阪 "wikilink")（[大阪市](https://ja.wikipedia.org/wiki/大阪市 "wikilink")[北区](../Page/北区_\(大阪市\).md "wikilink")、[大阪駅](https://ja.wikipedia.org/wiki/大阪駅 "wikilink")直結）
+  - [ホテルグランヴィア大阪](https://ja.wikipedia.org/wiki/ホテルグランヴィア大阪 "wikilink")（[大阪市](../Page/大阪市.md "wikilink")[北区](../Page/北区_\(大阪市\).md "wikilink")、[大阪駅](https://ja.wikipedia.org/wiki/大阪駅 "wikilink")直結）
   - [ホテルグランヴィア和歌山](https://ja.wikipedia.org/wiki/ホテルグランヴィア和歌山 "wikilink")（[和歌山県](../Page/和歌山県.md "wikilink")[和歌山市](../Page/和歌山市.md "wikilink")、[和歌山駅](../Page/和歌山駅.md "wikilink")直結[和歌山ターミナルビル](https://ja.wikipedia.org/wiki/和歌山ターミナルビル "wikilink")）
   - [ホテルグランヴィア岡山](https://ja.wikipedia.org/wiki/ホテルグランヴィア岡山 "wikilink")（[岡山市](../Page/岡山市.md "wikilink")[北区](../Page/北区_\(岡山市\).md "wikilink")、[岡山駅](https://ja.wikipedia.org/wiki/岡山駅 "wikilink")直結）
   - [ホテルグランヴィア広島](https://ja.wikipedia.org/wiki/ホテルグランヴィア広島 "wikilink")（[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")[南区](../Page/南区_\(広島市\).md "wikilink")、[広島駅](https://ja.wikipedia.org/wiki/広島駅 "wikilink")直結）
@@ -39,11 +39,11 @@
 
 <!-- end list -->
 
-  - [奈良ホテル](https://ja.wikipedia.org/wiki/奈良ホテル "wikilink")（[奈良県](../Page/奈良県.md "wikilink")[奈良市](https://ja.wikipedia.org/wiki/奈良市 "wikilink")、[都ホテルズ&リゾーツ](https://ja.wikipedia.org/wiki/都ホテルズ&リゾーツ "wikilink")のホテルでもあったが、2019年4月1日以降はJR西日本ホテルズ単独になった\[5\]
+  - [奈良ホテル](../Page/奈良ホテル.md "wikilink")（[奈良県](../Page/奈良県.md "wikilink")[奈良市](https://ja.wikipedia.org/wiki/奈良市 "wikilink")、[都ホテルズ&リゾーツ](../Page/都ホテルズ&リゾーツ.md "wikilink")のホテルでもあったが、2019年4月1日以降はJR西日本ホテルズ単独になった\[5\]
 
 Hotel Granvia Kyoto 20111007-001.jpg|ホテルグランヴィア京都 South Gate Building Osaka Japan01-r.jpg |ホテルグランヴィア大阪 Granvia Okayama.JPG|ホテルグランヴィア岡山 ホテルグランヴィア広島01.jpg|ホテルグランヴィア広島
 
-なお、[ビジネスホテル](https://ja.wikipedia.org/wiki/ビジネスホテル "wikilink")の[ヴィアイン](https://ja.wikipedia.org/wiki/ヴィアイン "wikilink")は同じJR西日本系列ではあるが、別企業である[ジェイアール西日本デイリーサービスネット](https://ja.wikipedia.org/wiki/ジェイアール西日本デイリーサービスネット "wikilink")の運営であり、また[JRホテルグループ](https://ja.wikipedia.org/wiki/JRホテルグループ "wikilink")とはならない。但し、広告出稿やキャンペーンについては共同で実施することがある。 また、同じく[JR西日本米子メンテック](https://ja.wikipedia.org/wiki/JR西日本米子メンテック "wikilink")が運営するビジネスホテル「[グリーンホテル米子](https://ja.wikipedia.org/wiki/グリーンホテル米子 "wikilink")」や[ジェイアール西日本ウェルネット](https://ja.wikipedia.org/wiki/ジェイアール西日本ウェルネット "wikilink")が運営する「[JRくろしお荘](https://ja.wikipedia.org/wiki/JRくろしお荘 "wikilink")」、[JR西日本ファーストキャビン](https://ja.wikipedia.org/wiki/JR西日本ファーストキャビン "wikilink")が運営する[ファーストキャビンステーション](https://ja.wikipedia.org/wiki/ファーストキャビンステーション "wikilink")もJR西日本ホテルズ・[JRホテルグループ](https://ja.wikipedia.org/wiki/JRホテルグループ "wikilink")には属していない。
+なお、[ビジネスホテル](https://ja.wikipedia.org/wiki/ビジネスホテル "wikilink")の[ヴィアイン](../Page/ヴィアイン.md "wikilink")は同じJR西日本系列ではあるが、別企業である[ジェイアール西日本デイリーサービスネット](../Page/ジェイアール西日本デイリーサービスネット.md "wikilink")の運営であり、また[JRホテルグループ](https://ja.wikipedia.org/wiki/JRホテルグループ "wikilink")とはならない。但し、広告出稿やキャンペーンについては共同で実施することがある。 また、同じく[JR西日本米子メンテック](https://ja.wikipedia.org/wiki/JR西日本米子メンテック "wikilink")が運営するビジネスホテル「[グリーンホテル米子](https://ja.wikipedia.org/wiki/グリーンホテル米子 "wikilink")」や[ジェイアール西日本ウェルネット](https://ja.wikipedia.org/wiki/ジェイアール西日本ウェルネット "wikilink")が運営する「[JRくろしお荘](https://ja.wikipedia.org/wiki/JRくろしお荘 "wikilink")」、[JR西日本ファーストキャビン](../Page/JR西日本ファーストキャビン.md "wikilink")が運営する[ファーストキャビンステーション](https://ja.wikipedia.org/wiki/ファーストキャビンステーション "wikilink")もJR西日本ホテルズ・[JRホテルグループ](https://ja.wikipedia.org/wiki/JRホテルグループ "wikilink")には属していない。
 
 ### 新規オープン予定
 
@@ -51,7 +51,7 @@ Hotel Granvia Kyoto 20111007-001.jpg|ホテルグランヴィア京都 South Gat
 
 <!-- end list -->
 
-  - [Umekoji](https://ja.wikipedia.org/wiki/梅小路公園 "wikilink") Potel KYOTO（2020年春オープン予定）\[6\]
+  - [Umekoji](../Page/梅小路公園.md "wikilink") Potel KYOTO（2020年春オープン予定）\[6\]
 
 ### 過去に運営していた施設
 
@@ -62,9 +62,9 @@ Sannomiya Terminal Building.JPG|三宮ターミナルホテル
 
 ## 会員制度
 
-会員制ポイントカードとして「JR西日本ホテルズカード」がある。以前は、[三井住友カード](../Page/三井住友カード.md "wikilink")・[クレディセゾン](../Page/クレディセゾン.md "wikilink")（[UCカード](https://ja.wikipedia.org/wiki/UCカード "wikilink")）・[JCBと提携したクレジットカード機能のついたタイプもあったが](../Page/ジェーシービー.md "wikilink")、親会社のJR西日本が「[J-WESTカード](https://ja.wikipedia.org/wiki/J-WESTカード "wikilink")」を発行したため、新規発行を停止し、クレジット機能のないタイプのみ発行している。なお、JR西日本ホテルズやヴィアインでは、時折J-WESTカード会員向けの限定企画・特典を用意することがある。
+会員制ポイントカードとして「JR西日本ホテルズカード」がある。以前は、[三井住友カード](../Page/三井住友カード.md "wikilink")・[クレディセゾン](../Page/クレディセゾン.md "wikilink")（[UCカード](../Page/UCカード.md "wikilink")）・[JCBと提携したクレジットカード機能のついたタイプもあったが](../Page/ジェーシービー.md "wikilink")、親会社のJR西日本が「[J-WESTカード](../Page/J-WESTカード.md "wikilink")」を発行したため、新規発行を停止し、クレジット機能のないタイプのみ発行している。なお、JR西日本ホテルズやヴィアインでは、時折J-WESTカード会員向けの限定企画・特典を用意することがある。
 
-また、2018年6月からはグランヴィアブランド・ヴィスキオブランド・[奈良ホテル](https://ja.wikipedia.org/wiki/奈良ホテル "wikilink")が東日本・東海・九州の各グループホテル運営会社で組織している「[JRホテルメンバーズ](https://ja.wikipedia.org/wiki/JR東日本ホテルズ#JRホテルメンバーズ "wikilink")」に加入した\[7\]。これにより、JR西日本ホテルズカードは2018年5月で終了。以降1年間は、JR西日本ホテルズの各ホテルでの残ポイント使用となる。既存の会員については、希望者に対して、「JR西日本ホテルズカード」での登録情報を流用する形式にて「JRホテルメンバーズ」の新規加入を受け付ける案内を送付する予定としている。
+また、2018年6月からはグランヴィアブランド・ヴィスキオブランド・[奈良ホテル](../Page/奈良ホテル.md "wikilink")が東日本・東海・九州の各グループホテル運営会社で組織している「[JRホテルメンバーズ](https://ja.wikipedia.org/wiki/JR東日本ホテルズ#JRホテルメンバーズ "wikilink")」に加入した\[7\]。これにより、JR西日本ホテルズカードは2018年5月で終了。以降1年間は、JR西日本ホテルズの各ホテルでの残ポイント使用となる。既存の会員については、希望者に対して、「JR西日本ホテルズカード」での登録情報を流用する形式にて「JRホテルメンバーズ」の新規加入を受け付ける案内を送付する予定としている。
 
 2018年6月1日から加盟した「JRホテルメンバーズ」では、貯まったホテルメンバーズポイントを1000ポイント単位で「J-WESTポイント」への移行が可能になる\[8\]。
 

@@ -1,7 +1,7 @@
 > この記事は[LAZY KNACK](https://ja.wikipedia.org/wiki/LAZY_KNACK)から翻訳されています。
 
 
-**LAZY KNACK**（レイジー・ナック）は、清水聡、香月優奈によるツインボーカルの[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")。旧所属事務所は[スターダストプロモーション](https://ja.wikipedia.org/wiki/スターダストプロモーション "wikilink")。
+**LAZY KNACK**（レイジー・ナック）は、清水聡、香月優奈によるツインボーカルの[音楽ユニット](../Page/音楽ユニット.md "wikilink")。旧所属事務所は[スターダストプロモーション](../Page/スターダストプロモーション.md "wikilink")。
 
 ## 概要
 
@@ -9,13 +9,13 @@
 
 ## メンバー
 
-  - **清水聡**（しみず そう）ボーカル（1979年12月17日生）[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")[吹田市](../Page/吹田市.md "wikilink")出身
-      - 解散後、[ポリスター](https://ja.wikipedia.org/wiki/ポリスター "wikilink")からシングル1枚、アルバム1枚を出している。
+  - **清水聡**（しみず そう）ボーカル（1979年12月17日生）[大阪府](../Page/大阪府.md "wikilink")[吹田市](../Page/吹田市.md "wikilink")出身
+      - 解散後、[ポリスター](../Page/ポリスター.md "wikilink")からシングル1枚、アルバム1枚を出している。
 
 <!-- end list -->
 
-  - **[香月優奈](https://ja.wikipedia.org/wiki/松雪陽 "wikilink")**（かつき ゆうな）ボーカル（1979年6月4日生）[佐賀県](../Page/佐賀県.md "wikilink")[鳥栖市](../Page/鳥栖市.md "wikilink")出身
-      - 解散後、1998年から2002年まで**RED**としてソロ活動。2004年から2006年まで[LUNA SEAの](../Page/LUNA_SEA.md "wikilink")[SUGIZO](https://ja.wikipedia.org/wiki/SUGIZO "wikilink")とのユニット[The FLAREとして活動](../Page/The_FLARE.md "wikilink")。2006年から2007年まで**YUNA**としてソロ活動。現在は本名の**松雪陽**として活動している。
+  - **[香月優奈](../Page/松雪陽.md "wikilink")**（かつき ゆうな）ボーカル（1979年6月4日生）[佐賀県](../Page/佐賀県.md "wikilink")[鳥栖市](../Page/鳥栖市.md "wikilink")出身
+      - 解散後、1998年から2002年まで**RED**としてソロ活動。2004年から2006年まで[LUNA SEAの](../Page/LUNA_SEA.md "wikilink")[SUGIZO](../Page/SUGIZO.md "wikilink")とのユニット[The FLAREとして活動](../Page/The_FLARE.md "wikilink")。2006年から2007年まで**YUNA**としてソロ活動。現在は本名の**松雪陽**として活動している。
 
 ## ディスコグラフィ
 
@@ -124,14 +124,14 @@
 
 ## タイアップ
 
-| 楽曲               | タイアップ                                                                                                                                |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| **CRYSTAL GAME** | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[NEWSモーニングJAM](https://ja.wikipedia.org/wiki/NEWSモーニングJAM "wikilink")』OPテーマ |
-| **SPARK**        | [テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[リングの魂](https://ja.wikipedia.org/wiki/リングの魂 "wikilink")』OPテーマ                                  |
-| **MOON**         | [ブルボン](../Page/ブルボン.md "wikilink")「プチ シリーズ」CMソング                                                                                     |
-| **CHANCE**       | テレビ朝日系『[アメジャリチハラ](https://ja.wikipedia.org/wiki/アメジャリチハラ "wikilink")』OPテーマ                                                           |
-| **DESTINY**      | テレビ朝日系『[ゲームカタログII](https://ja.wikipedia.org/wiki/ゲームカタログII "wikilink")』EDテーマ                                                         |
-| **夏の夜の夢**        | [TBS系](../Page/TBSテレビ.md "wikilink")『[スーパーサッカー](../Page/スーパーサッカー_\(TBSのサッカー番組\).md "wikilink")』EDテーマ                                 |
+| 楽曲               | タイアップ                                                                                                             |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------- |
+| **CRYSTAL GAME** | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[NEWSモーニングJAM](../Page/NEWSモーニングJAM.md "wikilink")』OPテーマ |
+| **SPARK**        | [テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[リングの魂](../Page/リングの魂.md "wikilink")』OPテーマ                                  |
+| **MOON**         | [ブルボン](../Page/ブルボン.md "wikilink")「プチ シリーズ」CMソング                                                                  |
+| **CHANCE**       | テレビ朝日系『[アメジャリチハラ](../Page/アメジャリチハラ.md "wikilink")』OPテーマ                                                           |
+| **DESTINY**      | テレビ朝日系『[ゲームカタログII](../Page/ゲームカタログII.md "wikilink")』EDテーマ                                                         |
+| **夏の夜の夢**        | [TBS系](../Page/TBSテレビ.md "wikilink")『[スーパーサッカー](../Page/スーパーサッカー_\(TBSのサッカー番組\).md "wikilink")』EDテーマ              |
 
 ## 関連項目
 

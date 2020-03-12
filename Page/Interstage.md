@@ -1,9 +1,9 @@
 > この記事は[Interstage](https://ja.wikipedia.org/wiki/Interstage)から翻訳されています。
 
 
-**Interstage**（インターステージ）は[富士通](../Page/富士通.md "wikilink")の[ソフトウェア](../Page/ソフトウェア.md "wikilink")基盤製品群のブランド。システム構築用の[ミドルウェア](https://ja.wikipedia.org/wiki/ミドルウェア "wikilink")の総称である。最も広く利用される中核製品の、Interstage Application Server、またはInterstage Business Application Serverを指す略語として使われることも多い。
+**Interstage**（インターステージ）は[富士通](../Page/富士通.md "wikilink")の[ソフトウェア](../Page/ソフトウェア.md "wikilink")基盤製品群のブランド。システム構築用の[ミドルウェア](../Page/ミドルウェア.md "wikilink")の総称である。最も広く利用される中核製品の、Interstage Application Server、またはInterstage Business Application Serverを指す略語として使われることも多い。
 
-[Java](../Page/Javaプラットフォーム.md "wikilink")、[Java EE](../Page/Java_Platform,_Enterprise_Edition.md "wikilink")、[SOAP](../Page/SOAP_\(プロトコル\).md "wikilink")、[UDDI](https://ja.wikipedia.org/wiki/UDDI "wikilink")、[RosettaNet](https://ja.wikipedia.org/wiki/RosettaNet "wikilink")、[ebXML](https://ja.wikipedia.org/wiki/ebXML "wikilink")、[UMLといった各種標準技術に準じている](../Page/統一モデリング言語.md "wikilink")。 製品内に、[Apache HTTP Server](../Page/Apache_HTTP_Server.md "wikilink")、[Tomcat](https://ja.wikipedia.org/wiki/Apache_Tomcat "wikilink")、[Eclipseといった標準的なオープンソースソフトウェアをライセンスに基づき企業用途向けに修正して利用している](../Page/Eclipse_\(統合開発環境\).md "wikilink")。
+[Java](../Page/Javaプラットフォーム.md "wikilink")、[Java EE](../Page/Java_Platform,_Enterprise_Edition.md "wikilink")、[SOAP](../Page/SOAP_\(プロトコル\).md "wikilink")、[UDDI](https://ja.wikipedia.org/wiki/UDDI "wikilink")、[RosettaNet](../Page/RosettaNet.md "wikilink")、[ebXML](https://ja.wikipedia.org/wiki/ebXML "wikilink")、[UMLといった各種標準技術に準じている](../Page/統一モデリング言語.md "wikilink")。 製品内に、[Apache HTTP Server](../Page/Apache_HTTP_Server.md "wikilink")、[Tomcat](https://ja.wikipedia.org/wiki/Apache_Tomcat "wikilink")、[Eclipseといった標準的なオープンソースソフトウェアをライセンスに基づき企業用途向けに修正して利用している](../Page/Eclipse_\(統合開発環境\).md "wikilink")。
 
 ## 製品一覧
 
@@ -17,7 +17,7 @@ Interstageの製品群は
 
 ### Foundation製品
 
-基幹系システム構築・運用のための基盤を提供する製品群である。 この系統の製品は、富士通が汎用機水準の高信頼、高性能技術を[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Linux](https://ja.wikipedia.org/wiki/Linux "wikilink")、[Solaris](../Page/Solaris.md "wikilink")系システムの構築技術に反映させることを目指して作られた。 富士通はこの製品によって安定したレスポンスや[TCO](https://ja.wikipedia.org/wiki/TCO "wikilink")削減が実現できるとしている。 [Java仮想マシン](../Page/Java仮想マシン.md "wikilink")などのJava SE層には、サンの実装に対して、メモリ不足時の予兆監視等が加えられた物が採用されている。
+基幹系システム構築・運用のための基盤を提供する製品群である。 この系統の製品は、富士通が汎用機水準の高信頼、高性能技術を[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Solaris](../Page/Solaris.md "wikilink")系システムの構築技術に反映させることを目指して作られた。 富士通はこの製品によって安定したレスポンスや[TCO](https://ja.wikipedia.org/wiki/TCO "wikilink")削減が実現できるとしている。 [Java仮想マシン](../Page/Java仮想マシン.md "wikilink")などのJava SE層には、サンの実装に対して、メモリ不足時の予兆監視等が加えられた物が採用されている。
 
 この製品群には以下の製品がある。
 
@@ -65,7 +65,7 @@ Interstageの製品群は
   - Interstage Navigator Explorer Server
   - Interstage Navigator Server
   - Interstage Navigator Websight Server
-  - [Interstage Shunsaku Data Manager](https://ja.wikipedia.org/wiki/Interstage_Shunsaku_Data_Manager "wikilink")
+  - [Interstage Shunsaku Data Manager](../Page/Interstage_Shunsaku_Data_Manager.md "wikilink")
 
 <!-- end list -->
 

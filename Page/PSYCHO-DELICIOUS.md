@@ -1,7 +1,7 @@
 > この記事は[PSYCHO-DELICIOUS](https://ja.wikipedia.org/wiki/PSYCHO-DELICIOUS)から翻訳されています。
 
 
-**PSYCHO-DELICIOUS**（サイコデリシャス）は日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[PINKの](../Page/PINK_\(バンド\).md "wikilink")3枚目のアルバム。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[1月28日](../Page/1月28日.md "wikilink")に[MOON RECORDSよりリリースされた](https://ja.wikipedia.org/wiki/MOON_RECORDS "wikilink")。
+**PSYCHO-DELICIOUS**（サイコデリシャス）は日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[PINKの](../Page/PINK_\(バンド\).md "wikilink")3枚目のアルバム。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[1月28日](../Page/1月28日.md "wikilink")に[MOON RECORDSよりリリースされた](../Page/MOON_RECORDS.md "wikilink")。
 
 ## 内容
 
@@ -25,14 +25,14 @@
 ## 参加ミュージシャン
 
   - [福岡ユタカ](https://ja.wikipedia.org/wiki/福岡ユタカ "wikilink") - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
-  - [岡野ハジメ](https://ja.wikipedia.org/wiki/岡野ハジメ "wikilink") - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
-  - [ホッピー神山](https://ja.wikipedia.org/wiki/ホッピー神山 "wikilink") - [キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")
+  - [岡野ハジメ](../Page/岡野ハジメ.md "wikilink") - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
+  - [ホッピー神山](../Page/ホッピー神山.md "wikilink") - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")
   - [矢壁アツノブ](https://ja.wikipedia.org/wiki/矢壁アツノブ "wikilink") - [ドラム](../Page/ドラムセット.md "wikilink")
   - [スティーブ衛藤](https://ja.wikipedia.org/wiki/スティーブ・エトウ "wikilink") - [パーカッション](../Page/パーカッション.md "wikilink")
   - [渋谷ヒデヒロ](https://ja.wikipedia.org/wiki/渋谷ヒデヒロ "wikilink") - [ギター](../Page/ギター.md "wikilink")
   - [吉田美奈子](https://ja.wikipedia.org/wiki/吉田美奈子 "wikilink") - [コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
-  - [窪田晴男](https://ja.wikipedia.org/wiki/パール兄弟 "wikilink") - ギター
-  - [板倉文](https://ja.wikipedia.org/wiki/板倉文 "wikilink") - ギター
+  - [窪田晴男](../Page/パール兄弟.md "wikilink") - ギター
+  - [板倉文](../Page/板倉文.md "wikilink") - ギター
   - 横山英規 - [サックス](../Page/サクソフォーン.md "wikilink")
   - ワールドスタンダード - コーラス
 

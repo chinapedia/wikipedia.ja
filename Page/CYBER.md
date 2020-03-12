@@ -1,7 +1,7 @@
 > この記事は[CYBER](https://ja.wikipedia.org/wiki/CYBER)から翻訳されています。
 
 
-**CYBER**（サイバー）は日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[PINKの](../Page/PINK_\(バンド\).md "wikilink")4枚目のアルバム。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")に[MOON RECORDSよりリリースされた](https://ja.wikipedia.org/wiki/MOON_RECORDS "wikilink")。
+**CYBER**（サイバー）は日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[PINKの](../Page/PINK_\(バンド\).md "wikilink")4枚目のアルバム。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")に[MOON RECORDSよりリリースされた](../Page/MOON_RECORDS.md "wikilink")。
 
 ## 内容
 
@@ -29,8 +29,8 @@
 ## 参加ミュージシャン
 
   - [福岡ユタカ](https://ja.wikipedia.org/wiki/福岡ユタカ "wikilink") - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ギター](../Page/ギター.md "wikilink")
-  - [岡野ハジメ](https://ja.wikipedia.org/wiki/岡野ハジメ "wikilink") - ボーカル・ギター・[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")・[キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")
-  - [ホッピー神山](https://ja.wikipedia.org/wiki/ホッピー神山 "wikilink") - ボーカル・ギター・キーボード
+  - [岡野ハジメ](../Page/岡野ハジメ.md "wikilink") - ボーカル・ギター・[ベース](../Page/ベース_\(弦楽器\).md "wikilink")・[キーボード](../Page/キーボード_\(楽器\).md "wikilink")
+  - [ホッピー神山](../Page/ホッピー神山.md "wikilink") - ボーカル・ギター・キーボード
   - [矢壁アツノブ](https://ja.wikipedia.org/wiki/矢壁アツノブ "wikilink") - ボーカル・[ドラム](../Page/ドラムセット.md "wikilink")
   - [スティーブ衛藤](https://ja.wikipedia.org/wiki/スティーブ・エトウ "wikilink") - ボーカル・[パーカッション](../Page/パーカッション.md "wikilink")・[タンバリン](https://ja.wikipedia.org/wiki/タンブリン "wikilink")
   - [逆井オサム](https://ja.wikipedia.org/wiki/逆井オサム "wikilink") - ボーカル・ギター

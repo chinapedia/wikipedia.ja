@@ -1,7 +1,7 @@
 > この記事は[U-PRESS](https://ja.wikipedia.org/wiki/U-PRESS)から翻訳されています。
 
 
-**U-PRESS** (ゆーぷれす) とは[共同通信社](../Page/共同通信社.md "wikilink")が独自に策定した[文字コード](../Page/文字コード.md "wikilink")（[文字符号化方式](https://ja.wikipedia.org/wiki/文字符号化方式 "wikilink")および[文字セット](https://ja.wikipedia.org/wiki/文字セット "wikilink")）。[Unicode](../Page/Unicode.md "wikilink")2.1をベースに[基本多言語面](https://ja.wikipedia.org/wiki/基本多言語面 "wikilink") (BMP) の[私用領域](https://ja.wikipedia.org/wiki/私用領域 "wikilink")に[新聞](../Page/新聞.md "wikilink")独特の外字を配置したもので、総収録文字数は15,269文字である\[1\]。
+**U-PRESS** (ゆーぷれす) とは[共同通信社](../Page/共同通信社.md "wikilink")が独自に策定した[文字コード](../Page/文字コード.md "wikilink")（[文字符号化方式](https://ja.wikipedia.org/wiki/文字符号化方式 "wikilink")および[文字セット](https://ja.wikipedia.org/wiki/文字セット "wikilink")）。[Unicode](../Page/Unicode.md "wikilink")2.1をベースに[基本多言語面](../Page/基本多言語面.md "wikilink") (BMP) の[私用領域](https://ja.wikipedia.org/wiki/私用領域 "wikilink")に[新聞](../Page/新聞.md "wikilink")独特の外字を配置したもので、総収録文字数は15,269文字である\[1\]。
 
 ## 概要
 
@@ -10,7 +10,7 @@
 ## 各種文字コードとの対応
 
 1.  [JIS X 0201](https://ja.wikipedia.org/wiki/JIS_X_0201 "wikilink")　全文字を収録している。
-2.  [JIS X 0208](../Page/JIS_X_0208.md "wikilink")　全文字を収録している。ただし[字体](https://ja.wikipedia.org/wiki/字体 "wikilink")は[印刷標準字体に準じる](https://ja.wikipedia.org/wiki/国語国字問題#表外漢字字体表 "wikilink")。
+2.  [JIS X 0208](../Page/JIS_X_0208.md "wikilink")　全文字を収録している。ただし[字体](../Page/字体.md "wikilink")は[印刷標準字体に準じる](https://ja.wikipedia.org/wiki/国語国字問題#表外漢字字体表 "wikilink")。
 3.  [JIS X 0212](../Page/JIS_X_0212.md "wikilink")　全文字を収録している。
 4.  [JIS X 0213](../Page/JIS_X_0213.md "wikilink")　BMPに収録されているものはそのまま収録。それ以外のものは私用領域に収録。
 5.  [ラテ欄](https://ja.wikipedia.org/wiki/ラテ欄 "wikilink")記号や縦書き専用文字、[連数字](https://ja.wikipedia.org/wiki/連数字 "wikilink")などの独自文字を私用領域に収録している。符号化方式にはUTF-16が使われているため、BMPの範囲内においてはUnicodeと互換性がある。
@@ -18,7 +18,7 @@
 
 ## フォント
 
-対応[フォント](../Page/フォント.md "wikilink")は[イワタ](https://ja.wikipedia.org/wiki/イワタ "wikilink")などから発売されている。また入力用の[IME](https://ja.wikipedia.org/wiki/IME "wikilink")として[ジャストシステム](../Page/ジャストシステム.md "wikilink")より[ATOK](../Page/ATOK.md "wikilink")の「for U-PRESS」バージョンが開発・販売されている。また、[Adobe-Japan1-6でU](../Page/CID_\(文字コード\).md "wikilink")-PRESSの独自文字が追加されている。
+対応[フォント](../Page/フォント.md "wikilink")は[イワタ](../Page/イワタ.md "wikilink")などから発売されている。また入力用の[IME](https://ja.wikipedia.org/wiki/IME "wikilink")として[ジャストシステム](../Page/ジャストシステム.md "wikilink")より[ATOK](../Page/ATOK.md "wikilink")の「for U-PRESS」バージョンが開発・販売されている。また、[Adobe-Japan1-6でU](../Page/CID_\(文字コード\).md "wikilink")-PRESSの独自文字が追加されている。
 
 ## 問題点
 
@@ -30,7 +30,7 @@
   - [K-JIS](https://ja.wikipedia.org/wiki/K-JIS "wikilink")
   - [イワタU-PRESS](https://ja.wikipedia.org/wiki/イワタU-PRESS "wikilink") [1](https://www.iwatafont.co.jp/press/upress.html) - U-PRESS標準文字（15,269文字）にイワタ拡張文字[2](https://www.iwatafont.co.jp/press/kakucyo.html)（848文字）を追加したフォント
   - [CID (文字コード)](../Page/CID_\(文字コード\).md "wikilink")
-  - [JIS X 4051](https://ja.wikipedia.org/wiki/JIS_X_4051 "wikilink")
+  - [JIS X 4051](../Page/JIS_X_4051.md "wikilink")
   - [番組表](https://ja.wikipedia.org/wiki/番組表 "wikilink")（新聞などに掲載される番組表）
   - [外字](../Page/外字.md "wikilink")（U-PRESS外字）
 

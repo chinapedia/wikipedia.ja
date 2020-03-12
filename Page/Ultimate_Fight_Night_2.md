@@ -1,7 +1,7 @@
 > この記事は[Ultimate Fight Night 2](https://ja.wikipedia.org/wiki/Ultimate_Fight_Night_2)から翻訳されています。
 
 
-**Ultimate Fight Night 2**\[1\]（アルティメット・ファイトナイト・ツー、別名**UFC Fight Night 2**）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月3日](../Page/10月3日.md "wikilink")、[ネバダ州](../Page/ネバダ州.md "wikilink")[ラスベガス](../Page/ラスベガス.md "wikilink")の[ザ・ジョイント](https://ja.wikipedia.org/wiki/ザ・ジョイント "wikilink")で開催された。
+**Ultimate Fight Night 2**\[1\]（アルティメット・ファイトナイト・ツー、別名**UFC Fight Night 2**）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2005年](../Page/2005年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")、[ネバダ州](../Page/ネバダ州.md "wikilink")[ラスベガス](../Page/ラスベガス.md "wikilink")の[ザ・ジョイント](https://ja.wikipedia.org/wiki/ザ・ジョイント "wikilink")で開催された。
 
 大会メインイベントでは[エヴァン・タナー](../Page/エヴァン・タナー.md "wikilink")と[デビッド・ロワゾー](../Page/デビッド・ロワゾー.md "wikilink")によるミドル級戦が行われた。なお、大会はSpike TVにより全米およびカナダへ無料放送された。
 
@@ -24,20 +24,20 @@
     ○  [ジョン・フィッチ](../Page/ジョン・フィッチ.md "wikilink") vs.  [ブロック・ラーソン](https://ja.wikipedia.org/wiki/ブロック・ラーソン "wikilink") ×
     3R終了 判定3-0（30-27、30-27、30-27）
   - 第3試合 ウェルター級 5分3R
-    ○  [スペンサー・フィッシャー](https://ja.wikipedia.org/wiki/スペンサー・フィッシャー "wikilink") vs.  [チアゴ・アウベス](https://ja.wikipedia.org/wiki/チアゴ・アウベス "wikilink") ×
-    2R 4:43 [三角絞め](https://ja.wikipedia.org/wiki/三角絞め "wikilink")
+    ○  [スペンサー・フィッシャー](../Page/スペンサー・フィッシャー.md "wikilink") vs.  [チアゴ・アウベス](https://ja.wikipedia.org/wiki/チアゴ・アウベス "wikilink") ×
+    2R 4:43 [三角絞め](../Page/三角絞め.md "wikilink")
 
 ### メインカード
 
   - 第4試合 ウェルター級 5分3R
     ○  ドリュー・フィケット vs.  [ジョシュ・コスチェック](../Page/ジョシュ・コスチェック.md "wikilink") ×
-    3R 4:38 TKO（レフェリーストップ：[チョークスリーパー](https://ja.wikipedia.org/wiki/裸絞 "wikilink")）
+    3R 4:38 TKO（レフェリーストップ：[チョークスリーパー](../Page/裸絞.md "wikilink")）
   - 第5試合 ヘビー級 5分3R
     ○  [ブランドン・ヴェラ](../Page/ブランドン・ヴェラ.md "wikilink") vs.  ファビアーノ・シェルナー ×
     2R 3:22 TKO（レフェリーストップ：膝蹴り）
   - 第6試合 ミドル級 5分3R
     ○  [クリス・リーベン](https://ja.wikipedia.org/wiki/クリス・リーベン "wikilink") vs.  エドウィン・デューイーズ ×
-    1R 3:26 [腕ひしぎ十字固め](https://ja.wikipedia.org/wiki/腕挫十字固 "wikilink")
+    1R 3:26 [腕ひしぎ十字固め](../Page/腕挫十字固.md "wikilink")
   - 第7試合 ミドル級 5分3R
     ○  [デビッド・ロワゾー](../Page/デビッド・ロワゾー.md "wikilink") vs.  [エヴァン・タナー](../Page/エヴァン・タナー.md "wikilink") ×
     2R 4:15 TKO（ドクターストップ：カット）

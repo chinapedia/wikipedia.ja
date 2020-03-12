@@ -1,7 +1,7 @@
 > この記事は[C.O.W.](https://ja.wikipedia.org/wiki/C.O.W.)から翻訳されています。
 
 
-『**C.O.W**』(CHECK OUT WORLD)は、[MO'SOME TONEBENDERのメジャー](https://ja.wikipedia.org/wiki/MO'SOME_TONEBENDER "wikilink")7thアルバム。
+『**C.O.W**』(CHECK OUT WORLD)は、[MO'SOME TONEBENDERのメジャー](../Page/MO'SOME_TONEBENDER.md "wikilink")7thアルバム。
 
 ## 概要
 

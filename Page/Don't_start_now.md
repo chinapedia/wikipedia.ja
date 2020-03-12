@@ -5,7 +5,7 @@
 
 ## 解説
 
-  - 1stアルバム『[LISTEN TO MY HEART](https://ja.wikipedia.org/wiki/LISTEN_TO_MY_HEART_\(アルバム\) "wikilink")』からのリカットシングル。5万枚の限定発売 （しかし当初は3万枚限定での発売予定だった）。
+  - 1stアルバム『[LISTEN TO MY HEART](../Page/LISTEN_TO_MY_HEART_\(アルバム\).md "wikilink")』からのリカットシングル。5万枚の限定発売 （しかし当初は3万枚限定での発売予定だった）。
   - 韓国での1集「[ID; Peace B](../Page/ID;_Peace_B.md "wikilink")」、1.5集「[Don't start now - Jumping into the World](../Page/Don't_start_now_-_Jumping_into_the_World.md "wikilink") （日本でのタイトルは『Jumping into the World』）」の日本盤と同時発売。
 
 ## 収録曲
@@ -20,7 +20,7 @@
 
 ## 収録アルバム
 
-  - 1st ALBUM『[LISTEN TO MY HEART](https://ja.wikipedia.org/wiki/LISTEN_TO_MY_HEART_\(アルバム\) "wikilink")』（M-1）
+  - 1st ALBUM『[LISTEN TO MY HEART](../Page/LISTEN_TO_MY_HEART_\(アルバム\).md "wikilink")』（M-1）
   - 韓国1.5集『[Don't start now - Jumping into the World](../Page/Don't_start_now_-_Jumping_into_the_World.md "wikilink")』（M-2,3）
 
 [Category:BoAの楽曲](https://ja.wikipedia.org/wiki/Category:BoAの楽曲 "wikilink") [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:リカット・シングル](https://ja.wikipedia.org/wiki/Category:リカット・シングル "wikilink") [Category:楽曲_と](https://ja.wikipedia.org/wiki/Category:楽曲_と "wikilink")

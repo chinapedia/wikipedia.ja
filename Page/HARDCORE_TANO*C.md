@@ -7,7 +7,7 @@
 
 [2003年](../Page/2003年.md "wikilink")に『ヾ(゜Д゜)ノハードコアタノシー』という名で活動をスタートする。 元々は[2ちゃんねる](../Page/2ちゃんねる.md "wikilink")の[PC等カテゴリの](https://ja.wikipedia.org/wiki/2ちゃんねるの板の一覧#PC等 "wikilink")[DTM板](https://ja.wikipedia.org/wiki/DTM板 "wikilink")の[スレッドである](https://ja.wikipedia.org/wiki/スレッド_\(電子掲示板\) "wikilink")『ハードコアテクノ総合スレッド』の住人有志が、自分たちの作品を発表してクラブイベントなどで流して楽しもうという趣旨で作られた団体で、活動初期は「2ちゃん発のハードコアテクノ」を謳い文句にしていた。 活動中期頃から2ちゃんねる発という色合いは徐々に薄れていき、[2007年](../Page/2007年.md "wikilink")8月に『HARDCORE SYNDROME』をリリースしたことを期にレーベルの正式名称を英語表記でHARDCORE TANO\*Cに変更した。
 
-[2009年](../Page/2009年.md "wikilink")には[LIAのメジャー流通アルバムである](https://ja.wikipedia.org/wiki/Lia "wikilink")『enigmatic LIA 3 -worldwide collection-』のDISC2を「REDALiCE presents -HARDCORE TANO☆C-」として担当した。
+[2009年](../Page/2009年.md "wikilink")には[LIAのメジャー流通アルバムである](../Page/Lia.md "wikilink")『enigmatic LIA 3 -worldwide collection-』のDISC2を「REDALiCE presents -HARDCORE TANO☆C-」として担当した。
 
 近年のアルバムには[beatmania IIDXに楽曲提供を行うコンポーザー](https://ja.wikipedia.org/wiki/beatmania_IIDX "wikilink")[Ryu☆](https://ja.wikipedia.org/wiki/Ryu☆ "wikilink")や[kors k](https://ja.wikipedia.org/wiki/kors_k "wikilink")、イギリスの若手クリエイター[JAKAZiD](https://ja.wikipedia.org/wiki/JAKAZiD "wikilink")がなどが楽曲提供を行った。 [2011年](../Page/2011年.md "wikilink")以降は[Beatmania IIDX](../Page/Beatmania_IIDX.md "wikilink")、[SOUND VOLTEX](https://ja.wikipedia.org/wiki/SOUND_VOLTEX "wikilink")、[グルーヴコースター](https://ja.wikipedia.org/wiki/グルーヴコースター "wikilink")などの[音楽ゲーム](../Page/音楽ゲーム.md "wikilink")に楽曲提供を行っている。
 
@@ -27,7 +27,7 @@
   - [t+pazolite](https://ja.wikipedia.org/wiki/t+pazolite "wikilink")/tpa:pbr/最速 (C.H.S/ALiCE'S EMOTiON)
   - [源屋](https://ja.wikipedia.org/wiki/源屋 "wikilink") (MINAMOTRANCE)
   - [USAO](https://ja.wikipedia.org/wiki/USAO "wikilink")/Shandy Kubota/DJ 名無し/Caladborg (UOM Records)
-  - [RoughSketch](https://ja.wikipedia.org/wiki/宇野将平 "wikilink")/uno/DJ Laugh (Sapporo Hardcore Channel/Notebook Records/[IOSYS](https://ja.wikipedia.org/wiki/イオシス "wikilink")/[beatnation RHYZE](https://ja.wikipedia.org/wiki/beatnationレーベル "wikilink"))
+  - [RoughSketch](https://ja.wikipedia.org/wiki/宇野将平 "wikilink")/uno/DJ Laugh (Sapporo Hardcore Channel/Notebook Records/[IOSYS](../Page/イオシス.md "wikilink")/[beatnation RHYZE](https://ja.wikipedia.org/wiki/beatnationレーベル "wikilink"))
   - [DJ Noriken](https://ja.wikipedia.org/wiki/DJ_Noriken "wikilink")/Luna Express (SKETCH UP\! Recordings)
   - [P\*Light](https://ja.wikipedia.org/wiki/P*Light "wikilink")/[八王子P](https://ja.wikipedia.org/wiki/八王子P "wikilink") (pichnopop/electro planet/SKETCH UP\! Recordings/beatnation RHYZE)
   - [DJ Genki](https://ja.wikipedia.org/wiki/DJ_Genki "wikilink")/Gram (djgenki.net/SKETCH UP\! Recordings)
@@ -74,7 +74,7 @@
   - [Maozon](https://ja.wikipedia.org/wiki/Maozon "wikilink") ([Diverse System](https://ja.wikipedia.org/wiki/Diverse_System "wikilink")/Digz, Inc. Group)
   - nadeco (YTR Records)
   - Dustvoxx (Cyclik Control/FREAKIN WORKS)
-  - [MK](https://ja.wikipedia.org/wiki/MK "wikilink") (Polyphonix)
+  - [MK](../Page/MK.md "wikilink") (Polyphonix)
   - Rooq (Stratosphere)
   - [nora2r](https://ja.wikipedia.org/wiki/nora2r "wikilink") (Next Reflection/Notebook"Delight"Records)
   - [kors k](https://ja.wikipedia.org/wiki/kors_k "wikilink")/Eagle/teranoid/Disconation/Strip E/maras k/The 4th ([S2TB Recording](https://ja.wikipedia.org/wiki/S2TB_Recording "wikilink")/EDP/beatnation records)
@@ -127,7 +127,7 @@
 
 ### 過去のメンバー
 
-  - [DJ TECHNORCH](https://ja.wikipedia.org/wiki/DJ_TECHNORCH "wikilink") (999 Recordings) -2009年9月にHARDCORE TANO\*Cから除名された事を本人が明らかにした。また2015年2月に詳しい詳細とお詫びの文\[5\]を記載。
+  - [DJ TECHNORCH](../Page/DJ_TECHNORCH.md "wikilink") (999 Recordings) -2009年9月にHARDCORE TANO\*Cから除名された事を本人が明らかにした。また2015年2月に詳しい詳細とお詫びの文\[5\]を記載。
   - DJ-Technetium/テクネチウム (Cis-Trance)
   - Thanatos (WAS Records)
   - Betwixt & Between/Hatred/Berserk+Haste/Poly Calamity/RaverRose (TOTAL DISCOMMUNICATION) - 2012年9月17日に死去。
@@ -233,7 +233,7 @@
 
 ### ソロシリーズ (メンバーのソロアルバム)
 
-  - CRIMSON HARDCORE / REDALiCE (2009年5月22日発売　[M3-2009春にて先行発売](https://ja.wikipedia.org/wiki/M3_\(同人\) "wikilink")）
+  - CRIMSON HARDCORE / REDALiCE (2009年5月22日発売　[M3-2009春にて先行発売](../Page/M3_\(同人\).md "wikilink")）
   - NANOSECOND ETERNITY / Betwixt & Between
   - songs for X Girlz / t+pazolite ([C81にて先行発売](../Page/コミックマーケット.md "wikilink"))
   - RADIANCE / P\*Light & DJ Noriken
@@ -244,7 +244,7 @@
 **その他**
 
   - enigmatic LIA 3 -worldwide collection- /LIA(2009年4月1日発売　[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")) DISC2をHARDCORE TANO\*C sideとしてREDALiCEを中心とした主要メンバーが参加しリミックスを行っている。
-  - メガピアDJバトラーズ [イオシス](https://ja.wikipedia.org/wiki/イオシス "wikilink") vs ハードコアタノシー(2010年12月29日発売)
+  - メガピアDJバトラーズ [イオシス](../Page/イオシス.md "wikilink") vs ハードコアタノシー(2010年12月29日発売)
   - beatnation RHYZE vs HARDCORE TANO\*C(2014年8月27日に発売 [コナミデジタルエンタテイメント](https://ja.wikipedia.org/wiki/コナミデジタルエンタテイメント "wikilink"))
 
 『HARDCORE SYNDROME』以前に発売された旧作は完売、theBESTof HARDCORE TANO\*Cは希望多数により再発売された。
@@ -289,8 +289,8 @@
 ## 関連項目
 
   - [ハードコアテクノ](../Page/ハードコアテクノ.md "wikilink")
-  - [同人音楽](https://ja.wikipedia.org/wiki/同人音楽 "wikilink")
-  - [WACCA](https://ja.wikipedia.org/wiki/WACCA "wikilink") - [マーベラスより](https://ja.wikipedia.org/wiki/マーベラス_\(企業\) "wikilink")2019年に稼働開始予定の業務向け音楽ゲーム。HARDCORE TANO\*Cが全面協力を行っている。
+  - [同人音楽](../Page/同人音楽.md "wikilink")
+  - [WACCA](https://ja.wikipedia.org/wiki/WACCA "wikilink") - [マーベラスより](../Page/マーベラス_\(企業\).md "wikilink")2019年に稼働開始予定の業務向け音楽ゲーム。HARDCORE TANO\*Cが全面協力を行っている。
 
 ## 外部リンク
 

@@ -22,6 +22,6 @@
 
 ## 関連項目
 
-  - [2002年の音楽](https://ja.wikipedia.org/wiki/2002年の音楽 "wikilink")
+  - [2002年の音楽](../Page/2002年の音楽.md "wikilink")
 
 [Category:2002年のリミックス・アルバム](https://ja.wikipedia.org/wiki/Category:2002年のリミックス・アルバム "wikilink") [Category:m.o.v.eのリミックス・アルバム](https://ja.wikipedia.org/wiki/Category:m.o.v.eのリミックス・アルバム "wikilink")

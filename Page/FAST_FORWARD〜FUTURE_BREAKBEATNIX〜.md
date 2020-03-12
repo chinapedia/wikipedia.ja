@@ -21,6 +21,6 @@
 
 ## 関連項目
 
-  - [2004年の音楽](https://ja.wikipedia.org/wiki/2004年の音楽 "wikilink")
+  - [2004年の音楽](../Page/2004年の音楽.md "wikilink")
 
 [Category:M.o.v.eのリミックス・アルバム](https://ja.wikipedia.org/wiki/Category:M.o.v.eのリミックス・アルバム "wikilink") [Category:2004年のリミックス・アルバム](https://ja.wikipedia.org/wiki/Category:2004年のリミックス・アルバム "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")

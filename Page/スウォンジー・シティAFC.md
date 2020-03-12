@@ -1,15 +1,15 @@
 > この記事は[AFC](https://ja.wikipedia.org/wiki/AFC)から翻訳されています。
 
 
-**スウォンジー・シティ・アソシエイション・フットボール・クラブ**（**Swansea City Association Football Club** ; ）は、[ウェールズ](../Page/ウェールズ.md "wikilink")南部の都市[スウォンジー](https://ja.wikipedia.org/wiki/スウォンジー "wikilink")をホームタウンとするプロサッカークラブ。ウェールズのクラブだが、[イングランド](../Page/イングランド.md "wikilink")のリーグ戦に参加している。
+**スウォンジー・シティ・アソシエイション・フットボール・クラブ**（**Swansea City Association Football Club** ; ）は、[ウェールズ](../Page/ウェールズ.md "wikilink")南部の都市[スウォンジー](../Page/スウォンジー.md "wikilink")をホームタウンとするプロサッカークラブ。ウェールズのクラブだが、[イングランド](../Page/イングランド.md "wikilink")のリーグ戦に参加している。
 
 ## 歴史
 
 [1912年](../Page/1912年.md "wikilink")に**スウォンジー・タウン**（）のクラブ名で創設された。スウォンジーが市の地位を得たことをうけて、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")に**スウォンジー・シティ**に改称された。
 
-1978年3月に[ジョン・トシャック](https://ja.wikipedia.org/wiki/ジョン・トシャック "wikilink")が監督に就任した当初はフォース・ディヴィジョン（4部）所属だったが、彼の指揮下で昇格を繰り返し、1981-82シーズンにファースト・ディヴィジョン（1部）に初昇格した。イングランドトップリーグの経験があるウェールズのクラブは、スウォンジー・シティと[カーディフ・シティの](https://ja.wikipedia.org/wiki/カーディフ・シティFC "wikilink")2クラブのみである。昇格初年度は22チーム中6位と健闘したが、翌1982-83シーズンは21位となり降格した。
+1978年3月に[ジョン・トシャック](https://ja.wikipedia.org/wiki/ジョン・トシャック "wikilink")が監督に就任した当初はフォース・ディヴィジョン（4部）所属だったが、彼の指揮下で昇格を繰り返し、1981-82シーズンにファースト・ディヴィジョン（1部）に初昇格した。イングランドトップリーグの経験があるウェールズのクラブは、スウォンジー・シティと[カーディフ・シティの](../Page/カーディフ・シティFC.md "wikilink")2クラブのみである。昇格初年度は22チーム中6位と健闘したが、翌1982-83シーズンは21位となり降格した。
 
-2010-11シーズンにチャンピオンシップで3位となり、プレーオフで[レディングに勝利してウェールズのクラブとして初の](https://ja.wikipedia.org/wiki/レディングFC "wikilink")[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")昇格を果たした。2012-13シーズン、ウェールズに本拠地をおくチームとしては初となる[フットボールリーグカップ](https://ja.wikipedia.org/wiki/フットボールリーグカップ "wikilink")制覇を成し遂げた。
+2010-11シーズンにチャンピオンシップで3位となり、プレーオフで[レディングに勝利してウェールズのクラブとして初の](../Page/レディングFC.md "wikilink")[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")昇格を果たした。2012-13シーズン、ウェールズに本拠地をおくチームとしては初となる[フットボールリーグカップ](https://ja.wikipedia.org/wiki/フットボールリーグカップ "wikilink")制覇を成し遂げた。
 
 リーグ戦以外での主な戦績としては、上記のフットボールリーグカップ優勝の他には、2度の[FAカップ](../Page/FAカップ.md "wikilink")準決勝進出（1926、1964）、ウェールズの国内カップ戦である[ウェルシュカップ](https://ja.wikipedia.org/wiki/ウェルシュカップ "wikilink")および[FAWプレミアカップ](https://ja.wikipedia.org/wiki/FAWプレミアカップ "wikilink")での優勝、1982-83シーズンの[UEFAカップウィナーズカップ](../Page/UEFAカップウィナーズカップ.md "wikilink")2回戦進出などがある。
 
@@ -58,11 +58,11 @@
 
 ### 1試合最多観客動員数
 
-  - 19,288人 vs[ヨーヴィル・タウンFC](https://ja.wikipedia.org/wiki/ヨーヴィル・タウンFC "wikilink") [フットボールリーグ1](https://ja.wikipedia.org/wiki/フットボールリーグ1 "wikilink") 2005.11.18
+  - 19,288人 vs[ヨーヴィル・タウンFC](../Page/ヨーヴィル・タウンFC.md "wikilink") [フットボールリーグ1](https://ja.wikipedia.org/wiki/フットボールリーグ1 "wikilink") 2005.11.18
 
 ### 最多得点勝利試合
 
-  - 8-0 vs[ハートリプール・ユナイテッドFC](https://ja.wikipedia.org/wiki/ハートリプール・ユナイテッドFC "wikilink") ディヴィジョン4 1978.4.1
+  - 8-0 vs[ハートリプール・ユナイテッドFC](../Page/ハートリプール・ユナイテッドFC.md "wikilink") ディヴィジョン4 1978.4.1
 
 ### 最多失点敗戦試合
 
@@ -131,7 +131,7 @@
 <td><p>1961-62</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1961-62" title="wikilink">UEFAカップウィナーズカップ</a></p></td>
 <td><p>予備予選</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCカールツァイス・イェーナ" title="wikilink">カールツァイス・イェーナ</a></p></td>
+<td><p><a href="../Page/FCカールツァイス・イェーナ.md" title="wikilink">カールツァイス・イェーナ</a></p></td>
 <td><p>2–2</p></td>
 <td><p>1–5</p></td>
 <td><p>'''3–7</p></td>
@@ -161,7 +161,7 @@
 <td><p>1982-83</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1982-83" title="wikilink">UEFAカップウィナーズカップ</a></p></td>
 <td><p>予備予選</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SCブラガ" title="wikilink">ブラガ</a></p></td>
+<td><p><a href="../Page/SCブラガ.md" title="wikilink">ブラガ</a></p></td>
 <td><p>3–0</p></td>
 <td><p>0–1</p></td>
 <td><p>'''3–1</p></td>
@@ -191,7 +191,7 @@
 <td><p>1983-84</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1983-84" title="wikilink">UEFAカップウィナーズカップ</a></p></td>
 <td><p>予備予選</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1.FCマクデブルク" title="wikilink">マクデブルク</a></p></td>
+<td><p><a href="../Page/1.FCマクデブルク.md" title="wikilink">マクデブルク</a></p></td>
 <td><p>1–1</p></td>
 <td><p>0–1</p></td>
 <td><p>'''1–2</p></td>
@@ -211,7 +211,7 @@
 <td><p>1991-92</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1991-92" title="wikilink">UEFAカップウィナーズカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ASモナコ" title="wikilink">モナコ</a></p></td>
+<td><p><a href="../Page/ASモナコ.md" title="wikilink">モナコ</a></p></td>
 <td><p>1–2</p></td>
 <td><p>0–8</p></td>
 <td><p>'''1–10</p></td>
@@ -221,7 +221,7 @@
 <td><p>2013-14</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2013-14" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マルメFF" title="wikilink">マルメFF</a></p></td>
+<td><p><a href="../Page/マルメFF.md" title="wikilink">マルメFF</a></p></td>
 <td><p>4–0</p></td>
 <td><p>0–0</p></td>
 <td><p>'''4–0</p></td>
@@ -258,7 +258,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/バレンシアCF" title="wikilink">バレンシア</a></p></td>
+<td><p><a href="../Page/バレンシアCF.md" title="wikilink">バレンシア</a></p></td>
 <td><p>0–1</p></td>
 <td><p>3–0</p></td>
 <td></td>
@@ -362,11 +362,11 @@
 
   - [ロベルト・マルティネス](https://ja.wikipedia.org/wiki/ロベルト・マルティネス "wikilink") 2007-2009
 
-  - [パウロ・ソウザ](https://ja.wikipedia.org/wiki/パウロ・ソウザ "wikilink") 2009-2010
+  - [パウロ・ソウザ](../Page/パウロ・ソウザ.md "wikilink") 2009-2010
 
   - [ブレンダン・ロジャース](https://ja.wikipedia.org/wiki/ブレンダン・ロジャース "wikilink") 2010-2012
 
-  - [ミカエル・ラウドルップ](https://ja.wikipedia.org/wiki/ミカエル・ラウドルップ "wikilink") 2012-2014
+  - [ミカエル・ラウドルップ](../Page/ミカエル・ラウドルップ.md "wikilink") 2012-2014
 
   - [ギャリー・モンク](https://ja.wikipedia.org/wiki/ギャリー・モンク "wikilink") 2014-2015
 
@@ -398,23 +398,23 @@
 
   - [クリス・コールマン](../Page/クリス・コールマン.md "wikilink") 1987-1991
 
-  - [フランク・ランパード](https://ja.wikipedia.org/wiki/フランク・ランパード "wikilink") 1995-1996
+  - [フランク・ランパード](../Page/フランク・ランパード.md "wikilink") 1995-1996
 
   - [ジョー・アレン](https://ja.wikipedia.org/wiki/ジョー・アレン_\(1990年生のサッカー選手\) "wikilink") 2007-2012
 
-  - [アンドレア・オルランディ](https://ja.wikipedia.org/wiki/アンドレア・オルランディ "wikilink") 2007-2012
+  - [アンドレア・オルランディ](../Page/アンドレア・オルランディ.md "wikilink") 2007-2012
 
   - [アンヘル・ランヘル](https://ja.wikipedia.org/wiki/アンヘル・ランヘル "wikilink") 2007-2018
 
-  - [ベジアン・イドリツァイ](https://ja.wikipedia.org/wiki/ベジアン・イドリツァイ "wikilink") 2009-2010
+  - [ベジアン・イドリツァイ](../Page/ベジアン・イドリツァイ.md "wikilink") 2009-2010
 
   - [クレイグ・ビーティ](../Page/クレイグ・ビーティ.md "wikilink") 2009-2012
 
-  - [シェフキ・クキ](https://ja.wikipedia.org/wiki/シェフキ・クキ "wikilink") 2010
+  - [シェフキ・クキ](../Page/シェフキ・クキ.md "wikilink") 2010
 
   - [スコット・シンクレア](../Page/スコット・シンクレア.md "wikilink") 2010-2012
 
-  - [ルーク・ムーア](https://ja.wikipedia.org/wiki/ルーク・ムーア "wikilink") 2011-2013
+  - [ルーク・ムーア](../Page/ルーク・ムーア.md "wikilink") 2011-2013
 
   - [ミチュ](https://ja.wikipedia.org/wiki/ミゲル・ペレス・クエスタ "wikilink") 2012-2015.11
 

@@ -1,7 +1,7 @@
 > この記事は[THE  -](https://ja.wikipedia.org/wiki/THE__-)から翻訳されています。
 
 
-『**THE 逃走ハイウェイ 〜名古屋-東京〜**』（ザ とうそうハイウェイ なごや とうきょう）は、[タムソフト](https://ja.wikipedia.org/wiki/タムソフト "wikilink")が開発し、[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")より[PlayStation 2で発売された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[SIMPLE 2000シリーズ第](../Page/SIMPLEシリーズ.md "wikilink")68作目の[レースゲーム](../Page/レースゲーム.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink")に発売された。悪党政治家の汚職を暴くため証拠を集めつつ、実際に4時間かけて[東名高速道路](../Page/東名高速道路.md "wikilink")の名古屋〜東京まで逃走する。なお、[爆走デコトラ伝説](https://ja.wikipedia.org/wiki/爆走デコトラ伝説 "wikilink")のように簡潔に走るゲームではなくグラフィックや走行時間まで再現されている。なお、この記事では[2014年](../Page/2014年.md "wikilink")[4月30日](../Page/4月30日.md "wikilink")に[PSVita用に配信された](https://ja.wikipedia.org/wiki/PlayStation_Vita "wikilink")『**THE 逃走ハイウェイ フルブースト 名古屋-東京 激走4時間**』（開発：タムソフト、発売：ディースリー・パブリッシャー）についても説明する。
+『**THE 逃走ハイウェイ 〜名古屋-東京〜**』（ザ とうそうハイウェイ なごや とうきょう）は、[タムソフト](https://ja.wikipedia.org/wiki/タムソフト "wikilink")が開発し、[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")より[PlayStation 2で発売された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[SIMPLE 2000シリーズ第](../Page/SIMPLEシリーズ.md "wikilink")68作目の[レースゲーム](../Page/レースゲーム.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink")に発売された。悪党政治家の汚職を暴くため証拠を集めつつ、実際に4時間かけて[東名高速道路](../Page/東名高速道路.md "wikilink")の名古屋〜東京まで逃走する。なお、[爆走デコトラ伝説](../Page/爆走デコトラ伝説.md "wikilink")のように簡潔に走るゲームではなくグラフィックや走行時間まで再現されている。なお、この記事では[2014年](../Page/2014年.md "wikilink")[4月30日](../Page/4月30日.md "wikilink")に[PSVita用に配信された](https://ja.wikipedia.org/wiki/PlayStation_Vita "wikilink")『**THE 逃走ハイウェイ フルブースト 名古屋-東京 激走4時間**』（開発：タムソフト、発売：ディースリー・パブリッシャー）についても説明する。
 
 以下、『THE 逃走ハイウェイ 〜名古屋-東京〜』を[PS2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、『THE 逃走ハイウェイ フルブースト 名古屋-東京 激走4時間』をVita版とする
 
@@ -45,17 +45,17 @@
 本作は東名高速道路を6つのステージに分けていて、ステージをクリアすると、データをセーブすることができる。途中にはサービスエリアがあり、Vita版ではそこでもセーブできる。ステージごとに難関があり、ステージを追うごとに難易度が上がる。
 
   - ステージ1 名古屋〜岡崎
-    これはどのステージにも共通だが、あちらこちらに検問があり、プレイヤーはそれを突っ切ることになる。大検問は[岡崎IC付近にある](https://ja.wikipedia.org/wiki/岡崎インターチェンジ "wikilink")。
+    これはどのステージにも共通だが、あちらこちらに検問があり、プレイヤーはそれを突っ切ることになる。大検問は[岡崎IC付近にある](../Page/岡崎インターチェンジ.md "wikilink")。
   - ステージ2 岡崎〜浜松
-    このステージでは、所々渋滞している箇所がある。大検問は[豊川IC付近と](../Page/豊川インターチェンジ.md "wikilink")[宇利トンネル](https://ja.wikipedia.org/wiki/宇利トンネル "wikilink")付近、[浜松ICにある](https://ja.wikipedia.org/wiki/浜松インターチェンジ "wikilink")。トレーラーで突っ切っていくと楽に行ける。
+    このステージでは、所々渋滞している箇所がある。大検問は[豊川IC付近と](../Page/豊川インターチェンジ.md "wikilink")[宇利トンネル](../Page/宇利トンネル.md "wikilink")付近、[浜松ICにある](https://ja.wikipedia.org/wiki/浜松インターチェンジ "wikilink")。トレーラーで突っ切っていくと楽に行ける。
   - ステージ3 浜松〜静岡
-    天竜川橋〜[掛川IC](../Page/掛川インターチェンジ.md "wikilink")〜[吉田IC付近には濃霧がかかり](../Page/吉田インターチェンジ.md "wikilink")、視界が非常に悪くなる。[菊川IC](../Page/菊川インターチェンジ.md "wikilink")〜相良牧之原ICには3車線区間（実際は2車線＋[登坂車線](https://ja.wikipedia.org/wiki/登坂車線 "wikilink")）が、[焼津IC](https://ja.wikipedia.org/wiki/焼津インターチェンジ "wikilink")〜[静岡IC間に](../Page/静岡インターチェンジ.md "wikilink")[日本坂TNがある](https://ja.wikipedia.org/wiki/日本坂トンネル "wikilink")。大検問は掛川IC〜菊川IC間、静岡IC付近にある。
+    天竜川橋〜[掛川IC](../Page/掛川インターチェンジ.md "wikilink")〜[吉田IC付近には濃霧がかかり](../Page/吉田インターチェンジ.md "wikilink")、視界が非常に悪くなる。[菊川IC](../Page/菊川インターチェンジ.md "wikilink")〜相良牧之原ICには3車線区間（実際は2車線＋[登坂車線](../Page/登坂車線.md "wikilink")）が、[焼津IC](../Page/焼津インターチェンジ.md "wikilink")〜[静岡IC間に](../Page/静岡インターチェンジ.md "wikilink")[日本坂TNがある](../Page/日本坂トンネル.md "wikilink")。大検問は掛川IC〜菊川IC間、静岡IC付近にある。
   - ステージ4 静岡〜御殿場
-    このステージの難関は渋滞である。[富士IC](https://ja.wikipedia.org/wiki/富士インターチェンジ "wikilink")～[愛鷹PA間では対向車線を逆走できる箇所がある](../Page/愛鷹パーキングエリア.md "wikilink")。
+    このステージの難関は渋滞である。[富士IC](../Page/富士インターチェンジ.md "wikilink")～[愛鷹PA間では対向車線を逆走できる箇所がある](../Page/愛鷹パーキングエリア.md "wikilink")。
   - ステージ5 御殿場〜厚木
     ステージ中には大雨が降る地域がある。
   - ステージ6 厚木〜東京
-    [東京料金所](https://ja.wikipedia.org/wiki/東京料金所 "wikilink")付近では大検問が連続してある。
+    [東京料金所](../Page/東京料金所.md "wikilink")付近では大検問が連続してある。
 
 ## 脚注
 

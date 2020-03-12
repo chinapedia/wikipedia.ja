@@ -1,11 +1,11 @@
 > この記事は[ -Kiss on my Deity-](https://ja.wikipedia.org/wiki/_-Kiss_on_my_Deity-)から翻訳されています。
 
 
-『**タユタマ -Kiss on my Deity-**』（タユタマ キス オン マイ ディアティ）は、[Lump of Sugarにより](https://ja.wikipedia.org/wiki/Lump_of_Sugar "wikilink")[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月11日](../Page/7月11日.md "wikilink")に発売された[パソコンゲーム](../Page/パソコンゲーム.md "wikilink")（[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")）である。
+『**タユタマ -Kiss on my Deity-**』（タユタマ キス オン マイ ディアティ）は、[Lump of Sugarにより](../Page/Lump_of_Sugar.md "wikilink")[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月11日](../Page/7月11日.md "wikilink")に発売された[パソコンゲーム](../Page/パソコンゲーム.md "wikilink")（[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")）である。
 
 「タユタマ」は「揺蕩う魂（たゆたうたましい）」の略、「deity」は「神、女神」の意味。本編エンドロールや公式サイトなどでは、「kiss on my deity」を副題とする場合もある（kissとdeityの頭が小文字）。タイトルロゴは大文字になっている。
 
-[角川書店](../Page/角川書店.md "wikilink")の[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")「[月刊コンプエース](https://ja.wikipedia.org/wiki/月刊コンプエース "wikilink")」2009年1月号（2008年11月26日発売）において[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")版（漫画：[ユキヲ](https://ja.wikipedia.org/wiki/ユキヲ "wikilink")、シナリオ：[ユウヤ](https://ja.wikipedia.org/wiki/ユウヤ "wikilink")）が連載開始。[2009年](../Page/2009年.md "wikilink")4月から6月までは[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")が放送された。
+[角川書店](../Page/角川書店.md "wikilink")の[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")「[月刊コンプエース](../Page/月刊コンプエース.md "wikilink")」2009年1月号（2008年11月26日発売）において[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")版（漫画：[ユキヲ](../Page/ユキヲ.md "wikilink")、シナリオ：[ユウヤ](https://ja.wikipedia.org/wiki/ユウヤ "wikilink")）が連載開始。[2009年](../Page/2009年.md "wikilink")4月から6月までは[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")が放送された。
 
 また、ファンディスクの『**タユタマ -It's happy days-**』が2009年5月29日に発売された。Xbox360版は5pb.より2009年7月30日に発売する予定だったが、諸事情で11月5日に延期\[1\]されている。Xbox360版ではWindows版にあったHシーンは、CGの差し替えとテキストの修正によって性的描写を排除されており、純粋な恋愛AVGとなっている。
 
@@ -13,7 +13,7 @@
 
 ## 概要
 
-本作は、[2007年](../Page/2007年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")にLump of Sugar公式ウェブサイトと、[メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")の月刊アダルトゲーム雑誌『[DENGEKI HIME](https://ja.wikipedia.org/wiki/DENGEKI_HIME "wikilink")』11月号において初公開された。『[Nursery Rhyme -ナーサリィ☆ライム-](https://ja.wikipedia.org/wiki/Nursery_Rhyme_-ナーサリィ☆ライム- "wikilink")』『[いつか、届く、あの空に。](https://ja.wikipedia.org/wiki/いつか、届く、あの空に。 "wikilink")』に続く、Lump of Sugarの第3作目となる[ファンタジー](../Page/ファンタジー.md "wikilink")系[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")で、登場する[ヒロイン](https://ja.wikipedia.org/wiki/ヒロイン "wikilink")の数は4人。[キャラクターデザイン](../Page/キャラクターデザイン.md "wikilink")は前2作と同様、[萌木原ふみたけ](https://ja.wikipedia.org/wiki/萌木原ふみたけ "wikilink")が担当する。発売前から話題となり、[ソフマップ](https://ja.wikipedia.org/wiki/ソフマップ "wikilink")アミューズメント館においてLump of Sugar初の殿堂入りを果たし、5月発売のDENGEKI HIME、[PUSH\!\!](https://ja.wikipedia.org/wiki/PUSH!! "wikilink")、[PC Angel neoの三誌全ての表紙を飾った](https://ja.wikipedia.org/wiki/PC_Angel_neo "wikilink")。2008年12月20日に「[TECH GIAN](https://ja.wikipedia.org/wiki/TECH_GIAN "wikilink")」「[PUSH\!\!](https://ja.wikipedia.org/wiki/PUSH!! "wikilink")」両雑誌にてテレビアニメ化が発表された。2016年9月23日には、これの続編となる『[タユタマ2 -you're the only one-](https://ja.wikipedia.org/wiki/タユタマ2_-you're_the_only_one- "wikilink")』が発売された。
+本作は、[2007年](../Page/2007年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")にLump of Sugar公式ウェブサイトと、[メディアワークス](../Page/メディアワークス.md "wikilink")の月刊アダルトゲーム雑誌『[DENGEKI HIME](../Page/DENGEKI_HIME.md "wikilink")』11月号において初公開された。『[Nursery Rhyme -ナーサリィ☆ライム-](../Page/Nursery_Rhyme_-ナーサリィ☆ライム-.md "wikilink")』『[いつか、届く、あの空に。](../Page/いつか、届く、あの空に。.md "wikilink")』に続く、Lump of Sugarの第3作目となる[ファンタジー](../Page/ファンタジー.md "wikilink")系[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")で、登場する[ヒロイン](../Page/ヒロイン.md "wikilink")の数は4人。[キャラクターデザイン](../Page/キャラクターデザイン.md "wikilink")は前2作と同様、[萌木原ふみたけ](../Page/萌木原ふみたけ.md "wikilink")が担当する。発売前から話題となり、[ソフマップ](../Page/ソフマップ.md "wikilink")アミューズメント館においてLump of Sugar初の殿堂入りを果たし、5月発売のDENGEKI HIME、[PUSH\!\!](../Page/PUSH!!.md "wikilink")、[PC Angel neoの三誌全ての表紙を飾った](../Page/PC_Angel_neo.md "wikilink")。2008年12月20日に「[TECH GIAN](../Page/TECH_GIAN.md "wikilink")」「[PUSH\!\!](../Page/PUSH!!.md "wikilink")」両雑誌にてテレビアニメ化が発表された。2016年9月23日には、これの続編となる『[タユタマ2 -you're the only one-](https://ja.wikipedia.org/wiki/タユタマ2_-you're_the_only_one- "wikilink")』が発売された。
 
 ## あらすじ
 
@@ -25,7 +25,7 @@
 
 ## 世界観
 
-[作品](https://ja.wikipedia.org/wiki/作品 "wikilink")の舞台となるのは[現代](https://ja.wikipedia.org/wiki/現代 "wikilink")の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")に程近い世界であるが、やや[和風](https://ja.wikipedia.org/wiki/和風 "wikilink")かつ伝奇的な要素も取り入れられた[世界観](../Page/世界観.md "wikilink")で構成されている。 また、本作の500年後の世界が「[ナーサリィ☆ライム](https://ja.wikipedia.org/wiki/Nursery_Rhyme_-ナーサリィ☆ライム- "wikilink")」である事が、「タユタマ ビジュアルファンブック」（本作の初回限定版の特典として付属）に記載されている。さらに、本作の50年後の世界が『[タユタマ2](https://ja.wikipedia.org/wiki/タユタマ2_-you're_the_only_one- "wikilink")』であるとされる。
+[作品](https://ja.wikipedia.org/wiki/作品 "wikilink")の舞台となるのは[現代](https://ja.wikipedia.org/wiki/現代 "wikilink")の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")に程近い世界であるが、やや[和風](../Page/和風.md "wikilink")かつ伝奇的な要素も取り入れられた[世界観](../Page/世界観.md "wikilink")で構成されている。 また、本作の500年後の世界が「[ナーサリィ☆ライム](../Page/Nursery_Rhyme_-ナーサリィ☆ライム-.md "wikilink")」である事が、「タユタマ ビジュアルファンブック」（本作の初回限定版の特典として付属）に記載されている。さらに、本作の50年後の世界が『[タユタマ2](https://ja.wikipedia.org/wiki/タユタマ2_-you're_the_only_one- "wikilink")』であるとされる。
 
 ## 登場人物
 
@@ -34,30 +34,30 @@
 ### メインキャラクター
 
   - 泉戸 裕理（みと ゆうり）
-    声 - なし / [日野聡](https://ja.wikipedia.org/wiki/日野聡 "wikilink")、[永見はるか](https://ja.wikipedia.org/wiki/永見はるか "wikilink")（女装時）、[髙山ゆうこ](https://ja.wikipedia.org/wiki/高山ゆうこ "wikilink")（幼少期）※いずれもアニメ版のみ
-    本作の[主人公](https://ja.wikipedia.org/wiki/主人公 "wikilink")。創聖学院一般学部（スライトリー）の男子生徒で、カリキュラムS受講生（最上級生）。実家が[神社](https://ja.wikipedia.org/wiki/神社 "wikilink")であるため、[神道](../Page/神道.md "wikilink")に関する知識が豊富。バイクや自動車などの機械いじりが好きで一級整備士や設計士に憧れているが、その趣味に打ち込み過ぎるあまり変人扱いされることもある。勉強もスポーツも人並みにこなすことができるが、嫌いな科目の授業では堂々と居眠りをしていたり、自宅にはアダルトDVDを大量に隠し持っていたりという一面もある。また、八衢の血統であるがために「退魔の霊能」という太転依に対し絶対的な力を持っている。その力を自覚していない裕理だったが、「ましろ」との約束を守るために「人間と太転依が共存できる世界」のために、太転依との戦いに身を投じていく。
+    声 - なし / [日野聡](../Page/日野聡.md "wikilink")、[永見はるか](../Page/永見はるか.md "wikilink")（女装時）、[髙山ゆうこ](https://ja.wikipedia.org/wiki/高山ゆうこ "wikilink")（幼少期）※いずれもアニメ版のみ
+    本作の[主人公](../Page/主人公.md "wikilink")。創聖学院一般学部（スライトリー）の男子生徒で、カリキュラムS受講生（最上級生）。実家が[神社](https://ja.wikipedia.org/wiki/神社 "wikilink")であるため、[神道](../Page/神道.md "wikilink")に関する知識が豊富。バイクや自動車などの機械いじりが好きで一級整備士や設計士に憧れているが、その趣味に打ち込み過ぎるあまり変人扱いされることもある。勉強もスポーツも人並みにこなすことができるが、嫌いな科目の授業では堂々と居眠りをしていたり、自宅にはアダルトDVDを大量に隠し持っていたりという一面もある。また、八衢の血統であるがために「退魔の霊能」という太転依に対し絶対的な力を持っている。その力を自覚していない裕理だったが、「ましろ」との約束を守るために「人間と太転依が共存できる世界」のために、太転依との戦いに身を投じていく。
     50年後となる『タユタマ2』ではましろと結婚し、娘のこはくを設けている。
     アニメ版ではバイクに対する偏見や悪口を言われると異常なまでに不機嫌になり発言した美冬を追い返すなどの言動が目立つ性格となっており、ましろ達を化け物と呼んだアメリにもいきなり怒鳴りつけるなど感情的な部分が強調されている。精霊が見えたことで美冬にセクハラまがいの行動をとったり、好意を寄せてくれていたアメリの部屋にましろとカップル同然の様子で訪問するなど女性からの好意に鈍感という設定も追加された。
     アニメ最終話は『タユタマ2』にはつながらないラストとなっており、自身の退魔の力を制御できずましろを救うことはできずに終わってしまう。（ましろの消滅は避けれても長期の眠りにつかせてしまうことになる。）文明が滅び水没した数百年後の世界では裕理とましろに似た人物がバイクに乗っている様子が描かれているが、本人たちがどうかは明らかにされていない。
   - 泉戸 ましろ（みと ましろ）
-    声 - [松田理沙](https://ja.wikipedia.org/wiki/松田理沙 "wikilink") / [力丸乃りこ](https://ja.wikipedia.org/wiki/力丸乃りこ "wikilink")
-    身長：165cm [スリーサイズ](https://ja.wikipedia.org/wiki/スリーサイズ "wikilink")：B86(D[カップ](https://ja.wikipedia.org/wiki/ブラジャー#サイズ "wikilink"))/W57/H88cm\[3\] 誕生日：4月3日[血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")：O型。
-    本作のメイン[ヒロイン](https://ja.wikipedia.org/wiki/ヒロイン "wikilink")。始業式の日に裕理の前に現れた謎の美少女。その正体は悠久の時を生きる霊的存在「太転依」であり、不思議な術を使うことができる。復活当時は幼女の姿だったが、のちに少女の姿へと一夜にして成長する。神通力を使いすぎると神気が足りなくなり、幼女に戻ることも。恋愛にとても積極的で、裕理に出会ったその日から彼の妻を自称して猛烈なアタックをし、そのまま泉戸家に住み着くようになった。外見はほとんど人間と変わらないが狐のような耳と尻尾が付いている。やや世間知らずで知識が古く、最新の家電製品などには疎い。携帯電話は、電話機能とアドレス帳だけの老人にも安心用しか使えない（下手に触っていると電話が爆発する）。カラオケでは、マイクに振れただけで、ハウリングを起こす。創聖学院女子学部（フローレス）カリキュラムS受講生（最上級生）。「ましろ」という名は裕理につけてもらったもので、彼女が気に入っていた[マシュマロ](../Page/マシュマロ.md "wikilink")に由来（アメリはまろまろと呼んでいる）。現在の姿に化成する以前は「綺久羅美守毘売（きくらみかみのひめ）」と言う太転依だった。以前の思想を引き継ぎ裕理と一緒に「人間と太転依が共存できる世界」を創ろうとしているらしい。
+    声 - [松田理沙](../Page/松田理沙.md "wikilink") / [力丸乃りこ](../Page/力丸乃りこ.md "wikilink")
+    身長：165cm [スリーサイズ](../Page/スリーサイズ.md "wikilink")：B86(D[カップ](https://ja.wikipedia.org/wiki/ブラジャー#サイズ "wikilink"))/W57/H88cm\[3\] 誕生日：4月3日[血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")：O型。
+    本作のメイン[ヒロイン](../Page/ヒロイン.md "wikilink")。始業式の日に裕理の前に現れた謎の美少女。その正体は悠久の時を生きる霊的存在「太転依」であり、不思議な術を使うことができる。復活当時は幼女の姿だったが、のちに少女の姿へと一夜にして成長する。神通力を使いすぎると神気が足りなくなり、幼女に戻ることも。恋愛にとても積極的で、裕理に出会ったその日から彼の妻を自称して猛烈なアタックをし、そのまま泉戸家に住み着くようになった。外見はほとんど人間と変わらないが狐のような耳と尻尾が付いている。やや世間知らずで知識が古く、最新の家電製品などには疎い。携帯電話は、電話機能とアドレス帳だけの老人にも安心用しか使えない（下手に触っていると電話が爆発する）。カラオケでは、マイクに振れただけで、ハウリングを起こす。創聖学院女子学部（フローレス）カリキュラムS受講生（最上級生）。「ましろ」という名は裕理につけてもらったもので、彼女が気に入っていた[マシュマロ](../Page/マシュマロ.md "wikilink")に由来（アメリはまろまろと呼んでいる）。現在の姿に化成する以前は「綺久羅美守毘売（きくらみかみのひめ）」と言う太転依だった。以前の思想を引き継ぎ裕理と一緒に「人間と太転依が共存できる世界」を創ろうとしているらしい。
     50年後となる『タユタマ2』では裕理と結婚し、娘のこはくを設けている。
     アニメ最終話は『タユタマ2』にはつながらないラストとなっており、ましろは消滅しないだけの眠り続ける存在になってしまい、その後どうなったかは不明のまま終わってしまってる。文明が滅び水没した数百年後の世界では裕理とましろに似た人物がバイクに乗っている様子が描かれているが、本人たちがどうかは明らかにされていない。
   - 河合 アメリ（かわい アメリ）
     声 - [花野香](https://ja.wikipedia.org/wiki/花野香 "wikilink") / [下田麻美](https://ja.wikipedia.org/wiki/下田麻美 "wikilink")
     身長：159cm スリーサイズ：B83(Cカップ)/W58/H85cm\[4\] 誕生日：8月9日 血液型：B型
-    ヒロインの一人。裕理の[幼馴染](https://ja.wikipedia.org/wiki/幼馴染 "wikilink")にしてクラスメイト。創聖学院一般学部（スライトリー）カリキュラムS受講生（最上級生）。スライトリーの理事である父（本人曰く『ダディ』）と、大手建設会社の会長である母（本人曰く『マミィ』）を持つお嬢様。昔から裕理とは親しく、家族ぐるみでの付き合いがあった。常時飴玉を携帯しており、これをゆみななどに分ける場面もある。気が強く、裕理をからかうのが好きなマイペース派。裕理に想いを寄せているが、ましろとは逆に恋愛には臆病であるため、友達以上の関係にはなっていない。裕理に猛アタックをするましろのことをライバル視している。その事で、応龍に付入られ手下として利用されてしまうが、ましろの説得で裕理に思いを打ち明ける。西洋人のような名前だがハーフではない。
+    ヒロインの一人。裕理の[幼馴染](../Page/幼馴染.md "wikilink")にしてクラスメイト。創聖学院一般学部（スライトリー）カリキュラムS受講生（最上級生）。スライトリーの理事である父（本人曰く『ダディ』）と、大手建設会社の会長である母（本人曰く『マミィ』）を持つお嬢様。昔から裕理とは親しく、家族ぐるみでの付き合いがあった。常時飴玉を携帯しており、これをゆみななどに分ける場面もある。気が強く、裕理をからかうのが好きなマイペース派。裕理に想いを寄せているが、ましろとは逆に恋愛には臆病であるため、友達以上の関係にはなっていない。裕理に猛アタックをするましろのことをライバル視している。その事で、応龍に付入られ手下として利用されてしまうが、ましろの説得で裕理に思いを打ち明ける。西洋人のような名前だがハーフではない。
     作中には登場しないが、姉が一人いるという設定がある。\[5\]ランプオブシュガーWebノベルでは姉の名前はサーラと判明している。
     50年後となる『タユタマ2』では母から会長職を継いでいる。
   - 小鳥遊 ゆみな（たかなし ゆみな）
     声 - [青戸由羽](https://ja.wikipedia.org/wiki/青戸由羽 "wikilink") / [水橋かおり](../Page/水橋かおり.md "wikilink")
     身長：144.5cm スリーサイズ：B69(AAカップ)/W54/H73cm\[6\] 誕生日：1月22日 血液型：A型
-    フローレスのカリキュラムC受講生。もとは裕福な「天見」家の生まれであったが実家の没落により神社である泉戸家に預けられる。その後、裕理と共に暮らすうち彼を兄と慕うようになった。しかし裕理の母の死によって、今度は「小鳥遊」家の養女となる。気が小さく、あがり性で誰かに見られているとすぐに失敗してしまう。絵を描くことが趣味で、[料理](../Page/料理.md "wikilink")や[裁縫](https://ja.wikipedia.org/wiki/裁縫 "wikilink")など一人でこつこつできる作業が得意。アメリとも仲がよく、またフローレスのミレディ（総代）である如月美冬に強く憧れている。鳳凰とは夫婦喧嘩の一件以来、懐かれている。しかし彼女の頭の上に乗る度に密着状態となり彼女を困惑させている。なお、このキャラクターは本作の原画担当である[萌木原ふみたけ](https://ja.wikipedia.org/wiki/萌木原ふみたけ "wikilink")が所属している同人サークル「[ZIP](https://ja.wikipedia.org/wiki/ZIP "wikilink")」が制作したアダルトゲーム『[Purism×Egoist](https://ja.wikipedia.org/wiki/Purism×Egoist "wikilink")』（ピュリズム エゴイスト）\[7\]に登場する羽根の生えた[アンドロイド](../Page/人造人間.md "wikilink")「ゆみな」がモデルとなっている。
+    フローレスのカリキュラムC受講生。もとは裕福な「天見」家の生まれであったが実家の没落により神社である泉戸家に預けられる。その後、裕理と共に暮らすうち彼を兄と慕うようになった。しかし裕理の母の死によって、今度は「小鳥遊」家の養女となる。気が小さく、あがり性で誰かに見られているとすぐに失敗してしまう。絵を描くことが趣味で、[料理](../Page/料理.md "wikilink")や[裁縫](../Page/裁縫.md "wikilink")など一人でこつこつできる作業が得意。アメリとも仲がよく、またフローレスのミレディ（総代）である如月美冬に強く憧れている。鳳凰とは夫婦喧嘩の一件以来、懐かれている。しかし彼女の頭の上に乗る度に密着状態となり彼女を困惑させている。なお、このキャラクターは本作の原画担当である[萌木原ふみたけ](../Page/萌木原ふみたけ.md "wikilink")が所属している同人サークル「[ZIP](https://ja.wikipedia.org/wiki/ZIP "wikilink")」が制作したアダルトゲーム『[Purism×Egoist](https://ja.wikipedia.org/wiki/Purism×Egoist "wikilink")』（ピュリズム エゴイスト）\[7\]に登場する羽根の生えた[アンドロイド](../Page/人造人間.md "wikilink")「ゆみな」がモデルとなっている。
     50年後となる『タユタマ2』では矢古民町で婦人警官となっている。
   - 如月 美冬（きさらぎ みふゆ）
-    声 - [三咲里奈](https://ja.wikipedia.org/wiki/三咲里奈 "wikilink") / [伊藤静](../Page/伊藤静.md "wikilink")
+    声 - [三咲里奈](../Page/三咲里奈.md "wikilink") / [伊藤静](../Page/伊藤静.md "wikilink")
     身長：169cm スリーサイズ：B79(Bカップ)/W59/H84cm 誕生日：3月1日 血液型：AB型
     ましろと同じフローレスの最上級生にしてミレディ。ミレディとはフローレスの中でも特に優秀な監督生らのリーダーであり、全校生徒と教師たちからの8割以上の支持を得なければ選出されない。名家である如月家に生まれ、幼い頃から厳しく育てられてきた。武芸全般に優れ、特に剣術に長けている。冷静沈着で思慮深く、厳格な性格だが、心の中では束縛から逃れたいと思っている（しかし、言動や態度ではそれに納得したふうをしている）。趣味は[読書](../Page/読書.md "wikilink")で特に「自由な恋愛」を扱ったものが気に入っており、また、自分を慕ってくれるゆみなのことも気にかけている。春休みの間に学院に忍び込んだ裕理たちに疑いのまなざしを向けるが、 太転依（たゆたい）騒動の事実を知り、裕理たちの理想に賛同して頼もしい協力者となる。カラオケに行った事がなく裕理に誘われた際には恥じらいを見せ顔を赤らめた。
     50年後となる『タユタマ2』では如月家の中心的存在となっている。
@@ -75,7 +75,7 @@
     声 - [黒岩圭介](https://ja.wikipedia.org/wiki/黒岩圭介 "wikilink") / [丹沢晃之](../Page/丹沢晃之.md "wikilink")
     アメリの父で、スライトリー代表理事。裕導とは仲がよいが、よく厄介事を押し付けられ、アメリや妻だけではなく多嘉山理事にも頭の上がらない、何かと不運なキャラ。
   - 多嘉山 敏江（たかやま としえ）
-    声 - [名和野恋](https://ja.wikipedia.org/wiki/名和野恋 "wikilink") / [津野田なるみ](https://ja.wikipedia.org/wiki/津野田なるみ "wikilink")
+    声 - [名和野恋](https://ja.wikipedia.org/wiki/名和野恋 "wikilink") / [津野田なるみ](../Page/津野田なるみ.md "wikilink")
     フローレスの理事であり、自身もフローレスの卒業生。学生時代には美冬より3代前のミレディだった。そのためフローレスが絶対と考えており、美冬にも視野が狭いと言われている。
   - 泉戸 裕導（みと ゆうどう）
     声 - [比留間京之介](https://ja.wikipedia.org/wiki/比留間京之介 "wikilink") / [若本規夫](../Page/若本規夫.md "wikilink")
@@ -87,17 +87,17 @@
 ### 太転依
 
   - 綺久羅美守毘売（きくらみかみのひめ）
-    声 - [松永雪希](https://ja.wikipedia.org/wiki/松永雪希 "wikilink") / [永見はるか](https://ja.wikipedia.org/wiki/永見はるか "wikilink")
+    声 - [松永雪希](../Page/松永雪希.md "wikilink") / [永見はるか](../Page/永見はるか.md "wikilink")
     遺跡に宿っていた太転依。四足の獣を統べる最強の太転依で、その力で「三強」と呼ばれる太転依たちを従えていた。裕理たちに自らの化生であるましろを託し、消えていった。
   - 応龍（おうりゅう）
-    声 - [空野太陽](https://ja.wikipedia.org/wiki/空野太陽 "wikilink") / [岸尾だいすけ](../Page/岸尾だいすけ.md "wikilink")
+    声 - [空野太陽](../Page/空野太陽.md "wikilink") / [岸尾だいすけ](../Page/岸尾だいすけ.md "wikilink")
     綺久羅美守毘売によって封印されていた「三強」の一角。鱗持つ水棲の生物を統べる。「三強」の中では最も凶暴で力が強く、本作では確実に[悪役](https://ja.wikipedia.org/wiki/悪役 "wikilink")な立ち位置にいる。綺久羅美守毘売が目指す「人と太転依の共存」に対し最も苛烈に反対している。
     名前の通り、本来は竜の姿だが、人間の姿に化けることができる。その時の姿は白いスーツを着た銀髪の目つきが鋭い男。裕理とましろの関係に嫉妬するアメリの心に付け込み、策を巡らす。
     事件が解決した後はアメリの家の庭の池に住み着き、アメリから「ヨリトモ」の名を与えられる（アニメ版では、その設定はなく、その後は不明）。
     共存に反対するのは過去の経験上難しいと考えているからで特に人間を嫌っているからという理由ではない。アメリのことを気に入っているのも本当で、事件解決後は何だかんだ文句を言いながらもアメリの言うことには逆らわなくなる。
     なお、「ぴゅあ・まい・は〜と（[後述](https://ja.wikipedia.org/wiki/#映像特典 "wikilink")）」では本編のシリアスさは消え、覗きをしたほかの男性キャラの制裁の巻き添えを喰らったり、[缶けり](../Page/缶けり.md "wikilink")での理不尽な扱いに泣き出しそうになるなど、本編とのギャップが最も大きいキャラクターとして描かれている（あろうことか加害者は大抵、本編でも因縁のあるアメリである）。
   - 鵺（ぬえ）
-    声 - [水鏡](../Page/水鏡_\(声優\).md "wikilink") / [中川里江](https://ja.wikipedia.org/wiki/中川里江 "wikilink")
+    声 - [水鏡](../Page/水鏡_\(声優\).md "wikilink") / [中川里江](../Page/中川里江.md "wikilink")
     綺久羅美守毘売によって封印されていた「三強」の一角。節足の虫たちや甲殻類を統べる。直接的な戦闘力は低いが「三強」の中では最も狡賢く、特に幻術の類を得意とする。鵺といっても所謂妖怪の[鵺](../Page/鵺.md "wikilink")のことではなく、半透明の軟体動物のような身体に触角の生えた仮面のような顔の奇怪な姿をしており、「正体不明の生物」を指す語として「鵺」が当てられている。
     触手でましろを締め上げた。
     実は普段見せている姿は幻術によって作り出したものであり、本来の姿は黒い着物を着た幼女。「〜じゃ」と平安貴族のような口調で喋るが、見た目どおりの精神年齢であり、彼女の騒動も単なる好奇心が動機となっていた。
@@ -105,28 +105,28 @@
     Xbox 360版ではヒロインに昇格。
     50年後となる『タユタマ2 -After Stories-』では矢古民町で行われる「人太祭」でローカルアイドルを売り出す企画のプロデューサーをしている。
   - 鳳凰（ほうおう）
-    声 - ？ / [市来光弘](https://ja.wikipedia.org/wiki/市来光弘 "wikilink")（ホウ）、[あおきさやか](https://ja.wikipedia.org/wiki/あおきさやか "wikilink")（オウ）
+    声 - ？ / [市来光弘](../Page/市来光弘.md "wikilink")（ホウ）、[あおきさやか](../Page/あおきさやか.md "wikilink")（オウ）
     綺久羅美守毘売によって封印されていた「三強」の一角。翼持つ空の者を統べる。雄の「鳳」と雌の「凰」、二体で一組の太転依であり、仲の良い夫婦らしい。それ故、夫婦円満の象徴ともされている。
     前者は青、後者は赤の巨大な鳥の姿だが、力を失うと不細工な雛の姿になる。また人間の言葉を話す事はできない。
     ホウは、無類の雌（女）好きで、オウは、ヤキモチ焼きで、嫉妬深い。その事で、夫婦喧嘩となり、ゆみなを巻き込んで大騒動を巻き起こす。夫婦喧嘩が解決した後、ゆみなに懐くようになる。ゆみなの頭の上に乗っている間は密着状態となり、ゆみな自身が鳳凰を抜く事は出来ない。
 
 ## 制作スタッフ
 
-  - [原画](../Page/原画.md "wikilink") - [萌木原ふみたけ](https://ja.wikipedia.org/wiki/萌木原ふみたけ "wikilink")
+  - [原画](../Page/原画.md "wikilink") - [萌木原ふみたけ](../Page/萌木原ふみたけ.md "wikilink")
   - [シナリオ](../Page/脚本.md "wikilink") - [史方千尋](https://ja.wikipedia.org/wiki/永元千尋 "wikilink")
-  - [音楽](../Page/ゲームミュージック.md "wikilink") - [大川茂伸](https://ja.wikipedia.org/wiki/大川茂伸 "wikilink")
-  - [ムービー](https://ja.wikipedia.org/wiki/ムービー "wikilink") - 神月社/えん (the Imaging Studio [Mju:z](https://ja.wikipedia.org/wiki/Mju:z "wikilink"))
+  - [音楽](../Page/ゲームミュージック.md "wikilink") - [大川茂伸](../Page/大川茂伸.md "wikilink")
+  - [ムービー](../Page/ムービー.md "wikilink") - 神月社/えん (the Imaging Studio [Mju:z](../Page/Mju:z.md "wikilink"))
   - [プロデューサー](../Page/プロデューサー.md "wikilink") - かわうそ
-  - 制作 - [Lump of Sugar](https://ja.wikipedia.org/wiki/Lump_of_Sugar "wikilink")
+  - 制作 - [Lump of Sugar](../Page/Lump_of_Sugar.md "wikilink")
 
 ## 主題歌
 
 ### \-Kiss on my Deity-
 
   - ファーストオープニングテーマ「こんな春の空を」
-    歌 - [霜月はるか](https://ja.wikipedia.org/wiki/霜月はるか "wikilink") / 作詞 - 白峰美津子 / 作曲 - [虹音](../Page/松田彬人.md "wikilink") / 編曲 - [井上日徳](https://ja.wikipedia.org/wiki/井上日徳 "wikilink") / 製作 - [TEAM Entertainment](https://ja.wikipedia.org/wiki/ティームエンタテインメント "wikilink")
+    歌 - [霜月はるか](../Page/霜月はるか.md "wikilink") / 作詞 - 白峰美津子 / 作曲 - [虹音](../Page/松田彬人.md "wikilink") / 編曲 - [井上日徳](https://ja.wikipedia.org/wiki/井上日徳 "wikilink") / 製作 - [TEAM Entertainment](https://ja.wikipedia.org/wiki/ティームエンタテインメント "wikilink")
   - セカンドオープニングテーマ「瞬間スプライン」
-    歌 - [Kicco](https://ja.wikipedia.org/wiki/Kicco "wikilink") / 作詞・作曲 - [志倉千代丸](https://ja.wikipedia.org/wiki/志倉千代丸 "wikilink") / 編曲 - [村上純](https://ja.wikipedia.org/wiki/村上純_\(音楽家\) "wikilink") / 製作 - [5pb.](https://ja.wikipedia.org/wiki/5pb. "wikilink")
+    歌 - [Kicco](https://ja.wikipedia.org/wiki/Kicco "wikilink") / 作詞・作曲 - [志倉千代丸](../Page/志倉千代丸.md "wikilink") / 編曲 - [村上純](https://ja.wikipedia.org/wiki/村上純_\(音楽家\) "wikilink") / 製作 - [5pb.](../Page/5pb..md "wikilink")
   - エンディングテーマ「虹を見つけたような色で」
     歌 - 霜月はるか / 作詞 - 白峰美津子 / 作曲 - 浅井裕子 / 編曲 - 井上日徳 / 製作 - TEAM Entertainment
   - 挿入歌「Cherry」
@@ -153,13 +153,13 @@
 ### キャラクター挿入歌
 
   - 「Marital vows」
-    歌 - 泉戸ましろ（[松田理沙](https://ja.wikipedia.org/wiki/松田理沙 "wikilink")） / 作詞 - 涼森有羽子 / 作曲 - 大川茂伸 / 編曲 - B.T.W
+    歌 - 泉戸ましろ（[松田理沙](../Page/松田理沙.md "wikilink")） / 作詞 - 涼森有羽子 / 作曲 - 大川茂伸 / 編曲 - B.T.W
   - 「ごーいんぐまいうぇい」
     歌 - 河合アメリ（[花野香](https://ja.wikipedia.org/wiki/花野香 "wikilink")） / 作詞 - オーロラ / 作曲 - 大川茂伸 / 編曲 - 秋元直也
   - 「Flower doll」
     歌 - 小鳥遊ゆみな（[青戸由羽](https://ja.wikipedia.org/wiki/青戸由羽 "wikilink")） / 作詞 - 青井天使 / 作曲 - 大川茂伸 / 編曲 - 越智健二
   - 「Rainy Pain」
-    歌 - 如月美冬（[三咲里奈](https://ja.wikipedia.org/wiki/三咲里奈 "wikilink")） / 作詞 - AKKO / 作曲 - 大川茂伸 / 編曲 - Crystal☆GATE
+    歌 - 如月美冬（[三咲里奈](../Page/三咲里奈.md "wikilink")） / 作詞 - AKKO / 作曲 - 大川茂伸 / 編曲 - Crystal☆GATE
 
 ## タユタマ応援フェア
 
@@ -168,47 +168,47 @@
   - 第2弾 応援バナーキャンペーン
       - 2008年3月7日から7月27日まで行われる応援バナーのリンク登録キャンペーン。抽選でタユタマ関係の景品が贈られた。
   - 第3弾 タユタマ体験版配布会場ご来場ありがとうキャンペーン
-      - 東京、大阪の[DreamParty](https://ja.wikipedia.org/wiki/DreamParty "wikilink")2008春や、地方都市も含め、全国を巡った全国キャラバンで配布された体験版についている手紙に、タユタマ本体を買うと付いてくるシールを添付して送ると、第一弾の創生学園学生証の特製バージョンがもらえる。学生証のキャラクターは、発売後人気投票で1位になったましろ。キャンペーンの締め切りは、手紙が2008年7月末日必着で、2008年10月下旬以降に学生証が発送された。
+      - 東京、大阪の[DreamParty](../Page/DreamParty.md "wikilink")2008春や、地方都市も含め、全国を巡った全国キャラバンで配布された体験版についている手紙に、タユタマ本体を買うと付いてくるシールを添付して送ると、第一弾の創生学園学生証の特製バージョンがもらえる。学生証のキャラクターは、発売後人気投票で1位になったましろ。キャンペーンの締め切りは、手紙が2008年7月末日必着で、2008年10月下旬以降に学生証が発送された。
 
 ## コラボレーション企画
 
-  - Lump of Sugarと[あかべぇそふとつぅ](https://ja.wikipedia.org/wiki/あかべぇそふとつぅ "wikilink")の合同企画として、2008年5月29日発売の『[G線上の魔王](https://ja.wikipedia.org/wiki/G線上の魔王 "wikilink")』（あかべぇそふとつぅ）の製品版に『タユタマ -Kiss on my Deity-』[体験版](https://ja.wikipedia.org/wiki/体験版 "wikilink")が、7月11日発売の『タユタマ -Kiss on my Deity-』製品版に『[W.L.O. 世界恋愛機構](https://ja.wikipedia.org/wiki/W.L.O._世界恋愛機構 "wikilink")』（あかべぇそふとつぅ）の体験版が付属された。
-  - また、Lump of Sugarの『タユタマ -It's happy days-』と[ゆずソフト](https://ja.wikipedia.org/wiki/ゆずソフト "wikilink")の『[天神乱漫 -LUCKY or UNLUCKY\!?-](https://ja.wikipedia.org/wiki/天神乱漫_-LUCKY_or_UNLUCKY!?- "wikilink")』が同じ2009年5月29日発売予定であったことから、両作品のキャラクターが描かれた共存バナーを使ったキャンペーンを実施。これは、3月13日〜6月30日までの間にこのバナーを自分のホームページに貼って登録すると、メーカー共同のグッズが当たるという企画である。
+  - Lump of Sugarと[あかべぇそふとつぅ](https://ja.wikipedia.org/wiki/あかべぇそふとつぅ "wikilink")の合同企画として、2008年5月29日発売の『[G線上の魔王](../Page/G線上の魔王.md "wikilink")』（あかべぇそふとつぅ）の製品版に『タユタマ -Kiss on my Deity-』[体験版](../Page/体験版.md "wikilink")が、7月11日発売の『タユタマ -Kiss on my Deity-』製品版に『[W.L.O. 世界恋愛機構](https://ja.wikipedia.org/wiki/W.L.O._世界恋愛機構 "wikilink")』（あかべぇそふとつぅ）の体験版が付属された。
+  - また、Lump of Sugarの『タユタマ -It's happy days-』と[ゆずソフト](../Page/ゆずソフト.md "wikilink")の『[天神乱漫 -LUCKY or UNLUCKY\!?-](https://ja.wikipedia.org/wiki/天神乱漫_-LUCKY_or_UNLUCKY!?- "wikilink")』が同じ2009年5月29日発売予定であったことから、両作品のキャラクターが描かれた共存バナーを使ったキャンペーンを実施。これは、3月13日〜6月30日までの間にこのバナーを自分のホームページに貼って登録すると、メーカー共同のグッズが当たるという企画である。
 
 ## 漫画
 
-「[月刊コンプエース](https://ja.wikipedia.org/wiki/月刊コンプエース "wikilink")」2009年1月号（2008年11月26日発売）から2009年7月号（2009年5月26日発売）まで連載された。漫画：[ユキヲ](https://ja.wikipedia.org/wiki/ユキヲ "wikilink")、シナリオ：[ユウヤ](https://ja.wikipedia.org/wiki/ユウヤ "wikilink")。ゲーム本編終了後の後日談的な内容。2008年12月号の次号予告では『タユタマ -Hug on my Deity-』という題名だったが、結局ゲームと同じ題名での連載となった。
+「[月刊コンプエース](../Page/月刊コンプエース.md "wikilink")」2009年1月号（2008年11月26日発売）から2009年7月号（2009年5月26日発売）まで連載された。漫画：[ユキヲ](../Page/ユキヲ.md "wikilink")、シナリオ：[ユウヤ](https://ja.wikipedia.org/wiki/ユウヤ "wikilink")。ゲーム本編終了後の後日談的な内容。2008年12月号の次号予告では『タユタマ -Hug on my Deity-』という題名だったが、結局ゲームと同じ題名での連載となった。
 
 ## テレビアニメ
 
-[2009年](../Page/2009年.md "wikilink")4月から6月まで[チバテレビほか](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink")[U局](https://ja.wikipedia.org/wiki/UHF局 "wikilink")、[AT-Xにて放送された](../Page/アニメシアターX.md "wikilink")。[SILVER LINK.にとって初の元請制作作品となる](https://ja.wikipedia.org/wiki/SILVER_LINK. "wikilink")。監督は『[School Days](../Page/School_Days_\(アニメ\).md "wikilink")』、『[あかね色に染まる坂](../Page/あかね色に染まる坂.md "wikilink")』を手がけた[元永慶太郎](https://ja.wikipedia.org/wiki/元永慶太郎 "wikilink")。全12話。
+[2009年](../Page/2009年.md "wikilink")4月から6月まで[チバテレビほか](../Page/千葉テレビ放送.md "wikilink")[U局](../Page/UHF局.md "wikilink")、[AT-Xにて放送された](../Page/アニメシアターX.md "wikilink")。[SILVER LINK.にとって初の元請制作作品となる](https://ja.wikipedia.org/wiki/SILVER_LINK. "wikilink")。監督は『[School Days](../Page/School_Days_\(アニメ\).md "wikilink")』、『[あかね色に染まる坂](../Page/あかね色に染まる坂.md "wikilink")』を手がけた[元永慶太郎](../Page/元永慶太郎.md "wikilink")。全12話。
 
 ストーリーとしては原作を意識しつつも裕理の物静かな性格から怒りやすい性格への変更、美冬の貧乳キャラから巨乳キャラへの変更をはじめとしたアニメオリジナル設定もかなり多い。最終話はオリジナル展開により裕理がましろを救う方法を見つけられず別れを迎えてしまう。ましろエンドに準拠して人類が滅亡するほど時間が経過した世界で不老不死となった裕理と復活したましろが水没した廃墟を巡るラストになっている。「人間と太転依が共存できる世界」を達成できなかった最終回となったため、ましろを救い「人間と太転依が共存できる世界」を達成できた未来である『タユタマ2』にはつながらないストーリーとなっている。
 
 ### スタッフ
 
-  - 原作 - [Lump of Sugar](https://ja.wikipedia.org/wiki/Lump_of_Sugar "wikilink")
-  - 監督 - [元永慶太郎](https://ja.wikipedia.org/wiki/元永慶太郎 "wikilink")
+  - 原作 - [Lump of Sugar](../Page/Lump_of_Sugar.md "wikilink")
+  - 監督 - [元永慶太郎](../Page/元永慶太郎.md "wikilink")
   - シリーズ構成 - [上江洲誠](../Page/上江洲誠.md "wikilink")
-  - キャラクター原案 - [萌木原ふみたけ](https://ja.wikipedia.org/wiki/萌木原ふみたけ "wikilink")
+  - キャラクター原案 - [萌木原ふみたけ](../Page/萌木原ふみたけ.md "wikilink")
   - キャラクターデザイン - 大河原晴男
   - クリーチャーデザイン - 門智昭、秋山由樹子
   - 色彩設計 - 末永康子
   - 美術監督 - 下山和人
   - 撮影監督 - 笠井亮平
   - 編集 - たぐまじゅん
-  - 音響監督 - [蝦名恭範](https://ja.wikipedia.org/wiki/蝦名恭範 "wikilink")
-  - 音楽 - [大川茂伸](https://ja.wikipedia.org/wiki/大川茂伸 "wikilink")、蓑部雄崇
+  - 音響監督 - [蝦名恭範](../Page/蝦名恭範.md "wikilink")
+  - 音楽 - [大川茂伸](../Page/大川茂伸.md "wikilink")、蓑部雄崇
   - プロデューサー - 新田達弘、丸山創、萬濃英二、小柳路子
   - アニメーション制作 - [SILVER LINK.](https://ja.wikipedia.org/wiki/SILVER_LINK. "wikilink")
-  - 製作 - タユタマ製作委員会（[メディアファクトリー](../Page/メディアファクトリー.md "wikilink")、[マーベラスエンターテイメント](https://ja.wikipedia.org/wiki/マーベラス_\(企業\) "wikilink")、ラッセル、[5pb.](https://ja.wikipedia.org/wiki/5pb. "wikilink")）
+  - 製作 - タユタマ製作委員会（[メディアファクトリー](../Page/メディアファクトリー.md "wikilink")、[マーベラスエンターテイメント](../Page/マーベラス_\(企業\).md "wikilink")、ラッセル、[5pb.](../Page/5pb..md "wikilink")）
 
 ### 主題歌（アニメ）
 
   - オープニングテーマ「[The fine every day](https://ja.wikipedia.org/wiki/The_fine_every_day "wikilink")」（第1話ではEDで使用、クレジットではOP扱い）
-    作詞・作曲 - [志倉千代丸](https://ja.wikipedia.org/wiki/志倉千代丸 "wikilink") / 編曲 - [水野大輔](https://ja.wikipedia.org/wiki/水野大輔 "wikilink") / 歌 - [Kicco](https://ja.wikipedia.org/wiki/Kicco "wikilink")
+    作詞・作曲 - [志倉千代丸](../Page/志倉千代丸.md "wikilink") / 編曲 - [水野大輔](https://ja.wikipedia.org/wiki/水野大輔 "wikilink") / 歌 - [Kicco](https://ja.wikipedia.org/wiki/Kicco "wikilink")
   - エンディングテーマ「[キズナノ唄](https://ja.wikipedia.org/wiki/キズナノ唄 "wikilink")」（第1話では挿入歌として使用）
-    作詞 - [前田たかひろ](https://ja.wikipedia.org/wiki/前田たかひろ "wikilink") / 作曲・編曲 - [大島こうすけ](https://ja.wikipedia.org/wiki/大島こうすけ "wikilink") / 歌 - [宮崎羽衣](https://ja.wikipedia.org/wiki/宮崎羽衣 "wikilink")
+    作詞 - [前田たかひろ](https://ja.wikipedia.org/wiki/前田たかひろ "wikilink") / 作曲・編曲 - [大島こうすけ](../Page/大島こうすけ.md "wikilink") / 歌 - [宮崎羽衣](../Page/宮崎羽衣.md "wikilink")
   - 挿入歌「永久の恋」（第12話）
     作詞 - 中瀬ひな / 作曲・編曲 - 佐々倉マコト（[Angel Note](../Page/Angel_Note.md "wikilink")） / 歌 - [UMA](https://ja.wikipedia.org/wiki/UMA_\(ユニット\) "wikilink")
 
@@ -242,7 +242,7 @@
 <td><p>1</p></td>
 <td><p>太転依（たゆたい）</p></td>
 <td><p><a href="../Page/上江洲誠.md" title="wikilink">上江洲誠</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/元永慶太郎" title="wikilink">元永慶太郎</a></p></td>
+<td><p><a href="../Page/元永慶太郎.md" title="wikilink">元永慶太郎</a></p></td>
 <td><p>野田めぐみ<br />
 森前和也</p></td>
 <td><p>大河原晴男</p></td>
@@ -270,7 +270,7 @@
 <tr class="even">
 <td><p>4</p></td>
 <td><p>乙女の悩み</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/秋月ひろ" title="wikilink">秋月ひろ</a></p></td>
+<td><p><a href="../Page/秋月ひろ.md" title="wikilink">秋月ひろ</a></p></td>
 <td><p><a href="../Page/ワタナベシンイチ.md" title="wikilink">ワタナベシンイチ</a></p></td>
 <td><p>竹森由加</p></td>
 <td><p>大河原晴男</p></td>
@@ -371,15 +371,15 @@
 
 ### 放送局
 
-| 放送地域                                                  | 放送局                                                       | 放送期間                                                                                                          | 放送日時             | 放送系列                                                                              | 備考       |
-| ----------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ---------------- | --------------------------------------------------------------------------------- | -------- |
-| [千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")   | [チバテレビ](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink") | [2009年](../Page/2009年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink") - [6月21日](../Page/6月21日.md "wikilink") | 日曜 24:30 - 25:00 | [独立UHF局](../Page/全国独立放送協議会.md "wikilink")                                         |          |
-| [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink") | [tvk](../Page/テレビ神奈川.md "wikilink")                       | 日曜 25:30 - 26:00                                                                                              |                  |                                                                                   |          |
-| [中京広域圏](../Page/広域放送.md "wikilink")                   | [中京テレビ](../Page/中京テレビ放送.md "wikilink")                    | 2009年[4月6日](../Page/4月6日.md "wikilink") - [6月22日](../Page/6月22日.md "wikilink")                                | 月曜 27:15 - 27:45 | [日本テレビ](../Page/日本テレビ放送網.md "wikilink")[系列](../Page/日本テレビネットワーク協議会.md "wikilink") |          |
-| [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")   | [TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")         | 2009年[4月7日](../Page/4月7日.md "wikilink") - [6月23日](../Page/6月23日.md "wikilink")                                | 火曜 25:30 - 26:00 | 独立UHF局                                                                            |          |
-| [兵庫県](../Page/兵庫県.md "wikilink")                      | [サンテレビ](../Page/サンテレビジョン.md "wikilink")                   | 2009年[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink") - [6月24日](../Page/6月24日.md "wikilink")             | 水曜 26:10 - 26:40 |                                                                                   |          |
-| [埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")   | [テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")     | 2009年[4月10日](../Page/4月10日.md "wikilink") - [6月26日](../Page/6月26日.md "wikilink")                              | 金曜 25:00 - 25:30 |                                                                                   |          |
-| [日本全域](../Page/全国放送.md "wikilink")                    | [AT-X](../Page/アニメシアターX.md "wikilink")                    | 2009年[4月11日](../Page/4月11日.md "wikilink") - [6月27日](../Page/6月27日.md "wikilink")                              | 土曜 9:00 - 9:30   | [CS放送](https://ja.wikipedia.org/wiki/日本における衛星放送#CS放送 "wikilink")                  | リピート放送あり |
+| 放送地域                                                  | 放送局                                                   | 放送期間                                                                                                          | 放送日時             | 放送系列                                                                              | 備考       |
+| ----------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ---------------- | --------------------------------------------------------------------------------- | -------- |
+| [千葉県](../Page/千葉県.md "wikilink")                      | [チバテレビ](../Page/千葉テレビ放送.md "wikilink")                | [2009年](../Page/2009年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink") - [6月21日](../Page/6月21日.md "wikilink") | 日曜 24:30 - 25:00 | [独立UHF局](../Page/全国独立放送協議会.md "wikilink")                                         |          |
+| [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink") | [tvk](../Page/テレビ神奈川.md "wikilink")                   | 日曜 25:30 - 26:00                                                                                              |                  |                                                                                   |          |
+| [中京広域圏](../Page/広域放送.md "wikilink")                   | [中京テレビ](../Page/中京テレビ放送.md "wikilink")                | 2009年[4月6日](../Page/4月6日.md "wikilink") - [6月22日](../Page/6月22日.md "wikilink")                                | 月曜 27:15 - 27:45 | [日本テレビ](../Page/日本テレビ放送網.md "wikilink")[系列](../Page/日本テレビネットワーク協議会.md "wikilink") |          |
+| [東京都](../Page/東京都.md "wikilink")                      | [TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")     | 2009年[4月7日](../Page/4月7日.md "wikilink") - [6月23日](../Page/6月23日.md "wikilink")                                | 火曜 25:30 - 26:00 | 独立UHF局                                                                            |          |
+| [兵庫県](../Page/兵庫県.md "wikilink")                      | [サンテレビ](../Page/サンテレビジョン.md "wikilink")               | 2009年[4月8日](../Page/4月8日.md "wikilink") - [6月24日](../Page/6月24日.md "wikilink")                                | 水曜 26:10 - 26:40 |                                                                                   |          |
+| [埼玉県](../Page/埼玉県.md "wikilink")                      | [テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink") | 2009年[4月10日](../Page/4月10日.md "wikilink") - [6月26日](../Page/6月26日.md "wikilink")                              | 金曜 25:00 - 25:30 |                                                                                   |          |
+| [日本全域](../Page/全国放送.md "wikilink")                    | [AT-X](../Page/アニメシアターX.md "wikilink")                | 2009年[4月11日](../Page/4月11日.md "wikilink") - [6月27日](../Page/6月27日.md "wikilink")                              | 土曜 9:00 - 9:30   | [CS放送](https://ja.wikipedia.org/wiki/日本における衛星放送#CS放送 "wikilink")                  | リピート放送あり |
 
 ### 映像特典
 
@@ -402,8 +402,8 @@
 
   - アズラエル
       -
-        声：[中川里江](https://ja.wikipedia.org/wiki/中川里江 "wikilink")
-        映像特典オリジナルキャラである、謎の黒猫（っぽい生物）。破れると中からワタが出る。1話では[モグラ叩き](https://ja.wikipedia.org/wiki/モグラ叩き "wikilink")に、2話では喋るネコ、3話ではアメたろう（アメリ）の下僕その1、4話では[たたいてかぶってジャンケンポンでの](../Page/たたいて・かぶって・ジャンケンポン.md "wikilink")「斬られ」役、5巻では女湯に入っていたり[狸の置物になったり](https://ja.wikipedia.org/wiki/信楽焼#狸の置物 "wikilink")、6巻では[亀甲縛り](../Page/亀甲縛り.md "wikilink")にされる、と各話に登場している。EDでは『アズアズシュガー』なるビル（ハリボテ）を建設したが鵺に壊されてしまう。元ネタはLump of Sugarの1作目である『[Nursery Rhyme -ナーサリィ☆ライム-](https://ja.wikipedia.org/wiki/Nursery_Rhyme_-ナーサリィ☆ライム- "wikilink")』に登場する同名のキャラクター。
+        声：[中川里江](../Page/中川里江.md "wikilink")
+        映像特典オリジナルキャラである、謎の黒猫（っぽい生物）。破れると中からワタが出る。1話では[モグラ叩き](../Page/モグラ叩き.md "wikilink")に、2話では喋るネコ、3話ではアメたろう（アメリ）の下僕その1、4話では[たたいてかぶってジャンケンポンでの](../Page/たたいて・かぶって・ジャンケンポン.md "wikilink")「斬られ」役、5巻では女湯に入っていたり[狸の置物になったり](https://ja.wikipedia.org/wiki/信楽焼#狸の置物 "wikilink")、6巻では[亀甲縛り](../Page/亀甲縛り.md "wikilink")にされる、と各話に登場している。EDでは『アズアズシュガー』なるビル（ハリボテ）を建設したが鵺に壊されてしまう。元ネタはLump of Sugarの1作目である『[Nursery Rhyme -ナーサリィ☆ライム-](../Page/Nursery_Rhyme_-ナーサリィ☆ライム-.md "wikilink")』に登場する同名のキャラクター。
 
 ### After Voice Message
 
@@ -411,9 +411,9 @@
 
 ### インターネットラジオ
 
-『タユタマらじお -昼下がりの嫁たち-』のタイトルで、TVアニメ版の放送開始に先立ち、2009年3月9日より[音泉](https://ja.wikipedia.org/wiki/音泉 "wikilink")、3月16日より[メディファクラジオ](../Page/メディファクラジオ.md "wikilink")にて配信された（隔週月曜日更新）。2009年7月13日に終了。全10回。
+『タユタマらじお -昼下がりの嫁たち-』のタイトルで、TVアニメ版の放送開始に先立ち、2009年3月9日より[音泉](../Page/音泉.md "wikilink")、3月16日より[メディファクラジオ](../Page/メディファクラジオ.md "wikilink")にて配信された（隔週月曜日更新）。2009年7月13日に終了。全10回。
 
-  - パーソナリティは、泉戸ましろ役の[力丸乃りこ](https://ja.wikipedia.org/wiki/力丸乃りこ "wikilink")と河合アメリ役の[下田麻美](https://ja.wikipedia.org/wiki/下田麻美 "wikilink")。
+  - パーソナリティは、泉戸ましろ役の[力丸乃りこ](../Page/力丸乃りこ.md "wikilink")と河合アメリ役の[下田麻美](https://ja.wikipedia.org/wiki/下田麻美 "wikilink")。
   - OP・EDは第1回から第4回まではテレビアニメと同じだったが、第5回より[time〜僕らがまだ知らないチカラ〜](https://ja.wikipedia.org/wiki/キズナノ唄 "wikilink")（宮崎羽衣）がOPとしてながれている。（EDはそのまま）
 
 <!-- end list -->
@@ -422,9 +422,9 @@
 
 :\* 第4回（2009年4月20日）[Kicco](https://ja.wikipedia.org/wiki/Kicco "wikilink")
 
-:\* 第5回（2009年5月4日）[宮崎羽衣](https://ja.wikipedia.org/wiki/宮崎羽衣 "wikilink")
+:\* 第5回（2009年5月4日）[宮崎羽衣](../Page/宮崎羽衣.md "wikilink")
 
-:\* 第9回（2009年6月29日）[日野聡](https://ja.wikipedia.org/wiki/日野聡 "wikilink")
+:\* 第9回（2009年6月29日）[日野聡](../Page/日野聡.md "wikilink")
 
 ## 関連商品
 
@@ -438,9 +438,9 @@
       - タユタマシャワーカーテンセット（2009年8月14日-16日開催「コミックマーケット76」及びインターネット通販にて発売）
   - [テレホンカード](../Page/テレホンカード.md "wikilink")
       - 電撃姫11月号 通販テレカ
-      - [コミックマーケット](../Page/コミックマーケット.md "wikilink")73カタログ [メロンブックス](https://ja.wikipedia.org/wiki/メロンブックス "wikilink")応募キャンペーンテレカ
+      - [コミックマーケット](../Page/コミックマーケット.md "wikilink")73カタログ [メロンブックス](../Page/メロンブックス.md "wikilink")応募キャンペーンテレカ
       - [萌人通販](https://ja.wikipedia.org/wiki/萌人通販 "wikilink") ましろのほのぼのテレカ
-      - [PUSH\!](https://ja.wikipedia.org/wiki/PUSH! "wikilink")6月号 通販テレカ
+      - [PUSH\!](../Page/PUSH!.md "wikilink")6月号 通販テレカ
       - 電撃姫7月号 通販テレカ
   - [CD](../Page/CD-DA.md "wikilink")
       - オープニングテーマ「瞬間スプライン」（2008年[6月27日](../Page/6月27日.md "wikilink")発売）
@@ -449,7 +449,7 @@
       - TVアニメエンディングテーマ「キズナノ唄」（2009年[5月27日](../Page/5月27日.md "wikilink")発売）\[9\]
       - 「タユタマ -Kiss on my Deity-」キャラソン+（2009年[7月24日](../Page/7月24日.md "wikilink")発売）
   - [漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")
-      - [マジキュー](https://ja.wikipedia.org/wiki/マジキュー "wikilink")4コマ 「タユタマ -Kiss on my Deity-」全4巻（[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")刊）
+      - [マジキュー](../Page/マジキュー.md "wikilink")4コマ 「タユタマ -Kiss on my Deity-」全4巻（[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")刊）
           - 第1巻：2009年4月25日発売 ISBN 978-4-7577-4844-6
           - 第2巻：2009年6月25日発売 ISBN 978-4-7577-4926-9
           - 第3巻：2009年8月26日発売 ISBN 978-4-7577-5017-3

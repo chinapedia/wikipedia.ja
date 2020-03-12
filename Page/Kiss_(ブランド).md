@@ -1,7 +1,7 @@
 > この記事は[Kiss \(\)](https://ja.wikipedia.org/wiki/Kiss_\(\))から翻訳されています。
 
 
-**Kiss**（キス）は、株式会社ワークマンの[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランドである。なお、工場・土木現場向け用品専門店チェーンの株式会社[ワークマン](https://ja.wikipedia.org/wiki/ワークマン "wikilink")とは同名だが無関係である。
+**Kiss**（キス）は、株式会社ワークマンの[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランドである。なお、工場・土木現場向け用品専門店チェーンの株式会社[ワークマン](../Page/ワークマン.md "wikilink")とは同名だが無関係である。
 
 ## 概要
 
@@ -23,11 +23,11 @@
       - 2003年[6月27日](../Page/6月27日.md "wikilink") - カスタム隷奴II+
       - [2004年](../Page/2004年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink") - カスタム隷奴II DVD
   - 2004年[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink") - [想い、解き放たれたとき](https://ja.wikipedia.org/wiki/想い、解き放たれたとき "wikilink")
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月22日](../Page/9月22日.md "wikilink") - [カスタム隷奴III](https://ja.wikipedia.org/wiki/カスタム隷奴III "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")[9月22日](../Page/9月22日.md "wikilink") - [カスタム隷奴III](https://ja.wikipedia.org/wiki/カスタム隷奴III "wikilink")
       - 2005年[12月22日](../Page/12月22日.md "wikilink") - カスタム隷奴III Plus
-      - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月24日](../Page/3月24日.md "wikilink") - カスタム隷奴III Special Edition
+      - [2006年](../Page/2006年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink") - カスタム隷奴III Special Edition
   - 2006年[9月29日](../Page/9月29日.md "wikilink") - [カスタム隷奴F](https://ja.wikipedia.org/wiki/カスタム隷奴F "wikilink")
-      - 2006年[12月29日](https://ja.wikipedia.org/wiki/12月29日 "wikilink") - カスタム隷奴F Plus
+      - 2006年[12月29日](../Page/12月29日.md "wikilink") - カスタム隷奴F Plus
       - [2007年](../Page/2007年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink") - カスタム隷奴F Special Edition
   - 2007年[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink") - [××な彼女のつくりかた](https://ja.wikipedia.org/wiki/××な彼女のつくりかた "wikilink")
       - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月23日](../Page/5月23日.md "wikilink") - ××な彼女のつくりかた ハプニング
@@ -128,7 +128,7 @@
 
 <!-- end list -->
 
-  - [2000年](../Page/2000年.md "wikilink")[9月8日](https://ja.wikipedia.org/wiki/9月8日 "wikilink") - カスタムSTUDIO（ゲームではなく、スクリーンセーバーなどの開発ツール）
+  - [2000年](../Page/2000年.md "wikilink")[9月8日](../Page/9月8日.md "wikilink") - カスタムSTUDIO（ゲームではなく、スクリーンセーバーなどの開発ツール）
 
 <!-- end list -->
 

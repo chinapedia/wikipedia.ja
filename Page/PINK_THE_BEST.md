@@ -1,11 +1,11 @@
 > この記事は[PINK THE BEST](https://ja.wikipedia.org/wiki/PINK_THE_BEST)から翻訳されています。
 
 
-**PINK THE BEST**（ピンク・ザ・ベスト）は日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[PINKのベストアルバム](../Page/PINK_\(バンド\).md "wikilink")。[2002年](../Page/2002年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")に[east west japanよりリリースされた](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")。
+**PINK THE BEST**（ピンク・ザ・ベスト）は日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[PINKのベストアルバム](../Page/PINK_\(バンド\).md "wikilink")。[2002年](../Page/2002年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")に[east west japanよりリリースされた](../Page/ワーナーミュージック・ジャパン.md "wikilink")。
 
 ## 内容
 
-凍結してから13年後にリリースされた全曲デジタルリマスターでのベストアルバム。曲によって音飛びが発生しており物議を醸した。[MOON RECORDS時代の過去のシングルまたはアルバムから楽曲をセレクト](https://ja.wikipedia.org/wiki/MOON_RECORDS "wikilink")。未発表曲・未CD化の収録はなしだが「光の子」の曲末途切れなしのトラックが初CD化。
+凍結してから13年後にリリースされた全曲デジタルリマスターでのベストアルバム。曲によって音飛びが発生しており物議を醸した。[MOON RECORDS時代の過去のシングルまたはアルバムから楽曲をセレクト](../Page/MOON_RECORDS.md "wikilink")。未発表曲・未CD化の収録はなしだが「光の子」の曲末途切れなしのトラックが初CD化。
 
 なお、CDジャケットに表記されている「SOUL FIGHT」は「SOUL FLIGHT」の誤りである。（後に誤植は修正された）
 

@@ -195,7 +195,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/アラン・スタッブス" title="wikilink">アラン・スタッブス</a></p></td>
+<td><p><a href="../Page/アラン・スタッブス.md" title="wikilink">アラン・スタッブス</a></p></td>
 <td></td>
 <td><p>2016年6月1日</p></td>
 <td><p>2016年10月19日 </p></td>

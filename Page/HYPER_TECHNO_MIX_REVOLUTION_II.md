@@ -11,7 +11,7 @@
 ## 収録曲
 
 1.  [words of the mind -brandnew journey-](https://ja.wikipedia.org/wiki/words_of_the_mind_-brandnew_journey- "wikilink") / remixed by D-Z
-2.  PLANET☆ROCK / remixed by [RAVEMAN](https://ja.wikipedia.org/wiki/RAVEMAN "wikilink")
+2.  PLANET☆ROCK / remixed by [RAVEMAN](../Page/RAVEMAN.md "wikilink")
 3.  [over drive](https://ja.wikipedia.org/wiki/over_drive_\(m.o.v.eの曲\) "wikilink") / remixed by DJ ZORRO
 4.  Operation Overload 7 / remixed by L.A. STYLE
 5.  [BREAK IN2 THE NITE](../Page/BREAK_IN2_THE_NITE.md "wikilink") / remixed by ileus
@@ -20,7 +20,7 @@
 
 ## 関連項目
 
-  - [2001年の音楽](https://ja.wikipedia.org/wiki/2001年の音楽 "wikilink")
+  - [2001年の音楽](../Page/2001年の音楽.md "wikilink")
   - [テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")
 
 [Category:2001年のリミックス・アルバム](https://ja.wikipedia.org/wiki/Category:2001年のリミックス・アルバム "wikilink") [Category:M.o.v.eのリミックス・アルバム](https://ja.wikipedia.org/wiki/Category:M.o.v.eのリミックス・アルバム "wikilink")

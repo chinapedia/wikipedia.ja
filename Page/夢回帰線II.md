@@ -5,16 +5,16 @@
 
 ## 概要
 
-ステージバンドの[亀山社中と初めて全曲一緒に](https://ja.wikipedia.org/wiki/亀山社中_\(バンド\) "wikilink")、[マウイ島](https://ja.wikipedia.org/wiki/マウイ島 "wikilink")でレコーディングしたアルバム。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に発表した『[夢回帰線](https://ja.wikipedia.org/wiki/夢回帰線_\(アルバム\) "wikilink")』の路線を継承し、世界各地を題材にした楽曲で構成されている。
+ステージバンドの[亀山社中と初めて全曲一緒に](https://ja.wikipedia.org/wiki/亀山社中_\(バンド\) "wikilink")、[マウイ島](../Page/マウイ島.md "wikilink")でレコーディングしたアルバム。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に発表した『[夢回帰線](../Page/夢回帰線_\(アルバム\).md "wikilink")』の路線を継承し、世界各地を題材にした楽曲で構成されている。
 
 ## 収録曲
 
 ※括弧内は歌の舞台（はっきりと分かるもののみ）
 
-1.  **ナイルにて**　-夢の碑文- （[エジプト](../Page/エジプト.md "wikilink")・[ナイル川](https://ja.wikipedia.org/wiki/ナイル川 "wikilink")流域）
+1.  **ナイルにて**　-夢の碑文- （[エジプト](../Page/エジプト.md "wikilink")・[ナイル川](../Page/ナイル川.md "wikilink")流域）
       -
         自分と恋人との「心の距離」を様々な知識を用いて考察し、その結果を駆使して自分たちの「恋」の本当の姿を知ろうとする女性の心理を表現した曲。
-        イントロのバスドラムが表現する心臓の鼓動は、さだのアルバム『[夢の轍](https://ja.wikipedia.org/wiki/夢の轍 "wikilink")』に収録されている「微熱」に用いられた手法である。
+        イントロのバスドラムが表現する心臓の鼓動は、さだのアルバム『[夢の轍](../Page/夢の轍.md "wikilink")』に収録されている「微熱」に用いられた手法である。
 2.  **カリビアン・ブルー** （カリブ海沿岸）
       -
         決して結ばれることのない男女の、「恋」の様子を表した曲。
@@ -24,14 +24,14 @@
 4.  **白鯨**
       -
         人が抱く「夢」や「野心」というものとそれらの持ち主である人間の関係を、巨大な白鯨とそれを追い続ける男の姿に見立てて表現した作品。
-        タイトル・内容は[ハーマン・メルヴィル](https://ja.wikipedia.org/wiki/ハーマン・メルヴィル "wikilink")の小説『[白鯨](../Page/白鯨.md "wikilink")』から採られた。
+        タイトル・内容は[ハーマン・メルヴィル](../Page/ハーマン・メルヴィル.md "wikilink")の小説『[白鯨](../Page/白鯨.md "wikilink")』から採られた。
 5.  **リンドバーグの墓** 〜Charles A.Lindbergh Grave〜 （アメリカ合衆国・ハワイ州マウイ島）
       -
         憧れてやまなかった[チャールズ・リンドバーグ](../Page/チャールズ・リンドバーグ.md "wikilink")の元へ逝ってしまった恋人のことを想っている女性の心理を表した曲。
 6.  **ビクトリア・ピーク** （[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")）
       -
         昔の恋を、好きな景色の中で思い出し、人知れず心の中で静かに泣いている女性の心を表した曲。
-        ライナーノートには弟の[佐田繁理](https://ja.wikipedia.org/wiki/佐田繁理 "wikilink")が香港でサッカー選手をしていた事も触れられている。
+        ライナーノートには弟の[佐田繁理](../Page/佐田繁理.md "wikilink")が香港でサッカー選手をしていた事も触れられている。
 7.  **Song for a friend**
       -
         恋が終わってしまった、かつて恋人同士であった男女の信頼と友情の曲。
@@ -44,8 +44,8 @@
       -
         人間が原因となっている様々な環境問題や争いなどに対する警鐘といった面と、大切な人の幸せを一途に思い続けるラブソングという面を併せ持った作品。
         さだは、この曲でたとえ後の世に理解されないのだとしても、一所懸命に「今を生きる」ことの重要さと、「心」の大切さをこの歌で伝えたかったとエッセイ集『もう愛の唄なんて詠えない』(ISBN：978-4-478-94321-4)で語っている。
-        この曲は、オリジナル曲以外にも様々なヴァージョンがある。まず、さだの3333回コンサートではギター1本での弾き語りヴァージョンで歌われ、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")のアルバム『[美しき日本の面影](https://ja.wikipedia.org/wiki/美しき日本の面影 "wikilink")』では「天然色の化石2006」という題で渡辺俊幸によるフルオーケストラヴァージョンが新曲として発表された。
-        そして、[2007年](../Page/2007年.md "wikilink")には[チキンガーリックステーキ](https://ja.wikipedia.org/wiki/チキンガーリックステーキ "wikilink")との合作、「天然色の化石 (ソロ・ヴァージョン)」が発表される。
+        この曲は、オリジナル曲以外にも様々なヴァージョンがある。まず、さだの3333回コンサートではギター1本での弾き語りヴァージョンで歌われ、[2006年](../Page/2006年.md "wikilink")のアルバム『[美しき日本の面影](../Page/美しき日本の面影.md "wikilink")』では「天然色の化石2006」という題で渡辺俊幸によるフルオーケストラヴァージョンが新曲として発表された。
+        そして、[2007年](../Page/2007年.md "wikilink")には[チキンガーリックステーキ](../Page/チキンガーリックステーキ.md "wikilink")との合作、「天然色の化石 (ソロ・ヴァージョン)」が発表される。
 10. **夜想曲** （ノクターン）
       -
         愛しい人への、愛と感謝の気持ちを直向きに歌った曲。
@@ -54,20 +54,20 @@
 
   - 全曲とも作詩\[1\]・作曲：さだまさし
   - 編曲：亀山社中（「水底の町」を除くすべて）
-  - 「白鯨」のチェロ編曲、「夜想曲」の弦編曲：[渡辺俊幸](https://ja.wikipedia.org/wiki/渡辺俊幸 "wikilink")
+  - 「白鯨」のチェロ編曲、「夜想曲」の弦編曲：[渡辺俊幸](../Page/渡辺俊幸.md "wikilink")
 
 ## 主な参加ミュージシャン
 
   - [亀山社中](https://ja.wikipedia.org/wiki/亀山社中_\(バンド\) "wikilink")
       - [ベースギター](https://ja.wikipedia.org/wiki/ベースギター "wikilink")；福田郁次郎（バンドリーダー）
       - [エレキギター](https://ja.wikipedia.org/wiki/エレキギター "wikilink")：立山健彦
-      - [アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink"):[坂元昭二](https://ja.wikipedia.org/wiki/坂元昭二 "wikilink")
-      - [ピアノ](../Page/ピアノ.md "wikilink")・[キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")：石川清澄
-      - [マリンバ](https://ja.wikipedia.org/wiki/マリンバ "wikilink")・[パーカッション](../Page/パーカッション.md "wikilink"):[宅間久善](https://ja.wikipedia.org/wiki/宅間久善 "wikilink")
+      - [アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink"):[坂元昭二](../Page/坂元昭二.md "wikilink")
+      - [ピアノ](../Page/ピアノ.md "wikilink")・[キーボード](../Page/キーボード_\(楽器\).md "wikilink")：石川清澄
+      - [マリンバ](../Page/マリンバ.md "wikilink")・[パーカッション](../Page/パーカッション.md "wikilink"):[宅間久善](../Page/宅間久善.md "wikilink")
       - [ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")：井上広基
   - [ヴァイオリン](../Page/ヴァイオリン.md "wikilink")・ソロ：さだまさし
   - [パンパイプ](../Page/パンパイプ.md "wikilink")：旭孝
-  - [ハーモニカ](https://ja.wikipedia.org/wiki/ハーモニカ "wikilink")：八木のぶお
+  - [ハーモニカ](../Page/ハーモニカ.md "wikilink")：八木のぶお
   - ストリングス：[篠崎正嗣](https://ja.wikipedia.org/wiki/篠崎正嗣 "wikilink")Strings
   - [チェロ](../Page/チェロ.md "wikilink")・ソロ：矢野富雄
   - シンセサイザー:八野行恭（レコーディング・ディレクター）
@@ -76,7 +76,7 @@
 
   - 「ナイルにて」：ナイルの岸辺不良少年合唱団
   - 「カリビアン・ブルー」：[カリブの海賊](https://ja.wikipedia.org/wiki/カリブの海賊 "wikilink")グリークラブ有志
-  - 「Song for a friend」：[南カリフォルニア大学](https://ja.wikipedia.org/wiki/南カリフォルニア大学 "wikilink")さだまさし研究会合唱部
+  - 「Song for a friend」：[南カリフォルニア大学](../Page/南カリフォルニア大学.md "wikilink")さだまさし研究会合唱部
   - 「天然色の化石」：駅前デパート職員選抜猫の手いらず合唱団
 
 ## 脚注

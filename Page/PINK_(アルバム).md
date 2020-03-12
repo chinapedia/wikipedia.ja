@@ -1,7 +1,7 @@
 > この記事は[PINK \(\)](https://ja.wikipedia.org/wiki/PINK_\(\))から翻訳されています。
 
 
-**PINK**（ピンク）は日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[PINKのファーストアルバム](../Page/PINK_\(バンド\).md "wikilink")。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[5月25日](../Page/5月25日.md "wikilink")に[MOON RECORDSよりリリースされた](https://ja.wikipedia.org/wiki/MOON_RECORDS "wikilink")。
+**PINK**（ピンク）は日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[PINKのファーストアルバム](../Page/PINK_\(バンド\).md "wikilink")。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[5月25日](../Page/5月25日.md "wikilink")に[MOON RECORDSよりリリースされた](../Page/MOON_RECORDS.md "wikilink")。
 
 ## 収録曲
 
@@ -17,8 +17,8 @@
 ## 参加ミュージシャン
 
   - [福岡ユタカ](https://ja.wikipedia.org/wiki/福岡ユタカ "wikilink") - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
-  - [岡野ハジメ](https://ja.wikipedia.org/wiki/岡野ハジメ "wikilink") - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
-  - [ホッピー神山](https://ja.wikipedia.org/wiki/ホッピー神山 "wikilink") - [キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")
+  - [岡野ハジメ](../Page/岡野ハジメ.md "wikilink") - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
+  - [ホッピー神山](../Page/ホッピー神山.md "wikilink") - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")
   - [矢壁アツノブ](https://ja.wikipedia.org/wiki/矢壁アツノブ "wikilink") - [ドラム](../Page/ドラムセット.md "wikilink")
   - [スティーブ衛藤](https://ja.wikipedia.org/wiki/スティーブ・エトウ "wikilink") - [パーカッション](../Page/パーカッション.md "wikilink")
   - [渋谷ヒデヒロ](https://ja.wikipedia.org/wiki/渋谷ヒデヒロ "wikilink") - [ギター](../Page/ギター.md "wikilink")

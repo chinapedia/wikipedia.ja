@@ -1,7 +1,7 @@
 > この記事は[RED \& BLUE](https://ja.wikipedia.org/wiki/RED_\&_BLUE)から翻訳されています。
 
 
-**RED & BLUE**（レッド・アンド・ブルー）は日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[PINKの](../Page/PINK_\(バンド\).md "wikilink")5枚目のアルバム。[1989年](../Page/1989年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")に[MOON RECORDSよりリリースされた](https://ja.wikipedia.org/wiki/MOON_RECORDS "wikilink")。
+**RED & BLUE**（レッド・アンド・ブルー）は日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[PINKの](../Page/PINK_\(バンド\).md "wikilink")5枚目のアルバム。[1989年](../Page/1989年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")に[MOON RECORDSよりリリースされた](../Page/MOON_RECORDS.md "wikilink")。
 
 ## 背景
 
@@ -24,8 +24,8 @@
 ## 参加ミュージシャン
 
   - [福岡ユタカ](https://ja.wikipedia.org/wiki/福岡ユタカ "wikilink") - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ギター](../Page/ギター.md "wikilink")
-  - [岡野ハジメ](https://ja.wikipedia.org/wiki/岡野ハジメ "wikilink") - ボーカル・ギター・[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")・[キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")
-  - [ホッピー神山](https://ja.wikipedia.org/wiki/ホッピー神山 "wikilink") - ボーカル・ギター・キーボード
+  - [岡野ハジメ](../Page/岡野ハジメ.md "wikilink") - ボーカル・ギター・[ベース](../Page/ベース_\(弦楽器\).md "wikilink")・[キーボード](../Page/キーボード_\(楽器\).md "wikilink")
+  - [ホッピー神山](../Page/ホッピー神山.md "wikilink") - ボーカル・ギター・キーボード
   - [矢壁アツノブ](https://ja.wikipedia.org/wiki/矢壁アツノブ "wikilink") - ボーカル・[ドラム](../Page/ドラムセット.md "wikilink")
   - [逆井オサム](https://ja.wikipedia.org/wiki/逆井オサム "wikilink") - ギター
 

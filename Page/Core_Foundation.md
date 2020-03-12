@@ -5,7 +5,7 @@
 
 Core Foundationは[オープンソース](../Page/オープンソース.md "wikilink")の[Darwinの一部なので必要なら](../Page/Darwin_\(オペレーティングシステム\).md "wikilink")[ソースコード](../Page/ソースコード.md "wikilink")を見ることができる。C言語で書かれているものの、[オブジェクト指向](../Page/オブジェクト指向.md "wikilink")の雰囲気は残しており、[参照カウンタ](https://ja.wikipedia.org/wiki/参照カウンタ "wikilink")を用いたメモリ管理など[Objective-C](../Page/Objective-C.md "wikilink")に近いものになっている。Core FoundationのオブジェクトはCFTypeと呼ばれるopaqueな構造体であり、ヘッダ部をObjective-C互換にする事でメッセージ送信との混在利用が可能としている (toll-free bridge)。
 
-Core Foundationに含まれるものはCFで始まる名前がつけられている。たとえばCFString（NSStringに相当）やCFArray（NSArrayに相当）、[Mac OS X v10.3以降ではCFStream](https://ja.wikipedia.org/wiki/Mac_OS_X_v10.3 "wikilink")（NSStreamに相当）など。他に[Quartz](../Page/Quartz.md "wikilink")のCGXXX、SearchKitのSKXXXなどもCFType互換となっており、相関性の高いインターフェースを備えている。
+Core Foundationに含まれるものはCFで始まる名前がつけられている。たとえばCFString（NSStringに相当）やCFArray（NSArrayに相当）、[Mac OS X v10.3以降ではCFStream](../Page/Mac_OS_X_v10.3.md "wikilink")（NSStreamに相当）など。他に[Quartz](../Page/Quartz.md "wikilink")のCGXXX、SearchKitのSKXXXなどもCFType互換となっており、相関性の高いインターフェースを備えている。
 
 Core Foundationの本家であるCocoaもまずはC言語で実装し、それをObjective-Cでラップするという流れになっているようである。
 

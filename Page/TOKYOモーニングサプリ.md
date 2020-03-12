@@ -1,21 +1,21 @@
 > この記事は[TOKYO](https://ja.wikipedia.org/wiki/TOKYO)から翻訳されています。
 
 
-『**TOKYOモーニングサプリ**』（とうきょう-）は[TOKYO MXで](../Page/東京メトロポリタンテレビジョン.md "wikilink")[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")されていた朝の番組。[1999年](../Page/1999年.md "wikilink")にスタートした[白沢みき](../Page/白沢みき.md "wikilink")（2003年の番組終了後ニューヨーク在住→2005年帰国）の司会による『[モーニングTOKYO](../Page/白沢みきのモーニングTOKYO.md "wikilink")』を母体に[2003年](../Page/2003年.md "wikilink")4月からリニューアルした。2004年3月までは6:30～8:30だったが、[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")4月から7:00スタートの90分番組(祝日を除く)に短縮された。[2009年](../Page/2009年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")で放送終了。
+『**TOKYOモーニングサプリ**』（とうきょう-）は[TOKYO MXで](../Page/東京メトロポリタンテレビジョン.md "wikilink")[生放送](../Page/生放送.md "wikilink")されていた朝の番組。[1999年](../Page/1999年.md "wikilink")にスタートした[白沢みき](../Page/白沢みき.md "wikilink")（2003年の番組終了後ニューヨーク在住→2005年帰国）の司会による『[モーニングTOKYO](../Page/白沢みきのモーニングTOKYO.md "wikilink")』を母体に[2003年](../Page/2003年.md "wikilink")4月からリニューアルした。2004年3月までは6:30～8:30だったが、[2004年](../Page/2004年.md "wikilink")4月から7:00スタートの90分番組(祝日を除く)に短縮された。[2009年](../Page/2009年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")で放送終了。
 
 ## キャスター
 
 2003年の放送開始からは東京MXテレビの女性[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")らが毎日日替わりでメインキャスターを担当し、パートナーにはお天気キャスターとして月・火、水～金という週2名によるシフトで若手の女性リポーターがついていた。
 
-2006年4月3日放送からはメインキャスターに[橘しんご](https://ja.wikipedia.org/wiki/橘しんご "wikilink")を迎え、これまでメインだった女性アナウンサーはパートナーに回り、これまで通り日替わりで登場し、これに伴う形で、お天気キャスターのポジションが廃止となったが、橘は同[9月29日](../Page/9月29日.md "wikilink")放映の回をもって卒業となり[10月2日](../Page/10月2日.md "wikilink")からは再び女性キャスターがメインを担当し、それをサポートする外国人キャスターが登場した。同時にお天気キャスターも復活したが、[10月6日](../Page/10月6日.md "wikilink")以降出演しなくなり、それに関する番組からの告知もない。
+2006年4月3日放送からはメインキャスターに[橘しんご](../Page/橘しんご.md "wikilink")を迎え、これまでメインだった女性アナウンサーはパートナーに回り、これまで通り日替わりで登場し、これに伴う形で、お天気キャスターのポジションが廃止となったが、橘は同[9月29日](../Page/9月29日.md "wikilink")放映の回をもって卒業となり[10月2日](../Page/10月2日.md "wikilink")からは再び女性キャスターがメインを担当し、それをサポートする外国人キャスターが登場した。同時にお天気キャスターも復活したが、[10月6日](../Page/10月6日.md "wikilink")以降出演しなくなり、それに関する番組からの告知もない。
 
 2007年4月から番組内容を大幅に変更し、外国人コメンテーター（パネリスト）を大量に増員し、毎週設定されるテーマに沿った各国の現状解説や討論を行う「半蔵門サミット」を展開した。
 
 ### メインキャスター
 
-  - [徳光正行](https://ja.wikipedia.org/wiki/徳光正行 "wikilink")（2007年10月～、月-金）
+  - [徳光正行](../Page/徳光正行.md "wikilink")（2007年10月～、月-金）
   - [小泉恵未](../Page/小泉恵未.md "wikilink")（2004年4月～、月-水）
-  - [田野辺実鈴](https://ja.wikipedia.org/wiki/田野辺実鈴 "wikilink")（2006年4月～、木・金曜）
+  - [田野辺実鈴](../Page/田野辺実鈴.md "wikilink")（2006年4月～、木・金曜）
 
 <!-- end list -->
 
@@ -25,10 +25,10 @@
 ### コメンテーター（パネリスト）
 
   - 月曜日　[サヘル](https://ja.wikipedia.org/wiki/サヘル・ローズ "wikilink")（イラン）、クララ（フランス）、ジギャン・クマル・タパ（ネパール）
-  - 火曜日　キンテーロ（メキシコ）、[ガウ](https://ja.wikipedia.org/wiki/マリア・テレサ・ガウ "wikilink")（フィリピン／イギリス）、パリワル（インド）
+  - 火曜日　キンテーロ（メキシコ）、[ガウ](../Page/マリア・テレサ・ガウ.md "wikilink")（フィリピン／イギリス）、パリワル（インド）
   - 水曜日　パスカル（ベルギー／日本）、[マイケル](https://ja.wikipedia.org/wiki/マイケル・マカティア "wikilink")（アメリカ）、イ（韓国）
   - 木曜日　ミレラ（ルーマニア）、スチュアート（オーストラリア）、王（中国）
-  - 金曜日　デイビット（ガーナ／日本）、オクサナ（ロシア）、[ロバート](https://ja.wikipedia.org/wiki/ロバート・ボールドウィン "wikilink")（カナダ）
+  - 金曜日　デイビット（ガーナ／日本）、オクサナ（ロシア）、[ロバート](../Page/ロバート・ボールドウィン.md "wikilink")（カナダ）
 
 <!-- end list -->
 
@@ -37,10 +37,10 @@
 
 ### 過去のコメンテーター (2006年10月～2007年3月)
 
-  - 月曜日　[奥沢優美](https://ja.wikipedia.org/wiki/奥沢優美 "wikilink")、マックス・ヴォンシュラー（アメリカ）
+  - 月曜日　[奥沢優美](../Page/奥沢優美.md "wikilink")、マックス・ヴォンシュラー（アメリカ）
   - 火曜日　小泉恵未、クリストファー・メイ（オーストラリア）
   - 水曜日　[三田涼子](../Page/三田涼子.md "wikilink")、ジア・ウル・ラハマン（バングラデシュ）
-  - 木曜日　[田野辺実鈴](https://ja.wikipedia.org/wiki/田野辺実鈴 "wikilink")、[オリガ・ベーグン](https://ja.wikipedia.org/wiki/オリガ・ベーグン "wikilink")（ロシア）
+  - 木曜日　[田野辺実鈴](../Page/田野辺実鈴.md "wikilink")、[オリガ・ベーグン](../Page/オリガ・ベーグン.md "wikilink")（ロシア）
   - 金曜日　[上田万由子](../Page/上田万由子.md "wikilink")、クシィティッジ・パリワル（インド）
 
 ### 解説
@@ -59,7 +59,7 @@
     7:00 オープニング～天気予報
     7:02 交通情報
     7:05 ニュース
-    7:15 [TOKYOインフォメーション](https://ja.wikipedia.org/wiki/TOKYOインフォメーション "wikilink")（[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")提供の広報番組、月曜日・火曜日担当:[半田あい](https://ja.wikipedia.org/wiki/半田あい "wikilink")、水曜日-金曜日担当:[蒼井里紗](https://ja.wikipedia.org/wiki/蒼井里紗 "wikilink")）
+    7:15 [TOKYOインフォメーション](https://ja.wikipedia.org/wiki/TOKYOインフォメーション "wikilink")（[東京都](../Page/東京都.md "wikilink")提供の広報番組、月曜日・火曜日担当:[半田あい](../Page/半田あい.md "wikilink")、水曜日-金曜日担当:[蒼井里紗](../Page/蒼井里紗.md "wikilink")）
     年末年始以外の祝日（2005年度以後はモーニングサプリが休止）も放送。
     7:24 徳選記事（新聞各紙の都内面を紹介）
     7:34 ニュース
@@ -71,12 +71,12 @@
 ## 名物コーナー
 
   - shinbunヘッドライン
-    その日の[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")、[毎日新聞](https://ja.wikipedia.org/wiki/毎日新聞 "wikilink")、[読売新聞](https://ja.wikipedia.org/wiki/読売新聞 "wikilink")、[東京新聞](https://ja.wikipedia.org/wiki/東京新聞 "wikilink")の朝刊各紙の都内面の記事と、外国人コメンテーターの母国の新聞記事を厳選して紹介。
+    その日の[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")、[毎日新聞](https://ja.wikipedia.org/wiki/毎日新聞 "wikilink")、[読売新聞](../Page/読売新聞.md "wikilink")、[東京新聞](../Page/東京新聞.md "wikilink")の朝刊各紙の都内面の記事と、外国人コメンテーターの母国の新聞記事を厳選して紹介。
 
 <!-- end list -->
 
   - 芸能サプリ
-    「芸能サプリ」のコーナーは、ごく一部のアイドルオタクから熱狂的な支持を受けているという。（このコーナーは[三重テレビの早朝ワイド番組](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")「[おはよう\!三重](https://ja.wikipedia.org/wiki/おはよう!三重 "wikilink")」（現在は放送終了）にもネットワークをしていた。三重テレビの系列新聞社が[中日新聞社](https://ja.wikipedia.org/wiki/中日新聞社 "wikilink")である関係による）「芸能サプリ」は、[東京中日スポーツ](../Page/東京中日スポーツ.md "wikilink")の紙面からの芸能ニュースを伝えている。
+    「芸能サプリ」のコーナーは、ごく一部のアイドルオタクから熱狂的な支持を受けているという。（このコーナーは[三重テレビの早朝ワイド番組](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")「[おはよう\!三重](../Page/おはよう!三重.md "wikilink")」（現在は放送終了）にもネットワークをしていた。三重テレビの系列新聞社が[中日新聞社](../Page/中日新聞社.md "wikilink")である関係による）「芸能サプリ」は、[東京中日スポーツ](../Page/東京中日スポーツ.md "wikilink")の紙面からの芸能ニュースを伝えている。
 
 <!-- end list -->
 
@@ -93,12 +93,12 @@
   - 東京0円（東京近郊で無料体験できる施設紹介）
   - TOKYO SMALL STAGE（小劇団紹介）
   - [FC東京](https://ja.wikipedia.org/wiki/FC東京 "wikilink")情報
-  - 東京エコ散歩 パッソルといっしょ（インフォマーシャルコーナーで、[ヤマハの電気式スクーター](https://ja.wikipedia.org/wiki/ヤマハ発動機 "wikilink")「パッソル」を使って都内スポットをリポートした）
+  - 東京エコ散歩 パッソルといっしょ（インフォマーシャルコーナーで、[ヤマハの電気式スクーター](../Page/ヤマハ発動機.md "wikilink")「パッソル」を使って都内スポットをリポートした）
 
 <!-- end list -->
 
   -
-    ※[リポーター](https://ja.wikipedia.org/wiki/リポーター "wikilink")： 小川まるみ、[稲田奈緒](https://ja.wikipedia.org/wiki/稲田奈緒 "wikilink")
+    ※[リポーター](../Page/リポーター.md "wikilink")： 小川まるみ、[稲田奈緒](../Page/稲田奈緒.md "wikilink")
 
 <!-- end list -->
 
@@ -164,7 +164,7 @@
   - [川口佐枝子](../Page/川口佐枝子.md "wikilink")（東京MXテレビアナウンサー　2003.4～2006.3 当初は火曜日、後に木曜日担当）
   - [浅岡志保](https://ja.wikipedia.org/wiki/浅岡志保 "wikilink")（2005.4～2006.3　月・火曜お天気キャスター）
   - [山口菜穂子](https://ja.wikipedia.org/wiki/山口菜穂子 "wikilink")（2004.4～2006.3　水～金曜お天気キャスター）
-  - [橘しんご](https://ja.wikipedia.org/wiki/橘しんご "wikilink")（2006.4～9　メインキャスター。平日18:00の「[TOKYO MX NEWS](https://ja.wikipedia.org/wiki/TOKYO_MX_NEWS "wikilink")」キャスター就任のため降板）
+  - [橘しんご](../Page/橘しんご.md "wikilink")（2006.4～9　メインキャスター。平日18:00の「[TOKYO MX NEWS](../Page/TOKYO_MX_NEWS.md "wikilink")」キャスター就任のため降板）
   - [斎藤恵理](https://ja.wikipedia.org/wiki/斎藤恵理_\(気象予報士\) "wikilink")（2006.10.2、10.4　気象予報士）
 
 <!-- end list -->
@@ -174,7 +174,7 @@
 
 <!-- end list -->
 
-  - [美濃岡洋子](https://ja.wikipedia.org/wiki/美濃岡洋子 "wikilink")（2006.10.3、10.5　気象予報士）
+  - [美濃岡洋子](../Page/美濃岡洋子.md "wikilink")（2006.10.3、10.5　気象予報士）
 
 <!-- end list -->
 
@@ -183,7 +183,7 @@
 
 <!-- end list -->
 
-  - [奥沢優美](https://ja.wikipedia.org/wiki/奥沢優美 "wikilink")（2004年10月～2007年3月　月曜日担当）
+  - [奥沢優美](../Page/奥沢優美.md "wikilink")（2004年10月～2007年3月　月曜日担当）
   - [三田涼子](../Page/三田涼子.md "wikilink")（2003年10月～2007年3月　最初2004年9月まで月曜日、2004年10月以後水曜日担当）
   - [上田万由子](../Page/上田万由子.md "wikilink")(※)（番組開始当初から2007年3月　金曜日担当）
 
@@ -194,7 +194,7 @@
 
 <!-- end list -->
 
-  - [ほっしゃん。](https://ja.wikipedia.org/wiki/星田英利 "wikilink")（2007.4～9　メインキャスター）
+  - [ほっしゃん。](../Page/星田英利.md "wikilink")（2007.4～9　メインキャスター）
 
 ## 備考
 
@@ -217,7 +217,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
 <td><p><a href="../Page/東京メトロポリタンテレビジョン.md" title="wikilink">東京メトロポリタンテレビジョン</a>（TOKYO MX）<br />
 <strong>TOKYOモーニングサプリ製作局</strong></p></td>
 <td><p><a href="../Page/全国独立放送協議会.md" title="wikilink">独立UHF局</a></p></td>
@@ -250,7 +250,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/埼玉県" title="wikilink">埼玉県</a></p></td>
+<td><p><a href="../Page/埼玉県.md" title="wikilink">埼玉県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/テレビ埼玉" title="wikilink">テレビ埼玉</a>（TVS）</p></td>
 <td><p>独立UHF局</p></td>
 <td><p>月～金曜日<br />
@@ -267,15 +267,15 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/千葉県" title="wikilink">千葉県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/千葉テレビ放送" title="wikilink">千葉テレビ放送</a>（ctc）</p></td>
+<td><p><a href="../Page/千葉県.md" title="wikilink">千葉県</a></p></td>
+<td><p><a href="../Page/千葉テレビ放送.md" title="wikilink">千葉テレビ放送</a>（ctc）</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/京都府" title="wikilink">京都府</a></p></td>
+<td><p><a href="../Page/京都府.md" title="wikilink">京都府</a></p></td>
 <td><p><a href="../Page/京都放送.md" title="wikilink">京都放送</a>（KBS）</p></td>
 <td><p>月～金曜日<br />
 6:30～8:30</p></td>

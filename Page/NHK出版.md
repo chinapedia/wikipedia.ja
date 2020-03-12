@@ -5,25 +5,25 @@
 
 ## 概要
 
-1931年6月、同月開局の[NHKラジオ第2放送](https://ja.wikipedia.org/wiki/NHKラジオ第2放送 "wikilink")で放送される[教育番組](https://ja.wikipedia.org/wiki/教育番組 "wikilink")用の[テキスト](../Page/テキスト.md "wikilink")を出版するために設立された。NHKの演奏所移転に合わせて、愛宕山→内幸町→渋谷と本社移転を変遷している。現在では、NHKで放送される番組を補完するテキストや書籍を多数扱うほか、『[NHKブックス](https://ja.wikipedia.org/wiki/NHKブックス "wikilink")』『[NHK出版新書](https://ja.wikipedia.org/wiki/NHK出版新書 "wikilink")』シリーズをはじめ、オリジナルの一般書・教養書・実用書を数多く刊行している。
+1931年6月、同月開局の[NHKラジオ第2放送](../Page/NHKラジオ第2放送.md "wikilink")で放送される[教育番組](../Page/教育番組.md "wikilink")用の[テキスト](../Page/テキスト.md "wikilink")を出版するために設立された。NHKの演奏所移転に合わせて、愛宕山→内幸町→渋谷と本社移転を変遷している。現在では、NHKで放送される番組を補完するテキストや書籍を多数扱うほか、『[NHKブックス](https://ja.wikipedia.org/wiki/NHKブックス "wikilink")』『[NHK出版新書](https://ja.wikipedia.org/wiki/NHK出版新書 "wikilink")』シリーズをはじめ、オリジナルの一般書・教養書・実用書を数多く刊行している。
 
-タイムリーな翻訳書にも定評があり、世界的にもベストセラーとなった哲学を扱った『[ソフィーの世界](https://ja.wikipedia.org/wiki/ソフィーの世界 "wikilink")』、発売前に全ページを無料（FREE）でネット公開して話題となった『FREE』、『THINK SIMPLE』、『ゼロ・トゥ・ワン』などのビジネス書、『脳を鍛えるには運動しかない！』、『BORN TO RUN 走るために生まれた』、[リサ・ランドール](https://ja.wikipedia.org/wiki/リサ・ランドール "wikilink")『ワープする宇宙～5次元時空の謎を解く』、『[モリー先生との火曜日](https://ja.wikipedia.org/wiki/モリー先生との火曜日 "wikilink")』など、科学・教養・ノンフィクション等幅広い分野にわたるタイトルを刊行している。
+タイムリーな翻訳書にも定評があり、世界的にもベストセラーとなった哲学を扱った『[ソフィーの世界](../Page/ソフィーの世界.md "wikilink")』、発売前に全ページを無料（FREE）でネット公開して話題となった『FREE』、『THINK SIMPLE』、『ゼロ・トゥ・ワン』などのビジネス書、『脳を鍛えるには運動しかない！』、『BORN TO RUN 走るために生まれた』、[リサ・ランドール](../Page/リサ・ランドール.md "wikilink")『ワープする宇宙～5次元時空の謎を解く』、『[モリー先生との火曜日](https://ja.wikipedia.org/wiki/モリー先生との火曜日 "wikilink")』など、科学・教養・ノンフィクション等幅広い分野にわたるタイトルを刊行している。
 
-文芸書も、[大河ドラマ](../Page/大河ドラマ.md "wikilink")や[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")など、ドラマのノベライズ小説を中心に、オリジナルの現代・時代小説の刊行しており、1995年には、[梁石日](https://ja.wikipedia.org/wiki/梁石日 "wikilink")『[夜を賭けて](https://ja.wikipedia.org/wiki/夜を賭けて "wikilink")』が第113回[直木賞](https://ja.wikipedia.org/wiki/直木賞 "wikilink")候補となったほか、近年では[阿部智里](https://ja.wikipedia.org/wiki/阿部智里 "wikilink")『発現』、[伊坂幸太郎](https://ja.wikipedia.org/wiki/伊坂幸太郎 "wikilink")『クジラアタマの王様』などを刊行している。
+文芸書も、[大河ドラマ](../Page/大河ドラマ.md "wikilink")や[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")など、ドラマのノベライズ小説を中心に、オリジナルの現代・時代小説の刊行しており、1995年には、[梁石日](../Page/梁石日.md "wikilink")『[夜を賭けて](https://ja.wikipedia.org/wiki/夜を賭けて "wikilink")』が第113回[直木賞](https://ja.wikipedia.org/wiki/直木賞 "wikilink")候補となったほか、近年では[阿部智里](https://ja.wikipedia.org/wiki/阿部智里 "wikilink")『発現』、[伊坂幸太郎](https://ja.wikipedia.org/wiki/伊坂幸太郎 "wikilink")『クジラアタマの王様』などを刊行している。
 
-また、NHK番組での各種音楽の著作権を管理する業務（[音楽出版](https://ja.wikipedia.org/wiki/音楽出版 "wikilink")）も行っている。また、書籍以外にも、テキスト電子版などの番組連動型のデジタルコンテンツや、[NHK Eテレの番組テキストと連動した](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")「テキスト関連アイテム」（「[きょうの料理](https://ja.wikipedia.org/wiki/きょうの料理 "wikilink")」「[きょうの料理ビギナーズ](https://ja.wikipedia.org/wiki/きょうの料理ビギナーズ "wikilink")」関連の調理器具、「[すてきにハンドメイド](https://ja.wikipedia.org/wiki/すてきにハンドメイド "wikilink")」関連のハンドメイド商品など）の[通信販売](../Page/通信販売.md "wikilink")も行っている。
+また、NHK番組での各種音楽の著作権を管理する業務（[音楽出版](../Page/音楽出版.md "wikilink")）も行っている。また、書籍以外にも、テキスト電子版などの番組連動型のデジタルコンテンツや、[NHK Eテレの番組テキストと連動した](../Page/NHK教育テレビジョン.md "wikilink")「テキスト関連アイテム」（「[きょうの料理](../Page/きょうの料理.md "wikilink")」「[きょうの料理ビギナーズ](../Page/きょうの料理ビギナーズ.md "wikilink")」関連の調理器具、「[すてきにハンドメイド](https://ja.wikipedia.org/wiki/すてきにハンドメイド "wikilink")」関連のハンドメイド商品など）の[通信販売](../Page/通信販売.md "wikilink")も行っている。
 
-2011年[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink")、従来は通称・略称であった**NHK出版**に正式社名を変更した。社名変更の理由について、創業80周年を機に「生活文化提案企業」として社会的な役割を認識し、**知るって楽しい**をキーワードにより豊かな社会を築くためとして社名変更に至った、と説明している\[1\]。
+2011年[1月1日](../Page/1月1日.md "wikilink")、従来は通称・略称であった**NHK出版**に正式社名を変更した。社名変更の理由について、創業80周年を機に「生活文化提案企業」として社会的な役割を認識し、**知るって楽しい**をキーワードにより豊かな社会を築くためとして社名変更に至った、と説明している\[1\]。
 
 ## 経営財務状況
 
-同社の「第86期事業報告」\[2\]によれば、総[資産](https://ja.wikipedia.org/wiki/資産 "wikilink")約191億7千万円のうち約127億4千万円が利益[剰余金](https://ja.wikipedia.org/wiki/剰余金 "wikilink")となっている。利益剰余金は「[現金及び預金](https://ja.wikipedia.org/wiki/現金預金 "wikilink")」約49億9千万円、「投資その他資産」約63億2千万円などの形で保有されている。[流動比率](https://ja.wikipedia.org/wiki/流動比率 "wikilink")（流動資産／流動負債×100）は302％と高く、実質的にほぼ完全な無借金経営である。1株50円に対して6円の配当（配当率12％）が行われている。
+同社の「第86期事業報告」\[2\]によれば、総[資産](../Page/資産.md "wikilink")約191億7千万円のうち約127億4千万円が利益[剰余金](../Page/剰余金.md "wikilink")となっている。利益剰余金は「[現金及び預金](https://ja.wikipedia.org/wiki/現金預金 "wikilink")」約49億9千万円、「投資その他資産」約63億2千万円などの形で保有されている。[流動比率](../Page/流動比率.md "wikilink")（流動資産／流動負債×100）は302％と高く、実質的にほぼ完全な無借金経営である。1株50円に対して6円の配当（配当率12％）が行われている。
 
 ## 出版物
 
 出版物のうち、NHKの番組に関連する出版物は、NHK EテレおよびNHKラジオ第2の番組の番組テキストと、それ以外の出版物（NHKのテレビ番組・ラジオ番組の関連書籍・雑誌）に分類される。
 
-なお、後者に関しては、NHK出版以外の出版社から発行されるものも多い。一例としては、[NHKサービスセンター](https://ja.wikipedia.org/wiki/NHKサービスセンター "wikilink")が扱う『[NHKウイークリーステラ](https://ja.wikipedia.org/wiki/NHKウイークリーステラ "wikilink")』別冊（主に『[ラジオ深夜便](../Page/ラジオ深夜便.md "wikilink")』『[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")』関連）、[主婦と生活社](https://ja.wikipedia.org/wiki/主婦と生活社 "wikilink")が扱う『[ガッテン\!](https://ja.wikipedia.org/wiki/ガッテン! "wikilink")』関連雑誌・書籍、更には、[NHKスペシャル](../Page/NHKスペシャル.md "wikilink")や各種教養・教育番組の関連書籍が、現在では[新潮社](../Page/新潮社.md "wikilink")、[文藝春秋社](https://ja.wikipedia.org/wiki/文藝春秋社 "wikilink")、[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")など一般の出版社から広く発行されている。
+なお、後者に関しては、NHK出版以外の出版社から発行されるものも多い。一例としては、[NHKサービスセンター](../Page/NHKサービスセンター.md "wikilink")が扱う『[NHKウイークリーステラ](../Page/NHKウイークリーステラ.md "wikilink")』別冊（主に『[ラジオ深夜便](../Page/ラジオ深夜便.md "wikilink")』『[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")』関連）、[主婦と生活社](../Page/主婦と生活社.md "wikilink")が扱う『[ガッテン\!](https://ja.wikipedia.org/wiki/ガッテン! "wikilink")』関連雑誌・書籍、更には、[NHKスペシャル](../Page/NHKスペシャル.md "wikilink")や各種教養・教育番組の関連書籍が、現在では[新潮社](../Page/新潮社.md "wikilink")、[文藝春秋社](https://ja.wikipedia.org/wiki/文藝春秋社 "wikilink")、[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")など一般の出版社から広く発行されている。
 
 番組テキストは番組放送期間中の発売が原則になるため、NHK Eテレで放送されている再放送枠『[Eテレセレクション](https://ja.wikipedia.org/wiki/Eテレセレクション "wikilink")』において、「現在、このテキストは発売しておりません。」という断り書きテロップが書かれることもある。
 
@@ -33,11 +33,11 @@
 
 <!-- end list -->
 
-  - 『[きょうの料理](https://ja.wikipedia.org/wiki/きょうの料理 "wikilink")』（月刊）
-  - 『[きょうの料理ビギナーズ](https://ja.wikipedia.org/wiki/きょうの料理ビギナーズ "wikilink")』（月刊）
-  - 『[すてきにハンドメイド](https://ja.wikipedia.org/wiki/すてきにハンドメイド "wikilink")』（月刊）：旧「[おしゃれ工房](https://ja.wikipedia.org/wiki/おしゃれ工房 "wikilink")」「婦人百科」
+  - 『[きょうの料理](../Page/きょうの料理.md "wikilink")』（月刊）
+  - 『[きょうの料理ビギナーズ](../Page/きょうの料理ビギナーズ.md "wikilink")』（月刊）
+  - 『[すてきにハンドメイド](https://ja.wikipedia.org/wiki/すてきにハンドメイド "wikilink")』（月刊）：旧「[おしゃれ工房](../Page/おしゃれ工房.md "wikilink")」「婦人百科」
   - 『[きょうの健康](../Page/きょうの健康.md "wikilink")』（月刊）
-  - 『[趣味の園芸](https://ja.wikipedia.org/wiki/趣味の園芸 "wikilink")』（月刊）：ウェブサイト『みんなの趣味の園芸』も展開
+  - 『[趣味の園芸](../Page/趣味の園芸.md "wikilink")』（月刊）：ウェブサイト『みんなの趣味の園芸』も展開
   - 『[趣味の園芸 やさいの時間](https://ja.wikipedia.org/wiki/趣味の園芸_やさいの時間 "wikilink")』（隔月刊）
 
 <!-- end list -->
@@ -48,25 +48,25 @@
 
   - 『趣味どきっ！』シリーズ：テキストはワンテーマムック（「仏像拝観」シリーズなど）。[趣味Do楽](https://ja.wikipedia.org/wiki/趣味Do楽 "wikilink")シリーズの後身。
   - 『[100分de名著](https://ja.wikipedia.org/wiki/100分de名著 "wikilink")』（月刊）
-  - 『[まる得マガジン](https://ja.wikipedia.org/wiki/まる得マガジン "wikilink")』（月刊）：テキスト雑誌はワンテーマムック
+  - 『[まる得マガジン](../Page/まる得マガジン.md "wikilink")』（月刊）：テキスト雑誌はワンテーマムック
   - 『[囲碁講座](https://ja.wikipedia.org/wiki/NHK囲碁講座 "wikilink")』（月刊）
   - 『[将棋講座](https://ja.wikipedia.org/wiki/将棋講座_\(NHK\) "wikilink")』（月刊）
-  - 『[NHK俳句](https://ja.wikipedia.org/wiki/NHK俳句 "wikilink")』（月刊）
-  - 『[NHK短歌](https://ja.wikipedia.org/wiki/NHK短歌 "wikilink")』（月刊）
+  - 『[NHK俳句](../Page/NHK俳句.md "wikilink")』（月刊）
+  - 『[NHK短歌](../Page/NHK短歌.md "wikilink")』（月刊）
   - 『[みんなの手話](https://ja.wikipedia.org/wiki/みんなの手話 "wikilink")』（年2回刊）
   - 『社会福祉セミナー』（年2回刊）：さまざまな福祉番組を扱う福祉総合雑誌。
-  - 『[みんなのうた](https://ja.wikipedia.org/wiki/みんなのうた "wikilink")』（隔月刊）
+  - 『[みんなのうた](../Page/みんなのうた.md "wikilink")』（隔月刊）
 
 <!-- end list -->
 
   - テレビ・ラジオ語学テキスト
-    定番の「[基礎英語](https://ja.wikipedia.org/wiki/基礎英語 "wikilink")」シリーズは、定番の中学生向けの基礎英語1、基礎英語2、基礎英語3を刊行しているほか、小学生向けに「[プレキソ英語](https://ja.wikipedia.org/wiki/プレキソ英語 "wikilink")」、大人向けの「[おとなの基礎英語](https://ja.wikipedia.org/wiki/おとなの基礎英語 "wikilink")」「[しごとの基礎英語](https://ja.wikipedia.org/wiki/しごとの基礎英語 "wikilink")」も新設されたことがあった。現在は小学生向けには「基礎英語ゼロ」、大人向けの「おもてなしの基礎英語」を刊行。
+    定番の「[基礎英語](../Page/基礎英語.md "wikilink")」シリーズは、定番の中学生向けの基礎英語1、基礎英語2、基礎英語3を刊行しているほか、小学生向けに「[プレキソ英語](https://ja.wikipedia.org/wiki/プレキソ英語 "wikilink")」、大人向けの「[おとなの基礎英語](https://ja.wikipedia.org/wiki/おとなの基礎英語 "wikilink")」「[しごとの基礎英語](https://ja.wikipedia.org/wiki/しごとの基礎英語 "wikilink")」も新設されたことがあった。現在は小学生向けには「基礎英語ゼロ」、大人向けの「おもてなしの基礎英語」を刊行。
 
 ＜ラジオ英語テキスト＞
 
-  - 『[基礎英語1](https://ja.wikipedia.org/wiki/基礎英語1 "wikilink")』(以下注記なき語学テキストは月刊）
-  - 『[基礎英語2](https://ja.wikipedia.org/wiki/基礎英語2 "wikilink")』
-  - 『[基礎英語3](https://ja.wikipedia.org/wiki/基礎英語3 "wikilink")』
+  - 『[基礎英語1](../Page/基礎英語1.md "wikilink")』(以下注記なき語学テキストは月刊）
+  - 『[基礎英語2](../Page/基礎英語2.md "wikilink")』
+  - 『[基礎英語3](../Page/基礎英語3.md "wikilink")』
   - 『[ラジオ英会話](https://ja.wikipedia.org/wiki/ラジオ英会話 "wikilink")』
   - 『[英会話タイムトライアル](https://ja.wikipedia.org/wiki/英会話タイムトライアル "wikilink")』
   - 『[遠山顕の英会話楽習](https://ja.wikipedia.org/wiki/遠山顕の英会話楽習 "wikilink")』
@@ -98,7 +98,7 @@
   - 『[おもてなしのハングル](https://ja.wikipedia.org/wiki/おもてなしのハングル "wikilink")』
   - 『[レベルアップハングル講座](https://ja.wikipedia.org/wiki/レベルアップハングル講座 "wikilink")』(年4回刊）
   - 『[ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語入門 "wikilink")』(年1回刊）
-  - 『[アラビア語講座](https://ja.wikipedia.org/wiki/アラビア語講座 "wikilink")』（年2回刊）
+  - 『[アラビア語講座](../Page/アラビア語講座.md "wikilink")』（年2回刊）
 
 ＜テレビ語学テキスト＞
 
@@ -107,15 +107,15 @@
   - 『[旅するスペイン語](https://ja.wikipedia.org/wiki/旅するスペイン語 "wikilink")』
   - 『[旅するイタリア語](https://ja.wikipedia.org/wiki/旅するイタリア語 "wikilink")』
   - 『[ロシアゴスキー](https://ja.wikipedia.org/wiki/ロシアゴスキー "wikilink")』（年2回刊）
-  - 『[テレビで中国語](https://ja.wikipedia.org/wiki/テレビで中国語 "wikilink")』
-  - 『[テレビでハングル講座](https://ja.wikipedia.org/wiki/テレビでハングル講座 "wikilink")』
+  - 『[テレビで中国語](../Page/テレビで中国語.md "wikilink")』
+  - 『[テレビでハングル講座](../Page/テレビでハングル講座.md "wikilink")』
   - 『[テレビでアラビア語](https://ja.wikipedia.org/wiki/テレビでアラビア語 "wikilink")』（年1回刊）
 
 <!-- end list -->
 
   - ラジオ教養番組テキスト・雑誌
     『NHKカルチャーラジオ』（旧：NHKカルチャーアワー）
-      - [NHKこころの時代](https://ja.wikipedia.org/wiki/こころの時代 "wikilink")
+      - [NHKこころの時代](../Page/こころの時代.md "wikilink")
       - NHK宗教の時間
       - NHKアナウンサーとともに[ことば力アップ](https://ja.wikipedia.org/wiki/ことば力アップ "wikilink")
 
@@ -123,16 +123,16 @@
 
   - [NHK大河ドラマガイド](../Page/大河ドラマ.md "wikilink")
   - NHKドラマ・ガイド [連続テレビ小説](../Page/連続テレビ小説.md "wikilink")
-  - 『命のビザを繫いだ男 ～小辻節三とユダヤ難民』（[山田純大](https://ja.wikipedia.org/wiki/山田純大 "wikilink")著）
+  - 『命のビザを繫いだ男 ～小辻節三とユダヤ難民』（[山田純大](../Page/山田純大.md "wikilink")著）
   - 『ITビジネスの原理』（[尾原和啓](https://ja.wikipedia.org/wiki/尾原和啓 "wikilink")著）
   - 『〈インターネット〉の次に来るもの 未来を決める12の法則』（[ケヴィン・ケリー](https://ja.wikipedia.org/wiki/ケヴィン・ケリー "wikilink")著・[服部桂](https://ja.wikipedia.org/wiki/服部桂 "wikilink")訳）
-  - 『天、共に在り～アフガニスタン三十年の闘い』（[中村哲著](https://ja.wikipedia.org/wiki/中村哲_\(医師\) "wikilink")）
-  - 『NHK日本語発音アクセント新辞典（[NHK放送文化研究所](https://ja.wikipedia.org/wiki/NHK放送文化研究所 "wikilink")編）
+  - 『天、共に在り～アフガニスタン三十年の闘い』（[中村哲著](../Page/中村哲_\(医師\).md "wikilink")）
+  - 『NHK日本語発音アクセント新辞典（[NHK放送文化研究所](../Page/NHK放送文化研究所.md "wikilink")編）
   - NHK年鑑（毎年秋に発行。この1年の放送界全体の動きを記録するもの）
-  - [プロフェッショナル 仕事の流儀](https://ja.wikipedia.org/wiki/プロフェッショナル_仕事の流儀 "wikilink")
+  - [プロフェッショナル 仕事の流儀](../Page/プロフェッショナル_仕事の流儀.md "wikilink")
   - [プロジェクトX〜挑戦者たち〜](../Page/プロジェクトX〜挑戦者たち〜.md "wikilink")
-  - [冬のソナタ](https://ja.wikipedia.org/wiki/冬のソナタ "wikilink")（小説版）
-  - [すごい科学で守ります\!](https://ja.wikipedia.org/wiki/すごい科学で守ります! "wikilink")シリーズ（[長谷川裕一](../Page/長谷川裕一.md "wikilink")著）
+  - [冬のソナタ](../Page/冬のソナタ.md "wikilink")（小説版）
+  - [すごい科学で守ります\!](../Page/すごい科学で守ります!.md "wikilink")シリーズ（[長谷川裕一](../Page/長谷川裕一.md "wikilink")著）
   - [NHK出版新書](https://ja.wikipedia.org/wiki/NHK出版新書 "wikilink")（社名変更に伴い2011年に[生活人新書](https://ja.wikipedia.org/wiki/生活人新書 "wikilink")から名称変更）
   - [NHKブックス](https://ja.wikipedia.org/wiki/NHKブックス "wikilink")
   - NHK「[100分de名著](https://ja.wikipedia.org/wiki/100分de名著 "wikilink")」ブックス
@@ -146,15 +146,15 @@
 
 <!-- end list -->
 
-  - [NHK市民大学](https://ja.wikipedia.org/wiki/NHK市民大学 "wikilink")／[NHK人間大学](https://ja.wikipedia.org/wiki/NHK人間大学 "wikilink")／ [NHK人間講座](https://ja.wikipedia.org/wiki/NHK人間講座 "wikilink")
+  - [NHK市民大学](https://ja.wikipedia.org/wiki/NHK市民大学 "wikilink")／[NHK人間大学](../Page/NHK人間大学.md "wikilink")／ [NHK人間講座](../Page/NHK人間講座.md "wikilink")
   - [ひとりでできるもん\!](../Page/ひとりでできるもん!.md "wikilink")（1993年4月号〜2004年3月号）
   - [英語であそぼ](https://ja.wikipedia.org/wiki/英語であそぼ "wikilink")（1990年4月号〜2005年3月号）
-  - [食彩浪漫](https://ja.wikipedia.org/wiki/食彩浪漫 "wikilink")（2003年4月〜2010年3月号）
-  - [おしゃれ工房](https://ja.wikipedia.org/wiki/おしゃれ工房 "wikilink")（〜2010年3月号）（旧：婦人百科）
+  - [食彩浪漫](../Page/食彩浪漫.md "wikilink")（2003年4月〜2010年3月号）
+  - [おしゃれ工房](../Page/おしゃれ工房.md "wikilink")（〜2010年3月号）（旧：婦人百科）
   - [趣味の園芸ビギナーズ](https://ja.wikipedia.org/wiki/趣味の園芸ビギナーズ "wikilink")（季刊）
   - リビング ナウ
   - [日本の伝統芸能](https://ja.wikipedia.org/wiki/日本の伝統芸能 "wikilink")
-  - [高校講座シリーズ](https://ja.wikipedia.org/wiki/NHK高校講座 "wikilink")
+  - [高校講座シリーズ](../Page/NHK高校講座.md "wikilink")
   - 中学生の勉強室
   - そろばん教室
 
@@ -164,8 +164,8 @@
 
 <!-- end list -->
 
-  - [電波科学](https://ja.wikipedia.org/wiki/エレクトロニクスライフ "wikilink")（1933年〜1985年3月号）→[エレクトロニクスライフ](https://ja.wikipedia.org/wiki/エレクトロニクスライフ "wikilink")（1985年4月号〜1996年3月号）→[パソコンライフ](https://ja.wikipedia.org/wiki/エレクトロニクスライフ "wikilink")（1996年4月号〜1997年3月号)
-  - [生活ほっとモーニング](https://ja.wikipedia.org/wiki/生活ほっとモーニング "wikilink")
+  - [電波科学](../Page/エレクトロニクスライフ.md "wikilink")（1933年〜1985年3月号）→[エレクトロニクスライフ](../Page/エレクトロニクスライフ.md "wikilink")（1985年4月号〜1996年3月号）→[パソコンライフ](../Page/エレクトロニクスライフ.md "wikilink")（1996年4月号〜1997年3月号)
+  - [生活ほっとモーニング](../Page/生活ほっとモーニング.md "wikilink")
   - 放送文化（～2011年秋号・月刊や季刊の違いはあったものの、NHKを中心に放送業界に関する話題を掲載していた）
   - H2O
   - ERIO
@@ -186,75 +186,75 @@
 
 ### 1960年代以前
 
-  - [1952年](../Page/1952年.md "wikilink"):『日本民謡大観 東北篇』（[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")著）が1952年度[毎日出版文化賞](https://ja.wikipedia.org/wiki/毎日出版文化賞 "wikilink")を受賞。
+  - [1952年](../Page/1952年.md "wikilink"):『日本民謡大観 東北篇』（[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")著）が1952年度[毎日出版文化賞](../Page/毎日出版文化賞.md "wikilink")を受賞。
   - [1958年](../Page/1958年.md "wikilink"):[商工実務講座テキスト](https://ja.wikipedia.org/wiki/商工実務講座テキスト "wikilink")『新しい経営と品質管理』が1958年[日経品質管理文献賞](https://ja.wikipedia.org/wiki/日経品質管理文献賞 "wikilink")を受賞。\[3\]
-  - [1965年](../Page/1965年.md "wikilink"):[NHKブックス](https://ja.wikipedia.org/wiki/NHKブックス "wikilink")『仏像-心とかたち』（[望月信成](https://ja.wikipedia.org/wiki/望月信成 "wikilink")・[佐和隆研](https://ja.wikipedia.org/wiki/佐和隆研 "wikilink")・[梅原猛](https://ja.wikipedia.org/wiki/梅原猛 "wikilink")著）が1965年度毎日出版文化賞を受賞。
-  - 1965年:NHKブックス『ドルの歴史』（[牧野純夫](https://ja.wikipedia.org/wiki/牧野純夫 "wikilink")著）が1965年度[毎日出版文化賞](https://ja.wikipedia.org/wiki/毎日出版文化賞 "wikilink")を受賞。
+  - [1965年](../Page/1965年.md "wikilink"):[NHKブックス](https://ja.wikipedia.org/wiki/NHKブックス "wikilink")『仏像-心とかたち』（[望月信成](https://ja.wikipedia.org/wiki/望月信成 "wikilink")・[佐和隆研](../Page/佐和隆研.md "wikilink")・[梅原猛](../Page/梅原猛.md "wikilink")著）が1965年度毎日出版文化賞を受賞。
+  - 1965年:NHKブックス『ドルの歴史』（[牧野純夫](https://ja.wikipedia.org/wiki/牧野純夫 "wikilink")著）が1965年度[毎日出版文化賞](../Page/毎日出版文化賞.md "wikilink")を受賞。
 
 ### 1970年代
 
-  - [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink"):NHKブックス『植物と人間』（[宮脇昭](https://ja.wikipedia.org/wiki/宮脇昭 "wikilink")著）が1970年度毎日出版文化賞を受賞。
+  - [1970年](../Page/1970年.md "wikilink"):NHKブックス『植物と人間』（[宮脇昭](../Page/宮脇昭.md "wikilink")著）が1970年度毎日出版文化賞を受賞。
   - 1973年:NHKブックス『都市の思想－保存修景への指標』（[西川幸治](https://ja.wikipedia.org/wiki/西川幸治 "wikilink")著）が1973年度毎日出版文化賞を受賞。
   - 1973年:[NHKブックスジュニア](https://ja.wikipedia.org/wiki/NHKブックスジュニア "wikilink")『幸運な失敗 トランジスターの誕生』（[菊池誠](https://ja.wikipedia.org/wiki/菊池誠 "wikilink")著）が第20回[産経児童出版文化賞](https://ja.wikipedia.org/wiki/産経児童出版文化賞 "wikilink")を受賞。
-  - 1973年:[地域文化シリーズ](https://ja.wikipedia.org/wiki/地域文化シリーズ "wikilink")『瞽女 盲目の旅芸人』（[斎藤真一](https://ja.wikipedia.org/wiki/斎藤真一 "wikilink")著）が第21回[日本エッセイスト・クラブ賞](https://ja.wikipedia.org/wiki/日本エッセイスト・クラブ賞 "wikilink")を受賞。\[4\]
+  - 1973年:[地域文化シリーズ](https://ja.wikipedia.org/wiki/地域文化シリーズ "wikilink")『瞽女 盲目の旅芸人』（[斎藤真一](../Page/斎藤真一.md "wikilink")著）が第21回[日本エッセイスト・クラブ賞](../Page/日本エッセイスト・クラブ賞.md "wikilink")を受賞。\[4\]
   - [1974年](../Page/1974年.md "wikilink"):NHKブックス『イメージと人間－精神人類学の視野』（[藤岡喜愛](https://ja.wikipedia.org/wiki/藤岡喜愛 "wikilink")著）が1974年度毎日出版文化賞を受賞。
   - 1974年:『日本都市史研究』（[西川幸治](https://ja.wikipedia.org/wiki/西川幸治 "wikilink")著）が1974年[日本都市学会賞（奥井記念賞）](https://ja.wikipedia.org/wiki/日本都市学会賞（奥井記念賞） "wikilink")を受賞。\[5\]
-  - [1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink"):NHKブックス『西欧精神の探究―革新の十二世紀』（[堀米庸三](https://ja.wikipedia.org/wiki/堀米庸三 "wikilink")著）が1976年度毎日出版文化賞を受賞。
-  - 1976年:NHKブックス『牧夫フランチェスコの一日―イタリア中部山村生活誌』（[谷泰](https://ja.wikipedia.org/wiki/谷泰 "wikilink")著）が第3回[日本ノンフィクション賞](https://ja.wikipedia.org/wiki/日本ノンフィクション賞 "wikilink")を受賞。
+  - [1976年](../Page/1976年.md "wikilink"):NHKブックス『西欧精神の探究―革新の十二世紀』（[堀米庸三](../Page/堀米庸三.md "wikilink")著）が1976年度毎日出版文化賞を受賞。
+  - 1976年:NHKブックス『牧夫フランチェスコの一日―イタリア中部山村生活誌』（[谷泰](../Page/谷泰.md "wikilink")著）が第3回[日本ノンフィクション賞](https://ja.wikipedia.org/wiki/日本ノンフィクション賞 "wikilink")を受賞。
   - [1977年](../Page/1977年.md "wikilink"):NHKブックス『川の健康診断-清冽な流れを求めて』（[森下郁子](https://ja.wikipedia.org/wiki/森下郁子 "wikilink")著）が1977年度毎日出版文化賞を受賞。
-  - 1977年:NHKブックス『日本の昔話－比較研究序説』（[関敬吾](https://ja.wikipedia.org/wiki/関敬吾 "wikilink")著）が第16回[柳田賞](https://ja.wikipedia.org/wiki/柳田賞 "wikilink")を受賞。
+  - 1977年:NHKブックス『日本の昔話－比較研究序説』（[関敬吾](../Page/関敬吾.md "wikilink")著）が第16回[柳田賞](https://ja.wikipedia.org/wiki/柳田賞 "wikilink")を受賞。
   - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink"):NHKブックス『万葉開眼（上・下）』（[土橋寛](https://ja.wikipedia.org/wiki/土橋寛 "wikilink")著）が1978年度毎日出版文化賞を受賞。
 
 ### 1980年代
 
   - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink"):NHKブックス『東亰時代－江戸と東京の間で』（[小木新造](https://ja.wikipedia.org/wiki/小木新造 "wikilink")著）が1980年度毎日出版文化賞を受賞。
   - 1980年:『東京庶民生活史研究』（[小木新造](https://ja.wikipedia.org/wiki/小木新造 "wikilink")著）が第2回[角川源義賞](https://ja.wikipedia.org/wiki/角川源義賞 "wikilink")を受賞。\[6\]
-  - 1980年:NHK『[シルクロード 絲綢之路](https://ja.wikipedia.org/wiki/NHK特集_シルクロード "wikilink")』（NHK取材班他著）が第15回[書店新風会](https://ja.wikipedia.org/wiki/書店新風会 "wikilink")賞を受賞。\[7\]
-  - [1981年](https://ja.wikipedia.org/wiki/1981年 "wikilink"):NHKブックス『鉄を生みだした帝国』（[大村幸弘](https://ja.wikipedia.org/wiki/大村幸弘 "wikilink")著）が第2回[講談社ノンフィクション賞](https://ja.wikipedia.org/wiki/講談社ノンフィクション賞 "wikilink")を受賞。\[8\]
-  - [1982年](../Page/1982年.md "wikilink"):NHKブックス『イラン人の心』（[岡田恵美子](https://ja.wikipedia.org/wiki/岡田恵美子 "wikilink")著）が第30回日本エッセイスト・クラブ賞を受賞。\[9\]
-  - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink"):[テキスト](../Page/テキスト.md "wikilink")『[趣味講座](https://ja.wikipedia.org/wiki/趣味講座 "wikilink")シリーズ』が第20回[書店新風会](https://ja.wikipedia.org/wiki/書店新風会 "wikilink")賞を受賞。\[10\]
+  - 1980年:NHK『[シルクロード 絲綢之路](../Page/NHK特集_シルクロード.md "wikilink")』（NHK取材班他著）が第15回[書店新風会](https://ja.wikipedia.org/wiki/書店新風会 "wikilink")賞を受賞。\[7\]
+  - [1981年](../Page/1981年.md "wikilink"):NHKブックス『鉄を生みだした帝国』（[大村幸弘](../Page/大村幸弘.md "wikilink")著）が第2回[講談社ノンフィクション賞](../Page/講談社ノンフィクション賞.md "wikilink")を受賞。\[8\]
+  - [1982年](../Page/1982年.md "wikilink"):NHKブックス『イラン人の心』（[岡田恵美子](../Page/岡田恵美子.md "wikilink")著）が第30回日本エッセイスト・クラブ賞を受賞。\[9\]
+  - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink"):[テキスト](../Page/テキスト.md "wikilink")『[趣味講座](../Page/趣味講座.md "wikilink")シリーズ』が第20回[書店新風会](https://ja.wikipedia.org/wiki/書店新風会 "wikilink")賞を受賞。\[10\]
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink"):NHKブックス『画家たちの原風景』（[堀尾真紀子](https://ja.wikipedia.org/wiki/堀尾真紀子 "wikilink")著）が第35回日本エッセイスト・クラブ賞を受賞。\[11\]
 
 ### 1990年代
 
-  - [1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink"):『NHKフィレンツェ・ルネサンス（全6巻）』が第15回[マルコ・ポーロ賞](https://ja.wikipedia.org/wiki/マルコ・ポーロ賞 "wikilink")を受賞。
-  - 1992年:『[電子立国日本の自叙伝](https://ja.wikipedia.org/wiki/電子立国日本の自叙伝 "wikilink")』（[相田洋](https://ja.wikipedia.org/wiki/相田洋 "wikilink")著）が第1回[大川出版賞](https://ja.wikipedia.org/wiki/大川出版賞 "wikilink")を受賞。\[12\]
-  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink"):『[ソフィーの世界](https://ja.wikipedia.org/wiki/ソフィーの世界 "wikilink")』（[ヨースタイン・ゴルデル](https://ja.wikipedia.org/wiki/ヨースタイン・ゴルデル "wikilink")著）が第30回[書店新風会](https://ja.wikipedia.org/wiki/書店新風会 "wikilink")賞を受賞。\[13\]
-  - [1996年](../Page/1996年.md "wikilink"):『森の回廊』（[吉田敏浩](https://ja.wikipedia.org/wiki/吉田敏浩 "wikilink")著）が第27回[大宅壮一ノンフィクション賞](https://ja.wikipedia.org/wiki/大宅壮一ノンフィクション賞 "wikilink")を受賞。\[14\]
-  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink"):『百歳人、加藤シヅエ 生きる』（[加藤シヅエ](https://ja.wikipedia.org/wiki/加藤シヅエ "wikilink")著）が第45回日本エッセイスト・クラブ賞を受賞。\[15\]
-  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink"):『エルミタージュの緞帳』（[小林和男著](https://ja.wikipedia.org/wiki/小林和男_\(ジャーナリスト\) "wikilink")）が第46回日本エッセイスト・クラブ賞を受賞。\[16\]
-  - 1998年:『競馬の血統学－サラブレッドの進化と限界』（[吉沢譲治](https://ja.wikipedia.org/wiki/吉沢譲治 "wikilink")著）が1998年[JRA賞馬事文化賞](https://ja.wikipedia.org/wiki/JRA賞馬事文化賞 "wikilink")を受賞。
-  - [1999年](../Page/1999年.md "wikilink"):[NHK人間大学](https://ja.wikipedia.org/wiki/NHK人間大学 "wikilink")テキスト『宇宙を空想してきた人々』（[野田昌宏](../Page/野田昌宏.md "wikilink")著）が第30回[星雲賞](../Page/星雲賞.md "wikilink")（ノンフィクション部門）を受賞。\[17\]
+  - [1992年](../Page/1992年.md "wikilink"):『NHKフィレンツェ・ルネサンス（全6巻）』が第15回[マルコ・ポーロ賞](../Page/マルコ・ポーロ賞.md "wikilink")を受賞。
+  - 1992年:『[電子立国日本の自叙伝](../Page/電子立国日本の自叙伝.md "wikilink")』（[相田洋](../Page/相田洋.md "wikilink")著）が第1回[大川出版賞](https://ja.wikipedia.org/wiki/大川出版賞 "wikilink")を受賞。\[12\]
+  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink"):『[ソフィーの世界](../Page/ソフィーの世界.md "wikilink")』（[ヨースタイン・ゴルデル](../Page/ヨースタイン・ゴルデル.md "wikilink")著）が第30回[書店新風会](https://ja.wikipedia.org/wiki/書店新風会 "wikilink")賞を受賞。\[13\]
+  - [1996年](../Page/1996年.md "wikilink"):『森の回廊』（[吉田敏浩](../Page/吉田敏浩.md "wikilink")著）が第27回[大宅壮一ノンフィクション賞](../Page/大宅壮一ノンフィクション賞.md "wikilink")を受賞。\[14\]
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink"):『百歳人、加藤シヅエ 生きる』（[加藤シヅエ](../Page/加藤シヅエ.md "wikilink")著）が第45回日本エッセイスト・クラブ賞を受賞。\[15\]
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink"):『エルミタージュの緞帳』（[小林和男著](../Page/小林和男_\(ジャーナリスト\).md "wikilink")）が第46回日本エッセイスト・クラブ賞を受賞。\[16\]
+  - 1998年:『競馬の血統学－サラブレッドの進化と限界』（[吉沢譲治](https://ja.wikipedia.org/wiki/吉沢譲治 "wikilink")著）が1998年[JRA賞馬事文化賞](../Page/JRA賞馬事文化賞.md "wikilink")を受賞。
+  - [1999年](../Page/1999年.md "wikilink"):[NHK人間大学](../Page/NHK人間大学.md "wikilink")テキスト『宇宙を空想してきた人々』（[野田昌宏](../Page/野田昌宏.md "wikilink")著）が第30回[星雲賞](../Page/星雲賞.md "wikilink")（ノンフィクション部門）を受賞。\[17\]
 
 ### 2000年代
 
-  - [2001年](../Page/2001年.md "wikilink"):NHKブックス『身体感覚を取り戻す－腰・ハラ文化の再生』（[齋藤孝著](https://ja.wikipedia.org/wiki/齋藤孝_\(教育学者\) "wikilink")）が第14回[新潮学芸賞](https://ja.wikipedia.org/wiki/新潮学芸賞 "wikilink")を受賞。
+  - [2001年](../Page/2001年.md "wikilink"):NHKブックス『身体感覚を取り戻す－腰・ハラ文化の再生』（[齋藤孝著](../Page/齋藤孝_\(教育学者\).md "wikilink")）が第14回[新潮学芸賞](../Page/新潮学芸賞.md "wikilink")を受賞。
   - 2001年:『そっと耳を澄ませば』（[三宮麻由子](https://ja.wikipedia.org/wiki/三宮麻由子 "wikilink")著）が第49回日本エッセイスト・クラブ賞を受賞。\[18\]
-  - 2001年:『[もっとすごい科学で守ります\!](https://ja.wikipedia.org/wiki/すごい科学で守ります! "wikilink")』（[長谷川裕一](../Page/長谷川裕一.md "wikilink")著）が第32回星雲賞（ノンフィクション部門）を受賞。\[19\]
+  - 2001年:『[もっとすごい科学で守ります\!](../Page/すごい科学で守ります!.md "wikilink")』（[長谷川裕一](../Page/長谷川裕一.md "wikilink")著）が第32回星雲賞（ノンフィクション部門）を受賞。\[19\]
   - [2003年](../Page/2003年.md "wikilink"):『神楽坂ホン書き旅館』（[黒川鍾信](https://ja.wikipedia.org/wiki/黒川鍾信 "wikilink")著）が第51回日本エッセイスト・クラブ賞を受賞。\[20\]
   - 2003年:NHKブックス『経済安全保障を考える－海洋国家日本の選択』（[村山裕三](https://ja.wikipedia.org/wiki/村山裕三 "wikilink")著）が2003年[国際安全保障学会](https://ja.wikipedia.org/wiki/国際安全保障学会 "wikilink")優秀出版奨励賞を受賞。\[21\]
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink"):『天地人』（[火坂雅志](https://ja.wikipedia.org/wiki/火坂雅志 "wikilink")著）が第13回[中山義秀文学賞](https://ja.wikipedia.org/wiki/中山義秀文学賞 "wikilink")を受賞。\[22\]
+  - [2007年](../Page/2007年.md "wikilink"):『天地人』（[火坂雅志](../Page/火坂雅志.md "wikilink")著）が第13回[中山義秀文学賞](../Page/中山義秀文学賞.md "wikilink")を受賞。\[22\]
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink"):[NHKスペシャル](../Page/NHKスペシャル.md "wikilink")『グーグル革命の衝撃』（NHK取材班著）が第17回大川出版賞を受賞。\[23\]
 
 ### 2010年代
 
-  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink"):NHKスペシャル『100年の難問はなぜ解けたのか－天才数学者 失踪の謎』（春日真人著）が第6回[日本数学会](https://ja.wikipedia.org/wiki/日本数学会 "wikilink")出版賞を受賞。\[24\]
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink"):NHKスペシャル『100年の難問はなぜ解けたのか－天才数学者 失踪の謎』（春日真人著）が第6回[日本数学会](../Page/日本数学会.md "wikilink")出版賞を受賞。\[24\]
   - 2010年:NHKブックス『太陽の科学-磁場から宇宙の謎に迫る』（[柴田一成](https://ja.wikipedia.org/wiki/柴田一成 "wikilink")著）が2010年[講談社科学出版賞](https://ja.wikipedia.org/wiki/講談社科学出版賞 "wikilink")を受賞。\[25\]
-  - 2010年:『ヤノマミ』（[国分拓](https://ja.wikipedia.org/wiki/国分拓 "wikilink")著）が第10回[石橋湛山記念早稲田ジャーナリズム大賞](https://ja.wikipedia.org/wiki/石橋湛山記念早稲田ジャーナリズム大賞 "wikilink")文化貢献部門大賞を受賞。\[26\]
-  - [2011年](../Page/2011年.md "wikilink"):『ヤノマミ』（国分拓著）が第42回[大宅壮一ノンフィクション賞](https://ja.wikipedia.org/wiki/大宅壮一ノンフィクション賞 "wikilink")を受賞。\[27\]
-  - [2012年](../Page/2012年.md "wikilink"):NHKブックス『ITが守る、ITを守る－天災・人災と情報技術』（[坂井修一](https://ja.wikipedia.org/wiki/坂井修一 "wikilink")著）が第21回[大川出版賞](https://ja.wikipedia.org/wiki/大川出版賞 "wikilink")を受賞。\[28\]
-  - 2012年:NHKブックス『＜声＞の国民国家・日本』（[兵藤裕己](https://ja.wikipedia.org/wiki/兵藤裕己 "wikilink")著）が第10回[やまなし文学賞](https://ja.wikipedia.org/wiki/やまなし文学賞 "wikilink")研究・評論部門賞を受賞。
+  - 2010年:『ヤノマミ』（[国分拓](https://ja.wikipedia.org/wiki/国分拓 "wikilink")著）が第10回[石橋湛山記念早稲田ジャーナリズム大賞](../Page/石橋湛山記念早稲田ジャーナリズム大賞.md "wikilink")文化貢献部門大賞を受賞。\[26\]
+  - [2011年](../Page/2011年.md "wikilink"):『ヤノマミ』（国分拓著）が第42回[大宅壮一ノンフィクション賞](../Page/大宅壮一ノンフィクション賞.md "wikilink")を受賞。\[27\]
+  - [2012年](../Page/2012年.md "wikilink"):NHKブックス『ITが守る、ITを守る－天災・人災と情報技術』（[坂井修一](../Page/坂井修一.md "wikilink")著）が第21回[大川出版賞](https://ja.wikipedia.org/wiki/大川出版賞 "wikilink")を受賞。\[28\]
+  - 2012年:NHKブックス『＜声＞の国民国家・日本』（[兵藤裕己](../Page/兵藤裕己.md "wikilink")著）が第10回[やまなし文学賞](https://ja.wikipedia.org/wiki/やまなし文学賞 "wikilink")研究・評論部門賞を受賞。
   - 2012年:『田口護のスペシャルティコーヒー大全』（田口護著）が第3回[辻静雄食文化賞](https://ja.wikipedia.org/wiki/辻静雄食文化賞 "wikilink")を受賞。\[29\]
   - [2013年](../Page/2013年.md "wikilink"):『きょうの料理』（番組・テキスト）が第4回[辻静雄食文化賞](https://ja.wikipedia.org/wiki/辻静雄食文化賞 "wikilink")を受賞。\[30\]
   - 2013年:テキスト『[100分de名著](https://ja.wikipedia.org/wiki/100分de名著 "wikilink")』が第5回雑誌大賞特別賞を受賞。
   - 2013年:NHKブックス『詩歌と戦争 白秋と民衆，総力戦への「道」』（[中野敏男](https://ja.wikipedia.org/wiki/中野敏男 "wikilink")著）が第13回[日本詩人クラブ](https://ja.wikipedia.org/wiki/日本詩人クラブ "wikilink")詩界賞を受賞。\[31\]
-  - [2014年](../Page/2014年.md "wikilink"):『天、共に在り－アフガニスタン三十年の闘い』（[中村哲](https://ja.wikipedia.org/wiki/中村哲 "wikilink")著）が第1回[城山三郎賞](https://ja.wikipedia.org/wiki/城山三郎賞 "wikilink")および、第4回[梅棹忠夫](https://ja.wikipedia.org/wiki/梅棹忠夫 "wikilink")・山と探検文学賞を受賞。\[32\]\[33\]
+  - [2014年](../Page/2014年.md "wikilink"):『天、共に在り－アフガニスタン三十年の闘い』（[中村哲](https://ja.wikipedia.org/wiki/中村哲 "wikilink")著）が第1回[城山三郎賞](https://ja.wikipedia.org/wiki/城山三郎賞 "wikilink")および、第4回[梅棹忠夫](../Page/梅棹忠夫.md "wikilink")・山と探検文学賞を受賞。\[32\]\[33\]
 
 <!-- end list -->
 
   - [2015年](../Page/2015年.md "wikilink"):『ゼロ・トゥ・ワン』（[ピーター・ティール](https://ja.wikipedia.org/wiki/ピーター・ティール "wikilink")著）が2015年[ビジネス書大賞](https://ja.wikipedia.org/wiki/ビジネス書大賞 "wikilink")を受賞。\[34\]
   - 2015年:NHKブックス『納豆の起源』（[横山智](https://ja.wikipedia.org/wiki/横山智 "wikilink")著）が第5回[地域研究コンソーシアム賞](https://ja.wikipedia.org/wiki/地域研究コンソーシアム賞 "wikilink")研究作品賞を受賞。。\[35\]
-  - [2016年](../Page/2016年.md "wikilink"):NHKブックス『江戸日本の転換点－水田の激増は何をもたらしたか』（[武井弘一](https://ja.wikipedia.org/wiki/武井弘一 "wikilink")著）が第4回[河合隼雄](https://ja.wikipedia.org/wiki/河合隼雄 "wikilink")学芸賞を受賞。\[36\]
+  - [2016年](../Page/2016年.md "wikilink"):NHKブックス『江戸日本の転換点－水田の激増は何をもたらしたか』（[武井弘一](https://ja.wikipedia.org/wiki/武井弘一 "wikilink")著）が第4回[河合隼雄](../Page/河合隼雄.md "wikilink")学芸賞を受賞。\[36\]
   - 2016年:『京都・瓢亭－四季の日本料理』（[高橋英一](https://ja.wikipedia.org/wiki/高橋英一 "wikilink")・[高橋義弘](https://ja.wikipedia.org/wiki/高橋義弘 "wikilink")著）が2016年[グルマン世界料理本大賞](https://ja.wikipedia.org/wiki/グルマン世界料理本大賞 "wikilink")（日本料理部門）を受賞。\[37\]
   - 2016年:NHKブックス『納豆の起源』（[横山智](https://ja.wikipedia.org/wiki/横山智 "wikilink")著）が2016年[日本地理学会](https://ja.wikipedia.org/wiki/日本地理学会 "wikilink")学会賞著作発信部門を受賞。\[38\]
   - 2016年:『闘鬼 斎藤一』（[吉川永青](https://ja.wikipedia.org/wiki/吉川永青 "wikilink")著）が第4回[野村胡堂文学賞](https://ja.wikipedia.org/wiki/野村胡堂文学賞 "wikilink")を受賞。\[39\]
@@ -274,7 +274,7 @@
 ## 関連人物
 
   - [大矢鞆音](https://ja.wikipedia.org/wiki/大矢鞆音 "wikilink")（美術評論家、元同社取締役美術部長）
-  - [河西三省](https://ja.wikipedia.org/wiki/河西三省 "wikilink")（[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")、元同社社長）
+  - [河西三省](../Page/河西三省.md "wikilink")（[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")、元同社社長）
 
 ## 外部リンク
 

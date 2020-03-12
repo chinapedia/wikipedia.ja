@@ -1,15 +1,15 @@
 > この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
 
 
-『**NHKニュース おはよう日本**』（エヌエイチケイニュース おはようにっぽん、エヌエイチケイニュース おはようにほん）は、[NHKで](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[1993年](../Page/1993年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")されている[朝の情報番組](https://ja.wikipedia.org/wiki/朝の情報番組 "wikilink")・[報道番組](../Page/報道番組.md "wikilink")。
+『**NHKニュース おはよう日本**』（エヌエイチケイニュース おはようにっぽん、エヌエイチケイニュース おはようにほん）は、[NHKで](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[1993年](../Page/1993年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[生放送](../Page/生放送.md "wikilink")されている[朝の情報番組](https://ja.wikipedia.org/wiki/朝の情報番組 "wikilink")・[報道番組](../Page/報道番組.md "wikilink")。
 
-日本国内向けには[総合テレビジョン](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")、海外向けには[NHKワールド](https://ja.wikipedia.org/wiki/NHKワールド "wikilink")・プレミアムで放送。かつては[BS2や](https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン "wikilink")[BShi](https://ja.wikipedia.org/wiki/NHKデジタル衛星ハイビジョン "wikilink")、[NHKワールドTV](https://ja.wikipedia.org/wiki/NHKワールドTV "wikilink")、[モバHO\!](https://ja.wikipedia.org/wiki/モバHO! "wikilink")『モバイル.n』でも放送されていた。
+日本国内向けには[総合テレビジョン](../Page/NHK総合テレビジョン.md "wikilink")、海外向けには[NHKワールド](https://ja.wikipedia.org/wiki/NHKワールド "wikilink")・プレミアムで放送。かつては[BS2や](../Page/NHK衛星第2テレビジョン.md "wikilink")[BShi](../Page/NHKデジタル衛星ハイビジョン.md "wikilink")、[NHKワールドTV](../Page/NHKワールドTV.md "wikilink")、[モバHO\!](../Page/モバHO!.md "wikilink")『モバイル.n』でも放送されていた。
 
-時間帯別に平日では3部構成、祝日を除く土曜日は2部構成となっている。また7時台では[リアルタイム字幕放送](https://ja.wikipedia.org/wiki/リアルタイム字幕放送 "wikilink")を実施している。当初は全国ニュースの時間帯のみ実施していたが、後に祝日特集枠と首都圏ローカルニュース枠（2012年度途中から）でも実施するようになった\[1\]。
+時間帯別に平日では3部構成、祝日を除く土曜日は2部構成となっている。また7時台では[リアルタイム字幕放送](../Page/リアルタイム字幕放送.md "wikilink")を実施している。当初は全国ニュースの時間帯のみ実施していたが、後に祝日特集枠と首都圏ローカルニュース枠（2012年度途中から）でも実施するようになった\[1\]。
 
 ## 概要
 
-NHKの朝のニュース・情報番組として、その前身となる**『[NHKモーニングワイド](../Page/NHKモーニングワイド.md "wikilink")』**に替わって1993年に放送開始。主な内容はその日のニュースとスポーツ、気象情報、市況情報を中心に、様々なミニコーナーを用意している。放送時間の拡大に伴い、ミニコーナーの放送頻度を増やしている。祝日は編成が異なり、7時30分から25分間「祝日特集」を放送。[近代オリンピック](../Page/近代オリンピック.md "wikilink")（[夏季](../Page/夏季オリンピック.md "wikilink")・[冬季共](../Page/冬季オリンピック.md "wikilink")）のうち、欧州・アフリカ・アメリカ大陸で開催される場合、時差の関係で競技中継と重複する影響が高いため、この場合新聞・EPGの上での番組題名は「おはよう日本&オリンピック」\[2\]として、五輪中継を随時入れつつ放送が行われる（なお7時台にかかる一部種目は当番組と『[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")』の枠確保のため[Eテレに迂回する時間もある](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")）。[パラリンピック](https://ja.wikipedia.org/wiki/パラリンピック "wikilink")も同様である。
+NHKの朝のニュース・情報番組として、その前身となる**『[NHKモーニングワイド](../Page/NHKモーニングワイド.md "wikilink")』**に替わって1993年に放送開始。主な内容はその日のニュースとスポーツ、気象情報、市況情報を中心に、様々なミニコーナーを用意している。放送時間の拡大に伴い、ミニコーナーの放送頻度を増やしている。祝日は編成が異なり、7時30分から25分間「祝日特集」を放送。[近代オリンピック](../Page/近代オリンピック.md "wikilink")（[夏季](../Page/夏季オリンピック.md "wikilink")・[冬季共](../Page/冬季オリンピック.md "wikilink")）のうち、欧州・アフリカ・アメリカ大陸で開催される場合、時差の関係で競技中継と重複する影響が高いため、この場合新聞・EPGの上での番組題名は「おはよう日本&オリンピック」\[2\]として、五輪中継を随時入れつつ放送が行われる（なお7時台にかかる一部種目は当番組と『[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")』の枠確保のため[Eテレに迂回する時間もある](../Page/NHK教育テレビジョン.md "wikilink")）。[パラリンピック](../Page/パラリンピック.md "wikilink")も同様である。
 
 制作はNHK報道局の「おはよう日本部」という部署が担当、『おはよう日本』以外は深夜の終夜報道\[3\]（台風や地震・津波などの自然災害や大事件・事故発生時）から日本時間で平日9時・土日祝10時のニュースまで\[4\]の制作を担当する。そのため、『NHKニュース』となっていても使用されるテロップ類がおはよう日本のフォーマットになっている。4時台の担当キャスターは深夜の終夜報道（自然災害や緊急報道など）を兼務している。
 
@@ -21,9 +21,9 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 
 2010年7月5日からアナログ放送およびNHKワールド・プレミアムではレターボックス16:9での放送となった。それまではサイドカットした4対3コンバートで放送していた。
 
-2010年代以降、土日祝版の男性メインキャスターはノーネクタイにカジュアルジャケットスタイル\[10\]となっているが、大事件・大事故・災害時は平日および『[ウィークエンド東北](https://ja.wikipedia.org/wiki/ウィークエンド東北 "wikilink")』『[ウィークエンド中部](https://ja.wikipedia.org/wiki/ウィークエンド中部 "wikilink")』、そして10:00のニュースと同様スーツ・ネクタイスタイルになる。
+2010年代以降、土日祝版の男性メインキャスターはノーネクタイにカジュアルジャケットスタイル\[10\]となっているが、大事件・大事故・災害時は平日および『[ウィークエンド東北](../Page/ウィークエンド東北.md "wikilink")』『[ウィークエンド中部](https://ja.wikipedia.org/wiki/ウィークエンド中部 "wikilink")』、そして10:00のニュースと同様スーツ・ネクタイスタイルになる。
 
-2020年からは[NHKプラス](https://ja.wikipedia.org/wiki/NHKプラス "wikilink")でのネット同時配信が開始（3月の試験配信では7時台のみ、4月からの本配信では6時台・7時台のみ）。
+2020年からは[NHKプラス](../Page/NHKプラス.md "wikilink")でのネット同時配信が開始（3月の試験配信では7時台のみ、4月からの本配信では6時台・7時台のみ）。
 
 ## 主な内容
 
@@ -42,7 +42,7 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 <!-- end list -->
 
   -
-    [ラジオ第1放送](https://ja.wikipedia.org/wiki/NHKラジオ第1放送 "wikilink")『[マイあさ\!](https://ja.wikipedia.org/wiki/マイあさ! "wikilink")』7:40からの「マイあさ\!・ここに注目\!」でも同じ内容を放送。
+    [ラジオ第1放送](../Page/NHKラジオ第1放送.md "wikilink")『[マイあさ\!](https://ja.wikipedia.org/wiki/マイあさ! "wikilink")』7:40からの「マイあさ\!・ここに注目\!」でも同じ内容を放送。
 
 <!-- end list -->
 
@@ -60,7 +60,7 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 <!-- end list -->
 
   -
-    [ダウ平均株価](https://ja.wikipedia.org/wiki/ダウ平均株価 "wikilink")、[ナスダック総合指数](https://ja.wikipedia.org/wiki/ナスダック総合指数 "wikilink")（2001年より）、2010年3月30日から[日経平均株価](../Page/日経平均株価.md "wikilink")と[TOPIXを表示](../Page/東証株価指数.md "wikilink")。すべて前日付けの情報となる。現在の為替相場を併せて紹介。
+    [ダウ平均株価](https://ja.wikipedia.org/wiki/ダウ平均株価 "wikilink")、[ナスダック総合指数](../Page/ナスダック総合指数.md "wikilink")（2001年より）、2010年3月30日から[日経平均株価](../Page/日経平均株価.md "wikilink")と[TOPIXを表示](../Page/東証株価指数.md "wikilink")。すべて前日付けの情報となる。現在の為替相場を併せて紹介。
 
 <!-- end list -->
 
@@ -111,7 +111,7 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 <!-- end list -->
 
   -
-    前日（月曜日は前週の金曜日）の「[首都圏ネットワーク](https://ja.wikipedia.org/wiki/首都圏ネットワーク "wikilink")」で放送された内容をそのまま放送\[12\]。茨城県域を除く関東地方は再放送であるが、茨城県域を含んだその他の地域は本放送となる。なお、首都圏ネットワークの公式HP、またはNHK首都圏ニュースWEBのHPでも過去に放送した動画が見ることができる。
+    前日（月曜日は前週の金曜日）の「[首都圏ネットワーク](../Page/首都圏ネットワーク.md "wikilink")」で放送された内容をそのまま放送\[12\]。茨城県域を除く関東地方は再放送であるが、茨城県域を含んだその他の地域は本放送となる。なお、首都圏ネットワークの公式HP、またはNHK首都圏ニュースWEBのHPでも過去に放送した動画が見ることができる。
 
 <!-- end list -->
 
@@ -120,31 +120,31 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 <!-- end list -->
 
   -
-    世界各地の放送局が伝えたニュースを硬軟取り混ぜて紹介。2012年4月2日より開始。紹介される放送局はアメリカの[ABC](https://ja.wikipedia.org/wiki/アメリカン・ブロードキャスティング・カンパニー "wikilink")、イギリスの[BBC](../Page/英国放送協会.md "wikilink")、オーストラリアの[ABC](https://ja.wikipedia.org/wiki/オーストラリア放送協会 "wikilink")、韓国の[KBS](https://ja.wikipedia.org/wiki/韓国放送公社 "wikilink")、中国の[中国中央テレビ](https://ja.wikipedia.org/wiki/中国中央電視台 "wikilink")、カタールの[アルジャジーラ](../Page/アルジャジーラ.md "wikilink")の6局。2014年3月31日よりフランスの[フランス2](https://ja.wikipedia.org/wiki/フランス2 "wikilink")が加わり7局となった\[13\]。さらに2014年10月7日より紹介される放送局が以下の22局に増えた。\[14\]\[15\]
+    世界各地の放送局が伝えたニュースを硬軟取り混ぜて紹介。2012年4月2日より開始。紹介される放送局はアメリカの[ABC](../Page/アメリカン・ブロードキャスティング・カンパニー.md "wikilink")、イギリスの[BBC](../Page/英国放送協会.md "wikilink")、オーストラリアの[ABC](../Page/オーストラリア放送協会.md "wikilink")、韓国の[KBS](../Page/韓国放送公社.md "wikilink")、中国の[中国中央テレビ](../Page/中国中央電視台.md "wikilink")、カタールの[アルジャジーラ](../Page/アルジャジーラ.md "wikilink")の6局。2014年3月31日よりフランスの[フランス2](https://ja.wikipedia.org/wiki/フランス2 "wikilink")が加わり7局となった\[13\]。さらに2014年10月7日より紹介される放送局が以下の22局に増えた。\[14\]\[15\]
 
 <!-- end list -->
 
-  - [アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink") - [ABC](https://ja.wikipedia.org/wiki/アメリカン・ブロードキャスティング・カンパニー "wikilink")
+  - [アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink") - [ABC](../Page/アメリカン・ブロードキャスティング・カンパニー.md "wikilink")
   - アメリカ - [CNN](https://ja.wikipedia.org/wiki/CNN "wikilink")
   - [ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink") - [バンデランテス](https://ja.wikipedia.org/wiki/バンデランテス "wikilink")
   - [イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink") - [BBC](../Page/英国放送協会.md "wikilink")
   - [フランス](https://ja.wikipedia.org/wiki/フランス "wikilink") - [フランス2](https://ja.wikipedia.org/wiki/フランス2 "wikilink")
-  - [ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink") - [ZDF](https://ja.wikipedia.org/wiki/第2ドイツテレビ "wikilink")
-  - [ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink") - [ARD](https://ja.wikipedia.org/wiki/ドイツ公共放送連盟 "wikilink")
-  - [スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink") - [TVE](https://ja.wikipedia.org/wiki/テレビシオン・エスパニョーラ "wikilink")
-  - [ロシア](../Page/ロシア.md "wikilink") - [RTR](https://ja.wikipedia.org/wiki/ロシア1 "wikilink")
-  - [韓国](https://ja.wikipedia.org/wiki/大韓民国 "wikilink") - [KBS](https://ja.wikipedia.org/wiki/韓国放送公社 "wikilink")
-  - [中国](../Page/中華人民共和国.md "wikilink") - [中国中央テレビ](https://ja.wikipedia.org/wiki/中国中央電視台 "wikilink")
+  - [ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink") - [ZDF](../Page/第2ドイツテレビ.md "wikilink")
+  - [ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink") - [ARD](../Page/ドイツ公共放送連盟.md "wikilink")
+  - [スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink") - [TVE](../Page/テレビシオン・エスパニョーラ.md "wikilink")
+  - [ロシア](../Page/ロシア.md "wikilink") - [RTR](../Page/ロシア1.md "wikilink")
+  - [韓国](../Page/大韓民国.md "wikilink") - [KBS](../Page/韓国放送公社.md "wikilink")
+  - [中国](../Page/中華人民共和国.md "wikilink") - [中国中央テレビ](../Page/中国中央電視台.md "wikilink")
   - [中国](../Page/中華人民共和国.md "wikilink") - [上海RTS](https://ja.wikipedia.org/wiki/:zh:上海广播电视台 "wikilink")
-  - [香港](https://ja.wikipedia.org/wiki/香港 "wikilink") - [ATV](https://ja.wikipedia.org/wiki/亜洲電視 "wikilink")
-  - [フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink") - [ABS-CBN](https://ja.wikipedia.org/wiki/ABS-CBN "wikilink")
-  - [ベトナム](https://ja.wikipedia.org/wiki/ベトナム "wikilink") - [VTV](https://ja.wikipedia.org/wiki/VTV "wikilink")
+  - [香港](https://ja.wikipedia.org/wiki/香港 "wikilink") - [ATV](../Page/亜洲電視.md "wikilink")
+  - [フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink") - [ABS-CBN](../Page/ABS-CBN.md "wikilink")
+  - [ベトナム](https://ja.wikipedia.org/wiki/ベトナム "wikilink") - [VTV](../Page/VTV.md "wikilink")
   - [タイ](../Page/タイ王国.md "wikilink") - [CH9](https://ja.wikipedia.org/wiki/オーソーモートー "wikilink")
   - [シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink") - [CNA](https://ja.wikipedia.org/wiki/:en:Channel_NewsAsia "wikilink")
-  - [オーストラリア](https://ja.wikipedia.org/wiki/オーストラリア "wikilink") - [ABC](https://ja.wikipedia.org/wiki/オーストラリア放送協会 "wikilink")
+  - [オーストラリア](../Page/オーストラリア.md "wikilink") - [ABC](../Page/オーストラリア放送協会.md "wikilink")
   - [インド](../Page/インド.md "wikilink") - [NDTV](https://ja.wikipedia.org/wiki/:en:NDTV "wikilink")
   - [インドネシア](../Page/インドネシア.md "wikilink") - [METRO TV](https://ja.wikipedia.org/wiki/:en:MetroTV "wikilink")
-  - [カタール](https://ja.wikipedia.org/wiki/カタール "wikilink") - [アルジャジーラ](../Page/アルジャジーラ.md "wikilink")
+  - [カタール](../Page/カタール.md "wikilink") - [アルジャジーラ](../Page/アルジャジーラ.md "wikilink")
   - [トルコ](../Page/トルコ.md "wikilink") - [TRT](https://ja.wikipedia.org/wiki/トルコ国営放送 "wikilink")
 
 <!-- end list -->
@@ -224,7 +224,7 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 
   -
     視聴者から投稿された映像を紹介するコーナー。前身の『[おはよう5](../Page/おはよう5.md "wikilink")』から放送されていた。2014年3月28日で終了。
-    また、これまでの総集編として毎月1回別枠にて「[月刊とれたてマイビデオ](https://ja.wikipedia.org/wiki/月刊とれたてマイビデオ "wikilink")」を、毎年年末には「とれたてマイビデオスペシャル」を放送していた。
+    また、これまでの総集編として毎月1回別枠にて「[月刊とれたてマイビデオ](../Page/月刊とれたてマイビデオ.md "wikilink")」を、毎年年末には「とれたてマイビデオスペシャル」を放送していた。
 
 <!-- end list -->
 
@@ -269,7 +269,7 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 <!-- end list -->
 
   - 平日 5:56（気象情報のみ）、6:28、6:55\[19\]、7:45（15分間放送）
-  - 土曜日 6:25、6:55、7:30（30分間、5地域の[地域拠点局が制作するブロック放送](https://ja.wikipedia.org/wiki/基幹局 "wikilink")）
+  - 土曜日 6:25、6:55、7:30（30分間、5地域の[地域拠点局が制作するブロック放送](../Page/基幹局.md "wikilink")）
   - 日曜日 7:40
   - 祝日編成 7:25、7:57（気象情報のみ）
 
@@ -587,7 +587,7 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 
 <!-- end list -->
 
-  - [高瀬耕造](https://ja.wikipedia.org/wiki/高瀬耕造 "wikilink")（2017年4月3日から）
+  - [高瀬耕造](../Page/高瀬耕造.md "wikilink")（2017年4月3日から）
   - [和久田麻由子](https://ja.wikipedia.org/wiki/和久田麻由子 "wikilink")（2015年3月30日から）
 
 <!-- end list -->
@@ -604,7 +604,7 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 
 <!-- end list -->
 
-  - [豊原謙二郎](https://ja.wikipedia.org/wiki/豊原謙二郎 "wikilink")（2018年4月2日から）　
+  - [豊原謙二郎](../Page/豊原謙二郎.md "wikilink")（2018年4月2日から）　
   - [武本大樹](https://ja.wikipedia.org/wiki/武本大樹 "wikilink")（2019年4月1日から）
 
 <!-- end list -->
@@ -612,7 +612,7 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
   -
     以上2名が週交代で担当
 
-  - [気象情報](https://ja.wikipedia.org/wiki/気象情報_\(NHK\) "wikilink")
+  - [気象情報](../Page/気象情報_\(NHK\).md "wikilink")
 
 <!-- end list -->
 
@@ -622,12 +622,12 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 <!-- end list -->
 
   - 中継リポーター
-    下記は主に報道リポートを担当するアナウンサー。不定期で平日午後（主に金曜）、土曜日・日曜日・祝日の夜（土日は[ニュース645も兼任することもある](https://ja.wikipedia.org/wiki/ニュース645_\(首都圏センター\) "wikilink")）・深夜 - 翌日早朝のニュース・気象情報（土日祝の当番組ニュースリーダー）を担当する。新井が不在の場合はいずれかが土日祝のメインを担当する（2018年度は当時リポーターだった[中澤輝](https://ja.wikipedia.org/wiki/中澤輝 "wikilink")が担当）。
+    下記は主に報道リポートを担当するアナウンサー。不定期で平日午後（主に金曜）、土曜日・日曜日・祝日の夜（土日は[ニュース645も兼任することもある](../Page/ニュース645_\(首都圏センター\).md "wikilink")）・深夜 - 翌日早朝のニュース・気象情報（土日祝の当番組ニュースリーダー）を担当する。新井が不在の場合はいずれかが土日祝のメインを担当する（2018年度は当時リポーターだった[中澤輝](https://ja.wikipedia.org/wiki/中澤輝 "wikilink")が担当）。
     また2018年度からは5・7時台の「まちかど情報室」の進行も担当する。
 
 <!-- end list -->
 
-  - [廣田直敬](https://ja.wikipedia.org/wiki/廣田直敬 "wikilink")（2016年6月から）
+  - [廣田直敬](../Page/廣田直敬.md "wikilink")（2016年6月から）
   - [大槻隆行](https://ja.wikipedia.org/wiki/大槻隆行 "wikilink")（2018年4月から）　
   - [佐藤誠太](https://ja.wikipedia.org/wiki/佐藤誠太 "wikilink")（2019年4月から）
   - [飯島徹郎](https://ja.wikipedia.org/wiki/飯島徹郎 "wikilink")（2019年8月から）
@@ -648,7 +648,7 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 
 <!-- end list -->
 
-  - [廣瀬智美](https://ja.wikipedia.org/wiki/廣瀬智美 "wikilink")（2019年4月6日から）
+  - [廣瀬智美](../Page/廣瀬智美.md "wikilink")（2019年4月6日から）
 
 <!-- end list -->
 
@@ -664,7 +664,7 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 
 <!-- end list -->
 
-  - [南利幸](https://ja.wikipedia.org/wiki/南利幸 "wikilink")
+  - [南利幸](../Page/南利幸.md "wikilink")
 
 ## 2020年度の出演者
 
@@ -677,7 +677,7 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 
 **6・7時台**
 
-  - [高瀬耕造](https://ja.wikipedia.org/wiki/高瀬耕造 "wikilink")
+  - [高瀬耕造](../Page/高瀬耕造.md "wikilink")
   - [桑子真帆](https://ja.wikipedia.org/wiki/桑子真帆 "wikilink")
 
 ## 歴代の出演者
@@ -713,12 +713,12 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 <tr class="odd">
 <td><p>1994.04.04</p></td>
 <td><p>1995.03.31</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/村上信夫_(アナウンサー)" title="wikilink">村上信夫</a></p></td>
+<td><p><a href="../Page/村上信夫_(アナウンサー).md" title="wikilink">村上信夫</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1995.04.03</p></td>
 <td><p>1996.03.29</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/伊藤博英" title="wikilink">伊藤博英</a></p></td>
+<td><p><a href="../Page/伊藤博英.md" title="wikilink">伊藤博英</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1996.04.01</p></td>
@@ -738,12 +738,12 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 <tr class="even">
 <td><p>2000.03.27</p></td>
 <td><p>2001.03.30</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/住田功一" title="wikilink">住田功一</a></p></td>
+<td><p><a href="../Page/住田功一.md" title="wikilink">住田功一</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2001.04.02</p></td>
 <td><p>2002.03.29</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中條誠子" title="wikilink">中條誠子</a></p></td>
+<td><p><a href="../Page/中條誠子.md" title="wikilink">中條誠子</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2002.04.01</p></td>
@@ -753,57 +753,57 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 <tr class="odd">
 <td><p>2003.03.31</p></td>
 <td><p>2004.03.26</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/柿沼郭" title="wikilink">柿沼郭</a></p></td>
+<td><p><a href="../Page/柿沼郭.md" title="wikilink">柿沼郭</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2004.3.29</p></td>
 <td><p>2005.03.25</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/登坂淳一" title="wikilink">登坂淳一</a></p></td>
+<td><p><a href="../Page/登坂淳一.md" title="wikilink">登坂淳一</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2005.03.28</p></td>
 <td><p>2005.12.28</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/伊藤雄彦" title="wikilink">伊藤雄彦</a></p></td>
+<td><p><a href="../Page/伊藤雄彦.md" title="wikilink">伊藤雄彦</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2006.01.04</p></td>
 <td><p>2006.03.31</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/北郷三穂子" title="wikilink">北郷三穂子</a></p></td>
+<td><p><a href="../Page/北郷三穂子.md" title="wikilink">北郷三穂子</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2006.04.03</p></td>
 <td><p>2006.12.28</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/後藤理" title="wikilink">後藤理</a></p></td>
+<td><p><a href="../Page/後藤理.md" title="wikilink">後藤理</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2007.01.04</p></td>
 <td><p>2007.03.30</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小郷知子" title="wikilink">小郷知子</a></p></td>
+<td><p><a href="../Page/小郷知子.md" title="wikilink">小郷知子</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2007.04.02</p></td>
 <td><p>2008.03.28</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/金子哲也" title="wikilink">金子哲也</a></p></td>
+<td><p><a href="../Page/金子哲也.md" title="wikilink">金子哲也</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2008.03.31</p></td>
 <td><p>2009.03.27</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/高瀬耕造" title="wikilink">高瀬耕造</a></p></td>
+<td><p><a href="../Page/高瀬耕造.md" title="wikilink">高瀬耕造</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2009.03.30</p></td>
 <td><p>2010.03.26</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/井上二郎" title="wikilink">井上二郎</a></p></td>
+<td><p><a href="../Page/井上二郎.md" title="wikilink">井上二郎</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2010.03.29</p></td>
 <td><p>2011.03.11</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/武藤友樹" title="wikilink">武藤友樹</a></p></td>
+<td><p><a href="../Page/武藤友樹.md" title="wikilink">武藤友樹</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2011.03.14</p></td>
 <td><p>2011.04.01</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/阿部渉" title="wikilink">阿部渉</a><sup>7</sup></p></td>
+<td><p><a href="../Page/阿部渉.md" title="wikilink">阿部渉</a><sup>7</sup></p></td>
 </tr>
 <tr class="even">
 <td><p>2011.04.04</p></td>
@@ -813,7 +813,7 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 <tr class="odd">
 <td><p>2012.04.02</p></td>
 <td><p>2012.11.22[31]</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/糸井羊司" title="wikilink">糸井羊司</a></p></td>
+<td><p><a href="../Page/糸井羊司.md" title="wikilink">糸井羊司</a></p></td>
 </tr>
 <tr class="even">
 <td><p>|2012.11.26</p></td>
@@ -823,7 +823,7 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 <tr class="odd">
 <td><p>2013.04.01</p></td>
 <td><p>2014.03.28</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/有田雅明" title="wikilink">有田雅明</a></p></td>
+<td><p><a href="../Page/有田雅明.md" title="wikilink">有田雅明</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2014.03.31</p></td>
@@ -838,7 +838,7 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 <tr class="even">
 <td><p>2016.04.04</p></td>
 <td><p>2017.03.31</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/田所拓也" title="wikilink">田所拓也</a></p></td>
+<td><p><a href="../Page/田所拓也.md" title="wikilink">田所拓也</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2017.04.03</p></td>
@@ -892,12 +892,12 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 <tr class="odd">
 <td><p>2008.03.31</p></td>
 <td><p>2009.03.27</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/鹿沼健介" title="wikilink">鹿沼健介</a><sup>1</sup></p></td>
+<td><p><a href="../Page/鹿沼健介.md" title="wikilink">鹿沼健介</a><sup>1</sup></p></td>
 </tr>
 <tr class="even">
 <td><p>2009.03.30</p></td>
 <td><p>2010.03.26</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/佐藤龍文" title="wikilink">佐藤龍文</a><sup>1</sup></p></td>
+<td><p><a href="../Page/佐藤龍文.md" title="wikilink">佐藤龍文</a><sup>1</sup></p></td>
 </tr>
 <tr class="odd">
 <td><p>2010.03.29</p></td>
@@ -907,7 +907,7 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 <tr class="even">
 <td><p>2013.04.01</p></td>
 <td><p>2015.03.27</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/池田達郎" title="wikilink">池田達郎</a><sup>1・3</sup></p></td>
+<td><p><a href="../Page/池田達郎.md" title="wikilink">池田達郎</a><sup>1・3</sup></p></td>
 </tr>
 <tr class="odd">
 <td><p>2015.03.30</p></td>
@@ -917,7 +917,7 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 <tr class="even">
 <td><p>2017.04.03</p></td>
 <td><p>2019.03.29</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/三條雅幸" title="wikilink">三條雅幸</a><sup>1</sup></p></td>
+<td><p><a href="../Page/三條雅幸.md" title="wikilink">三條雅幸</a><sup>1</sup></p></td>
 </tr>
 <tr class="odd">
 <td><p>2019.04.01</p></td>
@@ -959,14 +959,14 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 <td><p>1993.04.05</p></td>
 <td><p>1995.03.31</p></td>
 <td><p>（なし）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/折坂章子" title="wikilink">折坂章子</a><sup>3</sup></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/石川洋" title="wikilink">石川洋</a></p></td>
+<td><p><a href="../Page/折坂章子.md" title="wikilink">折坂章子</a><sup>3</sup></p></td>
+<td><p><a href="../Page/石川洋.md" title="wikilink">石川洋</a></p></td>
 <td><p>（なし）</p></td>
 </tr>
 <tr class="even">
 <td><p>1995.04.03</p></td>
 <td><p>1996.03.29</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中村泰人" title="wikilink">中村泰人</a></p></td>
+<td><p><a href="../Page/中村泰人.md" title="wikilink">中村泰人</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -974,7 +974,7 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 <tr class="odd">
 <td><p>1996.04.01</p></td>
 <td><p>1997.03.31</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/平井信行" title="wikilink">平井信行</a><sup>3</sup></p></td>
+<td><p><a href="../Page/平井信行.md" title="wikilink">平井信行</a><sup>3</sup></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -982,7 +982,7 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 <tr class="even">
 <td><p>1997.04.01</p></td>
 <td><p>1998.03.27</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山本哲也_(アナウンサー)" title="wikilink">山本哲也</a></p></td>
+<td><p><a href="../Page/山本哲也_(アナウンサー).md" title="wikilink">山本哲也</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -990,7 +990,7 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 <tr class="odd">
 <td><p>1998.03.30</p></td>
 <td><p>1999.03.26</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/野村正育" title="wikilink">野村正育</a><sup>6</sup></p></td>
+<td><p><a href="../Page/野村正育.md" title="wikilink">野村正育</a><sup>6</sup></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -998,15 +998,15 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 <tr class="even">
 <td><p>1999.03.29</p></td>
 <td><p>2000.03.24</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/田代大輔" title="wikilink">田代大輔</a></p></td>
+<td><p><a href="../Page/田代大輔.md" title="wikilink">田代大輔</a></p></td>
 <td><p><a href="../Page/久保純子.md" title="wikilink">久保純子</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/真下貴" title="wikilink">真下貴</a><sup>7</sup></p></td>
+<td><p><a href="../Page/真下貴.md" title="wikilink">真下貴</a><sup>7</sup></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2000.03.27</p></td>
 <td><p>2001.03.30</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/青山祐子" title="wikilink">青山祐子</a></p></td>
+<td><p><a href="../Page/青山祐子.md" title="wikilink">青山祐子</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1014,7 +1014,7 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 <tr class="even">
 <td><p>2001.04.02</p></td>
 <td><p>2002.03.29</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/田代大輔" title="wikilink">田代大輔</a></p></td>
+<td><p><a href="../Page/田代大輔.md" title="wikilink">田代大輔</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/岩田総司" title="wikilink">岩田総司</a><sup>4</sup></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/渡辺英紀" title="wikilink">渡辺英紀</a><sup>7</sup></p></td>
 <td></td>
@@ -1023,14 +1023,14 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 <td><p>2002.04.01</p></td>
 <td><p>2003.03.28</p></td>
 <td><p><a href="../Page/藤井彩子.md" title="wikilink">藤井彩子</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/池田達郎" title="wikilink">池田達郎</a><sup>7</sup></p></td>
+<td><p><a href="../Page/池田達郎.md" title="wikilink">池田達郎</a><sup>7</sup></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2003.03.31</p></td>
 <td><p>2004.03.26</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/渡辺博栄" title="wikilink">渡辺博栄</a><sup>5</sup></p></td>
+<td><p><a href="../Page/渡辺博栄.md" title="wikilink">渡辺博栄</a><sup>5</sup></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1039,30 +1039,30 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 <td><p>2004.03.29</p></td>
 <td><p>2005.03.25</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/橋詰尚子" title="wikilink">橋詰尚子</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/伊藤慶太" title="wikilink">伊藤慶太</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/谷地健吾" title="wikilink">谷地健吾</a><sup>7・8</sup></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小寺康雄" title="wikilink">小寺康雄</a></p></td>
+<td><p><a href="../Page/伊藤慶太.md" title="wikilink">伊藤慶太</a></p></td>
+<td><p><a href="../Page/谷地健吾.md" title="wikilink">谷地健吾</a><sup>7・8</sup></p></td>
+<td><p><a href="../Page/小寺康雄.md" title="wikilink">小寺康雄</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2005.03.28</p></td>
 <td><p>2006.03.31</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/田代大輔" title="wikilink">田代大輔</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/永井伸一" title="wikilink">永井伸一</a></p></td>
+<td><p><a href="../Page/田代大輔.md" title="wikilink">田代大輔</a></p></td>
+<td><p><a href="../Page/永井伸一.md" title="wikilink">永井伸一</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2006.04.03</p></td>
 <td><p>2006.12.22</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大蔵哲士" title="wikilink">大蔵哲士</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/田村泰崇" title="wikilink">田村泰崇</a></p></td>
+<td><p><a href="../Page/大蔵哲士.md" title="wikilink">大蔵哲士</a></p></td>
+<td><p><a href="../Page/田村泰崇.md" title="wikilink">田村泰崇</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2006.12.25</p></td>
 <td><p>2007.03.30</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/渡辺博栄" title="wikilink">渡辺博栄</a></p></td>
+<td><p><a href="../Page/渡辺博栄.md" title="wikilink">渡辺博栄</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1070,8 +1070,8 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 <tr class="odd">
 <td><p>2007.04.02</p></td>
 <td><p>2008.03.28</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/加藤祐子" title="wikilink">加藤祐子</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/佐藤公俊" title="wikilink">佐藤公俊</a></p></td>
+<td><p><a href="../Page/加藤祐子.md" title="wikilink">加藤祐子</a></p></td>
+<td><p><a href="../Page/佐藤公俊.md" title="wikilink">佐藤公俊</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/橋詰尚子" title="wikilink">橋詰尚子</a></p></td>
 <td><p>（廃止）</p></td>
 </tr>
@@ -1080,13 +1080,13 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 <td><p>2009.03.27</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/渕岡友美" title="wikilink">渕岡友美</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/檜山靖洋" title="wikilink">檜山靖洋</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/加藤祐子" title="wikilink">加藤祐子</a></p></td>
+<td><p><a href="../Page/加藤祐子.md" title="wikilink">加藤祐子</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/望月啓太" title="wikilink">望月啓太</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2009.03.30</p></td>
 <td><p>2011.04.01</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/吾妻謙_(アナウンサー)" title="wikilink">吾妻謙</a></p></td>
+<td><p><a href="../Page/吾妻謙_(アナウンサー).md" title="wikilink">吾妻謙</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1094,9 +1094,9 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 <tr class="even">
 <td><p>2011.04.04</p></td>
 <td><p>2011.09.30</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/渡辺蘭" title="wikilink">渡辺蘭</a></p></td>
+<td><p><a href="../Page/渡辺蘭.md" title="wikilink">渡辺蘭</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/渕岡友美" title="wikilink">渕岡友美</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/鹿島綾乃" title="wikilink">鹿島綾乃</a><sup>9</sup></p></td>
+<td><p><a href="../Page/鹿島綾乃.md" title="wikilink">鹿島綾乃</a><sup>9</sup></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1110,7 +1110,7 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 <tr class="even">
 <td><p>2012.04.02</p></td>
 <td><p>2013.03.29</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/杉浦友紀" title="wikilink">杉浦友紀</a></p></td>
+<td><p><a href="../Page/杉浦友紀.md" title="wikilink">杉浦友紀</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1118,9 +1118,9 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 <tr class="odd">
 <td><p>2013.04.01</p></td>
 <td><p>2014.03.28</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/西堀裕美" title="wikilink">西堀裕美</a></p></td>
+<td><p><a href="../Page/西堀裕美.md" title="wikilink">西堀裕美</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/小山径" title="wikilink">小山径</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/鹿島綾乃" title="wikilink">鹿島綾乃</a></p></td>
+<td><p><a href="../Page/鹿島綾乃.md" title="wikilink">鹿島綾乃</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1134,15 +1134,15 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 <tr class="odd">
 <td><p>2015.03.30</p></td>
 <td><p>2016.04.01</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/平井信行" title="wikilink">平井信行</a></p></td>
+<td><p><a href="../Page/平井信行.md" title="wikilink">平井信行</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/森花子" title="wikilink">森花子</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中村慶子" title="wikilink">中村慶子</a></p></td>
+<td><p><a href="../Page/中村慶子.md" title="wikilink">中村慶子</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2016.04.04</p></td>
 <td><p>|2017.03.31</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/酒井千佳" title="wikilink">酒井千佳</a></p></td>
+<td><p><a href="../Page/酒井千佳.md" title="wikilink">酒井千佳</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/新井秀和" title="wikilink">新井秀和</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/近江友里恵" title="wikilink">近江友里恵</a></p></td>
 <td></td>
@@ -1161,7 +1161,7 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 <td><p><sup>10</sup></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/山神明理" title="wikilink">山神明理</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/檜山靖洋" title="wikilink">檜山靖洋</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/豊原謙二郎" title="wikilink">豊原謙二郎</a><sup>11</sup></p></td>
+<td><p><a href="../Page/豊原謙二郎.md" title="wikilink">豊原謙二郎</a><sup>11</sup></p></td>
 </tr>
 <tr class="odd">
 <td><p><small></p>
@@ -1216,17 +1216,17 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 <tr class="even">
 <td><p>2009.03.30</p></td>
 <td><p>2010.03.26</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/佐藤龍文" title="wikilink">佐藤龍文</a><sup>2</sup></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小林孝司" title="wikilink">小林孝司</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/佐藤龍文" title="wikilink">佐藤龍文</a><sup>2</sup></p></td>
+<td><p><a href="../Page/佐藤龍文.md" title="wikilink">佐藤龍文</a><sup>2</sup></p></td>
+<td><p><a href="../Page/小林孝司.md" title="wikilink">小林孝司</a></p></td>
+<td><p><a href="../Page/佐藤龍文.md" title="wikilink">佐藤龍文</a><sup>2</sup></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/有働由美子" title="wikilink">有働由美子</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2010.03.29</p></td>
 <td><p>2012.03.30</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/江崎史恵" title="wikilink">江崎史恵</a><sup>3・6</sup></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小松宏司" title="wikilink">小松宏司</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/江崎史恵" title="wikilink">江崎史恵</a><sup>3</sup></p></td>
+<td><p><a href="../Page/江崎史恵.md" title="wikilink">江崎史恵</a><sup>3・6</sup></p></td>
+<td><p><a href="../Page/小松宏司.md" title="wikilink">小松宏司</a></p></td>
+<td><p><a href="../Page/江崎史恵.md" title="wikilink">江崎史恵</a><sup>3</sup></p></td>
 <td><p>島津有理子</p></td>
 </tr>
 <tr class="even">
@@ -1242,11 +1242,11 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 <tr class="odd">
 <td><p>2012.04.02</p></td>
 <td><p>2012.11.16</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/上條倫子" title="wikilink">上條倫子</a><sup>3</sup></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/江崎史恵" title="wikilink">江崎史恵</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/上條倫子" title="wikilink">上條倫子</a><sup>3</sup></p></td>
+<td><p><a href="../Page/上條倫子.md" title="wikilink">上條倫子</a><sup>3</sup></p></td>
+<td><p><a href="../Page/江崎史恵.md" title="wikilink">江崎史恵</a></p></td>
+<td><p><a href="../Page/上條倫子.md" title="wikilink">上條倫子</a><sup>3</sup></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/瀧川剛史" title="wikilink">瀧川剛史</a><br />
-<a href="https://ja.wikipedia.org/wiki/糸井羊司" title="wikilink">糸井羊司</a></p></td>
+<a href="../Page/糸井羊司.md" title="wikilink">糸井羊司</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2012.11.26</p></td>
@@ -1269,11 +1269,11 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 <tr class="even">
 <td><p>2013.04.01</p></td>
 <td><p>2014.03.28</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/上條倫子" title="wikilink">上條倫子</a><sup>3</sup></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/江崎史恵" title="wikilink">江崎史恵</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/上條倫子" title="wikilink">上條倫子</a><sup>3</sup></p></td>
+<td><p><a href="../Page/上條倫子.md" title="wikilink">上條倫子</a><sup>3</sup></p></td>
+<td><p><a href="../Page/江崎史恵.md" title="wikilink">江崎史恵</a></p></td>
+<td><p><a href="../Page/上條倫子.md" title="wikilink">上條倫子</a><sup>3</sup></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/瀧川剛史" title="wikilink">瀧川剛史</a><br />
-<a href="https://ja.wikipedia.org/wiki/糸井羊司" title="wikilink">糸井羊司</a><br />
+<a href="../Page/糸井羊司.md" title="wikilink">糸井羊司</a><br />
 有田雅明</p></td>
 </tr>
 <tr class="odd">
@@ -1307,12 +1307,12 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 <tr class="even">
 <td><p>2015.03.30</p></td>
 <td><p>2016.04.01</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/芳川隆一" title="wikilink">芳川隆一</a><br />
+<td><p><a href="../Page/芳川隆一.md" title="wikilink">芳川隆一</a><br />
 <a href="https://ja.wikipedia.org/wiki/堀越将伸" title="wikilink">堀越将伸</a><br />
 <a href="https://ja.wikipedia.org/wiki/二宮直輝" title="wikilink">二宮直輝</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/合原明子" title="wikilink">合原明子</a><br />
-<a href="https://ja.wikipedia.org/wiki/中村慶子" title="wikilink">中村慶子</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中村慶子" title="wikilink">中村慶子</a></p></td>
+<a href="../Page/中村慶子.md" title="wikilink">中村慶子</a></p></td>
+<td><p><a href="../Page/中村慶子.md" title="wikilink">中村慶子</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/合原明子" title="wikilink">合原明子</a><sup>3</sup></p></td>
 </tr>
 <tr class="odd">
@@ -1328,13 +1328,13 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 <tr class="even">
 <td><p>2016.04.04</p></td>
 <td><p>2017.03.31</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/芳川隆一" title="wikilink">芳川隆一</a><br />
-<a href="https://ja.wikipedia.org/wiki/黒田信哉" title="wikilink">黒田信哉</a><br />
-<a href="https://ja.wikipedia.org/wiki/田所拓也" title="wikilink">田所拓也</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中村慶子" title="wikilink">中村慶子</a><br />
+<td><p><a href="../Page/芳川隆一.md" title="wikilink">芳川隆一</a><br />
+<a href="../Page/黒田信哉.md" title="wikilink">黒田信哉</a><br />
+<a href="../Page/田所拓也.md" title="wikilink">田所拓也</a></p></td>
+<td><p><a href="../Page/中村慶子.md" title="wikilink">中村慶子</a><br />
 <a href="https://ja.wikipedia.org/wiki/新井秀和" title="wikilink">新井秀和</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中村慶子" title="wikilink">中村慶子</a><sup>3</sup></p></td>
+<td><p><a href="../Page/中村慶子.md" title="wikilink">中村慶子</a><sup>3</sup></p></td>
 </tr>
 <tr class="odd">
 <td><p><small></p>
@@ -1363,7 +1363,7 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 <!-- end list -->
 
   - メインキャスターがスポーツを伝えた時期がある。
-  - スポーツ担当者は原則、4時台のスポーツニュースには出演しない。[五輪](../Page/近代オリンピック.md "wikilink")・[サッカーW杯などで担当することもある](https://ja.wikipedia.org/wiki/FIFAワールドカップ "wikilink")。
+  - スポーツ担当者は原則、4時台のスポーツニュースには出演しない。[五輪](../Page/近代オリンピック.md "wikilink")・[サッカーW杯などで担当することもある](../Page/FIFAワールドカップ.md "wikilink")。
   - 2007年4月2日 - 5月18日は「大リーグ直行便」コーナーを放送（鹿島綾乃が担当）。
   - 「アジア&ワールド」が開始された当時は6時台での放送だったが、2000年度からは7時台での放送に変わった。また1999年度に限り、土曜日でも放送された。
   - 2018年3月14日の「まちかど情報室」は[高橋康輔](https://ja.wikipedia.org/wiki/高橋康輔 "wikilink")が担当。
@@ -1384,104 +1384,104 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 <tr class="odd">
 <td><p>1993.04.10</p></td>
 <td><p>1994.04.03</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/畠山智之" title="wikilink">畠山智之</a></p></td>
+<td><p><a href="../Page/畠山智之.md" title="wikilink">畠山智之</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/渡邊あゆみ" title="wikilink">黒田あゆみ</a><sup>2</sup></p></td>
 </tr>
 <tr class="even">
 <td><p>1994.04.09</p></td>
 <td><p>1995.04.02</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/星野豊" title="wikilink">星野豊</a></p></td>
+<td><p><a href="../Page/星野豊.md" title="wikilink">星野豊</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1995.04.08</p></td>
 <td><p>1997.03.30</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/村上信夫_(アナウンサー)" title="wikilink">村上信夫</a></p></td>
+<td><p><a href="../Page/村上信夫_(アナウンサー).md" title="wikilink">村上信夫</a></p></td>
 <td><p><a href="../Page/平野啓子.md" title="wikilink">平野啓子</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1997.04.05</p></td>
 <td><p>1998.03.29</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/伊藤博英" title="wikilink">伊藤博英</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/石井かおる" title="wikilink">石井かおる</a></p></td>
+<td><p><a href="../Page/伊藤博英.md" title="wikilink">伊藤博英</a></p></td>
+<td><p><a href="../Page/石井かおる.md" title="wikilink">石井かおる</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1998.04.04</p></td>
 <td><p>1999.03.28</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/高井真理子" title="wikilink">高井真理子</a></p></td>
+<td><p><a href="../Page/高井真理子.md" title="wikilink">高井真理子</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1999.04.03</p></td>
 <td><p>2000.03.26</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山田敦子" title="wikilink">山田敦子</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/野村正育" title="wikilink">野村正育</a></p></td>
+<td><p><a href="../Page/山田敦子.md" title="wikilink">山田敦子</a></p></td>
+<td><p><a href="../Page/野村正育.md" title="wikilink">野村正育</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2000.04.01</p></td>
 <td><p>2002.03.31</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/末田正雄" title="wikilink">末田正雄</a><sup>6</sup></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/膳場貴子" title="wikilink">膳場貴子</a></p></td>
+<td><p><a href="../Page/末田正雄.md" title="wikilink">末田正雄</a><sup>6</sup></p></td>
+<td><p><a href="../Page/膳場貴子.md" title="wikilink">膳場貴子</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2002.04.06</p></td>
 <td><p>2004.03.28</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/曽根優" title="wikilink">曽根優</a></p></td>
+<td><p><a href="../Page/曽根優.md" title="wikilink">曽根優</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2004.04.03</p></td>
 <td><p>2005.03.27</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/松尾剛" title="wikilink">松尾剛</a><sup>6</sup></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/島津有理子" title="wikilink">島津有理子</a></p></td>
+<td><p><a href="../Page/松尾剛.md" title="wikilink">松尾剛</a><sup>6</sup></p></td>
+<td><p><a href="../Page/島津有理子.md" title="wikilink">島津有理子</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2005.04.02</p></td>
 <td><p>2006.04.02</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/星野豊" title="wikilink">星野豊</a> <sup>6</sup></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/滝島雅子" title="wikilink">滝島雅子</a></p></td>
+<td><p><a href="../Page/星野豊.md" title="wikilink">星野豊</a> <sup>6</sup></p></td>
+<td><p><a href="../Page/滝島雅子.md" title="wikilink">滝島雅子</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2006.04.08</p></td>
 <td><p>2007.04.01</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/豊原謙二郎" title="wikilink">豊原謙二郎</a></p></td>
+<td><p><a href="../Page/豊原謙二郎.md" title="wikilink">豊原謙二郎</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2007.04.07</p></td>
 <td><p>2008.03.30</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/真下貴" title="wikilink">真下貴</a> <sup>6</sup></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/礒野佑子" title="wikilink">礒野佑子</a></p></td>
+<td><p><a href="../Page/真下貴.md" title="wikilink">真下貴</a> <sup>6</sup></p></td>
+<td><p><a href="../Page/礒野佑子.md" title="wikilink">礒野佑子</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2008.04.05</p></td>
 <td><p>2009.03.29</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/森本健成" title="wikilink">森本健成</a><sup>6</sup></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/首藤奈知子" title="wikilink">首藤奈知子</a></p></td>
+<td><p><a href="../Page/森本健成.md" title="wikilink">森本健成</a><sup>6</sup></p></td>
+<td><p><a href="../Page/首藤奈知子.md" title="wikilink">首藤奈知子</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2009.04.04</p></td>
 <td><p>2010.03.28</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/増田卓" title="wikilink">増田卓</a></p></td>
+<td><p><a href="../Page/増田卓.md" title="wikilink">増田卓</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2010.04.03</p></td>
 <td><p>2011.04.03</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/守本奈実" title="wikilink">守本奈実</a></p></td>
+<td><p><a href="../Page/守本奈実.md" title="wikilink">守本奈実</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2011.04.09</p></td>
 <td><p>2012.04.01</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/渡邊佐和子" title="wikilink">渡邊佐和子</a></p></td>
+<td><p><a href="../Page/渡邊佐和子.md" title="wikilink">渡邊佐和子</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2012.04.07</p></td>
 <td><p>2012.11.11</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/江崎史恵" title="wikilink">江崎史恵</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/船岡久嗣" title="wikilink">船岡久嗣</a></p></td>
+<td><p><a href="../Page/江崎史恵.md" title="wikilink">江崎史恵</a></p></td>
+<td><p><a href="../Page/船岡久嗣.md" title="wikilink">船岡久嗣</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2012.11.17</p></td>
@@ -1492,8 +1492,8 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 <tr class="odd">
 <td><p>2013.04.06</p></td>
 <td><p>2014.03.30</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/近田雄一" title="wikilink">近田雄一</a> <sup>6</sup></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/筒井亮太郎" title="wikilink">筒井亮太郎</a></p></td>
+<td><p><a href="../Page/近田雄一.md" title="wikilink">近田雄一</a> <sup>6</sup></p></td>
+<td><p><a href="../Page/筒井亮太郎.md" title="wikilink">筒井亮太郎</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2014.04.05</p></td>
@@ -1504,13 +1504,13 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 <tr class="odd">
 <td><p>2015.04.04</p></td>
 <td><p>2016.04.03</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/上條倫子" title="wikilink">上條倫子</a></p></td>
+<td><p><a href="../Page/上條倫子.md" title="wikilink">上條倫子</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/向井一弘" title="wikilink">向井一弘</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2016.04.09</p></td>
 <td><p>2017.04.02</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小郷知子" title="wikilink">小郷知子</a></p></td>
+<td><p><a href="../Page/小郷知子.md" title="wikilink">小郷知子</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1529,18 +1529,18 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 <td><p>2019.04.06</p></td>
 <td><p>現在</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/石橋亜紗" title="wikilink">石橋亜紗</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/廣瀬智美" title="wikilink">廣瀬智美</a></p></td>
+<td><p><a href="../Page/廣瀬智美.md" title="wikilink">廣瀬智美</a></p></td>
 </tr>
 <tr class="even">
 <td><p><small></p>
 <ul>
-<li><sup>1</sup>　土日祝早朝の『気象情報』（1995年度から）、『<a href="https://ja.wikipedia.org/wiki/NHK週刊ニュース" title="wikilink">NHK週刊ニュース</a>』内の気象情報（1999年度 - 2010年度）を兼務。</li>
+<li><sup>1</sup>　土日祝早朝の『気象情報』（1995年度から）、『<a href="../Page/NHK週刊ニュース.md" title="wikilink">NHK週刊ニュース</a>』内の気象情報（1999年度 - 2010年度）を兼務。</li>
 <li><sup>2</sup>　<a href="https://ja.wikipedia.org/wiki/渡邊あゆみ" title="wikilink">渡邊あゆみ</a>の旧名。</li>
 <li><sup>3</sup>　土日祝正午前の『気象情報』を兼務。</li>
 <li><sup>4</sup>　1999年度のみ、日曜日の『<a href="../Page/週刊こどもニュース.md" title="wikilink">週刊こどもニュース</a>』を兼務。</li>
 <li><sup>5</sup>　時期不詳ではあるがこの間に誰かが担当。</li>
 <li><sup>6</sup>　10:00の『NHKニュース』を兼務。</li>
-<li><sup>7</sup>　2007年度から2010年度までは『<a href="https://ja.wikipedia.org/wiki/NHK週刊ニュース" title="wikilink">週刊ニュース</a>』の、2011年度から2017年度までは『<a href="https://ja.wikipedia.org/wiki/週刊ニュース深読み" title="wikilink">週刊ニュース深読み</a>』内の気象情報を兼務。</li>
+<li><sup>7</sup>　2007年度から2010年度までは『<a href="../Page/NHK週刊ニュース.md" title="wikilink">週刊ニュース</a>』の、2011年度から2017年度までは『<a href="https://ja.wikipedia.org/wiki/週刊ニュース深読み" title="wikilink">週刊ニュース深読み</a>』内の気象情報を兼務。</li>
 </ul>
 <p><small></p></td>
 <td></td>
@@ -1563,13 +1563,13 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 
 ## 放送時間
 
-年末年始（12月29日 - 1月3日）を除く毎日放送。ただし、2018年度からその前後でも休止するようになっており、2019年1月4日（金）、12月28日（土）、2020年1月4日・5日（土・日）が休止となっている。この場合の[定時ニュースは年末年始のタイムテーブルに準ずる](https://ja.wikipedia.org/wiki/NHKニュース_\(テレビ番組\) "wikilink")。
+年末年始（12月29日 - 1月3日）を除く毎日放送。ただし、2018年度からその前後でも休止するようになっており、2019年1月4日（金）、12月28日（土）、2020年1月4日・5日（土・日）が休止となっている。この場合の[定時ニュースは年末年始のタイムテーブルに準ずる](../Page/NHKニュース_\(テレビ番組\).md "wikilink")。
 
 <table>
 <thead>
 <tr class="header">
 <th><p>放送日</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/NHK総合テレビジョン" title="wikilink">総合テレビ</a></p></th>
+<th><p><a href="../Page/NHK総合テレビジョン.md" title="wikilink">総合テレビ</a></p></th>
 <th><p>NHKワールド・プレミアム</p></th>
 </tr>
 </thead>
@@ -1651,10 +1651,10 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 7.  NHK、朝ドラ8時開始に スポーツニッポン 2010年1月20日閲覧
 8.  [朝ドラ『べっぴんさん』は『あまちゃん』の貯金を食いつぶす\!?](http://bylines.news.yahoo.co.jp/suzukiyuji/20161030-00063891/) [鈴木祐司](https://ja.wikipedia.org/wiki/鈴木祐司 "wikilink") 2016年10月30日
 9.  なお、報道局が反対の根拠とした官公庁の記者会見で朝ドラの放送時間が変更されたことは一切ない。
-10. 『[ウィークエンド関西](https://ja.wikipedia.org/wiki/ウィークエンド関西 "wikilink")』『[おはよう四国](https://ja.wikipedia.org/wiki/おはよう四国 "wikilink")（7時台）』も同様。
+10. 『[ウィークエンド関西](https://ja.wikipedia.org/wiki/ウィークエンド関西 "wikilink")』『[おはよう四国](../Page/おはよう四国.md "wikilink")（7時台）』も同様。
 11. 祝日や緊急時・災害時等の場合は休止となり、翌々日以降もしくは翌週火曜日に放送。
-12. 同番組キャスター[中山果奈](https://ja.wikipedia.org/wiki/中山果奈 "wikilink")のみ出演。[田所拓也](https://ja.wikipedia.org/wiki/田所拓也 "wikilink")（当番組2016年度・2017年度平日早朝キャスター）は出演しない。
-13. これは、直後の8時から[BS1で放送される](https://ja.wikipedia.org/wiki/NHK_BS1 "wikilink")[ワールドWave](https://ja.wikipedia.org/wiki/ワールドWave "wikilink")で紹介される放送局とほぼ同じである。
+12. 同番組キャスター[中山果奈](https://ja.wikipedia.org/wiki/中山果奈 "wikilink")のみ出演。[田所拓也](../Page/田所拓也.md "wikilink")（当番組2016年度・2017年度平日早朝キャスター）は出演しない。
+13. これは、直後の8時から[BS1で放送される](../Page/NHK_BS1.md "wikilink")[ワールドWave](https://ja.wikipedia.org/wiki/ワールドWave "wikilink")で紹介される放送局とほぼ同じである。
 14.
 15. 22局になるのは10月6日（月曜日）からの予定であったが、[台風第18号のニュースのため](https://ja.wikipedia.org/wiki/平成26年台風第18号 "wikilink")、10月6日は「世界のニュースザッピング」が放送されず、10月7日からとなった。
 16. [朝ごはんの現場・いかがでしたか？](http://www.nhk.or.jp/ohayou-blog/400/270472.html),おはよう日本出演者ブログ,2017年5月12日
@@ -1663,7 +1663,7 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 19. [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")（一時期6:55から放送していた時期あり）、[東海](../Page/東海地方.md "wikilink")（[静岡県](../Page/静岡県.md "wikilink")を含む）、[福井県](../Page/福井県.md "wikilink")、[近畿は](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")6:53から放送。これらの地域では東京からの全国の気象情報（6:53放送分）はネット受けせず、その分を地域のニュースの放送に充てている。かつては[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")、[中国](../Page/中国地方.md "wikilink")、[四国でも](https://ja.wikipedia.org/wiki/四国地方 "wikilink")6:53から放送していた時期があった。
 20. 東京からは関東甲信越の気象情報のみ。
 21. 関東は交通情報と気象情報のみ。
-22. 例・関東甲信越は「[NHKニュースおはよう日本・関東甲信越](https://ja.wikipedia.org/wiki/NHKニュースおはよう日本・関東甲信越 "wikilink")」。[和久田麻由子](https://ja.wikipedia.org/wiki/和久田麻由子 "wikilink")が冒頭で「ここからは関東甲信越のみなさんにお伝えします」と言う。
+22. 例・関東甲信越は「[NHKニュースおはよう日本・関東甲信越](../Page/NHKニュースおはよう日本・関東甲信越.md "wikilink")」。[和久田麻由子](https://ja.wikipedia.org/wiki/和久田麻由子 "wikilink")が冒頭で「ここからは関東甲信越のみなさんにお伝えします」と言う。
 23. 東京からの放送は関東甲信越の気象情報。
 24. 関東甲信越は交通情報と気象情報のみ。
 25. 例・関東甲信越は「NHKニュースおはよう日本・関東甲信越」。

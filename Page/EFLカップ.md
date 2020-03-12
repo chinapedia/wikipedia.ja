@@ -1,11 +1,11 @@
 > この記事は[EFL](https://ja.wikipedia.org/wiki/EFL)から翻訳されています。
 
 
-**EFLカップ** (、略称: **リーグカップ**)は、[イングランド](../Page/イングランド.md "wikilink")の[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の[リーグカップである](../Page/カップ戦.md "wikilink")。[プレミアリーグ](https://ja.wikipedia.org/wiki/プレミアリーグ "wikilink")と[イングリッシュ・フットボールリーグ](https://ja.wikipedia.org/wiki/イングリッシュ・フットボールリーグ "wikilink")の92クラブが参加する。[1960年](../Page/1960年.md "wikilink")シーズンから始まったもので、優勝したクラブには[UEFAヨーロッパリーグ](../Page/UEFAヨーロッパリーグ.md "wikilink")への出場権が与えられる\[1\]。現在は、飲料メーカーのカラバオ社に命名権が買い取られ、**カラバオ・カップ** ()と冠されている。
+**EFLカップ** (、略称: **リーグカップ**)は、[イングランド](../Page/イングランド.md "wikilink")の[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の[リーグカップである](../Page/カップ戦.md "wikilink")。[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")と[イングリッシュ・フットボールリーグ](../Page/イングリッシュ・フットボールリーグ.md "wikilink")の92クラブが参加する。[1960年](../Page/1960年.md "wikilink")シーズンから始まったもので、優勝したクラブには[UEFAヨーロッパリーグ](../Page/UEFAヨーロッパリーグ.md "wikilink")への出場権が与えられる\[1\]。現在は、飲料メーカーのカラバオ社に命名権が買い取られ、**カラバオ・カップ** ()と冠されている。
 
 ## 概要
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:League_Cup_at_Old_Trafford.jpg "wikilink") 参加資格は、大会を主催する[イングリッシュ・フットボールリーグ](https://ja.wikipedia.org/wiki/イングリッシュ・フットボールリーグ "wikilink")のクラブおよび、[プレミアリーグ](https://ja.wikipedia.org/wiki/プレミアリーグ "wikilink")のクラブをあわせた92クラブ。[ノックアウト・トーナメント方式の一発勝負で行う](../Page/トーナメント方式.md "wikilink") (準決勝のみ[ホーム・アンド・アウェー](../Page/ホーム・アンド・アウェー.md "wikilink"))。決勝戦は伝統的に[ロンドン](../Page/ロンドン.md "wikilink")にある[ウェンブリー・スタジアム](../Page/ウェンブリー・スタジアム.md "wikilink")で行われているが、改修中の間は[ウェールズ](../Page/ウェールズ.md "wikilink")の[カーディフ](../Page/カーディフ.md "wikilink")にある[ミレニアム・スタジアム](https://ja.wikipedia.org/wiki/ミレニアム・スタジアム "wikilink")が使用されていた。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:League_Cup_at_Old_Trafford.jpg "wikilink") 参加資格は、大会を主催する[イングリッシュ・フットボールリーグ](../Page/イングリッシュ・フットボールリーグ.md "wikilink")のクラブおよび、[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")のクラブをあわせた92クラブ。[ノックアウト・トーナメント方式の一発勝負で行う](../Page/トーナメント方式.md "wikilink") (準決勝のみ[ホーム・アンド・アウェー](../Page/ホーム・アンド・アウェー.md "wikilink"))。決勝戦は伝統的に[ロンドン](../Page/ロンドン.md "wikilink")にある[ウェンブリー・スタジアム](../Page/ウェンブリー・スタジアム.md "wikilink")で行われているが、改修中の間は[ウェールズ](../Page/ウェールズ.md "wikilink")の[カーディフ](../Page/カーディフ.md "wikilink")にある[ミレニアム・スタジアム](../Page/ミレニアム・スタジアム.md "wikilink")が使用されていた。
 
 [1982年](../Page/1982年.md "wikilink")から[2016年](../Page/2016年.md "wikilink")までの間と[2017年](../Page/2017年.md "wikilink")からは、冠スポンサーをつけており、スポンサーが変わる際に大会の名称も変化している。
 
@@ -13,11 +13,11 @@
   - 1986年-1990年 リトルウッズ・カップ (Littlewoods Challenge Cup) - スポンサーは通販会社のリトルウッズ社。
   - 1990年-1992年 ランブロウズ・カップ (Rumbelows Cup) - スポンサーは電器店チェーンのランブロウズ社。
   - 1992年-1998年 コカ・コーラ・カップ (Coca-Cola Cup) - スポンサーは[コカ・コーラ](../Page/コカ・コーラ.md "wikilink")社。
-  - 1998年-2003年 ワージントン・カップ (Worthington Cup) - 「ワージントン」は[クアーズ](https://ja.wikipedia.org/wiki/クアーズ "wikilink")社が持つドラフト・[ビール](../Page/ビール.md "wikilink")のブランド名。
-  - 2003年-2012年 カーリング・カップ (Carling Cup) - 「カーリング」は「ワージントン・ドラフト」と同じく[クアーズ](https://ja.wikipedia.org/wiki/クアーズ "wikilink")社が持つラガー・ビールのブランド名。
+  - 1998年-2003年 ワージントン・カップ (Worthington Cup) - 「ワージントン」は[クアーズ](../Page/クアーズ.md "wikilink")社が持つドラフト・[ビール](../Page/ビール.md "wikilink")のブランド名。
+  - 2003年-2012年 カーリング・カップ (Carling Cup) - 「カーリング」は「ワージントン・ドラフト」と同じく[クアーズ](../Page/クアーズ.md "wikilink")社が持つラガー・ビールのブランド名。
   - 2012年-2016年 キャピタル・ワン・カップ (Capital One Cup) - スポンサーは金融業 (カードビジネス)を営む[キャピタル・ワン](https://ja.wikipedia.org/wiki/キャピタル・ワン "wikilink")社。
   - 2016年-2017年 EFLカップ (EFL Cup) - スポンサー無し。
-  - 2017年- カラバオ・カップ (Carabao Cup) - スポンサーは[タイの](../Page/タイ王国.md "wikilink")[エナジードリンクのカラバオ社](https://ja.wikipedia.org/wiki/栄養ドリンク "wikilink")。
+  - 2017年- カラバオ・カップ (Carabao Cup) - スポンサーは[タイの](../Page/タイ王国.md "wikilink")[エナジードリンクのカラバオ社](../Page/栄養ドリンク.md "wikilink")。
 
 ## 歴代優勝クラブ
 
@@ -25,7 +25,7 @@
 | :--: | --------------------------------------------------------------------- |
 |      | [延長戦](../Page/延長戦.md "wikilink")で決着が付いた試合                             |
 |      | [PK戦](../Page/PK戦.md "wikilink")で決着が付いた試合                             |
-|      | [再試合](https://ja.wikipedia.org/wiki/再試合 "wikilink")で決着が付いた試合          |
+|      | [再試合](../Page/再試合.md "wikilink")で決着が付いた試合                             |
 |      | 再試合の延長戦で決着が付いた試合                                                      |
 |      | 再々試合で決着が付いた試合                                                         |
 | *斜体* | [イングランドのサッカーリーグで](../Page/イングランドサッカーのリーグ構成.md "wikilink")1部に属していないクラブ |
@@ -49,14 +49,14 @@
 <td></td>
 <td><p>0–2</p></td>
 <td><p><em></em></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミルムーア" title="wikilink">ミルムーア</a></p></td>
+<td><p><a href="../Page/ミルムーア.md" title="wikilink">ミルムーア</a></p></td>
 <td><p>12,226</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>3–0 </p></td>
 <td><p><em></em></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヴィラ・パーク" title="wikilink">ヴィラ・パーク</a></p></td>
+<td><p><a href="../Page/ヴィラ・パーク.md" title="wikilink">ヴィラ・パーク</a></p></td>
 <td><p>31,202</p></td>
 <td></td>
 </tr>
@@ -80,7 +80,7 @@
 <td><p><em></em></p></td>
 <td><p>1–0</p></td>
 <td><p><em></em></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/キャロウ・ロード" title="wikilink">キャロウ・ロード</a></p></td>
+<td><p><a href="../Page/キャロウ・ロード.md" title="wikilink">キャロウ・ロード</a></p></td>
 <td><p>19,708</p></td>
 <td></td>
 </tr>
@@ -104,7 +104,7 @@
 <td></td>
 <td><p>0–0</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヴィラ・パーク" title="wikilink">ヴィラ・パーク</a></p></td>
+<td><p><a href="../Page/ヴィラ・パーク.md" title="wikilink">ヴィラ・パーク</a></p></td>
 <td><p>37,921</p></td>
 <td></td>
 </tr>
@@ -145,7 +145,7 @@
 <td></td>
 <td><p>3–2</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スタンフォード・ブリッジ" title="wikilink">スタンフォード・ブリッジ</a></p></td>
+<td><p><a href="../Page/スタンフォード・ブリッジ.md" title="wikilink">スタンフォード・ブリッジ</a></p></td>
 <td><p>20,690</p></td>
 </tr>
 <tr class="even">
@@ -169,7 +169,7 @@
 <td></td>
 <td><p>1–2</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブーリン・グラウンド" title="wikilink">ブーリン・グラウンド</a></p></td>
+<td><p><a href="../Page/ブーリン・グラウンド.md" title="wikilink">ブーリン・グラウンド</a></p></td>
 <td><p>28,341</p></td>
 </tr>
 <tr class="odd">
@@ -193,7 +193,7 @@
 <td><p><em></em></p></td>
 <td><p>3–2</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウェンブリー・スタジアム_(1923)" title="wikilink">ウェンブリー・スタジアム</a></p></td>
+<td><p><a href="../Page/ウェンブリー・スタジアム_(1923).md" title="wikilink">ウェンブリー・スタジアム</a></p></td>
 <td><p>97,952</p></td>
 </tr>
 <tr class="even">
@@ -280,7 +280,7 @@
 <td></td>
 <td><p>1–1</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヒルズボロ・スタジアム" title="wikilink">ヒルズボロ・スタジアム</a></p></td>
+<td><p><a href="../Page/ヒルズボロ・スタジアム.md" title="wikilink">ヒルズボロ・スタジアム</a></p></td>
 <td><p>55,000</p></td>
 <td></td>
 </tr>
@@ -288,7 +288,7 @@
 <td></td>
 <td><p>3–2</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オールド・トラッフォード" title="wikilink">オールド・トラッフォード</a></p></td>
+<td><p><a href="../Page/オールド・トラッフォード.md" title="wikilink">オールド・トラッフォード</a></p></td>
 <td><p>54,749</p></td>
 <td></td>
 </tr>
@@ -297,14 +297,14 @@
 <td></td>
 <td><p>0–0</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウェンブリー・スタジアム_(1923)" title="wikilink">ウェンブリー・スタジアム</a></p></td>
+<td><p><a href="../Page/ウェンブリー・スタジアム_(1923).md" title="wikilink">ウェンブリー・スタジアム</a></p></td>
 <td><p>100,000</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>1–0</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オールド・トラッフォード" title="wikilink">オールド・トラッフォード</a></p></td>
+<td><p><a href="../Page/オールド・トラッフォード.md" title="wikilink">オールド・トラッフォード</a></p></td>
 <td><p>54,375</p></td>
 <td></td>
 </tr>
@@ -313,7 +313,7 @@
 <td></td>
 <td><p>3–2</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウェンブリー・スタジアム_(1923)" title="wikilink">ウェンブリー・スタジアム</a></p></td>
+<td><p><a href="../Page/ウェンブリー・スタジアム_(1923).md" title="wikilink">ウェンブリー・スタジアム</a></p></td>
 <td><p>96,952</p></td>
 </tr>
 <tr class="odd">
@@ -336,7 +336,7 @@
 <td></td>
 <td><p>2–1</p></td>
 <td><p><em></em></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヴィラ・パーク" title="wikilink">ヴィラ・パーク</a></p></td>
+<td><p><a href="../Page/ヴィラ・パーク.md" title="wikilink">ヴィラ・パーク</a></p></td>
 <td><p>36,693</p></td>
 <td></td>
 </tr>
@@ -345,7 +345,7 @@
 <td></td>
 <td><p>3–1 </p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウェンブリー・スタジアム_(1923)" title="wikilink">ウェンブリー・スタジアム</a></p></td>
+<td><p><a href="../Page/ウェンブリー・スタジアム_(1923).md" title="wikilink">ウェンブリー・スタジアム</a></p></td>
 <td><p>100,000</p></td>
 </tr>
 <tr class="odd">
@@ -377,7 +377,7 @@
 <td></td>
 <td><p>1–0</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウェンブリー・スタジアム_(1923)" title="wikilink">ウェンブリー・スタジアム</a></p></td>
+<td><p><a href="../Page/ウェンブリー・スタジアム_(1923).md" title="wikilink">ウェンブリー・スタジアム</a></p></td>
 <td><p>90,001</p></td>
 </tr>
 <tr class="odd">
@@ -480,7 +480,7 @@
 <td></td>
 <td><p>1–0 </p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヒルズボロ・スタジアム" title="wikilink">ヒルズボロ・スタジアム</a></p></td>
+<td><p><a href="../Page/ヒルズボロ・スタジアム.md" title="wikilink">ヒルズボロ・スタジアム</a></p></td>
 <td><p>39,428</p></td>
 <td></td>
 </tr>
@@ -489,7 +489,7 @@
 <td></td>
 <td><p>2–0 </p></td>
 <td><p><em></em></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウェンブリー・スタジアム_(1923)" title="wikilink">ウェンブリー・スタジアム</a></p></td>
+<td><p><a href="../Page/ウェンブリー・スタジアム_(1923).md" title="wikilink">ウェンブリー・スタジアム</a></p></td>
 <td><p>77,698</p></td>
 </tr>
 <tr class="odd">
@@ -513,7 +513,7 @@
 <td></td>
 <td><p>1–1 (5-4 )</p></td>
 <td><p><em></em></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミレニアム・スタジアム" title="wikilink">ミレニアム・スタジアム</a></p></td>
+<td><p><a href="../Page/ミレニアム・スタジアム.md" title="wikilink">ミレニアム・スタジアム</a></p></td>
 <td><p>73,500</p></td>
 </tr>
 <tr class="even">
@@ -935,10 +935,10 @@
 
   - 最多優勝チーム：8回,
   - 最多決勝出場チーム：12回, リヴァプール
-  - 最多優勝選手：5回、[イアン・ラッシュ](https://ja.wikipedia.org/wiki/イアン・ラッシュ "wikilink") (リヴァプール 1981-84,1995)
-  - 最多決勝出場選手：6回, イアン・ラッシュ (リヴァプール 1981-84,1987,1995), [エミール・ヘスキー](https://ja.wikipedia.org/wiki/エミール・ヘスキー "wikilink") ( 1997, 1999, 2000), (リヴァプール 2001, 2003), ( 2010)
+  - 最多優勝選手：5回、[イアン・ラッシュ](../Page/イアン・ラッシュ.md "wikilink") (リヴァプール 1981-84,1995)
+  - 最多決勝出場選手：6回, イアン・ラッシュ (リヴァプール 1981-84,1987,1995), [エミール・ヘスキー](../Page/エミール・ヘスキー.md "wikilink") ( 1997, 1999, 2000), (リヴァプール 2001, 2003), ( 2010)
   - 最多準決勝進出チーム：17回, リヴァプール
-  - 最多得点 (通算)：49得点, [ジェフ・ハースト](https://ja.wikipedia.org/wiki/ジェフ・ハースト "wikilink"), イアン・ラッシュ
+  - 最多得点 (通算)：49得点, [ジェフ・ハースト](../Page/ジェフ・ハースト.md "wikilink"), イアン・ラッシュ
   - 最多得点 (シーズン)：12得点, クライブ・アレン  (1986-87)
   - 最多得点 (1試合)：6得点, フランキー・バン  v スカボロー (1989年10月25日)
   - 最多得点差： 10-0  (1983年10月25日), リヴァプール 10-0  (1986年9月23日)

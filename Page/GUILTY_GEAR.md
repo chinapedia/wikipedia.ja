@@ -1,21 +1,21 @@
 > この記事は[GUILTY GEAR](https://ja.wikipedia.org/wiki/GUILTY_GEAR)から翻訳されています。
 
 
-『**GUILTY GEAR**』（ギルティギア）は[アークシステムワークス](https://ja.wikipedia.org/wiki/アークシステムワークス "wikilink")から発売された2D[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[5月14日](../Page/5月14日.md "wikilink")にPlayStationで発売され、[1999年](../Page/1999年.md "wikilink")[9月22日](../Page/9月22日.md "wikilink")には復刻版と称した[廉価版](https://ja.wikipedia.org/wiki/廉価版 "wikilink")もリリースされた。
+『**GUILTY GEAR**』（ギルティギア）は[アークシステムワークス](../Page/アークシステムワークス.md "wikilink")から発売された2D[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[5月14日](../Page/5月14日.md "wikilink")にPlayStationで発売され、[1999年](../Page/1999年.md "wikilink")[9月22日](../Page/9月22日.md "wikilink")には復刻版と称した[廉価版](../Page/廉価版.md "wikilink")もリリースされた。
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[5月31日](../Page/5月31日.md "wikilink")から[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")として[PlayStation Portable](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")・[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")・[PlayStation Vita向けに税込](https://ja.wikipedia.org/wiki/PlayStation_Vita "wikilink")600円でダウンロード販売されている。
+[2007年](../Page/2007年.md "wikilink")[5月31日](../Page/5月31日.md "wikilink")から[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")として[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")・[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")・[PlayStation Vita向けに税込](https://ja.wikipedia.org/wiki/PlayStation_Vita "wikilink")600円でダウンロード販売されている。
 
 ## 概要
 
-*[GUILTY GEARの用語集内のシステムも参照](https://ja.wikipedia.org/wiki/GUILTY_GEARの用語集 "wikilink")*
+*[GUILTY GEARの用語集内のシステムも参照](../Page/GUILTY_GEARの用語集.md "wikilink")*
 
 チャージキャンセルを使った永久コンボや、[一撃必殺システムでの荒削りな面があるが](https://ja.wikipedia.org/wiki/GUILTY_GEARの用語集#GUILTY_GEAR_固有のシステム "wikilink")、操作性や連続技のスピード感、独特なキャラクターや世界観などはこの頃から健在であり、口コミで評判は徐々に広まっていった。CPU戦の難易度が高く難易度設定もできないため、初心者にはハードルが高い。
 
 開発初期はプリレンダCG（シリコングラフィックス）を使用した物を想定していた。なお、キャラクターに関しては予算の関係上、一部のキャラをスタッフが音声担当することになった。
 
-ストーリーは、続編であるアーケードローンチタイトル『[GUILTY GEAR X](https://ja.wikipedia.org/wiki/GUILTY_GEAR_X "wikilink")』以降、正式に接点を持つ『[GUILTY GEAR 2 OVERTURE](https://ja.wikipedia.org/wiki/GUILTY_GEAR_2_OVERTURE "wikilink")』以外は外伝である。また、GG2はジャンルがアクションに変更されている。
+ストーリーは、続編であるアーケードローンチタイトル『[GUILTY GEAR X](../Page/GUILTY_GEAR_X.md "wikilink")』以降、正式に接点を持つ『[GUILTY GEAR 2 OVERTURE](../Page/GUILTY_GEAR_2_OVERTURE.md "wikilink")』以外は外伝である。また、GG2はジャンルがアクションに変更されている。
 
-サブタイトルの『the missing link』はドイツの[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")バンド、[レイジが](https://ja.wikipedia.org/wiki/レイジ_\(バンド\) "wikilink")1993年にリリースした『The Missing Link』に由来する。
+サブタイトルの『the missing link』はドイツの[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")バンド、[レイジが](../Page/レイジ_\(バンド\).md "wikilink")1993年にリリースした『The Missing Link』に由来する。
 
 ## ストーリー
 
@@ -26,23 +26,23 @@
 
 ## 登場キャラクター
 
-  - [ソル＝バッドガイ](https://ja.wikipedia.org/wiki/ソル・バッドガイ "wikilink")
-  - [カイ＝キスク](https://ja.wikipedia.org/wiki/カイ・キスク "wikilink")
-  - [メイ](https://ja.wikipedia.org/wiki/メイ_\(GUILTY_GEAR\) "wikilink")
-  - [ミリア＝レイジ](https://ja.wikipedia.org/wiki/ミリア・レイジ "wikilink")
-  - [ザトー＝ONE](https://ja.wikipedia.org/wiki/ザトー＝ONE "wikilink")
-  - [ポチョムキン](https://ja.wikipedia.org/wiki/ポチョムキン_\(GUILTY_GEAR\) "wikilink")
-  - [チップ＝ザナフ](https://ja.wikipedia.org/wiki/チップ・ザナフ "wikilink")
-  - [Dr.ボルドヘッド](https://ja.wikipedia.org/wiki/Dr.ボルドヘッド "wikilink")
-  - [アクセル＝ロウ](https://ja.wikipedia.org/wiki/アクセル・ロウ "wikilink")
-  - [クリフ＝アンダーソン](https://ja.wikipedia.org/wiki/クリフ・アンダーソン "wikilink")
-  - [テスタメント](https://ja.wikipedia.org/wiki/テスタメント_\(GUILTY_GEAR\) "wikilink")
-  - [ジャスティス](https://ja.wikipedia.org/wiki/ジャスティス_\(GUILTY_GEAR\) "wikilink")
-  - [梅喧](https://ja.wikipedia.org/wiki/梅喧 "wikilink")
+  - [ソル＝バッドガイ](../Page/ソル・バッドガイ.md "wikilink")
+  - [カイ＝キスク](../Page/カイ・キスク.md "wikilink")
+  - [メイ](../Page/メイ_\(GUILTY_GEAR\).md "wikilink")
+  - [ミリア＝レイジ](../Page/ミリア・レイジ.md "wikilink")
+  - [ザトー＝ONE](../Page/ザトー＝ONE.md "wikilink")
+  - [ポチョムキン](../Page/ポチョムキン_\(GUILTY_GEAR\).md "wikilink")
+  - [チップ＝ザナフ](../Page/チップ・ザナフ.md "wikilink")
+  - [Dr.ボルドヘッド](../Page/Dr.ボルドヘッド.md "wikilink")
+  - [アクセル＝ロウ](../Page/アクセル・ロウ.md "wikilink")
+  - [クリフ＝アンダーソン](../Page/クリフ・アンダーソン.md "wikilink")
+  - [テスタメント](../Page/テスタメント_\(GUILTY_GEAR\).md "wikilink")
+  - [ジャスティス](../Page/ジャスティス_\(GUILTY_GEAR\).md "wikilink")
+  - [梅喧](../Page/梅喧.md "wikilink")
 
 ## 関連項目
 
-  - [GUILTY GEARの用語集](https://ja.wikipedia.org/wiki/GUILTY_GEARの用語集 "wikilink")
+  - [GUILTY GEARの用語集](../Page/GUILTY_GEARの用語集.md "wikilink")
 
 ## 外部リンク
 

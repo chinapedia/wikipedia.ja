@@ -5,7 +5,7 @@
 
 ## 概要
 
-GenBankの塩基配列データには、注釈（[アノテーション](https://ja.wikipedia.org/wiki/アノテーション "wikilink")）が付されており、また対応する[アミノ酸](https://ja.wikipedia.org/wiki/アミノ酸 "wikilink")（[タンパク質](https://ja.wikipedia.org/wiki/蛋白質 "wikilink")）配列の情報も持っている。
+GenBankの塩基配列データには、注釈（[アノテーション](../Page/アノテーション.md "wikilink")）が付されており、また対応する[アミノ酸](https://ja.wikipedia.org/wiki/アミノ酸 "wikilink")（[タンパク質](https://ja.wikipedia.org/wiki/蛋白質 "wikilink")）配列の情報も持っている。
 
 GenBankデータベースは、[欧州分子生物学研究所](https://ja.wikipedia.org/wiki/欧州分子生物学研究所 "wikilink")（EMBL; European Molecular Biology Laboratory）傘下の[欧州バイオインフォマティクス研究所](https://ja.wikipedia.org/wiki/欧州バイオインフォマティクス研究所 "wikilink")（EBI; European Bioinformatics Institute）のEMBLデータライブラリ、および、[日本DNAデータバンク](../Page/DDBJ.md "wikilink")（DDBJ; DNA Data Bank of Japan）と連携して、相互に塩基配列データを交換している。GenBankおよび共同活動をしているデータベースには、世界中の研究機関から10万種以上の生物から抽出された塩基配列が登録されている。
 
@@ -13,7 +13,7 @@ GenBank のデータは、指数関数的に増加しており（10ヵ月で2倍
 
 ## 登録と利用
 
-GenBankに[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")を介して直接データを登録するには、BankItという[WWWのフォームを使って登録する方法や](../Page/World_Wide_Web.md "wikilink")、Sequinというスタンドアロンの登録用[ソフトウェア](../Page/ソフトウェア.md "wikilink")を使って登録する方法などがある。GenBankに塩基配列のデータが登録されると、GenBankのスタッフがその配列に登録番号を振って、配列データの質の検査を行う。その後、登録されたデータが、実際にデータベースに反映される。
+GenBankに[インターネット](../Page/インターネット.md "wikilink")を介して直接データを登録するには、BankItという[WWWのフォームを使って登録する方法や](../Page/World_Wide_Web.md "wikilink")、Sequinというスタンドアロンの登録用[ソフトウェア](../Page/ソフトウェア.md "wikilink")を使って登録する方法などがある。GenBankに塩基配列のデータが登録されると、GenBankのスタッフがその配列に登録番号を振って、配列データの質の検査を行う。その後、登録されたデータが、実際にデータベースに反映される。
 
 [発現シーケンスタグ](https://ja.wikipedia.org/wiki/相補的DNA#EST "wikilink")（EST; Expressed Sequence Tag）、STS（Sequence Tagged Site）、GSS（Genome Survey Sequence）、HTGS（High-Throughput Genome Sequence）のデータの一括登録は、通常、大規模な配列センターによって行われることが多い。完全な[微生物](../Page/微生物.md "wikilink")[ゲノム](../Page/ゲノム.md "wikilink")配列の場合は、GenBankに直接データを登録する方法が採られる。
 

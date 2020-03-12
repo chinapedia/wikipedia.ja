@@ -1,25 +1,25 @@
 > この記事は[UPL](https://ja.wikipedia.org/wiki/UPL)から翻訳されています。
 
 
-**株式会社UPL**（**ユーピーエル**、英文社名**UPL Co., Ltd**）はかつて[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")[小山市](../Page/小山市.md "wikilink")に所在していた、[ゲームソフト](../Page/ゲームソフト.md "wikilink")の開発、および[エレメカ](https://ja.wikipedia.org/wiki/エレメカ "wikilink")の製造販売を行っていた企業である。元々はユニバーサル（現:[ユニバーサルエンターテインメント](https://ja.wikipedia.org/wiki/ユニバーサルエンターテインメント "wikilink")）の販売子会社兼エレメカ開発部門として**ユニバーサルプレイランド**として創業し、[1984年](../Page/1984年.md "wikilink")に社名をUPLに変更した。[1992年](../Page/1992年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に倒産。2016年5月20日に[ハムスターがUPLのゲーム等に関する権利譲渡契約を締結したことを発表した](https://ja.wikipedia.org/wiki/ハムスター_\(ゲーム会社\) "wikilink")\[1\]。
+**株式会社UPL**（**ユーピーエル**、英文社名**UPL Co., Ltd**）はかつて[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")[小山市](../Page/小山市.md "wikilink")に所在していた、[ゲームソフト](../Page/ゲームソフト.md "wikilink")の開発、および[エレメカ](../Page/エレメカ.md "wikilink")の製造販売を行っていた企業である。元々はユニバーサル（現:[ユニバーサルエンターテインメント](../Page/ユニバーサルエンターテインメント.md "wikilink")）の販売子会社兼エレメカ開発部門として**ユニバーサルプレイランド**として創業し、[1984年](../Page/1984年.md "wikilink")に社名をUPLに変更した。[1992年](../Page/1992年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に倒産。2016年5月20日に[ハムスターがUPLのゲーム等に関する権利譲渡契約を締結したことを発表した](../Page/ハムスター_\(ゲーム会社\).md "wikilink")\[1\]。
 
 ## 主な作品
 
   - [マウサー](https://ja.wikipedia.org/wiki/マウサー "wikilink")
 
-  - [NOVA2001](https://ja.wikipedia.org/wiki/NOVA2001 "wikilink")
+  - [NOVA2001](../Page/NOVA2001.md "wikilink")
 
   - [XXミッション](https://ja.wikipedia.org/wiki/XXミッション "wikilink")
 
-  - [リターン オブ ザ インベーダー](../Page/リターン_オブ_ザ_インベーダー.md "wikilink") - [タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")の下請けとして制作されたため、クレジットなし。同社により[PlayStation 2と](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[PlayStation Portableに移植された](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")。
+  - [リターン オブ ザ インベーダー](../Page/リターン_オブ_ザ_インベーダー.md "wikilink") - [タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")の下請けとして制作されたため、クレジットなし。同社により[PlayStation 2と](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[PlayStation Portableに移植された](../Page/PlayStation_Portable.md "wikilink")。
 
   - [レイダース5](https://ja.wikipedia.org/wiki/レイダース5 "wikilink") - こちらもタイトーが販売していたが、タイトル画面でUPLのロゴが確認出来る。
 
-  - [忍者くん 魔城の冒険](https://ja.wikipedia.org/wiki/忍者くん_魔城の冒険 "wikilink") - [ファミコン版移植を担当した](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")[ジャレコ](../Page/ジャレコ.md "wikilink")が、後に版権を買い取り、自社オリジナル作品として『[忍者じゃじゃ丸くん](../Page/忍者じゃじゃ丸くん.md "wikilink")』を開発し発売した。
+  - [忍者くん 魔城の冒険](../Page/忍者くん_魔城の冒険.md "wikilink") - [ファミコン版移植を担当した](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")[ジャレコ](../Page/ジャレコ.md "wikilink")が、後に版権を買い取り、自社オリジナル作品として『[忍者じゃじゃ丸くん](../Page/忍者じゃじゃ丸くん.md "wikilink")』を開発し発売した。
 
   - [ぺんぎんくんWARS](https://ja.wikipedia.org/wiki/ぺんぎんくんWARS "wikilink") - [アスキーよりファミコンおよびMSXへの移植版が発売された](../Page/アスキー_\(企業\).md "wikilink")。
 
-  - [忍者くん 阿修羅ノ章](https://ja.wikipedia.org/wiki/忍者くん_魔城の冒険#忍者くん_阿修羅ノ章 "wikilink") - ファミコンに移植されている。[携帯電話のアプリゲームとしても復活している](https://ja.wikipedia.org/wiki/携帯電話ゲーム "wikilink")。
+  - [忍者くん 阿修羅ノ章](https://ja.wikipedia.org/wiki/忍者くん_魔城の冒険#忍者くん_阿修羅ノ章 "wikilink") - ファミコンに移植されている。[携帯電話のアプリゲームとしても復活している](../Page/携帯電話ゲーム.md "wikilink")。
 
   - [ミュータントナイト](https://ja.wikipedia.org/wiki/ミュータントナイト "wikilink")
 
@@ -29,7 +29,7 @@
 
   - [アトミックロボキッド](https://ja.wikipedia.org/wiki/アトミックロボキッド "wikilink") - [PCエンジン](../Page/PCエンジン.md "wikilink")（UPL）、メガドライブ（トレコ）、[X68000](https://ja.wikipedia.org/wiki/X68000 "wikilink")（[システムサコム](../Page/システムサコム.md "wikilink")）に移植されている。
 
-  - [浦島まあじゃん](https://ja.wikipedia.org/wiki/浦島まあじゃん "wikilink") - 開発は[NMK](../Page/NMK.md "wikilink")。[浦島太郎](../Page/浦島太郎.md "wikilink")を題材とした、UPL唯一の[脱衣麻雀](https://ja.wikipedia.org/wiki/脱衣麻雀 "wikilink")ゲーム。ただし、下着止まりとなっている。
+  - [浦島まあじゃん](https://ja.wikipedia.org/wiki/浦島まあじゃん "wikilink") - 開発は[NMK](../Page/NMK.md "wikilink")。[浦島太郎](../Page/浦島太郎.md "wikilink")を題材とした、UPL唯一の[脱衣麻雀](../Page/脱衣麻雀.md "wikilink")ゲーム。ただし、下着止まりとなっている。
 
   - [アークエリア](https://ja.wikipedia.org/wiki/アークエリア "wikilink")
 
@@ -39,7 +39,7 @@
 
   - [宇宙戦艦ゴモラ](../Page/宇宙戦艦ゴモラ.md "wikilink") - 移植はアイシステム東京だが、UPL自身によってメガドライブで発売されている。UPLの最初で最後のメガドライブソフトとなった。
 
-  - [アクロバットミッション](../Page/アクロバットミッション.md "wikilink") - 販売はタイトー。[テイチクによって](https://ja.wikipedia.org/wiki/テイチクエンタテインメント "wikilink")[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")に移植されている。
+  - [アクロバットミッション](../Page/アクロバットミッション.md "wikilink") - 販売はタイトー。[テイチクによって](../Page/テイチクエンタテインメント.md "wikilink")[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")に移植されている。
 
   - [バンダイク](https://ja.wikipedia.org/wiki/バンダイク "wikilink")
 
@@ -50,9 +50,9 @@
 ## 関連項目
 
   - [藤沢勉](../Page/藤沢勉.md "wikilink") - UPLのゲームデザイナー。
-  - [西澤龍一](https://ja.wikipedia.org/wiki/西澤龍一 "wikilink") - ゲームデザイナーとしてUPLに所属、『[忍者くん](https://ja.wikipedia.org/wiki/忍者くん_魔城の冒険 "wikilink")』、『[NOVA2001](https://ja.wikipedia.org/wiki/NOVA2001 "wikilink")』などを制作する。後に独立し[ウエストン ビット エンタテインメントを設立](https://ja.wikipedia.org/wiki/ウエストン_ビット_エンタテインメント "wikilink")。
-  - [ハムスター](https://ja.wikipedia.org/wiki/ハムスター_\(ゲーム会社\) "wikilink") - UPLのゲーム等に関する権利を所有。
-  - [ユウビス](https://ja.wikipedia.org/wiki/ユウビス "wikilink") - UPLのプライスゲームの権利を所有。
+  - [西澤龍一](https://ja.wikipedia.org/wiki/西澤龍一 "wikilink") - ゲームデザイナーとしてUPLに所属、『[忍者くん](../Page/忍者くん_魔城の冒険.md "wikilink")』、『[NOVA2001](../Page/NOVA2001.md "wikilink")』などを制作する。後に独立し[ウエストン ビット エンタテインメントを設立](https://ja.wikipedia.org/wiki/ウエストン_ビット_エンタテインメント "wikilink")。
+  - [ハムスター](../Page/ハムスター_\(ゲーム会社\).md "wikilink") - UPLのゲーム等に関する権利を所有。
+  - [ユウビス](../Page/ユウビス.md "wikilink") - UPLのプライスゲームの権利を所有。
 
 ## 脚注
 

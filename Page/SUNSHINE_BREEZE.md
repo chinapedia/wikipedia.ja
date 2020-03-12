@@ -9,9 +9,9 @@ FM富士が[JFNに加盟していた当時](../Page/全国FM放送協議会.md "
 
 ### 特色
 
-毎週土曜日の11時 - 15時55分 、[山梨県](../Page/山梨県.md "wikilink")[甲府市](../Page/甲府市.md "wikilink")[丸の内のFM富士本社スタジオ](../Page/丸の内_\(甲府市\).md "wikilink")（当時\[3\]）から5時間の生放送で、基本的には[リスナー](https://ja.wikipedia.org/wiki/リスナー "wikilink")から[電話](../Page/電話.md "wikilink")や[FAXなどでリクエストやメッセージを募集](https://ja.wikipedia.org/wiki/ファクシミリ "wikilink")（電話リクエストは番組終了1時間前まで募集）。
+毎週土曜日の11時 - 15時55分 、[山梨県](../Page/山梨県.md "wikilink")[甲府市](../Page/甲府市.md "wikilink")[丸の内のFM富士本社スタジオ](../Page/丸の内_\(甲府市\).md "wikilink")（当時\[3\]）から5時間の生放送で、基本的には[リスナー](../Page/リスナー.md "wikilink")から[電話](../Page/電話.md "wikilink")や[FAXなどでリクエストやメッセージを募集](https://ja.wikipedia.org/wiki/ファクシミリ "wikilink")（電話リクエストは番組終了1時間前まで募集）。
 
-DJは開始初期から数年は[木河淳](https://ja.wikipedia.org/wiki/木河淳 "wikilink")が、またFM-FUJIがJFNを脱退してからは[長谷川雄啓](https://ja.wikipedia.org/wiki/長谷川雄啓 "wikilink")がメインで担当した。その後、[宅麻仁](../Page/宅麻仁.md "wikilink")がメインとなり、土曜日の午後の人気番組となった。
+DJは開始初期から数年は[木河淳](https://ja.wikipedia.org/wiki/木河淳 "wikilink")が、またFM-FUJIがJFNを脱退してからは[長谷川雄啓](../Page/長谷川雄啓.md "wikilink")がメインで担当した。その後、[宅麻仁](../Page/宅麻仁.md "wikilink")がメインとなり、土曜日の午後の人気番組となった。
 
 ちなみに宅麻仁(&田中なつこ／江崎エツコ)担当時のオープニングは『**おはにちは\!\!**』と挨拶していた。放送開始が午前中だったのと、昼間の番組だったことで「おはよう」と「こんにちは」を組み合わせた造語である。
 
@@ -19,9 +19,9 @@ DJは開始初期から数年は[木河淳](https://ja.wikipedia.org/wiki/木河
 
 ## 番組の終了
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")より番組の拠点をこれまでの甲府本社から[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[代々木](https://ja.wikipedia.org/wiki/代々木 "wikilink")のFM-FUJI東京支社スタジオ「[STUDIO ViViD](https://ja.wikipedia.org/wiki/STUDIO_ViViD "wikilink")」へ移行。放送時間も10時～15時30分に拡大され、最長5時間30分となる。東京移行後は電話リクエスト形式が廃止されるなど、番組のシステムや構成に若干変更がなされる。
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")より番組の拠点をこれまでの甲府本社から[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[代々木](../Page/代々木.md "wikilink")のFM-FUJI東京支社スタジオ「[STUDIO ViViD](https://ja.wikipedia.org/wiki/STUDIO_ViViD "wikilink")」へ移行。放送時間も10時～15時30分に拡大され、最長5時間30分となる。東京移行後は電話リクエスト形式が廃止されるなど、番組のシステムや構成に若干変更がなされる。
 
-[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")からは放送場所を代々木から[新宿](../Page/新宿.md "wikilink")[ルミネ](https://ja.wikipedia.org/wiki/ルミネ "wikilink")2内の[タワーレコード](../Page/タワーレコード.md "wikilink")新宿ルミネ店サテライトスタジオへ移し、放送時間も11時～15時55分（5時間）に復帰した。
+[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")からは放送場所を代々木から[新宿](../Page/新宿.md "wikilink")[ルミネ](../Page/ルミネ.md "wikilink")2内の[タワーレコード](../Page/タワーレコード.md "wikilink")新宿ルミネ店サテライトスタジオへ移し、放送時間も11時～15時55分（5時間）に復帰した。
 
 東京時代は2度にわたる放送時間変更とスタジオ移動を経験する形となり、そして[1999年](../Page/1999年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")に番組が終了。およそ10年の歴史に幕を下ろした。
 
@@ -32,7 +32,7 @@ DJは開始初期から数年は[木河淳](https://ja.wikipedia.org/wiki/木河
 **男性**
 
   - [木河淳](https://ja.wikipedia.org/wiki/木河淳 "wikilink")
-  - [長谷川雄啓](https://ja.wikipedia.org/wiki/長谷川雄啓 "wikilink")
+  - [長谷川雄啓](../Page/長谷川雄啓.md "wikilink")
   - [宅麻仁](../Page/宅麻仁.md "wikilink")
 
 </div>
@@ -50,7 +50,7 @@ DJは開始初期から数年は[木河淳](https://ja.wikipedia.org/wiki/木河
 ## 主なコーナー
 
   - HOW WAS THIS WEEK?～今週はこんなんでした
-  - [山中湖HOLIDAY](https://ja.wikipedia.org/wiki/山中湖村 "wikilink") SNIPER（甲府本社時代）
+  - [山中湖HOLIDAY](../Page/山中湖村.md "wikilink") SNIPER（甲府本社時代）
   - 今週のいい男&いい女\!
   - SPOT LIGHT BOX
   - ATTENTION PLEASE
@@ -62,9 +62,9 @@ DJは開始初期から数年は[木河淳](https://ja.wikipedia.org/wiki/木河
 
   - [エフエム富士](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")
   - [STUDIO ViViD](https://ja.wikipedia.org/wiki/STUDIO_ViViD "wikilink")
-  - [SUNSET CALLING](https://ja.wikipedia.org/wiki/SUNSET_CALLING "wikilink") - 1993年4月～9月に長谷川が担当していた。
+  - [SUNSET CALLING](../Page/SUNSET_CALLING.md "wikilink") - 1993年4月～9月に長谷川が担当していた。
   - [SOUND SPEC.](https://ja.wikipedia.org/wiki/SOUND_SPEC. "wikilink") - 月・火曜を木河が担当していた。
-  - [RADIO-izm](../Page/RADIO-izm.md "wikilink") - 1996年から13年間月～金曜夕方に放送された人気番組で、宅麻は初期の3年間金曜日を担当していた。ちなみにSUNSHINE BREEZE最終回の前日に当たる[1999年](../Page/1999年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")放送回で卒業。また、[近田和生](https://ja.wikipedia.org/wiki/近田和生 "wikilink")が宅麻のピンチヒッターを務めたこともある。
+  - [RADIO-izm](../Page/RADIO-izm.md "wikilink") - 1996年から13年間月～金曜夕方に放送された人気番組で、宅麻は初期の3年間金曜日を担当していた。ちなみにSUNSHINE BREEZE最終回の前日に当たる[1999年](../Page/1999年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")放送回で卒業。また、[近田和生](../Page/近田和生.md "wikilink")が宅麻のピンチヒッターを務めたこともある。
   - [J-POP SQUARE](https://ja.wikipedia.org/wiki/J-POP_SQUARE "wikilink") - この番組の以前に新宿ルミネ2のタワーレコードサテライトスタジオから生放送されていた番組。
   - [WEST SIDE TOKYO](https://ja.wikipedia.org/wiki/WEST_SIDE_TOKYO "wikilink") - 2009年現在木河が担当している土・日朝のワイド番組。
   - [大森庸雄](../Page/大森庸雄.md "wikilink") - [1996年](../Page/1996年.md "wikilink")[9月21日](../Page/9月21日.md "wikilink")の放送では宅麻が急病のため、急遽ピンチヒッターとして、当時土曜夜の人気番組だった「[WEEKEND Hi\!](../Page/WEEKEND_Hi!.md "wikilink")」のDJを務めていた大森が出演。田中なつこと二人で番組を進行した。その日が土曜日だったため、大森は昼間は甲府、夜は東京と、2箇所計8時間番組をこなした。

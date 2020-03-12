@@ -7,9 +7,9 @@
 
 当初は**TW200**として[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に販売を開始した。車名の**TW**とは、Trail Way（トレールウェイ）の略。道なき道を走破するアドベンチャーマシンをイメージしている。「バルーンタイヤ」と呼ばれる極端に幅の太い[タイヤ](../Page/タイヤ.md "wikilink")が特徴の、異色のアドベンチャーオフロードモデルとして登場し、16psと敢えて中低速重視に設定された200cc[空冷](https://ja.wikipedia.org/wiki/空冷エンジン "wikilink")[SOHC](../Page/SOHC.md "wikilink")2バルブ[単気筒エンジン](../Page/単気筒エンジン.md "wikilink")には高度補正装置付き[キャブレター](../Page/キャブレター.md "wikilink")が組み合わされ、高い走破性を持つ事から、後に冒険家の[風間深志](../Page/風間深志.md "wikilink")による、[北極点](../Page/北極点.md "wikilink")到達チャレンジのベースマシンにも選ばれている。
 
-当初は生粋のオフロードマシンであった同車であったが、[1990年代](../Page/1990年代.md "wikilink")後半に入ると最大の特徴である幅太タイヤが人気を博し、若者による街乗り用の[カスタム](https://ja.wikipedia.org/wiki/カスタム "wikilink")ベースマシンとして人気となった。4台を配備（他に[YAMAHAセロー225および](https://ja.wikipedia.org/wiki/ヤマハ・セロー "wikilink")[HONDA TLM220](https://ja.wikipedia.org/wiki/ホンダ・TL "wikilink")）している[静岡市オフロードバイク隊](https://ja.wikipedia.org/wiki/静岡市オフロードバイク隊 "wikilink")では、「後輪の幅が太いため、砂地やぬかるんだ路面の走行に適している」が、「重量（特に後輪）があるため、[HONDA TLM220のように段差を越える走行は難しい](https://ja.wikipedia.org/wiki/ホンダ・TL "wikilink")」としている。また「最近は街用に改造された車体の人気が高く、オフロード車としての使用が珍しい」とも書かれている。
+当初は生粋のオフロードマシンであった同車であったが、[1990年代](../Page/1990年代.md "wikilink")後半に入ると最大の特徴である幅太タイヤが人気を博し、若者による街乗り用の[カスタム](../Page/カスタム.md "wikilink")ベースマシンとして人気となった。4台を配備（他に[YAMAHAセロー225および](../Page/ヤマハ・セロー.md "wikilink")[HONDA TLM220](https://ja.wikipedia.org/wiki/ホンダ・TL "wikilink")）している[静岡市オフロードバイク隊](https://ja.wikipedia.org/wiki/静岡市オフロードバイク隊 "wikilink")では、「後輪の幅が太いため、砂地やぬかるんだ路面の走行に適している」が、「重量（特に後輪）があるため、[HONDA TLM220のように段差を越える走行は難しい](https://ja.wikipedia.org/wiki/ホンダ・TL "wikilink")」としている。また「最近は街用に改造された車体の人気が高く、オフロード車としての使用が珍しい」とも書かれている。
 
-1990年代半ば、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[杉並区](https://ja.wikipedia.org/wiki/杉並区 "wikilink")の[オートバイ屋](https://ja.wikipedia.org/wiki/オートバイ屋 "wikilink")(有)[モトショップ五郎](https://ja.wikipedia.org/wiki/モトショップ五郎 "wikilink")が手掛けた[カスタマイズ](https://ja.wikipedia.org/wiki/カスタマイズ "wikilink")に代表される「[ストリートカスタム](https://ja.wikipedia.org/wiki/ストリートカスタム "wikilink")」という新たなジャンルが注目を集め、街中でカスタムしたTWに乗る人のことを指す「**ティーダバー**」、また[バッテリーレス化などでわざと車体をスカスカに見せるカスタムを指す](../Page/鉛蓄電池.md "wikilink")「**[スカチューン](../Page/スカチューン.md "wikilink")**」などの単語を生み出した。若者を中心に広まっていったTWのスカチューンは、テレビドラマ『[ビューティフルライフ](https://ja.wikipedia.org/wiki/#関連項目 "wikilink")』に登場したことから更に人気を得た。その後も排気量を拡大するなどして販売され続けていたが、規準が強化された排ガス規制の施行に伴い[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に国内仕様車の生産終了が公表された。これの補足としては、燃料供給にキャブレターを採用しており、2008年以降も継続販売するには、莫大な開発費用と時間が見込まれる電子制御燃料噴射の導入と排ガス浄化システム(触媒等)の採用が不可欠な為、経営判断に依り決定された。
+1990年代半ば、[東京都](../Page/東京都.md "wikilink")[杉並区](https://ja.wikipedia.org/wiki/杉並区 "wikilink")の[オートバイ屋](https://ja.wikipedia.org/wiki/オートバイ屋 "wikilink")(有)[モトショップ五郎](https://ja.wikipedia.org/wiki/モトショップ五郎 "wikilink")が手掛けた[カスタマイズ](https://ja.wikipedia.org/wiki/カスタマイズ "wikilink")に代表される「[ストリートカスタム](https://ja.wikipedia.org/wiki/ストリートカスタム "wikilink")」という新たなジャンルが注目を集め、街中でカスタムしたTWに乗る人のことを指す「**ティーダバー**」、また[バッテリーレス化などでわざと車体をスカスカに見せるカスタムを指す](../Page/鉛蓄電池.md "wikilink")「**[スカチューン](../Page/スカチューン.md "wikilink")**」などの単語を生み出した。若者を中心に広まっていったTWのスカチューンは、テレビドラマ『[ビューティフルライフ](https://ja.wikipedia.org/wiki/#関連項目 "wikilink")』に登場したことから更に人気を得た。その後も排気量を拡大するなどして販売され続けていたが、規準が強化された排ガス規制の施行に伴い[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に国内仕様車の生産終了が公表された。これの補足としては、燃料供給にキャブレターを採用しており、2008年以降も継続販売するには、莫大な開発費用と時間が見込まれる電子制御燃料噴射の導入と排ガス浄化システム(触媒等)の採用が不可欠な為、経営判断に依り決定された。
 
 ## モデル一覧
 
@@ -89,11 +89,11 @@ TW200からの変更点は、
 
 ## 参考文献
 
-  - 『20世紀のアイアンホース達』、[大洋図書](https://ja.wikipedia.org/wiki/大洋図書 "wikilink")、2000年、ISBN 4-8130-0150-5
+  - 『20世紀のアイアンホース達』、[大洋図書](../Page/大洋図書.md "wikilink")、2000年、ISBN 4-8130-0150-5
 
 ## 関連項目
 
-  - [ビューティフルライフ](../Page/ビューティフルライフ.md "wikilink") - [2000年](../Page/2000年.md "wikilink")に[TBS系列で放映された](../Page/TBSテレビ.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")。主演の[木村拓哉](https://ja.wikipedia.org/wiki/木村拓哉 "wikilink")演じる沖島柊二の愛車として作中に登場したことを受けて再びブームになり、納車まで数ヶ月待ちとなる販売店が続出した。
+  - [ビューティフルライフ](../Page/ビューティフルライフ.md "wikilink") - [2000年](../Page/2000年.md "wikilink")に[TBS系列で放映された](../Page/TBSテレビ.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")。主演の[木村拓哉](../Page/木村拓哉.md "wikilink")演じる沖島柊二の愛車として作中に登場したことを受けて再びブームになり、納車まで数ヶ月待ちとなる販売店が続出した。
   - [静岡市オフロードバイク隊](https://ja.wikipedia.org/wiki/静岡市オフロードバイク隊 "wikilink") - 4台配備している。
   - [ヤマハ・BW200](https://ja.wikipedia.org/wiki/ヤマハ・BW200 "wikilink")
 

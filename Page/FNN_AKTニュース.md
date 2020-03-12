@@ -13,10 +13,10 @@
 
 ### 過去の放送時間
 
-  - 日曜日の20:54 - 21:00にも放送されていたが、タイトル差し替えが無くなって『[FNNニュース・明日の天気](https://ja.wikipedia.org/wiki/FNNニュース・明日の天気 "wikilink")』に改められ、現在の『[THE NEWSα Pick](https://ja.wikipedia.org/wiki/THE_NEWSα_Pick "wikilink")』に至る。
+  - 日曜日の20:54 - 21:00にも放送されていたが、タイトル差し替えが無くなって『[FNNニュース・明日の天気](../Page/FNNニュース・明日の天気.md "wikilink")』に改められ、現在の『[THE NEWSα Pick](https://ja.wikipedia.org/wiki/THE_NEWSα_Pick "wikilink")』に至る。
   - 日曜日は11:50 - 12:00にも放送されていたが、『[FNNスピークWeekend](https://ja.wikipedia.org/wiki/FNNスピークWeekend "wikilink")』開始により[2016年](../Page/2016年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")を以て終了した。
   - 平日午後・土曜昼に『サンケイテレニュースFNN』を行っていた時期もこのタイトルだった。
-  - 一方、現在の朝枠の流れを汲む週末の朝は『[FNNテレビ朝刊](https://ja.wikipedia.org/wiki/FNNテレビ朝刊 "wikilink")（→FNNニュース）』という改題であった。また、[1981年](../Page/1981年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")-[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")の[テレビ朝日](../Page/テレビ朝日.md "wikilink")系とのクロスネット時代も7時から開始の『[ANNニュースセブン](../Page/ANNニュースセブン.md "wikilink")』と7:15開始の『サンケイテレニュースFNN』という時間ズレに伴い連続放送をし、ローカルニュースは7:25から[AKT県内ニュースとして処理](https://ja.wikipedia.org/wiki/ニュースあきた "wikilink")。
+  - 一方、現在の朝枠の流れを汲む週末の朝は『[FNNテレビ朝刊](../Page/FNNテレビ朝刊.md "wikilink")（→FNNニュース）』という改題であった。また、[1981年](../Page/1981年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")-[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")の[テレビ朝日](../Page/テレビ朝日.md "wikilink")系とのクロスネット時代も7時から開始の『[ANNニュースセブン](../Page/ANNニュースセブン.md "wikilink")』と7:15開始の『サンケイテレニュースFNN』という時間ズレに伴い連続放送をし、ローカルニュースは7:25から[AKT県内ニュースとして処理](../Page/ニュースあきた.md "wikilink")。
   - 『テレポートあきた→スーパータイムあきた』時代の週末夕方のニュースは全国枠を『[FNNニュースレポート5:30](../Page/FNNニュースレポート5:30.md "wikilink")→[FNNスーパータイム](../Page/FNNスーパータイム.md "wikilink")』、ローカル枠を『AKTニュース・お天気ダイアリー』\[3\]として放送された。
 
 ## 脚注
@@ -24,7 +24,7 @@
 ## 関連項目
 
   - [AKTスポットニュース](https://ja.wikipedia.org/wiki/AKTスポットニュース "wikilink")
-  - [ニュースあきた](https://ja.wikipedia.org/wiki/ニュースあきた "wikilink")
+  - [ニュースあきた](../Page/ニュースあきた.md "wikilink")
 
 ## 外部リンク
 

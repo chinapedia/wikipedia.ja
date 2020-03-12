@@ -1,20 +1,20 @@
 > この記事は[Steady\&Co.](https://ja.wikipedia.org/wiki/Steady\&Co.)から翻訳されています。
 
 
-**Steady\&Co.**（ステディ・アンド・コー）は[Dragon Ashの](https://ja.wikipedia.org/wiki/Dragon_Ash "wikilink")[降谷建志](https://ja.wikipedia.org/wiki/降谷建志 "wikilink")とBOTSのプロデュースによって2001年に結成されたスペシャルユニットである。[WARNER MUSIC JAPAN所属](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")。
+**Steady\&Co.**（ステディ・アンド・コー）は[Dragon Ashの](../Page/Dragon_Ash.md "wikilink")[降谷建志](../Page/降谷建志.md "wikilink")とBOTSのプロデュースによって2001年に結成されたスペシャルユニットである。[WARNER MUSIC JAPAN所属](../Page/ワーナーミュージック・ジャパン.md "wikilink")。
 
 ## 概要
 
-元々は、BOTSがDragon Ash加入以前に降谷建志に「将来、Dragon Ash以外で色々できたらいいね」の一言をきっかけに結成したユニットで、始めは[Zeebra](https://ja.wikipedia.org/wiki/Zeebra "wikilink")のリミックスや[Sugar Soulなどのプロデュースを手掛けていた](https://ja.wikipedia.org/wiki/Sugar_Soul "wikilink")。
+元々は、BOTSがDragon Ash加入以前に降谷建志に「将来、Dragon Ash以外で色々できたらいいね」の一言をきっかけに結成したユニットで、始めは[Zeebra](../Page/Zeebra.md "wikilink")のリミックスや[Sugar Soulなどのプロデュースを手掛けていた](https://ja.wikipedia.org/wiki/Sugar_Soul "wikilink")。
 
 その後、Dragon Ashが開催していたイベント「TMC」(Total Music Communication)で親交を深めたSHIGEOとILMARIを誘い新たに始動した。
 
 ## メンバー
 
-  - [降谷建志](https://ja.wikipedia.org/wiki/降谷建志 "wikilink")（[Dragon Ash](https://ja.wikipedia.org/wiki/Dragon_Ash "wikilink")）MC
+  - [降谷建志](../Page/降谷建志.md "wikilink")（[Dragon Ash](../Page/Dragon_Ash.md "wikilink")）MC
   - BOTS（Dragon Ash）[DJ](../Page/ディスクジョッキー.md "wikilink")
-  - [ILMARI](../Page/ILMARI.md "wikilink")（[RIP SLYME](https://ja.wikipedia.org/wiki/RIP_SLYME "wikilink")）MC
-  - SHIGEO（[スケボーキング](https://ja.wikipedia.org/wiki/スケボーキング "wikilink")）MC
+  - [ILMARI](../Page/ILMARI.md "wikilink")（[RIP SLYME](../Page/RIP_SLYME.md "wikilink")）MC
+  - SHIGEO（[スケボーキング](../Page/スケボーキング.md "wikilink")）MC
 
 ## ディスコグラフィー
 

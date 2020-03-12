@@ -1,7 +1,7 @@
 > この記事は[FIANCHI](https://ja.wikipedia.org/wiki/FIANCHI)から翻訳されています。
 
 
-**FIANCHI（フィアンキ）**は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に結成された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")。[アレンジャー](https://ja.wikipedia.org/wiki/アレンジャー "wikilink")[新川博](https://ja.wikipedia.org/wiki/新川博 "wikilink")を中心に経験豊かな[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")と[スタイリスト](https://ja.wikipedia.org/wiki/スタイリスト "wikilink")によって構成される。コンセプトは『**プロが作ったアマチュアバンド**』。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")にバンド名をタイトルにしたカバーアルバムを発表し、続けて[目黒Blues Alley Japanで記念](https://ja.wikipedia.org/wiki/目黒Blues_Alley_Japan "wikilink")[ライブも行った](https://ja.wikipedia.org/wiki/演奏会 "wikilink")。その後も継続的に活動している。
+**FIANCHI（フィアンキ）**は、[2006年](../Page/2006年.md "wikilink")に結成された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")。[アレンジャー](https://ja.wikipedia.org/wiki/アレンジャー "wikilink")[新川博](https://ja.wikipedia.org/wiki/新川博 "wikilink")を中心に経験豊かな[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")と[スタイリスト](https://ja.wikipedia.org/wiki/スタイリスト "wikilink")によって構成される。コンセプトは『**プロが作ったアマチュアバンド**』。[2006年](../Page/2006年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")にバンド名をタイトルにしたカバーアルバムを発表し、続けて[目黒Blues Alley Japanで記念](https://ja.wikipedia.org/wiki/目黒Blues_Alley_Japan "wikilink")[ライブも行った](../Page/演奏会.md "wikilink")。その後も継続的に活動している。
 
 ## メンバー
 
@@ -10,7 +10,7 @@
   - [市川祥治](https://ja.wikipedia.org/wiki/市川祥治 "wikilink")
     [ギター](../Page/ギター.md "wikilink")担当。
   - [田中章弘](https://ja.wikipedia.org/wiki/田中章弘 "wikilink")
-    [ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。
+    [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。
   - [濱田尚哉](https://ja.wikipedia.org/wiki/濱田尚哉 "wikilink")
     [ドラムス担当](../Page/ドラムセット.md "wikilink")。
   - [近藤昌](https://ja.wikipedia.org/wiki/近藤昌 "wikilink")
@@ -40,7 +40,7 @@
       - 作詞・作曲：[David Paich](https://ja.wikipedia.org/wiki/デヴィッド・ペイチ "wikilink")
     <!-- end list -->
       -
-        [TOTOのデビューアルバムに収録](https://ja.wikipedia.org/wiki/TOTO_\(バンド\) "wikilink")。
+        [TOTOのデビューアルバムに収録](../Page/TOTO_\(バンド\).md "wikilink")。
 2.  Jojo
       - 作詞・作曲：[Boz Scaggs](../Page/ボズ・スキャッグス.md "wikilink")
     <!-- end list -->
@@ -62,7 +62,7 @@
       -
         [ボサノヴァ](../Page/ボサノヴァ.md "wikilink")の曲として日本でも知名度が高いマイケル・フランクスの代表曲。
 6.  [Da Ya Think I'm Sexy?](https://ja.wikipedia.org/wiki/アイム・セクシー "wikilink")
-      - 作詞・作曲：[Rod Stewart](https://ja.wikipedia.org/wiki/ロッド・スチュワート "wikilink")・Duane Hitchings・[Carmine Appice](../Page/カーマイン・アピス.md "wikilink")
+      - 作詞・作曲：[Rod Stewart](../Page/ロッド・スチュワート.md "wikilink")・Duane Hitchings・[Carmine Appice](../Page/カーマイン・アピス.md "wikilink")
     <!-- end list -->
       -
         [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")に発売されたロッド・スチュワートのアルバム「[スーパースターはブロンドがお好き Have More Fun）](https://ja.wikipedia.org/wiki/スーパースターはブロンドがお好き "wikilink")（原題：Blondes」の収録曲。
@@ -72,15 +72,15 @@
       -
         [1977年](../Page/1977年.md "wikilink")発売の[スティーリー・ダン](../Page/スティーリー・ダン.md "wikilink")のシングル曲。
 8.  [Honesty](https://ja.wikipedia.org/wiki/オネスティ "wikilink")
-      - 作詞・作曲：[Billy Joel](https://ja.wikipedia.org/wiki/ビリー・ジョエル "wikilink")
+      - 作詞・作曲：[Billy Joel](../Page/ビリー・ジョエル.md "wikilink")
     <!-- end list -->
       -
-        [ビリー・ジョエル](https://ja.wikipedia.org/wiki/ビリー・ジョエル "wikilink")が[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")発売のアルバム『[ニューヨーク52番街](https://ja.wikipedia.org/wiki/ニューヨーク52番街 "wikilink")』で発表した楽曲。翌年、同アルバムから第3弾シングルとしてリリースされた。
+        [ビリー・ジョエル](../Page/ビリー・ジョエル.md "wikilink")が[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")発売のアルバム『[ニューヨーク52番街](https://ja.wikipedia.org/wiki/ニューヨーク52番街 "wikilink")』で発表した楽曲。翌年、同アルバムから第3弾シングルとしてリリースされた。
 9.  After The Love Is Gone
-      - 作詞・作曲：[Jay Graydon](https://ja.wikipedia.org/wiki/ジェイ・グレイドン "wikilink")・[David Foster](https://ja.wikipedia.org/wiki/デイヴィッド・フォスター "wikilink")・[Bill Champlin](https://ja.wikipedia.org/wiki/ビル・チャンプリン "wikilink")
+      - 作詞・作曲：[Jay Graydon](../Page/ジェイ・グレイドン.md "wikilink")・[David Foster](../Page/デイヴィッド・フォスター.md "wikilink")・[Bill Champlin](../Page/ビル・チャンプリン.md "wikilink")
     <!-- end list -->
       -
-        元々は「After The Love Has Gone」のタイトルで[アース・ウィンド・アンド・ファイアー](../Page/アース・ウィンド・アンド・ファイアー.md "wikilink")に提供した共作曲だった。後に期間限定で結成された[エアプレイ](https://ja.wikipedia.org/wiki/エアプレイ "wikilink")でもカバーしたがタイトルは「After The Love **Is** Gone」と変わっており、併せて歌詞も少し変更している。
+        元々は「After The Love Has Gone」のタイトルで[アース・ウィンド・アンド・ファイアー](../Page/アース・ウィンド・アンド・ファイアー.md "wikilink")に提供した共作曲だった。後に期間限定で結成された[エアプレイ](../Page/エアプレイ.md "wikilink")でもカバーしたがタイトルは「After The Love **Is** Gone」と変わっており、併せて歌詞も少し変更している。
 10. [What A Fool Believes](https://ja.wikipedia.org/wiki/ミニット・バイ・ミニット_\(アルバム\) "wikilink")
       - 作詞・作曲：[Michael McDonald](../Page/マイケル・マクドナルド_\(ミュージシャン\).md "wikilink")・[Kenny Loggins](../Page/ケニー・ロギンス.md "wikilink")
     <!-- end list -->

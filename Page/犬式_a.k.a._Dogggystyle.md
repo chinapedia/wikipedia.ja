@@ -228,7 +228,7 @@ XQFD-1001</p></td>
 
 ### 楽曲提供
 
-  - [東洋水産](https://ja.wikipedia.org/wiki/東洋水産 "wikilink")株式会社・[マルちゃん黒い豚カレーうどん・まろやか鶏カレーうどん](https://ja.wikipedia.org/wiki/東洋水産#カップ麺 "wikilink")「夏のシズル」編に音楽を提供。
+  - [東洋水産](../Page/東洋水産.md "wikilink")株式会社・[マルちゃん黒い豚カレーうどん・まろやか鶏カレーうどん](https://ja.wikipedia.org/wiki/東洋水産#カップ麺 "wikilink")「夏のシズル」編に音楽を提供。
 
 ### 参加作品
 

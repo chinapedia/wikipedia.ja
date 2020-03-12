@@ -1,7 +1,7 @@
 > この記事は[Nujabes](https://ja.wikipedia.org/wiki/Nujabes)から翻訳されています。
 
 
-**Nujabes**（ヌジャベス、アーティスト名：**瀬場 潤**（せば じゅん）\[1\]\[2\] \[3\]）は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[西麻布](https://ja.wikipedia.org/wiki/西麻布 "wikilink")出身の[DJ](../Page/ディスクジョッキー.md "wikilink")、[ヒップホップ](../Page/ヒップホップ.md "wikilink")のトラックメイカー、音楽プロデューサー。
+**Nujabes**（ヌジャベス、アーティスト名：**瀬場 潤**（せば じゅん）\[1\]\[2\] \[3\]）は、[東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[西麻布](../Page/西麻布.md "wikilink")出身の[DJ](../Page/ディスクジョッキー.md "wikilink")、[ヒップホップ](../Page/ヒップホップ.md "wikilink")のトラックメイカー、音楽プロデューサー。
 
 ## 来歴
 
@@ -16,7 +16,7 @@
 
 ## 人物
 
-1995年〜2010年にかけて東京・渋谷を拠点に幅広い音楽活動を展開、1995年7月、渋谷[宇田川町](https://ja.wikipedia.org/wiki/宇田川町 "wikilink")の奥まった高野ビルに、レコード店「GUINNESS RECORDS（ギネスレコード）」を開店。1999年3月、渋谷[神南](https://ja.wikipedia.org/wiki/神南 "wikilink")に「Park Avenue Studios（パークアベニュー・スタジオ）」を設立する。
+1995年〜2010年にかけて東京・渋谷を拠点に幅広い音楽活動を展開、1995年7月、渋谷[宇田川町](../Page/宇田川町.md "wikilink")の奥まった高野ビルに、レコード店「GUINNESS RECORDS（ギネスレコード）」を開店。1999年3月、渋谷[神南](../Page/神南.md "wikilink")に「Park Avenue Studios（パークアベニュー・スタジオ）」を設立する。
 
 インディペンデントレーベル「hydeout productions」の主宰も兼ねた。
 

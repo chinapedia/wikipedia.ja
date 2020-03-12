@@ -1,7 +1,7 @@
 > この記事は[NEWS](https://ja.wikipedia.org/wiki/NEWS)から翻訳されています。
 
 
-『**なんかいNEWS**』（なんかいニュース）は、[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")（RNBテレビ）で放送されている[愛媛県](../Page/愛媛県.md "wikilink")ローカルの[スポットニュース](https://ja.wikipedia.org/wiki/スポットニュース "wikilink")。RNB[ラジオ](../Page/ラジオ.md "wikilink")のローカルニュースは『[愛媛新聞ニュース](https://ja.wikipedia.org/wiki/愛媛新聞ニュース "wikilink")』（えひめしんぶんニュース）という題名で放送されている。
+『**なんかいNEWS**』（なんかいニュース）は、[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")（RNBテレビ）で放送されている[愛媛県](../Page/愛媛県.md "wikilink")ローカルの[スポットニュース](../Page/スポットニュース.md "wikilink")。RNB[ラジオ](../Page/ラジオ.md "wikilink")のローカルニュースは『[愛媛新聞ニュース](https://ja.wikipedia.org/wiki/愛媛新聞ニュース "wikilink")』（えひめしんぶんニュース）という題名で放送されている。
 
 ## 放送時間
 
@@ -11,7 +11,7 @@
   - 土曜 午後（放送時間はその日の番組編成により異なるが、概ね14時台 - 15時台に5分間）
   - 日曜 16:55 - 17:00、*23:26 - 23:30*
       - 斜体表記の時間は『**なんかいNEWSファイナル**』（なんかいニュースファイナル）のタイトルで放送。かつては月曜 - 木曜 22:54 - 23:00にも放送されていたが、1994年4月の『[NNNきょうの出来事](https://ja.wikipedia.org/wiki/NNNきょうの出来事 "wikilink")』フライングスタート化に伴い廃枠となった。また、土曜にも別番組放送のため、一時的に廃枠となることがある（2009年10月からは『[THE PARTNER](https://ja.wikipedia.org/wiki/THE_PARTNER "wikilink")』放送のため、再び廃枠となっている）。
-      - 20:54の枠は『[NNNニューススポット](https://ja.wikipedia.org/wiki/NNNニューススポット "wikilink")』の廃止に伴う代替として、それまでの21:54の枠がスライド（曜日によっては新設）されたもの。
+      - 20:54の枠は『[NNNニューススポット](../Page/NNNニューススポット.md "wikilink")』の廃止に伴う代替として、それまでの21:54の枠がスライド（曜日によっては新設）されたもの。
 
 ## 関連番組
 
@@ -19,7 +19,7 @@
 
 ## 関連項目
 
-  - [スポットニュース](https://ja.wikipedia.org/wiki/スポットニュース "wikilink")
+  - [スポットニュース](../Page/スポットニュース.md "wikilink")
   - [ローカルニュース動画配信実施局一覧](../Page/ローカルニュース動画配信実施局一覧.md "wikilink")
 
 ## 外部リンク

@@ -36,7 +36,7 @@
   - 前半：**拝郷メイコのRADIO TREE**\[7\] - ⚫[拝郷メイコ](../Page/拝郷メイコ.md "wikilink")
       -
         （2009年10月6日 - 2013年3月26日）
-  - 後半：**磯貝サイモンの早く家に帰りたい\!**\[8\] - [磯貝サイモン](https://ja.wikipedia.org/wiki/磯貝サイモン "wikilink")
+  - 後半：**磯貝サイモンの早く家に帰りたい\!**\[8\] - [磯貝サイモン](../Page/磯貝サイモン.md "wikilink")
       -
         （2011年4月5日 - 2013年3月26日）
 
@@ -63,7 +63,7 @@
       -
         （2012年7月5日 - 2013年3月28日）
     <!-- end list -->
-      - [ポッドキャスティング配信実施](https://ja.wikipedia.org/wiki/ポッドキャスト "wikilink")\[14\]。
+      - [ポッドキャスティング配信実施](../Page/ポッドキャスト.md "wikilink")\[14\]。
       - 2013年4月より、単独番組として日曜19:30 - 19:55の枠に移動\[15\]。
   - 後半：**夕暮レトロニカの終わらせない青春\!\!**\[16\] - ⚫夕暮レトロニカ\[17\]
       -
@@ -77,7 +77,7 @@
 
 <!-- end list -->
 
-  - **[湘南探偵団 SLOW LIFE GOES ON](../Page/SLOW_LIFE_GOES_ON.md "wikilink")** - [湘南探偵団](https://ja.wikipedia.org/wiki/湘南探偵団 "wikilink")
+  - **[湘南探偵団 SLOW LIFE GOES ON](../Page/SLOW_LIFE_GOES_ON.md "wikilink")** - [湘南探偵団](../Page/湘南探偵団.md "wikilink")
       -
         （2005年4月 - 2006年3月、月曜20:00 - 20:30）
         ※[Radio80](https://ja.wikipedia.org/wiki/岐阜エフエム放送 "wikilink")（岐阜）でも放送。
@@ -126,7 +126,7 @@
       -
         （2005年4月 - 2006年1月31日、火曜20:00 - 20:30）
         2007年4月より、火曜後半の枠にて復活。
-  - **ハレンチ☆パンチのハレ☆ハレMIX** - [ハレンチ☆パンチ](https://ja.wikipedia.org/wiki/80_pan "wikilink")
+  - **ハレンチ☆パンチのハレ☆ハレMIX** - [ハレンチ☆パンチ](../Page/80_pan.md "wikilink")
       -
         （2006年2月7日 - 2007年3月、火曜20:00 - 20:30）
   - **山口リサ Secret Groove**\[26\]\[27\] - [山口リサ](https://ja.wikipedia.org/wiki/山口リサ "wikilink")
@@ -143,7 +143,7 @@
 
 <!-- end list -->
 
-  - **[SEAMOのA天狗SHOWプリーズ](https://ja.wikipedia.org/wiki/SEAMOのA天狗ショープリーズ "wikilink")** - [SEAMO](../Page/SEAMO.md "wikilink")
+  - **[SEAMOのA天狗SHOWプリーズ](../Page/SEAMOのA天狗ショープリーズ.md "wikilink")** - [SEAMO](../Page/SEAMO.md "wikilink")
       -
         （2005年4月 - 2007年3月、火曜20:30 - 20:55）
         ※Radio80（岐阜）でも放送。
@@ -231,7 +231,7 @@
 
 <!-- end list -->
 
-  - **スカポンタスのスチャスチャ天国** - [スカポンタス](https://ja.wikipedia.org/wiki/スカポンタス "wikilink")
+  - **スカポンタスのスチャスチャ天国** - [スカポンタス](../Page/スカポンタス.md "wikilink")
       -
         （2005年4月 - 2007年3月、木曜20:30 - 20:55）
   - **オトナモードの線路は続くよどこまでも**\[43\]\[44\]\[45\] - [オトナモード](../Page/オトナモード.md "wikilink")

@@ -1,15 +1,15 @@
 > この記事は[CASL](https://ja.wikipedia.org/wiki/CASL)から翻訳されています。
 
 
-**CASL**（キャスル）は、[情報処理技術者試験](https://ja.wikipedia.org/wiki/情報処理技術者試験 "wikilink")における[プログラミング能力試験のために](https://ja.wikipedia.org/wiki/プログラミング_\(コンピュータ\) "wikilink")、[CAP-X](../Page/CAP-X.md "wikilink")の後継として1986年仕様策定した[アセンブリ言語](../Page/アセンブリ言語.md "wikilink")である\[1\]。
+**CASL**（キャスル）は、[情報処理技術者試験](../Page/情報処理技術者試験.md "wikilink")における[プログラミング能力試験のために](https://ja.wikipedia.org/wiki/プログラミング_\(コンピュータ\) "wikilink")、[CAP-X](../Page/CAP-X.md "wikilink")の後継として1986年仕様策定した[アセンブリ言語](../Page/アセンブリ言語.md "wikilink")である\[1\]。
 
 ## 概要
 
-[第二種情報処理技術者試験](https://ja.wikipedia.org/wiki/第二種情報処理技術者試験 "wikilink")（現・[基本情報技術者試験](https://ja.wikipedia.org/wiki/基本情報技術者試験 "wikilink")）にはプログラミング能力試験という試験がある。この試験は幾つかの[プログラミング言語](../Page/プログラミング言語.md "wikilink")別に分かれており、受験者はそれぞれが最も得意とする言語による試験を選択することで、特定の言語のプログラマが有利になることを防いでいる。
+[第二種情報処理技術者試験](https://ja.wikipedia.org/wiki/第二種情報処理技術者試験 "wikilink")（現・[基本情報技術者試験](../Page/基本情報技術者試験.md "wikilink")）にはプログラミング能力試験という試験がある。この試験は幾つかの[プログラミング言語](../Page/プログラミング言語.md "wikilink")別に分かれており、受験者はそれぞれが最も得意とする言語による試験を選択することで、特定の言語のプログラマが有利になることを防いでいる。
 
 この試験で使用する[アセンブリ言語](../Page/アセンブリ言語.md "wikilink")としてCASLを開発した。アセンブリ言語は[ハードウェア](../Page/ハードウェア.md "wikilink")の[アーキテクチャとの関連性が強い](../Page/コンピュータ・アーキテクチャ.md "wikilink")。特定の実在するアーキテクチャを試験に採用した場合、それを利用する受験者に有利に働いてしまうという問題がある。このため、実在するどのアーキテクチャとも関連性がない単純化した仮想の計算機[COMP-X](https://ja.wikipedia.org/wiki/COMP-X "wikilink")と、そのアセンブリ言語の仕様[CAP-X](../Page/CAP-X.md "wikilink")を策定することで、この問題を解消した。その後継の仮想計算機を**COMET**と呼び、アセンブリ言語の仕様をCASLと名付けた。
 
-COMETは、最低限の機能のみを実装した仮想機械であり、そのためCASLも非常に簡素なアセンブリ言語となっている、初期の仕様ではCOMETの各[機械語](../Page/機械語.md "wikilink")命令を除けば4種類の擬似命令と3種類の[マクロしかない](https://ja.wikipedia.org/wiki/マクロ_\(コンピュータ用語\) "wikilink")。COMETとCASLの仕様は試験実施者が予め発表するほか、試験問題中にも示し、試験中にその場で仕様を理解し解答することも可能である。
+COMETは、最低限の機能のみを実装した仮想機械であり、そのためCASLも非常に簡素なアセンブリ言語となっている、初期の仕様ではCOMETの各[機械語](../Page/機械語.md "wikilink")命令を除けば4種類の擬似命令と3種類の[マクロしかない](../Page/マクロ_\(コンピュータ用語\).md "wikilink")。COMETとCASLの仕様は試験実施者が予め発表するほか、試験問題中にも示し、試験中にその場で仕様を理解し解答することも可能である。
 
 [2001年](../Page/2001年.md "wikilink")に第二種情報処理技術者試験が基本情報処理技術者試験に改訂された折りに、COMETとCASLの仕様改訂も行われており、改訂後はそれぞれ**COMET II**、**CASL II**と呼ばれる。なお情報処理技術者試験センターから、Java環境で動作するCASL-II[シミュレータ](https://ja.wikipedia.org/wiki/シミュレータ "wikilink")が学習用に提供されている。
 
@@ -23,7 +23,7 @@ COMETは、最低限の機能のみを実装した仮想機械であり、その
 <!-- end list -->
 
   - 非公式のシミュレーター
-      - [ベクター (企業)](https://ja.wikipedia.org/wiki/ベクター_\(企業\) "wikilink") - 情報処理用 CASL・COMET[2](https://www.vector.co.jp/vpack/filearea/win/prog/casl/)
+      - [ベクター (企業)](../Page/ベクター_\(企業\).md "wikilink") - 情報処理用 CASL・COMET[2](https://www.vector.co.jp/vpack/filearea/win/prog/casl/)
       - CASL II シミュレータ - WebとWindowsで動作するシミュレーター。[3](http://www.chiba-fjb.ac.jp/fjb_labo/casl/index.html)
       - CASLシミュレータ （CASL II 対応） - Webで動作するシミュレーター。[4](https://www.officedaytime.com/dcasl2/pguide/index.html)
       - DCasl2 CASL II 開発環境 - Windowsで動作するシミュレーター、シェアウェア。[5](https://www.officedaytime.com/dcasl2/index.html)
@@ -36,7 +36,7 @@ COMETは、最低限の機能のみを実装した仮想機械であり、その
 
 ここでは、COMET IIに改訂される前のCOMETの仕様について述べる。COMET IIとの違いについては[\#仕様改訂による変更点](https://ja.wikipedia.org/wiki/#仕様改訂による変更点 "wikilink")を参照されたい。
 
-COMETは、1[ワード](../Page/ワード.md "wikilink")長が16[ビット](../Page/ビット.md "wikilink")の固定長語で表現され、処理の対象となるデータは全てワード単位で行われる。1ワードを構成するビットの並びは、[最上位ビット](https://ja.wikipedia.org/wiki/最上位ビット "wikilink")を0番、[最下位ビット](https://ja.wikipedia.org/wiki/最下位ビット "wikilink")を15番とする（COMET IIで変更されている）。制御方式は逐次処理方式であり、[命令語](https://ja.wikipedia.org/wiki/命令語 "wikilink")は2ワードの固定長で表現される。扱うデータは算術データ、論理データ、文字データの3種類がある、算術データは 1ワードのデータを[2の補数](../Page/2の補数.md "wikilink")表現で表現し、論理データは符号無し整数として扱う。文字データは[JIS X 0201規格を採用している](https://ja.wikipedia.org/wiki/JIS_X_0201 "wikilink")。
+COMETは、1[ワード](../Page/ワード.md "wikilink")長が16[ビット](../Page/ビット.md "wikilink")の固定長語で表現され、処理の対象となるデータは全てワード単位で行われる。1ワードを構成するビットの並びは、[最上位ビット](https://ja.wikipedia.org/wiki/最上位ビット "wikilink")を0番、[最下位ビット](../Page/最下位ビット.md "wikilink")を15番とする（COMET IIで変更されている）。制御方式は逐次処理方式であり、[命令語](https://ja.wikipedia.org/wiki/命令語 "wikilink")は2ワードの固定長で表現される。扱うデータは算術データ、論理データ、文字データの3種類がある、算術データは 1ワードのデータを[2の補数](../Page/2の補数.md "wikilink")表現で表現し、論理データは符号無し整数として扱う。文字データは[JIS X 0201規格を採用している](https://ja.wikipedia.org/wiki/JIS_X_0201 "wikilink")。
 
 [レジスタは次の通り](../Page/レジスタ_\(コンピュータ\).md "wikilink")。
 
@@ -98,7 +98,7 @@ OP フィールドは命令の種類を表すコード（[オペコード](../Pa
   - POP GR - POP up
     スタックの先頭に格納されているアドレスを GRに設定する。GR4に新しいスタックの先頭アドレスが設定される。
   - CALL adr\[, XR\] - CALL subroutine
-    [サブルーチン](https://ja.wikipedia.org/wiki/サブルーチン "wikilink")を呼び出す。
+    [サブルーチン](../Page/サブルーチン.md "wikilink")を呼び出す。
   - RET - RETurn form subroutine
     サブルーチンから呼び出し、呼び出し元に復帰する。
 
@@ -163,7 +163,7 @@ COMET IIに追加された命令は以下の通り
   - JOV adr\[, XR\] - Jump on OVerflow
     FRの値が 1\*\* の場合、有効アドレスに分岐する。
   - SVC adr\[, XR\] - SuperVisor Call
-    実行アドレスを引数として[システムコール](https://ja.wikipedia.org/wiki/システムコール "wikilink")を行う。実行後のGRとFRは不定となる。
+    実行アドレスを引数として[システムコール](../Page/システムコール.md "wikilink")を行う。実行後のGRとFRは不定となる。
   - NOP - No OPeration
     何もしない命令、[NOP](../Page/NOP.md "wikilink")も参照のこと。
 
@@ -239,7 +239,7 @@ CASL IIに追加された命令は以下の通り
 
   - 日高哲郎 著、『第二種情報処理技術者試験 CASL演習』、[共立出版](../Page/共立出版.md "wikilink")、1995年、ISBN 4-320-02744-2
   - 土屋純一　著、『CASLアセンブラ言語の基礎と学習』第2版、[啓学出版](https://ja.wikipedia.org/wiki/啓学出版 "wikilink")、1992年、ISBN 4-7665-1086-0
-  - 八鍬幸信 著、『基本情報技術者試験 らくらく突破 CASL II』、[技術評論社](https://ja.wikipedia.org/wiki/技術評論社 "wikilink")、2006年、ISBN 4-7741-1606-8
+  - 八鍬幸信 著、『基本情報技術者試験 らくらく突破 CASL II』、[技術評論社](../Page/技術評論社.md "wikilink")、2006年、ISBN 4-7741-1606-8
 
 ## 脚注
 

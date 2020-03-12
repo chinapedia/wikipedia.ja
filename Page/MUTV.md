@@ -13,9 +13,9 @@
 
 ## 日本での放送
 
-日本では[2003年](../Page/2003年.md "wikilink")にスカイパーフェクTV\!（[スカパー\!](../Page/スカパー!プレミアムサービス.md "wikilink")）が[放映権を獲得](https://ja.wikipedia.org/wiki/放映権_\(サッカー\) "wikilink")、2003年4月より[パーフェクトチョイス](https://ja.wikipedia.org/wiki/パーフェクトチョイス "wikilink")および[スポーツ・アイ ESPNで放送されていた](https://ja.wikipedia.org/wiki/スポーツ・アイ_ESPN "wikilink")。
+日本では[2003年](../Page/2003年.md "wikilink")にスカイパーフェクTV\!（[スカパー\!](../Page/スカパー!プレミアムサービス.md "wikilink")）が[放映権を獲得](../Page/放映権_\(サッカー\).md "wikilink")、2003年4月より[パーフェクトチョイス](https://ja.wikipedia.org/wiki/パーフェクトチョイス "wikilink")および[スポーツ・アイ ESPNで放送されていた](../Page/スポーツ・アイ_ESPN.md "wikilink")。
 
-その後、[J SPORTSが放映権を獲得](../Page/J_SPORTS.md "wikilink")、2004年10月より2007年5月まで放送していた。当時、プレミアリーグやUEFAチャンピオンズリーグは、スカパーからサブライセンスを受けて放送しており、中継できる試合数が少なかった。UEFAチャンピオンズリーグについては、J SPORTSも2005/06シーズンまでの放映権は保有していたが、放送できる試合に制限があった。 MUTV獲得により、録画中継ではあるが、マンチェスター・ユナイテッドの試合が毎試合放送できるようになった。その後、J SPORTSは[チェルシーTV](../Page/チェルシーTV.md "wikilink")・[アーセナルTV](https://ja.wikipedia.org/wiki/アーセナルTV "wikilink")など、クラブTVの放映権を相次いで獲得したが、プレミアリーグの放映権を獲得したため、2007-08シーズン限りで放送終了した。
+その後、[J SPORTSが放映権を獲得](../Page/J_SPORTS.md "wikilink")、2004年10月より2007年5月まで放送していた。当時、プレミアリーグやUEFAチャンピオンズリーグは、スカパーからサブライセンスを受けて放送しており、中継できる試合数が少なかった。UEFAチャンピオンズリーグについては、J SPORTSも2005/06シーズンまでの放映権は保有していたが、放送できる試合に制限があった。 MUTV獲得により、録画中継ではあるが、マンチェスター・ユナイテッドの試合が毎試合放送できるようになった。その後、J SPORTSは[チェルシーTV](../Page/チェルシーTV.md "wikilink")・[アーセナルTV](../Page/アーセナルTV.md "wikilink")など、クラブTVの放映権を相次いで獲得したが、プレミアリーグの放映権を獲得したため、2007-08シーズン限りで放送終了した。
 
 2008年9月、[日テレG+](https://ja.wikipedia.org/wiki/日テレG+ "wikilink")により放送を再開したが、2009年7月に放送終了した。
 
@@ -30,9 +30,9 @@
 <!-- end list -->
 
   - [谷口広明](https://ja.wikipedia.org/wiki/谷口広明 "wikilink")
-  - [田中雄介](https://ja.wikipedia.org/wiki/田中雄介 "wikilink")
-  - [西岡明彦](https://ja.wikipedia.org/wiki/西岡明彦 "wikilink")
-  - [八塚浩](https://ja.wikipedia.org/wiki/八塚浩 "wikilink")
+  - [田中雄介](../Page/田中雄介.md "wikilink")
+  - [西岡明彦](../Page/西岡明彦.md "wikilink")
+  - [八塚浩](../Page/八塚浩.md "wikilink")
 
 <!-- end list -->
 
@@ -42,10 +42,10 @@
 
   - [粕谷秀樹](../Page/粕谷秀樹.md "wikilink")
   - [鈴木慎吾](../Page/鈴木慎吾.md "wikilink")※
-  - [高木琢也](https://ja.wikipedia.org/wiki/高木琢也 "wikilink")
+  - [高木琢也](../Page/高木琢也.md "wikilink")
   - [永井洋一](https://ja.wikipedia.org/wiki/永井洋一_\(サッカー評論家\) "wikilink")
   - [西村卓朗](../Page/西村卓朗.md "wikilink")※
-  - [原博実](https://ja.wikipedia.org/wiki/原博実 "wikilink")
+  - [原博実](../Page/原博実.md "wikilink")
   - [東本貢司](../Page/東本貢司.md "wikilink")
   - [丸山良明](../Page/丸山良明.md "wikilink")※
   - [南雄太](../Page/南雄太.md "wikilink")※
@@ -64,16 +64,16 @@
 
 <!-- end list -->
 
-  - [下田恒幸](https://ja.wikipedia.org/wiki/下田恒幸 "wikilink")
+  - [下田恒幸](../Page/下田恒幸.md "wikilink")
       -
         2012年8月現在、解説者なしの一人実況である。
 
 ## 関連番組
 
   - 日本で放送されている（いた）クラブオフィシャルチャンネル
-      - [バルサTV](https://ja.wikipedia.org/wiki/バルサTV "wikilink")
+      - [バルサTV](../Page/バルサTV.md "wikilink")
       - [チェルシーTV](../Page/チェルシーTV.md "wikilink")
-      - [アーセナルTV](https://ja.wikipedia.org/wiki/アーセナルTV "wikilink")
+      - [アーセナルTV](../Page/アーセナルTV.md "wikilink")
       - [FCバイエルン・ミュンヘンTV](https://ja.wikipedia.org/wiki/FCバイエルン・ミュンヘンTV "wikilink")
       - [ボルシア・ドルトムントTV](https://ja.wikipedia.org/wiki/ボルシア・ドルトムントTV "wikilink")
       - [ACミラン・チャンネル](https://ja.wikipedia.org/wiki/ACミラン・チャンネル "wikilink")

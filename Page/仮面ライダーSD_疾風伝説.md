@@ -1,7 +1,7 @@
 > この記事は[SD ](https://ja.wikipedia.org/wiki/SD_)から翻訳されています。
 
 
-『**仮面ライダーSD 疾風伝説**』は、[かとうひろし](../Page/かとうひろし.md "wikilink")の漫画作品。『[月刊コロコロコミック](../Page/月刊コロコロコミック.md "wikilink")』に[1992年](../Page/1992年.md "wikilink")1月号から[1993年](../Page/1993年.md "wikilink")4月号まで連載。企画作品[仮面ライダーSD](https://ja.wikipedia.org/wiki/仮面ライダーSD "wikilink")の一つ。
+『**仮面ライダーSD 疾風伝説**』は、[かとうひろし](../Page/かとうひろし.md "wikilink")の漫画作品。『[月刊コロコロコミック](../Page/月刊コロコロコミック.md "wikilink")』に[1992年](../Page/1992年.md "wikilink")1月号から[1993年](../Page/1993年.md "wikilink")4月号まで連載。企画作品[仮面ライダーSD](../Page/仮面ライダーSD.md "wikilink")の一つ。
 
 ## あらすじ
 
@@ -43,7 +43,7 @@
     作者によれば、もう1つの変身である怒りの王子・バイオライダーへの変身も予定されていたが、予定よりも早く物語が終了したために登場することはなかった。
   - [スカイライダー](../Page/仮面ライダー_\(スカイライダー\).md "wikilink")
     ウォータータウンの[保安官](../Page/保安官.md "wikilink")。町の安全を守るため、グランショッカーに従う。荒ワシ師団長よりも上位の幹部として扱われるが、怪人たちの横暴を止めきれないことに歯噛みする日々を過ごしている。
-  - [トーベー](https://ja.wikipedia.org/wiki/立花藤兵衛 "wikilink")
+  - [トーベー](../Page/立花藤兵衛.md "wikilink")
     民間人。かつて1号とともに戦ったが、[記憶喪失](https://ja.wikipedia.org/wiki/記憶喪失 "wikilink")となっていた。フードの中から『[仮面ライダー](../Page/仮面ライダー_\(漫画\).md "wikilink")』の立花藤兵衛に酷似した鼻とヒゲが見えるのが特徴。
     V3たちと出会ったことで記憶を取り戻し、最終決戦では、風の戦士たちをサポート。1号を復活させる方法も伝えるが、シャドームーンとの戦いで戦死。
   - RXの弟
@@ -68,7 +68,7 @@
 
 ### ZX党
 
-ZXがリーダーとなる[盗賊](https://ja.wikipedia.org/wiki/盗賊 "wikilink")団。団員はZXを簡略化したような姿をしており、[TVスペシャルで村雨良が乗っていたものと同じバイクに乗っている](../Page/10号誕生!仮面ライダー全員集合!!.md "wikilink")。
+ZXがリーダーとなる[盗賊](../Page/盗賊.md "wikilink")団。団員はZXを簡略化したような姿をしており、[TVスペシャルで村雨良が乗っていたものと同じバイクに乗っている](../Page/10号誕生!仮面ライダー全員集合!!.md "wikilink")。
 
   - ZX
     ZX党のリーダー。育ての親である記憶喪失になる前のトーベーから一号と風の戦士の伝説を聞かされていた。
@@ -80,10 +80,10 @@ ZXがリーダーとなる[盗賊](https://ja.wikipedia.org/wiki/盗賊 "wikilin
 
 #### 八鬼衆
 
-  - [シャドームーン](https://ja.wikipedia.org/wiki/シャドームーン "wikilink")
+  - [シャドームーン](../Page/シャドームーン.md "wikilink")
     八鬼衆の中でも最強の実力者。陽炎村に現れ、RXを助ける。陽炎村の怪人たちが倒された後、RXたち5人の戦士と戦い、それに勝利する。しかし、そのとどめをさす直前に魔神大首領から招集がかかり、戦いを中断することとなる。死人コウモリやアポロガイストに助けを求められるが、それを殺すという冷徹な性格の持ち主。
     敵の八鬼衆の中でも優遇された存在で、最後の戦いの後も生き残る。単行本ではそのままV3との再会を匂わす形で姿を消しているが、2004年に刊行された完全版でラストバトルが新たに9ページ描き起こされ実に11年越しとなるV3との決着が明らかとなった。この際にラストシーンが若干変更されているが、単行本のラストが完全版下巻の予告として流用されている。
-  - [地獄大使](https://ja.wikipedia.org/wiki/地獄大使 "wikilink")
+  - [地獄大使](../Page/地獄大使.md "wikilink")
     最終決戦のみ登場。暗闇大使とともに、1号・2号と戦う。
   - [暗闇大使](https://ja.wikipedia.org/wiki/仮面ライダーZX#暗闇大使 "wikilink")
     最終決戦のみ登場。地獄大使とともに、1号・2号と戦う。
@@ -129,7 +129,7 @@ ZXがリーダーとなる[盗賊](https://ja.wikipedia.org/wiki/盗賊 "wikilin
 
 ブラックサタン戦闘員を尖兵としている。
 
-  - [スーパー1](https://ja.wikipedia.org/wiki/仮面ライダースーパー1 "wikilink")
+  - [スーパー1](../Page/仮面ライダースーパー1.md "wikilink")
     ジェネラルシャドウの部下。その実力と忠誠心は、「ジェネラルシャドウの右腕」と称されるほど。レジスタンスを倒す命令により、ウォータータウンでRXを倒すが、Xとアマゾンの登場により、とどめをさすことには失敗する。
     本人は忘れていたが、幼い頃、Xに遊んでもらっていた過去があり、それによって風の戦士を信じるきっかけとなる。
   - 荒ワシ師団長
@@ -177,6 +177,6 @@ ZXがリーダーとなる[盗賊](https://ja.wikipedia.org/wiki/盗賊 "wikilin
 
 ### 朝日ソノラマ版
 
-2004年に[朝日ソノラマ](https://ja.wikipedia.org/wiki/朝日ソノラマ "wikilink")から復刻版として全2巻で発刊。修正や加筆がおこなわれており、また、帯には、『[仮面ライダーV3](../Page/仮面ライダーV3.md "wikilink")』での[風見志郎](https://ja.wikipedia.org/wiki/風見志郎 "wikilink")役の[宮内洋](../Page/宮内洋.md "wikilink")と『[仮面ライダー555](../Page/仮面ライダー555.md "wikilink")』での[乾巧役の](../Page/仮面ライダー555の登場キャラクター.md "wikilink")[半田健人](https://ja.wikipedia.org/wiki/半田健人 "wikilink")によるコメントが載せられている。
+2004年に[朝日ソノラマ](../Page/朝日ソノラマ.md "wikilink")から復刻版として全2巻で発刊。修正や加筆がおこなわれており、また、帯には、『[仮面ライダーV3](../Page/仮面ライダーV3.md "wikilink")』での[風見志郎](https://ja.wikipedia.org/wiki/風見志郎 "wikilink")役の[宮内洋](../Page/宮内洋.md "wikilink")と『[仮面ライダー555](../Page/仮面ライダー555.md "wikilink")』での[乾巧役の](../Page/仮面ライダー555の登場キャラクター.md "wikilink")[半田健人](../Page/半田健人.md "wikilink")によるコメントが載せられている。
 
 [Category:コロコロコミックの漫画作品](https://ja.wikipedia.org/wiki/Category:コロコロコミックの漫画作品 "wikilink") [Category:漫画作品_か](https://ja.wikipedia.org/wiki/Category:漫画作品_か "wikilink") [Category:仮面ライダーシリーズ](https://ja.wikipedia.org/wiki/Category:仮面ライダーシリーズ "wikilink") [Category:仮面ライダーシリーズの漫画作品](https://ja.wikipedia.org/wiki/Category:仮面ライダーシリーズの漫画作品 "wikilink") [Category:SD作品](https://ja.wikipedia.org/wiki/Category:SD作品 "wikilink")

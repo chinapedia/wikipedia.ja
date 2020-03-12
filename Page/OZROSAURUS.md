@@ -7,15 +7,15 @@
 
   - [1996年](../Page/1996年.md "wikilink") - MCのMACCHOとDJのDJ TOMOの2人で[横浜市](../Page/横浜市.md "wikilink")にて結成\[3\]\[4\]。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") - [WEA Japanよりミニアルバム](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン#社内レーベル（消滅したレーベルも含む） "wikilink")『ライム・ダーツ』を発表し[メジャー・デビュー](https://ja.wikipedia.org/wiki/メジャー・デビュー "wikilink")\[5\]。
-  - [2000年](../Page/2000年.md "wikilink") - MACCHOは[TWIGY](../Page/TWIGY.md "wikilink")、[ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink")、[ラッパ我リヤ](https://ja.wikipedia.org/wiki/ラッパ我リヤ "wikilink")らの作品に客演、DJ TOMOはラッパ我リヤの[リミックス](../Page/リミックス.md "wikilink")に参加し、知名度を高める\[6\]。
+  - [2000年](../Page/2000年.md "wikilink") - MACCHOは[TWIGY](../Page/TWIGY.md "wikilink")、[ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink")、[ラッパ我リヤ](../Page/ラッパ我リヤ.md "wikilink")らの作品に客演、DJ TOMOはラッパ我リヤの[リミックス](../Page/リミックス.md "wikilink")に参加し、知名度を高める\[6\]。
   - [2001年](../Page/2001年.md "wikilink") - 初のフル・アルバムとなる『ROLLIN'045』を発表。売上枚数8万枚を超えるロングセラーを記録している\[7\]。
   - [2003年](../Page/2003年.md "wikilink") - 2ndアルバム『JUICE』を発表。この直後にMACCHOが交通事故に遭い、一時は死線を彷徨うも奇跡的に回復\[8\]。
   - [2004年](../Page/2004年.md "wikilink") - DJ TOMOが方向性の違いにより脱退\[9\]。以後、MACCHOのソロユニットとなる。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") - DS455と共に新レーベルBAY BLUES RECORDZを設立\[10\]。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink") - 3rdアルバム『Rhyme\&Blues』を発表。[音楽雑誌](https://ja.wikipedia.org/wiki/音楽雑誌 "wikilink")MUSIC MAGAZINEやBLASTでBEST HIPHOP ALBUM 2006に選ばれる\[11\]。
+  - [2005年](../Page/2005年.md "wikilink") - DS455と共に新レーベルBAY BLUES RECORDZを設立\[10\]。
+  - [2006年](../Page/2006年.md "wikilink") - 3rdアルバム『Rhyme\&Blues』を発表。[音楽雑誌](https://ja.wikipedia.org/wiki/音楽雑誌 "wikilink")MUSIC MAGAZINEやBLASTでBEST HIPHOP ALBUM 2006に選ばれる\[11\]。
   - [2007年](../Page/2007年.md "wikilink") - 所属していた[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")との間で起きた歌詞の表記を巡っての対立をきっかけにインディーズに活動の場を移し\[12\]、4thアルバム『Hysterical』を発表。
   - [2009年](../Page/2009年.md "wikilink") - MACCHOが、ヒップホップ創成期から活躍する大御所DJ、[グランドマスター・フラッシュ](../Page/グランドマスター・フラッシュ.md "wikilink")の20年ぶりの新作『The Bridge: Concept Of A Culture』へ客演で参加\[13\]。
-  - [2011年](../Page/2011年.md "wikilink") - [EMIミュージック・ジャパン](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")と契約。メジャーでの活動を再開。
+  - [2011年](../Page/2011年.md "wikilink") - [EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink")と契約。メジャーでの活動を再開。
   - [2012年](../Page/2012年.md "wikilink") - 5thアルバム『OZBUM 〜A:UN〜』を発表。
   - [2013年](../Page/2013年.md "wikilink") - 6thアルバム『Dish & Dabber』を発表。
   - [2015年](../Page/2015年.md "wikilink") - Zeebraによって設立されたレーベル、GRAND MASTERに移籍。また、新メンバーが加入し6人組のバンドとなる。
@@ -29,7 +29,7 @@
   -
 
       -
-        横浜市[磯子区](https://ja.wikipedia.org/wiki/磯子区 "wikilink")生まれ、[南区六ツ川育ち](https://ja.wikipedia.org/wiki/南区_\(横浜市\) "wikilink")\[15\]。中学生だった14歳の時に、出入りしていた洋服店で、そこの経営者だった[DS455](https://ja.wikipedia.org/wiki/DS455 "wikilink")のKayzabroと出会い、彼から勧められてラップを始め\[16\]、DJ KADOTAのシングルに参加。95年にはMC MACCHOとして『CLUB WILD.B』という[コンピレーション・アルバム](https://ja.wikipedia.org/wiki/コンピレーション・アルバム "wikilink")に「Nanatsuki」という曲で参加している。一時期DS455に在籍していた\[17\]。[オムニバス](../Page/オムニバス.md "wikilink")・アルバム『THE BEST OF JAPANESE HIPHOP』シリーズにDS455メンバーとしてやソロでも参加している。[武相高校時代は](../Page/武相中学校・高等学校.md "wikilink")、[東京ストリートニュース](https://ja.wikipedia.org/wiki/東京ストリートニュース "wikilink")などの雑誌に取り上げられたりしていた\[18\]。後に高校は中退\[19\]。ASSASSYN JEANZやVANTAGEという[ファッション・ブランドも手掛けている](../Page/ブランド.md "wikilink")。
+        横浜市[磯子区](https://ja.wikipedia.org/wiki/磯子区 "wikilink")生まれ、[南区六ツ川育ち](https://ja.wikipedia.org/wiki/南区_\(横浜市\) "wikilink")\[15\]。中学生だった14歳の時に、出入りしていた洋服店で、そこの経営者だった[DS455](../Page/DS455.md "wikilink")のKayzabroと出会い、彼から勧められてラップを始め\[16\]、DJ KADOTAのシングルに参加。95年にはMC MACCHOとして『CLUB WILD.B』という[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")に「Nanatsuki」という曲で参加している。一時期DS455に在籍していた\[17\]。[オムニバス](../Page/オムニバス.md "wikilink")・アルバム『THE BEST OF JAPANESE HIPHOP』シリーズにDS455メンバーとしてやソロでも参加している。[武相高校時代は](../Page/武相中学校・高等学校.md "wikilink")、[東京ストリートニュース](https://ja.wikipedia.org/wiki/東京ストリートニュース "wikilink")などの雑誌に取り上げられたりしていた\[18\]。後に高校は中退\[19\]。ASSASSYN JEANZやVANTAGEという[ファッション・ブランドも手掛けている](../Page/ブランド.md "wikilink")。
 
 <!-- end list -->
 
@@ -44,7 +44,7 @@
 
 <!-- end list -->
 
-  - **武史**：[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - **武史**：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
 
 <!-- end list -->
 
@@ -77,7 +77,7 @@
 
 <!-- end list -->
 
-  - **GUNHEAD**：[マニピュレーター](https://ja.wikipedia.org/wiki/マニピュレーター "wikilink")・[トラックメイカー](https://ja.wikipedia.org/wiki/トラックメイカー "wikilink")
+  - **GUNHEAD**：[マニピュレーター](../Page/マニピュレーター.md "wikilink")・[トラックメイカー](https://ja.wikipedia.org/wiki/トラックメイカー "wikilink")
 
 <!-- end list -->
 
@@ -110,7 +110,7 @@
     1.  AREA AREA
     2.  KOCO KOCO
     3.  VILI VILI feat SHALLA
-3.  Hey Girl feat.[CORN HEAD](https://ja.wikipedia.org/wiki/CORN_HEAD "wikilink")（2002年11月7日）
+3.  Hey Girl feat.[CORN HEAD](../Page/CORN_HEAD.md "wikilink")（2002年11月7日）
     1.  Hey Girl Feat.CORN HEAD
     2.  BASE TO BASE
     3.  Hey Girl Feat.CORN HEAD -DJ TOMO REMIX-
@@ -241,7 +241,7 @@
 <!-- end list -->
 
   -
-    8.GO\! NIPPON feat.Maccho (OZROSAURUS) / [MACKA-CHIN](https://ja.wikipedia.org/wiki/MACKA-CHIN "wikilink") / M.C.Kha-la
+    8.GO\! NIPPON feat.Maccho (OZROSAURUS) / [MACKA-CHIN](../Page/MACKA-CHIN.md "wikilink") / M.C.Kha-la
 
 <!-- end list -->
 
@@ -250,7 +250,7 @@
 <!-- end list -->
 
   -
-    4.男の条件 featuring MACCHO (OZROSAURUS), Q([ラッパ我リヤ](https://ja.wikipedia.org/wiki/ラッパ我リヤ "wikilink")), [BOY-KEN](https://ja.wikipedia.org/wiki/BOY-KEN "wikilink")
+    4.男の条件 featuring MACCHO (OZROSAURUS), Q([ラッパ我リヤ](../Page/ラッパ我リヤ.md "wikilink")), [BOY-KEN](https://ja.wikipedia.org/wiki/BOY-KEN "wikilink")
 
 <!-- end list -->
 
@@ -272,7 +272,7 @@
 
 <!-- end list -->
 
-  - [コンピレーション・アルバム](https://ja.wikipedia.org/wiki/コンピレーション・アルバム "wikilink")「Future Shock Compilation」(2001年12月21日)
+  - [コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")「Future Shock Compilation」(2001年12月21日)
 
 <!-- end list -->
 
@@ -291,7 +291,7 @@
 
 <!-- end list -->
 
-  - [FIRE BALL](https://ja.wikipedia.org/wiki/FIRE_BALL_\(レゲエグループ\) "wikilink") 「Book Of Life: 炎の章」(2003年06月27日)
+  - [FIRE BALL](../Page/FIRE_BALL_\(レゲエグループ\).md "wikilink") 「Book Of Life: 炎の章」(2003年06月27日)
 
 <!-- end list -->
 
@@ -321,7 +321,7 @@
 
 <!-- end list -->
 
-  - [コンピレーション・アルバム](https://ja.wikipedia.org/wiki/コンピレーション・アルバム "wikilink") 「Shock To The Future-remix」（2004年3月17日）
+  - [コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink") 「Shock To The Future-remix」（2004年3月17日）
 
 <!-- end list -->
 
@@ -329,7 +329,7 @@
     4.JUICE / OZROSAURUS Remixed by [DJ CELORY](https://ja.wikipedia.org/wiki/DJ_CELORY "wikilink") aka Mr.BEATS
     6.BONDS feat.MACCHO & [TOKONA-X](../Page/TOKONA-X.md "wikilink") / Mr.BEATS aka [DJ CELORY](https://ja.wikipedia.org/wiki/DJ_CELORY "wikilink") Remixed by [DJ PMX](https://ja.wikipedia.org/wiki/DJ_PMX "wikilink")
     7.NO PAIN NO GAIN feat.MACCHO & [ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink") / [DJ PMX](https://ja.wikipedia.org/wiki/DJ_PMX "wikilink") Remixed by [INOVADER](https://ja.wikipedia.org/wiki/INOVADER "wikilink")
-    12.Hey Girl feat.[CORN HEAD](https://ja.wikipedia.org/wiki/CORN_HEAD "wikilink") / OZROSAURUS Remixed by FIRSTKLAS
+    12.Hey Girl feat.[CORN HEAD](../Page/CORN_HEAD.md "wikilink") / OZROSAURUS Remixed by FIRSTKLAS
 
 <!-- end list -->
 
@@ -343,7 +343,7 @@
 
 <!-- end list -->
 
-  - [DS455](https://ja.wikipedia.org/wiki/DS455 "wikilink") 「Summer Sweetz」(2004年7月7日)
+  - [DS455](../Page/DS455.md "wikilink") 「Summer Sweetz」(2004年7月7日)
 
 <!-- end list -->
 
@@ -352,7 +352,7 @@
 
 <!-- end list -->
 
-  - [CORN HEAD](https://ja.wikipedia.org/wiki/CORN_HEAD "wikilink") 「WE AIN'T STOP」（2004年7月28日）
+  - [CORN HEAD](../Page/CORN_HEAD.md "wikilink") 「WE AIN'T STOP」（2004年7月28日）
 
 <!-- end list -->
 
@@ -361,7 +361,7 @@
 
 <!-- end list -->
 
-  - [コンピレーション・アルバム](https://ja.wikipedia.org/wiki/コンピレーション・アルバム "wikilink") 「Shock To The Future -7th Anniversary」（2004年9月15日）
+  - [コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink") 「Shock To The Future -7th Anniversary」（2004年9月15日）
 
 <!-- end list -->
 
@@ -390,7 +390,7 @@
 
 <!-- end list -->
 
-  - ["E"qual](https://ja.wikipedia.org/wiki/"E"qual "wikilink")「ごうだつゲーム」(2005年3月23日)
+  - ["E"qual](../Page/"E"qual.md "wikilink")「ごうだつゲーム」(2005年3月23日)
 
 <!-- end list -->
 
@@ -399,7 +399,7 @@
 
 <!-- end list -->
 
-  - [DS455](https://ja.wikipedia.org/wiki/DS455 "wikilink") 「To MySelf～Believe Yourself～」（2006年1月25日）
+  - [DS455](../Page/DS455.md "wikilink") 「To MySelf～Believe Yourself～」（2006年1月25日）
 
 <!-- end list -->
 
@@ -445,7 +445,7 @@
 
 <!-- end list -->
 
-  - ["E"qual](https://ja.wikipedia.org/wiki/"E"qual "wikilink") 「KING\&QUEEN」（2007年7月18日）
+  - ["E"qual](../Page/"E"qual.md "wikilink") 「KING\&QUEEN」（2007年7月18日）
 
 <!-- end list -->
 
@@ -463,11 +463,11 @@
     8.4:20 feat.MACCHO (OZROSAURUS)
     12.Reason (This is why we rap) feat.[ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink"),[Mummy-D](../Page/Mummy-D.md "wikilink"),MACCHO(OZROSAURUS)
     16.Turn Off The Lights feat.[BIG RON](../Page/BIG_RON.md "wikilink"),MACCHO (OZROSAURUS),[KOZ](https://ja.wikipedia.org/wiki/KOZ "wikilink")
-    20.Miss Luxury feat.MACCHO(OZROSAURUS),[GIPPER](https://ja.wikipedia.org/wiki/GIPPER "wikilink"),[KOZ](https://ja.wikipedia.org/wiki/KOZ "wikilink"),[HI-D](https://ja.wikipedia.org/wiki/HI-D "wikilink"),[Foxxi](https://ja.wikipedia.org/wiki/Foxxi "wikilink") [misQ](https://ja.wikipedia.org/wiki/misQ "wikilink")
+    20.Miss Luxury feat.MACCHO(OZROSAURUS),[GIPPER](https://ja.wikipedia.org/wiki/GIPPER "wikilink"),[KOZ](https://ja.wikipedia.org/wiki/KOZ "wikilink"),[HI-D](../Page/HI-D.md "wikilink"),[Foxxi](https://ja.wikipedia.org/wiki/Foxxi "wikilink") [misQ](https://ja.wikipedia.org/wiki/misQ "wikilink")
 
 <!-- end list -->
 
-  - [SPICY CHOCOLATE](https://ja.wikipedia.org/wiki/SPICY_CHOCOLATE "wikilink") × [KEN-U](https://ja.wikipedia.org/wiki/KEN-U "wikilink")「この道を REMIX」(2008年12月3日)
+  - [SPICY CHOCOLATE](https://ja.wikipedia.org/wiki/SPICY_CHOCOLATE "wikilink") × [KEN-U](../Page/KEN-U.md "wikilink")「この道を REMIX」(2008年12月3日)
 
 <!-- end list -->
 
@@ -494,7 +494,7 @@
 
 <!-- end list -->
 
-  - [DS455](https://ja.wikipedia.org/wiki/DS455 "wikilink") 「CHECK THA NUMBER」(2009年7月29日)
+  - [DS455](../Page/DS455.md "wikilink") 「CHECK THA NUMBER」(2009年7月29日)
 
 <!-- end list -->
 
@@ -530,12 +530,12 @@
 
 <!-- end list -->
 
-  - [コンピレーション・アルバム](https://ja.wikipedia.org/wiki/コンピレーション・アルバム "wikilink") 「24 HOUR KARATE SCHOOL JAPAN」 (2010年10月20日)
+  - [コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink") 「24 HOUR KARATE SCHOOL JAPAN」 (2010年10月20日)
 
 <!-- end list -->
 
   -
-    4.24 BARS TO KILL ([ANARCHY](../Page/ANARCHY.md "wikilink")、[RINO LATINA II](https://ja.wikipedia.org/wiki/RINO_LATINA_II "wikilink")、[漢](../Page/漢.md "wikilink")、MACCHO)
+    4.24 BARS TO KILL ([ANARCHY](../Page/ANARCHY.md "wikilink")、[RINO LATINA II](../Page/RINO_LATINA_II.md "wikilink")、[漢](../Page/漢.md "wikilink")、MACCHO)
 
 <!-- end list -->
 
@@ -575,7 +575,7 @@
 
 <!-- end list -->
 
-  - [コンピレーション・アルバム](https://ja.wikipedia.org/wiki/コンピレーション・アルバム "wikilink") 「Manhattan Records The Exclusives Japanese Hip Hop Hits2」 (2011年11月23日)
+  - [コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink") 「Manhattan Records The Exclusives Japanese Hip Hop Hits2」 (2011年11月23日)
 
 <!-- end list -->
 
@@ -627,7 +627,7 @@
 <!-- end list -->
 
   -
-    2.REAL STYLE feat.[川畑要](https://ja.wikipedia.org/wiki/川畑要 "wikilink") ([CHEMISTRY](../Page/CHEMISTRY.md "wikilink")) & MACCHO (OZROSAURUS)
+    2.REAL STYLE feat.[川畑要](../Page/川畑要.md "wikilink") ([CHEMISTRY](../Page/CHEMISTRY.md "wikilink")) & MACCHO (OZROSAURUS)
 
 <!-- end list -->
 
@@ -651,7 +651,7 @@
 
   - [BIG RON](../Page/BIG_RON.md "wikilink")
   - B-YAS
-  - [CORN HEAD](https://ja.wikipedia.org/wiki/CORN_HEAD "wikilink")
+  - [CORN HEAD](../Page/CORN_HEAD.md "wikilink")
   - [DABO](../Page/DABO.md "wikilink")
   - [DJ YAS](https://ja.wikipedia.org/wiki/DJ_YAS "wikilink")
   - [EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")
@@ -669,7 +669,7 @@
   - [UZI](https://ja.wikipedia.org/wiki/UZI_\(ミュージシャン\) "wikilink")
   - [ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink")
   - [般若](https://ja.wikipedia.org/wiki/般若_\(ミュージシャン\) "wikilink")
-  - [ラッパ我リヤ](https://ja.wikipedia.org/wiki/ラッパ我リヤ "wikilink")
+  - [ラッパ我リヤ](../Page/ラッパ我リヤ.md "wikilink")
 
 ## 脚注・出典
 
@@ -682,7 +682,7 @@
   -
   - [OZROSAURUS オフィシャルブログ](http://ameblo.jp/ozrosaurus-blog) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
 
-  - [OZROSAURUS](http://www.universal-music.co.jp/ozrosaurus/) - [ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")
+  - [OZROSAURUS](http://www.universal-music.co.jp/ozrosaurus/) - [ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")
 
 [Category:日本のヒップホップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・グループ "wikilink")
 
@@ -690,7 +690,7 @@
 2.  [OZROSAURUS : バイオグラフィー](http://www.barks.jp/artist/?id=52005631&m=bio) - BARKS アーティスト
 3.
 4.
-5.  公式サイトのプロフィールでは98年の『Bay blues』がメジャー・デビュー作となっているが、『ライム・ダーツ』をリリースしたWEA Japanは、[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")の社内レーベルであり、[メジャー・レーベルであるため](https://ja.wikipedia.org/wiki/レコード会社#メジャーとインディーズ "wikilink")、こちらが正しいと思われる。
+5.  公式サイトのプロフィールでは98年の『Bay blues』がメジャー・デビュー作となっているが、『ライム・ダーツ』をリリースしたWEA Japanは、[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")の社内レーベルであり、[メジャー・レーベルであるため](https://ja.wikipedia.org/wiki/レコード会社#メジャーとインディーズ "wikilink")、こちらが正しいと思われる。
 6.
 7.
 8.  [OZROSAURUS、生死の境をさまよった交通事故から復活し、新レーベルで甦る！](http://www.barks.jp/feature/?id=1000013034) - BARKS 特集

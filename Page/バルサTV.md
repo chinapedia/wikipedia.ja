@@ -7,7 +7,7 @@
 
 ## 日本での放送
 
-2005年7月より[J SPORTSで放送開始](../Page/J_SPORTS.md "wikilink")。放送決定に先立ち、バルサの日本人スタッフがリサーチを行ったところ、（2003/04シーズンより[リーガ・エスパニョーラ](../Page/リーガ・エスパニョーラ.md "wikilink")の[放映権を保有している](https://ja.wikipedia.org/wiki/放映権_\(サッカー\) "wikilink")[WOWOW](../Page/WOWOW.md "wikilink")による）現状の放送体制には満足しておらず、特に（それ以前に放映権を保有していたJ SPORTS（当時J SKY SPORTS）のメイン実況だった）[倉敷保雄](https://ja.wikipedia.org/wiki/倉敷保雄 "wikilink")の実況によるバルサの試合が見たいという要望が多かったという\[1\]。
+2005年7月より[J SPORTSで放送開始](../Page/J_SPORTS.md "wikilink")。放送決定に先立ち、バルサの日本人スタッフがリサーチを行ったところ、（2003/04シーズンより[リーガ・エスパニョーラ](../Page/リーガ・エスパニョーラ.md "wikilink")の[放映権を保有している](../Page/放映権_\(サッカー\).md "wikilink")[WOWOW](../Page/WOWOW.md "wikilink")による）現状の放送体制には満足しておらず、特に（それ以前に放映権を保有していたJ SPORTS（当時J SKY SPORTS）のメイン実況だった）[倉敷保雄](../Page/倉敷保雄.md "wikilink")の実況によるバルサの試合が見たいという要望が多かったという\[1\]。
 
 放送開始当初は、原則として、過去の名試合は[平畠啓史](../Page/平畠啓史.md "wikilink")がコメンテーターとして解説者とのコンビで進行、[UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")は倉敷保雄が実況を担当（[スカパー\!で実況を担当した試合を除く](../Page/スカパー!プレミアムサービス.md "wikilink")）していたが、2009年現在は平畠（2008年より肩書きが「実況」となっている）・倉敷以外も実況を担当する。
 
@@ -62,30 +62,30 @@
 ## 出演
 
   - [平畠啓史](../Page/平畠啓史.md "wikilink")（[DonDokoDon](../Page/DonDokoDon.md "wikilink")）（実況）
-  - [倉敷保雄](https://ja.wikipedia.org/wiki/倉敷保雄 "wikilink")（実況）
+  - [倉敷保雄](../Page/倉敷保雄.md "wikilink")（実況）
   - [澤田達哉](../Page/澤田達哉.md "wikilink")（実況）
-  - [下田恒幸](https://ja.wikipedia.org/wiki/下田恒幸 "wikilink")（実況）
+  - [下田恒幸](../Page/下田恒幸.md "wikilink")（実況）
   - [永田実](https://ja.wikipedia.org/wiki/永田実_\(アナウンサー\) "wikilink")（実況）
   - [谷口広明](https://ja.wikipedia.org/wiki/谷口広明 "wikilink")（実況）
   - [幸谷秀巳](../Page/幸谷秀巳.md "wikilink")（解説）
   - [玉乃淳](../Page/玉乃淳.md "wikilink")（解説）
   - [中山淳](https://ja.wikipedia.org/wiki/中山淳 "wikilink")（解説）
   - [羽中田昌](../Page/羽中田昌.md "wikilink")（解説）
-  - [原博実](https://ja.wikipedia.org/wiki/原博実 "wikilink")（解説、かつて「バルサ・エス・バルサ」ナビゲーターも担当）
-  - [山口素弘](https://ja.wikipedia.org/wiki/山口素弘 "wikilink")（解説）
-  - [城彰二](https://ja.wikipedia.org/wiki/城彰二 "wikilink")（解説、PARTIDOで自ら出場した99-00シーズンの[レアル・バリャドリード](https://ja.wikipedia.org/wiki/レアル・バリャドリード "wikilink")戦を解説した）
+  - [原博実](../Page/原博実.md "wikilink")（解説、かつて「バルサ・エス・バルサ」ナビゲーターも担当）
+  - [山口素弘](../Page/山口素弘.md "wikilink")（解説）
+  - [城彰二](../Page/城彰二.md "wikilink")（解説、PARTIDOで自ら出場した99-00シーズンの[レアル・バリャドリード](../Page/レアル・バリャドリード.md "wikilink")戦を解説した）
   - [金子達仁](https://ja.wikipedia.org/wiki/金子達仁 "wikilink")（ゲスト）
   - [菅原慎吾](https://ja.wikipedia.org/wiki/菅原慎吾 "wikilink")（コメンテーター、バルサTVディレクター→プロデューサー）
   - [前島貴志](https://ja.wikipedia.org/wiki/前島貴志 "wikilink")（「バルサ・エス・バルサ」ナレーター、コメンテーター）
 
 ## 関連項目
 
-  - [田口賢司](https://ja.wikipedia.org/wiki/田口賢司 "wikilink") - 当番組の[プロデューサー](../Page/プロデューサー.md "wikilink")。ただし、当人は[マンチェスター・ユナイテッドファンである](../Page/マンチェスター・ユナイテッドFC.md "wikilink")。
+  - [田口賢司](../Page/田口賢司.md "wikilink") - 当番組の[プロデューサー](../Page/プロデューサー.md "wikilink")。ただし、当人は[マンチェスター・ユナイテッドファンである](../Page/マンチェスター・ユナイテッドFC.md "wikilink")。
   - [Foot\!](../Page/Foot!.md "wikilink")
   - 日本で放送されている（いた）クラブオフィシャルチャンネル
       - [MUTV](../Page/MUTV.md "wikilink")
       - [チェルシーTV](../Page/チェルシーTV.md "wikilink")
-      - [アーセナルTV](https://ja.wikipedia.org/wiki/アーセナルTV "wikilink")
+      - [アーセナルTV](../Page/アーセナルTV.md "wikilink")
       - [FCバイエルン・ミュンヘンTV](https://ja.wikipedia.org/wiki/FCバイエルン・ミュンヘンTV "wikilink")
       - [ボルシア・ドルトムントTV](https://ja.wikipedia.org/wiki/ボルシア・ドルトムントTV "wikilink")
       - [ACミラン・チャンネル](https://ja.wikipedia.org/wiki/ACミラン・チャンネル "wikilink")

@@ -5,18 +5,18 @@
 
 ## 来歴
 
-1992年、[矢嶋良介](https://ja.wikipedia.org/wiki/矢嶋良介 "wikilink")を中心に結成し、シングル1枚をリリースしたが、矢嶋がソロ活動を開始したため、活動を終了することになった。後に、[辺見さとし](https://ja.wikipedia.org/wiki/辺見さとし "wikilink")は、[藍澤刹那](https://ja.wikipedia.org/wiki/藍澤刹那 "wikilink")のプロジェクト[DEEP'S](https://ja.wikipedia.org/wiki/DEEP'S "wikilink")に加入し、高砂圭司がこのバンドのレコーディングに参加した。JASRACので登録時は本来のMOONではなく、**THE MOON**になっている\[1\]\[2\]。
+1992年、[矢嶋良介](../Page/矢嶋良介.md "wikilink")を中心に結成し、シングル1枚をリリースしたが、矢嶋がソロ活動を開始したため、活動を終了することになった。後に、[辺見さとし](../Page/辺見さとし.md "wikilink")は、[藍澤刹那](https://ja.wikipedia.org/wiki/藍澤刹那 "wikilink")のプロジェクト[DEEP'S](../Page/DEEP'S.md "wikilink")に加入し、高砂圭司がこのバンドのレコーディングに参加した。JASRACので登録時は本来のMOONではなく、**THE MOON**になっている\[1\]\[2\]。
 
 ## メンバー
 
-  - [矢嶋良介](https://ja.wikipedia.org/wiki/矢嶋良介 "wikilink") - ボーカル
-  - [辺見さとし](https://ja.wikipedia.org/wiki/辺見さとし "wikilink") - ギター
+  - [矢嶋良介](../Page/矢嶋良介.md "wikilink") - ボーカル
+  - [辺見さとし](../Page/辺見さとし.md "wikilink") - ギター
   - [高砂圭司](https://ja.wikipedia.org/wiki/高砂圭司 "wikilink") - ベース
   - [清水俊樹](https://ja.wikipedia.org/wiki/清水俊樹 "wikilink") - ドラム
 
 ## ディスコグラフィー（シングル）
 
-  - [時間（とき）が止まらない](https://ja.wikipedia.org/wiki/時間が止まらない "wikilink")(1992/09/30)
+  - [時間（とき）が止まらない](../Page/時間が止まらない.md "wikilink")(1992/09/30)
 
 ## 脚注
 

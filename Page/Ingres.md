@@ -17,23 +17,23 @@
 
 System Rとは異なり、Ingresのソースコードは（テープ形式で）実費で誰でも入手可能だった。1980年までに数千のコピーが主に大学を中心に配布された。バークレー出身の学生や他の大学で Ingresのソースコードを使った経験のある学生によって様々な商用データベース製品が生み出されることとなった。
 
-バークレーの学生Jerry Held（後にはKarel Youseffiも）は[タンデムコンピューターズ](https://ja.wikipedia.org/wiki/タンデムコンピューターズ "wikilink")に入社し、後に[NonStop SQLとなるシステムを開発した](https://ja.wikipedia.org/wiki/NonStop_SQL "wikilink")。このタンデムのシステムはIngres技術の再実装に他ならない。[並列システム上で効率的に動作するよう改良され](https://ja.wikipedia.org/wiki/並列コンピューティング "wikilink")、データの分散、処理の分散、そしてかなり難しい[分散トランザクション](https://ja.wikipedia.org/wiki/分散トランザクション "wikilink")を実現していた。システムのコンポーネントは1970年代末に最初にリリースされた。1989年までに[クエリ](https://ja.wikipedia.org/wiki/クエリ "wikilink")を並列に実行できるようになり、この製品はプロセッサ数に比例して性能が向上する数少ないデータベースとして有名になった。NonStop SQLのサーバに2つめのCPUを追加すると、性能はほぼ2倍に向上した。タンデムは後に[コンパック](../Page/コンパック.md "wikilink")に買収され、2000年からこの製品の書き換えが行われた。なお、この製品は現在では[ヒューレット・パッカード](../Page/ヒューレット・パッカード.md "wikilink")のものとなっている。
+バークレーの学生Jerry Held（後にはKarel Youseffiも）は[タンデムコンピューターズ](../Page/タンデムコンピューターズ.md "wikilink")に入社し、後に[NonStop SQLとなるシステムを開発した](https://ja.wikipedia.org/wiki/NonStop_SQL "wikilink")。このタンデムのシステムはIngres技術の再実装に他ならない。[並列システム上で効率的に動作するよう改良され](https://ja.wikipedia.org/wiki/並列コンピューティング "wikilink")、データの分散、処理の分散、そしてかなり難しい[分散トランザクション](https://ja.wikipedia.org/wiki/分散トランザクション "wikilink")を実現していた。システムのコンポーネントは1970年代末に最初にリリースされた。1989年までに[クエリ](https://ja.wikipedia.org/wiki/クエリ "wikilink")を並列に実行できるようになり、この製品はプロセッサ数に比例して性能が向上する数少ないデータベースとして有名になった。NonStop SQLのサーバに2つめのCPUを追加すると、性能はほぼ2倍に向上した。タンデムは後に[コンパック](../Page/コンパック.md "wikilink")に買収され、2000年からこの製品の書き換えが行われた。なお、この製品は現在では[ヒューレット・パッカード](../Page/ヒューレット・パッカード.md "wikilink")のものとなっている。
 
 バークレー在籍時にIngresプロジェクトのチーフプログラマだったRobert Epsteinは、同じくプロジェクトに学生として関わったPaula HawthorneとMike Ubellと共にBritton-Leeという会社を設立した。後にEric Allmanも参加している。後に彼らは[サイベース](https://ja.wikipedia.org/wiki/サイベース "wikilink")を設立。サイベースは1980年代から1990年代にかけて、一時期[Oracleに次ぐシェアを誇る製品を持っていたが](../Page/Oracle_Database.md "wikilink")、どこからともなくInformix が登場して1997年にその地位を奪われた。サイベースの製品は[マイクロソフト](../Page/マイクロソフト.md "wikilink")にも1992年にライセンス提供され、マイクロソフトはそれを[Microsoft SQL Serverとして販売した](https://ja.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")。この関係は1990年代後半になって破綻し、現在ではSQL Serverはサイベースの製品よりも幅広く売れている。
 
 いくつかの企業がIngresのソースコードを使って製品を開発した。最も成功した企業としてRelational Technology (RTI) があり、これは1980年にストーンブレーカーとWongがもう1人のバークレーの教授[Lawrence A. Roweと共に創設したものである](https://ja.wikipedia.org/wiki/:en:User:Larry.Rowe "wikilink")。RTIは1980年代中ごろにイングレス (Ingres Corporation) へと改称。同社はコードをDECの[VMS](https://ja.wikipedia.org/wiki/VMS "wikilink")向けに移植し、データベースの作成/操作用のフロントエンドツール群（例えば、報告書印刷、フォームエントリ/更新など）や[アプリケーション開発ツール群を開発した](https://ja.wikipedia.org/wiki/プログラミングツール "wikilink")。ソースコードは更新されていき、機能が追加され（例えば、複数文トランザクション、[SQL](../Page/SQL.md "wikilink")、[B木](../Page/B木.md "wikilink")アクセス法など）、性能が強化された（例えば、コンパイルされたクエリ、マルチスレッド化サーバなど）。同社は1990年11月、ASK Corporationに買収された。創設者たちはその後数ヶ月以内に同社を去った。1994年、ASK/イングレスは[CAに買収され](https://ja.wikipedia.org/wiki/CA_\(企業\) "wikilink")、その後もIngres系の製品が販売された（OpenIngres、Ingres II、Advantage Ingresなど）。
 
-[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")、CAはIngres r3を[オープンソース](../Page/オープンソース.md "wikilink")ライセンスでリリースした。コードにはDBMSサーバとユーティリティ、テキストベースのフロントエンド、アプリケーション開発ツールが含まれている。つまり、GUIベースの開発環境OpenROAD以外は全て含まれている。2005年11月、Garnett\&Helfrich CapitalはCAと共同でIngres Corporationを新たに設立し、IngresとOpenROAD、それらの関連製品のサポートとサービスを同社が行うようになった。
+[2004年](../Page/2004年.md "wikilink")、CAはIngres r3を[オープンソース](../Page/オープンソース.md "wikilink")ライセンスでリリースした。コードにはDBMSサーバとユーティリティ、テキストベースのフロントエンド、アプリケーション開発ツールが含まれている。つまり、GUIベースの開発環境OpenROAD以外は全て含まれている。2005年11月、Garnett\&Helfrich CapitalはCAと共同でIngres Corporationを新たに設立し、IngresとOpenROAD、それらの関連製品のサポートとサービスを同社が行うようになった。
 
 2006年2月、Ingres Corporationは[GPLライセンスでIngres](../Page/GNU_General_Public_License.md "wikilink") 2006をリリースした。
 
 ### Postgres
 
-Postgresプロジェクトは[関係モデル](https://ja.wikipedia.org/wiki/関係モデル "wikilink")を使った既存のデータベース管理の実装の限界に対処することを目的として開始された。最重要課題は、ユーザーが新たな定義域（ドメイン、データ型）を既存の単純な定義域から定義できない点だった。プロジェクトは他にも追記型メディア（[Write Once Read Manyメディア](https://ja.wikipedia.org/wiki/Write_Once_Read_Many "wikilink")。光ディスクなど）への対応、大容量記憶装置への対応、推論、オブジェクト指向型データモデルなどを取り入れた。実装上も、データベースとアプリケーションの新たなインタフェースが導入された。
+Postgresプロジェクトは[関係モデル](../Page/関係モデル.md "wikilink")を使った既存のデータベース管理の実装の限界に対処することを目的として開始された。最重要課題は、ユーザーが新たな定義域（ドメイン、データ型）を既存の単純な定義域から定義できない点だった。プロジェクトは他にも追記型メディア（[Write Once Read Manyメディア](../Page/Write_Once_Read_Many.md "wikilink")。光ディスクなど）への対応、大容量記憶装置への対応、推論、オブジェクト指向型データモデルなどを取り入れた。実装上も、データベースとアプリケーションの新たなインタフェースが導入された。
 
 プロジェクトの成果は**Postgres**と呼ばれ、完全な型サポートに必要な最小限の機能だけを導入した。型定義機能だけでなく、関係を完全に記述できる機能も持っている。これは広く使われたが、メンテナンスはユーザーに任されていた。Postgresではデータベースが関係を「理解」すると言われ、「規則」に従って自然な方法で関連する表から情報を得ることができる。詳細は[PostgreSQL](https://ja.wikipedia.org/wiki/PostgreSQL "wikilink")を参照されたい。
 
-1990年代になるとストーンブレーカーはPostgresの商業化のために新たな会社**[Illustra](https://ja.wikipedia.org/wiki/Illustra "wikilink")**を設立した。同社とその技術は後に[Informix](https://ja.wikipedia.org/wiki/Informix "wikilink")が買収した。
+1990年代になるとストーンブレーカーはPostgresの商業化のために新たな会社**[Illustra](https://ja.wikipedia.org/wiki/Illustra "wikilink")**を設立した。同社とその技術は後に[Informix](../Page/Informix.md "wikilink")が買収した。
 
 ## 関連項目
 

@@ -3,27 +3,27 @@
 
 **ダイハツ・AB型エンジン**は、[ダイハツ工業](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")が生産していた[軽自動車](https://ja.wikipedia.org/wiki/軽自動車 "wikilink")用[エンジン](../Page/エンジン.md "wikilink")の一つである。
 
-[英語版では](https://ja.wikipedia.org/wiki/:en:Daihatsu_A-series_engine "wikilink")、AB型をベースに[ボアアップ](https://ja.wikipedia.org/wiki/ボアアップ "wikilink")を施した**[AD型](https://ja.wikipedia.org/wiki/#AD型 "wikilink")**を含めた**ダイハツ・A系列エンジン**として解説されている為、この項にてAD型エンジンについても併せて記述を行う。
+[英語版では](https://ja.wikipedia.org/wiki/:en:Daihatsu_A-series_engine "wikilink")、AB型をベースに[ボアアップ](../Page/ボアアップ.md "wikilink")を施した**[AD型](https://ja.wikipedia.org/wiki/#AD型 "wikilink")**を含めた**ダイハツ・A系列エンジン**として解説されている為、この項にてAD型エンジンについても併せて記述を行う。
 
 ## 概要
 
-1976年1月1日の[軽自動車](https://ja.wikipedia.org/wiki/軽自動車 "wikilink")の規格変更に伴い、同年5月\[1\]より当時の[フェローと](https://ja.wikipedia.org/wiki/ダイハツ・フェロー "wikilink")[ハイゼットに搭載された軽自動車用](https://ja.wikipedia.org/wiki/ダイハツ・ハイゼット "wikilink")550ccエンジンで、基本仕様は4サイクル[水冷](https://ja.wikipedia.org/wiki/水冷エンジン "wikilink")[直列2気筒](https://ja.wikipedia.org/wiki/直列2気筒 "wikilink")[SOHC](../Page/SOHC.md "wikilink")4バルブ（1気筒あたり2バルブ方式）、[内径](https://ja.wikipedia.org/wiki/ボア "wikilink")71.6mm×[行程](https://ja.wikipedia.org/wiki/ストローク "wikilink")68.0mm、[総排気量](https://ja.wikipedia.org/wiki/排気量 "wikilink")547ccである。
+1976年1月1日の[軽自動車](https://ja.wikipedia.org/wiki/軽自動車 "wikilink")の規格変更に伴い、同年5月\[1\]より当時の[フェローと](../Page/ダイハツ・フェロー.md "wikilink")[ハイゼットに搭載された軽自動車用](../Page/ダイハツ・ハイゼット.md "wikilink")550ccエンジンで、基本仕様は4サイクル[水冷](../Page/水冷エンジン.md "wikilink")[直列2気筒](../Page/直列2気筒.md "wikilink")[SOHC](../Page/SOHC.md "wikilink")4バルブ（1気筒あたり2バルブ方式）、[内径](https://ja.wikipedia.org/wiki/ボア "wikilink")71.6mm×[行程](../Page/ストローク.md "wikilink")68.0mm、[総排気量](../Page/排気量.md "wikilink")547ccである。
 
-AB型の前身として[2ストローク](https://ja.wikipedia.org/wiki/2ストローク "wikilink")360ccの[ZM型が存在したが](https://ja.wikipedia.org/wiki/ダイハツ・ZM型エンジン "wikilink")、[自動車排出ガス規制](../Page/自動車排出ガス規制.md "wikilink")の強化に対応する為、[親会社](https://ja.wikipedia.org/wiki/親会社 "wikilink")の[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の技術支援の下で開発された。[ガソリン](../Page/ガソリン.md "wikilink")を燃料とし、[鋳鉄](https://ja.wikipedia.org/wiki/鋳鉄 "wikilink")製[シリンダーブロック](https://ja.wikipedia.org/wiki/シリンダーブロック "wikilink")と[アルミ合金](https://ja.wikipedia.org/wiki/アルミ合金 "wikilink")製[シリンダーヘッド](https://ja.wikipedia.org/wiki/シリンダーヘッド "wikilink")、[カムシャフト](https://ja.wikipedia.org/wiki/カムシャフト "wikilink")は[タイミングベルト](https://ja.wikipedia.org/wiki/タイミングベルト "wikilink")で駆動され、[燃焼室](https://ja.wikipedia.org/wiki/燃焼室 "wikilink")は[リーンバーン](https://ja.wikipedia.org/wiki/リーンバーン "wikilink")を行う為に[トヨタトータルクリーンシステム](https://ja.wikipedia.org/wiki/トヨタトータルクリーンシステム "wikilink")(TTC-L)より技術導入されたTGP乱流生成ポッド（Turbulence Generating Pot\[2\]）を採用、**DECS-L**の名称が用いられたこの技術の導入と小型の[触媒](../Page/触媒.md "wikilink")の\[3\]併用により、AB型は[昭和53年排出ガス規制](https://ja.wikipedia.org/wiki/昭和53年排出ガス規制 "wikilink")に適合した。
+AB型の前身として[2ストローク](https://ja.wikipedia.org/wiki/2ストローク "wikilink")360ccの[ZM型が存在したが](https://ja.wikipedia.org/wiki/ダイハツ・ZM型エンジン "wikilink")、[自動車排出ガス規制](../Page/自動車排出ガス規制.md "wikilink")の強化に対応する為、[親会社](https://ja.wikipedia.org/wiki/親会社 "wikilink")の[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の技術支援の下で開発された。[ガソリン](../Page/ガソリン.md "wikilink")を燃料とし、[鋳鉄](../Page/鋳鉄.md "wikilink")製[シリンダーブロック](../Page/シリンダーブロック.md "wikilink")と[アルミ合金](https://ja.wikipedia.org/wiki/アルミ合金 "wikilink")製[シリンダーヘッド](https://ja.wikipedia.org/wiki/シリンダーヘッド "wikilink")、[カムシャフト](../Page/カムシャフト.md "wikilink")は[タイミングベルト](../Page/タイミングベルト.md "wikilink")で駆動され、[燃焼室](https://ja.wikipedia.org/wiki/燃焼室 "wikilink")は[リーンバーン](../Page/リーンバーン.md "wikilink")を行う為に[トヨタトータルクリーンシステム](../Page/トヨタトータルクリーンシステム.md "wikilink")(TTC-L)より技術導入されたTGP乱流生成ポッド（Turbulence Generating Pot\[2\]）を採用、**DECS-L**の名称が用いられたこの技術の導入と小型の[触媒](../Page/触媒.md "wikilink")の\[3\]併用により、AB型は[昭和53年排出ガス規制](https://ja.wikipedia.org/wiki/昭和53年排出ガス規制 "wikilink")に適合した。
 
-AB型には当時の競合エンジンであった[三菱・2G2系エンジン](https://ja.wikipedia.org/wiki/三菱・2G2系エンジン "wikilink")や[スバル・EK型エンジン](https://ja.wikipedia.org/wiki/スバル・EK型エンジン "wikilink")と同様に、2本の[バランサーシャフト](https://ja.wikipedia.org/wiki/バランサーシャフト "wikilink")も採用され、直列4気筒に匹敵する[低振動を実現したが](https://ja.wikipedia.org/wiki/エンジンの振動 "wikilink")、結果として製造コストが高くなる要因にもなった\[4\]。
+AB型には当時の競合エンジンであった[三菱・2G2系エンジン](https://ja.wikipedia.org/wiki/三菱・2G2系エンジン "wikilink")や[スバル・EK型エンジン](https://ja.wikipedia.org/wiki/スバル・EK型エンジン "wikilink")と同様に、2本の[バランサーシャフト](https://ja.wikipedia.org/wiki/バランサーシャフト "wikilink")も採用され、直列4気筒に匹敵する[低振動を実現したが](../Page/エンジンの振動.md "wikilink")、結果として製造コストが高くなる要因にもなった\[4\]。
 
 1気筒当たりの排気量が660cc規格の3気筒エンジンや360ccエンジンより大きくエンジンの粘りとトルクがある。[ショートストローク](https://ja.wikipedia.org/wiki/ショートストローク "wikilink")エンジンであるが低回転から粘りがあり、[エンスト](https://ja.wikipedia.org/wiki/エンスト "wikilink")しにくく市街地走行に適したセッティングとなっている。ただし吹け上がりは後継である[EB型](https://ja.wikipedia.org/wiki/ダイハツ・EB型エンジン "wikilink")（4サイクル水冷直列3気筒550cc、SOHC6バルブ【AB型同様、1気筒あたり2バルブ方式】）の方が滑らかである。
 
-1983年には[ターボ](https://ja.wikipedia.org/wiki/ターボ "wikilink")が搭載され\[5\]、[ミラと](https://ja.wikipedia.org/wiki/ダイハツ・ミラ "wikilink")[ハイゼットアトレーに搭載された](../Page/ダイハツ・アトレー.md "wikilink")。ただし黎明期の軽自動車用のターボエンジンであるため、[インタークーラー](https://ja.wikipedia.org/wiki/インタークーラー "wikilink")や[電子制御インジェクションは装備されていない](../Page/燃料噴射装置.md "wikilink")。
+1983年には[ターボ](https://ja.wikipedia.org/wiki/ターボ "wikilink")が搭載され\[5\]、[ミラと](../Page/ダイハツ・ミラ.md "wikilink")[ハイゼットアトレーに搭載された](../Page/ダイハツ・アトレー.md "wikilink")。ただし黎明期の軽自動車用のターボエンジンであるため、[インタークーラー](../Page/インタークーラー.md "wikilink")や[電子制御インジェクションは装備されていない](../Page/燃料噴射装置.md "wikilink")。
 
-1985年に後継エンジンである[EB型を搭載した](https://ja.wikipedia.org/wiki/ダイハツ・EB型エンジン "wikilink")[クオーレと](https://ja.wikipedia.org/wiki/ダイハツ・クオーレ "wikilink")[ミラが登場し](https://ja.wikipedia.org/wiki/ダイハツ・ミラ "wikilink")、1986年4月の[ハイゼットの](https://ja.wikipedia.org/wiki/ダイハツ・ハイゼット "wikilink")[フルモデルチェンジ](https://ja.wikipedia.org/wiki/フルモデルチェンジ "wikilink")に伴いダイハツ製車両への搭載は終了した\[6\]。
+1985年に後継エンジンである[EB型を搭載した](https://ja.wikipedia.org/wiki/ダイハツ・EB型エンジン "wikilink")[クオーレと](../Page/ダイハツ・クオーレ.md "wikilink")[ミラが登場し](../Page/ダイハツ・ミラ.md "wikilink")、1986年4月の[ハイゼットの](../Page/ダイハツ・ハイゼット.md "wikilink")[フルモデルチェンジ](https://ja.wikipedia.org/wiki/フルモデルチェンジ "wikilink")に伴いダイハツ製車両への搭載は終了した\[6\]。
 
 AB型のうちAB20は、[ポルトガル](../Page/ポルトガル.md "wikilink")の商用車メーカー[:en:Entreposto](https://ja.wikipedia.org/wiki/:en:Entreposto "wikilink")にOEM供給され、**Entreposto Sado 550**向けに500基余りが搭載された\[7\]。また、国内市場でのライバルメーカーであった[スズキも](../Page/スズキ_\(企業\).md "wikilink")、1976年の規格改定に自社での550ccの4サイクルエンジン(後の[スズキ・F5A](https://ja.wikipedia.org/wiki/スズキ・F型エンジン "wikilink"))の開発が間に合わなかった為に、一時的にAB10のOEM供給を受け、4代目[スズキ・フロンテ 7-Sに搭載していた](https://ja.wikipedia.org/wiki/スズキ・フロンテ "wikilink")\[8\]。
 
 ## 系譜
 
-  - **AB型**（1976年） → [EB型](https://ja.wikipedia.org/wiki/ダイハツ・EB型エンジン "wikilink")（これより水冷直列3気筒・[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")） → [EF型](../Page/ダイハツ・EF型エンジン.md "wikilink")（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")） → [KF型](../Page/ダイハツ・KF型エンジン.md "wikilink")（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")-現在）
+  - **AB型**（1976年） → [EB型](https://ja.wikipedia.org/wiki/ダイハツ・EB型エンジン "wikilink")（これより水冷直列3気筒・[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")） → [EF型](../Page/ダイハツ・EF型エンジン.md "wikilink")（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")） → [KF型](../Page/ダイハツ・KF型エンジン.md "wikilink")（[2005年](../Page/2005年.md "wikilink")-現在）
   - **AD型**（1980年） → [ED型](https://ja.wikipedia.org/wiki/ダイハツ・ED型エンジン "wikilink")（これより水冷直列3気筒・[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")-現在）
 
 ## バリエーション・搭載車種
@@ -32,7 +32,7 @@ AB型の型式番号は2桁の数字の組み合わせで表され、10の位が
 
 ### AB10
 
-  - [NA](https://ja.wikipedia.org/wiki/自然吸気 "wikilink")・[キャブレター](../Page/キャブレター.md "wikilink")
+  - [NA](../Page/自然吸気.md "wikilink")・[キャブレター](../Page/キャブレター.md "wikilink")
 
 <!-- end list -->
 
@@ -43,7 +43,7 @@ AB型の型式番号は2桁の数字の組み合わせで表され、10の位が
 
 ### AB20
 
-  - [NA](https://ja.wikipedia.org/wiki/自然吸気 "wikilink")・キャブレター
+  - [NA](../Page/自然吸気.md "wikilink")・キャブレター
 
 <!-- end list -->
 
@@ -54,7 +54,7 @@ AB型の型式番号は2桁の数字の組み合わせで表され、10の位が
 
 ### AB30
 
-  - [NA](https://ja.wikipedia.org/wiki/自然吸気 "wikilink")・キャブレター
+  - [NA](../Page/自然吸気.md "wikilink")・キャブレター
 
 <!-- end list -->
 
@@ -73,7 +73,7 @@ AB型の型式番号は2桁の数字の組み合わせで表され、10の位が
 
 ### AB40
 
-  - [NA](https://ja.wikipedia.org/wiki/自然吸気 "wikilink")・キャブレター
+  - [NA](../Page/自然吸気.md "wikilink")・キャブレター
 
 <!-- end list -->
 
@@ -82,7 +82,7 @@ AB型の型式番号は2桁の数字の組み合わせで表され、10の位が
 
 ### AB50
 
-  - [NA](https://ja.wikipedia.org/wiki/自然吸気 "wikilink")・キャブレター
+  - [NA](../Page/自然吸気.md "wikilink")・キャブレター
 
 <!-- end list -->
 
@@ -109,7 +109,7 @@ AB型の型式番号は2桁の数字の組み合わせで表され、10の位が
 <th><p><a href="../Page/工業規格.md" title="wikilink">工業規格</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/圧縮比" title="wikilink">圧縮比</a></p></th>
 <th><p>燃料供給装置</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/三元触媒" title="wikilink">触媒</a></p></th>
+<th><p><a href="../Page/三元触媒.md" title="wikilink">触媒</a></p></th>
 <th><p>搭載車種(輸出仕様含む)</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -271,7 +271,7 @@ Entreposto Sado 550</p></td>
 
 ## AD型
 
-**ダイハツ・AD型エンジン**は、[AB型をベースに](https://ja.wikipedia.org/wiki/#AB型 "wikilink")617cc(0.62L)としたバージョンである。当時の軽自動車規格に合致しない排気量であった為、輸出仕様への搭載の為にのみ生産された。このエンジンはダイハツ車では欧州向けL60S/60V型[ダイハツ・クオーレ](https://ja.wikipedia.org/wiki/ダイハツ・クオーレ "wikilink")/[ハンディバンのみに](https://ja.wikipedia.org/wiki/ダイハツ・ミラ "wikilink")1982年から1986年に掛けて搭載され\[13\]、しばしば**ダイハツ・ドミノ**の名称でも販売された。内径76.0mm×行程68.0mm\[14\]、SOHC・2バルブ、キャブレター仕様のみが生産された。また、[イノチェンティ・ミニ](https://ja.wikipedia.org/wiki/イノチェンティ・ミニ "wikilink")の廉価版であるミニ650SEにも、1984年から1987年に掛けて出力31PS(23kW)/5,700rpm、トルク45Nm(33lbft)/3,500rpmのAD型が搭載されていた。
+**ダイハツ・AD型エンジン**は、[AB型をベースに](https://ja.wikipedia.org/wiki/#AB型 "wikilink")617cc(0.62L)としたバージョンである。当時の軽自動車規格に合致しない排気量であった為、輸出仕様への搭載の為にのみ生産された。このエンジンはダイハツ車では欧州向けL60S/60V型[ダイハツ・クオーレ](../Page/ダイハツ・クオーレ.md "wikilink")/[ハンディバンのみに](../Page/ダイハツ・ミラ.md "wikilink")1982年から1986年に掛けて搭載され\[13\]、しばしば**ダイハツ・ドミノ**の名称でも販売された。内径76.0mm×行程68.0mm\[14\]、SOHC・2バルブ、キャブレター仕様のみが生産された。また、[イノチェンティ・ミニ](https://ja.wikipedia.org/wiki/イノチェンティ・ミニ "wikilink")の廉価版であるミニ650SEにも、1984年から1987年に掛けて出力31PS(23kW)/5,700rpm、トルク45Nm(33lbft)/3,500rpmのAD型が搭載されていた。
 
 ## 脚注
 
@@ -282,7 +282,7 @@ Entreposto Sado 550</p></td>
   -
 ## リンク
 
-  - [ダイハツ・エンジン一覧](https://ja.wikipedia.org/wiki/ダイハツ・エンジン一覧 "wikilink")
+  - [ダイハツ・エンジン一覧](../Page/ダイハツ・エンジン一覧.md "wikilink")
 
 [Category:ダイハツ工業のエンジン](https://ja.wikipedia.org/wiki/Category:ダイハツ工業のエンジン "wikilink")
 

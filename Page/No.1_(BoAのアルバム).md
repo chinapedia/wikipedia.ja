@@ -1,11 +1,11 @@
 > この記事は[No.1 \(BoA\)](https://ja.wikipedia.org/wiki/No.1_\(BoA\))から翻訳されています。
 
 
-『**No.1**』（ナンバーワン）は、[韓国出身の女性](https://ja.wikipedia.org/wiki/大韓民国 "wikilink")[歌手](../Page/歌手.md "wikilink")[BoA](../Page/BoA.md "wikilink")の、韓国版[アルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")2集として発表されたアルバム。
+『**No.1**』（ナンバーワン）は、[韓国出身の女性](../Page/大韓民国.md "wikilink")[歌手](../Page/歌手.md "wikilink")[BoA](../Page/BoA.md "wikilink")の、韓国版[アルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")2集として発表されたアルバム。
 
 ## 概要
 
-[2002年](../Page/2002年.md "wikilink")3月に発売された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")における1stアルバム「**[LISTEN TO MY HEART](../Page/LISTEN_TO_MY_HEART.md "wikilink")**」が[オリコン初登場](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位という予想を超えた反響を示した後に、同年4月に発表された日韓同時発売のセカンドアルバムであり、デビュー以来韓国国内には海外進出を目論むBoAに対して異を唱えるネチズンが散見された中、これを押しのけ日本におけるBoAに対する好評を受けて、韓国国内でも初めて売上1位を記録した。また、この時期に[FIFAワールドカップ](https://ja.wikipedia.org/wiki/FIFAワールドカップ "wikilink")日韓共催大会において韓国代表が勝ち進むと、この曲が[ラジオ](../Page/ラジオ.md "wikilink")番組などを通じて応援曲としてしばしば取り上げられた。
+[2002年](../Page/2002年.md "wikilink")3月に発売された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")における1stアルバム「**[LISTEN TO MY HEART](../Page/LISTEN_TO_MY_HEART.md "wikilink")**」が[オリコン初登場](../Page/オリコンチャート.md "wikilink")1位という予想を超えた反響を示した後に、同年4月に発表された日韓同時発売のセカンドアルバムであり、デビュー以来韓国国内には海外進出を目論むBoAに対して異を唱えるネチズンが散見された中、これを押しのけ日本におけるBoAに対する好評を受けて、韓国国内でも初めて売上1位を記録した。また、この時期に[FIFAワールドカップ](../Page/FIFAワールドカップ.md "wikilink")日韓共催大会において韓国代表が勝ち進むと、この曲が[ラジオ](../Page/ラジオ.md "wikilink")番組などを通じて応援曲としてしばしば取り上げられた。
 
 この年の11月に開催された韓国の「[m-net](https://ja.wikipedia.org/wiki/m-net "wikilink")」の「2002 Music Video Festival」においては「最優秀作品賞」を、さらに同年12月29日の[SBSの](https://ja.wikipedia.org/wiki/ソウル放送 "wikilink")「<span lang="ko">가요대전</span>（歌謡大典）」では「大賞」を獲得し、それぞれの授賞式では感極まって号泣している。なお、この曲「**No.1**」は同年9月に日本で発売された8thシングル「**[奇蹟/NO.1](https://ja.wikipedia.org/wiki/奇蹟/NO.1 "wikilink")**」のカップリング曲として日本語版も製作され、自身のアリーナツアーのクライマックスで歌われる[定番として知られている](../Page/スタンダード・ナンバー.md "wikilink")。[日本語](../Page/日本語.md "wikilink")版と[朝鮮語](../Page/朝鮮語.md "wikilink")版では歌詞の内容が違う点に注意を要する。
 
@@ -19,7 +19,7 @@
 
 1.  **No. 1**
       -
-        PVは日本で撮影されており、[東京タワー](https://ja.wikipedia.org/wiki/東京タワー "wikilink")などが映っている。監督は「[LISTEN TO MY HEART](../Page/LISTEN_TO_MY_HEART.md "wikilink")」や「[Every Heart -ミンナノキモチ-](https://ja.wikipedia.org/wiki/Every_Heart_-ミンナノキモチ- "wikilink")」を手がけた[竹石渉](https://ja.wikipedia.org/wiki/竹石渉 "wikilink")。
+        PVは日本で撮影されており、[東京タワー](https://ja.wikipedia.org/wiki/東京タワー "wikilink")などが映っている。監督は「[LISTEN TO MY HEART](../Page/LISTEN_TO_MY_HEART.md "wikilink")」や「[Every Heart -ミンナノキモチ-](../Page/Every_Heart_-ミンナノキモチ-.md "wikilink")」を手がけた[竹石渉](https://ja.wikipedia.org/wiki/竹石渉 "wikilink")。
         初回版ではDon't start nowの流れを汲むようなキックの強いアレンジとなっている。
 2.  **My Sweetie**
       -
@@ -63,7 +63,7 @@
         作曲: キム・ミソン
 15. **Listen To My Heart** (*Bonus Track*)
       -
-        初回版はコーラスがやや過剰気味である。このバージョンは後に「[MIRACLE](https://ja.wikipedia.org/wiki/MIRACLE_\(BoAのアルバム\) "wikilink")」に再録された。
+        初回版はコーラスがやや過剰気味である。このバージョンは後に「[MIRACLE](../Page/MIRACLE_\(BoAのアルバム\).md "wikilink")」に再録された。
 16. **No. 1 (English Version)'' (**日本版 Bonus Track'')
       -
         日本版のみに収録。

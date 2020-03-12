@@ -1,11 +1,11 @@
 > この記事は[ \(KREVA\)](https://ja.wikipedia.org/wiki/_\(KREVA\))から翻訳されています。
 
 
-「**スタート**」は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヒップホップMC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")、[KREVA](https://ja.wikipedia.org/wiki/KREVA "wikilink")のメジャー5th[シングル](../Page/シングル.md "wikilink")。
+「**スタート**」は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヒップホップMC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")、[KREVA](../Page/KREVA.md "wikilink")のメジャー5th[シングル](../Page/シングル.md "wikilink")。
 
 ## 概要
 
-  - [音色以来通算](https://ja.wikipedia.org/wiki/音色_\(KREVAの曲\) "wikilink")2作目のTOP10入り。シングルとしては順位・初動ともに当時の自己最高を記録。
+  - [音色以来通算](../Page/音色_\(KREVAの曲\).md "wikilink")2作目のTOP10入り。シングルとしては順位・初動ともに当時の自己最高を記録。
   - 発売日は「クレバの日」である9月8日に発売。音色と同じ発売日でもある。
   - 初回限定盤にはイッサイガッサイのVideo Clipを収録したDVD付き
 
@@ -22,8 +22,8 @@
 
 ## 収録アルバム
 
-  - [愛・自分博](https://ja.wikipedia.org/wiki/愛・自分博 "wikilink")（\#1）
-  - [クレバのベスト盤](https://ja.wikipedia.org/wiki/クレバのベスト盤 "wikilink")（\#1）
+  - [愛・自分博](../Page/愛・自分博.md "wikilink")（\#1）
+  - [クレバのベスト盤](../Page/クレバのベスト盤.md "wikilink")（\#1）
 
 [Category:KREVAの楽曲](https://ja.wikipedia.org/wiki/Category:KREVAの楽曲 "wikilink")
 

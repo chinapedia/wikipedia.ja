@@ -1,17 +1,17 @@
 > この記事は[BUGRIGHT](https://ja.wikipedia.org/wiki/BUGRIGHT)から翻訳されています。
 
 
-『**BUGRIGHT**』（バグライト）は、[UVERworld](../Page/UVERworld.md "wikilink")の2枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[2月21日](../Page/2月21日.md "wikilink")に[gr8\!recordsから発売された](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")。
+『**BUGRIGHT**』（バグライト）は、[UVERworld](../Page/UVERworld.md "wikilink")の2枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")に[gr8\!recordsから発売された](../Page/ソニー・ミュージックレコーズ.md "wikilink")。
 
 ## 内容
 
-今作は当初[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink")に発売が予定されていたが、諸般の事情があり発売が延期されていた作品である。
+今作は当初[2007年](../Page/2007年.md "wikilink")[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink")に発売が予定されていたが、諸般の事情があり発売が延期されていた作品である。
 
 アルバムタイトルの意味は『Bug』（欠陥、間違った）と『Right』（正解、正義）を合わせて『BUGRIGHT』とした造語で、『自分が信じて選んだ夢が間違っているといわれようが、正解にするのは結局その人次第。』という意味が込められている。
 
-今作は店頭到着日また[オリコンウィークリーチャート集計](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1日目である火曜日は第3位、翌日の集計2日目にして発売日である水曜日では自身初となる首位を獲得するなど、好調なスタートを切った。その際、ボーカルTAKUYA∞は公式サイト上にて喜びのコメントを発表している。週間チャートでは、第2位を記録。これにより、2006年に発表した1stアルバム『[Timeless](https://ja.wikipedia.org/wiki/Timeless_\(UVERworldのアルバム\) "wikilink")』の最高5位、初動売上枚数を大きく更新した。
+今作は店頭到着日また[オリコンウィークリーチャート集計](../Page/オリコンチャート.md "wikilink")1日目である火曜日は第3位、翌日の集計2日目にして発売日である水曜日では自身初となる首位を獲得するなど、好調なスタートを切った。その際、ボーカルTAKUYA∞は公式サイト上にて喜びのコメントを発表している。週間チャートでは、第2位を記録。これにより、2006年に発表した1stアルバム『[Timeless](../Page/Timeless_\(UVERworldのアルバム\).md "wikilink")』の最高5位、初動売上枚数を大きく更新した。
 
-本作は、初回生産限定盤と通常盤の2形態での発売。ジャケットも、初回生産限定盤はイラストジャケット・通常盤はアーティスト写真とそれぞれ異なっている。また、初回限定版のCDには6thシングル「[君の好きなうた](https://ja.wikipedia.org/wiki/君の好きなうた "wikilink")」のアコースティックバージョンを、DVDには4thシングル「[Colors of the Heart](https://ja.wikipedia.org/wiki/Colors_of_the_Heart "wikilink")」から6thシングル「君の好きなうた」までの[PVと今作の製作ドキュメンタリー](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、また同日発売となったアーティストブック「CLASS WORD」の撮影ドキュメンタリーを収録している。
+本作は、初回生産限定盤と通常盤の2形態での発売。ジャケットも、初回生産限定盤はイラストジャケット・通常盤はアーティスト写真とそれぞれ異なっている。また、初回限定版のCDには6thシングル「[君の好きなうた](../Page/君の好きなうた.md "wikilink")」のアコースティックバージョンを、DVDには4thシングル「[Colors of the Heart](../Page/Colors_of_the_Heart.md "wikilink")」から6thシングル「君の好きなうた」までの[PVと今作の製作ドキュメンタリー](../Page/ミュージック・ビデオ.md "wikilink")、また同日発売となったアーティストブック「CLASS WORD」の撮影ドキュメンタリーを収録している。
 
 本作のジャケット裏にTAKUYA∞の「自分で選んだ夢を正解にするため、毎日“今日が人生最後の日”と想って、後悔のないよう突き進みたい。」というTAKUYA∞自身の座右の銘が書かれてある。
 
@@ -33,10 +33,10 @@
       - 作曲：彰
     <!-- end list -->
       -
-        このアルバムのリードトラック。[PVも製作されている](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。PlayStation 2専用ソフト『[無双OROCHI](../Page/無双OROCHI.md "wikilink")』のCMイメージソング。「ゼロ」とは「死」のことで、この曲は死に対するTAKUYA∞なりの答えを導いた曲。この曲のPVは活動再開直後に撮られたものであり、TAKUYA∞と克哉は髪型を変えていた。克哉はデビュー時のころのような髪の短さになっている。TAKUYA∞は短髪にしていた。撮影場所は栃木県の採掘現場で、特撮ヒーローの撮影が観られたと語っている。
-2.  **[SHAMROCK](https://ja.wikipedia.org/wiki/SHAMROCK_\(曲\) "wikilink")**\[4:08\]
+        このアルバムのリードトラック。[PVも製作されている](../Page/ミュージック・ビデオ.md "wikilink")。PlayStation 2専用ソフト『[無双OROCHI](../Page/無双OROCHI.md "wikilink")』のCMイメージソング。「ゼロ」とは「死」のことで、この曲は死に対するTAKUYA∞なりの答えを導いた曲。この曲のPVは活動再開直後に撮られたものであり、TAKUYA∞と克哉は髪型を変えていた。克哉はデビュー時のころのような髪の短さになっている。TAKUYA∞は短髪にしていた。撮影場所は栃木県の採掘現場で、特撮ヒーローの撮影が観られたと語っている。
+2.  **[SHAMROCK](../Page/SHAMROCK_\(曲\).md "wikilink")**\[4:08\]
       -
-        5thシングル。[フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")・『[ダンドリ。〜Dance☆Drill〜](https://ja.wikipedia.org/wiki/ダンドリ。〜Dance☆Drill〜 "wikilink")』、『[ダンドリ娘](../Page/ダンドリ娘.md "wikilink")』主題歌。『[music.jp](https://ja.wikipedia.org/wiki/music.jp "wikilink")』[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。
+        5thシングル。[フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")・『[ダンドリ。〜Dance☆Drill〜](../Page/ダンドリ。〜Dance☆Drill〜.md "wikilink")』、『[ダンドリ娘](../Page/ダンドリ娘.md "wikilink")』主題歌。『[music.jp](https://ja.wikipedia.org/wiki/music.jp "wikilink")』[CMソング](../Page/コマーシャルソング.md "wikilink")。
 3.  **Home 微熱39℃**\[4:38\]
       - 作曲：UVERworld
     <!-- end list -->
@@ -47,9 +47,9 @@
     <!-- end list -->
       -
         『[The songs for DEATH NOTE the movie 〜the Last name TRIBUTE〜](../Page/The_songs_for_DEATH_NOTE_the_movie_〜the_Last_name_TRIBUTE〜.md "wikilink")』にも「〜流れ・空虚・THIS WORD〜(D.N.version)」として収録されている。始めにある掛け声「ワン、ツー」というのは真太郎が言っており、ライブでも同じように叫んでいる。
-5.  **[Colors of the Heart](https://ja.wikipedia.org/wiki/Colors_of_the_Heart "wikilink")**\[3:52\]
+5.  **[Colors of the Heart](../Page/Colors_of_the_Heart.md "wikilink")**\[3:52\]
       -
-        4thシングル。TBS系アニメ『[BLOOD+](https://ja.wikipedia.org/wiki/BLOOD+ "wikilink")』オープニングテーマ。
+        4thシングル。TBS系アニメ『[BLOOD+](../Page/BLOOD+.md "wikilink")』オープニングテーマ。
 6.  **Live everyday as if it were the last day**\[3:23\]
       - 作曲：TAKUYA∞
     <!-- end list -->
@@ -65,9 +65,9 @@
     <!-- end list -->
       -
         4thシングルのカップリング曲。
-9.  **[君の好きなうた](https://ja.wikipedia.org/wiki/君の好きなうた "wikilink")**\[4:17\]
+9.  **[君の好きなうた](../Page/君の好きなうた.md "wikilink")**\[4:17\]
       -
-        6thシングル。[TBS](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")『[恋するハニカミ\!](../Page/恋するハニカミ!.md "wikilink")』10〜12月テーマソング。
+        6thシングル。[TBS](../Page/TBSテレビ.md "wikilink")『[恋するハニカミ\!](../Page/恋するハニカミ!.md "wikilink")』10〜12月テーマソング。
 10. **51%**\[3:42\]
       - 作曲：TAKUYA∞
     <!-- end list -->
@@ -88,7 +88,7 @@
       - 作曲:TAKUYA∞
     <!-- end list -->
       -
-        「この曲があるからこそ、UVERworldとしての次の一歩を踏み出していける」と克哉は語る。TAKUYA∞曰く「歌うのに苦労した」。着うたメドレーの投票で1位を獲得した。「DISCORD」の和訳は「不協和音」であり、TAKUYA∞が現代社会で、学校や会社などで生きる苦しみを背負った「不協和音」を持っている様々な人に向けて作った曲。後にリリースされる、9thシングル「[浮世CROSSING](https://ja.wikipedia.org/wiki/浮世CROSSING "wikilink")」では、ファンのコーラスの声を収録した「DISCORD〜your voices mix〜」が収録され、また少しアレンジが加えられている。
+        「この曲があるからこそ、UVERworldとしての次の一歩を踏み出していける」と克哉は語る。TAKUYA∞曰く「歌うのに苦労した」。着うたメドレーの投票で1位を獲得した。「DISCORD」の和訳は「不協和音」であり、TAKUYA∞が現代社会で、学校や会社などで生きる苦しみを背負った「不協和音」を持っている様々な人に向けて作った曲。後にリリースされる、9thシングル「[浮世CROSSING](../Page/浮世CROSSING.md "wikilink")」では、ファンのコーラスの声を収録した「DISCORD〜your voices mix〜」が収録され、また少しアレンジが加えられている。
 14. **君の好きなうた (Acoustic Version)**\[5:02\]
       -
         6thシングルのアコースティックバージョン。
@@ -126,7 +126,7 @@
   - TAKUYA∞：[Vocal](https://ja.wikipedia.org/wiki/ボーカル "wikilink") & [Programming](../Page/デスクトップミュージック.md "wikilink")
   - 克哉：[Guitar](../Page/ギター.md "wikilink")
   - 彰：Guitar
-  - 信人：[Bass](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - 信人：[Bass](../Page/ベース_\(弦楽器\).md "wikilink")
   - 真太郎：[Drums](../Page/ドラムセット.md "wikilink")
 
 <!-- end list -->
@@ -135,7 +135,7 @@
 
 <!-- end list -->
 
-  - [弦一徹ストリングス](https://ja.wikipedia.org/wiki/落合徹也 "wikilink")：[Strings](https://ja.wikipedia.org/wiki/ストリングス "wikilink") (\#9,14)
+  - [弦一徹ストリングス](../Page/落合徹也.md "wikilink")：[Strings](https://ja.wikipedia.org/wiki/ストリングス "wikilink") (\#9,14)
 
 ## 脚注
 

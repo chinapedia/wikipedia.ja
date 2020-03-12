@@ -26,7 +26,7 @@
 
 ### ISS とのドッキング
 
-  - **ドッキング**: [2000年](../Page/2000年.md "wikilink")[10月13日](https://ja.wikipedia.org/wiki/10月13日 "wikilink") 17:45:10 UTC
+  - **ドッキング**: [2000年](../Page/2000年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink") 17:45:10 UTC
   - **切り離し**: [2000年](../Page/2000年.md "wikilink")[10月20日](../Page/10月20日.md "wikilink") 15:08:39 UTC
   - **ドッキング期間**: 6日21時間23分29秒
 
@@ -45,13 +45,13 @@
   - **EVA 3 終了**: 10月17日 - 21:18 UTC
   - **期間**: 6時間48分
   - ''''' ロペス＝アレグリアとワイゾフ ''''' - EVA 4
-  - **EVA 4 開始**: [2000年](../Page/2000年.md "wikilink")[10月18日](https://ja.wikipedia.org/wiki/10月18日 "wikilink") - 15:00 UTC
+  - **EVA 4 開始**: [2000年](../Page/2000年.md "wikilink")[10月18日](../Page/10月18日.md "wikilink") - 15:00 UTC
   - **EVA 4 終了**: 10月18日 - 21:56 UTC
   - **期間**: 6時間56分
 
 ## ミッションのハイライト
 
-[rightSTS](https://ja.wikipedia.org/wiki/ファイル:NASA_Space_Shuttle_Discovery_STS-92.jpg "wikilink")-92 は国際宇宙ステーション (ISS) の組み立てミッション（3Aフライト）であり、Z1[トラス](https://ja.wikipedia.org/wiki/ISSトラス構造体 "wikilink")、[コントロール・モーメント・ジャイロ](https://ja.wikipedia.org/wiki/コントロール・モーメント・ジャイロ "wikilink") ([CMG](https://ja.wikipedia.org/wiki/:en:Control_moment_gyroscope "wikilink"))(注：CMGはZ1トラスに装備)、[与圧結合アダプタ](https://ja.wikipedia.org/wiki/与圧結合アダプタ "wikilink")3 ([PMA-3](https://ja.wikipedia.org/wiki/:en:Pressurized_Mating_Adapter "wikilink"))、2基の DDCU （直流変圧器）を運搬した。
+[rightSTS](https://ja.wikipedia.org/wiki/ファイル:NASA_Space_Shuttle_Discovery_STS-92.jpg "wikilink")-92 は国際宇宙ステーション (ISS) の組み立てミッション（3Aフライト）であり、Z1[トラス](https://ja.wikipedia.org/wiki/ISSトラス構造体 "wikilink")、[コントロール・モーメント・ジャイロ](https://ja.wikipedia.org/wiki/コントロール・モーメント・ジャイロ "wikilink") ([CMG](https://ja.wikipedia.org/wiki/:en:Control_moment_gyroscope "wikilink"))(注：CMGはZ1トラスに装備)、[与圧結合アダプタ](../Page/与圧結合アダプタ.md "wikilink")3 ([PMA-3](https://ja.wikipedia.org/wiki/:en:Pressurized_Mating_Adapter "wikilink"))、2基の DDCU （直流変圧器）を運搬した。
 
 Z1トラスは ISS の外部構造物で、[ユニティの上部結合機構に取り付けられた](../Page/ユニティ_\(ISS\).md "wikilink")。次の4Aフライトで、このZ1トラスの上に米国製太陽電池パドルを装備したP6トラスを取り付けられるために必要な構造である。Z1トラスには、Kuバンド通信システムも装備している。コントロール・モーメント・ジャイロ (CMG) は、5Aフライトで起動されてモータで回転体を駆動することで姿勢制御（推進力は無い）を行なう。PMA-3は、太陽電池パドルを取り付ける4Aフライトと、実験棟を取り付ける5Aフライトでのシャトルのドッキングポートとなる。
 

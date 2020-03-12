@@ -5,9 +5,9 @@
 
 ## 生涯
 
-[ムンバイ](https://ja.wikipedia.org/wiki/ムンバイ "wikilink")生まれ。裕福な[パールシー](../Page/パールシー.md "wikilink")（ペルシャ系インド人）の[ゾロアスター教](../Page/ゾロアスター教.md "wikilink")徒であり、インドの2大財閥のひとつの[タタ財閥一族を親類に持つ](../Page/タタ・グループ.md "wikilink")。[ケンブリッジ大学](../Page/ケンブリッジ大学.md "wikilink")で機械工学を学び、[ポール・ディラック](../Page/ポール・ディラック.md "wikilink")に影響を受け理論物理学に進んだ。1935年、ケンブリッジ大学で学位を得た。宇宙線シャワーの分野で功績をあげた。1939年インドに戻り、[バンガロール](https://ja.wikipedia.org/wiki/バンガロール "wikilink")の[インド理科大学院](https://ja.wikipedia.org/wiki/インド理科大学院 "wikilink")で[チャンドラセカール・ラマン](https://ja.wikipedia.org/wiki/チャンドラセカール・ラマン "wikilink")のもとで働いた。
+[ムンバイ](../Page/ムンバイ.md "wikilink")生まれ。裕福な[パールシー](../Page/パールシー.md "wikilink")（ペルシャ系インド人）の[ゾロアスター教](../Page/ゾロアスター教.md "wikilink")徒であり、インドの2大財閥のひとつの[タタ財閥一族を親類に持つ](../Page/タタ・グループ.md "wikilink")。[ケンブリッジ大学](../Page/ケンブリッジ大学.md "wikilink")で機械工学を学び、[ポール・ディラック](../Page/ポール・ディラック.md "wikilink")に影響を受け理論物理学に進んだ。1935年、ケンブリッジ大学で学位を得た。宇宙線シャワーの分野で功績をあげた。1939年インドに戻り、[バンガロール](https://ja.wikipedia.org/wiki/バンガロール "wikilink")の[インド理科大学院](../Page/インド理科大学院.md "wikilink")で[チャンドラセカール・ラマン](../Page/チャンドラセカール・ラマン.md "wikilink")のもとで働いた。
 
-1941年[王立協会フェロー](https://ja.wikipedia.org/wiki/王立協会フェロー "wikilink")選出。1945年、ムンバイに叔父のJ・R・D・タタの援助を受けて、Institute of Fundamental Research を設立し所長となった。戦後、[ジャワハルラール・ネルー](https://ja.wikipedia.org/wiki/ジャワハルラール・ネルー "wikilink")首相の知己を得て、インドの核エネルギー開発のリーダーとなり、多くのインドの核物理学者を育成し、国際的な活動を行った。
+1941年[王立協会フェロー](https://ja.wikipedia.org/wiki/王立協会フェロー "wikilink")選出。1945年、ムンバイに叔父のJ・R・D・タタの援助を受けて、Institute of Fundamental Research を設立し所長となった。戦後、[ジャワハルラール・ネルー](../Page/ジャワハルラール・ネルー.md "wikilink")首相の知己を得て、インドの核エネルギー開発のリーダーとなり、多くのインドの核物理学者を育成し、国際的な活動を行った。
 
 1966年ヨーロッパへ向かう航空機の事故（[インド航空101便墜落事故](https://ja.wikipedia.org/wiki/インド航空101便墜落事故 "wikilink")）で死亡した。
 

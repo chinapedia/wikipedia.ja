@@ -1,7 +1,7 @@
 > この記事は[KYT News](https://ja.wikipedia.org/wiki/KYT_News)から翻訳されています。
 
 
-『**KYT NEWSリアルタイム**』（ケイワイティー ニュースリアルタイム）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで[鹿児島読売テレビ](../Page/鹿児島讀賣テレビ.md "wikilink") (KYT) で放送されていたローカル[ニュース番組である](../Page/報道番組.md "wikilink")。
+『**KYT NEWSリアルタイム**』（ケイワイティー ニュースリアルタイム）は、[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで[鹿児島読売テレビ](../Page/鹿児島讀賣テレビ.md "wikilink") (KYT) で放送されていたローカル[ニュース番組である](../Page/報道番組.md "wikilink")。
 
 ## 放送時間
 
@@ -35,7 +35,7 @@
 
 土曜日や年末には、内田と山下以外のKYTアナウンサーが[シフト勤務](../Page/シフト勤務.md "wikilink")で担当していた。番組終了時のキャスターは後番組『KYT news every.』にも続投。
 
-  - [内田直之](https://ja.wikipedia.org/wiki/内田直之 "wikilink") - メインキャスター。
+  - [内田直之](../Page/内田直之.md "wikilink") - メインキャスター。
   - [山下香織](https://ja.wikipedia.org/wiki/山下香織 "wikilink") - メインキャスター。
   - [岡本善久](../Page/岡本善久.md "wikilink") - サブキャスター。
   - [竹ノ内靜明](https://ja.wikipedia.org/wiki/竹ノ内靜明 "wikilink")（[気象予報士](../Page/気象予報士.md "wikilink")）
@@ -58,7 +58,7 @@
   -
 
       -
-        [西日本高速道路](https://ja.wikipedia.org/wiki/西日本高速道路 "wikilink")・[鹿児島県警察](../Page/鹿児島県警察.md "wikilink")・[国土交通省](../Page/国土交通省.md "wikilink")などに道路や標識の改善を要求するコーナー。担当は岡本善久。『KYTニュースプラス1』時代から続くコーナーで、2007年5月に100回を迎えた。
+        [西日本高速道路](../Page/西日本高速道路.md "wikilink")・[鹿児島県警察](../Page/鹿児島県警察.md "wikilink")・[国土交通省](../Page/国土交通省.md "wikilink")などに道路や標識の改善を要求するコーナー。担当は岡本善久。『KYTニュースプラス1』時代から続くコーナーで、2007年5月に100回を迎えた。
 
   - 知ットク\!（毎週金曜日→毎週木曜日（新・知っトク！）→2008年4月より毎週金曜日（「新」が外れる））
     アナウンサーがハンディカメラを手にして店などをリポート。『ニュースプラス1』時代にあった同様のコーナー「得トク隊」をリニューアルしたものである。
@@ -72,34 +72,34 @@
 ### 途中で終了したコーナー
 
   - 週末ナビ（毎週金曜日・2008年3月まで）
-    高橋友希と竹ノ内靜明が県内各地へ出向き、現地での週末情報を担当者を招いて伝えていたコーナー。[フレスポジャングルパーク](https://ja.wikipedia.org/wiki/フレスポジャングルパーク "wikilink")からの中継が多かった。天気予報もここから放送。
+    高橋友希と竹ノ内靜明が県内各地へ出向き、現地での週末情報を担当者を招いて伝えていたコーナー。[フレスポジャングルパーク](../Page/フレスポジャングルパーク.md "wikilink")からの中継が多かった。天気予報もここから放送。
   - エンタメSPORTS
     ワールドカップ2006開催期間中のみ、オープニングタイトルと後半部分を除いてネット。『ニュースプラス1』時代にもネットしていたが、KYTで独自にコーナー名を変更したためか打ち切り扱いのため、オープニングタイトルを流さない。
   - おしえてかごデジ（2006年11月）
-    同年12月1日からKYTでも地上デジタル放送が行われるのに合わせ、[地上デジタル放送推進大使](https://ja.wikipedia.org/wiki/地上デジタル放送推進大使 "wikilink")である徳住有香が視聴者などからの疑問・質問に答えていたコーナー。
+    同年12月1日からKYTでも地上デジタル放送が行われるのに合わせ、[地上デジタル放送推進大使](../Page/地上デジタル放送推進大使.md "wikilink")である徳住有香が視聴者などからの疑問・質問に答えていたコーナー。
   - 50円クッキング
     料理コーナー。当初は水曜に放送されていたが、後に木曜に変更。2009年9月まで本番組内で放送された後、同年10月に日曜昼前のミニ番組として単独番組化した。タイトルは『行長万里の50円クッキング』→『行長万里のsu+mart Cooking』。
 
 ## 歴代エンディング曲
 
   - 初代
-      - I'll be there （[CANCION](https://ja.wikipedia.org/wiki/CANCION "wikilink")、2006年4月3日以降）
+      - I'll be there （[CANCION](../Page/CANCION.md "wikilink")、2006年4月3日以降）
   - 2代
       - きずな（[川野静香](https://ja.wikipedia.org/wiki/川野静香 "wikilink")、2006年8月14日以降） - 『[24時間テレビ](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink")』KYTローカルパートの2006年用テーマソングとしても使用。
   - 3代
       - ホームタウン（[福井静](https://ja.wikipedia.org/wiki/福井静 "wikilink")、2006年10月2日以降）
   - 4代
-      - すばらしい世界（[SOUTH BLOW](https://ja.wikipedia.org/wiki/SOUTH_BLOW "wikilink")、2006年12月1日以降） - 年末短縮版でも使用。
+      - すばらしい世界（[SOUTH BLOW](../Page/SOUTH_BLOW.md "wikilink")、2006年12月1日以降） - 年末短縮版でも使用。
   - 5代
-      - 春色（[大山百合香](https://ja.wikipedia.org/wiki/大山百合香 "wikilink")、2007年4月2日以降）
+      - 春色（[大山百合香](../Page/大山百合香.md "wikilink")、2007年4月2日以降）
   - 6代
-      - また帰るから（[アンダーグラフ](https://ja.wikipedia.org/wiki/アンダーグラフ "wikilink")、2007年4月30日以降）
+      - また帰るから（[アンダーグラフ](../Page/アンダーグラフ.md "wikilink")、2007年4月30日以降）
   - 7代
       - 特攻花（[dokidoki](https://ja.wikipedia.org/wiki/dokidoki "wikilink")、2007年8月1日以降） - 『24時間テレビ』KYTローカルパートの2007年用テーマソングとしても使用。
   - 8代
-      - 月の雫（[我那覇美奈](https://ja.wikipedia.org/wiki/我那覇美奈 "wikilink")、2007年10月1日以降） - 年末短縮版では未使用。
+      - 月の雫（[我那覇美奈](../Page/我那覇美奈.md "wikilink")、2007年10月1日以降） - 年末短縮版では未使用。
   - 9代
-      - 地球兄弟（[中孝介](https://ja.wikipedia.org/wiki/中孝介 "wikilink")、2008年1月7日以降）
+      - 地球兄弟（[中孝介](../Page/中孝介.md "wikilink")、2008年1月7日以降）
   - 10代
       - ゆらゆら（[多和田えみ](https://ja.wikipedia.org/wiki/多和田えみ "wikilink")、2008年3月31日以降）
   - 11代
@@ -109,13 +109,13 @@
   - 13代
       - promising （[FatProp](https://ja.wikipedia.org/wiki/FatProp "wikilink")、2008年8月4日以降） - 『24時間テレビ』KYTローカルパートの2008年用テーマソングとしても使用。
   - 14代
-      - 不明（[中孝介](https://ja.wikipedia.org/wiki/中孝介 "wikilink")、2008年12月26日）
+      - 不明（[中孝介](../Page/中孝介.md "wikilink")、2008年12月26日）
   - 15代
       - 不明（2009年1月5日以降）
   - 16代
       - 東京タワー（[矢野真紀](https://ja.wikipedia.org/wiki/矢野真紀 "wikilink")、2009年3月30日以降）
   - 17代
-      - ありがとう〜知覧よりの手紙〜（[千綿偉功](https://ja.wikipedia.org/wiki/千綿偉功 "wikilink")、2009年7月1日以降）
+      - ありがとう〜知覧よりの手紙〜（[千綿偉功](../Page/千綿偉功.md "wikilink")、2009年7月1日以降）
   - 18代
       - NEWSリアルタイム エンディング NNN （2009年10月5日以降）
 

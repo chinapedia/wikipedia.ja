@@ -1,11 +1,11 @@
 > この記事は[MZ](https://ja.wikipedia.org/wiki/MZ)から翻訳されています。
 
 
-**MZエンジン**とは、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[V型6気筒](https://ja.wikipedia.org/wiki/V型6気筒 "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")の[系列である](https://ja.wikipedia.org/wiki/トヨタ・エンジン系列名 "wikilink")。
+**MZエンジン**とは、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[V型6気筒](../Page/V型6気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")の[系列である](https://ja.wikipedia.org/wiki/トヨタ・エンジン系列名 "wikilink")。
 
-初出は[アバロンに搭載された](https://ja.wikipedia.org/wiki/トヨタ・アバロン "wikilink")「1MZ-FE」3000ccである。排気量が2500cc、3300ccのエンジンも存在する。
+初出は[アバロンに搭載された](../Page/トヨタ・アバロン.md "wikilink")「1MZ-FE」3000ccである。排気量が2500cc、3300ccのエンジンも存在する。
 
-その後[GRエンジンへ発展している](https://ja.wikipedia.org/wiki/トヨタ・GRエンジン "wikilink")。
+その後[GRエンジンへ発展している](../Page/トヨタ・GRエンジン.md "wikilink")。
 
 ## 系譜
 
@@ -30,11 +30,11 @@
 
 ＜搭載車種＞
 
-  - [アバロン](https://ja.wikipedia.org/wiki/トヨタ・アバロン "wikilink")
+  - [アバロン](../Page/トヨタ・アバロン.md "wikilink")
   - [プロナード](../Page/トヨタ・プロナード.md "wikilink")
-  - [ウィンダム](https://ja.wikipedia.org/wiki/トヨタ・ウィンダム "wikilink")
-  - [マークIIクオリス](https://ja.wikipedia.org/wiki/トヨタ・マークIIクオリス "wikilink")
-  - [ハリアー](https://ja.wikipedia.org/wiki/トヨタ・ハリアー "wikilink")
+  - [ウィンダム](../Page/トヨタ・ウィンダム.md "wikilink")
+  - [マークIIクオリス](../Page/トヨタ・マークIIクオリス.md "wikilink")
+  - [ハリアー](../Page/トヨタ・ハリアー.md "wikilink")
   - [エスティマ](../Page/トヨタ・エスティマ.md "wikilink")
   - [アルファード](../Page/トヨタ・アルファード.md "wikilink")
   - [クルーガー](../Page/トヨタ・クルーガー.md "wikilink")
@@ -53,9 +53,9 @@
 
 ＜搭載車種＞
 
-  - [ウィンダム](https://ja.wikipedia.org/wiki/トヨタ・ウィンダム "wikilink")
+  - [ウィンダム](../Page/トヨタ・ウィンダム.md "wikilink")
   - [カムリ（グラシア）](https://ja.wikipedia.org/wiki/トヨタ・カムリ "wikilink")
-  - [マークIIクオリス](https://ja.wikipedia.org/wiki/トヨタ・マークIIクオリス "wikilink")
+  - [マークIIクオリス](../Page/トヨタ・マークIIクオリス.md "wikilink")
 
 ### 3MZ-FE
 
@@ -71,7 +71,7 @@
 
 ＜搭載車種＞
 
-  - [トヨタ・ハリアーハイブリッド](https://ja.wikipedia.org/wiki/トヨタ・ハリアーハイブリッド "wikilink")
+  - [トヨタ・ハリアーハイブリッド](../Page/トヨタ・ハリアーハイブリッド.md "wikilink")
   - [クルーガーハイブリッド](../Page/トヨタ・クルーガー.md "wikilink")
   - [ES330](https://ja.wikipedia.org/wiki/レクサス・ES "wikilink")（海外仕様）
   - [RX330](../Page/レクサス・RX.md "wikilink")、[RX400h](../Page/レクサス・RX.md "wikilink")（海外仕様）
@@ -81,12 +81,12 @@
 
 ### 1MZ-FE - 3000cc
 
-  - （初）初代・2代目[アバロン](https://ja.wikipedia.org/wiki/トヨタ・アバロン "wikilink")（MCX10/20）
+  - （初）初代・2代目[アバロン](../Page/トヨタ・アバロン.md "wikilink")（MCX10/20）
   - [プロナード](../Page/トヨタ・プロナード.md "wikilink")（MCX20）
   - 2代目[ES300](https://ja.wikipedia.org/wiki/レクサス・ES "wikilink")（MCV30）
-  - 2代目・3代目[ウィンダム](https://ja.wikipedia.org/wiki/トヨタ・ウィンダム "wikilink")（MCV20-A/30-B）
+  - 2代目・3代目[ウィンダム](../Page/トヨタ・ウィンダム.md "wikilink")（MCV20-A/30-B）
   - 初代[RX300](../Page/レクサス・RX.md "wikilink")（MCU30）
-  - 初代・2代目[ハリアー](https://ja.wikipedia.org/wiki/トヨタ・ハリアー "wikilink")（MCU10W/15W/30W/31W/35W/36W）
+  - 初代・2代目[ハリアー](../Page/トヨタ・ハリアー.md "wikilink")（MCU10W/15W/30W/31W/35W/36W）
   - [マークIIクオリス](../Page/トヨタ・マークII.md "wikilink")（MCV20W-H/25W-H）
   - 2代目[エスティマ](../Page/トヨタ・エスティマ.md "wikilink")（MCR30W/40W）
   - [クルーガー](../Page/トヨタ・クルーガー.md "wikilink")（MCU20W/25W）
@@ -94,15 +94,15 @@
 
 ### 2MZ-FE - 2500cc
 
-  - （初）2代目[ウィンダム](https://ja.wikipedia.org/wiki/トヨタ・ウィンダム "wikilink")（MCV21-A）
-  - [マークIIクオリス](https://ja.wikipedia.org/wiki/トヨタ・マークIIクオリス "wikilink")（MCV21W-H）
+  - （初）2代目[ウィンダム](../Page/トヨタ・ウィンダム.md "wikilink")（MCV21-A）
+  - [マークIIクオリス](../Page/トヨタ・マークIIクオリス.md "wikilink")（MCV21W-H）
   - 6代目[カムリ（グラシア）](https://ja.wikipedia.org/wiki/トヨタ・カムリ "wikilink")（MCV21-F/25-F）
 
 ### 3MZ-FE - 3300cc
 
   - （初）4代目[ES330](https://ja.wikipedia.org/wiki/レクサス・ES "wikilink")（MCV31L）
   - 2代目[RX330](../Page/レクサス・RX.md "wikilink")（GSU3\#W）
-  - [トヨタ・ハリアーハイブリッド](https://ja.wikipedia.org/wiki/トヨタ・ハリアーハイブリッド "wikilink")（MHU38W）
+  - [トヨタ・ハリアーハイブリッド](../Page/トヨタ・ハリアーハイブリッド.md "wikilink")（MHU38W）
   - [クルーガーハイブリッド](../Page/トヨタ・クルーガー.md "wikilink")（MHU28）
   - [光岡・オロチ](../Page/光岡・オロチ.md "wikilink")（大蛇）
 
@@ -112,6 +112,6 @@
   - [トヨタのエンジン型式一覧](../Page/トヨタのエンジン型式一覧.md "wikilink")
   - [トヨタのエンジン型式命名規則](https://ja.wikipedia.org/wiki/トヨタのエンジン型式命名規則 "wikilink")
   - [トヨタのエンジン系列名](../Page/トヨタのエンジン系列名.md "wikilink")
-  - [レクサス](https://ja.wikipedia.org/wiki/レクサス "wikilink")
+  - [レクサス](../Page/レクサス.md "wikilink")
 
 [Category:トヨタ自動車のエンジン](https://ja.wikipedia.org/wiki/Category:トヨタ自動車のエンジン "wikilink")

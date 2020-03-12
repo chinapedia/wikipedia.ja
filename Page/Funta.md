@@ -7,14 +7,14 @@
 
 ### 履歴
 
-宅録デジタルパンクユニットと名乗り、結成以前は「ハイ・エンゲル（HI∞ENGEL）」というバンドを組んでいた。[シングル](../Page/シングル.md "wikilink")『[顔でかーい](https://ja.wikipedia.org/wiki/顔でかーい "wikilink")』で、[メジャーデビュー](https://ja.wikipedia.org/wiki/メジャーデビュー "wikilink")を果たす。その後はしばらく[レコード会社](https://ja.wikipedia.org/wiki/レコード会社 "wikilink")を離れて、[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")・[コーラスをメインに活動していたが](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、シングル『Wake up Angel 〜ねがいましては∞（無限）なり〜』で、メジャー活動を再開する。現在は作家業を中心に活動している。なお近年では**Funta7**や**Funta3**名義で提供する場合もある。（特に海外で利用されることを念頭に置いた場合）ユニット名より個人名で届け出た方がよいとJASRACから指摘を受けたためであり、名前と名義の使い分けに特に意味はないという\[1\]。
+宅録デジタルパンクユニットと名乗り、結成以前は「ハイ・エンゲル（HI∞ENGEL）」というバンドを組んでいた。[シングル](../Page/シングル.md "wikilink")『[顔でかーい](https://ja.wikipedia.org/wiki/顔でかーい "wikilink")』で、[メジャーデビュー](https://ja.wikipedia.org/wiki/メジャーデビュー "wikilink")を果たす。その後はしばらく[レコード会社](../Page/レコード会社.md "wikilink")を離れて、[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")・[コーラスをメインに活動していたが](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、シングル『Wake up Angel 〜ねがいましては∞（無限）なり〜』で、メジャー活動を再開する。現在は作家業を中心に活動している。なお近年では**Funta7**や**Funta3**名義で提供する場合もある。（特に海外で利用されることを念頭に置いた場合）ユニット名より個人名で届け出た方がよいとJASRACから指摘を受けたためであり、名前と名義の使い分けに特に意味はないという\[1\]。
 
-ユニット名の由来は「ユニット名を考えている時、その場に[ファンタの缶があったからそこから取っちゃいました](https://ja.wikipedia.org/wiki/ファンタ_\(飲料\) "wikilink")」と答えている\[2\]。
+ユニット名の由来は「ユニット名を考えている時、その場に[ファンタの缶があったからそこから取っちゃいました](../Page/ファンタ_\(飲料\).md "wikilink")」と答えている\[2\]。
 
 ### 人物
 
-  - **[UCO](https://ja.wikipedia.org/wiki/U_\(歌手\) "wikilink")**（ゆーこ）[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・作詞・作曲担当／[6月25日](../Page/6月25日.md "wikilink")生まれ／[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")／[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身
-  - **吉見**（よしみ）[ギター](../Page/ギター.md "wikilink")・[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")・[キーボード](../Page/キーボード_\(楽器\).md "wikilink")・作曲・編曲担当／[7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink")生まれ／[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")／[兵庫県](../Page/兵庫県.md "wikilink")出身
+  - **[UCO](../Page/U_\(歌手\).md "wikilink")**（ゆーこ）[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・作詞・作曲担当／[6月25日](../Page/6月25日.md "wikilink")生まれ／[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")／[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身
+  - **吉見**（よしみ）[ギター](../Page/ギター.md "wikilink")・[ベース](../Page/ベース_\(弦楽器\).md "wikilink")・[キーボード](../Page/キーボード_\(楽器\).md "wikilink")・作曲・編曲担当／[7月23日](../Page/7月23日.md "wikilink")生まれ／[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")／[兵庫県](../Page/兵庫県.md "wikilink")出身
 
 ## 作品
 
@@ -52,7 +52,7 @@
 <!-- end list -->
 
   -
-    [2002年](../Page/2002年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink")発売（[ランティス](https://ja.wikipedia.org/wiki/ランティス "wikilink")）
+    [2002年](../Page/2002年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink")発売（[ランティス](../Page/ランティス.md "wikilink")）
     1.  Wake up Angel 〜ねがいましては∞（無限）なり〜
           - テレビアニメ『[ぴたテン](../Page/ぴたテン.md "wikilink")』オープニングテーマ
     2.  We are all Dreamer
@@ -102,7 +102,7 @@
     2.  [オレンジ](https://ja.wikipedia.org/wiki/オレンジ_\(とらドラ!のキャラクターソング\) "wikilink")
           - 作詞：渡邊亜希子、作曲：Funta3、編曲：Funta7
     3.  ミリオン・ラブ
-          - 作詞・作曲：Funta、編曲：[小池雅也](https://ja.wikipedia.org/wiki/小池雅也 "wikilink")
+          - 作詞・作曲：Funta、編曲：[小池雅也](../Page/小池雅也.md "wikilink")
     4.  あなたも知らない恋の果てに
           - 作詞：UCO、作曲：UCO+吉見、編曲：Funta7
     5.  メリー
@@ -112,7 +112,7 @@
     7.  口移しのチョコレート
           - 作詞：[秋元康](../Page/秋元康.md "wikilink")、作曲：Funta7、編曲：[藤澤健至](https://ja.wikipedia.org/wiki/藤澤健至 "wikilink")
     8.  Sweet Duet
-          - 作詞：[三浦誠司](https://ja.wikipedia.org/wiki/三浦誠司 "wikilink")、作曲：Funta7、編曲：[佐藤準](https://ja.wikipedia.org/wiki/佐藤準 "wikilink")
+          - 作詞：[三浦誠司](https://ja.wikipedia.org/wiki/三浦誠司 "wikilink")、作曲：Funta7、編曲：[佐藤準](../Page/佐藤準.md "wikilink")
     9.  [レッツラブ〜でいきましょう♪](https://ja.wikipedia.org/wiki/いぇす!ゆゆゆ☆ゆるゆり♪♪ "wikilink")
           - 作詞：Funta7、作曲：Funta3、編曲：[草野よしひろ](https://ja.wikipedia.org/wiki/草野よしひろ "wikilink")
     10. [バニラソルト](https://ja.wikipedia.org/wiki/バニラソルト "wikilink")
@@ -137,7 +137,7 @@
       - Suggestion／Impact Blue／Darkness\&Madness（編曲）
   - [ぴたテン](../Page/ぴたテン.md "wikilink")
       - 薫のミラクル・スパイラル・ラブ\!（作曲）
-  - [妄想科学シリーズ ワンダバスタイル](https://ja.wikipedia.org/wiki/妄想科学シリーズ_ワンダバスタイル "wikilink")
+  - [妄想科学シリーズ ワンダバスタイル](../Page/妄想科学シリーズ_ワンダバスタイル.md "wikilink")
       - ロボット・ガール（作曲・編曲）
   - [グラビテーション](../Page/グラビテーション_\(漫画\).md "wikilink")
       - FAKE STAR（作詞）
@@ -148,13 +148,13 @@
       - しゅーてぃんすたー☆（作曲・編曲）
       - ぱらだいす／恋せよ乙女（作詞・作曲・編曲）
       - ま・た・ね（編曲）
-  - [うえきの法則](https://ja.wikipedia.org/wiki/うえきの法則 "wikilink")
+  - [うえきの法則](../Page/うえきの法則.md "wikilink")
       - Evolution（作曲・編曲）
       - MORE／road（作曲）
       - あの日から（作詞・作曲・編曲）
-  - [SoltyRei](https://ja.wikipedia.org/wiki/SoltyRei "wikilink")
+  - [SoltyRei](../Page/SoltyRei.md "wikilink")
       - believe...（作曲）
-  - [アイシールド21](https://ja.wikipedia.org/wiki/アイシールド21 "wikilink")
+  - [アイシールド21](../Page/アイシールド21.md "wikilink")
       - Go for it（作曲・編曲）
   - [陰からマモル\!](../Page/陰からマモル!.md "wikilink")
       - ミリオン・ラブ／rainy beat（作詞・作曲・編曲）
@@ -166,14 +166,14 @@
       - Promise you（作詞）
   - [capeta](https://ja.wikipedia.org/wiki/capeta "wikilink")
       - My Star（作詞・作曲）
-  - [ふしぎ星の☆ふたご姫](https://ja.wikipedia.org/wiki/ふしぎ星の☆ふたご姫 "wikilink")
+  - [ふしぎ星の☆ふたご姫](../Page/ふしぎ星の☆ふたご姫.md "wikilink")
       - 絶対的にミラクル（作詞・作曲・編曲）
   - [瀬戸の花嫁](https://ja.wikipedia.org/wiki/瀬戸の花嫁_\(漫画\) "wikilink")
       - Lunarian／your gravitation／祭りの詩／Wishing／ULTRA☆LOVE（作詞・作曲・編曲）
       - Who are you?（作曲）
-  - [ご愁傷さま二ノ宮くん](https://ja.wikipedia.org/wiki/ご愁傷さま二ノ宮くん "wikilink")
+  - [ご愁傷さま二ノ宮くん](../Page/ご愁傷さま二ノ宮くん.md "wikilink")
       - ユビキリ（編曲）
-  - [我が家のお稲荷さま。](https://ja.wikipedia.org/wiki/我が家のお稲荷さま。 "wikilink")
+  - [我が家のお稲荷さま。](../Page/我が家のお稲荷さま。.md "wikilink")
       - シアワセの言霊（作曲・編曲）
       - Believe, Believe（作曲・編曲）
       - Funky Foxy Lovely Time（作曲・編曲）
@@ -231,18 +231,18 @@
 
 ### ゲーム
 
-  - [アンジェリーク](https://ja.wikipedia.org/wiki/アンジェリーク "wikilink")
+  - [アンジェリーク](../Page/アンジェリーク.md "wikilink")
       - Cosmic Voyage／白昼夢 〜Secret Dream〜／希望の橋（作曲・編曲）
-  - [てんたま](https://ja.wikipedia.org/wiki/てんたま "wikilink")
+  - [てんたま](../Page/てんたま.md "wikilink")
       - Rebirth 〜どんなに遠く離れていても〜（作詞・作曲・編曲）
       - Little Twinkle Dream（作詞・作曲）
   - [ショコラ 〜maid cafe "curio"〜](../Page/ショコラ_〜maid_cafe_"curio"〜.md "wikilink")
       - ジグソーパズル（作詞）
-  - [White Princess 〜一途にイっても浮気してもOKなご都合主義学園恋愛アドベンチャー\!\!〜](https://ja.wikipedia.org/wiki/White_Princess_〜一途にイっても浮気してもOKなご都合主義学園恋愛アドベンチャー!!〜 "wikilink")
+  - [White Princess 〜一途にイっても浮気してもOKなご都合主義学園恋愛アドベンチャー\!\!〜](../Page/White_Princess_〜一途にイっても浮気してもOKなご都合主義学園恋愛アドベンチャー!!〜.md "wikilink")
       - Happiest Princess（作詞・作曲）
-  - [SHUFFLE\!](https://ja.wikipedia.org/wiki/SHUFFLE! "wikilink")
+  - [SHUFFLE\!](../Page/SHUFFLE!.md "wikilink")
       - イマジネーション／守ってあ・げ・る\!（作詞・作曲・編曲）
-  - [THE IDOLM@STER](https://ja.wikipedia.org/wiki/THE_IDOLM@STER "wikilink")
+  - [THE IDOLM@STER](../Page/THE_IDOLM@STER.md "wikilink")
       - メリー／サニー／クロスワード／チェリー／MOONY（作曲・編曲）
   - [アイドルマスター シンデレラガールズ](https://ja.wikipedia.org/wiki/アイドルマスター_シンデレラガールズ "wikilink")
       - Orange Sapphire（作詞・作曲・編曲）
@@ -260,12 +260,12 @@
 
   - [イヤホンズ](https://ja.wikipedia.org/wiki/イヤホンズ "wikilink")
       - [お買物めっちゃええねんチャンネルのうた](https://ja.wikipedia.org/wiki/MIRACLE_MYSTERY_TOUR "wikilink")（作曲・編曲）
-  - [みっくすJUICE](https://ja.wikipedia.org/wiki/みっくすJUICE "wikilink")
+  - [みっくすJUICE](../Page/みっくすJUICE.md "wikilink")
       - ロケット・ガール（作曲）
   - [椎名へきる](../Page/椎名へきる.md "wikilink")
       - Beside you／live to love 〜もう少し早く逢えたなら〜／あなたも知らない恋の果てに／海になれるよ（作詞・作曲）
       - Ride a wave／星の涙を（作詞）
-  - [中川亜紀子](https://ja.wikipedia.org/wiki/中川亜紀子 "wikilink")
+  - [中川亜紀子](../Page/中川亜紀子.md "wikilink")
       - ハレルヤ！（作詞・作曲）
   - [金月真美](../Page/金月真美.md "wikilink")
       - 青空（作詞）
@@ -285,20 +285,20 @@
       - 恋のルール（作曲）
   - [クローバー](../Page/クローバー_\(声優ユニット\).md "wikilink")
       - Love Chain／ハッピーエンド（作曲）
-  - [野川さくら](https://ja.wikipedia.org/wiki/野川さくら "wikilink")
+  - [野川さくら](../Page/野川さくら.md "wikilink")
       - 時の彼方（作詞・作曲・編曲）
 
 ### 歌手
 
-  - [小日向しえ](https://ja.wikipedia.org/wiki/小日向しえ "wikilink")
+  - [小日向しえ](../Page/小日向しえ.md "wikilink")
       - ピストル（作曲）
   - [推定少女](../Page/推定少女.md "wikilink")
       - 情報／ワレモノ／失恋ソング（作曲）
   - [遠藤久美子](https://ja.wikipedia.org/wiki/遠藤久美子 "wikilink")
       - ドルフィン（作曲・編曲）
-  - [ピポ☆エンジェルズ](https://ja.wikipedia.org/wiki/ピポ☆エンジェルズ "wikilink")
+  - [ピポ☆エンジェルズ](../Page/ピポ☆エンジェルズ.md "wikilink")
       - Luvly,Merry-Go-Round（作詞）
-  - [Whiteberry](https://ja.wikipedia.org/wiki/Whiteberry "wikilink")
+  - [Whiteberry](../Page/Whiteberry.md "wikilink")
       - 信じる力（作詞・作曲）
       - 一番星（作詞）
   - [AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")
@@ -310,7 +310,7 @@
       - [モテ期のうた〜season2〜](https://ja.wikipedia.org/wiki/告白_\(アイドリング!!!の曲\) "wikilink")（作曲・編曲）
       - [「職業:アイドル。」](https://ja.wikipedia.org/wiki/「職業:アイドル。」 "wikilink")（作曲・編曲 ただしFunta7名義）
       - [ラブマジック♡フィーバー](https://ja.wikipedia.org/wiki/ラブマジックフィーバー "wikilink")（作曲・編曲 ただしFunta7名義）
-  - [五井道子](https://ja.wikipedia.org/wiki/星野みちる "wikilink")
+  - [五井道子](../Page/星野みちる.md "wikilink")
       - 棺のなかで眠りたい（作曲・編曲）
 
 ### ドラマCD

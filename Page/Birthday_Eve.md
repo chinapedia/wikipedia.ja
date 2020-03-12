@@ -1,7 +1,7 @@
 > この記事は[Birthday Eve](https://ja.wikipedia.org/wiki/Birthday_Eve)から翻訳されています。
 
 
-『**Birthday Eve**』（バースデイ イブ）は、[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")の20枚目のシングルである。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月14日](../Page/12月14日.md "wikilink")に[rhythm zoneよりリリース](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。
+『**Birthday Eve**』（バースデイ イブ）は、[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")の20枚目のシングルである。[2005年](../Page/2005年.md "wikilink")[12月14日](../Page/12月14日.md "wikilink")に[rhythm zoneよりリリース](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 解説
 

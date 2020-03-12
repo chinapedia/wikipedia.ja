@@ -5,19 +5,19 @@
 
 ## 概要
 
-元町通り商店街振興組合が米子市や県、[米子商工会議所](https://ja.wikipedia.org/wiki/米子商工会議所 "wikilink")の[補助を受け](https://ja.wikipedia.org/wiki/補助金 "wikilink")、[1999年](../Page/1999年.md "wikilink")（[平成](../Page/平成.md "wikilink")11年）12月4日に開館した。総事業費は3880万円。レール総延長200メートル、山陰最大規模のジオラマ（1/150スケール）を目玉に、鉄道機器や鉄道写真などを展示していた。
+元町通り商店街振興組合が米子市や県、[米子商工会議所](https://ja.wikipedia.org/wiki/米子商工会議所 "wikilink")の[補助を受け](../Page/補助金.md "wikilink")、[1999年](../Page/1999年.md "wikilink")（[平成](../Page/平成.md "wikilink")11年）12月4日に開館した。総事業費は3880万円。レール総延長200メートル、山陰最大規模のジオラマ（1/150スケール）を目玉に、鉄道機器や鉄道写真などを展示していた。
 
   - 営業時間　平日：11:00 - 17:00 土、日、祝日：10:00 - 18:00
   - 休業日　水・木曜日
   - 入場料　無料
 
-採算性を理由に、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）3月31日限りで閉館した。現在は「DARAZ CREATE BOX」となっており、[DARAZコミュニティ放送](https://ja.wikipedia.org/wiki/DARAZコミュニティ放送 "wikilink")が入居している。
+採算性を理由に、[2006年](../Page/2006年.md "wikilink")（平成18年）3月31日限りで閉館した。現在は「DARAZ CREATE BOX」となっており、[DARAZコミュニティ放送](https://ja.wikipedia.org/wiki/DARAZコミュニティ放送 "wikilink")が入居している。
 
 ## やくも子
 
-同館で働いていた、[人型](https://ja.wikipedia.org/wiki/ヒューマノイド "wikilink")[ロボット](../Page/ロボット.md "wikilink")（[鉄道擬人化](../Page/鉄道擬人化.md "wikilink")）という架空の設定を持つ、[マスコット](https://ja.wikipedia.org/wiki/マスコット "wikilink")キャラクターである。
+同館で働いていた、[人型](../Page/ヒューマノイド.md "wikilink")[ロボット](../Page/ロボット.md "wikilink")（[鉄道擬人化](../Page/鉄道擬人化.md "wikilink")）という架空の設定を持つ、[マスコット](../Page/マスコット.md "wikilink")キャラクターである。
 
-[後藤総合車両所](https://ja.wikipedia.org/wiki/後藤総合車両所 "wikilink")ひみつ地下工場（らしい）ジオフロント作業区で生まれたとされる。身長は157センチ、特技は口から[吐瀉物](https://ja.wikipedia.org/wiki/吐瀉物 "wikilink")。電子頭脳は[MacG3並とされるが](../Page/Power_Macintosh.md "wikilink")、AI本来の学習機能に支障があるようで、（後述のヤクモコネットにおける[電子掲示板](../Page/電子掲示板.md "wikilink")の）日常的な[スパム攻撃に対応しきれていない](../Page/スパム_\(メール\).md "wikilink")。
+[後藤総合車両所](../Page/後藤総合車両所.md "wikilink")ひみつ地下工場（らしい）ジオフロント作業区で生まれたとされる。身長は157センチ、特技は口から[吐瀉物](../Page/吐瀉物.md "wikilink")。電子頭脳は[MacG3並とされるが](../Page/Power_Macintosh.md "wikilink")、AI本来の学習機能に支障があるようで、（後述のヤクモコネットにおける[電子掲示板](../Page/電子掲示板.md "wikilink")の）日常的な[スパム攻撃に対応しきれていない](../Page/スパム_\(メール\).md "wikilink")。
 
 自分の事を[マニア](../Page/マニア.md "wikilink")やヲタ（[おたく](../Page/おたく.md "wikilink")）として自称できる人となら、誰とでもお友達になる、フレンドリーな女の子（ロボット）という設定である。
 

@@ -5,9 +5,9 @@
 
 ## 解説
 
-初回盤は「[ファイナルファンタジー](https://ja.wikipedia.org/wiki/ファイナルファンタジー "wikilink")」の絵柄が付いている特殊パッケージ仕様で、「ファイナルファンタジー」の[トレーディングカード](../Page/トレーディングカード.md "wikilink")が封入されている。
+初回盤は「[ファイナルファンタジー](../Page/ファイナルファンタジー.md "wikilink")」の絵柄が付いている特殊パッケージ仕様で、「ファイナルファンタジー」の[トレーディングカード](../Page/トレーディングカード.md "wikilink")が封入されている。
 
-[ボーナス・トラック](https://ja.wikipedia.org/wiki/ボーナス・トラック "wikilink")として「1000の言葉」の未発表アレンジが収録されている。なお、初回盤に限っては現在入手困難となっている。
+[ボーナス・トラック](../Page/ボーナス・トラック.md "wikilink")として「1000の言葉」の未発表アレンジが収録されている。なお、初回盤に限っては現在入手困難となっている。
 
 ## 収録曲
 
@@ -16,7 +16,7 @@
 <!-- end list -->
 
 1.  **Teaser (feat.[Clench & Blistah](https://ja.wikipedia.org/wiki/Clench_&_Blistah "wikilink"))**
-      - 作詞:[S.Bennett](https://ja.wikipedia.org/wiki/S.Bennett "wikilink")・Clench・Blistah / 作曲:[渡辺未来](https://ja.wikipedia.org/wiki/渡辺未来 "wikilink") / 編曲:渡辺未来
+      - 作詞:[S.Bennett](https://ja.wikipedia.org/wiki/S.Bennett "wikilink")・Clench・Blistah / 作曲:[渡辺未来](../Page/渡辺未来.md "wikilink") / 編曲:渡辺未来
     <!-- end list -->
       -
         Blistahとは後に2006年も25thシングル「[Candy feat.Mr. Blistah](https://ja.wikipedia.org/wiki/Candy_feat.Mr._Blistah "wikilink")」で再びコラボを行った。
@@ -40,7 +40,7 @@
 6.  **One night romance**
       - 作詞:[今井大介](https://ja.wikipedia.org/wiki/今井大介 "wikilink") / 作曲:今井大介 / 編曲:今井大介
 7.  **[1000の言葉](https://ja.wikipedia.org/wiki/real_Emotion/1000の言葉 "wikilink")**
-      - 作詞:[野島一成](https://ja.wikipedia.org/wiki/野島一成 "wikilink") / 作曲:[江口貴勅](https://ja.wikipedia.org/wiki/江口貴勅 "wikilink")・[松枝賀子](https://ja.wikipedia.org/wiki/松枝賀子 "wikilink") / 編曲:江口貴勅・松枝賀子
+      - 作詞:[野島一成](../Page/野島一成.md "wikilink") / 作曲:[江口貴勅](https://ja.wikipedia.org/wiki/江口貴勅 "wikilink")・[松枝賀子](https://ja.wikipedia.org/wiki/松枝賀子 "wikilink") / 編曲:江口貴勅・松枝賀子
     <!-- end list -->
       -
         7thシングル。
@@ -65,9 +65,9 @@
       - 作詞:倖田來未 / 編曲:h-wonder / 作曲:[TSUKASA](https://ja.wikipedia.org/wiki/TSUKASA_\(作曲家\) "wikilink")
     <!-- end list -->
       -
-        5thシングル。カネボウ化粧品「テスティモ」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。
+        5thシングル。カネボウ化粧品「テスティモ」[CMソング](../Page/コマーシャルソング.md "wikilink")。
 15. **1000の言葉 \[Alternate Orchestra Version\]** ※
       -
-        初回限定[ボーナス・トラック](https://ja.wikipedia.org/wiki/ボーナス・トラック "wikilink")。ゲームの[サウンドトラック](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")には使用されていない。初回盤が入手困難になったため、「幻のトラック」となっていたが、[2007年](../Page/2007年.md "wikilink")発売の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[BEST 〜BOUNCE & LOVERS〜](https://ja.wikipedia.org/wiki/BEST_〜BOUNCE_&_LOVERS〜 "wikilink")』に収録された。
+        初回限定[ボーナス・トラック](../Page/ボーナス・トラック.md "wikilink")。ゲームの[サウンドトラック](../Page/サウンドトラック.md "wikilink")には使用されていない。初回盤が入手困難になったため、「幻のトラック」となっていたが、[2007年](../Page/2007年.md "wikilink")発売の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[BEST 〜BOUNCE & LOVERS〜](https://ja.wikipedia.org/wiki/BEST_〜BOUNCE_&_LOVERS〜 "wikilink")』に収録された。
 
 [Category:倖田來未のアルバム](https://ja.wikipedia.org/wiki/Category:倖田來未のアルバム "wikilink") [Category:2003年のアルバム](https://ja.wikipedia.org/wiki/Category:2003年のアルバム "wikilink") [Category:松浦勝人がプロデュースしたアルバム](https://ja.wikipedia.org/wiki/Category:松浦勝人がプロデュースしたアルバム "wikilink")

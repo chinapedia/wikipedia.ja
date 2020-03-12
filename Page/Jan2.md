@@ -49,4 +49,4 @@
 
 [Category:日本のお笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本のお笑いコンビ "wikilink") [Category:松竹芸能](https://ja.wikipedia.org/wiki/Category:松竹芸能 "wikilink")
 
-1.  その際、同じように妹分として[チキチキジョニー](https://ja.wikipedia.org/wiki/チキチキジョニー "wikilink")も紹介。JAN2がかわいらしい2人と紹介したのに対し、チキチキの方は「腹が立つくらい不細工」と対照的な紹介をした。
+1.  その際、同じように妹分として[チキチキジョニー](../Page/チキチキジョニー.md "wikilink")も紹介。JAN2がかわいらしい2人と紹介したのに対し、チキチキの方は「腹が立つくらい不細工」と対照的な紹介をした。

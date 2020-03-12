@@ -1,12 +1,12 @@
 > この記事は[KNB News](https://ja.wikipedia.org/wiki/KNB_News)から翻訳されています。
 
 
-『**KNB Newsリアルタイム**』（ケイエヌビー ニュースリアルタイム）は、[北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")（KNBテレビ）で、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで放送された[富山ローカルの](https://ja.wikipedia.org/wiki/富山県 "wikilink")[情報番組](../Page/ニュース.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")からは『**[いっちゃん★KNB](../Page/いっちゃん★KNB.md "wikilink")**』3部として放送。[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")。
+『**KNB Newsリアルタイム**』（ケイエヌビー ニュースリアルタイム）は、[北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")（KNBテレビ）で、[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで放送された[富山ローカルの](https://ja.wikipedia.org/wiki/富山県 "wikilink")[情報番組](../Page/ニュース.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")からは『**[いっちゃん★KNB](../Page/いっちゃん★KNB.md "wikilink")**』3部として放送。[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")。
 
 ## 放送時間
 
   - [2007年](../Page/2007年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")～[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")　18:16～18:57　『**[いっちゃん★KNB](../Page/いっちゃん★KNB.md "wikilink")**』内包
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")～[2007年](../Page/2007年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")　16:50～18:57
+  - [2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")～[2007年](../Page/2007年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")　16:50～18:57
 
 ## 放送内容
 
@@ -27,23 +27,23 @@
 #### キャスター
 
   - [陸田陽子](https://ja.wikipedia.org/wiki/陸田陽子 "wikilink")
-  - [数家直樹](https://ja.wikipedia.org/wiki/数家直樹 "wikilink")
+  - [数家直樹](../Page/数家直樹.md "wikilink")
 
 #### スポーツキャスター
 
-  - [武部知春](https://ja.wikipedia.org/wiki/武部知春 "wikilink")
+  - [武部知春](../Page/武部知春.md "wikilink")
   - [三浦ちあき](https://ja.wikipedia.org/wiki/三浦ちあき "wikilink")
 
 ### 2007年4月2日から2008年10月3日まで
 
 #### キャスター
 
-  - [梅田恵子](https://ja.wikipedia.org/wiki/梅田恵子 "wikilink")
-  - [数家直樹](https://ja.wikipedia.org/wiki/数家直樹 "wikilink")
+  - [梅田恵子](../Page/梅田恵子.md "wikilink")
+  - [数家直樹](../Page/数家直樹.md "wikilink")
 
 #### スポーツキャスター
 
-  - [武部知春](https://ja.wikipedia.org/wiki/武部知春 "wikilink")
+  - [武部知春](../Page/武部知春.md "wikilink")
   - [三浦ちあき](https://ja.wikipedia.org/wiki/三浦ちあき "wikilink")
 
 ### 2008年10月6日から現在
@@ -52,11 +52,11 @@
 
 **メインキャスター**
 
-  - [小林淳子](https://ja.wikipedia.org/wiki/小林淳子 "wikilink")
+  - [小林淳子](../Page/小林淳子.md "wikilink")
 
 **サブキャスター**
 
-  - [数家直樹](https://ja.wikipedia.org/wiki/数家直樹 "wikilink")
+  - [数家直樹](../Page/数家直樹.md "wikilink")
 
 #### スポーツキャスター
 

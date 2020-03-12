@@ -1,17 +1,17 @@
 > この記事は[TOMORROW \(\)](https://ja.wikipedia.org/wiki/TOMORROW_\(\))から翻訳されています。
 
 
-**TOMORROW**（トゥモロー）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")から[2007年](../Page/2007年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")まで[J-WAVE](../Page/J-WAVE.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
+**TOMORROW**（トゥモロー）は、[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")まで[J-WAVE](../Page/J-WAVE.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
 
 ## 概要・特徴
 
   - 番組タイトル通り「明日」に注目した情報番組。
-  - 公式ホームページでは[ライブカメラによる同時](https://ja.wikipedia.org/wiki/Webカメラ "wikilink")[生中継](https://ja.wikipedia.org/wiki/生中継 "wikilink")もされていた（ただし、スタジオ内の映像のみで音声はなし）。2007年8月からはFOMAから携帯電話向けのホームページからでも見ることができた。
-  - [生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")であるが、一部収録であるため「ほぼ生放送でお送りしております」というような表現をすることが多々あった。
-  - [インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")を多用しており、なにか情報を言った後に「と、インターネットに出てました」「と、インターネットに載ってました」などと言うことが多い。また、[リスナー](https://ja.wikipedia.org/wiki/リスナー "wikilink")からの[メールに対して](../Page/電子メール.md "wikilink")、そのメールには書かれていない詳細な情報や真偽などを調べてから「インターネットで調べました」と言って紹介することもある。ちなみにWikipediaから情報を得ることも多々あった。
+  - 公式ホームページでは[ライブカメラによる同時](../Page/Webカメラ.md "wikilink")[生中継](https://ja.wikipedia.org/wiki/生中継 "wikilink")もされていた（ただし、スタジオ内の映像のみで音声はなし）。2007年8月からはFOMAから携帯電話向けのホームページからでも見ることができた。
+  - [生放送](../Page/生放送.md "wikilink")であるが、一部収録であるため「ほぼ生放送でお送りしております」というような表現をすることが多々あった。
+  - [インターネット](../Page/インターネット.md "wikilink")を多用しており、なにか情報を言った後に「と、インターネットに出てました」「と、インターネットに載ってました」などと言うことが多い。また、[リスナー](../Page/リスナー.md "wikilink")からの[メールに対して](../Page/電子メール.md "wikilink")、そのメールには書かれていない詳細な情報や真偽などを調べてから「インターネットで調べました」と言って紹介することもある。ちなみにWikipediaから情報を得ることも多々あった。
   - 火曜日のみ「脳で聞く新感覚ラジオプログラム」「総天然色・カラー・ワイド・ステレオ放送」というキャッチコピーを使用する。
-  - 2006年[11月23日](../Page/11月23日.md "wikilink")の放送はJ-WAVEが運営する[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")放送局のBrandnew Jで、翌年1月1日のサイマル放送開始に先駆けて試験的に配信。この日はBrandnew Jのリスナーからのご当地自慢メッセージを番組内で募集し、その中から各都道府県ごとに10名ずつポストカード（番組内では[ベリカード](https://ja.wikipedia.org/wiki/ベリカード "wikilink")と呼称しており、デザインはベリカードの体裁をとっている）がプレゼントされた。権利の都合上選曲は一部音楽出版社の楽曲に限られ、各種[ジングルもこの日独自のものを使用した](https://ja.wikipedia.org/wiki/ジングル_\(ラジオ\) "wikilink")。
-  - J-WAVEの番組の中では、[2ちゃんねる](../Page/2ちゃんねる.md "wikilink")の[ラジオ実況板でのレスポンス数が多い番組のひとつである](https://ja.wikipedia.org/wiki/実況板 "wikilink")。また、火曜日は実況板を意識した発言もみられ、某ネット掲示板としてスレッドを閲覧しながら聴取することを薦められることがある。
+  - 2006年[11月23日](../Page/11月23日.md "wikilink")の放送はJ-WAVEが運営する[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")放送局のBrandnew Jで、翌年1月1日のサイマル放送開始に先駆けて試験的に配信。この日はBrandnew Jのリスナーからのご当地自慢メッセージを番組内で募集し、その中から各都道府県ごとに10名ずつポストカード（番組内では[ベリカード](../Page/ベリカード.md "wikilink")と呼称しており、デザインはベリカードの体裁をとっている）がプレゼントされた。権利の都合上選曲は一部音楽出版社の楽曲に限られ、各種[ジングルもこの日独自のものを使用した](https://ja.wikipedia.org/wiki/ジングル_\(ラジオ\) "wikilink")。
+  - J-WAVEの番組の中では、[2ちゃんねる](../Page/2ちゃんねる.md "wikilink")の[ラジオ実況板でのレスポンス数が多い番組のひとつである](../Page/実況板.md "wikilink")。また、火曜日は実況板を意識した発言もみられ、某ネット掲示板としてスレッドを閲覧しながら聴取することを薦められることがある。
 
 ## 放送時間
 
@@ -20,7 +20,7 @@
 <!-- end list -->
 
   -
-    [2007年](../Page/2007年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")からは[Brandnew Jでも](https://ja.wikipedia.org/wiki/Brandnew_J "wikilink")[サイマル放送](https://ja.wikipedia.org/wiki/サイマル放送 "wikilink")されていた。
+    [2007年](../Page/2007年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")からは[Brandnew Jでも](../Page/Brandnew_J.md "wikilink")[サイマル放送](../Page/サイマル放送.md "wikilink")されていた。
 
 ## 出演者
 
@@ -28,7 +28,7 @@
 
 <!-- end list -->
 
-  - [金剛地武志](https://ja.wikipedia.org/wiki/金剛地武志 "wikilink")
+  - [金剛地武志](../Page/金剛地武志.md "wikilink")
 
 <!-- end list -->
 
@@ -36,19 +36,19 @@
 
 <!-- end list -->
 
-  - TAKEMURA（竹村あきら [SNAIL RAMP](https://ja.wikipedia.org/wiki/SNAIL_RAMP "wikilink")） （2006年[9月4日](../Page/9月4日.md "wikilink")-[7日](../Page/9月7日.md "wikilink")）
+  - TAKEMURA（竹村あきら [SNAIL RAMP](../Page/SNAIL_RAMP.md "wikilink")） （2006年[9月4日](../Page/9月4日.md "wikilink")-[7日](../Page/9月7日.md "wikilink")）
 
 <!-- end list -->
 
   -
-    金剛地が[フィンランド](https://ja.wikipedia.org/wiki/フィンランド "wikilink")で開催される[エア・ギター](https://ja.wikipedia.org/wiki/エア・ギター "wikilink")の世界大会に出場のため。
+    金剛地が[フィンランド](../Page/フィンランド.md "wikilink")で開催される[エア・ギター](../Page/エア・ギター.md "wikilink")の世界大会に出場のため。
 
   - その他
 
 <!-- end list -->
 
   - [澤田達哉](../Page/澤田達哉.md "wikilink") （レポーター）
-  - [小島よしお](https://ja.wikipedia.org/wiki/小島よしお "wikilink") - 準レギュラー候補として隔週火曜に出演
+  - [小島よしお](../Page/小島よしお.md "wikilink") - 準レギュラー候補として隔週火曜に出演
 
 ## コーナー・内包番組
 
@@ -77,7 +77,7 @@
 <!-- end list -->
 
   -
-    [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[5月15日](../Page/5月15日.md "wikilink")より開始。週替わりのゲストを招いてのトークコーナー（別収録）。
+    [2006年](../Page/2006年.md "wikilink")[5月15日](../Page/5月15日.md "wikilink")より開始。週替わりのゲストを招いてのトークコーナー（別収録）。
 
 <!-- end list -->
 
@@ -86,7 +86,7 @@
 <!-- end list -->
 
   -
-    [上野千奈美](https://ja.wikipedia.org/wiki/上野千奈美 "wikilink")（月・火曜）、[木次真紀](https://ja.wikipedia.org/wiki/木次真紀 "wikilink")（水曜）、[多田記子](https://ja.wikipedia.org/wiki/多田記子 "wikilink")（木曜）の三人が担当。天気予報終了後に金剛地とその日のテーマに合った会話が若干ある。なお、この時間中はライブカメラが金剛地ではなくアナウンサーを映す。
+    [上野千奈美](https://ja.wikipedia.org/wiki/上野千奈美 "wikilink")（月・火曜）、[木次真紀](../Page/木次真紀.md "wikilink")（水曜）、[多田記子](https://ja.wikipedia.org/wiki/多田記子 "wikilink")（木曜）の三人が担当。天気予報終了後に金剛地とその日のテーマに合った会話が若干ある。なお、この時間中はライブカメラが金剛地ではなくアナウンサーを映す。
 
 <!-- end list -->
 
@@ -104,7 +104,7 @@
 <!-- end list -->
 
   -
-    2006年4月から2006年9月は[東海林舞](https://ja.wikipedia.org/wiki/東海林舞 "wikilink")、2006年10月から2007年7月までは[金子桃](https://ja.wikipedia.org/wiki/金子桃 "wikilink")が担当。同年8月以降は金剛地が担当し[中野めぐみ](../Page/中野めぐみ.md "wikilink")がレポーターとして出演。金剛地の担当後は内包番組ながらTOMORROWの1コーナー扱いとして進行した。当番組開始以前は[JAM THE WORLDに内包されていた](https://ja.wikipedia.org/wiki/Jam_the_WORLD "wikilink")。
+    2006年4月から2006年9月は[東海林舞](https://ja.wikipedia.org/wiki/東海林舞 "wikilink")、2006年10月から2007年7月までは[金子桃](https://ja.wikipedia.org/wiki/金子桃 "wikilink")が担当。同年8月以降は金剛地が担当し[中野めぐみ](../Page/中野めぐみ.md "wikilink")がレポーターとして出演。金剛地の担当後は内包番組ながらTOMORROWの1コーナー扱いとして進行した。当番組開始以前は[JAM THE WORLDに内包されていた](../Page/Jam_the_WORLD.md "wikilink")。
 
 <!-- end list -->
 
@@ -132,7 +132,7 @@
 
   - INFORMATION OVERLOAD
 
-:\*2006年4月から同年12月まで22:50ごろから放送されていた。放送日の翌日の情報（[記念日](../Page/記念日.md "wikilink")や[有名人](https://ja.wikipedia.org/wiki/有名人 "wikilink")の[誕生日](../Page/誕生日.md "wikilink")・[命日](https://ja.wikipedia.org/wiki/命日 "wikilink")、首都圏のイベント情報など）を金剛地が[エコーを多めにかけ](https://ja.wikipedia.org/wiki/残響 "wikilink")、[エフェクター](../Page/エフェクター.md "wikilink")に乗せて叫ぶように紹介するコーナー。コーナー終了直後の放送楽曲もここに連動する。
+:\*2006年4月から同年12月まで22:50ごろから放送されていた。放送日の翌日の情報（[記念日](../Page/記念日.md "wikilink")や[有名人](https://ja.wikipedia.org/wiki/有名人 "wikilink")の[誕生日](../Page/誕生日.md "wikilink")・[命日](https://ja.wikipedia.org/wiki/命日 "wikilink")、首都圏のイベント情報など）を金剛地が[エコーを多めにかけ](../Page/残響.md "wikilink")、[エフェクター](../Page/エフェクター.md "wikilink")に乗せて叫ぶように紹介するコーナー。コーナー終了直後の放送楽曲もここに連動する。
 
 :\*またコーナーの最後は必ず下記のフレーズで締めくくられる。
 
@@ -154,7 +154,7 @@
 <!-- end list -->
 
   -
-    2006年4月から同年5月11日までの期間限定番組として放送。「Coca-Cola 120th ANNIVERSARY J-WAVE LIVE〜SPRING\!」および「Coca-Cola J-WAVE LIVE〜SPRING\!@ROPPONGI HILLS ARENA」（ともに2006年5月7日開催）に出演する[ミュージシャンを](https://ja.wikipedia.org/wiki/音楽家 "wikilink")[ゲスト](https://ja.wikipedia.org/wiki/ゲスト "wikilink")に招いての[トーク](https://ja.wikipedia.org/wiki/トーク "wikilink")。[イベント](../Page/イベント.md "wikilink")終了後には[ライヴ音源を放送していた](https://ja.wikipedia.org/wiki/演奏会 "wikilink")。
+    2006年4月から同年5月11日までの期間限定番組として放送。「Coca-Cola 120th ANNIVERSARY J-WAVE LIVE〜SPRING\!」および「Coca-Cola J-WAVE LIVE〜SPRING\!@ROPPONGI HILLS ARENA」（ともに2006年5月7日開催）に出演する[ミュージシャンを](https://ja.wikipedia.org/wiki/音楽家 "wikilink")[ゲスト](https://ja.wikipedia.org/wiki/ゲスト "wikilink")に招いての[トーク](https://ja.wikipedia.org/wiki/トーク "wikilink")。[イベント](../Page/イベント.md "wikilink")終了後には[ライヴ音源を放送していた](../Page/演奏会.md "wikilink")。
 
 ## その他
 
@@ -172,7 +172,7 @@
 <!-- end list -->
 
   -
-    金剛地がナンセンスな話題をニュース風に読み上げたものを、DJプレイの[スクラッチ](https://ja.wikipedia.org/wiki/スクラッチ "wikilink")のように継ぎ貼りして編集したもの。
+    金剛地がナンセンスな話題をニュース風に読み上げたものを、DJプレイの[スクラッチ](../Page/スクラッチ.md "wikilink")のように継ぎ貼りして編集したもの。
 
 <!-- end list -->
 
@@ -207,30 +207,30 @@
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [FMアップルウェーブ](https://ja.wikipedia.org/wiki/エフエムアップルウェーブ "wikilink")
-  - [Be FM](https://ja.wikipedia.org/wiki/ビーエフエム "wikilink")
+  - [FMアップルウェーブ](../Page/エフエムアップルウェーブ.md "wikilink")
+  - [Be FM](../Page/ビーエフエム.md "wikilink")
   - [ラジオもりおか](https://ja.wikipedia.org/wiki/ラジオもりおか "wikilink")
-  - [せんだいラジオ3](https://ja.wikipedia.org/wiki/仙台シティエフエム "wikilink")
+  - [せんだいラジオ3](../Page/仙台シティエフエム.md "wikilink")
   - [FMいずみ](../Page/せんだい泉エフエム放送.md "wikilink")
   - [BAY WAVE](../Page/エフエムベイエリア.md "wikilink")
-  - [ハーバーRADIO](https://ja.wikipedia.org/wiki/酒田エフエム放送 "wikilink")
+  - [ハーバーRADIO](../Page/酒田エフエム放送.md "wikilink")
   - [エフエムポコ](../Page/福島コミュニティ放送.md "wikilink")
   - [SEA WAVE FMいわき](../Page/いわき市民コミュニティ放送.md "wikilink")
-  - [FM会津](https://ja.wikipedia.org/wiki/エフエム会津 "wikilink")
+  - [FM会津](../Page/エフエム会津.md "wikilink")
 
 </div>
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
   - [FMぜんこうじ](../Page/ながのコミュニティ放送.md "wikilink")
-  - [いいだFM iステーション](https://ja.wikipedia.org/wiki/飯田エフエム放送 "wikilink")
-  - [ラヂオは～と](https://ja.wikipedia.org/wiki/燕三条エフエム放送 "wikilink")
-  - [エフエムながおか](https://ja.wikipedia.org/wiki/長岡移動電話システム "wikilink")
+  - [いいだFM iステーション](../Page/飯田エフエム放送.md "wikilink")
+  - [ラヂオは～と](../Page/燕三条エフエム放送.md "wikilink")
+  - [エフエムながおか](../Page/長岡移動電話システム.md "wikilink")
   - [ラジオ・ミュー](../Page/新川コミュニティ放送.md "wikilink")
-  - [City-FM](https://ja.wikipedia.org/wiki/富山シティエフエム "wikilink")
-  - [たんなん夢レディオ](https://ja.wikipedia.org/wiki/たんなん夢レディオ "wikilink")
-  - [FM-Hi\!](https://ja.wikipedia.org/wiki/シティエフエム静岡 "wikilink")
-  - [FM Haro\!](https://ja.wikipedia.org/wiki/浜松エフエム放送 "wikilink")
+  - [City-FM](../Page/富山シティエフエム.md "wikilink")
+  - [たんなん夢レディオ](../Page/たんなん夢レディオ.md "wikilink")
+  - [FM-Hi\!](../Page/シティエフエム静岡.md "wikilink")
+  - [FM Haro\!](../Page/浜松エフエム放送.md "wikilink")
   - [Radio f](../Page/富士コミュニティエフエム放送.md "wikilink")
   - [Port WAVE](https://ja.wikipedia.org/wiki/エフエムよっかいち "wikilink")
 
@@ -238,23 +238,23 @@
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [FM GENKI](https://ja.wikipedia.org/wiki/姫路シティFM21 "wikilink")
-  - [FMくらしき](https://ja.wikipedia.org/wiki/エフエムくらしき "wikilink")
-  - [Hiroshima P-station](https://ja.wikipedia.org/wiki/中国コミュニケーションネットワーク "wikilink")
-  - [RADIO BINGO](https://ja.wikipedia.org/wiki/エフエムふくやま "wikilink")
-  - [FM NANAKO](https://ja.wikipedia.org/wiki/エフエム萩 "wikilink")
+  - [FM GENKI](../Page/姫路シティFM21.md "wikilink")
+  - [FMくらしき](../Page/エフエムくらしき.md "wikilink")
+  - [Hiroshima P-station](../Page/中国コミュニケーションネットワーク.md "wikilink")
+  - [RADIO BINGO](../Page/エフエムふくやま.md "wikilink")
+  - [FM NANAKO](../Page/エフエム萩.md "wikilink")
   - [FM815](https://ja.wikipedia.org/wiki/エフエム高松コミュニティー放送 "wikilink")
-  - [Whale Station 76・2](https://ja.wikipedia.org/wiki/高知シティエフエムラジオ放送 "wikilink")
+  - [Whale Station 76・2](../Page/高知シティエフエムラジオ放送.md "wikilink")
   - [Dreams FM](https://ja.wikipedia.org/wiki/ドリームスエフエム "wikilink")
-  - [City FM 764](https://ja.wikipedia.org/wiki/シティエフエム都城 "wikilink")
-  - [FRIENDS FM762](https://ja.wikipedia.org/wiki/鹿児島シティエフエム "wikilink")
+  - [City FM 764](../Page/シティエフエム都城.md "wikilink")
+  - [FRIENDS FM762](../Page/鹿児島シティエフエム.md "wikilink")
 
 </div>
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [FMちゃたん](https://ja.wikipedia.org/wiki/クレスト_\(企業\) "wikilink")※火曜のみ
-  - [Southern WAVE FM みやこ](https://ja.wikipedia.org/wiki/エフエムみやこ "wikilink")
+  - [FMちゃたん](../Page/クレスト_\(企業\).md "wikilink")※火曜のみ
+  - [Southern WAVE FM みやこ](../Page/エフエムみやこ.md "wikilink")
 
 </div>
 

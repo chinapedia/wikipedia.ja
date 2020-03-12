@@ -5,13 +5,13 @@
 
 ## 経歴
 
-[カリフォルニア州立大学フラトン校](../Page/カリフォルニア州立大学フラトン校.md "wikilink")で学び、そこで[ジェイムズ・P・ブレイロック](https://ja.wikipedia.org/wiki/ジェイムズ・P・ブレイロック "wikilink")や[ティム・パワーズ](https://ja.wikipedia.org/wiki/ティム・パワーズ "wikilink")と親交を結び、彼らを通して[フィリップ・K・ディック](../Page/フィリップ・K・ディック.md "wikilink")とも知り合うことになった。ディックの小説『[ヴァリス](https://ja.wikipedia.org/wiki/ヴァリス "wikilink")』の登場人物ケヴィンは、ジーターからインスピレーションを受けたといわれる\[1\]。ジーターの作品の多くは、ディックを思わせるようなリアリティの主観性を主題としている。
+[カリフォルニア州立大学フラトン校](../Page/カリフォルニア州立大学フラトン校.md "wikilink")で学び、そこで[ジェイムズ・P・ブレイロック](https://ja.wikipedia.org/wiki/ジェイムズ・P・ブレイロック "wikilink")や[ティム・パワーズ](../Page/ティム・パワーズ.md "wikilink")と親交を結び、彼らを通して[フィリップ・K・ディック](../Page/フィリップ・K・ディック.md "wikilink")とも知り合うことになった。ディックの小説『[ヴァリス](https://ja.wikipedia.org/wiki/ヴァリス "wikilink")』の登場人物ケヴィンは、ジーターからインスピレーションを受けたといわれる\[1\]。ジーターの作品の多くは、ディックを思わせるようなリアリティの主観性を主題としている。
 
-ジーターの小説『ドクター・アダー』は世界初の真の[サイバーパンク](https://ja.wikipedia.org/wiki/サイバーパンク "wikilink")小説\[2\]とも言われており、フィリップ・K・ディックはこれを熱烈に推奨した。性と暴力の描写が過激だったため、出版してくれる出版社を見つけるのに約10年かかっている。「[スチームパンク](https://ja.wikipedia.org/wiki/スチームパンク "wikilink")」という用語は、友人のブレイロックやパワーズと共に古いテクノロジーと[歴史改変を扱った作品を説明するために生み出した用語である](https://ja.wikipedia.org/wiki/歴史改変SF "wikilink")。ジーターの作品でスチームパンクとされているものとしては、*[Morlock Night](https://ja.wikipedia.org/wiki/:en:Morlock_Night "wikilink")* と『悪魔の機械』(*[Infernal Devices](https://ja.wikipedia.org/wiki/:en:Infernal_Devices_\(Jeter\) "wikilink")*) がある。
+ジーターの小説『ドクター・アダー』は世界初の真の[サイバーパンク](https://ja.wikipedia.org/wiki/サイバーパンク "wikilink")小説\[2\]とも言われており、フィリップ・K・ディックはこれを熱烈に推奨した。性と暴力の描写が過激だったため、出版してくれる出版社を見つけるのに約10年かかっている。「[スチームパンク](../Page/スチームパンク.md "wikilink")」という用語は、友人のブレイロックやパワーズと共に古いテクノロジーと[歴史改変を扱った作品を説明するために生み出した用語である](https://ja.wikipedia.org/wiki/歴史改変SF "wikilink")。ジーターの作品でスチームパンクとされているものとしては、*[Morlock Night](https://ja.wikipedia.org/wiki/:en:Morlock_Night "wikilink")* と『悪魔の機械』(*[Infernal Devices](https://ja.wikipedia.org/wiki/:en:Infernal_Devices_\(Jeter\) "wikilink")*) がある。
 
 現在は、妻と共に[ラスベガス](../Page/ラスベガス.md "wikilink")中心部に住んでいる。
 
-オリジナル作品のほかにジーターは、[フィリップ・K・ディック](../Page/フィリップ・K・ディック.md "wikilink")の小説『[アンドロイドは電気羊の夢を見るか?](https://ja.wikipedia.org/wiki/アンドロイドは電気羊の夢を見るか? "wikilink")』を原作とする1982年の映画『[ブレードランナー](../Page/ブレードランナー.md "wikilink")』の公式な続編をいくつか書いている。
+オリジナル作品のほかにジーターは、[フィリップ・K・ディック](../Page/フィリップ・K・ディック.md "wikilink")の小説『[アンドロイドは電気羊の夢を見るか?](../Page/アンドロイドは電気羊の夢を見るか?.md "wikilink")』を原作とする1982年の映画『[ブレードランナー](../Page/ブレードランナー.md "wikilink")』の公式な続編をいくつか書いている。
 
 ## 主な著作
 
@@ -21,7 +21,7 @@
   - ''The Dreamfields ''（[1976年](../Page/1976年.md "wikilink")）
   - *[Morlock Night](https://ja.wikipedia.org/wiki/:en:Morlock_Night "wikilink")*（[1979年](../Page/1979年.md "wikilink")） - [ハーバート・ジョージ・ウェルズ](../Page/ハーバート・ジョージ・ウェルズ.md "wikilink")の『[タイム・マシン](../Page/タイム・マシン_\(小説\).md "wikilink")』に触発された作品。
   - *Soul Eater*（[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")）。邦訳『結晶する魂』[中村保男](../Page/中村保男.md "wikilink")、[岡安裕司](https://ja.wikipedia.org/wiki/岡安裕司 "wikilink")訳、[ハヤカワ文庫](../Page/ハヤカワ文庫.md "wikilink")NV
-  - *[Dr. Adder](https://ja.wikipedia.org/wiki/:en:Dr._Adder "wikilink")*（[1984年](../Page/1984年.md "wikilink")）。邦訳『ドクター・アダー』（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")）。[黒丸尚](https://ja.wikipedia.org/wiki/黒丸尚 "wikilink")訳、[中原尚哉](https://ja.wikipedia.org/wiki/中原尚哉 "wikilink")解説、[大森英樹](https://ja.wikipedia.org/wiki/大森英樹 "wikilink")カヴァー、ハヤカワ文庫SF
+  - *[Dr. Adder](https://ja.wikipedia.org/wiki/:en:Dr._Adder "wikilink")*（[1984年](../Page/1984年.md "wikilink")）。邦訳『ドクター・アダー』（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")）。[黒丸尚](../Page/黒丸尚.md "wikilink")訳、[中原尚哉](https://ja.wikipedia.org/wiki/中原尚哉 "wikilink")解説、[大森英樹](https://ja.wikipedia.org/wiki/大森英樹 "wikilink")カヴァー、ハヤカワ文庫SF
   - *[The Glass Hammer](https://ja.wikipedia.org/wiki/:en:The_Glass_Hammer "wikilink")*（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")）。邦訳『グラス・ハンマー』黒丸尚訳、ハヤカワ文庫SF
   - *[Infernal Devices](https://ja.wikipedia.org/wiki/:en:Infernal_Devices "wikilink")*（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")）。邦訳『悪魔の機械』[大伴墨人](https://ja.wikipedia.org/wiki/大伴墨人 "wikilink")訳、ハヤカワ文庫FT
   - *Dark Seeker*（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")）。邦訳『ダーク・シーカー』[佐田千織](https://ja.wikipedia.org/wiki/佐田千織 "wikilink")訳、ハヤカワ文庫SF
@@ -36,7 +36,7 @@
 
 ### ブレードランナー
 
-  - *Blade Runner 2: The Edge of Human*（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")）。邦訳『ブレードランナー2』[浅倉久志](https://ja.wikipedia.org/wiki/浅倉久志 "wikilink")訳、[早川書房](../Page/早川書房.md "wikilink")
+  - *Blade Runner 2: The Edge of Human*（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")）。邦訳『ブレードランナー2』[浅倉久志](../Page/浅倉久志.md "wikilink")訳、[早川書房](../Page/早川書房.md "wikilink")
   - *Blade Runner 3: Replicant Night*（[1996年](../Page/1996年.md "wikilink")）。邦訳『ブレードランナー3』[大野晶子](https://ja.wikipedia.org/wiki/大野晶子 "wikilink")訳、早川書房
   - *Blade Runner 4: Eye and Talon*（2000年）
 
@@ -58,8 +58,8 @@
   - [ブレードランナー](../Page/ブレードランナー.md "wikilink")
   - [スタートレック:ディープ・スペース・ナイン](../Page/スタートレック:ディープ・スペース・ナイン.md "wikilink")
   - [ホラー小説](../Page/ホラー小説.md "wikilink")
-  - [ディストピア](https://ja.wikipedia.org/wiki/ディストピア "wikilink")
-  - [スチームパンク](https://ja.wikipedia.org/wiki/スチームパンク "wikilink")
+  - [ディストピア](../Page/ディストピア.md "wikilink")
+  - [スチームパンク](../Page/スチームパンク.md "wikilink")
 
 ## 外部リンク
 

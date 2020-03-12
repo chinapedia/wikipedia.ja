@@ -7,7 +7,7 @@
 
 12週連続シングルリリースの第6弾で、5万枚完全限定生産作品。ジャケットイメージは[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")。
 
-[PVには俳優の](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")[忍成修吾](../Page/忍成修吾.md "wikilink")が出演している。連続シングルリリースで製作された12曲のPVのうち、5曲が繋がっており、「feel」は「you」の続きで3曲目。次の曲は「[Lies](../Page/Lies.md "wikilink")」である。
+[PVには俳優の](../Page/ミュージック・ビデオ.md "wikilink")[忍成修吾](../Page/忍成修吾.md "wikilink")が出演している。連続シングルリリースで製作された12曲のPVのうち、5曲が繋がっており、「feel」は「you」の続きで3曲目。次の曲は「[Lies](../Page/Lies.md "wikilink")」である。
 
 ## 収録曲
 

@@ -42,7 +42,7 @@
 
 ## 株式会社ニューアート・ラ・パルレ
 
-**株式会社ニューアート・ラ・パルレ**は、[エステティックサロン](https://ja.wikipedia.org/wiki/エステティックサロン "wikilink")のブランド**ラ・パルレ**（*La PARLER*）を展開する企業である。 元々は同名の**株式会社ラ・パルレ**が経営を行っていた。同社は[2002年](../Page/2002年.md "wikilink")にエステ業界では初となる上場を果たしたが、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に倒産し、上場廃止となった。商標等は株式会社ビューティーパートナーズへ移動した後、現在は**株式会社ニューアート・ラ・パルレ**へ商号を変更した。
+**株式会社ニューアート・ラ・パルレ**は、[エステティックサロン](../Page/エステティックサロン.md "wikilink")のブランド**ラ・パルレ**（*La PARLER*）を展開する企業である。 元々は同名の**株式会社ラ・パルレ**が経営を行っていた。同社は[2002年](../Page/2002年.md "wikilink")にエステ業界では初となる上場を果たしたが、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に倒産し、上場廃止となった。商標等は株式会社ビューティーパートナーズへ移動した後、現在は**株式会社ニューアート・ラ・パルレ**へ商号を変更した。
 
 ### 沿革（ニューアート・ラ・パルレ）
 
@@ -58,15 +58,15 @@
 
 :\* [2002年](../Page/2002年.md "wikilink")（平成14年）[5月1日](../Page/5月1日.md "wikilink") - [大阪証券取引所](https://ja.wikipedia.org/wiki/大阪証券取引所 "wikilink")[ヘラクレス上場](https://ja.wikipedia.org/wiki/ヘラクレス_\(有価証券市場\) "wikilink")。
 
-:\* [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - 悪質な勧誘を行っていたとして、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")から[行政処分](https://ja.wikipedia.org/wiki/行政処分 "wikilink")を受ける（[行政処分の項](https://ja.wikipedia.org/wiki/#行政処分 "wikilink")）。[行政処分](https://ja.wikipedia.org/wiki/行政処分 "wikilink")後は50店舗以上が閉店になり、52店舗に縮小。
+:\* [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - 悪質な勧誘を行っていたとして、[東京都](../Page/東京都.md "wikilink")から[行政処分](https://ja.wikipedia.org/wiki/行政処分 "wikilink")を受ける（[行政処分の項](https://ja.wikipedia.org/wiki/#行政処分 "wikilink")）。[行政処分](https://ja.wikipedia.org/wiki/行政処分 "wikilink")後は50店舗以上が閉店になり、52店舗に縮小。
 
 :\* [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - [継続企業の前提](../Page/継続企業の前提.md "wikilink")に関する疑義（経営破綻するリスク）が生じたと発表。
 
-:\* [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[7月](https://ja.wikipedia.org/wiki/7月 "wikilink") - [第三者割当増資](https://ja.wikipedia.org/wiki/第三者割当増資 "wikilink")を美容研究家の[たかの友梨](https://ja.wikipedia.org/wiki/たかの友梨 "wikilink")が個人として引き受け、同社の[筆頭株主](https://ja.wikipedia.org/wiki/筆頭株主 "wikilink")となる。「業界唯一の上場企業である同社の業績悪化によって、エステティック業界全体の地盤沈下を防ぎたいという高野氏の意向と、美容家としてのプロデュース力に期待して迅速な業績回復を図りたい同社の考えが合致したため」としている。本社を、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[赤坂](../Page/赤坂_\(東京都港区\).md "wikilink")8-4-14 青山タワープレイス4Fから、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[代々木](https://ja.wikipedia.org/wiki/代々木 "wikilink")5-58-3 に移転。
+:\* [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[7月](https://ja.wikipedia.org/wiki/7月 "wikilink") - [第三者割当増資](../Page/第三者割当増資.md "wikilink")を美容研究家の[たかの友梨](../Page/たかの友梨.md "wikilink")が個人として引き受け、同社の[筆頭株主](https://ja.wikipedia.org/wiki/筆頭株主 "wikilink")となる。「業界唯一の上場企業である同社の業績悪化によって、エステティック業界全体の地盤沈下を防ぎたいという高野氏の意向と、美容家としてのプロデュース力に期待して迅速な業績回復を図りたい同社の考えが合致したため」としている。本社を、[東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[赤坂](../Page/赤坂_\(東京都港区\).md "wikilink")8-4-14 青山タワープレイス4Fから、[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[代々木](../Page/代々木.md "wikilink")5-58-3 に移転。
 
-:\* [2009年](../Page/2009年.md "wikilink")（平成21年）[4月23日](../Page/4月23日.md "wikilink") - 借入返済資金と運転資金調達のため、株式会社インデックス・コミュニケーションズ（後の[ジャック・メディア・キャピタル](https://ja.wikipedia.org/wiki/ジャック・メディア・キャピタル "wikilink")）、株式会社[東京テレビランド](../Page/東京テレビランド.md "wikilink")（2017年に同名の企業へ事業譲渡）、[NISグループ](https://ja.wikipedia.org/wiki/NISグループ "wikilink")株式会社（2012年倒産）の3社に対して、[第三者割当増資](https://ja.wikipedia.org/wiki/第三者割当増資 "wikilink")を実施。
+:\* [2009年](../Page/2009年.md "wikilink")（平成21年）[4月23日](../Page/4月23日.md "wikilink") - 借入返済資金と運転資金調達のため、株式会社インデックス・コミュニケーションズ（後の[ジャック・メディア・キャピタル](../Page/ジャック・メディア・キャピタル.md "wikilink")）、株式会社[東京テレビランド](../Page/東京テレビランド.md "wikilink")（2017年に同名の企業へ事業譲渡）、[NISグループ](../Page/NISグループ.md "wikilink")株式会社（2012年倒産）の3社に対して、[第三者割当増資](../Page/第三者割当増資.md "wikilink")を実施。
 
-:\* [2009年](../Page/2009年.md "wikilink")（平成21年）[5月](https://ja.wikipedia.org/wiki/5月 "wikilink") - 渋谷区代々木の本社と新宿区新宿3丁目の本店のいずれも、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[外神田](../Page/外神田.md "wikilink")1-2-12に移転。
+:\* [2009年](../Page/2009年.md "wikilink")（平成21年）[5月](https://ja.wikipedia.org/wiki/5月 "wikilink") - 渋谷区代々木の本社と新宿区新宿3丁目の本店のいずれも、[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[外神田](../Page/外神田.md "wikilink")1-2-12に移転。
 
 :\* [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）[2月](https://ja.wikipedia.org/wiki/2月 "wikilink") - たかの友梨が保有していた株式14万株のうち13万株を、[ネオラインホールディングス株式会社](https://ja.wikipedia.org/wiki/JTインベストメント "wikilink")（2012年解散。[消費者金融](../Page/消費者金融.md "wikilink")業ネオラインキャピタル株式会社（現：[クロスシード](../Page/クロスシード.md "wikilink")。2013年倒産）の親会社）に譲渡し、同社が筆頭株主になる。
 

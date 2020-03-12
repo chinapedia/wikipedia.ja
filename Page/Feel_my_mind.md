@@ -26,9 +26,9 @@
         作詞：倖田來未・今井大介、作曲・編曲：今井大介
 2.  **[Crazy 4 U](../Page/Crazy_4_U.md "wikilink")**
       -
-        作詞・作曲・編曲：[渡辺未来](https://ja.wikipedia.org/wiki/渡辺未来 "wikilink")
+        作詞・作曲・編曲：[渡辺未来](../Page/渡辺未来.md "wikilink")
     <!-- end list -->
-      - 10thシングル。[アニメ](../Page/アニメ.md "wikilink")「[ギルガメッシュ](https://ja.wikipedia.org/wiki/ギルガメッシュ_\(漫画\) "wikilink")」オープニングテーマ。
+      - 10thシングル。[アニメ](../Page/アニメ.md "wikilink")「[ギルガメッシュ](../Page/ギルガメッシュ_\(漫画\).md "wikilink")」オープニングテーマ。
 3.  **Rock Your Body**
       -
         作詞：倖田來未・今井大介、作曲・編曲：今井大介
@@ -58,9 +58,9 @@
         作詞：倖田來未・TOOKO、作曲：KAIDO、編曲：西川玲生
 10. **[Gentle Words](../Page/Gentle_Words.md "wikilink")**
       -
-        作詞：倖田來未、作曲：[D・A・I](https://ja.wikipedia.org/wiki/長尾大 "wikilink")、編曲：[h-wonder](https://ja.wikipedia.org/wiki/h-wonder "wikilink")
+        作詞：倖田來未、作曲：[D・A・I](../Page/長尾大.md "wikilink")、編曲：[h-wonder](https://ja.wikipedia.org/wiki/h-wonder "wikilink")
     <!-- end list -->
-      - 9thシングル。[Do As Infinityの](../Page/Do_As_Infinity.md "wikilink")[長尾大](https://ja.wikipedia.org/wiki/長尾大 "wikilink")が作曲した[バラード](../Page/バラード.md "wikilink")。[佐藤製薬](../Page/佐藤製薬.md "wikilink")「ストナ」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
+      - 9thシングル。[Do As Infinityの](../Page/Do_As_Infinity.md "wikilink")[長尾大](../Page/長尾大.md "wikilink")が作曲した[バラード](../Page/バラード.md "wikilink")。[佐藤製薬](../Page/佐藤製薬.md "wikilink")「ストナ」[CMソング](../Page/コマーシャルソング.md "wikilink")
 11. **magic**
       -
         作詞：松原憲、作曲：[LISA](../Page/LISA_\(歌手\).md "wikilink")、編曲：LISA・Ryuichiro Yamaki
@@ -70,10 +70,10 @@
       -
         作詞：倖田來未、作曲・編曲：h-wonder
     <!-- end list -->
-      - 8thシングル。[チョーヤ](../Page/チョーヤ梅酒.md "wikilink")「梅ゼリー」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
+      - 8thシングル。[チョーヤ](../Page/チョーヤ梅酒.md "wikilink")「梅ゼリー」[CMソング](../Page/コマーシャルソング.md "wikilink")
 13. **夢 with You(R．Yamaki's Groove Mix)** ※
       -
-        作詞・作曲：[久保田利伸](https://ja.wikipedia.org/wiki/久保田利伸 "wikilink")、編曲：Ryuichiro Yamaki
+        作詞・作曲：[久保田利伸](../Page/久保田利伸.md "wikilink")、編曲：Ryuichiro Yamaki
     <!-- end list -->
       - 久保田利伸のカヴァー。「[Crazy 4 U](../Page/Crazy_4_U.md "wikilink")」に収録されているものとは別バージョン。
 14. **[キューティーハニー](../Page/LOVE_&_HONEY.md "wikilink")** ※

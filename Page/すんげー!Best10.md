@@ -9,20 +9,20 @@
 
 放送開始から3か月間は日曜正午枠（『[新婚さんいらっしゃい\!](../Page/新婚さんいらっしゃい!.md "wikilink")』の前座枠）での放送で、[千原兄弟](../Page/千原兄弟.md "wikilink")と[大仁田厚](../Page/大仁田厚.md "wikilink")が司会を務めていた。また、この当時は[NGKスタジオで番組収録を行っていた](../Page/ヨシモト∞ホール大阪.md "wikilink")。ネタのランキングはリクエストによって決めていることになっていたが、実際にはリクエストの募集は行っていなかった。翌週も同じネタがランクインした場合には、ネタの再披露を行わずに順位のみを発表していた。
 
-1995年4月からは土曜 23時55分 - 24時50分（日曜 0時50分）に放送の[深夜番組](../Page/深夜番組.md "wikilink")になり、大仁田に替わって女性アシスタントが司会に参入。収録現場も[心斎橋筋2丁目劇場](../Page/心斎橋筋2丁目劇場.md "wikilink")に変更された。土曜深夜枠への移動後、朝日放送の日曜正午枠は『[日曜笑劇場](https://ja.wikipedia.org/wiki/日曜笑劇場 "wikilink")』へと戻った。1996年4月からの1年間は、月に1回だけ「マンスリーセレクション」と題し、千原兄弟とゲストによるトークとその月に放送されたネタの[総集編](../Page/総集編.md "wikilink")を放送していた。
+1995年4月からは土曜 23時55分 - 24時50分（日曜 0時50分）に放送の[深夜番組](../Page/深夜番組.md "wikilink")になり、大仁田に替わって女性アシスタントが司会に参入。収録現場も[心斎橋筋2丁目劇場](../Page/心斎橋筋2丁目劇場.md "wikilink")に変更された。土曜深夜枠への移動後、朝日放送の日曜正午枠は『[日曜笑劇場](../Page/日曜笑劇場.md "wikilink")』へと戻った。1996年4月からの1年間は、月に1回だけ「マンスリーセレクション」と題し、千原兄弟とゲストによるトークとその月に放送されたネタの[総集編](../Page/総集編.md "wikilink")を放送していた。
 
 末期には月曜 24時35分 - 25時30分（火曜 0時35分 - 1時30分）での放送になり、参加者各々が[ロケでネタを発表する形式へ移行](https://ja.wikipedia.org/wiki/ロケーション撮影 "wikilink")。1997年4月からは、50ポイント以上を獲得した者には豪華料理を食べられるなどの特典を与えていた。
 
-番組は本番収録前に、20組のお笑いコンビがネタを発表し、観客から面白かったネタ5組を投票してもらう公開オーディション「**ふんげー\!Best20**」を行い、その得票数が30ポイントに達したネタのみを放送していた。この手法は、後に[NHKが開始した](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink")』に流用された。必要得票数は後に40ポイント以上に変更され、エントリーも15組にまで減っていった。さらに月曜深夜枠へ移動してからは10組になり、50ポイント以上を獲得しなければならなくなった。その一方で、深夜番組ゆえの過激なネタやシュールなネタが増えていき、舞台でのネタ披露に[自主規制音](https://ja.wikipedia.org/wiki/自主規制音 "wikilink")が流れる極めて異例なケースが頻発した。また番組は、出演芸人同士がコンビ・グループの枠にとらわれないで結成した即席ユニットによるコントもランキングの対象にしていた。そのため、本番組でしか見られないようなユニットが数多く誕生し、中には正規のコンビよりも人気を博すユニットもあった。
+番組は本番収録前に、20組のお笑いコンビがネタを発表し、観客から面白かったネタ5組を投票してもらう公開オーディション「**ふんげー\!Best20**」を行い、その得票数が30ポイントに達したネタのみを放送していた。この手法は、後に[NHKが開始した](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink")』に流用された。必要得票数は後に40ポイント以上に変更され、エントリーも15組にまで減っていった。さらに月曜深夜枠へ移動してからは10組になり、50ポイント以上を獲得しなければならなくなった。その一方で、深夜番組ゆえの過激なネタやシュールなネタが増えていき、舞台でのネタ披露に[自主規制音](../Page/自主規制音.md "wikilink")が流れる極めて異例なケースが頻発した。また番組は、出演芸人同士がコンビ・グループの枠にとらわれないで結成した即席ユニットによるコントもランキングの対象にしていた。そのため、本番組でしか見られないようなユニットが数多く誕生し、中には正規のコンビよりも人気を博すユニットもあった。
 
-MCである千原兄弟も時折参加者側に回ってみたり、ユニットに参加したりしていた。[ワチャチャ芸人のみだったが](https://ja.wikipedia.org/wiki/#ワチャチャ芸人 "wikilink")、番組の後半では[フルーツ大統領](../Page/フルーツ大統領.md "wikilink")や東京から撤退した元[吉本印天然素材](../Page/吉本印天然素材.md "wikilink")のメンバーも登場した。。ランキングの合間には千原兄弟による「千原兄弟のバカトーク」のコーナーが行われていたが、弟の千原浩史（[千原ジュニア](https://ja.wikipedia.org/wiki/千原ジュニア "wikilink")）は1995年4月の番組リニューアル直後に[急性肝炎にかかって出演休止を余儀なくされていた](https://ja.wikipedia.org/wiki/肝炎#臨床像 "wikilink")。そのため、彼の入院中には2丁目芸人一人の「マイベスト5」のコーナーで繋いでいた。
+MCである千原兄弟も時折参加者側に回ってみたり、ユニットに参加したりしていた。[ワチャチャ芸人のみだったが](https://ja.wikipedia.org/wiki/#ワチャチャ芸人 "wikilink")、番組の後半では[フルーツ大統領](../Page/フルーツ大統領.md "wikilink")や東京から撤退した元[吉本印天然素材](../Page/吉本印天然素材.md "wikilink")のメンバーも登場した。。ランキングの合間には千原兄弟による「千原兄弟のバカトーク」のコーナーが行われていたが、弟の千原浩史（[千原ジュニア](../Page/千原ジュニア.md "wikilink")）は1995年4月の番組リニューアル直後に[急性肝炎にかかって出演休止を余儀なくされていた](https://ja.wikipedia.org/wiki/肝炎#臨床像 "wikilink")。そのため、彼の入院中には2丁目芸人一人の「マイベスト5」のコーナーで繋いでいた。
 
 ## 出演者
 
 ### 司会
 
-  - 千原靖史（現・[千原せいじ](https://ja.wikipedia.org/wiki/千原せいじ "wikilink")、[千原兄弟](../Page/千原兄弟.md "wikilink")）
-  - 千原浩史（現・[千原ジュニア](https://ja.wikipedia.org/wiki/千原ジュニア "wikilink")、千原兄弟）
+  - 千原靖史（現・[千原せいじ](../Page/千原せいじ.md "wikilink")、[千原兄弟](../Page/千原兄弟.md "wikilink")）
+  - 千原浩史（現・[千原ジュニア](../Page/千原ジュニア.md "wikilink")、千原兄弟）
   - [大仁田厚](../Page/大仁田厚.md "wikilink") - 1995年1月から同年3月まで出演。
   - [仙北谷晴美](https://ja.wikipedia.org/wiki/仙北谷晴美 "wikilink") - 1995年4月から1997年3月まで出演。
   - [三浦早苗](../Page/三浦早苗.md "wikilink") - 1997年4月から同年6月まで出演。
@@ -37,9 +37,9 @@ MCである千原兄弟も時折参加者側に回ってみたり、ユニット
 
 <div style="float:left; vertical-align:top; white-space:nowrap; margin-right:1em">
 
-  - [ジャリズム](https://ja.wikipedia.org/wiki/ジャリズム "wikilink")
-  - [メッセンジャー](https://ja.wikipedia.org/wiki/メッセンジャー_\(お笑いコンビ\) "wikilink")
-  - [水玉れっぷう隊](https://ja.wikipedia.org/wiki/水玉れっぷう隊 "wikilink")
+  - [ジャリズム](../Page/ジャリズム.md "wikilink")
+  - [メッセンジャー](../Page/メッセンジャー_\(お笑いコンビ\).md "wikilink")
+  - [水玉れっぷう隊](../Page/水玉れっぷう隊.md "wikilink")
   - [シェイクダウン](https://ja.wikipedia.org/wiki/シェイクダウン_\(お笑い\) "wikilink")
   - [リミテッド](../Page/リミテッド.md "wikilink")　[1995年まで](https://ja.wikipedia.org/wiki/1995年の日本 "wikilink")
   - [海原やすよ・ともこ](../Page/海原やすよ・ともこ.md "wikilink")
@@ -48,13 +48,13 @@ MCである千原兄弟も時折参加者側に回ってみたり、ユニット
   - [2丁拳銃](../Page/2丁拳銃.md "wikilink")
   - [ぴのっきを](../Page/ぴのっきを.md "wikilink")
   - [モストデンジャラスコンビ](../Page/モストデンジャラスコンビ.md "wikilink")
-  - [サバンナ](https://ja.wikipedia.org/wiki/サバンナ_\(お笑いコンビ\) "wikilink")
+  - [サバンナ](../Page/サバンナ_\(お笑いコンビ\).md "wikilink")
   - [スミス夫人](https://ja.wikipedia.org/wiki/スミス夫人 "wikilink")
   - [高僧・野々村](../Page/高僧・野々村.md "wikilink")
   - [美濃・長岡](https://ja.wikipedia.org/wiki/みのなが "wikilink")
   - [野性爆弾](https://ja.wikipedia.org/wiki/野性爆弾 "wikilink")
-  - [ルート33](https://ja.wikipedia.org/wiki/ルート33 "wikilink")
-  - [松口VS小林](https://ja.wikipedia.org/wiki/松口VS小林 "wikilink")　1995年まで
+  - [ルート33](../Page/ルート33.md "wikilink")
+  - [松口VS小林](../Page/松口VS小林.md "wikilink")　1995年まで
   - [G☆MEN'S](../Page/G★MENS.md "wikilink")
   - [誉](../Page/誉_\(お笑いコンビ\).md "wikilink")
   - [プラスチックゴーゴー](https://ja.wikipedia.org/wiki/プラスチックゴーゴー "wikilink")　
@@ -64,16 +64,16 @@ MCである千原兄弟も時折参加者側に回ってみたり、ユニット
 
 <div style="float:left; vertical-align:top; white-space:nowrap; margin-right:1em">
 
-  - [ハリガネロック](https://ja.wikipedia.org/wiki/ハリガネロック "wikilink")
+  - [ハリガネロック](../Page/ハリガネロック.md "wikilink")
   - [しましまんず](../Page/しましまんず.md "wikilink")
   - $10（現・[テンダラー](../Page/テンダラー_\(お笑いコンビ\).md "wikilink")）
   - [プリン姫](https://ja.wikipedia.org/wiki/プリン姫 "wikilink")
-  - [COWCOW](https://ja.wikipedia.org/wiki/COWCOW "wikilink")
+  - [COWCOW](../Page/COWCOW.md "wikilink")
   - [ビリジアン](../Page/ビリジアン_\(お笑いコンビ\).md "wikilink")
   - [スキヤキ](https://ja.wikipedia.org/wiki/スキヤキ_\(お笑いコンビ\) "wikilink")
   - [次長課長](https://ja.wikipedia.org/wiki/次長課長 "wikilink")
   - [シャンプーハット](https://ja.wikipedia.org/wiki/シャンプーハット_\(お笑いコンビ\) "wikilink")
-  - [後藤・天満](https://ja.wikipedia.org/wiki/エレキグラム "wikilink")
+  - [後藤・天満](../Page/エレキグラム.md "wikilink")
   - [ドレス](https://ja.wikipedia.org/wiki/ドレス_\(お笑い\) "wikilink")
   - [市川塾](https://ja.wikipedia.org/wiki/市川塾 "wikilink")
   - [山田・吉本](../Page/ストリーク.md "wikilink")
@@ -83,7 +83,7 @@ MCである千原兄弟も時折参加者側に回ってみたり、ユニット
   - [ハチコルク](https://ja.wikipedia.org/wiki/ハチコルク "wikilink")
   - [満](https://ja.wikipedia.org/wiki/満 "wikilink")
   - [FUJIWARA](../Page/FUJIWARA.md "wikilink")
-  - [チュパチャップス](https://ja.wikipedia.org/wiki/チュパチャップス "wikilink")
+  - [チュパチャップス](../Page/チュパチャップス.md "wikilink")
   - 高山知浩（現・[高山トモヒロ](../Page/高山トモヒロ.md "wikilink")）
   - [杉岡みどり](../Page/杉岡みどり.md "wikilink")
 
@@ -92,7 +92,7 @@ MCである千原兄弟も時折参加者側に回ってみたり、ユニット
 ## 主なユニット
 
   - 将軍
-    灘儀武（現・[なだぎ武](../Page/なだぎ武.md "wikilink")、スミス夫人）、[中川礼二](https://ja.wikipedia.org/wiki/中川礼二 "wikilink")（中川家）、小林友治（現・[ケンドーコバヤシ](https://ja.wikipedia.org/wiki/ケンドーコバヤシ "wikilink")、松口VS小林）
+    灘儀武（現・[なだぎ武](../Page/なだぎ武.md "wikilink")、スミス夫人）、[中川礼二](../Page/中川礼二.md "wikilink")（中川家）、小林友治（現・[ケンドーコバヤシ](../Page/ケンドーコバヤシ.md "wikilink")、松口VS小林）
 
     松口VS小林解散による小林の一時休業がきっかけで休止（後に[毎日放送](../Page/毎日放送.md "wikilink")「[イップン](https://ja.wikipedia.org/wiki/イップン "wikilink")」にて復活するが当番組においての復活はなかった）
 
@@ -105,7 +105,7 @@ MCである千原兄弟も時折参加者側に回ってみたり、ユニット
     [久馬歩](../Page/お〜い!久馬.md "wikilink")（シェイクダウン）が加入し、「シド＆ナンシー」としてランクインしたこともある。
 
   - おおきに
-    山下栄緑（現・[オモロー山下](https://ja.wikipedia.org/wiki/インタビューマン山下 "wikilink")、ジャリズム）、[後藤秀樹](https://ja.wikipedia.org/wiki/後藤秀樹 "wikilink")（シェイクダウン）、宇野誠（誉）、田村憲司（現・[たむらけんじ](https://ja.wikipedia.org/wiki/たむらけんじ "wikilink")、LaLaLa）、
+    山下栄緑（現・[オモロー山下](../Page/インタビューマン山下.md "wikilink")、ジャリズム）、[後藤秀樹](../Page/後藤秀樹.md "wikilink")（シェイクダウン）、宇野誠（誉）、田村憲司（現・[たむらけんじ](../Page/たむらけんじ.md "wikilink")、LaLaLa）、
 
     [陣内智則](../Page/陣内智則.md "wikilink")（リミテッド）が加入し「おおきにwith陣内」としてランクインしたこともある。
 
@@ -169,7 +169,7 @@ MCである千原兄弟も時折参加者側に回ってみたり、ユニット
   - [ザコバ](../Page/桂ざこば_\(2代目\).md "wikilink")
     ザコ師匠（現・[ハリウッドザコシショウ](../Page/ハリウッドザコシショウ.md "wikilink")、G☆MEN'S）、小林友治（モストデンジャラスコンビ）
 
-    渡辺鐘（ジャリズム）、堀由史（ナメリカ）が加わり、「ザコバwith[港超](https://ja.wikipedia.org/wiki/桂米朝_\(3代目\) "wikilink")」としてランクインしたこともある。
+    渡辺鐘（ジャリズム）、堀由史（ナメリカ）が加わり、「ザコバwith[港超](../Page/桂米朝_\(3代目\).md "wikilink")」としてランクインしたこともある。
 
   - EU＝遠藤ユニオン
     遠藤敬（当時誉）主演、プロデュース。その他のメンバーは流動的。
@@ -204,10 +204,10 @@ MCである千原兄弟も時折参加者側に回ってみたり、ユニット
     保父さん（田村）がませた幼稚園児（黒田、久馬、斉藤）に悪戦苦闘するコント。斉藤は「バカ子」という女児役。
   - スポットライト
     黒田有（メッセンジャー）、中川礼二（中川家）、蓮見正雄（プラスチックゴーゴー）、シェイクダウン
-    [歌番組の](../Page/ザ・ベストテン.md "wikilink")「今週のスポットライト」のコーナーにとてもアイドルとは思えない（土木作業員、浪人生など）アイドルグループ（黒田、礼二、久馬）が登場する。司会者（後藤）とのやりとりをひとしきり終えた後[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の「[がんばりましょう](https://ja.wikipedia.org/wiki/がんばりましょう "wikilink")」の替え歌を歌う。また間奏に蓮実がちょい役で登場する。
+    [歌番組の](../Page/ザ・ベストテン.md "wikilink")「今週のスポットライト」のコーナーにとてもアイドルとは思えない（土木作業員、浪人生など）アイドルグループ（黒田、礼二、久馬）が登場する。司会者（後藤）とのやりとりをひとしきり終えた後[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の「[がんばりましょう](../Page/がんばりましょう.md "wikilink")」の替え歌を歌う。また間奏に蓮実がちょい役で登場する。
   - ハテナ探検隊
     12ch（遠藤敬（誉）、渡辺鐘（ジャリズム））
-    ハテナくん（遠藤）とものしりさん（渡辺）が町へ出ていろん「ハテナ」を探すという[NHK教育テレビジョン](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")のパロディ（ユニット名は放送当時、近畿地区においてのNHK教育のチャンネル数だった）。また、陣内智則が銀行強盗役として出演した事もある。
+    ハテナくん（遠藤）とものしりさん（渡辺）が町へ出ていろん「ハテナ」を探すという[NHK教育テレビジョン](../Page/NHK教育テレビジョン.md "wikilink")のパロディ（ユニット名は放送当時、近畿地区においてのNHK教育のチャンネル数だった）。また、陣内智則が銀行強盗役として出演した事もある。
   - ダミヤン・オスカルシリーズ
     遠藤敬（誉）、中川剛（中川家）他
     一見子供のように見える双子の男性が主役のコント。怒りが頂点に達し、楽器（シンバル、小太鼓）を鳴らした後に奇声を発すると摩訶不思議な現象が起こり周囲の人達を巻き込んでいく。
@@ -231,36 +231,36 @@ MCである千原兄弟も時折参加者側に回ってみたり、ユニット
 ## スタッフ
 
   - 企画：笠博勝
-  - 構成：[かわら長介](https://ja.wikipedia.org/wiki/かわら長介 "wikilink")、木村和彦、尾浦一泰、[松本真一](https://ja.wikipedia.org/wiki/松本真一_\(放送作家\) "wikilink")、たちばなひとなり
+  - 構成：[かわら長介](../Page/かわら長介.md "wikilink")、木村和彦、尾浦一泰、[松本真一](../Page/松本真一_\(放送作家\).md "wikilink")、たちばなひとなり
   - 技術：[ウエルカム](../Page/ウエルカム_\(映像プロダクション\).md "wikilink")
   - SW：早野昌孝
   - CAM：前田昌彦
   - MIX：上野太
-  - SE：衛藤恒明（[戯音工房](https://ja.wikipedia.org/wiki/戯音工房 "wikilink")）
+  - SE：衛藤恒明（[戯音工房](../Page/戯音工房.md "wikilink")）
   - VE：四藤史郎
   - PA：大久保隆司
   - EED：宮本憲一、牧原保
-  - 照明：[アーチェリープロ](https://ja.wikipedia.org/wiki/アーチェリープロダクション "wikilink")
+  - 照明：[アーチェリープロ](../Page/アーチェリープロダクション.md "wikilink")
   - 美術：すくらんぶる
-  - 細工：狩集広洋、[原田専門家](https://ja.wikipedia.org/wiki/原田専門家 "wikilink")
+  - 細工：狩集広洋、[原田専門家](../Page/原田専門家.md "wikilink")
   - CG：エーシージー
   - タイトル：シュプール
   - 衣裳：[大槻衣裳](https://ja.wikipedia.org/wiki/大槻衣裳 "wikilink")
   - スタイリスト：OFFICE SHUHEI、ベイビーフェイス
   - ヘアメイク：オフィスサヨコ
   - AD：久野貴史、木山嘉徳
-  - ディレクター：[井口毅](https://ja.wikipedia.org/wiki/井口毅 "wikilink")（ABC）、斉藤克、志岐誠
+  - ディレクター：[井口毅](../Page/井口毅.md "wikilink")（ABC）、斉藤克、志岐誠
   - プロデューサー：[山村啓介](https://ja.wikipedia.org/wiki/山村啓介 "wikilink")（ABC）、比企啓之（吉本興業）
-  - 制作協力：[アイ・ティ・エス](https://ja.wikipedia.org/wiki/アイ・ティ・エス "wikilink")、[NAVI](../Page/クリエイティブオフィスなび.md "wikilink")
+  - 制作協力：[アイ・ティ・エス](../Page/アイ・ティ・エス.md "wikilink")、[NAVI](../Page/クリエイティブオフィスなび.md "wikilink")
   - 制作著作：ABC、[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")
 
 ## その他
 
-本番組の[DVD](../Page/DVD.md "wikilink")化・[VHS](../Page/VHS.md "wikilink")化は、転業者・廃業者たちの[肖像権](https://ja.wikipedia.org/wiki/肖像権 "wikilink")や音効などの[著作権](../Page/著作権.md "wikilink")の問題もあり、実現には至っていない。また、[再放送](https://ja.wikipedia.org/wiki/再放送 "wikilink")も行われていない。
+本番組の[DVD](../Page/DVD.md "wikilink")化・[VHS](../Page/VHS.md "wikilink")化は、転業者・廃業者たちの[肖像権](../Page/肖像権.md "wikilink")や音効などの[著作権](../Page/著作権.md "wikilink")の問題もあり、実現には至っていない。また、[再放送](../Page/再放送.md "wikilink")も行われていない。
 
 ただし、当時出演していた芸人の一部が[TBSの](../Page/TBSテレビ.md "wikilink")『[あらびき団](https://ja.wikipedia.org/wiki/あらびき団 "wikilink")』において、本番組内でのみ結成された即席ユニットの一部が再結成され、同番組内で当時のコントが再現される形で放送された。本番組でしか見られなかったユニットコントが、10年以上の時を経て初めて全国ネットで放送されることにもなった。再結成されたのは[ザコバwith港超](https://ja.wikipedia.org/wiki/ザコバwith港超 "wikilink")など。
 
-また、[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[爆笑レッドカーペット](../Page/爆笑レッドカーペット.md "wikilink")』2010年の新春特番にて、なだぎ武と[中川礼二](https://ja.wikipedia.org/wiki/中川礼二 "wikilink")が本番組で披露したコント「サラリーマン専科」とほぼ同じ設定のコントを披露した。
+また、[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[爆笑レッドカーペット](../Page/爆笑レッドカーペット.md "wikilink")』2010年の新春特番にて、なだぎ武と[中川礼二](../Page/中川礼二.md "wikilink")が本番組で披露したコント「サラリーマン専科」とほぼ同じ設定のコントを披露した。
 
 単発番組ではあるが、出演者を変えて製作された続編は存在する。詳細は、[2007年](../Page/2007年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")に放送された『**[しゅんげー\!ベスト10](../Page/しゅんげー!ベスト10.md "wikilink")**』の項目を参照のこと。
 
@@ -275,7 +275,7 @@ MCである千原兄弟も時折参加者側に回ってみたり、ユニット
 #### 司会
 
   - 千原兄弟
-  - [加藤明子](https://ja.wikipedia.org/wiki/加藤明子 "wikilink")（ABCアナウンサー）
+  - [加藤明子](../Page/加藤明子.md "wikilink")（ABCアナウンサー）
 
 #### ナレーター
 
@@ -285,8 +285,8 @@ MCである千原兄弟も時折参加者側に回ってみたり、ユニット
 
   - オモロー山下
   - 渡辺鐘（[桂三度](../Page/桂三度.md "wikilink")）
-  - [あいはら雅一](../Page/あいはら雅一.md "wikilink")（[メッセンジャー](https://ja.wikipedia.org/wiki/メッセンジャー_\(お笑いコンビ\) "wikilink")）
-  - お〜い\!久馬（[ザ・プラン9](https://ja.wikipedia.org/wiki/ザ・プラン9 "wikilink")）
+  - [あいはら雅一](../Page/あいはら雅一.md "wikilink")（[メッセンジャー](../Page/メッセンジャー_\(お笑いコンビ\).md "wikilink")）
+  - お〜い\!久馬（[ザ・プラン9](../Page/ザ・プラン9.md "wikilink")）
   - 後藤秀樹
   - 海原やすよ・ともこ
   - ケンドーコバヤシ
@@ -326,18 +326,18 @@ MCである千原兄弟も時折参加者側に回ってみたり、ユニット
 
 5upよしもと所属の若手芸人によるユニットのランキング。6位から10位はオンエアされず。進行は千原ジュニア、たむらけんじ、ケンドーコバヤシ、陣内智則、桂三度が担当。
 
-|    | ネタ           | ユニット名                                                                                                                                                                                                                     | 得点  |
-| -- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
-| 1  | **屋上**       | [モンスターエンジン](../Page/モンスターエンジン.md "wikilink")西森、[ソーセージ藤本](../Page/ソーセージ_\(お笑い\).md "wikilink")、[和牛](https://ja.wikipedia.org/wiki/和牛_\(お笑いコンビ\) "wikilink")                                                                | 91P |
-| 2  | **変な転校生**    | [アインシュタイン](https://ja.wikipedia.org/wiki/アインシュタイン_\(お笑い\) "wikilink")、[ビーフケーキ](https://ja.wikipedia.org/wiki/ビーフケーキ "wikilink")近藤、[トット](https://ja.wikipedia.org/wiki/トット "wikilink")多田                                   | 88P |
-| 3  | **柳生十郎太**    | ソーセージ、和牛、[プリマ旦那](https://ja.wikipedia.org/wiki/プリマ旦那 "wikilink")                                                                                                                                                          | 76P |
-| 4  | **ヒザVSクセ**   | [ジャルジャル](https://ja.wikipedia.org/wiki/ジャルジャル "wikilink")福徳、[プラスマイナス](https://ja.wikipedia.org/wiki/プラスマイナス "wikilink")岩橋、モンスターエンジン大林                                                                                     | 71P |
-| 5  | **道案内**      | [天竺鼠](https://ja.wikipedia.org/wiki/天竺鼠 "wikilink")・川原&[藤崎マーケット](../Page/藤崎マーケット.md "wikilink")・トキ                                                                                                                        | 63P |
-| 6  | **変な縄跳び**    | [かりんとう](https://ja.wikipedia.org/wiki/かりんとう_\(お笑いコンビ\) "wikilink")、[GAG少年楽団](https://ja.wikipedia.org/wiki/GAG少年楽団 "wikilink")、モンスターエンジン大林                                                                                | 53P |
-| 7  | **ピタゴラスイッチ** | [クロスバー直撃](https://ja.wikipedia.org/wiki/クロスバー直撃 "wikilink")、カバと爆ノ介                                                                                                                                                        | 52P |
-| 8  | **水産高校あるある** | [ウーマンラッシュアワー](https://ja.wikipedia.org/wiki/ウーマンラッシュアワー "wikilink")村本                                                                                                                                                     | 51P |
-| 9  | **さばまさし**    | クロスバー直撃・渡邉                                                                                                                                                                                                                | 50P |
-| 10 | **パレード**     | [スマイル](https://ja.wikipedia.org/wiki/スマイル_\(お笑いコンビ\) "wikilink")、[銀シャリ](https://ja.wikipedia.org/wiki/銀シャリ_\(お笑い\) "wikilink")、[かまいたち](https://ja.wikipedia.org/wiki/かまいたち_\(お笑いコンビ\) "wikilink")、藤崎マーケット田崎、ウーマンラッシュアワー中川 | 49P |
+|    | ネタ           | ユニット名                                                                                                                                                                                   | 得点  |
+| -- | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| 1  | **屋上**       | [モンスターエンジン](../Page/モンスターエンジン.md "wikilink")西森、[ソーセージ藤本](../Page/ソーセージ_\(お笑い\).md "wikilink")、[和牛](https://ja.wikipedia.org/wiki/和牛_\(お笑いコンビ\) "wikilink")                              | 91P |
+| 2  | **変な転校生**    | [アインシュタイン](https://ja.wikipedia.org/wiki/アインシュタイン_\(お笑い\) "wikilink")、[ビーフケーキ](https://ja.wikipedia.org/wiki/ビーフケーキ "wikilink")近藤、[トット](https://ja.wikipedia.org/wiki/トット "wikilink")多田 | 88P |
+| 3  | **柳生十郎太**    | ソーセージ、和牛、[プリマ旦那](https://ja.wikipedia.org/wiki/プリマ旦那 "wikilink")                                                                                                                        | 76P |
+| 4  | **ヒザVSクセ**   | [ジャルジャル](../Page/ジャルジャル.md "wikilink")福徳、[プラスマイナス](https://ja.wikipedia.org/wiki/プラスマイナス "wikilink")岩橋、モンスターエンジン大林                                                                      | 71P |
+| 5  | **道案内**      | [天竺鼠](../Page/天竺鼠.md "wikilink")・川原&[藤崎マーケット](../Page/藤崎マーケット.md "wikilink")・トキ                                                                                                         | 63P |
+| 6  | **変な縄跳び**    | [かりんとう](https://ja.wikipedia.org/wiki/かりんとう_\(お笑いコンビ\) "wikilink")、[GAG少年楽団](https://ja.wikipedia.org/wiki/GAG少年楽団 "wikilink")、モンスターエンジン大林                                              | 53P |
+| 7  | **ピタゴラスイッチ** | [クロスバー直撃](https://ja.wikipedia.org/wiki/クロスバー直撃 "wikilink")、カバと爆ノ介                                                                                                                      | 52P |
+| 8  | **水産高校あるある** | [ウーマンラッシュアワー](https://ja.wikipedia.org/wiki/ウーマンラッシュアワー "wikilink")村本                                                                                                                   | 51P |
+| 9  | **さばまさし**    | クロスバー直撃・渡邉                                                                                                                                                                              | 50P |
+| 10 | **パレード**     | [スマイル](../Page/スマイル_\(お笑いコンビ\).md "wikilink")、[銀シャリ](../Page/銀シャリ_\(お笑い\).md "wikilink")、[かまいたち](../Page/かまいたち_\(お笑いコンビ\).md "wikilink")、藤崎マーケット田崎、ウーマンラッシュアワー中川                        | 49P |
 
 ### 復活版のユニット
 
@@ -359,7 +359,7 @@ MCである千原兄弟も時折参加者側に回ってみたり、ユニット
   - MIX：村越順司（ABC）、滝川毅（アイネックス）
   - EED：牧原保・徳安悠治（[トラッシュ編集室](https://ja.wikipedia.org/wiki/トラッシュ編集室 "wikilink")）
   - SE：衛藤恒明・田口雅敏（戯音工房）
-  - 協力：[関西東通](https://ja.wikipedia.org/wiki/関西東通 "wikilink")、ハートス、[アイネックス](https://ja.wikipedia.org/wiki/アイネックス_\(ポストプロダクション\) "wikilink")、[つむら工芸](https://ja.wikipedia.org/wiki/つむら工芸 "wikilink")、[高津商会](https://ja.wikipedia.org/wiki/高津商会 "wikilink")、[京阪商会](https://ja.wikipedia.org/wiki/京阪商会 "wikilink")、東京衣裳、思巧堂、大槻衣裳、浪原靴店、ビーム、MORE、ジー・マックス、[戯音工房](https://ja.wikipedia.org/wiki/戯音工房 "wikilink")、[トラッシュ](https://ja.wikipedia.org/wiki/トラッシュ_\(映像プロダクション\) "wikilink")、[ECC](../Page/ECC総合教育機関.md "wikilink")、スクランブル、ギミック
+  - 協力：[関西東通](https://ja.wikipedia.org/wiki/関西東通 "wikilink")、ハートス、[アイネックス](../Page/アイネックス_\(ポストプロダクション\).md "wikilink")、[つむら工芸](../Page/つむら工芸.md "wikilink")、[高津商会](https://ja.wikipedia.org/wiki/高津商会 "wikilink")、[京阪商会](https://ja.wikipedia.org/wiki/京阪商会 "wikilink")、東京衣裳、思巧堂、大槻衣裳、浪原靴店、ビーム、MORE、ジー・マックス、[戯音工房](../Page/戯音工房.md "wikilink")、[トラッシュ](https://ja.wikipedia.org/wiki/トラッシュ_\(映像プロダクション\) "wikilink")、[ECC](../Page/ECC総合教育機関.md "wikilink")、スクランブル、ギミック
   - デスク：楠本芳子（ABC）
   - 番宣：川井真紀（ABC）
   - 美術：[口井雅弘](https://ja.wikipedia.org/wiki/口井雅弘 "wikilink")（ABC）
@@ -374,10 +374,10 @@ MCである千原兄弟も時折参加者側に回ってみたり、ユニット
 
 ## 関連項目
 
-  - [PUSH\!](https://ja.wikipedia.org/wiki/PUSH! "wikilink") - 後番組。
+  - [PUSH\!](../Page/PUSH!.md "wikilink") - 後番組。
   - [しゅんげー\!ベスト10](../Page/しゅんげー!ベスト10.md "wikilink") - 事実上の続編。
   - [わっしょい\!5up](https://ja.wikipedia.org/wiki/わっしょい!5up "wikilink")
-  - [激突\!あごはずしショー](https://ja.wikipedia.org/wiki/激突!あごはずしショー "wikilink") - 1987年から1988年まで[ニッポン放送](../Page/ニッポン放送.md "wikilink")で放送されていたお笑い番組。審査員のダメ出しが規定以上でネタ披露中でもストップ。
+  - [激突\!あごはずしショー](../Page/激突!あごはずしショー.md "wikilink") - 1987年から1988年まで[ニッポン放送](../Page/ニッポン放送.md "wikilink")で放送されていたお笑い番組。審査員のダメ出しが規定以上でネタ披露中でもストップ。
   - [爆笑BOOING](../Page/爆笑BOOING.md "wikilink") - 1993年から1996年まで[関西テレビで放送されていたお笑い番組](../Page/関西テレビ放送.md "wikilink")。審査員のダメ出しが規定以上でネタ披露中でもストップ。
   - [爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink") → [オンバト+](https://ja.wikipedia.org/wiki/オンバト+ "wikilink") - 1999年から2014年まで[NHKで放送されていたお笑い番組](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")。上位のみがオンエア。
 

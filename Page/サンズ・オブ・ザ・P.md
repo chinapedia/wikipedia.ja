@@ -1,7 +1,7 @@
 > この記事は[P](https://ja.wikipedia.org/wiki/P)から翻訳されています。
 
 
-**サンズ・オブ・ザ・P**（サンズ・オブ・ザ・ピー、**Sons Of The P**）は、[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[10月15日](../Page/10月15日.md "wikilink")に[アメリカで発売された](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ヒップホップ](../Page/ヒップホップ.md "wikilink")グループ・[デジタル・アンダーグラウンド](../Page/デジタル・アンダーグラウンド.md "wikilink")のサード[アルバム](../Page/アルバム.md "wikilink")。デジタル・アンダーグラウンドによるプロデュースで、[ジョージ・クリントンが参加している](https://ja.wikipedia.org/wiki/ジョージ・クリントン_\(ミュージシャン\) "wikilink")。
+**サンズ・オブ・ザ・P**（サンズ・オブ・ザ・ピー、**Sons Of The P**）は、[1991年](../Page/1991年.md "wikilink")[10月15日](../Page/10月15日.md "wikilink")に[アメリカで発売された](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ヒップホップ](../Page/ヒップホップ.md "wikilink")グループ・[デジタル・アンダーグラウンド](../Page/デジタル・アンダーグラウンド.md "wikilink")のサード[アルバム](../Page/アルバム.md "wikilink")。デジタル・アンダーグラウンドによるプロデュースで、[ジョージ・クリントンが参加している](../Page/ジョージ・クリントン_\(ミュージシャン\).md "wikilink")。
 
 ## 収録曲
 

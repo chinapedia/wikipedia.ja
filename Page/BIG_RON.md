@@ -1,19 +1,19 @@
 > この記事は[BIG RON](https://ja.wikipedia.org/wiki/BIG_RON)から翻訳されています。
 
 
-**BIG RON**（ビッグ・ロン）は[横須賀市](../Page/横須賀市.md "wikilink")出身の[ヒップホップ](../Page/ヒップホップ.md "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")、[ユニバーサルJよりメジャーデビュー](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。
+**BIG RON**（ビッグ・ロン）は[横須賀市](../Page/横須賀市.md "wikilink")出身の[ヒップホップ](../Page/ヒップホップ.md "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。[2007年](../Page/2007年.md "wikilink")、[ユニバーサルJよりメジャーデビュー](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
 
 ## 来歴
 
-[2003年](../Page/2003年.md "wikilink")11月22日、イベント「Dogs Of The Bay」を企画し、[hide](https://ja.wikipedia.org/wiki/hide "wikilink") MUSEUMで開催。自身以外に[DABO](https://ja.wikipedia.org/wiki/DABO "wikilink")、[TOKONA-X](https://ja.wikipedia.org/wiki/TOKONA-X "wikilink")、[DS455](https://ja.wikipedia.org/wiki/DS455 "wikilink")、[妄走族](https://ja.wikipedia.org/wiki/妄走族 "wikilink")らが出演\[1\]\[2\]。[2004年](../Page/2004年.md "wikilink")、[DJ PMXのプロデュースでシングル](https://ja.wikipedia.org/wiki/DJ_PMX "wikilink")「BAYSIDE CRUISIN' featuring DS455」を[ダイキサウンド](https://ja.wikipedia.org/wiki/ダイキサウンド "wikilink")より発売。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")6月10日、同様にDJ PMXによるプロデュースで1stアルバム『STR8 OUT DA BAY』をダイキサウンドより発売。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")12月6日には**DS455＋BIG RON**名義でアルバム『BAYBLUES RECORDZ presents　WINTERTIME WIT’THA D.S.C.〜White Nite〜』を[ユニバーサルJより発売](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。
+[2003年](../Page/2003年.md "wikilink")11月22日、イベント「Dogs Of The Bay」を企画し、[hide](https://ja.wikipedia.org/wiki/hide "wikilink") MUSEUMで開催。自身以外に[DABO](../Page/DABO.md "wikilink")、[TOKONA-X](../Page/TOKONA-X.md "wikilink")、[DS455](../Page/DS455.md "wikilink")、[妄走族](../Page/妄走族.md "wikilink")らが出演\[1\]\[2\]。[2004年](../Page/2004年.md "wikilink")、[DJ PMXのプロデュースでシングル](https://ja.wikipedia.org/wiki/DJ_PMX "wikilink")「BAYSIDE CRUISIN' featuring DS455」を[ダイキサウンド](https://ja.wikipedia.org/wiki/ダイキサウンド "wikilink")より発売。[2005年](../Page/2005年.md "wikilink")6月10日、同様にDJ PMXによるプロデュースで1stアルバム『STR8 OUT DA BAY』をダイキサウンドより発売。[2006年](../Page/2006年.md "wikilink")12月6日には**DS455＋BIG RON**名義でアルバム『BAYBLUES RECORDZ presents　WINTERTIME WIT’THA D.S.C.〜White Nite〜』を[ユニバーサルJより発売](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")6月6日、ユニバーサルJよりメジャー1stアルバム『MISTA XXXXXL』を発売。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")10月15日、DS455が設立したレーベル「HOOD SOUND RECORDS」より、アルバム『BIG RON Presents...Much Love』を発売。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")10月13日、HOOD SOUND RECORDSより、アルバム『LIVIN' LARGE』を発売。[2011年](../Page/2011年.md "wikilink")4月27日には自身初のベストアルバム『KING OF HOOK -THA BEST WORKS-』を発売。
+[2007年](../Page/2007年.md "wikilink")6月6日、ユニバーサルJよりメジャー1stアルバム『MISTA XXXXXL』を発売。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")10月15日、DS455が設立したレーベル「HOOD SOUND RECORDS」より、アルバム『BIG RON Presents...Much Love』を発売。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")10月13日、HOOD SOUND RECORDSより、アルバム『LIVIN' LARGE』を発売。[2011年](../Page/2011年.md "wikilink")4月27日には自身初のベストアルバム『KING OF HOOK -THA BEST WORKS-』を発売。
 
 ## ディスコグラフィ
 
 ### シングル
 
-1.  **BAYSIDE CRUISIN' featuring DS455**（2004年1月21日）DJ PMX([DS455](https://ja.wikipedia.org/wiki/DS455 "wikilink"))のプロデュース
+1.  **BAYSIDE CRUISIN' featuring DS455**（2004年1月21日）DJ PMX([DS455](../Page/DS455.md "wikilink"))のプロデュース
     1.  BAYSIDE CRUISIN' featuring RICHEE,DS455
     2.  GHETTO INC.feat.GHETTO INC
 2.  **GHETTO LUV feat.FINGAZZ\&Mr.Oz**（2005年3月31日）
@@ -120,13 +120,13 @@
 
 ### 参加作品
 
-1.  [風林火山](https://ja.wikipedia.org/wiki/風林火山 "wikilink")「**BOOGIE DOWN**」（2001年8月29日）
+1.  [風林火山](../Page/風林火山.md "wikilink")「**BOOGIE DOWN**」（2001年8月29日）
       -
         09\. Night Butterfly feat.BIG RON
-2.  [DS455](https://ja.wikipedia.org/wiki/DS455 "wikilink")「**DabStar Clique**」（2002年12月21日）
+2.  [DS455](../Page/DS455.md "wikilink")「**DabStar Clique**」（2002年12月21日）
       -
         13\. WESSYDE STORY feat.PHOBIA OF THUG and BIG RON
-3.  [OZROSAURUS](https://ja.wikipedia.org/wiki/OZROSAURUS "wikilink")「**JUICE**」（2003年3月19日）
+3.  [OZROSAURUS](../Page/OZROSAURUS.md "wikilink")「**JUICE**」（2003年3月19日）
       -
         08.Everlast feat.BIG RON
 4.  [BRIER & EL NANDO](https://ja.wikipedia.org/wiki/BRIER_&_EL_NANDO "wikilink")「**CROSS COUNTER**」（2003年4月25日）
@@ -136,13 +136,13 @@
       -
         02\. All Night Long GIPPER feat. BIG RON
 6.  [SSG featuring DABO,BIG RON](https://ja.wikipedia.org/wiki/SSG_featuring_DABO,BIG_RON "wikilink")「**RELATIVEZ/CHECK MATE**」（2004年6月11日）
-7.  [CORN HEAD](https://ja.wikipedia.org/wiki/CORN_HEAD "wikilink")「**そのうちより、いまのうち！**」（2004年06月30日）
+7.  [CORN HEAD](../Page/CORN_HEAD.md "wikilink")「**そのうちより、いまのうち！**」（2004年06月30日）
       -
         02\. NOW WE JUST CHILLIN' feat. DS455,BIG RON,SAYAKA
 8.  [HYENADIRTY](https://ja.wikipedia.org/wiki/HYENADIRTY "wikilink")「**SWANGIN**'」（2004年9月8日）
       -
         03.Where my homies stay at～feat.BIG RON～
-9.  [童子-T](https://ja.wikipedia.org/wiki/童子-T "wikilink")「**童夢**」（2005年2月23日）ROUTE 16 feat. LITTLE, Kayzabro for DS455, GDX, BIG RON
+9.  [童子-T](../Page/童子-T.md "wikilink")「**童夢**」（2005年2月23日）ROUTE 16 feat. LITTLE, Kayzabro for DS455, GDX, BIG RON
 10. [PHOBIA OF THUG](https://ja.wikipedia.org/wiki/PHOBIA_OF_THUG "wikilink")「**Hydrophobia**」（2005年4月20日）
       -
         02.DA WAY 2 DIE feat.BIG RON
@@ -158,23 +158,23 @@
 14. [山田マン](../Page/山田マン.md "wikilink")「**RIZE UP**」（2005年11月30日）
       -
         03.Rize Up
-15. [DS455](https://ja.wikipedia.org/wiki/DS455 "wikilink")「**To MySelf～Believe Yourself～**」（2006年1月25日）
+15. [DS455](../Page/DS455.md "wikilink")「**To MySelf～Believe Yourself～**」（2006年1月25日）
       -
         04.Feel So HIGH ～ジパングツアー～
 16. [LGY](https://ja.wikipedia.org/wiki/LGY "wikilink")「**JOINTED 2 HOMIES**」（2006年1月31日）
       -
         11.Dear Mama feat.BIG RON
-17. [OZROSAURUS](https://ja.wikipedia.org/wiki/OZROSAURUS "wikilink")「**Rhyme\&Blues**」（2006年03月15日）
+17. [OZROSAURUS](../Page/OZROSAURUS.md "wikilink")「**Rhyme\&Blues**」（2006年03月15日）
       -
         13\. Clap Ya\!\!
 18. [DESTINO](https://ja.wikipedia.org/wiki/DESTINO "wikilink")「**Musica Paraiso**」（2006年04月19日）
       -
         06\. DEDICATE
-19. [CORN HEAD](https://ja.wikipedia.org/wiki/CORN_HEAD "wikilink")「**LOVE SEEKER**」（2006年5月24日）
+19. [CORN HEAD](../Page/CORN_HEAD.md "wikilink")「**LOVE SEEKER**」（2006年5月24日）
       -
         10.REMEMBER THE DAY feat.BIG RON
         03.RIZE UP～feat.UZUMAKI,BIG RON,GHETTO INC
-20. [DJ MASTERKEY](https://ja.wikipedia.org/wiki/DJ_MASTERKEY "wikilink")「**THE ADVENTURES OF DADDY'S HOUSE**」（2006年6月7日）
+20. [DJ MASTERKEY](../Page/DJ_MASTERKEY.md "wikilink")「**THE ADVENTURES OF DADDY'S HOUSE**」（2006年6月7日）
       -
         9.AT THA PARTY feat.KAYZABRO{(DS455)& BIG RON
 21. [DJ RYUUKI](https://ja.wikipedia.org/wiki/DJ_RYUUKI "wikilink")「**MY WAY ONLY WAY**」（2006年07月26日）
@@ -217,8 +217,8 @@
 33. [DJ☆GO](https://ja.wikipedia.org/wiki/DJ☆GO "wikilink")「**730 RAIDERS**」（2007年09月19日）
       -
         08\. G'z NEED LUVIN' TOO
-34. [Zeebra](https://ja.wikipedia.org/wiki/Zeebra "wikilink")「**World Of Music**」 (2007年10月17日)
-35. .10. This Is 4 The Locos(feat. [DS455](https://ja.wikipedia.org/wiki/DS455 "wikilink") & BIG RON)
+34. [Zeebra](../Page/Zeebra.md "wikilink")「**World Of Music**」 (2007年10月17日)
+35. .10. This Is 4 The Locos(feat. [DS455](../Page/DS455.md "wikilink") & BIG RON)
 36. [YORK](https://ja.wikipedia.org/wiki/YORK "wikilink")「**Proof to live**」（2008年02月06日）
       -
         11\. WHITE LUV
@@ -231,7 +231,7 @@
 39. [THE LEGEND$](https://ja.wikipedia.org/wiki/THE_LEGEND$ "wikilink")「**JUSTICE**」（2008年04月23日）
       -
         10\. GANGSTA HOLIDAY
-40. [LITTLE](https://ja.wikipedia.org/wiki/LITTLE "wikilink")「**"Yes"rhyme-dentity**」（2008年5月7日）
+40. [LITTLE](../Page/LITTLE.md "wikilink")「**"Yes"rhyme-dentity**」（2008年5月7日）
       -
         01.KARMA feat. BIG RON
 41. [詩音](https://ja.wikipedia.org/wiki/詩音_\(歌手\) "wikilink")「**Candy Girl**」（2008年5月28日）
@@ -259,7 +259,7 @@
 48. [V.A](https://ja.wikipedia.org/wiki/V.A "wikilink")「'''BEST OF HOOD SOUND 02 mixed by DJ☆GO」（2008年12月10日）
       -
         10\. My Angel
-49. [DS455](https://ja.wikipedia.org/wiki/DS455 "wikilink")「**CHECK THA NUMBER**」（2009年07月29日）
+49. [DS455](../Page/DS455.md "wikilink")「**CHECK THA NUMBER**」（2009年07月29日）
       -
         02\. PARTY 4 HARK
         03\. CHECK THA NUMBER
@@ -273,14 +273,14 @@
 52. [AK-69](https://ja.wikipedia.org/wiki/AK-69 "wikilink")「**THE CARTEL FROM STREETS**」（2009年09月02日）
       -
         04\. HIP HOP 4 Life
-53. [DJ YUTAKA](https://ja.wikipedia.org/wiki/DJ_YUTAKA "wikilink")「**New Era\~DJ YUTAKA 30th ANNIVERSARY ALBUM**」（2009年9月16日）
+53. [DJ YUTAKA](../Page/DJ_YUTAKA.md "wikilink")「**New Era\~DJ YUTAKA 30th ANNIVERSARY ALBUM**」（2009年9月16日）
       -
         10\. All Day All Night
 54. [HOKT](https://ja.wikipedia.org/wiki/HOKT "wikilink")「**21 Century Rock Star**」（2009年10月21日）
       -
         09\. ONE NIGHT
         13\. DCT 97
-55. [HI-D](https://ja.wikipedia.org/wiki/HI-D "wikilink")「**It's Not Over**」（2009年12月23日）
+55. [HI-D](../Page/HI-D.md "wikilink")「**It's Not Over**」（2009年12月23日）
       -
         02\. BIRTHDAY GIRL
 56. [BIGZAM](https://ja.wikipedia.org/wiki/BIGZAM "wikilink")「**LIFE IS PUZZLE**」（2010年01月18日）
@@ -340,7 +340,7 @@
 73. [DJ RYOW](https://ja.wikipedia.org/wiki/DJ_RYOW "wikilink")「**MORE THAN MUSIC**」（2011年5月25日）
       -
         09\. Changes -Time goes by-
-74. [大地](https://ja.wikipedia.org/wiki/大地 "wikilink")「**What's My Name?**」（2011年06月22日）
+74. [大地](../Page/大地.md "wikilink")「**What's My Name?**」（2011年06月22日）
       -
         04\. Blue Sky
         08\. XXXXXL Inc.
@@ -354,7 +354,7 @@
 77. [DJ PMX](https://ja.wikipedia.org/wiki/DJ_PMX "wikilink")「**LocoHAMA CRUISING DVD MIX II**」（2011年10月26日）
       -
         02\. At The Party
-78. [Zeebra](https://ja.wikipedia.org/wiki/Zeebra "wikilink")「**Black World/White Heat**」（2011年12月14日）
+78. [Zeebra](../Page/Zeebra.md "wikilink")「**Black World/White Heat**」（2011年12月14日）
       -
         7.One And Only Feat. BIG RON
 79. [GIPPER](https://ja.wikipedia.org/wiki/GIPPER "wikilink")「**GIP’UP**」（2012年04月11日）
@@ -383,7 +383,7 @@
 86. [S.T.M](https://ja.wikipedia.org/wiki/S.T.M "wikilink")「**03**」（2012年10月17日）
       -
         05\. Sunahama Cruisin
-87. [666](https://ja.wikipedia.org/wiki/666 "wikilink")「**B.I.G RIDE ON**」 (2016年04月09日)
+87. [666](../Page/666.md "wikilink")「**B.I.G RIDE ON**」 (2016年04月09日)
       -
         01\. Dont Worry
         02\. Check My Back
@@ -394,7 +394,7 @@
 
 ## 出演
 
-  - [シュガーヒルストリート](https://ja.wikipedia.org/wiki/シュガーヒルストリート "wikilink")（2006年12月14日、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
+  - [シュガーヒルストリート](../Page/シュガーヒルストリート.md "wikilink")（2006年12月14日、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
   - [ありっちゃ〜ARIA](../Page/ありっちゃ〜ARIA.md "wikilink")（2007年3月28日、[GyaOジョッキー](../Page/GyaOジョッキー.md "wikilink")）
 
 ## 脚注

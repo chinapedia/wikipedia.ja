@@ -28,7 +28,7 @@
 
   - [組み込みシステム](../Page/組み込みシステム.md "wikilink")
   - [テクニカルエンジニア (エンベデッドシステム)](https://ja.wikipedia.org/wiki/テクニカルエンジニア_\(エンベデッドシステム\) "wikilink")
-  - [オブジェクト指向モデリング](https://ja.wikipedia.org/wiki/オブジェクト指向モデリング "wikilink")
+  - [オブジェクト指向モデリング](../Page/オブジェクト指向モデリング.md "wikilink")
   - [UML](../Page/統一モデリング言語.md "wikilink")
 
 ## オフィシャルホームページ

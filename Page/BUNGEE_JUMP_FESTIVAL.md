@@ -1,21 +1,21 @@
 > この記事は[BUNGEE JUMP FESTIVAL](https://ja.wikipedia.org/wiki/BUNGEE_JUMP_FESTIVAL)から翻訳されています。
 
 
-**BUNGEE JUMP FESTIVAL**（バンジー・ジャンプ・フェスティバル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に解散した。
+**BUNGEE JUMP FESTIVAL**（バンジー・ジャンプ・フェスティバル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[2005年](../Page/2005年.md "wikilink")に解散した。
 
 ## 概要
 
 ## メンバー
 
-  - **[町田直隆](https://ja.wikipedia.org/wiki/町田直隆 "wikilink")** （まちだ なおたか、1978年12月25日 - ） - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")担当。解散後はソロ活動を開始した。
-  - **堀越武志** （ほりこし たけし、1979年3月1日 - ） - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、ボーカル担当。解散後は[OCEANLANE](https://ja.wikipedia.org/wiki/OCEANLANE "wikilink")、[henrytennis](https://ja.wikipedia.org/wiki/henrytennis "wikilink")に加入した。
+  - **[町田直隆](../Page/町田直隆.md "wikilink")** （まちだ なおたか、1978年12月25日 - ） - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")担当。解散後はソロ活動を開始した。
+  - **堀越武志** （ほりこし たけし、1979年3月1日 - ） - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")、ボーカル担当。解散後は[OCEANLANE](https://ja.wikipedia.org/wiki/OCEANLANE "wikilink")、[henrytennis](https://ja.wikipedia.org/wiki/henrytennis "wikilink")に加入した。
   - **[田辺純平](http://tanabe-junpei.jp/)** （たなべ じゅんぺい、1978年5月31日 - ） - [ドラムス担当](../Page/ドラムセット.md "wikilink")。解散後はブランクの時期を経て、[2009年](../Page/2009年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")[フィルムヴィル](https://ja.wikipedia.org/wiki/フィルムヴィル "wikilink")に加入するも、故障再発のために2009年[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")に脱退した。現在、フリーランスのドラムチューナーとして活動中。
 
 ## 来歴
 
 [1996年](../Page/1996年.md "wikilink")、前身バンド結成。メンバー脱退を経て[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")2月、バンド名をBUNGEE JUMP FESTIVALに改め、[スリーピース](https://ja.wikipedia.org/wiki/スリーピース "wikilink")での活動を開始。
 
-[1999年](../Page/1999年.md "wikilink")1月、1stアルバム『From here, so far...』を[エピックソニー](https://ja.wikipedia.org/wiki/エピックソニー "wikilink")内の自主[レーベル](../Page/レコードレーベル.md "wikilink")「サイコビーム舎」よりリリース。翌年春に[ハイラインレコーズ](https://ja.wikipedia.org/wiki/ハイラインレコーズ "wikilink")と契約。[2001年](../Page/2001年.md "wikilink")秋には自主レーベル「武蔵野レコード」を立ち上げた。[2004年](../Page/2004年.md "wikilink")春、[シンクシンクインテグラル](https://ja.wikipedia.org/wiki/シンクシンクインテグラル "wikilink")内に新レーベルを設立。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月10日](https://ja.wikipedia.org/wiki/12月10日 "wikilink")のワンマンライブをもって解散。
+[1999年](../Page/1999年.md "wikilink")1月、1stアルバム『From here, so far...』を[エピックソニー](https://ja.wikipedia.org/wiki/エピックソニー "wikilink")内の自主[レーベル](../Page/レコードレーベル.md "wikilink")「サイコビーム舎」よりリリース。翌年春に[ハイラインレコーズ](../Page/ハイラインレコーズ.md "wikilink")と契約。[2001年](../Page/2001年.md "wikilink")秋には自主レーベル「武蔵野レコード」を立ち上げた。[2004年](../Page/2004年.md "wikilink")春、[シンクシンクインテグラル](https://ja.wikipedia.org/wiki/シンクシンクインテグラル "wikilink")内に新レーベルを設立。[2005年](../Page/2005年.md "wikilink")[12月10日](../Page/12月10日.md "wikilink")のワンマンライブをもって解散。
 
 ## 作品
 
@@ -76,6 +76,6 @@
 
 ## 関連項目
 
-  - [町田直隆](https://ja.wikipedia.org/wiki/町田直隆 "wikilink")
+  - [町田直隆](../Page/町田直隆.md "wikilink")
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink")

@@ -1,7 +1,7 @@
 > この記事は[MENSOUL](https://ja.wikipedia.org/wiki/MENSOUL)から翻訳されています。
 
 
-**MEN☆SOUL**（メン・ソウル）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の7人組[ファンク](https://ja.wikipedia.org/wiki/ファンク "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。かつて[ハモネプ](https://ja.wikipedia.org/wiki/ハモネプ "wikilink")に出演したグループ・「North」のメンバーを中心に、[経専音楽放送芸術専門学校の同級生で結成された](https://ja.wikipedia.org/wiki/学校法人経専学園 "wikilink")。2004年6月から活動開始。2007年[SME Recordsよりメジャーデビュー](https://ja.wikipedia.org/wiki/エスエムイーレコーズ "wikilink")。2012年3月20日をもって、キング山田を除くメンバー全員が脱退、事実上の活動停止となる（公式HPも消滅）。
+**MEN☆SOUL**（メン・ソウル）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の7人組[ファンク](../Page/ファンク.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。かつて[ハモネプ](https://ja.wikipedia.org/wiki/ハモネプ "wikilink")に出演したグループ・「North」のメンバーを中心に、[経専音楽放送芸術専門学校の同級生で結成された](../Page/学校法人経専学園.md "wikilink")。2004年6月から活動開始。2007年[SME Recordsよりメジャーデビュー](../Page/エスエムイーレコーズ.md "wikilink")。2012年3月20日をもって、キング山田を除くメンバー全員が脱退、事実上の活動停止となる（公式HPも消滅）。
 
 ## メンバー
 
@@ -43,7 +43,7 @@
     2.  For the Fighters
 2.  **Be Happy**（2009年8月5日）
     1.  Be Happy
-          - [ルスツリゾート](https://ja.wikipedia.org/wiki/ルスツリゾート "wikilink")CMソング。
+          - [ルスツリゾート](../Page/ルスツリゾート.md "wikilink")CMソング。
 
 ### アルバム
 
@@ -77,7 +77,7 @@
 
 ## 関連項目
 
-  - [2007年の音楽](https://ja.wikipedia.org/wiki/2007年の音楽 "wikilink")
+  - [2007年の音楽](../Page/2007年の音楽.md "wikilink")
   - [エフエム北海道](../Page/エフエム北海道.md "wikilink")
 
 ## 外部リンク

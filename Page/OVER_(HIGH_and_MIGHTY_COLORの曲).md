@@ -6,15 +6,15 @@
 ## 解説
 
   - この曲で2度目の『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』に出演し演奏した。
-  - ヒットした「[PRIDE](https://ja.wikipedia.org/wiki/PRIDE_\(HIGH_and_MIGHTY_COLORの曲\) "wikilink")」の後のシングルとなったが、[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")トップ10ランクインはならなかった。
+  - ヒットした「[PRIDE](../Page/PRIDE_\(HIGH_and_MIGHTY_COLORの曲\).md "wikilink")」の後のシングルとなったが、[オリコンチャート](../Page/オリコンチャート.md "wikilink")トップ10ランクインはならなかった。
 
 ## 収録曲
 
 1.  OVER
       -
-        [テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")系『[Matthew's Best Hit TV +](https://ja.wikipedia.org/wiki/Matthew's_Best_Hit_TV "wikilink")』エンディングテーマ。
+        [テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[Matthew's Best Hit TV +](../Page/Matthew's_Best_Hit_TV.md "wikilink")』エンディングテーマ。
         インディーズ時代の「OVER」をアレンジし、再びレコーディングされた楽曲。リズムや、歌詞の大きな変更はなくイントロや、ギターソロなどが多少変更されている。
-        PVはドラマや映画などで使われている[埼玉県立大学](../Page/埼玉県立大学.md "wikilink")であり、[スケートボード](https://ja.wikipedia.org/wiki/スケートボード "wikilink")をやっているのはギターのカズトである。
+        PVはドラマや映画などで使われている[埼玉県立大学](../Page/埼玉県立大学.md "wikilink")であり、[スケートボード](../Page/スケートボード.md "wikilink")をやっているのはギターのカズトである。
         歌詞中にある「Go\!\! High and mighty流で」は、ライブ時の掛け声でも使われており、いくつかの初回盤DVD特典などで確認できる。また、帯にも「突き進む、ハイ・アンド・マイティ流で」と書かれている。
 2.  change
       -
@@ -31,7 +31,7 @@
 
 ## 収録アルバム
 
-  - [G∞VER](https://ja.wikipedia.org/wiki/G∞VER "wikilink") (\#1)
+  - [G∞VER](../Page/G∞VER.md "wikilink") (\#1)
   - [10 COLOR SINGLES](https://ja.wikipedia.org/wiki/10_COLOR_SINGLES "wikilink") (\#1)
   - [BEEEEEEST](https://ja.wikipedia.org/wiki/BEEEEEEST "wikilink") (\#1、LIVE@OKINAWA MUSIC TOWN 音市場 2008.8.24)
 
@@ -46,7 +46,7 @@
 1.  OVER
       -
         メジャー版との違いについて、イントロや、ギターソロなどが異なっている。
-        今作のPVは、『[VIDEO G∞VER](https://ja.wikipedia.org/wiki/VIDEO_G∞VER "wikilink")』に「OVER-PRECIOUS VERSION-」で収録されている。
+        今作のPVは、『[VIDEO G∞VER](../Page/VIDEO_G∞VER.md "wikilink")』に「OVER-PRECIOUS VERSION-」で収録されている。
 2.  OVER-キジムナー Party mix-
 
 <!-- end list -->

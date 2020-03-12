@@ -1,11 +1,11 @@
 > この記事は[3Dc](https://ja.wikipedia.org/wiki/3Dc)から翻訳されています。
 
 
-**3Dc**は[法線マップ](https://ja.wikipedia.org/wiki/法線マップ "wikilink")を[非可逆圧縮](../Page/非可逆圧縮.md "wikilink")するアルゴリズムであり、[ATI](https://ja.wikipedia.org/wiki/ATI "wikilink")が最初に開発、実装した。これは初期の[DXT5アルゴリズムをベースとしており](../Page/DXTC.md "wikilink")、[オープンスタンダード](https://ja.wikipedia.org/wiki/オープンスタンダード "wikilink")な技術である。3Dcは今はATIと[NVIDIA](https://ja.wikipedia.org/wiki/NVIDIA "wikilink")の両方が実装している。
+**3Dc**は[法線マップ](https://ja.wikipedia.org/wiki/法線マップ "wikilink")を[非可逆圧縮](../Page/非可逆圧縮.md "wikilink")するアルゴリズムであり、[ATI](https://ja.wikipedia.org/wiki/ATI "wikilink")が最初に開発、実装した。これは初期の[DXT5アルゴリズムをベースとしており](../Page/DXTC.md "wikilink")、[オープンスタンダード](https://ja.wikipedia.org/wiki/オープンスタンダード "wikilink")な技術である。3Dcは今はATIと[NVIDIA](../Page/NVIDIA.md "wikilink")の両方が実装している。
 
 ## 対象分野
 
-対象となる法線マッピングは、直線で囲まれた格子から表面の法線を読み出し、幾何学的な表面にライトを当てることをシミュレーションする[バンプマッピング](https://ja.wikipedia.org/wiki/バンプマッピング "wikilink")の一拡張である。これは、単純なモデルに複雑さを増した印象を与えるテクスチャマップに似たものである。
+対象となる法線マッピングは、直線で囲まれた格子から表面の法線を読み出し、幾何学的な表面にライトを当てることをシミュレーションする[バンプマッピング](../Page/バンプマッピング.md "wikilink")の一拡張である。これは、単純なモデルに複雑さを増した印象を与えるテクスチャマップに似たものである。
 
 処理コストは減少するが、メモリコストはより増大している。コンシューマ用の3Dハードウェアに実装されてきた既存の可逆圧縮アルゴリズムでは、少ない描画物体で正確に表現するための法線マップを用意するには力不足である。これが3Dcの開発された理由である。
 

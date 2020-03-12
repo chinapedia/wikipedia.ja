@@ -1,7 +1,7 @@
 > この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
 
 
-**マッカビ・ハイファFC**（、）は、[イスラエル](../Page/イスラエル.md "wikilink")の都市[ハイファ](https://ja.wikipedia.org/wiki/ハイファ "wikilink")の[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
+**マッカビ・ハイファFC**（、）は、[イスラエル](../Page/イスラエル.md "wikilink")の都市[ハイファ](../Page/ハイファ.md "wikilink")の[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
 
 総合スポーツクラブのマッカビ・ハイファのサッカー部門として[1913年](../Page/1913年.md "wikilink")に創設された\[1\]。地元のライバルに[ハポエル・ハイファがある](https://ja.wikipedia.org/wiki/ハポエル・ハイファFC "wikilink")。 1983-84シーズンに最初のリーグタイトルを獲得して以降、頻繁にタイトルを獲得する強豪クラブのひとつとなった。2002-03シーズンの[UEFAチャンピオンズリーグにて](../Page/UEFAチャンピオンズリーグ_2002-03.md "wikilink")、同大会グループリーグに進出した最初のイスラエルのクラブとなった。
 
@@ -60,7 +60,7 @@
 <td><p>1993-94</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1993-94" title="wikilink">UEFAカップウィナーズカップ</a></p></td>
 <td><p>予備予選</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/F91デュドランジュ" title="wikilink">F91デュドランジュ</a></p></td>
+<td><p><a href="../Page/F91デュドランジュ.md" title="wikilink">F91デュドランジュ</a></p></td>
 <td><p>6-1</p></td>
 <td><p>1-0</p></td>
 <td><p>'''7-1</p></td>
@@ -89,9 +89,9 @@
 </tr>
 <tr class="even">
 <td><p>1994-95</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_1994-95" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
+<td><p><a href="../Page/UEFAチャンピオンズリーグ_1994-95.md" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>予選</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レッドブル・ザルツブルク" title="wikilink">レッドブル・ザルツブルク</a></p></td>
+<td><p><a href="../Page/レッドブル・ザルツブルク.md" title="wikilink">レッドブル・ザルツブルク</a></p></td>
 <td><p>1-2</p></td>
 <td><p>1-3</p></td>
 <td><p>'''2-5</p></td>
@@ -109,7 +109,7 @@
 </tr>
 <tr class="even">
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スポルティング・クルーベ・デ・ポルトゥガル" title="wikilink">スポルティングCP</a></p></td>
+<td><p><a href="../Page/スポルティング・クルーベ・デ・ポルトゥガル.md" title="wikilink">スポルティングCP</a></p></td>
 <td><p>0-0</p></td>
 <td><p>0-4</p></td>
 <td><p>'''0-4</p></td>
@@ -121,7 +121,7 @@
 <td><p>1996-97</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1996-97" title="wikilink">UEFAカップ</a></p></td>
 <td><p>予備予選</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/パルチザン・ベオグラード" title="wikilink">パルチザン</a></p></td>
+<td><p><a href="../Page/パルチザン・ベオグラード.md" title="wikilink">パルチザン</a></p></td>
 <td><p>0-1</p></td>
 <td><p>1-3</p></td>
 <td><p>'''1-4</p></td>
@@ -199,7 +199,7 @@
 </tr>
 <tr class="odd">
 <td><p>準々決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCロコモティフ・モスクワ" title="wikilink">ロコモティフ・モスクワ</a></p></td>
+<td><p><a href="../Page/FCロコモティフ・モスクワ.md" title="wikilink">ロコモティフ・モスクワ</a></p></td>
 <td><p>0-1</p></td>
 <td><p>0-3</p></td>
 <td><p>'''0-4</p></td>
@@ -214,7 +214,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/カラバフFK" title="wikilink">カラバフ</a></p></td>
 <td><p>1-2</p></td>
 <td><p>1-0</p></td>
-<td><p>'''2-2 (<a href="https://ja.wikipedia.org/wiki/アウェーゴール" title="wikilink">a</a>)</p></td>
+<td><p>'''2-2 (<a href="../Page/アウェーゴール.md" title="wikilink">a</a>)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
 <tr class="odd">
@@ -229,7 +229,7 @@
 </tr>
 <tr class="even">
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フィテッセ" title="wikilink">フィテッセ</a></p></td>
+<td><p><a href="../Page/フィテッセ.md" title="wikilink">フィテッセ</a></p></td>
 <td><p>2-1</p></td>
 <td><p>0-3</p></td>
 <td><p>'''2-4</p></td>
@@ -259,7 +259,7 @@
 </tr>
 <tr class="odd">
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SKシュトゥルム・グラーツ" title="wikilink">シュトゥルム・グラーツ</a></p></td>
+<td><p><a href="../Page/SKシュトゥルム・グラーツ.md" title="wikilink">シュトゥルム・グラーツ</a></p></td>
 <td><p>2-0</p></td>
 <td><p>3-3</p></td>
 <td><p>'''5-3</p></td>
@@ -288,7 +288,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/バイエル・レバークーゼン" title="wikilink">バイエル・レバークーゼン</a></p></td>
+<td><p><a href="../Page/バイエル・レバークーゼン.md" title="wikilink">バイエル・レバークーゼン</a></p></td>
 <td><p>0-2</p></td>
 <td><p>1-2</p></td>
 <td></td>
@@ -329,7 +329,7 @@
 </tr>
 <tr class="even">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/バレンシアCF" title="wikilink">バレンシア</a></p></td>
+<td><p><a href="../Page/バレンシアCF.md" title="wikilink">バレンシア</a></p></td>
 <td><p>0-4</p></td>
 <td><p>0-0</p></td>
 <td><p>'''0-4</p></td>
@@ -339,9 +339,9 @@
 </tr>
 <tr class="odd">
 <td><p>2004-05</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2004-05" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
+<td><p><a href="../Page/UEFAチャンピオンズリーグ_2004-05.md" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ローゼンボリBK" title="wikilink">ローゼンボリBK</a></p></td>
+<td><p><a href="../Page/ローゼンボリBK.md" title="wikilink">ローゼンボリBK</a></p></td>
 <td><p>2-3</p></td>
 <td><p>1-2</p></td>
 <td><p>'''3-5</p></td>
@@ -359,9 +359,9 @@
 </tr>
 <tr class="odd">
 <td><p>2005-06</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2005-06" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
+<td><p><a href="../Page/UEFAチャンピオンズリーグ_2005-06.md" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マルメFF" title="wikilink">マルメFF</a></p></td>
+<td><p><a href="../Page/マルメFF.md" title="wikilink">マルメFF</a></p></td>
 <td><p>2-2</p></td>
 <td><p>2-3</p></td>
 <td><p>'''4-5</p></td>
@@ -389,7 +389,7 @@
 </tr>
 <tr class="even">
 <td><p>グループA</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/AJオセール" title="wikilink">オセール</a></p></td>
+<td><p><a href="../Page/AJオセール.md" title="wikilink">オセール</a></p></td>
 <td><p>3-1</p></td>
 <td><p>style="background-color:#CFF" align="center" </p></td>
 <td><p>'''2位</p></td>
@@ -398,7 +398,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/レンジャーズFC" title="wikilink">レンジャーズ</a></p></td>
+<td><p><a href="../Page/レンジャーズFC.md" title="wikilink">レンジャーズ</a></p></td>
 <td><p>style="background-color:#CFF" align="center" </p></td>
 <td><p>0-2</p></td>
 <td></td>
@@ -408,7 +408,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/パルチザン・ベオグラード" title="wikilink">パルチザン</a></p></td>
+<td><p><a href="../Page/パルチザン・ベオグラード.md" title="wikilink">パルチザン</a></p></td>
 <td><p>1-0</p></td>
 <td><p>style="background-color:#CFF" align="center" </p></td>
 <td></td>
@@ -418,7 +418,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ASリヴォルノ・カルチョ" title="wikilink">リヴォルノ</a></p></td>
+<td><p><a href="../Page/ASリヴォルノ・カルチョ.md" title="wikilink">リヴォルノ</a></p></td>
 <td><p>style="background-color:#CFF" align="center" </p></td>
 <td><p>1-1</p></td>
 <td></td>
@@ -429,7 +429,7 @@
 </tr>
 <tr class="even">
 <td><p>ラウンド32</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PFC_CSKAモスクワ" title="wikilink">CSKAモスクワ</a></p></td>
+<td><p><a href="../Page/PFC_CSKAモスクワ.md" title="wikilink">CSKAモスクワ</a></p></td>
 <td><p>1-0</p></td>
 <td><p>0-0</p></td>
 <td><p>'''1-0</p></td>
@@ -439,7 +439,7 @@
 </tr>
 <tr class="odd">
 <td><p>ラウンド16</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RCDエスパニョール" title="wikilink">エスパニョール</a></p></td>
+<td><p><a href="../Page/RCDエスパニョール.md" title="wikilink">エスパニョール</a></p></td>
 <td><p>0-0</p></td>
 <td><p>0-4</p></td>
 <td><p>'''0-4</p></td>
@@ -480,7 +480,7 @@
 </tr>
 <tr class="odd">
 <td><p>プレーオフ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レッドブル・ザルツブルク" title="wikilink">ザルツブルク</a></p></td>
+<td><p><a href="../Page/レッドブル・ザルツブルク.md" title="wikilink">ザルツブルク</a></p></td>
 <td><p>2–1</p></td>
 <td><p>3–0</p></td>
 <td><p>'''5–1</p></td>
@@ -499,7 +499,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/FCジロンダン・ボルドー" title="wikilink">ボルドー</a></p></td>
+<td><p><a href="../Page/FCジロンダン・ボルドー.md" title="wikilink">ボルドー</a></p></td>
 <td><p>0–1</p></td>
 <td><p>0–1</p></td>
 <td></td>
@@ -522,7 +522,7 @@
 <td><p>2010-11</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2010-11" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCディナモ・ミンスク" title="wikilink">ディナモ・ミンスク</a></p></td>
+<td><p><a href="../Page/FCディナモ・ミンスク.md" title="wikilink">ディナモ・ミンスク</a></p></td>
 <td><p>1–0</p></td>
 <td><p>1–3</p></td>
 <td><p>'''2–3</p></td>
@@ -570,7 +570,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/シャルケ04" title="wikilink">シャルケ04</a></p></td>
+<td><p><a href="../Page/シャルケ04.md" title="wikilink">シャルケ04</a></p></td>
 <td><p>1–3</p></td>
 <td><p>0–3</p></td>
 <td></td>
@@ -580,7 +580,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/FCステアウア・ブカレスト" title="wikilink">ステアウア・ブカレスト</a></p></td>
+<td><p><a href="../Page/FCステアウア・ブカレスト.md" title="wikilink">ステアウア・ブカレスト</a></p></td>
 <td><p>5–0</p></td>
 <td><p>2–4</p></td>
 <td></td>
@@ -621,7 +621,7 @@
 </tr>
 <tr class="odd">
 <td><p>グループL</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/AZアルクマール" title="wikilink">AZ</a></p></td>
+<td><p><a href="../Page/AZアルクマール.md" title="wikilink">AZ</a></p></td>
 <td><p>0–1</p></td>
 <td><p>0–2</p></td>
 <td><p>'''3位</p></td>
@@ -653,7 +653,7 @@
 <td><p>2016-17</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2016-17" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ノーメ・カリュFC" title="wikilink">ノーメ・カリュ</a></p></td>
+<td><p><a href="../Page/ノーメ・カリュFC.md" title="wikilink">ノーメ・カリュ</a></p></td>
 <td><p>1–1</p></td>
 <td><p>1–1</p></td>
 <td><p>'''2-2<br />
@@ -672,7 +672,7 @@
 </tr>
 <tr class="even">
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RCストラスブール" title="wikilink">ストラスブール</a></p></td>
+<td><p><a href="../Page/RCストラスブール.md" title="wikilink">ストラスブール</a></p></td>
 <td><p>2–1</p></td>
 <td><p>1–3</p></td>
 <td><p>'''3–4</p></td>
@@ -685,13 +685,13 @@
 
 ## 歴代監督
 
-  - [モルデハイ・シュピーグラー](https://ja.wikipedia.org/wiki/モルデハイ・シュピーグラー "wikilink") 1979
+  - [モルデハイ・シュピーグラー](../Page/モルデハイ・シュピーグラー.md "wikilink") 1979
 
   - [ドゥシャン・ウーリン](https://ja.wikipedia.org/wiki/ドゥシャン・ウーリン "wikilink") 1999-2000
 
   - [エリ・コーヘン](https://ja.wikipedia.org/wiki/エリ・コーヘン_\(1951年生のサッカー選手\) "wikilink") 2000
 
-  - [アヴラム・グラント](https://ja.wikipedia.org/wiki/アヴラム・グラント "wikilink") 2000-2002
+  - [アヴラム・グラント](../Page/アヴラム・グラント.md "wikilink") 2000-2002
 
   - [イツァーク・シュム](https://ja.wikipedia.org/wiki/イツァーク・シュム "wikilink") 2002-2003
 
@@ -723,13 +723,13 @@
 
   - [ハイム・レヴィヴォ](https://ja.wikipedia.org/wiki/ハイム・レヴィヴォ "wikilink") 1994-1996
 
-  - [ヨッシ・ベナユン](https://ja.wikipedia.org/wiki/ヨッシ・ベナユン "wikilink") 1998-2002, 2014-2016
+  - [ヨッシ・ベナユン](../Page/ヨッシ・ベナユン.md "wikilink") 1998-2002, 2014-2016
 
   - [ヤクブ・アイェグベニ](../Page/ヤクブ・アイェグベニ.md "wikilink") 1999-2000, 2000-2001, 2002-2003
 
-  - [ドゥドゥ・アワット](https://ja.wikipedia.org/wiki/ドゥドゥ・アワット "wikilink") 2001-2003
+  - [ドゥドゥ・アワット](../Page/ドゥドゥ・アワット.md "wikilink") 2001-2003
 
-  - [マルコス・パウロ](https://ja.wikipedia.org/wiki/マルコス・パウロ・アウヴェス "wikilink") 2003-2004
+  - [マルコス・パウロ](../Page/マルコス・パウロ・アウヴェス.md "wikilink") 2003-2004
 
   - [リオル・ラファエロフ](https://ja.wikipedia.org/wiki/リオル・ラファエロフ "wikilink") 2004-2011
 
@@ -743,7 +743,7 @@
 
   - [イグナシオ・カヌート](https://ja.wikipedia.org/wiki/イグナシオ・カヌート "wikilink") 2010
 
-  - [ヴラディミル・ストイコヴィッチ](https://ja.wikipedia.org/wiki/ヴラディミル・ストイコヴィッチ "wikilink") 2014-2016
+  - [ヴラディミル・ストイコヴィッチ](../Page/ヴラディミル・ストイコヴィッチ.md "wikilink") 2014-2016
 
   - [マルク・バリエンテ](https://ja.wikipedia.org/wiki/マルク・バリエンテ "wikilink") 2015-2017
 

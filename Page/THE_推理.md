@@ -12,14 +12,14 @@
 ## 作品一覧
 
   - SIMPLE1500シリーズ Vol.59 THE推理 〜IT探偵：18の事件簿〜
-    [2001年](../Page/2001年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")発売。[PlayStation用ソフト](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[5月26日](../Page/5月26日.md "wikilink")から[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")にて配信開始。
+    [2001年](../Page/2001年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")発売。[PlayStation用ソフト](../Page/PlayStation_\(ゲーム機\).md "wikilink")。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[5月26日](../Page/5月26日.md "wikilink")から[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")にて配信開始。
   - SIMPLE2000シリーズ Vol.17 THE推理 〜新たなる20の事件簿〜
     [2002年](../Page/2002年.md "wikilink")[12月26日](../Page/12月26日.md "wikilink")発売。[PlayStation 2用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。
   - SIMPLE2000シリーズ Vol.67 THE推理 〜そして誰もいなくなった〜
     [2004年](../Page/2004年.md "wikilink")[11月11日](../Page/11月11日.md "wikilink")発売。PlayStation 2用ソフト。
     新作20話と第1作の再録。再録分は音声はなし。
   - SIMPLE2500シリーズ Vol.3 THEどこでも推理 〜IT探偵：全68の事件簿〜
-    [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月27日](../Page/4月27日.md "wikilink")発売。[PlayStation Portable用ソフト](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")。2010年[7月22日](../Page/7月22日.md "wikilink")からPSストアにて配信。
+    [2006年](../Page/2006年.md "wikilink")[4月27日](../Page/4月27日.md "wikilink")発売。[PlayStation Portable用ソフト](../Page/PlayStation_Portable.md "wikilink")。2010年[7月22日](../Page/7月22日.md "wikilink")からPSストアにて配信。
     これまでの全話を再録し、新作10話を追加。再録を含めた全話に音声が付加されている。メッセージスキップ機能付。
   - THE推理モバイル〜IT探偵：知られざる5つの事件簿〜
     [2007年](../Page/2007年.md "wikilink")[6月20日](../Page/6月20日.md "wikilink")配信開始。[携帯電話](../Page/携帯電話.md "wikilink")用アプリソフト。
@@ -31,24 +31,24 @@
 ### ゲスト出演作品
 
   - SIMPLE2000シリーズ Vol.91 [THE ALL★STAR格闘祭](https://ja.wikipedia.org/wiki/THE_ALL★STAR格闘祭 "wikilink")
-    [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月15日](../Page/12月15日.md "wikilink")発売。PlayStation 2用ソフト。
-    [デジタルゼロ](https://ja.wikipedia.org/wiki/デジタルゼロ "wikilink")開発の[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")。SIMPLEシリーズのキャラクター達が戦う[クロスオーバー作品](https://ja.wikipedia.org/wiki/クロスオーバー作品 "wikilink")であり、本作から「**ジニー&賢作**」が[プレイヤーキャラクター](../Page/プレイヤーキャラクター.md "wikilink")として出演している。
+    [2005年](../Page/2005年.md "wikilink")[12月15日](../Page/12月15日.md "wikilink")発売。PlayStation 2用ソフト。
+    [デジタルゼロ](https://ja.wikipedia.org/wiki/デジタルゼロ "wikilink")開発の[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")。SIMPLEシリーズのキャラクター達が戦う[クロスオーバー作品](../Page/クロスオーバー作品.md "wikilink")であり、本作から「**ジニー&賢作**」が[プレイヤーキャラクター](../Page/プレイヤーキャラクター.md "wikilink")として出演している。
   - SIMPLE DSシリーズ Vol.27 [THE 密室からの脱出](https://ja.wikipedia.org/wiki/THE_密室からの脱出 "wikilink") 〜THE推理番外編〜
     [2007年](../Page/2007年.md "wikilink")[11月29日](../Page/11月29日.md "wikilink")発売。ニンテンドーDS用ソフト。
-    [インテンス](https://ja.wikipedia.org/wiki/インテンス "wikilink")開発の[脱出ゲーム](https://ja.wikipedia.org/wiki/脱出ゲーム "wikilink")。ボスが出演しているが、次作より独立したシリーズになっている。
+    [インテンス](https://ja.wikipedia.org/wiki/インテンス "wikilink")開発の[脱出ゲーム](../Page/脱出ゲーム.md "wikilink")。ボスが出演しているが、次作より独立したシリーズになっている。
 
 その他、[関連項目の節も参照](https://ja.wikipedia.org/wiki/#関連項目 "wikilink")。
 
 ## ストーリー
 
-5年後か10年後か、少しだけ未来の日本では、**擬似人格インターフェイス**（以下**擬人**）という、一種の会話専用人工知能が社会に広まりつつあったが、それと同時に、[引きこもり](https://ja.wikipedia.org/wiki/引きこもり "wikilink")・人間雇用の減少・人間になりすます[詐欺](../Page/詐欺.md "wikilink")などの社会問題も生んでいた。
+5年後か10年後か、少しだけ未来の日本では、**擬似人格インターフェイス**（以下**擬人**）という、一種の会話専用人工知能が社会に広まりつつあったが、それと同時に、[引きこもり](../Page/引きこもり.md "wikilink")・人間雇用の減少・人間になりすます[詐欺](../Page/詐欺.md "wikilink")などの社会問題も生んでいた。
 
 主人公は擬人スタッフと共に、近所の揉め事の仲裁から殺人事件の捜査まで、インターネット社会の様々な事件に挑んでいく。
 
 ## 登場人物
 
   - ボス
-    主人公。本名不明。叔父の探偵事務所を引き継ぐ。基本的な捜査パターンは、事務所内のパソコンから得られる情報を頼りに推理を進め解決に至るもので、事件現場に行ったり、関係者に直接会って聞き込みをしたりすることはほとんどない。いわゆる[安楽椅子探偵](https://ja.wikipedia.org/wiki/安楽椅子探偵 "wikilink")。ゲームの進行役で、音声や本名の設定が省かれている。趣味は競馬と将棋、古典推理小説鑑賞など。彼と賢作は『THE 裁判』にもゲスト出演している。
+    主人公。本名不明。叔父の探偵事務所を引き継ぐ。基本的な捜査パターンは、事務所内のパソコンから得られる情報を頼りに推理を進め解決に至るもので、事件現場に行ったり、関係者に直接会って聞き込みをしたりすることはほとんどない。いわゆる[安楽椅子探偵](../Page/安楽椅子探偵.md "wikilink")。ゲームの進行役で、音声や本名の設定が省かれている。趣味は競馬と将棋、古典推理小説鑑賞など。彼と賢作は『THE 裁判』にもゲスト出演している。
   - ジニー
     声：[平松晶子](../Page/平松晶子.md "wikilink")
     擬人秘書。しっかり者で、ややきつい性格。実は法律で禁止されている**ブレインコピー**（人間の脳を複写した擬人）で、ブレインコピー特有の難病を抱えている。ふてくされると簡素な顔文字になる。怪談を怖がりつつも、楽しみにする一面がある。
@@ -57,9 +57,9 @@
     ネットペット（猫）型検索ソフトだが、実は元野良（[ウィルス](https://ja.wikipedia.org/wiki/コンピュータウイルス "wikilink")）。ジニーと同じく擬人。勝手に事務所に住み着いてはいるが、高い検索機能や画像解析機能を持ち、事件解決には欠かせない有能な人材でもある。気まぐれで負けず嫌いな性格をしており、元がウィルスなのでやや倫理観に欠ける。語尾に「-にゃ」とつくのが特徴。
   - お嬢
     声：[松岡由貴](../Page/松岡由貴.md "wikilink")
-    2以降に登場するキャラクター。中田中[外務大臣](../Page/外務大臣.md "wikilink")（声 - [日下ちひろ](https://ja.wikipedia.org/wiki/日下ちひろ "wikilink")）の娘。裏表がなく、親しみやすい性格をしているが、大雑把な中学二年生。ある事件を機に探偵事務所の面々と知り合ったことから事務所に遊びに来るようになる。
+    2以降に登場するキャラクター。中田中[外務大臣](../Page/外務大臣.md "wikilink")（声 - [日下ちひろ](../Page/日下ちひろ.md "wikilink")）の娘。裏表がなく、親しみやすい性格をしているが、大雑把な中学二年生。ある事件を機に探偵事務所の面々と知り合ったことから事務所に遊びに来るようになる。
   - 隅野
-    声：2＝[岡野浩介](https://ja.wikipedia.org/wiki/岡野浩介 "wikilink")、3＝[白熊寛嗣](https://ja.wikipedia.org/wiki/白熊寛嗣 "wikilink")
+    声：2＝[岡野浩介](../Page/岡野浩介.md "wikilink")、3＝[白熊寛嗣](../Page/白熊寛嗣.md "wikilink")
     主人公の知人であり、大手探偵会社の男性社員。大手企業として扱うには割のあわない仕事等を主人公にたびたび回してくる。B級グルメファン。
   - 江波警視
     声：2＝[斎賀みつき](../Page/斎賀みつき.md "wikilink")、3＝[大田詩織](https://ja.wikipedia.org/wiki/大田詩織 "wikilink")

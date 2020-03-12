@@ -1,7 +1,7 @@
 > この記事は[KIX-S \(\)](https://ja.wikipedia.org/wiki/KIX-S_\(\))から翻訳されています。
 
 
-『**KIX-S**』（キックス）は、女性[ロック](../Page/ロック_\(音楽\).md "wikilink")[デュオである](https://ja.wikipedia.org/wiki/二人組 "wikilink")[KIX-S](https://ja.wikipedia.org/wiki/KIX-S "wikilink")の1枚目のアルバム。
+『**KIX-S**』（キックス）は、女性[ロック](../Page/ロック_\(音楽\).md "wikilink")[デュオである](../Page/二人組.md "wikilink")[KIX-S](../Page/KIX-S.md "wikilink")の1枚目のアルバム。
 
 ## 内容
 
@@ -13,7 +13,7 @@ CDジャーナルは、「コワもての[レディース](../Page/暴走族.md 
 
 ## 収録曲
 
-  - 全作詞:[浜口司](https://ja.wikipedia.org/wiki/浜口司 "wikilink")、作曲:[安宅美春](../Page/安宅美春.md "wikilink")（特記以外）
+  - 全作詞:[浜口司](../Page/浜口司.md "wikilink")、作曲:[安宅美春](../Page/安宅美春.md "wikilink")（特記以外）
 
 <!-- end list -->
 
@@ -22,7 +22,7 @@ CDジャーナルは、「コワもての[レディース](../Page/暴走族.md 
         編曲:[井上日徳](https://ja.wikipedia.org/wiki/井上日徳 "wikilink")
 2.  **とびきりのLonely time**
       -
-        作曲:安宅美春・歌川和彦、編曲:[明石昌夫](https://ja.wikipedia.org/wiki/明石昌夫 "wikilink")
+        作曲:安宅美春・歌川和彦、編曲:[明石昌夫](../Page/明石昌夫.md "wikilink")
 3.  **ロックでいかが?**
       -
         編曲:明石昌夫
@@ -41,13 +41,13 @@ CDジャーナルは、「コワもての[レディース](../Page/暴走族.md 
   - 浜口司 - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
   - 安宅美春 - [ギター](../Page/ギター.md "wikilink")
       - [増崎孝司](https://ja.wikipedia.org/wiki/増崎孝司 "wikilink") - [アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")
-      - [明石昌夫](https://ja.wikipedia.org/wiki/明石昌夫 "wikilink") - [シンセサイザー](../Page/シンセサイザー.md "wikilink")
+      - [明石昌夫](../Page/明石昌夫.md "wikilink") - [シンセサイザー](../Page/シンセサイザー.md "wikilink")
 
 ## 関連項目
 
   - [ビーイング](../Page/ビーイング.md "wikilink")
-  - [KIX-S](https://ja.wikipedia.org/wiki/KIX-S "wikilink")
-      - [浜口司](https://ja.wikipedia.org/wiki/浜口司 "wikilink")
+  - [KIX-S](../Page/KIX-S.md "wikilink")
+      - [浜口司](../Page/浜口司.md "wikilink")
       - [安宅美春](../Page/安宅美春.md "wikilink")
 
 ## 脚注

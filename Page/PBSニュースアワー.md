@@ -1,7 +1,7 @@
 > この記事は[PBS](https://ja.wikipedia.org/wiki/PBS)から翻訳されています。
 
 
-『**PBSニュースアワー**』 (PBS News Hour) は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[公共ネットワークである](../Page/公共放送.md "wikilink")[PBSが放送している平日夜の](../Page/公共放送サービス.md "wikilink")[報道番組](../Page/報道番組.md "wikilink")。制作は、[リバティメディア](../Page/リバティメディア.md "wikilink")が67%を出資する「MacNeil/Lehrer Productions」。放送時間は平日 19:00 - 20:00 ([ET](https://ja.wikipedia.org/wiki/東部標準時 "wikilink")) 。
+『**PBSニュースアワー**』 (PBS News Hour) は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[公共ネットワークである](../Page/公共放送.md "wikilink")[PBSが放送している平日夜の](../Page/公共放送サービス.md "wikilink")[報道番組](../Page/報道番組.md "wikilink")。制作は、[リバティメディア](../Page/リバティメディア.md "wikilink")が67%を出資する「MacNeil/Lehrer Productions」。放送時間は平日 19:00 - 20:00 ([ET](../Page/東部標準時.md "wikilink")) 。
 
 ## 歴史
 
@@ -9,7 +9,7 @@
 
 1983年から放送枠を1時間に拡大。番組名も『**マクニール／レーラー ニュースアワー**』 (MacNeil/Lehrer NewsHour) となり、現在のように複数の時事問題について分析・討論する番組となった。
 
-1995年にマクニールが引退し、以後はレーラーの単独アンカーとなり『**ニュースアワー ウィズ ジム・レーラー**』 (NewsHour with Jim Lehrer　日本の[NHK BS1の番組表ではしばしば](https://ja.wikipedia.org/wiki/NHK_BS1 "wikilink")「**ジム・レーラーのニュースアワー**」\[1\]と表記された) 。2009年にレーラー以外のアンカーの比重を高め、番組名を司会者冠名を外した現在の『**PBSニュースアワー**』としてリニューアルした。レーラーは共同アンカーに残ったが、徐々に担当する量を減少させていった。
+1995年にマクニールが引退し、以後はレーラーの単独アンカーとなり『**ニュースアワー ウィズ ジム・レーラー**』 (NewsHour with Jim Lehrer　日本の[NHK BS1の番組表ではしばしば](../Page/NHK_BS1.md "wikilink")「**ジム・レーラーのニュースアワー**」\[1\]と表記された) 。2009年にレーラー以外のアンカーの比重を高め、番組名を司会者冠名を外した現在の『**PBSニュースアワー**』としてリニューアルした。レーラーは共同アンカーに残ったが、徐々に担当する量を減少させていった。
 
 マクニールは、引退後も番組の記念企画や国内ジャーナリズムに関するテーマでゲストとして登場したり、[同時多発テロ](https://ja.wikipedia.org/wiki/同時多発テロ "wikilink")の際には討論の司会を臨時に引き受けるなど、折にふれて番組に出演している。
 
@@ -25,13 +25,13 @@
 
 それ以外の主要ニュース (*News Summary*) は番組の冒頭と、最後に (*Recap*) 要約して放送する。海外からのニュースは、特派記者によるものでない限り、イギリス[ITN](../Page/ITN.md "wikilink")の映像を使用する。
 
-週に一度の頻度で最近の政治問題に関する小規模な討論が行われる。司会はシニア・コレスポンダントの[レイ・スアレズ](https://ja.wikipedia.org/wiki/レイ・スアレズ "wikilink")が務め、保守派の代表として[ニューヨーク・タイムズ](https://ja.wikipedia.org/wiki/ニューヨーク・タイムズ "wikilink")のデイヴィッド・ブルックス、リベラル側として[ワシントン・ポスト](../Page/ワシントン・ポスト.md "wikilink")などに寄稿するシンジケイティッド・コラムニストのマーク・シールズが互いの政治的立場からの意見を述べる。
+週に一度の頻度で最近の政治問題に関する小規模な討論が行われる。司会はシニア・コレスポンダントの[レイ・スアレズ](https://ja.wikipedia.org/wiki/レイ・スアレズ "wikilink")が務め、保守派の代表として[ニューヨーク・タイムズ](../Page/ニューヨーク・タイムズ.md "wikilink")のデイヴィッド・ブルックス、リベラル側として[ワシントン・ポスト](../Page/ワシントン・ポスト.md "wikilink")などに寄稿するシンジケイティッド・コラムニストのマーク・シールズが互いの政治的立場からの意見を述べる。
 
 ## 海外放送
 
-国際ラジオ放送[VOAの他](https://ja.wikipedia.org/wiki/ボイス・オブ・アメリカ "wikilink")、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")や[オーストラリア](../Page/オーストラリア.md "wikilink") ([SBS](https://ja.wikipedia.org/wiki/スペシャル・ブロードキャスティング・サービス "wikilink")) 、ニュージーランド、ヨーロッパ (Orbit News) でテレビ放送されている。
+国際ラジオ放送[VOAの他](../Page/ボイス・オブ・アメリカ.md "wikilink")、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")や[オーストラリア](../Page/オーストラリア.md "wikilink") ([SBS](../Page/スペシャル・ブロードキャスティング・サービス.md "wikilink")) 、ニュージーランド、ヨーロッパ (Orbit News) でテレビ放送されている。
 
-日本では[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[BS1で火](https://ja.wikipedia.org/wiki/NHK_BS1 "wikilink") - 金曜日の午後2時から、[放送通訳](https://ja.wikipedia.org/wiki/放送通訳 "wikilink")を付けて放送されている。また、2000年代からはPBSによる[クローズドキャプション](../Page/クローズドキャプション.md "wikilink")（英語字幕）が付く。2007年12月からは本国で[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作が始まり、デジタル放送では16:9のフルサイズで、アナログ放送ではサイドカットして4:3で放送されている。通訳者の作業や視聴者層を考慮して放送時間の変更が何度か行なわれた。一時は午前3時50分から再放送されていた時期もあったが、1990年代後半からは午後2時台に放送されている。また、内容の一部は『[きょうの世界](https://ja.wikipedia.org/wiki/きょうの世界 "wikilink")』でも放送されている。ただし、[メジャーリーグ](https://ja.wikipedia.org/wiki/メジャーリーグ "wikilink")期間中は中継放送の延長により、予定されていた放送が短縮されるか、休止になることがある。2011年4月からは「[ワールドWave](https://ja.wikipedia.org/wiki/ワールドWave "wikilink")」の一部として午後4時からBS1で[ABC](https://ja.wikipedia.org/wiki/アメリカン・ブロードキャスティング・カンパニー "wikilink")[ナイトライン](../Page/ナイトライン.md "wikilink")と共に放送されている。2013年度でワールドWaveが終了したことから、本番組はそのまま「[ワールドニュースアメリカ](https://ja.wikipedia.org/wiki/ワールドニュースアワー#ワールドニュースアメリカ "wikilink")」内に移行している。
+日本では[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[BS1で火](../Page/NHK_BS1.md "wikilink") - 金曜日の午後2時から、[放送通訳](https://ja.wikipedia.org/wiki/放送通訳 "wikilink")を付けて放送されている。また、2000年代からはPBSによる[クローズドキャプション](../Page/クローズドキャプション.md "wikilink")（英語字幕）が付く。2007年12月からは本国で[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作が始まり、デジタル放送では16:9のフルサイズで、アナログ放送ではサイドカットして4:3で放送されている。通訳者の作業や視聴者層を考慮して放送時間の変更が何度か行なわれた。一時は午前3時50分から再放送されていた時期もあったが、1990年代後半からは午後2時台に放送されている。また、内容の一部は『[きょうの世界](../Page/きょうの世界.md "wikilink")』でも放送されている。ただし、[メジャーリーグ](https://ja.wikipedia.org/wiki/メジャーリーグ "wikilink")期間中は中継放送の延長により、予定されていた放送が短縮されるか、休止になることがある。2011年4月からは「[ワールドWave](https://ja.wikipedia.org/wiki/ワールドWave "wikilink")」の一部として午後4時からBS1で[ABC](../Page/アメリカン・ブロードキャスティング・カンパニー.md "wikilink")[ナイトライン](../Page/ナイトライン.md "wikilink")と共に放送されている。2013年度でワールドWaveが終了したことから、本番組はそのまま「[ワールドニュースアメリカ](https://ja.wikipedia.org/wiki/ワールドニュースアワー#ワールドニュースアメリカ "wikilink")」内に移行している。
 
 ## インターネットへの対応
 

@@ -1,7 +1,7 @@
 > この記事は[21-Two One-](https://ja.wikipedia.org/wiki/21-Two_One-)から翻訳されています。
 
 
-『**21-Two One-**』（ツーワン、**トゥーワン**）は、[2001年](../Page/2001年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")に[BasiL](https://ja.wikipedia.org/wiki/BasiL "wikilink")より発売された[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")。翌年には[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")版が発売された。
+『**21-Two One-**』（ツーワン、**トゥーワン**）は、[2001年](../Page/2001年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")に[BasiL](../Page/BasiL.md "wikilink")より発売された[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")。翌年には[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")版が発売された。
 
 ## 概要
 
@@ -42,10 +42,10 @@ BasiLの活動休止にともなって販売は終了していたが、[2009年]
     声：[三石琴乃](../Page/三石琴乃.md "wikilink")
     主人公と同僚の医師で腕利き。童顔の上に明るく人当たりもいいため、男性職員や患者から人気がある。彼女の母親が優秀な医師だったこともあり、回りから多大な期待をよせられている。
   - 二見 美魚（ふたみ みお）
-    声：[日向裕羅](https://ja.wikipedia.org/wiki/日向裕羅 "wikilink")
+    声：[日向裕羅](../Page/日向裕羅.md "wikilink")
     真魚の妹。主人公が勤めている病院に入院していた。原因不明の病に侵されており、病院側も諦めている。発作が起きなければ日常生活に支障は無いとの判断により退院させられたが、発作を起こして再び入院する。
   - 二見 真魚（ふたみ まお）
-    声：[長沢美樹](https://ja.wikipedia.org/wiki/長沢美樹 "wikilink")
+    声：[長沢美樹](../Page/長沢美樹.md "wikilink")
     美魚の姉。無口だが、子供と遊ぶ事は好きである。約束を忘れる等、意外と抜けているところもある。妹の病気を治したい一心で医師を目指している。妹に対する主人公の医者としての心構えや態度を尊敬しており、また、異性として好意を抱いてもいる。
   - 橘 唯奈（たちばな ゆいな）
     声：[雪乃五月](https://ja.wikipedia.org/wiki/雪野五月 "wikilink")
@@ -60,7 +60,7 @@ BasiLの活動休止にともなって販売は終了していたが、[2009年]
     声：飯塚雅弓
     香澄の双子の兄。性格は香澄と反対で、静かで理知的な性格。
   - 狭川 翠（さがわ みどり）
-    声：[豊嶋真千子](https://ja.wikipedia.org/wiki/豊嶋真千子 "wikilink")
+    声：[豊嶋真千子](../Page/豊嶋真千子.md "wikilink")
     病院内にあるカフェで働いている。病院には不釣合いな制服（衣装）を着ている。[ネコ耳を常に着用している](../Page/猫耳.md "wikilink")。好奇心旺盛で、あちこちの会話に首を突っ込んでくる。
   - 原崎 豊（はらざき ゆたか）
     声：[子安武人](../Page/子安武人.md "wikilink")
@@ -76,7 +76,7 @@ BasiLの活動休止にともなって販売は終了していたが、[2009年]
 
 ## SPECIAL FAN DISC
 
-[メッセサンオー](https://ja.wikipedia.org/wiki/メッセサンオー "wikilink")の予約特典として配布されたファンディスク。以下のものが収録されている。
+[メッセサンオー](../Page/メッセサンオー.md "wikilink")の予約特典として配布されたファンディスク。以下のものが収録されている。
 
   - 210 -Two One Zero-
     紅葉が病院内に流した噂を聞き、怒り狂いながら探し回る主人公。CG3枚が新しく書き加えられている。また『[Bless](https://ja.wikipedia.org/wiki/Bless_〜close_your_eyes,_open_your_mind.〜 "wikilink")』の主人公が入院しているという設定で、矢野原まきえがゲスト出演している。
@@ -93,9 +93,9 @@ BasiLの活動休止にともなって販売は終了していたが、[2009年]
 
 ## スタッフ
 
-  - 原画：[西又葵](https://ja.wikipedia.org/wiki/西又葵 "wikilink")、[こつえー](https://ja.wikipedia.org/wiki/駒都えーじ "wikilink")、[里海ひなこ](../Page/里海ひなこ.md "wikilink")
+  - 原画：[西又葵](../Page/西又葵.md "wikilink")、[こつえー](../Page/駒都えーじ.md "wikilink")、[里海ひなこ](../Page/里海ひなこ.md "wikilink")
       - 汽京紅葉と一ノ瀬木葉をこつえーが、三原香澄と霞を里海が担当。残りは西又が担当している。
-  - シナリオ：[あごバリア](../Page/あごバリア.md "wikilink")、[王雀孫](https://ja.wikipedia.org/wiki/王雀孫 "wikilink")
+  - シナリオ：[あごバリア](../Page/あごバリア.md "wikilink")、[王雀孫](../Page/王雀孫.md "wikilink")
       - メインシナリオをあごが、おまけシナリオを王が担当している。
   - サウンド：coldhand、KING、内藤侑史、[アッチョリケ](https://ja.wikipedia.org/wiki/アッチョリケ "wikilink")
 

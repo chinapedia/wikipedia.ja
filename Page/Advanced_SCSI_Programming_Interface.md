@@ -34,8 +34,8 @@
 
   - [MS-DOS](../Page/MS-DOS.md "wikilink")
   - [Windows 3.1](../Page/Microsoft_Windows_3.x.md "wikilink")
-  - [Windows 9x系](https://ja.wikipedia.org/wiki/Windows_9x系 "wikilink")
-  - [Windows NT系](https://ja.wikipedia.org/wiki/Windows_NT系 "wikilink")
+  - [Windows 9x系](../Page/Windows_9x系.md "wikilink")
+  - [Windows NT系](../Page/Windows_NT系.md "wikilink")
   - [NetWare](https://ja.wikipedia.org/wiki/NetWare "wikilink")
   - [OS/2](https://ja.wikipedia.org/wiki/OS/2 "wikilink")
 

@@ -1,11 +1,11 @@
 > この記事は[MSNBC](https://ja.wikipedia.org/wiki/MSNBC)から翻訳されています。
 
 
-**MSNBC**は、[1996年](../Page/1996年.md "wikilink")に開局した[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")向けの[ニュース専門放送局](https://ja.wikipedia.org/wiki/ニュース専門放送局 "wikilink")。放送ネットワーク[NBC](https://ja.wikipedia.org/wiki/NBC "wikilink")と[マイクロソフト](../Page/マイクロソフト.md "wikilink")が共同で設立したものであり、マイクロソフトの[ポータルサイト](../Page/ポータルサイト.md "wikilink")・[MSN](../Page/MSN.md "wikilink")とNBCを組合せたものがチャンネル名となっている。
+**MSNBC**は、[1996年](../Page/1996年.md "wikilink")に開局した[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")向けの[ニュース専門放送局](../Page/ニュース専門放送局.md "wikilink")。放送ネットワーク[NBC](../Page/NBC.md "wikilink")と[マイクロソフト](../Page/マイクロソフト.md "wikilink")が共同で設立したものであり、マイクロソフトの[ポータルサイト](../Page/ポータルサイト.md "wikilink")・[MSN](../Page/MSN.md "wikilink")とNBCを組合せたものがチャンネル名となっている。
 
 ## 概要
 
-ニュースに関してはNBCが所有する取材源（[NBCニュース](https://ja.wikipedia.org/wiki/NBCニュース "wikilink")、[CNBC](https://ja.wikipedia.org/wiki/CNBC "wikilink")、全米のNBC加盟放送局など）や[ワシントン・ポスト](../Page/ワシントン・ポスト.md "wikilink")、[ニューズウィーク](https://ja.wikipedia.org/wiki/ニューズウィーク "wikilink")と提携。
+ニュースに関してはNBCが所有する取材源（[NBCニュース](https://ja.wikipedia.org/wiki/NBCニュース "wikilink")、[CNBC](../Page/CNBC.md "wikilink")、全米のNBC加盟放送局など）や[ワシントン・ポスト](../Page/ワシントン・ポスト.md "wikilink")、[ニューズウィーク](../Page/ニューズウィーク.md "wikilink")と提携。
 
 テレビ放送は2000年代後半から政治ニュースを扱う番組が中心になり、リベラル派キャスターの活躍が注目されている。速報性を重視し、主要ニュースに多くの時間を割く傾向は開始時から受け継がれる。視聴者数がCNNや[FOXニュースチャンネル](https://ja.wikipedia.org/wiki/FOXニュースチャンネル "wikilink")の後塵を拝し続け、長年に渡って採算が取れないのが課題となり、マイクロソフトは2005年末から2006年にかけてテレビ部門の株をNBCに売却した。
 
@@ -15,15 +15,15 @@
 
 1996年7月開局。NBCが2年間続けていたケーブルチャンネル「America's Talking」（アメリカズ・トーキング）を閉鎖、全く新しいニュースチャンネルとして発足した。9月からは[ドン・アイマス](https://ja.wikipedia.org/wiki/ドン・アイマス "wikilink")がパーソナリティーを務める人気ラジオ番組「Imus in the Morning（アイマス・イン・ザ・モーニング）」の同時放送を開始。11月にはNBCが入居するロックフェラーセンターから[ニュージャージー](https://ja.wikipedia.org/wiki/ニュージャージー "wikilink")州にある新社屋に移転。
 
-1990年代後半はインターネット・電子メールで意見を募集したり、CGなどコンピューター技術を活かす番組に取り組む（「The Site」や「Feedback」など）。しかし、なかなか長続きする番組が揃わない状態が続く。1999年、NBCの「[Today](https://ja.wikipedia.org/wiki/トゥデイ_\(テレビ番組\) "wikilink")」を再編集した番組を放送。2000年からは週末を中心にドキュメンタリー番組の放送を開始。
+1990年代後半はインターネット・電子メールで意見を募集したり、CGなどコンピューター技術を活かす番組に取り組む（「The Site」や「Feedback」など）。しかし、なかなか長続きする番組が揃わない状態が続く。1999年、NBCの「[Today](../Page/トゥデイ_\(テレビ番組\).md "wikilink")」を再編集した番組を放送。2000年からは週末を中心にドキュメンタリー番組の放送を開始。
 
-2002年に[ブライアン・ウイリアムズ](https://ja.wikipedia.org/wiki/ブライアン・ウイリアムズ "wikilink")の番組がCNBCに移動、後任に[ジョー・スカーボロ](https://ja.wikipedia.org/wiki/ジョー・スカーボロ "wikilink")（Joe Scarborough「スカボロウ」とも表記）を起用、これでCNBCと完全に別番組を編成することになった。ライバルFOXの[ビル・オライリー](https://ja.wikipedia.org/wiki/ビル・オライリー "wikilink")が活躍する午後8時台にはトーク番組の重鎮・[フィル・ドナヒュー](https://ja.wikipedia.org/wiki/フィル・ドナヒュー "wikilink")を起用したが、2003年の[イラク戦争](../Page/イラク戦争.md "wikilink")報道を前に[キース・オルバーマン](https://ja.wikipedia.org/wiki/キース・オルバーマン "wikilink")が担当することになる。しかし、視聴者数が[CNNヘッドラインニュース](https://ja.wikipedia.org/wiki/CNNヘッドラインニュース "wikilink")に追いつかれて互角になるなど、未だに低迷が続いていた。
+2002年に[ブライアン・ウイリアムズ](https://ja.wikipedia.org/wiki/ブライアン・ウイリアムズ "wikilink")の番組がCNBCに移動、後任に[ジョー・スカーボロ](https://ja.wikipedia.org/wiki/ジョー・スカーボロ "wikilink")（Joe Scarborough「スカボロウ」とも表記）を起用、これでCNBCと完全に別番組を編成することになった。ライバルFOXの[ビル・オライリー](../Page/ビル・オライリー.md "wikilink")が活躍する午後8時台にはトーク番組の重鎮・[フィル・ドナヒュー](https://ja.wikipedia.org/wiki/フィル・ドナヒュー "wikilink")を起用したが、2003年の[イラク戦争](../Page/イラク戦争.md "wikilink")報道を前に[キース・オルバーマン](https://ja.wikipedia.org/wiki/キース・オルバーマン "wikilink")が担当することになる。しかし、視聴者数が[CNNヘッドラインニュース](https://ja.wikipedia.org/wiki/CNNヘッドラインニュース "wikilink")に追いつかれて互角になるなど、未だに低迷が続いていた。
 
 2005年にはCNNから[タッカー・カールソン](https://ja.wikipedia.org/wiki/タッカー・カールソン "wikilink")を起用するなど夜のニュース番組の数を増やしたが、2006年には縮小する。この時、法律/犯罪分野が消えて政治を専門とした番組が残った格好となり、キース・オルバーマンの「反[ブッシュ](../Page/ジョージ・W・ブッシュ.md "wikilink")」姿勢が顕著となる。
 
 2007年4月11日、番組内でドン・アイマスが[人種差別](../Page/人種差別.md "wikilink")発言をしたことが全米中で問題となり、翌12日に放送がキャンセル。後継探しの結果、ジョー・スカーボロを起用。経費削減として編集セクションとスタジオをNBCニュースと共同化する為、ニュージャージーの社屋を閉鎖して、ロックフェラーセンターのGEビルに移転。
 
-2008年、1年近くに渡る[アメリカ大統領選挙報道を見据え](https://ja.wikipedia.org/wiki/2008年アメリカ大統領選挙 "wikilink")、政治ニュースを提供するチャンネルだと強調する「The Place for Politics」をスローガンに。MSNBCのコメンテーターや臨時ホストを務めているリベラル派の[レイチェル・マドー](https://ja.wikipedia.org/wiki/レイチェル・マドー "wikilink")をキャスターに起用したところ、MSNBCが初めて[ラリー・キング・ライブ](https://ja.wikipedia.org/wiki/ラリー・キング・ライブ "wikilink")に視聴者数で追い抜く躍進を見せる。プライムタイムで視聴者が1年間で61%増加し、20-54歳の年齢層ではFOXニュースやCNNと互角の状況となる。
+2008年、1年近くに渡る[アメリカ大統領選挙報道を見据え](https://ja.wikipedia.org/wiki/2008年アメリカ大統領選挙 "wikilink")、政治ニュースを提供するチャンネルだと強調する「The Place for Politics」をスローガンに。MSNBCのコメンテーターや臨時ホストを務めているリベラル派の[レイチェル・マドー](https://ja.wikipedia.org/wiki/レイチェル・マドー "wikilink")をキャスターに起用したところ、MSNBCが初めて[ラリー・キング・ライブ](../Page/ラリー・キング・ライブ.md "wikilink")に視聴者数で追い抜く躍進を見せる。プライムタイムで視聴者が1年間で61%増加し、20-54歳の年齢層ではFOXニュースやCNNと互角の状況となる。
 
 2009年、4月にラジオパーソナリティーの[エド・シュルツ](https://ja.wikipedia.org/wiki/エド・シュルツ "wikilink")を起用。中道・リベラル寄りとされていて、左派の起用が目立つ格好となる。6月からHD放送を開始、昼間の6時間を改編したが大コケした。2010年、新番組に[ローレンス・オドネル](../Page/ローレンス・オドネル.md "wikilink")を起用。
 
@@ -33,7 +33,7 @@ CNNとプライムタイムの視聴率競争は2008年から本格化し、2009
 
 Pew Research Centerによる米国における2013年のニュースメディアの現状を示す報告書によると、MSNBCの番組の85%がキャスター個人の論評や意見であり、事実を純粋に伝える報道が15%であるとされた。またSNL Kaganの試算によれば、2012年の番組制作費用は2億4000万ドルで、FOXやCNNより圧倒的に少ないものと見られている。\[3\]
 
-2018年12月27日週の総視聴者数で156万人を記録し18年間に渡り首位であった[FOXニュース](https://ja.wikipedia.org/wiki/FOXニュース "wikilink")を破り初の首位に浮上した\[4\]。
+2018年12月27日週の総視聴者数で156万人を記録し18年間に渡り首位であった[FOXニュース](../Page/FOXニュース.md "wikilink")を破り初の首位に浮上した\[4\]。
 
 ## 主な番組
 
@@ -175,7 +175,7 @@ Abby Huntsman</p></td>
 ## 関連項目
 
   - [NBCニュース](https://ja.wikipedia.org/wiki/NBCニュース "wikilink")
-  - [CNBC](https://ja.wikipedia.org/wiki/CNBC "wikilink")
+  - [CNBC](../Page/CNBC.md "wikilink")
 
 ## 外部リンク
 

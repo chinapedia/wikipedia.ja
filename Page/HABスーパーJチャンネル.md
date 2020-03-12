@@ -1,7 +1,7 @@
 > この記事は[HABJ](https://ja.wikipedia.org/wiki/HABJ)から翻訳されています。
 
 
-『**HABスーパーJチャンネル**』（エイチエービースーパージェイチャンネル）は、[北陸朝日放送](../Page/北陸朝日放送.md "wikilink")で放送されている、夕方の[ローカルワイド](https://ja.wikipedia.org/wiki/ローカルワイド番組 "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")（『[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』の[石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")ローカル版）。2007年9月までローカル部分は[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")は実施されていなかったが、2007年10月からハイビジョン制作になった。
+『**HABスーパーJチャンネル**』（エイチエービースーパージェイチャンネル）は、[北陸朝日放送](../Page/北陸朝日放送.md "wikilink")で放送されている、夕方の[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")（『[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』の[石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")ローカル版）。2007年9月までローカル部分は[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")は実施されていなかったが、2007年10月からハイビジョン制作になった。
 
 2019年4月1日から『HABスーパーJチャンネル ゆうどきLive』に改題し、同日開始の夕方ワイド番組『**[ギュッ\!と石川 ゆうどきLive](https://ja.wikipedia.org/wiki/ギュッ!と石川_ゆうどきLive "wikilink")**』（月曜 - 木曜 15:52 - 19:00・金曜 15:52 - 18:53、同番組本編は15:52 - 16:50）の内包番組となった（本番組の同番組への内包番組時代についての詳細は同項参照）。
 
@@ -117,7 +117,7 @@
 
 ### 金曜版最終時点の出演者
 
-  - [牧野慎二](https://ja.wikipedia.org/wiki/牧野慎二 "wikilink")（木曜、金曜）
+  - [牧野慎二](../Page/牧野慎二.md "wikilink")（木曜、金曜）
   - [橋本和芳](https://ja.wikipedia.org/wiki/橋本和芳 "wikilink")（『金曜Ban』コーナーキャスター）
   - [上野雅美](https://ja.wikipedia.org/wiki/上野雅美 "wikilink")
   - [恩田琴江](https://ja.wikipedia.org/wiki/恩田琴江 "wikilink")（担当が上野になった時に降板）
@@ -130,7 +130,7 @@
 
 ## イベント
 
-  - 「スーパーJチャンネルファンのつどい」（北陸朝日放送主催、2007年[1月20日](../Page/1月20日.md "wikilink")、[金沢市文化ホール](https://ja.wikipedia.org/wiki/金沢市文化ホール "wikilink")）
+  - 「スーパーJチャンネルファンのつどい」（北陸朝日放送主催、2007年[1月20日](../Page/1月20日.md "wikilink")、[金沢市文化ホール](../Page/金沢市文化ホール.md "wikilink")）
 
 ## 関連項目
 

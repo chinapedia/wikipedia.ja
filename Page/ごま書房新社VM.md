@@ -3,7 +3,7 @@
 
 株式会社**ごま書房新社VM**（ごましょぼうしんしゃブイエム）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[出版社](../Page/出版社.md "wikilink")。
 
-社名の類似した[ゴマブックス](https://ja.wikipedia.org/wiki/ゴマブックス "wikilink")は、ごま書房新社VMに事業を譲渡した旧**ごま書房**の発刊する新書版の企画・編集を目的に設立されたが、旧ごま書房の経営悪化に伴い[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")7月に傘下を離れている。ごま書房新社VMとゴマブックスは、ごま書房新社VM**設立当初から資本関係などは一切無い**。
+社名の類似した[ゴマブックス](../Page/ゴマブックス.md "wikilink")は、ごま書房新社VMに事業を譲渡した旧**ごま書房**の発刊する新書版の企画・編集を目的に設立されたが、旧ごま書房の経営悪化に伴い[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")7月に傘下を離れている。ごま書房新社VMとゴマブックスは、ごま書房新社VM**設立当初から資本関係などは一切無い**。
 
 ## 概要
 
@@ -17,7 +17,7 @@
 
 1989年、株式会社ごま書房新社に事業を譲渡。
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、株式会社ポケットブック社との資本関係を解消、同時にポケットブック社は商号を[ゴマブックス](https://ja.wikipedia.org/wiki/ゴマブックス "wikilink")株式会社に変更する。
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、株式会社ポケットブック社との資本関係を解消、同時にポケットブック社は商号を[ゴマブックス](../Page/ゴマブックス.md "wikilink")株式会社に変更する。
 
 その後 株式会社センチュリー社に改称、[2009年](../Page/2009年.md "wikilink")3月に破産開始決定。
 
@@ -27,7 +27,7 @@
 
 ## 本社所在地
 
-  - [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[東神田](https://ja.wikipedia.org/wiki/東神田 "wikilink")2-1-8　ハニー東神田ビル5F
+  - [東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[東神田](https://ja.wikipedia.org/wiki/東神田 "wikilink")2-1-8　ハニー東神田ビル5F
 
 ## 外部リンク
 

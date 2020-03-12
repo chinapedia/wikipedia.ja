@@ -1,7 +1,7 @@
 > この記事は[Flower \(L\'ArcenCiel\)](https://ja.wikipedia.org/wiki/Flower_\(L\'ArcenCiel\))から翻訳されています。
 
 
-「**flower**」（フラワー）は、日本の[ロックバンド](../Page/バンド_\(音楽\).md "wikilink")、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の5作目の[シングル](../Page/シングル.md "wikilink")。[1996年](../Page/1996年.md "wikilink")[10月17日](../Page/10月17日.md "wikilink")発売。発売元は[Ki/oon Sony Records](https://ja.wikipedia.org/wiki/キューンミュージック "wikilink")。
+「**flower**」（フラワー）は、日本の[ロックバンド](../Page/バンド_\(音楽\).md "wikilink")、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の5作目の[シングル](../Page/シングル.md "wikilink")。[1996年](../Page/1996年.md "wikilink")[10月17日](../Page/10月17日.md "wikilink")発売。発売元は[Ki/oon Sony Records](../Page/キューンミュージック.md "wikilink")。
 
 ## 解説
 
@@ -18,11 +18,11 @@
     <!-- end list -->
       -
         [フジテレビ系番組](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[プロ野球ニュース](../Page/プロ野球ニュース.md "wikilink")』（1996年10月-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")3月）テーマソング。
-        [2001年](../Page/2001年.md "wikilink")に発売されたバンド初のベストアルバム『[Clicked Singles Best 13](https://ja.wikipedia.org/wiki/Clicked_Singles_Best_13 "wikilink")』の収録曲を決めるファン投票で1位を獲得している。また、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に行われたライブ「[15th L'Anniversary Live](../Page/15th_L'Anniversary_Live.md "wikilink")」の演奏曲目リクエスト投票でも2位を獲得しており、ファンからの人気が非常に高い楽曲となっている。
+        [2001年](../Page/2001年.md "wikilink")に発売されたバンド初のベストアルバム『[Clicked Singles Best 13](../Page/Clicked_Singles_Best_13.md "wikilink")』の収録曲を決めるファン投票で1位を獲得している。また、[2006年](../Page/2006年.md "wikilink")に行われたライブ「[15th L'Anniversary Live](../Page/15th_L'Anniversary_Live.md "wikilink")」の演奏曲目リクエスト投票でも2位を獲得しており、ファンからの人気が非常に高い楽曲となっている。
         楽曲はスウェーデンポップスを思わせる軽快な曲\[2\]となっているが、hyde自身は自分の好みの楽曲ではなく、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")のインタビューにおいて「時代を俯瞰で見て、今だったらこういう曲を作れば売れるだろうと狙って作った曲\[3\]」「自分のなかではちょっと不思議な存在の曲ですね。自分の価値観とはちょっと違う\[4\]」とコメントしていた。ちなみに同年にリリースされたメンバーによる選曲で構成されたベストアルバム『[QUADRINITY 〜MEMBER'S BEST SELECTIONS〜](https://ja.wikipedia.org/wiki/QUADRINITY_〜MEMBER'S_BEST_SELECTIONS〜 "wikilink")』では、「L'Arc〜en〜Cielの歴史においてポイントとなる曲」という理由でこの曲が収録されている\[5\]。
         また、[2019年](../Page/2019年.md "wikilink")にhydeがソロ名義で開催したアコースティックライブツアー「HYDE ACOUSTIC CONCERT 2019 黒ミサ BIRTHDAY TOKYO」でこの曲を披露した際に、「僕はあまり好きな曲ではなかったんですけど、最近大好きになりました\[6\]」と述べている。
         間奏から入る女性の[バックコーラスは作曲家](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、兼歌手の[佐々木真理](https://ja.wikipedia.org/wiki/佐々木真理 "wikilink")によるものである。
-        楽曲のイントロ・アウトロならびに間奏に[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink")による[ブルースハープが入っている](https://ja.wikipedia.org/wiki/ハーモニカ "wikilink")。[ライブにおいては](https://ja.wikipedia.org/wiki/演奏会 "wikilink")、間奏時にhydeが吹いたブルースハープを楽曲終了のタイミングで客席に投げ入れることが多い。
+        楽曲のイントロ・アウトロならびに間奏に[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink")による[ブルースハープが入っている](../Page/ハーモニカ.md "wikilink")。[ライブにおいては](../Page/演奏会.md "wikilink")、間奏時にhydeが吹いたブルースハープを楽曲終了のタイミングで客席に投げ入れることが多い。
         また、ロックバンド、[Janne Da Arcや](../Page/Janne_Da_Arc.md "wikilink")[ゴールデンボンバーの喜矢武豊がライブで](https://ja.wikipedia.org/wiki/ゴールデンボンバー_\(バンド\) "wikilink")[カバーしたことがある](https://ja.wikipedia.org/wiki/カバー#カバー（楽曲） "wikilink")。
 2.  **さようなら**
       - 作詞・作曲:hyde 編曲:L'Arc〜en〜Ciel & Takao Konishi
@@ -38,12 +38,12 @@
 
   - hyde：[Vocal](https://ja.wikipedia.org/wiki/ボーカル "wikilink"), [Chorus](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
   - ken：[Guitars](../Page/ギター.md "wikilink")
-  - tetsuya：[Bass](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - tetsuya：[Bass](../Page/ベース_\(弦楽器\).md "wikilink")
   - sakura：[Drums](../Page/ドラムセット.md "wikilink")
   - flower
-      - hyde：[Blues Harp](https://ja.wikipedia.org/wiki/ハーモニカ "wikilink")
+      - hyde：[Blues Harp](../Page/ハーモニカ.md "wikilink")
       - 佐々木真理：Female [Chorus](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
-      - [吉田潔](https://ja.wikipedia.org/wiki/吉田潔 "wikilink")：[Manipulate](https://ja.wikipedia.org/wiki/マニピュレーター "wikilink")
+      - [吉田潔](https://ja.wikipedia.org/wiki/吉田潔 "wikilink")：[Manipulate](../Page/マニピュレーター.md "wikilink")
   - さようなら
     <small>\*メンバーが担当したその他の[パート](https://ja.wikipedia.org/wiki/声部 "wikilink")・[楽器](../Page/楽器.md "wikilink")及びメンバー以外のレコーディング参加メンバーの記載なし</small>
 
@@ -65,9 +65,9 @@
 
 <!-- end list -->
 
-  - 『[Clicked Singles Best 13](https://ja.wikipedia.org/wiki/Clicked_Singles_Best_13 "wikilink")』 (\#1)
-  - 『[The Best of L'Arc〜en〜Ciel 1994-1998](https://ja.wikipedia.org/wiki/The_Best_of_L'Arc〜en〜Ciel "wikilink")』 (\#1)
-  - 『[The Best of L'Arc〜en〜Ciel c/w](https://ja.wikipedia.org/wiki/The_Best_of_L'Arc〜en〜Ciel "wikilink")』 (\#2)
+  - 『[Clicked Singles Best 13](../Page/Clicked_Singles_Best_13.md "wikilink")』 (\#1)
+  - 『[The Best of L'Arc〜en〜Ciel 1994-1998](../Page/The_Best_of_L'Arc〜en〜Ciel.md "wikilink")』 (\#1)
+  - 『[The Best of L'Arc〜en〜Ciel c/w](../Page/The_Best_of_L'Arc〜en〜Ciel.md "wikilink")』 (\#2)
   - 『[QUADRINITY 〜MEMBER'S BEST SELECTIONS〜](https://ja.wikipedia.org/wiki/QUADRINITY_〜MEMBER'S_BEST_SELECTIONS〜 "wikilink")』 (\#1、\#2)
   - 『[TWENITY 1991-1996](https://ja.wikipedia.org/wiki/TWENITY "wikilink")』 (\#1、\#2)
   - 『[WORLD'S BEST SELECTION](https://ja.wikipedia.org/wiki/WORLD'S_BEST_SELECTION "wikilink")』 (\#1)

@@ -5,13 +5,13 @@
 
 ## 概要
 
-[関口宏](../Page/関口宏.md "wikilink")が司会を務めていた前番組『[テレビあッとランダム](https://ja.wikipedia.org/wiki/テレビあっとランダム "wikilink")』のリニューアル版で、本番組では[徳光和夫](../Page/徳光和夫.md "wikilink")が司会を務めていた。司会者は変わったが、放送内容とスタジオセットは『テレビあッとランダム』のものを引き継いでいた。また、同時ネット局においては[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")というスタイルも変わらなかった。
+[関口宏](../Page/関口宏.md "wikilink")が司会を務めていた前番組『[テレビあッとランダム](../Page/テレビあっとランダム.md "wikilink")』のリニューアル版で、本番組では[徳光和夫](../Page/徳光和夫.md "wikilink")が司会を務めていた。司会者は変わったが、放送内容とスタジオセットは『テレビあッとランダム』のものを引き継いでいた。また、同時ネット局においては[生放送](../Page/生放送.md "wikilink")というスタイルも変わらなかった。
 
 『テレビあッとランダム』の人気企画だった「集団じゃんけん」も引き続き行っていたが、後期には徳光が出す3つの3択問題にパネラーが解答する「徳みっつクイズ」に変更。このクイズで3連続で正答したパネラーにはプレゼントを贈っていた。コーナータイトルの意味は、徳光曰く「問題3つでみっつ徳をする（得との語呂合わせと思われる）。題して徳みっつクイズ」。
 
 エンディングでは、テレビ東京系列局と中継で結んで表彰状を渡す企画を行っていた。
 
-番組終了時の[提供クレジット](https://ja.wikipedia.org/wiki/提供クレジット "wikilink")は、筆頭スポンサーである[日産自動車](../Page/日産自動車.md "wikilink")を表示するときには白をバックにした物になり、それ以外のスポンサーを表示するときには[ブルーバック](https://ja.wikipedia.org/wiki/ブルーバック "wikilink")になっていた。
+番組終了時の[提供クレジット](../Page/提供クレジット.md "wikilink")は、筆頭スポンサーである[日産自動車](../Page/日産自動車.md "wikilink")を表示するときには白をバックにした物になり、それ以外のスポンサーを表示するときには[ブルーバック](../Page/ブルーバック.md "wikilink")になっていた。
 
 ## 出演者
 
@@ -22,23 +22,23 @@
 
 ### パネラー
 
-  - [長野智子](https://ja.wikipedia.org/wiki/長野智子 "wikilink")
-  - [ゆうゆ](https://ja.wikipedia.org/wiki/岩井由紀子 "wikilink")
+  - [長野智子](../Page/長野智子.md "wikilink")
+  - [ゆうゆ](../Page/岩井由紀子.md "wikilink")
   - [城戸真亜子](https://ja.wikipedia.org/wiki/城戸真亜子 "wikilink")
   - [大場久美子](../Page/大場久美子.md "wikilink")
-  - [角盈男](https://ja.wikipedia.org/wiki/角盈男 "wikilink")
-  - [岡田眞澄](https://ja.wikipedia.org/wiki/岡田眞澄 "wikilink")
+  - [角盈男](../Page/角盈男.md "wikilink")
+  - [岡田眞澄](../Page/岡田眞澄.md "wikilink")
   - [堀内孝雄](../Page/堀内孝雄.md "wikilink")
-  - [坂上二郎](https://ja.wikipedia.org/wiki/坂上二郎 "wikilink")
+  - [坂上二郎](../Page/坂上二郎.md "wikilink")
   - ほか
 
 ## エンディングテーマ
 
   - Alone/[南こうせつ](https://ja.wikipedia.org/wiki/南こうせつ "wikilink")
-  - もう一度抱きしめて/[スターダストレビュー](https://ja.wikipedia.org/wiki/スターダストレビュー "wikilink")
+  - もう一度抱きしめて/[スターダストレビュー](../Page/スターダストレビュー.md "wikilink")
   - しあわせの涙/[谷村有美](https://ja.wikipedia.org/wiki/谷村有美 "wikilink")
   - 思い立ったが吉日/Jeane
-  - Ride On/[小比類巻かほる](https://ja.wikipedia.org/wiki/小比類巻かほる "wikilink")
+  - Ride On/[小比類巻かほる](../Page/小比類巻かほる.md "wikilink")
   - [あずさ2号](../Page/あずさ2号.md "wikilink")\[1\]/[狩人](../Page/狩人.md "wikilink")
 
 ## ネット局
@@ -81,4 +81,4 @@
 
 [Category:1990年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1990年のテレビ番組_\(日本\) "wikilink") [Category:テレビ東京の情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:テレビ東京の情報・ワイドショー番組 "wikilink") [Category:テレビ東京のバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京のバラエティ番組の歴史 "wikilink") [Category:徳光和夫](https://ja.wikipedia.org/wiki/Category:徳光和夫 "wikilink")
 
-1.  1995年（平成7年）1月25日にリリースされた、[若草恵](https://ja.wikipedia.org/wiki/若草恵 "wikilink")編曲によるニュー・ヴァージョン。
+1.  1995年（平成7年）1月25日にリリースされた、[若草恵](../Page/若草恵.md "wikilink")編曲によるニュー・ヴァージョン。

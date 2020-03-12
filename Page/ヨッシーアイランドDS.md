@@ -1,7 +1,7 @@
 > この記事は[DS](https://ja.wikipedia.org/wiki/DS)から翻訳されています。
 
 
-『**ヨッシーアイランドDS**』（ヨッシーアイランドディーエス）は、[任天堂](../Page/任天堂.md "wikilink")が[2007年](../Page/2007年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")に発売した[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用[ゲームソフト](../Page/ゲームソフト.md "wikilink")。北米地域では『**Yoshi's Island DS**』として[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")11月13日に発売され、同年に[オーストラリア](../Page/オーストラリア.md "wikilink")や[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")でも続いて発売された。
+『**ヨッシーアイランドDS**』（ヨッシーアイランドディーエス）は、[任天堂](../Page/任天堂.md "wikilink")が[2007年](../Page/2007年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")に発売した[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用[ゲームソフト](../Page/ゲームソフト.md "wikilink")。北米地域では『**Yoshi's Island DS**』として[2006年](../Page/2006年.md "wikilink")11月13日に発売され、同年に[オーストラリア](../Page/オーストラリア.md "wikilink")や[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")でも続いて発売された。
 
 ## ストーリー
 
@@ -39,14 +39,14 @@
 
 背中に乗せる赤ちゃんによって、能力が変わる。
 
-  - ベビィマリオ（[声](../Page/声優.md "wikilink")：[チャールズ・マーティネー](https://ja.wikipedia.org/wiki/チャールズ・マーティネー "wikilink")）
+  - ベビィマリオ（[声](../Page/声優.md "wikilink")：[チャールズ・マーティネー](../Page/チャールズ・マーティネー.md "wikilink")）
     スタート時から登場。最初から使える。Yボタンを押し続ければ[ダッシュ](../Page/ダッシュ.md "wikilink")することができる。
     また、**M**と書かれた[ブロック](../Page/ブロック.md "wikilink")が実体化するようになる。
     さらに、スターによってパワフルベビィになれるのはベビィマリオだけである。
   - ベビィピーチ（声：[ニコール・ミルズ](https://ja.wikipedia.org/wiki/:en:Nicole_Mills "wikilink")）
     バスストップで赤ちゃんを交換する時に登場。1-5以降使える。
     パラソルで風を受け、その風向きに移動することができる。しかし、たまごを投げても反射は発生しない。
-  - ベビィDK（声：[長嶝高士](https://ja.wikipedia.org/wiki/長嶝高士 "wikilink")）
+  - ベビィDK（声：[長嶝高士](../Page/長嶝高士.md "wikilink")）
     ワールド2から登場。一度登場すればいつでも使える。
     ツタや鎖にぶらさがったり登ったりできる。また、ベビィピーチと同じくたまごの反射は発生しないが、割れたときに広範囲の爆発を起こすことが出来る。
     力が強いためワンワン岩を運ぶスピードが速く、さらにヒップドロップで杭を一気に根元まで打てる。
@@ -66,7 +66,7 @@
 **ステージ2：**[ピンクヨッシー](../Page/桃色.md "wikilink")
 **ステージ3：**[水色](../Page/水色.md "wikilink")ヨッシー
 **ステージ4：**[黄ヨッシー](../Page/黄色.md "wikilink")
-**ステージ5：**[紫](https://ja.wikipedia.org/wiki/紫 "wikilink")ヨッシー
+**ステージ5：**[紫](../Page/紫.md "wikilink")ヨッシー
 **ステージ6：**[オレンジヨッシー](https://ja.wikipedia.org/wiki/橙色 "wikilink")
 **ステージ7：**[赤](../Page/赤.md "wikilink")ヨッシー
 **ステージ8：**[青](../Page/青.md "wikilink")ヨッシー（5-8のみ緑ヨッシー）
@@ -77,7 +77,7 @@
 
 #### 前作から登場した敵キャラクター
 
-  - [ヘイホー](https://ja.wikipedia.org/wiki/ヘイホー_\(ゲームキャラクター\) "wikilink")
+  - [ヘイホー](../Page/ヘイホー_\(ゲームキャラクター\).md "wikilink")
     ムーンサルトヘイホー
     プロペラヘイホー
     竹馬ヘイホー
@@ -102,7 +102,7 @@
     あつあつてっぽーうお
     [ミットさん](https://ja.wikipedia.org/wiki/ミットさん "wikilink")
     バットくん
-    エネミー[風船](https://ja.wikipedia.org/wiki/風船 "wikilink")
+    エネミー[風船](../Page/風船.md "wikilink")
     [バブル](../Page/バブル_\(ゲームキャラクター\).md "wikilink")
     おたま
     タマゴフラワー
@@ -116,18 +116,18 @@
     [テレサ](../Page/テレサ_\(ゲームキャラクター\).md "wikilink")
     ドンブリブロス
     カチカチくん
-    [キラー](https://ja.wikipedia.org/wiki/キラー_\(ゲームキャラクター\) "wikilink")
-    [ウンババ](https://ja.wikipedia.org/wiki/ウンババ "wikilink")
+    [キラー](../Page/キラー_\(ゲームキャラクター\).md "wikilink")
+    [ウンババ](../Page/ウンババ.md "wikilink")
     [プクプク](../Page/プクプク.md "wikilink")
     水中プクプク
-    [ワンワンドスン](https://ja.wikipedia.org/wiki/ワンワン_\(ゲームキャラクター\) "wikilink")
+    [ワンワンドスン](../Page/ワンワン_\(ゲームキャラクター\).md "wikilink")
     ビッグワンワン
     つむじ君
     パサパサ
     [ノコノコ](../Page/ノコノコ.md "wikilink")
     [パタパタ](../Page/パタパタ_\(ゲームキャラクター\).md "wikilink")
     おさるさん
-    [ジュゲム](https://ja.wikipedia.org/wiki/ジュゲム "wikilink")
+    [ジュゲム](../Page/ジュゲム.md "wikilink")
     かべあなジュゲム
     [サンボ](../Page/サンボ_\(ゲームキャラクター\).md "wikilink")
     [砲台サンボ](../Page/サンボ_\(ゲームキャラクター\).md "wikilink")

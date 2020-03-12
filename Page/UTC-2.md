@@ -27,12 +27,12 @@
 ### 夏時間（南半球）
 
   -   - [エスピリトサント州](../Page/エスピリトサント州.md "wikilink")
-      - [ゴイアス州](https://ja.wikipedia.org/wiki/ゴイアス州 "wikilink")
-      - [サンタカタリーナ州](https://ja.wikipedia.org/wiki/サンタカタリーナ州 "wikilink")
+      - [ゴイアス州](../Page/ゴイアス州.md "wikilink")
+      - [サンタカタリーナ州](../Page/サンタカタリーナ州.md "wikilink")
       - [サンパウロ州](https://ja.wikipedia.org/wiki/サンパウロ州 "wikilink")
       - [パラナ州](../Page/パラナ州.md "wikilink")
       - [ブラジリア連邦直轄区](../Page/ブラジリア連邦直轄区.md "wikilink")
-      - [ミナスジェライス州](https://ja.wikipedia.org/wiki/ミナスジェライス州 "wikilink")
+      - [ミナスジェライス州](../Page/ミナスジェライス州.md "wikilink")
       - [リオグランデドスル州](https://ja.wikipedia.org/wiki/リオグランデドスル州 "wikilink")
       - [リオデジャネイロ州](../Page/リオデジャネイロ州.md "wikilink")
 
@@ -40,13 +40,13 @@
 
 [アルゼンチン](../Page/アルゼンチン.md "wikilink")は2008-2009年の夏までは夏時間 UTC-2 を行っていたが、翌夏以降、夏時間を採用していない\[1\]。
 
-[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")の[バイーア州](https://ja.wikipedia.org/wiki/バイーア州 "wikilink")は2002-2003年の夏から2010-2011年の夏までは夏時間 UTC-2 を採用していなかった。2011年-2012年の夏に再び採用された\[2\]\[3\]が、1年で戻された。
+[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")の[バイーア州](../Page/バイーア州.md "wikilink")は2002-2003年の夏から2010-2011年の夏までは夏時間 UTC-2 を採用していなかった。2011年-2012年の夏に再び採用された\[2\]\[3\]が、1年で戻された。
 
 ## 関連項目
 
   - [英国時間](https://ja.wikipedia.org/wiki/英国時間 "wikilink")
   - [デンマーク時間](https://ja.wikipedia.org/wiki/デンマーク時間 "wikilink")
-  - [ブラジル時間](https://ja.wikipedia.org/wiki/ブラジル時間 "wikilink")
+  - [ブラジル時間](../Page/ブラジル時間.md "wikilink")
   - [フランス時間](https://ja.wikipedia.org/wiki/フランス時間 "wikilink")
 
 ## 脚注

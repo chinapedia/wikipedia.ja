@@ -1,7 +1,7 @@
 > この記事は[Lies and Truth](https://ja.wikipedia.org/wiki/Lies_and_Truth)から翻訳されています。
 
 
-「**Lies and Truth**」（ライズ アンド トゥルース）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の6作目のシングル。[1996年](../Page/1996年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")発売。発売元は[Ki/oon Sony Records](https://ja.wikipedia.org/wiki/キューンミュージック "wikilink")。
+「**Lies and Truth**」（ライズ アンド トゥルース）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の6作目のシングル。[1996年](../Page/1996年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")発売。発売元は[Ki/oon Sony Records](../Page/キューンミュージック.md "wikilink")。
 
 ## 解説
 
@@ -17,21 +17,21 @@
       - 作詞:[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink") / 作曲:[ken](https://ja.wikipedia.org/wiki/ken "wikilink") / 編曲:[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink") & [Akira Nishihira](../Page/西平彰.md "wikilink")
     <!-- end list -->
       -
-        [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系番組『[TOWER COUNTDOWN](https://ja.wikipedia.org/wiki/JAPAN_COUNTDOWN "wikilink")』テーマソング。
-        メンバーが「案外サビが長く続くやつ」と言うほどに[サビ](../Page/サビ.md "wikilink")は長い。シングルバージョンはフェードアウトで終了する。この曲の[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")は[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")[入間市](../Page/入間市.md "wikilink")にある[旧石川組製糸西洋館](https://ja.wikipedia.org/wiki/旧石川組製糸西洋館 "wikilink")という古い洋館で撮影された。
-        4thアルバム『[True](../Page/True_\(L'Arc〜en〜Cielのアルバム\).md "wikilink")』には、[イントロへの](../Page/導入部.md "wikilink")[ベース音](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")・[ドラム音やエンディングの](../Page/ドラムセット.md "wikilink")[メロディ](../Page/メロディ.md "wikilink")が追加され、完奏で終了する「"True" Mix」として収録。シングルバージョンは[2001年](../Page/2001年.md "wikilink")発売の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")『[Clicked Singles Best 13](https://ja.wikipedia.org/wiki/Clicked_Singles_Best_13 "wikilink")』に収録された。
+        [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系番組『[TOWER COUNTDOWN](../Page/JAPAN_COUNTDOWN.md "wikilink")』テーマソング。
+        メンバーが「案外サビが長く続くやつ」と言うほどに[サビ](../Page/サビ.md "wikilink")は長い。シングルバージョンはフェードアウトで終了する。この曲の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")は[埼玉県](../Page/埼玉県.md "wikilink")[入間市](../Page/入間市.md "wikilink")にある[旧石川組製糸西洋館](https://ja.wikipedia.org/wiki/旧石川組製糸西洋館 "wikilink")という古い洋館で撮影された。
+        4thアルバム『[True](../Page/True_\(L'Arc〜en〜Cielのアルバム\).md "wikilink")』には、[イントロへの](../Page/導入部.md "wikilink")[ベース音](../Page/ベース_\(弦楽器\).md "wikilink")・[ドラム音やエンディングの](../Page/ドラムセット.md "wikilink")[メロディ](../Page/メロディ.md "wikilink")が追加され、完奏で終了する「"True" Mix」として収録。シングルバージョンは[2001年](../Page/2001年.md "wikilink")発売の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")『[Clicked Singles Best 13](../Page/Clicked_Singles_Best_13.md "wikilink")』に収録された。
 2.  **賽は投げられた**
       - 作詞:hyde / 作曲:ken / 編曲:L'Arc〜en〜Ciel & Takeyuki Hatano
     <!-- end list -->
       -
-        カップリング曲であるが、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に行われたライブ「[15th L'Anniversary Live](../Page/15th_L'Anniversary_Live.md "wikilink")」の演奏曲目リクエスト投票で8位になった隠れた人気曲である。結果同ライブでは演奏されず、ライブでは[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に行われたコンサートツアー「CONCERT TOUR '96〜'97 Carnival of True」以来演奏されていない。また、ライブにおいてhydeがタイトルに因んで、サイのぬいぐるみを投げる演出がある。
+        カップリング曲であるが、[2006年](../Page/2006年.md "wikilink")に行われたライブ「[15th L'Anniversary Live](../Page/15th_L'Anniversary_Live.md "wikilink")」の演奏曲目リクエスト投票で8位になった隠れた人気曲である。結果同ライブでは演奏されず、ライブでは[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に行われたコンサートツアー「CONCERT TOUR '96〜'97 Carnival of True」以来演奏されていない。また、ライブにおいてhydeがタイトルに因んで、サイのぬいぐるみを投げる演出がある。
 3.  **Lies and Truth (hydeless version)**
 
 ## 参加ミュージシャン
 
   - [hyde](https://ja.wikipedia.org/wiki/hyde "wikilink")：[Vocal](https://ja.wikipedia.org/wiki/ボーカル "wikilink"), [Chorus](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
   - [ken](https://ja.wikipedia.org/wiki/ken "wikilink")：[Guitar](../Page/ギター.md "wikilink")
-  - [tetsu](https://ja.wikipedia.org/wiki/tetsuya "wikilink")：[Bass](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - [tetsu](https://ja.wikipedia.org/wiki/tetsuya "wikilink")：[Bass](../Page/ベース_\(弦楽器\).md "wikilink")
   - [sakura](https://ja.wikipedia.org/wiki/sakura_\(ドラマー\) "wikilink")：[Drums](../Page/ドラムセット.md "wikilink")
   - Lies and Truth
       - [金子飛鳥](../Page/金子飛鳥.md "wikilink")ストリングス：Strings
@@ -57,9 +57,9 @@
 
 <!-- end list -->
 
-  - 『[Clicked Singles Best 13](https://ja.wikipedia.org/wiki/Clicked_Singles_Best_13 "wikilink")』 (\#1)
-  - 『[The Best of L'Arc〜en〜Ciel 1994-1998](https://ja.wikipedia.org/wiki/The_Best_of_L'Arc〜en〜Ciel "wikilink")』 (\#1)
-  - 『[The Best of L'Arc〜en〜Ciel c/w](https://ja.wikipedia.org/wiki/The_Best_of_L'Arc〜en〜Ciel "wikilink")』 (\#2)
+  - 『[Clicked Singles Best 13](../Page/Clicked_Singles_Best_13.md "wikilink")』 (\#1)
+  - 『[The Best of L'Arc〜en〜Ciel 1994-1998](../Page/The_Best_of_L'Arc〜en〜Ciel.md "wikilink")』 (\#1)
+  - 『[The Best of L'Arc〜en〜Ciel c/w](../Page/The_Best_of_L'Arc〜en〜Ciel.md "wikilink")』 (\#2)
   - 『[TWENITY 1991-1996](https://ja.wikipedia.org/wiki/TWENITY "wikilink")』 (\#1,アルバムバージョン、\#2)
 
 ## 脚注

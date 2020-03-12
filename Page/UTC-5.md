@@ -7,7 +7,7 @@
 
 ### 標準時（通年）
 
-  - （[ガラパゴス諸島](https://ja.wikipedia.org/wiki/ガラパゴス諸島 "wikilink")を除く）
+  - （[ガラパゴス諸島](../Page/ガラパゴス諸島.md "wikilink")を除く）
 
   -
   - [東部標準時](../Page/東部標準時.md "wikilink") - EST
@@ -18,10 +18,10 @@
 
       -
       -
-      -   - [キンタナ・ロー州](https://ja.wikipedia.org/wiki/キンタナ・ロー州 "wikilink")
+      -   - [キンタナ・ロー州](../Page/キンタナ・ロー州.md "wikilink")
 
   -   - [アクレ州](../Page/アクレ州.md "wikilink")
-      - [アマゾナス州](https://ja.wikipedia.org/wiki/アマゾナス州 "wikilink")（南西部）
+      - [アマゾナス州](../Page/アマゾナス州.md "wikilink")（南西部）
 
   -
 ### 標準時（北半球冬）
@@ -48,11 +48,11 @@
           - ヌナブト準州のうち、西経85度線から[西経102度線](https://ja.wikipedia.org/wiki/西経102度線 "wikilink")の間の地域（[キティクメオト地域](https://ja.wikipedia.org/wiki/キティクメオト地域 "wikilink")を除く）
           - [マニトバ州](../Page/マニトバ州.md "wikilink")
 
-      -   - ほとんどの地域（キンタナ・ロー州、[シナロア州](../Page/シナロア州.md "wikilink")、[ソノラ州](https://ja.wikipedia.org/wiki/ソノラ州 "wikilink")、[チワワ州](https://ja.wikipedia.org/wiki/チワワ州 "wikilink")、[ナヤリット州](https://ja.wikipedia.org/wiki/ナヤリット州 "wikilink")の大部分、[バハ・カリフォルニア州](https://ja.wikipedia.org/wiki/バハ・カリフォルニア州 "wikilink")、[バハ・カリフォルニア・スル州](https://ja.wikipedia.org/wiki/バハ・カリフォルニア・スル州 "wikilink")を除く）
+      -   - ほとんどの地域（キンタナ・ロー州、[シナロア州](../Page/シナロア州.md "wikilink")、[ソノラ州](../Page/ソノラ州.md "wikilink")、[チワワ州](../Page/チワワ州.md "wikilink")、[ナヤリット州](https://ja.wikipedia.org/wiki/ナヤリット州 "wikilink")の大部分、[バハ・カリフォルニア州](../Page/バハ・カリフォルニア州.md "wikilink")、[バハ・カリフォルニア・スル州](../Page/バハ・カリフォルニア・スル州.md "wikilink")を除く）
 
 ### 夏時間（南半球）
 
-  -   - [イースター島](https://ja.wikipedia.org/wiki/イースター島 "wikilink")
+  -   - [イースター島](../Page/イースター島.md "wikilink")
       - [サラ・イ・ゴメス島](../Page/サラ・イ・ゴメス島.md "wikilink")
 
 ## 脚注
@@ -65,7 +65,7 @@
       - [ヌナブト時間](https://ja.wikipedia.org/wiki/ヌナブト時間 "wikilink")
   - [コロンビア時間](https://ja.wikipedia.org/wiki/コロンビア時間 "wikilink")
   - [チリの標準時](https://ja.wikipedia.org/wiki/チリの標準時 "wikilink")
-  - [ブラジル時間](https://ja.wikipedia.org/wiki/ブラジル時間 "wikilink")
+  - [ブラジル時間](../Page/ブラジル時間.md "wikilink")
   - [ペルー時間](https://ja.wikipedia.org/wiki/ペルー時間 "wikilink")
 
 ## 外部リンク

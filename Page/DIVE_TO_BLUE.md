@@ -1,7 +1,7 @@
 > この記事は[DIVE TO BLUE](https://ja.wikipedia.org/wiki/DIVE_TO_BLUE)から翻訳されています。
 
 
-「**DIVE TO BLUE**」（ダイヴ・トゥ・ブルー）は、日本の[ロックバンド](../Page/バンド_\(音楽\).md "wikilink")、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の9作目の[シングル](../Page/シングル.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")発売。発売元は[Ki/oon Sony Records](https://ja.wikipedia.org/wiki/キューンミュージック "wikilink")。
+「**DIVE TO BLUE**」（ダイヴ・トゥ・ブルー）は、日本の[ロックバンド](../Page/バンド_\(音楽\).md "wikilink")、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の9作目の[シングル](../Page/シングル.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")発売。発売元は[Ki/oon Sony Records](../Page/キューンミュージック.md "wikilink")。
 
 ## 解説
 
@@ -11,20 +11,20 @@
 
 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[6月6日](../Page/6月6日.md "wikilink")から[NTTパーソナル](../Page/NTTパーソナル.md "wikilink")関西のCMソングに起用され\[1\]、L'Arc〜en〜Cielとして初のCM出演を果たしている。1998年春にNTTパーソナル関西のPHS契約者から抽選で、CMの本編・メイキング映像を収録したビデオ『[L'Arc〜en〜Ciel NTT personal CM MAKING VIDEO](https://ja.wikipedia.org/wiki/L'Arc〜en〜Cielのディスコグラフィ#その他 "wikilink")』がプレゼントされた。この作品は非売品で現在まで一般販売されておらず、他作品にも収録されていない貴重な映像となっている。
 
-なお、L'Arc〜en〜Cielのシングルとしては唯一、[クレジットが表ジャケットに表記されている](https://ja.wikipedia.org/wiki/クレジットタイトル "wikilink")（8cm盤、再発マキシ盤とも）。
+なお、L'Arc〜en〜Cielのシングルとしては唯一、[クレジットが表ジャケットに表記されている](../Page/クレジットタイトル.md "wikilink")（8cm盤、再発マキシ盤とも）。
 
 ## 収録曲
 
 1.  **DIVE TO BLUE**
-      - 作詞:[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink") / 作曲:[tetsu](https://ja.wikipedia.org/wiki/tetsuya "wikilink") / 編曲:L'Arc〜en〜Ciel & [Hajime Okano](https://ja.wikipedia.org/wiki/岡野ハジメ "wikilink")
+      - 作詞:[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink") / 作曲:[tetsu](https://ja.wikipedia.org/wiki/tetsuya "wikilink") / 編曲:L'Arc〜en〜Ciel & [Hajime Okano](../Page/岡野ハジメ.md "wikilink")
     <!-- end list -->
       -
         メンバー出演の「[NTTパーソナル](../Page/NTTパーソナル.md "wikilink")関西」CMソング、及び[TBS系番組](../Page/TBSテレビ.md "wikilink")『[特捜\!芸能ポリスくん](../Page/特捜!芸能ポリスくん.md "wikilink")』エンディングテーマ。
         前作「[winter fall](https://ja.wikipedia.org/wiki/winter_fall "wikilink")」と同じく発売前の[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[東京ドーム](../Page/東京ドーム.md "wikilink")で行われたライブ「1997 REINCARNATION」で先行演奏された\[2\]。
-        [ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")の内容には男性が[飛び降り](https://ja.wikipedia.org/wiki/飛び降り "wikilink")自殺を図る描写があり、このような内容から、インターネット上などでは歌詞自体も自殺を題材としたものではないかと解釈をするファンなども見られる。なお、シングル発売当初の雑誌に掲載された[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink")へのインタビュー記事では、歌詞には前向きな意味を込めて作詞したことが語られており、自殺を題材とした歌詞ではない事が伺える\[3\]\[4\]\[5\]。また、ミュージック・ビデオではtetsuyaが[女装](../Page/女装.md "wikilink")しているシーンが存在する。
-        [歌詞](../Page/歌詞.md "wikilink")についてhydeは、「勝手にレールを作っているのは自分。（仕事などで）他にやりたい事があればすればいいと思う。境界線があるから渡れないと思い込んでるけど、実はその境界線は自分が作ったもの。境界線はあってないようなものだと言いたかった」というような事を語っている\[6\]\[7\]\[8\]。また、この曲のタイトルにおける"BLUE"とは"自由"のことだと[日本テレビ系音楽番組](../Page/日本テレビ放送網.md "wikilink")『[速報\!歌の大辞テン](https://ja.wikipedia.org/wiki/速報!歌の大辞テン "wikilink")』で語られている。
+        [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")の内容には男性が[飛び降り](../Page/飛び降り.md "wikilink")自殺を図る描写があり、このような内容から、インターネット上などでは歌詞自体も自殺を題材としたものではないかと解釈をするファンなども見られる。なお、シングル発売当初の雑誌に掲載された[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink")へのインタビュー記事では、歌詞には前向きな意味を込めて作詞したことが語られており、自殺を題材とした歌詞ではない事が伺える\[3\]\[4\]\[5\]。また、ミュージック・ビデオではtetsuyaが[女装](../Page/女装.md "wikilink")しているシーンが存在する。
+        [歌詞](../Page/歌詞.md "wikilink")についてhydeは、「勝手にレールを作っているのは自分。（仕事などで）他にやりたい事があればすればいいと思う。境界線があるから渡れないと思い込んでるけど、実はその境界線は自分が作ったもの。境界線はあってないようなものだと言いたかった」というような事を語っている\[6\]\[7\]\[8\]。また、この曲のタイトルにおける"BLUE"とは"自由"のことだと[日本テレビ系音楽番組](../Page/日本テレビ放送網.md "wikilink")『[速報\!歌の大辞テン](../Page/速報!歌の大辞テン.md "wikilink")』で語られている。
         ライブでこの曲を歌う際は必ず[サビ](../Page/サビ.md "wikilink")前でhydeが飛びはねる。この曲の仮タイトルは「Ah\![香港](https://ja.wikipedia.org/wiki/香港 "wikilink")」で、tetsuyaが曲作りで訪れた香港でこの曲ができたため、そのような仮タイトルになったとされているが、実際はすでに[東京](../Page/東京.md "wikilink")でできていたとtetsuya本人が語っている。
-        かつて、元[東京ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")の[鈴木健はこの曲を入場曲に使用していた](https://ja.wikipedia.org/wiki/鈴木健_\(内野手\) "wikilink")。
+        かつて、元[東京ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")の[鈴木健はこの曲を入場曲に使用していた](../Page/鈴木健_\(内野手\).md "wikilink")。
 2.  **Peeping Tom**
       - 作詞・作曲:hyde / 編曲:L'Arc〜en〜Ciel & Hajime Okano
     <!-- end list -->
@@ -36,10 +36,10 @@
 
   - [hyde](https://ja.wikipedia.org/wiki/hyde "wikilink")：[Vocal](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
   - [ken](https://ja.wikipedia.org/wiki/ken "wikilink")：[Guitar](../Page/ギター.md "wikilink")
-  - [tetsu](https://ja.wikipedia.org/wiki/tetsuya "wikilink")：[Bass](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - [tetsu](https://ja.wikipedia.org/wiki/tetsuya "wikilink")：[Bass](../Page/ベース_\(弦楽器\).md "wikilink")
   - [yukihiro](https://ja.wikipedia.org/wiki/yukihiro "wikilink")：[Drums](../Page/ドラムセット.md "wikilink")
   - DIVE TO BLUE
-      - ken：[Keyboard](../Page/キーボード_\(楽器\).md "wikilink"), Programming, [Tambourine](https://ja.wikipedia.org/wiki/タンブリン "wikilink"), Hong Kong [hand claps](https://ja.wikipedia.org/wiki/拍手 "wikilink")
+      - ken：[Keyboard](../Page/キーボード_\(楽器\).md "wikilink"), Programming, [Tambourine](https://ja.wikipedia.org/wiki/タンブリン "wikilink"), Hong Kong [hand claps](../Page/拍手.md "wikilink")
       - tetsuya：Keyboard, Programming, Metal [Percussion](../Page/打楽器.md "wikilink"), Hong Kong hand claps
       - 斉藤仁：Keyboard, Programming
       - yukihiro：Hong Kong hand claps
@@ -52,9 +52,9 @@
 
 <small>**ベストアルバム**</small>
 
-  - 『[Clicked Singles Best 13](https://ja.wikipedia.org/wiki/Clicked_Singles_Best_13 "wikilink")』 (\#1)
-  - 『[The Best of L'Arc〜en〜Ciel 1998-2000](https://ja.wikipedia.org/wiki/The_Best_of_L'Arc〜en〜Ciel "wikilink")』 (\#1)
-  - 『[The Best of L'Arc〜en〜Ciel c/w](https://ja.wikipedia.org/wiki/The_Best_of_L'Arc〜en〜Ciel "wikilink")』 (\#2)
+  - 『[Clicked Singles Best 13](../Page/Clicked_Singles_Best_13.md "wikilink")』 (\#1)
+  - 『[The Best of L'Arc〜en〜Ciel 1998-2000](../Page/The_Best_of_L'Arc〜en〜Ciel.md "wikilink")』 (\#1)
+  - 『[The Best of L'Arc〜en〜Ciel c/w](../Page/The_Best_of_L'Arc〜en〜Ciel.md "wikilink")』 (\#2)
   - 『[QUADRINITY 〜MEMBER'S BEST SELECTIONS〜](https://ja.wikipedia.org/wiki/QUADRINITY_〜MEMBER'S_BEST_SELECTIONS〜 "wikilink")』 (\#1)
 
 ## 出典

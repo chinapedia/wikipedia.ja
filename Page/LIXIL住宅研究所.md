@@ -1,7 +1,7 @@
 > この記事は[LIXIL](https://ja.wikipedia.org/wiki/LIXIL)から翻訳されています。
 
 
-**株式会社LIXIL住宅研究所**（リクシルじゅうたくけんきゅうしょ、*LIXIL Housing Research Institute, Ltd.*）は、株式会社[LIXILグループ](https://ja.wikipedia.org/wiki/LIXILグループ "wikilink")傘下にある[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[建設会社](https://ja.wikipedia.org/wiki/建設会社 "wikilink")。
+**株式会社LIXIL住宅研究所**（リクシルじゅうたくけんきゅうしょ、*LIXIL Housing Research Institute, Ltd.*）は、株式会社[LIXILグループ](../Page/LIXILグループ.md "wikilink")傘下にある[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[建設会社](https://ja.wikipedia.org/wiki/建設会社 "wikilink")。
 
 ## 概要
 
@@ -12,7 +12,7 @@
 ## 沿革
 
   - [2002年](../Page/2002年.md "wikilink")
-      - [3月12日](../Page/3月12日.md "wikilink")：株式会社住生活グループ（現・[株式会社LIXILグループ](https://ja.wikipedia.org/wiki/LIXILグループ "wikilink")）の建設事業会社として**株式会社21世紀住宅研究所**を設立。
+      - [3月12日](../Page/3月12日.md "wikilink")：株式会社住生活グループ（現・[株式会社LIXILグループ](../Page/LIXILグループ.md "wikilink")）の建設事業会社として**株式会社21世紀住宅研究所**を設立。
       - [9月26日](../Page/9月26日.md "wikilink")：株式会社アイフルホームテクノロジー、ブライトホーム株式会社、ワンダーホーム株式会社、アメリカンスピリットホームズ株式会社、ゴーイングホーム株式会社の5社を取得し、中間持株会社へ移行。
   - [2003年](../Page/2003年.md "wikilink")7月：ブライトホーム株式会社の「GL2×4」FC事業とアメリカンスピリットホームズ株式会社の「高級2×4」事業を統合し、ジーエルホーム株式会社を設立（アメリカンスピリットホームズ株式会社の都市型分譲事業部は株式会社クラシスとして分社化、2007年4月に株式会社住生活グループ直下の子会社となる）。
   - [2007年](../Page/2007年.md "wikilink")
@@ -33,7 +33,7 @@
 <!-- end list -->
 
   -
-    [山形県](https://ja.wikipedia.org/wiki/山形県 "wikilink")、[福島県](../Page/福島県.md "wikilink")、[茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")、[長野県](../Page/長野県.md "wikilink")、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")
+    [山形県](../Page/山形県.md "wikilink")、[福島県](../Page/福島県.md "wikilink")、[茨城県](../Page/茨城県.md "wikilink")、[長野県](../Page/長野県.md "wikilink")、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")
 
 <!-- end list -->
 
@@ -51,7 +51,7 @@
 <!-- end list -->
 
   -
-    [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")、[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")、[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")、[静岡県](../Page/静岡県.md "wikilink")
+    [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")、[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")、[千葉県](../Page/千葉県.md "wikilink")、[静岡県](../Page/静岡県.md "wikilink")
 
 <!-- end list -->
 
@@ -60,7 +60,7 @@
 <!-- end list -->
 
   -
-    [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")、[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")、[岩手県](../Page/岩手県.md "wikilink")、[秋田県](../Page/秋田県.md "wikilink")、[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")、[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")、[新潟県](../Page/新潟県.md "wikilink")、[石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")、[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")、[大阪府](../Page/大阪府.md "wikilink")、[奈良県](../Page/奈良県.md "wikilink")、[鳥取県](../Page/鳥取県.md "wikilink")、[島根県](../Page/島根県.md "wikilink")、[山口県](../Page/山口県.md "wikilink")、[香川県](../Page/香川県.md "wikilink")、[高知県](../Page/高知県.md "wikilink")、[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")、[佐賀県](../Page/佐賀県.md "wikilink")、[長崎県](../Page/長崎県.md "wikilink")、[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")、[大分県](../Page/大分県.md "wikilink")、[宮崎県](../Page/宮崎県.md "wikilink")、[鹿児島県](../Page/鹿児島県.md "wikilink")
+    [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")、[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")、[岩手県](../Page/岩手県.md "wikilink")、[秋田県](../Page/秋田県.md "wikilink")、[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")、[埼玉県](../Page/埼玉県.md "wikilink")、[東京都](../Page/東京都.md "wikilink")、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")、[新潟県](../Page/新潟県.md "wikilink")、[石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")、[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")、[大阪府](../Page/大阪府.md "wikilink")、[奈良県](../Page/奈良県.md "wikilink")、[鳥取県](../Page/鳥取県.md "wikilink")、[島根県](../Page/島根県.md "wikilink")、[山口県](../Page/山口県.md "wikilink")、[香川県](../Page/香川県.md "wikilink")、[高知県](../Page/高知県.md "wikilink")、[福岡県](../Page/福岡県.md "wikilink")、[佐賀県](../Page/佐賀県.md "wikilink")、[長崎県](../Page/長崎県.md "wikilink")、[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")、[大分県](../Page/大分県.md "wikilink")、[宮崎県](../Page/宮崎県.md "wikilink")、[鹿児島県](../Page/鹿児島県.md "wikilink")
 
 <!-- end list -->
 
@@ -69,7 +69,7 @@
 <!-- end list -->
 
   -
-    [福井県](../Page/福井県.md "wikilink")、[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")
+    [福井県](../Page/福井県.md "wikilink")、[京都府](../Page/京都府.md "wikilink")
 
 <!-- end list -->
 
@@ -103,7 +103,7 @@
 
   - [JNNニュースの森](../Page/JNNニュースの森.md "wikilink")（平日、[朝日ソーラー](../Page/朝日ソーラー.md "wikilink")と共にナショナルスポンサーとして、1995年4月～1996年3月）
   - [ニュース・パレード](../Page/ニュース・パレード.md "wikilink")（[文化放送](../Page/文化放送.md "wikilink")）
-  - [月曜ゴールデン](../Page/月曜ゴールデン.md "wikilink")（『[月曜ミステリー劇場](https://ja.wikipedia.org/wiki/月曜ミステリー劇場 "wikilink")』の頃から提供、2008年頃まで）※
+  - [月曜ゴールデン](../Page/月曜ゴールデン.md "wikilink")（『[月曜ミステリー劇場](../Page/月曜ミステリー劇場.md "wikilink")』の頃から提供、2008年頃まで）※
 
 ※未販売地域では[ACジャパン](../Page/ACジャパン.md "wikilink")に差し替えたケースあり。
 
@@ -134,8 +134,8 @@
 
 ## 関連項目
 
-  - [LIXILグループ](https://ja.wikipedia.org/wiki/LIXILグループ "wikilink")（親会社）
-  - [三陸鉄道](../Page/三陸鉄道.md "wikilink")[北リアス線](https://ja.wikipedia.org/wiki/三陸鉄道北リアス線 "wikilink")：[宮古駅](https://ja.wikipedia.org/wiki/宮古駅 "wikilink")（アイフルホームの岩手県FC店が[ネーミングライツ](https://ja.wikipedia.org/wiki/ネーミングライツ "wikilink")を取得、『**アイフルホーム宮古駅**』の呼称を持っていた）
+  - [LIXILグループ](../Page/LIXILグループ.md "wikilink")（親会社）
+  - [三陸鉄道](../Page/三陸鉄道.md "wikilink")[北リアス線](https://ja.wikipedia.org/wiki/三陸鉄道北リアス線 "wikilink")：[宮古駅](../Page/宮古駅.md "wikilink")（アイフルホームの岩手県FC店が[ネーミングライツ](https://ja.wikipedia.org/wiki/ネーミングライツ "wikilink")を取得、『**アイフルホーム宮古駅**』の呼称を持っていた）
   - [鹿島アントラーズ](../Page/鹿島アントラーズ.md "wikilink")→オフィシャルスポンサー
   - [妖怪ウォッチ](https://ja.wikipedia.org/wiki/妖怪ウォッチ_\(アニメ\) "wikilink")→映画協賛
 

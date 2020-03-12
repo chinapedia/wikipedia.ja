@@ -25,7 +25,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/韓国標準時" title="wikilink">韓国標準時</a></p></td>
+<td><p><a href="../Page/韓国標準時.md" title="wikilink">韓国標準時</a></p></td>
 <td><p>KST</p></td>
 <td></td>
 </tr>
@@ -49,7 +49,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アムール州" title="wikilink">アムール州</a>など</p></td>
+<td><p><a href="../Page/アムール州.md" title="wikilink">アムール州</a>など</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ヤクーツク時間" title="wikilink">ヤクーツク時間</a></p></td>
 <td><p>YAKT</p></td>
 </tr>
@@ -80,11 +80,11 @@
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/イルクーツク州" title="wikilink">イルクーツク州</a>など</p></td>
+<td><p><a href="../Page/イルクーツク州.md" title="wikilink">イルクーツク州</a>など</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/イルクーツク時間" title="wikilink">イルクーツク時間</a></p></td>
 <td><p>2011</p></td>
 <td><p>2014</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/UTC+8" title="wikilink">UTC+8</a>に変更</p></td>
+<td><p><a href="../Page/UTC+8.md" title="wikilink">UTC+8</a>に変更</p></td>
 </tr>
 <tr class="even">
 <td><p>イルクーツク夏時間</p></td>
@@ -132,24 +132,24 @@
 <td></td>
 <td><p>1948</p></td>
 <td><p>2015</p></td>
-<td><p>2015年<a href="../Page/8月15日.md" title="wikilink">8月15日</a>より、<a href="https://ja.wikipedia.org/wiki/UTC+8:30" title="wikilink">UTC+8:30</a>に変更[2] 2018年5月5日から南北の標準時を統一するためUTC+9に統一</p></td>
+<td><p>2015年<a href="../Page/8月15日.md" title="wikilink">8月15日</a>より、<a href="../Page/UTC+8:30.md" title="wikilink">UTC+8:30</a>に変更[2] 2018年5月5日から南北の標準時を統一するためUTC+9に統一</p></td>
 </tr>
 </tbody>
 </table>
 
 ## 歴史
 
-[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では1888年に[グリニッジ標準時](../Page/グリニッジ標準時.md "wikilink")+9時間が標準時と定められた。1896年からはそれが中央標準時となり、一方で[先島諸島](../Page/先島諸島.md "wikilink")や[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")などが[+8](https://ja.wikipedia.org/wiki/UTC+8 "wikilink") の[西部標準時](https://ja.wikipedia.org/wiki/西部標準時 "wikilink")となった。1937年に西部標準時が廃止され、全国が+9 に統一された。1948年から1951年にかけて[夏時間](../Page/夏時間.md "wikilink")が行われたため、この間、+9 なのは冬期のみであった。
+[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では1888年に[グリニッジ標準時](../Page/グリニッジ標準時.md "wikilink")+9時間が標準時と定められた。1896年からはそれが中央標準時となり、一方で[先島諸島](../Page/先島諸島.md "wikilink")や[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")などが[+8](../Page/UTC+8.md "wikilink") の[西部標準時](https://ja.wikipedia.org/wiki/西部標準時 "wikilink")となった。1937年に西部標準時が廃止され、全国が+9 に統一された。1948年から1951年にかけて[夏時間](../Page/夏時間.md "wikilink")が行われたため、この間、+9 なのは冬期のみであった。
 
-[大韓帝国](../Page/大韓帝国.md "wikilink")では1908年から[+8:30](https://ja.wikipedia.org/wiki/UTC+8:30 "wikilink") が導入されていた（官報第3994号勅令第5号）が、1912年に+9 に変更された（朝鮮総督府官報第367号告示第338号）。1948年より、[大韓民国](../Page/大韓民国.md "wikilink")では1時間進める[夏時間](../Page/夏時間.md "wikilink")を導入したため、以後は冬期のみ+9 となった。1954年、大韓民国標準時は再び+8:30 に変更された（大統領令第876号）ため、+9:30 なのは逆に夏期のみ（1960年まで、但し[朝鮮戦争](https://ja.wikipedia.org/wiki/朝鮮戦争 "wikilink")時を除く）となった。1961年、国家再建最高会議の決定に従い通年+9 に変更された（法律第676号）。 1987-1988年には[ソウルオリンピック](https://ja.wikipedia.org/wiki/ソウルオリンピック "wikilink")のため+1時間の夏時間が実施され、+9 なのは再び冬期のみとなったが、オリンピックが終わると夏時間は廃止された。
+[大韓帝国](../Page/大韓帝国.md "wikilink")では1908年から[+8:30](../Page/UTC+8:30.md "wikilink") が導入されていた（官報第3994号勅令第5号）が、1912年に+9 に変更された（朝鮮総督府官報第367号告示第338号）。1948年より、[大韓民国](../Page/大韓民国.md "wikilink")では1時間進める[夏時間](../Page/夏時間.md "wikilink")を導入したため、以後は冬期のみ+9 となった。1954年、大韓民国標準時は再び+8:30 に変更された（大統領令第876号）ため、+9:30 なのは逆に夏期のみ（1960年まで、但し[朝鮮戦争](https://ja.wikipedia.org/wiki/朝鮮戦争 "wikilink")時を除く）となった。1961年、国家再建最高会議の決定に従い通年+9 に変更された（法律第676号）。 1987-1988年には[ソウルオリンピック](https://ja.wikipedia.org/wiki/ソウルオリンピック "wikilink")のため+1時間の夏時間が実施され、+9 なのは再び冬期のみとなったが、オリンピックが終わると夏時間は廃止された。
 
-[中華民国](https://ja.wikipedia.org/wiki/中華民国 "wikilink")では1919年、1年間だけ[上海](https://ja.wikipedia.org/wiki/上海 "wikilink")および[天津](https://ja.wikipedia.org/wiki/天津 "wikilink")において夏時間（+9）を試行したことがある。台湾でも過去に何度か夏時間（+9）を行っている\[3\]。 [香港](https://ja.wikipedia.org/wiki/香港 "wikilink")では1941年から1979年までの間のほとんどにおいて夏時間（+9）を行っていた（1977・1978年は実施せず）。日本占領の数年間（1942-1945年）は通年+9 で、香港時間は日本本土時間と一致していた。1980年以後は再び夏時間が行われなくなった。 [マカオ](../Page/マカオ.md "wikilink")でも1941年から1979年までの間のほとんどにおいて夏時間（+9）を行っていた（1977・1978年は実施せず）。 [中華人民共和国](../Page/中華人民共和国.md "wikilink")では1986年から1991年までの6年間、全国的に北京夏時間（+9）が行われた。1992年以降再び行われなくなった。
+[中華民国](../Page/中華民国.md "wikilink")では1919年、1年間だけ[上海](https://ja.wikipedia.org/wiki/上海 "wikilink")および[天津](https://ja.wikipedia.org/wiki/天津 "wikilink")において夏時間（+9）を試行したことがある。台湾でも過去に何度か夏時間（+9）を行っている\[3\]。 [香港](https://ja.wikipedia.org/wiki/香港 "wikilink")では1941年から1979年までの間のほとんどにおいて夏時間（+9）を行っていた（1977・1978年は実施せず）。日本占領の数年間（1942-1945年）は通年+9 で、香港時間は日本本土時間と一致していた。1980年以後は再び夏時間が行われなくなった。 [マカオ](../Page/マカオ.md "wikilink")でも1941年から1979年までの間のほとんどにおいて夏時間（+9）を行っていた（1977・1978年は実施せず）。 [中華人民共和国](../Page/中華人民共和国.md "wikilink")では1986年から1991年までの6年間、全国的に北京夏時間（+9）が行われた。1992年以降再び行われなくなった。
 
 [マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")および[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")では日本占領期（1942-1945年）、通年+9 が行われた。
 
-[オーストラリア](../Page/オーストラリア.md "wikilink")の[西オーストラリア州](https://ja.wikipedia.org/wiki/西オーストラリア州 "wikilink")では1893年以来+8（西部標準時）を用いているが、2006年から2009年までの3回の夏（南半球）においてオーストラリア西部夏時間（+9）を試行した。この試みは2009年の国民投票で否決された。
+[オーストラリア](../Page/オーストラリア.md "wikilink")の[西オーストラリア州](../Page/西オーストラリア州.md "wikilink")では1893年以来+8（西部標準時）を用いているが、2006年から2009年までの3回の夏（南半球）においてオーストラリア西部夏時間（+9）を試行した。この試みは2009年の国民投票で否決された。
 
-[ロシア](../Page/ロシア.md "wikilink")ではかつて[ヤクーツク時間](https://ja.wikipedia.org/wiki/ヤクーツク時間 "wikilink")（冬期）とイルクーツク夏時間において+9 が用いられていたが、2011年3月27日よりヤクーツク時間は通年 [UTC+10](https://ja.wikipedia.org/wiki/UTC+10 "wikilink") に、イルクーツク時間は通年 UTC+9 となった。しかし[2014年](../Page/2014年.md "wikilink")10月26日に国内の標準時が再び変更されたため、ヤクーツク時間は通年UTC+9となった。
+[ロシア](../Page/ロシア.md "wikilink")ではかつて[ヤクーツク時間](https://ja.wikipedia.org/wiki/ヤクーツク時間 "wikilink")（冬期）とイルクーツク夏時間において+9 が用いられていたが、2011年3月27日よりヤクーツク時間は通年 [UTC+10](../Page/UTC+10.md "wikilink") に、イルクーツク時間は通年 UTC+9 となった。しかし[2014年](../Page/2014年.md "wikilink")10月26日に国内の標準時が再び変更されたため、ヤクーツク時間は通年UTC+9となった。
 
 [モンゴル国](https://ja.wikipedia.org/wiki/モンゴル国 "wikilink")では2001年から2006年まで夏時間を採用したため夏期に UTC+9 となっていたが、2007年に廃止された\[4\]。2015年に夏時間が再開されたが2016年夏期の実施を最後に廃止された。
 
@@ -160,9 +160,9 @@
   - [標準時](../Page/標準時.md "wikilink")
   - [インドネシア時間](https://ja.wikipedia.org/wiki/インドネシア時間 "wikilink")
   - [モンゴル時間](https://ja.wikipedia.org/wiki/モンゴル時間 "wikilink")
-  - [ロシア時間](https://ja.wikipedia.org/wiki/ロシア時間 "wikilink")
+  - [ロシア時間](../Page/ロシア時間.md "wikilink")
   - [日本標準時](../Page/日本標準時.md "wikilink")
-  - [韓国標準時](https://ja.wikipedia.org/wiki/韓国標準時 "wikilink")
+  - [韓国標準時](../Page/韓国標準時.md "wikilink")
   - [平壌時間](https://ja.wikipedia.org/wiki/平壌時間 "wikilink")
   - [東ティモール時間](https://ja.wikipedia.org/wiki/東ティモール時間 "wikilink")
 

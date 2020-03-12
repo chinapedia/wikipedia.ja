@@ -3,7 +3,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:JPN-ITA_20140621,_Chichibu-no-Miya.jpg "wikilink") 2014年6月21日撮影）\]\] [Ajinomoto_Stadium1.jpg](https://ja.wikipedia.org/wiki/File:Ajinomoto_Stadium1.jpg "fig:Ajinomoto_Stadium1.jpg") 2016年6月25日撮影）\]\] [Ajinomoto_Stadium2.jpg](https://ja.wikipedia.org/wiki/File:Ajinomoto_Stadium2.jpg "fig:Ajinomoto_Stadium2.jpg") [International_Stadium_Yokohama-1.jpg](https://ja.wikipedia.org/wiki/File:International_Stadium_Yokohama-1.jpg "fig:International_Stadium_Yokohama-1.jpg") 2017年11月4日撮影）\]\] [Ajinomoto_Stadium_2018-13.jpg](https://ja.wikipedia.org/wiki/File:Ajinomoto_Stadium_2018-13.jpg "fig:Ajinomoto_Stadium_2018-13.jpg")
 
-**リポビタンDチャレンジカップ**は[リポビタンD](https://ja.wikipedia.org/wiki/リポビタンD "wikilink")を販売する[大正製薬](https://ja.wikipedia.org/wiki/大正製薬 "wikilink")が特別協賛（[スポンサー](https://ja.wikipedia.org/wiki/スポンサー "wikilink")）となり、主に欧州・オセアニアのナショナルチームを迎えて行う[ラグビー日本代表](https://ja.wikipedia.org/wiki/ラグビー日本代表 "wikilink")の[テストマッチ](https://ja.wikipedia.org/wiki/テストマッチ "wikilink")。大正製薬は2001年からラグビー日本代表のオフィシャルスポンサーであり、大会は2002年から開催されている。
+**リポビタンDチャレンジカップ**は[リポビタンD](../Page/リポビタンD.md "wikilink")を販売する[大正製薬](../Page/大正製薬.md "wikilink")が特別協賛（[スポンサー](../Page/スポンサー.md "wikilink")）となり、主に欧州・オセアニアのナショナルチームを迎えて行う[ラグビー日本代表](../Page/ラグビー日本代表.md "wikilink")の[テストマッチ](../Page/テストマッチ.md "wikilink")。大正製薬は2001年からラグビー日本代表のオフィシャルスポンサーであり、大会は2002年から開催されている。
 
 各大会名称は「リポビタンDチャレンジ2002」のように「リポビタンDチャレンジ + 開催年」として行っていた。2013年に行われた[ニュージーランド代表戦は](https://ja.wikipedia.org/wiki/ラグビーニュージーランド代表 "wikilink")「**リポビタンDチャレンジカップ**2013」として行われ\[1\]、以降は現在のリポビタンDチャレンジカップという名称で開催されている。\[2\]。
 
@@ -22,7 +22,7 @@
 <tr class="odd">
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a></p></td>
 <td><p><a href="../Page/5月19日.md" title="wikilink">5月19日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/国立霞ヶ丘陸上競技場" title="wikilink">国立</a></p></td>
+<td><p><a href="../Page/国立霞ヶ丘陸上競技場.md" title="wikilink">国立</a></p></td>
 <td><p>59-19 </p></td>
 </tr>
 <tr class="even">
@@ -35,7 +35,7 @@
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a></p></td>
 <td><p><a href="../Page/6月8日.md" title="wikilink">6月8日</a></p></td>
 <td><p><a href="../Page/秩父宮ラグビー場.md" title="wikilink">秩父宮</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/A代表_(ラグビー)" title="wikilink">A</a> 66-15 </p></td>
+<td><p><a href="../Page/A代表_(ラグビー).md" title="wikilink">A</a> 66-15 </p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/7月6日.md" title="wikilink">7月6日</a></p></td>
@@ -56,7 +56,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
 <td><p><a href="../Page/6月12日.md" title="wikilink">6月12日</a></p></td>
 <td><p>長居</p></td>
 <td><p>44-12 </p></td>
@@ -74,7 +74,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ラグビーワールドカップ日本招致活動" title="wikilink">RWC2011日本招致カウントダウンマッチ</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
 <td><p><a href="../Page/5月14日.md" title="wikilink">5月14日</a></p></td>
 <td><p><a href="../Page/東大阪市花園ラグビー場.md" title="wikilink">花園</a></p></td>
 <td><p>32-7 </p></td>
@@ -219,7 +219,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/8月22日.md" title="wikilink">8月22日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東平尾公園博多の森球技場" title="wikilink">レベスタ</a></p></td>
+<td><p><a href="../Page/東平尾公園博多の森球技場.md" title="wikilink">レベスタ</a></p></td>
 <td><p>30-8 </p></td>
 <td></td>
 </tr>
@@ -321,7 +321,7 @@
 ## 関連項目
 
   - [リポビタンDツアー](https://ja.wikipedia.org/wiki/リポビタンDツアー "wikilink") - 大正製薬が協賛するラグビー日本代表の海外遠征ツアー
-  - [キリンチャレンジカップ](https://ja.wikipedia.org/wiki/キリンチャレンジカップ "wikilink") - サッカー日本代表の強化試合
+  - [キリンチャレンジカップ](../Page/キリンチャレンジカップ.md "wikilink") - サッカー日本代表の強化試合
   - [冠大会](../Page/冠大会.md "wikilink")
 
 ## 外部リンク

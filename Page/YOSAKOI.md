@@ -1,13 +1,13 @@
 > この記事は[YOSAKOI](https://ja.wikipedia.org/wiki/YOSAKOI)から翻訳されています。
 
 
-[Yosakoi_performer.jpg](https://ja.wikipedia.org/wiki/File:Yosakoi_performer.jpg "fig:Yosakoi_performer.jpg") [Himeji_Yosakoi_Matsuri_2012_066.JPG](https://ja.wikipedia.org/wiki/File:Himeji_Yosakoi_Matsuri_2012_066.JPG "fig:Himeji_Yosakoi_Matsuri_2012_066.JPG") [Yosakoi-nearyoyogipark.ogv](https://ja.wikipedia.org/wiki/File:Yosakoi-nearyoyogipark.ogv "fig:Yosakoi-nearyoyogipark.ogv") **YOSAKOI**（よさこい）は、[高知県](../Page/高知県.md "wikilink")の[よさこい祭り](https://ja.wikipedia.org/wiki/よさこい祭り "wikilink")から端を発した、[踊り](https://ja.wikipedia.org/wiki/踊り "wikilink")を主体とする日本の[祭](../Page/祭.md "wikilink")の一形態である。[1990年代](../Page/1990年代.md "wikilink")に[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")の[YOSAKOIソーラン祭り](https://ja.wikipedia.org/wiki/YOSAKOIソーラン祭り "wikilink")が成功したことにより、その[ノウハウ](https://ja.wikipedia.org/wiki/ノウハウ "wikilink")をもとに[2000年代](../Page/2000年代.md "wikilink")にかけて各地に広がった。
+[Yosakoi_performer.jpg](https://ja.wikipedia.org/wiki/File:Yosakoi_performer.jpg "fig:Yosakoi_performer.jpg") [Himeji_Yosakoi_Matsuri_2012_066.JPG](https://ja.wikipedia.org/wiki/File:Himeji_Yosakoi_Matsuri_2012_066.JPG "fig:Himeji_Yosakoi_Matsuri_2012_066.JPG") [Yosakoi-nearyoyogipark.ogv](https://ja.wikipedia.org/wiki/File:Yosakoi-nearyoyogipark.ogv "fig:Yosakoi-nearyoyogipark.ogv") **YOSAKOI**（よさこい）は、[高知県](../Page/高知県.md "wikilink")の[よさこい祭り](../Page/よさこい祭り.md "wikilink")から端を発した、[踊り](../Page/踊り.md "wikilink")を主体とする日本の[祭](../Page/祭.md "wikilink")の一形態である。[1990年代](../Page/1990年代.md "wikilink")に[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")の[YOSAKOIソーラン祭り](../Page/YOSAKOIソーラン祭り.md "wikilink")が成功したことにより、その[ノウハウ](https://ja.wikipedia.org/wiki/ノウハウ "wikilink")をもとに[2000年代](../Page/2000年代.md "wikilink")にかけて各地に広がった。
 
 ## 沿革
 
   - [1950年](../Page/1950年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")25年）、[南国高知産業大博覧会](https://ja.wikipedia.org/wiki/南国高知産業大博覧会 "wikilink")（高知市）において「よさこい踊り」が披露された。
   - [1954年](../Page/1954年.md "wikilink")（昭和29年）、高知市において第1回「よさこい祭り」開催。
-  - [1992年](../Page/1992年.md "wikilink")（[平成](../Page/平成.md "wikilink")4年）、[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")において第1回「[YOSAKOIソーラン祭り](https://ja.wikipedia.org/wiki/YOSAKOIソーラン祭り "wikilink")」開催。
+  - [1992年](../Page/1992年.md "wikilink")（[平成](../Page/平成.md "wikilink")4年）、[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")において第1回「[YOSAKOIソーラン祭り](../Page/YOSAKOIソーラン祭り.md "wikilink")」開催。
   - [1999年](../Page/1999年.md "wikilink")（平成11年）、高知市「よさこい祭り」で第1回「よさこい全国大会」開催。
   - [2011年](../Page/2011年.md "wikilink")（平成23年）、[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")を機に、全国組織の「YOSAKOI\! JAPAN連絡協議会」発足\[1\]。
 
@@ -16,16 +16,16 @@
 「よさこい系」「YOSAKOI系」の祭は、以下のような[フォーマット](https://ja.wikipedia.org/wiki/フォーマット "wikilink")を踏襲している。
 
   - 鳴り物：手に鳴子（なるこ）などを持って、鳴らしながら踊る。
-  - 曲：地元の伝統[民謡](../Page/民謡.md "wikilink")、又は[ご当地ソング](../Page/ご当地ソング.md "wikilink")を5分程度にアレンジ（[ジャズダンス](https://ja.wikipedia.org/wiki/ジャズダンス "wikilink")・[ディスコ](https://ja.wikipedia.org/wiki/ディスコ "wikilink")・[ヒップホップ](../Page/ヒップホップ.md "wikilink")風が多い）した曲に合わせて踊る。
+  - 曲：地元の伝統[民謡](../Page/民謡.md "wikilink")、又は[ご当地ソング](../Page/ご当地ソング.md "wikilink")を5分程度にアレンジ（[ジャズダンス](https://ja.wikipedia.org/wiki/ジャズダンス "wikilink")・[ディスコ](../Page/ディスコ.md "wikilink")・[ヒップホップ](../Page/ヒップホップ.md "wikilink")風が多い）した曲に合わせて踊る。
   - 衣装：おもに和風にアレンジされたデザインのチームオリジナルの衣装を着る。曲中の演出として連続早着替え（衣装チェンジ）等の工夫を凝らす団体も存在する。
-  - 化粧：[歌舞伎](../Page/歌舞伎.md "wikilink")・[日本舞踊](https://ja.wikipedia.org/wiki/日本舞踊 "wikilink")・[バレエ](../Page/バレエ.md "wikilink")・等の[舞台化粧や](https://ja.wikipedia.org/wiki/厚化粧 "wikilink")、そのアレンジ、フェースペインティング、等、各自で工夫する。
+  - 化粧：[歌舞伎](../Page/歌舞伎.md "wikilink")・[日本舞踊](../Page/日本舞踊.md "wikilink")・[バレエ](../Page/バレエ.md "wikilink")・等の[舞台化粧や](../Page/厚化粧.md "wikilink")、そのアレンジ、フェースペインティング、等、各自で工夫する。
   - 演舞：各チームごとに独特の振り付け（ステージ形式、パレード形式）を織り交ぜた集団での踊り。
 
 この他については、各地域ごとにルールは異なっている。
 
 装置集約型の[七夕祭り](https://ja.wikipedia.org/wiki/七夕祭り "wikilink")等は開催する[商店街](../Page/商店街.md "wikilink")の出費が多いが、YOSAKOI祭りは踊りを主体とした参加者集約型の祭りであるため、主催者側の持ち出しが少ないわりに規模拡大や集客効果が期待出来、短期間に各地に広がった。ただし、踊りに参加する各団体は、練習場代・衣装費・移動費などを自ら出費した上で参加費用を払っており、祭りの主催者の受益と参加者の出費とのバランスの悪さがしばしば問題になる。特に、グッズ販売や参加料の徴収など、主催者側の商業的な面が強い祭りに対しては批判も少なくなく、公益的な祭りを謳っていながら会計が不透明である等の批判を受けている祭りも見受けられる\[2\]。
 
-その他、地域本来の伝統文化とは無縁に組織されることもあり、祭りというよりも実質的には創作ダンスのコンテストとなってしまっているものもある。また、自由に[アレンジ](https://ja.wikipedia.org/wiki/アレンジ "wikilink")できる反面、安易に曲の引用をするために、[著作権侵害](https://ja.wikipedia.org/wiki/著作権侵害 "wikilink")の問題も発生している\[3\]。また、一部では全国的に「YOSAKOI」が爆発的に増えたがために、よさこいそのものが飽きられる傾向が見られ、「[静岡おだっくい祭り](../Page/静岡おだっくい祭り.md "wikilink")」等のようにイベントそのものが終了したり、各地のよさこいチームが解散するというケースも増え、よさこいが衰退、凋落を辿って淘汰されて行く傾向にあるという声も上がっている。[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")の「[YOSAKOIソーラン祭り](https://ja.wikipedia.org/wiki/YOSAKOIソーラン祭り "wikilink")」等では前述の金銭的な問題に加え、開催地の地元住民からも参加者のマナーの悪さや騒音問題、そもそも北海道と関係の無かった「よさこい」が開催されること等に対して批判的な声が上がっている。
+その他、地域本来の伝統文化とは無縁に組織されることもあり、祭りというよりも実質的には創作ダンスのコンテストとなってしまっているものもある。また、自由に[アレンジ](https://ja.wikipedia.org/wiki/アレンジ "wikilink")できる反面、安易に曲の引用をするために、[著作権侵害](../Page/著作権侵害.md "wikilink")の問題も発生している\[3\]。また、一部では全国的に「YOSAKOI」が爆発的に増えたがために、よさこいそのものが飽きられる傾向が見られ、「[静岡おだっくい祭り](../Page/静岡おだっくい祭り.md "wikilink")」等のようにイベントそのものが終了したり、各地のよさこいチームが解散するというケースも増え、よさこいが衰退、凋落を辿って淘汰されて行く傾向にあるという声も上がっている。[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")の「[YOSAKOIソーラン祭り](../Page/YOSAKOIソーラン祭り.md "wikilink")」等では前述の金銭的な問題に加え、開催地の地元住民からも参加者のマナーの悪さや騒音問題、そもそも北海道と関係の無かった「よさこい」が開催されること等に対して批判的な声が上がっている。
 
 ## 主なよさこい祭りの規模
 
@@ -52,7 +52,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/高知市.md" title="wikilink">高知市</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/よさこい祭り" title="wikilink">よさこい祭り</a></p></td>
+<td><p><a href="../Page/よさこい祭り.md" title="wikilink">よさこい祭り</a></p></td>
 <td><p>191チーム</p></td>
 <td><p>19,000</p></td>
 <td></td>
@@ -62,7 +62,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/札幌市" title="wikilink">札幌市</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/YOSAKOIソーラン祭り" title="wikilink">YOSAKOIソーラン祭り</a></p></td>
+<td><p><a href="../Page/YOSAKOIソーラン祭り.md" title="wikilink">YOSAKOIソーラン祭り</a></p></td>
 <td><p>304チーム</p></td>
 <td><p>30,000</p></td>
 <td><p>218</p></td>
@@ -71,7 +71,7 @@
 <td><p>[5]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/仙台市" title="wikilink">仙台市</a></p></td>
+<td><p><a href="../Page/仙台市.md" title="wikilink">仙台市</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/みちのくYOSAKOIまつり" title="wikilink">みちのくYOSAKOIまつり</a></p></td>
 <td><p>190チーム</p></td>
 <td><p>10,000</p></td>
@@ -91,7 +91,7 @@
 <td><p>[7]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/東京よさこい" title="wikilink">東京よさこい</a></p></td>
 <td><p>113チーム</p></td>
 <td></td>
@@ -122,7 +122,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/名古屋市.md" title="wikilink">名古屋市</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/にっぽんど真ん中祭り" title="wikilink">にっぽんど真ん中祭り</a></p></td>
+<td><p><a href="../Page/にっぽんど真ん中祭り.md" title="wikilink">にっぽんど真ん中祭り</a></p></td>
 <td><p>221チーム</p></td>
 <td><p>23,000</p></td>
 <td><p>210</p></td>
@@ -131,7 +131,7 @@
 <td><p>[11]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/瑞浪市" title="wikilink">瑞浪市</a></p></td>
+<td><p><a href="../Page/瑞浪市.md" title="wikilink">瑞浪市</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/バサラカーニバル" title="wikilink">バサラカーニバル</a></p></td>
 <td><p>275チーム</p></td>
 <td><p>10,000</p></td>
@@ -147,7 +147,7 @@
 <td></td>
 <td><p>20</p></td>
 <td><p>2日間</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
 <td><p>[13]</p></td>
 </tr>
 <tr class="odd">
@@ -202,7 +202,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/佐世保市.md" title="wikilink">佐世保市</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/YOSAKOIさせぼ祭り" title="wikilink">YOSAKOIさせぼ祭り</a></p></td>
+<td><p><a href="../Page/YOSAKOIさせぼ祭り.md" title="wikilink">YOSAKOIさせぼ祭り</a></p></td>
 <td><p>202チーム</p></td>
 <td></td>
 <td></td>
@@ -216,21 +216,21 @@
 ## 全国のよさこい祭り一覧
 
   - [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")
-      - 6月中旬：[YOSAKOIソーラン祭り](https://ja.wikipedia.org/wiki/YOSAKOIソーラン祭り "wikilink")（[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")、[ソーラン節](../Page/ソーラン節.md "wikilink")）
+      - 6月中旬：[YOSAKOIソーラン祭り](../Page/YOSAKOIソーラン祭り.md "wikilink")（[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")、[ソーラン節](../Page/ソーラン節.md "wikilink")）
 
 <!-- end list -->
 
   - [東北地方](https://ja.wikipedia.org/wiki/東北地方 "wikilink")
       - 5月上旬：[AOMORI春フェスティバル](https://ja.wikipedia.org/wiki/AOMORI春フェスティバル "wikilink")（[青森市](https://ja.wikipedia.org/wiki/青森市 "wikilink")） - [青森ねぶた](../Page/青森ねぶた.md "wikilink")・YOSAKOI・[サンバ](../Page/サンバ_\(ブラジル\).md "wikilink")
       - 5月下旬：[YOSAKOIさんさ](https://ja.wikipedia.org/wiki/YOSAKOIさんさ "wikilink")（[盛岡市](https://ja.wikipedia.org/wiki/盛岡市 "wikilink")、[東北地方](https://ja.wikipedia.org/wiki/東北地方 "wikilink")または参加チームの地元民謡）
-      - 6月下旬：[ヤートセ秋田祭](https://ja.wikipedia.org/wiki/ヤートセ秋田祭 "wikilink")（[秋田市](../Page/秋田市.md "wikilink")、[秋田音頭](https://ja.wikipedia.org/wiki/秋田音頭 "wikilink")、東北地方または参加チームの地元民謡）
+      - 6月下旬：[ヤートセ秋田祭](https://ja.wikipedia.org/wiki/ヤートセ秋田祭 "wikilink")（[秋田市](../Page/秋田市.md "wikilink")、[秋田音頭](../Page/秋田音頭.md "wikilink")、東北地方または参加チームの地元民謡）
       - 6月下旬：よさこい津軽（[弘前市](../Page/弘前市.md "wikilink")）
       - 7月下旬
-          - [YOSAKOIソーランジュニア東日本大会](https://ja.wikipedia.org/wiki/YOSAKOIソーランジュニア東日本大会 "wikilink")（[福島県](../Page/福島県.md "wikilink")[天栄村](https://ja.wikipedia.org/wiki/天栄村 "wikilink")、ソーラン節）
+          - [YOSAKOIソーランジュニア東日本大会](https://ja.wikipedia.org/wiki/YOSAKOIソーランジュニア東日本大会 "wikilink")（[福島県](../Page/福島県.md "wikilink")[天栄村](../Page/天栄村.md "wikilink")、ソーラン節）
           - [花笠YOSAKOIまつり](https://ja.wikipedia.org/wiki/花笠YOSAKOIまつり "wikilink")（[尾花沢市](../Page/尾花沢市.md "wikilink")）
-          - [柳町ヨサコイ祭り](https://ja.wikipedia.org/wiki/柳町ヨサコイ祭り "wikilink")（[能代市](../Page/能代市.md "wikilink")、[秋田音頭](https://ja.wikipedia.org/wiki/秋田音頭 "wikilink")、東北地方または参加チームの地元民謡）
-          - [大館ハチ公ヤートセ](https://ja.wikipedia.org/wiki/大館ハチ公ヤートセ "wikilink")（[大館市](../Page/大館市.md "wikilink")、[秋田音頭](https://ja.wikipedia.org/wiki/秋田音頭 "wikilink")、東北地方または参加チームの地元民謡）
-          - [大館ハチ公よさこい](https://ja.wikipedia.org/wiki/大館ハチ公よさこい "wikilink")（[大館市](../Page/大館市.md "wikilink")、[秋田音頭](https://ja.wikipedia.org/wiki/秋田音頭 "wikilink")、東北地方または参加チームの地元民謡）
+          - [柳町ヨサコイ祭り](https://ja.wikipedia.org/wiki/柳町ヨサコイ祭り "wikilink")（[能代市](../Page/能代市.md "wikilink")、[秋田音頭](../Page/秋田音頭.md "wikilink")、東北地方または参加チームの地元民謡）
+          - [大館ハチ公ヤートセ](https://ja.wikipedia.org/wiki/大館ハチ公ヤートセ "wikilink")（[大館市](../Page/大館市.md "wikilink")、[秋田音頭](../Page/秋田音頭.md "wikilink")、東北地方または参加チームの地元民謡）
+          - [大館ハチ公よさこい](https://ja.wikipedia.org/wiki/大館ハチ公よさこい "wikilink")（[大館市](../Page/大館市.md "wikilink")、[秋田音頭](../Page/秋田音頭.md "wikilink")、東北地方または参加チームの地元民謡）
       - 8月下旬
           - [かがり火よさこい](https://ja.wikipedia.org/wiki/かがり火よさこい "wikilink")（[秋田市](../Page/秋田市.md "wikilink")、秋田音頭、東北地方または参加チームの地元民謡）
           - [徳内祭](https://ja.wikipedia.org/wiki/徳内祭 "wikilink")（[村山市](../Page/村山市.md "wikilink")、[徳内ばやし](https://ja.wikipedia.org/wiki/徳内ばやし "wikilink")） - 探検家である[最上徳内](../Page/最上徳内.md "wikilink")が縁の友好都市、[厚岸町](../Page/厚岸町.md "wikilink")の[厚岸囃子](https://ja.wikipedia.org/wiki/厚岸囃子 "wikilink")を取り入れアレンジしている
@@ -239,14 +239,14 @@
           - [奥州Yosakoi in みずさわ](https://ja.wikipedia.org/wiki/奥州Yosakoi_in_みずさわ "wikilink")（[奥州市](../Page/奥州市.md "wikilink")）
       - 9月下旬：[あきたYOSAKOIキッズ祭](https://ja.wikipedia.org/wiki/あきたYOSAKOIキッズ祭 "wikilink")（[横手市](../Page/横手市.md "wikilink")、秋田音頭）
       - 9月下旬：[とわだYOSAKOI夢まつり](https://ja.wikipedia.org/wiki/とわだYOSAKOI夢まつり "wikilink")（[十和田市](https://ja.wikipedia.org/wiki/十和田市 "wikilink")、[東北地方](https://ja.wikipedia.org/wiki/東北地方 "wikilink")または参加チームの地元民謡）
-      - 10月上旬：[みちのくYOSAKOIまつり](https://ja.wikipedia.org/wiki/みちのくYOSAKOIまつり "wikilink")（[仙台市](https://ja.wikipedia.org/wiki/仙台市 "wikilink")、東北地方または参加チームの地元民謡）
+      - 10月上旬：[みちのくYOSAKOIまつり](https://ja.wikipedia.org/wiki/みちのくYOSAKOIまつり "wikilink")（[仙台市](../Page/仙台市.md "wikilink")、東北地方または参加チームの地元民謡）
       - 11月中旬または下旬：[はちのへYOSAKOIまつり](https://ja.wikipedia.org/wiki/はちのへYOSAKOIまつり "wikilink")（[八戸市](https://ja.wikipedia.org/wiki/八戸市 "wikilink")）
 
 <!-- end list -->
 
   - [北関東](../Page/北関東.md "wikilink")
       - 3月下旬：[YOSAKOIかぬまフェスティバル](https://ja.wikipedia.org/wiki/YOSAKOIかぬまフェスティバル "wikilink")（[鹿沼市](../Page/鹿沼市.md "wikilink")）
-      - 5月中旬：[常陸国YOSAKOI](https://ja.wikipedia.org/wiki/常陸国YOSAKOI "wikilink")（[大子町](https://ja.wikipedia.org/wiki/大子町 "wikilink")ほか）
+      - 5月中旬：[常陸国YOSAKOI](https://ja.wikipedia.org/wiki/常陸国YOSAKOI "wikilink")（[大子町](../Page/大子町.md "wikilink")ほか）
       - 8月上旬
           - [かみす舞っちゃげ祭り](https://ja.wikipedia.org/wiki/かみす舞っちゃげ祭り "wikilink")（[神栖市](https://ja.wikipedia.org/wiki/神栖市 "wikilink")）
           - [桐生八木節まつり](../Page/桐生八木節まつり.md "wikilink")（[桐生市](../Page/桐生市.md "wikilink")、[八木節](../Page/八木節.md "wikilink")）
@@ -291,12 +291,12 @@
       - 6月上旬：[能登よさこい祭り](https://ja.wikipedia.org/wiki/能登よさこい祭り "wikilink")（[七尾市](../Page/七尾市.md "wikilink")）
           - [犬山踊芸祭](https://ja.wikipedia.org/wiki/犬山踊芸祭 "wikilink")([犬山市](../Page/犬山市.md "wikilink"))
       - 6月中旬：[南アルプスよさこい祭り](https://ja.wikipedia.org/wiki/南アルプスよさこい祭り "wikilink")（[南アルプス市](../Page/南アルプス市.md "wikilink")）
-      - 7月下旬：[潮風よさこい](https://ja.wikipedia.org/wiki/潮風よさこい "wikilink")（[東伊豆町](https://ja.wikipedia.org/wiki/東伊豆町 "wikilink")[稲取温泉](https://ja.wikipedia.org/wiki/稲取温泉 "wikilink")）
+      - 7月下旬：[潮風よさこい](https://ja.wikipedia.org/wiki/潮風よさこい "wikilink")（[東伊豆町](../Page/東伊豆町.md "wikilink")[稲取温泉](../Page/稲取温泉.md "wikilink")）
       - 8月上旬
           - [YOSAKOI安曇野](https://ja.wikipedia.org/wiki/YOSAKOI安曇野 "wikilink")（[安曇野市](https://ja.wikipedia.org/wiki/安曇野市 "wikilink")）
           - [よさこいとやま](https://ja.wikipedia.org/wiki/富山まつり#よさこいとやま "wikilink")（[富山市](https://ja.wikipedia.org/wiki/富山市 "wikilink")） - 「[富山まつり](https://ja.wikipedia.org/wiki/富山まつり "wikilink")」の構成要素の1つ
           - [YOSAKOIイッチョライ](https://ja.wikipedia.org/wiki/YOSAKOIイッチョライ "wikilink")（[福井市](../Page/福井市.md "wikilink")、[イッチョライ](https://ja.wikipedia.org/wiki/イッチョライ "wikilink")節（[福井音頭](https://ja.wikipedia.org/wiki/イッチョライ "wikilink")）） - 「[福井フェニックスまつり](https://ja.wikipedia.org/wiki/福井フェニックスまつり "wikilink")」の構成要素の1つ
-      - 8月下旬：[にっぽんど真ん中祭り](https://ja.wikipedia.org/wiki/にっぽんど真ん中祭り "wikilink")（[名古屋市](../Page/名古屋市.md "wikilink")、[Sutotoco](https://ja.wikipedia.org/wiki/Sutotoco "wikilink")（総踊り）、又は参加チームの地元民謡）
+      - 8月下旬：[にっぽんど真ん中祭り](../Page/にっぽんど真ん中祭り.md "wikilink")（[名古屋市](../Page/名古屋市.md "wikilink")、[Sutotoco](https://ja.wikipedia.org/wiki/Sutotoco "wikilink")（総踊り）、又は参加チームの地元民謡）
       - 9月下旬
           - [静岡おだっくい祭り](../Page/静岡おだっくい祭り.md "wikilink")（[静岡市](../Page/静岡市.md "wikilink")、おだっくいSANKA）\[20\]
           - [諏訪湖よさこい](https://ja.wikipedia.org/wiki/諏訪湖よさこい "wikilink")([岡谷市](../Page/岡谷市.md "wikilink")、[諏訪市](../Page/諏訪市.md "wikilink")、[下諏訪町](../Page/下諏訪町.md "wikilink"))
@@ -309,11 +309,11 @@
       - 4月初旬：[京都さくらよさこい](https://ja.wikipedia.org/wiki/京都さくらよさこい "wikilink")（[京都市](../Page/京都市.md "wikilink")）
       - 4月下旬：大阪ベイエリア祭 Worldあぽろん（[大阪市](../Page/大阪市.md "wikilink")）
       - 5月上旬
-          - [踊っこまつり](https://ja.wikipedia.org/wiki/踊っこまつり "wikilink")（[加古川市](https://ja.wikipedia.org/wiki/加古川市 "wikilink")、[高砂市](../Page/高砂市.md "wikilink")、[稲美町](https://ja.wikipedia.org/wiki/稲美町 "wikilink")、[播磨町](../Page/播磨町.md "wikilink")）
+          - [踊っこまつり](https://ja.wikipedia.org/wiki/踊っこまつり "wikilink")（[加古川市](https://ja.wikipedia.org/wiki/加古川市 "wikilink")、[高砂市](../Page/高砂市.md "wikilink")、[稲美町](../Page/稲美町.md "wikilink")、[播磨町](../Page/播磨町.md "wikilink")）
           - [みやこ姫よさこい祭り](https://ja.wikipedia.org/wiki/みやこ姫よさこい祭り "wikilink")（[御坊市](../Page/御坊市.md "wikilink")）
-      - 8月上旬：[ひめじ良さ恋まつり](https://ja.wikipedia.org/wiki/ひめじ良さ恋まつり "wikilink")([姫路市](https://ja.wikipedia.org/wiki/姫路市 "wikilink"))
+      - 8月上旬：[ひめじ良さ恋まつり](https://ja.wikipedia.org/wiki/ひめじ良さ恋まつり "wikilink")([姫路市](../Page/姫路市.md "wikilink"))
       - 8月下旬
-          - [長浜あざいあっぱれ祭り](https://ja.wikipedia.org/wiki/長浜あざいあっぱれ祭り "wikilink")（[長浜市](../Page/長浜市.md "wikilink")、旧[浅井町](https://ja.wikipedia.org/wiki/浅井町_\(滋賀県\) "wikilink")）
+          - [長浜あざいあっぱれ祭り](https://ja.wikipedia.org/wiki/長浜あざいあっぱれ祭り "wikilink")（[長浜市](../Page/長浜市.md "wikilink")、旧[浅井町](../Page/浅井町_\(滋賀県\).md "wikilink")）
           - [おどるんや〜紀州よさこい祭り〜](https://ja.wikipedia.org/wiki/おどるんや〜紀州よさこい祭り〜 "wikilink")（[和歌山市](../Page/和歌山市.md "wikilink")）
           - [バサラ祭り](https://ja.wikipedia.org/wiki/バサラ祭り "wikilink")（[奈良市](https://ja.wikipedia.org/wiki/奈良市 "wikilink")）
       - 9月中旬：[こいや祭り](https://ja.wikipedia.org/wiki/こいや祭り "wikilink")（[大阪府](../Page/大阪府.md "wikilink")）
@@ -328,16 +328,16 @@
   - [中国地方](../Page/中国地方.md "wikilink")
       - 5月上旬：[きんさいYOSAKOI](https://ja.wikipedia.org/wiki/ひろしまフラワーフェスティバル#きんさいYOSAKOI "wikilink")（[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")、花ぐるま又は[広島音頭](https://ja.wikipedia.org/wiki/広島音頭 "wikilink")） - 「[ひろしまフラワーフェスティバル](../Page/ひろしまフラワーフェスティバル.md "wikilink")」の構成要素の1つ
       - 8月上旬：[うらじゃ](../Page/うらじゃ.md "wikilink")（[岡山市](../Page/岡山市.md "wikilink")） - 厳密に言うとよさこい系ではないが、パレードや演舞などはよさこい形式
-      - 8月下旬：[関門よさこい大会](https://ja.wikipedia.org/wiki/関門よさこい大会 "wikilink")（[下関市](../Page/下関市.md "wikilink")） - 「馬関まつり」の構成要素の1つ。[関門海峡](../Page/関門海峡.md "wikilink")を挟んで[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")[北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink")との2会場で開催
+      - 8月下旬：[関門よさこい大会](https://ja.wikipedia.org/wiki/関門よさこい大会 "wikilink")（[下関市](../Page/下関市.md "wikilink")） - 「馬関まつり」の構成要素の1つ。[関門海峡](../Page/関門海峡.md "wikilink")を挟んで[福岡県](../Page/福岡県.md "wikilink")[北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink")との2会場で開催
       - 10月上旬：[よさこいぶち楽市民祭](https://ja.wikipedia.org/wiki/よさこいぶち楽市民祭 "wikilink")（[周南市](../Page/周南市.md "wikilink")） - 「徳山のんた祭」の構成要素の1つ
 
 <!-- end list -->
 
   - [四国地方](https://ja.wikipedia.org/wiki/四国地方 "wikilink")
       - 8月上旬
-          - [よさこい祭り](https://ja.wikipedia.org/wiki/よさこい祭り "wikilink")（[高知市](../Page/高知市.md "wikilink")）
+          - [よさこい祭り](../Page/よさこい祭り.md "wikilink")（[高知市](../Page/高知市.md "wikilink")）
           - [土佐山田まつり](https://ja.wikipedia.org/wiki/土佐山田まつり "wikilink")（[香美市](../Page/香美市.md "wikilink")、[よさこい鳴子踊り](https://ja.wikipedia.org/wiki/よさこい鳴子踊り "wikilink")）
-      - 8月下旬：[えひめYOSAKOI祭り](https://ja.wikipedia.org/wiki/えひめYOSAKOI祭り "wikilink")（[大洲市](https://ja.wikipedia.org/wiki/大洲市 "wikilink"))
+      - 8月下旬：[えひめYOSAKOI祭り](https://ja.wikipedia.org/wiki/えひめYOSAKOI祭り "wikilink")（[大洲市](../Page/大洲市.md "wikilink"))
       - 10月中旬：[YOSAKOI高松祭り](https://ja.wikipedia.org/wiki/YOSAKOI高松祭り "wikilink")（[高松市](https://ja.wikipedia.org/wiki/高松市 "wikilink")）
 
 <!-- end list -->
@@ -347,19 +347,19 @@
       - 8月下旬：[関門よさこい大会](https://ja.wikipedia.org/wiki/関門よさこい大会 "wikilink")（北九州市） - 関門海峡を挟んで[山口県](../Page/山口県.md "wikilink")[下関市](../Page/下関市.md "wikilink")との2会場で開催
       - 11月中旬：[ふくこいアジア祭り](https://ja.wikipedia.org/wiki/ふくこいアジア祭り "wikilink")（[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")）
       - 10月上旬：[YOSAKOIかすや祭り](https://ja.wikipedia.org/wiki/YOSAKOIかすや祭り "wikilink")（[粕屋町](https://ja.wikipedia.org/wiki/粕屋町 "wikilink")）
-      - 10月下旬：[YOSAKOIさせぼ祭り](https://ja.wikipedia.org/wiki/YOSAKOIさせぼ祭り "wikilink")（[佐世保市](../Page/佐世保市.md "wikilink")）
+      - 10月下旬：[YOSAKOIさせぼ祭り](../Page/YOSAKOIさせぼ祭り.md "wikilink")（[佐世保市](../Page/佐世保市.md "wikilink")）
 
 <!-- end list -->
 
   - [インドネシア](../Page/インドネシア.md "wikilink")
-      - 7月下旬：[SURABAYA YOSAKOI FESTIVAL](https://ja.wikipedia.org/wiki/SURABAYA_YOSAKOI_FESTIVAL "wikilink")（[スラバヤ](https://ja.wikipedia.org/wiki/スラバヤ "wikilink")）
+      - 7月下旬：[SURABAYA YOSAKOI FESTIVAL](https://ja.wikipedia.org/wiki/SURABAYA_YOSAKOI_FESTIVAL "wikilink")（[スラバヤ](../Page/スラバヤ.md "wikilink")）
 
 日本全国で大小約200以上のYOSAKOIがある。
 
 ## 関連項目
 
-  - [よさこい祭り](https://ja.wikipedia.org/wiki/よさこい祭り "wikilink")
-  - [よさこい](https://ja.wikipedia.org/wiki/よさこい "wikilink")
+  - [よさこい祭り](../Page/よさこい祭り.md "wikilink")
+  - [よさこい](../Page/よさこい.md "wikilink")
   - [ハナヤマタ](https://ja.wikipedia.org/wiki/ハナヤマタ "wikilink") - YOSAKOIを題材とした漫画作品。
   - [ヤンキー文化](https://ja.wikipedia.org/wiki/ヤンキー文化 "wikilink") - 小説「YOSAKOIソーラン娘 札幌が踊る夏」でもYOSAKOIのネガティブ要素として触れている\[21\]。
 

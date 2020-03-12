@@ -1,16 +1,16 @@
 > この記事は[GAM \(\)](https://ja.wikipedia.org/wiki/GAM_\(\))から翻訳されています。
 
 
-**GAM**（ギャム）は、[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")の[松浦亜弥](../Page/松浦亜弥.md "wikilink")と[藤本美貴](https://ja.wikipedia.org/wiki/藤本美貴 "wikilink")による[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")[デュオ](../Page/デュオ.md "wikilink")、[女性](../Page/女性.md "wikilink")[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")[ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")。
+**GAM**（ギャム）は、[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")の[松浦亜弥](../Page/松浦亜弥.md "wikilink")と[藤本美貴](https://ja.wikipedia.org/wiki/藤本美貴 "wikilink")による[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")[デュオ](../Page/デュオ.md "wikilink")、[女性](../Page/女性.md "wikilink")[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")[ユニット](../Page/音楽ユニット.md "wikilink")。
 
 ## 概要
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[6月15日](../Page/6月15日.md "wikilink")、松浦・藤本のソロおよびユニット活動のプロデュースを手掛けていた[つんく♂](https://ja.wikipedia.org/wiki/つんく♂ "wikilink")（[シャ乱Q](../Page/シャ乱Q.md "wikilink")）が、公式サイトで結成を発表。複数枚（3枚）のシングルおよびオリジナルアルバムのリリース、ユニット単独でのコンサートツアーの開催など、ハロー\!プロジェクトのスペシャルユニットとしては異例の積極的な活動をおよそ1年にわたって展開した。
+  - [2006年](../Page/2006年.md "wikilink")[6月15日](../Page/6月15日.md "wikilink")、松浦・藤本のソロおよびユニット活動のプロデュースを手掛けていた[つんく♂](https://ja.wikipedia.org/wiki/つんく♂ "wikilink")（[シャ乱Q](../Page/シャ乱Q.md "wikilink")）が、公式サイトで結成を発表。複数枚（3枚）のシングルおよびオリジナルアルバムのリリース、ユニット単独でのコンサートツアーの開催など、ハロー\!プロジェクトのスペシャルユニットとしては異例の積極的な活動をおよそ1年にわたって展開した。
   - ユニット名の「**GAM**」は、「**G**reat **A**ya×**M**iki」を省略した造語である。つんく♂によれば、**GAM**には[英語](../Page/英語.md "wikilink")[スラング](../Page/スラング.md "wikilink")で「足の綺麗な女の人」という意味があることから、「『綺麗な素敵な脚』と歌で魅了させるユニットを目指す」という意味も込めているという\[1\]。
-  - 2006年[12月31日](../Page/12月31日.md "wikilink")の[第57回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第57回NHK紅白歌合戦 "wikilink")に、「GAM＆[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")」というスペシャルユニットで、当時藤本が所属していたモーニング娘。と共に出場した。GAMとしては初めての出場だったが、松浦はソロと[DEF.DIVA](https://ja.wikipedia.org/wiki/DEF.DIVA "wikilink")、藤本はソロとモーニング娘。として過去に出場していたことから、2人は史上4・5人目（女性では2・3人目）の「別名義による通算3度目の出場」を達成した。
-  - [2007年](../Page/2007年.md "wikilink")には、[東北楽天ゴールデンイーグルス](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")の公式応援歌**「ダイスキ楽天イーグルス」**を発表。同年[4月1日](../Page/4月1日.md "wikilink")には、[クリネックススタジアム宮城](https://ja.wikipedia.org/wiki/クリネックススタジアム宮城 "wikilink")で開催の楽天対[オリックス・バファローズ](https://ja.wikipedia.org/wiki/オリックス・バファローズ "wikilink")戦で、松浦・藤本揃っての始球式が実現した。なお、**「ダイスキ楽天イーグルス」**のCDの販売ルートは、同球団の（[Web販売サイトを含む](../Page/World_Wide_Web.md "wikilink")）オフィシャルショップおよび[ハロー\!プロジェクトオフィシャルショップ](https://ja.wikipedia.org/wiki/ハロー!プロジェクトオフィシャルショップ "wikilink")にほぼ限られていた。
-  - [2007年](../Page/2007年.md "wikilink")[7月3日](https://ja.wikipedia.org/wiki/7月3日 "wikilink")に「GAM 1stコンサートツアー2007初夏〜グレイト亜弥&美貴〜」を終了して以降は、GAMとしての活動を事実上休止。松浦がソロ活動のかたわら[子宮内膜症](https://ja.wikipedia.org/wiki/子宮内膜症 "wikilink")で療養する一方で、藤本はソロ活動を幅広く展開しながら[ドリーム　モーニング娘。にも参加していた](https://ja.wikipedia.org/wiki/ドリーム_モーニング娘。 "wikilink")。
-  - [2013年](../Page/2013年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink")から[2014年](../Page/2014年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")にかけて[中野サンプラザ](https://ja.wikipedia.org/wiki/中野サンプラザ "wikilink")で開かれたハロー\!プロジェクト初の年越しイベント「Hello\!Project COUNTDOWN PARTY 2013 ～ GOOD BYE & HELLO\! ～」で、GAMとしては約6年半振りに公の場で楽曲を披露。イベント中のトークでは、松浦が「今は人妻（である松浦）と子持ち（である藤本）ですね」\[2\]という表現で近況を紹介したのに対して、藤本は「いつでも（活動）できるように、**解散はしていない**」としてGAMの活動再開に含みを持たせている\[3\]。
+  - 2006年[12月31日](../Page/12月31日.md "wikilink")の[第57回NHK紅白歌合戦](../Page/第57回NHK紅白歌合戦.md "wikilink")に、「GAM＆[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")」というスペシャルユニットで、当時藤本が所属していたモーニング娘。と共に出場した。GAMとしては初めての出場だったが、松浦はソロと[DEF.DIVA](../Page/DEF.DIVA.md "wikilink")、藤本はソロとモーニング娘。として過去に出場していたことから、2人は史上4・5人目（女性では2・3人目）の「別名義による通算3度目の出場」を達成した。
+  - [2007年](../Page/2007年.md "wikilink")には、[東北楽天ゴールデンイーグルス](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")の公式応援歌**「ダイスキ楽天イーグルス」**を発表。同年[4月1日](../Page/4月1日.md "wikilink")には、[クリネックススタジアム宮城](https://ja.wikipedia.org/wiki/クリネックススタジアム宮城 "wikilink")で開催の楽天対[オリックス・バファローズ](../Page/オリックス・バファローズ.md "wikilink")戦で、松浦・藤本揃っての始球式が実現した。なお、**「ダイスキ楽天イーグルス」**のCDの販売ルートは、同球団の（[Web販売サイトを含む](../Page/World_Wide_Web.md "wikilink")）オフィシャルショップおよび[ハロー\!プロジェクトオフィシャルショップ](https://ja.wikipedia.org/wiki/ハロー!プロジェクトオフィシャルショップ "wikilink")にほぼ限られていた。
+  - [2007年](../Page/2007年.md "wikilink")[7月3日](../Page/7月3日.md "wikilink")に「GAM 1stコンサートツアー2007初夏〜グレイト亜弥&美貴〜」を終了して以降は、GAMとしての活動を事実上休止。松浦がソロ活動のかたわら[子宮内膜症](../Page/子宮内膜症.md "wikilink")で療養する一方で、藤本はソロ活動を幅広く展開しながら[ドリーム　モーニング娘。にも参加していた](https://ja.wikipedia.org/wiki/ドリーム_モーニング娘。 "wikilink")。
+  - [2013年](../Page/2013年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink")から[2014年](../Page/2014年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")にかけて[中野サンプラザ](../Page/中野サンプラザ.md "wikilink")で開かれたハロー\!プロジェクト初の年越しイベント「Hello\!Project COUNTDOWN PARTY 2013 ～ GOOD BYE & HELLO\! ～」で、GAMとしては約6年半振りに公の場で楽曲を披露。イベント中のトークでは、松浦が「今は人妻（である松浦）と子持ち（である藤本）ですね」\[2\]という表現で近況を紹介したのに対して、藤本は「いつでも（活動）できるように、**解散はしていない**」としてGAMの活動再開に含みを持たせている\[3\]。
 
 ## 音楽
 
@@ -18,7 +18,7 @@
 
 #### シングル
 
-1.  [Thanks\!](https://ja.wikipedia.org/wiki/Thanks! "wikilink")（2006年9月13日 HKCN-50037）
+1.  [Thanks\!](../Page/Thanks!.md "wikilink")（2006年9月13日 HKCN-50037）
       - 週間 5位
       - 映画「[スケバン刑事 コードネーム=麻宮サキ](https://ja.wikipedia.org/wiki/スケバン刑事_コードネーム=麻宮サキ "wikilink")」主題歌
       - カップリング：蜃気楼ロマンス（「スケバン刑事 コードネーム=麻宮サキ」挿入歌）
@@ -51,7 +51,7 @@
 
 #### シングルV
 
-1.  [Thanks\!](https://ja.wikipedia.org/wiki/Thanks! "wikilink")（2006年9月20日 HKBN-50073）
+1.  [Thanks\!](../Page/Thanks!.md "wikilink")（2006年9月20日 HKBN-50073）
 2.  [メロディーズ](https://ja.wikipedia.org/wiki/メロディーズ_\(GAMの曲\) "wikilink")（2006年11月15日 HKBN-50074）
 3.  [LU LU LU](https://ja.wikipedia.org/wiki/LU_LU_LU "wikilink")（2007年3月28日 HKCN-50080）
 
@@ -78,7 +78,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a>（平成18年）/<a href="https://ja.wikipedia.org/wiki/第57回NHK紅白歌合戦" title="wikilink">第57回</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a>（平成18年）/<a href="../Page/第57回NHK紅白歌合戦.md" title="wikilink">第57回</a></p></td>
 <td><p>初</p></td>
 <td><p>Thanks! 歩いてる 2006<br />
 Ambitious バージョン</p></td>

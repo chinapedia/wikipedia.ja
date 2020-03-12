@@ -1,9 +1,9 @@
 > この記事は[ONE LIFE,ONE DEATH](https://ja.wikipedia.org/wiki/ONE_LIFE,ONE_DEATH)から翻訳されています。
 
 
-『**ONE LIFE,ONE DEATH**』（ワン・ライフ、ワン・デス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンドである](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")[BUCK-TICK](https://ja.wikipedia.org/wiki/BUCK-TICK "wikilink")の11枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")\[1\]。[2000年](../Page/2000年.md "wikilink")[9月20日](../Page/9月20日.md "wikilink")に[BMGファンハウスよりリリースされた](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。
+『**ONE LIFE,ONE DEATH**』（ワン・ライフ、ワン・デス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンドである](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")[BUCK-TICK](../Page/BUCK-TICK.md "wikilink")の11枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")\[1\]。[2000年](../Page/2000年.md "wikilink")[9月20日](../Page/9月20日.md "wikilink")に[BMGファンハウスよりリリースされた](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。
 
-[マーキュリー・レコードからBMGファンハウスへ移籍後初のアルバムである本作は](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")、前作『[SEXY STREAM LINER](../Page/SEXY_STREAM_LINER.md "wikilink")』（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")）より約3年ぶりのオリジナルアルバムである。
+[マーキュリー・レコードからBMGファンハウスへ移籍後初のアルバムである本作は](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")、前作『[SEXY STREAM LINER](../Page/SEXY_STREAM_LINER.md "wikilink")』（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")）より約3年ぶりのオリジナルアルバムである。
 
 アルバムタイトルの由来は4曲目「細胞具ドリー：ソラミミ：PHANTOM」の歌詞の一節「一度生まれて 一度死ぬ」を英語表記にしたもの。
 
@@ -14,10 +14,10 @@
 
 ## リリース履歴
 
-| No. | 日付                                                                       | [レーベル](../Page/レコードレーベル.md "wikilink")                          | 規格                                                                 | [規格品番](https://ja.wikipedia.org/wiki/規格品番 "wikilink") | 最高順位 | 備考                  |
-| --- | ------------------------------------------------------------------------ | --------------------------------------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------- | ---- | ------------------- |
-| 1   | [2000年](../Page/2000年.md "wikilink")[9月20日](../Page/9月20日.md "wikilink") | [BMGファンハウス](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink") | [CD](../Page/コンパクトディスク.md "wikilink")                              | BVCR-11026                                            | 11位  |                     |
-| 2   | [2017年](../Page/2017年.md "wikilink")[11月7日](../Page/11月7日.md "wikilink") | [アリオラジャパン](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink")   | [Blu-Spec CD2](https://ja.wikipedia.org/wiki/ブルースペックCD "wikilink") | BVCL-30035                                            | 243位 | デジタルリマスター盤、紙ジャケット仕様 |
+| No. | 日付                                                                       | [レーベル](../Page/レコードレーベル.md "wikilink")                          | 規格                                                                 | [規格品番](../Page/規格品番.md "wikilink") | 最高順位 | 備考                  |
+| --- | ------------------------------------------------------------------------ | --------------------------------------------------------------- | ------------------------------------------------------------------ | ---------------------------------- | ---- | ------------------- |
+| 1   | [2000年](../Page/2000年.md "wikilink")[9月20日](../Page/9月20日.md "wikilink") | [BMGファンハウス](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink") | [CD](../Page/コンパクトディスク.md "wikilink")                              | BVCR-11026                         | 11位  |                     |
+| 2   | [2017年](../Page/2017年.md "wikilink")[11月7日](../Page/11月7日.md "wikilink") | [アリオラジャパン](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink")   | [Blu-Spec CD2](https://ja.wikipedia.org/wiki/ブルースペックCD "wikilink") | BVCL-30035                         | 243位 | デジタルリマスター盤、紙ジャケット仕様 |
 
 ## 収録曲
 
@@ -42,7 +42,7 @@
     <!-- end list -->
       -
         「[ドリー](../Page/ドリー_\(羊\).md "wikilink")」とは[1996年](../Page/1996年.md "wikilink")に[スコットランド](../Page/スコットランド.md "wikilink")にて誕生した世界初の[クローン](https://ja.wikipedia.org/wiki/クローン "wikilink")羊のことであり、クローンのように似通ったものが乱発される昨今の音楽シーン（もしくはファッションシーン）を皮肉っている。
-        また「細胞具」とは[サイボーグ](../Page/サイボーグ.md "wikilink")を、歌詞にある「細胞具はドリーの夢をみるか」という一節は[フィリップ・K・ディック](../Page/フィリップ・K・ディック.md "wikilink")の[SF小説](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")『[アンドロイドは電気羊の夢を見るか?](https://ja.wikipedia.org/wiki/アンドロイドは電気羊の夢を見るか? "wikilink")』をそれぞれもじったもの。
+        また「細胞具」とは[サイボーグ](../Page/サイボーグ.md "wikilink")を、歌詞にある「細胞具はドリーの夢をみるか」という一節は[フィリップ・K・ディック](../Page/フィリップ・K・ディック.md "wikilink")の[SF小説](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")『[アンドロイドは電気羊の夢を見るか?](../Page/アンドロイドは電気羊の夢を見るか?.md "wikilink")』をそれぞれもじったもの。
 5.  **カイン** \[4:40\]
       - 作詞：櫻井敦司、作曲：今井寿
     <!-- end list -->
@@ -73,12 +73,12 @@
   - 櫻井敦司 - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
   - 今井寿 - [ギター](../Page/ギター.md "wikilink")、[ノイズ](../Page/ノイズミュージック.md "wikilink")、ボーカル
   - 星野英彦 - ギター、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
-  - [樋口豊](../Page/樋口豊_\(ミュージシャン\).md "wikilink") - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - [樋口豊](../Page/樋口豊_\(ミュージシャン\).md "wikilink") - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
   - [ヤガミトール](../Page/ヤガミトール.md "wikilink") - [ドラムス](../Page/ドラムセット.md "wikilink")
 
 ### サポートミュージシャン
 
-  - [横山和俊](https://ja.wikipedia.org/wiki/横山和俊 "wikilink") - [マニピュレート](https://ja.wikipedia.org/wiki/マニピュレーター "wikilink")、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、ノイズ
+  - [横山和俊](https://ja.wikipedia.org/wiki/横山和俊 "wikilink") - [マニピュレート](../Page/マニピュレーター.md "wikilink")、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、ノイズ
 
 ## 脚注
 

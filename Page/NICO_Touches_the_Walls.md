@@ -7,9 +7,9 @@
 
 ※詳細は各人の記事を参照。
 
-  - [光村龍哉](https://ja.wikipedia.org/wiki/光村龍哉 "wikilink")（みつむら たつや、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[9月8日](https://ja.wikipedia.org/wiki/9月8日 "wikilink") - ）
+  - [光村龍哉](https://ja.wikipedia.org/wiki/光村龍哉 "wikilink")（みつむら たつや、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[9月8日](../Page/9月8日.md "wikilink") - ）
 
-:\* [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")担当。ほとんどの楽曲の作詞作曲を手掛ける。愛称は『みっちゃん』。[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[浦安市](https://ja.wikipedia.org/wiki/浦安市 "wikilink")出身。高校時代は軽音楽部に所属。
+:\* [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")担当。ほとんどの楽曲の作詞作曲を手掛ける。愛称は『みっちゃん』。[千葉県](../Page/千葉県.md "wikilink")[浦安市](https://ja.wikipedia.org/wiki/浦安市 "wikilink")出身。高校時代は軽音楽部に所属。
 
 :\* 楽曲の中には中高生時代に1人もしくはバンドで作った曲も多く見られる（「病気」、「雨のブルース」、「雲空の悪魔」、「[TOKYO Dreamer](https://ja.wikipedia.org/wiki/TOKYO_Dreamer "wikilink")」など）。
 
@@ -19,7 +19,7 @@
 
   - [坂倉心悟](https://ja.wikipedia.org/wiki/坂倉心悟 "wikilink")（さかくら しんご、1985年[7月24日](../Page/7月24日.md "wikilink") - ）
 
-:\* [ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。一部楽曲の作詞作曲を手掛ける(「Endless roll」「マトリョーシカ」、「チェインリアクション」(作曲は古村との共作)など)。愛称は『さっかん』『しんちゃん』（近年古村からのみ『心悟さん』）。メンバーではただ1人出身高校が異なる。[早稲田大学](https://ja.wikipedia.org/wiki/早稲田大学 "wikilink")[人間科学部](https://ja.wikipedia.org/wiki/人間科学部 "wikilink")卒業。
+:\* [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。一部楽曲の作詞作曲を手掛ける(「Endless roll」「マトリョーシカ」、「チェインリアクション」(作曲は古村との共作)など)。愛称は『さっかん』『しんちゃん』（近年古村からのみ『心悟さん』）。メンバーではただ1人出身高校が異なる。[早稲田大学](../Page/早稲田大学.md "wikilink")[人間科学部](../Page/人間科学部.md "wikilink")卒業。
 
 :\* 光村とは共通の友人を介して知り合い、NICO Touches the Wallsが結成される以前に二人はB+(bplus)というバンドを組んでいた。
 
@@ -27,7 +27,7 @@
 
 :\* [ドラム担当](../Page/ドラムセット.md "wikilink")。一部楽曲の作詞を手掛ける(「ニワカ雨ニモ負ケズ」「太陽が笑ってら」「口笛吹いて、こんにちは」(光村との共作)、「紅い爪」)。愛称は『ティム』。高校時代は軽音楽部に所属し、部長を務めていた（次代部長は光村）。光村の一つ上の先輩にあたる。古村とは小学3年生で古村が函館から引っ越してきて転入したクラスの同級生であった。
 
-:\* [HiGE](https://ja.wikipedia.org/wiki/HiGE "wikilink")から「日本でも屈指の髭の似合う男」と言われた（2010年3月26日OAの[オンタマ](../Page/オンタマ.md "wikilink")にて）。
+:\* [HiGE](../Page/HiGE.md "wikilink")から「日本でも屈指の髭の似合う男」と言われた（2010年3月26日OAの[オンタマ](../Page/オンタマ.md "wikilink")にて）。
 
 ### サポートメンバー
 
@@ -90,7 +90,7 @@
   - 10月
       - スペースシャワー列伝 JAPAN TOUR 2007に参加。
       - MINAMI WHEEL 2007に出演。BIGCATを満員にする。
-  - 11月　メジャー1stミニアルバム 『[How are you?](https://ja.wikipedia.org/wiki/How_are_you? "wikilink")』を[キューンレコードよりリリースし](https://ja.wikipedia.org/wiki/キューンミュージック "wikilink")、[メジャー・デビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。
+  - 11月　メジャー1stミニアルバム 『[How are you?](https://ja.wikipedia.org/wiki/How_are_you? "wikilink")』を[キューンレコードよりリリースし](../Page/キューンミュージック.md "wikilink")、[メジャー・デビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。
   - 12月、「rockin'on presents COUNTDOWN JAPAN 07/08」に出演。
 
 <!-- end list -->
@@ -156,7 +156,7 @@
 <!-- end list -->
 
   - 1月
-      - 8th シングル『[Diver](https://ja.wikipedia.org/wiki/Diver_\(NICO_Touches_the_Wallsの曲\) "wikilink")』、2nd Live DVD「NICO Touches the Walls TOUR 2010『ミチナキミチ』」を同時リリース。『Diver』はテレビアニメ「[NARUTO -ナルト- 少年篇](https://ja.wikipedia.org/wiki/NARUTO_-ナルト- "wikilink")」「NARUTO -ナルト- 疾風伝」主題歌となる（NARUTOとのタイアップは2度目）。
+      - 8th シングル『[Diver](https://ja.wikipedia.org/wiki/Diver_\(NICO_Touches_the_Wallsの曲\) "wikilink")』、2nd Live DVD「NICO Touches the Walls TOUR 2010『ミチナキミチ』」を同時リリース。『Diver』はテレビアニメ「[NARUTO -ナルト- 少年篇](../Page/NARUTO_-ナルト-.md "wikilink")」「NARUTO -ナルト- 疾風伝」主題歌となる（NARUTOとのタイアップは2度目）。
       - NICO Touches the Walls × flumpool split Tour 2011を開催。
   - 4月
       - 3rd フルアルバム『[PASSENGER](https://ja.wikipedia.org/wiki/PASSENGER_\(NICO_Touches_the_Wallsのアルバム\) "wikilink")』をリリース。オリコン初登場15位を獲得。
@@ -243,7 +243,7 @@
   - 9月
       - 2日、18thシングル『[渦と渦](https://ja.wikipedia.org/wiki/渦と渦 "wikilink")』リリース。『渦と渦』はテレビアニメ「[アルスラーン戦記](../Page/アルスラーン戦記.md "wikilink")」の主題歌となる。このシングルには12月の大阪城ホール公演、そして3度目の日本武道館公演の先行抽選応募チケットが封入される。
   - 11月
-      - 13日、古村が右手の第4、5中手骨に伴い、12月23日に開催予定だった[大阪城ホール](../Page/大阪城ホール.md "wikilink")でのライブを2016年5月6日に延期することを発表。また、12月31日に出演予定であった[COUNTDOWN JAPAN](https://ja.wikipedia.org/wiki/COUNTDOWN_JAPAN "wikilink") 15/16も出演キャンセルとなった（EARTH STAGEのトリを務める予定だった）\[2\]。
+      - 13日、古村が右手の第4、5中手骨に伴い、12月23日に開催予定だった[大阪城ホール](../Page/大阪城ホール.md "wikilink")でのライブを2016年5月6日に延期することを発表。また、12月31日に出演予定であった[COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 15/16も出演キャンセルとなった（EARTH STAGEのトリを務める予定だった）\[2\]。
 
 <!-- end list -->
 
@@ -339,20 +339,20 @@
 <th><p>発売日</p></th>
 <th><p>作品名</p></th>
 <th><p>チャート最高位</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>収録アルバム</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">オリコン</a></p></td>
+<td><p><a href="../Page/オリコンチャート.md" title="wikilink">オリコン</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Billboard_Japan" title="wikilink">Billboard Japan</a></p></td>
 <td><p>初回生産限定盤</p></td>
 <td><p>通常盤</p></td>
 <td><p>期間生産限定盤</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/キューンミュージック" title="wikilink">Ki/oon Records</a></p></td>
+<td><p><a href="../Page/キューンミュージック.md" title="wikilink">Ki/oon Records</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -422,7 +422,7 @@
 <td><p>KSCL-1836/7</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/キューンミュージック" title="wikilink">Ki/oon Music</a></p></td>
+<td><p><a href="../Page/キューンミュージック.md" title="wikilink">Ki/oon Music</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -465,7 +465,7 @@ KSCL-2263/4 (B)</p></td>
 <td><p>KSCL-2433/4</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/キューンミュージック" title="wikilink">Ki/oon Music</a> / <a href="https://ja.wikipedia.org/wiki/ソニー・ミュージックレーベルズ" title="wikilink">Sony Music Labels Inc.</a></p></td>
+<td><p><a href="../Page/キューンミュージック.md" title="wikilink">Ki/oon Music</a> / <a href="https://ja.wikipedia.org/wiki/ソニー・ミュージックレーベルズ" title="wikilink">Sony Music Labels Inc.</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -525,13 +525,13 @@ KSCL-2263/4 (B)</p></td>
 
 #### EP
 
-| 発売日                                                                                                                                                      | 作品名                                                                         | チャート最高位 | [規格品番](https://ja.wikipedia.org/wiki/規格品番 "wikilink") |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ------- | ----------------------------------------------------- |
-| [オリコン](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")                                                                                                | [Billboard Japan](https://ja.wikipedia.org/wiki/Billboard_Japan "wikilink") |         |                                                       |
-| [Ki/oon Music](https://ja.wikipedia.org/wiki/キューンミュージック "wikilink") / [Sony Music Labels Inc.](https://ja.wikipedia.org/wiki/ソニー・ミュージックレーベルズ "wikilink") |                                                                             |         |                                                       |
-| 2017年12月6日                                                                                                                                               | **[OYSTER -EP-](https://ja.wikipedia.org/wiki/OYSTER_-EP- "wikilink")**     | 22      | 19                                                    |
-| 2018年7月25日                                                                                                                                               | **[TWISTER -EP-](https://ja.wikipedia.org/wiki/TWISTER_-EP- "wikilink")**   | 22      | 19                                                    |
-|                                                                                                                                                          |                                                                             |         |                                                       |
+| 発売日                                                                                                                                   | 作品名                                                                         | チャート最高位 | [規格品番](../Page/規格品番.md "wikilink") |
+| ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ------- | ---------------------------------- |
+| [オリコン](../Page/オリコンチャート.md "wikilink")                                                                                                | [Billboard Japan](https://ja.wikipedia.org/wiki/Billboard_Japan "wikilink") |         |                                    |
+| [Ki/oon Music](../Page/キューンミュージック.md "wikilink") / [Sony Music Labels Inc.](https://ja.wikipedia.org/wiki/ソニー・ミュージックレーベルズ "wikilink") |                                                                             |         |                                    |
+| 2017年12月6日                                                                                                                            | **[OYSTER -EP-](https://ja.wikipedia.org/wiki/OYSTER_-EP- "wikilink")**     | 22      | 19                                 |
+| 2018年7月25日                                                                                                                            | **[TWISTER -EP-](https://ja.wikipedia.org/wiki/TWISTER_-EP- "wikilink")**   | 22      | 19                                 |
+|                                                                                                                                       |                                                                             |         |                                    |
 
 #### オリジナルアルバム
 
@@ -941,7 +941,7 @@ KSBL-6173<small>（通常盤）</small></p></td>
 </tr>
 <tr class="even">
 <td><p>10th</p></td>
-<td><p><a href="../Page/2016年.md" title="wikilink">2016年</a><a href="https://ja.wikipedia.org/wiki/5月3日" title="wikilink">5月3日</a></p></td>
+<td><p><a href="../Page/2016年.md" title="wikilink">2016年</a><a href="../Page/5月3日.md" title="wikilink">5月3日</a></p></td>
 <td><p><strong>Library Vol.3</strong></p></td>
 <td><p>KSBL-6174<br />
 KSCL-2824[4]</p></td>
@@ -1050,22 +1050,22 @@ KSXL-235<small>（Blu-ray）</small></p></td>
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>転がる岩、君に朝が降る / <a href="https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
-<li>同じ月を見てた / <a href="https://ja.wikipedia.org/wiki/GOING_UNDER_GROUND" title="wikilink">GOING UNDER GROUND</a></li>
+<li>転がる岩、君に朝が降る / <a href="../Page/ASIAN_KUNG-FU_GENERATION.md" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
+<li>同じ月を見てた / <a href="../Page/GOING_UNDER_GROUND.md" title="wikilink">GOING UNDER GROUND</a></li>
 <li>人鳥哀歌 / <a href="https://ja.wikipedia.org/wiki/tacica" title="wikilink">tacica</a></li>
-<li>希望 / <a href="https://ja.wikipedia.org/wiki/LOST_IN_TIME" title="wikilink">LOST IN TIME</a></li>
-<li>赤黄色の金木犀 / <a href="https://ja.wikipedia.org/wiki/フジファブリック" title="wikilink">フジファブリック</a></li>
-<li>セブンスター / <a href="https://ja.wikipedia.org/wiki/中村一義" title="wikilink">中村一義</a></li>
+<li>希望 / <a href="../Page/LOST_IN_TIME.md" title="wikilink">LOST IN TIME</a></li>
+<li>赤黄色の金木犀 / <a href="../Page/フジファブリック.md" title="wikilink">フジファブリック</a></li>
+<li>セブンスター / <a href="../Page/中村一義.md" title="wikilink">中村一義</a></li>
 <li>Lucky / <a href="../Page/スーパーカー.md" title="wikilink">スーパーカー</a></li>
 <li>そらに / <a href="https://ja.wikipedia.org/wiki/concentrate_on_popping" title="wikilink">concentrate on popping</a></li>
 <li>染まるよ / <a href="../Page/チャットモンチー.md" title="wikilink">チャットモンチー</a></li>
 <li>dolphin / <a href="https://ja.wikipedia.org/wiki/木村カエラ" title="wikilink">木村カエラ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ハミングバード_(YUKIの曲)" title="wikilink">ハミングバード</a> / <a href="https://ja.wikipedia.org/wiki/YUKI_(歌手)" title="wikilink">YUKI</a></li>
-<li>風待ち / <a href="https://ja.wikipedia.org/wiki/GRAPEVINE" title="wikilink">GRAPEVINE</a></li>
+<li>風待ち / <a href="../Page/GRAPEVINE.md" title="wikilink">GRAPEVINE</a></li>
 <li>君の好きな歌 / <a href="https://ja.wikipedia.org/wiki/DOES" title="wikilink">DOES</a></li>
 <li><strong>波 / NICO Touches the Walls</strong></li>
 <li>ブルーのこころ / <a href="../Page/曽我部恵一.md" title="wikilink">曽我部恵一</a></li>
-<li>ベイビー優しい夜が来て / <a href="https://ja.wikipedia.org/wiki/サンボマスター" title="wikilink">サンボマスター</a></li>
+<li>ベイビー優しい夜が来て / <a href="../Page/サンボマスター.md" title="wikilink">サンボマスター</a></li>
 <li>アオイソラ / <a href="../Page/スネオヘアー.md" title="wikilink">スネオヘアー</a>
 </div>
 </div></li>
@@ -1111,12 +1111,12 @@ KSXL-235<small>（Blu-ray）</small></p></td>
 <li><a href="https://ja.wikipedia.org/wiki/嘘_(シドの曲)" title="wikilink">嘘</a> / <a href="../Page/シド_(バンド).md" title="wikilink">シド</a></li>
 <li><strong><a href="https://ja.wikipedia.org/wiki/ホログラム_(NICO_Touches_the_Wallsの曲)" title="wikilink">ホログラム</a> / NICO Touches the Walls</strong></li>
 <li><a href="https://ja.wikipedia.org/wiki/LET_IT_OUT" title="wikilink">LET IT OUT</a> / <a href="https://ja.wikipedia.org/wiki/福原美穂" title="wikilink">福原美穂</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ゴールデンタイムラバー" title="wikilink">ゴールデンタイムラバー</a> / <a href="https://ja.wikipedia.org/wiki/スキマスイッチ" title="wikilink">スキマスイッチ</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/ゴールデンタイムラバー" title="wikilink">ゴールデンタイムラバー</a> / <a href="../Page/スキマスイッチ.md" title="wikilink">スキマスイッチ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/つないだ手" title="wikilink">つないだ手</a> / <a href="https://ja.wikipedia.org/wiki/Lil&#39;B" title="wikilink">Lil'B</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Period_(CHEMISTRYの曲)" title="wikilink">Period</a> / <a href="../Page/CHEMISTRY.md" title="wikilink">CHEMISTRY</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/瞬間センチメンタル" title="wikilink">瞬間センチメンタル</a> / <a href="https://ja.wikipedia.org/wiki/SCANDAL_(日本のバンド)" title="wikilink">SCANDAL</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/レイン_(シドの曲)" title="wikilink">レイン</a> / シド</li>
-<li><a href="https://ja.wikipedia.org/wiki/RAY_OF_LIGHT" title="wikilink">RAY OF LIGHT</a> / <a href="https://ja.wikipedia.org/wiki/中川翔子" title="wikilink">中川翔子</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/RAY_OF_LIGHT" title="wikilink">RAY OF LIGHT</a> / <a href="../Page/中川翔子.md" title="wikilink">中川翔子</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/hikari" title="wikilink">ドラマ</a> / シド
 </div>
 </div></li>
@@ -1180,10 +1180,10 @@ KSXL-235<small>（Blu-ray）</small></p></td>
 <li>アダムとイヴがそっと / <a href="https://ja.wikipedia.org/wiki/N&#39;夙川BOYS" title="wikilink">N'夙川BOYS</a></li>
 <li>愛する or die (Raw Ver.) / <a href="https://ja.wikipedia.org/wiki/毛皮のマリーズ" title="wikilink">毛皮のマリーズ</a></li>
 <li>琵琶湖とメガネと君 / <a href="https://ja.wikipedia.org/wiki/モーモールルギャバン" title="wikilink">モーモールルギャバン</a></li>
-<li>テキーラ!テキーラ! / <a href="https://ja.wikipedia.org/wiki/髭" title="wikilink">髭</a></li>
+<li>テキーラ!テキーラ! / <a href="../Page/髭.md" title="wikilink">髭</a></li>
 <li>WAY / <a href="https://ja.wikipedia.org/wiki/浅井健一" title="wikilink">浅井健一</a></li>
 <li><strong>君だけ / NICO Touches the Walls</strong></li>
-<li>光の雨が降る夜に / <a href="https://ja.wikipedia.org/wiki/9mm_Parabellum_Bullet" title="wikilink">9mm Parabellum Bullet</a></li>
+<li>光の雨が降る夜に / <a href="../Page/9mm_Parabellum_Bullet.md" title="wikilink">9mm Parabellum Bullet</a></li>
 <li>時速160公里的吉他、貝斯和鼓 / <a href="https://ja.wikipedia.org/wiki/透明雑誌" title="wikilink">透明雑誌 （Touming Magazine）</a></li>
 <li>命の更新 / <a href="https://ja.wikipedia.org/wiki/tacica" title="wikilink">tacica</a></li>
 <li>GOOD TIME MUSIC / <a href="https://ja.wikipedia.org/wiki/クラムボン" title="wikilink">クラムボン</a></li>
@@ -1196,7 +1196,7 @@ KSXL-235<small>（Blu-ray）</small></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2012年.md" title="wikilink">2012年</a><a href="../Page/2月29日.md" title="wikilink">2月29日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/鋼の錬金術師" title="wikilink">鋼の錬金術師</a> THE BEST</strong></p></td>
+<td><p><strong><a href="../Page/鋼の錬金術師.md" title="wikilink">鋼の錬金術師</a> THE BEST</strong></p></td>
 <td><p>SVWC-7818/9</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
@@ -1206,12 +1206,12 @@ KSXL-235<small>（Blu-ray）</small></p></td>
 <p>DISC 1</p>
 <ol>
 <li>メリッサ / <a href="https://ja.wikipedia.org/wiki/ポルノグラフィティ" title="wikilink">ポルノグラフィティ</a></li>
-<li>消せない罪 / <a href="https://ja.wikipedia.org/wiki/北出菜奈" title="wikilink">北出菜奈</a></li>
+<li>消せない罪 / <a href="../Page/北出菜奈.md" title="wikilink">北出菜奈</a></li>
 <li>READY STEADY GO / <a href="../Page/L&#39;Arc〜en〜Ciel.md" title="wikilink">L'Arc〜en〜Ciel</a></li>
-<li>扉の向こうへ / <a href="https://ja.wikipedia.org/wiki/YeLLOW_Generation" title="wikilink">YeLLOW Generation</a></li>
+<li>扉の向こうへ / <a href="../Page/YeLLOW_Generation.md" title="wikilink">YeLLOW Generation</a></li>
 <li>UNDO / <a href="../Page/COOL_JOKE.md" title="wikilink">COOL JOKE</a></li>
 <li>Motherland / <a href="https://ja.wikipedia.org/wiki/Crystal_Kay" title="wikilink">Crystal Kay</a></li>
-<li>リライト / <a href="https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
+<li>リライト / <a href="../Page/ASIAN_KUNG-FU_GENERATION.md" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
 <li>I Will / <a href="https://ja.wikipedia.org/wiki/Sowelu" title="wikilink">Sowelu</a></li>
 <li>Link / L'Arc〜en〜Ciel</li>
 <li>LOST HEAVEN / L'Arc〜en〜Ciel</li>
@@ -1222,12 +1222,12 @@ KSXL-235<small>（Blu-ray）</small></p></td>
 <li>嘘 / <a href="../Page/シド_(バンド).md" title="wikilink">シド</a></li>
 <li><strong>ホログラム / NICO Touches the Walls</strong></li>
 <li>LET IT OUT / <a href="https://ja.wikipedia.org/wiki/福原美穂" title="wikilink">福原美穂</a></li>
-<li>ゴールデンタイムラバー / <a href="https://ja.wikipedia.org/wiki/スキマスイッチ" title="wikilink">スキマスイッチ</a></li>
+<li>ゴールデンタイムラバー / <a href="../Page/スキマスイッチ.md" title="wikilink">スキマスイッチ</a></li>
 <li>つないだ手 / <a href="https://ja.wikipedia.org/wiki/Lil&#39;B" title="wikilink">Lil'B</a></li>
 <li>Period / <a href="../Page/CHEMISTRY.md" title="wikilink">CHEMISTRY</a></li>
 <li>瞬間センチメンタル / <a href="https://ja.wikipedia.org/wiki/SCANDAL_(日本のバンド)" title="wikilink">SCANDAL</a></li>
 <li>レイン / シド</li>
-<li>RAY OF LIGHT / <a href="https://ja.wikipedia.org/wiki/中川翔子" title="wikilink">中川翔子</a></li>
+<li>RAY OF LIGHT / <a href="../Page/中川翔子.md" title="wikilink">中川翔子</a></li>
 <li>ドラマ / シド</li>
 <li>Chasing hearts / <a href="https://ja.wikipedia.org/wiki/miwa" title="wikilink">miwa</a></li>
 <li>GOOD LUCK MY WAY / L'Arc〜en〜Ciel
@@ -1247,11 +1247,11 @@ KSXL-235<small>（Blu-ray）</small></p></td>
 <div class="NavContent" style="text-align:left;">
 <p>DISC1</p>
 <ol>
-<li>ソラニン / <a href="https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
+<li>ソラニン / <a href="../Page/ASIAN_KUNG-FU_GENERATION.md" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
 <li>バクチ・ダンサー / <a href="https://ja.wikipedia.org/wiki/DOES" title="wikilink">DOES</a></li>
 <li>瞬間センチメンタル / <a href="https://ja.wikipedia.org/wiki/SCANDAL_(日本のバンド)" title="wikilink">SCANDAL</a></li>
 <li><strong>ホログラム / NICO Touches the Walls</strong></li>
-<li>徒然モノクローム / <a href="https://ja.wikipedia.org/wiki/フジファブリック" title="wikilink">フジファブリック</a></li>
+<li>徒然モノクローム / <a href="../Page/フジファブリック.md" title="wikilink">フジファブリック</a></li>
 <li>シャングリラ / <a href="../Page/チャットモンチー.md" title="wikilink">チャットモンチー</a></li>
 <li>Place to Try / <a href="https://ja.wikipedia.org/wiki/TOTALFAT" title="wikilink">TOTALFAT</a></li>
 <li>カロン / <a href="https://ja.wikipedia.org/wiki/ねごと" title="wikilink">ねごと</a></li>
@@ -1281,7 +1281,7 @@ KSXL-235<small>（Blu-ray）</small></p></td>
 <td><p><a href="../Page/2015年.md" title="wikilink">2015年</a><a href="../Page/12月23日.md" title="wikilink">12月23日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/スピッツ_(バンド)" title="wikilink">スピッツトリビュートアルバム</a><br />
 「JUST LIKE HONEY<br />
-〜『<a href="https://ja.wikipedia.org/wiki/ハチミツ_(アルバム)" title="wikilink">ハチミツ</a>』20th Anniversary Tribute〜」</strong></p></td>
+〜『<a href="../Page/ハチミツ_(アルバム).md" title="wikilink">ハチミツ</a>』20th Anniversary Tribute〜」</strong></p></td>
 <td><p>UPCH-2065<br />
 UPJH-9016</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -1290,16 +1290,16 @@ UPJH-9016</p></td>
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li><a href="https://ja.wikipedia.org/wiki/ハチミツ_(アルバム)" title="wikilink">ハチミツ</a> / <a href="https://ja.wikipedia.org/wiki/赤い公園" title="wikilink">赤い公園</a></li>
-<li><a href="../Page/涙がキラリ☆.md" title="wikilink">涙がキラリ☆</a> / <a href="https://ja.wikipedia.org/wiki/10-FEET" title="wikilink">10-FEET</a></li>
+<li><a href="../Page/ハチミツ_(アルバム).md" title="wikilink">ハチミツ</a> / <a href="https://ja.wikipedia.org/wiki/赤い公園" title="wikilink">赤い公園</a></li>
+<li><a href="../Page/涙がキラリ☆.md" title="wikilink">涙がキラリ☆</a> / <a href="../Page/10-FEET.md" title="wikilink">10-FEET</a></li>
 <li><strong>歩き出せ、クローバー / NICO Touches the Walls</strong></li>
 <li>ルナルナ / 鬼龍院翔（<a href="https://ja.wikipedia.org/wiki/ゴールデンボンバー_(バンド)" title="wikilink">ゴールデンボンバー</a>）</li>
 <li>愛のことば / <a href="https://ja.wikipedia.org/wiki/indigo_la_End" title="wikilink">indigo la End</a></li>
 <li>トンガリ'95 / <a href="https://ja.wikipedia.org/wiki/LAMP_IN_TERREN" title="wikilink">LAMP IN TERREN</a></li>
 <li>あじさい通り / <a href="https://ja.wikipedia.org/wiki/クリープハイプ" title="wikilink">クリープハイプ</a></li>
-<li><a href="../Page/ロビンソン_(曲).md" title="wikilink">ロビンソン</a> / <a href="https://ja.wikipedia.org/wiki/9mm_Parabellum_Bullet" title="wikilink">9mm Parabellum Bullet</a></li>
+<li><a href="../Page/ロビンソン_(曲).md" title="wikilink">ロビンソン</a> / <a href="../Page/9mm_Parabellum_Bullet.md" title="wikilink">9mm Parabellum Bullet</a></li>
 <li>Y / <a href="https://ja.wikipedia.org/wiki/GOOD_ON_THE_REEL" title="wikilink">GOOD ON THE REEL</a></li>
-<li>グラスホッパー / <a href="https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
+<li>グラスホッパー / <a href="../Page/ASIAN_KUNG-FU_GENERATION.md" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
 <li>君と暮らせたら / <a href="https://ja.wikipedia.org/wiki/初恋の嵐" title="wikilink">初恋の嵐</a> feat. <a href="../Page/曽我部恵一.md" title="wikilink">曽我部恵一</a></li>
 <li>俺のすべて / <a href="https://ja.wikipedia.org/wiki/スコット・マーフィー" title="wikilink">スコット・マーフィー</a>（※ボーナストラック）</li>
 </ol></td>
@@ -1370,7 +1370,7 @@ UPJH-9016</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/熊坂出.md" title="wikilink">熊坂出</a></p></td>
-<td><p>「<a href="https://www.youtube.com/watch?v=L3cbMm60VJc">かけら−総べての想いたちへ−</a>」(出演:<a href="https://ja.wikipedia.org/wiki/向井理" title="wikilink">向井理</a>・<a href="https://ja.wikipedia.org/wiki/中島真一" title="wikilink">中島真一</a>)</p></td>
+<td><p>「<a href="https://www.youtube.com/watch?v=L3cbMm60VJc">かけら−総べての想いたちへ−</a>」(出演:<a href="../Page/向井理.md" title="wikilink">向井理</a>・<a href="https://ja.wikipedia.org/wiki/中島真一" title="wikilink">中島真一</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p>GOO / <a href="https://ja.wikipedia.org/wiki/TAR_GRAPHICS" title="wikilink">TAR GRAPHICS</a></p></td>
@@ -1390,7 +1390,7 @@ UPJH-9016</p></td>
 「夜の果て」</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/スミス" title="wikilink">スミス</a></p></td>
+<td><p><a href="../Page/スミス.md" title="wikilink">スミス</a></p></td>
 <td><p>「<a href="https://www.youtube.com/watch?v=2jl_iXA6koo">THE BUNGY</a>」<br />
 「<a href="https://www.youtube.com/watch?v=akALF7vqJ_0">ローハイド</a>」</p></td>
 </tr>
@@ -1453,9 +1453,9 @@ UPJH-9016</p></td>
 <tr class="odd">
 <td><p><a href="../Page/2007年.md" title="wikilink">2007年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/How_are_you?#収録曲" title="wikilink">image training</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スペースシャワーTV" title="wikilink">スペースシャワーTV</a> <a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/11月.md" title="wikilink">11月</a>度POWER PUSH!<br />
-<a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>系「<a href="https://ja.wikipedia.org/wiki/JAPAN_COUNTDOWN" title="wikilink">JAPAN COUNTDOWN</a>」2007年11月度<a href="https://ja.wikipedia.org/wiki/オープニングテーマ" title="wikilink">オープニングテーマ</a><br />
-<a href="https://ja.wikipedia.org/wiki/江崎グリコ" title="wikilink">江崎グリコ</a>「<a href="https://ja.wikipedia.org/wiki/ポッキー" title="wikilink">ポッキー</a>チョコレート」<a href="https://ja.wikipedia.org/wiki/スペースシャワーTV" title="wikilink">スペースシャワーTV</a>バージョンCFソング</p></td>
+<td><p><a href="../Page/スペースシャワーTV.md" title="wikilink">スペースシャワーTV</a> <a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/11月.md" title="wikilink">11月</a>度POWER PUSH!<br />
+<a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>系「<a href="../Page/JAPAN_COUNTDOWN.md" title="wikilink">JAPAN COUNTDOWN</a>」2007年11月度<a href="https://ja.wikipedia.org/wiki/オープニングテーマ" title="wikilink">オープニングテーマ</a><br />
+<a href="https://ja.wikipedia.org/wiki/江崎グリコ" title="wikilink">江崎グリコ</a>「<a href="../Page/ポッキー.md" title="wikilink">ポッキー</a>チョコレート」<a href="../Page/スペースシャワーTV.md" title="wikilink">スペースシャワーTV</a>バージョンCFソング</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/How_are_you?" title="wikilink">How are you?</a><br />
 『<a href="https://ja.wikipedia.org/wiki/Who_are_you?_(NICO_Touches_the_Wallsのアルバム)#収録曲" title="wikilink">Who are you?</a>』<br />
 『<a href="https://ja.wikipedia.org/wiki/ニコ_タッチズ_ザ_ウォールズ_ノ_ベスト#収録曲" title="wikilink">ニコ タッチズ ザ ウォールズ ノ ベスト</a>』</p></td>
@@ -1463,7 +1463,7 @@ UPJH-9016</p></td>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/夜の果て#収録曲" title="wikilink">夜の果て</a></p></td>
-<td><p><a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ系</a>「<a href="https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER" title="wikilink">音楽戦士 MUSIC FIGHTER</a>」<a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="https://ja.wikipedia.org/wiki/2月" title="wikilink">2月</a>度<a href="https://ja.wikipedia.org/wiki/エンディングテーマ" title="wikilink">エンディングテーマ</a></p></td>
+<td><p><a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ系</a>「<a href="../Page/音楽戦士_MUSIC_FIGHTER.md" title="wikilink">音楽戦士 MUSIC FIGHTER</a>」<a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="https://ja.wikipedia.org/wiki/2月" title="wikilink">2月</a>度<a href="https://ja.wikipedia.org/wiki/エンディングテーマ" title="wikilink">エンディングテーマ</a></p></td>
 <td><p>「夜の果て」<br />
 『Who are you?』</p></td>
 </tr>
@@ -1515,20 +1515,20 @@ UPJH-9016</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/PASSENGER_(NICO_Touches_the_Wallsのアルバム)#収録曲" title="wikilink">ロデオ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大阪デザイナー専門学校" title="wikilink">大阪デザイナー専門学校</a>CM曲</p></td>
+<td><p><a href="../Page/大阪デザイナー専門学校.md" title="wikilink">大阪デザイナー専門学校</a>CM曲</p></td>
 <td><p>『PASSENGER』</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/PASSENGER_(NICO_Touches_the_Wallsのアルバム)#収録曲" title="wikilink">マトリョーシカ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ系アニメ</a> <a href="https://ja.wikipedia.org/wiki/ノイタミナ" title="wikilink">ノイタミナ</a>『<a href="https://ja.wikipedia.org/wiki/C_(アニメ)" title="wikilink">C</a>』オープニングテーマ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ系アニメ</a> <a href="../Page/ノイタミナ.md" title="wikilink">ノイタミナ</a>『<a href="https://ja.wikipedia.org/wiki/C_(アニメ)" title="wikilink">C</a>』オープニングテーマ</p></td>
 <td><p>『PASSENGER』<br />
 『ニコ タッチズ ザ ウォールズ ノ ベスト』</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/手をたたけ#収録曲" title="wikilink">手をたたけ</a></p></td>
-<td><p><a href="../Page/KDDI.md" title="wikilink">KDDI</a>「<a href="https://ja.wikipedia.org/wiki/au_(携帯電話)" title="wikilink">au</a> <a href="../Page/LISMO.md" title="wikilink">LISMO</a>!」<a href="https://ja.wikipedia.org/wiki/コマーシャルソング" title="wikilink">CMソング</a></p></td>
+<td><p><a href="../Page/KDDI.md" title="wikilink">KDDI</a>「<a href="https://ja.wikipedia.org/wiki/au_(携帯電話)" title="wikilink">au</a> <a href="../Page/LISMO.md" title="wikilink">LISMO</a>!」<a href="../Page/コマーシャルソング.md" title="wikilink">CMソング</a></p></td>
 <td><p>「手をたたけ」<br />
 『<a href="https://ja.wikipedia.org/wiki/HUMANIA#収録曲" title="wikilink">HUMANIA</a>』<br />
 『ニコ タッチズ ザ ウォールズ ノ ベスト』</p></td>
@@ -1536,7 +1536,7 @@ UPJH-9016</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/HUMANIA#収録曲" title="wikilink">バイシクル</a></p></td>
-<td><p><a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a>系列・<a href="https://ja.wikipedia.org/wiki/金曜ナイトドラマ" title="wikilink">金曜ナイトドラマ</a>「<a href="https://ja.wikipedia.org/wiki/11人もいる!" title="wikilink">11人もいる!</a>」主題歌</p></td>
+<td><p><a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a>系列・<a href="../Page/金曜ナイトドラマ.md" title="wikilink">金曜ナイトドラマ</a>「<a href="https://ja.wikipedia.org/wiki/11人もいる!" title="wikilink">11人もいる!</a>」主題歌</p></td>
 <td><p>『HUMANIA』<br />
 『ニコ タッチズ ザ ウォールズ ノ ベスト』</p></td>
 <td></td>
@@ -1550,7 +1550,7 @@ UPJH-9016</p></td>
 <tr class="even">
 <td><p><a href="../Page/2012年.md" title="wikilink">2012年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/夏の大三角形#収録曲" title="wikilink">夏の大三角形</a></p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/カルピスウォーター" title="wikilink">カルピスウォーター</a>」 2012年度<a href="https://ja.wikipedia.org/wiki/コマーシャルソング" title="wikilink">CMソング</a>、<a href="https://ja.wikipedia.org/wiki/レコチョク" title="wikilink">レコチョク</a>TVCMソング</p></td>
+<td><p>「<a href="https://ja.wikipedia.org/wiki/カルピスウォーター" title="wikilink">カルピスウォーター</a>」 2012年度<a href="../Page/コマーシャルソング.md" title="wikilink">CMソング</a>、<a href="https://ja.wikipedia.org/wiki/レコチョク" title="wikilink">レコチョク</a>TVCMソング</p></td>
 <td><p>「夏の大三角形」<br />
 『Shout to the Walls!#収録曲|Shout to the Walls!』<br />
 『ニコ タッチズ ザ ウォールズ ノ ベスト』</p></td>
@@ -1572,7 +1572,7 @@ UPJH-9016</p></td>
 <tr class="odd">
 <td><p><a href="../Page/2014年.md" title="wikilink">2014年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ニコ_タッチズ_ザ_ウォールズ_ノ_ベスト#収録曲" title="wikilink">パンドーラ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アスミック・エース" title="wikilink">アスミック・エース</a>配給映画『<a href="https://ja.wikipedia.org/wiki/ゲノムハザード#映画" title="wikilink">ゲノムハザード ある天才科学者の5日間</a>』日本版イメージソング</p></td>
+<td><p><a href="../Page/アスミック・エース.md" title="wikilink">アスミック・エース</a>配給映画『<a href="https://ja.wikipedia.org/wiki/ゲノムハザード#映画" title="wikilink">ゲノムハザード ある天才科学者の5日間</a>』日本版イメージソング</p></td>
 <td><p>『ニコ タッチズ ザ ウォールズ ノ ベスト』</p></td>
 </tr>
 <tr class="even">
@@ -1665,7 +1665,7 @@ UPJH-9016</p></td>
   - 2012年 : TOUR "ALGORHYTMIQUE"
   - 2012年11月25日 : 1125(イイニコ)の日ライブ
       -
-        w/[GRAPEVINE](https://ja.wikipedia.org/wiki/GRAPEVINE "wikilink")
+        w/[GRAPEVINE](../Page/GRAPEVINE.md "wikilink")
   - 2013年 : TOUR "Shout to the Walls\!"
   - 2013年11月25日 : 1125(イイニコ)の日ライブ
   - 2014年01月14日〜01月23日 : ニコ タッチズ ザ ウォールズ ノ フェスト
@@ -1690,7 +1690,7 @@ UPJH-9016</p></td>
   - 2016年03月04日〜04月23日 : TOUR 2016 "勇気も愛もないなんて"
   - 2016年03月11日〜04月22日 : ニコ タッチズ ザ ウォールズ ノ フェスト'16
       -
-        w/[フレデリック](https://ja.wikipedia.org/wiki/フレデリック_\(バンド\) "wikilink") / [フジファブリック](https://ja.wikipedia.org/wiki/フジファブリック "wikilink") / [ウルフルズ](../Page/ウルフルズ.md "wikilink") / [ドレスコーズ](https://ja.wikipedia.org/wiki/ドレスコーズ "wikilink")
+        w/[フレデリック](https://ja.wikipedia.org/wiki/フレデリック_\(バンド\) "wikilink") / [フジファブリック](../Page/フジファブリック.md "wikilink") / [ウルフルズ](../Page/ウルフルズ.md "wikilink") / [ドレスコーズ](https://ja.wikipedia.org/wiki/ドレスコーズ "wikilink")
   - 2016年05月06日 : LIVE SPECIAL 2015"渦と渦〜西の渦〜"
   - 2016年11月25日：1125/2016
   - 2017年02月21日～05月06日：NICO Touches the Walls TOUR 2017 “Fighting NICO”
@@ -1703,7 +1703,7 @@ w/ACO Touches the Walls(OA)/[BLUE ENCOUNT](https://ja.wikipedia.org/wiki/BLUE_EN
   - 2006年02月17日 - スペースシャワー列伝 第59巻 〜青春(アオハル)の宴〜
   - 2006年08月06日 - [ROCK IN JAPAN FESTIVAL](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink") 2006
   - 2006年08月12日 - [SUMMER SONIC](https://ja.wikipedia.org/wiki/SUMMER_SONIC "wikilink") 2006
-  - 2007年01月01日 - [COUNTDOWN JAPAN](https://ja.wikipedia.org/wiki/COUNTDOWN_JAPAN "wikilink") 06/07
+  - 2007年01月01日 - [COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 06/07
   - 2007年08月11日・12日 - SUMMER SONIC 2007
   - 2007年10月27日 - MINAMI WHEEL 2007
   - 2007年10月28日〜11月11日 - スペースシャワー列伝 JAPAN TOUR 2007
@@ -1723,7 +1723,7 @@ w/ACO Touches the Walls(OA)/[BLUE ENCOUNT](https://ja.wikipedia.org/wiki/BLUE_EN
   - 2008年12月29日 - COUNTDOWN JAPAN 08/09
   - 2008年12月31日 - COUNTDOWN JAPAN 08/09 -WEST-
   - 2009年04月26日 - ARABAKI ROCK FEST.09
-  - 2009年05月06日 - [藍坊主](https://ja.wikipedia.org/wiki/藍坊主 "wikilink") aobozu TOUR 2009 〜百景〜
+  - 2009年05月06日 - [藍坊主](../Page/藍坊主.md "wikilink") aobozu TOUR 2009 〜百景〜
   - 2009年07月05日 - [湘南音祭](https://ja.wikipedia.org/wiki/湘南音祭 "wikilink") Vol.3
   - 2009年07月25日 - SETSTOCK'09
   - 2009年08月02日 - ROCK IN JAPAN FESTIVAL 2009
@@ -1784,11 +1784,11 @@ w/ACO Touches the Walls(OA)/[BLUE ENCOUNT](https://ja.wikipedia.org/wiki/BLUE_EN
   - 2014年08月03日 - ROCK IN JAPAN FESTIVAL 2014
   - 2014年08月31日 - SPACE SHOWER SWEET LOVE SHOWER 2014
   - 2014年09月06日 - TREASURE05X 2014 〜galaxy of liberty〜
-  - 2014年10月13日 - [摂南大学](https://ja.wikipedia.org/wiki/摂南大学 "wikilink") SETSUDAISAI 40th anniversary special live
-  - 2014年10月26日 - [東北福祉大学](https://ja.wikipedia.org/wiki/東北福祉大学 "wikilink") 国見祭
+  - 2014年10月13日 - [摂南大学](../Page/摂南大学.md "wikilink") SETSUDAISAI 40th anniversary special live
+  - 2014年10月26日 - [東北福祉大学](../Page/東北福祉大学.md "wikilink") 国見祭
   - 2014年10月29日 - スペースシャワー列伝 100巻記念公演 第111巻 音質明媚の宴
   - 2014年11月03日 - [徳島大学](../Page/徳島大学.md "wikilink")蔵本キャンパス 第30回蔵本祭
-  - 2014年11月09日 - [実践女子大学](https://ja.wikipedia.org/wiki/実践女子大学 "wikilink") 第58回常磐祭
+  - 2014年11月09日 - [実践女子大学](../Page/実践女子大学.md "wikilink") 第58回常磐祭
   - 2014年12月06日 - DECEMBER'S CHILDREN
   - 2014年12月21日 - MERRY ROCK PARADE 2014
   - 2014年12月24日 - FM802「FLiPLiPS」 クリスマススペシャルLIVE
@@ -1819,9 +1819,9 @@ w/ACO Touches the Walls(OA)/[BLUE ENCOUNT](https://ja.wikipedia.org/wiki/BLUE_EN
 ここでは主な出演歴を掲載する。
 
   - [ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
-  - [JAPAN COUNTDOWN](https://ja.wikipedia.org/wiki/JAPAN_COUNTDOWN "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
+  - [JAPAN COUNTDOWN](../Page/JAPAN_COUNTDOWN.md "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
   - [saku saku](https://ja.wikipedia.org/wiki/saku_saku "wikilink")（[tvk](../Page/テレビ神奈川.md "wikilink")、2011年12月5日 - 12月9日）
-  - [MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink")（[NHK総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")）
+  - [MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink")（[NHK総合](../Page/NHK総合テレビジョン.md "wikilink")）
 
 ほか
 

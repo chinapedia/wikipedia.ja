@@ -51,11 +51,11 @@
 
   - 悪魔事異動 → メンバー交代
   - 閻魔札 → トレーディングカード
-  - [お布施](https://ja.wikipedia.org/wiki/お布施 "wikilink") → [ギャランティー](https://ja.wikipedia.org/wiki/ギャランティー "wikilink")
+  - [お布施](https://ja.wikipedia.org/wiki/お布施 "wikilink") → [ギャランティー](../Page/ギャランティー.md "wikilink")
   - 御破り → お守り
   - 悪魔して(悪増して)おめでとう → 明けましておめでとう
   - 誤月 → 正月
-  - [侍従](https://ja.wikipedia.org/wiki/侍従 "wikilink") → [マネージャー](../Page/マネージャー.md "wikilink")
+  - [侍従](../Page/侍従.md "wikilink") → [マネージャー](../Page/マネージャー.md "wikilink")
   - 戦闘服 → 衣装
   - 武器 → [楽器](../Page/楽器.md "wikilink")
   - 魔通力 → [神通力](https://ja.wikipedia.org/wiki/神通力 "wikilink")

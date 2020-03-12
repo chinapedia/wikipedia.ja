@@ -1,13 +1,13 @@
 > この記事は[EDIUS](https://ja.wikipedia.org/wiki/EDIUS)から翻訳されています。
 
 
-**EDIUS**（エディウス）とは、[グラスバレー株式会社](https://ja.wikipedia.org/wiki/グラスバレー_\(企業\)#グラスバレー株式会社 "wikilink") (旧トムソン・カノープス) が[2003年](../Page/2003年.md "wikilink")から開発・販売している、日本製の[ノンリニア編集](https://ja.wikipedia.org/wiki/ノンリニア編集 "wikilink")用ソフトウェア。 [SD](../Page/SDTV.md "wikilink")/[HD](https://ja.wikipedia.org/wiki/高精細度テレビジョン放送 "wikilink")/[Full HD](https://ja.wikipedia.org/wiki/1080p "wikilink")/[4K](https://ja.wikipedia.org/wiki/4K解像度 "wikilink")/などマルチフォーマット対応やAVCHDやデジタル一眼動画のネイティブ編集、その映像の混在編集、デュアルディスプレイ表示も可能な独特なマルチウインドウ構成の[GUI](https://ja.wikipedia.org/wiki/GUI "wikilink")などを特徴とし、DVD/Blu-rayの[オーサリングからSDカードにエクスポートするAVCHD出力](../Page/オーサリングツール.md "wikilink")、iPad/YouTubeなどへのエクスポータを実装し、入力から出力までオールインワンの機能を有する。
+**EDIUS**（エディウス）とは、[グラスバレー株式会社](https://ja.wikipedia.org/wiki/グラスバレー_\(企業\)#グラスバレー株式会社 "wikilink") (旧トムソン・カノープス) が[2003年](../Page/2003年.md "wikilink")から開発・販売している、日本製の[ノンリニア編集](../Page/ノンリニア編集.md "wikilink")用ソフトウェア。 [SD](../Page/SDTV.md "wikilink")/[HD](https://ja.wikipedia.org/wiki/高精細度テレビジョン放送 "wikilink")/[Full HD](https://ja.wikipedia.org/wiki/1080p "wikilink")/[4K](https://ja.wikipedia.org/wiki/4K解像度 "wikilink")/などマルチフォーマット対応やAVCHDやデジタル一眼動画のネイティブ編集、その映像の混在編集、デュアルディスプレイ表示も可能な独特なマルチウインドウ構成の[GUI](https://ja.wikipedia.org/wiki/GUI "wikilink")などを特徴とし、DVD/Blu-rayの[オーサリングからSDカードにエクスポートするAVCHD出力](../Page/オーサリングツール.md "wikilink")、iPad/YouTubeなどへのエクスポータを実装し、入力から出力までオールインワンの機能を有する。
 
 EDIUS Neo 3が家電量販店のPOSデータを集計した[BCNランキングで](https://ja.wikipedia.org/wiki/BCN_\(企業\) "wikilink")1位を獲得した。[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")とは、[AVCHD](../Page/AVCHD.md "wikilink")フォーマット普及に向けて協業に合意したことが発表され、EDIUS Neo 2 Boosterから、AVCHDネイティブ編集に対応している。また、EDIUS 6からはQuickTime/H.264ネイティブ編集にも対応している。
 
 ## 概要
 
-[DV](../Page/DV_\(ビデオ規格\).md "wikilink")、[HDV](https://ja.wikipedia.org/wiki/HDV "wikilink")、[AVCHD](../Page/AVCHD.md "wikilink")、等のフォーマットに対応するほか、GrassValley HQという独自編集用[コーデック](../Page/コーデック.md "wikilink")を持つことが特徴である。当初は[アクセラレーション](https://ja.wikipedia.org/wiki/アクセラレーション "wikilink")ボード、DVStormシリーズのハードウェアDVコーデックを用いていたが、[マルチコア](https://ja.wikipedia.org/wiki/マルチコア "wikilink")[CPU](../Page/CPU.md "wikilink")の登場とともに、CPUの性能を限界まで引き出すことで、PCの性能に合わせてリアルタイム性を高めることができるスケーラブルテクノロジーの思想に一新し、ハイビジョンリアルタイム編集を実現した。
+[DV](../Page/DV_\(ビデオ規格\).md "wikilink")、[HDV](../Page/HDV.md "wikilink")、[AVCHD](../Page/AVCHD.md "wikilink")、等のフォーマットに対応するほか、GrassValley HQという独自編集用[コーデック](../Page/コーデック.md "wikilink")を持つことが特徴である。当初は[アクセラレーション](https://ja.wikipedia.org/wiki/アクセラレーション "wikilink")ボード、DVStormシリーズのハードウェアDVコーデックを用いていたが、[マルチコア](../Page/マルチコア.md "wikilink")[CPU](../Page/CPU.md "wikilink")の登場とともに、CPUの性能を限界まで引き出すことで、PCの性能に合わせてリアルタイム性を高めることができるスケーラブルテクノロジーの思想に一新し、ハイビジョンリアルタイム編集を実現した。
 
 現行バージョンは「EDIUS Pro 9」と「EDIUS Workgroup 9」。上位版のEDIUS Workgroupは専用ワークステーションに付属している。また、EDIUS Proのエンジンを踏襲したミドルレンジモデル「EDIUS Neo」や、[ジャストシステム](../Page/ジャストシステム.md "wikilink")との共同開発で[初等教育](../Page/初等教育.md "wikilink")の[検定教科書](https://ja.wikipedia.org/wiki/検定教科書 "wikilink")にも採用される初心者向けの「エディウスJ」、そしてエントリー向けの「EDIUS Express」（ダウンロード販売限定）があったが、在庫限りで販売を終了している\[1\]ため、2018年11月現在は一般向け販売はProのみとなっている。
 
@@ -45,7 +45,7 @@ EDIUSシリーズのミドルレンジモデル。トランジションやビデ
 
 ### EDIUS ワークステーション
 
-EDIUSのノンリニア編集ワークステーションには、REXCEED（レクシード）/HDWSシリーズがある。[hp製の業務用ワークステーションをベースに](https://ja.wikipedia.org/wiki/日本ヒューレット・パッカード "wikilink")、EDIUSの最上位モデル「EDIUS Elite」とSTORMなどの専用ハードウェアで構成するREXCEED MxxxV、REXCEED Mxxxxのシリーズと自社製ワークステーションをベースに展開しているHDWSシリーズのラインアップ。サーバーシステムを追加した蓄積・送出までの拡張性を有する。2019年7月現在はREXCEED Z2000 / Z4000 / X15LT G4 A/G5、HDWS 4K3 / Elite、HDWS 8K Expressなどが発売されており、「EDIUS Workgroup 9」がインストールされている。\* [REXCEED/HDWS](http://www.grassvalley.jp/pdt_info/editors/)
+EDIUSのノンリニア編集ワークステーションには、REXCEED（レクシード）/HDWSシリーズがある。[hp製の業務用ワークステーションをベースに](../Page/日本ヒューレット・パッカード.md "wikilink")、EDIUSの最上位モデル「EDIUS Elite」とSTORMなどの専用ハードウェアで構成するREXCEED MxxxV、REXCEED Mxxxxのシリーズと自社製ワークステーションをベースに展開しているHDWSシリーズのラインアップ。サーバーシステムを追加した蓄積・送出までの拡張性を有する。2019年7月現在はREXCEED Z2000 / Z4000 / X15LT G4 A/G5、HDWS 4K3 / Elite、HDWS 8K Expressなどが発売されており、「EDIUS Workgroup 9」がインストールされている。\* [REXCEED/HDWS](http://www.grassvalley.jp/pdt_info/editors/)
 
 ### EDIUS システム
 
@@ -72,7 +72,7 @@ HDSTORM PLUSは、HDSTORMに加え、アナログの入出力とHDMIの入出力
 <!-- end list -->
 
   -
-    自社で開発した編集用コーデック。映像のクオリティを完全に維持するには非圧縮データを用いる必要があるが、ハイビジョンの非圧縮映像は約1.5Gbpsものデータ量になり、記録には膨大な容量を、編集にはレンダリングやハードディスクのRAIDシステムの構築を必要とする。その為、[地上デジタル放送](https://ja.wikipedia.org/wiki/地上デジタル放送 "wikilink")は約17Mbps、[HDV](https://ja.wikipedia.org/wiki/HDV "wikilink")は約25Mbps、[AVCHD](../Page/AVCHD.md "wikilink")は約15Mbps程度に圧縮して記録しているが、圧縮率が高くなるほどパソコンでの取り扱いが難しくなるため一長一短がある。Canopus HQ Codecは、オリジナルの映像品位と編集のパフォーマンスが両立されるように約150Mbps程度に圧縮伸張されている。可変ビットレート方式が採用され、AVIコーデックであるため1フレーム単位で編集でき、アルファチャンネルにも対応する。なお、AVCHDをCanopus HQ Codecに変換する[Canopus AVCHD converter](http://www.thomson-canopus.jp/catalog/edius_pro/avchd_converter2.htm)や、HDMI伝送の非圧縮のハイビジョンをCanopus HQ Codecにハードウェアでリアルタイムにエンコードするボード及びユニット(HDSTORM、STORM MOBILE)がある。
+    自社で開発した編集用コーデック。映像のクオリティを完全に維持するには非圧縮データを用いる必要があるが、ハイビジョンの非圧縮映像は約1.5Gbpsものデータ量になり、記録には膨大な容量を、編集にはレンダリングやハードディスクのRAIDシステムの構築を必要とする。その為、[地上デジタル放送](https://ja.wikipedia.org/wiki/地上デジタル放送 "wikilink")は約17Mbps、[HDV](../Page/HDV.md "wikilink")は約25Mbps、[AVCHD](../Page/AVCHD.md "wikilink")は約15Mbps程度に圧縮して記録しているが、圧縮率が高くなるほどパソコンでの取り扱いが難しくなるため一長一短がある。Canopus HQ Codecは、オリジナルの映像品位と編集のパフォーマンスが両立されるように約150Mbps程度に圧縮伸張されている。可変ビットレート方式が採用され、AVIコーデックであるため1フレーム単位で編集でき、アルファチャンネルにも対応する。なお、AVCHDをCanopus HQ Codecに変換する[Canopus AVCHD converter](http://www.thomson-canopus.jp/catalog/edius_pro/avchd_converter2.htm)や、HDMI伝送の非圧縮のハイビジョンをCanopus HQ Codecにハードウェアでリアルタイムにエンコードするボード及びユニット(HDSTORM、STORM MOBILE)がある。
 
 <!-- end list -->
 

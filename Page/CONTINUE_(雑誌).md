@@ -1,15 +1,15 @@
 > この記事は[CONTINUE \(\)](https://ja.wikipedia.org/wiki/CONTINUE_\(\))から翻訳されています。
 
 
-『**CONTINUE**』（コンティニュー）は、[太田出版](https://ja.wikipedia.org/wiki/太田出版 "wikilink")が刊行する[ゲーム](https://ja.wikipedia.org/wiki/ゲーム雑誌 "wikilink")・[アニメ雑誌](../Page/アニメ雑誌.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")に創刊（vol.0）。当初（vol.1 - ）は季刊であったが、vol.8（[2003年](../Page/2003年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink")発刊）からは隔月刊（偶数月発刊）となった。2010年2月発刊のvol.50をもって休刊となったが、2018年1月復刊。[判型](../Page/判型.md "wikilink")はA5変形。
+『**CONTINUE**』（コンティニュー）は、[太田出版](../Page/太田出版.md "wikilink")が刊行する[ゲーム](../Page/ゲーム雑誌.md "wikilink")・[アニメ雑誌](../Page/アニメ雑誌.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")に創刊（vol.0）。当初（vol.1 - ）は季刊であったが、vol.8（[2003年](../Page/2003年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink")発刊）からは隔月刊（偶数月発刊）となった。2010年2月発刊のvol.50をもって休刊となったが、2018年1月復刊。[判型](../Page/判型.md "wikilink")はA5変形。
 
 ## 概要
 
 『[超クソゲー](https://ja.wikipedia.org/wiki/超クソゲー "wikilink")』『超クソゲー2』のヒットを受けて創刊。そのため、当初は[ゲーム](../Page/ゲーム.md "wikilink")業界関係者のインタビュー記事などゲームに関する記事やコラムが多数を占めていたが、のちに[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")・[アニメ](../Page/アニメ.md "wikilink")・[特撮](../Page/特撮.md "wikilink")・[音楽](../Page/音楽.md "wikilink")の特集なども前面に押し出し、総合[サブカルチャー](../Page/サブカルチャー.md "wikilink")雑誌としての色合いが濃くなった。太田出版ではサブカルチャー誌として既に『[Quick Japan](../Page/Quick_Japan.md "wikilink")』があったが、本誌は出自が『超クソゲー』ということもあり笑えるものにしようという思いがあったとのこと\[1\]。各特集ではライターによる完全レビュー、スタッフ・関係者への「○万字」「○時間」といったロングインタビュー記事など、濃い内容を掲載した。
 
-[Rockstar Gamesの](../Page/Rockstar_Games.md "wikilink")『[グランド・セフト・オートIII](../Page/グランド・セフト・オートIII.md "wikilink")』にいち早く注目、北米版[PlayStation 2でしかプレイできなかった](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[グランド・セフト・オート・バイスシティ](../Page/グランド・セフト・オート・バイスシティ.md "wikilink")』を「ゲーム・オブ・ザ・イヤー」の第1位に選出。さらに北米版の発売と同時タイミングで『[グランド・セフト・オート・サンアンドレアス](https://ja.wikipedia.org/wiki/グランド・セフト・オート・サンアンドレアス "wikilink")』を表紙・巻頭で大々的に特集するなど海外ゲームを積極的に取り上げる一方、『[ファミコン大全](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")』『[メガドラ大全](../Page/メガドライブ.md "wikilink")』など[レトロゲーム](../Page/レトロゲーム.md "wikilink")を特集、さらに長らくメディアに登場していなかった[ゲームフリーク](https://ja.wikipedia.org/wiki/ゲームフリーク "wikilink")[田尻智](../Page/田尻智.md "wikilink")をロングインタビューするなど、他の[ゲーム雑誌](https://ja.wikipedia.org/wiki/ゲーム雑誌 "wikilink")とは一線を画す独自の編集方針で制作されていた。
+[Rockstar Gamesの](../Page/Rockstar_Games.md "wikilink")『[グランド・セフト・オートIII](../Page/グランド・セフト・オートIII.md "wikilink")』にいち早く注目、北米版[PlayStation 2でしかプレイできなかった](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[グランド・セフト・オート・バイスシティ](../Page/グランド・セフト・オート・バイスシティ.md "wikilink")』を「ゲーム・オブ・ザ・イヤー」の第1位に選出。さらに北米版の発売と同時タイミングで『[グランド・セフト・オート・サンアンドレアス](../Page/グランド・セフト・オート・サンアンドレアス.md "wikilink")』を表紙・巻頭で大々的に特集するなど海外ゲームを積極的に取り上げる一方、『[ファミコン大全](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")』『[メガドラ大全](../Page/メガドライブ.md "wikilink")』など[レトロゲーム](../Page/レトロゲーム.md "wikilink")を特集、さらに長らくメディアに登場していなかった[ゲームフリーク](../Page/ゲームフリーク.md "wikilink")[田尻智](../Page/田尻智.md "wikilink")をロングインタビューするなど、他の[ゲーム雑誌](../Page/ゲーム雑誌.md "wikilink")とは一線を画す独自の編集方針で制作されていた。
 
-またミュージシャンの[中村一義](https://ja.wikipedia.org/wiki/中村一義 "wikilink")と[中尾憲太郎](../Page/中尾憲太郎.md "wikilink")が創刊号よりコラムを連載、[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")の音楽番組『[saku saku](https://ja.wikipedia.org/wiki/saku_saku "wikilink")』の情報を継続的にフォロー。さらにブレイク前より[Perfume](https://ja.wikipedia.org/wiki/Perfume "wikilink")に注目し、異例の早さで連載を開始するなど、音楽に力を入れた企画も目立った。
+またミュージシャンの[中村一義](../Page/中村一義.md "wikilink")と[中尾憲太郎](../Page/中尾憲太郎.md "wikilink")が創刊号よりコラムを連載、[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")の音楽番組『[saku saku](https://ja.wikipedia.org/wiki/saku_saku "wikilink")』の情報を継続的にフォロー。さらにブレイク前より[Perfume](https://ja.wikipedia.org/wiki/Perfume "wikilink")に注目し、異例の早さで連載を開始するなど、音楽に力を入れた企画も目立った。
 
 編集長の林和弘がWEBマガジン「ぽこぽこ」の運営に従事するため\[2\]、vol.50（2010年2月発刊）をもって休刊。後継誌として女性向けにリニューアルした奇数月発売隔月刊誌『**Otome continue**』を2010年7月6日に創刊するも\[3\]、2011年にVol.6を最後に休刊した\[4\]。
 
@@ -35,7 +35,7 @@
 <td><p>「ゲーム・オブ・ザ・イヤー」</p></td>
 <td><ul>
 <li>ゲーム・オブ・ザ・イヤー</li>
-<li>「<a href="https://ja.wikipedia.org/wiki/怒_(ゲーム)" title="wikilink">怒</a>」を作った男</li>
+<li>「<a href="../Page/怒_(ゲーム).md" title="wikilink">怒</a>」を作った男</li>
 <li><a href="../Page/ゲームボーイアドバンス.md" title="wikilink">ゲームボーイアドバンス</a></li>
 </ul></td>
 </tr>
@@ -45,7 +45,7 @@
 <td><p>「<a href="https://ja.wikipedia.org/wiki/ガンダムシリーズ" title="wikilink">ガンダムゲーム大全</a>」</p></td>
 <td><ul>
 <li>ガンダムゲーム大全</li>
-<li>「<a href="https://ja.wikipedia.org/wiki/メタルブラック" title="wikilink">メタルブラック</a>」を作った男</li>
+<li>「<a href="../Page/メタルブラック.md" title="wikilink">メタルブラック</a>」を作った男</li>
 <li><a href="../Page/堀井雄二.md" title="wikilink">堀井雄二</a>インタビュー</li>
 </ul></td>
 </tr>
@@ -56,7 +56,7 @@
 <td><ul>
 <li>ジャンプゲーム大全</li>
 <li>デコ黄金期インタビュー</li>
-<li><a href="https://ja.wikipedia.org/wiki/シブサワ・コウ" title="wikilink">シブサワ・コウ</a>インタビュー</li>
+<li><a href="../Page/シブサワ・コウ.md" title="wikilink">シブサワ・コウ</a>インタビュー</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -66,7 +66,7 @@
 <td><ul>
 <li>ファミコン大全</li>
 <li><a href="../Page/トレジャー.md" title="wikilink">トレジャー</a>を創った男</li>
-<li><a href="../Page/桝田省治.md" title="wikilink">桝田省治</a>&amp;<a href="https://ja.wikipedia.org/wiki/芝村裕吏" title="wikilink">芝村裕吏</a>インタビュー</li>
+<li><a href="../Page/桝田省治.md" title="wikilink">桝田省治</a>&amp;<a href="../Page/芝村裕吏.md" title="wikilink">芝村裕吏</a>インタビュー</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -75,7 +75,7 @@
 <td><p>「ゲーム・オブ・ザ・イヤー」</p></td>
 <td><ul>
 <li>ゲーム・オブ・ザ・イヤー</li>
-<li>「<a href="https://ja.wikipedia.org/wiki/源平討魔伝" title="wikilink">源平討魔伝</a>」を創った男</li>
+<li>「<a href="../Page/源平討魔伝.md" title="wikilink">源平討魔伝</a>」を創った男</li>
 <li><a href="../Page/飯田和敏.md" title="wikilink">飯田和敏</a>インタビュー</li>
 </ul></td>
 </tr>
@@ -92,10 +92,10 @@
 <tr class="odd">
 <td><p>vol.6</p></td>
 <td><p>2002年9月</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/スーパーロボット" title="wikilink">スーパーロボット</a>大全」</p></td>
+<td><p>「<a href="../Page/スーパーロボット.md" title="wikilink">スーパーロボット</a>大全」</p></td>
 <td><ul>
 <li>スーパーロボット大全</li>
-<li>「<a href="https://ja.wikipedia.org/wiki/エスプレイド" title="wikilink">エスプレイド</a>」「<a href="https://ja.wikipedia.org/wiki/ぐわんげ" title="wikilink">ぐわんげ</a>」を創った男</li>
+<li>「<a href="../Page/エスプレイド.md" title="wikilink">エスプレイド</a>」「<a href="../Page/ぐわんげ.md" title="wikilink">ぐわんげ</a>」を創った男</li>
 <li><a href="../Page/小島秀夫_(ゲームデザイナー).md" title="wikilink">小島秀夫インタビュー</a></li>
 </ul></td>
 </tr>
@@ -122,7 +122,7 @@
 <tr class="even">
 <td><p>vol.9</p></td>
 <td><p>2003年4月</p></td>
-<td><p>「<a href="../Page/ドラゴンクエスト.md" title="wikilink">ドラクエvs</a><a href="https://ja.wikipedia.org/wiki/ファイナルファンタジー" title="wikilink">FF面白いのはどっちだ</a>!?」</p></td>
+<td><p>「<a href="../Page/ドラゴンクエスト.md" title="wikilink">ドラクエvs</a><a href="../Page/ファイナルファンタジー.md" title="wikilink">FF面白いのはどっちだ</a>!?」</p></td>
 <td><ul>
 <li>ドラクエvsFF</li>
 <li>「<a href="../Page/ファイヤープロレスリング.md" title="wikilink">ファイプロ</a>」を創った男</li>
@@ -136,7 +136,7 @@
 <td><ul>
 <li>THE SIMPLEシリーズ大全</li>
 <li>「<a href="../Page/メトロイド.md" title="wikilink">メトロイド</a>」を創った男</li>
-<li><a href="https://ja.wikipedia.org/wiki/西健一" title="wikilink">西健一</a>インタビュー</li>
+<li><a href="../Page/西健一.md" title="wikilink">西健一</a>インタビュー</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -156,7 +156,7 @@
 <td><ul>
 <li>セガ大全</li>
 <li><a href="https://ja.wikipedia.org/wiki/鈴木裕" title="wikilink">鈴木裕</a>独占インタビュー</li>
-<li>特別対談 田尻智x<a href="https://ja.wikipedia.org/wiki/杉森建" title="wikilink">杉森建</a></li>
+<li>特別対談 田尻智x<a href="../Page/杉森建.md" title="wikilink">杉森建</a></li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -166,7 +166,7 @@
 <td><ul>
 <li>僕たちの好きなファミコン100</li>
 <li><a href="../Page/春麗.md" title="wikilink">春麗</a>を描いた男 あきまん（<a href="../Page/安田朗.md" title="wikilink">安田朗</a>）</li>
-<li><a href="https://ja.wikipedia.org/wiki/水口哲也" title="wikilink">水口哲也</a>独占インタビュー</li>
+<li><a href="../Page/水口哲也.md" title="wikilink">水口哲也</a>独占インタビュー</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -184,8 +184,8 @@
 <td><p>「<a href="../Page/ゲームボーイ.md" title="wikilink">ゲームボーイ</a>」</p></td>
 <td><ul>
 <li>ゲームボーイ</li>
-<li>「The 9th Sense」<a href="https://ja.wikipedia.org/wiki/スチャダラパー" title="wikilink">スチャダラパー</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/遠藤雅伸" title="wikilink">遠藤雅伸</a>｢<a href="../Page/ゼビウス.md" title="wikilink">ゼビウス</a>」を語る</li>
+<li>「The 9th Sense」<a href="../Page/スチャダラパー.md" title="wikilink">スチャダラパー</a></li>
+<li><a href="../Page/遠藤雅伸.md" title="wikilink">遠藤雅伸</a>｢<a href="../Page/ゼビウス.md" title="wikilink">ゼビウス</a>」を語る</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -204,7 +204,7 @@
 <td><p>「いまから始める<a href="https://ja.wikipedia.org/wiki/ネットゲーム" title="wikilink">ネットゲーム</a>」</p></td>
 <td><ul>
 <li>いまから始めるネットゲーム</li>
-<li><a href="https://ja.wikipedia.org/wiki/日野晃博" title="wikilink">日野晃博</a>、<a href="../Page/トゥルーファンタジー_ライブオンライン.md" title="wikilink">TFLOとドラクエを語る</a></li>
+<li><a href="../Page/日野晃博.md" title="wikilink">日野晃博</a>、<a href="../Page/トゥルーファンタジー_ライブオンライン.md" title="wikilink">TFLOとドラクエを語る</a></li>
 <li>「saku saku」第2弾</li>
 </ul></td>
 </tr>
@@ -214,7 +214,7 @@
 <td><p>「ガンダムゲーム大全Mark-II」</p></td>
 <td><ul>
 <li>ガンダムゲーム大全Mark-II</li>
-<li>日本初公開!<a href="https://ja.wikipedia.org/wiki/グランド・セフト・オート・サンアンドレアス" title="wikilink">GTA:San Andreas</a></li>
+<li>日本初公開!<a href="../Page/グランド・セフト・オート・サンアンドレアス.md" title="wikilink">GTA:San Andreas</a></li>
 <li>「saku saku」第3弾</li>
 </ul></td>
 </tr>
@@ -224,7 +224,7 @@
 <td><p>「GTA:San Andreas」</p></td>
 <td><ul>
 <li>GTA:San Andreas</li>
-<li><a href="https://ja.wikipedia.org/wiki/山内一典" title="wikilink">山内一典</a>インタビュー</li>
+<li><a href="../Page/山内一典.md" title="wikilink">山内一典</a>インタビュー</li>
 <li>「saku saku」第4弾</li>
 </ul></td>
 </tr>
@@ -241,7 +241,7 @@
 <tr class="even">
 <td><p>vol.21</p></td>
 <td><p>2005年4月</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/PlayStation_Portable" title="wikilink">PSP</a>」</p></td>
+<td><p>「<a href="../Page/PlayStation_Portable.md" title="wikilink">PSP</a>」</p></td>
 <td><ul>
 <li>PSP</li>
 <li><a href="../Page/羽海野チカ.md" title="wikilink">羽海野チカ</a>x<a href="../Page/野田凪.md" title="wikilink">野田凪</a></li>
@@ -333,14 +333,14 @@
 <td><p>「<a href="../Page/働きマン.md" title="wikilink">働きマン</a>」</p></td>
 <td><ul>
 <li>働きマン</li>
-<li>糸井重里x<a href="https://ja.wikipedia.org/wiki/中村一義" title="wikilink">中村一義</a></li>
+<li>糸井重里x<a href="../Page/中村一義.md" title="wikilink">中村一義</a></li>
 <li>「saku saku」第15弾</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td><p>vol.31</p></td>
 <td><p>2006年12月</p></td>
-<td><p>「ぼくとわたしの<a href="https://ja.wikipedia.org/wiki/ポケットモンスター" title="wikilink">ポケットモンスター</a>」</p></td>
+<td><p>「ぼくとわたしの<a href="../Page/ポケットモンスター.md" title="wikilink">ポケットモンスター</a>」</p></td>
 <td><ul>
 <li>ポケットモンスター</li>
 <li><a href="https://ja.wikipedia.org/wiki/青い花_(漫画)" title="wikilink">青い花</a></li>
@@ -353,7 +353,7 @@
 <td><p>「<a href="../Page/デトロイト・メタル・シティ.md" title="wikilink">デトロイト・メタル・シティ</a>」</p></td>
 <td><ul>
 <li>GAME OF THE YEAR 2006</li>
-<li>田尻 智×<a href="https://ja.wikipedia.org/wiki/中川翔子" title="wikilink">中川翔子</a></li>
+<li>田尻 智×<a href="../Page/中川翔子.md" title="wikilink">中川翔子</a></li>
 <li>「saku saku」第17弾</li>
 </ul></td>
 </tr>
@@ -373,7 +373,7 @@
 <td><p>「<a href="https://ja.wikipedia.org/wiki/仮面ライダー電王" title="wikilink">仮面ライダー電王</a>」</p></td>
 <td><ul>
 <li>仮面ライダー電王</li>
-<li><a href="https://ja.wikipedia.org/wiki/ゲーム雑誌" title="wikilink">ゲーム雑誌</a>クロニクル</li>
+<li><a href="../Page/ゲーム雑誌.md" title="wikilink">ゲーム雑誌</a>クロニクル</li>
 <li>「saku saku」第19弾</li>
 </ul></td>
 </tr>
@@ -432,7 +432,7 @@
 <td><p>2008年6月</p></td>
 <td><p>「<a href="https://ja.wikipedia.org/wiki/マクロスF" title="wikilink">マクロスF</a>」</p></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/マクロスシリーズ" title="wikilink">マクロス</a>25周年</li>
+<li><a href="../Page/マクロスシリーズ.md" title="wikilink">マクロス</a>25周年</li>
 <li><a href="https://ja.wikipedia.org/wiki/あらびき団" title="wikilink">あらびき団</a></li>
 <li>「saku saku」第25弾</li>
 </ul></td>
@@ -443,7 +443,7 @@
 <td><p>「<a href="../Page/崖の上のポニョ.md" title="wikilink">崖の上のポニョ</a>」</p></td>
 <td><ul>
 <li>崖の上のポニョ</li>
-<li><a href="https://ja.wikipedia.org/wiki/少女革命ウテナ" title="wikilink">少女革命ウテナ</a></li>
+<li><a href="../Page/少女革命ウテナ.md" title="wikilink">少女革命ウテナ</a></li>
 <li>デトロイト・メタル・シティ</li>
 </ul></td>
 </tr>
@@ -513,7 +513,7 @@
 <td><p>「<a href="https://ja.wikipedia.org/wiki/劇場版_マクロスF" title="wikilink">劇場版 マクロスF 虚空歌姫 〜イツワリノウタヒメ〜</a>」</p></td>
 <td><ul>
 <li>劇場版マクロスF</li>
-<li><a href="https://ja.wikipedia.org/wiki/May&#39;n" title="wikilink">May'n</a> ロングインタビュー</li>
+<li><a href="../Page/May&#39;n.md" title="wikilink">May'n</a> ロングインタビュー</li>
 <li>ラブプラス</li>
 </ul></td>
 </tr>
@@ -530,7 +530,7 @@
 <tr class="odd">
 <td><p>vol.50</p></td>
 <td><p>2010年2月</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/鶴巻和哉" title="wikilink">鶴巻和哉</a>」</p></td>
+<td><p>「<a href="../Page/鶴巻和哉.md" title="wikilink">鶴巻和哉</a>」</p></td>
 <td><ul>
 <li>鶴巻和哉 ロングインタビュー</li>
 <li>ゲーム・オブ・ザ・イヤー2009</li>
@@ -569,7 +569,7 @@
 <td><p>「<a href="https://ja.wikipedia.org/wiki/新幹線変形ロボ_シンカリオン" title="wikilink">新幹線変形ロボ シンカリオン</a>」</p></td>
 <td><ul>
 <li>新幹線変形ロボ シンカリオン</li>
-<li><a href="https://ja.wikipedia.org/wiki/機動戦士ガンダム_THE_ORIGIN" title="wikilink">機動戦士ガンダム THE ORIGIN</a></li>
+<li><a href="../Page/機動戦士ガンダム_THE_ORIGIN.md" title="wikilink">機動戦士ガンダム THE ORIGIN</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Nintendo_LABO" title="wikilink">Nintendo LABO</a></li>
 </ul></td>
 </tr>
@@ -589,7 +589,7 @@
 <td><ul>
 <li>フリクリ</li>
 <li><a href="https://ja.wikipedia.org/wiki/Tokyo_7th_シスターズ" title="wikilink">Tokyo 7th シスターズ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/コヤマシゲト" title="wikilink">コヤマシゲト</a>×<a href="https://ja.wikipedia.org/wiki/樋口真嗣" title="wikilink">樋口真嗣</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/コヤマシゲト" title="wikilink">コヤマシゲト</a>×<a href="../Page/樋口真嗣.md" title="wikilink">樋口真嗣</a></li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -655,8 +655,8 @@
 <td><p>「<a href="https://ja.wikipedia.org/wiki/ゲームセンターCX" title="wikilink">ゲームセンターCX</a>」</p></td>
 <td><ul>
 <li><a href="../Page/有野晋哉.md" title="wikilink">有野晋哉</a>（<a href="../Page/よゐこ.md" title="wikilink">よゐこ</a>）スペシャルロングインタビュー</li>
-<li>有野課長×<a href="https://ja.wikipedia.org/wiki/中村悠一" title="wikilink">中村悠一</a> スペシャル対談</li>
-<li><a href="https://ja.wikipedia.org/wiki/バカリズム" title="wikilink">バカリズム</a> VS 有野課長</li>
+<li>有野課長×<a href="../Page/中村悠一.md" title="wikilink">中村悠一</a> スペシャル対談</li>
+<li><a href="../Page/バカリズム.md" title="wikilink">バカリズム</a> VS 有野課長</li>
 </ul></td>
 </tr>
 </tbody>
@@ -671,10 +671,10 @@
       - Power Perfume Girl - [Perfume](https://ja.wikipedia.org/wiki/Perfume "wikilink")
       - お外で遊びなさい - [仲村みう](../Page/仲村みう.md "wikilink")
       - 再び帰って来た[メガドラ兄さん](../Page/メガドライブ.md "wikilink") - [サムシング吉松](../Page/吉松孝博.md "wikilink")
-      - 中村一義のアキハバカ - [中村一義](https://ja.wikipedia.org/wiki/中村一義 "wikilink")
+      - 中村一義のアキハバカ - [中村一義](../Page/中村一義.md "wikilink")
       - みさくら的[萌え](../Page/萌え.md "wikilink")ゲー歴史絵巻 - [みさくらなんこつ](https://ja.wikipedia.org/wiki/みさくらなんこつ "wikilink")
       - あの頃、ファミコンと - [みうらじゅん](../Page/みうらじゅん.md "wikilink")
-      - [巨人](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")・[大鵬](../Page/大鵬幸喜.md "wikilink")・エレキコミック - [エレキコミック](https://ja.wikipedia.org/wiki/エレキコミック "wikilink")
+      - [巨人](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")・[大鵬](../Page/大鵬幸喜.md "wikilink")・エレキコミック - [エレキコミック](../Page/エレキコミック.md "wikilink")
       - ポルネイド - [ポルノ鈴木](https://ja.wikipedia.org/wiki/ポルノ鈴木 "wikilink")
       - メカ硬派 - [田中圭一](../Page/田中圭一_\(漫画家\).md "wikilink")
       - CNT LETTERS
@@ -683,7 +683,7 @@
       - 桜田ふぁみりあ♪ - [あきまん](https://ja.wikipedia.org/wiki/あきまん "wikilink")
   - アーリー[ゲームコミック](https://ja.wikipedia.org/wiki/ゲームコミック "wikilink")列伝 - [大西祥平](https://ja.wikipedia.org/wiki/大西祥平 "wikilink")
   - Rockstar Satellites
-  - [洋ゲー](https://ja.wikipedia.org/wiki/洋ゲー "wikilink")超特急 カオスがいっぱい\! - ポルノ鈴木
+  - [洋ゲー](../Page/洋ゲー.md "wikilink")超特急 カオスがいっぱい\! - ポルノ鈴木
   - OUR HOBBY LIFE
   - 電池以下 - [吉田豪](../Page/吉田豪.md "wikilink")・[掟ポルシェ](../Page/掟ポルシェ.md "wikilink")
   - [SIMPLE SERIES](../Page/SIMPLEシリーズ.md "wikilink") REPORT
@@ -698,24 +698,24 @@
   - G-1 in my head
   - 中尾憲太郎26歳のインドアvsアウトドア - [中尾憲太郎](../Page/中尾憲太郎.md "wikilink")
   - ゲームと日本と世界のハナシ
-  - [脱衣麻雀](https://ja.wikipedia.org/wiki/脱衣麻雀 "wikilink")クロニクル - はいどていく
+  - [脱衣麻雀](../Page/脱衣麻雀.md "wikilink")クロニクル - はいどていく
   - はっちゃき16連射 - [せきしろ](../Page/せきしろ.md "wikilink")
   - ゾルゲの眼 - [ゾルゲ市蔵](https://ja.wikipedia.org/wiki/ゾルゲ市蔵 "wikilink")
   - カオス通信 確かめようステキなサムシング - [ソニー茨城](https://ja.wikipedia.org/wiki/ソニー茨城 "wikilink")
   - CNT REVIEW
   - アンダーヘッド - 大塚ギチ
   - ゲームやり2002
-  - [電子ゲーム](https://ja.wikipedia.org/wiki/電子ゲーム "wikilink")通信 - [小林栄介](https://ja.wikipedia.org/wiki/小林栄介 "wikilink")
-  - ボーズのよけいなことしかしゃべらない\! - [ボーズ](https://ja.wikipedia.org/wiki/スチャダラパー "wikilink")
-  - [セガ](https://ja.wikipedia.org/wiki/セガ "wikilink")竹崎の｢タイトル未定｣ - [竹崎忠](https://ja.wikipedia.org/wiki/竹崎忠 "wikilink")
+  - [電子ゲーム](../Page/電子ゲーム.md "wikilink")通信 - [小林栄介](https://ja.wikipedia.org/wiki/小林栄介 "wikilink")
+  - ボーズのよけいなことしかしゃべらない\! - [ボーズ](../Page/スチャダラパー.md "wikilink")
+  - [セガ](https://ja.wikipedia.org/wiki/セガ "wikilink")竹崎の｢タイトル未定｣ - [竹崎忠](../Page/竹崎忠.md "wikilink")
   - きのこのいけにえ - 飯田和敏
   - セガ竹崎のみんなでマーケティング会議やるぞ\! - 竹崎忠
-  - デザート・ハイ - [水口哲也](https://ja.wikipedia.org/wiki/水口哲也 "wikilink")
+  - デザート・ハイ - [水口哲也](../Page/水口哲也.md "wikilink")
   - ジュ・ゲーム・モア・ノン・プリュ - [ブルボン小林](../Page/長嶋有.md "wikilink")
-  - S.U.D.A. - [須田剛一](https://ja.wikipedia.org/wiki/須田剛一 "wikilink")
+  - S.U.D.A. - [須田剛一](../Page/須田剛一.md "wikilink")
   - 須城砲の格闘ゴールデン街 - 須田剛一
   - スペース杏ベーダー - [南波杏](../Page/南波杏.md "wikilink")
-  - [ピコピコ少年](https://ja.wikipedia.org/wiki/ピコピコ少年 "wikilink") - [押切蓮介](https://ja.wikipedia.org/wiki/押切蓮介 "wikilink")
+  - [ピコピコ少年](https://ja.wikipedia.org/wiki/ピコピコ少年 "wikilink") - [押切蓮介](../Page/押切蓮介.md "wikilink")
   - マイ・バック・ページズ - [安彦良和](../Page/安彦良和.md "wikilink")（Vol.54 - Vol.62）
 
 ## 出典

@@ -1,15 +1,15 @@
 > この記事は[P.I.MONSTER](https://ja.wikipedia.org/wiki/P.I.MONSTER)から翻訳されています。
 
 
-**P.I.MONSTER**（ピー・アイ・モンスター）は、[1996年](../Page/1996年.md "wikilink")に結成した日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。 2001年[エスエムイーレコーズ](https://ja.wikipedia.org/wiki/エスエムイーレコーズ "wikilink")、[アミューズ](https://ja.wikipedia.org/wiki/アミューズ "wikilink")よりメジャーデビュー。2005年解散したが、2013年再結成。
+**P.I.MONSTER**（ピー・アイ・モンスター）は、[1996年](../Page/1996年.md "wikilink")に結成した日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。 2001年[エスエムイーレコーズ](../Page/エスエムイーレコーズ.md "wikilink")、[アミューズ](https://ja.wikipedia.org/wiki/アミューズ "wikilink")よりメジャーデビュー。2005年解散したが、2013年再結成。
 
-デビューシングルの発売1ヵ月前から、ソニーミュージックの音楽配信サイトで、業界初のネット先行デビューを果たす。 大阪のストリートから叩きあげの4人組で、ストレートなギター・ロックにアプローチするバンド。 [音楽評論家](https://ja.wikipedia.org/wiki/音楽評論家 "wikilink")[市川哲史](https://ja.wikipedia.org/wiki/市川哲史 "wikilink")に「命がけのせつなさ」「崖っぷちのせつなさ」と評させたVocalハセガワが持つ世界観、独特のリズムを持つ自己葛藤を描く歌詞が特徴である。
+デビューシングルの発売1ヵ月前から、ソニーミュージックの音楽配信サイトで、業界初のネット先行デビューを果たす。 大阪のストリートから叩きあげの4人組で、ストレートなギター・ロックにアプローチするバンド。 [音楽評論家](../Page/音楽評論家.md "wikilink")[市川哲史](../Page/市川哲史.md "wikilink")に「命がけのせつなさ」「崖っぷちのせつなさ」と評させたVocalハセガワが持つ世界観、独特のリズムを持つ自己葛藤を描く歌詞が特徴である。
 
 ## 経歴
 
 ### 1996年
 
-  - 3月 [大阪市立大学](https://ja.wikipedia.org/wiki/大阪市立大学 "wikilink")の音楽サークルにて[ハセガワ](https://ja.wikipedia.org/wiki/ハセガワタカオ "wikilink")・オク・[ピエールが母体となるバンド](https://ja.wikipedia.org/wiki/浜田ピエール裕介 "wikilink")「ワレメに注意」を結成（略してワレチュウ。曲は下ネタが殆どのコミックバンドであった。）
+  - 3月 [大阪市立大学](https://ja.wikipedia.org/wiki/大阪市立大学 "wikilink")の音楽サークルにて[ハセガワ](../Page/ハセガワタカオ.md "wikilink")・オク・[ピエールが母体となるバンド](https://ja.wikipedia.org/wiki/浜田ピエール裕介 "wikilink")「ワレメに注意」を結成（略してワレチュウ。曲は下ネタが殆どのコミックバンドであった。）
 
 ### 1997年
 
@@ -51,7 +51,7 @@
 
   - 1月5日 大阪梅田光明アムホールにて3rdワンマンライブ「ロックスピリッツピリッピリッ」を行う
   - 1月13日 原宿RUIDOにて東京初ワンマンライブ「ロックスピリッツピリッピリッ～原宿物語～」を行う
-  - 1月24日 ミニアルバム「MONSTER ROCK」を[エスエムイーレコーズ](https://ja.wikipedia.org/wiki/エスエムイーレコーズ "wikilink")にてリリース
+  - 1月24日 ミニアルバム「MONSTER ROCK」を[エスエムイーレコーズ](../Page/エスエムイーレコーズ.md "wikilink")にてリリース
   - 3月 ミニアルバム「MONSTER ROCK」の「Play girl！」がYTVの「テレビヤンネット」のオープニングテーマになる
   - 8月27日 渋谷la. ma.maにてライブイベント「[Golden Circle](https://ja.wikipedia.org/wiki/Golden_Circle "wikilink") vol.00」出演
   - 10月1日 [ソニー・ミュージックエンタテインメントの音楽配信サイトbitmusicでCD発売に先がけ業界初のネット先行デビューを果たす](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")（10月1日12時からbitmusicにて「Shout\!」のダウンロード販売がスタートされた）
@@ -61,7 +61,7 @@
   - 10月29日 渋谷NESTにてワンマンライブを行う
   - 10月31日 サウンドプロデューサーに[寺岡呼人](../Page/寺岡呼人.md "wikilink")を迎え、メジャーデビュー
   - 11月25日 CLUB ASIAにてライブイベント「Golden Circle vol.01」出演
-  - 12月1日 日本武道館にて[アクト・アゲインスト・エイズ](https://ja.wikipedia.org/wiki/アクト・アゲインスト・エイズ "wikilink")(Act Against AIDS)出演
+  - 12月1日 日本武道館にて[アクト・アゲインスト・エイズ](../Page/アクト・アゲインスト・エイズ.md "wikilink")(Act Against AIDS)出演
   - 12月1日 ソニー・ミュージックエンタテインメント Online Japanによるネットイベント「Winternet'01-'02」参加
   - 12月3日 難波ロケッツにて東名阪ワンマンツアーGABURIYORI☆NIGHT vol.00スタート
   - 12月6日 渋谷NESTにてGABURIYORI☆NIGHT vol.01
@@ -79,8 +79,8 @@
   - 3月7日 ON AIR OSAKAにて「マンダムpresents Live Junction vol.9」出演
   - 3月29日 「B-PASS＆FAB presents LIVE COASTER Act.5」FAIRY FORE vs P.I.MONSTER出演
   - 4月7日 高田馬場CLUB PHASEにて“POP STAR”出演
-  - 4月27日 名古屋[HeartLand STUDIOにて東海テレビ](https://ja.wikipedia.org/wiki/HeartLand_STUDIO "wikilink")「ON・ON・ON」のスーパーライブ“Coming Generation”出演
-  - 5月4日 新潟市[万代シテイ](https://ja.wikipedia.org/wiki/万代シテイ "wikilink")パーク広場にて“2002 STAGEボーカル&バンドコンテストIN万代シテイ”ゲスト出演
+  - 4月27日 名古屋[HeartLand STUDIOにて東海テレビ](../Page/HeartLand_STUDIO.md "wikilink")「ON・ON・ON」のスーパーライブ“Coming Generation”出演
+  - 5月4日 新潟市[万代シテイ](../Page/万代シテイ.md "wikilink")パーク広場にて“2002 STAGEボーカル&バンドコンテストIN万代シテイ”ゲスト出演
   - 6月19日 渋谷ON AIR WESTにて“GO WEST.05”出演
   - 6月28日 仙台市勾当台公園にて伊達ロックフェスティバル2002 in July出演
   - 7月12日 心斎橋MUSE HALLにてCENTER OF MUSIC出演
@@ -94,7 +94,7 @@
   - 10月3日 渋谷eggsiteにてin the city japan 2002出演
   - 10月14日 エフエム滋賀 LAKESIDE FM77.0にゲスト出演
   - 10月18日 AtlantiQsにてパナソニックアルカリ乾電池presents MINAMI WHEEL2002出演
-  - 10月27日 NHK-BS2「[BEAT MOTION](https://ja.wikipedia.org/wiki/BEAT_MOTION "wikilink")」に出演
+  - 10月27日 NHK-BS2「[BEAT MOTION](../Page/BEAT_MOTION.md "wikilink")」に出演
   - 10月30日 渋谷eggsiteにてP.I.MONSTER Presents「Cats N’Dogs」Vol.00を行う
   - 11月3日 東北大学学園祭出演
   - 11月4日 東海大学学園祭出演
@@ -124,7 +124,7 @@
   - 8月30日 高田馬場CLUBPHASEにて“POP STAR”出演
   - 10月5日 亀戸サンストリートにてアミューズライブ出演
   - 10月9日 渋谷ON AIR NESTにて｢Pop Festa｣出演
-  - 10月11日 NHKホールにて[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")の「ブレイクレーダー」出演、5thシングル「ケセラセラ」を歌い84.7%という高得点を叩き出し、その時点で2週勝ち抜いていた[スキマスイッチ](https://ja.wikipedia.org/wiki/スキマスイッチ "wikilink")の得点を上回り見事1位獲得（その後2週にわたり1位の座を守るが3週目に[華原朋美](../Page/華原朋美.md "wikilink")とコロッケのユニット※[朋ちゃん&コロッケ](https://ja.wikipedia.org/wiki/朋ちゃん&コロッケ "wikilink")に1位の座を奪われる）
+  - 10月11日 NHKホールにて[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")の「ブレイクレーダー」出演、5thシングル「ケセラセラ」を歌い84.7%という高得点を叩き出し、その時点で2週勝ち抜いていた[スキマスイッチ](../Page/スキマスイッチ.md "wikilink")の得点を上回り見事1位獲得（その後2週にわたり1位の座を守るが3週目に[華原朋美](../Page/華原朋美.md "wikilink")とコロッケのユニット※[朋ちゃん&コロッケ](https://ja.wikipedia.org/wiki/朋ちゃん&コロッケ "wikilink")に1位の座を奪われる）
   - 10月13日 FM徳島主催｢リスナーズフェスタ イン マリンピア｣出演
   - 10月19日 亀戸サンストリートにてアミューズライブ出演
   - 10月25日 亀戸サンストリートにてサンストカーニバル出演
@@ -169,7 +169,7 @@
   - 10月16日 FM彦根「エフエム・ビバーチェ2周年特番」公開生放送にてアコースティックライブ
   - 10月16日 FM彦根｢トワイライトモビーラウンジ｣にてアコースティックライブ
   - 10月17日 NHK-FM（近畿圏内）「かんさい“e”スクエア」にて公開収録アコースティックライブ
-  - 11月20日 Vocalハセガワの母校、[鳥取県](../Page/鳥取県.md "wikilink")[西伯郡](../Page/西伯郡.md "wikilink")[岸本町](https://ja.wikipedia.org/wiki/岸本町 "wikilink")[岸本中学校体育館にて](https://ja.wikipedia.org/wiki/伯耆町立岸本中学校 "wikilink")、岸本きないや祭のイベント「P.I.MONSTER凱旋ライブ」を行う
+  - 11月20日 Vocalハセガワの母校、[鳥取県](../Page/鳥取県.md "wikilink")[西伯郡](../Page/西伯郡.md "wikilink")[岸本町](../Page/岸本町.md "wikilink")[岸本中学校体育館にて](https://ja.wikipedia.org/wiki/伯耆町立岸本中学校 "wikilink")、岸本きないや祭のイベント「P.I.MONSTER凱旋ライブ」を行う
   - 11月27日 OSAKA MUSEにて｢Sing is Life Vol.0｣ 出演
 
 ### 2005年
@@ -182,7 +182,7 @@
 
 ## メンバー
 
-  - [ハセガワ](https://ja.wikipedia.org/wiki/ハセガワタカオ "wikilink") Vocal
+  - [ハセガワ](../Page/ハセガワタカオ.md "wikilink") Vocal
   - オク Bass
   - [ピエール](https://ja.wikipedia.org/wiki/浜田ピエール裕介 "wikilink") Guitar
   - デスオ Drums
@@ -195,7 +195,7 @@
   - 「ルーズリーフ」 (2002年1月30日)---TBS系「[カウントダウンTV](https://ja.wikipedia.org/wiki/カウントダウンTV "wikilink")」OPテーマ、東北エリアにて[ホンダ](https://ja.wikipedia.org/wiki/ホンダ "wikilink")の車のCMソング、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")「[AX MUSIC－TV](https://ja.wikipedia.org/wiki/AX_MUSIC－TV "wikilink")」AX POWER PLAY 062
   - 「魔法」 (2002年10月23日)
   - 「For us」 (2003年3月19日)---テレビ朝日系「そんな所で・・・」エンディングテーマ
-  - 「ケセラセラ」 (2003年9月26日)---TBS系[愛の劇場](../Page/愛の劇場.md "wikilink")[温泉へ行こう](https://ja.wikipedia.org/wiki/温泉へ行こう "wikilink")4主題歌
+  - 「ケセラセラ」 (2003年9月26日)---TBS系[愛の劇場](../Page/愛の劇場.md "wikilink")[温泉へ行こう](../Page/温泉へ行こう.md "wikilink")4主題歌
   - 「Tremoro」 (2004年2月20日)---ライブ会場限定発売
   - 「Please\!Say"HELLO"」 (2004年8月25日)---MBS「暴ロンブー」エンディングテーマ
 

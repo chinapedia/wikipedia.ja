@@ -1,7 +1,7 @@
 > この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
 
 
-**アル・アインFC**（[英語](../Page/英語.md "wikilink")：、[アラビア語](../Page/アラビア語.md "wikilink")：）は、[アラブ首長国連邦](../Page/アラブ首長国連邦.md "wikilink")の首長国[アブダビ](../Page/アブダビ.md "wikilink")の都市[アル・アイン](../Page/アル・アイン.md "wikilink")をホームタウンとする、UAEプロサッカーリーグ（[アラビアン・ガルフ・リーグ](https://ja.wikipedia.org/wiki/アラビアン・ガルフ・リーグ "wikilink")）に加盟するプロサッカークラブ。
+**アル・アインFC**（[英語](../Page/英語.md "wikilink")：、[アラビア語](../Page/アラビア語.md "wikilink")：）は、[アラブ首長国連邦](../Page/アラブ首長国連邦.md "wikilink")の首長国[アブダビ](../Page/アブダビ.md "wikilink")の都市[アル・アイン](../Page/アル・アイン.md "wikilink")をホームタウンとする、UAEプロサッカーリーグ（[アラビアン・ガルフ・リーグ](../Page/アラビアン・ガルフ・リーグ.md "wikilink")）に加盟するプロサッカークラブ。
 
 ## 概要
 
@@ -9,13 +9,13 @@
 
 チーム名及び本拠地名の「アイン」とはアラビア語で「泉」の意であり、この地が[オアシス](../Page/オアシス.md "wikilink")都市だったことに由来する。
 
-以前のアル・アインのユニフォームカラーは緑と赤だったが、1977年に[モロッコ](../Page/モロッコ.md "wikilink")でトレーニングキャンプを行ったベルギーの[RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink")に感化され、現在の紫色に変更された。
+以前のアル・アインのユニフォームカラーは緑と赤だったが、1977年に[モロッコ](../Page/モロッコ.md "wikilink")でトレーニングキャンプを行ったベルギーの[RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")に感化され、現在の紫色に変更された。
 
 ## タイトル
 
 ### 国内タイトル
 
-  - **[リーグ](https://ja.wikipedia.org/wiki/アラビアン・ガルフ・リーグ "wikilink")：13回**
+  - **[リーグ](../Page/アラビアン・ガルフ・リーグ.md "wikilink")：13回**
       - 1976/77, 1980/81, 1983/84, 1992/93, 1997/98, 1999/2000, 2001/02, 2002/03, 2003/04, 2011/12, 2012/13，2014/15，2017/18
 
 <!-- end list -->
@@ -41,13 +41,13 @@
 <!-- end list -->
 
   - **[AFCチャンピオンズリーグ](../Page/AFCチャンピオンズリーグ.md "wikilink")：1回** [AFC_Champions_League_Trophy.png](https://ja.wikipedia.org/wiki/File:AFC_Champions_League_Trophy.png "fig:AFC_Champions_League_Trophy.png")
-      - [2003](https://ja.wikipedia.org/wiki/AFCチャンピオンズリーグ2002-2003 "wikilink")
+      - [2003](../Page/AFCチャンピオンズリーグ2002-2003.md "wikilink")
 
 ## 現所属メンバー
 
   - 2019年3月1日現在
 
-([副主将](https://ja.wikipedia.org/wiki/主将 "wikilink"))   ★        ([副主将](https://ja.wikipedia.org/wiki/主将 "wikilink"))             ★
+([副主将](../Page/主将.md "wikilink"))   ★        ([副主将](../Page/主将.md "wikilink"))             ★
 
 ※星印は外国人選手を示す。
 
@@ -61,7 +61,7 @@
 
   - [ゼ・マリオ](../Page/ジョゼ・マリオ・ジ・アウメイダ・バロス.md "wikilink") 1988-1991
 
-  - [アンゲル・ヨルダネスク](https://ja.wikipedia.org/wiki/アンゲル・ヨルダネスク "wikilink") 2001-2002
+  - [アンゲル・ヨルダネスク](../Page/アンゲル・ヨルダネスク.md "wikilink") 2001-2002
 
   - [ブルーノ・メツ](../Page/ブルーノ・メツ.md "wikilink") 2002-2004
 
@@ -69,9 +69,9 @@
 
   - [ミラン・マチャラ](https://ja.wikipedia.org/wiki/ミラン・マチャラ "wikilink") 2005-2006
 
-  - [アンゲル・ヨルダネスク](https://ja.wikipedia.org/wiki/アンゲル・ヨルダネスク "wikilink") 2006
+  - [アンゲル・ヨルダネスク](../Page/アンゲル・ヨルダネスク.md "wikilink") 2006
 
-  - [ワルテル・ゼンガ](https://ja.wikipedia.org/wiki/ワルテル・ゼンガ "wikilink") 2007
+  - [ワルテル・ゼンガ](../Page/ワルテル・ゼンガ.md "wikilink") 2007
 
   - [チッチ](https://ja.wikipedia.org/wiki/アデノール・レオナルド・バッチ "wikilink") 2007
 
@@ -85,7 +85,7 @@
 
   - [ホルヘ・フォサッティ](https://ja.wikipedia.org/wiki/ホルヘ・フォサッティ "wikilink") 2013
 
-  - [キケ・サンチェス・フローレス](https://ja.wikipedia.org/wiki/キケ・サンチェス・フローレス "wikilink") 2013-2014
+  - [キケ・サンチェス・フローレス](../Page/キケ・サンチェス・フローレス.md "wikilink") 2013-2014
 
   - [ズラトコ・ダリッチ](https://ja.wikipedia.org/wiki/ズラトコ・ダリッチ "wikilink") 2014-2017
 
@@ -95,7 +95,7 @@
 
   - [アベディ・ペレ](../Page/アベディ・ペレ.md "wikilink") 1998-2000
 
-  - [サーミー・アル＝ジャービル](https://ja.wikipedia.org/wiki/サーミー・アル＝ジャービル "wikilink") 2000-2001
+  - [サーミー・アル＝ジャービル](../Page/サーミー・アル＝ジャービル.md "wikilink") 2000-2001
 
   - [アブドゥル・カデル・ケイタ](../Page/アブドゥル・カデル・ケイタ.md "wikilink") 2001-2002
 
@@ -107,9 +107,9 @@
 
   - [ロベルト・アクーニャ](https://ja.wikipedia.org/wiki/ロベルト・アクーニャ "wikilink") 2004
 
-  - [ムスタファ・ハッジ](https://ja.wikipedia.org/wiki/ムスタファ・ハッジ "wikilink") 2004-2005
+  - [ムスタファ・ハッジ](../Page/ムスタファ・ハッジ.md "wikilink") 2004-2005
 
-  - [エジウソン](https://ja.wikipedia.org/wiki/エジウソン・ダ・シルバ・フェレイラ "wikilink") 2005
+  - [エジウソン](../Page/エジウソン・ダ・シルバ・フェレイラ.md "wikilink") 2005
 
   - [ケリー](../Page/クレズリー・エバンドロ・ギマラエンス.md "wikilink") 2006-2007
 
@@ -125,11 +125,11 @@
 
   - [ホセ・サンド](https://ja.wikipedia.org/wiki/ホセ・サンド "wikilink") 2009-2011
 
-  - [エメルソン](https://ja.wikipedia.org/wiki/マルシオ・パッソス・ジ・アルブケルケ "wikilink") 2009-2010
+  - [エメルソン](../Page/マルシオ・パッソス・ジ・アルブケルケ.md "wikilink") 2009-2010
 
   - [李浩](https://ja.wikipedia.org/wiki/李浩 "wikilink") 2010
 
-  - [アサモア・ギャン](https://ja.wikipedia.org/wiki/アサモア・ギャン "wikilink") 2011-2015
+  - [アサモア・ギャン](../Page/アサモア・ギャン.md "wikilink") 2011-2015
 
   - [ミレル・ラドイ](https://ja.wikipedia.org/wiki/ミレル・ラドイ "wikilink") 2011-2014
 

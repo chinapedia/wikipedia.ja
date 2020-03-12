@@ -8,8 +8,8 @@
   - [1996年](../Page/1996年.md "wikilink")、アイドルグループ[H.O.T.](../Page/H.O.T..md "wikilink")のメンバーとしてデビュー。
   - [2001年](../Page/2001年.md "wikilink")、H.O.T.解散。ソロデビューアルバム『Polaris』が大ヒットした。
   - [2003年](../Page/2003年.md "wikilink")、初めてのソロ・コンサートを行った。シン・ヘソン（[シンファ](https://ja.wikipedia.org/wiki/シンファ "wikilink")）、[イ・ジフン](https://ja.wikipedia.org/wiki/イ・ジフン "wikilink")と[Sを結成](https://ja.wikipedia.org/wiki/:en:S_\(South_Korean_band\) "wikilink")、アルバム『Fr.in.Cl』をリリース。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、[中国に進出](../Page/中華人民共和国.md "wikilink")。中国ドラマ『魔術奇緣』で台湾の女優[林心如](../Page/林心如.md "wikilink")、台湾の俳優[蘇有朋と共演した](https://ja.wikipedia.org/wiki/アレック・スー "wikilink")。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")、台湾のアイドルグループ[F4のメンバー](https://ja.wikipedia.org/wiki/F4_\(ユニット\) "wikilink")[Vannessと](https://ja.wikipedia.org/wiki/呉建豪 "wikilink")[Kangta & Vannessを結成](https://ja.wikipedia.org/wiki/Kangta_&_Vanness "wikilink")、ミニアルバム『Scandal』をリリース。
+  - [2005年](../Page/2005年.md "wikilink")、[中国に進出](../Page/中華人民共和国.md "wikilink")。中国ドラマ『魔術奇緣』で台湾の女優[林心如](../Page/林心如.md "wikilink")、台湾の俳優[蘇有朋と共演した](https://ja.wikipedia.org/wiki/アレック・スー "wikilink")。
+  - [2006年](../Page/2006年.md "wikilink")、台湾のアイドルグループ[F4のメンバー](../Page/F4_\(ユニット\).md "wikilink")[Vannessと](../Page/呉建豪.md "wikilink")[Kangta & Vannessを結成](https://ja.wikipedia.org/wiki/Kangta_&_Vanness "wikilink")、ミニアルバム『Scandal』をリリース。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")、[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")曲のデジタル・シングル『愛、頻率』をリリース。
   - [2013年](../Page/2013年.md "wikilink")、韓国ドラマ『[その冬、風が吹く](https://ja.wikipedia.org/wiki/その冬、風が吹く "wikilink")』のOSTを製作。
   - [2014年](../Page/2014年.md "wikilink")、Sのミニアルバム『Autumn Breeze』をリリース。
@@ -43,7 +43,7 @@
 
   - 学校（[KBS](../Page/韓国放送公社.md "wikilink")、1998年）
 
-  - 順風産婦人科（[SBS](https://ja.wikipedia.org/wiki/SBS_\(韓国\) "wikilink")、1998年）
+  - 順風産婦人科（[SBS](../Page/SBS_\(韓国\).md "wikilink")、1998年）
 
   - （中国 [CCTV](https://ja.wikipedia.org/wiki/CCTV "wikilink")、2005年）
 

@@ -12,7 +12,7 @@
   - [1967年](../Page/1967年.md "wikilink") - 第5世代数値解析予報システム (NAPS5) を運用開始\[5\]
   - [1996年](../Page/1996年.md "wikilink") - 第6世代数値解析予報システム (NAPS6) を運用開始\[6\]
   - [2001年](../Page/2001年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink") - 第7世代数値解析予報システム (NAPS7) を運用開始\[7\]
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月1日](../Page/3月1日.md "wikilink") - 第8世代数値解析予報システム (NAPS8) を運用開始\[8\]
+  - [2006年](../Page/2006年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink") - 第8世代数値解析予報システム (NAPS8) を運用開始\[8\]
   - [2012年](../Page/2012年.md "wikilink")[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink") - 第9世代数値解析予報システム (NAPS9) を運用開始\[9\]
   - [2018年](../Page/2018年.md "wikilink")[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink") - 第10世代数値解析予報システム (NAPS10) を運用開始\[10\]
 
@@ -20,7 +20,7 @@
 
 ### ADESSの経緯
 
-当初、[東芝](../Page/東芝.md "wikilink")のメインフレームを利用していたが、その後、東芝のメインフレーム撤退に伴い、[日本電気](../Page/日本電気.md "wikilink")に移管された。日本電気移管後は、同社製のメインフレーム（[ACOS-6](../Page/ACOS-6.md "wikilink")シリーズ（C-ADESS V まで）→ACOS-4シリーズ）とミニコンピュータ（MSシリーズ）、その後はUNIXサーバ ([UP4800](https://ja.wikipedia.org/wiki/UP4800 "wikilink"), [UX/4800](https://ja.wikipedia.org/wiki/UX/4800 "wikilink")) を使用し、リアルタイムクラスでのサービスデーモンの運用など、SVR4.2MPの機能を活用した機能を提供していた。 ADESSにおいて、COSMETSの一部となる部分はC-ADESSと呼ばれ、日本全国の集配信および、国際通信系(GTS)の中心となっていた。 そのほかに各管区気象台が対応する部分としてL-ADESSがあった（これはCOSMETSの一部ではない）。
+当初、[東芝](../Page/東芝.md "wikilink")のメインフレームを利用していたが、その後、東芝のメインフレーム撤退に伴い、[日本電気](../Page/日本電気.md "wikilink")に移管された。日本電気移管後は、同社製のメインフレーム（[ACOS-6](../Page/ACOS-6.md "wikilink")シリーズ（C-ADESS V まで）→ACOS-4シリーズ）とミニコンピュータ（MSシリーズ）、その後はUNIXサーバ ([UP4800](../Page/UP4800.md "wikilink"), [UX/4800](https://ja.wikipedia.org/wiki/UX/4800 "wikilink")) を使用し、リアルタイムクラスでのサービスデーモンの運用など、SVR4.2MPの機能を活用した機能を提供していた。 ADESSにおいて、COSMETSの一部となる部分はC-ADESSと呼ばれ、日本全国の集配信および、国際通信系(GTS)の中心となっていた。 そのほかに各管区気象台が対応する部分としてL-ADESSがあった（これはCOSMETSの一部ではない）。
 
 2005年の更新では、C-ADESSとL-ADESSを一本化し、東西2つのシステムとし、再構成している。西日本部分については、2008年3月に稼働した。 また、提供ベンダもNECから富士通に切り替え、汎用機を廃してUNIXサーバとPCサーバによるシステムに変更された。
 
@@ -30,7 +30,7 @@
 
 当時、数値演算部分の演算性能では世界3指に入るシステムと広報されたが、当時の他国（カナダ/アメリカなど）システムは更改期を目前としたもので、比較する意味の無い値であった。
 
-さらに、近年の気象予測の予測精度への不満により、早々の置き換えを切望されていたが、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")3月1日にやっと旧SR8000がSR11000と置き換えられ、理論ピーク性能21.5TFLOPSと大幅に性能向上した。さらに、[2012年](../Page/2012年.md "wikilink")にはSR16000/M1に、[2018年](../Page/2018年.md "wikilink")にはCray XC50を主系とするシステムに置き換えられた。
+さらに、近年の気象予測の予測精度への不満により、早々の置き換えを切望されていたが、[2006年](../Page/2006年.md "wikilink")3月1日にやっと旧SR8000がSR11000と置き換えられ、理論ピーク性能21.5TFLOPSと大幅に性能向上した。さらに、[2012年](../Page/2012年.md "wikilink")にはSR16000/M1に、[2018年](../Page/2018年.md "wikilink")にはCray XC50を主系とするシステムに置き換えられた。
 
 <table>
 <caption>NAPS 各世代の諸元[11]</caption>
@@ -168,7 +168,7 @@
 
 ## 関連項目
 
-  - [数値予報](https://ja.wikipedia.org/wiki/数値予報 "wikilink")
+  - [数値予報](../Page/数値予報.md "wikilink")
 
 [Category:気象事業](https://ja.wikipedia.org/wiki/Category:気象事業 "wikilink") [Category:情報システム](https://ja.wikipedia.org/wiki/Category:情報システム "wikilink") [Category:スーパーコンピュータ](https://ja.wikipedia.org/wiki/Category:スーパーコンピュータ "wikilink") [Category:計算科学](https://ja.wikipedia.org/wiki/Category:計算科学 "wikilink")
 

@@ -16,15 +16,15 @@
 2.  **[grand blue](https://ja.wikipedia.org/wiki/grand_blue "wikilink")**
       - 作曲・編曲：徳永暁人
 3.  **[虹色にひかる海](../Page/虹色にひかる海.md "wikilink")**
-      - 作曲：[春畑道哉](https://ja.wikipedia.org/wiki/春畑道哉 "wikilink")／編曲：徳永暁人
+      - 作曲：[春畑道哉](../Page/春畑道哉.md "wikilink")／編曲：徳永暁人
 4.  **[向日葵のように](../Page/向日葵のように.md "wikilink")**
       - 作曲・編曲：小澤正澄
 5.  **サヨナラを告げた日が近すぎて**
-      - 作曲：[川島だりあ](https://ja.wikipedia.org/wiki/川島だりあ "wikilink")／編曲：[清水俊也](https://ja.wikipedia.org/wiki/清水俊也 "wikilink")
+      - 作曲：[川島だりあ](../Page/川島だりあ.md "wikilink")／編曲：[清水俊也](https://ja.wikipedia.org/wiki/清水俊也 "wikilink")
 6.  **禁断の果実**
       - 作曲・編曲：小澤正澄
 7.  **[Sun rise train](https://ja.wikipedia.org/wiki/Sun_rise_train/君の描くその未来 "wikilink")**
-      - 作曲：[輝門](https://ja.wikipedia.org/wiki/輝門 "wikilink")／編曲：[大賀好修](../Page/大賀好修.md "wikilink")
+      - 作曲：[輝門](../Page/輝門.md "wikilink")／編曲：[大賀好修](../Page/大賀好修.md "wikilink")
 8.  **雪降る夜は抱きしめて**
       - 作曲・編曲：小澤正澄
 9.  **雨の中**
@@ -45,14 +45,14 @@
 
   - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ「[天使な小生意気](../Page/天使な小生意気.md "wikilink")」オープニングテーマ(\#2、7)
   - [TBS系アニメ](../Page/TBSテレビ.md "wikilink")「[探偵学園Q](../Page/探偵学園Q.md "wikilink")」エンディングテーマ(\#3)
-  - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「[モグモグGOMBO](https://ja.wikipedia.org/wiki/モグモグGOMBO "wikilink")」エンディングテーマ(\#4)
+  - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「[モグモグGOMBO](../Page/モグモグGOMBO.md "wikilink")」エンディングテーマ(\#4)
   - [読売テレビ](../Page/讀賣テレビ放送.md "wikilink")「プロの動脈。」エンディングテーマ(\#10)
 
 ## 関連項目
 
   - [ビーイング](../Page/ビーイング.md "wikilink")
   - [GIZA studio](../Page/GIZA_studio.md "wikilink")
-  - [2003年の音楽](https://ja.wikipedia.org/wiki/2003年の音楽 "wikilink")
+  - [2003年の音楽](../Page/2003年の音楽.md "wikilink")
   - [北原愛子](../Page/北原愛子.md "wikilink")
   - [小澤正澄](../Page/小澤正澄.md "wikilink")
 

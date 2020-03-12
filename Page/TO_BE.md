@@ -17,8 +17,8 @@
 
 1.  **TO BE (Original Mix)**
       -
-        [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：ayumi hamasaki / [作曲](../Page/作曲.md "wikilink")：[D･A･I](https://ja.wikipedia.org/wiki/長尾大 "wikilink") / [編曲](../Page/編曲.md "wikilink")：[Naoto Suzuki](https://ja.wikipedia.org/wiki/鈴木直人_\(音楽プロデューサー\) "wikilink")、D･A･I
-        [日本たばこ産業](https://ja.wikipedia.org/wiki/日本たばこ産業 "wikilink")「[桃の天然水](https://ja.wikipedia.org/wiki/桃の天然水 "wikilink")」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
+        [作詞](../Page/作詞.md "wikilink")：ayumi hamasaki / [作曲](../Page/作曲.md "wikilink")：[D･A･I](../Page/長尾大.md "wikilink") / [編曲](../Page/編曲.md "wikilink")：[Naoto Suzuki](https://ja.wikipedia.org/wiki/鈴木直人_\(音楽プロデューサー\) "wikilink")、D･A･I
+        [日本たばこ産業](https://ja.wikipedia.org/wiki/日本たばこ産業 "wikilink")「[桃の天然水](../Page/桃の天然水.md "wikilink")」[CMソング](../Page/コマーシャルソング.md "wikilink")
 2.  **TO BE (Dub's cool wind Remix)**
 3.  **TO BE (Instrumental)**
 
@@ -27,7 +27,7 @@
 1.  **TO BE "Original Mix"**
 2.  **TO BE "Dub's cool wind Remix"**
 3.  **[appears](https://ja.wikipedia.org/wiki/appears "wikilink") "H.W Tokyo Hard House Mix"**
-4.  **[Fly high](https://ja.wikipedia.org/wiki/Fly_high_\(浜崎あゆみの曲\) "wikilink") "SHARP BOYS U.K VOCAL MIX"**
+4.  **[Fly high](../Page/Fly_high_\(浜崎あゆみの曲\).md "wikilink") "SHARP BOYS U.K VOCAL MIX"**
 5.  **Fly high "Supreme Mix"**
 6.  **Fly high "SAMPLE MADNESS REMIX"**
 7.  **TO BE "Original Mix -Instrumental-"**
@@ -37,7 +37,7 @@
   - **TO BE**
       - 『[LOVEppears](../Page/LOVEppears.md "wikilink")』(アルバムバージョン)
       - 『[A BEST](../Page/A_BEST.md "wikilink")』(アルバムバージョン)
-      - 『[A BALLADS](https://ja.wikipedia.org/wiki/A_BALLADS "wikilink")』(2003 ReBirth Mix)
+      - 『[A BALLADS](../Page/A_BALLADS.md "wikilink")』(2003 ReBirth Mix)
       - 『[A COMPLETE 〜ALL SINGLES〜](https://ja.wikipedia.org/wiki/A_COMPLETE_〜ALL_SINGLES〜 "wikilink")』
 
 ## 脚注

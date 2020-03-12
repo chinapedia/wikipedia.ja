@@ -1,11 +1,11 @@
 > この記事は[SET-7 \(\)](https://ja.wikipedia.org/wiki/SET-7_\(\))から翻訳されています。
 
 
-{{ Infobox 航空機 | 名称= | 画像= | キャプション= | 用途=[偵察機](../Page/偵察機.md "wikilink") | 分類= | 設計者=[22x20px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Romania.svg "wikilink") [IAR](https://ja.wikipedia.org/wiki/IAR "wikilink")社 | 製造者=[22x20px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Romania.svg "wikilink") IAR社 | 運用者=[22x20px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Romania.svg "wikilink") [ルーマニア空軍](https://ja.wikipedia.org/wiki/ルーマニア空軍 "wikilink") | 運用者 more= | 初飛行年月日=[1935年](../Page/1935年.md "wikilink") | 生産数= | 生産開始年月日= | 運用開始年月日= | 退役年月日= | 運用状況=退役 | ユニットコスト= }} **SET-7**([ルーマニア語](../Page/ルーマニア語.md "wikilink"):****<small>セト・シャプテ</small>)は、[ルーマニア](../Page/ルーマニア.md "wikilink")の[SET](https://ja.wikipedia.org/wiki/SET "wikilink")社()で開発された[偵察機](../Page/偵察機.md "wikilink")である。
+{{ Infobox 航空機 | 名称= | 画像= | キャプション= | 用途=[偵察機](../Page/偵察機.md "wikilink") | 分類= | 設計者=[22x20px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Romania.svg "wikilink") [IAR](https://ja.wikipedia.org/wiki/IAR "wikilink")社 | 製造者=[22x20px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Romania.svg "wikilink") IAR社 | 運用者=[22x20px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Romania.svg "wikilink") [ルーマニア空軍](../Page/ルーマニア空軍.md "wikilink") | 運用者 more= | 初飛行年月日=[1935年](../Page/1935年.md "wikilink") | 生産数= | 生産開始年月日= | 運用開始年月日= | 退役年月日= | 運用状況=退役 | ユニットコスト= }} **SET-7**([ルーマニア語](../Page/ルーマニア語.md "wikilink"):****<small>セト・シャプテ</small>)は、[ルーマニア](../Page/ルーマニア.md "wikilink")の[SET](https://ja.wikipedia.org/wiki/SET "wikilink")社()で開発された[偵察機](../Page/偵察機.md "wikilink")である。
 
 ## 概要
 
-SET-7の設計作業は、[1930年代](../Page/1930年代.md "wikilink")初頭に始められた。最初の原型機は[1935年](../Page/1935年.md "wikilink")に初飛行を行った。SET-7は成功した航空機で、大きな変更を施された派生型がいくつか生産された。最初の生産型は木製の胴体に解放式操縦席を備えた機体であったが、最終発展型では密閉式操縦席を備えた全金属製の機体となっていた。SET 7の最終型は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")の開戦にいたるまで[ルーマニア航空隊で使用され続けた](https://ja.wikipedia.org/wiki/ルーマニア空軍 "wikilink")。
+SET-7の設計作業は、[1930年代](../Page/1930年代.md "wikilink")初頭に始められた。最初の原型機は[1935年](../Page/1935年.md "wikilink")に初飛行を行った。SET-7は成功した航空機で、大きな変更を施された派生型がいくつか生産された。最初の生産型は木製の胴体に解放式操縦席を備えた機体であったが、最終発展型では密閉式操縦席を備えた全金属製の機体となっていた。SET 7の最終型は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")の開戦にいたるまで[ルーマニア航空隊で使用され続けた](../Page/ルーマニア空軍.md "wikilink")。
 
 ## スペック
 

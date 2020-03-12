@@ -1,7 +1,7 @@
 > この記事は[LOVE ](https://ja.wikipedia.org/wiki/LOVE_)から翻訳されています。
 
 
-「**LOVE〜抱き合って〜**」（ラブ だきあって）は、[つんく](https://ja.wikipedia.org/wiki/つんく "wikilink") with [7HOUSEのシングル](https://ja.wikipedia.org/wiki/セブンハウス "wikilink")。
+「**LOVE〜抱き合って〜**」（ラブ だきあって）は、[つんく](https://ja.wikipedia.org/wiki/つんく "wikilink") with [7HOUSEのシングル](../Page/セブンハウス.md "wikilink")。
 
 ## 内容
 

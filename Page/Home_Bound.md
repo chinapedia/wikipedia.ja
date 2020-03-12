@@ -17,9 +17,9 @@
 
 ## レコーディング
 
-浜田にとって初の海外レコーディングであり、[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")でのレコーディングには[浜田省吾](https://ja.wikipedia.org/wiki/浜田省吾 "wikilink")と[町支寛二](../Page/町支寛二.md "wikilink")の他に、[スティーヴ・ルカサー](../Page/スティーヴ・ルカサー.md "wikilink")（[TOTO](https://ja.wikipedia.org/wiki/TOTO_\(バンド\) "wikilink")）、[ニッキー・ホプキンス](https://ja.wikipedia.org/wiki/ニッキー・ホプキンス "wikilink")、[ジェフ・バクスター](../Page/ジェフ・バクスター.md "wikilink")といった現地の一流ミュージシャンが参加した。アレンジはすべて[水谷公生](../Page/水谷公生.md "wikilink")が担当している。
+浜田にとって初の海外レコーディングであり、[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")でのレコーディングには[浜田省吾](https://ja.wikipedia.org/wiki/浜田省吾 "wikilink")と[町支寛二](../Page/町支寛二.md "wikilink")の他に、[スティーヴ・ルカサー](../Page/スティーヴ・ルカサー.md "wikilink")（[TOTO](../Page/TOTO_\(バンド\).md "wikilink")）、[ニッキー・ホプキンス](../Page/ニッキー・ホプキンス.md "wikilink")、[ジェフ・バクスター](../Page/ジェフ・バクスター.md "wikilink")といった現地の一流ミュージシャンが参加した。アレンジはすべて[水谷公生](../Page/水谷公生.md "wikilink")が担当している。
 
-もともとは[ジャクソン・ブラウン](https://ja.wikipedia.org/wiki/ジャクソン・ブラウン "wikilink")のバック・バンドを務めていた[スタジオ・ミュージシャン](../Page/スタジオ・ミュージシャン.md "wikilink")のユニット「[ザ・セクション](https://ja.wikipedia.org/wiki/:en:The_Section_\(band\) "wikilink")」とのレコーディングを希望していた。しかし、ザ・セクションのメンバーがジャクソン・ブラウンのツアーに出てしまったため実現せず、その代わりとしてこのラインナップが用意された。
+もともとは[ジャクソン・ブラウン](../Page/ジャクソン・ブラウン.md "wikilink")のバック・バンドを務めていた[スタジオ・ミュージシャン](../Page/スタジオ・ミュージシャン.md "wikilink")のユニット「[ザ・セクション](https://ja.wikipedia.org/wiki/:en:The_Section_\(band\) "wikilink")」とのレコーディングを希望していた。しかし、ザ・セクションのメンバーがジャクソン・ブラウンのツアーに出てしまったため実現せず、その代わりとしてこのラインナップが用意された。
 
 [メロディ](../Page/メロディ.md "wikilink")は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で作っていたが、[歌詞](../Page/歌詞.md "wikilink")はすべて[アメリカで書いている](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。現地の風景やレコーディングでのサウンドに触発されて書かれたものが多い。
 
@@ -29,8 +29,8 @@
 
 ## 制作時のエピソード
 
-  - [TOTOのギタリストである](https://ja.wikipedia.org/wiki/TOTO_\(バンド\) "wikilink")[スティーヴ・ルカサー](../Page/スティーヴ・ルカサー.md "wikilink")が参加しているが、世界的な人気ミュージシャンであるルカサーが本当に来てくれるのか疑心暗鬼だった。するとレコーディング当日、大きく「TOTO」と書かれたツアー・トラックでスタジオに現れたルカサーを見て、一同は興奮したという。[町支寛二](../Page/町支寛二.md "wikilink")によると、当時のルカサーは若干天狗になっていたらしいが、水谷と町支の二人は惚れ惚れしながらルカサーのプレイを間近で見ていた。
-  - ピアノで参加している[ニッキー・ホプキンス](https://ja.wikipedia.org/wiki/ニッキー・ホプキンス "wikilink")は、浜田の楽曲を非常に気に入り、「一緒にツアーをやろう」と持ちかけた。最初は社交辞令かと思っていたが、その後も何度も話を持ちかけられ、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")に帰る最終日にもその話をされて、住所と電話番号を書いた紙まで渡された。ホプキンスは[1994年](../Page/1994年.md "wikilink")に死去しており、ツアーは実現していない。
+  - [TOTOのギタリストである](../Page/TOTO_\(バンド\).md "wikilink")[スティーヴ・ルカサー](../Page/スティーヴ・ルカサー.md "wikilink")が参加しているが、世界的な人気ミュージシャンであるルカサーが本当に来てくれるのか疑心暗鬼だった。するとレコーディング当日、大きく「TOTO」と書かれたツアー・トラックでスタジオに現れたルカサーを見て、一同は興奮したという。[町支寛二](../Page/町支寛二.md "wikilink")によると、当時のルカサーは若干天狗になっていたらしいが、水谷と町支の二人は惚れ惚れしながらルカサーのプレイを間近で見ていた。
+  - ピアノで参加している[ニッキー・ホプキンス](../Page/ニッキー・ホプキンス.md "wikilink")は、浜田の楽曲を非常に気に入り、「一緒にツアーをやろう」と持ちかけた。最初は社交辞令かと思っていたが、その後も何度も話を持ちかけられ、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")に帰る最終日にもその話をされて、住所と電話番号を書いた紙まで渡された。ホプキンスは[1994年](../Page/1994年.md "wikilink")に死去しており、ツアーは実現していない。
 
 ## 収録曲
 
@@ -61,7 +61,7 @@
         クレジットに表記はないが、アルバム・バージョンである。
 10. **家路**
       -
-        こちらも「ON THE ROAD 2001」で歌詞の変更があった。そのことについて浜田は「このままでは歌えないと思った」と語っている。そのバージョンは[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")『[The Best of Shogo Hamada vol.2](https://ja.wikipedia.org/wiki/The_Best_of_Shogo_Hamada_vol.2 "wikilink")』に収録されている。現在でも非常に人気の高い曲で、[2009年](../Page/2009年.md "wikilink")に実施された[ファンクラブ](../Page/ファンクラブ.md "wikilink")での人気投票では1位だった。
+        こちらも「ON THE ROAD 2001」で歌詞の変更があった。そのことについて浜田は「このままでは歌えないと思った」と語っている。そのバージョンは[2006年](../Page/2006年.md "wikilink")の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")『[The Best of Shogo Hamada vol.2](https://ja.wikipedia.org/wiki/The_Best_of_Shogo_Hamada_vol.2 "wikilink")』に収録されている。現在でも非常に人気の高い曲で、[2009年](../Page/2009年.md "wikilink")に実施された[ファンクラブ](../Page/ファンクラブ.md "wikilink")での人気投票では1位だった。
 
 ## 参加ミュージシャン
 
@@ -70,7 +70,7 @@
   - Drums：[Mike Baird](https://ja.wikipedia.org/wiki/マイク・ベアード "wikilink")
   - Bass：Scott Chambers
   - Guitar：[Steve Lukather](../Page/スティーヴ・ルカサー.md "wikilink"), Steve Sykes, Joey Brasler
-  - Acoustic Piano：[Nicky Hopkins](https://ja.wikipedia.org/wiki/ニッキー・ホプキンス "wikilink")
+  - Acoustic Piano：[Nicky Hopkins](../Page/ニッキー・ホプキンス.md "wikilink")
   - Hammond Organ：Greg Mathieson
   - Sax：[Larry Williams](../Page/ラリー・ウィリアムズ_\(ジャズ・ミュージシャン\).md "wikilink")
   - Solo Guitar：Steve Lukather
@@ -83,7 +83,7 @@
   - Guitar：Steve Lukather, Steve Sykes
   - Acoustic Piano：Nicky Hopkins
   - Synthesizer：[Michael Boddicker](https://ja.wikipedia.org/wiki/:en:Michael_Boddicker "wikilink")
-  - Percussion：[Lenny Castro](https://ja.wikipedia.org/wiki/TOTO_\(バンド\) "wikilink")
+  - Percussion：[Lenny Castro](../Page/TOTO_\(バンド\).md "wikilink")
   - Solo Guitar：Steve Lukather
   - Chorus：町支寛二
 
@@ -92,7 +92,7 @@
   - Drums：Mike Baird
   - Bass：Scott Chambers
   - Guitar：[Fred Tackett](https://ja.wikipedia.org/wiki/:en:Fred_Tackett "wikilink")
-  - Acoustic Piano, [Solina](https://ja.wikipedia.org/wiki/:en:ARP_String_Ensemble "wikilink"), [Fender](https://ja.wikipedia.org/wiki/フェンダー_\(楽器メーカー\) "wikilink") [Rhodes](https://ja.wikipedia.org/wiki/ローズ・ピアノ "wikilink") & [Wurlitzer Electric Piano](https://ja.wikipedia.org/wiki/:en:Wurlitzer_electric_piano "wikilink")：Nicky Hopkins
+  - Acoustic Piano, [Solina](https://ja.wikipedia.org/wiki/:en:ARP_String_Ensemble "wikilink"), [Fender](../Page/フェンダー_\(楽器メーカー\).md "wikilink") [Rhodes](../Page/ローズ・ピアノ.md "wikilink") & [Wurlitzer Electric Piano](https://ja.wikipedia.org/wiki/:en:Wurlitzer_electric_piano "wikilink")：Nicky Hopkins
   - Solo Guitar：Fred Tackett
   - Chorus：町支寛二
 

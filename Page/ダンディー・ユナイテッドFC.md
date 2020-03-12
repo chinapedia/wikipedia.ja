@@ -3,7 +3,7 @@
 
 **ダンディー・ユナイテッドFC**（）は、[スコットランド](../Page/スコットランド.md "wikilink")東部の都市[ダンディーを本拠地とする](https://ja.wikipedia.org/wiki/ダンディー_\(スコットランド\) "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。
 
-[1909年](../Page/1909年.md "wikilink")、「ダンディー・ハイバーニアン」として創設。[1923年](../Page/1923年.md "wikilink")に現在の名称となった。1982-1983シーズンにリーグ優勝を果たしている。1983-84シーズンの[UEFAチャンピオンズカップ](https://ja.wikipedia.org/wiki/UEFAチャンピオンズカップ "wikilink")では1回戦でĦamrun Spartans、2回戦で[スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")、3回戦で[SKラピード・ウィーン](https://ja.wikipedia.org/wiki/SKラピード・ウィーン "wikilink")を倒して準決勝に進出したが、準決勝で[ASローマ](../Page/ASローマ.md "wikilink")に2試合合計2-3で敗れた\[1\]。1986-87シーズンの[UEFAカップでは決勝で](../Page/UEFAヨーロッパリーグ.md "wikilink")[IFKヨーテボリ](../Page/IFKヨーテボリ.md "wikilink")に敗れた\[2\]。ホーム・アンド・アウェイで行われた決勝の、タナディス・パークで行われた試合後にダンディー・ユナイテッドのファン全員が席から立ち上がり、優勝したヨーテボリのイレブンに盛大な拍手を送った\[3\]。この事が評価され、同年から創設された[FIFAフェアプレー賞](https://ja.wikipedia.org/wiki/FIFAフェアプレー賞 "wikilink")に、ダンディー・ユナイテッドのファンが選出された\[4\]。
+[1909年](../Page/1909年.md "wikilink")、「ダンディー・ハイバーニアン」として創設。[1923年](../Page/1923年.md "wikilink")に現在の名称となった。1982-1983シーズンにリーグ優勝を果たしている。1983-84シーズンの[UEFAチャンピオンズカップ](https://ja.wikipedia.org/wiki/UEFAチャンピオンズカップ "wikilink")では1回戦でĦamrun Spartans、2回戦で[スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")、3回戦で[SKラピード・ウィーン](../Page/SKラピード・ウィーン.md "wikilink")を倒して準決勝に進出したが、準決勝で[ASローマ](../Page/ASローマ.md "wikilink")に2試合合計2-3で敗れた\[1\]。1986-87シーズンの[UEFAカップでは決勝で](../Page/UEFAヨーロッパリーグ.md "wikilink")[IFKヨーテボリ](../Page/IFKヨーテボリ.md "wikilink")に敗れた\[2\]。ホーム・アンド・アウェイで行われた決勝の、タナディス・パークで行われた試合後にダンディー・ユナイテッドのファン全員が席から立ち上がり、優勝したヨーテボリのイレブンに盛大な拍手を送った\[3\]。この事が評価され、同年から創設された[FIFAフェアプレー賞](https://ja.wikipedia.org/wiki/FIFAフェアプレー賞 "wikilink")に、ダンディー・ユナイテッドのファンが選出された\[4\]。
 
 ## タイトル
 
@@ -665,7 +665,7 @@
 
   - [ポール・エガーティ](https://ja.wikipedia.org/wiki/ポール・エガーティ "wikilink")　1974-1990
 
-  - [スチュワート・バクスター](https://ja.wikipedia.org/wiki/スチュワート・バクスター "wikilink")　1975-1976
+  - [スチュワート・バクスター](../Page/スチュワート・バクスター.md "wikilink")　1975-1976
 
   - [ピーター・ボネッティ](https://ja.wikipedia.org/wiki/ピーター・ボネッティ "wikilink")　1979
 

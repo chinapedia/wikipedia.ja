@@ -11,7 +11,7 @@
 
 CeBIT は伝統的な毎年開催されるコンピューター部品の[ハノーファー・メッセ](https://ja.wikipedia.org/wiki/ハノーファー・メッセ "wikilink")（ハノーファー・フェア）の大規模な見本市である。1970年にメッセゲレンデ・ハノーファーの新しい世界最大級のホール1の完成に伴い初めて開催された\[1\] 1980年代には情報技術と通信は産業フェアの一部として開催され、1986年から独立してメインのハノーファー・メッセよりも4週間早く開催が始まった。
 
-CeBITの規模は年々拡大を続け、家庭用と娯楽市場の分野は *'CeBIT Home*として夏に隔年開催が計画され1996年と1998年に開催された。[ハノーヴァー万国博覧会](https://ja.wikipedia.org/wiki/ハノーヴァー万国博覧会 "wikilink")がハノーヴァ会場で開催の為、2000 CeBIT Homeは[ライプツィヒ](https://ja.wikipedia.org/wiki/ライプツィヒ "wikilink")で開催されるはずだったが中止され、その後開かれていない。
+CeBITの規模は年々拡大を続け、家庭用と娯楽市場の分野は *'CeBIT Home*として夏に隔年開催が計画され1996年と1998年に開催された。[ハノーヴァー万国博覧会](../Page/ハノーヴァー万国博覧会.md "wikilink")がハノーヴァ会場で開催の為、2000 CeBIT Homeは[ライプツィヒ](https://ja.wikipedia.org/wiki/ライプツィヒ "wikilink")で開催されるはずだったが中止され、その後開かれていない。
 
 出展面積はおよそ450,000 [m²](../Page/平方メートル.md "wikilink") 、[COMPUTEX](https://ja.wikipedia.org/wiki/COMPUTEX "wikilink")や長らく開催されていない[COMDEX](../Page/COMDEX.md "wikilink")より大きい。2007年には CeBIT expo の出展社数は過去最高200,000以上になった。\[2\]
 
@@ -71,14 +71,14 @@ CeBITの規模は年々拡大を続け、家庭用と娯楽市場の分野は *'
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/3月10日.md" title="wikilink">3月10日</a> - <a href="../Page/3月16日.md" title="wikilink">16日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/3月10日.md" title="wikilink">3月10日</a> - <a href="../Page/3月16日.md" title="wikilink">16日</a></p></td>
 <td><p>7日間</p></td>
 <td><p>社</p></td>
 <td><p>人</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/3月9日.md" title="wikilink">3月9日</a> - <a href="../Page/3月15日.md" title="wikilink">15日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/3月9日.md" title="wikilink">3月9日</a> - <a href="../Page/3月15日.md" title="wikilink">15日</a></p></td>
 <td><p>7日間</p></td>
 <td><p>社</p></td>
 <td><p>人</p></td>
@@ -155,7 +155,7 @@ CeBITの規模は年々拡大を続け、家庭用と娯楽市場の分野は *'
 1999年からCeBITの主催者である *Deutsche Messe AG* ("German Trade Show, Ltd.")はドイツ国外でCeBITの名前で主催している
 
   - CeBIT アジア：中国 上海
-  - CeBIT オーストラリア：[シドニー](https://ja.wikipedia.org/wiki/シドニー "wikilink")
+  - CeBIT オーストラリア：[シドニー](../Page/シドニー.md "wikilink")
   - CeBIT ユーラシア Bilişim：トルコ [イスタンブール](../Page/イスタンブール.md "wikilink")
 
 CeBIT アメリカ/USAは2003年と2004年に開催されたが2005年は中止された。

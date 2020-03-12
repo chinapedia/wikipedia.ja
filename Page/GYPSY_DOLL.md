@@ -1,11 +1,11 @@
 > この記事は[GYPSY DOLL](https://ja.wikipedia.org/wiki/GYPSY_DOLL)から翻訳されています。
 
 
-「**GYPSY DOLL**」（ジプシー・ドール）は、[ZYYG](https://ja.wikipedia.org/wiki/ZYYG "wikilink")の7枚目のシングル。
+「**GYPSY DOLL**」（ジプシー・ドール）は、[ZYYG](../Page/ZYYG.md "wikilink")の7枚目のシングル。
 
 ## 作品解説
 
-ZYYG唯一の3曲入りマキシシングル。カップリングの「[BLOOD ON BLOOD](https://ja.wikipedia.org/wiki/BLOOD_ON_BLOOD "wikilink")」は、[テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[パワーレンジャー](https://ja.wikipedia.org/wiki/マイティ・モーフィン・パワーレンジャー "wikilink")』エンディングテーマ。「微笑だけをくれないか」は『J-ROCK ARTIST BEST 50』エンディングテーマ。
+ZYYG唯一の3曲入りマキシシングル。カップリングの「[BLOOD ON BLOOD](https://ja.wikipedia.org/wiki/BLOOD_ON_BLOOD "wikilink")」は、[テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[パワーレンジャー](../Page/マイティ・モーフィン・パワーレンジャー.md "wikilink")』エンディングテーマ。「微笑だけをくれないか」は『J-ROCK ARTIST BEST 50』エンディングテーマ。
 
 ## 批評
 

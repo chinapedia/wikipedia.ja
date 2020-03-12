@@ -1,17 +1,17 @@
 > この記事は[Peace Of Mind \(\)](https://ja.wikipedia.org/wiki/Peace_Of_Mind_\(\))から翻訳されています。
 
 
-『**Peace Of Mind**』（ピース・オブ・マインド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")・[B'z](../Page/B'z.md "wikilink")のボーカリスト・[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")がソロでリリースした、3作目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。
+『**Peace Of Mind**』（ピース・オブ・マインド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")のボーカリスト・[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")がソロでリリースした、3作目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 内容
 
 初のソロツアーが開催された[2004年](../Page/2004年.md "wikilink")に制作されたオリジナルアルバム。
 
-初めてシングル作品が収録され、本作以降はアルバムに先行してシングル作品が製作されるようになる。本作では3rdシングル「[Wonderland](https://ja.wikipedia.org/wiki/Wonderland_\(稲葉浩志の曲\) "wikilink")」から2曲が収録されているが、前年に発売された2ndシングル「[KI](https://ja.wikipedia.org/wiki/KI_\(稲葉浩志のシングル\) "wikilink")」は全曲未収録となった。
+初めてシングル作品が収録され、本作以降はアルバムに先行してシングル作品が製作されるようになる。本作では3rdシングル「[Wonderland](../Page/Wonderland_\(稲葉浩志の曲\).md "wikilink")」から2曲が収録されているが、前年に発売された2ndシングル「[KI](../Page/KI_\(稲葉浩志のシングル\).md "wikilink")」は全曲未収録となった。
 
 初回限定盤には「正面衝突」のライブ映像が収録されたDVDが付属されている。
 
-ギターには以前より親交があった[スティーヴィー・サラス](../Page/スティーヴィー・サラス.md "wikilink")が参加、またソロツアーに参加した、[doaの](https://ja.wikipedia.org/wiki/doa_\(ミュージシャン\) "wikilink")[徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")と[大田紳一郎](../Page/大田紳一郎.md "wikilink")が参加している。
+ギターには以前より親交があった[スティーヴィー・サラス](../Page/スティーヴィー・サラス.md "wikilink")が参加、またソロツアーに参加した、[doaの](https://ja.wikipedia.org/wiki/doa_\(ミュージシャン\) "wikilink")[徳永暁人](../Page/徳永暁人.md "wikilink")と[大田紳一郎](../Page/大田紳一郎.md "wikilink")が参加している。
 
 アルバムは[アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")主体の楽曲が最初と中盤、最後に配置されている構成で、この3曲は他の収録曲に比べて演奏時間が短い。
 
@@ -25,9 +25,9 @@
 
 1.  **おかえり**(2:46)
       -
-        イントロなしでサビから始まる、[アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")がフィーチャーされた楽曲で、[徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")と[大田紳一郎](../Page/大田紳一郎.md "wikilink")による[コーラス](https://ja.wikipedia.org/wiki/コーラス "wikilink")も導入されている。本作収録曲で最も短い曲。
+        イントロなしでサビから始まる、[アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")がフィーチャーされた楽曲で、[徳永暁人](../Page/徳永暁人.md "wikilink")と[大田紳一郎](../Page/大田紳一郎.md "wikilink")による[コーラス](https://ja.wikipedia.org/wiki/コーラス "wikilink")も導入されている。本作収録曲で最も短い曲。
         2004年のソロツアー「[Koshi Inaba LIVE 2004 〜en〜](../Page/LIVE_2004_〜en〜.md "wikilink")」で一足先に演奏された。
-2.  **[Wonderland](https://ja.wikipedia.org/wiki/Wonderland_\(稲葉浩志の曲\) "wikilink")**(4:05)
+2.  **[Wonderland](../Page/Wonderland_\(稲葉浩志の曲\).md "wikilink")**(4:05)
       -
         3rdシングル。
 3.  **THE RACE**(4:48)
@@ -37,13 +37,13 @@
         同年のソロツアー後半の客出し曲として流れたが、2014年のライブ「[Koshi Inaba LIVE 2014 〜en-ball〜](https://ja.wikipedia.org/wiki/Koshi_Inaba_LIVE_2014_〜en-ball〜 "wikilink")」で初演奏された。
 4.  **正面衝突**(4:29)
       -
-        イントロの[ブルースハープは](https://ja.wikipedia.org/wiki/ハーモニカ "wikilink")、稲葉自身が演奏している。[スティーヴィー・サラス](../Page/スティーヴィー・サラス.md "wikilink")らとのセッションにより制作された（作曲も共同クレジットになっている）。稲葉曰く「結構、いやらしい曲」で「オケはほとんど一発録りで“正面衝突”の部分だけが最初にあって足していった」という。
-        2004年の[THE ROCK ODYSSEYに参加した際に未発表曲として](https://ja.wikipedia.org/wiki/POCARI_SWEAT_BLUE_WAVE_THE_ROCK_ODYSSEY_2004 "wikilink")1曲目に演奏され、本作の初回盤付属DVDにはその模様が収録されている。
+        イントロの[ブルースハープは](../Page/ハーモニカ.md "wikilink")、稲葉自身が演奏している。[スティーヴィー・サラス](../Page/スティーヴィー・サラス.md "wikilink")らとのセッションにより制作された（作曲も共同クレジットになっている）。稲葉曰く「結構、いやらしい曲」で「オケはほとんど一発録りで“正面衝突”の部分だけが最初にあって足していった」という。
+        2004年の[THE ROCK ODYSSEYに参加した際に未発表曲として](../Page/POCARI_SWEAT_BLUE_WAVE_THE_ROCK_ODYSSEY_2004.md "wikilink")1曲目に演奏され、本作の初回盤付属DVDにはその模様が収録されている。
         サラスの3rdアルバム『BE WHAT IT IS』の3曲目収録「Head On Collision」に稲葉がボーカルで参加しているが、これはこの曲の英語バージョンであり、サラスと稲葉が新たに英詞を書き下ろして新録した。その際、サラスに合わす為、自身のキーを下げて歌っている。
 5.  **水平線**(4:43)
       -
-        同年のソロツアーで初披露された楽曲で、[PVも制作された](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。
-        [アコーディオン](https://ja.wikipedia.org/wiki/アコーディオン "wikilink")は[アレンジャー](https://ja.wikipedia.org/wiki/アレンジャー "wikilink")の[寺地秀行](https://ja.wikipedia.org/wiki/寺地秀行 "wikilink")のアイディアで[打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")になっている。
+        同年のソロツアーで初披露された楽曲で、[PVも制作された](../Page/ミュージック・ビデオ.md "wikilink")。
+        [アコーディオン](../Page/アコーディオン.md "wikilink")は[アレンジャー](https://ja.wikipedia.org/wiki/アレンジャー "wikilink")の[寺地秀行](https://ja.wikipedia.org/wiki/寺地秀行 "wikilink")のアイディアで[打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")になっている。
 6.  **すべての幸せをオアズケに**(4:40)
       -
         [詞先](https://ja.wikipedia.org/wiki/詞先 "wikilink")で作られた楽曲で、稲葉曰く「タイトルだけみると嫌なヤツって思われるかも」とのこと。
@@ -67,7 +67,7 @@
       -
         イントロの叫び声は[ドラムを担当したケニーである](../Page/ドラムセット.md "wikilink")。
         「[Koshi Inaba LIVE 2016 〜enIII〜](https://ja.wikipedia.org/wiki/Koshi_Inaba_LIVE_2016_〜enIII〜 "wikilink")」にて初演奏となった。
-12. **[I AM YOUR BABY](https://ja.wikipedia.org/wiki/Wonderland_\(稲葉浩志の曲\) "wikilink")**(4:33)
+12. **[I AM YOUR BABY](../Page/Wonderland_\(稲葉浩志の曲\).md "wikilink")**(4:33)
       -
         3rdシングル「Wonderland」の[カップリング](https://ja.wikipedia.org/wiki/カップリング "wikilink")。
         表記はされていないがアルバムバージョンであり、ブルースハープが別テイクになっている。
@@ -87,7 +87,7 @@
 
 <!-- end list -->
 
-  - 「**正面衝突**」 [THE ROCK ODYSSEY](https://ja.wikipedia.org/wiki/POCARI_SWEAT_BLUE_WAVE_THE_ROCK_ODYSSEY_2004 "wikilink") at [横浜国際総合競技場](../Page/横浜国際総合競技場.md "wikilink") （2004年[7月24日](../Page/7月24日.md "wikilink")）
+  - 「**正面衝突**」 [THE ROCK ODYSSEY](../Page/POCARI_SWEAT_BLUE_WAVE_THE_ROCK_ODYSSEY_2004.md "wikilink") at [横浜国際総合競技場](../Page/横浜国際総合競技場.md "wikilink") （2004年[7月24日](../Page/7月24日.md "wikilink")）
 
 ## タイアップ
 
@@ -95,11 +95,11 @@
 
 ## 参加ミュージシャン
 
-  - [稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、全曲[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")、[ギター](../Page/ギター.md "wikilink")（\#1.5.10.14）、[アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")（\#7.12）、[ブルースハープ](https://ja.wikipedia.org/wiki/ハーモニカ "wikilink")（\#4.12）
+  - [稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、全曲[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")、[ギター](../Page/ギター.md "wikilink")（\#1.5.10.14）、[アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")（\#7.12）、[ブルースハープ](../Page/ハーモニカ.md "wikilink")（\#4.12）
   - [大賀好修](../Page/大賀好修.md "wikilink")：[スライドギター](../Page/スライドギター.md "wikilink")（\#2）、アコースティックギター（\#2.6）、[エレクトリックギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")（\#6）、編曲（\#2.3.6)
   - [スティーヴィー・サラス](../Page/スティーヴィー・サラス.md "wikilink")：エレクトリックギター（\#2.6.12.13）、ギター（\#3.4.8.11）、作曲・編曲（\#4.8）
   - [寺島良一](../Page/寺島良一.md "wikilink")：ギター・編曲（\#9）
-  - [徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")：[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")（\#1.2.7.11.13）、アコースティックギター（\#13）、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")（\#1.9）、編曲（\#11.13）
+  - [徳永暁人](../Page/徳永暁人.md "wikilink")：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")（\#1.2.7.11.13）、アコースティックギター（\#13）、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")（\#1.9）、編曲（\#11.13）
   - [寺地秀行](https://ja.wikipedia.org/wiki/寺地秀行 "wikilink")：編曲（\#1.5.7.10.12.14）
   - [グレッグ・アップチャーチ](../Page/パドル・オブ・マッド.md "wikilink")：[ドラム](../Page/ドラムセット.md "wikilink")（\#2.7.13）
   - ケニー・アロノフ：ドラム（\#3.5.6.11.12）
@@ -107,11 +107,11 @@
   - T-Bone Wolk：ベース（\#3.6.7.12）
   - ジャラ・ハリス：ベース（\#4.8）、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")（\#8）
   - [青木智仁](../Page/青木智仁.md "wikilink")：ベース（\#5）
-  - [麻井寛史](https://ja.wikipedia.org/wiki/The★tambourines "wikilink")：ベース（\#10）
+  - [麻井寛史](../Page/The★tambourines.md "wikilink")：ベース（\#10）
   - [大田紳一郎](../Page/大田紳一郎.md "wikilink")：コーラス（\#1.9）
   - [小島良喜](../Page/小島良喜.md "wikilink")：[ピアノ](../Page/ピアノ.md "wikilink")（\#5.7）、[オルガン](../Page/オルガン.md "wikilink")（\#6）、[エレクトリックピアノ](../Page/エレクトリックピアノ.md "wikilink")（\#9）
-  - 岸本一遥：[フィドル](https://ja.wikipedia.org/wiki/フィドル "wikilink")（\#12）
-  - 野崎智子：[ミックス](https://ja.wikipedia.org/wiki/ミックス "wikilink")（\#1.2.9）
+  - 岸本一遥：[フィドル](../Page/フィドル.md "wikilink")（\#12）
+  - 野崎智子：[ミックス](../Page/ミックス.md "wikilink")（\#1.2.9）
   - 小林廣行：ミックス（\#3.7.11.12）
   - 福田聡：ミックス（\#4.6.8.10.13.14）
   - 中島顕夫：ミックス（\#5）

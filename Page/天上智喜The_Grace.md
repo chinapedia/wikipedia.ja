@@ -1,11 +1,11 @@
 > この記事は[The Grace](https://ja.wikipedia.org/wiki/The_Grace)から翻訳されています。
 
 
-**天上智喜The Grace** （、てんじょうちき・ザ・グレース、*TENJOCHIKI*）は、主に[韓国で活動していた女性](../Page/大韓民国.md "wikilink")4人組[ダンス](https://ja.wikipedia.org/wiki/ダンス "wikilink")[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")アイドルグループ。「女性版・[東方神起](https://ja.wikipedia.org/wiki/東方神起 "wikilink")」として結成された。[グループ](https://ja.wikipedia.org/wiki/グループ "wikilink")名の意味は、天上の智恵と喜びで四人の名字を並べたものでもある。[SMエンターテインメント](../Page/SMエンターテインメント.md "wikilink")所属。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[rhythm zoneからデビュー](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。公式に解散は発表はしていないが、2009年以降完全活動休止状態である。
+**天上智喜The Grace** （、てんじょうちき・ザ・グレース、*TENJOCHIKI*）は、主に[韓国で活動していた女性](../Page/大韓民国.md "wikilink")4人組[ダンス](../Page/ダンス.md "wikilink")[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")アイドルグループ。「女性版・[東方神起](https://ja.wikipedia.org/wiki/東方神起 "wikilink")」として結成された。[グループ](https://ja.wikipedia.org/wiki/グループ "wikilink")名の意味は、天上の智恵と喜びで四人の名字を並べたものでもある。[SMエンターテインメント](../Page/SMエンターテインメント.md "wikilink")所属。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[rhythm zoneからデビュー](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。公式に解散は発表はしていないが、2009年以降完全活動休止状態である。
 
 ## 略歴
 
-主に韓国と日本で活動。以前は、グループ名が単に『**天上智喜**』であったが、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")後半頃から現在の名前となった。[2004年](../Page/2004年.md "wikilink")に発売された[コンピレーションアルバム](https://ja.wikipedia.org/wiki/コンピレーションアルバム "wikilink")『'04 SUMMER IN SMTOWN.COM』には、メンバー4人が一緒に歌った曲目があるが、クレジットは「天上智喜」ではなく、『ダナ、チヨン、サンデー、ステファニー』名義であった。
+主に韓国と日本で活動。以前は、グループ名が単に『**天上智喜**』であったが、[2006年](../Page/2006年.md "wikilink")後半頃から現在の名前となった。[2004年](../Page/2004年.md "wikilink")に発売された[コンピレーションアルバム](https://ja.wikipedia.org/wiki/コンピレーションアルバム "wikilink")『'04 SUMMER IN SMTOWN.COM』には、メンバー4人が一緒に歌った曲目があるが、クレジットは「天上智喜」ではなく、『ダナ、チヨン、サンデー、ステファニー』名義であった。
 2005年4月末に中国の歌番組でデビュー公演を行い、その2日後の5月1日に韓国で放送デビュー。デビュー当初は韓国内で思うような成績があげられず、また「女性版 [東方神起](https://ja.wikipedia.org/wiki/東方神起 "wikilink")」という触れ込みが人気絶頂期にあった彼らの韓国ファン層の猛反発を招いたために中国と日本での活動に重点を置いていた。日本では[エイベックス](https://ja.wikipedia.org/wiki/エイベックス "wikilink")系列の[rhythm zoneから](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")7枚のシングルと2枚のフルアルバムを発表。
 2007年4月に韓国で発表した正規1集「もう一度、OK？(한번더, OK?)」のタイトル曲「もう一度、OK？(한번더, OK?)」がMカウントダウン、SBS人気歌謡でデビュー2年で初の1位を獲得。
 しかし2009年初頭に日本での全国ツアー練習中にステファニーが持病の椎間板ヘルニアを悪化させたために米国に帰国し、グループ活動を無期限休止。その後3人体制で日本でのレギュラーラジオ番組を継続していたが( fm osaka「天上智喜☆チキ！」(2009年6月24日終了))、番組終了と同時に日本での活動は休止となった。
@@ -36,9 +36,9 @@
 ### シングル
 
   - [CD](../Page/コンパクトディスク.md "wikilink")
-    1.  **[Boomerang](https://ja.wikipedia.org/wiki/Boomerang "wikilink")** （[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月25日](../Page/1月25日.md "wikilink")、RZCD-45274/B、45275）
+    1.  **[Boomerang](https://ja.wikipedia.org/wiki/Boomerang "wikilink")** （[2006年](../Page/2006年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")、RZCD-45274/B、45275）
     2.  **[The Club](https://ja.wikipedia.org/wiki/The_Club "wikilink")** （2006年3月8日、RZCD-45332/B、45333）
-    3.  **[Sweet Flower](https://ja.wikipedia.org/wiki/Sweet_Flower "wikilink")** （2006年4月26日、RZCD-45355/B、45356） - [TBS系列](../Page/TBSテレビ.md "wikilink")[COUNT DOWN TVオープニングテーマ](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")
+    3.  **[Sweet Flower](https://ja.wikipedia.org/wiki/Sweet_Flower "wikilink")** （2006年4月26日、RZCD-45355/B、45356） - [TBS系列](../Page/TBSテレビ.md "wikilink")[COUNT DOWN TVオープニングテーマ](../Page/COUNT_DOWN_TV.md "wikilink")
     4.  **[juicy LOVE](https://ja.wikipedia.org/wiki/juicy_LOVE "wikilink")** （2006年7月12日、RZCD-45399/B、45400）
     5.  **[Piranha](https://ja.wikipedia.org/wiki/Piranha "wikilink")** （[2007年](../Page/2007年.md "wikilink")8月1日、RZCD-45626/B、45627）
     6.  **[Stand Up People](https://ja.wikipedia.org/wiki/Stand_Up_People "wikilink")** （[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")7月23日、RZCD-45943/B、45944）
@@ -53,9 +53,9 @@
 ### Sunday ソロ作品
 
   - リラの片想い （2004年7月28日）
-      - 作詞：[松任谷由実](../Page/松任谷由実.md "wikilink")、プロデュース：[松任谷正隆](https://ja.wikipedia.org/wiki/松任谷正隆 "wikilink")
+      - 作詞：[松任谷由実](../Page/松任谷由実.md "wikilink")、プロデュース：[松任谷正隆](../Page/松任谷正隆.md "wikilink")
   - ウソツキBOY （2005年4月20日）
-      - プロデュース：[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")、『[music.jp](https://ja.wikipedia.org/wiki/music.jp "wikilink")』CM ソング（関東を除く）。[日テレ系](../Page/日本テレビ放送網.md "wikilink")『[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")』サビNAVI。
+      - プロデュース：[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")、『[music.jp](https://ja.wikipedia.org/wiki/music.jp "wikilink")』CM ソング（関東を除く）。[日テレ系](../Page/日本テレビ放送網.md "wikilink")『[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")』サビNAVI。
 
 ### その他
 
@@ -108,13 +108,13 @@
 ## 関連人物
 
   - [東方神起](https://ja.wikipedia.org/wiki/東方神起 "wikilink")
-  - [SEAMO](https://ja.wikipedia.org/wiki/SEAMO "wikilink")
+  - [SEAMO](../Page/SEAMO.md "wikilink")
   - [CLIFF　EDGE](../Page/CLIFF_EDGE.md "wikilink")
-  - [スケボーキング](https://ja.wikipedia.org/wiki/スケボーキング "wikilink")
-  - [CORN HEAD](https://ja.wikipedia.org/wiki/CORN_HEAD "wikilink")
+  - [スケボーキング](../Page/スケボーキング.md "wikilink")
+  - [CORN HEAD](../Page/CORN_HEAD.md "wikilink")
   - [m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")
-  - [WaT](https://ja.wikipedia.org/wiki/WaT "wikilink")
-  - [小池徹平](https://ja.wikipedia.org/wiki/小池徹平 "wikilink")
+  - [WaT](../Page/WaT.md "wikilink")
+  - [小池徹平](../Page/小池徹平.md "wikilink")
 
 ## 脚注
 

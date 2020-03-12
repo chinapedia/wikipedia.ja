@@ -9,9 +9,9 @@
 
 シングルのタイトルは『A』であるが、「A」というタイトルの曲が収録されているわけではなく、「monochrome」、「too late」、「Trauma」、「End roll」の4曲を収録した作品となっている。
 
-4曲共に[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")は制作されず、各楽曲のタイアップCM映像を編集し制作した短い映像（TV-Spot及び店頭用ビデオ）が作られたのみである。
+4曲共に[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")は制作されず、各楽曲のタイアップCM映像を編集し制作した短い映像（TV-Spot及び店頭用ビデオ）が作られたのみである。
 
-累計163.1万枚を売り上げ（[オリコン調べ](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")）、自身初の[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")シングルとなったが、収録曲数の関係上、日本レコード協会では[アルバム](../Page/アルバム.md "wikilink")扱いとなっている。シングルとして取り扱う場合は、自身最大のヒットシングルである。
+累計163.1万枚を売り上げ（[オリコン調べ](../Page/オリコンチャート.md "wikilink")）、自身初の[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")シングルとなったが、収録曲数の関係上、日本レコード協会では[アルバム](../Page/アルバム.md "wikilink")扱いとなっている。シングルとして取り扱う場合は、自身最大のヒットシングルである。
 
 1999年[10月6日](../Page/10月6日.md "wikilink")には、本作収録曲の[リミックス](../Page/リミックス.md "wikilink")を収録した[アナログ盤](https://ja.wikipedia.org/wiki/レコード#12インチシングル盤 "wikilink")『[A -side TYO](http://avex.jp/ayu/discography/detail.php?id=1003299)』と『[A -side NYC](http://avex.jp/ayu/discography/detail.php?id=1003300)』が[Rhythm REPUBLICより](../Page/Rhythm_REPUBLIC.md "wikilink")2作同時発売された。なお[アメリカでは](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[2001年](../Page/2001年.md "wikilink")に「End roll」を除く3曲のリミックスがそれぞれアナログ盤でavex usaより発売されている\[1\]\[2\]\[3\]。
 
@@ -19,11 +19,11 @@
 
 ## 収録曲
 
-全曲[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：ayumi hamasaki / [作曲](../Page/作曲.md "wikilink")：[D・A・I](https://ja.wikipedia.org/wiki/長尾大 "wikilink")
+全曲[作詞](../Page/作詞.md "wikilink")：ayumi hamasaki / [作曲](../Page/作曲.md "wikilink")：[D・A・I](../Page/長尾大.md "wikilink")
 
 1.  **monochrome "Original Version"**
       -
-        [日本たばこ産業](https://ja.wikipedia.org/wiki/日本たばこ産業 "wikilink")「[桃の天然水](https://ja.wikipedia.org/wiki/桃の天然水 "wikilink")」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
+        [日本たばこ産業](https://ja.wikipedia.org/wiki/日本たばこ産業 "wikilink")「[桃の天然水](../Page/桃の天然水.md "wikilink")」[CMソング](../Page/コマーシャルソング.md "wikilink")
 2.  **too late "Original Version"**
       -
         [本田技研工業](../Page/本田技研工業.md "wikilink")「[ジョルノクレア](../Page/ホンダ・ジョルノクレア.md "wikilink")」CMソング
@@ -34,7 +34,7 @@
 5.  **monochrome "Keith Litman's Big City Vocal Mix"**
 6.  **too late "Razor 'N Guido Remix"**
 7.  **Trauma "Heavy Shuffle Mix"**
-8.  **End roll "[HΛL](https://ja.wikipedia.org/wiki/HΛL "wikilink")'s MIX"**
+8.  **End roll "[HΛL](../Page/HΛL.md "wikilink")'s MIX"**
       -
         [森永製菓](https://ja.wikipedia.org/wiki/森永製菓 "wikilink")「こんがりショコラ」CMソング
 9.  **monochrome "instrumental"**

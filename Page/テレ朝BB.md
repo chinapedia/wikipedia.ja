@@ -1,17 +1,17 @@
 > この記事は[BB](https://ja.wikipedia.org/wiki/BB)から翻訳されています。
 
 
-**テレ朝bb**（テレあさビービー、**tv asahi bb**）は、[テレビ朝日](../Page/テレビ朝日.md "wikilink")が行う[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")を利用した[ビデオ・オン・デマンド](https://ja.wikipedia.org/wiki/ビデオ・オン・デマンド "wikilink") (VOD) 事業の名称で、それまでの[ブロードバンド](https://ja.wikipedia.org/wiki/ブロードバンド "wikilink")サイトを集約する形でスタートした。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月1日](../Page/3月1日.md "wikilink")未明より開始。[2009年](../Page/2009年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")、『[テレ朝動画](https://ja.wikipedia.org/wiki/テレ朝動画 "wikilink")』に引き継がれるかたちで一旦終了した。
+**テレ朝bb**（テレあさビービー、**tv asahi bb**）は、[テレビ朝日](../Page/テレビ朝日.md "wikilink")が行う[インターネット](../Page/インターネット.md "wikilink")を利用した[ビデオ・オン・デマンド](../Page/ビデオ・オン・デマンド.md "wikilink") (VOD) 事業の名称で、それまでの[ブロードバンド](https://ja.wikipedia.org/wiki/ブロードバンド "wikilink")サイトを集約する形でスタートした。[2006年](../Page/2006年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")未明より開始。[2009年](../Page/2009年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")、『[テレ朝動画](https://ja.wikipedia.org/wiki/テレ朝動画 "wikilink")』に引き継がれるかたちで一旦終了した。
 
 ## 内容
 
 ### アニメ・特撮の配信
 
-アニメは同局の人気番組『[クレヨンしんちゃん](https://ja.wikipedia.org/wiki/クレヨンしんちゃん_\(アニメ\) "wikilink")』『[ガイキング LEGEND OF DAIKU-MARYU](../Page/ガイキング_LEGEND_OF_DAIKU-MARYU.md "wikilink")』を、特撮はそれまでテレ朝が展開していた、「特撮映像配信」を引き継ぐ形で、『[仮面ライダー剣](https://ja.wikipedia.org/wiki/仮面ライダー剣 "wikilink")』『[特捜戦隊デカレンジャー](https://ja.wikipedia.org/wiki/特捜戦隊デカレンジャー "wikilink")』『[仮面ライダー響鬼](https://ja.wikipedia.org/wiki/仮面ライダー響鬼 "wikilink")』『[魔法戦隊マジレンジャー](https://ja.wikipedia.org/wiki/魔法戦隊マジレンジャー "wikilink")』『[仮面ライダーカブト](https://ja.wikipedia.org/wiki/仮面ライダーカブト "wikilink")』『[轟轟戦隊ボウケンジャー](../Page/轟轟戦隊ボウケンジャー.md "wikilink")』といった作品を有料で配信する。
+アニメは同局の人気番組『[クレヨンしんちゃん](https://ja.wikipedia.org/wiki/クレヨンしんちゃん_\(アニメ\) "wikilink")』『[ガイキング LEGEND OF DAIKU-MARYU](../Page/ガイキング_LEGEND_OF_DAIKU-MARYU.md "wikilink")』を、特撮はそれまでテレ朝が展開していた、「特撮映像配信」を引き継ぐ形で、『[仮面ライダー剣](https://ja.wikipedia.org/wiki/仮面ライダー剣 "wikilink")』『[特捜戦隊デカレンジャー](../Page/特捜戦隊デカレンジャー.md "wikilink")』『[仮面ライダー響鬼](../Page/仮面ライダー響鬼.md "wikilink")』『[魔法戦隊マジレンジャー](../Page/魔法戦隊マジレンジャー.md "wikilink")』『[仮面ライダーカブト](../Page/仮面ライダーカブト.md "wikilink")』『[轟轟戦隊ボウケンジャー](../Page/轟轟戦隊ボウケンジャー.md "wikilink")』といった作品を有料で配信する。
 
 ### スポーツ中継・スポーツ番組の配信
 
-同サイトでは、『[ワールドプロレスリング](../Page/ワールドプロレスリング.md "wikilink")』『[カーグラフィックTV](https://ja.wikipedia.org/wiki/カーグラフィックTV "wikilink")』といったスポーツ中継、スポーツ番組も有料で配信する。
+同サイトでは、『[ワールドプロレスリング](../Page/ワールドプロレスリング.md "wikilink")』『[カーグラフィックTV](../Page/カーグラフィックTV.md "wikilink")』といったスポーツ中継、スポーツ番組も有料で配信する。
 
 ### ANNニュースの配信
 
@@ -19,7 +19,7 @@
 
 ### その他
 
-同年3月中は、「[新・京都迷宮案内](https://ja.wikipedia.org/wiki/京都迷宮案内 "wikilink")」、「[相棒](https://ja.wikipedia.org/wiki/相棒 "wikilink")」、「[時効警察](../Page/時効警察.md "wikilink")」などのドラマ見どころや、「[三竹占い](https://ja.wikipedia.org/wiki/三竹占い "wikilink")」を配信していたが、4月以降は[CS放送の](../Page/衛星放送.md "wikilink")[テレ朝チャンネル](../Page/テレ朝チャンネル.md "wikilink")で放映中のカルチャー番組を中心に配信する。
+同年3月中は、「[新・京都迷宮案内](../Page/京都迷宮案内.md "wikilink")」、「[相棒](https://ja.wikipedia.org/wiki/相棒 "wikilink")」、「[時効警察](../Page/時効警察.md "wikilink")」などのドラマ見どころや、「[三竹占い](../Page/三竹占い.md "wikilink")」を配信していたが、4月以降は[CS放送の](../Page/衛星放送.md "wikilink")[テレ朝チャンネル](../Page/テレ朝チャンネル.md "wikilink")で放映中のカルチャー番組を中心に配信する。
 
 ### システム
 
@@ -27,7 +27,7 @@
 
 ## 関連項目
 
-  - [インターネットテレビ](https://ja.wikipedia.org/wiki/インターネットテレビ "wikilink")
+  - [インターネットテレビ](../Page/インターネットテレビ.md "wikilink")
   - [第2日本テレビ](../Page/第2日本テレビ.md "wikilink")
   - [TBSオンデマンド](https://ja.wikipedia.org/wiki/TBSオンデマンド "wikilink")
   - [フジテレビ On Demand](https://ja.wikipedia.org/wiki/フジテレビ_On_Demand "wikilink")

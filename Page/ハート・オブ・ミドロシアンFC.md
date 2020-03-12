@@ -202,7 +202,7 @@
 <td><p>1960-61</p></td>
 <td><p><a href="../Page/UEFAチャンピオンズカップ_1960-61.md" title="wikilink">UEFAチャンピオンズカップ</a></p></td>
 <td><p>予選</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SLベンフィカ" title="wikilink">ベンフィカ</a></p></td>
+<td><p><a href="../Page/SLベンフィカ.md" title="wikilink">ベンフィカ</a></p></td>
 <td><p>1–2</p></td>
 <td><p>0–3</p></td>
 <td><p>'''1–5</p></td>
@@ -255,7 +255,7 @@
 </tr>
 <tr class="odd">
 <td><p>3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レアル・サラゴサ" title="wikilink">レアル・サラゴサ</a></p></td>
+<td><p><a href="../Page/レアル・サラゴサ.md" title="wikilink">レアル・サラゴサ</a></p></td>
 <td><p>3–3</p></td>
 <td><p>2–2</p></td>
 <td><p>0–1</p></td>
@@ -277,7 +277,7 @@
 </tr>
 <tr class="odd">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハンブルガーSV" title="wikilink">ハンブルガー</a></p></td>
+<td><p><a href="../Page/ハンブルガーSV.md" title="wikilink">ハンブルガー</a></p></td>
 <td><p>1–4</p></td>
 <td><p>2–4</p></td>
 <td><p>'''3–8</p></td>
@@ -304,7 +304,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/FKデュクラ・プラハ" title="wikilink">デュクラ・プラハ</a></p></td>
 <td><p>3–2</p></td>
 <td><p>0–1</p></td>
-<td><p>'''3–3 (<a href="https://ja.wikipedia.org/wiki/アウェーゴール" title="wikilink">a</a>)</p></td>
+<td><p>'''3–3 (<a href="../Page/アウェーゴール.md" title="wikilink">a</a>)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
 </tr>
@@ -321,7 +321,7 @@
 </tr>
 <tr class="odd">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FKアウストリア・ウィーン" title="wikilink">アウストリア・ウィーン</a></p></td>
+<td><p><a href="../Page/FKアウストリア・ウィーン.md" title="wikilink">アウストリア・ウィーン</a></p></td>
 <td><p>0–0</p></td>
 <td><p>1–0</p></td>
 <td><p>'''1–0</p></td>
@@ -378,7 +378,7 @@
 <td><p>1992-93</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1992-93" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SKスラヴィア・プラハ" title="wikilink">スラヴィア・プラハ</a></p></td>
+<td><p><a href="../Page/SKスラヴィア・プラハ.md" title="wikilink">スラヴィア・プラハ</a></p></td>
 <td><p>4–2</p></td>
 <td><p>0–1</p></td>
 <td><p>'''4–3</p></td>
@@ -411,7 +411,7 @@
 <td><p>1996-97</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1996-97" title="wikilink">UEFAカップウィナーズカップ</a></p></td>
 <td><p>予備予選</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レッドスター・ベオグラード" title="wikilink">ツルヴェナ・ズヴェズダ</a></p></td>
+<td><p><a href="../Page/レッドスター・ベオグラード.md" title="wikilink">ツルヴェナ・ズヴェズダ</a></p></td>
 <td><p>1–1</p></td>
 <td><p>0–0</p></td>
 <td><p>'''1–1 (a)</p></td>
@@ -431,7 +431,7 @@
 </tr>
 <tr class="odd">
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RCDマヨルカ" title="wikilink">マヨルカ</a></p></td>
+<td><p><a href="../Page/RCDマヨルカ.md" title="wikilink">マヨルカ</a></p></td>
 <td><p>0–1</p></td>
 <td><p>1–1</p></td>
 <td><p>'''1–2</p></td>
@@ -466,7 +466,7 @@
 <td><p>2003-04</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_2003-04" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FKジェリェズニチャル・サラエヴォ" title="wikilink">ジェリェズニチャル・サラエヴォ</a></p></td>
+<td><p><a href="../Page/FKジェリェズニチャル・サラエヴォ.md" title="wikilink">ジェリェズニチャル・サラエヴォ</a></p></td>
 <td><p>2–0</p></td>
 <td><p>0–0</p></td>
 <td><p>'''2–0</p></td>
@@ -475,7 +475,7 @@
 </tr>
 <tr class="odd">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCジロンダン・ボルドー" title="wikilink">ボルドー</a></p></td>
+<td><p><a href="../Page/FCジロンダン・ボルドー.md" title="wikilink">ボルドー</a></p></td>
 <td><p>0–2</p></td>
 <td><p>1–0</p></td>
 <td><p>'''1–2</p></td>
@@ -488,7 +488,7 @@
 <td><p>2004-05</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_2004-05" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SCブラガ" title="wikilink">ブラガ</a></p></td>
+<td><p><a href="../Page/SCブラガ.md" title="wikilink">ブラガ</a></p></td>
 <td><p>3–1</p></td>
 <td><p>2–2</p></td>
 <td><p>'''5–3</p></td>
@@ -507,7 +507,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/シャルケ04" title="wikilink">シャルケ04</a></p></td>
+<td><p><a href="../Page/シャルケ04.md" title="wikilink">シャルケ04</a></p></td>
 <td><p>0-1</p></td>
 <td><p>style="background-color:#CFF" align="center" </p></td>
 <td></td>
@@ -564,7 +564,7 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_2006-07" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ACスパルタ・プラハ" title="wikilink">スパルタ・プラハ</a></p></td>
+<td><p><a href="../Page/ACスパルタ・プラハ.md" title="wikilink">スパルタ・プラハ</a></p></td>
 <td><p>0–2</p></td>
 <td><p>0–0</p></td>
 <td><p>'''0–2</p></td>
@@ -596,7 +596,7 @@
 </tr>
 <tr class="even">
 <td><p>プレーオフ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トッテナム・ホットスパーFC" title="wikilink">トッテナム</a></p></td>
+<td><p><a href="../Page/トッテナム・ホットスパーFC.md" title="wikilink">トッテナム</a></p></td>
 <td><p>0–5</p></td>
 <td><p>0–0</p></td>
 <td><p>'''0–5</p></td>
@@ -721,7 +721,7 @@
 
   - [アンディ・ウェブスター](../Page/アンディ・ウェブスター.md "wikilink")
 
-  - [エディ・トムソン](https://ja.wikipedia.org/wiki/エディ・トムソン "wikilink")
+  - [エディ・トムソン](../Page/エディ・トムソン.md "wikilink")
 
   - [クレイグ・ゴードン](../Page/クレイグ・ゴードン.md "wikilink")
 
@@ -739,7 +739,7 @@
 
   - [デイヴィナス・チェスナウスキス](https://ja.wikipedia.org/wiki/デイヴィナス・チェスナウスキス "wikilink")
 
-  - [ルドルフ・スカーツェル](https://ja.wikipedia.org/wiki/ルドルフ・スカーツェル "wikilink")
+  - [ルドルフ・スカーツェル](../Page/ルドルフ・スカーツェル.md "wikilink")
 
   - [ロマン・ベドナージュ](https://ja.wikipedia.org/wiki/ロマン・ベドナージュ "wikilink")
 

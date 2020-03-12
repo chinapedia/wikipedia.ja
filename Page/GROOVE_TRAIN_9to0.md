@@ -1,7 +1,7 @@
 > この記事は[GROOVE TRAIN 9to0](https://ja.wikipedia.org/wiki/GROOVE_TRAIN_9to0)から翻訳されています。
 
 
-**GROOVE TRAIN 9to0**（グルーヴ・トレイン・ナイン・トゥ・ゼロ）とは、[CROSS FMが](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月10日](../Page/4月10日.md "wikilink")から[2002年](../Page/2002年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで放送していた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。毎週[金曜日](../Page/金曜日.md "wikilink")の21:00～24:00(JST)、[北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink")にある本社第1スタジオから放送されていた。[ナビゲーターは](https://ja.wikipedia.org/wiki/ディスクジョッキー "wikilink")[MASAKIが務めた](https://ja.wikipedia.org/wiki/MASAKI_\(DJ\) "wikilink")。2011年4月から2014年3月まで「[Groove Train](https://ja.wikipedia.org/wiki/Groove_Train "wikilink")」として9年ぶりに復活していた。
+**GROOVE TRAIN 9to0**（グルーヴ・トレイン・ナイン・トゥ・ゼロ）とは、[CROSS FMが](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月10日](../Page/4月10日.md "wikilink")から[2002年](../Page/2002年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで放送していた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。毎週[金曜日](../Page/金曜日.md "wikilink")の21:00～24:00(JST)、[北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink")にある本社第1スタジオから放送されていた。[ナビゲーターは](../Page/ディスクジョッキー.md "wikilink")[MASAKIが務めた](../Page/MASAKI_\(DJ\).md "wikilink")。2011年4月から2014年3月まで「[Groove Train](https://ja.wikipedia.org/wiki/Groove_Train "wikilink")」として9年ぶりに復活していた。
 
 ## 概要
 
@@ -11,7 +11,7 @@
 
 ## ナビゲーター
 
-  - [MASAKI](https://ja.wikipedia.org/wiki/MASAKI_\(DJ\) "wikilink")
+  - [MASAKI](../Page/MASAKI_\(DJ\).md "wikilink")
 
 <!-- end list -->
 
@@ -27,8 +27,8 @@
   -
     前番組「[BUZZ DRIVE](https://ja.wikipedia.org/wiki/BUZZ_DRIVE "wikilink")」から引き継いだコーナー。スポンサーは[JRA日本中央競馬会](../Page/日本中央競馬会.md "wikilink")。
     毎週JRAの各競馬場で行われた重賞競走の結果や展望などを、最新の[J-POP](../Page/J-POP.md "wikilink")ソングと織り交ぜて紹介。特に[小倉競馬場](../Page/小倉競馬場.md "wikilink")で開催される競走やイヴェントを重点的に紹介した。
-    「[BUZZ DRIVE](https://ja.wikipedia.org/wiki/BUZZ_DRIVE "wikilink")」同様、1999年3月までは[中島ヒロト](https://ja.wikipedia.org/wiki/中島ヒロト "wikilink")がこのコーナーのみナビゲーターを務めていた（このコーナーのみ録音で放送）が、1999年4月よりMASAKIにバトンタッチされた（もちろん生放送）。
-    2001年10月からは「[RADIO GONG SHOW](https://ja.wikipedia.org/wiki/RADIO_GONG_SHOW "wikilink")」の中で放送された。
+    「[BUZZ DRIVE](https://ja.wikipedia.org/wiki/BUZZ_DRIVE "wikilink")」同様、1999年3月までは[中島ヒロト](../Page/中島ヒロト.md "wikilink")がこのコーナーのみナビゲーターを務めていた（このコーナーのみ録音で放送）が、1999年4月よりMASAKIにバトンタッチされた（もちろん生放送）。
+    2001年10月からは「[RADIO GONG SHOW](../Page/RADIO_GONG_SHOW.md "wikilink")」の中で放送された。
 
 <!-- end list -->
 
@@ -63,7 +63,7 @@
 ## エピソードなど
 
   - この番組の定番文句は「**どうか乗り遅れないように！**」。他の番組ナビゲーターがMASAKIのことを話す際にこのセリフを言っていた程、MASAKIの代名詞になっていた。（例：『「どうか乗り遅れないように！」のMASAKI 』など）また、MASAKIのモノマネでこのセリフを言うナビゲーターもいた。
-  - この番組と、前の番組「[RADIO SONIC](../Page/RADIO_SONIC.md "wikilink")」が共同企画したクラブイヴェント「SONIC GROOVE」が、福岡市と北九州市でそれぞれ1回ずつ開催された。MASAKIと「RADIO SONIC」ナビゲーターの[中島ヒロト](https://ja.wikipedia.org/wiki/中島ヒロト "wikilink")、「[ELE-TOPIA](../Page/ELE-TOPIA.md "wikilink")」ナビゲーターの[木本和久](../Page/木本和久.md "wikilink")3人がターンテーブルを回し、「RADIO SONIC」ナビゲーターの[鈴木麻由](https://ja.wikipedia.org/wiki/鈴木麻由 "wikilink")も出演した。
+  - この番組と、前の番組「[RADIO SONIC](../Page/RADIO_SONIC.md "wikilink")」が共同企画したクラブイヴェント「SONIC GROOVE」が、福岡市と北九州市でそれぞれ1回ずつ開催された。MASAKIと「RADIO SONIC」ナビゲーターの[中島ヒロト](../Page/中島ヒロト.md "wikilink")、「[ELE-TOPIA](../Page/ELE-TOPIA.md "wikilink")」ナビゲーターの[木本和久](../Page/木本和久.md "wikilink")3人がターンテーブルを回し、「RADIO SONIC」ナビゲーターの[鈴木麻由](https://ja.wikipedia.org/wiki/鈴木麻由 "wikilink")も出演した。
   - [2000年](../Page/2000年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")にCROSS FMが開局7周年を迎えるため、その前夜祭企画として2000年[8月30日](../Page/8月30日.md "wikilink")27:00-29:00（正確には[8月31日](../Page/8月31日.md "wikilink")3:00-5:00）の「[MIDNIGHT WALK](../Page/MIDNIGHT_WALK.md "wikilink")」で「7TH ANNIVERSARY 前夜祭」を放送、MASAKIやスタッフが制作したノンストップミックスを放送した。この放送の際リスナーからのメッセージを募集したが、そのメールアドレスはこの番組のアドレスが使用された。
 
 ## 関連項目

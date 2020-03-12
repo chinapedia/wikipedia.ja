@@ -1,11 +1,11 @@
 > この記事は[ \(DJ\)](https://ja.wikipedia.org/wiki/_\(DJ\))から翻訳されています。
 
 
-**ルーシー**（[1972年](../Page/1972年.md "wikilink")[9月7日](../Page/9月7日.md "wikilink") - ）は[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")を拠点に活動している[ディスクジョッキー](https://ja.wikipedia.org/wiki/ディスクジョッキー "wikilink")。主に[cross fm](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")・[KBC](../Page/KBC.md "wikilink")にて活動。福岡県北九州市出身。血液型A型。
+**ルーシー**（[1972年](../Page/1972年.md "wikilink")[9月7日](../Page/9月7日.md "wikilink") - ）は[福岡県](../Page/福岡県.md "wikilink")を拠点に活動している[ディスクジョッキー](../Page/ディスクジョッキー.md "wikilink")。主に[cross fm](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")・[KBC](../Page/KBC.md "wikilink")にて活動。福岡県北九州市出身。血液型A型。
 
 ## 人物
 
-  - 「私が憧れている有名女優（[ルーシー・ショーの](https://ja.wikipedia.org/wiki/ザ・ルーシー・ショー "wikilink")[ルシル・ボール](https://ja.wikipedia.org/wiki/ルシル・ボール "wikilink")）にあやかって『ルーシー』と名乗っている」とCROSS FMの担当番組にて述べている。
+  - 「私が憧れている有名女優（[ルーシー・ショーの](https://ja.wikipedia.org/wiki/ザ・ルーシー・ショー "wikilink")[ルシル・ボール](../Page/ルシル・ボール.md "wikilink")）にあやかって『ルーシー』と名乗っている」とCROSS FMの担当番組にて述べている。
   - 同局では当初、同時に登場した[チェルシーとペアでの仕事が多かった](../Page/チェルシー_\(ディスクジョッキー\).md "wikilink")。
   - 現在も後述の番組の担当の他、他の番組でもレポーターやピンチヒッターを担当することが多い。
   - 一時期、[FM MiMiでも番組の](https://ja.wikipedia.org/wiki/FM_MiMi "wikilink")[パーソナリティやリポーターを担当](../Page/ラジオパーソナリティ.md "wikilink")。
@@ -27,12 +27,12 @@
 
 ### CROSS FM
 
-  - 「北九州シティーBOX」（2003年4月-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")3月 毎週月曜日〜金曜日 17:30-17:40）
+  - 「北九州シティーBOX」（2003年4月-[2005年](../Page/2005年.md "wikilink")3月 毎週月曜日〜金曜日 17:30-17:40）
 
 <!-- end list -->
 
   -
-    「[CROSS AFTERNOON SHOW RADIO GOO](https://ja.wikipedia.org/wiki/CROSS_AFTERNOON_SHOW_RADIO_GOO "wikilink")」、「[CROSS EVENING SHOW CATEGORY T.T.](https://ja.wikipedia.org/wiki/CATEGORY_T.T. "wikilink")」内の1コーナー。
+    「[CROSS AFTERNOON SHOW RADIO GOO](../Page/CROSS_AFTERNOON_SHOW_RADIO_GOO.md "wikilink")」、「[CROSS EVENING SHOW CATEGORY T.T.](../Page/CATEGORY_T.T..md "wikilink")」内の1コーナー。
     チェルシーと交代でレポーターを担当した。
     このコーナーは現在も「CATEGORY T.T.」内で続いているがリポーターは交替。
 
@@ -49,7 +49,7 @@
 
 <!-- end list -->
 
-  - 「[CROSS POWER CAST](https://ja.wikipedia.org/wiki/CROSS_POWER_CAST "wikilink")」 （2006年4月-）
+  - 「[CROSS POWER CAST](../Page/CROSS_POWER_CAST.md "wikilink")」 （2006年4月-）
   - 「[friday special ～ amigo amigo \!\! ～](https://ja.wikipedia.org/wiki/friday_special_～_amigo_amigo_!!_～ "wikilink")」（毎週金曜14:00～20:00）
 
 ### KBC
@@ -64,6 +64,6 @@
 
   - CROSS FMが開局10周年を迎えた[2003年](../Page/2003年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")の特別番組「CROSS FM 10th Anniversary Special Program 古船場まつり」では5:00-7:00の間、チェルシーと2人で生放送を担当した。
   - 温泉などにて自分自身の裸体を撮ってCROSS FMの他のナビゲーターに[Eメール](https://ja.wikipedia.org/wiki/Eメール "wikilink")で頻繁に送信しているらしい（他のナビゲーターが本人がいないところで「迷惑だ」と苦笑いして述べている）。またFM MiMiでも温泉からのリポートの際に「すっぽんぽんでレポートしてます」と発言したこともある。
-  - 毎年8月下旬もしくは9月初旬に福岡県[糸島市](https://ja.wikipedia.org/wiki/糸島市 "wikilink")の芥屋海水浴場にて行われている野外コンサート「サンセットライブ」にて[MCをするほか福岡県内のイベントMCもよく務めている](https://ja.wikipedia.org/wiki/司会 "wikilink")。
+  - 毎年8月下旬もしくは9月初旬に福岡県[糸島市](https://ja.wikipedia.org/wiki/糸島市 "wikilink")の芥屋海水浴場にて行われている野外コンサート「サンセットライブ」にて[MCをするほか福岡県内のイベントMCもよく務めている](../Page/司会.md "wikilink")。
 
 [Category:ラジオ番組のパーソナリティ・DJ](https://ja.wikipedia.org/wiki/Category:ラジオ番組のパーソナリティ・DJ "wikilink") [Category:九州地方のローカルタレント](https://ja.wikipedia.org/wiki/Category:九州地方のローカルタレント "wikilink") [Category:北九州市出身の人物](https://ja.wikipedia.org/wiki/Category:北九州市出身の人物 "wikilink") [Category:1972年生](https://ja.wikipedia.org/wiki/Category:1972年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

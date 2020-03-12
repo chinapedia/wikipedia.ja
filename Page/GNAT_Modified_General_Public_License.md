@@ -3,7 +3,7 @@
 
 [thumbロゴ](https://ja.wikipedia.org/wiki/ファイル:Heckert_GNU_white.svg "wikilink")\]\]
 
-**GNAT Modified General Public License**（**Modified GPL**、**GMGPL**）は、[Ada](../Page/Ada.md "wikilink")言語にある[ジェネリック機能のために](https://ja.wikipedia.org/wiki/ジェネリックプログラミング "wikilink") [GNU General Public License](../Page/GNU_General_Public_License.md "wikilink") から派生したライセンス。
+**GNAT Modified General Public License**（**Modified GPL**、**GMGPL**）は、[Ada](../Page/Ada.md "wikilink")言語にある[ジェネリック機能のために](../Page/ジェネリックプログラミング.md "wikilink") [GNU General Public License](../Page/GNU_General_Public_License.md "wikilink") から派生したライセンス。
 
 変更点は以下の通り:
 

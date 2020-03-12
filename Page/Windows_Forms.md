@@ -5,11 +5,11 @@
 
 ## 概要
 
-Windows Formsは[Windows API](https://ja.wikipedia.org/wiki/Windows_API "wikilink")（[GDI](https://ja.wikipedia.org/wiki/Graphics_Device_Interface "wikilink")/[GDI+](https://ja.wikipedia.org/wiki/Graphics_Device_Interface#GDI+ "wikilink")）を[マネージコード](../Page/マネージコード.md "wikilink")でラップし、[Windowsの](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[ユーザーインターフェイス](https://ja.wikipedia.org/wiki/ユーザーインターフェイス "wikilink")要素へのアクセスを提供するフレームワークである。従来から[Visual C++用に提供されていた](https://ja.wikipedia.org/wiki/Visual_C++ "wikilink")、複雑なネイティブ[C++](../Page/C++.md "wikilink")ベースの[MFCや](https://ja.wikipedia.org/wiki/Microsoft_Foundation_Class "wikilink")、旧[Visual Basic](../Page/Visual_Basic.md "wikilink")（VB6）のフォームにとって代わるものとされる一方で、Windows Formsは[MVCモデルを提供していない](https://ja.wikipedia.org/wiki/Model_View_Controller "wikilink")。また、[シェル](../Page/シェル.md "wikilink")関連など一部のAPIに関してはラッパーが存在しないので、それらをWindows Formsで利用するためには[C++/CLI](https://ja.wikipedia.org/wiki/C++/CLI "wikilink")言語でラッパーアセンブリを作成するか、あるいは[P/Invoke](https://ja.wikipedia.org/wiki/P/Invoke "wikilink")などの手法を用いる必要がある。そのほか、MFCアプリケーションからWindows Formsコントロールを利用するなどのシナリオを想定した相互運用機能も用意されている\[3\]\[4\]。
+Windows Formsは[Windows API](../Page/Windows_API.md "wikilink")（[GDI](../Page/Graphics_Device_Interface.md "wikilink")/[GDI+](https://ja.wikipedia.org/wiki/Graphics_Device_Interface#GDI+ "wikilink")）を[マネージコード](../Page/マネージコード.md "wikilink")でラップし、[Windowsの](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[ユーザーインターフェイス](https://ja.wikipedia.org/wiki/ユーザーインターフェイス "wikilink")要素へのアクセスを提供するフレームワークである。従来から[Visual C++用に提供されていた](https://ja.wikipedia.org/wiki/Visual_C++ "wikilink")、複雑なネイティブ[C++](../Page/C++.md "wikilink")ベースの[MFCや](../Page/Microsoft_Foundation_Class.md "wikilink")、旧[Visual Basic](../Page/Visual_Basic.md "wikilink")（VB6）のフォームにとって代わるものとされる一方で、Windows Formsは[MVCモデルを提供していない](../Page/Model_View_Controller.md "wikilink")。また、[シェル](../Page/シェル.md "wikilink")関連など一部のAPIに関してはラッパーが存在しないので、それらをWindows Formsで利用するためには[C++/CLI](https://ja.wikipedia.org/wiki/C++/CLI "wikilink")言語でラッパーアセンブリを作成するか、あるいは[P/Invoke](https://ja.wikipedia.org/wiki/P/Invoke "wikilink")などの手法を用いる必要がある。そのほか、MFCアプリケーションからWindows Formsコントロールを利用するなどのシナリオを想定した相互運用機能も用意されている\[3\]\[4\]。
 
-Windows Formsアプリケーション開発に[Visual Studioを利用することで](https://ja.wikipedia.org/wiki/Visual_Studio "wikilink")、.NET以前の[Visual Basicや](../Page/Visual_Basic.md "wikilink")[Delphi](../Page/Delphi.md "wikilink")のように、GUI（フォームデザイナー）で簡単かつ効率的に画面作成やGUI部品の詳細な設定を行なうことができる（[RAD](https://ja.wikipedia.org/wiki/RAD_\(計算機プログラミング環境\) "wikilink")）。これは、GUI部品の簡単な配置や簡単な設定までしかできないWin32/MFCのダイアログ エディターとは大きく異なる。作成したウィンドウ情報は、リソースファイルに変換されるのではなく、Visual Studio [IDEによって直接](../Page/統合開発環境.md "wikilink")[C\#や](../Page/C_Sharp.md "wikilink")[Visual Basic .NETなどのソースコードに変換して出力される](https://ja.wikipedia.org/wiki/Visual_Basic_.NET "wikilink")（コード ビハインド）。マネージ言語は[IDEとの親和性が高く](../Page/統合開発環境.md "wikilink")、Windows Formsによって生産性の高いGUIアプリケーション開発環境が提供される。
+Windows Formsアプリケーション開発に[Visual Studioを利用することで](https://ja.wikipedia.org/wiki/Visual_Studio "wikilink")、.NET以前の[Visual Basicや](../Page/Visual_Basic.md "wikilink")[Delphi](../Page/Delphi.md "wikilink")のように、GUI（フォームデザイナー）で簡単かつ効率的に画面作成やGUI部品の詳細な設定を行なうことができる（[RAD](https://ja.wikipedia.org/wiki/RAD_\(計算機プログラミング環境\) "wikilink")）。これは、GUI部品の簡単な配置や簡単な設定までしかできないWin32/MFCのダイアログ エディターとは大きく異なる。作成したウィンドウ情報は、リソースファイルに変換されるのではなく、Visual Studio [IDEによって直接](../Page/統合開発環境.md "wikilink")[C\#や](../Page/C_Sharp.md "wikilink")[Visual Basic .NETなどのソースコードに変換して出力される](../Page/Visual_Basic_.NET.md "wikilink")（コード ビハインド）。マネージ言語は[IDEとの親和性が高く](../Page/統合開発環境.md "wikilink")、Windows Formsによって生産性の高いGUIアプリケーション開発環境が提供される。
 
-なお、Windows Formsのターゲット環境はデスクトップ アプリケーションであり、ブラウザで動作するWebアプリケーションを開発するには[ASP.NET](https://ja.wikipedia.org/wiki/ASP.NET "wikilink")などを利用することになる。
+なお、Windows Formsのターゲット環境はデスクトップ アプリケーションであり、ブラウザで動作するWebアプリケーションを開発するには[ASP.NET](../Page/ASP.NET.md "wikilink")などを利用することになる。
 
 ## コード例
 
@@ -33,13 +33,13 @@ public class HelloWorld
 
 ## 互換実装
 
-マイクロソフトによるWindows専用の.NET Frameworkベース公式実装のほか、[Monoによる互換実装](https://ja.wikipedia.org/wiki/Mono_\(ソフトウェア\) "wikilink")（通称WinForms）が存在する\[5\]。MonoのWinFormsは.NET 1.1/2.0互換の実装を提供するが、2017年現在の開発状況はメンテナンスフェイズとなっている。
+マイクロソフトによるWindows専用の.NET Frameworkベース公式実装のほか、[Monoによる互換実装](../Page/Mono_\(ソフトウェア\).md "wikilink")（通称WinForms）が存在する\[5\]。MonoのWinFormsは.NET 1.1/2.0互換の実装を提供するが、2017年現在の開発状況はメンテナンスフェイズとなっている。
 
 ## 課題と将来性
 
 Windows Formsは.NET Framework 1.0のリリースとともに登場したが、.NET 2.0で機能追加\[6\]や仕様変更がなされた後は大きな変化がない。後発のデスクトップアプリケーションフレームワークである[WPFに比べると](../Page/Windows_Presentation_Foundation.md "wikilink")、[マルチタッチ](https://ja.wikipedia.org/wiki/マルチタッチ "wikilink")やDPI Aware\[7\]\[8\]などに標準で対応していないなど、最新の技術動向は反映されにくい傾向にある。.NET 4.5.1, .NET 4.5.2, .NET 4.6, .NET 4.7ではそれぞれ高DPI環境下でのWindows Formsコントロールのリサイズに関する機能が徐々に拡張・改善されているが、既定ではなく[オプトイン](https://ja.wikipedia.org/wiki/オプトイン "wikilink")である\[9\]\[10\]。
 
-また、Visual C++にはバージョン2010までWindows Formsのアプリケーションプロジェクトテンプレートが存在していたが、バージョン2012以降は削除されている。もともとVisual C++においてマネージコンポーネントであるWindows Formsを扱うにはC++/CLI言語を使用する必要があったが、C++/CLIはマネージコードとアンマネージコードの相互運用を行なう[グルー言語](https://ja.wikipedia.org/wiki/グルー言語 "wikilink")用途としてのみ使用することが推奨されている\[11\]。
+また、Visual C++にはバージョン2010までWindows Formsのアプリケーションプロジェクトテンプレートが存在していたが、バージョン2012以降は削除されている。もともとVisual C++においてマネージコンポーネントであるWindows Formsを扱うにはC++/CLI言語を使用する必要があったが、C++/CLIはマネージコードとアンマネージコードの相互運用を行なう[グルー言語](../Page/グルー言語.md "wikilink")用途としてのみ使用することが推奨されている\[11\]。
 
 しかし、後継となるWPFはMFCやWindows Formsの完全なスーパーセットではなく、一部は同等機能が用意されていない。Win32/MFCやWindows Formsで作成されたコード資産を再利用するため、WPFアプリケーションでもWin32/MFCやWindows Formsとの連携を行なうシナリオを想定した相互運用機能が用意されている\[12\]\[13\]\[14\]\[15\]。
 
@@ -50,7 +50,7 @@ Windows Formsは.NET Framework 1.0のリリースとともに登場したが、.
 ## 関連項目
 
   - [基本クラスライブラリ](https://ja.wikipedia.org/wiki/基本クラスライブラリ "wikilink")
-  - [Visual Component Library](https://ja.wikipedia.org/wiki/Visual_Component_Library "wikilink")
+  - [Visual Component Library](../Page/Visual_Component_Library.md "wikilink")
   - [Windows Presentation Foundation](../Page/Windows_Presentation_Foundation.md "wikilink")
 
 {{.NET}}

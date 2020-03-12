@@ -7,16 +7,16 @@
 
 出荷ベースで3作連続[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を記録。売り上げは前作「[my graduation](https://ja.wikipedia.org/wiki/my_graduation "wikilink")」が上だが、その年の[第40回日本レコード大賞](https://ja.wikipedia.org/wiki/第40回日本レコード大賞 "wikilink")ではこの曲を歌った。
 
-累計売上は132万枚\[1\]。[オリコン集計での累計売上は](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")96.5万枚。
+累計売上は132万枚\[1\]。[オリコン集計での累計売上は](../Page/オリコンチャート.md "wikilink")96.5万枚。
 
 ## 収録曲
 
 1.  **ALIVE**
       -
         作詞・作曲：伊秩弘将
-        SPEED4人が出演した映画「[アンドロメディア](https://ja.wikipedia.org/wiki/アンドロメディア "wikilink")」主題歌である。
+        SPEED4人が出演した映画「[アンドロメディア](../Page/アンドロメディア.md "wikilink")」主題歌である。
         PVは[鶴岡雅浩](https://ja.wikipedia.org/wiki/鶴岡雅浩 "wikilink")監督が担当。
-        [ベストアルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[MOMENT](../Page/MOMENT_\(SPEEDのアルバム\).md "wikilink")』には収録されているが、オリジナルアルバムには収録されていない。
+        [ベストアルバム](../Page/ベスト・アルバム.md "wikilink")『[MOMENT](../Page/MOMENT_\(SPEEDのアルバム\).md "wikilink")』には収録されているが、オリジナルアルバムには収録されていない。
 2.  **Up To You\!**
 3.  **ALIVE (Instrumental)**
 4.  **Up To You\! (Instrumental)**

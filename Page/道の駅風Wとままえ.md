@@ -1,7 +1,7 @@
 > この記事は[W](https://ja.wikipedia.org/wiki/W)から翻訳されています。
 
 
-**道の駅風Wとままえ**（みちのえき ふわっととままえ）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[苫前郡](https://ja.wikipedia.org/wiki/苫前郡 "wikilink")[苫前町](https://ja.wikipedia.org/wiki/苫前町 "wikilink")にある[国道232号](../Page/国道232号.md "wikilink")の[道の駅](../Page/道の駅.md "wikilink")である。
+**道の駅風Wとままえ**（みちのえき ふわっととままえ）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[苫前郡](../Page/苫前郡.md "wikilink")[苫前町](../Page/苫前町.md "wikilink")にある[国道232号](../Page/国道232号.md "wikilink")の[道の駅](../Page/道の駅.md "wikilink")である。
 
 [風力発電](../Page/風力発電.md "wikilink")がシンボルになっているので「風[W](https://ja.wikipedia.org/wiki/ワット_\(単位\) "wikilink")」という名がついた。
 
@@ -17,12 +17,12 @@
       - 男：大 2器、小 3器
       - 女：3器
       - 身障者用：1器
-  - [公衆電話](https://ja.wikipedia.org/wiki/公衆電話 "wikilink")：1台
+  - [公衆電話](../Page/公衆電話.md "wikilink")：1台
   - [公衆FAX](https://ja.wikipedia.org/wiki/ファクシミリ "wikilink")：1台
   - 苫前温泉（夏季：10:30 - 22:00、冬季：11:00 - 22:00）
       - 泉質：[ナトリウム－塩化物強塩泉](https://ja.wikipedia.org/wiki/塩化物泉 "wikilink")（高張性中性高温泉）（旧泉質名：強食塩泉）
-      - [源泉](https://ja.wikipedia.org/wiki/源泉 "wikilink")[温度](../Page/温度.md "wikilink")：48.5℃
-      - 道の駅施設内に[日帰り入浴施設](https://ja.wikipedia.org/wiki/日帰り入浴施設 "wikilink")と宿泊施設を兼ねた新日本海地域交流センター「とままえ温泉ふわっと」、および無料の足湯施設がある。
+      - [源泉](../Page/源泉.md "wikilink")[温度](../Page/温度.md "wikilink")：48.5℃
+      - 道の駅施設内に[日帰り入浴施設](../Page/日帰り入浴施設.md "wikilink")と宿泊施設を兼ねた新日本海地域交流センター「とままえ温泉ふわっと」、および無料の足湯施設がある。
   - [レストラン](../Page/レストラン.md "wikilink")「風夢」（11:30 - 15:00、17:00 - 21:00）
   - ラウンジ「Windmill」（14:00 - 23:00）
   - 特産品売店（8:00 - 22:00）
@@ -43,11 +43,11 @@
 
 ## 関連項目
 
-  - [道の駅一覧 は行](https://ja.wikipedia.org/wiki/道の駅一覧_は行 "wikilink")
-  - [道の駅一覧 北海道地方](https://ja.wikipedia.org/wiki/道の駅一覧_北海道地方 "wikilink")
-  - [温泉施設が併設されている道の駅一覧](https://ja.wikipedia.org/wiki/温泉施設が併設されている道の駅一覧 "wikilink")
+  - [道の駅一覧 は行](../Page/道の駅一覧_は行.md "wikilink")
+  - [道の駅一覧 北海道地方](../Page/道の駅一覧_北海道地方.md "wikilink")
+  - [温泉施設が併設されている道の駅一覧](../Page/温泉施設が併設されている道の駅一覧.md "wikilink")
   - [日本の温泉地一覧](https://ja.wikipedia.org/wiki/日本の温泉地一覧 "wikilink")
-  - [旭温泉](https://ja.wikipedia.org/wiki/旭温泉_\(北海道\) "wikilink") - 風Wとままえ同様、[シダックス](https://ja.wikipedia.org/wiki/シダックス "wikilink")グループである[大新東](../Page/大新東.md "wikilink")が管理
+  - [旭温泉](../Page/旭温泉_\(北海道\).md "wikilink") - 風Wとままえ同様、[シダックス](../Page/シダックス.md "wikilink")グループである[大新東](../Page/大新東.md "wikilink")が管理
 
 ## 外部リンク
 

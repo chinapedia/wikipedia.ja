@@ -1,7 +1,7 @@
 > この記事は[GOOD LOOKINCLUB](https://ja.wikipedia.org/wiki/GOOD_LOOKINCLUB)から翻訳されています。
 
 
-**GOOD LOOKIN′CLUB**（グッドルッキンクラブ）は[日本テレビ系列で](../Page/日本テレビ放送網.md "wikilink")[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月7日](../Page/10月7日.md "wikilink")から[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[9月29日](../Page/9月29日.md "wikilink")まで放送していた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")で、出演者は[名倉潤](https://ja.wikipedia.org/wiki/名倉潤 "wikilink")（[ネプチューン](../Page/ネプチューン_\(お笑いトリオ\).md "wikilink")）、[アンガールズ](https://ja.wikipedia.org/wiki/アンガールズ "wikilink")（[田中卓志](https://ja.wikipedia.org/wiki/田中卓志 "wikilink")、[山根良顕](https://ja.wikipedia.org/wiki/山根良顕 "wikilink")）。
+**GOOD LOOKIN′CLUB**（グッドルッキンクラブ）は[日本テレビ系列で](../Page/日本テレビ放送網.md "wikilink")[2006年](../Page/2006年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")まで放送していた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")で、出演者は[名倉潤](https://ja.wikipedia.org/wiki/名倉潤 "wikilink")（[ネプチューン](../Page/ネプチューン_\(お笑いトリオ\).md "wikilink")）、[アンガールズ](../Page/アンガールズ.md "wikilink")（[田中卓志](../Page/田中卓志.md "wikilink")、[山根良顕](../Page/山根良顕.md "wikilink")）。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 田中卓志をリーダーとする「WHITE LOOKIN'」（正統派の美男美女）、山根良顕をリーダーとする「BLACK LOOKIN'」（ワイルド系・小悪魔系の美男美女）の2チームに分かれる。その他ゲストの芸能人1名が出演。
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")2月末にリニューアルし、クラブメンバーがルックスを利用して行う企画は姿を消し、物を高額順に並べ替えたりするクイズや、街の美男美女を探す企画などのみが放送されるようになった。現在、クラブメンバーはタレントの後ろにただ並んでいるだけの存在になり、番組に参加するのもその中のごく一部がクイズに答える程度となった。
+[2007年](../Page/2007年.md "wikilink")2月末にリニューアルし、クラブメンバーがルックスを利用して行う企画は姿を消し、物を高額順に並べ替えたりするクイズや、街の美男美女を探す企画などのみが放送されるようになった。現在、クラブメンバーはタレントの後ろにただ並んでいるだけの存在になり、番組に参加するのもその中のごく一部がクイズに答える程度となった。
 
 ## スタッフ
 
@@ -26,7 +26,7 @@
 <!-- end list -->
 
   - ディレクター：三枝幹直
-  - プロデューサー:[寺内壮](https://ja.wikipedia.org/wiki/寺内壮 "wikilink")
+  - プロデューサー:[寺内壮](../Page/寺内壮.md "wikilink")
 
 ## ネット局と放送時間
 
@@ -236,7 +236,7 @@
 
 <td>
 
-[鹿児島県](https://ja.wikipedia.org/wiki/鹿児島県 "wikilink")
+[鹿児島県](../Page/鹿児島県.md "wikilink")
 
 </td>
 
@@ -262,6 +262,6 @@
 
 </table>
 
-  - [札幌テレビ](https://ja.wikipedia.org/wiki/札幌テレビ放送 "wikilink")・[テレビ信州](../Page/テレビ信州.md "wikilink")では、2007年3月で打ち切られた。
+  - [札幌テレビ](../Page/札幌テレビ放送.md "wikilink")・[テレビ信州](../Page/テレビ信州.md "wikilink")では、2007年3月で打ち切られた。
 
 [Category:日本テレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:日本テレビのバラエティ番組の歴史 "wikilink") [Category:2006年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のテレビ番組_\(日本\) "wikilink")

@@ -1,7 +1,7 @@
 > この記事は[Elan Vital](https://ja.wikipedia.org/wiki/Elan_Vital)から翻訳されています。
 
 
-**Elan Vital**（エラン・ヴィタール）は、[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")の[LOVE FMで放送されていた](https://ja.wikipedia.org/wiki/九州国際エフエム "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。 [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink") - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[9月28日](../Page/9月28日.md "wikilink")の毎週月 - 金曜の22:00 - 24:00（[JST](../Page/日本標準時.md "wikilink")、2007年7月からは22:00 - 23:55）、東京スタジオから[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")された。
+**Elan Vital**（エラン・ヴィタール）は、[福岡県](../Page/福岡県.md "wikilink")の[LOVE FMで放送されていた](https://ja.wikipedia.org/wiki/九州国際エフエム "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。 [2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink") - [2007年](../Page/2007年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")の毎週月 - 金曜の22:00 - 24:00（[JST](../Page/日本標準時.md "wikilink")、2007年7月からは22:00 - 23:55）、東京スタジオから[生放送](../Page/生放送.md "wikilink")された。
 
 ## 概要
 
@@ -10,9 +10,9 @@
 
 ## エア・ジョッキー（DJ）
 
-  - [モーリー・ロバートソン](https://ja.wikipedia.org/wiki/モーリー・ロバートソン "wikilink")（2006年4月3日 - 12月26日、月・火）
-  - [みんしる](https://ja.wikipedia.org/wiki/みんしる "wikilink")（2007年1月2日 - 9月25日、月・火）
-  - [ロバート・ハリス](https://ja.wikipedia.org/wiki/ロバート・ハリス_\(1948年生\) "wikilink")（水 - 金）
+  - [モーリー・ロバートソン](../Page/モーリー・ロバートソン.md "wikilink")（2006年4月3日 - 12月26日、月・火）
+  - [みんしる](../Page/みんしる.md "wikilink")（2007年1月2日 - 9月25日、月・火）
+  - [ロバート・ハリス](../Page/ロバート・ハリス_\(1948年生\).md "wikilink")（水 - 金）
 
 ## コーナー
 
@@ -33,10 +33,10 @@
         ノンストップで音楽を放送。
   - 「ASIAN RECIPE」（23:05頃）
       -
-        基本的には「[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")の様々な情報を紹介する」コーナーだが、この時期はゲストコーナーとして扱われることが多かった。[スポンサー](https://ja.wikipedia.org/wiki/スポンサー "wikilink")は[ベスト電器](https://ja.wikipedia.org/wiki/ベスト電器 "wikilink")。
+        基本的には「[アジア](../Page/アジア.md "wikilink")の様々な情報を紹介する」コーナーだが、この時期はゲストコーナーとして扱われることが多かった。[スポンサー](../Page/スポンサー.md "wikilink")は[ベスト電器](../Page/ベスト電器.md "wikilink")。
   - 「CAFE」（23:25頃）
       -
-        [リスナー](https://ja.wikipedia.org/wiki/リスナー "wikilink")からのメッセージを紹介したり、様々な話題を紹介したりするコーナーだが、「ASIAN RECIPE」から引き続きゲストコーナーとして扱われることが多かった。それぞれ「MORLEY'S CAFE」「ROBERT'S CAFE」と呼ばれた。
+        [リスナー](../Page/リスナー.md "wikilink")からのメッセージを紹介したり、様々な話題を紹介したりするコーナーだが、「ASIAN RECIPE」から引き続きゲストコーナーとして扱われることが多かった。それぞれ「MORLEY'S CAFE」「ROBERT'S CAFE」と呼ばれた。
   - 「asianbeat」（不定期、正式なコーナータイトルはなし）
       -
         アジアの若者文化を紹介する[ウェブサイト](../Page/ウェブサイト.md "wikilink")「asianbeat」の更新情報を紹介。
@@ -61,7 +61,7 @@
         内容は上記と同じ。
   - 「Songs of Love」（火曜日のみ、22:50 - 23:00）
       -
-        [手嶌葵](https://ja.wikipedia.org/wiki/手嶌葵 "wikilink")がエア・ジョッキーを務める番組。番組終了後は毎週木曜日の23:00 - 23:10に時間が変更され、独立した番組となった。
+        [手嶌葵](../Page/手嶌葵.md "wikilink")がエア・ジョッキーを務める番組。番組終了後は毎週木曜日の23:00 - 23:10に時間が変更され、独立した番組となった。
   - 「ASIAN RECIPE」（23:05頃）
       -
         「アジアの様々な情報を紹介する」コーナーだが、たまにゲストコーナーとして扱われた。スポンサーはベスト電器。
@@ -79,7 +79,7 @@
 
 ## ポッドキャスト
 
-「FANTASY（ELAN VITAL FANTASY）」のコーナーは編集され週2回、LOVE FMの[ホームページ](../Page/ホームページ.md "wikilink")より[ポッドキャスト](https://ja.wikipedia.org/wiki/ポッドキャスト "wikilink")として配信された。
+「FANTASY（ELAN VITAL FANTASY）」のコーナーは編集され週2回、LOVE FMの[ホームページ](../Page/ホームページ.md "wikilink")より[ポッドキャスト](../Page/ポッドキャスト.md "wikilink")として配信された。
 
 ## オープニングテーマ
 
@@ -89,7 +89,7 @@
 
 ## 番組にまつわる事件
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[9月7日](../Page/9月7日.md "wikilink")の放送で、ゲスト出演していた[ライターの草下シンヤ](../Page/著作家.md "wikilink")\[1\]が、自らの[マリファナ](https://ja.wikipedia.org/wiki/マリファナ "wikilink")や[ヘロイン](../Page/ヘロイン.md "wikilink")などの使用体験を語った。その中で、草下は「（[薬物](https://ja.wikipedia.org/wiki/薬物 "wikilink")使用は）本質が見えやすくなるので、自ら探りにいくために使うツールとしては効果的な可能性がある」などと発言。
+[2007年](../Page/2007年.md "wikilink")[9月7日](../Page/9月7日.md "wikilink")の放送で、ゲスト出演していた[ライターの草下シンヤ](../Page/著作家.md "wikilink")\[1\]が、自らの[マリファナ](https://ja.wikipedia.org/wiki/マリファナ "wikilink")や[ヘロイン](../Page/ヘロイン.md "wikilink")などの使用体験を語った。その中で、草下は「（[薬物](../Page/薬物.md "wikilink")使用は）本質が見えやすくなるので、自ら探りにいくために使うツールとしては効果的な可能性がある」などと発言。
 
 番組終了後にリスナーなどから「薬物を肯定する発言だ」などといった指摘が相次いだため、LOVE FMは同月14日の放送で謝罪し、番組の公式サイトに謝罪文を掲示した\[2\]\[3\]。LOVE FMのホームページ上にある、放送後60日後まで放送した音声のみを公開する「WEB RADIO」のページからも、この日の放送の全ての音声を削除した。
 

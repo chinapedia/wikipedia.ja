@@ -7,21 +7,21 @@
 
 [メガドライブ](../Page/メガドライブ.md "wikilink")での[ソニックシリーズ](../Page/ソニックシリーズ.md "wikilink")の3作目。略称は**ソニック CD**。この作品でエミー・ローズとメタルソニックが初めて登場した（キャラクターの詳しい説明は「[ソニックシリーズに登場するキャラクターの一覧](https://ja.wikipedia.org/wiki/ソニックシリーズに登場するキャラクターの一覧 "wikilink")」を参照）。なおOP及びEDアニメーションは東映動画（後の[東映アニメーション](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")）が担当した。販売本数は150万本（全世界）。
 
-[1996年](../Page/1996年.md "wikilink")[8月9日](../Page/8月9日.md "wikilink")には[Windows版が発売された](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。家庭用ゲーム機では[GC](../Page/ニンテンドーゲームキューブ.md "wikilink")・[PS2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[ソニック ジェムズ コレクション](../Page/ソニック_ジェムズ_コレクション.md "wikilink")』（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")）で初めて移植された。
+[1996年](../Page/1996年.md "wikilink")[8月9日](../Page/8月9日.md "wikilink")には[Windows版が発売された](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。家庭用ゲーム機では[GC](../Page/ニンテンドーゲームキューブ.md "wikilink")・[PS2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[ソニック ジェムズ コレクション](../Page/ソニック_ジェムズ_コレクション.md "wikilink")』（[2005年](../Page/2005年.md "wikilink")）で初めて移植された。
 
-[2011年](../Page/2011年.md "wikilink")[12月15日](../Page/12月15日.md "wikilink")には[iPod touch](https://ja.wikipedia.org/wiki/iPod_touch "wikilink")、[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")、[iPad](https://ja.wikipedia.org/wiki/iPad "wikilink")、[Android](https://ja.wikipedia.org/wiki/Android "wikilink")端末向けに[ダウンロード販売](../Page/ダウンロード販売.md "wikilink")による配信が開始されている。なお、海外では[Xbox 360](https://ja.wikipedia.org/wiki/Xbox_360 "wikilink")、[PS3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、[Winwows向けの配信も開始されたが](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、日本国内では現時点で配信が行われていない。
+[2011年](../Page/2011年.md "wikilink")[12月15日](../Page/12月15日.md "wikilink")には[iPod touch](https://ja.wikipedia.org/wiki/iPod_touch "wikilink")、[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")、[iPad](https://ja.wikipedia.org/wiki/iPad "wikilink")、[Android](../Page/Android.md "wikilink")端末向けに[ダウンロード販売](../Page/ダウンロード販売.md "wikilink")による配信が開始されている。なお、海外では[Xbox 360](../Page/Xbox_360.md "wikilink")、[PS3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、[Winwows向けの配信も開始されたが](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、日本国内では現時点で配信が行われていない。
 
 ## ゲーム内容
 
 ### システム
 
-基本的なゲームシステムは、『[ソニック2](../Page/ソニック・ザ・ヘッジホッグ2.md "wikilink")』（[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")）より後で発売されたゲームでありながら『[ソニック1](https://ja.wikipedia.org/wiki/ソニック・ザ・ヘッジホッグ_\(1991年のゲーム\) "wikilink")』（[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")）に近いプレイ感覚やビジュアルを持っている。これはソニックCDが『ソニック2』の製作には関わらなかった[大島直人](https://ja.wikipedia.org/wiki/大島直人 "wikilink")と『ソニック1』の一部のスタッフが「ソニックCDチーム」の名義で製作したゲームであることが関係していると思われる。
+基本的なゲームシステムは、『[ソニック2](../Page/ソニック・ザ・ヘッジホッグ2.md "wikilink")』（[1992年](../Page/1992年.md "wikilink")）より後で発売されたゲームでありながら『[ソニック1](../Page/ソニック・ザ・ヘッジホッグ_\(1991年のゲーム\).md "wikilink")』（[1991年](../Page/1991年.md "wikilink")）に近いプレイ感覚やビジュアルを持っている。これはソニックCDが『ソニック2』の製作には関わらなかった[大島直人](https://ja.wikipedia.org/wiki/大島直人 "wikilink")と『ソニック1』の一部のスタッフが「ソニックCDチーム」の名義で製作したゲームであることが関係していると思われる。
 
 スピンダッシュが『ソニック2』に続いて使用可能だが、操作性が大きく異なり、一定以上溜めるまで動くことができない。一方で、方向キー上とジャンプボタンを同時押しすることで、その場でダッシュすることができる機能が追加された。このシステムを採用している作品はシリーズの中では数少ない。
 
 今作の大きな要素としてタイムワープがある。このシステムは、[過去](../Page/過去.md "wikilink")（Past）と[未来](../Page/未来.md "wikilink")（Future）を行き来できるシステムであり、当初はMD版『[ソニック2](../Page/ソニック・ザ・ヘッジホッグ2.md "wikilink")』でも時間移動の概念が組み込まれる予定だった。ステージにある過去、未来選択マーカーを通過すると、画面の左下にマーカーのアイコンが表示されタイムワープ待機状態になる。この状態でソニックがダッシュし続けると、ソニックが光りだす。この状態をキープしているとマーカーが薄くなり、さらに走り続けるとソニックが過去（または未来）へワープする。スピードを落とせばタイムワープが止まり待機状態に戻るが、マーカーが薄くなった状態でスピードを落とすと待機状態が消えてしまう。一度使用したマーカーは裏返って使えなくなるため、タイムワープの回数には制限がある。ワープした後は、同じ場所から再スタートとなる。ステージには向かい合ったスプリングなど、意図的にタイムワープをするために作られた仕掛けなども多数存在する。これは、ゲームの難易度と、展開を左右する上で大きな要素になる。
 
-また、[セーブ](https://ja.wikipedia.org/wiki/セーブ_\(コンピュータ\) "wikilink")（[バックアップ](https://ja.wikipedia.org/wiki/バックアップ "wikilink")）機能も初搭載された。この機能を使用することで、再プレイ時に前回のステージの続きからプレイできる。さらに、一度クリアしたステージは、現代の時代のみだが、自由に選択してタイムアタックを行う事ができる。
+また、[セーブ](../Page/セーブ_\(コンピュータ\).md "wikilink")（[バックアップ](../Page/バックアップ.md "wikilink")）機能も初搭載された。この機能を使用することで、再プレイ時に前回のステージの続きからプレイできる。さらに、一度クリアしたステージは、現代の時代のみだが、自由に選択してタイムアタックを行う事ができる。
 
 ゲーム中3分間程度なにもしない（ボタンを押さない）とソニックが「I'm outer here.」\[2\]と言って、ステージから飛び降り一気に残機がなくなりゲームオーバーになる。
 
@@ -52,7 +52,7 @@
   - ROUND7 METALLIC MADNESS（メタリックマッドネス；金属の狂気）
     エッグマンの要塞。仕掛けの中には、ソニック1のスクラップブレインゾーンとほぼ同じ物がある。
   - Bonus Stage（ボーナスステージ）
-    1992年夏に発行されたセガの商戦カタログに写真のみ掲載されたステージで、製品版には採用されなかった。『[ソニック1](https://ja.wikipedia.org/wiki/ソニック・ザ・ヘッジホッグ_\(1991年のゲーム\) "wikilink")』のスペシャルステージをイメージにしたボーナスステージだったと思われる。なお、ボーナスステージの導入は『[ソニック3](https://ja.wikipedia.org/wiki/ソニック・ザ・ヘッジホッグ3 "wikilink")』及び『[ソニック&ナックルズ](https://ja.wikipedia.org/wiki/ソニック&ナックルズ "wikilink")』で行われている。
+    1992年夏に発行されたセガの商戦カタログに写真のみ掲載されたステージで、製品版には採用されなかった。『[ソニック1](../Page/ソニック・ザ・ヘッジホッグ_\(1991年のゲーム\).md "wikilink")』のスペシャルステージをイメージにしたボーナスステージだったと思われる。なお、ボーナスステージの導入は『[ソニック3](../Page/ソニック・ザ・ヘッジホッグ3.md "wikilink")』及び『[ソニック&ナックルズ](../Page/ソニック&ナックルズ.md "wikilink")』で行われている。
 
 ### 時間移動
 
@@ -60,7 +60,7 @@
 
 過去の時代は、各ラウンドのゾーン1と2両方のどこかに、現代の時代から過去の時代へ敵を転送するための機械が設置されている（現代の時代でも、破壊不能であるが転送装置がある）。これを破壊するとそのゾーンの過去の時代の敵は全滅し（現代の転送装置も連動して破壊される）、ゴール時のテロップが、「SONIC GOT THROUGH Zone 1」から「SONIC MADE A GOOD FUTURE IN Zone 1」と、未来を変えたことを表す文章になる。さらに、ゾーン1、2両方の機械を破壊すると未来の時代が変化し、自然と機械が融合したような明るく平和な世界になる。ゾーン3には未来のステージしか存在しないが、ゾーン1、2両方で未来を変化させると平和な未来、そうでない場合は侵略が行われ荒廃した未来となる。また、過去の時代にはメタルソニックのホログラムを映し出している機械があるが、これを破壊すると隠れていた動物達が現れ、画面上で飛び回るようになる。ソニックがタイムストーンを全て手に入れている場合、ステージに入った瞬間に過去の時代にある転送装置が自動的に破壊される。
 
-全てのラウンドの未来を変えた状態、あるいは、タイムストーンを全て集めてクリアすると真の[エンディングが見られる](https://ja.wikipedia.org/wiki/エンディングデモ "wikilink")。
+全てのラウンドの未来を変えた状態、あるいは、タイムストーンを全て集めてクリアすると真の[エンディングが見られる](../Page/エンディングデモ.md "wikilink")。
 
 ### アイテム
 
@@ -94,7 +94,7 @@
   - ドクター・エッグマン
     ソニックを敵視する悪の天才科学者。本作ではリトルプラネットを地球のネバーレイク上空に固定させ、タイムストーンを手に入れ、その力で世界征服を目論んでいる。
   - マイルス "テイルス" パウアー
-    ソニックの親友の子ギツネ。2011年配信版のみの登場。ソニックで1度ゲームをクリアすると使えるようになる。グラフィックは『[ソニック2](../Page/ソニック・ザ・ヘッジホッグ2.md "wikilink")』、アクションは『[ソニック3](https://ja.wikipedia.org/wiki/ソニック・ザ・ヘッジホッグ3 "wikilink")』に準じている。テイルスでプレイした場合、OP・EDアニメーションやエミー関係の演出が省略されている。
+    ソニックの親友の子ギツネ。2011年配信版のみの登場。ソニックで1度ゲームをクリアすると使えるようになる。グラフィックは『[ソニック2](../Page/ソニック・ザ・ヘッジホッグ2.md "wikilink")』、アクションは『[ソニック3](../Page/ソニック・ザ・ヘッジホッグ3.md "wikilink")』に準じている。テイルスでプレイした場合、OP・EDアニメーションやエミー関係の演出が省略されている。
 
 ### 敵キャラクター
 
@@ -123,15 +123,15 @@
 
 ## 音楽
 
-『ソニック1』及び『ソニック2』の[BGM](https://ja.wikipedia.org/wiki/BGM "wikilink")は地域による違いがなく日本国外版も含めて[DREAMS COME TRUEの](../Page/DREAMS_COME_TRUE.md "wikilink")[中村正人](https://ja.wikipedia.org/wiki/中村正人 "wikilink")が作曲していたが、今作におけるBGMや[テーマ曲は発売された地域によって大きく異なっており](https://ja.wikipedia.org/wiki/主題歌 "wikilink")、その違いから「**日本・欧州版**」と「**北米版**」の2種類がある。ただし、メガCDの[内蔵音源](https://ja.wikipedia.org/wiki/内蔵音源 "wikilink")による「過去（Past）」のステージのBGM\[4\]など一部は共通である。また、日本でも発売された[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink")版は地域によらず「北米版」のBGMとなっている。
+『ソニック1』及び『ソニック2』の[BGM](https://ja.wikipedia.org/wiki/BGM "wikilink")は地域による違いがなく日本国外版も含めて[DREAMS COME TRUEの](../Page/DREAMS_COME_TRUE.md "wikilink")[中村正人](https://ja.wikipedia.org/wiki/中村正人 "wikilink")が作曲していたが、今作におけるBGMや[テーマ曲は発売された地域によって大きく異なっており](../Page/主題歌.md "wikilink")、その違いから「**日本・欧州版**」と「**北米版**」の2種類がある。ただし、メガCDの[内蔵音源](../Page/内蔵音源.md "wikilink")による「過去（Past）」のステージのBGM\[4\]など一部は共通である。また、日本でも発売された[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink")版は地域によらず「北米版」のBGMとなっている。
 
 ### 日本・欧州版
 
-音楽全般を担当したのは尾形雅史と幡谷尚史。また、[OP](https://ja.wikipedia.org/wiki/オープニング "wikilink")「Sonic‐You Can Do Anything」と[ED](https://ja.wikipedia.org/wiki/エンディング "wikilink")「Cosmic Eternity‐Believe in Yourself」（両曲とも英語歌詞）の[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")は[宇徳敬子](https://ja.wikipedia.org/wiki/宇徳敬子 "wikilink")が担当している（作詞・[ラップ](../Page/ラップ.md "wikilink")：[ケーシー・ランキン](https://ja.wikipedia.org/wiki/ケーシー・ランキン "wikilink")）。
+音楽全般を担当したのは尾形雅史と幡谷尚史。また、[OP](https://ja.wikipedia.org/wiki/オープニング "wikilink")「Sonic‐You Can Do Anything」と[ED](https://ja.wikipedia.org/wiki/エンディング "wikilink")「Cosmic Eternity‐Believe in Yourself」（両曲とも英語歌詞）の[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")は[宇徳敬子](https://ja.wikipedia.org/wiki/宇徳敬子 "wikilink")が担当している（作詞・[ラップ](../Page/ラップ.md "wikilink")：[ケーシー・ランキン](../Page/ケーシー・ランキン.md "wikilink")）。
 
-この2曲は[ソニックチーム](https://ja.wikipedia.org/wiki/ソニックチーム "wikilink")のベストアルバム『SONIC TEAM "Power Play" 〜BEST SONGS FROM SONIC TEAM〜』、ソニックCDの楽曲を収めた[サウンドトラック](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")『[SONIC THE HEDGEHOG CD ORIGINAL SOUNDTRACK 20th Anniversary Edition](https://ja.wikipedia.org/wiki/SONIC_THE_HEDGEHOG_CD_ORIGINAL_SOUNDTRACK_20th_Anniversary_Edition "wikilink")』にも収録されている。また、ソニックシリーズの[テーマソング](https://ja.wikipedia.org/wiki/テーマソング "wikilink")を収めたベストアルバム『[TRUE BLUE:THE BEST OF SONIC THE HEDGEHOG](https://ja.wikipedia.org/wiki/TRUE_BLUE:THE_BEST_OF_SONIC_THE_HEDGEHOG "wikilink")』にはOPテーマ曲が、『[TRUE COLORS:THE BEST OF SONIC THE HEDGEHOG Part 2](https://ja.wikipedia.org/wiki/TRUE_COLORS:THE_BEST_OF_SONIC_THE_HEDGEHOG_Part_2 "wikilink")』にはEDテーマ曲が収録されている。
+この2曲は[ソニックチーム](../Page/ソニックチーム.md "wikilink")のベストアルバム『SONIC TEAM "Power Play" 〜BEST SONGS FROM SONIC TEAM〜』、ソニックCDの楽曲を収めた[サウンドトラック](../Page/サウンドトラック.md "wikilink")『[SONIC THE HEDGEHOG CD ORIGINAL SOUNDTRACK 20th Anniversary Edition](https://ja.wikipedia.org/wiki/SONIC_THE_HEDGEHOG_CD_ORIGINAL_SOUNDTRACK_20th_Anniversary_Edition "wikilink")』にも収録されている。また、ソニックシリーズの[テーマソング](https://ja.wikipedia.org/wiki/テーマソング "wikilink")を収めたベストアルバム『[TRUE BLUE:THE BEST OF SONIC THE HEDGEHOG](https://ja.wikipedia.org/wiki/TRUE_BLUE:THE_BEST_OF_SONIC_THE_HEDGEHOG "wikilink")』にはOPテーマ曲が、『[TRUE COLORS:THE BEST OF SONIC THE HEDGEHOG Part 2](https://ja.wikipedia.org/wiki/TRUE_COLORS:THE_BEST_OF_SONIC_THE_HEDGEHOG_Part_2 "wikilink")』にはEDテーマ曲が収録されている。
 
-なお、OPテーマ曲は本作より1年近く前の[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[11月21日](../Page/11月21日.md "wikilink")に発売された[ゲームギア](../Page/ゲームギア.md "wikilink")版『[ソニック・ザ・ヘッジホッグ2](https://ja.wikipedia.org/wiki/ソニック・ザ・ヘッジホッグ2#セガ・マスターシステム版 "wikilink")』の「GREEN HILLS ZONE」のBGMが原曲であるが、こちらを手掛けたのも尾形雅史である。また、同じくゲームギア版『[ソニック ドリフト](../Page/ソニック_ドリフト.md "wikilink")』（[1994年](../Page/1994年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")発売）の作品内でも「Sonic‐You Can Do Anything」をアレンジしたBGMが使用されている。
+なお、OPテーマ曲は本作より1年近く前の[1992年](../Page/1992年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")に発売された[ゲームギア](../Page/ゲームギア.md "wikilink")版『[ソニック・ザ・ヘッジホッグ2](https://ja.wikipedia.org/wiki/ソニック・ザ・ヘッジホッグ2#セガ・マスターシステム版 "wikilink")』の「GREEN HILLS ZONE」のBGMが原曲であるが、こちらを手掛けたのも尾形雅史である。また、同じくゲームギア版『[ソニック ドリフト](../Page/ソニック_ドリフト.md "wikilink")』（[1994年](../Page/1994年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")発売）の作品内でも「Sonic‐You Can Do Anything」をアレンジしたBGMが使用されている。
 
 #### 主題歌
 
@@ -139,7 +139,7 @@
 
 <!-- end list -->
 
-  - 作詞：[ケーシー・ランキン](https://ja.wikipedia.org/wiki/ケーシー・ランキン "wikilink")、作曲：尾形雅史、歌：[宇徳敬子](https://ja.wikipedia.org/wiki/宇徳敬子 "wikilink")
+  - 作詞：[ケーシー・ランキン](../Page/ケーシー・ランキン.md "wikilink")、作曲：尾形雅史、歌：[宇徳敬子](https://ja.wikipedia.org/wiki/宇徳敬子 "wikilink")
 
 <!-- end list -->
 
@@ -201,12 +201,12 @@
   - プログラマー：松岡雄一、竹井宏、佐藤達也 (HIC)、八木田典孝 (HIC)
   - アニメーション・スタッフ
       - プロデューサー：[山口康男](https://ja.wikipedia.org/wiki/山口康男 "wikilink")、木戸睦
-      - チーフ・キー・アニメーター：[江口寿志](../Page/江口寿志.md "wikilink")（[スタジオジュニオ](https://ja.wikipedia.org/wiki/ジュニオ_ブレイン_トラスト "wikilink")）
+      - チーフ・キー・アニメーター：[江口寿志](../Page/江口寿志.md "wikilink")（[スタジオジュニオ](../Page/ジュニオ_ブレイン_トラスト.md "wikilink")）
       - キー・アニメーター：熊谷哲矢、小丸敏之、清水保行、古市一郎、梶原賢二
       - アートディレクター：[行信三](../Page/行信三.md "wikilink")
       - カメラ・ディレクター：坂西勝
       - アシスタント・プロダクション・マネージャー：広瀬公一
-      - ディレクター：[貝澤幸男](https://ja.wikipedia.org/wiki/貝澤幸男 "wikilink")
+      - ディレクター：[貝澤幸男](../Page/貝澤幸男.md "wikilink")
       - プロダクション・マネージャー：関口孝治
       - 協力：スタジオジュニオ
       - プロデュース：[東映アニメーション](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")
@@ -224,13 +224,13 @@
 
 <!-- end list -->
 
-  - ゲーム誌『[メガドライブFAN](https://ja.wikipedia.org/wiki/ドリームキャストFAN "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、25.0点（満30点）となっている\[8\]。
+  - ゲーム誌『[メガドライブFAN](../Page/ドリームキャストFAN.md "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、25.0点（満30点）となっている\[8\]。
 
 | 項目 | キャラクタ | 音楽  | お買得度 | 操作性 | 熱中度 | オリジナリティ | 総合   |
 | -- | ----- | --- | ---- | --- | --- | ------- | ---- |
 | 得点 | 4.6   | 4.5 | 3.8  | 4.2 | 4.0 | 3.8     | 25.0 |
 
-  - ゲーム本『メガドライブ大全』（[2004年](../Page/2004年.md "wikilink")、[太田出版](https://ja.wikipedia.org/wiki/太田出版 "wikilink")）では、「『ソニックチーム制作じゃないソニック』だが、本家には引けを取らない」、「CD音源のBGMが素晴らしく、宇徳敬子ボーカルの主題歌は疾走感あふれる」と評している\[9\]。
+  - ゲーム本『メガドライブ大全』（[2004年](../Page/2004年.md "wikilink")、[太田出版](../Page/太田出版.md "wikilink")）では、「『ソニックチーム制作じゃないソニック』だが、本家には引けを取らない」、「CD音源のBGMが素晴らしく、宇徳敬子ボーカルの主題歌は疾走感あふれる」と評している\[9\]。
 
 {{-}}
 

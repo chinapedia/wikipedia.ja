@@ -5,9 +5,9 @@
 
 ## 解説
 
-  - [カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")の「アダムとイブ」並びに「[EVERYDAY, BE WITH YOU](https://ja.wikipedia.org/wiki/EVERYDAY,_BE_WITH_YOU "wikilink")」（Eriko with Crunch）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")にかけて活動した[伊秩弘将](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink")主宰の[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")＆[ダンス](https://ja.wikipedia.org/wiki/ダンス "wikilink")[ユニット](https://ja.wikipedia.org/wiki/ユニット "wikilink")[HIMの](https://ja.wikipedia.org/wiki/HIM_\(音楽プロジェクト\) "wikilink")[カバー](../Page/カバー.md "wikilink")である。（「アダムとイブ」は改題し、歌詞を一部変更。「アダムとイブ」のオリジナル「SEVENTEEN DANCE ～I'VE BEEN LOOKIN' 4 U」は、[1996年](../Page/1996年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")リリースのHIM 1stアルバム『[HIMAX\! GREATEST HITS AND MORE](https://ja.wikipedia.org/wiki/HIMAX!_GREATEST_HITS_AND_MORE "wikilink")』に、同曲同タイトルの「EVERYDAY, BE WITH YOU」のオリジナルは、1997年[6月21日](../Page/6月21日.md "wikilink")リリースのHIM 2ndアルバム『[HIMIX A2Z](https://ja.wikipedia.org/wiki/HIMIX_A2Z "wikilink")』に収録されている。）
-  - オリコンのホームページの過去チャートTOP30検索機能において本作の初登場週（[1999年5月5週](http://www.oricon.co.jp/search/result.php?kbn=js&types=rnk&year=1999&month=5&week=5&submit4.x=14&submit4.y=21)）を検索すると、1位の[GLAY](../Page/GLAY.md "wikilink")「[サバイバル](https://ja.wikipedia.org/wiki/サバイバル_\(GLAYの曲\) "wikilink")」（ビデオシングル=現在はシングルチャートにカウントされない）は表示されず、2位（本作）から31位が表示される。
-  - 本作は累計58.2万枚を売り上げた（[オリコン調べ](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")）。
+  - [カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")の「アダムとイブ」並びに「[EVERYDAY, BE WITH YOU](../Page/EVERYDAY,_BE_WITH_YOU.md "wikilink")」（Eriko with Crunch）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")にかけて活動した[伊秩弘将](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink")主宰の[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")＆[ダンス](../Page/ダンス.md "wikilink")[ユニット](../Page/ユニット.md "wikilink")[HIMの](../Page/HIM_\(音楽プロジェクト\).md "wikilink")[カバー](../Page/カバー.md "wikilink")である。（「アダムとイブ」は改題し、歌詞を一部変更。「アダムとイブ」のオリジナル「SEVENTEEN DANCE ～I'VE BEEN LOOKIN' 4 U」は、[1996年](../Page/1996年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")リリースのHIM 1stアルバム『[HIMAX\! GREATEST HITS AND MORE](https://ja.wikipedia.org/wiki/HIMAX!_GREATEST_HITS_AND_MORE "wikilink")』に、同曲同タイトルの「EVERYDAY, BE WITH YOU」のオリジナルは、1997年[6月21日](../Page/6月21日.md "wikilink")リリースのHIM 2ndアルバム『[HIMIX A2Z](https://ja.wikipedia.org/wiki/HIMIX_A2Z "wikilink")』に収録されている。）
+  - オリコンのホームページの過去チャートTOP30検索機能において本作の初登場週（[1999年5月5週](http://www.oricon.co.jp/search/result.php?kbn=js&types=rnk&year=1999&month=5&week=5&submit4.x=14&submit4.y=21)）を検索すると、1位の[GLAY](../Page/GLAY.md "wikilink")「[サバイバル](../Page/サバイバル_\(GLAYの曲\).md "wikilink")」（ビデオシングル=現在はシングルチャートにカウントされない）は表示されず、2位（本作）から31位が表示される。
+  - 本作は累計58.2万枚を売り上げた（[オリコン調べ](../Page/オリコンチャート.md "wikilink")）。
 
 ## 収録曲
 
@@ -16,16 +16,16 @@
         作詞・作曲：伊秩弘将
         [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")『[アフリカの夜](../Page/アフリカの夜.md "wikilink")』主題歌。
 2.  **アダムとイブ**
-3.  **[EVERYDAY, BE WITH YOU](https://ja.wikipedia.org/wiki/EVERYDAY,_BE_WITH_YOU "wikilink")** - Eriko with Crunch
+3.  **[EVERYDAY, BE WITH YOU](../Page/EVERYDAY,_BE_WITH_YOU.md "wikilink")** - Eriko with Crunch
 4.  **Breakin' out to the morning（Instrumental）**
 5.  **アダムとイブ（Instrumental）**
 6.  **EVERYDAY, BE WITH YOU（Instrumental）** - Eriko with Crunch
 
 ## 収録アルバム
 
-  - [Carry On my way](https://ja.wikipedia.org/wiki/Carry_On_my_way "wikilink")（\#1）
+  - [Carry On my way](../Page/Carry_On_my_way.md "wikilink")（\#1）
   - [SPEED THE MEMORIAL BEST 1335days Dear Friends 2](https://ja.wikipedia.org/wiki/SPEED_THE_MEMORIAL_BEST_1335days_Dear_Friends#SPEED_THE_MEMORIAL_BEST_1335days_Dear_Friends_2 "wikilink")（\#1）
-  - [BEST HITS LIVE〜Save The Children SPEED LIVE 2003〜](https://ja.wikipedia.org/wiki/BEST_HITS_LIVE〜Save_The_Children_SPEED_LIVE_2003〜 "wikilink")（\#1）
+  - [BEST HITS LIVE〜Save The Children SPEED LIVE 2003〜](../Page/BEST_HITS_LIVE〜Save_The_Children_SPEED_LIVE_2003〜.md "wikilink")（\#1）
   - [SPEEDLAND -The Premium Best Re Tracks-](https://ja.wikipedia.org/wiki/SPEEDLAND_-The_Premium_Best_Re_Tracks- "wikilink")（\#1、Re Track）
 
 ## 外部リンク

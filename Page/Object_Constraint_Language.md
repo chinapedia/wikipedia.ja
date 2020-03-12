@@ -1,7 +1,7 @@
 > この記事は[Object Constraint Language](https://ja.wikipedia.org/wiki/Object_Constraint_Language)から翻訳されています。
 
 
-**Object Constraint Language**（**OCL**）は、[統一モデリング言語](../Page/統一モデリング言語.md "wikilink") (UML) モデルに適用する規則を記述するための宣言型言語である。[IBM](../Page/IBM.md "wikilink")が開発し、UML標準の一部となった。初期のOCLは、単なるUMLの形式仕様記述言語としての拡張であったが、その後 UMLだけでなく [Object Management Group](https://ja.wikipedia.org/wiki/Object_Management_Group "wikilink") (OMG) の [Meta-Object Facility](../Page/Meta-Object_Facility.md "wikilink") (MOF) の[メタモデル](../Page/メタモデル.md "wikilink")全般を扱うようになった。Object Constraint Language (OCL) は Meta-Object Facility などのモデルやメタモデルについて、図表の形式では表現できない制約やクエリを表現することができる正確なテキスト言語である。OCL は OMG の[モデル変換](../Page/モデル変換.md "wikilink")に関する推奨標準 [QVT](../Page/QVT.md "wikilink") 仕様の一部となっている。他の多くの[モデル変換言語](../Page/モデル変換言語.md "wikilink")（[ATLなど](https://ja.wikipedia.org/wiki/ATLAS_Transformation_Language "wikilink")）も OCL に基づいて構築されている。
+**Object Constraint Language**（**OCL**）は、[統一モデリング言語](../Page/統一モデリング言語.md "wikilink") (UML) モデルに適用する規則を記述するための宣言型言語である。[IBM](../Page/IBM.md "wikilink")が開発し、UML標準の一部となった。初期のOCLは、単なるUMLの形式仕様記述言語としての拡張であったが、その後 UMLだけでなく [Object Management Group](../Page/Object_Management_Group.md "wikilink") (OMG) の [Meta-Object Facility](../Page/Meta-Object_Facility.md "wikilink") (MOF) の[メタモデル](../Page/メタモデル.md "wikilink")全般を扱うようになった。Object Constraint Language (OCL) は Meta-Object Facility などのモデルやメタモデルについて、図表の形式では表現できない制約やクエリを表現することができる正確なテキスト言語である。OCL は OMG の[モデル変換](../Page/モデル変換.md "wikilink")に関する推奨標準 [QVT](../Page/QVT.md "wikilink") 仕様の一部となっている。他の多くの[モデル変換言語](../Page/モデル変換言語.md "wikilink")（[ATLなど](../Page/ATLAS_Transformation_Language.md "wikilink")）も OCL に基づいて構築されている。
 
 ## 概要
 
@@ -24,11 +24,11 @@ OCL は、[MOFのメタ要素と表明を関連付けることで](../Page/Meta-
 
 ## OCL と QVT
 
-[モデル駆動工学](../Page/モデル駆動工学.md "wikilink")や[モデル駆動型アーキテクチャ](../Page/モデル駆動型アーキテクチャ.md "wikilink") (MDA) では、[モデル変換](../Page/モデル変換.md "wikilink")の記法が重要となる。OMG はモデル変換の標準である[QVT](../Page/QVT.md "wikilink")（MOF/QVT）を定義した。[GReAT](https://ja.wikipedia.org/wiki/GReAT "wikilink")、[VIATRA](https://ja.wikipedia.org/wiki/VIATRA "wikilink")、[ATLといった](https://ja.wikipedia.org/wiki/ATLAS_Transformation_Language "wikilink")[モデル変換言語](../Page/モデル変換言語.md "wikilink")があるが、これらのQVT標準への対応レベルは様々である。これらの多くは OCL に基づいて構築されている。また、OCLのサポートは[QVT](../Page/QVT.md "wikilink")準拠の主要な条件である。
+[モデル駆動工学](../Page/モデル駆動工学.md "wikilink")や[モデル駆動型アーキテクチャ](../Page/モデル駆動型アーキテクチャ.md "wikilink") (MDA) では、[モデル変換](../Page/モデル変換.md "wikilink")の記法が重要となる。OMG はモデル変換の標準である[QVT](../Page/QVT.md "wikilink")（MOF/QVT）を定義した。[GReAT](https://ja.wikipedia.org/wiki/GReAT "wikilink")、[VIATRA](https://ja.wikipedia.org/wiki/VIATRA "wikilink")、[ATLといった](../Page/ATLAS_Transformation_Language.md "wikilink")[モデル変換言語](../Page/モデル変換言語.md "wikilink")があるが、これらのQVT標準への対応レベルは様々である。これらの多くは OCL に基づいて構築されている。また、OCLのサポートは[QVT](../Page/QVT.md "wikilink")準拠の主要な条件である。
 
 ## 類似技術
 
-ナビゲーション言語として見た場合、OCLは[XPathと対比することができる](https://ja.wikipedia.org/wiki/XML_Path_Language "wikilink")。XPath が [XMLツリーに対してナビゲーションを行うのに対して](../Page/Extensible_Markup_Language.md "wikilink")、OCL は MOFベースのモデルやメタモデル（つまり [XMIツリー](../Page/XML_Metadata_Interchange.md "wikilink")）に対してナビゲーションを行う。換言すれば、OCL と UML や MOF との関係と、XPath と XML の関係が似ているのである。モデルやメタモデルに副作用のない付加情報（制約など）を与えるモデル記述言語として見た場合、OCLと同様な役割を果たす言語として [Alloy](https://ja.wikipedia.org/wiki/Alloy_Analyzer "wikilink") などがある。
+ナビゲーション言語として見た場合、OCLは[XPathと対比することができる](../Page/XML_Path_Language.md "wikilink")。XPath が [XMLツリーに対してナビゲーションを行うのに対して](../Page/Extensible_Markup_Language.md "wikilink")、OCL は MOFベースのモデルやメタモデル（つまり [XMIツリー](../Page/XML_Metadata_Interchange.md "wikilink")）に対してナビゲーションを行う。換言すれば、OCL と UML や MOF との関係と、XPath と XML の関係が似ているのである。モデルやメタモデルに副作用のない付加情報（制約など）を与えるモデル記述言語として見た場合、OCLと同様な役割を果たす言語として [Alloy](https://ja.wikipedia.org/wiki/Alloy_Analyzer "wikilink") などがある。
 
 ## 脚注
 
@@ -44,20 +44,20 @@ OCL は、[MOFのメタ要素と表明を関連付けることで](../Page/Meta-
   - [MOF](../Page/Meta-Object_Facility.md "wikilink")
   - [MOF Queries/Views/Transformations](../Page/QVT.md "wikilink") (QVT)
   - [XMI](../Page/XML_Metadata_Interchange.md "wikilink")
-  - [インテンショナルプログラミング](https://ja.wikipedia.org/wiki/インテンショナルプログラミング "wikilink") (IP)
-  - [オブジェクト指向分析設計](https://ja.wikipedia.org/wiki/オブジェクト指向分析設計 "wikilink") (OOAD)
+  - [インテンショナルプログラミング](../Page/インテンショナルプログラミング.md "wikilink") (IP)
+  - [オブジェクト指向分析設計](../Page/オブジェクト指向分析設計.md "wikilink") (OOAD)
   - [コンピュータシミュレーション](https://ja.wikipedia.org/wiki/コンピュータシミュレーション "wikilink")
   - [ドメイン固有言語](../Page/ドメイン固有言語.md "wikilink") (DSL)
   - [ドメイン固有モデリング](../Page/ドメイン固有モデリング.md "wikilink") (DSM)
   - [メタモデル](../Page/メタモデル.md "wikilink")
-  - [メタデータ](https://ja.wikipedia.org/wiki/メタデータ "wikilink")
+  - [メタデータ](../Page/メタデータ.md "wikilink")
   - [モデルベーステスト](../Page/モデルベーステスト.md "wikilink") (MBT)
   - [モデル駆動型アーキテクチャ](../Page/モデル駆動型アーキテクチャ.md "wikilink") (MDA)
   - [モデル駆動工学](../Page/モデル駆動工学.md "wikilink") (MDE)
   - [モデル変換言語](../Page/モデル変換言語.md "wikilink") (MTL)
   - [モデリング言語](../Page/モデリング言語.md "wikilink")
   - [変換言語](https://ja.wikipedia.org/wiki/変換言語 "wikilink") (TL)
-  - [XML変換言語](https://ja.wikipedia.org/wiki/XML変換言語 "wikilink") (XTL)
+  - [XML変換言語](../Page/XML変換言語.md "wikilink") (XTL)
 
 ## 外部リンク
 

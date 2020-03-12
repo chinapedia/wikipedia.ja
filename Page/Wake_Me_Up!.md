@@ -5,15 +5,15 @@
 
 ## 解説
 
-  - 累計売上は89万枚\[1\]。[オリコン集計での累計売上は](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")67.1万枚。
+  - 累計売上は89万枚\[1\]。[オリコン集計での累計売上は](../Page/オリコンチャート.md "wikilink")67.1万枚。
 
 ## 収録曲
 
-全曲 作詞・作曲：[伊秩弘将](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink")、編曲：[水島康貴](https://ja.wikipedia.org/wiki/水島康貴 "wikilink")
+全曲 作詞・作曲：[伊秩弘将](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink")、編曲：[水島康貴](../Page/水島康貴.md "wikilink")
 
 1.  **Wake Me Up\!**
       -
-        [PVはフィリピンの](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")[ボホール島](https://ja.wikipedia.org/wiki/ボホール島 "wikilink")で撮影された。監督は[鶴岡雅浩](https://ja.wikipedia.org/wiki/鶴岡雅浩 "wikilink")。
+        [PVはフィリピンの](../Page/ミュージック・ビデオ.md "wikilink")[ボホール島](../Page/ボホール島.md "wikilink")で撮影された。監督は[鶴岡雅浩](https://ja.wikipedia.org/wiki/鶴岡雅浩 "wikilink")。
         この曲の歌詞の中に「もう泣かない」という[島袋寛子](../Page/島袋寛子.md "wikilink")のセリフがあるが、歌番組などに出るとその時にカメラ目線を要求されていた。しかし、島袋本人はカメラ目線が苦手だったため、このセリフが嫌いだったらしい。
         [ロート製薬](../Page/ロート製薬.md "wikilink")『Zi：リセ』のCMソングとして使用された。
         映画『[ウォーターボーイズ](../Page/ウォーターボーイズ.md "wikilink")』の主人公達がゲームセンターで『[ダンスダンスレボリューション](https://ja.wikipedia.org/wiki/ダンスダンスレボリューション "wikilink")』をプレイするシーンにて、この曲の英語バージョンが流れている。
@@ -27,7 +27,7 @@
 
 ## 収録アルバム
 
-  - [RISE](https://ja.wikipedia.org/wiki/RISE_\(SPEEDのアルバム\) "wikilink") (\#1,2、\#1はRISE Mix)
+  - [RISE](../Page/RISE_\(SPEEDのアルバム\).md "wikilink") (\#1,2、\#1はRISE Mix)
   - [MOMENT](../Page/MOMENT_\(SPEEDのアルバム\).md "wikilink") (\#1,2、\#1はgrowin' up\! mix)
   - [SPEED THE MEMORIAL BEST 1335days Dear Friends 1](https://ja.wikipedia.org/wiki/SPEED_THE_MEMORIAL_BEST_1335days_Dear_Friends "wikilink") (\#1、RISE Mix)
 

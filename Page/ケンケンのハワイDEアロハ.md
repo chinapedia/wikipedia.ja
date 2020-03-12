@@ -1,7 +1,7 @@
 > この記事は[DE](https://ja.wikipedia.org/wiki/DE)から翻訳されています。
 
 
-**ケンケンのハワイDEアロハ**（けんけんのはわいであろは）は、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")3月に[平和が開発](https://ja.wikipedia.org/wiki/平和_\(パチンコ\) "wikilink")、発売したアニメ『[チキチキマシン猛レース](../Page/チキチキマシン猛レース.md "wikilink")』に登場する「ケンケン」を主人公とした[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。『[燃える闘魂アントニオ猪木](https://ja.wikipedia.org/wiki/燃える闘魂アントニオ猪木 "wikilink")』に続くHEIWA SSシリーズ第2弾。
+**ケンケンのハワイDEアロハ**（けんけんのはわいであろは）は、[2007年](../Page/2007年.md "wikilink")3月に[平和が開発](../Page/平和_\(パチンコ\).md "wikilink")、発売したアニメ『[チキチキマシン猛レース](../Page/チキチキマシン猛レース.md "wikilink")』に登場する「ケンケン」を主人公とした[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。『[燃える闘魂アントニオ猪木](https://ja.wikipedia.org/wiki/燃える闘魂アントニオ猪木 "wikilink")』に続くHEIWA SSシリーズ第2弾。
 
 ## 特徴
 
@@ -9,7 +9,7 @@
   - 盤面一杯に液晶表示器を持つSSシリーズの特徴を生かした、擬似玉演出を採用している。液晶でパチンコ玉を模したパイナップルや爆弾が盤面を転がる。さらに「トローリーバス」予告経由時は「ケンケン」も擬似玉となって登場する。
   - 『[チキチキマシン猛レース](../Page/チキチキマシン猛レース.md "wikilink")』とのタイアップ機だが、メインキャラクターは「ケンケン」という設定。また、元のアニメに登場しない当機専用のオリジナルキャラクター（「カナ」、「クララ」など）が設定されている。
   - 通常時は縦、確率変動中は横、時短時はズーム（正面）と3方向のスクロール画面を演出。
-  - 3種類+1の背景チェンジ。「青海」、法則崩れはチャンス。なお青海背景と確率変動中の画面は、『[海物語シリーズ](https://ja.wikipedia.org/wiki/海物語シリーズ "wikilink")』（[三洋物産](https://ja.wikipedia.org/wiki/三洋物産 "wikilink")）のパロディ。
+  - 3種類+1の背景チェンジ。「青海」、法則崩れはチャンス。なお青海背景と確率変動中の画面は、『[海物語シリーズ](../Page/海物語シリーズ.md "wikilink")』（[三洋物産](https://ja.wikipedia.org/wiki/三洋物産 "wikilink")）のパロディ。
 
 ## スペック
 

@@ -7,23 +7,23 @@
 
   - 本作はグループ初のマキシシングルであり、[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")には[島袋のソロ曲](../Page/島袋寛子.md "wikilink")（hiroとして）「見つめていたい」[今井のソロ曲](https://ja.wikipedia.org/wiki/今井絵理子 "wikilink")（Eriko with Crunchとして）「冷たくしないで」が収録されている。いずれも[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")などの音楽番組で披露された。
   - 初回生産分のみスリックカードジャケット仕様。スリーブケースに加え、歌詞カードがSPEEDとhiroとErikoでそれぞれ分かれたカード仕様になっている。
-  - 本来は水曜日発売であるが、出荷の関係で一部の店舗では4日前の日曜日から店頭に並んでいた。そのためそれらの店舗で若干の売上を記録し、本来チャートインするはずの週より1週早く週間113位（[オリコン](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")）にチャートインした。当時オリコンチャートは100位圏外は順位のみの公表であったため、113位にチャートインした週は参考記録となり、112ランクアップし1位を記録した翌週が初登場週という扱いになった。そのため、最も急上昇して1位を獲得した当時の作品（100位圏外からの記録）とされている。また、100位圏内からの最も急上昇して1位を獲得した作品は、[ピンク・レディー](../Page/ピンク・レディー.md "wikilink")の「[カメレオン・アーミー](https://ja.wikipedia.org/wiki/カメレオン・アーミー_\(ピンク・レディーの曲\) "wikilink")」（88位→1位、87ランクアップ）である。
+  - 本来は水曜日発売であるが、出荷の関係で一部の店舗では4日前の日曜日から店頭に並んでいた。そのためそれらの店舗で若干の売上を記録し、本来チャートインするはずの週より1週早く週間113位（[オリコン](../Page/オリコンチャート.md "wikilink")）にチャートインした。当時オリコンチャートは100位圏外は順位のみの公表であったため、113位にチャートインした週は参考記録となり、112ランクアップし1位を記録した翌週が初登場週という扱いになった。そのため、最も急上昇して1位を獲得した当時の作品（100位圏外からの記録）とされている。また、100位圏内からの最も急上昇して1位を獲得した作品は、[ピンク・レディー](../Page/ピンク・レディー.md "wikilink")の「[カメレオン・アーミー](../Page/カメレオン・アーミー_\(ピンク・レディーの曲\).md "wikilink")」（88位→1位、87ランクアップ）である。
   - オリコンチャートで7週連続トップ20入りになるなど、ロングセラーとなった曲である。
-  - 出荷ベースで4作連続[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を達成し、累計売上は160万枚\[1\]。[オリコン集計での累計売上は](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")122.1万枚。
+  - 出荷ベースで4作連続[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を達成し、累計売上は160万枚\[1\]。[オリコン集計での累計売上は](../Page/オリコンチャート.md "wikilink")122.1万枚。
 
 ## 収録曲
 
 1.  **ALL MY TRUE LOVE** / SPEED
       -
         作詞・作曲：伊秩弘将
-        [TBS独占放送](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")・1998[バレーボール世界選手権](../Page/バレーボール世界選手権.md "wikilink")テーマソング
-        「[ALIVE](../Page/ALIVE_\(SPEEDの曲\).md "wikilink")」と同様に[ベストアルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[MOMENT](../Page/MOMENT_\(SPEEDのアルバム\).md "wikilink")』には収録されているが、オリジナルアルバムには収録されていない。
+        [TBS独占放送](../Page/TBSテレビ.md "wikilink")・1998[バレーボール世界選手権](../Page/バレーボール世界選手権.md "wikilink")テーマソング
+        「[ALIVE](../Page/ALIVE_\(SPEEDの曲\).md "wikilink")」と同様に[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")『[MOMENT](../Page/MOMENT_\(SPEEDのアルバム\).md "wikilink")』には収録されているが、オリジナルアルバムには収録されていない。
 2.  **見つめていたい** / [hiro](../Page/島袋寛子.md "wikilink")
       -
-        [エプソン](../Page/セイコーエプソン.md "wikilink")「[カラリオ](https://ja.wikipedia.org/wiki/カラリオ "wikilink")」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
-3.  **冷たくしないで** / [Eriko](https://ja.wikipedia.org/wiki/今井絵理子 "wikilink") with [Crunch](https://ja.wikipedia.org/wiki/Crunch "wikilink")
+        [エプソン](../Page/セイコーエプソン.md "wikilink")「[カラリオ](../Page/カラリオ.md "wikilink")」[CMソング](../Page/コマーシャルソング.md "wikilink")
+3.  **冷たくしないで** / [Eriko](https://ja.wikipedia.org/wiki/今井絵理子 "wikilink") with [Crunch](../Page/Crunch.md "wikilink")
       -
-        [ロート製薬](../Page/ロート製薬.md "wikilink")「キャンパスリップ」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
+        [ロート製薬](../Page/ロート製薬.md "wikilink")「キャンパスリップ」[CMソング](../Page/コマーシャルソング.md "wikilink")
 4.  **ALL MY TRUE LOVE**(instrumental) / SPEED
 5.  **見つめていたい**(instrumental) / hiro
 6.  **冷たくしないで**(instrumental) / Eriko with Crunch
@@ -35,12 +35,12 @@
   - ラブリィ\! Pop & Cute Dance Trax（\#1）
   - スポコン\! ～sports music compilation～（\#1）
   - [SPEED MEMORIAL LIVE “One More Dream” + Remix\!\!\!](https://ja.wikipedia.org/wiki/SPEED_MEMORIAL_LIVE_“One_More_Dream”_+_Remix!!! "wikilink")（\#1 ライブ音源、Za downtown weekend mix）
-  - [BEST HITS LIVE〜Save The Children SPEED LIVE 2003〜](https://ja.wikipedia.org/wiki/BEST_HITS_LIVE〜Save_The_Children_SPEED_LIVE_2003〜 "wikilink")（\#1 ライブ音源）
+  - [BEST HITS LIVE〜Save The Children SPEED LIVE 2003〜](../Page/BEST_HITS_LIVE〜Save_The_Children_SPEED_LIVE_2003〜.md "wikilink")（\#1 ライブ音源）
   - [SPEEDLAND -The Premium Best Re Tracks-](https://ja.wikipedia.org/wiki/SPEEDLAND_-The_Premium_Best_Re_Tracks- "wikilink")（\#1 セルフカバー）
-  - [BRILLIANT](https://ja.wikipedia.org/wiki/BRILLIANT_\(hiroのアルバム\) "wikilink")（\#2）
-  - [寛 スペシャル・ボックス](https://ja.wikipedia.org/wiki/寛_スペシャル・ボックス "wikilink")（\#2）
-  - [寛 シングル・コレクション](https://ja.wikipedia.org/wiki/寛_シングル・コレクション "wikilink")（\#2）
-  - [Naked and True](https://ja.wikipedia.org/wiki/Naked_and_True "wikilink")（\#2 DJ Hasebe remix PART-1）
+  - [BRILLIANT](../Page/BRILLIANT_\(hiroのアルバム\).md "wikilink")（\#2）
+  - [寛 スペシャル・ボックス](../Page/寛_スペシャル・ボックス.md "wikilink")（\#2）
+  - [寛 シングル・コレクション](../Page/寛_シングル・コレクション.md "wikilink")（\#2）
+  - [Naked and True](../Page/Naked_and_True.md "wikilink")（\#2 DJ Hasebe remix PART-1）
   - Single Collection 〜Stairway〜（\#3）
   - My Place（\#3 TRANSPACIFIC RADIO MIX）
 

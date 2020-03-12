@@ -6,13 +6,13 @@
 ## 解説
 
   - この曲の振り付けを行ったのは[新垣仁絵](https://ja.wikipedia.org/wiki/新垣仁絵 "wikilink")である。（[島袋のラジオより](../Page/島袋寛子.md "wikilink")）
-  - この作品でSPEEDのシングル総売り上げ枚数が1000万枚を突破した。（[オリコン調べ](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")）。
+  - この作品でSPEEDのシングル総売り上げ枚数が1000万枚を突破した。（[オリコン調べ](../Page/オリコンチャート.md "wikilink")）。
   - 本作は累計61.3万枚を売り上げた（オリコン調べ）。
 
 ## 収録曲
 
 1.  **Long Way Home**
-      - 作詞・作曲:[伊秩弘将](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink") / 編曲:[水島康貴](https://ja.wikipedia.org/wiki/水島康貴 "wikilink")
+      - 作詞・作曲:[伊秩弘将](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink") / 編曲:[水島康貴](../Page/水島康貴.md "wikilink")
 2.  **泣いてもいいよ**
       - 作詞・作曲:伊秩弘将 / 編曲:水島康貴
     <!-- end list -->
@@ -20,7 +20,7 @@
         どのアルバムにも収録されておらず、このシングルでしか聴くことが出来ない。
 3.  **Confusion**
       -
-        音楽番組でも披露され1999年12月10日放送の[FUN](https://ja.wikipedia.org/wiki/FUN "wikilink")にて解散・前編として流れた。
+        音楽番組でも披露され1999年12月10日放送の[FUN](../Page/FUN.md "wikilink")にて解散・前編として流れた。
     <!-- end list -->
       - 作詞・作曲:伊秩弘将 / 編曲:水島康貴
 4.  **Long Way Home(Instrumental)**
@@ -28,7 +28,7 @@
 
 ## 収録アルバム
 
-  - [Carry On my way](https://ja.wikipedia.org/wiki/Carry_On_my_way "wikilink") (\#1,3、\#1はAlbum Edit)
+  - [Carry On my way](../Page/Carry_On_my_way.md "wikilink") (\#1,3、\#1はAlbum Edit)
   - [SPEED THE MEMORIAL BEST 1335days Dear Friends 2](https://ja.wikipedia.org/wiki/SPEED_THE_MEMORIAL_BEST_1335days_Dear_Friends "wikilink") (\#1)
 
 ## 外部リンク

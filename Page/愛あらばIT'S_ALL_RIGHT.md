@@ -7,8 +7,8 @@
 
   - [安倍なつみ](../Page/安倍なつみ.md "wikilink")ラスト参加シングル。
   - 初回盤は三方背BOX仕様、52Pフォトブック付き。ジャケット裏は安倍を中心に15人が並ぶデザイン。
-  - 歌番組出演時および[PVの衣装は](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")[ベレー帽](https://ja.wikipedia.org/wiki/ベレー帽 "wikilink")と[ブレザー](https://ja.wikipedia.org/wiki/ブレザー "wikilink")にチェックの[スカート](../Page/スカート.md "wikilink")。
-  - ベレー帽とブレザーは****[ピンク](https://ja.wikipedia.org/wiki/ピンク "wikilink")と****[水色](../Page/水色.md "wikilink")の2組。
+  - 歌番組出演時および[PVの衣装は](../Page/ミュージック・ビデオ.md "wikilink")[ベレー帽](../Page/ベレー帽.md "wikilink")と[ブレザー](../Page/ブレザー.md "wikilink")にチェックの[スカート](../Page/スカート.md "wikilink")。
+  - ベレー帽とブレザーは****[ピンク](../Page/ピンク.md "wikilink")と****[水色](../Page/水色.md "wikilink")の2組。
 
 ## 収録曲
 
@@ -16,10 +16,10 @@
 
 1.  **愛あらばIT'S ALL RIGHT**
       -
-        編曲：[小西貴雄](https://ja.wikipedia.org/wiki/小西貴雄 "wikilink")
+        編曲：[小西貴雄](../Page/小西貴雄.md "wikilink")
 2.  **出来る女**
       -
-        編曲：[鈴木俊介](https://ja.wikipedia.org/wiki/鈴木俊介 "wikilink")
+        編曲：[鈴木俊介](../Page/鈴木俊介.md "wikilink")
 3.  愛あらばIT'S ALL RIGHT (Instrumental)
 
 ## 参加メンバー

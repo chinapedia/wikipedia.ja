@@ -1,13 +1,13 @@
 > この記事は[STS](https://ja.wikipedia.org/wiki/STS)から翻訳されています。
 
 
-**STS**は、[ゼネラルモーターズ](https://ja.wikipedia.org/wiki/ゼネラルモーターズ "wikilink")が製造、[キャデラック](https://ja.wikipedia.org/wiki/キャデラック "wikilink")ブランドで販売していた自動車である。
+**STS**は、[ゼネラルモーターズ](../Page/ゼネラルモーターズ.md "wikilink")が製造、[キャデラック](../Page/キャデラック.md "wikilink")ブランドで販売していた自動車である。
 
 ## 概要
 
 [セヴィルのスポーツモデルの後継車種である](https://ja.wikipedia.org/wiki/キャデラック・セヴィル "wikilink")。
 
-その後は、[2012年](../Page/2012年.md "wikilink")に[DTSとの統合により](https://ja.wikipedia.org/wiki/キャデラック・DTS "wikilink")[XTSとなった](https://ja.wikipedia.org/wiki/キャデラック・XTS "wikilink")。
+その後は、[2012年](../Page/2012年.md "wikilink")に[DTSとの統合により](../Page/キャデラック・DTS.md "wikilink")[XTSとなった](https://ja.wikipedia.org/wiki/キャデラック・XTS "wikilink")。
 
 {{-}}
 
@@ -20,7 +20,7 @@
 ## 関連項目
 
   - [キャデラック・XTS](https://ja.wikipedia.org/wiki/キャデラック・XTS "wikilink")
-  - [ラグジュアリーカー](https://ja.wikipedia.org/wiki/ラグジュアリーカー "wikilink")
+  - [ラグジュアリーカー](../Page/ラグジュアリーカー.md "wikilink")
 
 [Category:キャデラックの車種](https://ja.wikipedia.org/wiki/Category:キャデラックの車種 "wikilink")
 

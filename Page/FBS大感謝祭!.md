@@ -1,7 +1,7 @@
 > この記事は[FBS!](https://ja.wikipedia.org/wiki/FBS!)から翻訳されています。
 
 
-『**FBS大感謝祭\!**』（エフビーエスだいかんしゃさい）→『**FBS元気まつり**』（エフビーエスげんきまつり）とは、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に開局35周年を迎えた[福岡放送](../Page/福岡放送.md "wikilink")が、毎年[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")第2・第3[土曜日](../Page/土曜日.md "wikilink")に放送している開局記念番組。
+『**FBS大感謝祭\!**』（エフビーエスだいかんしゃさい）→『**FBS元気まつり**』（エフビーエスげんきまつり）とは、[2005年](../Page/2005年.md "wikilink")に開局35周年を迎えた[福岡放送](../Page/福岡放送.md "wikilink")が、毎年[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")第2・第3[土曜日](../Page/土曜日.md "wikilink")に放送している開局記念番組。
 
 ## 放送時間
 
@@ -18,14 +18,14 @@
 
 ## 司会
 
-  - 【第1回】[東野幸治](../Page/東野幸治.md "wikilink")、[古賀ゆきひと](https://ja.wikipedia.org/wiki/古賀ゆきひと "wikilink")（FBSアナウンサー）、[奥田美香子](https://ja.wikipedia.org/wiki/奥田美香子 "wikilink")（FBSアナウンサー）
+  - 【第1回】[東野幸治](../Page/東野幸治.md "wikilink")、[古賀ゆきひと](../Page/古賀ゆきひと.md "wikilink")（FBSアナウンサー）、[奥田美香子](../Page/奥田美香子.md "wikilink")（FBSアナウンサー）
   - 【第2回】[ココリコ](../Page/ココリコ.md "wikilink")、古賀ゆきひと（FBSアナウンサー）、奥田美香子（FBSアナウンサー）
-  - 【第3回】ココリコ、[山本華世](https://ja.wikipedia.org/wiki/山本華世 "wikilink")、[福岡竜馬](https://ja.wikipedia.org/wiki/福岡竜馬 "wikilink")（FBSアナウンサー）
-  - 【第4回】[博多華丸・大吉](https://ja.wikipedia.org/wiki/博多華丸・大吉 "wikilink")、山本華世、福岡竜馬（FBSアナウンサー）
+  - 【第3回】ココリコ、[山本華世](https://ja.wikipedia.org/wiki/山本華世 "wikilink")、[福岡竜馬](../Page/福岡竜馬.md "wikilink")（FBSアナウンサー）
+  - 【第4回】[博多華丸・大吉](../Page/博多華丸・大吉.md "wikilink")、山本華世、福岡竜馬（FBSアナウンサー）
   - 【第5回】博多華丸・大吉、[羽鳥慎一](https://ja.wikipedia.org/wiki/羽鳥慎一 "wikilink")（当時日本テレビアナウンサー）、[西尾由佳理](https://ja.wikipedia.org/wiki/西尾由佳理 "wikilink")（当時日本テレビアナウンサー）
   - 【第6回】古賀ゆきひと（FBSアナウンサー）、伊藤舞（FBSアナウンサー）
   - 【第7回】山本華世、福岡竜馬（FBSアナウンサー）
-  - 【第8回】山本華世、[桝太一](https://ja.wikipedia.org/wiki/桝太一 "wikilink")（日本テレビアナウンサー）、古賀ゆきひと（FBSアナウンサー）、伊藤舞（FBSアナウンサー）
+  - 【第8回】山本華世、[桝太一](../Page/桝太一.md "wikilink")（日本テレビアナウンサー）、古賀ゆきひと（FBSアナウンサー）、伊藤舞（FBSアナウンサー）
   - 【第9回】桝太一（日本テレビアナウンサー）、古賀ゆきひと（FBSアナウンサー）、伊藤舞（FBSアナウンサー）
   - 【第10回】桝太一（日本テレビアナウンサー）、[水卜麻美](https://ja.wikipedia.org/wiki/水卜麻美 "wikilink")（日本テレビアナウンサー）、伊藤舞（FBSアナウンサー）、[松井礼明](../Page/松井礼明.md "wikilink")（FBSアナウンサー）
 
@@ -34,15 +34,15 @@
   - 九州縦断[温泉](../Page/温泉.md "wikilink")マラソン
     1日で*37*か所の温泉（開局*37*周年にひっかけて）を入浴料1人あたり2007円で2チームに分かれて列車を乗り継ぎ、制限時間以内に温泉に入りまくるチャレンジ企画。
   - 踊れ\!ダントツ選手権
-    「楽しくなければ[ダンス](https://ja.wikipedia.org/wiki/ダンス "wikilink")じゃない\!」をコンセプトに、[真島茂樹](https://ja.wikipedia.org/wiki/真島茂樹 "wikilink")や[GOGO BROTHERSが選び抜いた](https://ja.wikipedia.org/wiki/GOGO_BROTHERS "wikilink")8組が賞金50万円を賭けて文字通り*ダントツに楽しいダンス*を選び抜く。コーナー進行は[仲谷亜希子](https://ja.wikipedia.org/wiki/仲谷亜希子 "wikilink")（当時FBSアナウンサー）と[高田課長](https://ja.wikipedia.org/wiki/高田課長 "wikilink")。
-  - [第一交通産業](https://ja.wikipedia.org/wiki/第一交通産業 "wikilink")PRESENTS 九州[ラーメン](https://ja.wikipedia.org/wiki/ラーメン "wikilink")総選挙トップ50
+    「楽しくなければ[ダンス](../Page/ダンス.md "wikilink")じゃない\!」をコンセプトに、[真島茂樹](../Page/真島茂樹.md "wikilink")や[GOGO BROTHERSが選び抜いた](https://ja.wikipedia.org/wiki/GOGO_BROTHERS "wikilink")8組が賞金50万円を賭けて文字通り*ダントツに楽しいダンス*を選び抜く。コーナー進行は[仲谷亜希子](../Page/仲谷亜希子.md "wikilink")（当時FBSアナウンサー）と[高田課長](../Page/高田課長.md "wikilink")。
+  - [第一交通産業](../Page/第一交通産業.md "wikilink")PRESENTS 九州[ラーメン](https://ja.wikipedia.org/wiki/ラーメン "wikilink")総選挙トップ50
     インターネットなどを使ってより多くの視聴者に投票してもらい、どこの店のラーメンが一番美味いのかを放送時間内に随時[ランキング](https://ja.wikipedia.org/wiki/ランキング "wikilink")形式で紹介（すべてVTR、一部ラーメン店では実際に[彦麻呂](https://ja.wikipedia.org/wiki/彦麻呂 "wikilink")が試食）。また、1位の店は生中継で紹介された。コーナー進行は古賀ゆきひと（FBSアナウンサー）、[財津ひろみ](../Page/財津ひろみ.md "wikilink")（FBSアナウンサー）、彦麻呂（兼リポーター）。ランキングの全ては、番組公式サイトでいつでも見ることができた。
-  - 向かうところ手品師\!驚愕の[マジックSHOW](https://ja.wikipedia.org/wiki/奇術 "wikilink")
-    世界大会グランド・チャンピオンやマジック・オブ・ザ・イヤーなど、数々の栄光に輝いた日本のマジシャン・[小川心平](https://ja.wikipedia.org/wiki/小川心平 "wikilink")がテレビ初公開のマジックなどを[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")で送る。
+  - 向かうところ手品師\!驚愕の[マジックSHOW](../Page/奇術.md "wikilink")
+    世界大会グランド・チャンピオンやマジック・オブ・ザ・イヤーなど、数々の栄光に輝いた日本のマジシャン・[小川心平](https://ja.wikipedia.org/wiki/小川心平 "wikilink")がテレビ初公開のマジックなどを[生放送](../Page/生放送.md "wikilink")で送る。
   - FBS番組対抗「元気サプライズ」自慢人スクープ大賞
     FBSの人気番組が、さまざまな「元気人」を取材。その「元気の素」を検証し、「最もサプライズな元気人」を決定する。
   - あなたの夢をかなえたい
-    「[パンくん](https://ja.wikipedia.org/wiki/パンくん "wikilink")、[ジェームズ](https://ja.wikipedia.org/wiki/ジェームズ "wikilink")と○○したい」「[松中信彦](https://ja.wikipedia.org/wiki/松中信彦 "wikilink")選手が特別コーチ\!野球少年に初ヒットを\!」など、さまざまな人たちのさまざまな夢を叶えるためにFBSが全力で手伝いをする企画。
+    「[パンくん](../Page/パンくん.md "wikilink")、[ジェームズ](../Page/ジェームズ.md "wikilink")と○○したい」「[松中信彦](https://ja.wikipedia.org/wiki/松中信彦 "wikilink")選手が特別コーチ\!野球少年に初ヒットを\!」など、さまざまな人たちのさまざまな夢を叶えるためにFBSが全力で手伝いをする企画。
 
 ## 外部リンク
 

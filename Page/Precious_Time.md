@@ -7,24 +7,24 @@
 
   - SPEEDの8cmシングルとしてのリリースはこの作品が最後となった。
   - SPEEDの楽曲では初めて[上原多香子](https://ja.wikipedia.org/wiki/上原多香子 "wikilink")と[新垣仁絵](https://ja.wikipedia.org/wiki/新垣仁絵 "wikilink")のソロパートが導入された。この作品から解散前のシングルすべてに上原と新垣のソロパートがある。
-  - 本作は累計62.3万枚を売り上げた（[オリコン調べ](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")）。[日本レコード協会](https://ja.wikipedia.org/wiki/日本レコード協会 "wikilink")では[ミリオン認定されている](../Page/ミリオンセラー.md "wikilink")。
+  - 本作は累計62.3万枚を売り上げた（[オリコン調べ](../Page/オリコンチャート.md "wikilink")）。[日本レコード協会](../Page/日本レコード協会.md "wikilink")では[ミリオン認定されている](../Page/ミリオンセラー.md "wikilink")。
 
 ## 収録曲
 
-いずれも作詞・作曲：[伊秩弘将](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink")、編曲：[水島康貴](https://ja.wikipedia.org/wiki/水島康貴 "wikilink")。
+いずれも作詞・作曲：[伊秩弘将](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink")、編曲：[水島康貴](../Page/水島康貴.md "wikilink")。
 
 1.  **Precious Time**
       -
-        [EPSON](../Page/セイコーエプソン.md "wikilink")「[カラリオ](https://ja.wikipedia.org/wiki/カラリオ "wikilink")」CMソング。サックス・ソロをフィーチャーしている。
+        [EPSON](../Page/セイコーエプソン.md "wikilink")「[カラリオ](../Page/カラリオ.md "wikilink")」CMソング。サックス・ソロをフィーチャーしている。
 2.  **季節がいく時**
       -
-        映画『[ドラえもん のび太の宇宙漂流記](https://ja.wikipedia.org/wiki/ドラえもん_のび太の宇宙漂流記 "wikilink")』主題歌。
+        映画『[ドラえもん のび太の宇宙漂流記](../Page/ドラえもん_のび太の宇宙漂流記.md "wikilink")』主題歌。
 3.  **Precious Time（Instrumental）**
 4.  **季節がいく時（Instrumental）**
 
 ## 収録アルバム
 
-  - [Carry On my way](https://ja.wikipedia.org/wiki/Carry_On_my_way "wikilink") (\#1)
+  - [Carry On my way](../Page/Carry_On_my_way.md "wikilink") (\#1)
   - [SPEED THE MEMORIAL BEST 1335days Dear Friends 2](https://ja.wikipedia.org/wiki/SPEED_THE_MEMORIAL_BEST_1335days_Dear_Friends "wikilink") (\#1,2)
 
 ## 外部リンク

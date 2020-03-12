@@ -1,11 +1,11 @@
 > この記事は[SD ](https://ja.wikipedia.org/wiki/SD_)から翻訳されています。
 
 
-『**新SD戦国伝 機動武者大戦**』（しんエスディーせんごくでん きどうむしゃたいせん）は、[1996年](../Page/1996年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")に[バンダイ](../Page/バンダイ.md "wikilink")から発売された[PlayStation用](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")[シミュレーションRPG](https://ja.wikipedia.org/wiki/シミュレーションRPG "wikilink")ゲーム。
+『**新SD戦国伝 機動武者大戦**』（しんエスディーせんごくでん きどうむしゃたいせん）は、[1996年](../Page/1996年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")に[バンダイ](../Page/バンダイ.md "wikilink")から発売された[PlayStation用](../Page/PlayStation_\(ゲーム機\).md "wikilink")[シミュレーションRPG](https://ja.wikipedia.org/wiki/シミュレーションRPG "wikilink")ゲーム。
 
 ## 概要
 
-SD戦国伝における[超機動大将軍編と](https://ja.wikipedia.org/wiki/新SD戦国伝_超機動大将軍 "wikilink")[武神輝羅鋼編の間に起こった物語を舞台にしたSLG](https://ja.wikipedia.org/wiki/超SD戦国伝_武神輝羅鋼 "wikilink")。[七人の超将軍編](https://ja.wikipedia.org/wiki/新SD戦国伝_七人の超将軍編 "wikilink")、超機動大将軍編、武神輝羅鋼編の武者が多数登場している。
+SD戦国伝における[超機動大将軍編と](../Page/新SD戦国伝_超機動大将軍.md "wikilink")[武神輝羅鋼編の間に起こった物語を舞台にしたSLG](../Page/超SD戦国伝_武神輝羅鋼.md "wikilink")。[七人の超将軍編](../Page/新SD戦国伝_七人の超将軍編.md "wikilink")、超機動大将軍編、武神輝羅鋼編の武者が多数登場している。
 
 主人公は、月影頑駄無、飛燕頑駄無、龍虎頑駄無（名前は変更可能）の3人の中から1人を選ぶ。初回限定版には[BB戦士](https://ja.wikipedia.org/wiki/BB戦士 "wikilink")武者號斗丸のメッキバージョンがついていた。
 
@@ -35,49 +35,49 @@ SD戦国伝における[超機動大将軍編と](https://ja.wikipedia.org/wiki/
 #### 大将軍と関係者
 
   - 飛駆鳥大将軍＜ビクトリーダイショウグン＞
-    「[七人の超将軍編](https://ja.wikipedia.org/wiki/新SD戦国伝_七人の超将軍編 "wikilink")」より登場した大将軍。覇道国の者達が闇の三権化を復活させて天災を鎮める方法に別の方法を考えていた。また、覇道国に起きた天災の原因が天宮であることに責任を持っている。
+    「[七人の超将軍編](../Page/新SD戦国伝_七人の超将軍編.md "wikilink")」より登場した大将軍。覇道国の者達が闇の三権化を復活させて天災を鎮める方法に別の方法を考えていた。また、覇道国に起きた天災の原因が天宮であることに責任を持っている。
     ゲームでは「大将軍」と表記されている。
   - 剣聖副将軍＜ケンセイフクショウグン＞
-    「[七人の超将軍編](https://ja.wikipedia.org/wiki/新SD戦国伝_七人の超将軍編 "wikilink")」に登場した烈空頑駄無が出世した姿。
+    「[七人の超将軍編](../Page/新SD戦国伝_七人の超将軍編.md "wikilink")」に登場した烈空頑駄無が出世した姿。
   - 隠密副将軍＜おんみつふくしょうぐん＞
-    「[七人の超将軍編](https://ja.wikipedia.org/wiki/新SD戦国伝_七人の超将軍編 "wikilink")」に登場した烈破頑駄無が出世した姿。
+    「[七人の超将軍編](../Page/新SD戦国伝_七人の超将軍編.md "wikilink")」に登場した烈破頑駄無が出世した姿。
   - 武志、野武志（[ブッシ](https://ja.wikipedia.org/wiki/未来世紀の兵器#ブッシ "wikilink")、[ノブッシ](https://ja.wikipedia.org/wiki/ノブッシ "wikilink")）
     烈帝城の一般兵。
 
 #### 闘覇五人衆
 
-「[超機動大将軍編](https://ja.wikipedia.org/wiki/新SD戦国伝_超機動大将軍 "wikilink")」より登場した5人。
+「[超機動大将軍編](../Page/新SD戦国伝_超機動大将軍.md "wikilink")」より登場した5人。
 
   - 武者號斗丸＜ムシャゴッドマル＞（[ゴッドガンダム](../Page/ゴッドガンダム.md "wikilink")）
-    輝龍頑駄無＜キリュウガンダム＞（[ドラゴンガンダム](https://ja.wikipedia.org/wiki/ドラゴンガンダム "wikilink")）
-    武者真紅主＜ムシャマックス＞（[ガンダムマックスター](https://ja.wikipedia.org/wiki/ガンダムマックスター "wikilink")）
-    武者鷺主＜ムシャローズ＞（[ガンダムローズ](https://ja.wikipedia.org/wiki/ガンダムローズ "wikilink")）
-    武者冒流刀＜ムシャボルト＞（[ボルトガンダム](https://ja.wikipedia.org/wiki/ボルトガンダム "wikilink")）
+    輝龍頑駄無＜キリュウガンダム＞（[ドラゴンガンダム](../Page/ドラゴンガンダム.md "wikilink")）
+    武者真紅主＜ムシャマックス＞（[ガンダムマックスター](../Page/ガンダムマックスター.md "wikilink")）
+    武者鷺主＜ムシャローズ＞（[ガンダムローズ](../Page/ガンダムローズ.md "wikilink")）
+    武者冒流刀＜ムシャボルト＞（[ボルトガンダム](../Page/ボルトガンダム.md "wikilink")）
 
 #### 七人の超将軍
 
-「[七人の超将軍編](https://ja.wikipedia.org/wiki/新SD戦国伝_七人の超将軍編 "wikilink")」に登場した七人の将軍達。
+「[七人の超将軍編](../Page/新SD戦国伝_七人の超将軍編.md "wikilink")」に登場した七人の将軍達。
 
   - 荒鬼頑駄無＜コウキガンダム＞（四代目頑駄無大将軍）（[ガンダムNT-1](../Page/ガンダムNT-1.md "wikilink")）
     雷鳴頑駄無＜ライメイガンダム＞（二代目頑駄無大将軍）
     獣王頑駄無＜ジュウオウガンダム＞（頑駄無大将軍）
     天地頑駄無＜テンチガンダム＞（三代目頑駄無大将軍）
     千力頑駄無＜センリキガンダム＞ （千生大将軍）
-    爆流頑駄無＜バクリュウガンダム＞（[シャイニングガンダム](https://ja.wikipedia.org/wiki/シャイニングガンダム "wikilink")）
+    爆流頑駄無＜バクリュウガンダム＞（[シャイニングガンダム](../Page/シャイニングガンダム.md "wikilink")）
     鉄斗羅頑駄無＜テトラガンダム＞（[ガンダムGP-04](https://ja.wikipedia.org/wiki/ガンダム開発計画#ガンダム試作4号機（ガーベラ） "wikilink")）
     「光闇の楯」を狙われる。
 
 #### 武零斗忍軍
 
-「[超機動大将軍編](https://ja.wikipedia.org/wiki/新SD戦国伝_超機動大将軍 "wikilink")」より登場。
+「[超機動大将軍編](../Page/新SD戦国伝_超機動大将軍.md "wikilink")」より登場。
 
-  - 武零斗＜ブレード＞（[ガンダムシュピーゲル](https://ja.wikipedia.org/wiki/ガンダムシュピーゲル "wikilink")）
+  - 武零斗＜ブレード＞（[ガンダムシュピーゲル](../Page/ガンダムシュピーゲル.md "wikilink")）
     武零斗忍軍の頭目。
   - 彗心＜スイシン＞（[ミナレットガンダム](https://ja.wikipedia.org/wiki/モビルファイター#ミナレットガンダム "wikilink")）
     武零斗の部下。
   - 彗蓮＜スイレン＞（[ライジングガンダム](https://ja.wikipedia.org/wiki/シャイニングガンダム#ライジングガンダム "wikilink")）
     武零斗の部下。
-  - 彗仙＜スイセン＞（[ノーベルガンダム](https://ja.wikipedia.org/wiki/ノーベルガンダム "wikilink")）
+  - 彗仙＜スイセン＞（[ノーベルガンダム](../Page/ノーベルガンダム.md "wikilink")）
     武零斗の部下だが、蜃鬼狼に操られてしまう。
 
 #### 堂我一族
@@ -86,7 +86,7 @@ SD戦国伝における[超機動大将軍編と](https://ja.wikipedia.org/wiki/
     堂我一族統領。「闇の鎧」を狙われる。
   - 毘龍＜ヒリュウ＞
     堂我一族副統領。
-  - 義羅＜ギラ＞（[ギラ・ドーガ](https://ja.wikipedia.org/wiki/ギラ・ドーガ "wikilink")）
+  - 義羅＜ギラ＞（[ギラ・ドーガ](../Page/ギラ・ドーガ.md "wikilink")）
     堂我一族下忍。
   - 千手姫＜センジュヒメ＞（[パラス・アテネ](https://ja.wikipedia.org/wiki/ティターンズの機動兵器#パラス・アテネ "wikilink")）
     十四代目漣飛威の許婚だが、覇道闇軍団に洗脳されて武装隊副官朧般若として戦う。エンディングで彗心と彗蓮は互いに好きである事を指摘していた。
@@ -94,7 +94,7 @@ SD戦国伝における[超機動大将軍編と](https://ja.wikipedia.org/wiki/
 #### その他の頑駄無軍団
 
   - 鉄機武者爆進丸＜テッキムシャ・バクシンマル＞
-    「[超機動大将軍編](https://ja.wikipedia.org/wiki/新SD戦国伝_超機動大将軍 "wikilink")」に登場した人造武者。
+    「[超機動大将軍編](../Page/新SD戦国伝_超機動大将軍.md "wikilink")」に登場した人造武者。
 
 ### 覇道闇軍団
 
@@ -123,9 +123,9 @@ SD戦国伝における[超機動大将軍編と](https://ja.wikipedia.org/wiki/
     武闘隊隊長。好戦的で戦う相手を探している。
   - 艶麗＜エンレイ＞（[ゴトラタン](https://ja.wikipedia.org/wiki/ザンスカール帝国の機動兵器#ゴトラタン "wikilink")）
     武装隊隊長で女性。気が強く神経質で、身だしなみに厳しい。また、ブランド好き。故郷の覇道国を愛しており、天災の原因を作った天宮を憎んでいる。蜃鬼狼とは仲が悪い。
-  - 虎狼角＜コロウカク＞（[グフ](https://ja.wikipedia.org/wiki/グフ "wikilink")）
+  - 虎狼角＜コロウカク＞（[グフ](../Page/グフ.md "wikilink")）
     妖魔隊隊長。唸り声を上げたりする。巨大で虎の顔を持つが、この姿は変幻した姿で本来の姿は虎柄のグフ。一時期頑駄無軍団に入り影虎丸＜ カゲトラマル ＞と名乗り、主人公の必殺技と機動武者の情報を収集し、砂アリ地獄で消息を絶ち覇道闇軍団と合流。終盤はこの姿で戦うことが多い。
-  - 斬鬼＜ザンキ＞（[ギラ・ドーガ](https://ja.wikipedia.org/wiki/ギラ・ドーガ "wikilink")（サイコミュ試験型））
+  - 斬鬼＜ザンキ＞（[ギラ・ドーガ](../Page/ギラ・ドーガ.md "wikilink")（サイコミュ試験型））
     忍者隊隊長。行動的で、執念深い性格の持ち主。
     艶麗とは共に登場することが多く、何かと気遣っている。爆流頑駄無に「薄汚いネズミ」と言われた時は殺意を出していた。
   - 蜃鬼狼＜シンキロウ＞（[リグ・シャッコー](https://ja.wikipedia.org/wiki/シャッコー#リグ・シャッコー "wikilink")）
@@ -158,7 +158,7 @@ SD戦国伝における[超機動大将軍編と](https://ja.wikipedia.org/wiki/
     氷魔隊足軽。
   - 蝦蟇法師＜ガマホウシ＞（[デナン・ゲー](https://ja.wikipedia.org/wiki/クロスボーン・バンガードの機動兵器#デナン・ゲー "wikilink")）
     呪術隊足軽。
-  - 猪王砕＜イオウサイ＞（[ジム改](https://ja.wikipedia.org/wiki/ジム改 "wikilink")）
+  - 猪王砕＜イオウサイ＞（[ジム改](../Page/ジム改.md "wikilink")）
     特殊部隊足軽。
   - 砲壊＜ほうかい＞（[ザクII](../Page/ザクII.md "wikilink")＋[スキウレ](https://ja.wikipedia.org/wiki/スキウレ "wikilink")）
     武装隊所属の砲撃手。
@@ -215,12 +215,12 @@ SD戦国伝における[超機動大将軍編と](https://ja.wikipedia.org/wiki/
     エンディングでは復活する。
   - 爆斬先生＜バクザンセンセイ＞（[ゼウスガンダム](https://ja.wikipedia.org/wiki/モビルファイター#ゼウスガンダム "wikilink")）
     道場師範。
-  - 転鎧＜テンガイ＞（[ネロ](https://ja.wikipedia.org/wiki/ネロ_\(ガンダムシリーズ\) "wikilink")）
+  - 転鎧＜テンガイ＞（[ネロ](../Page/ネロ_\(ガンダムシリーズ\).md "wikilink")）
     爆斬の弟子。
   - 起槍＜キソウ＞（[ジェガン改](https://ja.wikipedia.org/wiki/ジェガン#ジェガン改 "wikilink")）
     爆斬の弟子。
   - 魔星頑駄無＜マスターガンダム＞（[マスターガンダム](../Page/マスターガンダム.md "wikilink")）
-    「[超機動大将軍編](https://ja.wikipedia.org/wiki/新SD戦国伝_超機動大将軍 "wikilink")」に登場した轟天頑駄無の弟。「天剣絶刀」を狙われる。エンディングではこの戦いで自身の野望成就のため子供を育てている。
+    「[超機動大将軍編](../Page/新SD戦国伝_超機動大将軍.md "wikilink")」に登場した轟天頑駄無の弟。「天剣絶刀」を狙われる。エンディングではこの戦いで自身の野望成就のため子供を育てている。
   - メロン
     特別合戦一章に登場するメロン。攻撃してくる。自称「高級メロン様」。
 
@@ -228,7 +228,7 @@ SD戦国伝における[超機動大将軍編と](https://ja.wikipedia.org/wiki/
 
 死乃辺峠と雷瀬溜湖の間にある振打ヶ原で毎年行われる武芸大会に登場する兄弟。メロン割りを好み、メロン割に来なかった武芸者達を変に思っていた。主人公からメロン割りに並ならぬ執念を持っていたされている。
 
-  - 古是駆＜こぜく＞（[ゼク・アイン](https://ja.wikipedia.org/wiki/ゼク・アイン "wikilink")第3種兵装）
+  - 古是駆＜こぜく＞（[ゼク・アイン](../Page/ゼク・アイン.md "wikilink")第3種兵装）
     是駆三兄弟長男。
   - 今是駆＜こんぜく＞（ゼク・アイン第2種兵装）
     是駆三兄弟次男。
@@ -267,7 +267,7 @@ SD戦国伝における[超機動大将軍編と](https://ja.wikipedia.org/wiki/
 ## 関連項目
 
   - [SDガンダム](../Page/SDガンダム.md "wikilink")
-  - [武者ガンダム](https://ja.wikipedia.org/wiki/武者ガンダム "wikilink")
+  - [武者ガンダム](../Page/武者ガンダム.md "wikilink")
 
 [Category:武者ガンダム](https://ja.wikipedia.org/wiki/Category:武者ガンダム "wikilink") [Category:SDガンダムのゲーム作品](https://ja.wikipedia.org/wiki/Category:SDガンダムのゲーム作品 "wikilink") [Category:シミュレーションRPG](https://ja.wikipedia.org/wiki/Category:シミュレーションRPG "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:1996年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1996年のコンピュータゲーム "wikilink")
 

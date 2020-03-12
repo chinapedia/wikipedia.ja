@@ -1,9 +1,9 @@
 > この記事は[ Q!](https://ja.wikipedia.org/wiki/_Q!)から翻訳されています。
 
 
-『**クイズ発見バラエティー イッテQ\!**』（クイズはっけんバラエティー イッテキュー）は、[日本テレビ系列で](../Page/日本テレビ放送網.md "wikilink")[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月3日](../Page/10月3日.md "wikilink")から[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで毎週[月曜日](../Page/月曜日.md "wikilink")23:25 - 23:55 (JST) に放送された[クイズ](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。
+『**クイズ発見バラエティー イッテQ\!**』（クイズはっけんバラエティー イッテキュー）は、[日本テレビ系列で](../Page/日本テレビ放送網.md "wikilink")[2005年](../Page/2005年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで毎週[月曜日](../Page/月曜日.md "wikilink")23:25 - 23:55 (JST) に放送された[クイズ](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。
 
-レギュラー放送終了後、2006年4月4日 (19:00 - 20:54) と2006年9月18日 (19:00 - 20:54) の2度にわたって『**[世界の果てまでイッテQ\!](https://ja.wikipedia.org/wiki/世界の果てまでイッテQ! "wikilink")SPECIAL**』が放送され、高評価を得たことにより、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[2月4日](../Page/2月4日.md "wikilink")(19:58 - 20:54)から『[世界の果てまでイッテQ\!](https://ja.wikipedia.org/wiki/世界の果てまでイッテQ! "wikilink")』が放送されることになった（『[ウタワラ](https://ja.wikipedia.org/wiki/ウタワラ "wikilink")（旧タイトル:歌笑HOTヒット10）』の後枠）。
+レギュラー放送終了後、2006年4月4日 (19:00 - 20:54) と2006年9月18日 (19:00 - 20:54) の2度にわたって『**[世界の果てまでイッテQ\!](https://ja.wikipedia.org/wiki/世界の果てまでイッテQ! "wikilink")SPECIAL**』が放送され、高評価を得たことにより、[2007年](../Page/2007年.md "wikilink")[2月4日](../Page/2月4日.md "wikilink")(19:58 - 20:54)から『[世界の果てまでイッテQ\!](https://ja.wikipedia.org/wiki/世界の果てまでイッテQ! "wikilink")』が放送されることになった（『[ウタワラ](../Page/ウタワラ.md "wikilink")（旧タイトル:歌笑HOTヒット10）』の後枠）。
 
 ## 出演者
 
@@ -11,9 +11,9 @@
   - ゲスト
       - [松嶋尚美](../Page/松嶋尚美.md "wikilink")（[オセロ](../Page/オセロ_\(お笑い\).md "wikilink")）
       - [飯島愛](https://ja.wikipedia.org/wiki/飯島愛 "wikilink")
-      - [濱口優](../Page/濱口優.md "wikilink")（[よゐこ](https://ja.wikipedia.org/wiki/よゐこ "wikilink")）
+      - [濱口優](../Page/濱口優.md "wikilink")（[よゐこ](../Page/よゐこ.md "wikilink")）
       - [インパルス](../Page/インパルス_\(お笑いコンビ\).md "wikilink")　ほか
-  - [パッション屋良](https://ja.wikipedia.org/wiki/パッション屋良 "wikilink")（[前説](https://ja.wikipedia.org/wiki/前説 "wikilink")）
+  - [パッション屋良](../Page/パッション屋良.md "wikilink")（[前説](../Page/前説.md "wikilink")）
 
 ## 番組概要
 
@@ -51,14 +51,14 @@
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/奇術" title="wikilink">マジック</a></p></td>
+<td><p><a href="../Page/奇術.md" title="wikilink">マジック</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/眞鍋かをり" title="wikilink">眞鍋かをり</a></p></td>
 <td><p><a href="../Page/石原良純.md" title="wikilink">石原良純</a>・<a href="https://ja.wikipedia.org/wiki/インパルス_(お笑い)" title="wikilink">インパルス</a>・<a href="../Page/ユンソナ.md" title="wikilink">ユンソナ</a></p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/沖縄美ら海水族館" title="wikilink">沖縄美ら海水族館</a></p></td>
+<td><p><a href="../Page/沖縄美ら海水族館.md" title="wikilink">沖縄美ら海水族館</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ソニン_(タレント)" title="wikilink">ソニン</a></p></td>
 <td><p><a href="../Page/松嶋尚美.md" title="wikilink">松嶋尚美</a>（<a href="../Page/オセロ_(お笑い).md" title="wikilink">オセロ</a>）・<a href="https://ja.wikipedia.org/wiki/山口もえ" title="wikilink">山口もえ</a>・<a href="../Page/スピードワゴン.md" title="wikilink">スピードワゴン</a></p></td>
 <td><p>-</p></td>
@@ -66,13 +66,13 @@
 <tr class="even">
 <td><p>4</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ヨガ" title="wikilink">ヨガ</a></p></td>
-<td><p><a href="../Page/濱口優.md" title="wikilink">濱口優</a>（<a href="https://ja.wikipedia.org/wiki/よゐこ" title="wikilink">よゐこ</a>）</p></td>
-<td><p>松嶋尚美・<a href="https://ja.wikipedia.org/wiki/あびる優" title="wikilink">あびる優</a>・<a href="https://ja.wikipedia.org/wiki/オリエンタルラジオ" title="wikilink">オリエンタルラジオ</a></p></td>
+<td><p><a href="../Page/濱口優.md" title="wikilink">濱口優</a>（<a href="../Page/よゐこ.md" title="wikilink">よゐこ</a>）</p></td>
+<td><p>松嶋尚美・<a href="../Page/あびる優.md" title="wikilink">あびる優</a>・<a href="../Page/オリエンタルラジオ.md" title="wikilink">オリエンタルラジオ</a></p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ちょいわるおやじ" title="wikilink">ちょい不良オヤジ</a></p></td>
+<td><p><a href="../Page/ちょいわるおやじ.md" title="wikilink">ちょい不良オヤジ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/森下千里" title="wikilink">森下千里</a></p></td>
 <td><p>松嶋尚美・石原良純・<a href="https://ja.wikipedia.org/wiki/安めぐみ" title="wikilink">安めぐみ</a></p></td>
 <td><p>48000円</p></td>
@@ -94,7 +94,7 @@
 <tr class="even">
 <td><p>8</p></td>
 <td><p><a href="../Page/結婚式.md" title="wikilink">ウエディング</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/杏さゆり" title="wikilink">杏さゆり</a></p></td>
+<td><p><a href="../Page/杏さゆり.md" title="wikilink">杏さゆり</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/竹山隆範" title="wikilink">カンニング竹山</a>・<a href="../Page/ほしのあき.md" title="wikilink">ほしのあき</a>・YOU</p></td>
 <td><p>43000円</p></td>
 </tr>
@@ -102,14 +102,14 @@
 <td><p>9</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/青森県" title="wikilink">青森</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/夏川純" title="wikilink">夏川純</a></p></td>
-<td><p>勝俣州和・<a href="https://ja.wikipedia.org/wiki/タカアンドトシ" title="wikilink">タカアンドトシ</a>・松嶋尚美</p></td>
+<td><p>勝俣州和・<a href="../Page/タカアンドトシ.md" title="wikilink">タカアンドトシ</a>・松嶋尚美</p></td>
 <td><p>62000円</p></td>
 </tr>
 <tr class="even">
 <td><p>10</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/漁師" title="wikilink">漁師</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/藤本敏史" title="wikilink">藤本敏史</a>（<a href="../Page/FUJIWARA.md" title="wikilink">FUJIWARA</a>）</p></td>
-<td><p>松嶋尚美・<a href="https://ja.wikipedia.org/wiki/劇団ひとり" title="wikilink">劇団ひとり</a>・<a href="https://ja.wikipedia.org/wiki/さくら_(タレント)" title="wikilink">さくら</a></p></td>
+<td><p><a href="../Page/漁師.md" title="wikilink">漁師</a></p></td>
+<td><p><a href="../Page/藤本敏史.md" title="wikilink">藤本敏史</a>（<a href="../Page/FUJIWARA.md" title="wikilink">FUJIWARA</a>）</p></td>
+<td><p>松嶋尚美・<a href="../Page/劇団ひとり.md" title="wikilink">劇団ひとり</a>・<a href="../Page/さくら_(タレント).md" title="wikilink">さくら</a></p></td>
 <td><p>53000円</p></td>
 </tr>
 <tr class="odd">
@@ -144,28 +144,28 @@
 
 1.  「[象の](../Page/ゾウ.md "wikilink")[おならの大きさは](https://ja.wikipedia.org/wiki/屁 "wikilink")?」 飯島愛・濱口優・あびる優・眞鍋かをり
     「[剣の達人は暗闇でも強いのか](../Page/剣術.md "wikilink")?」 内村光良・インパルス
-2.  「[糸電話](https://ja.wikipedia.org/wiki/糸電話 "wikilink")はどれ位遠くまで聞こえるか?」 内村光良・濱口優・スピードワゴン・[中島啓江](https://ja.wikipedia.org/wiki/中島啓江 "wikilink")
+2.  「[糸電話](../Page/糸電話.md "wikilink")はどれ位遠くまで聞こえるか?」 内村光良・濱口優・スピードワゴン・[中島啓江](../Page/中島啓江.md "wikilink")
     「芸能人が[質屋](../Page/質屋.md "wikilink")で私物を売ると一般人より優遇されるか?」 松嶋尚美・飯島愛・眞鍋かをり
-3.  「[ダジャレで](https://ja.wikipedia.org/wiki/駄洒落 "wikilink")[寿司](https://ja.wikipedia.org/wiki/寿司 "wikilink")ネタを全品注文出来るか?」 内村光良・松嶋尚美・インパルス
-    「[催眠術](https://ja.wikipedia.org/wiki/催眠術 "wikilink")が掛かっていない時芸能人はどうする?」 飯島愛・濱口優・[出川哲朗](../Page/出川哲朗.md "wikilink")・[ニコラス・ペタス](https://ja.wikipedia.org/wiki/ニコラス・ペタス "wikilink")
+3.  「[ダジャレで](../Page/駄洒落.md "wikilink")[寿司](../Page/寿司.md "wikilink")ネタを全品注文出来るか?」 内村光良・松嶋尚美・インパルス
+    「[催眠術](https://ja.wikipedia.org/wiki/催眠術 "wikilink")が掛かっていない時芸能人はどうする?」 飯島愛・濱口優・[出川哲朗](../Page/出川哲朗.md "wikilink")・[ニコラス・ペタス](../Page/ニコラス・ペタス.md "wikilink")
 4.  「[涙](../Page/涙.md "wikilink")は感情によって味が違うのか?」 内村光良・松嶋尚美・飯島愛・インパルス・濱口優（涙提供者：[鈴木宗男](https://ja.wikipedia.org/wiki/鈴木宗男 "wikilink")・ふかわりょう・[小池栄子](https://ja.wikipedia.org/wiki/小池栄子 "wikilink")）
 5.  「ダジャレで[おでん](https://ja.wikipedia.org/wiki/おでん "wikilink")全品注文出来るか?」 内村光良・松嶋尚美・[堤下敦](https://ja.wikipedia.org/wiki/インパルス_\(お笑い\) "wikilink")・ふかわりょう
-    「警察の[指名手配](https://ja.wikipedia.org/wiki/指名手配 "wikilink")の似顔絵はどこまで似ているか?」 飯島愛・濱口優
-6.  「[相撲](../Page/相撲.md "wikilink")と[柔道](../Page/柔道.md "wikilink")決まり手の数が多いのは?」 内村光良・松嶋尚美・あびる優・堤下敦・濱口優・[やす](https://ja.wikipedia.org/wiki/やす "wikilink")（[ずん](https://ja.wikipedia.org/wiki/ずん "wikilink")）・[秋山成勲](https://ja.wikipedia.org/wiki/秋山成勲 "wikilink")・[若翔洋](https://ja.wikipedia.org/wiki/馬場口洋一 "wikilink")・[旭道山和泰](https://ja.wikipedia.org/wiki/旭道山和泰 "wikilink")
-7.  「どの[リーゼント](https://ja.wikipedia.org/wiki/リーゼント "wikilink")が一番イケてるか、最強リーゼント決定戦」 内村光良・松嶋尚美・インパルス・森田勉
+    「警察の[指名手配](../Page/指名手配.md "wikilink")の似顔絵はどこまで似ているか?」 飯島愛・濱口優
+6.  「[相撲](../Page/相撲.md "wikilink")と[柔道](../Page/柔道.md "wikilink")決まり手の数が多いのは?」 内村光良・松嶋尚美・あびる優・堤下敦・濱口優・[やす](../Page/やす.md "wikilink")（[ずん](../Page/ずん.md "wikilink")）・[秋山成勲](../Page/秋山成勲.md "wikilink")・[若翔洋](../Page/馬場口洋一.md "wikilink")・[旭道山和泰](../Page/旭道山和泰.md "wikilink")
+7.  「どの[リーゼント](../Page/リーゼント.md "wikilink")が一番イケてるか、最強リーゼント決定戦」 内村光良・松嶋尚美・インパルス・森田勉
 8.  「ダジャレで[焼肉](../Page/焼肉.md "wikilink")全品注文できるか?」 内村光良・松嶋尚美・インパルス
-    「おならの音を採取して曲を演奏できるか?」 濱口優・[ますだおかだ](https://ja.wikipedia.org/wiki/ますだおかだ "wikilink")
-9.  「素人が[フィギュアスケート](../Page/フィギュアスケート.md "wikilink")をすると何点取れるか?」 内村光良・松嶋尚美・あびる優・濱口優・インパルス・[大石恵](../Page/大石恵.md "wikilink")・[渡部絵美](https://ja.wikipedia.org/wiki/渡部絵美 "wikilink")
-    「素人が[新体操](https://ja.wikipedia.org/wiki/新体操 "wikilink")をすると何点取れるか?」 内村光良・松嶋尚美・あびる優・濱口優・インパルス・[秋山エリカ](https://ja.wikipedia.org/wiki/秋山エリカ "wikilink")
+    「おならの音を採取して曲を演奏できるか?」 濱口優・[ますだおかだ](../Page/ますだおかだ.md "wikilink")
+9.  「素人が[フィギュアスケート](../Page/フィギュアスケート.md "wikilink")をすると何点取れるか?」 内村光良・松嶋尚美・あびる優・濱口優・インパルス・[大石恵](../Page/大石恵.md "wikilink")・[渡部絵美](../Page/渡部絵美.md "wikilink")
+    「素人が[新体操](../Page/新体操.md "wikilink")をすると何点取れるか?」 内村光良・松嶋尚美・あびる優・濱口優・インパルス・[秋山エリカ](../Page/秋山エリカ.md "wikilink")
 10. 「イッテQメンバーは内村光良にどれだけ心を開いているか?」 内村光良・松嶋尚美・飯島愛・インパルス
-11. 「[おみくじ](https://ja.wikipedia.org/wiki/おみくじ "wikilink")は本当に当たるのか?」 [内村光良](https://ja.wikipedia.org/wiki/内村光良 "wikilink")・[飯島愛](https://ja.wikipedia.org/wiki/飯島愛 "wikilink")・[ふかわりょう](../Page/ふかわりょう.md "wikilink")・[スピードワゴン](../Page/スピードワゴン.md "wikilink")
+11. 「[おみくじ](../Page/おみくじ.md "wikilink")は本当に当たるのか?」 [内村光良](https://ja.wikipedia.org/wiki/内村光良 "wikilink")・[飯島愛](https://ja.wikipedia.org/wiki/飯島愛 "wikilink")・[ふかわりょう](../Page/ふかわりょう.md "wikilink")・[スピードワゴン](../Page/スピードワゴン.md "wikilink")
 12. 「最終回・世界の果てまでイッテQ\! 予告編」[内村光良](https://ja.wikipedia.org/wiki/内村光良 "wikilink")・[松嶋尚美](../Page/松嶋尚美.md "wikilink")・[飯島愛](https://ja.wikipedia.org/wiki/飯島愛 "wikilink")・[濱口優](../Page/濱口優.md "wikilink")・[金子貴俊](../Page/金子貴俊.md "wikilink")・[ウド鈴木](../Page/ウド鈴木.md "wikilink")・[原千晶](https://ja.wikipedia.org/wiki/原千晶 "wikilink")
 
 ## スタッフ
 
-  - ナレーション:[奥田民義](https://ja.wikipedia.org/wiki/奥田民義 "wikilink")、[立木文彦](https://ja.wikipedia.org/wiki/立木文彦 "wikilink")（スペシャル）、[真地勇志](https://ja.wikipedia.org/wiki/真地勇志 "wikilink")（スペシャル）
+  - ナレーション:[奥田民義](../Page/奥田民義.md "wikilink")、[立木文彦](../Page/立木文彦.md "wikilink")（スペシャル）、[真地勇志](../Page/真地勇志.md "wikilink")（スペシャル）
   - 企画・演出:古立善之
-  - 構成:[そーたに](https://ja.wikipedia.org/wiki/そーたに "wikilink")、[すずきB](https://ja.wikipedia.org/wiki/すずきB "wikilink")、[藤井靖大](https://ja.wikipedia.org/wiki/藤井靖大 "wikilink")、[鮫肌文殊](https://ja.wikipedia.org/wiki/鮫肌文殊 "wikilink")、[酒井健作](https://ja.wikipedia.org/wiki/酒井健作 "wikilink")
+  - 構成:[そーたに](../Page/そーたに.md "wikilink")、[すずきB](../Page/すずきB.md "wikilink")、[藤井靖大](https://ja.wikipedia.org/wiki/藤井靖大 "wikilink")、[鮫肌文殊](../Page/鮫肌文殊.md "wikilink")、[酒井健作](../Page/酒井健作.md "wikilink")
   - TM:[福王寺貴之](https://ja.wikipedia.org/wiki/福王寺貴之 "wikilink")
   - SW:三井隆裕
   - C・CAM:津野祐一
@@ -176,29 +176,29 @@
   - ロケCAM:海野太郎、青木芳行
   - 美術プロデューサー:高津光一郎
   - デザイン:本田恵子
-  - 編集:阪野秀行（[オムニバス・ジャパン](https://ja.wikipedia.org/wiki/オムニバス・ジャパン "wikilink")）
+  - 編集:阪野秀行（[オムニバス・ジャパン](../Page/オムニバス・ジャパン.md "wikilink")）
   - MA:番匠康雄
   - TK:山沢啓子
-  - 音効:保苅智子（[サウンドエッグノッグ](https://ja.wikipedia.org/wiki/サウンドエッグノッグ "wikilink")）
+  - 音効:保苅智子（[サウンドエッグノッグ](../Page/サウンドエッグノッグ.md "wikilink")）
   - CGタイトル：アイヴリックスタジオ
   - 広報:笹木奈緒美
   - デスク:富永久美子
-  - ロケディレクター:[石崎史郎](https://ja.wikipedia.org/wiki/石崎史郎 "wikilink")、小林 朗、小林 剛、板垣忠彦
+  - ロケディレクター:[石崎史郎](../Page/石崎史郎.md "wikilink")、小林 朗、小林 剛、板垣忠彦
   - ディレクター:福田逸平太、小島 悟、飯山直樹、長尾 真
   - 編成:柴田裕次郎
   - AP:川嶋典子
   - プロデューサー:[加藤幸二郎](https://ja.wikipedia.org/wiki/加藤幸二郎 "wikilink") ／ 岡崎成美、小西 寛
-  - チーフプロデューサー:[安岡喜郎](https://ja.wikipedia.org/wiki/安岡喜郎 "wikilink")
-  - 制作協力:[Call](https://ja.wikipedia.org/wiki/コール_\(テレビ制作会社\) "wikilink")、[K-max](https://ja.wikipedia.org/wiki/ケイマックス "wikilink")
+  - チーフプロデューサー:[安岡喜郎](../Page/安岡喜郎.md "wikilink")
+  - 制作協力:[Call](../Page/コール_\(テレビ制作会社\).md "wikilink")、[K-max](../Page/ケイマックス.md "wikilink")
   - 製作著作：[日テレ](../Page/日本テレビ放送網.md "wikilink")
 
 ## エンディングテーマ
 
-  - 第1回～5回：『スタートライン』　[SE7EN](https://ja.wikipedia.org/wiki/SE7EN "wikilink")
+  - 第1回～5回：『スタートライン』　[SE7EN](../Page/SE7EN.md "wikilink")
   - 第6回～9回：『[Get Over](https://ja.wikipedia.org/wiki/Get_Over_\(Soweluの曲\) "wikilink")』　[Sowelu](https://ja.wikipedia.org/wiki/Sowelu "wikilink")
-  - 第10回～12回：『[約束のカケラ](https://ja.wikipedia.org/wiki/約束のカケラ "wikilink")』　[W-inds.](https://ja.wikipedia.org/wiki/W-inds. "wikilink")
+  - 第10回～12回：『[約束のカケラ](https://ja.wikipedia.org/wiki/約束のカケラ "wikilink")』　[W-inds.](../Page/W-inds..md "wikilink")
   - 第13回～17回：『[悲しみのシミかな](https://ja.wikipedia.org/wiki/悲しみのシミかな "wikilink")』　[キャプテンストライダム](https://ja.wikipedia.org/wiki/キャプテンストライダム "wikilink")
-  - 第18回～21回：『ハンモック』　[相沢巧弥子](https://ja.wikipedia.org/wiki/相沢巧弥子 "wikilink")
+  - 第18回～21回：『ハンモック』　[相沢巧弥子](../Page/相沢巧弥子.md "wikilink")
   - 第22回～最終回:『[azure moon](https://ja.wikipedia.org/wiki/azure_moon "wikilink")』 [Every Little Thing](../Page/Every_Little_Thing.md "wikilink")
 
 ## 脚注

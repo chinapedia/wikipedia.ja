@@ -14,11 +14,11 @@
 
 ## 関連項目
 
-  - [広告代理店](https://ja.wikipedia.org/wiki/広告代理店 "wikilink")
+  - [広告代理店](../Page/広告代理店.md "wikilink")
   - [博報堂](https://ja.wikipedia.org/wiki/博報堂 "wikilink")
   - [永井一史](https://ja.wikipedia.org/wiki/永井一史 "wikilink")
-  - [永井一正](https://ja.wikipedia.org/wiki/永井一正 "wikilink")
-  - [佐野研二郎](https://ja.wikipedia.org/wiki/佐野研二郎 "wikilink") - 元社員
+  - [永井一正](../Page/永井一正.md "wikilink")
+  - [佐野研二郎](../Page/佐野研二郎.md "wikilink") - 元社員
 
 ## 外部リンク
 

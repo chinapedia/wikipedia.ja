@@ -1,7 +1,7 @@
 > この記事は[GABA \(\)](https://ja.wikipedia.org/wiki/GABA_\(\))から翻訳されています。
 
 
-**株式会社GABA（ガバ）**\[1\]は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")に本社を置く主に[首都圏で](https://ja.wikipedia.org/wiki/首都圏_\(日本\) "wikilink")、**マンツーマン英会話**の語学学校を展開する企業。[学校教育法](../Page/学校教育法.md "wikilink")で定める学校ではない。「大胆不敵な人生目標に挑む人を応援すること」、「国際舞台で活躍できる人材を育成すること」、「多様な文化の相互理解に貢献すること」という3つのミッションを掲げているのが特徴。
+**株式会社GABA（ガバ）**\[1\]は、[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")に本社を置く主に[首都圏で](https://ja.wikipedia.org/wiki/首都圏_\(日本\) "wikilink")、**マンツーマン英会話**の語学学校を展開する企業。[学校教育法](../Page/学校教育法.md "wikilink")で定める学校ではない。「大胆不敵な人生目標に挑む人を応援すること」、「国際舞台で活躍できる人材を育成すること」、「多様な文化の相互理解に貢献すること」という3つのミッションを掲げているのが特徴。
 
 2015年3月にスタッフ553人 インストラクター1,106人がいる。2016年1月42ヶ所のラーニングスタジオ（LS）がある。\[2\][Gaba_Day_Tokyo_Dome.jpeg](https://ja.wikipedia.org/wiki/File:Gaba_Day_Tokyo_Dome.jpeg "fig:Gaba_Day_Tokyo_Dome.jpeg") 2007年\]\]
 
@@ -10,11 +10,11 @@
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")7月 - 創業。講師宅で外国語教授サービスを提供する「Gabaランゲージスクール」事業を開始。\[3\]
   - [2000年](../Page/2000年.md "wikilink")3月 - スクール事業開始。\[4\]
   - 2000年10月 - 「GABA マンツーマン英会話」に変更。事業を英会話のプライベートレッスンに特化し、事業展開も首都圏のみに集中。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")1月 - [関西](https://ja.wikipedia.org/wiki/関西 "wikilink")初拠点 梅田LS（大阪）を開校。\[5\]
+  - [2005年](../Page/2005年.md "wikilink")1月 - [関西](https://ja.wikipedia.org/wiki/関西 "wikilink")初拠点 梅田LS（大阪）を開校。\[5\]
   - 2005年4月 - [中部初拠点](../Page/中部地方.md "wikilink") 栄LS（名古屋）を開校。\[6\]
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")12月 - [東京証券取引所](https://ja.wikipedia.org/wiki/東京証券取引所 "wikilink")[マザーズ](../Page/マザーズ.md "wikilink")市場上場。\[7\]
+  - [2006年](../Page/2006年.md "wikilink")12月 - [東京証券取引所](../Page/東京証券取引所.md "wikilink")[マザーズ](../Page/マザーズ.md "wikilink")市場上場。\[7\]
   - 2009年 - 法人向けに講師派遣型サービスの販売を開始
-  - [2011年](../Page/2011年.md "wikilink")12月 - [ニチイ学館](https://ja.wikipedia.org/wiki/ニチイ学館 "wikilink")の完全子会社となる。\[8\]
+  - [2011年](../Page/2011年.md "wikilink")12月 - [ニチイ学館](../Page/ニチイ学館.md "wikilink")の完全子会社となる。\[8\]
   - [2014年](../Page/2014年.md "wikilink")8月 - 本店を渋谷区から新宿区へ移転。
   - 2015年 - 渋谷に「and Gaba.」 オープン
   - 2017年 - 翻訳通訳の総合クラウドソーシング「イングリッシュエージェント」を開始
@@ -24,7 +24,7 @@
 
 駅近立地で朝7時から夜10時40分まで開講して関東、関西、中部に43校を展開しているマンツーマンレッスンの英会話スクールで、本社の所在地は東京都渋谷区元代々木にある。 多くの英会話学校が能力別のグループレッスンを行うのに対し、GABAでは100%マンツーマンで講師は外国人が殆ど（ネイティヴスピーカーの日本人講師も在籍）という内容でレッスンを行っている。
 
-これらのマンツーマンレッスンに加えて、[LPOを活用したインターネットによる新規顧客獲得の効率化などにより](https://ja.wikipedia.org/wiki/ランディングページ最適化 "wikilink")、売上状況を改善している。\[9\]
+これらのマンツーマンレッスンに加えて、[LPOを活用したインターネットによる新規顧客獲得の効率化などにより](../Page/ランディングページ最適化.md "wikilink")、売上状況を改善している。\[9\]
 
 ## ラーニングスタジオ
 
@@ -88,7 +88,7 @@
 
 ## 講師業務委託制度
 
-[Shinjuku_Front_Tower.jpg](https://ja.wikipedia.org/wiki/File:Shinjuku_Front_Tower.jpg "fig:Shinjuku_Front_Tower.jpg")[東京](https://ja.wikipedia.org/wiki/東京 "wikilink")\]\] GABAの講師は、[個人の業者としてGABAから委託されたレッスンを提供する](https://ja.wikipedia.org/wiki/個人事業主 "wikilink")。講師は、自分のスケジュールをほぼ自由に決めることができるものの、生徒のリクエストにより、朝、夕方、土日などにレッスンが予約される傾向がある。講師は、GABAのイントラネットを通して自分のスケジュールを提出するが、GABAは、前日午後6時以降に予約されたレッスンに対して支払う。
+[Shinjuku_Front_Tower.jpg](https://ja.wikipedia.org/wiki/File:Shinjuku_Front_Tower.jpg "fig:Shinjuku_Front_Tower.jpg")[東京](../Page/東京.md "wikilink")\]\] GABAの講師は、[個人の業者としてGABAから委託されたレッスンを提供する](../Page/個人事業主.md "wikilink")。講師は、自分のスケジュールをほぼ自由に決めることができるものの、生徒のリクエストにより、朝、夕方、土日などにレッスンが予約される傾向がある。講師は、GABAのイントラネットを通して自分のスケジュールを提出するが、GABAは、前日午後6時以降に予約されたレッスンに対して支払う。
 
 GABA講師はひと月、特定のレッスン数以上を担当した場合、ボーナスがもらえる。また、顧客になりうる人と、ファースト・ミーティング（「FM」）のレッスン（初レッスン）を行う講師は、その生徒がGABAと契約した場合もボーナスがもらえる。なお、「FM」のレッスンはGABAと特定の契約を結んだ講師に限られる。
 

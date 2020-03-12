@@ -1,7 +1,7 @@
 > この記事は[Source Engine](https://ja.wikipedia.org/wiki/Source_Engine)から翻訳されています。
 
 
-**Source Engine**（**ソースエンジン**）は、[Valve Softwareによって開発された](https://ja.wikipedia.org/wiki/Valve_Software "wikilink")[ゲームエンジン](https://ja.wikipedia.org/wiki/ゲームエンジン "wikilink")。[id Softwareの](https://ja.wikipedia.org/wiki/id_Software "wikilink")[Quake Engineを元にして](https://ja.wikipedia.org/wiki/Quake_Engine "wikilink")、Valveが開発したエンジンを更に改造したものである。初めてSourceエンジンで制作されたゲームは2004年の[FPSである](../Page/ファーストパーソン・シューティングゲーム.md "wikilink")[ハーフライフ2](https://ja.wikipedia.org/wiki/ハーフライフ2 "wikilink")。同年リリースの[DOOM3エンジンと共に](https://ja.wikipedia.org/wiki/Quake_Engine "wikilink")、3Dゲームのグラフィックのレベルを大きくに引き上げたエンジンとして有名である。また、[Modの制作が非常に盛んなエンジンでもある](https://ja.wikipedia.org/wiki/Mod_\(コンピュータゲーム\) "wikilink")。ゲームのModを専門に扱うウェブサイト[Mod DBのゲームエンジン評価数ランキングでは](https://ja.wikipedia.org/wiki/:en:Mod_DB "wikilink")、2013年現在第1位であり、第2位である[Unityの](https://ja.wikipedia.org/wiki/Unity_\(ゲームエンジン\) "wikilink")390票を大きく引き離す1020票を獲得している。
+**Source Engine**（**ソースエンジン**）は、[Valve Softwareによって開発された](https://ja.wikipedia.org/wiki/Valve_Software "wikilink")[ゲームエンジン](../Page/ゲームエンジン.md "wikilink")。[id Softwareの](https://ja.wikipedia.org/wiki/id_Software "wikilink")[Quake Engineを元にして](https://ja.wikipedia.org/wiki/Quake_Engine "wikilink")、Valveが開発したエンジンを更に改造したものである。初めてSourceエンジンで制作されたゲームは2004年の[FPSである](../Page/ファーストパーソン・シューティングゲーム.md "wikilink")[ハーフライフ2](../Page/ハーフライフ2.md "wikilink")。同年リリースの[DOOM3エンジンと共に](https://ja.wikipedia.org/wiki/Quake_Engine "wikilink")、3Dゲームのグラフィックのレベルを大きくに引き上げたエンジンとして有名である。また、[Modの制作が非常に盛んなエンジンでもある](../Page/Mod_\(コンピュータゲーム\).md "wikilink")。ゲームのModを専門に扱うウェブサイト[Mod DBのゲームエンジン評価数ランキングでは](https://ja.wikipedia.org/wiki/:en:Mod_DB "wikilink")、2013年現在第1位であり、第2位である[Unityの](https://ja.wikipedia.org/wiki/Unity_\(ゲームエンジン\) "wikilink")390票を大きく引き離す1020票を獲得している。
 
 ## 特徴
 
@@ -10,7 +10,7 @@
 <!-- end list -->
 
   -
-    『[ハーフライフ2](https://ja.wikipedia.org/wiki/ハーフライフ2 "wikilink")』初期バージョンでは採用されていなかったHDR・自己遮蔽陰影効果への対応など、ゲームソフト・エンジン両方での自動アップデートを生かしている。
+    『[ハーフライフ2](../Page/ハーフライフ2.md "wikilink")』初期バージョンでは採用されていなかったHDR・自己遮蔽陰影効果への対応など、ゲームソフト・エンジン両方での自動アップデートを生かしている。
 
 <!-- end list -->
 
@@ -71,11 +71,11 @@ Mod制作用のバージョン用に作られたModは、Steamにて無料で配
 
   - Source Engine 2007
 
-[『The Orange Box』に含まれるゲームがリリース時に使用していたバージョン](https://ja.wikipedia.org/wiki/The_Orange_Box "wikilink")。Orange Box Engineという呼称だと、Source Engine 2009、2013も含まれるため注意が必要である。Mod制作用のソースコードが公開されており、多くのModがこのバージョンで制作されている。
+[『The Orange Box』に含まれるゲームがリリース時に使用していたバージョン](../Page/The_Orange_Box.md "wikilink")。Orange Box Engineという呼称だと、Source Engine 2009、2013も含まれるため注意が必要である。Mod制作用のソースコードが公開されており、多くのModがこのバージョンで制作されている。
 
   - Source Engine 2009
 
-多くのValve制作ゲームが現在使用している主流バージョン。ユーザーがModゲームを新規に制作することはできなくなったが、既存のゲーム用のマップやアドオンを作成することはできる。『[Team Fortress 2](https://ja.wikipedia.org/wiki/Team_Fortress_2 "wikilink")』や『[カウンターストライク ソース](https://ja.wikipedia.org/wiki/カウンターストライク "wikilink")』、『Garry's Mod』等のゲームではSource Engine MPと呼ばれるマルチプレイヤーゲーム用のバージョンを使用している。これ以降のバージョンはマルチコアレンダリングに対応している。
+多くのValve制作ゲームが現在使用している主流バージョン。ユーザーがModゲームを新規に制作することはできなくなったが、既存のゲーム用のマップやアドオンを作成することはできる。『[Team Fortress 2](https://ja.wikipedia.org/wiki/Team_Fortress_2 "wikilink")』や『[カウンターストライク ソース](../Page/カウンターストライク.md "wikilink")』、『Garry's Mod』等のゲームではSource Engine MPと呼ばれるマルチプレイヤーゲーム用のバージョンを使用している。これ以降のバージョンはマルチコアレンダリングに対応している。
 
   - Source Engine 2013
 
@@ -87,7 +87,7 @@ Mod制作用のソースコードが公開されているが、Valve制作でこ
 
   - ゲーム固有のバージョン
 
-[Left 4 Deadシリーズ以降は](https://ja.wikipedia.org/wiki/Left_4_Dead "wikilink")、作品を経る毎に独自にエンジンの部分に改良を施している。このブランチは他のゲームにも利用されており、ゲーム毎にSDKも公開されている。
+[Left 4 Deadシリーズ以降は](../Page/Left_4_Dead.md "wikilink")、作品を経る毎に独自にエンジンの部分に改良を施している。このブランチは他のゲームにも利用されており、ゲーム毎にSDKも公開されている。
 
   -
     『Left 4 Dead』のエンジン（2008年）
@@ -101,16 +101,16 @@ Mod制作用のソースコードが公開されているが、Valve制作でこ
 ### Valveが制作したゲーム
 
   - Source 2009を使用（以前のバージョンでリリース後、Source 2009に更新されたものを含む）
-    [ハーフライフ2](https://ja.wikipedia.org/wiki/ハーフライフ2 "wikilink")
-    [ハーフライフ2](https://ja.wikipedia.org/wiki/ハーフライフ2 "wikilink") エピソード1
-    [ハーフライフ2](https://ja.wikipedia.org/wiki/ハーフライフ2 "wikilink") デスマッチ
+    [ハーフライフ2](../Page/ハーフライフ2.md "wikilink")
+    [ハーフライフ2](../Page/ハーフライフ2.md "wikilink") エピソード1
+    [ハーフライフ2](../Page/ハーフライフ2.md "wikilink") デスマッチ
     カウンターストライク ソース
-    [Day of Defeat](https://ja.wikipedia.org/wiki/Day_of_Defeat "wikilink"):Source
-    [Portal](https://ja.wikipedia.org/wiki/Portal_\(ゲーム\) "wikilink")
-    [ハーフライフ2](https://ja.wikipedia.org/wiki/ハーフライフ2 "wikilink") エピソード2
+    [Day of Defeat](../Page/Day_of_Defeat.md "wikilink"):Source
+    [Portal](../Page/Portal_\(ゲーム\).md "wikilink")
+    [ハーフライフ2](../Page/ハーフライフ2.md "wikilink") エピソード2
     [Team Fortress 2](https://ja.wikipedia.org/wiki/Team_Fortress_2 "wikilink")
   - ゲーム固有のバージョンのSourceエンジンを使用
-    [Left 4 Dead](https://ja.wikipedia.org/wiki/Left_4_Dead "wikilink")
+    [Left 4 Dead](../Page/Left_4_Dead.md "wikilink")
     [Left 4 Dead 2](https://ja.wikipedia.org/wiki/Left_4_Dead_2 "wikilink")
     [Alien Swarm: Infested](https://ja.wikipedia.org/wiki/:en:Alien_Swarm:_Infested "wikilink")
     [Portal 2](https://ja.wikipedia.org/wiki/Portal_2 "wikilink")
@@ -134,7 +134,7 @@ Mod制作用のソースコードが公開されているが、Valve制作でこ
     [Twilight War: After the Fall](https://ja.wikipedia.org/wiki/:en:Twilight_War:_After_the_Fall "wikilink") (production resumed)
     [:en:Vampire: The Masquerade – Bloodlines](https://ja.wikipedia.org/wiki/:en:Vampire:_The_Masquerade_–_Bloodlines "wikilink")
     [Zeno Clash](https://ja.wikipedia.org/wiki/:en:Zeno_Clash "wikilink") [2](http://www.aceteam.cl/zenoclash/)
-    [ハーフライフ2 サバイバー](https://ja.wikipedia.org/wiki/ハーフライフ2_サバイバー "wikilink")
+    [ハーフライフ2 サバイバー](../Page/ハーフライフ2_サバイバー.md "wikilink")
     [サイバーダイバー](https://ja.wikipedia.org/wiki/サイバーダイバー "wikilink")
     Insurgency
     Garry's Mod

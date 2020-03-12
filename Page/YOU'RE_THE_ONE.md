@@ -1,11 +1,11 @@
 > この記事は[YOU\'RE THE ONE](https://ja.wikipedia.org/wiki/YOU\'RE_THE_ONE)から翻訳されています。
 
 
-『**YOU'RE THE ONE**』（ユア・ザ・ワン）は、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")に初めて発売された[SHOGUN](https://ja.wikipedia.org/wiki/SHOGUN "wikilink")の[アルバム](../Page/アルバム.md "wikilink")。
+『**YOU'RE THE ONE**』（ユア・ザ・ワン）は、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")に初めて発売された[SHOGUN](../Page/SHOGUN.md "wikilink")の[アルバム](../Page/アルバム.md "wikilink")。
 
 ## 概要
 
-初めて[タイアップ](https://ja.wikipedia.org/wiki/タイアップ "wikilink")無しで制作されたアルバム。また、第1期メンバーでのアルバム制作はこれが最後となった。
+初めて[タイアップ](../Page/タイアップ.md "wikilink")無しで制作されたアルバム。また、第1期メンバーでのアルバム制作はこれが最後となった。
 
 ## 収録曲
 

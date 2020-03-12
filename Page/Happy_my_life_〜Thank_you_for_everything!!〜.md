@@ -1,13 +1,13 @@
 > この記事は[Happy my life Thank you for everything!!](https://ja.wikipedia.org/wiki/Happy_my_life_Thank_you_for_everything!!)から翻訳されています。
 
 
-「**Happy my life 〜Thank you for everything\!\!〜**」（ハッピー・マイ・ライフ・サンキュー・フォア・エブリシング）は、[yozuca\*](https://ja.wikipedia.org/wiki/yozuca* "wikilink")の楽曲。[tororo](https://ja.wikipedia.org/wiki/tororo "wikilink")が作詞・作曲を手掛けた。yozuca\*の13枚目\[1\]の[シングル](../Page/シングル.md "wikilink")として[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[5月9日](https://ja.wikipedia.org/wiki/5月9日 "wikilink")に[Lantisから発売された](https://ja.wikipedia.org/wiki/ランティス "wikilink")。
+「**Happy my life 〜Thank you for everything\!\!〜**」（ハッピー・マイ・ライフ・サンキュー・フォア・エブリシング）は、[yozuca\*](https://ja.wikipedia.org/wiki/yozuca* "wikilink")の楽曲。[tororo](https://ja.wikipedia.org/wiki/tororo "wikilink")が作詞・作曲を手掛けた。yozuca\*の13枚目\[1\]の[シングル](../Page/シングル.md "wikilink")として[2007年](../Page/2007年.md "wikilink")[5月9日](../Page/5月9日.md "wikilink")に[Lantisから発売された](../Page/ランティス.md "wikilink")。
 
 ## 概要
 
-前作「[ダ・カーポII 〜あさきゆめみし君と〜](https://ja.wikipedia.org/wiki/ダ・カーポII_〜あさきゆめみし君と〜 "wikilink")」から約11ヶ月ぶりのリリースであり、2007年1枚目のシングル。
+前作「[ダ・カーポII 〜あさきゆめみし君と〜](../Page/ダ・カーポII_〜あさきゆめみし君と〜.md "wikilink")」から約11ヶ月ぶりのリリースであり、2007年1枚目のシングル。
 
-表題曲「Happy my life 〜Thank you for everything\!\!〜」は、[パソコンゲーム](../Page/パソコンゲーム.md "wikilink")『[D.C.II Spring Celebration 〜ダ・カーポII〜 スプリング セレブレイション](../Page/D.C.II_Spring_Celebration_〜ダ・カーポII〜_スプリング_セレブレイション.md "wikilink")』の[オープニングテーマ](https://ja.wikipedia.org/wiki/主題歌 "wikilink")、カップリング曲の「believe yourself」は、同ゲームの[挿入歌として起用された](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")。表題曲は爽やかかつ切ないアップテンポの曲\[2\]。
+表題曲「Happy my life 〜Thank you for everything\!\!〜」は、[パソコンゲーム](../Page/パソコンゲーム.md "wikilink")『[D.C.II Spring Celebration 〜ダ・カーポII〜 スプリング セレブレイション](../Page/D.C.II_Spring_Celebration_〜ダ・カーポII〜_スプリング_セレブレイション.md "wikilink")』の[オープニングテーマ](../Page/主題歌.md "wikilink")、カップリング曲の「believe yourself」は、同ゲームの[挿入歌として起用された](../Page/サウンドトラック.md "wikilink")。表題曲は爽やかかつ切ないアップテンポの曲\[2\]。
 
 順位こそ前作を下回ったものの、売り上げは『サクライロノキセツ』についで過去2番目。完成時のスタッフ内での評価は高く、「これは（アニメのために）とっといた方がいいのではないですか?」と言われていたほどだったと、[tororo](https://ja.wikipedia.org/wiki/tororo "wikilink")が公式サイトで語っている。[CDジャケットには](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")、朝倉音姫が描かれている。
 
@@ -19,12 +19,12 @@
       -
         作詞・作曲：[tororo](https://ja.wikipedia.org/wiki/tororo "wikilink")、編曲：[Angel Note](../Page/Angel_Note.md "wikilink")
     <!-- end list -->
-      - [パソコンゲーム](../Page/パソコンゲーム.md "wikilink")『[D.C.II Spring Celebration 〜ダ・カーポII〜 スプリング セレブレイション](../Page/D.C.II_Spring_Celebration_〜ダ・カーポII〜_スプリング_セレブレイション.md "wikilink")』[オープニングテーマ](https://ja.wikipedia.org/wiki/主題歌 "wikilink")
+      - [パソコンゲーム](../Page/パソコンゲーム.md "wikilink")『[D.C.II Spring Celebration 〜ダ・カーポII〜 スプリング セレブレイション](../Page/D.C.II_Spring_Celebration_〜ダ・カーポII〜_スプリング_セレブレイション.md "wikilink")』[オープニングテーマ](../Page/主題歌.md "wikilink")
 2.  **believe yourself** \[3:42\]
       -
-        作詞：[yozuca\*](https://ja.wikipedia.org/wiki/yozuca* "wikilink")、作曲・編曲：[齋藤真也](https://ja.wikipedia.org/wiki/齋藤真也 "wikilink")
+        作詞：[yozuca\*](https://ja.wikipedia.org/wiki/yozuca* "wikilink")、作曲・編曲：[齋藤真也](../Page/齋藤真也.md "wikilink")
     <!-- end list -->
-      - パソコンゲーム『D.C.II Spring Celebration 〜ダ・カーポII〜 スプリング セレブレイション』[挿入歌](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")
+      - パソコンゲーム『D.C.II Spring Celebration 〜ダ・カーポII〜 スプリング セレブレイション』[挿入歌](../Page/サウンドトラック.md "wikilink")
 3.  Happy my life 〜Thank you for everything\!\!〜（[off vocal](https://ja.wikipedia.org/wiki/オフヴォーカル "wikilink")）
 4.  believe yourself（off vocal）
 
@@ -45,12 +45,12 @@
 <td><p>〜<br />
 believe yourself</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="https://ja.wikipedia.org/wiki/1月23日" title="wikilink">1月23日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Ageha_(yozuca*のアルバム)" title="wikilink">Ageha</a></p></td>
+<td><p><a href="../Page/Ageha_(yozuca*のアルバム).md" title="wikilink">Ageha</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2009年.md" title="wikilink">2009年</a><a href="../Page/5月27日.md" title="wikilink">5月27日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/yozuca*_10th_Anniversary_Best" title="wikilink">enjoy</a></p></td>
-<td><p>1作目の<a href="https://ja.wikipedia.org/wiki/ベスト・アルバム" title="wikilink">ベスト・アルバム</a>。</p></td>
+<td><p>1作目の<a href="../Page/ベスト・アルバム.md" title="wikilink">ベスト・アルバム</a>。</p></td>
 <td></td>
 </tr>
 </tbody>

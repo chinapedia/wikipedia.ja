@@ -26,7 +26,7 @@
 <td><p>KICM-1098</p></td>
 <td><ol>
 <li>花 [4:04] 【作詞:Meyou,Den,Butcher/作曲:Steve Hopkins】</li>
-<li>I'm Your Sea fear.<a href="https://ja.wikipedia.org/wiki/HI-D" title="wikilink">HI-D</a> [4:50] 【作詞:Meyou,Den,Butcher/作曲:Steve Hopkins】</li>
+<li>I'm Your Sea fear.<a href="../Page/HI-D.md" title="wikilink">HI-D</a> [4:50] 【作詞:Meyou,Den,Butcher/作曲:Steve Hopkins】</li>
 <li>(instrumental) [4:03]</li>
 </ol></td>
 <td><p>Venus-B</p></td>
@@ -61,7 +61,7 @@
 <td><p><strong>好きです</strong></p></td>
 <td><p>KICM-1137</p></td>
 <td><ol>
-<li>好きです [5:20] 【作詞:Meyou/作曲編曲:今井了介】（<a href="https://ja.wikipedia.org/wiki/TBSテレビ" title="wikilink">TBS系</a>「<a href="https://ja.wikipedia.org/wiki/COUNT_DOWN_TV" title="wikilink">CDTV</a>」2005年5月度エンディングテーマ</li>
+<li>好きです [5:20] 【作詞:Meyou/作曲編曲:今井了介】（<a href="../Page/TBSテレビ.md" title="wikilink">TBS系</a>「<a href="../Page/COUNT_DOWN_TV.md" title="wikilink">CDTV</a>」2005年5月度エンディングテーマ</li>
 <li>天下無双 feat.DEN,Butcher [4:48] 【作詞:Meyou,Den,Butcher/作曲:Steve Hopkins】</li>
 <li>大丈夫 [5:39] 【作詞作曲:Meyou】</li>
 </ol></td>
@@ -129,7 +129,7 @@
 <li>あたしがいるじゃない [4:56] 【作詞:Meyou】</li>
 <li>Make Love [6:02] 【作詞作曲:Meyou】</li>
 <li>金魚 [4:57] 【作詞作曲:Meyou】</li>
-<li>EGO feat.<a href="https://ja.wikipedia.org/wiki/TOKONA-X" title="wikilink">TOKONA-X</a> [3:55] 【作詞:Meyou,TOKONA-X]/作曲:Meyou】</li>
+<li>EGO feat.<a href="../Page/TOKONA-X.md" title="wikilink">TOKONA-X</a> [3:55] 【作詞:Meyou,TOKONA-X]/作曲:Meyou】</li>
 <li>CRAZY FOR YOU [7:03] 【作詞:Meyou/作曲:Steve Hopkins】</li>
 <li>DEEP FOREST [5:03] 【作詞:Meyou/作曲:Meyou,Como-Lee】</li>
 <li>Love Jam [4:03] 【作詞:Meyou/作曲:Steve Hopkins】</li>
@@ -161,9 +161,9 @@
 
   - [スティルパートナーズ](https://ja.wikipedia.org/wiki/スティルパートナーズ "wikilink")
   - [EBBY](https://ja.wikipedia.org/wiki/EBBY "wikilink")
-  - [MICHICO](https://ja.wikipedia.org/wiki/MICHICO "wikilink")
+  - [MICHICO](../Page/MICHICO.md "wikilink")
   - [Nao'ymt](../Page/Nao'ymt.md "wikilink")
-  - [ジョージア](https://ja.wikipedia.org/wiki/ジョージア_\(缶コーヒー\) "wikilink")：[2003年](../Page/2003年.md "wikilink")前後、CMソングの作詞に携わっていた。
+  - [ジョージア](../Page/ジョージア_\(缶コーヒー\).md "wikilink")：[2003年](../Page/2003年.md "wikilink")前後、CMソングの作詞に携わっていた。
 
 ## 外部リンク
 

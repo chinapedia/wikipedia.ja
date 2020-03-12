@@ -1,9 +1,9 @@
 > この記事は[Chocolat](https://ja.wikipedia.org/wiki/Chocolat)から翻訳されています。
 
 
-**[Chocolat](https://ja.wikipedia.org/wiki/Chocolat "wikilink")**（ショコラ、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[2月15日](../Page/2月15日.md "wikilink") - ）は[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身の[歌手](../Page/歌手.md "wikilink")・元[モデルである](https://ja.wikipedia.org/wiki/モデル_\(職業\) "wikilink")。
+**[Chocolat](../Page/Chocolat.md "wikilink")**（ショコラ、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[2月15日](../Page/2月15日.md "wikilink") - ）は[東京都](../Page/東京都.md "wikilink")出身の[歌手](../Page/歌手.md "wikilink")・元[モデルである](../Page/モデル_\(職業\).md "wikilink")。
 
-1997年 [エピックレコードジャパン](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink") - [NeOSITE DISCSレーベルより歌手デビュー](https://ja.wikipedia.org/wiki/NeOSITE "wikilink")。歌手兼モデルの[heaco](https://ja.wikipedia.org/wiki/heaco "wikilink")（ヒーコ） は双子の妹。名前の由来は、本名の「まさこ」より、[皇后雅子](https://ja.wikipedia.org/wiki/皇后雅子 "wikilink")（当時皇太子妃）の飼い犬の名前（[ヨークシャテリア](https://ja.wikipedia.org/wiki/ヨークシャテリア "wikilink")の「ショコラ」）から。夫は[GREAT3](https://ja.wikipedia.org/wiki/GREAT3 "wikilink")の[片寄明人](https://ja.wikipedia.org/wiki/片寄明人 "wikilink")。2000年に[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")に移籍。2000年に片寄明人 featuring Chocolatとしてデュエットシングル「VERANDA」を発売。2005年にユニット**Chocolat\&Akito** を結成。
+1997年 [エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink") - [NeOSITE DISCSレーベルより歌手デビュー](../Page/NeOSITE.md "wikilink")。歌手兼モデルの[heaco](https://ja.wikipedia.org/wiki/heaco "wikilink")（ヒーコ） は双子の妹。名前の由来は、本名の「まさこ」より、[皇后雅子](https://ja.wikipedia.org/wiki/皇后雅子 "wikilink")（当時皇太子妃）の飼い犬の名前（[ヨークシャテリア](https://ja.wikipedia.org/wiki/ヨークシャテリア "wikilink")の「ショコラ」）から。夫は[GREAT3](../Page/GREAT3.md "wikilink")の[片寄明人](https://ja.wikipedia.org/wiki/片寄明人 "wikilink")。2000年に[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")に移籍。2000年に片寄明人 featuring Chocolatとしてデュエットシングル「VERANDA」を発売。2005年にユニット**Chocolat\&Akito** を結成。
 
 ## ディスコグラフィー
 
@@ -28,7 +28,7 @@
 <td><p>ESCB-1814</p></td>
 <td><ol>
 <li>ブルーでハッピーがいい ブルー・ミント・ブルー [3:46] 【作詞作曲編曲:<a href="https://ja.wikipedia.org/wiki/加地秀基" title="wikilink">加地秀基</a>】</li>
-<li>ミニミニ大作戦~カラーズ [4:02] 【作詞:松田岳二/作曲:<a href="https://ja.wikipedia.org/wiki/堀江博久" title="wikilink">堀江博久</a>/編曲:<a href="https://ja.wikipedia.org/wiki/NEIL&amp;IRAIZA" title="wikilink">NEIL&amp;IRAIZA</a>】</li>
+<li>ミニミニ大作戦~カラーズ [4:02] 【作詞:松田岳二/作曲:<a href="../Page/堀江博久.md" title="wikilink">堀江博久</a>/編曲:<a href="../Page/NEIL&amp;IRAIZA.md" title="wikilink">NEIL&amp;IRAIZA</a>】</li>
 <li>恋するふたり Hot fun in the summer love [2:55] 【作詞:松田岳二/作曲:堀江博久/編曲:NEIL&amp;IRAIZA】</li>
 <li>夏服のショコラ〜ビーチサイドベイビー [4:30] 【作詞:住田芽衣,加地秀基/作曲編曲:加地秀基】</li>
 <li>ブルーでハッピーがいい(ブルー・ミント・ブルー CMヴァージョン) [0:25]</li>
@@ -57,7 +57,7 @@
 <li>口笛で恋をしよう [3:24] 【作詞:松田岳二,ショコラ/作曲編曲:神田朋樹】</li>
 <li>ライク・ア・ストロベリー [2:49] 【作詞:住田芽衣/作曲:江森丈晃/編曲:江森丈晃,正田圭】</li>
 <li>風はミラクル [4:04] 【作詞:ショコラ/作曲編曲:<a href="https://ja.wikipedia.org/wiki/大橋伸行" title="wikilink">大橋伸行</a>】</li>
-<li>冬へ進もう [3:22] 【作詞:<a href="https://ja.wikipedia.org/wiki/カヒミ・カリィ" title="wikilink">カヒミ・カリィ</a>/作曲編曲:神田朋樹】</li>
+<li>冬へ進もう [3:22] 【作詞:<a href="../Page/カヒミ・カリィ.md" title="wikilink">カヒミ・カリィ</a>/作曲編曲:神田朋樹】</li>
 </ol>
 <p>#ハニー・ビー・グッド</p></td>
 <td><p>[4:18] 【作詞:松田岳二/作曲:堀江博久/編曲:NEIL&amp;IRAIZA】</p>
@@ -111,7 +111,7 @@
 <td><ol>
 <li>ベースボールとエルビス・プレスリー [4:33] 【作詞:ショコラ/作曲編曲:田朋樹】</li>
 <li>We will look away [4:09] 【作詞:ショコラ/作曲:ダリアン・サハナジャ/編曲:Wondermints Production】</li>
-<li>Missing You [4:27] 【作詞作曲:<a href="https://ja.wikipedia.org/wiki/竹中三佳_(シンガーソングライター)" title="wikilink">竹中三佳</a>/編曲:久米大作】</li>
+<li>Missing You [4:27] 【作詞作曲:<a href="../Page/竹中三佳_(シンガーソングライター).md" title="wikilink">竹中三佳</a>/編曲:久米大作】</li>
 </ol></td>
 <td><p>オリコン最高95位</p></td>
 </tr>
@@ -200,7 +200,7 @@
 <li>ひとりごと [4:11] 【作詞:ショコラ/作曲編曲:ダリアン・サハナジャ】</li>
 <li>Chocolate [3:40] 【作詞作曲:見津優/編曲:<a href="../Page/會田茂一.md" title="wikilink">會田茂一</a>】</li>
 <li>光あれ [3:04] 【作詞:ショコラ/作曲編曲:片寄明人】</li>
-<li><a href="https://ja.wikipedia.org/wiki/17才の頃" title="wikilink">AT SEVENTEEN</a> [5:06] 【作詞作曲:<a href="https://ja.wikipedia.org/wiki/ジャニス・イアン" title="wikilink">ジャニス・イアン</a>/編曲:<a href="https://ja.wikipedia.org/wiki/砂原良徳" title="wikilink">砂原良徳</a>】</li>
+<li><a href="https://ja.wikipedia.org/wiki/17才の頃" title="wikilink">AT SEVENTEEN</a> [5:06] 【作詞作曲:<a href="../Page/ジャニス・イアン.md" title="wikilink">ジャニス・イアン</a>/編曲:<a href="../Page/砂原良徳.md" title="wikilink">砂原良徳</a>】</li>
 <li>Butterfly [4:49] 【作詞:ショコラ/作曲編曲:<a href="../Page/SPANOVA.md" title="wikilink">SPANOVA</a>】</li>
 <li>ハムスター [3:13] 【作詞:ショコラ/作曲編曲:堀江博久】</li>
 <li>Girls Talk [3:55] 【作詞:ショコラ/作曲編曲:ビル・デマイン,ケリー・ライアン】</li>
@@ -237,7 +237,7 @@
 <td><p><strong>Chocolate notes</strong></p></td>
 <td><p>WPCL-10047</p></td>
 <td><ol>
-<li>迷子の鳥 [6:20] 【作詞:Chocolat/作曲:SPANOVA/編曲:<a href="https://ja.wikipedia.org/wiki/レイ・ハラカミ" title="wikilink">レイ・ハラカミ</a>】</li>
+<li>迷子の鳥 [6:20] 【作詞:Chocolat/作曲:SPANOVA/編曲:<a href="../Page/レイ・ハラカミ.md" title="wikilink">レイ・ハラカミ</a>】</li>
 <li>ギブ・ユー・アップ Never gonna give you up [4:36] 【作詞作曲:MIKE STOCK,MATT AITKEN,PETER WATERMAN/編曲:高井康生】</li>
 <li>愛の魔法 Magic of love [6:32] 【作詞:Chocolat/作曲編曲:片寄明人】</li>
 <li>ドレスアップ [2:48] 【作詞:Chocolat/作曲:<a href="https://ja.wikipedia.org/wiki/LOW_IQ_01" title="wikilink">LOW IQ 01</a>/編曲:片寄明人】</li>

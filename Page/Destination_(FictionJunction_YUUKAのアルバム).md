@@ -1,20 +1,20 @@
 > この記事は[Destination \(FictionJunction YUUKA\)](https://ja.wikipedia.org/wiki/Destination_\(FictionJunction_YUUKA\))から翻訳されています。
 
 
-『**Destination**』（ディスティネーション）は、[FictionJunction YUUKAの](https://ja.wikipedia.org/wiki/FictionJunction_YUUKA "wikilink")1枚目のアルバムである。初回限定盤は、[プロモーションビデオ](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")・メイキング・[コマーシャル映像が入った](https://ja.wikipedia.org/wiki/コマーシャルメッセージ "wikilink")[DVD](../Page/DVD.md "wikilink")付き。
+『**Destination**』（ディスティネーション）は、[FictionJunction YUUKAの](../Page/FictionJunction_YUUKA.md "wikilink")1枚目のアルバムである。初回限定盤は、[プロモーションビデオ](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")・メイキング・[コマーシャル映像が入った](../Page/コマーシャルメッセージ.md "wikilink")[DVD](../Page/DVD.md "wikilink")付き。
 
 ## 収録曲
 
 1.  [I'm here](https://ja.wikipedia.org/wiki/inside_your_heart "wikilink")
       -
-        テレビアニメ『[MADLAX](https://ja.wikipedia.org/wiki/MADLAX "wikilink")』挿入歌
+        テレビアニメ『[MADLAX](../Page/MADLAX.md "wikilink")』挿入歌
         「inside your heart」カップリング曲
 2.  destination
 3.  [nowhere](../Page/瞳の欠片.md "wikilink")
       -
         テレビアニメ『MADLAX』挿入歌
         「瞳の欠片」カップリング曲
-4.  [暁の車](https://ja.wikipedia.org/wiki/暁の車 "wikilink")
+4.  [暁の車](../Page/暁の車.md "wikilink")
       -
         テレビアニメ『[機動戦士ガンダムSEED](../Page/機動戦士ガンダムSEED.md "wikilink")』挿入歌
         3枚目のシングルのタイトル曲

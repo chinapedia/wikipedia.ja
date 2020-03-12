@@ -1,11 +1,11 @@
 > この記事は[WHITE HEAT](https://ja.wikipedia.org/wiki/WHITE_HEAT)から翻訳されています。
 
 
-「**WHITE HEAT**」（ホワイト・ヒート）は、[yozuca\*](https://ja.wikipedia.org/wiki/yozuca* "wikilink")の6枚目の[シングル](../Page/シングル.md "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月16日](../Page/2月16日.md "wikilink")に[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")から発売された。
+「**WHITE HEAT**」（ホワイト・ヒート）は、[yozuca\*](https://ja.wikipedia.org/wiki/yozuca* "wikilink")の6枚目の[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[2月16日](../Page/2月16日.md "wikilink")に[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")から発売された。
 
 ## 概要
 
-前作「[Ever After](https://ja.wikipedia.org/wiki/Ever_After_\(曲\) "wikilink")」から2週間後にリリースされた2005年2作目のシングル。表題曲「WHITE HEAT」、および小春野白絹役の[福圓美里](../Page/福圓美里.md "wikilink")が歌うカップリングの「3センチメンタル」は、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[UG☆アルティメットガール](https://ja.wikipedia.org/wiki/UG☆アルティメットガール "wikilink")』の、それぞれ[オープニングテーマとエンディングテーマとして使用された](https://ja.wikipedia.org/wiki/主題歌 "wikilink")。
+前作「[Ever After](../Page/Ever_After_\(曲\).md "wikilink")」から2週間後にリリースされた2005年2作目のシングル。表題曲「WHITE HEAT」、および小春野白絹役の[福圓美里](../Page/福圓美里.md "wikilink")が歌うカップリングの「3センチメンタル」は、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[UG☆アルティメットガール](../Page/UG☆アルティメットガール.md "wikilink")』の、それぞれ[オープニングテーマとエンディングテーマとして使用された](../Page/主題歌.md "wikilink")。
 
 [CDジャケットには](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")、小春野白絹がオレンジ一色で描かれている。
 
@@ -25,16 +25,16 @@
 
 ## タイアップ
 
-| 曲名         | タイアップ                                                                                                                                                                                       |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| WHITE HEAT | [テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[UG☆アルティメットガール](https://ja.wikipedia.org/wiki/UG☆アルティメットガール "wikilink")』[オープニングテーマ](https://ja.wikipedia.org/wiki/主題歌 "wikilink") |
-| 3センチメンタル   | テレビアニメ『UG☆アルティメットガール』エンディングテーマ                                                                                                                                                              |
+| 曲名         | タイアップ                                                                                                                                                 |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| WHITE HEAT | [テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[UG☆アルティメットガール](../Page/UG☆アルティメットガール.md "wikilink")』[オープニングテーマ](../Page/主題歌.md "wikilink") |
+| 3センチメンタル   | テレビアニメ『UG☆アルティメットガール』エンディングテーマ                                                                                                                        |
 
 ## 収録アルバム
 
-| 曲名         | 収録アルバム                                                                                                                                                            |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| WHITE HEAT | 『**[nico.](https://ja.wikipedia.org/wiki/nico._\(アルバム\) "wikilink")**』（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[8月2日](../Page/8月2日.md "wikilink")） |
+| 曲名         | 収録アルバム                                                                                                                                         |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| WHITE HEAT | 『**[nico.](https://ja.wikipedia.org/wiki/nico._\(アルバム\) "wikilink")**』（[2006年](../Page/2006年.md "wikilink")[8月2日](../Page/8月2日.md "wikilink")） |
 
 ## 外部リンク
 

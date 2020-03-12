@@ -63,9 +63,9 @@
 
   - [因果律](https://ja.wikipedia.org/wiki/因果律 "wikilink")、[問題解決](../Page/問題解決.md "wikilink")
   - [トヨタ生産方式](../Page/トヨタ生産方式.md "wikilink")（TPS）、[制約条件の理論](../Page/制約条件の理論.md "wikilink")（[TOC](https://ja.wikipedia.org/wiki/TOC "wikilink")・ボトルネック）…全体最適・利益最大化に関する体系的理論
-  - [帰納](../Page/帰納.md "wikilink")（なぜ？、本質・真因追究、メカ推定）、[アナロジー](https://ja.wikipedia.org/wiki/アナロジー "wikilink")（類比・[類推](../Page/類推.md "wikilink")・[フラクタル](../Page/フラクタル.md "wikilink")・[曼荼羅](https://ja.wikipedia.org/wiki/曼荼羅 "wikilink")・ひらめき・[ヒューリスティック](https://ja.wikipedia.org/wiki/ヒューリスティック "wikilink")）
+  - [帰納](../Page/帰納.md "wikilink")（なぜ？、本質・真因追究、メカ推定）、[アナロジー](https://ja.wikipedia.org/wiki/アナロジー "wikilink")（類比・[類推](../Page/類推.md "wikilink")・[フラクタル](../Page/フラクタル.md "wikilink")・[曼荼羅](../Page/曼荼羅.md "wikilink")・ひらめき・[ヒューリスティック](https://ja.wikipedia.org/wiki/ヒューリスティック "wikilink")）
   - [演繹](../Page/演繹.md "wikilink")
-  - [MECE](https://ja.wikipedia.org/wiki/MECE "wikilink")…網羅的アイデア出し・リスクアセスメント・危険予知・論理思考
-  - [TRIZ](../Page/TRIZ.md "wikilink")、[品質工学](../Page/品質工学.md "wikilink")・[シックス・シグマ](https://ja.wikipedia.org/wiki/シックス・シグマ "wikilink")…技術課題解決・品質安定化に関する体系的理論。USITに含まれる。
+  - [MECE](../Page/MECE.md "wikilink")…網羅的アイデア出し・リスクアセスメント・危険予知・論理思考
+  - [TRIZ](../Page/TRIZ.md "wikilink")、[品質工学](../Page/品質工学.md "wikilink")・[シックス・シグマ](../Page/シックス・シグマ.md "wikilink")…技術課題解決・品質安定化に関する体系的理論。USITに含まれる。
 
 [Category:発想法](https://ja.wikipedia.org/wiki/Category:発想法 "wikilink") [Category:技術革新](https://ja.wikipedia.org/wiki/Category:技術革新 "wikilink")

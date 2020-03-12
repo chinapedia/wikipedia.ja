@@ -1,11 +1,11 @@
 > この記事は[421-a will-](https://ja.wikipedia.org/wiki/421-a_will-)から翻訳されています。
 
 
-『**421-a will-**』（よんにいち ア・ウィル\[1\]）は、[KOTOKO](https://ja.wikipedia.org/wiki/KOTOKO "wikilink")の4作目のシングル。[ジェネオンエンタテインメント](https://ja.wikipedia.org/wiki/ジェネオンエンタテインメント "wikilink")より[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月13日](https://ja.wikipedia.org/wiki/10月13日 "wikilink")に発売された。
+『**421-a will-**』（よんにいち ア・ウィル\[1\]）は、[KOTOKO](https://ja.wikipedia.org/wiki/KOTOKO "wikilink")の4作目のシングル。[ジェネオンエンタテインメント](https://ja.wikipedia.org/wiki/ジェネオンエンタテインメント "wikilink")より[2005年](../Page/2005年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink")に発売された。
 
 ## 概要
 
-表題曲の「421-a will-」は、2ndアルバム『[硝子の靡風](https://ja.wikipedia.org/wiki/硝子の靡風 "wikilink")』よりシングルカットされた曲である。カップリング曲の「秋爽」は書き下ろしの新曲で、3rdアルバム『[UZU-MAKI](https://ja.wikipedia.org/wiki/UZU-MAKI "wikilink")』に収録されている。初回限定盤と通常盤の2種類がリリースされ、初回限定盤には「421-a will-」のPVが収録されたDVDが付いている。
+表題曲の「421-a will-」は、2ndアルバム『[硝子の靡風](../Page/硝子の靡風.md "wikilink")』よりシングルカットされた曲である。カップリング曲の「秋爽」は書き下ろしの新曲で、3rdアルバム『[UZU-MAKI](../Page/UZU-MAKI.md "wikilink")』に収録されている。初回限定盤と通常盤の2種類がリリースされ、初回限定盤には「421-a will-」のPVが収録されたDVDが付いている。
 
 「421-a will-」の421とは、[KOTOKO](https://ja.wikipedia.org/wiki/KOTOKO "wikilink")のメジャーデビューの日[4月21日](../Page/4月21日.md "wikilink")のことである。そのためこの楽曲は支えてくれたいろんな人に向けて唄った楽曲である。
 
@@ -13,8 +13,8 @@
 
 1.  **421-a will-** \[4:53\]
       -
-        作詞：[KOTOKO](https://ja.wikipedia.org/wiki/KOTOKO "wikilink")／作曲：[中沢伴行](https://ja.wikipedia.org/wiki/中沢伴行 "wikilink")／編曲：中沢伴行、[尾崎武士](https://ja.wikipedia.org/wiki/尾崎武士 "wikilink")
-          - [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")「[フォーカス徳島](https://ja.wikipedia.org/wiki/フォーカス徳島 "wikilink")」オープニングテーマ
+        作詞：[KOTOKO](https://ja.wikipedia.org/wiki/KOTOKO "wikilink")／作曲：[中沢伴行](../Page/中沢伴行.md "wikilink")／編曲：中沢伴行、[尾崎武士](https://ja.wikipedia.org/wiki/尾崎武士 "wikilink")
+          - [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")「[フォーカス徳島](../Page/フォーカス徳島.md "wikilink")」オープニングテーマ
           - [dwango](https://ja.wikipedia.org/wiki/dwango "wikilink")「いろメロミックス」TV-CMソング（本人出演）
           - [パケットラジオ](https://ja.wikipedia.org/wiki/パケットラジオ "wikilink")「KOTOKOのトコトコ探検記」オープニングテーマ
 2.  **秋爽** \[5:54\]

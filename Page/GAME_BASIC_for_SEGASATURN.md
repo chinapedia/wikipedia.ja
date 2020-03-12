@@ -52,7 +52,7 @@
   - “BASIC”単体パッケージである『**スタンドアローンタイプ**』
   - パソコンとの接続が可能で、製作支援ソフト（モデリングツール『DeVelo MODELer』など）が付属した『**PC接続タイプ**』
 
-以上2バージョンが[徳間書店インターメディア](https://ja.wikipedia.org/wiki/徳間書店インターメディア "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[6月](../Page/6月.md "wikilink")に発売される予定であった。
+以上2バージョンが[徳間書店インターメディア](../Page/徳間書店インターメディア.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[6月](../Page/6月.md "wikilink")に発売される予定であった。
 
 PR等は[ESPが行い](../Page/ESP_\(ゲーム会社\).md "wikilink")、『[テックサターン](https://ja.wikipedia.org/wiki/テックサターン "wikilink")』誌上などでも特集記事が組まれ、体験版としてサンプルプログラムが収録されるなどした。ちなみに、この時収録サンプルのひとつであったポリゴン[縦スクロールシューティング](https://ja.wikipedia.org/wiki/シューティングゲーム#縦スクロールシューティング "wikilink")『Lightning Gunner』は、なぜか製品版には収録されていない。
 

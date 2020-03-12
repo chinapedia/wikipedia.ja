@@ -8,7 +8,7 @@
 （ワーナー・パイオニア時代）
 
   - **[David Mann](https://ja.wikipedia.org/wiki/スーパーエイジス#補佐メンバー "wikilink")**（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")）
-  - **[関根安里](https://ja.wikipedia.org/wiki/関根安里 "wikilink")**（[キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")、[ヴァイオリン](../Page/ヴァイオリン.md "wikilink")）
+  - **[関根安里](https://ja.wikipedia.org/wiki/関根安里 "wikilink")**（[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、[ヴァイオリン](../Page/ヴァイオリン.md "wikilink")）
   - **[岡野治雄](https://ja.wikipedia.org/wiki/岡野治雄 "wikilink")**（[ベース](../Page/エレクトリックベース.md "wikilink")）
   - **[野澤竜郎](https://ja.wikipedia.org/wiki/野澤竜郎 "wikilink")**（[ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")）
 
@@ -21,7 +21,7 @@
 
 1970年代後半頃に前身となるバンドが結成。3年のライブ活動の後、自らの実力を試すべく渡米。
 
-帰国後、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に[シングル](../Page/シングル.md "wikilink")『AZUR（アジュール）』でワーナー・パイオニア（現：[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")）から[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")。
+帰国後、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に[シングル](../Page/シングル.md "wikilink")『AZUR（アジュール）』でワーナー・パイオニア（現：[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")）から[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")。
 
 シングル4枚と[アルバム](../Page/アルバム.md "wikilink")1枚を[リリース](https://ja.wikipedia.org/wiki/発売 "wikilink")。
 
@@ -39,7 +39,7 @@
 
 <!-- end list -->
 
-1.  AZUR（[キユーピー](../Page/キユーピー.md "wikilink")・[マヨネーズ](../Page/マヨネーズ.md "wikilink") [CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")）
+1.  AZUR（[キユーピー](../Page/キユーピー.md "wikilink")・[マヨネーズ](../Page/マヨネーズ.md "wikilink") [CMソング](../Page/コマーシャルソング.md "wikilink")）
 2.  DO YOU REMEMBER
 
 <!-- end list -->
@@ -77,7 +77,7 @@
 
 1.  TELL ME
 2.  NOBODY KNOWS
-3.  MUSIC ON MY MIND（作詞は[レオン・リー](https://ja.wikipedia.org/wiki/レオン・リー "wikilink")）
+3.  MUSIC ON MY MIND（作詞は[レオン・リー](../Page/レオン・リー.md "wikilink")）
 4.  MAKIN' LOVE
 5.  GROWING PAINS
 6.  AZUR
@@ -116,14 +116,14 @@
 
   - [キユーピー](../Page/キユーピー.md "wikilink")・[マヨネーズ](../Page/マヨネーズ.md "wikilink")
   - [ブリヂストン](../Page/ブリヂストン.md "wikilink")・[ゴルフボール](https://ja.wikipedia.org/wiki/ゴルフボール "wikilink")
-  - [パイオニア](https://ja.wikipedia.org/wiki/パイオニア "wikilink")・プライベート（[ミニコンポ](https://ja.wikipedia.org/wiki/ミニコンポ "wikilink")）
-  - [ジョンソン・エンド・ジョンソン](https://ja.wikipedia.org/wiki/ジョンソン・エンド・ジョンソン "wikilink")
+  - [パイオニア](https://ja.wikipedia.org/wiki/パイオニア "wikilink")・プライベート（[ミニコンポ](../Page/ミニコンポ.md "wikilink")）
+  - [ジョンソン・エンド・ジョンソン](../Page/ジョンソン・エンド・ジョンソン.md "wikilink")
   - [富士通](../Page/富士通.md "wikilink")
 
 ## 関連項目
 
   - [EUROX](../Page/EUROX.md "wikilink")
-  - [サンダーストーム](https://ja.wikipedia.org/wiki/サンダーストーム "wikilink")　本作の音楽を坦当した。
+  - [サンダーストーム](../Page/サンダーストーム.md "wikilink")　本作の音楽を坦当した。
 
 ## 外部リンク
 

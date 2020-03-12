@@ -7,8 +7,8 @@
 
   - 土曜日に発売されたメジャーデビューシングル。
   - 初登場位は67位だが、その後チャートを少し上昇して最高位を50位に更新。累計出荷枚数は10万枚\[1\]。
-  - オリジナルアルバム『[un-balanced](https://ja.wikipedia.org/wiki/un-balanced "wikilink")』、ベストアルバム『[Ken Hirai 10th Anniversary Complete Single Collection '95-'05 歌バカ](https://ja.wikipedia.org/wiki/Ken_Hirai_10th_Anniversary_Complete_Single_Collection_'95-'05_歌バカ "wikilink")』に収録されている。
-  - 表題曲「Precious Junk」は[フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[王様のレストラン](https://ja.wikipedia.org/wiki/王様のレストラン "wikilink")』主題歌。
+  - オリジナルアルバム『[un-balanced](https://ja.wikipedia.org/wiki/un-balanced "wikilink")』、ベストアルバム『[Ken Hirai 10th Anniversary Complete Single Collection '95-'05 歌バカ](../Page/Ken_Hirai_10th_Anniversary_Complete_Single_Collection_'95-'05_歌バカ.md "wikilink")』に収録されている。
+  - 表題曲「Precious Junk」は[フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[王様のレストラン](../Page/王様のレストラン.md "wikilink")』主題歌。
 
 ## 収録曲
 

@@ -5,7 +5,7 @@
 
 ## メンバー
 
-  - **[関根安里](https://ja.wikipedia.org/wiki/関根安里 "wikilink")**（[キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")、[ヴァイオリン](../Page/ヴァイオリン.md "wikilink")）
+  - **[関根安里](https://ja.wikipedia.org/wiki/関根安里 "wikilink")**（[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、[ヴァイオリン](../Page/ヴァイオリン.md "wikilink")）
   - **[岡野治雄](https://ja.wikipedia.org/wiki/岡野治雄 "wikilink")**（[ベース](../Page/エレクトリックベース.md "wikilink")）
   - **[野澤竜郎](https://ja.wikipedia.org/wiki/野澤竜郎 "wikilink")（のざわたつお）**（[ドラムス](../Page/ドラムセット.md "wikilink")）
   - **[栗原務](https://ja.wikipedia.org/wiki/栗原務 "wikilink")**（[ギター](../Page/ギター.md "wikilink")）
@@ -17,7 +17,7 @@
 
 ## 略歴
 
-[1984年](../Page/1984年.md "wikilink")、[TAOを脱退した関根安里](https://ja.wikipedia.org/wiki/TAO_\(バンド\) "wikilink")・岡野治雄・野澤竜郎が、根本博と栗原務を迎え結成。[シングル](../Page/シングル.md "wikilink")「COLD LINE」でワーナー・パイオニア（現 [ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")）から[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")。[TVアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[機甲界ガリアン](https://ja.wikipedia.org/wiki/機甲界ガリアン "wikilink")』の主題歌や[CMソングなどを手掛け](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")、[シングル](../Page/シングル.md "wikilink")2枚を[リリース](https://ja.wikipedia.org/wiki/発売 "wikilink")。
+[1984年](../Page/1984年.md "wikilink")、[TAOを脱退した関根安里](../Page/TAO_\(バンド\).md "wikilink")・岡野治雄・野澤竜郎が、根本博と栗原務を迎え結成。[シングル](../Page/シングル.md "wikilink")「COLD LINE」でワーナー・パイオニア（現 [ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")）から[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")。[TVアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[機甲界ガリアン](../Page/機甲界ガリアン.md "wikilink")』の主題歌や[CMソングなどを手掛け](../Page/コマーシャルソング.md "wikilink")、[シングル](../Page/シングル.md "wikilink")2枚を[リリース](https://ja.wikipedia.org/wiki/発売 "wikilink")。
 
 その後、根本と野澤が脱退。新たに長谷川勇が加入し[アルバム](../Page/アルバム.md "wikilink")1枚をリリースするが、後に長谷川が脱退し活動を停止する。
 
@@ -80,7 +80,7 @@
 
 ## 手がけたアニメソング
 
-  - [機甲界ガリアン](https://ja.wikipedia.org/wiki/機甲界ガリアン "wikilink")
+  - [機甲界ガリアン](../Page/機甲界ガリアン.md "wikilink")
   - [聖闘士 THE LOST CANVAS 冥王神話](../Page/聖闘士星矢_冥王神話.md "wikilink")
 
 ## 手がけたCMソング
@@ -92,13 +92,13 @@
 ## 曲提供など
 
   - [中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink") - 曲提供の他、バックバンドを務めた時期もある。また、アルバム『[不思議](../Page/不思議_\(アルバム\).md "wikilink")』を共同で[プロデュース](https://ja.wikipedia.org/wiki/プロデュース "wikilink")している。
-  - [ニャンギラス](https://ja.wikipedia.org/wiki/ニャンギラス "wikilink")
+  - [ニャンギラス](../Page/ニャンギラス.md "wikilink")
 
 　他
 
 ## 関連項目
 
-  - [TAO](https://ja.wikipedia.org/wiki/TAO_\(バンド\) "wikilink")
+  - [TAO](../Page/TAO_\(バンド\).md "wikilink")
 
 ## 脚注
 

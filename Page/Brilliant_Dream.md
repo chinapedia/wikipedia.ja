@@ -1,12 +1,12 @@
 > この記事は[Brilliant Dream](https://ja.wikipedia.org/wiki/Brilliant_Dream)から翻訳されています。
 
 
-『**Brilliant Dream**（ブリリアント ドリーム）』は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月5日](../Page/7月5日.md "wikilink")にリリースされた[中川翔子](https://ja.wikipedia.org/wiki/中川翔子 "wikilink")のデビュー[シングル](../Page/シングル.md "wikilink")。
+『**Brilliant Dream**（ブリリアント ドリーム）』は、[2006年](../Page/2006年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")にリリースされた[中川翔子](../Page/中川翔子.md "wikilink")のデビュー[シングル](../Page/シングル.md "wikilink")。
 
 ## 概要
 
   - 中川翔子名義での歌手・CDデビュー作品。\[1\]
-  - ジャケットや[ミュージック・クリップの撮影には](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、中川の愛猫のマミタスが参加している。
+  - ジャケットや[ミュージック・クリップの撮影には](../Page/ミュージック・ビデオ.md "wikilink")、中川の愛猫のマミタスが参加している。
   - デビューイベント「しょこたん☆まつり」を開催した。\[2\]
       - 7月5日、第1部池袋噴水広場、第2部ネットらぢお編
       - 7月9日、第3部千里セルシー広場
@@ -34,7 +34,7 @@
 1.  **Brilliant Dream**（作詞・作曲：sabohani 編曲：[磯崎健史](https://ja.wikipedia.org/wiki/磯崎健史 "wikilink")）
       -
         ミュージック・クリップではイメージ衣装の他、コスプレを含め全12種類の衣装が用意された。撮影は[浅草寺](../Page/浅草寺.md "wikilink")、[東京タワー](https://ja.wikipedia.org/wiki/東京タワー "wikilink")、[秋葉原](https://ja.wikipedia.org/wiki/秋葉原 "wikilink")など都内各所で行われた。ちなみにメイキング映像で登場する黒猫は、愛猫の[ルナである](https://ja.wikipedia.org/wiki/中川翔子#猫 "wikilink")。
-        2008年3月19日に発売された中川の1stアルバム『[Big☆Bang\!\!\!](https://ja.wikipedia.org/wiki/Big☆Bang!!! "wikilink")』にはリアレンジが施されたバージョンが収録されている。こちらは「[snow tears](https://ja.wikipedia.org/wiki/snow_tears "wikilink")」などを手掛けた[nishi-ken](https://ja.wikipedia.org/wiki/nishi-ken "wikilink")によるテクノポップ調のアレンジになっている。
+        2008年3月19日に発売された中川の1stアルバム『[Big☆Bang\!\!\!](../Page/Big☆Bang!!!.md "wikilink")』にはリアレンジが施されたバージョンが収録されている。こちらは「[snow tears](https://ja.wikipedia.org/wiki/snow_tears "wikilink")」などを手掛けた[nishi-ken](https://ja.wikipedia.org/wiki/nishi-ken "wikilink")によるテクノポップ調のアレンジになっている。
 2.  **CAT Life**（作詞: [青山紳一郎](https://ja.wikipedia.org/wiki/青山紳一郎 "wikilink")、作曲: Cypher, 編曲: 森山フラミンゴ）
       -
         猫に恋心を重ねて歌った曲。詞中には、猫を泣き声を模したコーラスが入っている他、中川自身が実際に飼っている「マミタス（マミ）」、「ルナ」、「ちび太」の名前が登場する。

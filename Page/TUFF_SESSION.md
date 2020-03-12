@@ -1,7 +1,7 @@
 > この記事は[TUFF SESSION](https://ja.wikipedia.org/wiki/TUFF_SESSION)から翻訳されています。
 
 
-**TUFF SESSION**（タフ・セッション）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")[グループ](https://ja.wikipedia.org/wiki/グループ "wikilink")である。2005年[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")よりメジャーデビュー。
+**TUFF SESSION**（タフ・セッション）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")[グループ](https://ja.wikipedia.org/wiki/グループ "wikilink")である。2005年[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")よりメジャーデビュー。
 
 ## メンバー
 
@@ -75,12 +75,12 @@
 ## 関連項目
 
   - [TETSUNIQUES](https://ja.wikipedia.org/wiki/TETSUNIQUES "wikilink")
-  - [Reggae Disco Rockers](https://ja.wikipedia.org/wiki/Reggae_Disco_Rockers "wikilink")
-  - [川上つよしと彼のムードメイカーズ](https://ja.wikipedia.org/wiki/川上つよしと彼のムードメイカーズ "wikilink")
-  - [ROCKING TIME](https://ja.wikipedia.org/wiki/ROCKING_TIME "wikilink")
+  - [Reggae Disco Rockers](../Page/Reggae_Disco_Rockers.md "wikilink")
+  - [川上つよしと彼のムードメイカーズ](../Page/川上つよしと彼のムードメイカーズ.md "wikilink")
+  - [ROCKING TIME](../Page/ROCKING_TIME.md "wikilink")
   - [RISINGTONES](https://ja.wikipedia.org/wiki/RISINGTONES "wikilink")
-  - [MONGHANG](https://ja.wikipedia.org/wiki/MONGHANG "wikilink")
-  - [BPR5000](https://ja.wikipedia.org/wiki/BPR5000 "wikilink")
+  - [MONGHANG](../Page/MONGHANG.md "wikilink")
+  - [BPR5000](../Page/BPR5000.md "wikilink")
 
 ## 外部リンク
 

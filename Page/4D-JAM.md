@@ -1,7 +1,7 @@
 > この記事は[4D-JAM](https://ja.wikipedia.org/wiki/4D-JAM)から翻訳されています。
 
 
-**4D-JAM**（フォーディージャム）は[1999年](../Page/1999年.md "wikilink")に結成された日本の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")。
+**4D-JAM**（フォーディージャム）は[1999年](../Page/1999年.md "wikilink")に結成された日本の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。
 
 ## 概要・来歴
 
@@ -13,10 +13,10 @@
       - 全国8局ネット情報音楽番組「HIP POP」のオーディションイベントにてふるかわ♥魔法を発掘。その後加入。
   - [1999年](../Page/1999年.md "wikilink")
       - [Garage Indies Zapping Associationよりインディーズシングル](https://ja.wikipedia.org/wiki/Garage_Indies_Zapping_Association "wikilink")「\[太陽ノナイ朝 月ノナイ夜」をリリース。
-      - 4月21日にシングル「[COCORO](https://ja.wikipedia.org/wiki/COCORO "wikilink")」で[GIZA studioより](../Page/GIZA_studio.md "wikilink")[メジャー・デビュー](https://ja.wikipedia.org/wiki/メジャー・デビュー_\(音楽家\) "wikilink")。
+      - 4月21日にシングル「[COCORO](https://ja.wikipedia.org/wiki/COCORO "wikilink")」で[GIZA studioより](../Page/GIZA_studio.md "wikilink")[メジャー・デビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。
       - E:mju加入。
       - 1stアルバム「[CITY OF TRACKS](https://ja.wikipedia.org/wiki/CITY_OF_TRACKS "wikilink")」を発売。
-      - ZARDの30thシングル「[痛いくらい君があふれているよ](https://ja.wikipedia.org/wiki/痛いくらい君があふれているよ "wikilink")」にシオジリ、中尾、ふるかわが参加。
+      - ZARDの30thシングル「[痛いくらい君があふれているよ](../Page/痛いくらい君があふれているよ.md "wikilink")」にシオジリ、中尾、ふるかわが参加。
   - [2000年](../Page/2000年.md "wikilink")
       - 4thシングル「[Wonderin' Hands](https://ja.wikipedia.org/wiki/Wonderin'_Hands "wikilink")」を発売。
       - E:mju脱退。
@@ -35,9 +35,9 @@
 
   - ふるかわ♥魔法（ふるかわ まほ、本名：古川真穂）
     [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")生まれ\[2\]。
-    [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")担当。
+    [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[作詞](../Page/作詞.md "wikilink")担当。
     父は放送作家の[古川嘉一郎](https://ja.wikipedia.org/wiki/古川嘉一郎 "wikilink")。
-    [松本孝弘](https://ja.wikipedia.org/wiki/松本孝弘 "wikilink")、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")、[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")など様々なアーティストの[コーラスに参加](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。
+    [松本孝弘](../Page/松本孝弘.md "wikilink")、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")、[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")など様々なアーティストの[コーラスに参加](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。
     [ニュージーランド](../Page/ニュージーランド.md "wikilink")留学の経験がある。
     2003年より[本丸統志文](https://ja.wikipedia.org/wiki/本丸統志文 "wikilink")プロデュースによる[The Blue Filmsのヴォーカリスト](https://ja.wikipedia.org/wiki/The_Blue_Films "wikilink")[古川真帆](https://ja.wikipedia.org/wiki/古川真帆 "wikilink")としてギタリスト[北森正樹](https://ja.wikipedia.org/wiki/北森正樹 "wikilink")と活動中。
 
@@ -46,7 +46,7 @@
   - シオジリケンジ（しおじり けんじ、本名：塩尻兼司）
     [リーダー](https://ja.wikipedia.org/wiki/リーダー "wikilink")、ボーカル、作詞、[作曲](../Page/作曲.md "wikilink")、[編曲](../Page/編曲.md "wikilink")担当。
     ディージャムクリエイト株式会社代表取締役。
-    [ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")のシングル「[世界はきっと未来の中](https://ja.wikipedia.org/wiki/世界はきっと未来の中 "wikilink")」の編曲、「[痛いくらい君があふれているよ](https://ja.wikipedia.org/wiki/痛いくらい君があふれているよ "wikilink")」の作曲・編曲、[松橋未樹](https://ja.wikipedia.org/wiki/松橋未樹 "wikilink")の「[time stands still](https://ja.wikipedia.org/wiki/time_stands_still "wikilink")」の作曲を担当している。
+    [ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")のシングル「[世界はきっと未来の中](../Page/世界はきっと未来の中.md "wikilink")」の編曲、「[痛いくらい君があふれているよ](../Page/痛いくらい君があふれているよ.md "wikilink")」の作曲・編曲、[松橋未樹](../Page/松橋未樹.md "wikilink")の「[time stands still](https://ja.wikipedia.org/wiki/time_stands_still "wikilink")」の作曲を担当している。
     5月12日生まれ\[3\]。
 
 <!-- end list -->
@@ -59,12 +59,12 @@
 ### 元メンバー
 
   - E:mju（エミュ）
-    [DJ](https://ja.wikipedia.org/wiki/ディスクジョッキー "wikilink")。2000年4月に脱退。現在モデルEriとして活躍中。
+    [DJ](../Page/ディスクジョッキー.md "wikilink")。2000年4月に脱退。現在モデルEriとして活躍中。
 
 <!-- end list -->
 
   - みらい&のぞみ（みらい アンド のぞみ）
-    [ダンス](https://ja.wikipedia.org/wiki/ダンス "wikilink")担当。1stシングル「[COCORO](https://ja.wikipedia.org/wiki/COCORO "wikilink")」のみに記載。
+    [ダンス](../Page/ダンス.md "wikilink")担当。1stシングル「[COCORO](https://ja.wikipedia.org/wiki/COCORO "wikilink")」のみに記載。
 
 ## ディスコグラフィー
 
@@ -98,18 +98,18 @@
 
 ## タイアップ
 
-| 曲名              | タイアップ                                                                                                                                                     |
-| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| city of tracks  | [ディレクTV](../Page/ディレクTV.md "wikilink")『[松尾潔](https://ja.wikipedia.org/wiki/松尾潔 "wikilink")的音楽生活』エンディングテーマ                                                 |
-| Ma LIFE         | [TBS系](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")『キャイーン・寛平の女神の真相』オープニングテーマ                                                                          |
-| Wonderin' Hands | [CBC](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")・TBS系アニメ『[モンスターファーム 〜円盤石の秘密〜](https://ja.wikipedia.org/wiki/モンスターファーム_\(アニメ\) "wikilink")』エンディングテーマ |
-| APPLE DAY       | [読売テレビ系](../Page/讀賣テレビ放送.md "wikilink")『[あさイチ\!](https://ja.wikipedia.org/wiki/あさイチ! "wikilink")』テーマソング                                                   |
+| 曲名              | タイアップ                                                                                                                                  |
+| --------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| city of tracks  | [ディレクTV](../Page/ディレクTV.md "wikilink")『[松尾潔](https://ja.wikipedia.org/wiki/松尾潔 "wikilink")的音楽生活』エンディングテーマ                              |
+| Ma LIFE         | [TBS系](../Page/TBSテレビ.md "wikilink")『キャイーン・寛平の女神の真相』オープニングテーマ                                                                          |
+| Wonderin' Hands | [CBC](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")・TBS系アニメ『[モンスターファーム 〜円盤石の秘密〜](../Page/モンスターファーム_\(アニメ\).md "wikilink")』エンディングテーマ |
+| APPLE DAY       | [読売テレビ系](../Page/讀賣テレビ放送.md "wikilink")『[あさイチ\!](../Page/あさイチ!.md "wikilink")』テーマソング                                                   |
 
 ## 関連項目
 
   - [ビーイング](../Page/ビーイング.md "wikilink")
   - [GIZA studio](../Page/GIZA_studio.md "wikilink")
-  - [YOKO Black. Stone](https://ja.wikipedia.org/wiki/YOKO_Black._Stone "wikilink")
+  - [YOKO Black. Stone](../Page/YOKO_Black._Stone.md "wikilink")
 
 ## 出典
 

@@ -1,12 +1,12 @@
 > この記事は[SATURDAY MUSIC GARAGE](https://ja.wikipedia.org/wiki/SATURDAY_MUSIC_GARAGE)から翻訳されています。
 
 
-**SATURDAY MUSIC GARAGE**（サタデー・ミュージック・ガレージ）は[CROSS FMで放送されたラジオ番組](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")。放送期間は[1999年](../Page/1999年.md "wikilink")[4月10日](../Page/4月10日.md "wikilink")-[2003年](../Page/2003年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")、毎週[土曜日](../Page/土曜日.md "wikilink")に「JR[博多駅](https://ja.wikipedia.org/wiki/博多駅 "wikilink")GIGAスタジオ」から生放送された。[ナビゲーターは](https://ja.wikipedia.org/wiki/ディスクジョッキー "wikilink")[内堀富美](https://ja.wikipedia.org/wiki/内堀富美 "wikilink")が務めた。
+**SATURDAY MUSIC GARAGE**（サタデー・ミュージック・ガレージ）は[CROSS FMで放送されたラジオ番組](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")。放送期間は[1999年](../Page/1999年.md "wikilink")[4月10日](../Page/4月10日.md "wikilink")-[2003年](../Page/2003年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")、毎週[土曜日](../Page/土曜日.md "wikilink")に「JR[博多駅](https://ja.wikipedia.org/wiki/博多駅 "wikilink")GIGAスタジオ」から生放送された。[ナビゲーターは](../Page/ディスクジョッキー.md "wikilink")[内堀富美](../Page/内堀富美.md "wikilink")が務めた。
 
 ## 概要
 
   - 「SATURADAY GARAGEからAMUSIC ISLANDへ出発」のキャッチコピーのもとスタートした音楽番組。
-  - 内容的には前年度まで毎週土曜日13:00-18:00に放送された「[CROSS RENDEZVOUS](https://ja.wikipedia.org/wiki/CROSS_RENDEZVOUS "wikilink")」がリニューアルする形であったが、この番組でよく行っていたスタジオ外からの公開生放送については、同時期に放送された「[BOOM BOOM SATURDAY](https://ja.wikipedia.org/wiki/BOOM_BOOM_SATURDAY "wikilink")」や「[SATURDAY MUSIC DELIVERY](https://ja.wikipedia.org/wiki/SATURDAY_MUSIC_DELIVERY "wikilink")」などで行われるようになった。
+  - 内容的には前年度まで毎週土曜日13:00-18:00に放送された「[CROSS RENDEZVOUS](https://ja.wikipedia.org/wiki/CROSS_RENDEZVOUS "wikilink")」がリニューアルする形であったが、この番組でよく行っていたスタジオ外からの公開生放送については、同時期に放送された「[BOOM BOOM SATURDAY](https://ja.wikipedia.org/wiki/BOOM_BOOM_SATURDAY "wikilink")」や「[SATURDAY MUSIC DELIVERY](../Page/SATURDAY_MUSIC_DELIVERY.md "wikilink")」などで行われるようになった。
 
 ## 放送時間
 
@@ -23,12 +23,12 @@
 
 ## ナビゲーター
 
-  - [内堀富美](https://ja.wikipedia.org/wiki/内堀富美 "wikilink")
+  - [内堀富美](../Page/内堀富美.md "wikilink")
 
 <!-- end list -->
 
   -
-    「[CROSS RENDEZVOUS](https://ja.wikipedia.org/wiki/CROSS_RENDEZVOUS "wikilink")」に続いてナビゲーターを担当。この番組の終了とともに博多駅GIGAスタジオが閉鎖されたこともあり、その後1年間同局での担当番組がなかったが、[2004年](../Page/2004年.md "wikilink")4月の天神きらめき通りスタジオ開設に伴い同局へ復帰、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月まで「[COUNTDOWN KYUSHU HOT 100](https://ja.wikipedia.org/wiki/COUNTDOWN_KYUSHU_HOT_100 "wikilink")」のナビゲーターを担当した。
+    「[CROSS RENDEZVOUS](https://ja.wikipedia.org/wiki/CROSS_RENDEZVOUS "wikilink")」に続いてナビゲーターを担当。この番組の終了とともに博多駅GIGAスタジオが閉鎖されたこともあり、その後1年間同局での担当番組がなかったが、[2004年](../Page/2004年.md "wikilink")4月の天神きらめき通りスタジオ開設に伴い同局へ復帰、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月まで「[COUNTDOWN KYUSHU HOT 100](../Page/COUNTDOWN_KYUSHU_HOT_100.md "wikilink")」のナビゲーターを担当した。
 
 ## 主なコーナー
 
@@ -37,7 +37,7 @@
 <!-- end list -->
 
   -
-    前番組「[CROSSROAD SATURDAY](https://ja.wikipedia.org/wiki/CROSSROAD_SATURDAY "wikilink")」から引き継がれ、[2001年](../Page/2001年.md "wikilink")12月まで放送された[エイチ・アイ・エス](https://ja.wikipedia.org/wiki/エイチ・アイ・エス "wikilink")提供のコーナー。世界各地の旅行スポットから毎月1ヶ所を取り上げ、旅行情報などを紹介した。
+    前番組「[CROSSROAD SATURDAY](https://ja.wikipedia.org/wiki/CROSSROAD_SATURDAY "wikilink")」から引き継がれ、[2001年](../Page/2001年.md "wikilink")12月まで放送された[エイチ・アイ・エス](../Page/エイチ・アイ・エス.md "wikilink")提供のコーナー。世界各地の旅行スポットから毎月1ヶ所を取り上げ、旅行情報などを紹介した。
 
 <!-- end list -->
 
@@ -77,14 +77,14 @@
 
 ## エピソードなど
 
-  - 2001年4月より、この番組の後14:00-17:00に同じGIGAスタジオから[北野順一](https://ja.wikipedia.org/wiki/北野順一 "wikilink")(JK)が担当する「[JK'S RADIO SHOW NO JOKE\!](https://ja.wikipedia.org/wiki/JK'S_RADIO_SHOW_NO_JOKE! "wikilink")」が放送されたが、内堀富美と北野順一の[クロストーク](https://ja.wikipedia.org/wiki/クロストーク "wikilink")はなかった。しかし、2001年12月末の「[JK'S RADIO SHOW NO JOKE\!](https://ja.wikipedia.org/wiki/JK'S_RADIO_SHOW_NO_JOKE! "wikilink")」最終回の日に内堀富美は「番組が変わるこの時間が楽しみだった」と番組内で語った。
-  - 2002年1月からこの番組終了まで、この番組の後で放送された「[FLYING SATURDAY](https://ja.wikipedia.org/wiki/FLYING_SATURDAY "wikilink")」担当の[吉村昌広](https://ja.wikipedia.org/wiki/吉村昌広 "wikilink")とは、番組の最後でクロストークを行っていた。
+  - 2001年4月より、この番組の後14:00-17:00に同じGIGAスタジオから[北野順一](../Page/北野順一.md "wikilink")(JK)が担当する「[JK'S RADIO SHOW NO JOKE\!](../Page/JK'S_RADIO_SHOW_NO_JOKE!.md "wikilink")」が放送されたが、内堀富美と北野順一の[クロストーク](https://ja.wikipedia.org/wiki/クロストーク "wikilink")はなかった。しかし、2001年12月末の「[JK'S RADIO SHOW NO JOKE\!](../Page/JK'S_RADIO_SHOW_NO_JOKE!.md "wikilink")」最終回の日に内堀富美は「番組が変わるこの時間が楽しみだった」と番組内で語った。
+  - 2002年1月からこの番組終了まで、この番組の後で放送された「[FLYING SATURDAY](../Page/FLYING_SATURDAY.md "wikilink")」担当の[吉村昌広](../Page/吉村昌広.md "wikilink")とは、番組の最後でクロストークを行っていた。
 
 ## 関連項目
 
-  - [内堀富美](https://ja.wikipedia.org/wiki/内堀富美 "wikilink")
+  - [内堀富美](../Page/内堀富美.md "wikilink")
   - [CROSS RENDEZVOUS](https://ja.wikipedia.org/wiki/CROSS_RENDEZVOUS "wikilink") - この番組開始前に内堀富美が担当していた番組
-  - [COUNTDOWN KYUSHU HOT 100](https://ja.wikipedia.org/wiki/COUNTDOWN_KYUSHU_HOT_100 "wikilink") - この番組終了後に内堀富美が担当した番組
+  - [COUNTDOWN KYUSHU HOT 100](../Page/COUNTDOWN_KYUSHU_HOT_100.md "wikilink") - この番組終了後に内堀富美が担当した番組
 
 ### 前後の番組
 
@@ -111,7 +111,7 @@
 <!-- end list -->
 
   - 前：ROLLING SATURDAY - 土 7:00-10:00
-  - 後：[SATURDAY MUSIC DELIVERY](https://ja.wikipedia.org/wiki/SATURDAY_MUSIC_DELIVERY "wikilink") - 土 14:00-17:00
+  - 後：[SATURDAY MUSIC DELIVERY](../Page/SATURDAY_MUSIC_DELIVERY.md "wikilink") - 土 14:00-17:00
 
 <!-- end list -->
 
@@ -120,7 +120,7 @@
 <!-- end list -->
 
   - 前：[X FUTURE RADIO ON SATURDAY](../Page/X_FUTURE_RADIO_ON_SATURDAY.md "wikilink") - 土 7:00-10:00
-  - 後：[JK'S RADIO SHOW NO JOKE\!](https://ja.wikipedia.org/wiki/JK'S_RADIO_SHOW_NO_JOKE! "wikilink") - 土 14:00-17:00、この番組同様博多駅GIGAスタジオからの生放送
+  - 後：[JK'S RADIO SHOW NO JOKE\!](../Page/JK'S_RADIO_SHOW_NO_JOKE!.md "wikilink") - 土 14:00-17:00、この番組同様博多駅GIGAスタジオからの生放送
 
 <!-- end list -->
 
@@ -129,6 +129,6 @@
 <!-- end list -->
 
   - 前：X FUTURE RADIO ON SATURDAY - 土 7:00-10:00
-  - 後：[FLYING SATURDAY](https://ja.wikipedia.org/wiki/FLYING_SATURDAY "wikilink") - 土 14:00-17:00、但し2002年4月から13:00-16:00、この番組同様博多駅GIGAスタジオからの生放送
+  - 後：[FLYING SATURDAY](../Page/FLYING_SATURDAY.md "wikilink") - 土 14:00-17:00、但し2002年4月から13:00-16:00、この番組同様博多駅GIGAスタジオからの生放送
 
 [Category:CROSS_FMの番組](https://ja.wikipedia.org/wiki/Category:CROSS_FMの番組 "wikilink") [Category:JFL系ラジオの音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:JFL系ラジオの音楽番組の歴史 "wikilink") [Category:1999年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1999年のラジオ番組_\(日本\) "wikilink")

@@ -1,7 +1,7 @@
 > この記事は[Sd Kfz 232 \(6-Rad\)](https://ja.wikipedia.org/wiki/Sd_Kfz_232_\(6-Rad\))から翻訳されています。
 
 
-**Sd Kfz 232 (6-Rad)** は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")前に採用された[ドイツ国防軍](https://ja.wikipedia.org/wiki/ドイツ国防軍 "wikilink")の偵察用[6輪重装甲無線車である](https://ja.wikipedia.org/wiki/装輪装甲車 "wikilink")。1932～37年の間にビュッシング-NAG、マギルス、[ダイムラー・ベンツ](../Page/ダイムラー・ベンツ.md "wikilink")の三社により、おそらく40輌程度が生産されたと思われる。Schwere Panzerfunkwagen (Sd Kfz 232) 6-Rad（6輪重装甲無線車 特殊車輌232型）。本車の後継として、同じ形式番号を持つ本格的な8輪重装甲車シリーズが作られ、こちらは[Sd Kfz 232](https://ja.wikipedia.org/wiki/Sd_Kfz_232 "wikilink") (8-Rad)と呼ばれる。
+**Sd Kfz 232 (6-Rad)** は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")前に採用された[ドイツ国防軍](../Page/ドイツ国防軍.md "wikilink")の偵察用[6輪重装甲無線車である](https://ja.wikipedia.org/wiki/装輪装甲車 "wikilink")。1932～37年の間にビュッシング-NAG、マギルス、[ダイムラー・ベンツ](../Page/ダイムラー・ベンツ.md "wikilink")の三社により、おそらく40輌程度が生産されたと思われる。Schwere Panzerfunkwagen (Sd Kfz 232) 6-Rad（6輪重装甲無線車 特殊車輌232型）。本車の後継として、同じ形式番号を持つ本格的な8輪重装甲車シリーズが作られ、こちらは[Sd Kfz 232](../Page/Sd_Kfz_232.md "wikilink") (8-Rad)と呼ばれる。
 
 ## 概要
 
@@ -11,6 +11,6 @@
 
 ビュッシング-NAG、マギルス、ダイムラーベンツ各社の異なるトラック用シャーシを用いた三種類が存在し、それぞれ車体長や細部の作り、エンジンなどが異なっていたが、特に形式番号での区別はされていない。
 
-本車は機械化偵察[大隊](../Page/大隊.md "wikilink")に配備され、徐々に後継のSd Kfz 232 (8-Rad)に置き換わっていったが、[フランス戦の頃までは第一線でその姿を見ることができ](https://ja.wikipedia.org/wiki/ナチス・ドイツのフランス侵攻 "wikilink")、またその後も後方任務に用いられた。
+本車は機械化偵察[大隊](../Page/大隊.md "wikilink")に配備され、徐々に後継のSd Kfz 232 (8-Rad)に置き換わっていったが、[フランス戦の頃までは第一線でその姿を見ることができ](../Page/ナチス・ドイツのフランス侵攻.md "wikilink")、またその後も後方任務に用いられた。
 
 [Category:ドイツ国防軍の装輪装甲車](https://ja.wikipedia.org/wiki/Category:ドイツ国防軍の装輪装甲車 "wikilink")

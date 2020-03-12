@@ -3,31 +3,31 @@
 
 **PENICILLIN**（ペニシリン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。
 
-1992年2月14日、[千聖](https://ja.wikipedia.org/wiki/千聖 "wikilink")が下宿していたアパートに[東海大学](../Page/東海大学.md "wikilink")のバンドサークルで出会ったメンバーが集まり結成。PENICILLINというバンド名は[上條淳士](https://ja.wikipedia.org/wiki/上條淳士 "wikilink")の漫画作品『[TO-Y](https://ja.wikipedia.org/wiki/TO-Y "wikilink")』に登場するバンド「ペニシリン・ショック」に由来している\[1\]。インディーズ時代は**Penicillin**と表記していた。
+1992年2月14日、[千聖](../Page/千聖.md "wikilink")が下宿していたアパートに[東海大学](../Page/東海大学.md "wikilink")のバンドサークルで出会ったメンバーが集まり結成。PENICILLINというバンド名は[上條淳士](../Page/上條淳士.md "wikilink")の漫画作品『[TO-Y](../Page/TO-Y.md "wikilink")』に登場するバンド「ペニシリン・ショック」に由来している\[1\]。インディーズ時代は**Penicillin**と表記していた。
 
 メンバー全員がソロ活動を行っており、ソロ活動においても[タイ](../Page/タイ王国.md "wikilink")、[ロンドン](../Page/ロンドン.md "wikilink")、[ラスベガス](../Page/ラスベガス.md "wikilink")など、日本国外でのライブ活動を行っている。
 
 インディーズ期以降、[ティアーズ音楽事務所](../Page/ティアーズ音楽事務所.md "wikilink")に所属していたが、2002年に個人事務所HUMAN DOLLを設立した。事務所設立後のソロ活動は、各メンバー別々の事務所に所属している。2007年4月にHUMAN DOLLが解散した後は、DUPLEX DEVELOPMENTS JAPANに所属している。
 
-east west japan（現[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")）、omega A.T.music、HiBOOM、[avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink")、[日本クラウン](https://ja.wikipedia.org/wiki/日本クラウン "wikilink")を経て[2011年](../Page/2011年.md "wikilink")、自主レーベルTHAT RecordsよりCDを発売。[2012年](../Page/2012年.md "wikilink")からは、[blowgrow](https://ja.wikipedia.org/wiki/blowgrow "wikilink")よりCDを発売している。
+east west japan（現[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")）、omega A.T.music、HiBOOM、[avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink")、[日本クラウン](../Page/日本クラウン.md "wikilink")を経て[2011年](../Page/2011年.md "wikilink")、自主レーベルTHAT RecordsよりCDを発売。[2012年](../Page/2012年.md "wikilink")からは、[blowgrow](https://ja.wikipedia.org/wiki/blowgrow "wikilink")よりCDを発売している。
 
 ## メンバー
 
-  - **[HAKUEI](https://ja.wikipedia.org/wiki/HAKUEI "wikilink")**：[ヴォーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
+  - **[HAKUEI](../Page/HAKUEI.md "wikilink")**：[ヴォーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
 
 <!-- end list -->
 
   -
-    [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[12月16日](../Page/12月16日.md "wikilink")生まれ。O型。本名は田中 博英。[宮崎県](../Page/宮崎県.md "wikilink")[串間市](https://ja.wikipedia.org/wiki/串間市 "wikilink")出身。[東海大学](../Page/東海大学.md "wikilink")[教養学部](https://ja.wikipedia.org/wiki/教養学部 "wikilink")生活経済学科卒。身長183センチ。毎年自身の誕生日ライブは「SUPER HEART CORE」と称される。
+    [1970年](../Page/1970年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")生まれ。O型。本名は田中 博英。[宮崎県](../Page/宮崎県.md "wikilink")[串間市](../Page/串間市.md "wikilink")出身。[東海大学](../Page/東海大学.md "wikilink")[教養学部](../Page/教養学部.md "wikilink")生活経済学科卒。身長183センチ。毎年自身の誕生日ライブは「SUPER HEART CORE」と称される。
 
 <!-- end list -->
 
-  - **[千聖](https://ja.wikipedia.org/wiki/千聖 "wikilink")**：[ギター](../Page/ギター.md "wikilink")、リーダー
+  - **[千聖](../Page/千聖.md "wikilink")**：[ギター](../Page/ギター.md "wikilink")、リーダー
 
 <!-- end list -->
 
   -
-    [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")生まれ。B型。本名は林 友顕。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身。[東海大学](../Page/東海大学.md "wikilink")[法学部](https://ja.wikipedia.org/wiki/法学部 "wikilink")卒。身長177センチ。毎年自身の誕生日ライブは「ROCK×ROCK」と称される。
+    [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")生まれ。B型。本名は林 友顕。[東京都](../Page/東京都.md "wikilink")出身。[東海大学](../Page/東海大学.md "wikilink")[法学部](../Page/法学部.md "wikilink")卒。身長177センチ。毎年自身の誕生日ライブは「ROCK×ROCK」と称される。
       - ステージネームは[森高千里](../Page/森高千里.md "wikilink")より。\[2\]。
 
 <!-- end list -->
@@ -40,28 +40,28 @@ east west japan（現[ワーナーミュージック・ジャパン](https://ja.
     [1973年](../Page/1973年.md "wikilink")[9月14日](../Page/9月14日.md "wikilink")生まれ。O型。本名は綱 宣彦。千葉県出身。[東海大学](../Page/東海大学.md "wikilink")[工学部](../Page/工学部.md "wikilink")電子工学科中退。身長175センチ。HAKUEIの漫画「すすめ\!とのさま」はO-JIROがモデルとなっており、毎年自身の誕生日ライブは「とのさまGIG」と称される。
       - ドラムはYAMAHAを使用。O-JIROモデルのスティック（YCSOJ）が発売されている\[3\]。コンピュータープログラミングを得意とし、バンド内でも実力を発揮。
       - ステージネームはドラえもんから[藤子不二雄](../Page/藤子不二雄.md "wikilink")つながりで、コロ助→オバQ→Q太郎→O-JIROというノリだけで決まった。
-      - 高校と大学は、[SHAZNA](https://ja.wikipedia.org/wiki/SHAZNA "wikilink")のA・O・Iと同級生だった事もありSHAZNAのLIVEにドラマーとして参加したことがある。
+      - 高校と大学は、[SHAZNA](../Page/SHAZNA.md "wikilink")のA・O・Iと同級生だった事もありSHAZNAのLIVEにドラマーとして参加したことがある。
       - 元[Sleep My DearのベーシストYASUMICHA](https://ja.wikipedia.org/wiki/Sleep_My_Dear "wikilink")'Nとのユニット808を結成。
-      - [ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[バンドの全盛期には](../Page/バンド_\(音楽\).md "wikilink")、他のメンバーが染めて立てた長髪やタイトな革の服など尖った衣装でまとめているのに対し、O-JIROだけはベレー帽に[チェック](https://ja.wikipedia.org/wiki/チェック "wikilink")の服など、他メンバーとは方向性の違う中性的でポップな衣装でまとめていることがある。
+      - [ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[バンドの全盛期には](../Page/バンド_\(音楽\).md "wikilink")、他のメンバーが染めて立てた長髪やタイトな革の服など尖った衣装でまとめているのに対し、O-JIROだけはベレー帽に[チェック](../Page/チェック.md "wikilink")の服など、他メンバーとは方向性の違う中性的でポップな衣装でまとめていることがある。
       - 後にペニシリンのGISHOらと「STARMAN」を結成。STARMANでの名義は**O-J**。2004年には六本木クワイルでライブを敢行。ボーカルを務める。
       - [Crack6](https://ja.wikipedia.org/wiki/Crack6 "wikilink")のサポートドラムとしても活動中。
 
 ### 旧メンバー
 
-  - **GISHO**：[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - **GISHO**：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
 
 <!-- end list -->
 
   -
     [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[5月20日](../Page/5月20日.md "wikilink")生まれ。A型。本名は近藤 宜彰。[兵庫県](../Page/兵庫県.md "wikilink")出身。[東海大学政治経済学部卒](https://ja.wikipedia.org/wiki/東海大学大学院政治学研究科及び経済学研究科・政治経済学部 "wikilink")。身長180センチ。
-      - **大滝純**名義で歌手、俳優、監督デビューを果たす。過去にVシネマ『[湘南爆走族 荒くれKNIGHT](https://ja.wikipedia.org/wiki/湘南爆走族 "wikilink")』、テレビドラマ『[救急ハート治療室](https://ja.wikipedia.org/wiki/救急ハート治療室 "wikilink")』などに出演したのち、映像クリエイターとして映画作品の出品や映像関連雑誌への連載を開始。自身の監督作品は2004年公開の『[Run-ing](https://ja.wikipedia.org/wiki/Movie_Box-ing "wikilink")』『狼少女〜Day After Tomorrow〜』\[4\]。
+      - **大滝純**名義で歌手、俳優、監督デビューを果たす。過去にVシネマ『[湘南爆走族 荒くれKNIGHT](../Page/湘南爆走族.md "wikilink")』、テレビドラマ『[救急ハート治療室](../Page/救急ハート治療室.md "wikilink")』などに出演したのち、映像クリエイターとして映画作品の出品や映像関連雑誌への連載を開始。自身の監督作品は2004年公開の『[Run-ing](https://ja.wikipedia.org/wiki/Movie_Box-ing "wikilink")』『狼少女〜Day After Tomorrow〜』\[4\]。
       - 2005年9月、[オメガプロジェクト・ホールディングス代表取締役社長に就任](https://ja.wikipedia.org/wiki/ソーシャル・エコロジー・プロジェクト "wikilink")。
       - 2007年5月20日、本人の意向により「**GISHORIX REVOLUTION NEVER ENDING STORY**」をもってPENICILLINを脱退。脱退後も時折、ステージにてメンバーと共演をしている。
       - 2010年6月、同社社長を退任。
-      - 2013年、HAKUEIの別プロジェクト「[ライチ☆光クラブ](https://ja.wikipedia.org/wiki/ライチ☆光クラブ "wikilink")」に加入し、音楽活動を再開させ、2人の対談も実現している\[5\]。
+      - 2013年、HAKUEIの別プロジェクト「[ライチ☆光クラブ](../Page/ライチ☆光クラブ.md "wikilink")」に加入し、音楽活動を再開させ、2人の対談も実現している\[5\]。
       - 少年時代転勤族だったため各地を転々とし、今では関西弁と名古屋弁が混ざってしまった。
       - 音楽は邦楽しか聴かず、特に80年代のアイドルに関する知識の豊富さを自負している。
-      - HAKUEI同様、[UP-BEAT](https://ja.wikipedia.org/wiki/UP-BEAT "wikilink")のファン。GISHO在籍時代最後のライブでは、UP-BEATの「NO SIDE ACTION」が演奏されたが、これはGISHO本人がリクエストしたもの。
+      - HAKUEI同様、[UP-BEAT](../Page/UP-BEAT.md "wikilink")のファン。GISHO在籍時代最後のライブでは、UP-BEATの「NO SIDE ACTION」が演奏されたが、これはGISHO本人がリクエストしたもの。
       - ステージネームを決める際に、当初は「アリス」か「アリサ」にするつもりだった。
       - 資格マニアであり、危険物取扱・教員・銀行簿記・スタントマンなど取得している。
 
@@ -72,8 +72,8 @@ east west japan（現[ワーナーミュージック・ジャパン](https://ja.
 ### サポートメンバー
 
   - 重盛美晴 - [プロデューサー](../Page/プロデューサー.md "wikilink")
-  - NAOMI - [キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")
-  - [HIROKI](https://ja.wikipedia.org/wiki/HIROKI_\(ベーシスト\) "wikilink") - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")（ex-[media youth](https://ja.wikipedia.org/wiki/media_youth "wikilink")、[HYDE BAND](https://ja.wikipedia.org/wiki/HYDE_BAND "wikilink")、[KILLERS](https://ja.wikipedia.org/wiki/KILLERS "wikilink")）
+  - NAOMI - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")
+  - [HIROKI](https://ja.wikipedia.org/wiki/HIROKI_\(ベーシスト\) "wikilink") - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")（ex-[media youth](https://ja.wikipedia.org/wiki/media_youth "wikilink")、[HYDE BAND](https://ja.wikipedia.org/wiki/HYDE_BAND "wikilink")、[KILLERS](../Page/KILLERS.md "wikilink")）
 
 <!-- end list -->
 
@@ -84,7 +84,7 @@ east west japan（現[ワーナーミュージック・ジャパン](https://ja.
 
 <!-- end list -->
 
-  - [Ni〜ya](https://ja.wikipedia.org/wiki/Ni〜ya "wikilink") - ベース（[ナイトメア](https://ja.wikipedia.org/wiki/ナイトメア_\(バンド\) "wikilink")）
+  - [Ni〜ya](https://ja.wikipedia.org/wiki/Ni〜ya "wikilink") - ベース（[ナイトメア](../Page/ナイトメア_\(バンド\).md "wikilink")）
 
 <!-- end list -->
 
@@ -95,7 +95,7 @@ east west japan（現[ワーナーミュージック・ジャパン](https://ja.
 
 <!-- end list -->
 
-  - SHUSE - ベース（[La'cryma Christi](../Page/La'cryma_Christi.md "wikilink")、SAMURAI DEAD CITY、[44MAGNUM](https://ja.wikipedia.org/wiki/44MAGNUM "wikilink")、現[Acid Black Cherryサポート](https://ja.wikipedia.org/wiki/Acid_Black_Cherry "wikilink")）
+  - SHUSE - ベース（[La'cryma Christi](../Page/La'cryma_Christi.md "wikilink")、SAMURAI DEAD CITY、[44MAGNUM](../Page/44MAGNUM.md "wikilink")、現[Acid Black Cherryサポート](../Page/Acid_Black_Cherry.md "wikilink")）
 
 <!-- end list -->
 
@@ -106,21 +106,21 @@ east west japan（現[ワーナーミュージック・ジャパン](https://ja.
 
 ## 来歴
 
-[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")2月14日、[東海大学](../Page/東海大学.md "wikilink")のバンドサークルのメンバーにより結成。HAKUEI曰く、結成当初は[GASTUNK](https://ja.wikipedia.org/wiki/GASTUNK "wikilink")のようなハードコアパンクをとにかく激しく派手な格好でやりたいと思っていたという。
+[1992年](../Page/1992年.md "wikilink")2月14日、[東海大学](../Page/東海大学.md "wikilink")のバンドサークルのメンバーにより結成。HAKUEI曰く、結成当初は[GASTUNK](../Page/GASTUNK.md "wikilink")のようなハードコアパンクをとにかく激しく派手な格好でやりたいと思っていたという。
 
 [1994年](../Page/1994年.md "wikilink")12月、ファーストフルアルバム『Missing Link』をリリース。レコ発ライヴで初めてソールドアウトとなる。
 
-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、2月から7月にかけて[目黒鹿鳴館](https://ja.wikipedia.org/wiki/目黒鹿鳴館 "wikilink")で「マンスリーライブ」を行い、全公演即日ソールドアウト。9月30日に[渋谷公会堂](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")で初のホールワンマンLIVEを行い\[6\]、チケットは発売日に即ソールドアウトした。インディーズながらレコード会社3社（[徳間ジャパン](https://ja.wikipedia.org/wiki/徳間ジャパン "wikilink")、[日本クラウン](https://ja.wikipedia.org/wiki/日本クラウン "wikilink")、[VAP](https://ja.wikipedia.org/wiki/バップ "wikilink")）から同時にCDを発表する。
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、2月から7月にかけて[目黒鹿鳴館](https://ja.wikipedia.org/wiki/目黒鹿鳴館 "wikilink")で「マンスリーライブ」を行い、全公演即日ソールドアウト。9月30日に[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")で初のホールワンマンLIVEを行い\[6\]、チケットは発売日に即ソールドアウトした。インディーズながらレコード会社3社（[徳間ジャパン](https://ja.wikipedia.org/wiki/徳間ジャパン "wikilink")、[日本クラウン](../Page/日本クラウン.md "wikilink")、[VAP](../Page/バップ.md "wikilink")）から同時にCDを発表する。
 
-[1996年](../Page/1996年.md "wikilink")3月、[PIONEER LDCよりシングル](https://ja.wikipedia.org/wiki/ジェネオン・ユニバーサル・エンターテイメントジャパン "wikilink")「Blue Moon / 天使よ目覚めて」でメジャーデビュー。7月25日・26日、当時としては異例の新人バンドによる[日本武道館](https://ja.wikipedia.org/wiki/日本武道館 "wikilink")公演を敢行。武道館公演直後、ソロ活動の開始を発表。千聖のタイでの人気に伴い、アジアでの認知度が高まった。テレビ埼玉（現・テレ玉）で「[ペニシリンSHOCK](https://ja.wikipedia.org/wiki/ペニシリンSHOCK "wikilink")」放送開始。
+[1996年](../Page/1996年.md "wikilink")3月、[PIONEER LDCよりシングル](https://ja.wikipedia.org/wiki/ジェネオン・ユニバーサル・エンターテイメントジャパン "wikilink")「Blue Moon / 天使よ目覚めて」でメジャーデビュー。7月25日・26日、当時としては異例の新人バンドによる[日本武道館](../Page/日本武道館.md "wikilink")公演を敢行。武道館公演直後、ソロ活動の開始を発表。千聖のタイでの人気に伴い、アジアでの認知度が高まった。テレビ埼玉（現・テレ玉）で「[ペニシリンSHOCK](https://ja.wikipedia.org/wiki/ペニシリンSHOCK "wikilink")」放送開始。
 
 [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、音楽番組などメディアへの露出が増え始める。
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")1月、テレビアニメ『[セクシーコマンドー外伝 すごいよ\!\!マサルさん](https://ja.wikipedia.org/wiki/セクシーコマンドー外伝_すごいよ!!マサルさん "wikilink")』のオープニングテーマ「[ロマンス](https://ja.wikipedia.org/wiki/ロマンス_\(PENICILLINの曲\) "wikilink")」を発売し、90万枚の売上を記録\[7\]。5月29日〜6月14日「ロックオペラ[ハムレット](../Page/ハムレット.md "wikilink")」に出演。（[ハムレット役](https://ja.wikipedia.org/wiki/ハムレット_\(キャラクター\) "wikilink")：HAKUEI、ホレーシオ役：千聖、レアティーズ役：GISHO、うさぎ役：O-JIRO）
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")1月、テレビアニメ『[セクシーコマンドー外伝 すごいよ\!\!マサルさん](https://ja.wikipedia.org/wiki/セクシーコマンドー外伝_すごいよ!!マサルさん "wikilink")』のオープニングテーマ「[ロマンス](../Page/ロマンス_\(PENICILLINの曲\).md "wikilink")」を発売し、90万枚の売上を記録\[7\]。5月29日〜6月14日「ロックオペラ[ハムレット](../Page/ハムレット.md "wikilink")」に出演。（[ハムレット役](https://ja.wikipedia.org/wiki/ハムレット_\(キャラクター\) "wikilink")：HAKUEI、ホレーシオ役：千聖、レアティーズ役：GISHO、うさぎ役：O-JIRO）
 
 [2000年](../Page/2000年.md "wikilink")、韓国にてライブを行なった。
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")、5月20日に行なわれたライブを以って、ベースのGISHOが脱退した。脱退理由は、本人の一身上の都合によるものである。残ったメンバーは即答で「3人でやろう\!」とそれ以外の選択肢はなかったと述べている。
+[2007年](../Page/2007年.md "wikilink")、5月20日に行なわれたライブを以って、ベースのGISHOが脱退した。脱退理由は、本人の一身上の都合によるものである。残ったメンバーは即答で「3人でやろう\!」とそれ以外の選択肢はなかったと述べている。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")、2012年の結成20周年に向け、自主レーベルTHAT Recordsを設立\[8\]。
 
@@ -152,7 +152,7 @@ east west japan（現[ワーナーミュージック・ジャパン](https://ja.
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1992年" title="wikilink">1992年</a>11月</p></td>
+<td><p><a href="../Page/1992年.md" title="wikilink">1992年</a>11月</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
 <p>1st Demo Tape</p>
@@ -266,7 +266,7 @@ east west japan</p></td>
 <tr class="even">
 <td><p>8</p></td>
 <td><p>1998/01/15</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ロマンス_(PENICILLINの曲)" title="wikilink">ロマンス</a></strong></p></td>
+<td><p><strong><a href="../Page/ロマンス_(PENICILLINの曲).md" title="wikilink">ロマンス</a></strong></p></td>
 <td><p>east west japan</p></td>
 <td><p>4位</p></td>
 <td><p>PENICILLIN最大のセールスを記録。TBS系「[[セクシーコマンドー外伝_すごいよ</p></td>
@@ -277,7 +277,7 @@ east west japan</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/make_love" title="wikilink">make love</a></strong></p></td>
 <td><p>east west japan</p></td>
 <td><p>8位</p></td>
-<td><p>TBS系「<a href="https://ja.wikipedia.org/wiki/ランク王国" title="wikilink">ランク王国</a>」OPテーマ</p></td>
+<td><p>TBS系「<a href="../Page/ランク王国.md" title="wikilink">ランク王国</a>」OPテーマ</p></td>
 </tr>
 <tr class="even">
 <td><p>10</p></td>
@@ -293,7 +293,7 @@ east west japan</p></td>
 <td><p><strong>Butterfly</strong></p></td>
 <td><p>east west japan</p></td>
 <td><p>24位</p></td>
-<td><p>アルバム『<a href="https://ja.wikipedia.org/wiki/Ultimate_Velocity" title="wikilink">Ultimate Velocity</a>』からのリカットシングル。テレビ朝日系ドラマ「<a href="https://ja.wikipedia.org/wiki/チェンジ!" title="wikilink">チェンジ!</a>」EDテーマ</p></td>
+<td><p>アルバム『<a href="https://ja.wikipedia.org/wiki/Ultimate_Velocity" title="wikilink">Ultimate Velocity</a>』からのリカットシングル。テレビ朝日系ドラマ「<a href="../Page/チェンジ!.md" title="wikilink">チェンジ!</a>」EDテーマ</p></td>
 </tr>
 <tr class="even">
 <td><p>12</p></td>
@@ -317,7 +317,7 @@ east west japan</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ウルトライダー" title="wikilink">ウルトライダー</a></strong></p></td>
 <td><p>east west japan</p></td>
 <td><p>23位</p></td>
-<td><p>日本テレビ系アニメ「<a href="https://ja.wikipedia.org/wiki/金田一少年の事件簿_(アニメ)" title="wikilink">金田一少年の事件簿</a>」EDテーマ</p></td>
+<td><p>日本テレビ系アニメ「<a href="../Page/金田一少年の事件簿_(アニメ).md" title="wikilink">金田一少年の事件簿</a>」EDテーマ</p></td>
 </tr>
 <tr class="odd">
 <td><p>15</p></td>
@@ -429,13 +429,13 @@ east west japan</p></td>
 <td><p><strong>Grind Candy / エデン</strong></p></td>
 <td><p>avex trax</p></td>
 <td><p>33位</p></td>
-<td><p>Grind CandyのPVに<a href="https://ja.wikipedia.org/wiki/オアシズ" title="wikilink">オアシズ</a>が出演。</p></td>
+<td><p>Grind CandyのPVに<a href="../Page/オアシズ.md" title="wikilink">オアシズ</a>が出演。</p></td>
 </tr>
 <tr class="odd">
 <td><p>29</p></td>
 <td><p>2008/4/23</p></td>
 <td><p><strong>太陽</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日本クラウン" title="wikilink">日本クラウン</a></p></td>
+<td><p><a href="../Page/日本クラウン.md" title="wikilink">日本クラウン</a></p></td>
 <td><p>45位</p></td>
 <td></td>
 </tr>
@@ -445,7 +445,7 @@ east west japan</p></td>
 <td><p><strong>RAINBOW/SCREAM</strong></p></td>
 <td><p>日本クラウン</p></td>
 <td><p>37位</p></td>
-<td><p>日本テレビ系「<a href="https://ja.wikipedia.org/wiki/音燃え!" title="wikilink">音燃え!</a>」OPテーマ</p></td>
+<td><p>日本テレビ系「<a href="../Page/音燃え!.md" title="wikilink">音燃え!</a>」OPテーマ</p></td>
 </tr>
 <tr class="odd">
 <td><p>31</p></td>
@@ -477,7 +477,7 @@ east west japan</p></td>
 <td><p><strong>幻想カタルシス</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/blowgrow" title="wikilink">blowgrow</a></p></td>
 <td><p>22位</p></td>
-<td><p>CDは3種類あり、各カップリングには「<a href="https://ja.wikipedia.org/wiki/シルエット・ロマンス" title="wikilink">シルエット・ロマンス</a>」、「<a href="https://ja.wikipedia.org/wiki/桃色吐息" title="wikilink">桃色吐息</a>」、「<a href="https://ja.wikipedia.org/wiki/飾りじゃないのよ涙は" title="wikilink">飾りじゃないのよ涙は</a>」のPENICILLIN ver.が収録されている。</p></td>
+<td><p>CDは3種類あり、各カップリングには「<a href="../Page/シルエット・ロマンス.md" title="wikilink">シルエット・ロマンス</a>」、「<a href="https://ja.wikipedia.org/wiki/桃色吐息" title="wikilink">桃色吐息</a>」、「<a href="../Page/飾りじゃないのよ涙は.md" title="wikilink">飾りじゃないのよ涙は</a>」のPENICILLIN ver.が収録されている。</p></td>
 </tr>
 <tr class="odd">
 <td><p>35</p></td>
@@ -596,7 +596,7 @@ east west japan</p></td>
 <li>Quarter Doll</li>
 <li>Eternity</li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/バップ" title="wikilink">バップ</a></p></td>
+<td><p><a href="../Page/バップ.md" title="wikilink">バップ</a></p></td>
 <td><p>45位</p></td>
 <td></td>
 </tr>
@@ -614,7 +614,7 @@ east west japan</p></td>
 <li>Fish</li>
 <li>Little Love Story</li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日本クラウン" title="wikilink">日本クラウン</a></p></td>
+<td><p><a href="../Page/日本クラウン.md" title="wikilink">日本クラウン</a></p></td>
 <td><p>42位</p></td>
 <td></td>
 </tr>
@@ -643,7 +643,7 @@ east west japan</p></td>
 <li>Miss Cool(Instrumental)</li>
 <li>螺旋階段(Instrumental)</li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/徳間ジャパンコミュニケーションズ" title="wikilink">徳間ジャパンコミュニケーションズ</a></p></td>
+<td><p><a href="../Page/徳間ジャパンコミュニケーションズ.md" title="wikilink">徳間ジャパンコミュニケーションズ</a></p></td>
 <td><p>46位</p></td>
 <td><p>メジャー流通盤。「In the Kingdom of the Moonlight」と、「Miss Cool」「螺旋階段」のそれぞれのカラオケ音源が追加収録された。また、「Miss Cool」と「螺旋階段」はそれぞれリミックスされて収録された。</p></td>
 </tr>
@@ -934,7 +934,7 @@ east west japan</p></td>
 </ol></td>
 <td><p>avex trax</p></td>
 <td><p>72位</p></td>
-<td><p>PENICILLIN結成13周年記念特番「PENICILLIN TV」は<a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a>2月3日<a href="https://ja.wikipedia.org/wiki/東京MXテレビ" title="wikilink">東京MXテレビ</a>にて放送されたもの。</p></td>
+<td><p>PENICILLIN結成13周年記念特番「PENICILLIN TV」は<a href="../Page/2005年.md" title="wikilink">2005年</a>2月3日<a href="https://ja.wikipedia.org/wiki/東京MXテレビ" title="wikilink">東京MXテレビ</a>にて放送されたもの。</p></td>
 </tr>
 <tr class="even">
 <td><p>18</p></td>
@@ -1402,7 +1402,7 @@ Type-B<br />
 <td><p>'''A LOCUS OF PENICILLIN Vol.1<br />
 +アニメ版「すすめ</p></td>
 <td><p>とのさま　第壱話」'''</p></td>
-<td><p>VHS×2本+<a href="https://ja.wikipedia.org/wiki/CD_EXTRA" title="wikilink">CD-EXTRA</a></p></td>
+<td><p>VHS×2本+<a href="../Page/CD_EXTRA.md" title="wikilink">CD-EXTRA</a></p></td>
 </tr>
 <tr class="even">
 <td><p>14</p></td>
@@ -1531,14 +1531,14 @@ Type-B<br />
 
 ### その他
 
-| タイトル                                                                            | 概要                                                                                                                                                                                                                                                                                     |
-| ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **The Flame**                                                                   | [1996年](../Page/1996年.md "wikilink")7月25日の[日本武道館](https://ja.wikipedia.org/wiki/日本武道館 "wikilink")ライブにて配布。8cmCD。[チープ・トリック](https://ja.wikipedia.org/wiki/チープ・トリック "wikilink")のカバー曲。後に、シングル「[夜をぶっとばせ](https://ja.wikipedia.org/wiki/夜をぶっとばせ_\(PENICILLINの曲\) "wikilink")」のカップリングにも収録された。 |
-| **[I WANT YOU TO　WANT ME](https://ja.wikipedia.org/wiki/甘い罠_\(曲\) "wikilink")** | 1996年7月26日の日本武道館ライブにて配布。8cmCD。チープ・トリックのカバー曲。                                                                                                                                                                                                                                           |
-| **BAND やろうぜ PENICILLIN Special**                                                | 「Melody/マザー・グース」を収録したCD＋バンド結成秘話、1998年までのソロを含めたディスコグラフィー、使用機材ファイル、メンバー直伝の演奏アドバイスを収めたブックレット＆マザー・グースのバンドスコア。                                                                                                                                                                              |
-| '''あざらし戦隊イナズマ\~どきどき大作戦\~ '''                                                    | 2002年3月29日に発売された[ゲームボーイカラー](../Page/ゲームボーイカラー.md "wikilink")用のゲームソフト。[すしあざらし](https://ja.wikipedia.org/wiki/すしあざらし "wikilink")の作者えだいずみとHAKUEIのコラボによって生まれたキャラクター「あざらし戦隊イナズマ」のゲームである。ゲームの他に、TVアニメ化やグッズ化もしている。なお、あざらし戦隊イナズマは4匹編成であり、各キャラクターはメンバー4人の特徴を反映している。                             |
-| **サマーフルーツ**                                                                     | 2004年10月3日・4日に行われた[舞浜](https://ja.wikipedia.org/wiki/舞浜 "wikilink")のディナーショーにて参加者に配布されたシングル。カップリングは「SHINE」（nanoの「SHINE」とは別の曲）。                                                                                                                                                          |
-| **未来**                                                                          | 2013年2月13日に行われた渋谷公会堂ライブにて配布。（作詞：HAKUEI 作曲：GISHO）                                                                                                                                                                                                                                       |
+| タイトル                                                                            | 概要                                                                                                                                                                                                                                               |
+| ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **The Flame**                                                                   | [1996年](../Page/1996年.md "wikilink")7月25日の[日本武道館](../Page/日本武道館.md "wikilink")ライブにて配布。8cmCD。[チープ・トリック](../Page/チープ・トリック.md "wikilink")のカバー曲。後に、シングル「[夜をぶっとばせ](https://ja.wikipedia.org/wiki/夜をぶっとばせ_\(PENICILLINの曲\) "wikilink")」のカップリングにも収録された。 |
+| **[I WANT YOU TO　WANT ME](https://ja.wikipedia.org/wiki/甘い罠_\(曲\) "wikilink")** | 1996年7月26日の日本武道館ライブにて配布。8cmCD。チープ・トリックのカバー曲。                                                                                                                                                                                                     |
+| **BAND やろうぜ PENICILLIN Special**                                                | 「Melody/マザー・グース」を収録したCD＋バンド結成秘話、1998年までのソロを含めたディスコグラフィー、使用機材ファイル、メンバー直伝の演奏アドバイスを収めたブックレット＆マザー・グースのバンドスコア。                                                                                                                                        |
+| '''あざらし戦隊イナズマ\~どきどき大作戦\~ '''                                                    | 2002年3月29日に発売された[ゲームボーイカラー](../Page/ゲームボーイカラー.md "wikilink")用のゲームソフト。[すしあざらし](../Page/すしあざらし.md "wikilink")の作者えだいずみとHAKUEIのコラボによって生まれたキャラクター「あざらし戦隊イナズマ」のゲームである。ゲームの他に、TVアニメ化やグッズ化もしている。なお、あざらし戦隊イナズマは4匹編成であり、各キャラクターはメンバー4人の特徴を反映している。          |
+| **サマーフルーツ**                                                                     | 2004年10月3日・4日に行われた[舞浜](../Page/舞浜.md "wikilink")のディナーショーにて参加者に配布されたシングル。カップリングは「SHINE」（nanoの「SHINE」とは別の曲）。                                                                                                                                       |
+| **未来**                                                                          | 2013年2月13日に行われた渋谷公会堂ライブにて配布。（作詞：HAKUEI 作曲：GISHO）                                                                                                                                                                                                 |
 
 #### 音源化されていない未発表楽曲
 
@@ -1550,18 +1550,18 @@ Type-B<br />
 
 #### 参加作品
 
-| アーティスト                                                                | タイトル                 | 概要                                                                                                      |
-| --------------------------------------------------------------------- | -------------------- | ------------------------------------------------------------------------------------------------------- |
-| *' [クマムシ](https://ja.wikipedia.org/wiki/クマムシ_\(お笑いコンビ\) "wikilink")*' | Could you tell me... | [千聖](https://ja.wikipedia.org/wiki/千聖 "wikilink")とO-JIROがMVに登場し、このMV限定のバンド“KUMACILLIN（クマシリン）”を結成。\[14\] |
-|                                                                       |                      |                                                                                                         |
+| アーティスト                                                                | タイトル                 | 概要                                                                                   |
+| --------------------------------------------------------------------- | -------------------- | ------------------------------------------------------------------------------------ |
+| *' [クマムシ](https://ja.wikipedia.org/wiki/クマムシ_\(お笑いコンビ\) "wikilink")*' | Could you tell me... | [千聖](../Page/千聖.md "wikilink")とO-JIROがMVに登場し、このMV限定のバンド“KUMACILLIN（クマシリン）”を結成。\[14\] |
+|                                                                       |                      |                                                                                      |
 
 ## nano
 
-**nano**（ナノ）は、[HAKUEI](https://ja.wikipedia.org/wiki/HAKUEI "wikilink")と[千聖](https://ja.wikipedia.org/wiki/千聖 "wikilink")による期間限定ユニット。打ち込みを主体としたデジタルサウンドを特徴としている\[15\]。
+**nano**（ナノ）は、[HAKUEI](../Page/HAKUEI.md "wikilink")と[千聖](../Page/千聖.md "wikilink")による期間限定ユニット。打ち込みを主体としたデジタルサウンドを特徴としている\[15\]。
 
 ### 概要
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")4月1日に公式ブログで活動スタートを発表した。当初のユニット名は、**PENICILLIN nano**であった。
+  - [2006年](../Page/2006年.md "wikilink")4月1日に公式ブログで活動スタートを発表した。当初のユニット名は、**PENICILLIN nano**であった。
   - [アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")[テキサス州](../Page/テキサス州.md "wikilink")[ダラス](../Page/ダラス.md "wikilink")でのイベント「A-KON 17」に出演（現地時間2006年6月10日のみ）。[東名阪ツアーも行なった](https://ja.wikipedia.org/wiki/三大都市圏 "wikilink")。
   - リリースしたシングルCDすべてに『CDのみ』と『CD+DVD』の2種類（アルバムは『CD+BOOK』と『CD+DVD』）が存在し、DVDには映像作品『ドグラ・マグラ』が収録されている。
   - 2006年8月1日〜8月7日まで7(nano)日間連続でマキシシングルをリリースした。
@@ -1569,8 +1569,8 @@ Type-B<br />
 
 ### メンバー
 
-  - **[HAKUEI](https://ja.wikipedia.org/wiki/HAKUEI "wikilink")**：[ヴォーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
-  - **[千聖](https://ja.wikipedia.org/wiki/千聖 "wikilink")**：[ギター](../Page/ギター.md "wikilink")・[プロデューサー](../Page/プロデューサー.md "wikilink")
+  - **[HAKUEI](../Page/HAKUEI.md "wikilink")**：[ヴォーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
+  - **[千聖](../Page/千聖.md "wikilink")**：[ギター](../Page/ギター.md "wikilink")・[プロデューサー](../Page/プロデューサー.md "wikilink")
 
 #### サポートメンバー
 
@@ -1614,19 +1614,19 @@ Type-B<br />
 
 ## 過去のレギュラー番組
 
-  - PENICILLINの雪崩式ブレーンバスター\!\!（[STAR digio ch.400](https://ja.wikipedia.org/wiki/スターデジオ "wikilink")）
+  - PENICILLINの雪崩式ブレーンバスター\!\!（[STAR digio ch.400](../Page/スターデジオ.md "wikilink")）
   - BLUES ALLEY JAPAN“birth of music”（千聖、[Inter FM](https://ja.wikipedia.org/wiki/エフエムインターウェーブ "wikilink")）
   - PENICILLIN FIRE×FIRE（[bay fm](https://ja.wikipedia.org/wiki/bay_fm "wikilink")）
   - [ペニシリンSHOCK](https://ja.wikipedia.org/wiki/ペニシリンSHOCK "wikilink") （[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")（現 テレ玉））
 
 ## 関連項目
 
-  - [machine](https://ja.wikipedia.org/wiki/machine "wikilink") - HAKUEIと[KIYOSHI](https://ja.wikipedia.org/wiki/KIYOSHI "wikilink")のユニット。
-  - [Crack 6](https://ja.wikipedia.org/wiki/Crack_6 "wikilink") - 千聖のソロ・プロジェクト。
-  - [ライチ☆光クラブ](https://ja.wikipedia.org/wiki/ライチ☆光クラブ "wikilink") - [古屋兎丸](https://ja.wikipedia.org/wiki/古屋兎丸 "wikilink")による漫画作品。HAKUEIを中心に「ライチ☆光クラブ」の世界を音楽に昇華させるためのユニットが結成された。
+  - [machine](https://ja.wikipedia.org/wiki/machine "wikilink") - HAKUEIと[KIYOSHI](../Page/KIYOSHI.md "wikilink")のユニット。
+  - [Crack 6](../Page/Crack_6.md "wikilink") - 千聖のソロ・プロジェクト。
+  - [ライチ☆光クラブ](../Page/ライチ☆光クラブ.md "wikilink") - [古屋兎丸](../Page/古屋兎丸.md "wikilink")による漫画作品。HAKUEIを中心に「ライチ☆光クラブ」の世界を音楽に昇華させるためのユニットが結成された。
   - [加藤正憲](https://ja.wikipedia.org/wiki/加藤正憲 "wikilink") - 写真家。10年以上に渡りPENICILLINの写真を撮り続けている。
   - [La'cryma Christi](../Page/La'cryma_Christi.md "wikilink")
-  - [SIAM SHADE](https://ja.wikipedia.org/wiki/SIAM_SHADE "wikilink")
+  - [SIAM SHADE](../Page/SIAM_SHADE.md "wikilink")
 
 ## 脚注
 

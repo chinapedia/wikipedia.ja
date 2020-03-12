@@ -1,13 +1,13 @@
 > この記事は[Sd Kfz 231 \(6-Rad\)](https://ja.wikipedia.org/wiki/Sd_Kfz_231_\(6-Rad\))から翻訳されています。
 
 
-**Sd Kfz 231 (6-Rad)** は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")前に採用された[ドイツの](../Page/ナチス・ドイツ.md "wikilink")[6輪重装甲偵察車である](https://ja.wikipedia.org/wiki/装輪装甲車 "wikilink")。1932～37年にビュッシング-NAG、マギルス、ダイムラーベンツの三社がそれぞれに、無線車型の**Sd Kfz 232 (6-Rad)** を含め、計123輌が生産された。ドイツ語では Schwerer Panzerspähwagen Sd.Kfz.231 (6-Rad) が制式名称である。本車の後継として、同じ制式番号を持つ本格的な8輪重装甲車シリーズが作られ、こちらは[Sd Kfz 231](https://ja.wikipedia.org/wiki/Sd_kfz_231 "wikilink") (8-Rad)と呼ばれる。また本車をベースとした装甲無線車型である[Sd Kfz 232 (6-Rad)および](https://ja.wikipedia.org/wiki/Sd_Kfz_232_\(6-Rad\) "wikilink")[Sd Kfz 263 (6-Rad)も生産された](https://ja.wikipedia.org/wiki/Sd_Kfz_263_\(6-Rad\) "wikilink")。
+**Sd Kfz 231 (6-Rad)** は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")前に採用された[ドイツの](../Page/ナチス・ドイツ.md "wikilink")[6輪重装甲偵察車である](https://ja.wikipedia.org/wiki/装輪装甲車 "wikilink")。1932～37年にビュッシング-NAG、マギルス、ダイムラーベンツの三社がそれぞれに、無線車型の**Sd Kfz 232 (6-Rad)** を含め、計123輌が生産された。ドイツ語では Schwerer Panzerspähwagen Sd.Kfz.231 (6-Rad) が制式名称である。本車の後継として、同じ制式番号を持つ本格的な8輪重装甲車シリーズが作られ、こちらは[Sd Kfz 231](https://ja.wikipedia.org/wiki/Sd_kfz_231 "wikilink") (8-Rad)と呼ばれる。また本車をベースとした装甲無線車型である[Sd Kfz 232 (6-Rad)および](../Page/Sd_Kfz_232_\(6-Rad\).md "wikilink")[Sd Kfz 263 (6-Rad)も生産された](https://ja.wikipedia.org/wiki/Sd_Kfz_263_\(6-Rad\) "wikilink")。
 
 ## 概要
 
-[ヴェルサイユ条約](../Page/ヴェルサイユ条約.md "wikilink")によって、軍の[装甲戦闘車輌の保有を制限された](../Page/装甲戦闘車両.md "wikilink")[ワイマール共和国時代のドイツでは](../Page/ヴァイマル共和政.md "wikilink")、[装輪装甲車](https://ja.wikipedia.org/wiki/装輪装甲車 "wikilink")は[警察](https://ja.wikipedia.org/wiki/警察 "wikilink")のみが装備を許され、トラックのシャーシを使ったエーアハルト装甲車などが運用されていた。これらは任務や構造上、軍用として求められるオフロード性能は期待できるものではなかったが、運用し経験をつむことができた。
+[ヴェルサイユ条約](../Page/ヴェルサイユ条約.md "wikilink")によって、軍の[装甲戦闘車輌の保有を制限された](../Page/装甲戦闘車両.md "wikilink")[ワイマール共和国時代のドイツでは](../Page/ヴァイマル共和政.md "wikilink")、[装輪装甲車](https://ja.wikipedia.org/wiki/装輪装甲車 "wikilink")は[警察](../Page/警察.md "wikilink")のみが装備を許され、トラックのシャーシを使ったエーアハルト装甲車などが運用されていた。これらは任務や構造上、軍用として求められるオフロード性能は期待できるものではなかったが、運用し経験をつむことができた。
 
-[ナチス政権になる以前から](https://ja.wikipedia.org/wiki/国家社会主義ドイツ労働者党 "wikilink")、[ドイツ軍](../Page/ドイツ軍.md "wikilink")は[再軍備に備え秘密裏に禁止されていた兵器の研究開発を始めていた](https://ja.wikipedia.org/wiki/ドイツ再軍備宣言 "wikilink")。ビュッシング-NAG、マギルス、ダイムラーベンツの三社により10輪や8輪の本格的な重装甲車の試作が進められていたが、1928年に製造が決定した頃には[世界恐慌](../Page/世界恐慌.md "wikilink")の最中で、予算が著しく不足する状況であった。このため安価で暫定的な車輌が採用されることとなり、民間乗用車ベースの4輪式軽装甲車であるアドラー[Kfz 13系](../Page/Kfz_13.md "wikilink")、民間向けトラックベースの6輪式重装甲車である**Sd Kfz 231 (6-Rad)**系が開発された。これらも所詮は道路上で使う民間車輌の改造であり、オフロード性能は劣悪であった。
+[ナチス政権になる以前から](https://ja.wikipedia.org/wiki/国家社会主義ドイツ労働者党 "wikilink")、[ドイツ軍](../Page/ドイツ軍.md "wikilink")は[再軍備に備え秘密裏に禁止されていた兵器の研究開発を始めていた](../Page/ドイツ再軍備宣言.md "wikilink")。ビュッシング-NAG、マギルス、ダイムラーベンツの三社により10輪や8輪の本格的な重装甲車の試作が進められていたが、1928年に製造が決定した頃には[世界恐慌](../Page/世界恐慌.md "wikilink")の最中で、予算が著しく不足する状況であった。このため安価で暫定的な車輌が採用されることとなり、民間乗用車ベースの4輪式軽装甲車であるアドラー[Kfz 13系](../Page/Kfz_13.md "wikilink")、民間向けトラックベースの6輪式重装甲車である**Sd Kfz 231 (6-Rad)**系が開発された。これらも所詮は道路上で使う民間車輌の改造であり、オフロード性能は劣悪であった。
 
 しかし6輪重装甲車は同時期の他国の[装甲車](../Page/装甲車.md "wikilink")に比べ洗練されており、傾斜した8mm厚の装甲が溶接接合で組まれているなど、後の8輪重装甲車シリーズの車体デザインに影響を与えている。また武装も密閉式小型砲塔内に2cm KwK30機関砲および7.92mm MG13各一挺と同程度であった。（この武装配置は、前期と後期で左右逆転している。）トラックベースであるためエンジンは車体前方にあり、ラジエーターは格子状、後に開閉可能なシャッター式の装甲で守られていた。
 

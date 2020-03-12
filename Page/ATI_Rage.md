@@ -1,11 +1,11 @@
 > この記事は[ATI Rage](https://ja.wikipedia.org/wiki/ATI_Rage)から翻訳されています。
 
 
-[250px](https://ja.wikipedia.org/wiki/ファイル:ATI_Rage128_GL_PCI.jpg "wikilink") **RAGE**（レイジ）は、[ATI Technologies](https://ja.wikipedia.org/wiki/ATI_Technologies "wikilink")（現[AMDのグラフィックスアクセラレータ開発部門](https://ja.wikipedia.org/wiki/アドバンスト・マイクロ・デバイセズ "wikilink")）が開発したビデオチップ（[グラフィックスアクセラレータ](https://ja.wikipedia.org/wiki/グラフィックスアクセラレータ "wikilink")）、またはそれを搭載した[ビデオカード](../Page/ビデオカード.md "wikilink")、およびそれらの製品シリーズ名である。
+[250px](https://ja.wikipedia.org/wiki/ファイル:ATI_Rage128_GL_PCI.jpg "wikilink") **RAGE**（レイジ）は、[ATI Technologies](../Page/ATI_Technologies.md "wikilink")（現[AMDのグラフィックスアクセラレータ開発部門](https://ja.wikipedia.org/wiki/アドバンスト・マイクロ・デバイセズ "wikilink")）が開発したビデオチップ（[グラフィックスアクセラレータ](https://ja.wikipedia.org/wiki/グラフィックスアクセラレータ "wikilink")）、またはそれを搭載した[ビデオカード](../Page/ビデオカード.md "wikilink")、およびそれらの製品シリーズ名である。
 
 ## 歴史
 
-ATIは、高い評価を得ていた2D用のチップ、[Machシリーズに](https://ja.wikipedia.org/wiki/ATI_Mach "wikilink")3Dアクセラレーション機能などを追加したビデオチップを開発、**3D RAGE**として発表した。当時は[マイクロソフト](../Page/マイクロソフト.md "wikilink")が[Windows 95を発売してコンピュータが普及し始めた時期にあたり](../Page/Microsoft_Windows_95.md "wikilink")、RAGEシリーズは多くのメーカーのコンピュータに搭載された。ATIは、性能を向上し[DirectX](https://ja.wikipedia.org/wiki/DirectX "wikilink")5に対応した**3D RAGE II**、[AGPに対応した](../Page/Accelerated_Graphics_Port.md "wikilink")**3D RAGE Pro**を開発、[PC/AT互換機](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink")以外にも[アップルコンピュータの](../Page/アップル_\(企業\).md "wikilink")[Power Macintoshなどに搭載されている](https://ja.wikipedia.org/wiki/Power_Macintosh "wikilink")。ATIは、グラフィックスチップの性能向上よりは、ドライバの安定性やTV出力への対応など機能面に注力しており、RAGEシリーズは[3dfx](https://ja.wikipedia.org/wiki/3dfx "wikilink")（後に[NVIDIA](https://ja.wikipedia.org/wiki/NVIDIA "wikilink")に買収される）の[Voodoo](https://ja.wikipedia.org/wiki/Voodoo "wikilink")シリーズや[NVIDIA](https://ja.wikipedia.org/wiki/NVIDIA "wikilink")の[RIVA 128にやや劣る程度の性能であった](https://ja.wikipedia.org/wiki/RIVA "wikilink")。RAGEシリーズではDVDの再生支援機能が他社が[動き補償(MC)までだったのに対して逆離散コサイン変換までサポートしているものも存在した](https://ja.wikipedia.org/wiki/フレーム間予測#動き補償 "wikilink")。 1998年に[128ビット](https://ja.wikipedia.org/wiki/128ビット "wikilink")のグラフィックスエンジンをもつ**RAGE 128**を発表した。しかしRAGE 128は他社製品との競争で苦戦し、RAGE 128チップを2ヶ搭載した**RAGE FURY MAXX**を投入するなどしたが、性能的不利を補うことは出来なかった。\[1\]
+ATIは、高い評価を得ていた2D用のチップ、[Machシリーズに](https://ja.wikipedia.org/wiki/ATI_Mach "wikilink")3Dアクセラレーション機能などを追加したビデオチップを開発、**3D RAGE**として発表した。当時は[マイクロソフト](../Page/マイクロソフト.md "wikilink")が[Windows 95を発売してコンピュータが普及し始めた時期にあたり](../Page/Microsoft_Windows_95.md "wikilink")、RAGEシリーズは多くのメーカーのコンピュータに搭載された。ATIは、性能を向上し[DirectX](https://ja.wikipedia.org/wiki/DirectX "wikilink")5に対応した**3D RAGE II**、[AGPに対応した](../Page/Accelerated_Graphics_Port.md "wikilink")**3D RAGE Pro**を開発、[PC/AT互換機](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink")以外にも[アップルコンピュータの](../Page/アップル_\(企業\).md "wikilink")[Power Macintoshなどに搭載されている](../Page/Power_Macintosh.md "wikilink")。ATIは、グラフィックスチップの性能向上よりは、ドライバの安定性やTV出力への対応など機能面に注力しており、RAGEシリーズは[3dfx](../Page/3dfx.md "wikilink")（後に[NVIDIA](../Page/NVIDIA.md "wikilink")に買収される）の[Voodoo](https://ja.wikipedia.org/wiki/Voodoo "wikilink")シリーズや[NVIDIA](../Page/NVIDIA.md "wikilink")の[RIVA 128にやや劣る程度の性能であった](https://ja.wikipedia.org/wiki/RIVA "wikilink")。RAGEシリーズではDVDの再生支援機能が他社が[動き補償(MC)までだったのに対して逆離散コサイン変換までサポートしているものも存在した](https://ja.wikipedia.org/wiki/フレーム間予測#動き補償 "wikilink")。 1998年に[128ビット](https://ja.wikipedia.org/wiki/128ビット "wikilink")のグラフィックスエンジンをもつ**RAGE 128**を発表した。しかしRAGE 128は他社製品との競争で苦戦し、RAGE 128チップを2ヶ搭載した**RAGE FURY MAXX**を投入するなどしたが、性能的不利を補うことは出来なかった。\[1\]
 
 2000年にATIは、[RADEON](https://ja.wikipedia.org/wiki/RADEON "wikilink")をRAGEの後継ブランドとして発表、RAGEシリーズの開発は終了した。
 
@@ -107,7 +107,7 @@ ATIは、高い評価を得ていた2D用のチップ、[Machシリーズに](ht
 
 ## 関連項目
 
-  - [ATI Technologies](https://ja.wikipedia.org/wiki/ATI_Technologies "wikilink")
+  - [ATI Technologies](../Page/ATI_Technologies.md "wikilink")
   - [RADEON](https://ja.wikipedia.org/wiki/RADEON "wikilink")
   - [ATI FirePro](https://ja.wikipedia.org/wiki/ATI_FirePro "wikilink")
 

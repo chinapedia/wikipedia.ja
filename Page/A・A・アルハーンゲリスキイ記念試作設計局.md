@@ -5,7 +5,7 @@
 
 ## 概要
 
-A・A・アルハーンゲリスキイは、それまで[ツポレフ](https://ja.wikipedia.org/wiki/ツポレフ "wikilink")設計局において航空機の設計作業に従事していた。彼はそこにおいてSBシリーズを開発し、大いなる成功を収めた。[1940年](../Page/1940年.md "wikilink")には独立して自身の設計局を開設し、いくつかのSBの発展型を設計した。その中でも、[急降下爆撃機](../Page/急降下爆撃機.md "wikilink")として設計された[Ar-2は優れた性能をもつ新型機としてテストパイロットから高い評価を得た](../Page/Ar-2_\(航空機\).md "wikilink")。しかしながら、政治的な理由によりこの機体は大量には生産されず、かわりに[ペトリャコフ設計局の](https://ja.wikipedia.org/wiki/V・M・ペトリャコーフ記念試作設計局 "wikilink")[Pe-2が](https://ja.wikipedia.org/wiki/Pe-2_\(航空機\) "wikilink")[赤軍](../Page/赤軍.md "wikilink")空軍の主力急降下爆撃機に採用された。アルハーンゲリスキイ設計局は結局もとのツポレフ設計局に吸収され、アルハーンゲリスキイは再びそこでの仕事に戻った。
+A・A・アルハーンゲリスキイは、それまで[ツポレフ](../Page/ツポレフ.md "wikilink")設計局において航空機の設計作業に従事していた。彼はそこにおいてSBシリーズを開発し、大いなる成功を収めた。[1940年](../Page/1940年.md "wikilink")には独立して自身の設計局を開設し、いくつかのSBの発展型を設計した。その中でも、[急降下爆撃機](../Page/急降下爆撃機.md "wikilink")として設計された[Ar-2は優れた性能をもつ新型機としてテストパイロットから高い評価を得た](../Page/Ar-2_\(航空機\).md "wikilink")。しかしながら、政治的な理由によりこの機体は大量には生産されず、かわりに[ペトリャコフ設計局の](../Page/V・M・ペトリャコーフ記念試作設計局.md "wikilink")[Pe-2が](https://ja.wikipedia.org/wiki/Pe-2_\(航空機\) "wikilink")[赤軍](../Page/赤軍.md "wikilink")空軍の主力急降下爆撃機に採用された。アルハーンゲリスキイ設計局は結局もとのツポレフ設計局に吸収され、アルハーンゲリスキイは再びそこでの仕事に戻った。
 
 ## 航空機
 
@@ -21,6 +21,6 @@ A・A・アルハーンゲリスキイは、それまで[ツポレフ](https://j
 ## 関連項目
 
   - [設計局](../Page/設計局.md "wikilink")
-  - [ツポレフ](https://ja.wikipedia.org/wiki/ツポレフ "wikilink")
+  - [ツポレフ](../Page/ツポレフ.md "wikilink")
 
 [Category:ソビエト連邦の航空機メーカー](https://ja.wikipedia.org/wiki/Category:ソビエト連邦の航空機メーカー "wikilink") [Category:ロシア・ソ連の防衛関連企業](https://ja.wikipedia.org/wiki/Category:ロシア・ソ連の防衛関連企業 "wikilink")

@@ -5,7 +5,7 @@
 
 ## 概要
 
-  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")放送開始。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[5月1日](../Page/5月1日.md "wikilink")よりハイビジョン放送開始。
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")放送開始。[2006年](../Page/2006年.md "wikilink")[5月1日](../Page/5月1日.md "wikilink")よりハイビジョン放送開始。
   - 平日は[1999年](../Page/1999年.md "wikilink")4月～2013年3月は[福井テレビスーパーニュースワイド おかえりなさ〜いの第](../Page/おかえりなさ〜い.md "wikilink")2部と位置づけられており、さらに[FNNスーパーニュース](../Page/FNNスーパーニュース.md "wikilink")（全国ニュース）とこの番組の本編の2部構成であるため「[コンプレックスのコンプレックス](../Page/コンプレックス_\(番組形式\).md "wikilink")」となっていた。
   - キー局・[フジテレビが](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[（FNN）みんなのニュース](https://ja.wikipedia.org/wiki/みんなのニュース "wikilink")』をスタートさせることに伴い、2015年3月27日に番組終了。
 
@@ -99,7 +99,7 @@
   - 東京INDEX　東京での福井の話題を特集する。毎週木曜日
   - お天気ノート　お天気の謎に迫るコーナー。同じく毎週木曜日
   - 刻（とき）の風　[福井新聞](../Page/福井新聞.md "wikilink")の編集者等がスタジオで紙面を紹介する。毎週金曜日\[2\]
-  - 天気予報　[地上デジタル放送](https://ja.wikipedia.org/wiki/地上デジタル放送 "wikilink")開始とともに機器が更新されて、バーチャル天気予報が登場した。これは県内各地の名所に天気の予想を重ねるものである。予報地点は[福井市](../Page/福井市.md "wikilink")（[福井城](https://ja.wikipedia.org/wiki/福井城 "wikilink")址）、[坂井市](https://ja.wikipedia.org/wiki/坂井市 "wikilink")<span style="font-size:0.69em;">三国</span>（[東尋坊](../Page/東尋坊.md "wikilink")）、[大野市](https://ja.wikipedia.org/wiki/大野市 "wikilink")（[大野城](https://ja.wikipedia.org/wiki/大野城_\(越前国\) "wikilink")）、[越前市](https://ja.wikipedia.org/wiki/越前市 "wikilink")<span style="font-size:0.69em;">武生</span>（[紫式部](../Page/紫式部.md "wikilink")公園）、[敦賀市](https://ja.wikipedia.org/wiki/敦賀市 "wikilink")（[気比の松原](https://ja.wikipedia.org/wiki/気比の松原 "wikilink")）、[小浜市](https://ja.wikipedia.org/wiki/小浜市 "wikilink")（マーメイドテラス）であり、初日は全部放送されて、その後は基本的にこの中から2地点を抽出して放送していたが、現在は放送していない。
+  - 天気予報　[地上デジタル放送](https://ja.wikipedia.org/wiki/地上デジタル放送 "wikilink")開始とともに機器が更新されて、バーチャル天気予報が登場した。これは県内各地の名所に天気の予想を重ねるものである。予報地点は[福井市](../Page/福井市.md "wikilink")（[福井城](../Page/福井城.md "wikilink")址）、[坂井市](../Page/坂井市.md "wikilink")<span style="font-size:0.69em;">三国</span>（[東尋坊](../Page/東尋坊.md "wikilink")）、[大野市](../Page/大野市.md "wikilink")（[大野城](../Page/大野城_\(越前国\).md "wikilink")）、[越前市](../Page/越前市.md "wikilink")<span style="font-size:0.69em;">武生</span>（[紫式部](../Page/紫式部.md "wikilink")公園）、[敦賀市](../Page/敦賀市.md "wikilink")（[気比の松原](https://ja.wikipedia.org/wiki/気比の松原 "wikilink")）、[小浜市](https://ja.wikipedia.org/wiki/小浜市 "wikilink")（マーメイドテラス）であり、初日は全部放送されて、その後は基本的にこの中から2地点を抽出して放送していたが、現在は放送していない。
 
 ## 脚注
 

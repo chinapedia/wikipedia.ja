@@ -1,7 +1,7 @@
 > この記事は[THE LIVE BLACK MASS B.D.3 ](https://ja.wikipedia.org/wiki/THE_LIVE_BLACK_MASS_B.D.3_)から翻訳されています。
 
 
-『**THE LIVE BLACK MASS B.D.3 メフィストフェレスの陰謀**』（ザ ライブ ブラック マス ビーディースリー メフィストフェレスのいんぼう）は、[聖飢魔II](../Page/聖飢魔II.md "wikilink")の第二十一教典で[D.C.](../Page/魔暦.md "wikilink")7年（西暦[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")）[7月6日](../Page/7月6日.md "wikilink")に発布されたミサ教典（ライブ盤）。
+『**THE LIVE BLACK MASS B.D.3 メフィストフェレスの陰謀**』（ザ ライブ ブラック マス ビーディースリー メフィストフェレスのいんぼう）は、[聖飢魔II](../Page/聖飢魔II.md "wikilink")の第二十一教典で[D.C.](../Page/魔暦.md "wikilink")7年（西暦[2005年](../Page/2005年.md "wikilink")）[7月6日](../Page/7月6日.md "wikilink")に発布されたミサ教典（ライブ盤）。
 
 ## 概要
 
@@ -28,7 +28,7 @@
 10. **[GREAT DEVOTION](../Page/メフィストフェレスの肖像.md "wikilink")**（作詞・作曲: Sgt. ルーク篁III世 / 編曲: 怪人マツザキ様）
 11. **[地獄の皇太子](../Page/聖飢魔II〜悪魔が来たりてヘヴィメタる.md "wikilink")**（作詞・作曲: デーモン小暮 / 編曲: 聖飢魔II）
 12. **[HOLY BLOOD "闘いの血統"](../Page/メフィストフェレスの肖像.md "wikilink")**（作詞・作曲: Sgt. ルーク篁III世 / 編曲: 怪人マツザキ様）
-13. **[WINNER\!](../Page/WINNER!.md "wikilink")**（作詞: デーモン小暮, ぬらりひょん吉 / 作曲: ルーク篁 / 編曲: 聖飢魔II, [土橋安騎夫](https://ja.wikipedia.org/wiki/土橋安騎夫 "wikilink")）
+13. **[WINNER\!](../Page/WINNER!.md "wikilink")**（作詞: デーモン小暮, ぬらりひょん吉 / 作曲: ルーク篁 / 編曲: 聖飢魔II, [土橋安騎夫](../Page/土橋安騎夫.md "wikilink")）
 14. **[FIRE AFTER FIRE](../Page/THE_END_OF_THE_CENTURY.md "wikilink")**（作詞: デーモン小暮 / 作曲: [ジェイル大橋](../Page/大橋隆志.md "wikilink") / 編曲: 聖飢魔II）
 
 ## 関連活動絵巻教典（ビデオ）
@@ -40,7 +40,7 @@
   - [DEMON KOGURE](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink") - [VOCALS](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
   - [ACE SHIMIZU](../Page/ACE_\(ミュージシャン\).md "wikilink") - [GUITARS](../Page/ギター.md "wikilink"), [CHORUS](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
   - [Sgt. LUKE TAKAMURA III](https://ja.wikipedia.org/wiki/LUKE_TAKAMURA "wikilink") - GUITARS, CHORUS
-  - [XENON ISHIKAWA](../Page/石川俊介.md "wikilink") - [BASS](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - [XENON ISHIKAWA](../Page/石川俊介.md "wikilink") - [BASS](../Page/ベース_\(弦楽器\).md "wikilink")
   - [RAIDEN YUZAWA](../Page/雷電湯澤.md "wikilink") - [DRUMS](https://ja.wikipedia.org/wiki/ドラムス "wikilink")
   - [KAIJIN MATSUZAKI SAMA](../Page/松崎雄一.md "wikilink") - [KEYBOARDS](../Page/キーボード_\(楽器\).md "wikilink")
 

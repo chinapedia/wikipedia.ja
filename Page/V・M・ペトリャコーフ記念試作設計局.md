@@ -5,7 +5,7 @@
 
 ## 概要
 
-ペトリャコーフ設計局は、[ヴラジーミル・ミハーイロヴィチ・ペトリャコーフによって開設された](https://ja.wikipedia.org/wiki/ヴラジーミル・ペトリャコーフ "wikilink")。その主要生産機となった[Pe-2は](https://ja.wikipedia.org/wiki/Pe-2_\(航空機\) "wikilink")、事故率がたいへん高かったものの優れた速度性能を示したことから[赤軍](../Page/赤軍.md "wikilink")空軍の主力[急降下爆撃機](../Page/急降下爆撃機.md "wikilink")として採用された。しかし、[1942年](../Page/1942年.md "wikilink")にペトリャコーフは搭乗していたPe-2の墜落事故で死亡した。その後、設計局は彼のもとで働いていた設計陣により継続されたが、[1946年](../Page/1946年.md "wikilink")に[ヴラジーミル・ミハーイロヴィチ・ミャスィーシチェフが代表となる](https://ja.wikipedia.org/wiki/ヴラジーミル・ミャスィーシチェフ "wikilink")[ミャスィーシチェフ設計局に改称された](https://ja.wikipedia.org/wiki/V・M・ミャスィーシチェフ記念試作機械製造工場 "wikilink")。
+ペトリャコーフ設計局は、[ヴラジーミル・ミハーイロヴィチ・ペトリャコーフによって開設された](https://ja.wikipedia.org/wiki/ヴラジーミル・ペトリャコーフ "wikilink")。その主要生産機となった[Pe-2は](https://ja.wikipedia.org/wiki/Pe-2_\(航空機\) "wikilink")、事故率がたいへん高かったものの優れた速度性能を示したことから[赤軍](../Page/赤軍.md "wikilink")空軍の主力[急降下爆撃機](../Page/急降下爆撃機.md "wikilink")として採用された。しかし、[1942年](../Page/1942年.md "wikilink")にペトリャコーフは搭乗していたPe-2の墜落事故で死亡した。その後、設計局は彼のもとで働いていた設計陣により継続されたが、[1946年](../Page/1946年.md "wikilink")に[ヴラジーミル・ミハーイロヴィチ・ミャスィーシチェフが代表となる](https://ja.wikipedia.org/wiki/ヴラジーミル・ミャスィーシチェフ "wikilink")[ミャスィーシチェフ設計局に改称された](../Page/V・M・ミャスィーシチェフ記念試作機械製造工場.md "wikilink")。
 
 ## 航空機
 
@@ -17,7 +17,7 @@
   - [Pe-2I](https://ja.wikipedia.org/wiki/Pe-2_\(航空機\) "wikilink") - 重戦闘機
   - [Pe-2 M-82](https://ja.wikipedia.org/wiki/Pe-2_\(航空機\) "wikilink") - 急降下爆撃機
   - [Pe-2R](https://ja.wikipedia.org/wiki/Pe-2_\(航空機\) "wikilink") - 前線[偵察機](../Page/偵察機.md "wikilink")
-  - [Pe-2UT](https://ja.wikipedia.org/wiki/Pe-2_\(航空機\) "wikilink") - [教育訓練機](https://ja.wikipedia.org/wiki/練習機 "wikilink")
+  - [Pe-2UT](https://ja.wikipedia.org/wiki/Pe-2_\(航空機\) "wikilink") - [教育訓練機](../Page/練習機.md "wikilink")
   - [Pe-2F](https://ja.wikipedia.org/wiki/Pe-2_\(航空機\) "wikilink") - 急降下爆撃機
   - [Pe-2F3](https://ja.wikipedia.org/wiki/Pe-2_\(航空機\) "wikilink") - 急降下爆撃機
   - [Pe-3](https://ja.wikipedia.org/wiki/Pe-3_\(航空機\) "wikilink") - 重戦闘機
@@ -30,9 +30,9 @@
 ## 関連項目
 
   - [設計局](../Page/設計局.md "wikilink")
-  - [V・M・ミャスィーシチェフ記念試作機械製造工場](https://ja.wikipedia.org/wiki/V・M・ミャスィーシチェフ記念試作機械製造工場 "wikilink")
+  - [V・M・ミャスィーシチェフ記念試作機械製造工場](../Page/V・M・ミャスィーシチェフ記念試作機械製造工場.md "wikilink")
   - [A・A・アルハーンゲリスキイ記念試作設計局](../Page/A・A・アルハーンゲリスキイ記念試作設計局.md "wikilink")
   - [V・G・エルモラーエフ記念試作設計局](../Page/V・G・エルモラーエフ記念試作設計局.md "wikilink")
-  - [ツポレフ](https://ja.wikipedia.org/wiki/ツポレフ "wikilink")
+  - [ツポレフ](../Page/ツポレフ.md "wikilink")
 
 [Category:ソビエト連邦の航空機メーカー](https://ja.wikipedia.org/wiki/Category:ソビエト連邦の航空機メーカー "wikilink") [Category:ロシア・ソ連の防衛関連企業](https://ja.wikipedia.org/wiki/Category:ロシア・ソ連の防衛関連企業 "wikilink")

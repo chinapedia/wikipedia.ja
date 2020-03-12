@@ -9,17 +9,17 @@
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")：「Ex-iT」を解散する。後に「[Lapis Lazuli](https://ja.wikipedia.org/wiki/Lapis_Lazuli_\(バンド\) "wikilink")」を結成して、GAUSSより再メジャーデビューを果たす。
   - [2003年](../Page/2003年.md "wikilink")：シングル「LONG WAY」で、ソロデビューを果たす。
   - [2004年](../Page/2004年.md "wikilink")：六本木Y2Kのワンマンライブを最後に「[Lapis Lazuli](https://ja.wikipedia.org/wiki/Lapis_Lazuli_\(バンド\) "wikilink")」が活動を休止する。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")：「[Cube-ray](https://ja.wikipedia.org/wiki/Cube-ray "wikilink")」のベース・ボーカルとして活動する。サポートやセッションを中心にソロでも活動する。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")：「Cube-ray」が活動休止。その後「[BULL ZEICHEN 88](../Page/BULL_ZEICHEN_88.md "wikilink")」を結成して、現在も活動中である。
+  - [2005年](../Page/2005年.md "wikilink")：「[Cube-ray](https://ja.wikipedia.org/wiki/Cube-ray "wikilink")」のベース・ボーカルとして活動する。サポートやセッションを中心にソロでも活動する。
+  - [2006年](../Page/2006年.md "wikilink")：「Cube-ray」が活動休止。その後「[BULL ZEICHEN 88](../Page/BULL_ZEICHEN_88.md "wikilink")」を結成して、現在も活動中である。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")：「[Rayflower](https://ja.wikipedia.org/wiki/Rayflower "wikilink")」に参加。
-  - [2012年](../Page/2012年.md "wikilink")：[鳴瀬喜博](https://ja.wikipedia.org/wiki/鳴瀬喜博 "wikilink") （[カシオペア](../Page/カシオペア_\(バンド\).md "wikilink")、[野獣王国](https://ja.wikipedia.org/wiki/野獣王国 "wikilink")）と[村田隆行](https://ja.wikipedia.org/wiki/村田隆行 "wikilink")との3人でトリプルベースのユニット「[ザ・チョッパーズ・レボリューション](https://ja.wikipedia.org/wiki/ザ・チョッパーズ・レボリューション "wikilink")」を結成。
+  - [2012年](../Page/2012年.md "wikilink")：[鳴瀬喜博](../Page/鳴瀬喜博.md "wikilink") （[カシオペア](../Page/カシオペア_\(バンド\).md "wikilink")、[野獣王国](https://ja.wikipedia.org/wiki/野獣王国 "wikilink")）と[村田隆行](https://ja.wikipedia.org/wiki/村田隆行 "wikilink")との3人でトリプルベースのユニット「[ザ・チョッパーズ・レボリューション](https://ja.wikipedia.org/wiki/ザ・チョッパーズ・レボリューション "wikilink")」を結成。
 
 ## 使用機材
 
 **ベース**\[1\]
 
-  - [ESP](https://ja.wikipedia.org/wiki/イーエスピー "wikilink") GDS -190 Custom-
-  - [EDWARDS](https://ja.wikipedia.org/wiki/イーエスピー "wikilink") AVT -190 Custom-
+  - [ESP](../Page/イーエスピー.md "wikilink") GDS -190 Custom-
+  - [EDWARDS](../Page/イーエスピー.md "wikilink") AVT -190 Custom-
   - ESP CHB -190 Custom- [Gacharic Spin](https://ja.wikipedia.org/wiki/Gacharic_Spin "wikilink")
       -
         BROKEN LOVER （作曲）
@@ -39,7 +39,7 @@
   - ESP LONG WAY -190 2TS-
   - ESP LONG WAY -190 All White-
   - ESP LONG WAY -190 Red- No.2
-  - [grmini](https://ja.wikipedia.org/wiki/イーエスピー "wikilink") LONG WAY -190 mini-
+  - [grmini](../Page/イーエスピー.md "wikilink") LONG WAY -190 mini-
   - ESP LONG WAY II -190 Red Camo-
   - ESP LONG WAY III -190 Red-
 
@@ -69,7 +69,7 @@
 1.  EGO〜eyes glazing over （歌/ ICHIDAI）
 2.  DELTA STRIP 〜White Ring〜
       - 『[仮面ライダー555](../Page/仮面ライダー555.md "wikilink")』イメージソング
-      - 作詞：[藤林聖子](https://ja.wikipedia.org/wiki/藤林聖子 "wikilink")、作曲・編曲：吉田勝弥
+      - 作詞：[藤林聖子](../Page/藤林聖子.md "wikilink")、作曲・編曲：吉田勝弥
 3.  EGO～eyes glazing over （オリジナル・カラオケ）
 4.  DELTA STRIP 〜White Ring〜 （オリジナル・カラオケ）
 
@@ -81,7 +81,7 @@
 
 1.  Believer
       - テレビアニメ『[デジモンセイバーズ](../Page/デジモンセイバーズ.md "wikilink")』挿入歌
-      - 作詞：[山田ひろし](https://ja.wikipedia.org/wiki/山田ひろし "wikilink")、作曲・編曲：[太田美知彦](../Page/太田美知彦.md "wikilink")
+      - 作詞：[山田ひろし](../Page/山田ひろし.md "wikilink")、作曲・編曲：[太田美知彦](../Page/太田美知彦.md "wikilink")
 2.  Believer （オリジナル・カラオケ）
 
 ### アルバム
@@ -105,14 +105,14 @@
 
 ### 書籍
 
-  - 『Technical Rock Groove』-2014年4月23日発売 （[リットーミュージック](https://ja.wikipedia.org/wiki/リットーミュージック "wikilink")）
+  - 『Technical Rock Groove』-2014年4月23日発売 （[リットーミュージック](../Page/リットーミュージック.md "wikilink")）
 
 ## 楽曲提供
 
-  - 白石蔵ノ介 （[細谷佳正](https://ja.wikipedia.org/wiki/細谷佳正 "wikilink")）
+  - 白石蔵ノ介 （[細谷佳正](../Page/細谷佳正.md "wikilink")）
       -
         CLASH\!\! テレビアニメ『 [テニスの王子様](../Page/テニスの王子様.md "wikilink")』イメージソング （作曲）
-  - [皆川純子](https://ja.wikipedia.org/wiki/皆川純子 "wikilink")
+  - [皆川純子](../Page/皆川純子.md "wikilink")
       -
         De Ja Vu （作曲）
   - [和田光司](../Page/和田光司.md "wikilink")
@@ -124,7 +124,7 @@
   - [Gacharic Spin](https://ja.wikipedia.org/wiki/Gacharic_Spin "wikilink")
       -
         BROKEN LOVER （作曲）
-  - [JAM Project](https://ja.wikipedia.org/wiki/JAM_Project "wikilink")
+  - [JAM Project](../Page/JAM_Project.md "wikilink")
       -
         Crest of“Z's” PS2ゲーム『[スーパーロボット大戦Z](https://ja.wikipedia.org/wiki/スーパーロボット大戦Z "wikilink")』OP主題歌 （編曲）
         MAXIMIZER （編曲）
@@ -147,23 +147,23 @@
   - Deeper Gate Heaven
   - 高橋勲
   - TECHNICAL UNIT
-  - [JAM Project](https://ja.wikipedia.org/wiki/JAM_Project "wikilink")
+  - [JAM Project](../Page/JAM_Project.md "wikilink")
   - [HIRO-X](../Page/HIRO-X.md "wikilink")
   - 山口真文GROUP
   - [奥井雅美](../Page/奥井雅美.md "wikilink")
-  - [DAIGO](https://ja.wikipedia.org/wiki/DAIGO "wikilink")☆STARDUST
-  - [angela](https://ja.wikipedia.org/wiki/Angela_\(音楽ユニット\) "wikilink")
+  - [DAIGO](../Page/DAIGO.md "wikilink")☆STARDUST
+  - [angela](../Page/Angela_\(音楽ユニット\).md "wikilink")
   - [萩野崇](../Page/萩野崇.md "wikilink")
   - [Kimeru](../Page/Kimeru.md "wikilink")
-  - [皆川純子](https://ja.wikipedia.org/wiki/皆川純子 "wikilink")
+  - [皆川純子](../Page/皆川純子.md "wikilink")
   - [T.M.Revolution](../Page/T.M.Revolution.md "wikilink")
   - [abingdon boys school](https://ja.wikipedia.org/wiki/abingdon_boys_school "wikilink")
   - [Acid Black Cherry](../Page/Acid_Black_Cherry.md "wikilink")
   - [BREAKERZ](https://ja.wikipedia.org/wiki/BREAKERZ "wikilink")
   - [Gackt](https://ja.wikipedia.org/wiki/Gackt "wikilink")
   - [ゴールデンボンバー](https://ja.wikipedia.org/wiki/ゴールデンボンバー_\(バンド\) "wikilink")
-  - [西村麻聡](https://ja.wikipedia.org/wiki/西村麻聡 "wikilink")
-  - [喜多村英梨](https://ja.wikipedia.org/wiki/喜多村英梨 "wikilink")
+  - [西村麻聡](../Page/西村麻聡.md "wikilink")
+  - [喜多村英梨](../Page/喜多村英梨.md "wikilink")
   - [BABYMETAL](https://ja.wikipedia.org/wiki/BABYMETAL "wikilink")
   - [VANISHING STARLIGHT](https://ja.wikipedia.org/wiki/VANISHING_STARLIGHT "wikilink")
   - [ももいろクローバーZ](https://ja.wikipedia.org/wiki/ももいろクローバーZ "wikilink")
@@ -182,7 +182,7 @@
   - [柴崎浩](../Page/柴崎浩.md "wikilink")
   - 大橋イサム
   - 是永巧一
-  - [長谷川浩二](https://ja.wikipedia.org/wiki/長谷川浩二 "wikilink")
+  - [長谷川浩二](../Page/長谷川浩二.md "wikilink")
   - 田中栄二
   - 河野啓三
   - 山口鷹

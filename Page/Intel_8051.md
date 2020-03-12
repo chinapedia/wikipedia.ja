@@ -3,13 +3,13 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:KL_Intel_P8051.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:SystèmeMicroproc.png "wikilink")
 
-**Intel 8051** は[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")、[組み込みシステム](../Page/組み込みシステム.md "wikilink")用に[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")が開発した[ハーバード・アーキテクチャ](https://ja.wikipedia.org/wiki/ハーバード・アーキテクチャ "wikilink")をもつワンチップ[マイクロコントローラ](https://ja.wikipedia.org/wiki/マイクロコントローラ "wikilink")である。1980年代から1990年代初頭まで極めて広範に用いられたが、2006年現在では様々な機能拡張を施された8051互換のプロセッサコアが20以上の製造業者から出荷されている。例えば[Atmel](https://ja.wikipedia.org/wiki/:en:Atmel "wikilink")、[Maxim IC](https://ja.wikipedia.org/wiki/マキシム・インテグレーテッド "wikilink")、[NXP](https://ja.wikipedia.org/wiki/NXPセミコンダクターズ "wikilink")、[Winbond](https://ja.wikipedia.org/wiki/Winbond "wikilink")、[Silicon Laboratoriesである](https://ja.wikipedia.org/wiki/Silicon_Laboratories "wikilink")。「8051」は型番であり、このファミリーのマイクロコントローラの名称は**MCS 51**である。
+**Intel 8051** は[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")、[組み込みシステム](../Page/組み込みシステム.md "wikilink")用に[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")が開発した[ハーバード・アーキテクチャ](../Page/ハーバード・アーキテクチャ.md "wikilink")をもつワンチップ[マイクロコントローラ](../Page/マイクロコントローラ.md "wikilink")である。1980年代から1990年代初頭まで極めて広範に用いられたが、2006年現在では様々な機能拡張を施された8051互換のプロセッサコアが20以上の製造業者から出荷されている。例えば[Atmel](https://ja.wikipedia.org/wiki/:en:Atmel "wikilink")、[Maxim IC](https://ja.wikipedia.org/wiki/マキシム・インテグレーテッド "wikilink")、[NXP](https://ja.wikipedia.org/wiki/NXPセミコンダクターズ "wikilink")、[Winbond](https://ja.wikipedia.org/wiki/Winbond "wikilink")、[Silicon Laboratoriesである](https://ja.wikipedia.org/wiki/Silicon_Laboratories "wikilink")。「8051」は型番であり、このファミリーのマイクロコントローラの名称は**MCS 51**である。
 
 オリジナルの8051ファミリーは[NMOS](https://ja.wikipedia.org/wiki/NMOS "wikilink")テクノロジーで製造されたが、後には[CMOS](../Page/CMOS.md "wikilink")化され、80C51のように型名にCがついた。CMOS化にともない、消費電力が減り、電池で動く製品に採用しやすくなった。
 
 ## 主な特徴
 
-  - 中央処理装置 ([CPU](../Page/CPU.md "wikilink"))、[RAM](../Page/Random_Access_Memory.md "wikilink")、[ROM](https://ja.wikipedia.org/wiki/Read_Only_Memory "wikilink")、 [シリアルポート](../Page/シリアルポート.md "wikilink")、[パラレルポート](https://ja.wikipedia.org/wiki/パラレルポート "wikilink")、[割込用論理回路](../Page/割り込み_\(コンピュータ\).md "wikilink")、[タイマ](https://ja.wikipedia.org/wiki/タイマ "wikilink")その他を内蔵している。
+  - 中央処理装置 ([CPU](../Page/CPU.md "wikilink"))、[RAM](../Page/Random_Access_Memory.md "wikilink")、[ROM](https://ja.wikipedia.org/wiki/Read_Only_Memory "wikilink")、 [シリアルポート](../Page/シリアルポート.md "wikilink")、[パラレルポート](../Page/パラレルポート.md "wikilink")、[割込用論理回路](../Page/割り込み_\(コンピュータ\).md "wikilink")、[タイマ](https://ja.wikipedia.org/wiki/タイマ "wikilink")その他を内蔵している。
   - [データバス](https://ja.wikipedia.org/wiki/データバス "wikilink") - 8ビット幅である。一回の操作で8ビットデータをアクセスすることができる。故に8bit[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")と呼ばれる。
   - [アドレスバス](https://ja.wikipedia.org/wiki/アドレスバス "wikilink") - 16ビット幅である。2<sup>16</sup>番地、即ち64KBのメモリ空間をRAM、ROM独立にアクセス可能である。
   - 内蔵RAM - 128バイト（データ用）。
@@ -28,11 +28,11 @@
 
 現在では130MHzから150MHzのシングルサイクル8051コアが[FPGA](../Page/FPGA.md "wikilink")などの[プログラマブルロジックデバイス](../Page/プログラマブルロジックデバイス.md "wikilink")用に存在し、インターネットから得られる。[ASIC](../Page/ASIC.md "wikilink")向けには数百MHzに及ぶものがある。例えば[e8051.comの](https://ja.wikipedia.org/wiki/#外部リンク "wikilink")[netlist](https://ja.wikipedia.org/wiki/netlist "wikilink")である。
 
-現代の8051ベースのマイクロコントローラは、低電圧（ブラウンアウト）検出機能付きタイマ、オンチップ発振器、自己プログラム可能な[フラッシュROMプログラムメモリ](../Page/フラッシュメモリ.md "wikilink")、ROM内のブートローダーコード、EEPROMによる不揮発性データ記憶領域、[I2C](https://ja.wikipedia.org/wiki/I2C "wikilink")、 [SPI](../Page/シリアル・ペリフェラル・インタフェース.md "wikilink")、[USBホストインタフェース](../Page/ユニバーサル・シリアル・バス.md "wikilink")、[PWM](https://ja.wikipedia.org/wiki/PWM "wikilink")信号発生器、AD/DA変換器、リアルタイムクロック、さらに多くのカウンタとタイマ、イン-サーキットのデバグ機能、より拡張された割込ソース、さらに強力な節電モードなどの特徴を含むことも一般的である。
+現代の8051ベースのマイクロコントローラは、低電圧（ブラウンアウト）検出機能付きタイマ、オンチップ発振器、自己プログラム可能な[フラッシュROMプログラムメモリ](../Page/フラッシュメモリ.md "wikilink")、ROM内のブートローダーコード、EEPROMによる不揮発性データ記憶領域、[I2C](../Page/I2C.md "wikilink")、 [SPI](../Page/シリアル・ペリフェラル・インタフェース.md "wikilink")、[USBホストインタフェース](../Page/ユニバーサル・シリアル・バス.md "wikilink")、[PWM](https://ja.wikipedia.org/wiki/PWM "wikilink")信号発生器、AD/DA変換器、リアルタイムクロック、さらに多くのカウンタとタイマ、イン-サーキットのデバグ機能、より拡張された割込ソース、さらに強力な節電モードなどの特徴を含むことも一般的である。
 
 [Cコンパイラの中には](../Page/C言語.md "wikilink")8051向きのものがある。プログラマは変数を8051が扱うことのできる6種類のメモリのどこに置くか指定することができ、8051特有のハードウェア的特徴（複数のレジスタバンク、ビット操作命令など）を活かすことができる。他の高級言語では[FORTH](../Page/Forth.md "wikilink")、[BASIC](../Page/BASIC.md "wikilink")、[Pascal](../Page/Pascal.md "wikilink")、[PL/M](https://ja.wikipedia.org/wiki/PL/M "wikilink")、[Modula-2](https://ja.wikipedia.org/wiki/Modula-2 "wikilink")が利用可能であるが、Cまたは[アセンブラ](https://ja.wikipedia.org/wiki/アセンブラ "wikilink")を用いることが多い。
 
-8051の祖先である[8048は初代](../Page/Intel_8048.md "wikilink")[IBM PCのキーボードに用いられ](https://ja.wikipedia.org/wiki/IBM_PC "wikilink")、キー操作をシリアルデータ列に変換し、計算機に送信した。8048ファミリーは2006年現在でもベーシックグレードのキーボードに用いられている。
+8051の祖先である[8048は初代](../Page/Intel_8048.md "wikilink")[IBM PCのキーボードに用いられ](../Page/IBM_PC.md "wikilink")、キー操作をシリアルデータ列に変換し、計算機に送信した。8048ファミリーは2006年現在でもベーシックグレードのキーボードに用いられている。
 
 **8031**は8051のコストカット版で、内蔵プログラムROMを持たない。
 

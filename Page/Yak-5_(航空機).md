@@ -5,11 +5,11 @@
 
 ## 概要
 
-試作[戦闘機](../Page/戦闘機.md "wikilink")**I-28**(****<small>イー・ドヴァーッツァチ・ヴォースィミ</small>)は、[Yak-1の試作機I](../Page/Yak-1_\(航空機\).md "wikilink")-26-2から開発された。搭載[エンジン](../Page/エンジン.md "wikilink")は、出力を増した新型の[液冷式](https://ja.wikipedia.org/wiki/水冷エンジン "wikilink")[V型12気筒](https://ja.wikipedia.org/wiki/V型12気筒 "wikilink")エンジン[M-105PD](https://ja.wikipedia.org/wiki/クリーモフ_M-105 "wikilink")()に変更された。1940年[7月10日](../Page/7月10日.md "wikilink")から[10月29日](../Page/10月29日.md "wikilink")まで設計および組立作業が行われ、またの名を**「Yak-5 1940年規格」**(****<small>ヤーク・ピャーチ・オブラスツァー・トィースャチ・ヂヴィチソート・ソーラク・ゴーダ</small>)と呼ばれた。I-28はYak-5の制式名称を授かるまで、工場及びいくつかの書類上でさまざまな名称が使用されていた。すなわち、**「航空機 I28」**(****<small>サマリョート・ノーミェル・ドヴァーッツァチ・ヴォースィェミ</small>)、**I-28-N**(****<small>イー・ドヴァーッツァチ・ヴォースィェミ・エーヌ</small>)、**I-28-V**(****<small>イー・ドヴァーッツァチ・ヴォースィェミ・ヴェー</small>)、**I-26V**(****<small>イー・ドヴァーッツァチ・シェースチ・ヴェー</small>)などである。なお、「V」(<small>ヴェー</small>)はロシア語で「高い」を意味する[形容詞](../Page/形容詞.md "wikilink")「<small>ヴィソートヌィイ</small>」の頭文字である。
+試作[戦闘機](../Page/戦闘機.md "wikilink")**I-28**(****<small>イー・ドヴァーッツァチ・ヴォースィミ</small>)は、[Yak-1の試作機I](../Page/Yak-1_\(航空機\).md "wikilink")-26-2から開発された。搭載[エンジン](../Page/エンジン.md "wikilink")は、出力を増した新型の[液冷式](../Page/水冷エンジン.md "wikilink")[V型12気筒](../Page/V型12気筒.md "wikilink")エンジン[M-105PD](https://ja.wikipedia.org/wiki/クリーモフ_M-105 "wikilink")()に変更された。1940年[7月10日](../Page/7月10日.md "wikilink")から[10月29日](../Page/10月29日.md "wikilink")まで設計および組立作業が行われ、またの名を**「Yak-5 1940年規格」**(****<small>ヤーク・ピャーチ・オブラスツァー・トィースャチ・ヂヴィチソート・ソーラク・ゴーダ</small>)と呼ばれた。I-28はYak-5の制式名称を授かるまで、工場及びいくつかの書類上でさまざまな名称が使用されていた。すなわち、**「航空機 I28」**(****<small>サマリョート・ノーミェル・ドヴァーッツァチ・ヴォースィェミ</small>)、**I-28-N**(****<small>イー・ドヴァーッツァチ・ヴォースィェミ・エーヌ</small>)、**I-28-V**(****<small>イー・ドヴァーッツァチ・ヴォースィェミ・ヴェー</small>)、**I-26V**(****<small>イー・ドヴァーッツァチ・シェースチ・ヴェー</small>)などである。なお、「V」(<small>ヴェー</small>)はロシア語で「高い」を意味する[形容詞](../Page/形容詞.md "wikilink")「<small>ヴィソートヌィイ</small>」の頭文字である。
 
 I-28は、本国の防空体系に組み込まれる高高度迎撃戦闘機として設計されていた。I-28は従来の混合構造の胴体を全金属製に改め、機首にはE-100(<small>エー・ストー</small>)[スーパーチャージャー](../Page/スーパーチャージャー.md "wikilink")付きのM-105PD試作エンジンを搭載していた。このエンジンは[1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")の2月から3月にかけて試験が行われ、Yak-1に搭載されたM-105Pより優れた性能を示した。E-100は2段階の[過給器](https://ja.wikipedia.org/wiki/過給器 "wikilink")であったが、当時のソ連の技術ではこの種の機械を完成させることは難しく、Yak-5の量産化の足を引っ張ることとなった。
 
-Yak-1の試作機であるI-26やI-26-2、[Yak-7の試作機であるUTI](https://ja.wikipedia.org/wiki/Yak-7_\(航空機\) "wikilink")-26などとの比較試験が行われた結果、I-28の量産化は見送られた。その後も試験は[1942年](../Page/1942年.md "wikilink")末まで続けられたが、姉妹機同様の機体自体の不良に加えエンジンが未完成であったことが災いし、結局Yak-5が日の目を見ることはなかった。研究成果は、Yak-7や[Yak-9の開発に生かされたが](https://ja.wikipedia.org/wiki/Yak-9_\(航空機\) "wikilink")、Yak-9PDなど同様の装備を持った高高度戦闘機は、いずれも実用化には到らなかった。
+Yak-1の試作機であるI-26やI-26-2、[Yak-7の試作機であるUTI](../Page/Yak-7_\(航空機\).md "wikilink")-26などとの比較試験が行われた結果、I-28の量産化は見送られた。その後も試験は[1942年](../Page/1942年.md "wikilink")末まで続けられたが、姉妹機同様の機体自体の不良に加えエンジンが未完成であったことが災いし、結局Yak-5が日の目を見ることはなかった。研究成果は、Yak-7や[Yak-9の開発に生かされたが](https://ja.wikipedia.org/wiki/Yak-9_\(航空機\) "wikilink")、Yak-9PDなど同様の装備を持った高高度戦闘機は、いずれも実用化には到らなかった。
 
 ## スペック
 
@@ -28,7 +28,7 @@ Yak-1の試作機であるI-26やI-26-2、[Yak-7の試作機であるUTI](https:
   - 上昇力：962 m/min
   - 実用飛行上限高度：12000 m
   - 乗員：1 名
-  - 武装：20 mm[機関砲](https://ja.wikipedia.org/wiki/機関砲 "wikilink")[ShVAK](https://ja.wikipedia.org/wiki/ShVAK_\(機関砲\) "wikilink")() ×1(弾数120発)、7.62 mm[機銃](../Page/機関銃.md "wikilink")[ShKAS](https://ja.wikipedia.org/wiki/ShKAS_\(機関砲\) "wikilink")() ×4(弾数1500発)
+  - 武装：20 mm[機関砲](../Page/機関砲.md "wikilink")[ShVAK](https://ja.wikipedia.org/wiki/ShVAK_\(機関砲\) "wikilink")() ×1(弾数120発)、7.62 mm[機銃](../Page/機関銃.md "wikilink")[ShKAS](https://ja.wikipedia.org/wiki/ShKAS_\(機関砲\) "wikilink")() ×4(弾数1500発)
 
 ## 関連項目
 

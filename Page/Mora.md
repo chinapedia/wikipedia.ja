@@ -31,11 +31,11 @@
 
 ### 2012年10月以降（全面DRMフリー化）
 
-2012年10月1日にリニューアルし、[デジタル著作権管理](https://ja.wikipedia.org/wiki/デジタル著作権管理 "wikilink")（DRM）なしの[AAC](../Page/AAC.md "wikilink")-LC（[MP4](https://ja.wikipedia.org/wiki/MP4 "wikilink")） 320kbpsを新たに採用した\[2\]。2012年10月1日現在の楽曲数は約150万曲となっており、2012年9月以前に提供されていた楽曲（約300万曲）の一部が提供されていない。これはAAC化による（レコードレーベル側の）音源の再準備が必要なためで、現在残りの楽曲についてもAAC方式による置き換えが順次開始されており、2012年内には2012年9月以前と、ほぼ同等の楽曲数になる予定。なお、2012年9月以前に購入したATRAC形式の楽曲をAACで再ダウンロードすることはできない。
+2012年10月1日にリニューアルし、[デジタル著作権管理](../Page/デジタル著作権管理.md "wikilink")（DRM）なしの[AAC](../Page/AAC.md "wikilink")-LC（[MP4](../Page/MP4.md "wikilink")） 320kbpsを新たに採用した\[2\]。2012年10月1日現在の楽曲数は約150万曲となっており、2012年9月以前に提供されていた楽曲（約300万曲）の一部が提供されていない。これはAAC化による（レコードレーベル側の）音源の再準備が必要なためで、現在残りの楽曲についてもAAC方式による置き換えが順次開始されており、2012年内には2012年9月以前と、ほぼ同等の楽曲数になる予定。なお、2012年9月以前に購入したATRAC形式の楽曲をAACで再ダウンロードすることはできない。
 
 また、リニューアルに合わせて、所属アーティストの楽曲配信契約が見直され、他社サイトへの楽曲配信を開始。[2012年](../Page/2012年.md "wikilink")[2月22日](../Page/2月22日.md "wikilink")に洋楽が、同年[11月7日](../Page/11月7日.md "wikilink")に邦楽がiTunes Storeで配信開始。
 
-従来、購入及びダウンロードには（ATRAC形式及びOpenMGによるDRMを扱える）[x-アプリ](https://ja.wikipedia.org/wiki/x-アプリ "wikilink")などの対応ソフトウェアが必要であったが、リニューアルで[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")及び[Media Goから購入できるようになり](https://ja.wikipedia.org/wiki/Media_Go "wikilink")、それにより[Microsoft Windows以外のOSや](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")、[PSP](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")、[PS Vitaにも対応した](https://ja.wikipedia.org/wiki/PlayStation_Vita "wikilink")。また、DRMフリー化によりDRM非対応だった一部のウォークマン（型番の頭がNWD-の機種）への転送も可能となった。
+従来、購入及びダウンロードには（ATRAC形式及びOpenMGによるDRMを扱える）[x-アプリ](https://ja.wikipedia.org/wiki/x-アプリ "wikilink")などの対応ソフトウェアが必要であったが、リニューアルで[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")及び[Media Goから購入できるようになり](https://ja.wikipedia.org/wiki/Media_Go "wikilink")、それにより[Microsoft Windows以外のOSや](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")、[PSP](../Page/PlayStation_Portable.md "wikilink")、[PS Vitaにも対応した](https://ja.wikipedia.org/wiki/PlayStation_Vita "wikilink")。また、DRMフリー化によりDRM非対応だった一部のウォークマン（型番の頭がNWD-の機種）への転送も可能となった。
 
 反面、リニューアルと同時に従来のウォークマン向けソフトウェア全て（[x-アプリ](https://ja.wikipedia.org/wiki/x-アプリ "wikilink")3.0以前、[SonicStage](https://ja.wikipedia.org/wiki/SonicStage "wikilink")全バージョン、[CONNECT Player等](../Page/CONNECT_Player.md "wikilink")）でのサービス提供が終了した\[3\]\[4\]。今後ウォークマン向けソフトウェアは同日にリリースされたx-アプリ4.0（以降も含む）のみが対応することとなる。
 
@@ -51,19 +51,19 @@
 
 ## 沿革
 
-  - [1999年](../Page/1999年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink") - [ソニー](../Page/ソニー.md "wikilink")から[マジックゲート](https://ja.wikipedia.org/wiki/MagicGate "wikilink") [メモリースティック](../Page/メモリースティック.md "wikilink")・[ATRAC](https://ja.wikipedia.org/wiki/ATRAC "wikilink")フォーマットに対応した[MSウォークマン NW-MS7発売](https://ja.wikipedia.org/wiki/ウォークマンの製品一覧 "wikilink")、[リッピングソフト](https://ja.wikipedia.org/wiki/リッピングソフト "wikilink")の[OpenMG JukeBoxが同機種に同梱される形で供給開始](https://ja.wikipedia.org/wiki/SonicStage "wikilink")。[ソニー・ミュージックエンタテインメント (日本)が国内初のレコード会社直営による](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")[音楽配信](../Page/音楽配信.md "wikilink")（EMD）サイト「[bitmusic](https://ja.wikipedia.org/wiki/bitmusic "wikilink")」を開設。
-  - [2000年](../Page/2000年.md "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink") - [ソニー](../Page/ソニー.md "wikilink")・[SCNと](https://ja.wikipedia.org/wiki/So-net "wikilink")、[SMEJ](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")・[エイベックスなど国内レコード会社](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")10社の出資により[レーベルゲート](../Page/レーベルゲート.md "wikilink")設立。
+  - [1999年](../Page/1999年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink") - [ソニー](../Page/ソニー.md "wikilink")から[マジックゲート](../Page/MagicGate.md "wikilink") [メモリースティック](../Page/メモリースティック.md "wikilink")・[ATRAC](../Page/ATRAC.md "wikilink")フォーマットに対応した[MSウォークマン NW-MS7発売](https://ja.wikipedia.org/wiki/ウォークマンの製品一覧 "wikilink")、[リッピングソフト](https://ja.wikipedia.org/wiki/リッピングソフト "wikilink")の[OpenMG JukeBoxが同機種に同梱される形で供給開始](https://ja.wikipedia.org/wiki/SonicStage "wikilink")。[ソニー・ミュージックエンタテインメント (日本)が国内初のレコード会社直営による](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")[音楽配信](../Page/音楽配信.md "wikilink")（EMD）サイト「[bitmusic](https://ja.wikipedia.org/wiki/bitmusic "wikilink")」を開設。
+  - [2000年](../Page/2000年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink") - [ソニー](../Page/ソニー.md "wikilink")・[SCNと](https://ja.wikipedia.org/wiki/So-net "wikilink")、[SMEJ](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")・[エイベックスなど国内レコード会社](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")10社の出資により[レーベルゲート](../Page/レーベルゲート.md "wikilink")設立。
 
 <!-- end list -->
 
   -
-    [ATRAC](https://ja.wikipedia.org/wiki/ATRAC "wikilink")・[OpenMG](https://ja.wikipedia.org/wiki/OpenMG "wikilink")（[デジタル著作権管理](https://ja.wikipedia.org/wiki/デジタル著作権管理 "wikilink")技術）を併用した**レーベルゲート方式**を策定。[bitmusic](https://ja.wikipedia.org/wiki/bitmusic "wikilink")や@music(エイベックス)など同陣営の[音楽配信](../Page/音楽配信.md "wikilink")サイトでの再生ソフトにあたる「[レーベルゲートプレーヤー](https://ja.wikipedia.org/wiki/MAGIQLIP "wikilink")」の無償ダウンロードとインフラ供給を開始。配信サイトは各レコード会社毎に独立していた。
+    [ATRAC](../Page/ATRAC.md "wikilink")・[OpenMG](https://ja.wikipedia.org/wiki/OpenMG "wikilink")（[デジタル著作権管理](../Page/デジタル著作権管理.md "wikilink")技術）を併用した**レーベルゲート方式**を策定。[bitmusic](https://ja.wikipedia.org/wiki/bitmusic "wikilink")や@music(エイベックス)など同陣営の[音楽配信](../Page/音楽配信.md "wikilink")サイトでの再生ソフトにあたる「[レーベルゲートプレーヤー](https://ja.wikipedia.org/wiki/MAGIQLIP "wikilink")」の無償ダウンロードとインフラ供給を開始。配信サイトは各レコード会社毎に独立していた。
 
 <!-- end list -->
 
   - 2001年 - レーベルゲートプレーヤーの改良版として「Madison Player」の無償ダウンロード開始。
-  - [2002年](../Page/2002年.md "wikilink")8月 - [Net MDに対応した](https://ja.wikipedia.org/wiki/Net_MD "wikilink")[ATRAC](https://ja.wikipedia.org/wiki/ATRAC "wikilink")plus・OpenMG Xの組み合わせによる**レーベルゲートMQ方式**が発表され、対応ソフトとして[MAGIQLIP](https://ja.wikipedia.org/wiki/MAGIQLIP "wikilink")の無償ダウンロード開始。EMD購入楽曲のNet MD機器への転送が可能となる。
-  - 2003年 - SMEJが[コピーコントロールCD](../Page/コピーコントロールCD.md "wikilink")として[レーベルゲートCD](https://ja.wikipedia.org/wiki/レーベルゲートCD "wikilink")を採用した新譜CDソフト（『[明日への扉](https://ja.wikipedia.org/wiki/明日への扉_\(I_WiSHの曲\) "wikilink")』など）をリリース開始。
+  - [2002年](../Page/2002年.md "wikilink")8月 - [Net MDに対応した](https://ja.wikipedia.org/wiki/Net_MD "wikilink")[ATRAC](../Page/ATRAC.md "wikilink")plus・OpenMG Xの組み合わせによる**レーベルゲートMQ方式**が発表され、対応ソフトとして[MAGIQLIP](https://ja.wikipedia.org/wiki/MAGIQLIP "wikilink")の無償ダウンロード開始。EMD購入楽曲のNet MD機器への転送が可能となる。
+  - 2003年 - SMEJが[コピーコントロールCD](../Page/コピーコントロールCD.md "wikilink")として[レーベルゲートCD](https://ja.wikipedia.org/wiki/レーベルゲートCD "wikilink")を採用した新譜CDソフト（『[明日への扉](../Page/明日への扉_\(I_WiSHの曲\).md "wikilink")』など）をリリース開始。
   - [2004年](../Page/2004年.md "wikilink")3月31日 - レーベルゲートが運営主体となるEMDサイト「mora」を開始。
 
 <!-- end list -->
@@ -73,12 +73,12 @@
 
 <!-- end list -->
 
-  - 2004年10月20日 - [Windows Media Player対応の配信サービス](https://ja.wikipedia.org/wiki/Windows_Media_Player "wikilink")「MusicDrop」開始（2006年9月に「mora win」となり、2012年3月サービス終了）。
+  - 2004年10月20日 - [Windows Media Player対応の配信サービス](../Page/Windows_Media_Player.md "wikilink")「MusicDrop」開始（2006年9月に「mora win」となり、2012年3月サービス終了）。
   - 2004年11月17日 - [MAGIQLIP](https://ja.wikipedia.org/wiki/MAGIQLIP "wikilink")2の後継として、[SonicStage 2.3 for Moraの無償ダウンロードを開始](https://ja.wikipedia.org/wiki/SonicStage "wikilink")。なお、当時はSonicStage 2.X単体の無償ダウンロードは行われていなかった（[VAIO](../Page/VAIO.md "wikilink")、ATRAC再生に対応したウォークマン・[サウンドゲート](https://ja.wikipedia.org/wiki/サウンドゲート "wikilink")・[CLIE](../Page/CLIE.md "wikilink")のハンドルソフトであった。）。MAGIQLIPに保存されている購入楽曲は同一PCにインストールしてあるSonicStageへのエクスポートが可能である。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")2月24日 - [Yahoo\! JAPANが](../Page/Yahoo!_JAPAN.md "wikilink")「Yahoo\! ミュージックダウンロード」にてmoraからの楽曲提供によるATRAC3配信開始
-  - 2005年12月14日 - [オリコンが](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")「ORICON STYLE」にてmoraからの楽曲提供によるATRAC3plus配信開始（2006年11月30日終了）
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月15日](../Page/3月15日.md "wikilink") - ATRAC3plus 256kbpsで配信開始。\[6\]
-  - 2006年9月26日 - [Windows Media Player向けの配信サービス](https://ja.wikipedia.org/wiki/Windows_Media_Player "wikilink")「MusicDrop」を「[mora win](https://ja.wikipedia.org/wiki/mora_win "wikilink")」に名称変更
+  - [2005年](../Page/2005年.md "wikilink")2月24日 - [Yahoo\! JAPANが](../Page/Yahoo!_JAPAN.md "wikilink")「Yahoo\! ミュージックダウンロード」にてmoraからの楽曲提供によるATRAC3配信開始
+  - 2005年12月14日 - [オリコンが](../Page/オリコンチャート.md "wikilink")「ORICON STYLE」にてmoraからの楽曲提供によるATRAC3plus配信開始（2006年11月30日終了）
+  - [2006年](../Page/2006年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink") - ATRAC3plus 256kbpsで配信開始。\[6\]
+  - 2006年9月26日 - [Windows Media Player向けの配信サービス](../Page/Windows_Media_Player.md "wikilink")「MusicDrop」を「[mora win](https://ja.wikipedia.org/wiki/mora_win "wikilink")」に名称変更
   - 2006年10月26日 - [HMV](../Page/HMV.md "wikilink") Japanが「HMV DIGITAL」（2010年2月サービス終了）にてmoraからの楽曲提供によるATRAC3配信開始
   - [2007年](../Page/2007年.md "wikilink")10月2日 - Windows Media Player向けの配信サービスを「mora win Type1 Music Store」に名称変更
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")4月1日 - [Xperia発売と同時に](https://ja.wikipedia.org/wiki/SO-01B "wikilink")、同端末で音楽のダウンロード用のアプリケーション「mora touch」を提供開始
@@ -89,9 +89,9 @@
   - [2013年](../Page/2013年.md "wikilink")1月24日 - [Windows 8](https://ja.wikipedia.org/wiki/Microsoft_Windows_8 "wikilink")、[Windows RT向けストアアプリ](https://ja.wikipedia.org/wiki/Microsoft_Windows_RT "wikilink")「mora ～"WALKMAN"公式ミュージックストア～」を提供開始。
   - 2013年10月17日 - [FLAC](../Page/FLAC.md "wikilink")形式で44.1～192kHz/24bit、DRMフリーの[ハイレゾ音源が配信開始](https://ja.wikipedia.org/wiki/ハイレゾリューションオーディオ "wikilink")。同時に「[Media Go](https://ja.wikipedia.org/wiki/Media_Go "wikilink")\[7\]」から購入・ダウンロードが、ウォークマン F880シリーズでmoraアプリ内からハイレゾ音源が購入・ダウンロードできるようになる。
   - 2013年12月5日 - ウォークマン ZX1でmoraアプリ内からハイレゾ音源が購入・ダウンロードできるようになる。
-  - 2013年12月26日 - [サムスン電子](../Page/サムスン電子.md "wikilink")製及び[LG製スマートフォンの一部機種でmoraアプリ内からハイレゾ音源が購入](https://ja.wikipedia.org/wiki/LGエレクトロニクス "wikilink")・ダウンロードできるようになる。
+  - 2013年12月26日 - [サムスン電子](../Page/サムスン電子.md "wikilink")製及び[LG製スマートフォンの一部機種でmoraアプリ内からハイレゾ音源が購入](../Page/LGエレクトロニクス.md "wikilink")・ダウンロードできるようになる。
   - 2014年4月21日 - x-アプリのバージョンアップに伴い、x-アプリ内からハイレゾ音源が購入・ダウンロードできるようになる。これにより、パソコンでハイレゾ音源がダウンロードできないのはmoraダウンローダーのみとなる。
-  - 2014年5月20日 - [ソニーモバイル製スマートフォンの一部機種でmoraアプリ内からハイレゾ音源が購入](https://ja.wikipedia.org/wiki/ソニーモバイルコミュニケーションズ "wikilink")・ダウンロードできるようになる。
+  - 2014年5月20日 - [ソニーモバイル製スマートフォンの一部機種でmoraアプリ内からハイレゾ音源が購入](../Page/ソニーモバイルコミュニケーションズ.md "wikilink")・ダウンロードできるようになる。
   - 2014年7月3日 - [iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")や[iPad](https://ja.wikipedia.org/wiki/iPad "wikilink")などの[iOS端末のウェブブラウザから購入できるようになる](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")。またiOS用ダウンローダー兼プレーヤーアプリの「moraプレーヤー」も提供開始。
   - 2015年1月9日 - [DSD形式で](../Page/Direct_Stream_Digital.md "wikilink")2.8MHz～5.6MHz/1bit、DRMフリーの[ハイレゾリューションオーディオ](https://ja.wikipedia.org/wiki/ハイレゾリューションオーディオ "wikilink")音源が配信開始。しかし当日中に、DSD楽曲が再生可能な機器・プレーヤーにおいて一部再生されないものが見つかり、音楽配信を1月21日まで中断\[8\]\[9\]。
   - 2015年2月5日 - moraダウンローダーがハイレゾリューションオーディオ音源に対応。
@@ -113,7 +113,7 @@
   - ミュージック
     [AAC](../Page/AAC.md "wikilink")-LC 320kbps
   - ビデオ
-    [H.264](https://ja.wikipedia.org/wiki/H.264 "wikilink") SD画質 オーディオビットレート：128kbps。ミュージックビデオが中心。
+    [H.264](../Page/H.264.md "wikilink") SD画質 オーディオビットレート：128kbps。ミュージックビデオが中心。
   - ハイレゾ
     [FLAC](../Page/FLAC.md "wikilink") 44.1～192kHz/24bit
     [DSD](../Page/Direct_Stream_Digital.md "wikilink") 2.8MHz～5.6MHz/1bit
@@ -142,7 +142,7 @@
 2013年秋以降に発売されたウォークマンを利用している場合<br />
 <a href="https://ja.wikipedia.org/wiki/Xperia" title="wikilink">Xperia</a>等のスマートフォンを利用している場合<br />
 タブレット端末を利用している場合<br />
-<a href="https://ja.wikipedia.org/wiki/PlayStation_Portable" title="wikilink">PSPを利用している場合</a>[10]<br />
+<a href="../Page/PlayStation_Portable.md" title="wikilink">PSPを利用している場合</a>[10]<br />
 <a href="https://ja.wikipedia.org/wiki/メディア転送プロトコル" title="wikilink">MTP</a>/<a href="https://ja.wikipedia.org/wiki/ユニバーサル・シリアル・バス#デバイス・クラス" title="wikilink">MSC転送に対応する機器を利用している場合</a></p></td>
 <td><p>.m4a</p></td>
 <td><p>.m4v</p></td>
@@ -211,7 +211,7 @@ USB-DACやビットパーフェクト再生（<a href="../Page/ASIO.md" title="w
   - [mora music card](../Page/プリペイドカード.md "wikilink")
   - [NET CASH](https://ja.wikipedia.org/wiki/ネットキャッシュ "wikilink")
   - [nanaco](https://ja.wikipedia.org/wiki/nanaco "wikilink")ギフト
-  - [WebMoney / WebMoney for mora](https://ja.wikipedia.org/wiki/ウェブマネー "wikilink")
+  - [WebMoney / WebMoney for mora](../Page/ウェブマネー.md "wikilink")
   - [BitCash](../Page/BitCash.md "wikilink")
   - [楽天Edy](../Page/楽天Edy.md "wikilink") - Internet Explorerとx-アプリのみ\[12\]（現在は利用不可）
   - [auかんたん決済](https://ja.wikipedia.org/wiki/au_\(通信\) "wikilink")（現在は利用不可）
@@ -232,7 +232,7 @@ USB-DACやビットパーフェクト再生（<a href="../Page/ASIO.md" title="w
       - Xperia Tablet (Wi-Fiモデル)
           - [Xperia Z2 Tablet](https://ja.wikipedia.org/wiki/Xperia_Z2_Tablet "wikilink")\[13\]
           - Xperia Z3 Tablet Compact
-  - [ソニーモバイル](https://ja.wikipedia.org/wiki/ソニーモバイルコミュニケーションズ "wikilink")
+  - [ソニーモバイル](../Page/ソニーモバイルコミュニケーションズ.md "wikilink")
       - [Xperia](https://ja.wikipedia.org/wiki/Xperia "wikilink")シリーズ
           - [Xperia Z2 SO-03F](https://ja.wikipedia.org/wiki/SO-03F "wikilink")
           - [Xperia Z2 Tablet SO-05F](https://ja.wikipedia.org/wiki/SO-05F "wikilink")
@@ -254,7 +254,7 @@ USB-DACやビットパーフェクト再生（<a href="../Page/ASIO.md" title="w
           - [Galaxy S6 edge](https://ja.wikipedia.org/wiki/Samsung_Galaxy_S6 "wikilink") ([SC-04G](https://ja.wikipedia.org/wiki/SC-04G "wikilink")、[SCV31](https://ja.wikipedia.org/wiki/SCV31 "wikilink"))
           - [Galaxy S6 SC-05G](https://ja.wikipedia.org/wiki/SC-05G "wikilink")
 
-  - [LGエレクトロニクス](https://ja.wikipedia.org/wiki/LGエレクトロニクス "wikilink")
+  - [LGエレクトロニクス](../Page/LGエレクトロニクス.md "wikilink")
 
       - [Gシリーズ](https://ja.wikipedia.org/wiki/LG_G_series "wikilink")
           - [G2](https://ja.wikipedia.org/wiki/LG_G2 "wikilink") [L-01F](https://ja.wikipedia.org/wiki/L-01F "wikilink")
@@ -263,14 +263,14 @@ USB-DACやビットパーフェクト再生（<a href="../Page/ASIO.md" title="w
           - [isai FL LGL24](https://ja.wikipedia.org/wiki/LGL24 "wikilink")
           - [isai VL LGV31](https://ja.wikipedia.org/wiki/LGV31 "wikilink")
 
-  - [HTC](https://ja.wikipedia.org/wiki/HTC_\(企業\) "wikilink")
+  - [HTC](../Page/HTC_\(企業\).md "wikilink")
 
       - HTC Jシリーズ
           - [HTC J Butterfly HTL23](https://ja.wikipedia.org/wiki/HTL23 "wikilink")
 
   - [オンキヨー&パイオニア](https://ja.wikipedia.org/wiki/オンキヨー&パイオニア "wikilink")
 
-      - [ONKYOブランド](https://ja.wikipedia.org/wiki/オンキヨー "wikilink")
+      - [ONKYOブランド](../Page/オンキヨー.md "wikilink")
           - [DP-X1](http://www.jp.onkyo.com/audiovisual/headphone/dpx1/index.htm)
       - [Pioneerブランド](https://ja.wikipedia.org/wiki/パイオニア "wikilink")
           - [XDP-100R](http://pioneer-audiovisual.com/components/dap/xdp-100r/)
@@ -290,8 +290,8 @@ USB-DACやビットパーフェクト再生（<a href="../Page/ASIO.md" title="w
   - [CONNECT Player](../Page/CONNECT_Player.md "wikilink")
   - [x-アプリ](https://ja.wikipedia.org/wiki/x-アプリ "wikilink")
   - [Media Go](https://ja.wikipedia.org/wiki/Media_Go "wikilink")
-  - [BeatJam](https://ja.wikipedia.org/wiki/BeatJam "wikilink")
-  - [ATRAC](https://ja.wikipedia.org/wiki/ATRAC "wikilink")
+  - [BeatJam](../Page/BeatJam.md "wikilink")
+  - [ATRAC](../Page/ATRAC.md "wikilink")
   - [OpenMG](https://ja.wikipedia.org/wiki/OpenMG "wikilink")
   - [NetMD](https://ja.wikipedia.org/wiki/NetMD "wikilink")
   - [レーベルゲートCD](https://ja.wikipedia.org/wiki/レーベルゲートCD "wikilink")

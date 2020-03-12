@@ -1,7 +1,7 @@
 > この記事は[Vodafone 705SH](https://ja.wikipedia.org/wiki/Vodafone_705SH)から翻訳されています。
 
 
-**Vodafone 705SH**（ボーダフォン ナナマルゴ エスエイチ）及び、後の**SoftBank 705SH**（ソフトバンク ナナマルゴ エスエイチ）は、[シャープ](../Page/シャープ.md "wikilink")が開発し、ボーダフォン日本法人、後には[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")が販売する[W-CDMA](../Page/W-CDMA.md "wikilink")/[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")通信方式の[SoftBank 3Gサービスを利用可能な](https://ja.wikipedia.org/wiki/SoftBank_3G "wikilink")[携帯電話](../Page/携帯電話.md "wikilink")端末。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[6月14日](../Page/6月14日.md "wikilink")発売。[JATE通過日は](../Page/電気通信端末機器審査協会.md "wikilink")、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月13日](../Page/4月13日.md "wikilink")。ボーダフォン時代には「**SLIMIA**」（スリミア）の愛称が付されていた。
+**Vodafone 705SH**（ボーダフォン ナナマルゴ エスエイチ）及び、後の**SoftBank 705SH**（ソフトバンク ナナマルゴ エスエイチ）は、[シャープ](../Page/シャープ.md "wikilink")が開発し、ボーダフォン日本法人、後には[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")が販売する[W-CDMA](../Page/W-CDMA.md "wikilink")/[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")通信方式の[SoftBank 3Gサービスを利用可能な](../Page/SoftBank_3G.md "wikilink")[携帯電話](../Page/携帯電話.md "wikilink")端末。[2006年](../Page/2006年.md "wikilink")[6月14日](../Page/6月14日.md "wikilink")発売。[JATE通過日は](../Page/電気通信端末機器審査協会.md "wikilink")、[2006年](../Page/2006年.md "wikilink")[4月13日](../Page/4月13日.md "wikilink")。ボーダフォン時代には「**SLIMIA**」（スリミア）の愛称が付されていた。
 
 発売開始から1年以上経過した[2007年](../Page/2007年.md "wikilink")7月の段階まで、ソフトバンクの端末の中で週間売上台数1位を保持し続けていた。後発機の人気や在庫の減少などで徐々にランキングから姿を消していったが、異例のロングランヒットとなった端末であることに変わりはない。また、あまりに人気があったためか、後継機の情報が長らくなかった（実質的な後継機は[812SH](https://ja.wikipedia.org/wiki/SoftBank_812SH "wikilink")）。ここまで人気が出たのは、いわゆる「980円端末」であることに加え、薄型という現在の携帯電話におけるトレンドを押さえていたことが要因と考えられる。2007年10月号のカタログより落ちたため、この時期に生産を終了したものと思われる。
 
@@ -9,10 +9,10 @@
 
   - **ステンレスシートキー採用**
   - ミュージックプレイヤー（[Music Manager](https://ja.wikipedia.org/wiki/Music_Manager "wikilink")）使用
-  - [着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")
+  - [着うたフル](../Page/着うたフル.md "wikilink")
   - Vアプリ（現[S\!アプリ](../Page/S!アプリ.md "wikilink")）（[メガアプリ](https://ja.wikipedia.org/wiki/メガアプリ "wikilink")）
   - [TVコール](https://ja.wikipedia.org/wiki/TVコール "wikilink")
-  - [Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth "wikilink")
+  - [Bluetooth](../Page/Bluetooth.md "wikilink")
   - [赤外線](../Page/赤外線.md "wikilink")機能
   - [カスタムスクリーン](https://ja.wikipedia.org/wiki/カスタムスクリーン "wikilink")
   - でか文字モード
@@ -36,11 +36,11 @@
 
 この端末は、ステンレスシートキー（一体型のキーパッド）の採用などにより、厚さ17mm、重さ104gという軽量＆スリムを実現した端末である。
 
-薄くて軽いこの端末ではあるが、Vodafone Address Book（現[S\!アドレスブック](https://ja.wikipedia.org/wiki/S!アドレスブック "wikilink")）や[ちかチャット](https://ja.wikipedia.org/wiki/ちかチャット "wikilink")等の[Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth "wikilink")通信機能活用アプリケーション、Vodafone live\! CAST（現[S\!情報チャンネル](../Page/S!情報チャンネル.md "wikilink")）などといったVodafone 3G（現[SoftBank 3G](https://ja.wikipedia.org/wiki/SoftBank_3G "wikilink")）の機能には一通り対応している。また、[カスタモ](../Page/カスタモ.md "wikilink")と呼ばれる[GUI](https://ja.wikipedia.org/wiki/GUI "wikilink")カスタマイズ機能機能にも対応している。但しカメラ撮影などに使われるライトが省かれていたり、音楽などを再生するスピーカーが通話用レシーバーと兼用になっていたりする。
+薄くて軽いこの端末ではあるが、Vodafone Address Book（現[S\!アドレスブック](https://ja.wikipedia.org/wiki/S!アドレスブック "wikilink")）や[ちかチャット](https://ja.wikipedia.org/wiki/ちかチャット "wikilink")等の[Bluetooth](../Page/Bluetooth.md "wikilink")通信機能活用アプリケーション、Vodafone live\! CAST（現[S\!情報チャンネル](../Page/S!情報チャンネル.md "wikilink")）などといったVodafone 3G（現[SoftBank 3G](../Page/SoftBank_3G.md "wikilink")）の機能には一通り対応している。また、[カスタモ](../Page/カスタモ.md "wikilink")と呼ばれる[GUI](https://ja.wikipedia.org/wiki/GUI "wikilink")カスタマイズ機能機能にも対応している。但しカメラ撮影などに使われるライトが省かれていたり、音楽などを再生するスピーカーが通話用レシーバーと兼用になっていたりする。
 
 ## \+ iPod nano
 
-2006年9月15日（一部では13日）よりSoftBank 705SHと[iPod nano](https://ja.wikipedia.org/wiki/iPod_nano "wikilink")（2GB）とのセットが用意されている。なお、このセットの購入の条件は[スーパーボーナス](https://ja.wikipedia.org/wiki/スーパーボーナス "wikilink")加入が必須で、店舗によってはiPod nanoの定価よりも販売価格を安くしている店舗もある。
+2006年9月15日（一部では13日）よりSoftBank 705SHと[iPod nano](https://ja.wikipedia.org/wiki/iPod_nano "wikilink")（2GB）とのセットが用意されている。なお、このセットの購入の条件は[スーパーボーナス](../Page/スーパーボーナス.md "wikilink")加入が必須で、店舗によってはiPod nanoの定価よりも販売価格を安くしている店舗もある。
 
 ## 付属品・オプション
 
@@ -59,7 +59,7 @@
 
 ## 不具合
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月28日](../Page/7月28日.md "wikilink") - 特定の文字を入力すると画面が固まったり、強制的に再起動する不具合
+  - [2006年](../Page/2006年.md "wikilink")[7月28日](../Page/7月28日.md "wikilink") - 特定の文字を入力すると画面が固まったり、強制的に再起動する不具合
   - [2015年](../Page/2015年.md "wikilink")[10月9日](../Page/10月9日.md "wikilink") - 2016年1月1日以降、日時を正しく表示が出来なくなる不具合。
 
 ## 関連項目

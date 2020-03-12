@@ -1,7 +1,7 @@
 > この記事は[Miss YOKOHAMADULT](https://ja.wikipedia.org/wiki/Miss_YOKOHAMADULT)から翻訳されています。
 
 
-『**Miss YOKOHAMADULT YUKO HARA 2nd**』（ミス・ヨコハマダルト・ユウコ・ハラ・セカンド）は、[原由子](../Page/原由子.md "wikilink")の2枚目の[オリジナル・アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[11月21日](../Page/11月21日.md "wikilink")発売。発売元は[タイシタレーベル](https://ja.wikipedia.org/wiki/タイシタレーベル "wikilink")。
+『**Miss YOKOHAMADULT YUKO HARA 2nd**』（ミス・ヨコハマダルト・ユウコ・ハラ・セカンド）は、[原由子](../Page/原由子.md "wikilink")の2枚目の[オリジナル・アルバム](../Page/スタジオ・アルバム.md "wikilink")。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[11月21日](../Page/11月21日.md "wikilink")発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。
 
 [1991年](../Page/1991年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink")と[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月25日](../Page/2月25日.md "wikilink")に再発売されている。
 
@@ -23,7 +23,7 @@
 
 ## リリース
 
-本作は初版から[CDアルバムとしても発売されている](../Page/コンパクトディスク.md "wikilink")。また、原の命名により誕生したサザンのプライベートレーベルである[タイシタレーベル](https://ja.wikipedia.org/wiki/タイシタレーベル "wikilink")からの発売となっている。
+本作は初版から[CDアルバムとしても発売されている](../Page/コンパクトディスク.md "wikilink")。また、原の命名により誕生したサザンのプライベートレーベルである[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")からの発売となっている。
 
 ## 収録曲
 
@@ -55,7 +55,7 @@
 7.  **嵐の第三京浜**
     （作詞・作曲：原由子　編曲：桑田佳祐 & Head Arrangers）
       -
-        タイトル通り[第三京浜道路](https://ja.wikipedia.org/wiki/第三京浜道路 "wikilink")での[ドライブ](../Page/ドライブ.md "wikilink")[デート](https://ja.wikipedia.org/wiki/デート "wikilink")をテーマにした曲。
+        タイトル通り[第三京浜道路](../Page/第三京浜道路.md "wikilink")での[ドライブ](../Page/ドライブ.md "wikilink")[デート](../Page/デート.md "wikilink")をテーマにした曲。
 8.  **女優**
     （作詞：桑田佳祐　作曲：桑田佳祐 & [神山暁雄](../Page/ホッピー神山.md "wikilink")　編曲：桑田佳祐 & Head Arrangers）
       -
@@ -77,7 +77,7 @@
 12. **ヨコハマ・モガ**
     （作詞・作曲：桑田佳祐　編曲：桑田佳祐 & Head Arrangers）
       -
-        [シーナ&ザ・ロケッツ](https://ja.wikipedia.org/wiki/シーナ&ザ・ロケッツ "wikilink")の[鮎川誠](https://ja.wikipedia.org/wiki/鮎川誠 "wikilink")との[デュエット](https://ja.wikipedia.org/wiki/デュエット "wikilink")曲。間奏ではドラマ風の2人のセリフ回しが聴ける。
+        [シーナ&ザ・ロケッツ](../Page/シーナ&ザ・ロケッツ.md "wikilink")の[鮎川誠](../Page/鮎川誠.md "wikilink")との[デュエット](../Page/デュエット.md "wikilink")曲。間奏ではドラマ風の2人のセリフ回しが聴ける。
         「[モガ](https://ja.wikipedia.org/wiki/モガ "wikilink")」とは、昭和初期に流行した言葉で、ファッション・文化の最先端を行く女性「モダンガール」の略。
 
 ## 参加ミュージシャン
@@ -86,8 +86,8 @@
       - [原由子](../Page/原由子.md "wikilink")：[Lead Vocals](https://ja.wikipedia.org/wiki/ボーカル "wikilink")（\#1～12）、[Synthesizer](../Page/シンセサイザー.md "wikilink")（\#5,7）
       - [桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")：[Chorus](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")（\#1～12）、[Acoustic Guitar](../Page/アコースティック・ギター.md "wikilink")（\#8）
       - [原田末秋](https://ja.wikipedia.org/wiki/原田末秋 "wikilink")：[Guitars](../Page/ギター.md "wikilink")（\#1～12）
-      - [中西康晴](https://ja.wikipedia.org/wiki/中西康晴 "wikilink")：[Keyboards](../Page/キーボード_\(楽器\).md "wikilink")（\#1～12）
-      - [美久月千晴](https://ja.wikipedia.org/wiki/美久月千晴 "wikilink")：[Bass](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")（\#1～12）
+      - [中西康晴](../Page/中西康晴.md "wikilink")：[Keyboards](../Page/キーボード_\(楽器\).md "wikilink")（\#1～12）
+      - [美久月千晴](https://ja.wikipedia.org/wiki/美久月千晴 "wikilink")：[Bass](../Page/ベース_\(弦楽器\).md "wikilink")（\#1～12）
       - [村上秀一](../Page/村上秀一.md "wikilink")：[Drums](../Page/ドラムセット.md "wikilink")（\#1～12）
       - [神山暁雄](../Page/ホッピー神山.md "wikilink")：[Synthesizer](../Page/シンセサイザー.md "wikilink")（\#1～12）
 
@@ -135,7 +135,7 @@
 **いちょう並木のセレナーデ**
 
   - 斉藤誠：Guitars
-  - 八木のぶお：[Harmonica](https://ja.wikipedia.org/wiki/ハーモニカ "wikilink")
+  - 八木のぶお：[Harmonica](../Page/ハーモニカ.md "wikilink")
   - 野沢秀行：Percussions
   - [大森隆志](../Page/大森隆志.md "wikilink")：Chorus
   - [関口和之](../Page/関口和之.md "wikilink")：Chorus
@@ -143,7 +143,7 @@
 
 '''ヨコハマ・モガ
 
-  - [鮎川誠](https://ja.wikipedia.org/wiki/鮎川誠 "wikilink")：Lead Vocals
+  - [鮎川誠](../Page/鮎川誠.md "wikilink")：Lead Vocals
   - 福森隆：[Violin](../Page/ヴァイオリン.md "wikilink")
 
 ## 脚注

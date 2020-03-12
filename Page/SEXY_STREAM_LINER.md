@@ -1,7 +1,7 @@
 > この記事は[SEXY STREAM LINER](https://ja.wikipedia.org/wiki/SEXY_STREAM_LINER)から翻訳されています。
 
 
-『**SEXY STREAM LINER**』（セクシー・ストリーム・ライナー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンドである](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")[BUCK-TICK](https://ja.wikipedia.org/wiki/BUCK-TICK "wikilink")の10枚目となる[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")\[1\]、およびアルバムの2曲目に収録されている[インストゥルメンタル曲である](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")。アルバムは[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[12月10日](../Page/12月10日.md "wikilink")に[マーキュリー・ミュージック・エンタテイメントよりリリースされた](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。
+『**SEXY STREAM LINER**』（セクシー・ストリーム・ライナー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンドである](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")[BUCK-TICK](../Page/BUCK-TICK.md "wikilink")の10枚目となる[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")\[1\]、およびアルバムの2曲目に収録されている[インストゥルメンタル曲である](../Page/器楽曲.md "wikilink")。アルバムは[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[12月10日](../Page/12月10日.md "wikilink")に[マーキュリー・ミュージック・エンタテイメントよりリリースされた](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
 
 マーキュリー移籍後初となる作品だが、契約が早々に終了したため、マーキュリー在籍時にリリースされた唯一のオリジナルアルバムとなった。
 
@@ -15,16 +15,16 @@
 
 ## リリース履歴
 
-| No. | 日付                                                                       | [レーベル](../Page/レコードレーベル.md "wikilink")                                 | 規格                                    | [規格品番](https://ja.wikipedia.org/wiki/規格品番 "wikilink") | 最高順位 | 備考                                                                        |
-| --- | ------------------------------------------------------------------------ | ---------------------------------------------------------------------- | ------------------------------------- | ----------------------------------------------------- | ---- | ------------------------------------------------------------------------- |
-| 1   | 1997年12月10日                                                              | [マーキュリー](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink") | [CD](../Page/コンパクトディスク.md "wikilink") | PHCL-5089                                             | 4位   | 初回限定スペシャルカラーケース、ピクチャーレーベル仕様                                               |
-| 2   | [2000年](../Page/2000年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink") | マーキュリー                                                                 | CD                                    | PHCL-5140〜1                                           | \-   | コンピレーションアルバム『[97BT99](https://ja.wikipedia.org/wiki/97BT99 "wikilink")』収録 |
+| No. | 日付                                                                       | [レーベル](../Page/レコードレーベル.md "wikilink")              | 規格                                    | [規格品番](../Page/規格品番.md "wikilink") | 最高順位 | 備考                                                                        |
+| --- | ------------------------------------------------------------------------ | --------------------------------------------------- | ------------------------------------- | ---------------------------------- | ---- | ------------------------------------------------------------------------- |
+| 1   | 1997年12月10日                                                              | [マーキュリー](../Page/ユニバーサルミュージック_\(日本\).md "wikilink") | [CD](../Page/コンパクトディスク.md "wikilink") | PHCL-5089                          | 4位   | 初回限定スペシャルカラーケース、ピクチャーレーベル仕様                                               |
+| 2   | [2000年](../Page/2000年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink") | マーキュリー                                              | CD                                    | PHCL-5140〜1                        | \-   | コンピレーションアルバム『[97BT99](https://ja.wikipedia.org/wiki/97BT99 "wikilink")』収録 |
 
 ## 収録曲
 
 全編曲：BUCK-TICK（特記以外）
 
-1.  **[タナトス](https://ja.wikipedia.org/wiki/タナトス "wikilink")** \[5:23\]
+1.  **[タナトス](../Page/タナトス.md "wikilink")** \[5:23\]
       - 作詞：[櫻井敦司](../Page/櫻井敦司.md "wikilink")、作曲：今井寿
     <!-- end list -->
       -
@@ -52,7 +52,7 @@
       - 作詞：櫻井敦司、作曲：[星野英彦](../Page/星野英彦.md "wikilink")
     <!-- end list -->
       -
-        先行シングル「ヒロイン」（1997年）の[カップリングに収録されているのはドラムやギターのトラックが無い](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")[リミックス](../Page/リミックス.md "wikilink")で[アンビエント色が濃い](https://ja.wikipedia.org/wiki/環境音楽 "wikilink")。
+        先行シングル「ヒロイン」（1997年）の[カップリングに収録されているのはドラムやギターのトラックが無い](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")[リミックス](../Page/リミックス.md "wikilink")で[アンビエント色が濃い](../Page/環境音楽.md "wikilink")。
 7.  **蝶蝶** \[4:32\]
       - 作詞：櫻井敦司、作曲：星野英彦
     <!-- end list -->
@@ -62,7 +62,7 @@
     <!-- end list -->
       -
         後にギターパートを追加したリミックスバージョンがシングルカットされた。
-9.  **[迦陵頻伽](https://ja.wikipedia.org/wiki/迦陵頻伽 "wikilink") Kalavinka** \[5:08\]
+9.  **[迦陵頻伽](../Page/迦陵頻伽.md "wikilink") Kalavinka** \[5:08\]
       - 作詞：櫻井敦司、作曲：今井寿
     <!-- end list -->
       -
@@ -70,12 +70,12 @@
       - 作詞・作曲：今井寿
     <!-- end list -->
       -
-        櫻井と今井のツインボーカル曲で、[ハウスと](https://ja.wikipedia.org/wiki/ハウス_\(音楽\) "wikilink")[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")を融合させた曲\[4\]。今井は音感を重視し、歌詞に「ル」を含む単語を多用している\[5\]。
+        櫻井と今井のツインボーカル曲で、[ハウスと](../Page/ハウス_\(音楽\).md "wikilink")[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")を融合させた曲\[4\]。今井は音感を重視し、歌詞に「ル」を含む単語を多用している\[5\]。
 11. **[Schiz・o幻想](https://ja.wikipedia.org/wiki/統合失調症 "wikilink")** \[4:23\]
       - 作詞：櫻井敦司、作曲：今井寿
     <!-- end list -->
       -
-        今井が「変態的な[ダブ](https://ja.wikipedia.org/wiki/ダブ "wikilink")」を目指した曲\[6\]。歌詞においてアルバム『[COSMOS](https://ja.wikipedia.org/wiki/COSMOS_\(アルバム\) "wikilink")』（[1996年](../Page/1996年.md "wikilink")）以降、封印されていた直接的な精神描写が顕著で、櫻井曰く「思わず出てしまった」とのこと。
+        今井が「変態的な[ダブ](../Page/ダブ.md "wikilink")」を目指した曲\[6\]。歌詞においてアルバム『[COSMOS](../Page/COSMOS_\(アルバム\).md "wikilink")』（[1996年](../Page/1996年.md "wikilink")）以降、封印されていた直接的な精神描写が顕著で、櫻井曰く「思わず出てしまった」とのこと。
 12. **キミガシン..ダラ** \[5:11\]
       - 作詞：櫻井敦司、作曲：今井寿
     <!-- end list -->
@@ -87,12 +87,12 @@
   - 櫻井敦司 - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
   - 今井寿 - [ギター](../Page/ギター.md "wikilink")、[ノイズ](../Page/ノイズミュージック.md "wikilink")、ボーカル
   - 星野英彦 - ギター
-  - [樋口豊](../Page/樋口豊_\(ミュージシャン\).md "wikilink") - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - [樋口豊](../Page/樋口豊_\(ミュージシャン\).md "wikilink") - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
   - [ヤガミトール](../Page/ヤガミトール.md "wikilink") - [ドラムス](../Page/ドラムセット.md "wikilink")
 
 ### サポートミュージシャン
 
-  - 横山和俊 - [マニピュレート](https://ja.wikipedia.org/wiki/マニピュレーター "wikilink")、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、ノイズ
+  - 横山和俊 - [マニピュレート](../Page/マニピュレーター.md "wikilink")、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、ノイズ
 
 ## 脚注・出典
 

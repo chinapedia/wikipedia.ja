@@ -1,7 +1,7 @@
 > この記事は[UEFA](https://ja.wikipedia.org/wiki/UEFA)から翻訳されています。
 
 
-**UEFAフットサル選手権**（）は、[欧州サッカー連盟](../Page/欧州サッカー連盟.md "wikilink")（UEFA）が主催する、[ナショナルチーム](https://ja.wikipedia.org/wiki/ナショナルチーム "wikilink")による[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")の大陸選手権大会である。別名**FUTSAL EURO**。2022年大会から4年ごとの開催に加え、出場チームも16チームに拡張されることが決まっている\[1\]。
+**UEFAフットサル選手権**（）は、[欧州サッカー連盟](../Page/欧州サッカー連盟.md "wikilink")（UEFA）が主催する、[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")の大陸選手権大会である。別名**FUTSAL EURO**。2022年大会から4年ごとの開催に加え、出場チームも16チームに拡張されることが決まっている\[1\]。
 
 ## 結果
 
@@ -61,7 +61,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
 <td><p><a href="../Page/チェコ.md" title="wikilink">チェコ</a></p></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>2 - 1</strong></p></td>

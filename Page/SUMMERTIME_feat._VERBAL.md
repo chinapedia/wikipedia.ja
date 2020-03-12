@@ -5,11 +5,11 @@
 
 ## 概要
 
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")第2弾シングル。[7月4日](../Page/7月4日.md "wikilink")に[CD](../Page/コンパクトディスク.md "wikilink")+[DVD](../Page/DVD.md "wikilink")のみでリリースされた。CDには全3曲収録、DVDには昨年の12月に出演した「Rhythm Nation 2006」のライブ映像（Call Me〜Emotions〜ROCK THE PARTY）が収録されている。なお、「SUMMERTIME feat. VERBAL」の[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")は初回限定版の4枚目のアルバム『[Reflex](https://ja.wikipedia.org/wiki/Reflex_\(アルバム\) "wikilink")』（DVD付）に収録されている。
+  - [2007年](../Page/2007年.md "wikilink")第2弾シングル。[7月4日](../Page/7月4日.md "wikilink")に[CD](../Page/コンパクトディスク.md "wikilink")+[DVD](../Page/DVD.md "wikilink")のみでリリースされた。CDには全3曲収録、DVDには昨年の12月に出演した「Rhythm Nation 2006」のライブ映像（Call Me〜Emotions〜ROCK THE PARTY）が収録されている。なお、「SUMMERTIME feat. VERBAL」の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")は初回限定版の4枚目のアルバム『[Reflex](../Page/Reflex_\(アルバム\).md "wikilink")』（DVD付）に収録されている。
   - 「SUMMERTIME feat. VERBAL」は、夏に海へ行きたいという気持ちを歌ったポップソング。ゲストに[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")の[VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")が参加している。ミュージック・ビデオには『[ROCK THE PARTY](../Page/ROCK_THE_PARTY.md "wikilink")』のビーチタオルが使用されたり、DJ Lillyも登場する。
-  - [渋谷](../Page/渋谷.md "wikilink")・[原宿](../Page/原宿.md "wikilink")を中心に都内をDOUBLEのアドトレーラー（宣伝用トラック）が[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[7月19日](../Page/7月19日.md "wikilink")まで回った。
-  - 同時リリースされたDJ Lilly名義のミックスCD『[virgin mix](https://ja.wikipedia.org/wiki/virgin_mix "wikilink")』と両方購入すると、それぞれにパスワードが封入されており、特設サイトにログインできるようになっている。コンテンツとして、「[SPRING LOVE](../Page/SPRING_LOVE.md "wikilink")」のピアノバージョンライブレコーディングデモや4thアルバム『[Reflex](https://ja.wikipedia.org/wiki/Reflex_\(アルバム\) "wikilink")』に収録されている「WHY DO YOU GO」のハープバージョンライブレコーディングデモ、「Run Away Love feat. Lupe Fiasco」のレコーディング映像を視聴することができる。2007年7月4日から8月末日まで実施された。
-  - タイアップは[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")「[流派-R](https://ja.wikipedia.org/wiki/流派-R "wikilink")」7月度オープニングテーマ、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")「[女神のハテナ](../Page/女神のハテナ.md "wikilink")」8月度エンディングテーマ。
+  - [渋谷](../Page/渋谷.md "wikilink")・[原宿](../Page/原宿.md "wikilink")を中心に都内をDOUBLEのアドトレーラー（宣伝用トラック）が[2007年](../Page/2007年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink")まで回った。
+  - 同時リリースされたDJ Lilly名義のミックスCD『[virgin mix](https://ja.wikipedia.org/wiki/virgin_mix "wikilink")』と両方購入すると、それぞれにパスワードが封入されており、特設サイトにログインできるようになっている。コンテンツとして、「[SPRING LOVE](../Page/SPRING_LOVE.md "wikilink")」のピアノバージョンライブレコーディングデモや4thアルバム『[Reflex](../Page/Reflex_\(アルバム\).md "wikilink")』に収録されている「WHY DO YOU GO」のハープバージョンライブレコーディングデモ、「Run Away Love feat. Lupe Fiasco」のレコーディング映像を視聴することができる。2007年7月4日から8月末日まで実施された。
+  - タイアップは[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")「[流派-R](../Page/流派-R.md "wikilink")」7月度オープニングテーマ、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")「[女神のハテナ](../Page/女神のハテナ.md "wikilink")」8月度エンディングテーマ。
 
 ## 収録曲
 

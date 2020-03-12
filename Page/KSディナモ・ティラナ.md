@@ -3,7 +3,7 @@
 
 **クルビ・スポルティヴ・ディナモ・ティラナ**（**Klubi Sportiv Dinamo Tirana**）は、[アルバニア](../Page/アルバニア.md "wikilink")の首都[ティラナ](../Page/ティラナ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。2019-20シーズンは[カテゴリア・エ・パラ](https://ja.wikipedia.org/wiki/カテゴリア・エ・パラ "wikilink")（2部リーグ）に所属する。
 
-1950年にアルバニア内務省のクラブとして創設された。1995年から一時期**KSオリンピック・ティラナ** (*KS Olimpik Tirana*) に改名していたが、1997年にディナモに戻った。同じ都市の[KFティラナ](https://ja.wikipedia.org/wiki/KFティラナ "wikilink")、[FKパルティザニ・ティラナ](https://ja.wikipedia.org/wiki/FKパルティザニ・ティラナ "wikilink")とならび、アルバニアで最も実績を残しているクラブのひとつである。
+1950年にアルバニア内務省のクラブとして創設された。1995年から一時期**KSオリンピック・ティラナ** (*KS Olimpik Tirana*) に改名していたが、1997年にディナモに戻った。同じ都市の[KFティラナ](../Page/KFティラナ.md "wikilink")、[FKパルティザニ・ティラナ](https://ja.wikipedia.org/wiki/FKパルティザニ・ティラナ "wikilink")とならび、アルバニアで最も実績を残しているクラブのひとつである。
 
 ## タイトル
 
@@ -49,7 +49,7 @@
 <td><p>1971-72</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1971-72" title="wikilink">UEFAカップウィナーズカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FKアウストリア・ウィーン" title="wikilink">アウストリア・ウィーン</a></p></td>
+<td><p><a href="../Page/FKアウストリア・ウィーン.md" title="wikilink">アウストリア・ウィーン</a></p></td>
 <td><p>1–1</p></td>
 <td><p>0–1</p></td>
 <td><p>'''1-2</p></td>
@@ -59,7 +59,7 @@
 <td><p>1980-81</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズカップ_1980-81" title="wikilink">UEFAチャンピオンズカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アヤックス・アムステルダム" title="wikilink">アヤックス</a></p></td>
+<td><p><a href="../Page/アヤックス・アムステルダム.md" title="wikilink">アヤックス</a></p></td>
 <td><p>0–2</p></td>
 <td><p>0–1</p></td>
 <td><p>'''0-3</p></td>
@@ -69,7 +69,7 @@
 <td><p>1981-82</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1981-82" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCカールツァイス・イェーナ" title="wikilink">カールツァイス・イェーナ</a></p></td>
+<td><p><a href="../Page/FCカールツァイス・イェーナ.md" title="wikilink">カールツァイス・イェーナ</a></p></td>
 <td><p>1–0</p></td>
 <td><p>0–4</p></td>
 <td><p>'''1-4</p></td>
@@ -79,7 +79,7 @@
 <td><p>1982-83</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1982-83" title="wikilink">UEFAカップウィナーズカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アバディーンFC" title="wikilink">アバディーン</a></p></td>
+<td><p><a href="../Page/アバディーンFC.md" title="wikilink">アバディーン</a></p></td>
 <td><p>0–0</p></td>
 <td><p>0–1</p></td>
 <td><p>'''0-1</p></td>
@@ -97,7 +97,7 @@
 </tr>
 <tr class="even">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スポルティング・クルーベ・デ・ポルトゥガル" title="wikilink">スポルティングCP</a></p></td>
+<td><p><a href="../Page/スポルティング・クルーベ・デ・ポルトゥガル.md" title="wikilink">スポルティングCP</a></p></td>
 <td><p>0–0</p></td>
 <td><p>0–1</p></td>
 <td><p>'''0-1</p></td>
@@ -109,7 +109,7 @@
 <td><p>1986-87</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズカップ_1986-87" title="wikilink">UEFAチャンピオンズカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ベシクタシュJK" title="wikilink">ベシクタシュ</a></p></td>
+<td><p><a href="../Page/ベシクタシュJK.md" title="wikilink">ベシクタシュ</a></p></td>
 <td><p>0–1</p></td>
 <td><p>0–2</p></td>
 <td><p>'''0-3</p></td>
@@ -137,9 +137,9 @@
 </tr>
 <tr class="even">
 <td><p>1990-91</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズカップ_1990-91" title="wikilink">UEFAチャンピオンズカップ</a></p></td>
+<td><p><a href="../Page/UEFAチャンピオンズカップ_1990-91.md" title="wikilink">UEFAチャンピオンズカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オリンピック・マルセイユ" title="wikilink">マルセイユ</a></p></td>
+<td><p><a href="../Page/オリンピック・マルセイユ.md" title="wikilink">マルセイユ</a></p></td>
 <td><p>0–0</p></td>
 <td><p>1–5</p></td>
 <td><p>'''1-5</p></td>
@@ -167,7 +167,7 @@
 </tr>
 <tr class="odd">
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブレンビーIF" title="wikilink">ブレンビーIF</a></p></td>
+<td><p><a href="../Page/ブレンビーIF.md" title="wikilink">ブレンビーIF</a></p></td>
 <td><p>0–4</p></td>
 <td><p>0–1</p></td>
 <td><p>'''0-5</p></td>
@@ -179,7 +179,7 @@
 <td><p>2003-04</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_2003-04" title="wikilink">UEFAカップ</a></p></td>
 <td><p>予選ラウンド</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スポルティング・ロケレン" title="wikilink">スポルティング・ロケレン</a></p></td>
+<td><p><a href="../Page/スポルティング・ロケレン.md" title="wikilink">スポルティング・ロケレン</a></p></td>
 <td><p>0–4</p></td>
 <td><p>1–3</p></td>
 <td><p>'''1-7</p></td>
@@ -209,7 +209,7 @@
 <td><p>2006-07</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_2006-07" title="wikilink">UEFAカップ</a></p></td>
 <td><p>予選1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PFC_CSKAソフィア" title="wikilink">CSKA</a></p></td>
+<td><p><a href="../Page/PFC_CSKAソフィア.md" title="wikilink">CSKA</a></p></td>
 <td><p>0–1</p></td>
 <td><p>1–4</p></td>
 <td><p>'''1-5</p></td>
@@ -239,7 +239,7 @@
 <td><p>2010-11</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2010-11" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCシェリフ・ティラスポリ" title="wikilink">シェリフ・ティラスポリ</a></p></td>
+<td><p><a href="../Page/FCシェリフ・ティラスポリ.md" title="wikilink">シェリフ・ティラスポリ</a></p></td>
 <td><p>1–0</p></td>
 <td><p>1–3</p></td>
 <td><p>'''2-3</p></td>
@@ -258,7 +258,7 @@
 
 ### DF
 
-  - [ルディ・バタ](https://ja.wikipedia.org/wiki/ルディ・バタ "wikilink") 1990-1991
+  - [ルディ・バタ](../Page/ルディ・バタ.md "wikilink") 1990-1991
 
   - [エリオン・ジャファ](https://ja.wikipedia.org/wiki/エリオン・ジャファ "wikilink") 2000-2001, 2004-2007
 

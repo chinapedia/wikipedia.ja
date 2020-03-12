@@ -1,27 +1,27 @@
 > この記事は[TOMONY](https://ja.wikipedia.org/wiki/TOMONY)から翻訳されています。
 
 
-[thumb店](https://ja.wikipedia.org/wiki/ファイル:Seibu_TOMONY_Ekoda-store.jpg "wikilink")（ウォークイン販売方式）\]\] **TOMONY**（トモニー）は、[西武鉄道](../Page/西武鉄道.md "wikilink")が[ファミリーマートと](https://ja.wikipedia.org/wiki/ファミリーマート_\(企業\) "wikilink")[フランチャイズ](../Page/フランチャイズ.md "wikilink")契約して出店している、駅構内（[駅ナカ](https://ja.wikipedia.org/wiki/駅ナカ "wikilink")）の[売店](https://ja.wikipedia.org/wiki/売店 "wikilink")である。
+[thumb店](https://ja.wikipedia.org/wiki/ファイル:Seibu_TOMONY_Ekoda-store.jpg "wikilink")（ウォークイン販売方式）\]\] **TOMONY**（トモニー）は、[西武鉄道](../Page/西武鉄道.md "wikilink")が[ファミリーマートと](https://ja.wikipedia.org/wiki/ファミリーマート_\(企業\) "wikilink")[フランチャイズ](../Page/フランチャイズ.md "wikilink")契約して出店している、駅構内（[駅ナカ](../Page/駅ナカ.md "wikilink")）の[売店](../Page/売店.md "wikilink")である。
 
 ## 概説
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink")に、西武鉄道とファミリーマートが新しい形態の駅売店を共同運営することで合意\[1\]\[2\]。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[7月3日](https://ja.wikipedia.org/wiki/7月3日 "wikilink")に、トライアル店舗（実験店舗）の3店舗が、ウォークイン販売方式（コンビニエンスストア類似型）として[西武池袋線](https://ja.wikipedia.org/wiki/西武池袋線 "wikilink")[練馬駅](https://ja.wikipedia.org/wiki/練馬駅 "wikilink")に、ステップイン販売方式（小形店舗型）として[西所沢駅](https://ja.wikipedia.org/wiki/西所沢駅 "wikilink")に、カウンター販売方式（対面式売店型）として[練馬高野台駅](https://ja.wikipedia.org/wiki/練馬高野台駅 "wikilink")に、それぞれ開店した。3か月間の実証実験を終えた後、同年[12月20日](../Page/12月20日.md "wikilink")に[高田馬場駅](https://ja.wikipedia.org/wiki/高田馬場駅 "wikilink")橋上店（橋上駅舎内）が開店した。その後、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月9日](../Page/2月9日.md "wikilink")に[武蔵藤沢駅](https://ja.wikipedia.org/wiki/武蔵藤沢駅 "wikilink")店、同年4月に[国分寺駅](https://ja.wikipedia.org/wiki/国分寺駅 "wikilink")店、[中村橋駅](https://ja.wikipedia.org/wiki/中村橋駅 "wikilink")店と展開を進めている。今後、全92駅中約70駅にある店舗を、TOMONYに転換する予定である。
+[2007年](../Page/2007年.md "wikilink")[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink")に、西武鉄道とファミリーマートが新しい形態の駅売店を共同運営することで合意\[1\]\[2\]。[2007年](../Page/2007年.md "wikilink")[7月3日](../Page/7月3日.md "wikilink")に、トライアル店舗（実験店舗）の3店舗が、ウォークイン販売方式（コンビニエンスストア類似型）として[西武池袋線](https://ja.wikipedia.org/wiki/西武池袋線 "wikilink")[練馬駅](https://ja.wikipedia.org/wiki/練馬駅 "wikilink")に、ステップイン販売方式（小形店舗型）として[西所沢駅](https://ja.wikipedia.org/wiki/西所沢駅 "wikilink")に、カウンター販売方式（対面式売店型）として[練馬高野台駅](https://ja.wikipedia.org/wiki/練馬高野台駅 "wikilink")に、それぞれ開店した。3か月間の実証実験を終えた後、同年[12月20日](../Page/12月20日.md "wikilink")に[高田馬場駅](https://ja.wikipedia.org/wiki/高田馬場駅 "wikilink")橋上店（橋上駅舎内）が開店した。その後、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月9日](../Page/2月9日.md "wikilink")に[武蔵藤沢駅](https://ja.wikipedia.org/wiki/武蔵藤沢駅 "wikilink")店、同年4月に[国分寺駅](https://ja.wikipedia.org/wiki/国分寺駅 "wikilink")店、[中村橋駅](https://ja.wikipedia.org/wiki/中村橋駅 "wikilink")店と展開を進めている。今後、全92駅中約70駅にある店舗を、TOMONYに転換する予定である。
 
 ファミリーマートと共に（トモニ）、お客さまと共に（トモニ）、地域と共に（トモニ）、店舗を成長させていくと意味を込めて、TOMONYと名付けた。
 
-従来の西武鉄道駅構内にあった売店とは異なり、[POSシステムを利用するなど効率化を図っている](../Page/販売時点情報管理.md "wikilink")。[PASMO](https://ja.wikipedia.org/wiki/PASMO "wikilink")・[Suica](../Page/Suica.md "wikilink")等の交通系電子マネーの他、[ファミマTカード](https://ja.wikipedia.org/wiki/ファミマTカード "wikilink")及び[プリンスカードを含むクレジットカード](https://ja.wikipedia.org/wiki/西武グループ "wikilink")・デビットカードでの決済（店舗で確認済み）で商品の代金を払える。かつては通常のファミリーマートでは決済可能な[WAON](../Page/WAON.md "wikilink")、[Edy](https://ja.wikipedia.org/wiki/Edy "wikilink")、[iD](https://ja.wikipedia.org/wiki/iD "wikilink")、[QuicPayの利用は出来なかったが](https://ja.wikipedia.org/wiki/QUICPay "wikilink")2018年から大泉学園駅店や高田馬場駅店で試験導入され、2018年7月頃から順次拡大されTOMONY全店で利用可能になった。(かつてはTマネーや交通系を含む電子マネーチャージも不可能だった)。なお、Tマネー・Tポイントや[QUOカード](https://ja.wikipedia.org/wiki/QUOカード "wikilink")による決済は利用できる。
+従来の西武鉄道駅構内にあった売店とは異なり、[POSシステムを利用するなど効率化を図っている](../Page/販売時点情報管理.md "wikilink")。[PASMO](../Page/PASMO.md "wikilink")・[Suica](../Page/Suica.md "wikilink")等の交通系電子マネーの他、[ファミマTカード](../Page/ファミマTカード.md "wikilink")及び[プリンスカードを含むクレジットカード](../Page/西武グループ.md "wikilink")・デビットカードでの決済（店舗で確認済み）で商品の代金を払える。かつては通常のファミリーマートでは決済可能な[WAON](../Page/WAON.md "wikilink")、[Edy](https://ja.wikipedia.org/wiki/Edy "wikilink")、[iD](https://ja.wikipedia.org/wiki/iD "wikilink")、[QuicPayの利用は出来なかったが](../Page/QUICPay.md "wikilink")2018年から大泉学園駅店や高田馬場駅店で試験導入され、2018年7月頃から順次拡大されTOMONY全店で利用可能になった。(かつてはTマネーや交通系を含む電子マネーチャージも不可能だった)。なお、Tマネー・Tポイントや[QUOカード](https://ja.wikipedia.org/wiki/QUOカード "wikilink")による決済は利用できる。
 
 ポイント付与は[Tポイントかプリンスカードのどちらか](https://ja.wikipedia.org/wiki/ティーポイント "wikilink")1枚のみとなっていたが、[2014年](../Page/2014年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")からはスマイルリンクサービスでプリンスカードと紐付けされたPASMOで支払う際にTカードを呈示することにより、プリンスポイントとTポイントが同時に付与されるようになる\[3\]。またプリンスカードそのものの提示によってはポイントがたまらないよう変更された。
 
-なお、練馬駅店等一部の店舗には、[イーネット](../Page/イーネット.md "wikilink")[ATMや](../Page/現金自動預け払い機.md "wikilink")[Famiポート](https://ja.wikipedia.org/wiki/Famiポート "wikilink")が設置されている。
+なお、練馬駅店等一部の店舗には、[イーネット](../Page/イーネット.md "wikilink")[ATMや](../Page/現金自動預け払い機.md "wikilink")[Famiポート](../Page/Famiポート.md "wikilink")が設置されている。
 
 また、一般的なコンビニエンスストアと同様に[酒](../Page/酒.md "wikilink")や[たばこ](../Page/たばこ.md "wikilink")の販売も行っている(所沢駅改札内店・下井草店除く)。
 
 ## 店舗形態
 
   - ウォークイン販売方式 - 一般的な[コンビニエンスストア](../Page/コンビニエンスストア.md "wikilink")の約半分程度の売り場面積を持つ店舗。店舗によっては同規模のものもある。
-  - ステップイン販売方式 - ウォークイン販売方式より売り場面積が小さく、[飲料](https://ja.wikipedia.org/wiki/飲料 "wikilink")、[中食](https://ja.wikipedia.org/wiki/中食 "wikilink")、[菓子](../Page/菓子.md "wikilink")、[雑誌](../Page/雑誌.md "wikilink")・[新聞](../Page/新聞.md "wikilink")、[日用品](../Page/日用品.md "wikilink")のうち緊急性の高いものなどに商品に絞った店舗。
-  - カウンター販売方式 - ステップイン販売方式より売り場面積が小さく、従来の売店と比較して[おむすび](https://ja.wikipedia.org/wiki/おむすび "wikilink")、[サンドウィッチ](https://ja.wikipedia.org/wiki/サンドウィッチ "wikilink")、[菓子パン](https://ja.wikipedia.org/wiki/菓子パン "wikilink")などを中心に品揃えを充実させた店舗。従来の売店と同じ対面式のものもあるが、同様に称される。
+  - ステップイン販売方式 - ウォークイン販売方式より売り場面積が小さく、[飲料](https://ja.wikipedia.org/wiki/飲料 "wikilink")、[中食](../Page/中食.md "wikilink")、[菓子](../Page/菓子.md "wikilink")、[雑誌](../Page/雑誌.md "wikilink")・[新聞](../Page/新聞.md "wikilink")、[日用品](../Page/日用品.md "wikilink")のうち緊急性の高いものなどに商品に絞った店舗。
+  - カウンター販売方式 - ステップイン販売方式より売り場面積が小さく、従来の売店と比較して[おむすび](https://ja.wikipedia.org/wiki/おむすび "wikilink")、[サンドウィッチ](https://ja.wikipedia.org/wiki/サンドウィッチ "wikilink")、[菓子パン](../Page/菓子パン.md "wikilink")などを中心に品揃えを充実させた店舗。従来の売店と同じ対面式のものもあるが、同様に称される。
   - 自動販売機型店舗 - 飲料の他にパンやおむすび、小型の菓子及び氷菓を販売できる自動販売機を数台並べた並べた無人店舗で酒やタバコの取扱いはしていない。椎名町駅、鷹の台駅、下井草駅、萩山駅、入曽駅、井荻駅の各店舗が2018年6月29日に一斉に閉店し転換工事を行い同年7月から順次無人店舗として開店している。
 
 ## 開業店舗駅
@@ -44,7 +44,7 @@
   - [飯能駅](https://ja.wikipedia.org/wiki/飯能駅 "wikilink") - 改札内ステップイン販売方式。
   - [上石神井駅](https://ja.wikipedia.org/wiki/上石神井駅 "wikilink") - 改札内カウンター販売方式。
   - [小平駅](https://ja.wikipedia.org/wiki/小平駅 "wikilink") - 改札内カウンター販売方式。
-  - [玉川上水駅](../Page/玉川上水駅.md "wikilink") - 改札内ステップイン販売方式。改札外からの利用可。2008年12月3日開店。[多摩都市モノレール](https://ja.wikipedia.org/wiki/多摩都市モノレール "wikilink")駅にもファミリーマート玉川上水駅店があり、近接競合している。
+  - [玉川上水駅](../Page/玉川上水駅.md "wikilink") - 改札内ステップイン販売方式。改札外からの利用可。2008年12月3日開店。[多摩都市モノレール](../Page/多摩都市モノレール.md "wikilink")駅にもファミリーマート玉川上水駅店があり、近接競合している。
   - [保谷駅](https://ja.wikipedia.org/wiki/保谷駅 "wikilink") - 改札外ステップイン販売方式。 2009年1月14日開店。
   - [ひばりヶ丘駅](https://ja.wikipedia.org/wiki/ひばりヶ丘駅 "wikilink") - 改札外ステップイン販売方式。 2009年1月14日開店。
   - [秋津駅](https://ja.wikipedia.org/wiki/秋津駅 "wikilink") - 改札内ステップイン販売方式。2009年1月28日開店。2018年9月27日リニューアル。
@@ -74,7 +74,7 @@
   - [石神井公園駅](https://ja.wikipedia.org/wiki/石神井公園駅 "wikilink") - 改札外ウォークイン販売方式。[2012年](../Page/2012年.md "wikilink")[1月27日](../Page/1月27日.md "wikilink")開店。
   - [池袋駅](https://ja.wikipedia.org/wiki/池袋駅 "wikilink")（地下改札1階） - 改札内ステップイン販売方式で「池袋駅B店」と称する。2012年[2月29日](../Page/2月29日.md "wikilink")開店。
   - [所沢駅](https://ja.wikipedia.org/wiki/所沢駅 "wikilink") - 改札外ウォークイン販売方式。Famiポートあり。2012年[3月8日](../Page/3月8日.md "wikilink")開店。
-  - [小川駅](../Page/小川駅_\(東京都\).md "wikilink") - 改札内ステップイン販売方式。2012年[3月21日](https://ja.wikipedia.org/wiki/3月21日 "wikilink")開店。
+  - [小川駅](../Page/小川駅_\(東京都\).md "wikilink") - 改札内ステップイン販売方式。2012年[3月21日](../Page/3月21日.md "wikilink")開店。
   - [下落合駅](https://ja.wikipedia.org/wiki/下落合駅 "wikilink") - 改札外カウンター販売方式。2012年[5月29日](../Page/5月29日.md "wikilink")開店。開店時間が短かく午前中のみの営業であった。その後2016年ごろには閉店している。
   - [拝島駅](https://ja.wikipedia.org/wiki/拝島駅 "wikilink") - 改札外ステップイン販売方式。2012年[7月28日](../Page/7月28日.md "wikilink")開店。
   - [西武新宿駅](https://ja.wikipedia.org/wiki/西武新宿駅 "wikilink") - 改札外ウォークイン販売方式。Famiポートあり。2012年[8月28日](../Page/8月28日.md "wikilink")開店。
@@ -90,7 +90,7 @@
 
 ## 関連項目
 
-  - [駅ナカ](https://ja.wikipedia.org/wiki/駅ナカ "wikilink")
+  - [駅ナカ](../Page/駅ナカ.md "wikilink")
   - [Emio](https://ja.wikipedia.org/wiki/Emio "wikilink")
 
 ## 外部リンク

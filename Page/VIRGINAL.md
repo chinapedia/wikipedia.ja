@@ -8,9 +8,9 @@
 ### A面
 
 1.  **ガールフレンド**
-      - 作詞: [小倉めぐみ](https://ja.wikipedia.org/wiki/小倉めぐみ "wikilink")、作曲: [木戸泰弘](../Page/木戸やすひろ.md "wikilink")、編曲: [萩田光雄](https://ja.wikipedia.org/wiki/萩田光雄 "wikilink")、コーラス・アレンジ: 木戸泰弘、萩田光雄
+      - 作詞: [小倉めぐみ](https://ja.wikipedia.org/wiki/小倉めぐみ "wikilink")、作曲: [木戸泰弘](../Page/木戸やすひろ.md "wikilink")、編曲: [萩田光雄](../Page/萩田光雄.md "wikilink")、コーラス・アレンジ: 木戸泰弘、萩田光雄
 2.  **砂に埋めたSECRET**
-      - 作詞: [青木久美子](https://ja.wikipedia.org/wiki/青木久美子 "wikilink")、作曲: [亀井登志夫](https://ja.wikipedia.org/wiki/亀井登志夫 "wikilink")、編曲: 萩田光雄
+      - 作詞: [青木久美子](https://ja.wikipedia.org/wiki/青木久美子 "wikilink")、作曲: [亀井登志夫](../Page/亀井登志夫.md "wikilink")、編曲: 萩田光雄
 3.  **ニュー・イヤー・イヴ**
       - 作詞: [田口俊](https://ja.wikipedia.org/wiki/田口俊 "wikilink")、作曲: 亀井登志夫、編曲: 萩田光雄
 4.  **ベルベット・シークレット**
@@ -18,12 +18,12 @@
 5.  **呼びすてにしないで**
       - 作詞: 田口俊、作曲: 亀井登志夫、編曲: 萩田光雄
 6.  **黄昏の図書館**
-      - 作詞: 田口俊、作曲: [鈴木雄大](https://ja.wikipedia.org/wiki/鈴木雄大 "wikilink")、編曲: 萩田光雄
+      - 作詞: 田口俊、作曲: [鈴木雄大](../Page/鈴木雄大.md "wikilink")、編曲: 萩田光雄
 
 ### B面
 
 1.  **[接近（アプローチ）](https://ja.wikipedia.org/wiki/接近_\(アプローチ\) "wikilink")**
-      - 作詞: [森田記](https://ja.wikipedia.org/wiki/康珍化 "wikilink")、作曲: 亀井登志夫、編曲: 萩田光雄
+      - 作詞: [森田記](../Page/康珍化.md "wikilink")、作曲: 亀井登志夫、編曲: 萩田光雄
 2.  **私の中のヴァージニア**
       - 作詞: [戸沢暢美](https://ja.wikipedia.org/wiki/戸沢暢美 "wikilink")、作曲: 木戸泰弘、編曲: 萩田光雄
 3.  **ムーン・ランデヴー**

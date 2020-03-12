@@ -3,8 +3,8 @@
 
 『**GO\!GO\!ドラゴンズ**』（ゴーゴー ドラゴンズ）とは、
 
-1.  [1977年](../Page/1977年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[1989年](../Page/1989年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[中部日本放送](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")（CBC）で放送された、[中日ドラゴンズ](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")の情報を伝える[ミニ番組](https://ja.wikipedia.org/wiki/ミニ番組 "wikilink")。
-2.  [テレビ愛知](../Page/テレビ愛知.md "wikilink")で中日ドラゴンズ主催試合生中継『[テレビ愛知　10チャンベースボール](https://ja.wikipedia.org/wiki/テレビ愛知_10チャンベースボール "wikilink")』の後に放送されているミニ番組。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")度から放送されている。
+1.  [1977年](../Page/1977年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[1989年](../Page/1989年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[中部日本放送](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")（CBC）で放送された、[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")の情報を伝える[ミニ番組](../Page/ミニ番組.md "wikilink")。
+2.  [テレビ愛知](../Page/テレビ愛知.md "wikilink")で中日ドラゴンズ主催試合生中継『[テレビ愛知　10チャンベースボール](../Page/テレビ愛知_10チャンベースボール.md "wikilink")』の後に放送されているミニ番組。[2007年](../Page/2007年.md "wikilink")度から放送されている。
 
 ## CBC版
 
@@ -12,7 +12,7 @@
 
 通年放送されていた番組で、[自主トレ・キャンプ期間中はそれらの模様を](../Page/キャンプ_\(日本プロ野球\).md "wikilink")、シーズン中は当日のドラゴンズの結果（試合がない日はチーム・選手の情報）を、[シーズンオフはドラゴンズ選手へのインタビューやシーズンを振り返る企画などを放送していた](https://ja.wikipedia.org/wiki/ストーブリーグ "wikilink")。CBCの女性アナウンサーが輪番制でキャスターを務めていた。
 
-[スポンサー](https://ja.wikipedia.org/wiki/スポンサー "wikilink")は曜日別の[単独提供であり](https://ja.wikipedia.org/wiki/一社提供 "wikilink")、[三洋電機](../Page/三洋電機.md "wikilink")、[カゴメ](https://ja.wikipedia.org/wiki/カゴメ "wikilink")（愛知県発祥の企業）、[佐川急便](../Page/佐川急便.md "wikilink")などが担当していた。帯で佐川急便が担当していた時期もあった。
+[スポンサー](../Page/スポンサー.md "wikilink")は曜日別の[単独提供であり](../Page/一社提供.md "wikilink")、[三洋電機](../Page/三洋電機.md "wikilink")、[カゴメ](../Page/カゴメ.md "wikilink")（愛知県発祥の企業）、[佐川急便](../Page/佐川急便.md "wikilink")などが担当していた。帯で佐川急便が担当していた時期もあった。
 
 1989年4月3日より、『CBCニュース24』開始にともないドラゴンズ情報もこの番組内に内包する形をとったため、1989年3月31日で放送を終了した。
 
@@ -20,7 +20,7 @@
 
 日曜・月曜を除く22:54 - 23:00 ([JST](../Page/日本標準時.md "wikilink")) 。途中、同22:54 - 22:57に変更。
 
-通年放送だったが、『[JNNナイター](https://ja.wikipedia.org/wiki/SAMURAI_BASEBALL "wikilink")』の延長や特別編成などで放送時間が繰り下げられる場合があった。なお、日曜に放送されなかった理由は、当時の[TBS系列](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")22時台がCBC制作の全国ネット番組『[すばらしき仲間](../Page/すばらしき仲間.md "wikilink")』と[毎日放送制作番組の](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")30分枠2本立ての編成で枠が取れなかったためで、月曜に放送されなかった理由は、普段プロ野球公式戦があまり組まれないためである。
+通年放送だったが、『[JNNナイター](https://ja.wikipedia.org/wiki/SAMURAI_BASEBALL "wikilink")』の延長や特別編成などで放送時間が繰り下げられる場合があった。なお、日曜に放送されなかった理由は、当時の[TBS系列](../Page/TBSテレビ.md "wikilink")22時台がCBC制作の全国ネット番組『[すばらしき仲間](../Page/すばらしき仲間.md "wikilink")』と[毎日放送制作番組の](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")30分枠2本立ての編成で枠が取れなかったためで、月曜に放送されなかった理由は、普段プロ野球公式戦があまり組まれないためである。
 
 ## TVA版
 
@@ -40,10 +40,10 @@
 
 ## 関連項目
 
-  - [木俣達彦の燃えよドラゴンズ](https://ja.wikipedia.org/wiki/木俣達彦の燃えよドラゴンズ "wikilink")（中部日本放送）
+  - [木俣達彦の燃えよドラゴンズ](../Page/木俣達彦の燃えよドラゴンズ.md "wikilink")（中部日本放送）
   - [サンデードラゴンズ](../Page/サンデードラゴンズ.md "wikilink")（[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")）
-  - [ドラゴンズTODAY](https://ja.wikipedia.org/wiki/ドラゴンズTODAY "wikilink")（[東海テレビ](../Page/東海テレビ放送.md "wikilink")）
-  - [テレビ愛知　10チャンベースボール](https://ja.wikipedia.org/wiki/テレビ愛知_10チャンベースボール "wikilink")（テレビ愛知） - テレビ愛知におけるドラゴンズ戦のローカル中継タイトル。この中継タイトルで行われた場合に『GO\!GO\!ドラゴンズ』が放送される。
+  - [ドラゴンズTODAY](../Page/ドラゴンズTODAY.md "wikilink")（[東海テレビ](../Page/東海テレビ放送.md "wikilink")）
+  - [テレビ愛知　10チャンベースボール](../Page/テレビ愛知_10チャンベースボール.md "wikilink")（テレビ愛知） - テレビ愛知におけるドラゴンズ戦のローカル中継タイトル。この中継タイトルで行われた場合に『GO\!GO\!ドラゴンズ』が放送される。
   - [MYドラゴンズ](https://ja.wikipedia.org/wiki/MYドラゴンズ "wikilink")（テレビ愛知） - 当番組と同様に、80年代の平日22:50-57に放送されていた番組。本番組のCBC版の裏番組でもある。
   - [ちびっこ展](https://ja.wikipedia.org/wiki/ちびっこ展 "wikilink") - この番組と同じく、途中で放送局がCBCテレビからテレビ愛知に変わったミニ番組。
 

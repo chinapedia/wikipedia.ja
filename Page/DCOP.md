@@ -19,7 +19,7 @@ DCOPを組み込んだアプリケーションと[シェル](../Page/シェル.m
 
 ` dcop kdesktop KBackgroundIface currentWallpaper 1`
 
-は、デスクトップ 1 の現在の壁紙のファイル名を得ることができる（KDEを含むXのデスクトップ環境では、[仮想デスクトップ](https://ja.wikipedia.org/wiki/仮想デスクトップ "wikilink")を複数サポートしているのが一般的である）。これらを組み合わせてシェルスクリプトを組めば、壁紙を切り換えて、前に表示していた壁紙を削除することができる。例えば、次のようになる。
+は、デスクトップ 1 の現在の壁紙のファイル名を得ることができる（KDEを含むXのデスクトップ環境では、[仮想デスクトップ](../Page/仮想デスクトップ.md "wikilink")を複数サポートしているのが一般的である）。これらを組み合わせてシェルスクリプトを組めば、壁紙を切り換えて、前に表示していた壁紙を削除することができる。例えば、次のようになる。
 
 ``  OLDWALLPAPER=`dcop kdesktop KBackgroundIface currentWallpaper 1` ``
 ` dcop kdesktop KBackgroundIface changeWallpaper`
@@ -33,7 +33,7 @@ DCOPを組み込んだアプリケーションと[シェル](../Page/シェル.m
 
 DCOPでは2種類のアクションが可能である。"send and forget" メッセージは送信するだけで、ブロックされない。"calls" はデータが返されるのを待つ。
 
-送信データは、[Qt](https://ja.wikipedia.org/wiki/Qt "wikilink")の全てのクラスに備わっているQDataStreamオペレータを使って[シリアライズ](../Page/シリアライズ.md "wikilink")される。これは高速で単純であり、マーシャリングのためのコードを書くのも簡単である。さらに[IDL風のコンパイラがあり](../Page/インタフェース記述言語.md "wikilink")（dcopidlと dcopidl2cpp）、スタブとスケルトンを生成できる。dcopidlコンパイラを使うと、データ型を間違えないという利点もある。
+送信データは、[Qt](../Page/Qt.md "wikilink")の全てのクラスに備わっているQDataStreamオペレータを使って[シリアライズ](../Page/シリアライズ.md "wikilink")される。これは高速で単純であり、マーシャリングのためのコードを書くのも簡単である。さらに[IDL風のコンパイラがあり](../Page/インタフェース記述言語.md "wikilink")（dcopidlと dcopidl2cpp）、スタブとスケルトンを生成できる。dcopidlコンパイラを使うと、データ型を間違えないという利点もある。
 
 [D-Bus](../Page/D-Bus.md "wikilink")は [freedesktop.org](https://ja.wikipedia.org/wiki/freedesktop.org "wikilink") が標準化したメッセージバスシステムであり、DCOPから強い影響を受けている。KDEの次のバージョンである KDE4では、DCOPが[D-Bus](../Page/D-Bus.md "wikilink")に置き換えられる予定である。
 

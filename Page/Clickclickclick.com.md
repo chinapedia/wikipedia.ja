@@ -19,7 +19,7 @@
 
 最初期は汎用[スクリプト](../Page/スクリプト.md "wikilink")ツールが使い放題だったため、記録が取り消され大多数の規制がなされた。その後も自動化された初期ツールの多様対策から、Game2途中より認証画面制度がスタートしている。
 
-以前は認証画像が使いまわされていたため画像パターンと認証文字の組み合わせを記録してデータベース化し、認証画像を自動で突破する**自動認証**という方式が主流だったが運営側の仕様変更により自動認証が使用できなくなったため、現在は認証画像をそのつど手動で認証するかまたは認証画像を第三者に送り、その第三者が認証文字を入力して認証を突破する**他動認証**という方式がとられている。また「台湾では[OCRを使用して認証を突破するツールが開発されている](https://ja.wikipedia.org/wiki/光学文字認識 "wikilink")」と報告されたこともあるが、詳細は明らかになっていない。
+以前は認証画像が使いまわされていたため画像パターンと認証文字の組み合わせを記録してデータベース化し、認証画像を自動で突破する**自動認証**という方式が主流だったが運営側の仕様変更により自動認証が使用できなくなったため、現在は認証画像をそのつど手動で認証するかまたは認証画像を第三者に送り、その第三者が認証文字を入力して認証を突破する**他動認証**という方式がとられている。また「台湾では[OCRを使用して認証を突破するツールが開発されている](../Page/光学文字認識.md "wikilink")」と報告されたこともあるが、詳細は明らかになっていない。
 
 その後、日本・ハンガリーの両国でOCRが開発・投入され、闘いにおけるツール技術はさらに進化を続けている\[7\]\[8\]。一方で認証画像は文字数増加や複雑化が進んでおり、初心者は入りにくくなっているとも言える。
 
@@ -73,7 +73,7 @@
 </tr>
 <tr class="even">
 <td><p>Game2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a>4月16日</p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a>4月16日</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3689,11 +3689,11 @@
 </tbody>
 </table>
 
-日本では、主に巨大掲示板群[2ちゃんねる](../Page/2ちゃんねる.md "wikilink")において知名度が高まり、優秀なツールを開発・投入することで優勝87回、準優勝138回を誇っている（Game297終了時点）。Game5からは[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")・[ハンガリー](../Page/ハンガリー.md "wikilink")との三つ巴状態が続き、特にGame17～20頃からは事実上ハンガリーとの[一騎討ち](https://ja.wikipedia.org/wiki/一騎討ち "wikilink")（ことに20代はハンガリー、50・70代は日本の独走に近い状態）となっている。[ポーランド](../Page/ポーランド.md "wikilink")・[チリ](../Page/チリ.md "wikilink")・ハンガリー・台湾・[トーゴ](../Page/トーゴ.md "wikilink")・[フィンランド](https://ja.wikipedia.org/wiki/フィンランド "wikilink")と言った強豪国との対戦は、日本からの参加者たちの盛り上がりの要因の一つと言えよう。
+日本では、主に巨大掲示板群[2ちゃんねる](../Page/2ちゃんねる.md "wikilink")において知名度が高まり、優秀なツールを開発・投入することで優勝87回、準優勝138回を誇っている（Game297終了時点）。Game5からは[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")・[ハンガリー](../Page/ハンガリー.md "wikilink")との三つ巴状態が続き、特にGame17～20頃からは事実上ハンガリーとの[一騎討ち](../Page/一騎討ち.md "wikilink")（ことに20代はハンガリー、50・70代は日本の独走に近い状態）となっている。[ポーランド](../Page/ポーランド.md "wikilink")・[チリ](../Page/チリ.md "wikilink")・ハンガリー・台湾・[トーゴ](../Page/トーゴ.md "wikilink")・[フィンランド](../Page/フィンランド.md "wikilink")と言った強豪国との対戦は、日本からの参加者たちの盛り上がりの要因の一つと言えよう。
 
 ## マスコミの報道
 
-ハンガリーでは、民放局であるRTL Klubで[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[5月28日](../Page/5月28日.md "wikilink")18時48分ごろ（[中央ヨーロッパ夏時間](https://ja.wikipedia.org/wiki/中央ヨーロッパ夏時間 "wikilink")）にニュースで放送された。放送時間はおよそ1分30秒であった\[12\]。更に、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink")には国営テレビ局のニュースで放送された\[13\]。
+ハンガリーでは、民放局であるRTL Klubで[2007年](../Page/2007年.md "wikilink")[5月28日](../Page/5月28日.md "wikilink")18時48分ごろ（[中央ヨーロッパ夏時間](https://ja.wikipedia.org/wiki/中央ヨーロッパ夏時間 "wikilink")）にニュースで放送された。放送時間はおよそ1分30秒であった\[12\]。更に、[2007年](../Page/2007年.md "wikilink")[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink")には国営テレビ局のニュースで放送された\[13\]。
 
 日本では[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月4日](../Page/4月4日.md "wikilink")、[NHKのテレビ番組](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[ザ☆ネットスター](https://ja.wikipedia.org/wiki/ザ☆ネットスター "wikilink")の冒頭で「世界クリック選手権」と題され紹介された\[14\]。[BSフジ](../Page/BSフジ.md "wikilink")のテレビ番組『[ワッチミー\!TV×TV](https://ja.wikipedia.org/wiki/ワッチミー!TV#ワッチミー!TV×TV（BS番組） "wikilink")』でも2009年9月27日放送回でイギリス発祥の「クリック選手権」として紹介された\[15\]。同番組ではハンガリーでの[社会現象](../Page/社会現象.md "wikilink")の面も取り上げられた。
 
@@ -3701,11 +3701,11 @@
 
 ## その他
 
-  - Game1以前に、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[3月12日](../Page/3月12日.md "wikilink")から開催された「Game0」と呼ばれたゲームが存在するが、先述の汎用スクリプトの多用で、[ポルトガル](../Page/ポルトガル.md "wikilink")・[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")・[イスラエル](../Page/イスラエル.md "wikilink")・[カタール](https://ja.wikipedia.org/wiki/カタール "wikilink")・[オーストリア](../Page/オーストリア.md "wikilink")・[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")・[オーストラリア](https://ja.wikipedia.org/wiki/オーストラリア "wikilink")・[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")の9ヶ国がカウンターストップ（以前は国別総クリック数が2,147,483,647Clickに到達するとカウンターが対応出来なくなって停止した）を起こし、無効ゲームとなっている\[16\]。
+  - Game1以前に、[2007年](../Page/2007年.md "wikilink")[3月12日](../Page/3月12日.md "wikilink")から開催された「Game0」と呼ばれたゲームが存在するが、先述の汎用スクリプトの多用で、[ポルトガル](../Page/ポルトガル.md "wikilink")・[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")・[イスラエル](../Page/イスラエル.md "wikilink")・[カタール](../Page/カタール.md "wikilink")・[オーストリア](../Page/オーストリア.md "wikilink")・[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")・[オーストラリア](../Page/オーストラリア.md "wikilink")・[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")の9ヶ国がカウンターストップ（以前は国別総クリック数が2,147,483,647Clickに到達するとカウンターが対応出来なくなって停止した）を起こし、無効ゲームとなっている\[16\]。
   - 上記カウンターストップの対策は一応なされている模様で、Game5で日本がこの記録を抜いている（2,367,983,185Click）\[17\]\[18\]。なお、これまでの最高記録はGame14の日本の3,270,354,781Click。
   - 強豪国と戦ううちに外交関係が生まれることもあり、日本・ハンガリー・台湾との相互交流も行われている\[19\]。
   - 開催国・イギリスの順位は総じて10位前後が多く、ネット人口などを考慮すれば同ゲームが流行っているとは言いがたい\[20\]\[21\]。
-  - 一部の[プロキシ](https://ja.wikipedia.org/wiki/プロキシ "wikilink")サーバを使用すれば、自国とは別の国から参戦が可能である。このことを利用して、[南極大陸](../Page/南極大陸.md "wikilink")などから参戦するものがいる（現在ではChange Countryから容易に参加国を変更することができる）\[22\]。
+  - 一部の[プロキシ](../Page/プロキシ.md "wikilink")サーバを使用すれば、自国とは別の国から参戦が可能である。このことを利用して、[南極大陸](../Page/南極大陸.md "wikilink")などから参戦するものがいる（現在ではChange Countryから容易に参加国を変更することができる）\[22\]。
   - 管理人は同ページでTシャツとマグカップを販売している\[23\]。
 
 ## 脚注

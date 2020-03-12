@@ -1,7 +1,7 @@
 > この記事は[X.Org Server](https://ja.wikipedia.org/wiki/X.Org_Server)から翻訳されています。
 
 
-**X.Org Server**（X.Org Foundation Open Source Public Implementation of X11）とは、[X Window Systemの公式](../Page/X_Window_System.md "wikilink")[リファレンス実装](https://ja.wikipedia.org/wiki/リファレンス実装 "wikilink")である。[オープンソース](../Page/オープンソース.md "wikilink")であり、かつ[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")である。 プロジェクト運営組織は [X.Org Foundation](../Page/X.Org_Foundation.md "wikilink") であり、[freedesktop.org](https://ja.wikipedia.org/wiki/freedesktop.org "wikilink") の援助を受けている。
+**X.Org Server**（X.Org Foundation Open Source Public Implementation of X11）とは、[X Window Systemの公式](../Page/X_Window_System.md "wikilink")[リファレンス実装](../Page/リファレンス実装.md "wikilink")である。[オープンソース](../Page/オープンソース.md "wikilink")であり、かつ[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")である。 プロジェクト運営組織は [X.Org Foundation](../Page/X.Org_Foundation.md "wikilink") であり、[freedesktop.org](https://ja.wikipedia.org/wiki/freedesktop.org "wikilink") の援助を受けている。
 
 ## 歴史
 
@@ -13,7 +13,7 @@ X11R6.9.0/X11R7.0.0 のリリースでは第一に、[GNU Autotools](../Page/Aut
 
 ## 採用例
 
-X.Org Server は、[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")や[BSD](../Page/BSD.md "wikilink")系や[Solaris](../Page/Solaris.md "wikilink")（かつてはSPARC系では独自の[Xsun](https://ja.wikipedia.org/wiki/Xsun "wikilink")を使用していた）など、[UNIX](../Page/UNIX.md "wikilink")系オペレーティングシステムのほぼ全てで採用されている。また、X.Org Server は、[Microsoft Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") 向けでは [Cygwin](../Page/Cygwin.md "wikilink") 併用で [Cygwin/X](https://ja.wikipedia.org/wiki/Cygwin/X "wikilink") (XWin) として、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink") 向けは [X11.app](https://ja.wikipedia.org/wiki/X11.app "wikilink") (XQuartz) として公開されている。その他、[Xming](https://ja.wikipedia.org/wiki/Xming "wikilink") などオープンソースやプロプライエタリなどで派生したものが多数ある。
+X.Org Server は、[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")や[BSD](../Page/BSD.md "wikilink")系や[Solaris](../Page/Solaris.md "wikilink")（かつてはSPARC系では独自の[Xsun](https://ja.wikipedia.org/wiki/Xsun "wikilink")を使用していた）など、[UNIX](../Page/UNIX.md "wikilink")系オペレーティングシステムのほぼ全てで採用されている。また、X.Org Server は、[Microsoft Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") 向けでは [Cygwin](../Page/Cygwin.md "wikilink") 併用で [Cygwin/X](https://ja.wikipedia.org/wiki/Cygwin/X "wikilink") (XWin) として、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink") 向けは [X11.app](../Page/X11.app.md "wikilink") (XQuartz) として公開されている。その他、[Xming](https://ja.wikipedia.org/wiki/Xming "wikilink") などオープンソースやプロプライエタリなどで派生したものが多数ある。
 
 ## リリース履歴
 

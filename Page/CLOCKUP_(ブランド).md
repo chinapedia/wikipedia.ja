@@ -1,7 +1,7 @@
 > この記事は[CLOCKUP \(\)](https://ja.wikipedia.org/wiki/CLOCKUP_\(\))から翻訳されています。
 
 
-**CLOCKUP**（**クロックアップ**）は株式会社エンタコンの[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランド。サブブランドに「[銀時計](https://ja.wikipedia.org/wiki/銀時計_\(ブランド\) "wikilink")」がある。当初は[コンピュータソフトウェア倫理機構](../Page/コンピュータソフトウェア倫理機構.md "wikilink")審査だったが、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")発売の『かけた月は戻らない』以降、[コンテンツ・ソフト協同組合](../Page/コンテンツ・ソフト協同組合.md "wikilink")の審査を受けて発売している。
+**CLOCKUP**（**クロックアップ**）は株式会社エンタコンの[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランド。サブブランドに「[銀時計](https://ja.wikipedia.org/wiki/銀時計_\(ブランド\) "wikilink")」がある。当初は[コンピュータソフトウェア倫理機構](../Page/コンピュータソフトウェア倫理機構.md "wikilink")審査だったが、[2006年](../Page/2006年.md "wikilink")発売の『かけた月は戻らない』以降、[コンテンツ・ソフト協同組合](../Page/コンテンツ・ソフト協同組合.md "wikilink")の審査を受けて発売している。
 
 ## 概要
 
@@ -19,7 +19,7 @@ CLOCKUPというブランド名は、コンピュータにおける[オーバー
 
 ### CLOCKUP
 
-  - 2002年9月13日 - [けがれた英雄 〜邪淫聖女狩〜](https://ja.wikipedia.org/wiki/けがれた英雄_〜邪淫聖女狩〜 "wikilink")
+  - 2002年9月13日 - [けがれた英雄 〜邪淫聖女狩〜](../Page/けがれた英雄_〜邪淫聖女狩〜.md "wikilink")
   - 2003年5月30日 - [ECLIPSE -絶対隷奴計画・喪失少女-](https://ja.wikipedia.org/wiki/ECLIPSE_-絶対隷奴計画・喪失少女- "wikilink")
   - 2003年11月28日 - [プレゼンス](https://ja.wikipedia.org/wiki/プレゼンス_\(ゲーム\) "wikilink")
   - 2004年6月25日 - [黒愛 〜一夜妻館・淫口乱乳録〜](https://ja.wikipedia.org/wiki/黒愛_〜一夜妻館・淫口乱乳録〜 "wikilink")
@@ -73,7 +73,7 @@ CLOCKUPというブランド名は、コンピュータにおける[オーバー
 
 ### CLOCKUP team.DYO
 
-  - 2005年2月25日 - [ジオグラマトン](https://ja.wikipedia.org/wiki/ジオグラマトン "wikilink")
+  - 2005年2月25日 - [ジオグラマトン](../Page/ジオグラマトン.md "wikilink")
   - 2007年4月27日 - [Zwei Worter](../Page/Zwei_Worter.md "wikilink")
   - 2010年1月29日 - [ルーンロオド](https://ja.wikipedia.org/wiki/ルーンロオド "wikilink")
 
@@ -136,7 +136,7 @@ CLOCKUPというブランド名は、コンピュータにおける[オーバー
 
 ## 関連項目
 
-  - [青葉りんご](https://ja.wikipedia.org/wiki/青葉りんご "wikilink") - 黒の歌姫の声優募集からデビュー。
+  - [青葉りんご](../Page/青葉りんご.md "wikilink") - 黒の歌姫の声優募集からデビュー。
 
 ## 脚注
 

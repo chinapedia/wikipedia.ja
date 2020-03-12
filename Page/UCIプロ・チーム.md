@@ -1,7 +1,7 @@
 > この記事は[UCI](https://ja.wikipedia.org/wiki/UCI)から翻訳されています。
 
 
-**UCIプロチーム**(UCI ProTeam)とは、[国際自転車競技連合](https://ja.wikipedia.org/wiki/国際自転車競技連合 "wikilink") (UCI) による[自転車ロードレースチームの格付けの一つで](../Page/ロードレース_\(自転車競技\).md "wikilink")、トップカテゴリーである[UCIワールドチーム](https://ja.wikipedia.org/wiki/UCIワールドチーム "wikilink")の下に位置づけられるカテゴリーである。2019年までの名称は**UCIプロフェッショナルコンチネンタルチーム** (UCI Professional Continental Teams)で、日本では**プロコンチネンタルチーム**、**プロコン（チ）**などとも呼ばれた。2005年から2014年までのトップカテゴリーである「UCIプロチーム（現[UCIワールドチーム](https://ja.wikipedia.org/wiki/UCIワールドチーム "wikilink")）」とは異なる。
+**UCIプロチーム**(UCI ProTeam)とは、[国際自転車競技連合](../Page/国際自転車競技連合.md "wikilink") (UCI) による[自転車ロードレースチームの格付けの一つで](../Page/ロードレース_\(自転車競技\).md "wikilink")、トップカテゴリーである[UCIワールドチーム](https://ja.wikipedia.org/wiki/UCIワールドチーム "wikilink")の下に位置づけられるカテゴリーである。2019年までの名称は**UCIプロフェッショナルコンチネンタルチーム** (UCI Professional Continental Teams)で、日本では**プロコンチネンタルチーム**、**プロコン（チ）**などとも呼ばれた。2005年から2014年までのトップカテゴリーである「UCIプロチーム（現[UCIワールドチーム](https://ja.wikipedia.org/wiki/UCIワールドチーム "wikilink")）」とは異なる。
 
 ## 概要
 
@@ -15,9 +15,9 @@
 
 ### ビッグレースでの活躍
 
-プロフェッショナルコンチネンタルチームと所属する選手にとって、露出度の高い[UCIプロツアー](https://ja.wikipedia.org/wiki/UCIプロツアー "wikilink")や[ツール・ド・フランス](https://ja.wikipedia.org/wiki/ツール・ド・フランス "wikilink")をはじめとした[グランツール](../Page/グランツール.md "wikilink")は、格好のアピールの場であり、高いモチベーションで臨んでくる。中には特定のレースのみに照準を絞って参加してくるチームすらあり（2008年の[ジロ・デ・イタリアで活躍した](https://ja.wikipedia.org/wiki/ジロ・デ・イタリア_2008 "wikilink")[CFSグループ・ナヴィガーレ](https://ja.wikipedia.org/wiki/CFSグループ・ナヴィガーレ "wikilink")が典型）、トップカテゴリーであるUCIプロチームに勝るとも劣らない成績を上げることがままある。
+プロフェッショナルコンチネンタルチームと所属する選手にとって、露出度の高い[UCIプロツアー](../Page/UCIプロツアー.md "wikilink")や[ツール・ド・フランス](https://ja.wikipedia.org/wiki/ツール・ド・フランス "wikilink")をはじめとした[グランツール](../Page/グランツール.md "wikilink")は、格好のアピールの場であり、高いモチベーションで臨んでくる。中には特定のレースのみに照準を絞って参加してくるチームすらあり（2008年の[ジロ・デ・イタリアで活躍した](https://ja.wikipedia.org/wiki/ジロ・デ・イタリア_2008 "wikilink")[CFSグループ・ナヴィガーレ](https://ja.wikipedia.org/wiki/CFSグループ・ナヴィガーレ "wikilink")が典型）、トップカテゴリーであるUCIプロチームに勝るとも劣らない成績を上げることがままある。
 
-例えば[2007年のツール・ド・フランスではバルロワールド所属の](https://ja.wikipedia.org/wiki/ツール・ド・フランス2007 "wikilink")[マウリシオ・ソレール](https://ja.wikipedia.org/wiki/マウリシオ・ソレール "wikilink")が[山岳賞](../Page/山岳賞.md "wikilink")を獲得したほか[ロバート・ハンターはステージ](https://ja.wikipedia.org/wiki/ロバート・ハンター_\(自転車選手\) "wikilink")1勝をあげて[ポイント賞でも](https://ja.wikipedia.org/wiki/ポイント賞_\(グランツール\) "wikilink")2位に入るなど大活躍した。
+例えば[2007年のツール・ド・フランスではバルロワールド所属の](../Page/ツール・ド・フランス2007.md "wikilink")[マウリシオ・ソレール](https://ja.wikipedia.org/wiki/マウリシオ・ソレール "wikilink")が[山岳賞](../Page/山岳賞.md "wikilink")を獲得したほか[ロバート・ハンターはステージ](../Page/ロバート・ハンター_\(自転車選手\).md "wikilink")1勝をあげて[ポイント賞でも](https://ja.wikipedia.org/wiki/ポイント賞_\(グランツール\) "wikilink")2位に入るなど大活躍した。
 
 2008年の場合は、[パリ～ニース](https://ja.wikipedia.org/wiki/パリ～ニース "wikilink")では[スキル・シマノ](https://ja.wikipedia.org/wiki/スキル・シマノ "wikilink")のクレメント・ロテレリが山岳賞を獲得。このほか[ティレーノ～アドリアティコ](https://ja.wikipedia.org/wiki/ティレーノ～アドリアティコ "wikilink")や[バスク一周](../Page/バスク一周.md "wikilink")でもプロコンチーム所属の選手がステージ優勝した。
 
@@ -25,11 +25,11 @@
 
 ### 有力選手のプロコンチーム移籍
 
-2008年は有力選手のプロコンチーム移籍が相次いだ。セッラメンティには[ジロ・デ・イタリア](../Page/ジロ・デ・イタリア.md "wikilink")総合優勝2回，総合2位1回のベテラン，ジルベルト・シモーニがサウニエルデュバル・プロディールから移籍。同年の[ジロ・デ・イタリア](../Page/ジロ・デ・イタリア.md "wikilink")で活躍した他，LPRブレーキは2007年[ジロ・デ・イタリア](../Page/ジロ・デ・イタリア.md "wikilink")総合優勝の[ダニーロ・ディルーカ](https://ja.wikipedia.org/wiki/ダニーロ・ディルーカ "wikilink")をはじめジロ・デ・イタリア総合優勝2回の[パオロ・サヴォルデッリ](https://ja.wikipedia.org/wiki/パオロ・サヴォルデッリ "wikilink")，有力クライマーの[ダニエーレ・ピエトロポッリ](https://ja.wikipedia.org/wiki/ダニエーレ・ピエトロポッリ "wikilink")を獲得。スリップストリームも[ツール・ド・フランス](https://ja.wikipedia.org/wiki/ツール・ド・フランス "wikilink")や[ジロ・デ・イタリア](../Page/ジロ・デ・イタリア.md "wikilink")でステージ5勝のデヴィッド・ミラーや有力[タイムトライアルスペシャリスト](https://ja.wikipedia.org/wiki/タイムトライアルスペシャリスト "wikilink")の[デヴィッド・ザブリスキー](https://ja.wikipedia.org/wiki/デヴィッド・ザブリスキー "wikilink")を獲得している。
+2008年は有力選手のプロコンチーム移籍が相次いだ。セッラメンティには[ジロ・デ・イタリア](../Page/ジロ・デ・イタリア.md "wikilink")総合優勝2回，総合2位1回のベテラン，ジルベルト・シモーニがサウニエルデュバル・プロディールから移籍。同年の[ジロ・デ・イタリア](../Page/ジロ・デ・イタリア.md "wikilink")で活躍した他，LPRブレーキは2007年[ジロ・デ・イタリア](../Page/ジロ・デ・イタリア.md "wikilink")総合優勝の[ダニーロ・ディルーカ](../Page/ダニーロ・ディルーカ.md "wikilink")をはじめジロ・デ・イタリア総合優勝2回の[パオロ・サヴォルデッリ](../Page/パオロ・サヴォルデッリ.md "wikilink")，有力クライマーの[ダニエーレ・ピエトロポッリ](https://ja.wikipedia.org/wiki/ダニエーレ・ピエトロポッリ "wikilink")を獲得。スリップストリームも[ツール・ド・フランス](https://ja.wikipedia.org/wiki/ツール・ド・フランス "wikilink")や[ジロ・デ・イタリア](../Page/ジロ・デ・イタリア.md "wikilink")でステージ5勝のデヴィッド・ミラーや有力[タイムトライアルスペシャリスト](../Page/タイムトライアルスペシャリスト.md "wikilink")の[デヴィッド・ザブリスキー](https://ja.wikipedia.org/wiki/デヴィッド・ザブリスキー "wikilink")を獲得している。
 
 なぜプロツアーチームからプロコンチネンタルチームへの移籍が相次いだかという理由は、プロツアーチームであれば全プロツアーレースに選手を派遣するという縛りがあるため、これによってレースのスケジュールや狙うレースへの調整が難しくなっていくこと。また[カルロス・サストレ](../Page/カルロス・サストレ.md "wikilink")、[トル・フースホフト](../Page/トル・フースホフト.md "wikilink")らを獲得した[サーヴェロ・テストチーム](https://ja.wikipedia.org/wiki/サーヴェロ・テストチーム "wikilink")は設立1年目にしてツールへ出場を決めるなど、有力選手を擁していればビッグレースへのワイルドカード枠を取得出来るという前例が増えてきたため、レーススケジュールに余裕を持たせたい有力選手にとって都合が良いという事もある。
 
-2010年にもこの流れは見られ、アルカンシエル持ちの[カデル・エヴァンス](https://ja.wikipedia.org/wiki/カデル・エヴァンス "wikilink")、前年アルカンシエル戴冠の[アレッサンドロ・バッラン](https://ja.wikipedia.org/wiki/アレッサンドロ・バッラン "wikilink")、アメリカロードチャンピオンの[ジョージ・ヒンカピー](../Page/ジョージ・ヒンカピー.md "wikilink")が揃って[BMC・レーシングチーム](https://ja.wikipedia.org/wiki/BMC・レーシングチーム "wikilink")に電撃移籍を果たした。
+2010年にもこの流れは見られ、アルカンシエル持ちの[カデル・エヴァンス](../Page/カデル・エヴァンス.md "wikilink")、前年アルカンシエル戴冠の[アレッサンドロ・バッラン](https://ja.wikipedia.org/wiki/アレッサンドロ・バッラン "wikilink")、アメリカロードチャンピオンの[ジョージ・ヒンカピー](../Page/ジョージ・ヒンカピー.md "wikilink")が揃って[BMC・レーシングチーム](https://ja.wikipedia.org/wiki/BMC・レーシングチーム "wikilink")に電撃移籍を果たした。
 
 2017年、ツール山岳王の[ワレン・バルギル](https://ja.wikipedia.org/wiki/ワレン・バルギル "wikilink")が[フォルトゥネオ・オスカロ](https://ja.wikipedia.org/wiki/フォルトゥネオ・オスカロ "wikilink")と2018年から3年契約を結びチームに 加入することが発表された。
 
@@ -120,7 +120,7 @@
 <td><p><strong>ハーゲンスバーマン・アクション</strong> (Hagens Berman Axeon)</p></td>
 <td></td>
 <td><p>HBA</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ピナレロ" title="wikilink">ピナレロ</a></p></td>
+<td><p><a href="../Page/ピナレロ.md" title="wikilink">ピナレロ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>イスラエル・サイクリングアカデミー</strong> (<a href="https://ja.wikipedia.org/wiki/:en:Israel_Cycling_Academy" title="wikilink">Israel Cycling Academy</a>)</p></td>
@@ -510,7 +510,7 @@
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ヴェランダーズ・ウィレムス・クレーラン" title="wikilink">ヴェランダーズ・ウィレムス・クレーラン</a></strong> (<a href="https://ja.wikipedia.org/wiki/w:Vérandas_Willems–Crelan" title="wikilink">Vérandas Willems–Crelan</a>)</p></td>
 <td></td>
 <td><p>VWC</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フェルト_(自転車メーカー)" title="wikilink">フェルト</a></p></td>
+<td><p><a href="../Page/フェルト_(自転車メーカー).md" title="wikilink">フェルト</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ワンティ・グループゴベール" title="wikilink">ワンティ・グループゴベール</a></strong> (<a href="https://ja.wikipedia.org/wiki/w:Wanty–Groupe_Gobert" title="wikilink">Wanty–Groupe Gobert</a>)</p></td>

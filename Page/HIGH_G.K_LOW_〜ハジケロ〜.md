@@ -1,7 +1,7 @@
 > この記事は[HIGH G.K LOW ](https://ja.wikipedia.org/wiki/HIGH_G.K_LOW_)から翻訳されています。
 
 
-「**HIGH G.K LOW 〜ハジケロ〜**」は、[GReeeeN](https://ja.wikipedia.org/wiki/GReeeeN "wikilink")の通算2枚目となる[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")に[NAYUTAWAVE RECORDSより発売](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。
+「**HIGH G.K LOW 〜ハジケロ〜**」は、[GReeeeN](https://ja.wikipedia.org/wiki/GReeeeN "wikilink")の通算2枚目となる[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")に[NAYUTAWAVE RECORDSより発売](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
 
 ## 概要
 
@@ -10,8 +10,8 @@
 ## 収録曲
 
 1.  **HIGH G.K LOW 〜ハジケロ〜** (3:35)
-      - [日本コカ・コーラ](../Page/日本コカ・コーラ.md "wikilink")「[Sprite](https://ja.wikipedia.org/wiki/スプライト_\(炭酸飲料\) "wikilink")」CMソング
-      - [TBS系](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")「[ネプ理科](https://ja.wikipedia.org/wiki/ネプ理科 "wikilink")」エンディングテーマ
+      - [日本コカ・コーラ](../Page/日本コカ・コーラ.md "wikilink")「[Sprite](../Page/スプライト_\(炭酸飲料\).md "wikilink")」CMソング
+      - [TBS系](../Page/TBSテレビ.md "wikilink")「[ネプ理科](https://ja.wikipedia.org/wiki/ネプ理科 "wikilink")」エンディングテーマ
       - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「[くちコミ☆ジョニー\!](../Page/くちコミ☆ジョニー!.md "wikilink")」オープニングテーマ ※但し、BGM扱い
 2.  **DREAM** (4:42)
 

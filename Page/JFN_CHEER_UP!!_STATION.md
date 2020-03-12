@@ -6,7 +6,7 @@
 ## 2004年 アテネオリンピック
 
   - 月曜日から日曜日 5:00-6:00
-  - TFM製作[6センスは通常放送](https://ja.wikipedia.org/wiki/6Sense "wikilink")。JFNC製作[Good morning\! That's wakeman showは](../Page/Good_morning!_That's_wakeman_show.md "wikilink")6時スタート。ウェイクマン5時台のみネットの地域はウェイクマン休止。ピープル、ニッポニアニッポンは休止。
+  - TFM製作[6センスは通常放送](../Page/6Sense.md "wikilink")。JFNC製作[Good morning\! That's wakeman showは](../Page/Good_morning!_That's_wakeman_show.md "wikilink")6時スタート。ウェイクマン5時台のみネットの地域はウェイクマン休止。ピープル、ニッポニアニッポンは休止。
   - 通常は5時台休止中の[エフエム愛媛](../Page/エフエム愛媛.md "wikilink")でも5時から放送。
   - 進行：TOKYO FM 永田実アナウンサー
 
@@ -28,11 +28,11 @@
 
 ## 2008年 北京オリンピック
 
-  - 「TOKYO FM Cheer Up Station」として、[TOKYO FMエリアのみ](../Page/エフエム東京.md "wikilink")、[タペストリー内](https://ja.wikipedia.org/wiki/Tapestry_\(ラジオ番組\) "wikilink")9:00から、[ワンス内](https://ja.wikipedia.org/wiki/ONCE_\(ラジオ番組\) "wikilink")12:51から、[ダイアリー内](https://ja.wikipedia.org/wiki/DIARY_\(ラジオ番組\) "wikilink")16:05頃から(ただし[Bibleとして](https://ja.wikipedia.org/wiki/Bible_\(TOKYO_FM\) "wikilink"))、[ワンダフル・ワールド内](../Page/WONDERFUL_WORLD_\(ラジオ番組\).md "wikilink")18:00から（月 - 木）、その他17:50から（金）、8:55から（土日）、19:25から（土）、21:55から（日）、いずれも5分から15分の枠で放送している。そのため全国の系列各局では各局自社製作番組内で放送している。
+  - 「TOKYO FM Cheer Up Station」として、[TOKYO FMエリアのみ](../Page/エフエム東京.md "wikilink")、[タペストリー内](../Page/Tapestry_\(ラジオ番組\).md "wikilink")9:00から、[ワンス内](https://ja.wikipedia.org/wiki/ONCE_\(ラジオ番組\) "wikilink")12:51から、[ダイアリー内](https://ja.wikipedia.org/wiki/DIARY_\(ラジオ番組\) "wikilink")16:05頃から(ただし[Bibleとして](https://ja.wikipedia.org/wiki/Bible_\(TOKYO_FM\) "wikilink"))、[ワンダフル・ワールド内](../Page/WONDERFUL_WORLD_\(ラジオ番組\).md "wikilink")18:00から（月 - 木）、その他17:50から（金）、8:55から（土日）、19:25から（土）、21:55から（日）、いずれも5分から15分の枠で放送している。そのため全国の系列各局では各局自社製作番組内で放送している。
 
 ## 2010年 バンクーバーオリンピック
 
-  - 2010年に入ってから「Cheer Up Station〜Countdown to Vancouver」（パーソナリティ：[八木沼純子](https://ja.wikipedia.org/wiki/八木沼純子 "wikilink")）として、[TOKYO FMエリアのみ](../Page/エフエム東京.md "wikilink")、13:50から放送された。その後2月に入ってからは全国ネットとなる（放送時間は局により異なる）。15日から26日の期間限定にて「[JA全農](../Page/全国農業協同組合連合会.md "wikilink") presents Cheer Up Station〜Countdown to Vancouver」として[ONCE内](https://ja.wikipedia.org/wiki/ONCE_\(ラジオ番組\) "wikilink")12:10から放送されている（東京および「ONCE」12時台ネット局ではこの時間）。パーソナリティは[柴田幸子](../Page/柴田幸子.md "wikilink")と[今井広海](https://ja.wikipedia.org/wiki/今井広海 "wikilink")。
+  - 2010年に入ってから「Cheer Up Station〜Countdown to Vancouver」（パーソナリティ：[八木沼純子](../Page/八木沼純子.md "wikilink")）として、[TOKYO FMエリアのみ](../Page/エフエム東京.md "wikilink")、13:50から放送された。その後2月に入ってからは全国ネットとなる（放送時間は局により異なる）。15日から26日の期間限定にて「[JA全農](../Page/全国農業協同組合連合会.md "wikilink") presents Cheer Up Station〜Countdown to Vancouver」として[ONCE内](https://ja.wikipedia.org/wiki/ONCE_\(ラジオ番組\) "wikilink")12:10から放送されている（東京および「ONCE」12時台ネット局ではこの時間）。パーソナリティは[柴田幸子](../Page/柴田幸子.md "wikilink")と[今井広海](https://ja.wikipedia.org/wiki/今井広海 "wikilink")。
 
 ## 2010年 FIFAワールドカップ・南アフリカ大会
 

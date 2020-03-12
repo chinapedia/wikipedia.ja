@@ -7,7 +7,7 @@
 
 [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、現在のPC/AT互換機の仕様（PC98-NXシリーズ）を機に、法人ユーザー用ノートパソコン**VersaPro**として登場した。現在は法人向けに販売され、豊富な[カスタマイズ](https://ja.wikipedia.org/wiki/カスタマイズ "wikilink")が可能である。 企業・自治体・官公庁向け　のノートパソコン製品はVersaPro、SOHO・中小企業向けのノートパソコン製品はVersaPro J というブランドで区別されている。
 
-同社の個人向けノートパソコンである[「LaVie（ラヴィ）」とは異なり](https://ja.wikipedia.org/wiki/LaVie "wikilink")、プリインストールソフトはOfficeアプリケーションやセキュリティ関連のソフトウェアなどビジネス用との物に留められている。NECの強力なサポートを受けられる上、日本国内のメーカー製PCとしては安価な事から、個人のパワーユーザーからの人気も高い。[家電量販店](https://ja.wikipedia.org/wiki/家電量販店 "wikilink")での取り扱いは少ないが、構成済みの廉価モデルを数量限定品として販売する例がある。一方パソコン専門店などでは中古・新品ともに取り扱っている場合が多く、構成済みモデルを個人向けに販売する例もある。直販サイトやビジネスPC取扱店では、メモリ容量やハードディスク、指紋センサなど必要に応じて購入時に構成を選択できる。
+同社の個人向けノートパソコンである[「LaVie（ラヴィ）」とは異なり](https://ja.wikipedia.org/wiki/LaVie "wikilink")、プリインストールソフトはOfficeアプリケーションやセキュリティ関連のソフトウェアなどビジネス用との物に留められている。NECの強力なサポートを受けられる上、日本国内のメーカー製PCとしては安価な事から、個人のパワーユーザーからの人気も高い。[家電量販店](../Page/家電量販店.md "wikilink")での取り扱いは少ないが、構成済みの廉価モデルを数量限定品として販売する例がある。一方パソコン専門店などでは中古・新品ともに取り扱っている場合が多く、構成済みモデルを個人向けに販売する例もある。直販サイトやビジネスPC取扱店では、メモリ容量やハードディスク、指紋センサなど必要に応じて購入時に構成を選択できる。
 
 ビジネスで利用するパソコン (PC) として販売されているが、[ビジネスPCを取り扱う販売店](http://www.express.nec.co.jp/howto/)やNECのWeb直販サイト[「NEC Direct」](http://www.necdirect.jp/)、[「NEC得選街」](http://club.express.nec.co.jp/store/)からも購入可能である。
 
@@ -72,8 +72,8 @@ A4ノート
 ## 関連項目
 
   - [LaVie](https://ja.wikipedia.org/wiki/LaVie "wikilink")
-  - [VALUESTAR](https://ja.wikipedia.org/wiki/VALUESTAR "wikilink")
-  - [Mate](https://ja.wikipedia.org/wiki/Mate_\(デスクトップパソコン\) "wikilink")
+  - [VALUESTAR](../Page/VALUESTAR.md "wikilink")
+  - [Mate](../Page/Mate_\(デスクトップパソコン\).md "wikilink")
 
 ## 外部リンク
 

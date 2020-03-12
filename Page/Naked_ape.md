@@ -12,7 +12,7 @@
 
 ## 経歴
 
-2001年『[月刊ステンシル](https://ja.wikipedia.org/wiki/月刊ステンシル "wikilink")』（[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")）誌にて、「DRUG HUNTER」で賞を受賞。2002年1月から同作品が元となった「switch」の連載が始まる。その後、「DOLLS」（[コミックZERO-SUM](https://ja.wikipedia.org/wiki/コミックZERO-SUM "wikilink")、[一迅社](https://ja.wikipedia.org/wiki/一迅社 "wikilink")）や、「鵺射」（[コミック怪](https://ja.wikipedia.org/wiki/コミック怪 "wikilink")、[角川書店](../Page/角川書店.md "wikilink")）など、様々なジャンルで活躍中。
+2001年『[月刊ステンシル](../Page/月刊ステンシル.md "wikilink")』（[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")）誌にて、「DRUG HUNTER」で賞を受賞。2002年1月から同作品が元となった「switch」の連載が始まる。その後、「DOLLS」（[コミックZERO-SUM](../Page/コミックZERO-SUM.md "wikilink")、[一迅社](../Page/一迅社.md "wikilink")）や、「鵺射」（[コミック怪](https://ja.wikipedia.org/wiki/コミック怪 "wikilink")、[角川書店](../Page/角川書店.md "wikilink")）など、様々なジャンルで活躍中。
 
 ## 概要・その他
 
@@ -24,14 +24,14 @@
 
 ### 共同名義
 
-  - [switch](https://ja.wikipedia.org/wiki/switch_\(naked_apeの漫画\) "wikilink")（[月刊Gファンタジー](https://ja.wikipedia.org/wiki/月刊Gファンタジー "wikilink")、連載終了）
-  - [DOLLS](https://ja.wikipedia.org/wiki/DOLLS_\(漫画\) "wikilink")（[コミックZERO-SUM](https://ja.wikipedia.org/wiki/コミックZERO-SUM "wikilink")、連載終了）
+  - [switch](https://ja.wikipedia.org/wiki/switch_\(naked_apeの漫画\) "wikilink")（[月刊Gファンタジー](../Page/月刊Gファンタジー.md "wikilink")、連載終了）
+  - [DOLLS](../Page/DOLLS_\(漫画\).md "wikilink")（[コミックZERO-SUM](../Page/コミックZERO-SUM.md "wikilink")、連載終了）
   - [鵺射](https://ja.wikipedia.org/wiki/鵺射 "wikilink")（[コミック怪](https://ja.wikipedia.org/wiki/コミック怪 "wikilink")、連載終了）
   - Magnolia（[ARIA](https://ja.wikipedia.org/wiki/ARIA_\(雑誌\) "wikilink")、連載終了）
   - [switch the volume on Dragon Fruit](https://ja.wikipedia.org/wiki/switch_\(naked_apeの漫画\) "wikilink")（コミックZERO-SUM、連載終了）
   - 血とチョコレート（ARIA、連載終了）
   - ハルシオン（コミックZERO-SUM、連載終了）
-  - [孤島の鬼](https://ja.wikipedia.org/wiki/孤島の鬼 "wikilink")（原作：[江戸川乱歩](../Page/江戸川乱歩.md "wikilink")、ARIA、連載終了）
+  - [孤島の鬼](../Page/孤島の鬼.md "wikilink")（原作：[江戸川乱歩](../Page/江戸川乱歩.md "wikilink")、ARIA、連載終了）
   - ツツジモリ -遺品整理始末録-（ARIA、連載終了）
   - スーサイドライン（コミックタタン）
   - サムライが転生したらアイドルになった話（[月刊プリンセス](../Page/月刊プリンセス.md "wikilink")）
@@ -58,7 +58,7 @@
 
 <!-- end list -->
 
-  - 中村猫整体院（作画：二丁目のママ、[ゼロサムオンライン](https://ja.wikipedia.org/wiki/ゼロサムオンライン "wikilink")、連載終了）
+  - 中村猫整体院（作画：二丁目のママ、[ゼロサムオンライン](../Page/ゼロサムオンライン.md "wikilink")、連載終了）
   - [銀のケルベロス](https://ja.wikipedia.org/wiki/銀のケルベロス "wikilink")（作画：BerryStar、[月刊ヒーローズ](https://ja.wikipedia.org/wiki/月刊ヒーローズ "wikilink")、長期休載中）
 
 ## 外部リンク

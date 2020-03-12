@@ -9,9 +9,9 @@
 
   - 岡田 悟志（おかだ さとし）埼玉県出身、Vo.\&Dr.
   - 大野 一光（おおの いっこう）埼玉県出身、Gt. →SHAMPOOHAT時代、ベース担当
-  - 横内 武将（よこうち たけまさ）北海道[興部町](https://ja.wikipedia.org/wiki/興部町 "wikilink")出身、Gt.([LOST IN TIME初代Gt](https://ja.wikipedia.org/wiki/LOST_IN_TIME "wikilink").)
+  - 横内 武将（よこうち たけまさ）北海道[興部町](../Page/興部町.md "wikilink")出身、Gt.([LOST IN TIME初代Gt](../Page/LOST_IN_TIME.md "wikilink").)
   - **如人**（ゆきと）元[KELUN](../Page/KELUN.md "wikilink")ベース。
-      - [Ba.(サポート)担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")出身。
+      - [Ba.(サポート)担当](../Page/ベース_\(弦楽器\).md "wikilink")。[千葉県](../Page/千葉県.md "wikilink")出身。
 
 ## 元メンバー
 
@@ -83,7 +83,7 @@
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/4月13日.md" title="wikilink">4月13日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/4月13日.md" title="wikilink">4月13日</a></p></td>
 <td><p><strong>tomorrow</strong></p></td>
 <td><p>DONA-41</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -102,7 +102,7 @@
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/5月24日.md" title="wikilink">5月24日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/5月24日.md" title="wikilink">5月24日</a></p></td>
 <td><p><strong>愛の言葉</strong></p></td>
 <td><p>CRCP-10137</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -371,7 +371,7 @@
 </tr>
 <tr class="odd">
 <td><p>1st mini</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/1月25日.md" title="wikilink">1月25日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/1月25日.md" title="wikilink">1月25日</a></p></td>
 <td><p><strong>SAKURA</strong></p></td>
 <td><p>DONA-47</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -394,7 +394,7 @@
 </tr>
 <tr class="even">
 <td><p>3rd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/6月28日.md" title="wikilink">6月28日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/6月28日.md" title="wikilink">6月28日</a></p></td>
 <td><p><strong>MiRAI</strong></p></td>
 <td><p>CRCP-40150</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -423,7 +423,7 @@
 </tr>
 <tr class="odd">
 <td><p>2nd mini</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/10月4日" title="wikilink">10月4日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/10月4日" title="wikilink">10月4日</a></p></td>
 <td><p><strong>MESSAGE</strong></p></td>
 <td><p>CRCP-40157</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -722,7 +722,7 @@
 | [遠間善一](https://ja.wikipedia.org/wiki/遠間善一 "wikilink")                     | 「same」「カゲオクリ」                                                                                                                                             |
 | [なかむらさんた](https://ja.wikipedia.org/wiki/なかむらさんた "wikilink")               | 「夏の終わりがまだここにある」                                                                                                                                           |
 | [モリ○カツ](https://ja.wikipedia.org/wiki/森克彦 "wikilink")                     | 「泣かない泣けない約束」(出演:[山下真司](../Page/山下真司.md "wikilink"))                                                                                                       |
-| ロボット                                                                      | 「メッセージ」(出演:[田中要次](https://ja.wikipedia.org/wiki/田中要次 "wikilink"))                                                                                         |
+| ロボット                                                                      | 「メッセージ」(出演:[田中要次](../Page/田中要次.md "wikilink"))                                                                                                            |
 | [MOTOO WATANABE](https://ja.wikipedia.org/wiki/MOTOO_WATANABE "wikilink") | 「すべてをあなたに」                                                                                                                                                |
 | 不明                                                                        | 「ギフト」「[ラブソング](http://www.indiesmusic.com/musicvideo/video.asp?id=11212)」「[エンドロール](http://www.indiesmusic.com/musicvideo/video.asp?id=11213)」              |
 |                                                                           |                                                                                                                                                           |

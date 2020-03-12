@@ -1,7 +1,7 @@
 > この記事は[Add \(\)](https://ja.wikipedia.org/wiki/Add_\(\))から翻訳されています。
 
 
-『**Add**』（アド）は[仁木健](https://ja.wikipedia.org/wiki/仁木健 "wikilink")/著、[椋本夏夜](https://ja.wikipedia.org/wiki/椋本夏夜 "wikilink")/[イラストの](../Page/イラストレーター.md "wikilink")[ライトノベル](../Page/ライトノベル.md "wikilink")。[角川スニーカー文庫](https://ja.wikipedia.org/wiki/角川スニーカー文庫 "wikilink")刊。長編7巻、短編集2巻の全9巻。
+『**Add**』（アド）は[仁木健](https://ja.wikipedia.org/wiki/仁木健 "wikilink")/著、[椋本夏夜](../Page/椋本夏夜.md "wikilink")/[イラストの](../Page/イラストレーター.md "wikilink")[ライトノベル](../Page/ライトノベル.md "wikilink")。[角川スニーカー文庫](https://ja.wikipedia.org/wiki/角川スニーカー文庫 "wikilink")刊。長編7巻、短編集2巻の全9巻。
 
 ## ストーリー
 

@@ -7,7 +7,7 @@
 
   - Openclipart for [Android](../Page/Android.md "wikilink") \[2\]
   - [iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink") Clipart,\[3\] iOS PosterMaker\[4\]
-  - Clipart plugin\[5\] for [WordPress](https://ja.wikipedia.org/wiki/WordPress "wikilink")
+  - Clipart plugin\[5\] for [WordPress](../Page/WordPress.md "wikilink")
   - [LibreOffice](https://ja.wikipedia.org/wiki/LibreOffice "wikilink") extension\[6\]
   - Clipart plugin\[7\] for [ムードル](../Page/ムードル.md "wikilink")
   - Linux distributions

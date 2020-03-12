@@ -1,7 +1,7 @@
 > この記事は[  ENTEI](https://ja.wikipedia.org/wiki/__ENTEI)から翻訳されています。
 
 
-『**劇場版ポケットモンスター 結晶塔の帝王 ENTEI**』（げきじょうばんポケットモンスター けっしょうとうのていおう エンテイ）は、[2000年](../Page/2000年.md "wikilink")[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")から公開された[テレビアニメ](../Page/アニメ.md "wikilink")『[ポケットモンスター](https://ja.wikipedia.org/wiki/ポケットモンスター_\(アニメ\) "wikilink")』の[劇場版第](https://ja.wikipedia.org/wiki/ポケットモンスター_\(劇場版\) "wikilink")3作である。同時上映作品は『[ピチューとピカチュウ](../Page/ピチューとピカチュウ.md "wikilink")』。興行収入48億5000万円。
+『**劇場版ポケットモンスター 結晶塔の帝王 ENTEI**』（げきじょうばんポケットモンスター けっしょうとうのていおう エンテイ）は、[2000年](../Page/2000年.md "wikilink")[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")から公開された[テレビアニメ](../Page/アニメ.md "wikilink")『[ポケットモンスター](../Page/ポケットモンスター_\(アニメ\).md "wikilink")』の[劇場版第](../Page/ポケットモンスター_\(劇場版\).md "wikilink")3作である。同時上映作品は『[ピチューとピカチュウ](../Page/ピチューとピカチュウ.md "wikilink")』。興行収入48億5000万円。
 
 日本版英題は「Lord of the "UNKNOWN" Tower」。当初タイトルは「結晶塔の帝王」のみだったが、後に[アンノーン](https://ja.wikipedia.org/wiki/アンノーン "wikilink")を用いてENTEIと追加された。
 
@@ -11,7 +11,7 @@
 
 こうして、アンノーンが生み出す夢により現実を完全に遮断し、閉じられた世界で心の傷を癒すミーだったが、ママの救助にやって来たサトシら現実の存在と対決することになり、最終的には「夢の世界」と決別することを決意。アンノーンの力は再封印されることになる。
 
-アンノーンと少女の理想が作り出す幻想や主要キャラクターの満遍ない活躍、親子の絆など様々な魅力が詰まった本作は劇場版第1・2作の脚本を手がけた[首藤剛志](https://ja.wikipedia.org/wiki/首藤剛志 "wikilink")、本作以降の劇場版作品の脚本を手がけることとなる[園田英樹](https://ja.wikipedia.org/wiki/園田英樹 "wikilink")の合作脚本であり、本作以前と本作以降の個性を絶妙に取り入れた劇場版ポケットモンスターのある意味集合体的な脚本の作品である。なお、現在のプロットはほぼ首藤が製作しており、それを園田が修正したため共作となった\[1\]。本作が首藤が存命中に脚本を担当した最後のポケモン映画作品となった。
+アンノーンと少女の理想が作り出す幻想や主要キャラクターの満遍ない活躍、親子の絆など様々な魅力が詰まった本作は劇場版第1・2作の脚本を手がけた[首藤剛志](../Page/首藤剛志.md "wikilink")、本作以降の劇場版作品の脚本を手がけることとなる[園田英樹](../Page/園田英樹.md "wikilink")の合作脚本であり、本作以前と本作以降の個性を絶妙に取り入れた劇場版ポケットモンスターのある意味集合体的な脚本の作品である。なお、現在のプロットはほぼ首藤が製作しており、それを園田が修正したため共作となった\[1\]。本作が首藤が存命中に脚本を担当した最後のポケモン映画作品となった。
 
 時系列は第154話以降から第165話以前の間である\[2\]。
 
@@ -21,7 +21,7 @@
 
 『[劇場版ポケットモンスター ダイヤモンド&パール ディアルガVSパルキアVSダークライ](../Page/劇場版ポケットモンスター_ダイヤモンド&パール_ディアルガVSパルキアVSダークライ.md "wikilink")』では、異空間の存在として僅かながらアンノーンが劇場版で再び登場する。
 
-『[劇場版ポケットモンスター ミュウツーの逆襲](https://ja.wikipedia.org/wiki/劇場版ポケットモンスター_ミュウツーの逆襲 "wikilink")』以来タケシがレギュラーとして復帰し、2010年の『[劇場版ポケットモンスター ダイヤモンド&パール 幻影の覇者ゾロアーク](https://ja.wikipedia.org/wiki/劇場版ポケットモンスター_ダイヤモンド&パール_幻影の覇者ゾロアーク "wikilink")』まで登場する。
+『[劇場版ポケットモンスター ミュウツーの逆襲](../Page/劇場版ポケットモンスター_ミュウツーの逆襲.md "wikilink")』以来タケシがレギュラーとして復帰し、2010年の『[劇場版ポケットモンスター ダイヤモンド&パール 幻影の覇者ゾロアーク](https://ja.wikipedia.org/wiki/劇場版ポケットモンスター_ダイヤモンド&パール_幻影の覇者ゾロアーク "wikilink")』まで登場する。
 
 ## あらすじ
 
@@ -43,7 +43,7 @@
 
 詳細は個別記事か[アニメ版ポケットモンスターの登場人物](https://ja.wikipedia.org/wiki/アニメ版ポケットモンスターの登場人物 "wikilink")を参照。
 
-  - [サトシ](https://ja.wikipedia.org/wiki/サトシ_\(アニメポケットモンスター\) "wikilink")
+  - [サトシ](../Page/サトシ_\(アニメポケットモンスター\).md "wikilink")
     [声](../Page/声優.md "wikilink") - [松本梨香](https://ja.wikipedia.org/wiki/松本梨香 "wikilink")
 
     本作の主人公。ポケモンマスターを目指し、ジョウドリーク出場のために修行の旅を続ける少年。ミーとは親の関係で知り合いであるがミーのほうが覚えていない様子。
@@ -55,27 +55,27 @@
 
     サトシの最初のポケモン。ヌオーと対戦し、地面タイプであるため電気技を封じられるも見事勝利。エンテイとは全く通じず敗れる。
 
-  - [カスミ](https://ja.wikipedia.org/wiki/カスミ_\(アニメポケットモンスター\) "wikilink")
+  - [カスミ](../Page/カスミ_\(アニメポケットモンスター\).md "wikilink")
     声 - [飯塚雅弓](../Page/飯塚雅弓.md "wikilink")
 
     水ポケモンマスターを目指しサトシと共に旅をする少女。
 
-  - [タケシ](https://ja.wikipedia.org/wiki/タケシ_\(アニメポケットモンスター\) "wikilink")
+  - [タケシ](../Page/タケシ_\(アニメポケットモンスター\).md "wikilink")
     声 - [上田祐司](../Page/うえだゆうじ.md "wikilink")
 
     ポケモンブリーダーを志してサトシと旅をする元ニビジムリーダー。オレンジ諸島でサトシと別れてウチキド博士の助手になっていたが、ジョウト地方の旅では再びサトシと同行した。アンノーンの力で成長したミーを一足先に見破った人物でもある。
 
   - [トゲピー](https://ja.wikipedia.org/wiki/トゲピー "wikilink")
-    声 - [こおろぎさとみ](https://ja.wikipedia.org/wiki/こおろぎさとみ "wikilink")
+    声 - [こおろぎさとみ](../Page/こおろぎさとみ.md "wikilink")
 
     カスミのポケモン。
 
-  - [ムサシ](https://ja.wikipedia.org/wiki/ムサシ_\(アニメポケットモンスター\) "wikilink")
+  - [ムサシ](../Page/ムサシ_\(アニメポケットモンスター\).md "wikilink")
     声 - [林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")
 
     [ロケット団の女性団員](https://ja.wikipedia.org/wiki/ロケット団_\(アニメポケットモンスター\) "wikilink")。コジロウとニャースと共にサトシ達を追って結晶塔に潜入する。しかし、途中でサトシ達一行を救うことになる\[4\]。
 
-  - [コジロウ](https://ja.wikipedia.org/wiki/コジロウ_\(アニメポケットモンスター\) "wikilink")
+  - [コジロウ](../Page/コジロウ_\(アニメポケットモンスター\).md "wikilink")
     声 - [三木眞一郎](https://ja.wikipedia.org/wiki/三木眞一郎 "wikilink")
 
     ロケット団の男性団員。結晶塔にお宝があると思い、二人と共に潜入するもエンテイの攻撃を受け、墜落したり、戦闘に巻き込まれそうになるなど散々だがグリーンフィールドの美しさを見惚れた。
@@ -83,7 +83,7 @@
   - [ニャース](https://ja.wikipedia.org/wiki/ニャース_\(ロケット団のポケモン\) "wikilink")
     声 - [犬山犬子](https://ja.wikipedia.org/wiki/犬山イヌコ "wikilink")
 
-    [ロケット団の一員](https://ja.wikipedia.org/wiki/ロケット団_\(ポケットモンスター\) "wikilink")。2足歩行して人間の言葉を喋る珍しいポケモン。今作では翻訳する場面がなく、出番も少なかったがミーが幸せになったのを見て安心した。
+    [ロケット団の一員](../Page/ロケット団_\(ポケットモンスター\).md "wikilink")。2足歩行して人間の言葉を喋る珍しいポケモン。今作では翻訳する場面がなく、出番も少なかったがミーが幸せになったのを見て安心した。
 
   - [ソーナンス](https://ja.wikipedia.org/wiki/ソーナンス "wikilink")
     声 - [上田祐司](../Page/うえだゆうじ.md "wikilink")
@@ -214,7 +214,7 @@
           -
 
               -
-                声 - [小西克幸](https://ja.wikipedia.org/wiki/小西克幸 "wikilink")
+                声 - [小西克幸](../Page/小西克幸.md "wikilink")
                 技：うずしお、たいあたり、とっしん
                 カスミのヒトデマンと対戦。うずしおでヒトデマンの動きを封じる。
       - 18歳のミー
@@ -277,20 +277,20 @@
     声 - [山寺宏一](https://ja.wikipedia.org/wiki/山寺宏一 "wikilink")
     ミーの家の執事。ミーの異変をとても心配していた。
   - カメラマン、リポーター
-    声 - [坂口候一](https://ja.wikipedia.org/wiki/坂口候一 "wikilink")、[沢海陽子](https://ja.wikipedia.org/wiki/沢海陽子 "wikilink")
+    声 - [坂口候一](../Page/坂口候一.md "wikilink")、[沢海陽子](../Page/沢海陽子.md "wikilink")
     グリーンフィールドの異変を取材するテレビ局のスタッフ達。
 
 ### その他
 
 詳細は個別記事か[アニメ版ポケットモンスターの登場人物](https://ja.wikipedia.org/wiki/アニメ版ポケットモンスターの登場人物 "wikilink")を参照。
 
-  - [オーキド博士](https://ja.wikipedia.org/wiki/オーキド・ユキナリ "wikilink")
+  - [オーキド博士](../Page/オーキド・ユキナリ.md "wikilink")
     声 - [石塚運昇](../Page/石塚運昇.md "wikilink")
     ポケモン学界の権威。シュリー博士は彼の元教え子でサトシにアンノーンのことを教える。
   - [ハナコ](https://ja.wikipedia.org/wiki/アニメ版ポケットモンスターの登場人物#ハナコ "wikilink")
     声 - [豊島まさみ](../Page/豊島まさみ.md "wikilink")
     サトシの母親。シュリー博士とは少女時代からの知り合いでミーとも面識がある。エンテイにさらわれ洗脳されるが、自分を助けようと向かうサトシの映像を見て正気に戻し、寂しさで心を閉ざしたミーを説得し、彼女を救った。
-  - [ケンジ](https://ja.wikipedia.org/wiki/ケンジ_\(アニメポケットモンスター\) "wikilink")
+  - [ケンジ](../Page/ケンジ_\(アニメポケットモンスター\).md "wikilink")
     声 - [関智一](../Page/関智一.md "wikilink")
     前作、サトシ達と旅をしたポケモンウォッチャーでオーキド博士の助手である少年。序盤とエンディングのみ登場する。
   - [ジョーイ](https://ja.wikipedia.org/wiki/アニメ版ポケットモンスターの登場人物#ジョーイ "wikilink")
@@ -308,24 +308,24 @@
 [NHK子会社](https://ja.wikipedia.org/wiki/NHK子会社 "wikilink")である[NHKエンタープライズ21](https://ja.wikipedia.org/wiki/NHKエンタープライズ21 "wikilink")が製作スタッフに名を連ねている[1](http://www.generalworks.com/databank/movie/title3/pmon00.html)。
 
   - 原案 - [田尻智](../Page/田尻智.md "wikilink")
-  - スーパーバイザー - [石原恒和](https://ja.wikipedia.org/wiki/石原恒和 "wikilink")
-  - アニメーション監修 - [小田部羊一](https://ja.wikipedia.org/wiki/小田部羊一 "wikilink")
-  - エグゼクティブプロデューサー - [久保雅一](https://ja.wikipedia.org/wiki/久保雅一 "wikilink")、川口孝司
+  - スーパーバイザー - [石原恒和](../Page/石原恒和.md "wikilink")
+  - アニメーション監修 - [小田部羊一](../Page/小田部羊一.md "wikilink")
+  - エグゼクティブプロデューサー - [久保雅一](../Page/久保雅一.md "wikilink")、川口孝司
   - プロデューサー - [吉川兆二](../Page/吉川兆二.md "wikilink")、松追由香子、盛武源
   - アニメーションプロデューサー - 奥野敏聡、[神田修吉](../Page/神田修吉.md "wikilink")
   - TVリレーションシップス - 岩田圭介、岩田牧子
   - アシスタントプロデューサー - 福田剛士
   - デスク - 藁科久美子、高梨志帆
-  - 脚本 - [首藤剛志](https://ja.wikipedia.org/wiki/首藤剛志 "wikilink")、[園田英樹](https://ja.wikipedia.org/wiki/園田英樹 "wikilink")
-  - 絵コンテ - [湯山邦彦](https://ja.wikipedia.org/wiki/湯山邦彦 "wikilink")、[毛利和昭](https://ja.wikipedia.org/wiki/毛利和昭 "wikilink")、[辻初樹](https://ja.wikipedia.org/wiki/辻初樹 "wikilink")
-  - 演出 - [日高政光](https://ja.wikipedia.org/wiki/日高政光 "wikilink")、[須藤典彦](../Page/須藤典彦.md "wikilink")
-  - 演出協力 - [村田和也](https://ja.wikipedia.org/wiki/村田和也 "wikilink")、有冨興二
-  - キャラクター原案 - [杉森建](https://ja.wikipedia.org/wiki/杉森建 "wikilink")、藤原基史、森本茂樹、吉田宏信、太田敏、[西田敦子](https://ja.wikipedia.org/wiki/にしだあつこ "wikilink")、[斉藤むねお](https://ja.wikipedia.org/wiki/斉藤むねお "wikilink")、吉川玲奈
+  - 脚本 - [首藤剛志](../Page/首藤剛志.md "wikilink")、[園田英樹](../Page/園田英樹.md "wikilink")
+  - 絵コンテ - [湯山邦彦](../Page/湯山邦彦.md "wikilink")、[毛利和昭](../Page/毛利和昭.md "wikilink")、[辻初樹](../Page/辻初樹.md "wikilink")
+  - 演出 - [日高政光](../Page/日高政光.md "wikilink")、[須藤典彦](../Page/須藤典彦.md "wikilink")
+  - 演出協力 - [村田和也](../Page/村田和也.md "wikilink")、有冨興二
+  - キャラクター原案 - [杉森建](../Page/杉森建.md "wikilink")、藤原基史、森本茂樹、吉田宏信、太田敏、[西田敦子](https://ja.wikipedia.org/wiki/にしだあつこ "wikilink")、[斉藤むねお](../Page/斉藤むねお.md "wikilink")、吉川玲奈
   - 設定協力 - 陣内弘之、川村久仁美、野本岳志
   - キャラクターデザイン - [一石小百合](../Page/一石小百合.md "wikilink")、[松原徳弘](https://ja.wikipedia.org/wiki/松原徳弘 "wikilink")、[香川久](https://ja.wikipedia.org/wiki/香川久 "wikilink")
-  - デザインワークス - 近永健一、ゴトウマサユキ、[志田ただし](https://ja.wikipedia.org/wiki/志田ただし "wikilink")、西中康弘
+  - デザインワークス - 近永健一、ゴトウマサユキ、[志田ただし](../Page/志田ただし.md "wikilink")、西中康弘
   - 総作画監督 - 香川久
-  - 作画監督 - 一石小百合、松原徳弘、[田口広一](https://ja.wikipedia.org/wiki/田口広一 "wikilink")、[伊藤嘉之](https://ja.wikipedia.org/wiki/伊藤嘉之 "wikilink")、[池田和美](../Page/池田和美.md "wikilink")、福本勝、[つなきあき](https://ja.wikipedia.org/wiki/つなきあき "wikilink")、玉川明洋、[佐藤雅将](https://ja.wikipedia.org/wiki/佐藤雅将 "wikilink")
+  - 作画監督 - 一石小百合、松原徳弘、[田口広一](https://ja.wikipedia.org/wiki/田口広一 "wikilink")、[伊藤嘉之](../Page/伊藤嘉之.md "wikilink")、[池田和美](../Page/池田和美.md "wikilink")、福本勝、[つなきあき](https://ja.wikipedia.org/wiki/つなきあき "wikilink")、玉川明洋、[佐藤雅将](https://ja.wikipedia.org/wiki/佐藤雅将 "wikilink")
   - 動画チェック - 榎本富士香、齋藤徳明、大原真琴、村上えり子、中峰ちとせ、[廣岡歳仁](https://ja.wikipedia.org/wiki/広岡歳仁 "wikilink")
   - 色彩設計 - 吉野記通、佐藤美由紀
   - 色指定 - 長尾朱美
@@ -337,33 +337,33 @@
   - 撮影監督 - [白井久男](../Page/スタジオコスモス.md "wikilink")
   - CGプロデューサー - 坂美佐子
   - CGスーパーバイザー - 小畑正好
-  - CGディレクター - 鹿住朗生、[水谷貴哉](https://ja.wikipedia.org/wiki/水谷貴哉 "wikilink")、近藤潤、高橋賢太郎、小田桐里志、中村圭介
+  - CGディレクター - 鹿住朗生、[水谷貴哉](../Page/水谷貴哉.md "wikilink")、近藤潤、高橋賢太郎、小田桐里志、中村圭介
   - プロダクションマネージャー - 大竹研次
   - 編集 - [ジェイ・フィルム](../Page/ジェイ・フィルム.md "wikilink")（辺見俊夫、伊藤裕）
   - 現像 - [イマジカ](https://ja.wikipedia.org/wiki/IMAGICA "wikilink")
   - 音楽 - [宮崎慎二](../Page/宮崎慎二.md "wikilink")
   - 音楽プロデューサー - 斎藤裕二
-  - 一部原曲・作曲 - [増田順一](https://ja.wikipedia.org/wiki/増田順一 "wikilink")
+  - 一部原曲・作曲 - [増田順一](../Page/増田順一.md "wikilink")
   - 音響監督 - [三間雅文](../Page/三間雅文.md "wikilink")
   - 音響プロデューサー - 南沢道義、西名武
   - 制作担当 - 太田昌二、小板橋司
   - 制作デスク - [岩佐がく](../Page/岩佐岳.md "wikilink")
   - 制作進行 - 西村博昭、伴武彦、児玉隆、白井賢志、亀井康輝、村元克彦、石黒けい、片貝慎
-  - アニメーション協力 - [動画工房](https://ja.wikipedia.org/wiki/動画工房 "wikilink")、[ゆめ太カンパニー](https://ja.wikipedia.org/wiki/TYOアニメーションズ "wikilink")、[京都アニメーション](https://ja.wikipedia.org/wiki/京都アニメーション "wikilink")、[スタジオコクピット](../Page/スタジオコクピット.md "wikilink")
+  - アニメーション協力 - [動画工房](../Page/動画工房.md "wikilink")、[ゆめ太カンパニー](https://ja.wikipedia.org/wiki/TYOアニメーションズ "wikilink")、[京都アニメーション](../Page/京都アニメーション.md "wikilink")、[スタジオコクピット](../Page/スタジオコクピット.md "wikilink")
   - 製作 - 河井常吉、富山幹太郎、坂本健、宮川鑛一、福田年秀、八木正男
   - アソシエイトプロデューサー - 沢辺伸政、石川博、山内克仁、並河研、紀伊高明、吉田紀之
   - 制作 - [小学館プロダクション](https://ja.wikipedia.org/wiki/小学館プロダクション "wikilink")
-  - アニメーション制作 - [OLM](https://ja.wikipedia.org/wiki/オー・エル・エム "wikilink")
+  - アニメーション制作 - [OLM](../Page/オー・エル・エム.md "wikilink")
   - 監督 - 湯山邦彦
-  - 製作 - [ピカチュウプロジェクト2000](../Page/製作委員会方式.md "wikilink")（[小学館](../Page/小学館.md "wikilink")、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、[メディアファクトリー](../Page/メディアファクトリー.md "wikilink")、[トミー](https://ja.wikipedia.org/wiki/トミー_\(企業\) "wikilink")、[クリーチャーズ](../Page/クリーチャーズ.md "wikilink")、[ゲームフリーク](https://ja.wikipedia.org/wiki/ゲームフリーク "wikilink")、[ジェイアール東日本企画](../Page/ジェイアール東日本企画.md "wikilink")、O.L.M、小学館プロダクション）
+  - 製作 - [ピカチュウプロジェクト2000](../Page/製作委員会方式.md "wikilink")（[小学館](../Page/小学館.md "wikilink")、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、[メディアファクトリー](../Page/メディアファクトリー.md "wikilink")、[トミー](../Page/トミー_\(企業\).md "wikilink")、[クリーチャーズ](../Page/クリーチャーズ.md "wikilink")、[ゲームフリーク](../Page/ゲームフリーク.md "wikilink")、[ジェイアール東日本企画](../Page/ジェイアール東日本企画.md "wikilink")、O.L.M、小学館プロダクション）
 
 ## 主題歌
 
   - オープニングテーマ「[OK\! 2000](../Page/OK!.md "wikilink")」
-    作詞 - 戸田昭吾 / 作曲・編曲 - [たなかひろかず](https://ja.wikipedia.org/wiki/田中宏和 "wikilink") / 歌 - [松本梨香](https://ja.wikipedia.org/wiki/松本梨香 "wikilink")
+    作詞 - 戸田昭吾 / 作曲・編曲 - [たなかひろかず](../Page/田中宏和.md "wikilink") / 歌 - [松本梨香](https://ja.wikipedia.org/wiki/松本梨香 "wikilink")
     歴代シリーズの中で唯一劇場用OPテーマのフルバージョンで使用された。
   - エンディングテーマ「虹がうまれた日」
-    作詞 - 戸田昭吾 / 作曲 - たなかひろかず / 編曲 - [鳥山雄司](https://ja.wikipedia.org/wiki/鳥山雄司 "wikilink") / 歌 - [森公美子](https://ja.wikipedia.org/wiki/森公美子 "wikilink")
+    作詞 - 戸田昭吾 / 作曲 - たなかひろかず / 編曲 - [鳥山雄司](https://ja.wikipedia.org/wiki/鳥山雄司 "wikilink") / 歌 - [森公美子](../Page/森公美子.md "wikilink")
     一部がカットされて使用されているため、[アウトロ](../Page/アウトロ.md "wikilink")が異なっている。
 
 ## 映像ソフト化
@@ -383,7 +383,7 @@
 
 ## 関連項目
 
-  - [ポケットモンスター (アニメ)](https://ja.wikipedia.org/wiki/ポケットモンスター_\(アニメ\) "wikilink")
+  - [ポケットモンスター (アニメ)](../Page/ポケットモンスター_\(アニメ\).md "wikilink")
   - [ポケットモンスター (1997-2002年のアニメ)](../Page/ポケットモンスター_\(1997-2002年のアニメ\).md "wikilink")
 
 ## 脚注

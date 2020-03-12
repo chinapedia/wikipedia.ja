@@ -1,7 +1,7 @@
 > この記事は[EXIT \(EXILE\)](https://ja.wikipedia.org/wiki/EXIT_\(EXILE\))から翻訳されています。
 
 
-「**EXIT**」（イグジット）は、[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")の18枚目の[シングル](../Page/シングル.md "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月24日](../Page/8月24日.md "wikilink")に[rhythm zoneから発売](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。
+「**EXIT**」（イグジット）は、[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")の18枚目の[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[8月24日](../Page/8月24日.md "wikilink")に[rhythm zoneから発売](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要
 
@@ -17,7 +17,7 @@ EXILE第二章以降に発売されたベストアルバム『[EXILE CATCHY BEST
       -
         作詞：[秋元康](../Page/秋元康.md "wikilink") / 作曲・編曲：[原一博](../Page/原一博.md "wikilink")
     <!-- end list -->
-      - [日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系ドラマ『[女王の教室](https://ja.wikipedia.org/wiki/女王の教室 "wikilink")』主題歌
+      - [日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系ドラマ『[女王の教室](../Page/女王の教室.md "wikilink")』主題歌
     <!-- end list -->
       -
         ドラマ内容に反して明るい楽曲になっているが、これは同ドラマの主演である[天海祐希](https://ja.wikipedia.org/wiki/天海祐希 "wikilink")が演出に「ドラマの内容が重いので、エンディングは明るいものにしたい」と提案したことから\[1\]。

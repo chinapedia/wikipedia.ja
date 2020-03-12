@@ -1,7 +1,7 @@
 > この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
 
 
-『**怒首領蜂II**』（どどんぱち ツー）は[2001年](../Page/2001年.md "wikilink")稼働開始の[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")。この作品は[ケイブ](../Page/ケイブ.md "wikilink")はライセンス提供のみ行っており、実際の開発は台湾の[IGSが行った](https://ja.wikipedia.org/wiki/IGS_\(台湾企業\) "wikilink")。販売は[カプコン](https://ja.wikipedia.org/wiki/カプコン "wikilink")。システム基板はPGM。日本国外でのタイトルは、『Bee Storm』または『蜂暴』（フェンバゥ）。
+『**怒首領蜂II**』（どどんぱち ツー）は[2001年](../Page/2001年.md "wikilink")稼働開始の[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")。この作品は[ケイブ](../Page/ケイブ.md "wikilink")はライセンス提供のみ行っており、実際の開発は台湾の[IGSが行った](https://ja.wikipedia.org/wiki/IGS_\(台湾企業\) "wikilink")。販売は[カプコン](../Page/カプコン.md "wikilink")。システム基板はPGM。日本国外でのタイトルは、『Bee Storm』または『蜂暴』（フェンバゥ）。
 
 ## 概要
 
@@ -13,9 +13,9 @@
 
 全7面構成1周エンド。ステージ6終了時にスコアが4億点（基板設定により2-5億及び8億点に変更可能）以上だと隠しのステージ7に進むことができる。他の作品とは異なり、コンティニューの有無は問わない。
 
-本作のサウンドトラックは『[怒首領蜂](https://ja.wikipedia.org/wiki/怒首領蜂 "wikilink")』のBGMとのカップリングで、[サイトロン](https://ja.wikipedia.org/wiki/サイトロン "wikilink")・デジタルコンテンツから2001年9月19日に発売されている（販売元：[ソニー・ミュージックエンタテイメント](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテイメント "wikilink")）。
+本作のサウンドトラックは『[怒首領蜂](../Page/怒首領蜂.md "wikilink")』のBGMとのカップリングで、[サイトロン](https://ja.wikipedia.org/wiki/サイトロン "wikilink")・デジタルコンテンツから2001年9月19日に発売されている（販売元：[ソニー・ミュージックエンタテイメント](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテイメント "wikilink")）。
 
-シリーズとしては続編の『[怒首領蜂大往生](https://ja.wikipedia.org/wiki/怒首領蜂大往生 "wikilink")』に「DONPACHI EPISODE-4」の表記があるため、本作を3作目と数えることもできるが、ライセンス開発であるためケイブの作品で紹介されていない事がある。
+シリーズとしては続編の『[怒首領蜂大往生](../Page/怒首領蜂大往生.md "wikilink")』に「DONPACHI EPISODE-4」の表記があるため、本作を3作目と数えることもできるが、ライセンス開発であるためケイブの作品で紹介されていない事がある。
 
 ## システム
 

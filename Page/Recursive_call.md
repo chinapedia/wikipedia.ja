@@ -1,7 +1,7 @@
 > この記事は[Recursive call](https://ja.wikipedia.org/wiki/Recursive_call)から翻訳されています。
 
 
-**recursive call**（リカーシヴ・コール）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽バンド](../Page/バンド_\(音楽\).md "wikilink")、[function code();](https://ja.wikipedia.org/wiki/function_code\(\); "wikilink")（ファンクション・コード）の[インディーズ](../Page/インディーズ.md "wikilink")時代のファーストアルバムである。2006年1月26日に[ネオプレックス](https://ja.wikipedia.org/wiki/ネオプレックス "wikilink")よりリリースされた。
+**recursive call**（リカーシヴ・コール）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽バンド](../Page/バンド_\(音楽\).md "wikilink")、[function code();](https://ja.wikipedia.org/wiki/function_code\(\); "wikilink")（ファンクション・コード）の[インディーズ](../Page/インディーズ.md "wikilink")時代のファーストアルバムである。2006年1月26日に[ネオプレックス](../Page/ネオプレックス.md "wikilink")よりリリースされた。
 
 ## 収録曲
 

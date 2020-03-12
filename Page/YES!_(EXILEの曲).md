@@ -1,7 +1,7 @@
 > この記事は[YES! \(EXILE\)](https://ja.wikipedia.org/wiki/YES!_\(EXILE\))から翻訳されています。
 
 
-「**YES\!**」（イエス）は、[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")の20枚目の[シングル](../Page/シングル.md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月1日](../Page/3月1日.md "wikilink")に[rhythm zoneから発売](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。
+「**YES\!**」（イエス）は、[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")の20枚目の[シングル](../Page/シングル.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")に[rhythm zoneから発売](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要
 
@@ -18,7 +18,7 @@
         作詞：ATSUSHI / 作曲：[山口寛雄](https://ja.wikipedia.org/wiki/山口寛雄 "wikilink") / 編曲：REO
     <!-- end list -->
       - [日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系『2月怒涛のサッカー中継』イメージソング
-      - 日本テレビ系『[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")』2006年3月度オープニングテーマ
+      - 日本テレビ系『[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")』2006年3月度オープニングテーマ
       - ニベアボディ「薬用ホワイトニングストレッチアップ・薬用ホワイトニングUV」CMソング
 2.  YES\! (Instrumental)
 

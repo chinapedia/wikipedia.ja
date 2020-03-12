@@ -5,7 +5,7 @@
 
 ## 作品
 
-シングル「友情のエール」[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[5月31日](../Page/5月31日.md "wikilink")（[Victor Sweetsterレーベル](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")）
+シングル「友情のエール」[2006年](../Page/2006年.md "wikilink")[5月31日](../Page/5月31日.md "wikilink")（[Victor Sweetsterレーベル](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")）
 
   -
     作詞：[浜崎貴司](../Page/浜崎貴司.md "wikilink")
@@ -18,22 +18,22 @@
 
   - [飯田高広](https://ja.wikipedia.org/wiki/飯田高広 "wikilink")
   - [石井竜也](https://ja.wikipedia.org/wiki/石井竜也 "wikilink")
-  - [忌野清志郎](https://ja.wikipedia.org/wiki/忌野清志郎 "wikilink")
+  - [忌野清志郎](../Page/忌野清志郎.md "wikilink")
   - [ウルトラス](https://ja.wikipedia.org/wiki/ウルトラス "wikilink")
-  - [MCU](https://ja.wikipedia.org/wiki/MCU_\(ラッパー\) "wikilink")
+  - [MCU](../Page/MCU_\(ラッパー\).md "wikilink")
   - [MOMO-MC](https://ja.wikipedia.org/wiki/MOMO-MC "wikilink")
   - [大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")
   - [辛島美登里](https://ja.wikipedia.org/wiki/辛島美登里 "wikilink")
   - [carezza](https://ja.wikipedia.org/wiki/carezza "wikilink")
   - 伊藤俊吾（[キンモクセイ](../Page/キンモクセイ_\(バンド\).md "wikilink")）
   - [小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink")
-  - [松本素生](https://ja.wikipedia.org/wiki/松本素生 "wikilink")、[中澤寛規](https://ja.wikipedia.org/wiki/中澤寛規 "wikilink")（[GOING UNDER GROUND](https://ja.wikipedia.org/wiki/GOING_UNDER_GROUND "wikilink")）
-  - [斉藤和義](https://ja.wikipedia.org/wiki/斉藤和義 "wikilink")
+  - [松本素生](../Page/松本素生.md "wikilink")、[中澤寛規](https://ja.wikipedia.org/wiki/中澤寛規 "wikilink")（[GOING UNDER GROUND](../Page/GOING_UNDER_GROUND.md "wikilink")）
+  - [斉藤和義](../Page/斉藤和義.md "wikilink")
   - [坂井真紀](https://ja.wikipedia.org/wiki/坂井真紀 "wikilink")
-  - [崎山龍男](https://ja.wikipedia.org/wiki/崎山龍男 "wikilink")（[スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")）
-  - [佐藤タイジ](../Page/佐藤タイジ.md "wikilink")（[THEATRE BROOK](https://ja.wikipedia.org/wiki/THEATRE_BROOK "wikilink")）
-  - [佐野史郎](https://ja.wikipedia.org/wiki/佐野史郎 "wikilink")
-  - [椎名純平](https://ja.wikipedia.org/wiki/椎名純平 "wikilink")
+  - [崎山龍男](../Page/崎山龍男.md "wikilink")（[スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")）
+  - [佐藤タイジ](../Page/佐藤タイジ.md "wikilink")（[THEATRE BROOK](../Page/THEATRE_BROOK.md "wikilink")）
+  - [佐野史郎](../Page/佐野史郎.md "wikilink")
+  - [椎名純平](../Page/椎名純平.md "wikilink")
   - [白石美帆](https://ja.wikipedia.org/wiki/白石美帆 "wikilink")
   - Diggy-MO'（[SOUL'd OUT](../Page/SOUL'd_OUT.md "wikilink")）
   - [竹中直人](../Page/竹中直人.md "wikilink")
@@ -41,14 +41,14 @@
   - [トータス松本](../Page/トータス松本.md "wikilink")（[ウルフルズ](../Page/ウルフルズ.md "wikilink")）
   - [NAOTO](../Page/NAOTO_\(ヴァイオリニスト\).md "wikilink")
   - [浜崎貴司](../Page/浜崎貴司.md "wikilink")
-  - BOSE（[スチャダラパー](https://ja.wikipedia.org/wiki/スチャダラパー "wikilink")）
+  - BOSE（[スチャダラパー](../Page/スチャダラパー.md "wikilink")）
   - [一十三十一](https://ja.wikipedia.org/wiki/一十三十一 "wikilink")
   - [本間昭光](../Page/本間昭光.md "wikilink")
-  - [前田啓介](https://ja.wikipedia.org/wiki/前田啓介 "wikilink")（[レミオロメン](https://ja.wikipedia.org/wiki/レミオロメン "wikilink")）
-  - [南佳孝](https://ja.wikipedia.org/wiki/南佳孝 "wikilink")
+  - [前田啓介](../Page/前田啓介.md "wikilink")（[レミオロメン](../Page/レミオロメン.md "wikilink")）
+  - [南佳孝](../Page/南佳孝.md "wikilink")
   - [MOOMIN](https://ja.wikipedia.org/wiki/MOOMIN "wikilink")
   - [MEGUMI](https://ja.wikipedia.org/wiki/MEGUMI "wikilink")
-  - [YO-KING](https://ja.wikipedia.org/wiki/YO-KING "wikilink")
+  - [YO-KING](../Page/YO-KING.md "wikilink")
   - [吉岡美穂](../Page/吉岡美穂.md "wikilink")
 
 ## 楽器などの担当

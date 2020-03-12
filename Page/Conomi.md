@@ -1,13 +1,13 @@
 > この記事は[Conomi](https://ja.wikipedia.org/wiki/Conomi)から翻訳されています。
 
 
-**conomi**（このみ）は、[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")を中心に活動する[ローカルアイドル](https://ja.wikipedia.org/wiki/ローカルアイドル "wikilink")である。[アクターズインターナショナル・仙台](https://ja.wikipedia.org/wiki/アクターズインターナショナル・仙台 "wikilink")所属、レーベルは[リアライズレコード](https://ja.wikipedia.org/wiki/リアライズレコード "wikilink")。
+**conomi**（このみ）は、[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")を中心に活動する[ローカルアイドル](../Page/ローカルアイドル.md "wikilink")である。[アクターズインターナショナル・仙台](../Page/アクターズインターナショナル・仙台.md "wikilink")所属、レーベルは[リアライズレコード](../Page/リアライズレコード.md "wikilink")。
 
 ## 概要
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")夏に5人組のユニットとして結成された。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")の[七夕](../Page/七夕.md "wikilink")の日にデビューシングル「CATCH A SHOOTING STAR」をリリース。同曲は2006年の[仙台七夕](https://ja.wikipedia.org/wiki/仙台七夕 "wikilink")と[タイアップ](https://ja.wikipedia.org/wiki/タイアップ "wikilink")し、[星の宵まつり応援ソングとなり](https://ja.wikipedia.org/wiki/仙台七夕#星の宵まつり "wikilink")、[着うた](../Page/着うた.md "wikilink")などでも配信された\[1\]。地元ラジオにレギュラー番組を持っていた他、地元・東北各地、首都圏でのイベント出演やテレビの出演などの活動を行った。また、同じアクターズインターナショナルの仲間と共演することもあった。
+[2005年](../Page/2005年.md "wikilink")夏に5人組のユニットとして結成された。[2006年](../Page/2006年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")の[七夕](../Page/七夕.md "wikilink")の日にデビューシングル「CATCH A SHOOTING STAR」をリリース。同曲は2006年の[仙台七夕](../Page/仙台七夕.md "wikilink")と[タイアップ](../Page/タイアップ.md "wikilink")し、[星の宵まつり応援ソングとなり](https://ja.wikipedia.org/wiki/仙台七夕#星の宵まつり "wikilink")、[着うた](../Page/着うた.md "wikilink")などでも配信された\[1\]。地元ラジオにレギュラー番組を持っていた他、地元・東北各地、首都圏でのイベント出演やテレビの出演などの活動を行った。また、同じアクターズインターナショナルの仲間と共演することもあった。
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[11月23日](../Page/11月23日.md "wikilink")にリリースしたサードシングル「永遠の光～Fantasia～」は「[SENDAI光のページェント](https://ja.wikipedia.org/wiki/SENDAI光のページェント "wikilink")2007」の公式イメージソングであり、光のページェントのPR活動と運営に役立ててもらうための募金ライブなどを展開\[2\]、[TBCラジオの](../Page/東北放送.md "wikilink")12月度の「TBCイチオシパワープレイ」に選ばれている\[3\]。
+[2007年](../Page/2007年.md "wikilink")[11月23日](../Page/11月23日.md "wikilink")にリリースしたサードシングル「永遠の光～Fantasia～」は「[SENDAI光のページェント](../Page/SENDAI光のページェント.md "wikilink")2007」の公式イメージソングであり、光のページェントのPR活動と運営に役立ててもらうための募金ライブなどを展開\[2\]、[TBCラジオの](../Page/東北放送.md "wikilink")12月度の「TBCイチオシパワープレイ」に選ばれている\[3\]。
 
 ## メンバー
 
@@ -147,9 +147,9 @@
 </tbody>
 </table>
 
-  - 「CATCH A SHOOTING STAR」は2006年の [仙台七夕](https://ja.wikipedia.org/wiki/仙台七夕 "wikilink")まつり・[星の宵まつり応援ソング](https://ja.wikipedia.org/wiki/仙台七夕#星の宵まつり "wikilink")
+  - 「CATCH A SHOOTING STAR」は2006年の [仙台七夕](../Page/仙台七夕.md "wikilink")まつり・[星の宵まつり応援ソング](https://ja.wikipedia.org/wiki/仙台七夕#星の宵まつり "wikilink")
   - 「This Place-未来と過去のあいだ-」は「早慶外語ゼミ」CMソング（2007年）\[5\]
-  - 「永遠の光～Fantasia～」は2008年の[SENDAI光のページェント](https://ja.wikipedia.org/wiki/SENDAI光のページェント "wikilink")公式イメージソング
+  - 「永遠の光～Fantasia～」は2008年の[SENDAI光のページェント](../Page/SENDAI光のページェント.md "wikilink")公式イメージソング
       - [AKiKAの](../Page/荻原明香.md "wikilink")「永遠の光」のリアレンジバージョン（同じ歌詞だが曲は異なる）。
 
 ## 出演
@@ -159,34 +159,34 @@
 ### テレビ
 
   - ISHIMARU DASH on TV〜新Aiaiミュージックカーニバル（[スカイパーフェクTV](https://ja.wikipedia.org/wiki/スカイパーフェクTV "wikilink") エンタ371ch、2007年4月中旬 - 1ヶ月間リピート放送）
-  - [ウォッチン\!みやぎ](https://ja.wikipedia.org/wiki/ウォッチン!みやぎ "wikilink")（2007年11月23日、[TBCテレビ](../Page/東北放送.md "wikilink")）
+  - [ウォッチン\!みやぎ](../Page/ウォッチン!みやぎ.md "wikilink")（2007年11月23日、[TBCテレビ](../Page/東北放送.md "wikilink")）
   - 仙台音楽倶楽部 SPRING SPECIAL（2008年3月24日、NHK総合（宮城県））
   - 仙台音楽倶楽部 on TV（2008年4月 - 2009年3月、NHK総合（宮城県））- レギュラー
   - 仙台音楽倶楽部〜オータムスペシャル〜（2008年11月23日、NHK総合（宮城県））
 
 ### ラジオ
 
-  - ムービング・AIS（[FMじょんぱ毎週月曜日](https://ja.wikipedia.org/wiki/仙台市民放送 "wikilink")18:00 - 19:00）- レギュラー
+  - ムービング・AIS（[FMじょんぱ毎週月曜日](../Page/仙台市民放送.md "wikilink")18:00 - 19:00）- レギュラー
   - conomiのCATCH A SHOOTING STAR（2006年10月7日 - 2009年4月5日、[TBCラジオ毎週土曜日](../Page/東北放送.md "wikilink")23:20〜23:30）- 週1回レギュラー
       - 2007年4月2日より22:30 - 23:00に放送時間変更。
       - 2008年4月より22:00 - 22:25に放送時間変更。
       - 2008年10月5日より24:30 - 25:00に放送時間変更。
-  - CUBE-1-Music（2006年10月 - 2012年9月、[fmいずみ毎週水曜日](https://ja.wikipedia.org/wiki/せんだい泉エフエム放送 "wikilink")18:00 - 19:00）- レギュラー
+  - CUBE-1-Music（2006年10月 - 2012年9月、[fmいずみ毎週水曜日](../Page/せんだい泉エフエム放送.md "wikilink")18:00 - 19:00）- レギュラー
       - 2007年10月より毎週火曜日に変更、同じ[芸能事務所](../Page/芸能事務所.md "wikilink")に所属するAKiKA、E.Z.Cabaretなどと共演または交替出演
   - COME AND GO\!（2006年7月26日、fmいずみ）- 番組内15:00より「conomi」インストアライブ特別番組\[9\]
-  - [カラーズ](https://ja.wikipedia.org/wiki/カラーズ_\(ラジオ番組\) "wikilink")（2007年3月12日、11月20日、TBCラジオ）
+  - [カラーズ](../Page/カラーズ_\(ラジオ番組\).md "wikilink")（2007年3月12日、11月20日、TBCラジオ）
   - Groovin'J（2007年3月23日、ラジオ3）
   - Mi 未来の地図 \#78（2007年3月24日-31日、AMラジオ9局時差ネット。山形放送、信越放送、北陸放送、岐阜ラジオ、ラジオ関西、四国放送、山口放送、高知放送、南日本放送）
   - トワイライトウェーブ（2007年11月21日、ラジオ3）
   - YAGIYAMA発 [ラジオな気分](https://ja.wikipedia.org/wiki/ラジオな気分 "wikilink")（2007年12月11日、TBCラジオ）
-  - 仙台音楽倶楽部 SPRING SPECIAL（2008年3月15日、[NHK-FM](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")）- 公開生放送。
+  - 仙台音楽倶楽部 SPRING SPECIAL（2008年3月15日、[NHK-FM](../Page/NHK-FM放送.md "wikilink")）- 公開生放送。
   - conomiのbrilliant smile（2008年4月5日 - 2009年3月、[ラジオ3](https://ja.wikipedia.org/wiki/ラジオ3 "wikilink")毎週土曜日 13:00 - 13:30）- レギュラー
   - 仙台音楽倶楽部（2008年4月26日 - 2009年3月、NHK-FM）- レギュラーアシスタント\[10\]
   - 仙台音楽倶楽部～オータムスペシャル～（2008年10月18日、NHK-FM）- 公開生放送。
 
 ### CF
 
-  - [早慶外語ゼミ](../Page/早慶外語ゼミ.md "wikilink")（2007年3月6日 - 、[首都圏のみ](https://ja.wikipedia.org/wiki/首都圏_\(日本\) "wikilink")）- 表久禎（[速水もこみち](https://ja.wikipedia.org/wiki/速水もこみち "wikilink")の弟）と共演
+  - [早慶外語ゼミ](../Page/早慶外語ゼミ.md "wikilink")（2007年3月6日 - 、[首都圏のみ](https://ja.wikipedia.org/wiki/首都圏_\(日本\) "wikilink")）- 表久禎（[速水もこみち](../Page/速水もこみち.md "wikilink")の弟）と共演
 
 ### イベント
 

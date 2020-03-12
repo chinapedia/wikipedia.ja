@@ -1,9 +1,9 @@
 > この記事は[RtM](https://ja.wikipedia.org/wiki/RtM)から翻訳されています。
 
 
-**三菱商事RtMジャパン株式会社**（みつびししょうじRtMジャパン）（旧社名・**金商株式会社**（きんしょう））は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")に本社を置く[商社](https://ja.wikipedia.org/wiki/商社 "wikilink")。三菱商事の完全子会社である。
+**三菱商事RtMジャパン株式会社**（みつびししょうじRtMジャパン）（旧社名・**金商株式会社**（きんしょう））は、[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")に本社を置く[商社](../Page/商社.md "wikilink")。三菱商事の完全子会社である。
 
-終戦直後に[財閥解体](../Page/財閥解体.md "wikilink")に伴い解散した旧[三菱商事](https://ja.wikipedia.org/wiki/三菱商事 "wikilink")の非鉄金属部門を継承する会社として設立した。長らく非鉄金属の専門商社であったが、[2013年](../Page/2013年.md "wikilink")4月に三菱商事本体の金属資源トレーディング事業を継承。鉄鋼原料や貴金属などを含む金属資源全般を取り扱う商社となった。
+終戦直後に[財閥解体](../Page/財閥解体.md "wikilink")に伴い解散した旧[三菱商事](../Page/三菱商事.md "wikilink")の非鉄金属部門を継承する会社として設立した。長らく非鉄金属の専門商社であったが、[2013年](../Page/2013年.md "wikilink")4月に三菱商事本体の金属資源トレーディング事業を継承。鉄鋼原料や貴金属などを含む金属資源全般を取り扱う商社となった。
 
 ## 沿革
 
@@ -11,10 +11,10 @@
   - [1948年](../Page/1948年.md "wikilink")（昭和23年）8月、社名を**金商株式会社**に変更。
   - [1957年](../Page/1957年.md "wikilink")（昭和32年）5月15日 - 株式を店頭公開\[1\]。
   - [1960年](../Page/1960年.md "wikilink")（昭和35年）11月、又一株式会社を吸収合併。社名を**金商又一株式会社**に変更。
-  - [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")（昭和36年）10月、[東京証券取引所](https://ja.wikipedia.org/wiki/東京証券取引所 "wikilink")・[大阪証券取引所](https://ja.wikipedia.org/wiki/大阪証券取引所 "wikilink")各第一部に上場。
+  - [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")（昭和36年）10月、[東京証券取引所](../Page/東京証券取引所.md "wikilink")・[大阪証券取引所](https://ja.wikipedia.org/wiki/大阪証券取引所 "wikilink")各第一部に上場。
   - [1999年](../Page/1999年.md "wikilink")（平成11年）4月、社名を**金商株式会社**に変更。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）8月、三菱商事を引受先とする第三者割当増資を行い、同社子会社となる。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")（平成19年）[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")、三菱商事が同社の完全子会社化を目的とし、市場価格の約28%増しで[株式公開買い付け](https://ja.wikipedia.org/wiki/株式公開買い付け "wikilink")実施を発表。
+  - [2006年](../Page/2006年.md "wikilink")（平成18年）8月、三菱商事を引受先とする第三者割当増資を行い、同社子会社となる。
+  - [2007年](../Page/2007年.md "wikilink")（平成19年）[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")、三菱商事が同社の完全子会社化を目的とし、市場価格の約28%増しで[株式公開買い付け](https://ja.wikipedia.org/wiki/株式公開買い付け "wikilink")実施を発表。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）3月、三菱商事の完全子会社となり、上場廃止。
   - [2009年](../Page/2009年.md "wikilink")（平成21年）4月、社名を**三菱商事ユニメタルズ株式会社**に変更。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）4月、三菱商事軽金属販売株式会社を合併、新生・**三菱商事ユニメタルズ株式会社**となる。

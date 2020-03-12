@@ -1,13 +1,13 @@
 > この記事は[Ivory \(\)](https://ja.wikipedia.org/wiki/Ivory_\(\))から翻訳されています。
 
 
-『**Ivory**』（アイボリー）は、[今井美樹](https://ja.wikipedia.org/wiki/今井美樹 "wikilink")の初の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。[1989年](../Page/1989年.md "wikilink")[12月6日](../Page/12月6日.md "wikilink")発売。発売元は[フォーライフ・レコード](../Page/フォーライフ・レコード.md "wikilink")（現・[フォーライフミュージックエンタテイメント](https://ja.wikipedia.org/wiki/フォーライフミュージックエンタテイメント "wikilink")）。
+『**Ivory**』（アイボリー）は、[今井美樹](../Page/今井美樹.md "wikilink")の初の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[1989年](../Page/1989年.md "wikilink")[12月6日](../Page/12月6日.md "wikilink")発売。発売元は[フォーライフ・レコード](../Page/フォーライフ・レコード.md "wikilink")（現・[フォーライフミュージックエンタテイメント](../Page/フォーライフミュージックエンタテイメント.md "wikilink")）。
 
 ## 解説
 
 デビュー曲「[黄昏のモノローグ](https://ja.wikipedia.org/wiki/黄昏のモノローグ "wikilink")」から「[瞳がほほえむから](https://ja.wikipedia.org/wiki/瞳がほほえむから "wikilink")」までのシングル曲と、アルバム『[femme](https://ja.wikipedia.org/wiki/femme "wikilink")』から『[MOCHA](../Page/MOCHA.md "wikilink")』までに収録された楽曲の中からセレクトされている。
 
-[オリコンアルバムチャートでの最高位は](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")5位であるが、100週以上に及びチャートインするロングヒットとなった。累計売上は150万枚を超え\[1\]、自身初の[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を記録した。
+[オリコンアルバムチャートでの最高位は](../Page/オリコンチャート.md "wikilink")5位であるが、100週以上に及びチャートインするロングヒットとなった。累計売上は150万枚を超え\[1\]、自身初の[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を記録した。
 
 楽曲の選曲は、自ら行った\[2\]。本人の意向により、デビュー曲「黄昏のモノローグ」、3枚目のシングル「[静かにきたソリチュード](https://ja.wikipedia.org/wiki/静かにきたソリチュード "wikilink")」は収録されていない。また、1枚目のアルバム『femme』収録の「オレンジの河」は、「自分の思い入れのある曲なので、このアルバムの選曲では異色であると自分も思ったが、どうしても収録したかったので収録した。」と後日コメントしている。
 
@@ -16,16 +16,16 @@
 ## 収録曲
 
 1.  **夏をかさねて**
-      - 作詞：佐藤純子、作曲：[柿原朱美](https://ja.wikipedia.org/wiki/ak_\(シンガーソングライター\) "wikilink")、編曲：[佐藤準](https://ja.wikipedia.org/wiki/佐藤準 "wikilink")
+      - 作詞：佐藤純子、作曲：[柿原朱美](https://ja.wikipedia.org/wiki/ak_\(シンガーソングライター\) "wikilink")、編曲：[佐藤準](../Page/佐藤準.md "wikilink")
       - 3rdアルバム『[Bewith](../Page/Bewith.md "wikilink")』に収録
 2.  **とっておきの朝を**
-      - 作詞：今井美樹、作曲：[山梨鐐平](https://ja.wikipedia.org/wiki/山梨鐐平 "wikilink")、編曲：佐藤準
+      - 作詞：今井美樹、作曲：[山梨鐐平](../Page/山梨鐐平.md "wikilink")、編曲：佐藤準
       - 『Bewith』に収録
 3.  **ポールポジション**
-      - 作詞：[戸沢暢美](https://ja.wikipedia.org/wiki/戸沢暢美 "wikilink")、作曲：[中崎英也](https://ja.wikipedia.org/wiki/中崎英也 "wikilink")、編曲：佐藤準
+      - 作詞：[戸沢暢美](https://ja.wikipedia.org/wiki/戸沢暢美 "wikilink")、作曲：[中崎英也](../Page/中崎英也.md "wikilink")、編曲：佐藤準
       - 2ndアルバム『[elfin](https://ja.wikipedia.org/wiki/elfin "wikilink")』に収録
 4.  **[彼女とTIP ON DUO](https://ja.wikipedia.org/wiki/彼女とTIP_ON_DUO "wikilink")**
-      - 作詞：[秋元康](../Page/秋元康.md "wikilink")、作曲：[上田知華](https://ja.wikipedia.org/wiki/上田知華 "wikilink")、編曲：佐藤準
+      - 作詞：[秋元康](../Page/秋元康.md "wikilink")、作曲：[上田知華](../Page/上田知華.md "wikilink")、編曲：佐藤準
       - 4thシングル、アルバム未収録曲
       - [資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")'88秋のキャンペーンソング
 5.  **オレンジの河**
@@ -35,7 +35,7 @@
       - 作詞：戸沢暢美、作曲・編曲：佐藤準
       - 『Bewith』に収録、シングル「彼女とTIP ON DUO」カップリング曲
 7.  **[野性の風](https://ja.wikipedia.org/wiki/野性の風 "wikilink")（Album Remix）**
-      - 作詞：[川村真澄](https://ja.wikipedia.org/wiki/川村真澄 "wikilink")、作曲：[筒美京平](https://ja.wikipedia.org/wiki/筒美京平 "wikilink")、編曲：[久石譲](../Page/久石譲.md "wikilink")
+      - 作詞：[川村真澄](../Page/川村真澄.md "wikilink")、作曲：[筒美京平](https://ja.wikipedia.org/wiki/筒美京平 "wikilink")、編曲：[久石譲](../Page/久石譲.md "wikilink")
       - 『elfin』に収録、2ndシングルのリミックス楽曲
 8.  **[Boogie-Woogie Lonesome High-Heel](https://ja.wikipedia.org/wiki/Boogie-Woogie_Lonesome_High-Heel "wikilink")（Single Version）**
       - 作詞：戸沢暢美、作曲：上田知華、編曲：佐藤準
@@ -58,7 +58,7 @@
       - 特別企画アルバム『[fiesta](https://ja.wikipedia.org/wiki/fiesta_\(今井美樹のアルバム\) "wikilink")』に収録
 14. **[瞳がほほえむから](https://ja.wikipedia.org/wiki/瞳がほほえむから "wikilink")（Album Version）**
       - 作詞：岩里祐穂、作曲：上田知華、編曲：佐藤準
-      - 6thシングル、[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[水曜グランドロマン](https://ja.wikipedia.org/wiki/水曜グランドロマン "wikilink")』主題歌のリミックス
+      - 6thシングル、[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[水曜グランドロマン](../Page/水曜グランドロマン.md "wikilink")』主題歌のリミックス
 
 ## 脚注
 

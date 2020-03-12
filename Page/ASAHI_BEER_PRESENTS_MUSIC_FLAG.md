@@ -1,7 +1,7 @@
 > この記事は[ASAHI BEER PRESENTS MUSIC FLAG](https://ja.wikipedia.org/wiki/ASAHI_BEER_PRESENTS_MUSIC_FLAG)から翻訳されています。
 
 
-**ASAHI BEER PRESENTS MUSIC FLAG**（アサヒビール プレゼンツ ミュージック・フラッグ）は、[JFN加盟局](https://ja.wikipedia.org/wiki/全国FM放送協議会 "wikilink")38局ネットで放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。提供スポンサーは2009年12月までは[アサヒビール](../Page/アサヒビール.md "wikilink")：[アサヒスーパードライ](https://ja.wikipedia.org/wiki/アサヒスーパードライ "wikilink")による1商品であったが、2010年1月より[アサヒビール](../Page/アサヒビール.md "wikilink")一社のスポンサーとなり、タイトルもこれまでの「**ASAHI SUPER DRY MUSIC FLAG**」から「**ASAHI BEER PRESENTS MUSIC FLAG**」に改められた。[2011年](../Page/2011年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")最終回を迎えた。
+**ASAHI BEER PRESENTS MUSIC FLAG**（アサヒビール プレゼンツ ミュージック・フラッグ）は、[JFN加盟局](../Page/全国FM放送協議会.md "wikilink")38局ネットで放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。提供スポンサーは2009年12月までは[アサヒビール](../Page/アサヒビール.md "wikilink")：[アサヒスーパードライ](../Page/アサヒスーパードライ.md "wikilink")による1商品であったが、2010年1月より[アサヒビール](../Page/アサヒビール.md "wikilink")一社のスポンサーとなり、タイトルもこれまでの「**ASAHI SUPER DRY MUSIC FLAG**」から「**ASAHI BEER PRESENTS MUSIC FLAG**」に改められた。[2011年](../Page/2011年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")最終回を迎えた。
 
 ## 概要
 

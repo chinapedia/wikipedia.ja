@@ -1,7 +1,7 @@
 > この記事は[COLOR FILTER](https://ja.wikipedia.org/wiki/COLOR_FILTER)から翻訳されています。
 
 
-**COLOR FILTER**（カラー・フィルター）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の2人組[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")である。もともとはツネヨシリュウジの[ソロプロジェクト](https://ja.wikipedia.org/wiki/ソロプロジェクト "wikilink")だったがニシムラが加入。海外でもCDをリリースしている
+**COLOR FILTER**（カラー・フィルター）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の2人組[音楽ユニット](../Page/音楽ユニット.md "wikilink")である。もともとはツネヨシリュウジの[ソロプロジェクト](https://ja.wikipedia.org/wiki/ソロプロジェクト "wikilink")だったがニシムラが加入。海外でもCDをリリースしている
 
 ## メンバー
 
@@ -64,6 +64,6 @@
 ## 関連項目
 
   - [高野寛](../Page/高野寛.md "wikilink")
-  - [Venus Peter](https://ja.wikipedia.org/wiki/ヴィーナス・ペーター "wikilink")
+  - [Venus Peter](../Page/ヴィーナス・ペーター.md "wikilink")
 
 [Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink")

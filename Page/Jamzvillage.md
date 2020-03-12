@@ -1,7 +1,7 @@
 > この記事は[Jamzvillage](https://ja.wikipedia.org/wiki/Jamzvillage)から翻訳されています。
 
 
-**jamzvillage**（ジャムズヴィレッジ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[サウンドクリエイター](../Page/作曲家.md "wikilink")、[籾山高広](https://ja.wikipedia.org/wiki/籾山高広 "wikilink")（もみやま たかひろ）の[ソロプロジェクト](../Page/一人バンド.md "wikilink")。[エスエムイーレコーズ](https://ja.wikipedia.org/wiki/エスエムイーレコーズ "wikilink")より3枚のシングルを発表し、活動を休止した。
+**jamzvillage**（ジャムズヴィレッジ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[サウンドクリエイター](../Page/作曲家.md "wikilink")、[籾山高広](https://ja.wikipedia.org/wiki/籾山高広 "wikilink")（もみやま たかひろ）の[ソロプロジェクト](../Page/一人バンド.md "wikilink")。[エスエムイーレコーズ](../Page/エスエムイーレコーズ.md "wikilink")より3枚のシングルを発表し、活動を休止した。
 
 ## 概要・来歴
 
@@ -99,12 +99,12 @@ SECL-120:CCCD</p></td>
 <tr class="odd">
 <td><p>Let's Dance</p></td>
 <td><p><a href="../Page/日本テレビネットワーク協議会.md" title="wikilink">日本テレビ系</a>『<a href="../Page/ぐるぐるナインティナイン.md" title="wikilink">ぐるぐるナインティナイン</a>』エンディングテーマ<br />
-<a href="https://ja.wikipedia.org/wiki/TXN" title="wikilink">テレビ東京系</a>『<a href="https://ja.wikipedia.org/wiki/JAPAN_COUNTDOWN" title="wikilink">JAPAN COUNTDOWN</a>』エンディングテーマ</p></td>
+<a href="https://ja.wikipedia.org/wiki/TXN" title="wikilink">テレビ東京系</a>『<a href="../Page/JAPAN_COUNTDOWN.md" title="wikilink">JAPAN COUNTDOWN</a>』エンディングテーマ</p></td>
 </tr>
 <tr class="even">
 <td><p>Love Alone</p></td>
-<td><p><a href="../Page/ソニー.md" title="wikilink">ソニー</a>『<a href="../Page/ウォークマン.md" title="wikilink">ネットワークウォークマン</a>』<a href="https://ja.wikipedia.org/wiki/コマーシャルソング" title="wikilink">コマーシャルソング</a><br />
-<a href="https://ja.wikipedia.org/wiki/Japan_News_Network" title="wikilink">TBS系</a>『<a href="https://ja.wikipedia.org/wiki/ランク王国" title="wikilink">ランク王国</a>』10・11月度エンディングテーマ<br />
+<td><p><a href="../Page/ソニー.md" title="wikilink">ソニー</a>『<a href="../Page/ウォークマン.md" title="wikilink">ネットワークウォークマン</a>』<a href="../Page/コマーシャルソング.md" title="wikilink">コマーシャルソング</a><br />
+<a href="https://ja.wikipedia.org/wiki/Japan_News_Network" title="wikilink">TBS系</a>『<a href="../Page/ランク王国.md" title="wikilink">ランク王国</a>』10・11月度エンディングテーマ<br />
 TVK「BeaTriX TV」エンディングテーマ</p></td>
 </tr>
 </tbody>

@@ -1,7 +1,7 @@
 > この記事は[Tech Saturn](https://ja.wikipedia.org/wiki/Tech_Saturn)から翻訳されています。
 
 
-『**TECH SATURN**』（テックサターン）は、かつて[アスキーから発行されていた](../Page/アスキー_\(企業\).md "wikilink")[セガサターン](../Page/セガサターン.md "wikilink")専門の[ゲーム雑誌](https://ja.wikipedia.org/wiki/ゲーム雑誌 "wikilink")。ゲーム体験版や雑誌独自のデジタルコンテンツを収録したセガサターン用[CD-ROM](../Page/CD-ROM.md "wikilink")付きで、価格は1280円であることが多かった。
+『**TECH SATURN**』（テックサターン）は、かつて[アスキーから発行されていた](../Page/アスキー_\(企業\).md "wikilink")[セガサターン](../Page/セガサターン.md "wikilink")専門の[ゲーム雑誌](../Page/ゲーム雑誌.md "wikilink")。ゲーム体験版や雑誌独自のデジタルコンテンツを収録したセガサターン用[CD-ROM](../Page/CD-ROM.md "wikilink")付きで、価格は1280円であることが多かった。
 
 略称は「**てっさ**」。雑誌マスコットもそれに合わせて[フグ](../Page/フグ.md "wikilink")の「てっさ君」である。これはフグの刺身を“てっさ”と呼ぶことに由来している。
 

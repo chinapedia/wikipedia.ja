@@ -5,9 +5,9 @@
 
 ## 概要
 
-[1867年](../Page/1867年.md "wikilink")、ザ・ウェンズデイ・[クリケット](../Page/クリケット.md "wikilink")・クラブ (*The Wednesday Cricket Club*) にサッカー部門が設立されたのがシェフィールド・ウェンズデイFCの始まりである。最大のライバルは同じシェフィールドをホームタウンとする[シェフィールド・ユナイテッドFC](https://ja.wikipedia.org/wiki/シェフィールド・ユナイテッドFC "wikilink")で、ユナイテッドとの直接対決は[スティール・シティ・ダービー](https://ja.wikipedia.org/wiki/スティール・シティ・ダービー "wikilink")と称される。
+[1867年](../Page/1867年.md "wikilink")、ザ・ウェンズデイ・[クリケット](../Page/クリケット.md "wikilink")・クラブ (*The Wednesday Cricket Club*) にサッカー部門が設立されたのがシェフィールド・ウェンズデイFCの始まりである。最大のライバルは同じシェフィールドをホームタウンとする[シェフィールド・ユナイテッドFC](../Page/シェフィールド・ユナイテッドFC.md "wikilink")で、ユナイテッドとの直接対決は[スティール・シティ・ダービー](https://ja.wikipedia.org/wiki/スティール・シティ・ダービー "wikilink")と称される。
 
-本拠地として使用している[ヒルズボロ・スタジアム](https://ja.wikipedia.org/wiki/ヒルズボロ・スタジアム "wikilink")は、[1989年](../Page/1989年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")に開催された[FAカップ](../Page/FAカップ.md "wikilink")準決勝、[リヴァプール対](../Page/リヴァプールFC.md "wikilink")[ノッティンガム・フォレストFC](../Page/ノッティンガム・フォレストFC.md "wikilink")の際に、多くのサポーターが死傷した。この事故は「[ヒルズボロの悲劇](../Page/ヒルズボロの悲劇.md "wikilink")」と称される。
+本拠地として使用している[ヒルズボロ・スタジアム](../Page/ヒルズボロ・スタジアム.md "wikilink")は、[1989年](../Page/1989年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")に開催された[FAカップ](../Page/FAカップ.md "wikilink")準決勝、[リヴァプール対](../Page/リヴァプールFC.md "wikilink")[ノッティンガム・フォレストFC](../Page/ノッティンガム・フォレストFC.md "wikilink")の際に、多くのサポーターが死傷した。この事故は「[ヒルズボロの悲劇](../Page/ヒルズボロの悲劇.md "wikilink")」と称される。
 
 なお、前述の通り、[ヘディング](../Page/ヘディング.md "wikilink")という技術を発明したのはこのクラブの選手たちである。[1863年](../Page/1863年.md "wikilink")に[イングランドで](https://ja.wikipedia.org/wiki/イングランドサッカー協会 "wikilink")[近代サッカー (現在のサッカー)が誕生した時はヘディングという技術は無かったが](https://ja.wikipedia.org/wiki/サッカー "wikilink")、ウェンズデイの選手たちがヘディングを発明し、広がっていった\[2\]。当時のボールは現代とは異なり、固くて重く、非常に勇気のあるプレーだったという。
 
@@ -410,7 +410,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ポール・ジュエル" title="wikilink">ポール・ジュエル</a></p></td>
+<td><p><a href="../Page/ポール・ジュエル.md" title="wikilink">ポール・ジュエル</a></p></td>
 <td></td>
 <td></td>
 <td><p>|12|21|5}}</p></td>
@@ -570,15 +570,15 @@
 
   - [エメルソン・トーメ](../Page/エメルソン・アウグスト・トーメ.md "wikilink")
 
-  - [ゴッツェ・セドロスキー](https://ja.wikipedia.org/wiki/ゴッツェ・セドロスキー "wikilink")
+  - [ゴッツェ・セドロスキー](../Page/ゴッツェ・セドロスキー.md "wikilink")
 
   - [サム・ハッチンソン](../Page/サム・ハッチンソン.md "wikilink")
 
   - [ヴィム・ヨンク](../Page/ヴィム・ヨンク.md "wikilink")
 
-  - [パオロ・ディ・カーニオ](https://ja.wikipedia.org/wiki/パオロ・ディ・カーニオ "wikilink")
+  - [パオロ・ディ・カーニオ](../Page/パオロ・ディ・カーニオ.md "wikilink")
 
-  - [ニクラス・アレクサンデション](https://ja.wikipedia.org/wiki/ニクラス・アレクサンデション "wikilink")
+  - [ニクラス・アレクサンデション](../Page/ニクラス・アレクサンデション.md "wikilink")
 
   - [シェフキ・クキ](../Page/シェフキ・クキ.md "wikilink") 2002-2003
 

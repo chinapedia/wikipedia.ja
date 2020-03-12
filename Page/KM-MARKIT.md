@@ -1,7 +1,7 @@
 > この記事は[KM-MARKIT](https://ja.wikipedia.org/wiki/KM-MARKIT)から翻訳されています。
 
 
-**KM-MARKIT**（ケムマキ、[1976年](../Page/1976年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink") -)は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。
+**KM-MARKIT**（ケムマキ、[1976年](../Page/1976年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink") -)は、[東京都](../Page/東京都.md "wikilink")出身の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。
 
 ## ＜プロフィール＞
 
@@ -16,7 +16,7 @@
 
 ### 参加楽曲
 
-  - Doytena 2000 ([LIBRO](https://ja.wikipedia.org/wiki/LIBRO "wikilink") feat. ARK, KEMUMAKI, DOBINSKI)
+  - Doytena 2000 ([LIBRO](../Page/LIBRO.md "wikilink") feat. ARK, KEMUMAKI, DOBINSKI)
       -
         LIBRO 「胎動」 トラック7 (1998年12月25日)
   - THE SHOW CASE (THREE THE HARD WAY) ([LOW IQ 01](https://ja.wikipedia.org/wiki/LOW_IQ_01 "wikilink") × [ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink") & UBG FAMILY)
@@ -25,7 +25,7 @@
   - BEAT BOXING (ZEEBRA featuring KM-MARKIT)
       -
         ZEEBRA 「BASED ON A TRUE STORY」 トラック5 (2000年6月14日)
-  - 嘘八百 ([三善/善三](https://ja.wikipedia.org/wiki/三善/善三 "wikilink") feat. [MICADELIC](https://ja.wikipedia.org/wiki/MICADELIC "wikilink"),[INDEMORAL](https://ja.wikipedia.org/wiki/INDEMORAL "wikilink"), KM-MARKIT, [MINE神-HOLD](https://ja.wikipedia.org/wiki/MINESIN-HOLD "wikilink"), BACKGAMMON, DOBINSKI)
+  - 嘘八百 ([三善/善三](https://ja.wikipedia.org/wiki/三善/善三 "wikilink") feat. [MICADELIC](../Page/MICADELIC.md "wikilink"),[INDEMORAL](../Page/INDEMORAL.md "wikilink"), KM-MARKIT, [MINE神-HOLD](https://ja.wikipedia.org/wiki/MINESIN-HOLD "wikilink"), BACKGAMMON, DOBINSKI)
       -
         三善/善三 「三善的大魔境」 トラック14 (2000年12月20日)
   - ONEWAY (KM-MARKIT)
@@ -34,18 +34,18 @@
   - URBAN BARBARLIAN GUERRILLA (UBG)
       -
         オムニバス 「GUERRILLA GROWING PLATINUM」 トラック2 (2002年6月19日)
-  - CHANGE THE GAME ([DJ OASIS](https://ja.wikipedia.org/wiki/DJ_OASIS "wikilink") feat. [K DUB SHINE](https://ja.wikipedia.org/wiki/K_DUB_SHINE "wikilink"), ZEEBRA, [童子-T](https://ja.wikipedia.org/wiki/童子-T "wikilink"), [UZI](https://ja.wikipedia.org/wiki/UZI_\(ミュージシャン\) "wikilink"), JA飛龍, O.J & S.T, KM-MARKIT)
+  - CHANGE THE GAME ([DJ OASIS](../Page/DJ_OASIS.md "wikilink") feat. [K DUB SHINE](https://ja.wikipedia.org/wiki/K_DUB_SHINE "wikilink"), ZEEBRA, [童子-T](../Page/童子-T.md "wikilink"), [UZI](https://ja.wikipedia.org/wiki/UZI_\(ミュージシャン\) "wikilink"), JA飛龍, O.J & S.T, KM-MARKIT)
       -
         オムニバス 「Change The Game」 トラック1 (2002年12月18日)
   - G.Y.M (feat. OJ & ST, KM-MARKIT, BRZ)
       -
         オムニバス 「NEW DEAL PRESENTS SHOW and PROVE」 トラック3 (2003年5月8日)
-  - Stop the Violence ([DJ YUTAKA](https://ja.wikipedia.org/wiki/DJ_YUTAKA "wikilink") feat. ZEEBRA, UZI, O.J & S.T, KM-MARKIT)
+  - Stop the Violence ([DJ YUTAKA](../Page/DJ_YUTAKA.md "wikilink") feat. ZEEBRA, UZI, O.J & S.T, KM-MARKIT)
       -
-        [DJ YUTAKA](https://ja.wikipedia.org/wiki/DJ_YUTAKA "wikilink") 「UNITED NATIONS III」 トラック3 (2003年9月26日)
-  - THE TRAINING DAY ([DJ MASTERKEY](https://ja.wikipedia.org/wiki/DJ_MASTERKEY "wikilink") feat. ZEEBRA, UZI, OJ & ST, KM-MARKIT, CHINO)
+        [DJ YUTAKA](../Page/DJ_YUTAKA.md "wikilink") 「UNITED NATIONS III」 トラック3 (2003年9月26日)
+  - THE TRAINING DAY ([DJ MASTERKEY](../Page/DJ_MASTERKEY.md "wikilink") feat. ZEEBRA, UZI, OJ & ST, KM-MARKIT, CHINO)
       -
-        [DJ MASTERKEY](https://ja.wikipedia.org/wiki/DJ_MASTERKEY "wikilink") 「DADDY'S HOUSE VOL.3」 トラック7 (2005年1月26日)
+        [DJ MASTERKEY](../Page/DJ_MASTERKEY.md "wikilink") 「DADDY'S HOUSE VOL.3」 トラック7 (2005年1月26日)
         DJ MASTERKEY 「ADVENTURE OF DADDY'S HOUSE」 ディスク1 トラック4 (2006年6月7日)
   - Hot Stuff ([倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink") feat. KM-MARKIT)
       -
@@ -57,7 +57,7 @@
   - IT'S ALL A G\[@\]ME (UBG REMIX) (ZEEBRA FEAT. GOTZ, CHINO, SUMI AND KM-MARKIT)
       -
         ZEEBRA 「Street Dreams」 トラック3 (2005年6月1日)
-  - MUSIC TRIBE ([Full Of Harmony](https://ja.wikipedia.org/wiki/Full_Of_Harmony "wikilink") featuring Q, KM-MARKIT)
+  - MUSIC TRIBE ([Full Of Harmony](../Page/Full_Of_Harmony.md "wikilink") featuring Q, KM-MARKIT)
       -
         Full Of Harmony 「DRAMA」 トラック2 (2006年1月11日)
   - Taste Of Honey (ZEEBRA feat. [CO-KEY](../Page/CO-KEY.md "wikilink") & KM-MARKIT)

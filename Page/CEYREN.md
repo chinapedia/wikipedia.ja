@@ -3,15 +3,15 @@
 
 **CEYREN**（セイレン）は、日本の女性[歌手](../Page/歌手.md "wikilink")。[ソングライター](../Page/ソングライター.md "wikilink")。
 
-名前の由来は[ギリシャ神話](https://ja.wikipedia.org/wiki/ギリシャ神話 "wikilink")の歌声の 美しい双尾の人魚[セイレーン](https://ja.wikipedia.org/wiki/セイレーン "wikilink")（Seiren）から。
+名前の由来は[ギリシャ神話](https://ja.wikipedia.org/wiki/ギリシャ神話 "wikilink")の歌声の 美しい双尾の人魚[セイレーン](../Page/セイレーン.md "wikilink")（Seiren）から。
 
 ## プロフィール
 
 2003年に「Get it started feat."E"qual」 (HARLEM RECORDINGS)でインディーズ・デビュー。 その直後にバーチャル・ユニット「BRATZ」のリード・ヴォーカルとしてavex traxよりデビュー。“BRATZ”では、「Show me what you got」で[BoA](../Page/BoA.md "wikilink")や[Howie D.](https://ja.wikipedia.org/wiki/バックストリート・ボーイズ "wikilink") （[Backstreet Boys](https://ja.wikipedia.org/wiki/バックストリート・ボーイズ "wikilink")）と、「LOOK AROUND」ではChristina Millianやverbal ([m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink"))と共演している。
 
-2006年3月にソロデビュー。デビュー・シングル『雨』（[オダギリジョー](../Page/オダギリジョー.md "wikilink")主演のドラマ『[時効警察](../Page/時効警察.md "wikilink")』のエンディング・テーマソング）をリリース。＜原曲は[森高千里](../Page/森高千里.md "wikilink")＞CEYRENの潤いのある歌声とオリジナルとは異なる表現力が支持を得、[USEN](https://ja.wikipedia.org/wiki/USEN "wikilink")チャートにて最高9位までランク・インするなど話題を呼ぶ。
+2006年3月にソロデビュー。デビュー・シングル『雨』（[オダギリジョー](../Page/オダギリジョー.md "wikilink")主演のドラマ『[時効警察](../Page/時効警察.md "wikilink")』のエンディング・テーマソング）をリリース。＜原曲は[森高千里](../Page/森高千里.md "wikilink")＞CEYRENの潤いのある歌声とオリジナルとは異なる表現力が支持を得、[USEN](../Page/USEN.md "wikilink")チャートにて最高9位までランク・インするなど話題を呼ぶ。
 
-実力派シンガーソングライターで[BoA](../Page/BoA.md "wikilink")、[shela](https://ja.wikipedia.org/wiki/shela "wikilink")、[TRF](../Page/TRF.md "wikilink")、[BRATZ](https://ja.wikipedia.org/wiki/BRATZ "wikilink")、[椿などへの作詞も手がけている](https://ja.wikipedia.org/wiki/椿_\(歌手\) "wikilink")。
+実力派シンガーソングライターで[BoA](../Page/BoA.md "wikilink")、[shela](https://ja.wikipedia.org/wiki/shela "wikilink")、[TRF](../Page/TRF.md "wikilink")、[BRATZ](https://ja.wikipedia.org/wiki/BRATZ "wikilink")、[椿などへの作詞も手がけている](../Page/椿_\(歌手\).md "wikilink")。
 
 現在、[BOLDO](https://ja.wikipedia.org/wiki/BOLDO "wikilink")として活動中。
 
@@ -76,7 +76,7 @@ cotton voice Tsubaki M9.off\~あの場所へ\~　作詞
 
   - 2004.1.28
 
-[椿](https://ja.wikipedia.org/wiki/椿_\(歌手\) "wikilink")『CAMELLIA』 M1:Intro(作曲) M9:FRIENDS(作詞) 東芝EMI
+[椿](../Page/椿_\(歌手\).md "wikilink")『CAMELLIA』 M1:Intro(作曲) M9:FRIENDS(作詞) 東芝EMI
 
   - 2003.11.19
 
@@ -162,7 +162,7 @@ BoA『Jumping into the World』 作詞 M3:DESTINY M6:POWER M7:Let U go M11:Dream
 <li>ALL FOR YOU</li>
 <li>CRAZY FOR YOU</li>
 <li>ALL FOR YOU -FULL OF LOVE MIX-</li>
-<li>CRAZY FOR YOU -DJ BENKEI REMIX feat.<a href="https://ja.wikipedia.org/wiki/DOBERMAN_INFINITY" title="wikilink">TOMOGEN from DOBERMAN INC</a>-</li>
+<li>CRAZY FOR YOU -DJ BENKEI REMIX feat.<a href="../Page/DOBERMAN_INFINITY.md" title="wikilink">TOMOGEN from DOBERMAN INC</a>-</li>
 </ol></td>
 <td></td>
 <td><p>avex</p></td>
@@ -214,7 +214,7 @@ BoA『Jumping into the World』 作詞 M3:DESTINY M6:POWER M7:Let U go M11:Dream
 <tbody>
 <tr class="odd">
 <td><p>雨</p></td>
-<td><p><a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a>系<a href="https://ja.wikipedia.org/wiki/金曜ナイトドラマ" title="wikilink">金曜ナイトドラマ</a>「<a href="../Page/時効警察.md" title="wikilink">時効警察</a>」主題歌</p></td>
+<td><p><a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a>系<a href="../Page/金曜ナイトドラマ.md" title="wikilink">金曜ナイトドラマ</a>「<a href="../Page/時効警察.md" title="wikilink">時効警察</a>」主題歌</p></td>
 </tr>
 <tr class="even">
 <td><p>ALL FOR YOU</p></td>

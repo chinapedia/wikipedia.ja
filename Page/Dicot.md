@@ -1,7 +1,7 @@
 > この記事は[Dicot](https://ja.wikipedia.org/wiki/Dicot)から翻訳されています。
 
 
-**dicot**（ディコット）は、[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")出身の女性2人組ガールポップデュオ。2001年[SMEレコーズよりメジャーデビュー](https://ja.wikipedia.org/wiki/エスエムイーレコーズ "wikilink")。2004年解散。ユニット名は「双葉」という意味。
+**dicot**（ディコット）は、[福岡県](../Page/福岡県.md "wikilink")出身の女性2人組ガールポップデュオ。2001年[SMEレコーズよりメジャーデビュー](../Page/エスエムイーレコーズ.md "wikilink")。2004年解散。ユニット名は「双葉」という意味。
 
 ## 概要
 
@@ -26,7 +26,7 @@
 
 1.  ア★イ★ツ（2001年4月25日）オリコン91位
     1.  ア★イ★ツ\[3:25\]（作詞・作曲：かな／編曲：野山昭雄）
-          - テレビ東京系アニメ[超GALS\!寿蘭オープニングテーマ](https://ja.wikipedia.org/wiki/GALS! "wikilink")/「[全国農業協同組合連合会](../Page/全国農業協同組合連合会.md "wikilink")」CMソング
+          - テレビ東京系アニメ[超GALS\!寿蘭オープニングテーマ](../Page/GALS!.md "wikilink")/「[全国農業協同組合連合会](../Page/全国農業協同組合連合会.md "wikilink")」CMソング
     2.  えら呼吸\[3:52\]
     3.  春黄色の中で\[3:32\]
     4.  ア★イ★ツ (カラオケ)\[3:21\]
@@ -40,12 +40,12 @@
     2.  無添加のアウストラロピテクス\[3:35\]（作詞・作曲：かな／編曲：野山昭雄）
     3.  弱虫\[3:36\]（作詞・作曲：しの／編曲：野山昭雄）
 4.  二十五回目の夏（2002年8月21日）
-    1.  二十五回目の夏\[3:54\]（作詞：dicot／作曲：[杉真理](https://ja.wikipedia.org/wiki/杉真理 "wikilink")／編曲：[石川鉄男](https://ja.wikipedia.org/wiki/石川鉄男 "wikilink")）
+    1.  二十五回目の夏\[3:54\]（作詞：dicot／作曲：[杉真理](../Page/杉真理.md "wikilink")／編曲：[石川鉄男](https://ja.wikipedia.org/wiki/石川鉄男 "wikilink")）
     2.  とある昼下がり\[4:01\]（作詞・作曲：しの／編曲：百石元）
     3.  休みなさいっと…\[4:21\]（作詞：かな／作曲：かな・百石元／編曲：百石元）
     4.  二十五回目の夏（カラオケ）\[3:54\]
-5.  [太陽がくれた季節](../Page/太陽がくれた季節.md "wikilink")/[あの素晴らしい愛をもう一度](https://ja.wikipedia.org/wiki/あの素晴らしい愛をもう一度 "wikilink")（[青い三角定規](https://ja.wikipedia.org/wiki/青い三角定規 "wikilink")/[ザ・フォーク・クルセダーズ](https://ja.wikipedia.org/wiki/ザ・フォーク・クルセダーズ "wikilink")をパンクカバー　2003年5月21日/2004年7月7日）
-    1.  太陽がくれた季節\[2:56\]（作詞：[山川啓介](../Page/山川啓介.md "wikilink")／作曲：[いずみたく](https://ja.wikipedia.org/wiki/いずみたく "wikilink")／編曲：[本間昭光](../Page/本間昭光.md "wikilink")）
+5.  [太陽がくれた季節](../Page/太陽がくれた季節.md "wikilink")/[あの素晴らしい愛をもう一度](https://ja.wikipedia.org/wiki/あの素晴らしい愛をもう一度 "wikilink")（[青い三角定規](../Page/青い三角定規.md "wikilink")/[ザ・フォーク・クルセダーズ](https://ja.wikipedia.org/wiki/ザ・フォーク・クルセダーズ "wikilink")をパンクカバー　2003年5月21日/2004年7月7日）
+    1.  太陽がくれた季節\[2:56\]（作詞：[山川啓介](../Page/山川啓介.md "wikilink")／作曲：[いずみたく](../Page/いずみたく.md "wikilink")／編曲：[本間昭光](../Page/本間昭光.md "wikilink")）
           - [MBS](../Page/毎日放送.md "wikilink"),[GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink")放映[選抜高等学校野球大会](https://ja.wikipedia.org/wiki/選抜高等学校野球大会 "wikilink")ダイジェスト番組「[みんなの甲子園](../Page/みんなの甲子園.md "wikilink")」主題歌＆CM入り[ジングル](https://ja.wikipedia.org/wiki/ジングル "wikilink")。
     2.  あの素晴らしい愛をもう一度\[3:53\]（作詞：[北山修](../Page/北山修.md "wikilink")／作曲：[加藤和彦](../Page/加藤和彦.md "wikilink")／編曲：本間昭光）
           - MBS「みんなの甲子園」の挿入歌、この二曲は当初番組オリジナル曲扱い
@@ -79,7 +79,7 @@
   - [パパパパPUFFY](https://ja.wikipedia.org/wiki/パパパパPUFFY "wikilink")(2001年8月8日/2001年8月15日)
   - [HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")(2001年5月14日/2001年7月23日)
   - [ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")(2001年5月18日)
-  - [WEST21](https://ja.wikipedia.org/wiki/WEST21 "wikilink")
+  - [WEST21](../Page/WEST21.md "wikilink")
   - [音楽職業案内所ドレかむ](https://ja.wikipedia.org/wiki/音楽職業案内所ドレかむ "wikilink")(2003年8月14日)
   - [Girl Pop Factory](https://ja.wikipedia.org/wiki/Girl_Pop_Factory "wikilink")(2003年8月4日)
   - [ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")(2003年5月24日)
@@ -106,7 +106,7 @@
 
 ## 関連項目
 
-  - [GALS\!](https://ja.wikipedia.org/wiki/GALS! "wikilink")
+  - [GALS\!](../Page/GALS!.md "wikilink")
   - [GIRL POP FACTORY](https://ja.wikipedia.org/wiki/GIRL_POP_FACTORY "wikilink")
   - [本間昭光](../Page/本間昭光.md "wikilink")
 

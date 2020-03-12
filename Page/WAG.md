@@ -3,7 +3,7 @@
 
 **WAG**（ワグ）は、日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[GIZA studio所属](../Page/GIZA_studio.md "wikilink")。
 
-[ビーイング](../Page/ビーイング.md "wikilink")系男性バンドであり、メンバー同士が兄弟・従兄弟・幼馴染という関係である。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")活動休止、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")末解散。
+[ビーイング](../Page/ビーイング.md "wikilink")系男性バンドであり、メンバー同士が兄弟・従兄弟・幼馴染という関係である。[2005年](../Page/2005年.md "wikilink")活動休止、[2006年](../Page/2006年.md "wikilink")末解散。
 
 ## メンバー
 
@@ -23,7 +23,7 @@
 <td><p><a href="../Page/1979年.md" title="wikilink">1979年</a><a href="../Page/1月31日.md" title="wikilink">1月31日</a>生まれ。<a href="../Page/大阪府.md" title="wikilink">大阪府</a><a href="../Page/池田市.md" title="wikilink">池田市</a>出身。</p>
 <dl>
 <dt>平山裕司の兄。身長183cm。血液型O型。<a href="https://ja.wikipedia.org/wiki/箕面自由学園高等学校" title="wikilink">箕面自由学園高等学校</a>、<a href="../Page/甲南大学.md" title="wikilink">甲南大学</a>卒業。<br />
-尊敬するアーティストは<a href="https://ja.wikipedia.org/wiki/ステレオフォニックス" title="wikilink">ステレオフォニックス</a>のケリー・ジョーンズ。</dt>
+尊敬するアーティストは<a href="../Page/ステレオフォニックス.md" title="wikilink">ステレオフォニックス</a>のケリー・ジョーンズ。</dt>
 
 </dl></td>
 </tr>
@@ -46,7 +46,7 @@
 <dl>
 <dt>平山裕司の幼馴染で同学年。身長170cm。血液型A型。<a href="https://ja.wikipedia.org/wiki/箕面自由学園高等学校" title="wikilink">箕面自由学園高等学校</a>卒業。<br />
 中学生の頃、担任の教師がギターを弾いているのを見て、憧れたのがギターを始めたきっかけ。<br />
-好きなアーティストは<a href="../Page/ニルヴァーナ_(アメリカ合衆国のバンド).md" title="wikilink">ニルヴァーナの</a><a href="../Page/カート・コバーン.md" title="wikilink">カート・コバーン</a>、<a href="https://ja.wikipedia.org/wiki/マリリン・マンソン" title="wikilink">マリリン・マンソン</a>。</dt>
+好きなアーティストは<a href="../Page/ニルヴァーナ_(アメリカ合衆国のバンド).md" title="wikilink">ニルヴァーナの</a><a href="../Page/カート・コバーン.md" title="wikilink">カート・コバーン</a>、<a href="../Page/マリリン・マンソン.md" title="wikilink">マリリン・マンソン</a>。</dt>
 
 </dl></td>
 </tr>
@@ -80,10 +80,10 @@ WAGへの加入をきっかけにギターからドラムへ転向した。<br /
 <tr class="odd">
 <td><p>南公祐<br />
 みなみ・こうすけ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ベース_(弦楽器)" title="wikilink">ベース</a></p></td>
+<td><p><a href="../Page/ベース_(弦楽器).md" title="wikilink">ベース</a></p></td>
 <td><p><a href="../Page/1977年.md" title="wikilink">1977年</a><a href="../Page/5月21日.md" title="wikilink">5月21日</a>生まれ。<a href="https://ja.wikipedia.org/wiki/三重県" title="wikilink">三重県</a><a href="https://ja.wikipedia.org/wiki/伊賀市" title="wikilink">伊賀市</a>出身。唯一池田市外である。</p>
 <dl>
-<dt>平山兄弟の従兄。血液型AB型。身長174cm。<a href="../Page/三重県立上野高等学校.md" title="wikilink">三重県立上野高等学校</a>、<a href="https://ja.wikipedia.org/wiki/関西学院大学" title="wikilink">関西学院大学</a>卒業。<br />
+<dt>平山兄弟の従兄。血液型AB型。身長174cm。<a href="../Page/三重県立上野高等学校.md" title="wikilink">三重県立上野高等学校</a>、<a href="../Page/関西学院大学.md" title="wikilink">関西学院大学</a>卒業。<br />
 <a href="../Page/オーシャン・カラー・シーン.md" title="wikilink">オーシャン・カラー・シーン</a>のデーモン・ミンケラに憧れてベースを始める。<br />
 大学では<a href="../Page/アイルランド文学.md" title="wikilink">アイルランド文学</a>を専攻しており、インディーズ作品ではすべての英語詞を手掛けた。<br />
 <a href="../Page/2004年.md" title="wikilink">2004年</a><a href="../Page/3月31日.md" title="wikilink">3月31日</a>付で脱退。</dt>
@@ -96,15 +96,15 @@ WAGへの加入をきっかけにギターからドラムへ転向した。<br /
 ## 略歴
 
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、平山兄弟を中心に結成。メンバーチェンジを繰り返し、現メンバーに至る。
-  - [1999年](../Page/1999年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")、CDデビュー前ながら[サンヨーポータブルMD](../Page/三洋電機.md "wikilink")『[MD-U4](https://ja.wikipedia.org/wiki/U4_\(三洋電機\) "wikilink")』イメージソングに「Odyssey」が起用され、本人たちも同製品のTVCMに出演する。
+  - [1999年](../Page/1999年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")、CDデビュー前ながら[サンヨーポータブルMD](../Page/三洋電機.md "wikilink")『[MD-U4](../Page/U4_\(三洋電機\).md "wikilink")』イメージソングに「Odyssey」が起用され、本人たちも同製品のTVCMに出演する。
   - 1999年[7月10日](../Page/7月10日.md "wikilink")、インディーズシングル「Odyssey」をGarage Indies Zapping Association（[GIZA studio直属インディーズレーベル](../Page/GIZA_studio.md "wikilink")）よりリリース。各メンバー自身がデザインしたオリジナルTシャツ付パッケージも数量限定発売される。
   - 1999年[10月14日](../Page/10月14日.md "wikilink")、シングル「[Free Magic](../Page/Free_Magic.md "wikilink")」でGIZA studioよりメジャーデビュー。リリース前からアニメ『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")』のエンディングテーマに起用されていた。オリコンチャート最高位30位。
   - [2001年](../Page/2001年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")、メジャー初のアルバム『WAG』を発売。
-  - [2004年](../Page/2004年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")、シングル「[吹きすさぶ風の中で](https://ja.wikipedia.org/wiki/吹きすさぶ風の中で "wikilink")」を発売。「[Free Magic](../Page/Free_Magic.md "wikilink")」以来のオリコンチャートランクインとなるオリコンチャート最高位64位。
+  - [2004年](../Page/2004年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")、シングル「[吹きすさぶ風の中で](../Page/吹きすさぶ風の中で.md "wikilink")」を発売。「[Free Magic](../Page/Free_Magic.md "wikilink")」以来のオリコンチャートランクインとなるオリコンチャート最高位64位。
   - 2004年[3月31日](../Page/3月31日.md "wikilink")、南公祐が脱退。翌日公式サイトで発表される。
   - 2004年[5月26日](../Page/5月26日.md "wikilink")、4人編成での最初で最後のシングルとなった「[Don't look back again](https://ja.wikipedia.org/wiki/Don't_look_back_again "wikilink")」を発売。オリコンチャート最高位104位を獲得した。尚、同シングルに封入されていたアンケート葉書では、3枚目のアルバムを制作中といった内容が記されていたが、今作を最後にリリースが停止した。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月28日](../Page/11月28日.md "wikilink")、公式ファンクラブ『WAG-ON\!』の解散が発表。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月31日](../Page/12月31日.md "wikilink")、正式解散。翌[2007年](../Page/2007年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")にはオフィシャルサイト上で活動を中止した旨が明かされる。
+  - [2005年](../Page/2005年.md "wikilink")[11月28日](../Page/11月28日.md "wikilink")、公式ファンクラブ『WAG-ON\!』の解散が発表。
+  - [2006年](../Page/2006年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink")、正式解散。翌[2007年](../Page/2007年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")にはオフィシャルサイト上で活動を中止した旨が明かされる。
   - [2012年](../Page/2012年.md "wikilink")[3月20日](../Page/3月20日.md "wikilink")、解散後、約5年3か月の沈黙を破り、[hillsパン工場](https://ja.wikipedia.org/wiki/hillsパン工場 "wikilink")でのライブ『ロックンロールxシンドローム-hillsパン工場 9th Anniversary　edition』に平山兄弟と柳田がスペシャルゲストとして出演。8年ぶりのライブとなった。
 
 ## ディスコグラフィー
@@ -122,7 +122,7 @@ WAGへの加入をきっかけにギターからドラムへ転向した。<br /
 | 7th  | 2002年[12月18日](../Page/12月18日.md "wikilink")                                | [Rollin' Man](https://ja.wikipedia.org/wiki/Rollin'_Man "wikilink")                                             | GZCA-7009 |                                                                                        |
 | 8th  | [2003年](../Page/2003年.md "wikilink")[5月28日](../Page/5月28日.md "wikilink")   | [FIGHT SONG](https://ja.wikipedia.org/wiki/FIGHT_SONG "wikilink")                                               | GZCA-7017 |                                                                                        |
 | 9th  | 2003年[8月6日](../Page/8月6日.md "wikilink")                                    | [そして今日も何処かで](https://ja.wikipedia.org/wiki/そして今日も何処かで "wikilink")                                               | GZCA-7028 |                                                                                        |
-| 10th | [2004年](../Page/2004年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")   | [吹きすさぶ風の中で](https://ja.wikipedia.org/wiki/吹きすさぶ風の中で "wikilink")                                                 | GZCA-7041 |                                                                                        |
+| 10th | [2004年](../Page/2004年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")   | [吹きすさぶ風の中で](../Page/吹きすさぶ風の中で.md "wikilink")                                                                    | GZCA-7041 |                                                                                        |
 | 11th | 2004年[5月26日](../Page/5月26日.md "wikilink")                                  | [Don't look back again](https://ja.wikipedia.org/wiki/Don't_look_back_again "wikilink")                         | GZCA-7052 |                                                                                        |
 
 ### アルバム
@@ -257,14 +257,14 @@ ICR-009</p></td>
 
 | 曲名                    | タイアップ                                                                                                                                                                 |
 | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Odyssey               | [サンヨーポータブルMD](../Page/三洋電機.md "wikilink")『[MD-U4](https://ja.wikipedia.org/wiki/U4_\(三洋電機\) "wikilink")』イメージソング                                                       |
+| Odyssey               | [サンヨーポータブルMD](../Page/三洋電機.md "wikilink")『[MD-U4](../Page/U4_\(三洋電機\).md "wikilink")』イメージソング                                                                          |
 | Free Magic            | [読売テレビ](../Page/讀賣テレビ放送.md "wikilink")・[日本テレビ系全国ネット放送アニメ](../Page/日本テレビ放送網.md "wikilink")『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")』エンディングテーマ |
 | Just wanna be         | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[PROJECT ARMS](https://ja.wikipedia.org/wiki/ARMS#アニメ "wikilink")』エンディングテーマ                               |
-| 悲しみの雨                 | [テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[内村プロデュース](https://ja.wikipedia.org/wiki/内村プロデュース "wikilink")』エンディングテーマ                                                         |
+| 悲しみの雨                 | [テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[内村プロデュース](../Page/内村プロデュース.md "wikilink")』エンディングテーマ                                                                            |
 | TIME WAITS FOR NO ONE | テレビ東京系アニメ『PROJECT ARMS』オープニングテーマ                                                                                                                                      |
 | FIGHT SONG            | 読売テレビ『プロの動脈。』エンディングテーマ                                                                                                                                                |
 | そして今日も何処かで            | テレビ朝日系『[奇跡の扉 TVのチカラ](../Page/奇跡の扉_TVのチカラ.md "wikilink")』エンディングテーマ                                                                                                     |
-| 日本                    | [童夢CMソング](https://ja.wikipedia.org/wiki/童夢_\(自動車会社\) "wikilink")                                                                                                      |
+| 日本                    | [童夢CMソング](../Page/童夢_\(自動車会社\).md "wikilink")                                                                                                                         |
 | 吹きすさぶ風の中で             | テレビ東京系アニメ『[最遊記RELOAD](https://ja.wikipedia.org/wiki/最遊記シリーズ "wikilink")』エンディングテーマ                                                                                     |
 | Don't look back again | テレビ東京系アニメ『[最遊記RELOAD GUNLOCK](https://ja.wikipedia.org/wiki/最遊記シリーズ "wikilink")』オープニングテーマ                                                                             |
 
@@ -275,9 +275,9 @@ ICR-009</p></td>
 ## 関連項目
 
   - [GIZA studio](../Page/GIZA_studio.md "wikilink")
-  - [徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")([doa](https://ja.wikipedia.org/wiki/doa_\(ミュージシャン\) "wikilink"))（作曲：「Just wanna be」「TIME WAITS FOR NO ONE」「吹きすさぶ風の中で」「Don't look back again」等、編曲も多数。）
+  - [徳永暁人](../Page/徳永暁人.md "wikilink")([doa](https://ja.wikipedia.org/wiki/doa_\(ミュージシャン\) "wikilink"))（作曲：「Just wanna be」「TIME WAITS FOR NO ONE」「吹きすさぶ風の中で」「Don't look back again」等、編曲も多数。）
   - [AZUKI七](https://ja.wikipedia.org/wiki/AZUKI七 "wikilink")([GARNET CROW](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")) - 「Free Magic」「悲しみの雨」を作詞。
-  - [北浦正尚](https://ja.wikipedia.org/wiki/北浦正尚 "wikilink") - 「All For Your Love」を作曲。
+  - [北浦正尚](../Page/北浦正尚.md "wikilink") - 「All For Your Love」を作曲。
   - [三枝夕夏](../Page/三枝夕夏.md "wikilink") - 「吹きすさぶ風の中で」を作詞。
   - [三好誠](../Page/三好誠.md "wikilink") - 「Odyssey」「Free Magic」を作曲。
   - [大賀好修](../Page/大賀好修.md "wikilink") - 「All For Your Love」を編曲。

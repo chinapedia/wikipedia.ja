@@ -11,7 +11,7 @@
   - 平石 友実 (Tommy) Bass 元[ジャッキー吉川とブルーコメッツ](https://ja.wikipedia.org/wiki/ジャッキー吉川とブルーコメッツ "wikilink")、[白虎隊](https://ja.wikipedia.org/wiki/ジャニーズJr.解散グループ_\(1990年以前\)#白虎隊 "wikilink")、[Bad Bloods](https://ja.wikipedia.org/wiki/Bad_Bloods "wikilink")
   - [仲 兼一郎](http://sound.jp/naka/) (Naka) Trumpet 他アーティストのサポートとしても活躍
   - [フクダ ヨシヤ](http://tokyo.cool.ne.jp/yfkd/) (Taishow) Trumpet 他アーティストのサポート、作曲、プロデュースなど幅広く活躍
-  - 阿久澤 一哉 (Akkun) Trumpet 元[Radio Swing](https://ja.wikipedia.org/wiki/Radio_Swing "wikilink")
+  - 阿久澤 一哉 (Akkun) Trumpet 元[Radio Swing](../Page/Radio_Swing.md "wikilink")
   - 尾崎 泰輔 (Ozaky) Trombone 他アーティストのサポートとしても活躍
   - [田口 悟史](http://saxoful-tag.com/) (Tag) Alto Sax 他アーティストのサポートや、ソロとしても活躍
   - 出村 道秋 (Demura) Tenor Sax
@@ -21,7 +21,7 @@
 ### シングル
 
   - 最大のピンチは絶好のチャンス（2004年9月8日）
-    1.  最大のピンチは絶好のチャンス（2004年[パラリンピック](https://ja.wikipedia.org/wiki/パラリンピック "wikilink")キャンペーンソング応援歌）
+    1.  最大のピンチは絶好のチャンス（2004年[パラリンピック](../Page/パラリンピック.md "wikilink")キャンペーンソング応援歌）
     2.  Always
 
 ### アルバム

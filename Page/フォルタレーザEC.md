@@ -1,9 +1,9 @@
 > この記事は[EC](https://ja.wikipedia.org/wiki/EC)から翻訳されています。
 
 
-**フォルタレーザEC**（）は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[セアラー州](https://ja.wikipedia.org/wiki/セアラー州 "wikilink")[フォルタレーザをホームタウンとする](https://ja.wikipedia.org/wiki/フォルタレザ "wikilink")、ブラジルプロサッカーリーグ（[ブラジルリーグ](../Page/カンピオナート・ブラジレイロ.md "wikilink")）に加盟するプロサッカークラブ。
+**フォルタレーザEC**（）は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[セアラー州](../Page/セアラー州.md "wikilink")[フォルタレーザをホームタウンとする](https://ja.wikipedia.org/wiki/フォルタレザ "wikilink")、ブラジルプロサッカーリーグ（[ブラジルリーグ](../Page/カンピオナート・ブラジレイロ.md "wikilink")）に加盟するプロサッカークラブ。
 
-最大のライバルは同市を本拠地とする[セアラーSC](https://ja.wikipedia.org/wiki/セアラーSC "wikilink")、。フォルタレーザECは市内のクラブ中、サポーター数は最大である。
+最大のライバルは同市を本拠地とする[セアラーSC](../Page/セアラーSC.md "wikilink")、。フォルタレーザECは市内のクラブ中、サポーター数は最大である。
 
 ## タイトル
 

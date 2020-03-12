@@ -21,13 +21,13 @@
 
   - オリジナル盤（8cmCD）
 
-全曲[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：ayumi hamasaki
+全曲[作詞](../Page/作詞.md "wikilink")：ayumi hamasaki
 
 1.  **Depend on you**
       -
-        [作曲](../Page/作曲.md "wikilink")：[Kazuhito Kikuchi](https://ja.wikipedia.org/wiki/菊池一仁 "wikilink") / [編曲](../Page/編曲.md "wikilink")：[Akimitsu Homma](../Page/本間昭光.md "wikilink")、[Takashi Morio](https://ja.wikipedia.org/wiki/守尾崇 "wikilink")
-        [TBS系](../Page/TBSテレビ.md "wikilink")『[COUNT DOWN TV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")』1998年12月度エンディングテーマ
-        [アトラス](../Page/アトラス_\(ゲーム会社\).md "wikilink")[PS用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")『[サウザンドアームズ](https://ja.wikipedia.org/wiki/サウザンドアームズ "wikilink")』オープニングテーマ
+        [作曲](../Page/作曲.md "wikilink")：[Kazuhito Kikuchi](../Page/菊池一仁.md "wikilink") / [編曲](../Page/編曲.md "wikilink")：[Akimitsu Homma](../Page/本間昭光.md "wikilink")、[Takashi Morio](https://ja.wikipedia.org/wiki/守尾崇 "wikilink")
+        [TBS系](../Page/TBSテレビ.md "wikilink")『[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")』1998年12月度エンディングテーマ
+        [アトラス](../Page/アトラス_\(ゲーム会社\).md "wikilink")[PS用ゲームソフト](../Page/PlayStation_\(ゲーム機\).md "wikilink")『[サウザンドアームズ](https://ja.wikipedia.org/wiki/サウザンドアームズ "wikilink")』オープニングテーマ
 2.  **Two of us**
       -
         作曲：Daisuke Miyachi、[Ryosuke Imai](https://ja.wikipedia.org/wiki/今井了介 "wikilink") / 編曲：Akimitsu Homma
@@ -101,7 +101,7 @@
 
 Ayu（浜崎あゆみ）がヨーロッパで発売した3rdシングル。Svenson & GielenとDJ Shogが[リミックス](../Page/リミックス.md "wikilink")を手がけた。
 
-[2001年](../Page/2001年.md "wikilink")に日本で発売されたリミックス・アルバム『[Cyber TRANCE presents ayu trance](https://ja.wikipedia.org/wiki/Cyber_TRANCE_presents_ayu_trance "wikilink")』に収録されている「Depend on you "Svenson & Gielen Mix"」は未収録。
+[2001年](../Page/2001年.md "wikilink")に日本で発売されたリミックス・アルバム『[Cyber TRANCE presents ayu trance](../Page/Cyber_TRANCE_presents_ayu_trance.md "wikilink")』に収録されている「Depend on you "Svenson & Gielen Mix"」は未収録。
 
 ### 収録曲
 

@@ -1,11 +1,11 @@
 > この記事は[ \(WANDS\)](https://ja.wikipedia.org/wiki/_\(WANDS\))から翻訳されています。
 
 
-「**恋せよ乙女**」（こいせよおとめ）は、[WANDS](https://ja.wikipedia.org/wiki/WANDS "wikilink")の6枚目のシングル。
+「**恋せよ乙女**」（こいせよおとめ）は、[WANDS](../Page/WANDS.md "wikilink")の6枚目のシングル。
 
 ## 概要
 
-[東芝EMIからリリースされた最後のシングル](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")。
+[東芝EMIからリリースされた最後のシングル](../Page/EMIミュージック・ジャパン.md "wikilink")。
 
 表題曲は、前作「[愛を語るより口づけをかわそう](../Page/愛を語るより口づけをかわそう.md "wikilink")」と同様、「[ブティックJOY](../Page/三貴.md "wikilink")」のCMソングに使用された。
 
@@ -31,12 +31,12 @@ PVはショートクリップが撮影され、スタジオでのライブと、
 
   - [Little Bit…](../Page/Little_Bit….md "wikilink") (\#1)
   - [SINGLES COLLECTION+6](../Page/SINGLES_COLLECTION+6.md "wikilink") (\#1,2、\#1はリミックスバージョン)
-  - [WANDS BEST 〜HISTORICAL BEST ALBUM〜](https://ja.wikipedia.org/wiki/WANDS_BEST_〜HISTORICAL_BEST_ALBUM〜 "wikilink") (\#1)
-  - [BEST OF WANDS HISTORY](https://ja.wikipedia.org/wiki/BEST_OF_WANDS_HISTORY "wikilink") (\#1)
+  - [WANDS BEST 〜HISTORICAL BEST ALBUM〜](../Page/WANDS_BEST_〜HISTORICAL_BEST_ALBUM〜.md "wikilink") (\#1)
+  - [BEST OF WANDS HISTORY](../Page/BEST_OF_WANDS_HISTORY.md "wikilink") (\#1)
   - [complete of WANDS at the BEING studio](https://ja.wikipedia.org/wiki/complete_of_WANDS_at_the_BEING_studio "wikilink") (\#1)
   - [BEST OF BEST 1000 WANDS](https://ja.wikipedia.org/wiki/BEST_OF_BEST_1000_WANDS "wikilink") (\#1)
   - [WANDS BEST HITS](../Page/WANDS_BEST_HITS.md "wikilink") (\#1,2)
-  - [COUNTDOWN BEING](https://ja.wikipedia.org/wiki/COUNTDOWN_BEING "wikilink") (\#1)
+  - [COUNTDOWN BEING](../Page/COUNTDOWN_BEING.md "wikilink") (\#1)
   - [BEST HIT BEING](https://ja.wikipedia.org/wiki/BEST_HIT_BEING "wikilink") (\#1)
 
 ## 関連項目

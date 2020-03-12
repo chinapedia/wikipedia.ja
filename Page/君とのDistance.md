@@ -1,13 +1,13 @@
 > この記事は[Distance](https://ja.wikipedia.org/wiki/Distance)から翻訳されています。
 
 
-『**君とのDistance**』（きみとのディスタンス）は、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")の11枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。
+『**君とのDistance**』（きみとのディスタンス）は、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")の11枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 内容
 
-  - A面では2000年発売の「[Get U're Dream](https://ja.wikipedia.org/wiki/Get_U're_Dream "wikilink")」以来となる[葉山たけし](../Page/葉山たけし.md "wikilink")を、先行シングル「[星のかがやきよ／夏を待つセイル（帆）のように](https://ja.wikipedia.org/wiki/星のかがやきよ/夏を待つセイル\(帆\)のように "wikilink")」で編曲で起用し、今作も多くの楽曲の編曲に葉山たけしを起用している。また、13曲中8曲が[大野愛果](../Page/大野愛果.md "wikilink")による作曲。これはストックやセルフ・カバーを除くと大野愛果、徳永暁人の作曲になっていることになる。前作のアルバム同様、[栗林誠一郎](https://ja.wikipedia.org/wiki/栗林誠一郎 "wikilink")作曲のストックを1曲収録している。
-  - またオリジナルアルバムでは初の[デジパック](https://ja.wikipedia.org/wiki/デジパック "wikilink")仕様である。ブックレットの最後に『[TODAY IS ANOTHER DAY](https://ja.wikipedia.org/wiki/TODAY_IS_ANOTHER_DAY "wikilink")』以来のライナーノーツ掲載。
-  - ZARD作品として最初で最後の隠れ[HDCD](https://ja.wikipedia.org/wiki/HDCD "wikilink")であり、坂井の没後も含め最後のオリジナルアルバムとなった。
+  - A面では2000年発売の「[Get U're Dream](../Page/Get_U're_Dream.md "wikilink")」以来となる[葉山たけし](../Page/葉山たけし.md "wikilink")を、先行シングル「[星のかがやきよ／夏を待つセイル（帆）のように](https://ja.wikipedia.org/wiki/星のかがやきよ/夏を待つセイル\(帆\)のように "wikilink")」で編曲で起用し、今作も多くの楽曲の編曲に葉山たけしを起用している。また、13曲中8曲が[大野愛果](../Page/大野愛果.md "wikilink")による作曲。これはストックやセルフ・カバーを除くと大野愛果、徳永暁人の作曲になっていることになる。前作のアルバム同様、[栗林誠一郎](../Page/栗林誠一郎.md "wikilink")作曲のストックを1曲収録している。
+  - またオリジナルアルバムでは初の[デジパック](https://ja.wikipedia.org/wiki/デジパック "wikilink")仕様である。ブックレットの最後に『[TODAY IS ANOTHER DAY](../Page/TODAY_IS_ANOTHER_DAY.md "wikilink")』以来のライナーノーツ掲載。
+  - ZARD作品として最初で最後の隠れ[HDCD](../Page/HDCD.md "wikilink")であり、坂井の没後も含め最後のオリジナルアルバムとなった。
 
 ## 収録曲
 
@@ -22,7 +22,7 @@
 
         </div>
 
-        [両A面による](https://ja.wikipedia.org/wiki/A面/B面#A面とB面の構成 "wikilink")40thシングルの2曲目。劇場版『[名探偵コナン 水平線上の陰謀](https://ja.wikipedia.org/wiki/名探偵コナン_水平線上の陰謀 "wikilink")』の主題歌。数曲候補のあった中で、坂井の「一番子供がノリやすい曲がいい」という着眼点により、この曲に決定した。セイル(帆)の表記になったのは、セイルだけでは意味が伝わりにくく、セイルをルビにすると読みにくいという、坂井の配慮からである。
+        [両A面による](https://ja.wikipedia.org/wiki/A面/B面#A面とB面の構成 "wikilink")40thシングルの2曲目。劇場版『[名探偵コナン 水平線上の陰謀](../Page/名探偵コナン_水平線上の陰謀.md "wikilink")』の主題歌。数曲候補のあった中で、坂井の「一番子供がノリやすい曲がいい」という着眼点により、この曲に決定した。セイル(帆)の表記になったのは、セイルだけでは意味が伝わりにくく、セイルをルビにすると読みにくいという、坂井の配慮からである。
 2.  **サヨナラまでのディスタンス**
       -
 
@@ -35,7 +35,7 @@
         </div>
 
         当初はアルバムタイトル候補だったが、ネガティブだという坂井の想いと別の意味を持たせたいという理由から、『君とのDistance』に決定した。数種類製作されたものから、アップテンポなアレンジが採用された。
-3.  **[かけがえのないもの](https://ja.wikipedia.org/wiki/かけがえのないもの "wikilink")**
+3.  **[かけがえのないもの](../Page/かけがえのないもの.md "wikilink")**
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -47,14 +47,14 @@
         </div>
 
         38thシングルの表題曲。『恋するハニカミ！』テーマソング。
-4.  **[今日はゆっくり話そう](https://ja.wikipedia.org/wiki/今日はゆっくり話そう "wikilink")**
+4.  **[今日はゆっくり話そう](../Page/今日はゆっくり話そう.md "wikilink")**
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
 
         作詞：坂井泉水
         作曲：大野愛果
-        編曲：[徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")
+        編曲：[徳永暁人](../Page/徳永暁人.md "wikilink")
 
         </div>
 
@@ -72,7 +72,7 @@
 
         当初は脚色されたアレンジだったが、シンプルな構成に変更。アルバム中もっともヴォーカル録りに時間をかけた曲。もともと劇場版『名探偵コナン』の主題歌として何曲かある候補曲の1曲であった。
 
-        アルバムプロモーション用にPVが制作され、翌年発売の初の映像集『[ZARD Le Portfolio 1991-2006](https://ja.wikipedia.org/wiki/ZARD_Le_Portfolio_1991-2006 "wikilink")』に収録。
+        アルバムプロモーション用にPVが制作され、翌年発売の初の映像集『[ZARD Le Portfolio 1991-2006](../Page/ZARD_Le_Portfolio_1991-2006.md "wikilink")』に収録。
 
         2008年発売のベストアルバム『[ZARD Request Best 〜beautiful memory〜](../Page/ZARD_Request_Best_〜beautiful_memory〜.md "wikilink")』では投票9位にランクインし収録された。
 6.  **セパレート・ウェイズ**
@@ -86,7 +86,7 @@
 
         </div>
 
-        間奏に[トランペット](../Page/トランペット.md "wikilink")が入る。編曲は「[この涙 星になれ](https://ja.wikipedia.org/wiki/この涙_星になれ "wikilink")」以来の古井弘人。
+        間奏に[トランペット](../Page/トランペット.md "wikilink")が入る。編曲は「[この涙 星になれ](../Page/この涙_星になれ.md "wikilink")」以来の古井弘人。
 
 <!-- end list -->
 
@@ -101,7 +101,7 @@
 
         </div>
 
-        [FIELD OF VIEWに提供した楽曲の](https://ja.wikipedia.org/wiki/FIELD_OF_VIEW "wikilink")[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")。原曲は1995年発売であり、10年越しのセルフカバーとなった。
+        [FIELD OF VIEWに提供した楽曲の](../Page/FIELD_OF_VIEW.md "wikilink")[セルフカバー](../Page/セルフカバー.md "wikilink")。原曲は1995年発売であり、10年越しのセルフカバーとなった。
 
 <!-- end list -->
 
@@ -151,7 +151,7 @@
         <div class="NavContent" style="text-align: left;font-size:small;">
 
         作詞：坂井泉水
-        作曲：[栗林誠一郎](https://ja.wikipedia.org/wiki/栗林誠一郎 "wikilink")
+        作曲：[栗林誠一郎](../Page/栗林誠一郎.md "wikilink")
         編曲：葉山たけし
 
         </div>
@@ -195,9 +195,9 @@
 
 <!-- end list -->
 
-  - [葉山たけし](../Page/葉山たけし.md "wikilink")：[Programming](../Page/デスクトップミュージック.md "wikilink") & [Additional Guitar](../Page/ギター.md "wikilink") & [Additional Bass](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - [葉山たけし](../Page/葉山たけし.md "wikilink")：[Programming](../Page/デスクトップミュージック.md "wikilink") & [Additional Guitar](../Page/ギター.md "wikilink") & [Additional Bass](../Page/ベース_\(弦楽器\).md "wikilink")
   - [古井弘人](https://ja.wikipedia.org/wiki/古井弘人 "wikilink")：Programming
-  - [徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")：Programming & Additional Guitar & Additional Bass & Background Vocals
+  - [徳永暁人](../Page/徳永暁人.md "wikilink")：Programming & Additional Guitar & Additional Bass & Background Vocals
   - [小林哲](../Page/小林哲.md "wikilink")：Programming
   - [池田大介](../Page/池田大介_\(編曲家\).md "wikilink")：Programming
   - [大賀好修](../Page/大賀好修.md "wikilink")：Additional Guitar
@@ -206,7 +206,7 @@
   - 小川逸史：Additional Guitar
   - ブルース・ウィトキン：Additional Guitar
   - [麻井寛史](../Page/麻井寛史.md "wikilink")：Additional Bass
-  - [勝田一樹](https://ja.wikipedia.org/wiki/勝田一樹 "wikilink")：[Saxophone](../Page/サクソフォーン.md "wikilink")
+  - [勝田一樹](../Page/勝田一樹.md "wikilink")：[Saxophone](../Page/サクソフォーン.md "wikilink")
   - 鈴木央紹：Saxophone
   - 中野勇介：[Trumpet](../Page/トランペット.md "wikilink")
   - [チェン・ミン](../Page/チェン・ミン.md "wikilink")：[二胡](../Page/二胡.md "wikilink")
@@ -216,8 +216,8 @@
   - ジェフリー・クエスト：Background Vocals
   - [大野愛果](../Page/大野愛果.md "wikilink")：Background Vocals
   - [大田紳一郎](../Page/大田紳一郎.md "wikilink")：Background Vocals
-  - [岩井勇一郎](https://ja.wikipedia.org/wiki/岩井勇一郎 "wikilink")：Background Vocals
-  - [竹井詩織里](https://ja.wikipedia.org/wiki/竹井詩織里 "wikilink")：Background Vocals
+  - [岩井勇一郎](../Page/岩井勇一郎.md "wikilink")：Background Vocals
+  - [竹井詩織里](../Page/竹井詩織里.md "wikilink")：Background Vocals
   - [上木彩矢](https://ja.wikipedia.org/wiki/上木彩矢 "wikilink")：Background Vocals
   - 墨谷美輝：Background Vocals
   - [高島信二](https://ja.wikipedia.org/wiki/高島信二 "wikilink")：Background Vocals

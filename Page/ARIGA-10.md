@@ -1,7 +1,7 @@
 > この記事は[ARIGA-10](https://ja.wikipedia.org/wiki/ARIGA-10)から翻訳されています。
 
 
-『**ARIGA-10 HONDA COMMUNICATIONS NETWORK**』（アリガトウ ホンダ・コミュニケーションズ・ネットワーク）は、[1993年](../Page/1993年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から同年12月まで、[TBSほか一部](../Page/TBSテレビ.md "wikilink")[TBS系列局で放送された](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[自動車](../Page/自動車.md "wikilink")[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")[ミニ番組](https://ja.wikipedia.org/wiki/ミニ番組 "wikilink")。[本田技研工業](../Page/本田技研工業.md "wikilink")(HONDA) の一社提供。
+『**ARIGA-10 HONDA COMMUNICATIONS NETWORK**』（アリガトウ ホンダ・コミュニケーションズ・ネットワーク）は、[1993年](../Page/1993年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から同年12月まで、[TBSほか一部](../Page/TBSテレビ.md "wikilink")[TBS系列局で放送された](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[自動車](../Page/自動車.md "wikilink")[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")[ミニ番組](../Page/ミニ番組.md "wikilink")。[本田技研工業](../Page/本田技研工業.md "wikilink")(HONDA) の一社提供。
 
 この項目では、[1994年](../Page/1994年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")から同年[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで同系列局で放送された後継番組『**純・メッキ**』（じゅんメッキ）についても触れる。
 

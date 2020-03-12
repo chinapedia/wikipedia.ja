@@ -41,7 +41,7 @@
 <!-- end list -->
 
   - 1stミニアルバム『SKA BEFORE SUNRISE』をリリース
-  - 2001年4月には日本最大級のSKAイベントである『SKA STOCK WEST』に参加し、東京スカパラダイスオーケストラや[EGO-WRAPPIN'](../Page/EGO-WRAPPIN'.md "wikilink")、[こだま和文](https://ja.wikipedia.org/wiki/こだま和文 "wikilink")らと共演。
+  - 2001年4月には日本最大級のSKAイベントである『SKA STOCK WEST』に参加し、東京スカパラダイスオーケストラや[EGO-WRAPPIN'](../Page/EGO-WRAPPIN'.md "wikilink")、[こだま和文](../Page/こだま和文.md "wikilink")らと共演。
   - 2002年3月、関西で最大のSKAイベント『KING OF SKA』に参加し、東京スカパラダイスオーケストラ、[奥田民生](../Page/奥田民生.md "wikilink")と共演。
   - 初の全国ツアーを成功させる。
   - 2002年10月にはイギリスから[スペシャルズ](../Page/スペシャルズ.md "wikilink")を招き、競演。
@@ -51,7 +51,7 @@
 <!-- end list -->
 
   -
-    その存在を強烈に印象づけた。（日本からは他に[モンゴル800](https://ja.wikipedia.org/wiki/モンゴル800 "wikilink")、[BRAHMAN](https://ja.wikipedia.org/wiki/BRAHMAN "wikilink")、[RUDEBONES](https://ja.wikipedia.org/wiki/RUDEBONES "wikilink")が参加）。
+    その存在を強烈に印象づけた。（日本からは他に[モンゴル800](https://ja.wikipedia.org/wiki/モンゴル800 "wikilink")、[BRAHMAN](../Page/BRAHMAN.md "wikilink")、[RUDEBONES](../Page/RUDEBONES.md "wikilink")が参加）。
 
 <!-- end list -->
 
@@ -105,7 +105,7 @@
 <!-- end list -->
 
   -
-    [小田和正](../Page/小田和正.md "wikilink")、[ドラゴンアッシュ](https://ja.wikipedia.org/wiki/ドラゴンアッシュ "wikilink")、[サンボマスター](https://ja.wikipedia.org/wiki/サンボマスター "wikilink")、[JUJU](https://ja.wikipedia.org/wiki/JUJU "wikilink")、[ジッタリンジン](https://ja.wikipedia.org/wiki/ジッタリンジン "wikilink")、[古謝美佐子](../Page/古謝美佐子.md "wikilink")、[RIP SLYME](https://ja.wikipedia.org/wiki/RIP_SLYME "wikilink")、[マキシマム・ザ・ホルモン](https://ja.wikipedia.org/wiki/マキシマム・ザ・ホルモン "wikilink")、[琉球ディスコ](https://ja.wikipedia.org/wiki/琉球ディスコ "wikilink")、[山嵐](https://ja.wikipedia.org/wiki/山嵐 "wikilink")、など14アーティストと競演。
+    [小田和正](../Page/小田和正.md "wikilink")、[ドラゴンアッシュ](https://ja.wikipedia.org/wiki/ドラゴンアッシュ "wikilink")、[サンボマスター](../Page/サンボマスター.md "wikilink")、[JUJU](https://ja.wikipedia.org/wiki/JUJU "wikilink")、[ジッタリンジン](https://ja.wikipedia.org/wiki/ジッタリンジン "wikilink")、[古謝美佐子](../Page/古謝美佐子.md "wikilink")、[RIP SLYME](../Page/RIP_SLYME.md "wikilink")、[マキシマム・ザ・ホルモン](https://ja.wikipedia.org/wiki/マキシマム・ザ・ホルモン "wikilink")、[琉球ディスコ](https://ja.wikipedia.org/wiki/琉球ディスコ "wikilink")、[山嵐](https://ja.wikipedia.org/wiki/山嵐 "wikilink")、など14アーティストと競演。
 
 <!-- end list -->
 
@@ -115,7 +115,7 @@
 <!-- end list -->
 
   -
-    所属レーベルも[P-VINE](https://ja.wikipedia.org/wiki/P-VINE "wikilink")から[モンゴル800](https://ja.wikipedia.org/wiki/モンゴル800 "wikilink")などが所属する[ハイ・ウェーブ](https://ja.wikipedia.org/wiki/ハイ・ウェーブ "wikilink")へと移籍する。
+    所属レーベルも[P-VINE](https://ja.wikipedia.org/wiki/P-VINE "wikilink")から[モンゴル800](https://ja.wikipedia.org/wiki/モンゴル800 "wikilink")などが所属する[ハイ・ウェーブ](../Page/ハイ・ウェーブ.md "wikilink")へと移籍する。
     この頃から現在に至るまで関西の音楽プロモーター[清水音泉](https://ja.wikipedia.org/wiki/清水音泉 "wikilink")の所属となる。
 
 <!-- end list -->
@@ -125,7 +125,7 @@
   - 2010年12月25日、「DOBERMAN presents "DOG FIGHT"」開催。
   - 2011年7月24日、DOBERMAN presents 　MOONSTRUCK JAMBOREE 2011 開催。
 
-　出演　DOBEMAN　[MONGOL800](../Page/MONGOL800.md "wikilink")　[Scoobie Do](https://ja.wikipedia.org/wiki/Scoobie_Do "wikilink")　[カジヒデキ](https://ja.wikipedia.org/wiki/カジヒデキ "wikilink")　[赤犬](https://ja.wikipedia.org/wiki/赤犬 "wikilink")　[YOUR SONG IS GOOD](https://ja.wikipedia.org/wiki/YOUR_SONG_IS_GOOD "wikilink")
+　出演　DOBEMAN　[MONGOL800](../Page/MONGOL800.md "wikilink")　[Scoobie Do](../Page/Scoobie_Do.md "wikilink")　[カジヒデキ](../Page/カジヒデキ.md "wikilink")　[赤犬](../Page/赤犬.md "wikilink")　[YOUR SONG IS GOOD](../Page/YOUR_SONG_IS_GOOD.md "wikilink")
 
 
 
@@ -141,9 +141,9 @@
   - 2013年4月28日、湧出\!FPP音泉に参加。
   - 2013年7月20日、DOBERMAN presents 　MOONSTRUCK JAMBOREE 2013開催
 
-　出演　DOBEMAN　[MONGOL800](../Page/MONGOL800.md "wikilink")　[フラワーカンパニーズ](https://ja.wikipedia.org/wiki/フラワーカンパニーズ "wikilink")　[カジヒデキ](https://ja.wikipedia.org/wiki/カジヒデキ "wikilink")　[赤犬](https://ja.wikipedia.org/wiki/赤犬 "wikilink")　
+　出演　DOBEMAN　[MONGOL800](../Page/MONGOL800.md "wikilink")　[フラワーカンパニーズ](../Page/フラワーカンパニーズ.md "wikilink")　[カジヒデキ](../Page/カジヒデキ.md "wikilink")　[赤犬](../Page/赤犬.md "wikilink")　
 
-　　　 [オールディックフォギー](https://ja.wikipedia.org/wiki/オールディックフォギー "wikilink")　[ブルービートプレイヤーズ](https://ja.wikipedia.org/wiki/ブルービートプレイヤーズ "wikilink")　[TOMOVSKY](https://ja.wikipedia.org/wiki/TOMOVSKY "wikilink")
+　　　 [オールディックフォギー](https://ja.wikipedia.org/wiki/オールディックフォギー "wikilink")　[ブルービートプレイヤーズ](https://ja.wikipedia.org/wiki/ブルービートプレイヤーズ "wikilink")　[TOMOVSKY](../Page/TOMOVSKY.md "wikilink")
 
 
 
@@ -162,12 +162,12 @@
   - 2015年5月10日、いつまでも世界は…第四回に参加。
   - 2015年7月18日、DOBERMAN presents 　MOONSTRUCK JAMBOREE 2015開催。SOLD OUT
 
-　出演　DOBEMAN　[MONGOL800](../Page/MONGOL800.md "wikilink")　[Scoobie Do](https://ja.wikipedia.org/wiki/Scoobie_Do "wikilink")　[カジヒデキ](https://ja.wikipedia.org/wiki/カジヒデキ "wikilink")　[赤犬](https://ja.wikipedia.org/wiki/赤犬 "wikilink")　[KEMURI](https://ja.wikipedia.org/wiki/KEMURI "wikilink")　[浅草ジンタ](../Page/浅草ジンタ.md "wikilink")
+　出演　DOBEMAN　[MONGOL800](../Page/MONGOL800.md "wikilink")　[Scoobie Do](../Page/Scoobie_Do.md "wikilink")　[カジヒデキ](../Page/カジヒデキ.md "wikilink")　[赤犬](../Page/赤犬.md "wikilink")　[KEMURI](https://ja.wikipedia.org/wiki/KEMURI "wikilink")　[浅草ジンタ](../Page/浅草ジンタ.md "wikilink")
 
   -
   - 2017年7月22日、DOBERMAN presents 　MOONSTRUCK JAMBOREE 2017開催。
 
-　出演　DOBEMAN　[夏木マリ](../Page/MONGOL800.md "wikilink")　[Scoobie Do](https://ja.wikipedia.org/wiki/Scoobie_Do "wikilink")　UKULELE GYPSY from MONGOL800 キヨサク　[赤犬](https://ja.wikipedia.org/wiki/赤犬 "wikilink")　[KEMURI](https://ja.wikipedia.org/wiki/KEMURI "wikilink")　[浅草ジンタ](../Page/浅草ジンタ.md "wikilink")
+　出演　DOBEMAN　[夏木マリ](../Page/MONGOL800.md "wikilink")　[Scoobie Do](../Page/Scoobie_Do.md "wikilink")　UKULELE GYPSY from MONGOL800 キヨサク　[赤犬](../Page/赤犬.md "wikilink")　[KEMURI](https://ja.wikipedia.org/wiki/KEMURI "wikilink")　[浅草ジンタ](../Page/浅草ジンタ.md "wikilink")
 
 
 
@@ -176,7 +176,7 @@
   -
   - 2019年7月20日、DOBERMAN presents 　MOONSTRUCK JAMBOREE 2019開催。
 
-　出演　DOBEMAN　[ベッド・イン](../Page/MONGOL800.md "wikilink")　[Scoobie Do](https://ja.wikipedia.org/wiki/Scoobie_Do "wikilink")　オールディックフォギー UKULELE GYPSY from MONGOL800 キヨサク　[赤犬](https://ja.wikipedia.org/wiki/赤犬 "wikilink")　
+　出演　DOBEMAN　[ベッド・イン](../Page/MONGOL800.md "wikilink")　[Scoobie Do](../Page/Scoobie_Do.md "wikilink")　オールディックフォギー UKULELE GYPSY from MONGOL800 キヨサク　[赤犬](../Page/赤犬.md "wikilink")　
 
 
 

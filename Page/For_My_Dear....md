@@ -11,8 +11,8 @@
 
 1.  **For My Dear...**
       -
-        [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：ayumi hamsaki / [作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：[Yasuhiko Hoshino](https://ja.wikipedia.org/wiki/星野靖彦 "wikilink")
-        [森永製菓](https://ja.wikipedia.org/wiki/森永製菓 "wikilink")「メレンゲショコラ」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
+        [作詞](../Page/作詞.md "wikilink")：ayumi hamsaki / [作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：[Yasuhiko Hoshino](https://ja.wikipedia.org/wiki/星野靖彦 "wikilink")
+        [森永製菓](https://ja.wikipedia.org/wiki/森永製菓 "wikilink")「メレンゲショコラ」[CMソング](../Page/コマーシャルソング.md "wikilink")
 2.  **For My Dear... 〜Acoustic Version〜**
       -
         編曲：[akimitsu homma](../Page/本間昭光.md "wikilink")

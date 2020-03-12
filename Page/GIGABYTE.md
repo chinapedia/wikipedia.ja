@@ -3,17 +3,17 @@
 
 **GIGABYTE**（ギガバイト、）は[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")の[パソコン](../Page/パーソナルコンピュータ.md "wikilink")、[周辺機器](../Page/周辺機器.md "wikilink")のメーカー。
 
-設立は[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")。本社は[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")・[新北市](https://ja.wikipedia.org/wiki/新北市 "wikilink")に所在、法人市場と民間市場の双方の[コンピュータ](../Page/コンピュータ.md "wikilink")製品の開発製造を手がけ、世界各国で販売している\[1\]。
+設立は[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")。本社は[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")・[新北市](../Page/新北市.md "wikilink")に所在、法人市場と民間市場の双方の[コンピュータ](../Page/コンピュータ.md "wikilink")製品の開発製造を手がけ、世界各国で販売している\[1\]。
 
 製品については、社内ブランドとしてゲーマー向けの「AORUS GAMING」を有する\[2\]。
 
 ## 概要
 
-[マザーボード](https://ja.wikipedia.org/wiki/マザーボード "wikilink")および[グラフィックカードを主力製品として](../Page/ビデオカード.md "wikilink")、PC用ゲーミング機器([マウス](../Page/マウス_\(コンピュータ\).md "wikilink")・[キーボード類](https://ja.wikipedia.org/wiki/キーボード_\(コンピュータ\) "wikilink"))、[ノートパソコン](../Page/ノートパソコン.md "wikilink")、[CPUクーラー](https://ja.wikipedia.org/wiki/CPUクーラー "wikilink")などを開発・販売している。 2017年ごろから、鮮やかなLED機能を搭載したゲーミング向けAORUS（オーラス）シリーズ製品が市場に導入されているのが目立っている。
+[マザーボード](../Page/マザーボード.md "wikilink")および[グラフィックカードを主力製品として](../Page/ビデオカード.md "wikilink")、PC用ゲーミング機器([マウス](../Page/マウス_\(コンピュータ\).md "wikilink")・[キーボード類](../Page/キーボード_\(コンピュータ\).md "wikilink"))、[ノートパソコン](../Page/ノートパソコン.md "wikilink")、[CPUクーラー](https://ja.wikipedia.org/wiki/CPUクーラー "wikilink")などを開発・販売している。 2017年ごろから、鮮やかなLED機能を搭載したゲーミング向けAORUS（オーラス）シリーズ製品が市場に導入されているのが目立っている。
 
 ## 製品
 
-  - [マザーボード](https://ja.wikipedia.org/wiki/マザーボード "wikilink")
+  - [マザーボード](../Page/マザーボード.md "wikilink")
     日本では[ASUS](https://ja.wikipedia.org/wiki/ASUSTeK "wikilink")、[ASRock](../Page/ASRock.md "wikilink")、[MSIに次いで](../Page/Micro-Star_International.md "wikilink")4位のシェアを持つ。
 
     海外では[ASUSに次いで第](https://ja.wikipedia.org/wiki/ASUSTeK "wikilink")2位のシェアを持つ。
@@ -21,17 +21,17 @@
     また、[富士通](../Page/富士通.md "wikilink")などのパソコン・サーバ用マザーボードのOEM生産も行っている。
 
   - [グラフィックカード](../Page/ビデオカード.md "wikilink")
-    日本では[MSI](../Page/Micro-Star_International.md "wikilink")、[ASUS](https://ja.wikipedia.org/wiki/ASUSTeK "wikilink")、[玄人志向](https://ja.wikipedia.org/wiki/玄人志向 "wikilink")に次いで4位のシェアを持つ。
+    日本では[MSI](../Page/Micro-Star_International.md "wikilink")、[ASUS](https://ja.wikipedia.org/wiki/ASUSTeK "wikilink")、[玄人志向](../Page/玄人志向.md "wikilink")に次いで4位のシェアを持つ。
 
   - [PCケース](https://ja.wikipedia.org/wiki/PCケース "wikilink")
 
   - [電源(PSU)](../Page/ATX電源.md "wikilink")
 
-  - [キーボード](https://ja.wikipedia.org/wiki/キーボード_\(コンピュータ\) "wikilink")
+  - [キーボード](../Page/キーボード_\(コンピュータ\).md "wikilink")
 
   - [マウス](../Page/マウス_\(コンピュータ\).md "wikilink")
 
-  - [CPUクーラー](https://ja.wikipedia.org/wiki/CPUの冷却装置 "wikilink")
+  - [CPUクーラー](../Page/CPUの冷却装置.md "wikilink")
 
 ## ギガバイ子
 

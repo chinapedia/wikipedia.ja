@@ -1,11 +1,11 @@
 > この記事は[Kiss Kiss](https://ja.wikipedia.org/wiki/Kiss_Kiss)から翻訳されています。
 
 
-「**甘いKiss Kiss**」（あまいキス キス）は[REVの](https://ja.wikipedia.org/wiki/出口雅之 "wikilink")1枚目のシングル。
+「**甘いKiss Kiss**」（あまいキス キス）は[REVの](../Page/出口雅之.md "wikilink")1枚目のシングル。
 
 ## 内容
 
-表題曲は、[カメリアダイアモンド](../Page/三貴.md "wikilink")[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。[グラスバレー](../Page/グラスバレー.md "wikilink")解散後、[出口雅之](https://ja.wikipedia.org/wiki/出口雅之 "wikilink")がREVとしてリリースしたシングル。後に、アルバム『[REV](../Page/REV_\(アルバム\).md "wikilink")』にて、アルバムバージョンとしてリミックスされることになった。また、この曲で[TBS](../Page/TBSテレビ.md "wikilink")『[COUNT DOWN TV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")』への出演も果たしている。
+表題曲は、[カメリアダイアモンド](../Page/三貴.md "wikilink")[CMソング](../Page/コマーシャルソング.md "wikilink")。[グラスバレー](../Page/グラスバレー.md "wikilink")解散後、[出口雅之](../Page/出口雅之.md "wikilink")がREVとしてリリースしたシングル。後に、アルバム『[REV](../Page/REV_\(アルバム\).md "wikilink")』にて、アルバムバージョンとしてリミックスされることになった。また、この曲で[TBS](../Page/TBSテレビ.md "wikilink")『[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")』への出演も果たしている。
 
 ## 収録曲
 
@@ -20,13 +20,13 @@
 
   -   - 出口雅之 - ギター
       - 葉山たけし - ギター、ベース、プログラミング
-      - [生沢佑一](https://ja.wikipedia.org/wiki/生沢佑一 "wikilink") from [TWINZER](../Page/TWINZER.md "wikilink") - コーラス
-      - [栗林誠一郎](https://ja.wikipedia.org/wiki/栗林誠一郎 "wikilink") - コーラス
+      - [生沢佑一](../Page/生沢佑一.md "wikilink") from [TWINZER](../Page/TWINZER.md "wikilink") - コーラス
+      - [栗林誠一郎](../Page/栗林誠一郎.md "wikilink") - コーラス
 
 ## 関連項目
 
   - [ビーイング](../Page/ビーイング.md "wikilink")
-  - [ZAIN RECORDS](https://ja.wikipedia.org/wiki/ZAIN_RECORDS "wikilink")
-  - [REV](https://ja.wikipedia.org/wiki/出口雅之 "wikilink")
+  - [ZAIN RECORDS](../Page/ZAIN_RECORDS.md "wikilink")
+  - [REV](../Page/出口雅之.md "wikilink")
 
 [Category:1993年のシングル](https://ja.wikipedia.org/wiki/Category:1993年のシングル "wikilink") [Category:出口雅之の楽曲](https://ja.wikipedia.org/wiki/Category:出口雅之の楽曲 "wikilink") [Category:宝飾のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:宝飾のコマーシャルソング "wikilink") [Category:接吻を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:接吻を題材とした楽曲 "wikilink") [Category:1993年のデビュー・シングル](https://ja.wikipedia.org/wiki/Category:1993年のデビュー・シングル "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")

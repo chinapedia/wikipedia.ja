@@ -1,9 +1,9 @@
 > この記事は[\&Lizzie](https://ja.wikipedia.org/wiki/\&Lizzie)から翻訳されています。
 
 
-『**リジー\&Lizzie**』（原題 *Lizzie McGuire*）は、[2003年](../Page/2003年.md "wikilink")から[ディズニー・チャンネル](https://ja.wikipedia.org/wiki/ディズニー・チャンネル "wikilink")で放送された[海外ドラマ](../Page/海外ドラマ.md "wikilink")。オリジナルは[2001年](../Page/2001年.md "wikilink")から[アメリカで放送されたもの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。
+『**リジー\&Lizzie**』（原題 *Lizzie McGuire*）は、[2003年](../Page/2003年.md "wikilink")から[ディズニー・チャンネル](../Page/ディズニー・チャンネル.md "wikilink")で放送された[海外ドラマ](../Page/海外ドラマ.md "wikilink")。オリジナルは[2001年](../Page/2001年.md "wikilink")から[アメリカで放送されたもの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。
 
-中学生のリジーが親友のゴードやミランダと共に送る学校生活を描いた作品。基本的には[実写](../Page/実写.md "wikilink")ドラマだが、リジーの心の声は、[アニメ](../Page/アニメ.md "wikilink")キャラクターになったリジーがしゃべる。テレビ版全65話と、映画版『**[リジー・マグワイア・ムービー](../Page/リジー・マグワイア・ムービー.md "wikilink")**』（*The Lizzie McGuire Movie*）があり、日本でも[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")から[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")にかけて全話[DVD](../Page/DVD.md "wikilink")が発売された。
+中学生のリジーが親友のゴードやミランダと共に送る学校生活を描いた作品。基本的には[実写](../Page/実写.md "wikilink")ドラマだが、リジーの心の声は、[アニメ](../Page/アニメ.md "wikilink")キャラクターになったリジーがしゃべる。テレビ版全65話と、映画版『**[リジー・マグワイア・ムービー](../Page/リジー・マグワイア・ムービー.md "wikilink")**』（*The Lizzie McGuire Movie*）があり、日本でも[2005年](../Page/2005年.md "wikilink")から[2006年](../Page/2006年.md "wikilink")にかけて全話[DVD](../Page/DVD.md "wikilink")が発売された。
 
 ## ストーリー
 
@@ -18,7 +18,7 @@
 <!-- end list -->
 
   -
-    演：[ヒラリー・ダフ](https://ja.wikipedia.org/wiki/ヒラリー・ダフ "wikilink") / 声：[須藤祐実](../Page/須藤祐実.md "wikilink")
+    演：[ヒラリー・ダフ](../Page/ヒラリー・ダフ.md "wikilink") / 声：[須藤祐実](../Page/須藤祐実.md "wikilink")
     主人公。シャイな女の子。人気者になりたいと夢見る不器用なティーンエイジャーとして描かれており、心の声は[アニメ](../Page/アニメ.md "wikilink")キャラクターになったリジーがしゃべる。
 
 <!-- end list -->
@@ -28,7 +28,7 @@
 <!-- end list -->
 
   -
-    演：[ラレイン](https://ja.wikipedia.org/wiki/ラレイン "wikilink") / 声：[仙台エリ](https://ja.wikipedia.org/wiki/仙台エリ "wikilink")
+    演：[ラレイン](https://ja.wikipedia.org/wiki/ラレイン "wikilink") / 声：[仙台エリ](../Page/仙台エリ.md "wikilink")
     リジーの親友。3人の中では一番自己中。メキシコ人の家系だが、スペイン語は少ししか話せない。映画版及び最後の６エピソードには家族でメキシコ旅行に出かけているという設定で登場しない。
 
 <!-- end list -->
@@ -58,7 +58,7 @@
 <!-- end list -->
 
   -
-    演：[ハリー・トッド](https://ja.wikipedia.org/wiki/ハリー・トッド "wikilink") / 声：[日野由利加](https://ja.wikipedia.org/wiki/日野由利加 "wikilink")
+    演：[ハリー・トッド](https://ja.wikipedia.org/wiki/ハリー・トッド "wikilink") / 声：[日野由利加](../Page/日野由利加.md "wikilink")
     リジーとマットの母親。
 
 <!-- end list -->
@@ -88,7 +88,7 @@
 <!-- end list -->
 
   -
-    演：[クレイトン・スナイダー](https://ja.wikipedia.org/wiki/クレイトン・スナイダー "wikilink") / 声：[風間勇刀](https://ja.wikipedia.org/wiki/風間勇刀 "wikilink")
+    演：[クレイトン・スナイダー](https://ja.wikipedia.org/wiki/クレイトン・スナイダー "wikilink") / 声：[風間勇刀](../Page/風間勇刀.md "wikilink")
     リジーとミランダがあこがれる同級生。後にケイトの彼氏であることが発覚する。
 
 <!-- end list -->
@@ -98,7 +98,7 @@
 <!-- end list -->
 
   -
-    演：[カイリー・ドーンズ](https://ja.wikipedia.org/wiki/カイリー・ドーンズ "wikilink") / 声：[浦田優](https://ja.wikipedia.org/wiki/浦田優 "wikilink")
+    演：[カイリー・ドーンズ](https://ja.wikipedia.org/wiki/カイリー・ドーンズ "wikilink") / 声：[浦田優](../Page/浦田優.md "wikilink")
     リジーの同級生。虫を食べるなど気持ち悪いキャラ。リジーに恋心を抱く。
 
 <!-- end list -->

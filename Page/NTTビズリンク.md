@@ -24,8 +24,8 @@
   - [2003年](../Page/2003年.md "wikilink") 2月 特定建設業（電気通信工事業）許可取得
   - 2003年 5月 NTTフェニックス通信網株式会社の「テレビ会議多地点接続サービス事業」を事業統合
   - [2004年](../Page/2004年.md "wikilink") 7月 株式会社[NTT-ME](../Page/NTT-ME.md "wikilink")の「データセンタ事業」を事業統合
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") 2月 株式会社[ぷららネットワークス](https://ja.wikipedia.org/wiki/ぷららネットワークス "wikilink")の「アカウント・アグリゲーションサービス」を事業統合
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink") 3月 本社を移転
+  - [2005年](../Page/2005年.md "wikilink") 2月 株式会社[ぷららネットワークス](https://ja.wikipedia.org/wiki/ぷららネットワークス "wikilink")の「アカウント・アグリゲーションサービス」を事業統合
+  - [2006年](../Page/2006年.md "wikilink") 3月 本社を移転
   - 2006年12月 プライバシーマークの認証取得
   - [2007年](../Page/2007年.md "wikilink") 1月 [NTTコミュニケーションズ](../Page/NTTコミュニケーションズ.md "wikilink")と[NTT東日本の共同出資会社に変更](../Page/東日本電信電話.md "wikilink")
   - 2007年 3月 環境マネジメントシステムの認証取得

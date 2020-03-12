@@ -27,20 +27,20 @@
 
   - 『[暗殺者 (映画)](https://ja.wikipedia.org/wiki/暗殺者_\(映画\) "wikilink")』
     ロバート・ラスとミゲル・ベインがサイレンサー付きのモデルを使用。
-  - 『[コラテラル](https://ja.wikipedia.org/wiki/コラテラル "wikilink")』
+  - 『[コラテラル](../Page/コラテラル.md "wikilink")』
     ヴィンセントがMk2のサイレンサー付きモデルを使用。
   - 『沈黙の鎮魂歌』
     終盤、ミカエルがMk2を使用。
-  - 『[ワイルド7](https://ja.wikipedia.org/wiki/ワイルド7 "wikilink")』
+  - 『[ワイルド7](../Page/ワイルド7.md "wikilink")』
     [チャーシューが使用](https://ja.wikipedia.org/wiki/ワイルド7#登場人物 "wikilink")。
 
 ### ゲーム
 
   - 『[Fallout: New Vegas](https://ja.wikipedia.org/wiki/Fallout:_New_Vegas "wikilink")』
     サプレッサーをデフォルトで装備したMK2が使用可能。威力は低いが、カジノや身体検査を要する場所でも隠し持つことが出来る。
-  - 『[メタルギアソリッド4](https://ja.wikipedia.org/wiki/メタルギアソリッド4 "wikilink")』
+  - 『[メタルギアソリッド4](../Page/メタルギアソリッド4.md "wikilink")』
     [オールド・スネーク](https://ja.wikipedia.org/wiki/オールド・スネーク "wikilink")が使用。スタームルガーMk.2 の麻酔銃カスタマイズで登場。
-  - 『[ペルソナ3](https://ja.wikipedia.org/wiki/ペルソナ3 "wikilink")』
+  - 『[ペルソナ3](../Page/ペルソナ3.md "wikilink")』
     MK3が召喚器のモデルになっている。
 
 [Category:自動式拳銃](https://ja.wikipedia.org/wiki/Category:自動式拳銃 "wikilink") [Category:アメリカ合衆国の小火器](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の小火器 "wikilink")

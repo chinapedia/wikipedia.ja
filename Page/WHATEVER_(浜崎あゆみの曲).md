@@ -15,12 +15,12 @@
 
 1.  **WHATEVER Version M**
       -
-        [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：ayumi hamasaki / [作曲](../Page/作曲.md "wikilink")：[Kazuhito Kikuchi](https://ja.wikipedia.org/wiki/菊池一仁 "wikilink") / [編曲](../Page/編曲.md "wikilink")：Izumi "D・M・X" Miyazaki
+        [作詞](../Page/作詞.md "wikilink")：ayumi hamasaki / [作曲](../Page/作曲.md "wikilink")：[Kazuhito Kikuchi](../Page/菊池一仁.md "wikilink") / [編曲](../Page/編曲.md "wikilink")：Izumi "D・M・X" Miyazaki
         [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")』1999年2月度エンディングテーマ
         [セブンイレブン](https://ja.wikipedia.org/wiki/セブンイレブン "wikilink") バレンタインキャンペーン イメージソング
 2.  **WHATEVER Version J**
       -
-        編曲：[Keisuke Kikuchi](https://ja.wikipedia.org/wiki/菊地圭介 "wikilink")
+        編曲：[Keisuke Kikuchi](../Page/菊地圭介.md "wikilink")
 3.  **WHATEVER Version M Instrumental**
 4.  **WHATEVER Version J Instrumental**
 

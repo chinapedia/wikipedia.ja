@@ -13,9 +13,9 @@ Xabreという名称は、eXtraordinary, Advanced, Brilliant, Rapture, Enrichmen
 
 また、[AGP](https://ja.wikipedia.org/wiki/AGP "wikilink") 8X[バスを他社に先駆けて採用](../Page/バス_\(コンピュータ\).md "wikilink")。SiSはAGP 8XならびにDirectX 8へ対応したXabreのデザインを 8X8 と呼んだ。Xabreの発表時はまだAGP 8Xの規格自体が正式に策定されておらずプロポーザル規格に準じた対応であったが、AGP 8xをサポートするSiS 648チップセットと合わせ、同シリーズのアドバンテージとして積極的にアピールされた。この他、2x/4xのFSAAに対応する Jitter-Free Anti-Aliasing および[ディスプレイ出力の色調補正を行う](../Page/ディスプレイ_\(コンピュータ\).md "wikilink") Coloredeemer などの機能を搭載する。
 
-さらにコンパニオンチップのSiS 301を併用すると、[デュアルディスプレイ機能の](https://ja.wikipedia.org/wiki/マルチディスプレイ "wikilink") Double Scene Technology を利用可能となる。これによりセカンダリの出力はVGAだけでなく、[DVIまたはS](https://ja.wikipedia.org/wiki/Digital_Visual_Interface "wikilink")-Video/NTSC/PALの出力も可能となる。実際にXabre 400/600を搭載した[ビデオカード](../Page/ビデオカード.md "wikilink")の多くがSiS 301を搭載している。
+さらにコンパニオンチップのSiS 301を併用すると、[デュアルディスプレイ機能の](https://ja.wikipedia.org/wiki/マルチディスプレイ "wikilink") Double Scene Technology を利用可能となる。これによりセカンダリの出力はVGAだけでなく、[DVIまたはS](../Page/Digital_Visual_Interface.md "wikilink")-Video/NTSC/PALの出力も可能となる。実際にXabre 400/600を搭載した[ビデオカード](../Page/ビデオカード.md "wikilink")の多くがSiS 301を搭載している。
 
-動画再生支援機能としては[MCに対応し最大](https://ja.wikipedia.org/wiki/フレーム間予測#動き補償 "wikilink")20Mビット/秒の[ビットレート](https://ja.wikipedia.org/wiki/ビットレート "wikilink")で[MPEG](https://ja.wikipedia.org/wiki/MPEG "wikilink")-1/2のハードウェア[デコードが可能な他](https://ja.wikipedia.org/wiki/エンコード#デコード "wikilink")、[スケーリング](https://ja.wikipedia.org/wiki/スケーリング "wikilink")および[インターレース](https://ja.wikipedia.org/wiki/インターレース "wikilink")補完、ダウンスケーリングにもハードウェアで対応するなど意欲的な実装となっている。
+動画再生支援機能としては[MCに対応し最大](https://ja.wikipedia.org/wiki/フレーム間予測#動き補償 "wikilink")20Mビット/秒の[ビットレート](../Page/ビットレート.md "wikilink")で[MPEG](https://ja.wikipedia.org/wiki/MPEG "wikilink")-1/2のハードウェア[デコードが可能な他](https://ja.wikipedia.org/wiki/エンコード#デコード "wikilink")、[スケーリング](https://ja.wikipedia.org/wiki/スケーリング "wikilink")および[インターレース](../Page/インターレース.md "wikilink")補完、ダウンスケーリングにもハードウェアで対応するなど意欲的な実装となっている。
 
 ## 歴史
 
@@ -31,7 +31,7 @@ Xabreの[デバイスドライバ](../Page/デバイスドライバ.md "wikilink
 
 Xabreを採用したビデオカードは大手ボードベンダー各社よりリリースされた。特に、Triplex社より販売されたビデオカードは銀色の基板や、[三角柱](https://ja.wikipedia.org/wiki/三角柱 "wikilink")の独特なパッケージングデザインが話題になった。
 
-2003年には[ECS社からXabre](https://ja.wikipedia.org/wiki/エリートグループコンピューター・システムズ "wikilink")200をオンボード実装した[マザーボード](https://ja.wikipedia.org/wiki/マザーボード "wikilink") L4VXAG が発売された。
+2003年には[ECS社からXabre](https://ja.wikipedia.org/wiki/エリートグループコンピューター・システムズ "wikilink")200をオンボード実装した[マザーボード](../Page/マザーボード.md "wikilink") L4VXAG が発売された。
 
 ## 派生品
 
@@ -108,7 +108,7 @@ or 166MHz (SDR)</p></td>
 
 ## 評価とその後
 
-XabreシリーズはGPU市場ではマイナープレイヤーに属するSiSの製品でありながら、多くのビデオカードOEMメーカーに採用された。また業界最大手の[NVIDIA](https://ja.wikipedia.org/wiki/NVIDIA "wikilink")社が供給する競合製品である[GeForce](https://ja.wikipedia.org/wiki/GeForce "wikilink")4 MXシリーズへの値下げ圧力となるなど一定の成功を収め、SiSは前モデルであるSiS 315に続き、GPUベンダーとして一定の存在感を示した。
+XabreシリーズはGPU市場ではマイナープレイヤーに属するSiSの製品でありながら、多くのビデオカードOEMメーカーに採用された。また業界最大手の[NVIDIA](../Page/NVIDIA.md "wikilink")社が供給する競合製品である[GeForce](https://ja.wikipedia.org/wiki/GeForce "wikilink")4 MXシリーズへの値下げ圧力となるなど一定の成功を収め、SiSは前モデルであるSiS 315に続き、GPUベンダーとして一定の存在感を示した。
 
 これはXabreシリーズが安価であることに加え、普及価格帯のビデオカード製品としては初めてピクセルシェーダ1.3を搭載し、DirectX 8.1に対応した点が大きい。（当時の競合となるGeForce4 MX、RADEON 7x00ともにDirectX 7世代であった）
 

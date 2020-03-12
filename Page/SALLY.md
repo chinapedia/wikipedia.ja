@@ -14,17 +14,17 @@
 
 のちに司会をしていた[山田パンダ](../Page/山田パンダ.md "wikilink")から直接スカウトの電話があり、メジャーデビューに向けて打診される。
 
-  - 1983年12月 - 吉祥寺・曼荼羅でのライヴに山田パンダと[日本フォノグラムのプロデューサー](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")・井岸義典が来訪。本格的にデビューの話が持ちあがる。前後して元[GARO](../Page/ガロ_\(フォークグループ\).md "wikilink")・[大野真澄](https://ja.wikipedia.org/wiki/大野真澄 "wikilink")が山田パンダと来訪。
+  - 1983年12月 - 吉祥寺・曼荼羅でのライヴに山田パンダと[日本フォノグラムのプロデューサー](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")・井岸義典が来訪。本格的にデビューの話が持ちあがる。前後して元[GARO](../Page/ガロ_\(フォークグループ\).md "wikilink")・[大野真澄](../Page/大野真澄.md "wikilink")が山田パンダと来訪。
   - 1984年初頭 - 山田パンダカンパニー設立にあわせ所属契約。山田パンダのプロデュースを受諾する。
 
 ### デビュー後
 
-  - [1984年](../Page/1984年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")、[フィリップスからシングル](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")『**バージンブルー**』でデビュー。
+  - [1984年](../Page/1984年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")、[フィリップスからシングル](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")『**バージンブルー**』でデビュー。
 
 <!-- end list -->
 
   -
-    同曲は、[杉本哲太](https://ja.wikipedia.org/wiki/杉本哲太 "wikilink")が出演したCM、[キリンレモン](https://ja.wikipedia.org/wiki/キリンレモン "wikilink")2101との[タイアップ](https://ja.wikipedia.org/wiki/タイアップ "wikilink")効果もあり、スマッシュヒット。
+    同曲は、[杉本哲太](https://ja.wikipedia.org/wiki/杉本哲太 "wikilink")が出演したCM、[キリンレモン](../Page/キリンレモン.md "wikilink")2101との[タイアップ](../Page/タイアップ.md "wikilink")効果もあり、スマッシュヒット。
     当初、デビュー曲は「愛しのマリア」になる予定であったが、作曲家の鈴木キサブローが「さらに良いものができた」と持ってきたのがバージンブルーのサビフレーズだった。そのキャッチーなサビ部分がCM起用に決定したため、急遽その前後のメロディーを制作した。
     市松模様の衣装や髪型、バンド構成、曲調等、コンセプトが[チェッカーズ](../Page/チェッカーズ.md "wikilink")に似ており、「第二のチェッカーズ」と呼ばれる こともしばしばあった（これについては[徳光和夫](../Page/徳光和夫.md "wikilink")が音楽番組[ザ・トップテン](../Page/ザ・トップテン.md "wikilink")での発言など）。
 
@@ -39,11 +39,11 @@
 
 ### 解散後
 
-  - 杉山洋介は、当時の事務所後輩である[島田奈美に楽曲提供等の活動後](https://ja.wikipedia.org/wiki/島田奈央子 "wikilink")、現在はユニット「[paris match](https://ja.wikipedia.org/wiki/paris_match "wikilink")」を結成。2007年発売の加藤キーチ「東京バックサイド・ブルース」にも楽曲提供をしている（作詞は[森若香織](https://ja.wikipedia.org/wiki/森若香織 "wikilink")）。
+  - 杉山洋介は、当時の事務所後輩である[島田奈美に楽曲提供等の活動後](../Page/島田奈央子.md "wikilink")、現在はユニット「[paris match](https://ja.wikipedia.org/wiki/paris_match "wikilink")」を結成。2007年発売の加藤キーチ「東京バックサイド・ブルース」にも楽曲提供をしている（作詞は[森若香織](../Page/森若香織.md "wikilink")）。
 
 <!-- end list -->
 
-  - 加藤喜一は解散後、[ビートたけし](../Page/ビートたけし.md "wikilink")のバックバンドでギターをつとめるほか、[布施博](https://ja.wikipedia.org/wiki/布施博 "wikilink")のアルバムに楽曲提供。1996年以降、[吉行由実](../Page/吉行由実.md "wikilink")監督作品で音楽を担当。2003年春、重症急性膵炎を患い生死をさまようが復調。それまでは相当量を飲酒していたが病後は禁酒をしている。現在はユニットやソロで音楽活動をしている。
+  - 加藤喜一は解散後、[ビートたけし](../Page/ビートたけし.md "wikilink")のバックバンドでギターをつとめるほか、[布施博](../Page/布施博.md "wikilink")のアルバムに楽曲提供。1996年以降、[吉行由実](../Page/吉行由実.md "wikilink")監督作品で音楽を担当。2003年春、重症急性膵炎を患い生死をさまようが復調。それまでは相当量を飲酒していたが病後は禁酒をしている。現在はユニットやソロで音楽活動をしている。
 
 <!-- end list -->
 
@@ -55,10 +55,10 @@
 
 1.  バージンブルー（c/w 夏の日の恋）　- [1984年](../Page/1984年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")発売
       -
-        A面 作詞/さがらよしあき、作曲/鈴木キサブロー、編曲/鈴木キサブロー・[大島ミチル](https://ja.wikipedia.org/wiki/大島ミチル "wikilink")
+        A面 作詞/さがらよしあき、作曲/鈴木キサブロー、編曲/鈴木キサブロー・[大島ミチル](../Page/大島ミチル.md "wikilink")
         B面 作詞・作曲・編曲/YOSUKE\&KEACH
-        ※ [第26回日本レコード大賞](https://ja.wikipedia.org/wiki/第26回日本レコード大賞 "wikilink") 新人賞受賞曲。 「[キリンレモン](https://ja.wikipedia.org/wiki/キリンレモン "wikilink")2101」CMソング
-        ※ 『バージンブルー』は、1986年に香港でジャッキー・チュンによってカヴァー（広東語詞。現地タイトル『交叉算了』）、2006年[Lead](https://ja.wikipedia.org/wiki/Lead "wikilink")にカヴァーされた。
+        ※ [第26回日本レコード大賞](https://ja.wikipedia.org/wiki/第26回日本レコード大賞 "wikilink") 新人賞受賞曲。 「[キリンレモン](../Page/キリンレモン.md "wikilink")2101」CMソング
+        ※ 『バージンブルー』は、1986年に香港でジャッキー・チュンによってカヴァー（広東語詞。現地タイトル『交叉算了』）、2006年[Lead](../Page/Lead.md "wikilink")にカヴァーされた。
         ※ オムニバスCD「速報\!歌の大辞テン\!\!Presents 80’s VS 90’s-POPS-」に収録。
 2.  悲しきYoung Love（c/w SWEET OLD DREAM） - 1984年[11月10日](../Page/11月10日.md "wikilink")発売
       -
@@ -76,7 +76,7 @@
         ※ [森永製菓](https://ja.wikipedia.org/wiki/森永製菓 "wikilink")「ぱふぇてりあ」CMソング
 5.  君の瞳に恋してる（c/w サマータイムメモリー） - 1985年[9月5日](../Page/9月5日.md "wikilink")発売
       -
-        A面 作詞/[康珍化](https://ja.wikipedia.org/wiki/康珍化 "wikilink")、作曲/鈴木キサブロー、編曲/勝山俊一郎
+        A面 作詞/[康珍化](../Page/康珍化.md "wikilink")、作曲/鈴木キサブロー、編曲/勝山俊一郎
         B面 作詞/YOSUKE\&KEACH ・[大野轟二](https://ja.wikipedia.org/wiki/大野轟二 "wikilink")、作曲/YOSUKE\&KEACH、編曲/勝山俊一郎
         ※ [つくば万博](../Page/国際科学技術博覧会.md "wikilink")・[講談社](../Page/講談社.md "wikilink")館イメージソング（君の瞳に恋してる）
         ※ [森永製菓](https://ja.wikipedia.org/wiki/森永製菓 "wikilink")「ザギー」CMソング（サマータイムメモリー）
@@ -277,7 +277,7 @@
 
 ## 出演映画
 
-1.  [ビー・バップ・ハイスクール](../Page/ビー・バップ・ハイスクール_\(1985年の映画\).md "wikilink")（1985年、[那須博之](https://ja.wikipedia.org/wiki/那須博之 "wikilink")監督、[東映](../Page/東映.md "wikilink")）
+1.  [ビー・バップ・ハイスクール](../Page/ビー・バップ・ハイスクール_\(1985年の映画\).md "wikilink")（1985年、[那須博之](../Page/那須博之.md "wikilink")監督、[東映](../Page/東映.md "wikilink")）
 
 <!-- end list -->
 

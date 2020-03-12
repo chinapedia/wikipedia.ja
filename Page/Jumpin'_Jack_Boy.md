@@ -1,19 +1,19 @@
 > この記事は[Jumpin\' Jack Boy](https://ja.wikipedia.org/wiki/Jumpin\'_Jack_Boy)から翻訳されています。
 
 
-「**Jumpin' Jack Boy**」（ジャンピン・ジャック・ボーイ）は[WANDS](https://ja.wikipedia.org/wiki/WANDS "wikilink")の7枚目のシングル。[オリコンでは両A面シングルとして扱われているが](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")\[1\]、実際には「Jumpin' Jack Boy」の単独A面シングルである。
+「**Jumpin' Jack Boy**」（ジャンピン・ジャック・ボーイ）は[WANDS](../Page/WANDS.md "wikilink")の7枚目のシングル。[オリコンでは両A面シングルとして扱われているが](../Page/オリコンチャート.md "wikilink")\[1\]、実際には「Jumpin' Jack Boy」の単独A面シングルである。
 
 ## 概要
 
-[東芝EMIから](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")[B-Gram RECORDS移籍第一弾シングル](https://ja.wikipedia.org/wiki/B-Gram_RECORDS "wikilink")。
+[東芝EMIから](../Page/EMIミュージック・ジャパン.md "wikilink")[B-Gram RECORDS移籍第一弾シングル](../Page/B-Gram_RECORDS.md "wikilink")。
 
-今作から11枚目のシングル「[WORST CRIME〜About a rock star who was a swindler〜](https://ja.wikipedia.org/wiki/WORST_CRIME〜About_a_rock_star_who_was_a_swindler〜 "wikilink")」まで、A面曲のカラオケが収録されていない。
+今作から11枚目のシングル「[WORST CRIME〜About a rock star who was a swindler〜](../Page/WORST_CRIME〜About_a_rock_star_who_was_a_swindler〜.md "wikilink")」まで、A面曲のカラオケが収録されていない。
 
 カップリング曲の「White Memories」は大島康祐（現・[大島こうすけ](../Page/大島こうすけ.md "wikilink")）在籍時である[1992年](../Page/1992年.md "wikilink")の作品。
 
 ## シングルジャケット
 
-[2007年](../Page/2007年.md "wikilink")に発売された[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[BEST OF BEST 1000 WANDS](https://ja.wikipedia.org/wiki/BEST_OF_BEST_1000_WANDS "wikilink")』のジャケットでは、当シングルのジャケットが使用されている。
+[2007年](../Page/2007年.md "wikilink")に発売された[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[BEST OF BEST 1000 WANDS](https://ja.wikipedia.org/wiki/BEST_OF_BEST_1000_WANDS "wikilink")』のジャケットでは、当シングルのジャケットが使用されている。
 
 ## 記録
 
@@ -24,7 +24,7 @@
 ## 楽曲解説
 
 1.  **Jumpin' Jack Boy**
-      - [ミズノ](https://ja.wikipedia.org/wiki/ミズノ "wikilink") スキーウエア「インパルス」CMソング
+      - [ミズノ](../Page/ミズノ.md "wikilink") スキーウエア「インパルス」CMソング
       - 4thアルバム『[PIECE OF MY SOUL](../Page/PIECE_OF_MY_SOUL.md "wikilink")』には、[ドラムスが](../Page/ドラムセット.md "wikilink")[打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")（ただし、打ち込みでサンプリングされたドラムの音は本物のドラムセットを叩いた音を取り込んだものである）から生音に変更されたアルバム・バージョンで収録された。
 2.  **White Memories**
       - カップリング曲だがPVが存在し、メンバーが演奏する姿も挿入されている。
@@ -35,7 +35,7 @@
 
   - [PIECE OF MY SOUL](../Page/PIECE_OF_MY_SOUL.md "wikilink") (アルバム・バージョン)
   - [SINGLES COLLECTION+6](../Page/SINGLES_COLLECTION+6.md "wikilink")
-  - [BEST OF WANDS HISTORY](https://ja.wikipedia.org/wiki/BEST_OF_WANDS_HISTORY "wikilink")
+  - [BEST OF WANDS HISTORY](../Page/BEST_OF_WANDS_HISTORY.md "wikilink")
   - [complete of WANDS at the BEING studio](https://ja.wikipedia.org/wiki/complete_of_WANDS_at_the_BEING_studio "wikilink")
   - [BEST OF BEST 1000 WANDS](https://ja.wikipedia.org/wiki/BEST_OF_BEST_1000_WANDS "wikilink")
   - [WANDS BEST HITS](../Page/WANDS_BEST_HITS.md "wikilink")
@@ -43,11 +43,11 @@
 
 ## 参加ミュージシャン
 
-  - [上杉昇](https://ja.wikipedia.org/wiki/上杉昇 "wikilink") - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
+  - [上杉昇](../Page/上杉昇.md "wikilink") - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
   - [柴崎浩](../Page/柴崎浩.md "wikilink") - [ギター](../Page/ギター.md "wikilink")
-  - [木村真也](https://ja.wikipedia.org/wiki/木村真也 "wikilink") - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")
+  - [木村真也](../Page/木村真也.md "wikilink") - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")
   - [大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink") - [コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
-  - [栗林誠一郎](https://ja.wikipedia.org/wiki/栗林誠一郎 "wikilink") - コーラス
+  - [栗林誠一郎](../Page/栗林誠一郎.md "wikilink") - コーラス
 
 ## 脚注
 

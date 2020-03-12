@@ -5,11 +5,11 @@
 
 ## 概要
 
-[JFL各局が毎週日曜日に](../Page/JAPAN_FM_LEAGUE.md "wikilink")「[企画ネット](https://ja.wikipedia.org/wiki/企画ネット番組 "wikilink")」という形で放送しているカウントダウン番組『**[HOT 100](https://ja.wikipedia.org/wiki/HOT_100 "wikilink")**』の福岡版。同局で唯一開局から続く番組であった。
+[JFL各局が毎週日曜日に](../Page/JAPAN_FM_LEAGUE.md "wikilink")「[企画ネット](../Page/企画ネット番組.md "wikilink")」という形で放送しているカウントダウン番組『**[HOT 100](../Page/HOT_100.md "wikilink")**』の福岡版。同局で唯一開局から続く番組であった。
 
-「JK」の愛称で親しまれる[北野順一](https://ja.wikipedia.org/wiki/北野順一 "wikilink")が担当していた頃は、北野が当時並行して担当していた平日夜の人気番組「[北野CLUB](https://ja.wikipedia.org/wiki/北野CLUB "wikilink")」の人気絶頂期であり、北野CLUBを観に来られない若いファンを中心に、ゲストが登場しない日も北九州本社スタジオに集まり、人気番組となっていた（番組終了後にJKが[サインや](../Page/署名.md "wikilink")[写真](../Page/写真.md "wikilink")撮影の時間を設けていたほどである）。
+「JK」の愛称で親しまれる[北野順一](../Page/北野順一.md "wikilink")が担当していた頃は、北野が当時並行して担当していた平日夜の人気番組「[北野CLUB](../Page/北野CLUB.md "wikilink")」の人気絶頂期であり、北野CLUBを観に来られない若いファンを中心に、ゲストが登場しない日も北九州本社スタジオに集まり、人気番組となっていた（番組終了後にJKが[サインや](../Page/署名.md "wikilink")[写真](../Page/写真.md "wikilink")撮影の時間を設けていたほどである）。
 
-前述のとおり長らく本社スタジオからの放送であったが、[2004年](../Page/2004年.md "wikilink")4月に同局の新[サテライトスタジオ](https://ja.wikipedia.org/wiki/サテライトスタジオ "wikilink")「**天神きらめき通りスタジオ**」（[天神](https://ja.wikipedia.org/wiki/天神_\(福岡市\) "wikilink")[岩田屋](../Page/岩田屋.md "wikilink")新館1階）がオープンしたことに伴い移動、同時に[ナビゲーターが](../Page/ディスクジョッキー.md "wikilink")[内堀富美](https://ja.wikipedia.org/wiki/内堀富美 "wikilink")となった。
+前述のとおり長らく本社スタジオからの放送であったが、[2004年](../Page/2004年.md "wikilink")4月に同局の新[サテライトスタジオ](../Page/サテライトスタジオ.md "wikilink")「**天神きらめき通りスタジオ**」（[天神](../Page/天神_\(福岡市\).md "wikilink")[岩田屋](../Page/岩田屋.md "wikilink")新館1階）がオープンしたことに伴い移動、同時に[ナビゲーターが](../Page/ディスクジョッキー.md "wikilink")[内堀富美](../Page/内堀富美.md "wikilink")となった。
 
 現在、この時間帯に「[CROSS COUNTDOWN RADIO](https://ja.wikipedia.org/wiki/CROSS_COUNTDOWN_RADIO "wikilink")」が放送されている。
 
@@ -23,7 +23,7 @@
   - JK時代:[NTTパーソナル](../Page/NTTパーソナル.md "wikilink")九州（かつて存在した[PHS](../Page/PHS.md "wikilink")事業者）
   - [2000年](../Page/2000年.md "wikilink")7月 - [2001年](../Page/2001年.md "wikilink")9月:Jフォン（現在の[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")） - 「**Jフォン COUNTDOWN KYUSHU HOT 100**」として放送。
   - 2001年10月 - [2002年](../Page/2002年.md "wikilink")3月:[au by KDDI](../Page/Au_\(携帯電話\).md "wikilink") - 「**au COUNTDOWN KYUSHU HOT 100**」として放送。
-  - 2004年3月の1ヶ月間:[ファルケン](https://ja.wikipedia.org/wiki/ダンロップファルケンタイヤ "wikilink")
+  - 2004年3月の1ヶ月間:[ファルケン](../Page/ダンロップファルケンタイヤ.md "wikilink")
   - 2007年4月 - 5月:[クロスクラブカード](../Page/九州日本信販.md "wikilink")（同局のオフィシャルカード）
 
 ## 放送時間
@@ -48,9 +48,9 @@
 ## ナビゲーター変遷
 
   - 初代:[アラン・J](https://ja.wikipedia.org/wiki/アラン・J "wikilink")（1993年4月 -）
-  - 2代目:[北野順一](https://ja.wikipedia.org/wiki/北野順一 "wikilink")（- 1998年12月）
+  - 2代目:[北野順一](../Page/北野順一.md "wikilink")（- 1998年12月）
   - 3代目:[宗方脩](https://ja.wikipedia.org/wiki/宗方脩 "wikilink")（1999年1月 - 2000年3月）
-  - 4代目:[永松ケンシ](https://ja.wikipedia.org/wiki/永松ケンシ "wikilink")（2000年4月 - 2003年3月）
+  - 4代目:[永松ケンシ](../Page/永松ケンシ.md "wikilink")（2000年4月 - 2003年3月）
 
 <!-- end list -->
 
@@ -60,7 +60,7 @@
 <!-- end list -->
 
   - 5代目:[RHEA](https://ja.wikipedia.org/wiki/RHEA "wikilink")（リア） （2003年4月 - 2004年3月）
-  - 6代目:[内堀富美](https://ja.wikipedia.org/wiki/内堀富美 "wikilink") （2004年4月 - 2008年3月）
+  - 6代目:[内堀富美](../Page/内堀富美.md "wikilink") （2004年4月 - 2008年3月）
   - 7代目:[嶋田和孝](https://ja.wikipedia.org/wiki/嶋田和孝 "wikilink") （2008年4月 - 2008年9月）
 
 ## 関連項目
@@ -90,8 +90,8 @@
 
 <!-- end list -->
 
-  - [CROSS POWER CAST](https://ja.wikipedia.org/wiki/CROSS_POWER_CAST "wikilink") - 月曜 - 木曜 11:00 - 15:00
-  - [CATEGORY T.T.](https://ja.wikipedia.org/wiki/CATEGORY_T.T. "wikilink") - 月曜 - 金曜 16:00 - 19:00
+  - [CROSS POWER CAST](../Page/CROSS_POWER_CAST.md "wikilink") - 月曜 - 木曜 11:00 - 15:00
+  - [CATEGORY T.T.](../Page/CATEGORY_T.T..md "wikilink") - 月曜 - 金曜 16:00 - 19:00
   - [クロキン激音団](../Page/クロキン激音団.md "wikilink") - 金曜 21:00 - 23:00
   - [クロサタX](../Page/クロサタX.md "wikilink") - 土曜 12:00 - 18:00
   - [信川スポーツ](https://ja.wikipedia.org/wiki/信川スポーツ "wikilink") - 日曜 19:00 - 21:00
@@ -103,8 +103,8 @@
 <!-- end list -->
 
   - [SAPPORO HOT 100](../Page/SAPPORO_HOT_100.md "wikilink") - [札幌](https://ja.wikipedia.org/wiki/札幌市 "wikilink")・[FM NORTH WAVE](../Page/エフエム・ノースウェーブ.md "wikilink")
-  - [TOKIO HOT 100](https://ja.wikipedia.org/wiki/TOKIO_HOT_100 "wikilink") - [東京](../Page/東京.md "wikilink")・[J-WAVE](../Page/J-WAVE.md "wikilink")
-  - [ZIP HOT 100](https://ja.wikipedia.org/wiki/ZIP_HOT_100 "wikilink") - [名古屋](../Page/名古屋市.md "wikilink")・[ZIP-FM](../Page/ZIP-FM.md "wikilink")
-  - [OSAKAN HOT 100](https://ja.wikipedia.org/wiki/OSAKAN_HOT_100 "wikilink") - [大阪](../Page/大阪.md "wikilink")・[FM802](../Page/FM802.md "wikilink")
+  - [TOKIO HOT 100](../Page/TOKIO_HOT_100.md "wikilink") - [東京](../Page/東京.md "wikilink")・[J-WAVE](../Page/J-WAVE.md "wikilink")
+  - [ZIP HOT 100](../Page/ZIP_HOT_100.md "wikilink") - [名古屋](../Page/名古屋市.md "wikilink")・[ZIP-FM](../Page/ZIP-FM.md "wikilink")
+  - [OSAKAN HOT 100](../Page/OSAKAN_HOT_100.md "wikilink") - [大阪](../Page/大阪.md "wikilink")・[FM802](../Page/FM802.md "wikilink")
 
 [Category:CROSS_FMの番組](https://ja.wikipedia.org/wiki/Category:CROSS_FMの番組 "wikilink") [Category:JFL系ラジオの音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:JFL系ラジオの音楽番組の歴史 "wikilink") [Category:音楽ランキング番組_(ラジオ)](https://ja.wikipedia.org/wiki/Category:音楽ランキング番組_\(ラジオ\) "wikilink") [Category:1993年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1993年のラジオ番組_\(日本\) "wikilink") [Category:名数100](https://ja.wikipedia.org/wiki/Category:名数100 "wikilink")

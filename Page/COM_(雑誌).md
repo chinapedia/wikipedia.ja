@@ -13,21 +13,21 @@
 
 「描きたいものが書ける雑誌」および「新人を育てる雑誌」として、[手塚治虫](../Page/手塚治虫.md "wikilink")が、虫プロ友の会発行の会報『鉄腕アトムクラブ』を発展解消する形で創刊した。「まんがエリートのためのまんが専門誌」がキャッチフレーズ。1964年に先行して創刊された『月刊漫画[ガロ](../Page/ガロ_\(雑誌\).md "wikilink")』を強く意識して、両誌はライバル関係と目された。
 
-手塚治虫の「[火の鳥](../Page/火の鳥_\(漫画\).md "wikilink")」（黎明編・未来編・ヤマト編・宇宙編・鳳凰編・復活編・羽衣編・望郷編・乱世編）を看板作品とした。これはライバル誌の『[ガロ](../Page/ガロ_\(雑誌\).md "wikilink")』の看板連載だった[白土三平](../Page/白土三平.md "wikilink")の「[カムイ伝](../Page/カムイ伝.md "wikilink")」に対抗する形だったとされる。ただし、[学生運動](https://ja.wikipedia.org/wiki/学生運動 "wikilink")を盛んにしていた[全共闘世代](https://ja.wikipedia.org/wiki/全共闘世代 "wikilink")は劇画世代であり、既に手塚治虫は古いとされ、『ガロ』は愛読したものの『COM』は馬鹿にされていたという\[1\]\[2\]\[3\]。
+手塚治虫の「[火の鳥](../Page/火の鳥_\(漫画\).md "wikilink")」（黎明編・未来編・ヤマト編・宇宙編・鳳凰編・復活編・羽衣編・望郷編・乱世編）を看板作品とした。これはライバル誌の『[ガロ](../Page/ガロ_\(雑誌\).md "wikilink")』の看板連載だった[白土三平](../Page/白土三平.md "wikilink")の「[カムイ伝](../Page/カムイ伝.md "wikilink")」に対抗する形だったとされる。ただし、[学生運動](../Page/学生運動.md "wikilink")を盛んにしていた[全共闘世代](https://ja.wikipedia.org/wiki/全共闘世代 "wikilink")は劇画世代であり、既に手塚治虫は古いとされ、『ガロ』は愛読したものの『COM』は馬鹿にされていたという\[1\]\[2\]\[3\]。
 
-「火の鳥」以外には手塚治虫の旧作の復刻、手塚治虫と関わりのある著名作家陣が執筆した作品が誌面を飾った。[石森章太郎](https://ja.wikipedia.org/wiki/石ノ森章太郎 "wikilink")「[章太郎のファンタジーワールド・ジュン](https://ja.wikipedia.org/wiki/ジュン_\(漫画\) "wikilink")」「[サイボーグ009 神々との闘い](https://ja.wikipedia.org/wiki/サイボーグ009 "wikilink")」、[永島慎二](https://ja.wikipedia.org/wiki/永島慎二 "wikilink")「漫画家残酷物語」「フーテン」、[出崎統](https://ja.wikipedia.org/wiki/出崎統 "wikilink")「[悟空の大冒険](../Page/悟空の大冒険.md "wikilink")」などが連載された。石森と永島の起用は手塚の指名による\[4\]。その他、[松本零士](../Page/松本零士.md "wikilink")も登場している。手塚治虫と[トキワ荘](https://ja.wikipedia.org/wiki/トキワ荘 "wikilink")に関わりのある石ノ森章太郎、[赤塚不二夫](../Page/赤塚不二夫.md "wikilink")、[鈴木伸一](https://ja.wikipedia.org/wiki/鈴木伸一 "wikilink")、[つのだじろう](../Page/つのだじろう.md "wikilink")、[寺田ヒロオ](https://ja.wikipedia.org/wiki/寺田ヒロオ "wikilink")、[藤子不二雄](../Page/藤子不二雄.md "wikilink")（[藤子・F・不二雄](../Page/藤子・F・不二雄.md "wikilink")、[藤子不二雄A](../Page/藤子不二雄A.md "wikilink")）、[水野英子](https://ja.wikipedia.org/wiki/水野英子 "wikilink")ら計12名の作家による競作漫画「トキワ荘物語」もこの雑誌で発表された。
+「火の鳥」以外には手塚治虫の旧作の復刻、手塚治虫と関わりのある著名作家陣が執筆した作品が誌面を飾った。[石森章太郎](../Page/石ノ森章太郎.md "wikilink")「[章太郎のファンタジーワールド・ジュン](https://ja.wikipedia.org/wiki/ジュン_\(漫画\) "wikilink")」「[サイボーグ009 神々との闘い](https://ja.wikipedia.org/wiki/サイボーグ009 "wikilink")」、[永島慎二](../Page/永島慎二.md "wikilink")「漫画家残酷物語」「フーテン」、[出崎統](../Page/出崎統.md "wikilink")「[悟空の大冒険](../Page/悟空の大冒険.md "wikilink")」などが連載された。石森と永島の起用は手塚の指名による\[4\]。その他、[松本零士](../Page/松本零士.md "wikilink")も登場している。手塚治虫と[トキワ荘](../Page/トキワ荘.md "wikilink")に関わりのある石ノ森章太郎、[赤塚不二夫](../Page/赤塚不二夫.md "wikilink")、[鈴木伸一](../Page/鈴木伸一.md "wikilink")、[つのだじろう](../Page/つのだじろう.md "wikilink")、[寺田ヒロオ](../Page/寺田ヒロオ.md "wikilink")、[藤子不二雄](../Page/藤子不二雄.md "wikilink")（[藤子・F・不二雄](../Page/藤子・F・不二雄.md "wikilink")、[藤子不二雄A](../Page/藤子不二雄A.md "wikilink")）、[水野英子](../Page/水野英子.md "wikilink")ら計12名の作家による競作漫画「トキワ荘物語」もこの雑誌で発表された。
 
-既存の漫画家の作品に加えて、COMからデビューした新人作家による作品がCOMの両輪として人気を博した。登竜門としてのCOMから巣立った作家としては、[青柳裕介](https://ja.wikipedia.org/wiki/青柳裕介 "wikilink")、[あだち充](../Page/あだち充.md "wikilink")、市川みさこ、[居村真二](https://ja.wikipedia.org/wiki/居村真二 "wikilink")、[岡田史子](../Page/岡田史子.md "wikilink")、[加藤広司](https://ja.wikipedia.org/wiki/かとうひろし "wikilink")、[コンタロウ](https://ja.wikipedia.org/wiki/コンタロウ "wikilink")、[竹宮惠子](../Page/竹宮惠子.md "wikilink")、[能條純一](../Page/能條純一.md "wikilink")、[日野日出志](https://ja.wikipedia.org/wiki/日野日出志 "wikilink")、[諸星大二郎](../Page/諸星大二郎.md "wikilink")、[やまだ紫](../Page/やまだ紫.md "wikilink")、[長谷川法世](https://ja.wikipedia.org/wiki/長谷川法世 "wikilink")、[宮谷一彦](https://ja.wikipedia.org/wiki/宮谷一彦 "wikilink")、[西岸良平](https://ja.wikipedia.org/wiki/西岸良平 "wikilink")らがいる。
+既存の漫画家の作品に加えて、COMからデビューした新人作家による作品がCOMの両輪として人気を博した。登竜門としてのCOMから巣立った作家としては、[青柳裕介](../Page/青柳裕介.md "wikilink")、[あだち充](../Page/あだち充.md "wikilink")、市川みさこ、[居村真二](https://ja.wikipedia.org/wiki/居村真二 "wikilink")、[岡田史子](../Page/岡田史子.md "wikilink")、[加藤広司](../Page/かとうひろし.md "wikilink")、[コンタロウ](../Page/コンタロウ.md "wikilink")、[竹宮惠子](../Page/竹宮惠子.md "wikilink")、[能條純一](../Page/能條純一.md "wikilink")、[日野日出志](../Page/日野日出志.md "wikilink")、[諸星大二郎](../Page/諸星大二郎.md "wikilink")、[やまだ紫](../Page/やまだ紫.md "wikilink")、[長谷川法世](../Page/長谷川法世.md "wikilink")、[宮谷一彦](../Page/宮谷一彦.md "wikilink")、[西岸良平](../Page/西岸良平.md "wikilink")らがいる。
 
-虫プロ商事の倒産後、『COM』は自然消滅の形になっていたが、[2011年](../Page/2011年.md "wikilink")[9月20日](../Page/9月20日.md "wikilink")、38年ぶりに『COM　～40年目の終刊号～』（[霜月たかなか](https://ja.wikipedia.org/wiki/霜月たかなか "wikilink")・編）として、[朝日新聞出版](https://ja.wikipedia.org/wiki/朝日新聞出版 "wikilink")より最終号が発売された。ただし書籍としての発売で、厳密な意味での「終刊号」ではない。内容は『COM』連載の再録の他、漫画家・編集者などによる証言、歴史的意義の検証、資料集などとなっている。
+虫プロ商事の倒産後、『COM』は自然消滅の形になっていたが、[2011年](../Page/2011年.md "wikilink")[9月20日](../Page/9月20日.md "wikilink")、38年ぶりに『COM　～40年目の終刊号～』（[霜月たかなか](https://ja.wikipedia.org/wiki/霜月たかなか "wikilink")・編）として、[朝日新聞出版](../Page/朝日新聞出版.md "wikilink")より最終号が発売された。ただし書籍としての発売で、厳密な意味での「終刊号」ではない。内容は『COM』連載の再録の他、漫画家・編集者などによる証言、歴史的意義の検証、資料集などとなっている。
 
 ## ぐら・こん
 
 「ぐら・こん」（グランド・コンパニオン）は、『COM』誌上で[真崎守](https://ja.wikipedia.org/wiki/真崎守 "wikilink")が峠あかね名義で指導した読者投稿コーナーの名称。「日本全国のまんがマニアの集まりの場」として、漫画家、漫画家志望者、読者、批評家を全国的に組織化するという野心的な構想の名前にもなった（[1967年](../Page/1967年.md "wikilink")3月号）。
 
-前史として、[寺田ヒロオ](https://ja.wikipedia.org/wiki/寺田ヒロオ "wikilink")に師事していた中部日本児童漫画研究会未完成倶楽部（1955年1月発足）制作による肉筆同人誌『未完成』が5号まで発行後、『すくりぷる』に発展。峠あかねが参加し、漫画評論など読み物記事が増加。発展して真崎守が代表を務める全日本児童漫画連盟（グランド・コンパニオン）が発行する『ぐらんど』が生まれ、全国の同人グループをまとめ、評論、ルポタージュ、まんが研究資料作成を行った\[5\]。この活動を引き継ぐ意味で『COM』誌上で「ぐら・こん」が展開された。
+前史として、[寺田ヒロオ](../Page/寺田ヒロオ.md "wikilink")に師事していた中部日本児童漫画研究会未完成倶楽部（1955年1月発足）制作による肉筆同人誌『未完成』が5号まで発行後、『すくりぷる』に発展。峠あかねが参加し、漫画評論など読み物記事が増加。発展して真崎守が代表を務める全日本児童漫画連盟（グランド・コンパニオン）が発行する『ぐらんど』が生まれ、全国の同人グループをまとめ、評論、ルポタージュ、まんが研究資料作成を行った\[5\]。この活動を引き継ぐ意味で『COM』誌上で「ぐら・こん」が展開された。
 
-当時、勃興途上にあった漫画[同人誌](../Page/同人誌.md "wikilink")にとって、『COM』という発表の場を与えられ、商業デビューの道が開かれたこと、そして全国の同人作家の交流が実現した意義は大きかった。「ぐら・こん」構想は不十分なまま挫折したが、やがて[日本漫画大会](https://ja.wikipedia.org/wiki/日本漫画大会 "wikilink")を経て、[漫画同人誌を売買するための催し](../Page/同人誌即売会.md "wikilink")、すなわち[コミックマーケット](../Page/コミックマーケット.md "wikilink")の開催に繋がって行く。「ぐら・こん」が輩出した漫画家は[吾妻ひでお](../Page/吾妻ひでお.md "wikilink")、飯田耕一郎、[市川ジュン](https://ja.wikipedia.org/wiki/市川ジュン "wikilink")、[勝川克志](https://ja.wikipedia.org/wiki/勝川克志 "wikilink")、[河あきら](https://ja.wikipedia.org/wiki/河あきら "wikilink")、[樹村みのり](../Page/樹村みのり.md "wikilink")。また、[いしいひさいち](../Page/いしいひさいち.md "wikilink")は高校時代に「ぐら・こん」の「基礎コース」に2度入選したことがあった\[6\]。
+当時、勃興途上にあった漫画[同人誌](../Page/同人誌.md "wikilink")にとって、『COM』という発表の場を与えられ、商業デビューの道が開かれたこと、そして全国の同人作家の交流が実現した意義は大きかった。「ぐら・こん」構想は不十分なまま挫折したが、やがて[日本漫画大会](../Page/日本漫画大会.md "wikilink")を経て、[漫画同人誌を売買するための催し](../Page/同人誌即売会.md "wikilink")、すなわち[コミックマーケット](../Page/コミックマーケット.md "wikilink")の開催に繋がって行く。「ぐら・こん」が輩出した漫画家は[吾妻ひでお](../Page/吾妻ひでお.md "wikilink")、飯田耕一郎、[市川ジュン](https://ja.wikipedia.org/wiki/市川ジュン "wikilink")、[勝川克志](../Page/勝川克志.md "wikilink")、[河あきら](../Page/河あきら.md "wikilink")、[樹村みのり](../Page/樹村みのり.md "wikilink")。また、[いしいひさいち](../Page/いしいひさいち.md "wikilink")は高校時代に「ぐら・こん」の「基礎コース」に2度入選したことがあった\[6\]。
 
 「ぐら・こん」は地域別による支部制をとり、1967年3月号で「北海道支部、東北支部、東京支部、関東支部、中部支部、近畿支部、中国支部、四国支部、九州支部」の募集が行われたが、実際に設立され活動したのは東京支部（1967年6月号）、関東支部（1967年6月号）、北海道支部（1967年7月号）、中部支部（1967年11月号）、関西支部（1968年4月号）、宮城支部（1968年11月号）、山形支部。
 
@@ -39,19 +39,19 @@
 
 中部支部は1968年1月1日に正式に発足。支部を愛知グループ、静岡グループ、新潟グループ、長野グループなど各々の県別にわけ、各グループにリーダーをおいた。各々の支部で会誌を編集。肉筆回覧誌『一番電車』の形で発表。1968年1月5日、『一番電車』創刊号を持って『COM』編集部を訪問。1968年6月に『一番電車』2号発行。
 
-関西支部は1968年3月31日に第一回総会を開催。初代支部長は[作画グループ](https://ja.wikipedia.org/wiki/作画グループ "wikilink")代表のばばよしあきが務めた\[7\]。会誌『ぐるーぷ』創刊号を1968年8月に出版\[8\]。貸本出版社・曙出版を通じて流通したので貸本屋に並んだ。1969年7月に『ぐるーぷ』2号を出版\[9\]。1971年8月28日に大阪府教育会館にて「まんがフェスティバル」開催。
+関西支部は1968年3月31日に第一回総会を開催。初代支部長は[作画グループ](../Page/作画グループ.md "wikilink")代表のばばよしあきが務めた\[7\]。会誌『ぐるーぷ』創刊号を1968年8月に出版\[8\]。貸本出版社・曙出版を通じて流通したので貸本屋に並んだ。1969年7月に『ぐるーぷ』2号を出版\[9\]。1971年8月28日に大阪府教育会館にて「まんがフェスティバル」開催。
 
 山形支部は1971年8月に討論会を開催。
 
-「ぐら・こん」は1971年末の『COM』休刊と共に本誌から切り離され、事実上の終了となったが、一方で、「ぐら・こん」を継承しようとする動きもあり、「ぐら・こん」関西支部長だった中島隆によれば、「ぐら・こん」を引き継ぐ内容の同人誌を企画し、『マンガジュマン』ついで『あっぷる・こあ』を発行した。しかし[1975年](../Page/1975年.md "wikilink")にこれも行き詰まり、中島は引き継いでくれる人材を募り、8月か9月に集会を開いたが、応じる者はなかった（この時接触した霜月たかなか、[米澤嘉博](https://ja.wikipedia.org/wiki/米澤嘉博 "wikilink")らは、既にコミックマーケット開催に向けて動いていた）。結局、九州支部長だった人物が引き継ぐことになったが、この『新生ぐらこん』も2号で消え、完全に途絶えた\[10\]。
+「ぐら・こん」は1971年末の『COM』休刊と共に本誌から切り離され、事実上の終了となったが、一方で、「ぐら・こん」を継承しようとする動きもあり、「ぐら・こん」関西支部長だった中島隆によれば、「ぐら・こん」を引き継ぐ内容の同人誌を企画し、『マンガジュマン』ついで『あっぷる・こあ』を発行した。しかし[1975年](../Page/1975年.md "wikilink")にこれも行き詰まり、中島は引き継いでくれる人材を募り、8月か9月に集会を開いたが、応じる者はなかった（この時接触した霜月たかなか、[米澤嘉博](../Page/米澤嘉博.md "wikilink")らは、既にコミックマーケット開催に向けて動いていた）。結局、九州支部長だった人物が引き継ぐことになったが、この『新生ぐらこん』も2号で消え、完全に途絶えた\[10\]。
 
 最初のコミックマーケットが開催されたのは、1975年[12月21日](../Page/12月21日.md "wikilink")のことであった。
 
 ## 備考
 
-  - [作家](../Page/作家.md "wikilink")の[さくまあきら](https://ja.wikipedia.org/wiki/さくまあきら "wikilink")は同誌を編集部にまで買いに行くほどの愛読者で、休刊後に同様の趣旨の雑誌『[マンガハウス](https://ja.wikipedia.org/wiki/マンガハウス "wikilink")』を創刊した。
+  - [作家](../Page/作家.md "wikilink")の[さくまあきら](../Page/さくまあきら.md "wikilink")は同誌を編集部にまで買いに行くほどの愛読者で、休刊後に同様の趣旨の雑誌『[マンガハウス](../Page/マンガハウス.md "wikilink")』を創刊した。
   - 休刊した当時、手塚は新作の不振続きに加え、[アニメーション](../Page/アニメーション.md "wikilink")事業の低迷（その後、[旧虫プロダクションは](https://ja.wikipedia.org/wiki/虫プロダクション#株式会社虫プロダクション（旧虫プロ） "wikilink")[1973年](../Page/1973年.md "wikilink")に倒産）など不運が続いた為、後年この頃を「冬の時代」と語っていた。
-  - [2015年](../Page/2015年.md "wikilink")[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")には[ちくま書房](https://ja.wikipedia.org/wiki/ちくま書房 "wikilink")より『COM傑作選 上下巻』が発売された\[11\]\[12\]。
+  - [2015年](../Page/2015年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")には[ちくま書房](https://ja.wikipedia.org/wiki/ちくま書房 "wikilink")より『COM傑作選 上下巻』が発売された\[11\]\[12\]。
 
 ## 脚注
 
@@ -61,8 +61,8 @@
 
   - [同人誌](../Page/同人誌.md "wikilink")
   - [コミックマーケット](../Page/コミックマーケット.md "wikilink")
-  - [日本漫画大会](https://ja.wikipedia.org/wiki/日本漫画大会 "wikilink")
-  - [迷宮 (同人サークル)](https://ja.wikipedia.org/wiki/迷宮_\(同人サークル\) "wikilink")
+  - [日本漫画大会](../Page/日本漫画大会.md "wikilink")
+  - [迷宮 (同人サークル)](../Page/迷宮_\(同人サークル\).md "wikilink")
 
 ## 外部リンク
 
@@ -74,13 +74,13 @@
 
 [Category:休廃刊漫画雑誌](https://ja.wikipedia.org/wiki/Category:休廃刊漫画雑誌 "wikilink") [Category:日本の漫画雑誌](https://ja.wikipedia.org/wiki/Category:日本の漫画雑誌 "wikilink") [Category:月刊漫画雑誌](https://ja.wikipedia.org/wiki/Category:月刊漫画雑誌 "wikilink") [Category:青年漫画雑誌](https://ja.wikipedia.org/wiki/Category:青年漫画雑誌 "wikilink") [Category:手塚治虫](https://ja.wikipedia.org/wiki/Category:手塚治虫 "wikilink") [Category:1967年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1967年創刊の雑誌 "wikilink") [Category:1973年休廃刊の雑誌](https://ja.wikipedia.org/wiki/Category:1973年休廃刊の雑誌 "wikilink") [Category:COMの漫画作品](https://ja.wikipedia.org/wiki/Category:COMの漫画作品 "wikilink")
 
-1.  [呉智英](https://ja.wikipedia.org/wiki/呉智英 "wikilink")、藤田尚、[米沢嘉博](https://ja.wikipedia.org/wiki/米沢嘉博 "wikilink")、[村上知彦](https://ja.wikipedia.org/wiki/村上知彦 "wikilink")、[喰始](https://ja.wikipedia.org/wiki/喰始 "wikilink")「座談会『手塚治虫』検証 戦後民主主義とヒューマニズムの人だったか」『[COMIC BOX](https://ja.wikipedia.org/wiki/COMIC_BOX "wikilink")』1989年5月号、p.80
-2.  [長山靖生](https://ja.wikipedia.org/wiki/長山靖生 "wikilink")『戦後SF事件史 日本的想像力の70年』[河出書房新社](https://ja.wikipedia.org/wiki/河出書房新社 "wikilink")、2012年、p.118
-3.  [夏目房之介](https://ja.wikipedia.org/wiki/夏目房之介 "wikilink")『マンガの力 成熟する戦後マンガ』[晶文社](https://ja.wikipedia.org/wiki/晶文社 "wikilink")、1999年、p.177
+1.  [呉智英](../Page/呉智英.md "wikilink")、藤田尚、[米沢嘉博](https://ja.wikipedia.org/wiki/米沢嘉博 "wikilink")、[村上知彦](../Page/村上知彦.md "wikilink")、[喰始](../Page/喰始.md "wikilink")「座談会『手塚治虫』検証 戦後民主主義とヒューマニズムの人だったか」『[COMIC BOX](https://ja.wikipedia.org/wiki/COMIC_BOX "wikilink")』1989年5月号、p.80
+2.  [長山靖生](../Page/長山靖生.md "wikilink")『戦後SF事件史 日本的想像力の70年』[河出書房新社](../Page/河出書房新社.md "wikilink")、2012年、p.118
+3.  [夏目房之介](https://ja.wikipedia.org/wiki/夏目房之介 "wikilink")『マンガの力 成熟する戦後マンガ』[晶文社](../Page/晶文社.md "wikilink")、1999年、p.177
 4.
 5.  『COM』1968年4月号p173-174
-6.  『文藝別冊\[総特集\]いしいひさいち』[河出書房新社](https://ja.wikipedia.org/wiki/河出書房新社 "wikilink")、2012年、p.12、185。当時の担当だった[大野豊による選出だったという](https://ja.wikipedia.org/wiki/大野豊_\(漫画家\) "wikilink")。
-7.  『作画グループの世界』[新書館](https://ja.wikipedia.org/wiki/新書館 "wikilink")、1981年5月25日、pp.78 - 79
+6.  『文藝別冊\[総特集\]いしいひさいち』[河出書房新社](../Page/河出書房新社.md "wikilink")、2012年、p.12、185。当時の担当だった[大野豊による選出だったという](https://ja.wikipedia.org/wiki/大野豊_\(漫画家\) "wikilink")。
+7.  『作画グループの世界』[新書館](../Page/新書館.md "wikilink")、1981年5月25日、pp.78 - 79
 8.
 9.
 10. 中島隆 [「ぐら・こん」がなくなった日](http://blogs.itmedia.co.jp/natsume/2010/05/post-1c52.html)（[夏目房之介](https://ja.wikipedia.org/wiki/夏目房之介 "wikilink")「夏目房之介の「で？」」所収）

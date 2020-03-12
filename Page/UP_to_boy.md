@@ -45,8 +45,8 @@
   - 1月号：[南野陽子](https://ja.wikipedia.org/wiki/南野陽子 "wikilink")
   - 3月号：[浅香唯](https://ja.wikipedia.org/wiki/浅香唯 "wikilink")
   - 5月号：[工藤静香](../Page/工藤静香.md "wikilink")
-  - 7月号：[中山美穂](https://ja.wikipedia.org/wiki/中山美穂 "wikilink")
-  - 9月号：[小川範子](https://ja.wikipedia.org/wiki/小川範子 "wikilink")
+  - 7月号：[中山美穂](../Page/中山美穂.md "wikilink")
+  - 9月号：[小川範子](../Page/小川範子.md "wikilink")
   - 11月号：[渡辺満里奈](../Page/渡辺満里奈.md "wikilink")
 
 **1989年**
@@ -66,7 +66,7 @@
   - 3月号：[酒井法子](https://ja.wikipedia.org/wiki/酒井法子 "wikilink")
   - 5月号：[西田ひかる](../Page/西田ひかる.md "wikilink")
   - 7月号：[高岡早紀](https://ja.wikipedia.org/wiki/高岡早紀 "wikilink")
-  - 9月号：[和久井映見](https://ja.wikipedia.org/wiki/和久井映見 "wikilink")
+  - 9月号：[和久井映見](../Page/和久井映見.md "wikilink")
   - 11月号：酒井法子
 
 **1991年**
@@ -74,7 +74,7 @@
   - 1月号：WINK
   - 3月号：高岡早紀
   - 5月号：西田ひかる
-  - 7月号：[CoCo](https://ja.wikipedia.org/wiki/CoCo_\(アイドルグループ\) "wikilink")
+  - 7月号：[CoCo](../Page/CoCo_\(アイドルグループ\).md "wikilink")
   - 9月号：[高橋由美子](https://ja.wikipedia.org/wiki/高橋由美子 "wikilink")
   - 11月号：高岡早紀
 
@@ -92,7 +92,7 @@
   - 1月号：[牧瀬里穂](https://ja.wikipedia.org/wiki/牧瀬里穂 "wikilink")
   - 3月号：高橋由美子
   - 5月号：ribbon
-  - 7月号：[小松千春](https://ja.wikipedia.org/wiki/小松千春 "wikilink")
+  - 7月号：[小松千春](../Page/小松千春.md "wikilink")
   - 9月号：CoCo
   - 11月号：中江有里
 
@@ -142,7 +142,7 @@
   - 6月号：広末涼子
   - 7月号：ともさかりえ
   - 8月号：奥菜恵
-  - 9月号：[松本恵](https://ja.wikipedia.org/wiki/松本莉緒 "wikilink")
+  - 9月号：[松本恵](../Page/松本莉緒.md "wikilink")
   - 10月号：榎本加奈子
   - 11月号：[佐藤藍子](https://ja.wikipedia.org/wiki/佐藤藍子 "wikilink")
   - 12月号：[遠藤久美子](https://ja.wikipedia.org/wiki/遠藤久美子 "wikilink")
@@ -165,7 +165,7 @@
 **1999年**
 
   - 1月号：[新山千春](../Page/新山千春.md "wikilink")
-  - 2月号：[大村彩子](https://ja.wikipedia.org/wiki/大村彩子 "wikilink")、[浜丘麻矢](https://ja.wikipedia.org/wiki/浜丘麻矢 "wikilink")、[前田愛](../Page/前田愛_\(女優\).md "wikilink")、[前田亜季](../Page/前田亜季.md "wikilink")
+  - 2月号：[大村彩子](../Page/大村彩子.md "wikilink")、[浜丘麻矢](../Page/浜丘麻矢.md "wikilink")、[前田愛](../Page/前田愛_\(女優\).md "wikilink")、[前田亜季](../Page/前田亜季.md "wikilink")
   - 3月号：広末涼子
   - 4月号：[加藤あい](https://ja.wikipedia.org/wiki/加藤あい "wikilink")
   - 5月号：鈴木あみ
@@ -174,7 +174,7 @@
   - 8月号：[深田恭子](https://ja.wikipedia.org/wiki/深田恭子 "wikilink")
   - 9月号：奥菜恵
   - 10月号：田中麗奈
-  - 11月号：[後藤理沙](https://ja.wikipedia.org/wiki/後藤理沙 "wikilink")
+  - 11月号：[後藤理沙](../Page/後藤理沙.md "wikilink")
   - 12月号：加藤あい
 
 #### 2000年代
@@ -188,7 +188,7 @@
   - 5月号：[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")
   - 6月号：鈴木あみ
   - 7月号：[内山理名](https://ja.wikipedia.org/wiki/内山理名 "wikilink")
-  - 8月号：[酒井若菜](https://ja.wikipedia.org/wiki/酒井若菜 "wikilink")
+  - 8月号：[酒井若菜](../Page/酒井若菜.md "wikilink")
   - 9月号：深田恭子
   - 10月号：内山理名
   - 11月号：[上原多香子](https://ja.wikipedia.org/wiki/上原多香子 "wikilink")
@@ -205,7 +205,7 @@
   - 7月号：[タンポポ](../Page/タンポポ_\(ハロー!プロジェクト\).md "wikilink")
   - 8月号：[松浦亜弥](../Page/松浦亜弥.md "wikilink")
   - 9月号：鈴木杏
-  - 10月号：[AKINA](https://ja.wikipedia.org/wiki/AKINA_\(歌手\) "wikilink")
+  - 10月号：[AKINA](../Page/AKINA_\(歌手\).md "wikilink")
   - 11月号：[吉澤ひとみ](../Page/吉澤ひとみ.md "wikilink")
   - 12月号：[後藤真希](https://ja.wikipedia.org/wiki/後藤真希 "wikilink")
 
@@ -237,7 +237,7 @@
   - 9月号：[上戸彩](https://ja.wikipedia.org/wiki/上戸彩 "wikilink")
   - 10月号：後藤真希
   - 11月号：小倉優子
-  - 12月号：[石原さとみ](https://ja.wikipedia.org/wiki/石原さとみ "wikilink")
+  - 12月号：[石原さとみ](../Page/石原さとみ.md "wikilink")
 
 **2004年**
 
@@ -281,7 +281,7 @@
 
   - 2・4月合併号\[3\]：[成海璃子](https://ja.wikipedia.org/wiki/成海璃子 "wikilink")
   - 6月号：[長澤まさみ](https://ja.wikipedia.org/wiki/長澤まさみ "wikilink")
-  - 8月号：[中川翔子](https://ja.wikipedia.org/wiki/中川翔子 "wikilink")
+  - 8月号：[中川翔子](../Page/中川翔子.md "wikilink")
   - 10月号：[小林麻央](../Page/小林麻央.md "wikilink")
   - 12月号：夏帆
 
@@ -365,7 +365,7 @@
   - 3月号：私立恵比寿中学
   - 4月号：[深川麻衣](https://ja.wikipedia.org/wiki/深川麻衣 "wikilink")、[堀未央奈](https://ja.wikipedia.org/wiki/堀未央奈 "wikilink")
   - 5月号：[小林由依](https://ja.wikipedia.org/wiki/小林由依_\(欅坂46\) "wikilink")、平手友梨奈、今泉佑唯
-  - 6月号：[向井地美音](https://ja.wikipedia.org/wiki/向井地美音 "wikilink")
+  - 6月号：[向井地美音](../Page/向井地美音.md "wikilink")
   - 7月号：生田絵梨花 ※*星野みなみ*
   - 8月号：[兒玉遥](https://ja.wikipedia.org/wiki/兒玉遥 "wikilink") ※*[長濱ねる](https://ja.wikipedia.org/wiki/長濱ねる "wikilink")*
   - 9月号：白石麻衣 ※*中元日芽香*
@@ -432,7 +432,7 @@
   - vol.1：[Not yet](https://ja.wikipedia.org/wiki/Not_yet "wikilink")
   - vol.2：AKB48\[19\]
   - vol.3：[渡り廊下走り隊7](https://ja.wikipedia.org/wiki/渡り廊下走り隊7 "wikilink") ※*NMB48*\[20\]
-  - vol.4：鈴木愛理、[前田憂佳](https://ja.wikipedia.org/wiki/前田憂佳 "wikilink")、[鞘師里保](https://ja.wikipedia.org/wiki/鞘師里保 "wikilink") ※*高橋愛*
+  - vol.4：鈴木愛理、[前田憂佳](../Page/前田憂佳.md "wikilink")、[鞘師里保](https://ja.wikipedia.org/wiki/鞘師里保 "wikilink") ※*高橋愛*
 
 **2012年**
 
@@ -519,7 +519,7 @@
 #### 「UTBプラス」の連載
 
   - ななせまるが撮らせて頂きます\!（2014年Vol.22 - ）[西野七瀬](https://ja.wikipedia.org/wiki/西野七瀬 "wikilink")（カメラ）、[乃木坂46](https://ja.wikipedia.org/wiki/乃木坂46 "wikilink")メンバー（モデル）
-  - 魁\!\! 48歌謡塾（2015年Vol.23 - ）[向井地美音](https://ja.wikipedia.org/wiki/向井地美音 "wikilink")、[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")メンバー（交代制）
+  - 魁\!\! 48歌謡塾（2015年Vol.23 - ）[向井地美音](../Page/向井地美音.md "wikilink")、[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")メンバー（交代制）
   - 伊藤理々杏のトーキョー楽しーサー♪（2017年Vol38. - ）[伊藤理々杏](https://ja.wikipedia.org/wiki/伊藤理々杏 "wikilink")
   - デート、どこ行く?（2017年Vol.40 - ）[高橋ひかる](https://ja.wikipedia.org/wiki/高橋ひかる_\(2001年生\) "wikilink")
   - 結んで開いて\! 〜バルーンアーティストへの道〜（2018年Vol.42 - ）[船木結](https://ja.wikipedia.org/wiki/船木結 "wikilink")
@@ -542,21 +542,21 @@
 
 **その他企画記事**
 
-  - 美少女鉄道 （2004年4月号 - 2007年6月号） [豊岡真澄](https://ja.wikipedia.org/wiki/豊岡真澄 "wikilink")
-      - 新美少女鉄道 (2007年8月号 2007年12月号） [寺田有希](https://ja.wikipedia.org/wiki/寺田有希 "wikilink")
+  - 美少女鉄道 （2004年4月号 - 2007年6月号） [豊岡真澄](../Page/豊岡真澄.md "wikilink")
+      - 新美少女鉄道 (2007年8月号 2007年12月号） [寺田有希](../Page/寺田有希.md "wikilink")
   - 岩佐真悠子のやる気塾 （2004年6月号 - 2005年4月号） [岩佐真悠子](https://ja.wikipedia.org/wiki/岩佐真悠子 "wikilink")
   - 隔月いちかわくん （2004年10月号 - 2008年2月・4月合併号） [市川由衣](https://ja.wikipedia.org/wiki/市川由衣 "wikilink")
   - 堀北真希のチャレンジ☆スピリッツ （2005年6月号 - 2007年4月号） [堀北真希](https://ja.wikipedia.org/wiki/堀北真希 "wikilink")
   - こまっちゃん LOVE★LOVE TOKYO LIFE （2005年6月号 - 2008年2月・4月合併号） [小松彩夏](https://ja.wikipedia.org/wiki/小松彩夏 "wikilink")
-  - 映画を見た後で (2007年4月号・2007年6月号） [甲斐麻美](https://ja.wikipedia.org/wiki/甲斐麻美 "wikilink")
+  - 映画を見た後で (2007年4月号・2007年6月号） [甲斐麻美](../Page/甲斐麻美.md "wikilink")
       - ご当地グルメ全国制覇 （2007年8月号 - 2008年2月・4月合併号) 甲斐麻美
-  - キレイノススメ （2007年4月号 - 2008年2月・4月合併号） [平田薫](https://ja.wikipedia.org/wiki/平田薫_\(タレント\) "wikilink")
+  - キレイノススメ （2007年4月号 - 2008年2月・4月合併号） [平田薫](../Page/平田薫_\(タレント\).md "wikilink")
   - なおリンピック （2007年6月号 - 2008年2月・4月合併号）[南沢奈央](../Page/南沢奈央.md "wikilink")
-  - 仲村みう連載\[27\] （2007年6月号 - 2008年2月・4月合併号）[仲村みう](https://ja.wikipedia.org/wiki/仲村みう "wikilink")
+  - 仲村みう連載\[27\] （2007年6月号 - 2008年2月・4月合併号）[仲村みう](../Page/仲村みう.md "wikilink")
   - Berryz TIMES （2007年10月号 - 2008年2月・4月合併号）[Berryz工房](../Page/Berryz工房.md "wikilink")
-  - 小林香菜のよのなか入門 （2008年8月号 - 2010年4月号）[小林香菜](https://ja.wikipedia.org/wiki/小林香菜 "wikilink")
-  - 目指せプロカメラマンへの道 √me（ルートミー）フォトアルバム（2008年8月号 - 2010年6月号） [小林涼子](https://ja.wikipedia.org/wiki/小林涼子 "wikilink")
-  - 20〜uingtime〜ロケーションノート （2008年8月号 - 2010年6月号） [徳永えり](https://ja.wikipedia.org/wiki/徳永えり "wikilink")
+  - 小林香菜のよのなか入門 （2008年8月号 - 2010年4月号）[小林香菜](../Page/小林香菜.md "wikilink")
+  - 目指せプロカメラマンへの道 √me（ルートミー）フォトアルバム（2008年8月号 - 2010年6月号） [小林涼子](../Page/小林涼子.md "wikilink")
+  - 20〜uingtime〜ロケーションノート （2008年8月号 - 2010年6月号） [徳永えり](../Page/徳永えり.md "wikilink")
   - こまっちゃんのHAPPY ECO LIFE エココマ （2008年8月号 - 2010年6月号） 小松彩夏
       - こまっちゃん印の野菜作りプロジェクト コマベジ （2010年8月号 - 2012年2月号）小松彩夏
   - 福田萌のも〜えかいわ （2008年10月号 - 2010年6月号） [福田萌](https://ja.wikipedia.org/wiki/福田萌 "wikilink")
@@ -566,7 +566,7 @@
   - AKBおひとり様 （2010年6月号 - 2011年2月号）[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")\[28\]
   - bump.y凸凹女優塾\!\! （2010年8月号 - 2011年12月号） [bump.y](https://ja.wikipedia.org/wiki/bump.y "wikilink")
   - ももスポ ももいろスポーツ (2010年10月号 - 2011年6月号）　[ももいろクローバー](https://ja.wikipedia.org/wiki/ももいろクローバーZ "wikilink")
-  - スマイレージ福田花音 最強アイドルへの道 （2011年2月号 - 2012年4月号） [福田花音](https://ja.wikipedia.org/wiki/福田花音 "wikilink")
+  - スマイレージ福田花音 最強アイドルへの道 （2011年2月号 - 2012年4月号） [福田花音](../Page/福田花音.md "wikilink")
   - モーニング娘。 9期10期連載\[29\]（2012年2月号 - 2013年12月号) モーニング娘。9期10期メンバー（交代制）
   - 教えて\!\!こまっちゃん先生 （2012年4月号 - 2013年4月号） 小松彩夏 [さくら学院](https://ja.wikipedia.org/wiki/さくら学院 "wikilink")
   - さゆみんの… おしえてこうはい\! （2014年4月号 - 2014年12月号） [道重さゆみ](https://ja.wikipedia.org/wiki/道重さゆみ "wikilink") モーニング娘。'14メンバー（交代制）
@@ -603,26 +603,26 @@
   - No. 7 [鈴木早智子](../Page/鈴木早智子.md "wikilink")（1987年5月号\[34\]）
   - No. 8 北野美佐緒（後の[森川美沙緒](https://ja.wikipedia.org/wiki/森川美沙緒 "wikilink")　1987年9月号）
   - No. 9 [相田翔子](https://ja.wikipedia.org/wiki/相田翔子 "wikilink")（1987年11月号）
-  - No.10 [和久井映見](https://ja.wikipedia.org/wiki/和久井映見 "wikilink")（1988年1月号）
+  - No.10 [和久井映見](../Page/和久井映見.md "wikilink")（1988年1月号）
   - No.11 [岡本真紀](https://ja.wikipedia.org/wiki/岡本真紀 "wikilink")（1988年5月号）
   - No.12 [石川桃実](https://ja.wikipedia.org/wiki/石川桃実 "wikilink")（1988年9月号）
   - No.13 [吉永みのり](https://ja.wikipedia.org/wiki/吉永みのり "wikilink")（1988年11月号）
   - No.14 [寺尾友美](../Page/寺尾友美.md "wikilink")（1989年3月号）
   - No.15 [室町まい](https://ja.wikipedia.org/wiki/室町まい "wikilink") （1989年7月号）
   - No.16 [中江有里](../Page/中江有里.md "wikilink")（1989年9月号）
-  - No.17 [荒井美恵子](https://ja.wikipedia.org/wiki/荒井美恵子 "wikilink")（1990年3月号\[35\]）
+  - No.17 [荒井美恵子](../Page/荒井美恵子.md "wikilink")（1990年3月号\[35\]）
   - No.18 [中畑幾久子](https://ja.wikipedia.org/wiki/中畑幾久子 "wikilink") （1990年9月号）
   - No.19 古柴香織（後の[美栞了](https://ja.wikipedia.org/wiki/美栞了 "wikilink")　1990年11月号）　
   - No.20 [井上晴美](https://ja.wikipedia.org/wiki/井上晴美 "wikilink")（1991年3月号）
-  - No.21 [櫻井淳子](https://ja.wikipedia.org/wiki/櫻井淳子 "wikilink")（1991年5月号）
+  - No.21 [櫻井淳子](../Page/櫻井淳子.md "wikilink")（1991年5月号）
   - No.22 [中田めぐみ](https://ja.wikipedia.org/wiki/中田めぐみ "wikilink")（1991年9月号）
   - No.23 [松本みちか](https://ja.wikipedia.org/wiki/松本みちか "wikilink") （1992年1月号）
   - No.24 [菊池麻衣子](../Page/菊池麻衣子.md "wikilink")（1992年3月号）
   - No.25 [高田侑果](https://ja.wikipedia.org/wiki/高田侑果 "wikilink") （1992年11月号）
   - No.26 [岸本由香理](https://ja.wikipedia.org/wiki/岸本由香理 "wikilink")（1993年11月号）
-  - No.27 [中森友香](https://ja.wikipedia.org/wiki/中森友香 "wikilink")（1994年1月号）
-  - No.28 [建みさと](https://ja.wikipedia.org/wiki/建みさと "wikilink")（1995年8月号）
-  - No.29 [小高早紀](https://ja.wikipedia.org/wiki/小高早紀 "wikilink")（1998年10月号）
+  - No.27 [中森友香](../Page/中森友香.md "wikilink")（1994年1月号）
+  - No.28 [建みさと](../Page/建みさと.md "wikilink")（1995年8月号）
+  - No.29 [小高早紀](../Page/小高早紀.md "wikilink")（1998年10月号）
   - No.30 [北山美幸](https://ja.wikipedia.org/wiki/北山美幸 "wikilink")（1999年6月号）
 
 ## 別冊・増刊号
@@ -679,10 +679,10 @@
 1.
 2.
 3.  紙面リニューアル準備に伴う合併号。
-4.  前田敦子、[北原里英](https://ja.wikipedia.org/wiki/北原里英 "wikilink")、渡辺麻友、[宮崎美穂](https://ja.wikipedia.org/wiki/宮崎美穂 "wikilink")、大島優子、[多田愛佳](https://ja.wikipedia.org/wiki/多田愛佳 "wikilink")、[秋元才加](https://ja.wikipedia.org/wiki/秋元才加 "wikilink")、[佐藤亜美菜](https://ja.wikipedia.org/wiki/佐藤亜美菜 "wikilink")。
+4.  前田敦子、[北原里英](../Page/北原里英.md "wikilink")、渡辺麻友、[宮崎美穂](https://ja.wikipedia.org/wiki/宮崎美穂 "wikilink")、大島優子、[多田愛佳](https://ja.wikipedia.org/wiki/多田愛佳 "wikilink")、[秋元才加](https://ja.wikipedia.org/wiki/秋元才加 "wikilink")、[佐藤亜美菜](https://ja.wikipedia.org/wiki/佐藤亜美菜 "wikilink")。
 5.  前田敦子、[松井珠理奈](https://ja.wikipedia.org/wiki/松井珠理奈 "wikilink")、渡辺麻友、[板野友美](https://ja.wikipedia.org/wiki/板野友美 "wikilink")、[小嶋陽菜](https://ja.wikipedia.org/wiki/小嶋陽菜 "wikilink")。
 6.  通刊200号スペシャルコラボレーション。
-7.  大島優子、小嶋陽菜、北原里英、[宮澤佐江](https://ja.wikipedia.org/wiki/宮澤佐江 "wikilink")、[高橋みなみ](https://ja.wikipedia.org/wiki/高橋みなみ "wikilink")。
+7.  大島優子、小嶋陽菜、北原里英、[宮澤佐江](../Page/宮澤佐江.md "wikilink")、[高橋みなみ](https://ja.wikipedia.org/wiki/高橋みなみ "wikilink")。
 8.  東日本大震災に発生により4月発売号が発売延期になり、それに伴う合併号となったため。
 9.  大島優子、板野友美、指原莉乃、[峯岸みなみ](https://ja.wikipedia.org/wiki/峯岸みなみ "wikilink")、宮澤佐江、渡辺麻友。
 10. 大島優子、[篠田麻里子](https://ja.wikipedia.org/wiki/篠田麻里子 "wikilink")、柏木由紀、小嶋陽菜、高橋みなみ、横山由依。
@@ -703,7 +703,7 @@
 25. 白石麻衣、[衛藤美彩](https://ja.wikipedia.org/wiki/衛藤美彩 "wikilink")、橋本奈々未、[深川麻衣](https://ja.wikipedia.org/wiki/深川麻衣 "wikilink")。
 26. モーニング娘。'18、アンジュルム、Juice=Juice、カントリー・ガールズ、[こぶしファクトリー](https://ja.wikipedia.org/wiki/こぶしファクトリー "wikilink")、[つばきファクトリー](https://ja.wikipedia.org/wiki/つばきファクトリー "wikilink")、一岡伶奈、高瀬くるみ、清野桃々姫、稲葉愛香。
 27. テーマにそったサブタイトルが付いていたが最後まで正式な連載名が決まらなかった。
-28. 登場したのは[小森美果](https://ja.wikipedia.org/wiki/小森美果 "wikilink")、[石田晴香](https://ja.wikipedia.org/wiki/石田晴香 "wikilink")、[片山陽加](../Page/片山陽加.md "wikilink")、[佐藤すみれ](https://ja.wikipedia.org/wiki/佐藤すみれ "wikilink")、[横山由依](https://ja.wikipedia.org/wiki/横山由依 "wikilink")。
+28. 登場したのは[小森美果](https://ja.wikipedia.org/wiki/小森美果 "wikilink")、[石田晴香](../Page/石田晴香.md "wikilink")、[片山陽加](../Page/片山陽加.md "wikilink")、[佐藤すみれ](https://ja.wikipedia.org/wiki/佐藤すみれ "wikilink")、[横山由依](https://ja.wikipedia.org/wiki/横山由依 "wikilink")。
 29. 2012年12月号からはモーニング娘。10期連載。
 30. 『UTB+』Vol.22は移行に伴う休載。
 31. 2012年10月号から2014年10月号までは『指原莉乃の「さしTB FOR HKT48」』のタイトルで『UTB』本誌と『UTB+』両方に連載。

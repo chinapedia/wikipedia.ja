@@ -1,7 +1,7 @@
 > この記事は[REMI](https://ja.wikipedia.org/wiki/REMI)から翻訳されています。
 
 
-**REMI**（れみ、[1月6日](../Page/1月6日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身。[Sound Horizonの二期サポートメンバーとしても活動中](https://ja.wikipedia.org/wiki/Sound_Horizon "wikilink")。
+**REMI**（れみ、[1月6日](../Page/1月6日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")。[東京都](../Page/東京都.md "wikilink")出身。[Sound Horizonの二期サポートメンバーとしても活動中](https://ja.wikipedia.org/wiki/Sound_Horizon "wikilink")。
 
 ## 人物
 
@@ -76,29 +76,29 @@
 
   - 『[GANTZ](../Page/GANTZ.md "wikilink")』（2004年） - 劇伴参加
   - 『[地獄少女](https://ja.wikipedia.org/wiki/地獄少女 "wikilink")』（2005年） - 劇伴参加
-  - 『[怪 〜ayakashi〜](https://ja.wikipedia.org/wiki/怪_〜ayakashi〜 "wikilink")』（2006年） - 劇伴参加
+  - 『[怪 〜ayakashi〜](../Page/怪_〜ayakashi〜.md "wikilink")』（2006年） - 劇伴参加
   - 『[地獄少女 二籠](https://ja.wikipedia.org/wiki/地獄少女 "wikilink")』（2006年） - 劇伴参加
   - 『[モノノ怪](../Page/モノノ怪.md "wikilink")』（2007年） - 劇伴参加
-  - 『[ながされて藍蘭島 聞いちゃって島の音 其の弐](https://ja.wikipedia.org/wiki/ながされて藍蘭島 "wikilink")』（2007年） - 第24話 挿入歌「泡沫の花」 ※作詞も担当
+  - 『[ながされて藍蘭島 聞いちゃって島の音 其の弐](../Page/ながされて藍蘭島.md "wikilink")』（2007年） - 第24話 挿入歌「泡沫の花」 ※作詞も担当
   - 『[NARUTO -ナルト- 疾風伝](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_疾風伝 "wikilink")』（2007年） - 劇伴参加
   - 『[地球へ…](../Page/地球へ….md "wikilink")』（2007年） - 劇伴参加
   - 『[ゆめだまや奇談](https://ja.wikipedia.org/wiki/ゆめだまや奇談 "wikilink")』（2007年） - テーマ曲「母さんの羽根」 ※コーラス
-  - 『[湾岸ミッドナイト](https://ja.wikipedia.org/wiki/湾岸ミッドナイト "wikilink")』（2007年） - 劇伴参加
+  - 『[湾岸ミッドナイト](../Page/湾岸ミッドナイト.md "wikilink")』（2007年） - 劇伴参加
   - 『[地獄少女 三鼎](https://ja.wikipedia.org/wiki/地獄少女 "wikilink")』（2008年） - 劇伴参加
   - 『[ヒャッコ](../Page/ヒャッコ.md "wikilink")』（2008年） - 劇伴参加
   - 『[一騎当千 Great Guardians](../Page/一騎当千_\(漫画\).md "wikilink")』（2008年） - 劇伴参加
   - 『[イタズラなKiss](https://ja.wikipedia.org/wiki/イタズラなKiss "wikilink")』（2008年） - 劇伴参加
-  - 『[我が家のお稲荷さま。](https://ja.wikipedia.org/wiki/我が家のお稲荷さま。 "wikilink")』（2008年） - 劇伴参加
-  - 『[FAIRY TAIL](https://ja.wikipedia.org/wiki/FAIRY_TAIL "wikilink")』（2009年） - 劇伴参加
+  - 『[我が家のお稲荷さま。](../Page/我が家のお稲荷さま。.md "wikilink")』（2008年） - 劇伴参加
+  - 『[FAIRY TAIL](../Page/FAIRY_TAIL.md "wikilink")』（2009年） - 劇伴参加
   - 『[世界名作劇場第26作品-こんにちはアン-](https://ja.wikipedia.org/wiki/こんにちは_アン_〜Before_Green_Gables "wikilink")』（2009年） - 劇伴参加
-  - 『[屍鬼](https://ja.wikipedia.org/wiki/屍鬼 "wikilink")』（2010年） - 劇伴参加
+  - 『[屍鬼](../Page/屍鬼.md "wikilink")』（2010年） - 劇伴参加
   - 『[スイートプリキュア♪](https://ja.wikipedia.org/wiki/スイートプリキュア♪ "wikilink")』（2011年） - 劇伴、ハミィの歌で参加
   - 『[トリコ](https://ja.wikipedia.org/wiki/トリコ "wikilink")』（2011年） - 劇伴参加
   - 『[スマイルプリキュア！](https://ja.wikipedia.org/wiki/スマイルプリキュア! "wikilink")』（2012年） - 劇伴参加
   - 『[ソードアートオンライン](https://ja.wikipedia.org/wiki/ソードアート・オンライン "wikilink")』（2012年） - 劇伴参加
   - 『[私がモテないのはどう考えてもお前らが悪い\!](https://ja.wikipedia.org/wiki/私がモテないのはどう考えてもお前らが悪い! "wikilink")』（2013年） - 第10話 挿入歌「日常キラリ」
   - 『[のんのんびより](https://ja.wikipedia.org/wiki/のんのんびより "wikilink")』（2013年） - 劇伴、1話冒頭のリコーダーで参加
-  - 『[熱風海陸ブシロード](https://ja.wikipedia.org/wiki/熱風海陸ブシロード "wikilink")』（2013年） - 劇伴参加
+  - 『[熱風海陸ブシロード](../Page/熱風海陸ブシロード.md "wikilink")』（2013年） - 劇伴参加
   - 『[ログ・ホライズン](https://ja.wikipedia.org/wiki/ログ・ホライズン "wikilink")』（2014年） - 劇伴参加
   - 『[神様のいない日曜日](https://ja.wikipedia.org/wiki/神さまのいない日曜日 "wikilink")』（2013年） - 劇伴参加
   - 『[ファンタジスタドール](https://ja.wikipedia.org/wiki/ファンタジスタドール "wikilink")』（2013年） - 劇伴参加
@@ -109,7 +109,7 @@
   - 『[デンキ街の本屋さん](https://ja.wikipedia.org/wiki/デンキ街の本屋さん "wikilink")』（2014年） - 劇伴参加
   - 『[ソードアート・オンライン](https://ja.wikipedia.org/wiki/ソードアート・オンライン "wikilink")Ⅱ』（2014年） - 劇伴参加
   - 『[美少女戦士セーラームーン Crystal](https://ja.wikipedia.org/wiki/美少女戦士セーラームーンCrystal "wikilink")』（2014年） - 劇伴参加
-  - 『[FAIRY TAIL](https://ja.wikipedia.org/wiki/FAIRY_TAIL "wikilink")』（2014年） - 劇伴参加
+  - 『[FAIRY TAIL](../Page/FAIRY_TAIL.md "wikilink")』（2014年） - 劇伴参加
   - 『[Z/X IGNITION](https://ja.wikipedia.org/wiki/Z/X "wikilink")』（2014年） - 劇伴参加
   - 『[デート・ア・ライブ](https://ja.wikipedia.org/wiki/デート・ア・ライブ "wikilink")Ⅱ』（2014年） - 劇伴参加
   - 『[聖闘士星矢Ω](https://ja.wikipedia.org/wiki/聖闘士星矢Ω "wikilink") Ω覚醒編』（2014年） - 第87話 挿入歌「Stardust Chant 〜かたちなき星座〜」
@@ -132,14 +132,14 @@
 
 ### テレビドラマ
 
-  - [日本テレビ系土曜ドラマ](../Page/日本テレビ放送網.md "wikilink") 『[ドリーム☆アゲイン](https://ja.wikipedia.org/wiki/ドリーム☆アゲイン "wikilink")』（2007年） - 劇伴参加
+  - [日本テレビ系土曜ドラマ](../Page/日本テレビ放送網.md "wikilink") 『[ドリーム☆アゲイン](../Page/ドリーム☆アゲイン.md "wikilink")』（2007年） - 劇伴参加
   - [テレビ朝日](../Page/テレビ朝日.md "wikilink")系ドラマ 『[生徒諸君\!](../Page/生徒諸君!教師編.md "wikilink")』（2007年） - 劇伴参加
   - 日本テレビ系土曜ドラマ 『[銭ゲバ](https://ja.wikipedia.org/wiki/銭ゲバ "wikilink")』（2009年） - 劇伴で参加
 
 ### 映画
 
   - 『[劇場版 NARUTO -ナルト- 疾風伝](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_疾風伝 "wikilink")』（2007年） - 劇伴参加
-  - 『[ゲゲゲの鬼太郎 千年呪い歌](https://ja.wikipedia.org/wiki/ゲゲゲの鬼太郎_\(実写映画\) "wikilink")』（2008年） - 劇伴参加
+  - 『[ゲゲゲの鬼太郎 千年呪い歌](../Page/ゲゲゲの鬼太郎_\(実写映画\).md "wikilink")』（2008年） - 劇伴参加
   - 『[劇場版 NARUTO -ナルト- 疾風伝 火の意志を継ぐ者](https://ja.wikipedia.org/wiki/劇場版_NARUTO_-ナルト-_疾風伝_火の意志を継ぐ者 "wikilink")』（2009年） - 劇伴参加
   - 『[劇場版 NARUTO -ナルト- 疾風伝 ザ・ロストタワー](https://ja.wikipedia.org/wiki/劇場版_NARUTO_-ナルト-_疾風伝_ザ・ロストタワー "wikilink")』（2010年） - 劇伴参加
   - 『[ジャンプスーパーアニメツアー2010 トリコ バーバリアンアイビーを捕獲せよ\!](https://ja.wikipedia.org/wiki/トリコ#JSAT2010.E7.89.88 "wikilink")』（2010年） - 劇伴参加
@@ -164,8 +164,8 @@
 
 ### ゲーム
 
-  - PS2 『[Memories Off 2nd](https://ja.wikipedia.org/wiki/Memories_Off_2nd "wikilink")』（2003年） - OPテーマ「明日天気に…」
-  - PS2 『[ジルオール インフィニット](https://ja.wikipedia.org/wiki/ジルオール "wikilink")』（2005年） - 劇伴参加
+  - PS2 『[Memories Off 2nd](../Page/Memories_Off_2nd.md "wikilink")』（2003年） - OPテーマ「明日天気に…」
+  - PS2 『[ジルオール インフィニット](../Page/ジルオール.md "wikilink")』（2005年） - 劇伴参加
   - アーケード 『[ダライアスバースト アナザークロニクル](https://ja.wikipedia.org/wiki/ダライアスバースト#ダライアスバースト_アナザークロニクル "wikilink")』（2010年） - 劇伴参加
 
 ## 脚注

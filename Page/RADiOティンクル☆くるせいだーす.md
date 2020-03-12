@@ -3,13 +3,13 @@
 
 **RADiO ティンクル☆くるせいだーす**（らじお てぃんくる くるせいだーす、英:*RADiO TWINKLE CRUSADERS*）は、[Lillianから発売された](../Page/ぺんしる.md "wikilink")[ティンクル☆くるせいだーす](https://ja.wikipedia.org/wiki/ティンクル☆くるせいだーす "wikilink")に関連した[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。2007年9月から2008年11月まで配信された。全31回+3回。略称は**クルくるラジオ**。
 
-[音泉](https://ja.wikipedia.org/wiki/音泉 "wikilink")で配信されており、[伊藤静](https://ja.wikipedia.org/wiki/伊藤静 "wikilink")と[こやまきみこ](../Page/こやまきみこ.md "wikilink")の2人がパーソナリティをつとめる。
+[音泉](../Page/音泉.md "wikilink")で配信されており、[伊藤静](../Page/伊藤静.md "wikilink")と[こやまきみこ](../Page/こやまきみこ.md "wikilink")の2人がパーソナリティをつとめる。
 
-また、2010年9月から2010年11月まで、ティンクル☆くるせいだーすの[コンシューマ](https://ja.wikipedia.org/wiki/コンシューマ "wikilink")版「ティンクル☆くるせいだーすGoGo」に関連して、**RADiO ティンクル☆くるせいだーすGoGo Go\!**（らじお てぃんくる くるせいだーす ごーごーごー）が、[斎賀みつき](../Page/斎賀みつき.md "wikilink")と[後藤麻衣をパーソナリティとして配信された](https://ja.wikipedia.org/wiki/後藤麻衣_\(声優\) "wikilink")。こちらも本項にて扱う。
+また、2010年9月から2010年11月まで、ティンクル☆くるせいだーすの[コンシューマ](https://ja.wikipedia.org/wiki/コンシューマ "wikilink")版「ティンクル☆くるせいだーすGoGo」に関連して、**RADiO ティンクル☆くるせいだーすGoGo Go\!**（らじお てぃんくる くるせいだーす ごーごーごー）が、[斎賀みつき](../Page/斎賀みつき.md "wikilink")と[後藤麻衣をパーソナリティとして配信された](../Page/後藤麻衣_\(声優\).md "wikilink")。こちらも本項にて扱う。
 
 ## 番組概要
 
-  - [2007年](../Page/2007年.md "wikilink")[9月10日](../Page/9月10日.md "wikilink")-2008年11月3日、[音泉](https://ja.wikipedia.org/wiki/音泉 "wikilink")にて隔週月曜日配信。全31回。
+  - [2007年](../Page/2007年.md "wikilink")[9月10日](../Page/9月10日.md "wikilink")-2008年11月3日、[音泉](../Page/音泉.md "wikilink")にて隔週月曜日配信。全31回。
 
 <!-- end list -->
 
@@ -22,9 +22,9 @@
   - 配信開始に先立ち、2007年[8月27日](../Page/8月27日.md "wikilink")から2週間、公式ページにて第0回として先行配信を行っていた。
   - 番組内ではペンネームをクルくるネームと称している。
   - 2008年11月27日より、「RADiOクル☆くる アンコール」として、毎週木曜日に公式ページにて第0回から順次再配信が行われた。
-  - 2008年12月29日に、[コミックマーケット](../Page/コミックマーケット.md "wikilink")75のPencilブースにて、[水霧けいと](https://ja.wikipedia.org/wiki/水霧けいと "wikilink")と[長谷川明子](https://ja.wikipedia.org/wiki/長谷川明子 "wikilink")をパーソナリティとして公開録音が行われ、「番外編inコミケ75☆」として2009年1月15日に公式ページで配信された。
+  - 2008年12月29日に、[コミックマーケット](../Page/コミックマーケット.md "wikilink")75のPencilブースにて、[水霧けいと](https://ja.wikipedia.org/wiki/水霧けいと "wikilink")と[長谷川明子](../Page/長谷川明子.md "wikilink")をパーソナリティとして公開録音が行われ、「番外編inコミケ75☆」として2009年1月15日に公式ページで配信された。
   - 2009年10月26日には、第32回が前後編で公開された。
-  - 2010年8月16日に、[コミックマーケット](../Page/コミックマーケット.md "wikilink")78のPencilブースにて、[斎賀みつき](../Page/斎賀みつき.md "wikilink")と[後藤麻衣をパーソナリティとして公開録音が行われ](https://ja.wikipedia.org/wiki/後藤麻衣_\(声優\) "wikilink")、「番外編inコミケ78☆」として2010年8月19日に公式ページで配信された。実質的には後述する「RADiOティンクル☆くるせいだーすGoGo Go\!」の第0回だが、「RADiOティンクル☆くるせいーだす」のページで公開されている。
+  - 2010年8月16日に、[コミックマーケット](../Page/コミックマーケット.md "wikilink")78のPencilブースにて、[斎賀みつき](../Page/斎賀みつき.md "wikilink")と[後藤麻衣をパーソナリティとして公開録音が行われ](../Page/後藤麻衣_\(声優\).md "wikilink")、「番外編inコミケ78☆」として2010年8月19日に公式ページで配信された。実質的には後述する「RADiOティンクル☆くるせいだーすGoGo Go\!」の第0回だが、「RADiOティンクル☆くるせいーだす」のページで公開されている。
 
 ## エピソード
 
@@ -101,30 +101,30 @@
 
   - \#0 - [水霧けいと](https://ja.wikipedia.org/wiki/水霧けいと "wikilink") （夕霧ナナカ 役）
     \#13 - [坂田有希](../Page/坂田有希.md "wikilink") （九浄リア 役）, [七穂元美](https://ja.wikipedia.org/wiki/七穂元美 "wikilink") （ロロット・ローゼンクロイツ 役）
-    \#14 - [阪田佳代](https://ja.wikipedia.org/wiki/阪田佳代 "wikilink") （聖沙・B・クリステレス 役）, [阿部留美](https://ja.wikipedia.org/wiki/阿部留美 "wikilink") （アゼル 役）
+    \#14 - [阪田佳代](../Page/阪田佳代.md "wikilink") （聖沙・B・クリステレス 役）, [阿部留美](https://ja.wikipedia.org/wiki/阿部留美 "wikilink") （アゼル 役）
     \#15 - [水霧けいと](https://ja.wikipedia.org/wiki/水霧けいと "wikilink") (夕霧ナナカ 役), [下田麻美](https://ja.wikipedia.org/wiki/下田麻美 "wikilink") (さっちん 役)
-    \#28 - [今井麻美](https://ja.wikipedia.org/wiki/今井麻美 "wikilink") (エミリナ 役)
-    \#29 - [長谷川明子](https://ja.wikipedia.org/wiki/長谷川明子 "wikilink") (飛鳥井紫央 役)
-    \#31 - [いのくちゆか](https://ja.wikipedia.org/wiki/いのくちゆか "wikilink") (サリーちゃん 役)
+    \#28 - [今井麻美](../Page/今井麻美.md "wikilink") (エミリナ 役)
+    \#29 - [長谷川明子](../Page/長谷川明子.md "wikilink") (飛鳥井紫央 役)
+    \#31 - [いのくちゆか](../Page/いのくちゆか.md "wikilink") (サリーちゃん 役)
     \#32 - [斎賀みつき](../Page/斎賀みつき.md "wikilink") (咲良シン 役)
 
 ## CD
 
   - RADiOティンクル☆くるせいだーす vol.1
     コミックマーケット73（2007年12月28日）で先行発売。一般発売は2008年2月22日。
-    第1回から第6回まで、および第0回を[WMA型式で収録](https://ja.wikipedia.org/wiki/Windows_Media_Audio "wikilink")。またパーソナリティ2人による新規録音のボーカル曲1曲およびそのカラオケを収録。
+    第1回から第6回まで、および第0回を[WMA型式で収録](../Page/Windows_Media_Audio.md "wikilink")。またパーソナリティ2人による新規録音のボーカル曲1曲およびそのカラオケを収録。
 
 <!-- end list -->
 
   - RADiOティンクル☆くるせいだーす vol.2
     コミックマーケット74（2008年8月15日）で先行発売。一般発売は2008年9月26日。
-    第7回から第19回までを[WMA型式で収録](https://ja.wikipedia.org/wiki/Windows_Media_Audio "wikilink")。またパーソナリティ2人による新規録音のボーカル曲1曲およびそのカラオケを収録。
+    第7回から第19回までを[WMA型式で収録](../Page/Windows_Media_Audio.md "wikilink")。またパーソナリティ2人による新規録音のボーカル曲1曲およびそのカラオケを収録。
 
 <!-- end list -->
 
   - RADiOティンクル☆くるせいだーす vol.3
     コミックマーケット75（2008年12月28日）で先行発売。一般発売は2009年2月27日。
-    第20回から第31回までを[WMA型式で収録](https://ja.wikipedia.org/wiki/Windows_Media_Audio "wikilink")。またパーソナリティ2人による新規録音のボーカル曲1曲およびそのカラオケを収録。
+    第20回から第31回までを[WMA型式で収録](../Page/Windows_Media_Audio.md "wikilink")。またパーソナリティ2人による新規録音のボーカル曲1曲およびそのカラオケを収録。
 
 ## RADiO ティンクル☆くるせいだーすGoGo Go\!
 
@@ -153,11 +153,11 @@
     \#2 - [水霧けいと](https://ja.wikipedia.org/wiki/水霧けいと "wikilink") (夕霧ナナカ 役)
     \#3 - [下田麻美](https://ja.wikipedia.org/wiki/下田麻美 "wikilink") (さっちん 役)
     \#4 - [こやまきみこ](../Page/こやまきみこ.md "wikilink") (メリロット 役)
-    \#5 - [長谷川明子](https://ja.wikipedia.org/wiki/長谷川明子 "wikilink") (飛鳥井紫央 役)
-    \#6 - [阪田佳代](https://ja.wikipedia.org/wiki/阪田佳代 "wikilink") (聖沙・B・クリステレス 役)
+    \#5 - [長谷川明子](../Page/長谷川明子.md "wikilink") (飛鳥井紫央 役)
+    \#6 - [阪田佳代](../Page/阪田佳代.md "wikilink") (聖沙・B・クリステレス 役)
     \#7 - [坂田有希](../Page/坂田有希.md "wikilink") (九浄リア 役)
     \#8 - ゲストなし
-    \#9 - [伊藤静](https://ja.wikipedia.org/wiki/伊藤静 "wikilink") (九浄ヘレナ 役)
+    \#9 - [伊藤静](../Page/伊藤静.md "wikilink") (九浄ヘレナ 役)
     \#10- [阿澄佳奈](https://ja.wikipedia.org/wiki/阿澄佳奈 "wikilink")　(マカロン 役)
 
 ## 外部リンク

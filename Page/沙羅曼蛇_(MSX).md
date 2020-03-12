@@ -1,9 +1,9 @@
 > この記事は[ \(MSX\)](https://ja.wikipedia.org/wiki/_\(MSX\))から翻訳されています。
 
 
-『**沙羅曼蛇**』（サラマンダ *SALAMANDER*）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")（現・[コナミデジタルエンタテインメント](https://ja.wikipedia.org/wiki/コナミデジタルエンタテインメント "wikilink")）から発売された[MSX](https://ja.wikipedia.org/wiki/MSX "wikilink")用[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")である。その前年に[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")として稼働された[同名の作品の移植作だが](../Page/沙羅曼蛇.md "wikilink")、アーケード版などと共通する要素はタイトルとBGMくらいで、ステージ構成などは大幅に変更されている。
+『**沙羅曼蛇**』（サラマンダ *SALAMANDER*）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")（現・[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")）から発売された[MSX](https://ja.wikipedia.org/wiki/MSX "wikilink")用[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")である。その前年に[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")として稼働された[同名の作品の移植作だが](../Page/沙羅曼蛇.md "wikilink")、アーケード版などと共通する要素はタイトルとBGMくらいで、ステージ構成などは大幅に変更されている。
 
-[i-revo](https://ja.wikipedia.org/wiki/i-revo "wikilink")や[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")、[Wii Uの](https://ja.wikipedia.org/wiki/Wii_U "wikilink")[バーチャルコンソール](https://ja.wikipedia.org/wiki/バーチャルコンソール "wikilink")、[プロジェクトEGG](https://ja.wikipedia.org/wiki/プロジェクトEGG "wikilink")で配信されている他、『[コナミアンティークスMSXコレクション](https://ja.wikipedia.org/wiki/コナミアンティークスMSXコレクション "wikilink")』のVol.3（[プレイステーション](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")）およびウルトラパック（[セガサターン](../Page/セガサターン.md "wikilink")）にはMSX版『沙羅曼蛇』が収録されている。
+[i-revo](https://ja.wikipedia.org/wiki/i-revo "wikilink")や[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")、[Wii Uの](https://ja.wikipedia.org/wiki/Wii_U "wikilink")[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")、[プロジェクトEGG](../Page/プロジェクトEGG.md "wikilink")で配信されている他、『[コナミアンティークスMSXコレクション](../Page/コナミアンティークスMSXコレクション.md "wikilink")』のVol.3（[プレイステーション](../Page/PlayStation_\(ゲーム機\).md "wikilink")）およびウルトラパック（[セガサターン](../Page/セガサターン.md "wikilink")）にはMSX版『沙羅曼蛇』が収録されている。
 
 ## ストーリー
 
@@ -61,7 +61,7 @@
 
   - スピードアップ:自機の移動速度が上がる。最大7速。
     ノーマルショット:リップルレーザーもしくはレーザーを装備している時にノーマルショットに戻す。攻撃判定が狭く弾速も遅く、またこの装備のためにゲージ数が増えており、以降のパワーアップに必要なカプセル数が全体的に増えるため、復活プレイが困難な原因のひとつとなっている。本作ではショットの威力が一律で2発連射が可能なショットがノーマルショットのみのため、対ボス戦では最も高威力の装備になる。
-    2-WAYミサイル:横スクロール時は上下、縦スクロール時は左右に地表を滑走するミサイルを発射。ただし自機・オプションとも画面中心からの位置によって中心と反対の側に発射方向が変わる。なお、同一性能のミサイルは『**[ゴーファーの野望_エピソードII](https://ja.wikipedia.org/wiki/ゴーファーの野望_エピソードII "wikilink")**』のほかにSFC版『**[グラディウスIII](https://ja.wikipedia.org/wiki/グラディウスIII_\(スーパーファミコン\) "wikilink")**』や『**[グラディウスV](https://ja.wikipedia.org/wiki/グラディウスV "wikilink")**』などにも登場している。なお、SFC版『グラディウスIII』では装備名はホークウィンドとなっている。
+    2-WAYミサイル:横スクロール時は上下、縦スクロール時は左右に地表を滑走するミサイルを発射。ただし自機・オプションとも画面中心からの位置によって中心と反対の側に発射方向が変わる。なお、同一性能のミサイルは『**[ゴーファーの野望_エピソードII](https://ja.wikipedia.org/wiki/ゴーファーの野望_エピソードII "wikilink")**』のほかにSFC版『**[グラディウスIII](https://ja.wikipedia.org/wiki/グラディウスIII_\(スーパーファミコン\) "wikilink")**』や『**[グラディウスV](../Page/グラディウスV.md "wikilink")**』などにも登場している。なお、SFC版『グラディウスIII』では装備名はホークウィンドとなっている。
     リップルレーザー:徐々に拡大するリング状レーザーを前方に発射。画面外に消えるまで拡大する幅に際限はなく、破壊可能な地形があれば幅の分だけ壊せる。貫通力なしで単発、レーザーとは併用できない。遮蔽板奥の弱点に届きにくく、ボス戦が困難な装備。
     レーザー:威力が高く、雑魚敵を貫通する直線状レーザーを前方に発射。リップルとは併用できない。
     オプション:自機の分身を装備。自機の攻撃と同じ攻撃をする。1人プレイ時は最大4つ・2人プレイ時は合計で3つまで付けられる。
@@ -213,7 +213,7 @@ PLANET KIERKE</p></td>
 
 ### 復活プレイの困難さ
 
-[山下章](https://ja.wikipedia.org/wiki/山下章 "wikilink")は著書「電脳遊戯考」にて、他のグラディウスシリーズと異なるこの点について批判をしていた。
+[山下章](../Page/山下章.md "wikilink")は著書「電脳遊戯考」にて、他のグラディウスシリーズと異なるこの点について批判をしていた。
 
 ザコキャラがまとめて登場する区画ごとに出現パターンが数種類ある。そのため、フル装備では問題無くとも復活プレイでは復活パターンが確立しにくく、ミスしたら最初からやり直した方が早いという見方もある。
 
@@ -241,7 +241,7 @@ PS/SSアンティークス版は、オリジナルが面内の敵砲台にグラ
 
 ## 関連項目
 
-  - [MSXのゲームタイトル一覧](https://ja.wikipedia.org/wiki/MSXのゲームタイトル一覧 "wikilink")
+  - [MSXのゲームタイトル一覧](../Page/MSXのゲームタイトル一覧.md "wikilink")
   - [コナミデジタルエンタテインメント発売の製品一覧](https://ja.wikipedia.org/wiki/コナミデジタルエンタテインメント発売の製品一覧 "wikilink")
 
 ## 外部リンク
@@ -255,4 +255,4 @@ PS/SSアンティークス版は、オリジナルが面内の敵砲台にグラ
 
 [Category:1987年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1987年のコンピュータゲーム "wikilink") [Category:グラディウスシリーズ](https://ja.wikipedia.org/wiki/Category:グラディウスシリーズ "wikilink") [Category:MSX/MSX2用ソフト](https://ja.wikipedia.org/wiki/Category:MSX/MSX2用ソフト "wikilink") [Category:I-revoゲーム対応ソフト](https://ja.wikipedia.org/wiki/Category:I-revoゲーム対応ソフト "wikilink") [Category:Wii用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii用バーチャルコンソール対応ソフト "wikilink") [Category:Wii_U用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii_U用バーチャルコンソール対応ソフト "wikilink") [Category:プロジェクトEGG対応ソフト](https://ja.wikipedia.org/wiki/Category:プロジェクトEGG対応ソフト "wikilink")
 
-1.  CD『沙羅曼蛇 -Again-』に基づく。後年作曲者の[古川もとあきにより](../Page/古川元亮.md "wikilink")"MOONSPIN"というタイトルが付けられている。また『沙羅曼蛇2』サウンドトラックなどでは曲名がアーケード版3面BGMタイトル"Planet RATIS"と入れ替わっている。詳しくは『[グラディウス2](https://ja.wikipedia.org/wiki/グラディウス2 "wikilink")』、『[沙羅曼蛇2](https://ja.wikipedia.org/wiki/沙羅曼蛇2 "wikilink")』をそれぞれ参照のこと。
+1.  CD『沙羅曼蛇 -Again-』に基づく。後年作曲者の[古川もとあきにより](../Page/古川元亮.md "wikilink")"MOONSPIN"というタイトルが付けられている。また『沙羅曼蛇2』サウンドトラックなどでは曲名がアーケード版3面BGMタイトル"Planet RATIS"と入れ替わっている。詳しくは『[グラディウス2](https://ja.wikipedia.org/wiki/グラディウス2 "wikilink")』、『[沙羅曼蛇2](../Page/沙羅曼蛇2.md "wikilink")』をそれぞれ参照のこと。

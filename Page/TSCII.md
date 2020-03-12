@@ -7,7 +7,7 @@
 
 [Unicode](../Page/Unicode.md "wikilink")は[ISCII](../Page/ISCII.md "wikilink")に従い、タミル文字の符号化戦略に論理順序を使ってきた。これは[TIS-620](https://ja.wikipedia.org/wiki/TIS-620 "wikilink")が採用していた視覚順序の符号化を引き継いだ[タイ文字](https://ja.wikipedia.org/wiki/タイ文字 "wikilink")の場合とは対照的である。
 
-[タミル・ナードゥ州](https://ja.wikipedia.org/wiki/タミル・ナードゥ州 "wikilink")政府は8ビット文字コードとその他のために独自のTAB/TAM規格を推進しているが、他の符号化方式もまだWWW上に見られる。
+[タミル・ナードゥ州](../Page/タミル・ナードゥ州.md "wikilink")政府は8ビット文字コードとその他のために独自のTAB/TAM規格を推進しているが、他の符号化方式もまだWWW上に見られる。
 
 フリーな電子テキストの収集計画である[Project Madurai](http://www.tamil.net/projectmadurai/)は**TSCII**符号化を使っているが、すでに[Unicode](../Page/Unicode.md "wikilink")版の提供を開始した。
 

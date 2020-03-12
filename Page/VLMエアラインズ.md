@@ -7,7 +7,7 @@
 
 ## 初代
 
-[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")に[アントウェルペン](https://ja.wikipedia.org/wiki/アントウェルペン "wikilink")で設立。当初はチャーター便を運航していたが、[1993年](../Page/1993年.md "wikilink")にと[ロンドン・シティ空港](../Page/ロンドン・シティ空港.md "wikilink")を結ぶ定期便の運航を開始。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")から親会社の[シティジェット](https://ja.wikipedia.org/wiki/シティジェット "wikilink")とともに[エールフランス‐KLM](../Page/エールフランス‐KLM.md "wikilink")の傘下となっていたが\[1\]、2014年に[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")のイントロ・アビエーションに売却された\[2\]。
+[1992年](../Page/1992年.md "wikilink")に[アントウェルペン](../Page/アントウェルペン.md "wikilink")で設立。当初はチャーター便を運航していたが、[1993年](../Page/1993年.md "wikilink")にと[ロンドン・シティ空港](../Page/ロンドン・シティ空港.md "wikilink")を結ぶ定期便の運航を開始。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")から親会社の[シティジェット](https://ja.wikipedia.org/wiki/シティジェット "wikilink")とともに[エールフランス‐KLM](../Page/エールフランス‐KLM.md "wikilink")の傘下となっていたが\[1\]、2014年に[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")のイントロ・アビエーションに売却された\[2\]。
 
 最末期には11機の[フォッカー50](https://ja.wikipedia.org/wiki/フォッカー50 "wikilink")で運航していたが、[2016年](../Page/2016年.md "wikilink")6月、[倒産](../Page/倒産.md "wikilink")に伴い運航を停止した\[3\] 。 その後[2017年](../Page/2017年.md "wikilink")に新法人が設立され再スタートを切ったが、会社を清算するという株主側の決定により[2018年](../Page/2018年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink")をもって運航終了した。
 

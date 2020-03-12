@@ -1,25 +1,25 @@
 > この記事は[NATURAL8](https://ja.wikipedia.org/wiki/NATURAL8)から翻訳されています。
 
 
-**NATURAL8**（ナチュラルエイト）は、日本の7人組[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")。2007年4組のアーティストによるスペシャルコラボレーションユニットとして結成。[Chermside Recordsよりインディーズデビュー](https://ja.wikipedia.org/wiki/Chermside_Records "wikilink")。
+**NATURAL8**（ナチュラルエイト）は、日本の7人組[音楽ユニット](../Page/音楽ユニット.md "wikilink")。2007年4組のアーティストによるスペシャルコラボレーションユニットとして結成。[Chermside Recordsよりインディーズデビュー](https://ja.wikipedia.org/wiki/Chermside_Records "wikilink")。
 
 ## メンバー
 
   - JUN（[CLIFF EDGE](../Page/CLIFF_EDGE.md "wikilink")）- [MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")・[プロデューサー](../Page/プロデューサー.md "wikilink")
   - SHIN（CLIFF EDGE）- MC
-  - [DJ GEORGIA](https://ja.wikipedia.org/wiki/DJ_GEORGIA "wikilink")（CLIFF EDGE）- [DJ](https://ja.wikipedia.org/wiki/ディスクジョッキー "wikilink")・プロデューサー
-  - 片桐舞子（[MAY'S](https://ja.wikipedia.org/wiki/MAY'S "wikilink")）- [ボーカリスト](https://ja.wikipedia.org/wiki/ボーカリスト "wikilink")
+  - [DJ GEORGIA](https://ja.wikipedia.org/wiki/DJ_GEORGIA "wikilink")（CLIFF EDGE）- [DJ](../Page/ディスクジョッキー.md "wikilink")・プロデューサー
+  - 片桐舞子（[MAY'S](../Page/MAY'S.md "wikilink")）- [ボーカリスト](https://ja.wikipedia.org/wiki/ボーカリスト "wikilink")
   - [NAUGHTY BO-Z](https://ja.wikipedia.org/wiki/NAUGHTY_BO-Z "wikilink")（MAY'S）- [デザイナー](../Page/デザイナー.md "wikilink")・プロデューサー
   - [KG](https://ja.wikipedia.org/wiki/KG_\(R&B\) "wikilink") - ボーカリスト
   - [SHIKATA](../Page/SHIKATA.md "wikilink") - ボーカリスト
 
 ## 元メンバー
 
-  - Gakushi - [キーボーディスト](https://ja.wikipedia.org/wiki/キーボーディスト "wikilink")・プロデューサー
+  - Gakushi - [キーボーディスト](../Page/キーボーディスト.md "wikilink")・プロデューサー
 
 ## 略歴
 
-アマチュアでの下積み時代から交流のあった「[CLIFF EDGE](../Page/CLIFF_EDGE.md "wikilink")」、「[MAY'S](https://ja.wikipedia.org/wiki/MAY'S "wikilink")」、「[SHIKATA](../Page/SHIKATA.md "wikilink")」の3組に、男性R\&Bユニット「[KG](https://ja.wikipedia.org/wiki/KG_\(R&B\) "wikilink")」を迎え4組8人によるスペシャルユニット「NATURAL8」を結成。2007年5月25日に1stアルバム『GOLDEN SHUFFLE』をリリース。同作品は店舗での取り扱いを、北関東を中心に展開するCDショップ「[WonderGOO](https://ja.wikipedia.org/wiki/WonderGOO "wikilink")」限定で発売したのにも関わらず、1週間で1万以上を売上げる。またノンタイアップで爆発的なセールスを記録したため、WonderGOOではインディーズとしては異例の全75店舗全てに特大特設コーナーを設置。ショップランキングでは、発売から1ヶ月以上もの間、総合・インディーズ共に1位を獲得しキープしている。
+アマチュアでの下積み時代から交流のあった「[CLIFF EDGE](../Page/CLIFF_EDGE.md "wikilink")」、「[MAY'S](../Page/MAY'S.md "wikilink")」、「[SHIKATA](../Page/SHIKATA.md "wikilink")」の3組に、男性R\&Bユニット「[KG](https://ja.wikipedia.org/wiki/KG_\(R&B\) "wikilink")」を迎え4組8人によるスペシャルユニット「NATURAL8」を結成。2007年5月25日に1stアルバム『GOLDEN SHUFFLE』をリリース。同作品は店舗での取り扱いを、北関東を中心に展開するCDショップ「[WonderGOO](https://ja.wikipedia.org/wiki/WonderGOO "wikilink")」限定で発売したのにも関わらず、1週間で1万以上を売上げる。またノンタイアップで爆発的なセールスを記録したため、WonderGOOではインディーズとしては異例の全75店舗全てに特大特設コーナーを設置。ショップランキングでは、発売から1ヶ月以上もの間、総合・インディーズ共に1位を獲得しキープしている。
 
 2008年に2ndアルバム『GOLDEN SHUFFLE 2』をリリース以降、メンバーそれぞれのメジャーデビューを期に活動を停止。以後、再結成を望む声も多数あったものの、現在ではレーベルの垣根を超えた特殊ユニットになってしまうため、あらゆる問題が重なりその後1度も再結成には至らなかった。
 
@@ -28,7 +28,7 @@
 ## トリビア
 
   - 結成のきっかけは、メンバーが公私共に親交があり、遊びのつもりで共同制作した楽曲が気付いたら数曲にも及ぶ事に気付く。それらを収録したアルバムを作ってしまおうというのが、そもそものきっかけである。
-  - 「NATURAL8」という名前の由来は、カジノのゲームである[バカラに由来する](https://ja.wikipedia.org/wiki/バカラ_\(トランプゲーム\) "wikilink")。バカラは9、または9に出来るだけ近い数のカードを揃えた手を予想するゲームだが、手が揃う事を「ナチュラル」と呼び、そこからユニット名を連想し名付けたもの。そのため曲名やジャケット、歌詞カードにもギャンブル、カジノを連想するような遊び心が隠されており、ジャケット写真のメンバーの手をよく見ると全員がトランプを1枚ずつ持っている。
+  - 「NATURAL8」という名前の由来は、カジノのゲームである[バカラに由来する](../Page/バカラ_\(トランプゲーム\).md "wikilink")。バカラは9、または9に出来るだけ近い数のカードを揃えた手を予想するゲームだが、手が揃う事を「ナチュラル」と呼び、そこからユニット名を連想し名付けたもの。そのため曲名やジャケット、歌詞カードにもギャンブル、カジノを連想するような遊び心が隠されており、ジャケット写真のメンバーの手をよく見ると全員がトランプを1枚ずつ持っている。
 
 ## ディスコグラフィー
 

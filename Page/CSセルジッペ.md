@@ -1,7 +1,7 @@
 > この記事は[CS](https://ja.wikipedia.org/wiki/CS)から翻訳されています。
 
 
-**CSセルジッペ** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[セルジッペ州](https://ja.wikipedia.org/wiki/セルジッペ州 "wikilink")[アラカジュ](https://ja.wikipedia.org/wiki/アラカジュ "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
+**CSセルジッペ** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[セルジッペ州](https://ja.wikipedia.org/wiki/セルジッペ州 "wikilink")[アラカジュ](../Page/アラカジュ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
 
 [ボート](https://ja.wikipedia.org/wiki/ボート "wikilink")クラブとして[1909年](../Page/1909年.md "wikilink")[10月17日](../Page/10月17日.md "wikilink")に創設。[カンピオナート・セルジパーノ](https://ja.wikipedia.org/wiki/カンピオナート・セルジパーノ "wikilink") (セルジッペ州選手権) で最多の優勝回数を誇る。ライバルは同都市の[ADコンフィアンサ](https://ja.wikipedia.org/wiki/ADコンフィアンサ "wikilink")。
 

@@ -1,9 +1,9 @@
 > この記事は[Utah teapot](https://ja.wikipedia.org/wiki/Utah_teapot)から翻訳されています。
 
 
-[Utah_teapot_simple_2.png](https://ja.wikipedia.org/wiki/File:Utah_teapot_simple_2.png "fig:Utah_teapot_simple_2.png") **Utah teapot**（**ユタ・ティーポット**）は、[コンピュータグラフィックス](../Page/コンピュータグラフィックス.md "wikilink") (CG) の分野において標準的に使われる、[ティーポットの](https://ja.wikipedia.org/wiki/ポット "wikilink")3Dモデルである。
+[Utah_teapot_simple_2.png](https://ja.wikipedia.org/wiki/File:Utah_teapot_simple_2.png "fig:Utah_teapot_simple_2.png") **Utah teapot**（**ユタ・ティーポット**）は、[コンピュータグラフィックス](../Page/コンピュータグラフィックス.md "wikilink") (CG) の分野において標準的に使われる、[ティーポットの](../Page/ポット.md "wikilink")3Dモデルである。
 
-[1975年](../Page/1975年.md "wikilink")、[ユタ大学](https://ja.wikipedia.org/wiki/ユタ大学 "wikilink")の[マーティン・ニューウェル](https://ja.wikipedia.org/wiki/マーティン・ニューウェル "wikilink")（[Martin Newell](https://ja.wikipedia.org/wiki/:en:Martin_Newell_\(computer_scientist\) "wikilink")）によって制作された。制作者の名から、**Newell teapot**（ニューウェル・ティーポット） とも呼ばれる。
+[1975年](../Page/1975年.md "wikilink")、[ユタ大学](../Page/ユタ大学.md "wikilink")の[マーティン・ニューウェル](https://ja.wikipedia.org/wiki/マーティン・ニューウェル "wikilink")（[Martin Newell](https://ja.wikipedia.org/wiki/:en:Martin_Newell_\(computer_scientist\) "wikilink")）によって制作された。制作者の名から、**Newell teapot**（ニューウェル・ティーポット） とも呼ばれる。
 
 ## 歴史
 
@@ -15,27 +15,27 @@
 
 ### 普及
 
-[レンダリング結果だけでなく](https://ja.wikipedia.org/wiki/レンダリング_\(コンピュータ\) "wikilink")、モデリングの数値データもニューウェルは公開したため、他のCG研究者たちの間でたちまちこのモデルが使われるようになった。ティーポットは丸みを帯び、くびれを含み、取っ手には穴が開いている（数学的には「0よりも大きな[種数](https://ja.wikipedia.org/wiki/種数 "wikilink")を持っている」）。また、自身に影を投影でき、また複雑な表面テクスチャなしに見た目もよく表示できる。こうした特性を持ち合わせた3Dモデルは、CGの実験を行うために理想的であり、多くのCG研究者たちが必要としていたためである。
+[レンダリング結果だけでなく](../Page/レンダリング_\(コンピュータ\).md "wikilink")、モデリングの数値データもニューウェルは公開したため、他のCG研究者たちの間でたちまちこのモデルが使われるようになった。ティーポットは丸みを帯び、くびれを含み、取っ手には穴が開いている（数学的には「0よりも大きな[種数](https://ja.wikipedia.org/wiki/種数 "wikilink")を持っている」）。また、自身に影を投影でき、また複雑な表面テクスチャなしに見た目もよく表示できる。こうした特性を持ち合わせた3Dモデルは、CGの実験を行うために理想的であり、多くのCG研究者たちが必要としていたためである。
 
 ニューウェルによる元々のモデルは、ティーポットの底に面がなかった。これは、下から覗かれることを想定していなかったためである。後のバージョンで、この問題は修正されている。
 
-その後数十年間に渡って、コンピュータグラフィックスの学術雑誌（[ACMの](../Page/Association_for_Computing_Machinery.md "wikilink")[SIGGRAPH](https://ja.wikipedia.org/wiki/SIGGRAPH "wikilink")の季刊誌など）には、さまざまな特徴のあるティーポットのCGが常に載せられていた。細かく面を刻まれたり、滑らかな影をつけられたり、ワイヤーフレームになったり、でこぼこになったり、半透明になったり、透明で内部で屈折するようになったりしたものがある。豹の皮をかぶせられて、毛皮を生やされたティーポットが作られたことさえあった。
+その後数十年間に渡って、コンピュータグラフィックスの学術雑誌（[ACMの](../Page/Association_for_Computing_Machinery.md "wikilink")[SIGGRAPH](../Page/SIGGRAPH.md "wikilink")の季刊誌など）には、さまざまな特徴のあるティーポットのCGが常に載せられていた。細かく面を刻まれたり、滑らかな影をつけられたり、ワイヤーフレームになったり、でこぼこになったり、半透明になったり、透明で内部で屈折するようになったりしたものがある。豹の皮をかぶせられて、毛皮を生やされたティーポットが作られたことさえあった。
 
 ### 現況
 
 [CGfog.jpg](https://ja.wikipedia.org/wiki/File:CGfog.jpg "fig:CGfog.jpg") 技術の進歩にしたがって、ティーポットをレンダリングする行為は、1975年当時と違ってもはやチャレンジングなものではない。しかし、より進化したグラフィックス技術を試すためのサンプルとして、ティーポットは今でも使われ続けている。
 
-ティーポットモデルの様々なバージョンや、それが描かれたシーンは、昨今のレンダリングやモデリングソフトと一緒に配布されていたり、自由に利用できるようになっている。例えば、[AutoCAD](https://ja.wikipedia.org/wiki/AutoCAD "wikilink")や[Lightwave 3D](https://ja.wikipedia.org/wiki/Lightwave_3D "wikilink")、[POV-Ray](../Page/POV-Ray.md "wikilink")、[OpenGL](../Page/OpenGL.md "wikilink")、[Direct3D](https://ja.wikipedia.org/wiki/Direct3D "wikilink")、[3D Studio Maxなどで利用可能である](https://ja.wikipedia.org/wiki/3D_Studio_Max "wikilink")。立方体や球などと一緒に、[GLUT](https://ja.wikipedia.org/wiki/GLUT "wikilink")は `glutSolidTeapot()` というグラフィックス関数を用意している。[Direct3D](https://ja.wikipedia.org/wiki/Direct3D "wikilink")では同様に[D3DX](https://ja.wikipedia.org/wiki/D3DX "wikilink")があり、そこで `D3DXCreateTeapot()` を用意している。OS X TigerとLeopardもまた[Quartz Composerの中にティーポットが入っているが](https://ja.wikipedia.org/wiki/Quartz_Composer "wikilink")、Lepardのティーポットは[バンプマッピング](https://ja.wikipedia.org/wiki/バンプマッピング "wikilink")をサポートしている。[BeOS](../Page/BeOS.md "wikilink")には3Dのティーポットが回転するちょっとしたデモが入っていて、マルチメディア処理に強いプラットフォームの特性を印象付けようとしている。
+ティーポットモデルの様々なバージョンや、それが描かれたシーンは、昨今のレンダリングやモデリングソフトと一緒に配布されていたり、自由に利用できるようになっている。例えば、[AutoCAD](../Page/AutoCAD.md "wikilink")や[Lightwave 3D](https://ja.wikipedia.org/wiki/Lightwave_3D "wikilink")、[POV-Ray](../Page/POV-Ray.md "wikilink")、[OpenGL](../Page/OpenGL.md "wikilink")、[Direct3D](../Page/Direct3D.md "wikilink")、[3D Studio Maxなどで利用可能である](https://ja.wikipedia.org/wiki/3D_Studio_Max "wikilink")。立方体や球などと一緒に、[GLUT](https://ja.wikipedia.org/wiki/GLUT "wikilink")は `glutSolidTeapot()` というグラフィックス関数を用意している。[Direct3D](../Page/Direct3D.md "wikilink")では同様に[D3DX](https://ja.wikipedia.org/wiki/D3DX "wikilink")があり、そこで `D3DXCreateTeapot()` を用意している。OS X TigerとLeopardもまた[Quartz Composerの中にティーポットが入っているが](https://ja.wikipedia.org/wiki/Quartz_Composer "wikilink")、Lepardのティーポットは[バンプマッピング](../Page/バンプマッピング.md "wikilink")をサポートしている。[BeOS](../Page/BeOS.md "wikilink")には3Dのティーポットが回転するちょっとしたデモが入っていて、マルチメディア処理に強いプラットフォームの特性を印象付けようとしている。
 
-ティーポットが描かれているシーンは、[レンダラの自己テストと](https://ja.wikipedia.org/wiki/レンダリングエンジン "wikilink")[ベンチマーク](https://ja.wikipedia.org/wiki/ベンチマーク "wikilink")によく使われている。
+ティーポットが描かれているシーンは、[レンダラの自己テストと](https://ja.wikipedia.org/wiki/レンダリングエンジン "wikilink")[ベンチマーク](../Page/ベンチマーク.md "wikilink")によく使われている。
 
 ## CG文化とティーポット
 
-[Siggraph_2013_Teapot.JPG](https://ja.wikipedia.org/wiki/File:Siggraph_2013_Teapot.JPG "fig:Siggraph_2013_Teapot.JPG")で頒布された、2013年版のウォーキング・ティーポット。\]\] このポットのモデルがあまりに広く使われたため、CGに携わる者の間では一種の「内輪ネタ」的なジョークの題材としても用いられる。たとえば、3Dアニメーション映画『[トイ・ストーリー](../Page/トイ・ストーリー.md "wikilink")』では、短いお茶会のシーンにユタ・ティーポットが見られる。また、Microsoftの[Windowsに附属した](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[スクリーンセーバー](https://ja.wikipedia.org/wiki/スクリーンセーバー "wikilink")の「パイプ」では、継ぎ目にティーポットがまぎれているのを見ることができる\[2\]。[ピクサー社は](https://ja.wikipedia.org/wiki/ピクサー・アニメーション・スタジオ "wikilink")、擬人化されたティーポットのキャラクター「ウォーキング・ティーポット」を、レンダリングソフト [RenderMan](https://ja.wikipedia.org/wiki/RenderMan "wikilink") のマスコットとしており、ぜんまい式で自走可能なウォーキング・ティーポットのモデルが、2003年以来毎年趣向を変えて限定生産されている。
+[Siggraph_2013_Teapot.JPG](https://ja.wikipedia.org/wiki/File:Siggraph_2013_Teapot.JPG "fig:Siggraph_2013_Teapot.JPG")で頒布された、2013年版のウォーキング・ティーポット。\]\] このポットのモデルがあまりに広く使われたため、CGに携わる者の間では一種の「内輪ネタ」的なジョークの題材としても用いられる。たとえば、3Dアニメーション映画『[トイ・ストーリー](../Page/トイ・ストーリー.md "wikilink")』では、短いお茶会のシーンにユタ・ティーポットが見られる。また、Microsoftの[Windowsに附属した](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[スクリーンセーバー](../Page/スクリーンセーバー.md "wikilink")の「パイプ」では、継ぎ目にティーポットがまぎれているのを見ることができる\[2\]。[ピクサー社は](https://ja.wikipedia.org/wiki/ピクサー・アニメーション・スタジオ "wikilink")、擬人化されたティーポットのキャラクター「ウォーキング・ティーポット」を、レンダリングソフト [RenderMan](../Page/RenderMan.md "wikilink") のマスコットとしており、ぜんまい式で自走可能なウォーキング・ティーポットのモデルが、2003年以来毎年趣向を変えて限定生産されている。
 
 1987年、Jim Arvo と David Kirk は、[レイトレーシング](../Page/レイトレーシング.md "wikilink")に関する論文 "Fast Ray Tracing by Ray Classification" \[3\] をSIGGRAPH に発表した。その付図8として掲げられた「プラトンの立体」と題された画像には、6つの石柱が描かれ、その上に5つの[正多面体](https://ja.wikipedia.org/wiki/正多面体 "wikilink")（[正四面体](../Page/正四面体.md "wikilink")、[正六面体](../Page/正六面体.md "wikilink")、[正八面体](../Page/正八面体.md "wikilink")、[正十二面体](../Page/正十二面体.md "wikilink")、[正二十面体](../Page/正二十面体.md "wikilink")）と、件のティーポットが乗せられている。この図のティーポットは**Teapotahedron**（正ティーポット体）と呼ばれ、画像はいくつかの本や学術雑誌\[4\]の表紙を飾った。
 
-[ジム・ブリン](https://ja.wikipedia.org/wiki/ジム・ブリン "wikilink")がこの件について、IEEE CG\&A 誌 1987年11月号のコラムにジョークとして「6番めの正多面体が発見された」と書いたところ、CGに関する雑学的知識のなかった数学者から当惑の手紙が編集部に送られてきたという。体積（縮小前（後述））は、ほぼ[42だという](https://ja.wikipedia.org/wiki/生命、宇宙、そして万物についての究極の疑問の答え "wikilink")。また、ジム・ブリンは、制作に携わった数学教育用ビデオシリーズ "[Project Mathematics\!](https://ja.wikipedia.org/wiki/:en:Project_Mathematics! "wikilink")" の中の一作（1988年制作の "The Theorem of Pythagoras"）で、[ピタゴラスの定理](../Page/ピタゴラスの定理.md "wikilink")をユニークな方法で説明した。直角三角形のそれぞれの辺に2Dのティーポットを置いたとき、斜辺のティーポットの面積は他の二辺のティーポットの面積を足し合わせたものに等しいというのである。
+[ジム・ブリン](https://ja.wikipedia.org/wiki/ジム・ブリン "wikilink")がこの件について、IEEE CG\&A 誌 1987年11月号のコラムにジョークとして「6番めの正多面体が発見された」と書いたところ、CGに関する雑学的知識のなかった数学者から当惑の手紙が編集部に送られてきたという。体積（縮小前（後述））は、ほぼ[42だという](../Page/生命、宇宙、そして万物についての究極の疑問の答え.md "wikilink")。また、ジム・ブリンは、制作に携わった数学教育用ビデオシリーズ "[Project Mathematics\!](https://ja.wikipedia.org/wiki/:en:Project_Mathematics! "wikilink")" の中の一作（1988年制作の "The Theorem of Pythagoras"）で、[ピタゴラスの定理](../Page/ピタゴラスの定理.md "wikilink")をユニークな方法で説明した。直角三角形のそれぞれの辺に2Dのティーポットを置いたとき、斜辺のティーポットの面積は他の二辺のティーポットの面積を足し合わせたものに等しいというのである。
 
 ## ティーポットの実物
 

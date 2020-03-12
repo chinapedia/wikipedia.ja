@@ -1,7 +1,7 @@
 > この記事は[VISCII](https://ja.wikipedia.org/wiki/VISCII)から翻訳されています。
 
 
-**Vietnamese Standard Code for Information Interchange** (情報交換用ベトナム語標準符号、**VISCII**) は[ベトナム語アルファベット](../Page/クオック・グー.md "wikilink")、[約物](../Page/約物.md "wikilink")、およびその他の[書記素](../Page/書記素.md "wikilink")からなる[文字コード](../Page/文字コード.md "wikilink")である。ベトナム語は伝統的な[拡張ASCII](https://ja.wikipedia.org/wiki/拡張ASCII "wikilink")文字コードを作るには多少多い (134文字) 文字とダイアクリティカルマークの組み合わせを必要とする。この解決策は本質的に3通り存在する。
+**Vietnamese Standard Code for Information Interchange** (情報交換用ベトナム語標準符号、**VISCII**) は[ベトナム語アルファベット](../Page/クオック・グー.md "wikilink")、[約物](../Page/約物.md "wikilink")、およびその他の[書記素](../Page/書記素.md "wikilink")からなる[文字コード](../Page/文字コード.md "wikilink")である。ベトナム語は伝統的な[拡張ASCII](../Page/拡張ASCII.md "wikilink")文字コードを作るには多少多い (134文字) 文字とダイアクリティカルマークの組み合わせを必要とする。この解決策は本質的に3通り存在する。
 
 1.  可変長の符号化を使用する
 2.  [Windows-1258](https://ja.wikipedia.org/wiki/Windows-1258 "wikilink")のように、[合成可能なダイアクリティカルマークを使用する](https://ja.wikipedia.org/wiki/結合文字 "wikilink")

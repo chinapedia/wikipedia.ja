@@ -1,26 +1,26 @@
 > この記事は[RPG](https://ja.wikipedia.org/wiki/RPG)から翻訳されています。
 
 
-**コンピュータRPG**（コンピュータ・アールピージー）は、[コンピュータゲームのジャンル](https://ja.wikipedia.org/wiki/コンピュータゲームのジャンル "wikilink")の一つ。
+**コンピュータRPG**（コンピュータ・アールピージー）は、[コンピュータゲームのジャンル](../Page/コンピュータゲームのジャンル.md "wikilink")の一つ。
 
-元々RPGとは卓上で紙と鉛筆、サイコロ用いて行う、現在でいう[テーブルトークRPG](https://ja.wikipedia.org/wiki/テーブルトークRPG "wikilink")を指す。それをコンピュータで再現した物がコンピュータRPGとなった。しかし、RPG文化とコンピュータRPGが同時期に広まった日本では、初期からコンピュータRPGが席巻したため、「RPG」がそのままコンピュータRPGを指すことが多い。[ロールプレイングゲーム](../Page/ロールプレイングゲーム.md "wikilink")の定義では「参加者が各自に割り当てられたキャラクター（[プレイヤーキャラクター](https://ja.wikipedia.org/wiki/プレイヤーキャラクター "wikilink")）を操作する」とあるが、コンピュータRPGはテーブルトークRPGを再現した物という定義である。そのためそれ以外の割り当てられたプレイヤーキャラクターを操作するゲームは[アクションゲーム](https://ja.wikipedia.org/wiki/アクションゲーム "wikilink")など別のジャンルに該当する。
+元々RPGとは卓上で紙と鉛筆、サイコロ用いて行う、現在でいう[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")を指す。それをコンピュータで再現した物がコンピュータRPGとなった。しかし、RPG文化とコンピュータRPGが同時期に広まった日本では、初期からコンピュータRPGが席巻したため、「RPG」がそのままコンピュータRPGを指すことが多い。[ロールプレイングゲーム](../Page/ロールプレイングゲーム.md "wikilink")の定義では「参加者が各自に割り当てられたキャラクター（[プレイヤーキャラクター](../Page/プレイヤーキャラクター.md "wikilink")）を操作する」とあるが、コンピュータRPGはテーブルトークRPGを再現した物という定義である。そのためそれ以外の割り当てられたプレイヤーキャラクターを操作するゲームは[アクションゲーム](../Page/アクションゲーム.md "wikilink")など別のジャンルに該当する。
 
 ## 概要
 
-[コンピュータ](https://ja.wikipedia.org/wiki/コンピュータ "wikilink")を用いた[ロールプレイングゲーム](../Page/ロールプレイングゲーム.md "wikilink")（RPG）群を指す。
+[コンピュータ](../Page/コンピュータ.md "wikilink")を用いた[ロールプレイングゲーム](../Page/ロールプレイングゲーム.md "wikilink")（RPG）群を指す。
 
-日本の[家庭用ゲーム](https://ja.wikipedia.org/wiki/家庭用ゲーム "wikilink")市場では人気の高いジャンルで、特に[ドラゴンクエストシリーズ](../Page/ドラゴンクエストシリーズ.md "wikilink")、[ファイナルファンタジーシリーズ](https://ja.wikipedia.org/wiki/ファイナルファンタジーシリーズ "wikilink")、[ポケットモンスター](https://ja.wikipedia.org/wiki/ポケットモンスター "wikilink")シリーズはコンピュータRPGのみならず、家庭用ゲームを代表するタイトルである。スマートフォン（スマホ）ゲーム市場においても同様で、[Google Playの売上ランキングには多数のコンピュータRPGがランクインしている](https://ja.wikipedia.org/wiki/Google_Play "wikilink")\[1\]。
+日本の[家庭用ゲーム](https://ja.wikipedia.org/wiki/家庭用ゲーム "wikilink")市場では人気の高いジャンルで、特に[ドラゴンクエストシリーズ](../Page/ドラゴンクエストシリーズ.md "wikilink")、[ファイナルファンタジーシリーズ](../Page/ファイナルファンタジーシリーズ.md "wikilink")、[ポケットモンスター](../Page/ポケットモンスター.md "wikilink")シリーズはコンピュータRPGのみならず、家庭用ゲームを代表するタイトルである。スマートフォン（スマホ）ゲーム市場においても同様で、[Google Playの売上ランキングには多数のコンピュータRPGがランクインしている](https://ja.wikipedia.org/wiki/Google_Play "wikilink")\[1\]。
 
 ## 特徴
 
-ゲームプレイの肝となる行為結果（戦闘など）を、ターンごとに攻撃をして、[能力値](https://ja.wikipedia.org/wiki/能力値 "wikilink")計算を主とした処理で判定するため、[アクションゲーム](https://ja.wikipedia.org/wiki/アクションゲーム "wikilink")や[シューティングゲーム](https://ja.wikipedia.org/wiki/シューティングゲーム "wikilink")に比べてプレイヤーの反射神経や操作技能に依存しないゲームバランスになっているのが特徴。
+ゲームプレイの肝となる行為結果（戦闘など）を、ターンごとに攻撃をして、[能力値](https://ja.wikipedia.org/wiki/能力値 "wikilink")計算を主とした処理で判定するため、[アクションゲーム](../Page/アクションゲーム.md "wikilink")や[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")に比べてプレイヤーの反射神経や操作技能に依存しないゲームバランスになっているのが特徴。
 
-多く見られるのは、プレイヤーが主人公とその仲間を操作し、障害として立ちふさがるモンスターとの[戦闘を繰り返しながら](https://ja.wikipedia.org/wiki/戦闘_\(コンピュータゲーム\) "wikilink")「[経験値](https://ja.wikipedia.org/wiki/経験値 "wikilink")」を蓄積してパワーアップし、徐々に行動範囲を広げていき最終的に目標を達成するというものである。特に日本市場ではユーザーの意思をゲームに反映させる手段にコマンド選択式インターフェイスを採用しているものが多い。
+多く見られるのは、プレイヤーが主人公とその仲間を操作し、障害として立ちふさがるモンスターとの[戦闘を繰り返しながら](../Page/戦闘_\(コンピュータゲーム\).md "wikilink")「[経験値](../Page/経験値.md "wikilink")」を蓄積してパワーアップし、徐々に行動範囲を広げていき最終的に目標を達成するというものである。特に日本市場ではユーザーの意思をゲームに反映させる手段にコマンド選択式インターフェイスを採用しているものが多い。
 
 ゲームメディアなどで「RPG的要素を持つ」と言われる場合は、大抵下記の要素がゲームプレイに含まれている。
 
   - 成長要素。努力の成果としてキャラクターの能力値が成長する楽しみがある。
-  - リソース管理要素。[アイテム](https://ja.wikipedia.org/wiki/アイテム "wikilink")選びや消費、能力の成長の仕方といったリソースを効率よく管理し、ゲームを有利に運ぶ楽しみがある。
+  - リソース管理要素。[アイテム](../Page/アイテム.md "wikilink")選びや消費、能力の成長の仕方といったリソースを効率よく管理し、ゲームを有利に運ぶ楽しみがある。
   - 物語演出要素。コンピュータならではのダイナミックな演出、RPGならではの感情移入しやすい物語を楽しめる。
   - 冒険探索要素。広い世界を探索し、旅をする楽しみがある。
 
@@ -28,20 +28,20 @@
 
 ## 歴史
 
-米国のテーブルトークRPGに触発されるかたちで、1970年代中盤に[メインフレーム](https://ja.wikipedia.org/wiki/メインフレーム "wikilink")上で動作する、『[ダンジョン](https://ja.wikipedia.org/wiki/ダンジョン_\(コンピュータゲーム\) "wikilink")』(1976年)や『[pedit5](https://ja.wikipedia.org/wiki/pedit5 "wikilink")』(1975年)『[dnd](https://ja.wikipedia.org/wiki/dnd_\(PLATO\) "wikilink")』(1975年)といった初期のコンピュータRPG群が登場した。これが後に『[ウルティマ](https://ja.wikipedia.org/wiki/ウルティマ "wikilink")』といった作品の原型となっていく。
+米国のテーブルトークRPGに触発されるかたちで、1970年代中盤に[メインフレーム](../Page/メインフレーム.md "wikilink")上で動作する、『[ダンジョン](https://ja.wikipedia.org/wiki/ダンジョン_\(コンピュータゲーム\) "wikilink")』(1976年)や『[pedit5](https://ja.wikipedia.org/wiki/pedit5 "wikilink")』(1975年)『[dnd](https://ja.wikipedia.org/wiki/dnd_\(PLATO\) "wikilink")』(1975年)といった初期のコンピュータRPG群が登場した。これが後に『[ウルティマ](../Page/ウルティマ.md "wikilink")』といった作品の原型となっていく。
 
-日本においては、1980年代初めに『[ウルティマ](https://ja.wikipedia.org/wiki/ウルティマ "wikilink")』（1981年）や『[ウィザードリィ](https://ja.wikipedia.org/wiki/ウィザードリィ "wikilink")』（1981年）など、[パソコン](https://ja.wikipedia.org/wiki/パソコン "wikilink")用の作品が米国からもたらされることでRPGの存在が知られるようになり、その後日本国内のメーカーにより様々な作品が作り出された。当初は詳細なストーリーを持たず、ゲーム内に隠されたヒントを自力で探し出すと言った作品が多かった（『[ザ・ブラックオニキス](https://ja.wikipedia.org/wiki/ザ・ブラックオニキス "wikilink")』（1984年）など）。この「隠されたヒントを自力で探し出す」点がコンピュータRPGの面白さと認識され発達し、コンピュータRPGは難しいほど面白いゲームとされていた（『[ザナドゥ](https://ja.wikipedia.org/wiki/ザナドゥ_\(ゲーム\) "wikilink")』（1985年）など）一方で、限られたプレイヤーにしかクリアできないハードルの高いゲームであった。この傾向は、『[イースI](https://ja.wikipedia.org/wiki/イースI "wikilink")』（1987年）･『[イースII](https://ja.wikipedia.org/wiki/イースII "wikilink")』（1988年）の発売を機に一転し、1990年代に入ると、ドラゴンクエストシリーズとファイナルファンタジーシリーズなどのソフトを筆頭とするRPGブームが訪れ、また1989年6月30日に発売された、[CD-ROM](https://ja.wikipedia.org/wiki/CD-ROM "wikilink")を媒体とする世界初のRPG『[天外魔境 ZIRIA](https://ja.wikipedia.org/wiki/天外魔境_ZIRIA "wikilink")』が、CD-ROMの大容量を活かした演出・音楽・音声等を実現し、ストーリー重視の作品が主流となった。
+日本においては、1980年代初めに『[ウルティマ](../Page/ウルティマ.md "wikilink")』（1981年）や『[ウィザードリィ](../Page/ウィザードリィ.md "wikilink")』（1981年）など、[パソコン](https://ja.wikipedia.org/wiki/パソコン "wikilink")用の作品が米国からもたらされることでRPGの存在が知られるようになり、その後日本国内のメーカーにより様々な作品が作り出された。当初は詳細なストーリーを持たず、ゲーム内に隠されたヒントを自力で探し出すと言った作品が多かった（『[ザ・ブラックオニキス](../Page/ザ・ブラックオニキス.md "wikilink")』（1984年）など）。この「隠されたヒントを自力で探し出す」点がコンピュータRPGの面白さと認識され発達し、コンピュータRPGは難しいほど面白いゲームとされていた（『[ザナドゥ](../Page/ザナドゥ_\(ゲーム\).md "wikilink")』（1985年）など）一方で、限られたプレイヤーにしかクリアできないハードルの高いゲームであった。この傾向は、『[イースI](https://ja.wikipedia.org/wiki/イースI "wikilink")』（1987年）･『[イースII](../Page/イースII.md "wikilink")』（1988年）の発売を機に一転し、1990年代に入ると、ドラゴンクエストシリーズとファイナルファンタジーシリーズなどのソフトを筆頭とするRPGブームが訪れ、また1989年6月30日に発売された、[CD-ROM](../Page/CD-ROM.md "wikilink")を媒体とする世界初のRPG『[天外魔境 ZIRIA](../Page/天外魔境_ZIRIA.md "wikilink")』が、CD-ROMの大容量を活かした演出・音楽・音声等を実現し、ストーリー重視の作品が主流となった。
 
 ## レトロRPG
 
-近年では[ファミコン世代もしくは](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")、それ以前のコンピュータRPGを再評価しようとする傾向が見られる。中には、出荷本数が少なかったためにプレミアの付いているソフトも存在しており、中古品が[オークション](https://ja.wikipedia.org/wiki/オークション "wikilink")やオンラインショップで高額で取引されることもある。また、有名な作品であればゲームメーカー各社が行っている旧作のダウンロード配信サービス（[バーチャルコンソール](https://ja.wikipedia.org/wiki/バーチャルコンソール "wikilink")、[PlayStation Storeなど](https://ja.wikipedia.org/wiki/PlayStation_Store "wikilink")）や、携帯ゲーム機などへの移植が行われている。
+近年では[ファミコン世代もしくは](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")、それ以前のコンピュータRPGを再評価しようとする傾向が見られる。中には、出荷本数が少なかったためにプレミアの付いているソフトも存在しており、中古品が[オークション](https://ja.wikipedia.org/wiki/オークション "wikilink")やオンラインショップで高額で取引されることもある。また、有名な作品であればゲームメーカー各社が行っている旧作のダウンロード配信サービス（[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")、[PlayStation Storeなど](../Page/PlayStation_Store.md "wikilink")）や、携帯ゲーム機などへの移植が行われている。
 
-[ローグライクゲーム](https://ja.wikipedia.org/wiki/ローグライクゲーム "wikilink")と呼ばれるダンジョン自動生成型の「終わり無きRPG」に対する根強い人気も見られる。この種のゲームはグラフィックによる表示が難しかった時代の産物であるため、伝統にしたがって文字だけを使った画面表示、またはそれに類するシンプルな画面表示しか用いないのが通例である。なお、ローグライクゲームは[フリーウェア](https://ja.wikipedia.org/wiki/フリーウェア "wikilink")として提供されているものも多い。
+[ローグライクゲーム](../Page/ローグライクゲーム.md "wikilink")と呼ばれるダンジョン自動生成型の「終わり無きRPG」に対する根強い人気も見られる。この種のゲームはグラフィックによる表示が難しかった時代の産物であるため、伝統にしたがって文字だけを使った画面表示、またはそれに類するシンプルな画面表示しか用いないのが通例である。なお、ローグライクゲームは[フリーウェア](../Page/フリーウェア.md "wikilink")として提供されているものも多い。
 
 ## その他
 
   - 日本で独自に進化したRPG
-    欧米においては、独自の進化を遂げた日本製RPGを「クラシックスタイルRPG（classic style RPG）」や「JRPG（Japanese RPG）」と表現するようになっている\[2\]。PC市場をメインとし続けた欧米では、[リアルタイム制や](https://ja.wikipedia.org/wiki/リアルタイムストラテジー "wikilink")、シームレスや、[オープンワールド](https://ja.wikipedia.org/wiki/オープンワールド "wikilink")を組み込んだRPGのスタイルが確立されている。そのため、[ターン制や](https://ja.wikipedia.org/wiki/ターン制ストラテジー "wikilink")、コマンド[戦闘や](https://ja.wikipedia.org/wiki/戦闘_\(コンピュータゲーム\) "wikilink")、[エンカウント](https://ja.wikipedia.org/wiki/エンカウント "wikilink")方式にとどまるなどスタイルの古い日本製のものは区別されていると考えている\[3\]。ただし、売り上げにおいては[ポケットモンスターシリーズが全世界で](https://ja.wikipedia.org/wiki/ポケットモンスター_\(ゲーム\) "wikilink")1億9300万本\[4\] 、[ファイナルファンタジーシリーズ](https://ja.wikipedia.org/wiki/ファイナルファンタジーシリーズ "wikilink")は全世界で9700万本という実績があり\[5\]、『[ドラゴンクエストVIII](https://ja.wikipedia.org/wiki/ドラゴンクエストVIII_空と海と大地と呪われし姫君 "wikilink")』はアメリカ大手ゲームサイト[GameSpot](https://ja.wikipedia.org/wiki/GameSpot "wikilink")にて2005年度最優秀RPGを受賞、2010年E3アワード全機種RPG部門にて『[イース7](https://ja.wikipedia.org/wiki/イース7 "wikilink")』がベストRPG賞を受賞し『[RPGFan Feature-E3 2010 Awards](https://ja.wikipedia.org/wiki/RPGFan "wikilink")』を獲得するなど海外でも日本製RPGは一定の評価を受けている。
+    欧米においては、独自の進化を遂げた日本製RPGを「クラシックスタイルRPG（classic style RPG）」や「JRPG（Japanese RPG）」と表現するようになっている\[2\]。PC市場をメインとし続けた欧米では、[リアルタイム制や](../Page/リアルタイムストラテジー.md "wikilink")、シームレスや、[オープンワールド](../Page/オープンワールド.md "wikilink")を組み込んだRPGのスタイルが確立されている。そのため、[ターン制や](https://ja.wikipedia.org/wiki/ターン制ストラテジー "wikilink")、コマンド[戦闘や](../Page/戦闘_\(コンピュータゲーム\).md "wikilink")、[エンカウント](../Page/エンカウント.md "wikilink")方式にとどまるなどスタイルの古い日本製のものは区別されていると考えている\[3\]。ただし、売り上げにおいては[ポケットモンスターシリーズが全世界で](../Page/ポケットモンスター_\(ゲーム\).md "wikilink")1億9300万本\[4\] 、[ファイナルファンタジーシリーズ](../Page/ファイナルファンタジーシリーズ.md "wikilink")は全世界で9700万本という実績があり\[5\]、『[ドラゴンクエストVIII](https://ja.wikipedia.org/wiki/ドラゴンクエストVIII_空と海と大地と呪われし姫君 "wikilink")』はアメリカ大手ゲームサイト[GameSpot](https://ja.wikipedia.org/wiki/GameSpot "wikilink")にて2005年度最優秀RPGを受賞、2010年E3アワード全機種RPG部門にて『[イース7](https://ja.wikipedia.org/wiki/イース7 "wikilink")』がベストRPG賞を受賞し『[RPGFan Feature-E3 2010 Awards](https://ja.wikipedia.org/wiki/RPGFan "wikilink")』を獲得するなど海外でも日本製RPGは一定の評価を受けている。
 
 <!-- end list -->
 
@@ -62,13 +62,13 @@
 ## 関連項目
 
   - [3DダンジョンRPG](https://ja.wikipedia.org/wiki/3DダンジョンRPG "wikilink")
-  - [シミュレーションロールプレイングゲーム](https://ja.wikipedia.org/wiki/シミュレーションロールプレイングゲーム "wikilink")
-  - [アクションロールプレイングゲーム](https://ja.wikipedia.org/wiki/アクションロールプレイングゲーム "wikilink")
-  - [レトロゲーム](https://ja.wikipedia.org/wiki/レトロゲーム "wikilink")
-  - [エンカウント](https://ja.wikipedia.org/wiki/エンカウント "wikilink")
-  - [ヒットポイント](https://ja.wikipedia.org/wiki/ヒットポイント "wikilink")
-  - [マジックポイント](https://ja.wikipedia.org/wiki/マジックポイント "wikilink")
-  - [戦闘](https://ja.wikipedia.org/wiki/戦闘_\(コンピュータゲーム\) "wikilink")
+  - [シミュレーションロールプレイングゲーム](../Page/シミュレーションロールプレイングゲーム.md "wikilink")
+  - [アクションロールプレイングゲーム](../Page/アクションロールプレイングゲーム.md "wikilink")
+  - [レトロゲーム](../Page/レトロゲーム.md "wikilink")
+  - [エンカウント](../Page/エンカウント.md "wikilink")
+  - [ヒットポイント](../Page/ヒットポイント.md "wikilink")
+  - [マジックポイント](../Page/マジックポイント.md "wikilink")
+  - [戦闘](../Page/戦闘_\(コンピュータゲーム\).md "wikilink")
 
 [Category:コンピュータRPG](https://ja.wikipedia.org/wiki/Category:コンピュータRPG "wikilink")
 
@@ -77,6 +77,6 @@
 3.  [FF13がPS3独占を捨てたやむを得ぬ事情・E3を読む（上）](http://it.nikkei.co.jp/digital/news/index.aspx?n=MMITew000018072008&cp=2)　「[IT+PLUS](https://ja.wikipedia.org/wiki/IT+PLUS "wikilink")」 2008年7月18日
 4.
 5.
-6.  「第7章 家庭用ゲームのプレイ状況」『2014 CESAゲーム白書』、[CESA](https://ja.wikipedia.org/wiki/コンピュータエンターテインメント協会 "wikilink")、2014年、110頁。
+6.  「第7章 家庭用ゲームのプレイ状況」『2014 CESAゲーム白書』、[CESA](../Page/コンピュータエンターテインメント協会.md "wikilink")、2014年、110頁。
 7.  [Game\*Sparkリサーチ『あなたが苦手なゲームジャンルとその理由は？』結果発表｜Game\*Spark - 国内・海外ゲーム情報サイト](http://www.gamespark.jp/article/2009/05/16/18782.html). Game\*Spark (2009年5月16日). 2015年1月23日閲覧。
 8.

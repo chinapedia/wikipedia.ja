@@ -1,13 +1,13 @@
 > この記事は[Intel 8080](https://ja.wikipedia.org/wiki/Intel_8080)から翻訳されています。
 
 
-**Intel 8080**（インテル 8080、i8080）は、[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")によって開発された[8ビット](https://ja.wikipedia.org/wiki/8ビット "wikilink")[マイクロプロセッサ](https://ja.wikipedia.org/wiki/マイクロプロセッサ "wikilink")であり、[1974年](../Page/1974年.md "wikilink")4月に発表された。同社の[8008の後継に当たるが命令の互換性はない](https://ja.wikipedia.org/wiki/Intel_8008 "wikilink")。8080の命令は、後に拡張され、[ザイログ](../Page/ザイログ.md "wikilink")の[Z80](../Page/Z80.md "wikilink")や[日立製作所](https://ja.wikipedia.org/wiki/日立製作所 "wikilink")の[64180に継承された](https://ja.wikipedia.org/wiki/HD64180 "wikilink")。初期の[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")の多くに採用され、[モトローラ](../Page/モトローラ.md "wikilink")の[6800や](https://ja.wikipedia.org/wiki/MC6800 "wikilink")[モステクノロジー](https://ja.wikipedia.org/wiki/モステクノロジー "wikilink")の[6502](../Page/MOS_6502.md "wikilink")（[アップル](https://ja.wikipedia.org/wiki/アップル_\(企業\) "wikilink")、[コモドール](https://ja.wikipedia.org/wiki/コモドール "wikilink")、[ファミコン](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")、他）と覇を競った。
+**Intel 8080**（インテル 8080、i8080）は、[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")によって開発された[8ビット](../Page/8ビット.md "wikilink")[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")であり、[1974年](../Page/1974年.md "wikilink")4月に発表された。同社の[8008の後継に当たるが命令の互換性はない](../Page/Intel_8008.md "wikilink")。8080の命令は、後に拡張され、[ザイログ](../Page/ザイログ.md "wikilink")の[Z80](../Page/Z80.md "wikilink")や[日立製作所](../Page/日立製作所.md "wikilink")の[64180に継承された](../Page/HD64180.md "wikilink")。初期の[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")の多くに採用され、[モトローラ](../Page/モトローラ.md "wikilink")の[6800や](../Page/MC6800.md "wikilink")[モステクノロジー](../Page/モステクノロジー.md "wikilink")の[6502](../Page/MOS_6502.md "wikilink")（[アップル](../Page/アップル_\(企業\).md "wikilink")、[コモドール](../Page/コモドール.md "wikilink")、[ファミコン](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")、他）と覇を競った。
 
-i8080のロジック設計の中心となったのは[ビジコン](https://ja.wikipedia.org/wiki/ビジコン "wikilink")退社後、[リコー](https://ja.wikipedia.org/wiki/リコー "wikilink")を経てインテルに入社した[嶋正利](https://ja.wikipedia.org/wiki/嶋正利 "wikilink")だった。開発者の特権として彼は[フォトマスク](https://ja.wikipedia.org/wiki/フォトマスク "wikilink")余白に嶋家の家紋である[引両紋](https://ja.wikipedia.org/wiki/引両紋 "wikilink")（丸に三つ引）を刻んだ。
+i8080のロジック設計の中心となったのは[ビジコン](../Page/ビジコン.md "wikilink")退社後、[リコー](../Page/リコー.md "wikilink")を経てインテルに入社した[嶋正利](../Page/嶋正利.md "wikilink")だった。開発者の特権として彼は[フォトマスク](../Page/フォトマスク.md "wikilink")余白に嶋家の家紋である[引両紋](https://ja.wikipedia.org/wiki/引両紋 "wikilink")（丸に三つ引）を刻んだ。
 
 ## レジスタセット
 
-8080は、[アキュムレータ](https://ja.wikipedia.org/wiki/アキュムレータ_\(コンピュータ\) "wikilink")1つを含む、7つの[汎用レジスタ](https://ja.wikipedia.org/wiki/レジスタ_\(コンピュータ\) "wikilink")（8ビット）を持つ。これはたとえば6800と比べて本数としては多い。また、二つの8ビットレジスタを併せて、BC、DE、HLの3つの16ビットレジスタとして扱う命令もある。
+8080は、[アキュムレータ](../Page/アキュムレータ_\(コンピュータ\).md "wikilink")1つを含む、7つの[汎用レジスタ](../Page/レジスタ_\(コンピュータ\).md "wikilink")（8ビット）を持つ。これはたとえば6800と比べて本数としては多い。また、二つの8ビットレジスタを併せて、BC、DE、HLの3つの16ビットレジスタとして扱う命令もある。
 
 | 16ビット単位の呼称 | 8ビット単位（上位） | 8ビット単位（下位） | 説明                  |
 | ---------- | ---------- | ---------- | ------------------- |
@@ -35,8 +35,8 @@ i8080のロジック設計の中心となったのは[ビジコン](https://ja.w
 
 ## 命令セット
 
-  - 命令は[バイト単位で](https://ja.wikipedia.org/wiki/バイト_\(情報\) "wikilink")、1から3バイトの可変長である。
-  - 主な命令は、8ビットレジスタ間のロード、8ビットおよび16ビットレジスタペアに対する即値ロード命令、Aレジスタを用いた加減算と[ビット論理演算](https://ja.wikipedia.org/wiki/ビット演算 "wikilink")・比較演算（HLレジスタペアをポインタとして扱うメモリ参照を含む）、絶対番地指定による条件および無条件[ジャンプ](https://ja.wikipedia.org/wiki/分岐命令 "wikilink")・コール命令・リターン命令、[スタック](../Page/スタック.md "wikilink")へのPUSH/POP操作、[割り込み許可](https://ja.wikipedia.org/wiki/割り込み_\(コンピュータ\) "wikilink")・禁止命令、8レベルの割り込みをエミュレートするソフトウェア割り込み命令などがある。
+  - 命令は[バイト単位で](../Page/バイト_\(情報\).md "wikilink")、1から3バイトの可変長である。
+  - 主な命令は、8ビットレジスタ間のロード、8ビットおよび16ビットレジスタペアに対する即値ロード命令、Aレジスタを用いた加減算と[ビット論理演算](../Page/ビット演算.md "wikilink")・比較演算（HLレジスタペアをポインタとして扱うメモリ参照を含む）、絶対番地指定による条件および無条件[ジャンプ](../Page/分岐命令.md "wikilink")・コール命令・リターン命令、[スタック](../Page/スタック.md "wikilink")へのPUSH/POP操作、[割り込み許可](../Page/割り込み_\(コンピュータ\).md "wikilink")・禁止命令、8レベルの割り込みをエミュレートするソフトウェア割り込み命令などがある。
   - 相対ジャンプ及び相対コール命令がないため命令を動的に再配置することは原則としてできなかった。
   - リセット直後は（プログラム・カウンタが）0番地からアドレスが増加する方向に実行される。また、スタックポインタはアドレスが減少する方向に（プッシュにより）自動的に減算されるため、スタックはメモリ下位（数字の大きい方が上）番地に向かって伸びる。
 
@@ -237,7 +237,7 @@ i8080のロジック設計の中心となったのは[ビジコン](https://ja.w
 
 ### CPU制御命令
 
-  - [NOP](https://ja.wikipedia.org/wiki/NOP "wikilink")
+  - [NOP](../Page/NOP.md "wikilink")
     何もしない。
   - HLT / HALT
     CPUを停止し、割り込みを待つ。
@@ -248,13 +248,13 @@ i8080のロジック設計の中心となったのは[ビジコン](https://ja.w
 
 ## Intel 8080A
 
-**8080**は[グラウンドが十分に取られていないという物理設計上のミスにより](https://ja.wikipedia.org/wiki/接地 "wikilink")、大電流が流れる[TTLデバイスと使用するには問題があったため](https://ja.wikipedia.org/wiki/Transistor-transistor_logic "wikilink")、TTL-LS用として発売された。後にグラウンド線の幅を太くして標準TTLに対応させたものが**8080A**として発売された。
+**8080**は[グラウンドが十分に取られていないという物理設計上のミスにより](../Page/接地.md "wikilink")、大電流が流れる[TTLデバイスと使用するには問題があったため](../Page/Transistor-transistor_logic.md "wikilink")、TTL-LS用として発売された。後にグラウンド線の幅を太くして標準TTLに対応させたものが**8080A**として発売された。
 
 これには逸話がある。8080の開発者の一人であった嶋正利は、8080のレイアウトを完成させた後、休暇を取って一時的に日本へ帰国。嶋は休暇明けに8080の特性評価を行う予定だった。しかし、嶋がインテルに戻った頃には既に営業部の判断で8080が4万個製造されていた。そのため、8080はTTL-LS用としてしばらくの間販売されるに至った\[1\]。
 
 ## セカンドソース
 
-[NEC製の](../Page/日本電気.md "wikilink")[セカンドソース](https://ja.wikipedia.org/wiki/セカンドソース "wikilink")品 (μPD8080A) は減算時における10進補正フラグの扱いがオリジナルとは違っており、ここを全く同じにしたもの (μPD8080AF) が追加販売されている。[TK-80](https://ja.wikipedia.org/wiki/TK-80 "wikilink")には前者が、TK-80Eには後者が採用された。
+[NEC製の](../Page/日本電気.md "wikilink")[セカンドソース](../Page/セカンドソース.md "wikilink")品 (μPD8080A) は減算時における10進補正フラグの扱いがオリジナルとは違っており、ここを全く同じにしたもの (μPD8080AF) が追加販売されている。[TK-80](../Page/TK-80.md "wikilink")には前者が、TK-80Eには後者が採用された。
 
 ## 亜種
 
@@ -263,7 +263,7 @@ i8080のロジック設計の中心となったのは[ビジコン](https://ja.w
 ## ソフトウェア
 
   - OS
-      - [デジタルリサーチ](https://ja.wikipedia.org/wiki/デジタルリサーチ "wikilink")の[CP/M](https://ja.wikipedia.org/wiki/CP/M "wikilink") (CP/M-80) が有名
+      - [デジタルリサーチ](../Page/デジタルリサーチ.md "wikilink")の[CP/M](https://ja.wikipedia.org/wiki/CP/M "wikilink") (CP/M-80) が有名
 
 ## 脚注
 
@@ -271,10 +271,10 @@ i8080のロジック設計の中心となったのは[ビジコン](https://ja.w
 
 ## 関連項目
 
-  - [i8085](https://ja.wikipedia.org/wiki/Intel_8085 "wikilink")
-  - [i8086](https://ja.wikipedia.org/wiki/Intel_8086 "wikilink")
-  - [IA-32](https://ja.wikipedia.org/wiki/IA-32 "wikilink")
-  - [Altair 8800](https://ja.wikipedia.org/wiki/Altair_8800 "wikilink")
+  - [i8085](../Page/Intel_8085.md "wikilink")
+  - [i8086](../Page/Intel_8086.md "wikilink")
+  - [IA-32](../Page/IA-32.md "wikilink")
+  - [Altair 8800](../Page/Altair_8800.md "wikilink")
 
 [Category:インテルのマイクロプロセッサ](https://ja.wikipedia.org/wiki/Category:インテルのマイクロプロセッサ "wikilink")
 

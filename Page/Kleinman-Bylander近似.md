@@ -11,9 +11,9 @@
 
 \[V_{\text{non-local}}^{l, \text{KB}} (r) = \frac{ |V_{\text{non-local}}^l | \phi_l^{\text{PS}} \rangle \langle \phi_l^{\text{PS}} | V_{\text{non-local}}^l | }{\langle \phi_l^{\text{PS}} | V_{\text{non-local}}^l | \phi_l^{\text{PS}} \rangle }\]
 
-*φ<sub>l</sub>*<sup>PS</sup>は擬波動関数と言い、擬ポテンシャルを解くことによって得られる（擬似的な）[波動関数](../Page/波動関数.md "wikilink")である。上記の分離された形を使うことによって、[逆格子空間](https://ja.wikipedia.org/wiki/逆格子空間 "wikilink")で考えた非局所部分の和は、[逆格子ベクトル](https://ja.wikipedia.org/wiki/逆格子ベクトル "wikilink")*G*の数（平面波基底の数に相当）について***G***と***G**'*の二重の和が必要であったものが、***G***のみの一重の和のみでよくなる。
+*φ<sub>l</sub>*<sup>PS</sup>は擬波動関数と言い、擬ポテンシャルを解くことによって得られる（擬似的な）[波動関数](../Page/波動関数.md "wikilink")である。上記の分離された形を使うことによって、[逆格子空間](https://ja.wikipedia.org/wiki/逆格子空間 "wikilink")で考えた非局所部分の和は、[逆格子ベクトル](../Page/逆格子ベクトル.md "wikilink")*G*の数（平面波基底の数に相当）について***G***と***G**'*の二重の和が必要であったものが、***G***のみの一重の和のみでよくなる。
 
-この近似を用いた場合の問題点は、[バンド計算](../Page/バンド計算.md "wikilink")において[ゴーストバンド](https://ja.wikipedia.org/wiki/ゴーストバンド "wikilink")が生じる危険があることである。[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")現在、これを完全かつ確実に排除する確たる指導原理はない。
+この近似を用いた場合の問題点は、[バンド計算](../Page/バンド計算.md "wikilink")において[ゴーストバンド](https://ja.wikipedia.org/wiki/ゴーストバンド "wikilink")が生じる危険があることである。[2004年](../Page/2004年.md "wikilink")現在、これを完全かつ確実に排除する確たる指導原理はない。
 
 ## 参考文献
 

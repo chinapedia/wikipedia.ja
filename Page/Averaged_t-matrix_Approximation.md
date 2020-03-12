@@ -1,7 +1,7 @@
 > この記事は[Averaged t-matrix Approximation](https://ja.wikipedia.org/wiki/Averaged_t-matrix_Approximation)から翻訳されています。
 
 
-**ATA**(Averaged t-matrix Approximation)は、ポテンシャルの配置が[ランダム](https://ja.wikipedia.org/wiki/ランダム "wikilink")な系における[電子](https://ja.wikipedia.org/wiki/電子 "wikilink")の[散乱](https://ja.wikipedia.org/wiki/散乱 "wikilink")を記述するt行列の扱い（平均化）に対する近似の一つ。この近似を利用することによってランダムな系での電子状態の計算が可能となる。ATAは[CPAの前段階の近似であり](https://ja.wikipedia.org/wiki/コヒーレントポテンシャル近似 "wikilink")、[自己無撞着](https://ja.wikipedia.org/wiki/自己無撞着 "wikilink")（＝セルフコンシステント）な計算が行われていない。従ってその分、計算は高速だが精度は劣る。ATA、CPAが比較的扱い易いのは、[合金](https://ja.wikipedia.org/wiki/合金 "wikilink")などでポテンシャルは周期的に並んでいるが、その各成分原子がランダムに配置しているような場合である。
+**ATA**(Averaged t-matrix Approximation)は、ポテンシャルの配置が[ランダム](../Page/ランダム.md "wikilink")な系における[電子](https://ja.wikipedia.org/wiki/電子 "wikilink")の[散乱](https://ja.wikipedia.org/wiki/散乱 "wikilink")を記述するt行列の扱い（平均化）に対する近似の一つ。この近似を利用することによってランダムな系での電子状態の計算が可能となる。ATAは[CPAの前段階の近似であり](https://ja.wikipedia.org/wiki/コヒーレントポテンシャル近似 "wikilink")、[自己無撞着](https://ja.wikipedia.org/wiki/自己無撞着 "wikilink")（＝セルフコンシステント）な計算が行われていない。従ってその分、計算は高速だが精度は劣る。ATA、CPAが比較的扱い易いのは、[合金](../Page/合金.md "wikilink")などでポテンシャルは周期的に並んでいるが、その各成分原子がランダムに配置しているような場合である。
 
 ## 原理
 
@@ -9,11 +9,11 @@
 
 \[\tau_l^{AT} = x \tau_l^A + y \tau_l^B = \left\langle \tau_l \right\rangle\] とする（lは[軌道角運動量](https://ja.wikipedia.org/wiki/軌道角運動量 "wikilink")とし、これ以降は省略）。\(\, \langle \rangle\)は濃度平均を意味している。つまり、合金の成分濃度による平均を行ったt行列（τ<sup>AT</sup>）を用いるのが“平均されたt行列による近似”(=ATA)である。
 
-以上から、[単サイト近似](https://ja.wikipedia.org/wiki/単サイト近似 "wikilink")での\(T_{\mathbf{q}}^{eff}\)は、
+以上から、[単サイト近似](../Page/単サイト近似.md "wikilink")での\(T_{\mathbf{q}}^{eff}\)は、
 
 \[T_{\mathbf{q}}^{eff} \to T_{\mathbf{q}}^{AT} = \left[{\left\langle \tau \right\rangle}^{-1} - B_{\mathbf{q}} \right]^{-1}\] となり、\<T<sub>00</sub>\>は、
 
-\[{\left\langle T_{00} \right\rangle}_{0 = A(B)} = \tau_{A(B)} {\left\langle \tau \right\rangle}^{-1} \left\langle T_{00} \right\rangle = {\tau_{A(B)} \over {N {\left\langle \tau \right\rangle} } } \sum_{\mathbf{q}} T_{\mathbf{q}}^{AT}\] となる。これは、[多重散乱理論](https://ja.wikipedia.org/wiki/多重散乱理論 "wikilink")の記事内でT<sub>n</sub>の式が、
+\[{\left\langle T_{00} \right\rangle}_{0 = A(B)} = \tau_{A(B)} {\left\langle \tau \right\rangle}^{-1} \left\langle T_{00} \right\rangle = {\tau_{A(B)} \over {N {\left\langle \tau \right\rangle} } } \sum_{\mathbf{q}} T_{\mathbf{q}}^{AT}\] となる。これは、[多重散乱理論](../Page/多重散乱理論.md "wikilink")の記事内でT<sub>n</sub>の式が、
 
 \[T_n = t_n \left[1 + \tilde{G} \sum_{n \ne m} T_m\right]\] と表されるので、
 
@@ -29,7 +29,7 @@
 
 ## 関連項目
 
-  - [散乱理論](https://ja.wikipedia.org/wiki/散乱理論 "wikilink")
+  - [散乱理論](../Page/散乱理論.md "wikilink")
   - [仮想結晶近似](https://ja.wikipedia.org/wiki/仮想結晶近似 "wikilink")
   - [バンド計算](../Page/バンド計算.md "wikilink")
 

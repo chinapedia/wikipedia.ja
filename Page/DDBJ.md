@@ -1,13 +1,13 @@
 > この記事は[DDBJ](https://ja.wikipedia.org/wiki/DDBJ)から翻訳されています。
 
 
-**DDBJ**（日本DNAデータバンク、DNA Data Bank of Japan）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[国立遺伝学研究所](https://ja.wikipedia.org/wiki/国立遺伝学研究所 "wikilink")（[静岡県](../Page/静岡県.md "wikilink")[三島市](https://ja.wikipedia.org/wiki/三島市 "wikilink")）が作成している[DNAの](https://ja.wikipedia.org/wiki/デオキシリボ核酸 "wikilink")[塩基配列](https://ja.wikipedia.org/wiki/塩基配列 "wikilink")の[配列データベース](https://ja.wikipedia.org/wiki/配列データベース "wikilink")である。
+**DDBJ**（日本DNAデータバンク、DNA Data Bank of Japan）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[国立遺伝学研究所](../Page/国立遺伝学研究所.md "wikilink")（[静岡県](../Page/静岡県.md "wikilink")[三島市](../Page/三島市.md "wikilink")）が作成している[DNAの](../Page/デオキシリボ核酸.md "wikilink")[塩基配列](../Page/塩基配列.md "wikilink")の[配列データベース](../Page/配列データベース.md "wikilink")である。
 
 ## 概要
 
-DDBJは[International Nucleotide Sequence Database Collaboration (INSDC)](http://www.insdc.org/)のメンバである。アメリカ合衆国の[NCBI](https://ja.wikipedia.org/wiki/NCBI "wikilink")が提供する[GenBank](https://ja.wikipedia.org/wiki/GenBank "wikilink")、および、ヨーロッパの[EBIが提供する](https://ja.wikipedia.org/wiki/欧州バイオインフォマティクス研究所 "wikilink")[EMBL](https://ja.wikipedia.org/wiki/EMBL "wikilink")との密接な連携のもと、「DDBJ/EMBL/GenBank 国際塩基配列データベース」を構築している三大国際 [DNAデータバンクのひとつである](https://ja.wikipedia.org/wiki/デオキシリボ核酸 "wikilink")。
+DDBJは[International Nucleotide Sequence Database Collaboration (INSDC)](http://www.insdc.org/)のメンバである。アメリカ合衆国の[NCBI](https://ja.wikipedia.org/wiki/NCBI "wikilink")が提供する[GenBank](../Page/GenBank.md "wikilink")、および、ヨーロッパの[EBIが提供する](https://ja.wikipedia.org/wiki/欧州バイオインフォマティクス研究所 "wikilink")[EMBL](https://ja.wikipedia.org/wiki/EMBL "wikilink")との密接な連携のもと、「DDBJ/EMBL/GenBank 国際塩基配列データベース」を構築している三大国際 [DNAデータバンクのひとつである](../Page/デオキシリボ核酸.md "wikilink")。
 
-データはすべて無料で公開されており、データベースの検索は、テキスト全文検索や生物名や各項目に対象を分けてできる検索などのkey wordによる検索の他、[BLAST](https://ja.wikipedia.org/wiki/BLAST "wikilink")による[DNA配列や](https://ja.wikipedia.org/wiki/塩基配列 "wikilink")[アミノ酸](https://ja.wikipedia.org/wiki/アミノ酸 "wikilink")配列に対する[相同](https://ja.wikipedia.org/wiki/相同 "wikilink")性検索が可能である。また、[Clustal](https://ja.wikipedia.org/wiki/Clustal "wikilink")Wによる[系統樹](https://ja.wikipedia.org/wiki/系統樹 "wikilink")の計算と作成ができるサービスも行っている。 近年は、同じ情報・システム整備のライフサイエンス統合データベースセンター(DBCLS)と連携してサービスを提供している。
+データはすべて無料で公開されており、データベースの検索は、テキスト全文検索や生物名や各項目に対象を分けてできる検索などのkey wordによる検索の他、[BLAST](../Page/BLAST.md "wikilink")による[DNA配列や](../Page/塩基配列.md "wikilink")[アミノ酸](https://ja.wikipedia.org/wiki/アミノ酸 "wikilink")配列に対する[相同](../Page/相同.md "wikilink")性検索が可能である。また、[Clustal](../Page/Clustal.md "wikilink")Wによる[系統樹](https://ja.wikipedia.org/wiki/系統樹 "wikilink")の計算と作成ができるサービスも行っている。 近年は、同じ情報・システム整備のライフサイエンス統合データベースセンター(DBCLS)と連携してサービスを提供している。
 
 ## 構成員
 

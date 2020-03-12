@@ -1,31 +1,31 @@
 > この記事は[LimeWire](https://ja.wikipedia.org/wiki/LimeWire)から翻訳されています。
 
 
-**LimeWire** （ライムワイア、ライムワイヤ）は、かつて[GNU General Public License下で公開されていた](https://ja.wikipedia.org/wiki/GNU_General_Public_License "wikilink")[フリーソフトウェア](https://ja.wikipedia.org/wiki/フリーソフトウェア "wikilink")及び[オープンソース](https://ja.wikipedia.org/wiki/オープンソース "wikilink")の[Gnutella](https://ja.wikipedia.org/wiki/Gnutella "wikilink") [P2Pクライアント](../Page/Peer_to_Peer.md "wikilink")・ソフトウェアである。米連邦地方裁判所の命令を受けて2010年10月にソフトウェアの配布を停止。
+**LimeWire** （ライムワイア、ライムワイヤ）は、かつて[GNU General Public License下で公開されていた](../Page/GNU_General_Public_License.md "wikilink")[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")及び[オープンソース](../Page/オープンソース.md "wikilink")の[Gnutella](../Page/Gnutella.md "wikilink") [P2Pクライアント](../Page/Peer_to_Peer.md "wikilink")・ソフトウェアである。米連邦地方裁判所の命令を受けて2010年10月にソフトウェアの配布を停止。
 
 ## 概要
 
-LimeWireは[Gnutella](https://ja.wikipedia.org/wiki/Gnutella "wikilink") P2Pプロトコルを利用したファイル共有をユーザー同士で行うことができる。これは[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")12月に公開された。バージョン4.2の特徴として、[ファイアウォール](https://ja.wikipedia.org/wiki/ファイアウォール "wikilink")設置同士のファイル交換をサポートした最初の[ファイル共有ソフト](https://ja.wikipedia.org/wiki/ファイル共有ソフト "wikilink")である。開発元は[Lime Wire LLCである](https://ja.wikipedia.org/wiki/Lime_Wire_LLC "wikilink")。
+LimeWireは[Gnutella](../Page/Gnutella.md "wikilink") P2Pプロトコルを利用したファイル共有をユーザー同士で行うことができる。これは[2004年](../Page/2004年.md "wikilink")12月に公開された。バージョン4.2の特徴として、[ファイアウォール](../Page/ファイアウォール.md "wikilink")設置同士のファイル交換をサポートした最初の[ファイル共有ソフト](https://ja.wikipedia.org/wiki/ファイル共有ソフト "wikilink")である。開発元は[Lime Wire LLCである](https://ja.wikipedia.org/wiki/Lime_Wire_LLC "wikilink")。
 
-LimeWireは[Java](https://ja.wikipedia.org/wiki/Java "wikilink")で書かれているため、[Java仮想マシン](https://ja.wikipedia.org/wiki/Java仮想マシン "wikilink")がインストールされたコンピュータで利用できる。普通のユーザー向けにインストールを簡単にするため、デベロッパーは [Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Mac OS X](https://ja.wikipedia.org/wiki/macOS "wikilink")、及び [deb](https://ja.wikipedia.org/wiki/Debian "wikilink")/[RPM](https://ja.wikipedia.org/wiki/RPM_Package_Manager "wikilink") 形式で[Linux](https://ja.wikipedia.org/wiki/Linux "wikilink")向けにインストール・パッケージを公開していた。
+LimeWireは[Java](https://ja.wikipedia.org/wiki/Java "wikilink")で書かれているため、[Java仮想マシン](../Page/Java仮想マシン.md "wikilink")がインストールされたコンピュータで利用できる。普通のユーザー向けにインストールを簡単にするため、デベロッパーは [Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Mac OS X](https://ja.wikipedia.org/wiki/macOS "wikilink")、及び [deb](../Page/Debian.md "wikilink")/[RPM](../Page/RPM_Package_Manager.md "wikilink") 形式で[Linux](../Page/Linux.md "wikilink")向けにインストール・パッケージを公開していた。
 
-[ソースコード](https://ja.wikipedia.org/wiki/ソースコード "wikilink")を入手して使用する場合には Javaランタイムルーチンを別途用意する必要があった。
+[ソースコード](../Page/ソースコード.md "wikilink")を入手して使用する場合には Javaランタイムルーチンを別途用意する必要があった。
 
-オープンソースであったため、LimeWireは[ペンシルベニア州立大学](https://ja.wikipedia.org/wiki/ペンシルベニア州立大学 "wikilink")での実験的上のソフトウェア開発プロジェクト[LionShare](https://ja.wikipedia.org/wiki/LionShare "wikilink")、独特な[インタフェースと共に人気のある](https://ja.wikipedia.org/wiki/インタフェース_\(情報技術\) "wikilink")[アップル製](https://ja.wikipedia.org/wiki/アップル_\(企業\) "wikilink")[Macintosh](https://ja.wikipedia.org/wiki/Macintosh "wikilink")向けグヌーテラ・クライアント[Acquisition](https://ja.wikipedia.org/wiki/Acquisition "wikilink")、[Cabos](https://ja.wikipedia.org/wiki/Cabos "wikilink") 、[FrostWire](https://ja.wikipedia.org/wiki/FrostWire "wikilink")を含む、いくつかの派生型が作成された。
+オープンソースであったため、LimeWireは[ペンシルベニア州立大学](../Page/ペンシルベニア州立大学.md "wikilink")での実験的上のソフトウェア開発プロジェクト[LionShare](https://ja.wikipedia.org/wiki/LionShare "wikilink")、独特な[インタフェースと共に人気のある](../Page/インタフェース_\(情報技術\).md "wikilink")[アップル製](../Page/アップル_\(企業\).md "wikilink")[Macintosh](../Page/Macintosh.md "wikilink")向けグヌーテラ・クライアント[Acquisition](https://ja.wikipedia.org/wiki/Acquisition "wikilink")、[Cabos](../Page/Cabos.md "wikilink") 、[FrostWire](https://ja.wikipedia.org/wiki/FrostWire "wikilink")を含む、いくつかの派生型が作成された。
 
 ## 特徴
 
   - 初期ノード設定等が不要。
-  - ファイル共有色が強いため、多くの場合[インスタントメッセージ](https://ja.wikipedia.org/wiki/インスタントメッセージ "wikilink")等事前の予告を送らなくてもダウンロードできた。
-  - Javaで開発されているため、複数の[OSに対応していた](https://ja.wikipedia.org/wiki/オペレーティングシステム "wikilink")。
-  - [ベータ版](https://ja.wikipedia.org/wiki/ベータ版 "wikilink")の4.13.1からMojito[DHT](https://ja.wikipedia.org/wiki/DHT "wikilink")を実装していた。
-  - 4.13.9から[TLSにより接続を暗号化できるようになった](https://ja.wikipedia.org/wiki/Transport_Layer_Security "wikilink")。
+  - ファイル共有色が強いため、多くの場合[インスタントメッセージ](../Page/インスタントメッセージ.md "wikilink")等事前の予告を送らなくてもダウンロードできた。
+  - Javaで開発されているため、複数の[OSに対応していた](../Page/オペレーティングシステム.md "wikilink")。
+  - [ベータ版](../Page/ベータ版.md "wikilink")の4.13.1からMojito[DHT](https://ja.wikipedia.org/wiki/DHT "wikilink")を実装していた。
+  - 4.13.9から[TLSにより接続を暗号化できるようになった](../Page/Transport_Layer_Security.md "wikilink")。
 
 ## LimeWire PRO
 
 LimeWireの有償版としてLimeWire PROが販売されており、価格は21.95ドルであった。PRO版の特典期間を1年間延長するLimeWire PRO延長版も販売されており、価格は34.95ドルであった。
 
-PROではBASICよりファイルのダウンロードが高速で行えることと、より多くのソースにアクセス可能となることが特徴であった。PROにすると電子メールサポートも可能になった。また、BASICでは起動時にPROにアップグレードを勧めるメッセージが出てくるが、PROでは出なかった。LimeWire PRO 5.5より、オランダの[AVG Technologiesの](https://ja.wikipedia.org/wiki/AVG_Technologies "wikilink")[ウイルス](https://ja.wikipedia.org/wiki/ウイルス "wikilink")対策SDKエンジンが組み込まれた\[1\]。PROでダウンロードされた全ファイルは、ユーザーのPCで再生または実行される前にスキャンされ、ウイルスの感染拡大を防いでいた。
+PROではBASICよりファイルのダウンロードが高速で行えることと、より多くのソースにアクセス可能となることが特徴であった。PROにすると電子メールサポートも可能になった。また、BASICでは起動時にPROにアップグレードを勧めるメッセージが出てくるが、PROでは出なかった。LimeWire PRO 5.5より、オランダの[AVG Technologiesの](../Page/AVG_Technologies.md "wikilink")[ウイルス](../Page/ウイルス.md "wikilink")対策SDKエンジンが組み込まれた\[1\]。PROでダウンロードされた全ファイルは、ユーザーのPCで再生または実行される前にスキャンされ、ウイルスの感染拡大を防いでいた。
 
 ## 訴訟問題
 

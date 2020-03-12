@@ -5,13 +5,13 @@
 
 ## 概要
 
-もとはCamlという名前の、MLの方言の処理系実装、および言語であった。この名前はcategorical abstract machine languageの頭字語である。クラスや[継承など](https://ja.wikipedia.org/wiki/継承_\(プログラミング\) "wikilink")[クラスベース](https://ja.wikipedia.org/wiki/クラスベース "wikilink")[オブジェクト指向](../Page/オブジェクト指向.md "wikilink")の言語機能が追加され Objective Camlという名前になり、その後、略称だったOCamlを正式な名前とした。ウェブサイトの概要説明では「OCamlはCaml派生の言語の中で最も知られたものである」\[2\]としている。もとの処理系も配布され続けており、Caml Lightという名前になっている。英語ではCamlはcamel（ラクダ）と同様に発音されており、アイコン等にもラクダを使っている。
+もとはCamlという名前の、MLの方言の処理系実装、および言語であった。この名前はcategorical abstract machine languageの頭字語である。クラスや[継承など](../Page/継承_\(プログラミング\).md "wikilink")[クラスベース](../Page/クラスベース.md "wikilink")[オブジェクト指向](../Page/オブジェクト指向.md "wikilink")の言語機能が追加され Objective Camlという名前になり、その後、略称だったOCamlを正式な名前とした。ウェブサイトの概要説明では「OCamlはCaml派生の言語の中で最も知られたものである」\[2\]としている。もとの処理系も配布され続けており、Caml Lightという名前になっている。英語ではCamlはcamel（ラクダ）と同様に発音されており、アイコン等にもラクダを使っている。
 
-MLの特徴の他に、関数型とオブジェクト指向の両方を併せもつことが特徴的である。ただしそのため、オブジェクト指向を利用した破壊的操作を伴うプログラムがかなり容易に書けてしまう。また、多相バリアント型という特殊なバリアント型により（通常のバリアント型については[代数的データ型](https://ja.wikipedia.org/wiki/代数的データ型 "wikilink")を参照のこと）、サブセットとスーパーセットの関係になっているバリアント型などを記述できるなどといった特徴もある。
+MLの特徴の他に、関数型とオブジェクト指向の両方を併せもつことが特徴的である。ただしそのため、オブジェクト指向を利用した破壊的操作を伴うプログラムがかなり容易に書けてしまう。また、多相バリアント型という特殊なバリアント型により（通常のバリアント型については[代数的データ型](../Page/代数的データ型.md "wikilink")を参照のこと）、サブセットとスーパーセットの関係になっているバリアント型などを記述できるなどといった特徴もある。
 
-処理系としての特徴は、関数型言語としてはかなり高速に動作することが挙げられ、[gccでコンパイルされた](https://ja.wikipedia.org/wiki/GNUコンパイラコレクション "wikilink")[C言語](../Page/C言語.md "wikilink")と互角かやや遅い程度と言われる\[3\]。
+処理系としての特徴は、関数型言語としてはかなり高速に動作することが挙げられ、[gccでコンパイルされた](../Page/GNUコンパイラコレクション.md "wikilink")[C言語](../Page/C言語.md "wikilink")と互角かやや遅い程度と言われる\[3\]。
 
-関数型言語としては比較的アプリケーションの数が多く、例えば[MediaWiki](https://ja.wikipedia.org/wiki/MediaWiki "wikilink")において[TeX](../Page/TeX.md "wikilink")の記述から[HTML](https://ja.wikipedia.org/wiki/HyperText_Markup_Language "wikilink")、[MathML](https://ja.wikipedia.org/wiki/MathML "wikilink")および画像の数式を生成するプログラムもOCamlで記述されている\[4\]。
+関数型言語としては比較的アプリケーションの数が多く、例えば[MediaWiki](../Page/MediaWiki.md "wikilink")において[TeX](../Page/TeX.md "wikilink")の記述から[HTML](../Page/HyperText_Markup_Language.md "wikilink")、[MathML](https://ja.wikipedia.org/wiki/MathML "wikilink")および画像の数式を生成するプログラムもOCamlで記述されている\[4\]。
 
 ##
 
@@ -19,9 +19,9 @@ MLの特徴の他に、関数型とオブジェクト指向の両方を併せも
 
 ### MinCaml
 
-MinCamlは、[ペンシルベニア大学](https://ja.wikipedia.org/wiki/ペンシルベニア大学 "wikilink")（当時）の[住井英二郎](https://ja.wikipedia.org/wiki/住井英二郎 "wikilink")がOCamlで実装した、Caml似のMLの小型版である。同作者により、[コンパイラ](../Page/コンパイラ.md "wikilink")が OCaml 自身で書かれている。MinCaml は、[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")度の[未踏ソフトウェア創造事業に採択された](https://ja.wikipedia.org/wiki/情報処理推進機構 "wikilink")。
+MinCamlは、[ペンシルベニア大学](../Page/ペンシルベニア大学.md "wikilink")（当時）の[住井英二郎](https://ja.wikipedia.org/wiki/住井英二郎 "wikilink")がOCamlで実装した、Caml似のMLの小型版である。同作者により、[コンパイラ](../Page/コンパイラ.md "wikilink")が OCaml 自身で書かれている。MinCaml は、[2004年](../Page/2004年.md "wikilink")度の[未踏ソフトウェア創造事業に採択された](../Page/情報処理推進機構.md "wikilink")。
 
-MinCaml コンパイラは教育目的での利用を主眼としている。わずか2000行前後のコードで書かれており、実装されている機能はMLのサブセットである。バックエンドは[SPARC](https://ja.wikipedia.org/wiki/SPARC "wikilink")と[x86](https://ja.wikipedia.org/wiki/x86 "wikilink")に対応しており、ある程度の学習をすれば比較的容易に改造を行うことができる（実際、有志によって[PowerPC](https://ja.wikipedia.org/wiki/PowerPC "wikilink")用に出力できるバージョンも提供されている。バックエンドを[LLVMに置き換えた例も報告されている](https://ja.wikipedia.org/wiki/Low_Level_Virtual_Machine "wikilink")\[6\]。）。実際に[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")理学部情報科学科などで教育目的に利用され、国内における OCaml および関数型言語の普及と理解に一定の役割を果たしている。
+MinCaml コンパイラは教育目的での利用を主眼としている。わずか2000行前後のコードで書かれており、実装されている機能はMLのサブセットである。バックエンドは[SPARC](../Page/SPARC.md "wikilink")と[x86](https://ja.wikipedia.org/wiki/x86 "wikilink")に対応しており、ある程度の学習をすれば比較的容易に改造を行うことができる（実際、有志によって[PowerPC](../Page/PowerPC.md "wikilink")用に出力できるバージョンも提供されている。バックエンドを[LLVMに置き換えた例も報告されている](https://ja.wikipedia.org/wiki/Low_Level_Virtual_Machine "wikilink")\[6\]。）。実際に[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")理学部情報科学科などで教育目的に利用され、国内における OCaml および関数型言語の普及と理解に一定の役割を果たしている。
 
   - [速攻MinCamlコンパイラ概説](http://min-caml.sourceforge.net/) - MinCamlの配布・解説（`SourceForge.net`）
 
@@ -47,7 +47,7 @@ CamlやOCamlのような方言ではなく、SML（[Standard ML](https://ja.wiki
 print_endline "Hello world!";;
 ```
 
-以下のようにして[バイトコード](https://ja.wikipedia.org/wiki/バイトコード "wikilink")に[コンパイル](https://ja.wikipedia.org/wiki/コンパイル "wikilink")される。
+以下のようにして[バイトコード](../Page/バイトコード.md "wikilink")に[コンパイル](https://ja.wikipedia.org/wiki/コンパイル "wikilink")される。
 
 ``` sh
 $ ocamlc hello.ml -o hello
@@ -63,7 +63,7 @@ $
 
 ### クイックソート
 
-[クイックソート](https://ja.wikipedia.org/wiki/クイックソート "wikilink")のコード例を示す。MLは多くの関数型言語と同様、[再帰](https://ja.wikipedia.org/wiki/再帰 "wikilink")処理に秀でる。また、 などにも見られるパターンマッチの機能がここでも使われている。
+[クイックソート](../Page/クイックソート.md "wikilink")のコード例を示す。MLは多くの関数型言語と同様、[再帰](../Page/再帰.md "wikilink")処理に秀でる。また、 などにも見られるパターンマッチの機能がここでも使われている。
 
 ``` ocaml
 let rec quicksort = function
@@ -76,7 +76,7 @@ let rec quicksort = function
 
 ### チャーチ数
 
-以下は、[ラムダ計算](https://ja.wikipedia.org/wiki/ラムダ計算 "wikilink")の教科書などに見られる、[自然数](https://ja.wikipedia.org/wiki/自然数 "wikilink")のチャーチ符号化のコード例である。
+以下は、[ラムダ計算](../Page/ラムダ計算.md "wikilink")の教科書などに見られる、[自然数](../Page/自然数.md "wikilink")のチャーチ符号化のコード例である。
 
 ``` ocaml
 let zero f x = x
@@ -88,11 +88,11 @@ let to_int n = n (fun k -> k+1) 0
 let _ = print (add (succ two) two)
 ```
 
-チャーチ数nは、[高階関数](https://ja.wikipedia.org/wiki/高階関数 "wikilink")として表され、関数fと値xを受け取りxにn回fを適用する関数として定義されている。チャーチ数nを自然数nに変換するには、チャーチ数（実体は関数）に、[インクリメント](https://ja.wikipedia.org/wiki/インクリメント "wikilink")する関数と初期値0を渡せばよい。MLは関数型言語であるため、数学的なプログラミングの理論そのままに、記述することができる。
+チャーチ数nは、[高階関数](../Page/高階関数.md "wikilink")として表され、関数fと値xを受け取りxにn回fを適用する関数として定義されている。チャーチ数nを自然数nに変換するには、チャーチ数（実体は関数）に、[インクリメント](../Page/インクリメント.md "wikilink")する関数と初期値0を渡せばよい。MLは関数型言語であるため、数学的なプログラミングの理論そのままに、記述することができる。
 
 ##  で書かれたソフトウェア
 
-  - [FFTW](https://ja.wikipedia.org/wiki/FFTW "wikilink") – [離散フーリエ変換](https://ja.wikipedia.org/wiki/離散フーリエ変換 "wikilink")を高速に行う[高速フーリエ変換](https://ja.wikipedia.org/wiki/高速フーリエ変換 "wikilink")の[ライブラリ](https://ja.wikipedia.org/wiki/ライブラリ "wikilink")。[C言語](../Page/C言語.md "wikilink")のコードを出力する`genfft` という OCaml プログラムが使われている。
+  - [FFTW](https://ja.wikipedia.org/wiki/FFTW "wikilink") – [離散フーリエ変換](../Page/離散フーリエ変換.md "wikilink")を高速に行う[高速フーリエ変換](../Page/高速フーリエ変換.md "wikilink")の[ライブラリ](../Page/ライブラリ.md "wikilink")。[C言語](../Page/C言語.md "wikilink")のコードを出力する`genfft` という OCaml プログラムが使われている。
 
   - – 二つのディレクトリのファイルを比較し同期をとるプログラム。
 
@@ -106,7 +106,7 @@ let _ = print (add (succ two) two)
 
   - \- [INRIA](https://ja.wikipedia.org/wiki/INRIA "wikilink")で開発されている定理支援証明系言語。
 
-  - Flow - [JavaScript](https://ja.wikipedia.org/wiki/JavaScript "wikilink")の静的型チェッカー。[Facebook](https://ja.wikipedia.org/wiki/Facebook "wikilink")により開発されている。
+  - Flow - [JavaScript](../Page/JavaScript.md "wikilink")の静的型チェッカー。[Facebook](../Page/Facebook.md "wikilink")により開発されている。
 
   - \- 自己進化型のスマート・コントラクト プラットフォーム。XTZ を仮想通貨とする。
 
@@ -119,7 +119,7 @@ let _ = print (add (succ two) two)
 ## 関連項目
 
   -
-  - [F Sharp](https://ja.wikipedia.org/wiki/F_Sharp "wikilink")
+  - [F Sharp](../Page/F_Sharp.md "wikilink")
 
 ## 外部リンク
 

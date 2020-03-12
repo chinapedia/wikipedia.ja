@@ -15,7 +15,7 @@
       - FM-7のシリアルポートを使用可能。
       - FM-7側の一部のキー入力をサポート。
       - call monとしてコールすると、マシン語モニタが利用可能。
-      - [PSGを共有し](https://ja.wikipedia.org/wiki/Programmable_Sound_Generator "wikilink")、6和音の発音が可能。
+      - [PSGを共有し](../Page/Programmable_Sound_Generator.md "wikilink")、6和音の発音が可能。
 
 <!-- end list -->
 
@@ -27,9 +27,9 @@
 
 ## その他
 
-FM-7との協調動作のために、MSX仕様機では唯一、FMシリーズ用と同じ[8色しか表示できないデジタル方式の](https://ja.wikipedia.org/wiki/8ピン角型デジタル端子 "wikilink")[RGB](https://ja.wikipedia.org/wiki/RGB "wikilink")映像出力 を備えている。FMシリーズと共通のディスプレイを利用できた半面、RGB出力ではMSXの本来の色表現である16色の表示が出来なかった。
+FM-7との協調動作のために、MSX仕様機では唯一、FMシリーズ用と同じ[8色しか表示できないデジタル方式の](../Page/8ピン角型デジタル端子.md "wikilink")[RGB](../Page/RGB.md "wikilink")映像出力 を備えている。FMシリーズと共通のディスプレイを利用できた半面、RGB出力ではMSXの本来の色表現である16色の表示が出来なかった。
 
-ただし、MSX規格では「映像は[RF](https://ja.wikipedia.org/wiki/RF端子 "wikilink")・[ビデオ](https://ja.wikipedia.org/wiki/コンポジット映像信号 "wikilink")・[アナログRGBのいずれかの出力方式で表示できれば良い](https://ja.wikipedia.org/wiki/RGB21ピン "wikilink")」とされており、本機はRF出力もあったため、この点では仕様に準拠している。また規格で定められていないハードウェア拡張に関しても制限は無く、デジタルRGB端子の存在は規格に違反していない。
+ただし、MSX規格では「映像は[RF](https://ja.wikipedia.org/wiki/RF端子 "wikilink")・[ビデオ](../Page/コンポジット映像信号.md "wikilink")・[アナログRGBのいずれかの出力方式で表示できれば良い](../Page/RGB21ピン.md "wikilink")」とされており、本機はRF出力もあったため、この点では仕様に準拠している。また規格で定められていないハードウェア拡張に関しても制限は無く、デジタルRGB端子の存在は規格に違反していない。
 
 ## 脚注
 

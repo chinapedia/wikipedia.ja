@@ -11,19 +11,19 @@
 
 複数のパーテーションへ異なるOSをインストールでき、マルチブートも可能であり、又、SCSI接続したHDD間の任意のパーテーションの複製を簡単に行う事ができた。
 
-[1993年](../Page/1993年.md "wikilink")に[DOS/V](https://ja.wikipedia.org/wiki/DOS/V "wikilink")を採用した[PC/AT互換機](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink")、[FMV](https://ja.wikipedia.org/wiki/FMV "wikilink")シリーズが登場してラインナップの縮小が始まり、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に[Windows95が出るまで](https://ja.wikipedia.org/wiki/Microsoft_Windows_95 "wikilink")（最終機種は1998年4月発売の[FMR-280A4/L4・FMR-250L4](http://www.fmworld.net/biz/fmv/product/former/rdt9804/index.html)）販売された。
+[1993年](../Page/1993年.md "wikilink")に[DOS/V](https://ja.wikipedia.org/wiki/DOS/V "wikilink")を採用した[PC/AT互換機](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink")、[FMV](../Page/FMV.md "wikilink")シリーズが登場してラインナップの縮小が始まり、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に[Windows95が出るまで](../Page/Microsoft_Windows_95.md "wikilink")（最終機種は1998年4月発売の[FMR-280A4/L4・FMR-250L4](http://www.fmworld.net/biz/fmv/product/former/rdt9804/index.html)）販売された。
 
-[アーキテクチャはFM](../Page/コンピュータ・アーキテクチャ.md "wikilink")-16βから引き続き[x86](https://ja.wikipedia.org/wiki/x86 "wikilink")系[CPU](https://ja.wikipedia.org/wiki/CPU "wikilink")を採用し、[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")（OS）は[MS-DOS](https://ja.wikipedia.org/wiki/MS-DOS "wikilink")系を標準採用。MS-DOSのメモリ空間は他機種の640KBより若干多い768KBを連続して確保できた（前機種FM-16βは当初[CP/M-86](https://ja.wikipedia.org/wiki/CP/M-86 "wikilink")を標準OSとしたため、ソフトウェアの品揃えに恵まれなかった。その後[MS-DOS](https://ja.wikipedia.org/wiki/MS-DOS "wikilink")も発売されている）。
+[アーキテクチャはFM](../Page/コンピュータ・アーキテクチャ.md "wikilink")-16βから引き続き[x86](https://ja.wikipedia.org/wiki/x86 "wikilink")系[CPU](../Page/CPU.md "wikilink")を採用し、[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")（OS）は[MS-DOS](../Page/MS-DOS.md "wikilink")系を標準採用。MS-DOSのメモリ空間は他機種の640KBより若干多い768KBを連続して確保できた（前機種FM-16βは当初[CP/M-86](https://ja.wikipedia.org/wiki/CP/M-86 "wikilink")を標準OSとしたため、ソフトウェアの品揃えに恵まれなかった。その後[MS-DOS](../Page/MS-DOS.md "wikilink")も発売されている）。
 
-他に[OS/2](https://ja.wikipedia.org/wiki/OS/2 "wikilink")、[Microsoft Windows 3.xなどが動作した](https://ja.wikipedia.org/wiki/Microsoft_Windows_3.x "wikilink")（FMR-280には[Windows95も移植された](https://ja.wikipedia.org/wiki/Microsoft_Windows_95 "wikilink")）。
+他に[OS/2](https://ja.wikipedia.org/wiki/OS/2 "wikilink")、[Microsoft Windows 3.xなどが動作した](../Page/Microsoft_Windows_3.x.md "wikilink")（FMR-280には[Windows95も移植された](../Page/Microsoft_Windows_95.md "wikilink")）。
 
-同社の[ワープロ専用機](https://ja.wikipedia.org/wiki/ワープロ専用機 "wikilink")、[OASYS](../Page/OASYS.md "wikilink")シリーズで実績のあるかな漢字変換機能「[OAK](https://ja.wikipedia.org/wiki/OAK "wikilink")」を全シリーズで採用。ソフトウェア開発支援を行うなどラインナップの充実を図り、ビジネス向けの国産[16ビット](https://ja.wikipedia.org/wiki/16ビット "wikilink")パソコンとしては健闘した。最終的に[日本電気](https://ja.wikipedia.org/wiki/日本電気 "wikilink") (NEC) の[PC-9800シリーズ](https://ja.wikipedia.org/wiki/PC-9800シリーズ "wikilink")の地位を揺るがすほどではなかったものの、「イコールNEC」のイメージが強い日本の官公庁、特に国公立の教育機関に一定のシェアを確保していた（教育市場向けのモデルも発売されていた）。また同社大型[汎用機や](https://ja.wikipedia.org/wiki/メインフレーム "wikilink")[スーパーコンピュータ](https://ja.wikipedia.org/wiki/スーパーコンピュータ "wikilink")の端末（F6680互換エミュレータ端末）としてかなりの数が納品された。また、今は無き[チケットセゾン](https://ja.wikipedia.org/wiki/チケットセゾン "wikilink")では店頭設置端末として使われていた。その他の使用例として、全銀協プロトコル対応のファームバンキング端末や[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")の開発機としても使用されていた。
+同社の[ワープロ専用機](https://ja.wikipedia.org/wiki/ワープロ専用機 "wikilink")、[OASYS](../Page/OASYS.md "wikilink")シリーズで実績のあるかな漢字変換機能「[OAK](https://ja.wikipedia.org/wiki/OAK "wikilink")」を全シリーズで採用。ソフトウェア開発支援を行うなどラインナップの充実を図り、ビジネス向けの国産[16ビット](../Page/16ビット.md "wikilink")パソコンとしては健闘した。最終的に[日本電気](../Page/日本電気.md "wikilink") (NEC) の[PC-9800シリーズ](../Page/PC-9800シリーズ.md "wikilink")の地位を揺るがすほどではなかったものの、「イコールNEC」のイメージが強い日本の官公庁、特に国公立の教育機関に一定のシェアを確保していた（教育市場向けのモデルも発売されていた）。また同社大型[汎用機や](../Page/メインフレーム.md "wikilink")[スーパーコンピュータ](../Page/スーパーコンピュータ.md "wikilink")の端末（F6680互換エミュレータ端末）としてかなりの数が納品された。また、今は無き[チケットセゾン](https://ja.wikipedia.org/wiki/チケットセゾン "wikilink")では店頭設置端末として使われていた。その他の使用例として、全銀協プロトコル対応のファームバンキング端末や[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")の開発機としても使用されていた。
 
-[松下電器の](https://ja.wikipedia.org/wiki/パナソニック "wikilink")[Panacom](https://ja.wikipedia.org/wiki/Panacom "wikilink") Mシリーズは本機の[OEM](https://ja.wikipedia.org/wiki/OEM "wikilink")。
+[松下電器の](https://ja.wikipedia.org/wiki/パナソニック "wikilink")[Panacom](../Page/Panacom.md "wikilink") Mシリーズは本機の[OEM](../Page/OEM.md "wikilink")。
 
 ## シリーズ
 
-各シリーズ間の互換性はハードウェアではなくOSの[システムコール](https://ja.wikipedia.org/wiki/システムコール "wikilink")(FBIOS)によって吸収できるようになっていた。一部機種については松下電器(現パナソニック)へOEMされた。
+各シリーズ間の互換性はハードウェアではなくOSの[システムコール](../Page/システムコール.md "wikilink")(FBIOS)によって吸収できるようになっていた。一部機種については松下電器(現パナソニック)へOEMされた。
 
 ### FMR-30系
 
@@ -166,7 +166,7 @@ FMR-80HL3 (front) 2013-02-08.JPG|FMR-80HL3の正面 FMR-80HL3 (rear) 2013-02-08.
 
 グラフィックス表示機能に関しては、FMR-50シリーズが4096色中16色表示が可能であるのに対し本系列はVRAMを1プレーン分しか持たず、性能上はモノクロ2階調表示だが、BIOS等でハードウェアの差異を吸収することによってFMR-50シリーズとのソフトウェア互換性を実現していた。内蔵ディスプレイは反射型STN液晶で、FMR-50シリーズと同じく解像度は640×400ドット。
 
-インターフェース類はICカードスロット2機と[RS-232C](https://ja.wikipedia.org/wiki/RS-232C "wikilink") 1ポート、拡張I/O 1ポート、DC入力のみだが、拡張装置として、FMR-50LT系のオプションカードを使用できる拡張ボックス(据え置き型)、DSLINK([イーサネット](https://ja.wikipedia.org/wiki/イーサネット "wikilink"))アダプター、2MB増設メモリー、モデム、増設電池ボックス(以上外付け一体型)等が用意され、可搬性は損なうものの、通常のパソコンとしての利用にも充分な機能の拡張が可能であった。
+インターフェース類はICカードスロット2機と[RS-232C](https://ja.wikipedia.org/wiki/RS-232C "wikilink") 1ポート、拡張I/O 1ポート、DC入力のみだが、拡張装置として、FMR-50LT系のオプションカードを使用できる拡張ボックス(据え置き型)、DSLINK([イーサネット](../Page/イーサネット.md "wikilink"))アダプター、2MB増設メモリー、モデム、増設電池ボックス(以上外付け一体型)等が用意され、可搬性は損なうものの、通常のパソコンとしての利用にも充分な機能の拡張が可能であった。
 
 #### 機種
 

@@ -2,52 +2,52 @@
 
 
 | スクリーンショット = [Safari_12_on_Mojave.png](https://ja.wikipedia.org/wiki/File:Safari_12_on_Mojave.png "fig:Safari_12_on_Mojave.png") | 説明文 = [macOS Mojave上で動作するSafari](https://ja.wikipedia.org/wiki/macOS_Mojave "wikilink") 12 | 開発元 =
-[アップル](https://ja.wikipedia.org/wiki/アップル_\(企業\) "wikilink") | 初版 = [2003年](../Page/2003年.md "wikilink")[1月7日](https://ja.wikipedia.org/wiki/1月7日 "wikilink") | frequently updated = Yes | 対応OS = [macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")<small>（[バージョン履歴参照](https://ja.wikipedia.org/wiki/#macOS "wikilink")）</small>
-[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")（3.0 - ） | エンジン = [WebKit](https://ja.wikipedia.org/wiki/WebKit "wikilink")（HTML レンダリング）
-[Nitro](https://ja.wikipedia.org/wiki/WebKit#JavaScriptCore "wikilink")（JavaScript） | 対応プラットフォーム = [Macintosh](../Page/Macintosh.md "wikilink"), [iPod touch](https://ja.wikipedia.org/wiki/iPod_touch "wikilink"), [iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink"), [iPad](https://ja.wikipedia.org/wiki/iPad "wikilink") | 種別 = [ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink") | ライセンス = [EULA](https://ja.wikipedia.org/wiki/ライセンス "wikilink")
-[LGPL](https://ja.wikipedia.org/wiki/GNU_Lesser_General_Public_License "wikilink") | 公式サイト =  }} **Safari**（サファリ）は、[アップルにより開発されている](https://ja.wikipedia.org/wiki/アップル_\(企業\) "wikilink")[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")。[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")標準のウェブブラウザとして[Mac OS X v10.3より搭載されている](https://ja.wikipedia.org/wiki/Mac_OS_X_v10.3 "wikilink")。[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")、[iPod touchなどの](https://ja.wikipedia.org/wiki/iPod_touch "wikilink")[iOS機器及びiPadの](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")[iPadOS](https://ja.wikipedia.org/wiki/iPadOS "wikilink")プラットフォーム向けにmacOS用からカスタマイズされたSafariが標準ウェブブラウザとして搭載されている。
+[アップル](../Page/アップル_\(企業\).md "wikilink") | 初版 = [2003年](../Page/2003年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink") | frequently updated = Yes | 対応OS = [macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")<small>（[バージョン履歴参照](https://ja.wikipedia.org/wiki/#macOS "wikilink")）</small>
+[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")（3.0 - ） | エンジン = [WebKit](../Page/WebKit.md "wikilink")（HTML レンダリング）
+[Nitro](https://ja.wikipedia.org/wiki/WebKit#JavaScriptCore "wikilink")（JavaScript） | 対応プラットフォーム = [Macintosh](../Page/Macintosh.md "wikilink"), [iPod touch](https://ja.wikipedia.org/wiki/iPod_touch "wikilink"), [iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink"), [iPad](https://ja.wikipedia.org/wiki/iPad "wikilink") | 種別 = [ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink") | ライセンス = [EULA](../Page/ライセンス.md "wikilink")
+[LGPL](../Page/GNU_Lesser_General_Public_License.md "wikilink") | 公式サイト =  }} **Safari**（サファリ）は、[アップルにより開発されている](../Page/アップル_\(企業\).md "wikilink")[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")。[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")標準のウェブブラウザとして[Mac OS X v10.3より搭載されている](../Page/Mac_OS_X_v10.3.md "wikilink")。[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")、[iPod touchなどの](https://ja.wikipedia.org/wiki/iPod_touch "wikilink")[iOS機器及びiPadの](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")[iPadOS](https://ja.wikipedia.org/wiki/iPadOS "wikilink")プラットフォーム向けにmacOS用からカスタマイズされたSafariが標準ウェブブラウザとして搭載されている。
 
 ## 特徴
 
-主な特徴として、レンダリングエンジンに[KDE](https://ja.wikipedia.org/wiki/KDE "wikilink")の[Konqueror](https://ja.wikipedia.org/wiki/Konqueror "wikilink")[オープンソース](../Page/オープンソース.md "wikilink")プロジェクトで使われている[KHTML](https://ja.wikipedia.org/wiki/KHTML "wikilink")と[KJS](https://ja.wikipedia.org/wiki/KJS "wikilink")をベースとする[Webkit](https://ja.wikipedia.org/wiki/Webkit "wikilink")を使用、[SVG](https://ja.wikipedia.org/wiki/Scalable_Vector_Graphics "wikilink")・[RSS](https://ja.wikipedia.org/wiki/RSS "wikilink")・[タブブラウズ](https://ja.wikipedia.org/wiki/タブブラウズ "wikilink")といった最新のブラウザが備える機能に対応する。
+主な特徴として、レンダリングエンジンに[KDE](../Page/KDE.md "wikilink")の[Konqueror](../Page/Konqueror.md "wikilink")[オープンソース](../Page/オープンソース.md "wikilink")プロジェクトで使われている[KHTML](../Page/KHTML.md "wikilink")と[KJS](../Page/KJS.md "wikilink")をベースとする[Webkit](https://ja.wikipedia.org/wiki/Webkit "wikilink")を使用、[SVG](../Page/Scalable_Vector_Graphics.md "wikilink")・[RSS](../Page/RSS.md "wikilink")・[タブブラウズ](https://ja.wikipedia.org/wiki/タブブラウズ "wikilink")といった最新のブラウザが備える機能に対応する。
 
 画像に埋め込まれた[カラープロファイリングを読みこみ正確な色空間を描画可能である](https://ja.wikipedia.org/wiki/カラープロファイル "wikilink")。
 
-[CSSでは](../Page/Cascading_Style_Sheets.md "wikilink")、開発中の仕様も一部実装し、比較的正確な描画が望める。[Acid2](https://ja.wikipedia.org/wiki/Acid2 "wikilink")テストに最初期（2005年4月\[1\]）に合格している。 開発中のWebKit r31356（最初のスコア100は、r31342）を利用することによって、[Acid3](https://ja.wikipedia.org/wiki/Acid3 "wikilink")テストにも公開版として最初に合格するWebブラウザとなった\[2\]。ただし、[iOS版は](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")、Acid3でのスコアは100であるにもかかわらず、Acid2には未合格である（version 4.0.5現在）。
+[CSSでは](../Page/Cascading_Style_Sheets.md "wikilink")、開発中の仕様も一部実装し、比較的正確な描画が望める。[Acid2](../Page/Acid2.md "wikilink")テストに最初期（2005年4月\[1\]）に合格している。 開発中のWebKit r31356（最初のスコア100は、r31342）を利用することによって、[Acid3](https://ja.wikipedia.org/wiki/Acid3 "wikilink")テストにも公開版として最初に合格するWebブラウザとなった\[2\]。ただし、[iOS版は](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")、Acid3でのスコアは100であるにもかかわらず、Acid2には未合格である（version 4.0.5現在）。
 
-[JavaScript](../Page/JavaScript.md "wikilink")に関しては、[JavaScriptCore](https://ja.wikipedia.org/wiki/WebKit "wikilink") [フレームワークを中核に備えている](https://ja.wikipedia.org/wiki/ソフトウェアフレームワーク "wikilink")。KDE開発のKJSを前身とするフレームワークであり、[OS全般の](../Page/オペレーティングシステム.md "wikilink") [JavaScript](../Page/JavaScript.md "wikilink") の処理に用いられている。図形を描画する[canvas要素](https://ja.wikipedia.org/wiki/canvas要素 "wikilink")を実装しており、JavaScriptもこれに対応する。
+[JavaScript](../Page/JavaScript.md "wikilink")に関しては、[JavaScriptCore](../Page/WebKit.md "wikilink") [フレームワークを中核に備えている](https://ja.wikipedia.org/wiki/ソフトウェアフレームワーク "wikilink")。KDE開発のKJSを前身とするフレームワークであり、[OS全般の](../Page/オペレーティングシステム.md "wikilink") [JavaScript](../Page/JavaScript.md "wikilink") の処理に用いられている。図形を描画する[canvas要素](https://ja.wikipedia.org/wiki/canvas要素 "wikilink")を実装しており、JavaScriptもこれに対応する。
 
-[TLS・SSLのサポート](https://ja.wikipedia.org/wiki/Transport_Layer_Security "wikilink")、[Cookieの管理](https://ja.wikipedia.org/wiki/HTTP_cookie "wikilink")、macOSの設定で閲覧できるサイトの制限などのセキュリティ機能をそなえる。
+[TLS・SSLのサポート](../Page/Transport_Layer_Security.md "wikilink")、[Cookieの管理](../Page/HTTP_cookie.md "wikilink")、macOSの設定で閲覧できるサイトの制限などのセキュリティ機能をそなえる。
 
-[HTTPレスポンスヘッダ](../Page/Hypertext_Transfer_Protocol.md "wikilink")（あるいは[HTMLのmeta要素](https://ja.wikipedia.org/wiki/HyperText_Markup_Language "wikilink")）のContent-Type: フィールドのcharset指定（無指定時は [ISO-8859-1](https://ja.wikipedia.org/wiki/ISO/IEC_8859-1#ISO-8859-1 "wikilink")）と実際のHTMLの[文字コード](https://ja.wikipedia.org/wiki/文字コード "wikilink")が異なっている場合、正確な動作を行うSafariでは指定に忠実に解釈するため[文字化け](https://ja.wikipedia.org/wiki/文字化け "wikilink")する。
+[HTTPレスポンスヘッダ](../Page/Hypertext_Transfer_Protocol.md "wikilink")（あるいは[HTMLのmeta要素](../Page/HyperText_Markup_Language.md "wikilink")）のContent-Type: フィールドのcharset指定（無指定時は [ISO-8859-1](https://ja.wikipedia.org/wiki/ISO/IEC_8859-1#ISO-8859-1 "wikilink")）と実際のHTMLの[文字コード](../Page/文字コード.md "wikilink")が異なっている場合、正確な動作を行うSafariでは指定に忠実に解釈するため[文字化け](../Page/文字化け.md "wikilink")する。
 
-[Mac OS X v10.6](https://ja.wikipedia.org/wiki/Mac_OS_X_v10.6 "wikilink")/Safari 5.1以降では、[プラグイン](https://ja.wikipedia.org/wiki/プラグイン "wikilink")を個別プロセスで実行する仕様となり、プラグインがクラッシュしてもブラウザ全体が落ちることはなくなった。iOS版Safariは、[Flashなどのプラグインをサポートしない](https://ja.wikipedia.org/wiki/Adobe_Flash "wikilink")。
+[Mac OS X v10.6](../Page/Mac_OS_X_v10.6.md "wikilink")/Safari 5.1以降では、[プラグイン](../Page/プラグイン.md "wikilink")を個別プロセスで実行する仕様となり、プラグインがクラッシュしてもブラウザ全体が落ちることはなくなった。iOS版Safariは、[Flashなどのプラグインをサポートしない](../Page/Adobe_Flash.md "wikilink")。
 
 ウェブ情報を更新ボタンを長押しすると、pc版サイトにできる。
 
 ## Windows版
 
-かつて一時期[Windows版も公開されていた](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。2012年7月26日（日本時間）に[OS X Mountain LionとともにリリースされたSafari](https://ja.wikipedia.org/wiki/OS_X_Mountain_Lion "wikilink") 6にはWindows向けが用意されず、旧バージョンのダウンロードはサポートページからしかできなくなった。この件に関してアップルは回答を避けている\[3\]。2012年10月23日、[情報処理推進機構](https://ja.wikipedia.org/wiki/情報処理推進機構 "wikilink")は[セキュリティホール](https://ja.wikipedia.org/wiki/セキュリティホール "wikilink")が存在するため使用停止を勧告した\[4\]。
+かつて一時期[Windows版も公開されていた](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。2012年7月26日（日本時間）に[OS X Mountain LionとともにリリースされたSafari](https://ja.wikipedia.org/wiki/OS_X_Mountain_Lion "wikilink") 6にはWindows向けが用意されず、旧バージョンのダウンロードはサポートページからしかできなくなった。この件に関してアップルは回答を避けている\[3\]。2012年10月23日、[情報処理推進機構](../Page/情報処理推進機構.md "wikilink")は[セキュリティホール](../Page/セキュリティホール.md "wikilink")が存在するため使用停止を勧告した\[4\]。
 
-Windows版Safariでは、Windowsの[ClearType](https://ja.wikipedia.org/wiki/ClearType "wikilink")を用いず独自エンジンで[フォント](https://ja.wikipedia.org/wiki/フォント "wikilink")の[アンチエイリアス](https://ja.wikipedia.org/wiki/アンチエイリアス "wikilink")を行うことができた。または、WindowsでのClearTypeを使用することも同様に可能であった。
+Windows版Safariでは、Windowsの[ClearType](../Page/ClearType.md "wikilink")を用いず独自エンジンで[フォント](../Page/フォント.md "wikilink")の[アンチエイリアス](../Page/アンチエイリアス.md "wikilink")を行うことができた。または、WindowsでのClearTypeを使用することも同様に可能であった。
 
 現在は開発を停止している。
 
 ## 歴史および開発
 
-1997年まで、[Mac OSでは](../Page/Classic_Mac_OS.md "wikilink")[Netscape Navigatorが標準ウェブブラウザであった](https://ja.wikipedia.org/wiki/Netscape_Navigator_\(ネットスケープコミュニケーションズ\) "wikilink")。[アップルコンピュータが](https://ja.wikipedia.org/wiki/アップル_\(企業\) "wikilink")[マイクロソフト](https://ja.wikipedia.org/wiki/マイクロソフト "wikilink")と提携した後は、[Internet Explorer for Mac](https://ja.wikipedia.org/wiki/Internet_Explorer_for_Mac "wikilink")（バージョンは 3.0 から 5.2）がMac OS X v10.2まで標準ウェブブラウザとして同梱されていた。
+1997年まで、[Mac OSでは](../Page/Classic_Mac_OS.md "wikilink")[Netscape Navigatorが標準ウェブブラウザであった](../Page/Netscape_Navigator_\(ネットスケープコミュニケーションズ\).md "wikilink")。[アップルコンピュータが](../Page/アップル_\(企業\).md "wikilink")[マイクロソフト](../Page/マイクロソフト.md "wikilink")と提携した後は、[Internet Explorer for Mac](../Page/Internet_Explorer_for_Mac.md "wikilink")（バージョンは 3.0 から 5.2）がMac OS X v10.2まで標準ウェブブラウザとして同梱されていた。
 
-  - [2003年](../Page/2003年.md "wikilink")[1月7日](https://ja.wikipedia.org/wiki/1月7日 "wikilink")にアップルコンピュータがSafariの[ベータ版](https://ja.wikipedia.org/wiki/ベータ版 "wikilink")を発表。
-  - 2003年[6月24日](https://ja.wikipedia.org/wiki/6月24日 "wikilink")に公式版1.0を発表。そのすぐ後、[マイクロソフト](https://ja.wikipedia.org/wiki/マイクロソフト "wikilink")はInternet Explorer for Macの開発を中止すると発表したことから、SafariはMac OS X v10.3以降の標準ブラウザとなることが決まった。
-  - 2003年[10月24日](https://ja.wikipedia.org/wiki/10月24日 "wikilink")に発売されたMac OS X v10.3には、バージョン 1.1 (v100) を搭載。Safariが標準のブラウザ、Internet Explorer for Macは代替ブラウザという位置づけになった。
+  - [2003年](../Page/2003年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink")にアップルコンピュータがSafariの[ベータ版](../Page/ベータ版.md "wikilink")を発表。
+  - 2003年[6月24日](../Page/6月24日.md "wikilink")に公式版1.0を発表。そのすぐ後、[マイクロソフト](../Page/マイクロソフト.md "wikilink")はInternet Explorer for Macの開発を中止すると発表したことから、SafariはMac OS X v10.3以降の標準ブラウザとなることが決まった。
+  - 2003年[10月24日](../Page/10月24日.md "wikilink")に発売されたMac OS X v10.3には、バージョン 1.1 (v100) を搭載。Safariが標準のブラウザ、Internet Explorer for Macは代替ブラウザという位置づけになった。
   - Mac OS X v10.2.8向けの最終バージョンは1.0.3、Mac OS X v10.3.9向けの最終バージョンは1.3.2。これらの2つは2007年末までにサポートが終了している。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月29日](https://ja.wikipedia.org/wiki/4月29日 "wikilink")に発売されたMac OS X v10.4には、バージョン2.0 (v412) を搭載。初のメジャーバージョンアップであり、[RSS](https://ja.wikipedia.org/wiki/RSS "wikilink")リーダーなどの機能が追加されている。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[6月11日](https://ja.wikipedia.org/wiki/6月11日 "wikilink")にWindows版Safariの開発が発表された。同時にMac OS X、Windowsプラットフォーム対応、Safari 3.0 (v522.11) のパブリックベータが公開された。Safariのウェブブラウザ市場占有率の向上を狙った投入であり、AppleのWindows版ソフトウェアは[QuickTime](https://ja.wikipedia.org/wiki/QuickTime "wikilink")、[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")に続き3本目となる\[5\]。
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月18日](https://ja.wikipedia.org/wiki/3月18日 "wikilink")、Mac OS X v10.5.2、Mac OS X v10.4.11、Windows XP、Windows Vista向けにSafari 3.1 (525.13) が公開された\[6\]。
-  - [2009年](../Page/2009年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")にアップルがSafari 4[ベータ版](https://ja.wikipedia.org/wiki/ベータ版 "wikilink")を発表\[7\]\[8\]。
-  - 2009年[6月9日](https://ja.wikipedia.org/wiki/6月9日 "wikilink")にアップルがSafari 4の正式版を発表。β版の不具合の修正、日本語を含む表示言語の追加や、タブ表示に変更がされている。
+  - [2005年](../Page/2005年.md "wikilink")[4月29日](../Page/4月29日.md "wikilink")に発売されたMac OS X v10.4には、バージョン2.0 (v412) を搭載。初のメジャーバージョンアップであり、[RSS](../Page/RSS.md "wikilink")リーダーなどの機能が追加されている。
+  - [2007年](../Page/2007年.md "wikilink")[6月11日](../Page/6月11日.md "wikilink")にWindows版Safariの開発が発表された。同時にMac OS X、Windowsプラットフォーム対応、Safari 3.0 (v522.11) のパブリックベータが公開された。Safariのウェブブラウザ市場占有率の向上を狙った投入であり、AppleのWindows版ソフトウェアは[QuickTime](../Page/QuickTime.md "wikilink")、[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")に続き3本目となる\[5\]。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月18日](../Page/3月18日.md "wikilink")、Mac OS X v10.5.2、Mac OS X v10.4.11、Windows XP、Windows Vista向けにSafari 3.1 (525.13) が公開された\[6\]。
+  - [2009年](../Page/2009年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")にアップルがSafari 4[ベータ版](../Page/ベータ版.md "wikilink")を発表\[7\]\[8\]。
+  - 2009年[6月9日](../Page/6月9日.md "wikilink")にアップルがSafari 4の正式版を発表。β版の不具合の修正、日本語を含む表示言語の追加や、タブ表示に変更がされている。
   - Mac OS Xでは、リリースされてきたSecurity UpdateにSafariに関係するセキュリティ修正が多数含まれてきたが、必ずしもWebCoreのバージョンが上がっている訳ではない\[9\]\[10\]。
-  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")6月7日に、Safari 5が発表された。サードパーティーの機能拡張をサポート、ページ内の広告などを非表示にできるSafariリーダーの搭載、検索オプションに[Bing](https://ja.wikipedia.org/wiki/Bing "wikilink")の追加、GeolocationやWebSocketを始めとしたHTML5の対応強化、JavaScriptのパフォーマンスが30%向上、開発者用ツールの改善など。
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")6月7日に、Safari 5が発表された。サードパーティーの機能拡張をサポート、ページ内の広告などを非表示にできるSafariリーダーの搭載、検索オプションに[Bing](../Page/Bing.md "wikilink")の追加、GeolocationやWebSocketを始めとしたHTML5の対応強化、JavaScriptのパフォーマンスが30%向上、開発者用ツールの改善など。
   - 2011年7月20日、WebKit2を採用したSafari 5.1が公開。サンドボックス化し、WebProcess.appで、Safari本体とWeb描画のプロセスを分けた。
   - 2012年3月12日、Safari 5.1.4が公開。StagedFrameworks利用によるサンドボックスの改良。
   - 2012年7月26日、OS X Mountain LionのリリースとともにSafari 6が公開。しかしWindows向けのバージョンは用意されず、旧バージョンのダウンロードもサポートページからしかできなくなった。
@@ -105,7 +105,7 @@ Windows版Safariでは、Windowsの[ClearType](https://ja.wikipedia.org/wiki/Cle
 <td><p>0.9</p></td>
 <td><p>73</p></td>
 <td><p>2003年4月14日</p></td>
-<td><p>Safari Beta 2 (パブリックベータ) リリース[16]。タブブラウジング、フォームとパスワードの自動入力、ブラウザのリセット（クッキー、キャッシュ及びその他の消去）、<a href="https://ja.wikipedia.org/wiki/Netscapeシリーズ" title="wikilink">Netscapeおよび</a><a href="../Page/Mozilla_Application_Suite.md" title="wikilink">Mozillaのブックマーク読み込み</a>、ウェブ標準のサポート改善、<a href="https://ja.wikipedia.org/wiki/AppleScript" title="wikilink">AppleScript</a>サポート改善、多くの言語版対応。</p></td>
+<td><p>Safari Beta 2 (パブリックベータ) リリース[16]。タブブラウジング、フォームとパスワードの自動入力、ブラウザのリセット（クッキー、キャッシュ及びその他の消去）、<a href="../Page/Netscapeシリーズ.md" title="wikilink">Netscapeおよび</a><a href="../Page/Mozilla_Application_Suite.md" title="wikilink">Mozillaのブックマーク読み込み</a>、ウェブ標準のサポート改善、<a href="../Page/AppleScript.md" title="wikilink">AppleScript</a>サポート改善、多くの言語版対応。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -267,7 +267,7 @@ Windows版Safariでは、Windowsの[ClearType](https://ja.wikipedia.org/wiki/Cle
 <td><p>412</p></td>
 <td><p>Mac OS X 10.4</p></td>
 <td><p>2005年4月29日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Mac_OS_X_v10.4" title="wikilink">Mac OS X 10.4と共にリリース</a>。レンダリング速度およびウェブサイト互換性改善。統合した<a href="https://ja.wikipedia.org/wiki/RSS" title="wikilink">RSS</a>および<a href="https://ja.wikipedia.org/wiki/Atom_(ウェブコンテンツ配信)" title="wikilink">Atomリーダー</a>。統合した<a href="https://ja.wikipedia.org/wiki/Portable_Document_Format" title="wikilink">PDFビューワー</a>。<a href="https://ja.wikipedia.org/wiki/プライバシーモード" title="wikilink">プライベートブラウジングモードおよび</a><a href="https://ja.wikipedia.org/wiki/ペアレンタルコントロール" title="wikilink">ペアレンタルコントロール</a>。ウェブアーカイブと同じくウェブサイトを完全に保存する。</p></td>
+<td><p><a href="../Page/Mac_OS_X_v10.4.md" title="wikilink">Mac OS X 10.4と共にリリース</a>。レンダリング速度およびウェブサイト互換性改善。統合した<a href="../Page/RSS.md" title="wikilink">RSS</a>および<a href="../Page/Atom_(ウェブコンテンツ配信).md" title="wikilink">Atomリーダー</a>。統合した<a href="../Page/Portable_Document_Format.md" title="wikilink">PDFビューワー</a>。<a href="https://ja.wikipedia.org/wiki/プライバシーモード" title="wikilink">プライベートブラウジングモードおよび</a><a href="https://ja.wikipedia.org/wiki/ペアレンタルコントロール" title="wikilink">ペアレンタルコントロール</a>。ウェブアーカイブと同じくウェブサイトを完全に保存する。</p></td>
 </tr>
 <tr class="odd">
 <td><p>2.0</p></td>
@@ -297,7 +297,7 @@ Windows版Safariでは、Windowsの[ClearType](https://ja.wikipedia.org/wiki/Cle
 <td><p>2.0.2</p></td>
 <td><p>416.12</p></td>
 <td><p>2005年11月2日</p></td>
-<td><p>Mac OS X 10.4.3アップデートの一部。<a href="https://ja.wikipedia.org/wiki/Acid2" title="wikilink">Acid2</a>クリア、<a href="https://ja.wikipedia.org/wiki/ヘブライ語" title="wikilink">ヘブライ語</a>と<a href="https://ja.wikipedia.org/wiki/アラビア語" title="wikilink">アラビア語</a>テキストの処理改善、<a href="https://ja.wikipedia.org/wiki/Shockwave" title="wikilink">Macromedia Shockwave向けのより優れ</a> <a href="https://ja.wikipedia.org/wiki/OpenGL" title="wikilink">OpenGL</a>サポート、<a href="https://ja.wikipedia.org/wiki/Webcam" title="wikilink">Webcam</a>互換性の改善。</p></td>
+<td><p>Mac OS X 10.4.3アップデートの一部。<a href="../Page/Acid2.md" title="wikilink">Acid2</a>クリア、<a href="../Page/ヘブライ語.md" title="wikilink">ヘブライ語</a>と<a href="../Page/アラビア語.md" title="wikilink">アラビア語</a>テキストの処理改善、<a href="https://ja.wikipedia.org/wiki/Shockwave" title="wikilink">Macromedia Shockwave向けのより優れ</a> <a href="../Page/OpenGL.md" title="wikilink">OpenGL</a>サポート、<a href="https://ja.wikipedia.org/wiki/Webcam" title="wikilink">Webcam</a>互換性の改善。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -370,7 +370,7 @@ Windows版Safariでは、Windowsの[ClearType](https://ja.wikipedia.org/wiki/Cle
 <td><p>523.10.3</p></td>
 <td><p>Mac OS X 10.5</p></td>
 <td><p>2007年10月26日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Mac_OS_X_v10.5" title="wikilink">Mac OS X 10.5と共にリリース</a>。レンダリング速度及びウェブサイト互換性、PDFハンドリングの改善。ウェブ クリップによる<a href="https://ja.wikipedia.org/wiki/Dashboard" title="wikilink">Dashboard</a>ウィジェットの作成機能の追加。</p></td>
+<td><p><a href="../Page/Mac_OS_X_v10.5.md" title="wikilink">Mac OS X 10.5と共にリリース</a>。レンダリング速度及びウェブサイト互換性、PDFハンドリングの改善。ウェブ クリップによる<a href="../Page/Dashboard.md" title="wikilink">Dashboard</a>ウィジェットの作成機能の追加。</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -418,7 +418,7 @@ Mac OS X 10.5</p></td>
 <td><p>3.2</p></td>
 <td><p>525.26.12</p></td>
 <td><p>2008年11月13日</p></td>
-<td><p>Safari 3.2単体リリース。<a href="https://ja.wikipedia.org/wiki/フィッシング_(詐欺)" title="wikilink">フィッシング対策</a>、<a href="https://ja.wikipedia.org/wiki/Extended_Validation_証明書" title="wikilink">EV SSL対応</a>、複数のセキュリティ修正[30][31]。</p></td>
+<td><p>Safari 3.2単体リリース。<a href="../Page/フィッシング_(詐欺).md" title="wikilink">フィッシング対策</a>、<a href="../Page/Extended_Validation_証明書.md" title="wikilink">EV SSL対応</a>、複数のセキュリティ修正[30][31]。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1737,7 +1737,7 @@ OS X 10.8</p></td>
 Windows XP,<br />
 Windows Vista</p></td>
 <td><p>2007年6月11日</p></td>
-<td><p>パブリックベータ。Windows XP、Windows Vista（<a href="https://ja.wikipedia.org/wiki/Microsoft_Windows_2000" title="wikilink">Windows 2000</a> はサポートされないが動作可能）向けの最初のリリース。 Mac OS X 向けと同様に Safari 3 の新機能を搭載。</p></td>
+<td><p>パブリックベータ。Windows XP、Windows Vista（<a href="../Page/Microsoft_Windows_2000.md" title="wikilink">Windows 2000</a> はサポートされないが動作可能）向けの最初のリリース。 Mac OS X 向けと同様に Safari 3 の新機能を搭載。</p></td>
 </tr>
 <tr class="even">
 <td><p>3.0.1</p></td>
@@ -1776,7 +1776,7 @@ Windows Vista</p></td>
 <td><p>3.0.4</p></td>
 <td><p>523.13</p></td>
 <td><p>2007年12月17日</p></td>
-<td><p>Safari 3 Beta 3.0.4 のセキュリティアップデート。 このセキュリティアップデートは、既存の Safari にサイト間攻撃 (<a href="https://ja.wikipedia.org/wiki/クロスサイトスクリプティング" title="wikilink">XSS</a>) がなされる問題を防ぐ目的で施された[93]。</p></td>
+<td><p>Safari 3 Beta 3.0.4 のセキュリティアップデート。 このセキュリティアップデートは、既存の Safari にサイト間攻撃 (<a href="../Page/クロスサイトスクリプティング.md" title="wikilink">XSS</a>) がなされる問題を防ぐ目的で施された[93]。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1792,7 +1792,7 @@ Windows Vista</p></td>
 <td><p>3.1</p></td>
 <td><p>525.13</p></td>
 <td><p>2008年3月18日</p></td>
-<td><p>安定した初の Windows 向けリリース。新たに <a href="https://ja.wikipedia.org/wiki/:en:Web-safe_fonts" title="wikilink">CSS ウェブフォント</a>[94] とアニメ[95]が導入され、それから <a href="https://ja.wikipedia.org/wiki/Scalable_Vector_Graphics" title="wikilink">SVG</a> 及び <a href="https://ja.wikipedia.org/wiki/HTML5" title="wikilink">HTML5</a> に於けるメディア[96]の扱いが改善された。パフォーマンス改善。検索に際して自動のスペルチェック機能が追加される。</p></td>
+<td><p>安定した初の Windows 向けリリース。新たに <a href="https://ja.wikipedia.org/wiki/:en:Web-safe_fonts" title="wikilink">CSS ウェブフォント</a>[94] とアニメ[95]が導入され、それから <a href="../Page/Scalable_Vector_Graphics.md" title="wikilink">SVG</a> 及び <a href="../Page/HTML5.md" title="wikilink">HTML5</a> に於けるメディア[96]の扱いが改善された。パフォーマンス改善。検索に際して自動のスペルチェック機能が追加される。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1981,7 +1981,7 @@ Windows 7</p></td>
 <td><p>5.1.7</p></td>
 <td><p>534.57.2</p></td>
 <td><p>2012年5月9日</p></td>
-<td><p>Windows系統では最後のバージョン。<a href="https://ja.wikipedia.org/wiki/セキュリティホール" title="wikilink">セキュリティホール</a>が存在するが修正版は出ていない[99]。</p></td>
+<td><p>Windows系統では最後のバージョン。<a href="../Page/セキュリティホール.md" title="wikilink">セキュリティホール</a>が存在するが修正版は出ていない[99]。</p></td>
 <td></td>
 <td></td>
 </tr>

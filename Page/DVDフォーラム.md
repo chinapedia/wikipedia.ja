@@ -7,7 +7,7 @@
 
 ### 経緯
 
-高画質な映像が記録可能な次世代の[光ディスク](https://ja.wikipedia.org/wiki/光ディスク "wikilink")として、[ソニー](../Page/ソニー.md "wikilink")及び[フィリップス](https://ja.wikipedia.org/wiki/フィリップス "wikilink")が[MMCDを](https://ja.wikipedia.org/wiki/MultiMedia_Compact_Disc "wikilink")、[東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")、[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")その他大手家電メーカーが[SDをそれぞれ開発し](https://ja.wikipedia.org/wiki/Super_Density_Disc "wikilink")、製品化を目指していたが、規格分裂を回避するため両者が歩み寄り、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に**DVDコンソーシアム**を発足させ、両規格を融合させる形で現在のDVD規格を策定した。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に、よりオープンな組織として『DVDフォーラム』に改組された。DVDの規格はデファクトとなった。
+高画質な映像が記録可能な次世代の[光ディスク](../Page/光ディスク.md "wikilink")として、[ソニー](../Page/ソニー.md "wikilink")及び[フィリップス](../Page/フィリップス.md "wikilink")が[MMCDを](https://ja.wikipedia.org/wiki/MultiMedia_Compact_Disc "wikilink")、[東芝](../Page/東芝.md "wikilink")、[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")その他大手家電メーカーが[SDをそれぞれ開発し](https://ja.wikipedia.org/wiki/Super_Density_Disc "wikilink")、製品化を目指していたが、規格分裂を回避するため両者が歩み寄り、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に**DVDコンソーシアム**を発足させ、両規格を融合させる形で現在のDVD規格を策定した。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に、よりオープンな組織として『DVDフォーラム』に改組された。DVDの規格はデファクトとなった。
 
 ### 記録型DVDでの分裂
 
@@ -15,13 +15,13 @@
 
 ### 第3世代光ディスクへ
 
-[第3世代光ディスク](https://ja.wikipedia.org/wiki/第3世代光ディスク "wikilink")（当時「次世代DVD」と呼ばれる）の一種である[HD DVDはDVDフォーラムにより制定されたが](https://ja.wikipedia.org/wiki/HD_DVD "wikilink")、これに対抗してソニー、フィリップス、パナソニックほか多数企業は「Blu-ray Disc Association」を構成し[Blu-ray Discを推進した](https://ja.wikipedia.org/wiki/Blu-ray_Disc "wikilink")。規格争いの結果、Blu-ray Discがデファクトとなった。
+[第3世代光ディスク](../Page/第3世代光ディスク.md "wikilink")（当時「次世代DVD」と呼ばれる）の一種である[HD DVDはDVDフォーラムにより制定されたが](../Page/HD_DVD.md "wikilink")、これに対抗してソニー、フィリップス、パナソニックほか多数企業は「Blu-ray Disc Association」を構成し[Blu-ray Discを推進した](../Page/Blu-ray_Disc.md "wikilink")。規格争いの結果、Blu-ray Discがデファクトとなった。
 
 ## 参加企業
 
 (アルファベット順。2008年4月現在)
 
-  - Hitachi, Ltd.（[日立製作所](https://ja.wikipedia.org/wiki/日立製作所 "wikilink")）
+  - Hitachi, Ltd.（[日立製作所](../Page/日立製作所.md "wikilink")）
   - [IBM Corporation](../Page/IBM.md "wikilink")
   - Industrial Technology Research Institute
   - [Intel Corporation](https://ja.wikipedia.org/wiki/インテル "wikilink")
@@ -29,18 +29,18 @@
   - Matsushita Electric Industrial Co. Ltd.（松下電器産業）（現 Panasonic Corporation（[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")））
   - Memory-Tech Corporation
   - [Microsoft Corporation](../Page/マイクロソフト.md "wikilink")
-  - Mitsubishi Electric Corporation（[三菱電機](https://ja.wikipedia.org/wiki/三菱電機 "wikilink")）
+  - Mitsubishi Electric Corporation（[三菱電機](../Page/三菱電機.md "wikilink")）
   - NEC Corporation（[日本電気](../Page/日本電気.md "wikilink")）
-  - [Paramount Pictures Corporaton](https://ja.wikipedia.org/wiki/パラマウント映画 "wikilink")
+  - [Paramount Pictures Corporaton](../Page/パラマウント映画.md "wikilink")
   - PIONEER CORPORATION（[パイオニア](https://ja.wikipedia.org/wiki/パイオニア "wikilink")）
-  - [SAMSUNG ELECTRONICS CO., LTD.](https://ja.wikipedia.org/wiki/サムスン電子 "wikilink")
-  - SANYO Electric Co., Ltd.（[三洋電機](https://ja.wikipedia.org/wiki/三洋電機 "wikilink")）
+  - [SAMSUNG ELECTRONICS CO., LTD.](../Page/サムスン電子.md "wikilink")
+  - SANYO Electric Co., Ltd.（[三洋電機](../Page/三洋電機.md "wikilink")）
   - SHARP CORPORATION（[シャープ](../Page/シャープ.md "wikilink")）
   - Sony Corporation（[ソニー](../Page/ソニー.md "wikilink")）
   - [THOMSON](https://ja.wikipedia.org/wiki/トムソン_\(企業\) "wikilink")
-  - Toshiba Corporation（[東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")）
-  - [Walt Disney Pictures and Television](https://ja.wikipedia.org/wiki/ウォルト・ディズニー・カンパニー "wikilink")
-  - [Warner Bros. Entertainment Inc.](https://ja.wikipedia.org/wiki/ワーナー・ブラザース "wikilink")
+  - Toshiba Corporation（[東芝](../Page/東芝.md "wikilink")）
+  - [Walt Disney Pictures and Television](../Page/ウォルト・ディズニー・カンパニー.md "wikilink")
+  - [Warner Bros. Entertainment Inc.](../Page/ワーナー・ブラザース.md "wikilink")
 
 ## 規格
 
@@ -50,8 +50,8 @@
   - [DVD-RW](https://ja.wikipedia.org/wiki/DVD-RW "wikilink")
   - [DVD-R DL](https://ja.wikipedia.org/wiki/DVD-R_DL "wikilink")
   - [DVD-RW DL](https://ja.wikipedia.org/wiki/DVD-RW_DL "wikilink")（発売中止）
-  - [DVD-RAM](https://ja.wikipedia.org/wiki/DVD-RAM "wikilink")
-  - [DVD-VR](https://ja.wikipedia.org/wiki/DVD-VR "wikilink")
+  - [DVD-RAM](../Page/DVD-RAM.md "wikilink")
+  - [DVD-VR](../Page/DVD-VR.md "wikilink")
   - [DVD-Video](../Page/DVD-Video.md "wikilink")
 
 ### HD DVD規格

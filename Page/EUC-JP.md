@@ -3,15 +3,15 @@
 
 **EUC-JP**（**E**xtended **U**NIX **C**ode Packed Format for **J**a**p**anese、**日本語EUC**）は[UNIX](../Page/UNIX.md "wikilink")上で[日本語](../Page/日本語.md "wikilink")の文字を扱う場合に利用されてきた[文字コード](../Page/文字コード.md "wikilink")（[符号化方式](https://ja.wikipedia.org/wiki/文字符号化方式 "wikilink")）のひとつである。UNIX以外の[OS上で使われることもある](../Page/オペレーティングシステム.md "wikilink")。
 
-[1980年代](../Page/1980年代.md "wikilink")前半、日本語UNIXシステム諮問委員会がUNIXで日本語を扱うための文字コードについて議論を行い、議論の結果をもとに[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")4月に同委員会から報告書が[AT\&T](https://ja.wikipedia.org/wiki/AT&T "wikilink")に出され、AT\&Tにより定められたのがEUC-JPの起こりである。AT\&Tから、*[EUC](https://ja.wikipedia.org/wiki/Extended_Unix_Code "wikilink")*（Extended UNIX Codeの略）として日本語に限らず[多言語](https://ja.wikipedia.org/wiki/多言語 "wikilink")に対応できるように定められ、EUCのうち日本語を扱うものを特にEUC-JPなどと呼ぶ。他に、[EUC-KR](https://ja.wikipedia.org/wiki/EUC-KR "wikilink")（韓国語）、[EUC-CN](https://ja.wikipedia.org/wiki/EUC-CN "wikilink")（簡体中国語）等がある。
+[1980年代](../Page/1980年代.md "wikilink")前半、日本語UNIXシステム諮問委員会がUNIXで日本語を扱うための文字コードについて議論を行い、議論の結果をもとに[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")4月に同委員会から報告書が[AT\&T](../Page/AT&T.md "wikilink")に出され、AT\&Tにより定められたのがEUC-JPの起こりである。AT\&Tから、*[EUC](../Page/Extended_Unix_Code.md "wikilink")*（Extended UNIX Codeの略）として日本語に限らず[多言語](../Page/多言語.md "wikilink")に対応できるように定められ、EUCのうち日本語を扱うものを特にEUC-JPなどと呼ぶ。他に、[EUC-KR](https://ja.wikipedia.org/wiki/EUC-KR "wikilink")（韓国語）、[EUC-CN](https://ja.wikipedia.org/wiki/EUC-CN "wikilink")（簡体中国語）等がある。
 
-EUCの[エンコード方式上に](https://ja.wikipedia.org/wiki/文字符号化方式 "wikilink")[ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink")と[JIS X 0208文字集合を配置したもので](https://ja.wikipedia.org/wiki/JIS_X_0208 "wikilink")、[半角カナ](https://ja.wikipedia.org/wiki/半角カナ "wikilink") ([JIS X 0201](https://ja.wikipedia.org/wiki/JIS_X_0201 "wikilink")) とJIS補助漢字 ([JIS X 0212](https://ja.wikipedia.org/wiki/JIS_X_0212 "wikilink")) も含むことができる。半角カナと補助漢字を使用しない場合は、JIS X 0208で規定されている符号化方式「国際基準版・漢字用8ビット符号」と同一となる。[ISO/IEC 2022に適合する](https://ja.wikipedia.org/wiki/ISO/IEC_2022 "wikilink")。
+EUCの[エンコード方式上に](https://ja.wikipedia.org/wiki/文字符号化方式 "wikilink")[ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink")と[JIS X 0208文字集合を配置したもので](../Page/JIS_X_0208.md "wikilink")、[半角カナ](../Page/半角カナ.md "wikilink") ([JIS X 0201](https://ja.wikipedia.org/wiki/JIS_X_0201 "wikilink")) とJIS補助漢字 ([JIS X 0212](../Page/JIS_X_0212.md "wikilink")) も含むことができる。半角カナと補助漢字を使用しない場合は、JIS X 0208で規定されている符号化方式「国際基準版・漢字用8ビット符号」と同一となる。[ISO/IEC 2022に適合する](https://ja.wikipedia.org/wiki/ISO/IEC_2022 "wikilink")。
 
-日本語文字は[JIS X 0208をGR領域に表現したものを基本としており](https://ja.wikipedia.org/wiki/JIS_X_0208 "wikilink")、2バイトで表現され、1バイト目、2バイト目ともに0x80 - 0xFFの範囲内にある。このため英数字と日本語文字の区別がしやすく、[プログラム上での扱いが楽である](https://ja.wikipedia.org/wiki/プログラム_\(コンピュータ\) "wikilink")。ただし、半角カナは[ISO-2022-JP](https://ja.wikipedia.org/wiki/ISO-2022-JP "wikilink")や[Shift_JIS](../Page/Shift_JIS.md "wikilink")と異なり制御文字SS2（シングルシフトツー、0x8E）に続けて現れるので都合2バイト、補助漢字は制御文字SS3（シングルシフトスリー、0x8F）に続けて現れるので都合3バイトを要する。
+日本語文字は[JIS X 0208をGR領域に表現したものを基本としており](../Page/JIS_X_0208.md "wikilink")、2バイトで表現され、1バイト目、2バイト目ともに0x80 - 0xFFの範囲内にある。このため英数字と日本語文字の区別がしやすく、[プログラム上での扱いが楽である](../Page/プログラム_\(コンピュータ\).md "wikilink")。ただし、半角カナは[ISO-2022-JP](../Page/ISO-2022-JP.md "wikilink")や[Shift_JIS](../Page/Shift_JIS.md "wikilink")と異なり制御文字SS2（シングルシフトツー、0x8E）に続けて現れるので都合2バイト、補助漢字は制御文字SS3（シングルシフトスリー、0x8F）に続けて現れるので都合3バイトを要する。
 
-[JIS X 0213](https://ja.wikipedia.org/wiki/JIS_X_0213 "wikilink"):2004に対応するEUCコードは[EUC-JIS-2004](https://ja.wikipedia.org/wiki/EUC-JIS-2004 "wikilink")（2000年初版時はEUC-JISX0213）。
+[JIS X 0213](../Page/JIS_X_0213.md "wikilink"):2004に対応するEUCコードは[EUC-JIS-2004](../Page/EUC-JIS-2004.md "wikilink")（2000年初版時はEUC-JISX0213）。
 
-UNIX系OSの標準的な文字エンコードとして使用されてきた。 日本語の8万字の文字鏡フォントを含む[今昔文字鏡](https://ja.wikipedia.org/wiki/今昔文字鏡 "wikilink")が出た1997年以降は、より多くの日本語を扱うことができるよう[UTF-8](https://ja.wikipedia.org/wiki/UTF-8 "wikilink"), [UTF-16](https://ja.wikipedia.org/wiki/UTF-16 "wikilink")を使用したシステムも普及している。
+UNIX系OSの標準的な文字エンコードとして使用されてきた。 日本語の8万字の文字鏡フォントを含む[今昔文字鏡](../Page/今昔文字鏡.md "wikilink")が出た1997年以降は、より多くの日本語を扱うことができるよう[UTF-8](../Page/UTF-8.md "wikilink"), [UTF-16](../Page/UTF-16.md "wikilink")を使用したシステムも普及している。
 
 ## EUC-JPの亜種
 
@@ -19,7 +19,7 @@ EUC-JPには亜種が存在する。二種類を以下に解説する。
 
 **eucJP-ms**は、[オープン・グループ](https://ja.wikipedia.org/wiki/オープン・グループ "wikilink")及び[日本ベンダ協議会](https://ja.wikipedia.org/wiki/日本ベンダ協議会 "wikilink")が策定した文字符号化方式。実装例は[MySQL](https://ja.wikipedia.org/wiki/MySQL "wikilink") v5.0以降等。
 
-**CP51932**は[マイクロソフト](../Page/マイクロソフト.md "wikilink")が[Windowsで使用している](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Windows-31JのEUC](https://ja.wikipedia.org/wiki/Microsoftコードページ932 "wikilink")-JP互換表現。実装例は[Internet Explorer](../Page/Internet_Explorer.md "wikilink")4.0以降、[EmEditor](https://ja.wikipedia.org/wiki/EmEditor "wikilink")、[秀丸エディタ](https://ja.wikipedia.org/wiki/秀丸エディタ "wikilink")等。このコードは[NECの](../Page/日本電気.md "wikilink")[PC-9800シリーズ](https://ja.wikipedia.org/wiki/PC-9800シリーズ "wikilink")の漢字コード（9区から12区の特殊文字を除外したもの）を[GR](https://ja.wikipedia.org/wiki/GR "wikilink")表現したような体裁を持つ。ただし、PC-9800シリーズの漢字コードは[JIS C 6226](https://ja.wikipedia.org/wiki/JIS_C_6226 "wikilink")-1978をベースにするのに対して、CP51932は[JIS X 0208](https://ja.wikipedia.org/wiki/JIS_X_0208 "wikilink")-1990をベースとする点が異なる。
+**CP51932**は[マイクロソフト](../Page/マイクロソフト.md "wikilink")が[Windowsで使用している](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Windows-31JのEUC](../Page/Microsoftコードページ932.md "wikilink")-JP互換表現。実装例は[Internet Explorer](../Page/Internet_Explorer.md "wikilink")4.0以降、[EmEditor](../Page/EmEditor.md "wikilink")、[秀丸エディタ](../Page/秀丸エディタ.md "wikilink")等。このコードは[NECの](../Page/日本電気.md "wikilink")[PC-9800シリーズ](../Page/PC-9800シリーズ.md "wikilink")の漢字コード（9区から12区の特殊文字を除外したもの）を[GR](../Page/GR.md "wikilink")表現したような体裁を持つ。ただし、PC-9800シリーズの漢字コードは[JIS C 6226](https://ja.wikipedia.org/wiki/JIS_C_6226 "wikilink")-1978をベースにするのに対して、CP51932は[JIS X 0208](../Page/JIS_X_0208.md "wikilink")-1990をベースとする点が異なる。
 
 <table>
 <thead>

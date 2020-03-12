@@ -1,9 +1,9 @@
 > この記事は[MEIMU](https://ja.wikipedia.org/wiki/MEIMU)から翻訳されています。
 
 
-**MEIMU**（めいむ、本名：**内山 孝**、[1963年](https://ja.wikipedia.org/wiki/1963年 "wikilink")[9月24日](https://ja.wikipedia.org/wiki/9月24日 "wikilink") - ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身。本郷高校デザイン科卒業。[大阪芸術大学](https://ja.wikipedia.org/wiki/大阪芸術大学 "wikilink")在学中に商業誌にデビューする。妻は漫画家の[佐々木みすず](https://ja.wikipedia.org/wiki/佐々木みすず "wikilink")。漫画家の[克・亜樹](../Page/克・亜樹.md "wikilink")は大学時代の同級生 。
+**MEIMU**（めいむ、本名：**内山 孝**、[1963年](../Page/1963年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink") - ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身。本郷高校デザイン科卒業。[大阪芸術大学](../Page/大阪芸術大学.md "wikilink")在学中に商業誌にデビューする。妻は漫画家の[佐々木みすず](../Page/佐々木みすず.md "wikilink")。漫画家の[克・亜樹](../Page/克・亜樹.md "wikilink")は大学時代の同級生 。
 
-代表作は『DEATH MASK』『ぷっぷくマロロン』『[キカイダー02](https://ja.wikipedia.org/wiki/キカイダー02 "wikilink")』など。小説などからの[漫画化作品もある](https://ja.wikipedia.org/wiki/コミカライズ "wikilink")。『[スターオーシャン](https://ja.wikipedia.org/wiki/スターオーシャン "wikilink")』（第一作）の[キャラクターデザイン](https://ja.wikipedia.org/wiki/キャラクターデザイン "wikilink")も務めた。
+代表作は『DEATH MASK』『ぷっぷくマロロン』『[キカイダー02](../Page/キカイダー02.md "wikilink")』など。小説などからの[漫画化作品もある](https://ja.wikipedia.org/wiki/コミカライズ "wikilink")。『[スターオーシャン](../Page/スターオーシャン.md "wikilink")』（第一作）の[キャラクターデザイン](../Page/キャラクターデザイン.md "wikilink")も務めた。
 
 ## 作品リスト
 
@@ -32,32 +32,32 @@
 ### 原案もの
 
   - 愛と哀しみのバンパイア（ソーサリアンシリーズ）
-  - [ラプラスの魔](https://ja.wikipedia.org/wiki/ラプラスの魔_\(コンピュータゲーム\) "wikilink")（原案：[安田均](https://ja.wikipedia.org/wiki/安田均 "wikilink")）
+  - [ラプラスの魔](https://ja.wikipedia.org/wiki/ラプラスの魔_\(コンピュータゲーム\) "wikilink")（原案：[安田均](../Page/安田均.md "wikilink")）
   - KISS.(原作：今関あきよし）
 
 ### コミカライズ
 
-  - [鈴木光司](https://ja.wikipedia.org/wiki/鈴木光司 "wikilink")原作
-  - [リング2](https://ja.wikipedia.org/wiki/リング2 "wikilink")（[脚本](https://ja.wikipedia.org/wiki/脚本 "wikilink")：[高橋洋](https://ja.wikipedia.org/wiki/高橋洋_\(映画監督\) "wikilink")）
-  - [バースデイ](https://ja.wikipedia.org/wiki/バースデイ_\(鈴木光司の小説\) "wikilink")
-  - [リング0 バースデイ](https://ja.wikipedia.org/wiki/リング0_バースデイ "wikilink")
-  - [仄暗い水の底から](https://ja.wikipedia.org/wiki/仄暗い水の底から "wikilink")
+  - [鈴木光司](../Page/鈴木光司.md "wikilink")原作
+  - [リング2](../Page/リング2.md "wikilink")（[脚本](../Page/脚本.md "wikilink")：[高橋洋](../Page/高橋洋_\(映画監督\).md "wikilink")）
+  - [バースデイ](../Page/バースデイ_\(鈴木光司の小説\).md "wikilink")
+  - [リング0 バースデイ](../Page/リング0_バースデイ.md "wikilink")
+  - [仄暗い水の底から](../Page/仄暗い水の底から.md "wikilink")
   - 貞子
-  - [石森章太郎原作](https://ja.wikipedia.org/wiki/石ノ森章太郎 "wikilink")
-  - [キカイダー02](https://ja.wikipedia.org/wiki/キカイダー02 "wikilink")
+  - [石森章太郎原作](../Page/石ノ森章太郎.md "wikilink")
+  - [キカイダー02](../Page/キカイダー02.md "wikilink")
   - イナズマンVSキカイダー
   - [仮面ライダー龍騎 13 RIDERS THE COMIC](https://ja.wikipedia.org/wiki/仮面ライダー龍騎_13_RIDERS_THE_COMIC "wikilink")
-  - [スカルマン](https://ja.wikipedia.org/wiki/スカルマン "wikilink")
-  - [玩具修理者](https://ja.wikipedia.org/wiki/玩具修理者 "wikilink")（[小林泰三](https://ja.wikipedia.org/wiki/小林泰三 "wikilink")）
-  - [呪怨](https://ja.wikipedia.org/wiki/呪怨 "wikilink")/JUON
+  - [スカルマン](../Page/スカルマン.md "wikilink")
+  - [玩具修理者](../Page/玩具修理者.md "wikilink")（[小林泰三](../Page/小林泰三.md "wikilink")）
+  - [呪怨](../Page/呪怨.md "wikilink")/JUON
   - 呪怨2
-  - [機動戦士ガンダム MS IGLOO 603](https://ja.wikipedia.org/wiki/機動戦士ガンダム_MS_IGLOO "wikilink")
+  - [機動戦士ガンダム MS IGLOO 603](../Page/機動戦士ガンダム_MS_IGLOO.md "wikilink")
   - MS IGLOO 黙示録 0079
   - MS IGLOO2 重力戦線
 
 ### キャラクターデザイン
 
-  - [スターオーシャン](https://ja.wikipedia.org/wiki/スターオーシャン "wikilink")
+  - [スターオーシャン](../Page/スターオーシャン.md "wikilink")
 
 ### アニメーション
 
@@ -65,7 +65,7 @@
 
 ## アシスタント
 
-  - [えすのサカエ](https://ja.wikipedia.org/wiki/えすのサカエ "wikilink")
+  - [えすのサカエ](../Page/えすのサカエ.md "wikilink")
 
 ## 外部リンク
 

@@ -1,7 +1,7 @@
 > この記事は[GW](https://ja.wikipedia.org/wiki/GW)から翻訳されています。
 
 
-**GW近似**（ジー・ダブルきんじ、）とは[量子力学](https://ja.wikipedia.org/wiki/量子力学 "wikilink")の近似法の一つで、[電子](https://ja.wikipedia.org/wiki/電子 "wikilink")の[グリーン関数](https://ja.wikipedia.org/wiki/グリーン関数 "wikilink")  と遮蔽されたクーロンポテンシャル  の積を電子の[自己エネルギー](https://ja.wikipedia.org/wiki/自己エネルギー "wikilink")  とする近似方法。
+**GW近似**（ジー・ダブルきんじ、）とは[量子力学](https://ja.wikipedia.org/wiki/量子力学 "wikilink")の近似法の一つで、[電子](https://ja.wikipedia.org/wiki/電子 "wikilink")の[グリーン関数](../Page/グリーン関数.md "wikilink")  と遮蔽されたクーロンポテンシャル  の積を電子の[自己エネルギー](https://ja.wikipedia.org/wiki/自己エネルギー "wikilink")  とする近似方法。
 
 GW近似の意味で[自己無撞着](https://ja.wikipedia.org/wiki/自己無撞着 "wikilink")なグリーン関数ではなく、[LDAのグリーン関数が用いられる事が多い](../Page/局所密度近似.md "wikilink")。
 
@@ -9,7 +9,7 @@ GW近似の意味で[自己無撞着](https://ja.wikipedia.org/wiki/自己無撞
 
 GW近似ではKohn-Sham状態のような仮想状態ではなく物理的な[準粒子](https://ja.wikipedia.org/wiki/準粒子 "wikilink")状態を近似計算するため、[電子エネルギー損失スペクトル](https://ja.wikipedia.org/wiki/電子エネルギー損失スペクトル "wikilink")や[光吸収スペクトル](https://ja.wikipedia.org/wiki/光吸収スペクトル "wikilink")を[密度汎関数法](https://ja.wikipedia.org/wiki/密度汎関数法 "wikilink")より正確に計算できる。
 
-さらに実験結果との不一致を軽減するには[ベーテ・サルピータ方程式](https://ja.wikipedia.org/wiki/ベーテ・サルピータ方程式 "wikilink")をもちいて電子-ホール対まで考慮すればよい。また、スペクトルの計算は[時間依存密度汎関数法](https://ja.wikipedia.org/wiki/時間依存密度汎関数法 "wikilink")(TDDFT)でも可能である。
+さらに実験結果との不一致を軽減するには[ベーテ・サルピータ方程式](https://ja.wikipedia.org/wiki/ベーテ・サルピータ方程式 "wikilink")をもちいて電子-ホール対まで考慮すればよい。また、スペクトルの計算は[時間依存密度汎関数法](../Page/時間依存密度汎関数法.md "wikilink")(TDDFT)でも可能である。
 
 ## 名称の由来
 

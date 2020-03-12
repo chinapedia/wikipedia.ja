@@ -1,7 +1,7 @@
 > この記事は[Lifehack](https://ja.wikipedia.org/wiki/Lifehack)から翻訳されています。
 
 
-**LifeHack**（ライフハック）は、[情報処理](https://ja.wikipedia.org/wiki/情報処理 "wikilink")業界を中心とした「仕事術」のことで、いかに作業を簡便かつ効率良く行うかを主眼としたテクニック群\[1\]である。[ハッカー文化](https://ja.wikipedia.org/wiki/ハッカー文化 "wikilink")の一つ。
+**LifeHack**（ライフハック）は、[情報処理](../Page/情報処理.md "wikilink")業界を中心とした「仕事術」のことで、いかに作業を簡便かつ効率良く行うかを主眼としたテクニック群\[1\]である。[ハッカー文化](../Page/ハッカー文化.md "wikilink")の一つ。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 これはいい意味での[ハッカー](../Page/ハッカー.md "wikilink")や[ギーク](../Page/ギーク.md "wikilink")（技術に対して[マニア](../Page/マニア.md "wikilink")又は[おたく](../Page/おたく.md "wikilink")ないし[フェチ](../Page/フェチ.md "wikilink")な傾向にある者）でもトップクラスの人々（いわゆる[ウィザード](../Page/ウィザード.md "wikilink")や[グル](../Page/グル.md "wikilink")という尊称を贈られる者たち）の過剰ともいえる生産性の高さの秘訣として様々な手法が紹介され、日本では2005年春頃から技術者筋や技術愛好者筋を中心に関心を集めるようになった。
 
-方法論としては自身の生活や仕事のスタイルにおいて「気の利いた手段で、もっと快適に、もっと楽して、もっと効率良く」という方法を得ようとしていくことにほかならないが、これを[コンピュータ](../Page/コンピュータ.md "wikilink")やシステムを解析し追求するように体系化していったものがいわゆるLifeHackである。これはコンピュータを使いやすいように工夫するというものから、[ガジェット](https://ja.wikipedia.org/wiki/ガジェット "wikilink")（気の利いた小物・小道具）を使いこなす、さらには人間の生理機能上で効率良く作業するための方法論（→[人間工学](https://ja.wikipedia.org/wiki/人間工学 "wikilink")）まで多岐にわたる。
+方法論としては自身の生活や仕事のスタイルにおいて「気の利いた手段で、もっと快適に、もっと楽して、もっと効率良く」という方法を得ようとしていくことにほかならないが、これを[コンピュータ](../Page/コンピュータ.md "wikilink")やシステムを解析し追求するように体系化していったものがいわゆるLifeHackである。これはコンピュータを使いやすいように工夫するというものから、[ガジェット](https://ja.wikipedia.org/wiki/ガジェット "wikilink")（気の利いた小物・小道具）を使いこなす、さらには人間の生理機能上で効率良く作業するための方法論（→[人間工学](../Page/人間工学.md "wikilink")）まで多岐にわたる。
 
 例えば、「繰り返し作業になりやすいExcelでの打ち込み作業をVBAやマクロを使用することで作業を最小化」「UNIX系OSの環境構築や設定をシェルやスクリプトなどでオートメーション化」などの実作業における作業時間短縮の工夫はいうまでもなく、「わざとノイズの中で作業することで生産性を上げる\[3\]」「昼休み中などに、いかに上手に机に突っ伏して[寝るか](../Page/睡眠.md "wikilink")\[4\]」といった、作業者の生理的観点における工夫もLifeHackと言える。（15〜20分程度の[昼寝](../Page/昼寝.md "wikilink")が午後の仕事の効率を上げるとされている\[5\]）。
 
@@ -21,26 +21,26 @@
 
   - [合理化](https://ja.wikipedia.org/wiki/合理化 "wikilink")
 
-  - [生産性](https://ja.wikipedia.org/wiki/生産性 "wikilink")
+  - [生産性](../Page/生産性.md "wikilink")
 
-  - [Getting Things Done](https://ja.wikipedia.org/wiki/Getting_Things_Done "wikilink") - LifeHackに付随する概念。
+  - [Getting Things Done](../Page/Getting_Things_Done.md "wikilink") - LifeHackに付随する概念。
 
   - [ジュガール](https://ja.wikipedia.org/wiki/ジュガール "wikilink") - インドなど南アジアの諸言語で見られる類似の概念。
 
   - \- 類似の概念
 
-  - [裏技](https://ja.wikipedia.org/wiki/裏技 "wikilink") - 類似の概念
+  - [裏技](../Page/裏技.md "wikilink") - 類似の概念
 
   - \- 家事の方法論
 
-  - [アフォーダンス](https://ja.wikipedia.org/wiki/アフォーダンス "wikilink") - 人をある行為に誘導するためのヒントを示す事
+  - [アフォーダンス](../Page/アフォーダンス.md "wikilink") - 人をある行為に誘導するためのヒントを示す事
 
   - \- 強制ではなく自発的に望ましい行動を人々に促すこと
 
   -
-  - [習慣](https://ja.wikipedia.org/wiki/習慣 "wikilink")
+  - [習慣](../Page/習慣.md "wikilink")
 
-  - [ハッカー](../Page/ハッカー.md "wikilink") - [ハッカー文化](https://ja.wikipedia.org/wiki/ハッカー文化 "wikilink")
+  - [ハッカー](../Page/ハッカー.md "wikilink") - [ハッカー文化](../Page/ハッカー文化.md "wikilink")
 
   - [ギーク](../Page/ギーク.md "wikilink") - [ナード](../Page/ナード.md "wikilink")
 

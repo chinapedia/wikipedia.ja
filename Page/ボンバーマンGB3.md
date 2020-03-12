@@ -165,10 +165,10 @@
 <td><p>1</p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ニンテンドー3DS" title="wikilink">ニンテンドー3DS</a><br />
-（<a href="https://ja.wikipedia.org/wiki/バーチャルコンソール" title="wikilink">バーチャルコンソール</a>）</p></td>
+（<a href="../Page/バーチャルコンソール.md" title="wikilink">バーチャルコンソール</a>）</p></td>
 <td><p>ボンバーマンGB3</p></td>
 <td><p>ハドソン</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/コナミデジタルエンタテインメント" title="wikilink">KDE</a></p></td>
+<td><p><a href="../Page/コナミデジタルエンタテインメント.md" title="wikilink">KDE</a></p></td>
 <td><p><a href="../Page/ダウンロード販売.md" title="wikilink">ダウンロード</a></p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>

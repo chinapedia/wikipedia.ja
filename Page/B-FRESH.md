@@ -1,7 +1,7 @@
 > この記事は[B-FRESH](https://ja.wikipedia.org/wiki/B-FRESH)から翻訳されています。
 
 
-**B-FRESH**（ビー・フレシュ）は[日本のヒップホップ](https://ja.wikipedia.org/wiki/日本のヒップホップ "wikilink")[ユニットである](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")。1988年結成。1991年[キングレコード](../Page/キングレコード.md "wikilink")よりデビュー。
+**B-FRESH**（ビー・フレシュ）は[日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")[ユニットである](../Page/音楽ユニット.md "wikilink")。1988年結成。1991年[キングレコード](../Page/キングレコード.md "wikilink")よりデビュー。
 
 ## メンバー
 
@@ -13,8 +13,8 @@
 
 ### 元メンバー
 
-  - **[DJ KRUSH](https://ja.wikipedia.org/wiki/DJ_KRUSH "wikilink")**
-  - **[MURO](https://ja.wikipedia.org/wiki/MURO "wikilink")**
+  - **[DJ KRUSH](../Page/DJ_KRUSH.md "wikilink")**
+  - **[MURO](../Page/MURO.md "wikilink")**
   - **[DJ SEIJI(S.P.C.)](https://ja.wikipedia.org/wiki/DJ_SEIJI\(S.P.C.\) "wikilink")**
 
 ## ディスコグラフィー
@@ -23,7 +23,7 @@
 
 1.  **She said**（1991年5月）
 2.  **セミダブルの無人島**（1998年7月）
-3.  **セミダブルの無人島～夏の恋人達へ～feat.[LITTLE](https://ja.wikipedia.org/wiki/LITTLE "wikilink"),[aile](https://ja.wikipedia.org/wiki/aile "wikilink")**（2004年7月22日）[TBS系](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")「[COUNT DOWN TV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")」2004年7月度オープニングテーマ
+3.  **セミダブルの無人島～夏の恋人達へ～feat.[LITTLE](../Page/LITTLE.md "wikilink"),[aile](https://ja.wikipedia.org/wiki/aile "wikilink")**（2004年7月22日）[TBS系](../Page/TBSテレビ.md "wikilink")「[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")」2004年7月度オープニングテーマ
 
 ### アルバム
 

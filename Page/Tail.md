@@ -1,7 +1,7 @@
 > この記事は[Tail](https://ja.wikipedia.org/wiki/Tail)から翻訳されています。
 
 
-**tail**（テール）は[UNIX](../Page/UNIX.md "wikilink")および[Unix系](https://ja.wikipedia.org/wiki/Unix系 "wikilink")のシステムで、テキスト[ファイルや](https://ja.wikipedia.org/wiki/ファイル_\(コンピュータ\) "wikilink")[パイプ上のデータの末尾から数行を表示する](../Page/パイプ_\(コンピュータ\).md "wikilink")[プログラムである](../Page/プログラム_\(コンピュータ\).md "wikilink")。[Coreutils](https://ja.wikipedia.org/wiki/GNU_Core_Utilities "wikilink") の一部。
+**tail**（テール）は[UNIX](../Page/UNIX.md "wikilink")および[Unix系](../Page/Unix系.md "wikilink")のシステムで、テキスト[ファイルや](../Page/ファイル_\(コンピュータ\).md "wikilink")[パイプ上のデータの末尾から数行を表示する](../Page/パイプ_\(コンピュータ\).md "wikilink")[プログラムである](../Page/プログラム_\(コンピュータ\).md "wikilink")。[Coreutils](../Page/GNU_Core_Utilities.md "wikilink") の一部。
 
 ## 文法
 
@@ -9,7 +9,7 @@
 
 ` tail [options]  `<file_name>
 
-デフォルトでは、`tail`は入力の末尾10行を[標準出力に表示する](https://ja.wikipedia.org/wiki/ファイル記述子 "wikilink")。表示すべき行数はコマンド行オプションで指定でき、表示単位（行、ブロック、バイトなど）も変更できる。以下の例では、*filename*の末尾20行を表示する。
+デフォルトでは、`tail`は入力の末尾10行を[標準出力に表示する](../Page/ファイル記述子.md "wikilink")。表示すべき行数はコマンド行オプションで指定でき、表示単位（行、ブロック、バイトなど）も変更できる。以下の例では、*filename*の末尾20行を表示する。
 
 ` tail -n 20  `*`filename`*
 

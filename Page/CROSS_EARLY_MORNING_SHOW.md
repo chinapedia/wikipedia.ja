@@ -1,13 +1,13 @@
 > この記事は[CROSS EARLY MORNING SHOW](https://ja.wikipedia.org/wiki/CROSS_EARLY_MORNING_SHOW)から翻訳されています。
 
 
-**CROSS EARLY MORNING SHOW**（クロス・アーリー・モーニング・ショー）は、[CROSS FMで放送されていた](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。 [2003年](../Page/2003年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")～[2004年](../Page/2004年.md "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")の毎週月曜日から土曜日の6:00〜7:00、北九州本社第2スタジオから[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")された。
+**CROSS EARLY MORNING SHOW**（クロス・アーリー・モーニング・ショー）は、[CROSS FMで放送されていた](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。 [2003年](../Page/2003年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")～[2004年](../Page/2004年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")の毎週月曜日から土曜日の6:00〜7:00、北九州本社第2スタジオから[生放送](../Page/生放送.md "wikilink")された。
 
 ## 概要
 
   - CROSS FM開局10周年を迎える2003年春の番組改編により、それまで放送されていた「[CROSS RISING LIVE 600](https://ja.wikipedia.org/wiki/CROSS_RISING_LIVE_600 "wikilink")」がリニューアルしてスタートした番組だが、内容はほとんど変化はなかった。
   - ニュースや天気予報に1980年代の洋楽を中心に選曲された音楽を織り交ぜて放送した。
-  - 放送形式は[ナビゲーターが選曲](https://ja.wikipedia.org/wiki/ディスクジョッキー "wikilink")、しゃべり、放送機器の扱いまですべてを1人で行う、いわゆる**ワンマンDJスタイル**で行われた。
+  - 放送形式は[ナビゲーターが選曲](../Page/ディスクジョッキー.md "wikilink")、しゃべり、放送機器の扱いまですべてを1人で行う、いわゆる**ワンマンDJスタイル**で行われた。
 
 ## ナビゲーター
 
@@ -43,7 +43,7 @@
 
 ## エピソードなど
 
-  - 番組の内容はジングル、BGM、メールアドレスが変わった以外、前番組「CROSS RISING LIVE 600」とほとんど変わらない。この番組のタイトルの変更は、この時の番組改編により平日のワイド番組が「[CROSS MORNING SHOW GOOD MORNING DMD](https://ja.wikipedia.org/wiki/CROSS_MORNING_SHOW_GOOD_MORNING_DMD "wikilink")」「[CROSS AFTERNOON SHOW RADIO GOO](https://ja.wikipedia.org/wiki/CROSS_AFTERNOON_SHOW_RADIO_GOO "wikilink")」「[CROSS EVENING SHOW JUST RADIO](https://ja.wikipedia.org/wiki/JUST_RADIO "wikilink")」と「CROSS 〜 SHOW」に画一化されたために合わせたものと思われる。
+  - 番組の内容はジングル、BGM、メールアドレスが変わった以外、前番組「CROSS RISING LIVE 600」とほとんど変わらない。この番組のタイトルの変更は、この時の番組改編により平日のワイド番組が「[CROSS MORNING SHOW GOOD MORNING DMD](../Page/CROSS_MORNING_SHOW_GOOD_MORNING_DMD.md "wikilink")」「[CROSS AFTERNOON SHOW RADIO GOO](../Page/CROSS_AFTERNOON_SHOW_RADIO_GOO.md "wikilink")」「[CROSS EVENING SHOW JUST RADIO](../Page/JUST_RADIO.md "wikilink")」と「CROSS 〜 SHOW」に画一化されたために合わせたものと思われる。
   - この番組の担当ADも前番組「CROSS RISING LIVE 600」からの引き続きであるが、ADがつくのは吉岡純子担当の月・火のみとなり、佐藤忠典担当の水〜土は全てを佐藤1人で放送した。
   - 土曜日の放送では、水〜金で寄せられたリクエストを中心に選曲された。
   - この時期は各生放送番組のエンディングで、次の生放送番組のナビゲーターとのクロストークがあったが、この番組のみクロストークはなかった。

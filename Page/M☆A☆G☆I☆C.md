@@ -1,7 +1,7 @@
 > この記事は[MAGIC](https://ja.wikipedia.org/wiki/MAGIC)から翻訳されています。
 
 
-『**M☆A☆G☆I☆C**』（マジック）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[R\&Bシンガーの](../Page/リズム・アンド・ブルース.md "wikilink")[久保田利伸](https://ja.wikipedia.org/wiki/久保田利伸 "wikilink")と[ヒップホップMCの](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")[KREVA](https://ja.wikipedia.org/wiki/KREVA "wikilink")の2人の[コラボレーション](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")ユニット[久保田利伸 meets KREVAの](../Page/久保田利伸_meets_KREVA.md "wikilink")[シングル](../Page/シングル.md "wikilink")である。発売元は[ソニー・ミュージックエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")。
+『**M☆A☆G☆I☆C**』（マジック）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[R\&Bシンガーの](../Page/リズム・アンド・ブルース.md "wikilink")[久保田利伸](../Page/久保田利伸.md "wikilink")と[ヒップホップMCの](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")[KREVA](../Page/KREVA.md "wikilink")の2人の[コラボレーション](../Page/コラボレーション.md "wikilink")ユニット[久保田利伸 meets KREVAの](../Page/久保田利伸_meets_KREVA.md "wikilink")[シングル](../Page/シングル.md "wikilink")である。発売元は[ソニー・ミュージックエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")。
 
 ## 概要
 
@@ -16,7 +16,7 @@
 2.  **Cymbals '07 -JAM MASTERSIX-**
       -
         words：TOSHINOBU KUBOTA
-        music：TOSHINOBU KUBOTA, [YOICHIRO KAKIZAKI](https://ja.wikipedia.org/wiki/柿崎洋一郎 "wikilink")
+        music：TOSHINOBU KUBOTA, [YOICHIRO KAKIZAKI](../Page/柿崎洋一郎.md "wikilink")
 3.  **M☆A☆G☆I☆C (instrumental)**
 
 ## タイアップ
@@ -25,7 +25,7 @@
 
 ## カヴァー
 
-  - [KREVA](https://ja.wikipedia.org/wiki/KREVA "wikilink")「CONCERT TOUR '09　意味深2」\[LIVE\]DVD（2009年）にて、『Magic Remix (KREVA×三浦大知) 勝手にリミックスシリーズ Vol.2』からの流れで、久保田利伸パートを[三浦大知](https://ja.wikipedia.org/wiki/三浦大知 "wikilink")がカヴァー。
+  - [KREVA](../Page/KREVA.md "wikilink")「CONCERT TOUR '09　意味深2」\[LIVE\]DVD（2009年）にて、『Magic Remix (KREVA×三浦大知) 勝手にリミックスシリーズ Vol.2』からの流れで、久保田利伸パートを[三浦大知](../Page/三浦大知.md "wikilink")がカヴァー。
 
 　　（この『Magic Remix (KREVA×三浦大知)…』は三浦大知の曲『Magic』のリミックスで、『M☆A☆G☆I☆C』とは関係は無い）
 

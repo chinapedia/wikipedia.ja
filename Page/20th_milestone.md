@@ -1,7 +1,7 @@
 > この記事は[20th milestone](https://ja.wikipedia.org/wiki/20th_milestone)から翻訳されています。
 
 
-『**20th milestone**』（トゥエンティース・マイルストーン）は、[SION](https://ja.wikipedia.org/wiki/SION "wikilink")が[2007年](../Page/2007年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")に[レスペクト・ミュージック・ジャパン](https://ja.wikipedia.org/wiki/レスペクト・ミュージック・ジャパン "wikilink")からリリースした、18枚目のオリジナルアルバムである。自主製作盤とカバーアルバムを含めると20枚目にあたる。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")の「[新宿の片隅で](https://ja.wikipedia.org/wiki/新宿の片隅で "wikilink")」以来のインディーズからのリリースである。
+『**20th milestone**』（トゥエンティース・マイルストーン）は、[SION](../Page/SION.md "wikilink")が[2007年](../Page/2007年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")に[レスペクト・ミュージック・ジャパン](https://ja.wikipedia.org/wiki/レスペクト・ミュージック・ジャパン "wikilink")からリリースした、18枚目のオリジナルアルバムである。自主製作盤とカバーアルバムを含めると20枚目にあたる。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")の「[新宿の片隅で](../Page/新宿の片隅で.md "wikilink")」以来のインディーズからのリリースである。
 
 ## 収録曲
 
@@ -24,15 +24,15 @@
 
 ## 参加ミュージシャン
 
-  - SION：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ハーモニカ](https://ja.wikipedia.org/wiki/ハーモニカ "wikilink")
+  - SION：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ハーモニカ](../Page/ハーモニカ.md "wikilink")
   - THE MOGAMI
-      - 松田文：[アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")、[マンドリン](../Page/マンドリン.md "wikilink")、[バンジョー](https://ja.wikipedia.org/wiki/バンジョー "wikilink")、[ガットギター](https://ja.wikipedia.org/wiki/ガットギター "wikilink")、[エレクトリックギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")
-      - 藤井一彦（[ザ・グルーヴァーズ](https://ja.wikipedia.org/wiki/ザ・グルーヴァーズ "wikilink")）：エレクトリックギター、アコースティックギター
-      - 井上富雄（元[ルースターズ](https://ja.wikipedia.org/wiki/ルースターズ "wikilink")）：[エレクトリックベース](../Page/エレクトリックベース.md "wikilink")、[ウッドベース](https://ja.wikipedia.org/wiki/ウッドベース "wikilink")
-      - 池畑潤二（[ヒートウェイヴ](https://ja.wikipedia.org/wiki/ヒートウェイヴ "wikilink")、元ルースターズ）：[ドラム](../Page/ドラムセット.md "wikilink")
-      - [細海魚](https://ja.wikipedia.org/wiki/細海魚 "wikilink") （ヒートウェイヴ）：[ハモンドオルガン](../Page/ハモンドオルガン.md "wikilink")、[アコーディオン](https://ja.wikipedia.org/wiki/アコーディオン "wikilink")、[ピアノ](../Page/ピアノ.md "wikilink")
-  - 清水義将（元[CARRIE](https://ja.wikipedia.org/wiki/CARRIE "wikilink")、[惑星](https://ja.wikipedia.org/wiki/惑星_\(バンド\) "wikilink")）：エレクトリックベース
-  - 相澤大樹（[THE YOUTH](https://ja.wikipedia.org/wiki/THE_YOUTH "wikilink")）：ドラム
+      - 松田文：[アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")、[マンドリン](../Page/マンドリン.md "wikilink")、[バンジョー](../Page/バンジョー.md "wikilink")、[ガットギター](https://ja.wikipedia.org/wiki/ガットギター "wikilink")、[エレクトリックギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")
+      - 藤井一彦（[ザ・グルーヴァーズ](../Page/ザ・グルーヴァーズ.md "wikilink")）：エレクトリックギター、アコースティックギター
+      - 井上富雄（元[ルースターズ](../Page/ルースターズ.md "wikilink")）：[エレクトリックベース](../Page/エレクトリックベース.md "wikilink")、[ウッドベース](https://ja.wikipedia.org/wiki/ウッドベース "wikilink")
+      - 池畑潤二（[ヒートウェイヴ](../Page/ヒートウェイヴ.md "wikilink")、元ルースターズ）：[ドラム](../Page/ドラムセット.md "wikilink")
+      - [細海魚](https://ja.wikipedia.org/wiki/細海魚 "wikilink") （ヒートウェイヴ）：[ハモンドオルガン](../Page/ハモンドオルガン.md "wikilink")、[アコーディオン](../Page/アコーディオン.md "wikilink")、[ピアノ](../Page/ピアノ.md "wikilink")
+  - 清水義将（元[CARRIE](https://ja.wikipedia.org/wiki/CARRIE "wikilink")、[惑星](../Page/惑星_\(バンド\).md "wikilink")）：エレクトリックベース
+  - 相澤大樹（[THE YOUTH](../Page/THE_YOUTH.md "wikilink")）：ドラム
   - 永田 "zelly" 健志：エレクトリックギター、アコースティックギター
   - 濱野泰政：エレクトリックベース、ウッドベース
   - 麻生祥一郎（元[HUMMING BIRD](https://ja.wikipedia.org/wiki/HUMMING_BIRD_\(音楽グループ\) "wikilink")）：ドラム

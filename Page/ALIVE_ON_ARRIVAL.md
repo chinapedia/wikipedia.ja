@@ -1,7 +1,7 @@
 > この記事は[ALIVE ON ARRIVAL](https://ja.wikipedia.org/wiki/ALIVE_ON_ARRIVAL)から翻訳されています。
 
 
-『**ALIVE ON ARRIVAL**』（アライブ・オン・アライバル）は、[SION](https://ja.wikipedia.org/wiki/SION "wikilink")が[2003年](../Page/2003年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")に[東芝EMIからリリースした](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")、16枚目のオリジナルアルバムである。東芝EMIにおける最後のオリジナルアルバムである。
+『**ALIVE ON ARRIVAL**』（アライブ・オン・アライバル）は、[SION](../Page/SION.md "wikilink")が[2003年](../Page/2003年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")に[東芝EMIからリリースした](../Page/EMIミュージック・ジャパン.md "wikilink")、16枚目のオリジナルアルバムである。東芝EMIにおける最後のオリジナルアルバムである。
 
 ## 収録曲
 
@@ -24,11 +24,11 @@
 
 ## 参加ミュージシャン
 
-  - SION：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ハーモニカ](https://ja.wikipedia.org/wiki/ハーモニカ "wikilink")
+  - SION：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ハーモニカ](../Page/ハーモニカ.md "wikilink")
   - THE MOGAMI
-      - 松田文：[エレクトリックギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")、[アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")、[バンジョー](https://ja.wikipedia.org/wiki/バンジョー "wikilink")、[マンドリン](../Page/マンドリン.md "wikilink")
+      - 松田文：[エレクトリックギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")、[アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")、[バンジョー](../Page/バンジョー.md "wikilink")、[マンドリン](../Page/マンドリン.md "wikilink")
       - 藤井一彦：エレクトリックギター、アコースティックギター
-      - [細海魚](https://ja.wikipedia.org/wiki/細海魚 "wikilink")：[オルガン](../Page/オルガン.md "wikilink")、アコースティック[ピアノ](../Page/ピアノ.md "wikilink")、[フェンダー・ローズ](https://ja.wikipedia.org/wiki/フェンダー・ローズ "wikilink")、[アコーディオン](https://ja.wikipedia.org/wiki/アコーディオン "wikilink")
+      - [細海魚](https://ja.wikipedia.org/wiki/細海魚 "wikilink")：[オルガン](../Page/オルガン.md "wikilink")、アコースティック[ピアノ](../Page/ピアノ.md "wikilink")、[フェンダー・ローズ](https://ja.wikipedia.org/wiki/フェンダー・ローズ "wikilink")、[アコーディオン](../Page/アコーディオン.md "wikilink")
       - 井上富雄：[エレクトリックベース](../Page/エレクトリックベース.md "wikilink")
       - 池畑潤二：[ドラム](../Page/ドラムセット.md "wikilink")、[パーカッション](../Page/パーカッション.md "wikilink")
   - Mogamy Kings Guitar Orchestra

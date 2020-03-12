@@ -1,9 +1,9 @@
 > この記事は[SION comes](https://ja.wikipedia.org/wiki/SION_comes)から翻訳されています。
 
 
-『**SION comes**』（シオン・カムス）は、[SION](https://ja.wikipedia.org/wiki/SION "wikilink")が[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")に[東芝EMIからリリースした](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")、12枚目のオリジナルアルバムである。
+『**SION comes**』（シオン・カムス）は、[SION](../Page/SION.md "wikilink")が[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")に[東芝EMIからリリースした](../Page/EMIミュージック・ジャパン.md "wikilink")、12枚目のオリジナルアルバムである。
 
-「お前がいる」は[V6の](../Page/V6_\(グループ\).md "wikilink")[井ノ原快彦](https://ja.wikipedia.org/wiki/井ノ原快彦 "wikilink")に提供され、アルバム『SUPER HEROS』に収録されている。
+「お前がいる」は[V6の](../Page/V6_\(グループ\).md "wikilink")[井ノ原快彦](../Page/井ノ原快彦.md "wikilink")に提供され、アルバム『SUPER HEROS』に収録されている。
 
 ## 収録曲
 
@@ -29,8 +29,8 @@
   - SION：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")
   - 池畑潤二：[ドラム](../Page/ドラムセット.md "wikilink")
   - [河村智康](https://ja.wikipedia.org/wiki/河村智康 "wikilink")：ドラム
-  - [小田原豊](https://ja.wikipedia.org/wiki/小田原豊 "wikilink")：ドラム
-  - 井上富雄：[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - [小田原豊](../Page/小田原豊.md "wikilink")：ドラム
+  - 井上富雄：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
   - 市川洋二：ベース
   - 藤井一彦：[エレクトリックギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")
   - EBBY：エレクトリックギター

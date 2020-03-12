@@ -1,7 +1,7 @@
 > この記事は[Strange But True](https://ja.wikipedia.org/wiki/Strange_But_True)から翻訳されています。
 
 
-『**Strange But True**』（ストレンジ・バット・トゥルー）は、[SION](https://ja.wikipedia.org/wiki/SION "wikilink")が[1989年](../Page/1989年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")にBAIDIS（[テイチク](https://ja.wikipedia.org/wiki/テイチクエンタテインメント "wikilink")）からリリースした、4枚目のオリジナルアルバムである。「Strange Side」はニューヨーク、「True Side」は東京で録音された。
+『**Strange But True**』（ストレンジ・バット・トゥルー）は、[SION](../Page/SION.md "wikilink")が[1989年](../Page/1989年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")にBAIDIS（[テイチク](../Page/テイチクエンタテインメント.md "wikilink")）からリリースした、4枚目のオリジナルアルバムである。「Strange Side」はニューヨーク、「True Side」は東京で録音された。
 
 ## 収録曲
 
@@ -39,7 +39,7 @@
 
 <!-- end list -->
 
-  - 6 - 作詞：SION・[岡本おさみ](https://ja.wikipedia.org/wiki/岡本おさみ "wikilink")、作曲：SION
+  - 6 - 作詞：SION・[岡本おさみ](../Page/岡本おさみ.md "wikilink")、作曲：SION
   - その他 - 作詞・作曲：SION
 
 ## 参加ミュージシャン
@@ -50,8 +50,8 @@
   - Evan Lurie：[ピアノ](../Page/ピアノ.md "wikilink")、[オルガン](../Page/オルガン.md "wikilink")
   - Alfredo Pedernera：[バンドネオン](../Page/バンドネオン.md "wikilink")
   - Jill Jafee：[ヴァイオリン](../Page/ヴァイオリン.md "wikilink")
-  - [Marc Ribot](https://ja.wikipedia.org/wiki/マーク・リボー "wikilink")：ギター、[バンジョー](https://ja.wikipedia.org/wiki/バンジョー "wikilink")
-  - John Beal：[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - [Marc Ribot](https://ja.wikipedia.org/wiki/マーク・リボー "wikilink")：ギター、[バンジョー](../Page/バンジョー.md "wikilink")
+  - John Beal：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
   - 渡部等：[マンドリン](../Page/マンドリン.md "wikilink")
   - 山口智之：[パーカッション](../Page/パーカッション.md "wikilink")
 
@@ -60,10 +60,10 @@
   - SION：ボーカル、ハーモニカ
   - THE NOIS
       - 松田文：ギター
-      - 小山秀樹：[キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")
+      - 小山秀樹：[キーボード](../Page/キーボード_\(楽器\).md "wikilink")
       - 飯塚幾久夫：ベース
       - 小野口直人：[ドラム](../Page/ドラムセット.md "wikilink")
-  - 尾崎孝：[スティール・ギター](https://ja.wikipedia.org/wiki/スティール・ギター "wikilink")
+  - 尾崎孝：[スティール・ギター](../Page/スティール・ギター.md "wikilink")
   - 山口智之：パーカッション
   - 大矢貞男：ヴァイオリン
 

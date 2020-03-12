@@ -1,7 +1,7 @@
 > この記事は[SION 10+1](https://ja.wikipedia.org/wiki/SION_10+1)から翻訳されています。
 
 
-『**sion 10+1**』（シオン じゅう プラス いち）は、[SION](https://ja.wikipedia.org/wiki/SION "wikilink")の9枚目のオリジナルアルバム。[1994年](../Page/1994年.md "wikilink")[10月10日](../Page/10月10日.md "wikilink")発売。発売元はBAIDIS（[テイチク](https://ja.wikipedia.org/wiki/テイチクエンタテインメント "wikilink")）。
+『**sion 10+1**』（シオン じゅう プラス いち）は、[SION](../Page/SION.md "wikilink")の9枚目のオリジナルアルバム。[1994年](../Page/1994年.md "wikilink")[10月10日](../Page/10月10日.md "wikilink")発売。発売元はBAIDIS（[テイチク](../Page/テイチクエンタテインメント.md "wikilink")）。
 
 ## 解説
 
@@ -40,30 +40,30 @@
 ### 初回封入CD（8cmCD）
 
 1.  **ノスタルジア** (6:11)
-    （作詞：SION & [OKAMOTO](https://ja.wikipedia.org/wiki/岡本おさみ "wikilink") / 作曲：SION / 編曲：[MARC RIBOT](https://ja.wikipedia.org/wiki/マーク・リボー "wikilink")）
+    （作詞：SION & [OKAMOTO](../Page/岡本おさみ.md "wikilink") / 作曲：SION / 編曲：[MARC RIBOT](https://ja.wikipedia.org/wiki/マーク・リボー "wikilink")）
       -
         ミニアルバム『[KNOCK ON THE HEART](https://ja.wikipedia.org/wiki/KNOCK_ON_THE_HEART "wikilink")』に収録されていた楽曲を再録音。
 2.  **SORRY BABY** (6:26)
     （作詞：SION & OKAMOTO / 作曲：SION / 編曲：MARC RIBOT）
       -
-        1stアルバム『[SION](https://ja.wikipedia.org/wiki/SION_\(アルバム\) "wikilink")』に収録されていた楽曲を再録音。
+        1stアルバム『[SION](../Page/SION_\(アルバム\).md "wikilink")』に収録されていた楽曲を再録音。
 
 ## 参加ミュージシャン
 
-  - SION：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")、[ハーモニカ](https://ja.wikipedia.org/wiki/ハーモニカ "wikilink")
+  - SION：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")、[ハーモニカ](../Page/ハーモニカ.md "wikilink")
   - 松田文：ギター
-  - [花田裕之](https://ja.wikipedia.org/wiki/花田裕之 "wikilink")：ギター
-  - 尾崎孝：[スティール・ギター](https://ja.wikipedia.org/wiki/スティール・ギター "wikilink")
+  - [花田裕之](../Page/花田裕之.md "wikilink")：ギター
+  - 尾崎孝：[スティール・ギター](../Page/スティール・ギター.md "wikilink")
   - [Marc Ribot](https://ja.wikipedia.org/wiki/マーク・リボー "wikilink")：ギター
   - 有田純弘：ギター
   - 有山淳司：ギター
   - 徳武弘文：ギター
   - 藤井一彦：ギター
   - ヤマジカズヒデ：ギター
-  - [仲井戸麗市](https://ja.wikipedia.org/wiki/仲井戸麗市 "wikilink")：ギター
+  - [仲井戸麗市](../Page/仲井戸麗市.md "wikilink")：ギター
   - 大矢貞男：[ヴァイオリン](../Page/ヴァイオリン.md "wikilink")
-  - [リクオ](https://ja.wikipedia.org/wiki/リクオ "wikilink")：[ピアノ](../Page/ピアノ.md "wikilink")、[アコーディオン](https://ja.wikipedia.org/wiki/アコーディオン "wikilink")
-  - [早川岳晴](../Page/早川岳晴.md "wikilink")：[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - [リクオ](../Page/リクオ.md "wikilink")：[ピアノ](../Page/ピアノ.md "wikilink")、[アコーディオン](../Page/アコーディオン.md "wikilink")
+  - [早川岳晴](../Page/早川岳晴.md "wikilink")：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
   - 三沢泉：[パーカッション](../Page/パーカッション.md "wikilink")
 
 [Category:SIONのアルバム](https://ja.wikipedia.org/wiki/Category:SIONのアルバム "wikilink") [Category:1994年のアルバム](https://ja.wikipedia.org/wiki/Category:1994年のアルバム "wikilink") [Category:テイチクエンタテインメントのアルバム](https://ja.wikipedia.org/wiki/Category:テイチクエンタテインメントのアルバム "wikilink")

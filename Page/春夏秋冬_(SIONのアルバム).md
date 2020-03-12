@@ -1,13 +1,13 @@
 > この記事は[ \(SION\)](https://ja.wikipedia.org/wiki/_\(SION\))から翻訳されています。
 
 
-『**春夏秋冬**』（しゅんかしゅうとう）は、[SION](https://ja.wikipedia.org/wiki/SION "wikilink")の2枚目のオリジナルアルバム。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[1月21日](../Page/1月21日.md "wikilink")発売。発売元はBAIDIS（[テイチクレコード](https://ja.wikipedia.org/wiki/テイチクエンタテインメント "wikilink")）。
+『**春夏秋冬**』（しゅんかしゅうとう）は、[SION](../Page/SION.md "wikilink")の2枚目のオリジナルアルバム。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[1月21日](../Page/1月21日.md "wikilink")発売。発売元はBAIDIS（[テイチクレコード](../Page/テイチクエンタテインメント.md "wikilink")）。
 
 ## 解説
 
   - 前作『[SION](../Page/SION_\(アルバム\).md "wikilink")』から7ヶ月ぶりに発売された、SIONの2ndアルバム。LPレコード、カセット、CDの3形態で発売された。
   - 1986年2月にはラウンジ・リザーズと共にベーシック録りが行われており、当初はこのアルバムがデビューアルバムになる予定であった。表題曲は[泉谷しげる](../Page/泉谷しげる.md "wikilink")の楽曲のカバーである。
-  - レコーディングは東京と[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")で行われ、ニューヨークのレコーディング・セッションにはラウンジ・リザーズのメンバーが参加している。
+  - レコーディングは東京と[ニューヨーク](../Page/ニューヨーク.md "wikilink")で行われ、ニューヨークのレコーディング・セッションにはラウンジ・リザーズのメンバーが参加している。
   - 2004年3月24日に再発売され、2008年8月27日に紙ジャケット・リマスタリング仕様で再発売された（現在は廃盤）。
   - 発売当時および2004年再発時のCDには「ハード・レイン」「レストレス・ナイト」が収録されていたが、2008年の紙ジャケ盤には収録されていない。
 
@@ -38,7 +38,7 @@
 9.  **やるせない夜** (3:37)
     （作詞・作曲：SION）
 10. **クロージング・タイム** (4:33)
-    （作詞：SION & [OKAMOTO](https://ja.wikipedia.org/wiki/岡本おさみ "wikilink") / 作曲：SION）
+    （作詞：SION & [OKAMOTO](../Page/岡本おさみ.md "wikilink") / 作曲：SION）
       -
         自主制作盤『[新宿の片隅で](../Page/新宿の片隅で.md "wikilink")』に収録されていた楽曲を再録音。
 
@@ -76,7 +76,7 @@
 ## 参加ミュージシャン
 
   - SION：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
-  - John Lurie：[ハーモニカ](https://ja.wikipedia.org/wiki/ハーモニカ "wikilink")
+  - John Lurie：[ハーモニカ](../Page/ハーモニカ.md "wikilink")
   - Evan Lurie：[ピアノ](../Page/ピアノ.md "wikilink")、[オルガン](../Page/オルガン.md "wikilink")
   - [Marc Ribot](https://ja.wikipedia.org/wiki/マーク・リボー "wikilink")：[ギター](../Page/ギター.md "wikilink")、[コルネット](../Page/コルネット.md "wikilink")
   - Roy Nathanson：[サックス](../Page/サクソフォーン.md "wikilink")、[クラリネット](../Page/クラリネット.md "wikilink")
@@ -86,8 +86,8 @@
   - Anton Fier：ドラムス
   - Tony Machine：ドラムス
   - Arto Lindsey：ギター
-  - Charles Giordano：[キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")
+  - Charles Giordano：[キーボード](../Page/キーボード_\(楽器\).md "wikilink")
   - Michal Blair：[パーカッション](../Page/パーカッション.md "wikilink")
-  - Bill Schimmel：[アコーディオン](https://ja.wikipedia.org/wiki/アコーディオン "wikilink")
+  - Bill Schimmel：[アコーディオン](../Page/アコーディオン.md "wikilink")
 
 [Category:SIONのアルバム](https://ja.wikipedia.org/wiki/Category:SIONのアルバム "wikilink") [Category:1987年のアルバム](https://ja.wikipedia.org/wiki/Category:1987年のアルバム "wikilink") [Category:テイチクエンタテインメントのアルバム](https://ja.wikipedia.org/wiki/Category:テイチクエンタテインメントのアルバム "wikilink")

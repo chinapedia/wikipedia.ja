@@ -1,7 +1,7 @@
 > この記事は[I DON\'T LIKE MYSELF](https://ja.wikipedia.org/wiki/I_DON\'T_LIKE_MYSELF)から翻訳されています。
 
 
-『**I DON'T LIKE MYSELF**』（アイ・ドント・ライク・マイセルフ）は、[SION](https://ja.wikipedia.org/wiki/SION "wikilink")の8枚目のオリジナルアルバム。[1993年](../Page/1993年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")発売。発売元はBAIDIS（[テイチク](https://ja.wikipedia.org/wiki/テイチクエンタテインメント "wikilink")）。
+『**I DON'T LIKE MYSELF**』（アイ・ドント・ライク・マイセルフ）は、[SION](../Page/SION.md "wikilink")の8枚目のオリジナルアルバム。[1993年](../Page/1993年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")発売。発売元はBAIDIS（[テイチク](../Page/テイチクエンタテインメント.md "wikilink")）。
 
 ## 解説
 
@@ -43,13 +43,13 @@
 
 ## 参加ミュージシャン
 
-  - SION：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")、[ハーモニカ](https://ja.wikipedia.org/wiki/ハーモニカ "wikilink")
+  - SION：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")、[ハーモニカ](../Page/ハーモニカ.md "wikilink")
   - [Marc Ribot](https://ja.wikipedia.org/wiki/マーク・リボー "wikilink")：[ギター](../Page/ギター.md "wikilink")、アコースティックギター
   - Robert Quine：ギター
   - Sebastian Steinberg：[エレクトリックベース](../Page/エレクトリックベース.md "wikilink")、[アコースティックベース](https://ja.wikipedia.org/wiki/アコースティックベース "wikilink")
   - [Greg Cohen](https://ja.wikipedia.org/wiki/グレッグ・コーエン "wikilink")：エレクトリックベース、アコースティックベース
-  - Michal Blair：[ドラム](../Page/ドラムセット.md "wikilink")、[タンバリン](https://ja.wikipedia.org/wiki/タンバリン "wikilink")、[カウベル](https://ja.wikipedia.org/wiki/カウベル "wikilink")
-  - Charles Giodano：[キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")、[オルガン](../Page/オルガン.md "wikilink")、[アコーディオン](https://ja.wikipedia.org/wiki/アコーディオン "wikilink")
+  - Michal Blair：[ドラム](../Page/ドラムセット.md "wikilink")、[タンバリン](../Page/タンバリン.md "wikilink")、[カウベル](../Page/カウベル.md "wikilink")
+  - Charles Giodano：[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、[オルガン](../Page/オルガン.md "wikilink")、[アコーディオン](../Page/アコーディオン.md "wikilink")
   - John Zone：[サックス](../Page/サクソフォーン.md "wikilink")
   - Zeena Perkins：オルガン、アコーディオン、[ピアノ](../Page/ピアノ.md "wikilink")
   - Syd Straw：[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")

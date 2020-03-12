@@ -5,7 +5,7 @@
 
 ## 略歴
 
-  - キャレスボーカル＆ダンススクール大阪校のレッスン生で結成。PARADISE GO\!\! GO\!\!結成以前より「9SOULS」としてストリートのメッカ[城天にてストリートライヴを敢行](https://ja.wikipedia.org/wiki/大阪城公園 "wikilink")。大阪のイベントに出演するなど地元を中心に活動。
+  - キャレスボーカル＆ダンススクール大阪校のレッスン生で結成。PARADISE GO\!\! GO\!\!結成以前より「9SOULS」としてストリートのメッカ[城天にてストリートライヴを敢行](../Page/大阪城公園.md "wikilink")。大阪のイベントに出演するなど地元を中心に活動。
   - 2004年8月4日、[avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink")[レーベルでシングル](../Page/レコードレーベル.md "wikilink")「恋の運動会」を発売。
   - 2004年8月17日 - 27日、東京・[お台場](../Page/お台場.md "wikilink")の[スタジオドリームメーカー](https://ja.wikipedia.org/wiki/スタジオドリームメーカー "wikilink")で行なわれたミュージカル『BEAT POPS “FIGHTING GIRLS”』に出演し名実ともに東京進出を果たす\[2\]。
   - 2004年12月、地元大阪の[BIG CATで初ワンマンを行ない](https://ja.wikipedia.org/wiki/BIG_CAT "wikilink")600人を動員。
@@ -21,9 +21,9 @@
 ### 解散後
 
   - 松本と伊藤は女性5人組ダンスパフォーマンスユニット「REAL FORCE」に参加。松本はボーカル、伊藤はダンスパフォーマンス。ブログも公開した。
-  - 吉原は同じ事務所の[眞木大輔](https://ja.wikipedia.org/wiki/眞木大輔 "wikilink")が出演している2007年3月公開の映画『[渋谷区円山町](https://ja.wikipedia.org/wiki/渋谷区円山町 "wikilink")』に主演の[榮倉奈々](https://ja.wikipedia.org/wiki/榮倉奈々 "wikilink")が演じる加藤由紀江の親友明日香役として出演した。その後はメディア露出の情報はない。
+  - 吉原は同じ事務所の[眞木大輔](https://ja.wikipedia.org/wiki/眞木大輔 "wikilink")が出演している2007年3月公開の映画『[渋谷区円山町](../Page/渋谷区円山町.md "wikilink")』に主演の[榮倉奈々](https://ja.wikipedia.org/wiki/榮倉奈々 "wikilink")が演じる加藤由紀江の親友明日香役として出演した。その後はメディア露出の情報はない。
   - 森田は[東京ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")のチアダンスグループ[DDSのメンバーとして活動した](https://ja.wikipedia.org/wiki/DDS_\(ユニット\) "wikilink")。
-  - REAL FORCEはブログ閉鎖と同時期に活動も休止した。その後、松本がREAL FORCEでボーカルを務めていたステファニーと[LDH所属の女性](../Page/LDH_\(芸能プロダクション\).md "wikilink")[デュオ](https://ja.wikipedia.org/wiki/二人組 "wikilink")「[Love](https://ja.wikipedia.org/wiki/Love_\(音楽グループ\) "wikilink")」を結成しメジャーデビューすることになったので、PARADISE GO\!\! GO\!\!は事実上解散となった。
+  - REAL FORCEはブログ閉鎖と同時期に活動も休止した。その後、松本がREAL FORCEでボーカルを務めていたステファニーと[LDH所属の女性](../Page/LDH_\(芸能プロダクション\).md "wikilink")[デュオ](../Page/二人組.md "wikilink")「[Love](https://ja.wikipedia.org/wiki/Love_\(音楽グループ\) "wikilink")」を結成しメジャーデビューすることになったので、PARADISE GO\!\! GO\!\!は事実上解散となった。
   - 過去メンバーの藤田は「ハルカ」として歌手･モデル･女優として活動した。
 
 ## メンバー
@@ -234,11 +234,11 @@ AVCD-17769</p></td>
 
 ### タイアップ
 
-  - **恋の運動会** - [関西テレビ](https://ja.wikipedia.org/wiki/関西テレビ "wikilink") 『[トミーズのはらぺこ亭](https://ja.wikipedia.org/wiki/トミーズのはらぺこ亭 "wikilink")』2004年8月 - 10月度エンディングテーマ、神戸「[ビーチバレージャパンカレッジ ぴあカップ](https://ja.wikipedia.org/wiki/全日本ビーチバレー大学男女選手権 "wikilink")」公式ソング
-  - **ZETTAI** - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[元祖\!でぶや](https://ja.wikipedia.org/wiki/元祖!でぶや "wikilink")』2004年10月・11月度エンディングテーマ
-  - **Faraway** - [NHK教育](https://ja.wikipedia.org/wiki/NHK教育 "wikilink")アニメ『[メジャー](https://ja.wikipedia.org/wiki/メジャー_\(アニメ\) "wikilink")』エンディングテーマ
+  - **恋の運動会** - [関西テレビ](https://ja.wikipedia.org/wiki/関西テレビ "wikilink") 『[トミーズのはらぺこ亭](../Page/トミーズのはらぺこ亭.md "wikilink")』2004年8月 - 10月度エンディングテーマ、神戸「[ビーチバレージャパンカレッジ ぴあカップ](https://ja.wikipedia.org/wiki/全日本ビーチバレー大学男女選手権 "wikilink")」公式ソング
+  - **ZETTAI** - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[元祖\!でぶや](../Page/元祖!でぶや.md "wikilink")』2004年10月・11月度エンディングテーマ
+  - **Faraway** - [NHK教育](https://ja.wikipedia.org/wiki/NHK教育 "wikilink")アニメ『[メジャー](../Page/メジャー_\(アニメ\).md "wikilink")』エンディングテーマ
   - **JUST SHINY TONIGHT** - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")系『[さんまのまんま](https://ja.wikipedia.org/wiki/さんまのまんま "wikilink")』エンディングテーマ
-  - **Real Love** - [テレビ東京系アニメ](https://ja.wikipedia.org/wiki/テレビ東京系アニメ "wikilink")『[ゾイドジェネシス](https://ja.wikipedia.org/wiki/ゾイドジェネシス "wikilink")』エンディングテーマ
+  - **Real Love** - [テレビ東京系アニメ](../Page/テレビ東京系アニメ.md "wikilink")『[ゾイドジェネシス](../Page/ゾイドジェネシス.md "wikilink")』エンディングテーマ
 
 ## 出演
 
@@ -252,7 +252,7 @@ AVCD-17769</p></td>
 
 [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:7人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:7人組の音楽グループ "wikilink") [Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink")
 
-1.  かつて[フジテレビにて放送されていた](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[パラダイスGoGo\!\!](https://ja.wikipedia.org/wiki/パラダイスGoGo!! "wikilink")』の略称も『パラGo\!\!』であったが、当ユニットとは無関係。
+1.  かつて[フジテレビにて放送されていた](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[パラダイスGoGo\!\!](../Page/パラダイスGoGo!!.md "wikilink")』の略称も『パラGo\!\!』であったが、当ユニットとは無関係。
 2.
 3.
 4.

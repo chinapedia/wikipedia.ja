@@ -1,7 +1,7 @@
 > この記事は[ \(SION\)](https://ja.wikipedia.org/wiki/_\(SION\))から翻訳されています。
 
 
-『**螢**』（ほたる）は、[SION](https://ja.wikipedia.org/wiki/SION "wikilink")の7枚目のオリジナルアルバム。[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[9月23日](../Page/9月23日.md "wikilink")発売。発売元はBAIDIS（[テイチク](https://ja.wikipedia.org/wiki/テイチクエンタテインメント "wikilink")）。
+『**螢**』（ほたる）は、[SION](../Page/SION.md "wikilink")の7枚目のオリジナルアルバム。[1992年](../Page/1992年.md "wikilink")[9月23日](../Page/9月23日.md "wikilink")発売。発売元はBAIDIS（[テイチク](../Page/テイチクエンタテインメント.md "wikilink")）。
 
 ## 解説
 
@@ -46,16 +46,16 @@
 
 ## 参加ミュージシャン
 
-  - SION：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ハーモニカ](https://ja.wikipedia.org/wiki/ハーモニカ "wikilink")
+  - SION：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ハーモニカ](../Page/ハーモニカ.md "wikilink")
   - 松田文：[ギター](../Page/ギター.md "wikilink")
-  - 尾崎孝：[ドブロ・ギター](https://ja.wikipedia.org/wiki/ドブロ・ギター "wikilink")、[スティール・ギター](https://ja.wikipedia.org/wiki/スティール・ギター "wikilink")
-  - 井上富雄：[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - 尾崎孝：[ドブロ・ギター](../Page/ドブロ・ギター.md "wikilink")、[スティール・ギター](../Page/スティール・ギター.md "wikilink")
+  - 井上富雄：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
   - [早川岳晴](../Page/早川岳晴.md "wikilink")：ベース、[ウッドベース](https://ja.wikipedia.org/wiki/ウッドベース "wikilink")
-  - [細海魚](https://ja.wikipedia.org/wiki/細海魚 "wikilink")：[ピアノ](../Page/ピアノ.md "wikilink")、[フェンダー・ローズ](https://ja.wikipedia.org/wiki/ローズ・ピアノ "wikilink")、[アコーディオン](https://ja.wikipedia.org/wiki/アコーディオン "wikilink")
+  - [細海魚](https://ja.wikipedia.org/wiki/細海魚 "wikilink")：[ピアノ](../Page/ピアノ.md "wikilink")、[フェンダー・ローズ](../Page/ローズ・ピアノ.md "wikilink")、[アコーディオン](../Page/アコーディオン.md "wikilink")
   - 粟野貢司：ピアノ、[ハモンドオルガン](../Page/ハモンドオルガン.md "wikilink")
   - 宮田繁男：[ドラム](../Page/ドラムセット.md "wikilink")
-  - [菅沼孝三](https://ja.wikipedia.org/wiki/菅沼孝三 "wikilink")：ドラム
-  - [中西俊博](https://ja.wikipedia.org/wiki/中西俊博 "wikilink")：[ヴァイオリン](../Page/ヴァイオリン.md "wikilink")
+  - [菅沼孝三](../Page/菅沼孝三.md "wikilink")：ドラム
+  - [中西俊博](../Page/中西俊博.md "wikilink")：[ヴァイオリン](../Page/ヴァイオリン.md "wikilink")
   - 福森隆：ヴァイオリン
   - 大矢貞男：ヴァイオリン
   - [JAKE H. CONCEPCION](https://ja.wikipedia.org/wiki/ジェイク・コンセプション "wikilink")：[サックス](../Page/サクソフォーン.md "wikilink")

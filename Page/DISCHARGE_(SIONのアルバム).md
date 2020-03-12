@@ -1,7 +1,7 @@
 > この記事は[DISCHARGE \(SION\)](https://ja.wikipedia.org/wiki/DISCHARGE_\(SION\))から翻訳されています。
 
 
-『**DISCHARGE**』（ディスチャージ）は、[SION](https://ja.wikipedia.org/wiki/SION "wikilink")が[1999年](../Page/1999年.md "wikilink")[10月27日](https://ja.wikipedia.org/wiki/10月27日 "wikilink")に[東芝EMIからリリースした](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")、13枚目のオリジナルアルバムである。
+『**DISCHARGE**』（ディスチャージ）は、[SION](../Page/SION.md "wikilink")が[1999年](../Page/1999年.md "wikilink")[10月27日](../Page/10月27日.md "wikilink")に[東芝EMIからリリースした](../Page/EMIミュージック・ジャパン.md "wikilink")、13枚目のオリジナルアルバムである。
 
 ## 収録曲
 
@@ -22,10 +22,10 @@
 
 ## 参加ミュージシャン
 
-  - SION：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ハーモニカ](https://ja.wikipedia.org/wiki/ハーモニカ "wikilink")
-  - [茂木欣一](https://ja.wikipedia.org/wiki/茂木欣一 "wikilink")：[ドラム](../Page/ドラムセット.md "wikilink")
+  - SION：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ハーモニカ](../Page/ハーモニカ.md "wikilink")
+  - [茂木欣一](../Page/茂木欣一.md "wikilink")：[ドラム](../Page/ドラムセット.md "wikilink")
   - アツシ：ドラム
-  - 池畑潤二：ドラム、[ベル](../Page/ベル.md "wikilink")、[タンバリン](https://ja.wikipedia.org/wiki/タンバリン "wikilink")
+  - 池畑潤二：ドラム、[ベル](../Page/ベル.md "wikilink")、[タンバリン](../Page/タンバリン.md "wikilink")
   - [平ヶ倉良枝](https://ja.wikipedia.org/wiki/平ヶ倉良枝 "wikilink")：ドラム
   - 渡辺等：[エレクトリックベース](../Page/エレクトリックベース.md "wikilink")、[アコースティックベース](https://ja.wikipedia.org/wiki/アコースティックベース "wikilink")、[マンドロンチェロ](https://ja.wikipedia.org/wiki/マンドロンチェロ "wikilink")、[マンドリン](../Page/マンドリン.md "wikilink")、[チェロ](../Page/チェロ.md "wikilink")
   - 柏原譲：エレクトリックベース
@@ -35,12 +35,12 @@
   - 藤井一彦：[エレクトリックギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")、[アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")
   - 嘉多山信：アコースティックギター
   - 塚本功：エレクトリックギター
-  - [細海魚](https://ja.wikipedia.org/wiki/細海魚 "wikilink")：[ハモンドオルガン](../Page/ハモンドオルガン.md "wikilink")、[アコーディオン](https://ja.wikipedia.org/wiki/アコーディオン "wikilink")、アコースティック[ピアノ](../Page/ピアノ.md "wikilink")
+  - [細海魚](https://ja.wikipedia.org/wiki/細海魚 "wikilink")：[ハモンドオルガン](../Page/ハモンドオルガン.md "wikilink")、[アコーディオン](../Page/アコーディオン.md "wikilink")、アコースティック[ピアノ](../Page/ピアノ.md "wikilink")
   - 柴草玲：アコースティックピアノ
   - [今堀恒雄](../Page/今堀恒雄.md "wikilink")：アコースティックギター、エレクトリックギター
-  - 塩見光昭：[プログラミング](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")、エレクトリックギター
-  - [ERIC宮城](https://ja.wikipedia.org/wiki/エリック・ミヤシロ "wikilink")：[トランペット](../Page/トランペット.md "wikilink")
-  - 川瀬正人：[シェーカー](https://ja.wikipedia.org/wiki/シェイカー_\(楽器\) "wikilink")、[タンバリン](https://ja.wikipedia.org/wiki/タンバリン "wikilink")、[シンバル](../Page/シンバル.md "wikilink")
+  - 塩見光昭：[プログラミング](../Page/ミュージックシーケンサー.md "wikilink")、エレクトリックギター
+  - [ERIC宮城](../Page/エリック・ミヤシロ.md "wikilink")：[トランペット](../Page/トランペット.md "wikilink")
+  - 川瀬正人：[シェーカー](https://ja.wikipedia.org/wiki/シェイカー_\(楽器\) "wikilink")、[タンバリン](../Page/タンバリン.md "wikilink")、[シンバル](../Page/シンバル.md "wikilink")
   - 後藤勇一郎：[ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")
   - 清水一登：ウーリッツァー
   - 三沢泉：[コンガ](../Page/コンガ.md "wikilink")、タンバリン、シェーカー

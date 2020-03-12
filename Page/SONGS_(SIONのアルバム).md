@@ -1,7 +1,7 @@
 > この記事は[SONGS \(SION\)](https://ja.wikipedia.org/wiki/SONGS_\(SION\))から翻訳されています。
 
 
-『**SONGS**』（ソングス）は、[SION](https://ja.wikipedia.org/wiki/SION "wikilink")が[2000年](../Page/2000年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")に[東芝EMIからリリースした](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")、カバーアルバムである。
+『**SONGS**』（ソングス）は、[SION](../Page/SION.md "wikilink")が[2000年](../Page/2000年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")に[東芝EMIからリリースした](../Page/EMIミュージック・ジャパン.md "wikilink")、カバーアルバムである。
 
 ## 収録曲
 
@@ -13,10 +13,10 @@
         作詞・作曲：James Royce Shannon
 3.  DANCE ME TO THE END OF LOVE (5:03)
       -
-        作詞・作曲：[Leonard Cohen](https://ja.wikipedia.org/wiki/レナード・コーエン "wikilink")
+        作詞・作曲：[Leonard Cohen](../Page/レナード・コーエン.md "wikilink")
 4.  A SONG FOR YOU (4:45)
       -
-        作詞・作曲：[Leon Russell](https://ja.wikipedia.org/wiki/レオン・ラッセル "wikilink")
+        作詞・作曲：[Leon Russell](../Page/レオン・ラッセル.md "wikilink")
 5.  ガラスの乗客 (THE PASSENGER) (5:09)
       -
         作詞・作曲：James Osterberg, Ricky Gradiner
@@ -25,14 +25,14 @@
         作詞・作曲：[Randy Newman](../Page/ランディ・ニューマン.md "wikilink")
 7.  MORNING HAS BROKEN (3:55)
       -
-        作詞・作曲：[Cat Stevens](https://ja.wikipedia.org/wiki/キャット・スティーヴンス "wikilink"), Eleanor Farjeon
+        作詞・作曲：[Cat Stevens](../Page/キャット・スティーヴンス.md "wikilink"), Eleanor Farjeon
 8.  タクシー (MAGNOLIA) (4:41)
       -
         作詞・作曲：J.J. Cale
 9.  早く来い (THAT'S ALL I WANT FROM YOU) (4:15)
       -
         作詞・作曲：M. Rotha, Fritz Rotter
-10. [OVER THE RAINBOW](https://ja.wikipedia.org/wiki/虹の彼方に "wikilink") (5:44)
+10. [OVER THE RAINBOW](../Page/虹の彼方に.md "wikilink") (5:44)
       -
         作詞：E.Y. Harburg / 作曲：Harold Arlen
 
@@ -42,20 +42,20 @@
 
 ## 参加ミュージシャン
 
-  - SION：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ハーモニカ](https://ja.wikipedia.org/wiki/ハーモニカ "wikilink")
+  - SION：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ハーモニカ](../Page/ハーモニカ.md "wikilink")
 
 ### Tokyo Recording
 
-  - [The Groovers](https://ja.wikipedia.org/wiki/ザ・グルーヴァーズ "wikilink")
+  - [The Groovers](../Page/ザ・グルーヴァーズ.md "wikilink")
       - 藤井一彦：[ギター](../Page/ギター.md "wikilink")
-      - Takahashi Bob：[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+      - Takahashi Bob：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
       - Yasuchika Fujii：[ドラム](../Page/ドラムセット.md "wikilink")
   - 松田文：ギター
   - 井上富雄：ベース
   - Atsushi Tsunoda：ベース
   - Tomoyasu "KAASUKE" Kawamura：ドラム
   - Atsushi Matsushita：ドラム
-  - [細海魚](https://ja.wikipedia.org/wiki/細海魚 "wikilink")：[キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")
+  - [細海魚](https://ja.wikipedia.org/wiki/細海魚 "wikilink")：[キーボード](../Page/キーボード_\(楽器\).md "wikilink")
   - Masanori Shimada：キーボード
 
 ### New York Recording

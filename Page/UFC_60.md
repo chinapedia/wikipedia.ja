@@ -1,11 +1,11 @@
 > この記事は[UFC 60](https://ja.wikipedia.org/wiki/UFC_60)から翻訳されています。
 
 
-**UFC 60: Hughes vs. Gracie**（ユーエフシー・シックスティ：ヒューズ・バーサス・グレイシー）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[5月27日](../Page/5月27日.md "wikilink")、[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")の[ステイプルズ・センター](https://ja.wikipedia.org/wiki/ステイプルズ・センター "wikilink")で開催された。
+**UFC 60: Hughes vs. Gracie**（ユーエフシー・シックスティ：ヒューズ・バーサス・グレイシー）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2006年](../Page/2006年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink")、[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")の[ステイプルズ・センター](../Page/ステイプルズ・センター.md "wikilink")で開催された。
 
 ## 大会概要
 
-各階級ともタイトルマッチは行われず。メインイベントではUFC世界ウェルター級王者[マット・ヒューズ](https://ja.wikipedia.org/wiki/マット・ヒューズ "wikilink")と[ホイス・グレイシー](https://ja.wikipedia.org/wiki/ホイス・グレイシー "wikilink")が175ポンドのキャッチウェイトで激突。ヒューズがホイスをTKOで破った。
+各階級ともタイトルマッチは行われず。メインイベントではUFC世界ウェルター級王者[マット・ヒューズ](../Page/マット・ヒューズ.md "wikilink")と[ホイス・グレイシー](../Page/ホイス・グレイシー.md "wikilink")が175ポンドのキャッチウェイトで激突。ヒューズがホイスをTKOで破った。
 
 本大会ではペイ・パー・ビューの購入件数が60万件を突破した。
 
@@ -18,31 +18,31 @@
     1R 1:37 KO（右ストレート）
   - 第2試合 ヘビー級 5分3R
     ○  [ガブリエル・ゴンザーガ](../Page/ガブリエル・ゴンザーガ.md "wikilink") vs.  ファビアーノ・シェルナー ×
-    2R 0:24 TKO（レフェリーストップ：[パウンド](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    2R 0:24 TKO（レフェリーストップ：[パウンド](../Page/グラウンドパンチ.md "wikilink")）
   - 第3試合 ライト級 5分3R
-    ○  [スペンサー・フィッシャー](https://ja.wikipedia.org/wiki/スペンサー・フィッシャー "wikilink") vs.  [マット・ワイマン](https://ja.wikipedia.org/wiki/マット・ワイマン "wikilink") ×
+    ○  [スペンサー・フィッシャー](../Page/スペンサー・フィッシャー.md "wikilink") vs.  [マット・ワイマン](https://ja.wikipedia.org/wiki/マット・ワイマン "wikilink") ×
     2R 1:43 KO（跳び膝蹴り）
   - 第4試合 ミドル級 5分3R
-    ○  [ジェレミー・ホーン](../Page/ジェレミー・ホーン.md "wikilink") vs.  [チェール・ソネン](https://ja.wikipedia.org/wiki/チェール・ソネン "wikilink") ×
-    2R 1:17 [腕ひしぎ十字固め](https://ja.wikipedia.org/wiki/腕挫十字固 "wikilink")
+    ○  [ジェレミー・ホーン](../Page/ジェレミー・ホーン.md "wikilink") vs.  [チェール・ソネン](../Page/チェール・ソネン.md "wikilink") ×
+    2R 1:17 [腕ひしぎ十字固め](../Page/腕挫十字固.md "wikilink")
 
 ### メインカード
 
   - 第5試合 ミドル級 5分3R
     ○  [マイク・スウィック](../Page/マイク・スウィック.md "wikilink") vs.  [ジョー・リッグス](https://ja.wikipedia.org/wiki/ジョー・リッグス "wikilink") ×
-    1R 2:19 [フロントチョーク](https://ja.wikipedia.org/wiki/フロントチョーク "wikilink")
+    1R 2:19 [フロントチョーク](../Page/フロントチョーク.md "wikilink")
   - 第6試合 ヘビー級 5分3R
     ○  [ブランドン・ヴェラ](../Page/ブランドン・ヴェラ.md "wikilink") vs.  [アスエリオ・シウバ](../Page/アスエリオ・シウバ.md "wikilink") ×
-    1R 2:39 [フロントチョーク](https://ja.wikipedia.org/wiki/フロントチョーク "wikilink")
+    1R 2:39 [フロントチョーク](../Page/フロントチョーク.md "wikilink")
   - 第7試合 ウェルター級 5分3R
-    ○  [ディエゴ・サンチェス](https://ja.wikipedia.org/wiki/ディエゴ・サンチェス "wikilink") vs.  ジョン・アレッシオ ×
+    ○  [ディエゴ・サンチェス](../Page/ディエゴ・サンチェス.md "wikilink") vs.  ジョン・アレッシオ ×
     3R終了 判定3-0（30-27、29-28、29-28）
   - 第8試合 ライトヘビー級 5分3R
-    ○  [ディーン・リスター](../Page/ディーン・リスター.md "wikilink") vs.  [アレッシオ・サカラ](https://ja.wikipedia.org/wiki/アレッシオ・サカラ "wikilink") ×
-    1R 2:20 [三角絞め](https://ja.wikipedia.org/wiki/三角絞め "wikilink")
+    ○  [ディーン・リスター](../Page/ディーン・リスター.md "wikilink") vs.  [アレッシオ・サカラ](../Page/アレッシオ・サカラ.md "wikilink") ×
+    1R 2:20 [三角絞め](../Page/三角絞め.md "wikilink")
   - 第9試合 キャッチウェイトバウト（175ポンド） 5分3R
-    ○  [マット・ヒューズ](https://ja.wikipedia.org/wiki/マット・ヒューズ "wikilink") vs.  [ホイス・グレイシー](https://ja.wikipedia.org/wiki/ホイス・グレイシー "wikilink") ×
-    1R 4:39 TKO（レフェリーストップ：[パウンド](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    ○  [マット・ヒューズ](../Page/マット・ヒューズ.md "wikilink") vs.  [ホイス・グレイシー](../Page/ホイス・グレイシー.md "wikilink") ×
+    1R 4:39 TKO（レフェリーストップ：[パウンド](../Page/グラウンドパンチ.md "wikilink")）
 
 ## 脚注
 

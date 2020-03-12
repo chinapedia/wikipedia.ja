@@ -22,7 +22,7 @@ WML 文書は、WML（現在バージョン 1.3）DTD（[Document Type Definitio
  </wml>
 ```
 
-WML ページは[Webサーバ](../Page/Webサーバ.md "wikilink")上に格納される。そして、携帯電話網と World Wide Web の間にあるWAPゲートウェイを通してアクセスされる。WAPゲートウェイは一種の[プロキシ](https://ja.wikipedia.org/wiki/プロキシ "wikilink")として機能する。ページは携帯電話に適した形式に変換される。この処理は携帯電話からは見えないので、携帯電話から見れば、通常のブラウザで URL を指定して [HTML](../Page/HyperText_Markup_Language.md "wikilink") にアクセスするのと変わらない。
+WML ページは[Webサーバ](../Page/Webサーバ.md "wikilink")上に格納される。そして、携帯電話網と World Wide Web の間にあるWAPゲートウェイを通してアクセスされる。WAPゲートウェイは一種の[プロキシ](../Page/プロキシ.md "wikilink")として機能する。ページは携帯電話に適した形式に変換される。この処理は携帯電話からは見えないので、携帯電話から見れば、通常のブラウザで URL を指定して [HTML](../Page/HyperText_Markup_Language.md "wikilink") にアクセスするのと変わらない。
 
 WML は HTML とよく似ており、ハイパーリンク、テキストと画像の混在、フォームによる入力などが可能である。WML 文書を "deck" とも呼ぶ。deck 内のデータは1つ以上の "card"（ページ）に構造化されており、各 card がユーザーとの1つの[インタラクションを表現している](../Page/相互作用.md "wikilink")。WML には手続き要素の縮小セットがあり、他の card へのナビゲーション制御を可能としている。
 
@@ -30,11 +30,11 @@ WAP2.0の規格制定にあたっては、WMLは、[cHTML](https://ja.wikipedia.
 
 ## 関連項目
 
-  - [Compact HTML](https://ja.wikipedia.org/wiki/Compact_HTML "wikilink")
+  - [Compact HTML](../Page/Compact_HTML.md "wikilink")
   - [WMLScript](https://ja.wikipedia.org/wiki/WMLScript "wikilink")
   - [Wireless Bitmap](https://ja.wikipedia.org/wiki/Wireless_Application_Protocol_Bitmap_Format "wikilink")
   - [マイクロブラウザ](https://ja.wikipedia.org/wiki/マイクロブラウザ "wikilink")
-  - [XHTML Mobile Profile](https://ja.wikipedia.org/wiki/XHTML_Mobile_Profile "wikilink")
+  - [XHTML Mobile Profile](../Page/XHTML_Mobile_Profile.md "wikilink")
 
 ## 外部リンク
 

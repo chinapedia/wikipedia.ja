@@ -1,7 +1,7 @@
 > この記事は[SION \(\)](https://ja.wikipedia.org/wiki/SION_\(\))から翻訳されています。
 
 
-『**SION**』（シオン）は、[SION](https://ja.wikipedia.org/wiki/SION "wikilink")の1枚目のオリジナルアルバム。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[6月21日](../Page/6月21日.md "wikilink")発売。発売元はCONTINENTAL（[テイチクレコード](https://ja.wikipedia.org/wiki/テイチクエンタテインメント "wikilink")）。
+『**SION**』（シオン）は、[SION](../Page/SION.md "wikilink")の1枚目のオリジナルアルバム。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[6月21日](../Page/6月21日.md "wikilink")発売。発売元はCONTINENTAL（[テイチクレコード](../Page/テイチクエンタテインメント.md "wikilink")）。
 
 ## 解説
 
@@ -17,7 +17,7 @@
 1.  **風向きが変わっちまいそうだ** (5:56)
     （作詞・作曲：SION）
 2.  **SORRY BABY** (5:40)
-    （作詞：SION & [OKAMOTO](https://ja.wikipedia.org/wiki/岡本おさみ "wikilink") / 作曲：SION）
+    （作詞：SION & [OKAMOTO](../Page/岡本おさみ.md "wikilink") / 作曲：SION）
       -
         [福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")が5thアルバム『[Calling](https://ja.wikipedia.org/wiki/Calling_\(福山雅治のアルバム\) "wikilink")』（初回封入CD）、9thシングル『[IT'S ONLY LOVE/SORRY BABY](https://ja.wikipedia.org/wiki/IT'S_ONLY_LOVE/SORRY_BABY "wikilink")』でカバーしている。
 3.  **レストレス・ナイト** (4:02)
@@ -67,13 +67,13 @@
 ## 参加ミュージシャン
 
   - SION：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
-  - 松田文：[ギター](../Page/ギター.md "wikilink")、[スライドギター](https://ja.wikipedia.org/wiki/スライドギター "wikilink")（「今日もまんざらじゃなかった」、「コンクリート・リバー」）
-  - [花田裕之](https://ja.wikipedia.org/wiki/花田裕之 "wikilink")：ギター
+  - 松田文：[ギター](../Page/ギター.md "wikilink")、[スライドギター](../Page/スライドギター.md "wikilink")（「今日もまんざらじゃなかった」、「コンクリート・リバー」）
+  - [花田裕之](../Page/花田裕之.md "wikilink")：ギター
   - チャールス清水：[オルガン](../Page/オルガン.md "wikilink")、[ピアノ](../Page/ピアノ.md "wikilink")（「TONGIHT」）
   - 小山英樹：ピアノ、オルガン（「TONIGHT」）
-  - 穴井仁吉：[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - 穴井仁吉：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
   - 池畑潤二：[ドラム](../Page/ドラムセット.md "wikilink")
-  - スマイリー：[サックス](../Page/サクソフォーン.md "wikilink")、[タンバリン](https://ja.wikipedia.org/wiki/タンバリン "wikilink")
+  - スマイリー：[サックス](../Page/サクソフォーン.md "wikilink")、[タンバリン](../Page/タンバリン.md "wikilink")
   - 藤井康一：バッキングボーカル
   - 東十条ボーイズ：[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
 

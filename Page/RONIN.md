@@ -1,13 +1,13 @@
 > この記事は[RONIN](https://ja.wikipedia.org/wiki/RONIN)から翻訳されています。
 
 
-『**RONIN**』（ローニン、原題: *Ronin*）は[1998年に製作された](https://ja.wikipedia.org/wiki/1998年の映画 "wikilink")[アメリカ映画](https://ja.wikipedia.org/wiki/アメリカ合衆国の映画 "wikilink")。
+『**RONIN**』（ローニン、原題: *Ronin*）は[1998年に製作された](../Page/1998年の映画.md "wikilink")[アメリカ映画](../Page/アメリカ合衆国の映画.md "wikilink")。
 
-タイトルは日本語の「[浪人](https://ja.wikipedia.org/wiki/浪人 "wikilink")」から引用されており、[冷戦](../Page/冷戦.md "wikilink")終結により自らの存在価値を失った東西の[スパイ](../Page/スパイ.md "wikilink")や特殊工作員らの姿になぞらえている。
+タイトルは日本語の「[浪人](../Page/浪人.md "wikilink")」から引用されており、[冷戦](../Page/冷戦.md "wikilink")終結により自らの存在価値を失った東西の[スパイ](../Page/スパイ.md "wikilink")や特殊工作員らの姿になぞらえている。
 
 ## ストーリー
 
-舞台は冷戦終結後の[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")。謎の女、ディアドラ（[ナターシャ・マケルホーン](https://ja.wikipedia.org/wiki/ナターシャ・マケルホーン "wikilink")）のもとに、サム（[ロバート・デ・ニーロ](https://ja.wikipedia.org/wiki/ロバート・デ・ニーロ "wikilink")）、ヴィンセント（[ジャン・レノ](https://ja.wikipedia.org/wiki/ジャン・レノ "wikilink")）はじめ、いずれも国家や組織からフリーの立場である5人の男たちが集まった。依頼は、ある男から銀色のケースを奪うこと。準備段階の武器調達で未熟さをあらわにしたスペンス（[ショーン・ビーン](https://ja.wikipedia.org/wiki/ショーン・ビーン "wikilink")）はクビになり、残った4人はニースで襲撃の綿密な計画を練る。そして決行。ケースの奪取には成功するが、電子機器担当のグレゴール（[ステラン・スカルスガルド](https://ja.wikipedia.org/wiki/ステラン・スカルスガルド "wikilink")）が突如として裏切り、銀色のケースを奪い去る。サムとヴィンセントはアルルの[コロッセオ](../Page/コロッセオ.md "wikilink")で、ケースを別の勢力へ売り飛ばそうとしていたグレゴールを追いつめるが、すんでのところでディアドラとシーマス（[ジョナサン・プライス](https://ja.wikipedia.org/wiki/ジョナサン・プライス "wikilink")）ら[IRAに拉致され](../Page/アイルランド共和軍.md "wikilink")、ドライバーのラリー（[スキップ・サダス](https://ja.wikipedia.org/wiki/スキップ・サダス "wikilink")）も殺害される。雇い主に切り捨てられ、腹に銃弾を受けて治療を余儀なくされたサムはヴィンセントのセーフハウスで傷を癒すと、真相とケースを求めて再びパリに向かう。
+舞台は冷戦終結後の[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")。謎の女、ディアドラ（[ナターシャ・マケルホーン](../Page/ナターシャ・マケルホーン.md "wikilink")）のもとに、サム（[ロバート・デ・ニーロ](../Page/ロバート・デ・ニーロ.md "wikilink")）、ヴィンセント（[ジャン・レノ](../Page/ジャン・レノ.md "wikilink")）はじめ、いずれも国家や組織からフリーの立場である5人の男たちが集まった。依頼は、ある男から銀色のケースを奪うこと。準備段階の武器調達で未熟さをあらわにしたスペンス（[ショーン・ビーン](../Page/ショーン・ビーン.md "wikilink")）はクビになり、残った4人はニースで襲撃の綿密な計画を練る。そして決行。ケースの奪取には成功するが、電子機器担当のグレゴール（[ステラン・スカルスガルド](../Page/ステラン・スカルスガルド.md "wikilink")）が突如として裏切り、銀色のケースを奪い去る。サムとヴィンセントはアルルの[コロッセオ](../Page/コロッセオ.md "wikilink")で、ケースを別の勢力へ売り飛ばそうとしていたグレゴールを追いつめるが、すんでのところでディアドラとシーマス（[ジョナサン・プライス](../Page/ジョナサン・プライス.md "wikilink")）ら[IRAに拉致され](../Page/アイルランド共和軍.md "wikilink")、ドライバーのラリー（[スキップ・サダス](https://ja.wikipedia.org/wiki/スキップ・サダス "wikilink")）も殺害される。雇い主に切り捨てられ、腹に銃弾を受けて治療を余儀なくされたサムはヴィンセントのセーフハウスで傷を癒すと、真相とケースを求めて再びパリに向かう。
 
 ## キャスト
 
@@ -23,72 +23,72 @@
 <tr class="odd">
 <td><p>ソフト版</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ版</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビ朝日" title="wikilink">テレビ朝日</a>版</p></td>
+<td><p><a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a>版</p></td>
 </tr>
 <tr class="even">
 <td><p>サム</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロバート・デ・ニーロ" title="wikilink">ロバート・デ・ニーロ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/佐々木勝彦" title="wikilink">佐々木勝彦</a></p></td>
+<td><p><a href="../Page/ロバート・デ・ニーロ.md" title="wikilink">ロバート・デ・ニーロ</a></p></td>
+<td><p><a href="../Page/佐々木勝彦.md" title="wikilink">佐々木勝彦</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ヴィンセント（ヴァンサン）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジャン・レノ" title="wikilink">ジャン・レノ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/金尾哲夫" title="wikilink">金尾哲夫</a></p></td>
+<td><p><a href="../Page/ジャン・レノ.md" title="wikilink">ジャン・レノ</a></p></td>
+<td><p><a href="../Page/金尾哲夫.md" title="wikilink">金尾哲夫</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ディアドラ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ナターシャ・マケルホーン" title="wikilink">ナターシャ・マケルホーン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/唐沢潤" title="wikilink">唐沢潤</a></p></td>
+<td><p><a href="../Page/ナターシャ・マケルホーン.md" title="wikilink">ナターシャ・マケルホーン</a></p></td>
+<td><p><a href="../Page/唐沢潤.md" title="wikilink">唐沢潤</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>グレゴール</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ステラン・スカルスガルド" title="wikilink">ステラン・スカルスガルド</a></p></td>
+<td><p><a href="../Page/ステラン・スカルスガルド.md" title="wikilink">ステラン・スカルスガルド</a></p></td>
 <td><p><a href="../Page/納谷六朗.md" title="wikilink">納谷六朗</a></p></td>
 </tr>
 <tr class="even">
 <td><p>スペンス</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ショーン・ビーン" title="wikilink">ショーン・ビーン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/仲野裕" title="wikilink">仲野裕</a></p></td>
+<td><p><a href="../Page/ショーン・ビーン.md" title="wikilink">ショーン・ビーン</a></p></td>
+<td><p><a href="../Page/仲野裕.md" title="wikilink">仲野裕</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ラリー</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/スキップ・サダス" title="wikilink">スキップ・サダス</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/星野充昭" title="wikilink">星野充昭</a></p></td>
+<td><p><a href="../Page/星野充昭.md" title="wikilink">星野充昭</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ジャン＝ピエール</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マイケル・ロンズデール" title="wikilink">マイケル・ロンズデール</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/石森達幸" title="wikilink">石森達幸</a></p></td>
+<td><p><a href="../Page/マイケル・ロンズデール.md" title="wikilink">マイケル・ロンズデール</a></p></td>
+<td><p><a href="../Page/石森達幸.md" title="wikilink">石森達幸</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ミキーの部下</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジャン・トリスカ" title="wikilink">ジャン・トリスカ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/稲葉実" title="wikilink">稲葉実</a></p></td>
+<td><p><a href="../Page/稲葉実.md" title="wikilink">稲葉実</a></p></td>
 </tr>
 <tr class="even">
 <td><p>シーマス・オルーク</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョナサン・プライス" title="wikilink">ジョナサン・プライス</a></p></td>
+<td><p><a href="../Page/ジョナサン・プライス.md" title="wikilink">ジョナサン・プライス</a></p></td>
 <td><p>千田光男</p></td>
 </tr>
 <tr class="odd">
 <td><p>新聞を持った男</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ロン・パーキンス" title="wikilink">ロン・パーキンス</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/石波義人" title="wikilink">石波義人</a></p></td>
+<td><p><a href="../Page/石波義人.md" title="wikilink">石波義人</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ミキー</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フェオドール・アトキン" title="wikilink">フェオドール・アトキン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大山高男" title="wikilink">大山高男</a></p></td>
+<td><p><a href="../Page/大山高男.md" title="wikilink">大山高男</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ナターシャ・キリロワ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カタリナ・ヴィット" title="wikilink">カタリナ・ヴィット</a></p></td>
+<td><p><a href="../Page/カタリナ・ヴィット.md" title="wikilink">カタリナ・ヴィット</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/榎本智恵子" title="wikilink">榎本智恵子</a></p></td>
 </tr>
 <tr class="even">
 <td><p>セルゲイ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ベルナール・ブロッシュ" title="wikilink">ベルナール・ブロッシュ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/水野龍司" title="wikilink">水野龍司</a></p></td>
+<td><p><a href="../Page/水野龍司.md" title="wikilink">水野龍司</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>引率の先生</p></td>
@@ -98,7 +98,7 @@
 <tr class="even">
 <td><p>ツアーガイド</p></td>
 <td><p>?</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/遊魚静" title="wikilink">遊魚静</a></p></td>
+<td><p><a href="../Page/遊魚静.md" title="wikilink">遊魚静</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ウェイター</p></td>
@@ -113,7 +113,7 @@
 <tr class="odd">
 <td><p>役不明又はその他</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/古田信幸" title="wikilink">古田信幸</a><br />
+<td><p><a href="../Page/古田信幸.md" title="wikilink">古田信幸</a><br />
 大川透</p></td>
 </tr>
 <tr class="even">
@@ -173,7 +173,7 @@
 <td></td>
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a><a href="../Page/1月18日.md" title="wikilink">1月18日</a><br />
 21:00-23:09<br />
-『<a href="https://ja.wikipedia.org/wiki/ゴールデン洋画劇場" title="wikilink">ゴールデンシアター</a>』</p></td>
+『<a href="../Page/ゴールデン洋画劇場.md" title="wikilink">ゴールデンシアター</a>』</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -198,9 +198,9 @@
 ## エピソード
 
   - 劇中では激しい[カーチェイス](https://ja.wikipedia.org/wiki/カーチェイス "wikilink")が数度に渡って展開されるが、フランケンハイマー監督が元アマチュア・レーシングドライバーだったこともあり、カーチェイスシーンの撮影も監督が担当し、時には監督自ら車に乗り込むこともあった。[特撮による不自然な動きを嫌い](../Page/SFX.md "wikilink")、全てのカーチェイスシーンは実写によるもので、高速走行シーンの多くも実際に俳優らが乗車していた。クラッシュシーンなどはスタントマンによる運転だったが、ラリー役のスキップ・サダスに至っては、ほとんどが彼自身の運転によるもの。さらに信憑性を上げるために各車の実際の走行音を別に録音して、それぞれの車の映像と合わせている。
-  - 登場する車種もこだわりを持って選ばれており、[アウディ・S8](../Page/アウディ・S8.md "wikilink")、[プジョー・406](../Page/プジョー・406.md "wikilink")、[プジョー・605](https://ja.wikipedia.org/wiki/プジョー・605 "wikilink")、[シトロエン・XM](https://ja.wikipedia.org/wiki/シトロエン・XM "wikilink")、[メルセデス・ベンツ・450SEL 6.9](https://ja.wikipedia.org/wiki/メルセデス・ベンツ・W116 "wikilink")、[BMW・5シリーズ](https://ja.wikipedia.org/wiki/BMW・5シリーズ "wikilink")などが登場する。なおアウディS8は、イギリス・カーマガジン誌の「映画に登場するカッコイイ車トップ40」の第9位にランクインしている。
+  - 登場する車種もこだわりを持って選ばれており、[アウディ・S8](../Page/アウディ・S8.md "wikilink")、[プジョー・406](../Page/プジョー・406.md "wikilink")、[プジョー・605](https://ja.wikipedia.org/wiki/プジョー・605 "wikilink")、[シトロエン・XM](../Page/シトロエン・XM.md "wikilink")、[メルセデス・ベンツ・450SEL 6.9](../Page/メルセデス・ベンツ・W116.md "wikilink")、[BMW・5シリーズ](../Page/BMW・5シリーズ.md "wikilink")などが登場する。なおアウディS8は、イギリス・カーマガジン誌の「映画に登場するカッコイイ車トップ40」の第9位にランクインしている。
       - ただし、シトロエン・XMに関しては前期型／後期型を混同し撮影に使うというミスを起こしている。
-  - ヴィンセント役のジャン・レノは、プライベートと同じく[ジタン](https://ja.wikipedia.org/wiki/ジタン "wikilink")を吸っている。
+  - ヴィンセント役のジャン・レノは、プライベートと同じく[ジタン](../Page/ジタン.md "wikilink")を吸っている。
 
 ## 出典
 

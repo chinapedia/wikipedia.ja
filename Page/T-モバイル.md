@@ -1,11 +1,11 @@
 > この記事は[T-](https://ja.wikipedia.org/wiki/T-)から翻訳されています。
 
 
-**T-モバイル** (T-Mobile、ティー・モバイル) は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[ボン](https://ja.wikipedia.org/wiki/ボン "wikilink")に本社を置き、[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")及び[北米で](../Page/北アメリカ.md "wikilink")[移動体通信](https://ja.wikipedia.org/wiki/移動体通信 "wikilink")サービスを提供している会社。[ドイツテレコム](https://ja.wikipedia.org/wiki/ドイツテレコム "wikilink")の[子会社](https://ja.wikipedia.org/wiki/子会社 "wikilink")である。
+**T-モバイル** (T-Mobile、ティー・モバイル) は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[ボン](https://ja.wikipedia.org/wiki/ボン "wikilink")に本社を置き、[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")及び[北米で](../Page/北アメリカ.md "wikilink")[移動体通信](../Page/移動体通信.md "wikilink")サービスを提供している会社。[ドイツテレコム](../Page/ドイツテレコム.md "wikilink")の[子会社](../Page/子会社.md "wikilink")である。
 
 ## 概要
 
-[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")方式・[UMTS](https://ja.wikipedia.org/wiki/UMTS "wikilink")方式の[携帯電話](../Page/携帯電話.md "wikilink")で、各国で激しいシェア争いを繰り広げている。現在は約1億100万人の加入者を持ち、加入者数ベースで世界第6位、通話国数で[ボーダフォン](https://ja.wikipedia.org/wiki/ボーダフォン "wikilink")、[テレフォニカ](https://ja.wikipedia.org/wiki/テレフォニカ "wikilink")に次ぐ世界第3位の規模を持つ携帯電話キャリアである（テレフォニカとは携帯電話の国際的[アライアンス](../Page/アライアンス.md "wikilink")である[フリームーブ・アライアンス](https://ja.wikipedia.org/wiki/フリームーブ・アライアンス "wikilink")に共同で参画していたが、2006年にテレフォニカが脱退している）。
+[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")方式・[UMTS](https://ja.wikipedia.org/wiki/UMTS "wikilink")方式の[携帯電話](../Page/携帯電話.md "wikilink")で、各国で激しいシェア争いを繰り広げている。現在は約1億100万人の加入者を持ち、加入者数ベースで世界第6位、通話国数で[ボーダフォン](https://ja.wikipedia.org/wiki/ボーダフォン "wikilink")、[テレフォニカ](../Page/テレフォニカ.md "wikilink")に次ぐ世界第3位の規模を持つ携帯電話キャリアである（テレフォニカとは携帯電話の国際的[アライアンス](../Page/アライアンス.md "wikilink")である[フリームーブ・アライアンス](https://ja.wikipedia.org/wiki/フリームーブ・アライアンス "wikilink")に共同で参画していたが、2006年にテレフォニカが脱退している）。
 
 [M\&A](../Page/M&A.md "wikilink")により各国の携帯電話キャリアを傘下におさめてシェア拡大を狙う施策を行っているが、買収を企図していた[O2 plc](https://ja.wikipedia.org/wiki/O2_plc "wikilink")（[ブリティッシュ・テレコム](https://ja.wikipedia.org/wiki/ブリティッシュ・テレコム "wikilink")傘下の携帯電話キャリア）のテレフォニカによる買収を許すなど、必ずしも順風満帆ではないようである。
 
@@ -13,9 +13,9 @@
 
 ヨーロッパで人気の高いスポーツ、とりわけ[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")への支援を積極的に行っている。
 
-サッカーではオーストリアの1部リーグである[ブンデスリーガの](https://ja.wikipedia.org/wiki/サッカー・ブンデスリーガ_\(オーストリア\) "wikilink")[冠スポンサー](https://ja.wikipedia.org/wiki/冠スポンサー "wikilink")となるほか、各国のチームでユニフォームスポンサーとなっている。
+サッカーではオーストリアの1部リーグである[ブンデスリーガの](../Page/サッカー・ブンデスリーガ_\(オーストリア\).md "wikilink")[冠スポンサー](../Page/冠スポンサー.md "wikilink")となるほか、各国のチームでユニフォームスポンサーとなっている。
 
-かつては[自転車ロードレースへの支援も積極的に行っており](../Page/ロードレース_\(自転車競技\).md "wikilink")、2004年にドイツテレコムのスポンサードを引き継ぐ形で「チーム・T-モバイル」として[UCIプロツアー](https://ja.wikipedia.org/wiki/UCIプロツアー "wikilink")に参戦。[ヤン・ウルリッヒ](https://ja.wikipedia.org/wiki/ヤン・ウルリッヒ "wikilink")をはじめ[エリック・ツァベル](https://ja.wikipedia.org/wiki/エリック・ツァベル "wikilink")、[パオロ・サヴォルデッリ](https://ja.wikipedia.org/wiki/パオロ・サヴォルデッリ "wikilink")、[アレクサンドル・ヴィノクロフ](https://ja.wikipedia.org/wiki/アレクサンドル・ヴィノクロフ "wikilink")、[カデル・エヴァンス](https://ja.wikipedia.org/wiki/カデル・エヴァンス "wikilink")らの有力選手を揃えていた。コーポレートカラーでもあるピンクのジャージが印象的なチームでもあったが、度重なるドーピング疑惑への対応を迫られる形で、2007年シーズンをもってドイツテレコム時代からの16年間にわたるスポンサードを終了した。チームは運営母体となっていたハイロードスポーツの下で「チームハイロード」のチーム名で活動を継続し、その後アメリカのアパレルメーカーである[コロンビア](../Page/コロンビア.md "wikilink")や[HTCをメインスポンサーに活動していたが](https://ja.wikipedia.org/wiki/HTC_\(企業\) "wikilink")、2011年限りで解散した。
+かつては[自転車ロードレースへの支援も積極的に行っており](../Page/ロードレース_\(自転車競技\).md "wikilink")、2004年にドイツテレコムのスポンサードを引き継ぐ形で「チーム・T-モバイル」として[UCIプロツアー](../Page/UCIプロツアー.md "wikilink")に参戦。[ヤン・ウルリッヒ](../Page/ヤン・ウルリッヒ.md "wikilink")をはじめ[エリック・ツァベル](../Page/エリック・ツァベル.md "wikilink")、[パオロ・サヴォルデッリ](../Page/パオロ・サヴォルデッリ.md "wikilink")、[アレクサンドル・ヴィノクロフ](../Page/アレクサンドル・ヴィノクロフ.md "wikilink")、[カデル・エヴァンス](../Page/カデル・エヴァンス.md "wikilink")らの有力選手を揃えていた。コーポレートカラーでもあるピンクのジャージが印象的なチームでもあったが、度重なるドーピング疑惑への対応を迫られる形で、2007年シーズンをもってドイツテレコム時代からの16年間にわたるスポンサードを終了した。チームは運営母体となっていたハイロードスポーツの下で「チームハイロード」のチーム名で活動を継続し、その後アメリカのアパレルメーカーである[コロンビア](../Page/コロンビア.md "wikilink")や[HTCをメインスポンサーに活動していたが](../Page/HTC_\(企業\).md "wikilink")、2011年限りで解散した。
 
 ## 各国の現地法人
 
@@ -29,13 +29,13 @@
 
 ### [アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")
 
-2001年に、USで唯一GSM方式（[1900MHz帯](https://ja.wikipedia.org/wiki/PCS "wikilink")）により全国レベルでサービスを提供していたボイスストリーム（VoiceStream）を240億ドルで買収し、[T-Mobile USAとした](https://ja.wikipedia.org/wiki/T-Mobile_USA "wikilink")。その後、2013年5月に、T-Mobile USAと[MetroPCS](https://ja.wikipedia.org/wiki/MetroPCS "wikilink")は合併を完了して、T-Mobile USとなった。新会社の株式約74%は、ドイツテレコムの保有で、株式は、ニューヨーク証券取引所に上場された。\[1\]
+2001年に、USで唯一GSM方式（[1900MHz帯](../Page/PCS.md "wikilink")）により全国レベルでサービスを提供していたボイスストリーム（VoiceStream）を240億ドルで買収し、[T-Mobile USAとした](https://ja.wikipedia.org/wiki/T-Mobile_USA "wikilink")。その後、2013年5月に、T-Mobile USAと[MetroPCS](https://ja.wikipedia.org/wiki/MetroPCS "wikilink")は合併を完了して、T-Mobile USとなった。新会社の株式約74%は、ドイツテレコムの保有で、株式は、ニューヨーク証券取引所に上場された。\[1\]
 
 2013年3月末での、T-Mobile USAとMetroPCSの合算した加入者数は、約4300万人で、全米4位。EUのT-Mobileグループとは、周波数の違いなどから、端末やネットワーク調達では独自色が強い。加入者規模では、T-Mobileグループの中では、ドイツと並んで最大級。
 
 ### [イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")
 
-[1993年](../Page/1993年.md "wikilink")にサービスを開始した、One 2 Oneが前身。[1999年](../Page/1999年.md "wikilink")にドイツテレコムがマーキュリー・コミュニケーションズ（[ケーブル・アンド・ワイヤレス](https://ja.wikipedia.org/wiki/ケーブル・アンド・ワイヤレス "wikilink")の子会社）よりOne 2 Oneを買収。[2002年](../Page/2002年.md "wikilink")にT-モバイルUKとブランド名を変更した。技術方式はGSM方式（1800MHz）に加え、第三世代サービスとしてUMTS方式を2003年から提供している。国内の加入者数ではO2、[ボーダフォン](https://ja.wikipedia.org/wiki/ボーダフォン "wikilink")に次ぎ3位。[ヴァージン・グループ](https://ja.wikipedia.org/wiki/ヴァージン・グループ "wikilink")と提携し、[プリペイド方式の携帯電話サービス](https://ja.wikipedia.org/wiki/プリペイド式携帯電話 "wikilink")、ヴァージン・モバイルを運営（[仮想移動体通信事業者](https://ja.wikipedia.org/wiki/仮想移動体通信事業者 "wikilink")のさきがけ）。
+[1993年](../Page/1993年.md "wikilink")にサービスを開始した、One 2 Oneが前身。[1999年](../Page/1999年.md "wikilink")にドイツテレコムがマーキュリー・コミュニケーションズ（[ケーブル・アンド・ワイヤレス](../Page/ケーブル・アンド・ワイヤレス.md "wikilink")の子会社）よりOne 2 Oneを買収。[2002年](../Page/2002年.md "wikilink")にT-モバイルUKとブランド名を変更した。技術方式はGSM方式（1800MHz）に加え、第三世代サービスとしてUMTS方式を2003年から提供している。国内の加入者数ではO2、[ボーダフォン](https://ja.wikipedia.org/wiki/ボーダフォン "wikilink")に次ぎ3位。[ヴァージン・グループ](../Page/ヴァージン・グループ.md "wikilink")と提携し、[プリペイド方式の携帯電話サービス](../Page/プリペイド式携帯電話.md "wikilink")、ヴァージン・モバイルを運営（[仮想移動体通信事業者](https://ja.wikipedia.org/wiki/仮想移動体通信事業者 "wikilink")のさきがけ）。
 
 2009年に、[フランステレコム](https://ja.wikipedia.org/wiki/フランステレコム "wikilink")のオレンジ(UK)と合併し、"Everything Everywhere" ([EE](https://ja.wikipedia.org/wiki/EE_\(企業\) "wikilink"))となった。株式比率はドイツテレコム:フランステレコムが50:50。
 
@@ -57,7 +57,7 @@
 
 ### モンテネグロ
 
-モンテネグロT-モバイル(T-Mobile Montenegro)、[モンテネグロ](https://ja.wikipedia.org/wiki/モンテネグロ "wikilink")法人。
+モンテネグロT-モバイル(T-Mobile Montenegro)、[モンテネグロ](../Page/モンテネグロ.md "wikilink")法人。
 
 ### スロバキア
 
@@ -65,9 +65,9 @@
 
 ## 日本
 
-日本は世界でも数少ない「GSM方式を採用していない国」であり、T-モバイルのGSM携帯電話はそのまま使うことが出来ない。このためドイツテレコムの日本法人では、海外出張者向けにT-モバイルのサービスが受けられる携帯電話端末の販売を行っている。これらの端末は[SIMロック](../Page/SIMロック.md "wikilink")がかかっていないのが特徴で、[SIMカード](https://ja.wikipedia.org/wiki/SIMカード "wikilink")の差し替えが可能となっている（データ端末の一部にSIMロックあり）。
+日本は世界でも数少ない「GSM方式を採用していない国」であり、T-モバイルのGSM携帯電話はそのまま使うことが出来ない。このためドイツテレコムの日本法人では、海外出張者向けにT-モバイルのサービスが受けられる携帯電話端末の販売を行っている。これらの端末は[SIMロック](../Page/SIMロック.md "wikilink")がかかっていないのが特徴で、[SIMカード](../Page/SIMカード.md "wikilink")の差し替えが可能となっている（データ端末の一部にSIMロックあり）。
 
-ドイツ本国以外のT-Mobileの契約は、日本国内では[テレコムスクエア](https://ja.wikipedia.org/wiki/テレコムスクエア "wikilink")でT-Mobile USA等の一部ドイツ外T-Mobileオペレータの[SIMカード](https://ja.wikipedia.org/wiki/SIMカード "wikilink")契約が出来る。ただし、[ノキアストア東京駅八重洲地下街](https://ja.wikipedia.org/wiki/ノキアストア東京駅八重洲地下街 "wikilink")が閉鎖となったため、端末は別途用意が必要であるが、端末本体に限り、同社運営の「モバイルセンター成田空港」で購入できる場合があるとしている。
+ドイツ本国以外のT-Mobileの契約は、日本国内では[テレコムスクエア](../Page/テレコムスクエア.md "wikilink")でT-Mobile USA等の一部ドイツ外T-Mobileオペレータの[SIMカード](../Page/SIMカード.md "wikilink")契約が出来る。ただし、[ノキアストア東京駅八重洲地下街](https://ja.wikipedia.org/wiki/ノキアストア東京駅八重洲地下街 "wikilink")が閉鎖となったため、端末は別途用意が必要であるが、端末本体に限り、同社運営の「モバイルセンター成田空港」で購入できる場合があるとしている。
 
 また、これらの端末は、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[FOMA](../Page/FOMA.md "wikilink")端末との国際SMS（[ショートメッセージサービス](https://ja.wikipedia.org/wiki/ショートメッセージサービス "wikilink")）の利用が可能である。
 

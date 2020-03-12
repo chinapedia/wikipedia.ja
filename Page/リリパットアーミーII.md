@@ -1,14 +1,14 @@
 > この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
 
 
-**リリパットアーミーII**（リリパットアーミーセカンド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[劇団](https://ja.wikipedia.org/wiki/劇団 "wikilink")。座長は[わかぎゑふ](https://ja.wikipedia.org/wiki/わかぎゑふ "wikilink")。 [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[中島らも](../Page/中島らも.md "wikilink")主催・[笑殺軍団リリパットアーミー](https://ja.wikipedia.org/wiki/笑殺軍団リリパットアーミー "wikilink")として設立。当時のメンバーとして[桂吉朝](https://ja.wikipedia.org/wiki/桂吉朝 "wikilink")、[松尾貴史](../Page/松尾貴史.md "wikilink")、[チチ松村](https://ja.wikipedia.org/wiki/チチ松村 "wikilink")などが参加。 その後、リリパットアーミーに改名し、設立時から参加していた[わかぎゑふ](https://ja.wikipedia.org/wiki/わかぎゑふ "wikilink")らも加わる。 [2003年](../Page/2003年.md "wikilink")、わかぎゑふが2代目座長を継ぎ、リリパットアーミーIIに改名。
+**リリパットアーミーII**（リリパットアーミーセカンド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[劇団](../Page/劇団.md "wikilink")。座長は[わかぎゑふ](../Page/わかぎゑふ.md "wikilink")。 [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[中島らも](../Page/中島らも.md "wikilink")主催・[笑殺軍団リリパットアーミー](../Page/笑殺軍団リリパットアーミー.md "wikilink")として設立。当時のメンバーとして[桂吉朝](https://ja.wikipedia.org/wiki/桂吉朝 "wikilink")、[松尾貴史](../Page/松尾貴史.md "wikilink")、[チチ松村](../Page/チチ松村.md "wikilink")などが参加。 その後、リリパットアーミーに改名し、設立時から参加していた[わかぎゑふ](../Page/わかぎゑふ.md "wikilink")らも加わる。 [2003年](../Page/2003年.md "wikilink")、わかぎゑふが2代目座長を継ぎ、リリパットアーミーIIに改名。
 
 ## 主な俳優
 
-  - [わかぎゑふ](https://ja.wikipedia.org/wiki/わかぎゑふ "wikilink")
+  - [わかぎゑふ](../Page/わかぎゑふ.md "wikilink")
   - [朝深大介](https://ja.wikipedia.org/wiki/朝深大介 "wikilink")
-  - [コング桑田](https://ja.wikipedia.org/wiki/コング桑田 "wikilink")
-  - [野田晋市](https://ja.wikipedia.org/wiki/野田晋市 "wikilink")
+  - [コング桑田](../Page/コング桑田.md "wikilink")
+  - [野田晋市](../Page/野田晋市.md "wikilink")
   - [千田訓子](https://ja.wikipedia.org/wiki/千田訓子 "wikilink")
   - [上田 宏](https://ja.wikipedia.org/wiki/上田宏_\(俳優\) "wikilink")
   - [谷川未佳](https://ja.wikipedia.org/wiki/谷川未佳 "wikilink")
@@ -25,17 +25,17 @@
 
   - ちゃちゃちゃ～ある洋服職人の物語～
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+[2005年](../Page/2005年.md "wikilink")
 
   - ピンクピッグブルース
   - 時の男～匂うがごとく今盛りなり～
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")
+[2006年](../Page/2006年.md "wikilink")
 
   - 夜の姉妹
   - [天下御免の馬侍](https://ja.wikipedia.org/wiki/天下御免の馬侍 "wikilink")（中ノ島演劇祭参加作品）
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")
+[2007年](../Page/2007年.md "wikilink")
 
   - [大阪芝居～街編～](https://ja.wikipedia.org/wiki/大阪芝居～街編～ "wikilink")
   - [夜の姉妹](https://ja.wikipedia.org/wiki/夜の姉妹 "wikilink")

@@ -1,7 +1,7 @@
 > この記事は[Matrox Millennium](https://ja.wikipedia.org/wiki/Matrox_Millennium)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Matrox_millennium_ii_pci_with_vram_board.jpg "wikilink") **Millennium** (ミレニアム) はカナダの[Matrox](https://ja.wikipedia.org/wiki/Matrox "wikilink")社が1995年に発表したPC用[ビデオカード](../Page/ビデオカード.md "wikilink")、またその後継製品のシリーズ名である。本項ではMGA-Gシリーズより前の**Millenniumシリーズ**、および同製品の廉価版に相当する**Mystiqueシリーズ**、ならびに関連製品について取り扱う。Mystique220までは[NEC](https://ja.wikipedia.org/wiki/NEC "wikilink")や[HPなどにもチップが提供され](../Page/ヒューレット・パッカード.md "wikilink")、同社の製品にもチップレベルで搭載されている。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Matrox_millennium_ii_pci_with_vram_board.jpg "wikilink") **Millennium** (ミレニアム) はカナダの[Matrox](../Page/Matrox.md "wikilink")社が1995年に発表したPC用[ビデオカード](../Page/ビデオカード.md "wikilink")、またその後継製品のシリーズ名である。本項ではMGA-Gシリーズより前の**Millenniumシリーズ**、および同製品の廉価版に相当する**Mystiqueシリーズ**、ならびに関連製品について取り扱う。Mystique220までは[NEC](https://ja.wikipedia.org/wiki/NEC "wikilink")や[HPなどにもチップが提供され](../Page/ヒューレット・パッカード.md "wikilink")、同社の製品にもチップレベルで搭載されている。
 
 なお、*[millennium](https://ja.wikipedia.org/wiki/millennium "wikilink")*は[キリスト教](../Page/キリスト教.md "wikilink")の「[千年王国](../Page/千年王国.md "wikilink")」を、*Mystique*は「神秘」を、それぞれ意味する英単語である。
 
@@ -43,7 +43,7 @@
 
 ## Mystique（MGA-1064SG）
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Matrox_mga_1064SG.jpg "wikilink") **Mystique**(ミスティーク)はビデオチップとして**MGA-1064SG**を搭載するグラフィックアクセラレータである。"Millennium"シリーズの下位に位置する廉価ブランドとなる。170MHzのRAMDACを1基統合している。ビデオメモリとして64bitで接続された[SGRAMを](https://ja.wikipedia.org/wiki/SDRAM "wikilink")4MBまでサポートする。インターフェースはPCI。同社製ビデオチップとして初めて[RAMDAC](https://ja.wikipedia.org/wiki/RAMDAC "wikilink")を統合しており、コンシューマ向けという位置づけから、廉価版ながら3D機能・動画再生機能はMillenniumより強化されている。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Matrox_mga_1064SG.jpg "wikilink") **Mystique**(ミスティーク)はビデオチップとして**MGA-1064SG**を搭載するグラフィックアクセラレータである。"Millennium"シリーズの下位に位置する廉価ブランドとなる。170MHzのRAMDACを1基統合している。ビデオメモリとして64bitで接続された[SGRAMを](../Page/SDRAM.md "wikilink")4MBまでサポートする。インターフェースはPCI。同社製ビデオチップとして初めて[RAMDAC](https://ja.wikipedia.org/wiki/RAMDAC "wikilink")を統合しており、コンシューマ向けという位置づけから、廉価版ながら3D機能・動画再生機能はMillenniumより強化されている。
 
 ### Mystiqueシリーズ
 
@@ -162,7 +162,7 @@
 
 ## 以降のMillenniumシリーズ
 
-  - [Millennium G200](https://ja.wikipedia.org/wiki/G200シリーズ "wikilink")
+  - [Millennium G200](../Page/G200シリーズ.md "wikilink")
   - [Millennium G400](../Page/G400シリーズ.md "wikilink")
   - [Millennium G450](https://ja.wikipedia.org/wiki/G400シリーズ#MGA-G450 "wikilink")
   - [Millennium G550](https://ja.wikipedia.org/wiki/G400シリーズ#MGA-G550 "wikilink")
@@ -172,9 +172,9 @@
 
 ## 関連項目
 
-  - [Matrox](https://ja.wikipedia.org/wiki/Matrox "wikilink")
+  - [Matrox](../Page/Matrox.md "wikilink")
   - [Matrox Ultima, Impression](https://ja.wikipedia.org/wiki/Matrox_Ultima,_Impression "wikilink")
-  - [G200シリーズ](https://ja.wikipedia.org/wiki/G200シリーズ "wikilink")
+  - [G200シリーズ](../Page/G200シリーズ.md "wikilink")
   - [G400シリーズ](../Page/G400シリーズ.md "wikilink")
   - [Parhelia](../Page/Parhelia.md "wikilink")・P650シリーズ
   - [Matrox Mシリーズ](https://ja.wikipedia.org/wiki/Matrox_Mシリーズ "wikilink")

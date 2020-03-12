@@ -1,7 +1,7 @@
 > この記事は[Maple Colors](https://ja.wikipedia.org/wiki/Maple_Colors)から翻訳されています。
 
 
-『**Maple Colors**』（メイプルカラーズ）は、[2003年](../Page/2003年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")に[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランド[CROSSNET](https://ja.wikipedia.org/wiki/CROSSNET "wikilink")から発売（開発は[ApRicoT](https://ja.wikipedia.org/wiki/ApRicoT "wikilink")）された[18禁](https://ja.wikipedia.org/wiki/18禁 "wikilink")恋愛フィールドアドベンチャーゲームである。
+『**Maple Colors**』（メイプルカラーズ）は、[2003年](../Page/2003年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")に[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランド[CROSSNET](../Page/CROSSNET.md "wikilink")から発売（開発は[ApRicoT](https://ja.wikipedia.org/wiki/ApRicoT "wikilink")）された[18禁](https://ja.wikipedia.org/wiki/18禁 "wikilink")恋愛フィールドアドベンチャーゲームである。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 2005年3月31日に、[角川書店](../Page/角川書店.md "wikilink")より[PS2コンシューマー版として](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『**Maple Colors〜決戦は学園祭\!〜**』が発売される。
 
-2008年12月26日、Maple Colorsから5年後の世界を描いた『[Maple Colors 2](https://ja.wikipedia.org/wiki/Maple_Colors_2 "wikilink")』（メイプルカラーズセカンド）が[ApRicoT](https://ja.wikipedia.org/wiki/ApRicoT "wikilink")/[CROSSNET](https://ja.wikipedia.org/wiki/CROSSNET "wikilink")より発売。
+2008年12月26日、Maple Colorsから5年後の世界を描いた『[Maple Colors 2](https://ja.wikipedia.org/wiki/Maple_Colors_2 "wikilink")』（メイプルカラーズセカンド）が[ApRicoT](https://ja.wikipedia.org/wiki/ApRicoT "wikilink")/[CROSSNET](../Page/CROSSNET.md "wikilink")より発売。
 
 ## ストーリー
 
@@ -28,7 +28,7 @@
     無所属・脚本担当。
     2年B組の参謀的な役割を務め、「キャプテン」と呼ばれ恐れられる危険な女の子。演劇部に所属していたが、色々とあって退部している。演劇部との演劇勝負に勝利するために、悪知恵を駆使して2年B組を扇動する。
   - 秋穂 もみじ（あいお もみじ）
-    声：[木村あやか](https://ja.wikipedia.org/wiki/木村あやか "wikilink")
+    声：[木村あやか](../Page/木村あやか.md "wikilink")
     演劇部所属・小道具担当。
     天才演劇少女だが、その才能に気付いているのは未来と愛善部長のみ。愛善部長が彼女の演技力に嫉妬して役を与えないので、衣装係をしている。不遇な扱いを受けているが、前向きで明るい（天然ボケ）ので、その状況に気付いていない。
   - 卯月 あむ（うづき あむ）
@@ -40,11 +40,11 @@
     合気道部所属・役者担当。
     神社の娘で、延々と受け継がれている古武術の担い手。心技体を完璧に会得し、毅然とした立居振舞いで、融通が利かないほどに真面目。だが実は、可愛いものに目がない一面も。
   - 鈴原 空（すずはら そら）
-    声：[青山ゆかり](https://ja.wikipedia.org/wiki/青山ゆかり "wikilink")
+    声：[青山ゆかり](../Page/青山ゆかり.md "wikilink")
     水泳部所属・役者担当。
     虚無的で何事に対しても冷めた雰囲気、他人に合わせようという意思がなく、好んで独りでいることが多い。冷静に現実を見つめる目には、フィクションの類は受け入れられないようで、どこか蔑んでいる様子。
   - 桃井 葉子（ももい ようこ）
-    声：[大波こなみ](https://ja.wikipedia.org/wiki/大波こなみ "wikilink")
+    声：[大波こなみ](../Page/大波こなみ.md "wikilink")
     ソフトボール部所属・大道具担当。
     ソフトボール部のエースピッチャー。だが、極度のアガリ症で凄まじくプレッシャーに弱い。過去に演劇の経験があり、どうやら、その時のことがトラウマになっている様子。
 
@@ -66,13 +66,13 @@
     声：[有賀桃](https://ja.wikipedia.org/wiki/有賀桃 "wikilink")
     図書委員会所属・小道具担当。
   - 田中 加奈多（たなか かなた）
-    声：[松永雪希](https://ja.wikipedia.org/wiki/松永雪希 "wikilink")
+    声：[松永雪希](../Page/松永雪希.md "wikilink")
     学生会書記・大道具担当。
   - 千曲川 夜渡（ちくまがわ やと）
     声：[かわの亜衣](https://ja.wikipedia.org/wiki/かわの亜衣 "wikilink")
     ソフトボール部所属・小道具担当。
   - 夏目 千佳（なつめ ちか）
-    声：[芹園みや](https://ja.wikipedia.org/wiki/芹園みや "wikilink")
+    声：[芹園みや](../Page/芹園みや.md "wikilink")
     飼育委員会所属・小道具担当。
   - 二曜 頼子（によう よりこ）
     声：[内野ぽち](https://ja.wikipedia.org/wiki/内野ぽち "wikilink")
@@ -84,7 +84,7 @@
     声：[金田まひる](../Page/金田まひる.md "wikilink")
     図書委員会所属・役者担当。
   - 百地 桃（ももち もも）
-    声：[三園あすか](https://ja.wikipedia.org/wiki/三園あすか "wikilink")
+    声：[三園あすか](../Page/三園あすか.md "wikilink")
     演劇部所属・小道具担当。
   - 山形 晶（やまがた あきら）
     声：[柏倉れん](https://ja.wikipedia.org/wiki/柏倉れん "wikilink")
@@ -93,7 +93,7 @@
 ### 2B男子
 
   - 佐久 良次郎（さく よしじろう）
-    声：[氷河流](https://ja.wikipedia.org/wiki/氷河流_\(声優\) "wikilink")
+    声：[氷河流](../Page/氷河流_\(声優\).md "wikilink")
     本編主人公。
   - 大久保 力（おおくぼ ちから）
     声：[風見裕介](https://ja.wikipedia.org/wiki/風見裕介 "wikilink")
@@ -119,7 +119,7 @@
     声：[五反田正人](https://ja.wikipedia.org/wiki/五反田正人 "wikilink")
     放送委員会所属・役者担当。
   - 右田 純一（みぎた じゅんいち）
-    声：[緒田マリ](https://ja.wikipedia.org/wiki/緒田マリ "wikilink")
+    声：[緒田マリ](../Page/緒田マリ.md "wikilink")
     サッカー部所属・大道具担当。
   - 美作 上野介（みまさか こうずのすけ）
     声：[佐藤宏](https://ja.wikipedia.org/wiki/佐藤宏_\(声優\) "wikilink")
@@ -144,12 +144,12 @@
     水泳部所属。
 
   - 岩田 鉄子（いわた てつこ）
-    声：[三園あすか](https://ja.wikipedia.org/wiki/三園あすか "wikilink")
+    声：[三園あすか](../Page/三園あすか.md "wikilink")
 
     ソフトボール部部長。
 
   - 神宮寺 夢子（じんぐうじ ゆめこ）
-    声：[柚木かなめ](https://ja.wikipedia.org/wiki/柚木かなめ "wikilink")
+    声：[柚木かなめ](../Page/柚木かなめ.md "wikilink")
 
     演劇部副部長。
 
@@ -241,7 +241,7 @@
 ## テーマソング
 
   - オープニングテーマ：**Breakthrough Your Heart**
-      - 作詞：A. Masato / 作曲：響玉之助 / 歌：[YURIA](https://ja.wikipedia.org/wiki/YURIA "wikilink")
+      - 作詞：A. Masato / 作曲：響玉之助 / 歌：[YURIA](../Page/YURIA.md "wikilink")
     <!-- end list -->
       -
         OVAではエンディングだった。
@@ -268,7 +268,7 @@
 
 ### CD
 
-  - Maple Colors オリジナルサウンドトラック（[ランティス](https://ja.wikipedia.org/wiki/ランティス "wikilink")）
+  - Maple Colors オリジナルサウンドトラック（[ランティス](../Page/ランティス.md "wikilink")）
   - Maple Colors オリジナルドラマアルバム（ランティス）
 
 ## 外部リンク

@@ -1,7 +1,7 @@
 > この記事は[TRUE REMEMBRANCE](https://ja.wikipedia.org/wiki/TRUE_REMEMBRANCE)から翻訳されています。
 
 
-『**TRUE REMEMBRANCE**』は、里見しばによる[サウンドノベル](../Page/サウンドノベル.md "wikilink")である。『[鬼哭街](https://ja.wikipedia.org/wiki/鬼哭街 "wikilink")』や『[ひぐらしのなく頃に](https://ja.wikipedia.org/wiki/ひぐらしのなく頃に "wikilink")』と同様、サウンドノベルのゲーム要素である選択肢が存在せず、純粋にストーリーを楽しむ構成になっている。ゲームエンジンに「吉里吉里2/KAG3」を用いて制作された。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")にはinsaniによる英語版も公開された。
+『**TRUE REMEMBRANCE**』は、里見しばによる[サウンドノベル](../Page/サウンドノベル.md "wikilink")である。『[鬼哭街](../Page/鬼哭街.md "wikilink")』や『[ひぐらしのなく頃に](../Page/ひぐらしのなく頃に.md "wikilink")』と同様、サウンドノベルのゲーム要素である選択肢が存在せず、純粋にストーリーを楽しむ構成になっている。ゲームエンジンに「吉里吉里2/KAG3」を用いて制作された。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")にはinsaniによる英語版も公開された。
 
 2012年2月22日には[ニンテンドー3DS](https://ja.wikipedia.org/wiki/ニンテンドー3DS "wikilink")用ダウンロードソフト『**TRUE REMEMBRANCE 〜記憶のかけら〜**』が発売された。こちらはおまけシナリオ等の追加やイラストレーターの変更（VOFAN）がされている\[1\]。ただし3D表示には対応していない。
 

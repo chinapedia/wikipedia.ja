@@ -1,23 +1,23 @@
 > この記事は[Eliana](https://ja.wikipedia.org/wiki/Eliana)から翻訳されています。
 
 
-**エリアンナ**（Eliana、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[5月14日](../Page/5月14日.md "wikilink") - ）は[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[世田谷区](https://ja.wikipedia.org/wiki/世田谷区 "wikilink")出身の[歌手](../Page/歌手.md "wikilink")。[私立](../Page/私立学校.md "wikilink")[堀越高等学校](https://ja.wikipedia.org/wiki/堀越高等学校 "wikilink")卒業。血液型A型。
+**エリアンナ**（Eliana、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[5月14日](../Page/5月14日.md "wikilink") - ）は[東京都](../Page/東京都.md "wikilink")[世田谷区](../Page/世田谷区.md "wikilink")出身の[歌手](../Page/歌手.md "wikilink")。[私立](../Page/私立学校.md "wikilink")[堀越高等学校](../Page/堀越高等学校.md "wikilink")卒業。血液型A型。
 
 あだ名は「**エリー**」「**エリーちゃん**」など。
 
 ## 略歴・人物
 
   - 父親が[ブラジル人](https://ja.wikipedia.org/wiki/ブラジル人 "wikilink")（ミュージシャン）で母親が日本人のハーフ。7歳のときには父親のステージで歌いはじめ、『[亀渕友香](../Page/亀渕友香.md "wikilink") & the Voice of Japan』にも参加していた\[1\]。
-  - 2000年、[クラリオンガール](../Page/クラリオンガール.md "wikilink")・スカラーシップに最年少の15歳で選ばれた。同年[プライエイドよりデビュー](https://ja.wikipedia.org/wiki/ポリスター "wikilink")。
+  - 2000年、[クラリオンガール](../Page/クラリオンガール.md "wikilink")・スカラーシップに最年少の15歳で選ばれた。同年[プライエイドよりデビュー](../Page/ポリスター.md "wikilink")。
   - 2003年、[DJ KAORIプロデュースにより](https://ja.wikipedia.org/wiki/DJ_KAORI "wikilink")[フナイエンタテイメント・ジャパン](https://ja.wikipedia.org/wiki/フナイエンタテイメント・ジャパン "wikilink")から再デビュー。
 
 ## ディスコグラフィー
 
 ### シングル
 
-1.  **[WON'T BE LONG](https://ja.wikipedia.org/wiki/WON'T_BE_LONG "wikilink")**（2000年11月22日）
-    1.  Won't be long 2001Version（[バブルガム・ブラザーズ](https://ja.wikipedia.org/wiki/バブルガム・ブラザーズ "wikilink")のカバー）
-    2.  [SUKIYAKI](https://ja.wikipedia.org/wiki/上を向いて歩こう "wikilink")（[坂本九](../Page/坂本九.md "wikilink")のカバー）
+1.  **[WON'T BE LONG](../Page/WON'T_BE_LONG.md "wikilink")**（2000年11月22日）
+    1.  Won't be long 2001Version（[バブルガム・ブラザーズ](../Page/バブルガム・ブラザーズ.md "wikilink")のカバー）
+    2.  [SUKIYAKI](../Page/上を向いて歩こう.md "wikilink")（[坂本九](../Page/坂本九.md "wikilink")のカバー）
     3.  Won't be long 2001Version(English Version)
     4.  Won't be long 2001Version(Back track)
     5.  SUKIYAKI(BACK TRACK)
@@ -58,7 +58,7 @@
 
 ### ゲスト参加作品
 
-[Jazztronik](https://ja.wikipedia.org/wiki/Jazztronik "wikilink") 『Dig Dig Dig』（2011年6月8日）
+[Jazztronik](../Page/Jazztronik.md "wikilink") 『Dig Dig Dig』（2011年6月8日）
 
   - 10\. Dare feat.Mika Arisaka & Eliana
   - 13\. Humming Bird feat.Mika Arisaka & Eliana
@@ -148,35 +148,35 @@
 ### ライヴツアー
 
   - 2008年　[HY (バンド)](https://ja.wikipedia.org/wiki/HY_\(バンド\) "wikilink")　「HY PACHINAI×32 BAMMICASUNDOH TOUR '08」（コーラス参加）
-  - 2009年　[K (歌手)](https://ja.wikipedia.org/wiki/K_\(歌手\) "wikilink")　「live K tour 2009 Traveling Song 〜K meets THE THRILL〜」（コーラス参加）
+  - 2009年　[K (歌手)](../Page/K_\(歌手\).md "wikilink")　「live K tour 2009 Traveling Song 〜K meets THE THRILL〜」（コーラス参加）
   - 2013年　[BENI](https://ja.wikipedia.org/wiki/BENI "wikilink")　「Red Live Tour 2013」（コーラス参加）
   - 2015年　[TUBE](../Page/TUBE.md "wikilink")　「TUBE LIVE AROUND 2015　Your TUBE ＋My TUBE」（コーラス参加）
 
 ### 舞台
 
-  - 2001年 『セツアンの善人』 （[赤坂ACTシアター](https://ja.wikipedia.org/wiki/赤坂ACTシアター "wikilink")・[シアタードラマシティ](https://ja.wikipedia.org/wiki/梅田芸術劇場 "wikilink")）
-  - 2008年 『[RENT](https://ja.wikipedia.org/wiki/レント_\(ミュージカル\) "wikilink")』（[シアタークリエ](https://ja.wikipedia.org/wiki/シアタークリエ "wikilink")・[シアターBRAVA\!](https://ja.wikipedia.org/wiki/シアターBRAVA! "wikilink")）
+  - 2001年 『セツアンの善人』 （[赤坂ACTシアター](https://ja.wikipedia.org/wiki/赤坂ACTシアター "wikilink")・[シアタードラマシティ](../Page/梅田芸術劇場.md "wikilink")）
+  - 2008年 『[RENT](../Page/レント_\(ミュージカル\).md "wikilink")』（[シアタークリエ](../Page/シアタークリエ.md "wikilink")・[シアターBRAVA\!](../Page/シアターBRAVA!.md "wikilink")）
   - 2010年 『RENT』（シアタークリエ）
-  - 2012年 『[アイ・ガット・マーマン](https://ja.wikipedia.org/wiki/アイ・ガット・マーマン "wikilink")』【ファビュラス・キャスト】（シアタークリエ）
+  - 2012年 『[アイ・ガット・マーマン](../Page/アイ・ガット・マーマン.md "wikilink")』【ファビュラス・キャスト】（シアタークリエ）
   - 『[ウィズ〜オズの魔法使い](https://ja.wikipedia.org/wiki/ザ・ウィズ_\(ミュージカル\) "wikilink")〜』
       - （2012年9月28日 - 30日、[KAAT神奈川芸術劇場ホール](https://ja.wikipedia.org/wiki/神奈川芸術劇場 "wikilink")）
-      - （2012年10月4日 - 7日、[梅田芸術劇場](https://ja.wikipedia.org/wiki/梅田芸術劇場 "wikilink")メインホール）
-      - （2012年10月18日 - 28日、[東京国際フォーラム](https://ja.wikipedia.org/wiki/東京国際フォーラム "wikilink")ホールC）
-      - （2012年11月3日 - 6日、[中日劇場](https://ja.wikipedia.org/wiki/中日劇場 "wikilink")）
-  - 2014年、『[愛の唄を歌おう](https://ja.wikipedia.org/wiki/愛の唄を歌おう "wikilink")』（[東急シアターオーブ](https://ja.wikipedia.org/wiki/東急シアターオーブ "wikilink")、[オリックス劇場](https://ja.wikipedia.org/wiki/オリックス劇場 "wikilink")）
+      - （2012年10月4日 - 7日、[梅田芸術劇場](../Page/梅田芸術劇場.md "wikilink")メインホール）
+      - （2012年10月18日 - 28日、[東京国際フォーラム](../Page/東京国際フォーラム.md "wikilink")ホールC）
+      - （2012年11月3日 - 6日、[中日劇場](../Page/中日劇場.md "wikilink")）
+  - 2014年、『[愛の唄を歌おう](https://ja.wikipedia.org/wiki/愛の唄を歌おう "wikilink")』（[東急シアターオーブ](https://ja.wikipedia.org/wiki/東急シアターオーブ "wikilink")、[オリックス劇場](../Page/オリックス劇場.md "wikilink")）
   - 2014年、ミュージカル『イン・ザ・ハイツ』（[シアターコクーン](../Page/シアターコクーン.md "wikilink")）他
   - 2014年、[鈴木おさむ](../Page/鈴木おさむ.md "wikilink")脚本・演出　[今田耕司](../Page/今田耕司.md "wikilink")主演　『A.V.M』（[俳優座劇場](https://ja.wikipedia.org/wiki/俳優座劇場 "wikilink")）
-  - 2014年、[ヴェローナの二紳士](https://ja.wikipedia.org/wiki/ヴェローナの二紳士 "wikilink")（[日生劇場](https://ja.wikipedia.org/wiki/日生劇場 "wikilink")）他
-  - 2015年、『ウィズ〜オズの魔法使い〜』 再演 （[東京国際フォーラム](https://ja.wikipedia.org/wiki/東京国際フォーラム "wikilink")ホールC）他
+  - 2014年、[ヴェローナの二紳士](https://ja.wikipedia.org/wiki/ヴェローナの二紳士 "wikilink")（[日生劇場](../Page/日生劇場.md "wikilink")）他
+  - 2015年、『ウィズ〜オズの魔法使い〜』 再演 （[東京国際フォーラム](../Page/東京国際フォーラム.md "wikilink")ホールC）他
   - 2016年、ミュージカル『[プリシラ](https://ja.wikipedia.org/wiki/プリシラ_\(映画\)#ミュージカル版 "wikilink")』 - DIVA 役
-  - 2017年、ミュージカル『[キューティ・ブロンド](https://ja.wikipedia.org/wiki/キューティ・ブロンド#日本公演 "wikilink")』（[シアタークリエ](https://ja.wikipedia.org/wiki/シアタークリエ "wikilink")、[メルパルク](https://ja.wikipedia.org/wiki/メルパルク "wikilink")ホール大阪）他\[3\]
+  - 2017年、ミュージカル『[キューティ・ブロンド](https://ja.wikipedia.org/wiki/キューティ・ブロンド#日本公演 "wikilink")』（[シアタークリエ](../Page/シアタークリエ.md "wikilink")、[メルパルク](../Page/メルパルク.md "wikilink")ホール大阪）他\[3\]
   - 2018年、[ディズニー](https://ja.wikipedia.org/wiki/ディズニー "wikilink")ミュージカル『[メリー・ポピンズ](https://ja.wikipedia.org/wiki/メリー・ポピンズ#ミュージカル "wikilink")』- アンサンブル
   - 2018年、ミュージカル『[深夜食堂](https://ja.wikipedia.org/wiki/深夜食堂#ミュージカル "wikilink")』 - マリリン松嶋 役
-  - 2019年、ミュージカル『[ファントム](https://ja.wikipedia.org/wiki/ファントム "wikilink")』- カルロッタ　役
+  - 2019年、ミュージカル『[ファントム](../Page/ファントム.md "wikilink")』- カルロッタ　役
 
 ### イメージソング関連
 
-  - [2004年](../Page/2004年.md "wikilink")「[鈴鹿8時間耐久ロードレース](https://ja.wikipedia.org/wiki/鈴鹿8時間耐久ロードレース "wikilink")」前夜祭出演
+  - [2004年](../Page/2004年.md "wikilink")「[鈴鹿8時間耐久ロードレース](../Page/鈴鹿8時間耐久ロードレース.md "wikilink")」前夜祭出演
 
 ### ゲーム
 

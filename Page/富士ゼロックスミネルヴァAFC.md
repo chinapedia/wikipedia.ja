@@ -9,11 +9,11 @@
 
 [1989年](../Page/1989年.md "wikilink")に**チームゼロックス**として創部\[1\]。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に富士ゼロックスレイダースとクラブシャークスが合併し、**富士ゼロックスクラブシャークス**となる。
+[2005年](../Page/2005年.md "wikilink")に富士ゼロックスレイダースとクラブシャークスが合併し、**富士ゼロックスクラブシャークス**となる。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")、[Xリーグ](https://ja.wikipedia.org/wiki/Xリーグ "wikilink")1部昇格。リーグ戦では[ハスキーズ](https://ja.wikipedia.org/wiki/ハスキーズ "wikilink")に僅差で敗れ、X2 EAST 2位でシーズンを終えたが、優勝したハスキーズが財政上の事情から「仮に入替戦に勝利し、1部昇格してもチーム運営の目処が立たない」として入替戦出場を辞退したため、これに代わって出場した。しかし、ここでも[ロックブル](https://ja.wikipedia.org/wiki/ロックブル "wikilink")に惜敗し、この時点で昇格の可能性は一旦消滅したが、[日産スカイライナーズ](https://ja.wikipedia.org/wiki/日産スカイライナーズ "wikilink")のチーム解散に伴い1部リーグの所属チーム枠に空きが生じ、これを巡って、X2 CENTRALで入替戦に敗れた[ブルザイズ東京](https://ja.wikipedia.org/wiki/ブルザイズ東京 "wikilink")と対戦して勝利し、1部昇格が実現した。
+[2006年](../Page/2006年.md "wikilink")、[Xリーグ](https://ja.wikipedia.org/wiki/Xリーグ "wikilink")1部昇格。リーグ戦では[ハスキーズ](https://ja.wikipedia.org/wiki/ハスキーズ "wikilink")に僅差で敗れ、X2 EAST 2位でシーズンを終えたが、優勝したハスキーズが財政上の事情から「仮に入替戦に勝利し、1部昇格してもチーム運営の目処が立たない」として入替戦出場を辞退したため、これに代わって出場した。しかし、ここでも[ロックブル](https://ja.wikipedia.org/wiki/ロックブル "wikilink")に惜敗し、この時点で昇格の可能性は一旦消滅したが、[日産スカイライナーズ](https://ja.wikipedia.org/wiki/日産スカイライナーズ "wikilink")のチーム解散に伴い1部リーグの所属チーム枠に空きが生じ、これを巡って、X2 CENTRALで入替戦に敗れた[ブルザイズ東京](https://ja.wikipedia.org/wiki/ブルザイズ東京 "wikilink")と対戦して勝利し、1部昇格が実現した。
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")に**富士ゼロックスAFC**へ名称変更。
+[2007年](../Page/2007年.md "wikilink")に**富士ゼロックスAFC**へ名称変更。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に**富士ゼロックスミネルヴァAFC**へ名称変更。
 

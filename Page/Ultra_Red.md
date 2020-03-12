@@ -1,13 +1,13 @@
 > この記事は[Ultra Red](https://ja.wikipedia.org/wiki/Ultra_Red)から翻訳されています。
 
 
-**『Ultra Red』**（ウルトラレッド）は、[鈴木央](https://ja.wikipedia.org/wiki/鈴木央 "wikilink")の[格闘](https://ja.wikipedia.org/wiki/格闘漫画 "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")で 2002年45号から2003年29号に連載された。
+**『Ultra Red』**（ウルトラレッド）は、[鈴木央](../Page/鈴木央.md "wikilink")の[格闘](https://ja.wikipedia.org/wiki/格闘漫画 "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")で 2002年45号から2003年29号に連載された。
 
 ## 概要
 
 格闘技をテーマとした漫画で、実在の格闘技から架空の格闘技まで様々な格闘技が出てくる。
 
-モブキャラとして、作者の前作でもある[ライジングインパクト](https://ja.wikipedia.org/wiki/ライジングインパクト "wikilink")のキャラクターの一部が登場している。中にはチョイ役ではあるがモブ以外で登場しているキャラもいる。
+モブキャラとして、作者の前作でもある[ライジングインパクト](../Page/ライジングインパクト.md "wikilink")のキャラクターの一部が登場している。中にはチョイ役ではあるがモブ以外で登場しているキャラもいる。
 
 ## 物語
 
@@ -88,7 +88,7 @@
 <!-- end list -->
 
   -
-    得意武術は[ボクシング](https://ja.wikipedia.org/wiki/ボクシング "wikilink")（作中では練習にてだけだが柔道の使い手でもある）。青色のトゲトゲとした髪型をしている。
+    得意武術は[ボクシング](../Page/ボクシング.md "wikilink")（作中では練習にてだけだが柔道の使い手でもある）。青色のトゲトゲとした髪型をしている。
     登場当初は冷酷な性格だったが、閃に打ち負かされたことによりしだいに心が替わっていく。
 
 <!-- end list -->

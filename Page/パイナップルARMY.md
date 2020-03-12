@@ -1,30 +1,30 @@
 > この記事は[ARMY](https://ja.wikipedia.org/wiki/ARMY)から翻訳されています。
 
 
-『**パイナップルARMY**』（パイナップルアーミー）は、原作[工藤かずや](https://ja.wikipedia.org/wiki/工藤かずや "wikilink")、作画[浦沢直樹](../Page/浦沢直樹.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。『[ビッグコミックオリジナル](https://ja.wikipedia.org/wiki/ビッグコミックオリジナル "wikilink")』（[小学館](../Page/小学館.md "wikilink")）にて[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")から[1988年](../Page/1988年.md "wikilink")まで連載\[1\]。単行本は[小学館](../Page/小学館.md "wikilink")[ビッグコミックス](https://ja.wikipedia.org/wiki/ビッグコミックス "wikilink")版全8巻、文庫版全6巻。
+『**パイナップルARMY**』（パイナップルアーミー）は、原作[工藤かずや](../Page/工藤かずや.md "wikilink")、作画[浦沢直樹](../Page/浦沢直樹.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。『[ビッグコミックオリジナル](../Page/ビッグコミックオリジナル.md "wikilink")』（[小学館](../Page/小学館.md "wikilink")）にて[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")から[1988年](../Page/1988年.md "wikilink")まで連載\[1\]。単行本は[小学館](../Page/小学館.md "wikilink")[ビッグコミックス](https://ja.wikipedia.org/wiki/ビッグコミックス "wikilink")版全8巻、文庫版全6巻。
 
 ## あらすじ
 
-主人公**ジェド・豪士**は世界各地の戦場を渡り歩いた元[傭兵](../Page/傭兵.md "wikilink")。傭兵を引退した彼は、[民間の軍事顧問機関である](https://ja.wikipedia.org/wiki/民間軍事会社 "wikilink")「CMA」に転職。戦闘インストラクターとして、多様な事情を持つ人々からの依頼により、それぞれの戦場で生き延びる道をレクチャーする。
+主人公**ジェド・豪士**は世界各地の戦場を渡り歩いた元[傭兵](../Page/傭兵.md "wikilink")。傭兵を引退した彼は、[民間の軍事顧問機関である](../Page/民間軍事会社.md "wikilink")「CMA」に転職。戦闘インストラクターとして、多様な事情を持つ人々からの依頼により、それぞれの戦場で生き延びる道をレクチャーする。
 
 ## 登場人物
 
   - ジェド・豪士
-    本作の主人公。[1970年代](../Page/1970年代.md "wikilink")に兵士として数々の戦場を巡った経験を持つ。名前や経歴などから[日系アメリカ人](https://ja.wikipedia.org/wiki/日系アメリカ人 "wikilink")であるようだが\[2\]、[母国語](https://ja.wikipedia.org/wiki/母国語 "wikilink")が[日本語](../Page/日本語.md "wikilink")であることを匂わせる描写も見られる\[3\]。戦場における各種テクニックに優れ、爆弾解体技術や戦術への造詣も深く、類稀なる強運にも恵まれている。当初、[アメリカ海兵隊](https://ja.wikipedia.org/wiki/アメリカ海兵隊 "wikilink")隊員として[ベトナム戦争](../Page/ベトナム戦争.md "wikilink")に参加、海兵隊を除隊した後は傭兵として世界各地の戦場で戦い続けた。しかし、[1979年](../Page/1979年.md "wikilink")の[リビア](https://ja.wikipedia.org/wiki/リビア "wikilink")での戦闘を最後に傭兵を引退、以後はCMAの戦闘インストラクターとして生計を立てている。
+    本作の主人公。[1970年代](../Page/1970年代.md "wikilink")に兵士として数々の戦場を巡った経験を持つ。名前や経歴などから[日系アメリカ人](https://ja.wikipedia.org/wiki/日系アメリカ人 "wikilink")であるようだが\[2\]、[母国語](https://ja.wikipedia.org/wiki/母国語 "wikilink")が[日本語](../Page/日本語.md "wikilink")であることを匂わせる描写も見られる\[3\]。戦場における各種テクニックに優れ、爆弾解体技術や戦術への造詣も深く、類稀なる強運にも恵まれている。当初、[アメリカ海兵隊](../Page/アメリカ海兵隊.md "wikilink")隊員として[ベトナム戦争](../Page/ベトナム戦争.md "wikilink")に参加、海兵隊を除隊した後は傭兵として世界各地の戦場で戦い続けた。しかし、[1979年](../Page/1979年.md "wikilink")の[リビア](https://ja.wikipedia.org/wiki/リビア "wikilink")での戦闘を最後に傭兵を引退、以後はCMAの戦闘インストラクターとして生計を立てている。
     上記のように各種銃器や爆発物、トラップ等への造詣が深く、また、ＦＢＩ等の司法機関のエージェントが使用するコンバット・シューティングスキルも身につけている。戦闘インストラクターとしての彼の方針は“生存を第一とする”ものである。時には拷問と思えるほどの過酷なトレーニングを訓練生たちに課す事もある。
-    作中前半では[M79 グレネードランチャーのスペシャリストという設定であったが](https://ja.wikipedia.org/wiki/M79_グレネードランチャー "wikilink")、\[4\]中盤以降はこれを使用する場面はなかった。一方で[拳銃](https://ja.wikipedia.org/wiki/拳銃 "wikilink")は [M1911A1を愛用している](https://ja.wikipedia.org/wiki/コルト・ガバメント "wikilink")（仕事内容に応じて[Cz75](https://ja.wikipedia.org/wiki/Cz75 "wikilink")など他の銃器を使用することもある）。また、[ピアノ線](https://ja.wikipedia.org/wiki/ピアノ線 "wikilink")を携行しており、追手を防ぐために[パイナップル型手榴弾と合わせて](https://ja.wikipedia.org/wiki/マークII手榴弾 "wikilink")[ブービートラップ](https://ja.wikipedia.org/wiki/ブービートラップ "wikilink")を仕掛けることを得意とする。
+    作中前半では[M79 グレネードランチャーのスペシャリストという設定であったが](../Page/M79_グレネードランチャー.md "wikilink")、\[4\]中盤以降はこれを使用する場面はなかった。一方で[拳銃](../Page/拳銃.md "wikilink")は [M1911A1を愛用している](https://ja.wikipedia.org/wiki/コルト・ガバメント "wikilink")（仕事内容に応じて[Cz75](../Page/Cz75.md "wikilink")など他の銃器を使用することもある）。また、[ピアノ線](../Page/ピアノ線.md "wikilink")を携行しており、追手を防ぐために[パイナップル型手榴弾と合わせて](https://ja.wikipedia.org/wiki/マークII手榴弾 "wikilink")[ブービートラップ](../Page/ブービートラップ.md "wikilink")を仕掛けることを得意とする。
     [チェス](../Page/チェス.md "wikilink")と釣り、日曜大工が趣味。オフの時は武器を見たくないということで自宅に拳銃などは置いていない。
 
 <!-- end list -->
 
   - 珍
-    豪士の戦友の一人。[中国系と思わせる](https://ja.wikipedia.org/wiki/中国人 "wikilink")[口調の小柄な男](https://ja.wikipedia.org/wiki/協和語 "wikilink")。情報技術のプロと設定されているが、これは物語序盤である「五人の軍隊」編においてのみ活かされている。プライベートでの豪士との付き合いは深い。豪士とのチェスの通算成績は勝ち越している。
+    豪士の戦友の一人。[中国系と思わせる](../Page/中国人.md "wikilink")[口調の小柄な男](../Page/協和語.md "wikilink")。情報技術のプロと設定されているが、これは物語序盤である「五人の軍隊」編においてのみ活かされている。プライベートでの豪士との付き合いは深い。豪士とのチェスの通算成績は勝ち越している。
   - サミュエル・ハリデー
-    米軍時代の豪士の上官。軍隊での最終階級は[准将](https://ja.wikipedia.org/wiki/准将 "wikilink")。現在は「スミソニアン兵器博物館」の館長として暮らしている。[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")・ヨーロッパ戦線から[朝鮮戦争](https://ja.wikipedia.org/wiki/朝鮮戦争 "wikilink")、ベトナム戦争に至るまで、長年に渡って米国軍人として戦い続けた男であり、“70年代最高の策士”と称される。
+    米軍時代の豪士の上官。軍隊での最終階級は[准将](../Page/准将.md "wikilink")。現在は「スミソニアン兵器博物館」の館長として暮らしている。[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")・ヨーロッパ戦線から[朝鮮戦争](https://ja.wikipedia.org/wiki/朝鮮戦争 "wikilink")、ベトナム戦争に至るまで、長年に渡って米国軍人として戦い続けた男であり、“70年代最高の策士”と称される。
   - オールビー・コーツ
     米軍及び傭兵時代の豪士のライバル。豪士とは、ある時は味方、ある時は敵として戦場でまみえた強者。物語序盤の「五人の軍隊」編においてアメリカ海兵隊に復帰、カイト将軍のクーデターに参加する。その後、[ホンジュラス](https://ja.wikipedia.org/wiki/ホンジュラス "wikilink")に潜伏中に豪士と再会する。
   - ジェフリー
-    傭兵時代の豪士の戦友。[アフリカ系アメリカ人](https://ja.wikipedia.org/wiki/アフリカ系アメリカ人 "wikilink")。刑務所を脱獄してまで豪士たちの戦いに加わるなどの荒事好きな男として登場するが、その後は粗暴さよりも陽気な性格を強調して描かれるようになった。バイクの運転、格闘技を得意とする。
+    傭兵時代の豪士の戦友。[アフリカ系アメリカ人](../Page/アフリカ系アメリカ人.md "wikilink")。刑務所を脱獄してまで豪士たちの戦いに加わるなどの荒事好きな男として登場するが、その後は粗暴さよりも陽気な性格を強調して描かれるようになった。バイクの運転、格闘技を得意とする。
   - ジャネット
     傭兵時代の豪士の戦友。女性。[エルサルバドル](https://ja.wikipedia.org/wiki/エルサルバドル "wikilink")で殺された夫の仇を討った後、[スナイパー](https://ja.wikipedia.org/wiki/スナイパー "wikilink")として傭兵になった。男運に恵まれず、最初の夫は殺害され、2人目の夫となるはずだった男性とは、結婚式当日にジャネットが豪士の元へ駆けつけたため、破談となった（と思われる）。豪士とは付かず離れずの関係。
   - キース

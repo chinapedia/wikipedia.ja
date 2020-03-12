@@ -1,9 +1,9 @@
 > この記事は[TO](https://ja.wikipedia.org/wiki/TO)から翻訳されています。
 
 
-**TO熊カード** （**ツーユーカード**）は、かつて[熊本市交通局](../Page/熊本市交通局.md "wikilink")の[路面電車](../Page/路面電車.md "wikilink")（熊本市電）、[九州産交バス](https://ja.wikipedia.org/wiki/九州産交バス "wikilink")・産交バス、[熊本電鉄バス](https://ja.wikipedia.org/wiki/熊本電気鉄道 "wikilink")、[熊本バス](https://ja.wikipedia.org/wiki/熊本バス "wikilink")、[熊本都市バス](https://ja.wikipedia.org/wiki/熊本都市バス "wikilink")の各バス路線で相互に利用できた[プリペイドカードである](../Page/乗車カード.md "wikilink")。熊本電鉄の鉄道路線および、高速バス（県外の会社が運行するバス）など一部のバスでは使用できない。
+**TO熊カード** （**ツーユーカード**）は、かつて[熊本市交通局](../Page/熊本市交通局.md "wikilink")の[路面電車](../Page/路面電車.md "wikilink")（熊本市電）、[九州産交バス](../Page/九州産交バス.md "wikilink")・産交バス、[熊本電鉄バス](../Page/熊本電気鉄道.md "wikilink")、[熊本バス](../Page/熊本バス.md "wikilink")、[熊本都市バス](https://ja.wikipedia.org/wiki/熊本都市バス "wikilink")の各バス路線で相互に利用できた[プリペイドカードである](../Page/乗車カード.md "wikilink")。熊本電鉄の鉄道路線および、高速バス（県外の会社が運行するバス）など一部のバスでは使用できない。
 
-それまで発売されていた県内共通[回数券の代替として](https://ja.wikipedia.org/wiki/回数乗車券 "wikilink")[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）[3月30日](../Page/3月30日.md "wikilink")に導入された。愛称名は一般公募により決められたものである。
+それまで発売されていた県内共通[回数券の代替として](../Page/回数乗車券.md "wikilink")[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）[3月30日](../Page/3月30日.md "wikilink")に導入された。愛称名は一般公募により決められたものである。
 
 ## 発売券種
 
@@ -34,7 +34,7 @@
 
 <!-- end list -->
 
-  - [熊本営業所](https://ja.wikipedia.org/wiki/九州産交バス熊本営業所 "wikilink")（高速特急[ひのくに号](https://ja.wikipedia.org/wiki/ひのくに号 "wikilink")、特急[たかちほ号](https://ja.wikipedia.org/wiki/たかちほ号 "wikilink")（九州産交バス担当便のみ）、[熊本空港リムジンバスを含む](https://ja.wikipedia.org/wiki/熊本_-_熊本空港線 "wikilink")）
+  - [熊本営業所](https://ja.wikipedia.org/wiki/九州産交バス熊本営業所 "wikilink")（高速特急[ひのくに号](../Page/ひのくに号.md "wikilink")、特急[たかちほ号](../Page/たかちほ号.md "wikilink")（九州産交バス担当便のみ）、[熊本空港リムジンバスを含む](https://ja.wikipedia.org/wiki/熊本_-_熊本空港線 "wikilink")）
   - [松橋営業所](https://ja.wikipedia.org/wiki/九州産交バス松橋営業所 "wikilink")
   - [山鹿営業所](https://ja.wikipedia.org/wiki/九州産交バス山鹿営業所 "wikilink")
   - [大津営業所](https://ja.wikipedia.org/wiki/九州産交バス大津営業所 "wikilink")
@@ -47,15 +47,15 @@
 <!-- end list -->
 
   - [玉名営業所](https://ja.wikipedia.org/wiki/産交バス玉名営業所 "wikilink")
-  - 玉名営業所荒尾車庫（旧[荒尾市交通局](https://ja.wikipedia.org/wiki/荒尾市交通局 "wikilink")路線を含む)
+  - 玉名営業所荒尾車庫（旧[荒尾市交通局](../Page/荒尾市交通局.md "wikilink")路線を含む)
   - [高森営業所](https://ja.wikipedia.org/wiki/産交バス高森営業所 "wikilink")（快速[たかもり号](https://ja.wikipedia.org/wiki/たかもり号 "wikilink")のみ）
   - [三角営業所](https://ja.wikipedia.org/wiki/産交バス三角営業所 "wikilink")
-  - [天草営業所](https://ja.wikipedia.org/wiki/産交バス天草営業所 "wikilink")（快速[あまくさ号](https://ja.wikipedia.org/wiki/あまくさ号 "wikilink")のみ）
+  - [天草営業所](https://ja.wikipedia.org/wiki/産交バス天草営業所 "wikilink")（快速[あまくさ号](../Page/あまくさ号.md "wikilink")のみ）
 
 <!-- end list -->
 
   -
-    これ以外の産交バス路線（[熊本都市圏](https://ja.wikipedia.org/wiki/熊本都市圏 "wikilink")から外れた県下の路線）では利用できず、対応予定もない。ただし、[本渡バスセンター](https://ja.wikipedia.org/wiki/本渡バスセンター "wikilink")、三角営業所、高森営業所と松島案内所（[上天草市](https://ja.wikipedia.org/wiki/上天草市 "wikilink")）の窓口ではカード利用可能な熊本市内からの直通路線（快速および特急）があるため発売している。
+    これ以外の産交バス路線（[熊本都市圏](../Page/熊本都市圏.md "wikilink")から外れた県下の路線）では利用できず、対応予定もない。ただし、[本渡バスセンター](https://ja.wikipedia.org/wiki/本渡バスセンター "wikilink")、三角営業所、高森営業所と松島案内所（[上天草市](../Page/上天草市.md "wikilink")）の窓口ではカード利用可能な熊本市内からの直通路線（快速および特急）があるため発売している。
 
   - 熊本市交通局
 
@@ -95,7 +95,7 @@
 
 ## 発売箇所
 
-バスや路面電車の車内、各バス事業者営業窓口のほか、一部の[コンビニエンスストア](https://ja.wikipedia.org/wiki/コンビニエンスストア "wikilink")、[スーパーマーケット](https://ja.wikipedia.org/wiki/スーパーマーケット "wikilink")、[熊本市役所](https://ja.wikipedia.org/wiki/熊本市役所 "wikilink")内地下[売店](https://ja.wikipedia.org/wiki/売店 "wikilink")、及び[熊本交通センター各ホーム](https://ja.wikipedia.org/wiki/熊本桜町バスターミナル#熊本交通センター "wikilink")・[熊本市役所](https://ja.wikipedia.org/wiki/熊本市役所 "wikilink")1階ロビー・通町筋（びぷれす広場内）・水道町バス停（国道3号線沿い、ヴィラージュビル1階）・交通局前バス停（[熊本市総合保健福祉センター](https://ja.wikipedia.org/wiki/熊本市総合保健福祉センター "wikilink")1階正面玄関）などに設置の[自動券売機](https://ja.wikipedia.org/wiki/自動券売機 "wikilink")でも購入できる。なお一般用の10,000円分については、熊本交通センター及び本渡バスセンター、産交バス熊本・木山・山鹿（山鹿バスセンター）・大津・松橋・玉名・高森・三角の各営業所窓口で購入できる。
+バスや路面電車の車内、各バス事業者営業窓口のほか、一部の[コンビニエンスストア](../Page/コンビニエンスストア.md "wikilink")、[スーパーマーケット](../Page/スーパーマーケット.md "wikilink")、[熊本市役所](../Page/熊本市役所.md "wikilink")内地下[売店](../Page/売店.md "wikilink")、及び[熊本交通センター各ホーム](https://ja.wikipedia.org/wiki/熊本桜町バスターミナル#熊本交通センター "wikilink")・[熊本市役所](../Page/熊本市役所.md "wikilink")1階ロビー・通町筋（びぷれす広場内）・水道町バス停（国道3号線沿い、ヴィラージュビル1階）・交通局前バス停（[熊本市総合保健福祉センター](../Page/熊本市総合保健福祉センター.md "wikilink")1階正面玄関）などに設置の[自動券売機](../Page/自動券売機.md "wikilink")でも購入できる。なお一般用の10,000円分については、熊本交通センター及び本渡バスセンター、産交バス熊本・木山・山鹿（山鹿バスセンター）・大津・松橋・玉名・高森・三角の各営業所窓口で購入できる。
 
 払い戻しは、各発行事業者の窓口で、自身のカードのみ取り扱うので、注意が必要である。例えば九州産交が発行したカードは九州産交の窓口のみの取り扱いである。 なお、熊本都市バスに関しては、販売された年度内に限り、同年度に取り扱っている会社のカードのみ対応するが、窓口は本山営業所のみとなる。
 

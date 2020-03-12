@@ -5,13 +5,13 @@
 
 ## 概要
 
-[DOM](../Page/Document_Object_Model.md "wikilink") API が、[W3Cから勧告されたのに対して](../Page/World_Wide_Web_Consortium.md "wikilink")、SAX [API](../Page/アプリケーションプログラミングインタフェース.md "wikilink") は、[XML-DEVメーリングリスト](https://ja.wikipedia.org/wiki/XML-DEVメーリングリスト "wikilink")有志により策定された。そして、DOMに並ぶ[標準規格としての地位を固めている](https://ja.wikipedia.org/wiki/デファクトスタンダード "wikilink")。
+[DOM](../Page/Document_Object_Model.md "wikilink") API が、[W3Cから勧告されたのに対して](../Page/World_Wide_Web_Consortium.md "wikilink")、SAX [API](../Page/アプリケーションプログラミングインタフェース.md "wikilink") は、[XML-DEVメーリングリスト](https://ja.wikipedia.org/wiki/XML-DEVメーリングリスト "wikilink")有志により策定された。そして、DOMに並ぶ[標準規格としての地位を固めている](../Page/デファクトスタンダード.md "wikilink")。
 
 XML文書を[木構造として扱うDOMと異なり](../Page/木構造_\(データ構造\).md "wikilink")、一連のイベントとして表現する[イベント駆動型のAPIである](../Page/イベント駆動型プログラミング.md "wikilink")。したがって、[アプリケーションソフトウェア](../Page/アプリケーションソフトウェア.md "wikilink")が積極的にAPIにアクセスするDOMに対し、SAXではアプリケーションソフトウェアがイベントが来るのを待ち受ける受動的な動作が大部分を占める。
 
-伝統的な[ストリームと同様に入力されたデータを次々とバトンタッチさせるような設計が可能となるため](https://ja.wikipedia.org/wiki/ストリーム_\(プログラミング\) "wikilink")、メモリを節約でき、[並列処理](https://ja.wikipedia.org/wiki/並列処理 "wikilink")にも適している。 XMLを読み込み、Javaのオブジェクトに変換するときはSAXの方がよく使われる。ただし、XML文書の先頭と最後を入れ替えるというような[ランダムアクセス](https://ja.wikipedia.org/wiki/ランダムアクセス "wikilink")を必要とするアプリケーションソフトウェアにはDOMや[XMLデータベース](https://ja.wikipedia.org/wiki/XMLデータベース "wikilink")の方が適している。
+伝統的な[ストリームと同様に入力されたデータを次々とバトンタッチさせるような設計が可能となるため](../Page/ストリーム_\(プログラミング\).md "wikilink")、メモリを節約でき、[並列処理](https://ja.wikipedia.org/wiki/並列処理 "wikilink")にも適している。 XMLを読み込み、Javaのオブジェクトに変換するときはSAXの方がよく使われる。ただし、XML文書の先頭と最後を入れ替えるというような[ランダムアクセス](../Page/ランダムアクセス.md "wikilink")を必要とするアプリケーションソフトウェアにはDOMや[XMLデータベース](../Page/XMLデータベース.md "wikilink")の方が適している。
 
-[Apache Cocoon](https://ja.wikipedia.org/wiki/Apache_Cocoon "wikilink") のような[スケーラビリティ](https://ja.wikipedia.org/wiki/スケーラビリティ "wikilink")の高い優れたSAXアプリケーションソフトウェアが開発されている。
+[Apache Cocoon](../Page/Apache_Cocoon.md "wikilink") のような[スケーラビリティ](https://ja.wikipedia.org/wiki/スケーラビリティ "wikilink")の高い優れたSAXアプリケーションソフトウェアが開発されている。
 
 ## 使用例
 

@@ -3,11 +3,11 @@
 
 **Active Server Pages**（アクティブサーバーページ、**ASP**）は[マイクロソフト](../Page/マイクロソフト.md "wikilink")が開発した[ウェブページ](../Page/ウェブページ.md "wikilink")を動的に作成する技術である。
 
-[HTMLなどの](../Page/HyperText_Markup_Language.md "wikilink")[マークアップ言語](../Page/マークアップ言語.md "wikilink")と[VBScript](https://ja.wikipedia.org/wiki/VBScript "wikilink")や[JavaScript](../Page/JavaScript.md "wikilink")などの[スクリプト言語](../Page/スクリプト言語.md "wikilink")を組み合わせることで成り立つ。ウェブページ間のデータのやりとりが容易であるため、[電子商取引](../Page/電子商取引.md "wikilink")（インターネットを通じた通信販売）などで活用されている。同様の技術として、[Javaサーブレット](../Page/Java_Servlet.md "wikilink")、[JavaServer Pages](../Page/JavaServer_Pages.md "wikilink") (JSP)、[PHPなどがある](../Page/PHP_\(プログラミング言語\).md "wikilink")。
+[HTMLなどの](../Page/HyperText_Markup_Language.md "wikilink")[マークアップ言語](../Page/マークアップ言語.md "wikilink")と[VBScript](../Page/VBScript.md "wikilink")や[JavaScript](../Page/JavaScript.md "wikilink")などの[スクリプト言語](../Page/スクリプト言語.md "wikilink")を組み合わせることで成り立つ。ウェブページ間のデータのやりとりが容易であるため、[電子商取引](../Page/電子商取引.md "wikilink")（インターネットを通じた通信販売）などで活用されている。同様の技術として、[Javaサーブレット](../Page/Java_Servlet.md "wikilink")、[JavaServer Pages](../Page/JavaServer_Pages.md "wikilink") (JSP)、[PHPなどがある](../Page/PHP_\(プログラミング言語\).md "wikilink")。
 
-ASPを動作させるための[Webサーバ](../Page/Webサーバ.md "wikilink")は[Internet Information Services](../Page/Internet_Information_Services.md "wikilink") (IIS) や (PWS) があり、IISは当初マイクロソフトのサーバ向けOS ([Windows NT Server](../Page/Microsoft_Windows_NT.md "wikilink"),[Windows 2000 Server](../Page/Microsoft_Windows_2000.md "wikilink"), [Windows Server 2003](https://ja.wikipedia.org/wiki/Microsoft_Windows_Server_2003 "wikilink")) にのみ付属していたが、現在ではホーム/ビジネス向けOS ([Windows XP Professional](../Page/Microsoft_Windows_XP.md "wikilink"), [Windows Vista](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink"))にも付属されている。PWSは[Windows 95](../Page/Microsoft_Windows_95.md "wikilink")、[Windows 98にインストールすることが出来る](../Page/Microsoft_Windows_98.md "wikilink")。また[Windows Me以降PWSの更新は行われておらず](../Page/Microsoft_Windows_Millennium_Edition.md "wikilink")、マイクロソフト製のWebサーバはIISに一本化されている。
+ASPを動作させるための[Webサーバ](../Page/Webサーバ.md "wikilink")は[Internet Information Services](../Page/Internet_Information_Services.md "wikilink") (IIS) や (PWS) があり、IISは当初マイクロソフトのサーバ向けOS ([Windows NT Server](../Page/Microsoft_Windows_NT.md "wikilink"),[Windows 2000 Server](../Page/Microsoft_Windows_2000.md "wikilink"), [Windows Server 2003](../Page/Microsoft_Windows_Server_2003.md "wikilink")) にのみ付属していたが、現在ではホーム/ビジネス向けOS ([Windows XP Professional](../Page/Microsoft_Windows_XP.md "wikilink"), [Windows Vista](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink"))にも付属されている。PWSは[Windows 95](../Page/Microsoft_Windows_95.md "wikilink")、[Windows 98にインストールすることが出来る](../Page/Microsoft_Windows_98.md "wikilink")。また[Windows Me以降PWSの更新は行われておらず](../Page/Microsoft_Windows_Millennium_Edition.md "wikilink")、マイクロソフト製のWebサーバはIISに一本化されている。
 
-ASPの後継技術として[ASP.NET](https://ja.wikipedia.org/wiki/ASP.NET "wikilink")が開発された為、現在では新規システムの開発でASPが利用される事は減りつつあるが、企業のイントラサイトや、小規模な動的ページで用いられる場合もある。
+ASPの後継技術として[ASP.NET](../Page/ASP.NET.md "wikilink")が開発された為、現在では新規システムの開発でASPが利用される事は減りつつあるが、企業のイントラサイトや、小規模な動的ページで用いられる場合もある。
 
 ## ASPで利用できる言語
 
@@ -49,8 +49,8 @@ ASPは基本的にMicrosoftのhttpサーバ以外では使えないが、[Apache
 
 ## 関連項目
 
-  - [JScript](https://ja.wikipedia.org/wiki/JScript "wikilink")
-  - [VBScript](https://ja.wikipedia.org/wiki/VBScript "wikilink")
+  - [JScript](../Page/JScript.md "wikilink")
+  - [VBScript](../Page/VBScript.md "wikilink")
 
 ## 外部リンク
 

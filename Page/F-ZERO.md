@@ -5,11 +5,11 @@
 
 ## 概要
 
-『[スーパーマリオワールド](../Page/スーパーマリオワールド.md "wikilink")』と並ぶ、スーパーファミコンの[ローンチタイトル](https://ja.wikipedia.org/wiki/ローンチタイトル "wikilink")の1つ。これまでの家庭用ゲーム機にはなかった同機の回転・拡大・縮小表示機能を全面的に活用することにより、従来の[ラスタースクロール](https://ja.wikipedia.org/wiki/ラスタースクロール "wikilink")による表現では不可能だった微妙なライン取りやショートカット、逆走など、戦略性と自由度の高いレースを実現した。様々なテクニックを駆使してコンマ01秒のタイム向上を図る[タイムアタックの概念を定着させたゲームとされ](https://ja.wikipedia.org/wiki/やり込み "wikilink")、各ゲーム誌で特集された。タイトルの「F-ZERO」は、[F1の未来の姿をイメージしたものである](../Page/フォーミュラ1.md "wikilink")\[1\]。
+『[スーパーマリオワールド](../Page/スーパーマリオワールド.md "wikilink")』と並ぶ、スーパーファミコンの[ローンチタイトル](../Page/ローンチタイトル.md "wikilink")の1つ。これまでの家庭用ゲーム機にはなかった同機の回転・拡大・縮小表示機能を全面的に活用することにより、従来の[ラスタースクロール](../Page/ラスタースクロール.md "wikilink")による表現では不可能だった微妙なライン取りやショートカット、逆走など、戦略性と自由度の高いレースを実現した。様々なテクニックを駆使してコンマ01秒のタイム向上を図る[タイムアタックの概念を定着させたゲームとされ](../Page/やり込み.md "wikilink")、各ゲーム誌で特集された。タイトルの「F-ZERO」は、[F1の未来の姿をイメージしたものである](../Page/フォーミュラ1.md "wikilink")\[1\]。
 
-ゲームモードは[グランプリとプラクティスの](https://ja.wikipedia.org/wiki/グランプリ_\(モータースポーツ\) "wikilink")2つ。プラクティスでは全15コースの内、7コースを走行できる。難易度設定は、BEGINNER・STANDARD・EXPERTの三段階だが、条件を満たせばMASTERが追加される\[2\]。
+ゲームモードは[グランプリとプラクティスの](../Page/グランプリ_\(モータースポーツ\).md "wikilink")2つ。プラクティスでは全15コースの内、7コースを走行できる。難易度設定は、BEGINNER・STANDARD・EXPERTの三段階だが、条件を満たせばMASTERが追加される\[2\]。
 
-[バーチャルコンソール](https://ja.wikipedia.org/wiki/バーチャルコンソール "wikilink")は[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月2日](../Page/12月2日.md "wikilink")より[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")向けに、[2013年](../Page/2013年.md "wikilink")[4月27日](../Page/4月27日.md "wikilink")より[Wii U向けに](https://ja.wikipedia.org/wiki/Wii_U "wikilink")、[2016年](../Page/2016年.md "wikilink")[3月4日](../Page/3月4日.md "wikilink")より[Newニンテンドー3DS](https://ja.wikipedia.org/wiki/Newニンテンドー3DS "wikilink")向けに配信が開始された。また、[2017年](../Page/2017年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")に発売されたスーパーファミコンの復刻版『[ニンテンドークラシックミニ スーパーファミコン](https://ja.wikipedia.org/wiki/スーパーファミコン#ニンテンドークラシックミニ_スーパーファミコン "wikilink")』、[2019年](../Page/2019年.md "wikilink")[9月6日](../Page/9月6日.md "wikilink")配信開始の『[スーパーファミコン Nintendo Switch Online](https://ja.wikipedia.org/wiki/スーパーファミコン_Nintendo_Switch_Online "wikilink")』（[Nintendo Switchのオンラインサービス特典ソフト](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")）に本作が収録されている。
+[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")は[2006年](../Page/2006年.md "wikilink")[12月2日](../Page/12月2日.md "wikilink")より[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")向けに、[2013年](../Page/2013年.md "wikilink")[4月27日](../Page/4月27日.md "wikilink")より[Wii U向けに](https://ja.wikipedia.org/wiki/Wii_U "wikilink")、[2016年](../Page/2016年.md "wikilink")[3月4日](../Page/3月4日.md "wikilink")より[Newニンテンドー3DS](https://ja.wikipedia.org/wiki/Newニンテンドー3DS "wikilink")向けに配信が開始された。また、[2017年](../Page/2017年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")に発売されたスーパーファミコンの復刻版『[ニンテンドークラシックミニ スーパーファミコン](https://ja.wikipedia.org/wiki/スーパーファミコン#ニンテンドークラシックミニ_スーパーファミコン "wikilink")』、[2019年](../Page/2019年.md "wikilink")[9月6日](../Page/9月6日.md "wikilink")配信開始の『[スーパーファミコン Nintendo Switch Online](https://ja.wikipedia.org/wiki/スーパーファミコン_Nintendo_Switch_Online "wikilink")』（[Nintendo Switchのオンラインサービス特典ソフト](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")）に本作が収録されている。
 
 ## ゲーム内容
 
@@ -21,7 +21,7 @@
 6.  競争相手のマシンにぶつかる、ガードビームやダメージゾーンに触れたりするとパワーゲージ（F-ZEROの体力ゲージ）が減り、ガードビームにぶつかると大きく減る。
     パワーゲージが1/4以下になると警告音と共に最高速が下がってしまい、不利な状態になる。パワーゲージが完全に0の状態でさらにパワーゲージが減るとマシンが爆発し、リタイアとなる。
     ジャンプ台でジャンプして、コース外に落下しても爆発して即リタイアとなる。
-7.  規定順位に満たなかった場合やコースアウト、クラッシュ時はスペアマシン（初期状態で2台、前述の条件で増加）を1台消費してリトライできる。スペアマシンが無い状態でリタイアとなった場合は、[ゲームオーバー](https://ja.wikipedia.org/wiki/ゲームオーバー "wikilink")となる。
+7.  規定順位に満たなかった場合やコースアウト、クラッシュ時はスペアマシン（初期状態で2台、前述の条件で増加）を1台消費してリトライできる。スペアマシンが無い状態でリタイアとなった場合は、[ゲームオーバー](../Page/ゲームオーバー.md "wikilink")となる。
 8.  ジャンププレートを使用して走行距離を稼ぐショートカットはある程度までは認められているが、あまりにも過剰なものは反則と判定され、コース上の規定の場所まで強制的に移動させられる場合がある。
 
 ## コース一覧
@@ -32,7 +32,7 @@
 
 :; 1. MUTE CITY I ※
 
-:: バランスの取れた[レイアウト](https://ja.wikipedia.org/wiki/レイアウト "wikilink")のコース。[バックストレートにジャンププレートが敷かれている](https://ja.wikipedia.org/wiki/サーキット "wikilink")。最終ヘアピンコーナーが難所。『[大乱闘スマッシュブラザーズ for Nintendo 3DS](https://ja.wikipedia.org/wiki/大乱闘スマッシュブラザーズ_for_Nintendo_3DS "wikilink")』で隠し対戦ステージとして登場する。
+:: バランスの取れた[レイアウト](../Page/レイアウト.md "wikilink")のコース。[バックストレートにジャンププレートが敷かれている](../Page/サーキット.md "wikilink")。最終ヘアピンコーナーが難所。『[大乱闘スマッシュブラザーズ for Nintendo 3DS](https://ja.wikipedia.org/wiki/大乱闘スマッシュブラザーズ_for_Nintendo_3DS "wikilink")』で隠し対戦ステージとして登場する。
 
 :; 2. BIG BLUE ※
 
@@ -57,7 +57,7 @@
 
 :; 1. MUTE CITY II
 
-:: 夕暮れのミュートシティが舞台。バックストレートに[ロータリーが追加されたほか](https://ja.wikipedia.org/wiki/ロータリー交差点 "wikilink")、ジャンププレートも増えている。
+:: 夕暮れのミュートシティが舞台。バックストレートに[ロータリーが追加されたほか](../Page/ロータリー交差点.md "wikilink")、ジャンププレートも増えている。
 
 :; 2. PORT TOWN I
 
@@ -76,13 +76,13 @@
   -
 
       -
-        WHITE LAND I と同じ惑星が舞台。途中に非常にタイトな[シケイン](https://ja.wikipedia.org/wiki/シケイン "wikilink")が存在する。終盤の大ジャンプは、十字キー下を押しながら飛距離を伸ばさなければ届かない。[BGMがWHITE](https://ja.wikipedia.org/wiki/バックグラウンドミュージック "wikilink") LAND I のアレンジ調となっている。大ジャンプ直後のカーブはWHITE LAND I のヘアピンコーナーと近接しており、上手く連続ジャンプすれば侵入することが可能（ただし即座に連れ戻される）。
+        WHITE LAND I と同じ惑星が舞台。途中に非常にタイトな[シケイン](../Page/シケイン.md "wikilink")が存在する。終盤の大ジャンプは、十字キー下を押しながら飛距離を伸ばさなければ届かない。[BGMがWHITE](../Page/バックグラウンドミュージック.md "wikilink") LAND I のアレンジ調となっている。大ジャンプ直後のカーブはWHITE LAND I のヘアピンコーナーと近接しており、上手く連続ジャンプすれば侵入することが可能（ただし即座に連れ戻される）。
 
   - KING LEAGUE\[7\]
 
 :; 1. MUTE CITY III
 
-:: 夜のミュートシティが舞台となる。コース両端に[シケイン](https://ja.wikipedia.org/wiki/シケイン "wikilink")の障害物が現れたり地雷地帯が新たに設置されたりと、これまでのミュートシティサーキットとは一線を画した難易度を誇る。
+:: 夜のミュートシティが舞台となる。コース両端に[シケイン](../Page/シケイン.md "wikilink")の障害物が現れたり地雷地帯が新たに設置されたりと、これまでのミュートシティサーキットとは一線を画した難易度を誇る。
 
 :; 2. DEATH WIND II
 
@@ -90,7 +90,7 @@
 
 :; 3. PORT TOWN II ※
 
-:: PORT TOWN I から分岐するテクニカルコース。I の要素はすべて引き継がれ、終盤の複合コーナー、非常に細い最終コーナーが難易度に拍車をかける。[オーバーテイク](https://ja.wikipedia.org/wiki/オーバーテイク "wikilink")の難しい高難度のコースといえる。
+:: PORT TOWN I から分岐するテクニカルコース。I の要素はすべて引き継がれ、終盤の複合コーナー、非常に細い最終コーナーが難易度に拍車をかける。[オーバーテイク](../Page/オーバーテイク.md "wikilink")の難しい高難度のコースといえる。
 
 :; 4. RED CANYON II
 
@@ -127,7 +127,7 @@
 <td><p>任天堂情報開発本部</p></td>
 <td><p>任天堂</p></td>
 <td><p><a href="../Page/フラッシュメモリ.md" title="wikilink">フラッシュロムカセット</a><br />
-（<a href="https://ja.wikipedia.org/wiki/ニンテンドウパワー" title="wikilink">ニンテンドウパワー</a>）</p></td>
+（<a href="../Page/ニンテンドウパワー.md" title="wikilink">ニンテンドウパワー</a>）</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -137,8 +137,8 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/Wii" title="wikilink">Wii</a></p></td>
 <td><p>任天堂情報開発本部</p></td>
 <td><p>任天堂</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ダウンロード販売" title="wikilink">ダウンロード</a><br />
-（<a href="https://ja.wikipedia.org/wiki/バーチャルコンソール" title="wikilink">バーチャルコンソール</a>）</p></td>
+<td><p><a href="../Page/ダウンロード販売.md" title="wikilink">ダウンロード</a><br />
+（<a href="../Page/バーチャルコンソール.md" title="wikilink">バーチャルコンソール</a>）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -190,7 +190,7 @@ Nintendo Switch Online</a></p></td>
 
 ## 音楽
 
-作曲は[神吉由美子](https://ja.wikipedia.org/wiki/神吉由美子 "wikilink")と[石田尚人](https://ja.wikipedia.org/wiki/石田尚人 "wikilink")によるもの\[8\]であり、当作品で使用されている数々の曲は、『[F-ZERO X](https://ja.wikipedia.org/wiki/F-ZERO_X "wikilink")』などの続編や『[大乱闘スマッシュブラザーズシリーズ](../Page/大乱闘スマッシュブラザーズシリーズ.md "wikilink")』等でアレンジされている。
+作曲は[神吉由美子](https://ja.wikipedia.org/wiki/神吉由美子 "wikilink")と[石田尚人](https://ja.wikipedia.org/wiki/石田尚人 "wikilink")によるもの\[8\]であり、当作品で使用されている数々の曲は、『[F-ZERO X](../Page/F-ZERO_X.md "wikilink")』などの続編や『[大乱闘スマッシュブラザーズシリーズ](../Page/大乱闘スマッシュブラザーズシリーズ.md "wikilink")』等でアレンジされている。
 
 ## スタッフ
 
@@ -212,7 +212,7 @@ Nintendo Switch Online</a></p></td>
 
 <!-- end list -->
 
-  - ゲーム誌『[ファミリーコンピュータMagazine](https://ja.wikipedia.org/wiki/ファミリーコンピュータMagazine "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、23.37点（満30点）となっている\[11\]。この得点はスーパーファミコン全ソフトの中で32位（323本中、1993年時点）となっている\[12\]。その他、『SUPER FAMICOM Magazine』1993年8月情報号特別付録の「スーパーファミコンオールカタログ'93」巻末に収録されている「部門別ベスト30」では、総合32位、音楽・効果音18位、熱中度29位、オリジナリティ23位を獲得している\[13\]。
+  - ゲーム誌『[ファミリーコンピュータMagazine](../Page/ファミリーコンピュータMagazine.md "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、23.37点（満30点）となっている\[11\]。この得点はスーパーファミコン全ソフトの中で32位（323本中、1993年時点）となっている\[12\]。その他、『SUPER FAMICOM Magazine』1993年8月情報号特別付録の「スーパーファミコンオールカタログ'93」巻末に収録されている「部門別ベスト30」では、総合32位、音楽・効果音18位、熱中度29位、オリジナリティ23位を獲得している\[13\]。
 
 | 項目 | キャラクタ | 音楽   | 操作性  | 熱中度  | お買得度 | オリジナリティ | 総合    |
 | -- | ----- | ---- | ---- | ---- | ---- | ------- | ----- |
@@ -271,7 +271,7 @@ Nintendo Switch Online</a></p></td>
 
   - [F-ZERO](https://www.nintendo.co.jp/n02/shvc/fz/)
 
-  - [F-ZERO](https://www.nintendo.co.jp/wii/vc/vc_fz/) - [Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")[バーチャルコンソール](https://ja.wikipedia.org/wiki/バーチャルコンソール "wikilink")
+  - [F-ZERO](https://www.nintendo.co.jp/wii/vc/vc_fz/) - [Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")
 
   - [F-ZERO](https://www.nintendo.co.jp/titles/20010000001143) - [Wii Uバーチャルコンソール](https://ja.wikipedia.org/wiki/Wii_U "wikilink")
 
@@ -290,7 +290,7 @@ Nintendo Switch Online</a></p></td>
 5.  東野美紀彦『F-ZERO最速ガイド』、p.112
 6.
 7.
-8.  [東芝EMIより発売されたCD](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")「任天堂スーパーファミコン・ゲームミュージック」の[ライナーノーツ](https://ja.wikipedia.org/wiki/ライナーノーツ "wikilink")より。なお、当CDにはオリジナル4曲とアレンジ2曲が収録されているが、現在オリジナル曲を聴ける唯一のCDとなっている。別のCDとしては[ジャズ](../Page/ジャズ.md "wikilink")・[フュージョンにアレンジされた](../Page/フュージョン_\(音楽\).md "wikilink")12曲が収録された物が、1992年3月25日に発売されており、こちらの一部はサテラビューのサウンドリンクゲームとして使用された。
+8.  [東芝EMIより発売されたCD](../Page/EMIミュージック・ジャパン.md "wikilink")「任天堂スーパーファミコン・ゲームミュージック」の[ライナーノーツ](../Page/ライナーノーツ.md "wikilink")より。なお、当CDにはオリジナル4曲とアレンジ2曲が収録されているが、現在オリジナル曲を聴ける唯一のCDとなっている。別のCDとしては[ジャズ](../Page/ジャズ.md "wikilink")・[フュージョンにアレンジされた](../Page/フュージョン_\(音楽\).md "wikilink")12曲が収録された物が、1992年3月25日に発売されており、こちらの一部はサテラビューのサウンドリンクゲームとして使用された。
 9.
 10.
 11.

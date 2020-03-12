@@ -1,7 +1,7 @@
 > この記事は[Berryz](https://ja.wikipedia.org/wiki/Berryz)から翻訳されています。
 
 
-**Berryz工房**（ベリーズこうぼう）は、[つんく♂](https://ja.wikipedia.org/wiki/つんく♂ "wikilink")（[シャ乱Q](../Page/シャ乱Q.md "wikilink")）がプロデュースを手掛ける[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")に所属していた[女性アイドルグループ](https://ja.wikipedia.org/wiki/女性アイドルグループ "wikilink")。所属事務所は[アップフロントプロモーション](https://ja.wikipedia.org/wiki/アップフロントプロモーション "wikilink")（旧・アップフロントエージェンシー）。2015年3月3日をもって無期限で活動を停止している。
+**Berryz工房**（ベリーズこうぼう）は、[つんく♂](https://ja.wikipedia.org/wiki/つんく♂ "wikilink")（[シャ乱Q](../Page/シャ乱Q.md "wikilink")）がプロデュースを手掛ける[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")に所属していた[女性アイドルグループ](https://ja.wikipedia.org/wiki/女性アイドルグループ "wikilink")。所属事務所は[アップフロントプロモーション](../Page/アップフロントプロモーション.md "wikilink")（旧・アップフロントエージェンシー）。2015年3月3日をもって無期限で活動を停止している。
 
 ## メンバー
 
@@ -36,14 +36,14 @@
 <td></td>
 <td><p>O型</p></td>
 <td><p>149.9cm</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/千葉県" title="wikilink">千葉県</a></p></td>
+<td><p><a href="../Page/千葉県.md" title="wikilink">千葉県</a></p></td>
 <td><p>ライトピンク</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Buono!" title="wikilink">Buono!</a>メンバー<br />
+<td><p><a href="../Page/Buono!.md" title="wikilink">Buono!</a>メンバー<br />
 活動停止後は<a href="https://ja.wikipedia.org/wiki/カントリー・ガールズ" title="wikilink">カントリー・ガールズ</a>で（<a href="https://ja.wikipedia.org/wiki/プレイング・マネージャー" title="wikilink">PMとして</a>）活動、<br />
 2017年6月30日に卒業（同時に芸能界も引退）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/徳永千奈美" title="wikilink">徳永千奈美</a><br />
+<td><p><a href="../Page/徳永千奈美.md" title="wikilink">徳永千奈美</a><br />
 <small>（とくなが ちなみ）</small></p></td>
 <td></td>
 <td><p>O型</p></td>
@@ -53,7 +53,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/須藤茉麻" title="wikilink">須藤茉麻</a><br />
+<td><p><a href="../Page/須藤茉麻.md" title="wikilink">須藤茉麻</a><br />
 <small>（すどう まあさ）</small></p></td>
 <td></td>
 <td><p>O型</p></td>
@@ -68,14 +68,14 @@
 <td></td>
 <td><p>O型</p></td>
 <td><p>159cm</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/埼玉県" title="wikilink">埼玉県</a></p></td>
+<td><p><a href="../Page/埼玉県.md" title="wikilink">埼玉県</a></p></td>
 <td><p>パープル</p></td>
 <td><p>サブキャプテン（2013年4月30日 - ）[2][3][4]<br />
 Buono!メンバー<br />
 活動停止後は<a href="https://ja.wikipedia.org/wiki/PINK_CRES." title="wikilink">PINK CRES.を結成</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/熊井友理奈" title="wikilink">熊井友理奈</a><br />
+<td><p><a href="../Page/熊井友理奈.md" title="wikilink">熊井友理奈</a><br />
 <small>（くまい ゆりな）</small></p></td>
 <td></td>
 <td><p>B型</p></td>
@@ -85,7 +85,7 @@ Buono!メンバー<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/菅谷梨沙子" title="wikilink">菅谷梨沙子</a><br />
+<td><p><a href="../Page/菅谷梨沙子.md" title="wikilink">菅谷梨沙子</a><br />
 <small>（すがや りさこ）</small></p></td>
 <td></td>
 <td><p>A型</p></td>
@@ -111,10 +111,10 @@ Buono!メンバー<br />
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/石村舞波" title="wikilink">石村舞波</a><br />
+<td><p><a href="../Page/石村舞波.md" title="wikilink">石村舞波</a><br />
 <small>（いしむら まいは）</small></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/千葉県" title="wikilink">千葉県</a></p></td>
+<td><p><a href="../Page/千葉県.md" title="wikilink">千葉県</a></p></td>
 <td><p>不明</p></td>
 <td><p>2005年10月2日にBerryz工房を卒業<br />
 （同時に芸能界も引退[6]）</p></td>
@@ -130,7 +130,7 @@ Buono!メンバー<br />
 
 [シャ乱Q](../Page/シャ乱Q.md "wikilink")の[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")である[つんく♂](https://ja.wikipedia.org/wiki/つんく♂ "wikilink")が[プロデュースを手掛けている](../Page/プロデューサー.md "wikilink")。
 
-[ハロー\!プロジェクト・キッズ](https://ja.wikipedia.org/wiki/ハロー!プロジェクト・キッズ "wikilink")15人の中から選抜された8人で結成された。結成当初は、学校行事の優先等を理由にメンバーの入れ替えの可能性が示唆されており、当初選ばれたメンバーは「スターティングメンバー」と呼ばれていた\[8\]。ただし、欠席メンバーの補充や当初アナウンスされた「入れ替え」は一度も行われなかった。2005年10月2日に石村舞波の卒業・引退以降は7人で活動していた。また、残りのハロー\!プロジェクト・キッズのメンバー7人が[℃-ute](https://ja.wikipedia.org/wiki/℃-ute "wikilink")を結成してデビューしたことにより、メンバーの「入れ替え」は事実上無くなった。
+[ハロー\!プロジェクト・キッズ](../Page/ハロー!プロジェクト・キッズ.md "wikilink")15人の中から選抜された8人で結成された。結成当初は、学校行事の優先等を理由にメンバーの入れ替えの可能性が示唆されており、当初選ばれたメンバーは「スターティングメンバー」と呼ばれていた\[8\]。ただし、欠席メンバーの補充や当初アナウンスされた「入れ替え」は一度も行われなかった。2005年10月2日に石村舞波の卒業・引退以降は7人で活動していた。また、残りのハロー\!プロジェクト・キッズのメンバー7人が[℃-ute](https://ja.wikipedia.org/wiki/℃-ute "wikilink")を結成してデビューしたことにより、メンバーの「入れ替え」は事実上無くなった。
 
 ハロー\!プロジェクト・キッズからのメンバーで構成されているため、コンサートおよびイベントは土・日・祝日および夏休み期間にスケジュールを組んで行われていた。また、メンバーによっては学校行事を優先して欠席する場合もあった\[9\]。日本国内だけではなく、海外にもファンが存在するために海外での公演も行われた。
 
@@ -140,69 +140,69 @@ Buono!メンバー<br />
 
 **2004年**
 
-  - 1月14日、[中野サンプラザ](https://ja.wikipedia.org/wiki/中野サンプラザ "wikilink")でのハロー\!プロジェクトファンクラブ限定イベントで正式に誕生した。3月3日にデビュー、デビューから3ヶ月連続のシングルリリース、夏にアルバムの発売が発表された\[10\]。
-  - 3月3日、シングル「[あなたなしでは生きてゆけない](https://ja.wikipedia.org/wiki/あなたなしでは生きてゆけない "wikilink")」でCDデビュー\[11\]\[12\]。
-  - 7月、1stアルバム「[1st 超ベリーズ](https://ja.wikipedia.org/wiki/1st_超ベリーズ "wikilink")」から約1ヵ月半後にリリースした4thシングル「[ハピネス ～幸福歓迎\!～](https://ja.wikipedia.org/wiki/ハピネス〜幸福歓迎!〜 "wikilink")」を皮切りに初動セールス・最高順位・累積売り上げ等が軒並み上昇した。
+  - 1月14日、[中野サンプラザ](../Page/中野サンプラザ.md "wikilink")でのハロー\!プロジェクトファンクラブ限定イベントで正式に誕生した。3月3日にデビュー、デビューから3ヶ月連続のシングルリリース、夏にアルバムの発売が発表された\[10\]。
+  - 3月3日、シングル「[あなたなしでは生きてゆけない](../Page/あなたなしでは生きてゆけない.md "wikilink")」でCDデビュー\[11\]\[12\]。
+  - 7月、1stアルバム「[1st 超ベリーズ](../Page/1st_超ベリーズ.md "wikilink")」から約1ヵ月半後にリリースした4thシングル「[ハピネス ～幸福歓迎\!～](../Page/ハピネス〜幸福歓迎!〜.md "wikilink")」を皮切りに初動セールス・最高順位・累積売り上げ等が軒並み上昇した。
 
 **2005年**
 
-  - 3月、6thシングル「[スッペシャル ジェネレ〜ション](https://ja.wikipedia.org/wiki/スッペシャル_ジェネレ〜ション "wikilink")」で念願のオリコンシングルチャートトップ10入りを果たし、初登場7位にランクインした\[13\]\[14\]\[15\]。初動売り上げは過去にリリースした作品の累積売り上げを上回った。
-  - 10月2日、[東京厚生年金会館](https://ja.wikipedia.org/wiki/東京厚生年金会館 "wikilink")の公演で[石村舞波](https://ja.wikipedia.org/wiki/石村舞波 "wikilink")が卒業\[16\]。
+  - 3月、6thシングル「[スッペシャル ジェネレ〜ション](../Page/スッペシャル_ジェネレ〜ション.md "wikilink")」で念願のオリコンシングルチャートトップ10入りを果たし、初登場7位にランクインした\[13\]\[14\]\[15\]。初動売り上げは過去にリリースした作品の累積売り上げを上回った。
+  - 10月2日、[東京厚生年金会館](../Page/東京厚生年金会館.md "wikilink")の公演で[石村舞波](../Page/石村舞波.md "wikilink")が卒業\[16\]。
 
 **2006年**
 
-  - 3月、10thシングル「[ジリリ キテル](https://ja.wikipedia.org/wiki/ジリリ_キテル "wikilink")」ではオリコンシングルチャート（ウィークリー）で6位と自己記録を更新した\[17\]。
-  - 10月、[2006年バレーボール世界選手権](https://ja.wikipedia.org/wiki/2006年バレーボール世界選手権 "wikilink")のオフィシャルサポーターを務める「[WaT×ハロー\!プロジェクト](https://ja.wikipedia.org/wiki/WaT×ハロー!プロジェクト "wikilink")」に[WaT](https://ja.wikipedia.org/wiki/WaT "wikilink")、モーニング娘。、[DEF.DIVA](https://ja.wikipedia.org/wiki/DEF.DIVA "wikilink")と共に参加した。
+  - 3月、10thシングル「[ジリリ キテル](../Page/ジリリ_キテル.md "wikilink")」ではオリコンシングルチャート（ウィークリー）で6位と自己記録を更新した\[17\]。
+  - 10月、[2006年バレーボール世界選手権](https://ja.wikipedia.org/wiki/2006年バレーボール世界選手権 "wikilink")のオフィシャルサポーターを務める「[WaT×ハロー\!プロジェクト](../Page/WaT×ハロー!プロジェクト.md "wikilink")」に[WaT](../Page/WaT.md "wikilink")、モーニング娘。、[DEF.DIVA](../Page/DEF.DIVA.md "wikilink")と共に参加した。
 
 **2007年**
 
-  - 3月3日・4日、Berryz工房ファーストファンクラブツアー in Aichiが[蒲郡市](../Page/蒲郡市.md "wikilink")、[刈谷市](https://ja.wikipedia.org/wiki/刈谷市 "wikilink")で開催された。
-  - 4月1日、[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")で単独コンサート『[2007 桜満開 Berryz工房ライブ 〜この感動は二度とない瞬間である\!〜](https://ja.wikipedia.org/wiki/2007_桜満開_Berryz工房ライブ_〜この感動は二度とない瞬間である!〜 "wikilink")』を行った。これは同会場で単独公演を行うアーティストとしては最年少記録である\[18\]（平均年齢13.8歳\[19\]\[20\]、これまでの記録はハロー\!プロジェクトの先輩であるモーニング娘。で平均16.3歳）。同公演の一般チケットは発売日に即日完売した。
-  - 6月、14thシングル「[告白の噴水広場](https://ja.wikipedia.org/wiki/告白の噴水広場 "wikilink")」ではオリコン・ウィークリーで4位を取り、自己記録を塗り替えた。
-  - 12月4日、初の[紅白歌合戦出場決定](https://ja.wikipedia.org/wiki/NHK紅白歌合戦 "wikilink")（ハロー\!プロジェクト10周年記念紅白スペシャル隊として\[21\]）。
-  - 12月31日、『[第58回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第58回NHK紅白歌合戦 "wikilink")』に初出場\[22\]。
+  - 3月3日・4日、Berryz工房ファーストファンクラブツアー in Aichiが[蒲郡市](../Page/蒲郡市.md "wikilink")、[刈谷市](../Page/刈谷市.md "wikilink")で開催された。
+  - 4月1日、[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")で単独コンサート『[2007 桜満開 Berryz工房ライブ 〜この感動は二度とない瞬間である\!〜](../Page/2007_桜満開_Berryz工房ライブ_〜この感動は二度とない瞬間である!〜.md "wikilink")』を行った。これは同会場で単独公演を行うアーティストとしては最年少記録である\[18\]（平均年齢13.8歳\[19\]\[20\]、これまでの記録はハロー\!プロジェクトの先輩であるモーニング娘。で平均16.3歳）。同公演の一般チケットは発売日に即日完売した。
+  - 6月、14thシングル「[告白の噴水広場](../Page/告白の噴水広場.md "wikilink")」ではオリコン・ウィークリーで4位を取り、自己記録を塗り替えた。
+  - 12月4日、初の[紅白歌合戦出場決定](../Page/NHK紅白歌合戦.md "wikilink")（ハロー\!プロジェクト10周年記念紅白スペシャル隊として\[21\]）。
+  - 12月31日、『[第58回NHK紅白歌合戦](../Page/第58回NHK紅白歌合戦.md "wikilink")』に初出場\[22\]。
 
 **2008年**
 
-  - 2月3日、[シルク・ドゥ・ソレイユ](https://ja.wikipedia.org/wiki/シルク・ドゥ・ソレイユ "wikilink")「[ドラリオン](https://ja.wikipedia.org/wiki/ドラリオン "wikilink")」東京公演会場でイベントが実施された。
-  - 8月7日、「2008[神宮外苑花火大会](https://ja.wikipedia.org/wiki/神宮外苑花火大会 "wikilink")」で[国立霞ヶ丘陸上競技場](https://ja.wikipedia.org/wiki/国立霞ヶ丘陸上競技場 "wikilink")でのスペシャルライブのメインを務めた。
+  - 2月3日、[シルク・ドゥ・ソレイユ](../Page/シルク・ドゥ・ソレイユ.md "wikilink")「[ドラリオン](https://ja.wikipedia.org/wiki/ドラリオン "wikilink")」東京公演会場でイベントが実施された。
+  - 8月7日、「2008[神宮外苑花火大会](https://ja.wikipedia.org/wiki/神宮外苑花火大会 "wikilink")」で[国立霞ヶ丘陸上競技場](../Page/国立霞ヶ丘陸上競技場.md "wikilink")でのスペシャルライブのメインを務めた。
   - 10月3日 - 5日、韓国で行われる音楽祭、第5回 [2008アジアソングフェスティバルで](https://ja.wikipedia.org/wiki/アジア・ソング・フェスティバル "wikilink")「アジア最高新人歌手賞」を受賞\[23\]\[24\]\[25\]。
-  - 12月、16thシングル「[ジンギスカン](https://ja.wikipedia.org/wiki/ジンギスカン_\(曲\)#Berryz工房によるカバー "wikilink")」で『第41回[日本有線大賞](https://ja.wikipedia.org/wiki/日本有線大賞 "wikilink")』有線音楽賞を受賞\[26\]\[27\]。
+  - 12月、16thシングル「[ジンギスカン](https://ja.wikipedia.org/wiki/ジンギスカン_\(曲\)#Berryz工房によるカバー "wikilink")」で『第41回[日本有線大賞](../Page/日本有線大賞.md "wikilink")』有線音楽賞を受賞\[26\]\[27\]。
 
 **2009年**
 
-  - 当年は春ツアー及び秋ツアーとも期間中にメンバーが[インフルエンザ](https://ja.wikipedia.org/wiki/インフルエンザ "wikilink")に疾患し、ツアー日程が変更された。
-  - 3月、『Berryz Kobo First Fan Club Tour in Hawaii'09』が[ホノルル](https://ja.wikipedia.org/wiki/ホノルル "wikilink")で行われた\[28\]。
+  - 当年は春ツアー及び秋ツアーとも期間中にメンバーが[インフルエンザ](../Page/インフルエンザ.md "wikilink")に疾患し、ツアー日程が変更された。
+  - 3月、『Berryz Kobo First Fan Club Tour in Hawaii'09』が[ホノルル](../Page/ホノルル.md "wikilink")で行われた\[28\]。
   - 4月25日、[栃木県総合文化センター](https://ja.wikipedia.org/wiki/栃木県総合文化センター "wikilink")でのコンサート（夜公演）が単独コンサート100公演目を数え、記念のVTRが上映された。
   - 6月3日、20枚目のシングルと初の両A面シングル「[青春バスガイド/ライバル](https://ja.wikipedia.org/wiki/青春バスガイド/ライバル "wikilink")」をリリース。オリコン週間ランキングで4位を獲得\[29\]。
-  - 6月21日、初の海外公演として、ミニライブIN KOREAが[大韓民国](https://ja.wikipedia.org/wiki/大韓民国 "wikilink")の[延世大学大講堂で開催された](https://ja.wikipedia.org/wiki/延世大学校 "wikilink")\[30\]。
+  - 6月21日、初の海外公演として、ミニライブIN KOREAが[大韓民国](../Page/大韓民国.md "wikilink")の[延世大学大講堂で開催された](../Page/延世大学校.md "wikilink")\[30\]。
 
 **2010年**
 
-  - 1月19日、ライブのPRを兼ねて清水、徳永、熊井の3人で[タイ王国](https://ja.wikipedia.org/wiki/タイ王国 "wikilink")へ。この際タイのテレビ番組などに出演し積極的にPR活動を行った。
+  - 1月19日、ライブのPRを兼ねて清水、徳永、熊井の3人で[タイ王国](../Page/タイ王国.md "wikilink")へ。この際タイのテレビ番組などに出演し積極的にPR活動を行った。
   - 3月3日、22ndシングル「[雄叫びボーイ WAO\!/友達は友達なんだ\!](https://ja.wikipedia.org/wiki/雄叫びボーイ_WAO!/友達は友達なんだ! "wikilink")」をリリース\[31\]。オリコンウィークリーで3位と自己記録を更新した。
   - 3月27日、タイ王国インドア・スタジアム - フアマーク・スポーツ・コンプレックス で『Berryz工房 First Live in Bangkok』を開催した\[32\]\[33\]。
 
 **2011年**
 
   - 3月、25thシングル「[ヒロインになろうか\!](https://ja.wikipedia.org/wiki/ヒロインになろうか! "wikilink")」が3月6日付オリコンデイリーでグループ初となる1位を獲得する。
-  - 4月、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ワシントン州](../Page/ワシントン州.md "wikilink")[シアトル](https://ja.wikipedia.org/wiki/シアトル "wikilink")での[Sakura-Con](https://ja.wikipedia.org/wiki/サクラコン "wikilink")2011に招聘\[34\]\[35\]\[36\]\[37\]。
+  - 4月、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ワシントン州](../Page/ワシントン州.md "wikilink")[シアトル](../Page/シアトル.md "wikilink")での[Sakura-Con](https://ja.wikipedia.org/wiki/サクラコン "wikilink")2011に招聘\[34\]\[35\]\[36\]\[37\]。
   - [東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")の発生によりコンサート、イベント日程が変更延期になった。（3月12日仙台公演は中止）
 
 **2012年**
 
   - 3月24日、浦安市文化会館でのコンサート（昼公演）が、Berryz工房単独公演200回を数え来場者にメンバーから記念品が贈呈された。
-  - 6月8日 - 10日、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ニュージャージー州](https://ja.wikipedia.org/wiki/ニュージャージー州 "wikilink")サマーセット（[英語版](https://ja.wikipedia.org/wiki/:en:Somerset,_New_Jersey "wikilink")）で行われたAnimeNEXT（[英語版](https://ja.wikipedia.org/wiki/:en:AnimeNEXT "wikilink")）2012に出演\[38\]。
+  - 6月8日 - 10日、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ニュージャージー州](../Page/ニュージャージー州.md "wikilink")サマーセット（[英語版](https://ja.wikipedia.org/wiki/:en:Somerset,_New_Jersey "wikilink")）で行われたAnimeNEXT（[英語版](https://ja.wikipedia.org/wiki/:en:AnimeNEXT "wikilink")）2012に出演\[38\]。
   - 8月25日 - 26日、タイ・バンコクで行われた『Japan Festa in Bangkok 2012 by Mainichi』に清水、熊井、菅谷が出演し、3人で「[cha cha SING](https://ja.wikipedia.org/wiki/cha_cha_SING "wikilink")」などの楽曲を披露した。
 
 **2013年**
 
-  - 3月3日、[パシフィコ横浜](https://ja.wikipedia.org/wiki/パシフィコ横浜 "wikilink")で『Hello\! Project 春の大感謝 ひな祭りフェスティバル 2013〜Berryz工房10年目突入スッペシャル！〜』を開催。祝福にかけつけた[プリキュアオールスターズと一緒に](https://ja.wikipedia.org/wiki/プリキュアシリーズ "wikilink")「[ギャグ100回分愛してください](https://ja.wikipedia.org/wiki/ギャグ100回分愛してください "wikilink")」を披露し、映画タイアップ以来約8年ぶりのコラボレーションを実現した。
+  - 3月3日、[パシフィコ横浜](https://ja.wikipedia.org/wiki/パシフィコ横浜 "wikilink")で『Hello\! Project 春の大感謝 ひな祭りフェスティバル 2013〜Berryz工房10年目突入スッペシャル！〜』を開催。祝福にかけつけた[プリキュアオールスターズと一緒に](../Page/プリキュアシリーズ.md "wikilink")「[ギャグ100回分愛してください](../Page/ギャグ100回分愛してください.md "wikilink")」を披露し、映画タイアップ以来約8年ぶりのコラボレーションを実現した。
   - 3月9日、タイ・バンコクで二度目となるコンサート『Berryz工房 Concert Tour 2013 Spring in Bangkok』を開催した。
-  - 3月10日、[ミャンマー](https://ja.wikipedia.org/wiki/ミャンマー "wikilink")・[ヤンゴン](https://ja.wikipedia.org/wiki/ヤンゴン "wikilink")で行われた『Japan Festival 2013 in Myanmar』に徳永、須藤、夏焼が出演し、日本のアイドルとして初めて同国でコンサートを行った\[39\]。
+  - 3月10日、[ミャンマー](../Page/ミャンマー.md "wikilink")・[ヤンゴン](../Page/ヤンゴン.md "wikilink")で行われた『Japan Festival 2013 in Myanmar』に徳永、須藤、夏焼が出演し、日本のアイドルとして初めて同国でコンサートを行った\[39\]。
       - 上記2カ国の訪問にあわせて、同8日にはバンコクで、同10日にはヤンゴンで、それぞれ『Berryz工房 世界握手会』を開催しメンバーが現地のファンと握手した。
   - 4月30日、キャプテン清水佐紀がオフィシャルブログで、前日に終了したコンサートツアー『Berryz工房コンサートツアー2013春 〜Berryzマンション入居者募集中\!〜』の所感をつづり、その中で今後サブキャプテンとして夏焼雅を指名することを表明\[40\]。夏焼もこれを引き受けることをオフィシャルブログで表明\[41\]。プロデューサーつんく♂からも、オフィシャルブログでこれを「認定する」と発表され\[42\]、結成10年目にして夏焼雅がサブキャプテンに就任した。
-  - 11月29日 『Berryz工房10周年記念 [日本武道館](https://ja.wikipedia.org/wiki/日本武道館 "wikilink")スッペシャルライブ2013 〜やっぱりあなたなしでは生きてゆけない〜』が開催された。
+  - 11月29日 『Berryz工房10周年記念 [日本武道館](../Page/日本武道館.md "wikilink")スッペシャルライブ2013 〜やっぱりあなたなしでは生きてゆけない〜』が開催された。
 
 **2014年**
 
@@ -240,35 +240,35 @@ Buono!メンバー<br />
 </tr>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/あなたなしでは生きてゆけない" title="wikilink">あなたなしでは生きてゆけない</a></strong></p></td>
+<td><p><strong><a href="../Page/あなたなしでは生きてゆけない.md" title="wikilink">あなたなしでは生きてゆけない</a></strong></p></td>
 <td><p>3月3日</p></td>
 <td></td>
 <td><p>18位</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ファイティングポーズはダテじゃない!" title="wikilink">ファイティングポーズはダテじゃない!</a></strong></p></td>
+<td><p><strong><a href="../Page/ファイティングポーズはダテじゃない!.md" title="wikilink">ファイティングポーズはダテじゃない!</a></strong></p></td>
 <td><p>4月28日</p></td>
 <td></td>
 <td><p>25位</p></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ピリリと行こう!" title="wikilink">ピリリと行こう!</a></strong></p></td>
+<td><p><strong><a href="../Page/ピリリと行こう!.md" title="wikilink">ピリリと行こう!</a></strong></p></td>
 <td><p>5月26日</p></td>
 <td></td>
 <td><p>37位</p></td>
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ハピネス〜幸福歓迎!〜" title="wikilink">ハピネス ～幸福歓迎!～</a></strong></p></td>
+<td><p><strong><a href="../Page/ハピネス〜幸福歓迎!〜.md" title="wikilink">ハピネス ～幸福歓迎!～</a></strong></p></td>
 <td><p>8月25日</p></td>
 <td></td>
 <td><p>20位</p></td>
 </tr>
 <tr class="odd">
 <td><p>5th</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/恋の呪縛" title="wikilink">恋の呪縛</a></strong></p></td>
+<td><p><strong><a href="../Page/恋の呪縛.md" title="wikilink">恋の呪縛</a></strong></p></td>
 <td><p>11月10日</p></td>
 <td></td>
 <td><p>13位</p></td>
@@ -282,33 +282,33 @@ Buono!メンバー<br />
 </tr>
 <tr class="odd">
 <td><p>6th</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/スッペシャル_ジェネレ〜ション" title="wikilink">スッペシャル ジェネレ〜ション</a></strong></p></td>
+<td><p><strong><a href="../Page/スッペシャル_ジェネレ〜ション.md" title="wikilink">スッペシャル ジェネレ〜ション</a></strong></p></td>
 <td><p>3月30日</p></td>
 <td></td>
 <td><p>7位</p></td>
 </tr>
 <tr class="even">
 <td><p>7th</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/なんちゅう恋をやってるぅ_YOU_KNOW?" title="wikilink">なんちゅう恋をやってるぅ YOU KNOW?</a></strong></p></td>
+<td><p><strong><a href="../Page/なんちゅう恋をやってるぅ_YOU_KNOW?.md" title="wikilink">なんちゅう恋をやってるぅ YOU KNOW?</a></strong></p></td>
 <td><p>6月8日</p></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/キッズステーション" title="wikilink">キッズステーション</a>・アニメ『<a href="https://ja.wikipedia.org/wiki/パタリロ西遊記!" title="wikilink">パタリロ西遊記!</a>』エンディング・テーマ</li>
+<li><a href="../Page/キッズステーション.md" title="wikilink">キッズステーション</a>・アニメ『<a href="../Page/パタリロ西遊記!.md" title="wikilink">パタリロ西遊記!</a>』エンディング・テーマ</li>
 </ul></td>
 <td><p>13位</p></td>
 </tr>
 <tr class="odd">
 <td><p>8th</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/21時までのシンデレラ" title="wikilink">21時までのシンデレラ</a></strong></p></td>
+<td><p><strong><a href="../Page/21時までのシンデレラ.md" title="wikilink">21時までのシンデレラ</a></strong></p></td>
 <td><p>8月3日</p></td>
 <td></td>
 <td><p>13位</p></td>
 </tr>
 <tr class="even">
 <td><p>9th</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ギャグ100回分愛してください" title="wikilink">ギャグ100回分愛してください</a></strong></p></td>
+<td><p><strong><a href="../Page/ギャグ100回分愛してください.md" title="wikilink">ギャグ100回分愛してください</a></strong></p></td>
 <td><p>11月23日</p></td>
 <td><ul>
-<li>『<a href="https://ja.wikipedia.org/wiki/映画_ふたりはプリキュア_Max_Heart_2_雪空のともだち" title="wikilink">映画 ふたりはプリキュア Max Heart 2 雪空のともだち</a>』主題歌</li>
+<li>『<a href="../Page/映画_ふたりはプリキュア_Max_Heart_2_雪空のともだち.md" title="wikilink">映画 ふたりはプリキュア Max Heart 2 雪空のともだち</a>』主題歌</li>
 </ul></td>
 <td><p>19位</p></td>
 </tr>
@@ -321,21 +321,21 @@ Buono!メンバー<br />
 </tr>
 <tr class="even">
 <td><p>10th</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ジリリ_キテル" title="wikilink">ジリリ キテル</a></strong></p></td>
+<td><p><strong><a href="../Page/ジリリ_キテル.md" title="wikilink">ジリリ キテル</a></strong></p></td>
 <td><p>3月29日</p></td>
 <td></td>
 <td><p>6位</p></td>
 </tr>
 <tr class="odd">
 <td><p>11th</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/笑っちゃおうよ_BOYFRIEND" title="wikilink">笑っちゃおうよ BOYFRIEND</a></strong></p></td>
+<td><p><strong><a href="../Page/笑っちゃおうよ_BOYFRIEND.md" title="wikilink">笑っちゃおうよ BOYFRIEND</a></strong></p></td>
 <td><p>8月2日</p></td>
 <td></td>
 <td><p>15位</p></td>
 </tr>
 <tr class="even">
 <td><p>12th</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/胸さわぎスカーレット" title="wikilink">胸さわぎスカーレット</a></strong></p></td>
+<td><p><strong><a href="../Page/胸さわぎスカーレット.md" title="wikilink">胸さわぎスカーレット</a></strong></p></td>
 <td><p>12月6日</p></td>
 <td></td>
 <td><p>11位</p></td>
@@ -349,21 +349,21 @@ Buono!メンバー<br />
 </tr>
 <tr class="even">
 <td><p>13th</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/VERY_BEAUTY" title="wikilink">VERY BEAUTY</a></strong></p></td>
+<td><p><strong><a href="../Page/VERY_BEAUTY.md" title="wikilink">VERY BEAUTY</a></strong></p></td>
 <td><p>3月7日</p></td>
 <td></td>
 <td><p>11位</p></td>
 </tr>
 <tr class="odd">
 <td><p>14th</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/告白の噴水広場" title="wikilink">告白の噴水広場</a></strong></p></td>
+<td><p><strong><a href="../Page/告白の噴水広場.md" title="wikilink">告白の噴水広場</a></strong></p></td>
 <td><p>6月27日</p></td>
 <td></td>
 <td><p>4位</p></td>
 </tr>
 <tr class="even">
 <td><p>15th</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/付き合ってるのに片思い" title="wikilink">付き合ってるのに片思い</a></strong></p></td>
+<td><p><strong><a href="../Page/付き合ってるのに片思い.md" title="wikilink">付き合ってるのに片思い</a></strong></p></td>
 <td><p>11月28日</p></td>
 <td></td>
 <td><p>6位</p></td>
@@ -386,7 +386,7 @@ Buono!メンバー<br />
 </tr>
 <tr class="odd">
 <td><p>17th</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/行け_行け_モンキーダンス" title="wikilink">行け 行け モンキーダンス</a></strong></p></td>
+<td><p><strong><a href="../Page/行け_行け_モンキーダンス.md" title="wikilink">行け 行け モンキーダンス</a></strong></p></td>
 <td><p>7月9日</p></td>
 <td></td>
 <td><p>4位</p></td>
@@ -590,8 +590,8 @@ Buono!メンバー<br />
 
 <!-- end list -->
 
-  - [ALL FOR ONE & ONE FOR ALL\!](https://ja.wikipedia.org/wiki/ALL_FOR_ONE_&_ONE_FOR_ALL! "wikilink")（2004年12月1日） - [H.P.オールスターズ](https://ja.wikipedia.org/wiki/H.P.オールスターズ "wikilink")
-  - [ギャグ100回分愛してください](https://ja.wikipedia.org/wiki/ギャグ100回分愛してください "wikilink")（2005年11月23日） - Berryz工房, 矢口真里, 五條真由美
+  - [ALL FOR ONE & ONE FOR ALL\!](https://ja.wikipedia.org/wiki/ALL_FOR_ONE_&_ONE_FOR_ALL! "wikilink")（2004年12月1日） - [H.P.オールスターズ](../Page/H.P.オールスターズ.md "wikilink")
+  - [ギャグ100回分愛してください](../Page/ギャグ100回分愛してください.md "wikilink")（2005年11月23日） - Berryz工房, 矢口真里, 五條真由美
   - [ジンギスカン タルタルミックス](https://ja.wikipedia.org/wiki/ジンギスカン_タルタルミックス "wikilink")（2008年9月17日） - ジンギスカン×Berryz工房
   - 負けるな わっしょい\!（2011年8月6日、コンサート限定発売） - ベキマス
   - [甘酸っぱい春にサクラサク](https://ja.wikipedia.org/wiki/甘酸っぱい春にサクラサク "wikilink")（2011年11月9日） - Berryz工房×℃-ute
@@ -602,9 +602,9 @@ Buono!メンバー<br />
 
 ### アルバム
 
-1.  [1st 超ベリーズ](https://ja.wikipedia.org/wiki/1st_超ベリーズ "wikilink")（2004年7月7日）
-2.  [第②成長記](https://ja.wikipedia.org/wiki/第\(2\)成長記 "wikilink")（2005年11月16日）
-3.  [4th 愛のなんちゃら指数](https://ja.wikipedia.org/wiki/4th_愛のなんちゃら指数 "wikilink")（日本：2007年8月1日、韓国：2008年5月26日）\[61\]
+1.  [1st 超ベリーズ](../Page/1st_超ベリーズ.md "wikilink")（2004年7月7日）
+2.  [第②成長記](../Page/第\(2\)成長記.md "wikilink")（2005年11月16日）
+3.  [4th 愛のなんちゃら指数](../Page/4th_愛のなんちゃら指数.md "wikilink")（日本：2007年8月1日、韓国：2008年5月26日）\[61\]
 4.  [5 (FIVE)](https://ja.wikipedia.org/wiki/5\(FIVE\) "wikilink")（日本：2008年9月10日、韓国：2008年9月17日）\[62\]
 5.  [6th 雄叫びアルバム](https://ja.wikipedia.org/wiki/6th_雄叫びアルバム "wikilink")（2010年3月31日）
 6.  [⑦ Berryz タイムス](https://ja.wikipedia.org/wiki/7_Berryz_タイムス "wikilink")（2011年3月30日）\[63\]\[64\]
@@ -613,8 +613,8 @@ Buono!メンバー<br />
 
 ### ミニアルバム
 
-1.  [スッペシャル\!ベストミニ ～2.5枚目の彼～](https://ja.wikipedia.org/wiki/スッペシャル!ベストミニ〜2.5枚目の彼〜 "wikilink")（2005年12月7日）
-2.  [③夏夏ミニベリーズ](https://ja.wikipedia.org/wiki/\(3\)夏夏ミニベリーズ "wikilink")（2006年7月5日）
+1.  [スッペシャル\!ベストミニ ～2.5枚目の彼～](../Page/スッペシャル!ベストミニ〜2.5枚目の彼〜.md "wikilink")（2005年12月7日）
+2.  [③夏夏ミニベリーズ](../Page/\(3\)夏夏ミニベリーズ.md "wikilink")（2006年7月5日）
 
 ### ベストアルバム
 
@@ -684,8 +684,8 @@ Buono!メンバー<br />
 4.  Berryz工房コンサートツアー 2005秋 〜スイッチON\!〜 （2005年12月28日）
 5.  [Berryz工房コンサートツアー 2006春 〜にょきにょきチャンピオン\!〜](https://ja.wikipedia.org/wiki/Berryz工房コンサートツアー_2006春_〜にょきにょきチャンピオン!〜 "wikilink")（2006年7月19日）
 6.  Berryz工房サマーコンサートツアー 2006 『夏夏\! 〜あなたを好きになる三原則〜』（2006年10月25日）
-7.  [2007 桜満開 Berryz工房ライブ 〜この感動は二度とない瞬間である\!〜](https://ja.wikipedia.org/wiki/2007_桜満開_Berryz工房ライブ_〜この感動は二度とない瞬間である!〜 "wikilink")（2007年6月27日）
-8.  [Berryz工房コンサートツアー 2007夏 〜ウェルカム\!Berryz宮殿〜](https://ja.wikipedia.org/wiki/Berryz工房コンサートツアー_2007夏_〜ウェルカム!Berryz宮殿〜 "wikilink")（2007年10月31日）
+7.  [2007 桜満開 Berryz工房ライブ 〜この感動は二度とない瞬間である\!〜](../Page/2007_桜満開_Berryz工房ライブ_〜この感動は二度とない瞬間である!〜.md "wikilink")（2007年6月27日）
+8.  [Berryz工房コンサートツアー 2007夏 〜ウェルカム\!Berryz宮殿〜](../Page/Berryz工房コンサートツアー_2007夏_〜ウェルカム!Berryz宮殿〜.md "wikilink")（2007年10月31日）
 9.  [Berryz工房&℃-ute 仲良しバトルコンサートツアー 2008春 〜Berryz仮面 vs キューティーレンジャー〜 with Berryz工房 Tracks](https://ja.wikipedia.org/wiki/Berryz工房&℃-ute_仲良しバトルコンサートツアー2008春_〜Berryz仮面_vs_キューティーレンジャー〜 "wikilink")（2008年7月16日）
 10. [Berryz工房コンサートツアー 2008秋 〜ベリコレ\!〜](https://ja.wikipedia.org/wiki/Berryz工房コンサートツアー_2008秋_〜ベリコレ!〜 "wikilink")（2008年12月17日）
 11. [Berryz工房コンサートツアー 2009春 〜そのすべての愛に〜](https://ja.wikipedia.org/wiki/Berryz工房コンサートツアー_2009春_〜そのすべての愛に〜 "wikilink")（2009年7月29日）
@@ -859,15 +859,15 @@ Buono!メンバー<br />
 
 ### テレビ
 
-  - [よろしく\!センパイ](https://ja.wikipedia.org/wiki/よろしく!センパイ "wikilink")（2004年1月5日 - 4月2日、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
-  - [娘DOKYU\!](https://ja.wikipedia.org/wiki/娘DOKYU! "wikilink")（2005年4月4日 - 6月17日、テレビ東京） - 嗣永、夏焼、熊井、菅谷
+  - [よろしく\!センパイ](../Page/よろしく!センパイ.md "wikilink")（2004年1月5日 - 4月2日、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
+  - [娘DOKYU\!](../Page/娘DOKYU!.md "wikilink")（2005年4月4日 - 6月17日、テレビ東京） - 嗣永、夏焼、熊井、菅谷
   - [ベリキュー\!](https://ja.wikipedia.org/wiki/ベリキュー! "wikilink")（2008年3月31日 - 10月3日、テレビ東京）
   - [よろセン\!](https://ja.wikipedia.org/wiki/よろセン! "wikilink")（2008年10月6日 - 2009年3月27日、テレビ東京）
-  - [脳内エステ IQサプリ](https://ja.wikipedia.org/wiki/脳内エステ_IQサプリ "wikilink")（2008年10月 - 12月、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")） - コーナー「リズムIQ字ンギス間」のダンサー
+  - [脳内エステ IQサプリ](../Page/脳内エステ_IQサプリ.md "wikilink")（2008年10月 - 12月、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")） - コーナー「リズムIQ字ンギス間」のダンサー
   - [24時間テレビ32 「愛は地球を救う」](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink")（2009年8月30日、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
   - [美女学](https://ja.wikipedia.org/wiki/美女学 "wikilink")（2010年4月1日 - 2011年4月14日、テレビ東京）
   - [ハロプロ\!TIME](https://ja.wikipedia.org/wiki/ハロプロ!TIME "wikilink")（2011年4月21日 - 2012年5月31日、テレビ東京）
-  - [帰ってきたBerryz仮面（仮）](https://ja.wikipedia.org/wiki/Berryz仮面#帰ってきたBerryz仮面TV（仮）→_新帰ってきたベリーズ仮面 "wikilink")（2011年10月15日 - 2012年6月16日、[BS-TBS](https://ja.wikipedia.org/wiki/BS-TBS "wikilink")） - 第3土曜
+  - [帰ってきたBerryz仮面（仮）](https://ja.wikipedia.org/wiki/Berryz仮面#帰ってきたBerryz仮面TV（仮）→_新帰ってきたベリーズ仮面 "wikilink")（2011年10月15日 - 2012年6月16日、[BS-TBS](../Page/BS-TBS.md "wikilink")） - 第3土曜
   - [ハロー\!SATOYAMAライフ](https://ja.wikipedia.org/wiki/ハロー!SATOYAMAライフ "wikilink")（2012年6月7日 - 2013年12月26日、テレビ東京）
   - [新帰ってきたベリーズ仮面](https://ja.wikipedia.org/wiki/Berryz仮面#帰ってきたBerryz仮面TV（仮）→_新帰ってきたベリーズ仮面 "wikilink")（2012年7月21日 - 2013年3月16日、BS-TBS） - 第3土曜
   - [The Girls Live](https://ja.wikipedia.org/wiki/The_Girls_Live "wikilink")（2014年1月9日 - 2015年3月6日、テレビ東京）
@@ -887,12 +887,12 @@ Buono!メンバー<br />
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a>（平成19年）/<a href="https://ja.wikipedia.org/wiki/第58回NHK紅白歌合戦" title="wikilink">第58回</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a>（平成19年）/<a href="../Page/第58回NHK紅白歌合戦.md" title="wikilink">第58回</a></p></td>
 <td><p>初</p></td>
 <td><p>Special LOVE Mix<br />
 〜幸せの平成20周年 Ver.〜[67]</p></td>
 <td><p>01/27</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/美川憲一" title="wikilink">美川憲一</a></p></td>
+<td><p><a href="../Page/美川憲一.md" title="wikilink">美川憲一</a></p></td>
 <td><p>ハロー!プロジェクト10周年記念紅白スペシャル隊として<br />
 モーニング娘。及び℃-uteと合同で出演</p></td>
 </tr>
@@ -907,14 +907,14 @@ Buono!メンバー<br />
 
 ### ラジオ
 
-  - [Berryz工房 起立\! 礼\! 着席\!](https://ja.wikipedia.org/wiki/Berryz工房_起立!_礼!_着席! "wikilink")（2004年3月30日 - 2009年3月31日（全261回）、[文化放送](https://ja.wikipedia.org/wiki/文化放送 "wikilink")） - [レコメン\!](https://ja.wikipedia.org/wiki/レコメン! "wikilink")内で放送。
-  - [TBC FUNふぃーるど・モーレツモーダッシュ](https://ja.wikipedia.org/wiki/TBC_FUNふぃーるど・モーレツモーダッシュ "wikilink")（2005年8月15日 - 19日、[東北放送](https://ja.wikipedia.org/wiki/東北放送 "wikilink")）
-  - [ハロプロやねん\!](https://ja.wikipedia.org/wiki/ハロプロやねん! "wikilink")（2004年 - 2008年9月、[ABCラジオ](https://ja.wikipedia.org/wiki/朝日放送ラジオ "wikilink")）
+  - [Berryz工房 起立\! 礼\! 着席\!](../Page/Berryz工房_起立!_礼!_着席!.md "wikilink")（2004年3月30日 - 2009年3月31日（全261回）、[文化放送](../Page/文化放送.md "wikilink")） - [レコメン\!](../Page/レコメン!.md "wikilink")内で放送。
+  - [TBC FUNふぃーるど・モーレツモーダッシュ](../Page/TBC_FUNふぃーるど・モーレツモーダッシュ.md "wikilink")（2005年8月15日 - 19日、[東北放送](../Page/東北放送.md "wikilink")）
+  - [ハロプロやねん\!](../Page/ハロプロやねん!.md "wikilink")（2004年 - 2008年9月、[ABCラジオ](../Page/朝日放送ラジオ.md "wikilink")）
   - 朝までハロプロやねん\!9（2009年12月20日、ABCラジオ）
   - [Berryz工房 嗣永桃子のぷりぷりプリンセス](https://ja.wikipedia.org/wiki/Berryz工房_嗣永桃子のぷりぷりプリンセス "wikilink")（2009年4月7日 - 2014年4月6日（全260回）、文化放送） 2012年4月4日までレコメン\!内→2012年4月8日から[超\!A\&G+](https://ja.wikipedia.org/wiki/超!A&G+ "wikilink")で放送。 - 嗣永
-  - [Berryz工房 べりつぅ\!](https://ja.wikipedia.org/wiki/Berryz工房_べりつぅ! "wikilink")（2010年4月9日 - 2012年3月30日（全156回）、モバイル文化放送。2009年4月10日 - 2010年4月2日まで[Podcast QRでの配信](https://ja.wikipedia.org/wiki/Podcast_QR "wikilink")。） - 清水、徳永、須藤
+  - [Berryz工房 べりつぅ\!](https://ja.wikipedia.org/wiki/Berryz工房_べりつぅ! "wikilink")（2010年4月9日 - 2012年3月30日（全156回）、モバイル文化放送。2009年4月10日 - 2010年4月2日まで[Podcast QRでの配信](../Page/Podcast_QR.md "wikilink")。） - 清水、徳永、須藤
   - [痛快\!ベリーズ王国](https://ja.wikipedia.org/wiki/痛快!ベリーズ王国 "wikilink")（2009年7月3日 - 2012年3月30日、SKY PerfecTV\!） - 夏焼、熊井、菅谷\[68\]
-  - [BZS1422](https://ja.wikipedia.org/wiki/BZS1422 "wikilink")（2012年7月8日 -2015年3月1日、[ラジオ日本](https://ja.wikipedia.org/wiki/アール・エフ・ラジオ日本 "wikilink")） - 徳永、熊井
+  - [BZS1422](https://ja.wikipedia.org/wiki/BZS1422 "wikilink")（2012年7月8日 -2015年3月1日、[ラジオ日本](../Page/アール・エフ・ラジオ日本.md "wikilink")） - 徳永、熊井
   - Berryz工房の[オールナイトニッポンGOLD](https://ja.wikipedia.org/wiki/オールナイトニッポンGOLD "wikilink")（2014年5月2日、[ニッポン放送](../Page/ニッポン放送.md "wikilink")）
 
 ### ミュージックビデオ
@@ -923,16 +923,16 @@ Buono!メンバー<br />
 
 ### インターネット
 
-  - 第8回ハロプロ[ビデオチャット](https://ja.wikipedia.org/wiki/インターネット電話#_ビデオチャット "wikilink")（2005年5月2日、ハロー\!プロジェクト on [フレッツ](https://ja.wikipedia.org/wiki/フレッツ "wikilink")） - 清水、嗣永、夏焼
+  - 第8回ハロプロ[ビデオチャット](https://ja.wikipedia.org/wiki/インターネット電話#_ビデオチャット "wikilink")（2005年5月2日、ハロー\!プロジェクト on [フレッツ](../Page/フレッツ.md "wikilink")） - 清水、嗣永、夏焼
   - 第12回ハロプロビデオチャット（2005年6月3日、ハロー\!プロジェクト on フレッツ） - 徳永、菅谷
   - 第21回ハロプロビデオチャット（2005年8月11日、ハロー\!プロジェクト on フレッツ） - 須藤、石村、熊井
   - Berryz工房インタビュー（2009年11月10日・2010年11月25日・2011年5月25日、[モッテコ書店](http://motteco.com/)）
 
 ### 舞台
 
-  - 劇団ゲキハロ旗揚げ公演「江戸から着信\!? 〜タイムスリップto圏外\!〜」（2006年11月1日 - 12日、[シアターグリーン](https://ja.wikipedia.org/wiki/シアターグリーン "wikilink")）
-  - 劇団ゲキハロ第3回公演「リバース\! 〜私の体どこですか?」（2007年11月3日 - 11日、[サンシャイン劇場](https://ja.wikipedia.org/wiki/サンシャイン劇場 "wikilink")）
-  - 劇団ゲキハロ第5回公演「Berryz工房 VS Berryz工房」（2008年11月19日 - 23日、[東京芸術劇場](https://ja.wikipedia.org/wiki/東京芸術劇場 "wikilink")中ホール）
+  - 劇団ゲキハロ旗揚げ公演「江戸から着信\!? 〜タイムスリップto圏外\!〜」（2006年11月1日 - 12日、[シアターグリーン](../Page/シアターグリーン.md "wikilink")）
+  - 劇団ゲキハロ第3回公演「リバース\! 〜私の体どこですか?」（2007年11月3日 - 11日、[サンシャイン劇場](../Page/サンシャイン劇場.md "wikilink")）
+  - 劇団ゲキハロ第5回公演「Berryz工房 VS Berryz工房」（2008年11月19日 - 23日、[東京芸術劇場](../Page/東京芸術劇場.md "wikilink")中ホール）
   - 劇団ゲキハロ第7回公演「サンク ユー ベリー ベリー」（2009年9月17日 - 23日：サンシャイン劇場、9月26 - 27日：大阪サンケイブリーゼ）
   - 劇団ゲキハロ第9回公演「三億円少女」（2010年9月18日 - 9月26日：池袋サンシャイン劇場、10月16日・17日：大阪[イオン化粧品シアターBRAVA\!](https://ja.wikipedia.org/wiki/イオン化粧品シアターBRAVA! "wikilink")）
   - 劇団ゲキハロ第11回公演「戦国自衛隊」（2011年9月16日 - 9月25日：池袋サンシャイン劇場、9月30日 - 10月2日：大阪イオン化粧品シアターBRAVA\!）
@@ -941,7 +941,7 @@ Buono!メンバー<br />
 
 ### 映画
 
-  - The One Ticket（2014年12月31日公開） - Berryz工房 役\[69\] ※[タイ映画](https://ja.wikipedia.org/wiki/タイの映画 "wikilink")
+  - The One Ticket（2014年12月31日公開） - Berryz工房 役\[69\] ※[タイ映画](../Page/タイの映画.md "wikilink")
 
 ## コンサート
 
@@ -951,16 +951,16 @@ Buono!メンバー<br />
   - Berryz工房コンサートツアー 2005秋 〜スイッチ ON\!〜（2005年）
   - [Berryz工房コンサートツアー 2006春 〜にょきにょきチャンピオン\!〜](https://ja.wikipedia.org/wiki/Berryz工房コンサートツアー_2006春_〜にょきにょきチャンピオン!〜 "wikilink")（2006年）
   - Berryz工房コンサートツアー 2006夏 〜夏夏\!〜あなたを好きになる三原則〜（2006年）
-  - [2007 桜満開 Berryz工房ライブ 〜この感動は二度とない瞬間である\!〜](https://ja.wikipedia.org/wiki/2007_桜満開_Berryz工房ライブ_〜この感動は二度とない瞬間である!〜 "wikilink")（2007年4月1日）
+  - [2007 桜満開 Berryz工房ライブ 〜この感動は二度とない瞬間である\!〜](../Page/2007_桜満開_Berryz工房ライブ_〜この感動は二度とない瞬間である!〜.md "wikilink")（2007年4月1日）
   - Berryz工房コンサート 2007春 〜続・桜満開 ゴールデンウィーク編〜（2007年）
-  - [Berryz工房コンサートツアー 2007夏 〜ウェルカム\!Berryz宮殿〜](https://ja.wikipedia.org/wiki/Berryz工房コンサートツアー_2007夏_〜ウェルカム!Berryz宮殿〜 "wikilink")（2007年）
+  - [Berryz工房コンサートツアー 2007夏 〜ウェルカム\!Berryz宮殿〜](../Page/Berryz工房コンサートツアー_2007夏_〜ウェルカム!Berryz宮殿〜.md "wikilink")（2007年）
   - [Berryz工房コンサートツアー 2008秋 〜ベリコレ\!〜](https://ja.wikipedia.org/wiki/Berryz工房コンサートツアー_2008秋_〜ベリコレ!〜 "wikilink")（2008年）
   - [Berryz工房コンサートツアー 2009春 〜そのすべての愛に〜](https://ja.wikipedia.org/wiki/Berryz工房コンサートツアー_2009春_〜そのすべての愛に〜 "wikilink")（2009年）
   - [Berryz工房コンサートツアー 2009秋 〜目立ちたいっ\!\!〜](https://ja.wikipedia.org/wiki/Berryz工房コンサートツアー_2009秋_〜目立ちたいっ!!〜 "wikilink")（2009年）
   - [Berryz工房コンサートツアー 2010初夏 〜海の家 雄叫びハウス〜](https://ja.wikipedia.org/wiki/Berryz工房コンサートツアー_2010初夏_〜海の家_雄叫びハウス〜 "wikilink")（2010年）
   - [Berryz工房コンサートツアー 2010秋冬 〜ベリ高フェス\!〜](https://ja.wikipedia.org/wiki/Berryz工房コンサートツアー_2010秋冬_〜ベリ高フェス!〜 "wikilink")（2010年）
   - [Berryz工房結成7周年記念コンサートツアー2011春 〜週刊Berryzタイムス〜](https://ja.wikipedia.org/wiki/Berryz工房結成7周年記念コンサートツアー2011春_〜週刊Berryzタイムス〜 "wikilink")（2011年）
-  - Berryz工房 七夕スッペシャルライブ ★777★（2011年7月7日、[横浜BLITZ](https://ja.wikipedia.org/wiki/横浜BLITZ "wikilink")）
+  - Berryz工房 七夕スッペシャルライブ ★777★（2011年7月7日、[横浜BLITZ](../Page/横浜BLITZ.md "wikilink")）
   - [Berryz工房コンサートツアー2012春 〜ベリーズステーション〜](https://ja.wikipedia.org/wiki/Berryz工房コンサートツアー2012春_〜ベリーズステーション〜 "wikilink")（2012年）
   - [Berryz工房 七夕スッペシャルライブ2012](https://ja.wikipedia.org/wiki/Berryz工房_七夕スッペシャルライブ2012 "wikilink") 〜織姫バージョン〜／〜彦星バージョン（2012年7月7日）
   - Berryz工房コンサートツアー2013春 〜Berryzマンション入居者募集中\!〜（2013年）
@@ -975,11 +975,11 @@ Buono!メンバー<br />
 
 ### 海外コンサート
 
-  - [アジア・ソング・フェスティバル2008](https://ja.wikipedia.org/wiki/アジア・ソング・フェスティバル#2008年 "wikilink")（2008年10月4日、[韓国](https://ja.wikipedia.org/wiki/大韓民国 "wikilink")・[ソウル](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")・[ソウルワールドカップ競技場](https://ja.wikipedia.org/wiki/ソウルワールドカップ競技場 "wikilink")）
-  - Berryz工房 MINI LIVE in KOREA（2009年6月21日、韓国・ソウル・[延世大学校](https://ja.wikipedia.org/wiki/延世大学校 "wikilink")大講堂）
-  - Berryz工房 First Live in Bangkok（2010年3月27日、[タイ](https://ja.wikipedia.org/wiki/タイ王国 "wikilink")・[バンコク](https://ja.wikipedia.org/wiki/バンコク "wikilink")・フアマーク インドアスタジアム）
-  - [Sakura-Con2011](https://ja.wikipedia.org/wiki/サクラコン "wikilink")（2011年4月22日 - 24日、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[ワシントン州](../Page/ワシントン州.md "wikilink")・[シアトル](https://ja.wikipedia.org/wiki/シアトル "wikilink")・州立コンベンション＆トレードセンター）
-  - AnimeNEXT 2012 in New Jersey,USA（2012年6月8日 - 10日、アメリカ・[ニュージャージー州](https://ja.wikipedia.org/wiki/ニュージャージー州 "wikilink")・サマーセット・ガーデンステイト コンベンションセンター）
+  - [アジア・ソング・フェスティバル2008](https://ja.wikipedia.org/wiki/アジア・ソング・フェスティバル#2008年 "wikilink")（2008年10月4日、[韓国](../Page/大韓民国.md "wikilink")・[ソウル](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")・[ソウルワールドカップ競技場](../Page/ソウルワールドカップ競技場.md "wikilink")）
+  - Berryz工房 MINI LIVE in KOREA（2009年6月21日、韓国・ソウル・[延世大学校](../Page/延世大学校.md "wikilink")大講堂）
+  - Berryz工房 First Live in Bangkok（2010年3月27日、[タイ](../Page/タイ王国.md "wikilink")・[バンコク](../Page/バンコク.md "wikilink")・フアマーク インドアスタジアム）
+  - [Sakura-Con2011](https://ja.wikipedia.org/wiki/サクラコン "wikilink")（2011年4月22日 - 24日、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[ワシントン州](../Page/ワシントン州.md "wikilink")・[シアトル](../Page/シアトル.md "wikilink")・州立コンベンション＆トレードセンター）
+  - AnimeNEXT 2012 in New Jersey,USA（2012年6月8日 - 10日、アメリカ・[ニュージャージー州](../Page/ニュージャージー州.md "wikilink")・サマーセット・ガーデンステイト コンベンションセンター）
   - Berryz工房 Concert Tour 2013 Spring in Bangkok（2013年3月9日、タイ・バンコク・SIAM PAVALAI ROYAL GRAND THEATRE）
   - Berryz工房 Festival in Taipei（2013年5月25日、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")・[台北](../Page/台北市.md "wikilink")・The Wall公館）\[70\]
   - Berryz Kobo NARUCHIKA 2015 in Bangkok (2015年2月)
@@ -998,10 +998,10 @@ Buono!メンバー<br />
 
 ### 学園祭
 
-  - Berryz工房 『友好祭LIVE』（2012年5月26日、[大阪府立大学](https://ja.wikipedia.org/wiki/大阪府立大学 "wikilink")中百舌鳥キャンパス）
+  - Berryz工房 『友好祭LIVE』（2012年5月26日、[大阪府立大学](../Page/大阪府立大学.md "wikilink")中百舌鳥キャンパス）
   - Berryz工房 常盤祭スッペシャルLIVE2012 by YNU（2012年11月3日、[横浜国立大学](../Page/横浜国立大学.md "wikilink")）
   - Berryz工房 学園祭ライブ in 経法祭（2012年11月10日、[大阪経済法科大学](https://ja.wikipedia.org/wiki/大阪経済法科大学 "wikilink")花岡キャンパス）
-  - 第50回松稜祭 （2014年11月2日、[湘南工科大学](https://ja.wikipedia.org/wiki/湘南工科大学 "wikilink")）
+  - 第50回松稜祭 （2014年11月2日、[湘南工科大学](../Page/湘南工科大学.md "wikilink")）
 
 ## 書籍
 
@@ -1009,7 +1009,7 @@ Buono!メンバー<br />
 
   - Berryz工房（2005年5月20日、[ワニブックス](../Page/ワニブックス.md "wikilink")）ISBN 978-4-8470-2865-6
   - SEASONZ（2005年8月3日、[角川書店](../Page/角川書店.md "wikilink")）ISBN 978-4-04-894260-7
-  - Berryz工房 『ファーストライブ写真集 まるごと』（2005年8月26日、著者：木村智哉・松村昭人・古賀良郎・伊東創、[東京ニュース通信社](https://ja.wikipedia.org/wiki/東京ニュース通信社 "wikilink")）ISBN 978-4-924566-44-6
+  - Berryz工房 『ファーストライブ写真集 まるごと』（2005年8月26日、著者：木村智哉・松村昭人・古賀良郎・伊東創、[東京ニュース通信社](../Page/東京ニュース通信社.md "wikilink")）ISBN 978-4-924566-44-6
   - Berryz工房 セカンドライブ写真集 『スイッチON\!』（2005年12月2日、著者：木村智哉・松村昭人・古賀良郎・伊東創、東京ニュース通信社）ISBN 978-4-924566-49-1
   - Berryz工房 サードライブ写真集 『にょきにょきチャンピオン\!』（2006年7月5日、著者：木村智哉・松村昭人・古賀良郎・伊東創、東京ニュース通信社）ISBN 978-4-924566-57-6
   - Berryz工房&℃-ute in Hello\! Project 2006 Summer （2006年9月21日、[竹書房](../Page/竹書房.md "wikilink")）ISBN 978-4812428979
@@ -1026,8 +1026,8 @@ Buono!メンバー<br />
 
 ### 雑誌連載
 
-  - [B.L.T.](https://ja.wikipedia.org/wiki/B.L.T. "wikilink")（東京ニュース通信社）
-  - [UP to boy](https://ja.wikipedia.org/wiki/UP_to_boy "wikilink")（ワニブックス）
+  - [B.L.T.](../Page/B.L.T..md "wikilink")（東京ニュース通信社）
+  - [UP to boy](../Page/UP_to_boy.md "wikilink")（ワニブックス）
 
 ## 獲得音楽賞
 
@@ -1040,8 +1040,8 @@ Buono!メンバー<br />
 
 ## 関連項目
 
-  - [ジュニアアイドル一覧](https://ja.wikipedia.org/wiki/ジュニアアイドル一覧 "wikilink")
-  - [ピチレモン](https://ja.wikipedia.org/wiki/ピチレモン "wikilink")
+  - [ジュニアアイドル一覧](../Page/ジュニアアイドル一覧.md "wikilink")
+  - [ピチレモン](../Page/ピチレモン.md "wikilink")
   - [リトルガッタス](https://ja.wikipedia.org/wiki/Gatas_Brilhantes_H.P.#_リトルガッタス "wikilink")
   - [女性アイドルグループ](https://ja.wikipedia.org/wiki/女性アイドルグループ "wikilink")
   - [こぶしファクトリー](https://ja.wikipedia.org/wiki/こぶしファクトリー "wikilink")…Berryz工房の無期限活動停止直前に結成されたユニットで、Berryz工房のスピリッツを受け継いでいってもらいたいという清水佐紀の意向を汲み、工房を指す「ファクトリー」の語がユニット名に含まれた。
@@ -1053,7 +1053,7 @@ Buono!メンバー<br />
       - [Berryz工房](https://web.archive.org/web/20150303125756/http://helloproject.com/berryzkobo/) - [ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink") オフィシャルサイト - 2015年3月3日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")
       - [Berryz工房オフィシャルファンクラブページ](https://web.archive.org/web/20140814231726/https://www.up-fc.jp/helloproject/member/berryz/) - 2014年8月14日時点のアーカイブ
       - [Berryz工房の歴史サイト](http://r.helloproject.com/berryzkobo/history/)
-      - [Berryz工房 リリース作品情報](http://www.up-front-works.jp/release/search/?a=berryzkobo) - [UP-FRONT WORKS](https://ja.wikipedia.org/wiki/アップフロントワークス "wikilink")
+      - [Berryz工房 リリース作品情報](http://www.up-front-works.jp/release/search/?a=berryzkobo) - [UP-FRONT WORKS](../Page/アップフロントワークス.md "wikilink")
       - [つんく♂オフィシャルウェブサイトのコメント](http://www.tsunku.net/producework.php?Music_ArtistID=2)
   - SNS
       -

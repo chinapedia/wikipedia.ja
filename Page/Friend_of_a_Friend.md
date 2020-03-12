@@ -1,7 +1,7 @@
 > この記事は[Friend of a Friend](https://ja.wikipedia.org/wiki/Friend_of_a_Friend)から翻訳されています。
 
 
-**Friend of a Friend** (**FOAF**) とは、人に関する情報を[RDFで記述することにより](../Page/Resource_Description_Framework.md "wikilink")、コンピュータを用いて人に関する情報を簡単に、また意味の通る方法で分析できるようにさせるプロジェクトである。「友達の友達」という言葉の意味通り、人の輪をベースにしてつながりが広がってゆくものとなる。RDFを用いることから、[セマンティック・ウェブ](https://ja.wikipedia.org/wiki/セマンティック・ウェブ "wikilink")の一つの形と表現できるだろう。 なお、FOAFプロジェクトは[The foaf projectが中心となって実施されている](https://ja.wikipedia.org/wiki/The_foaf_project "wikilink")。
+**Friend of a Friend** (**FOAF**) とは、人に関する情報を[RDFで記述することにより](../Page/Resource_Description_Framework.md "wikilink")、コンピュータを用いて人に関する情報を簡単に、また意味の通る方法で分析できるようにさせるプロジェクトである。「友達の友達」という言葉の意味通り、人の輪をベースにしてつながりが広がってゆくものとなる。RDFを用いることから、[セマンティック・ウェブ](../Page/セマンティック・ウェブ.md "wikilink")の一つの形と表現できるだろう。 なお、FOAFプロジェクトは[The foaf projectが中心となって実施されている](https://ja.wikipedia.org/wiki/The_foaf_project "wikilink")。
 
 ## FOAFの可能性
 

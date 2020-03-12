@@ -1,7 +1,7 @@
 > この記事は[OpenLaszlo](https://ja.wikipedia.org/wiki/OpenLaszlo)から翻訳されています。
 
 
-**OpenLaszlo**(オープンラズロ)は[Ajax](https://ja.wikipedia.org/wiki/Ajax "wikilink")/[Flashで動作する](../Page/Adobe_Flash.md "wikilink")[リッチインターネットアプリケーション](https://ja.wikipedia.org/wiki/リッチインターネットアプリケーション "wikilink")の開発及び配布を行うための[オープンソース](../Page/オープンソース.md "wikilink")ソフトウェアである。
+**OpenLaszlo**(オープンラズロ)は[Ajax](https://ja.wikipedia.org/wiki/Ajax "wikilink")/[Flashで動作する](../Page/Adobe_Flash.md "wikilink")[リッチインターネットアプリケーション](../Page/リッチインターネットアプリケーション.md "wikilink")の開発及び配布を行うための[オープンソース](../Page/オープンソース.md "wikilink")ソフトウェアである。
 
 一種類の言語体系で[Flashコンテンツや](../Page/Adobe_Flash.md "wikilink")[DHTML](https://ja.wikipedia.org/wiki/DHTML "wikilink")([Ajax](https://ja.wikipedia.org/wiki/Ajax "wikilink"))コンテンツを出力できるマルチ[ランタイム機能が最大の特徴](../Page/ランタイムライブラリ.md "wikilink")。
 
@@ -22,7 +22,7 @@ OpenLaszloのHello Worldのソースコード例。
 
 ## ライセンス
 
-[ライセンス](../Page/ライセンス.md "wikilink")は[Open Source Initiative認定の](../Page/Open_Source_Initiative.md "wikilink")[Common Public Licenseである](https://ja.wikipedia.org/wiki/Common_Public_License "wikilink")。
+[ライセンス](../Page/ライセンス.md "wikilink")は[Open Source Initiative認定の](../Page/Open_Source_Initiative.md "wikilink")[Common Public Licenseである](../Page/Common_Public_License.md "wikilink")。
 
 ## プロジェクトヒストリー
 

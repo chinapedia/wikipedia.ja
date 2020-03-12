@@ -7,11 +7,11 @@
 
 [1886年](../Page/1886年.md "wikilink")[5月17日](../Page/5月17日.md "wikilink")に[グレンチェーンFC](https://ja.wikipedia.org/wiki/グレンチェーンFC "wikilink")と[アルファFC](https://ja.wikipedia.org/wiki/アルファFC "wikilink")（クレーンとエンジン作業員のサッカークラブ）という2つのアマチュアクラブが合併して誕生した。[スコットランドサッカー協会](https://ja.wikipedia.org/wiki/スコットランドサッカー協会 "wikilink")に加盟したのは[1891年](../Page/1891年.md "wikilink")、そして[1893年](../Page/1893年.md "wikilink")に新設された2部に加入した。19世紀末から20世紀初頭までは1部と2部とを行き来していた。
 
-1931-32シーズンには、[フォワードの](https://ja.wikipedia.org/wiki/フォワード_\(サッカー\) "wikilink")[ウィリー・マクファディン](https://ja.wikipedia.org/wiki/ウィリー・マクファディン "wikilink")が現在もリーグ最多得点記録として残る52得点を挙げ、30勝6分2敗の成績でリーグ初優勝を飾っている。その後、何度か優勝争いはするものの、[レンジャーズ](https://ja.wikipedia.org/wiki/グラスゴー・レンジャーズFC "wikilink")、[セルティックなどに阻まれてきた](https://ja.wikipedia.org/wiki/セルティックFC "wikilink")。近年は中位から下位が定位置となっている。
+1931-32シーズンには、[フォワードの](../Page/フォワード_\(サッカー\).md "wikilink")[ウィリー・マクファディン](https://ja.wikipedia.org/wiki/ウィリー・マクファディン "wikilink")が現在もリーグ最多得点記録として残る52得点を挙げ、30勝6分2敗の成績でリーグ初優勝を飾っている。その後、何度か優勝争いはするものの、[レンジャーズ](https://ja.wikipedia.org/wiki/グラスゴー・レンジャーズFC "wikilink")、[セルティックなどに阻まれてきた](../Page/セルティックFC.md "wikilink")。近年は中位から下位が定位置となっている。
 
 2002-03シーズンはリーグ最下位となり本来なら降格だったが、昇格するはずの[フォルカークFC](../Page/フォルカークFC.md "wikilink")のスタジアムが基準を満たさず昇格を見送られたため、幸運にも降格を免れている。
 
-2007年12月29日のスコットランド・プレミアリーグ第20節対[ダンディー・ユナイテッドFC](https://ja.wikipedia.org/wiki/ダンディー・ユナイテッドFC "wikilink")戦、78分に途中交代でピッチを離れベンチに戻ろうとしたMF[フィル・オドネル](https://ja.wikipedia.org/wiki/フィル・オドネル "wikilink")が倒れた。すぐさま救急車で最寄りの病院へと搬送されたが途中で死去した。17:18に死亡が確認された。35歳だった。彼の付けていた背番号10は永久欠番となった。原因は分かっていないが何らかの発作が起こったものと見られている。彼はマザーウェルからセルティックに移籍するときの移籍金がクラブ史上最高額であった。
+2007年12月29日のスコットランド・プレミアリーグ第20節対[ダンディー・ユナイテッドFC](../Page/ダンディー・ユナイテッドFC.md "wikilink")戦、78分に途中交代でピッチを離れベンチに戻ろうとしたMF[フィル・オドネル](../Page/フィル・オドネル.md "wikilink")が倒れた。すぐさま救急車で最寄りの病院へと搬送されたが途中で死去した。17:18に死亡が確認された。35歳だった。彼の付けていた背番号10は永久欠番となった。原因は分かっていないが何らかの発作が起こったものと見られている。彼はマザーウェルからセルティックに移籍するときの移籍金がクラブ史上最高額であった。
 
 2011-12シーズンはリーグ3位の好成績を残した。同シーズン中、2位のレンジャーズが会社更生法を申請し破産。レンジャーズが破産により欧州国際大会の出場権を剥奪されたため、マザーウェルが[UEFAチャンピオンズリーグ予備予選](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2012-13 "wikilink")3回戦の出場権を得ることになった。
 
@@ -23,7 +23,7 @@
       - 1931-32
   - **[スコティッシュカップ](https://ja.wikipedia.org/wiki/スコティッシュカップ "wikilink")：2回**
       - 1951-52, 1990-91
-  - **[スコティッシュリーグカップ](https://ja.wikipedia.org/wiki/スコティッシュリーグカップ "wikilink")：1回**
+  - **[スコティッシュリーグカップ](../Page/スコティッシュリーグカップ.md "wikilink")：1回**
       - 1950-51
 
 ### 国際タイトル
@@ -40,7 +40,7 @@
 <th><p>ディビジョン</p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/スコティッシュカップ" title="wikilink">スコティッシュ<br />
 カップ</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/スコティッシュリーグカップ" title="wikilink">リーグカップ</a></p></th>
+<th><p><a href="../Page/スコティッシュリーグカップ.md" title="wikilink">リーグカップ</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/UEFA" title="wikilink">欧州カップ</a></p></th>
 </tr>
 </thead>
@@ -491,13 +491,13 @@
 
   - [ブライアン・マクレアー](https://ja.wikipedia.org/wiki/ブライアン・マクレアー "wikilink") 1981-1983
 
-  - [ガリー・マカリスター](https://ja.wikipedia.org/wiki/ガリー・マカリスター "wikilink") 1981-1985
+  - [ガリー・マカリスター](../Page/ガリー・マカリスター.md "wikilink") 1981-1985
 
   - [トム・ボイド](https://ja.wikipedia.org/wiki/トム・ボイド "wikilink") 1983-1991
 
-  - [フィル・オドネル](https://ja.wikipedia.org/wiki/フィル・オドネル "wikilink") 1991-1994, 1994-1995, 2003-2007
+  - [フィル・オドネル](../Page/フィル・オドネル.md "wikilink") 1991-1994, 1994-1995, 2003-2007
 
-  - [ポール・ランバート](https://ja.wikipedia.org/wiki/ポール・ランバート "wikilink") 1993-1996
+  - [ポール・ランバート](../Page/ポール・ランバート.md "wikilink") 1993-1996
 
   - [リー・マッカロフ](https://ja.wikipedia.org/wiki/リー・マッカロフ "wikilink") 1995-2001
 
@@ -505,7 +505,7 @@
 
   - [ジョン・スペンサー](https://ja.wikipedia.org/wiki/ジョン・スペンサー_\(サッカー選手\) "wikilink") 1999
 
-  - [ドナルド・グッドマン](https://ja.wikipedia.org/wiki/ドナルド・グッドマン "wikilink") 1999-2001
+  - [ドナルド・グッドマン](../Page/ドナルド・グッドマン.md "wikilink") 1999-2001
 
   - [アンディ・ゴラム](https://ja.wikipedia.org/wiki/アンディ・ゴラム "wikilink") 1999-2001
 
@@ -513,15 +513,15 @@
 
   - [スコット・リーチ](https://ja.wikipedia.org/wiki/スコット・リーチ "wikilink") 2000-2006
 
-  - [マーク・ブラウン](https://ja.wikipedia.org/wiki/マーク・ブラウン "wikilink") 2001-2002
+  - [マーク・ブラウン](../Page/マーク・ブラウン.md "wikilink") 2001-2002
 
-  - [ディルク・レーマン](https://ja.wikipedia.org/wiki/ディルク・レーマン "wikilink") 2001-2003
+  - [ディルク・レーマン](../Page/ディルク・レーマン.md "wikilink") 2001-2003
 
   - [スティーブン・ピアソン](https://ja.wikipedia.org/wiki/スティーブン・ピアソン "wikilink") 2001–2004
 
   - [リッチー・フォラン](https://ja.wikipedia.org/wiki/リッチー・フォラン "wikilink") 2004-2007
 
-  - [スコット・マクドナルド](https://ja.wikipedia.org/wiki/スコット・マクドナルド "wikilink") 2004-2007, 2015-2017
+  - [スコット・マクドナルド](../Page/スコット・マクドナルド.md "wikilink") 2004-2007, 2015-2017
 
   - [ジョン・サットン](https://ja.wikipedia.org/wiki/ジョン・サットン "wikilink") 2008-2011, 2013-2015
 

@@ -5,9 +5,9 @@
 
 ## 大会概要
 
-メインイベントの世界ヘビー級タイトルマッチでは、[モーリス・スミス](https://ja.wikipedia.org/wiki/モーリス・スミス "wikilink")が[タンク・アボット](../Page/タンク・アボット.md "wikilink")を降し、王座の初防衛に成功した。同日開催されたヘビー級トーナメントでは、[マーク・ケアー](https://ja.wikipedia.org/wiki/マーク・ケアー "wikilink")がグレッグ・ストット、ドゥエイン・ケイソンを破り、[ホイス・グレイシー](https://ja.wikipedia.org/wiki/ホイス・グレイシー "wikilink")以来となるUFC2連覇を果たした。
+メインイベントの世界ヘビー級タイトルマッチでは、[モーリス・スミス](../Page/モーリス・スミス.md "wikilink")が[タンク・アボット](../Page/タンク・アボット.md "wikilink")を降し、王座の初防衛に成功した。同日開催されたヘビー級トーナメントでは、[マーク・ケアー](../Page/マーク・ケアー.md "wikilink")がグレッグ・ストット、ドゥエイン・ケイソンを破り、[ホイス・グレイシー](../Page/ホイス・グレイシー.md "wikilink")以来となるUFC2連覇を果たした。
 
-キャリア7戦全勝の[カーロス・バヘット](https://ja.wikipedia.org/wiki/カーロス・バヘット "wikilink")がUFCデビュー。
+キャリア7戦全勝の[カーロス・バヘット](../Page/カーロス・バヘット.md "wikilink")がUFCデビュー。
 
 ### ルール改正
 
@@ -20,32 +20,32 @@
     1R終了 判定2-1
   - 第2試合 UFC 15ヘビー級トーナメント リザーブマッチ 10分1R
     ○  ドゥエイン・ケイソン vs.  ヒューストン・ドアー ×
-    1R 3:43 TKO（レフェリーストップ：[グラウンドパンチ](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    1R 3:43 TKO（レフェリーストップ：[グラウンドパンチ](../Page/グラウンドパンチ.md "wikilink")）
   - 第3試合 UFC 15ヘビー級トーナメント 1回戦 15分1R
-    ○  [マーク・ケアー](https://ja.wikipedia.org/wiki/マーク・ケアー "wikilink") vs.  グレッグ・ストット ×
+    ○  [マーク・ケアー](../Page/マーク・ケアー.md "wikilink") vs.  グレッグ・ストット ×
     1R 0:17 KO（右膝蹴り）
     ※ケアーが決勝進出。
   - 第4試合 UFC 15ヘビー級トーナメント 1回戦 15分1R
-    ○  デイブ・ベネトゥー vs.  [カーロス・バヘット](https://ja.wikipedia.org/wiki/カーロス・バヘット "wikilink") ×
+    ○  デイブ・ベネトゥー vs.  [カーロス・バヘット](../Page/カーロス・バヘット.md "wikilink") ×
     1R終了 判定3-0
     ※ベネトゥーの負傷棄権によりリザーバーのケイソンが決勝進出。
   - 第5試合 ヘビー級王座挑戦者決定戦 15分1R
-    ○  [ランディ・クートゥア](https://ja.wikipedia.org/wiki/ランディ・クートゥア "wikilink") vs.  [ビクトー・ベウフォート](https://ja.wikipedia.org/wiki/ビクトー・ベウフォート "wikilink") ×
-    1R 8:16 TKO（レフェリーストップ：[グラウンドパンチ](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    ○  [ランディ・クートゥア](../Page/ランディ・クートゥア.md "wikilink") vs.  [ビクトー・ベウフォート](../Page/ビクトー・ベウフォート.md "wikilink") ×
+    1R 8:16 TKO（レフェリーストップ：[グラウンドパンチ](../Page/グラウンドパンチ.md "wikilink")）
     ※クートゥアが挑戦権獲得に成功。
   - 第6試合 UFC 15ヘビー級トーナメント 決勝戦 15分1R
-    ○  [マーク・ケアー](https://ja.wikipedia.org/wiki/マーク・ケアー "wikilink") vs.  ドゥエイン・ケイソン ×
-    1R 0:53 [チョークスリーパー](https://ja.wikipedia.org/wiki/裸絞 "wikilink")
+    ○  [マーク・ケアー](../Page/マーク・ケアー.md "wikilink") vs.  ドゥエイン・ケイソン ×
+    1R 0:53 [チョークスリーパー](../Page/裸絞.md "wikilink")
     ※ケアーがトーナメント優勝。
   - 第7試合 UFC世界ヘビー級タイトルマッチ 21分1R
-    ○  [モーリス・スミス](https://ja.wikipedia.org/wiki/モーリス・スミス "wikilink") vs.  [タンク・アボット](../Page/タンク・アボット.md "wikilink") ×
+    ○  [モーリス・スミス](../Page/モーリス・スミス.md "wikilink") vs.  [タンク・アボット](../Page/タンク・アボット.md "wikilink") ×
     1R 8:08 ギブアップ（ローキック）
     ※スミスが王座の初防衛に成功。
 
 ## 関連項目
 
   - [UFCの大会一覧](../Page/UFCの大会一覧.md "wikilink")
-  - [UFC王者一覧](https://ja.wikipedia.org/wiki/UFC王者一覧 "wikilink")
+  - [UFC王者一覧](../Page/UFC王者一覧.md "wikilink")
 
 ## 外部リンク
 

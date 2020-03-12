@@ -1,7 +1,7 @@
 > この記事は[Actuality](https://ja.wikipedia.org/wiki/Actuality)から翻訳されています。
 
 
-「**actuality**」（アクチュアリティ）は、[柴咲コウ](https://ja.wikipedia.org/wiki/柴咲コウ "wikilink")の11枚目の[シングル](../Page/シングル.md "wikilink")（RUI名義含む）。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月6日](../Page/12月6日.md "wikilink")発売。発売元は[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。
+「**actuality**」（アクチュアリティ）は、[柴咲コウ](https://ja.wikipedia.org/wiki/柴咲コウ "wikilink")の11枚目の[シングル](../Page/シングル.md "wikilink")（RUI名義含む）。[2006年](../Page/2006年.md "wikilink")[12月6日](../Page/12月6日.md "wikilink")発売。発売元は[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
 
 ## 解説
 
@@ -15,7 +15,7 @@
 
 1.  **actuality**
       -
-        （作詞：柴咲コウ、作曲・編曲：[華原大輔](https://ja.wikipedia.org/wiki/華原大輔 "wikilink")、ストリングス・アレンジ：[前嶋康明](https://ja.wikipedia.org/wiki/前嶋康明 "wikilink")）
+        （作詞：柴咲コウ、作曲・編曲：[華原大輔](https://ja.wikipedia.org/wiki/華原大輔 "wikilink")、ストリングス・アレンジ：[前嶋康明](../Page/前嶋康明.md "wikilink")）
         [サントリー](../Page/サントリー.md "wikilink")「フレシネ」CMソング
         [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に[美吉田月](https://ja.wikipedia.org/wiki/美吉田月 "wikilink")がカバーした（アルバム『LOVE GIFT〜pure flavor extra〜』）
 2.  **一緒に暮らそう**
@@ -44,7 +44,7 @@
         （作詞：柴咲コウ、作曲：松藤量平、編曲：REO）
 4.  **分身**
       -
-        （作詞：柴咲コウ、作曲：[重住ひろ子](https://ja.wikipedia.org/wiki/重住ひろ子 "wikilink")、編曲：[鈴木 "DAICHI" 秀行](https://ja.wikipedia.org/wiki/鈴木Daichi秀行 "wikilink")）
+        （作詞：柴咲コウ、作曲：[重住ひろ子](https://ja.wikipedia.org/wiki/重住ひろ子 "wikilink")、編曲：[鈴木 "DAICHI" 秀行](../Page/鈴木Daichi秀行.md "wikilink")）
         [大同生命](https://ja.wikipedia.org/wiki/大同生命 "wikilink")タイアップ曲
 5.  **actuality (Backing Track)**
       -

@@ -1,11 +1,11 @@
 > この記事は[Sweet Mom](https://ja.wikipedia.org/wiki/Sweet_Mom)から翻訳されています。
 
 
-「**Sweet Mom**」（スウィート マム）は、[柴咲コウ](https://ja.wikipedia.org/wiki/柴咲コウ "wikilink")の8枚目の[シングル](../Page/シングル.md "wikilink")（RUI名義含む）。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月5日](../Page/10月5日.md "wikilink")発売。発売元は[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。
+「**Sweet Mom**」（スウィート マム）は、[柴咲コウ](https://ja.wikipedia.org/wiki/柴咲コウ "wikilink")の8枚目の[シングル](../Page/シングル.md "wikilink")（RUI名義含む）。[2005年](../Page/2005年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")発売。発売元は[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
 
 ## 解説
 
-映画『[黄泉がえり](../Page/黄泉がえり.md "wikilink")』（主題歌は[RUI](https://ja.wikipedia.org/wiki/柴咲コウ "wikilink")）と同じ原作・[梶尾真治](https://ja.wikipedia.org/wiki/梶尾真治 "wikilink")、監督・[塩田明彦](https://ja.wikipedia.org/wiki/塩田明彦 "wikilink")、と共通点の多かったスタッフの下、制作された映画『[この胸いっぱいの愛を](https://ja.wikipedia.org/wiki/この胸いっぱいの愛を "wikilink")』の主題歌となった。
+映画『[黄泉がえり](../Page/黄泉がえり.md "wikilink")』（主題歌は[RUI](https://ja.wikipedia.org/wiki/柴咲コウ "wikilink")）と同じ原作・[梶尾真治](../Page/梶尾真治.md "wikilink")、監督・[塩田明彦](../Page/塩田明彦.md "wikilink")、と共通点の多かったスタッフの下、制作された映画『[この胸いっぱいの愛を](../Page/この胸いっぱいの愛を.md "wikilink")』の主題歌となった。
 
 ## 収録曲
 

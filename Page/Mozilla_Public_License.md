@@ -5,15 +5,15 @@
 
 ## 概要
 
-MPLは[修正BSDライセンスと](https://ja.wikipedia.org/wiki/BSDライセンス "wikilink")[GNU General Public License](../Page/GNU_General_Public_License.md "wikilink") (GPL) のハイブリッドと言えるライセンスで、[プロプライエタリとオープンソースの間のバランスを模索したものとなっている](https://ja.wikipedia.org/wiki/プロプライエタリ・ソフトウェア "wikilink")\[1\]
+MPLは[修正BSDライセンスと](../Page/BSDライセンス.md "wikilink")[GNU General Public License](../Page/GNU_General_Public_License.md "wikilink") (GPL) のハイブリッドと言えるライセンスで、[プロプライエタリとオープンソースの間のバランスを模索したものとなっている](../Page/プロプライエタリ・ソフトウェア.md "wikilink")\[1\]
 
 初期の1.0から1.1、2.0と2度の改訂を経ており\[2\]、2012年1月に発表された2.0では、ライセンス文の簡素化、他ライセンスとの相互運用性の向上、特許保護を盛り込むことによるコード貢献者の権利侵害からの保護などが行われている\[3\]。
 
-MPL 2.0は[Mozilla Firefox](../Page/Mozilla_Firefox.md "wikilink")、[Mozilla Thunderbirdをはじめとする](../Page/Mozilla_Thunderbird.md "wikilink")[Mozilla](https://ja.wikipedia.org/wiki/Mozilla "wikilink")ソフトウェアで利用されている\[4\]。また、[Adobe Flexや](https://ja.wikipedia.org/wiki/Adobe_Flex "wikilink")[LibreOffice](https://ja.wikipedia.org/wiki/LibreOffice "wikilink") 4.0以降（[LGPL](../Page/GNU_Lesser_General_Public_License.md "wikilink") 3以降との[デュアルライセンス](../Page/デュアルライセンス.md "wikilink")）にも利用されている\[5\]\[6\]\[7\]。以前のバージョンであるMPL 1.1は、[Common Development and Distribution Licenseのようなソフトウェア企業による派生ライセンスに広く用いられている](https://ja.wikipedia.org/wiki/Common_Development_and_Distribution_License "wikilink")\[8\]。
+MPL 2.0は[Mozilla Firefox](../Page/Mozilla_Firefox.md "wikilink")、[Mozilla Thunderbirdをはじめとする](../Page/Mozilla_Thunderbird.md "wikilink")[Mozilla](../Page/Mozilla.md "wikilink")ソフトウェアで利用されている\[4\]。また、[Adobe Flexや](https://ja.wikipedia.org/wiki/Adobe_Flex "wikilink")[LibreOffice](https://ja.wikipedia.org/wiki/LibreOffice "wikilink") 4.0以降（[LGPL](../Page/GNU_Lesser_General_Public_License.md "wikilink") 3以降との[デュアルライセンス](../Page/デュアルライセンス.md "wikilink")）にも利用されている\[5\]\[6\]\[7\]。以前のバージョンであるMPL 1.1は、[Common Development and Distribution Licenseのようなソフトウェア企業による派生ライセンスに広く用いられている](https://ja.wikipedia.org/wiki/Common_Development_and_Distribution_License "wikilink")\[8\]。
 
 ## 利用条件
 
-MPLは、[フリーソフトウェア財団](../Page/フリーソフトウェア財団.md "wikilink") (FSF) による「[フリーソフトウェアライセンス](https://ja.wikipedia.org/wiki/フリーソフトウェアライセンス "wikilink")」\[9\]、[Open Source Initiative](../Page/Open_Source_Initiative.md "wikilink") (OSI) による「オープンソースライセンス」\[10\]の両方の承認を受けている。MPLでライセンスされた[ソースコード](../Page/ソースコード.md "wikilink")は、他のライセンスで保護されたファイルやプロプライエタリなファイルと組み合わせることが可能であるが、MPLで保護されたコードは永続的にMPLでライセンスされ続け、ソースコードの状態で利用可能であることが求められる\[11\]。これは、[MIT Licenseや](https://ja.wikipedia.org/wiki/MIT_License "wikilink")[BSDライセンス](https://ja.wikipedia.org/wiki/BSDライセンス "wikilink")において派生物をプロプライエタリにすることが可能なことや、GPLが派生物すべてをGPLでライセンスすることを求めていることと比較した時のMPLの大きな違いである。プロプライエタリなモジュールはプロプライエタリなままで、それ以外のコアモジュールはオープンソースを維持できることから、MPLはソフトウェア企業、オープンソースコミュニティ双方での利用が容易となっている\[12\]。
+MPLは、[フリーソフトウェア財団](../Page/フリーソフトウェア財団.md "wikilink") (FSF) による「[フリーソフトウェアライセンス](https://ja.wikipedia.org/wiki/フリーソフトウェアライセンス "wikilink")」\[9\]、[Open Source Initiative](../Page/Open_Source_Initiative.md "wikilink") (OSI) による「オープンソースライセンス」\[10\]の両方の承認を受けている。MPLでライセンスされた[ソースコード](../Page/ソースコード.md "wikilink")は、他のライセンスで保護されたファイルやプロプライエタリなファイルと組み合わせることが可能であるが、MPLで保護されたコードは永続的にMPLでライセンスされ続け、ソースコードの状態で利用可能であることが求められる\[11\]。これは、[MIT Licenseや](../Page/MIT_License.md "wikilink")[BSDライセンス](../Page/BSDライセンス.md "wikilink")において派生物をプロプライエタリにすることが可能なことや、GPLが派生物すべてをGPLでライセンスすることを求めていることと比較した時のMPLの大きな違いである。プロプライエタリなモジュールはプロプライエタリなままで、それ以外のコアモジュールはオープンソースを維持できることから、MPLはソフトウェア企業、オープンソースコミュニティ双方での利用が容易となっている\[12\]。
 
 特許を含まない場合、MPLでライセンスされたコードの利用、改変、再頒布を自由に行うことができる。特許で保護されたコードの場合には、利用、譲渡、販売は可能であるが改変は特別な許可がない限り認められない。また、MPLでは被許諾者に対して貢献者の[商標](../Page/商標.md "wikilink")に関する権利は何ら付与されない\[13\]。
 
@@ -58,9 +58,9 @@ MPL 2.0は、[Apache Licenseおよび特別な留保がない限り](https://ja.
   - [gSOAP Public License](https://ja.wikipedia.org/wiki/gSOAP_Public_License "wikilink")\[33\]
   - [OpenMRS](https://ja.wikipedia.org/wiki/OpenMRS "wikilink") Public License
   - [OpenELIS](https://ja.wikipedia.org/wiki/OpenELIS "wikilink") Public License
-  - [SugarCRM](https://ja.wikipedia.org/wiki/SugarCRM "wikilink") Public License
+  - [SugarCRM](../Page/SugarCRM.md "wikilink") Public License
   - [Sun Public License](https://ja.wikipedia.org/wiki/Sun_Public_License "wikilink")
-  - [Yahoo\!](https://ja.wikipedia.org/wiki/Yahoo! "wikilink") Public License
+  - [Yahoo\!](../Page/Yahoo!.md "wikilink") Public License
 
 ## 脚注
 

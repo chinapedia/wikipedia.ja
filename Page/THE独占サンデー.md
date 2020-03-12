@@ -1,22 +1,22 @@
 > この記事は[THE](https://ja.wikipedia.org/wiki/THE)から翻訳されています。
 
 
-『**The独占サンデー**』（ザ・どくせんサンデー）は、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")（[NNN](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")・[NNS](../Page/日本テレビネットワーク協議会.md "wikilink")）で、[2000年](../Page/2000年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[2002年](../Page/2002年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")までにかけて放送された日曜夕方の[ニュース](https://ja.wikipedia.org/wiki/報道番組 "wikilink")・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。
+『**The独占サンデー**』（ザ・どくせんサンデー）は、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")（[NNN](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")・[NNS](../Page/日本テレビネットワーク協議会.md "wikilink")）で、[2000年](../Page/2000年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[2002年](../Page/2002年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")までにかけて放送された日曜夕方の[ニュース](../Page/報道番組.md "wikilink")・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。
 
 ## 概要
 
-それまでの『**[NNNニュースプラス1](https://ja.wikipedia.org/wiki/NNNニュースプラス1 "wikilink")・サンデー**』と『**[独占SPORTS情報](https://ja.wikipedia.org/wiki/独占!!スポーツ情報 "wikilink")**』を統合し、[ワイドショー](https://ja.wikipedia.org/wiki/ワイドショー "wikilink")ネタを取り入れ、ニュース・スポーツ・生活・芸能など様々なジャンルの話題を取り上げた。メインキャスター（MC）は[長嶋一茂](../Page/長嶋一茂.md "wikilink")で、企画でよく一茂と[中居正広](../Page/中居正広.md "wikilink")（[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")）がキャスター交代の座をかけて対決をしていた。最終的な対決は、[極楽とんぼ](../Page/極楽とんぼ.md "wikilink")の[山本圭一](https://ja.wikipedia.org/wiki/山本圭一 "wikilink")が一茂、中居との野球対決を行った。
+それまでの『**[NNNニュースプラス1](../Page/NNNニュースプラス1.md "wikilink")・サンデー**』と『**[独占SPORTS情報](../Page/独占!!スポーツ情報.md "wikilink")**』を統合し、[ワイドショー](../Page/ワイドショー.md "wikilink")ネタを取り入れ、ニュース・スポーツ・生活・芸能など様々なジャンルの話題を取り上げた。メインキャスター（MC）は[長嶋一茂](../Page/長嶋一茂.md "wikilink")で、企画でよく一茂と[中居正広](../Page/中居正広.md "wikilink")（[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")）がキャスター交代の座をかけて対決をしていた。最終的な対決は、[極楽とんぼ](../Page/極楽とんぼ.md "wikilink")の[山本圭一](https://ja.wikipedia.org/wiki/山本圭一 "wikilink")が一茂、中居との野球対決を行った。
 
-また、前番組の流れから放送当日に日本テレビでプロ野球ナイター中継（[東京ドーム](../Page/東京ドーム.md "wikilink")での試合に限る）がある時には、一茂と[徳光和夫](../Page/徳光和夫.md "wikilink")（と[山本真純](https://ja.wikipedia.org/wiki/山本真純 "wikilink")アナウンサー）が球場に乗り込み、ニュースと週末エンターテイメント情報コーナー（名称：週末いちもくリョー然\!）を除く全編で球場からの[巨人の応援実況を繰り広げた](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")。しかし、徳光が相手球団の選手に対して問題発言を起こしてしまい、視聴者からの批判を受け同コーナーは打ち切りとなった。
+また、前番組の流れから放送当日に日本テレビでプロ野球ナイター中継（[東京ドーム](../Page/東京ドーム.md "wikilink")での試合に限る）がある時には、一茂と[徳光和夫](../Page/徳光和夫.md "wikilink")（と[山本真純](../Page/山本真純.md "wikilink")アナウンサー）が球場に乗り込み、ニュースと週末エンターテイメント情報コーナー（名称：週末いちもくリョー然\!）を除く全編で球場からの[巨人の応援実況を繰り広げた](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")。しかし、徳光が相手球団の選手に対して問題発言を起こしてしまい、視聴者からの批判を受け同コーナーは打ち切りとなった。
 
-番組は2年で終了。報道色を強めた『**[真相報道 バンキシャ\!](https://ja.wikipedia.org/wiki/真相報道_バンキシャ! "wikilink")**』へと引き継がれた。
+番組は2年で終了。報道色を強めた『**[真相報道 バンキシャ\!](../Page/真相報道_バンキシャ!.md "wikilink")**』へと引き継がれた。
 
 ## 放送時間
 
 全て[JST](../Page/日本標準時.md "wikilink")
 
   - 2000.10 - 2002.03：日曜日18:00 - 19:00
-  - 2002.04 - 2002.09：日曜日18:00 - 18:55 （『[ザ\!鉄腕\!DASH\!\!](https://ja.wikipedia.org/wiki/ザ!鉄腕!DASH!! "wikilink")』直前枠の『ザ\!直前\!DASH\!\!』新設のため5分短縮）
+  - 2002.04 - 2002.09：日曜日18:00 - 18:55 （『[ザ\!鉄腕\!DASH\!\!](../Page/ザ!鉄腕!DASH!!.md "wikilink")』直前枠の『ザ\!直前\!DASH\!\!』新設のため5分短縮）
 
 ※又、ニュースコーナーは前番組の『プラス1・サンデー』にあわせる形で18:02 - 18:20で固定されていた（ローカルニュースも含む）。
 
@@ -26,7 +26,7 @@
 
 <!-- end list -->
 
-  - [長嶋一茂](../Page/長嶋一茂.md "wikilink")、[山本真純](https://ja.wikipedia.org/wiki/山本真純 "wikilink")（日本テレビアナウンサー※当時）
+  - [長嶋一茂](../Page/長嶋一茂.md "wikilink")、[山本真純](../Page/山本真純.md "wikilink")（日本テレビアナウンサー※当時）
       - 共に『独占SPORTS情報』から続投。
 
 <!-- end list -->
@@ -35,7 +35,7 @@
 
 <!-- end list -->
 
-  - [藤井恒久](https://ja.wikipedia.org/wiki/藤井恒久 "wikilink")（日本テレビアナウンサー）、[鈴木君枝](https://ja.wikipedia.org/wiki/大杉君枝 "wikilink")（日本テレビアナウンサー※当時）
+  - [藤井恒久](../Page/藤井恒久.md "wikilink")（日本テレビアナウンサー）、[鈴木君枝](../Page/大杉君枝.md "wikilink")（日本テレビアナウンサー※当時）
 
 <!-- end list -->
 
@@ -44,10 +44,10 @@
 <!-- end list -->
 
   - 2000.10 - 2001.9　[高田元広](https://ja.wikipedia.org/wiki/高田元広 "wikilink")（日本テレビ報道局員※当時）
-  - 2001.10 - 2002.9　[後藤俊哉](https://ja.wikipedia.org/wiki/後藤俊哉 "wikilink")（日本テレビ報道局キャスター）
+  - 2001.10 - 2002.9　[後藤俊哉](../Page/後藤俊哉.md "wikilink")（日本テレビ報道局キャスター）
   - 山本真純→鈴木君枝（交代時期不明）
       - メインスタジオとは別の報道スタジオから放送。冒頭は男性キャスター1人で、トップニュースが終わった後に、メインスタジオから移動してきた女性キャスターが加わって2人で進行した。
-      - 高田は『プラス1・サンデー』から続投。なお後藤は『プラス1・サタデー』を兼務したが、高田は本番組開始時に『サタデー』のみ降板となった（同時期の『サタデー』は[近野宏明](https://ja.wikipedia.org/wiki/近野宏明 "wikilink")が担当）。
+      - 高田は『プラス1・サンデー』から続投。なお後藤は『プラス1・サタデー』を兼務したが、高田は本番組開始時に『サタデー』のみ降板となった（同時期の『サタデー』は[近野宏明](../Page/近野宏明.md "wikilink")が担当）。
 
 <!-- end list -->
 
@@ -56,7 +56,7 @@
 <!-- end list -->
 
   - [中居正広](../Page/中居正広.md "wikilink")（[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")）
-  - [宮本和知](https://ja.wikipedia.org/wiki/宮本和知 "wikilink")
+  - [宮本和知](../Page/宮本和知.md "wikilink")
 
 <!-- end list -->
 
@@ -64,8 +64,8 @@
 
 <!-- end list -->
 
-  - [柴田秀勝](https://ja.wikipedia.org/wiki/柴田秀勝 "wikilink") ※後述の「世界ブラックジャイアンツ化計画」のOPを担当（クレジットなし）。
-  - [垂木勉](https://ja.wikipedia.org/wiki/垂木勉 "wikilink")　※この番組の人形レポーター**WINちゃん・とよチュン**（元『[WIN](https://ja.wikipedia.org/wiki/WIN_\(テレビ番組\) "wikilink")』リポーター）と**[川上犬](https://ja.wikipedia.org/wiki/川上犬 "wikilink")シン**（番組独自で追加。垂木は開始直前頃にスタートした『[THE・サンデー](https://ja.wikipedia.org/wiki/THE・サンデー "wikilink")』のコーナー**「押忍（おす）\![川上憲伸](https://ja.wikipedia.org/wiki/川上憲伸 "wikilink")ッス\!\!」**ナレーターを務めていたため、横滑りという形で当てることとなった）の声で出演。とよチュンのみ途中で降板。その後は女性声優が当てていた。この他、イワヤのぬいぐるみに眉毛を加えた「ピンクのブタさん」や「オレンジのゾウさん」といったキャラクターがいたが、いずれもいつのまにか存在がウヤムヤになった。またこれらのキャラクターのぬいぐるみも、後に番組仕様でイワヤから販売されている。
+  - [柴田秀勝](../Page/柴田秀勝.md "wikilink") ※後述の「世界ブラックジャイアンツ化計画」のOPを担当（クレジットなし）。
+  - [垂木勉](../Page/垂木勉.md "wikilink")　※この番組の人形レポーター**WINちゃん・とよチュン**（元『[WIN](../Page/WIN_\(テレビ番組\).md "wikilink")』リポーター）と**[川上犬](../Page/川上犬.md "wikilink")シン**（番組独自で追加。垂木は開始直前頃にスタートした『[THE・サンデー](https://ja.wikipedia.org/wiki/THE・サンデー "wikilink")』のコーナー**「押忍（おす）\![川上憲伸](../Page/川上憲伸.md "wikilink")ッス\!\!」**ナレーターを務めていたため、横滑りという形で当てることとなった）の声で出演。とよチュンのみ途中で降板。その後は女性声優が当てていた。この他、イワヤのぬいぐるみに眉毛を加えた「ピンクのブタさん」や「オレンジのゾウさん」といったキャラクターがいたが、いずれもいつのまにか存在がウヤムヤになった。またこれらのキャラクターのぬいぐるみも、後に番組仕様でイワヤから販売されている。
 
 ## 主なコーナー
 
@@ -78,18 +78,18 @@
 
 ## 番組テーマ曲
 
-  - 2000.10 - 2001.03 [JUDY AND MARY](https://ja.wikipedia.org/wiki/JUDY_AND_MARY "wikilink")『ガールフレンド』
+  - 2000.10 - 2001.03 [JUDY AND MARY](../Page/JUDY_AND_MARY.md "wikilink")『ガールフレンド』
   - 2001.04 - 2002.09 JUDY AND MARY『MOTTO』
 
 ## イメージソング
 
 ※番組エンディングテーマとして流された。
 
-  - 2001.04 - 2001.09 [SOPHIA](https://ja.wikipedia.org/wiki/SOPHIA "wikilink")『-WOOZ\!-』
-  - 2001.10 - 2001.12 [Whiteberry](https://ja.wikipedia.org/wiki/Whiteberry "wikilink")『立入禁止』
+  - 2001.04 - 2001.09 [SOPHIA](../Page/SOPHIA.md "wikilink")『-WOOZ\!-』
+  - 2001.10 - 2001.12 [Whiteberry](../Page/Whiteberry.md "wikilink")『立入禁止』
   - 2002.01 - 2002.03 [中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")『CRESCENT MOON』
   - 2002.04 - 2002.06 [shela](https://ja.wikipedia.org/wiki/shela "wikilink")『Rose』
-  - 2002.07 - 2002.09 [杉山清貴](https://ja.wikipedia.org/wiki/杉山清貴 "wikilink")『Summer Regret』
+  - 2002.07 - 2002.09 [杉山清貴](../Page/杉山清貴.md "wikilink")『Summer Regret』
 
 ## ネット局
 
@@ -113,7 +113,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/札幌テレビ放送" title="wikilink">札幌テレビ</a></p></td>
+<td><p><a href="../Page/札幌テレビ放送.md" title="wikilink">札幌テレビ</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -142,7 +142,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/山形県" title="wikilink">山形県</a></p></td>
+<td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
 <td><p><a href="../Page/山形放送.md" title="wikilink">山形放送</a></p></td>
 <td></td>
 <td></td>
@@ -197,7 +197,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/中京圏" title="wikilink">中京広域圏</a></p></td>
+<td><p><a href="../Page/中京圏.md" title="wikilink">中京広域圏</a></p></td>
 <td><p><a href="../Page/中京テレビ放送.md" title="wikilink">中京テレビ</a></p></td>
 <td><p>日本テレビ系列</p></td>
 <td></td>
@@ -251,25 +251,25 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/福岡放送.md" title="wikilink">福岡放送</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/長崎県.md" title="wikilink">長崎県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長崎国際テレビ" title="wikilink">長崎国際テレビ</a></p></td>
+<td><p><a href="../Page/長崎国際テレビ.md" title="wikilink">長崎国際テレビ</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/熊本県" title="wikilink">熊本県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/熊本県民テレビ" title="wikilink">熊本県民テレビ</a></p></td>
+<td><p><a href="../Page/熊本県民テレビ.md" title="wikilink">熊本県民テレビ</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/鹿児島県" title="wikilink">鹿児島県</a></p></td>
+<td><p><a href="../Page/鹿児島県.md" title="wikilink">鹿児島県</a></p></td>
 <td><p><a href="../Page/鹿児島讀賣テレビ.md" title="wikilink">鹿児島読売テレビ</a></p></td>
 <td></td>
 <td></td>

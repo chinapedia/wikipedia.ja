@@ -1,27 +1,27 @@
 > この記事は[CS](https://ja.wikipedia.org/wiki/CS)から翻訳されています。
 
 
-**CS★日テレ**（シーエスにってれ）は、[CSデジタル放送の](https://ja.wikipedia.org/wiki/衛星放送 "wikilink")[パーフェクTV\!が開局した](../Page/スカパー!プレミアムサービス.md "wikilink")[1996年](../Page/1996年.md "wikilink")8月から[2000年](../Page/2000年.md "wikilink")9月まで放送されていたチャンネル。チャンネル番号は210。
+**CS★日テレ**（シーエスにってれ）は、[CSデジタル放送の](../Page/衛星放送.md "wikilink")[パーフェクTV\!が開局した](../Page/スカパー!プレミアムサービス.md "wikilink")[1996年](../Page/1996年.md "wikilink")8月から[2000年](../Page/2000年.md "wikilink")9月まで放送されていたチャンネル。チャンネル番号は210。
 
 ## 概要
 
 ### 放送地域
 
-主に[秋田県](../Page/秋田県.md "wikilink")・[山梨県](../Page/山梨県.md "wikilink")・[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")・[福井県](../Page/福井県.md "wikilink")・[徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")・[高知県](../Page/高知県.md "wikilink")・[佐賀県](../Page/佐賀県.md "wikilink")・[大分県](../Page/大分県.md "wikilink")・[宮崎県](../Page/宮崎県.md "wikilink")・[沖縄県](../Page/沖縄県.md "wikilink")・地上波放送の受信が困難な難視聴地域など [日本テレビの系列局やマストバイ](../Page/日本テレビ放送網.md "wikilink")・フルネット局が無い地域向けに日本テレビの[同時放送](https://ja.wikipedia.org/wiki/サイマル放送 "wikilink")(一部、[読売テレビ制作番組を含む](../Page/讀賣テレビ放送.md "wikilink")）がされ、平日は7:00からの「[ズームイン\!\!朝\!](../Page/ズームイン!!朝!.md "wikilink")」、土・日曜日は11:30からの「[NNNニュースダッシュ](https://ja.wikipedia.org/wiki/NNNニュースダッシュ "wikilink")」から始まり、全曜日が23時頃の「[NNNきょうの出来事](https://ja.wikipedia.org/wiki/NNNきょうの出来事 "wikilink")」までの放送だった。土・日曜日は13時頃から17時頃まで放送休止していた。放送形態としては[NHK衛星第2テレビジョン](https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン "wikilink")（2011年3月閉局）や衛星によるセーフティネットでの地上デジタル放送再送信（地デジ難視対策衛星放送）のような難視聴解消を目的としたもの、2018年9月まで地上波・BSの2波(かつてはCSでも行っていた)で完全[サイマル放送](https://ja.wikipedia.org/wiki/サイマル放送 "wikilink")を行っていた[放送大学に近い](../Page/放送大学学園.md "wikilink")。
+主に[秋田県](../Page/秋田県.md "wikilink")・[山梨県](../Page/山梨県.md "wikilink")・[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")・[福井県](../Page/福井県.md "wikilink")・[徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")・[高知県](../Page/高知県.md "wikilink")・[佐賀県](../Page/佐賀県.md "wikilink")・[大分県](../Page/大分県.md "wikilink")・[宮崎県](../Page/宮崎県.md "wikilink")・[沖縄県](../Page/沖縄県.md "wikilink")・地上波放送の受信が困難な難視聴地域など [日本テレビの系列局やマストバイ](../Page/日本テレビ放送網.md "wikilink")・フルネット局が無い地域向けに日本テレビの[同時放送](../Page/サイマル放送.md "wikilink")(一部、[読売テレビ制作番組を含む](../Page/讀賣テレビ放送.md "wikilink")）がされ、平日は7:00からの「[ズームイン\!\!朝\!](../Page/ズームイン!!朝!.md "wikilink")」、土・日曜日は11:30からの「[NNNニュースダッシュ](../Page/NNNニュースダッシュ.md "wikilink")」から始まり、全曜日が23時頃の「[NNNきょうの出来事](https://ja.wikipedia.org/wiki/NNNきょうの出来事 "wikilink")」までの放送だった。土・日曜日は13時頃から17時頃まで放送休止していた。放送形態としては[NHK衛星第2テレビジョン](../Page/NHK衛星第2テレビジョン.md "wikilink")（2011年3月閉局）や衛星によるセーフティネットでの地上デジタル放送再送信（地デジ難視対策衛星放送）のような難視聴解消を目的としたもの、2018年9月まで地上波・BSの2波(かつてはCSでも行っていた)で完全[サイマル放送](../Page/サイマル放送.md "wikilink")を行っていた[放送大学に近い](../Page/放送大学学園.md "wikilink")。
 
 ### 番組
 
-音楽番組（例 [速報\!歌の大辞テン](https://ja.wikipedia.org/wiki/速報!歌の大辞テン "wikilink")など）など関連権利や[肖像権](https://ja.wikipedia.org/wiki/肖像権 "wikilink")の処理が難しい番組は放送されず、代替番組（地上波番組の時差放送や独自番組）に切り替わった。また、地上波がCM中の間は、日本テレビ本社（後の[麹町分室](https://ja.wikipedia.org/wiki/日本テレビ放送網麹町分室 "wikilink")）屋上の[お天気カメラ](https://ja.wikipedia.org/wiki/お天気カメラ "wikilink")の映像や[気象衛星](https://ja.wikipedia.org/wiki/気象衛星 "wikilink")の雲の様子を放送した。ただし、CM前の[提供クレジット](https://ja.wikipedia.org/wiki/提供クレジット "wikilink")はそのまま放送された（ネットワークセールスのみ表示。各局ローカルセールスでは表示なし）。ニュースやワイドショーでも一部のコーナーは[お断り画面](https://ja.wikipedia.org/wiki/かぶせ放送 "wikilink")（チャンネルロゴの識別ロゴとの連動切換で、映画のフィルムになんだろうのマスコットを表示し、「権利の関係上、映像はお届けできません」と表示された）時には蓋被せ→天気カメラ映像→蓋被せ→天気カメラ映像･･･とほとんど見られない場合も存在した。または[フィラー](https://ja.wikipedia.org/wiki/フィラー "wikilink")映像に差し替えられた。ただしオリンピック関連については、民放連に加盟している地上波と同一法人で運営を行っていたため、そのまま放送された。また、3時から5時頃までのいわゆる「再放送枠」はフィラー映像だった。年始には土・日曜日でも[箱根駅伝放送のため](../Page/東京箱根間往復大学駅伝競走.md "wikilink")、7:00から放送を開始していた。
+音楽番組（例 [速報\!歌の大辞テン](../Page/速報!歌の大辞テン.md "wikilink")など）など関連権利や[肖像権](../Page/肖像権.md "wikilink")の処理が難しい番組は放送されず、代替番組（地上波番組の時差放送や独自番組）に切り替わった。また、地上波がCM中の間は、日本テレビ本社（後の[麹町分室](../Page/日本テレビ放送網麹町分室.md "wikilink")）屋上の[お天気カメラ](../Page/お天気カメラ.md "wikilink")の映像や[気象衛星](../Page/気象衛星.md "wikilink")の雲の様子を放送した。ただし、CM前の[提供クレジット](../Page/提供クレジット.md "wikilink")はそのまま放送された（ネットワークセールスのみ表示。各局ローカルセールスでは表示なし）。ニュースやワイドショーでも一部のコーナーは[お断り画面](https://ja.wikipedia.org/wiki/かぶせ放送 "wikilink")（チャンネルロゴの識別ロゴとの連動切換で、映画のフィルムになんだろうのマスコットを表示し、「権利の関係上、映像はお届けできません」と表示された）時には蓋被せ→天気カメラ映像→蓋被せ→天気カメラ映像･･･とほとんど見られない場合も存在した。または[フィラー](https://ja.wikipedia.org/wiki/フィラー "wikilink")映像に差し替えられた。ただしオリンピック関連については、民放連に加盟している地上波と同一法人で運営を行っていたため、そのまま放送された。また、3時から5時頃までのいわゆる「再放送枠」はフィラー映像だった。年始には土・日曜日でも[箱根駅伝放送のため](../Page/東京箱根間往復大学駅伝競走.md "wikilink")、7:00から放送を開始していた。
 
 [プロ野球中継は](https://ja.wikipedia.org/wiki/Dramatic_Game_1844 "wikilink")[巨人のホームゲームのみ放送していた](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")。（巨人のビジターゲームは放送されなかった）当時トップ&リレー中継を放送していた[NNN24の放送と組み合わせて日本全国くまなく見ることができた](https://ja.wikipedia.org/wiki/日テレNEWS24 "wikilink")。そのほかに放送されたスポーツ中継はゴルフ、マラソン、長野オリンピック、シドニーオリンピックなど（オリンピックについては、[民放連に加盟している地上波と同一法人で運営を行っていたため放送することができた](../Page/日本民間放送連盟.md "wikilink")。オリンピック中継を日本のCS放送でも同時放送を行ったのは現在、本チャンネルのみである）。
 
-巨人の春季キャンプ地で巨人ファンが多いながらも、日本テレビの巨人戦中継がごく一部の試合しか見られない宮崎県や、ローカル編成枠となってしまうため「[電波少年シリーズ](../Page/電波少年シリーズ.md "wikilink")」「[ダウンタウンのガキの使いやあらへんで\!\!](https://ja.wikipedia.org/wiki/ダウンタウンのガキの使いやあらへんで!! "wikilink")」が[同時ネット](https://ja.wikipedia.org/wiki/同時ネット "wikilink")ではない地域でも制作局と同時に見られるということで、地味ながら人気チャンネルであった。その一方で、地上波では全国的にカバーされていた『[ZZZ](../Page/ZZZ.md "wikilink")』『[スポーツうるぐす](../Page/スポーツうるぐす.md "wikilink")』『[それいけ\!アンパンマン](https://ja.wikipedia.org/wiki/それいけ!アンパンマン "wikilink")』『[ズームイン\!\!サタデー](https://ja.wikipedia.org/wiki/ズームイン!!サタデー "wikilink")』『[ウェークアップ\!](https://ja.wikipedia.org/wiki/ウェークアップ! "wikilink")』『[THE・サンデー](https://ja.wikipedia.org/wiki/THE・サンデー "wikilink")』『[いつみても波乱万丈](https://ja.wikipedia.org/wiki/いつみても波乱万丈 "wikilink")』『[雷波少年](../Page/雷波少年.md "wikilink")』や、 『[ジパングあさ6](https://ja.wikipedia.org/wiki/ジパングあさ6 "wikilink")』『[TVおじゃマンボウ](https://ja.wikipedia.org/wiki/TVおじゃマンボウ "wikilink")』『[遠くへ行きたい](https://ja.wikipedia.org/wiki/遠くへ行きたい_\(テレビ番組\) "wikilink")』など地域によってネットされない番組などは、全て午前や午後の放送休止時間帯に放送されていたため、このチャンネルを通じて全国的にカバーすることは出来なかった。
+巨人の春季キャンプ地で巨人ファンが多いながらも、日本テレビの巨人戦中継がごく一部の試合しか見られない宮崎県や、ローカル編成枠となってしまうため「[電波少年シリーズ](../Page/電波少年シリーズ.md "wikilink")」「[ダウンタウンのガキの使いやあらへんで\!\!](https://ja.wikipedia.org/wiki/ダウンタウンのガキの使いやあらへんで!! "wikilink")」が[同時ネット](https://ja.wikipedia.org/wiki/同時ネット "wikilink")ではない地域でも制作局と同時に見られるということで、地味ながら人気チャンネルであった。その一方で、地上波では全国的にカバーされていた『[ZZZ](../Page/ZZZ.md "wikilink")』『[スポーツうるぐす](../Page/スポーツうるぐす.md "wikilink")』『[それいけ\!アンパンマン](https://ja.wikipedia.org/wiki/それいけ!アンパンマン "wikilink")』『[ズームイン\!\!サタデー](../Page/ズームイン!!サタデー.md "wikilink")』『[ウェークアップ\!](../Page/ウェークアップ!.md "wikilink")』『[THE・サンデー](https://ja.wikipedia.org/wiki/THE・サンデー "wikilink")』『[いつみても波乱万丈](https://ja.wikipedia.org/wiki/いつみても波乱万丈 "wikilink")』『[雷波少年](../Page/雷波少年.md "wikilink")』や、 『[ジパングあさ6](../Page/ジパングあさ6.md "wikilink")』『[TVおじゃマンボウ](../Page/TVおじゃマンボウ.md "wikilink")』『[遠くへ行きたい](../Page/遠くへ行きたい_\(テレビ番組\).md "wikilink")』など地域によってネットされない番組などは、全て午前や午後の放送休止時間帯に放送されていたため、このチャンネルを通じて全国的にカバーすることは出来なかった。
 
 また、夏の恒例番組である「[24時間テレビ](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink")」を、関連権利の処理の難しさから一回だけ放送しなかったことがあり、その年は「ニュース」、「[スポーツうるぐす](../Page/スポーツうるぐす.md "wikilink")」のみの放送だった。
 
-音声は常時ステレオ放送（一部番組は[モノステレオ放送](https://ja.wikipedia.org/wiki/モノラル放送 "wikilink")）だったため、「[火曜サスペンス劇場](https://ja.wikipedia.org/wiki/火曜サスペンス劇場 "wikilink")」などの副音声（二重音声）放送は行われなかった。
+音声は常時ステレオ放送（一部番組は[モノステレオ放送](https://ja.wikipedia.org/wiki/モノラル放送 "wikilink")）だったため、「[火曜サスペンス劇場](../Page/火曜サスペンス劇場.md "wikilink")」などの副音声（二重音声）放送は行われなかった。
 
-2000年12月に、[BSデジタル放送の](https://ja.wikipedia.org/wiki/衛星放送 "wikilink")[BS日テレが始まることや](../Page/BS日本.md "wikilink")、日本テレビが中心となったCSデジタル放送[プラット・ワン](../Page/プラット・ワン.md "wikilink")が設立されることなどから、2000年9月末に放送終了となった。
+2000年12月に、[BSデジタル放送の](../Page/衛星放送.md "wikilink")[BS日テレが始まることや](../Page/BS日本.md "wikilink")、日本テレビが中心となったCSデジタル放送[プラット・ワン](../Page/プラット・ワン.md "wikilink")が設立されることなどから、2000年9月末に放送終了となった。
 
 その後、110度CSデジタル放送の委託事業者として「[シーエス日本](https://ja.wikipedia.org/wiki/シーエス日本 "wikilink")」が設立され、「CS★日テレ」「NNN24(現：[日テレNEWS24](https://ja.wikipedia.org/wiki/日テレNEWS24 "wikilink"))」の放送を事実上継承した。
 
@@ -38,12 +38,12 @@
 
 <!-- end list -->
 
-  - [世界まる見え\!テレビ特捜部](https://ja.wikipedia.org/wiki/世界まる見え!テレビ特捜部 "wikilink")・[特命リサーチ200X](https://ja.wikipedia.org/wiki/特命リサーチ200X "wikilink")
+  - [世界まる見え\!テレビ特捜部](../Page/世界まる見え!テレビ特捜部.md "wikilink")・[特命リサーチ200X](../Page/特命リサーチ200X.md "wikilink")
 
 <!-- end list -->
 
   -
-    海外テレビ番組の映像権利処理の権利関係。前者は「[NNNドキュメント](https://ja.wikipedia.org/wiki/NNNドキュメント "wikilink")」と「[ぶらり途中下車の旅](https://ja.wikipedia.org/wiki/ぶらり途中下車の旅 "wikilink")」、後者は「[所さんの目がテン\!](https://ja.wikipedia.org/wiki/所さんの目がテン! "wikilink")」と「[皇室日記](https://ja.wikipedia.org/wiki/皇室日記 "wikilink")」に差し替えられていた。
+    海外テレビ番組の映像権利処理の権利関係。前者は「[NNNドキュメント](../Page/NNNドキュメント.md "wikilink")」と「[ぶらり途中下車の旅](../Page/ぶらり途中下車の旅.md "wikilink")」、後者は「[所さんの目がテン\!](../Page/所さんの目がテン!.md "wikilink")」と「[皇室日記](../Page/皇室日記.md "wikilink")」に差し替えられていた。
     うち前者の「NNNドキュメント」が60分バージョンの時は「ぶらり途中下車の旅」が休止となった。
 
 <!-- end list -->
@@ -53,7 +53,7 @@
 <!-- end list -->
 
   -
-    映像の肖像権処理の関係か。「[深夜の音楽会](https://ja.wikipedia.org/wiki/深夜の音楽会 "wikilink")」と「[からだ元気科](https://ja.wikipedia.org/wiki/からだ元気科 "wikilink")」に差し替えられていた。
+    映像の肖像権処理の関係か。「[深夜の音楽会](https://ja.wikipedia.org/wiki/深夜の音楽会 "wikilink")」と「[からだ元気科](../Page/からだ元気科.md "wikilink")」に差し替えられていた。
 
 <!-- end list -->
 
@@ -62,25 +62,25 @@
 <!-- end list -->
 
   -
-    放送権利の問題（ただし、過去に1回だけ同時放送したことがある。このときの作品はアニメ「[ルパン三世](https://ja.wikipedia.org/wiki/ルパン三世 "wikilink")」だった）。「全日本プロレス ザ・王道」を放送していた。放送枠拡大した場合は余り時間をフィラーで埋めた。
+    放送権利の問題（ただし、過去に1回だけ同時放送したことがある。このときの作品はアニメ「[ルパン三世](../Page/ルパン三世.md "wikilink")」だった）。「全日本プロレス ザ・王道」を放送していた。放送枠拡大した場合は余り時間をフィラーで埋めた。
 
 <!-- end list -->
 
-  - [香取慎吾の特上\!天声慎吾](https://ja.wikipedia.org/wiki/香取慎吾の特上!天声慎吾 "wikilink")
-
-<!-- end list -->
-
-  -
-    理由は不明。同番組の放送が深夜から日曜夕方に移動してもなぜか放送休止時間のままであった。なお、メイン出演者に当時[ジャニーズ事務所](https://ja.wikipedia.org/wiki/ジャニーズ事務所 "wikilink")に所属していた[タレントが出演していたが](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")、『[マジカル頭脳パワー\!\!](../Page/マジカル頭脳パワー!!.md "wikilink")』や『[どっちの料理ショー](https://ja.wikipedia.org/wiki/どっちの料理ショー "wikilink")』、『[ザ\!鉄腕\!DASH\!\!](https://ja.wikipedia.org/wiki/ザ!鉄腕!DASH!! "wikilink")』など他のジャニーズ事務所所属タレントがレギュラー出演していた番組は差し替えなく放送されている。
-
-<!-- end list -->
-
-  - [知ってるつもり?\!](https://ja.wikipedia.org/wiki/知ってるつもり?! "wikilink")
+  - [香取慎吾の特上\!天声慎吾](../Page/香取慎吾の特上!天声慎吾.md "wikilink")
 
 <!-- end list -->
 
   -
-    ほとんどの回は放送されたものの、[芸能人](https://ja.wikipedia.org/wiki/芸能人 "wikilink")の回など一部エピソードについては映像の権利関係で放送出来なかった。次回予告で放送出来ない回は[なんだろう](https://ja.wikipedia.org/wiki/なんだろう "wikilink")と「CS★日テレ」が大きく表示された画面に差し替えられた。放送出来ない回は「劇場中継」に差し替えられた。
+    理由は不明。同番組の放送が深夜から日曜夕方に移動してもなぜか放送休止時間のままであった。なお、メイン出演者に当時[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")に所属していた[タレントが出演していたが](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")、『[マジカル頭脳パワー\!\!](../Page/マジカル頭脳パワー!!.md "wikilink")』や『[どっちの料理ショー](../Page/どっちの料理ショー.md "wikilink")』、『[ザ\!鉄腕\!DASH\!\!](../Page/ザ!鉄腕!DASH!!.md "wikilink")』など他のジャニーズ事務所所属タレントがレギュラー出演していた番組は差し替えなく放送されている。
+
+<!-- end list -->
+
+  - [知ってるつもり?\!](../Page/知ってるつもり?!.md "wikilink")
+
+<!-- end list -->
+
+  -
+    ほとんどの回は放送されたものの、[芸能人](https://ja.wikipedia.org/wiki/芸能人 "wikilink")の回など一部エピソードについては映像の権利関係で放送出来なかった。次回予告で放送出来ない回は[なんだろう](../Page/なんだろう.md "wikilink")と「CS★日テレ」が大きく表示された画面に差し替えられた。放送出来ない回は「劇場中継」に差し替えられた。
 
 ## オリジナル番組
 

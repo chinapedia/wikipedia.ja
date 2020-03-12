@@ -1,25 +1,25 @@
 > この記事は[ASIMO](https://ja.wikipedia.org/wiki/ASIMO)から翻訳されています。
 
 
-{{ infobox robot | name = Asimo Information | logo = Asimo logo.svg | logosize = 175px | image = ASIMO 2nd-gen model dancing.jpg |thumb | imsize = 175px | alt = | caption = ASIMO（2代目） | manufacturer = [本田技研工業](https://ja.wikipedia.org/wiki/本田技研工業 "wikilink") | year_of_creation = 2000年 - 2018年 | derived_from = | replaced_by = | website =  }} **ASIMO**（アシモ）は、[本田技研工業](https://ja.wikipedia.org/wiki/本田技研工業 "wikilink")株式会社が開発し、[ホンダエンジニアリング](https://ja.wikipedia.org/wiki/ホンダエンジニアリング "wikilink")株式会社が製造していた世界初の本格的な[二足歩行ロボット](https://ja.wikipedia.org/wiki/二足歩行ロボット "wikilink")\[1\]。予測運動制御によって[重心](../Page/重心.md "wikilink")や[ゼロモーメントポイント](https://ja.wikipedia.org/wiki/ゼロモーメントポイント "wikilink")（ZMP）を制御して自在に歩くことができ、階段の上り下り、[旋回](https://ja.wikipedia.org/wiki/旋回 "wikilink")、[ダンス](https://ja.wikipedia.org/wiki/ダンス "wikilink")なども可能。親しみやすさを考えたデザインを採用している。本田技研工業の説明によると、「ASIMO」という名称は「**A**dvanced **S**tep in **I**nnovative **Mo**bility（新しい時代へ進化した革新的移動性）」の略である。開発の動機に[手塚治虫](../Page/手塚治虫.md "wikilink")の[鉄腕アトム](../Page/鉄腕アトム.md "wikilink")があったとされている\[2\]。
+{{ infobox robot | name = Asimo Information | logo = Asimo logo.svg | logosize = 175px | image = ASIMO 2nd-gen model dancing.jpg |thumb | imsize = 175px | alt = | caption = ASIMO（2代目） | manufacturer = [本田技研工業](../Page/本田技研工業.md "wikilink") | year_of_creation = 2000年 - 2018年 | derived_from = | replaced_by = | website =  }} **ASIMO**（アシモ）は、[本田技研工業](../Page/本田技研工業.md "wikilink")株式会社が開発し、[ホンダエンジニアリング](../Page/ホンダエンジニアリング.md "wikilink")株式会社が製造していた世界初の本格的な[二足歩行ロボット](../Page/二足歩行ロボット.md "wikilink")\[1\]。予測運動制御によって[重心](../Page/重心.md "wikilink")や[ゼロモーメントポイント](../Page/ゼロモーメントポイント.md "wikilink")（ZMP）を制御して自在に歩くことができ、階段の上り下り、[旋回](https://ja.wikipedia.org/wiki/旋回 "wikilink")、[ダンス](../Page/ダンス.md "wikilink")なども可能。親しみやすさを考えたデザインを採用している。本田技研工業の説明によると、「ASIMO」という名称は「**A**dvanced **S**tep in **I**nnovative **Mo**bility（新しい時代へ進化した革新的移動性）」の略である。開発の動機に[手塚治虫](../Page/手塚治虫.md "wikilink")の[鉄腕アトム](../Page/鉄腕アトム.md "wikilink")があったとされている\[2\]。
 
 ## 概要
 
-[Honda_ASIMO_Walking_Stairs.JPG](https://ja.wikipedia.org/wiki/File:Honda_ASIMO_Walking_Stairs.JPG "fig:Honda_ASIMO_Walking_Stairs.JPG") 最新型のASIMOの身長は130cm、質量は48kg\[3\]。ASIMOは人間の生活に合わせ作られていて、人の動きを感知し、自律的に行動が可能である。例えば人を追従して歩行、手を出すと握手する、障害物を回避する、音源認識、階段歩行などが行える。しかし、[HRP-2](https://ja.wikipedia.org/wiki/HRP-2 "wikilink")と違い、仰向けやうつ伏せに転倒した場合に起き上がることができない。なお、あらかじめ設定することにより[音声認識](../Page/音声認識.md "wikilink")と[発音](https://ja.wikipedia.org/wiki/発音 "wikilink")も可能である。2011年11月8日に発表された新型ASIMOは3人が同時に発する言葉を認識することができるようになり、予め設置された空間センサの情報を基に人の歩く方向を予測し、衝突を避けることが可能となった。また、身体能力の向上により片足けんけんや両足ジャンプなどが連続して実行することが可能となった\[4\]\[5\]。その他、水筒のふたを開けて紙コップに飲み物を注いだり、手話をこなすなど指先も器用になった。ホンダはアシモの技術を応用し、[福島第1原発内で活用する原子力災害ロボットを開発した](https://ja.wikipedia.org/wiki/福島第一原子力発電所 "wikilink")\[6\]。
+[Honda_ASIMO_Walking_Stairs.JPG](https://ja.wikipedia.org/wiki/File:Honda_ASIMO_Walking_Stairs.JPG "fig:Honda_ASIMO_Walking_Stairs.JPG") 最新型のASIMOの身長は130cm、質量は48kg\[3\]。ASIMOは人間の生活に合わせ作られていて、人の動きを感知し、自律的に行動が可能である。例えば人を追従して歩行、手を出すと握手する、障害物を回避する、音源認識、階段歩行などが行える。しかし、[HRP-2](../Page/HRP-2.md "wikilink")と違い、仰向けやうつ伏せに転倒した場合に起き上がることができない。なお、あらかじめ設定することにより[音声認識](../Page/音声認識.md "wikilink")と[発音](https://ja.wikipedia.org/wiki/発音 "wikilink")も可能である。2011年11月8日に発表された新型ASIMOは3人が同時に発する言葉を認識することができるようになり、予め設置された空間センサの情報を基に人の歩く方向を予測し、衝突を避けることが可能となった。また、身体能力の向上により片足けんけんや両足ジャンプなどが連続して実行することが可能となった\[4\]\[5\]。その他、水筒のふたを開けて紙コップに飲み物を注いだり、手話をこなすなど指先も器用になった。ホンダはアシモの技術を応用し、[福島第1原発内で活用する原子力災害ロボットを開発した](../Page/福島第一原子力発電所.md "wikilink")\[6\]。
 
-2000年12月31日、[第51回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第51回NHK紅白歌合戦 "wikilink")にゲスト出演（白を基調とした通常版とは異なり、赤と白のツートンカラーに塗られたスペシャルバージョンだった）\[7\]。
+2000年12月31日、[第51回NHK紅白歌合戦](../Page/第51回NHK紅白歌合戦.md "wikilink")にゲスト出演（白を基調とした通常版とは異なり、赤と白のツートンカラーに塗られたスペシャルバージョンだった）\[7\]。
 
-2005年3月24日、[2005年日本国際博覧会](https://ja.wikipedia.org/wiki/2005年日本国際博覧会 "wikilink")（通称：愛・地球博）の開会式において、『[トヨタ・パートナーロボット](https://ja.wikipedia.org/wiki/トヨタ・パートナーロボット "wikilink")（[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")）』・『[QRIO](https://ja.wikipedia.org/wiki/QRIO "wikilink")（[SONY](../Page/ソニー.md "wikilink")）』・『ASIMO（[本田技研工業](https://ja.wikipedia.org/wiki/本田技研工業 "wikilink")）』という（2005年時点における）世界最高水準の[二足歩行](https://ja.wikipedia.org/wiki/二足歩行ロボット "wikilink")[ヒューマノイド](https://ja.wikipedia.org/wiki/ヒューマノイド "wikilink")[ロボット](../Page/ロボット.md "wikilink")たちが共演した\[8\]。
+2005年3月24日、[2005年日本国際博覧会](../Page/2005年日本国際博覧会.md "wikilink")（通称：愛・地球博）の開会式において、『[トヨタ・パートナーロボット](../Page/トヨタ・パートナーロボット.md "wikilink")（[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")）』・『[QRIO](../Page/QRIO.md "wikilink")（[SONY](../Page/ソニー.md "wikilink")）』・『ASIMO（[本田技研工業](../Page/本田技研工業.md "wikilink")）』という（2005年時点における）世界最高水準の[二足歩行](../Page/二足歩行ロボット.md "wikilink")[ヒューマノイド](../Page/ヒューマノイド.md "wikilink")[ロボット](../Page/ロボット.md "wikilink")たちが共演した\[8\]。
 
-催し物などにも貸し出されており、[ニューヨーク証券取引所](https://ja.wikipedia.org/wiki/ニューヨーク証券取引所 "wikilink")の始業ベルを[人間](../Page/人間.md "wikilink")以外で初めて鳴らした\[9\]。なお現段階では市販されておらず、[本田技研工業](https://ja.wikipedia.org/wiki/本田技研工業 "wikilink")に問い合わせる事によって賃貸することはできる。
+催し物などにも貸し出されており、[ニューヨーク証券取引所](../Page/ニューヨーク証券取引所.md "wikilink")の始業ベルを[人間](../Page/人間.md "wikilink")以外で初めて鳴らした\[9\]。なお現段階では市販されておらず、[本田技研工業](../Page/本田技研工業.md "wikilink")に問い合わせる事によって賃貸することはできる。
 
 2014年4月17日、2011年モデルがアメリカに初めて上陸した\[10\]\[11\]。
 
 ## 開発史
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Asimo&p3.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Honda_prototype_robots_Honda_Collection_Hall.jpg "wikilink") ホンダのロボット開発は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")以前より秘密裏に行われており、Eシリーズ（下半身だけの実験型）、Pシリーズ（人型をした試作型）を経て正式に開発が発表されたのは[1996年](../Page/1996年.md "wikilink")のことで、**P2**（プロトタイプ2）と呼ばれるモデルが発表された。[二足歩行ロボット](https://ja.wikipedia.org/wiki/二足歩行ロボット "wikilink")は[早稲田大学](https://ja.wikipedia.org/wiki/早稲田大学 "wikilink")での研究開発が最先端と公表されてきたが、発表時点の段階で、大学研究室の水準を遙かに凌ぐ人間型自律二足歩行ロボットであったことから、世界のロボット研究者が仰天することとなった。その後、さらに形状を人型に近づけた**P3**の発表を経由して、現行のASIMOが[2000年](../Page/2000年.md "wikilink")に発表された。以降、費用の軽減や軽量化が進められている。なお、開発の途中で[ローマ教皇庁](../Page/ローマ教皇庁.md "wikilink")に人間型ロボットを作ることの是非について意見を求め、問題がないことを承認してもらう\[12\]など、ホンダはこうした二足歩行ロボットに従来の機械にはない配慮をしている\[13\]。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Asimo&p3.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Honda_prototype_robots_Honda_Collection_Hall.jpg "wikilink") ホンダのロボット開発は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")以前より秘密裏に行われており、Eシリーズ（下半身だけの実験型）、Pシリーズ（人型をした試作型）を経て正式に開発が発表されたのは[1996年](../Page/1996年.md "wikilink")のことで、**P2**（プロトタイプ2）と呼ばれるモデルが発表された。[二足歩行ロボット](../Page/二足歩行ロボット.md "wikilink")は[早稲田大学](../Page/早稲田大学.md "wikilink")での研究開発が最先端と公表されてきたが、発表時点の段階で、大学研究室の水準を遙かに凌ぐ人間型自律二足歩行ロボットであったことから、世界のロボット研究者が仰天することとなった。その後、さらに形状を人型に近づけた**P3**の発表を経由して、現行のASIMOが[2000年](../Page/2000年.md "wikilink")に発表された。以降、費用の軽減や軽量化が進められている。なお、開発の途中で[ローマ教皇庁](../Page/ローマ教皇庁.md "wikilink")に人間型ロボットを作ることの是非について意見を求め、問題がないことを承認してもらう\[12\]など、ホンダはこうした二足歩行ロボットに従来の機械にはない配慮をしている\[13\]。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")12月13日に新型「ASIMO 2005」を発表。外見はほとんど変わらないが（旧型より[背中](https://ja.wikipedia.org/wiki/背中 "wikilink")の[ランドセル](https://ja.wikipedia.org/wiki/ランドセル "wikilink")型制御部が小型化、ボディが丸みを帯びている）、バランス能力の向上、通常歩行速度は時速2.7km（従来モデルは時速1.6km）、時速6kmで[走行](https://ja.wikipedia.org/wiki/走行 "wikilink")（跳躍時間 0.08秒）するほか、自動で受付案内やワゴンを使ったデリバリー作業等を行なえるようになった。
+[2005年](../Page/2005年.md "wikilink")12月13日に新型「ASIMO 2005」を発表。外見はほとんど変わらないが（旧型より[背中](../Page/背中.md "wikilink")の[ランドセル](../Page/ランドセル.md "wikilink")型制御部が小型化、ボディが丸みを帯びている）、バランス能力の向上、通常歩行速度は時速2.7km（従来モデルは時速1.6km）、時速6kmで[走行](https://ja.wikipedia.org/wiki/走行 "wikilink")（跳躍時間 0.08秒）するほか、自動で受付案内やワゴンを使ったデリバリー作業等を行なえるようになった。
 
 [2011年](../Page/2011年.md "wikilink")[11月8日](../Page/11月8日.md "wikilink")に発表されたモデルでは、重量を6kg軽減、最高速度が時速9kmに向上したほか\[14\]、3人から同時に受けた注文の判別が出来るようになった\[15\]。
 
@@ -27,15 +27,15 @@
 
 2018年6月28日に一部報道機関がアシモの開発はすでに中止されており開発チームも解散していることを報道したが、ホンダはこれを否定した\[19\]\[20\]。ASIMOはPR活動などにも活用されており、（『新型ASIMOの開発が中止された』\[21\]というだけで）「ASIMOと会えなくなる」ということではない\[22\]。
 
-公式見解では「[本田技研工業](https://ja.wikipedia.org/wiki/本田技研工業 "wikilink")が目指すロボットは『3E：「Empower（強化）」\[23\]\[24\]\[25\]\[26\]\[27\]、「Experience（経験）」\[28\]\[29\]\[30\]、「Empathy（共感）」\[31\]\[32\]\[33\]』と申しまして、人に寄り添うロボットを目指しています。人からこわがられたりするのではなく、つねに人によりそうものを目指しています\[34\]」と述べている\[35\]。
+公式見解では「[本田技研工業](../Page/本田技研工業.md "wikilink")が目指すロボットは『3E：「Empower（強化）」\[23\]\[24\]\[25\]\[26\]\[27\]、「Experience（経験）」\[28\]\[29\]\[30\]、「Empathy（共感）」\[31\]\[32\]\[33\]』と申しまして、人に寄り添うロボットを目指しています。人からこわがられたりするのではなく、つねに人によりそうものを目指しています\[34\]」と述べている\[35\]。
 
 「今後は、アシモの開発で培った高度なバランス制御技術をバイクに応用した『Riding Assist』\[36\]および運動を制御する技術を応用した実用的なロボット技術の開発にも力を入れる方針を進めていく\[37\]」とも述べている。\[38\]\[39\]
 
 また、「今後、ヒューマノイドロボット研究の成果をどんな形で他製品に応用するかは検討次第」とし、「アシモの名前や姿が残る可能性もゼロではないが、違ったものになるかもしれない。手だけ、頭だけ、足だけなど、何らかの形に変わることもあり得る。アシモは姿を変えて残り続ける」と述べ、アシモの開発を続けるかどうかは明言は避けた。研究成果の発表時期についても「詳細は非公表」との見解を発表した\[40\]。
 
-『虫ん坊\[41\]』(2018年09月号 特集1)のインタビューにて、ASIMOの開発リーダーを務めた[本田技術研究所](https://ja.wikipedia.org/wiki/本田技術研究所 "wikilink")の重見聡史氏が「ロボットが新聞を持って来たり、ジュースを運んだりするようなお手伝いが出来れば、空いた隙間のような時間を人間が有効利用できる。人と共存するロボットを作りたい」と答え、「機械であるロボットがペットになれるわけじゃないので、なにか別の存在として、新しいカテゴリを作りたいと思っている」と述べた\[42\]。
+『虫ん坊\[41\]』(2018年09月号 特集1)のインタビューにて、ASIMOの開発リーダーを務めた[本田技術研究所](../Page/本田技術研究所.md "wikilink")の重見聡史氏が「ロボットが新聞を持って来たり、ジュースを運んだりするようなお手伝いが出来れば、空いた隙間のような時間を人間が有効利用できる。人と共存するロボットを作りたい」と答え、「機械であるロボットがペットになれるわけじゃないので、なにか別の存在として、新しいカテゴリを作りたいと思っている」と述べた\[42\]。
 
-2018年12月、[本田技研工業](https://ja.wikipedia.org/wiki/本田技研工業 "wikilink")はアメリカ・ラスベガスで開催される｢CES 2019｣（開催期間：2019年1月8日から2019年1月11日）にて「人型ではない“人と共存する”ロボットを出展する」と発表。人と共存することを目的として作られた新型ロボットの名称は｢Honda P.A.T.H. Bot（パスボット）｣といい、｢ASIMO（アシモ）｣のような人型ではなく大きな柱のような形状（全高105cm、重量21.5kg、最高時速6km）。パスボットのP.A.T.Hは、“Predicting Action of Human”（人間の動きを予測する）の頭文字であり、人や障害物の位置や動きをリアルタイムに予測してそれらを避け、スムーズに目的地までたどり着く機能を搭載。[本田技術研究所](https://ja.wikipedia.org/wiki/本田技術研究所 "wikilink")R\&DセンターX所属の佐野成夫氏は、「パスボットは現在、ショッピングモールや公共施設などでの来客案内といったユースケースを想定・開発しているが、それ以外の用途も積極的に検討していきたい」と話している\[43\]\[44\]\[45\]。
+2018年12月、[本田技研工業](../Page/本田技研工業.md "wikilink")はアメリカ・ラスベガスで開催される｢CES 2019｣（開催期間：2019年1月8日から2019年1月11日）にて「人型ではない“人と共存する”ロボットを出展する」と発表。人と共存することを目的として作られた新型ロボットの名称は｢Honda P.A.T.H. Bot（パスボット）｣といい、｢ASIMO（アシモ）｣のような人型ではなく大きな柱のような形状（全高105cm、重量21.5kg、最高時速6km）。パスボットのP.A.T.Hは、“Predicting Action of Human”（人間の動きを予測する）の頭文字であり、人や障害物の位置や動きをリアルタイムに予測してそれらを避け、スムーズに目的地までたどり着く機能を搭載。[本田技術研究所](../Page/本田技術研究所.md "wikilink")R\&DセンターX所属の佐野成夫氏は、「パスボットは現在、ショッピングモールや公共施設などでの来客案内といったユースケースを想定・開発しているが、それ以外の用途も積極的に検討していきたい」と話している\[43\]\[44\]\[45\]。
 
 ｢Honda P.A.T.H. Bot（パスボット）｣のほかに｢CES 2019｣では「Autonomous Work Vehicle」なるAI搭載型トラクターを出展。前年の『CES 2018』に出展されたトラクター型「3E-D18」\[46\]をベースに開発、現在はアメリカ合衆国ノースカロライナ州の大規模太陽光発電所での除草作業、カリフォルニア大学デービス校における試験農場のモニタリング作業、コロラド州の消防隊の機材搬送や山火事など危険な場所での偵察・通信サポートという３つの実証実験を行っている\[47\]\[48\]。
 
@@ -367,10 +367,10 @@
 </tbody>
 </table>
 
-### [本田技研工業](https://ja.wikipedia.org/wiki/本田技研工業 "wikilink")の特許権を実施・利用することにより開発された人間型ロボット
+### [本田技研工業](../Page/本田技研工業.md "wikilink")の特許権を実施・利用することにより開発された人間型ロボット
 
-  - **HRP-1** ： **「[Humanoid Robotics Project](https://ja.wikipedia.org/wiki/Humanoid_Robotics_Project "wikilink")」（HRPプロジェクト）**に基づいて設計・製作された人間型ロボット。[本田技研工業](https://ja.wikipedia.org/wiki/本田技研工業 "wikilink")の[P3をベースとして開発された](https://ja.wikipedia.org/wiki/:en:Honda_P_series "wikilink")。
-  - **HRP-5P** ： 2018年9月27日、[本田技研工業](https://ja.wikipedia.org/wiki/本田技研工業 "wikilink")の特許権を実施・利用することにより、アシモの開発技術を継承したHRP-5Pが発表された。HRP-5Pは建築現場や航空機・船舶など大型構造物組立での実用化を目指し、[産業技術総合研究所](https://ja.wikipedia.org/wiki/産業技術総合研究所 "wikilink")が[川田テクノロジーズ](https://ja.wikipedia.org/wiki/川田テクノロジーズ "wikilink")および[本田技研工業](https://ja.wikipedia.org/wiki/本田技研工業 "wikilink")など複数の民間企業と協力して開発した重労働が可能な人間型ロボット試作機である\[69\]。
+  - **HRP-1** ： **「[Humanoid Robotics Project](../Page/Humanoid_Robotics_Project.md "wikilink")」（HRPプロジェクト）**に基づいて設計・製作された人間型ロボット。[本田技研工業](../Page/本田技研工業.md "wikilink")の[P3をベースとして開発された](https://ja.wikipedia.org/wiki/:en:Honda_P_series "wikilink")。
+  - **HRP-5P** ： 2018年9月27日、[本田技研工業](../Page/本田技研工業.md "wikilink")の特許権を実施・利用することにより、アシモの開発技術を継承したHRP-5Pが発表された。HRP-5Pは建築現場や航空機・船舶など大型構造物組立での実用化を目指し、[産業技術総合研究所](../Page/産業技術総合研究所.md "wikilink")が[川田テクノロジーズ](../Page/川田テクノロジーズ.md "wikilink")および[本田技研工業](../Page/本田技研工業.md "wikilink")など複数の民間企業と協力して開発した重労働が可能な人間型ロボット試作機である\[69\]。
 
 <table>
 <thead>
@@ -412,7 +412,7 @@
 <td><p>37</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ニッケル水素電池" title="wikilink">ニッケル水素電池</a></p></td>
 <td><p>?</p></td>
-<td><p>2018年発表。<a href="https://ja.wikipedia.org/wiki/本田技研工業" title="wikilink">本田技研工業</a>の特許権を実施・利用することにより、二足歩行技術の基盤を構築する技術にアシモの開発技術を活用・継承。建築現場や航空機・船舶など大型構造物組立での作業を代替することを目的に開発された[71][72][73][74]。</p></td>
+<td><p>2018年発表。<a href="../Page/本田技研工業.md" title="wikilink">本田技研工業</a>の特許権を実施・利用することにより、二足歩行技術の基盤を構築する技術にアシモの開発技術を活用・継承。建築現場や航空機・船舶など大型構造物組立での作業を代替することを目的に開発された[71][72][73][74]。</p></td>
 </tr>
 </tbody>
 </table>
@@ -424,7 +424,7 @@
 
 ### 公開終了
 
-  - [ツインリンクもてぎ](https://ja.wikipedia.org/wiki/ツインリンクもてぎ "wikilink")内のHonda Collection Hallでほぼ毎日2回から4回、「ASIMOスーパーライブ」として公開実演が行われていたが、2020年1月6日をもってデモンストレーションを終了した\[77\]。
+  - [ツインリンクもてぎ](../Page/ツインリンクもてぎ.md "wikilink")内のHonda Collection Hallでほぼ毎日2回から4回、「ASIMOスーパーライブ」として公開実演が行われていたが、2020年1月6日をもってデモンストレーションを終了した\[77\]。
 
 ## 脚注
 
@@ -433,10 +433,10 @@
 ## 関連項目
 
   - [ロボット](../Page/ロボット.md "wikilink")
-      - [二足歩行ロボット](https://ja.wikipedia.org/wiki/二足歩行ロボット "wikilink")
+      - [二足歩行ロボット](../Page/二足歩行ロボット.md "wikilink")
   - [歩く](https://ja.wikipedia.org/wiki/歩く "wikilink")
-  - [ジャイロスコープ](https://ja.wikipedia.org/wiki/ジャイロスコープ "wikilink")
-  - [ハーモニック・ドライブ・システムズ](https://ja.wikipedia.org/wiki/ハーモニック・ドライブ・システムズ "wikilink")
+  - [ジャイロスコープ](../Page/ジャイロスコープ.md "wikilink")
+  - [ハーモニック・ドライブ・システムズ](../Page/ハーモニック・ドライブ・システムズ.md "wikilink")
   - [ホンダ・U3-X](https://ja.wikipedia.org/wiki/ホンダ・U3-X "wikilink")
 
 ## 外部リンク
@@ -471,7 +471,7 @@
 14. [進化した新型「ASIMO」](http://www.youtube.com/watch?v=9CNf8iIY5fE)：ANNnewsCH（[2011年](../Page/2011年.md "wikilink")[11月7日](../Page/11月7日.md "wikilink")）
 15. [Honda 新型ASIMO (2011) フタ開け、ジュースを紙コップへ - YouTube](https://www.youtube.com/watch?v=wYspBX6Kq4o)
 16. [More Parkour Atlas - YouTube](https://www.youtube.com/watch?v=_sBBaNYex3E)
-17. 2018年10月11日、[ボストン・ダイナミクス](https://ja.wikipedia.org/wiki/ボストン・ダイナミクス "wikilink")社の最新型[アトラスが](https://ja.wikipedia.org/wiki/アトラス_\(ロボット\) "wikilink")「[パルクール](https://ja.wikipedia.org/wiki/パルクール "wikilink")」を軽々とやってのける動作を撮影した新映像が公開された[Parkour Atlas - YouTube](https://www.youtube.com/watch?v=LikxFZZO2sk)
+17. 2018年10月11日、[ボストン・ダイナミクス](https://ja.wikipedia.org/wiki/ボストン・ダイナミクス "wikilink")社の最新型[アトラスが](https://ja.wikipedia.org/wiki/アトラス_\(ロボット\) "wikilink")「[パルクール](../Page/パルクール.md "wikilink")」を軽々とやってのける動作を撮影した新映像が公開された[Parkour Atlas - YouTube](https://www.youtube.com/watch?v=LikxFZZO2sk)
 18. [Watch Boston Dynamics' Humanoid Robot Do Parkour WIRED](https://www.wired.com/story/watch-boston-dynamics-humanoid-robot-do-parkour/) wired.com |2018年10月11日閲覧
 19. [ホンダ アシモの開発をとりやめ 研究開発チームも解散](https://www3.nhk.or.jp/news/html/20180628/k10011498261000.html)
 20. [Hondaのロボティクス研究の取り組みについて](http://www.honda.co.jp/info/20180628.html)
@@ -497,7 +497,7 @@
 40. [「アシモは姿を変えて残り続ける」　ホンダ、ヒューマノイドロボの開発継続へ - ITmedia ビジネスオンライン](http://www.itmedia.co.jp/business/articles/1806/29/news128.html)
 41. [虫ん坊 2018年09月号（198）：TezukaOsamu.net(JP)](https://tezukaosamu.net/jp/mushi/index.html)
 42. [虫ん坊 2018年09月号 特集1：本田技術研究所　重見聡史さんインタビュー：TezukaOsamu.net(JP)](https://tezukaosamu.net/jp/mushi/201809/special1.html)
-43. [Honda P.A.T.H.Bot CES 2019 Honda](https://www.honda.co.jp/CES/2019/detail/path_bot/) [本田技研工業](https://ja.wikipedia.org/wiki/本田技研工業 "wikilink")
+43. [Honda P.A.T.H.Bot CES 2019 Honda](https://www.honda.co.jp/CES/2019/detail/path_bot/) [本田技研工業](../Page/本田技研工業.md "wikilink")
 44. [Honda CES 2019 Honda P.A.T.H.Bot - YouTube](https://www.youtube.com/watch?v=rFjfRiL5ui0) youtube.com | 2018年12月26日閲覧
 45. [ASIMOに続くホンダの新型ロボット、ついにデビュー。｢人型、二足歩行｣は卒業へ BUSINESS INSIDER JAPAN](https://www.businessinsider.jp/post-181298) Business Insider Japan | 2018年12月12日閲覧
 46. [3E-D18 CES 2018 Honda](https://www.honda.co.jp/CES/2018/detail/004/)

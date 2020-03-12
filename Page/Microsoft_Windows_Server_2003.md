@@ -24,8 +24,8 @@
   - Identity Integration Feature Pack
   - Linux Guest Support for Virtual Server 2005 R2 （Virtual Machine Additions for Linux とも呼ばれる）
   - Scalable Networking Pack
-  - [Virtual Server 2005 R2](https://ja.wikipedia.org/wiki/Microsoft_Virtual_Server "wikilink")
-  - [Windows Server Update Services](https://ja.wikipedia.org/wiki/Windows_Server_Update_Services "wikilink")
+  - [Virtual Server 2005 R2](../Page/Microsoft_Virtual_Server.md "wikilink")
+  - [Windows Server Update Services](../Page/Windows_Server_Update_Services.md "wikilink")
   - [Windows Services for UNIX](https://ja.wikipedia.org/wiki/Services_for_UNIX "wikilink")
   - Windows Rights Management サービス（及びクライアント）
   - [Windows SharePoint Services](https://ja.wikipedia.org/wiki/Windows_SharePoint_Services "wikilink")
@@ -35,7 +35,7 @@
 
 ## Windows Server 2003 R2
 
-Windows Server 2003 Service Pack 1 をベースに開発されたもの。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")にリリースされた。内部での特に目立った変更は無いが、R2 では新機能がセットになった別インストール ディスクとして提供されている。R2 のいくつかの新機能は R2 以外でも利用できるよう提供されている。
+Windows Server 2003 Service Pack 1 をベースに開発されたもの。[2005年](../Page/2005年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")にリリースされた。内部での特に目立った変更は無いが、R2 では新機能がセットになった別インストール ディスクとして提供されている。R2 のいくつかの新機能は R2 以外でも利用できるよう提供されている。
 
 R2では、今まであった機能の向上から、[UNIX](../Page/UNIX.md "wikilink") の機能の利用を可能にしたり、仮想化やそれに伴う OS ライセンス契約内容の改訂といったものまで、さまざまな変更が行われている。
 
@@ -45,19 +45,19 @@ R2では、今まであった機能の向上から、[UNIX](../Page/UNIX.md "wik
 
 ### Service Pack 1
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月19日](../Page/4月19日.md "wikilink")に公開した\[1\]。今までの形式のサービスパック同様、バグの修正に加えて以下の様な変更や強化があった。Service Pack 1 で導入された変更と強化はWindows XP Service Pack 2 から大方取り込んでいるものである。
+[2005年](../Page/2005年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")に公開した\[1\]。今までの形式のサービスパック同様、バグの修正に加えて以下の様な変更や強化があった。Service Pack 1 で導入された変更と強化はWindows XP Service Pack 2 から大方取り込んでいるものである。
 
-  - [DEP](https://ja.wikipedia.org/wiki/データ実行防止 "wikilink") : [バッファ オーバーフローを利用したコンピュータへの攻撃を検知して攻撃を防ぐ効果が得られる](https://ja.wikipedia.org/wiki/バッファオーバーラン "wikilink")。ただし、DEP によって"わざと DEP にひっかかる仕組みを意図して利用している"プログラムなどがあるため、一部正常に動作しないプログラムもあるので注意されたい。
+  - [DEP](../Page/データ実行防止.md "wikilink") : [バッファ オーバーフローを利用したコンピュータへの攻撃を検知して攻撃を防ぐ効果が得られる](https://ja.wikipedia.org/wiki/バッファオーバーラン "wikilink")。ただし、DEP によって"わざと DEP にひっかかる仕組みを意図して利用している"プログラムなどがあるため、一部正常に動作しないプログラムもあるので注意されたい。
   - IIS のメタベース監査 : IISのメタベースの全ての変更を追跡できるようになった。
-  - Windows Firewall : 今までにあった Internet Connection Firewall という名であったファイアウォール機能を強化させたもの。インバウンド接続をすべて禁止すると、サーバーとして動作できないため、自動的に有効になることはない。ただし、Service Pack 1と 統合された Windows Server 2003 をインストールした場合、インストール中は Windows Firewall が有効になる。これは Windows XP SP2 と同様の動作である。Windows XP と違うのは、管理者は初回ログオン時に表示される[ダイアログボックス](https://ja.wikipedia.org/wiki/ダイアログボックス "wikilink")で \[完了\] ボタンを押すことでファイアウォールを明示的に無効にする必要がある点である。
-  - [Windows Media Player 10](https://ja.wikipedia.org/wiki/Windows_Media_Player "wikilink") : Service Pack 1 には Windows Media Player 10 が同梱された。
+  - Windows Firewall : 今までにあった Internet Connection Firewall という名であったファイアウォール機能を強化させたもの。インバウンド接続をすべて禁止すると、サーバーとして動作できないため、自動的に有効になることはない。ただし、Service Pack 1と 統合された Windows Server 2003 をインストールした場合、インストール中は Windows Firewall が有効になる。これは Windows XP SP2 と同様の動作である。Windows XP と違うのは、管理者は初回ログオン時に表示される[ダイアログボックス](../Page/ダイアログボックス.md "wikilink")で \[完了\] ボタンを押すことでファイアウォールを明示的に無効にする必要がある点である。
+  - [Windows Media Player 10](../Page/Windows_Media_Player.md "wikilink") : Service Pack 1 には Windows Media Player 10 が同梱された。
   - セキュリティ構成ウィザード : サーバーの構成やポリシーの調査をすることで被攻撃対象を減らす手順を踏むことが出来るようになっている。
   - リモート アクセス検疫 : 企業ネットワークに接続する必要があるコンピュータ（クライアント コンピュータ）がネットワークの資源を利用できるようにする前に、あらかじめ企業ネットワークの求める構成になっているか確認することが出来るようになった。
   - 新しい ファイル システム フィルタ マネージャ\[2\]
 
 ### Service Pack 2
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[3月27日](../Page/3月27日.md "wikilink")に公開した\[3\]。Service Pack 1 ほど大きな仕様の変更は無いが、Feature Packs から MMC 3.0 や Scalable Networking Pack が統合され、新しいコマンドライン ツール、Windows Vista の展開のサポートにネットワーク面も強化されている。
+[2007年](../Page/2007年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")に公開した\[3\]。Service Pack 1 ほど大きな仕様の変更は無いが、Feature Packs から MMC 3.0 や Scalable Networking Pack が統合され、新しいコマンドライン ツール、Windows Vista の展開のサポートにネットワーク面も強化されている。
 
 このService PackはWindows Server 2003 R2にも適用可能であるが、無印やSP1のWindows Server 2003に適用してもR2の新機能は搭載されない。
 
@@ -76,9 +76,9 @@ R2では、今まであった機能の向上から、[UNIX](../Page/UNIX.md "wik
   - Compute Cluster Server
     [スーパーコンピュータ](../Page/スーパーコンピュータ.md "wikilink")などの[高性能数値演算](https://ja.wikipedia.org/wiki/高性能数値演算 "wikilink")[クラスタを必要とするアプリケーションの利用を想定して設計されたもの](../Page/コンピュータ・クラスター.md "wikilink")。x64 版のみのリリース。
   - Small Business Server
-    [Exchange Server](https://ja.wikipedia.org/wiki/Microsoft_Exchange_Server "wikilink") や [ISA Server](https://ja.wikipedia.org/wiki/Microsoft_Internet_Security_and_Acceleration_Server "wikilink") 等がセットになっている [SOHO](https://ja.wikipedia.org/wiki/Small_Office/Home_Office "wikilink") 等の小規模なビジネス環境用。製品としては安く機能が豊富だが、CAL 等に若干の決まりごとがある。Active Directory のインストールが必須要件であり、AD フォレスト内で単独のドメインしか構成できない制約がある。そのため、AD を削除したり、他ドメインと信頼関係を結ぶことは出来ない。また、後に発売された [Windows Home Server](https://ja.wikipedia.org/wiki/Microsoft_Windows_Home_Server "wikilink") の基にもなっている。
+    [Exchange Server](../Page/Microsoft_Exchange_Server.md "wikilink") や [ISA Server](https://ja.wikipedia.org/wiki/Microsoft_Internet_Security_and_Acceleration_Server "wikilink") 等がセットになっている [SOHO](https://ja.wikipedia.org/wiki/Small_Office/Home_Office "wikilink") 等の小規模なビジネス環境用。製品としては安く機能が豊富だが、CAL 等に若干の決まりごとがある。Active Directory のインストールが必須要件であり、AD フォレスト内で単独のドメインしか構成できない制約がある。そのため、AD を削除したり、他ドメインと信頼関係を結ぶことは出来ない。また、後に発売された [Windows Home Server](../Page/Microsoft_Windows_Home_Server.md "wikilink") の基にもなっている。
   - Storage Server Edition
-    Windows Powered Network Attached Storage (Windows Powerd NAS) の後継製品に当たり、Windows Server 2003 を基にしたストレージ機器 ([NAS](../Page/ネットワークアタッチトストレージ.md "wikilink")) 向けである。プロセッサ・メモリの上限は明記されておらず、ハードウェアとともに OEM 提供（[プリインストール](https://ja.wikipedia.org/wiki/プリインストール "wikilink")）となっている。
+    Windows Powered Network Attached Storage (Windows Powerd NAS) の後継製品に当たり、Windows Server 2003 を基にしたストレージ機器 ([NAS](../Page/ネットワークアタッチトストレージ.md "wikilink")) 向けである。プロセッサ・メモリの上限は明記されておらず、ハードウェアとともに OEM 提供（[プリインストール](../Page/プリインストール.md "wikilink")）となっている。
 
 ## システム要件
 

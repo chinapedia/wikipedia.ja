@@ -10,7 +10,7 @@
   - QOA〜QQZを海上業務用
   - QRA〜QUZをすべての業務用
 
-と定めており、[国際呼出符字列分配表においてもQから始まる符字列を分配していない](https://ja.wikipedia.org/wiki/世界のコールサイン割り当て一覧 "wikilink")。
+と定めており、[国際呼出符字列分配表においてもQから始まる符字列を分配していない](../Page/世界のコールサイン割り当て一覧.md "wikilink")。
 
 また、[国際民間航空機関](../Page/国際民間航空機関.md "wikilink")(ICAO)は、航空業務手続 (PANS:Procedures for Air Navigation Services) Doc 8400において、
 
@@ -18,11 +18,11 @@
 
 に定めていたが、1999年の第5版から削除 \[2\] した。但し、一部が略語 \[3\] として残っている。
 
-なお、ITU、ICAOのいずれもQAA〜QUZのすべての組合せが定義されているわけではない。 これを受け日本では[総務](../Page/総務省.md "wikilink")[省令](https://ja.wikipedia.org/wiki/省令 "wikilink")[無線局運用規則](https://ja.wikipedia.org/wiki/無線局運用規則 "wikilink")別表および[告示](https://ja.wikipedia.org/wiki/告示 "wikilink") \[4\] に規定している。 また、QRA〜QTZを[識別信号](https://ja.wikipedia.org/wiki/識別信号 "wikilink")に用いていない。
+なお、ITU、ICAOのいずれもQAA〜QUZのすべての組合せが定義されているわけではない。 これを受け日本では[総務](../Page/総務省.md "wikilink")[省令](../Page/省令.md "wikilink")[無線局運用規則](https://ja.wikipedia.org/wiki/無線局運用規則 "wikilink")別表および[告示](../Page/告示.md "wikilink") \[4\] に規定している。 また、QRA〜QTZを[識別信号](https://ja.wikipedia.org/wiki/識別信号 "wikilink")に用いていない。
 
 軍用無線では、[北大西洋条約機構](../Page/北大西洋条約機構.md "wikilink")(NATO)が、21世紀になっても定義 \[5\] している。
 
-本来は、[モールス通信において通信文を短縮するものであり](../Page/モールス符号.md "wikilink")、音声通信においては[船舶無線](https://ja.wikipedia.org/wiki/船舶無線 "wikilink")や[航空無線](https://ja.wikipedia.org/wiki/航空無線 "wikilink")では一部が用いられるのみである。 陸上通信では一部の組織内で使用することもある。（例として[米国](https://ja.wikipedia.org/wiki/米国 "wikilink")[フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")[マイアミ・デイド郡警察がある](https://ja.wikipedia.org/wiki/マイアミ・デイド郡_\(フロリダ州\)#警察 "wikilink")。“METRO DADE COUNTY - POLICE SIGNAL CODES”\[6\]を参照。） また、未使用のQ符号に独自の意義をつけて組織内で使用することもある。[ロシア軍](https://ja.wikipedia.org/wiki/ロシア連邦軍 "wikilink")(Russian military)（但し非公式情報による。）、[ドイツ警察](https://ja.wikipedia.org/wiki/ドイツの警察 "wikilink")(German police)などの例 \[7\] がある。
+本来は、[モールス通信において通信文を短縮するものであり](../Page/モールス符号.md "wikilink")、音声通信においては[船舶無線](https://ja.wikipedia.org/wiki/船舶無線 "wikilink")や[航空無線](https://ja.wikipedia.org/wiki/航空無線 "wikilink")では一部が用いられるのみである。 陸上通信では一部の組織内で使用することもある。（例として[米国](https://ja.wikipedia.org/wiki/米国 "wikilink")[フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")[マイアミ・デイド郡警察がある](https://ja.wikipedia.org/wiki/マイアミ・デイド郡_\(フロリダ州\)#警察 "wikilink")。“METRO DADE COUNTY - POLICE SIGNAL CODES”\[6\]を参照。） また、未使用のQ符号に独自の意義をつけて組織内で使用することもある。[ロシア軍](../Page/ロシア連邦軍.md "wikilink")(Russian military)（但し非公式情報による。）、[ドイツ警察](../Page/ドイツの警察.md "wikilink")(German police)などの例 \[7\] がある。
 
 [アマチュア無線](https://ja.wikipedia.org/wiki/アマチュア無線 "wikilink")ではQRA〜QTHが日常的に用いられており、定義とはやや異なる意味で慣用されている場合もある。 この慣用については異論を唱える人\[8\]もいる。
 
@@ -30,13 +30,13 @@
 
 Q符号を制定したのは[英国](https://ja.wikipedia.org/wiki/英国 "wikilink")である。1909年には英国の船舶局および海岸局用の略語集 \[9\] が発行されている。Q符号は海上通信において意思の疎通を容易にできるものとあって国際的な統一が図られることとなった。
 
-1912年の万国無線電信会議（ITUの前身の一つ）第三回ロンドン会議での無線通信用略語の提案中には45のQ符号がある。 このとき採択されたのはQRA〜QRD、QRF〜QRH、QRJ〜QRNの12符号である（一部は今日のものと意義が異なる。）。 事後は種類が増え続けていった。中には当初の意義と別の意味におきかわったものもある。 例としてはQSWとQSXがある。これは[火花送信機](https://ja.wikipedia.org/wiki/火花送信機 "wikilink")の[周波数調整に関するもの](../Page/電波の周波数による分類.md "wikilink") \[10\] であったのが技術の進歩により淘汰されたことによる。
+1912年の万国無線電信会議（ITUの前身の一つ）第三回ロンドン会議での無線通信用略語の提案中には45のQ符号がある。 このとき採択されたのはQRA〜QRD、QRF〜QRH、QRJ〜QRNの12符号である（一部は今日のものと意義が異なる。）。 事後は種類が増え続けていった。中には当初の意義と別の意味におきかわったものもある。 例としてはQSWとQSXがある。これは[火花送信機](../Page/火花送信機.md "wikilink")の[周波数調整に関するもの](../Page/電波の周波数による分類.md "wikilink") \[10\] であったのが技術の進歩により淘汰されたことによる。
 
-1970年代に至るまでに気象、無線測位 \[11\] 、通信方法、捜索救難などに関する数百ものQ符号が定義された。ほとんどはモールス通信用であるがQJA〜QJKは[ラジオテレタイプ](https://ja.wikipedia.org/wiki/ラジオテレタイプ "wikilink")用である。 これ以降は音声通信の普及に伴い、20世紀末には航空業務用は一部を除き廃止、海上業務用およびすべての業務用は依然として定義されてはいるもののモールス通信そのものの使用が激減している。
+1970年代に至るまでに気象、無線測位 \[11\] 、通信方法、捜索救難などに関する数百ものQ符号が定義された。ほとんどはモールス通信用であるがQJA〜QJKは[ラジオテレタイプ](../Page/ラジオテレタイプ.md "wikilink")用である。 これ以降は音声通信の普及に伴い、20世紀末には航空業務用は一部を除き廃止、海上業務用およびすべての業務用は依然として定義されてはいるもののモールス通信そのものの使用が激減している。
 
 ## 無線局運用規則
 
-この節の引用部の読点、促音、拗音の表記は**原文ママ**である。また、「サイクル」・「kc」・「Mc」・「ミリバール」は当規則の公布時に使用されていた単位で、現在の[国際単位系](https://ja.wikipedia.org/wiki/国際単位系 "wikilink")ではそれぞれ[ヘルツ](../Page/ヘルツ.md "wikilink")、[キロヘルツ](https://ja.wikipedia.org/wiki/キロヘルツ "wikilink")、[メガヘルツ](https://ja.wikipedia.org/wiki/メガヘルツ "wikilink")、[ヘクトパスカル](../Page/ヘクトパスカル.md "wikilink")に相当する。[フランは貨幣単位でフランス](https://ja.wikipedia.org/wiki/フラン_\(通貨\) "wikilink")のこと 。
+この節の引用部の読点、促音、拗音の表記は**原文ママ**である。また、「サイクル」・「kc」・「Mc」・「ミリバール」は当規則の公布時に使用されていた単位で、現在の[国際単位系](https://ja.wikipedia.org/wiki/国際単位系 "wikilink")ではそれぞれ[ヘルツ](../Page/ヘルツ.md "wikilink")、[キロヘルツ](https://ja.wikipedia.org/wiki/キロヘルツ "wikilink")、[メガヘルツ](https://ja.wikipedia.org/wiki/メガヘルツ "wikilink")、[ヘクトパスカル](../Page/ヘクトパスカル.md "wikilink")に相当する。[フランは貨幣単位でフランス](../Page/フラン_\(通貨\).md "wikilink")のこと 。
 
 別表第2号「無線電信通信の略符号（第13条関係）」の「1 Q符号」を掲げる。
 
@@ -1522,7 +1522,7 @@ Q符号を制定したのは[英国](https://ja.wikipedia.org/wiki/英国 "wikil
 <!-- end list -->
 
   -
-    [インマルサット](https://ja.wikipedia.org/wiki/インマルサット "wikilink")船舶通信における料金精算業務。
+    [インマルサット](../Page/インマルサット.md "wikilink")船舶通信における料金精算業務。
 
 **航空用語**
 
@@ -1531,7 +1531,7 @@ Q符号を制定したのは[英国](https://ja.wikipedia.org/wiki/英国 "wikil
 <!-- end list -->
 
   -
-    [方向探知機](https://ja.wikipedia.org/wiki/方向探知機 "wikilink")を利用した降下・着陸。[英国空軍用語](https://ja.wikipedia.org/wiki/イギリス空軍 "wikilink")。\[15\]
+    [方向探知機](https://ja.wikipedia.org/wiki/方向探知機 "wikilink")を利用した降下・着陸。[英国空軍用語](../Page/イギリス空軍.md "wikilink")。\[15\]
 
 **アマチュア無線**
 
@@ -1544,12 +1544,12 @@ Q符号を制定したのは[英国](https://ja.wikipedia.org/wiki/英国 "wikil
 
 <!-- end list -->
 
-  - [QRP](https://ja.wikipedia.org/wiki/QRP "wikilink")運用（あるいは単に QRP）
+  - [QRP](../Page/QRP.md "wikilink")運用（あるいは単に QRP）
 
 <!-- end list -->
 
   -
-    小さな[空中線電力](https://ja.wikipedia.org/wiki/空中線電力 "wikilink")での運用を指す。ARRLやJARL（[日本アマチュア無線連盟](../Page/日本アマチュア無線連盟.md "wikilink")）ではQRPを5W以下と規定している。QRP運用する無線局を QRP局ということがある。
+    小さな[空中線電力](../Page/空中線電力.md "wikilink")での運用を指す。ARRLやJARL（[日本アマチュア無線連盟](../Page/日本アマチュア無線連盟.md "wikilink")）ではQRPを5W以下と規定している。QRP運用する無線局を QRP局ということがある。
 
 <!-- end list -->
 
@@ -1562,7 +1562,7 @@ Q符号を制定したのは[英国](https://ja.wikipedia.org/wiki/英国 "wikil
 
 <!-- end list -->
 
-  - [QSLカード](https://ja.wikipedia.org/wiki/QSLカード "wikilink")
+  - [QSLカード](../Page/QSLカード.md "wikilink")
   - アイボールQSO
 
 <!-- end list -->
@@ -1615,7 +1615,7 @@ Q符号を制定したのは[英国](https://ja.wikipedia.org/wiki/英国 "wikil
   -
     英国及びその旧[植民地](../Page/植民地.md "wikilink")であった諸国のアマチュア無線家が使う。QTH Registeredの略で日本のホームQTHに相当する。
 
-**俗語** RRやPANSとは無関係。[ジョーク](https://ja.wikipedia.org/wiki/ジョーク "wikilink")のようなものであり、相手によっては理解不能あるいは不快になるので使用には注意を要する。
+**俗語** RRやPANSとは無関係。[ジョーク](../Page/ジョーク.md "wikilink")のようなものであり、相手によっては理解不能あるいは不快になるので使用には注意を要する。
 
   - QLF
 
@@ -1666,8 +1666,8 @@ Q符号を制定したのは[英国](https://ja.wikipedia.org/wiki/英国 "wikil
 
 ## 関連項目
 
-  - [通話表](https://ja.wikipedia.org/wiki/通話表 "wikilink")
-  - [無線用語](https://ja.wikipedia.org/wiki/無線用語 "wikilink") - Q符号以外の無線用語
+  - [通話表](../Page/通話表.md "wikilink")
+  - [無線用語](../Page/無線用語.md "wikilink") - Q符号以外の無線用語
   - [RSTコード](https://ja.wikipedia.org/wiki/RSTコード "wikilink")
 
 [Category:無線](https://ja.wikipedia.org/wiki/Category:無線 "wikilink") [Category:電波法](https://ja.wikipedia.org/wiki/Category:電波法 "wikilink") [Category:アマチュア無線](https://ja.wikipedia.org/wiki/Category:アマチュア無線 "wikilink")
@@ -1675,14 +1675,14 @@ Q符号を制定したのは[英国](https://ja.wikipedia.org/wiki/英国 "wikil
 1.  [ITU-R M.1172 Miscellaneous abbreviations and signals to be used in radiotelegraphy communications in the maritime mobile service](http://life.itu.int/radioclub/rr/m1172.htm)(the International Amateur Radio Club, 4U1ITU)のSection I. Q Code
 2.  [List of Q-codes](http://www.kloth.net/radio/qcodes.php)(www.kloth.net, DL4TA)のICAO PANS-ABC Doc8400:The ICAO Q CodeのEditor's noteを参照。
 3.   (dcaa.trafikstyrelsen.dk)
-4.   1 無線電話通信の略符号(1)Q符号（[電波産業会](https://ja.wikipedia.org/wiki/電波産業会 "wikilink") 情報提供業務）
+4.   1 無線電話通信の略符号(1)Q符号（[電波産業会](../Page/電波産業会.md "wikilink") 情報提供業務）
 5.   (jcs.dtic.mil)のCHAPTER2 SECTION A
 6.  [Radio codes & signals - Florida](http://bearcat1.com/radiofl.htm) (National Communications Magazine)
 7.  [List of Q-codes](http://www.kloth.net/radio/qcodes.php) (www.kloth.net, DL4TA)のOther usageを参照。
 8.  [ちょっと気になる交信](http://www.ne.jp/asahi/yokohama/cwl/qso2.html) (7L4CWL)
 9.  [Q Signals - 1909](http://www.telegraph-office.com/pages/q-signals-1909.html) (The Telegraph Office, K5RW)
 10. [RADIO COMMUNICATION LAWS OF THE UNITED STATES 1914](http://www.earlyradiohistory.us/1914reg.htm)(UNITED STATES EARLY RADIO HISTORY, Thomas H. White)のList of Abbreviations to be used in Radio Communicationsを参照。
-11. [電波法施行規則](https://ja.wikipedia.org/wiki/電波法施行規則 "wikilink")第2条第1項第29号「無線測位」とは電波の伝搬特性を用いてする位置の決定又は位置に関する情報の取得をいう。
+11. [電波法施行規則](../Page/電波法施行規則.md "wikilink")第2条第1項第29号「無線測位」とは電波の伝搬特性を用いてする位置の決定又は位置に関する情報の取得をいう。
 12.
 13.
 14.  ARRL QN Signals For CW Net Use (ARRL)を参照

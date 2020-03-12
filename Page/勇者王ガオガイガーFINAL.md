@@ -5,9 +5,9 @@
 
 ## 概要
 
-勇者シリーズのOVAは『[勇者指令ダグオン 水晶の瞳の少年](https://ja.wikipedia.org/wiki/勇者指令ダグオン_水晶の瞳の少年 "wikilink")』に続き二作目となる。『勇者王ガオガイガー』最終回から一年半後を舞台とする。TVシリーズでは解明されなかった伏線を始め、それまでメディアミックスとして展開されてきたCDドラマ、ゲーム、ノベライズ、コミカライズ、世界観を共有する『[ベターマン](https://ja.wikipedia.org/wiki/ベターマン "wikilink")』などの設定が随所に取り込まれている。第4巻が発売されて以降、約1年近くもの製作の遅れが生じたことで途中「**勇者王ガオガイガーFINAL復活祭**」なるイベントも開催。その後は発売ペースは遅くなりつつも、通常よりもボリュームアップされた第8巻が2003年3月21日に発売されて完結した。
+勇者シリーズのOVAは『[勇者指令ダグオン 水晶の瞳の少年](../Page/勇者指令ダグオン_水晶の瞳の少年.md "wikilink")』に続き二作目となる。『勇者王ガオガイガー』最終回から一年半後を舞台とする。TVシリーズでは解明されなかった伏線を始め、それまでメディアミックスとして展開されてきたCDドラマ、ゲーム、ノベライズ、コミカライズ、世界観を共有する『[ベターマン](../Page/ベターマン.md "wikilink")』などの設定が随所に取り込まれている。第4巻が発売されて以降、約1年近くもの製作の遅れが生じたことで途中「**勇者王ガオガイガーFINAL復活祭**」なるイベントも開催。その後は発売ペースは遅くなりつつも、通常よりもボリュームアップされた第8巻が2003年3月21日に発売されて完結した。
 
-2005年には、『勇者王ガオガイガーFINAL』に『勇者王ガオガイガー』や『ベターマン』の映像を追加し、全12話に再編集した『**勇者王ガオガイガーFINAL GRAND GLORIOUS GATHERING**』（ゆうしゃおうガオガイガーファイナル グランド グローリアス ギャザリング）が製作。地上波ではテレビ東京で[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月11日](../Page/4月11日.md "wikilink")から同年[6月27日](../Page/6月27日.md "wikilink")まで放送され、後日[AT-Xでも放送された](../Page/アニメシアターX.md "wikilink")。過激な描写にはボカシや塗りつぶしによる修正を施した上で放送した。
+2005年には、『勇者王ガオガイガーFINAL』に『勇者王ガオガイガー』や『ベターマン』の映像を追加し、全12話に再編集した『**勇者王ガオガイガーFINAL GRAND GLORIOUS GATHERING**』（ゆうしゃおうガオガイガーファイナル グランド グローリアス ギャザリング）が製作。地上波ではテレビ東京で[2005年](../Page/2005年.md "wikilink")[4月11日](../Page/4月11日.md "wikilink")から同年[6月27日](../Page/6月27日.md "wikilink")まで放送され、後日[AT-Xでも放送された](../Page/アニメシアターX.md "wikilink")。過激な描写にはボカシや塗りつぶしによる修正を施した上で放送した。
 
 ## ストーリー
 
@@ -49,8 +49,8 @@
 ### レプリジン
 
   - 天海護（レプリジン）
-    声：[伊藤舞子](https://ja.wikipedia.org/wiki/伊藤舞子 "wikilink")
-    護がピサ・ソール本体にあるパスキューマシンに触れた際、その作用によってレプリギャレオンと共に偶発的に誕生した複製体。本物と共に遊星主と戦い、パスキューマシンを持った護を逃がすが、自身は捕虜となった後、パルパレーパのケミカルボルトの犠牲になってしまう。レプリギャレオン共々洗脳された後は、パスキューマシンを奪うために地球に降下し、偽者と見破った凱や戒道と戦うことになる。Qパーツとスターガオガイガー用の[ガオーマシンを強奪](https://ja.wikipedia.org/wiki/勇者王ガオガイガーシリーズの登場メカ "wikilink")。そして、レプリギャレオンとガオーマシンでファイナル・フュージョンし、レプリガオガイガーとなり、雨降る京都の街を舞台に、凱の操るガオファイガーと戦闘を繰り広げた末に敗北。戦闘終了後に油断した凱を倒そうとするが、戒道の手で消滅させられた。
+    声：[伊藤舞子](../Page/伊藤舞子.md "wikilink")
+    護がピサ・ソール本体にあるパスキューマシンに触れた際、その作用によってレプリギャレオンと共に偶発的に誕生した複製体。本物と共に遊星主と戦い、パスキューマシンを持った護を逃がすが、自身は捕虜となった後、パルパレーパのケミカルボルトの犠牲になってしまう。レプリギャレオン共々洗脳された後は、パスキューマシンを奪うために地球に降下し、偽者と見破った凱や戒道と戦うことになる。Qパーツとスターガオガイガー用の[ガオーマシンを強奪](../Page/勇者王ガオガイガーシリーズの登場メカ.md "wikilink")。そして、レプリギャレオンとガオーマシンでファイナル・フュージョンし、レプリガオガイガーとなり、雨降る京都の街を舞台に、凱の操るガオファイガーと戦闘を繰り広げた末に敗北。戦闘終了後に油断した凱を倒そうとするが、戒道の手で消滅させられた。
   - レプリギャレオン / レプリガイガー
     護のレプリジンと共に地球に現れたギャレオン。本物の護がピサソールの中枢「パスキューマシン」を外した際に偶発的に生まれた存在。機体色が全身純白であること以外、ベースとの差異は無い。囮として遊星主に挑んだが囚われ、忠実な下僕として改造される。レプリ護がフュージョンすることでレプリガイガーとなる。
   - レプリガオガイガー
@@ -70,16 +70,16 @@
   - 原作：矢立肇
   - キャラクターデザイン：木村貴宏
   - メカニックデザイン：大河原邦男、藤田一己
-  - スペシャルコンセプター：[野崎透](https://ja.wikipedia.org/wiki/野崎透 "wikilink")
-  - デザインワークス：鈴木竜也、鈴木卓也、[中谷誠一](https://ja.wikipedia.org/wiki/中谷誠一 "wikilink")、[岡田有章](https://ja.wikipedia.org/wiki/岡田有章 "wikilink")
+  - スペシャルコンセプター：[野崎透](../Page/野崎透.md "wikilink")
+  - デザインワークス：鈴木竜也、鈴木卓也、[中谷誠一](../Page/中谷誠一.md "wikilink")、[岡田有章](https://ja.wikipedia.org/wiki/岡田有章 "wikilink")
   - 美術：佐藤勝、加藤朋則、加藤浩、島田雄司、岡部順
   - 色彩設計：千葉賢二
   - 撮影：関戸宏樹、木部さおり、津村治彦、桑原賢治
-  - 音響：[千葉耕市](https://ja.wikipedia.org/wiki/千葉耕市 "wikilink")\[1\]、[藤野貞義](https://ja.wikipedia.org/wiki/藤野貞義 "wikilink")（6話から）
+  - 音響：[千葉耕市](../Page/千葉耕市.md "wikilink")\[1\]、[藤野貞義](../Page/藤野貞義.md "wikilink")（6話から）
   - 音楽：田中公平
   - プロデューサー：[尾留川宏之](https://ja.wikipedia.org/wiki/尾留川宏之 "wikilink")、小林真一郎（6話まで）、河内山隆（7話から）
   - アシスタントプロデューサー：河内山隆（6話まで）、松村圭一（4話から）
-  - 監修：[高橋良輔](https://ja.wikipedia.org/wiki/高橋良輔_\(アニメ監督\) "wikilink")（5話から）
+  - 監修：[高橋良輔](../Page/高橋良輔_\(アニメ監督\).md "wikilink")（5話から）
   - 監督：山口祐司（2話まで）
   - 助監督：原田奈奈（3話から）
   - 総監督：米たにヨシトモ
@@ -115,15 +115,15 @@
   - 音響監督：藤野貞義
   - 効果：庄司雅弘
   - 調整：成清量、武藤雅人
-  - 音響スタジオ：[整音スタジオ](https://ja.wikipedia.org/wiki/メディアフォース "wikilink")
+  - 音響スタジオ：[整音スタジオ](../Page/メディアフォース.md "wikilink")
   - 音響製作：クルーズ
 
 ## 主題歌
 
   - OP〈オープニングテーマ〉
-    「**[勇者王誕生\!](https://ja.wikipedia.org/wiki/勇者王誕生! "wikilink")-神話（マイソロジー）ヴァージョン-**」（OVA1-6話）
+    「**[勇者王誕生\!](../Page/勇者王誕生!.md "wikilink")-神話（マイソロジー）ヴァージョン-**」（OVA1-6話）
       -
-        作詞 - [米たにヨシトモ](https://ja.wikipedia.org/wiki/米たにヨシトモ "wikilink") / 作曲 - [田中公平](https://ja.wikipedia.org/wiki/田中公平 "wikilink") / 編曲 - [根岸貴幸](https://ja.wikipedia.org/wiki/根岸貴幸 "wikilink")、田中公平 / 歌 - [遠藤正明](https://ja.wikipedia.org/wiki/遠藤正明 "wikilink")
+        作詞 - [米たにヨシトモ](../Page/米たにヨシトモ.md "wikilink") / 作曲 - [田中公平](../Page/田中公平.md "wikilink") / 編曲 - [根岸貴幸](../Page/根岸貴幸.md "wikilink")、田中公平 / 歌 - [遠藤正明](../Page/遠藤正明.md "wikilink")
     「**勇者王誕生\!-究極神話（マイソロジー）ヴァージョン-**」（OVA7話）
       -
         作詞 - 米たにヨシトモ / 作曲 - 田中公平 / 編曲 - 根岸貴幸、田中公平 / 歌 - 遠藤正明\&GGG少女歌激部隊
@@ -133,20 +133,20 @@
   - ED〈エンディングテーマ〉
     「**獅子の女王（リオン・レーヌ）**」（OVA1-6話、TV1-3、5-7、11話）
       -
-        作詞 - 米たにヨシトモ、貴三優大 / 作曲 - 田中公平 / 編曲 - [宮崎慎二](https://ja.wikipedia.org/wiki/宮崎慎二 "wikilink") / 歌 - [鈴木佐江子](https://ja.wikipedia.org/wiki/鈴木佐江子 "wikilink")
+        作詞 - 米たにヨシトモ、貴三優大 / 作曲 - 田中公平 / 編曲 - [宮崎慎二](../Page/宮崎慎二.md "wikilink") / 歌 - [鈴木佐江子](https://ja.wikipedia.org/wiki/鈴木佐江子 "wikilink")
     「**獅子の女王（リオン・レーヌ）-ハイパーモード-**」（OVA7話、TV10話）
       -
-        作詞 - 米たにヨシトモ、貴三優大 / 作曲 - 田中公平 / 編曲 - 宮崎慎二 / 歌 - [MIQ](https://ja.wikipedia.org/wiki/MIQ "wikilink")
+        作詞 - 米たにヨシトモ、貴三優大 / 作曲 - 田中公平 / 編曲 - 宮崎慎二 / 歌 - [MIQ](../Page/MIQ.md "wikilink")
     「**いつか星の海で -Character Version-**」（OVA8話、TV12話）
       -
         作詞 - 前田耕一郎 / 作曲 - 田中公平 / 編曲 - 根岸貴幸
-        歌 - 獅子王凱（[檜山修之](../Page/檜山修之.md "wikilink")）、卯都木命（[半場友恵](../Page/半場友恵.md "wikilink")）、天海護（伊藤舞子）、戒道幾巳（[紗ゆり](https://ja.wikipedia.org/wiki/紗ゆり "wikilink")）、初野華（吉田古奈美）、パピヨン・ノワール（[川澄綾子](../Page/川澄綾子.md "wikilink")）、ルネ・カーディフ・獅子王（[かかずゆみ](https://ja.wikipedia.org/wiki/かかずゆみ "wikilink")）
+        歌 - 獅子王凱（[檜山修之](../Page/檜山修之.md "wikilink")）、卯都木命（[半場友恵](../Page/半場友恵.md "wikilink")）、天海護（伊藤舞子）、戒道幾巳（[紗ゆり](../Page/紗ゆり.md "wikilink")）、初野華（吉田古奈美）、パピヨン・ノワール（[川澄綾子](../Page/川澄綾子.md "wikilink")）、ルネ・カーディフ・獅子王（[かかずゆみ](../Page/かかずゆみ.md "wikilink")）
     「**いつか星の海で･･･**」（TV4話）
       -
-        作詞 - 前田耕一郎 / 作曲 - 田中公平 / 編曲 - 根岸貴幸 / 歌 - [下成佐登子](https://ja.wikipedia.org/wiki/下成佐登子 "wikilink")
+        作詞 - 前田耕一郎 / 作曲 - 田中公平 / 編曲 - 根岸貴幸 / 歌 - [下成佐登子](../Page/下成佐登子.md "wikilink")
     「**ねがい星、かなえ星**」（TV8話）
       -
-        作詞 - 米たにヨシトモ / 作曲・編曲 - [岩崎文紀](https://ja.wikipedia.org/wiki/岩崎文紀 "wikilink") / 歌 - 初野華（吉田古奈美）
+        作詞 - 米たにヨシトモ / 作曲・編曲 - [岩崎文紀](../Page/岩崎文紀.md "wikilink") / 歌 - 初野華（吉田古奈美）
     「**獅子の女王 -リオン・レーヌ-（French Version）**」（TV第9話）
       -
         作詞 - 米たにヨシトモ、貴三優大 / 仏語翻訳 - Jam Als / 作曲 - 田中公平 / 編曲 - [岸村正実](https://ja.wikipedia.org/wiki/岸村正実 "wikilink") / 歌 - [Lige](https://ja.wikipedia.org/wiki/Lige "wikilink")
@@ -154,19 +154,19 @@
     「**いつか星の海で･･･**」（OVA3話）
     「**美しき光の翼**」（OVA5話、TV7話）
       -
-        作詞 - 米たにヨシトモ / 作曲 - 田中公平 / 編曲 - [浜口史郎](https://ja.wikipedia.org/wiki/浜口史郎 "wikilink") / 歌 - [高井治](https://ja.wikipedia.org/wiki/高井治 "wikilink")
+        作詞 - 米たにヨシトモ / 作曲 - 田中公平 / 編曲 - [浜口史郎](https://ja.wikipedia.org/wiki/浜口史郎 "wikilink") / 歌 - [高井治](../Page/高井治.md "wikilink")
     「**最強勇者ロボ軍団**」（OVA7話、TV10話）
       -
-        作詞 - 米たにヨシトモ / 作曲 - 田中公平 / 編曲 - [多田彰文](https://ja.wikipedia.org/wiki/多田彰文 "wikilink") / 歌 - [宮内タカユキ](https://ja.wikipedia.org/wiki/宮内タカユキ "wikilink")
+        作詞 - 米たにヨシトモ / 作曲 - 田中公平 / 編曲 - [多田彰文](https://ja.wikipedia.org/wiki/多田彰文 "wikilink") / 歌 - [宮内タカユキ](../Page/宮内タカユキ.md "wikilink")
     「**最強勇者ロボ軍団 -Ladies-**」（OVA8話、TV11話）
       -
         作詞 - 米たにヨシトモ / 作曲 - 田中公平 / 編曲 - 多田彰文 / 歌 - MIQ
     「**J**」（OVA8話、TV11話）
       -
-        作詞 - 米たにヨシトモ / 作曲 - 田中公平 / 編曲 - 多田彰文 / 歌 - [※-mai-](https://ja.wikipedia.org/wiki/米たにヨシトモ "wikilink")
+        作詞 - 米たにヨシトモ / 作曲 - 田中公平 / 編曲 - 多田彰文 / 歌 - [※-mai-](../Page/米たにヨシトモ.md "wikilink")
     「**レッツ・ファイナル・フュージョン\!\!**」（OVA8話、TV11話）
       -
-        作詞 - 貴三優大 / 作曲 - 田中公平 / 編曲 - 多田彰文 / 歌 - [影山ヒロノブ](https://ja.wikipedia.org/wiki/影山ヒロノブ "wikilink")&遠藤正明
+        作詞 - 貴三優大 / 作曲 - 田中公平 / 編曲 - 多田彰文 / 歌 - [影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink")&遠藤正明
     「**Power of Desire**」（OVA8話）
       -
         作詞 - 遠藤正明、松本音治 / 作曲 - 見良津健雄歌 / 編曲 - 多田彰文 / 歌 - 遠藤正明
@@ -206,13 +206,13 @@
 <tr class="even">
 <td><p>FINAL.01</p></td>
 <td><p>勇者王新生！</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/北嶋博明" title="wikilink">北嶋博明</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山口祐司_(アニメーション監督)" title="wikilink">山口祐司</a><br />
-<a href="https://ja.wikipedia.org/wiki/日高政光" title="wikilink">日高政光</a></p></td>
+<td><p><a href="../Page/北嶋博明.md" title="wikilink">北嶋博明</a></p></td>
+<td><p><a href="../Page/山口祐司_(アニメーション監督).md" title="wikilink">山口祐司</a><br />
+<a href="../Page/日高政光.md" title="wikilink">日高政光</a></p></td>
 <td><p>原田奈奈<br />
 山口祐司</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/木村貴宏" title="wikilink">木村貴宏</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/吉田徹" title="wikilink">吉田徹</a><br />
+<td><p><a href="../Page/木村貴宏.md" title="wikilink">木村貴宏</a></p></td>
+<td><p><a href="../Page/吉田徹.md" title="wikilink">吉田徹</a><br />
 鈴木竜也</p></td>
 <td><p>2000年<br />
 1月21日</p></td>
@@ -223,9 +223,9 @@
 <td><p>FINAL.02</p></td>
 <td><p>破壊神！嵐の決戦！</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/竹田裕一郎" title="wikilink">竹田裕一郎</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/飯田馬之介" title="wikilink">飯田馬之介</a></p></td>
+<td><p><a href="../Page/飯田馬之介.md" title="wikilink">飯田馬之介</a></p></td>
 <td><p>山口祐司</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中谷誠一" title="wikilink">中谷誠一</a><br />
+<td><p><a href="../Page/中谷誠一.md" title="wikilink">中谷誠一</a><br />
 木村貴宏</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/山根理宏" title="wikilink">まさひろ山根</a></p></td>
 <td><p>3月23日</p></td>
@@ -236,7 +236,7 @@
 <td><p>FINAL.03</p></td>
 <td><p>GGG追放命令</p></td>
 <td><p>北嶋博明</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/片山一良_(アニメ監督)" title="wikilink">片山一良</a></p></td>
+<td><p><a href="../Page/片山一良_(アニメ監督).md" title="wikilink">片山一良</a></p></td>
 <td><p>矢口夏美</p></td>
 <td><p>ウエダヨウイチ<br />
 木村貴宏</p></td>
@@ -249,7 +249,7 @@
 <td><p>FINAL.04</p></td>
 <td><p>勇者王！最期の刻（ひ）</p></td>
 <td><p>竹田裕一郎</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/水島精二" title="wikilink">ミズシマセイヂ</a></p></td>
+<td><p><a href="../Page/水島精二.md" title="wikilink">ミズシマセイヂ</a></p></td>
 <td><p>原田奈奈</p></td>
 <td><p>木村貴宏（総作画監督）<br />
 永田正美</p></td>
@@ -262,7 +262,7 @@
 <td><p>FINAL.05</p></td>
 <td><p>復活の白き方舟</p></td>
 <td><p>北嶋博明</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/米たにヨシトモ" title="wikilink">米たにヨシトモ</a></p></td>
+<td><p><a href="../Page/米たにヨシトモ.md" title="wikilink">米たにヨシトモ</a></p></td>
 <td><p>木村貴宏</p></td>
 <td><p>中谷誠一</p></td>
 <td><p>2001年<br />
@@ -275,9 +275,9 @@
 <td><p>FINAL.06</p></td>
 <td><p>我が名はG（ジェネシック）</p></td>
 <td><p>竹田裕一郎</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/高谷浩利" title="wikilink">高谷浩利</a></p></td>
+<td><p><a href="../Page/高谷浩利.md" title="wikilink">高谷浩利</a></p></td>
 <td><p>木村貴宏</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大塚健_(アニメーター)" title="wikilink">大塚健</a><br />
+<td><p><a href="../Page/大塚健_(アニメーター).md" title="wikilink">大塚健</a><br />
 中谷誠一</p></td>
 <td><p>2002年<br />
 4月3日</p></td>
@@ -600,7 +600,7 @@ GRAND FINAL</p></td>
 
 ::
 
-:; [ユージン](https://ja.wikipedia.org/wiki/タカラトミーアーツ "wikilink")
+:; [ユージン](../Page/タカラトミーアーツ.md "wikilink")
 
 ::\* マスターアクションDX ガオファイガー（ファントムガオー/ガオファー、ドリルガオーII、ライナーガオーII、ステルスガオーIIIが一部差し替えで変形・合体可）
 
@@ -671,7 +671,7 @@ GRAND FINAL</p></td>
 
   - プラモデル
 
-:; [青島文化教材社](https://ja.wikipedia.org/wiki/青島文化教材社 "wikilink")
+:; [青島文化教材社](../Page/青島文化教材社.md "wikilink")
 
 ::\* 新生勇者王ガオファイガー
 
@@ -687,7 +687,7 @@ GRAND FINAL</p></td>
 
 :; バンダイ
 
-::\* スーパー[ミニプラ](https://ja.wikipedia.org/wiki/ミニプラ "wikilink") 勇者王ガオガイガー
+::\* スーパー[ミニプラ](../Page/ミニプラ.md "wikilink") 勇者王ガオガイガー
 
 :::\* 第4弾 ガオファー（ファントムガオーに変形可能）、ステルスガオーIII、ライナーガオーII、ドリルガオーII（全種でガオファイガーに合体可能）
 
@@ -695,9 +695,9 @@ GRAND FINAL</p></td>
 
   -
 
-  - [クレーンゲーム](https://ja.wikipedia.org/wiki/クレーンゲーム "wikilink")プライズグッズ
+  - [クレーンゲーム](../Page/クレーンゲーム.md "wikilink")プライズグッズ
 
-:; [バンプレスト](https://ja.wikipedia.org/wiki/バンプレスト "wikilink")
+:; [バンプレスト](../Page/バンプレスト.md "wikilink")
 
 ::\* ジェネシックガオガイガー（全三種）
 
@@ -707,11 +707,11 @@ GRAND FINAL</p></td>
 
   - ゲーム
 
-:; 『[ブレイブサーガ2](https://ja.wikipedia.org/wiki/ブレイブサーガ2 "wikilink")』
+:; 『[ブレイブサーガ2](../Page/ブレイブサーガ2.md "wikilink")』
 
 :: 光竜と闇竜は、FINAL.01が映像初登場であるが、2000年5月2日発売の本作では、特別参戦勇者としてルネと共に登場する。しかし、ゲーム制作期間が01の制作期間と同その前であるため、3人の設定がFINALとは違って外伝小説での設定が主となっており、ルネがゲーム本編中では苗字に獅子王姓が無いが、キャラクターリスト上では、「ルネ・カーディフ・獅子王」と表記されていたり、光竜や闇竜の武器名称の違いなどが見られる。天竜神はFINAL本編に先駆け登場、01 の次回予告ではそのカットがあったが、制作段階での理由によってFINAL.02からではなく終盤での登場へと見送られた。この影響で、合体アニメーションは「大人の事情（ゲーム内にての表記）」として登場していない。
 
-:; 『[ブレイブサーガ 新章 アスタリア](https://ja.wikipedia.org/wiki/ブレイブサーガ_新章_アスタリア "wikilink")』
+:; 『[ブレイブサーガ 新章 アスタリア](../Page/ブレイブサーガ_新章_アスタリア.md "wikilink")』
 
 :: ガオファイガーが登場している。OVA半ばでの発売のため、他の勇者ロボやFINALに関するエピソードは特に出ていない。
 
@@ -727,12 +727,12 @@ GRAND FINAL</p></td>
 
 :: 『[ハロボッツ ロボヒーローバトリング\!\!](https://ja.wikipedia.org/wiki/ハロボッツ_ロボヒーローバトリング!! "wikilink")』に登場。
 
-:; [スーパーロボット大戦シリーズ](https://ja.wikipedia.org/wiki/スーパーロボット大戦シリーズ "wikilink")
+:; [スーパーロボット大戦シリーズ](../Page/スーパーロボット大戦シリーズ.md "wikilink")
 
   -
 
       -
-        『勇者王ガオガイガー』が出演可能になったことで、続編のこの作品も[PlayStation 2用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[第3次スーパーロボット大戦α 終焉の銀河へ](https://ja.wikipedia.org/wiki/第3次スーパーロボット大戦α_終焉の銀河へ "wikilink")』と[ニンテンドーDS](https://ja.wikipedia.org/wiki/ニンテンドーDS "wikilink")用ソフト『[スーパーロボット大戦W](https://ja.wikipedia.org/wiki/スーパーロボット大戦W "wikilink")』と『[スパロボ学園](https://ja.wikipedia.org/wiki/スパロボ学園 "wikilink")』での登場を果たしている。
+        『勇者王ガオガイガー』が出演可能になったことで、続編のこの作品も[PlayStation 2用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[第3次スーパーロボット大戦α 終焉の銀河へ](../Page/第3次スーパーロボット大戦α_終焉の銀河へ.md "wikilink")』と[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用ソフト『[スーパーロボット大戦W](../Page/スーパーロボット大戦W.md "wikilink")』と『[スパロボ学園](https://ja.wikipedia.org/wiki/スパロボ学園 "wikilink")』での登場を果たしている。
 
   - DVD
 
@@ -750,7 +750,7 @@ GRAND FINAL</p></td>
   -
 
       -
-        [フライングドッグ](https://ja.wikipedia.org/wiki/フライングドッグ "wikilink")より発売。FINAL全8話に加え、5.1ch化を施したGGG版全12話を同時収録したBlu-Ray BOX、4枚組。
+        [フライングドッグ](../Page/フライングドッグ.md "wikilink")より発売。FINAL全8話に加え、5.1ch化を施したGGG版全12話を同時収録したBlu-Ray BOX、4枚組。
 
   - CD
     いずれもビクターエンタテインメントより発売。
@@ -812,7 +812,7 @@ GRAND FINAL</p></td>
   -
 
       -
-        （2003年7月10日発行、[メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")）ISBN 4840224005
+        （2003年7月10日発行、[メディアワークス](../Page/メディアワークス.md "wikilink")）ISBN 4840224005
         本作を中心にTVシリーズと『ベターマン』に関しても記述されている。設定・ストーリー解説、設定資料集、描き下ろし画稿および付属ポスターのシチュエーション解説、スタッフ対談、用語集、グッズ紹介などを掲載。
 
 ## シリーズ続編
@@ -952,15 +952,15 @@ Webサイト『[矢立文庫](https://ja.wikipedia.org/wiki/矢立文庫 "wikili
         装備 - ゴルディオンクラッカー、ゴルディオンスライサー
   - ディビジョンVI 無限連結輸槽艦 [ミズハ](https://ja.wikipedia.org/wiki/ミズハノメ "wikilink")
     木星からザ・パワーを採取する目的で建造された新型ディビジョン艦。新型レプトントラベラーを搭載。長距離巡航形態ディビジョン・トレインに変形する。
-  - ディビジョンX 機動完遂要塞艦 [ワダツミ](https://ja.wikipedia.org/wiki/ワタツミ "wikilink")
+  - ディビジョンX 機動完遂要塞艦 [ワダツミ](../Page/ワタツミ.md "wikilink")
     GGG再建計画によって阿嘉松の指揮のもとで開発された新型ディビジョン艦。ミズハ同様に長距離巡航形態に変形する。
-  - ディビジョンXI 諜報鏡面遊撃艦 [ヤマツミ](https://ja.wikipedia.org/wiki/オオヤマツミ "wikilink")
+  - ディビジョンXI 諜報鏡面遊撃艦 [ヤマツミ](../Page/オオヤマツミ.md "wikilink")
     GGG再建計画によって開発された新型ディビジョン艦。光学迷彩ホログラフィックカモフラージュ搭載。ミズハ同様に長距離巡航形態に変形する。
   - ディビジョン・トレイン
     長距離巡航形態に変形したミズハ、ワダツミ、ヤマツミが連結した形態。全長約15km。
   - 小型高速艇 フライD5
     木星帰還時に使用したディビジョン・トレイン搭載の小型高速艇。
-  - 大気圏往還艇 [テナヅチ](https://ja.wikipedia.org/wiki/アシナヅチ・テナヅチ "wikilink")
+  - 大気圏往還艇 [テナヅチ](../Page/アシナヅチ・テナヅチ.md "wikilink")
     オービットベースと地球を往復する往還艇。
 
 ##### 覇界の眷族
@@ -1019,7 +1019,7 @@ Webサイト『[矢立文庫](https://ja.wikipedia.org/wiki/矢立文庫 "wikili
       - ZR-01 宙龍
       - ZR-02群 量産型無人CR部隊 CR-36
       - ZR-03 ワダツミ艦体格納庫
-      - ZR-04群 [ザ・ガン](https://ja.wikipedia.org/wiki/ザ・ガン "wikilink")車輛
+      - ZR-04群 [ザ・ガン](../Page/ザ・ガン.md "wikilink")車輛
       - ZR-05 地下発電施設
       - ZR-06 メガソーラー発電所
       - ZR-07群 ニューロノイド・ブロッサム
@@ -1098,7 +1098,7 @@ Webサイト『[矢立文庫](https://ja.wikipedia.org/wiki/矢立文庫 "wikili
 
   - コミカライズ
 
-:\* 勇者王ガオガイガーFINAL the COMIC （1999年11月刊行、[大森葵](../Page/大森葵.md "wikilink")/矢立肇、[メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")）ISBN 4840213550
+:\* 勇者王ガオガイガーFINAL the COMIC （1999年11月刊行、[大森葵](../Page/大森葵.md "wikilink")/矢立肇、[メディアワークス](../Page/メディアワークス.md "wikilink")）ISBN 4840213550
 
 :\* 覇界王 〜ガオガイガー対ベターマン〜 the COMIC
 
@@ -1116,12 +1116,12 @@ Webサイト『[矢立文庫](https://ja.wikipedia.org/wiki/矢立文庫 "wikili
 
 ## 備考
 
-  - 『[世にも奇妙な物語](https://ja.wikipedia.org/wiki/世にも奇妙な物語 "wikilink")』2000年10月4日放送の「バーゲンハンター」（脚本：[田中一彦](https://ja.wikipedia.org/wiki/田中一彦_\(脚本家\) "wikilink")／演出：[李闘士男](https://ja.wikipedia.org/wiki/李闘士男 "wikilink")）は人気商品ガオファイガーを巡って子供達と主婦の間で巻き起こる大騒動を描いた作品で、劇中にコトブキヤ製「壮絶合金ガオファイガー」が全身金色、または銀色に染められた状態で登場した。
+  - 『[世にも奇妙な物語](https://ja.wikipedia.org/wiki/世にも奇妙な物語 "wikilink")』2000年10月4日放送の「バーゲンハンター」（脚本：[田中一彦](https://ja.wikipedia.org/wiki/田中一彦_\(脚本家\) "wikilink")／演出：[李闘士男](../Page/李闘士男.md "wikilink")）は人気商品ガオファイガーを巡って子供達と主婦の間で巻き起こる大騒動を描いた作品で、劇中にコトブキヤ製「壮絶合金ガオファイガー」が全身金色、または銀色に染められた状態で登場した。
 
 ## 参考文献
 
   - ホビージャパンMOOK 勇者王ガオガイガーFINALビジュアルブック（[ホビージャパン](../Page/ホビージャパン.md "wikilink")）
-  - Dセレクション オール ザット ガオガイガー ―勇者王大全―（[メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")）
+  - Dセレクション オール ザット ガオガイガー ―勇者王大全―（[メディアワークス](../Page/メディアワークス.md "wikilink")）
 
 ## 脚注
 

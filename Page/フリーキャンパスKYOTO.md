@@ -7,7 +7,7 @@
 
 ## 概要
 
-新機軸として各曜日毎に京都にある七校の大学のうち一校ずつ提携し、その在学生やOBを出演させる「大学対抗エール交換」というコーナー（各曜日ごとに出場する大学を決め、面白いサークルやそこに所属する学生、面白い学生たちをスタジオに呼んで競わせる企画）や、[大学祭](https://ja.wikipedia.org/wiki/大学祭 "wikilink")や[ディスコ](https://ja.wikipedia.org/wiki/ディスコ "wikilink")など大学生の関心事などを扱っていた「TODAYトピックス」を設け、学生の街・京都と言う地域性を前面に打ち立てた。これまで手薄と言われた大学生のリスナー層の発掘を狙っての試みもあったとされる。また、かける曲のジャンルも各曜日ごとのパーソナリティのイメージに合わせて、月曜 - [ジャズ](../Page/ジャズ.md "wikilink")、火曜 - オールリクエスト、水曜 - [歌謡曲](../Page/歌謡曲.md "wikilink")、木曜 - [ポップス](https://ja.wikipedia.org/wiki/ポップ・ミュージック "wikilink")、金曜 - [ロック](../Page/ロック_\(音楽\).md "wikilink")、土曜 - [ニューミュージック](../Page/ニューミュージック.md "wikilink")、日曜 - 歌謡曲、とされていた。
+新機軸として各曜日毎に京都にある七校の大学のうち一校ずつ提携し、その在学生やOBを出演させる「大学対抗エール交換」というコーナー（各曜日ごとに出場する大学を決め、面白いサークルやそこに所属する学生、面白い学生たちをスタジオに呼んで競わせる企画）や、[大学祭](../Page/大学祭.md "wikilink")や[ディスコ](../Page/ディスコ.md "wikilink")など大学生の関心事などを扱っていた「TODAYトピックス」を設け、学生の街・京都と言う地域性を前面に打ち立てた。これまで手薄と言われた大学生のリスナー層の発掘を狙っての試みもあったとされる。また、かける曲のジャンルも各曜日ごとのパーソナリティのイメージに合わせて、月曜 - [ジャズ](../Page/ジャズ.md "wikilink")、火曜 - オールリクエスト、水曜 - [歌謡曲](../Page/歌謡曲.md "wikilink")、木曜 - [ポップス](../Page/ポップ・ミュージック.md "wikilink")、金曜 - [ロック](../Page/ロック_\(音楽\).md "wikilink")、土曜 - [ニューミュージック](../Page/ニューミュージック.md "wikilink")、日曜 - 歌謡曲、とされていた。
 
 その他コーナーは「宝捜しコーナー」、「とらばーゆコーナー」、「京都市内シミュレーションゲーム」、「街角フォーカス」などがあった。
 
@@ -19,12 +19,12 @@
 
 ### 月曜日
 
-  - [越前屋俵太](https://ja.wikipedia.org/wiki/越前屋俵太 "wikilink")（ - 87年9月）
+  - [越前屋俵太](../Page/越前屋俵太.md "wikilink")（ - 87年9月）
   - [みのや雅彦](../Page/みのや雅彦.md "wikilink")（87年10月 - ）
 
 ### 火曜日
 
-  - [桂文珍](https://ja.wikipedia.org/wiki/桂文珍 "wikilink")
+  - [桂文珍](../Page/桂文珍.md "wikilink")
 
 ### 水曜日
 
@@ -33,21 +33,21 @@
 
 ### 木曜日
 
-  - [清水圭](https://ja.wikipedia.org/wiki/清水圭 "wikilink")・[和泉修](https://ja.wikipedia.org/wiki/和泉修 "wikilink")
+  - [清水圭](../Page/清水圭.md "wikilink")・[和泉修](../Page/和泉修.md "wikilink")
 
 ### 金曜日
 
-  - [徳永英明](https://ja.wikipedia.org/wiki/徳永英明 "wikilink")
+  - [徳永英明](../Page/徳永英明.md "wikilink")
   - [NATSU](https://ja.wikipedia.org/wiki/NATSU "wikilink")
 
 ※徳永がこの番組に出演中に出したシングル『輝きながら…』が大ヒットした結果、本職の歌手業の仕事が殺到して、この番組を度々欠席せざるを得ない状況になってしまった。そのお詫びの意味を込めて、後の『[はいぱぁナイト](../Page/はいぱぁナイト.md "wikilink")』が放送されていた当時、1回だけの特番が放送された。
 
 ### 土曜日
 
-  - [森脇健児](https://ja.wikipedia.org/wiki/森脇健児 "wikilink")
+  - [森脇健児](../Page/森脇健児.md "wikilink")
 
 ### 日曜日
 
-  - [三井雅弘](https://ja.wikipedia.org/wiki/三井雅弘 "wikilink") ([TOPS](https://ja.wikipedia.org/wiki/Tops_\(バンド\) "wikilink"))
+  - [三井雅弘](../Page/三井雅弘.md "wikilink") ([TOPS](../Page/Tops_\(バンド\).md "wikilink"))
 
 [Category:KBS京都のラジオ帯番組](https://ja.wikipedia.org/wiki/Category:KBS京都のラジオ帯番組 "wikilink") [Category:ラジオのバラエティ番組](https://ja.wikipedia.org/wiki/Category:ラジオのバラエティ番組 "wikilink") [Category:1987年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1987年のラジオ番組_\(日本\) "wikilink")

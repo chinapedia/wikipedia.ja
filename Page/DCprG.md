@@ -1,23 +1,23 @@
 > この記事は[DCprG](https://ja.wikipedia.org/wiki/DCprG)から翻訳されています。
 
 
-**DC/PRG**（ディー・シー・ピー・アール・ジー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ジャズ](../Page/ジャズ.md "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")[菊地成孔](https://ja.wikipedia.org/wiki/菊地成孔 "wikilink")主宰のビッグバンド。[1999年](../Page/1999年.md "wikilink")に「**DATE COURSE PENTAGON ROYAL GARDEN**（デートコース・ペンタゴン・ロイヤル・ガーデン）」名義で結成。
+**DC/PRG**（ディー・シー・ピー・アール・ジー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ジャズ](../Page/ジャズ.md "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")[菊地成孔](../Page/菊地成孔.md "wikilink")主宰のビッグバンド。[1999年](../Page/1999年.md "wikilink")に「**DATE COURSE PENTAGON ROYAL GARDEN**（デートコース・ペンタゴン・ロイヤル・ガーデン）」名義で結成。
 
 ## 概要
 
-菊地の私淑する[エレクトリック・マイルスを](../Page/マイルス・デイヴィス.md "wikilink")[コンセプト](https://ja.wikipedia.org/wiki/コンセプト "wikilink")の軸に、[アフロ](https://ja.wikipedia.org/wiki/アフロビート "wikilink")[ポリリズム](https://ja.wikipedia.org/wiki/ポリリズム "wikilink")や[ファンク](https://ja.wikipedia.org/wiki/ファンク "wikilink")、[現代音楽](../Page/現代音楽.md "wikilink")を取り入れることで、クラブカルチャー／ダンスフロアに、従来とは異なる律動構造をもった[ダンスミュージック](https://ja.wikipedia.org/wiki/ダンスミュージック "wikilink")を提示することを音楽的な主眼として結成された。
+菊地の私淑する[エレクトリック・マイルスを](../Page/マイルス・デイヴィス.md "wikilink")[コンセプト](https://ja.wikipedia.org/wiki/コンセプト "wikilink")の軸に、[アフロ](../Page/アフロビート.md "wikilink")[ポリリズム](../Page/ポリリズム.md "wikilink")や[ファンク](../Page/ファンク.md "wikilink")、[現代音楽](../Page/現代音楽.md "wikilink")を取り入れることで、クラブカルチャー／ダンスフロアに、従来とは異なる律動構造をもった[ダンスミュージック](https://ja.wikipedia.org/wiki/ダンスミュージック "wikilink")を提示することを音楽的な主眼として結成された。
 
-当初は[DJ](https://ja.wikipedia.org/wiki/DJ "wikilink")、[キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")、[テナーサックス](https://ja.wikipedia.org/wiki/テナーサックス "wikilink")を兼任するバンドマスターの菊地の他に、[キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")、[ギター](../Page/ギター.md "wikilink")2人、[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、[ドラムス](../Page/ドラムセット.md "wikilink")2人、[パーカッション](https://ja.wikipedia.org/wiki/パーカッション "wikilink")、[タブラ](https://ja.wikipedia.org/wiki/タブラ "wikilink")、[ソプラノサックス](https://ja.wikipedia.org/wiki/ソプラノサックス "wikilink")の10人編成で結成された。2000年に菊地の私塾の生徒だった後関好宏（テナー／ソプラノサックス）が加入、11人編成となり、菊地はDJ、キーボードの演奏とバンドのコンダクトに専念するようになる。第二期（2003年〜）に入るとブラスセクション（[トロンボーン](../Page/トロンボーン.md "wikilink")、[トランペット](../Page/トランペット.md "wikilink")、[チューバ](../Page/チューバ.md "wikilink")）が増員され、14人編成と更に大所帯になる。
+当初は[DJ](https://ja.wikipedia.org/wiki/DJ "wikilink")、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、[テナーサックス](https://ja.wikipedia.org/wiki/テナーサックス "wikilink")を兼任するバンドマスターの菊地の他に、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、[ギター](../Page/ギター.md "wikilink")2人、[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[ドラムス](../Page/ドラムセット.md "wikilink")2人、[パーカッション](../Page/パーカッション.md "wikilink")、[タブラ](https://ja.wikipedia.org/wiki/タブラ "wikilink")、[ソプラノサックス](https://ja.wikipedia.org/wiki/ソプラノサックス "wikilink")の10人編成で結成された。2000年に菊地の私塾の生徒だった後関好宏（テナー／ソプラノサックス）が加入、11人編成となり、菊地はDJ、キーボードの演奏とバンドのコンダクトに専念するようになる。第二期（2003年〜）に入るとブラスセクション（[トロンボーン](../Page/トロンボーン.md "wikilink")、[トランペット](../Page/トランペット.md "wikilink")、[チューバ](../Page/チューバ.md "wikilink")）が増員され、14人編成と更に大所帯になる。
 
-当初[2002年](../Page/2002年.md "wikilink")に解散をすると宣言をしていたが、その後も活動を続けた。また、菊地がリスペクトする[マイルス・デイビス](https://ja.wikipedia.org/wiki/マイルス・デイビス "wikilink")や[菊地雅章](https://ja.wikipedia.org/wiki/菊地雅章 "wikilink")などジャズの楽曲だけでなく、[ジミ・ヘンドリックス](../Page/ジミ・ヘンドリックス.md "wikilink")、[ビージーズ](https://ja.wikipedia.org/wiki/ビージーズ "wikilink")、[デヴィッド・ボウイ](https://ja.wikipedia.org/wiki/デヴィッド・ボウイ "wikilink")らの往年の名曲もカバーしている。
+当初[2002年](../Page/2002年.md "wikilink")に解散をすると宣言をしていたが、その後も活動を続けた。また、菊地がリスペクトする[マイルス・デイビス](https://ja.wikipedia.org/wiki/マイルス・デイビス "wikilink")や[菊地雅章](../Page/菊地雅章.md "wikilink")などジャズの楽曲だけでなく、[ジミ・ヘンドリックス](../Page/ジミ・ヘンドリックス.md "wikilink")、[ビージーズ](../Page/ビージーズ.md "wikilink")、[デヴィッド・ボウイ](https://ja.wikipedia.org/wiki/デヴィッド・ボウイ "wikilink")らの往年の名曲もカバーしている。
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")4月25日、[O-EASTでのライブの本編終了後に活動終了を発表](https://ja.wikipedia.org/wiki/Shibuya_O-EAST "wikilink")。理由としては「アメリカを表現したため、ファンクバンドとしての役目を終えた。あらかじめ活動終了をアナウンスすると、最近会場に足を運んでいなかった観客が押し寄せるだろうから、あえて当日まで秘密にしておいた」と語った。アンコールではメンバーが担当楽器を持ち替えて「Hey Joe」を演奏した。
+[2007年](../Page/2007年.md "wikilink")4月25日、[O-EASTでのライブの本編終了後に活動終了を発表](../Page/Shibuya_O-EAST.md "wikilink")。理由としては「アメリカを表現したため、ファンクバンドとしての役目を終えた。あらかじめ活動終了をアナウンスすると、最近会場に足を運んでいなかった観客が押し寄せるだろうから、あえて当日まで秘密にしておいた」と語った。アンコールではメンバーが担当楽器を持ち替えて「Hey Joe」を演奏した。
 
 [2009年](../Page/2009年.md "wikilink")、[マイケル・ヘンダーソン](https://ja.wikipedia.org/wiki/マイケル・ヘンダーソン "wikilink")率いるエレクトリック・マイルス・リユニオンバンドの来日公演のダブルビルとしてのオファーを受け、一夜限りの活動再開が決定されたが、マイケル・ヘンダーソンのプロジェクト自体が頓挫し、単独ギグを行う事となり、併せて活動を本格的に再開する事になった。
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")7月25日、菊地のサイトにおいて再集結が発表。再結成では無く新メンバーによる活動再開であること、バンド名を**Date Course Pentagon Royal Garden**から**DCPRG**（ディー・シー・ピー・アール・ジー）に改称することがアナウンスされた。2010年10月9日、東京の[日比谷野外音楽堂](https://ja.wikipedia.org/wiki/日比谷野外音楽堂 "wikilink")でのライブを皮切りに、単独公演やレコーディングなど、定期的に活動を行っている。2012年以降は[SIMI LABとのコラボレートを続け](https://ja.wikipedia.org/wiki/SIMI_LAB "wikilink")、[ヒップ・ホップ](https://ja.wikipedia.org/wiki/ヒップ・ホップ "wikilink")の要素も取り込んでいる。フェスティバルやイベントでの客演も多く、日本国内でも有数の大型ダンスバンドとなっている。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")7月25日、菊地のサイトにおいて再集結が発表。再結成では無く新メンバーによる活動再開であること、バンド名を**Date Course Pentagon Royal Garden**から**DCPRG**（ディー・シー・ピー・アール・ジー）に改称することがアナウンスされた。2010年10月9日、東京の[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")でのライブを皮切りに、単独公演やレコーディングなど、定期的に活動を行っている。2012年以降は[SIMI LABとのコラボレートを続け](https://ja.wikipedia.org/wiki/SIMI_LAB "wikilink")、[ヒップ・ホップ](https://ja.wikipedia.org/wiki/ヒップ・ホップ "wikilink")の要素も取り込んでいる。フェスティバルやイベントでの客演も多く、日本国内でも有数の大型ダンスバンドとなっている。
 
-活動再開後の編成は、菊地の他、[キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")2人、[ギター](../Page/ギター.md "wikilink")、[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、[ドラムス](../Page/ドラムセット.md "wikilink")2人、[パーカッション](https://ja.wikipedia.org/wiki/パーカッション "wikilink")、[サックス](https://ja.wikipedia.org/wiki/サックス "wikilink")2人、[トランペット](../Page/トランペット.md "wikilink")と、結成当時とはやや異なっている。
+活動再開後の編成は、菊地の他、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")2人、[ギター](../Page/ギター.md "wikilink")、[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[ドラムス](../Page/ドラムセット.md "wikilink")2人、[パーカッション](../Page/パーカッション.md "wikilink")、[サックス](https://ja.wikipedia.org/wiki/サックス "wikilink")2人、[トランペット](../Page/トランペット.md "wikilink")と、結成当時とはやや異なっている。
 
 2015年5月、「Franz Kafka's South Amerika」より名称を**DCPRG**から**dCprG**に再改称。
 
@@ -38,8 +38,8 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/菊地成孔" title="wikilink">菊地成孔</a></p></td>
-<td><p><a href="../Page/指揮者.md" title="wikilink">コンダクト</a>・<a href="https://ja.wikipedia.org/wiki/CDJ" title="wikilink">CDJ</a>・<a href="https://ja.wikipedia.org/wiki/キーボード_(楽器)" title="wikilink">キーボード</a></p></td>
+<td><p><a href="../Page/菊地成孔.md" title="wikilink">菊地成孔</a></p></td>
+<td><p><a href="../Page/指揮者.md" title="wikilink">コンダクト</a>・<a href="https://ja.wikipedia.org/wiki/CDJ" title="wikilink">CDJ</a>・<a href="../Page/キーボード_(楽器).md" title="wikilink">キーボード</a></p></td>
 <td><p>菊地成孔ダブ・セプテット<br />
 菊地成孔とペペ・トルメント・アスカラール／JAZZ DOMMUNISTERS</p></td>
 <td></td>
@@ -47,7 +47,7 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/坪口昌恭" title="wikilink">坪口昌恭</a></p></td>
 <td><p>キーボード</p></td>
-<td><p>坪口昌恭Quartet／<a href="https://ja.wikipedia.org/wiki/東京ザヴィヌルバッハ" title="wikilink">東京ザヴィヌルバッハ</a>／菊地成孔ダブ・セプテット</p></td>
+<td><p>坪口昌恭Quartet／<a href="../Page/東京ザヴィヌルバッハ.md" title="wikilink">東京ザヴィヌルバッハ</a>／菊地成孔ダブ・セプテット</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -57,14 +57,14 @@
 <td><p><a href="../Page/2014年.md" title="wikilink">2014年</a><a href="https://ja.wikipedia.org/wiki/三大都市圏" title="wikilink">東名阪ツアーより</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/大村孝佳" title="wikilink">大村孝佳</a></p></td>
+<td><p><a href="../Page/大村孝佳.md" title="wikilink">大村孝佳</a></p></td>
 <td><p><a href="../Page/ギター.md" title="wikilink">ギター</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/C4_(ロックバンド)" title="wikilink">C4</a>／<a href="https://ja.wikipedia.org/wiki/マーティ・フリードマン" title="wikilink">Marty Friedman</a>／<a href="https://ja.wikipedia.org/wiki/BABYMETAL#ライブサポートメンバー" title="wikilink">BABYMETAL(神バンド)</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/C4_(ロックバンド)" title="wikilink">C4</a>／<a href="../Page/マーティ・フリードマン.md" title="wikilink">Marty Friedman</a>／<a href="https://ja.wikipedia.org/wiki/BABYMETAL#ライブサポートメンバー" title="wikilink">BABYMETAL(神バンド)</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>近藤佑太</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ベース_(弦楽器)" title="wikilink">ベース</a></p></td>
+<td><p><a href="../Page/ベース_(弦楽器).md" title="wikilink">ベース</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -72,7 +72,7 @@
 <td><p>千住宗臣</p></td>
 <td><p><a href="../Page/ドラムセット.md" title="wikilink">ドラム</a></p></td>
 <td><p>COMBO PIANO／PARA／ウリチパン郡<br />
-<a href="https://ja.wikipedia.org/wiki/山本精一" title="wikilink">山本精一 &amp; THE PLANGROUND</a>／KOMA（劫魔）</p></td>
+<a href="../Page/山本精一.md" title="wikilink">山本精一 &amp; THE PLANGROUND</a>／KOMA（劫魔）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -83,15 +83,15 @@
 </tr>
 <tr class="even">
 <td><p>大儀見元</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/パーカッション" title="wikilink">パーカッション</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オルケスタ・デ・ラ・ルス" title="wikilink">オルケスタ・デ・ラ・ルス</a>／<a href="../Page/米米CLUB.md" title="wikilink">米米CLUB</a>／SWINGOZA<br />
-<a href="https://ja.wikipedia.org/wiki/熱帯JAZZ楽団" title="wikilink">熱帯JAZZ楽団</a>／菊地成孔とペペ・トルメント・アスカラール</p></td>
+<td><p><a href="../Page/パーカッション.md" title="wikilink">パーカッション</a></p></td>
+<td><p><a href="../Page/オルケスタ・デ・ラ・ルス.md" title="wikilink">オルケスタ・デ・ラ・ルス</a>／<a href="../Page/米米CLUB.md" title="wikilink">米米CLUB</a>／SWINGOZA<br />
+<a href="../Page/熱帯JAZZ楽団.md" title="wikilink">熱帯JAZZ楽団</a>／菊地成孔とペペ・トルメント・アスカラール</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/津上研太" title="wikilink">津上研太</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/サックス" title="wikilink">サックス</a></p></td>
-<td><p>BOZO／<a href="https://ja.wikipedia.org/wiki/村田陽一" title="wikilink">村田陽一</a>orchestra／<a href="https://ja.wikipedia.org/wiki/渋谷毅#渋谷毅オーケストラ" title="wikilink">渋谷毅オーケストラ</a></p></td>
+<td><p>BOZO／<a href="../Page/村田陽一.md" title="wikilink">村田陽一</a>orchestra／<a href="https://ja.wikipedia.org/wiki/渋谷毅#渋谷毅オーケストラ" title="wikilink">渋谷毅オーケストラ</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -113,16 +113,16 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/TAKUYA" title="wikilink">TAKUYA</a></p></td>
+<td><p><a href="../Page/TAKUYA.md" title="wikilink">TAKUYA</a></p></td>
 <td><p>ギター</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/JUDY_AND_MARY" title="wikilink">JUDY AND MARY</a></p></td>
+<td><p><a href="../Page/JUDY_AND_MARY.md" title="wikilink">JUDY AND MARY</a></p></td>
 <td><p>活動再開から大村正式加入まで</p></td>
 </tr>
 <tr class="even">
 <td><p>滝沢スミレ</p></td>
 <td><p>キーボード</p></td>
 <td><p>KINGDOM☆AFROCKS</p></td>
-<td><p><a href="../Page/2013年.md" title="wikilink">2013年</a>5月<a href="https://ja.wikipedia.org/wiki/日比谷野外音楽堂" title="wikilink">日比谷野音</a></p></td>
+<td><p><a href="../Page/2013年.md" title="wikilink">2013年</a>5月<a href="../Page/日比谷野外音楽堂.md" title="wikilink">日比谷野音</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><em>脱退</em></p></td>
@@ -133,12 +133,12 @@
 <tr class="even">
 <td><p>丈青</p></td>
 <td><p>キーボード</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SOIL&amp;&quot;PIMP&quot;SESSIONS" title="wikilink">SOIL&amp;"PIMP"SESSIONS</a>／J・A・M／JUA</p></td>
+<td><p><a href="../Page/SOIL&amp;&quot;PIMP&quot;SESSIONS.md" title="wikilink">SOIL&amp;"PIMP"SESSIONS</a>／J・A・M／JUA</p></td>
 <td><p>多忙のため<a href="../Page/2012年.md" title="wikilink">2012年</a>12月のライブをもって脱退</p></td>
 </tr>
 <tr class="odd">
 <td><p>アリガス</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ベース_(弦楽器)" title="wikilink">ベース</a></p></td>
+<td><p><a href="../Page/ベース_(弦楽器).md" title="wikilink">ベース</a></p></td>
 <td><p>朱雀大路／元<a href="https://ja.wikipedia.org/wiki/五人一首" title="wikilink">五人一首</a></p></td>
 <td></td>
 </tr>
@@ -166,7 +166,7 @@
 <tr class="odd">
 <td><p>菊地成孔</p></td>
 <td><p>コンダクト・CDJ・キーボード</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ティポグラフィカ" title="wikilink">ティポグラフィカ</a>／<a href="https://ja.wikipedia.org/wiki/Ground_Zero" title="wikilink">Ground Zero</a>／<a href="https://ja.wikipedia.org/wiki/SPANK_HAPPY" title="wikilink">SPANK HAPPY</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/ティポグラフィカ" title="wikilink">ティポグラフィカ</a>／<a href="https://ja.wikipedia.org/wiki/Ground_Zero" title="wikilink">Ground Zero</a>／<a href="../Page/SPANK_HAPPY.md" title="wikilink">SPANK HAPPY</a><br />
 東京ザヴィヌルバッハ／菊地成孔Quintet</p></td>
 <td></td>
 </tr>
@@ -189,16 +189,16 @@
 <td><p>第二期より</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/栗原正己" title="wikilink">栗原正己</a></p></td>
+<td><p><a href="../Page/栗原正己.md" title="wikilink">栗原正己</a></p></td>
 <td><p>ベース</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/栗コーダーカルテット" title="wikilink">栗コーダーカルテット</a></p></td>
+<td><p><a href="../Page/栗コーダーカルテット.md" title="wikilink">栗コーダーカルテット</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/芳垣安洋" title="wikilink">芳垣安洋</a></p></td>
 <td><p>ドラム</p></td>
-<td><p>GROUND ZERO、<a href="https://ja.wikipedia.org/wiki/モダンチョキチョキズ" title="wikilink">モダンチョキチョキズ</a>／<a href="https://ja.wikipedia.org/wiki/Rovo" title="wikilink">Rovo</a>／Vincent Atomics<br />
-<a href="https://ja.wikipedia.org/wiki/渋さ知らズ" title="wikilink">渋さ知らズ</a>／<a href="https://ja.wikipedia.org/wiki/大友良英" title="wikilink">大友良英</a>NEW JAZZ QUINTET</p></td>
+<td><p>GROUND ZERO、<a href="../Page/モダンチョキチョキズ.md" title="wikilink">モダンチョキチョキズ</a>／<a href="https://ja.wikipedia.org/wiki/Rovo" title="wikilink">Rovo</a>／Vincent Atomics<br />
+<a href="../Page/渋さ知らズ.md" title="wikilink">渋さ知らズ</a>／<a href="../Page/大友良英.md" title="wikilink">大友良英</a>NEW JAZZ QUINTET</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -222,14 +222,14 @@
 <tr class="even">
 <td><p>津上研太</p></td>
 <td><p>サックス</p></td>
-<td><p>BOZO／<a href="https://ja.wikipedia.org/wiki/村田陽一" title="wikilink">村田陽一</a>orchestra／大友良英NEW JAZZ QUINTET／渋谷毅オーケストラ</p></td>
+<td><p>BOZO／<a href="../Page/村田陽一.md" title="wikilink">村田陽一</a>orchestra／大友良英NEW JAZZ QUINTET／渋谷毅オーケストラ</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>後関好宏（ゴセッキー）</p></td>
 <td><p>サックス</p></td>
-<td><p>東京中低域／stim／KINGDOM☆AFROCKS／<a href="https://ja.wikipedia.org/wiki/EGO-WRAPPIN&#39;" title="wikilink">EGO-WRAPPIN'</a><br />
-<a href="https://ja.wikipedia.org/wiki/在日ファンク" title="wikilink">在日ファンク</a>／<a href="https://ja.wikipedia.org/wiki/一十三十一" title="wikilink">一十三十一</a>／<a href="https://ja.wikipedia.org/wiki/風味堂" title="wikilink">風味堂</a></p></td>
+<td><p>東京中低域／stim／KINGDOM☆AFROCKS／<a href="../Page/EGO-WRAPPIN&#39;.md" title="wikilink">EGO-WRAPPIN'</a><br />
+<a href="https://ja.wikipedia.org/wiki/在日ファンク" title="wikilink">在日ファンク</a>／<a href="https://ja.wikipedia.org/wiki/一十三十一" title="wikilink">一十三十一</a>／<a href="../Page/風味堂.md" title="wikilink">風味堂</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -242,11 +242,11 @@
 <td><p>佐々木史郎</p></td>
 <td><p>トランペット</p></td>
 <td><p>Shiro Sasaki &amp; Caoba Big Band／オルケスタ・デ・ラ・ルス<br />
-熱帯JAZZ楽団／<a href="https://ja.wikipedia.org/wiki/BIG_HORNS_BEE" title="wikilink">BIG HORNS BEE</a></p></td>
+熱帯JAZZ楽団／<a href="../Page/BIG_HORNS_BEE.md" title="wikilink">BIG HORNS BEE</a></p></td>
 <td><p>第二期より</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/関島岳郎" title="wikilink">関島岳郎</a></p></td>
+<td><p><a href="../Page/関島岳郎.md" title="wikilink">関島岳郎</a></p></td>
 <td><p><a href="../Page/チューバ.md" title="wikilink">チューバ</a></p></td>
 <td><p>コンポステラ／ストラーダ／シカラムータ／<a href="https://ja.wikipedia.org/wiki/ザ・スリル" title="wikilink">THE THRILL</a><br />
 栗コーダーカルテット／こまっちゃクレズマ</p></td>
@@ -261,7 +261,7 @@
 <tr class="even">
 <td><p>伊藤賢二（イトケン）</p></td>
 <td><p>ドラム</p></td>
-<td><p>Harpy／zuppa di pesce／itoken trio／<a href="https://ja.wikipedia.org/wiki/相対性理論_(バンド)" title="wikilink">相対性理論</a></p></td>
+<td><p>Harpy／zuppa di pesce／itoken trio／<a href="../Page/相対性理論_(バンド).md" title="wikilink">相対性理論</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -277,7 +277,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/大友良英" title="wikilink">大友良英</a></p></td>
+<td><p><a href="../Page/大友良英.md" title="wikilink">大友良英</a></p></td>
 <td><p>ギター</p></td>
 <td><p>Ground Zero／Filament／大友良英NEW JAZZ QUINTET／I.S.O.</p></td>
 <td><p>第一期のみ。多忙のため脱退。</p></td>
@@ -313,8 +313,8 @@
 <li>PAN-AMERICAN BEEF STAKE ART FEDERATIONS／DATE COURSE PENTAGON ROYAL GARDEN [32:19]</li>
 </ol>
 </div></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Pヴァイン" title="wikilink">P-Vine</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ROVO" title="wikilink">ROVO</a>とのスプリット</p></td>
+<td><p><a href="../Page/Pヴァイン.md" title="wikilink">P-Vine</a></p></td>
+<td><p><a href="../Page/ROVO.md" title="wikilink">ROVO</a>とのスプリット</p></td>
 </tr>
 <tr class="even">
 <td><p>2001年8月10日</p></td>
@@ -328,7 +328,7 @@
 <li>Catch22 [10:00]</li>
 <li>PLAY MATE AT HANOI [12:31]</li>
 <li>S [10:53]</li>
-<li>CIRCLE/LINE～HARD CORE PEACE [16:02] （<a href="https://ja.wikipedia.org/wiki/菊地雅章" title="wikilink">菊地雅章</a>原曲）</li>
+<li>CIRCLE/LINE～HARD CORE PEACE [16:02] （<a href="../Page/菊地雅章.md" title="wikilink">菊地雅章</a>原曲）</li>
 <li>HEY JOE [12:00] （<a href="../Page/ジミ・ヘンドリックス.md" title="wikilink">ジミ・ヘンドリックス</a>原曲）</li>
 <li>MIRROR BALLS [8:16]</li>
 </ol>
@@ -373,10 +373,10 @@
 <li>Catch22 [15:19]</li>
 <li>PLAYMATE AT HANOI [13:49]</li>
 <li>SPANISH KEY [14:01] （<a href="https://ja.wikipedia.org/wiki/マイルス・デイビス" title="wikilink">マイルス・デイビス</a>原曲）</li>
-<li>STAIN ALIVE [16:03] （<a href="https://ja.wikipedia.org/wiki/ビージーズ" title="wikilink">ビージーズ</a>原曲）</li>
+<li>STAIN ALIVE [16:03] （<a href="../Page/ビージーズ.md" title="wikilink">ビージーズ</a>原曲）</li>
 <li>CIRCLE/LINE～HARD CORE PEACE [15:08]</li>
 <li>S [8:28]</li>
-<li>ホーチミン市のミラーボール [10:57] （<a href="https://ja.wikipedia.org/wiki/SPANK_HAPPY" title="wikilink">SPANK HAPPY原曲</a>）</li>
+<li>ホーチミン市のミラーボール [10:57] （<a href="../Page/SPANK_HAPPY.md" title="wikilink">SPANK HAPPY原曲</a>）</li>
 </ol>
 </div></td>
 <td><p>オリコン247位</p></td>
@@ -419,14 +419,14 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2004年" title="wikilink">2004年</a>9月8日</p></td>
+<td><p><a href="../Page/2004年.md" title="wikilink">2004年</a>9月8日</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
 <p>STAYIN' ALIVE/FAME/PAN-AMERICAN BEEF STAKE ART FEDERATION-2</p>
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>STAYIN' ALIVE [13:11]（<a href="https://ja.wikipedia.org/wiki/ビージーズ" title="wikilink">ビージーズ</a>原曲）</li>
+<li>STAYIN' ALIVE [13:11]（<a href="../Page/ビージーズ.md" title="wikilink">ビージーズ</a>原曲）</li>
 <li>FAME [7:57]（<a href="https://ja.wikipedia.org/wiki/デヴィッド・ボウイ" title="wikilink">デヴィッド・ボウイ</a>原曲）</li>
 <li>PAN-AMERICAN BEEF STAKE ART FEDERATION 2 [20:20]</li>
 <li>(エンハンスド)STRUCTURE I (live version)</li>
@@ -437,7 +437,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a>3月23日</p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a>3月23日</p></td>
 <td><p>ライブCD+DVD</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
@@ -473,7 +473,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a>4月6日</p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a>4月6日</p></td>
 <td><p>アルバム</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
@@ -544,7 +544,7 @@
 <li>Mirror Balls（encore）</li>
 </ol>
 </div></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/イーストワークスエンターテインメント" title="wikilink">ewe records</a></p></td>
+<td><p><a href="../Page/イーストワークスエンターテインメント.md" title="wikilink">ewe records</a></p></td>
 <td><p>PC専用商品</p></td>
 </tr>
 <tr class="even">
@@ -568,8 +568,8 @@
 <li>Mirror Balls [9:44]</li>
 </ol>
 </div></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/インパルス!レコード" title="wikilink">IMPULSE!</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アート・リンゼイ" title="wikilink">アート・リンゼイ</a>がゲスト参加<br />
+<td><p><a href="../Page/インパルス!レコード.md" title="wikilink">IMPULSE!</a></p></td>
+<td><p><a href="../Page/アート・リンゼイ.md" title="wikilink">アート・リンゼイ</a>がゲスト参加<br />
 （Disc 1-#2・#3）</p></td>
 </tr>
 <tr class="odd">
@@ -618,7 +618,7 @@
 <li>「RONALD REAGAN」LIVE at EBISU LIQUIDROOM</li>
 </ol>
 </div></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヴィレッジミュージック" title="wikilink">TABOO</a></p></td>
+<td><p><a href="../Page/ヴィレッジミュージック.md" title="wikilink">TABOO</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -645,20 +645,20 @@
 <td><p><strong>REPORT FROM IRON MOUNTAIN（アイアンマウンテン報告）</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/キャッチ=22" title="wikilink">キャッチ=22</a></strong></p></td>
+<td><p><strong><a href="../Page/キャッチ=22.md" title="wikilink">キャッチ=22</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジョーゼフ・ヘラー" title="wikilink">ジョーゼフ・ヘラー</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1961年" title="wikilink">1961年</a></p></td>
 <td><p>REPORT FROM IRON MOUNTAIN（アイアンマウンテン報告）<br />
 #1.<strong>Catch22</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/構造と力" title="wikilink">構造と力</a></strong></p></td>
+<td><p><strong><a href="../Page/構造と力.md" title="wikilink">構造と力</a></strong></p></td>
 <td><p><a href="../Page/浅田彰.md" title="wikilink">浅田彰</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1983年" title="wikilink">1983年</a></p></td>
 <td><p><strong>Structure Et Force（構造と力）</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/失踪者_(小説)" title="wikilink">アメリカ</a></strong></p></td>
+<td><p><strong><a href="../Page/失踪者_(小説).md" title="wikilink">アメリカ</a></strong></p></td>
 <td><p><a href="../Page/フランツ・カフカ.md" title="wikilink">フランツ・カフカ</a></p></td>
 <td><p><a href="../Page/1927年.md" title="wikilink">1927年</a></p></td>
 <td><p><strong>Franz Kafka's AMERIKA（フランツ・カフカズ・アメリカ）</strong></p></td>
@@ -682,9 +682,9 @@
 
 ## 関連項目
 
-  - [菊地成孔](https://ja.wikipedia.org/wiki/菊地成孔 "wikilink")
+  - [菊地成孔](../Page/菊地成孔.md "wikilink")
   - [Rovo](https://ja.wikipedia.org/wiki/Rovo "wikilink")
-  - [大谷能生](https://ja.wikipedia.org/wiki/大谷能生 "wikilink")
+  - [大谷能生](../Page/大谷能生.md "wikilink")
   - [SIMI LAB](https://ja.wikipedia.org/wiki/SIMI_LAB "wikilink")
   - [COBRA](https://ja.wikipedia.org/wiki/COBRA "wikilink")
 

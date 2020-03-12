@@ -6,15 +6,15 @@
 ## 解説
 
   - シングル・コレクション。
-  - 「[殺意のバカンス](https://ja.wikipedia.org/wiki/殺意のバカンス "wikilink")」、「[好きと言いなさい](https://ja.wikipedia.org/wiki/好きと言いなさい "wikilink")」、「[Sosotte](../Page/Sosotte.md "wikilink")」、「[Oneway Generation](../Page/Oneway_Generation.md "wikilink")」、「[CRAZY NIGHTS](https://ja.wikipedia.org/wiki/CRAZY_NIGHTS/GOLDEN_DAYS "wikilink")」日本語バージョン、「[HEART BREAK](../Page/HEART_BREAK.md "wikilink")」日本語バージョンの6曲がアルバム初収録となった。
+  - 「[殺意のバカンス](../Page/殺意のバカンス.md "wikilink")」、「[好きと言いなさい](../Page/好きと言いなさい.md "wikilink")」、「[Sosotte](../Page/Sosotte.md "wikilink")」、「[Oneway Generation](../Page/Oneway_Generation.md "wikilink")」、「[CRAZY NIGHTS](https://ja.wikipedia.org/wiki/CRAZY_NIGHTS/GOLDEN_DAYS "wikilink")」日本語バージョン、「[HEART BREAK](../Page/HEART_BREAK.md "wikilink")」日本語バージョンの6曲がアルバム初収録となった。
 
 ## 収録曲
 
-1.  [殺意のバカンス](https://ja.wikipedia.org/wiki/殺意のバカンス "wikilink")
-2.  [好きと言いなさい](https://ja.wikipedia.org/wiki/好きと言いなさい "wikilink")
+1.  [殺意のバカンス](../Page/殺意のバカンス.md "wikilink")
+2.  [好きと言いなさい](../Page/好きと言いなさい.md "wikilink")
 3.  [青い週末](../Page/青い週末.md "wikilink")
 4.  [Temptation（誘惑）](../Page/Temptation（誘惑）.md "wikilink") \[Single Version\]
-5.  [1986年のマリリン](https://ja.wikipedia.org/wiki/1986年のマリリン "wikilink") \[Single Version\]
+5.  [1986年のマリリン](../Page/1986年のマリリン.md "wikilink") \[Single Version\]
 6.  [Sosotte](../Page/Sosotte.md "wikilink")
 7.  [HELP](../Page/HELP_\(本田美奈子.の曲\).md "wikilink")
 8.  [the Cross -愛の十字架-](https://ja.wikipedia.org/wiki/the_Cross_-愛の十字架- "wikilink")

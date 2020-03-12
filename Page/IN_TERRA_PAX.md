@@ -1,17 +1,17 @@
 > この記事は[IN TERRA PAX](https://ja.wikipedia.org/wiki/IN_TERRA_PAX)から翻訳されています。
 
 
-混声合唱組曲『**IN TERRA PAX - 地に平和を**』（イン テラ パックス - ちにへいわを）は、[荻久保和明](https://ja.wikipedia.org/wiki/荻久保和明 "wikilink")が[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に作曲した[混声合唱](https://ja.wikipedia.org/wiki/混声合唱 "wikilink")組曲。また、その終曲。後に[女声合唱](https://ja.wikipedia.org/wiki/女声合唱 "wikilink")、[男声合唱](https://ja.wikipedia.org/wiki/男声合唱 "wikilink")にも編曲された。作詞は[鶴見正夫](https://ja.wikipedia.org/wiki/鶴見正夫 "wikilink")。
+混声合唱組曲『**IN TERRA PAX - 地に平和を**』（イン テラ パックス - ちにへいわを）は、[荻久保和明](../Page/荻久保和明.md "wikilink")が[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に作曲した[混声合唱](../Page/混声合唱.md "wikilink")組曲。また、その終曲。後に[女声合唱](../Page/女声合唱.md "wikilink")、[男声合唱](../Page/男声合唱.md "wikilink")にも編曲された。作詞は[鶴見正夫](https://ja.wikipedia.org/wiki/鶴見正夫 "wikilink")。
 
-タイトルは、[ミサ曲](https://ja.wikipedia.org/wiki/ミサ曲 "wikilink")「[Gloria](https://ja.wikipedia.org/wiki/:en:Gloria_in_excelsis_Deo "wikilink")」の一文に記されている「*Et **in terra pax** hominibus bonae voluntatis.*（そして、地の善き人々に平和を）」による。
+タイトルは、[ミサ曲](../Page/ミサ曲.md "wikilink")「[Gloria](https://ja.wikipedia.org/wiki/:en:Gloria_in_excelsis_Deo "wikilink")」の一文に記されている「*Et **in terra pax** hominibus bonae voluntatis.*（そして、地の善き人々に平和を）」による。
 
 ## 概説
 
-[ベトナム戦争](../Page/ベトナム戦争.md "wikilink")を受けて鶴見が書いた詩「太郎は知った」を、荻久保が[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")、混声3部合唱曲として作曲し、同年の『[教育音楽](https://ja.wikipedia.org/wiki/教育音楽_\(雑誌\) "wikilink")』7月号に発表。この曲を単品で埋もれさせるのはもったいないという作曲者の意向で「この曲をベースにした連作合唱曲を作ろう」という話が生まれ、[音楽之友社](https://ja.wikipedia.org/wiki/音楽之友社 "wikilink")を通じて、戦争と平和をテーマにした詩を鶴見に書き下ろしてもらった\[1\]。
+[ベトナム戦争](../Page/ベトナム戦争.md "wikilink")を受けて鶴見が書いた詩「太郎は知った」を、荻久保が[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")、混声3部合唱曲として作曲し、同年の『[教育音楽](https://ja.wikipedia.org/wiki/教育音楽_\(雑誌\) "wikilink")』7月号に発表。この曲を単品で埋もれさせるのはもったいないという作曲者の意向で「この曲をベースにした連作合唱曲を作ろう」という話が生まれ、[音楽之友社](../Page/音楽之友社.md "wikilink")を通じて、戦争と平和をテーマにした詩を鶴見に書き下ろしてもらった\[1\]。
 
 鶴見は作詞にあたって、「こうしたうたはシュプレヒコールのようになりがちだ。私は努めてそれを避け、少年少女からおとなまで、誰もがうたえることをねがって、できるだけ平易なコトバで書いた。」と語っている\[2\]。
 
-[1988年](../Page/1988年.md "wikilink")には、「OH MY SOLDIER」が、翌年には「IN TERRA PAX」、「花をさがす少女」がそれぞれ混声3部合唱曲として作曲され、「ほうけた母の子守歌」は[無伴奏](../Page/無伴奏.md "wikilink")の混声4部合唱として『教育音楽』1989年11月号に掲載された。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")、混声3部の曲を4部にリライトした上で、それまでに発表した5曲の連作を組曲として構成。[コール・フロイント](https://ja.wikipedia.org/wiki/コール・フロイント "wikilink")の定期演奏会（[杉並公会堂](https://ja.wikipedia.org/wiki/杉並公会堂 "wikilink")）で初演された。なお、女声版は[新座少年少女合唱団](https://ja.wikipedia.org/wiki/新座少年少女合唱団 "wikilink")、男声版は[大阪府立淀川工業高等学校](https://ja.wikipedia.org/wiki/大阪府立淀川工業高等学校 "wikilink")グリークラブからの委嘱である。
+[1988年](../Page/1988年.md "wikilink")には、「OH MY SOLDIER」が、翌年には「IN TERRA PAX」、「花をさがす少女」がそれぞれ混声3部合唱曲として作曲され、「ほうけた母の子守歌」は[無伴奏](../Page/無伴奏.md "wikilink")の混声4部合唱として『教育音楽』1989年11月号に掲載された。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")、混声3部の曲を4部にリライトした上で、それまでに発表した5曲の連作を組曲として構成。[コール・フロイント](https://ja.wikipedia.org/wiki/コール・フロイント "wikilink")の定期演奏会（[杉並公会堂](../Page/杉並公会堂.md "wikilink")）で初演された。なお、女声版は[新座少年少女合唱団](https://ja.wikipedia.org/wiki/新座少年少女合唱団 "wikilink")、男声版は[大阪府立淀川工業高等学校](https://ja.wikipedia.org/wiki/大阪府立淀川工業高等学校 "wikilink")グリークラブからの委嘱である。
 
 男声版では「コーラスのパートを美しく聞かせるため\[3\]」（= 男声合唱の特性をよりよく活かすため）という理由から、主旋律の一部や、拍子・テンポ指定や、[ピアノ](../Page/ピアノ.md "wikilink")パートの大半などに、組曲全体にわたり編曲の枠にとどまらない大胆な改変がなされている。「ほうけた母の子守歌」に至っては、エンディングが他のバージョンより2小節分短く、終止和音も変更されている。
 
@@ -25,20 +25,20 @@
         [ト短調](https://ja.wikipedia.org/wiki/ト短調 "wikilink")。「戦争で散った世界中の無数の若者への命へのレクイエム」と鶴見は述べる。
 3.  花をさがす少女
       -
-        [イ短調](https://ja.wikipedia.org/wiki/イ短調 "wikilink")。冒頭のピアノは不吉な少女の運命を暗示する[動機](https://ja.wikipedia.org/wiki/モチーフ_\(音楽\) "wikilink")\[4\]。少女は美しい花を探し彷徨うが、突如として音楽は転じ、戦車が彼女に迫る。
+        [イ短調](https://ja.wikipedia.org/wiki/イ短調 "wikilink")。冒頭のピアノは不吉な少女の運命を暗示する[動機](../Page/モチーフ_\(音楽\).md "wikilink")\[4\]。少女は美しい花を探し彷徨うが、突如として音楽は転じ、戦車が彼女に迫る。
 4.  ほうけた母の子守歌
       -
-        [ドリア調](https://ja.wikipedia.org/wiki/ドリア調 "wikilink")。この曲のみ[無伴奏](../Page/無伴奏.md "wikilink")。戦争に対する、消え去ることのできない怒りと怨念。男声版は平成7年度[全日本合唱コンクール](https://ja.wikipedia.org/wiki/全日本合唱コンクール "wikilink")課題曲。
+        [ドリア調](https://ja.wikipedia.org/wiki/ドリア調 "wikilink")。この曲のみ[無伴奏](../Page/無伴奏.md "wikilink")。戦争に対する、消え去ることのできない怒りと怨念。男声版は平成7年度[全日本合唱コンクール](../Page/全日本合唱コンクール.md "wikilink")課題曲。
 5.  IN TERRA PAX 地に平和を
       -
-        [変ロ長調](https://ja.wikipedia.org/wiki/変ロ長調 "wikilink")。鶴見の詩の原題は「この地上」であったが、作曲に際し「[ラテン語](../Page/ラテン語.md "wikilink")がピンと思い浮かび」「この曲の頭は「インテーラーパーックス」でなければならない」\[5\]として改めた。「この地球に生きるもの、すべての命のための「IN TERRA PAX」-“地に平和を”である」と鶴見は述べる。
+        [変ロ長調](../Page/変ロ長調.md "wikilink")。鶴見の詩の原題は「この地上」であったが、作曲に際し「[ラテン語](../Page/ラテン語.md "wikilink")がピンと思い浮かび」「この曲の頭は「インテーラーパーックス」でなければならない」\[5\]として改めた。「この地球に生きるもの、すべての命のための「IN TERRA PAX」-“地に平和を”である」と鶴見は述べる。
         実際の演奏に際して荻久保は「8分の6拍子は2つ振りでなければならない」「うまく2つ振りできないなら、この曲の指揮はすべきでない」\[6\]と注文を付けている。
 
 ## エピソード
 
   - 荻久保作品の中では、初期の「[季節へのまなざし](https://ja.wikipedia.org/wiki/季節へのまなざし "wikilink")」とともに、よく歌われるものであり、小学生・中学生から一般の合唱団まで幅広い年齢層にとりあげられている。1990年代にはコンクールの自由曲としてブームになり、一世を風靡した\[7\]。男声版出版譜の前書きで本人が記しているところによると、これらの曲のあまりの人気ゆえに自分の本来の作風が理解されていないと嘆いていた時期もあったという\[8\]。
   - この組曲を荻久保に書かせたのは、平和への祈りばかりではない。ある時、北海道から上京した荻久保ファンの大学生と会った際、「最近の荻久保和明の作品はマニアックじゃないか、旋律的美しさに欠けるんじゃないか」と指摘されたという（「季節へのまなざし」は、初演指揮者の[岩城宏之](../Page/岩城宏之.md "wikilink")に美しい曲として絶賛されたが、その後の荻久保は「縄文」シリーズ、「しゅうりりえんえん」、「レクイエム」など、美しさよりも激烈さを優先した作風へと変化した）。この言葉がなければ「IN TERRA PAX」は生まれていなかったと言うほどに、荻久保にとっては印象的であったらしい。そこで、「**歌も旋律、ピアノも旋律、リズムも旋律、すべてが旋律でできたような曲**」を目指して書いたのだと語っている\[9\]\[10\]。
-  - 混声版出版譜の前書きで、荻久保がこの組曲の作曲の生みの苦しみを延々とつづっているが、実際にはフィクションである（彼の母が心配して電話をかけたというエピソードがある）。この前書きは[連用形](https://ja.wikipedia.org/wiki/連用形 "wikilink")を多用したスタイルで書かれているが、これは[筒井康隆](../Page/筒井康隆.md "wikilink")に影響されたとのこと。
+  - 混声版出版譜の前書きで、荻久保がこの組曲の作曲の生みの苦しみを延々とつづっているが、実際にはフィクションである（彼の母が心配して電話をかけたというエピソードがある）。この前書きは[連用形](../Page/連用形.md "wikilink")を多用したスタイルで書かれているが、これは[筒井康隆](../Page/筒井康隆.md "wikilink")に影響されたとのこと。
 
 ## 楽譜
 

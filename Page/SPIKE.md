@@ -5,9 +5,9 @@
 
 ## 収録曲
 
-1.  **[ブギウギ No.5](https://ja.wikipedia.org/wiki/ブギウギ_No.5 "wikilink")**(4:10)
+1.  **[ブギウギ No.5](../Page/ブギウギ_No.5.md "wikilink")**(4:10)
       - 作詞：[奥田民生](../Page/奥田民生.md "wikilink") 作曲：奥田民生
-      - [ソーテック](https://ja.wikipedia.org/wiki/ソーテック "wikilink")「e-note」CMソング
+      - [ソーテック](../Page/ソーテック.md "wikilink")「e-note」CMソング
 2.  **すみれ**(3:57)
       - 作詞：PUFFY　作曲：[Andy Sturmer](https://ja.wikipedia.org/wiki/アンディ・スターマー "wikilink")
 3.  **問答無用**(4:15)

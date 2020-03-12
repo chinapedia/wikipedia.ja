@@ -1,7 +1,7 @@
 > この記事は[ \(RYTHEM\)](https://ja.wikipedia.org/wiki/_\(RYTHEM\))から翻訳されています。
 
 
-「**蛍火**」（ほたるび）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽デュオ](https://ja.wikipedia.org/wiki/デュオ "wikilink")・[RYTHEM](https://ja.wikipedia.org/wiki/RYTHEM "wikilink")の12作目の[シングル](../Page/シングル.md "wikilink")。
+「**蛍火**」（ほたるび）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽デュオ](../Page/デュオ.md "wikilink")・[RYTHEM](../Page/RYTHEM.md "wikilink")の12作目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 解説
 
@@ -15,7 +15,7 @@
 
 ## 収録曲
 
-1.  蛍火（作詞・作曲:[新津由衣](https://ja.wikipedia.org/wiki/新津由衣 "wikilink")、編曲:[武部聡志](https://ja.wikipedia.org/wiki/武部聡志 "wikilink")）
+1.  蛍火（作詞・作曲:[新津由衣](../Page/新津由衣.md "wikilink")、編曲:[武部聡志](../Page/武部聡志.md "wikilink")）
 2.  夏メロ（作詞・作曲:[加藤有加利](../Page/加藤有加利.md "wikilink")、編曲:益田TOSH）
 3.  蛍火（Instrumental）
 4.  夏メロ（Instrumental）
@@ -27,7 +27,7 @@
 <!-- end list -->
 
   - RYTHEM：Additional [Programming](../Page/デスクトップミュージック.md "wikilink") (\#2,4)
-  - [YUI](https://ja.wikipedia.org/wiki/新津由衣 "wikilink")：[Vocal](https://ja.wikipedia.org/wiki/ボーカル "wikilink") (\#1,2)
+  - [YUI](../Page/新津由衣.md "wikilink")：[Vocal](https://ja.wikipedia.org/wiki/ボーカル "wikilink") (\#1,2)
   - [YUKA](../Page/加藤有加利.md "wikilink")：Vocal (\#1,2)
 
 <!-- end list -->
@@ -36,13 +36,13 @@
 
 <!-- end list -->
 
-  - [武部聡志](https://ja.wikipedia.org/wiki/武部聡志 "wikilink")：[Sound Produced](../Page/音楽プロデューサー.md "wikilink") & [Keyboards](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink") (\#1,3)
+  - [武部聡志](../Page/武部聡志.md "wikilink")：[Sound Produced](../Page/音楽プロデューサー.md "wikilink") & [Keyboards](../Page/キーボード_\(楽器\).md "wikilink") (\#1,3)
   - 益田TOSH：Programming (\#2,4)
   - [Philip Woo](https://ja.wikipedia.org/wiki/フィリップ・ウー "wikilink")：Keyboards & Programming (\#2,4)
   - [河村"カースケ"智康](https://ja.wikipedia.org/wiki/河村智康 "wikilink")：[Drums](../Page/ドラムセット.md "wikilink") (\#1,3)
-  - [種子田健](https://ja.wikipedia.org/wiki/種子田健 "wikilink")：[Bass](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink") (\#1,3)
+  - [種子田健](../Page/種子田健.md "wikilink")：[Bass](../Page/ベース_\(弦楽器\).md "wikilink") (\#1,3)
   - [狩野良昭](https://ja.wikipedia.org/wiki/狩野良昭 "wikilink")：[Electric Guitar](../Page/エレクトリック・ギター.md "wikilink") (\#1,3)
-  - [石井マサユキ](https://ja.wikipedia.org/wiki/石井マサユキ "wikilink")：[Gut Guitar](https://ja.wikipedia.org/wiki/クラシック・ギター "wikilink") (\#2,4)
+  - [石井マサユキ](https://ja.wikipedia.org/wiki/石井マサユキ "wikilink")：[Gut Guitar](../Page/クラシック・ギター.md "wikilink") (\#2,4)
   - [山中雅文](https://ja.wikipedia.org/wiki/山中雅文 "wikilink")：[Synthesizer Operation](https://ja.wikipedia.org/wiki/マニピュレーター#電子音楽 "wikilink") (\#1,3)
   - 12 monkeys：Hand Claps (\#2,4)
 

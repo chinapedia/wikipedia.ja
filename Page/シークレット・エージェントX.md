@@ -13,7 +13,7 @@
 
 また非常にセンセーショナルなタイトルでも知られる。例えば「破滅の使者(The Ambassador of Doom)」（1934年5月）、「髑髏の召使(Servants of the Skull)」（1934年11月）、「黄金の屍食鬼(The Golden Ghoul)」（1935年7月）、「悪魔のシンジケート(Satan’s Syndicate)」（1937年8月）、「真紅の大群(Crimson Horde)」（1938年9月）などである。
 
-この時期、[シャドー](https://ja.wikipedia.org/wiki/シャドー "wikilink")（The Shadow）や[グリーン・ラーマ](https://ja.wikipedia.org/wiki/グリーン・ラーマ "wikilink")(Green Lama)、[オペレーターNo.5](https://ja.wikipedia.org/wiki/オペレーターNo.5 "wikilink")(Operator No.5)などのようにシークレット・エージェントXとほぼ同様なパルプ・ヒーローが頻出している。テッパーマンやロジャーズのような作者は、シークレット・エージェントXとほぼ同じストーリーを「オペレーターNo.5」誌のために執筆している。
+この時期、[シャドー](https://ja.wikipedia.org/wiki/シャドー "wikilink")（The Shadow）や[グリーン・ラーマ](../Page/グリーン・ラーマ.md "wikilink")(Green Lama)、[オペレーターNo.5](https://ja.wikipedia.org/wiki/オペレーターNo.5 "wikilink")(Operator No.5)などのようにシークレット・エージェントXとほぼ同様なパルプ・ヒーローが頻出している。テッパーマンやロジャーズのような作者は、シークレット・エージェントXとほぼ同じストーリーを「オペレーターNo.5」誌のために執筆している。
 
 ## 外部リンク
 

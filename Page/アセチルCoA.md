@@ -1,7 +1,7 @@
 > この記事は[CoA](https://ja.wikipedia.org/wiki/CoA)から翻訳されています。
 
 
-**アセチルCoA** （アセチルコエンザイムエー、アセチルコエー、Acetyl-CoA）は、アセチル補酵素Aの略で、[化学式](https://ja.wikipedia.org/wiki/化学式 "wikilink")がC<sub>23</sub>H<sub>38</sub>P<sub>3</sub>N<sub>7</sub>O<sub>17</sub>Sで表される[分子量](../Page/分子量.md "wikilink")が809.572 g/mol の[有機化合物](../Page/有機化合物.md "wikilink")である。[補酵素A](../Page/補酵素A.md "wikilink")の末端の[チオール基](https://ja.wikipedia.org/wiki/チオール基 "wikilink")が[酢酸](../Page/酢酸.md "wikilink")と[チオエステル結合](https://ja.wikipedia.org/wiki/チオエステル結合 "wikilink")したもので、主として[β酸化](https://ja.wikipedia.org/wiki/β酸化 "wikilink")や[クエン酸回路](https://ja.wikipedia.org/wiki/クエン酸回路 "wikilink")、[メバロン酸経路](https://ja.wikipedia.org/wiki/メバロン酸経路 "wikilink")でみられる。[テルペノイド](https://ja.wikipedia.org/wiki/テルペノイド "wikilink")はアセチルCoA二分子の反応によって生じる[アセトアセチルCoA](https://ja.wikipedia.org/wiki/アセトアセチルCoA "wikilink")を原料とする。消費されない過剰のアセチルCoAは、[脂肪酸](../Page/脂肪酸.md "wikilink")生合成の原料となり、[中性脂肪](https://ja.wikipedia.org/wiki/中性脂肪 "wikilink")を生成する（[脂肪酸\#脂肪酸生合成系](https://ja.wikipedia.org/wiki/脂肪酸#脂肪酸生合成系 "wikilink")参照）。そのため、アセチルCoAの代謝を抑制することで[動脈硬化](https://ja.wikipedia.org/wiki/動脈硬化 "wikilink")、[高脂血症](https://ja.wikipedia.org/wiki/高脂血症 "wikilink")を防ぐ研究が進行中である。
+**アセチルCoA** （アセチルコエンザイムエー、アセチルコエー、Acetyl-CoA）は、アセチル補酵素Aの略で、[化学式](../Page/化学式.md "wikilink")がC<sub>23</sub>H<sub>38</sub>P<sub>3</sub>N<sub>7</sub>O<sub>17</sub>Sで表される[分子量](../Page/分子量.md "wikilink")が809.572 g/mol の[有機化合物](../Page/有機化合物.md "wikilink")である。[補酵素A](../Page/補酵素A.md "wikilink")の末端の[チオール基](https://ja.wikipedia.org/wiki/チオール基 "wikilink")が[酢酸](../Page/酢酸.md "wikilink")と[チオエステル結合](https://ja.wikipedia.org/wiki/チオエステル結合 "wikilink")したもので、主として[β酸化](https://ja.wikipedia.org/wiki/β酸化 "wikilink")や[クエン酸回路](https://ja.wikipedia.org/wiki/クエン酸回路 "wikilink")、[メバロン酸経路](../Page/メバロン酸経路.md "wikilink")でみられる。[テルペノイド](../Page/テルペノイド.md "wikilink")はアセチルCoA二分子の反応によって生じる[アセトアセチルCoA](https://ja.wikipedia.org/wiki/アセトアセチルCoA "wikilink")を原料とする。消費されない過剰のアセチルCoAは、[脂肪酸](../Page/脂肪酸.md "wikilink")生合成の原料となり、[中性脂肪](https://ja.wikipedia.org/wiki/中性脂肪 "wikilink")を生成する（[脂肪酸\#脂肪酸生合成系](https://ja.wikipedia.org/wiki/脂肪酸#脂肪酸生合成系 "wikilink")参照）。そのため、アセチルCoAの代謝を抑制することで[動脈硬化](https://ja.wikipedia.org/wiki/動脈硬化 "wikilink")、[高脂血症](https://ja.wikipedia.org/wiki/高脂血症 "wikilink")を防ぐ研究が進行中である。
 
 ## 代謝
 
@@ -9,7 +9,7 @@
 
 ## クエン酸-ピルビン酸シャトル
 
-ミトコンドリアから細胞質へアセチルCoAを輸送する回路。細胞質に輸送されたアセチルCoAは[脂肪酸](../Page/脂肪酸.md "wikilink")や[テルペノイド](https://ja.wikipedia.org/wiki/テルペノイド "wikilink")の生合成などに利用される。
+ミトコンドリアから細胞質へアセチルCoAを輸送する回路。細胞質に輸送されたアセチルCoAは[脂肪酸](../Page/脂肪酸.md "wikilink")や[テルペノイド](../Page/テルペノイド.md "wikilink")の生合成などに利用される。
 
 <table>
 <caption>出典[2]</caption>
@@ -81,7 +81,7 @@
 ## 関連項目
 
   - [クエン酸回路](https://ja.wikipedia.org/wiki/クエン酸回路 "wikilink")
-  - [メバロン酸経路](https://ja.wikipedia.org/wiki/メバロン酸経路 "wikilink")
+  - [メバロン酸経路](../Page/メバロン酸経路.md "wikilink")
   - [脂質代謝](https://ja.wikipedia.org/wiki/脂質代謝 "wikilink")
   - [アシルCoA](https://ja.wikipedia.org/wiki/アシルCoA "wikilink")
   - [アセチルCoA合成酵素](https://ja.wikipedia.org/wiki/アセチルCoA合成酵素 "wikilink")

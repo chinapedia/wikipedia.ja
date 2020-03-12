@@ -5,18 +5,18 @@
 
 ## 歴史
 
-従来[原核生物](../Page/原核生物.md "wikilink")の分類は[細胞](../Page/細胞.md "wikilink")の形態、分離の条件、[染色法などで行っていたが](https://ja.wikipedia.org/wiki/染色_\(生物学\) "wikilink")、こうした[表現型](../Page/表現型.md "wikilink")の形質では[系統樹](https://ja.wikipedia.org/wiki/系統樹 "wikilink")上の上下関係を説明するには至らなかった。しかし[1970年代](../Page/1970年代.md "wikilink")、[チトクローム](https://ja.wikipedia.org/wiki/チトクローム "wikilink")、[フェレドキシン](https://ja.wikipedia.org/wiki/フェレドキシン "wikilink")、5S rRNAなどの[塩基配列を基にした系統分類が](https://ja.wikipedia.org/wiki/分子系統学 "wikilink")[分子生物学](../Page/分子生物学.md "wikilink")の発展とともに徐々に活発化してきた。
+従来[原核生物](../Page/原核生物.md "wikilink")の分類は[細胞](../Page/細胞.md "wikilink")の形態、分離の条件、[染色法などで行っていたが](../Page/染色_\(生物学\).md "wikilink")、こうした[表現型](../Page/表現型.md "wikilink")の形質では[系統樹](https://ja.wikipedia.org/wiki/系統樹 "wikilink")上の上下関係を説明するには至らなかった。しかし[1970年代](../Page/1970年代.md "wikilink")、[チトクローム](https://ja.wikipedia.org/wiki/チトクローム "wikilink")、[フェレドキシン](../Page/フェレドキシン.md "wikilink")、5S rRNAなどの[塩基配列を基にした系統分類が](../Page/分子系統学.md "wikilink")[分子生物学](../Page/分子生物学.md "wikilink")の発展とともに徐々に活発化してきた。
 
-[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")の一次構造に基づく系統分類は原核生物に対して特に有効であった。[カール・ウーズ](https://ja.wikipedia.org/wiki/カール・ウーズ "wikilink")らはリボソーム小サブユニットを構成するRNA、つまり16S rRNAの塩基配列を用いて原核生物の系統分類を行い、原核生物が[真正細菌](https://ja.wikipedia.org/wiki/真正細菌 "wikilink")と[古細菌](https://ja.wikipedia.org/wiki/古細菌 "wikilink")という2つの[ドメインからなることを証明した](https://ja.wikipedia.org/wiki/ドメイン_\(分類学\) "wikilink")（[1977年](../Page/1977年.md "wikilink")当時はオリゴヌクレオチドカタログ法を用いた）。
+[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")の一次構造に基づく系統分類は原核生物に対して特に有効であった。[カール・ウーズ](../Page/カール・ウーズ.md "wikilink")らはリボソーム小サブユニットを構成するRNA、つまり16S rRNAの塩基配列を用いて原核生物の系統分類を行い、原核生物が[真正細菌](https://ja.wikipedia.org/wiki/真正細菌 "wikilink")と[古細菌](https://ja.wikipedia.org/wiki/古細菌 "wikilink")という2つの[ドメインからなることを証明した](https://ja.wikipedia.org/wiki/ドメイン_\(分類学\) "wikilink")（[1977年](../Page/1977年.md "wikilink")当時はオリゴヌクレオチドカタログ法を用いた）。
 
-現在、16S rRNAを用いた系統解析は、系統樹の作成のみならず、任意の環境中における細菌・古細菌の群集構造の観測に役立っている。この方法を用いると、分離・培養が困難な難培養性の菌種を含めて網羅的に群集構造を明らかにできる他、新規の菌の存在を配列解析から明らかにする事ができる（1996年のBarnsによる；[メタゲノミクス](https://ja.wikipedia.org/wiki/メタゲノミクス "wikilink")参照）。
+現在、16S rRNAを用いた系統解析は、系統樹の作成のみならず、任意の環境中における細菌・古細菌の群集構造の観測に役立っている。この方法を用いると、分離・培養が困難な難培養性の菌種を含めて網羅的に群集構造を明らかにできる他、新規の菌の存在を配列解析から明らかにする事ができる（1996年のBarnsによる；[メタゲノミクス](../Page/メタゲノミクス.md "wikilink")参照）。
 
 ## 16S rRNA塩基配列が系統解析に適している点
 
 1.  リボソームという生物の本質に関わる機能を持ったRNAなので配列の保存性が高く、極めて関係の遠い生物同士でも配列の比較が可能である。
 2.  真核生物、原核生物問わずすべての種に存在し、機能変化に伴う遺伝子の[変異](https://ja.wikipedia.org/wiki/変異 "wikilink")がこれからも起きる可能性が極めて少ない。
 3.  ゲノム内にコピーが複数個存在しても、塩基配列にほとんど差が無い。
-4.  遺伝子の長さが適当に長く（16S rRNAの場合、1600[塩基対](https://ja.wikipedia.org/wiki/塩基対 "wikilink")程度）、系統解析に十分な情報量を持つ。
+4.  遺伝子の長さが適当に長く（16S rRNAの場合、1600[塩基対](../Page/塩基対.md "wikilink")程度）、系統解析に十分な情報量を持つ。
 5.  比較的変異しやすい部位も存在し、近縁な種でも比較が可能である。
 6.  細胞内に大量に存在し、[PCRの開発がなされる以前から塩基配列の比較が可能であった](../Page/ポリメラーゼ連鎖反応.md "wikilink")。
 7.  全生物にわたって完全に保存された部位が三箇所ほど存在し、そうした[プライマー](https://ja.wikipedia.org/wiki/プライマー "wikilink")（**ユニバーサルプライマー**）を設計することにより塩基配列の決定が容易である。
@@ -25,7 +25,7 @@
 
 ## 実際の用法
 
-16S rRNAを利用する際は、ユニバーサルプライマーを用いて[PCRによる増幅を行い](../Page/ポリメラーゼ連鎖反応.md "wikilink")、得られた増幅産物をクローニングした後に[シークエンス](../Page/シークエンス.md "wikilink")反応を行う方法が一般的である。ただ、最近はシークエンシング反応を行わなくても群集構造の解析が可能な[DGGE](https://ja.wikipedia.org/wiki/DGGE "wikilink")(Denaturing Gradient Gel Electrophoresis)、顕微鏡で直接観察できる[FISHなどの広い応用範囲がある](https://ja.wikipedia.org/wiki/蛍光_in_situ_ハイブリダイゼーション "wikilink")。かつては[制限酵素](https://ja.wikipedia.org/wiki/制限酵素 "wikilink")を用いた[RFLP](https://ja.wikipedia.org/wiki/RFLP "wikilink")などが使用されていたが、現在はDGGEに取って代わられつつある。
+16S rRNAを利用する際は、ユニバーサルプライマーを用いて[PCRによる増幅を行い](../Page/ポリメラーゼ連鎖反応.md "wikilink")、得られた増幅産物をクローニングした後に[シークエンス](../Page/シークエンス.md "wikilink")反応を行う方法が一般的である。ただ、最近はシークエンシング反応を行わなくても群集構造の解析が可能な[DGGE](../Page/DGGE.md "wikilink")(Denaturing Gradient Gel Electrophoresis)、顕微鏡で直接観察できる[FISHなどの広い応用範囲がある](https://ja.wikipedia.org/wiki/蛍光_in_situ_ハイブリダイゼーション "wikilink")。かつては[制限酵素](https://ja.wikipedia.org/wiki/制限酵素 "wikilink")を用いた[RFLP](../Page/RFLP.md "wikilink")などが使用されていたが、現在はDGGEに取って代わられつつある。
 
 ## 問題点
 

@@ -1,7 +1,7 @@
 > この記事は[Tokyo](https://ja.wikipedia.org/wiki/Tokyo)から翻訳されています。
 
 
-『**三國一朗の土曜ワイドラジオTokyo**』（みくにいちろうのどようワイドラジオトーキョー）は、[1975年](../Page/1975年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")から[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")まで[TBSラジオ](../Page/TBSラジオ.md "wikilink")で放送されていた[ワイド番組](https://ja.wikipedia.org/wiki/ワイド番組 "wikilink")である。放送時間は毎週土曜 9:05 - 17:00 （[日本標準時](../Page/日本標準時.md "wikilink")）。
+『**三國一朗の土曜ワイドラジオTokyo**』（みくにいちろうのどようワイドラジオトーキョー）は、[1975年](../Page/1975年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")から[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")まで[TBSラジオ](../Page/TBSラジオ.md "wikilink")で放送されていた[ワイド番組](../Page/ワイド番組.md "wikilink")である。放送時間は毎週土曜 9:05 - 17:00 （[日本標準時](../Page/日本標準時.md "wikilink")）。
 
 ## 概要
 
@@ -16,18 +16,18 @@ TBSラジオ土曜の生ワイド『[土曜ワイドラジオTOKYO](https://ja.w
 
 ## 出演者
 
-  - [三國一朗](https://ja.wikipedia.org/wiki/三國一朗 "wikilink")
+  - [三國一朗](../Page/三國一朗.md "wikilink")
   - [遠藤泰子](../Page/遠藤泰子.md "wikilink") - 1976年3月まで出演。
-  - [岩崎直子](https://ja.wikipedia.org/wiki/岩崎直子 "wikilink")（当時TBSアナウンサー） - 1976年4月から出演。
+  - [岩崎直子](../Page/岩崎直子.md "wikilink")（当時TBSアナウンサー） - 1976年4月から出演。
   - [毒蝮三太夫](../Page/毒蝮三太夫.md "wikilink")
-  - [久米宏](https://ja.wikipedia.org/wiki/久米宏 "wikilink")（当時TBSアナウンサー）
-  - [小島一慶](https://ja.wikipedia.org/wiki/小島一慶 "wikilink")（当時TBSアナウンサー） - 12:00からの出演者。
+  - [久米宏](../Page/久米宏.md "wikilink")（当時TBSアナウンサー）
+  - [小島一慶](../Page/小島一慶.md "wikilink")（当時TBSアナウンサー） - 12:00からの出演者。
   - [生島ヒロシ](../Page/生島ヒロシ.md "wikilink")（当時TBSアナウンサー）
-  - [古今亭志ん駒](https://ja.wikipedia.org/wiki/古今亭志ん駒 "wikilink")
+  - [古今亭志ん駒](../Page/古今亭志ん駒.md "wikilink")
 
 ## コーナー
 
-  - [秋山ちえ子の談話室](https://ja.wikipedia.org/wiki/秋山ちえ子の談話室 "wikilink")（10:00）
+  - [秋山ちえ子の談話室](../Page/秋山ちえ子の談話室.md "wikilink")（10:00）
   - [東食ミュージックプレゼント](../Page/毒蝮三太夫のミュージックプレゼント.md "wikilink")（10:30）
   - 東京の街 ここはどこでしょう（11:05）
   - [永六輔の誰かとどこかで](../Page/永六輔の誰かとどこかで.md "wikilink")（11:50）

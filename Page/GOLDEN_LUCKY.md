@@ -1,7 +1,7 @@
 > この記事は[GOLDEN LUCKY](https://ja.wikipedia.org/wiki/GOLDEN_LUCKY)から翻訳されています。
 
 
-『**GOLDEN LUCKY**』（ゴールデンラッキー）は、[榎本俊二](https://ja.wikipedia.org/wiki/榎本俊二 "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[モーニング](https://ja.wikipedia.org/wiki/モーニング_\(漫画雑誌\) "wikilink")』（[講談社](../Page/講談社.md "wikilink")）において1990年4・5号から1996年20号まで連載されていた[4コマ漫画](../Page/4コマ漫画.md "wikilink")。単行本はワイドKCモーニング（講談社）全10巻、完全版（[太田出版](https://ja.wikipedia.org/wiki/太田出版 "wikilink")）全3巻。略称は**ゴッキー**。
+『**GOLDEN LUCKY**』（ゴールデンラッキー）は、[榎本俊二](../Page/榎本俊二.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[モーニング](https://ja.wikipedia.org/wiki/モーニング_\(漫画雑誌\) "wikilink")』（[講談社](../Page/講談社.md "wikilink")）において1990年4・5号から1996年20号まで連載されていた[4コマ漫画](../Page/4コマ漫画.md "wikilink")。単行本はワイドKCモーニング（講談社）全10巻、完全版（[太田出版](../Page/太田出版.md "wikilink")）全3巻。略称は**ゴッキー**。
 
 ## 概要
 
@@ -28,7 +28,7 @@
   - かまくら
     「かまくらシリーズ」の主人公である中年男性。頭には本物の雪でできた[かまくら](../Page/かまくら.md "wikilink")を乗せており、常に「俺はかまくらだ〜\!」と叫びながら走っている。かまくらが外れると元のスーツ姿のサラリーマンに戻る。
   - スケートパパ
-    全身黒タイツの眼鏡をかけた男性。道が凍った日はスケートで通勤している。「スケートかまくら」を名乗り自分よりも速く滑るかまくらをライバル視しており、自分も「かまくらスケートパパ」にパワーアップして勝負を挑むが[マンホール](https://ja.wikipedia.org/wiki/マンホール "wikilink")に落ちてかまくらを失ってしまい、完敗した。
+    全身黒タイツの眼鏡をかけた男性。道が凍った日はスケートで通勤している。「スケートかまくら」を名乗り自分よりも速く滑るかまくらをライバル視しており、自分も「かまくらスケートパパ」にパワーアップして勝負を挑むが[マンホール](../Page/マンホール.md "wikilink")に落ちてかまくらを失ってしまい、完敗した。
   - 部長
     「ぬいぐるみシリーズ」に登場する、「クマちゃん」と名付けた熊のぬいぐるみを溺愛している男性。常にぬいぐるみを背負って生活している。その溺愛っぷりはすさまじいもので、クリーニングのために[有給休暇](https://ja.wikipedia.org/wiki/有給休暇 "wikilink")をとったり、自分の息子を旅行に連れて行き忘れたりするほど。
   - タケシ
@@ -54,7 +54,7 @@
 
 ## 書誌情報
 
-[榎本俊二](https://ja.wikipedia.org/wiki/榎本俊二 "wikilink") 『GOLDEN LUCKY』 [講談社](../Page/講談社.md "wikilink")〈[ワイドKCモーニング](https://ja.wikipedia.org/wiki/モーニング_\(漫画雑誌\)#モーニングKC "wikilink")〉、全10巻
+[榎本俊二](../Page/榎本俊二.md "wikilink") 『GOLDEN LUCKY』 [講談社](../Page/講談社.md "wikilink")〈[ワイドKCモーニング](https://ja.wikipedia.org/wiki/モーニング_\(漫画雑誌\)#モーニングKC "wikilink")〉、全10巻
 
   - 第1巻、1990年10月23日初版発行、ISBN 4-06-176595-7
   - 第2巻、1991年6月22日初版発行、ISBN 4-06-176608-2
@@ -68,7 +68,7 @@
   - 第10巻、1996年5月23日初版発行、ISBN 4-06-337301-0
       - 第10巻には短編作品『涙の権三』を併録。
 
-[榎本俊二](https://ja.wikipedia.org/wiki/榎本俊二 "wikilink") 『GOLDEN LUCKY 完全版』 [太田出版](https://ja.wikipedia.org/wiki/太田出版 "wikilink")、全3巻
+[榎本俊二](../Page/榎本俊二.md "wikilink") 『GOLDEN LUCKY 完全版』 [太田出版](../Page/太田出版.md "wikilink")、全3巻
 
   - 上 1989-1991、2002年4月初版発行、ISBN 4-87233-653-4
   - 中 1992-1993、2002年5月初版発行、ISBN 4-87233-665-8

@@ -1,19 +1,19 @@
 > この記事は[YURIA ](https://ja.wikipedia.org/wiki/YURIA_)から翻訳されています。
 
 
-**せいやん・YURIAの美少女ゲームは嫌い**（せいやん・ユリアのびしょうじょゲームはきらい）は、[ラジオ大阪の](https://ja.wikipedia.org/wiki/大阪放送 "wikilink")[V-STATION枠内で放送されていた](https://ja.wikipedia.org/wiki/1314_V-STATION "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
+**せいやん・YURIAの美少女ゲームは嫌い**（せいやん・ユリアのびしょうじょゲームはきらい）は、[ラジオ大阪の](../Page/大阪放送.md "wikilink")[V-STATION枠内で放送されていた](../Page/1314_V-STATION.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
 
 __TOC__{{-}}
 
 ## 概要
 
-[美少女ゲーム](https://ja.wikipedia.org/wiki/美少女ゲーム "wikilink")情報を中心とした番組で、略称は「美少女ゲームは嫌い」。パーソナリティであるYURIAの「キ・ラ・イ」の言い回しが特徴的である。番組名に「嫌い」とあるが実際は正反対で様々な美少女ゲーム（主に[PCゲーム](../Page/パソコンゲーム.md "wikilink")）を取り扱っている。 2006年10月8日よりラジオ大阪で放送開始され同年12月までの1[クールは月](https://ja.wikipedia.org/wiki/クール_\(放送\) "wikilink")2回を目安とした不定期放送。2007年1月より原則として月2回の隔週放送となった。2007年4月からは放送時間が金曜夜に移動して、また[ラジオ日本でもネットを開始した](../Page/アール・エフ・ラジオ日本.md "wikilink")。 消えゆくV-STATIONの番組の中で唯一男性からの支持を多く受けた番組で、2009年4月に終了。 [2009年](../Page/2009年.md "wikilink")[10月9日](../Page/10月9日.md "wikilink")から15分番組として放送が再開された。[美少女ゲーム](https://ja.wikipedia.org/wiki/美少女ゲーム "wikilink")情報を中心とした番組としては、[文化放送](https://ja.wikipedia.org/wiki/文化放送 "wikilink")[超\!A\&G+](https://ja.wikipedia.org/wiki/超!A&G+ "wikilink")に[じゅうはちキン\!-自由ではちゃめちゃRockin' Radio-があるものの](https://ja.wikipedia.org/wiki/じゅうはちキン!-自由ではちゃめちゃRockin'_Radio- "wikilink")、番組としての歴史はこの番組が最古であり、美少女ゲーム業界からの注目も高い。ラジオ大阪の1314Vステーションプログラムの中では、[ポリケロこんじゃく](https://ja.wikipedia.org/wiki/ポリケロこんじゃく "wikilink")と双璧をなす、「業界関係者バラエティ」と化している。 放送回数は200回を越えたが、200回にあたる時期が東日本大震災と同じ時期になったため、記念企画が見送られた。 2010年10月8日から[HiBiKi Radio Stationで配信が始まり](https://ja.wikipedia.org/wiki/HiBiKi_Radio_Station "wikilink")、インターネットを通じて全国で視聴出来る様になった。
+[美少女ゲーム](../Page/美少女ゲーム.md "wikilink")情報を中心とした番組で、略称は「美少女ゲームは嫌い」。パーソナリティであるYURIAの「キ・ラ・イ」の言い回しが特徴的である。番組名に「嫌い」とあるが実際は正反対で様々な美少女ゲーム（主に[PCゲーム](../Page/パソコンゲーム.md "wikilink")）を取り扱っている。 2006年10月8日よりラジオ大阪で放送開始され同年12月までの1[クールは月](../Page/クール_\(放送\).md "wikilink")2回を目安とした不定期放送。2007年1月より原則として月2回の隔週放送となった。2007年4月からは放送時間が金曜夜に移動して、また[ラジオ日本でもネットを開始した](../Page/アール・エフ・ラジオ日本.md "wikilink")。 消えゆくV-STATIONの番組の中で唯一男性からの支持を多く受けた番組で、2009年4月に終了。 [2009年](../Page/2009年.md "wikilink")[10月9日](../Page/10月9日.md "wikilink")から15分番組として放送が再開された。[美少女ゲーム](../Page/美少女ゲーム.md "wikilink")情報を中心とした番組としては、[文化放送](../Page/文化放送.md "wikilink")[超\!A\&G+](https://ja.wikipedia.org/wiki/超!A&G+ "wikilink")に[じゅうはちキン\!-自由ではちゃめちゃRockin' Radio-があるものの](https://ja.wikipedia.org/wiki/じゅうはちキン!-自由ではちゃめちゃRockin'_Radio- "wikilink")、番組としての歴史はこの番組が最古であり、美少女ゲーム業界からの注目も高い。ラジオ大阪の1314Vステーションプログラムの中では、[ポリケロこんじゃく](https://ja.wikipedia.org/wiki/ポリケロこんじゃく "wikilink")と双璧をなす、「業界関係者バラエティ」と化している。 放送回数は200回を越えたが、200回にあたる時期が東日本大震災と同じ時期になったため、記念企画が見送られた。 2010年10月8日から[HiBiKi Radio Stationで配信が始まり](https://ja.wikipedia.org/wiki/HiBiKi_Radio_Station "wikilink")、インターネットを通じて全国で視聴出来る様になった。
 
-2013年10月26日、[最終回](https://ja.wikipedia.org/wiki/最終回 "wikilink")をむかえた。
+2013年10月26日、[最終回](../Page/最終回.md "wikilink")をむかえた。
 
 ## 放送時間
 
-  - [ラジオ大阪](https://ja.wikipedia.org/wiki/大阪放送 "wikilink")（[1314 V-STATION枠内](https://ja.wikipedia.org/wiki/1314_V-STATION "wikilink")）
+  - [ラジオ大阪](../Page/大阪放送.md "wikilink")（[1314 V-STATION枠内](../Page/1314_V-STATION.md "wikilink")）
 
 <!-- end list -->
 
@@ -25,7 +25,7 @@ __TOC__{{-}}
 <!-- end list -->
 
   -
-    ラジオ大阪では、放送時間の変更前までは後続の番組が無かった為、番組終了後すぐに局の[クロージングが放送されていた](https://ja.wikipedia.org/wiki/局名告知 "wikilink")。
+    ラジオ大阪では、放送時間の変更前までは後続の番組が無かった為、番組終了後すぐに局の[クロージングが放送されていた](../Page/局名告知.md "wikilink")。
 
 <!-- end list -->
 
@@ -49,11 +49,11 @@ __TOC__{{-}}
 ## パーソナリティ
 
   - [片岡せいやん](https://ja.wikipedia.org/wiki/片岡せいやん "wikilink")
-  - [YURIA](https://ja.wikipedia.org/wiki/YURIA "wikilink")
+  - [YURIA](../Page/YURIA.md "wikilink")
 
 ## スタッフ
 
-  - 構成作家：[伊福部崇](https://ja.wikipedia.org/wiki/伊福部崇 "wikilink")
+  - 構成作家：[伊福部崇](../Page/伊福部崇.md "wikilink")
   - プロデューサー：石田豊
 
 ## コーナー
@@ -74,8 +74,8 @@ __TOC__{{-}}
 <!-- end list -->
 
   -
-    [ゲスト](https://ja.wikipedia.org/wiki/ゲスト "wikilink")：[yozuca\*](https://ja.wikipedia.org/wiki/yozuca* "wikilink")・[佐藤ひろ美](https://ja.wikipedia.org/wiki/佐藤ひろ美 "wikilink")、[bamboo](https://ja.wikipedia.org/wiki/bamboo "wikilink")、[綾川りの](../Page/綾川りの.md "wikilink")ほか
-    コメントのみでの出演：[後藤邑子](https://ja.wikipedia.org/wiki/後藤邑子 "wikilink")、[佐久間紅美](https://ja.wikipedia.org/wiki/佐久間紅美 "wikilink")、[吉住梢](https://ja.wikipedia.org/wiki/吉住梢 "wikilink")、[田中一成](https://ja.wikipedia.org/wiki/田中一成 "wikilink")
+    [ゲスト](https://ja.wikipedia.org/wiki/ゲスト "wikilink")：[yozuca\*](https://ja.wikipedia.org/wiki/yozuca* "wikilink")・[佐藤ひろ美](../Page/佐藤ひろ美.md "wikilink")、[bamboo](https://ja.wikipedia.org/wiki/bamboo "wikilink")、[綾川りの](../Page/綾川りの.md "wikilink")ほか
+    コメントのみでの出演：[後藤邑子](https://ja.wikipedia.org/wiki/後藤邑子 "wikilink")、[佐久間紅美](../Page/佐久間紅美.md "wikilink")、[吉住梢](../Page/吉住梢.md "wikilink")、[田中一成](../Page/田中一成.md "wikilink")
 
 <!-- end list -->
 
@@ -84,8 +84,8 @@ __TOC__{{-}}
 <!-- end list -->
 
   -
-    ゲスト：[KON](https://ja.wikipedia.org/wiki/KON "wikilink")、[ゆずソフト](https://ja.wikipedia.org/wiki/ゆずソフト "wikilink")、[ういんどみる](https://ja.wikipedia.org/wiki/ういんどみる "wikilink")、[コットンソフト](https://ja.wikipedia.org/wiki/コットンソフト "wikilink")
-    電話ゲスト：田中一成、佐藤ひろ美、yozuca\*、[橋本みゆき](https://ja.wikipedia.org/wiki/橋本みゆき "wikilink")、[真優](https://ja.wikipedia.org/wiki/真優 "wikilink")ほか
+    ゲスト：[KON](https://ja.wikipedia.org/wiki/KON "wikilink")、[ゆずソフト](../Page/ゆずソフト.md "wikilink")、[ういんどみる](../Page/ういんどみる.md "wikilink")、[コットンソフト](../Page/コットンソフト.md "wikilink")
+    電話ゲスト：田中一成、佐藤ひろ美、yozuca\*、[橋本みゆき](../Page/橋本みゆき.md "wikilink")、[真優](../Page/真優.md "wikilink")ほか
 
 <!-- end list -->
 
@@ -94,7 +94,7 @@ __TOC__{{-}}
 <!-- end list -->
 
   -
-    ゲスト：yozuca\*、佐藤ひろ美、[bamboo](https://ja.wikipedia.org/wiki/bamboo "wikilink")、若月Riko、田中一成、ういんどみる、橋本みゆき、[新堂真弓](https://ja.wikipedia.org/wiki/新堂真弓 "wikilink")、KON、コットンソフト
+    ゲスト：yozuca\*、佐藤ひろ美、[bamboo](https://ja.wikipedia.org/wiki/bamboo "wikilink")、若月Riko、田中一成、ういんどみる、橋本みゆき、[新堂真弓](../Page/新堂真弓.md "wikilink")、KON、コットンソフト
 
 <!-- end list -->
 
@@ -103,7 +103,7 @@ __TOC__{{-}}
 <!-- end list -->
 
   -
-    ゲスト：田中一成、佐藤ひろ美、yozuca\*、のみこ、細井総司、Rita、KON、加瀬愛奈、[bamboo](https://ja.wikipedia.org/wiki/bamboo "wikilink")、UR@N、[新堂真弓](https://ja.wikipedia.org/wiki/新堂真弓 "wikilink")ほか
+    ゲスト：田中一成、佐藤ひろ美、yozuca\*、のみこ、細井総司、Rita、KON、加瀬愛奈、[bamboo](https://ja.wikipedia.org/wiki/bamboo "wikilink")、UR@N、[新堂真弓](../Page/新堂真弓.md "wikilink")ほか
 
 <!-- end list -->
 

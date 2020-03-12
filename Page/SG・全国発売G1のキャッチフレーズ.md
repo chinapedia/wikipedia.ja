@@ -7,7 +7,7 @@
 
 （空欄になっているのはキャッチフレーズが無かった、あるいは不明／**太字**はナイターレース）
 
-### [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")
+### [2006年](../Page/2006年.md "wikilink")
 
 <table>
 <thead>
@@ -22,28 +22,28 @@
 <tbody>
 <tr class="odd">
 <td><p>G1</p></td>
-<td><p>第20回記念<a href="https://ja.wikipedia.org/wiki/新鋭王座決定戦競走" title="wikilink">新鋭王座決定戦競走</a></p></td>
+<td><p>第20回記念<a href="../Page/新鋭王座決定戦競走.md" title="wikilink">新鋭王座決定戦競走</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/唐津競艇場" title="wikilink">唐津</a></p></td>
 <td><p>1/24～29</p></td>
 <td><p>いざ、決戦の舞台へ。</p></td>
 </tr>
 <tr class="even">
 <td><p>G1</p></td>
-<td><p>第19回<a href="https://ja.wikipedia.org/wiki/女子王座決定戦競走" title="wikilink">JAL女子王座決定戦競走</a></p></td>
+<td><p>第19回<a href="../Page/女子王座決定戦競走.md" title="wikilink">JAL女子王座決定戦競走</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/浜名湖競艇場" title="wikilink">浜名湖</a></p></td>
 <td><p>2/28～3/5</p></td>
 <td><p>日本の強い女決定戦</p></td>
 </tr>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p>第41回<a href="https://ja.wikipedia.org/wiki/鳳凰賞競走" title="wikilink">総理大臣杯競走</a></p></td>
+<td><p>第41回<a href="../Page/鳳凰賞競走.md" title="wikilink">総理大臣杯競走</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/平和島競艇場" title="wikilink">平和島</a></p></td>
 <td><p>3/16～21</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>G1</p></td>
-<td><p>第7回<a href="https://ja.wikipedia.org/wiki/名人戦競走" title="wikilink">競艇名人戦競走</a></p></td>
+<td><p>第7回<a href="../Page/名人戦競走.md" title="wikilink">競艇名人戦競走</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/尼崎競艇場" title="wikilink">尼崎</a></p></td>
 <td><p>4/18～23</p></td>
 <td><p>勝利者だけが、「真名人」。</p></td>
@@ -52,20 +52,20 @@
 <td><p>2</p></td>
 <td><p>第33回<a href="https://ja.wikipedia.org/wiki/笹川賞競走" title="wikilink">笹川賞競走</a><br />
 競艇オールスター</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/戸田競艇場" title="wikilink">戸田</a></p></td>
+<td><p><a href="../Page/戸田競艇場.md" title="wikilink">戸田</a></p></td>
 <td><p>5/23～28</p></td>
 <td><p>5/23、艇宴開幕</p></td>
 </tr>
 <tr class="even">
 <td><p>3</p></td>
-<td><p>第16回<a href="https://ja.wikipedia.org/wiki/グランドチャンピオン決定戦競走" title="wikilink">グランドチャンピオン決定戦競走</a></p></td>
+<td><p>第16回<a href="../Page/グランドチャンピオン決定戦競走.md" title="wikilink">グランドチャンピオン決定戦競走</a></p></td>
 <td><p>浜名湖</p></td>
 <td><p>6/20～25</p></td>
 <td><p>日本人が考えたスポーツで、日本人が楽しめないはずがない。</p></td>
 </tr>
 <tr class="odd">
 <td><p>4</p></td>
-<td><p>第11回<a href="https://ja.wikipedia.org/wiki/オーシャンカップ競走" title="wikilink">オーシャンカップ競走</a></p></td>
+<td><p>第11回<a href="../Page/オーシャンカップ競走.md" title="wikilink">オーシャンカップ競走</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/若松競艇場" title="wikilink">若松</a><br />
 （ナイターレース）</p></td>
 <td><p>7/25～30</p></td>
@@ -75,7 +75,7 @@
 <td><p>5</p></td>
 <td><p>第52回<a href="https://ja.wikipedia.org/wiki/モーターボート記念競走" title="wikilink">モーターボート記念競走</a><br />
 競艇甲子園</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/桐生競艇場" title="wikilink">桐生</a><br />
+<td><p><a href="../Page/桐生競艇場.md" title="wikilink">桐生</a><br />
 （ナイターレース）</p></td>
 <td><p>8/29～9/3</p></td>
 <td></td>
@@ -84,14 +84,14 @@
 <td><p>6</p></td>
 <td><p>第53回<a href="https://ja.wikipedia.org/wiki/全日本選手権競走" title="wikilink">全日本選手権競走</a><br />
 競艇ダービー</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡競艇場" title="wikilink">福岡</a></p></td>
+<td><p><a href="../Page/福岡競艇場.md" title="wikilink">福岡</a></p></td>
 <td><p>10/24～29</p></td>
 <td><p>この歴史的祭典を見逃すな。</p></td>
 </tr>
 <tr class="even">
 <td><p>7</p></td>
 <td><p>第9回<a href="https://ja.wikipedia.org/wiki/チャレンジカップ競走" title="wikilink">競艇王チャレンジカップ競走</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/丸亀競艇場" title="wikilink">丸亀</a></p></td>
+<td><p><a href="../Page/丸亀競艇場.md" title="wikilink">丸亀</a></p></td>
 <td><p>11/21～26</p></td>
 <td><p>一発逆転</p></td>
 </tr>
@@ -106,7 +106,7 @@
 </tbody>
 </table>
 
-### [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")
+### [2007年](../Page/2007年.md "wikilink")
 
 <table>
 <thead>
@@ -129,7 +129,7 @@
 <tr class="even">
 <td><p>G1</p></td>
 <td><p>第20回記念JAL女子王座決定戦競走</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/徳山競艇場" title="wikilink">徳山</a></p></td>
+<td><p><a href="../Page/徳山競艇場.md" title="wikilink">徳山</a></p></td>
 <td><p>2/27～3/4</p></td>
 <td><p>美艇旋風（ビューティー・センセーション）</p></td>
 </tr>
@@ -221,28 +221,28 @@
 <tr class="odd">
 <td><p>G1</p></td>
 <td><p>第22回新鋭王座決定戦競走</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/丸亀競艇場" title="wikilink">丸亀</a></p></td>
+<td><p><a href="../Page/丸亀競艇場.md" title="wikilink">丸亀</a></p></td>
 <td><p>1/22～27</p></td>
 <td><p>いざ、新波の頂点へ　～New Generetion Battle～</p></td>
 </tr>
 <tr class="even">
 <td><p>G1</p></td>
 <td><p>第21回JAL女子王座決定戦競走</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/津競艇場" title="wikilink">津</a></p></td>
+<td><p><a href="../Page/津競艇場.md" title="wikilink">津</a></p></td>
 <td><p>3/4～9</p></td>
 <td><p>男の中の男よりも、女の中の女</p></td>
 </tr>
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>第43回総理大臣杯競走</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/児島競艇場" title="wikilink">児島</a></p></td>
+<td><p><a href="../Page/児島競艇場.md" title="wikilink">児島</a></p></td>
 <td><p>3/25～30</p></td>
 <td><p>春に舞う、夢の競宴・その感動、一期一会</p></td>
 </tr>
 <tr class="even">
 <td><p>G1</p></td>
 <td><p>第9回競艇名人戦競走</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/宮島競艇場" title="wikilink">宮島</a></p></td>
+<td><p><a href="../Page/宮島競艇場.md" title="wikilink">宮島</a></p></td>
 <td><p>4/15～20</p></td>
 <td><p>神技2008in宮島決戦</p></td>
 </tr>
@@ -330,7 +330,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>第44回総理大臣杯競走</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/多摩川競艇場" title="wikilink">多摩川</a></p></td>
+<td><p><a href="../Page/多摩川競艇場.md" title="wikilink">多摩川</a></p></td>
 <td><p>3/17～22</p></td>
 <td><p>春の魔物を制する者が、多摩川を制す！<br />
 ～Rord to SUMINOE2009・開幕戦～</p></td>
@@ -338,21 +338,21 @@
 <tr class="even">
 <td><p>G1</p></td>
 <td><p>第10回記念競艇名人戦競走</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/鳴門競艇場" title="wikilink">鳴門</a></p></td>
+<td><p><a href="../Page/鳴門競艇場.md" title="wikilink">鳴門</a></p></td>
 <td><p>4/14～19</p></td>
 <td><p>百花の魁よ・千紫万紅の春に舞え</p></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
 <td><p>第36回笹川賞競走</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡競艇場" title="wikilink">福岡</a></p></td>
+<td><p><a href="../Page/福岡競艇場.md" title="wikilink">福岡</a></p></td>
 <td><p>5/26～31</p></td>
 <td><p>魂に降り注ぐ輝き。</p></td>
 </tr>
 <tr class="even">
 <td><p>3</p></td>
 <td><p>第19回グランドチャンピオン決定戦競走</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/戸田競艇場" title="wikilink">戸田</a></p></td>
+<td><p><a href="../Page/戸田競艇場.md" title="wikilink">戸田</a></p></td>
 <td><p>6/23～28</p></td>
 <td><p>白黒つける。</p></td>
 </tr>
@@ -367,7 +367,7 @@
 <tr class="even">
 <td><p>5</p></td>
 <td><p>第55回記念モーターボート記念競走</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/丸亀競艇場" title="wikilink">丸亀</a><br />
+<td><p><a href="../Page/丸亀競艇場.md" title="wikilink">丸亀</a><br />
 （ナイターレース）</p></td>
 <td><p>8/25～30</p></td>
 <td><p>今宵、星（スター）となれ。</p></td>
@@ -433,7 +433,7 @@
 <tr class="even">
 <td><p>G1</p></td>
 <td><p>第11回競艇名人戦競走</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/徳山競艇場" title="wikilink">徳山</a></p></td>
+<td><p><a href="../Page/徳山競艇場.md" title="wikilink">徳山</a></p></td>
 <td><p>4/13~18</p></td>
 <td><p>幾多の名勝負を見せてくれた、あの頃の輝き・再燐。</p></td>
 </tr>
@@ -454,7 +454,7 @@
 <tr class="odd">
 <td><p>4</p></td>
 <td><p>第15回オーシャンカップ競走</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/丸亀競艇場" title="wikilink">丸亀</a><br />
+<td><p><a href="../Page/丸亀競艇場.md" title="wikilink">丸亀</a><br />
 （ナイターレース）</p></td>
 <td><p>7/14~19</p></td>
 <td><p>一番輝くのは、誰だ。</p></td>
@@ -470,7 +470,7 @@
 <tr class="odd">
 <td><p>6</p></td>
 <td><p>第57回全日本選手権競走</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/桐生競艇場" title="wikilink">桐生</a><br />
+<td><p><a href="../Page/桐生競艇場.md" title="wikilink">桐生</a><br />
 （ナイターレース）</p></td>
 <td><p>10/6~11</p></td>
 <td><p>WELCOME! DREAM NIGHT<br />
@@ -511,7 +511,7 @@
 <tr class="odd">
 <td><p>G1</p></td>
 <td><p>第25回新鋭王座決定戦競走</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/宮島競艇場" title="wikilink">宮島</a></p></td>
+<td><p><a href="../Page/宮島競艇場.md" title="wikilink">宮島</a></p></td>
 <td><p>1/25~30</p></td>
 <td><p>龍神降臨</p></td>
 </tr>
@@ -525,7 +525,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>第46回総理大臣杯競走</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/戸田競艇場" title="wikilink">戸田</a></p></td>
+<td><p><a href="../Page/戸田競艇場.md" title="wikilink">戸田</a></p></td>
 <td><p>開催中止[2]</p></td>
 <td><p>春は戸田から…</p></td>
 </tr>
@@ -548,7 +548,7 @@
 <tr class="even">
 <td><p>3</p></td>
 <td><p>第21回グランドチャンピオン決定戦競走★</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/児島競艇場" title="wikilink">児島</a></p></td>
+<td><p><a href="../Page/児島競艇場.md" title="wikilink">児島</a></p></td>
 <td><p>6/21~26</p></td>
 <td><p>だれもがみんな熱くなる！<br />
 ～児島から東日本へ！頑張ろう東北～</p></td>
@@ -572,7 +572,7 @@
 <tr class="odd">
 <td><p>5</p></td>
 <td><p>第57回モーターボート記念競走</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡競艇場" title="wikilink">福岡</a></p></td>
+<td><p><a href="../Page/福岡競艇場.md" title="wikilink">福岡</a></p></td>
 <td><p>8/23~28</p></td>
 <td><p>輝く頂きへ、強者が集う。</p></td>
 </tr>
@@ -625,7 +625,7 @@
 <tr class="even">
 <td><p>G1</p></td>
 <td><p>第25回女子王座決定戦競走</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/多摩川競艇場" title="wikilink">多摩川</a></p></td>
+<td><p><a href="../Page/多摩川競艇場.md" title="wikilink">多摩川</a></p></td>
 <td><p>2/28~3/4</p></td>
 <td><p>その動き、その品格、その姿。美・走・覇<br />
 ～さあ、次の女王を探しに行こう。～</p></td>
@@ -633,7 +633,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>第47回総理大臣杯競走</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/戸田競艇場" title="wikilink">戸田</a></p></td>
+<td><p><a href="../Page/戸田競艇場.md" title="wikilink">戸田</a></p></td>
 <td><p>3/15~20</p></td>
 <td><p>二年分の春　戸田から…</p></td>
 </tr>
@@ -677,7 +677,7 @@
 <tr class="odd">
 <td><p>5</p></td>
 <td><p>第58回モーターボート記念競走</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/桐生競艇場" title="wikilink">桐生</a><br />
+<td><p><a href="../Page/桐生競艇場.md" title="wikilink">桐生</a><br />
 （ナイターレース）</p></td>
 <td><p>8/21~26</p></td>
 <td><p>今年唯一のナイターSG!<br />
@@ -687,14 +687,14 @@ It's showtime!</p></td>
 <tr class="even">
 <td><p>G1</p></td>
 <td><p>第27回新鋭王座決定戦競走</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/徳山競艇場" title="wikilink">徳山</a></p></td>
+<td><p><a href="../Page/徳山競艇場.md" title="wikilink">徳山</a></p></td>
 <td><p>9/25~30</p></td>
 <td><p>Road to Next Stage 俺たちの時代が、ここから始まる。</p></td>
 </tr>
 <tr class="odd">
 <td><p>6</p></td>
 <td><p>第59回全日本選手権競走</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡競艇場" title="wikilink">福岡</a></p></td>
+<td><p><a href="../Page/福岡競艇場.md" title="wikilink">福岡</a></p></td>
 <td><p>10/23~28</p></td>
 <td><p>究極の勝利へ、<br />
 頂上決戦、福岡。</p></td>
@@ -702,7 +702,7 @@ It's showtime!</p></td>
 <tr class="even">
 <td><p>7</p></td>
 <td><p>第15回チャレンジカップ競走</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/児島競艇場" title="wikilink">児島</a></p></td>
+<td><p><a href="../Page/児島競艇場.md" title="wikilink">児島</a></p></td>
 <td><p>11/20~25</p></td>
 <td><p>かきまわせ、最後のドラマ。<br />
 挑戦がある、だから未来は面白い。</p></td>
@@ -755,7 +755,7 @@ It's showtime!</p></td>
 <tr class="odd">
 <td><p>2</p></td>
 <td><p>第40回笹川賞競走</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡競艇場" title="wikilink">福岡</a></p></td>
+<td><p><a href="../Page/福岡競艇場.md" title="wikilink">福岡</a></p></td>
 <td><p>5/21~26</p></td>
 <td><p>守るべき約束がある。貫く想いがある。</p></td>
 </tr>
@@ -777,14 +777,14 @@ It's showtime!</p></td>
 <tr class="even">
 <td><p>G1</p></td>
 <td><p>第27回女子王座決定戦競走</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/鳴門競艇場" title="wikilink">鳴門</a></p></td>
+<td><p><a href="../Page/鳴門競艇場.md" title="wikilink">鳴門</a></p></td>
 <td><p>7/31~8/5</p></td>
 <td><p>皆の思いを翼にのせて。</p></td>
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
 <td><p>第59回モーターボート記念競走</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/丸亀競艇場" title="wikilink">丸亀</a><br />
+<td><p><a href="../Page/丸亀競艇場.md" title="wikilink">丸亀</a><br />
 （ナイターレース）</p></td>
 <td><p>8/27~9/1</p></td>
 <td><p>MEET ON BOAT ハジケル出会いが待っている!</p></td>
@@ -792,7 +792,7 @@ It's showtime!</p></td>
 <tr class="even">
 <td><p>G1</p></td>
 <td><p>第28回新鋭王座決定戦競走</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/桐生競艇場" title="wikilink">桐生</a><br />
+<td><p><a href="../Page/桐生競艇場.md" title="wikilink">桐生</a><br />
 （ナイターレース）</p></td>
 <td><p>9/18~23</p></td>
 <td><p>新鋭王座決定戦史上初、ナイター決戦‼</p></td>
@@ -807,7 +807,7 @@ It's showtime!</p></td>
 <tr class="even">
 <td><p>7</p></td>
 <td><p>第16回チャレンジカップ競走</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/津競艇場" title="wikilink">津</a></p></td>
+<td><p><a href="../Page/津競艇場.md" title="wikilink">津</a></p></td>
 <td><p>11/19~24</p></td>
 <td><p>ラストチャンスに全てを賭ける。</p></td>
 </tr>
@@ -860,7 +860,7 @@ It's showtime!</p></td>
 <tr class="odd">
 <td><p>2</p></td>
 <td><p>第41回笹川賞競走</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡競艇場" title="wikilink">福岡</a></p></td>
+<td><p><a href="../Page/福岡競艇場.md" title="wikilink">福岡</a></p></td>
 <td><p>5/27~6/1</p></td>
 <td><p>オールスター、とは言え、一番星はただひとつ。<br />
 ～初代ゴールドメダリストは誰だ?!～</p></td>
@@ -875,7 +875,7 @@ It's showtime!</p></td>
 <tr class="odd">
 <td><p>4</p></td>
 <td><p>第19回オーシャンカップ競走</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/丸亀競艇場" title="wikilink">丸亀</a><br />
+<td><p><a href="../Page/丸亀競艇場.md" title="wikilink">丸亀</a><br />
 （ナイターレース）</p></td>
 <td><p>7/16~21</p></td>
 <td><p>波に乗るのは、だれか。</p></td>
@@ -899,7 +899,7 @@ It's showtime!</p></td>
 <tr class="even">
 <td><p>PG1</p></td>
 <td><p>第29回新鋭王座決定戦競走</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/戸田競艇場" title="wikilink">戸田</a></p></td>
+<td><p><a href="../Page/戸田競艇場.md" title="wikilink">戸田</a></p></td>
 <td><p>9/23~28</p></td>
 <td><p>型破りな、ヤングだ。</p></td>
 </tr>
@@ -977,7 +977,7 @@ It's showtime!</p></td>
 <tr class="even">
 <td><p>PG1</p></td>
 <td><p>第16回マスターズチャンピオン（名人戦競走）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/児島競艇場" title="wikilink">児島</a></p></td>
+<td><p><a href="../Page/児島競艇場.md" title="wikilink">児島</a></p></td>
 <td><p>4/14~19</p></td>
 <td><p>Road to Masters～達人たちの激しき競宴～<br />
 ～オヤジだって負けられん！最強名人はこの俺だ！～</p></td>
@@ -993,7 +993,7 @@ It's showtime!</p></td>
 <tr class="even">
 <td><p>3</p></td>
 <td><p>第25回グランドチャンピオン（グランドチャンピオン決定戦競走）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/宮島競艇場" title="wikilink">宮島</a></p></td>
+<td><p><a href="../Page/宮島競艇場.md" title="wikilink">宮島</a></p></td>
 <td><p>6/23~28</p></td>
 <td><p>知性の戦術か。野生の閃きか。<br />
 ～四半世紀の最強決定戦！真の最強レーサーはこの俺だ！～</p></td>
@@ -1009,7 +1009,7 @@ It's showtime!</p></td>
 <tr class="even">
 <td><p>PG1</p></td>
 <td><p>第29回レディースチャンピオン（女子王座決定戦競走）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/丸亀競艇場" title="wikilink">丸亀</a><br />
+<td><p><a href="../Page/丸亀競艇場.md" title="wikilink">丸亀</a><br />
 （ナイターレース）</p></td>
 <td><p>8/4~9</p></td>
 <td><p>闘いの花園へ、ようこそ。<br />
@@ -1073,7 +1073,7 @@ It's showtime!</p></td>
 <tr class="even">
 <td><p>G3[11]</p></td>
 <td><p>第4回クイーンズクライマックスシリーズ（賞金女王シリーズ戦）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡競艇場" title="wikilink">福岡</a></p></td>
+<td><p><a href="../Page/福岡競艇場.md" title="wikilink">福岡</a></p></td>
 <td><p>12/26~31</p></td>
 <td><p>主役の座は、譲りたくない。<br />
 ～全てのギャンブラーへ贈る！<a href="../Page/2015年.md" title="wikilink">2015年</a>最後のお・も・て・な・し！～</p></td>
@@ -1135,21 +1135,21 @@ It's showtime!</p></td>
 <tr class="odd">
 <td><p>4</p></td>
 <td><p>第21回オーシャンカップ競走</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/鳴門競艇場" title="wikilink">鳴門</a></p></td>
+<td><p><a href="../Page/鳴門競艇場.md" title="wikilink">鳴門</a></p></td>
 <td><p>7/13~18</p></td>
 <td><p>活きがいいのは、誰だ。</p></td>
 </tr>
 <tr class="even">
 <td><p>PG1</p></td>
 <td><p>第30回レディースチャンピオン（女子王座決定戦競走）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/津競艇場" title="wikilink">津</a></p></td>
+<td><p><a href="../Page/津競艇場.md" title="wikilink">津</a></p></td>
 <td><p>8/2~7</p></td>
 <td><p>闘う本能が、花開く。</p></td>
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
 <td><p>第62回ボートレースメモリアル（モーターボート記念競走）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/桐生競艇場" title="wikilink">桐生</a><br />
+<td><p><a href="../Page/桐生競艇場.md" title="wikilink">桐生</a><br />
 （ナイターレース）</p></td>
 <td><p>8/23~28</p></td>
 <td><p>一発、ど派手にぶちかませ。</p></td>
@@ -1164,7 +1164,7 @@ It's showtime!</p></td>
 <tr class="odd">
 <td><p>6</p></td>
 <td><p>第63回ボートレースダービー（全日本選手権競走）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡競艇場" title="wikilink">福岡</a></p></td>
+<td><p><a href="../Page/福岡競艇場.md" title="wikilink">福岡</a></p></td>
 <td><p>10/25~30</p></td>
 <td><p>四神さわぐ、伝統の一戦。</p></td>
 </tr>
@@ -1229,35 +1229,35 @@ It's showtime!</p></td>
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>第52回ボートレースクラシック（総理大臣杯競走）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/児島競艇場" title="wikilink">児島</a></p></td>
+<td><p><a href="../Page/児島競艇場.md" title="wikilink">児島</a></p></td>
 <td><p>3/15~20</p></td>
 <td><p>Let's2017 すごい波がやってくる。</p></td>
 </tr>
 <tr class="even">
 <td><p>PG1</p></td>
 <td><p>第18回マスターズチャンピオン（名人戦競走）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/津競艇場" title="wikilink">津</a></p></td>
+<td><p><a href="../Page/津競艇場.md" title="wikilink">津</a></p></td>
 <td><p>4/11~16</p></td>
 <td><p>ひと華、華麗に咲かせてみせよう。</p></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
 <td><p>第44回ボートレースオールスター（笹川賞競走）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡競艇場" title="wikilink">福岡</a></p></td>
+<td><p><a href="../Page/福岡競艇場.md" title="wikilink">福岡</a></p></td>
 <td><p>5/23~28</p></td>
 <td><p>最も輝くのは、人気者か、強者か。</p></td>
 </tr>
 <tr class="even">
 <td><p>3</p></td>
 <td><p>第26回グランドチャンピオン（グランドチャンピオン決定戦競走）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/鳴門競艇場" title="wikilink">鳴門</a></p></td>
+<td><p><a href="../Page/鳴門競艇場.md" title="wikilink">鳴門</a></p></td>
 <td><p>6/20~25</p></td>
 <td><p>ここが熱狂の渦、ど真ん中。</p></td>
 </tr>
 <tr class="odd">
 <td><p>4</p></td>
 <td><p>第22回オーシャンカップ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/丸亀競艇場" title="wikilink">丸亀</a><br />
+<td><p><a href="../Page/丸亀競艇場.md" title="wikilink">丸亀</a><br />
 （ナイターレース）</p></td>
 <td><p>7/12~17</p></td>
 <td><p>鼓動が加速する夏。</p></td>

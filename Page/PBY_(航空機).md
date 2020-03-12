@@ -1,9 +1,9 @@
 > この記事は[PBY \(\)](https://ja.wikipedia.org/wiki/PBY_\(\))から翻訳されています。
 
 
-**PBY カタリナ**（*Consolidated PBY Catalina* ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[コンソリデーテッド・エアクラフト](../Page/コンソリデーテッド・エアクラフト.md "wikilink")社が[開発](https://ja.wikipedia.org/wiki/開発 "wikilink")した[飛行艇](../Page/飛行艇.md "wikilink")である。
+**PBY カタリナ**（*Consolidated PBY Catalina* ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[コンソリデーテッド・エアクラフト](../Page/コンソリデーテッド・エアクラフト.md "wikilink")社が[開発](../Page/開発.md "wikilink")した[飛行艇](../Page/飛行艇.md "wikilink")である。
 
-[1935年](../Page/1935年.md "wikilink")に初飛行、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中は[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")を始めとして、[連合国各国で](../Page/連合国_\(第二次世界大戦\).md "wikilink")[対潜哨戒](../Page/対潜哨戒機.md "wikilink")、[沿岸警備](https://ja.wikipedia.org/wiki/沿岸警備 "wikilink")、[海難救助などに用いられた](https://ja.wikipedia.org/wiki/海難事故 "wikilink")。また[アメリカ陸軍航空軍](https://ja.wikipedia.org/wiki/アメリカ陸軍航空軍 "wikilink")でも[捜索救難機](https://ja.wikipedia.org/wiki/捜索救難機 "wikilink")として水陸両用の**OA-10Aカタリナ**を採用した。軍を退役したのちは現在まで消防機として各所で用いられている。
+[1935年](../Page/1935年.md "wikilink")に初飛行、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中は[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")を始めとして、[連合国各国で](../Page/連合国_\(第二次世界大戦\).md "wikilink")[対潜哨戒](../Page/対潜哨戒機.md "wikilink")、[沿岸警備](https://ja.wikipedia.org/wiki/沿岸警備 "wikilink")、[海難救助などに用いられた](../Page/海難事故.md "wikilink")。また[アメリカ陸軍航空軍](../Page/アメリカ陸軍航空軍.md "wikilink")でも[捜索救難機](https://ja.wikipedia.org/wiki/捜索救難機 "wikilink")として水陸両用の**OA-10Aカタリナ**を採用した。軍を退役したのちは現在まで消防機として各所で用いられている。
 
 コンソリデーテッド社の他に[ボーイング](../Page/ボーイング.md "wikilink")・カナダ社、[カナディアン・ヴィッカース社](https://ja.wikipedia.org/wiki/ビッカース "wikilink")、海軍工廠でも生産され、それらは**PB2B**、**PBV**、**PBN**の制式名で呼ばれた。
 
@@ -15,25 +15,25 @@
 
 ## 機体
 
-双発の[レシプロ機であり](https://ja.wikipedia.org/wiki/レシプロエンジン "wikilink")、[主翼](https://ja.wikipedia.org/wiki/主翼 "wikilink")はパラソル配置（[胴体](https://ja.wikipedia.org/wiki/胴体 "wikilink")から離れた[高翼単葉](https://ja.wikipedia.org/wiki/高翼機 "wikilink")）となっている。主翼に[フロート](https://ja.wikipedia.org/wiki/フロート "wikilink")を持つが、翼端側に跳ね上げることで飛行中は主翼と一体となり空気[抵抗](https://ja.wikipedia.org/wiki/抵抗 "wikilink")を減じつつ翼面積を増大させるという仕組みになっていた。[水平尾翼](https://ja.wikipedia.org/wiki/水平尾翼 "wikilink")は[垂直尾翼](https://ja.wikipedia.org/wiki/垂直尾翼 "wikilink")の中ほどにあり、垂直尾翼は[方向舵](../Page/方向舵.md "wikilink")の比率が高い。途中から[降着装置](https://ja.wikipedia.org/wiki/降着装置 "wikilink")を引き込み式として着水時の抵抗を軽減し、水陸両用機となった。
+双発の[レシプロ機であり](https://ja.wikipedia.org/wiki/レシプロエンジン "wikilink")、[主翼](https://ja.wikipedia.org/wiki/主翼 "wikilink")はパラソル配置（[胴体](../Page/胴体.md "wikilink")から離れた[高翼単葉](https://ja.wikipedia.org/wiki/高翼機 "wikilink")）となっている。主翼に[フロート](https://ja.wikipedia.org/wiki/フロート "wikilink")を持つが、翼端側に跳ね上げることで飛行中は主翼と一体となり空気[抵抗](https://ja.wikipedia.org/wiki/抵抗 "wikilink")を減じつつ翼面積を増大させるという仕組みになっていた。[水平尾翼](../Page/水平尾翼.md "wikilink")は[垂直尾翼](../Page/垂直尾翼.md "wikilink")の中ほどにあり、垂直尾翼は[方向舵](../Page/方向舵.md "wikilink")の比率が高い。途中から[降着装置](../Page/降着装置.md "wikilink")を引き込み式として着水時の抵抗を軽減し、水陸両用機となった。
 
-操縦席は正面の銃座よりも高い位置にあるため視界は良好であった。また機体後部の側面にある[銃座の扉は当初スライド式だったが](https://ja.wikipedia.org/wiki/砲塔 "wikilink")、途中で開閉式の[ブリスター](https://ja.wikipedia.org/wiki/ブリスター "wikilink")型に変更され閉じた状態でも広い視界を提供した。機内へは銃座から直接乗り込めるように大きく開くため、[装載艇](https://ja.wikipedia.org/wiki/装載艇 "wikilink")からの移乗や救助者を引き上げなど水上での出入りにも使われた。戦後の旅客型では乗客の搭乗口として跳ね上げ式のハッチに変更されている。
+操縦席は正面の銃座よりも高い位置にあるため視界は良好であった。また機体後部の側面にある[銃座の扉は当初スライド式だったが](../Page/砲塔.md "wikilink")、途中で開閉式の[ブリスター](https://ja.wikipedia.org/wiki/ブリスター "wikilink")型に変更され閉じた状態でも広い視界を提供した。機内へは銃座から直接乗り込めるように大きく開くため、[装載艇](../Page/装載艇.md "wikilink")からの移乗や救助者を引き上げなど水上での出入りにも使われた。戦後の旅客型では乗客の搭乗口として跳ね上げ式のハッチに変更されている。
 
 [二式大艇とPBYの両方を操縦した日本海軍の](../Page/二式飛行艇.md "wikilink")[日辻常雄](https://ja.wikipedia.org/wiki/日辻常雄 "wikilink")少佐は、二式大艇と比べ飛行性能は圧倒的に劣るものの、[ポーポイズ現象](https://ja.wikipedia.org/wiki/ポーポイズ現象 "wikilink")が無く離水も簡単で機内はガソリン漏れの心配が無いなど乗員へ配慮した設計思想の差を感じたという\[1\]。機体強度も高く、戦後になっても払い下げの機体が飛行可能な状態を保っている。エンジンが機体に近いため騒音は大きかったが機内で喫煙が可能であるなど快適性はさほど悪くないことや、操縦や整備が容易で航続距離も長いことから旅客機として導入する航空会社もあった。
 
-ファイル:Consolidated PBY-6A Catalina 'Black cat' (27014255236).jpg|機体正面 ファイル:PBY Gun Blister.jpg|[AN/M2 7.62mm機関銃を手に側面の銃座へ乗り込む搭乗員](https://ja.wikipedia.org/wiki/ブローニングM1919重機関銃 "wikilink") ファイル:Consolidated PBY-6A Catalina 'Black cat' (26772977780).jpg|側面の銃座と降着装置 ファイル:Consolidated.Vickers OA-10A VP-KKJ BLA 05.06.53 edited-2.jpg|翼端とフロートの構造 ファイル:Consolidated PBY-5 production line 1942 mfr N4451 (16347896002).jpg|製造途中のPBY-5。銃座の部分が大きく開いている。 ファイル:I in Catalina. Canadian Vickers PBV-1A Canso A (28) G-PBYA. Photographer Sergey Riabsev – Russian AviaPhoto (8317887163).jpg|操縦席。
+ファイル:Consolidated PBY-6A Catalina 'Black cat' (27014255236).jpg|機体正面 ファイル:PBY Gun Blister.jpg|[AN/M2 7.62mm機関銃を手に側面の銃座へ乗り込む搭乗員](../Page/ブローニングM1919重機関銃.md "wikilink") ファイル:Consolidated PBY-6A Catalina 'Black cat' (26772977780).jpg|側面の銃座と降着装置 ファイル:Consolidated.Vickers OA-10A VP-KKJ BLA 05.06.53 edited-2.jpg|翼端とフロートの構造 ファイル:Consolidated PBY-5 production line 1942 mfr N4451 (16347896002).jpg|製造途中のPBY-5。銃座の部分が大きく開いている。 ファイル:I in Catalina. Canadian Vickers PBV-1A Canso A (28) G-PBYA. Photographer Sergey Riabsev – Russian AviaPhoto (8317887163).jpg|操縦席。
 
 ## 運用
 
-[1937年](../Page/1937年.md "wikilink")からアメリカ海軍で部隊配備が開始された。[LORAN](../Page/LORAN.md "wikilink")受信機（AN/APN-4）を搭載しており、航続距離と合わせて単独で長時間の哨戒が可能となっており、第二次世界大戦では救難や雷撃など多彩な任務に投入された。アメリカでは海軍、[陸軍航空隊](https://ja.wikipedia.org/wiki/アメリカ陸軍航空隊 "wikilink")、[沿岸警備隊で導入された](https://ja.wikipedia.org/wiki/アメリカ沿岸警備隊 "wikilink")。連合国の[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")、[オーストラリア](https://ja.wikipedia.org/wiki/オーストラリア "wikilink")などでも使用され、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")でも[1956年](../Page/1956年.md "wikilink")に[海上自衛隊](https://ja.wikipedia.org/wiki/海上自衛隊 "wikilink")に2機が供与されたが、引き渡された時点で旧式であったため、[1960年](../Page/1960年.md "wikilink")に全機除籍。
+[1937年](../Page/1937年.md "wikilink")からアメリカ海軍で部隊配備が開始された。[LORAN](../Page/LORAN.md "wikilink")受信機（AN/APN-4）を搭載しており、航続距離と合わせて単独で長時間の哨戒が可能となっており、第二次世界大戦では救難や雷撃など多彩な任務に投入された。アメリカでは海軍、[陸軍航空隊](https://ja.wikipedia.org/wiki/アメリカ陸軍航空隊 "wikilink")、[沿岸警備隊で導入された](../Page/アメリカ沿岸警備隊.md "wikilink")。連合国の[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")、[オーストラリア](../Page/オーストラリア.md "wikilink")などでも使用され、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")でも[1956年](../Page/1956年.md "wikilink")に[海上自衛隊](../Page/海上自衛隊.md "wikilink")に2機が供与されたが、引き渡された時点で旧式であったため、[1960年](../Page/1960年.md "wikilink")に全機除籍。
 
-[太平洋戦争](https://ja.wikipedia.org/wiki/太平洋戦争 "wikilink")開戦直前の[1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")[12月7日](../Page/12月7日.md "wikilink")には、[マレー作戦](https://ja.wikipedia.org/wiki/マレー作戦 "wikilink")に参加する上陸部隊を乗せた[輸送船](https://ja.wikipedia.org/wiki/輸送船 "wikilink")団の上空[護衛](https://ja.wikipedia.org/wiki/護衛 "wikilink")を行っていた[日本陸軍の](../Page/大日本帝国陸軍.md "wikilink")[九七式戦闘機](https://ja.wikipedia.org/wiki/九七式戦闘機 "wikilink")が、哨戒中のカタリナを（正式な[開戦](https://ja.wikipedia.org/wiki/開戦 "wikilink")の前であったが）[撃墜](https://ja.wikipedia.org/wiki/撃墜 "wikilink")した。これは同戦争における最初の連合国軍の損失であった 。
+[太平洋戦争](https://ja.wikipedia.org/wiki/太平洋戦争 "wikilink")開戦直前の[1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")[12月7日](../Page/12月7日.md "wikilink")には、[マレー作戦](../Page/マレー作戦.md "wikilink")に参加する上陸部隊を乗せた[輸送船](https://ja.wikipedia.org/wiki/輸送船 "wikilink")団の上空[護衛](https://ja.wikipedia.org/wiki/護衛 "wikilink")を行っていた[日本陸軍の](../Page/大日本帝国陸軍.md "wikilink")[九七式戦闘機](../Page/九七式戦闘機.md "wikilink")が、哨戒中のカタリナを（正式な[開戦](https://ja.wikipedia.org/wiki/開戦 "wikilink")の前であったが）[撃墜](../Page/撃墜.md "wikilink")した。これは同戦争における最初の連合国軍の損失であった 。
 
-第二次世界大[戦後](../Page/戦後.md "wikilink")には多くが[民間](https://ja.wikipedia.org/wiki/民間 "wikilink")に払い下げられ、アメリカや[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")、カナダ、台湾（[チャイナエアライン](https://ja.wikipedia.org/wiki/チャイナエアライン "wikilink")、[トランスアジア航空](https://ja.wikipedia.org/wiki/トランスアジア航空 "wikilink")）などで[旅客機](../Page/旅客機.md "wikilink")として使用されたものもある他、[消防機としても用いられている](https://ja.wikipedia.org/wiki/空中消火 "wikilink")。
+第二次世界大[戦後](../Page/戦後.md "wikilink")には多くが[民間](https://ja.wikipedia.org/wiki/民間 "wikilink")に払い下げられ、アメリカや[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")、カナダ、台湾（[チャイナエアライン](../Page/チャイナエアライン.md "wikilink")、[トランスアジア航空](../Page/トランスアジア航空.md "wikilink")）などで[旅客機](../Page/旅客機.md "wikilink")として使用されたものもある他、[消防機としても用いられている](../Page/空中消火.md "wikilink")。
 
-カタリナは[スウェーデン空軍](https://ja.wikipedia.org/wiki/スウェーデン空軍 "wikilink")機（スウェーデン空軍名称Tp 47）としても用いられたが、[1952年](../Page/1952年.md "wikilink")[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink")、[エストニア](../Page/エストニア.md "wikilink")の北で行方不明となった[DC-3機](https://ja.wikipedia.org/wiki/ダグラス_DC-3 "wikilink")（[C-47](https://ja.wikipedia.org/wiki/C-47_\(航空機\) "wikilink")）を捜索していた時にソビエト軍機に撃墜された。[1956年](../Page/1956年.md "wikilink")になって[ソビエト連邦は](https://ja.wikipedia.org/wiki/ソビエト社会主義共和国連邦 "wikilink")、DC-3機の撃墜を認めたが、当時はこの情報は公表されなかった。[2003年](../Page/2003年.md "wikilink")にDC-3機と共に発見されている。[冷戦](../Page/冷戦.md "wikilink")期間中の外交的危機となったこの事件は、その名称をとって「[カタリナ事件](https://ja.wikipedia.org/wiki/カタリナ事件 "wikilink")」と呼ばれている。
+カタリナは[スウェーデン空軍](https://ja.wikipedia.org/wiki/スウェーデン空軍 "wikilink")機（スウェーデン空軍名称Tp 47）としても用いられたが、[1952年](../Page/1952年.md "wikilink")[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink")、[エストニア](../Page/エストニア.md "wikilink")の北で行方不明となった[DC-3機](../Page/ダグラス_DC-3.md "wikilink")（[C-47](https://ja.wikipedia.org/wiki/C-47_\(航空機\) "wikilink")）を捜索していた時にソビエト軍機に撃墜された。[1956年](../Page/1956年.md "wikilink")になって[ソビエト連邦は](https://ja.wikipedia.org/wiki/ソビエト社会主義共和国連邦 "wikilink")、DC-3機の撃墜を認めたが、当時はこの情報は公表されなかった。[2003年](../Page/2003年.md "wikilink")にDC-3機と共に発見されている。[冷戦](../Page/冷戦.md "wikilink")期間中の外交的危機となったこの事件は、その名称をとって「[カタリナ事件](https://ja.wikipedia.org/wiki/カタリナ事件 "wikilink")」と呼ばれている。
 
-ファイル:LORAN display in Canso.jpg|[LORAN](../Page/LORAN.md "wikilink")受信機（AN/APN-4） ファイル:Een gewonde militair ('de Witte') aan boord van het Catalina-watervliegtuig dat , Bestanddeelnr 255-6975.jpg|機内に収容された負傷兵 ファイル:PBY-5A USCG with injured from Sabena crash 1946.jpeg|[ガンダー国際空港](https://ja.wikipedia.org/wiki/ガンダー国際空港 "wikilink")付近に墜落した[サベナ・ベルギー航空](https://ja.wikipedia.org/wiki/サベナ・ベルギー航空 "wikilink")の[DC-4](https://ja.wikipedia.org/wiki/DC-4 "wikilink")の乗客を救助するアメリカ沿岸警備隊のPBY-5A（1946年9月18日） ファイル:Marvo, Bestanddeelnr 903-4543.jpg|機上に整列してボートに乗った士官を出迎える搭乗員（1949年） ファイル:PBY Catalina airtanker.jpg|空中放水を行う消防機改造型PBY ファイル:Passagiers stappen in of uit een Catalina vliegboot In het vliegtuig staan bem…, Bestanddeelnr 6744.jpg|旅客機となったPBYへ乗り込む乗客（1947年）
+ファイル:LORAN display in Canso.jpg|[LORAN](../Page/LORAN.md "wikilink")受信機（AN/APN-4） ファイル:Een gewonde militair ('de Witte') aan boord van het Catalina-watervliegtuig dat , Bestanddeelnr 255-6975.jpg|機内に収容された負傷兵 ファイル:PBY-5A USCG with injured from Sabena crash 1946.jpeg|[ガンダー国際空港](https://ja.wikipedia.org/wiki/ガンダー国際空港 "wikilink")付近に墜落した[サベナ・ベルギー航空](../Page/サベナ・ベルギー航空.md "wikilink")の[DC-4](https://ja.wikipedia.org/wiki/DC-4 "wikilink")の乗客を救助するアメリカ沿岸警備隊のPBY-5A（1946年9月18日） ファイル:Marvo, Bestanddeelnr 903-4543.jpg|機上に整列してボートに乗った士官を出迎える搭乗員（1949年） ファイル:PBY Catalina airtanker.jpg|空中放水を行う消防機改造型PBY ファイル:Passagiers stappen in of uit een Catalina vliegboot In het vliegtuig staan bem…, Bestanddeelnr 6744.jpg|旅客機となったPBYへ乗り込む乗客（1947年）
 
 ## 各型
 
@@ -46,13 +46,13 @@
   - PBY-2
     水平尾翼の改修。50機生産。
   - PBY-3
-    エンジンを[R-1830](https://ja.wikipedia.org/wiki/プラット・アンド・ホイットニー_R-1830 "wikilink")-66（900馬力）に換装。66機生産。
+    エンジンを[R-1830](../Page/プラット・アンド・ホイットニー_R-1830.md "wikilink")-66（900馬力）に換装。66機生産。
   - PBY-4
     エンジンをR-1830-72（1,050馬力）に換装。33機生産。\[2\]
   - PBY-5
-    エンジンをR-1830-90（1,200馬力）に換装。垂直尾翼後縁を直線状に変更。後部側面銃座の[風防](https://ja.wikipedia.org/wiki/風防 "wikilink")をスライド式からブリスター型へ変更し、[射撃](https://ja.wikipedia.org/wiki/射撃 "wikilink")範囲を拡大。684機生産。英軍名称 **Catalina Mk.I**。
+    エンジンをR-1830-90（1,200馬力）に換装。垂直尾翼後縁を直線状に変更。後部側面銃座の[風防](https://ja.wikipedia.org/wiki/風防 "wikilink")をスライド式からブリスター型へ変更し、[射撃](../Page/射撃.md "wikilink")範囲を拡大。684機生産。英軍名称 **Catalina Mk.I**。
   - PBY-5A
-    機首下面および胴体側面に[引き込み式の車輪を装備](https://ja.wikipedia.org/wiki/降着装置 "wikilink")。水陸両用機となる。802機生産。英軍名称 **Catalina Mk.III**。\[3\]
+    機首下面および胴体側面に[引き込み式の車輪を装備](../Page/降着装置.md "wikilink")。水陸両用機となる。802機生産。英軍名称 **Catalina Mk.III**。\[3\]
   - PBY-6A
     AN/APS-3[レーダー](../Page/レーダー.md "wikilink")を増備。水陸両用機。安定性向上のため垂直尾翼を大型化。175機生産。海上自衛隊に2機が供与\[4\]。
   - PB2B-1
@@ -60,7 +60,7 @@
   - PB2B-2
     PBY-6Aのボーイングでの生産型。67機生産。
   - A-10
-    [アメリカ陸軍航空軍](https://ja.wikipedia.org/wiki/アメリカ陸軍航空軍 "wikilink")向けの機体。1948年以前はOA-10と呼称。
+    [アメリカ陸軍航空軍](../Page/アメリカ陸軍航空軍.md "wikilink")向けの機体。1948年以前はOA-10と呼称。
       - A-10A
         PBY-5Aに準拠した機体。1948年以前はOA-10A。
       - A-10B
@@ -68,40 +68,40 @@
 
 ## 諸元
 
-| 機体名                                                   | PBY-4\[5\]                                                                                                                                                                          |
-| ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ミッション                                                 | PATROL                                                                                                                                                                              |
-| 全長                                                    | 65ft 10in (20.07m)                                                                                                                                                                  |
-| 全幅                                                    | 104ft (31.7m)                                                                                                                                                                       |
-| 全高                                                    | 18ft 6in (5.64m)                                                                                                                                                                    |
-| 翼面積                                                   | 1,400ft² (130.06m²)                                                                                                                                                                 |
-| [空虚重量](https://ja.wikipedia.org/wiki/空虚重量 "wikilink") | 14,999lbs (6,803kg)                                                                                                                                                                 |
-| 離陸重量                                                  | 29,244lbs (13,265kg)                                                                                                                                                                |
-| 搭載燃料                                                  | 1,750gal (6,624ℓ)                                                                                                                                                                   |
-| 携行装備                                                  | ―                                                                                                                                                                                   |
-| プロペラ\[6\]                                             | ブレード3枚 直径12ft 1in (3.68m) ×2                                                                                                                                                        |
-| エンジン                                                  | [プラット・アンド・ホイットニー](https://ja.wikipedia.org/wiki/プラット・アンド・ホイットニー "wikilink") [R-1830-72空冷星型レシプロエンジン](https://ja.wikipedia.org/wiki/プラット・アンド・ホイットニー_R-1830 "wikilink") (1,050Bhp) ×2基 |
-| 最高速度                                                  | 194mph/12,000ft (312km/h 高度3,658m)                                                                                                                                                  |
-| 航続距離                                                  | 4,110mile (6,614km)                                                                                                                                                                 |
-| 武装                                                    | [AN/M2 12.7mm機関銃](https://ja.wikipedia.org/wiki/ブローニングM2重機関銃 "wikilink")×2 (弾数計800発) + [AN/M2 7.62mm機関銃](https://ja.wikipedia.org/wiki/ブローニングM1919重機関銃 "wikilink")×2 (弾数計1,500発)    |
-| 外部兵装                                                  | 1,000/500lbs爆弾×4・100lbs爆弾×12、325lbs爆雷×4、[Mk.13魚雷](https://ja.wikipedia.org/wiki/Mk13_\(魚雷\) "wikilink")×2                                                                           |
-| 機体名                                                   | PBY-5A\[7\]                                                                                                                                                                         |
-| ミッション                                                 | PATROL                                                                                                                                                                              |
-| 全長                                                    | 63ft 10.44in (19.47m)                                                                                                                                                               |
-| 全幅                                                    | 104ft (31.7m)                                                                                                                                                                       |
-| 全高                                                    | 20ft 2in (6.15m)                                                                                                                                                                    |
-| 翼面積                                                   | 1,400ft² (130.06m²)                                                                                                                                                                 |
-| [空虚重量](https://ja.wikipedia.org/wiki/空虚重量 "wikilink") | 20,910lbs (9,485kg)                                                                                                                                                                 |
-| 離陸重量                                                  | 33,975lbs (15,411kg)                                                                                                                                                                |
-| 搭載燃料                                                  | 1,463gal (5,538ℓ)                                                                                                                                                                   |
-| 携行装備                                                  | ―                                                                                                                                                                                   |
-| プロペラ\[8\]                                             | ブレード3枚 直径12ft 1in (3.68m) ×2                                                                                                                                                        |
-| エンジン                                                  | [プラット・アンド・ホイットニー](https://ja.wikipedia.org/wiki/プラット・アンド・ホイットニー "wikilink") [R-1830-92空冷星型レシプロエンジン](https://ja.wikipedia.org/wiki/プラット・アンド・ホイットニー_R-1830 "wikilink") (1,200Bhp) ×2基 |
-| 最高速度                                                  | 179mph/7,000ft (288km/h 高度2,134m)                                                                                                                                                   |
-| 航続距離\[9\]                                             | 2,545st.mile (4,096km)                                                                                                                                                              |
-| 武装                                                    | [AN/M2 12.7mm機関銃](https://ja.wikipedia.org/wiki/ブローニングM2重機関銃 "wikilink")×2 (弾数計840発) + [AN/M2 7.62mm機関銃](https://ja.wikipedia.org/wiki/ブローニングM1919重機関銃 "wikilink")×3 (弾数計2,600発)    |
-| 外部兵装                                                  | 1,000lbs爆弾または500lbs爆弾×4・100lbs爆弾×12、650lbs爆雷×4または325lbs爆雷×4、[Mk.13魚雷](https://ja.wikipedia.org/wiki/Mk13_\(魚雷\) "wikilink")×2                                                       |
-|                                                       |                                                                                                                                                                                     |
+| 機体名                                                   | PBY-4\[5\]                                                                                                                                    |
+| ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| ミッション                                                 | PATROL                                                                                                                                        |
+| 全長                                                    | 65ft 10in (20.07m)                                                                                                                            |
+| 全幅                                                    | 104ft (31.7m)                                                                                                                                 |
+| 全高                                                    | 18ft 6in (5.64m)                                                                                                                              |
+| 翼面積                                                   | 1,400ft² (130.06m²)                                                                                                                           |
+| [空虚重量](https://ja.wikipedia.org/wiki/空虚重量 "wikilink") | 14,999lbs (6,803kg)                                                                                                                           |
+| 離陸重量                                                  | 29,244lbs (13,265kg)                                                                                                                          |
+| 搭載燃料                                                  | 1,750gal (6,624ℓ)                                                                                                                             |
+| 携行装備                                                  | ―                                                                                                                                             |
+| プロペラ\[6\]                                             | ブレード3枚 直径12ft 1in (3.68m) ×2                                                                                                                  |
+| エンジン                                                  | [プラット・アンド・ホイットニー](../Page/プラット・アンド・ホイットニー.md "wikilink") [R-1830-72空冷星型レシプロエンジン](../Page/プラット・アンド・ホイットニー_R-1830.md "wikilink") (1,050Bhp) ×2基 |
+| 最高速度                                                  | 194mph/12,000ft (312km/h 高度3,658m)                                                                                                            |
+| 航続距離                                                  | 4,110mile (6,614km)                                                                                                                           |
+| 武装                                                    | [AN/M2 12.7mm機関銃](../Page/ブローニングM2重機関銃.md "wikilink")×2 (弾数計800発) + [AN/M2 7.62mm機関銃](../Page/ブローニングM1919重機関銃.md "wikilink")×2 (弾数計1,500発)    |
+| 外部兵装                                                  | 1,000/500lbs爆弾×4・100lbs爆弾×12、325lbs爆雷×4、[Mk.13魚雷](https://ja.wikipedia.org/wiki/Mk13_\(魚雷\) "wikilink")×2                                     |
+| 機体名                                                   | PBY-5A\[7\]                                                                                                                                   |
+| ミッション                                                 | PATROL                                                                                                                                        |
+| 全長                                                    | 63ft 10.44in (19.47m)                                                                                                                         |
+| 全幅                                                    | 104ft (31.7m)                                                                                                                                 |
+| 全高                                                    | 20ft 2in (6.15m)                                                                                                                              |
+| 翼面積                                                   | 1,400ft² (130.06m²)                                                                                                                           |
+| [空虚重量](https://ja.wikipedia.org/wiki/空虚重量 "wikilink") | 20,910lbs (9,485kg)                                                                                                                           |
+| 離陸重量                                                  | 33,975lbs (15,411kg)                                                                                                                          |
+| 搭載燃料                                                  | 1,463gal (5,538ℓ)                                                                                                                             |
+| 携行装備                                                  | ―                                                                                                                                             |
+| プロペラ\[8\]                                             | ブレード3枚 直径12ft 1in (3.68m) ×2                                                                                                                  |
+| エンジン                                                  | [プラット・アンド・ホイットニー](../Page/プラット・アンド・ホイットニー.md "wikilink") [R-1830-92空冷星型レシプロエンジン](../Page/プラット・アンド・ホイットニー_R-1830.md "wikilink") (1,200Bhp) ×2基 |
+| 最高速度                                                  | 179mph/7,000ft (288km/h 高度2,134m)                                                                                                             |
+| 航続距離\[9\]                                             | 2,545st.mile (4,096km)                                                                                                                        |
+| 武装                                                    | [AN/M2 12.7mm機関銃](../Page/ブローニングM2重機関銃.md "wikilink")×2 (弾数計840発) + [AN/M2 7.62mm機関銃](../Page/ブローニングM1919重機関銃.md "wikilink")×3 (弾数計2,600発)    |
+| 外部兵装                                                  | 1,000lbs爆弾または500lbs爆弾×4・100lbs爆弾×12、650lbs爆雷×4または325lbs爆雷×4、[Mk.13魚雷](https://ja.wikipedia.org/wiki/Mk13_\(魚雷\) "wikilink")×2                 |
+|                                                       |                                                                                                                                               |
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:PBY-6A_BuAer_3_side_view.jpg "wikilink")
 
@@ -276,7 +276,7 @@ OA-10A</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Gfp-oa-10-catalina.jpg" title="fig:Gfp-oa-10-catalina.jpg">Gfp-oa-10-catalina.jpg</a></p></td>
 <td><p>アメリカ合衆国<br />
 <a href="../Page/オハイオ州.md" title="wikilink">オハイオ州</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/国立アメリカ空軍博物館" title="wikilink">国立アメリカ空軍博物館</a></p></td>
+<td><p><a href="../Page/国立アメリカ空軍博物館.md" title="wikilink">国立アメリカ空軍博物館</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
 <td><p>製造番号 1959。<a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196254/consolidated-oa-10-catalina/">8</a></p></td>
@@ -309,7 +309,7 @@ SPAF DR.1-1</p></td>
 <td><p>46624</p></td>
 <td></td>
 <td><p>オーストラリア<br />
-<a href="https://ja.wikipedia.org/wiki/西オーストラリア州" title="wikilink">西オーストラリア州</a></p></td>
+<a href="../Page/西オーストラリア州.md" title="wikilink">西オーストラリア州</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Aviation_Heritage_Museum_(Western_Australia)" title="wikilink">航空遺産博物館</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
@@ -343,7 +343,7 @@ SPAF DR.1-1</p></td>
 <td><p>48294</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:2012-10-18_15-39-47_(Military_Aviation_Museum).jpg" title="fig:2012-10-18_15-39-47_(Military_Aviation_Museum).jpg">2012-10-18_15-39-47_(Military_Aviation_Museum).jpg</a></p></td>
 <td><p>アメリカ合衆国<br />
-<a href="https://ja.wikipedia.org/wiki/バージニア州" title="wikilink">バージニア州</a></p></td>
+<a href="../Page/バージニア州.md" title="wikilink">バージニア州</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Military_Aviation_Museum" title="wikilink">軍事航空博物館</a></p></td>
 <td><p>公開</p></td>
 <td><p>飛行可能</p></td>
@@ -427,7 +427,7 @@ SPAF DR.1-1</p></td>
 FAB 6552</p></td>
 <td><p><a href="https://cdn.jetphotos.com/full/5/20995_1494201497.jpg">写真</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ブラジル" title="wikilink">ブラジル</a><br />
-<a href="https://ja.wikipedia.org/wiki/パラー州" title="wikilink">パラー州</a></p></td>
+<a href="../Page/パラー州.md" title="wikilink">パラー州</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Val_de_Cans_International_Airport" title="wikilink">べレン空軍基地</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
@@ -461,7 +461,7 @@ RAF FP535</p></td>
 <td><p>46655</p></td>
 <td></td>
 <td><p>カナダ<br />
-<a href="https://ja.wikipedia.org/wiki/ニューファンドランド・ラブラドール州" title="wikilink">ニューファンドランド・ラブラドール州</a></p></td>
+<a href="../Page/ニューファンドランド・ラブラドール州.md" title="wikilink">ニューファンドランド・ラブラドール州</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Government_of_Newfoundland_and_Labrador" title="wikilink">ニューファンドランド・ラブラドール州政府</a></p></td>
 <td><p>非公開</p></td>
 <td><p>静態展示</p></td>
@@ -508,7 +508,7 @@ RAAF A24-362</p></td>
 HK-2115P</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:HK-2115P_(7007759278).jpg" title="fig:HK-2115P_(7007759278).jpg">HK-2115P_(7007759278).jpg</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ドイツ" title="wikilink">ドイツ</a><br />
-<a href="https://ja.wikipedia.org/wiki/ニーダーザクセン州" title="wikilink">ニーダーザクセン州</a></p></td>
+<a href="../Page/ニーダーザクセン州.md" title="wikilink">ニーダーザクセン州</a></p></td>
 <td><p>個人</p></td>
 <td><p>公開</p></td>
 <td><p>保管中</p></td>
@@ -780,7 +780,7 @@ OA-10A</p></td>
 FACh 405</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:405_PBY_Catalina_Chilean_Airforce_(7321978386).jpg" title="fig:405_PBY_Catalina_Chilean_Airforce_(7321978386).jpg">405_PBY_Catalina_Chilean_Airforce_(7321978386).jpg</a></p></td>
 <td><p><a href="../Page/チリ.md" title="wikilink">チリ</a><br />
-<a href="https://ja.wikipedia.org/wiki/サンティアゴ" title="wikilink">サンティアゴ</a></p></td>
+<a href="../Page/サンティアゴ.md" title="wikilink">サンティアゴ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:es:Museo_Nacional_Aeronáutico_y_del_Espacio" title="wikilink">国立航空宇宙博物館</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
@@ -816,17 +816,17 @@ RAAF A24-385</p></td>
 
 ### 映画
 
-  - 『[キングコングの逆襲](https://ja.wikipedia.org/wiki/キングコングの逆襲 "wikilink")』
-    ドクター・フー一味の飛行艇として登場。[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")に[キングコング](../Page/キングコング.md "wikilink")が上陸したことを受けて迎えに来た[海上自衛隊](https://ja.wikipedia.org/wiki/海上自衛隊 "wikilink")所属機と見せかけて主人公たちを拉致し、[北極](../Page/北極.md "wikilink")にある一味のアジトまで[輸送](https://ja.wikipedia.org/wiki/輸送 "wikilink")する。
+  - 『[キングコングの逆襲](../Page/キングコングの逆襲.md "wikilink")』
+    ドクター・フー一味の飛行艇として登場。[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")に[キングコング](../Page/キングコング.md "wikilink")が上陸したことを受けて迎えに来た[海上自衛隊](../Page/海上自衛隊.md "wikilink")所属機と見せかけて主人公たちを拉致し、[北極](../Page/北極.md "wikilink")にある一味のアジトまで[輸送](https://ja.wikipedia.org/wiki/輸送 "wikilink")する。
   - 『[トラ・トラ・トラ\!](../Page/トラ・トラ・トラ!.md "wikilink")』
-    [アメリカ海軍](../Page/アメリカ海軍.md "wikilink")所属機が登場。[パールハーバーの上空を飛行するほか](../Page/真珠湾.md "wikilink")、地上に駐機していた機体が[真珠湾攻撃](../Page/真珠湾攻撃.md "wikilink")による[爆撃で破壊されてしまう](https://ja.wikipedia.org/wiki/空襲 "wikilink")。飛行シーンなどでは実物が、破壊されるシーンでは実物大セットや飛行不可能な[スクラップ](https://ja.wikipedia.org/wiki/スクラップ "wikilink")が撮影に使用されている。地上で破壊されるカタリナは、明らかに骨格構造のない石膏模型である。
+    [アメリカ海軍](../Page/アメリカ海軍.md "wikilink")所属機が登場。[パールハーバーの上空を飛行するほか](../Page/真珠湾.md "wikilink")、地上に駐機していた機体が[真珠湾攻撃](../Page/真珠湾攻撃.md "wikilink")による[爆撃で破壊されてしまう](../Page/空襲.md "wikilink")。飛行シーンなどでは実物が、破壊されるシーンでは実物大セットや飛行不可能な[スクラップ](../Page/スクラップ.md "wikilink")が撮影に使用されている。地上で破壊されるカタリナは、明らかに骨格構造のない石膏模型である。
   - 『[アルキメデスの大戦](https://ja.wikipedia.org/wiki/アルキメデスの大戦 "wikilink")』
-    劇中の[坊ノ岬沖海戦](https://ja.wikipedia.org/wiki/坊ノ岬沖海戦 "wikilink")で登場。撃墜された航空機搭乗員の[捜索救難を行っている](https://ja.wikipedia.org/wiki/戦闘捜索救難 "wikilink")。
+    劇中の[坊ノ岬沖海戦](../Page/坊ノ岬沖海戦.md "wikilink")で登場。撃墜された航空機搭乗員の[捜索救難を行っている](https://ja.wikipedia.org/wiki/戦闘捜索救難 "wikilink")。
 
 ### ゲーム
 
   - 『[War Thunder](https://ja.wikipedia.org/wiki/War_Thunder "wikilink")』
-    アメリカツリーでPBY-5およびPBY-5a、[ソ連課金機としてPBY](https://ja.wikipedia.org/wiki/赤色空軍 "wikilink")-5a、[イギリス課金機としてCatalina](https://ja.wikipedia.org/wiki/イギリス空軍 "wikilink") Mk.IVaが登場。
+    アメリカツリーでPBY-5およびPBY-5a、[ソ連課金機としてPBY](../Page/赤色空軍.md "wikilink")-5a、[イギリス課金機としてCatalina](../Page/イギリス空軍.md "wikilink") Mk.IVaが登場。
   - 『[艦隊これくしょん -艦これ-](https://ja.wikipedia.org/wiki/艦隊これくしょん_-艦これ- "wikilink")』
     PBY-5Aが登場。
   - 『[コール オブ デューティ ワールド・アット・ウォー](https://ja.wikipedia.org/wiki/コール_オブ_デューティ_ワールド・アット・ウォー "wikilink")』
@@ -840,7 +840,7 @@ RAAF A24-385</p></td>
 
 ## 関連項目
 
-  - [K作戦](https://ja.wikipedia.org/wiki/K作戦 "wikilink")
+  - [K作戦](../Page/K作戦.md "wikilink")
   - [カタリナ事件](https://ja.wikipedia.org/wiki/カタリナ事件 "wikilink")
 
 [Category:アメリカ合衆国の軍用機](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の軍用機 "wikilink") [Category:対潜哨戒機](https://ja.wikipedia.org/wiki/Category:対潜哨戒機 "wikilink") [Category:飛行艇](https://ja.wikipedia.org/wiki/Category:飛行艇 "wikilink") [Category:偵察機](https://ja.wikipedia.org/wiki/Category:偵察機 "wikilink") [Category:コンソリデーテッドの航空機](https://ja.wikipedia.org/wiki/Category:コンソリデーテッドの航空機 "wikilink") [Category:海上自衛隊の装備品](https://ja.wikipedia.org/wiki/Category:海上自衛隊の装備品 "wikilink")

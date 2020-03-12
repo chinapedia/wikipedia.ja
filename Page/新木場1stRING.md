@@ -1,23 +1,23 @@
 > この記事は[1stRING](https://ja.wikipedia.org/wiki/1stRING)から翻訳されています。
 
 
-**新木場1stRING**（しんきばファーストリング）は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")[新木場](https://ja.wikipedia.org/wiki/新木場 "wikilink")に所在するイベントホールである。運営はウエストコーポレーション。
+**新木場1stRING**（しんきばファーストリング）は、[東京都](../Page/東京都.md "wikilink")[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")[新木場](../Page/新木場.md "wikilink")に所在するイベントホールである。運営はウエストコーポレーション。
 
 ## 概要
 
-[新木場風景2016－3.jpg](https://ja.wikipedia.org/wiki/File:新木場風景2016－3.jpg "fig:新木場風景2016－3.jpg") [新木場風景2016－4.jpg](https://ja.wikipedia.org/wiki/File:新木場風景2016－4.jpg "fig:新木場風景2016－4.jpg") [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")3月より営業開始。
+[新木場風景2016－3.jpg](https://ja.wikipedia.org/wiki/File:新木場風景2016－3.jpg "fig:新木場風景2016－3.jpg") [新木場風景2016－4.jpg](https://ja.wikipedia.org/wiki/File:新木場風景2016－4.jpg "fig:新木場風景2016－4.jpg") [2004年](../Page/2004年.md "wikilink")3月より営業開始。
 
-[プロレス](../Page/プロレス.md "wikilink")用リングが常設されているイベント会場。そのため、主に[プロレス](../Page/プロレス.md "wikilink")興行への貸出をおこなっており、数多くのイベントが催されている（2018年の会場稼働は330興行以上\[1\]）。当初は[JDスターの道場兼常設会場として使用されていた](https://ja.wikipedia.org/wiki/JDスター女子プロレス "wikilink")。
+[プロレス](../Page/プロレス.md "wikilink")用リングが常設されているイベント会場。そのため、主に[プロレス](../Page/プロレス.md "wikilink")興行への貸出をおこなっており、数多くのイベントが催されている（2018年の会場稼働は330興行以上\[1\]）。当初は[JDスターの道場兼常設会場として使用されていた](../Page/JDスター女子プロレス.md "wikilink")。
 
 ただ、プロレスだけではなく、演劇・舞台・CMやTV番組の撮影・[Berryz工房](../Page/Berryz工房.md "wikilink")などのアイドルや音楽のイベント・企業の研修会が開催されるなど、自由度が高く幅広いジャンルのイベントスペースとして利用されている。
 
-座席は、[パイプ椅子](https://ja.wikipedia.org/wiki/パイプ椅子 "wikilink")150席・雛壇134席の計284席（但し使用団体の判断で席数や配列の変更が可能）。
+座席は、[パイプ椅子](../Page/パイプ椅子.md "wikilink")150席・雛壇134席の計284席（但し使用団体の判断で席数や配列の変更が可能）。
 
-[後楽園ホール](https://ja.wikipedia.org/wiki/後楽園ホール "wikilink")のように前売りチケットの販売はおこなっていない。そのため同会場でおこなわれる大会でも、チケット予約やイベント内容の確認などは、直接イベント主催団体へ問い合わせることになる。
+[後楽園ホール](../Page/後楽園ホール.md "wikilink")のように前売りチケットの販売はおこなっていない。そのため同会場でおこなわれる大会でも、チケット予約やイベント内容の確認などは、直接イベント主催団体へ問い合わせることになる。
 
 2010年（平成22年）11月1日～11月6日には、開設5周年を記念して「新木場プロレスパーク2010」を7団体9興行で開催。
 
-2014年（平成26年）3月には、開設10周年を記念して[FIGHTING TV サムライ](https://ja.wikipedia.org/wiki/FIGHTING_TV_サムライ "wikilink")「[インディーのお仕事](../Page/インディーのお仕事.md "wikilink")」「[女子プロレスのお仕事](https://ja.wikipedia.org/wiki/女子プロレスのお仕事 "wikilink")」の公開収録が行われた。
+2014年（平成26年）3月には、開設10周年を記念して[FIGHTING TV サムライ](../Page/FIGHTING_TV_サムライ.md "wikilink")「[インディーのお仕事](../Page/インディーのお仕事.md "wikilink")」「[女子プロレスのお仕事](https://ja.wikipedia.org/wiki/女子プロレスのお仕事 "wikilink")」の公開収録が行われた。
 
 ## アクセス
 
@@ -33,14 +33,14 @@
 
   - [スターダム](https://ja.wikipedia.org/wiki/スターダム "wikilink")
   - [プロレスリングWAVE](https://ja.wikipedia.org/wiki/プロレスリングWAVE "wikilink")
-  - [DDTプロレスリング](https://ja.wikipedia.org/wiki/DDTプロレスリング "wikilink")
-  - [大日本プロレス](https://ja.wikipedia.org/wiki/大日本プロレス "wikilink")
+  - [DDTプロレスリング](../Page/DDTプロレスリング.md "wikilink")
+  - [大日本プロレス](../Page/大日本プロレス.md "wikilink")
   - [プロレスリングFREEDOMS](https://ja.wikipedia.org/wiki/プロレスリングFREEDOMS "wikilink")
   - [全日本プロレス](../Page/全日本プロレス.md "wikilink")
   - [プロレスリングZERO1](../Page/全日本プロレス.md "wikilink")
-  - [暗黒プロレス組織666](https://ja.wikipedia.org/wiki/666_\(プロレス\) "wikilink")
+  - [暗黒プロレス組織666](../Page/666_\(プロレス\).md "wikilink")
   - [みちのくプロレス](../Page/みちのくプロレス.md "wikilink")
-  - [KAIENTAI DOJO](https://ja.wikipedia.org/wiki/KAIENTAI_DOJO "wikilink")
+  - [KAIENTAI DOJO](../Page/KAIENTAI_DOJO.md "wikilink")
   - [WRESTLE-1](https://ja.wikipedia.org/wiki/WRESTLE-1 "wikilink")
   - [プロレスリングBASARA](https://ja.wikipedia.org/wiki/プロレスリングBASARA "wikilink")
   - [ガンバレ☆プロレス](https://ja.wikipedia.org/wiki/ガンバレ☆プロレス "wikilink")
@@ -48,17 +48,17 @@
   - [マーベラス](https://ja.wikipedia.org/wiki/マーベラス_\(プロレス\) "wikilink")
   - [アクトレスガールズ](https://ja.wikipedia.org/wiki/Actwres_girl'Z "wikilink")
   - [SEAdLINNNG](https://ja.wikipedia.org/wiki/SEAdLINNNG "wikilink")
-  - [アイスリボン](https://ja.wikipedia.org/wiki/アイスリボン "wikilink")
+  - [アイスリボン](../Page/アイスリボン.md "wikilink")
   - [エスオベーション](https://ja.wikipedia.org/wiki/エスオベーション "wikilink")
   - [DRAGON GATE](https://ja.wikipedia.org/wiki/DRAGON_GATE "wikilink")
-  - [大阪プロレス](https://ja.wikipedia.org/wiki/大阪プロレス "wikilink")
+  - [大阪プロレス](../Page/大阪プロレス.md "wikilink")
   - [WNC](https://ja.wikipedia.org/wiki/Wrestling_New_Classic "wikilink")
   - [ガッツワールドプロレスリング](https://ja.wikipedia.org/wiki/ガッツワールドプロレスリング "wikilink")
   - [プロレスリングSECRET BASE](https://ja.wikipedia.org/wiki/プロレスリング・SECRET_BASE "wikilink")
   - [STYLE-E](https://ja.wikipedia.org/wiki/U-FILE_CAMP#STYLE-E "wikilink")
-  - [スタンリー興行](https://ja.wikipedia.org/wiki/佐野直 "wikilink")
-  - [鬼神道Retums](https://ja.wikipedia.org/wiki/ミスター雁之助 "wikilink")
-  - [アパッチプロレス軍](https://ja.wikipedia.org/wiki/アパッチプロレス軍 "wikilink")
+  - [スタンリー興行](../Page/佐野直.md "wikilink")
+  - [鬼神道Retums](../Page/ミスター雁之助.md "wikilink")
+  - [アパッチプロレス軍](../Page/アパッチプロレス軍.md "wikilink")
   - [天龍プロジェクト](https://ja.wikipedia.org/wiki/天龍プロジェクト "wikilink")
   - [JEWELS](https://ja.wikipedia.org/wiki/JEWELS "wikilink")
   - [キックボクシング](../Page/キックボクシング.md "wikilink")興行（[B-FAMILY NEO](https://ja.wikipedia.org/wiki/B-FAMILY_NEO "wikilink")、[日本プロキックボクシング連盟](https://ja.wikipedia.org/wiki/日本プロキックボクシング連盟 "wikilink")など）
@@ -69,7 +69,7 @@
 
 ## 関連項目
 
-  - [ディファ有明](https://ja.wikipedia.org/wiki/ディファ有明 "wikilink") - 同区内に在った格闘技常設会場。
+  - [ディファ有明](../Page/ディファ有明.md "wikilink") - 同区内に在った格闘技常設会場。
   - [新宿FACE](../Page/新宿FACE.md "wikilink") - 東京都新宿区に在る、リングを所有するイベント会場。新木場と比べ約2倍のキャパシティを持つ。
 
 ## 外部リンク

@@ -7,9 +7,9 @@
 
 ## 経緯
 
-HYPER GO号は、[中京テレビ](../Page/中京テレビ放送.md "wikilink") ([日本テレビ系](https://ja.wikipedia.org/wiki/日本テレビ系 "wikilink")) のテレビ番組 『[ヤミツキ](https://ja.wikipedia.org/wiki/ヤミツキ "wikilink")』 (2000年4月～) で、[郷ひろみ](../Page/郷ひろみ.md "wikilink")が新曲「[なかったコトにして](https://ja.wikipedia.org/wiki/なかったコトにして "wikilink")」のバック[ダンサー](https://ja.wikipedia.org/wiki/ダンサー "wikilink")を10人集めるという企画から誕生した。数週にわたり、[喫茶店](../Page/喫茶店.md "wikilink")の窓から街角のかわいい女の子を探して、簡単な審査で5人を採用した（正確には、途中で1人が脱退したため、計6人を採用）。
+HYPER GO号は、[中京テレビ](../Page/中京テレビ放送.md "wikilink") ([日本テレビ系](https://ja.wikipedia.org/wiki/日本テレビ系 "wikilink")) のテレビ番組 『[ヤミツキ](../Page/ヤミツキ.md "wikilink")』 (2000年4月～) で、[郷ひろみ](../Page/郷ひろみ.md "wikilink")が新曲「[なかったコトにして](../Page/なかったコトにして.md "wikilink")」のバック[ダンサー](https://ja.wikipedia.org/wiki/ダンサー "wikilink")を10人集めるという企画から誕生した。数週にわたり、[喫茶店](../Page/喫茶店.md "wikilink")の窓から街角のかわいい女の子を探して、簡単な審査で5人を採用した（正確には、途中で1人が脱退したため、計6人を採用）。
 
-HYPER GO号プロは本来、[テレビ愛知](../Page/テレビ愛知.md "wikilink") ([テレビ東京系](https://ja.wikipedia.org/wiki/テレビ東京系 "wikilink")) のテレビ番組 『[イカリングの面積](https://ja.wikipedia.org/wiki/イカリングの面積 "wikilink")』 (2000年4月～) のアシスタント的な出演者5人で、番組名から「面積ギャル」と呼ばれていた。本来は1つのユニットとしての活動は想定されておらず、所属事務所もバラバラだった。しかし、この番組に郷ひろみがゲスト出演したとき、HYPER GO号に採用され、10人がそろった。
+HYPER GO号プロは本来、[テレビ愛知](../Page/テレビ愛知.md "wikilink") ([テレビ東京系](https://ja.wikipedia.org/wiki/テレビ東京系 "wikilink")) のテレビ番組 『[イカリングの面積](../Page/イカリングの面積.md "wikilink")』 (2000年4月～) のアシスタント的な出演者5人で、番組名から「面積ギャル」と呼ばれていた。本来は1つのユニットとしての活動は想定されておらず、所属事務所もバラバラだった。しかし、この番組に郷ひろみがゲスト出演したとき、HYPER GO号に採用され、10人がそろった。
 
 また、街でスカウトされた5人をHYPER GO号アマ、旧面積ギャルの5人をHYPER GO号プロと区別するようになった。なお、どちらか片方だけの活動もしばしばあったが、その時も単にHYPER GO号と称することが多かった。『イカリングの面積』でも、HYPER GO号プロは単にHYPER GO号と呼ばれた。
 
@@ -19,7 +19,7 @@ HYPER GO号プロは本来、[テレビ愛知](../Page/テレビ愛知.md "wikil
 
 ### HYPER GO号プロ
 
-  - [浅川ちひろ](https://ja.wikipedia.org/wiki/浅川ちひろ "wikilink") (あさかわ ちひろ) [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[11月10日](../Page/11月10日.md "wikilink")生まれ、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身、現 浅川稚広
+  - [浅川ちひろ](https://ja.wikipedia.org/wiki/浅川ちひろ "wikilink") (あさかわ ちひろ) [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[11月10日](../Page/11月10日.md "wikilink")生まれ、[東京都](../Page/東京都.md "wikilink")出身、現 浅川稚広
   - [小川奈那](https://ja.wikipedia.org/wiki/小川奈那 "wikilink") (おがわ なな) [1981年](../Page/1981年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink")生まれ、[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")出身
   - [神戸みゆき](https://ja.wikipedia.org/wiki/神戸みゆき "wikilink") (かんべ みゆき) [1984年](../Page/1984年.md "wikilink")[5月7日](../Page/5月7日.md "wikilink")生まれ、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身
   - [高木梓](https://ja.wikipedia.org/wiki/高木梓 "wikilink") (たかぎ あずさ) 1984年[2月7日](../Page/2月7日.md "wikilink")生まれ、東京都出身
@@ -28,10 +28,10 @@ HYPER GO号プロは本来、[テレビ愛知](../Page/テレビ愛知.md "wikil
 ### HYPER GO号アマ
 
   - [石塚友希](https://ja.wikipedia.org/wiki/石塚友希 "wikilink") (いしづか ゆき) 1981年[12月21日](../Page/12月21日.md "wikilink")生まれ、埼玉県出身
-  - [佐藤綾花](https://ja.wikipedia.org/wiki/佐藤綾花_\(HYPER_GO号\) "wikilink") (さとう あやか) [1981年](../Page/1981年.md "wikilink")[5月11日](../Page/5月11日.md "wikilink")生まれ、[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")出身、[小林大悟](https://ja.wikipedia.org/wiki/小林大悟 "wikilink")と結婚したモデルの[佐藤綾花](https://ja.wikipedia.org/wiki/佐藤綾花 "wikilink")は別人
+  - [佐藤綾花](https://ja.wikipedia.org/wiki/佐藤綾花_\(HYPER_GO号\) "wikilink") (さとう あやか) [1981年](../Page/1981年.md "wikilink")[5月11日](../Page/5月11日.md "wikilink")生まれ、[埼玉県](../Page/埼玉県.md "wikilink")出身、[小林大悟](../Page/小林大悟.md "wikilink")と結婚したモデルの[佐藤綾花](https://ja.wikipedia.org/wiki/佐藤綾花 "wikilink")は別人
   - [進藤茜](https://ja.wikipedia.org/wiki/進藤茜 "wikilink") (しんどう あかね) 1981年[6月30日](../Page/6月30日.md "wikilink")生まれ、栃木県出身
   - [芳賀美和](https://ja.wikipedia.org/wiki/芳賀美和 "wikilink") (はが みわ) 1979年[3月19日](../Page/3月19日.md "wikilink")生まれ
-  - [平川由梨](https://ja.wikipedia.org/wiki/平川由梨 "wikilink") (ひらかわ ゆり) 1981年[7月6日](../Page/7月6日.md "wikilink")生まれ、埼玉県出身、[スペースクラフト](https://ja.wikipedia.org/wiki/スペースクラフト "wikilink")所属
+  - [平川由梨](../Page/平川由梨.md "wikilink") (ひらかわ ゆり) 1981年[7月6日](../Page/7月6日.md "wikilink")生まれ、埼玉県出身、[スペースクラフト](../Page/スペースクラフト.md "wikilink")所属
 
 ### HYPER GO号アマ脱退メンバー
 
@@ -39,16 +39,16 @@ HYPER GO号プロは本来、[テレビ愛知](../Page/テレビ愛知.md "wikil
 
 ### HYPER GO号2新メンバー
 
-  - [金親和子](https://ja.wikipedia.org/wiki/金親和子 "wikilink") (かねちか かずこ) [1982年](../Page/1982年.md "wikilink")[1月20日](../Page/1月20日.md "wikilink")生まれ、[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")出身
-  - [平間樹里](https://ja.wikipedia.org/wiki/平間樹里 "wikilink") (ひらま じゅり) 1984年[2月8日](https://ja.wikipedia.org/wiki/2月8日 "wikilink")生まれ、東京都出身
+  - [金親和子](https://ja.wikipedia.org/wiki/金親和子 "wikilink") (かねちか かずこ) [1982年](../Page/1982年.md "wikilink")[1月20日](../Page/1月20日.md "wikilink")生まれ、[千葉県](../Page/千葉県.md "wikilink")出身
+  - [平間樹里](https://ja.wikipedia.org/wiki/平間樹里 "wikilink") (ひらま じゅり) 1984年[2月8日](../Page/2月8日.md "wikilink")生まれ、東京都出身
 
 ## 活動
 
   - 中京テレビ『ヤミツキ』 (HYPER GO号アマ・HYPER GO号 → HYPER GO号2)
   - テレビ愛知『イカリングの面積』 (HYPER GO号プロ → HYPER GO号2)
   - CD[シングル](../Page/シングル.md "wikilink")「なかったコトにして」(郷ひろみ with HYPER GO号、2000年[6月21日](../Page/6月21日.md "wikilink"))
-  - テレビ[明石家マンション物語](https://ja.wikipedia.org/wiki/明石家マンション物語 "wikilink")\#35（2000年7月5日）大日本意味なし教
-  - テレビ[CM](https://ja.wikipedia.org/wiki/コマーシャルメッセージ "wikilink")『[ダイハツ](https://ja.wikipedia.org/wiki/ダイハツ "wikilink") / [YRV](https://ja.wikipedia.org/wiki/ダイハツ・YRV "wikilink")』 (HYPER GO号2 (メインは郷ひろみ)、2000年)
+  - テレビ[明石家マンション物語](../Page/明石家マンション物語.md "wikilink")\#35（2000年7月5日）大日本意味なし教
+  - テレビ[CM](../Page/コマーシャルメッセージ.md "wikilink")『[ダイハツ](https://ja.wikipedia.org/wiki/ダイハツ "wikilink") / [YRV](../Page/ダイハツ・YRV.md "wikilink")』 (HYPER GO号2 (メインは郷ひろみ)、2000年)
   - CDシングル「Paradise a gogo」 (HYPER GO号2、2000年10月12日、[avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink"))
 
 [Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:エイベックス・グループ](https://ja.wikipedia.org/wiki/Category:エイベックス・グループ "wikilink")

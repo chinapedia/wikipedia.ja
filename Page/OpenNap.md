@@ -19,7 +19,7 @@
 
 ## 機能
 
-OpenNapは、Napster同様、[チャットシステム](https://ja.wikipedia.org/wiki/チャットシステム "wikilink")、[インスタントメッセージ](https://ja.wikipedia.org/wiki/インスタントメッセージ "wikilink")(IM)、[ファイル検索](https://ja.wikipedia.org/wiki/ファイル検索 "wikilink")、[ファイル参照](https://ja.wikipedia.org/wiki/ファイル参照 "wikilink")、[ファイル交換](https://ja.wikipedia.org/wiki/ファイル交換 "wikilink")の機能を有する。
+OpenNapは、Napster同様、[チャットシステム](https://ja.wikipedia.org/wiki/チャットシステム "wikilink")、[インスタントメッセージ](../Page/インスタントメッセージ.md "wikilink")(IM)、[ファイル検索](https://ja.wikipedia.org/wiki/ファイル検索 "wikilink")、[ファイル参照](https://ja.wikipedia.org/wiki/ファイル参照 "wikilink")、[ファイル交換](https://ja.wikipedia.org/wiki/ファイル交換 "wikilink")の機能を有する。
 
 ファイル交換部分以外は、IRCサーバを意識した作りとなっており。実際IRCとの共存タイプのサーバソフトウェアや、両対応のクライアントソフトが存在する。
 

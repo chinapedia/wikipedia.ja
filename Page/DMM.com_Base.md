@@ -1,13 +1,13 @@
 > この記事は[DMM.com Base](https://ja.wikipedia.org/wiki/DMM.com_Base)から翻訳されています。
 
 
-**株式会社DMM.com Base**（ディーエムエムドットコムベース）は、[石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")[加賀市](https://ja.wikipedia.org/wiki/加賀市 "wikilink")で物流倉庫とアミューズメントパーク「KC」を運営する[DMM.com](https://ja.wikipedia.org/wiki/DMM.com "wikilink")のグループ企業。KCのインターネット部門がDMM.comの始まりである\[1\]。
+**株式会社DMM.com Base**（ディーエムエムドットコムベース）は、[石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")[加賀市](https://ja.wikipedia.org/wiki/加賀市 "wikilink")で物流倉庫とアミューズメントパーク「KC」を運営する[DMM.com](../Page/DMM.com.md "wikilink")のグループ企業。KCのインターネット部門がDMM.comの始まりである\[1\]。
 
-[日本複合カフェ協会](https://ja.wikipedia.org/wiki/日本複合カフェ協会 "wikilink")会員\[2\]。
+[日本複合カフェ協会](../Page/日本複合カフェ協会.md "wikilink")会員\[2\]。
 
 ## 概要
 
-株式会社DMM.com Baseは、合同会社DMM.comや株式会社ティーアイエスなどのDMMグループ会社のDVD・Blu-rayなど映像パッケージメディア及びインターネット通販にかかわる物流サービスを担っている。そのほかにDVD・Blu-rayなどパッケージメディアの製造・加工業務、株式会社[ジーオーティー](https://ja.wikipedia.org/wiki/ジーオーティー "wikilink")の出版している作品の作家ロイヤリティーの管理、複合アミューズメント施設の運営を行っている。
+株式会社DMM.com Baseは、合同会社DMM.comや株式会社ティーアイエスなどのDMMグループ会社のDVD・Blu-rayなど映像パッケージメディア及びインターネット通販にかかわる物流サービスを担っている。そのほかにDVD・Blu-rayなどパッケージメディアの製造・加工業務、株式会社[ジーオーティー](../Page/ジーオーティー.md "wikilink")の出版している作品の作家ロイヤリティーの管理、複合アミューズメント施設の運営を行っている。
 
 ## 沿革
 

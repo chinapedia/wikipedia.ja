@@ -5,9 +5,9 @@
 
 ## 概要
 
-  - [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")から46年にわたり使用された、[毎日放送千里丘放送センター](https://ja.wikipedia.org/wiki/毎日放送千里丘放送センター "wikilink")の廃止が決まり、そのさよなら企画として放送されたもの。
+  - [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")から46年にわたり使用された、[毎日放送千里丘放送センター](../Page/毎日放送千里丘放送センター.md "wikilink")の廃止が決まり、そのさよなら企画として放送されたもの。
   - 番組は、千里丘放送センターで録音されたり、一部は公開録音が行われた。
-  - テレビスタジオも多くあり、過去にはテレビ情報番組([すてきな出逢い いい朝8時など](https://ja.wikipedia.org/wiki/すてきな出逢い_いい朝8時 "wikilink"))の生放送なども行われていたが、今回の特別番組は、全て[ラジオで放送された](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")。
+  - テレビスタジオも多くあり、過去にはテレビ情報番組([すてきな出逢い いい朝8時など](../Page/すてきな出逢い_いい朝8時.md "wikilink"))の生放送なども行われていたが、今回の特別番組は、全て[ラジオで放送された](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")。
 
 ## 放送された番組
 
@@ -27,7 +27,7 @@
 <!-- end list -->
 
   -
-    珍品収集を日ごろから行っている[河内家菊水丸](https://ja.wikipedia.org/wiki/河内家菊水丸 "wikilink")が、センター内の倉庫を巡り、色々なお宝を探す。
+    珍品収集を日ごろから行っている[河内家菊水丸](../Page/河内家菊水丸.md "wikilink")が、センター内の倉庫を巡り、色々なお宝を探す。
 
 ### 歌え！MBSヤングタウン
 
@@ -63,7 +63,7 @@
 <!-- end list -->
 
   -
-    桂三枝（現・[六代目桂文枝](../Page/桂文枝_\(6代目\).md "wikilink")）･[斎藤努](https://ja.wikipedia.org/wiki/斎藤努 "wikilink")(元MBSアナウンサー)
+    桂三枝（現・[六代目桂文枝](../Page/桂文枝_\(6代目\).md "wikilink")）･[斎藤努](../Page/斎藤努.md "wikilink")(元MBSアナウンサー)
 
 <!-- end list -->
 
@@ -75,7 +75,7 @@
     ダボーズ
     チャリオット・シンガーズ
     [堀内孝雄](../Page/堀内孝雄.md "wikilink")
-    田中ユミ(元[シモンズ](https://ja.wikipedia.org/wiki/シモンズ "wikilink"))
+    田中ユミ(元[シモンズ](../Page/シモンズ.md "wikilink"))
 
 ### 馬場章夫のMBS千里丘探検隊
 
@@ -102,7 +102,7 @@
 <!-- end list -->
 
   -
-    [馬場章夫](https://ja.wikipedia.org/wiki/馬場章夫 "wikilink")・[鳥居睦子](https://ja.wikipedia.org/wiki/鳥居睦子 "wikilink")
+    [馬場章夫](../Page/馬場章夫.md "wikilink")・[鳥居睦子](../Page/鳥居睦子.md "wikilink")
 
 ### ミュージシャンパーソナリティ・トークセッション
 
@@ -140,10 +140,10 @@
   -
     [谷村新司](../Page/谷村新司.md "wikilink")
     [ばんばひろふみ](../Page/ばんばひろふみ.md "wikilink")
-    [根本要](https://ja.wikipedia.org/wiki/根本要 "wikilink")（[スターダストレビュー](https://ja.wikipedia.org/wiki/スターダストレビュー "wikilink")）
+    [根本要](../Page/根本要.md "wikilink")（[スターダストレビュー](../Page/スターダストレビュー.md "wikilink")）
     [嘉門達夫](https://ja.wikipedia.org/wiki/嘉門達夫 "wikilink")
     [押尾コータロー](../Page/押尾コータロー.md "wikilink")
-    [松井愛](https://ja.wikipedia.org/wiki/松井愛 "wikilink")(MBSアナウンサー)進行役
+    [松井愛](../Page/松井愛.md "wikilink")(MBSアナウンサー)進行役
 
 ### 千里のヒットスタジオ
 
@@ -152,7 +152,7 @@
 <!-- end list -->
 
   -
-    7月9日20時20分から21時20分（拡大版･[ナニワ音楽ショウ](https://ja.wikipedia.org/wiki/ナニワ音楽ショウ "wikilink")内で放送）
+    7月9日20時20分から21時20分（拡大版･[ナニワ音楽ショウ](../Page/ナニワ音楽ショウ.md "wikilink")内で放送）
 
 <!-- end list -->
 
@@ -161,10 +161,10 @@
 <!-- end list -->
 
   -
-    [大西ユカリ](https://ja.wikipedia.org/wiki/大西ユカリ "wikilink")
+    [大西ユカリ](../Page/大西ユカリ.md "wikilink")
     [加山雄三](https://ja.wikipedia.org/wiki/加山雄三 "wikilink")
-    [杉田二郎](https://ja.wikipedia.org/wiki/杉田二郎 "wikilink")
-    [月亭可朝](https://ja.wikipedia.org/wiki/月亭可朝 "wikilink")
+    [杉田二郎](../Page/杉田二郎.md "wikilink")
+    [月亭可朝](../Page/月亭可朝.md "wikilink")
     [笑福亭鉄瓶](https://ja.wikipedia.org/wiki/笑福亭鉄瓶 "wikilink")
 
 ### さてはトコトン菊水丸・あぁ千里丘スペッシャル
@@ -193,10 +193,10 @@
 
   -
     河内家菊水丸
-    [和泉夏子](https://ja.wikipedia.org/wiki/和泉夏子 "wikilink")
+    [和泉夏子](../Page/和泉夏子.md "wikilink")
     [石田雄一](https://ja.wikipedia.org/wiki/石田雄一 "wikilink")
     小池清
-    [佐々木美絵](https://ja.wikipedia.org/wiki/佐々木美絵 "wikilink")
+    [佐々木美絵](../Page/佐々木美絵.md "wikilink")
 
 ### さよなら千里丘スペシャル
 
@@ -216,8 +216,8 @@
 <!-- end list -->
 
   -
-    [柏木宏之](https://ja.wikipedia.org/wiki/柏木宏之 "wikilink")（MBSアナウンサー）
-    [関岡香](https://ja.wikipedia.org/wiki/関岡香 "wikilink")（MBSアナウンサー）
+    [柏木宏之](../Page/柏木宏之.md "wikilink")（MBSアナウンサー）
+    [関岡香](../Page/関岡香.md "wikilink")（MBSアナウンサー）
 
 <!-- end list -->
 
@@ -226,7 +226,7 @@
 <!-- end list -->
 
   -
-    [原田伸郎](https://ja.wikipedia.org/wiki/原田伸郎 "wikilink")
+    [原田伸郎](../Page/原田伸郎.md "wikilink")
 
 <!-- end list -->
 
@@ -236,11 +236,11 @@
 
 ::[浜村淳](../Page/浜村淳.md "wikilink")
 
-::[桜井一枝](https://ja.wikipedia.org/wiki/桜井一枝 "wikilink")
+::[桜井一枝](../Page/桜井一枝.md "wikilink")
 
-::[汀夏子](https://ja.wikipedia.org/wiki/汀夏子 "wikilink")
+::[汀夏子](../Page/汀夏子.md "wikilink")
 
-::[鈴木美智子](https://ja.wikipedia.org/wiki/鈴木美智子 "wikilink")
+::[鈴木美智子](../Page/鈴木美智子.md "wikilink")
 
 ::清水良子
 
@@ -250,16 +250,16 @@
 
 :;懐かしの6スタ
 
-::[近藤光史](https://ja.wikipedia.org/wiki/近藤光史 "wikilink")
+::[近藤光史](../Page/近藤光史.md "wikilink")
 
-::[豊島美雪](https://ja.wikipedia.org/wiki/豊島美雪 "wikilink")
+::[豊島美雪](../Page/豊島美雪.md "wikilink")
 
 :;千里丘放送センターの想い出に乾杯
 
   -
 
       -
-        [野村啓司](https://ja.wikipedia.org/wiki/野村啓司 "wikilink")
+        [野村啓司](../Page/野村啓司.md "wikilink")
 
 ## 関連項目
 

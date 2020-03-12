@@ -5,10 +5,10 @@
 
 ## 解説
 
-  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[10月15日](../Page/10月15日.md "wikilink")に[エピックレコーズよりリリースされた](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")。累計売上は50.4万枚（[オリコン調べ](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")）。
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[10月15日](../Page/10月15日.md "wikilink")に[エピックレコーズよりリリースされた](../Page/エピックレコードジャパン.md "wikilink")。累計売上は50.4万枚（[オリコン調べ](../Page/オリコンチャート.md "wikilink")）。
   - もともとアルバム『THE POWER SOURCE』制作時に存在した。
   - [YUKIによると](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")、難しい日本語を使わない歌詞にしたかったとのこと。
-  - このシングル以降、しばらくジャケットにメンバーは写っていない。「ひとつだけ」でYUKIのみ登場するが、フルメンバーでは「[ラッキープール](https://ja.wikipedia.org/wiki/ラッキープール "wikilink")」まで約3年間ない。
+  - このシングル以降、しばらくジャケットにメンバーは写っていない。「ひとつだけ」でYUKIのみ登場するが、フルメンバーでは「[ラッキープール](../Page/ラッキープール.md "wikilink")」まで約3年間ない。
 
 ## 収録曲
 
@@ -20,18 +20,18 @@
         （作詞：Tack and Yukky）
 3.  **LOVER SOUL (Backing Track)** (6:01)
 
-全曲　作曲：[TAKUYA](https://ja.wikipedia.org/wiki/TAKUYA "wikilink")　編曲：JUDY AND MARY
+全曲　作曲：[TAKUYA](../Page/TAKUYA.md "wikilink")　編曲：JUDY AND MARY
 
 ## 収録アルバム
 
   - [POP LIFE](../Page/POP_LIFE_\(JUDY_AND_MARYのアルバム\).md "wikilink") (\#1,2)
-  - [FRESH](https://ja.wikipedia.org/wiki/FRESH_\(アルバム\) "wikilink") (\#1)
-  - [The Great Escape -COMPLETE BEST-](https://ja.wikipedia.org/wiki/The_Great_Escape_-COMPLETE_BEST- "wikilink") (\#1,2)
-  - [COMPLETE BEST ALBUM「FRESH」](https://ja.wikipedia.org/wiki/COMPLETE_BEST_ALBUM「FRESH」 "wikilink") (\#1)
+  - [FRESH](../Page/FRESH_\(アルバム\).md "wikilink") (\#1)
+  - [The Great Escape -COMPLETE BEST-](../Page/The_Great_Escape_-COMPLETE_BEST-.md "wikilink") (\#1,2)
+  - [COMPLETE BEST ALBUM「FRESH」](../Page/COMPLETE_BEST_ALBUM「FRESH」.md "wikilink") (\#1)
 
 ## カバー
 
-  - 2008年、[Mi](https://ja.wikipedia.org/wiki/Mi_\(バンド\) "wikilink")（アルバム『I Love Music〜Mi Best Collection〜』に収録）
+  - 2008年、[Mi](../Page/Mi_\(バンド\).md "wikilink")（アルバム『I Love Music〜Mi Best Collection〜』に収録）
   - 2009年、[大塚愛](https://ja.wikipedia.org/wiki/大塚愛 "wikilink")（アルバム『[JUDY AND MARY 15th Anniversary Tribute Album](https://ja.wikipedia.org/wiki/JUDY_AND_MARY_15th_Anniversary_Tribute_Album "wikilink")』収録）
   - 2010年、[JUJU](https://ja.wikipedia.org/wiki/JUJU "wikilink")（アルバム『[Request](https://ja.wikipedia.org/wiki/Request_\(アルバム\) "wikilink")』に収録）
   - 2017年、五島潤（[大野柚布子](https://ja.wikipedia.org/wiki/大野柚布子 "wikilink")）、紅葉谷希美（[遠藤ゆりか](https://ja.wikipedia.org/wiki/遠藤ゆりか "wikilink")）、金城そら（[古賀葵](https://ja.wikipedia.org/wiki/古賀葵 "wikilink")）(TVアニメ『[天使の3P\!](https://ja.wikipedia.org/wiki/天使の3P! "wikilink")』BD・DVD第2巻特典CDに収録)

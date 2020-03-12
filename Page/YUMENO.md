@@ -1,7 +1,7 @@
 > この記事は[YUMENO](https://ja.wikipedia.org/wiki/YUMENO)から翻訳されています。
 
 
-『**YUMENO**」』（ユメノ）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に公開された[日本映画](../Page/日本映画.md "wikilink")。厳冬の[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")を舞台に、ある殺人を機に彷徨う、3人の若者の魂の軌跡を描いたロードムービーである。[モントリオール世界映画祭](https://ja.wikipedia.org/wiki/モントリオール世界映画祭 "wikilink")、[釜山国際映画祭](../Page/釜山国際映画祭.md "wikilink")、[レインダンス映画祭](https://ja.wikipedia.org/wiki/レインダンス映画祭 "wikilink")他に出品。
+『**YUMENO**」』（ユメノ）は、[2005年](../Page/2005年.md "wikilink")に公開された[日本映画](../Page/日本映画.md "wikilink")。厳冬の[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")を舞台に、ある殺人を機に彷徨う、3人の若者の魂の軌跡を描いたロードムービーである。[モントリオール世界映画祭](../Page/モントリオール世界映画祭.md "wikilink")、[釜山国際映画祭](../Page/釜山国際映画祭.md "wikilink")、[レインダンス映画祭](https://ja.wikipedia.org/wiki/レインダンス映画祭 "wikilink")他に出品。
 1992年に千葉県市川市行徳で起きた[市川一家4人殺人事件](https://ja.wikipedia.org/wiki/市川一家4人殺人事件 "wikilink")を基に作られている。
 
 ## あらすじ
@@ -12,7 +12,7 @@
 
   - 監督・脚本：[鎌田義孝](../Page/鎌田義孝.md "wikilink")
   - プロデューサー：[浅野博貴](https://ja.wikipedia.org/wiki/浅野博貴 "wikilink")、[朝倉大介](https://ja.wikipedia.org/wiki/朝倉大介 "wikilink")、[岩田治樹](https://ja.wikipedia.org/wiki/岩田治樹 "wikilink")　　
-  - 脚本：[井土紀州](https://ja.wikipedia.org/wiki/井土紀州 "wikilink")
+  - 脚本：[井土紀州](../Page/井土紀州.md "wikilink")
   - 音楽：[山田勳生](https://ja.wikipedia.org/wiki/山田勳生 "wikilink")
   - 撮影：鍋島淳裕
   - 照明：福田裕左
@@ -26,22 +26,22 @@
 
 ## キャスト
 
-  - 沢井ユメノ：[菜葉菜](https://ja.wikipedia.org/wiki/菜葉菜 "wikilink")
+  - 沢井ユメノ：[菜葉菜](../Page/菜葉菜.md "wikilink")
   - ヨシキ：[小林且弥](../Page/小林且弥.md "wikilink")
   - 島田リョウ：[金井史更](https://ja.wikipedia.org/wiki/金井史更 "wikilink")
-  - サリ：[夏生ゆうな](https://ja.wikipedia.org/wiki/夏生ゆうな "wikilink")
+  - サリ：[夏生ゆうな](../Page/夏生ゆうな.md "wikilink")
   - 島田良昌：[伊藤猛](https://ja.wikipedia.org/wiki/伊藤猛 "wikilink")
   - 森川：[柳ユーレイ](../Page/柳憂怜.md "wikilink")
   - 堀口：[長井秀和](../Page/長井秀和.md "wikilink")
-  - 堀口雅子：[渡辺真起子](https://ja.wikipedia.org/wiki/渡辺真起子 "wikilink")
-  - 沢井秀雄：[小木茂光](https://ja.wikipedia.org/wiki/小木茂光 "wikilink")
-  - 沢井朋美：[内田春菊](https://ja.wikipedia.org/wiki/内田春菊 "wikilink")
+  - 堀口雅子：[渡辺真起子](../Page/渡辺真起子.md "wikilink")
+  - 沢井秀雄：[小木茂光](../Page/小木茂光.md "wikilink")
+  - 沢井朋美：[内田春菊](../Page/内田春菊.md "wikilink")
   - 哲也：[寺島進](https://ja.wikipedia.org/wiki/寺島進 "wikilink")
   - 菊池：[貴山侑哉](https://ja.wikipedia.org/wiki/貴山侑哉 "wikilink")
-  - 車の男：[ガンビーノ小林](https://ja.wikipedia.org/wiki/ガンビーノ小林 "wikilink")
+  - 車の男：[ガンビーノ小林](../Page/ガンビーノ小林.md "wikilink")
   - 渓流の男：[吉見幸洋](https://ja.wikipedia.org/wiki/吉見幸洋 "wikilink")
   - 渓流の女：[中村美玲](https://ja.wikipedia.org/wiki/中村美玲 "wikilink")、ひよこ
-  - ヤクザ：[飯島大介](https://ja.wikipedia.org/wiki/飯島大介 "wikilink")
+  - ヤクザ：[飯島大介](../Page/飯島大介.md "wikilink")
 
 ## 外部リンク
 

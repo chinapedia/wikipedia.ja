@@ -1,7 +1,7 @@
 > この記事は[SAD BLOOD ROCK\'N\'ROLL](https://ja.wikipedia.org/wiki/SAD_BLOOD_ROCK\'N\'ROLL)から翻訳されています。
 
 
-『**SAD BLOOD ROCK'N'ROLL**』 (サッド・ブラッド・ロックンロール) は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[SADS](https://ja.wikipedia.org/wiki/SADS "wikilink")の1作目の[アルバム](../Page/アルバム.md "wikilink")。
+『**SAD BLOOD ROCK'N'ROLL**』 (サッド・ブラッド・ロックンロール) は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[SADS](../Page/SADS.md "wikilink")の1作目の[アルバム](../Page/アルバム.md "wikilink")。
 
 ## 概要
 

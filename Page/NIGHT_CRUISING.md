@@ -1,11 +1,11 @@
 > この記事は[NIGHT CRUISING](https://ja.wikipedia.org/wiki/NIGHT_CRUISING)から翻訳されています。
 
 
-『**NIGHT CRUISING**』（ナイトクルージング）は、[テレビ大阪](../Page/テレビ大阪.md "wikilink")ほかで放送されていたkookoo\&co製作の[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")。全257回。テレビ大阪では[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月7日](../Page/4月7日.md "wikilink")から[2011年](../Page/2011年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")まで放送。
+『**NIGHT CRUISING**』（ナイトクルージング）は、[テレビ大阪](../Page/テレビ大阪.md "wikilink")ほかで放送されていたkookoo\&co製作の[音楽番組](../Page/音楽番組.md "wikilink")。全257回。テレビ大阪では[2006年](../Page/2006年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")から[2011年](../Page/2011年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")まで放送。
 
 ## 概要
 
-主に[ブラックミュージック](../Page/ブラックミュージック.md "wikilink")を取り上げていた[深夜番組](../Page/深夜番組.md "wikilink")で、その回で特集するミュージシャンへの取材VTRや新曲をリリースしたミュージシャンたちからのメッセージVTRなどを放送していた。放送開始から長らく4:3比の[標準画質映像](https://ja.wikipedia.org/wiki/標準画質映像 "wikilink")で放送されていたが、2010年7月9日放送分をもって16:9比の[ハイビジョン](../Page/ハイビジョン.md "wikilink")放送（アナログ放送では[レターボックス放送](https://ja.wikipedia.org/wiki/レターボックス_\(映像技術\) "wikilink")）へと移行した。
+主に[ブラックミュージック](../Page/ブラックミュージック.md "wikilink")を取り上げていた[深夜番組](../Page/深夜番組.md "wikilink")で、その回で特集するミュージシャンへの取材VTRや新曲をリリースしたミュージシャンたちからのメッセージVTRなどを放送していた。放送開始から長らく4:3比の[標準画質映像](../Page/標準画質映像.md "wikilink")で放送されていたが、2010年7月9日放送分をもって16:9比の[ハイビジョン](../Page/ハイビジョン.md "wikilink")放送（アナログ放送では[レターボックス放送](../Page/レターボックス_\(映像技術\).md "wikilink")）へと移行した。
 
 番組はその後、2011年3月11日に発生した[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")の影響で同年4月からは放送休止という形を取った。最後に放送された回のエンディングでは「ナイトクルージングは次回からしばらくお休みになります」とのテロップを表示し、当日の[番組表](https://ja.wikipedia.org/wiki/番組表 "wikilink")や[EPGにおいても最終回のマークを付していなかったが](../Page/電子番組ガイド.md "wikilink")、後に番組は公式サイトを通じてそのまま終了したことを公表した\[1\]。
 
@@ -51,7 +51,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/大阪府" title="wikilink">大阪府</a></p></td>
+<td><p><a href="../Page/大阪府.md" title="wikilink">大阪府</a></p></td>
 <td><p><a href="../Page/テレビ大阪.md" title="wikilink">テレビ大阪</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/TXN" title="wikilink">テレビ東京系列</a></p></td>
 <td><p>金曜 26:00 - 26:30 （2006年4月7日 - 2010年3月26日）<br />

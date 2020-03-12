@@ -1,7 +1,7 @@
 > この記事は[MAD \(\)](https://ja.wikipedia.org/wiki/MAD_\(\))から翻訳されています。
 
 
-**MAD**は[1952年](../Page/1952年.md "wikilink")から[DCコミックス](https://ja.wikipedia.org/wiki/DCコミックス "wikilink")が発行している[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の風刺雑誌。
+**MAD**は[1952年](../Page/1952年.md "wikilink")から[DCコミックス](../Page/DCコミックス.md "wikilink")が発行している[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の風刺雑誌。
 
 ## 概要
 

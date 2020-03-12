@@ -9,7 +9,7 @@
 
 ## 収録会場
 
-[SHIBUYA-AX](https://ja.wikipedia.org/wiki/SHIBUYA-AX "wikilink")
+[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")
 
 ## 収録映像曲
 
@@ -17,12 +17,12 @@
 2.  STARDUST
 3.  [ウェカピポ](../Page/ウェカピポ.md "wikilink")
 4.  CLONE AS A FUNNY CREATURE PREACHER
-5.  [1,000,000 MONSTERS ATTACK](https://ja.wikipedia.org/wiki/1,000,000_MONSTERS_ATTACK "wikilink")
+5.  [1,000,000 MONSTERS ATTACK](../Page/1,000,000_MONSTERS_ATTACK.md "wikilink")
 6.  See You @ Tha HOT SPOT
 7.  ルル・ベル
 8.  Interlude : エイジャ
-9.  [Magenta Magenta](https://ja.wikipedia.org/wiki/Magenta_Magenta "wikilink")
-10. [BLUES](https://ja.wikipedia.org/wiki/BLUES_\(SOUL'd_OUTの曲\) "wikilink")
+9.  [Magenta Magenta](../Page/Magenta_Magenta.md "wikilink")
+10. [BLUES](../Page/BLUES_\(SOUL'd_OUTの曲\).md "wikilink")
 11. Interlude : Tribal Program
 12. 告白 feat.TSUYOSHI(ダイジェスト)
 13. Parasite Paradise Lonesome feat.HAMMER(ダイジェスト)

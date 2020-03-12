@@ -5,11 +5,11 @@
 
 ## 概略
 
-[2002年](../Page/2002年.md "wikilink")3月に第1回開催。[2003年](../Page/2003年.md "wikilink")は[イラク戦争](../Page/イラク戦争.md "wikilink")のため中止となるが、[2004年](../Page/2004年.md "wikilink")以降毎年シーズン後に行われている。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")までは3月に開催され、日本開催ではWリーグファン感謝イベント・表彰式も併催していたが、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")は5月、[2007年](../Page/2007年.md "wikilink")は8月、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")は9月開催となった。
+[2002年](../Page/2002年.md "wikilink")3月に第1回開催。[2003年](../Page/2003年.md "wikilink")は[イラク戦争](../Page/イラク戦争.md "wikilink")のため中止となるが、[2004年](../Page/2004年.md "wikilink")以降毎年シーズン後に行われている。[2005年](../Page/2005年.md "wikilink")までは3月に開催され、日本開催ではWリーグファン感謝イベント・表彰式も併催していたが、[2006年](../Page/2006年.md "wikilink")は5月、[2007年](../Page/2007年.md "wikilink")は8月、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")は9月開催となった。
 
-日本の[WJBLと韓国の](https://ja.wikipedia.org/wiki/バスケットボール女子日本リーグ機構 "wikilink")[WKBLの王者が](https://ja.wikipedia.org/wiki/韓国女子バスケットボールリーグ "wikilink")[ホーム・アンド・アウェー](../Page/ホーム・アンド・アウェー.md "wikilink")方式（2004年は日本での1回戦のみ）で対戦し日韓王者を決定する。
+日本の[WJBLと韓国の](https://ja.wikipedia.org/wiki/バスケットボール女子日本リーグ機構 "wikilink")[WKBLの王者が](../Page/韓国女子バスケットボールリーグ.md "wikilink")[ホーム・アンド・アウェー](../Page/ホーム・アンド・アウェー.md "wikilink")方式（2004年は日本での1回戦のみ）で対戦し日韓王者を決定する。
 
-日本開催は[国立代々木競技場](https://ja.wikipedia.org/wiki/国立代々木競技場 "wikilink")第2体育館で行われる。韓国開催はソウル[奨忠体育館](https://ja.wikipedia.org/wiki/奨忠体育館 "wikilink")で行われていたが、2007年からは出場チームのホームタウンで開催される。
+日本開催は[国立代々木競技場](../Page/国立代々木競技場.md "wikilink")第2体育館で行われる。韓国開催はソウル[奨忠体育館](../Page/奨忠体育館.md "wikilink")で行われていたが、2007年からは出場チームのホームタウンで開催される。
 
 2008年まですべて韓国チームが制しており、日本チームはいまだ1勝すら挙げていない。
 
@@ -43,7 +43,7 @@
 <td><p><small></small><a href="https://ja.wikipedia.org/wiki/新世界クールキャッツ" title="wikilink">新世界クールキャッツ</a></p></td>
 <td><p><strong>77-75<br />
 81-74</strong></p></td>
-<td><p><small></small><a href="https://ja.wikipedia.org/wiki/JX-ENEOSサンフラワーズ" title="wikilink">ジャパンエナジーJOMOサンフラワーズ</a></p></td>
+<td><p><small></small><a href="../Page/JX-ENEOSサンフラワーズ.md" title="wikilink">ジャパンエナジーJOMOサンフラワーズ</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -68,7 +68,7 @@
 <td><p><small></small>ウリィ銀行ハンセ</p></td>
 <td><p><strong>84-66<br />
 72-58</strong></p></td>
-<td><p><small></small><a href="https://ja.wikipedia.org/wiki/シャンソンVマジック" title="wikilink">シャンソンVマジック</a></p></td>
+<td><p><small></small><a href="../Page/シャンソンVマジック.md" title="wikilink">シャンソンVマジック</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -95,7 +95,7 @@
 <td><p>|<small></small>新韓銀行S・バード</p></td>
 <td><p><strong>81-72<br />
 90-84</strong></p></td>
-<td><p><small></small><a href="https://ja.wikipedia.org/wiki/富士通レッドウェーブ" title="wikilink">富士通レッドウェーブ</a></p></td>
+<td><p><small></small><a href="../Page/富士通レッドウェーブ.md" title="wikilink">富士通レッドウェーブ</a></p></td>
 <td></td>
 </tr>
 </tbody>

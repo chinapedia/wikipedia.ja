@@ -1,7 +1,7 @@
 > この記事は[The Great Escape -COMPLETE BEST-](https://ja.wikipedia.org/wiki/The_Great_Escape_-COMPLETE_BEST-)から翻訳されています。
 
 
-『**The Great Escape −COMPLETE BEST−**』（サ・グレート・エスケープ -コンプリート・ベスト-）は、[JUDY AND MARYの](../Page/JUDY_AND_MARY.md "wikilink")2枚目の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。[2001年](../Page/2001年.md "wikilink")[5月23日](../Page/5月23日.md "wikilink")発売。発売元は[エピックレコードジャパン](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")。
+『**The Great Escape −COMPLETE BEST−**』（サ・グレート・エスケープ -コンプリート・ベスト-）は、[JUDY AND MARYの](../Page/JUDY_AND_MARY.md "wikilink")2枚目の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。[2001年](../Page/2001年.md "wikilink")[5月23日](../Page/5月23日.md "wikilink")発売。発売元は[エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink")。
 
 ## 解説
 
@@ -15,8 +15,8 @@
 
 ### DISC 01
 
-1.  **[Over Drive](https://ja.wikipedia.org/wiki/Over_Drive_\(JUDY_AND_MARYの曲\) "wikilink")** (4:19)
-    （作詞：[YUKI](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")　作曲：[TAKUYA](https://ja.wikipedia.org/wiki/TAKUYA "wikilink")）
+1.  **[Over Drive](../Page/Over_Drive_\(JUDY_AND_MARYの曲\).md "wikilink")** (4:19)
+    （作詞：[YUKI](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")　作曲：[TAKUYA](../Page/TAKUYA.md "wikilink")）
       - 7thシングル。
 2.  **[ラッキープール](../Page/ラッキープール.md "wikilink")** (5:35)
     （作詞：[Tack & Yukky](https://ja.wikipedia.org/wiki/Tack_&_Yukky "wikilink")　作曲：TAKUYA）
@@ -40,7 +40,7 @@
     （作詞：Tack & Yukky　作曲：TAKUYA）
       - 4thシングル（両A面）2曲目。
 9.  **[Hello\! Orange Sunshine](https://ja.wikipedia.org/wiki/Hello!_Orange_Sunshine/RADIO "wikilink")** (4:35)
-    （作詞：YUKI　作曲：[恩田快人](https://ja.wikipedia.org/wiki/恩田快人 "wikilink")）
+    （作詞：YUKI　作曲：[恩田快人](../Page/恩田快人.md "wikilink")）
       - 4thシングル（両A面）1曲目。
 10. **[手紙をかくよ](../Page/手紙をかくよ.md "wikilink")** (4:03)
     （作詞：YUKI　作曲：TAKUYA）
@@ -70,7 +70,7 @@
     （作詞：YUKI　作曲：恩田快人）
       - アルバム「[ORANGE SUNSHINE](../Page/ORANGE_SUNSHINE.md "wikilink")」収録曲。6thシングル（両A面・シングルカット）1曲目。
 3.  **[散歩道](../Page/散歩道.md "wikilink")** (5:03)
-    （作詞：YUKI　作曲：[五十嵐公太](https://ja.wikipedia.org/wiki/五十嵐公太 "wikilink")）
+    （作詞：YUKI　作曲：[五十嵐公太](../Page/五十嵐公太.md "wikilink")）
       - 14thシングル。
 4.  **[LOVER SOUL](../Page/LOVER_SOUL.md "wikilink")** (6:00)
     （作詞：YUKI　作曲：TAKUYA）
@@ -105,7 +105,7 @@
 14. **[Brand New Wave Upper Ground](../Page/Brand_New_Wave_Upper_Ground.md "wikilink")** (4:57)
     （作詞：YUKI　作曲：TAKUYA）
       - 18thシングル。
-15. **[エゴイスト・・・?](https://ja.wikipedia.org/wiki/Over_Drive_\(JUDY_AND_MARYの曲\) "wikilink")** (3:50)
+15. **[エゴイスト・・・?](../Page/Over_Drive_\(JUDY_AND_MARYの曲\).md "wikilink")** (3:50)
     （作詞：YUKI　作曲：恩田快人）
       - 7thシングル「Over Drive」のカップリング曲。アルバム初収録。
 

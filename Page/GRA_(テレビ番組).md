@@ -1,7 +1,7 @@
 > この記事は[GRA \(\)](https://ja.wikipedia.org/wiki/GRA_\(\))から翻訳されています。
 
 
-『**GRA**』は、[2007年](../Page/2007年.md "wikilink")[10月20日](../Page/10月20日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで[フジテレビで](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[バニラ気分\!](https://ja.wikipedia.org/wiki/バニラ気分! "wikilink")』枠（[土曜日](../Page/土曜日.md "wikilink")：12:59 - 13:30）の第2部にて放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。番組名は「**ゴールデンラッシュ嵐**」（ごーるでんらっしゅあらし、***G**olden **R**ush **A**rashi*）の頭文字を採った略語である。
+『**GRA**』は、[2007年](../Page/2007年.md "wikilink")[10月20日](../Page/10月20日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで[フジテレビで](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[バニラ気分\!](../Page/バニラ気分!.md "wikilink")』枠（[土曜日](../Page/土曜日.md "wikilink")：12:59 - 13:30）の第2部にて放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。番組名は「**ゴールデンラッシュ嵐**」（ごーるでんらっしゅあらし、***G**olden **R**ush **A**rashi*）の頭文字を採った略語である。
 
 ## 番組概要
 
@@ -11,14 +11,14 @@
 
 ## 出演者
 
-  - [嵐](https://ja.wikipedia.org/wiki/嵐_\(グループ\) "wikilink")
+  - [嵐](../Page/嵐_\(グループ\).md "wikilink")
       - [相葉雅紀](https://ja.wikipedia.org/wiki/相葉雅紀 "wikilink") ： 総合司会
       - [大野智](https://ja.wikipedia.org/wiki/大野智 "wikilink")
       - [櫻井翔](https://ja.wikipedia.org/wiki/櫻井翔 "wikilink")
-      - [二宮和也](https://ja.wikipedia.org/wiki/二宮和也 "wikilink")
+      - [二宮和也](../Page/二宮和也.md "wikilink")
       - [松本潤](../Page/松本潤.md "wikilink")
   - [伊藤利尋](../Page/伊藤利尋.md "wikilink")（フジテレビアナウンサー） ： 司会
-  - [松居一代](https://ja.wikipedia.org/wiki/松居一代 "wikilink") ： 主婦代表ご意見番
+  - [松居一代](../Page/松居一代.md "wikilink") ： 主婦代表ご意見番
   - [柳原可奈子](https://ja.wikipedia.org/wiki/柳原可奈子 "wikilink") ： ギャル代表ご意見番
 
 ## 放送内容
@@ -41,7 +41,7 @@
 10月20日</p></td>
 <td><p><a href="../Page/石原良純.md" title="wikilink">石原良純</a><br />
 <a href="https://ja.wikipedia.org/wiki/梅宮辰夫" title="wikilink">梅宮辰夫</a><br />
-<a href="https://ja.wikipedia.org/wiki/ギャル曽根" title="wikilink">ギャル曽根</a></p></td>
+<a href="../Page/ギャル曽根.md" title="wikilink">ギャル曽根</a></p></td>
 <td><p>マグロ研究会、漬物研究会</p></td>
 </tr>
 <tr class="even">
@@ -55,7 +55,7 @@
 <td><p>11月3日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/片瀬那奈" title="wikilink">片瀬那奈</a><br />
 <a href="../Page/山咲トオル.md" title="wikilink">山咲トオル</a><br />
-<a href="https://ja.wikipedia.org/wiki/山根良顕" title="wikilink">山根良顕</a><small>（<a href="../Page/アンガールズ.md" title="wikilink">アンガールズ</a>）</small></p></td>
+<a href="../Page/山根良顕.md" title="wikilink">山根良顕</a><small>（<a href="../Page/アンガールズ.md" title="wikilink">アンガールズ</a>）</small></p></td>
 <td><p>書道研究会</p></td>
 </tr>
 <tr class="even">
@@ -131,7 +131,7 @@
 <tr class="odd">
 <td><p>13</p></td>
 <td><p>1月19日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/さかなクン" title="wikilink">さかなクン</a></p></td>
+<td><p><a href="../Page/さかなクン.md" title="wikilink">さかなクン</a></p></td>
 <td><p>タラ研究会</p></td>
 </tr>
 <tr class="even">
@@ -200,12 +200,12 @@
 ## スタッフ
 
   - ナレーター：[阿部知代](../Page/阿部知代.md "wikilink")（フジテレビアナウンサー）
-  - プロデューサー：[李闘士男](https://ja.wikipedia.org/wiki/李闘士男 "wikilink")、神成欣哉
-  - 制作協力：[リーライダーす](https://ja.wikipedia.org/wiki/リーライダーす "wikilink")
+  - プロデューサー：[李闘士男](../Page/李闘士男.md "wikilink")、神成欣哉
+  - 制作協力：[リーライダーす](../Page/リーライダーす.md "wikilink")
   - 製作著作：フジテレビ
 
 ## 関連項目
 
-  - [バニラ気分\!](https://ja.wikipedia.org/wiki/バニラ気分! "wikilink")
+  - [バニラ気分\!](../Page/バニラ気分!.md "wikilink")
 
 [Category:2007年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のテレビ番組_\(日本\) "wikilink") [Category:嵐_(ジャニーズ)](https://ja.wikipedia.org/wiki/Category:嵐_\(ジャニーズ\) "wikilink") [Category:フジテレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビのバラエティ番組の歴史 "wikilink") [Category:ジャニーズ関連の放送番組](https://ja.wikipedia.org/wiki/Category:ジャニーズ関連の放送番組 "wikilink")

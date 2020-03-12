@@ -1,7 +1,7 @@
 > この記事は[KISS](https://ja.wikipedia.org/wiki/KISS)から翻訳されています。
 
 
-「**KISSして**」（キスして）は、[KOH<sup>+</sup>の](../Page/KOH+.md "wikilink")1枚目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")発売。制作はナユタウェイヴレコーズ、発売・販売元は[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。
+「**KISSして**」（キスして）は、[KOH<sup>+</sup>の](../Page/KOH+.md "wikilink")1枚目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")発売。制作はナユタウェイヴレコーズ、発売・販売元は[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
 
 ## 解説
 
@@ -23,11 +23,11 @@
 
 1.  **KISSして**
       -
-        作詞・作曲：福山雅治 / 編曲：福山雅治・[井上鑑](https://ja.wikipedia.org/wiki/井上鑑 "wikilink")
-        [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")『[ガリレオ](https://ja.wikipedia.org/wiki/ガリレオ_\(テレビドラマ\) "wikilink")』主題歌。ドラマのプロデューサー、[鈴木吉弘](https://ja.wikipedia.org/wiki/鈴木吉弘 "wikilink")からの「毎回人が死ぬドラマなので、エンディングは明るい曲でいきたい」という意見と、福山が柴咲のライブを観て感じた「お客さんとひとつになれる曲があるといいな」という考えや、もし柴咲コウ演じる内海薫が恋愛をしたら、という設定の下に作曲した。
+        作詞・作曲：福山雅治 / 編曲：福山雅治・[井上鑑](../Page/井上鑑.md "wikilink")
+        [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")『[ガリレオ](https://ja.wikipedia.org/wiki/ガリレオ_\(テレビドラマ\) "wikilink")』主題歌。ドラマのプロデューサー、[鈴木吉弘](../Page/鈴木吉弘.md "wikilink")からの「毎回人が死ぬドラマなので、エンディングは明るい曲でいきたい」という意見と、福山が柴咲のライブを観て感じた「お客さんとひとつになれる曲があるといいな」という考えや、もし柴咲コウ演じる内海薫が恋愛をしたら、という設定の下に作曲した。
         レコーディング前に、仮歌（福山がギター、ドラム、ベースを演奏し自身のキー（A）で歌ったものと、柴咲のキー（F）に合わせてメロディをフルートで吹いたもの）を渡していたが、レコーディング中に柴咲のボーカルを聴き、一部歌詞を変えたという。そのため、1日で終わる予定だったレコーディングに2日間を要した。
-        音楽面では、井上鑑からのアイデアでチェロがビートを刻んで引っ張っている。また、間奏でリズムが倍になり、[レッド・ツェッペリン](../Page/レッド・ツェッペリン.md "wikilink")の『[ブラック・ドッグ](https://ja.wikipedia.org/wiki/ブラック・ドッグ "wikilink")』を彷彿とさせる部分があるが、これは福山が曲作りの段階から狙っていた。
-        使用ギターは[ギブソン](https://ja.wikipedia.org/wiki/ギブソン_\(楽器メーカー\) "wikilink")・J-50 '59、[フェンダー・カスタム・ショップ](https://ja.wikipedia.org/wiki/フェンダー・カスタム・ショップ "wikilink")・[ストラトキャスター](../Page/フェンダー・ストラトキャスター.md "wikilink") '57（ゴールド）、ギブソン・カスタムショップ・[レスポール](../Page/ギブソン・レスポール.md "wikilink")（デュアン･オールマン・モデル）。
+        音楽面では、井上鑑からのアイデアでチェロがビートを刻んで引っ張っている。また、間奏でリズムが倍になり、[レッド・ツェッペリン](../Page/レッド・ツェッペリン.md "wikilink")の『[ブラック・ドッグ](../Page/ブラック・ドッグ.md "wikilink")』を彷彿とさせる部分があるが、これは福山が曲作りの段階から狙っていた。
+        使用ギターは[ギブソン](../Page/ギブソン_\(楽器メーカー\).md "wikilink")・J-50 '59、[フェンダー・カスタム・ショップ](https://ja.wikipedia.org/wiki/フェンダー・カスタム・ショップ "wikilink")・[ストラトキャスター](../Page/フェンダー・ストラトキャスター.md "wikilink") '57（ゴールド）、ギブソン・カスタムショップ・[レスポール](../Page/ギブソン・レスポール.md "wikilink")（デュアン･オールマン・モデル）。
 2.  **KISSして（Original Karaoke）**
       -
         作曲：福山雅治 / 編曲：福山雅治・井上鑑
@@ -52,11 +52,11 @@
 
   - [柴咲コウ](https://ja.wikipedia.org/wiki/柴咲コウ "wikilink") - [ヴォーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
   - [福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink") - [ギター](../Page/ギター.md "wikilink")・[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")・[プロデュース](https://ja.wikipedia.org/wiki/プロデュース "wikilink")
-  - [井上鑑](https://ja.wikipedia.org/wiki/井上鑑 "wikilink") - [キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")
+  - [井上鑑](../Page/井上鑑.md "wikilink") - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")
   - [古川展生](https://ja.wikipedia.org/wiki/KOBUDO_-古武道- "wikilink") - [チェロ](../Page/チェロ.md "wikilink")
   - [美久月千晴](https://ja.wikipedia.org/wiki/美久月千晴 "wikilink") - [ベース](../Page/エレクトリックベース.md "wikilink")
-  - [小田原豊](https://ja.wikipedia.org/wiki/小田原豊 "wikilink") - [ドラム](../Page/ドラムセット.md "wikilink")
-  - [毛利泰士](https://ja.wikipedia.org/wiki/毛利泰士 "wikilink") - [プログラミング](../Page/シンセサイザー.md "wikilink")
+  - [小田原豊](../Page/小田原豊.md "wikilink") - [ドラム](../Page/ドラムセット.md "wikilink")
+  - [毛利泰士](../Page/毛利泰士.md "wikilink") - [プログラミング](../Page/シンセサイザー.md "wikilink")
 
 ## PV参加ミュージシャン
 
@@ -71,8 +71,8 @@
 
 **KISSして**
 
-  - [今井麻美](https://ja.wikipedia.org/wiki/今井麻美 "wikilink") - 2007年12月30日放送の[ラジオ大阪のラジオ番組](https://ja.wikipedia.org/wiki/大阪放送 "wikilink")『[THE IDOLM@STER RADIO](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_RADIO "wikilink")』のコーナーの1つ「歌姫楽園」でカバーされた。楽曲は2008年6月4日発売のアルバム『THE IDOLM@STER RADIO COLORFUL MEMORIES』に収録された。
-  - [福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink") - 24thシングル『[化身](https://ja.wikipedia.org/wiki/化身_\(曲\) "wikilink")』にて[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")をしている。
+  - [今井麻美](../Page/今井麻美.md "wikilink") - 2007年12月30日放送の[ラジオ大阪のラジオ番組](../Page/大阪放送.md "wikilink")『[THE IDOLM@STER RADIO](../Page/THE_IDOLM@STER_RADIO.md "wikilink")』のコーナーの1つ「歌姫楽園」でカバーされた。楽曲は2008年6月4日発売のアルバム『THE IDOLM@STER RADIO COLORFUL MEMORIES』に収録された。
+  - [福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink") - 24thシングル『[化身](https://ja.wikipedia.org/wiki/化身_\(曲\) "wikilink")』にて[セルフカバー](../Page/セルフカバー.md "wikilink")をしている。
   - [大久保瑠美](https://ja.wikipedia.org/wiki/大久保瑠美 "wikilink") - 女性声優によるカバーアルバム『[Twinkle Voice～声の贈り物](https://ja.wikipedia.org/wiki/Twinkle_Voice～声の贈り物 "wikilink")』収録。
   - 輿水幸子（[竹達彩奈](../Page/竹達彩奈.md "wikilink")） - アルバム『[THE IDOLM@STER CINDERELLA MASTER Cute Jewelries\! 002](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_CINDERELLA_MASTER_jewelries!#Cute_Jewelries!_002 "wikilink")』収録。
 

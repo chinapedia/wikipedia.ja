@@ -11,7 +11,7 @@
 
 @mistyとして[インターネットサービスプロバイダ](https://ja.wikipedia.org/wiki/インターネットサービスプロバイダ "wikilink")が運営するデジタルコンテンツ販売サイト内への出店や、インターネットを利用した[電子書籍](../Page/電子書籍.md "wikilink")サイトへのデジタル写真集を提供する他、他社の出版物等のコンテンツをデジタル制作・販売代行するコンテンツアグリゲート事業も行う。
 
-[Yahoo\! JAPANにて](https://ja.wikipedia.org/wiki/Yahoo!_JAPAN "wikilink")、[アイドルコレクション](https://ja.wikipedia.org/wiki/アイドルコレクション "wikilink")というアイドルグラビアサイトを出店している。
+[Yahoo\! JAPANにて](../Page/Yahoo!_JAPAN.md "wikilink")、[アイドルコレクション](https://ja.wikipedia.org/wiki/アイドルコレクション "wikilink")というアイドルグラビアサイトを出店している。
 
 また、アイドルのイベントやインタビューを無料で配信する[アイトピックス](https://ja.wikipedia.org/wiki/アイトピックス "wikilink")やアイドル写真集・DVDの発売情報を配信する[アイフォト](https://ja.wikipedia.org/wiki/アイフォト "wikilink")、アイドル情報のデータベース[アイドルコレクション](https://ja.wikipedia.org/wiki/アイドルコレクション "wikilink")等の情報サイトも同社で運営する。
 
@@ -21,7 +21,7 @@
 
 ## ミスティ株式会社
 
-@mistyを運営するミスティ株式会社は、アイドルグラビアコンテンツの制作・販売、運営サイトの広告、デジタルコンテンツの販売代行及び決済代行、WEB制作受託を主な事業としている。2007年9月に[読者モデル](https://ja.wikipedia.org/wiki/読者モデル "wikilink")がセレクトするファッションEコマースサイト[ドクモスタイル](https://ja.wikipedia.org/wiki/ドクモスタイル "wikilink")の運営も開始。本社は[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")、事業所は東京都千代田区神田紺屋町に所在する。社長は@mistyを創業した高木亮治。
+@mistyを運営するミスティ株式会社は、アイドルグラビアコンテンツの制作・販売、運営サイトの広告、デジタルコンテンツの販売代行及び決済代行、WEB制作受託を主な事業としている。2007年9月に[読者モデル](../Page/読者モデル.md "wikilink")がセレクトするファッションEコマースサイト[ドクモスタイル](https://ja.wikipedia.org/wiki/ドクモスタイル "wikilink")の運営も開始。本社は[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")、事業所は東京都千代田区神田紺屋町に所在する。社長は@mistyを創業した高木亮治。
 
 ## 外部リンク
 

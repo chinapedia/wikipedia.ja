@@ -1,7 +1,7 @@
 > この記事は[RADIO GONG SHOW](https://ja.wikipedia.org/wiki/RADIO_GONG_SHOW)から翻訳されています。
 
 
-'''RADIO GONG SHOW '''（レディオ・ゴング・ショー）は、[CROSS FMで放送されていた](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")～[2003年](../Page/2003年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")までの毎週[土曜日](../Page/土曜日.md "wikilink")の夜、北九州本社スタジオから生放送された。[ナビゲーターは](../Page/ディスクジョッキー.md "wikilink")[八木徹](https://ja.wikipedia.org/wiki/八木徹 "wikilink")が務めた。
+'''RADIO GONG SHOW '''（レディオ・ゴング・ショー）は、[CROSS FMで放送されていた](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")～[2003年](../Page/2003年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")までの毎週[土曜日](../Page/土曜日.md "wikilink")の夜、北九州本社スタジオから生放送された。[ナビゲーターは](../Page/ディスクジョッキー.md "wikilink")[八木徹](../Page/八木徹.md "wikilink")が務めた。
 
 ## 概要
 
@@ -16,12 +16,12 @@
 
 ## ナビゲーター
 
-  - [八木徹](https://ja.wikipedia.org/wiki/八木徹 "wikilink")
+  - [八木徹](../Page/八木徹.md "wikilink")
 
 <!-- end list -->
 
   -
-    同局ではこの番組が2本目の担当であるが、その前に担当していた「[WEEKEND VIEW](https://ja.wikipedia.org/wiki/WEEKEND_VIEW "wikilink")」は録音であったため、生放送はこの番組が初めてだった。また、2001年4月〜2002年9月末までは毎週土曜日18:00〜18:30に放送された「CATCH UP\! HAWKS TOWN HEROES」（[福岡ダイエーホークスや](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")[ホークスタウン](https://ja.wikipedia.org/wiki/ホークスタウン "wikilink")の情報を紹介、2002年5月末まで放送）、「CROSS SOUND COMPLEX」（2002年6月スタート、後述）も担当していた。
+    同局ではこの番組が2本目の担当であるが、その前に担当していた「[WEEKEND VIEW](https://ja.wikipedia.org/wiki/WEEKEND_VIEW "wikilink")」は録音であったため、生放送はこの番組が初めてだった。また、2001年4月〜2002年9月末までは毎週土曜日18:00〜18:30に放送された「CATCH UP\! HAWKS TOWN HEROES」（[福岡ダイエーホークスや](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")[ホークスタウン](../Page/ホークスタウン.md "wikilink")の情報を紹介、2002年5月末まで放送）、「CROSS SOUND COMPLEX」（2002年6月スタート、後述）も担当していた。
 
 ## コーナー
 
@@ -60,7 +60,7 @@
 <!-- end list -->
 
   -
-    [アビスパ福岡](../Page/アビスパ福岡.md "wikilink")や[Jリーグなどの情報を](../Page/日本プロサッカーリーグ.md "wikilink")[J-POP](../Page/J-POP.md "wikilink")ヒットを織り交ぜて紹介した。スポンサーは[コカ・コーラウエストジャパン](https://ja.wikipedia.org/wiki/コカ・コーラウエストジャパン "wikilink")。
+    [アビスパ福岡](../Page/アビスパ福岡.md "wikilink")や[Jリーグなどの情報を](../Page/日本プロサッカーリーグ.md "wikilink")[J-POP](../Page/J-POP.md "wikilink")ヒットを織り交ぜて紹介した。スポンサーは[コカ・コーラウエストジャパン](../Page/コカ・コーラウエストジャパン.md "wikilink")。
     2003年4月からは後番組「[CROSS SUPER SATURDAY](../Page/クロサタX.md "wikilink")」に組み込まれた。
 
 [Category:CROSS_FMの番組](https://ja.wikipedia.org/wiki/Category:CROSS_FMの番組 "wikilink") [Category:JFL系ラジオの音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:JFL系ラジオの音楽番組の歴史 "wikilink")

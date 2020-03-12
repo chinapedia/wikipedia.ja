@@ -1,15 +1,15 @@
 > この記事は[SMOOTH CHANNEL](https://ja.wikipedia.org/wiki/SMOOTH_CHANNEL)から翻訳されています。
 
 
-『**SMOOTH CHANNEL**』（スムース・チャンネル）は、2000年10月から2002年3月まで[エフエム九州](../Page/エフエム九州.md "wikilink") (CROSS FM) で放送されていた[ワイド番組](https://ja.wikipedia.org/wiki/ワイド番組 "wikilink")である。
+『**SMOOTH CHANNEL**』（スムース・チャンネル）は、2000年10月から2002年3月まで[エフエム九州](../Page/エフエム九州.md "wikilink") (CROSS FM) で放送されていた[ワイド番組](../Page/ワイド番組.md "wikilink")である。
 
 ## 概要
 
-放送時間は毎週金曜 10:00 - 13:00 （[日本標準時](../Page/日本標準時.md "wikilink")）。CROSS FM[北九州本社スタジオからの](https://ja.wikipedia.org/wiki/北九州市 "wikilink")[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")。金曜日のオフィス向けに放送されていた番組で、内容は音楽が中心であった。選曲は、1980年代・1990年代のメガヒット曲が中心となっていた\[1\]。
+放送時間は毎週金曜 10:00 - 13:00 （[日本標準時](../Page/日本標準時.md "wikilink")）。CROSS FM[北九州本社スタジオからの](https://ja.wikipedia.org/wiki/北九州市 "wikilink")[生放送](../Page/生放送.md "wikilink")。金曜日のオフィス向けに放送されていた番組で、内容は音楽が中心であった。選曲は、1980年代・1990年代のメガヒット曲が中心となっていた\[1\]。
 
 ## ナビゲーター
 
-  - [信川竜太](https://ja.wikipedia.org/wiki/信川竜太 "wikilink")
+  - [信川竜太](../Page/信川竜太.md "wikilink")
     前番組『[CROSS GO\!GO\! FRID@Y](../Page/CROSS_GO!GO!_FRID@Y.md "wikilink")』から引き続き出演。
   - [新村レイ](https://ja.wikipedia.org/wiki/新村レイ "wikilink")
     月曜 - 木曜に放送されていた『[CANDY CAFE BOARD](../Page/CANDY_CAFE_BOARD.md "wikilink")』からの出演者（水曜・木曜担当）。『CANDY CAFE BOARD』でナビゲーターデビューを果たしたが、本番組の終了後にはCROSS FMの番組を担当していない。なお最終回では、自身の入籍を明らかにした。

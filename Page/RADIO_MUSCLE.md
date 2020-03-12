@@ -1,16 +1,16 @@
 > この記事は[RADIO MUSCLE](https://ja.wikipedia.org/wiki/RADIO_MUSCLE)から翻訳されています。
 
 
-'''RADIO MUSCLE '''（レディオ・マッスル）は、[CROSS FMで放送されていた](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。2000年10月～2002年3月までの毎週[金曜日](../Page/金曜日.md "wikilink")13:00〜17:00に放送された。[ナビゲーターは](../Page/ディスクジョッキー.md "wikilink")[吉村昌広](https://ja.wikipedia.org/wiki/吉村昌広 "wikilink")が務めた。
+'''RADIO MUSCLE '''（レディオ・マッスル）は、[CROSS FMで放送されていた](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。2000年10月～2002年3月までの毎週[金曜日](../Page/金曜日.md "wikilink")13:00〜17:00に放送された。[ナビゲーターは](../Page/ディスクジョッキー.md "wikilink")[吉村昌広](../Page/吉村昌広.md "wikilink")が務めた。
 
 ## 概要
 
   - 「週末気分を盛り上げる筋肉増強プログラム」と銘打たれたワイド番組。
-  - 当初半年間は[博多駅](https://ja.wikipedia.org/wiki/博多駅 "wikilink")GIGAスタジオから[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")されたが、2001年4月から北九州本社スタジオからの生放送に変わった。
+  - 当初半年間は[博多駅](https://ja.wikipedia.org/wiki/博多駅 "wikilink")GIGAスタジオから[生放送](../Page/生放送.md "wikilink")されたが、2001年4月から北九州本社スタジオからの生放送に変わった。
 
 ## ナビゲーター
 
-  - [吉村昌広](https://ja.wikipedia.org/wiki/吉村昌広 "wikilink")
+  - [吉村昌広](../Page/吉村昌広.md "wikilink")
 
 <!-- end list -->
 
@@ -58,7 +58,7 @@
 <!-- end list -->
 
   -
-    スポンサーである[ワーナー・マイカル・シネマズ](https://ja.wikipedia.org/wiki/ワーナー・マイカル・シネマズ "wikilink")の大野城・上峰・戸畑3館で上映される映画の情報を紹介した。
+    スポンサーである[ワーナー・マイカル・シネマズ](../Page/ワーナー・マイカル・シネマズ.md "wikilink")の大野城・上峰・戸畑3館で上映される映画の情報を紹介した。
     2002年4月からは後番組「[CROSS SMILEY FRIDAY](../Page/CROSS_SMILEY_FRIDAY.md "wikilink")」に引き継がれた。
 
 [Category:2000年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2000年のラジオ番組_\(日本\) "wikilink") [Category:CROSS_FMの番組](https://ja.wikipedia.org/wiki/Category:CROSS_FMの番組 "wikilink") [Category:JFL系ラジオの音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:JFL系ラジオの音楽番組の歴史 "wikilink")

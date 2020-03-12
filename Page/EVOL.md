@@ -1,7 +1,7 @@
 > この記事は[EVOL](https://ja.wikipedia.org/wiki/EVOL)から翻訳されています。
 
 
-『**EVOL**』は、1986年に発売された[ソニック・ユース](https://ja.wikipedia.org/wiki/ソニック・ユース "wikilink")のアルバムである。
+『**EVOL**』は、1986年に発売された[ソニック・ユース](../Page/ソニック・ユース.md "wikilink")のアルバムである。
 
 ## 解説
 

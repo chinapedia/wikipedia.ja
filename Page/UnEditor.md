@@ -3,11 +3,11 @@
 
 **UnEditor**とは、[Microsoft Windows向けの](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[テキストエディタ](../Page/テキストエディタ.md "wikilink")である。[フリーウェア](../Page/フリーウェア.md "wikilink")（寄付歓迎）として配布されている。
 
-タブを利用して、複数のファイルを[タブブラウザ](https://ja.wikipedia.org/wiki/タブブラウザ "wikilink")のように表示させ、それを編集することが出来る、いわゆるタブエディタである。
+タブを利用して、複数のファイルを[タブブラウザ](../Page/タブブラウザ.md "wikilink")のように表示させ、それを編集することが出来る、いわゆるタブエディタである。
 
 ## 概要
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月18日](../Page/1月18日.md "wikilink")に、同じ作者のテキストエディタ**NoEditor**にタブ機能を付加した形で、最初のバージョンが公開される。その後、[窓の杜](../Page/窓の杜.md "wikilink")などや各種雑誌で紹介され、比較的有名なタブエディタとして知られることになる。
+[2005年](../Page/2005年.md "wikilink")[1月18日](../Page/1月18日.md "wikilink")に、同じ作者のテキストエディタ**NoEditor**にタブ機能を付加した形で、最初のバージョンが公開される。その後、[窓の杜](../Page/窓の杜.md "wikilink")などや各種雑誌で紹介され、比較的有名なタブエディタとして知られることになる。
 
 作者によれば、名の由来は「Tab**un**Tab**Editor**（たぶんタブエディタ）」から取ったそうである。
 
@@ -20,7 +20,7 @@
   - タブを利用したマルチ編集機能。
   - 編集するファイルに対応した単語の強調機能。[VB](https://ja.wikipedia.org/wiki/Microsoft_Visual_Basic "wikilink")、[Delphi](../Page/Delphi.md "wikilink")から[HTML](../Page/HyperText_Markup_Language.md "wikilink")、[PHPなどの各種言語に対応している](../Page/PHP_\(プログラミング言語\).md "wikilink")。
   - 複数ファイルの強力なテキスト比較機能（[Diff](../Page/Diff.md "wikilink")）
-  - 複数ファイルの強力なテキスト一括検索機能（[Grep](https://ja.wikipedia.org/wiki/Grep "wikilink")）
+  - 複数ファイルの強力なテキスト一括検索機能（[Grep](../Page/Grep.md "wikilink")）
   - 自動で各[文字コード](../Page/文字コード.md "wikilink")を認識する。
   - HTMLの簡易編集機能。
   - 表示テーマと呼ばれる機能があり、外観を大きく変えることが可能となっている。

@@ -1,11 +1,11 @@
 > この記事は[YUMING Presents  DVD](https://ja.wikipedia.org/wiki/YUMING_Presents__DVD)から翻訳されています。
 
 
-『**YUMING Presents 天国の本屋〜恋火 ミュージックDVD**』（ユーミン・プレゼンツ てんごくのほんや～こいび ミュージックディーブイディー）は、[松任谷由実](../Page/松任谷由実.md "wikilink")（ユーミン） の「DVDシングル」。[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[6月9日](../Page/6月9日.md "wikilink")に[東芝EMIからリリースされた](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")（TOBF-5316）。
+『**YUMING Presents 天国の本屋〜恋火 ミュージックDVD**』（ユーミン・プレゼンツ てんごくのほんや～こいび ミュージックディーブイディー）は、[松任谷由実](../Page/松任谷由実.md "wikilink")（ユーミン） の「DVDシングル」。[2004年](../Page/2004年.md "wikilink")[6月9日](../Page/6月9日.md "wikilink")に[東芝EMIからリリースされた](../Page/EMIミュージック・ジャパン.md "wikilink")（TOBF-5316）。
 
 ## 解説
 
-  - サントラを担当した映画『[天国の本屋〜恋火](https://ja.wikipedia.org/wiki/天国の本屋〜恋火 "wikilink")』（主演：[竹内結子](https://ja.wikipedia.org/wiki/竹内結子 "wikilink")・[玉山鉄二](../Page/玉山鉄二.md "wikilink")）の主題歌「永遠が見える日」が、映画のダイジェスト版などの映像に合わせて楽しめる「DVDシングル」。
+  - サントラを担当した映画『[天国の本屋〜恋火](../Page/天国の本屋〜恋火.md "wikilink")』（主演：[竹内結子](https://ja.wikipedia.org/wiki/竹内結子 "wikilink")・[玉山鉄二](../Page/玉山鉄二.md "wikilink")）の主題歌「永遠が見える日」が、映画のダイジェスト版などの映像に合わせて楽しめる「DVDシングル」。
   - 初回特典には映画『天国の本屋〜恋火』の劇場割引券が封入された。タイトルステッカーあり。
 
 ## 収録曲
@@ -15,11 +15,11 @@
 3.  **「天国の本屋〜恋火」劇場予告編**
 4.  **永遠が見える日**（映像特典・Studio Version 〜 Extra Version）
 
-作詞・作曲：松任谷由実（\#1,\#4）、作曲：[松任谷正隆](https://ja.wikipedia.org/wiki/松任谷正隆 "wikilink")（\#2）、編曲：松任谷正隆
+作詞・作曲：松任谷由実（\#1,\#4）、作曲：[松任谷正隆](../Page/松任谷正隆.md "wikilink")（\#2）、編曲：松任谷正隆
 
 ## 参加ミュージシャン
 
-  - キーボード&シンセサイザー・プログラミング：[松任谷正隆](https://ja.wikipedia.org/wiki/松任谷正隆 "wikilink")
+  - キーボード&シンセサイザー・プログラミング：[松任谷正隆](../Page/松任谷正隆.md "wikilink")
 
 ## 外部リンク
 

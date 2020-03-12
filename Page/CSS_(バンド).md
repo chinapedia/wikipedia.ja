@@ -1,9 +1,9 @@
 > この記事は[CSS \(\)](https://ja.wikipedia.org/wiki/CSS_\(\))から翻訳されています。
 
 
-**CSS**（シー・エス・エス）は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")の[ディスコ](https://ja.wikipedia.org/wiki/ディスコ "wikilink")・[パンク](../Page/パンク・ロック.md "wikilink")・[バンド](../Page/バンド_\(音楽\).md "wikilink")。[サンパウロ](../Page/サンパウロ.md "wikilink")出身。2000年代後半に発祥した[ニューレイヴ](https://ja.wikipedia.org/wiki/ニューレイヴ "wikilink")のバンドに分類される。歌は[英語](../Page/英語.md "wikilink")と[ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")で歌われている。
+**CSS**（シー・エス・エス）は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")の[ディスコ](../Page/ディスコ.md "wikilink")・[パンク](../Page/パンク・ロック.md "wikilink")・[バンド](../Page/バンド_\(音楽\).md "wikilink")。[サンパウロ](../Page/サンパウロ.md "wikilink")出身。2000年代後半に発祥した[ニューレイヴ](https://ja.wikipedia.org/wiki/ニューレイヴ "wikilink")のバンドに分類される。歌は[英語](../Page/英語.md "wikilink")と[ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")で歌われている。
 
-バンド名は、Cansei de Ser Sexy（カンセイ・ジ・セール・セクシー）の略であり、[ビヨンセ](https://ja.wikipedia.org/wiki/ビヨンセ "wikilink")の発言「Got Tired of Being Sexy（セクシーで居ることに飽きた）」を[ブラジルポルトガル語](https://ja.wikipedia.org/wiki/ブラジルポルトガル語 "wikilink")に訳したもの\[1\]。
+バンド名は、Cansei de Ser Sexy（カンセイ・ジ・セール・セクシー）の略であり、[ビヨンセ](../Page/ビヨンセ.md "wikilink")の発言「Got Tired of Being Sexy（セクシーで居ることに飽きた）」を[ブラジルポルトガル語](../Page/ブラジルポルトガル語.md "wikilink")に訳したもの\[1\]。
 
 ## メンバー
 
@@ -17,33 +17,33 @@
   - [イラチェマ・トレヴィサン](https://ja.wikipedia.org/wiki/イラチェマ・トレヴィサン "wikilink") *(Iracema Trevisan)* ベース。
   - マリア・エレーナ・ゼルバ *(Maria Helena Zerba)*
   - クラーラ・ヒベイロ *(Clara Ribeiro)*
-  - [アドリアーノ・シントラ](https://ja.wikipedia.org/wiki/アドリアーノ・シントラ "wikilink") *(Adriano Cintra)* [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。
+  - [アドリアーノ・シントラ](https://ja.wikipedia.org/wiki/アドリアーノ・シントラ "wikilink") *(Adriano Cintra)* [ベース](../Page/ベース_\(弦楽器\).md "wikilink")。
 
 ## 来歴
 
 ### 結成、デビューアルバム
 
-2003年9月に結成\[2\]。バンドは初め、インターネットを通じて名前を知られるようになる。[アドリアーノ・シントラ](https://ja.wikipedia.org/wiki/アドリアーノ・シントラ "wikilink")は、サンパウロのアンダーグラウンド・クラブ・シーンで有名な人物であり、[ラヴフォックス](https://ja.wikipedia.org/wiki/ラヴフォックス "wikilink")は、フォトログと[Flickr](https://ja.wikipedia.org/wiki/Flickr "wikilink")で人気のある利用者だった。結成当時、アドリアーノ以外のメンバーは楽器が弾けなかった\[3\]\[4\]。バンドのフォトログは人気になり、トラマ・バーチャル (Trama Virtual 〈[MySpace](https://ja.wikipedia.org/wiki/MySpace "wikilink")のブラジル版にあたるウェブサイト〉）に投稿していた曲は頻繁にダウンロードされた。トラマ・バーチャルは、バンドへ大いに投資するようになり、バンドを取材させるためにブラジルとイギリスの記者を招待した。ブラジルの雑誌数誌とイギリスの新聞[ガーディアン](https://ja.wikipedia.org/wiki/ガーディアン "wikilink")に記事が掲載された\[5\]。いくつかの曲はメインストリームで使用され始め、「ミーティング・パリス・ヒルトン」は[シンプル・ライフ](https://ja.wikipedia.org/wiki/シンプル・ライフ "wikilink")の[ラテン・アメリカ](https://ja.wikipedia.org/wiki/ラテン・アメリカ "wikilink")での放送に使用された\[6\]。2004年、自主制作でEPを2枚リリース。
+2003年9月に結成\[2\]。バンドは初め、インターネットを通じて名前を知られるようになる。[アドリアーノ・シントラ](https://ja.wikipedia.org/wiki/アドリアーノ・シントラ "wikilink")は、サンパウロのアンダーグラウンド・クラブ・シーンで有名な人物であり、[ラヴフォックス](https://ja.wikipedia.org/wiki/ラヴフォックス "wikilink")は、フォトログと[Flickr](../Page/Flickr.md "wikilink")で人気のある利用者だった。結成当時、アドリアーノ以外のメンバーは楽器が弾けなかった\[3\]\[4\]。バンドのフォトログは人気になり、トラマ・バーチャル (Trama Virtual 〈[MySpace](https://ja.wikipedia.org/wiki/MySpace "wikilink")のブラジル版にあたるウェブサイト〉）に投稿していた曲は頻繁にダウンロードされた。トラマ・バーチャルは、バンドへ大いに投資するようになり、バンドを取材させるためにブラジルとイギリスの記者を招待した。ブラジルの雑誌数誌とイギリスの新聞[ガーディアン](../Page/ガーディアン.md "wikilink")に記事が掲載された\[5\]。いくつかの曲はメインストリームで使用され始め、「ミーティング・パリス・ヒルトン」は[シンプル・ライフ](../Page/シンプル・ライフ.md "wikilink")の[ラテン・アメリカ](https://ja.wikipedia.org/wiki/ラテン・アメリカ "wikilink")での放送に使用された\[6\]。2004年、自主制作でEPを2枚リリース。
 
 2005年、トラマ・バーチャルと契約し、10月にデビューアルバム『カンセイ・ジ・セール・セクシー』をブラジルでリリース。合わせてライブ会場とインターネットで7曲入りEP「CSS SUXXX」を販売した\[7\]。アルバムとEPのレコーディング中に、クラーラ・ヒベイロとマリア・エレーナ・ゼルバがバンドを脱退した\[8\]。アルバムの限定版バージョンには、買った人がアルバムの曲をコピーし贈り物として他の人にあげられるように、[CD-R](../Page/CD-R.md "wikilink")が同梱されていた\[9\]\[10\]。アルバムはブラジルで5000枚売り上げたと伝えられているが、アルバム、シングル共にチャートにはのらなかった。
 
 ### サブ・ポップ契約、世界デビュー
 
-2006年の初頭には[ニルヴァーナなどを輩出した米国の有名レーベル](../Page/ニルヴァーナ_\(アメリカ合衆国のバンド\).md "wikilink")、[サブ・ポップ](https://ja.wikipedia.org/wiki/サブ・ポップ "wikilink")と契約し、アルバム『カンセイ・ジ・セール・セクシー』で世界デビューを果たした。6月6日、シングル「レッツ・メイク・ラブ・アンド・リッスン・トゥ・デス・フロム・アバブ」をリリース。7月、DJディプロ、[ボンヂ・ド・ホレ](https://ja.wikipedia.org/wiki/ボンヂ・ド・ホレ "wikilink")と共に、初のアメリカとカナダでのツアーを行った\[11\]。
+2006年の初頭には[ニルヴァーナなどを輩出した米国の有名レーベル](../Page/ニルヴァーナ_\(アメリカ合衆国のバンド\).md "wikilink")、[サブ・ポップ](../Page/サブ・ポップ.md "wikilink")と契約し、アルバム『カンセイ・ジ・セール・セクシー』で世界デビューを果たした。6月6日、シングル「レッツ・メイク・ラブ・アンド・リッスン・トゥ・デス・フロム・アバブ」をリリース。7月、DJディプロ、[ボンヂ・ド・ホレ](../Page/ボンヂ・ド・ホレ.md "wikilink")と共に、初のアメリカとカナダでのツアーを行った\[11\]。
 
-2007年1月、初の日本公演を行った\[12\]。また、[カサビアン](https://ja.wikipedia.org/wiki/カサビアン "wikilink")の日本公演での[オープニングアクト](https://ja.wikipedia.org/wiki/オープニングアクト "wikilink")を務めた\[13\]。2007年2月、シングル曲「アルコール」のPVコンテストをインターネット上で開催した\[14\]。2007年4月、曲名にも使用したことのある[パリス・ヒルトン](https://ja.wikipedia.org/wiki/パリス・ヒルトン "wikilink")との対面を果たした\[15\]。2007年5月、「アララ」と「オフ・ザ・フック」が[Forza Motorsport 2のサウンドトラックに収録された](https://ja.wikipedia.org/wiki/Forza_Motorsport_2 "wikilink")\[16\]。
+2007年1月、初の日本公演を行った\[12\]。また、[カサビアン](../Page/カサビアン.md "wikilink")の日本公演での[オープニングアクト](https://ja.wikipedia.org/wiki/オープニングアクト "wikilink")を務めた\[13\]。2007年2月、シングル曲「アルコール」のPVコンテストをインターネット上で開催した\[14\]。2007年4月、曲名にも使用したことのある[パリス・ヒルトン](../Page/パリス・ヒルトン.md "wikilink")との対面を果たした\[15\]。2007年5月、「アララ」と「オフ・ザ・フック」が[Forza Motorsport 2のサウンドトラックに収録された](../Page/Forza_Motorsport_2.md "wikilink")\[16\]。
 
-2007年夏、バンドは様々なヨーロッパの[ロック・フェスティバル](../Page/ロック・フェスティバル.md "wikilink")（[グラストンベリー・フェスティバル](https://ja.wikipedia.org/wiki/グラストンベリー・フェスティバル "wikilink")\[17\]、[レディング・フェスティバル](https://ja.wikipedia.org/wiki/レディング・フェスティバル "wikilink")など）に出演した。2007年8月4日、[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")の航空会社が[過剰予約](https://ja.wikipedia.org/wiki/過剰予約 "wikilink")したため飛行機に乗ることができず、[シカゴ](../Page/シカゴ.md "wikilink")で催されるロック・フェスティバルの[ロラパルーザ](https://ja.wikipedia.org/wiki/ロラパルーザ "wikilink")に出演できないという災難にあった\[18\]\[19\]。[サマーソニック](https://ja.wikipedia.org/wiki/サマーソニック "wikilink")07に出演。
+2007年夏、バンドは様々なヨーロッパの[ロック・フェスティバル](../Page/ロック・フェスティバル.md "wikilink")（[グラストンベリー・フェスティバル](../Page/グラストンベリー・フェスティバル.md "wikilink")\[17\]、[レディング・フェスティバル](../Page/レディング・フェスティバル.md "wikilink")など）に出演した。2007年8月4日、[ニューヨーク](../Page/ニューヨーク.md "wikilink")の航空会社が[過剰予約](https://ja.wikipedia.org/wiki/過剰予約 "wikilink")したため飛行機に乗ることができず、[シカゴ](../Page/シカゴ.md "wikilink")で催されるロック・フェスティバルの[ロラパルーザ](../Page/ロラパルーザ.md "wikilink")に出演できないという災難にあった\[18\]\[19\]。[サマーソニック](../Page/サマーソニック.md "wikilink")07に出演。
 
-シングル曲「ミュージック・イズ・マイ・ホット・ホット・セックス」が[アップル](../Page/アップル_\(企業\).md "wikilink")[iPod touchのCMに使用された](https://ja.wikipedia.org/wiki/iPod_touch "wikilink")。このCMは、18歳のイギリスの学生ニック・ヘイリーが制作した動画をもとに作られている。ヘイリーは「ミュージック・イズ・マイ・ホット・ホット・セックス」を使用して[iPod touchのCMを自主制作し](https://ja.wikipedia.org/wiki/iPod_touch "wikilink")、2007年9月11日に[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")へ投稿した。アップルの広告代理店[TBWACHIATDAYの関係者がヘイリーの作った作品を見て](https://ja.wikipedia.org/wiki/TBWA/CHIAT/DAY "wikilink")、彼と連絡を取り、協力を得て放送バージョンを作成した。\[20\]シングルは、[ビルボード](../Page/ビルボード.md "wikilink")63位を記録\[21\]\[22\]。ブラジルのバンドのシングル順位として過去最高位だった。同じ曲が1年前に競合商品である[Zune](https://ja.wikipedia.org/wiki/Zune "wikilink")のプロモーションに使用されていた\[23\]。
+シングル曲「ミュージック・イズ・マイ・ホット・ホット・セックス」が[アップル](../Page/アップル_\(企業\).md "wikilink")[iPod touchのCMに使用された](https://ja.wikipedia.org/wiki/iPod_touch "wikilink")。このCMは、18歳のイギリスの学生ニック・ヘイリーが制作した動画をもとに作られている。ヘイリーは「ミュージック・イズ・マイ・ホット・ホット・セックス」を使用して[iPod touchのCMを自主制作し](https://ja.wikipedia.org/wiki/iPod_touch "wikilink")、2007年9月11日に[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")へ投稿した。アップルの広告代理店[TBWACHIATDAYの関係者がヘイリーの作った作品を見て](https://ja.wikipedia.org/wiki/TBWA/CHIAT/DAY "wikilink")、彼と連絡を取り、協力を得て放送バージョンを作成した。\[20\]シングルは、[ビルボード](../Page/ビルボード.md "wikilink")63位を記録\[21\]\[22\]。ブラジルのバンドのシングル順位として過去最高位だった。同じ曲が1年前に競合商品である[Zune](../Page/Zune.md "wikilink")のプロモーションに使用されていた\[23\]。
 
-2008年4月11日、[イラチェマ・トレヴィサン](https://ja.wikipedia.org/wiki/イラチェマ・トレヴィサン "wikilink")が脱退し、[アドリアーノ・シントラ](https://ja.wikipedia.org/wiki/アドリアーノ・シントラ "wikilink")がベースを引き継いだ\[24\]\[25\]。バンドはその後、元[ザ・クーパー・テンプル・クロース](https://ja.wikipedia.org/wiki/ザ・クーパー・テンプル・クロース "wikilink")の[ジョン・ハーパー](https://ja.wikipedia.org/wiki/ジョン・ハーパー "wikilink")をサポートドラムとして迎え活動している。
+2008年4月11日、[イラチェマ・トレヴィサン](https://ja.wikipedia.org/wiki/イラチェマ・トレヴィサン "wikilink")が脱退し、[アドリアーノ・シントラ](https://ja.wikipedia.org/wiki/アドリアーノ・シントラ "wikilink")がベースを引き継いだ\[24\]\[25\]。バンドはその後、元[ザ・クーパー・テンプル・クロース](../Page/ザ・クーパー・テンプル・クロース.md "wikilink")の[ジョン・ハーパー](https://ja.wikipedia.org/wiki/ジョン・ハーパー "wikilink")をサポートドラムとして迎え活動している。
 
 ### セカンドアルバム
 
-2008年4月、2ndアルバムからの先行シングル「ラット・イズ・デッド（レイジ）」が公式サイトから無料ダウンロード配信された\[26\]。7月、2ndアルバム『ドンキー』をリリース。アルバム名の由来はマネージャーに騙され、[ロバ](../Page/ロバ.md "wikilink")（[英](../Page/英語.md "wikilink")：[Donkey](https://ja.wikipedia.org/wiki/:en:Donkey "wikilink")）のように働いていたことから\[27\]（マネージャーからはお金を持ち逃げされ、借金まで背負わされた\[28\]）。[フジ・ロック・フェスティバル](https://ja.wikipedia.org/wiki/フジ・ロック・フェスティバル "wikilink")08に出演\[29\]\[30\]。フジ・ロックでは、[プライマル・スクリーム](https://ja.wikipedia.org/wiki/プライマル・スクリーム "wikilink")と[ラヴフォックス](https://ja.wikipedia.org/wiki/ラヴフォックス "wikilink")の共演が行われた\[31\]。
+2008年4月、2ndアルバムからの先行シングル「ラット・イズ・デッド（レイジ）」が公式サイトから無料ダウンロード配信された\[26\]。7月、2ndアルバム『ドンキー』をリリース。アルバム名の由来はマネージャーに騙され、[ロバ](../Page/ロバ.md "wikilink")（[英](../Page/英語.md "wikilink")：[Donkey](https://ja.wikipedia.org/wiki/:en:Donkey "wikilink")）のように働いていたことから\[27\]（マネージャーからはお金を持ち逃げされ、借金まで背負わされた\[28\]）。[フジ・ロック・フェスティバル](https://ja.wikipedia.org/wiki/フジ・ロック・フェスティバル "wikilink")08に出演\[29\]\[30\]。フジ・ロックでは、[プライマル・スクリーム](../Page/プライマル・スクリーム.md "wikilink")と[ラヴフォックス](https://ja.wikipedia.org/wiki/ラヴフォックス "wikilink")の共演が行われた\[31\]。
 
-2008年11月、2度目の単独での日本公演を名古屋、東京、大阪、横浜で行った。[2009年](../Page/2009年.md "wikilink")8月、再び[サマーソニック](https://ja.wikipedia.org/wiki/サマーソニック "wikilink")09に出演。\[32\]
+2008年11月、2度目の単独での日本公演を名古屋、東京、大阪、横浜で行った。[2009年](../Page/2009年.md "wikilink")8月、再び[サマーソニック](../Page/サマーソニック.md "wikilink")09に出演。\[32\]
 
 ## エピソード
 
@@ -228,29 +228,29 @@
   - ザ・ウォンバッツ - *Kill the Director* (2007年)
   - The Mules - *We're Good People* (2007年)
   - The Little Ones - *Lovers Who Uncover* (2007年)
-  - [ボンヂ・ド・ホレ](https://ja.wikipedia.org/wiki/ボンヂ・ド・ホレ "wikilink") - *Office Boy* (2007年)
-  - [ザ・クリブス](https://ja.wikipedia.org/wiki/ザ・クリブス "wikilink") - *Men's Needs* (2007年)
+  - [ボンヂ・ド・ホレ](../Page/ボンヂ・ド・ホレ.md "wikilink") - *Office Boy* (2007年)
+  - [ザ・クリブス](../Page/ザ・クリブス.md "wikilink") - *Men's Needs* (2007年)
   - Loney, Dear - *The City, The Airport* (2007年)
   - [アソビセクス](https://ja.wikipedia.org/wiki/アソビセクス "wikilink") - *Strawberries* (2007年)
-  - [カイリー・ミノーグ](https://ja.wikipedia.org/wiki/カイリー・ミノーグ "wikilink") - *Wow* (2008年)
+  - [カイリー・ミノーグ](../Page/カイリー・ミノーグ.md "wikilink") - *Wow* (2008年)
   - Tetine - *I Go To The Doctor\!* (2008年)
-  - [B-52's](https://ja.wikipedia.org/wiki/B-52's "wikilink") - *Funplex* (2008年)
+  - [B-52's](../Page/B-52's.md "wikilink") - *Funplex* (2008年)
   - [デジタリズム](https://ja.wikipedia.org/wiki/デジタリズム "wikilink") - *Pogo* (2008年)
-  - [ブロック・パーティ](https://ja.wikipedia.org/wiki/ブロック・パーティ "wikilink") - *Mercury* (2008年)
+  - [ブロック・パーティ](../Page/ブロック・パーティ.md "wikilink") - *Mercury* (2008年)
   - Lykke Li - *Little Bit* (2008年)
-  - [キーン](https://ja.wikipedia.org/wiki/キーン_\(バンド\) "wikilink") - *The Lovers Are Losing* (2008年)
+  - [キーン](../Page/キーン_\(バンド\).md "wikilink") - *The Lovers Are Losing* (2008年)
 
 ## 日本公演
 
   - 2007年
       - 1月16日 東京Shibuya DUO Music Exchange
-      - 8月11日、12日 [サマーソニック](https://ja.wikipedia.org/wiki/サマーソニック "wikilink")
+      - 8月11日、12日 [サマーソニック](../Page/サマーソニック.md "wikilink")
 
 <!-- end list -->
 
   - 2008年
       - 7月27日 [フジ・ロック・フェスティバル](https://ja.wikipedia.org/wiki/フジ・ロック・フェスティバル "wikilink")
-      - 11月24日 名古屋[CLUB QUATTRO](https://ja.wikipedia.org/wiki/CLUB_QUATTRO "wikilink")、25日、26日 東京[LIQUIDROOM](https://ja.wikipedia.org/wiki/LIQUIDROOM "wikilink")、27日 大阪・心斎橋CLUB QUATTRO、28日 横浜BAY HALL
+      - 11月24日 名古屋[CLUB QUATTRO](../Page/CLUB_QUATTRO.md "wikilink")、25日、26日 東京[LIQUIDROOM](https://ja.wikipedia.org/wiki/LIQUIDROOM "wikilink")、27日 大阪・心斎橋CLUB QUATTRO、28日 横浜BAY HALL
 
 <!-- end list -->
 

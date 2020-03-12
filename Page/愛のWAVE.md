@@ -1,9 +1,9 @@
 > この記事は[WAVE](https://ja.wikipedia.org/wiki/WAVE)から翻訳されています。
 
 
-『**愛のWAVE**』（あいのウェーブ）は、[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[11月9日](../Page/11月9日.md "wikilink")に発売された[松任谷由実](../Page/松任谷由実.md "wikilink")・[カールスモーキー石井](https://ja.wikipedia.org/wiki/石井竜也 "wikilink")（[米米CLUB](../Page/米米CLUB.md "wikilink")）の名義で発表されたシングル。
+『**愛のWAVE**』（あいのウェーブ）は、[1992年](../Page/1992年.md "wikilink")[11月9日](../Page/11月9日.md "wikilink")に発売された[松任谷由実](../Page/松任谷由実.md "wikilink")・[カールスモーキー石井](https://ja.wikipedia.org/wiki/石井竜也 "wikilink")（[米米CLUB](../Page/米米CLUB.md "wikilink")）の名義で発表されたシングル。
 
-作詞・作曲を松任谷、石井両名が手掛けた、同年の[フジテレビの同名のミュージックキャンペーンテーマソング](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")。発売元は[東芝EMIと](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")[SONY RECORDSの共同による](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")。タイトルステッカーが付いており松任谷盤はピンク、石井盤は緑のステッカーである。
+作詞・作曲を松任谷、石井両名が手掛けた、同年の[フジテレビの同名のミュージックキャンペーンテーマソング](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")。発売元は[東芝EMIと](../Page/EMIミュージック・ジャパン.md "wikilink")[SONY RECORDSの共同による](../Page/ソニー・ミュージックレコーズ.md "wikilink")。タイトルステッカーが付いており松任谷盤はピンク、石井盤は緑のステッカーである。
 
 なお、このプロモーションのために両名とも『[笑っていいとも\!](https://ja.wikipedia.org/wiki/森田一義アワー_笑っていいとも! "wikilink")』に出演した。
 

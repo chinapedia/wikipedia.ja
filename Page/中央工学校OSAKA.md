@@ -5,7 +5,7 @@
 
 ## 概要
 
-[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")[豊中市](https://ja.wikipedia.org/wiki/豊中市 "wikilink")に所在し、[服部緑地](https://ja.wikipedia.org/wiki/服部緑地 "wikilink")に隣接する。
+[大阪府](../Page/大阪府.md "wikilink")[豊中市](https://ja.wikipedia.org/wiki/豊中市 "wikilink")に所在し、[服部緑地](../Page/服部緑地.md "wikilink")に隣接する。
 
 大阪中央工学校として[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")に開校。「一人の天才よりも、千人の技術者を育てる」をモットーにオリジナルの教育システムを備える。
 
@@ -17,7 +17,7 @@
   - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") - 中央実務専門学校と改称
   - [1988年](../Page/1988年.md "wikilink") - 緑地公園に校舎を新設し、移転
   - [1993年](../Page/1993年.md "wikilink") - 2号館完成
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink") - 現校名に改称
+  - [2006年](../Page/2006年.md "wikilink") - 現校名に改称
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") - 中央工学校OSAKA一級建築士事務所を開設
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink") - 日本語科を開設
   - 2014年 - 建築学科・インテリアデザイン科・建築CGデザイン科科建築学科（夜間部）が職業実践専門課程として文部科学大臣に任命
@@ -56,7 +56,7 @@
 
 <!-- end list -->
 
-  - [日本建築学会](https://ja.wikipedia.org/wiki/日本建築学会 "wikilink")近畿支部 卒業設計コンクール 入賞
+  - [日本建築学会](../Page/日本建築学会.md "wikilink")近畿支部 卒業設計コンクール 入賞
 
 <!-- end list -->
 
@@ -92,7 +92,7 @@
 
 ## 関連項目
 
-  - [中央工学校](https://ja.wikipedia.org/wiki/中央工学校 "wikilink")
+  - [中央工学校](../Page/中央工学校.md "wikilink")
   - [中央動物専門学校](https://ja.wikipedia.org/wiki/中央動物専門学校 "wikilink")
   - [中央工学校生涯学習センター](https://ja.wikipedia.org/wiki/中央工学校生涯学習センター "wikilink")
 

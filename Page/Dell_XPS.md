@@ -1,19 +1,19 @@
 > この記事は[Dell XPS](https://ja.wikipedia.org/wiki/Dell_XPS)から翻訳されています。
 
 
-**XPS**は、Dell（[デル](https://ja.wikipedia.org/wiki/デル "wikilink")）の[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")の一つである。 **Xtreme Performance System**の略。
+**XPS**は、Dell（[デル](../Page/デル.md "wikilink")）の[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")の一つである。 **Xtreme Performance System**の略。
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Dell_XPS_M1710_LEDs.jpg "wikilink")
 
 ## 概要
 
-元々は、デスクトップ向けのDimensionシリーズの上位機種として発売され、後にノートブック向けの[Inspironシリーズの上位機種として投入される](https://ja.wikipedia.org/wiki/Dell_Inspiron "wikilink")。今後は「Alienware」が後継シリーズとして投入する事が決定された為にXPSシリーズはミドルレンジのデスクトップとして存続していく方向である。
+元々は、デスクトップ向けのDimensionシリーズの上位機種として発売され、後にノートブック向けの[Inspironシリーズの上位機種として投入される](../Page/Dell_Inspiron.md "wikilink")。今後は「Alienware」が後継シリーズとして投入する事が決定された為にXPSシリーズはミドルレンジのデスクトップとして存続していく方向である。
 
 ## 特長
 
 デスクトップ向けのDimensionシリーズ（現在のDell Inspiron）とノートブック向けのDell Inspironシリーズより上位に位置付けられ、プラスティックのカラーリングや[LED](https://ja.wikipedia.org/wiki/LED "wikilink")による装飾が施されるなど、外観にも力が入れられている。
 
-他社の[ハイエンド](https://ja.wikipedia.org/wiki/ハイエンド "wikilink")モデルと比べると[3D機能が強化されているのも特徴](../Page/3次元コンピュータグラフィックス.md "wikilink")。また、専用のサポート回線があり、24時間365日で対応してくれる。[Inspironのサポートラインよりも早く電話がつながり待ち時間が少なく](https://ja.wikipedia.org/wiki/Dell_Inspiron "wikilink")、すべて日本人が対応してくれるのも魅力。
+他社の[ハイエンド](https://ja.wikipedia.org/wiki/ハイエンド "wikilink")モデルと比べると[3D機能が強化されているのも特徴](../Page/3次元コンピュータグラフィックス.md "wikilink")。また、専用のサポート回線があり、24時間365日で対応してくれる。[Inspironのサポートラインよりも早く電話がつながり待ち時間が少なく](../Page/Dell_Inspiron.md "wikilink")、すべて日本人が対応してくれるのも魅力。
 
 ## 日本に於ける現行モデル
 
@@ -26,8 +26,8 @@
   - M1710
     17.0インチ液晶搭載のハイエンド機でXPSノートブックの主力的な存在。GeForce Go 7900 GTXを選択可能とし、メーカー系のノートパソコンとしては最高の3D能力を持っているが、ハードディスクを一台しか搭載していない。実はInspiron 9400と同一筐体なのだがカラーリングが銀と赤なのに加えて、筐体の各所にネオンが仕込んであって様々な色に光らせることができるので派手な外観になっている。
   - M2010
-    20.1インチ液晶搭載のパソコン。デルではノートブックの扱いになっているが、20インチというのはVAIOのtype L（19インチ）を超えるもので、重さは8.3KgとM1710の二倍、ちょっとしたバッグぐらいの大きさがあり、キーボードも内蔵でないので、ここまでくるとノートブックというよりはノートブックの規格で作られたデスクトップだろう。キーボードはデスクトップ仕様のものを[Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth "wikilink")により接続している。液晶と本体をつなぐヒンジが取っ手になっている。
-    デルで初めてのRAID構成が可能なノートブックではあるが、グラフィックボードの性能はM1710に劣り、[Blu-rayドライブやHDドライブ](../Page/Blu-ray_Disc.md "wikilink")、地上デジタルチューナーも[BTO](https://ja.wikipedia.org/wiki/BTO "wikilink")で搭載できないなど、他のXPSシリーズとは若干毛色の違うモデルとなっている。現在は、販売が終了している。
+    20.1インチ液晶搭載のパソコン。デルではノートブックの扱いになっているが、20インチというのはVAIOのtype L（19インチ）を超えるもので、重さは8.3KgとM1710の二倍、ちょっとしたバッグぐらいの大きさがあり、キーボードも内蔵でないので、ここまでくるとノートブックというよりはノートブックの規格で作られたデスクトップだろう。キーボードはデスクトップ仕様のものを[Bluetooth](../Page/Bluetooth.md "wikilink")により接続している。液晶と本体をつなぐヒンジが取っ手になっている。
+    デルで初めてのRAID構成が可能なノートブックではあるが、グラフィックボードの性能はM1710に劣り、[Blu-rayドライブやHDドライブ](../Page/Blu-ray_Disc.md "wikilink")、地上デジタルチューナーも[BTO](../Page/BTO.md "wikilink")で搭載できないなど、他のXPSシリーズとは若干毛色の違うモデルとなっている。現在は、販売が終了している。
   - M1330
     13.3インチ液晶搭載のパソコン。2007年6月発売。重量や携帯性はM1210、性能はM1710という、良いとこ取りの感がするパソコン。それだけにシャーシも高級感溢れるデザインに仕上げられている（パールホワイト、タキシードブラック、クリムゾンレッドの三色から選択可能。後にミッドナイトブルーとフラミンゴピンクが追加）。液晶はTFT液晶とWLEDから選択可能。最新機だけあって姉妹機には無い機能が満載されている（Core 2 Duoプロセッサー{最大T8300}標準搭載、[モバイルブロードバンド](https://ja.wikipedia.org/wiki/モバイルブロードバンド "wikilink")、スロットタイプ光学ドライブ、HDMI接続、XPS初搭載の指紋認証デバイス等）。最大4GBのメモリ、200GBのハードドライブが搭載可能。SSDの構成も選択できるが、現在は32GBしか搭載できなく、初期構成に戻すことができるPC-Restoreの機能は除外される。SSDは、1.8インチモデル。M1210に比べると、120gほど軽量化に成功している。ただ、このモデルから選択できる[OSが](../Page/オペレーティングシステム.md "wikilink")[Windows Vistaのみになり](https://ja.wikipedia.org/wiki/Windows_Vista "wikilink")、[Windows XPを必要とするユーザーが独自に他機種のドライバを転用し](https://ja.wikipedia.org/wiki/Windows_XP "wikilink")、XPをインストールするケースが増えるなど、OSに関しては不満も多い。
   - M1530
@@ -42,7 +42,7 @@
 ### デスクトップ
 
   - XPS 630
-    XPSシリーズにおけるミドルタワーモデルで、正面のプラスチック部分は黒か赤の選択が可能で、吸気口にはネオン(LED)が仕込んである。CPUはクアッドコアのCore 2 QuadのQ6600かQ9300をGPUにはGeFoece8800GTと9800GTには[SLI](https://ja.wikipedia.org/wiki/SLI "wikilink")構成が可能で、当時外付け扱いであった[ageiaの物理演算アクセラレーターカードの](https://ja.wikipedia.org/wiki/w:en:Ageia "wikilink")[PhysX](https://ja.wikipedia.org/wiki/PhysX "wikilink")の搭載が可能になっていた。
+    XPSシリーズにおけるミドルタワーモデルで、正面のプラスチック部分は黒か赤の選択が可能で、吸気口にはネオン(LED)が仕込んである。CPUはクアッドコアのCore 2 QuadのQ6600かQ9300をGPUにはGeFoece8800GTと9800GTには[SLI](https://ja.wikipedia.org/wiki/SLI "wikilink")構成が可能で、当時外付け扱いであった[ageiaの物理演算アクセラレーターカードの](https://ja.wikipedia.org/wiki/w:en:Ageia "wikilink")[PhysX](../Page/PhysX.md "wikilink")の搭載が可能になっていた。
   - XPS 700
     テルとして初めて「XPS」の単独ネームで発売されたデスクトップにおけるフラッグシップモデル。ベースは同社の[ワークステーション](../Page/ワークステーション.md "wikilink")「Precision 670」をベースとしている（ただしマザーボードは異なる。）。筐体の色は、Precisionではブラックに対してXPSではシルバーが採用された。また筐体の前面にあるデルのロゴにはネオンが仕込んである。色の変更やネオンの消灯は、BIOSで設定する。
   - XPS 710
@@ -58,11 +58,11 @@
 
 ## 関連項目
 
-  - [デル](https://ja.wikipedia.org/wiki/デル "wikilink")
+  - [デル](../Page/デル.md "wikilink")
 
   - [ノートパソコン](../Page/ノートパソコン.md "wikilink")
 
-  - [Dell Inspiron](https://ja.wikipedia.org/wiki/Dell_Inspiron "wikilink")
+  - [Dell Inspiron](../Page/Dell_Inspiron.md "wikilink")
 
   -
   -

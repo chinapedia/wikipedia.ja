@@ -8,7 +8,7 @@
   - [TechNet サブスクリプション](http://technet.microsoft.com/ja-jp/subscriptions/default.aspx) - [2013年](../Page/2013年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink")をもって新規申し込み受付終了。[OSや](../Page/オペレーティングシステム.md "wikilink")[Microsoft Officeなど](../Page/Microsoft_Office.md "wikilink")、開発者向けソフトウェア以外のマイクロソフト製品を評価目的として複数の[コンピュータ](../Page/コンピュータ.md "wikilink")で試用できるライセンスを提供している。ライセンスはあくまで評価目的のみであり、業務・開発・使用を行う事は認められていないので注意が必要である。開発目的であればMSDNサブスクリプション、それ以外の通常使用目的であれば、製品版を購入しなければならない。評価ソフトウェアは[ダウンロード](https://ja.wikipedia.org/wiki/ダウンロード "wikilink")する形態のほか、年数回のメディア送付を行う契約がある。
   - [TechNet ライブラリ](http://technet.microsoft.com/ja-jp/library) - マイクロソフト製品の技術資料を提供している。
   - [TechNet Evaluation Center](http://technet.microsoft.com/ja-jp/bb291020.aspx) - マイクロソフト製品のベータ版を提供している。
-  - [TechNet フォーラム](http://social.technet.microsoft.com/Forums/ja-JP/categories) - IT Pro向けの[電子掲示板](https://ja.wikipedia.org/wiki/電子掲示板 "wikilink")。
+  - [TechNet フォーラム](http://social.technet.microsoft.com/Forums/ja-JP/categories) - IT Pro向けの[電子掲示板](../Page/電子掲示板.md "wikilink")。
   - [TechNet イベント](http://technet.microsoft.com/ja-jp/bb291010.aspx) - IT Pro向けのイベント。
   - [Windows Sysinternals](https://ja.wikipedia.org/wiki/Windows_Sysinternals "wikilink") - 高度なシステムツールを提供。
   - [TechNet マガジン](http://technet.microsoft.com/ja-jp/magazine/) - 技術の動向や無償ツールを解説するオンライン誌。

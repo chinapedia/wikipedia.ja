@@ -1,7 +1,7 @@
 > この記事は[IndeTerminatePLUS](https://ja.wikipedia.org/wiki/IndeTerminatePLUS)から翻訳されています。
 
 
-『**IndeTerminatePLUS**』（インデターミネートプラス）は、ゲームサークル[アルファナッツ](https://ja.wikipedia.org/wiki/アルファナッツ "wikilink")の代表HIDEが個人制作したフリーの[RPGであり](../Page/コンピュータRPG.md "wikilink")、前作『IndeTerminate』のリメイク作品でもある。本項ではこれに加え、リメイク作品の『**IndeTerminate PLUS ALPHA**』についても記載する（以降IndeTerminatePLUSを「旧版」、IndeTerminate PLUS ALPHAを「リメイク版」と記す）。制作には[RPGツクール2000](https://ja.wikipedia.org/wiki/RPGツクール2000 "wikilink")が使用されている。
+『**IndeTerminatePLUS**』（インデターミネートプラス）は、ゲームサークル[アルファナッツ](../Page/アルファナッツ.md "wikilink")の代表HIDEが個人制作したフリーの[RPGであり](../Page/コンピュータRPG.md "wikilink")、前作『IndeTerminate』のリメイク作品でもある。本項ではこれに加え、リメイク作品の『**IndeTerminate PLUS ALPHA**』についても記載する（以降IndeTerminatePLUSを「旧版」、IndeTerminate PLUS ALPHAを「リメイク版」と記す）。制作には[RPGツクール2000](../Page/RPGツクール2000.md "wikilink")が使用されている。
 
 ## 概要
 
@@ -9,9 +9,9 @@
 
 旧版はファミ通によるコンテンストパークで[2001年](../Page/2001年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")に銅賞を受賞した。RPGツクール2000の既存の戦闘システムを使わず、作者のHIDE自作のサイドビュー戦闘を用いており、コンテストパークでもシステム面について評価されているほか\[1\]、画像は全て自作である。また、開発当時はまだアルファナッツは結成されておらず、個人制作である。
 
-アルファナッツが結成された後の[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")7月にリメイク版のIndeTerminate PLUS ALPHAが発表され、[ダイソーにおいて](https://ja.wikipedia.org/wiki/大創産業 "wikilink")『ダイソーショップザ・ゲームシリーズ 11 ファンタジーロープレ』というタイトルで販売された。この販売の終了に伴い、2007年[9月](../Page/9月.md "wikilink")からは作者ページ及び各ダウンロードサイトで[フリーウェア](../Page/フリーウェア.md "wikilink")として配布されている。リメイク版の企画はグラフィックチーフの[辺境紳士で](https://ja.wikipedia.org/wiki/今野隼史 "wikilink")、ストーリーは同じだが、グラフィックやシステム面などが改善されている。基本的なシステムは旧版より流用されている為、旧版のセーブデータをリメイク版にコンバートする事が可能\[2\]。
+アルファナッツが結成された後の[2006年](../Page/2006年.md "wikilink")7月にリメイク版のIndeTerminate PLUS ALPHAが発表され、[ダイソーにおいて](https://ja.wikipedia.org/wiki/大創産業 "wikilink")『ダイソーショップザ・ゲームシリーズ 11 ファンタジーロープレ』というタイトルで販売された。この販売の終了に伴い、2007年[9月](../Page/9月.md "wikilink")からは作者ページ及び各ダウンロードサイトで[フリーウェア](../Page/フリーウェア.md "wikilink")として配布されている。リメイク版の企画はグラフィックチーフの[辺境紳士で](../Page/今野隼史.md "wikilink")、ストーリーは同じだが、グラフィックやシステム面などが改善されている。基本的なシステムは旧版より流用されている為、旧版のセーブデータをリメイク版にコンバートする事が可能\[2\]。
 
-本作の設定は後に制作される「[女神の涙](https://ja.wikipedia.org/wiki/女神の涙 "wikilink")」「[今の風を感じて](https://ja.wikipedia.org/wiki/今の風を感じて "wikilink")」「天使の微笑」「白い絆」などに引き継がれ、IndeTerminateシリーズとして作品展開している。
+本作の設定は後に制作される「[女神の涙](../Page/女神の涙.md "wikilink")」「[今の風を感じて](../Page/今の風を感じて.md "wikilink")」「天使の微笑」「白い絆」などに引き継がれ、IndeTerminateシリーズとして作品展開している。
 
 ### 世界観
 
@@ -55,7 +55,7 @@
 
 ## 用語
 
-ここでは本作で登場した設定のみを解説する。さらに詳しい情報は、[女神の涙](https://ja.wikipedia.org/wiki/女神の涙 "wikilink")・[今の風を感じて](https://ja.wikipedia.org/wiki/今の風を感じて "wikilink")などを参照。
+ここでは本作で登場した設定のみを解説する。さらに詳しい情報は、[女神の涙](../Page/女神の涙.md "wikilink")・[今の風を感じて](../Page/今の風を感じて.md "wikilink")などを参照。
 
   - レフィリア教
     かつて、世界を滅亡の危機から救ったとされる女神レフィリアをよりどころとする[宗教団体](https://ja.wikipedia.org/wiki/宗教団体 "wikilink")。教会は、レフィリアが行使したとされる聖術を教える[養成学校](https://ja.wikipedia.org/wiki/養成学校 "wikilink")としても機能しており、多くの術士が学んでいる。ここで学ぶ多くの術士達は許可無く外出をする事は固く禁止されており、数ヶ月に1～2度に（術士の学業の一環として）外出許可が出る。アレイドやティナもその2人である。
@@ -68,8 +68,8 @@
 
 ## 関連項目
 
-  - [今の風を感じて](https://ja.wikipedia.org/wiki/今の風を感じて "wikilink")
-  - [女神の涙](https://ja.wikipedia.org/wiki/女神の涙 "wikilink")
+  - [今の風を感じて](../Page/今の風を感じて.md "wikilink")
+  - [女神の涙](../Page/女神の涙.md "wikilink")
   - [白い絆](https://ja.wikipedia.org/wiki/白い絆 "wikilink")
 
 ## 外部リンク

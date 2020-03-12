@@ -1,7 +1,7 @@
 > この記事は[COOL - RENTAL BODY GUARD -](https://ja.wikipedia.org/wiki/COOL_-_RENTAL_BODY_GUARD_-)から翻訳されています。
 
 
-『**COOL -RENTAL BODY GUARD-**』（クール レンタルボディーガード）は、『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』にて[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")40号から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")7号まで連載された[許斐剛](https://ja.wikipedia.org/wiki/許斐剛 "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。単行本は全3巻（文庫版全2巻）。
+『**COOL -RENTAL BODY GUARD-**』（クール レンタルボディーガード）は、『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』にて[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")40号から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")7号まで連載された[許斐剛](../Page/許斐剛.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。単行本は全3巻（文庫版全2巻）。
 
 ## 作品概要
 
@@ -10,8 +10,8 @@
 ## 主な登場人物
 
   - COOL（クール）
-    本名は不明。[1975年](../Page/1975年.md "wikilink")[11月27日](../Page/11月27日.md "wikilink")生まれのO型。喫茶店JAMのレンタルボディーガードで、笑子からボディーガードの依頼を受け、ボディーガードとなる。特技は相手に外れくじを引かすこと。洞察力に優れており、無口で[ラジカセを使って会話する](https://ja.wikipedia.org/wiki/ラジオカセットレコーダー "wikilink")（あらかじめ相手の言動を予測し[テープに録音している](../Page/カセットテープ.md "wikilink")）。普段はそれを利用して笑子をおちょくっているが、敵を欺くトリックとしても使用する。
-    熱くなると[サングラス](https://ja.wikipedia.org/wiki/サングラス "wikilink")をかけ「COOL」を連呼する。タイプは「トリッキー」。レンタル料は[時価](https://ja.wikipedia.org/wiki/時価 "wikilink")。
+    本名は不明。[1975年](../Page/1975年.md "wikilink")[11月27日](../Page/11月27日.md "wikilink")生まれのO型。喫茶店JAMのレンタルボディーガードで、笑子からボディーガードの依頼を受け、ボディーガードとなる。特技は相手に外れくじを引かすこと。洞察力に優れており、無口で[ラジカセを使って会話する](../Page/ラジオカセットレコーダー.md "wikilink")（あらかじめ相手の言動を予測し[テープに録音している](../Page/カセットテープ.md "wikilink")）。普段はそれを利用して笑子をおちょくっているが、敵を欺くトリックとしても使用する。
+    熱くなると[サングラス](../Page/サングラス.md "wikilink")をかけ「COOL」を連呼する。タイプは「トリッキー」。レンタル料は[時価](https://ja.wikipedia.org/wiki/時価 "wikilink")。
   - 岡村笑子（おかむら しょうこ）
     [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[5月7日](../Page/5月7日.md "wikilink")生まれのO型。父親の事件が切っ掛けで、COOLに喫茶JAMのレンタルボディーガードを依頼する。現在はJAMでバイト中。いつもCOOLにおちょくられている。
   - 手塚国風
@@ -26,12 +26,12 @@
 
 ## 『テニスの王子様』との関連
 
-  - 『[テニスの王子様](https://ja.wikipedia.org/wiki/テニスの王子様 "wikilink")』40.5巻より、遠山金太郎の好きな本が『COOL』となっている。
+  - 『[テニスの王子様](../Page/テニスの王子様.md "wikilink")』40.5巻より、遠山金太郎の好きな本が『COOL』となっている。
   - [ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")『もっと学園祭の王子様』における遠山金太郎との会話に「ラジカセ持ったレンタルボディーガードの話」というネタが登場する。
 
 ## 書誌情報
 
-  - [ジャンプ・コミックス](https://ja.wikipedia.org/wiki/ジャンプ・コミックス "wikilink")
+  - [ジャンプ・コミックス](../Page/ジャンプ・コミックス.md "wikilink")
 
 <!-- end list -->
 
@@ -41,7 +41,7 @@
 
 <!-- end list -->
 
-  - [集英社文庫](https://ja.wikipedia.org/wiki/集英社文庫 "wikilink")
+  - [集英社文庫](../Page/集英社文庫.md "wikilink")
     2巻には作者のデビュー作『鉄人〜世界一固い男〜』を収録。
 
 <!-- end list -->

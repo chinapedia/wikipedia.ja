@@ -1,9 +1,9 @@
 > この記事は[Avira Antivirus](https://ja.wikipedia.org/wiki/Avira_Antivirus)から翻訳されています。
 
 
-**Avira Antivirus**（アビラ アンチウイルス）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の([:en:Avira](https://ja.wikipedia.org/wiki/:en:Avira "wikilink"))が販売する[アンチウイルスソフトウェア](https://ja.wikipedia.org/wiki/アンチウイルスソフトウェア "wikilink")である。
+**Avira Antivirus**（アビラ アンチウイルス）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の([:en:Avira](https://ja.wikipedia.org/wiki/:en:Avira "wikilink"))が販売する[アンチウイルスソフトウェア](../Page/アンチウイルスソフトウェア.md "wikilink")である。
 
-[ウイルス](https://ja.wikipedia.org/wiki/コンピュータウイルス "wikilink")、[マルウェア](https://ja.wikipedia.org/wiki/マルウェア "wikilink")、[アドウェア](https://ja.wikipedia.org/wiki/アドウェア "wikilink")、[スパイウェア](https://ja.wikipedia.org/wiki/スパイウェア "wikilink")、[ルートキット](https://ja.wikipedia.org/wiki/ルートキット "wikilink")対策の検出機能のみ持つAvira Free Antivirus、Freeバージョンにフィッシング対策や[Eメール](https://ja.wikipedia.org/wiki/Eメール "wikilink")保護、ドライブバイダウンロード攻撃対策、ゲームモード、[Eメール](https://ja.wikipedia.org/wiki/Eメール "wikilink")や電話によるサポートなどを追加したAvira Antivirus Premiumと、Premiumバージョンに[ファイアウォール](../Page/ファイアウォール.md "wikilink")機能や[バックアップ](https://ja.wikipedia.org/wiki/バックアップ "wikilink")機能、アンチスパム機能、[ペアレンタルコントロール](https://ja.wikipedia.org/wiki/ペアレンタルコントロール "wikilink")機能などを付加したが存在する。なお、Freeバージョンは非商用かつ私的利用に限り無償で利用できる。日本ではプロマーク社が法人向けに販売している。
+[ウイルス](https://ja.wikipedia.org/wiki/コンピュータウイルス "wikilink")、[マルウェア](../Page/マルウェア.md "wikilink")、[アドウェア](../Page/アドウェア.md "wikilink")、[スパイウェア](https://ja.wikipedia.org/wiki/スパイウェア "wikilink")、[ルートキット](../Page/ルートキット.md "wikilink")対策の検出機能のみ持つAvira Free Antivirus、Freeバージョンにフィッシング対策や[Eメール](https://ja.wikipedia.org/wiki/Eメール "wikilink")保護、ドライブバイダウンロード攻撃対策、ゲームモード、[Eメール](https://ja.wikipedia.org/wiki/Eメール "wikilink")や電話によるサポートなどを追加したAvira Antivirus Premiumと、Premiumバージョンに[ファイアウォール](../Page/ファイアウォール.md "wikilink")機能や[バックアップ](../Page/バックアップ.md "wikilink")機能、アンチスパム機能、[ペアレンタルコントロール](https://ja.wikipedia.org/wiki/ペアレンタルコントロール "wikilink")機能などを付加したが存在する。なお、Freeバージョンは非商用かつ私的利用に限り無償で利用できる。日本ではプロマーク社が法人向けに販売している。
 
 個人向けのAviraシリーズのほかに、[ワークステーション](../Page/ワークステーション.md "wikilink")向けのAvira Professional Securityや[サーバ](../Page/サーバ.md "wikilink")向けのAvira Server Securityも用意されている。
 

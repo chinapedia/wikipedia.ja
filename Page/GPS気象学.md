@@ -1,7 +1,7 @@
 > この記事は[GPS](https://ja.wikipedia.org/wiki/GPS)から翻訳されています。
 
 
-**GPS気象学**（GPSきしょうがく、）は、[GPS](https://ja.wikipedia.org/wiki/GPS "wikilink")/[GNSSの](https://ja.wikipedia.org/wiki/衛星測位システム "wikilink")[誤差](../Page/誤差.md "wikilink")成分の一つである[大気遅延量に影響を与える](https://ja.wikipedia.org/wiki/衛星測位システム#電離圏遅延 "wikilink")[水蒸気](../Page/水蒸気.md "wikilink")量を逆にシグナルとして取り出し、[大気](https://ja.wikipedia.org/wiki/大気 "wikilink")円柱中の水蒸気量を推定する技術およびその応用の総称である。
+**GPS気象学**（GPSきしょうがく、）は、[GPS](https://ja.wikipedia.org/wiki/GPS "wikilink")/[GNSSの](../Page/衛星測位システム.md "wikilink")[誤差](../Page/誤差.md "wikilink")成分の一つである[大気遅延量に影響を与える](https://ja.wikipedia.org/wiki/衛星測位システム#電離圏遅延 "wikilink")[水蒸気](../Page/水蒸気.md "wikilink")量を逆にシグナルとして取り出し、[大気](https://ja.wikipedia.org/wiki/大気 "wikilink")円柱中の水蒸気量を推定する技術およびその応用の総称である。
 
 湿潤で、気象の数値予報が発達し、また多数のGPS/GNSS観測点を擁する日本は，地上型GPS気象学の絶好のテストフィールドである．ここでは，1997～2001年に，気象庁，国土地理院，大学等が行ったGPS気象学プロジェクトについて紹介する（なお、この中には宇宙型GPS気象学も含まれるが、これは次節で述べる。）。
 
@@ -24,7 +24,7 @@
 
 ## 関連項目
 
-  - [電子基準点](https://ja.wikipedia.org/wiki/電子基準点 "wikilink") - [国土地理院](../Page/国土地理院.md "wikilink")
+  - [電子基準点](../Page/電子基準点.md "wikilink") - [国土地理院](../Page/国土地理院.md "wikilink")
   - [トモグラフィ](https://ja.wikipedia.org/wiki/トモグラフィ "wikilink")
 
 ## 外部リンク

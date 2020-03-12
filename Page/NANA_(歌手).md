@@ -1,15 +1,15 @@
 > この記事は[NANA \(\)](https://ja.wikipedia.org/wiki/NANA_\(\))から翻訳されています。
 
 
-**NANA**（なな）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性歌手](../Page/歌手.md "wikilink")，以前は[ランティス](https://ja.wikipedia.org/wiki/ランティス "wikilink")に所属していた。
+**NANA**（なな）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性歌手](../Page/歌手.md "wikilink")，以前は[ランティス](../Page/ランティス.md "wikilink")に所属していた。
 
 ## 概要
 
-主に[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")の主題歌を担当しており、[Elements Gardenを始めとする様々なサウンドクリエーターのプロデュースの元で音楽活動をしている](https://ja.wikipedia.org/wiki/Elements_Garden "wikilink")。彼女が担当した曲はゲームの特典音楽CDやサウンドトラック、ゲームメーカーやサウンドクリエーターによるボーカルコレクションCD等で聞くことができるものが多い。
+主に[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")の主題歌を担当しており、[Elements Gardenを始めとする様々なサウンドクリエーターのプロデュースの元で音楽活動をしている](../Page/Elements_Garden.md "wikilink")。彼女が担当した曲はゲームの特典音楽CDやサウンドトラック、ゲームメーカーやサウンドクリエーターによるボーカルコレクションCD等で聞くことができるものが多い。
 
 2008年9月25日、ファーストベストアルバム『[NANA](https://www.lantis.jp/release-item/LHCA-5092.html)』を発売した。
 
-また、デビューから長年ライブ出演は行っていなかったが、2014年1月に開催された「暴れ祭り 2014」に出演し、それ以降は頻繁ライブ出演を行っており、ライブ出演の情報ついては知り合いである[石田燿子](https://ja.wikipedia.org/wiki/石田燿子 "wikilink")のホームページで確認する事が出来る。
+また、デビューから長年ライブ出演は行っていなかったが、2014年1月に開催された「暴れ祭り 2014」に出演し、それ以降は頻繁ライブ出演を行っており、ライブ出演の情報ついては知り合いである[石田燿子](../Page/石田燿子.md "wikilink")のホームページで確認する事が出来る。
 
 2015年7月5日、公式ツイッターアカウントを取得し、情報発信開始。\[1\]
 
@@ -17,11 +17,11 @@
 
 ### シングル
 
-| 枚   | 発売日        | タイトル                                                                                | 規格品番      | レーベル                                                                                                           | 最高位                                                                                                                        | タイアップ                                                                                     | 備考              |
-| --- | ---------- | ----------------------------------------------------------------------------------- | --------- | -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | --------------- |
-| 1st | 2005年4月27日 | **[Dreaming Continue](https://ja.wikipedia.org/wiki/Dreaming_Continue "wikilink")** | LACM-4193 | [Lantis](https://ja.wikipedia.org/wiki/Lantis "wikilink")                                                      | 圈外                                                                                                                         | PCゲーム『[ぱすてるチャイムContinue](https://ja.wikipedia.org/wiki/ぱすてるチャイムContinue "wikilink")』OP主題歌 | Track1（表題曲）のみ歌唱 |
-| 2nd | 2006年9月29日 | **[Ashberry](https://ja.wikipedia.org/wiki/Ashberry_\(エーデルワイス\) "wikilink")**       | OVCD-1    | [OVERDRIVE](https://ja.wikipedia.org/wiki/OVERDRIVE_\(ブランド\) "wikilink")（[自主制作](../Page/インディーズ.md "wikilink")） | PCゲーム『[エーデルワイス](https://ja.wikipedia.org/wiki/エーデルワイス_\(ゲーム\) "wikilink")』OP主題歌                                            | Track1（表題曲）のみ歌唱                                                                           |                 |
-| 3rd | 2012年5月30日 | **[コンフィチュール/片恋](https://ja.wikipedia.org/wiki/コンフィチュール/片恋 "wikilink")**             | QECB-40   | [b-green](../Page/ブロッコリー_\(企業\).md "wikilink")                                                                 | PCゲーム『[おしえて☆エッチなレシピ -アナタとワタシのあま〜いせいかつ\!-](https://ja.wikipedia.org/wiki/おしえて☆エッチなレシピ_-アナタとワタシのあま〜いせいかつ!- "wikilink")』ED主題歌 | Track2（片恋）のみ歌唱                                                                            |                 |
+| 枚   | 発売日        | タイトル                                                                                | 規格品番      | レーベル                                                                                        | 最高位                                                                                                                        | タイアップ                                                                  | 備考              |
+| --- | ---------- | ----------------------------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | --------------- |
+| 1st | 2005年4月27日 | **[Dreaming Continue](https://ja.wikipedia.org/wiki/Dreaming_Continue "wikilink")** | LACM-4193 | [Lantis](https://ja.wikipedia.org/wiki/Lantis "wikilink")                                   | 圈外                                                                                                                         | PCゲーム『[ぱすてるチャイムContinue](../Page/ぱすてるチャイムContinue.md "wikilink")』OP主題歌 | Track1（表題曲）のみ歌唱 |
+| 2nd | 2006年9月29日 | **[Ashberry](https://ja.wikipedia.org/wiki/Ashberry_\(エーデルワイス\) "wikilink")**       | OVCD-1    | [OVERDRIVE](../Page/OVERDRIVE_\(ブランド\).md "wikilink")（[自主制作](../Page/インディーズ.md "wikilink")） | PCゲーム『[エーデルワイス](../Page/エーデルワイス_\(ゲーム\).md "wikilink")』OP主題歌                                                               | Track1（表題曲）のみ歌唱                                                        |                 |
+| 3rd | 2012年5月30日 | **[コンフィチュール/片恋](https://ja.wikipedia.org/wiki/コンフィチュール/片恋 "wikilink")**             | QECB-40   | [b-green](../Page/ブロッコリー_\(企業\).md "wikilink")                                              | PCゲーム『[おしえて☆エッチなレシピ -アナタとワタシのあま〜いせいかつ\!-](https://ja.wikipedia.org/wiki/おしえて☆エッチなレシピ_-アナタとワタシのあま〜いせいかつ!- "wikilink")』ED主題歌 | Track2（片恋）のみ歌唱                                                         |                 |
 
 ### アルバム
 
@@ -57,7 +57,7 @@
 </tr>
 <tr class="even">
 <td><p>君の中の勇気</p></td>
-<td><p>PCゲーム『<a href="https://ja.wikipedia.org/wiki/フーリガン_(ゲーム)" title="wikilink">フーリガン</a>』東郷ひろみルートエンディングテーマ</p></td>
+<td><p>PCゲーム『<a href="../Page/フーリガン_(ゲーム).md" title="wikilink">フーリガン</a>』東郷ひろみルートエンディングテーマ</p></td>
 <td><p>『フーリガン オリジナルサウンドトラック』に収録（発売日不明）、初アルバム『NANA』収録</p></td>
 </tr>
 <tr class="odd">
@@ -92,7 +92,7 @@
 </tr>
 <tr class="odd">
 <td><p>朱</p></td>
-<td><p>PCゲーム『<a href="https://ja.wikipedia.org/wiki/朱_-Aka-" title="wikilink">朱 -Aka-</a>』挿入歌</p></td>
+<td><p>PCゲーム『<a href="../Page/朱_-Aka-.md" title="wikilink">朱 -Aka-</a>』挿入歌</p></td>
 <td><p>初アルバム『NANA』収録</p></td>
 </tr>
 <tr class="even">
@@ -127,7 +127,7 @@
 </tr>
 <tr class="even">
 <td><p>カーニバル</p></td>
-<td><p>PCゲーム『<a href="https://ja.wikipedia.org/wiki/CARNIVAL_(ゲーム)" title="wikilink">CARNIVAL</a>』オープニングテーマ</p></td>
+<td><p>PCゲーム『<a href="../Page/CARNIVAL_(ゲーム).md" title="wikilink">CARNIVAL</a>』オープニングテーマ</p></td>
 <td><p>初アルバム『NANA』収録</p></td>
 </tr>
 <tr class="odd">
@@ -137,17 +137,17 @@
 </tr>
 <tr class="even">
 <td><p>バイバイ</p></td>
-<td><p>PCゲーム『<a href="https://ja.wikipedia.org/wiki/グリーングリーン2_恋のスペシャルサマー" title="wikilink">グリーングリーン2 恋のスペシャルサマー</a>』川瀬真菜ルートエンディングテーマ</p></td>
+<td><p>PCゲーム『<a href="../Page/グリーングリーン2_恋のスペシャルサマー.md" title="wikilink">グリーングリーン2 恋のスペシャルサマー</a>』川瀬真菜ルートエンディングテーマ</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>届きますように</p></td>
-<td><p>PCゲーム『<a href="https://ja.wikipedia.org/wiki/Like_Life" title="wikilink">Like Life</a>』エンディングテーマ</p></td>
+<td><p>PCゲーム『<a href="../Page/Like_Life.md" title="wikilink">Like Life</a>』エンディングテーマ</p></td>
 <td><p>初アルバム『NANA』収録</p></td>
 </tr>
 <tr class="even">
 <td><p>Over Beat〜明日へのエスカレーション〜</p></td>
-<td><p>PCゲーム『<a href="https://ja.wikipedia.org/wiki/超昂天使エスカレイヤー" title="wikilink">超昂天使エスカレイヤー</a>』主題歌 アレンジver.</p></td>
+<td><p>PCゲーム『<a href="../Page/超昂天使エスカレイヤー.md" title="wikilink">超昂天使エスカレイヤー</a>』主題歌 アレンジver.</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -157,22 +157,22 @@
 </tr>
 <tr class="even">
 <td><p>GREEN GREEN（Graduation Mix）</p></td>
-<td><p>PCゲーム『<a href="https://ja.wikipedia.org/wiki/グリーングリーン3_ハローグッバイ" title="wikilink">グリーングリーン3 ハローグッバイ</a>』朽木双葉ルートエンディングテーマ</p></td>
+<td><p>PCゲーム『<a href="../Page/グリーングリーン3_ハローグッバイ.md" title="wikilink">グリーングリーン3 ハローグッバイ</a>』朽木双葉ルートエンディングテーマ</p></td>
 <td><p>初アルバム『NANA』収録</p></td>
 </tr>
 <tr class="odd">
 <td><p>Refrain</p></td>
-<td><p>PCゲーム『<a href="https://ja.wikipedia.org/wiki/プリンセスうぃっちぃず" title="wikilink">プリンセスうぃっちぃず</a>』挿入歌</p></td>
+<td><p>PCゲーム『<a href="../Page/プリンセスうぃっちぃず.md" title="wikilink">プリンセスうぃっちぃず</a>』挿入歌</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>Dreaming Continue</p></td>
-<td><p>PCゲーム『<a href="https://ja.wikipedia.org/wiki/ぱすてるチャイムContinue" title="wikilink">ぱすてるチャイムContinue</a>』オープニングテーマ</p></td>
+<td><p>PCゲーム『<a href="../Page/ぱすてるチャイムContinue.md" title="wikilink">ぱすてるチャイムContinue</a>』オープニングテーマ</p></td>
 <td><p>1stシングル『<a href="https://ja.wikipedia.org/wiki/Dreaming_Continue" title="wikilink">Dreaming Continue</a>』収録</p></td>
 </tr>
 <tr class="odd">
 <td><p>In my Life</p></td>
-<td><p>PCゲーム『<a href="https://ja.wikipedia.org/wiki/思春期_(ゲーム)" title="wikilink">思春期</a>』エンディングテーマ</p></td>
+<td><p>PCゲーム『<a href="../Page/思春期_(ゲーム).md" title="wikilink">思春期</a>』エンディングテーマ</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -182,12 +182,12 @@
 </tr>
 <tr class="odd">
 <td><p>Ashberry</p></td>
-<td><p>PCゲーム『<a href="https://ja.wikipedia.org/wiki/エーデルワイス_(ゲーム)" title="wikilink">エーデルワイス</a>』オープニングテーマ</p></td>
+<td><p>PCゲーム『<a href="../Page/エーデルワイス_(ゲーム).md" title="wikilink">エーデルワイス</a>』オープニングテーマ</p></td>
 <td><p>2ndシングル『<a href="https://ja.wikipedia.org/wiki/Ashberry_(エーデルワイス)" title="wikilink">Ashberry</a>』収録、初アルバム『NANA』収録</p></td>
 </tr>
 <tr class="even">
 <td><p>dissonant chord</p></td>
-<td><p>PCゲーム『<a href="https://ja.wikipedia.org/wiki/PRINCESS_WALTZ" title="wikilink">PRINCESS WALTZ</a>』オープニングテーマ</p></td>
+<td><p>PCゲーム『<a href="../Page/PRINCESS_WALTZ.md" title="wikilink">PRINCESS WALTZ</a>』オープニングテーマ</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -212,7 +212,7 @@
 </tr>
 <tr class="odd">
 <td><p>蕾姫ってコトで!</p></td>
-<td><p>PCゲーム『<a href="https://ja.wikipedia.org/wiki/エーデルワイス_(ゲーム)" title="wikilink">エーデルワイス</a>』イメージソング</p></td>
+<td><p>PCゲーム『<a href="../Page/エーデルワイス_(ゲーム).md" title="wikilink">エーデルワイス</a>』イメージソング</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/サンセット・サンライズ" title="wikilink">サンセット・サンライズ</a>（2007年3月28日）</p></td>
 </tr>
 <tr class="even">
@@ -267,7 +267,7 @@ Twinkle Crusaders Vocal Collection（2010年6月24日）</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>祝福のカンパネラ（<a href="https://ja.wikipedia.org/wiki/佐藤ひろ美" title="wikilink">佐藤ひろ美</a>、NANA）</p></td>
+<td><p>祝福のカンパネラ（<a href="../Page/佐藤ひろ美.md" title="wikilink">佐藤ひろ美</a>、NANA）</p></td>
 <td><p>PCゲーム『<a href="https://ja.wikipedia.org/wiki/祝福のカンパネラ" title="wikilink">祝福のカンパネラ</a>』オープニングテーマ</p></td>
 <td><p>『<a href="https://ja.wikipedia.org/wiki/祝福のカンパネラのディスコグラフィ#ゲーム版主題歌" title="wikilink">祝福のカンパネラ</a>』（2009年1月30日）<br />
 <a href="https://ja.wikipedia.org/wiki/Elements_Garden#ディスコグラフィ" title="wikilink">Elements Garden II -TONE CLUSTER-</a>（2009年9月2日）</p></td>
@@ -449,7 +449,7 @@ Twinkle Crusaders Vocal Collection（2010年6月24日）</p></td>
 </tr>
 <tr class="even">
 <td><p>Escalation heart</p></td>
-<td><p>PCゲーム『<a href="https://ja.wikipedia.org/wiki/超昂天使エスカレイヤー" title="wikilink">超昂天使エスカレイヤー</a>・リブート』オープニングテーマ</p></td>
+<td><p>PCゲーム『<a href="../Page/超昂天使エスカレイヤー.md" title="wikilink">超昂天使エスカレイヤー</a>・リブート』オープニングテーマ</p></td>
 <td></td>
 </tr>
 <tr class="odd">

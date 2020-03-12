@@ -5,8 +5,8 @@
 
 ## 概要
 
-  - [テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")「[Jリーグ A GOGO\!\!](https://ja.wikipedia.org/wiki/Jリーグ_A_GOGO!! "wikilink")」OP
-  - ライブでは長らく演奏されておらず、『[EMI 1994〜1998 BEST OR WORST](https://ja.wikipedia.org/wiki/EMI_1994〜1998_BEST_OR_WORST "wikilink")』などのメンバー主導で選曲されたベストアルバムにも収録されていなかったが、[2014年](../Page/2014年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink")、「黒と影」[日本武道館](https://ja.wikipedia.org/wiki/日本武道館 "wikilink")公演にて約18年振りに披露された。
+  - [テレビ朝日](../Page/テレビ朝日.md "wikilink")「[Jリーグ A GOGO\!\!](../Page/Jリーグ_A_GOGO!!.md "wikilink")」OP
+  - ライブでは長らく演奏されておらず、『[EMI 1994〜1998 BEST OR WORST](../Page/EMI_1994〜1998_BEST_OR_WORST.md "wikilink")』などのメンバー主導で選曲されたベストアルバムにも収録されていなかったが、[2014年](../Page/2014年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink")、「黒と影」[日本武道館](../Page/日本武道館.md "wikilink")公演にて約18年振りに披露された。
 
 ## 収録曲
 

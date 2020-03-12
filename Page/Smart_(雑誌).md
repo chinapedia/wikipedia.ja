@@ -5,7 +5,7 @@
 
 ## 概要
 
-創刊は[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")。かつては隔週月曜発売の月2刊発行であったが、[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")3月号より月刊化（24日発売）となった。[MEN'S NON-NOと並び](https://ja.wikipedia.org/wiki/MEN'S_NON-NO "wikilink")、メンズファッション誌の中では発行部数が多い雑誌である。
+創刊は[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")。かつては隔週月曜発売の月2刊発行であったが、[2004年](../Page/2004年.md "wikilink")3月号より月刊化（24日発売）となった。[MEN'S NON-NOと並び](../Page/MEN'S_NON-NO.md "wikilink")、メンズファッション誌の中では発行部数が多い雑誌である。
 
 2000年代後半以降、バッグ、ペンケースなどの豪華付録グッズが毎月付属している。また、2011年頃からは、[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")のメンバーが表紙を飾る機会が増えている。ファッションだけではなく、ミュージシャンやアイドルなど、音楽、エンタメ関連のテーマも手広くカバーしている。
 
@@ -16,7 +16,7 @@
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
   - [291295=HOMME](https://ja.wikipedia.org/wiki/291295=HOMME "wikilink")
-  - [DIESEL / 55DSL](https://ja.wikipedia.org/wiki/ディーゼル_\(ファッションブランド\) "wikilink")
+  - [DIESEL / 55DSL](../Page/ディーゼル_\(ファッションブランド\).md "wikilink")
   - [G-STAR RAW](https://ja.wikipedia.org/wiki/G-STAR_RAW "wikilink")
   - [Otias](https://ja.wikipedia.org/wiki/Otias "wikilink")
   - [in the attic](https://ja.wikipedia.org/wiki/in_the_attic "wikilink")

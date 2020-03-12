@@ -1,11 +1,11 @@
 > この記事は[BEAT COASTER](https://ja.wikipedia.org/wiki/BEAT_COASTER)から翻訳されています。
 
 
-**BEAT COASTER**（ビート・コースター）は、月曜～木曜 16:00～20:00に[FM PORTでシティサイドスタジオにて](../Page/新潟県民エフエム放送.md "wikilink")[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")されている[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[DJは](https://ja.wikipedia.org/wiki/ディスク・ジョッキー "wikilink")[島村仁](https://ja.wikipedia.org/wiki/島村仁 "wikilink")が担当。
+**BEAT COASTER**（ビート・コースター）は、月曜～木曜 16:00～20:00に[FM PORTでシティサイドスタジオにて](../Page/新潟県民エフエム放送.md "wikilink")[生放送](../Page/生放送.md "wikilink")されている[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[DJは](https://ja.wikipedia.org/wiki/ディスク・ジョッキー "wikilink")[島村仁](https://ja.wikipedia.org/wiki/島村仁 "wikilink")が担当。
 
 ## 概要
 
-2004年9月まで放送されていた情報番組｢イブニング・クルーズ｣に変わってスタート。時期を同じくして金曜日にも当番組の金曜版・「[BEAT COASTER〜FRIDAY EDITION〜](https://ja.wikipedia.org/wiki/BEAT_COASTER〜FRIDAY_EDITION〜 "wikilink")」（DJ:[高橋佳奈子](https://ja.wikipedia.org/wiki/高橋佳奈子 "wikilink")）が開始した。オール[リクエスト番組](https://ja.wikipedia.org/wiki/リクエスト番組 "wikilink")で、選曲はほぼ[リスナー](https://ja.wikipedia.org/wiki/リスナー "wikilink")からのリクエストによるもの。この他に番組1押しの楽曲｢パワー・グルーブ｣や、懐かしい曲を届ける｢バック・イン・ザ・デイ｣などがある。
+2004年9月まで放送されていた情報番組｢イブニング・クルーズ｣に変わってスタート。時期を同じくして金曜日にも当番組の金曜版・「[BEAT COASTER〜FRIDAY EDITION〜](../Page/BEAT_COASTER〜FRIDAY_EDITION〜.md "wikilink")」（DJ:[高橋佳奈子](../Page/高橋佳奈子.md "wikilink")）が開始した。オール[リクエスト番組](../Page/リクエスト番組.md "wikilink")で、選曲はほぼ[リスナー](../Page/リスナー.md "wikilink")からのリクエストによるもの。この他に番組1押しの楽曲｢パワー・グルーブ｣や、懐かしい曲を届ける｢バック・イン・ザ・デイ｣などがある。
 
 それまで平日夕方の時間帯には、ニュース番組「スタンピン・グラウンド」や先述した｢イブニング・クルーズ｣など、サラリーマンや主婦向けの情報番組を放送していたが、この番組で一転することとなった。なお、2010年1月現在で夕方の番組では一番長く放送されている。
 
@@ -63,7 +63,7 @@
   - 19:25 - Catch The Meaning（第2問目解答）
   - 19:54 - エンディング
 
-ニュース、天気予報はインフォメーションアナウンサーが、交通情報は[日本道路交通情報センター](https://ja.wikipedia.org/wiki/日本道路交通情報センター "wikilink")による。
+ニュース、天気予報はインフォメーションアナウンサーが、交通情報は[日本道路交通情報センター](../Page/日本道路交通情報センター.md "wikilink")による。
 
 ## コーナー
 
@@ -100,7 +100,7 @@
 
 ## その他
 
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink")には、「MORNING GATE」、「Paraiso Omelette」、「TOWN CROSSING」、「BEAT COASTER」の4番組合同企画「FM PORT NEW YEAR SPECIAL 『DASH07』」を開催。BEAT COASTERでは、「BC初リク！やったァスペシャル！ずこー」を企画。
+  - [2007年](../Page/2007年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")には、「MORNING GATE」、「Paraiso Omelette」、「TOWN CROSSING」、「BEAT COASTER」の4番組合同企画「FM PORT NEW YEAR SPECIAL 『DASH07』」を開催。BEAT COASTERでは、「BC初リク！やったァスペシャル！ずこー」を企画。
 
 ## 関連項目
 

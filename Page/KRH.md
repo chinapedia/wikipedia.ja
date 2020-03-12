@@ -12,8 +12,8 @@
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink") - 信和サービス株式会社に改称。
   - [2001年](../Page/2001年.md "wikilink") - 信和サービス株式会社と信和株式会社の経営分離。株式の譲渡により青山馥の長男[青山光司](https://ja.wikipedia.org/wiki/青山光司 "wikilink")が信和サービス株式会社代表取締役に就任。
   - [2003年](../Page/2003年.md "wikilink") - 信和株式会社をSBI証券（現SBIホールディングス）に91億円にて譲渡。
-  - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink") - 平和技研株式会社とくさび式足場のOEM協力。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink") - ホリー株式会社とくさび式足場のOEM協力。信和サービス株式会社をKRH株式会社に商号変更。
+  - [2004年](../Page/2004年.md "wikilink") - 平和技研株式会社とくさび式足場のOEM協力。
+  - [2006年](../Page/2006年.md "wikilink") - ホリー株式会社とくさび式足場のOEM協力。信和サービス株式会社をKRH株式会社に商号変更。
   - [2009年](../Page/2009年.md "wikilink") 　KRH次世代足場開発。
   - [2012年](../Page/2012年.md "wikilink") - 馥ジャパン株式会社設立。OEM工場としてKRH次世代足場の製造。
   - [2018年](../Page/2018年.md "wikilink") - 株式会社ルーティング、有限会社カイズと資本業務提携、KRHホールディングス株式会社設立。
@@ -23,14 +23,14 @@
 
   - 岐阜県
       -
-        本店：（[輪之内町](https://ja.wikipedia.org/wiki/輪之内町 "wikilink")）
+        本店：（[輪之内町](../Page/輪之内町.md "wikilink")）
         各務原支店：（[各務原市](https://ja.wikipedia.org/wiki/各務原市 "wikilink")）
 
 <!-- end list -->
 
   - 静岡県
       -
-        静岡営業所：（[静岡市](https://ja.wikipedia.org/wiki/静岡市 "wikilink")）
+        静岡営業所：（[静岡市](../Page/静岡市.md "wikilink")）
 
 <!-- end list -->
 
@@ -48,7 +48,7 @@
 
   - 神奈川県
       -
-        横浜支店：（[横浜市](https://ja.wikipedia.org/wiki/横浜市 "wikilink")）
+        横浜支店：（[横浜市](../Page/横浜市.md "wikilink")）
         相模原支店：（[相模原市](../Page/相模原市.md "wikilink")）
 
 <!-- end list -->
@@ -76,7 +76,7 @@
 
 ## ラジオCM
 
-2009年頃まで[文化放送](https://ja.wikipedia.org/wiki/文化放送 "wikilink")、[ニッポン放送](../Page/ニッポン放送.md "wikilink")、[東海ラジオ](../Page/東海ラジオ放送.md "wikilink")、[TOKYO FMでラジオCMを放送しており](../Page/エフエム東京.md "wikilink")、[河村隆一](https://ja.wikipedia.org/wiki/河村隆一 "wikilink")、[松崎しげる](https://ja.wikipedia.org/wiki/松崎しげる "wikilink")が出演していた。
+2009年頃まで[文化放送](../Page/文化放送.md "wikilink")、[ニッポン放送](../Page/ニッポン放送.md "wikilink")、[東海ラジオ](../Page/東海ラジオ放送.md "wikilink")、[TOKYO FMでラジオCMを放送しており](../Page/エフエム東京.md "wikilink")、[河村隆一](../Page/河村隆一.md "wikilink")、[松崎しげる](https://ja.wikipedia.org/wiki/松崎しげる "wikilink")が出演していた。
 
 ## 脚注
 

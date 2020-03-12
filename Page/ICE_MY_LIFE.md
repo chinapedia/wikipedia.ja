@@ -5,7 +5,7 @@
 
 ## 概要
 
-  - [テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")系『Mew』エンディングテーマ。
+  - [テレビ朝日](../Page/テレビ朝日.md "wikilink")系『Mew』エンディングテーマ。
   - シングル盤のみタイトルが「ICE MY LIFE～残酷な僕から～」となっているが、アルバムに収録された際は「ICE MY LIFE」となっている。
 
 ## 収録曲

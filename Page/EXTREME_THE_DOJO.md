@@ -5,7 +5,7 @@
 
 ## 概要
 
-単独公演では興行的に難しい[グラインドコア](../Page/グラインドコア.md "wikilink")、[デスメタル](../Page/デスメタル.md "wikilink")、[ブラックメタル](../Page/ブラックメタル.md "wikilink")、[ストーナーロック](https://ja.wikipedia.org/wiki/ストーナーロック "wikilink")系のバンドを幅広くラインナップして行われる。基本的に中・小規模の[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")が会場となり、複数のバンドが出演する。なお、"DOJO"とは[道場](https://ja.wikipedia.org/wiki/道場 "wikilink")の意。 2001年から2013年まで毎年開催されていたが、一時活動休止。2019年3月に復活開催が決定。
+単独公演では興行的に難しい[グラインドコア](../Page/グラインドコア.md "wikilink")、[デスメタル](../Page/デスメタル.md "wikilink")、[ブラックメタル](../Page/ブラックメタル.md "wikilink")、[ストーナーロック](https://ja.wikipedia.org/wiki/ストーナーロック "wikilink")系のバンドを幅広くラインナップして行われる。基本的に中・小規模の[ライブハウス](../Page/ライブハウス.md "wikilink")が会場となり、複数のバンドが出演する。なお、"DOJO"とは[道場](../Page/道場.md "wikilink")の意。 2001年から2013年まで毎年開催されていたが、一時活動休止。2019年3月に復活開催が決定。
 
 ## 歴代公演
 
@@ -13,9 +13,9 @@
 
 出演
 
-  - [ナザム](https://ja.wikipedia.org/wiki/ナザム "wikilink")
+  - [ナザム](../Page/ナザム.md "wikilink")
   - [キャンディリア](https://ja.wikipedia.org/wiki/キャンディリア "wikilink")
-  - [クリプトプシー](https://ja.wikipedia.org/wiki/クリプトプシー "wikilink")
+  - [クリプトプシー](../Page/クリプトプシー.md "wikilink")
 
 サポート
 
@@ -59,9 +59,9 @@
 
 出演
 
-  - [ソドム](https://ja.wikipedia.org/wiki/ソドム_\(バンド\) "wikilink")
-  - [ダイイング・フィータス](https://ja.wikipedia.org/wiki/ダイイング・フィータス "wikilink")
-  - [ディメンション・ゼロ](https://ja.wikipedia.org/wiki/ディメンション・ゼロ_\(バンド\) "wikilink")
+  - [ソドム](../Page/ソドム_\(バンド\).md "wikilink")
+  - [ダイイング・フィータス](../Page/ダイイング・フィータス.md "wikilink")
+  - [ディメンション・ゼロ](../Page/ディメンション・ゼロ_\(バンド\).md "wikilink")
 
 サポート
 
@@ -78,8 +78,8 @@
 
 出演
 
-  - [ロック・アップ](https://ja.wikipedia.org/wiki/ロック・アップ "wikilink")
-  - [コンヴァージ](https://ja.wikipedia.org/wiki/コンヴァージ "wikilink")
+  - [ロック・アップ](../Page/ロック・アップ.md "wikilink")
+  - [コンヴァージ](../Page/コンヴァージ.md "wikilink")
   - [ウィル・ヘブン](https://ja.wikipedia.org/wiki/ウィル・ヘブン "wikilink")
 
 サポート
@@ -99,7 +99,7 @@
 出演
 
   - [ハイ・オン・ファイア](https://ja.wikipedia.org/wiki/ハイ・オン・ファイア "wikilink")
-  - [ダーケイン](https://ja.wikipedia.org/wiki/ダーケイン "wikilink")
+  - [ダーケイン](../Page/ダーケイン.md "wikilink")
   - [マストドン](https://ja.wikipedia.org/wiki/マストドン "wikilink")
 
 サポート
@@ -118,8 +118,8 @@
 
 出演
 
-  - [キルスウィッチ・エンゲイジ](https://ja.wikipedia.org/wiki/キルスウィッチ・エンゲイジ "wikilink")
-  - [シャドウズ・フォール](https://ja.wikipedia.org/wiki/シャドウズ・フォール "wikilink")
+  - [キルスウィッチ・エンゲイジ](../Page/キルスウィッチ・エンゲイジ.md "wikilink")
+  - [シャドウズ・フォール](../Page/シャドウズ・フォール.md "wikilink")
   - [キャリバン](https://ja.wikipedia.org/wiki/キャリバン_\(バンド\) "wikilink")
 
 サポート
@@ -136,8 +136,8 @@
 
 出演
 
-  - [ナパーム・デス](https://ja.wikipedia.org/wiki/ナパーム・デス "wikilink")
-  - [ナザム](https://ja.wikipedia.org/wiki/ナザム "wikilink")
+  - [ナパーム・デス](../Page/ナパーム・デス.md "wikilink")
+  - [ナザム](../Page/ナザム.md "wikilink")
   - [AxCx](https://ja.wikipedia.org/wiki/AxCx "wikilink")
   - [ピッグ・デストロイヤー](https://ja.wikipedia.org/wiki/ピッグ・デストロイヤー "wikilink")
 
@@ -170,8 +170,8 @@
 
 出演
 
-  - [ザイクロン](https://ja.wikipedia.org/wiki/ザイクロン "wikilink")
-  - [ダーク・フューネラル](https://ja.wikipedia.org/wiki/ダーク・フューネラル "wikilink")
+  - [ザイクロン](../Page/ザイクロン.md "wikilink")
+  - [ダーク・フューネラル](../Page/ダーク・フューネラル.md "wikilink")
   - [ゴートホア](https://ja.wikipedia.org/wiki/ゴートホア "wikilink")
 
 会場
@@ -182,19 +182,19 @@
 
 備考
 
-  - 当初[ディム・ボルギル](https://ja.wikipedia.org/wiki/ディム・ボルギル "wikilink")が予定されていたが、都合により来日できなくなり代わりにダーク・フューネラルが来日した。
+  - 当初[ディム・ボルギル](../Page/ディム・ボルギル.md "wikilink")が予定されていたが、都合により来日できなくなり代わりにダーク・フューネラルが来日した。
 
 ### Vol.10 SPECIAL\!（2004年4月）
 
 出演
 
-  - [アンスラックス](https://ja.wikipedia.org/wiki/アンスラックス "wikilink") \*1\*2
+  - [アンスラックス](../Page/アンスラックス.md "wikilink") \*1\*2
   - [デリンジャー・エスケイプ・プラン](https://ja.wikipedia.org/wiki/デリンジャー・エスケイプ・プラン "wikilink") \*2
-  - [キルスウィッチ・エンゲイジ](https://ja.wikipedia.org/wiki/キルスウィッチ・エンゲイジ "wikilink") \*1
+  - [キルスウィッチ・エンゲイジ](../Page/キルスウィッチ・エンゲイジ.md "wikilink") \*1
   - [バーント・バイ・ザ・サン](https://ja.wikipedia.org/wiki/バーント・バイ・ザ・サン "wikilink") \*2
   - [ダーケスト・アワー](https://ja.wikipedia.org/wiki/ダーケスト・アワー "wikilink") \*1
   - [フロム・オータムン・トゥ・アッシーズ](https://ja.wikipedia.org/wiki/フロム・オータムン・トゥ・アッシーズ "wikilink") \*1
-  - [シクス](https://ja.wikipedia.org/wiki/シクス "wikilink") \*2
+  - [シクス](../Page/シクス.md "wikilink") \*2
 
 会場
 
@@ -209,8 +209,8 @@
 
 公演
 
-  - [アンスラックス](https://ja.wikipedia.org/wiki/アンスラックス "wikilink")
-  - [キルスウィッチ・エンゲイジ](https://ja.wikipedia.org/wiki/キルスウィッチ・エンゲイジ "wikilink")
+  - [アンスラックス](../Page/アンスラックス.md "wikilink")
+  - [キルスウィッチ・エンゲイジ](../Page/キルスウィッチ・エンゲイジ.md "wikilink")
   - [フロム・オータムン・トゥ・アッシーズ](https://ja.wikipedia.org/wiki/フロム・オータムン・トゥ・アッシーズ "wikilink")
 
 会場
@@ -223,7 +223,7 @@
 
 公演
 
-  - [コンヴァージ](https://ja.wikipedia.org/wiki/コンヴァージ "wikilink")
+  - [コンヴァージ](../Page/コンヴァージ.md "wikilink")
   - [マストドン](https://ja.wikipedia.org/wiki/マストドン "wikilink")
   - [アイシス](https://ja.wikipedia.org/wiki/アイシス_\(バンド\) "wikilink")
 
@@ -237,8 +237,8 @@
 
 出演
 
-  - [シャドウズ・フォール](https://ja.wikipedia.org/wiki/シャドウズ・フォール "wikilink")
-  - [アズ・アイ・レイ・ダイング](https://ja.wikipedia.org/wiki/アズ・アイ・レイ・ダイング "wikilink")
+  - [シャドウズ・フォール](../Page/シャドウズ・フォール.md "wikilink")
+  - [アズ・アイ・レイ・ダイング](../Page/アズ・アイ・レイ・ダイング.md "wikilink")
   - [エブリ・タイム・アイ・ダイ](https://ja.wikipedia.org/wiki/エブリ・タイム・アイ・ダイ "wikilink")
   - [ヘイトブリード](https://ja.wikipedia.org/wiki/ヘイトブリード "wikilink")
 
@@ -280,9 +280,9 @@
 
 出演
 
-  - [ザ・ホーンテッド](https://ja.wikipedia.org/wiki/ザ・ホーンテッド "wikilink")
+  - [ザ・ホーンテッド](../Page/ザ・ホーンテッド.md "wikilink")
   - [ナイル](https://ja.wikipedia.org/wiki/ナイル_\(バンド\) "wikilink")
-  - [エクソダス](https://ja.wikipedia.org/wiki/エクソダス_\(バンド\) "wikilink")
+  - [エクソダス](../Page/エクソダス_\(バンド\).md "wikilink")
 
 サポート
 
@@ -314,7 +314,7 @@
 
   - [ブルータル・トゥルース](../Page/ブルータル・トゥルース.md "wikilink")
   - [ヴェイダー](https://ja.wikipedia.org/wiki/ヴェイダー "wikilink")
-  - [クリプトプシー](https://ja.wikipedia.org/wiki/クリプトプシー "wikilink")
+  - [クリプトプシー](../Page/クリプトプシー.md "wikilink")
 
 会場
 
@@ -326,7 +326,7 @@
 
 出演
 
-  - [ザイクロン](https://ja.wikipedia.org/wiki/ザイクロン "wikilink")
+  - [ザイクロン](../Page/ザイクロン.md "wikilink")
   - [ドス](https://ja.wikipedia.org/wiki/ドス_\(バンド\) "wikilink")
 
 会場
@@ -358,11 +358,11 @@
 
 出演
 
-  - [アット・ザ・ゲイツ](https://ja.wikipedia.org/wiki/アット・ザ・ゲイツ "wikilink")
+  - [アット・ザ・ゲイツ](../Page/アット・ザ・ゲイツ.md "wikilink")
   - [ディリンジャー・エスケイプ・プラン](https://ja.wikipedia.org/wiki/ディリンジャー・エスケイプ・プラン "wikilink")
-  - [メイヘム](https://ja.wikipedia.org/wiki/メイヘム "wikilink")
+  - [メイヘム](../Page/メイヘム.md "wikilink")
   - [ピッグ・デストロイヤー](https://ja.wikipedia.org/wiki/ピッグ・デストロイヤー "wikilink")
-  - [イントゥ・エタニティー](https://ja.wikipedia.org/wiki/イントゥ・エタニティー "wikilink")
+  - [イントゥ・エタニティー](../Page/イントゥ・エタニティー.md "wikilink")
 
 会場
 
@@ -374,9 +374,9 @@
 
 出演
 
-  - [デストラクション](https://ja.wikipedia.org/wiki/デストラクション "wikilink")
+  - [デストラクション](../Page/デストラクション.md "wikilink")
   - [セファリック・カーネイジ](https://ja.wikipedia.org/wiki/セファリック・カーネイジ "wikilink")
-  - [イントゥ・エタニティー](https://ja.wikipedia.org/wiki/イントゥ・エタニティー "wikilink")
+  - [イントゥ・エタニティー](../Page/イントゥ・エタニティー.md "wikilink")
 
 会場
 
@@ -416,7 +416,7 @@
 
 出演
 
-  - [ミュニシパル・ウェイスト](https://ja.wikipedia.org/wiki/ミュニシパル・ウェイスト "wikilink")
+  - [ミュニシパル・ウェイスト](../Page/ミュニシパル・ウェイスト.md "wikilink")
   - [ウォーブリンガー](https://ja.wikipedia.org/wiki/ウォーブリンガー "wikilink")
   - [トキシック・ホロコースト](https://ja.wikipedia.org/wiki/トキシック・ホロコースト "wikilink")
 
@@ -459,8 +459,8 @@
 
 出演
 
-  - [フューネラル・フォー・ア・フレンド](https://ja.wikipedia.org/wiki/フューネラル・フォー・ア・フレンド "wikilink")
-  - [イン・ディス・モーメント](https://ja.wikipedia.org/wiki/イン・ディス・モーメント "wikilink")
+  - [フューネラル・フォー・ア・フレンド](../Page/フューネラル・フォー・ア・フレンド.md "wikilink")
+  - [イン・ディス・モーメント](../Page/イン・ディス・モーメント.md "wikilink")
   - [crossfaith](https://ja.wikipedia.org/wiki/crossfaith "wikilink")
 
 会場
@@ -501,8 +501,8 @@
 
 出演
 
-  - [ナパーム・デス](https://ja.wikipedia.org/wiki/ナパーム・デス "wikilink")
-  - [ナザム](https://ja.wikipedia.org/wiki/ナザム "wikilink")
+  - [ナパーム・デス](../Page/ナパーム・デス.md "wikilink")
+  - [ナザム](../Page/ナザム.md "wikilink")
   - [ピッグ・デストロイヤー](https://ja.wikipedia.org/wiki/ピッグ・デストロイヤー "wikilink")
 
 会場
@@ -515,7 +515,7 @@
 
 出演
 
-  - [オビチュアリー](https://ja.wikipedia.org/wiki/オビチュアリー "wikilink")
+  - [オビチュアリー](../Page/オビチュアリー.md "wikilink")
   - [オール・シャル・ペリッシュ](https://ja.wikipedia.org/wiki/オール・シャル・ペリッシュ "wikilink")
   - [インファーナル・リヴァルジョン](https://ja.wikipedia.org/wiki/インファーナル・リヴァルジョン "wikilink")
 
@@ -529,7 +529,7 @@
 
 出演
 
-  - [ナパーム・デス](https://ja.wikipedia.org/wiki/ナパーム・デス "wikilink")
+  - [ナパーム・デス](../Page/ナパーム・デス.md "wikilink")
   - [アイヘイトゴッド](https://ja.wikipedia.org/wiki/アイヘイトゴッド "wikilink")
   - [ミザリー・インデックス](https://ja.wikipedia.org/wiki/ミザリー・インデックス "wikilink")
   - [メルトバナナ](https://ja.wikipedia.org/wiki/メルトバナナ "wikilink")
@@ -545,7 +545,7 @@
 
   - [フィリップ・H．アンセルモ ＆ ザ・イリーガルズ](https://ja.wikipedia.org/wiki/フィル・アンセルモ "wikilink")
   - [キング・パロット](https://ja.wikipedia.org/wiki/キング・パロット "wikilink")
-  - [PALM](https://ja.wikipedia.org/wiki/PALM "wikilink")
+  - [PALM](../Page/PALM.md "wikilink")
 
 会場
 

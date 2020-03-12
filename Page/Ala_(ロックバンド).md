@@ -22,7 +22,7 @@
   - 小口佳菜（アルト[サクソフォーン](../Page/サクソフォーン.md "wikilink")、[シンセサイザー](../Page/シンセサイザー.md "wikilink")）
   - 来馬崇宏（テナーサクソフォーン）
   - 三浦謙太郎（[ギター](../Page/ギター.md "wikilink")）
-  - 鈴木紘太（[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")）
+  - 鈴木紘太（[ベース](../Page/ベース_\(弦楽器\).md "wikilink")）
   - 清野鉄平（[ドラムス](../Page/ドラムセット.md "wikilink")）
 
 ### 元メンバー
@@ -56,7 +56,7 @@
 <li>NO LAND LIKE MINE / ala</li>
 </ol></td>
 <td><p>fluctus<br />
-<a href="https://ja.wikipedia.org/wiki/UNCHAIN" title="wikilink">UNCHAIN</a>とのスプリットシングル</p></td>
+<a href="../Page/UNCHAIN.md" title="wikilink">UNCHAIN</a>とのスプリットシングル</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -224,11 +224,11 @@ DONA-35:通常盤</p></td>
 <td><ol>
 <li><strong>usual life / ala</strong></li>
 <li>C&amp;P's / <a href="https://ja.wikipedia.org/wiki/CUTIE_Pi" title="wikilink">CUTIE Pi</a></li>
-<li>SUNNY SUNDAY / <a href="https://ja.wikipedia.org/wiki/Yum!Yum!ORANGE" title="wikilink">Yum!Yum!ORANGE</a></li>
+<li>SUNNY SUNDAY / <a href="../Page/Yum!Yum!ORANGE.md" title="wikilink">Yum!Yum!ORANGE</a></li>
 <li>Happy Time / <a href="https://ja.wikipedia.org/wiki/FORCE&quot;B&quot;" title="wikilink">FORCE"B"</a></li>
 <li><strong>SUMMER OF LOVE / ムラマサ☆</strong></li>
 <li>Everything / <a href="https://ja.wikipedia.org/wiki/Grass_Hopper" title="wikilink">Grass Hopper</a></li>
-<li>鴨川に在る喫茶店 / <a href="https://ja.wikipedia.org/wiki/レトロ本舗" title="wikilink">レトロ本舗</a></li>
+<li>鴨川に在る喫茶店 / <a href="../Page/レトロ本舗.md" title="wikilink">レトロ本舗</a></li>
 <li>Rendezvous / <a href="https://ja.wikipedia.org/wiki/MYSTIC" title="wikilink">MYSTIC</a></li>
 <li>This is Toy's Kingdom / <a href="https://ja.wikipedia.org/wiki/NUMBER-1" title="wikilink">NUMBER-1</a></li>
 <li>DREADLOCK BOY / <a href="https://ja.wikipedia.org/wiki/耳切坊主" title="wikilink">耳切坊主</a></li>
@@ -253,7 +253,7 @@ DONA-35:通常盤</p></td>
 <td><p>PCCA-03226</p></td>
 <td><ol>
 <li><strong>shiny / ala</strong></li>
-<li>laid back song / <a href="https://ja.wikipedia.org/wiki/SKA_SKA_CLUB" title="wikilink">SKA SKA CLUB</a></li>
+<li>laid back song / <a href="../Page/SKA_SKA_CLUB.md" title="wikilink">SKA SKA CLUB</a></li>
 </ol>
 <p>#恋花火 / [[SQUEEZE</p></td>
 <td><p>|SQUEEZE</p></td>
@@ -284,7 +284,7 @@ DONA-35:通常盤</p></td>
 
 ## SEVEN COLORS SAUCE WITH YOU TOUR
 
-:\*2008.02.23（土）下北沢SHELTER　w/ [MARS EURYTHMICS](https://ja.wikipedia.org/wiki/MARS_EURYTHMICS "wikilink")
+:\*2008.02.23（土）下北沢SHELTER　w/ [MARS EURYTHMICS](../Page/MARS_EURYTHMICS.md "wikilink")
 
 :\*2008.03.02（日）仙台MACANA　w/サスカッチ
 
@@ -306,7 +306,7 @@ DONA-35:通常盤</p></td>
 
 ## 主なライブ
 
-  - 2006年07月23日 - [ウドー・ミュージック・フェスティバル](https://ja.wikipedia.org/wiki/ウドー・ミュージック・フェスティバル "wikilink")
+  - 2006年07月23日 - [ウドー・ミュージック・フェスティバル](../Page/ウドー・ミュージック・フェスティバル.md "wikilink")
   - 2008年06月01日・02日 - [FRONTIER BACKYARD](https://ja.wikipedia.org/wiki/FRONTIER_BACKYARD "wikilink") 2008 「NEO CLASSICAL」
   - 2010年12月18日 - onion night\!level15\! ～onion night\!in TOKYO\!～
 

@@ -1,15 +1,15 @@
 > この記事は[Ibuki](https://ja.wikipedia.org/wiki/Ibuki)から翻訳されています。
 
 
-『**ibuki**』（いぶき）とは、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[9月](../Page/9月.md "wikilink")まで、[テレビ東京系列局](https://ja.wikipedia.org/wiki/TXN "wikilink")（[テレビせとうち](../Page/テレビせとうち.md "wikilink")・[TVQ九州放送](../Page/TVQ九州放送.md "wikilink")を除く）および[日本テレビ系列の一部で放送されていた](../Page/日本テレビネットワーク協議会.md "wikilink")、自然の風景を取り上げる[ミニ番組](https://ja.wikipedia.org/wiki/ミニ番組 "wikilink")である。
+『**ibuki**』（いぶき）とは、[2006年](../Page/2006年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[2007年](../Page/2007年.md "wikilink")[9月](../Page/9月.md "wikilink")まで、[テレビ東京系列局](https://ja.wikipedia.org/wiki/TXN "wikilink")（[テレビせとうち](../Page/テレビせとうち.md "wikilink")・[TVQ九州放送](../Page/TVQ九州放送.md "wikilink")を除く）および[日本テレビ系列の一部で放送されていた](../Page/日本テレビネットワーク協議会.md "wikilink")、自然の風景を取り上げる[ミニ番組](../Page/ミニ番組.md "wikilink")である。
 
 ## ナレーター
 
-  - [鈴木麻里子](https://ja.wikipedia.org/wiki/鈴木麻里子 "wikilink")
+  - [鈴木麻里子](../Page/鈴木麻里子.md "wikilink")
 
 ## スタッフ
 
-  - 制作：[TVBOX](https://ja.wikipedia.org/wiki/ティーヴィボックス "wikilink")
+  - 制作：[TVBOX](../Page/ティーヴィボックス.md "wikilink")
   - ディレクター：井上光紀、大槻圭介、谷知明、依田穣
   - リサーチ：猪股慶一
 
@@ -19,10 +19,10 @@
 
 ## 番組編成
 
-  - 30秒間の[CM](https://ja.wikipedia.org/wiki/コマーシャルメッセージ "wikilink")（[カウキャッチャーとして番組開始前に](../Page/カウキャッチャー_\(放送\).md "wikilink")「Asahi KASEI」のCMが放送される。）
-  - タイトル・[提供クレジット](https://ja.wikipedia.org/wiki/提供クレジット "wikilink")
+  - 30秒間の[CM](../Page/コマーシャルメッセージ.md "wikilink")（[カウキャッチャーとして番組開始前に](../Page/カウキャッチャー_\(放送\).md "wikilink")「Asahi KASEI」のCMが放送される。）
+  - タイトル・[提供クレジット](../Page/提供クレジット.md "wikilink")
   - 本編
-  - [クレジットタイトル](https://ja.wikipedia.org/wiki/クレジットタイトル "wikilink")
+  - [クレジットタイトル](../Page/クレジットタイトル.md "wikilink")
   - 30秒間のCM（ネオマフォーム）
   - 提供クレジット
   - 次回予告
@@ -31,58 +31,58 @@
 
 1.  [シラサギ](../Page/白鷺.md "wikilink")
 2.  [ヤマネ](../Page/ヤマネ.md "wikilink")
-3.  [モリアオガエル](https://ja.wikipedia.org/wiki/モリアオガエル "wikilink")
+3.  [モリアオガエル](../Page/モリアオガエル.md "wikilink")
 4.  [オオサンショウウオ](../Page/オオサンショウウオ.md "wikilink")
 5.  [ハヤブサ](../Page/ハヤブサ.md "wikilink")
 6.  [ナミテントウムシ](https://ja.wikipedia.org/wiki/ナミテントウムシ "wikilink")
 7.  [エゾモモンガ](https://ja.wikipedia.org/wiki/エゾモモンガ "wikilink")
-8.  [ヒメネズミ](https://ja.wikipedia.org/wiki/ヒメネズミ "wikilink")
+8.  [ヒメネズミ](../Page/ヒメネズミ.md "wikilink")
 9.  [エゾフクロウ](https://ja.wikipedia.org/wiki/エゾフクロウ "wikilink")
-10. [エゾリス](https://ja.wikipedia.org/wiki/キタリス "wikilink")
+10. [エゾリス](../Page/キタリス.md "wikilink")
 11. [カワセミ](../Page/カワセミ.md "wikilink")
 12. [ニホンザル](../Page/ニホンザル.md "wikilink")
-13. [ダイヤモンドダスト](https://ja.wikipedia.org/wiki/氷霧 "wikilink")
-14. [ニホンジカ](https://ja.wikipedia.org/wiki/ニホンジカ "wikilink")と[ハシブトガラス](../Page/ハシブトガラス.md "wikilink")
-15. [ムササビ](https://ja.wikipedia.org/wiki/ムササビ "wikilink")
-16. [桜島](../Page/桜島.md "wikilink")の[火山雷](https://ja.wikipedia.org/wiki/火山雷 "wikilink")
+13. [ダイヤモンドダスト](../Page/氷霧.md "wikilink")
+14. [ニホンジカ](../Page/ニホンジカ.md "wikilink")と[ハシブトガラス](../Page/ハシブトガラス.md "wikilink")
+15. [ムササビ](../Page/ムササビ.md "wikilink")
+16. [桜島](../Page/桜島.md "wikilink")の[火山雷](../Page/火山雷.md "wikilink")
 17. [ノスリ](../Page/ノスリ.md "wikilink")
-18. [樹氷](https://ja.wikipedia.org/wiki/霧氷 "wikilink")
+18. [樹氷](../Page/霧氷.md "wikilink")
 19. [テカギイカ](https://ja.wikipedia.org/wiki/テカギイカ "wikilink")
 20. [摩周湖](../Page/摩周湖.md "wikilink")
 21. [シマフクロウ](https://ja.wikipedia.org/wiki/シマフクロウ "wikilink")
 22. [雪](../Page/雪.md "wikilink")の[結晶](../Page/結晶.md "wikilink")
 23. [タンチョウ](../Page/タンチョウ.md "wikilink")
 24. [富士山](../Page/富士山.md "wikilink")
-25. [オカダンゴムシ](https://ja.wikipedia.org/wiki/ダンゴムシ "wikilink")
+25. [オカダンゴムシ](../Page/ダンゴムシ.md "wikilink")
 26. [オオハクチョウ](../Page/オオハクチョウ.md "wikilink")
 27. [コブハサミムシ](https://ja.wikipedia.org/wiki/コブハサミムシ "wikilink")
-28. [ゴマフアザラシ](https://ja.wikipedia.org/wiki/ゴマフアザラシ "wikilink")
+28. [ゴマフアザラシ](../Page/ゴマフアザラシ.md "wikilink")
 29. [一本桜](../Page/サクラ.md "wikilink")
-30. [エゾシカ](https://ja.wikipedia.org/wiki/ニホンジカ "wikilink")
+30. [エゾシカ](../Page/ニホンジカ.md "wikilink")
 31. 都会の[蝶](../Page/チョウ.md "wikilink")
-32. [空](https://ja.wikipedia.org/wiki/空 "wikilink")の風景
+32. [空](../Page/空.md "wikilink")の風景
 33. [ニホンザル](../Page/ニホンザル.md "wikilink")
 34. 自然の風景
-35. [ホンドリス](https://ja.wikipedia.org/wiki/ニホンリス "wikilink")
+35. [ホンドリス](../Page/ニホンリス.md "wikilink")
 36. [カラス](../Page/カラス属.md "wikilink")
-37. 東京の[滝](https://ja.wikipedia.org/wiki/滝 "wikilink")
+37. 東京の[滝](../Page/滝.md "wikilink")
 38. [ツクシマイマイ](https://ja.wikipedia.org/wiki/ツクシマイマイ "wikilink")
 39. [富士山](../Page/富士山.md "wikilink")
-40. [アオバト](https://ja.wikipedia.org/wiki/アオバト "wikilink")
+40. [アオバト](../Page/アオバト.md "wikilink")
 41. [ブナ](../Page/ブナ.md "wikilink")
-42. [トンボ](../Page/トンボ.md "wikilink")の[羽化](https://ja.wikipedia.org/wiki/羽化 "wikilink")
-43. [棚田](https://ja.wikipedia.org/wiki/棚田 "wikilink")
+42. [トンボ](../Page/トンボ.md "wikilink")の[羽化](../Page/羽化.md "wikilink")
+43. [棚田](../Page/棚田.md "wikilink")
 44. [サクラマス](../Page/サクラマス.md "wikilink")
-45. [ヒメボタル](https://ja.wikipedia.org/wiki/ヒメボタル "wikilink")
-46. [クリオネ](https://ja.wikipedia.org/wiki/クリオネ "wikilink")
+45. [ヒメボタル](../Page/ヒメボタル.md "wikilink")
+46. [クリオネ](../Page/クリオネ.md "wikilink")
 47. [尾瀬](../Page/尾瀬.md "wikilink")
-48. [キタキツネ](https://ja.wikipedia.org/wiki/キタキツネ "wikilink")
-49. [ナキウサギ](https://ja.wikipedia.org/wiki/ナキウサギ "wikilink")
+48. [キタキツネ](../Page/キタキツネ.md "wikilink")
+49. [ナキウサギ](../Page/ナキウサギ.md "wikilink")
 
 ## スポンサー
 
-  - [旭化成建材](https://ja.wikipedia.org/wiki/旭化成建材 "wikilink")（番組開始 - ・[提供クレジット](https://ja.wikipedia.org/wiki/提供クレジット "wikilink")は「ネオマフォーム」・[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")までは[一社提供](https://ja.wikipedia.org/wiki/一社提供 "wikilink")）
-  - [旭化成](https://ja.wikipedia.org/wiki/旭化成 "wikilink")（[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - ・提供クレジットは「Asahi KASEI」）
+  - [旭化成建材](https://ja.wikipedia.org/wiki/旭化成建材 "wikilink")（番組開始 - ・[提供クレジット](../Page/提供クレジット.md "wikilink")は「ネオマフォーム」・[2007年](../Page/2007年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")までは[一社提供](../Page/一社提供.md "wikilink")）
+  - [旭化成](../Page/旭化成.md "wikilink")（[2007年](../Page/2007年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - ・提供クレジットは「Asahi KASEI」）
 
 ## ネット局・各地の放送時間（放送時間順）
 
@@ -110,7 +110,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/大阪府" title="wikilink">大阪府</a></p></td>
+<td><p><a href="../Page/大阪府.md" title="wikilink">大阪府</a></p></td>
 <td><p><a href="../Page/テレビ大阪.md" title="wikilink">テレビ大阪</a>（TVO）</p></td>
 <td></td>
 <td></td>
@@ -175,13 +175,13 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/福岡放送.md" title="wikilink">福岡放送</a>（FBS）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/山形県" title="wikilink">山形県</a></p></td>
+<td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
 <td><p><a href="../Page/山形放送.md" title="wikilink">山形放送</a>（YBC）</p></td>
 <td><p>土曜日<br />
 11時45分 - 11時50分</p></td>
@@ -224,7 +224,7 @@
 <tr class="even">
 <td><p><a href="../Page/福井県.md" title="wikilink">福井県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/福井放送" title="wikilink">福井放送</a>（FBC）</p></td>
-<td><p><a href="../Page/日本テレビネットワーク協議会.md" title="wikilink">日本テレビ</a>・<a href="https://ja.wikipedia.org/wiki/テレビ朝日" title="wikilink">テレビ朝日</a>系列<br />
+<td><p><a href="../Page/日本テレビネットワーク協議会.md" title="wikilink">日本テレビ</a>・<a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a>系列<br />
 <a href="../Page/クロスネット局.md" title="wikilink">クロスネット</a></p></td>
 <td><p>土曜日<br />
 10時15分 - 10時20分</p></td>

@@ -1,7 +1,7 @@
 > この記事は[Triptych \(\)](https://ja.wikipedia.org/wiki/Triptych_\(\))から翻訳されています。
 
 
-『**Triptych**』（トリプティック）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月28日](../Page/4月28日.md "wikilink")に[ALcot](https://ja.wikipedia.org/wiki/ALcot "wikilink")より発売された[Windows用](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲーム](../Page/恋愛ゲーム_\(ゲームジャンル\).md "wikilink")。
+『**Triptych**』（トリプティック）は、[2006年](../Page/2006年.md "wikilink")[4月28日](../Page/4月28日.md "wikilink")に[ALcot](../Page/ALcot.md "wikilink")より発売された[Windows用](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲーム](../Page/恋愛ゲーム_\(ゲームジャンル\).md "wikilink")。
 
 ## 解説
 
@@ -21,49 +21,49 @@
 ### ヒロイン
 
   - マヤ
-    声：[夏野こおり](https://ja.wikipedia.org/wiki/夏野こおり "wikilink")
+    声：[夏野こおり](../Page/夏野こおり.md "wikilink")
     第一章メインヒロイン。無口ながらも内に熱い想いを秘めている。
   - ミウ
-    声：[みる](https://ja.wikipedia.org/wiki/みる "wikilink")
+    声：[みる](../Page/みる.md "wikilink")
     第二章メインヒロイン。穏やかな性格ながらもドジな一面を持つ。
   - カレン
-    声：[佐々留美子](https://ja.wikipedia.org/wiki/佐々留美子 "wikilink")
+    声：[佐々留美子](../Page/佐々留美子.md "wikilink")
     第三章メインヒロイン。きつい性格に見えてさみしがり屋。料理とハイキックは得意。
   - セツナ
-    声：[夏野こおり](https://ja.wikipedia.org/wiki/夏野こおり "wikilink")
+    声：[夏野こおり](../Page/夏野こおり.md "wikilink")
     最終章メインヒロイン。
 
 ### サブキャラ
 
   - レイ
-    声：[文月かな](https://ja.wikipedia.org/wiki/文月かな "wikilink")
+    声：[文月かな](../Page/文月かな.md "wikilink")
 
     ミウのお世話係であるメイド服の女性。 街のレストランで働いている。長槍の使い手。救急箱を隠し持っている。
 
   - ハノン
-    声：[一色ヒカル](https://ja.wikipedia.org/wiki/一色ヒカル "wikilink")
+    声：[一色ヒカル](../Page/一色ヒカル.md "wikilink")
 
     ミウの護衛である男装の女性。 街のレストランで働いている。投げナイフの使い手。虫が苦手。
 
   - リオナ
-    声：[楠鈴音](https://ja.wikipedia.org/wiki/楠鈴音 "wikilink")
+    声：[楠鈴音](../Page/楠鈴音.md "wikilink")
 
     カレンと同じ教会に住む孤児、ナツキの双子の姉。ぼーっとしているようで、ナツキのブレーキ役を務めている。
 
   - ナツキ
-    声：[如月葵](https://ja.wikipedia.org/wiki/如月葵 "wikilink")
+    声：[如月葵](../Page/如月葵.md "wikilink")
 
     カレンと同じ教会に住む孤児、リオナの双子の妹。
 
   - ケイ
 
   - マリネオ
-    声：[韮井叶](https://ja.wikipedia.org/wiki/韮井叶 "wikilink")
+    声：[韮井叶](../Page/韮井叶.md "wikilink")
 
     マヤに付き従い、人語を解して話すことのできるぬいぐるみ。
 
   - ジャジャス
-    声：[青山ゆかり](https://ja.wikipedia.org/wiki/青山ゆかり "wikilink")
+    声：[青山ゆかり](../Page/青山ゆかり.md "wikilink")
 
     マヤに付き従い、人語を解して話すことのできる猫のぬいぐるみ。マリネオのボケに突っ込みを入れる役でもある。
 
@@ -100,7 +100,7 @@
 ## 主題歌
 
   - オープニングテーマ「Triptych」
-    歌：[真理絵](https://ja.wikipedia.org/wiki/真理絵 "wikilink") / コーラス：[霜月はるか](https://ja.wikipedia.org/wiki/霜月はるか "wikilink") / 作詞：宮蔵 / 作曲・編曲：[MANYO](https://ja.wikipedia.org/wiki/MANYO "wikilink")（Little Wing）
+    歌：[真理絵](../Page/真理絵.md "wikilink") / コーラス：[霜月はるか](../Page/霜月はるか.md "wikilink") / 作詞：宮蔵 / 作曲・編曲：[MANYO](../Page/MANYO.md "wikilink")（Little Wing）
 
   - イメージソング
 
@@ -110,7 +110,7 @@
 
 :; ミウテーマソング「Emerald」
 
-:: 歌：[結月そら](https://ja.wikipedia.org/wiki/結月そら "wikilink") / 作詞・作曲・編曲：[折倉俊則](https://ja.wikipedia.org/wiki/折倉俊則 "wikilink")（I.L.C）
+:: 歌：[結月そら](../Page/結月そら.md "wikilink") / 作詞・作曲・編曲：[折倉俊則](https://ja.wikipedia.org/wiki/折倉俊則 "wikilink")（I.L.C）
 
 :; カレンテーマソング「Withers」
 

@@ -5,11 +5,11 @@
 
 ## 2006年版
 
-2006年版はヒューマンヘッドスタジオ製作、[2K Gamesより](https://ja.wikipedia.org/wiki/2K_Games "wikilink")2006年7月に[Xbox 360と](https://ja.wikipedia.org/wiki/Xbox_360 "wikilink")[Windowsで発売された](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。日本ではXB360版が[スパイク](../Page/スパイク_\(ゲーム会社\).md "wikilink")（のちの[スパイク・チュンソフト](https://ja.wikipedia.org/wiki/スパイク・チュンソフト "wikilink")）より同年12月28日に発売され、PC版が2008年2月8日に発売された。
+2006年版はヒューマンヘッドスタジオ製作、[2K Gamesより](../Page/2K_Games.md "wikilink")2006年7月に[Xbox 360と](../Page/Xbox_360.md "wikilink")[Windowsで発売された](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。日本ではXB360版が[スパイク](../Page/スパイク_\(ゲーム会社\).md "wikilink")（のちの[スパイク・チュンソフト](https://ja.wikipedia.org/wiki/スパイク・チュンソフト "wikilink")）より同年12月28日に発売され、PC版が2008年2月8日に発売された。
 
-元々1995年に3D Realms社が『[Duke Nukem 3D](https://ja.wikipedia.org/wiki/Duke_Nukem "wikilink")』の次作品として製作発表したFPSであるが、スタッフの独立やエンジンの変更などが相次ぎ1999年に製作を一旦凍結。その後2002年よりヒューマンヘッドスタジオが中心となり3D Realms社はプロデューサーという形で製作が再開され、2006年に発売に至った。ゲームエンジンはDOOM3エンジンを独自に改良したものを用いている。
+元々1995年に3D Realms社が『[Duke Nukem 3D](../Page/Duke_Nukem.md "wikilink")』の次作品として製作発表したFPSであるが、スタッフの独立やエンジンの変更などが相次ぎ1999年に製作を一旦凍結。その後2002年よりヒューマンヘッドスタジオが中心となり3D Realms社はプロデューサーという形で製作が再開され、2006年に発売に至った。ゲームエンジンはDOOM3エンジンを独自に改良したものを用いている。
 
-ゲームの舞台は[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")から始まる。その後宇宙船そして地球に隣接された惑星規模の巨大な球体「スフィア」内へと移るが、そこはさらわれた大勢の人間、子供の他、アメリカの様々な雑貨や車、航空機など地球上から吸い上げられたものであふれ、[ロックなどの音楽やアメリカからの](../Page/ロック_\(音楽\).md "wikilink")[ラジオ放送](https://ja.wikipedia.org/wiki/ラジオ放送 "wikilink")なども流れている。なお「[Prey](https://ja.wikipedia.org/wiki/:en:Prey "wikilink")」は日本語で「肉食動物に[捕食](https://ja.wikipedia.org/wiki/捕食 "wikilink")される餌」という意味である。
+ゲームの舞台は[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")から始まる。その後宇宙船そして地球に隣接された惑星規模の巨大な球体「スフィア」内へと移るが、そこはさらわれた大勢の人間、子供の他、アメリカの様々な雑貨や車、航空機など地球上から吸い上げられたものであふれ、[ロックなどの音楽やアメリカからの](../Page/ロック_\(音楽\).md "wikilink")[ラジオ放送](https://ja.wikipedia.org/wiki/ラジオ放送 "wikilink")なども流れている。なお「[Prey](https://ja.wikipedia.org/wiki/:en:Prey "wikilink")」は日本語で「肉食動物に[捕食](../Page/捕食.md "wikilink")される餌」という意味である。
 
 ### 登場人物
 

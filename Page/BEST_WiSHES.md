@@ -1,7 +1,7 @@
 > この記事は[BEST WiSHES](https://ja.wikipedia.org/wiki/BEST_WiSHES)から翻訳されています。
 
 
-『**BEST WiSHES**』（ベスト・ウィッシーズ）は、[I WiSHの](https://ja.wikipedia.org/wiki/I_WiSH "wikilink")[ベストアルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。
+『**BEST WiSHES**』（ベスト・ウィッシーズ）は、[I WiSHの](https://ja.wikipedia.org/wiki/I_WiSH "wikilink")[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")。
 
 ## 解説
 
@@ -14,40 +14,40 @@
 
 ## 収録曲
 
-1.  **[明日への扉](https://ja.wikipedia.org/wiki/明日への扉_\(I_WiSHの曲\) "wikilink")**
+1.  **[明日への扉](../Page/明日への扉_\(I_WiSHの曲\).md "wikilink")**
       -
         1stシングル。
-2.  **[もう一度…](https://ja.wikipedia.org/wiki/明日への扉_\(I_WiSHの曲\) "wikilink")**
+2.  **[もう一度…](../Page/明日への扉_\(I_WiSHの曲\).md "wikilink")**
       -
         1stシングル「明日への扉」のカップリング曲。
-3.  **[帰らぬ日々よ](https://ja.wikipedia.org/wiki/明日への扉_\(I_WiSHの曲\) "wikilink")**
+3.  **[帰らぬ日々よ](../Page/明日への扉_\(I_WiSHの曲\).md "wikilink")**
       -
         1stシングル「明日への扉」のカップリング曲。
-4.  **[ふたつ星](https://ja.wikipedia.org/wiki/ふたつ星 "wikilink")**
+4.  **[ふたつ星](../Page/ふたつ星.md "wikilink")**
       -
         2ndシングル。
-5.  **[サマーブリーズにのって](https://ja.wikipedia.org/wiki/ふたつ星 "wikilink")**
+5.  **[サマーブリーズにのって](../Page/ふたつ星.md "wikilink")**
       -
         2ndシングル「ふたつ星」のカップリング曲。
-6.  **[Flower](https://ja.wikipedia.org/wiki/ふたつ星 "wikilink")**
+6.  **[Flower](../Page/ふたつ星.md "wikilink")**
       -
         2ndシングル「ふたつ星」のカップリング曲。
-7.  **[約束の日](https://ja.wikipedia.org/wiki/約束の日_\(I_WiSHの曲\) "wikilink")**
+7.  **[約束の日](../Page/約束の日_\(I_WiSHの曲\).md "wikilink")**
       -
         3rdシングル。
-8.  **[あなたが旅立ったあの春のにおい](https://ja.wikipedia.org/wiki/約束の日_\(I_WiSHの曲\) "wikilink")**
+8.  **[あなたが旅立ったあの春のにおい](../Page/約束の日_\(I_WiSHの曲\).md "wikilink")**
       -
         3rdシングル「約束の日」のカップリング曲。
-9.  **[キミと僕](https://ja.wikipedia.org/wiki/キミと僕 "wikilink")**
+9.  **[キミと僕](../Page/キミと僕.md "wikilink")**
       -
         4thシングル。
-10. **[Tomorrow](https://ja.wikipedia.org/wiki/キミと僕 "wikilink")**
+10. **[Tomorrow](../Page/キミと僕.md "wikilink")**
       -
         4thシングル「キミと僕」のカップリング曲。
-11. **[Precious days](https://ja.wikipedia.org/wiki/Precious_days "wikilink")**
+11. **[Precious days](../Page/Precious_days.md "wikilink")**
       -
         5thシングル。
-12. **[最後のホーム](https://ja.wikipedia.org/wiki/Precious_days "wikilink")**
+12. **[最後のホーム](../Page/Precious_days.md "wikilink")**
       -
         5thシングル「Precious days」のカップリング曲。
 13. **明日への扉 Orchestra version**

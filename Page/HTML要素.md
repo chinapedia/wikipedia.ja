@@ -91,7 +91,7 @@ HTML文書は次のような構造となる。
 ### ヘッダ内に記述可能な要素
 
   - `title`
-    タイトル (document title) を指定する。多くの[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")実装系では、[タイトルバー](https://ja.wikipedia.org/wiki/タイトルバー "wikilink")に表示される。例えば、このページのタイトルは "HTML要素 - Wikipedia" である。
+    タイトル (document title) を指定する。多くの[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")実装系では、[タイトルバー](../Page/タイトルバー.md "wikilink")に表示される。例えば、このページのタイトルは "HTML要素 - Wikipedia" である。
     HTML文書で唯一**必須かつ省略のできない**要素。
   - `base`
     相対パスの基準URL (document base URI) をhref属性で指定する。
@@ -147,7 +147,7 @@ HTML文書は次のような構造となる。
     水平線 (horizontal rule) を示す。内容は空で終了タグは存在しない。
   - `address`
     著者の情報・連絡方法 (information on author) を示す。
-    メールアドレスを記述するのが一般的。ただし、address要素内のメールアドレスが[メールアドレス検索ロボット](https://ja.wikipedia.org/wiki/メールアドレス検索ロボット "wikilink")の標的になり[スパムメールなどの被害に遭う可能性もある](../Page/スパム_\(メール\).md "wikilink")。
+    メールアドレスを記述するのが一般的。ただし、address要素内のメールアドレスが[メールアドレス検索ロボット](../Page/メールアドレス検索ロボット.md "wikilink")の標的になり[スパムメールなどの被害に遭う可能性もある](../Page/スパム_\(メール\).md "wikilink")。
   - `form`
     コントロール要素を纏めた入れ物であることを示す(interactive form)。
     action属性が必須で、入力されたデータの処理を行うURIを指定する。
@@ -196,9 +196,9 @@ HTML文書は次のような構造となる。
 
 #### 表を構成する要素
 
-表形式のデータを表す要素群。その特性から[レイアウトに使用されることがあるが](https://ja.wikipedia.org/wiki/ウェブデザイン "wikilink")**間違いである**。
+表形式のデータを表す要素群。その特性から[レイアウトに使用されることがあるが](../Page/ウェブデザイン.md "wikilink")**間違いである**。
 
-また正しく[マークアップ](https://ja.wikipedia.org/wiki/マークアップ "wikilink")する為には（他の要素に比べ）多少の知識を要する。これは[音声ブラウザ](https://ja.wikipedia.org/wiki/音声ブラウザ "wikilink")の挙動など、[アクセシビリティ](https://ja.wikipedia.org/wiki/アクセシビリティ "wikilink")を考慮した場合に制約が多いため。
+また正しく[マークアップ](https://ja.wikipedia.org/wiki/マークアップ "wikilink")する為には（他の要素に比べ）多少の知識を要する。これは[音声ブラウザ](https://ja.wikipedia.org/wiki/音声ブラウザ "wikilink")の挙動など、[アクセシビリティ](../Page/アクセシビリティ.md "wikilink")を考慮した場合に制約が多いため。
 
   - `table`
     表 (table) を構成する要素の大枠を示す。summary属性に表の要約・解説を記述する。
@@ -303,9 +303,9 @@ HTML文書は次のような構造となる。
   - `a`
     アンカー (anchor) であることを示す。href属性にリンク先[URI](https://ja.wikipedia.org/wiki/URI "wikilink")を指定し[ハイパーリンク](../Page/ハイパーリンク.md "wikilink")を作成する。
 
-    内容には[リンク](../Page/リンク.md "wikilink")先の概要を表記する。**内容だけを見てリンク先が判断できること**が望ましく、「[ここをクリック](https://ja.wikipedia.org/wiki/ここをクリック "wikilink")」等は使うべきでないとされる。内容が冗長になる場合はtitle属性で説明を付加することができる。
+    内容には[リンク](../Page/リンク.md "wikilink")先の概要を表記する。**内容だけを見てリンク先が判断できること**が望ましく、「[ここをクリック](../Page/ここをクリック.md "wikilink")」等は使うべきでないとされる。内容が冗長になる場合はtitle属性で説明を付加することができる。
 
-    accesskey属性で[ショートカットキー](https://ja.wikipedia.org/wiki/ショートカットキー "wikilink")を設定することができ、[ユーザビリティ](https://ja.wikipedia.org/wiki/ユーザビリティ "wikilink")の向上が期待できる。
+    accesskey属性で[ショートカットキー](../Page/ショートカットキー.md "wikilink")を設定することができ、[ユーザビリティ](../Page/ユーザビリティ.md "wikilink")の向上が期待できる。
 
   - `audio`
 
@@ -313,7 +313,7 @@ HTML文書は次のような構造となる。
 
   - `canvas`
 
-    解像度に依存したビットマップキャンバスを表示。グラフやゲーム用の表示画像を描画することができる。[HTML5](https://ja.wikipedia.org/wiki/HTML5 "wikilink")で導入予定であり、主要ブラウザではすでに実装済み。Internet Explorer 向けに、[Adobe Flashや](../Page/Adobe_Flash.md "wikilink")[VML](https://ja.wikipedia.org/wiki/VML "wikilink")などを使い、canvas タグを実現するライブラリがある。
+    解像度に依存したビットマップキャンバスを表示。グラフやゲーム用の表示画像を描画することができる。[HTML5](../Page/HTML5.md "wikilink")で導入予定であり、主要ブラウザではすでに実装済み。Internet Explorer 向けに、[Adobe Flashや](../Page/Adobe_Flash.md "wikilink")[VML](https://ja.wikipedia.org/wiki/VML "wikilink")などを使い、canvas タグを実現するライブラリがある。
 
   - `img`
     埋め込み画像 (Embedded image) であることを示す。src属性にURIを指定し画像を表示させる。内容は空で終了タグは存在しない。

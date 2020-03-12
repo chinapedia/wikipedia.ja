@@ -17,11 +17,11 @@
 
 ### ゲスト参加作品
 
-  - [DOUBLE](https://ja.wikipedia.org/wiki/DOUBLE_\(歌手\) "wikilink") / [SPRING LOVE](https://ja.wikipedia.org/wiki/SPRING_LOVE "wikilink") （2007年4月11日）
+  - [DOUBLE](https://ja.wikipedia.org/wiki/DOUBLE_\(歌手\) "wikilink") / [SPRING LOVE](../Page/SPRING_LOVE.md "wikilink") （2007年4月11日）
       - 「ALL I NEED FEAT. DOUBLE (Long Edit)」
-  - DOUBLE / [Reflex](https://ja.wikipedia.org/wiki/Reflex_\(アルバム\) "wikilink") （2007年8月8日）
+  - DOUBLE / [Reflex](../Page/Reflex_\(アルバム\).md "wikilink") （2007年8月8日）
       - 「We International feat. Ak'Sent 」
-  - DOUBLE / [Reflex Remix](https://ja.wikipedia.org/wiki/Reflex_Remix "wikilink") （2007年9月12日）
+  - DOUBLE / [Reflex Remix](../Page/Reflex_Remix.md "wikilink") （2007年9月12日）
       - 「We International feat. Ak'Sent (TURBO's sigma Mix Edit)」
       - 「We International feat. Ak'Sent (TURBO's sigma Mix)」
   - DOUBLE / [THE BEST COLLABORATIONS](https://ja.wikipedia.org/wiki/THE_BEST_COLLABORATIONS "wikilink") （2008年5月28日）
@@ -32,7 +32,7 @@
 ## 関連アーティスト
 
   - [DOUBLE](https://ja.wikipedia.org/wiki/DOUBLE_\(歌手\) "wikilink")
-  - [スカイ・スウィートナム](https://ja.wikipedia.org/wiki/スカイ・スウィートナム "wikilink")
+  - [スカイ・スウィートナム](../Page/スカイ・スウィートナム.md "wikilink")
 
 ## 外部リンク
 

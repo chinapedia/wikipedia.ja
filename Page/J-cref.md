@@ -3,11 +3,11 @@
 
 **J-cref**は、[Microsoft Windows向けの美しいUIとアイコンを持つ](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[テキストエディタ](../Page/テキストエディタ.md "wikilink")である。[シェアウェア](../Page/シェアウェア.md "wikilink")として配布されている。かつては、一部機能制限バージョンが[フリーウェア](../Page/フリーウェア.md "wikilink")としても配布されていた。
 
-タブを利用して、複数のファイルを[タブブラウザ](https://ja.wikipedia.org/wiki/タブブラウザ "wikilink")のように表示させ、それを編集することが出来る、いわゆるタブエディタである。[Delphi](../Page/Delphi.md "wikilink")製。
+タブを利用して、複数のファイルを[タブブラウザ](../Page/タブブラウザ.md "wikilink")のように表示させ、それを編集することが出来る、いわゆるタブエディタである。[Delphi](../Page/Delphi.md "wikilink")製。
 
 ## 概要
 
-当初はシェアウェア、およびプロジェクト管理機能を省いたものがフリーウェアとして配布されていた。その後、シェアウェア版はJ-cref v2にバージョンアップする。さらに、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[1月7日](../Page/1月7日.md "wikilink")にはJ-cref v3が公開され、これまでのJ-cref v2、J-cref v1は開発が終了した（機能追加は行わず、バグ修正には応じるとのこと）。
+当初はシェアウェア、およびプロジェクト管理機能を省いたものがフリーウェアとして配布されていた。その後、シェアウェア版はJ-cref v2にバージョンアップする。さらに、[2007年](../Page/2007年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink")にはJ-cref v3が公開され、これまでのJ-cref v2、J-cref v1は開発が終了した（機能追加は行わず、バグ修正には応じるとのこと）。
 
 なお、シェアウェアとしての試用期限は最初に起動してから30日間である。それを過ぎても機能に制限はないが、ライセンスキー登録を促すダイアログが表示される。
 
@@ -19,7 +19,7 @@ J-crefには、以下の機能が存在する。
 
   - タブを利用したマルチ編集機能。
   - [予約語](../Page/予約語.md "wikilink")などの色分け機能。
-  - [JScript](https://ja.wikipedia.org/wiki/JScript "wikilink")、および[VBScript](../Page/VBScript.md "wikilink")に対応した[マクロ](../Page/マクロ言語.md "wikilink")。[ActivePerl](https://ja.wikipedia.org/wiki/ActivePerl "wikilink")や[ActiveRuby](https://ja.wikipedia.org/wiki/ActiveRuby "wikilink")、[Python](../Page/Python.md "wikilink")がインストールされていれば、これらの言語にも対応する。
+  - [JScript](../Page/JScript.md "wikilink")、および[VBScript](../Page/VBScript.md "wikilink")に対応した[マクロ](../Page/マクロ言語.md "wikilink")。[ActivePerl](../Page/ActivePerl.md "wikilink")や[ActiveRuby](https://ja.wikipedia.org/wiki/ActiveRuby "wikilink")、[Python](../Page/Python.md "wikilink")がインストールされていれば、これらの言語にも対応する。
   - 詳細な設定が可能（ほぼ全ての機能にショートカットキーを割り当てられる、など）。
   - プロジェクト管理機能を搭載している。
   - 内部コードが[Unicode](../Page/Unicode.md "wikilink")であるので、[Shift-JIS](https://ja.wikipedia.org/wiki/Shift-JIS "wikilink")にない文字を扱える（v3より。また、[日本語](../Page/日本語.md "wikilink")環境での使用を前提としているため、外国語は表示できない場合がある）。

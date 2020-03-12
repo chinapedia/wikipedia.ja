@@ -1,7 +1,7 @@
 > この記事は[Philosophy Talk](https://ja.wikipedia.org/wiki/Philosophy_Talk)から翻訳されています。
 
 
-**Philosophy Talk**（フィロソフィートーク）は、[哲学](../Page/哲学.md "wikilink")をテーマとした[米国の](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ラジオ](../Page/ラジオ.md "wikilink")番組。[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")のFMラジオ局KALWを中心に全米4州28のラジオ局で週一回一時間のプログラムが放送されている\[1\]。ホスト役を務めているのは[スタンフォード大学](../Page/スタンフォード大学.md "wikilink")哲学科教授の[ジョン・ペリー](https://ja.wikipedia.org/wiki/ジョン・ペリー_\(哲学者\) "wikilink")（John Perry）と[ケネス・テイラー](https://ja.wikipedia.org/wiki/ケネス・テイラー "wikilink")（Kenneth Taylor）。毎週一つのトピックが選ばれ、ゲストを招いてのフランクな議論が展開される。スタンフォードキャンパスの哲学科コーナーのスタジオから放送されている。[ウェブサイト](../Page/ウェブサイト.md "wikilink")で[バックナンバー](https://ja.wikipedia.org/wiki/バックナンバー "wikilink")を配信している。
+**Philosophy Talk**（フィロソフィートーク）は、[哲学](../Page/哲学.md "wikilink")をテーマとした[米国の](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ラジオ](../Page/ラジオ.md "wikilink")番組。[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")のFMラジオ局KALWを中心に全米4州28のラジオ局で週一回一時間のプログラムが放送されている\[1\]。ホスト役を務めているのは[スタンフォード大学](../Page/スタンフォード大学.md "wikilink")哲学科教授の[ジョン・ペリー](../Page/ジョン・ペリー_\(哲学者\).md "wikilink")（John Perry）と[ケネス・テイラー](https://ja.wikipedia.org/wiki/ケネス・テイラー "wikilink")（Kenneth Taylor）。毎週一つのトピックが選ばれ、ゲストを招いてのフランクな議論が展開される。スタンフォードキャンパスの哲学科コーナーのスタジオから放送されている。[ウェブサイト](../Page/ウェブサイト.md "wikilink")で[バックナンバー](https://ja.wikipedia.org/wiki/バックナンバー "wikilink")を配信している。
 
 ## 概要
 
@@ -23,7 +23,7 @@ Philosophy Talk は番組開始当初から資金難に悩まされている。
 
 ### 収入源
 
-一般に独自に制作されたラジオ番組は、ラジオ局に対して番組を有料で販売することによってその制作コストを回収する（そしてラジオ局は広告主から支払われる収入によってその購入コストを賄う）。しかしPhilosophy Talkはテーマが哲学であり、かつその取り扱いも至って学術的なこともあり、高い[聴取率](../Page/聴取率.md "wikilink")が見込めない。そこでラジオ局に対して無償で番組を提供している。 こうした事から番組開始当初から、番組制作資金の大部分はスタンフォード大学からの資金提供だけに頼ってきた\[3\]。しかし2007年からは、新しい資金源を求めて、有料で[ポッドキャスト](https://ja.wikipedia.org/wiki/ポッドキャスト "wikilink")を配信するサービスを始めた\[4\]。有料での配信はスタートしたが、それでもウェブサイトでのバックナンバーの無料配信は今までどおり継続して行われていく。つまり[ストリーミング](../Page/ストリーミング.md "wikilink")で聴くのはタダだが、その音声ファイルを自分のパソコンや[iPod](https://ja.wikipedia.org/wiki/iPod "wikilink")に[ダウンロード](https://ja.wikipedia.org/wiki/ダウンロード "wikilink")するのは有料、という玉虫色の方針を選択したことになる。これにより[オープンアクセス](https://ja.wikipedia.org/wiki/オープンアクセス "wikilink")のスタイルを保ちながらもクオリティーの高い番組を制作し続けることを目指す。こうしたスタイルは一見珍しく見えるが、ペリーが立ち上げに関わったオンライン哲学百科事典、[スタンフォード哲学百科事典](https://ja.wikipedia.org/wiki/スタンフォード哲学百科事典 "wikilink")でも、似たような方法で経営が行われている。つまりもともと誰でも無料で閲覧できるサイトなのだが、運営資金確保のために大学図書館に対しては寄付をお願いしていく、という方法である。スタンフォード哲学百科事典では実際これで運営資金がうまくカバーされている。とはいえラジオ番組である Philosophy Talk でもそうした方針が通用するのかどうかは未知数である。
+一般に独自に制作されたラジオ番組は、ラジオ局に対して番組を有料で販売することによってその制作コストを回収する（そしてラジオ局は広告主から支払われる収入によってその購入コストを賄う）。しかしPhilosophy Talkはテーマが哲学であり、かつその取り扱いも至って学術的なこともあり、高い[聴取率](../Page/聴取率.md "wikilink")が見込めない。そこでラジオ局に対して無償で番組を提供している。 こうした事から番組開始当初から、番組制作資金の大部分はスタンフォード大学からの資金提供だけに頼ってきた\[3\]。しかし2007年からは、新しい資金源を求めて、有料で[ポッドキャスト](../Page/ポッドキャスト.md "wikilink")を配信するサービスを始めた\[4\]。有料での配信はスタートしたが、それでもウェブサイトでのバックナンバーの無料配信は今までどおり継続して行われていく。つまり[ストリーミング](../Page/ストリーミング.md "wikilink")で聴くのはタダだが、その音声ファイルを自分のパソコンや[iPod](https://ja.wikipedia.org/wiki/iPod "wikilink")に[ダウンロード](https://ja.wikipedia.org/wiki/ダウンロード "wikilink")するのは有料、という玉虫色の方針を選択したことになる。これにより[オープンアクセス](../Page/オープンアクセス.md "wikilink")のスタイルを保ちながらもクオリティーの高い番組を制作し続けることを目指す。こうしたスタイルは一見珍しく見えるが、ペリーが立ち上げに関わったオンライン哲学百科事典、[スタンフォード哲学百科事典](../Page/スタンフォード哲学百科事典.md "wikilink")でも、似たような方法で経営が行われている。つまりもともと誰でも無料で閲覧できるサイトなのだが、運営資金確保のために大学図書館に対しては寄付をお願いしていく、という方法である。スタンフォード哲学百科事典では実際これで運営資金がうまくカバーされている。とはいえラジオ番組である Philosophy Talk でもそうした方針が通用するのかどうかは未知数である。
 
 ## ゲストとテーマ
 
@@ -53,32 +53,32 @@ Philosophy Talk は番組開始当初から資金難に悩まされている。
 </tr>
 <tr class="odd">
 <td><p>2006年8月22日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ダン・スペルベル" title="wikilink">ダン・スペルベル</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/語用論" title="wikilink">語用論</a></p></td>
+<td><p><a href="../Page/ダン・スペルベル.md" title="wikilink">ダン・スペルベル</a></p></td>
+<td><p><a href="../Page/語用論.md" title="wikilink">語用論</a></p></td>
 <td><p><a href="http://www.philosophytalk.org/pastShows/LanguageInAction.html">聴く</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2006年1月17日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ダニエル・デネット" title="wikilink">ダニエル・デネット</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/インテリジェント・デザイン" title="wikilink">インテリジェント・デザイン</a></p></td>
+<td><p><a href="../Page/ダニエル・デネット.md" title="wikilink">ダニエル・デネット</a></p></td>
+<td><p><a href="../Page/インテリジェント・デザイン.md" title="wikilink">インテリジェント・デザイン</a></p></td>
 <td><p><a href="http://www.philosophytalk.org/pastShows/IntelligentDesign.htm">聴く</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2005年6月21日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ピーター・シンガー" title="wikilink">ピーター・シンガー</a></p></td>
+<td><p><a href="../Page/ピーター・シンガー.md" title="wikilink">ピーター・シンガー</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/貧困問題" title="wikilink">貧困問題</a></p></td>
 <td><p><a href="http://www.philosophytalk.org/pastShows/GlobalPovertyandInternationalAid.htm">聴く</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2005年5月24日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/レダ・コスミデス" title="wikilink">レダ・コスミデス</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/進化心理学" title="wikilink">進化心理学</a></p></td>
+<td><p><a href="../Page/進化心理学.md" title="wikilink">進化心理学</a></p></td>
 <td><p><a href="http://www.philosophytalk.org/pastShows/EvolutionoftheHumanMind.htm">聴く</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2005年1月11日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョン・サール" title="wikilink">ジョン・サール</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/心の哲学" title="wikilink">心の哲学</a></p></td>
+<td><p><a href="../Page/ジョン・サール.md" title="wikilink">ジョン・サール</a></p></td>
+<td><p><a href="../Page/心の哲学.md" title="wikilink">心の哲学</a></p></td>
 <td><p><a href="http://www.philosophytalk.org/pastShows/Consciousness.htm">聴く</a></p></td>
 </tr>
 <tr class="even">
@@ -89,7 +89,7 @@ Philosophy Talk は番組開始当初から資金難に悩まされている。
 </tr>
 <tr class="odd">
 <td><p>パイロット版1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョン・サール" title="wikilink">ジョン・サール</a><br />
+<td><p><a href="../Page/ジョン・サール.md" title="wikilink">ジョン・サール</a><br />
 <a href="../Page/ジョン・マッカーシー.md" title="wikilink">ジョン・マッカーシー</a></p></td>
 <td><p><a href="../Page/人工知能.md" title="wikilink">人工知能</a></p></td>
 <td><p><a href="http://www.philosophytalk.org/pastShows/ArtificialIntelligencePilot.htm">聴く</a></p></td>
@@ -111,27 +111,27 @@ Philosophy Talk は番組開始当初から資金難に悩まされている。
 
 ### ラジオで聞く
 
-もしあなたが[サンフランシスコ・ベイエリア](https://ja.wikipedia.org/wiki/サンフランシスコ・ベイエリア "wikilink")に住んでいるなら、FMラジオ機で番組を聴くことができる。放送されているチャンネルは公共ラジオ局[KALW](https://ja.wikipedia.org/wiki/:en:KALW "wikilink")（91.7MHz）。放送時間は現地時間で日曜10:00am-11:00am、日本時間だと月曜3:00am-4:00am。
+もしあなたが[サンフランシスコ・ベイエリア](../Page/サンフランシスコ・ベイエリア.md "wikilink")に住んでいるなら、FMラジオ機で番組を聴くことができる。放送されているチャンネルは公共ラジオ局[KALW](https://ja.wikipedia.org/wiki/:en:KALW "wikilink")（91.7MHz）。放送時間は現地時間で日曜10:00am-11:00am、日本時間だと月曜3:00am-4:00am。
 
 ### ストリーミング放送で聞く
 
-KALW放送のライブストリーミングを [www.kalw.org/listen.html listen](http://www.kalw.org/listen.html)で聞く事が出来る（要[RealPlayer](https://ja.wikipedia.org/wiki/RealPlayer "wikilink")）。放送時間は上記同様 現地時間で日曜10:00am-11:00am、日本時間で月曜3:00am-4:00am。
+KALW放送のライブストリーミングを [www.kalw.org/listen.html listen](http://www.kalw.org/listen.html)で聞く事が出来る（要[RealPlayer](../Page/RealPlayer.md "wikilink")）。放送時間は上記同様 現地時間で日曜10:00am-11:00am、日本時間で月曜3:00am-4:00am。
 
 ### バックナンバーを聞く
 
-[Past Programs](http://www.philosophytalk.org/notesPastShows.htm)にバックナンバーがすべてリストされている。どれもその場ですぐに聴くことができる（要[RealPlayer](https://ja.wikipedia.org/wiki/RealPlayer "wikilink")）。
+[Past Programs](http://www.philosophytalk.org/notesPastShows.htm)にバックナンバーがすべてリストされている。どれもその場ですぐに聴くことができる（要[RealPlayer](../Page/RealPlayer.md "wikilink")）。
 
 ## 脚注
 
 ## 参照
 
-  - Adair Lara. "[The rants are lofty on new radio show](http://sfgate.com/cgi-bin/article.cgi?file=/chronicle/archive/2004/03/27/DDGEV5R5KJ1.DTL)", [San Francisco Chronicle](https://ja.wikipedia.org/wiki/サンフランシスコ・クロニクル "wikilink"), 2004-03-27. -[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[7月2日](../Page/7月2日.md "wikilink")閲覧.
-  - Brooke E. O’Neill (2004-03-27). "[The philosopher’s zone: Stanford philosophy professor Ken Taylor brings reason to radio](http://magazine.uchicago.edu/0606/peer/zone.shtml)" Peer Review. The University of Chicago Magazine. -[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[7月2日](../Page/7月2日.md "wikilink")閲覧.
-  - Shawn M. Sims. "[Stanford Professors Host Talk Show on Philosophy Issues](http://www.stanfordreview.org/Archive/Volume_XXXI/Issue_8/News/news4.shtml)", The News in Brief, [The Stanford Review](https://ja.wikipedia.org/wiki/:en:The_Stanford_Review "wikilink") Volume 31, Issue 8, 2004-01-29. -[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[7月2日](../Page/7月2日.md "wikilink")閲覧.
-  - John Sanford. "['Philosophy Talk' tackles the big questions (not engine trouble)](http://news-service.stanford.edu/news/2003/august6/philtalk-86.html)", Stanford Report, 2003-08-06. -[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[7月2日](../Page/7月2日.md "wikilink")閲覧.
-  - John Sanford. "['Philosophy Talk' radio series kicks off](http://news-service.stanford.edu/news/2004/january14/philotalk-114.html)", Stanford Report, 2004-01-08. -[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[7月2日](../Page/7月2日.md "wikilink")閲覧.
-  - "[Philosophy Talk](http://www.prx.org/user/PhilosophyTalk/)" [Public Radio Exchange](https://ja.wikipedia.org/wiki/:en:Public_Radio_Exchange "wikilink"): 2004-03-27. -[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[7月2日](../Page/7月2日.md "wikilink")閲覧.
-  - "[“Philosophy Talk” Radio Broadcast](http://www.apaonline.org/apa/publications/proceedings/v79n3/public/philosophytalk.asp)" Proceedings And Addresses: Volume 79, Issue 3. American Philosophical Association: January 2006. -[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[7月2日](../Page/7月2日.md "wikilink")閲覧.
+  - Adair Lara. "[The rants are lofty on new radio show](http://sfgate.com/cgi-bin/article.cgi?file=/chronicle/archive/2004/03/27/DDGEV5R5KJ1.DTL)", [San Francisco Chronicle](../Page/サンフランシスコ・クロニクル.md "wikilink"), 2004-03-27. -[2007年](../Page/2007年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink")閲覧.
+  - Brooke E. O’Neill (2004-03-27). "[The philosopher’s zone: Stanford philosophy professor Ken Taylor brings reason to radio](http://magazine.uchicago.edu/0606/peer/zone.shtml)" Peer Review. The University of Chicago Magazine. -[2007年](../Page/2007年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink")閲覧.
+  - Shawn M. Sims. "[Stanford Professors Host Talk Show on Philosophy Issues](http://www.stanfordreview.org/Archive/Volume_XXXI/Issue_8/News/news4.shtml)", The News in Brief, [The Stanford Review](https://ja.wikipedia.org/wiki/:en:The_Stanford_Review "wikilink") Volume 31, Issue 8, 2004-01-29. -[2007年](../Page/2007年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink")閲覧.
+  - John Sanford. "['Philosophy Talk' tackles the big questions (not engine trouble)](http://news-service.stanford.edu/news/2003/august6/philtalk-86.html)", Stanford Report, 2003-08-06. -[2007年](../Page/2007年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink")閲覧.
+  - John Sanford. "['Philosophy Talk' radio series kicks off](http://news-service.stanford.edu/news/2004/january14/philotalk-114.html)", Stanford Report, 2004-01-08. -[2007年](../Page/2007年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink")閲覧.
+  - "[Philosophy Talk](http://www.prx.org/user/PhilosophyTalk/)" [Public Radio Exchange](https://ja.wikipedia.org/wiki/:en:Public_Radio_Exchange "wikilink"): 2004-03-27. -[2007年](../Page/2007年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink")閲覧.
+  - "[“Philosophy Talk” Radio Broadcast](http://www.apaonline.org/apa/publications/proceedings/v79n3/public/philosophytalk.asp)" Proceedings And Addresses: Volume 79, Issue 3. American Philosophical Association: January 2006. -[2007年](../Page/2007年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink")閲覧.
 
 ## 外部リンク
 

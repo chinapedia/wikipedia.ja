@@ -3,7 +3,7 @@
 
 **コリチーバFC** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[パラナ州](../Page/パラナ州.md "wikilink")[クリチバ](../Page/クリチバ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。ドイツ系コミュニティの若者達によって[1909年](../Page/1909年.md "wikilink")に設立。
 
-[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に[ブラジル全国選手権を制した古豪](https://ja.wikipedia.org/wiki/1985_カンピオナート・ブラジレイロ・セリエA "wikilink")。[1989年](../Page/1989年.md "wikilink")には、元[日本代表](https://ja.wikipedia.org/wiki/サッカー日本代表 "wikilink")・[三浦知良](../Page/三浦知良.md "wikilink")も所属していた。
+[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に[ブラジル全国選手権を制した古豪](https://ja.wikipedia.org/wiki/1985_カンピオナート・ブラジレイロ・セリエA "wikilink")。[1989年](../Page/1989年.md "wikilink")には、元[日本代表](../Page/サッカー日本代表.md "wikilink")・[三浦知良](../Page/三浦知良.md "wikilink")も所属していた。
 
 [パラナ州](../Page/パラナ州.md "wikilink")のライバルである[アトレチコ・パラナエンセ](../Page/アトレチコ・パラナエンセ.md "wikilink")とのダービーマッチはアトレチバ (Atletiba) 、[パラナ・クルーベ](../Page/パラナ・クルーベ.md "wikilink")とのダービーマッチはパラチバ (Paratiba) と呼ばれる。
 

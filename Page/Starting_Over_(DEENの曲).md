@@ -1,7 +1,7 @@
 > この記事は[Starting Over \(DEEN\)](https://ja.wikipedia.org/wiki/Starting_Over_\(DEEN\))から翻訳されています。
 
 
-**Starting Over**（スターティング・オーヴァー）は[DEEN](https://ja.wikipedia.org/wiki/DEEN "wikilink")の32枚目のシングル。
+**Starting Over**（スターティング・オーヴァー）は[DEEN](../Page/DEEN.md "wikilink")の32枚目のシングル。
 
 ## 作品解説
 
@@ -20,7 +20,7 @@
 
 ## 収録アルバム
 
-  - 『[Diamonds](https://ja.wikipedia.org/wiki/Diamonds_\(DEENのアルバム\) "wikilink")』(\#1)
+  - 『[Diamonds](../Page/Diamonds_\(DEENのアルバム\).md "wikilink")』(\#1)
   - 『[DEEN The Best Classics](https://ja.wikipedia.org/wiki/DEEN_The_Best_Classics "wikilink")』(\#3)
   - 『[DEEN PERFECT SINGLES +](https://ja.wikipedia.org/wiki/DEEN_PERFECT_SINGLES_+ "wikilink")』(\#1)
   - 『[Another Side Memories〜Precious Best〜](https://ja.wikipedia.org/wiki/Another_Side_Memories〜Precious_Best〜 "wikilink")』(\#2)
@@ -40,9 +40,9 @@
 <!-- end list -->
 
   - DEEN
-      - [池森秀一](https://ja.wikipedia.org/wiki/池森秀一 "wikilink")：Vocal＆Background Vocals
-      - [山根公路](https://ja.wikipedia.org/wiki/山根公路 "wikilink")：Keyboards，Backbround Vocals＆Synthesizer Programming
-      - [田川伸治](https://ja.wikipedia.org/wiki/田川伸治 "wikilink")：Electric Guitar，Acoustic Guitar＆Background Vocals
+      - [池森秀一](../Page/池森秀一.md "wikilink")：Vocal＆Background Vocals
+      - [山根公路](../Page/山根公路.md "wikilink")：Keyboards，Backbround Vocals＆Synthesizer Programming
+      - [田川伸治](../Page/田川伸治.md "wikilink")：Electric Guitar，Acoustic Guitar＆Background Vocals
   - サポートメンバー
       - HIDE([can/goo](https://ja.wikipedia.org/wiki/can/goo "wikilink"))：Drums＆Percussion
       - KIYO(can/goo)（\#1）,宮野和也（\#2,3）：Bass
@@ -52,7 +52,7 @@
 
 ## タイアップ
 
-  - [日本テレビ系列](../Page/日本テレビ系列.md "wikilink")「[いただきマッスル\!](https://ja.wikipedia.org/wiki/いただきマッスル! "wikilink")」2006年6月エンディングテーマ。
+  - [日本テレビ系列](../Page/日本テレビ系列.md "wikilink")「[いただきマッスル\!](../Page/いただきマッスル!.md "wikilink")」2006年6月エンディングテーマ。
 
 ## 関連事項
 

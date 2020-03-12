@@ -1,16 +1,16 @@
 > この記事は[COSMOS \(\)](https://ja.wikipedia.org/wiki/COSMOS_\(\))から翻訳されています。
 
 
-『**COSMOS**』（コスモス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンドである](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")[BUCK-TICK](https://ja.wikipedia.org/wiki/BUCK-TICK "wikilink")の9枚目の[スタジオ・アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")\[1\]。[1996年](../Page/1996年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")に[ビクター](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")[インビテーションよりリリースされた](../Page/Invitation_\(レーベル\).md "wikilink")。初回盤のみフォトプリント・カラーPケース仕様、抽選で「キャンディ[PVメイキングビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")」が当たる応募ハガキ封入。
+『**COSMOS**』（コスモス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンドである](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")[BUCK-TICK](../Page/BUCK-TICK.md "wikilink")の9枚目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")\[1\]。[1996年](../Page/1996年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")に[ビクター](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")[インビテーションよりリリースされた](../Page/Invitation_\(レーベル\).md "wikilink")。初回盤のみフォトプリント・カラーPケース仕様、抽選で「キャンディ[PVメイキングビデオ](../Page/ミュージック・ビデオ.md "wikilink")」が当たる応募ハガキ封入。
 
 ## 解説
 
   - 前作『[Six/Nine](https://ja.wikipedia.org/wiki/Six/Nine "wikilink")』よりおよそ1年ぶりでの新作であり、同バンドの[アルバム](../Page/アルバム.md "wikilink")としては早い期間でのリリースとなった。
   - アルバムタイトルとなっている「COSMOS」は、「コスモスの花」や「秩序・調和」・「[宇宙観](https://ja.wikipedia.org/wiki/コスモス_\(宇宙観\) "wikilink")」といった意味を持つ言葉で、アルバムツアーはその反語である「[CHAOS](../Page/カオス.md "wikilink")」（無秩序・大混乱）というタイトルがつけられた\[2\]。
   - 前作までのダークな世界観から一転し、ポップな楽曲で構成されている。
-  - 元[サンハウス](../Page/サンハウス.md "wikilink")、[シーナ&ザ・ロケッツ](https://ja.wikipedia.org/wiki/シーナ&ザ・ロケッツ "wikilink")の奈良敏博がリズム・ディレクター、共同プロデューサーとして参加している。
+  - 元[サンハウス](../Page/サンハウス.md "wikilink")、[シーナ&ザ・ロケッツ](../Page/シーナ&ザ・ロケッツ.md "wikilink")の奈良敏博がリズム・ディレクター、共同プロデューサーとして参加している。
   - 歌詞カードの上下に配置されている細長い模様は、斜めから見るとある文字\[3\]が浮かび上がるという、ちょっとした仕掛けが隠されている。
-  - 本アルバムリリース後に[マーキュリー・ミュージック・エンタテイメントへ移籍したため](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")、ビクターエンタテインメント在籍時の最後のスタジオ・アルバムとなった。
+  - 本アルバムリリース後に[マーキュリー・ミュージック・エンタテイメントへ移籍したため](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")、ビクターエンタテインメント在籍時の最後のスタジオ・アルバムとなった。
 
 ## リリース履歴
 
@@ -21,7 +21,7 @@
 <th><p>日付</p></th>
 <th><p><a href="../Page/レコードレーベル.md" title="wikilink">レーベル</a></p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>最高順位</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -129,19 +129,19 @@ VICL-60970（通常盤）</p></td>
   - 櫻井敦司 - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
   - 今井寿 - [ギター](../Page/ギター.md "wikilink")、[ノイズ](../Page/ノイズミュージック.md "wikilink")、バッキングボイス
   - 星野英彦 - ギター、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、バッキングボイス
-  - [樋口豊](../Page/樋口豊_\(ミュージシャン\).md "wikilink") - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - [樋口豊](../Page/樋口豊_\(ミュージシャン\).md "wikilink") - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
   - [ヤガミトール](../Page/ヤガミトール.md "wikilink") - [ドラムス](../Page/ドラムセット.md "wikilink")
 
 ### サポートミュージシャン
 
-  - [横山和俊](https://ja.wikipedia.org/wiki/横山和俊 "wikilink") - キーボード、[マニピュレート](https://ja.wikipedia.org/wiki/マニピュレーター "wikilink")、[ピアノ](../Page/ピアノ.md "wikilink")、ノイズ
+  - [横山和俊](https://ja.wikipedia.org/wiki/横山和俊 "wikilink") - キーボード、[マニピュレート](../Page/マニピュレーター.md "wikilink")、[ピアノ](../Page/ピアノ.md "wikilink")、ノイズ
 
 ## 脚注・出典
 
 [Category:BUCK-TICKのアルバム](https://ja.wikipedia.org/wiki/Category:BUCK-TICKのアルバム "wikilink") [Category:1996年のアルバム](https://ja.wikipedia.org/wiki/Category:1996年のアルバム "wikilink") [Category:ビクターインビテーションのアルバム](https://ja.wikipedia.org/wiki/Category:ビクターインビテーションのアルバム "wikilink")
 
 1.  [セルフカバー](../Page/カバー.md "wikilink")・アルバム『[殺シノ調べ This is NOT Greatest Hits](../Page/殺シノ調べ_This_is_NOT_Greatest_Hits.md "wikilink")』を除いた場合。『殺シノ調べ This is NOT Greatest Hits』を7thアルバムとした場合10thアルバムとなる。
-2.  『B-PASS』（1996年7月号 [シンコーミュージック・エンタテイメント](https://ja.wikipedia.org/wiki/シンコーミュージック・エンタテイメント "wikilink")）
+2.  『B-PASS』（1996年7月号 [シンコーミュージック・エンタテイメント](../Page/シンコーミュージック・エンタテイメント.md "wikilink")）
 3.  「生」と「死」。縦長に引き伸ばされているため、斜めから見なければ判読できない。
 4.  BUCK-TICKファンクラブFISH TANK会報No.001 -1996年7月発行
 5.  BUCK-TICKファンクラブFISH TANK会報No.001 -1996年7月発行

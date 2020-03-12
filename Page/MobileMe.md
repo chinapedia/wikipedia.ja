@@ -17,7 +17,7 @@
 
 （2010年11月現在）
 
-  - **メール**（[IMAP](../Page/Internet_Message_Access_Protocol.md "wikilink")、[POP](../Page/Post_Office_Protocol.md "wikilink")、[SMTP](../Page/Simple_Mail_Transfer_Protocol.md "wikilink")、[Webメール](https://ja.wikipedia.org/wiki/Webメール "wikilink")）\[2\]
+  - **メール**（[IMAP](../Page/Internet_Message_Access_Protocol.md "wikilink")、[POP](../Page/Post_Office_Protocol.md "wikilink")、[SMTP](../Page/Simple_Mail_Transfer_Protocol.md "wikilink")、[Webメール](../Page/Webメール.md "wikilink")）\[2\]
   - **連絡先**（アドレス帳。他ユーザへの部分公開が可能）
   - **カレンダー**（スケジューラ。他ユーザへの部分公開が可能）
   - **ギャラリー**（写真公開）
@@ -29,7 +29,7 @@
 ## 歴史
 
   - 2000年1月　**iTools** (25MB) として、[Macユーザ向けの無料サービスとしてスタート](https://ja.wikipedia.org/wiki/Mac_OS "wikilink")。
-  - 2002年7月　**.Mac** (100MB) が有料で開始され\[3\]、同年10月に[無料](https://ja.wikipedia.org/wiki/無料 "wikilink")の**iTools**は終了。
+  - 2002年7月　**.Mac** (100MB) が有料で開始され\[3\]、同年10月に[無料](../Page/無料.md "wikilink")の**iTools**は終了。
   - 2004年9月　**250MB**（追加で最大1GB）に増量
   - 2005年9月　**1GB**（追加で最大4GB）に増量。
   - 2007年8月　**10GB**（追加で最大20GB）に増量。システム拡充。

@@ -1,11 +1,11 @@
 > この記事は[ETV ](https://ja.wikipedia.org/wiki/ETV_)から翻訳されています。
 
 
-**ETVワイド ともに生きる**（ETVワイド ともにいきる）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月23日](../Page/4月23日.md "wikilink")から[2011年](../Page/2011年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink")まで[NHK教育テレビで年数回にわたって放送された](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")、[福祉](../Page/福祉.md "wikilink")に関する大型[特別番組](https://ja.wikipedia.org/wiki/特別番組 "wikilink")。
+**ETVワイド ともに生きる**（ETVワイド ともにいきる）は、[2005年](../Page/2005年.md "wikilink")[4月23日](../Page/4月23日.md "wikilink")から[2011年](../Page/2011年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink")まで[NHK教育テレビで年数回にわたって放送された](../Page/NHK教育テレビジョン.md "wikilink")、[福祉](../Page/福祉.md "wikilink")に関する大型[特別番組](../Page/特別番組.md "wikilink")。
 
 ## 概要
 
-[うつ](https://ja.wikipedia.org/wiki/うつ病 "wikilink")・[認知症](https://ja.wikipedia.org/wiki/認知症 "wikilink")・[発達障害](../Page/発達障害.md "wikilink")など、現代に生きる人々が向き合う様々な課題を、毎回ワンテーマで取り上げ、当事者らが徹底的に討論する。
+[うつ](https://ja.wikipedia.org/wiki/うつ病 "wikilink")・[認知症](../Page/認知症.md "wikilink")・[発達障害](../Page/発達障害.md "wikilink")など、現代に生きる人々が向き合う様々な課題を、毎回ワンテーマで取り上げ、当事者らが徹底的に討論する。
 
 ## 出演者
 
@@ -76,10 +76,10 @@
 
 ## 関連項目
 
-  - [福祉ネットワーク](https://ja.wikipedia.org/wiki/福祉ネットワーク "wikilink")
+  - [福祉ネットワーク](../Page/福祉ネットワーク.md "wikilink")
   - [きらっといきる](../Page/きらっといきる.md "wikilink")
-  - [NHKハートプロジェクト](https://ja.wikipedia.org/wiki/NHKハートプロジェクト "wikilink")
-  - [ハートをつなごう](https://ja.wikipedia.org/wiki/ハートをつなごう "wikilink")
+  - [NHKハートプロジェクト](../Page/NHKハートプロジェクト.md "wikilink")
+  - [ハートをつなごう](../Page/ハートをつなごう.md "wikilink")
 
 ## 外部リンク
 

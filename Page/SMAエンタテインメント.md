@@ -1,9 +1,9 @@
 > この記事は[SMA](https://ja.wikipedia.org/wiki/SMA)から翻訳されています。
 
 
-**SMAエンタテインメント** (*SMA Entertainment Inc.*) は、2006年4月1日、SMA([ソニー・ミュージックアーティスツ](https://ja.wikipedia.org/wiki/ソニー・ミュージックアーティスツ "wikilink"))の分割・再編・統合により設立されていた[芸能事務所](../Page/芸能事務所.md "wikilink")。2009年4月1日、親会社であるSMAが他の子会社を含め再び合併。当事業所も統合された。
+**SMAエンタテインメント** (*SMA Entertainment Inc.*) は、2006年4月1日、SMA([ソニー・ミュージックアーティスツ](../Page/ソニー・ミュージックアーティスツ.md "wikilink"))の分割・再編・統合により設立されていた[芸能事務所](../Page/芸能事務所.md "wikilink")。2009年4月1日、親会社であるSMAが他の子会社を含め再び合併。当事業所も統合された。
 
-[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")[マネージメント](https://ja.wikipedia.org/wiki/マネージメント "wikilink")の他に、レーベル事業 ([Station Kids Records](https://ja.wikipedia.org/wiki/Station_Kids_Records "wikilink")) も行っていた。所属する[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")の場合、必ずしも[ソニー・ミュージック](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink") (SMEJ) 系列の[レコード会社](https://ja.wikipedia.org/wiki/レコード会社 "wikilink")所属とは限らなかった。
+[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")[マネージメント](https://ja.wikipedia.org/wiki/マネージメント "wikilink")の他に、レーベル事業 ([Station Kids Records](https://ja.wikipedia.org/wiki/Station_Kids_Records "wikilink")) も行っていた。所属する[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")の場合、必ずしも[ソニー・ミュージック](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink") (SMEJ) 系列の[レコード会社](../Page/レコード会社.md "wikilink")所属とは限らなかった。
 
 ## 当時の所属アーティスト
 
@@ -18,7 +18,7 @@
 
 #### SME系列外レーベル所属
 
-  - [大江千里](https://ja.wikipedia.org/wiki/大江千里_\(アーティスト\) "wikilink")(SME→自主レーベルStation Kids Records)
+  - [大江千里](../Page/大江千里_\(アーティスト\).md "wikilink")(SME→自主レーベルStation Kids Records)
   - [木村カエラ](https://ja.wikipedia.org/wiki/木村カエラ "wikilink")([日本コロムビア](../Page/日本コロムビア.md "wikilink"))
   - FUTABA
   - 古川展生(日本コロムビア)
@@ -27,16 +27,16 @@
 
   - [徳光和夫](../Page/徳光和夫.md "wikilink")（業務提携）
   - [国生さゆり](../Page/国生さゆり.md "wikilink")
-  - [奥田圭子](https://ja.wikipedia.org/wiki/奥田圭子 "wikilink")
+  - [奥田圭子](../Page/奥田圭子.md "wikilink")
   - [渡辺満里奈](../Page/渡辺満里奈.md "wikilink")
   - [ジョン・カビラ](../Page/ジョン・カビラ.md "wikilink")
   - [デーブ大久保](https://ja.wikipedia.org/wiki/デーブ大久保 "wikilink")（業務提携）
-  - [長谷川真弓](https://ja.wikipedia.org/wiki/長谷川真弓_\(女優\) "wikilink")
+  - [長谷川真弓](../Page/長谷川真弓_\(女優\).md "wikilink")
   - [水野裕子](../Page/水野裕子.md "wikilink")
   - [倉科カナ](https://ja.wikipedia.org/wiki/倉科カナ "wikilink")
   - [一條俊](../Page/一條俊.md "wikilink")
   - [茂木淳一](../Page/茂木淳一.md "wikilink")
-  - [松本孝美](https://ja.wikipedia.org/wiki/松本孝美 "wikilink")
+  - [松本孝美](../Page/松本孝美.md "wikilink")
   - [荒川れん子](../Page/荒川れん子.md "wikilink")（フリーアナウンサー）
   - [草薙厚子](../Page/草薙厚子.md "wikilink")（経済ジャーナリスト）
   - [本村由紀子](../Page/本村由紀子.md "wikilink")（フリーアナウンサー）

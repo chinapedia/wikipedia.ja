@@ -1,7 +1,7 @@
 > この記事は[SMA NEET Project](https://ja.wikipedia.org/wiki/SMA_NEET_Project)から翻訳されています。
 
 
-**SMA NEET Project**（エスエムエー・ニート・プロジェクト）は、[2004年](../Page/2004年.md "wikilink")に[ソニー・ミュージックアーティスツ](https://ja.wikipedia.org/wiki/ソニー・ミュージックアーティスツ "wikilink")（SMA）内で立ち上げられた[お笑い芸人のプロジェクトである](../Page/お笑いタレント.md "wikilink")。 [20161016びーちぶED.jpg](https://ja.wikipedia.org/wiki/File:20161016びーちぶED.jpg "fig:20161016びーちぶED.jpg")
+**SMA NEET Project**（エスエムエー・ニート・プロジェクト）は、[2004年](../Page/2004年.md "wikilink")に[ソニー・ミュージックアーティスツ](../Page/ソニー・ミュージックアーティスツ.md "wikilink")（SMA）内で立ち上げられた[お笑い芸人のプロジェクトである](../Page/お笑いタレント.md "wikilink")。 [20161016びーちぶED.jpg](https://ja.wikipedia.org/wiki/File:20161016びーちぶED.jpg "fig:20161016びーちぶED.jpg")
 
 本稿ではSMA NEET Projectをはじめとするライブを行うSMAのお笑い専門の劇場、**Beach V**についても扱う。
 
@@ -24,7 +24,7 @@
   - 番外編STEP
   - 番外編HOP
 
-毎月のライブで原則としてそれぞれのクラスの投票結果で上位5組が昇格し、下位5組が降格となる（解散などがあった場合は昇格枠が増える）。また、タイムオーバーは減点の対象となる。金のタマゴ☆の上位6組はそれぞれのクラスのライブにおいて[MCを務める](https://ja.wikipedia.org/wiki/司会 "wikilink")。
+毎月のライブで原則としてそれぞれのクラスの投票結果で上位5組が昇格し、下位5組が降格となる（解散などがあった場合は昇格枠が増える）。また、タイムオーバーは減点の対象となる。金のタマゴ☆の上位6組はそれぞれのクラスのライブにおいて[MCを務める](../Page/司会.md "wikilink")。
 
 ### 出演条件
 
@@ -91,11 +91,11 @@
 
   - [カンカン](../Page/カンカン_\(お笑い芸人\).md "wikilink")
   - [ハリウッドザコシショウ](../Page/ハリウッドザコシショウ.md "wikilink")
-  - [SAKURAI](https://ja.wikipedia.org/wiki/SAKURAI "wikilink")
+  - [SAKURAI](../Page/SAKURAI.md "wikilink")
   - [えずれひろゆき](https://ja.wikipedia.org/wiki/えずれひろゆき "wikilink")
   - [アキラ100%](https://ja.wikipedia.org/wiki/アキラ100% "wikilink")
   - [コウメ太夫](../Page/コウメ太夫.md "wikilink")
-  - [ウメ](https://ja.wikipedia.org/wiki/ウメ_\(お笑い芸人\) "wikilink")
+  - [ウメ](../Page/ウメ_\(お笑い芸人\).md "wikilink")
   - [しんちゃんず](https://ja.wikipedia.org/wiki/しんちゃんず "wikilink")
   - [アポロ奥村](https://ja.wikipedia.org/wiki/アポロ奥村 "wikilink")
   - [ギフト☆矢野](https://ja.wikipedia.org/wiki/ギフト☆矢野 "wikilink")
@@ -124,7 +124,7 @@
   - [イタリーなかむら](https://ja.wikipedia.org/wiki/イタリーなかむら "wikilink")
   - [ワンダーワダ](https://ja.wikipedia.org/wiki/ワンダーワダ "wikilink")
   - [木村たいき](https://ja.wikipedia.org/wiki/木村たいき "wikilink")
-  - [フランキー為谷](https://ja.wikipedia.org/wiki/フランキー為谷 "wikilink")
+  - [フランキー為谷](../Page/フランキー為谷.md "wikilink")
   - [スコッチ](https://ja.wikipedia.org/wiki/スコッチ_\(お笑い\) "wikilink")
   - [ちぇく田](https://ja.wikipedia.org/wiki/ちぇく田 "wikilink")
   - [ちくわまん](https://ja.wikipedia.org/wiki/YUJI_KOITO "wikilink")
@@ -145,7 +145,7 @@
 
 <!-- end list -->
 
-  - [イヌがニャーと泣いた日](https://ja.wikipedia.org/wiki/イヌがニャーと泣いた日 "wikilink")
+  - [イヌがニャーと泣いた日](../Page/イヌがニャーと泣いた日.md "wikilink")
   - [うえはまだ](https://ja.wikipedia.org/wiki/うえはまだ "wikilink")
   - [エンジョイワ→クス](https://ja.wikipedia.org/wiki/エンジョイワ→クス "wikilink")
   - [お先にどうぞ](https://ja.wikipedia.org/wiki/お先にどうぞ "wikilink")
@@ -214,7 +214,7 @@
 
 <!-- end list -->
 
-  - [枡野浩一](https://ja.wikipedia.org/wiki/枡野浩一 "wikilink")
+  - [枡野浩一](../Page/枡野浩一.md "wikilink")
 
 <!-- end list -->
 
@@ -243,8 +243,8 @@
 
   - [有刺鉄線](https://ja.wikipedia.org/wiki/有刺鉄線_\(お笑い\) "wikilink")
   - [レッドクリスマス](https://ja.wikipedia.org/wiki/レッドクリスマス "wikilink")
-  - [渡辺塾国民学校](https://ja.wikipedia.org/wiki/渡辺塾国民学校 "wikilink")
-  - [鼻エンジン](../Page/鼻エンジン.md "wikilink")（[村田渚](https://ja.wikipedia.org/wiki/村田渚 "wikilink")）
+  - [渡辺塾国民学校](../Page/渡辺塾国民学校.md "wikilink")
+  - [鼻エンジン](../Page/鼻エンジン.md "wikilink")（[村田渚](../Page/村田渚.md "wikilink")）
 
 <!-- end list -->
 
@@ -309,7 +309,7 @@
 <!-- end list -->
 
   -
-    [オフィス北野](https://ja.wikipedia.org/wiki/オフィス北野 "wikilink")を経て、[タイタンに移籍](https://ja.wikipedia.org/wiki/タイタン_\(芸能プロダクション\) "wikilink")
+    [オフィス北野](https://ja.wikipedia.org/wiki/オフィス北野 "wikilink")を経て、[タイタンに移籍](../Page/タイタン_\(芸能プロダクション\).md "wikilink")
 
 <!-- end list -->
 
@@ -397,16 +397,16 @@
 
 <!-- end list -->
 
-  - [響](https://ja.wikipedia.org/wiki/響_\(お笑い\) "wikilink")
+  - [響](../Page/響_\(お笑い\).md "wikilink")
 
 <!-- end list -->
 
   -
-    [ビクターミュージックアーツ](https://ja.wikipedia.org/wiki/ビクターミュージックアーツ "wikilink")に移籍
+    [ビクターミュージックアーツ](../Page/ビクターミュージックアーツ.md "wikilink")に移籍
 
 <!-- end list -->
 
-  - [ヒライケンジ](https://ja.wikipedia.org/wiki/山下真治 "wikilink")
+  - [ヒライケンジ](../Page/山下真治.md "wikilink")
   - [松丘慎吾](../Page/松丘慎吾.md "wikilink")
 
 <!-- end list -->
@@ -447,17 +447,17 @@
 
 ## Beach V
 
-**Beach V**（びーちぶ）は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[豊島区](https://ja.wikipedia.org/wiki/豊島区 "wikilink")[要町](../Page/要町_\(豊島区\).md "wikilink")\[6\]にあるSMA所有の稽古場兼[劇場](../Page/劇場.md "wikilink")である。
+**Beach V**（びーちぶ）は、[東京都](../Page/東京都.md "wikilink")[豊島区](https://ja.wikipedia.org/wiki/豊島区 "wikilink")[要町](../Page/要町_\(豊島区\).md "wikilink")\[6\]にあるSMA所有の稽古場兼[劇場](../Page/劇場.md "wikilink")である。
 
 ### 概要
 
-[2007年](../Page/2007年.md "wikilink")に[地下鉄有楽町線](../Page/東京メトロ有楽町線.md "wikilink")[千川駅](https://ja.wikipedia.org/wiki/千川駅 "wikilink")近くにソニー・ミュージックアーティスツのお笑い部門常打ち[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")としてオープン。
+[2007年](../Page/2007年.md "wikilink")に[地下鉄有楽町線](../Page/東京メトロ有楽町線.md "wikilink")[千川駅](https://ja.wikipedia.org/wiki/千川駅 "wikilink")近くにソニー・ミュージックアーティスツのお笑い部門常打ち[ライブハウス](../Page/ライブハウス.md "wikilink")としてオープン。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に急逝した[村田渚](https://ja.wikipedia.org/wiki/村田渚 "wikilink")の遺志を継いでいこうというコンセプトのもと、「村」=VILLAGEからV、「渚」=Beachと、村田の名を由来としている。
+[2006年](../Page/2006年.md "wikilink")に急逝した[村田渚](../Page/村田渚.md "wikilink")の遺志を継いでいこうというコンセプトのもと、「村」=VILLAGEからV、「渚」=Beachと、村田の名を由来としている。
 
 毎週土日に事務所ライブが行われるほか、平日は芸人主催ライブと、毎日お笑いライブが行われている。
 
-地下へ通じる階段部分に、村田の組んでいた[フォークダンスDE成子坂](https://ja.wikipedia.org/wiki/フォークダンスDE成子坂 "wikilink")単独ライブで使われたイラストが飾られるほか、SMA所属芸人の獲得したトロフィーなどが飾られている。また、[バイきんぐ](https://ja.wikipedia.org/wiki/バイきんぐ "wikilink")が『[キングオブコント](../Page/キングオブコント.md "wikilink")』優勝時には劇場のマットが張り替えられた。
+地下へ通じる階段部分に、村田の組んでいた[フォークダンスDE成子坂](../Page/フォークダンスDE成子坂.md "wikilink")単独ライブで使われたイラストが飾られるほか、SMA所属芸人の獲得したトロフィーなどが飾られている。また、[バイきんぐ](https://ja.wikipedia.org/wiki/バイきんぐ "wikilink")が『[キングオブコント](../Page/キングオブコント.md "wikilink")』優勝時には劇場のマットが張り替えられた。
 
 近隣は住宅街のため、ライブ開催時には毎回、「芸人との待ち合わせは徒歩30秒の駅前（もしくは[三井住友銀行](../Page/三井住友銀行.md "wikilink")前）で」とアナウンスされる。
 

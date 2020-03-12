@@ -1,11 +1,11 @@
 > この記事は[ \(NHK\)](https://ja.wikipedia.org/wiki/_\(NHK\))から翻訳されています。
 
 
-**宗教の時間**（しゅうきょうのじかん）は、[NHKラジオ第2放送](https://ja.wikipedia.org/wiki/NHKラジオ第2放送 "wikilink")で放送されている[宗教番組](https://ja.wikipedia.org/wiki/宗教番組 "wikilink")である。
+**宗教の時間**（しゅうきょうのじかん）は、[NHKラジオ第2放送](../Page/NHKラジオ第2放送.md "wikilink")で放送されている[宗教番組](../Page/宗教番組.md "wikilink")である。
 
 宗教に関する講話を行う、毎回異なる語り手に対して、元NHK宗教番組[チーフディレクターである金光寿郎が聞き手となり](../Page/ディレクター.md "wikilink")、番組が進行する。戦前から放送されていたが、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")激化のため一時休止。[1946年](../Page/1946年.md "wikilink")[1月20日](../Page/1月20日.md "wikilink")に再開し現在に至る。
 
-同名のテレビ番組が、[1962年](../Page/1962年.md "wikilink")[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")から[1982年](../Page/1982年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")まで[NHK教育テレビで放送されていた](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")。現在は「[こころの時代](https://ja.wikipedia.org/wiki/こころの時代 "wikilink")」と改題し、宗教にとどまらない内容で放送中。
+同名のテレビ番組が、[1962年](../Page/1962年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")から[1982年](../Page/1982年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")まで[NHK教育テレビで放送されていた](../Page/NHK教育テレビジョン.md "wikilink")。現在は「[こころの時代](../Page/こころの時代.md "wikilink")」と改題し、宗教にとどまらない内容で放送中。
 
 ## 放送時間
 
@@ -18,7 +18,7 @@
 
 ## 関連項目
 
-  - [こころの時代](https://ja.wikipedia.org/wiki/こころの時代 "wikilink")
+  - [こころの時代](../Page/こころの時代.md "wikilink")
 
 ## 脚注
 

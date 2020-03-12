@@ -13,7 +13,7 @@ ITU-Rは、恒久的な事務局である無線通信局(Radiocommunication Bure
 
 数年に一度[世界無線通信会議](../Page/世界無線通信会議.md "wikilink")(WRC)を開催し、[無線通信規則](https://ja.wikipedia.org/wiki/無線通信規則 "wikilink")(RR：Radiocommunication Rule)を改定する。RRには法的な拘束力があり、[地域により周波数割り当て](https://ja.wikipedia.org/wiki/ITU地域 "wikilink")、帯域幅、[スプリアス](https://ja.wikipedia.org/wiki/スプリアス "wikilink")レベルなどが異なるが、ほぼそのまま各国の法（[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")なら[電波法](../Page/電波法.md "wikilink")）に反映される。
 
-日本国内標準は[電波産業会](https://ja.wikipedia.org/wiki/電波産業会 "wikilink")が取りまとめる。
+日本国内標準は[電波産業会](../Page/電波産業会.md "wikilink")が取りまとめる。
 
 ## 歴史
 

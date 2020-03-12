@@ -7,7 +7,7 @@
 
 1.  **忘れないで**
       -
-        作詞：[吉田美和](https://ja.wikipedia.org/wiki/吉田美和 "wikilink") / 作曲・編曲：[中村正人](https://ja.wikipedia.org/wiki/中村正人 "wikilink")
+        作詞：[吉田美和](../Page/吉田美和.md "wikilink") / 作曲・編曲：[中村正人](https://ja.wikipedia.org/wiki/中村正人 "wikilink")
 2.  **この恋はハードボイルド**
       -
         作詞：吉田美和 / 作曲・編曲：中村正人
@@ -19,7 +19,7 @@
 <!-- end list -->
 
   - [MILLION KISSES](../Page/MILLION_KISSES.md "wikilink") (1991年11月15日)
-  - [BEST OF DREAMS COME TRUE](https://ja.wikipedia.org/wiki/BEST_OF_DREAMS_COME_TRUE "wikilink") (1997年10月1日)
+  - [BEST OF DREAMS COME TRUE](../Page/BEST_OF_DREAMS_COME_TRUE.md "wikilink") (1997年10月1日)
   - [DREAMS COME TRUE THE BEST\! 私のドリカム](https://ja.wikipedia.org/wiki/DREAMS_COME_TRUE_THE_BEST!_私のドリカム "wikilink") (2015年7月7日)
 
 <!-- end list -->

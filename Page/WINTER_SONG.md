@@ -7,7 +7,7 @@
 
   - [DREAMS COME TRUEの作品の中では初めてのマキシシングル](../Page/DREAMS_COME_TRUE.md "wikilink")。
   - 8thシングル「[雪のクリスマス](../Page/雪のクリスマス.md "wikilink")」の英語詩バージョン。
-  - 収録されている2曲は両方ともオリジナルアルバムには収録されていない。なお、「WINTER SONG」のみ、さまざまな[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")などに収録されている。
+  - 収録されている2曲は両方ともオリジナルアルバムには収録されていない。なお、「WINTER SONG」のみ、さまざまな[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")などに収録されている。
   - アメリカ映画「[めぐり逢えたら](../Page/めぐり逢えたら.md "wikilink")」の日本版オープニング・テーマに採用された。
   - ドリカムのCDとしては初めて、ジャケットにドリカムのキャラクターである**ドリクマ**が登場している。
   - 2009年には[エリック・マーティン](../Page/エリック・マーティン.md "wikilink")、[Noa](https://ja.wikipedia.org/wiki/Noa "wikilink")がカヴァーした。
@@ -72,7 +72,7 @@
 
 ## 映像作品
 
-[1994年](../Page/1994年.md "wikilink")[2月14日](../Page/2月14日.md "wikilink")にミュージック・ビデオが収録されたVHSが発売された。[エピックレコードジャパン](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")時代のプロモーションビデオとしては、今作のみ商品化されている状態であったが、2009年12月にデビュー20周年企画の一環として受注生産のみで発売された、20周年アニバーサリー・ブック\&DVDセット「DO YOU REMEMBER 20 YEARS WITH DREAMS COME TRUE?」に今作以外のPVも収録されている。
+[1994年](../Page/1994年.md "wikilink")[2月14日](../Page/2月14日.md "wikilink")にミュージック・ビデオが収録されたVHSが発売された。[エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink")時代のプロモーションビデオとしては、今作のみ商品化されている状態であったが、2009年12月にデビュー20周年企画の一環として受注生産のみで発売された、20周年アニバーサリー・ブック\&DVDセット「DO YOU REMEMBER 20 YEARS WITH DREAMS COME TRUE?」に今作以外のPVも収録されている。
 
 ### 収録曲
 
@@ -81,7 +81,7 @@
 
 ## カバー
 
-  - 2010年に米国フィラデルフィア出身のヴォーカル・グループ[ボーイズIIメン](https://ja.wikipedia.org/wiki/ボーイズIIメン "wikilink")によってカバー
+  - 2010年に米国フィラデルフィア出身のヴォーカル・グループ[ボーイズIIメン](../Page/ボーイズIIメン.md "wikilink")によってカバー
   - 2016年に[土門秀明](https://ja.wikipedia.org/wiki/土門秀明 "wikilink")によってアルバム[Solo Guitar Christmas Timeでカバー](https://ja.wikipedia.org/wiki/Solo_Guitar_Christmas_Time "wikilink")
 
 [Category:DREAMS_COME_TRUEの楽曲](https://ja.wikipedia.org/wiki/Category:DREAMS_COME_TRUEの楽曲 "wikilink") [Category:吉田美和が制作した楽曲](https://ja.wikipedia.org/wiki/Category:吉田美和が制作した楽曲 "wikilink") [Category:1994年のシングル](https://ja.wikipedia.org/wiki/Category:1994年のシングル "wikilink") [Category:1998年のシングル](https://ja.wikipedia.org/wiki/Category:1998年のシングル "wikilink") [Category:1994年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1994年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:映画主題歌](https://ja.wikipedia.org/wiki/Category:映画主題歌 "wikilink") [Category:コマーシャルソング](https://ja.wikipedia.org/wiki/Category:コマーシャルソング "wikilink") [Category:冬を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:冬を題材とした楽曲 "wikilink") [Category:楽曲_う](https://ja.wikipedia.org/wiki/Category:楽曲_う "wikilink")

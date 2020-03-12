@@ -8,7 +8,7 @@
 1.  **Ring\! Ring\! Ring\!**
       -
         (作詞・作曲：吉田美和 / 編曲：中村正人)
-          - 後に3rdアルバムなどに「Ring\! Ring\! Ring\!（S・H・H VERSION）」として収録（ちなみにこの「S.H.H.」とは「少しだけだよ ホント ホント」の略）。シングルバージョンは他に『[BEST OF DREAMS COME TRUE](https://ja.wikipedia.org/wiki/BEST_OF_DREAMS_COME_TRUE "wikilink")』と『[DREAMS COME TRUE THE BEST\! 私のドリカム](https://ja.wikipedia.org/wiki/DREAMS_COME_TRUE_THE_BEST!_私のドリカム "wikilink")』に収録。
+          - 後に3rdアルバムなどに「Ring\! Ring\! Ring\!（S・H・H VERSION）」として収録（ちなみにこの「S.H.H.」とは「少しだけだよ ホント ホント」の略）。シングルバージョンは他に『[BEST OF DREAMS COME TRUE](../Page/BEST_OF_DREAMS_COME_TRUE.md "wikilink")』と『[DREAMS COME TRUE THE BEST\! 私のドリカム](https://ja.wikipedia.org/wiki/DREAMS_COME_TRUE_THE_BEST!_私のドリカム "wikilink")』に収録。
 2.  **戦いの火蓋**
       -
         (作詞：吉田美和 / 作曲・編曲：中村正人)
@@ -21,7 +21,7 @@
 <!-- end list -->
 
   - [WONDER 3](../Page/WONDER_3.md "wikilink") (S･H･H VERSION)
-  - [BEST OF DREAMS COME TRUE](https://ja.wikipedia.org/wiki/BEST_OF_DREAMS_COME_TRUE "wikilink")
+  - [BEST OF DREAMS COME TRUE](../Page/BEST_OF_DREAMS_COME_TRUE.md "wikilink")
   - [DREAMS COME TRUE GREATEST HITS "THE SOUL"](https://ja.wikipedia.org/wiki/DREAMS_COME_TRUE_GREATEST_HITS_"THE_SOUL" "wikilink") (S･H･H VERSION)
   - [DREAMS COME TRUE THE BEST\! 私のドリカム](https://ja.wikipedia.org/wiki/DREAMS_COME_TRUE_THE_BEST!_私のドリカム "wikilink")
 

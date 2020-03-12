@@ -1,7 +1,7 @@
 > この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
 
 
-『**家族A**』（かぞくエー）は、[1994年](../Page/1994年.md "wikilink")[10月13日](https://ja.wikipedia.org/wiki/10月13日 "wikilink")から[12月8日](../Page/12月8日.md "wikilink")に亘って、[TBS系列で放送された連続](../Page/TBSテレビ.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")。毎週木曜22時～。低視聴率のため9回で終了。
+『**家族A**』（かぞくエー）は、[1994年](../Page/1994年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink")から[12月8日](../Page/12月8日.md "wikilink")に亘って、[TBS系列で放送された連続](../Page/TBSテレビ.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")。毎週木曜22時～。低視聴率のため9回で終了。
 
 ## 概要
 
@@ -36,7 +36,7 @@
 
 <!-- end list -->
 
-  - 佐山咲子：[西尾まり](https://ja.wikipedia.org/wiki/西尾まり "wikilink")　
+  - 佐山咲子：[西尾まり](../Page/西尾まり.md "wikilink")　
 
 <!-- end list -->
 
@@ -63,10 +63,10 @@
 
 <!-- end list -->
 
-  - 河村宏城：[井ノ原快彦](https://ja.wikipedia.org/wiki/井ノ原快彦 "wikilink")　
+  - 河村宏城：[井ノ原快彦](../Page/井ノ原快彦.md "wikilink")　
   - 朝永真利花：[古川リカ](https://ja.wikipedia.org/wiki/古川リカ "wikilink")
-  - 竹山浩：[すまけい](https://ja.wikipedia.org/wiki/すまけい "wikilink")　
-  - 高梨美津郎：[川谷拓三](https://ja.wikipedia.org/wiki/川谷拓三 "wikilink")
+  - 竹山浩：[すまけい](../Page/すまけい.md "wikilink")　
+  - 高梨美津郎：[川谷拓三](../Page/川谷拓三.md "wikilink")
 
 <!-- end list -->
 
@@ -84,7 +84,7 @@
 
 <!-- end list -->
 
-  - 本間均：[中野英雄](https://ja.wikipedia.org/wiki/中野英雄 "wikilink")
+  - 本間均：[中野英雄](../Page/中野英雄.md "wikilink")
 
 <!-- end list -->
 

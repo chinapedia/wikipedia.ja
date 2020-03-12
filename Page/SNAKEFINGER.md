@@ -5,7 +5,7 @@
 
 [1992年](../Page/1992年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")に[キューンソニーレコード](https://ja.wikipedia.org/wiki/キューンレコード "wikilink")／トレフォートよりリリースされた。
 
-アルバム『[KARATEKA](https://ja.wikipedia.org/wiki/KARATEKA "wikilink")』と同時リリース。
+アルバム『[KARATEKA](../Page/KARATEKA.md "wikilink")』と同時リリース。
 
 ## 解説
 
@@ -20,7 +20,7 @@
 1.  **スネークフィンガー**
 2.  **カフェ・ド・鬼 (おもしろい顔 Mix)**
       -
-        ファーストアルバム『[FLASH PAPA](../Page/FLASH_PAPA.md "wikilink")』収録曲のリメイク。一部「[人生](https://ja.wikipedia.org/wiki/人生_\(バンド\) "wikilink")」の楽曲から[サンプリング](../Page/サンプリング.md "wikilink")\[4\]している。これ以降、「カフェ・ド・鬼」は何度もリメイクとリミックスが繰り返される事となるが、すべて一貫して「顔」をキーワードとして含むミックス名がつけられている。
+        ファーストアルバム『[FLASH PAPA](../Page/FLASH_PAPA.md "wikilink")』収録曲のリメイク。一部「[人生](../Page/人生_\(バンド\).md "wikilink")」の楽曲から[サンプリング](../Page/サンプリング.md "wikilink")\[4\]している。これ以降、「カフェ・ド・鬼」は何度もリメイクとリミックスが繰り返される事となるが、すべて一貫して「顔」をキーワードとして含むミックス名がつけられている。
 3.  **スネークフィンガー (Progreggae mix)**
       -
         リミックス:[A.I.Sound system](https://ja.wikipedia.org/wiki/A.I.Sound_system "wikilink")

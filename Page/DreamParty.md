@@ -1,7 +1,7 @@
 > この記事は[DreamParty](https://ja.wikipedia.org/wiki/DreamParty)から翻訳されています。
 
 
-**DreamParty**（ドリームパーティー）とは、主に[美少女ゲーム](https://ja.wikipedia.org/wiki/美少女ゲーム "wikilink")を取り扱うキャラクターコンテンツ関連の総合[展示会](https://ja.wikipedia.org/wiki/展覧会 "wikilink")。[2003年](../Page/2003年.md "wikilink")より年2回（春・秋）東京で開催されていたが、「[character1](https://ja.wikipedia.org/wiki/COMIC1 "wikilink")」が開催された影響が非常に大きく、[2013年](../Page/2013年.md "wikilink")秋の開催をもって事実上終了となった\[1\]。なお、大阪でも初開催から9年間行われていたが、こちらも[2012年](../Page/2012年.md "wikilink")秋の開催をもって事実上の終了となった\[2\]。
+**DreamParty**（ドリームパーティー）とは、主に[美少女ゲーム](../Page/美少女ゲーム.md "wikilink")を取り扱うキャラクターコンテンツ関連の総合[展示会](../Page/展覧会.md "wikilink")。[2003年](../Page/2003年.md "wikilink")より年2回（春・秋）東京で開催されていたが、「[character1](../Page/COMIC1.md "wikilink")」が開催された影響が非常に大きく、[2013年](../Page/2013年.md "wikilink")秋の開催をもって事実上終了となった\[1\]。なお、大阪でも初開催から9年間行われていたが、こちらも[2012年](../Page/2012年.md "wikilink")秋の開催をもって事実上の終了となった\[2\]。
 
 ## 概要
 
@@ -31,7 +31,7 @@
 
 ## 入場方法
 
-いずれのエリアも有料となっており、入場の際に入場証[パンフレット](https://ja.wikipedia.org/wiki/パンフレット "wikilink")の提示が必要。基本は当日朝からは場外、開会後は場内にそれぞれ設置されたパンフレット販売所にて、現金もしくは前売券で購入・引き換えを行う。コスプレをする参加者は、別途コスプレ参加証を購入する必要がある。
+いずれのエリアも有料となっており、入場の際に入場証[パンフレット](../Page/パンフレット.md "wikilink")の提示が必要。基本は当日朝からは場外、開会後は場内にそれぞれ設置されたパンフレット販売所にて、現金もしくは前売券で購入・引き換えを行う。コスプレをする参加者は、別途コスプレ参加証を購入する必要がある。
 
 開催時に徹夜組が多く、それに対する様々な対策用経費がかなり掛かるため、2007東京秋より導入された一般待機列より優先的に入場できる権利を持ち入場順が前になるほど値段が高くなる「アーリーチケット」が発売されている。
 
@@ -52,11 +52,11 @@
 イベント運営に協力するスポンサー企業、広域サイト表記順
 
   - [ケロQ](../Page/ケロQ.md "wikilink")
-  - [ジェリーフィッシュ (ゲームメーカー)](https://ja.wikipedia.org/wiki/ジェリーフィッシュ_\(ゲームメーカー\) "wikilink")
+  - [ジェリーフィッシュ (ゲームメーカー)](../Page/ジェリーフィッシュ_\(ゲームメーカー\).md "wikilink")
   - シューティングスター\[4\]（ドリパオフィシャルグッズ及びSIESTA等PCゲームブランドの販売・広報）
   - [Purple software](../Page/Purple_software.md "wikilink")
-  - [枕 (ゲームブランド)](https://ja.wikipedia.org/wiki/枕_\(ゲームブランド\) "wikilink")
-  - [Lump of Sugar](https://ja.wikipedia.org/wiki/Lump_of_Sugar "wikilink")
+  - [枕 (ゲームブランド)](../Page/枕_\(ゲームブランド\).md "wikilink")
+  - [Lump of Sugar](../Page/Lump_of_Sugar.md "wikilink")
   - [アリスソフト](../Page/アリスソフト.md "wikilink")
 
 ## DreamPartyのその後

@@ -37,7 +37,7 @@
 
   - [アリュナ・ダンダン](https://ja.wikipedia.org/wiki/アリュナ・ダンダン "wikilink") 1995-2000
 
-  - [ディディエ・ゾコラ](https://ja.wikipedia.org/wiki/ディディエ・ゾコラ "wikilink") 1999-2000
+  - [ディディエ・ゾコラ](../Page/ディディエ・ゾコラ.md "wikilink") 1999-2000
 
   - [バカリ・コネ](https://ja.wikipedia.org/wiki/バカリ・コネ "wikilink") 1999-2002, 2016-
 
@@ -45,7 +45,7 @@
 
   - [コロ・トゥーレ](../Page/コロ・トゥーレ.md "wikilink") 1999-2002
 
-  - [ヤヤ・トゥーレ](https://ja.wikipedia.org/wiki/ヤヤ・トゥーレ "wikilink") 2000-2001
+  - [ヤヤ・トゥーレ](../Page/ヤヤ・トゥーレ.md "wikilink") 2000-2001
 
   - [エマニュエル・エブエ](../Page/エマニュエル・エブエ.md "wikilink") 2001-2002
 

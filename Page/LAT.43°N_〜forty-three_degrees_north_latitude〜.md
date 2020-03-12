@@ -12,7 +12,7 @@
 2.  **サンタと天使が笑う夜**
       -
         (作詞：吉田美和 / 作曲：中村正人, 吉田美和 / 編曲：中村正人)
-          - ドリカム初のクリスマスソング。初の吉田美和と中村正人の共同作曲による曲である。後に歌詞を英語に改め「VERY MERRY CHRISTMAS」として、シングル「[雪のクリスマス](https://ja.wikipedia.org/wiki/雪のクリスマス "wikilink")」に収録。
+          - ドリカム初のクリスマスソング。初の吉田美和と中村正人の共同作曲による曲である。後に歌詞を英語に改め「VERY MERRY CHRISTMAS」として、シングル「[雪のクリスマス](../Page/雪のクリスマス.md "wikilink")」に収録。
 
 ## 収録アルバム
 
@@ -21,7 +21,7 @@
 <!-- end list -->
 
   - [LOVE GOES ON…](../Page/LOVE_GOES_ON….md "wikilink")
-  - [BEST OF DREAMS COME TRUE](https://ja.wikipedia.org/wiki/BEST_OF_DREAMS_COME_TRUE "wikilink")
+  - [BEST OF DREAMS COME TRUE](../Page/BEST_OF_DREAMS_COME_TRUE.md "wikilink")
   - [DREAMS COME TRUE GREATEST HITS "THE SOUL"](https://ja.wikipedia.org/wiki/DREAMS_COME_TRUE_GREATEST_HITS_"THE_SOUL" "wikilink")
   - [DREAMAGE-DREAMS COME TRUE “LOVE BALLAD COLLECTION”](../Page/DREAMAGE-DREAMS_COME_TRUE_“LOVE_BALLAD_COLLECTION”.md "wikilink") (strings remix version)
   - [DREAMS COME TRUE THE BEST\! 私のドリカム](https://ja.wikipedia.org/wiki/DREAMS_COME_TRUE_THE_BEST!_私のドリカム "wikilink")

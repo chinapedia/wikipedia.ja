@@ -5,7 +5,7 @@
 
 ## 概要
 
-主に[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中の[ナチス・ドイツ軍において使用された](https://ja.wikipedia.org/wiki/ドイツ国防軍 "wikilink")。その出自はやや特殊で、[オートバイ](../Page/オートバイ.md "wikilink")ではあるが[サイドカー](../Page/サイドカー.md "wikilink")の装着を前提としている。サイドカー側の車輪もレバーで駆動させることができる「パートタイム二輪駆動」構造になっていて、不整地走破性能は当時のサイドカー付きオートバイとしては、非常に高いものであった。
+主に[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中の[ナチス・ドイツ軍において使用された](../Page/ドイツ国防軍.md "wikilink")。その出自はやや特殊で、[オートバイ](../Page/オートバイ.md "wikilink")ではあるが[サイドカー](../Page/サイドカー.md "wikilink")の装着を前提としている。サイドカー側の車輪もレバーで駆動させることができる「パートタイム二輪駆動」構造になっていて、不整地走破性能は当時のサイドカー付きオートバイとしては、非常に高いものであった。
 
 戦後、本車両のデザイン、二輪駆動構造を模倣・参考にした[ソ連](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")-[ロシア](../Page/ロシア.md "wikilink")製「[IMZ・ウラル](../Page/IMZ・ウラル.md "wikilink")」や、現[ウクライナ](../Page/ウクライナ.md "wikilink")製「[KMZ-DNEPR](https://ja.wikipedia.org/wiki/IMZ・ウラル#KMZ-DNEPR（ドニエプル） "wikilink")」が現在でも製造されている。また、戦後の[東ドイツでは](../Page/ドイツ民主共和国.md "wikilink")、本車のエンジン改良型[「AWO-700」](http://www.wehrmachtsgespann.de/emw.htm)というサイドカーも製造されていた。
 

@@ -16,8 +16,8 @@
 ## 出演
 
   - 不定期リポーター
-      - [高原兄](https://ja.wikipedia.org/wiki/高原兄 "wikilink")
-      - [ハイキングウォーキング](https://ja.wikipedia.org/wiki/ハイキングウォーキング "wikilink")
+      - [高原兄](../Page/高原兄.md "wikilink")
+      - [ハイキングウォーキング](../Page/ハイキングウォーキング.md "wikilink")
       - [コンプレッサー](https://ja.wikipedia.org/wiki/コンプレッサー_\(マジシャン\) "wikilink")
 
 ## 備考
@@ -36,6 +36,6 @@
 
 [Category:富山テレビ放送の番組](https://ja.wikipedia.org/wiki/Category:富山テレビ放送の番組 "wikilink") [Category:東海・北陸地方のテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:東海・北陸地方のテレビの情報・ワイドショー番組 "wikilink") [Category:日本のドキュメンタリー番組](https://ja.wikipedia.org/wiki/Category:日本のドキュメンタリー番組 "wikilink") [Category:東海・北陸地方のバラエティ番組](https://ja.wikipedia.org/wiki/Category:東海・北陸地方のバラエティ番組 "wikilink") [Category:1999年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1999年のテレビ番組_\(日本\) "wikilink")
 
-1.  なお、『とやま物語』に関しては[2012年](../Page/2012年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2013年](../Page/2013年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで『[BBTスーパーニュース](https://ja.wikipedia.org/wiki/BBTスーパーニュース "wikilink")』の1コーナーとして毎週[金曜日](../Page/金曜日.md "wikilink")に放送されていた。期間限定かつ番組内の1コーナーながらも13年ぶりの復活となった。
+1.  なお、『とやま物語』に関しては[2012年](../Page/2012年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2013年](../Page/2013年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで『[BBTスーパーニュース](../Page/BBTスーパーニュース.md "wikilink")』の1コーナーとして毎週[金曜日](../Page/金曜日.md "wikilink")に放送されていた。期間限定かつ番組内の1コーナーながらも13年ぶりの復活となった。
 2.  [番組公式Twitterでの告知(1)](https://twitter.com/cxnepleague/status/576393278150463488)・[番組公式Twitterでの告知(2)](https://twitter.com/cxnepleague/status/576394490765692928) - いずれも2015年3月16日閲覧。
 3.  『北日本新聞』2019年10月8日付30面テレビ欄より。

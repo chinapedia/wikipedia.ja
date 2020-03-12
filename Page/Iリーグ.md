@@ -1,13 +1,13 @@
 > この記事は[I](https://ja.wikipedia.org/wiki/I)から翻訳されています。
 
 
-**Iリーグ**（）は、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")に発足した[インド](../Page/インド.md "wikilink")のプロ[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")リーグである。[インディアン・スーパーリーグ](https://ja.wikipedia.org/wiki/インディアン・スーパーリーグ "wikilink")とは別組織。
+**Iリーグ**（）は、[2007年](../Page/2007年.md "wikilink")に発足した[インド](../Page/インド.md "wikilink")のプロ[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")リーグである。[インディアン・スーパーリーグ](https://ja.wikipedia.org/wiki/インディアン・スーパーリーグ "wikilink")とは別組織。
 
 ## 概要
 
 インドにおけるサッカー競技のトップリーグは、1996年から2007年まで実施された[NFL](https://ja.wikipedia.org/wiki/ナショナル・フットボール・リーグ_\(インド\) "wikilink")（）であった。しかし2007-08シーズンに、インド初のプロリーグとしてIリーグが誕生した。
 
-Iリーグ優勝チーム及び[フェデレーションカップ優勝チームには](https://ja.wikipedia.org/wiki/フェデレーションカップ_\(インド\) "wikilink")[AFCカップ](https://ja.wikipedia.org/wiki/AFCカップ "wikilink")出場権が与えられる。[AFCチャンピオンズリーグ](../Page/AFCチャンピオンズリーグ.md "wikilink")プレーオフ出場権が与えられるが、2012年・2013年大会は参加枠が与えられなかった\[1\]。[2014年大会では](https://ja.wikipedia.org/wiki/AFCチャンピオンズリーグ2014 "wikilink")、クラブライセンス要件を満たしたクラブの中で最上位となったプネーFCにプレーオフ出場権が与えられる。
+Iリーグ優勝チーム及び[フェデレーションカップ優勝チームには](https://ja.wikipedia.org/wiki/フェデレーションカップ_\(インド\) "wikilink")[AFCカップ](../Page/AFCカップ.md "wikilink")出場権が与えられる。[AFCチャンピオンズリーグ](../Page/AFCチャンピオンズリーグ.md "wikilink")プレーオフ出場権が与えられるが、2012年・2013年大会は参加枠が与えられなかった\[1\]。[2014年大会では](https://ja.wikipedia.org/wiki/AFCチャンピオンズリーグ2014 "wikilink")、クラブライセンス要件を満たしたクラブの中で最上位となったプネーFCにプレーオフ出場権が与えられる。
 
 ## 2019-20シーズン所属クラブ
 
@@ -22,7 +22,7 @@ Iリーグ優勝チーム及び[フェデレーションカップ優勝チーム
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/アイゾールFC" title="wikilink">アイゾール</a></p></td>
+<td><p><a href="../Page/アイゾールFC.md" title="wikilink">アイゾール</a></p></td>
 <td><p><a href="../Page/アイゾール.md" title="wikilink">アイゾール</a></p></td>
 <td><p>Rajiv Gandhi Stadium<br />
 Paljor Stadium</p></td>
@@ -30,8 +30,8 @@ Paljor Stadium</p></td>
 Paljor Stadium:30,000</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/チェンナイ・シティFC" title="wikilink">チェンナイ・シティ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/コーヤンブットゥール" title="wikilink">コーヤンブットゥール</a></p></td>
+<td><p><a href="../Page/チェンナイ・シティFC.md" title="wikilink">チェンナイ・シティ</a></p></td>
+<td><p><a href="../Page/コーヤンブットゥール.md" title="wikilink">コーヤンブットゥール</a></p></td>
 <td><p>Jawaharlal Nehru Stadium<br />
 Nehru Stadium Coimbatore</p></td>
 <td><p>Jawaharlal Nehru Stadium:40,000<br />
@@ -59,7 +59,7 @@ Kalyani Stadium:20,000</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ゴクラムFC" title="wikilink">ゴクラム</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/コーリコード" title="wikilink">コーリコード</a></p></td>
+<td><p><a href="../Page/コーリコード.md" title="wikilink">コーリコード</a></p></td>
 <td><p>EMS Stadium</p></td>
 <td><p>30,000</p></td>
 </tr>
@@ -77,8 +77,8 @@ Kalinga Stadium:50,000<br />
 Barabati Stadium:45,000</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/パンジャーブFC" title="wikilink">ミネルヴァ・パンジャーブ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ルディヤーナー" title="wikilink">ルディヤーナー</a></p></td>
+<td><p><a href="../Page/パンジャーブFC.md" title="wikilink">ミネルヴァ・パンジャーブ</a></p></td>
+<td><p><a href="../Page/ルディヤーナー.md" title="wikilink">ルディヤーナー</a></p></td>
 <td><p>Guru Nanak Stadium<br />
 Tau Devi Lal Stadiumなど</p></td>
 <td><p>Guru Nanak Stadium:15,000<br />
@@ -97,12 +97,12 @@ Mohun Bagan Ground:22,000</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/NEROCA_FC" title="wikilink">NEROCA</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/インパール" title="wikilink">インパール</a></p></td>
+<td><p><a href="../Page/インパール.md" title="wikilink">インパール</a></p></td>
 <td><p>Khuman Lampak Main Stadium</p></td>
 <td><p>35,000</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/レアル・カシミールFC" title="wikilink">レアル・カシミール</a></p></td>
+<td><p><a href="../Page/レアル・カシミールFC.md" title="wikilink">レアル・カシミール</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/スリナガル" title="wikilink">スリナガル</a></p></td>
 <td><p>TRC Polo Synthetic Turf Ground<br />
 Ambedkar Stadium</p></td>
@@ -110,7 +110,7 @@ Ambedkar Stadium</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/TRAU・FC" title="wikilink">TRAU</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/インパール" title="wikilink">インパール</a></p></td>
+<td><p><a href="../Page/インパール.md" title="wikilink">インパール</a></p></td>
 <td><p>Khuman Lampak Main Stadium</p></td>
 <td></td>
 </tr>
@@ -270,21 +270,21 @@ Ambedkar Stadium</p></td>
 </tr>
 <tr class="even">
 <td><p>2016-17</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アイゾールFC" title="wikilink">アイゾールFC</a> (1)</p></td>
+<td><p><a href="../Page/アイゾールFC.md" title="wikilink">アイゾールFC</a> (1)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/モフン・バガンAC" title="wikilink">モフン・バガンAC</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/イースト・ベンガルFC" title="wikilink">イースト・ベンガルFC</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2017-18</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/パンジャーブFC" title="wikilink">ミネルヴァ・パンジャーブFC</a> (1)</p></td>
+<td><p><a href="../Page/パンジャーブFC.md" title="wikilink">ミネルヴァ・パンジャーブFC</a> (1)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ネロカFC" title="wikilink">ネロカFC</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/モフン・バガンAC" title="wikilink">モフン・バガンAC</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2018-19</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/チェンナイ・シティFC" title="wikilink">チェンナイ・シティFC</a> (1)</p></td>
+<td><p><a href="../Page/チェンナイ・シティFC.md" title="wikilink">チェンナイ・シティFC</a> (1)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/イースト・ベンガルFC" title="wikilink">イースト・ベンガルFC</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レアル・カシミールFC" title="wikilink">レアル・カシミールFC</a></p></td>
+<td><p><a href="../Page/レアル・カシミールFC.md" title="wikilink">レアル・カシミールFC</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -363,7 +363,7 @@ Ambedkar Stadium</p></td>
 ## 関連項目
 
   - [世界のサッカー](../Page/世界のサッカー.md "wikilink")
-  - [日本国外のリーグに所属する日本人サッカー選手一覧](https://ja.wikipedia.org/wiki/日本国外のリーグに所属する日本人サッカー選手一覧 "wikilink")
+  - [日本国外のリーグに所属する日本人サッカー選手一覧](../Page/日本国外のリーグに所属する日本人サッカー選手一覧.md "wikilink")
   - [インディアン・スーパーリーグ](https://ja.wikipedia.org/wiki/インディアン・スーパーリーグ "wikilink")（Iリーグとは別に行われるインドのサッカー大会）
 
 ## 外部リンク

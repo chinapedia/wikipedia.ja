@@ -1,7 +1,7 @@
 > この記事は[Oniki Yuji](https://ja.wikipedia.org/wiki/Oniki_Yuji)から翻訳されています。
 
 
-**Yuji Oniki**（オニキ・ユウジ　鬼木雄二、[1967年](../Page/1967年.md "wikilink")[7月28日](../Page/7月28日.md "wikilink") - ）は[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")[マンハッタン](../Page/マンハッタン.md "wikilink")出身の[日系](https://ja.wikipedia.org/wiki/日系 "wikilink")[アメリカ人](https://ja.wikipedia.org/wiki/アメリカ合衆国#国民 "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")である。
+**Yuji Oniki**（オニキ・ユウジ　鬼木雄二、[1967年](../Page/1967年.md "wikilink")[7月28日](../Page/7月28日.md "wikilink") - ）は[ニューヨーク](../Page/ニューヨーク.md "wikilink")[マンハッタン](../Page/マンハッタン.md "wikilink")出身の[日系](https://ja.wikipedia.org/wiki/日系 "wikilink")[アメリカ人](https://ja.wikipedia.org/wiki/アメリカ合衆国#国民 "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")である。
 
 ## ディスコグラフィー
 
@@ -100,7 +100,7 @@
 
 ## 関連項目
 
-  - [ROVO](https://ja.wikipedia.org/wiki/ROVO "wikilink")
+  - [ROVO](../Page/ROVO.md "wikilink")
   - [SAKANA](https://ja.wikipedia.org/wiki/SAKANA "wikilink")
 
 ## 外部リンク

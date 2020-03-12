@@ -1,17 +1,17 @@
 > この記事は[ SUPER QUEEN](https://ja.wikipedia.org/wiki/_SUPER_QUEEN)から翻訳されています。
 
 
-『**女帝 SUPER QUEEN**』（じょてい スーパークイーン）は、[倉科遼](https://ja.wikipedia.org/wiki/倉科遼 "wikilink")原作、[和気一作](https://ja.wikipedia.org/wiki/和気一作 "wikilink")作画による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")である。[芳文社](https://ja.wikipedia.org/wiki/芳文社 "wikilink")発行の[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")「[週刊漫画TIMES](https://ja.wikipedia.org/wiki/週刊漫画TIMES "wikilink")」に連載された。単行本は全24巻。後に刊行された愛蔵版や廉価版では、副題をつけずにタイトルを『**女帝**』としている。
+『**女帝 SUPER QUEEN**』（じょてい スーパークイーン）は、[倉科遼](../Page/倉科遼.md "wikilink")原作、[和気一作](https://ja.wikipedia.org/wiki/和気一作 "wikilink")作画による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")である。[芳文社](../Page/芳文社.md "wikilink")発行の[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")「[週刊漫画TIMES](../Page/週刊漫画TIMES.md "wikilink")」に連載された。単行本は全24巻。後に刊行された愛蔵版や廉価版では、副題をつけずにタイトルを『**女帝**』としている。
 
-本稿では、これを原作とした[2000年](../Page/2000年.md "wikilink")公開の映画、ならびに[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")に[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")[系列で放送された](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")についても併せてここで扱う。
+本稿では、これを原作とした[2000年](../Page/2000年.md "wikilink")公開の映画、ならびに[2007年](../Page/2007年.md "wikilink")に[テレビ朝日](../Page/テレビ朝日.md "wikilink")[系列で放送された](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")についても併せてここで扱う。
 
 ## 概要
 
 主人公・**立花彩香**がホステスとして様々な修羅場をくぐりぬけながら成長し、後に「銀座の女帝」と呼ばれるようになるまでの半生を描いた物語。「女帝シリーズ」の第1作。2000年に[小沢真珠](../Page/小沢真珠.md "wikilink")主演で映画化され、2007年には[加藤ローサ](https://ja.wikipedia.org/wiki/加藤ローサ "wikilink")主演でテレビドラマ化もされた。2011年には韓国でもテレビドラマ化されている。
 
-原作者・[倉科遼](https://ja.wikipedia.org/wiki/倉科遼 "wikilink")はそれまで男性を主人公とした作品を多く手がけていたが、「女性が描きたい\!」という思いから始まったのが本作であり、それだけに思い入れが強いという\[1\]。
+原作者・[倉科遼](../Page/倉科遼.md "wikilink")はそれまで男性を主人公とした作品を多く手がけていたが、「女性が描きたい\!」という思いから始まったのが本作であり、それだけに思い入れが強いという\[1\]。
 
-本作終了後、掲載誌を[日本文芸社](https://ja.wikipedia.org/wiki/日本文芸社 "wikilink")発行の「[週刊漫画ゴラク](../Page/週刊漫画ゴラク.md "wikilink")」に移して彩香の娘・明日香を主人公とした続編『[女帝 花舞](https://ja.wikipedia.org/wiki/女帝_花舞 "wikilink")』が執筆され、番外編として『女帝 花舞 京ふたり』も執筆された。また、本作とストーリー上の繋がりはないが水商売の世界で「女帝」を目指していくホステスを主人公とした『[女帝 薫子](https://ja.wikipedia.org/wiki/女帝_薫子 "wikilink")』（集英社「[ビジネスジャンプ](https://ja.wikipedia.org/wiki/ビジネスジャンプ "wikilink")」連載）、『[女帝 由奈](https://ja.wikipedia.org/wiki/女帝_由奈 "wikilink")』（小学館「[女性セブン](https://ja.wikipedia.org/wiki/女性セブン "wikilink")」連載、作画は[黒川あづさ](https://ja.wikipedia.org/wiki/黒川あづさ "wikilink")）も執筆されたことで、本作を含めこれらの作品群は「女帝シリーズ」という呼称が用いられるようになった。シリーズ累計は『由奈』が執筆された時点で250万部を突破している\[2\]。
+本作終了後、掲載誌を[日本文芸社](../Page/日本文芸社.md "wikilink")発行の「[週刊漫画ゴラク](../Page/週刊漫画ゴラク.md "wikilink")」に移して彩香の娘・明日香を主人公とした続編『[女帝 花舞](https://ja.wikipedia.org/wiki/女帝_花舞 "wikilink")』が執筆され、番外編として『女帝 花舞 京ふたり』も執筆された。また、本作とストーリー上の繋がりはないが水商売の世界で「女帝」を目指していくホステスを主人公とした『[女帝 薫子](https://ja.wikipedia.org/wiki/女帝_薫子 "wikilink")』（集英社「[ビジネスジャンプ](../Page/ビジネスジャンプ.md "wikilink")」連載）、『[女帝 由奈](https://ja.wikipedia.org/wiki/女帝_由奈 "wikilink")』（小学館「[女性セブン](../Page/女性セブン.md "wikilink")」連載、作画は[黒川あづさ](https://ja.wikipedia.org/wiki/黒川あづさ "wikilink")）も執筆されたことで、本作を含めこれらの作品群は「女帝シリーズ」という呼称が用いられるようになった。シリーズ累計は『由奈』が執筆された時点で250万部を突破している\[2\]。
 
 現在、[あだちつよし](https://ja.wikipedia.org/wiki/あだちつよし "wikilink")作画によるシリーズ第5作『[女帝NEO 美希](https://ja.wikipedia.org/wiki/女帝NEO_美希 "wikilink")』が携帯電話などの電子配信コミックとして配信されている。
 
@@ -29,7 +29,7 @@
   - 伊達直人
     彩香を支える運命の男。原作漫画とドラマでは設定が全く異なる。大阪の暴力団（原作では菱和会傘下「室戸組」、ドラマ版では「銀龍会」）のヤクザで、女をナンパして売り飛ばす人身売買のような仕事をしていた。彩香に近付き、最初はいつも通り金を引き出させようとするが、純粋で一本気の性格と「女帝になる」という意思の強さに次第に惹かれ、彼女の夢を応援するとともに自分も極道界の頂点に立つ事を誓う。
     原作では、対立する組長を射殺し逮捕。5年後出所しナミ興産の専務として現れる。銀座に新クラブ設立し彩香をママとしてスカウトしに現れる。その後、昌代に刺されたり、菱和会の若頭権藤の関東の大翔組をも巻き込んだ陰謀で暗殺されそうになるが、改心した薫と彩香の機転によって陰謀が明るみに出て、権藤を倒し、菱和会の新会長となり、大翔組と円満に手打ちをする。
-    ドラマ版では彩香を救うために銀龍会から追われる立場となり、大阪を離れてヤクザの世界から脚を洗う。銀座で佐和に拾われ、クラブ「佐和」の黒服として再スタートする。時には厳しく、また時には優しく、様々な場面で女帝を目指す彩香を助け、支える。だが、クラブ「佐和」の黒服となった頃から[脳腫瘍](https://ja.wikipedia.org/wiki/脳腫瘍 "wikilink")に侵されており、彩香を悲しませないようにわざと冷たく接していた。その後、尾上が記者会見で彩香の父親だと名乗りを上げたのを見届けて黒服を辞めた。最期の死に場所として選んだ[下田の貸し別荘で](../Page/下田市.md "wikilink")、残されたわずかな時間を彩香と過ごすが、彩香が娘・明日香を身ごもったのと入れ替わるかのように死を迎える。キレると大阪弁になるという癖がある。原作の進藤英二の役柄も兼ねている。
+    ドラマ版では彩香を救うために銀龍会から追われる立場となり、大阪を離れてヤクザの世界から脚を洗う。銀座で佐和に拾われ、クラブ「佐和」の黒服として再スタートする。時には厳しく、また時には優しく、様々な場面で女帝を目指す彩香を助け、支える。だが、クラブ「佐和」の黒服となった頃から[脳腫瘍](../Page/脳腫瘍.md "wikilink")に侵されており、彩香を悲しませないようにわざと冷たく接していた。その後、尾上が記者会見で彩香の父親だと名乗りを上げたのを見届けて黒服を辞めた。最期の死に場所として選んだ[下田の貸し別荘で](../Page/下田市.md "wikilink")、残されたわずかな時間を彩香と過ごすが、彩香が娘・明日香を身ごもったのと入れ替わるかのように死を迎える。キレると大阪弁になるという癖がある。原作の進藤英二の役柄も兼ねている。
   - 北條梨奈
     彩香の高校時代の同級生で、貧乏ながらも才色兼備な彩香を当時から見下し、敵視している。父は民生党の[代議士](https://ja.wikipedia.org/wiki/代議士 "wikilink")・北條照盛。政略結婚した謙一を[総理大臣にして](https://ja.wikipedia.org/wiki/内閣総理大臣 "wikilink")、自分がファーストレディになるという青写真を持つ。様々な場面で彩香を執拗なまでに罵り、嫌がらせをする。薫に倒産した父の建設会社を救うとけしかけたり、尾上が保証人となって、クラブ「彩香」の開店資金を不正融資をしているというスキャンダルを民主新生党の議員・袴田に体を売ってまででっち上げさせたりと、彩香を陥れるためにはいかなる手段も選ばず、男を利用し寝ることすら躊躇わない。傲慢かつ冷酷な性格であるが、謙一に対しての愛情は本物で、彩香に対して全ての面で負けたと悟った時は離婚しようと弱気になったが、彩香が仲裁に入った事で謙一とやり直すことにした。原作では自分が政界の『女帝』に君臨する事をもくろんでいた。
     また彩香に対しては、生まれと境遇以外では負けている事を苦労知らずのお嬢様である梨奈自身が一番分かっていたので、その反動から過剰に敵視していた。また謙一らからは、男なら政治家を目指せるほどの度量がある半面、勝気すぎると評されていた。
@@ -183,26 +183,26 @@
 ### キャスト
 
   - 立花彩香 - [小沢真珠](../Page/小沢真珠.md "wikilink")
-  - 伊達直人 - [高知東生](https://ja.wikipedia.org/wiki/高知東生 "wikilink")
-  - 麻生麗子 - [川嶋朋子](https://ja.wikipedia.org/wiki/川嶋朋子 "wikilink")
-  - 「エレガンス」のママ - [南麻衣子](https://ja.wikipedia.org/wiki/南麻衣子 "wikilink")
-  - 「エレガンス」のホステス - [島田沙羅](https://ja.wikipedia.org/wiki/島田沙羅 "wikilink")
+  - 伊達直人 - [高知東生](../Page/高知東生.md "wikilink")
+  - 麻生麗子 - [川嶋朋子](../Page/川嶋朋子.md "wikilink")
+  - 「エレガンス」のママ - [南麻衣子](../Page/南麻衣子.md "wikilink")
+  - 「エレガンス」のホステス - [島田沙羅](../Page/島田沙羅.md "wikilink")
   - 北条梨奈 - [宮澤美保](https://ja.wikipedia.org/wiki/宮澤美保 "wikilink")
   - 斎藤美咲 - [細田睦包](https://ja.wikipedia.org/wiki/細田睦包 "wikilink")
   - 直人の弟分 - [薬師寺保栄](https://ja.wikipedia.org/wiki/薬師寺保栄 "wikilink")
   - 杉野謙一 - [高嶋秀年](https://ja.wikipedia.org/wiki/高嶋秀年 "wikilink")
-  - 「エレガンス」の店長 - [大森うたえもん](https://ja.wikipedia.org/wiki/大森うたえもん "wikilink")
+  - 「エレガンス」の店長 - [大森うたえもん](../Page/大森うたえもん.md "wikilink")
   - 順子ママ - [田村順子](https://ja.wikipedia.org/wiki/田村順子 "wikilink")
-  - 直人たちのターゲット - [山口剛](https://ja.wikipedia.org/wiki/アンドレ_\(俳優\) "wikilink")
+  - 直人たちのターゲット - [山口剛](../Page/アンドレ_\(俳優\).md "wikilink")
   - 麗子の男 - [上野淳](https://ja.wikipedia.org/wiki/上野淳 "wikilink")
   - チンピラ - [佐和タカシ](https://ja.wikipedia.org/wiki/佐和タカシ "wikilink")
   - 彩香を襲うチンピラ - [田口洋](https://ja.wikipedia.org/wiki/田口洋 "wikilink")
   - スナック「麻里子」の常連客 - [宮川大助](https://ja.wikipedia.org/wiki/宮川大助 "wikilink")
   - スナック「麻里子」のママ - [宮川花子](https://ja.wikipedia.org/wiki/宮川花子 "wikilink")
-  - 杉野謙造（謙一の父） - [片桐竜次](https://ja.wikipedia.org/wiki/片桐竜次 "wikilink")
-  - 篠原徳治（五条烏丸会若頭） - [菅田俊](https://ja.wikipedia.org/wiki/菅田俊 "wikilink")
+  - 杉野謙造（謙一の父） - [片桐竜次](../Page/片桐竜次.md "wikilink")
+  - 篠原徳治（五条烏丸会若頭） - [菅田俊](../Page/菅田俊.md "wikilink")
   - 美濃村達吉（ミナミの妖怪） - [ミッキー・カーチス](../Page/ミッキー・カーチス.md "wikilink")
-  - 立花まりこ（彩香の母） - [多岐川裕美](https://ja.wikipedia.org/wiki/多岐川裕美 "wikilink")
+  - 立花まりこ（彩香の母） - [多岐川裕美](../Page/多岐川裕美.md "wikilink")
 
 ### スタッフ
 
@@ -210,7 +210,7 @@
   - 製作総指揮 - 矢野生男
   - 製作 - 中坊進二
   - プロデュース - 岡田晃知、半沢浩
-  - 脚本 - [吉本昌弘](https://ja.wikipedia.org/wiki/吉本昌弘 "wikilink")
+  - 脚本 - [吉本昌弘](../Page/吉本昌弘.md "wikilink")
   - 監督 - [金澤克次](../Page/金澤克次.md "wikilink")
   - 音楽 - [野島健太郎](https://ja.wikipedia.org/wiki/野島健太郎 "wikilink")
   - ガンエフェクト - [栩野幸知](../Page/栩野幸知.md "wikilink")
@@ -220,26 +220,26 @@
 
 ## 2007年のテレビドラマ
 
-『**女帝**』（じょてい）の番組タイトルで、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[7月13日](../Page/7月13日.md "wikilink")から[9月14日](../Page/9月14日.md "wikilink")まで、[朝日放送](../Page/朝日放送テレビ.md "wikilink")・テレビ朝日の共同制作により、[テレビ朝日系列で毎週金曜日](../Page/オールニッポン・ニュースネットワーク.md "wikilink")21:00 - 21:54にの連続テレビドラマ作品として放送された。
+『**女帝**』（じょてい）の番組タイトルで、[2007年](../Page/2007年.md "wikilink")[7月13日](../Page/7月13日.md "wikilink")から[9月14日](../Page/9月14日.md "wikilink")まで、[朝日放送](../Page/朝日放送テレビ.md "wikilink")・テレビ朝日の共同制作により、[テレビ朝日系列で毎週金曜日](../Page/オールニッポン・ニュースネットワーク.md "wikilink")21:00 - 21:54にの連続テレビドラマ作品として放送された。
 
-劇中ナレーションは[大森章督](https://ja.wikipedia.org/wiki/大森章督 "wikilink")が担当している。原作とドラマでは登場人物の設定、ストーリーの展開などで大きく異なっている部分が多い。
+劇中ナレーションは[大森章督](../Page/大森章督.md "wikilink")が担当している。原作とドラマでは登場人物の設定、ストーリーの展開などで大きく異なっている部分が多い。
 
-[加藤ローサ](https://ja.wikipedia.org/wiki/加藤ローサ "wikilink")は本作が連続ドラマ初主演となった。また、映画版で主役だった[小沢真珠](../Page/小沢真珠.md "wikilink")も出演している。出演者の多くは『[夜王](https://ja.wikipedia.org/wiki/夜王 "wikilink")』（[TBS](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")）、『[黒い太陽](https://ja.wikipedia.org/wiki/黒い太陽 "wikilink")』（テレビ朝日）、『[銭華](../Page/銭華.md "wikilink")』（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）と、水商売を題材としたドラマに出演した俳優で占められている。『夜王』と『銭花』は本作同様、倉科遼の同名漫画が原作である。
+[加藤ローサ](https://ja.wikipedia.org/wiki/加藤ローサ "wikilink")は本作が連続ドラマ初主演となった。また、映画版で主役だった[小沢真珠](../Page/小沢真珠.md "wikilink")も出演している。出演者の多くは『[夜王](../Page/夜王.md "wikilink")』（[TBS](../Page/TBSテレビ.md "wikilink")）、『[黒い太陽](../Page/黒い太陽.md "wikilink")』（テレビ朝日）、『[銭華](../Page/銭華.md "wikilink")』（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）と、水商売を題材としたドラマに出演した俳優で占められている。『夜王』と『銭花』は本作同様、倉科遼の同名漫画が原作である。
 
 ### ドラマ版の登場人物
 
 #### 原作登場キャラクター
 
   - 立花彩香 - [加藤ローサ](https://ja.wikipedia.org/wiki/加藤ローサ "wikilink")
-  - 伊達直人 - [松田翔太](https://ja.wikipedia.org/wiki/松田翔太 "wikilink")
-  - 北條梨奈 - [酒井彩名](https://ja.wikipedia.org/wiki/酒井彩名 "wikilink")
-  - 杉野謙一 - [斉藤祥太](https://ja.wikipedia.org/wiki/斉藤祥太 "wikilink")
+  - 伊達直人 - [松田翔太](../Page/松田翔太.md "wikilink")
+  - 北條梨奈 - [酒井彩名](../Page/酒井彩名.md "wikilink")
+  - 杉野謙一 - [斉藤祥太](../Page/斉藤祥太.md "wikilink")
   - 杉野謙造 - [山下真司](../Page/山下真司.md "wikilink")
-  - 北條照盛 - [森本レオ](https://ja.wikipedia.org/wiki/森本レオ "wikilink")
-  - 袴田吉蔵 - [長谷川初範](https://ja.wikipedia.org/wiki/長谷川初範 "wikilink")
-  - 尾上雄一郎 - [伊原剛志](https://ja.wikipedia.org/wiki/伊原剛志 "wikilink")（特別出演）
-  - 塚原 - [森本亮治](https://ja.wikipedia.org/wiki/森本亮治 "wikilink")
-  - 立花麻里子 - [かとうかず子](https://ja.wikipedia.org/wiki/かとうかず子 "wikilink")
+  - 北條照盛 - [森本レオ](../Page/森本レオ.md "wikilink")
+  - 袴田吉蔵 - [長谷川初範](../Page/長谷川初範.md "wikilink")
+  - 尾上雄一郎 - [伊原剛志](../Page/伊原剛志.md "wikilink")（特別出演）
+  - 塚原 - [森本亮治](../Page/森本亮治.md "wikilink")
+  - 立花麻里子 - [かとうかず子](../Page/かとうかず子.md "wikilink")
 
 <!-- end list -->
 
@@ -247,7 +247,7 @@
 
   - 銀座・クラブ「佐和」
 
-:\* 藤村佐和 - [かたせ梨乃](https://ja.wikipedia.org/wiki/かたせ梨乃 "wikilink")
+:\* 藤村佐和 - [かたせ梨乃](../Page/かたせ梨乃.md "wikilink")
 
 :\* 美樹 - [前田愛](../Page/前田愛_\(女優\).md "wikilink")
 
@@ -255,7 +255,7 @@
 
   - 銀座・クラブ「アマン」
 
-:\* 江川弘美 - [東ちづる](https://ja.wikipedia.org/wiki/東ちづる "wikilink")（友情出演）
+:\* 江川弘美 - [東ちづる](../Page/東ちづる.md "wikilink")（友情出演）
 
 :\* 工藤薫 - [金子さやか](https://ja.wikipedia.org/wiki/金子さやか "wikilink")
 
@@ -263,9 +263,9 @@
 
   - 彩香の客
 
-:\* 大沢謙吾 - [豊原功補](https://ja.wikipedia.org/wiki/豊原功補 "wikilink")（友情出演）
+:\* 大沢謙吾 - [豊原功補](../Page/豊原功補.md "wikilink")（友情出演）
 
-:\* 大翔辰紘 - [西村和彦](https://ja.wikipedia.org/wiki/西村和彦 "wikilink")
+:\* 大翔辰紘 - [西村和彦](../Page/西村和彦.md "wikilink")
 
   -
 
@@ -281,41 +281,41 @@
 
 :\* 美濃村達吉 - [泉谷しげる](../Page/泉谷しげる.md "wikilink")
 
-:\* 篠原徳治 - [古谷一行](https://ja.wikipedia.org/wiki/古谷一行 "wikilink")
+:\* 篠原徳治 - [古谷一行](../Page/古谷一行.md "wikilink")
 
 #### オリジナルキャラクター
 
   - 香田譲司
-    演 - [吹越満](https://ja.wikipedia.org/wiki/吹越満 "wikilink")
+    演 - [吹越満](../Page/吹越満.md "wikilink")
     銀龍会の若頭で、直人の大阪時代の兄貴分。凶暴な性格で、キレると麗子、直人、組事務所のダルマなどに、手当たりしだい八つ当たりする。
   - 白鳥タクヤ
-    演 - [速水もこみち](https://ja.wikipedia.org/wiki/速水もこみち "wikilink")（第8話にゲスト出演）
+    演 - [速水もこみち](../Page/速水もこみち.md "wikilink")（第8話にゲスト出演）
     新宿のホストクラブ「ゴージャス」のNo.1ホスト。**夜王**。元々チンピラで、直人の大阪時代のライバル。薫がタクヤに入れ込みホストクラブ通いをするようになり、その資金を稼ぐため、汚い手を使って自分の客を店に来させていることを知った彩香から、そのカラクリを打ち明けるように迫られる。クラブ「佐和」と銀座の街を想う彩香のまっすぐな性格とホステスとしての心意気に動かされ、薫が握った客の弱味が録音されたマイクロチップのありかを彩香に明かす。
   - 竜崎茂樹
-    演 - [デビット伊東](https://ja.wikipedia.org/wiki/デビット伊東 "wikilink")
+    演 - [デビット伊東](../Page/デビット伊東.md "wikilink")
     クラブ「佐和」が入っているビルを所有する竜崎商事の2代目社長。梨奈の陰謀によって共謀関係になり、クラブ「佐和」を閉店に追い込もうと画策する。
   - エリ
-    演 - [滝沢沙織](https://ja.wikipedia.org/wiki/滝沢沙織 "wikilink")
+    演 - [滝沢沙織](../Page/滝沢沙織.md "wikilink")
     クラブ「佐和」のホステス。派手でなおかつ色気ある風貌から「**銀座の魔女**」という異名を持つ。当初は彩香のホステスとしての才能を認める良き理解者であったが、直人が彩香を愛していることを知り、彼女への嫉妬心と敵意を次第に露にしていく。直人を一途に想い同棲までしていたが、直人が自分を愛していないことにも気付いていた。銀座で「女帝」という名の存在を響かせることと、直人と恋人関係を結ぶことを目的にしている彩香にとっては、最大のライバルとも言える存在。作中に彼女は「ホステスはライバルになれても、お友達にはなれないの」と言うが、これはエリ自身が彩香に対抗心を燃やす証として言った言葉からか、何時になく真剣な表情だった。彩香への対抗心は話が進むに連れ加速し、薫に襲われた彩香をかばって刺された直人が意識不明になった際も、「あなたのせいよ」と彩香に責任を押し付けるなど、彼女を押し退けて直人を自分だけの男にしようとしていた。しかし彩香は、親切にされた恩を忘れていなかったためかエリを陥れようとはしなかった。
 
 ### スタッフ
 
-  - 脚本 - [高山直也](https://ja.wikipedia.org/wiki/高山直也 "wikilink")、[旺季志ずか](../Page/旺季志ずか.md "wikilink")、[吉田玲子](https://ja.wikipedia.org/wiki/吉田玲子 "wikilink")
-  - 音楽 - [仲西匡](https://ja.wikipedia.org/wiki/仲西匡 "wikilink")
+  - 脚本 - [高山直也](../Page/高山直也.md "wikilink")、[旺季志ずか](../Page/旺季志ずか.md "wikilink")、[吉田玲子](../Page/吉田玲子.md "wikilink")
+  - 音楽 - [仲西匡](../Page/仲西匡.md "wikilink")
   - 演出 - [小松隆志](https://ja.wikipedia.org/wiki/小松隆志_\(映画監督\) "wikilink")、[片山修](https://ja.wikipedia.org/wiki/片山修 "wikilink")、[二宮浩行](https://ja.wikipedia.org/wiki/二宮浩行 "wikilink")、[田村直己](https://ja.wikipedia.org/wiki/田村直己 "wikilink")
-  - 主題歌 - [ナナムジカ](https://ja.wikipedia.org/wiki/ナナムジカ "wikilink")「[彼方](https://ja.wikipedia.org/wiki/彼方_\(曲\) "wikilink")」（[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")）
+  - 主題歌 - [ナナムジカ](../Page/ナナムジカ.md "wikilink")「[彼方](https://ja.wikipedia.org/wiki/彼方_\(曲\) "wikilink")」（[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")）
   - プロデューサー - [横地郁英](https://ja.wikipedia.org/wiki/横地郁英 "wikilink")、[奈良井正巳](https://ja.wikipedia.org/wiki/奈良井正巳 "wikilink")、[伊藤達哉](https://ja.wikipedia.org/wiki/伊藤達哉_\(プロデューサー\) "wikilink")
   - 協力プロデューサー - [遠田孝一](https://ja.wikipedia.org/wiki/遠田孝一 "wikilink")
-  - 選曲 - [石井和之](https://ja.wikipedia.org/wiki/石井和之 "wikilink")（[スポット](https://ja.wikipedia.org/wiki/スポット_\(企業\) "wikilink")）
-  - 技術プロデュース - 瀬戸井正俊（[ビデオスタッフ](https://ja.wikipedia.org/wiki/ビデオスタッフ "wikilink")）
+  - 選曲 - [石井和之](../Page/石井和之.md "wikilink")（[スポット](../Page/スポット_\(企業\).md "wikilink")）
+  - 技術プロデュース - 瀬戸井正俊（[ビデオスタッフ](../Page/ビデオスタッフ.md "wikilink")）
   - 美術プロデュース - 村上輝彦（[テレビ朝日クリエイト](../Page/テレビ朝日クリエイト.md "wikilink")）
   - CG - 蟻坂歩美（[ナイス・デー](https://ja.wikipedia.org/wiki/ナイス・デー_\(企業\) "wikilink")）
-  - 編集 - 白水孝幸（[バウムレーベン](https://ja.wikipedia.org/wiki/バウムレーベン "wikilink")）
+  - 編集 - 白水孝幸（[バウムレーベン](../Page/バウムレーベン.md "wikilink")）
   - 車輌 - ランナーズ
   - 方言指導 - [俳協](https://ja.wikipedia.org/wiki/俳協 "wikilink")
-  - スタジオ - [渋谷ビデオスタジオ](https://ja.wikipedia.org/wiki/渋谷ビデオスタジオ "wikilink")
-  - 音楽協力 - [テレビ朝日ミュージック](https://ja.wikipedia.org/wiki/テレビ朝日ミュージック "wikilink")、[エー・ビー・シーメディアコム](https://ja.wikipedia.org/wiki/エー・ビー・シーメディアコム "wikilink")
-  - 制作 - 朝日放送、テレビ朝日、[MMJ](https://ja.wikipedia.org/wiki/メディアミックス・ジャパン "wikilink")
+  - スタジオ - [渋谷ビデオスタジオ](../Page/渋谷ビデオスタジオ.md "wikilink")
+  - 音楽協力 - [テレビ朝日ミュージック](../Page/テレビ朝日ミュージック.md "wikilink")、[エー・ビー・シーメディアコム](../Page/エー・ビー・シーメディアコム.md "wikilink")
+  - 制作 - 朝日放送、テレビ朝日、[MMJ](../Page/メディアミックス・ジャパン.md "wikilink")
 
 ### 放送日程
 
@@ -432,7 +432,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>平均視聴率 11.6%（関東）、17.2%（関西）（視聴率は<a href="https://ja.wikipedia.org/wiki/関東地方" title="wikilink">関東地区</a>・<a href="https://ja.wikipedia.org/wiki/ビデオリサーチ" title="wikilink">ビデオリサーチ</a>社調べ）</p></td>
+<td><p>平均視聴率 11.6%（関東）、17.2%（関西）（視聴率は<a href="https://ja.wikipedia.org/wiki/関東地方" title="wikilink">関東地区</a>・<a href="../Page/ビデオリサーチ.md" title="wikilink">ビデオリサーチ</a>社調べ）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -443,7 +443,7 @@
 </tbody>
 </table>
 
-  - 視聴率は『[家族〜妻の不在・夫の存在〜](https://ja.wikipedia.org/wiki/家族〜妻の不在・夫の存在〜 "wikilink")』同様に関西地区が高く、西高東低であった。また、最終回視聴率はこの枠では関西地区で初の20%越えとなった。関東地区では[金9枠の開始以来](https://ja.wikipedia.org/wiki/朝日放送・テレビ朝日金曜9時枠の連続ドラマ "wikilink")、最終回で初の15%越えとなり、最高視聴率を記録した。
+  - 視聴率は『[家族〜妻の不在・夫の存在〜](../Page/家族〜妻の不在・夫の存在〜.md "wikilink")』同様に関西地区が高く、西高東低であった。また、最終回視聴率はこの枠では関西地区で初の20%越えとなった。関東地区では[金9枠の開始以来](../Page/朝日放送・テレビ朝日金曜9時枠の連続ドラマ.md "wikilink")、最終回で初の15%越えとなり、最高視聴率を記録した。
 
 #### ＣＳ放送[テレ朝チャンネル](../Page/テレ朝チャンネル.md "wikilink")2での変更点
 
@@ -477,7 +477,7 @@
 
 ## 2011年のテレビドラマ
 
-2011年8月、倉科の公式サイトにて韓国でもテレビドラマ化されることが発表され\[3\]、同年[10月1日](../Page/10月1日.md "wikilink")から[12月24日](../Page/12月24日.md "wikilink")まで、[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")[Eチャンネル](https://ja.wikipedia.org/wiki/Eチャンネル "wikilink")製作により、毎週[土曜日](../Page/土曜日.md "wikilink")23:00 - 23:50（[KST](https://ja.wikipedia.org/wiki/韓国標準時 "wikilink")）に放送された。主演は[チャン・シニョン](https://ja.wikipedia.org/wiki/チャン・シニョン "wikilink")。
+2011年8月、倉科の公式サイトにて韓国でもテレビドラマ化されることが発表され\[3\]、同年[10月1日](../Page/10月1日.md "wikilink")から[12月24日](../Page/12月24日.md "wikilink")まで、[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")[Eチャンネル](https://ja.wikipedia.org/wiki/Eチャンネル "wikilink")製作により、毎週[土曜日](../Page/土曜日.md "wikilink")23:00 - 23:50（[KST](../Page/韓国標準時.md "wikilink")）に放送された。主演は[チャン・シニョン](https://ja.wikipedia.org/wiki/チャン・シニョン "wikilink")。
 
 ## 出典
 

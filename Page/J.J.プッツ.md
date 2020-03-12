@@ -7,31 +7,31 @@
 
 ### プロ入り前
 
-の[MLBドラフト](https://ja.wikipedia.org/wiki/1995年のMLBドラフト "wikilink")3巡目（全体84位）で[シカゴ・ホワイトソックス](https://ja.wikipedia.org/wiki/シカゴ・ホワイトソックス "wikilink")から指名されたが、この時は入団せずに[ミシガン大学](https://ja.wikipedia.org/wiki/ミシガン大学 "wikilink")へ進学した。
+の[MLBドラフト](https://ja.wikipedia.org/wiki/1995年のMLBドラフト "wikilink")3巡目（全体84位）で[シカゴ・ホワイトソックス](../Page/シカゴ・ホワイトソックス.md "wikilink")から指名されたが、この時は入団せずに[ミシガン大学](../Page/ミシガン大学.md "wikilink")へ進学した。
 
-の[MLBドラフト](https://ja.wikipedia.org/wiki/1998年のMLBドラフト "wikilink")17巡目（全体499位）では[ミネソタ・ツインズ](https://ja.wikipedia.org/wiki/ミネソタ・ツインズ "wikilink")から指名されたが、この時も入団せず。
+の[MLBドラフト](https://ja.wikipedia.org/wiki/1998年のMLBドラフト "wikilink")17巡目（全体499位）では[ミネソタ・ツインズ](../Page/ミネソタ・ツインズ.md "wikilink")から指名されたが、この時も入団せず。
 
 ### プロ入りとマリナーズ時代
 
-大学最終学年の、[MLBドラフト](https://ja.wikipedia.org/wiki/1999年のMLBドラフト "wikilink")6巡目（全体185位）で[シアトル・マリナーズ](../Page/シアトル・マリナーズ.md "wikilink")から指名され、プロ入り。まではA級[ウィスコンシン・ティンバーラトラーズ](https://ja.wikipedia.org/wiki/ウィスコンシン・ティンバーラトラーズ "wikilink")に、はAA級[サンアントニオ・ミッションズ](https://ja.wikipedia.org/wiki/サンアントニオ・ミッションズ "wikilink")に在籍し、当時は90mphの速球、[カーブと](https://ja.wikipedia.org/wiki/カーブ_\(球種\) "wikilink")[チェンジアップ](https://ja.wikipedia.org/wiki/チェンジアップ "wikilink")が武器であった\[1\]。
+大学最終学年の、[MLBドラフト](https://ja.wikipedia.org/wiki/1999年のMLBドラフト "wikilink")6巡目（全体185位）で[シアトル・マリナーズ](../Page/シアトル・マリナーズ.md "wikilink")から指名され、プロ入り。まではA級[ウィスコンシン・ティンバーラトラーズ](https://ja.wikipedia.org/wiki/ウィスコンシン・ティンバーラトラーズ "wikilink")に、はAA級[サンアントニオ・ミッションズ](https://ja.wikipedia.org/wiki/サンアントニオ・ミッションズ "wikilink")に在籍し、当時は90mphの速球、[カーブと](https://ja.wikipedia.org/wiki/カーブ_\(球種\) "wikilink")[チェンジアップ](../Page/チェンジアップ.md "wikilink")が武器であった\[1\]。
 
-右肩を痛め、は開幕から[故障者リスト](https://ja.wikipedia.org/wiki/故障者リスト "wikilink")入りで迎え、リハビリの過程で首脳陣と話し合い、右肩の負担を減らすため[ワインドアップ](https://ja.wikipedia.org/wiki/ワインドアップ "wikilink")をやめることを決断した\[2\]。これにより球速が5mph速くなり、[ツーシームの方が](https://ja.wikipedia.org/wiki/速球#ツーシーム・ファストボール "wikilink")[フォーシームより速いという特徴が顕著になった](https://ja.wikipedia.org/wiki/速球#フォーシーム・ファストボール "wikilink")\[3\]。
+右肩を痛め、は開幕から[故障者リスト](../Page/故障者リスト.md "wikilink")入りで迎え、リハビリの過程で首脳陣と話し合い、右肩の負担を減らすため[ワインドアップ](https://ja.wikipedia.org/wiki/ワインドアップ "wikilink")をやめることを決断した\[2\]。これにより球速が5mph速くなり、[ツーシームの方が](https://ja.wikipedia.org/wiki/速球#ツーシーム・ファストボール "wikilink")[フォーシームより速いという特徴が顕著になった](https://ja.wikipedia.org/wiki/速球#フォーシーム・ファストボール "wikilink")\[3\]。
 
-のキャンプに中継ぎ転向を命じられ\[4\]、[8月11日](../Page/8月11日.md "wikilink")の[トロント・ブルージェイズ](../Page/トロント・ブルージェイズ.md "wikilink")戦でメジャーデビューを果たす。翌開幕直前にロースターから漏れ、4月にメジャー昇格・降格を繰り返したが\[5\]、メジャー定着した。最初の登板から10試合連続無失点を記録し、[8月7日](../Page/8月7日.md "wikilink")には初セーブを記録し、故障した[エディ・グアダード](https://ja.wikipedia.org/wiki/エディ・グアダード "wikilink")に代わって9セーブを挙げる。
+のキャンプに中継ぎ転向を命じられ\[4\]、[8月11日](../Page/8月11日.md "wikilink")の[トロント・ブルージェイズ](../Page/トロント・ブルージェイズ.md "wikilink")戦でメジャーデビューを果たす。翌開幕直前にロースターから漏れ、4月にメジャー昇格・降格を繰り返したが\[5\]、メジャー定着した。最初の登板から10試合連続無失点を記録し、[8月7日](../Page/8月7日.md "wikilink")には初セーブを記録し、故障した[エディ・グアダード](../Page/エディ・グアダード.md "wikilink")に代わって9セーブを挙げる。
 
 までは正クローザーはグアダードで固定されたためにセットアッパーとして投げる。当時は直球主体で押し切るスタイルだった\[6\]。のキャンプでグアダードから「これを試してみたらどうだ。ノーシームだよ」と投げると落差が大きくなり、ボールの動きが安定し、[スプリッターが改善された](https://ja.wikipedia.org/wiki/フォークボール#スプリットフィンガー・ファストボール "wikilink")\[7\]。
 
-5月、師と仰ぎ、メンタル面での心構えなど、クローザーとして不可欠なものを正[クローザーのグアダードから多く学んだ](https://ja.wikipedia.org/wiki/リリーフ#抑え "wikilink")\[8\]が彼が不振に陥ったため、[7月6日](../Page/7月6日.md "wikilink")に[トレードで](https://ja.wikipedia.org/wiki/トレード#メジャーリーグ "wikilink")[シンシナティ・レッズ](https://ja.wikipedia.org/wiki/シンシナティ・レッズ "wikilink")へ移籍し\[9\]、代わりにクローザーへ転向\[10\]。[リリーフ](../Page/リリーフ.md "wikilink")としては[アメリカンリーグ](../Page/アメリカンリーグ.md "wikilink")1位の104[奪三振を記録するなど自身最高のシーズンを送り](https://ja.wikipedia.org/wiki/三振 "wikilink")、1年でクローザーの地位を確立した。
+5月、師と仰ぎ、メンタル面での心構えなど、クローザーとして不可欠なものを正[クローザーのグアダードから多く学んだ](https://ja.wikipedia.org/wiki/リリーフ#抑え "wikilink")\[8\]が彼が不振に陥ったため、[7月6日](../Page/7月6日.md "wikilink")に[トレードで](https://ja.wikipedia.org/wiki/トレード#メジャーリーグ "wikilink")[シンシナティ・レッズ](../Page/シンシナティ・レッズ.md "wikilink")へ移籍し\[9\]、代わりにクローザーへ転向\[10\]。[リリーフ](../Page/リリーフ.md "wikilink")としては[アメリカンリーグ](../Page/アメリカンリーグ.md "wikilink")1位の104[奪三振を記録するなど自身最高のシーズンを送り](https://ja.wikipedia.org/wiki/三振 "wikilink")、1年でクローザーの地位を確立した。
 
-1月、マリナーズと3年総額1,310万ドル、4年目の2010年は球団のオプションで860万ドルで契約を結んだ\[11\]。そして迎えた2007年シーズンは68試合に登板し、球団史上[佐々木主浩](../Page/佐々木主浩.md "wikilink")の45セーブに次ぐ球団歴代2位となる40セーブを記録した\[12\]。[オールスターに初めて選出され](https://ja.wikipedia.org/wiki/2007年のMLBオールスターゲーム "wikilink")、[ローレイズ・リリーフマン賞](https://ja.wikipedia.org/wiki/ローレイズ・リリーフマン賞 "wikilink")を球団史上初めて受賞した。
+1月、マリナーズと3年総額1,310万ドル、4年目の2010年は球団のオプションで860万ドルで契約を結んだ\[11\]。そして迎えた2007年シーズンは68試合に登板し、球団史上[佐々木主浩](../Page/佐々木主浩.md "wikilink")の45セーブに次ぐ球団歴代2位となる40セーブを記録した\[12\]。[オールスターに初めて選出され](../Page/2007年のMLBオールスターゲーム.md "wikilink")、[ローレイズ・リリーフマン賞](https://ja.wikipedia.org/wiki/ローレイズ・リリーフマン賞 "wikilink")を球団史上初めて受賞した。
 
-は[4月1日](../Page/4月1日.md "wikilink")の[テキサス・レンジャーズ](https://ja.wikipedia.org/wiki/テキサス・レンジャーズ "wikilink")戦で右わき腹を痛め15日の[故障者リスト](https://ja.wikipedia.org/wiki/故障者リスト "wikilink")に入る。その後復帰するものの球威が戻らずセーブ失敗を繰り返し、11日のブルージェイズ戦では右ひじを痛め13日に再び故障者リストに入った。結局、08年シーズンのセーブ失敗8個は、クローザー転向以来最悪の数字となった。
+は[4月1日](../Page/4月1日.md "wikilink")の[テキサス・レンジャーズ](../Page/テキサス・レンジャーズ.md "wikilink")戦で右わき腹を痛め15日の[故障者リスト](../Page/故障者リスト.md "wikilink")に入る。その後復帰するものの球威が戻らずセーブ失敗を繰り返し、11日のブルージェイズ戦では右ひじを痛め13日に再び故障者リストに入った。結局、08年シーズンのセーブ失敗8個は、クローザー転向以来最悪の数字となった。
 
 ### メッツ時代
 
-2008年[12月10日](https://ja.wikipedia.org/wiki/12月10日 "wikilink")にマリナーズ、[ニューヨーク・メッツ](../Page/ニューヨーク・メッツ.md "wikilink")、[クリーブランド・インディアンス](https://ja.wikipedia.org/wiki/クリーブランド・インディアンス "wikilink")の間で計12選手が移籍する三角トレードが成立し、、[ジェレミー・リード](https://ja.wikipedia.org/wiki/ジェレミー・リード "wikilink")と共にメッツへ移籍した\[13\]。
+2008年[12月10日](../Page/12月10日.md "wikilink")にマリナーズ、[ニューヨーク・メッツ](../Page/ニューヨーク・メッツ.md "wikilink")、[クリーブランド・インディアンス](../Page/クリーブランド・インディアンス.md "wikilink")の間で計12選手が移籍する三角トレードが成立し、、[ジェレミー・リード](../Page/ジェレミー・リード.md "wikilink")と共にメッツへ移籍した\[13\]。
 
-は抑えの[フランシスコ・ロドリゲス](https://ja.wikipedia.org/wiki/フランシスコ・ロドリゲス "wikilink")に繋ぐ[セットアッパー](https://ja.wikipedia.org/wiki/セットアッパー "wikilink")としてメッツでのキャリアをスタートさせた。オフにFAとなった。
+は抑えの[フランシスコ・ロドリゲス](../Page/フランシスコ・ロドリゲス.md "wikilink")に繋ぐ[セットアッパー](https://ja.wikipedia.org/wiki/セットアッパー "wikilink")としてメッツでのキャリアをスタートさせた。オフにFAとなった。
 
 ### ホワイトソックス時代
 
@@ -261,7 +261,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シカゴ・ホワイトソックス" title="wikilink">CWS</a></p></td>
+<td><p><a href="../Page/シカゴ・ホワイトソックス.md" title="wikilink">CWS</a></p></td>
 <td><p>60</p></td>
 <td><p>0</p></td>
 <td><p>0</p></td>
@@ -433,7 +433,7 @@
 ### 獲得タイトル・表彰・記録
 
   - [ローレイズ・リリーフマン賞](https://ja.wikipedia.org/wiki/ローレイズ・リリーフマン賞 "wikilink")：1回（2007年）
-  - [MLBオールスターゲーム](https://ja.wikipedia.org/wiki/MLBオールスターゲーム "wikilink")選出：1回（[2007年](https://ja.wikipedia.org/wiki/2007年のMLBオールスターゲーム "wikilink")）
+  - [MLBオールスターゲーム](../Page/MLBオールスターゲーム.md "wikilink")選出：1回（[2007年](../Page/2007年のMLBオールスターゲーム.md "wikilink")）
 
 ### 背番号
 

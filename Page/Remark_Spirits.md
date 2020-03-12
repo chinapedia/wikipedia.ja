@@ -1,15 +1,15 @@
 > この記事は[Remark Spirits](https://ja.wikipedia.org/wiki/Remark_Spirits)から翻訳されています。
 
 
-**Remark Spirits**（リマークスピリッツ）は、[男性](../Page/男性.md "wikilink")[シンガー](../Page/歌手.md "wikilink")、[女性](../Page/女性.md "wikilink")[MC兼シンガー](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")、男性MCで構成される[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽グループ](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")。マネージメント事務所[ARTIMAGE](https://ja.wikipedia.org/wiki/ARTIMAGE "wikilink")（アーティマージュ）に所属。[ニッポン放送](../Page/ニッポン放送.md "wikilink")系の深夜[ラジオ番組](../Page/ラジオ番組.md "wikilink")、『[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")』の40周年記念ジングルを担当していた。
+**Remark Spirits**（リマークスピリッツ）は、[男性](../Page/男性.md "wikilink")[シンガー](../Page/歌手.md "wikilink")、[女性](../Page/女性.md "wikilink")[MC兼シンガー](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")、男性MCで構成される[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽グループ](../Page/音楽ユニット.md "wikilink")。マネージメント事務所[ARTIMAGE](../Page/ARTIMAGE.md "wikilink")（アーティマージュ）に所属。[ニッポン放送](../Page/ニッポン放送.md "wikilink")系の深夜[ラジオ番組](../Page/ラジオ番組.md "wikilink")、『[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")』の40周年記念ジングルを担当していた。
 
 ## 略歴
 
-ソロで活動していたDee-kay (SINGER)、舞音 (MC/SINGER)、JIRO THE SHIN (MC) の3人が意気投合し結成。サウンドプロデューサーにはナカツチトモヒロを迎え、2005年3月より活動を開始。『Urban Comfortable Music』をコンセプトを掲げ、上質なサウンドを作り出す唯一無二なグループ。 Dee-kayのスウィート・ボイス、セクシーかつ力強い舞音のラップ、JIRO THE SHINのフロウ、そしてナカツチトモヒロが作り出すバライティーに富んだトラック。そこから生み出されるRemark Spiritsの音楽は、[HIP HOPをベースに](../Page/ヒップホップ.md "wikilink")[HOUSE](https://ja.wikipedia.org/wiki/ハウス_\(音楽\) "wikilink"),[JAZZ](../Page/ジャズ.md "wikilink")、[FUNK](https://ja.wikipedia.org/wiki/ファンク "wikilink")、[POP等のあらゆるジャンルを取り入れた仕上がりが特徴的である](https://ja.wikipedia.org/wiki/ポップ・ミュージック "wikilink")。
+ソロで活動していたDee-kay (SINGER)、舞音 (MC/SINGER)、JIRO THE SHIN (MC) の3人が意気投合し結成。サウンドプロデューサーにはナカツチトモヒロを迎え、2005年3月より活動を開始。『Urban Comfortable Music』をコンセプトを掲げ、上質なサウンドを作り出す唯一無二なグループ。 Dee-kayのスウィート・ボイス、セクシーかつ力強い舞音のラップ、JIRO THE SHINのフロウ、そしてナカツチトモヒロが作り出すバライティーに富んだトラック。そこから生み出されるRemark Spiritsの音楽は、[HIP HOPをベースに](../Page/ヒップホップ.md "wikilink")[HOUSE](../Page/ハウス_\(音楽\).md "wikilink"),[JAZZ](../Page/ジャズ.md "wikilink")、[FUNK](../Page/ファンク.md "wikilink")、[POP等のあらゆるジャンルを取り入れた仕上がりが特徴的である](../Page/ポップ・ミュージック.md "wikilink")。
 
-結成からわずか半年でゲストアーティストとして多数のイベントに出演するなど、CLUB シーンにおいて大きな注目を集めていた。さらに[rhythm zoneによって開催された史上最大級のクラブオーディション](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")、"STARZ AUDITION"において大阪地区で見事に準優勝を果たした。オーディション応募5,000組以上の中から最終選考まで勝ち残り、2006年3月には[Zepp](https://ja.wikipedia.org/wiki/Zepp "wikilink")大阪にて約2,000人の観客の前でライブを行った。
+結成からわずか半年でゲストアーティストとして多数のイベントに出演するなど、CLUB シーンにおいて大きな注目を集めていた。さらに[rhythm zoneによって開催された史上最大級のクラブオーディション](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")、"STARZ AUDITION"において大阪地区で見事に準優勝を果たした。オーディション応募5,000組以上の中から最終選考まで勝ち残り、2006年3月には[Zepp](../Page/Zepp.md "wikilink")大阪にて約2,000人の観客の前でライブを行った。
 
-その"STARZ AUDITION"に参加した全国各地のアーティストが集結して出来たコンピレーションアルバム『STARZ FILE』では、1曲目にRemark Spirits「Freeway」が収録されている。また、2006年12月16日に[代々木競技場第一体育館で行われた史上最大級のインドアフェスティバル](https://ja.wikipedia.org/wiki/国立代々木競技場 "wikilink")“Rhythm Nation 2006”へ[オープニングアクト](https://ja.wikipedia.org/wiki/オープニングアクト "wikilink")としての出演を果たした。 現在、[大阪](../Page/大阪.md "wikilink")・[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")を中心に関西地区で活動中。2007年7月4日、Debut EP「Freeway」でメジャーデビュー。
+その"STARZ AUDITION"に参加した全国各地のアーティストが集結して出来たコンピレーションアルバム『STARZ FILE』では、1曲目にRemark Spirits「Freeway」が収録されている。また、2006年12月16日に[代々木競技場第一体育館で行われた史上最大級のインドアフェスティバル](../Page/国立代々木競技場.md "wikilink")“Rhythm Nation 2006”へ[オープニングアクト](https://ja.wikipedia.org/wiki/オープニングアクト "wikilink")としての出演を果たした。 現在、[大阪](../Page/大阪.md "wikilink")・[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")を中心に関西地区で活動中。2007年7月4日、Debut EP「Freeway」でメジャーデビュー。
 
 2009年2月11日のライブを最後に活動休止中。
 
@@ -18,14 +18,14 @@
   - **Dee-kay** （**ディーケー**）
       -
         SINGER。大阪府出身。血液型：O型。趣味：料理。影響を受けたアーティスト：[BRIAN McKNIGHT](../Page/ブライアン・マックナイト.md "wikilink")。
-        2003年より、東京で[ハウス](https://ja.wikipedia.org/wiki/ハウス_\(音楽\) "wikilink")･[ボサノバ](https://ja.wikipedia.org/wiki/ボサノバ "wikilink")シンガーとして活動を開始。同時に[ゴスペル](https://ja.wikipedia.org/wiki/ゴスペル_\(音楽\) "wikilink")[クワイヤーとしての経験も重ねる](https://ja.wikipedia.org/wiki/クワイア "wikilink")。それぞれのジャンルの異なる音楽を吸収し、そのキャリアを経て2004年秋、舞音、JIRO THE SHINと運命的な出会いを果たし今に至る。一度聴いたら忘れられない天性の[ウィスパーボイス](https://ja.wikipedia.org/wiki/ウィスパーボイス "wikilink")を持つ。その唯一無二の声は癒しの力を持っている。
+        2003年より、東京で[ハウス](../Page/ハウス_\(音楽\).md "wikilink")･[ボサノバ](https://ja.wikipedia.org/wiki/ボサノバ "wikilink")シンガーとして活動を開始。同時に[ゴスペル](https://ja.wikipedia.org/wiki/ゴスペル_\(音楽\) "wikilink")[クワイヤーとしての経験も重ねる](https://ja.wikipedia.org/wiki/クワイア "wikilink")。それぞれのジャンルの異なる音楽を吸収し、そのキャリアを経て2004年秋、舞音、JIRO THE SHINと運命的な出会いを果たし今に至る。一度聴いたら忘れられない天性の[ウィスパーボイス](../Page/ウィスパーボイス.md "wikilink")を持つ。その唯一無二の声は癒しの力を持っている。
   - **舞音** （**マイン**）
       -
-        MC/SINGER。京都府出身。血液型：O型。趣味：ラーメン屋巡り。影響を受けたアーティスト：[Lauryn Hill](https://ja.wikipedia.org/wiki/ローリン・ヒル "wikilink")。
-        16歳の時から、京都のCLUBなどで歌い始める。様々なユニット,バンドへ参加し、京都から大阪・兵庫など活動地域を拡大。2004年からは京都で唯一のガールズイベント「LUPIN」をオーガナイズ。現在までに4回開催され、毎回250人以上の集客を誇る盛り上がりを見せている。また、[LISAとの楽曲](https://ja.wikipedia.org/wiki/LISA_\(歌手\) "wikilink")「Precious Message / LISA&舞音 」が映画「[バックダンサーズ\!](https://ja.wikipedia.org/wiki/バックダンサーズ! "wikilink")」のオリジナル・サウンドトラックに収録されている。
+        MC/SINGER。京都府出身。血液型：O型。趣味：ラーメン屋巡り。影響を受けたアーティスト：[Lauryn Hill](../Page/ローリン・ヒル.md "wikilink")。
+        16歳の時から、京都のCLUBなどで歌い始める。様々なユニット,バンドへ参加し、京都から大阪・兵庫など活動地域を拡大。2004年からは京都で唯一のガールズイベント「LUPIN」をオーガナイズ。現在までに4回開催され、毎回250人以上の集客を誇る盛り上がりを見せている。また、[LISAとの楽曲](../Page/LISA_\(歌手\).md "wikilink")「Precious Message / LISA&舞音 」が映画「[バックダンサーズ\!](https://ja.wikipedia.org/wiki/バックダンサーズ! "wikilink")」のオリジナル・サウンドトラックに収録されている。
   - **JIRO THE SHIN** （**ジロー ザ シン**）
       -
-        MC。大阪府出身。血液型：B型。趣味：スポーツ。影響を受けたアーティスト：COMMON、[Nas](https://ja.wikipedia.org/wiki/ナズ "wikilink")。
+        MC。大阪府出身。血液型：B型。趣味：スポーツ。影響を受けたアーティスト：COMMON、[Nas](../Page/ナズ.md "wikilink")。
         1999年からソロ活動を開始。ソロとして300本以上のライブをこなすと共にフリースタイルバトルやMIXTAPEへのフリースタイル参加等アンダーグラウンドでの活動を始める。USメインストリーム,[ミドルスクール](https://ja.wikipedia.org/wiki/ミドルスクール・ヒップホップ "wikilink"),[オールドスクール](../Page/オールドスクール・ヒップホップ.md "wikilink"),JAZZ、FUNK、POPS、[PUNK ROCK等から影響を受け現在に至る](../Page/パンク・ロック.md "wikilink")。ストレートな歌詞に心にグッとくるフロウ、盛り上げ役を担当するムードメーカーである。
   - **ナカツチトモヒロ**
       -
@@ -37,9 +37,9 @@
 
 ### シングル
 
-| 枚   | 発売日                                                                                       | タイトル        | 規格品番       |
-| --- | ----------------------------------------------------------------------------------------- | ----------- | ---------- |
-| 1st | [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[7月4日](../Page/7月4日.md "wikilink") | **Freeway** | RZCD-45547 |
+| 枚   | 発売日                                                                    | タイトル        | 規格品番       |
+| --- | ---------------------------------------------------------------------- | ----------- | ---------- |
+| 1st | [2007年](../Page/2007年.md "wikilink")[7月4日](../Page/7月4日.md "wikilink") | **Freeway** | RZCD-45547 |
 
 ### アルバム
 
@@ -74,7 +74,7 @@
       - 「Stars' Ensemble\!」 作編曲
       - Trickstar「HEART→BEATER\!\!\!\!」
       - 明星スバル Solo「My Starry Point」
-      - UNDEAD［朔間零（[増田俊樹](https://ja.wikipedia.org/wiki/増田俊樹 "wikilink")）、乙狩アドニス（[羽多野渉](https://ja.wikipedia.org/wiki/羽多野渉 "wikilink")）、大神晃牙（[小野友樹](../Page/小野友樹.md "wikilink")）、羽風薫（[細貝圭](https://ja.wikipedia.org/wiki/細貝圭 "wikilink")）］「[DESTRUCTION ROAD](https://ja.wikipedia.org/wiki/あんさんぶるスターズ!_ユニットソングCD_2ndシーズン "wikilink")」「Darkness 4」作編曲
+      - UNDEAD［朔間零（[増田俊樹](https://ja.wikipedia.org/wiki/増田俊樹 "wikilink")）、乙狩アドニス（[羽多野渉](../Page/羽多野渉.md "wikilink")）、大神晃牙（[小野友樹](../Page/小野友樹.md "wikilink")）、羽風薫（[細貝圭](https://ja.wikipedia.org/wiki/細貝圭 "wikilink")）］「[DESTRUCTION ROAD](https://ja.wikipedia.org/wiki/あんさんぶるスターズ!_ユニットソングCD_2ndシーズン "wikilink")」「Darkness 4」作編曲
       - 大神晃牙 「RIOT WOLF」
       - 2wink［葵ひなた&葵ゆうた（[斉藤壮馬](https://ja.wikipedia.org/wiki/斉藤壮馬 "wikilink")）］「ハートプリズム・シンメトリー」作編曲
       - 紅月［蓮巳敬人([梅原裕一郎](https://ja.wikipedia.org/wiki/梅原裕一郎 "wikilink"))　神崎颯馬([神永圭佑](https://ja.wikipedia.org/wiki/神永圭佑 "wikilink"))　鬼龍 紅郎([神尾晋一郎](https://ja.wikipedia.org/wiki/神尾晋一郎 "wikilink"))］「剣戟の舞」作編曲
@@ -108,7 +108,7 @@
   - [ChouCho](https://ja.wikipedia.org/wiki/ChouCho "wikilink")
       - 「Happy Fate」作編曲
       - 「Cocoon」作編曲
-  - [寺島拓篤](https://ja.wikipedia.org/wiki/寺島拓篤 "wikilink")
+  - [寺島拓篤](../Page/寺島拓篤.md "wikilink")
       - 「[sunlight avenue](https://ja.wikipedia.org/wiki/sunlight_avenue "wikilink")」
   - totomono
       - 「Best My Friend\!」作編曲
@@ -129,7 +129,7 @@
       - [「悲しい歌はもう歌いたくない」作編曲](https://ja.wikipedia.org/wiki/青春トレイン "wikilink")、Mix
   - [NOW ON AIR](https://ja.wikipedia.org/wiki/NOW_ON_AIR "wikilink")
       - 「恋する夏ワンピ」作編曲
-  - [能登有沙](https://ja.wikipedia.org/wiki/能登有沙 "wikilink")
+  - [能登有沙](../Page/能登有沙.md "wikilink")
       - 「COLORS」作編曲
   - [畠中祐](https://ja.wikipedia.org/wiki/畠中祐 "wikilink")
       - 「Summer Breeze」作編曲
@@ -140,9 +140,9 @@
   - [ビブリア古書堂の事件手帖オリジナルサウンドトラック](https://ja.wikipedia.org/wiki/ビブリア古書堂の事件手帖_\(テレビドラマ\) "wikilink")
       - 「SONAR」作編曲,Mix
       - 「Chasing Shadows」作編曲,Mix
-  - [真野恵里菜](https://ja.wikipedia.org/wiki/真野恵里菜 "wikilink")
+  - [真野恵里菜](../Page/真野恵里菜.md "wikilink")
       - 『[THE NEXT GENERATION パトレイバー](https://ja.wikipedia.org/wiki/THE_NEXT_GENERATION_-パトレイバー- "wikilink")』主題歌「Ambitious\!」作編曲
-  - [結城アイラ](https://ja.wikipedia.org/wiki/結城アイラ "wikilink")
+  - [結城アイラ](../Page/結城アイラ.md "wikilink")
       - 「[Letter song](https://ja.wikipedia.org/wiki/悲しみは誰の願いでもない "wikilink")」作編曲
       - 「[私だけの魔法の言葉](https://ja.wikipedia.org/wiki/For_My_Dear… "wikilink")」作編曲
       - 「Heart of Summer」作編曲
@@ -180,15 +180,15 @@
       - IDOLiSH7「PARTY TIME TOGETHER」
   - [アフィリア・サーガ](https://ja.wikipedia.org/wiki/アフィリア・サーガ "wikilink")
       - 「zero」
-  - LR harmony（[佐咲紗花](https://ja.wikipedia.org/wiki/佐咲紗花 "wikilink"), [橋本みゆき](https://ja.wikipedia.org/wiki/橋本みゆき "wikilink"), [飛蘭](https://ja.wikipedia.org/wiki/飛蘭 "wikilink"), [美郷あき](https://ja.wikipedia.org/wiki/美郷あき "wikilink"), [yozuca\*](https://ja.wikipedia.org/wiki/yozuca* "wikilink"), [rino](https://ja.wikipedia.org/wiki/rino "wikilink")）
+  - LR harmony（[佐咲紗花](https://ja.wikipedia.org/wiki/佐咲紗花 "wikilink"), [橋本みゆき](../Page/橋本みゆき.md "wikilink"), [飛蘭](https://ja.wikipedia.org/wiki/飛蘭 "wikilink"), [美郷あき](../Page/美郷あき.md "wikilink"), [yozuca\*](https://ja.wikipedia.org/wiki/yozuca* "wikilink"), [rino](https://ja.wikipedia.org/wiki/rino "wikilink")）
       - 「THIS ILLUSION -10th moon harmony-」
   - [川嶋あい](https://ja.wikipedia.org/wiki/川嶋あい "wikilink")
       - 「Everyday」
   - [大橋彩香](https://ja.wikipedia.org/wiki/大橋彩香 "wikilink")
       - 「Super dreaming days」
-  - [喜多修平](https://ja.wikipedia.org/wiki/喜多修平 "wikilink")
+  - [喜多修平](../Page/喜多修平.md "wikilink")
       - 「[Starlight Rhapsody](https://ja.wikipedia.org/wiki/世界の果てに君がいても "wikilink")」
-  - [影山ヒロノブ](https://ja.wikipedia.org/wiki/影山ヒロノブ "wikilink")
+  - [影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink")
       - 「[Chase the real](https://ja.wikipedia.org/wiki/A.O.R "wikilink")」
       - 「[おーりとーり](https://ja.wikipedia.org/wiki/A.O.R "wikilink")」
   - [栗林みな実/Minami](https://ja.wikipedia.org/wiki/栗林みな実/Minami "wikilink")
@@ -196,12 +196,12 @@
       - 「遠い夏の日」
       - 「Beautiful Soldier」
       - 「きらり、愛の星」
-  - [近藤真彦](https://ja.wikipedia.org/wiki/近藤真彦 "wikilink")
+  - [近藤真彦](../Page/近藤真彦.md "wikilink")
       - 「Let's Go\!」
   - [佐咲紗花](https://ja.wikipedia.org/wiki/佐咲紗花 "wikilink")
       - 「[恋花](https://ja.wikipedia.org/wiki/Sympathetic_world "wikilink")」
       - 「Linaria」
-  - [JAM Project](https://ja.wikipedia.org/wiki/JAM_Project "wikilink")
+  - [JAM Project](../Page/JAM_Project.md "wikilink")
       - 「fragie」
       - 「シュワッチ\! 〜キミを護りたい〜」
   - [ChouCho](https://ja.wikipedia.org/wiki/ChouCho "wikilink")
@@ -223,7 +223,7 @@
       - 「TUNE UP」
       - 「カラフルパサージュ」
       - 「Returner Butterfly」
-  - [寺島拓篤](https://ja.wikipedia.org/wiki/寺島拓篤 "wikilink")
+  - [寺島拓篤](../Page/寺島拓篤.md "wikilink")
       - 「[君の季節](https://ja.wikipedia.org/wiki/INNER_STAR "wikilink")」
   - [ななのん](https://ja.wikipedia.org/wiki/ななのん "wikilink")
       - 「ななのんのベイビィ・ポータブル・ロック」
@@ -247,10 +247,10 @@
       - 「I'm On Fire\!」
       - 「みらい結び」
       - 「ゴールデンジパングソウル」
-  - [未来日記インスパイアードアルバム](https://ja.wikipedia.org/wiki/未来日記_\(漫画\) "wikilink") Vol.2 〜因果律デシベル〜
+  - [未来日記インスパイアードアルバム](../Page/未来日記_\(漫画\).md "wikilink") Vol.2 〜因果律デシベル〜
       - 「7th HEAVEN」
   - TVアニメ『[D.C.III 〜ダ・カーポIII〜](https://ja.wikipedia.org/wiki/D.C.III_〜ダ・カーポIII〜 "wikilink")』OPテーマ
-  - 森園立夏（CV.[新田恵海](https://ja.wikipedia.org/wiki/新田恵海 "wikilink")), 芳乃シャルル(CV.[宮崎羽衣](https://ja.wikipedia.org/wiki/宮崎羽衣 "wikilink")), 葛木姫乃(CV.[佐々木未来](https://ja.wikipedia.org/wiki/佐々木未来 "wikilink")), 瑠川さら(CV.[桜咲千依](https://ja.wikipedia.org/wiki/桜咲千依 "wikilink")), 陽ノ下葵(CV.[海保えりか](https://ja.wikipedia.org/wiki/海保えりか "wikilink")）
+  - 森園立夏（CV.[新田恵海](https://ja.wikipedia.org/wiki/新田恵海 "wikilink")), 芳乃シャルル(CV.[宮崎羽衣](../Page/宮崎羽衣.md "wikilink")), 葛木姫乃(CV.[佐々木未来](https://ja.wikipedia.org/wiki/佐々木未来 "wikilink")), 瑠川さら(CV.[桜咲千依](https://ja.wikipedia.org/wiki/桜咲千依 "wikilink")), 陽ノ下葵(CV.[海保えりか](https://ja.wikipedia.org/wiki/海保えりか "wikilink")）
       - 「[サクラハッピーイノベーション](https://ja.wikipedia.org/wiki/サクラハッピーイノベーション "wikilink")」
   - ラブライブ\!サンシャイン\!\!
       - 「Daydream Warrior」

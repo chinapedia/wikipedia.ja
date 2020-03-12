@@ -1,13 +1,13 @@
 > この記事は[GO!](https://ja.wikipedia.org/wiki/GO!)から翻訳されています。
 
 
-**フィーバー電車でGO\!**（-でんしゃでごー）は、[2000年](../Page/2000年.md "wikilink")および[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に[SANKYOが開発](https://ja.wikipedia.org/wiki/三共_\(パチンコ\) "wikilink")、発売した[CR機](https://ja.wikipedia.org/wiki/CR機 "wikilink")または現金機[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")シリーズ。[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")および[家庭用ゲーム機](https://ja.wikipedia.org/wiki/家庭用ゲーム機 "wikilink")で[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")からリリースされたゲームソフト『[電車でGO\!](../Page/電車でGO!.md "wikilink")』のタイアップ[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")機。
+**フィーバー電車でGO\!**（-でんしゃでごー）は、[2000年](../Page/2000年.md "wikilink")および[2006年](../Page/2006年.md "wikilink")に[SANKYOが開発](../Page/三共_\(パチンコ\).md "wikilink")、発売した[CR機](../Page/CR機.md "wikilink")または現金機[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")シリーズ。[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")および[家庭用ゲーム機](https://ja.wikipedia.org/wiki/家庭用ゲーム機 "wikilink")で[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")からリリースされたゲームソフト『[電車でGO\!](../Page/電車でGO!.md "wikilink")』のタイアップ[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")機。
 
 ## フィーバー電車でGO\!
 
 ### 特徴
 
-  - 1/2[確率変動](https://ja.wikipedia.org/wiki/確率変動 "wikilink")タイプ（EXをのぞく）
+  - 1/2[確率変動](../Page/確率変動.md "wikilink")タイプ（EXをのぞく）
   - 大当たり時に歌（『電車で電車でGO\!GO\!GO\!（SANKYOオリジナルバージョン）』）が流れる。元は『電車でGO\!』のCMソング。権利関係の都合でオリジナル歌詞の「埼京線」が「三共線」となっている。
   - 絵柄「3」、「7」、「11（鉄ちゃん）」に格付けがされており、確率変動昇格演出では他の確率変動絵柄の「1」、「5」、「9」からさらにこれらの絵柄に昇格することがある。そのため、通常時の「3」、「7」、「11（鉄ちゃん）」リーチは当たりにくい。
   - 各[スーパーリーチ](https://ja.wikipedia.org/wiki/スーパーリーチ "wikilink")に逆転パターンやプレミア演出が多く用意されており、人気となった。
@@ -58,15 +58,15 @@
 
 ### 関連商品
 
-  - 『FEVER3 SANKYO公式パチンコシミュレーション』（[2002年](../Page/2002年.md "wikilink")3月、[インターナショナルカードシステム](https://ja.wikipedia.org/wiki/インターナショナルカードシステム "wikilink")、[プレイステーション用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")）
+  - 『FEVER3 SANKYO公式パチンコシミュレーション』（[2002年](../Page/2002年.md "wikilink")3月、[インターナショナルカードシステム](https://ja.wikipedia.org/wiki/インターナショナルカードシステム "wikilink")、[プレイステーション用ゲームソフト](../Page/PlayStation_\(ゲーム機\).md "wikilink")）
 
 ## フィーバー電車でGO\!2
 
 ### 特徴
 
-  - 突然[確率変動](https://ja.wikipedia.org/wiki/確率変動 "wikilink")タイプ。
+  - 突然[確率変動](../Page/確率変動.md "wikilink")タイプ。
   - 役物として「電車&遮断機」、「警報機」、「行先案内板」、「路線ランプ」、「三共線（鉄ちゃんフィギアと電車ランプ）」を搭載。
-  - 大当たり時に歌（『電車で電車でGO\!GO\!GO\!（SANKYOオリジナルバージョン）』（この台のために[串田アキラ](https://ja.wikipedia.org/wiki/串田アキラ "wikilink")が熱唱）、『[TRAIN-TRAIN](https://ja.wikipedia.org/wiki/TRAIN-TRAIN "wikilink")』（[ブルーハーツ](https://ja.wikipedia.org/wiki/THE_BLUE_HEARTS "wikilink")）、『[Choo Choo TRAIN](https://ja.wikipedia.org/wiki/Choo_Choo_TRAIN "wikilink")』（[ZOO](https://ja.wikipedia.org/wiki/ZOO_\(ダンス&ボーカルユニット\) "wikilink")））が流れる。
+  - 大当たり時に歌（『電車で電車でGO\!GO\!GO\!（SANKYOオリジナルバージョン）』（この台のために[串田アキラ](../Page/串田アキラ.md "wikilink")が熱唱）、『[TRAIN-TRAIN](../Page/TRAIN-TRAIN.md "wikilink")』（[ブルーハーツ](../Page/THE_BLUE_HEARTS.md "wikilink")）、『[Choo Choo TRAIN](../Page/Choo_Choo_TRAIN.md "wikilink")』（[ZOO](../Page/ZOO_\(ダンス&ボーカルユニット\).md "wikilink")））が流れる。
   - ミッション演出「鉄ちゃんモード」を新たに追加。
   - 大当たり中にプレミア演出情報が表示される。
 

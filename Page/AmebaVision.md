@@ -1,11 +1,11 @@
 > この記事は[AmebaVision](https://ja.wikipedia.org/wiki/AmebaVision)から翻訳されています。
 
 
-**AmebaVision**（アメーバビジョン）は、かつて[サイバーエージェント](https://ja.wikipedia.org/wiki/サイバーエージェント "wikilink")が運営していた[動画共有サービス](https://ja.wikipedia.org/wiki/動画共有サービス "wikilink")。
+**AmebaVision**（アメーバビジョン）は、かつて[サイバーエージェント](https://ja.wikipedia.org/wiki/サイバーエージェント "wikilink")が運営していた[動画共有サービス](../Page/動画共有サービス.md "wikilink")。
 
-もともとは動画配信サービスであったが、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（[平成](../Page/平成.md "wikilink")18年）[7月13日](../Page/7月13日.md "wikilink")に投稿機能を追加\[1\]。アップロード形式として、[AVI](https://ja.wikipedia.org/wiki/AVI "wikilink")、[WMV](https://ja.wikipedia.org/wiki/WMV "wikilink")、[MPEG-4](../Page/MPEG-4.md "wikilink")、[MOV](https://ja.wikipedia.org/wiki/MOV "wikilink")、[3GPP](https://ja.wikipedia.org/wiki/3GPP "wikilink")、[AMC](https://ja.wikipedia.org/wiki/AMC "wikilink")、[FLV](https://ja.wikipedia.org/wiki/FLV "wikilink")、[MPEG-1](../Page/MPEG-1.md "wikilink")、[3GP](https://ja.wikipedia.org/wiki/3GP "wikilink")、[3G2](https://ja.wikipedia.org/wiki/3G2 "wikilink")、[VOB](https://ja.wikipedia.org/wiki/VOB "wikilink")に対応しており、上限は100MB/1ファイル、1ユーザーあたりのファイル容量は[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")（[平成](../Page/平成.md "wikilink")19年）[1月31日](../Page/1月31日.md "wikilink")に無制限とした。
+もともとは動画配信サービスであったが、[2006年](../Page/2006年.md "wikilink")（[平成](../Page/平成.md "wikilink")18年）[7月13日](../Page/7月13日.md "wikilink")に投稿機能を追加\[1\]。アップロード形式として、[AVI](https://ja.wikipedia.org/wiki/AVI "wikilink")、[WMV](https://ja.wikipedia.org/wiki/WMV "wikilink")、[MPEG-4](../Page/MPEG-4.md "wikilink")、[MOV](https://ja.wikipedia.org/wiki/MOV "wikilink")、[3GPP](../Page/3GPP.md "wikilink")、[AMC](https://ja.wikipedia.org/wiki/AMC "wikilink")、[FLV](https://ja.wikipedia.org/wiki/FLV "wikilink")、[MPEG-1](../Page/MPEG-1.md "wikilink")、[3GP](https://ja.wikipedia.org/wiki/3GP "wikilink")、[3G2](https://ja.wikipedia.org/wiki/3G2 "wikilink")、[VOB](https://ja.wikipedia.org/wiki/VOB "wikilink")に対応しており、上限は100MB/1ファイル、1ユーザーあたりのファイル容量は[2007年](../Page/2007年.md "wikilink")（[平成](../Page/平成.md "wikilink")19年）[1月31日](../Page/1月31日.md "wikilink")に無制限とした。
 
-[APIが公開されており](../Page/アプリケーションプログラミングインタフェース.md "wikilink")、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")のメンテナンス前までは[ニコニコ動画](https://ja.wikipedia.org/wiki/ニコニコ動画 "wikilink")のものが使用されていた。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")（[平成](../Page/平成.md "wikilink")19年）[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")[上旬](https://ja.wikipedia.org/wiki/上旬 "wikilink")から[ニコニコ動画](https://ja.wikipedia.org/wiki/ニコニコ動画 "wikilink")のアクセス増加で負荷が大幅に増え、[ニコニコ動画](https://ja.wikipedia.org/wiki/ニコニコ動画 "wikilink")を運営する[ニワンゴ](https://ja.wikipedia.org/wiki/ニワンゴ "wikilink")の担当者によると「専用回線を用意してもらっているが、負荷が高い状況が続いている」といっていた\[2\]。
+[APIが公開されており](../Page/アプリケーションプログラミングインタフェース.md "wikilink")、[2007年](../Page/2007年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")のメンテナンス前までは[ニコニコ動画](../Page/ニコニコ動画.md "wikilink")のものが使用されていた。[2007年](../Page/2007年.md "wikilink")（[平成](../Page/平成.md "wikilink")19年）[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")[上旬](https://ja.wikipedia.org/wiki/上旬 "wikilink")から[ニコニコ動画](../Page/ニコニコ動画.md "wikilink")のアクセス増加で負荷が大幅に増え、[ニコニコ動画](../Page/ニコニコ動画.md "wikilink")を運営する[ニワンゴ](../Page/ニワンゴ.md "wikilink")の担当者によると「専用回線を用意してもらっているが、負荷が高い状況が続いている」といっていた\[2\]。
 
 ## 概要
 
@@ -13,7 +13,7 @@
 
 AmebaVisionも[アメーバブログ](../Page/アメーバブログ.md "wikilink")も一方で新規アカウントを設定すると他方も同時に設定されることから、投稿者はアメーバブログを開設している場合が多い。AmebaVisionの動画視聴はアメーバ会員の登録をしなくてもできる。
 
-モバイル版も公開されており、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")や[au](https://ja.wikipedia.org/wiki/Au_\(携帯電話\) "wikilink")、[SoftBankの新機種](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")（[FOMA](../Page/FOMA.md "wikilink") 700i・900i シリーズ以降、au　[CDMA 1X WIN](https://ja.wikipedia.org/wiki/CDMA_1X_WIN "wikilink")、SoftBank3G携帯)では動画を再生することができる。モバイルのカテゴリーまで用意されている。
+モバイル版も公開されており、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")や[au](../Page/Au_\(携帯電話\).md "wikilink")、[SoftBankの新機種](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")（[FOMA](../Page/FOMA.md "wikilink") 700i・900i シリーズ以降、au　[CDMA 1X WIN](../Page/CDMA_1X_WIN.md "wikilink")、SoftBank3G携帯)では動画を再生することができる。モバイルのカテゴリーまで用意されている。
 
 著作権侵害のある動画は、著作権者の判断を待たず運営者が独自に判断して削除対応しており、ほとんど見かけないが、個別の通報に対する対応は遅れることもある。
 
@@ -31,7 +31,7 @@ AmebaVisionも[アメーバブログ](../Page/アメーバブログ.md "wikilink
 
   - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
   - [YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")
-  - [ニコニコ動画](https://ja.wikipedia.org/wiki/ニコニコ動画 "wikilink")
+  - [ニコニコ動画](../Page/ニコニコ動画.md "wikilink")
   - [FRESH\! by CyberAgent](https://ja.wikipedia.org/wiki/FRESH! "wikilink")、[AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink") - 事実上の後継にあたる、生放送中心の動画配信サービス。
 
 [Category:動画共有サイト](https://ja.wikipedia.org/wiki/Category:動画共有サイト "wikilink") [Category:サイバーエージェント](https://ja.wikipedia.org/wiki/Category:サイバーエージェント "wikilink")

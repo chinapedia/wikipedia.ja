@@ -1,7 +1,7 @@
 > この記事は[MeSH](https://ja.wikipedia.org/wiki/MeSH)から翻訳されています。
 
 
-**MeSH**（メッシュ）は、Medical Subject Headings の頭文字であり、[米国国立医学図書館](https://ja.wikipedia.org/wiki/アメリカ国立医学図書館 "wikilink") (NLM) が定める生命科学用語集（[シソーラス](../Page/シソーラス.md "wikilink")）である\[1\]\[2\]。NLMが[MEDLINE](https://ja.wikipedia.org/wiki/MEDLINE "wikilink")データベースにおいて文献を管理する際、文献の内容を表す適切な用語を10〜15個程度文献に付与し、この用語により文献を検索・管理できるようにしているが、このときMeSHの用語を用いる。MeSHは毎年改訂されて新しい概念や語句が追加・修正され、最新の生命科学に対応できるようにしている。
+**MeSH**（メッシュ）は、Medical Subject Headings の頭文字であり、[米国国立医学図書館](https://ja.wikipedia.org/wiki/アメリカ国立医学図書館 "wikilink") (NLM) が定める生命科学用語集（[シソーラス](../Page/シソーラス.md "wikilink")）である\[1\]\[2\]。NLMが[MEDLINE](../Page/MEDLINE.md "wikilink")データベースにおいて文献を管理する際、文献の内容を表す適切な用語を10〜15個程度文献に付与し、この用語により文献を検索・管理できるようにしているが、このときMeSHの用語を用いる。MeSHは毎年改訂されて新しい概念や語句が追加・修正され、最新の生命科学に対応できるようにしている。
 
 ## 内容
 

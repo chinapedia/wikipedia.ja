@@ -5,18 +5,18 @@
 
 ## 概要
 
-当社のコーヒーブランドは1981年発売の「[三ツ矢コーヒー](https://ja.wikipedia.org/wiki/三ツ矢サイダー "wikilink")」、1986年に発売して[ディエゴ・マラドーナ](../Page/ディエゴ・マラドーナ.md "wikilink")や[陣内孝則](https://ja.wikipedia.org/wiki/陣内孝則 "wikilink")らが[CMに出演した](https://ja.wikipedia.org/wiki/コマーシャルメッセージ "wikilink")「NOVA」、1990年に発売して[王貞治](../Page/王貞治.md "wikilink")＆[ハンク・アーロン](https://ja.wikipedia.org/wiki/ハンク・アーロン "wikilink")、[江口洋介](https://ja.wikipedia.org/wiki/江口洋介 "wikilink")、[松方弘樹](../Page/松方弘樹.md "wikilink")、[CHAGE\&ASKA](../Page/CHAGE_and_ASKA.md "wikilink")、[泉谷しげる](../Page/泉谷しげる.md "wikilink")、[柳葉敏郎](../Page/柳葉敏郎.md "wikilink")らがCMに出演した「J.O.」、らに続く4代目として1997年9月に発売した。[2002年](../Page/2002年.md "wikilink")10月に発売された業界初の朝専用缶コーヒー「WONDAモーニングショット」の販売が好調で主力ブランドの一つとなった。
+当社のコーヒーブランドは1981年発売の「[三ツ矢コーヒー](../Page/三ツ矢サイダー.md "wikilink")」、1986年に発売して[ディエゴ・マラドーナ](../Page/ディエゴ・マラドーナ.md "wikilink")や[陣内孝則](../Page/陣内孝則.md "wikilink")らが[CMに出演した](../Page/コマーシャルメッセージ.md "wikilink")「NOVA」、1990年に発売して[王貞治](../Page/王貞治.md "wikilink")＆[ハンク・アーロン](../Page/ハンク・アーロン.md "wikilink")、[江口洋介](https://ja.wikipedia.org/wiki/江口洋介 "wikilink")、[松方弘樹](../Page/松方弘樹.md "wikilink")、[CHAGE\&ASKA](../Page/CHAGE_and_ASKA.md "wikilink")、[泉谷しげる](../Page/泉谷しげる.md "wikilink")、[柳葉敏郎](../Page/柳葉敏郎.md "wikilink")らがCMに出演した「J.O.」、らに続く4代目として1997年9月に発売した。[2002年](../Page/2002年.md "wikilink")10月に発売された業界初の朝専用缶コーヒー「WONDAモーニングショット」の販売が好調で主力ブランドの一つとなった。
 
-アサヒ飲料と[カルピス](https://ja.wikipedia.org/wiki/カルピス "wikilink")\[2\]が[自動販売機](../Page/自動販売機.md "wikilink")部門の事業を統合して[アサヒカルピスビバレッジを設立し](https://ja.wikipedia.org/wiki/アサヒ飲料販売 "wikilink")、カルピスは「AGFブレンディ」缶コーヒーの製造と販売を止めて自販機で「WONDA」を販売している\[3\]。[大塚食品](https://ja.wikipedia.org/wiki/大塚食品 "wikilink")も2015年3月から自販機で「WONDA」を発売し、従来販売していたネスレマニファクチャリング製「[ネスカフェ](https://ja.wikipedia.org/wiki/ネスカフェ "wikilink")」缶コーヒーシリーズは[同グループの](https://ja.wikipedia.org/wiki/大塚ホールディングス "wikilink")[大塚製薬](../Page/大塚製薬.md "wikilink")から販売委託契約の解除を打診されて順次製造と販売を終了した\[4\]。
+アサヒ飲料と[カルピス](https://ja.wikipedia.org/wiki/カルピス "wikilink")\[2\]が[自動販売機](../Page/自動販売機.md "wikilink")部門の事業を統合して[アサヒカルピスビバレッジを設立し](https://ja.wikipedia.org/wiki/アサヒ飲料販売 "wikilink")、カルピスは「AGFブレンディ」缶コーヒーの製造と販売を止めて自販機で「WONDA」を販売している\[3\]。[大塚食品](../Page/大塚食品.md "wikilink")も2015年3月から自販機で「WONDA」を発売し、従来販売していたネスレマニファクチャリング製「[ネスカフェ](../Page/ネスカフェ.md "wikilink")」缶コーヒーシリーズは[同グループの](../Page/大塚ホールディングス.md "wikilink")[大塚製薬](../Page/大塚製薬.md "wikilink")から販売委託契約の解除を打診されて順次製造と販売を終了した\[4\]。
 
 2018年の販売実績は4,024万箱であった\[5\]。
 
-[兵庫県](../Page/兵庫県.md "wikilink")[明石市](../Page/明石市.md "wikilink")の明石工場と[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")[下新川郡](../Page/下新川郡.md "wikilink")[入善町](https://ja.wikipedia.org/wiki/入善町 "wikilink")の北陸工場で生産されている。明石工場最寄り駅の[山陽電気鉄道本線](https://ja.wikipedia.org/wiki/山陽電気鉄道本線 "wikilink")[東二見駅](https://ja.wikipedia.org/wiki/東二見駅 "wikilink")に「東二見駅をご利用のみなさん！おはようございます！」と書かれたWONDAモーニングショットの看板が設置されている。
+[兵庫県](../Page/兵庫県.md "wikilink")[明石市](../Page/明石市.md "wikilink")の明石工場と[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")[下新川郡](../Page/下新川郡.md "wikilink")[入善町](../Page/入善町.md "wikilink")の北陸工場で生産されている。明石工場最寄り駅の[山陽電気鉄道本線](https://ja.wikipedia.org/wiki/山陽電気鉄道本線 "wikilink")[東二見駅](https://ja.wikipedia.org/wiki/東二見駅 "wikilink")に「東二見駅をご利用のみなさん！おはようございます！」と書かれたWONDAモーニングショットの看板が設置されている。
 
 ## 沿革
 
   - 1997年9月 - 従来の「J.O.」の後継製品として発売した。当初は190[グラム](../Page/グラム.md "wikilink") (g) 缶の「ワンダフルブレンド」「[カフェオレプレミアムテイスト](../Page/カフェ・オ・レ.md "wikilink")（[乳飲料](../Page/乳飲料.md "wikilink")規格）」、250g缶の「オリジナルブレンド」、160g缶の「[ブルーマウンテン](../Page/ブルーマウンテン.md "wikilink")ブレンドEX」の4種類であった。[タイガー・ウッズ](../Page/タイガー・ウッズ.md "wikilink")をテレビCMに起用した。
-  - 1999年 - 「ビター・オレ」「グルメコーヒー [ヘーゼルナッツ](https://ja.wikipedia.org/wiki/ヘーゼルナッツ "wikilink")」を発売。
+  - 1999年 - 「ビター・オレ」「グルメコーヒー [ヘーゼルナッツ](../Page/ヘーゼルナッツ.md "wikilink")」を発売。
   - 2000年
       - 1月 - ブラックコーヒー「ブラック&ブラック」を発売。
       - 5月 - アイスコーヒー「ハワイアンアイス」を発売。
@@ -119,13 +119,13 @@
       - 1月 - 長年缶コーヒーを愛し続けてきた"大人"に向けたサブブランド「大人ワンダ」を立ち上げ、その第1弾として、「大人ワンダ ザ・スタンダード」を発売。
       - 2月 - 高価格帯缶コーヒー「贅沢ダブル」を発売。
       - 3月 - 「ゼロマックスプレミアム」をリニューアル発売。
-      - 4月 - 2日に「大人ワンダ」第2弾として、大容量ボトル缶入りブラックコーヒー「大人ワンダ ザ・ブラック」を発売。16日に「特製カフェオレ」の「AKB48デザイン缶(190g缶)」を数量限定発売（[板野友美](https://ja.wikipedia.org/wiki/板野友美 "wikilink")、[入山杏奈](https://ja.wikipedia.org/wiki/入山杏奈 "wikilink")、[大島優子](https://ja.wikipedia.org/wiki/大島優子 "wikilink")、[柏木由紀](../Page/柏木由紀.md "wikilink")、[加藤玲奈](https://ja.wikipedia.org/wiki/加藤玲奈_\(AKB48\) "wikilink")、[川栄李奈](https://ja.wikipedia.org/wiki/川栄李奈 "wikilink")、[北原里英](https://ja.wikipedia.org/wiki/北原里英 "wikilink")、[小嶋陽菜](https://ja.wikipedia.org/wiki/小嶋陽菜 "wikilink")、[篠田麻里子](https://ja.wikipedia.org/wiki/篠田麻里子 "wikilink")、[島崎遥香](https://ja.wikipedia.org/wiki/島崎遥香 "wikilink")、[高橋みなみ](https://ja.wikipedia.org/wiki/高橋みなみ "wikilink")、[横山由依](https://ja.wikipedia.org/wiki/横山由依 "wikilink")、[渡辺麻友](https://ja.wikipedia.org/wiki/渡辺麻友 "wikilink")の13名が登場しており、1名につき2パターンずつ、計26種類のデザインとなる）
+      - 4月 - 2日に「大人ワンダ」第2弾として、大容量ボトル缶入りブラックコーヒー「大人ワンダ ザ・ブラック」を発売。16日に「特製カフェオレ」の「AKB48デザイン缶(190g缶)」を数量限定発売（[板野友美](https://ja.wikipedia.org/wiki/板野友美 "wikilink")、[入山杏奈](https://ja.wikipedia.org/wiki/入山杏奈 "wikilink")、[大島優子](https://ja.wikipedia.org/wiki/大島優子 "wikilink")、[柏木由紀](../Page/柏木由紀.md "wikilink")、[加藤玲奈](https://ja.wikipedia.org/wiki/加藤玲奈_\(AKB48\) "wikilink")、[川栄李奈](https://ja.wikipedia.org/wiki/川栄李奈 "wikilink")、[北原里英](../Page/北原里英.md "wikilink")、[小嶋陽菜](https://ja.wikipedia.org/wiki/小嶋陽菜 "wikilink")、[篠田麻里子](https://ja.wikipedia.org/wiki/篠田麻里子 "wikilink")、[島崎遥香](https://ja.wikipedia.org/wiki/島崎遥香 "wikilink")、[高橋みなみ](https://ja.wikipedia.org/wiki/高橋みなみ "wikilink")、[横山由依](https://ja.wikipedia.org/wiki/横山由依 "wikilink")、[渡辺麻友](https://ja.wikipedia.org/wiki/渡辺麻友 "wikilink")の13名が登場しており、1名につき2パターンずつ、計26種類のデザインとなる）
       - 5月 - 7日にコーヒーにフレーバー[シロップ](../Page/シロップ.md "wikilink")を加えたこれまでにないタイプの缶コーヒー「フレーバーズ」を発売。14日に「クリーミーラテ」の夏向け仕様の「アイスクリーミーラテ」を発売。21日に「金の微糖」をリニューアル発売。
       - 6月 - 「特製カフェオレ」の夏向け大容量仕様「特製カフェオレ アイスミルクブレンド」を発売。
       - 7月 - [氷点下](https://ja.wikipedia.org/wiki/氷点下 "wikilink")仕込みのアイス用加糖ブラックコーヒー「オン・ザ・ロック 氷点下スペシャル」を発売。
       - 8月 - 冬季限定品として発売した「きれいな微糖」をパッケージリニューアルの上再発売。
       - 9月 - 3日に「クリーミーラテ」をリニューアルし再発売。同時に、「大人ワンダ」の第3弾となる「大人ワンダ ネオ・エスプレッソ」を発売。24日に「モーニングショット」をリニューアル発売。
-      - 10月 - 8日にホット専用「特製カフェオレ ホットミルクブレンド」を発売再開。同時に、「金の微糖」をリニューアルし、エナジー成分を配合したロング缶「パワーブレンドコーヒー」を発売。15日に「特製カフェオレ」をリニューアル発売するとともに、数量限定のAKB48デザイン缶第2弾を同時発売した。各メンバー直筆の「牛」の絵がデザインされて参加メンバーは第1弾に続く入山・大島・柏木・川栄・北原・小嶋・島崎・高橋・横山・渡辺らに加え、[石田晴香](https://ja.wikipedia.org/wiki/石田晴香 "wikilink")、[市川美織](https://ja.wikipedia.org/wiki/市川美織 "wikilink")、[岩佐美咲](https://ja.wikipedia.org/wiki/岩佐美咲 "wikilink")、[梅田彩佳](https://ja.wikipedia.org/wiki/梅田彩佳 "wikilink")、[大場美奈](https://ja.wikipedia.org/wiki/大場美奈 "wikilink")、[片山陽加](https://ja.wikipedia.org/wiki/片山陽加 "wikilink")、[菊地あやか](https://ja.wikipedia.org/wiki/菊地あやか "wikilink")、[倉持明日香](https://ja.wikipedia.org/wiki/倉持明日香 "wikilink")、[佐藤亜美菜](https://ja.wikipedia.org/wiki/佐藤亜美菜 "wikilink")、[佐藤すみれ](https://ja.wikipedia.org/wiki/佐藤すみれ "wikilink")、[田野優花](https://ja.wikipedia.org/wiki/田野優花 "wikilink")、[永尾まりや](https://ja.wikipedia.org/wiki/永尾まりや "wikilink")、[藤江れいな](https://ja.wikipedia.org/wiki/藤江れいな "wikilink")、[前田亜美](https://ja.wikipedia.org/wiki/前田亜美 "wikilink")、[松井咲子](https://ja.wikipedia.org/wiki/松井咲子 "wikilink")、[峯岸みなみ](https://ja.wikipedia.org/wiki/峯岸みなみ "wikilink")、[武藤十夢](https://ja.wikipedia.org/wiki/武藤十夢 "wikilink")、[山内鈴蘭](https://ja.wikipedia.org/wiki/山内鈴蘭 "wikilink")を加えた28名となる。パッケージのさし色は当時の各所属チームで、ピンクはチームA、イエローグリーンはチームK、スカイブルーはチームB、ブラウンはチーム4である。22日にホット専用「モーニングショット ホットブラック」をパッケージリニューアルの上で発売を再開し、同時にコク深いミルクを贅沢に使用した微糖タイプ「傑作」を発売。
+      - 10月 - 8日にホット専用「特製カフェオレ ホットミルクブレンド」を発売再開。同時に、「金の微糖」をリニューアルし、エナジー成分を配合したロング缶「パワーブレンドコーヒー」を発売。15日に「特製カフェオレ」をリニューアル発売するとともに、数量限定のAKB48デザイン缶第2弾を同時発売した。各メンバー直筆の「牛」の絵がデザインされて参加メンバーは第1弾に続く入山・大島・柏木・川栄・北原・小嶋・島崎・高橋・横山・渡辺らに加え、[石田晴香](../Page/石田晴香.md "wikilink")、[市川美織](https://ja.wikipedia.org/wiki/市川美織 "wikilink")、[岩佐美咲](https://ja.wikipedia.org/wiki/岩佐美咲 "wikilink")、[梅田彩佳](../Page/梅田彩佳.md "wikilink")、[大場美奈](https://ja.wikipedia.org/wiki/大場美奈 "wikilink")、[片山陽加](../Page/片山陽加.md "wikilink")、[菊地あやか](../Page/菊地あやか.md "wikilink")、[倉持明日香](../Page/倉持明日香.md "wikilink")、[佐藤亜美菜](https://ja.wikipedia.org/wiki/佐藤亜美菜 "wikilink")、[佐藤すみれ](https://ja.wikipedia.org/wiki/佐藤すみれ "wikilink")、[田野優花](https://ja.wikipedia.org/wiki/田野優花 "wikilink")、[永尾まりや](https://ja.wikipedia.org/wiki/永尾まりや "wikilink")、[藤江れいな](../Page/藤江れいな.md "wikilink")、[前田亜美](https://ja.wikipedia.org/wiki/前田亜美 "wikilink")、[松井咲子](https://ja.wikipedia.org/wiki/松井咲子 "wikilink")、[峯岸みなみ](https://ja.wikipedia.org/wiki/峯岸みなみ "wikilink")、[武藤十夢](https://ja.wikipedia.org/wiki/武藤十夢 "wikilink")、[山内鈴蘭](https://ja.wikipedia.org/wiki/山内鈴蘭 "wikilink")を加えた28名となる。パッケージのさし色は当時の各所属チームで、ピンクはチームA、イエローグリーンはチームK、スカイブルーはチームB、ブラウンはチーム4である。22日にホット専用「モーニングショット ホットブラック」をパッケージリニューアルの上で発売を再開し、同時にコク深いミルクを贅沢に使用した微糖タイプ「傑作」を発売。
       - 11月 - 「フレーバーズ」のミルク入りタイプ「フレーバーズ ホワイト」を発売。
       - 12月 - [カフェイン](../Page/カフェイン.md "wikilink")レスの缶コーヒー「グリーンカフェ」を発売。[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")でWONDAブランドの缶コーヒーを販売開始\[6\]。
   - 2014年
@@ -154,7 +154,7 @@
   - 2016年
       - 1月 - 乳飲料規格の「ロイヤルリッチ」を発売\[7\]。
       - 3月 - 「モーニングショット」をリニューアル発売。
-      - 4月 - 5日に[丸福商店](https://ja.wikipedia.org/wiki/丸福商店 "wikilink")が運営する珈琲店「丸福珈琲店」が監修したボトル缶コーヒーの新シリーズ「ワンダ 極（きわみ）」を立ち上げ、微糖タイプの「ワンダ 極 微糖」を発売。19日に、2015年5月に発売されたアイスコーヒー「ワールドトリップ アイスマウンテン」を「アイスマウンテン」に改名してリニューアルし、発売を再開。
+      - 4月 - 5日に[丸福商店](../Page/丸福商店.md "wikilink")が運営する珈琲店「丸福珈琲店」が監修したボトル缶コーヒーの新シリーズ「ワンダ 極（きわみ）」を立ち上げ、微糖タイプの「ワンダ 極 微糖」を発売。19日に、2015年5月に発売されたアイスコーヒー「ワールドトリップ アイスマウンテン」を「アイスマウンテン」に改名してリニューアルし、発売を再開。
       - 5月 - 10日に「ワンダ 極」シリーズの無糖ブラック「ワンダ 極 ブラック」、コーヒー豆をキリマンジャロ1種類のみ・ミルクを牛乳のみ・砂糖を少なめにして人工甘味料を不使用とした微糖タイプ「ザ・シンプル」、「クリーミーラテ」の夏向け仕様で3年ぶりの再発売となる「アイスクリーミーラテ」の3種類を同時発売。17日に微糖タイプ「青空の一服 微糖」を発売（本品は「アイスマウンテン」同様にメーカー希望小売価格が他の製品よりも4円安く設定されている）。
       - 6月 - 加糖ブラックタイプの朝専用アイスコーヒー「モーニングショット アイスブレンド」を発売。
       - 8月 - 16日に自動販売機専売製品「炭火の季節」を発売（本品は「アイスマウンテン」や「青空の一服 微糖」同様にメーカー希望小売価格が他の製品よりも4円安く設定されている）、30日に「金の微糖」をリニューアルし、自動販売機専売のボトル缶製品「金の微糖 スペシャルゴールド」を発売。
@@ -323,7 +323,7 @@
   - WONDA 大人ワンダ ザ・ブラック（コーヒー）
   - WONDA 特製クオリティ100（コーヒー）
   - WONDA 一番澄み（コーヒー）
-  - WONDA 朝のカフェオレ（コーヒー飲料） - [JR東日本ウォータービジネス](https://ja.wikipedia.org/wiki/JR東日本ウォータービジネス "wikilink") との共同企画商品。[JR東日本グループ店舗限定販売](../Page/東日本旅客鉄道.md "wikilink")
+  - WONDA 朝のカフェオレ（コーヒー飲料） - [JR東日本ウォータービジネス](../Page/JR東日本ウォータービジネス.md "wikilink") との共同企画商品。[JR東日本グループ店舗限定販売](../Page/東日本旅客鉄道.md "wikilink")
   - WONDA ホット朝のカフェオレ（コーヒー飲料） - JR東日本グループ店舗限定販売
   - WONDA オン・ザ・ロック 氷点下スペシャル（コーヒー）
   - WONDA 傑作（乳飲料）
@@ -333,7 +333,7 @@
   - WONDA 特製カロリーハーフコーヒー（コーヒー飲料）
   - WONDA クラフトマンシップ 贅沢炭焼（コーヒー）
   - WONDA きれいな微糖（コーヒー）
-  - WONDA カフェ・ド・ブラジル アスレタデザイン（コーヒー） - ブラジル発のフットボールブランド「[アスレタ](https://ja.wikipedia.org/wiki/アスレタ "wikilink")」とのコラボレーション製品
+  - WONDA カフェ・ド・ブラジル アスレタデザイン（コーヒー） - ブラジル発のフットボールブランド「[アスレタ](../Page/アスレタ.md "wikilink")」とのコラボレーション製品
   - WONDA ワールドトリップ 開拓者の微糖（コーヒー）
   - WONDA 特製カフェオレ アイスミルクブレンド（コーヒー飲料）
   - WONDA モーニングショット ブラック（コーヒー）
@@ -409,33 +409,33 @@
 
   - [タイガー・ウッズ](../Page/タイガー・ウッズ.md "wikilink")（ワンダフルブレンド）
   - [原田泰造](../Page/原田泰造.md "wikilink")（圧力仕立て・ショット&ショット69）
-  - [勇者ライディーン](https://ja.wikipedia.org/wiki/勇者ライディーン "wikilink")（100年BLACK）
+  - [勇者ライディーン](../Page/勇者ライディーン.md "wikilink")（100年BLACK）
   - [泉谷しげる](../Page/泉谷しげる.md "wikilink")（100年BLACK）
   - [仲間由紀恵](https://ja.wikipedia.org/wiki/仲間由紀恵 "wikilink")（モーニングショット・アフターショット）
-  - [タカ&トシ](https://ja.wikipedia.org/wiki/タカアンドトシ "wikilink")（モーニングショット）
-  - [荒川良々](https://ja.wikipedia.org/wiki/荒川良々 "wikilink")（モーニングショット）
+  - [タカ&トシ](../Page/タカアンドトシ.md "wikilink")（モーニングショット）
+  - [荒川良々](../Page/荒川良々.md "wikilink")（モーニングショット）
   - [横峯さくら](https://ja.wikipedia.org/wiki/横峯さくら "wikilink")（モーニングショット）
-  - [彦摩呂](https://ja.wikipedia.org/wiki/彦摩呂 "wikilink")（アフターショット）
-  - [チュートリアル](https://ja.wikipedia.org/wiki/チュートリアル_\(お笑いコンビ\) "wikilink")（モーニングショット）
+  - [彦摩呂](../Page/彦摩呂.md "wikilink")（アフターショット）
+  - [チュートリアル](../Page/チュートリアル_\(お笑いコンビ\).md "wikilink")（モーニングショット）
   - [西川きよし](../Page/西川きよし.md "wikilink")（モーニングショット）
   - [所ジョージ](https://ja.wikipedia.org/wiki/所ジョージ "wikilink")（モーニングショット）
   - [小倉優子](https://ja.wikipedia.org/wiki/小倉優子 "wikilink")（モーニングショット）
   - [コブクロ](https://ja.wikipedia.org/wiki/コブクロ "wikilink")（モーニングショット）
   - [山本リンダ](https://ja.wikipedia.org/wiki/山本リンダ "wikilink")（ショット&ショット）
-  - [吉川晃司](https://ja.wikipedia.org/wiki/吉川晃司 "wikilink")（ショット&ショット）
-  - [笠浩二](https://ja.wikipedia.org/wiki/笠浩二 "wikilink")（ショット&ショット）
+  - [吉川晃司](../Page/吉川晃司.md "wikilink")（ショット&ショット）
+  - [笠浩二](../Page/笠浩二.md "wikilink")（ショット&ショット）
   - [相田翔子](https://ja.wikipedia.org/wiki/相田翔子 "wikilink")（ショット&ショット）
       -
-        ショット&ショットのキャッチコピー“**止まらない 新・微糖**”。“止まらない”などがタイトルにあるヒット曲を持つ歌手を起用し、山本は「[どうにもとまらない](https://ja.wikipedia.org/wiki/どうにもとまらない "wikilink")」、吉川は[COMPLEX](https://ja.wikipedia.org/wiki/COMPLEX "wikilink")「[恋をとめないで](https://ja.wikipedia.org/wiki/COMPLEX_\(アルバム\) "wikilink")」、笠は[C-C-B](https://ja.wikipedia.org/wiki/C-C-B "wikilink")「[Romanticが止まらない](https://ja.wikipedia.org/wiki/Romanticが止まらない "wikilink")」、相田は[Wink](../Page/Wink.md "wikilink")「[淋しい熱帯魚](https://ja.wikipedia.org/wiki/淋しい熱帯魚 "wikilink")」（「[愛が止まらない 〜Turn it into love〜](https://ja.wikipedia.org/wiki/愛が止まらない_〜Turn_it_into_love〜 "wikilink")」の代替として）の替え歌を、それぞれ披露した。
+        ショット&ショットのキャッチコピー“**止まらない 新・微糖**”。“止まらない”などがタイトルにあるヒット曲を持つ歌手を起用し、山本は「[どうにもとまらない](https://ja.wikipedia.org/wiki/どうにもとまらない "wikilink")」、吉川は[COMPLEX](../Page/COMPLEX.md "wikilink")「[恋をとめないで](../Page/COMPLEX_\(アルバム\).md "wikilink")」、笠は[C-C-B](../Page/C-C-B.md "wikilink")「[Romanticが止まらない](https://ja.wikipedia.org/wiki/Romanticが止まらない "wikilink")」、相田は[Wink](../Page/Wink.md "wikilink")「[淋しい熱帯魚](../Page/淋しい熱帯魚.md "wikilink")」（「[愛が止まらない 〜Turn it into love〜](https://ja.wikipedia.org/wiki/愛が止まらない_〜Turn_it_into_love〜 "wikilink")」の代替として）の替え歌を、それぞれ披露した。
   - [ユースケ・サンタマリア](../Page/ユースケ・サンタマリア.md "wikilink")（ショット&ショット）
-  - [柳沢慎吾](https://ja.wikipedia.org/wiki/柳沢慎吾 "wikilink")（ショット&ショット69 ※ただし音声のみ）
+  - [柳沢慎吾](../Page/柳沢慎吾.md "wikilink")（ショット&ショット69 ※ただし音声のみ）
   - [桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")（モーニングショット・アフターショット・圧力仕立てBLACK・金の微糖）
       -
-        桑田バージョンのテーマは“**天国の偉人たち**”で、桑田と[鬼籍](https://ja.wikipedia.org/wiki/鬼籍 "wikilink")入りした著名人の映像によって“共演”するという内容。第1弾（モーニングショット）は、早朝の駅のホームで、電車に乗り遅れた桑田の前に、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")を代表する[映画監督](../Page/映画監督.md "wikilink")の[黒澤明](../Page/黒澤明.md "wikilink")の姿が映るというもの。第2弾（アフターショット）では[デパート](https://ja.wikipedia.org/wiki/デパート "wikilink")の[屋上](https://ja.wikipedia.org/wiki/屋上 "wikilink")にいる桑田の前に[植木等](https://ja.wikipedia.org/wiki/植木等 "wikilink")が現れるという内容。第3弾（モーニングショットのホットバージョン）は、桑田が路上で缶コーヒーの蓋を開けた途端、[ジャイアント馬場](../Page/ジャイアント馬場.md "wikilink")が現れてリング上で桑田と対決し、馬場から“十六文キック”を浴びせられるという設定。黒澤、植木、馬場の姿は生前の映像から[CGを使って抽出したものを実際の映像に合成した](../Page/コンピュータグラフィックス.md "wikilink")。故人との“共演”は桑田本人が企画したものである。2008年4月から第4弾（モーニングショット）が放映されたバージョンは、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")としてデビューした際に初めてCM出演した[三ツ矢サイダー](https://ja.wikipedia.org/wiki/三ツ矢サイダー "wikilink")（アサヒ飲料の主力商品）のCMに出演した当時の桑田と現在の桑田が“共演”したものが放映された。桑田は過去に[キリンJive](../Page/キリンビバレッジ.md "wikilink")（現・キリンFIRE）や[コカ・コーラ](../Page/コカ・コーラ.md "wikilink")のCMにも出演していた。WONDAのCM出演契約が終了した数年後の2016年に[UCCのUCC](../Page/UCC上島珈琲.md "wikilink") BLACK無糖のCMに出演。
+        桑田バージョンのテーマは“**天国の偉人たち**”で、桑田と[鬼籍](../Page/鬼籍.md "wikilink")入りした著名人の映像によって“共演”するという内容。第1弾（モーニングショット）は、早朝の駅のホームで、電車に乗り遅れた桑田の前に、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")を代表する[映画監督](../Page/映画監督.md "wikilink")の[黒澤明](../Page/黒澤明.md "wikilink")の姿が映るというもの。第2弾（アフターショット）では[デパート](https://ja.wikipedia.org/wiki/デパート "wikilink")の[屋上](../Page/屋上.md "wikilink")にいる桑田の前に[植木等](https://ja.wikipedia.org/wiki/植木等 "wikilink")が現れるという内容。第3弾（モーニングショットのホットバージョン）は、桑田が路上で缶コーヒーの蓋を開けた途端、[ジャイアント馬場](../Page/ジャイアント馬場.md "wikilink")が現れてリング上で桑田と対決し、馬場から“十六文キック”を浴びせられるという設定。黒澤、植木、馬場の姿は生前の映像から[CGを使って抽出したものを実際の映像に合成した](../Page/コンピュータグラフィックス.md "wikilink")。故人との“共演”は桑田本人が企画したものである。2008年4月から第4弾（モーニングショット）が放映されたバージョンは、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")としてデビューした際に初めてCM出演した[三ツ矢サイダー](../Page/三ツ矢サイダー.md "wikilink")（アサヒ飲料の主力商品）のCMに出演した当時の桑田と現在の桑田が“共演”したものが放映された。桑田は過去に[キリンJive](../Page/キリンビバレッジ.md "wikilink")（現・キリンFIRE）や[コカ・コーラ](../Page/コカ・コーラ.md "wikilink")のCMにも出演していた。WONDAのCM出演契約が終了した数年後の2016年に[UCCのUCC](../Page/UCC上島珈琲.md "wikilink") BLACK無糖のCMに出演。
     <!-- end list -->
-      - モーニングショット（第1弾・第3弾）・アフターショットとも 使用楽曲「[NUMBER WONDA GIRL ～恋するワンダ～](https://ja.wikipedia.org/wiki/風の詩を聴かせて#収録曲 "wikilink")」、圧力仕立てBLACK、金の微糖とも 使用楽曲「[ダーリン](https://ja.wikipedia.org/wiki/ダーリン_\(桑田佳祐の曲\) "wikilink")」、モーニングショット(第4弾)の使用楽曲「[DEAR MY FRIEND](https://ja.wikipedia.org/wiki/桑田さんのお仕事_07/08_〜魅惑のAVマリアージュ〜#収録曲 "wikilink")」 いずれも桑田佳祐。
+      - モーニングショット（第1弾・第3弾）・アフターショットとも 使用楽曲「[NUMBER WONDA GIRL ～恋するワンダ～](https://ja.wikipedia.org/wiki/風の詩を聴かせて#収録曲 "wikilink")」、圧力仕立てBLACK、金の微糖とも 使用楽曲「[ダーリン](../Page/ダーリン_\(桑田佳祐の曲\).md "wikilink")」、モーニングショット(第4弾)の使用楽曲「[DEAR MY FRIEND](https://ja.wikipedia.org/wiki/桑田さんのお仕事_07/08_〜魅惑のAVマリアージュ〜#収録曲 "wikilink")」 いずれも桑田佳祐。
   - [岡田義徳](https://ja.wikipedia.org/wiki/岡田義徳 "wikilink")（ゼロマックス）
-  - [東根作寿英](https://ja.wikipedia.org/wiki/東根作寿英 "wikilink")（ゼロマックス）
+  - [東根作寿英](../Page/東根作寿英.md "wikilink")（ゼロマックス）
   - [鶴岡知恵](https://ja.wikipedia.org/wiki/鶴岡知恵 "wikilink")（フリーズドリップ）
   - [ローラ・チャン](https://ja.wikipedia.org/wiki/ローラ・チャン "wikilink")（モーニングショット、ザ・ブラック）
   - [高田純次](../Page/高田純次.md "wikilink")（ザ・ブラック、モーニングショット、金の微糖、ゼロマックス、ジェットカフェ、スーパーライト、一番ドリップ微糖）
@@ -449,11 +449,11 @@
       - [唐沢寿明](../Page/唐沢寿明.md "wikilink")（第一営業部・部長）
       - [GACKT](https://ja.wikipedia.org/wiki/GACKT "wikilink")（第一営業部・課長）
       - [市原隼人](https://ja.wikipedia.org/wiki/市原隼人 "wikilink")（第一営業部・新人）
-      - [岸部一徳](https://ja.wikipedia.org/wiki/岸部一徳 "wikilink")（副社長）
+      - [岸部一徳](../Page/岸部一徳.md "wikilink")（副社長）
       - [戸田恵梨香](https://ja.wikipedia.org/wiki/戸田恵梨香 "wikilink")（社長）
-  - [國村隼](https://ja.wikipedia.org/wiki/國村隼 "wikilink")
-  - [沢村一樹](https://ja.wikipedia.org/wiki/沢村一樹 "wikilink")
-  - [古田新太](https://ja.wikipedia.org/wiki/古田新太 "wikilink")
+  - [國村隼](../Page/國村隼.md "wikilink")
+  - [沢村一樹](../Page/沢村一樹.md "wikilink")
+  - [古田新太](../Page/古田新太.md "wikilink")
 
 <!-- end list -->
 
@@ -464,18 +464,18 @@
 
   - 大人ワンダ
       - [渡部篤郎](../Page/渡部篤郎.md "wikilink")
-      - [小日向文世](https://ja.wikipedia.org/wiki/小日向文世 "wikilink")
+      - [小日向文世](../Page/小日向文世.md "wikilink")
   - モーニングショット（以下の出演者はAKB48の一部のメンバーと共演）
-      - [柄本佑](https://ja.wikipedia.org/wiki/柄本佑 "wikilink")、[でんでん](https://ja.wikipedia.org/wiki/でんでん "wikilink")（オフィスドラマCM「朝の元気」編で大島優子と共演）
+      - [柄本佑](../Page/柄本佑.md "wikilink")、[でんでん](../Page/でんでん.md "wikilink")（オフィスドラマCM「朝の元気」編で大島優子と共演）
       - [大杉漣](../Page/大杉漣.md "wikilink")（同「笑って」編で渡辺麻友と共演）
-      - [青木崇高](https://ja.wikipedia.org/wiki/青木崇高 "wikilink")（同「ICカード」編で島崎遥香、篠田麻里子と共演）
-      - [大和田伸也](https://ja.wikipedia.org/wiki/大和田伸也 "wikilink")（同「回転」編で小嶋陽菜、島崎遥香と共演）
+      - [青木崇高](../Page/青木崇高.md "wikilink")（同「ICカード」編で島崎遥香、篠田麻里子と共演）
+      - [大和田伸也](../Page/大和田伸也.md "wikilink")（同「回転」編で小嶋陽菜、島崎遥香と共演）
   - [織田裕二](../Page/織田裕二.md "wikilink")（金の微糖・ゴールドブラック-金の無糖-）
   - [山崎努](../Page/山崎努.md "wikilink")（同上）
-  - [劇団ひとり](https://ja.wikipedia.org/wiki/劇団ひとり "wikilink")
+  - [劇団ひとり](../Page/劇団ひとり.md "wikilink")
   - [澤部佑](https://ja.wikipedia.org/wiki/澤部佑 "wikilink")（[ハライチ](https://ja.wikipedia.org/wiki/ハライチ "wikilink")） - 「特製カフェオレ」のみ単独出演
   - [春日俊彰](https://ja.wikipedia.org/wiki/春日俊彰 "wikilink")（[オードリー](https://ja.wikipedia.org/wiki/オードリー_\(お笑いコンビ\) "wikilink")） - 「金の微糖」で上記の澤部佑と共演
-  - [堺正章](https://ja.wikipedia.org/wiki/堺正章 "wikilink") - 「極」の「ずーっと編」でビートたけし・劇団ひとりと共演\[13\]。
+  - [堺正章](../Page/堺正章.md "wikilink") - 「極」の「ずーっと編」でビートたけし・劇団ひとりと共演\[13\]。
 
 ## スピンオフ
 
@@ -498,8 +498,8 @@
 
 1.  [ワンダ](http://www.asahiinryo.co.jp/wonda/sp/)アサヒ飲料（2018年4月20日閲覧）
 2.  2016年1月にアサヒ飲料へ吸収合併
-3.  [味の素ゼネラルフーヅが自社で製造して販売する](https://ja.wikipedia.org/wiki/味の素AGF "wikilink")、コーヒー飲料規格で体脂肪特定保健認定食品として発売された旧称「ブレンディ 香るブラック」の「ブレンディプラス ブラック」を含む、ペットボトル入り**「ブレンディ」ボトルコーヒーシリーズ**、コーヒー飲料規格で体脂肪特定保健認定食品として発売された旧称「ブレンディ 香るコーヒー&ミルク」のボトル型缶コーヒー**「ブレンディプラス コーヒー&ミルク」**、2009年4月にコーヒー飲料規格で**体脂肪特定保健認定食品**として[コンビニエンスストア](../Page/コンビニエンスストア.md "wikilink")限定で発売した缶コーヒーの旧称**「ブレンディプラス　微糖タイプ」**で2009年9月から「**ブレンディプラス 缶**」、の3種はそれぞれ「WONDA」の同種商品が1種類のみで競合せずに2011年2月頃まで製造した。
-4.  [『自販機で買えなくなる「ネスカフェ」ブランド』](http://www.yomiuri.co.jp/economy/20150302-OYT1T50158.html?from=ycont_top_txt) - [読売新聞](https://ja.wikipedia.org/wiki/読売新聞 "wikilink") 2015年3月3日
+3.  [味の素ゼネラルフーヅが自社で製造して販売する](../Page/味の素AGF.md "wikilink")、コーヒー飲料規格で体脂肪特定保健認定食品として発売された旧称「ブレンディ 香るブラック」の「ブレンディプラス ブラック」を含む、ペットボトル入り**「ブレンディ」ボトルコーヒーシリーズ**、コーヒー飲料規格で体脂肪特定保健認定食品として発売された旧称「ブレンディ 香るコーヒー&ミルク」のボトル型缶コーヒー**「ブレンディプラス コーヒー&ミルク」**、2009年4月にコーヒー飲料規格で**体脂肪特定保健認定食品**として[コンビニエンスストア](../Page/コンビニエンスストア.md "wikilink")限定で発売した缶コーヒーの旧称**「ブレンディプラス　微糖タイプ」**で2009年9月から「**ブレンディプラス 缶**」、の3種はそれぞれ「WONDA」の同種商品が1種類のみで競合せずに2011年2月頃まで製造した。
+4.  [『自販機で買えなくなる「ネスカフェ」ブランド』](http://www.yomiuri.co.jp/economy/20150302-OYT1T50158.html?from=ycont_top_txt) - [読売新聞](../Page/読売新聞.md "wikilink") 2015年3月3日
 5.
 6.
 7.

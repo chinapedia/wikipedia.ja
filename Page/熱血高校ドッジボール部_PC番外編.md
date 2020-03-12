@@ -8,7 +8,7 @@
   -
     [アーケード版と](../Page/アーケードゲーム.md "wikilink")[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")（以下、FC版）を足して2で割ったような内容になっている。グラフィックはアーケード版をベースにしている。
     ゲームとしての完成度は高かったが、各国選手の特色がFC版と比較するとかなり薄められている。
-    [テクノスジャパン](https://ja.wikipedia.org/wiki/テクノスジャパン "wikilink")のソフトとして初めてPCエンジン版の発売されたソフトである。ただ、販売元は契約上の問題からかナグザットになっている。
+    [テクノスジャパン](../Page/テクノスジャパン.md "wikilink")のソフトとして初めてPCエンジン版の発売されたソフトである。ただ、販売元は契約上の問題からかナグザットになっている。
     アーケード版同様、制限時間が設けられている。制限時間内に敵コートの内野を全員倒さないと、味方コートの内野の人数に関係なくゲームオーバーとなる。
 
 ## ゲーム内容
@@ -24,7 +24,7 @@
 
   -
     一人プレイ専用。
-    敵チームの内野を4人全員倒せば試合に勝利。逆に熱血高校の内野が4人とも倒されると[ゲームオーバー](https://ja.wikipedia.org/wiki/ゲームオーバー "wikilink")となる。
+    敵チームの内野を4人全員倒せば試合に勝利。逆に熱血高校の内野が4人とも倒されると[ゲームオーバー](../Page/ゲームオーバー.md "wikilink")となる。
     最初の対戦相手、花園高校を倒した後は、世界各国を遠征して試合をしていく。最後の対戦相手、アメリカチームに勝利すると表彰式の後、イギリス戦に戻り、時間が縮小されての試合となる。
     アイスランド、アフリカの試合用コートは通常のコートとは違った効果があり、アイスランドは地面が滑りやすく、アフリカは走りにくいという地形効果がある。
     このモードにはコンティニューが無制限にある上、無限ループが存在するため、エンディングが存在しない。
@@ -336,7 +336,7 @@
 
 ## 移植版・続編・関連商品
 
-  - [熱血高校ドッジボール部](https://ja.wikipedia.org/wiki/熱血高校ドッジボール部 "wikilink")（アーケード版） - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[11月](../Page/11月.md "wikilink")
+  - [熱血高校ドッジボール部](../Page/熱血高校ドッジボール部.md "wikilink")（アーケード版） - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[11月](../Page/11月.md "wikilink")
   - [熱血高校ドッジボール部（ファミリーコンピュータ版）](../Page/熱血高校ドッジボール部_\(ファミリーコンピュータ\).md "wikilink") - [1988年](../Page/1988年.md "wikilink")[7月26日](../Page/7月26日.md "wikilink")
 
 <!-- end list -->
@@ -355,10 +355,10 @@
 
 <!-- end list -->
 
-  - 熱血高校ドッジボール部 〜強敵\!闘球戦士の巻〜（[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")版） - [1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[8月8日](../Page/8月8日.md "wikilink")
-  - [くにおくんのドッジボールだよ全員集合\!](https://ja.wikipedia.org/wiki/くにおくんのドッジボールだよ全員集合! "wikilink")（[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")版） - [1993年](../Page/1993年.md "wikilink")[8月6日](../Page/8月6日.md "wikilink")
+  - 熱血高校ドッジボール部 〜強敵\!闘球戦士の巻〜（[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")版） - [1991年](../Page/1991年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")
+  - [くにおくんのドッジボールだよ全員集合\!](../Page/くにおくんのドッジボールだよ全員集合!.md "wikilink")（[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")版） - [1993年](../Page/1993年.md "wikilink")[8月6日](../Page/8月6日.md "wikilink")
   - くにおの熱血闘球伝説（[ネオジオ](https://ja.wikipedia.org/wiki/ネオジオ "wikilink")版） - [1996年](../Page/1996年.md "wikilink")
-  - [オレたちゲーセン族](https://ja.wikipedia.org/wiki/オレたちゲーセン族 "wikilink") 熱血高校ドッジボール部（[PlayStation 2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")）　- [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")
+  - [オレたちゲーセン族](../Page/オレたちゲーセン族.md "wikilink") 熱血高校ドッジボール部（[PlayStation 2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")）　- [2006年](../Page/2006年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")
 
 <!-- end list -->
 

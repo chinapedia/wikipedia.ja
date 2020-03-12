@@ -7,8 +7,8 @@
 
   - 2000年4月：私塾として開校。
   - [2002年](../Page/2002年.md "wikilink")12月：ブラジルから認可校と認められる
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")11月28日：[各種学校](../Page/各種学校.md "wikilink")、準学校法人として認可
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")2月1日：各種学校として開校
+  - [2006年](../Page/2006年.md "wikilink")11月28日：[各種学校](../Page/各種学校.md "wikilink")、準学校法人として認可
+  - [2007年](../Page/2007年.md "wikilink")2月1日：各種学校として開校
 
 ## 外部リンク
 
@@ -18,7 +18,7 @@
 
 ## 関連項目
 
-  - [カンティーニョ学園](https://ja.wikipedia.org/wiki/カンティーニョ学園 "wikilink")（ブラジル人学校・[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[豊橋市](https://ja.wikipedia.org/wiki/豊橋市 "wikilink")）
+  - [カンティーニョ学園](https://ja.wikipedia.org/wiki/カンティーニョ学園 "wikilink")（ブラジル人学校・[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[豊橋市](../Page/豊橋市.md "wikilink")）
   - [岐阜県外国人学校一覧](https://ja.wikipedia.org/wiki/岐阜県外国人学校一覧 "wikilink")
   - [ブラジル学校](https://ja.wikipedia.org/wiki/ブラジル学校 "wikilink")
   - [インターナショナルスクール](https://ja.wikipedia.org/wiki/インターナショナルスクール "wikilink")

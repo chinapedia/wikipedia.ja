@@ -3,16 +3,16 @@
 
 **ketchup mania**（けちゃっぷマニア）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の4人組[バンド](../Page/バンド_\(音楽\).md "wikilink")。キュートでポップな歌声にパンクサウンドを織り交ぜたサウンドで活動。所属レーベルは[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")。
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")、トイズファクトリーに移籍し、アルバム「U・R・G・E」からはグループ名を**けちゃっぷmania**から**ketchup mania**（読みは同じ）に改名した。
+[2007年](../Page/2007年.md "wikilink")、トイズファクトリーに移籍し、アルバム「U・R・G・E」からはグループ名を**けちゃっぷmania**から**ketchup mania**（読みは同じ）に改名した。
 
 [2009年](../Page/2009年.md "wikilink")5月のラストライブをもって解散。
 
 ## メンバー構成
 
   - **HIRO**　 [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")　本名：前田 裕子・まえだ ひろこ　出身地：[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[津島市](../Page/津島市.md "wikilink")　誕生日：[1981年](../Page/1981年.md "wikilink")[1月20日](../Page/1月20日.md "wikilink")　星座：[水瓶座](https://ja.wikipedia.org/wiki/水瓶座 "wikilink")　血液型：B型　解散後 [THE CAT LOVES STRAWBERRIES](https://ja.wikipedia.org/wiki/THE_CAT_LOVES_STRAWBERRIES "wikilink") 結成
-  - **DAI**　 [ギター](../Page/ギター.md "wikilink")　本名：加藤 大・かとう だい　出身地：愛知県[名古屋市](../Page/名古屋市.md "wikilink")　誕生日：[1979年](../Page/1979年.md "wikilink")[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink")　星座：[乙女座](https://ja.wikipedia.org/wiki/処女宮 "wikilink")　血液型：A型　解散後 [KiLLKiLLS](https://ja.wikipedia.org/wiki/KiLLKiLLS "wikilink") 結成
-  - **Yosei**　 [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")　出身地：愛知県津島市　誕生日：[1979年](../Page/1979年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")　星座：[魚座](https://ja.wikipedia.org/wiki/双魚宮 "wikilink")　血液型：A型 解散後 [Na-No](https://ja.wikipedia.org/wiki/Na-No "wikilink") 結成
-  - **WANI**　 [ドラム](../Page/ドラムセット.md "wikilink")　出身地：愛知県[知多市](../Page/知多市.md "wikilink")　誕生日：[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[2月1日](../Page/2月1日.md "wikilink")　星座：[水瓶座](https://ja.wikipedia.org/wiki/宝瓶宮 "wikilink")　血液型：AB型 解散後 KiLLKiLLS、Na-Noを経て、サポートドラマーとしても活動している。主なサポートアーティストは、[T-BOLAN](https://ja.wikipedia.org/wiki/T-BOLAN "wikilink")の[森友嵐士](https://ja.wikipedia.org/wiki/森友嵐士 "wikilink")、[electro53](https://ja.wikipedia.org/wiki/electro53 "wikilink")の[五味孝氏](https://ja.wikipedia.org/wiki/五味孝氏 "wikilink")等。現在はex.[GOLLBETTY](../Page/GOLLBETTY.md "wikilink")のVo,[G-YUNcoSANDY](https://ja.wikipedia.org/wiki/G-YUNcoSANDY "wikilink")、Gt,MISSYと新たなバンド、[トライアンパサンディ](https://ja.wikipedia.org/wiki/トライアンパサンディ "wikilink")として活動している。Twitterアカウント@drums_wani。
+  - **DAI**　 [ギター](../Page/ギター.md "wikilink")　本名：加藤 大・かとう だい　出身地：愛知県[名古屋市](../Page/名古屋市.md "wikilink")　誕生日：[1979年](../Page/1979年.md "wikilink")[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink")　星座：[乙女座](../Page/処女宮.md "wikilink")　血液型：A型　解散後 [KiLLKiLLS](https://ja.wikipedia.org/wiki/KiLLKiLLS "wikilink") 結成
+  - **Yosei**　 [ベース](../Page/ベース_\(弦楽器\).md "wikilink")　出身地：愛知県津島市　誕生日：[1979年](../Page/1979年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")　星座：[魚座](https://ja.wikipedia.org/wiki/双魚宮 "wikilink")　血液型：A型 解散後 [Na-No](https://ja.wikipedia.org/wiki/Na-No "wikilink") 結成
+  - **WANI**　 [ドラム](../Page/ドラムセット.md "wikilink")　出身地：愛知県[知多市](../Page/知多市.md "wikilink")　誕生日：[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[2月1日](../Page/2月1日.md "wikilink")　星座：[水瓶座](../Page/宝瓶宮.md "wikilink")　血液型：AB型 解散後 KiLLKiLLS、Na-Noを経て、サポートドラマーとしても活動している。主なサポートアーティストは、[T-BOLAN](../Page/T-BOLAN.md "wikilink")の[森友嵐士](../Page/森友嵐士.md "wikilink")、[electro53](https://ja.wikipedia.org/wiki/electro53 "wikilink")の[五味孝氏](../Page/五味孝氏.md "wikilink")等。現在はex.[GOLLBETTY](../Page/GOLLBETTY.md "wikilink")のVo,[G-YUNcoSANDY](https://ja.wikipedia.org/wiki/G-YUNcoSANDY "wikilink")、Gt,MISSYと新たなバンド、[トライアンパサンディ](https://ja.wikipedia.org/wiki/トライアンパサンディ "wikilink")として活動している。Twitterアカウント@drums_wani。
 
 ## 来歴
 
@@ -21,7 +21,7 @@
   - 2000年3月　2曲入り2ndデモテープ『TRESURE TIME』を発表。
   - 2000年4月　名古屋のTWISTER RECORDSよりリリースされたオムニバスCD『DESTRUCTION』に 『姫の想い』で参加。レコ発ライブを今池BOTTOM LINEにて行う。『姫の想い』は大変好評で、名古屋のFM放送局[ZIP-FM](../Page/ZIP-FM.md "wikilink")の番組 「ロックディビィジョンZ」の「[FIND OUT](https://ja.wikipedia.org/wiki/FIND_OUT "wikilink")」のコーナーで5月の月間グランプリとなる。
   - 2000年6月　ZIP-FM「ロックディビィジョン」の「FIND OUT」コーナーで 4,5,6月の3ヶ月間の最優秀グランプリとなり8月に行われるZIP-FM主催のイベント「TELL ME」のオープニングアクトが決定。
-  - 2000年8月　名古屋今池BOTTOM LINEにて行われたZIP-FM主催のイベント 「TELL ME」のオープニングアクトとして[Cymbals](https://ja.wikipedia.org/wiki/Cymbals "wikilink")、[エレキハチマキ](https://ja.wikipedia.org/wiki/エレキハチマキ "wikilink")、[LOVE PSYCHEDELICOといったメジャー](https://ja.wikipedia.org/wiki/LOVE_PSYCHEDELICO "wikilink")3バンドと共演する。この日BOTTOM LINEは1200人の超満員となり大盛況に終わる。
+  - 2000年8月　名古屋今池BOTTOM LINEにて行われたZIP-FM主催のイベント 「TELL ME」のオープニングアクトとして[Cymbals](../Page/Cymbals.md "wikilink")、[エレキハチマキ](https://ja.wikipedia.org/wiki/エレキハチマキ "wikilink")、[LOVE PSYCHEDELICOといったメジャー](https://ja.wikipedia.org/wiki/LOVE_PSYCHEDELICO "wikilink")3バンドと共演する。この日BOTTOM LINEは1200人の超満員となり大盛況に終わる。
   - 2000年12月　CBCの音楽番組「KING OF INDIRES」に出演。
   - 2001年2月　1st mini album"strong music story" をTWISTER RECORDSよりリリース。
   - 2001年9月　2nd mini album"PUNK POP FREAK"をTWISTER RECORDSよりリリース。
@@ -39,11 +39,11 @@
   - 2005年[12月7日](../Page/12月7日.md "wikilink")　メジャーデビューとなる1st single　“ジングルベリー”をユニバーサルよりリリース。
   - 2006年[1月18日](../Page/1月18日.md "wikilink")　2nd single　“涙☆バキュームサウンド”をユニバーサルよりリリース。
   - 2006年[2月15日](../Page/2月15日.md "wikilink")　1st album “Greetings From Tokyo”をユニバーサルよりリリース。
-  - 2006年[3月11日](../Page/3月11日.md "wikilink")　[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系　アニメ『[韋駄天翔](https://ja.wikipedia.org/wiki/IDATEN翔 "wikilink")-イダテンジャンプ-』オープニングテーマに、1st albumから「Your World」が選ばれる。
+  - 2006年[3月11日](../Page/3月11日.md "wikilink")　[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系　アニメ『[韋駄天翔](../Page/IDATEN翔.md "wikilink")-イダテンジャンプ-』オープニングテーマに、1st albumから「Your World」が選ばれる。
   - 2006年[5月10日](../Page/5月10日.md "wikilink")　1st album “Greetings From Tokyo”から、「Your World」がリカットシングルとして、発売。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")　トイズファクトリーに移籍、同時にバンド名を**ketchup mania**に改名。
-  - 2007年[5月9日](https://ja.wikipedia.org/wiki/5月9日 "wikilink")　移籍後第1弾となる2nd album “U・R・G・E”をリリース。
-  - 2007年[7月10日](../Page/7月10日.md "wikilink")〜　“マロンスカー”が[石原さとみ](https://ja.wikipedia.org/wiki/石原さとみ "wikilink")出演のセガのゲームセンターCM曲に。
+  - [2007年](../Page/2007年.md "wikilink")　トイズファクトリーに移籍、同時にバンド名を**ketchup mania**に改名。
+  - 2007年[5月9日](../Page/5月9日.md "wikilink")　移籍後第1弾となる2nd album “U・R・G・E”をリリース。
+  - 2007年[7月10日](../Page/7月10日.md "wikilink")〜　“マロンスカー”が[石原さとみ](../Page/石原さとみ.md "wikilink")出演のセガのゲームセンターCM曲に。
   - 2007年[8月22日](../Page/8月22日.md "wikilink")　3rd album“L・O・V・E”をリリース。
   - 2008年[2月20日](../Page/2月20日.md "wikilink")　4th single“BAD\! BAD\! BAD\!”をリリース。
   - 2008年[6月11日](../Page/6月11日.md "wikilink")　4th album“F・L・A・G”をリリース。
@@ -81,7 +81,7 @@
 <li>www</li>
 </ol></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ユニバーサルミュージック" title="wikilink">ユニバーサルミュージック</a><br />
-<a href="https://ja.wikipedia.org/wiki/TBSテレビ" title="wikilink">TBS系</a> 『<a href="https://ja.wikipedia.org/wiki/COUNT_DOWN_TV" title="wikilink">CDTV</a>』 2005年12月エンディングテーマ<br />
+<a href="../Page/TBSテレビ.md" title="wikilink">TBS系</a> 『<a href="../Page/COUNT_DOWN_TV.md" title="wikilink">CDTV</a>』 2005年12月エンディングテーマ<br />
 オリコン最高121位</p></td>
 </tr>
 <tr class="even">
@@ -121,7 +121,7 @@
 <li>PINK WATER</li>
 </ol></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/トイズファクトリー" title="wikilink">トイズファクトリー</a><br />
-テレビ東京系『<a href="https://ja.wikipedia.org/wiki/JAPAN_COUNTDOWN" title="wikilink">JAPAN COUNTDOWN</a>』2008年2月エンディングテーマ<br />
+テレビ東京系『<a href="../Page/JAPAN_COUNTDOWN.md" title="wikilink">JAPAN COUNTDOWN</a>』2008年2月エンディングテーマ<br />
 オリコン最高122位</p></td>
 </tr>
 <tr class="odd">
@@ -559,11 +559,11 @@ DONA-35</p></td>
 <td><ol>
 <li>usual life / <a href="https://ja.wikipedia.org/wiki/ala_(ロックバンド)" title="wikilink">ala</a></li>
 <li>C&amp;P's / <a href="https://ja.wikipedia.org/wiki/CUTIE_Pi" title="wikilink">CUTIE Pi</a></li>
-<li>SUNNY SUNDAY / <a href="https://ja.wikipedia.org/wiki/Yum!Yum!ORANGE" title="wikilink">Yum!Yum!ORANGE</a></li>
+<li>SUNNY SUNDAY / <a href="../Page/Yum!Yum!ORANGE.md" title="wikilink">Yum!Yum!ORANGE</a></li>
 <li>Happy Time / <a href="https://ja.wikipedia.org/wiki/FORCE&quot;B&quot;" title="wikilink">FORCE"B"</a></li>
-<li>SUMMER OF LOVE / <a href="https://ja.wikipedia.org/wiki/ムラマサ☆" title="wikilink">ムラマサ☆</a></li>
+<li>SUMMER OF LOVE / <a href="../Page/ムラマサ☆.md" title="wikilink">ムラマサ☆</a></li>
 <li>Everything / <a href="https://ja.wikipedia.org/wiki/Grass_Hopper" title="wikilink">Grass Hopper</a></li>
-<li>鴨川に在る喫茶店 / <a href="https://ja.wikipedia.org/wiki/レトロ本舗" title="wikilink">レトロ本舗</a></li>
+<li>鴨川に在る喫茶店 / <a href="../Page/レトロ本舗.md" title="wikilink">レトロ本舗</a></li>
 <li>Rendezvous / <a href="https://ja.wikipedia.org/wiki/MYSTIC" title="wikilink">MYSTIC</a>(沖縄)</li>
 <li>This is Toy's Kingdom / <a href="https://ja.wikipedia.org/wiki/NUMBER-1" title="wikilink">NUMBER-1</a></li>
 <li>DREADLOCK BOY / <a href="https://ja.wikipedia.org/wiki/耳切坊主" title="wikilink">耳切坊主</a></li>
@@ -592,10 +592,10 @@ DONA-35</p></td>
 <li>19 GROWING UP / <a href="https://ja.wikipedia.org/wiki/HONEY_SAC" title="wikilink">HONEY SAC</a></li>
 <li>銀の指環 / <a href="https://ja.wikipedia.org/wiki/EMMIE_THE_STRIPPER" title="wikilink">EMMIE THE STRIPPER</a></li>
 <li>春咲小紅 / <a href="https://ja.wikipedia.org/wiki/SUPER_EGG_MACHINE" title="wikilink">SUPER EGG MACHINE</a></li>
-<li>春だったね / <a href="https://ja.wikipedia.org/wiki/GTP_(音楽グループ)" title="wikilink">GTP</a></li>
+<li>春だったね / <a href="../Page/GTP_(音楽グループ).md" title="wikilink">GTP</a></li>
 <li>夏のお嬢さん / <a href="../Page/ロリータ18号.md" title="wikilink">ロリータ18号</a></li>
 <li>あいにきて I・NEED・YOU! / <a href="https://ja.wikipedia.org/wiki/ソープランド揉美山" title="wikilink">ソープランド揉美山</a></li>
-<li>激しい恋 / <a href="https://ja.wikipedia.org/wiki/コンコンジャンプ" title="wikilink">コンコンジャンプ</a></li>
+<li>激しい恋 / <a href="../Page/コンコンジャンプ.md" title="wikilink">コンコンジャンプ</a></li>
 </ol></td>
 <td><p>EMI ミュージック・ジャパン</p></td>
 </tr>
@@ -608,7 +608,7 @@ DONA-35</p></td>
 <li><strong>姫の想い / ketchup mania</strong></li>
 <li>Mrs. Hurry! / ナナマーラ</li>
 <li>ひみつ / <a href="https://ja.wikipedia.org/wiki/キッチンゴリラ" title="wikilink">キッチンゴリラ</a></li>
-<li>うそっぱちの恋 / <a href="https://ja.wikipedia.org/wiki/ザ☆ボン" title="wikilink">ザ☆ボン</a></li>
+<li>うそっぱちの恋 / <a href="../Page/ザ☆ボン.md" title="wikilink">ザ☆ボン</a></li>
 <li>Good Looking / MIX MARKET</li>
 <li>青写真バカ / ロリータ18号</li>
 <li>コブシ / <a href="https://ja.wikipedia.org/wiki/アリンコギャング" title="wikilink">アリンコギャング</a></li>
@@ -618,7 +618,7 @@ DONA-35</p></td>
 <li>花嫁☆修行 / <a href="https://ja.wikipedia.org/wiki/A&#39;SH_DOLL" title="wikilink">A'SH DOLL</a></li>
 <li>Your song / <a href="https://ja.wikipedia.org/wiki/BUBLEGUM" title="wikilink">BUBLEGUM</a></li>
 <li>ウタ / <a href="https://ja.wikipedia.org/wiki/SPOOKY" title="wikilink">SPOOKY</a></li>
-<li>Blow / <a href="https://ja.wikipedia.org/wiki/岡北有由" title="wikilink">岡北有由</a></li>
+<li>Blow / <a href="../Page/岡北有由.md" title="wikilink">岡北有由</a></li>
 </ol></td>
 <td><p>EGO MUSIC</p></td>
 </tr>
@@ -677,11 +677,11 @@ DONA-35</p></td>
 <li>I'm your[FRIEND] / BERRY ROLL</li>
 <li>NITE HERO / DALLAX</li>
 <li>SUNNY SUNDAY / Yum!Yum!ORANGE</li>
-<li>ダイナマイトでぶっとばせ / <a href="https://ja.wikipedia.org/wiki/ニューロティカ" title="wikilink">ニューロティカ</a></li>
+<li>ダイナマイトでぶっとばせ / <a href="../Page/ニューロティカ.md" title="wikilink">ニューロティカ</a></li>
 <li>D is F / <a href="https://ja.wikipedia.org/wiki/GOOD_BETTER_BEST" title="wikilink">GOOD BETTER BEST</a></li>
 <li>Junkie's World / <a href="https://ja.wikipedia.org/wiki/SKULL_CANDY" title="wikilink">SKULL CANDY</a></li>
 <li>OB-LA-DI,OB-LA-DA / <a href="https://ja.wikipedia.org/wiki/FRESH_CHERRY_SOURCE" title="wikilink">FRESH CHERRY SOURCE</a></li>
-<li>Show Time / <a href="https://ja.wikipedia.org/wiki/SKA_SKA_CLUB" title="wikilink">SKA SKA CLUB</a></li>
+<li>Show Time / <a href="../Page/SKA_SKA_CLUB.md" title="wikilink">SKA SKA CLUB</a></li>
 <li>チアガール / <a href="https://ja.wikipedia.org/wiki/WitcherySKANK" title="wikilink">WitcherySKANK</a></li>
 <li>1999 / <a href="https://ja.wikipedia.org/wiki/THE_GELUGUGU" title="wikilink">THE GELUGUGU</a></li>
 </ol>
@@ -694,9 +694,9 @@ DONA-35</p></td>
 <td><ol>
 <li>TOP OF THE WORLD(<a href="https://ja.wikipedia.org/wiki/THE_CARPENTERS" title="wikilink">THE CARPENTERS</a>) / BERRY ROLL</li>
 <li>Sports &amp; Wine(<a href="https://ja.wikipedia.org/wiki/BEN_FOLDS_FIVE" title="wikilink">BEN FOLDS FIVE</a>) / <a href="https://ja.wikipedia.org/wiki/RON_RON_CLOU" title="wikilink">RON RON CLOU</a></li>
-<li>SAD TOMORROW(<a href="https://ja.wikipedia.org/wiki/MUFFS" title="wikilink">MUFFS</a>) / <a href="https://ja.wikipedia.org/wiki/PINKLOOP" title="wikilink">PINKLOOP</a></li>
+<li>SAD TOMORROW(<a href="https://ja.wikipedia.org/wiki/MUFFS" title="wikilink">MUFFS</a>) / <a href="../Page/PINKLOOP.md" title="wikilink">PINKLOOP</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/サマータイム・ブルース_(エディ・コクランの曲)" title="wikilink">SUMMERTIME BLUES</a>(<a href="https://ja.wikipedia.org/wiki/EDDIE_COCHRAN" title="wikilink">EDDIE COCHRAN</a>) / <a href="https://ja.wikipedia.org/wiki/CAPRIS" title="wikilink">CAPRIS</a></li>
-<li>SHOUT IT OUT LOUD(<a href="https://ja.wikipedia.org/wiki/キッス" title="wikilink">KISS</a>) / ROCKET K</li>
+<li>SHOUT IT OUT LOUD(<a href="../Page/キッス.md" title="wikilink">KISS</a>) / ROCKET K</li>
 <li>I Wanna Be Your Girlfriend(<a href="https://ja.wikipedia.org/wiki/the_rubinoos" title="wikilink">the rubinoos</a>) / the AUTOMATICS</li>
 <li>Elephant Stone(<a href="https://ja.wikipedia.org/wiki/STONE_ROSES" title="wikilink">STONE ROSES</a>) / JIMMY POPS</li>
 <li>Do You Love Me?(<a href="https://ja.wikipedia.org/wiki/MOTOWN" title="wikilink">MOTOWN</a>) / CARAMELMAN</li>
@@ -727,7 +727,7 @@ DONA-35</p></td>
 |                                                                       |                                                                                                                                                |
 | --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | **監督**                                                                | **曲名**                                                                                                                                         |
-| [イシバシミツユキ](https://ja.wikipedia.org/wiki/イシバシミツユキ "wikilink")         | 「BAD\!BAD\!BAD\!」「PLEASE\! MARRY ME                                                                                                            |
+| [イシバシミツユキ](../Page/イシバシミツユキ.md "wikilink")                            | 「BAD\!BAD\!BAD\!」「PLEASE\! MARRY ME                                                                                                            |
 | [Kazu Itsuki](https://ja.wikipedia.org/wiki/Kazu_Itsuki "wikilink")   | 「[TOY BOX](https://www.indiesmusic.com/musicvideo/video.asp?id=10056)」                                                                         |
 | [kirameki.inc](https://ja.wikipedia.org/wiki/kirameki.inc "wikilink") | 「Your World」                                                                                                                                   |
 | [谷聰志](https://ja.wikipedia.org/wiki/谷聰志 "wikilink")                   | 「[LIFE SIZE](https://www.indiesmusic.com/musicvideo/video.asp?id=10393)」「[リアル ヤーヨ](https://www.indiesmusic.com/musicvideo/video.asp?id=10307)」 |
@@ -737,7 +737,7 @@ DONA-35</p></td>
 
 ## 出演
 
-  - 2005年01月08日・08月06日・2006年05月27日 - TBS系「[開運音楽堂](https://ja.wikipedia.org/wiki/開運音楽堂 "wikilink")」
+  - 2005年01月08日・08月06日・2006年05月27日 - TBS系「[開運音楽堂](../Page/開運音楽堂.md "wikilink")」
 
 ## 主なライブ
 

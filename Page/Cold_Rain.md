@@ -1,11 +1,11 @@
 > この記事は[Cold Rain](https://ja.wikipedia.org/wiki/Cold_Rain)から翻訳されています。
 
 
-『**Cold Rain**』（コールド・レイン）は、[影山ヒロノブ](https://ja.wikipedia.org/wiki/影山ヒロノブ "wikilink")の[セルフカバー・アルバム](../Page/カバー.md "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月7日](../Page/12月7日.md "wikilink")に[Lantisから発売された](https://ja.wikipedia.org/wiki/ランティス "wikilink")。
+『**Cold Rain**』（コールド・レイン）は、[影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink")の[セルフカバー・アルバム](../Page/カバー.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[12月7日](../Page/12月7日.md "wikilink")に[Lantisから発売された](../Page/ランティス.md "wikilink")。
 
 ## 概要
 
-[バンド等で発表した曲](../Page/バンド_\(音楽\).md "wikilink")、[野川さくら](https://ja.wikipedia.org/wiki/野川さくら "wikilink")に提供した曲などの[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")に新曲を加えたものである。 ジャケットには影山による全曲の解説が記載されている。
+[バンド等で発表した曲](../Page/バンド_\(音楽\).md "wikilink")、[野川さくら](../Page/野川さくら.md "wikilink")に提供した曲などの[セルフカバー](../Page/セルフカバー.md "wikilink")に新曲を加えたものである。 ジャケットには影山による全曲の解説が記載されている。
 
 ## 収録曲
 
@@ -15,7 +15,7 @@
 2.  **Achilles**
 3.  **Little Wing**
       -
-        [JAM Projectの曲のセルフカバー](https://ja.wikipedia.org/wiki/JAM_Project "wikilink")。原曲のリード[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")は、作詞も担当した奥井雅美。原曲よりテンポが少し落ちている。
+        [JAM Projectの曲のセルフカバー](../Page/JAM_Project.md "wikilink")。原曲のリード[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")は、作詞も担当した奥井雅美。原曲よりテンポが少し落ちている。
 4.  **この世の果て〜Eden〜**
       -
         「ニート」と呼ばれる定職の持たない若者を励むための曲だという。
@@ -24,7 +24,7 @@
         [TRY FORCEの曲のセルフカバー](https://ja.wikipedia.org/wiki/TRY_FORCE "wikilink")。
 6.  **Riding on a Time machine〜サイケデリック☆55**
       -
-        [野川さくら](https://ja.wikipedia.org/wiki/野川さくら "wikilink")に提供した曲のセルフカバー。本アルバム用に歌詞を英語に変更している。
+        [野川さくら](../Page/野川さくら.md "wikilink")に提供した曲のセルフカバー。本アルバム用に歌詞を英語に変更している。
 7.  **1981 Summer**
 8.  **Strings of Love〜運命の糸**
       -
@@ -37,10 +37,10 @@
         アコギとループと歌だけでできた曲だという。
 11. **Young & Innocent**
       -
-        [レイジー](https://ja.wikipedia.org/wiki/レイジー "wikilink")の曲のセルフカバー。
+        [レイジー](../Page/レイジー.md "wikilink")の曲のセルフカバー。
 12. **In my Heart**
       -
-        JAM Projectの曲のセルフカバー。原曲のリードボーカルは[遠藤正明](https://ja.wikipedia.org/wiki/遠藤正明 "wikilink")と[坂本英三](https://ja.wikipedia.org/wiki/坂本英三 "wikilink")。
+        JAM Projectの曲のセルフカバー。原曲のリードボーカルは[遠藤正明](../Page/遠藤正明.md "wikilink")と[坂本英三](../Page/坂本英三.md "wikilink")。
 
 ## 外部リンク
 

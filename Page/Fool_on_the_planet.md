@@ -5,13 +5,13 @@
 
 ## 概要
 
-[キングレコード](../Page/キングレコード.md "wikilink")に移籍した年である[1994年](../Page/1994年.md "wikilink")から[2001年](../Page/2001年.md "wikilink")の7年間におけるthe pillowsの代表曲が多く収録されており、通称第二期の楽曲も2曲収録されている。表題曲である「Fool on the planet」は新曲であり、[シングル](../Page/シングル.md "wikilink")曲である「Ride on shooting star」「I think I can」は[アルバム](../Page/アルバム.md "wikilink")初収録である。また、[隠しトラック](https://ja.wikipedia.org/wiki/隠しトラック "wikilink")も存在する。
+[キングレコード](../Page/キングレコード.md "wikilink")に移籍した年である[1994年](../Page/1994年.md "wikilink")から[2001年](../Page/2001年.md "wikilink")の7年間におけるthe pillowsの代表曲が多く収録されており、通称第二期の楽曲も2曲収録されている。表題曲である「Fool on the planet」は新曲であり、[シングル](../Page/シングル.md "wikilink")曲である「Ride on shooting star」「I think I can」は[アルバム](../Page/アルバム.md "wikilink")初収録である。また、[隠しトラック](../Page/隠しトラック.md "wikilink")も存在する。
 
-このアルバムは全曲メンバーによる[リマスタリングが施されていて](https://ja.wikipedia.org/wiki/マスタリング "wikilink")、過去に収録された音源と比べて若干音質が向上している。
+このアルバムは全曲メンバーによる[リマスタリングが施されていて](../Page/マスタリング.md "wikilink")、過去に収録された音源と比べて若干音質が向上している。
 
-このアルバムの前年に発表された[ガイナックス](https://ja.wikipedia.org/wiki/ガイナックス "wikilink")の[OVA](../Page/OVA.md "wikilink")作品『[フリクリ](../Page/フリクリ.md "wikilink")』の存在がこのアルバムの売り上げに大きく貢献したとされている。このアルバムには同作品の劇中に使用された楽曲や、同作品の[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")である「Ride on shooting star」が収録されている。オリコンのアルバム[ランキング](https://ja.wikipedia.org/wiki/ランキング "wikilink")では初登場19位を記録している。
+このアルバムの前年に発表された[ガイナックス](../Page/ガイナックス.md "wikilink")の[OVA](../Page/OVA.md "wikilink")作品『[フリクリ](../Page/フリクリ.md "wikilink")』の存在がこのアルバムの売り上げに大きく貢献したとされている。このアルバムには同作品の劇中に使用された楽曲や、同作品の[主題歌](../Page/主題歌.md "wikilink")である「Ride on shooting star」が収録されている。オリコンのアルバム[ランキング](https://ja.wikipedia.org/wiki/ランキング "wikilink")では初登場19位を記録している。
 
-また、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")の[山中さわお](https://ja.wikipedia.org/wiki/山中さわお "wikilink")はかつて雑誌の[インタビュー](https://ja.wikipedia.org/wiki/インタビュー "wikilink")などで「ベストアルバムは出さない」と公言しており、このアルバムの発表が決まった瞬間、ベストアルバム発表肯定派と否定派の対立で公式サイトの掲示板が荒れ、山中本人が反論の書き込みをするなどの事態が当時続いていた。
+また、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")の[山中さわお](../Page/山中さわお.md "wikilink")はかつて雑誌の[インタビュー](../Page/インタビュー.md "wikilink")などで「ベストアルバムは出さない」と公言しており、このアルバムの発表が決まった瞬間、ベストアルバム発表肯定派と否定派の対立で公式サイトの掲示板が荒れ、山中本人が反論の書き込みをするなどの事態が当時続いていた。
 
 ## 収録曲
 
@@ -64,11 +64,11 @@
         初出：『HAPPY BIVOUAC』 （1999年12月2日）
 15. ストレンジ カメレオン -ORIGINAL STORY-
       -
-        曲初出：[シングル](https://ja.wikipedia.org/wiki/ストレンジ_カメレオン "wikilink") （1996年6月21日）／収録バージョン初出：『Please Mr.Lostman』 （1997年1月22日）
+        曲初出：[シングル](../Page/ストレンジ_カメレオン.md "wikilink") （1996年6月21日）／収録バージョン初出：『Please Mr.Lostman』 （1997年1月22日）
 16. ハイブリッド レインボウ
       -
         初出：シングル （1997年11月21日）／『LITTLE BUSTERS』 （1998年2月21日）
     <!-- end list -->
-      - secret slogan （[隠しトラック](https://ja.wikipedia.org/wiki/隠しトラック "wikilink")）
+      - secret slogan （[隠しトラック](../Page/隠しトラック.md "wikilink")）
 
 [Category:2001年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2001年のベスト・アルバム "wikilink") [Category:The_pillowsのベスト・アルバム](https://ja.wikipedia.org/wiki/Category:The_pillowsのベスト・アルバム "wikilink") [Category:キングレコードのアルバム](https://ja.wikipedia.org/wiki/Category:キングレコードのアルバム "wikilink")

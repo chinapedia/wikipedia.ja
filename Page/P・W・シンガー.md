@@ -3,9 +3,9 @@
 
 [Peter_Warren_Singer_2010.jpg](https://ja.wikipedia.org/wiki/File:Peter_Warren_Singer_2010.jpg "fig:Peter_Warren_Singer_2010.jpg") **ピーター・ウォレン・シンガー**（**Peter Warren Singer**、[1974年](../Page/1974年.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[アシュケナジム](../Page/アシュケナジム.md "wikilink")系ユダヤ人の[国際政治学者](../Page/国際政治学者.md "wikilink")。専門は、安全保障論。
 
-[民間軍事会社](https://ja.wikipedia.org/wiki/民間軍事会社 "wikilink")、[少年兵](../Page/少年兵.md "wikilink")、[軍事用ロボット](../Page/軍事用ロボット.md "wikilink")などの研究で知られる。
+[民間軍事会社](../Page/民間軍事会社.md "wikilink")、[少年兵](../Page/少年兵.md "wikilink")、[軍事用ロボット](../Page/軍事用ロボット.md "wikilink")などの研究で知られる。
 
-[プリンストン大学](https://ja.wikipedia.org/wiki/プリンストン大学 "wikilink")卒業後、[ハーヴァード大学](https://ja.wikipedia.org/wiki/ハーヴァード大学 "wikilink")で博士号取得。現在、[ブルッキングス研究所](https://ja.wikipedia.org/wiki/ブルッキングス研究所 "wikilink")上級研究員。
+[プリンストン大学](https://ja.wikipedia.org/wiki/プリンストン大学 "wikilink")卒業後、[ハーヴァード大学](https://ja.wikipedia.org/wiki/ハーヴァード大学 "wikilink")で博士号取得。現在、[ブルッキングス研究所](../Page/ブルッキングス研究所.md "wikilink")上級研究員。
 
 ## 著書
 

@@ -5,15 +5,15 @@
 
 ## 概略
 
-[2003年](../Page/2003年.md "wikilink")4月、[鹿児島国際大学](../Page/鹿児島国際大学.md "wikilink")ロック部にて結成。鹿児島を拠点に全国のライヴハウスに出演し、話題を集めるようになる。鹿児島では楽曲が[テレビCM](https://ja.wikipedia.org/wiki/テレビCM "wikilink")で使用されるなど、徐々に知名度を上げ、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月19日](../Page/7月19日.md "wikilink")にミニアルバム「二人の距離」で全国デビューした。南国テイスト漂う、美しく切ないメロディーが特徴の3ピースバンドである。
+[2003年](../Page/2003年.md "wikilink")4月、[鹿児島国際大学](../Page/鹿児島国際大学.md "wikilink")ロック部にて結成。鹿児島を拠点に全国のライヴハウスに出演し、話題を集めるようになる。鹿児島では楽曲が[テレビCM](https://ja.wikipedia.org/wiki/テレビCM "wikilink")で使用されるなど、徐々に知名度を上げ、[2006年](../Page/2006年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink")にミニアルバム「二人の距離」で全国デビューした。南国テイスト漂う、美しく切ないメロディーが特徴の3ピースバンドである。
 
-事務所の先輩である[CHARCOAL FILTERと仲が良く](https://ja.wikipedia.org/wiki/CHARCOAL_FILTER "wikilink")、その縁で「二人の距離」の推薦コメントをCHARCOAL FILTERと親交のある[亀田誠治](https://ja.wikipedia.org/wiki/亀田誠治 "wikilink")に書いてもらっている。
+事務所の先輩である[CHARCOAL FILTERと仲が良く](../Page/CHARCOAL_FILTER.md "wikilink")、その縁で「二人の距離」の推薦コメントをCHARCOAL FILTERと親交のある[亀田誠治](../Page/亀田誠治.md "wikilink")に書いてもらっている。
 
 ## メンバー
 
   - **小園淳之輔**（こぞの じゅんのすけ、[1982年](../Page/1982年.md "wikilink")[7月31日](../Page/7月31日.md "wikilink") - ）　[鹿児島県](../Page/鹿児島県.md "wikilink")[志布志市](../Page/志布志市.md "wikilink")出身 Vo. & Gt.
-  - **小川内真悟**（おがわうち しんご、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[5月28日](../Page/5月28日.md "wikilink") - ）　[鹿児島県](../Page/鹿児島県.md "wikilink")[薩摩川内市](https://ja.wikipedia.org/wiki/薩摩川内市 "wikilink")出身Ba. & Cho.
-  - **絵馬**（えま、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[10月9日](../Page/10月9日.md "wikilink") - ）　[鹿児島県](../Page/鹿児島県.md "wikilink")[肝属郡](../Page/肝属郡.md "wikilink")[肝付町](https://ja.wikipedia.org/wiki/肝付町 "wikilink")出身Dr. & Cho.
+  - **小川内真悟**（おがわうち しんご、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[5月28日](../Page/5月28日.md "wikilink") - ）　[鹿児島県](../Page/鹿児島県.md "wikilink")[薩摩川内市](../Page/薩摩川内市.md "wikilink")出身Ba. & Cho.
+  - **絵馬**（えま、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[10月9日](../Page/10月9日.md "wikilink") - ）　[鹿児島県](../Page/鹿児島県.md "wikilink")[肝属郡](../Page/肝属郡.md "wikilink")[肝付町](../Page/肝付町.md "wikilink")出身Dr. & Cho.
 
 ## ディスコグラフィー
 

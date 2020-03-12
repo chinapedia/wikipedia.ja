@@ -1,11 +1,11 @@
 > この記事は[SEED \(\)](https://ja.wikipedia.org/wiki/SEED_\(\))から翻訳されています。
 
 
-**SEED**（シード）は[九州](../Page/九州.md "wikilink")出身の4人組からなる[ダンス](https://ja.wikipedia.org/wiki/ダンス "wikilink")[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")[グループ](https://ja.wikipedia.org/wiki/グループ "wikilink")である。2004年6月、福岡県久留米市のダンススクール「MMA（[マジソンミュージックアカデミー](https://ja.wikipedia.org/wiki/マジソンミュージックアカデミー "wikilink")）」のレッスン生で結成。[avex trax所属](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。2007年4月以降、活動を休止した模様。
+**SEED**（シード）は[九州](../Page/九州.md "wikilink")出身の4人組からなる[ダンス](../Page/ダンス.md "wikilink")[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")[グループ](https://ja.wikipedia.org/wiki/グループ "wikilink")である。2004年6月、福岡県久留米市のダンススクール「MMA（[マジソンミュージックアカデミー](https://ja.wikipedia.org/wiki/マジソンミュージックアカデミー "wikilink")）」のレッスン生で結成。[avex trax所属](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。2007年4月以降、活動を休止した模様。
 
 ## メンバー
 
-  - 葉月 （HAZUKI、[1991年](../Page/1991年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink") - ） [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")[北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink")出身
+  - 葉月 （HAZUKI、[1991年](../Page/1991年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink") - ） [福岡県](../Page/福岡県.md "wikilink")[北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink")出身
   - 紅美 （KURUMI、[1991年](../Page/1991年.md "wikilink")[6月20日](../Page/6月20日.md "wikilink") - ） [宮崎県](../Page/宮崎県.md "wikilink")[宮崎市](https://ja.wikipedia.org/wiki/宮崎市 "wikilink")出身
   - 梨子 （RIKO、[1992年](../Page/1992年.md "wikilink")[2月3日](../Page/2月3日.md "wikilink") - ） 福岡県[久留米市](../Page/久留米市.md "wikilink")出身
   - 真菜 （MANA、[1991年](../Page/1991年.md "wikilink")[1月15日](../Page/1月15日.md "wikilink") - ） [佐賀県](../Page/佐賀県.md "wikilink")[佐賀市](https://ja.wikipedia.org/wiki/佐賀市 "wikilink")出身

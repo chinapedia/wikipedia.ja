@@ -5,7 +5,7 @@
 
 ## 概要
 
-[PlayStationが発売となった翌年の](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")1995年に第1回が開催。[ゴールドディスク](https://ja.wikipedia.org/wiki/ゴールドディスク "wikilink")のシステムを元に、前年下半期～今年の累計出荷本数に応じて年末に表彰が行わる。
+[PlayStationが発売となった翌年の](../Page/PlayStation_\(ゲーム機\).md "wikilink")1995年に第1回が開催。[ゴールドディスク](../Page/ゴールドディスク.md "wikilink")のシステムを元に、前年下半期～今年の累計出荷本数に応じて年末に表彰が行わる。
 
 賞は50万本突破で「ゴールドプライズ」、100万本達成で「プラチナプライズ」、200万本達成で「ダブルプラチナプライズ」、300万本達成で「トリプルプラチナプライズ」、400万本達成で「クアッドプラチナプライズ」となる。なお、表彰基準は累計出荷本数なので、ゴールドプライズを受賞した後も出荷本数を伸ばしてプラチナプライズを受賞した例も存在する（『[バイオハザード](../Page/バイオハザード_\(ゲーム\).md "wikilink")』、『[THE 麻雀](https://ja.wikipedia.org/wiki/THE_麻雀 "wikilink")』など）。また、廉価版は同一のソフトでも別タイトルとして集計するため、『モンスターハンターポータブル 2nd G』のように通常版とBEST版が両方受賞した例もある。
 
@@ -49,7 +49,7 @@
 
 <!-- end list -->
 
-  - [ファイナルファンタジーVII](https://ja.wikipedia.org/wiki/ファイナルファンタジーVII "wikilink")（スクウェア）
+  - [ファイナルファンタジーVII](../Page/ファイナルファンタジーVII.md "wikilink")（スクウェア）
 
 <!-- end list -->
 
@@ -134,7 +134,7 @@
 
 <!-- end list -->
 
-  - [鉄拳2](https://ja.wikipedia.org/wiki/鉄拳2 "wikilink")（ナムコ）
+  - [鉄拳2](../Page/鉄拳2.md "wikilink")（ナムコ）
 
 <!-- end list -->
 
@@ -150,13 +150,13 @@
 
 <!-- end list -->
 
-  - [パラッパラッパー](https://ja.wikipedia.org/wiki/パラッパラッパー "wikilink")（SCE）
+  - [パラッパラッパー](../Page/パラッパラッパー.md "wikilink")（SCE）
   - [ファイナルファンタジータクティクス](https://ja.wikipedia.org/wiki/ファイナルファンタジータクティクス "wikilink")（スクウェア）
   - [サガ フロンティア](../Page/サガ_フロンティア.md "wikilink")（スクウェア）
   - [ダービースタリオン](../Page/ダービースタリオン.md "wikilink")（アスキー）
-  - [みんなのGOLF](https://ja.wikipedia.org/wiki/みんなのGOLF "wikilink")（SCE）
+  - [みんなのGOLF](../Page/みんなのGOLF.md "wikilink")（SCE）
   - [チョコボの不思議なダンジョン](../Page/チョコボの不思議なダンジョン.md "wikilink")（スクウェア）
-  - [鉄拳3](https://ja.wikipedia.org/wiki/鉄拳3 "wikilink")（ナムコ）
+  - [鉄拳3](../Page/鉄拳3.md "wikilink")（ナムコ）
   - [パラサイト・イヴ](../Page/パラサイト・イヴ_\(ゲーム\).md "wikilink")（スクウェア）
 
 <!-- end list -->
@@ -189,7 +189,7 @@
 <!-- end list -->
 
   - [THE 麻雀](https://ja.wikipedia.org/wiki/THE_麻雀 "wikilink") （D3パブリッシャー）
-  - [鬼武者](https://ja.wikipedia.org/wiki/鬼武者 "wikilink")（カプコン）
+  - [鬼武者](../Page/鬼武者.md "wikilink")（カプコン）
   - [グランツーリスモ3 A-spec](https://ja.wikipedia.org/wiki/グランツーリスモ3_A-spec "wikilink")（SCE）
 
 <!-- end list -->
@@ -199,8 +199,8 @@
 <!-- end list -->
 
   - [ドラゴンクエストIV 導かれし者たち](../Page/ドラゴンクエストIV_導かれし者たち.md "wikilink") （エニックス）
-  - [鬼武者](https://ja.wikipedia.org/wiki/鬼武者 "wikilink")2（カプコン）
-  - [みんなのGOLF](https://ja.wikipedia.org/wiki/みんなのGOLF "wikilink")3（SCE）
+  - [鬼武者](../Page/鬼武者.md "wikilink")2（カプコン）
+  - [みんなのGOLF](../Page/みんなのGOLF.md "wikilink")3（SCE）
 
 <!-- end list -->
 
@@ -208,7 +208,7 @@
 
 <!-- end list -->
 
-  - [ワールドサッカー ウイニングイレブン6](https://ja.wikipedia.org/wiki/ウイニングイレブン "wikilink")（コナミ）
+  - [ワールドサッカー ウイニングイレブン6](../Page/ウイニングイレブン.md "wikilink")（コナミ）
   - [真・三國無双2](https://ja.wikipedia.org/wiki/真・三國無双2 "wikilink")（コーエー）
   - [真・三國無双3](https://ja.wikipedia.org/wiki/真・三國無双3 "wikilink")（コーエー）
 
@@ -219,9 +219,9 @@
 <!-- end list -->
 
   - [戦国無双](https://ja.wikipedia.org/wiki/戦国無双 "wikilink")（コーエー）
-  - [ワールドサッカー ウイニングイレブン7](https://ja.wikipedia.org/wiki/ウイニングイレブン "wikilink")（コナミ）
-  - [ドラゴンクエストV 天空の花嫁](https://ja.wikipedia.org/wiki/ドラゴンクエストV_天空の花嫁 "wikilink")（スクウェア・エニックス）
-  - [みんなのGOLF](https://ja.wikipedia.org/wiki/みんなのGOLF "wikilink")4（SCE）
+  - [ワールドサッカー ウイニングイレブン7](../Page/ウイニングイレブン.md "wikilink")（コナミ）
+  - [ドラゴンクエストV 天空の花嫁](../Page/ドラゴンクエストV_天空の花嫁.md "wikilink")（スクウェア・エニックス）
+  - [みんなのGOLF](../Page/みんなのGOLF.md "wikilink")4（SCE）
 
 <!-- end list -->
 
@@ -230,9 +230,9 @@
 <!-- end list -->
 
   - [真・三國無双4](https://ja.wikipedia.org/wiki/真・三國無双4 "wikilink")（コーエー）
-  - [ワールドサッカー ウイニングイレブン8](https://ja.wikipedia.org/wiki/ウイニングイレブン "wikilink")（コナミ）
+  - [ワールドサッカー ウイニングイレブン8](../Page/ウイニングイレブン.md "wikilink")（コナミ）
   - [実戦パチスロ必勝法\! 北斗の拳](../Page/北斗の拳_\(パチスロ\).md "wikilink")（サミー）
-  - [グランツーリスモ4](https://ja.wikipedia.org/wiki/グランツーリスモ4 "wikilink")（SCE）
+  - [グランツーリスモ4](../Page/グランツーリスモ4.md "wikilink")（SCE）
 
 <!-- end list -->
 
@@ -240,8 +240,8 @@
 
 <!-- end list -->
 
-  - [ワールドサッカー ウイニングイレブン9](https://ja.wikipedia.org/wiki/ウイニングイレブン "wikilink")（コナミ）
-  - [ワールドサッカー ウイニングイレブン10](https://ja.wikipedia.org/wiki/ウイニングイレブン "wikilink")（コナミデジタルエンタテインメント）
+  - [ワールドサッカー ウイニングイレブン9](../Page/ウイニングイレブン.md "wikilink")（コナミ）
+  - [ワールドサッカー ウイニングイレブン10](../Page/ウイニングイレブン.md "wikilink")（コナミデジタルエンタテインメント）
   - [キングダム ハーツII](../Page/キングダム_ハーツII.md "wikilink")（スクウェア・エニックス）
 
 <!-- end list -->
@@ -321,7 +321,7 @@
 
 順序は発売順で、この5本の得票順は非公開。
 
-  - [ファイナルファンタジーVII](https://ja.wikipedia.org/wiki/ファイナルファンタジーVII "wikilink")（1997年、[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")）
+  - [ファイナルファンタジーVII](../Page/ファイナルファンタジーVII.md "wikilink")（1997年、[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")）
   - [ファイナルファンタジーX](../Page/ファイナルファンタジーX.md "wikilink")（2001年、スクウェア）
   - [メタルギア ソリッド 3　スネークイーター](../Page/メタルギアソリッド3.md "wikilink")（2004年、[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")） - 唯一のゴールドプライズからの受賞
   - [モンスターハンター ポータブル 2nd G](https://ja.wikipedia.org/wiki/モンスターハンター_ポータブル "wikilink")（2008年、[カプコン](../Page/カプコン.md "wikilink")）

@@ -5,7 +5,7 @@
 
 ## 概要
 
-Microsoft FrontPage 2003の後継としてデザインツール群「[Expressionシリーズ](https://ja.wikipedia.org/wiki/Microsoft_Expression "wikilink")」の一製品として位置づけられている。本製品はWeb開発者などの利用を想定しており、CSSから細かくコーディングする用途に適したWebオーサリングツールである。
+Microsoft FrontPage 2003の後継としてデザインツール群「[Expressionシリーズ](../Page/Microsoft_Expression.md "wikilink")」の一製品として位置づけられている。本製品はWeb開発者などの利用を想定しており、CSSから細かくコーディングする用途に適したWebオーサリングツールである。
 
 前回までの独自の手法によるタグ挿入からWeb標準（[W3C勧告](../Page/World_Wide_Web_Consortium.md "wikilink")）の枠組みである[XHTML及び](../Page/Extensible_HyperText_Markup_Language.md "wikilink")[CSSによるサイト構築が標準となるように作られている](../Page/Cascading_Style_Sheets.md "wikilink")。直感的な操作がより行いやすくなるのはもとより、スタイルシート作成・定義が分かりやすく操作しやすいように改善されている他に、何箇所か強化あるいは廃止されている箇所がある。
 
@@ -25,16 +25,16 @@ Microsoft FrontPage 2003の後継としてデザインツール群「[Expression
 
 ## 関連項目
 
-  - [Microsoft FrontPage](https://ja.wikipedia.org/wiki/Microsoft_FrontPage "wikilink")
+  - [Microsoft FrontPage](../Page/Microsoft_FrontPage.md "wikilink")
       - [Microsoft Office](../Page/Microsoft_Office.md "wikilink")
-  - [コンテンツ管理システム](https://ja.wikipedia.org/wiki/コンテンツ管理システム "wikilink") (CMS)
+  - [コンテンツ管理システム](../Page/コンテンツ管理システム.md "wikilink") (CMS)
   - [ウェブサイト](../Page/ウェブサイト.md "wikilink")
   - [コーポレートサイト](https://ja.wikipedia.org/wiki/コーポレートサイト "wikilink")
 
 ### 日本における競合製品
 
-  - [Adobe Dreamweaver](https://ja.wikipedia.org/wiki/Adobe_Dreamweaver "wikilink")
-  - [Adobe GoLive](https://ja.wikipedia.org/wiki/Adobe_GoLive "wikilink")
+  - [Adobe Dreamweaver](../Page/Adobe_Dreamweaver.md "wikilink")
+  - [Adobe GoLive](../Page/Adobe_GoLive.md "wikilink")
   - [ホームページビルダー](https://ja.wikipedia.org/wiki/ホームページビルダー "wikilink")
 
 ## 脚注

@@ -1,12 +1,12 @@
 > この記事は[KCJ GROUP](https://ja.wikipedia.org/wiki/KCJ_GROUP)から翻訳されています。
 
 
-**KCJ GROUP株式会社**（ケーシージェイ・グループ、英称：*KCJ GROUP INC.*）は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[中央区に本社を置く体験型](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")（ロールプレイング）[商業施設](https://ja.wikipedia.org/wiki/商業施設 "wikilink")の企画、開発を行う会社。
+**KCJ GROUP株式会社**（ケーシージェイ・グループ、英称：*KCJ GROUP INC.*）は、[東京都](../Page/東京都.md "wikilink")[中央区に本社を置く体験型](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")（ロールプレイング）[商業施設](https://ja.wikipedia.org/wiki/商業施設 "wikilink")の企画、開発を行う会社。
 
 ## 沿革
 
   - [2004年](../Page/2004年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink") - 会社設立。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月5日](../Page/10月5日.md "wikilink") - 「[キッザニア東京](../Page/キッザニア東京.md "wikilink")」開業。
+  - [2006年](../Page/2006年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink") - 「[キッザニア東京](../Page/キッザニア東京.md "wikilink")」開業。
   - [2009年](../Page/2009年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink") - 「[キッザニア甲子園](https://ja.wikipedia.org/wiki/キッザニア甲子園 "wikilink")」開業。
   - [2011年](../Page/2011年.md "wikilink")
       - [4月1日](../Page/4月1日.md "wikilink") - 関連会社として「株式会社オークビレッジマネジメント」を設立。
@@ -18,7 +18,7 @@
 ## 運営施設
 
   - [キッザニア東京](../Page/キッザニア東京.md "wikilink") - [アーバンドック ららぽーと豊洲内で営業中](../Page/アーバンドック_ららぽーと豊洲.md "wikilink")。
-  - [キッザニア甲子園](https://ja.wikipedia.org/wiki/キッザニア甲子園 "wikilink") - [ららぽーと甲子園](https://ja.wikipedia.org/wiki/ららぽーと甲子園 "wikilink")内で営業中。
+  - [キッザニア甲子園](https://ja.wikipedia.org/wiki/キッザニア甲子園 "wikilink") - [ららぽーと甲子園](../Page/ららぽーと甲子園.md "wikilink")内で営業中。
 
 ## 関連会社
 
@@ -26,7 +26,7 @@
 
 ## 関連項目
 
-  - [キッザニア](https://ja.wikipedia.org/wiki/キッザニア "wikilink")
+  - [キッザニア](../Page/キッザニア.md "wikilink")
 
 ## 脚注
 

@@ -77,7 +77,7 @@
 <td><p>rowspan="" | 2005-06</p></td>
 <td><p>rowspan="" align=left | <a href="https://ja.wikipedia.org/wiki/UEFAカップ_2005-06" title="wikilink">UEFAカップ</a></p></td>
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レッドスター・ベオグラード" title="wikilink">ツルヴェナ・ズヴェズダ</a></p></td>
+<td><p><a href="../Page/レッドスター・ベオグラード.md" title="wikilink">ツルヴェナ・ズヴェズダ</a></p></td>
 <td><p>1–3</p></td>
 <td><p>0–4</p></td>
 <td><p>'''1–7</p></td>
@@ -122,19 +122,19 @@
 
   - [サミル・トプラク](https://ja.wikipedia.org/wiki/サミル・トプラク "wikilink") (2014-2020)
 
-  - [ゼリコ・ペトロビッチ](https://ja.wikipedia.org/wiki/ゼリコ・ペトロビッチ "wikilink") (2020-)
+  - [ゼリコ・ペトロビッチ](../Page/ゼリコ・ペトロビッチ.md "wikilink") (2020-)
 
 ## 歴代所属選手
 
   - [ズヴォニミル・ソルド](https://ja.wikipedia.org/wiki/ズヴォニミル・ソルド "wikilink") 1991-1994
 
-  - [エドゥアルド](https://ja.wikipedia.org/wiki/エドゥアルド・ダ・シルヴァ "wikilink") 2003
+  - [エドゥアルド](../Page/エドゥアルド・ダ・シルヴァ.md "wikilink") 2003
 
   - [トミスラフ・ドゥイモヴィッチ](https://ja.wikipedia.org/wiki/トミスラフ・ドゥイモヴィッチ "wikilink") 2003-2005
 
   - [スルダン・ペツェル](https://ja.wikipedia.org/wiki/スルダン・ペツェル "wikilink") 2003-2005, 2008-2010
 
-  - [イヴァン・ラデリッチ](https://ja.wikipedia.org/wiki/イヴァン・ラデリッチ "wikilink") 2003-2004
+  - [イヴァン・ラデリッチ](../Page/イヴァン・ラデリッチ.md "wikilink") 2003-2004
 
   - [クレメン・ラフリッチ](../Page/クレメン・ラフリッチ.md "wikilink") 2004
 

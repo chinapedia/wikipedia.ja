@@ -5,7 +5,7 @@
 
 ## 概要
 
-1990年1月19日、[文藝春秋](../Page/文藝春秋.md "wikilink")より刊行された\[1\]。表紙の絵と挿絵は[佐々木マキ](../Page/佐々木マキ.md "wikilink")。カバー題字は日本リテラル。1993年5月10日、[文春文庫](https://ja.wikipedia.org/wiki/文春文庫 "wikilink")として文庫化された\[2\]。
+1990年1月19日、[文藝春秋](../Page/文藝春秋.md "wikilink")より刊行された\[1\]。表紙の絵と挿絵は[佐々木マキ](../Page/佐々木マキ.md "wikilink")。カバー題字は日本リテラル。1993年5月10日、[文春文庫](../Page/文春文庫.md "wikilink")として文庫化された\[2\]。
 
 本書に収められた小説はすべて、著者のヨーロッパ長期滞在中に執筆されたものである。
 
@@ -37,11 +37,11 @@
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/飛行機―あるいは彼はいかにして詩を読むようにひとりごとを言ったか" title="wikilink">飛行機―あるいは彼はいかにして詩を<br />
 読むようにひとりごとを言ったか</a></strong></p></td>
 <td><p>『NADIR』1987年秋号<br />
-『<a href="https://ja.wikipedia.org/wiki/ユリイカ_(雑誌)" title="wikilink">ユリイカ臨時増刊</a> 総特集村上春樹の世界』<br />
+『<a href="../Page/ユリイカ_(雑誌).md" title="wikilink">ユリイカ臨時増刊</a> 総特集村上春樹の世界』<br />
 1989年6月号</p></td>
 <td><p>Aeroplane: Or, How He Talked to Himself as If Reciting Poetry<br />
 (<em>The New Yorker</em>. July 1, 2002)</p></td>
-<td><p>同誌掲載時の挿絵は<a href="https://ja.wikipedia.org/wiki/宇野亜喜良" title="wikilink">宇野亜喜良</a>。</p></td>
+<td><p>同誌掲載時の挿絵は<a href="../Page/宇野亜喜良.md" title="wikilink">宇野亜喜良</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>

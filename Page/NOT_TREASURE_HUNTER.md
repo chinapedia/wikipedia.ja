@@ -1,7 +1,7 @@
 > この記事は[NOT TREASURE HUNTER](https://ja.wikipedia.org/wiki/NOT_TREASURE_HUNTER)から翻訳されています。
 
 
-『**NOT TREASURE HUNTER**』（ノット トレジャーハンター）は、[アクティアート](https://ja.wikipedia.org/wiki/アクティアート "wikilink")より[PlayStation用ソフトとして販売された](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。
+『**NOT TREASURE HUNTER**』（ノット トレジャーハンター）は、[アクティアート](https://ja.wikipedia.org/wiki/アクティアート "wikilink")より[PlayStation用ソフトとして販売された](../Page/PlayStation_\(ゲーム機\).md "wikilink")[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。
 
 タイトルは「金目当ての[トレジャーハンター](../Page/トレジャーハンター.md "wikilink")ではない」という主人公の主義からきている。
 
@@ -46,6 +46,6 @@
 
 ## 関連項目
 
-  - [PlayStationのゲームタイトル一覧 (1996年)](https://ja.wikipedia.org/wiki/PlayStationのゲームタイトル一覧_\(1996年\) "wikilink")
+  - [PlayStationのゲームタイトル一覧 (1996年)](../Page/PlayStationのゲームタイトル一覧_\(1996年\).md "wikilink")
 
 [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:1996年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1996年のコンピュータゲーム "wikilink")

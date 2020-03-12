@@ -7,14 +7,14 @@
 
   - **知久 光康**（ともひさ みつやす、[1955年](../Page/1955年.md "wikilink")[11月18日](../Page/11月18日.md "wikilink") - ）ギター
       -
-        [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身。ソロとしても活動中。「[摩訶摩訶](../Page/摩訶摩訶.md "wikilink")」「[イデアの日](https://ja.wikipedia.org/wiki/イデアの日 "wikilink")」などのゲーム音楽を担当したこともあり、また[東京キッドブラザーズ](https://ja.wikipedia.org/wiki/東京キッドブラザーズ "wikilink")でも活躍した。
+        [東京都](../Page/東京都.md "wikilink")出身。ソロとしても活動中。「[摩訶摩訶](../Page/摩訶摩訶.md "wikilink")」「[イデアの日](../Page/イデアの日.md "wikilink")」などのゲーム音楽を担当したこともあり、また[東京キッドブラザーズ](https://ja.wikipedia.org/wiki/東京キッドブラザーズ "wikilink")でも活躍した。
   - **杉田 裕**（すぎた ひろし、[1957年](../Page/1957年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink") - ）[キーボード](../Page/キーボード_\(楽器\).md "wikilink")
       -
-        またレコーディングエンジニア役も務める。[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")出身。
-  - **中内 助六**（なかうち すけろく、[1962年](../Page/1962年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink") - ）[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+        またレコーディングエンジニア役も務める。[埼玉県](../Page/埼玉県.md "wikilink")出身。
+  - **中内 助六**（なかうち すけろく、[1962年](../Page/1962年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink") - ）[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
       -
         本名は雅文（まさふみ）。中国で｢**雅文**(yawen)｣の名前で歌手活動。[徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")出身。
-  - **田切 純一**（たぎり じゅんいち、[1954年](../Page/1954年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink") - ）[ドラム](../Page/ドラムセット.md "wikilink") - [千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")出身。
+  - **田切 純一**（たぎり じゅんいち、[1954年](../Page/1954年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink") - ）[ドラム](../Page/ドラムセット.md "wikilink") - [千葉県](../Page/千葉県.md "wikilink")出身。
 
 ### 過去のメンバー
 
@@ -46,7 +46,7 @@
 
   - バンド名は“**横断禁止無視**”、また、危険地帯に足を踏み入れる事を意味する英語のスラング「[Jaywalking](https://ja.wikipedia.org/wiki/:en:Jaywalking "wikilink")」。
   - 基本的にサポートメンバーは作品に入っておらず、編曲のクレジットも一貫して「JAYWALK」である。サポートメンバーが入った例は中川が加入した最初のアルバム「J'S BROTHERS BAND」およびツアーに参加したパーカッションの越智ブラザーズと、2007年のクリスマスライブツアーから参加した知久のギター仲間である当時23歳のギタリスト浅川の2回。「J-WALK」時代初期以来のツインギター体制となった。浅川は2008年5月のライブで正式メンバーになったことが発表された。
-  - [髭](https://ja.wikipedia.org/wiki/髭 "wikilink")も特徴。12人が在籍したバンドで、浅川と唯一の女性である青木を除き、皆在籍中に[ひげ](https://ja.wikipedia.org/wiki/ひげ "wikilink")を蓄えた経験を持つ。1995年に田切が口ひげを剃り、その後中内がひげを伸ばし始めたため当時の6人（中村を含む）の中で唯一ひげを生やしていないメンバーが変わるという形になった。
+  - [髭](../Page/髭.md "wikilink")も特徴。12人が在籍したバンドで、浅川と唯一の女性である青木を除き、皆在籍中に[ひげ](https://ja.wikipedia.org/wiki/ひげ "wikilink")を蓄えた経験を持つ。1995年に田切が口ひげを剃り、その後中内がひげを伸ばし始めたため当時の6人（中村を含む）の中で唯一ひげを生やしていないメンバーが変わるという形になった。
   - 中村による不祥事、 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月9日](../Page/3月9日.md "wikilink")、都内路上に止めた乗用車内で、[覚醒剤](../Page/覚醒剤.md "wikilink")を所持していたとして[覚せい剤取締法](../Page/覚せい剤取締法.md "wikilink")違反（所持）で逮捕（[中村耕一](https://ja.wikipedia.org/wiki/中村耕一 "wikilink")の項を参照。その後謹慎、2011年3月10日脱退）から半年後の[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月5日](../Page/10月5日.md "wikilink")より半年間、スペシャルユニット「**JAYWALK5**」（6人ではなく5人の状態）で活動\[1\]。
   - [2011年](../Page/2011年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink")に新メンバーに31歳の馬渕と、初の女性メンバーとなる青木が加入し活動再開\[2\]。メンバーはこれまでで最多、他に例を見ない7人編成となり、また平均年齢42歳と若返った\[3\]。
   - 今までのメンバーは皆結成・加入時点で20代であったため、加入時の年齢は馬渕が最も高い。
@@ -55,14 +55,14 @@
 
   -
     [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")（[昭和](../Page/昭和.md "wikilink")55年）9月 **J-WALK**結成。
-    [1981年](../Page/1981年.md "wikilink")（昭和56年）6月1日 デビューアルバム「Jay-Walk」、1stシングル「ジャストビコーズ」リリース（[徳間ジャパン・バーボン](https://ja.wikipedia.org/wiki/徳間ジャパンコミュニケーションズ "wikilink")）。
+    [1981年](../Page/1981年.md "wikilink")（昭和56年）6月1日 デビューアルバム「Jay-Walk」、1stシングル「ジャストビコーズ」リリース（[徳間ジャパン・バーボン](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")）。
     [1988年](../Page/1988年.md "wikilink")（昭和63年）5月 レコード会社を[メルダック](https://ja.wikipedia.org/wiki/メルダック "wikilink")に移籍。
     [1993年](../Page/1993年.md "wikilink")（[平成](../Page/平成.md "wikilink")5年）12月　初のアリーナツアー開催（名古屋レインボーホール、日本武道館、大阪城ホール）。
-    1993年（平成5年）12月31日 [第44回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第44回NHK紅白歌合戦 "wikilink")出場（『[何も言えなくて…夏](https://ja.wikipedia.org/wiki/何も言えなくて…夏 "wikilink")』）
+    1993年（平成5年）12月31日 [第44回NHK紅白歌合戦](../Page/第44回NHK紅白歌合戦.md "wikilink")出場（『[何も言えなくて…夏](https://ja.wikipedia.org/wiki/何も言えなくて…夏 "wikilink")』）
     [1994年](../Page/1994年.md "wikilink")（平成6年）12月15日 [香港](https://ja.wikipedia.org/wiki/香港 "wikilink")[クイーンエリザベススタジアム](https://ja.wikipedia.org/wiki/クイーンエリザベススタジアム "wikilink")にてコンサートを開催。
     [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（平成7年）2月 バンド名を**JAYWALK**に変更。
     1995年（平成7年）3月8・9日 [上海体育館](../Page/上海体育館.md "wikilink")にて、日本のロックバンドとして初のコンサートを開催。
-    [2002年](../Page/2002年.md "wikilink")（平成14年）12月 レコード会社を[日本クラウン](https://ja.wikipedia.org/wiki/日本クラウン "wikilink")に移籍。
+    [2002年](../Page/2002年.md "wikilink")（平成14年）12月 レコード会社を[日本クラウン](../Page/日本クラウン.md "wikilink")に移籍。
     [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）4月 浅川昌輝、新メンバーとして正式加入。
     [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）3月9日 中村耕一、[覚せい剤取締法](../Page/覚せい剤取締法.md "wikilink")違反で逮捕される。
     2010年（平成22年）10月5日 中村の謹慎により、他メンバーでスペシャルユニット**JAYWALK5**として活動再開。
@@ -86,12 +86,12 @@
   - You're my friend（1985年4月25日）　[渡辺自動車研修所](https://ja.wikipedia.org/wiki/渡辺自動車研修所 "wikilink")CFイメージソング
   - keikoの消息（1985年10月25日）
   - 炎の戦士 ～FIELDS ON FIRE～（1986年7月25日）　[オーストラリアンフットボール](../Page/オーストラリアンフットボール.md "wikilink")テーマ曲
-  - 誰にも言えない真夏のLOVE（1987年5月25日）　[黄桜](https://ja.wikipedia.org/wiki/黄桜 "wikilink")「生貯蔵酒」イメージソング
+  - 誰にも言えない真夏のLOVE（1987年5月25日）　[黄桜](../Page/黄桜.md "wikilink")「生貯蔵酒」イメージソング
   - 青いステイションワゴン（1987年8月25日）
-  - JUST BECAUSE（1987年9月25日）　アニメ『[大魔獣激闘 鋼の鬼](https://ja.wikipedia.org/wiki/大魔獣激闘_鋼の鬼 "wikilink")』イメージテーマ曲として採用
+  - JUST BECAUSE（1987年9月25日）　アニメ『[大魔獣激闘 鋼の鬼](../Page/大魔獣激闘_鋼の鬼.md "wikilink")』イメージテーマ曲として採用
   - BURNING EYES（1987年11月25日）同上
   - JOURNEY MAN（1988年1月25日）
-  - アバロンの彼方へ（1988年7月21日）　[シチズン](https://ja.wikipedia.org/wiki/シチズン "wikilink")「AVALON」CMソング、[中村敦夫の地球発22時](https://ja.wikipedia.org/wiki/中村敦夫の地球発22時 "wikilink")エンディング曲
+  - アバロンの彼方へ（1988年7月21日）　[シチズン](https://ja.wikipedia.org/wiki/シチズン "wikilink")「AVALON」CMソング、[中村敦夫の地球発22時](../Page/中村敦夫の地球発22時.md "wikilink")エンディング曲
   - 勝利者 ～WINNER～（1989年4月8日） [名古屋テレビ放送](../Page/名古屋テレビ放送.md "wikilink")『[Let's ドン・キホーテ](https://ja.wikipedia.org/wiki/Let's_ドン・キホーテ "wikilink")』主題歌、[三菱](https://ja.wikipedia.org/wiki/三菱 "wikilink")大画面CMソング
   - それはジェラシー（1989年6月21日）
   - ONCE IN YOUR LIFE（1989年12月5日）　[三菱](https://ja.wikipedia.org/wiki/三菱 "wikilink")ファンヒーターCMソング
@@ -101,12 +101,12 @@
   - 何も言えなくて ～WINTER VERSION～（1991年12月16日）　テレビ朝日系「[たけしのTVタックル](https://ja.wikipedia.org/wiki/たけしのTVタックル "wikilink")」エンディングテーマ、プリンスホテル・スキーツアーCFソング
   - JUST BECAUSE(1992年4月23日)
   - 遠すぎる日々（1992年7月1日）
-  - 君にいて欲しい（1992年10月28日） テレビ朝日系『[さすらい刑事旅情編](https://ja.wikipedia.org/wiki/さすらい刑事旅情編 "wikilink")V』エンディングテーマ
+  - 君にいて欲しい（1992年10月28日） テレビ朝日系『[さすらい刑事旅情編](../Page/さすらい刑事旅情編.md "wikilink")V』エンディングテーマ
   - RELAX（1993年4月21日）
   - 失くしてしまった手紙のように…（1993年11月21日）
   - その胸のヒーロー（1993年12月1日）
   - 見つめていたい（1994年5月21日）映画「[とられてたまるか\!?](https://ja.wikipedia.org/wiki/とられてたまるか!? "wikilink")」主題歌
-  - 雨にも風にも（1994年10月5日）　[三共株式会社](../Page/第一三共ヘルスケア.md "wikilink")『[リゲイン](https://ja.wikipedia.org/wiki/リゲイン "wikilink")』CMソング
+  - 雨にも風にも（1994年10月5日）　[三共株式会社](../Page/第一三共ヘルスケア.md "wikilink")『[リゲイン](../Page/リゲイン.md "wikilink")』CMソング
   - 言えなかった言葉を君に（1995年1月21日） [日本テレビ系ドラマ](../Page/日本テレビ放送網.md "wikilink")『[STATION](../Page/STATION_\(漫画\).md "wikilink")』主題歌
   - 誰よりも優しくて（1995年6月21日）
   - YUKI-ONNA（1995年11月10日）

@@ -1,35 +1,35 @@
 > この記事は[BLOOD STAIN CHILD](https://ja.wikipedia.org/wiki/BLOOD_STAIN_CHILD)から翻訳されています。
 
 
-**BLOOD STAIN CHILD**（ブラッド・ステイン・チャイルド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[2002年](../Page/2002年.md "wikilink")に[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")。同年に[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")でもデビュー。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[レーベルDocktard](../Page/レコードレーベル.md "wikilink")1と契約し、[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")デビューを飾り、[2007年](../Page/2007年.md "wikilink")には[アメリカのレーベルLocomotiveとも契約し](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、全米デビューも果たした。
+**BLOOD STAIN CHILD**（ブラッド・ステイン・チャイルド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[2002年](../Page/2002年.md "wikilink")に[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")。同年に[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")でもデビュー。[2006年](../Page/2006年.md "wikilink")に[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[レーベルDocktard](../Page/レコードレーベル.md "wikilink")1と契約し、[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")デビューを飾り、[2007年](../Page/2007年.md "wikilink")には[アメリカのレーベルLocomotiveとも契約し](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、全米デビューも果たした。
 
-初期は、[チルドレン・オブ・ボドム](https://ja.wikipedia.org/wiki/チルドレン・オブ・ボドム "wikilink")のような、[メロディックデスメタル](../Page/メロディックデスメタル.md "wikilink")を演奏していたが、徐々に、[トランスのような](../Page/トランス_\(音楽\).md "wikilink")、[エレクトロニック・ミュージックないし](../Page/電子音楽.md "wikilink")[エレクトロニック・ダンス・ミュージック](https://ja.wikipedia.org/wiki/エレクトロニック・ダンス・ミュージック "wikilink")の要素を含むようになっていった。5th Album「εpsilon」からは正式に自らのバンドジャンルを「トランス・メタル」と公言した。
+初期は、[チルドレン・オブ・ボドム](../Page/チルドレン・オブ・ボドム.md "wikilink")のような、[メロディックデスメタル](../Page/メロディックデスメタル.md "wikilink")を演奏していたが、徐々に、[トランスのような](../Page/トランス_\(音楽\).md "wikilink")、[エレクトロニック・ミュージックないし](../Page/電子音楽.md "wikilink")[エレクトロニック・ダンス・ミュージック](https://ja.wikipedia.org/wiki/エレクトロニック・ダンス・ミュージック "wikilink")の要素を含むようになっていった。5th Album「εpsilon」からは正式に自らのバンドジャンルを「トランス・メタル」と公言した。
 
 ## 略歴
 
-[1999年](../Page/1999年.md "wikilink")[6月](../Page/6月.md "wikilink")に、[大阪](../Page/大阪.md "wikilink")で前身バンドの**VISION QUEST**が結成。結成当初は、RYU（ギター）、RYO（ベース、RYUの実弟）、VIOLATOR（ドラムス）、AKI（キーボード）とハイトーンボーカリストの5人で、[メロディックスピードメタル](https://ja.wikipedia.org/wiki/メロディックスピードメタル "wikilink")系の[音楽](../Page/音楽.md "wikilink")を演奏していた。
+[1999年](../Page/1999年.md "wikilink")[6月](../Page/6月.md "wikilink")に、[大阪](../Page/大阪.md "wikilink")で前身バンドの**VISION QUEST**が結成。結成当初は、RYU（ギター）、RYO（ベース、RYUの実弟）、VIOLATOR（ドラムス）、AKI（キーボード）とハイトーンボーカリストの5人で、[メロディックスピードメタル](../Page/メロディックスピードメタル.md "wikilink")系の[音楽](../Page/音楽.md "wikilink")を演奏していた。
 
 [2000年](../Page/2000年.md "wikilink")6月にボーカルが脱退し、DAIKI (ギター)が加入、RYOが[グロウル](https://ja.wikipedia.org/wiki/グロウル "wikilink")によるボーカルを兼任することになり、バンド名を、BLOOD STAIN CHILDに改名、[メロディックデスメタル](../Page/メロディックデスメタル.md "wikilink")へ音楽性を転換し、「Silence Of Northern Hell」、「Requiem」、「Legend Of Dark」の[デモ](https://ja.wikipedia.org/wiki/デモ "wikilink")を作成した。
 
 [2001年](../Page/2001年.md "wikilink")秋には[プロレスラー](../Page/プロレスラー.md "wikilink")の[佐々木健介](https://ja.wikipedia.org/wiki/佐々木健介 "wikilink")選手に入場曲「The World」を提供し、同年12月には、当時佐々木が所属していた[新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")の設立30周年記念テーマ曲「Steel Flame」を提供。
 
-2002年に、2000年に作成したデモをきっかけとして、[和田誠が設立したレーベル](../Page/和田誠_\(評論家\).md "wikilink")[Captain Rockと契約し](https://ja.wikipedia.org/wiki/Captain_Rock "wikilink")、同年[7月17日](../Page/7月17日.md "wikilink")に1stアルバム『Silence Of Northern Hell』をリリース。リード・トラックの「Silence Of Northern Hell」は[JFN系](../Page/全国FM放送協議会.md "wikilink")[ラジオドラマ](https://ja.wikipedia.org/wiki/ラジオドラマ "wikilink")「[カドカワ・サウンドシネマ](https://ja.wikipedia.org/wiki/カドカワ・サウンドシネマ "wikilink")　[トリニティ・ブラッド](https://ja.wikipedia.org/wiki/トリニティ・ブラッド "wikilink")～Rage　Against The Moon」のエンディングテーマとなり、同年秋には同アルバムが韓国でもリリースされた。
+2002年に、2000年に作成したデモをきっかけとして、[和田誠が設立したレーベル](../Page/和田誠_\(評論家\).md "wikilink")[Captain Rockと契約し](https://ja.wikipedia.org/wiki/Captain_Rock "wikilink")、同年[7月17日](../Page/7月17日.md "wikilink")に1stアルバム『Silence Of Northern Hell』をリリース。リード・トラックの「Silence Of Northern Hell」は[JFN系](../Page/全国FM放送協議会.md "wikilink")[ラジオドラマ](../Page/ラジオドラマ.md "wikilink")「[カドカワ・サウンドシネマ](https://ja.wikipedia.org/wiki/カドカワ・サウンドシネマ "wikilink")　[トリニティ・ブラッド](../Page/トリニティ・ブラッド.md "wikilink")～Rage　Against The Moon」のエンディングテーマとなり、同年秋には同アルバムが韓国でもリリースされた。
 
 [2003年](../Page/2003年.md "wikilink")6月18日に2ndアルバム『MYSTIC YOUR HEART』をリリース。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")3月にDAIKIが脱退し、翌月に後任としてSHIROMASAが加入。8月18日に3rdアルバム『IDOLATOR』をリリース。このアルバムから、RYUがサイド・ボーカル(クリーン)を務めるようになった。
+[2005年](../Page/2005年.md "wikilink")3月にDAIKIが脱退し、翌月に後任としてSHIROMASAが加入。8月18日に3rdアルバム『IDOLATOR』をリリース。このアルバムから、RYUがサイド・ボーカル(クリーン)を務めるようになった。
 
 2006年に、ドイツのレーベルDocktard1と契約、ヨーロッパデビューを果たす。同年末をもってSHIROMASAが脱退し、翌年初頭に後任としてG.S.Rが加入。同時に専任ボーカリストとして、SADEWも加入した。
 
-2007年7月18日に4thアルバム『MOZAIQ』をリリース、リード・トラックの「FREEDOM」の[PVは](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")[ゴンゾ](../Page/ゴンゾ.md "wikilink")が製作した。同年、アメリカのレーベルLocomotiveとも契約し、全米デビューを果たした。
+2007年7月18日に4thアルバム『MOZAIQ』をリリース、リード・トラックの「FREEDOM」の[PVは](../Page/ミュージック・ビデオ.md "wikilink")[ゴンゾ](../Page/ゴンゾ.md "wikilink")が製作した。同年、アメリカのレーベルLocomotiveとも契約し、全米デビューを果たした。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")6月にSADEWが「音楽性の違い、もとい自分探しの旅に出るため」、VIOLATORが「諸事情で家業を継がねばならない状況になり、バンド活動を続けることができなくなったため」脱退\[1\]。9月14日に公式サイトにて新メンバーSOPHIA（ヴォーカル）、GAMI（ドラムス）の加入が発表された\[2\]。また、メインレーベルを、[イタリア](../Page/イタリア.md "wikilink")の[Corner Recordsに移した](https://ja.wikipedia.org/wiki/Corner_Records "wikilink")。
 
 [2011年](../Page/2011年.md "wikilink")リリースの、[スタジオジブリ](../Page/スタジオジブリ.md "wikilink")[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")、『[Princess Ghibli](https://ja.wikipedia.org/wiki/Princess_Ghibli "wikilink")』の2曲に参加。また、同年6月には、5thアルバム『psilon』をリリース。
 
-[2012年](../Page/2012年.md "wikilink")7月、Sophiaが脱退した\[3\]。後任を公募し、12月頭に後任として、KiKi (ヴォーカル)の加入が発表された\[4\]。[2013年](../Page/2013年.md "wikilink")3月、[ビデオジョッキー](https://ja.wikipedia.org/wiki/ビデオジョッキー "wikilink")、[ディスクジョッキー](../Page/ディスクジョッキー.md "wikilink")、[マニピュレータを担当するMAKOTOが新加入した](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")\[5\]。また、今後、[キーボーディスト](https://ja.wikipedia.org/wiki/キーボーディスト "wikilink")のAKIは[ライヴには出演せず](https://ja.wikipedia.org/wiki/演奏会 "wikilink")、スタジオのみの参加となることも併せて発表された\[6\]。
+[2012年](../Page/2012年.md "wikilink")7月、Sophiaが脱退した\[3\]。後任を公募し、12月頭に後任として、KiKi (ヴォーカル)の加入が発表された\[4\]。[2013年](../Page/2013年.md "wikilink")3月、[ビデオジョッキー](../Page/ビデオジョッキー.md "wikilink")、[ディスクジョッキー](../Page/ディスクジョッキー.md "wikilink")、[マニピュレータを担当するMAKOTOが新加入した](../Page/ミュージックシーケンサー.md "wikilink")\[5\]。また、今後、[キーボーディスト](../Page/キーボーディスト.md "wikilink")のAKIは[ライヴには出演せず](../Page/演奏会.md "wikilink")、スタジオのみの参加となることも併せて発表された\[6\]。
 
-[2013年](../Page/2013年.md "wikilink")レコード会社を[ランティス](https://ja.wikipedia.org/wiki/ランティス "wikilink")に移し、事務所[アイウィルに所属](https://ja.wikipedia.org/wiki/アイウィル_\(音楽プロダクション\) "wikilink")。
+[2013年](../Page/2013年.md "wikilink")レコード会社を[ランティス](../Page/ランティス.md "wikilink")に移し、事務所[アイウィルに所属](https://ja.wikipedia.org/wiki/アイウィル_\(音楽プロダクション\) "wikilink")。
 
 [2014年](../Page/2014年.md "wikilink")1月29日に移籍後初のリリースとなるシングル[LAST STARDUSTをリリース](https://ja.wikipedia.org/wiki/LAST_STARDUST "wikilink")。タイトルトラックのLAST STARDUSTはPCゲーム[未来戦姫スレイブニル](https://ja.wikipedia.org/wiki/未来戦姫スレイブニル "wikilink")のOP主題歌、収録曲のOVER THE GALAXYはED楽曲でもある。またLAST STARDUSTでは[GRANRODEO](../Page/GRANRODEO.md "wikilink")の[e-ZUKA](https://ja.wikipedia.org/wiki/e-ZUKA "wikilink")がギターソロでゲスト参加している。同年9月、MAKOTOが音楽性の違いを理由に脱退した\[7\]。
 
@@ -56,12 +56,12 @@
 <!-- end list -->
 
   - G.S.R - [サイドギター](../Page/リズムギター.md "wikilink")（2007年1月- ）
-  - Yakky - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")（2016年6月- ）
+  - Yakky - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")（2016年6月- ）
 
 <!-- end list -->
 
   -
-    [☆Skeleton panties☆](https://ja.wikipedia.org/wiki/☆Skeleton_panties☆ "wikilink")\[15\] 等で活動。 遠藤一馬（[SIAM SHADE](https://ja.wikipedia.org/wiki/SIAM_SHADE "wikilink")）サポートメンバー。
+    [☆Skeleton panties☆](https://ja.wikipedia.org/wiki/☆Skeleton_panties☆ "wikilink")\[15\] 等で活動。 遠藤一馬（[SIAM SHADE](../Page/SIAM_SHADE.md "wikilink")）サポートメンバー。
 
 <!-- end list -->
 
@@ -95,7 +95,7 @@
 
 <!-- end list -->
 
-  - MAKOTO - [ビデオジョッキー](https://ja.wikipedia.org/wiki/ビデオジョッキー "wikilink")、[ディスクジョッキー](../Page/ディスクジョッキー.md "wikilink")、[マニピュレータ](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")（2013年3月-2014年9月）
+  - MAKOTO - [ビデオジョッキー](../Page/ビデオジョッキー.md "wikilink")、[ディスクジョッキー](../Page/ディスクジョッキー.md "wikilink")、[マニピュレータ](../Page/ミュージックシーケンサー.md "wikilink")（2013年3月-2014年9月）
   - KiKi - リードボーカル （2012年12月-2016年6月）
   - RYO - ベース＆[サイドボーカル](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")（[グロウル](../Page/デスヴォイス.md "wikilink")）（1999年6月-2016年6月）
   - GAMI - ドラムス（2010年9月-2018年1月）

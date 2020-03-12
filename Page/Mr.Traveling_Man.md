@@ -1,13 +1,13 @@
 > この記事は[Mr.Traveling Man](https://ja.wikipedia.org/wiki/Mr.Traveling_Man)から翻訳されています。
 
 
-「**Mr.Traveling Man**」（ミスター・トラベリング・マン）は、[TOKIO](../Page/TOKIO.md "wikilink")の33作目の[シングル](../Page/シングル.md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月8日](../Page/2月8日.md "wikilink")に[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック "wikilink")から発売された。
+「**Mr.Traveling Man**」（ミスター・トラベリング・マン）は、[TOKIO](../Page/TOKIO.md "wikilink")の33作目の[シングル](../Page/シングル.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[2月8日](../Page/2月8日.md "wikilink")に[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック "wikilink")から発売された。
 
 ## 解説
 
-この曲で「[AMBITIOUS JAPAN\!](https://ja.wikipedia.org/wiki/AMBITIOUS_JAPAN! "wikilink")」（[2003年](../Page/2003年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")リリース）以来、およそ2年4か月ぶりの初登場1位を獲得した。シングルとしては4度目の首位獲得となった。
+この曲で「[AMBITIOUS JAPAN\!](../Page/AMBITIOUS_JAPAN!.md "wikilink")」（[2003年](../Page/2003年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")リリース）以来、およそ2年4か月ぶりの初登場1位を獲得した。シングルとしては4度目の首位獲得となった。
 
-[PVは](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")[お化け屋敷](../Page/お化け屋敷.md "wikilink")をイメージして、[マネキンなどが沢山使われている](../Page/マネキン人形.md "wikilink")。
+[PVは](../Page/ミュージック・ビデオ.md "wikilink")[お化け屋敷](../Page/お化け屋敷.md "wikilink")をイメージして、[マネキンなどが沢山使われている](../Page/マネキン人形.md "wikilink")。
 
 ジャケットと収録曲が異なる初回盤A・初回盤B・初回盤C・通常盤初回プレス・通常盤の5形態で発売された。
 
@@ -19,16 +19,16 @@
 
 1.  **Mr.Traveling Man**
       -
-        作詞・作曲：[清水昭男](../Page/清水昭男.md "wikilink")、編曲：[佐久間正英](https://ja.wikipedia.org/wiki/佐久間正英 "wikilink")
+        作詞・作曲：[清水昭男](../Page/清水昭男.md "wikilink")、編曲：[佐久間正英](../Page/佐久間正英.md "wikilink")
     <!-- end list -->
-      - [松岡昌宏](../Page/松岡昌宏.md "wikilink")主演 [TBS](https://ja.wikipedia.org/wiki/TBS "wikilink")系ドラマ『[夜王](https://ja.wikipedia.org/wiki/夜王 "wikilink")～YAOH～』主題歌
+      - [松岡昌宏](../Page/松岡昌宏.md "wikilink")主演 [TBS](https://ja.wikipedia.org/wiki/TBS "wikilink")系ドラマ『[夜王](../Page/夜王.md "wikilink")～YAOH～』主題歌
 2.  **夜を吹き飛ばせ**※※
       -
         作詞・作曲：[中原明彦](../Page/ロクセンチ.md "wikilink")、編曲：[KAM](https://ja.wikipedia.org/wiki/KAM_\(編曲家\) "wikilink")
 3.  **Love is here**※※※
       -
         作詞：[TAKESHI](https://ja.wikipedia.org/wiki/TAKESHI "wikilink")、作曲・編曲：[山原一浩](https://ja.wikipedia.org/wiki/山原一浩 "wikilink")
-4.  **[明日を目指して\!](https://ja.wikipedia.org/wiki/明日を目指して! "wikilink")**（Piano version）※
+4.  **[明日を目指して\!](../Page/明日を目指して!.md "wikilink")**（Piano version）※
       -
         作曲：[長瀬智也](../Page/長瀬智也.md "wikilink")、編曲：KAM
     <!-- end list -->

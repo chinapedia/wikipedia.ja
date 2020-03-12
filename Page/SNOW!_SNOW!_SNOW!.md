@@ -1,7 +1,7 @@
 > この記事は[SNOW! SNOW! SNOW!](https://ja.wikipedia.org/wiki/SNOW!_SNOW!_SNOW!)から翻訳されています。
 
 
-「**SNOW\! SNOW\! SNOW\!**」（スノー・スノー・スノー）は、[KinKi Kidsの](../Page/KinKi_Kids.md "wikilink")22枚目の[シングル](../Page/シングル.md "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月21日](../Page/12月21日.md "wikilink")発売。発売元は[ジャニーズ・エンタテイメント](https://ja.wikipedia.org/wiki/ジャニーズ・エンタテイメント "wikilink")。
+「**SNOW\! SNOW\! SNOW\!**」（スノー・スノー・スノー）は、[KinKi Kidsの](../Page/KinKi_Kids.md "wikilink")22枚目の[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")発売。発売元は[ジャニーズ・エンタテイメント](../Page/ジャニーズ・エンタテイメント.md "wikilink")。
 
 ## 解説
 
@@ -11,7 +11,7 @@
 
 ## チャート成績
 
-[オリコン週間ランキングで](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")、初週23.0万枚を売り上げ、初登場1位を獲得した。デビューシングル「[硝子の少年](../Page/硝子の少年.md "wikilink")」から22作連続首位獲得を記録し、自身の持つギネス記録であるデビュー曲からの連続首位記録を更新した。前作まで[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")（21作）に並び歴代5位タイだった通算のシングル首位獲得数記録も今回で単独5位となった。また、シングル首位の獲得連続年数は、これで1997年より10年連続。シングル首位獲得10年連続到達は、[B'z](../Page/B'z.md "wikilink")（16年連続・1990～2005）、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")（12年連続・1994～2005）に続く史上3組目で、デビューの年から10年連続シングル首位獲得は史上初の快挙となった\[1\]。
+[オリコン週間ランキングで](../Page/オリコンチャート.md "wikilink")、初週23.0万枚を売り上げ、初登場1位を獲得した。デビューシングル「[硝子の少年](../Page/硝子の少年.md "wikilink")」から22作連続首位獲得を記録し、自身の持つギネス記録であるデビュー曲からの連続首位記録を更新した。前作まで[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")（21作）に並び歴代5位タイだった通算のシングル首位獲得数記録も今回で単独5位となった。また、シングル首位の獲得連続年数は、これで1997年より10年連続。シングル首位獲得10年連続到達は、[B'z](../Page/B'z.md "wikilink")（16年連続・1990～2005）、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")（12年連続・1994～2005）に続く史上3組目で、デビューの年から10年連続シングル首位獲得は史上初の快挙となった\[1\]。
 
 ## 収録曲
 
@@ -20,13 +20,13 @@
 1.  **SNOW\! SNOW\! SNOW\!**
       -
         （作詞：[秋元康](../Page/秋元康.md "wikilink") / 作曲：[伊秩弘将](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink") / 編曲：家原正樹）
-        [UGA](https://ja.wikipedia.org/wiki/UGA_\(カラオケ\) "wikilink") [CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。
+        [UGA](../Page/UGA_\(カラオケ\).md "wikilink") [CMソング](../Page/コマーシャルソング.md "wikilink")。
         作詞を秋元康で、作曲は[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")に提供した楽曲が数々のヒット曲を生み出した伊秩弘将が担当した共作である。[歌詞](../Page/歌詞.md "wikilink")はタイトルの通り、[雪](../Page/雪.md "wikilink")や[冬](../Page/冬.md "wikilink")と言ったワードを中心に男女の恋模様を描いている。
-        発売日の[12月21日](../Page/12月21日.md "wikilink")～[31日までの](../Page/12月31日.md "wikilink")10日間限定で、BMBの[カラオケ](../Page/カラオケ.md "wikilink")機器UGAで[PVが配信されている](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。この曲を選曲・歌唱することによって、PVの映像を観ることが可能であった。[第一興商](../Page/第一興商.md "wikilink")の[DAMでも](../Page/DAM_\(カラオケ\).md "wikilink")[レコード会社](https://ja.wikipedia.org/wiki/レコード会社 "wikilink")によってアーティストのPVが使用されている（所謂本人映像付き）が、[ジャニーズ関連作品がこういった形で配信されるのは](../Page/ジャニーズ事務所.md "wikilink")、珍しい例である。
+        発売日の[12月21日](../Page/12月21日.md "wikilink")～[31日までの](../Page/12月31日.md "wikilink")10日間限定で、BMBの[カラオケ](../Page/カラオケ.md "wikilink")機器UGAで[PVが配信されている](../Page/ミュージック・ビデオ.md "wikilink")。この曲を選曲・歌唱することによって、PVの映像を観ることが可能であった。[第一興商](../Page/第一興商.md "wikilink")の[DAMでも](../Page/DAM_\(カラオケ\).md "wikilink")[レコード会社](../Page/レコード会社.md "wikilink")によってアーティストのPVが使用されている（所謂本人映像付き）が、[ジャニーズ関連作品がこういった形で配信されるのは](../Page/ジャニーズ事務所.md "wikilink")、珍しい例である。
         出版者：ジャニーズ出版
 2.  **ミゾレ**
       -
-        （作詞・作曲：[井手コウジ](https://ja.wikipedia.org/wiki/井手コウジ "wikilink") / 編曲：Tadasuke）
+        （作詞・作曲：[井手コウジ](../Page/井手コウジ.md "wikilink") / 編曲：Tadasuke）
         出版者：ジャニーズ出版
 3.  **ユキノキャンバス**
       -
@@ -42,7 +42,7 @@
 3.  **雪白の月**
       -
         （作詞：[Satomi](../Page/Satomi.md "wikilink") / 作曲：[松本良喜](https://ja.wikipedia.org/wiki/松本良喜 "wikilink") 編曲：[十川知司](../Page/十川ともじ.md "wikilink")）
-        通常版のみに収録されているカップリング曲だが、[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[39](../Page/39_\(KinKi_Kidsのアルバム\).md "wikilink")』での選曲の際のファン投票では3位にランクインした。
+        通常版のみに収録されているカップリング曲だが、[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[39](../Page/39_\(KinKi_Kidsのアルバム\).md "wikilink")』での選曲の際のファン投票では3位にランクインした。
         出版者：ジャニーズ出版
 
 ## 参加ミュージシャン
@@ -50,7 +50,7 @@
 ## 収録アルバム
 
   - **SNOW\! SNOW\! SNOW\!**
-      - [I album -iD-](https://ja.wikipedia.org/wiki/I_album_-iD- "wikilink")
+      - [I album -iD-](../Page/I_album_-iD-.md "wikilink")
       - [The BEST](https://ja.wikipedia.org/wiki/The_BEST_\(KinKi_Kidsのアルバム\) "wikilink")
   - **雪白の月**
       - [39](../Page/39_\(KinKi_Kidsのアルバム\).md "wikilink")

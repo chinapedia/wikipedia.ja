@@ -5,7 +5,7 @@
 
 ## 概要
 
-[明治学院大学](https://ja.wikipedia.org/wiki/明治学院大学 "wikilink")在学中、高校時代からの友人であった吉村(Vo)、外川(G)に、上京してきた久永(G)を加え、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（平成7年）9月ボグ・マイトルスターとして結成、そこに同大学の川添(B)、黒沼(Dr)が加入し、[1996年](../Page/1996年.md "wikilink")（平成8年）3月に現在のWINO（ワイノ）と改名。同年インディーズ・コンピレーションアルバム『RETURN OF GUITAR LIGHTNING HORROR SMILIN'』（Gods Pop Records）を[ズボンズ](https://ja.wikipedia.org/wiki/ズボンズ "wikilink")、[ルーシバンペルト](https://ja.wikipedia.org/wiki/ルーシバンペルト "wikilink")、[ペンギンノイズ](https://ja.wikipedia.org/wiki/ペンギンノイズ "wikilink")等と参加しリリース。その後インディーズからのリリースを経て、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）9月、マキシシングル「Devils Own\[mix No.4\]」でデビュー。[1999年](../Page/1999年.md "wikilink")（平成11年）2月、外資系レコード店を中心に強力なタイアップの下、満を持して1stアルバム『Useless Music』をリリース。その年の夏には[フジロックフェスティバル](https://ja.wikipedia.org/wiki/フジロックフェスティバル "wikilink")に出演、暮れには2ndアルバム『WINO』をリリースした。そのリリースに伴ったツアーのセミファイナル([2000年](../Page/2000年.md "wikilink")（平成12年）3月14日）では[赤坂ブリッツ](https://ja.wikipedia.org/wiki/赤坂ブリッツ "wikilink")でワンマンライブを行い成功を収めるなど（その模様は[NHK-BS2の](https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン "wikilink")『[新・真夜中の王国](https://ja.wikipedia.org/wiki/新・真夜中の王国 "wikilink")』にて放送された）、デビュー後1年半は特に精力的な活動を行った。その後[2001年](../Page/2001年.md "wikilink")（平成13年）5月にバンドにとって最高のヒットシングルとなった「太陽は夜も輝く」を含む3rdアルバム『Dirge.no9』を発表。ほどなくして[2002年](../Page/2002年.md "wikilink")（平成14年）8月に4thアルバム『EVERLAST』を発表したが、それに伴う2回目のツアーHERE COMES THAT FEELING\!終了後の11月22日、ライブ“Club [Snoozer](https://ja.wikipedia.org/wiki/Snoozer "wikilink")”への出演を最後に自身の所属事務所である[アロハ・プロダクション](https://ja.wikipedia.org/wiki/アロハ・プロダクション "wikilink")のホームページ上において解散を発表した。ファンクラブはFC WINO。
+[明治学院大学](../Page/明治学院大学.md "wikilink")在学中、高校時代からの友人であった吉村(Vo)、外川(G)に、上京してきた久永(G)を加え、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（平成7年）9月ボグ・マイトルスターとして結成、そこに同大学の川添(B)、黒沼(Dr)が加入し、[1996年](../Page/1996年.md "wikilink")（平成8年）3月に現在のWINO（ワイノ）と改名。同年インディーズ・コンピレーションアルバム『RETURN OF GUITAR LIGHTNING HORROR SMILIN'』（Gods Pop Records）を[ズボンズ](../Page/ズボンズ.md "wikilink")、[ルーシバンペルト](https://ja.wikipedia.org/wiki/ルーシバンペルト "wikilink")、[ペンギンノイズ](https://ja.wikipedia.org/wiki/ペンギンノイズ "wikilink")等と参加しリリース。その後インディーズからのリリースを経て、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）9月、マキシシングル「Devils Own\[mix No.4\]」でデビュー。[1999年](../Page/1999年.md "wikilink")（平成11年）2月、外資系レコード店を中心に強力なタイアップの下、満を持して1stアルバム『Useless Music』をリリース。その年の夏には[フジロックフェスティバル](https://ja.wikipedia.org/wiki/フジロックフェスティバル "wikilink")に出演、暮れには2ndアルバム『WINO』をリリースした。そのリリースに伴ったツアーのセミファイナル([2000年](../Page/2000年.md "wikilink")（平成12年）3月14日）では[赤坂ブリッツ](https://ja.wikipedia.org/wiki/赤坂ブリッツ "wikilink")でワンマンライブを行い成功を収めるなど（その模様は[NHK-BS2の](../Page/NHK衛星第2テレビジョン.md "wikilink")『[新・真夜中の王国](https://ja.wikipedia.org/wiki/新・真夜中の王国 "wikilink")』にて放送された）、デビュー後1年半は特に精力的な活動を行った。その後[2001年](../Page/2001年.md "wikilink")（平成13年）5月にバンドにとって最高のヒットシングルとなった「太陽は夜も輝く」を含む3rdアルバム『Dirge.no9』を発表。ほどなくして[2002年](../Page/2002年.md "wikilink")（平成14年）8月に4thアルバム『EVERLAST』を発表したが、それに伴う2回目のツアーHERE COMES THAT FEELING\!終了後の11月22日、ライブ“Club [Snoozer](https://ja.wikipedia.org/wiki/Snoozer "wikilink")”への出演を最後に自身の所属事務所である[アロハ・プロダクション](https://ja.wikipedia.org/wiki/アロハ・プロダクション "wikilink")のホームページ上において解散を発表した。ファンクラブはFC WINO。
 
 ## メンバー
 
@@ -20,12 +20,12 @@
       - [オダギリジョー](../Page/オダギリジョー.md "wikilink")とともに高校時代バンドを組んでいた。
       - 使用ギター…1stでは友人に借りた[オービル](https://ja.wikipedia.org/wiki/オービル "wikilink")・[レスポール](https://ja.wikipedia.org/wiki/レスポール "wikilink")・カスタム
       - 使用アンプ…[マッチレス](https://ja.wikipedia.org/wiki/マッチレス "wikilink")
-      - 解散後、Gold77のメンバーとして活動する傍ら、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）からはインディー・レーベル「CITY RECORDS」を自身で起ち上げ、数組のアーティストの音源(「THE HIGH STREETS」/「EERECTIONN」/「LISTEN TO THE SILENCE」)をリリース。現在はレーベル運営やシンガー・ソングライターとしての活動を開始する一方、THE HIGH STREETSやバンド・[オダギリジョー](../Page/オダギリジョー.md "wikilink")のギタリストとして作曲を担当。またプロデューサーとしての活動も開始している\[1\]。
-      - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）10月22日に自身初のソロ・アルバム『黒猫殺人事件(上)』をリリース。このアルバムは(上)(中)(下)と続く3部作の第1弾で、古くからの友人である[オダギリジョー](../Page/オダギリジョー.md "wikilink")やUMU（FREAKYFROG/ex. [BEAT CRUSADERS](https://ja.wikipedia.org/wiki/BEAT_CRUSADERS "wikilink")）なども参加している。\[2\]。
+      - 解散後、Gold77のメンバーとして活動する傍ら、[2006年](../Page/2006年.md "wikilink")（平成18年）からはインディー・レーベル「CITY RECORDS」を自身で起ち上げ、数組のアーティストの音源(「THE HIGH STREETS」/「EERECTIONN」/「LISTEN TO THE SILENCE」)をリリース。現在はレーベル運営やシンガー・ソングライターとしての活動を開始する一方、THE HIGH STREETSやバンド・[オダギリジョー](../Page/オダギリジョー.md "wikilink")のギタリストとして作曲を担当。またプロデューサーとしての活動も開始している\[1\]。
+      - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）10月22日に自身初のソロ・アルバム『黒猫殺人事件(上)』をリリース。このアルバムは(上)(中)(下)と続く3部作の第1弾で、古くからの友人である[オダギリジョー](../Page/オダギリジョー.md "wikilink")やUMU（FREAKYFROG/ex. [BEAT CRUSADERS](../Page/BEAT_CRUSADERS.md "wikilink")）なども参加している。\[2\]。
       - 愛称 チョッコー
   - **外川慎一郎**（Guitar／[1975年](../Page/1975年.md "wikilink")（昭和50年）4月28日生まれ）東京都出身．A型
       - リズムギター担当。
-      - 使用ギター…1stでは[フェンダー](https://ja.wikipedia.org/wiki/フェンダー_\(楽器メーカー\) "wikilink")・[クラプトン](https://ja.wikipedia.org/wiki/クラプトン "wikilink")・モデル、[レスポール](https://ja.wikipedia.org/wiki/レスポール "wikilink")・デラックス
+      - 使用ギター…1stでは[フェンダー](../Page/フェンダー_\(楽器メーカー\).md "wikilink")・[クラプトン](https://ja.wikipedia.org/wiki/クラプトン "wikilink")・モデル、[レスポール](https://ja.wikipedia.org/wiki/レスポール "wikilink")・デラックス
       - 使用アンプ…[VOX](https://ja.wikipedia.org/wiki/VOX "wikilink") AC30
       - 現在はソロプロジェクトTOGUAR（のちThe Creeplands）として音楽活動を続ける一方、THE HIGH STREETSのベーシストとしての活動もスタートしている。
   - **川添宏之**（Bass／[1975年](../Page/1975年.md "wikilink")（昭和50年）11月23日生まれ） 横浜市出身．B型
@@ -34,7 +34,7 @@
       - 愛称 ゾエ
   - **黒沼征孝**（Drums／[1975年](../Page/1975年.md "wikilink")（昭和50年）4月15日生まれ） 横浜育ち．A型
       - 愛称 ジョー
-      - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）9月から外川(G)のプロジェクトThe Creeplandsのドラムスとして加入。
+      - [2006年](../Page/2006年.md "wikilink")（平成18年）9月から外川(G)のプロジェクトThe Creeplandsのドラムスとして加入。
 
 ## 略歴
 
@@ -45,12 +45,12 @@
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）3月 レコーディングのため3週間渡英、[ザ・シャーラタンズ](../Page/ザ・シャーラタンズ.md "wikilink")の「Tellin' stories」などを手がけたDave Charlesプロデュースにて「Devil's own」「NEW SONG」他を録音
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）5月 boogaloo『Devil's own '98.9.11 Live at Shelter』(Live Take1曲入り)リリース
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）7月 Hirami Records『WATERMARK』(1曲入り)リリース
-  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）9月23日 [Victor](https://ja.wikipedia.org/wiki/Victor "wikilink")/[SPEEDSTAR RECORDSよりDevil](https://ja.wikipedia.org/wiki/SPEEDSTAR_RECORDS "wikilink")'s own\[mix NO.4\]でメジャーデビュー （[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")最高91位）
-  - [1999年](../Page/1999年.md "wikilink")（平成11年）2月 1stアルバム『Useless Music』発表（[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")最高38位）
-  - [1999年](../Page/1999年.md "wikilink")（平成11年）12月 2ndアルバム『WINO』発表（[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")最高57位）
-  - [2000年](../Page/2000年.md "wikilink")（平成12年）12月 7thシングル「太陽は夜も輝く」発表（[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")最高35位）
-  - [2001年](../Page/2001年.md "wikilink")（平成13年）5月 3rdアルバム『Dirge.No9』発表（[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")最高64位）
-  - [2002年](../Page/2002年.md "wikilink")（平成14年）8月 4thアルバム『EVERLAST』発表（[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")圏外）
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）9月23日 [Victor](https://ja.wikipedia.org/wiki/Victor "wikilink")/[SPEEDSTAR RECORDSよりDevil](../Page/SPEEDSTAR_RECORDS.md "wikilink")'s own\[mix NO.4\]でメジャーデビュー （[オリコンチャート](../Page/オリコンチャート.md "wikilink")最高91位）
+  - [1999年](../Page/1999年.md "wikilink")（平成11年）2月 1stアルバム『Useless Music』発表（[オリコンチャート](../Page/オリコンチャート.md "wikilink")最高38位）
+  - [1999年](../Page/1999年.md "wikilink")（平成11年）12月 2ndアルバム『WINO』発表（[オリコンチャート](../Page/オリコンチャート.md "wikilink")最高57位）
+  - [2000年](../Page/2000年.md "wikilink")（平成12年）12月 7thシングル「太陽は夜も輝く」発表（[オリコンチャート](../Page/オリコンチャート.md "wikilink")最高35位）
+  - [2001年](../Page/2001年.md "wikilink")（平成13年）5月 3rdアルバム『Dirge.No9』発表（[オリコンチャート](../Page/オリコンチャート.md "wikilink")最高64位）
+  - [2002年](../Page/2002年.md "wikilink")（平成14年）8月 4thアルバム『EVERLAST』発表（[オリコンチャート](../Page/オリコンチャート.md "wikilink")圏外）
   - [2002年](../Page/2002年.md "wikilink")（平成14年）11月22日　Club [Snoozer](https://ja.wikipedia.org/wiki/Snoozer "wikilink")＠[新宿](https://ja.wikipedia.org/wiki/新宿区 "wikilink")[LIQUIDROOM](https://ja.wikipedia.org/wiki/LIQUIDROOM "wikilink") を以って、解散
 
 ## バンド名の由来
@@ -59,11 +59,11 @@
 
 ## 音楽性
 
-80年代半ば～90年代の[UK](https://ja.wikipedia.org/wiki/UK "wikilink")[ロックシーン](../Page/ロック_\(音楽\).md "wikilink")、特に[マッドチェスター](https://ja.wikipedia.org/wiki/マッドチェスター "wikilink")の影響を大いに受けた太いグルーヴを持ったサウンドが特徴\[4\]。その流れを汲む[ブリットポップ](../Page/ブリットポップ.md "wikilink")の親しみやすいメロディーが混在しているのも特徴的。
+80年代半ば～90年代の[UK](https://ja.wikipedia.org/wiki/UK "wikilink")[ロックシーン](../Page/ロック_\(音楽\).md "wikilink")、特に[マッドチェスター](../Page/マッドチェスター.md "wikilink")の影響を大いに受けた太いグルーヴを持ったサウンドが特徴\[4\]。その流れを汲む[ブリットポップ](../Page/ブリットポップ.md "wikilink")の親しみやすいメロディーが混在しているのも特徴的。
 
-吉村(Vo)自身は影響の受けたアーティストについて「[ラーズ](../Page/ラーズ.md "wikilink")や[キャスト](../Page/キャスト.md "wikilink")を聞きまくっていた」と告白している。また（似ていると言われる）[ザ・ストーン・ローゼズ](https://ja.wikipedia.org/wiki/ザ・ストーン・ローゼズ "wikilink")や[オアシス](../Page/オアシス.md "wikilink")については「（似ていると言っても）原体験ではないですからね」と決して熱狂的な影響を受けているわけではないことをほのめかした\[5\]。
+吉村(Vo)自身は影響の受けたアーティストについて「[ラーズ](../Page/ラーズ.md "wikilink")や[キャスト](../Page/キャスト.md "wikilink")を聞きまくっていた」と告白している。また（似ていると言われる）[ザ・ストーン・ローゼズ](../Page/ザ・ストーン・ローゼズ.md "wikilink")や[オアシス](../Page/オアシス.md "wikilink")については「（似ていると言っても）原体験ではないですからね」と決して熱狂的な影響を受けているわけではないことをほのめかした\[5\]。
 
-デビュー当初、外資系レコード店などの強力なプッシュから見てもわかるとおり、同世代の海外バンドへの憧憬とルーツを悪びれもせず半ば確信犯的に前面に押し出したバンドのサウンドスタイル\[6\]は、ダンス･ミュージックとしての機能性を持ったフロア対応型のロックバンドがあまりいなかったということもあり\[7\]、インディーズ時代からの音楽業界の注目度は高く\[8\]、当時の[日本のロック](https://ja.wikipedia.org/wiki/日本のロック "wikilink")ファンには歓迎を持って受け入れられた。ところがその一方で主に[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")のシーンなど海外の[ロックを好む日本のリスナーからは](../Page/ロック_\(音楽\).md "wikilink")、彼らの音楽的ルーツが[オアシス](../Page/オアシス.md "wikilink")や[ザ・ストーン・ローゼズ](https://ja.wikipedia.org/wiki/ザ・ストーン・ローゼズ "wikilink")、[ザ・シャーラタンズ](../Page/ザ・シャーラタンズ.md "wikilink")や[プライマル・スクリーム](../Page/プライマル・スクリーム.md "wikilink")などといった、当時[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で流行していた現役の人気バンドを容易に想起せしめるものであったため、その部分に特化して彼らを特に批判的な目で見るようになっていった\[9\]。
+デビュー当初、外資系レコード店などの強力なプッシュから見てもわかるとおり、同世代の海外バンドへの憧憬とルーツを悪びれもせず半ば確信犯的に前面に押し出したバンドのサウンドスタイル\[6\]は、ダンス･ミュージックとしての機能性を持ったフロア対応型のロックバンドがあまりいなかったということもあり\[7\]、インディーズ時代からの音楽業界の注目度は高く\[8\]、当時の[日本のロック](../Page/日本のロック.md "wikilink")ファンには歓迎を持って受け入れられた。ところがその一方で主に[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")のシーンなど海外の[ロックを好む日本のリスナーからは](../Page/ロック_\(音楽\).md "wikilink")、彼らの音楽的ルーツが[オアシス](../Page/オアシス.md "wikilink")や[ザ・ストーン・ローゼズ](../Page/ザ・ストーン・ローゼズ.md "wikilink")、[ザ・シャーラタンズ](../Page/ザ・シャーラタンズ.md "wikilink")や[プライマル・スクリーム](../Page/プライマル・スクリーム.md "wikilink")などといった、当時[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で流行していた現役の人気バンドを容易に想起せしめるものであったため、その部分に特化して彼らを特に批判的な目で見るようになっていった\[9\]。
 
 ## 音作り
 
@@ -71,13 +71,13 @@
 
 ## ナンバーナインとのつながり
 
-裏原宿系ブランド、[ナンバーナイン](../Page/ナンバーナイン.md "wikilink")のデザイナー[宮下貴裕](../Page/宮下貴裕.md "wikilink")がファンであることから、メンバーの着用する衣装は[ナンバーナイン](../Page/ナンバーナイン.md "wikilink")のものであることが多い。これは[フジロックフェスティバル](https://ja.wikipedia.org/wiki/フジロックフェスティバル "wikilink")'99出演時の[THE BEATLESのロゴをもじったTHE](https://ja.wikipedia.org/wiki/THE_BEATLES "wikilink") EATBEATロゴTシャツや[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『FACTORY』出演時のメカニックシャツ、ツアーでのラストライブとなった[新宿](../Page/新宿.md "wikilink")[LIQUIDROOM](https://ja.wikipedia.org/wiki/LIQUIDROOM "wikilink")（10.09（Wed））でのTHE END OF CENTURYロゴTシャツなど、映像で確認できるライブ映像の衣装のほとんどが[ナンバーナイン](../Page/ナンバーナイン.md "wikilink")のものであることからも確認できる 。また[スペースシャワーTV](https://ja.wikipedia.org/wiki/スペースシャワーTV "wikilink")の人気番組[梁山泊 (CS番組)において外川](../Page/梁山泊_\(CS番組\).md "wikilink")(G)が着用していたのも、[ジョン・レノン](../Page/ジョン・レノン.md "wikilink")が愛用していたNEW YORK CITY-Tシャツのロゴをもじった[ナンバーナイン](../Page/ナンバーナイン.md "wikilink")のGOTTHAM CITYロゴTシャツであった。
+裏原宿系ブランド、[ナンバーナイン](../Page/ナンバーナイン.md "wikilink")のデザイナー[宮下貴裕](../Page/宮下貴裕.md "wikilink")がファンであることから、メンバーの着用する衣装は[ナンバーナイン](../Page/ナンバーナイン.md "wikilink")のものであることが多い。これは[フジロックフェスティバル](https://ja.wikipedia.org/wiki/フジロックフェスティバル "wikilink")'99出演時の[THE BEATLESのロゴをもじったTHE](https://ja.wikipedia.org/wiki/THE_BEATLES "wikilink") EATBEATロゴTシャツや[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『FACTORY』出演時のメカニックシャツ、ツアーでのラストライブとなった[新宿](../Page/新宿.md "wikilink")[LIQUIDROOM](https://ja.wikipedia.org/wiki/LIQUIDROOM "wikilink")（10.09（Wed））でのTHE END OF CENTURYロゴTシャツなど、映像で確認できるライブ映像の衣装のほとんどが[ナンバーナイン](../Page/ナンバーナイン.md "wikilink")のものであることからも確認できる 。また[スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")の人気番組[梁山泊 (CS番組)において外川](../Page/梁山泊_\(CS番組\).md "wikilink")(G)が着用していたのも、[ジョン・レノン](../Page/ジョン・レノン.md "wikilink")が愛用していたNEW YORK CITY-Tシャツのロゴをもじった[ナンバーナイン](../Page/ナンバーナイン.md "wikilink")のGOTTHAM CITYロゴTシャツであった。
 
 [宮下貴裕](../Page/宮下貴裕.md "wikilink")自身がボーカルを務めるバンド、THE HIGH STREETSには久永がギター、外川がベースで参加している。
 
 ## オダギリジョーとのつながり
 
-[テレビブロス](../Page/テレビブロス.md "wikilink")に連載を持つ[オダギリジョー](../Page/オダギリジョー.md "wikilink")が自身のCDデビューについての同誌インタビューで、高校時代に久永(G)とバンドを組んでいたことについて聞かれ、よく[村八分などをカバーしていたことを明かした](https://ja.wikipedia.org/wiki/村八分_\(バンド\) "wikilink")。そのこともあってかWINOのCDを初めて聴いたとき、あまりにカッチリ作っている作風だったことに驚きを隠せなかったという。
+[テレビブロス](../Page/テレビブロス.md "wikilink")に連載を持つ[オダギリジョー](../Page/オダギリジョー.md "wikilink")が自身のCDデビューについての同誌インタビューで、高校時代に久永(G)とバンドを組んでいたことについて聞かれ、よく[村八分などをカバーしていたことを明かした](../Page/村八分_\(バンド\).md "wikilink")。そのこともあってかWINOのCDを初めて聴いたとき、あまりにカッチリ作っている作風だったことに驚きを隠せなかったという。
 
 [テレビブロス](../Page/テレビブロス.md "wikilink")内の連載にある写真で、WINOの所属事務所ホームページ内で販売されていたWINOのロゴ入りTシャツを着て写っていたことがある。本文ではそのことについて特に触れられていなかった\[11\]。
 
@@ -86,10 +86,10 @@
 ## シャーラタンズのオープニングアクト
 
   - [1999年](../Page/1999年.md "wikilink")（平成11年）に[ザ・シャーラタンズ](../Page/ザ・シャーラタンズ.md "wikilink")のオープニングアクトを計4回にわたってつとめている。
-      - 12.01（Wed） [Zepp](https://ja.wikipedia.org/wiki/Zepp "wikilink") Tokyo
+      - 12.01（Wed） [Zepp](../Page/Zepp.md "wikilink") Tokyo
       - 12.03（Fri） [CLUB CITTA](https://ja.wikipedia.org/wiki/CLUB_CITTA "wikilink") 川崎
-      - 12.05（Sun) [Zepp](https://ja.wikipedia.org/wiki/Zepp "wikilink") Fukuoka
-      - 12.08（Wed） [Zepp](https://ja.wikipedia.org/wiki/Zepp "wikilink") Osaka
+      - 12.05（Sun) [Zepp](../Page/Zepp.md "wikilink") Fukuoka
+      - 12.08（Wed） [Zepp](../Page/Zepp.md "wikilink") Osaka
 
 ## メンバーのエピソード
 
@@ -99,10 +99,10 @@
 
 ## 交流のあるバンド、ミュージシャン
 
-  - [BUGY CRAXONE](https://ja.wikipedia.org/wiki/BUGY_CRAXONE "wikilink") （同じエンジニアを通じて存在を知り、札幌のライブで共演を果たす。そのときのバーで意気投合。その後お互いのイベントやライブなどでも共演を果たす\[15\]。また[BUGY CRAXONEのミニアルバム](https://ja.wikipedia.org/wiki/BUGY_CRAXONE "wikilink")『This is NEW SUNRIZE』の4曲目「why?(feat.Yoshimura\&Togawa from WINO」にも参加している。なおこのアルバムにはWINOメンバーと同じ[明治学院大学](https://ja.wikipedia.org/wiki/明治学院大学 "wikilink")出身の[チバユウスケ](../Page/チバユウスケ.md "wikilink")も2曲目の「人と光(feat.[チバユウスケ](../Page/チバユウスケ.md "wikilink") from [thee michelle gun elephant](https://ja.wikipedia.org/wiki/thee_michelle_gun_elephant "wikilink"))」で参加している）
+  - [BUGY CRAXONE](../Page/BUGY_CRAXONE.md "wikilink") （同じエンジニアを通じて存在を知り、札幌のライブで共演を果たす。そのときのバーで意気投合。その後お互いのイベントやライブなどでも共演を果たす\[15\]。また[BUGY CRAXONEのミニアルバム](../Page/BUGY_CRAXONE.md "wikilink")『This is NEW SUNRIZE』の4曲目「why?(feat.Yoshimura\&Togawa from WINO」にも参加している。なおこのアルバムにはWINOメンバーと同じ[明治学院大学](../Page/明治学院大学.md "wikilink")出身の[チバユウスケ](../Page/チバユウスケ.md "wikilink")も2曲目の「人と光(feat.[チバユウスケ](../Page/チバユウスケ.md "wikilink") from [thee michelle gun elephant](https://ja.wikipedia.org/wiki/thee_michelle_gun_elephant "wikilink"))」で参加している）
   - [Grapevine](https://ja.wikipedia.org/wiki/Grapevine "wikilink") （事務所の先輩後輩の関係にあたる）
   - [KAGAMI](../Page/KAGAMI.md "wikilink") DJ（2ndアルバム『WINO』「Mirror」に参加）
-  - [古明地洋哉](https://ja.wikipedia.org/wiki/古明地洋哉 "wikilink")（ライブイベント「Listen To The Silence」（02/1/19 ＠ [渋谷](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[CLUB QUATTRO](../Page/CLUB_QUATTRO.md "wikilink")）にて吉村(Vo)が共演）
+  - [古明地洋哉](../Page/古明地洋哉.md "wikilink")（ライブイベント「Listen To The Silence」（02/1/19 ＠ [渋谷](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[CLUB QUATTRO](../Page/CLUB_QUATTRO.md "wikilink")）にて吉村(Vo)が共演）
 
 ## ディスコグラフィ
 
@@ -188,7 +188,7 @@ MSCL-12709:MEG-CD</p></td>
 <li>SPIN</li>
 <li>The Action(From Dusk Till Dawn Mix by Captain Funk)</li>
 </ol></td>
-<td><p><a href="../Page/TBSテレビ.md" title="wikilink">TBS系列</a>『<a href="https://ja.wikipedia.org/wiki/COUNT_DOWN_TV" title="wikilink">COUNT DOWN TV</a>』エンディングテーマ</p></td>
+<td><p><a href="../Page/TBSテレビ.md" title="wikilink">TBS系列</a>『<a href="../Page/COUNT_DOWN_TV.md" title="wikilink">COUNT DOWN TV</a>』エンディングテーマ</p></td>
 </tr>
 <tr class="even">
 <td><p>6th</p></td>
@@ -202,7 +202,7 @@ MSCL-12710:MEG-CD</p></td>
 <li>Songs of Shadow</li>
 <li>Talk to me</li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/七尾旅人" title="wikilink">七尾旅人</a>が参加</p></td>
+<td><p><a href="../Page/七尾旅人.md" title="wikilink">七尾旅人</a>が参加</p></td>
 </tr>
 <tr class="odd">
 <td><p>7th</p></td>
@@ -279,7 +279,7 @@ MSCL-12715:MEG-CD</p></td>
 <li>Brake Down The Long Road, Brake Down The Wall</li>
 <li>Freedom Song</li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/亀田誠治" title="wikilink">亀田誠治</a>プロデュース</p></td>
+<td><p><a href="../Page/亀田誠治.md" title="wikilink">亀田誠治</a>プロデュース</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -589,7 +589,7 @@ MSCL-60774:MEG-CD</p></td>
   - バンド・スコア WINO Useless Music [シンコー・ミュージック](https://ja.wikipedia.org/wiki/シンコー・ミュージック "wikilink") 1999年7月27日発行
   - バンド･スコア WINO/WINO [シンコー・ミュージック](https://ja.wikipedia.org/wiki/シンコー・ミュージック "wikilink") 2000年4月4日発行
   - [ロッキング・オン・ジャパン](https://ja.wikipedia.org/wiki/ロッキング・オン・ジャパン "wikilink") No.215 2002年1月号
-  - NHK BS-2 『[BEAT MOTION](https://ja.wikipedia.org/wiki/BEAT_MOTION "wikilink")』
+  - NHK BS-2 『[BEAT MOTION](../Page/BEAT_MOTION.md "wikilink")』
   - NHK BS-2　『[新・真夜中の王国](https://ja.wikipedia.org/wiki/新・真夜中の王国 "wikilink")』
   - [JUN official web site](http://www.junyoshimura.net/)
   - [POLU GALLERY](https://www.polugallery.com/)
@@ -598,7 +598,7 @@ MSCL-60774:MEG-CD</p></td>
 
 ## 関連項目
 
-  - [石田ショーキチ](https://ja.wikipedia.org/wiki/石田ショーキチ "wikilink")
+  - [石田ショーキチ](../Page/石田ショーキチ.md "wikilink")
 
 ## 外部リンク
 
@@ -620,5 +620,5 @@ MSCL-60774:MEG-CD</p></td>
 11. [テレビブロス](../Page/テレビブロス.md "wikilink")2002年11月9日号P105「ジャンケンは後出しで」閲覧　内容はサザエさんのオープニングテーマについてとそれに関連してサザエカレーについて、また読者からの質問コーナーでは歌詞に出てくるドラ猫に関連してか猫舌について触れられている
 12. [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『FACTORY』出演時トーク部分参照
 13. 外川慎一郎(Toguar)fan site閲覧
-14. [NHK-BS2](https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン "wikilink") 『[BEAT MOTION](https://ja.wikipedia.org/wiki/BEAT_MOTION "wikilink")』トーク部分閲覧
-15. [スペースシャワーTV](https://ja.wikipedia.org/wiki/スペースシャワーTV "wikilink")のテレビラジオ「TALK LOUD」より
+14. [NHK-BS2](../Page/NHK衛星第2テレビジョン.md "wikilink") 『[BEAT MOTION](../Page/BEAT_MOTION.md "wikilink")』トーク部分閲覧
+15. [スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")のテレビラジオ「TALK LOUD」より

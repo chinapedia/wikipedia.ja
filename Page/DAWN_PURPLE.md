@@ -1,12 +1,12 @@
 > この記事は[DAWN PURPLE](https://ja.wikipedia.org/wiki/DAWN_PURPLE)から翻訳されています。
 
 
-『**DAWN PURPLE**』（ドーン・パープル）は、[松任谷由実](../Page/松任谷由実.md "wikilink")（ユーミン）の23枚目のオリジナルアルバム。[1991年](../Page/1991年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")に[東芝EMIからリリースされた](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")（[CD](../Page/CD-DA.md "wikilink")：TOCT-6300、[CT](../Page/コンパクトカセット.md "wikilink")：TOTT-6300）。1991年12月4日から1992年6月20日まで『DAWN PURPLE』コンサートツアーが行われた。
+『**DAWN PURPLE**』（ドーン・パープル）は、[松任谷由実](../Page/松任谷由実.md "wikilink")（ユーミン）の23枚目のオリジナルアルバム。[1991年](../Page/1991年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")に[東芝EMIからリリースされた](../Page/EMIミュージック・ジャパン.md "wikilink")（[CD](../Page/CD-DA.md "wikilink")：TOCT-6300、[CT](../Page/コンパクトカセット.md "wikilink")：TOTT-6300）。1991年12月4日から1992年6月20日まで『DAWN PURPLE』コンサートツアーが行われた。
 
 ## 解説
 
-  - アルバムタイトルにもある「PURPLE」とは、「人間が初めに見る色」を意味している。胎児が出産時に感じると言う「[紫](https://ja.wikipedia.org/wiki/紫 "wikilink")」の色や、夜明け前の空の「紫」の色等、色々な「初めてみる色」の意味が含まれている。
-  - このタイトルを思いついたきっかけは、[1991年](../Page/1991年.md "wikilink")[6月7日](../Page/6月7日.md "wikilink")の[ピナトゥボ山](https://ja.wikipedia.org/wiki/ピナトゥボ山 "wikilink")大噴火であった。大量の[火山灰](../Page/火山灰.md "wikilink")が[成層圏](../Page/成層圏.md "wikilink")に吹き上げられ、地球規模の異常気象が生じ、[関東平野](../Page/関東平野.md "wikilink")でも深暗紫色に染まった幻想的な夜明けが観測された。この夜明けにインスピレーションを受けて「DAWN PURPLE」というタイトルを思いついたとのことである。
+  - アルバムタイトルにもある「PURPLE」とは、「人間が初めに見る色」を意味している。胎児が出産時に感じると言う「[紫](../Page/紫.md "wikilink")」の色や、夜明け前の空の「紫」の色等、色々な「初めてみる色」の意味が含まれている。
+  - このタイトルを思いついたきっかけは、[1991年](../Page/1991年.md "wikilink")[6月7日](../Page/6月7日.md "wikilink")の[ピナトゥボ山](../Page/ピナトゥボ山.md "wikilink")大噴火であった。大量の[火山灰](../Page/火山灰.md "wikilink")が[成層圏](../Page/成層圏.md "wikilink")に吹き上げられ、地球規模の異常気象が生じ、[関東平野](../Page/関東平野.md "wikilink")でも深暗紫色に染まった幻想的な夜明けが観測された。この夜明けにインスピレーションを受けて「DAWN PURPLE」というタイトルを思いついたとのことである。
   - アルバムのテーマは「セカンドバースデイ」。
   - ジャケットの写真では本人がシンクロエナジャイザーを着用している。
   - [CD](../Page/CD-DA.md "wikilink")・[CTの初回版はジャケットを上から見て](../Page/コンパクトカセット.md "wikilink")、ユーミンの目に当たる部分が円で、後は四角形が並んでいる透明のプラスチックの板が装入されていた。
@@ -21,10 +21,10 @@
 
 1.  **Happy Birthday to You〜ヴィーナスの誕生**
       -
-        [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に[小林麻美](https://ja.wikipedia.org/wiki/小林麻美 "wikilink")に提供した「遠くからHAPPY BIRTHDAY」が原曲。間奏の男声コーラスは[久保田利伸](https://ja.wikipedia.org/wiki/久保田利伸 "wikilink")が担当した。[1992年](../Page/1992年.md "wikilink")にNHK[アルベールビル冬季オリンピック中継のテーマソングとして使用された](https://ja.wikipedia.org/wiki/アルベールビルオリンピック "wikilink")。
+        [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に[小林麻美](../Page/小林麻美.md "wikilink")に提供した「遠くからHAPPY BIRTHDAY」が原曲。間奏の男声コーラスは[久保田利伸](../Page/久保田利伸.md "wikilink")が担当した。[1992年](../Page/1992年.md "wikilink")にNHK[アルベールビル冬季オリンピック中継のテーマソングとして使用された](https://ja.wikipedia.org/wiki/アルベールビルオリンピック "wikilink")。
 2.  **情熱に届かない〜Don't Let Me Go**
       -
-        [プロモーションビデオが存在しており](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、公式[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")チャンネルで視聴可能。[1991年](../Page/1991年.md "wikilink")[キリンラガービールCMソング](../Page/麒麟麦酒.md "wikilink")。[1999年](../Page/1999年.md "wikilink")に[松崎ナオ](../Page/松崎ナオ.md "wikilink")がカヴァー。
+        [プロモーションビデオが存在しており](../Page/ミュージック・ビデオ.md "wikilink")、公式[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")チャンネルで視聴可能。[1991年](../Page/1991年.md "wikilink")[キリンラガービールCMソング](../Page/麒麟麦酒.md "wikilink")。[1999年](../Page/1999年.md "wikilink")に[松崎ナオ](../Page/松崎ナオ.md "wikilink")がカヴァー。
 3.  **遠雷**
 4.  **DAWN PURPLE**
       -
@@ -36,11 +36,11 @@
 7.  **誰かがあなたを探してる**
 8.  **タイム リミット** *-Time Limit-*
       -
-        [1991年](../Page/1991年.md "wikilink")の[苗場プリンスホテルCMソング](https://ja.wikipedia.org/wiki/プリンスホテル "wikilink")。
+        [1991年](../Page/1991年.md "wikilink")の[苗場プリンスホテルCMソング](../Page/プリンスホテル.md "wikilink")。
 9.  **サンド キャッスル**
 10. '''9月の蝉しぐれ '''
       -
-        [1994年](../Page/1994年.md "wikilink")のフジテレビ系ドラマ『[君といた夏](https://ja.wikipedia.org/wiki/君といた夏 "wikilink")』最終回のエンディングに使用された曲。
+        [1994年](../Page/1994年.md "wikilink")のフジテレビ系ドラマ『[君といた夏](../Page/君といた夏.md "wikilink")』最終回のエンディングに使用された曲。
 
 ## 参加ミュージシャン
 
@@ -55,7 +55,7 @@
   - サキソフォン : [Dan Higgins](https://ja.wikipedia.org/wiki/ダン・ヒギンス "wikilink")（\#1,\#3,\#5,\#7,\#8）、Jake H. Comception（\#9）
   - トランペット : [Jerry Hey](../Page/ジェリー・ヘイ.md "wikilink")（\#1,\#5,\#7,\#8）、[Gray Grant](https://ja.wikipedia.org/wiki/ゲリー・グタント "wikilink") （\#1,\#5,\#7,\#8）
   - トロンボーン : [Bill Reichenbach](../Page/ビル・ライヒェンバッハ.md "wikilink")（\#1,\#5,\#7,\#8）
-  - コーラス : 松任谷由実（\#1,\#3,\#5～\#10）、[久保田利伸](https://ja.wikipedia.org/wiki/久保田利伸 "wikilink")（\#1）、[EVE](https://ja.wikipedia.org/wiki/EVE_\(歌手グループ\) "wikilink")（\#1）、[木戸泰弘](https://ja.wikipedia.org/wiki/木戸泰弘 "wikilink")（\#2,\#4,\#9）、[比山貴詠史](https://ja.wikipedia.org/wiki/比山貴詠史 "wikilink")（\#2,\#4,\#9）、[広谷順子](https://ja.wikipedia.org/wiki/広谷順子 "wikilink")（\#2,\#4,\#9）、Carmen Twillue（\#5）、Terry Young（\#5）、Joey Diggs（\#5）、[タイム・ファイブ](https://ja.wikipedia.org/wiki/タイム・ファイブ "wikilink")（\#7）
+  - コーラス : 松任谷由実（\#1,\#3,\#5～\#10）、[久保田利伸](../Page/久保田利伸.md "wikilink")（\#1）、[EVE](https://ja.wikipedia.org/wiki/EVE_\(歌手グループ\) "wikilink")（\#1）、[木戸泰弘](https://ja.wikipedia.org/wiki/木戸泰弘 "wikilink")（\#2,\#4,\#9）、[比山貴詠史](https://ja.wikipedia.org/wiki/比山貴詠史 "wikilink")（\#2,\#4,\#9）、[広谷順子](https://ja.wikipedia.org/wiki/広谷順子 "wikilink")（\#2,\#4,\#9）、Carmen Twillue（\#5）、Terry Young（\#5）、Joey Diggs（\#5）、[タイム・ファイブ](../Page/タイム・ファイブ.md "wikilink")（\#7）
   - シンセサイザー・プログラミング：[山中雅文](https://ja.wikipedia.org/wiki/山中雅文 "wikilink")
   - シンクラヴィア・プログラミング：武新吾、Kevin Maloney、鈴木武生
 

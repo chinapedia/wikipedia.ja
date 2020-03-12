@@ -5,17 +5,17 @@
 
 ## 経歴
 
-[1977年](../Page/1977年.md "wikilink")[2月3日](../Page/2月3日.md "wikilink")生まれ、名古屋出身。前所属事務所に送った[デモテープ](https://ja.wikipedia.org/wiki/デモテープ "wikilink")が関係者の耳に止まったのがきっかけとなり、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に18歳でシングル「不安なの」で[HIT STREETからメジャーデビューした](https://ja.wikipedia.org/wiki/ソニー・ミュージックアーティスツ "wikilink")。その後順調に作品の発表を続けるが、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に所属レーベルであるHIT STREETが解散し、[キューンレコード](https://ja.wikipedia.org/wiki/キューンレコード "wikilink")に移籍した。（2006年3月まで在籍）
+[1977年](../Page/1977年.md "wikilink")[2月3日](../Page/2月3日.md "wikilink")生まれ、名古屋出身。前所属事務所に送った[デモテープ](https://ja.wikipedia.org/wiki/デモテープ "wikilink")が関係者の耳に止まったのがきっかけとなり、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に18歳でシングル「不安なの」で[HIT STREETからメジャーデビューした](../Page/ソニー・ミュージックアーティスツ.md "wikilink")。その後順調に作品の発表を続けるが、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に所属レーベルであるHIT STREETが解散し、[キューンレコード](https://ja.wikipedia.org/wiki/キューンレコード "wikilink")に移籍した。（2006年3月まで在籍）
 
-[1999年](../Page/1999年.md "wikilink")、[Dragon Ashのシングル](https://ja.wikipedia.org/wiki/Dragon_Ash "wikilink")「Grateful Days」にゲスト参加。このシングルがミリオンセラーを記録し、ACOの名が広く知られるようになった。同年、[砂原良徳](https://ja.wikipedia.org/wiki/砂原良徳 "wikilink")のプロデュース（[電気グルーヴ](../Page/電気グルーヴ.md "wikilink")脱退後の初仕事）で制作され、テレビドラマ『[砂の上の恋人たち](https://ja.wikipedia.org/wiki/砂の上の恋人たち "wikilink")』のテーマソングとなったシングル「悦びに咲く花」が30万枚を超える売上を記録。その後発売したアルバム『Absolute Ego』も売上は10万枚に達しさらに知名度を高め、ファッション誌にモデルとして登場するなど活動の場を広げた。
+[1999年](../Page/1999年.md "wikilink")、[Dragon Ashのシングル](../Page/Dragon_Ash.md "wikilink")「Grateful Days」にゲスト参加。このシングルがミリオンセラーを記録し、ACOの名が広く知られるようになった。同年、[砂原良徳](../Page/砂原良徳.md "wikilink")のプロデュース（[電気グルーヴ](../Page/電気グルーヴ.md "wikilink")脱退後の初仕事）で制作され、テレビドラマ『[砂の上の恋人たち](../Page/砂の上の恋人たち.md "wikilink")』のテーマソングとなったシングル「悦びに咲く花」が30万枚を超える売上を記録。その後発売したアルバム『Absolute Ego』も売上は10万枚に達しさらに知名度を高め、ファッション誌にモデルとして登場するなど活動の場を広げた。
 
 [2002年](../Page/2002年.md "wikilink")、「ROCK IN JAPAN FESTIVAL」へ出演予定だったが、直前に交通事故に遭い、顎の骨を骨折。フェス参加をキャンセルした。
 
-その後も、[トリッキー](https://ja.wikipedia.org/wiki/トリッキー "wikilink")、[アルファ](https://ja.wikipedia.org/wiki/アルファ "wikilink")、[エイドリアン・シャーウッド](https://ja.wikipedia.org/wiki/エイドリアン・シャーウッド "wikilink")、[ムーム](../Page/ムーム.md "wikilink")、といったプロデューサーを迎え入れ、作品を発表。[2003年](../Page/2003年.md "wikilink")にアルバム『irony』発売後は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")に住居を移し長期の創作活動に入る。この時Carsten Nicolaiと音源を制作、『irony』の流れを受けたダークなエレクトロニカ路線の一枚のアルバムを完成させたが、発売は中止に。移住から1年後に帰国する。
+その後も、[トリッキー](https://ja.wikipedia.org/wiki/トリッキー "wikilink")、[アルファ](../Page/アルファ.md "wikilink")、[エイドリアン・シャーウッド](../Page/エイドリアン・シャーウッド.md "wikilink")、[ムーム](../Page/ムーム.md "wikilink")、といったプロデューサーを迎え入れ、作品を発表。[2003年](../Page/2003年.md "wikilink")にアルバム『irony』発売後は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")に住居を移し長期の創作活動に入る。この時Carsten Nicolaiと音源を制作、『irony』の流れを受けたダークなエレクトロニカ路線の一枚のアルバムを完成させたが、発売は中止に。移住から1年後に帰国する。
 
-帰国後、[kj](https://ja.wikipedia.org/wiki/降谷建志 "wikilink")（Dragon Ash）、砂原良徳、[Aoki Takamasaら日本のプロデューサーを迎えて制作された約](../Page/青木孝允.md "wikilink")3年ぶりの発表となるミニアルバム『Mask』を発売した。
+帰国後、[kj](../Page/降谷建志.md "wikilink")（Dragon Ash）、砂原良徳、[Aoki Takamasaら日本のプロデューサーを迎えて制作された約](../Page/青木孝允.md "wikilink")3年ぶりの発表となるミニアルバム『Mask』を発売した。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")、バンド「[Golden Pink Arrow♂](https://ja.wikipedia.org/wiki/Golden_Pink_Arrow♂ "wikilink")」を結成した。国外の活動も視野に入れ、全編英語詞の歌のデモをMySpace上で公開している。
+[2006年](../Page/2006年.md "wikilink")、バンド「[Golden Pink Arrow♂](https://ja.wikipedia.org/wiki/Golden_Pink_Arrow♂ "wikilink")」を結成した。国外の活動も視野に入れ、全編英語詞の歌のデモをMySpace上で公開している。
 
 [2007年](../Page/2007年.md "wikilink")、新たに所属事務所を[ナチュライズ・マネージメント](https://ja.wikipedia.org/wiki/ナチュライズ・マネージメント "wikilink")に移籍。再びソロ・アーティストとしての活動を開始した。2007年12月19日には初のBEST ALBUM「ACO BEST\~girl's Diary」を発売した。
 
@@ -817,7 +817,7 @@ KSB5-5728:DVD</p></td>
 <tbody>
 <tr class="odd">
 <td><p>1999年5月1日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Dragon_Ash" title="wikilink">Dragon Ash</a> feat.ACO, <a href="https://ja.wikipedia.org/wiki/ZEEBRA" title="wikilink">ZEEBRA</a>『<a href="../Page/Grateful_Days.md" title="wikilink">Grateful Days</a>』</p></td>
+<td><p><a href="../Page/Dragon_Ash.md" title="wikilink">Dragon Ash</a> feat.ACO, <a href="https://ja.wikipedia.org/wiki/ZEEBRA" title="wikilink">ZEEBRA</a>『<a href="../Page/Grateful_Days.md" title="wikilink">Grateful Days</a>』</p></td>
 <td><p>VICL-35057</p></td>
 <td></td>
 </tr>
@@ -903,7 +903,7 @@ KSCL-817</p></td>
 | ----------------------------------------------------------------------- | ---------------------------------------------------------------------- |
 | **監督**                                                                  | **曲名**                                                                 |
 | [石田悠介](https://ja.wikipedia.org/wiki/石田悠介 "wikilink")                   | 「[Innocent](https://www.youtube.com/watch?v=cPDO4J44pdQ)」              |
-| [小島淳二](https://ja.wikipedia.org/wiki/小島淳二 "wikilink")                   | 「ハートを燃やして」                                                             |
+| [小島淳二](../Page/小島淳二.md "wikilink")                                      | 「ハートを燃やして」                                                             |
 | [semiconductor](https://ja.wikipedia.org/wiki/semiconductor "wikilink") | 「町」                                                                    |
 | [竹内スグル](../Page/竹内スグル.md "wikilink")                                    | 「4月のヒーロー」「悦びに咲く花」                                                      |
 | [野村浩司](https://ja.wikipedia.org/wiki/野村浩司 "wikilink")                   | 「愛したあなたは強いひと」                                                          |
@@ -922,9 +922,9 @@ KSCL-817</p></td>
   - 2000年09月03日 - SPACE SHOWER TV [SWEET LOVE SHOWER](../Page/SWEET_LOVE_SHOWER.md "wikilink") 2000
   - 2001年08月04日 - [ROCK IN JAPAN FESTIVAL](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink") 2001
   - 2002年12月09日 - 百鬼夜行 2002
-  - 2003年12月30日 - [COUNTDOWN JAPAN](https://ja.wikipedia.org/wiki/COUNTDOWN_JAPAN "wikilink") 03/04
+  - 2003年12月30日 - [COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 03/04
   - 2010年07月30日 - [FUJI ROCK FESTIVAL](https://ja.wikipedia.org/wiki/FUJI_ROCK_FESTIVAL "wikilink") '10 (「[Nabowa](https://ja.wikipedia.org/wiki/Nabowa "wikilink") feat. ACO」として出演)
-  - 2010年10月14日 - [ART-SCHOOL](https://ja.wikipedia.org/wiki/ART-SCHOOL "wikilink") 10th Anniversary tour Anesthesia
+  - 2010年10月14日 - [ART-SCHOOL](../Page/ART-SCHOOL.md "wikilink") 10th Anniversary tour Anesthesia
   - 2010年12月09日 - タワーレコード梅田大阪マルビル店15周年記念ライブ 「音ノ輪～CIRCLE OF MUSIC～その3:ビールの日
   - 2012年04月14日 - GO OUT JAMBOREE 2012
   - 2012年05月02日 - GAN-BAN NIGHT SPECIAL presents DEXPISTOLS 『Lesson.07"Via″』 RELEASE PARTY
@@ -940,8 +940,8 @@ KSCL-817</p></td>
 
 ## 関連人物
 
-  - [SILENT POETS](https://ja.wikipedia.org/wiki/SILENT_POETS "wikilink")
-  - [砂原良徳](https://ja.wikipedia.org/wiki/砂原良徳 "wikilink")
+  - [SILENT POETS](../Page/SILENT_POETS.md "wikilink")
+  - [砂原良徳](../Page/砂原良徳.md "wikilink")
   - [名越由貴夫](https://ja.wikipedia.org/wiki/名越由貴夫 "wikilink")
   - [吉澤はじめ](../Page/吉澤はじめ.md "wikilink")
 

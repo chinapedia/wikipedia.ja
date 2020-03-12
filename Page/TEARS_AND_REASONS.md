@@ -1,7 +1,7 @@
 > この記事は[TEARS AND REASONS](https://ja.wikipedia.org/wiki/TEARS_AND_REASONS)から翻訳されています。
 
 
-『**TEARS AND REASONS**』（ティアーズ・アンド・リーズンズ）は、[松任谷由実](../Page/松任谷由実.md "wikilink")（ユーミン）の24枚目のオリジナルアルバム。[1992年](../Page/1992年.md "wikilink")[11月27日](../Page/11月27日.md "wikilink")に[東芝EMIからリリースされた](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")（[CD](../Page/CD-DA.md "wikilink")：TOCT-6800 、[CT](../Page/コンパクトカセット.md "wikilink")：TOTT-6800 ）。1992年12月21日～1993年6月26日、『TEARS AND REASONS』コンサートツアーが行われた。
+『**TEARS AND REASONS**』（ティアーズ・アンド・リーズンズ）は、[松任谷由実](../Page/松任谷由実.md "wikilink")（ユーミン）の24枚目のオリジナルアルバム。[1992年](../Page/1992年.md "wikilink")[11月27日](../Page/11月27日.md "wikilink")に[東芝EMIからリリースされた](../Page/EMIミュージック・ジャパン.md "wikilink")（[CD](../Page/CD-DA.md "wikilink")：TOCT-6800 、[CT](../Page/コンパクトカセット.md "wikilink")：TOTT-6800 ）。1992年12月21日～1993年6月26日、『TEARS AND REASONS』コンサートツアーが行われた。
 
 ## 解説
 
@@ -26,14 +26,14 @@
         1992年に[A.S.A.P.に提供した](https://ja.wikipedia.org/wiki/A.S.A.P._\(グループ\) "wikilink")「Teardrops In The Rain」が原曲。
 4.  **ミラクル**
       -
-        惑星直列であるグランド・クロスがモチーフになっている。1992年[苗場プリンスホテルCMソング](https://ja.wikipedia.org/wiki/プリンスホテル "wikilink")。
+        惑星直列であるグランド・クロスがモチーフになっている。1992年[苗場プリンスホテルCMソング](../Page/プリンスホテル.md "wikilink")。
 5.  **Misty China Town**
       -
         1992年[宝塚歌劇団](../Page/宝塚歌劇団.md "wikilink")への提供曲「ミッドサマー・イブ」（宝塚歌劇団月組公演『[PUCK](https://ja.wikipedia.org/wiki/PUCK "wikilink")』主題歌）の歌詞違い。
 6.  **私らしく**
 7.  **冬の終り**
       -
-        1992年[フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[ボクたちのドラマシリーズ](https://ja.wikipedia.org/wiki/ボクたちのドラマシリーズ "wikilink")『[その時、ハートは盗まれた](https://ja.wikipedia.org/wiki/その時、ハートは盗まれた "wikilink")』エンディングテーマ。
+        1992年[フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[ボクたちのドラマシリーズ](../Page/ボクたちのドラマシリーズ.md "wikilink")『[その時、ハートは盗まれた](https://ja.wikipedia.org/wiki/その時、ハートは盗まれた "wikilink")』エンディングテーマ。
 8.  **So high**
       -
         同じくドラマ『その時、ハートは盗まれた』劇中歌。
@@ -42,11 +42,11 @@
         1984年に[麗美](https://ja.wikipedia.org/wiki/麗美 "wikilink")に提供した曲。1987年の逗子コンサートにて初めて本人によって歌唱された。
 10. **Carry on**
       -
-        1992年[NHKスポーツニュース番組エンディングテーマ](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")。公式サイトと公式[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")チャンネルでプロモーション・ビデオが見られる。2003年にポーリン・ウィルソン（ex [シーウィンド](../Page/シーウィンド.md "wikilink")）がカバーした（『[OVER THE SKY: Yuming International Cover Album](https://ja.wikipedia.org/wiki/OVER_THE_SKY:_Yuming_International_Cover_Album "wikilink")』収録）。
+        1992年[NHKスポーツニュース番組エンディングテーマ](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")。公式サイトと公式[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")チャンネルでプロモーション・ビデオが見られる。2003年にポーリン・ウィルソン（ex [シーウィンド](../Page/シーウィンド.md "wikilink")）がカバーした（『[OVER THE SKY: Yuming International Cover Album](../Page/OVER_THE_SKY:_Yuming_International_Cover_Album.md "wikilink")』収録）。
 
 ## 参加ミュージシャン
 
-  - キーボード&プログラミング : [松任谷正隆](https://ja.wikipedia.org/wiki/松任谷正隆 "wikilink")
+  - キーボード&プログラミング : [松任谷正隆](../Page/松任谷正隆.md "wikilink")
   - ドラム・プログラミング : [江口信夫](https://ja.wikipedia.org/wiki/江口信夫 "wikilink")（\#1,\#4）
   - ドラム : 江口信夫（\#2）、[Mike Baird](https://ja.wikipedia.org/wiki/マイク・ベアード "wikilink")（\#2,\#3,\#7,\#10）、[John Robinson](../Page/ジョン・ロビンソン.md "wikilink")（\#6,\#8）
   - ハイハット&シンバル : 江口信夫（\#5）

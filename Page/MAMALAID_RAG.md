@@ -5,7 +5,7 @@
 
 ## 概要
 
-結成以降[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")まではバンド編成であったが、メンバーの脱退が相次ぎ[田中拡邦](https://ja.wikipedia.org/wiki/田中拡邦 "wikilink")の[ソロプロジェクトとなっている](../Page/一人バンド.md "wikilink")。田中自身はあくまでバンドであるとしている。
+結成以降[2006年](../Page/2006年.md "wikilink")まではバンド編成であったが、メンバーの脱退が相次ぎ[田中拡邦](https://ja.wikipedia.org/wiki/田中拡邦 "wikilink")の[ソロプロジェクトとなっている](../Page/一人バンド.md "wikilink")。田中自身はあくまでバンドであるとしている。
 
 [1960年代](../Page/1960年代.md "wikilink")、[70年代の洋邦の音楽手法を取り入れたそのスタイルから](../Page/1970年代.md "wikilink")、デビュー当時には「現代の[はっぴいえんど](../Page/はっぴいえんど.md "wikilink")」と呼ばれた。実際、ヴォーカルスタイルにおいて[大瀧詠一](../Page/大瀧詠一.md "wikilink")の影響は大きく、本人も認めている。
 
@@ -31,7 +31,7 @@
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")結成。
   - [2002年](../Page/2002年.md "wikilink")メジャーデビュー。同年アルバム『MAMALAID RAG』をリリース。収録曲「春雨道中」は各FM局でオンエアされた。
   - [2003年](../Page/2003年.md "wikilink")、ミニアルバム『きみの瞳の中に』をリリース。ファーストアルバムとは路線変更したが、バンドとしては初めて表題曲「きみの瞳の中に」がTVCM曲としてオンエアされた。続いてリリースされたシングル「そばにいたい」もCMでオンエアされた。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")、4年ぶりとなるセカンドアルバム『MAMALAID RAG2』をリリース。これを機にベースの江口直樹が脱退。
+  - [2006年](../Page/2006年.md "wikilink")、4年ぶりとなるセカンドアルバム『MAMALAID RAG2』をリリース。これを機にベースの江口直樹が脱退。
   - [2007年](../Page/2007年.md "wikilink")、活動休止。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")11月、[田中拡邦](https://ja.wikipedia.org/wiki/田中拡邦 "wikilink")のソロプロジェクトとして本格的に活動を再開、自身のレーベル「ALDENTE ENTERPRISE」からシングル7作品、3rdアルバム『SPRING MIST』、4thアルバム『LIVING』、5thアルバム『Day And Night Blues』、6thアルバム『So Nice』をリリース。また、ソニーミュージックからベストアルバム『the essential MAMALAID RAG』をリリース。
   - [2018年](../Page/2018年.md "wikilink")1月24日、7枚目のアルバムとなる『GOODBYE』をリリースした。
@@ -614,7 +614,7 @@ AICL-2104:通常盤</p></td>
 
   - 2002年04月12日 - スペースシャワー列伝 第13巻 ～幸結(はっぴいえんど)の宴～
   - 2002年10月11日 - スペースシャワー列伝 第19巻 ～特別企画 一夢(ひとよ)の宴～
-  - 2003年12月29日 - [COUNTDOWN JAPAN](https://ja.wikipedia.org/wiki/COUNTDOWN_JAPAN "wikilink") 03/04
+  - 2003年12月29日 - [COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 03/04
   - 2005年07月31日 - [FUJI ROCK FESTIVAL](https://ja.wikipedia.org/wiki/FUJI_ROCK_FESTIVAL "wikilink") '05
   - 2006年08月18日 - [RISING SUN ROCK FESTIVAL](https://ja.wikipedia.org/wiki/RISING_SUN_ROCK_FESTIVAL "wikilink") 2006 in EZO
   - 2011年11月07日 - QUATTRO MIRAGE VOL.3 powered by TOWER RECORDS

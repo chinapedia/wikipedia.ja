@@ -1,11 +1,11 @@
 > この記事は[YBC](https://ja.wikipedia.org/wiki/YBC)から翻訳されています。
 
 
-『**YBCきょうのニュース**』（ワイビーシーきょうのニュース）は、[山形放送](../Page/山形放送.md "wikilink")テレビでかつて放送されていた[ローカル](https://ja.wikipedia.org/wiki/ローカル番組 "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。本番組以降、タイトルは[日本テレビの全国ニュース番組と共有化](../Page/日本テレビ放送網.md "wikilink")（日テレは『[NNN6:30きょうのニュース](https://ja.wikipedia.org/wiki/NNN6:30きょうのニュース "wikilink")』）している。放送期間は[1984年](../Page/1984年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[1988年](../Page/1988年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")まで。なお、初期のタイトルは『YBC6:00きょうのニュース』（ワイビーシーろくまるまるきょうのニュース）であり、日テレの『きょうのニュース』のタイトルロゴを流用したものが番組ロゴとして使用されていた。
+『**YBCきょうのニュース**』（ワイビーシーきょうのニュース）は、[山形放送](../Page/山形放送.md "wikilink")テレビでかつて放送されていた[ローカル](../Page/ローカル番組.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。本番組以降、タイトルは[日本テレビの全国ニュース番組と共有化](../Page/日本テレビ放送網.md "wikilink")（日テレは『[NNN6:30きょうのニュース](../Page/NNN6:30きょうのニュース.md "wikilink")』）している。放送期間は[1984年](../Page/1984年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[1988年](../Page/1988年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")まで。なお、初期のタイトルは『YBC6:00きょうのニュース』（ワイビーシーろくまるまるきょうのニュース）であり、日テレの『きょうのニュース』のタイトルロゴを流用したものが番組ロゴとして使用されていた。
 
 ## 概要
 
-それまでの『[YBCニュースToday](https://ja.wikipedia.org/wiki/YBCニュースToday "wikilink")』が15分拡大し、18:00 - 18:30までの放送と同時にキャスターも男性アナウンサーと女性アナウンサーの2人に変わっている（それまでは男性アナウンサー1人の担当だった）。番組開始から3年間は[山形県](https://ja.wikipedia.org/wiki/山形県 "wikilink")内のニュース専門の番組であったが、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、全国ニュース番組の『[NNNライブオンネットワーク](../Page/NNNライブオンネットワーク.md "wikilink")』を内包・統合し、18:55まで時間を延長した。その後、『NNNライブオンネットワーク』の終了に合わせて番組も終了。[1988年](../Page/1988年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")スタートの『[YBCニュースプラス1](../Page/YBCニュースプラス1.md "wikilink")』に番組は引き継がれた。
+それまでの『[YBCニュースToday](../Page/YBCニュースToday.md "wikilink")』が15分拡大し、18:00 - 18:30までの放送と同時にキャスターも男性アナウンサーと女性アナウンサーの2人に変わっている（それまでは男性アナウンサー1人の担当だった）。番組開始から3年間は[山形県](../Page/山形県.md "wikilink")内のニュース専門の番組であったが、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、全国ニュース番組の『[NNNライブオンネットワーク](../Page/NNNライブオンネットワーク.md "wikilink")』を内包・統合し、18:55まで時間を延長した。その後、『NNNライブオンネットワーク』の終了に合わせて番組も終了。[1988年](../Page/1988年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")スタートの『[YBCニュースプラス1](../Page/YBCニュースプラス1.md "wikilink")』に番組は引き継がれた。
 
 ## 補足
 

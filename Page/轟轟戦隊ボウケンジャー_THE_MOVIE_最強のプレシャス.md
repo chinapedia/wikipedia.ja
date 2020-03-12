@@ -1,7 +1,7 @@
 > この記事は[ THE MOVIE ](https://ja.wikipedia.org/wiki/_THE_MOVIE_)から翻訳されています。
 
 
-『**轟轟戦隊ボウケンジャー THE MOVIE 最強のプレシャス**』（ごうごうせんたいボウケンジャー ザ ムービー さいきょうのプレシャス）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[8月5日](../Page/8月5日.md "wikilink")より[東映](../Page/東映.md "wikilink")系で公開された日本の映画作品。[特撮](../Page/特撮.md "wikilink")ヒーロー番組「[スーパー戦隊シリーズ](https://ja.wikipedia.org/wiki/スーパー戦隊シリーズ "wikilink")」『[轟轟戦隊ボウケンジャー](../Page/轟轟戦隊ボウケンジャー.md "wikilink")』の映画化作品である。同時上映は『[劇場版 仮面ライダーカブト GOD SPEED LOVE](https://ja.wikipedia.org/wiki/劇場版_仮面ライダーカブト_GOD_SPEED_LOVE "wikilink")』。
+『**轟轟戦隊ボウケンジャー THE MOVIE 最強のプレシャス**』（ごうごうせんたいボウケンジャー ザ ムービー さいきょうのプレシャス）は、[2006年](../Page/2006年.md "wikilink")[8月5日](../Page/8月5日.md "wikilink")より[東映](../Page/東映.md "wikilink")系で公開された日本の映画作品。[特撮](../Page/特撮.md "wikilink")ヒーロー番組「[スーパー戦隊シリーズ](https://ja.wikipedia.org/wiki/スーパー戦隊シリーズ "wikilink")」『[轟轟戦隊ボウケンジャー](../Page/轟轟戦隊ボウケンジャー.md "wikilink")』の映画化作品である。同時上映は『[劇場版 仮面ライダーカブト GOD SPEED LOVE](../Page/劇場版_仮面ライダーカブト_GOD_SPEED_LOVE.md "wikilink")』。
 
 ## 概要
 
@@ -11,7 +11,7 @@
 
 監督の[諸田敏](../Page/諸田敏.md "wikilink")は、遠方ロケや登山シーンでクレーンを6台用いるなどしたことから予算を使いすぎたが、実際にその場所にいるということを見せることが重要であったと述べている。
 
-映画冒頭にプールの排水口に腕時計が吸い込まれ取ろうと明石暁（ボウケンレッド）がもがくシーンがあり、公開日5日前の[7月31日](../Page/7月31日.md "wikilink")に発生した[ふじみ野市](https://ja.wikipedia.org/wiki/ふじみ野市 "wikilink")のプールの吸水口に[小学生女児が吸い込まれ死亡した事故を考慮し](https://ja.wikipedia.org/wiki/ふじみ野市立大井プール#死亡事故 "wikilink")、上映前に「ボウケンジャーからのおねがい」と題してプールでの事故の注意を子供たちに呼びかけるテロップが全国で順次追加され、同様の注意を呼びかけるチラシも配られた。
+映画冒頭にプールの排水口に腕時計が吸い込まれ取ろうと明石暁（ボウケンレッド）がもがくシーンがあり、公開日5日前の[7月31日](../Page/7月31日.md "wikilink")に発生した[ふじみ野市](../Page/ふじみ野市.md "wikilink")のプールの吸水口に[小学生女児が吸い込まれ死亡した事故を考慮し](https://ja.wikipedia.org/wiki/ふじみ野市立大井プール#死亡事故 "wikilink")、上映前に「ボウケンジャーからのおねがい」と題してプールでの事故の注意を子供たちに呼びかけるテロップが全国で順次追加され、同様の注意を呼びかけるチラシも配られた。
 
 ## あらすじ
 
@@ -34,7 +34,7 @@
     宇宙最強の生命体に進化するため星から星へと彷徨い、強い生物を見つけるとその[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")を取り込み滅ぼして来た謎の遺伝子生命体。
     ミューズの正体。ミューズのメッセージはより強い生物を誘き寄せるための「ゲーム」で、自らの目指す「宇宙最強の生命体」を「最強のプレシャス」と称し、ミューズのもとに辿り着いた明石を「最強の遺伝子」と呼び、取り込もうと企む。
     テレビシリーズのLast Taskにて、宇宙へ旅立つ動機の1つとしてその名が明石により言及される。英語の「ハイド・ジーン」（hide gene）を直訳すれば、「遺伝子が隠れている」、或いは「遺伝子を隠す」といったニュアンス。
-    モチーフは『[百獣戦隊ガオレンジャー](../Page/百獣戦隊ガオレンジャー.md "wikilink")』のガオイカロス\[2\]。遺伝子を吸収するという設定から、[二重らせん](https://ja.wikipedia.org/wiki/二重らせん "wikilink")の意匠が取り入れられている\[3\]。
+    モチーフは『[百獣戦隊ガオレンジャー](../Page/百獣戦隊ガオレンジャー.md "wikilink")』のガオイカロス\[2\]。遺伝子を吸収するという設定から、[二重らせん](../Page/二重らせん.md "wikilink")の意匠が取り入れられている\[3\]。
   - 再生ツクモガミ軍団
     幻のゲッコウの秘術**影忍法・再生の術**により再生したダークシャドウの怪人たち\[4\]。ジャリュウ一族とプレシャスを巡って抗争するが、物語冒頭でボウケンジャーにジャリュウともども瞬殺される。
   - クエスターロボ・
@@ -49,39 +49,39 @@
   - 明石暁 / ボウケンレッド（声） - [高橋光臣](../Page/高橋光臣.md "wikilink")
   - 伊能真墨 / ボウケンブラック（声） - [齋藤ヤスカ](../Page/齋藤ヤスカ.md "wikilink")
   - 最上蒼太 / ボウケンブルー（声） - [三上真史](../Page/三上真史.md "wikilink")
-  - 間宮菜月 / ボウケンイエロー（声） - [中村知世](https://ja.wikipedia.org/wiki/中村知世 "wikilink")
+  - 間宮菜月 / ボウケンイエロー（声） - [中村知世](../Page/中村知世.md "wikilink")
   - 西堀さくら / ボウケンピンク（声） - [末永遥](../Page/末永遥.md "wikilink")
-  - 高丘映士 / ボウケンシルバー（声） - [出合正幸](https://ja.wikipedia.org/wiki/出合正幸 "wikilink")
-  - 牧野森男 - [斉木しげる](https://ja.wikipedia.org/wiki/斉木しげる "wikilink")
-  - 大神官ガジャ - [大高洋夫](https://ja.wikipedia.org/wiki/大高洋夫 "wikilink")
+  - 高丘映士 / ボウケンシルバー（声） - [出合正幸](../Page/出合正幸.md "wikilink")
+  - 牧野森男 - [斉木しげる](../Page/斉木しげる.md "wikilink")
+  - 大神官ガジャ - [大高洋夫](../Page/大高洋夫.md "wikilink")
   - 風のシズカ - [山崎真実](https://ja.wikipedia.org/wiki/山崎真実 "wikilink")
   - 謎の美少女ミューズ - [星井七瀬](https://ja.wikipedia.org/wiki/星井七瀬 "wikilink")
   - 明石虹一 - [倉田保昭](../Page/倉田保昭.md "wikilink")（特別出演）
 
 ### 声の出演
 
-  - ミスター・ボイス - [田中信夫](https://ja.wikipedia.org/wiki/田中信夫 "wikilink")
-  - 創造王リュウオーン - [森田順平](https://ja.wikipedia.org/wiki/森田順平 "wikilink")
+  - ミスター・ボイス - [田中信夫](../Page/田中信夫.md "wikilink")
+  - 創造王リュウオーン - [森田順平](../Page/森田順平.md "wikilink")
   - 竜人兵ジャリュウ - [西脇保](../Page/西脇保.md "wikilink")
-  - 闇のヤイバ - [黒田崇矢](https://ja.wikipedia.org/wiki/黒田崇矢 "wikilink")
+  - 闇のヤイバ - [黒田崇矢](../Page/黒田崇矢.md "wikilink")
   - 幻のゲッコウ - [銀河万丈](../Page/銀河万丈.md "wikilink")
-  - クエスター・ガイ - [三宅健太](https://ja.wikipedia.org/wiki/三宅健太 "wikilink")
-  - クエスター・レイ - [鈴木千尋](https://ja.wikipedia.org/wiki/鈴木千尋_\(声優\) "wikilink")
-  - 究極生命体ハイド・ジーン - [飯塚昭三](https://ja.wikipedia.org/wiki/飯塚昭三 "wikilink")
-  - 再生カワズガミ、カース - [塩野勝美](https://ja.wikipedia.org/wiki/塩野勝美 "wikilink")\[8\]
-  - ナレーション - [太田真一郎](https://ja.wikipedia.org/wiki/太田真一郎 "wikilink")
+  - クエスター・ガイ - [三宅健太](../Page/三宅健太.md "wikilink")
+  - クエスター・レイ - [鈴木千尋](../Page/鈴木千尋_\(声優\).md "wikilink")
+  - 究極生命体ハイド・ジーン - [飯塚昭三](../Page/飯塚昭三.md "wikilink")
+  - 再生カワズガミ、カース - [塩野勝美](../Page/塩野勝美.md "wikilink")\[8\]
+  - ナレーション - [太田真一郎](../Page/太田真一郎.md "wikilink")
 
 ### スーツアクター
 
 シリーズの劇場版史上初めて、本作ではボウケンジャーの変身後を演じるスーツアクターについても、下記の通り役名とセットでのクレジット表記がなされた。
 
-  - ボウケンレッド\[9\] 、ダイタンケン\[10\] - [福沢博文](https://ja.wikipedia.org/wiki/福沢博文 "wikilink")
+  - ボウケンレッド\[9\] 、ダイタンケン\[10\] - [福沢博文](../Page/福沢博文.md "wikilink")
   - ボウケンブラック - [今井靖彦](../Page/今井靖彦.md "wikilink")
   - ボウケンブルー - [竹内康博](../Page/竹内康博.md "wikilink")
-  - ボウケンイエロー - [蜂須賀祐一](https://ja.wikipedia.org/wiki/蜂須賀祐一 "wikilink")
-  - ボウケンピンク - [中川素州](https://ja.wikipedia.org/wiki/中川素州 "wikilink")
-  - ボウケンシルバー - [日下秀昭](https://ja.wikipedia.org/wiki/日下秀昭 "wikilink")
-  - ダイボウケン\[11\] - [岡元次郎](https://ja.wikipedia.org/wiki/岡元次郎 "wikilink")
+  - ボウケンイエロー - [蜂須賀祐一](../Page/蜂須賀祐一.md "wikilink")
+  - ボウケンピンク - [中川素州](../Page/中川素州.md "wikilink")
+  - ボウケンシルバー - [日下秀昭](../Page/日下秀昭.md "wikilink")
+  - ダイボウケン\[11\] - [岡元次郎](../Page/岡元次郎.md "wikilink")
   - [清家利一](../Page/清家利一.md "wikilink")
   - [大林勝](../Page/大林勝.md "wikilink")
   - [渡邉昌宏](https://ja.wikipedia.org/wiki/渡邉昌宏 "wikilink")
@@ -95,7 +95,7 @@
 
 ノンクレジット\[12\]
 
-  - [押川善文](https://ja.wikipedia.org/wiki/押川善文 "wikilink")
+  - [押川善文](../Page/押川善文.md "wikilink")
   - [向田翼](https://ja.wikipedia.org/wiki/向田翼 "wikilink")
   - [六本木康弘](../Page/六本木康弘.md "wikilink")
   - [末野卓磨](https://ja.wikipedia.org/wiki/末野卓磨 "wikilink")
@@ -113,10 +113,10 @@
   - 原作 - [八手三郎](../Page/八手三郎.md "wikilink")
   - プロデュース - [シュレック・ヘドウィック](https://ja.wikipedia.org/wiki/シュレック・ヘドウィック "wikilink")（テレビ朝日）、[日笠淳](../Page/日笠淳.md "wikilink")・[宇都宮孝明](https://ja.wikipedia.org/wiki/宇都宮孝明 "wikilink")（東映）、矢田晃一（東映エージエンシー）
   - 監督 - [諸田敏](../Page/諸田敏.md "wikilink")
-  - 脚本 - [會川昇](https://ja.wikipedia.org/wiki/會川昇 "wikilink")
-  - 特撮監督 - [佛田洋](https://ja.wikipedia.org/wiki/佛田洋 "wikilink")（[特撮研究所](https://ja.wikipedia.org/wiki/特撮研究所 "wikilink")）
-  - アクション監督：[石垣広文](../Page/石垣広文.md "wikilink")（[ジャパンアクションエンタープライズ](https://ja.wikipedia.org/wiki/ジャパンアクションエンタープライズ "wikilink")）
-  - 撮影 - [松村文雄](https://ja.wikipedia.org/wiki/松村文雄 "wikilink")
+  - 脚本 - [會川昇](../Page/會川昇.md "wikilink")
+  - 特撮監督 - [佛田洋](../Page/佛田洋.md "wikilink")（[特撮研究所](../Page/特撮研究所.md "wikilink")）
+  - アクション監督：[石垣広文](../Page/石垣広文.md "wikilink")（[ジャパンアクションエンタープライズ](../Page/ジャパンアクションエンタープライズ.md "wikilink")）
+  - 撮影 - [松村文雄](../Page/松村文雄.md "wikilink")
   - 照明 - 堀直之
   - 美術 - [大谷和正](https://ja.wikipedia.org/wiki/大谷和正 "wikilink")
   - 編集 - [すながひろし](https://ja.wikipedia.org/wiki/須永弘志 "wikilink")
@@ -133,7 +133,7 @@
 ## 主題歌
 
   - 「[轟轟戦隊ボウケンジャー](https://ja.wikipedia.org/wiki/轟轟戦隊ボウケンジャー/冒険者_ON_THE_ROAD "wikilink")」
-    作詞：[岩里祐穂](../Page/岩里祐穂.md "wikilink") / 作曲：[山田信夫](https://ja.wikipedia.org/wiki/山田信夫_\(歌手\) "wikilink") / 編曲：[京田誠一](https://ja.wikipedia.org/wiki/京田誠一 "wikilink") / 歌：[NoB](https://ja.wikipedia.org/wiki/山田信夫_\(歌手\) "wikilink")
+    作詞：[岩里祐穂](../Page/岩里祐穂.md "wikilink") / 作曲：[山田信夫](../Page/山田信夫_\(歌手\).md "wikilink") / 編曲：[京田誠一](https://ja.wikipedia.org/wiki/京田誠一 "wikilink") / 歌：[NoB](../Page/山田信夫_\(歌手\).md "wikilink")
 
 ## 映像ソフト化
 
@@ -159,7 +159,7 @@
 
 ## 漫画
 
-『[デカ](https://ja.wikipedia.org/wiki/特捜戦隊デカレンジャー_THE_MOVIE_フルブラスト・アクション "wikilink")』、『[マジ](../Page/魔法戦隊マジレンジャー_THE_MOVIE_インフェルシアの花嫁.md "wikilink")』に続き、雑誌『[特撮エース](https://ja.wikipedia.org/wiki/特撮エース "wikilink")』に掲載。[津島直人](../Page/津島直人.md "wikilink")作画。雑誌休刊とページ数による都合からか、前2作と違い単行本化はされなかった。
+『[デカ](../Page/特捜戦隊デカレンジャー_THE_MOVIE_フルブラスト・アクション.md "wikilink")』、『[マジ](../Page/魔法戦隊マジレンジャー_THE_MOVIE_インフェルシアの花嫁.md "wikilink")』に続き、雑誌『[特撮エース](../Page/特撮エース.md "wikilink")』に掲載。[津島直人](../Page/津島直人.md "wikilink")作画。雑誌休刊とページ数による都合からか、前2作と違い単行本化はされなかった。
 
 ## 脚注
 

@@ -5,7 +5,7 @@
 
 ## 概要
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月9日](../Page/1月9日.md "wikilink")よりβ版として[Mac OS X専用のバージョンが公開されていた](https://ja.wikipedia.org/wiki/macOS "wikilink")。その後同年[7月18日](../Page/7月18日.md "wikilink")に[Windows XP版が公開された](../Page/Microsoft_Windows_XP.md "wikilink")。当初の名称は**Adobe Lightroom**だったが、同年[9月25日](../Page/9月25日.md "wikilink")に公開されたβ4で[Photoshopファミリーに組み入れられ](../Page/Adobe_Photoshop.md "wikilink")、現在の名称へと変更された。製品版（日本語版）の発売は2007年3月23日。
+[2006年](../Page/2006年.md "wikilink")[1月9日](../Page/1月9日.md "wikilink")よりβ版として[Mac OS X専用のバージョンが公開されていた](https://ja.wikipedia.org/wiki/macOS "wikilink")。その後同年[7月18日](../Page/7月18日.md "wikilink")に[Windows XP版が公開された](../Page/Microsoft_Windows_XP.md "wikilink")。当初の名称は**Adobe Lightroom**だったが、同年[9月25日](../Page/9月25日.md "wikilink")に公開されたβ4で[Photoshopファミリーに組み入れられ](../Page/Adobe_Photoshop.md "wikilink")、現在の名称へと変更された。製品版（日本語版）の発売は2007年3月23日。
 
 メインターゲットは、[デジタルカメラ](../Page/デジタルカメラ.md "wikilink")、特にデジタル一眼レフカメラを使うプロフェッショナル・ハイアマチュアの写真家であり、デジタルカメラで撮影した画像のパソコンへの取り込み、整理、取捨選択、[RAW画像](../Page/RAW画像.md "wikilink")の現像や補正、JPEGなどのファイルへの出力や印刷、[facebook](https://ja.wikipedia.org/wiki/facebook "wikilink")や[Flickr](../Page/Flickr.md "wikilink")などWeb上への公開を一連の流れとして行える。
 

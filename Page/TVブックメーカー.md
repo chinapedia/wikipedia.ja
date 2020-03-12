@@ -1,21 +1,21 @@
 > この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
 
 
-『**TVブックメーカー**』（テレビブックメーカー）\[1\]は、[1991年](../Page/1991年.md "wikilink")[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")から[1992年](../Page/1992年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")まで[フジテレビの深夜帯](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")（[JOCX-TV+（プラス）](https://ja.wikipedia.org/wiki/JOCX-TV2 "wikilink")）で放送されていた[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")。企画は[ホイチョイ・プロダクションズ](../Page/ホイチョイ・プロダクションズ.md "wikilink")。「現在」を取り扱う『[マーケティング天国](https://ja.wikipedia.org/wiki/マーケティング天国 "wikilink")』、「過去」を題材にした『[カノッサの屈辱](../Page/カノッサの屈辱_\(テレビ番組\).md "wikilink")』に続き、「未来」をテーマにした本作で「マーケティング三部作」とも言われた。
+『**TVブックメーカー**』（テレビブックメーカー）\[1\]は、[1991年](../Page/1991年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")から[1992年](../Page/1992年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")まで[フジテレビの深夜帯](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")（[JOCX-TV+（プラス）](../Page/JOCX-TV2.md "wikilink")）で放送されていた[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")。企画は[ホイチョイ・プロダクションズ](../Page/ホイチョイ・プロダクションズ.md "wikilink")。「現在」を取り扱う『[マーケティング天国](https://ja.wikipedia.org/wiki/マーケティング天国 "wikilink")』、「過去」を題材にした『[カノッサの屈辱](../Page/カノッサの屈辱_\(テレビ番組\).md "wikilink")』に続き、「未来」をテーマにした本作で「マーケティング三部作」とも言われた。
 
 ## 概要
 
-[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")のギャンブルの胴元、[ブックメーカー](https://ja.wikipedia.org/wiki/ブックメーカー "wikilink")をヒントに立てられた企画で、毎週オッズメーカーと3人のベッター（賭ける人）との一進一退の攻防が展開される。
+[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")のギャンブルの胴元、[ブックメーカー](../Page/ブックメーカー.md "wikilink")をヒントに立てられた企画で、毎週オッズメーカーと3人のベッター（賭ける人）との一進一退の攻防が展開される。
 
-収録は通常は放送の数時間前に行われていたが、生放送だった回もあり、当時真裏で放送されていた[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")の『[ザ・スターボウリング](https://ja.wikipedia.org/wiki/ザ・スターボウリング "wikilink")』まで対象にした賭けを行っていたこともあった。
+収録は通常は放送の数時間前に行われていたが、生放送だった回もあり、当時真裏で放送されていた[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")の『[ザ・スターボウリング](../Page/ザ・スターボウリング.md "wikilink")』まで対象にした賭けを行っていたこともあった。
 
 なお、最終回で前番組『[カノッサの屈辱](../Page/カノッサの屈辱_\(テレビ番組\).md "wikilink")』で歴史学者を務めた[仲谷昇](../Page/仲谷昇.md "wikilink")が登場し「今度は未来の生まれる瞬間の研究をしてみたい」としてこのクラブを創設した、と告白している。
 
-この番組はフジテレビのみならず各地で放送されたが、遅れてテープネットされるのが常の深夜番組の中でこの番組も例外でなかったため、放送される頃には賭けの答えが分かってしまい、面白みが半減するケースもあった。他番組なら遅れネットでも支障がないケースのほうが多いことを考えれば、本番組は放送時に結果が判明している[録画放送](https://ja.wikipedia.org/wiki/録画放送 "wikilink")の[スポーツ中継](../Page/スポーツ中継.md "wikilink")と同様に[テープネット](https://ja.wikipedia.org/wiki/テープネット "wikilink")に不適な番組でもあった。
+この番組はフジテレビのみならず各地で放送されたが、遅れてテープネットされるのが常の深夜番組の中でこの番組も例外でなかったため、放送される頃には賭けの答えが分かってしまい、面白みが半減するケースもあった。他番組なら遅れネットでも支障がないケースのほうが多いことを考えれば、本番組は放送時に結果が判明している[録画放送](https://ja.wikipedia.org/wiki/録画放送 "wikilink")の[スポーツ中継](../Page/スポーツ中継.md "wikilink")と同様に[テープネット](../Page/テープネット.md "wikilink")に不適な番組でもあった。
 
 ## ルール
 
-毎週、これから結果が出るニュース、イベント、雑誌の記事などから2つの題目を立て、それについて賭けを行う。 賭けの対象となる題目はクラブマスターのアナウンスによって、これから結果が出るであろうと推測される「予測解答候補」に対して**ポジティブブファクター（プラス要素）**と、**ネガティブファクター（マイナス要素）**に分けて紹介される。これら両要素は既に結果が出ている過去の事象から綿密に評価がなされ、それらの評価を加味して[黒板](https://ja.wikipedia.org/wiki/黒板 "wikilink")にオッズメーカーが前述の「予測回答候補」のそれぞれにオッズをつけられる。
+毎週、これから結果が出るニュース、イベント、雑誌の記事などから2つの題目を立て、それについて賭けを行う。 賭けの対象となる題目はクラブマスターのアナウンスによって、これから結果が出るであろうと推測される「予測解答候補」に対して**ポジティブブファクター（プラス要素）**と、**ネガティブファクター（マイナス要素）**に分けて紹介される。これら両要素は既に結果が出ている過去の事象から綿密に評価がなされ、それらの評価を加味して[黒板](../Page/黒板.md "wikilink")にオッズメーカーが前述の「予測回答候補」のそれぞれにオッズをつけられる。
 
 賭け金には番組独自の硬貨「カノッサ（仲谷の横顔が刻まれている）」が使用され、ベッターの持ち金は100カノッサからスタート。3000カノッサ以上を獲得すると、フジテレビの正面玄関に自分の肖像画を展示することができた。逆に持ちカノッサが全て無くなると“破産”となり、当クラブに一切出入り禁止になるが、クラブとの話し合いによっては、1週書記として働く(当クラブでの規定1回5カノッサ)もしくは[乗用車](../Page/乗用車.md "wikilink")など自分の愛用の品をこのブックメーカーのクラブに預けて100カノッサと交換し再スタートすることもできた（愛用の品を引き出す場合は交換したカノッサに3％の利息がつく）。逆にオッズメーカーは5万の持ちカノッサを全て失うとその職を解かれる。 また、獲得カノッサが1万以上になると机にカノッサが乗らないため、特別なゴールドバー1本を5000カノッサとして扱った。
 
@@ -41,7 +41,7 @@
 <!-- end list -->
 
   - [糸井重里](../Page/糸井重里.md "wikilink")（本番組では「糸井重里七（ - セブン）」、のちに「糸井重里七七七（ - スリーセブン）」という名前で出演していた。非常に倍率の高い当たりを何度か出したため、カノッサ数は他を圧倒していた）
-  - [青木謙知](https://ja.wikipedia.org/wiki/青木謙知 "wikilink")（データに基づく堅実な賭けを展開。出席回数はトップ。最終回では2位終了）
+  - [青木謙知](../Page/青木謙知.md "wikilink")（データに基づく堅実な賭けを展開。出席回数はトップ。最終回では2位終了）
   - [栗本慎一郎](../Page/栗本慎一郎.md "wikilink")（中期には愛車の[マセラティ](../Page/マセラティ.md "wikilink")を抵当に入れて100カノッサを借りたが、最終回ではその借り入れ分を返済した）
 
 <!-- end list -->
@@ -52,10 +52,10 @@
 
   - [秋元康](../Page/秋元康.md "wikilink")（一時は1,000カノッサ（メンバー3位）まで上げたものの、末期には6カノッサにまで減少してしまった）
   - [泉麻人](../Page/泉麻人.md "wikilink")（少量ベットで、最終回には総合3位にとどまっていた）
-  - [鴻上尚史](https://ja.wikipedia.org/wiki/鴻上尚史 "wikilink")（しばしば残りカノッサ数が一ケタ台にまで減少したために、「血の1カノッサ」「魂の1カノッサ」と言って賭けていたこともあった。いよいよ破産間近（最小2枚）となった時にはカノッサの代用としてビスケットやせんべいを持ち込んでいたが、当たりを出してもオッズメーカーからビスケットやせんべいが支払われることはなかった。的中率はトップ。最終回では4位で終了。）
-  - [陣内孝則](https://ja.wikipedia.org/wiki/陣内孝則 "wikilink")（当クラブ初の負債を抱えたまま破産により降板。最終回には糸井重里からカノッサを借りて登場している）
+  - [鴻上尚史](../Page/鴻上尚史.md "wikilink")（しばしば残りカノッサ数が一ケタ台にまで減少したために、「血の1カノッサ」「魂の1カノッサ」と言って賭けていたこともあった。いよいよ破産間近（最小2枚）となった時にはカノッサの代用としてビスケットやせんべいを持ち込んでいたが、当たりを出してもオッズメーカーからビスケットやせんべいが支払われることはなかった。的中率はトップ。最終回では4位で終了。）
+  - [陣内孝則](../Page/陣内孝則.md "wikilink")（当クラブ初の負債を抱えたまま破産により降板。最終回には糸井重里からカノッサを借りて登場している）
   - [えのきどいちろう](https://ja.wikipedia.org/wiki/えのきどいちろう "wikilink")（途中降板）
-  - [黒鉄ヒロシ](https://ja.wikipedia.org/wiki/黒鉄ヒロシ "wikilink")（破産により降板）
+  - [黒鉄ヒロシ](../Page/黒鉄ヒロシ.md "wikilink")（破産により降板）
   - [井上陽水](../Page/井上陽水.md "wikilink")（マスター役の牧原アナ談によると、井上は正装を嫌いTシャツ姿で参加を希望したが、クラブ側から拒否された経緯がある。出演はスペシャルを含めた2回のみ）
 
 <!-- end list -->
@@ -80,7 +80,7 @@
 
 ## スタッフ
 
-  - 構成：[小山薫堂](../Page/小山薫堂.md "wikilink")、[山田美保子](https://ja.wikipedia.org/wiki/山田美保子 "wikilink")
+  - 構成：[小山薫堂](../Page/小山薫堂.md "wikilink")、[山田美保子](../Page/山田美保子.md "wikilink")
   - 演出：[田中経一](https://ja.wikipedia.org/wiki/田中経一 "wikilink")、[杉本達](https://ja.wikipedia.org/wiki/杉本達 "wikilink")
   - ディレクター：[石川陽](https://ja.wikipedia.org/wiki/石川陽 "wikilink")、[市島晃生](https://ja.wikipedia.org/wiki/市島晃生 "wikilink")
   - スペシャルアドバイザー：[糸井重里](../Page/糸井重里.md "wikilink")七（七七七）、[松本方哉](../Page/松本方哉.md "wikilink")
@@ -88,7 +88,7 @@
   - プロデューサー：古賀憲一（日本テレワーク）、桜井郁子（フジテレビ）
   - アートディレクター：[対比地一正](https://ja.wikipedia.org/wiki/対比地一正 "wikilink")
   - 企画：[ホイチョイ・プロダクションズ](../Page/ホイチョイ・プロダクションズ.md "wikilink")
-  - 制作：[日本テレワーク](https://ja.wikipedia.org/wiki/日本テレワーク "wikilink")、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")
+  - 制作：[日本テレワーク](../Page/日本テレワーク.md "wikilink")、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")
 
 ## FAX会員（一般視聴者）への交換景品
 
@@ -118,7 +118,7 @@
 <td><p>1</p></td>
 <td><p>1991年<br />
 4月8日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジャパン・オープン・テニス選手権" title="wikilink">サントリー・ジャパン・オープンテニス</a><br />
+<td><p><a href="../Page/ジャパン・オープン・テニス選手権.md" title="wikilink">サントリー・ジャパン・オープンテニス</a><br />
 男子シングルスの優勝者は誰か</p></td>
 <td><p><a href="../Page/ステファン・エドベリ.md" title="wikilink">ステファン・エドベリ</a></p></td>
 <td><p>2倍</p></td>
@@ -168,7 +168,7 @@
 <tr class="odd">
 <td><p>5</p></td>
 <td><p>4月22日</p></td>
-<td><p><a href="../Page/フォーミュラ1.md" title="wikilink">F1</a><a href="https://ja.wikipedia.org/wiki/サンマリノグランプリ" title="wikilink">サンマリノグランプリ</a>での、<a href="https://ja.wikipedia.org/wiki/中嶋悟" title="wikilink">中嶋悟</a>選手の順位は?</p></td>
+<td><p><a href="../Page/フォーミュラ1.md" title="wikilink">F1</a><a href="../Page/サンマリノグランプリ.md" title="wikilink">サンマリノグランプリ</a>での、<a href="../Page/中嶋悟.md" title="wikilink">中嶋悟</a>選手の順位は?</p></td>
 <td><p>リタイア</p></td>
 <td><p>18倍</p></td>
 <td><p>松尾<br />
@@ -192,7 +192,7 @@
 <tr class="odd">
 <td><p>7</p></td>
 <td><p>4月29日</p></td>
-<td><p><a href="../Page/5月1日.md" title="wikilink">5月1日</a>発表の<a href="https://ja.wikipedia.org/wiki/高額納税者公示制度" title="wikilink">長者番付で</a>、歌手部門1位は誰か?</p></td>
+<td><p><a href="../Page/5月1日.md" title="wikilink">5月1日</a>発表の<a href="../Page/高額納税者公示制度.md" title="wikilink">長者番付で</a>、歌手部門1位は誰か?</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/桑田佳祐" title="wikilink">桑田佳祐</a></p></td>
 <td><p>4倍</p></td>
 <td><p><strong>鴻上</strong><br />
@@ -226,8 +226,8 @@
 </tr>
 <tr class="even">
 <td><p>10</p></td>
-<td><p><a href="../Page/5月15日.md" title="wikilink">5月15日</a>開店の<a href="https://ja.wikipedia.org/wiki/ジュリアナ東京" title="wikilink">ジュリアナ東京</a>において<br />
-開店当日の<a href="https://ja.wikipedia.org/wiki/ボディコン" title="wikilink">ボディコン</a>娘の発生率は?</p></td>
+<td><p><a href="../Page/5月15日.md" title="wikilink">5月15日</a>開店の<a href="../Page/ジュリアナ東京.md" title="wikilink">ジュリアナ東京</a>において<br />
+開店当日の<a href="../Page/ボディコン.md" title="wikilink">ボディコン</a>娘の発生率は?</p></td>
 <td><p>　28.2%<br />
 （20%以上30%未満）</p></td>
 <td><p>6倍</p></td>
@@ -253,7 +253,7 @@
 <tr class="even">
 <td><p>12</p></td>
 <td><p><a href="../Page/5月26日.md" title="wikilink">5月26日</a>の<a href="https://ja.wikipedia.org/wiki/大相撲" title="wikilink">大相撲</a>夏場所千秋楽での<a href="https://ja.wikipedia.org/wiki/貴乃花光司" title="wikilink">貴花田関の取り組みで</a><br />
-<a href="https://ja.wikipedia.org/wiki/懸賞_(相撲)" title="wikilink">懸賞が何本かかるか</a>?</p></td>
+<a href="../Page/懸賞_(相撲).md" title="wikilink">懸賞が何本かかるか</a>?</p></td>
 <td><p>6本<br />
 （5本か6本）</p></td>
 <td><p>10倍</p></td>
@@ -278,7 +278,7 @@
 </tr>
 <tr class="even">
 <td><p>14</p></td>
-<td><p>来週の『<a href="https://ja.wikipedia.org/wiki/美味しんぼ" title="wikilink">美味しんぼ</a>』にて<a href="../Page/栗田ゆう子.md" title="wikilink">栗田ゆう子</a>は<br />
+<td><p>来週の『<a href="../Page/美味しんぼ.md" title="wikilink">美味しんぼ</a>』にて<a href="../Page/栗田ゆう子.md" title="wikilink">栗田ゆう子</a>は<br />
 食後一言目（最初の<a href="../Page/ふきだし.md" title="wikilink">ふきだし</a>）で何と言うか?</p></td>
 <td><p>それ以外[4]</p></td>
 <td><p>6倍</p></td>
@@ -302,8 +302,8 @@
 </tr>
 <tr class="even">
 <td><p>16</p></td>
-<td><p>6月20日発売の「<a href="https://ja.wikipedia.org/wiki/ぴあ" title="wikilink">ぴあ</a>」の表紙は誰になるか?</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マコーレー・カルキン" title="wikilink">マコーレー・カルキン</a></p></td>
+<td><p>6月20日発売の「<a href="../Page/ぴあ.md" title="wikilink">ぴあ</a>」の表紙は誰になるか?</p></td>
+<td><p><a href="../Page/マコーレー・カルキン.md" title="wikilink">マコーレー・カルキン</a></p></td>
 <td><p>7倍</p></td>
 <td><p>糸井<br />
 -10→55</p></td>
@@ -315,9 +315,9 @@
 <tr class="odd">
 <td><p>17</p></td>
 <td><p>6月24日</p></td>
-<td><p><a href="../Page/7月1日.md" title="wikilink">7月1日</a>、<a href="https://ja.wikipedia.org/wiki/リクルートホールディングス" title="wikilink">リクルート社発表の人気企業ランキング</a><br />
+<td><p><a href="../Page/7月1日.md" title="wikilink">7月1日</a>、<a href="../Page/リクルートホールディングス.md" title="wikilink">リクルート社発表の人気企業ランキング</a><br />
 男子文系の第1位はどこか?</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日本電信電話" title="wikilink">NTT</a><br />
+<td><p><a href="../Page/日本電信電話.md" title="wikilink">NTT</a><br />
 （その他）</p></td>
 <td><p>50倍</p></td>
 <td><p>糸井<br />
@@ -340,8 +340,8 @@
 <tr class="odd">
 <td><p>19</p></td>
 <td><p>7月1日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウィンブルドン選手権" title="wikilink">ウィンブルドン選手権</a>男子シングルス決勝でプレイ中<br />
-<a href="../Page/ボリス・ベッカー.md" title="wikilink">ボリス・ベッカー</a>、<a href="https://ja.wikipedia.org/wiki/ミヒャエル・シュティヒ" title="wikilink">ミヒャエル・シュティヒ</a>両選手が<br />
+<td><p><a href="../Page/ウィンブルドン選手権.md" title="wikilink">ウィンブルドン選手権</a>男子シングルス決勝でプレイ中<br />
+<a href="../Page/ボリス・ベッカー.md" title="wikilink">ボリス・ベッカー</a>、<a href="../Page/ミヒャエル・シュティヒ.md" title="wikilink">ミヒャエル・シュティヒ</a>両選手が<br />
 何回転ぶか?</p></td>
 <td><p>3回</p></td>
 <td><p>4倍</p></td>
@@ -443,7 +443,7 @@
 <td><p>27</p></td>
 <td><p>7月29日[11]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アメリカ合衆国" title="wikilink">米</a><a href="https://ja.wikipedia.org/wiki/ソビエト連邦" title="wikilink">ソ首脳会談の調印式で両大統領が使う万年筆のブランドは</a>?</p></td>
-<td><p>両者とも<a href="https://ja.wikipedia.org/wiki/パーカー_(筆記具ブランド)" title="wikilink">パーカー</a></p></td>
+<td><p>両者とも<a href="../Page/パーカー_(筆記具ブランド).md" title="wikilink">パーカー</a></p></td>
 <td><p>3倍</p></td>
 <td><p><strong>秋元</strong><br />
 +200→619</p></td>
@@ -466,7 +466,7 @@
 <td><p>29</p></td>
 <td><p>8月5日</p></td>
 <td><p><a href="../Page/8月10日.md" title="wikilink">8月10日</a>放送のTBS『<a href="../Page/クイズダービー.md" title="wikilink">クイズダービー</a>』で<br />
-<a href="https://ja.wikipedia.org/wiki/はらたいら" title="wikilink">はらたいら</a>は何問正解するか?</p></td>
+<a href="../Page/はらたいら.md" title="wikilink">はらたいら</a>は何問正解するか?</p></td>
 <td><p>6問正解</p></td>
 <td><p>8倍</p></td>
 <td><p>泉<br />
@@ -543,7 +543,7 @@
 <td><p>9月2日</p></td>
 <td><p><a href="../Page/9月4日.md" title="wikilink">9月4日</a>、<a href="../Page/日本武道館.md" title="wikilink">日本武道館</a>の<a href="../Page/全日本プロレス.md" title="wikilink">全日本プロレス</a>タッグマッチで<br />
 <a href="../Page/ジャイアント馬場.md" title="wikilink">ジャイアント馬場</a>が使う決め技は何か?</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ラッシャー木村" title="wikilink">ラッシャー木村</a>がフォール<br />
+<td><p><a href="../Page/ラッシャー木村.md" title="wikilink">ラッシャー木村</a>がフォール<br />
 （他の選手がフォール）</p></td>
 <td><p>20倍</p></td>
 <td><p>糸井<br />
@@ -554,7 +554,7 @@
 <tr class="even">
 <td><p>36</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/9月3日" title="wikilink">9月3日</a>の<a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a>「<a href="../Page/ニュースステーション.md" title="wikilink">ニュースステーション</a>」で<br />
-<a href="https://ja.wikipedia.org/wiki/久米宏" title="wikilink">久米宏</a>が<a href="https://ja.wikipedia.org/wiki/マーガレット・サッチャー" title="wikilink">サッチャーに聞く最初の質問は何か</a>?</p></td>
+<a href="../Page/久米宏.md" title="wikilink">久米宏</a>が<a href="../Page/マーガレット・サッチャー.md" title="wikilink">サッチャーに聞く最初の質問は何か</a>?</p></td>
 <td><p>何とお呼びしたら<br />
 よろしいんでしょうか<br />
 （その他の質問）</p></td>
@@ -569,7 +569,7 @@
 <tr class="odd">
 <td><p>37</p></td>
 <td><p>9月9日 [13]</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/FRIDAY_(雑誌)" title="wikilink">FRIDAY</a>」に「<a href="../Page/幸福の科学.md" title="wikilink">幸福の科学</a>」関連の記事は<br />
+<td><p>「<a href="../Page/FRIDAY_(雑誌).md" title="wikilink">FRIDAY</a>」に「<a href="../Page/幸福の科学.md" title="wikilink">幸福の科学</a>」関連の記事は<br />
 何ページ掲載されるか?</p></td>
 <td><p>4ページ</p></td>
 <td><p>5倍</p></td>
@@ -580,8 +580,8 @@
 </tr>
 <tr class="even">
 <td><p>38</p></td>
-<td><p><a href="../Page/9月16日.md" title="wikilink">9月16日</a>放送のTBS『<a href="https://ja.wikipedia.org/wiki/水戸黄門_(パナソニック_ドラマシアター)" title="wikilink">水戸黄門</a>』の中で<br />
-<a href="https://ja.wikipedia.org/wiki/由美かおる" title="wikilink">由美かおる</a>は午後8時何分に入浴するか</p></td>
+<td><p><a href="../Page/9月16日.md" title="wikilink">9月16日</a>放送のTBS『<a href="../Page/水戸黄門_(パナソニック_ドラマシアター).md" title="wikilink">水戸黄門</a>』の中で<br />
+<a href="../Page/由美かおる.md" title="wikilink">由美かおる</a>は午後8時何分に入浴するか</p></td>
 <td><p>20時18分</p></td>
 <td><p>2倍</p></td>
 <td><p>泉<br />
@@ -606,7 +606,7 @@
 <tr class="even">
 <td><p>40</p></td>
 <td><p><a href="../Page/9月19日.md" title="wikilink">9月19日</a>のプロボクシング世界<a href="../Page/バンタム級.md" title="wikilink">バンタム級</a>タイトルマッチで<br />
-<a href="https://ja.wikipedia.org/wiki/辰吉丈一郎" title="wikilink">辰吉丈一郎</a>選手が負けた場合どうなるか?[14]</p></td>
+<a href="../Page/辰吉丈一郎.md" title="wikilink">辰吉丈一郎</a>選手が負けた場合どうなるか?[14]</p></td>
 <td><p>勝利</p></td>
 <td><p>2倍</p></td>
 <td><p>鴻上<br />
@@ -695,7 +695,7 @@
 <tr class="odd">
 <td><p>47</p></td>
 <td><p>『<a href="../Page/サンデースポーツ.md" title="wikilink">サンデースポーツ</a>』の<a href="../Page/フォーミュラ1.md" title="wikilink">F1</a><a href="https://ja.wikipedia.org/wiki/日本グランプリ_(4輪)" title="wikilink">日本グランプリのニュースにて</a><br />
-何個の<a href="../Page/フジサンケイグループ.md" title="wikilink">フジサンケイグループ</a>の<a href="https://ja.wikipedia.org/wiki/目玉マーク" title="wikilink">目玉マーク</a>が映るか?</p></td>
+何個の<a href="../Page/フジサンケイグループ.md" title="wikilink">フジサンケイグループ</a>の<a href="../Page/目玉マーク.md" title="wikilink">目玉マーク</a>が映るか?</p></td>
 <td><p>7個<br />
 （9個以下）</p></td>
 <td><p>100倍</p></td>
@@ -710,7 +710,7 @@
 <tr class="even">
 <td><p>48</p></td>
 <td><p>10月21日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1991年の日本シリーズ" title="wikilink">日本シリーズの優勝祝賀会当日の</a>『<a href="../Page/プロ野球ニュース.md" title="wikilink">プロ野球ニュース</a>』で<br />
+<td><p><a href="../Page/1991年の日本シリーズ.md" title="wikilink">日本シリーズの優勝祝賀会当日の</a>『<a href="../Page/プロ野球ニュース.md" title="wikilink">プロ野球ニュース</a>』で<br />
 どのメーカーの<a href="../Page/ビール.md" title="wikilink">ビール</a>が最も多く映るか?</p></td>
 <td><p><a href="../Page/サッポロビール.md" title="wikilink">サッポロビール</a></p></td>
 <td><p>9倍</p></td>
@@ -736,7 +736,7 @@
 <tr class="even">
 <td><p>50</p></td>
 <td><p>10月28日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/秋篠宮" title="wikilink">秋篠宮</a>家の<a href="../Page/眞子内親王.md" title="wikilink">内親王様のお名前の由来は</a>?</p></td>
+<td><p><a href="../Page/秋篠宮.md" title="wikilink">秋篠宮</a>家の<a href="../Page/眞子内親王.md" title="wikilink">内親王様のお名前の由来は</a>?</p></td>
 <td><p>その他の理由[19]</p></td>
 <td><p>8倍</p></td>
 <td><p>栗本<br />
@@ -748,7 +748,7 @@
 <td><p>51</p></td>
 <td><p><a href="../Page/10月31日.md" title="wikilink">10月31日</a>に中間報告される来年用アイドルカレンダーの中で<br />
 一番売れるのは誰か?</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/かとうれいこ" title="wikilink">かとうれいこ</a></p></td>
+<td><p><a href="../Page/かとうれいこ.md" title="wikilink">かとうれいこ</a></p></td>
 <td><p>12倍</p></td>
 <td><p>栗本<br />
 -5→63</p></td>
@@ -811,7 +811,7 @@
 <tr class="even">
 <td><p>56</p></td>
 <td><p>11月18日</p></td>
-<td><p><a href="../Page/松任谷由実.md" title="wikilink">松任谷由実</a>のニューアルバム『<a href="https://ja.wikipedia.org/wiki/DAWN_PURPLE" title="wikilink">DAWN PURPLE</a>』の<br />
+<td><p><a href="../Page/松任谷由実.md" title="wikilink">松任谷由実</a>のニューアルバム『<a href="../Page/DAWN_PURPLE.md" title="wikilink">DAWN PURPLE</a>』の<br />
 発売3日間の売上げ枚数は?</p></td>
 <td><p>73万1685枚<br />
 （70～75万枚未満）</p></td>
@@ -824,7 +824,7 @@
 </tr>
 <tr class="odd">
 <td><p>57</p></td>
-<td><p>TBS『<a href="https://ja.wikipedia.org/wiki/大岡越前_(テレビドラマ)" title="wikilink">大岡越前</a>』での“大岡裁き”はどうなるか?</p></td>
+<td><p>TBS『<a href="../Page/大岡越前_(テレビドラマ).md" title="wikilink">大岡越前</a>』での“大岡裁き”はどうなるか?</p></td>
 <td><p>自害<br />
 （お咎めなし）</p></td>
 <td><p>8倍</p></td>
@@ -848,7 +848,7 @@
 </tr>
 <tr class="odd">
 <td><p>59</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/高知県知事" title="wikilink">高知県知事</a>選で<a href="https://ja.wikipedia.org/wiki/橋本大二郎" title="wikilink">橋本大二郎</a>候補が<br />
+<td><p><a href="https://ja.wikipedia.org/wiki/高知県知事" title="wikilink">高知県知事</a>選で<a href="../Page/橋本大二郎.md" title="wikilink">橋本大二郎</a>候補が<br />
 選挙運動最終日の<a href="../Page/11月30日.md" title="wikilink">11月30日</a>の8時から20時までに<br />
 何枚の記念写真に納まるか?</p></td>
 <td><p>4枚<br />
@@ -876,7 +876,7 @@
 </tr>
 <tr class="odd">
 <td><p>61</p></td>
-<td><p><a href="../Page/12月5日.md" title="wikilink">12月5日</a>放送の日本テレビ『<a href="https://ja.wikipedia.org/wiki/ごちそうさま_(テレビ番組)" title="wikilink">ごちそうさま</a>』で<br />
+<td><p><a href="../Page/12月5日.md" title="wikilink">12月5日</a>放送の日本テレビ『<a href="../Page/ごちそうさま_(テレビ番組).md" title="wikilink">ごちそうさま</a>』で<br />
 <a href="../Page/味の素.md" title="wikilink">味の素</a>を何回使うか?[22]</p></td>
 <td><p>使わず[23]</p></td>
 <td><p>18倍</p></td>
@@ -890,7 +890,7 @@
 <tr class="even">
 <td><p>62</p></td>
 <td><p>12月16日</p></td>
-<td><p>『<a href="https://ja.wikipedia.org/wiki/第42回NHK紅白歌合戦" title="wikilink">NHK紅白歌合戦</a>』で歌われる曲の新曲率は何%か?</p></td>
+<td><p>『<a href="../Page/第42回NHK紅白歌合戦.md" title="wikilink">NHK紅白歌合戦</a>』で歌われる曲の新曲率は何%か?</p></td>
 <td><p>62.5%<br />
 （55%～65%未満）</p></td>
 <td><p>6倍</p></td>
@@ -925,7 +925,7 @@
 </tr>
 <tr class="odd">
 <td><p>65</p></td>
-<td><p>『<a href="https://ja.wikipedia.org/wiki/男はつらいよ_寅次郎の告白" title="wikilink">男はつらいよ 寅次郎の告白</a>』で<a href="../Page/柴又.md" title="wikilink">柴又</a>に帰ってきた寅さんを<br />
+<td><p>『<a href="../Page/男はつらいよ_寅次郎の告白.md" title="wikilink">男はつらいよ 寅次郎の告白</a>』で<a href="../Page/柴又.md" title="wikilink">柴又</a>に帰ってきた寅さんを<br />
 最初に見つけるのは誰か?</p></td>
 <td><p>タコ社長</p></td>
 <td><p>6倍</p></td>
@@ -939,7 +939,7 @@
 <tr class="even">
 <td><p>66</p></td>
 <td><p>12月30日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プラネット・ハリウッド" title="wikilink">プラネット・ハリウッド</a>で開店の11時までに<br />
+<td><p><a href="../Page/プラネット・ハリウッド.md" title="wikilink">プラネット・ハリウッド</a>で開店の11時までに<br />
 何人が並ぶか?[24]</p></td>
 <td><p>153人<br />
 （150～169人）</p></td>
@@ -964,8 +964,8 @@
 </tr>
 <tr class="even">
 <td><p>68</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/第68回東京箱根間往復大学駅伝競走" title="wikilink">箱根駅伝で</a>、<a href="https://ja.wikipedia.org/wiki/山梨学院大学" title="wikilink">山梨学院大学</a>（当時）の<br />
-<a href="https://ja.wikipedia.org/wiki/ジョセフ・オツオリ" title="wikilink">ジョセフ・オツオリ</a>選手は何人抜くか?</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/第68回東京箱根間往復大学駅伝競走" title="wikilink">箱根駅伝で</a>、<a href="../Page/山梨学院大学.md" title="wikilink">山梨学院大学</a>（当時）の<br />
+<a href="../Page/ジョセフ・オツオリ.md" title="wikilink">ジョセフ・オツオリ</a>選手は何人抜くか?</p></td>
 <td><p>3人<br />
 （3人以下）</p></td>
 <td><p>16倍</p></td>
@@ -1016,7 +1016,7 @@
 <tr class="even">
 <td><p>72</p></td>
 <td><p>1月20日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アントン・ウィッキー" title="wikilink">アントン・ウィッキー</a>が日本テレビ『[[ズームイン</p></td>
+<td><p><a href="../Page/アントン・ウィッキー.md" title="wikilink">アントン・ウィッキー</a>が日本テレビ『[[ズームイン</p></td>
 <td><p>朝!|ズームイン</p></td>
 <td><p>朝!]]』の<br />
 ワンポイント英会話で最初の相手に質問するまでの時間は?</p></td>
@@ -1026,7 +1026,7 @@
 </tr>
 <tr class="odd">
 <td><p>73</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大川端リバーシティ21" title="wikilink">大川端リバーシティ21</a>のシティフロントタワーの<br />
+<td><p><a href="../Page/大川端リバーシティ21.md" title="wikilink">大川端リバーシティ21</a>のシティフロントタワーの<br />
 最高額物件（2億870万円）の申し込み倍率は?</p></td>
 <td><p>55倍<br />
 （50倍以上）</p></td>
@@ -1066,7 +1066,7 @@
 <tr class="even">
 <td><p>76</p></td>
 <td><p>2月3日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京国際マラソン" title="wikilink">東京国際マラソン</a>で<a href="https://ja.wikipedia.org/wiki/中山竹通" title="wikilink">中山竹通</a>選手が<br />
+<td><p><a href="../Page/東京国際マラソン.md" title="wikilink">東京国際マラソン</a>で<a href="../Page/中山竹通.md" title="wikilink">中山竹通</a>選手が<br />
 スペシャルドリンクを飲む回数は何回か?</p></td>
 <td><p>6回</p></td>
 <td><p>4倍</p></td>
@@ -1098,7 +1098,7 @@
 <tr class="even">
 <td><p>78</p></td>
 <td><p>2月10日</p></td>
-<td><p>新宿<a href="../Page/小田急百貨店.md" title="wikilink">小田急百貨店</a>で<a href="https://ja.wikipedia.org/wiki/バレンタインデー" title="wikilink">バレンタインデー</a>に一番売れる<br />
+<td><p>新宿<a href="../Page/小田急百貨店.md" title="wikilink">小田急百貨店</a>で<a href="../Page/バレンタインデー.md" title="wikilink">バレンタインデー</a>に一番売れる<br />
 <a href="https://ja.wikipedia.org/wiki/チョコレート" title="wikilink">チョコレート</a>のブランドは何か?</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Neuhaus_(chocolatier)" title="wikilink">ノイハウス</a></p></td>
 <td><p>4倍</p></td>
@@ -1110,7 +1110,7 @@
 <tr class="odd">
 <td><p>79</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/第25回全日本バレーボール選抜男女リーグ" title="wikilink">バレーボール日本リーグ</a> <a href="https://ja.wikipedia.org/wiki/堺ブレイザーズ" title="wikilink">新日鐵VS</a><a href="https://ja.wikipedia.org/wiki/サントリーサンバーズ" title="wikilink">サントリー戦で</a><br />
-<a href="https://ja.wikipedia.org/wiki/中垣内祐一" title="wikilink">中垣内祐一</a>選手は何本スパイクを打つか?</p></td>
+<a href="../Page/中垣内祐一.md" title="wikilink">中垣内祐一</a>選手は何本スパイクを打つか?</p></td>
 <td><p>93本<br />
 （90本以上100本未満）</p></td>
 <td><p>4倍</p></td>
@@ -1136,7 +1136,7 @@
 <tr class="odd">
 <td><p>81</p></td>
 <td><p><a href="../Page/きんさんぎんさん.md" title="wikilink">きんさんぎんさん</a>のCDは<br />
-<a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">オリコンチャート</a>に何位で登場するか?</p></td>
+<a href="../Page/オリコンチャート.md" title="wikilink">オリコンチャート</a>に何位で登場するか?</p></td>
 <td><p>78位<br />
 （71位～80位）</p></td>
 <td><p>15倍</p></td>
@@ -1164,7 +1164,7 @@
 </tr>
 <tr class="odd">
 <td><p>83</p></td>
-<td><p>裏番組である<a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>『<a href="https://ja.wikipedia.org/wiki/ザ・スターボウリング" title="wikilink">ザ・スターボウリング</a>』で<br />
+<td><p>裏番組である<a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>『<a href="../Page/ザ・スターボウリング.md" title="wikilink">ザ・スターボウリング</a>』で<br />
 <a href="../Page/清水由貴子.md" title="wikilink">清水由貴子</a>が何回「ナイスカン」と言うか?</p></td>
 <td><p>1回<br />
 （１、2回）</p></td>
@@ -1229,7 +1229,7 @@
 
 そして命運を分けたのは1992年3月2日放送。この日は2つのベティングを行った。そのうち**「3月7日、[神宮球場で行われる](../Page/明治神宮野球場.md "wikilink")[バルセロナオリンピック](https://ja.wikipedia.org/wiki/バルセロナオリンピック "wikilink")日本代表VS[プロチームの野球交歓試合で](../Page/プロ野球.md "wikilink")、プロはいくつの三振を取られるか」**では前田は8、9個程度と予想し3倍に設定、４、5個に関し12倍を設定した。それに対し糸井は「4、5個」に2万2981カノッサと3カノッサを残してほぼ全額をベット、青木も600カノッサをベットする。
 
-その試合では序盤こそ三振が出たものの終盤では出なかったことや先攻の日本代表チームが負けたことが影響し「**5個**」となり、これにより糸井が27万5772カノッサ、青木が7200カノッサを獲得しこの時点で前田の破産及びオッズメーカー解雇が確定。2つ目のベット「今放送中の[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")『[ザ・スターボウリング](https://ja.wikipedia.org/wiki/ザ・スターボウリング "wikilink")』で[清水由貴子](../Page/清水由貴子.md "wikilink")は何回『ナイスカン\!』と言うか」も「1回（12倍）」を青木に1000カノッサで当てられ、最終的に
+その試合では序盤こそ三振が出たものの終盤では出なかったことや先攻の日本代表チームが負けたことが影響し「**5個**」となり、これにより糸井が27万5772カノッサ、青木が7200カノッサを獲得しこの時点で前田の破産及びオッズメーカー解雇が確定。2つ目のベット「今放送中の[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")『[ザ・スターボウリング](../Page/ザ・スターボウリング.md "wikilink")』で[清水由貴子](../Page/清水由貴子.md "wikilink")は何回『ナイスカン\!』と言うか」も「1回（12倍）」を青木に1000カノッサで当てられ、最終的に
 
   - 糸井 27万5786カノッサ
   - 青木 2万1880カノッサ
@@ -1263,7 +1263,7 @@
 
 ## 関連項目
 
-  - [ブックメーカー](https://ja.wikipedia.org/wiki/ブックメーカー "wikilink")
+  - [ブックメーカー](../Page/ブックメーカー.md "wikilink")
   - [デリバティブTV](https://ja.wikipedia.org/wiki/デリバティブTV "wikilink") - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系で放送されたリメイク番組。なお、鴻上尚史はこの番組にも出演していた。
 
 [Category:1991年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1991年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビのクイズ番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビのクイズ番組の歴史 "wikilink") [Category:フジテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:フジテレビの情報・ワイドショー番組 "wikilink") [Category:フジテレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビのバラエティ番組の歴史 "wikilink") [Category:JOCX-TV2](https://ja.wikipedia.org/wiki/Category:JOCX-TV2 "wikilink") [Category:ホイチョイ・プロダクションズ](https://ja.wikipedia.org/wiki/Category:ホイチョイ・プロダクションズ "wikilink")
@@ -1272,7 +1272,7 @@
 2.  2018年7月末を以って定年退職。前番組　「カノッサの屈辱」に引き続きナレーターも兼任。
 3.  1位は『[レナードの朝](../Page/レナードの朝.md "wikilink")』、2位は『[愛がこわれるとき](https://ja.wikipedia.org/wiki/愛がこわれるとき "wikilink")』
 4.  決められたフレーズを言うかどうかのベティングであったが、実際は「右のキャベツはパリパリしてるのに、トマトはヘタリ気味。それと反対に左のキャベツは、しんなりしてるのにトマトはしゃっきり。」という発言で予想に上げられたフレーズは入らず。
-5.  『[101回目のプロポーズ](../Page/101回目のプロポーズ.md "wikilink")』『[ヴァンサンカン・結婚](https://ja.wikipedia.org/wiki/ヴァンサンカン・結婚 "wikilink")』（以上[フジ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）『[結婚したい男たち](https://ja.wikipedia.org/wiki/結婚したい男たち "wikilink")』『[デパート\!夏物語](https://ja.wikipedia.org/wiki/デパート!夏物語 "wikilink")』（以上[TBS](../Page/TBSテレビ.md "wikilink")）『[助教授一色麗子 法医学教室の女](https://ja.wikipedia.org/wiki/助教授一色麗子_法医学教室の女 "wikilink")』（[日テレ](../Page/日本テレビ放送網.md "wikilink")）
+5.  『[101回目のプロポーズ](../Page/101回目のプロポーズ.md "wikilink")』『[ヴァンサンカン・結婚](../Page/ヴァンサンカン・結婚.md "wikilink")』（以上[フジ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）『[結婚したい男たち](https://ja.wikipedia.org/wiki/結婚したい男たち "wikilink")』『[デパート\!夏物語](../Page/デパート!夏物語.md "wikilink")』（以上[TBS](../Page/TBSテレビ.md "wikilink")）『[助教授一色麗子 法医学教室の女](../Page/助教授一色麗子_法医学教室の女.md "wikilink")』（[日テレ](../Page/日本テレビ放送網.md "wikilink")）
 6.  『101回目のプロポーズ』20.3%
     『結婚したい男たち』19.7%
     『デパート\!夏物語』16.7%
@@ -1280,7 +1280,7 @@
     『助教授一色麗子 法医学教室の女』14.0%
 7.  栗本が書記として働き5カノッサを獲得
 8.  当日にはベッター糸井も友人を誘い自ら献血に行ったことが発覚。しかし、クラブ側は「今回に関してはむしろ紳士的な行為である」と判断し不問とした。
-9.  対象は『[ロビンフッド](https://ja.wikipedia.org/wiki/ロビン・フッド_\(1991年のアメリカ映画\) "wikilink")』『[おもひでぽろぽろ](../Page/おもひでぽろぽろ.md "wikilink")』『[ホーム・アローン](https://ja.wikipedia.org/wiki/ホーム・アローン "wikilink")』『[シザーハンズ](../Page/シザーハンズ.md "wikilink")』『[東映アニメフェア](https://ja.wikipedia.org/wiki/東映アニメフェア "wikilink")'91夏』『[バックドラフト](../Page/バックドラフト_\(映画\).md "wikilink")』『[キンダガートン・コップ](https://ja.wikipedia.org/wiki/キンダガートン・コップ "wikilink")』
+9.  対象は『[ロビンフッド](https://ja.wikipedia.org/wiki/ロビン・フッド_\(1991年のアメリカ映画\) "wikilink")』『[おもひでぽろぽろ](../Page/おもひでぽろぽろ.md "wikilink")』『[ホーム・アローン](../Page/ホーム・アローン.md "wikilink")』『[シザーハンズ](../Page/シザーハンズ.md "wikilink")』『[東映アニメフェア](../Page/東映アニメフェア.md "wikilink")'91夏』『[バックドラフト](../Page/バックドラフト_\(映画\).md "wikilink")』『[キンダガートン・コップ](https://ja.wikipedia.org/wiki/キンダガートン・コップ "wikilink")』
 10. 栗本の愛車のマセラッティを担保として預かることで100カノッサを与え次週からの復帰が発表。
 11. FAX会員の山本忍が**3090カノッサ**を達成し名誉会員入り。
 12. 対象は大磯、茅ケ崎、片瀬西浜、片瀬東浜、由比ガ浜。

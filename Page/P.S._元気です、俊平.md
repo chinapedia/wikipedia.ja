@@ -3,13 +3,13 @@
 
 『**P.S.元気です、俊平**』（ピー・エス・げんきです、しゅんぺい）は、[柴門ふみ](https://ja.wikipedia.org/wiki/柴門ふみ "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。
 
-[TBS系で](../Page/TBSテレビ.md "wikilink")[1999年](../Page/1999年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink")から[9月16日](../Page/9月16日.md "wikilink")まで毎週[木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink")22:00 - 22:54に、[堂本光一](../Page/堂本光一.md "wikilink")主演で[テレビドラマ](../Page/テレビドラマ.md "wikilink")化された。
+[TBS系で](../Page/TBSテレビ.md "wikilink")[1999年](../Page/1999年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink")から[9月16日](../Page/9月16日.md "wikilink")まで毎週[木曜日](../Page/木曜日.md "wikilink")22:00 - 22:54に、[堂本光一](../Page/堂本光一.md "wikilink")主演で[テレビドラマ](../Page/テレビドラマ.md "wikilink")化された。
 
 ## 概要
 
 [講談社](../Page/講談社.md "wikilink")発行の『[週刊ヤングマガジン](https://ja.wikipedia.org/wiki/週刊ヤングマガジン "wikilink")』に、1980年の創刊時より連載された。単行本はヤングマガジンKCより全11巻（絶版）、[講談社漫画文庫](https://ja.wikipedia.org/wiki/講談社漫画文庫 "wikilink")より全7巻。
 
-[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")には第7回[講談社漫画賞](https://ja.wikipedia.org/wiki/講談社漫画賞 "wikilink")を受賞した。作者が通った[徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")の後藤大学予備校をモデルにしている。
+[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")には第7回[講談社漫画賞](../Page/講談社漫画賞.md "wikilink")を受賞した。作者が通った[徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")の後藤大学予備校をモデルにしている。
 
 ## あらすじ
 
@@ -17,7 +17,7 @@
 
 ## テレビドラマ
 
-[1999年](../Page/1999年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink")から[9月16日](../Page/9月16日.md "wikilink")まで毎週[木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink")22:00 - 22:54に[TBS系で放送された](../Page/TBSテレビ.md "wikilink")。全12話。主演は[堂本光一](../Page/堂本光一.md "wikilink")。
+[1999年](../Page/1999年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink")から[9月16日](../Page/9月16日.md "wikilink")まで毎週[木曜日](../Page/木曜日.md "wikilink")22:00 - 22:54に[TBS系で放送された](../Page/TBSテレビ.md "wikilink")。全12話。主演は[堂本光一](../Page/堂本光一.md "wikilink")。
 
 2007年6月29日にDVD-BOXが発売された。
 
@@ -27,16 +27,16 @@
   - 太田原桃子：[瀬戸朝香](../Page/瀬戸朝香.md "wikilink")　
   - 桜小夜子：[仲間由紀恵](https://ja.wikipedia.org/wiki/仲間由紀恵 "wikilink")　
   - 曽根田隆：[藤木直人](https://ja.wikipedia.org/wiki/藤木直人 "wikilink")　
-  - 下川啓介：[横山裕](https://ja.wikipedia.org/wiki/横山裕 "wikilink")　
-  - 水沢かおる：[建みさと](https://ja.wikipedia.org/wiki/建みさと "wikilink")　
-  - 宮崎裕美：[立河宜子](https://ja.wikipedia.org/wiki/立河宜子 "wikilink")　
+  - 下川啓介：[横山裕](../Page/横山裕.md "wikilink")　
+  - 水沢かおる：[建みさと](../Page/建みさと.md "wikilink")　
+  - 宮崎裕美：[立河宜子](../Page/立河宜子.md "wikilink")　
   - 松田まゆみ：[小松千春](../Page/小松千春.md "wikilink")　
-  - マスター：[斉藤暁](https://ja.wikipedia.org/wiki/斉藤暁 "wikilink")　
-  - 筒井慎一：[西村和彦](https://ja.wikipedia.org/wiki/西村和彦 "wikilink")　
-  - 太田原朋子：[松原智恵子](https://ja.wikipedia.org/wiki/松原智恵子 "wikilink")　
-  - 山辺粧子：[櫻井淳子](https://ja.wikipedia.org/wiki/櫻井淳子 "wikilink")　
-  - 市村洗太郎：[上川隆也](https://ja.wikipedia.org/wiki/上川隆也 "wikilink")　
-  - 俵次郎：[小林稔侍](https://ja.wikipedia.org/wiki/小林稔侍 "wikilink")
+  - マスター：[斉藤暁](../Page/斉藤暁.md "wikilink")　
+  - 筒井慎一：[西村和彦](../Page/西村和彦.md "wikilink")　
+  - 太田原朋子：[松原智恵子](../Page/松原智恵子.md "wikilink")　
+  - 山辺粧子：[櫻井淳子](../Page/櫻井淳子.md "wikilink")　
+  - 市村洗太郎：[上川隆也](../Page/上川隆也.md "wikilink")　
+  - 俵次郎：[小林稔侍](../Page/小林稔侍.md "wikilink")
 
 ### 主題歌
 
@@ -46,9 +46,9 @@
 
   - 原作：柴門ふみ　
   - 脚本：[小林司](https://ja.wikipedia.org/wiki/小林司_\(脚本家\) "wikilink")、[鈴木貴子](https://ja.wikipedia.org/wiki/鈴木貴子_\(脚本家\) "wikilink")　
-  - 音楽：[S.E.N.S.](https://ja.wikipedia.org/wiki/S.E.N.S. "wikilink")（[BMG JAPAN](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")）
+  - 音楽：[S.E.N.S.](../Page/S.E.N.S..md "wikilink")（[BMG JAPAN](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")）
   - プロデュース：[成合由香](https://ja.wikipedia.org/wiki/成合由香 "wikilink")、[横井直行](https://ja.wikipedia.org/wiki/横井直行 "wikilink")　
-  - 演出：[吉田健](https://ja.wikipedia.org/wiki/吉田健 "wikilink")、[森山享](https://ja.wikipedia.org/wiki/森山享 "wikilink")、[戸高正啓](https://ja.wikipedia.org/wiki/戸高正啓 "wikilink")、[荒井光明](https://ja.wikipedia.org/wiki/荒井光明 "wikilink")
+  - 演出：[吉田健](https://ja.wikipedia.org/wiki/吉田健 "wikilink")、[森山享](https://ja.wikipedia.org/wiki/森山享 "wikilink")、[戸高正啓](../Page/戸高正啓.md "wikilink")、[荒井光明](https://ja.wikipedia.org/wiki/荒井光明 "wikilink")
 
 ### 受賞歴
 
@@ -57,25 +57,25 @@
 
 ### サウンドトラック
 
-  - Fine〜「P.S. 元気です、俊平」オリジナル・サウンドトラック　[S.E.N.S.](https://ja.wikipedia.org/wiki/S.E.N.S. "wikilink")
+  - Fine〜「P.S. 元気です、俊平」オリジナル・サウンドトラック　[S.E.N.S.](../Page/S.E.N.S..md "wikilink")
 
 ### 放送日程
 
-| 各話                                                                                                                                     | 放送日        | サブタイトル         | 視聴率                                    |
-| -------------------------------------------------------------------------------------------------------------------------------------- | ---------- | -------------- | -------------------------------------- |
-| 第1話                                                                                                                                    | 1999年6月24日 | 2年間、失恋中\!?     | <span style="color:red;">14.8%</span>  |
-| 第2話                                                                                                                                    | 1999年7月1日  | いきなりキスを奪われた\!? | <span style="color:blue;">11.6%</span> |
-| 第3話                                                                                                                                    | 1999年7月8日  | 私を受け止めて        | 13.7%                                  |
-| 第4話                                                                                                                                    | 1999年7月15日 | 一夜のあやまち        | 13.3%                                  |
-| 第5話                                                                                                                                    | 1999年7月22日 | 彼と寝たわよ         | 12.0%                                  |
-| 第6話                                                                                                                                    | 1999年7月29日 | すれ違う恋…         | 13.5%                                  |
-| 第7話                                                                                                                                    | 1999年8月5日  | やっと結ばれて        | 12.1%                                  |
-| 第8話                                                                                                                                    | 1999年8月12日 | 今夜だけでいい抱きしめて   | 11.8%                                  |
-| 第9話                                                                                                                                    | 1999年8月19日 | もうダメだよ！私たち     | 12.1%                                  |
-| 第10話                                                                                                                                   | 1999年9月2日  | 捨てろよ！婚約指輪なんか   | 12.0%                                  |
-| 第11話                                                                                                                                   | 1999年9月9日  | 3日間だけ最後の恋させて   | 12.3%                                  |
-| 最終話                                                                                                                                    | 1999年9月16日 | 君のことがずっと好きだよ   | 13.4%                                  |
-| 平均視聴率 12.72%（視聴率は[関東地区](https://ja.wikipedia.org/wiki/関東地方 "wikilink")・[ビデオリサーチ](https://ja.wikipedia.org/wiki/ビデオリサーチ "wikilink")社調べ） |            |                |                                        |
+| 各話                                                                                                                  | 放送日        | サブタイトル         | 視聴率                                    |
+| ------------------------------------------------------------------------------------------------------------------- | ---------- | -------------- | -------------------------------------- |
+| 第1話                                                                                                                 | 1999年6月24日 | 2年間、失恋中\!?     | <span style="color:red;">14.8%</span>  |
+| 第2話                                                                                                                 | 1999年7月1日  | いきなりキスを奪われた\!? | <span style="color:blue;">11.6%</span> |
+| 第3話                                                                                                                 | 1999年7月8日  | 私を受け止めて        | 13.7%                                  |
+| 第4話                                                                                                                 | 1999年7月15日 | 一夜のあやまち        | 13.3%                                  |
+| 第5話                                                                                                                 | 1999年7月22日 | 彼と寝たわよ         | 12.0%                                  |
+| 第6話                                                                                                                 | 1999年7月29日 | すれ違う恋…         | 13.5%                                  |
+| 第7話                                                                                                                 | 1999年8月5日  | やっと結ばれて        | 12.1%                                  |
+| 第8話                                                                                                                 | 1999年8月12日 | 今夜だけでいい抱きしめて   | 11.8%                                  |
+| 第9話                                                                                                                 | 1999年8月19日 | もうダメだよ！私たち     | 12.1%                                  |
+| 第10話                                                                                                                | 1999年9月2日  | 捨てろよ！婚約指輪なんか   | 12.0%                                  |
+| 第11話                                                                                                                | 1999年9月9日  | 3日間だけ最後の恋させて   | 12.3%                                  |
+| 最終話                                                                                                                 | 1999年9月16日 | 君のことがずっと好きだよ   | 13.4%                                  |
+| 平均視聴率 12.72%（視聴率は[関東地区](https://ja.wikipedia.org/wiki/関東地方 "wikilink")・[ビデオリサーチ](../Page/ビデオリサーチ.md "wikilink")社調べ） |            |                |                                        |
 
 ## 外部リンク
 

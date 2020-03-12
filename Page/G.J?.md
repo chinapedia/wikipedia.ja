@@ -8,8 +8,8 @@
   - [2003年](../Page/2003年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink") - [アキバ系彼女](../Page/アキバ系彼女.md "wikilink")
   - [2004年](../Page/2004年.md "wikilink")[5月28日](../Page/5月28日.md "wikilink") - 双子ノ母性本能
   - 2004年[10月29日](../Page/10月29日.md "wikilink") - [姉とボイン](https://ja.wikipedia.org/wiki/姉とボイン "wikilink")
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月22日](../Page/7月22日.md "wikilink") - 七人のオンラインゲーマーズ 〜オフライン〜
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月28日](../Page/4月28日.md "wikilink") - 妻とママとボイン
+  - [2005年](../Page/2005年.md "wikilink")[7月22日](../Page/7月22日.md "wikilink") - 七人のオンラインゲーマーズ 〜オフライン〜
+  - [2006年](../Page/2006年.md "wikilink")[4月28日](../Page/4月28日.md "wikilink") - 妻とママとボイン
   - 2006年[12月15日](../Page/12月15日.md "wikilink") - Queenボンジョルの\! 〜女王は制服を脱いだ〜
   - [2007年](../Page/2007年.md "wikilink")[8月24日](../Page/8月24日.md "wikilink") - あなたの知らない看護婦 〜性的病棟24時〜
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月30日](../Page/5月30日.md "wikilink") - 魔女道 〜あの散り際の美しさ〜
@@ -24,7 +24,7 @@
 ## 関連項目
 
   - [北海道えろげー組合](https://ja.wikipedia.org/wiki/北海道えろげー組合 "wikilink")
-  - [ミルキーレーベル](https://ja.wikipedia.org/wiki/ミルキーレーベル "wikilink")
+  - [ミルキーレーベル](../Page/ミルキーレーベル.md "wikilink")
 
 ## 外部リンク
 

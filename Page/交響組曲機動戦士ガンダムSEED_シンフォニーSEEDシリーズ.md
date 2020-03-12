@@ -1,7 +1,7 @@
 > この記事は[SEED SEED](https://ja.wikipedia.org/wiki/SEED_SEED)から翻訳されています。
 
 
-『**交響組曲機動戦士ガンダムSEED シンフォニーSEEDシリーズ**』（こうきょうくみきょくきどうせんしガンダムシード シンフォニーシードシリーズ）は、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[機動戦士ガンダムSEED](../Page/機動戦士ガンダムSEED.md "wikilink")』及び『[機動戦士ガンダムSEED DESTINY](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_DESTINY "wikilink")』の[オリジナルサウンドトラック集](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")（『機動戦士ガンダムSEED・SEED DESTNY オリジナルサウンドトラック集』）を交響組曲として新たに作・編曲したもの。
+『**交響組曲機動戦士ガンダムSEED シンフォニーSEEDシリーズ**』（こうきょうくみきょくきどうせんしガンダムシード シンフォニーシードシリーズ）は、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[機動戦士ガンダムSEED](../Page/機動戦士ガンダムSEED.md "wikilink")』及び『[機動戦士ガンダムSEED DESTINY](../Page/機動戦士ガンダムSEED_DESTINY.md "wikilink")』の[オリジナルサウンドトラック集](../Page/サウンドトラック.md "wikilink")（『機動戦士ガンダムSEED・SEED DESTNY オリジナルサウンドトラック集』）を交響組曲として新たに作・編曲したもの。
 
 ## 解説
 
@@ -41,13 +41,13 @@
 5.  OST1「ザフトの陰謀」、OST2「ザフトの侵攻」
 6.  OST3「[フレイの死](../Page/フレイ・アルスター.md "wikilink")」･「撃沈[ドミニオン](https://ja.wikipedia.org/wiki/アークエンジェル_\(ガンダムシリーズ\)#ドミニオン "wikilink")」
 7.  OST1「GUNDAM出撃」、OST3「カウントダウン」、OST2「STRIKE出撃」
-8.  「[あんなに一緒だったのに](https://ja.wikipedia.org/wiki/あんなに一緒だったのに "wikilink")」歌：[See-Saw](https://ja.wikipedia.org/wiki/See-Saw "wikilink")
+8.  「[あんなに一緒だったのに](https://ja.wikipedia.org/wiki/あんなに一緒だったのに "wikilink")」歌：[See-Saw](../Page/See-Saw.md "wikilink")
 9.  OST1「静かな夜に」歌：[ラクス・クライン](../Page/ラクス・クライン.md "wikilink")（[田中理恵](https://ja.wikipedia.org/wiki/田中理恵_\(声優\) "wikilink")）
 10. OST3「正義と自由」･「友情の防衛線」･「[フリーダム自爆](../Page/フリーダムガンダム.md "wikilink")」
 
 ### 交響組曲機動戦士ガンダムSEED DESTINY シンフォニーSEED DESTINY
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月16日](../Page/12月16日.md "wikilink")にビクターエンタテインメントから発売された。前作同様、初回限定盤は特殊パッケージとレコーディングレポートが封入されている。
+[2005年](../Page/2005年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")にビクターエンタテインメントから発売された。前作同様、初回限定盤は特殊パッケージとレコーディングレポートが封入されている。
 
   - 収録曲
 
@@ -72,11 +72,11 @@
 
 <!-- end list -->
 
-1.  OST1「停戦の果てに…」、OST2「出撃\![インパルス](https://ja.wikipedia.org/wiki/インパルスガンダム "wikilink")」、OST4「最後の征戦〜剣の先、不安と涙」OST1「CORESPRENDOR LIFTOFF」、OST3「艦隊交戦」
+1.  OST1「停戦の果てに…」、OST2「出撃\![インパルス](../Page/インパルスガンダム.md "wikilink")」、OST4「最後の征戦〜剣の先、不安と涙」OST1「CORESPRENDOR LIFTOFF」、OST3「艦隊交戦」
 2.  OST3「新たなる力と正義」
 3.  OST2「開戦前夜」、OST1「艦隊出現」
 4.  OST2「確執の隙間」、OST3「悪魔の契約」
-5.  OST3「艦隊交戦」、OST2「覚醒[シン・アスカ](https://ja.wikipedia.org/wiki/シン・アスカ "wikilink")」
+5.  OST3「艦隊交戦」、OST2「覚醒[シン・アスカ](../Page/シン・アスカ.md "wikilink")」
 6.  OST1「憎しみあればこそ」
 7.  OST1「MINERVA NAVIGATION」･「MINERVA TAKEOFF」
 8.  OST2「海と風と空と」、OST3「不惑の婚礼」
@@ -87,18 +87,18 @@
 
 ## 製作スタッフ
 
-  - [作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：[佐橋俊彦](https://ja.wikipedia.org/wiki/佐橋俊彦 "wikilink")
+  - [作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：[佐橋俊彦](../Page/佐橋俊彦.md "wikilink")
   - [音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")：野崎圭一、山下宏、宮井紫帆、佐藤正和
   - [エンジニア](https://ja.wikipedia.org/wiki/エンジニア "wikilink")：ヨシタムラ
-  - [ミキサー](https://ja.wikipedia.org/wiki/レコーディング・エンジニア "wikilink")：山崎和重、服部知実
-  - [演奏](../Page/演奏.md "wikilink")：[ロンドン交響楽団](https://ja.wikipedia.org/wiki/ロンドン交響楽団 "wikilink")
+  - [ミキサー](../Page/レコーディング・エンジニア.md "wikilink")：山崎和重、服部知実
+  - [演奏](../Page/演奏.md "wikilink")：[ロンドン交響楽団](../Page/ロンドン交響楽団.md "wikilink")
   - [指揮](../Page/指揮_\(音楽\).md "wikilink")：ニック・イングマン
 
 ## 関連項目
 
-  - [サンライズ (アニメ制作会社)](https://ja.wikipedia.org/wiki/サンライズ_\(アニメ制作会社\) "wikilink")
+  - [サンライズ (アニメ制作会社)](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")
   - [バンダイ](../Page/バンダイ.md "wikilink")
-  - [バンプレスト](https://ja.wikipedia.org/wiki/バンプレスト "wikilink")
+  - [バンプレスト](../Page/バンプレスト.md "wikilink")
 
 ## 外部リンク
 

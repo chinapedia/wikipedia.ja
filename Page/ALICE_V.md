@@ -1,7 +1,7 @@
 > この記事は[ALICE V](https://ja.wikipedia.org/wiki/ALICE_V)から翻訳されています。
 
 
-『**ALICE V**』（アリス・ファイブ）は1976年7月にリリースされた[アリスの](https://ja.wikipedia.org/wiki/アリス_\(フォークグループ\) "wikilink")5枚目のオリジナル・アルバムである。
+『**ALICE V**』（アリス・ファイブ）は1976年7月にリリースされた[アリスの](../Page/アリス_\(フォークグループ\).md "wikilink")5枚目のオリジナル・アルバムである。
 
 ## 解説
 
@@ -41,8 +41,8 @@
 
 ## 関連項目
 
-  - [1976年の音楽](https://ja.wikipedia.org/wiki/1976年の音楽 "wikilink")
-  - [1977年の音楽](https://ja.wikipedia.org/wiki/1977年の音楽 "wikilink")
-  - [1978年の音楽](https://ja.wikipedia.org/wiki/1978年の音楽 "wikilink")
+  - [1976年の音楽](../Page/1976年の音楽.md "wikilink")
+  - [1977年の音楽](../Page/1977年の音楽.md "wikilink")
+  - [1978年の音楽](../Page/1978年の音楽.md "wikilink")
 
 [Category:アリスのアルバム](https://ja.wikipedia.org/wiki/Category:アリスのアルバム "wikilink") [Category:1976年のアルバム](https://ja.wikipedia.org/wiki/Category:1976年のアルバム "wikilink") [Category:エキスプレスのアルバム](https://ja.wikipedia.org/wiki/Category:エキスプレスのアルバム "wikilink")

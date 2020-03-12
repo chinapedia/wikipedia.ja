@@ -5,7 +5,7 @@
 
 ## 概要
 
-[2003年](../Page/2003年.md "wikilink")から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")までは年末3日間の開催であったが、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")から4日間の開催となる。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")は年末3日間＋元日の4日間開催であったが、翌年[2007年](../Page/2007年.md "wikilink")から年末4日間の開催へと変更されている。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")は[インテックス大阪](https://ja.wikipedia.org/wiki/インテックス大阪 "wikilink")で**COUNTDOWN JAPAN WEST**が開かれた。
+[2003年](../Page/2003年.md "wikilink")から[2005年](../Page/2005年.md "wikilink")までは年末3日間の開催であったが、[2006年](../Page/2006年.md "wikilink")から4日間の開催となる。[2006年](../Page/2006年.md "wikilink")は年末3日間＋元日の4日間開催であったが、翌年[2007年](../Page/2007年.md "wikilink")から年末4日間の開催へと変更されている。[2006年](../Page/2006年.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")は[インテックス大阪](https://ja.wikipedia.org/wiki/インテックス大阪 "wikilink")で**COUNTDOWN JAPAN WEST**が開かれた。
 
 会場は当初[幕張メッセ](../Page/幕張メッセ.md "wikilink")国際展示場のうち1ホールから7ホールを使用していたが、[2004年](../Page/2004年.md "wikilink")より8ホール、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")よりイベントホール、[2014年](../Page/2014年.md "wikilink")より9ホールから11ホールをそれぞれ追加している。[2013年](../Page/2013年.md "wikilink")と[2019年](../Page/2019年.md "wikilink")は、会場の都合上[12月28日](../Page/12月28日.md "wikilink")のみイベントホールを使用しない形で公演が行われた。
 
@@ -34,44 +34,44 @@
 <tr class="odd">
 <td><p>12月29日</p></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/B-DASH" title="wikilink">B-DASH</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/斉藤和義" title="wikilink">斉藤和義</a></li>
+<li><a href="../Page/B-DASH.md" title="wikilink">B-DASH</a></li>
+<li><a href="../Page/ASIAN_KUNG-FU_GENERATION.md" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
+<li><a href="../Page/斉藤和義.md" title="wikilink">斉藤和義</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/一青窈" title="wikilink">一青窈</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/GRAPEVINE" title="wikilink">GRAPEVINE</a></li>
+<li><a href="../Page/GRAPEVINE.md" title="wikilink">GRAPEVINE</a></li>
 <li><a href="../Page/奥田民生.md" title="wikilink">奥田民生</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/HY_(バンド)" title="wikilink">HY</a></li>
 </ul></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/LOST_IN_TIME" title="wikilink">LOST IN TIME</a></li>
+<li><a href="../Page/LOST_IN_TIME.md" title="wikilink">LOST IN TIME</a></li>
 <li><a href="../Page/MAMALAID_RAG.md" title="wikilink">MAMALAID RAG</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/向井秀徳" title="wikilink">無戒秀徳アコースティック</a>＆エレクトリック</li>
-<li><a href="https://ja.wikipedia.org/wiki/SOURCE" title="wikilink">SOURCE</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/POTSHOT" title="wikilink">POTSHOT</a></li>
+<li><a href="../Page/向井秀徳.md" title="wikilink">無戒秀徳アコースティック</a>＆エレクトリック</li>
+<li><a href="../Page/SOURCE.md" title="wikilink">SOURCE</a></li>
+<li><a href="../Page/POTSHOT.md" title="wikilink">POTSHOT</a></li>
 <li><a href="../Page/太陽族_(バンド).md" title="wikilink">太陽族</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/10-FEET" title="wikilink">10-FEET</a></li>
+<li><a href="../Page/10-FEET.md" title="wikilink">10-FEET</a></li>
 <li><a href="../Page/スネオヘアー.md" title="wikilink">スネオヘアー</a></li>
 </ul></td>
 </tr>
 <tr class="even">
 <td><p>12月30日</p></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/HAWAIIAN6" title="wikilink">HAWAIIAN6</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/GOING_UNDER_GROUND" title="wikilink">GOING UNDER GROUND</a></li>
+<li><a href="../Page/HAWAIIAN6.md" title="wikilink">HAWAIIAN6</a></li>
+<li><a href="../Page/GOING_UNDER_GROUND.md" title="wikilink">GOING UNDER GROUND</a></li>
 <li><a href="../Page/ACO.md" title="wikilink">ACO</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/FIRE_BALL_(レゲエグループ)" title="wikilink">FIRE BALL</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ZAZEN_BOYS" title="wikilink">ZAZEN BOYS</a></li>
+<li><a href="../Page/FIRE_BALL_(レゲエグループ).md" title="wikilink">FIRE BALL</a></li>
+<li><a href="../Page/ZAZEN_BOYS.md" title="wikilink">ZAZEN BOYS</a></li>
 <li><a href="../Page/BACK_DROP_BOMB.md" title="wikilink">BACK DROP BOMB</a></li>
 <li><a href="../Page/くるり.md" title="wikilink">くるり</a></li>
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/detroit7" title="wikilink">detroit7</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/SPARTA_LOCALS" title="wikilink">SPARTA LOCALS</a></li>
+<li><a href="../Page/SPARTA_LOCALS.md" title="wikilink">SPARTA LOCALS</a></li>
 <li><a href="../Page/日暮愛葉.md" title="wikilink">日暮愛葉</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Syrup16g" title="wikilink">Syrup16g</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/THE_BACK_HORN" title="wikilink">THE BACK HORN</a></li>
+<li><a href="../Page/THE_BACK_HORN.md" title="wikilink">THE BACK HORN</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/smorgas" title="wikilink">smorgas</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/POLYSICS" title="wikilink">POLYSICS</a></li>
+<li><a href="../Page/POLYSICS.md" title="wikilink">POLYSICS</a></li>
 <li><a href="../Page/山嵐_(バンド).md" title="wikilink">山嵐</a></li>
 </ul></td>
 </tr>
@@ -80,24 +80,24 @@
 <td><ul>
 <li><a href="../Page/くるり.md" title="wikilink">くるり</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/エレファントカシマシ" title="wikilink">エレファントカシマシ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/HUSKING_BEE" title="wikilink">HUSKING BEE</a></li>
+<li><a href="../Page/HUSKING_BEE.md" title="wikilink">HUSKING BEE</a></li>
 <li><a href="../Page/車谷浩司.md" title="wikilink">AIR</a></li>
 <li><strong><a href="../Page/東京スカパラダイスオーケストラ.md" title="wikilink">東京スカパラダイスオーケストラ</a></strong></li>
-<li><a href="https://ja.wikipedia.org/wiki/忌野清志郎" title="wikilink">忌野清志郎</a></li>
+<li><a href="../Page/忌野清志郎.md" title="wikilink">忌野清志郎</a></li>
 <li><a href="../Page/ACIDMAN.md" title="wikilink">ACIDMAN</a></li>
 <li><a href="../Page/氣志團.md" title="wikilink">氣志團</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/レミオロメン" title="wikilink">レミオロメン</a></li>
+<li><a href="../Page/レミオロメン.md" title="wikilink">レミオロメン</a></li>
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/HEESEY_WITH_DUDES" title="wikilink">HEESEY WITH DUDES</a></li>
 <li><a href="../Page/DMBQ.md" title="wikilink">DMBQ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ART-SCHOOL" title="wikilink">ART-SCHOOL</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/Polaris_(バンド)" title="wikilink">Polaris</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/スケボーキング" title="wikilink">スケボーキング</a></li>
-<li><strong><a href="https://ja.wikipedia.org/wiki/PENPALS" title="wikilink">PENPALS</a></strong></li>
+<li><a href="../Page/ART-SCHOOL.md" title="wikilink">ART-SCHOOL</a></li>
+<li><a href="../Page/Polaris_(バンド).md" title="wikilink">Polaris</a></li>
+<li><a href="../Page/スケボーキング.md" title="wikilink">スケボーキング</a></li>
+<li><strong><a href="../Page/PENPALS.md" title="wikilink">PENPALS</a></strong></li>
 <li><a href="https://ja.wikipedia.org/wiki/babamania" title="wikilink">babamania</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/堂島孝平" title="wikilink">堂島孝平</a>×GO-GO KING RECORDERS</li>
-<li><a href="https://ja.wikipedia.org/wiki/フラワーカンパニーズ" title="wikilink">フラワーカンパニーズ</a></li>
+<li><a href="../Page/堂島孝平.md" title="wikilink">堂島孝平</a>×GO-GO KING RECORDERS</li>
+<li><a href="../Page/フラワーカンパニーズ.md" title="wikilink">フラワーカンパニーズ</a></li>
 <li><a href="../Page/曽我部恵一.md" title="wikilink">曽我部恵一</a></li>
 </ul></td>
 </tr>
@@ -123,36 +123,36 @@
 <tr class="odd">
 <td><p>12月29日</p></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/GOING_UNDER_GROUND" title="wikilink">GOING UNDER GROUND</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/斉藤和義" title="wikilink">斉藤和義</a></li>
+<li><a href="../Page/GOING_UNDER_GROUND.md" title="wikilink">GOING UNDER GROUND</a></li>
+<li><a href="../Page/斉藤和義.md" title="wikilink">斉藤和義</a></li>
 <li><a href="../Page/奥田民生.md" title="wikilink">奥田民生</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/TRICERATOPS" title="wikilink">TRICERATOPS</a></li>
+<li><a href="../Page/TRICERATOPS.md" title="wikilink">TRICERATOPS</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/一青窈" title="wikilink">一青窈</a></li>
 <li><a href="../Page/175R.md" title="wikilink">175R</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/レミオロメン" title="wikilink">レミオロメン</a></li>
+<li><a href="../Page/レミオロメン.md" title="wikilink">レミオロメン</a></li>
 </ul></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/10-FEET" title="wikilink">10-FEET</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/Jackson_vibe" title="wikilink">Jackson vibe</a></li>
+<li><a href="../Page/10-FEET.md" title="wikilink">10-FEET</a></li>
+<li><a href="../Page/Jackson_vibe.md" title="wikilink">Jackson vibe</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/locofrank" title="wikilink">locofrank</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/THE_MODS" title="wikilink">THE MODS</a></li>
+<li><a href="../Page/THE_MODS.md" title="wikilink">THE MODS</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/REVERSLOW" title="wikilink">REVERSLOW</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/the_band_apart" title="wikilink">the band apart</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ストレイテナー" title="wikilink">ストレイテナー</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ELLEGARDEN" title="wikilink">ELLEGARDEN</a></li>
+<li><a href="../Page/ELLEGARDEN.md" title="wikilink">ELLEGARDEN</a></li>
 </ul></td>
 <td><ul>
 <li><a href="../Page/矢野絢子.md" title="wikilink">矢野絢子</a></li>
 <li><a href="../Page/東京60WATTS.md" title="wikilink">東京60WATTS</a></li>
 <li><a href="../Page/セカイイチ.md" title="wikilink">セカイイチ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/フラワーカンパニーズ" title="wikilink">フラワーカンパニーズ</a></li>
+<li><a href="../Page/フラワーカンパニーズ.md" title="wikilink">フラワーカンパニーズ</a></li>
 <li>detroit7</li>
 <li><a href="../Page/野狐禅_(フォークバンド).md" title="wikilink">野狐禅</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/フジファブリック" title="wikilink">フジファブリック</a></li>
+<li><a href="../Page/フジファブリック.md" title="wikilink">フジファブリック</a></li>
 </ul></td>
 <td><ul>
-<li>グレートマエカワ（<a href="https://ja.wikipedia.org/wiki/フラワーカンパニーズ" title="wikilink">フラワーカンパニーズ</a>）</li>
-<li>松本素生（<a href="https://ja.wikipedia.org/wiki/GOING_UNDER_GROUND" title="wikilink">GOING UNDER GROUND</a>）</li>
+<li>グレートマエカワ（<a href="../Page/フラワーカンパニーズ.md" title="wikilink">フラワーカンパニーズ</a>）</li>
+<li>松本素生（<a href="../Page/GOING_UNDER_GROUND.md" title="wikilink">GOING UNDER GROUND</a>）</li>
 <li><a href="../Page/ロケットマン.md" title="wikilink">ロケットマン</a>(<a href="../Page/ふかわりょう.md" title="wikilink">ふかわりょう</a>)</li>
 <li>片平実(GETTING BETTER)</li>
 <li>保坂壮彦(soultoday)</li>
@@ -162,9 +162,9 @@
 <tr class="even">
 <td><p>12月30日</p></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/HUSKING_BEE" title="wikilink">HUSKING BEE</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ZAZEN_BOYS" title="wikilink">ZAZEN BOYS</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/GRAPEVINE" title="wikilink">GRAPEVINE</a></li>
+<li><a href="../Page/HUSKING_BEE.md" title="wikilink">HUSKING BEE</a></li>
+<li><a href="../Page/ZAZEN_BOYS.md" title="wikilink">ZAZEN BOYS</a></li>
+<li><a href="../Page/GRAPEVINE.md" title="wikilink">GRAPEVINE</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/エレファントカシマシ" title="wikilink">エレファントカシマシ</a></li>
 <li><a href="../Page/ACIDMAN.md" title="wikilink">ACIDMAN</a></li>
 <li><a href="../Page/100s.md" title="wikilink">100s</a></li>
@@ -173,12 +173,12 @@
 <td><ul>
 <li><a href="../Page/The_ピーズ.md" title="wikilink">The ピーズ</a></li>
 <li><a href="../Page/ザ・コレクターズ.md" title="wikilink">THE COLLECTORS</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/Polaris_(バンド)" title="wikilink">Polaris</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/MO&#39;SOME_TONEBENDER" title="wikilink">MO'SOME TONEBENDER</a></li>
+<li><a href="../Page/Polaris_(バンド).md" title="wikilink">Polaris</a></li>
+<li><a href="../Page/MO&#39;SOME_TONEBENDER.md" title="wikilink">MO'SOME TONEBENDER</a></li>
 <li><a href="../Page/スネオヘアー.md" title="wikilink">スネオヘアー</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/eastern_youth" title="wikilink">eastern youth</a></li>
 <li><a href="../Page/麗蘭.md" title="wikilink">麗蘭</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/YO-KING" title="wikilink">YO-KING</a></li>
+<li><a href="../Page/YO-KING.md" title="wikilink">YO-KING</a></li>
 </ul></td>
 <td><ul>
 <li><a href="../Page/アナログフィッシュ.md" title="wikilink">アナログフィッシュ</a></li>
@@ -187,12 +187,12 @@
 <li><a href="https://ja.wikipedia.org/wiki/COMEBACK_MY_DAUGHTERS" title="wikilink">COMEBACK MY DAUGHTERS</a></li>
 <li><a href="../Page/DOPING_PANDA.md" title="wikilink">DOPING PANDA</a></li>
 <li><a href="../Page/マボロシ.md" title="wikilink">マボロシ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/SOURCE" title="wikilink">SOURCE</a></li>
+<li><a href="../Page/SOURCE.md" title="wikilink">SOURCE</a></li>
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/endive" title="wikilink">endive</a>(from Dragon Ash)</li>
 <li><a href="https://ja.wikipedia.org/wiki/古市コータロー" title="wikilink">古市コータロー</a>&amp;小里誠(<a href="../Page/ザ・コレクターズ.md" title="wikilink">THE COLLECTORS</a>)</li>
-<li><a href="https://ja.wikipedia.org/wiki/SUGIURUMN" title="wikilink">SUGIURUMN</a></li>
+<li><a href="../Page/SUGIURUMN.md" title="wikilink">SUGIURUMN</a></li>
 <li>片平実(GETTING BETTER)</li>
 <li>保坂壮彦(soultoday)</li>
 <li>前田博章(puke!)</li>
@@ -204,33 +204,33 @@
 <li><a href="../Page/くるり.md" title="wikilink">くるり</a></li>
 <li><a href="../Page/佐野元春.md" title="wikilink">佐野元春</a> and The Hobo King Band</li>
 <li><a href="../Page/東京スカパラダイスオーケストラ.md" title="wikilink">東京スカパラダイスオーケストラ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/THE_MAD_CAPSULE_MARKETS" title="wikilink">THE MAD CAPSULE MARKETS</a></li>
-<li><strong><a href="https://ja.wikipedia.org/wiki/忌野清志郎" title="wikilink">忌野清志郎</a>&amp; NICE MIDDLE<br />
+<li><a href="../Page/THE_MAD_CAPSULE_MARKETS.md" title="wikilink">THE MAD CAPSULE MARKETS</a></li>
+<li><strong><a href="../Page/忌野清志郎.md" title="wikilink">忌野清志郎</a>&amp; NICE MIDDLE<br />
 with NEW BLUE DAY HORNS</strong></li>
-<li><a href="https://ja.wikipedia.org/wiki/KREVA" title="wikilink">KREVA</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/B-DASH" title="wikilink">B-DASH</a></li>
+<li><a href="../Page/KREVA.md" title="wikilink">KREVA</a></li>
+<li><a href="../Page/B-DASH.md" title="wikilink">B-DASH</a></li>
 <li><a href="../Page/BACK_DROP_BOMB.md" title="wikilink">BACK DROP BOMB</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/RHYMESTER" title="wikilink">RHYMESTER</a></li>
+<li><a href="../Page/RHYMESTER.md" title="wikilink">RHYMESTER</a></li>
 </ul></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/POLYSICS" title="wikilink">POLYSICS</a></li>
+<li><a href="../Page/POLYSICS.md" title="wikilink">POLYSICS</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/MCU" title="wikilink">MCU</a> &amp; <a href="../Page/浜崎貴司.md" title="wikilink">浜崎貴司</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Salyu" title="wikilink">Salyu</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/LOST_IN_TIME" title="wikilink">LOST IN TIME</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/THE_BACK_HORN" title="wikilink">THE BACK HORN</a></li>
-<li><strong><a href="https://ja.wikipedia.org/wiki/サンボマスター" title="wikilink">サンボマスター</a></strong></li>
-<li><a href="https://ja.wikipedia.org/wiki/グループ魂" title="wikilink">グループ魂</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ART-SCHOOL" title="wikilink">ART-SCHOOL</a></li>
+<li><a href="../Page/LOST_IN_TIME.md" title="wikilink">LOST IN TIME</a></li>
+<li><a href="../Page/THE_BACK_HORN.md" title="wikilink">THE BACK HORN</a></li>
+<li><strong><a href="../Page/サンボマスター.md" title="wikilink">サンボマスター</a></strong></li>
+<li><a href="../Page/グループ魂.md" title="wikilink">グループ魂</a></li>
+<li><a href="../Page/ART-SCHOOL.md" title="wikilink">ART-SCHOOL</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Syrup16g" title="wikilink">Syrup16g</a></li>
 <li><a href="../Page/曽我部恵一.md" title="wikilink">曽我部恵一</a></li>
 </ul></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/勝手にしやがれ_(ジャズバンド)" title="wikilink">勝手にしやがれ</a></li>
+<li><a href="../Page/勝手にしやがれ_(ジャズバンド).md" title="wikilink">勝手にしやがれ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/つばき" title="wikilink">つばき</a></li>
-<li>Ces Chiens(<a href="https://ja.wikipedia.org/wiki/早川義夫" title="wikilink">早川義夫</a>・<a href="https://ja.wikipedia.org/wiki/佐久間正英" title="wikilink">佐久間正英</a>)</li>
+<li>Ces Chiens(<a href="../Page/早川義夫.md" title="wikilink">早川義夫</a>・<a href="../Page/佐久間正英.md" title="wikilink">佐久間正英</a>)</li>
 <li><a href="https://ja.wikipedia.org/wiki/つじあやの" title="wikilink">つじあやの</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/SPARTA_LOCALS" title="wikilink">SPARTA LOCALS</a></li>
-<li><strong><a href="https://ja.wikipedia.org/wiki/BEAT_CRUSADERS" title="wikilink">BEAT CRUSADERS</a></strong></li>
+<li><a href="../Page/SPARTA_LOCALS.md" title="wikilink">SPARTA LOCALS</a></li>
+<li><strong><a href="../Page/BEAT_CRUSADERS.md" title="wikilink">BEAT CRUSADERS</a></strong></li>
 <li><a href="../Page/椿屋四重奏.md" title="wikilink">椿屋四重奏</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ランクヘッド" title="wikilink">ランクヘッド</a></li>
 </ul>
@@ -260,20 +260,20 @@ with NEW BLUE DAY HORNS</strong></li>
 <td><p>12月29日</p></td>
 <td><ul>
 <li><a href="../Page/ORANGE_RANGE.md" title="wikilink">ORANGE RANGE</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/GOING_UNDER_GROUND" title="wikilink">GOING UNDER GROUND</a></li>
+<li><a href="../Page/GOING_UNDER_GROUND.md" title="wikilink">GOING UNDER GROUND</a></li>
 <li><a href="../Page/ACIDMAN.md" title="wikilink">ACIDMAN</a></li>
 <li><a href="../Page/奥田民生.md" title="wikilink">奥田民生</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ELLEGARDEN" title="wikilink">ELLEGARDEN</a></li>
+<li><a href="../Page/ELLEGARDEN.md" title="wikilink">ELLEGARDEN</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Ken_Yokoyama" title="wikilink">Ken Yokoyama</a></li>
 <li><a href="../Page/東京スカパラダイスオーケストラ.md" title="wikilink">東京スカパラダイスオーケストラ</a></li>
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/syrup16g" title="wikilink">syrup16g</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/フジファブリック" title="wikilink">フジファブリック</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/B-DASH" title="wikilink">B-DASH</a></li>
+<li><a href="../Page/フジファブリック.md" title="wikilink">フジファブリック</a></li>
+<li><a href="../Page/B-DASH.md" title="wikilink">B-DASH</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/BENNIE_K" title="wikilink">BENNIE K</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/the_band_apart" title="wikilink">the band apart</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/THE_BACK_HORN" title="wikilink">THE BACK HORN</a></li>
+<li><a href="../Page/THE_BACK_HORN.md" title="wikilink">THE BACK HORN</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/木村カエラ" title="wikilink">木村カエラ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ストレイテナー" title="wikilink">ストレイテナー</a></li>
 </ul></td>
@@ -284,11 +284,11 @@ with NEW BLUE DAY HORNS</strong></li>
 <li><a href="https://ja.wikipedia.org/wiki/つばき" title="wikilink">つばき</a></li>
 <li><a href="../Page/アナログフィッシュ.md" title="wikilink">アナログフィッシュ</a></li>
 <li><a href="../Page/セカイイチ.md" title="wikilink">セカイイチ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/The_Miceteeth" title="wikilink">The Miceteeth</a></li>
+<li><a href="../Page/The_Miceteeth.md" title="wikilink">The Miceteeth</a></li>
 <li><a href="../Page/Caravan.md" title="wikilink">Caravan</a></li>
 </ul></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/RAM_RIDER" title="wikilink">RAM RIDER</a></li>
+<li><a href="../Page/RAM_RIDER.md" title="wikilink">RAM RIDER</a></li>
 <li><a href="../Page/ロケットマン.md" title="wikilink">ロケットマン</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/endive" title="wikilink">endive</a>(from Dragon Ash)</li>
 </ul></td>
@@ -296,23 +296,23 @@ with NEW BLUE DAY HORNS</strong></li>
 <tr class="even">
 <td><p>12月30日</p></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/サンボマスター" title="wikilink">サンボマスター</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/RHYMESTER" title="wikilink">RHYMESTER</a></li>
+<li><a href="../Page/サンボマスター.md" title="wikilink">サンボマスター</a></li>
+<li><a href="../Page/RHYMESTER.md" title="wikilink">RHYMESTER</a></li>
 <li><a href="../Page/BACK_DROP_BOMB.md" title="wikilink">BACK DROP BOMB</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/グループ魂" title="wikilink">グループ魂</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/GRAPEVINE" title="wikilink">GRAPEVINE</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ZAZEN_BOYS" title="wikilink">ZAZEN BOYS</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
+<li><a href="../Page/グループ魂.md" title="wikilink">グループ魂</a></li>
+<li><a href="../Page/GRAPEVINE.md" title="wikilink">GRAPEVINE</a></li>
+<li><a href="../Page/ZAZEN_BOYS.md" title="wikilink">ZAZEN BOYS</a></li>
+<li><a href="../Page/ASIAN_KUNG-FU_GENERATION.md" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
 </ul></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/POLYSICS" title="wikilink">POLYSICS</a></li>
+<li><a href="../Page/POLYSICS.md" title="wikilink">POLYSICS</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/eastern_youth" title="wikilink">eastern youth</a></li>
 <li><a href="../Page/曽我部恵一.md" title="wikilink">曽我部恵一</a>バンド</li>
 <li><a href="../Page/スネオヘアー.md" title="wikilink">スネオヘアー</a></li>
 <li><a href="../Page/椿屋四重奏.md" title="wikilink">椿屋四重奏</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/MASTER_LOW" title="wikilink">MASTER LOW</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/キリンジ" title="wikilink">キリンジ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/PENPALS" title="wikilink">PENPALS</a></li>
+<li><a href="../Page/キリンジ.md" title="wikilink">キリンジ</a></li>
+<li><a href="../Page/PENPALS.md" title="wikilink">PENPALS</a></li>
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/the_ARROWS" title="wikilink">the ARROWS</a></li>
@@ -322,10 +322,10 @@ with NEW BLUE DAY HORNS</strong></li>
 <li>CORNER</li>
 <li><a href="../Page/HIFANA.md" title="wikilink">HIFANA</a></li>
 <li>The かまどうま/エレクトリック・カマドウマ</li>
-<li><a href="https://ja.wikipedia.org/wiki/MO&#39;SOME_TONEBENDER" title="wikilink">MO'SOME TONEBENDER</a></li>
+<li><a href="../Page/MO&#39;SOME_TONEBENDER.md" title="wikilink">MO'SOME TONEBENDER</a></li>
 </ul></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/TAICHI_MASTER" title="wikilink">TAICHI MASTER</a></li>
+<li><a href="../Page/TAICHI_MASTER.md" title="wikilink">TAICHI MASTER</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ハヤシヒロユキ" title="wikilink">ハヤシヒロユキ</a>(POLYSICS)</li>
 <li>TEAM 紅卍(松尾スズキ・河井克夫)</li>
 </ul></td>
@@ -333,44 +333,44 @@ with NEW BLUE DAY HORNS</strong></li>
 <tr class="odd">
 <td><p>12月31日</p></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/真心ブラザーズ" title="wikilink">真心ブラザーズ</a>4人バンドVersion</li>
+<li><a href="../Page/真心ブラザーズ.md" title="wikilink">真心ブラザーズ</a>4人バンドVersion</li>
 <li><a href="https://ja.wikipedia.org/wiki/エレファントカシマシ" title="wikilink">エレファントカシマシ</a></li>
 <li><a href="../Page/TERIYAKI_BOYZ.md" title="wikilink">TERIYAKI BOYZ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/BRAHMAN" title="wikilink">BRAHMAN</a></li>
+<li><a href="../Page/BRAHMAN.md" title="wikilink">BRAHMAN</a></li>
 <li><strong><a href="../Page/くるり.md" title="wikilink">くるり</a></strong></li>
-<li><a href="https://ja.wikipedia.org/wiki/忌野清志郎" title="wikilink">忌野清志郎</a>&amp;NICE MIDDLE<br />
+<li><a href="../Page/忌野清志郎.md" title="wikilink">忌野清志郎</a>&amp;NICE MIDDLE<br />
 with NEW BLUE DAY HORNS</li>
-<li><a href="https://ja.wikipedia.org/wiki/KREVA" title="wikilink">KREVA</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/BEAT_CRUSADERS" title="wikilink">BEAT CRUSADERS</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/レミオロメン" title="wikilink">レミオロメン</a></li>
+<li><a href="../Page/KREVA.md" title="wikilink">KREVA</a></li>
+<li><a href="../Page/BEAT_CRUSADERS.md" title="wikilink">BEAT CRUSADERS</a></li>
+<li><a href="../Page/レミオロメン.md" title="wikilink">レミオロメン</a></li>
 </ul></td>
 <td><ul>
 <li><a href="../Page/AIR.md" title="wikilink">AIR</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Salyu" title="wikilink">Salyu</a></li>
 <li><a href="../Page/麗蘭.md" title="wikilink">麗蘭</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ART-SCHOOL" title="wikilink">ART-SCHOOL</a></li>
+<li><a href="../Page/ART-SCHOOL.md" title="wikilink">ART-SCHOOL</a></li>
 <li><a href="../Page/PUFFY.md" title="wikilink">PUFFY</a></li>
-<li><strong><a href="https://ja.wikipedia.org/wiki/10-FEET" title="wikilink">10-FEET</a></strong></li>
+<li><strong><a href="../Page/10-FEET.md" title="wikilink">10-FEET</a></strong></li>
 <li><a href="https://ja.wikipedia.org/wiki/locofrank" title="wikilink">locofrank</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/LOST_IN_TIME" title="wikilink">LOST IN TIME</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/Jackson_vibe" title="wikilink">Jackson vibe</a></li>
+<li><a href="../Page/LOST_IN_TIME.md" title="wikilink">LOST IN TIME</a></li>
+<li><a href="../Page/Jackson_vibe.md" title="wikilink">Jackson vibe</a></li>
 <li><a href="../Page/DOPING_PANDA.md" title="wikilink">DOPING PANDA</a></li>
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/RADWIMPS" title="wikilink">RADWIMPS</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/少年ナイフ" title="wikilink">少年ナイフ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/音速ライン" title="wikilink">音速ライン</a></li>
+<li><a href="../Page/少年ナイフ.md" title="wikilink">少年ナイフ</a></li>
+<li><a href="../Page/音速ライン.md" title="wikilink">音速ライン</a></li>
 <li><a href="../Page/No_Regret_Life.md" title="wikilink">No Regret Life</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ランクヘッド" title="wikilink">ランクヘッド</a></li>
 <li><strong><a href="https://ja.wikipedia.org/wiki/bonobos" title="wikilink">bonobos</a></strong></li>
 <li><a href="https://ja.wikipedia.org/wiki/RYUKYUDISKO" title="wikilink">RYUKYUDISKO</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/HiGE" title="wikilink">髭（HiGE）</a></li>
+<li><a href="../Page/HiGE.md" title="wikilink">髭（HiGE）</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/tobaccojuice" title="wikilink">tobaccojuice</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/YOUR_SONG_IS_GOOD" title="wikilink">YOUR SONG IS GOOD</a></li>
+<li><a href="../Page/YOUR_SONG_IS_GOOD.md" title="wikilink">YOUR SONG IS GOOD</a></li>
 </ul></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/HALFBY" title="wikilink">HALFBY</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ダイノジ" title="wikilink">ダイノジ</a></li>
+<li><a href="../Page/HALFBY.md" title="wikilink">HALFBY</a></li>
+<li><a href="../Page/ダイノジ.md" title="wikilink">ダイノジ</a></li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -410,17 +410,17 @@ RESIDENT DJ's
 <td><p>12月29日</p></td>
 <td><ul>
 <li><a href="../Page/PUFFY.md" title="wikilink">PUFFY</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/LOST_IN_TIME" title="wikilink">LOST IN TIME</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/YO-KING" title="wikilink">YO-KING</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/MO&#39;SOME_TONEBENDER" title="wikilink">MO'SOME TONEBENDER</a></li>
+<li><a href="../Page/LOST_IN_TIME.md" title="wikilink">LOST IN TIME</a></li>
+<li><a href="../Page/YO-KING.md" title="wikilink">YO-KING</a></li>
+<li><a href="../Page/MO&#39;SOME_TONEBENDER.md" title="wikilink">MO'SOME TONEBENDER</a></li>
 <li><a href="../Page/100s.md" title="wikilink">100s</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/KEN_YOKOYAMA" title="wikilink">KEN YOKOYAMA</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ELLEGARDEN" title="wikilink">ELLEGARDEN</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/斉藤和義" title="wikilink">斉藤和義</a></li>
+<li><a href="../Page/ELLEGARDEN.md" title="wikilink">ELLEGARDEN</a></li>
+<li><a href="../Page/斉藤和義.md" title="wikilink">斉藤和義</a></li>
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/髭（HiGE）" title="wikilink">髭（HiGE）</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/YOUR_SONG_IS_GOOD" title="wikilink">YOUR SONG IS GOOD</a></li>
+<li><a href="../Page/YOUR_SONG_IS_GOOD.md" title="wikilink">YOUR SONG IS GOOD</a></li>
 <li><a href="../Page/SOIL&amp;&quot;PIMP&quot;SESSIONS.md" title="wikilink">SOIL&amp;"PIMP"SESSIONS</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/YUI_(歌手)" title="wikilink">YUI</a></li>
 <li><a href="../Page/BOOM_BOOM_SATELLITES.md" title="wikilink">BOOM BOOM SATELLITES</a></li>
@@ -430,34 +430,34 @@ RESIDENT DJ's
 </ul></td>
 <td><ul>
 <li>小野眞一（<a href="../Page/100s.md" title="wikilink">100s</a>）</li>
-<li><a href="https://ja.wikipedia.org/wiki/RAM_RIDER" title="wikilink">RAM RIDER</a></li>
+<li><a href="../Page/RAM_RIDER.md" title="wikilink">RAM RIDER</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/中塚武" title="wikilink">中塚武</a></li>
 </ul></td>
 </tr>
 <tr class="even">
 <td><p>12月30日</p></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/THE_BACK_HORN" title="wikilink">THE BACK HORN</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ULTRA_BRAiN" title="wikilink">ULTRA BRAiN</a></li>
+<li><a href="../Page/THE_BACK_HORN.md" title="wikilink">THE BACK HORN</a></li>
+<li><a href="../Page/ULTRA_BRAiN.md" title="wikilink">ULTRA BRAiN</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/フルカワミキ" title="wikilink">フルカワミキ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/フジファブリック" title="wikilink">フジファブリック</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/BEAT_CRUSADERS" title="wikilink">BEAT CRUSADERS</a></li>
+<li><a href="../Page/フジファブリック.md" title="wikilink">フジファブリック</a></li>
+<li><a href="../Page/BEAT_CRUSADERS.md" title="wikilink">BEAT CRUSADERS</a></li>
 <li><a href="../Page/チャットモンチー.md" title="wikilink">チャットモンチー</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ザ・クロマニヨンズ" title="wikilink">ザ・クロマニヨンズ</a></li>
+<li><a href="../Page/ザ・クロマニヨンズ.md" title="wikilink">ザ・クロマニヨンズ</a></li>
 <li><a href="../Page/くるり.md" title="wikilink">くるり</a></li>
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/Salyu" title="wikilink">Salyu</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/キャプテンストライダム" title="wikilink">キャプテンストライダム</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/OVERGROUND_ACOUSTIC_UNDERGROUND" title="wikilink">OVERGROUND ACOUSTIC UNDERGROUND</a></li>
+<li><a href="../Page/OVERGROUND_ACOUSTIC_UNDERGROUND.md" title="wikilink">OVERGROUND ACOUSTIC UNDERGROUND</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/BENNIE_K" title="wikilink">BENNIE K</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/KREVA" title="wikilink">KREVA</a></li>
+<li><a href="../Page/KREVA.md" title="wikilink">KREVA</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/マキシマム_ザ_ホルモン" title="wikilink">マキシマム ザ ホルモン</a></li>
 <li><a href="../Page/ACIDMAN.md" title="wikilink">ACIDMAN</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/吉井和哉" title="wikilink">吉井和哉</a></li>
+<li><a href="../Page/吉井和哉.md" title="wikilink">吉井和哉</a></li>
 </ul></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/TAICHI_MASTER" title="wikilink">TAICHI MASTER</a></li>
+<li><a href="../Page/TAICHI_MASTER.md" title="wikilink">TAICHI MASTER</a></li>
 <li><a href="../Page/曽我部恵一.md" title="wikilink">曽我部恵一</a></li>
 </ul></td>
 </tr>
@@ -465,32 +465,32 @@ RESIDENT DJ's
 <td><p>12月31日</p></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/オレスカバンド" title="wikilink">オレスカバンド</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ホフディラン" title="wikilink">ホフディラン</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ART-SCHOOL" title="wikilink">ART-SCHOOL</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ジン_(バンド)" title="wikilink">ジン</a></li>
+<li><a href="../Page/ホフディラン.md" title="wikilink">ホフディラン</a></li>
+<li><a href="../Page/ART-SCHOOL.md" title="wikilink">ART-SCHOOL</a></li>
+<li><a href="../Page/ジン_(バンド).md" title="wikilink">ジン</a></li>
 <li><a href="../Page/曽我部恵一.md" title="wikilink">曽我部恵一</a>BAND</li>
 <li><a href="https://ja.wikipedia.org/wiki/エレファントカシマシ" title="wikilink">エレファントカシマシ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/東京事変" title="wikilink">東京事変</a></li>
+<li><a href="../Page/東京事変.md" title="wikilink">東京事変</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/locofrank" title="wikilink">locofrank</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/GRAPEVINE" title="wikilink">GRAPEVINE</a></li>
-<li><strong><a href="https://ja.wikipedia.org/wiki/レミオロメン" title="wikilink">レミオロメン</a></strong></li>
+<li><a href="../Page/GRAPEVINE.md" title="wikilink">GRAPEVINE</a></li>
+<li><strong><a href="../Page/レミオロメン.md" title="wikilink">レミオロメン</a></strong></li>
 </ul></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/POLYSICS" title="wikilink">POLYSICS</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ZAZEN_BOYS" title="wikilink">ZAZEN BOYS</a></li>
+<li><a href="../Page/POLYSICS.md" title="wikilink">POLYSICS</a></li>
+<li><a href="../Page/ZAZEN_BOYS.md" title="wikilink">ZAZEN BOYS</a></li>
 <li><a href="../Page/シュノーケル_(バンド).md" title="wikilink">シュノーケル</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/音速ライン" title="wikilink">音速ライン</a></li>
+<li><a href="../Page/音速ライン.md" title="wikilink">音速ライン</a></li>
 <li><a href="../Page/Base_Ball_Bear.md" title="wikilink">Base Ball Bear</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/bonobos" title="wikilink">bonobos</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/10-FEET" title="wikilink">10-FEET</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/GO!GO!7188" title="wikilink">GO!GO!7188</a></li>
+<li><a href="../Page/10-FEET.md" title="wikilink">10-FEET</a></li>
+<li><a href="../Page/GO!GO!7188.md" title="wikilink">GO!GO!7188</a></li>
 <li><a href="../Page/佐野元春.md" title="wikilink">佐野元春</a></li>
 <li><strong><a href="../Page/東京スカパラダイスオーケストラ.md" title="wikilink">東京スカパラダイスオーケストラ</a></strong></li>
 </ul></td>
 <td><ul>
-<li>ハヤシヒロユキ（<a href="https://ja.wikipedia.org/wiki/POLYSICS" title="wikilink">POLYSICS</a>）</li>
+<li>ハヤシヒロユキ（<a href="../Page/POLYSICS.md" title="wikilink">POLYSICS</a>）</li>
 <li>Handsomeboy Technique</li>
-<li><a href="https://ja.wikipedia.org/wiki/HALFBY" title="wikilink">HALFBY</a></li>
+<li><a href="../Page/HALFBY.md" title="wikilink">HALFBY</a></li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -529,30 +529,30 @@ RESIDENT DJ's
 <td><p>12月29日</p></td>
 <td><ul>
 <li><a href="../Page/くるり.md" title="wikilink">くるり</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/フジファブリック" title="wikilink">フジファブリック</a></li>
+<li><a href="../Page/フジファブリック.md" title="wikilink">フジファブリック</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/BENNIE_K" title="wikilink">BENNIE K</a></li>
 <li><a href="../Page/ACIDMAN.md" title="wikilink">ACIDMAN</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/10-FEET" title="wikilink">10-FEET</a></li>
+<li><a href="../Page/10-FEET.md" title="wikilink">10-FEET</a></li>
 <li>The Verbs + <a href="../Page/奥田民生.md" title="wikilink">奥田民生</a></li>
 <li><a href="../Page/東京スカパラダイスオーケストラ.md" title="wikilink">東京スカパラダイスオーケストラ</a></li>
 </ul></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/ULTRA_BRAiN" title="wikilink">ULTRA BRAiN</a></li>
+<li><a href="../Page/ULTRA_BRAiN.md" title="wikilink">ULTRA BRAiN</a></li>
 <li><a href="../Page/The_ピーズ.md" title="wikilink">The ピーズ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/SPARTA_LOCALS" title="wikilink">SPARTA LOCALS</a></li>
+<li><a href="../Page/SPARTA_LOCALS.md" title="wikilink">SPARTA LOCALS</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Salyu" title="wikilink">Salyu</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/bonobos" title="wikilink">bonobos</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ART-SCHOOL" title="wikilink">ART-SCHOOL</a></li>
+<li><a href="../Page/ART-SCHOOL.md" title="wikilink">ART-SCHOOL</a></li>
 <li><a href="../Page/SEAMO.md" title="wikilink">SEAMO</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/locofrank" title="wikilink">locofrank</a></li>
 </ul></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/ジン_(バンド)" title="wikilink">ジン</a></li>
+<li><a href="../Page/ジン_(バンド).md" title="wikilink">ジン</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/REVERSLOW" title="wikilink">REVERSLOW</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/キャプテンストライダム" title="wikilink">キャプテンストライダム</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/つばき" title="wikilink">つばき</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/SPECIAL_OTHERS" title="wikilink">SPECIAL OTHERS</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/勝手にしやがれ_(ジャズバンド)" title="wikilink">勝手にしやがれ</a></li>
+<li><a href="../Page/SPECIAL_OTHERS.md" title="wikilink">SPECIAL OTHERS</a></li>
+<li><a href="../Page/勝手にしやがれ_(ジャズバンド).md" title="wikilink">勝手にしやがれ</a></li>
 </ul></td>
 <td><ul>
 <li>SARCASTIC + <a href="https://ja.wikipedia.org/wiki/ZOOKEEPER" title="wikilink">ZOOKEEPER</a></li>
@@ -561,33 +561,33 @@ RESIDENT DJ's
 <li><a href="https://ja.wikipedia.org/wiki/DOES" title="wikilink">DOES</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/凛として時雨" title="wikilink">凛として時雨</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/lostage" title="wikilink">lostage</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/HOLSTEIN" title="wikilink">HOLSTEIN</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ミドリカワ書房" title="wikilink">ミドリカワ書房</a></li>
+<li><a href="../Page/HOLSTEIN.md" title="wikilink">HOLSTEIN</a></li>
+<li><a href="../Page/ミドリカワ書房.md" title="wikilink">ミドリカワ書房</a></li>
 </ul></td>
 <td><ul>
 <li>小堀裕之（<a href="../Page/2丁拳銃.md" title="wikilink">2丁拳銃</a>）</li>
 <li>ハヤシムネマサ（<a href="https://ja.wikipedia.org/wiki/REVERSLOW" title="wikilink">REVERSLOW</a>）</li>
-<li><a href="https://ja.wikipedia.org/wiki/TAICHI_MASTER" title="wikilink">TAICHI MASTER</a></li>
+<li><a href="../Page/TAICHI_MASTER.md" title="wikilink">TAICHI MASTER</a></li>
 </ul></td>
 </tr>
 <tr class="even">
 <td><p>12月30日</p></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/ZAZEN_BOYS" title="wikilink">ZAZEN BOYS</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/GRAPEVINE" title="wikilink">GRAPEVINE</a></li>
+<li><a href="../Page/ZAZEN_BOYS.md" title="wikilink">ZAZEN BOYS</a></li>
+<li><a href="../Page/GRAPEVINE.md" title="wikilink">GRAPEVINE</a></li>
 <li><a href="../Page/電気グルーヴ.md" title="wikilink">電気グルーヴ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/KEN_YOKOYAMA" title="wikilink">KEN YOKOYAMA</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/斉藤和義" title="wikilink">斉藤和義</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/東京事変" title="wikilink">東京事変</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ELLEGARDEN" title="wikilink">ELLEGARDEN</a></li>
+<li><a href="../Page/斉藤和義.md" title="wikilink">斉藤和義</a></li>
+<li><a href="../Page/東京事変.md" title="wikilink">東京事変</a></li>
+<li><a href="../Page/ELLEGARDEN.md" title="wikilink">ELLEGARDEN</a></li>
 </ul></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/YO-KING" title="wikilink">YO-KING</a></li>
+<li><a href="../Page/YO-KING.md" title="wikilink">YO-KING</a></li>
 <li><a href="../Page/PUFFY.md" title="wikilink">PUFFY</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/FRONTIER_BACKYARD" title="wikilink">FRONTIER BACKYARD</a></li>
 <li><a href="../Page/スネオヘアー.md" title="wikilink">スネオヘアー</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/MO&#39;SOME_TONEBENDER" title="wikilink">MO'SOME TONEBENDER</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/LOST_IN_TIME" title="wikilink">LOST IN TIME</a></li>
+<li><a href="../Page/MO&#39;SOME_TONEBENDER.md" title="wikilink">MO'SOME TONEBENDER</a></li>
+<li><a href="../Page/LOST_IN_TIME.md" title="wikilink">LOST IN TIME</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/MASTER_LOW" title="wikilink">MASTER LOW</a></li>
 <li><a href="../Page/Caravan.md" title="wikilink">Caravan</a></li>
 </ul></td>
@@ -597,51 +597,51 @@ RESIDENT DJ's
 <li><a href="../Page/VOLA_&amp;_THE_ORIENTAL_MACHINE.md" title="wikilink">VOLA &amp; THE ORIENTAL MACHINE</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/CUBISMO_GRAFICO_FIVE" title="wikilink">CUBISMO GRAFICO FIVE</a></li>
 <li><a href="../Page/シュノーケル_(バンド).md" title="wikilink">シュノーケル</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ASPARAGUS" title="wikilink">ASPARAGUS</a></li>
+<li><a href="../Page/ASPARAGUS.md" title="wikilink">ASPARAGUS</a></li>
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/SUEMITSU_&amp;_THE_SUEMITH" title="wikilink">SUEMITSU &amp; THE SUEMITH</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/オレスカバンド" title="wikilink">オレスカバンド</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/LINK_(バンド)" title="wikilink">LINK</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/SOUTH_BLOW" title="wikilink">SOUTH BLOW</a></li>
+<li><a href="../Page/LINK_(バンド).md" title="wikilink">LINK</a></li>
+<li><a href="../Page/SOUTH_BLOW.md" title="wikilink">SOUTH BLOW</a></li>
 <li><a href="../Page/No_Regret_Life.md" title="wikilink">No Regret Life</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/テルスター_(バンド)" title="wikilink">テルスター</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/Bahashishi" title="wikilink">Bahashishi</a></li>
+<li><a href="../Page/Bahashishi.md" title="wikilink">Bahashishi</a></li>
 <li><a href="../Page/ザ50回転ズ.md" title="wikilink">ザ50回転ズ</a></li>
 </ul></td>
 <td><ul>
 <li>Handsomeboy Technique</li>
-<li><a href="https://ja.wikipedia.org/wiki/HALFBY" title="wikilink">HALFBY</a></li>
+<li><a href="../Page/HALFBY.md" title="wikilink">HALFBY</a></li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td><p>12月31日</p></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/BEAT_CRUSADERS" title="wikilink">BEAT CRUSADERS</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/RHYMESTER" title="wikilink">RHYMESTER</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/KREVA" title="wikilink">KREVA</a></li>
+<li><a href="../Page/BEAT_CRUSADERS.md" title="wikilink">BEAT CRUSADERS</a></li>
+<li><a href="../Page/RHYMESTER.md" title="wikilink">RHYMESTER</a></li>
+<li><a href="../Page/KREVA.md" title="wikilink">KREVA</a></li>
 <li><a href="../Page/BOOM_BOOM_SATELLITES.md" title="wikilink">BOOM BOOM SATELLITES</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/GANGA_ZUMBA" title="wikilink">GANGA ZUMBA</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ザ・クロマニヨンズ" title="wikilink">ザ・クロマニヨンズ</a></li>
+<li><a href="../Page/GANGA_ZUMBA.md" title="wikilink">GANGA ZUMBA</a></li>
+<li><a href="../Page/ザ・クロマニヨンズ.md" title="wikilink">ザ・クロマニヨンズ</a></li>
 <li><a href="../Page/100s.md" title="wikilink">100s</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/木村カエラ" title="wikilink">木村カエラ</a></li>
-<li><strong><a href="https://ja.wikipedia.org/wiki/吉井和哉" title="wikilink">吉井和哉</a></strong></li>
+<li><strong><a href="../Page/吉井和哉.md" title="wikilink">吉井和哉</a></strong></li>
 </ul></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/RIZE" title="wikilink">RIZE</a></li>
+<li><a href="../Page/RIZE.md" title="wikilink">RIZE</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/フルカワミキ" title="wikilink">フルカワミキ</a></li>
 <li><a href="../Page/BACK_DROP_BOMB.md" title="wikilink">BACK DROP BOMB</a></li>
 <li><a href="../Page/麗蘭.md" title="wikilink">麗蘭</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/YOUR_SONG_IS_GOOD" title="wikilink">YOUR SONG IS GOOD</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/OVERGROUND_ACOUSTIC_UNDERGROUND" title="wikilink">OVERGROUND ACOUSTIC UNDERGROUND</a></li>
+<li><a href="../Page/YOUR_SONG_IS_GOOD.md" title="wikilink">YOUR SONG IS GOOD</a></li>
+<li><a href="../Page/OVERGROUND_ACOUSTIC_UNDERGROUND.md" title="wikilink">OVERGROUND ACOUSTIC UNDERGROUND</a></li>
 <li><a href="../Page/SOIL&amp;&quot;PIMP&quot;SESSIONS.md" title="wikilink">SOIL&amp;"PIMP"SESSIONS</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/eastern_youth" title="wikilink">eastern youth</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/THE_BACK_HORN" title="wikilink">THE BACK HORN</a></li>
+<li><a href="../Page/THE_BACK_HORN.md" title="wikilink">THE BACK HORN</a></li>
 <li><strong><a href="../Page/DOPING_PANDA.md" title="wikilink">DOPING PANDA</a></strong></li>
 </ul></td>
 <td><ul>
 <li><a href="../Page/MARS_EURYTHMICS.md" title="wikilink">MARS EURYTHMICS</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/少年ナイフ" title="wikilink">少年ナイフ</a></li>
+<li><a href="../Page/少年ナイフ.md" title="wikilink">少年ナイフ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/toe" title="wikilink">toe</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/PANTA" title="wikilink">PANTA</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/THE_COLLECTORS" title="wikilink">THE COLLECTORS</a></li>
@@ -650,24 +650,24 @@ RESIDENT DJ's
 <li><strong><a href="../Page/アナログフィッシュ.md" title="wikilink">アナログフィッシュ</a></strong></li>
 </ul></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/PERIDOTS" title="wikilink">PERIDOTS</a></li>
+<li><a href="../Page/PERIDOTS.md" title="wikilink">PERIDOTS</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ghostnote" title="wikilink">ghostnote</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/plane" title="wikilink">plane</a></li>
 <li><a href="../Page/榎本くるみ.md" title="wikilink">榎本くるみ</a></li>
 <li><a href="../Page/NIRGILIS.md" title="wikilink">NIRGILIS</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/Good_Dog_Happy_Men" title="wikilink">Good Dog Happy Men</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/てるる..." title="wikilink">てるる...</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/APOGEE" title="wikilink">APOGEE</a></li>
+<li><a href="../Page/Good_Dog_Happy_Men.md" title="wikilink">Good Dog Happy Men</a></li>
+<li><a href="../Page/てるる....md" title="wikilink">てるる...</a></li>
+<li><a href="../Page/APOGEE.md" title="wikilink">APOGEE</a></li>
 <li><a href="../Page/CHABA.md" title="wikilink">CHABA</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/asphalt_frustration" title="wikilink">asphalt frustration</a></li>
-<li><strong><a href="https://ja.wikipedia.org/wiki/SAKEROCK" title="wikilink">SAKEROCK</a></strong></li>
+<li><strong><a href="../Page/SAKEROCK.md" title="wikilink">SAKEROCK</a></strong></li>
 </ul></td>
 <td><ul>
 <li>TEAM 紅卍<br />
 （<a href="../Page/松尾スズキ.md" title="wikilink">松尾スズキ</a>・河井克夫）</li>
-<li><a href="https://ja.wikipedia.org/wiki/やついいちろう" title="wikilink">やついいちろう</a><br />
-（<a href="https://ja.wikipedia.org/wiki/エレキコミック" title="wikilink">エレキコミック</a>）</li>
-<li><a href="https://ja.wikipedia.org/wiki/RAM_RIDER" title="wikilink">RAM RIDER</a></li>
+<li><a href="../Page/やついいちろう.md" title="wikilink">やついいちろう</a><br />
+（<a href="../Page/エレキコミック.md" title="wikilink">エレキコミック</a>）</li>
+<li><a href="../Page/RAM_RIDER.md" title="wikilink">RAM RIDER</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/MU-STARS" title="wikilink">MU-STARS</a></li>
 </ul></td>
 </tr>
@@ -678,34 +678,34 @@ RESIDENT DJ's
 <li><a href="../Page/チャットモンチー.md" title="wikilink">チャットモンチー</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/YUI_(歌手)" title="wikilink">YUI</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/エレファントカシマシ" title="wikilink">エレファントカシマシ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/GO!GO!7188" title="wikilink">GO!GO!7188</a></li>
+<li><a href="../Page/GO!GO!7188.md" title="wikilink">GO!GO!7188</a></li>
 <li><a href="../Page/佐野元春.md" title="wikilink">佐野元春</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/サンボマスター" title="wikilink">サンボマスター</a></li>
+<li><a href="../Page/サンボマスター.md" title="wikilink">サンボマスター</a></li>
 </ul></td>
 <td><ul>
 <li><a href="../Page/Base_Ball_Bear.md" title="wikilink">Base Ball Bear</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/B-DASH" title="wikilink">B-DASH</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/POLYSICS" title="wikilink">POLYSICS</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/音速ライン" title="wikilink">音速ライン</a></li>
+<li><a href="../Page/B-DASH.md" title="wikilink">B-DASH</a></li>
+<li><a href="../Page/POLYSICS.md" title="wikilink">POLYSICS</a></li>
+<li><a href="../Page/音速ライン.md" title="wikilink">音速ライン</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/メレンゲ" title="wikilink">メレンゲ</a></li>
 <li><a href="../Page/曽我部恵一.md" title="wikilink">曽我部恵一</a>BAND</li>
-<li><a href="https://ja.wikipedia.org/wiki/TRICERATOPS" title="wikilink">TRICERATOPS</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ホフディラン" title="wikilink">ホフディラン</a></li>
+<li><a href="../Page/TRICERATOPS.md" title="wikilink">TRICERATOPS</a></li>
+<li><a href="../Page/ホフディラン.md" title="wikilink">ホフディラン</a></li>
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/怒髪天" title="wikilink">怒髪天</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/the_ARROWS" title="wikilink">the ARROWS</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/smorgas" title="wikilink">smorgas</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/TOMOVSKY" title="wikilink">TOMOVSKY</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/DEPAPEPE" title="wikilink">DEPAPEPE</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/HiGE" title="wikilink">髭（HiGE）</a></li>
+<li><a href="../Page/TOMOVSKY.md" title="wikilink">TOMOVSKY</a></li>
+<li><a href="../Page/DEPAPEPE.md" title="wikilink">DEPAPEPE</a></li>
+<li><a href="../Page/HiGE.md" title="wikilink">髭（HiGE）</a></li>
 </ul></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/THE_BEACHES" title="wikilink">THE BEACHES</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/9mm_Parabellum_Bullet" title="wikilink">9mm Parabellum Bullet</a></li>
+<li><a href="../Page/THE_BEACHES.md" title="wikilink">THE BEACHES</a></li>
+<li><a href="../Page/9mm_Parabellum_Bullet.md" title="wikilink">9mm Parabellum Bullet</a></li>
 <li><a href="../Page/LAST_ALLIANCE.md" title="wikilink">LAST ALLIANCE</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/UNDER_THE_COUNTER" title="wikilink">UNDER THE COUNTER</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/STAN" title="wikilink">STAN</a></li>
+<li><a href="../Page/UNDER_THE_COUNTER.md" title="wikilink">UNDER THE COUNTER</a></li>
+<li><a href="../Page/STAN.md" title="wikilink">STAN</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/dustbox" title="wikilink">dustbox</a></li>
 <li><a href="../Page/NICO_Touches_the_Walls.md" title="wikilink">NICO Touches the Walls</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/hare-brained_unity" title="wikilink">hare-brained unity</a></li>
@@ -713,7 +713,7 @@ RESIDENT DJ's
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/中塚武" title="wikilink">中塚武</a></li>
 <li>増子直純（<a href="https://ja.wikipedia.org/wiki/怒髪天" title="wikilink">怒髪天</a>）</li>
-<li>ハヤシヒロユキ（<a href="https://ja.wikipedia.org/wiki/POLYSICS" title="wikilink">POLYSICS</a>）</li>
+<li>ハヤシヒロユキ（<a href="../Page/POLYSICS.md" title="wikilink">POLYSICS</a>）</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -752,27 +752,27 @@ RESIDENT DJ's
 <tr class="odd">
 <td><p>12月29日</p></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/レミオロメン" title="wikilink">レミオロメン</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/POLYSICS" title="wikilink">POLYSICS</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/斉藤和義" title="wikilink">斉藤和義</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/GRAPEVINE" title="wikilink">GRAPEVINE</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/YO-KING" title="wikilink">YO-KING</a></li>
+<li><a href="../Page/レミオロメン.md" title="wikilink">レミオロメン</a></li>
+<li><a href="../Page/POLYSICS.md" title="wikilink">POLYSICS</a></li>
+<li><a href="../Page/斉藤和義.md" title="wikilink">斉藤和義</a></li>
+<li><a href="../Page/GRAPEVINE.md" title="wikilink">GRAPEVINE</a></li>
+<li><a href="../Page/YO-KING.md" title="wikilink">YO-KING</a></li>
 <li><a href="../Page/奥田民生.md" title="wikilink">奥田民生</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ストレイテナー" title="wikilink">ストレイテナー</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/BEAT_CRUSADERS" title="wikilink">BEAT CRUSADERS</a></li>
+<li><a href="../Page/BEAT_CRUSADERS.md" title="wikilink">BEAT CRUSADERS</a></li>
 </ul></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/SPECIAL_OTHERS" title="wikilink">SPECIAL OTHERS</a></li>
+<li><a href="../Page/SPECIAL_OTHERS.md" title="wikilink">SPECIAL OTHERS</a></li>
 <li><a href="../Page/SEAMO.md" title="wikilink">SEAMO</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ZAZEN_BOYS" title="wikilink">ZAZEN BOYS</a></li>
+<li><a href="../Page/ZAZEN_BOYS.md" title="wikilink">ZAZEN BOYS</a></li>
 <li><a href="../Page/ザ50回転ズ.md" title="wikilink">ザ50回転ズ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/LOW_IQ_01" title="wikilink">LOW IQ 01</a> &amp; MASTER LOW</li>
 <li><a href="https://ja.wikipedia.org/wiki/dustbox" title="wikilink">dustbox</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/YOUR_SONG_IS_GOOD" title="wikilink">YOUR SONG IS GOOD</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/フジファブリック" title="wikilink">フジファブリック</a></li>
+<li><a href="../Page/YOUR_SONG_IS_GOOD.md" title="wikilink">YOUR SONG IS GOOD</a></li>
+<li><a href="../Page/フジファブリック.md" title="wikilink">フジファブリック</a></li>
 </ul></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/やついいちろう" title="wikilink">やついいちろう</a>（<a href="https://ja.wikipedia.org/wiki/エレキコミック" title="wikilink">エレキコミック</a>）</li>
+<li><a href="../Page/やついいちろう.md" title="wikilink">やついいちろう</a>（<a href="../Page/エレキコミック.md" title="wikilink">エレキコミック</a>）</li>
 <li><a href="https://ja.wikipedia.org/wiki/Perfume" title="wikilink">Perfume</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/中田ヤスタカ" title="wikilink">中田ヤスタカ</a>(<a href="https://ja.wikipedia.org/wiki/capsule" title="wikilink">capsule</a>)</li>
 </ul></td>
@@ -781,60 +781,60 @@ RESIDENT DJ's
 <td><p>12月30日</p></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/木村カエラ" title="wikilink">木村カエラ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/MO&#39;SOME_TONEBENDER" title="wikilink">MO'SOME TONEBENDER</a></li>
+<li><a href="../Page/MO&#39;SOME_TONEBENDER.md" title="wikilink">MO'SOME TONEBENDER</a></li>
 <li><a href="../Page/ACIDMAN.md" title="wikilink">ACIDMAN</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/HiGE" title="wikilink">髭（HiGE）</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/サンボマスター" title="wikilink">サンボマスター</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/GOING_UNDER_GROUND" title="wikilink">GOING UNDER GROUND</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/KREVA" title="wikilink">KREVA</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ELLEGARDEN" title="wikilink">ELLEGARDEN</a></li>
+<li><a href="../Page/HiGE.md" title="wikilink">髭（HiGE）</a></li>
+<li><a href="../Page/サンボマスター.md" title="wikilink">サンボマスター</a></li>
+<li><a href="../Page/GOING_UNDER_GROUND.md" title="wikilink">GOING UNDER GROUND</a></li>
+<li><a href="../Page/KREVA.md" title="wikilink">KREVA</a></li>
+<li><a href="../Page/ELLEGARDEN.md" title="wikilink">ELLEGARDEN</a></li>
 </ul></td>
 <td><ul>
 <li><a href="../Page/SOIL&amp;&quot;PIMP&quot;SESSIONS.md" title="wikilink">SOIL&amp;"PIMP"SESSIONS</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/monobright" title="wikilink">monobright</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/藍坊主" title="wikilink">藍坊主</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ASPARAGUS" title="wikilink">ASPARAGUS</a></li>
+<li><a href="../Page/藍坊主.md" title="wikilink">藍坊主</a></li>
+<li><a href="../Page/ASPARAGUS.md" title="wikilink">ASPARAGUS</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/RYUKYUDISKO" title="wikilink">RYUKYUDISKO</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/小山田圭吾" title="wikilink">THE CORNELIUS GROUP</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Cocco" title="wikilink">Cocco</a></li>
 <li><a href="../Page/DOPING_PANDA.md" title="wikilink">DOPING PANDA</a></li>
 </ul></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/HALFBY" title="wikilink">HALFBY</a></li>
+<li><a href="../Page/HALFBY.md" title="wikilink">HALFBY</a></li>
 <li>HANDSOMEBOY TECHNIQUE</li>
 <li>COLLETTE</li>
-<li><a href="https://ja.wikipedia.org/wiki/ダイノジ" title="wikilink">ダイノジ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/RAM_RIDER" title="wikilink">RAM RIDER</a></li>
+<li><a href="../Page/ダイノジ.md" title="wikilink">ダイノジ</a></li>
+<li><a href="../Page/RAM_RIDER.md" title="wikilink">RAM RIDER</a></li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td><p>12月31日</p></td>
 <td><ul>
 <li><a href="../Page/Base_Ball_Bear.md" title="wikilink">Base Ball Bear</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/TRICERATOPS" title="wikilink">TRICERATOPS</a></li>
+<li><a href="../Page/TRICERATOPS.md" title="wikilink">TRICERATOPS</a></li>
 <li><a href="../Page/チャットモンチー.md" title="wikilink">チャットモンチー</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/YUI_(歌手)" title="wikilink">YUI</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/OVERGROUND_ACOUSTIC_UNDERGROUND" title="wikilink">OVERGROUND ACOUSTIC UNDERGROUND</a></li>
+<li><a href="../Page/ASIAN_KUNG-FU_GENERATION.md" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
+<li><a href="../Page/OVERGROUND_ACOUSTIC_UNDERGROUND.md" title="wikilink">OVERGROUND ACOUSTIC UNDERGROUND</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/エレファントカシマシ" title="wikilink">エレファントカシマシ</a></li>
 <li><a href="../Page/佐野元春.md" title="wikilink">佐野元春</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/GO!GO!7188" title="wikilink">GO!GO!7188</a></li>
-<li><strong><a href="https://ja.wikipedia.org/wiki/10-FEET" title="wikilink">10-FEET</a></strong></li>
+<li><a href="../Page/GO!GO!7188.md" title="wikilink">GO!GO!7188</a></li>
+<li><strong><a href="../Page/10-FEET.md" title="wikilink">10-FEET</a></strong></li>
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/locofrank" title="wikilink">locofrank</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/RIZE" title="wikilink">RIZE</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/9mm_Parabellum_Bullet" title="wikilink">9mm Parabellum Bullet</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/THE_BACK_HORN" title="wikilink">THE BACK HORN</a></li>
+<li><a href="../Page/RIZE.md" title="wikilink">RIZE</a></li>
+<li><a href="../Page/9mm_Parabellum_Bullet.md" title="wikilink">9mm Parabellum Bullet</a></li>
+<li><a href="../Page/THE_BACK_HORN.md" title="wikilink">THE BACK HORN</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/m-flo" title="wikilink">m-flo</a></li>
 <li><a href="../Page/椿屋四重奏.md" title="wikilink">椿屋四重奏</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/音速ライン" title="wikilink">音速ライン</a></li>
+<li><a href="../Page/音速ライン.md" title="wikilink">音速ライン</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Salyu" title="wikilink">Salyu</a></li>
 <li><a href="../Page/BOOM_BOOM_SATELLITES.md" title="wikilink">BOOM BOOM SATELLITES</a></li>
 <li><strong><a href="../Page/くるり.md" title="wikilink">くるり</a></strong></li>
 </ul></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/TAICHI_MASTER" title="wikilink">TAICHI MASTER</a></li>
+<li><a href="../Page/TAICHI_MASTER.md" title="wikilink">TAICHI MASTER</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/i-dep" title="wikilink">i-dep</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/中塚武" title="wikilink">中塚武</a></li>
 </ul></td>
@@ -874,49 +874,49 @@ RESIDENT DJ's
 <tr class="odd">
 <td><p>12月28日</p></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/GOING_UNDER_GROUND" title="wikilink">GOING UNDER GROUND</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ZAZEN_BOYS" title="wikilink">ZAZEN BOYS</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/GRAPEVINE" title="wikilink">GRAPEVINE</a></li>
+<li><a href="../Page/GOING_UNDER_GROUND.md" title="wikilink">GOING UNDER GROUND</a></li>
+<li><a href="../Page/ZAZEN_BOYS.md" title="wikilink">ZAZEN BOYS</a></li>
+<li><a href="../Page/GRAPEVINE.md" title="wikilink">GRAPEVINE</a></li>
 <li><a href="../Page/奥田民生.md" title="wikilink">奥田民生</a></li>
 <li><a href="../Page/ACIDMAN.md" title="wikilink">ACIDMAN</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/10-FEET" title="wikilink">10-FEET</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/BEAT_CRUSADERS" title="wikilink">BEAT CRUSADERS</a></li>
+<li><a href="../Page/10-FEET.md" title="wikilink">10-FEET</a></li>
+<li><a href="../Page/BEAT_CRUSADERS.md" title="wikilink">BEAT CRUSADERS</a></li>
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/locofrank" title="wikilink">locofrank</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/YO-KING" title="wikilink">YO-KING</a></li>
+<li><a href="../Page/YO-KING.md" title="wikilink">YO-KING</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/bonobos" title="wikilink">bonobos</a></li>
 <li><a href="../Page/SEAMO.md" title="wikilink">SEAMO</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/BENNIE_K" title="wikilink">BENNIE K</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/RYUKYUDISKO" title="wikilink">RYUKYUDISKO</a></li>
 <li><a href="../Page/SOIL&amp;&quot;PIMP&quot;SESSIONS.md" title="wikilink">SOIL&amp;"PIMP"SESSIONS</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/MO&#39;SOME_TONEBENDER" title="wikilink">MO'SOME TONEBENDER</a></li>
+<li><a href="../Page/MO&#39;SOME_TONEBENDER.md" title="wikilink">MO'SOME TONEBENDER</a></li>
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/キャプテンストライダム" title="wikilink">キャプテンストライダム</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/GLORYHILL" title="wikilink">GLORYHILL</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/少年ナイフ" title="wikilink">少年ナイフ</a></li>
+<li><a href="../Page/少年ナイフ.md" title="wikilink">少年ナイフ</a></li>
 <li><a href="../Page/8otto.md" title="wikilink">8otto</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/eastern_youth" title="wikilink">eastern youth</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Theピーズ" title="wikilink">Theピーズ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ジン_(バンド)" title="wikilink">ジン</a></li>
+<li><a href="../Page/ジン_(バンド).md" title="wikilink">ジン</a></li>
 <li><a href="../Page/シュノーケル_(バンド).md" title="wikilink">シュノーケル</a></li>
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/Perfume" title="wikilink">Perfume</a></li>
 <li><a href="../Page/FoZZtone.md" title="wikilink">FoZZtone</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/TOMOVSKY" title="wikilink">TOMOVSKY</a></li>
+<li><a href="../Page/TOMOVSKY.md" title="wikilink">TOMOVSKY</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/WRONG_SCALE" title="wikilink">WRONG SCALE</a></li>
 <li><a href="../Page/NICO_Touches_the_Walls.md" title="wikilink">NICO Touches the Walls</a></li>
 <li><a href="../Page/LAST_ALLIANCE.md" title="wikilink">LAST ALLIANCE</a></li>
 <li><a href="../Page/LITE_(バンド).md" title="wikilink">LITE</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/フラワーカンパニーズ" title="wikilink">フラワーカンパニーズ</a></li>
+<li><a href="../Page/フラワーカンパニーズ.md" title="wikilink">フラワーカンパニーズ</a></li>
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/CAPTAIN_FUNK" title="wikilink">CAPTAIN FUNK</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ダイノジ" title="wikilink">ダイノジ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/松本素生" title="wikilink">松本素生</a><br />
-(<a href="https://ja.wikipedia.org/wiki/GOING_UNDER_GROUND" title="wikilink">GOING UNDER GROUND</a>)</li>
+<li><a href="../Page/ダイノジ.md" title="wikilink">ダイノジ</a></li>
+<li><a href="../Page/松本素生.md" title="wikilink">松本素生</a><br />
+(<a href="../Page/GOING_UNDER_GROUND.md" title="wikilink">GOING UNDER GROUND</a>)</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -927,43 +927,43 @@ RESIDENT DJ's
 <li><a href="https://ja.wikipedia.org/wiki/エレファントカシマシ" title="wikilink">エレファントカシマシ</a></li>
 <li><a href="../Page/BOOM_BOOM_SATELLITES.md" title="wikilink">BOOM BOOM SATELLITES</a></li>
 <li><a href="../Page/ORANGE_RANGE.md" title="wikilink">ORANGE RANGE</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/KREVA" title="wikilink">KREVA</a></li>
+<li><a href="../Page/KREVA.md" title="wikilink">KREVA</a></li>
 <li><a href="../Page/くるり.md" title="wikilink">くるり</a></li>
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/凛として時雨" title="wikilink">凛として時雨</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/B-DASH" title="wikilink">B-DASH</a></li>
+<li><a href="../Page/B-DASH.md" title="wikilink">B-DASH</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/スパルタローカルズ" title="wikilink">スパルタローカルズ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/藍坊主" title="wikilink">藍坊主</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ホフディラン" title="wikilink">ホフディラン</a></li>
+<li><a href="../Page/藍坊主.md" title="wikilink">藍坊主</a></li>
+<li><a href="../Page/ホフディラン.md" title="wikilink">ホフディラン</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/小山田圭吾" title="wikilink">THE CORNELIUS GROUP</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/TRICERATOPS" title="wikilink">TRICERATOPS</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/RIZE" title="wikilink">RIZE</a></li>
+<li><a href="../Page/TRICERATOPS.md" title="wikilink">TRICERATOPS</a></li>
+<li><a href="../Page/RIZE.md" title="wikilink">RIZE</a></li>
 </ul></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/ELLEGARDEN" title="wikilink">ELLEGARDEN</a></li>
+<li><a href="../Page/ELLEGARDEN.md" title="wikilink">ELLEGARDEN</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/tobaccojuice" title="wikilink">tobaccojuice</a></li>
 <li><a href="../Page/PhilHarmoUniQue.md" title="wikilink">PhilHarmoUniQue</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/一十三十一" title="wikilink">一十三十一</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/People_In_The_Box" title="wikilink">People In The Box</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/怒髪天" title="wikilink">怒髪天</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/GOOD_4_NOTHING" title="wikilink">GOOD 4 NOTHING</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/9mm_Parabellum_Bullet" title="wikilink">9mm Parabellum Bullet</a></li>
+<li><a href="../Page/9mm_Parabellum_Bullet.md" title="wikilink">9mm Parabellum Bullet</a></li>
 </ul></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/WISE" title="wikilink">WISE</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/Good_Dog_Happy_Men" title="wikilink">Good Dog Happy Men</a></li>
+<li><a href="../Page/WISE.md" title="wikilink">WISE</a></li>
+<li><a href="../Page/Good_Dog_Happy_Men.md" title="wikilink">Good Dog Happy Men</a></li>
 <li><a href="../Page/マボロシ.md" title="wikilink">マボロシ</a></li>
 <li>LUCKY LIPS</li>
 <li><a href="https://ja.wikipedia.org/wiki/the_HANGOVERS" title="wikilink">the HANGOVERS</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/DEPAPEPE" title="wikilink">DEPAPEPE</a></li>
+<li><a href="../Page/DEPAPEPE.md" title="wikilink">DEPAPEPE</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/the_chef_cooks_me" title="wikilink">the chef cooks me</a></li>
 <li><a href="../Page/THE_RODEO_CARBURETTOR.md" title="wikilink">THE RODEO CARBURETTOR</a></li>
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/中塚武" title="wikilink">中塚武</a></li>
 <li>HANDSOMEBOY TECHNIQUE</li>
-<li><a href="https://ja.wikipedia.org/wiki/HALFBY" title="wikilink">HALFBY</a></li>
+<li><a href="../Page/HALFBY.md" title="wikilink">HALFBY</a></li>
 <li>FREDO</li>
 <li><a href="https://ja.wikipedia.org/wiki/増子直純" title="wikilink">増子直純</a>（<a href="https://ja.wikipedia.org/wiki/怒髪天" title="wikilink">怒髪天</a>）</li>
 </ul></td>
@@ -971,21 +971,21 @@ RESIDENT DJ's
 <tr class="odd">
 <td><p>12月30日</p></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/レミオロメン" title="wikilink">レミオロメン</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/フジファブリック" title="wikilink">フジファブリック</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/GO!GO!7188" title="wikilink">GO!GO!7188</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/斉藤和義" title="wikilink">斉藤和義</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
+<li><a href="../Page/レミオロメン.md" title="wikilink">レミオロメン</a></li>
+<li><a href="../Page/フジファブリック.md" title="wikilink">フジファブリック</a></li>
+<li><a href="../Page/GO!GO!7188.md" title="wikilink">GO!GO!7188</a></li>
+<li><a href="../Page/斉藤和義.md" title="wikilink">斉藤和義</a></li>
+<li><a href="../Page/ASIAN_KUNG-FU_GENERATION.md" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
 <li><a href="../Page/佐野元春.md" title="wikilink">佐野元春</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ストレイテナー" title="wikilink">ストレイテナー</a></li>
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/LOW_IQ_01" title="wikilink">LOW IQ 01</a> &amp; MASTER LOW</li>
-<li><a href="https://ja.wikipedia.org/wiki/音速ライン" title="wikilink">音速ライン</a></li>
+<li><a href="../Page/音速ライン.md" title="wikilink">音速ライン</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Salyu" title="wikilink">Salyu</a></li>
 <li><a href="../Page/Base_Ball_Bear.md" title="wikilink">Base Ball Bear</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/THE_BACK_HORN" title="wikilink">THE BACK HORN</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/OVERGROUND_ACOUSTIC_UNDERGROUND" title="wikilink">OVERGROUND ACOUSTIC UNDERGROUND</a></li>
+<li><a href="../Page/THE_BACK_HORN.md" title="wikilink">THE BACK HORN</a></li>
+<li><a href="../Page/OVERGROUND_ACOUSTIC_UNDERGROUND.md" title="wikilink">OVERGROUND ACOUSTIC UNDERGROUND</a></li>
 <li><a href="../Page/曽我部恵一.md" title="wikilink">曽我部恵一</a>BAND</li>
 <li><a href="../Page/椿屋四重奏.md" title="wikilink">椿屋四重奏</a></li>
 </ul></td>
@@ -996,8 +996,8 @@ RESIDENT DJ's
 <li><a href="https://ja.wikipedia.org/wiki/COMEBACK_MY_DAUGHTERS" title="wikilink">COMEBACK MY DAUGHTERS</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/THE_HELLO_WORKS" title="wikilink">THE HELLO WORKS</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/かげぼうし" title="wikilink">かげぼうし</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/APOGEE" title="wikilink">APOGEE</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/TOKYO_No.1_SOUL_SET" title="wikilink">TOKYO No.1 SOUL SET</a></li>
+<li><a href="../Page/APOGEE.md" title="wikilink">APOGEE</a></li>
+<li><a href="../Page/TOKYO_No.1_SOUL_SET.md" title="wikilink">TOKYO No.1 SOUL SET</a></li>
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/おとぎ話_(バンド)" title="wikilink">おとぎ話</a></li>
@@ -1010,7 +1010,7 @@ RESIDENT DJ's
 <li><a href="https://ja.wikipedia.org/wiki/オレスカバンド" title="wikilink">オレスカバンド</a></li>
 </ul></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/TAICHI_MASTER" title="wikilink">TAICHI MASTER</a> + <a href="../Page/宇多丸.md" title="wikilink">宇多丸</a>(<a href="https://ja.wikipedia.org/wiki/RHYMESTER" title="wikilink">RHYMESTER</a>)</li>
+<li><a href="../Page/TAICHI_MASTER.md" title="wikilink">TAICHI MASTER</a> + <a href="../Page/宇多丸.md" title="wikilink">宇多丸</a>(<a href="../Page/RHYMESTER.md" title="wikilink">RHYMESTER</a>)</li>
 <li><a href="https://ja.wikipedia.org/wiki/i-dep" title="wikilink">i-dep</a></li>
 <li>松田"CHABE"岳二<br />
 (<a href="../Page/CUBISMO_GRAFICO.md" title="wikilink">CUBISMO GRAFICO</a>)</li>
@@ -1019,30 +1019,30 @@ RESIDENT DJ's
 <tr class="even">
 <td><p>12月31日</p></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/POLYSICS" title="wikilink">POLYSICS</a></li>
+<li><a href="../Page/POLYSICS.md" title="wikilink">POLYSICS</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/the_brilliant_green" title="wikilink">the brilliant green</a></li>
 <li><a href="../Page/DOPING_PANDA.md" title="wikilink">DOPING PANDA</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/木村カエラ" title="wikilink">木村カエラ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/グループ魂" title="wikilink">グループ魂</a></li>
+<li><a href="../Page/グループ魂.md" title="wikilink">グループ魂</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Cocco" title="wikilink">Cocco</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/サンボマスター" title="wikilink">サンボマスター</a></li>
-<li><strong><a href="https://ja.wikipedia.org/wiki/忌野清志郎" title="wikilink">忌野清志郎</a> &amp; NICE MIDDLE<br />
+<li><a href="../Page/サンボマスター.md" title="wikilink">サンボマスター</a></li>
+<li><strong><a href="../Page/忌野清志郎.md" title="wikilink">忌野清志郎</a> &amp; NICE MIDDLE<br />
 with NEW BLUE DAY HORNS</strong></li>
 </ul></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/SPECIAL_OTHERS" title="wikilink">SPECIAL OTHERS</a></li>
+<li><a href="../Page/SPECIAL_OTHERS.md" title="wikilink">SPECIAL OTHERS</a></li>
 <li><a href="../Page/175R.md" title="wikilink">175R</a></li>
 <li><a href="../Page/BACK_DROP_BOMB.md" title="wikilink">BACK DROP BOMB</a></li>
 <li><a href="../Page/車谷浩司.md" title="wikilink">AIR</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/SAKEROCK" title="wikilink">SAKEROCK</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ART-SCHOOL" title="wikilink">ART-SCHOOL</a></li>
+<li><a href="../Page/SAKEROCK.md" title="wikilink">SAKEROCK</a></li>
+<li><a href="../Page/ART-SCHOOL.md" title="wikilink">ART-SCHOOL</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/dustbox" title="wikilink">dustbox</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ASPARAGUS" title="wikilink">ASPARAGUS</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/HiGE" title="wikilink">髭（HiGE）</a></li>
-<li><strong><a href="https://ja.wikipedia.org/wiki/YOUR_SONG_IS_GOOD" title="wikilink">YOUR SONG IS GOOD</a></strong></li>
+<li><a href="../Page/ASPARAGUS.md" title="wikilink">ASPARAGUS</a></li>
+<li><a href="../Page/HiGE.md" title="wikilink">髭（HiGE）</a></li>
+<li><strong><a href="../Page/YOUR_SONG_IS_GOOD.md" title="wikilink">YOUR SONG IS GOOD</a></strong></li>
 </ul></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/STAN" title="wikilink">STAN</a></li>
+<li><a href="../Page/STAN.md" title="wikilink">STAN</a></li>
 <li><a href="../Page/榎本くるみ.md" title="wikilink">榎本くるみ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/hare-brained_unity" title="wikilink">hare-brained unity</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/plane" title="wikilink">plane</a></li>
@@ -1050,7 +1050,7 @@ with NEW BLUE DAY HORNS</strong></li>
 <li><a href="../Page/UNCHAIN.md" title="wikilink">UNCHAIN</a></li>
 <li><a href="../Page/アナログフィッシュ.md" title="wikilink">アナログフィッシュ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/DOES" title="wikilink">DOES</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/□□□" title="wikilink">□□□</a></li>
+<li><a href="../Page/□□□.md" title="wikilink">□□□</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/asphalt_frustration" title="wikilink">asphalt frustration</a></li>
 <li><strong><a href="../Page/ザ50回転ズ.md" title="wikilink">ザ50回転ズ</a></strong></li>
 </ul></td>
@@ -1059,20 +1059,20 @@ with NEW BLUE DAY HORNS</strong></li>
 <li><a href="../Page/HALCALI.md" title="wikilink">HALCALI</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/岡林信康" title="wikilink">岡林信康</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/unkie" title="wikilink">unkie</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/Scoobie_Do" title="wikilink">Scoobie Do</a></li>
+<li><a href="../Page/Scoobie_Do.md" title="wikilink">Scoobie Do</a></li>
 <li><a href="../Page/つしまみれ.md" title="wikilink">つしまみれ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/monobright" title="wikilink">monobright</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ミドリカワ書房" title="wikilink">ミドリカワ書房</a></li>
+<li><a href="../Page/ミドリカワ書房.md" title="wikilink">ミドリカワ書房</a></li>
 <li><a href="../Page/Northern19.md" title="wikilink">Northern19</a></li>
-<li><strong><a href="https://ja.wikipedia.org/wiki/LUNKHEAD" title="wikilink">LUNKHEAD</a></strong></li>
+<li><strong><a href="../Page/LUNKHEAD.md" title="wikilink">LUNKHEAD</a></strong></li>
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/岡田義徳" title="wikilink">岡田義徳</a> a.k.a. DJ 4th</li>
 <li>TEAM紅卍(<a href="../Page/松尾スズキ.md" title="wikilink">松尾スズキ</a>+河井克夫)</li>
 <li><a href="https://ja.wikipedia.org/wiki/中田ヤスタカ" title="wikilink">中田ヤスタカ</a>(<a href="https://ja.wikipedia.org/wiki/capsule" title="wikilink">capsule</a>)</li>
-<li>ハヤシヒロユキ（<a href="https://ja.wikipedia.org/wiki/POLYSICS" title="wikilink">POLYSICS</a>）</li>
-<li><a href="https://ja.wikipedia.org/wiki/やついいちろう" title="wikilink">やついいちろう</a>(<a href="https://ja.wikipedia.org/wiki/エレキコミック" title="wikilink">エレキコミック</a>)</li>
-<li><a href="https://ja.wikipedia.org/wiki/RAM_RIDER" title="wikilink">RAM RIDER</a></li>
+<li>ハヤシヒロユキ（<a href="../Page/POLYSICS.md" title="wikilink">POLYSICS</a>）</li>
+<li><a href="../Page/やついいちろう.md" title="wikilink">やついいちろう</a>(<a href="../Page/エレキコミック.md" title="wikilink">エレキコミック</a>)</li>
+<li><a href="../Page/RAM_RIDER.md" title="wikilink">RAM RIDER</a></li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -1114,9 +1114,9 @@ RESIDENT DJ's
 <td><p>12月29日</p></td>
 <td><ul>
 <li><a href="../Page/くるり.md" title="wikilink">くるり</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/フジファブリック" title="wikilink">フジファブリック</a></li>
+<li><a href="../Page/フジファブリック.md" title="wikilink">フジファブリック</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ストレイテナー" title="wikilink">ストレイテナー</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ZAZEN_BOYS" title="wikilink">ZAZEN BOYS</a></li>
+<li><a href="../Page/ZAZEN_BOYS.md" title="wikilink">ZAZEN BOYS</a></li>
 <li><a href="../Page/電気グルーヴ.md" title="wikilink">電気グルーヴ</a></li>
 <li><a href="../Page/奥田民生.md" title="wikilink">奥田民生</a></li>
 <li><a href="../Page/SEAMO.md" title="wikilink">SEAMO</a></li>
@@ -1124,47 +1124,47 @@ RESIDENT DJ's
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/Perfume" title="wikilink">Perfume</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/POLYSICS" title="wikilink">POLYSICS</a></li>
+<li><a href="../Page/POLYSICS.md" title="wikilink">POLYSICS</a></li>
 <li><a href="../Page/曽我部恵一.md" title="wikilink">曽我部恵一</a>BAND</li>
-<li><a href="https://ja.wikipedia.org/wiki/真心ブラザーズ" title="wikilink">真心ブラザーズ</a></li>
+<li><a href="../Page/真心ブラザーズ.md" title="wikilink">真心ブラザーズ</a></li>
 <li><a href="../Page/PUFFY.md" title="wikilink">PUFFY</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/RIZE" title="wikilink">RIZE</a></li>
+<li><a href="../Page/RIZE.md" title="wikilink">RIZE</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/the_band_apart" title="wikilink">the band apart</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Ken_Yokoyama" title="wikilink">Ken Yokoyama</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/HY_(バンド)" title="wikilink">HY</a></li>
 </ul></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/ハヤシヒロユキ" title="wikilink">ハヤシヒロユキ</a>（<a href="https://ja.wikipedia.org/wiki/POLYSICS" title="wikilink">POLYSICS</a>）</li>
+<li><a href="https://ja.wikipedia.org/wiki/ハヤシヒロユキ" title="wikilink">ハヤシヒロユキ</a>（<a href="../Page/POLYSICS.md" title="wikilink">POLYSICS</a>）</li>
 <li><a href="../Page/曽我部恵一.md" title="wikilink">曽我部恵一</a>BAND</li>
-<li><a href="https://ja.wikipedia.org/wiki/ダイノジ" title="wikilink">ダイノジ</a></li>
+<li><a href="../Page/ダイノジ.md" title="wikilink">ダイノジ</a></li>
 </ul></td>
 </tr>
 <tr class="even">
 <td><p>12月30日</p></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/グループ魂" title="wikilink">グループ魂</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ASPARAGUS" title="wikilink">ASPARAGUS</a></li>
+<li><a href="../Page/グループ魂.md" title="wikilink">グループ魂</a></li>
+<li><a href="../Page/ASPARAGUS.md" title="wikilink">ASPARAGUS</a></li>
 <li><a href="../Page/東京スカパラダイスオーケストラ.md" title="wikilink">東京スカパラダイスオーケストラ</a></li>
 <li><a href="../Page/100s.md" title="wikilink">100s</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/木村カエラ" title="wikilink">木村カエラ</a></li>
 <li><a href="../Page/JUN_SKY_WALKER(S).md" title="wikilink">JUN SKY WALKER(S)</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/RYUKYUDISKO" title="wikilink">RYUKYUDISKO</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/斉藤和義" title="wikilink">斉藤和義</a></li>
+<li><a href="../Page/斉藤和義.md" title="wikilink">斉藤和義</a></li>
 </ul></td>
 <td><ul>
 <li>犬が吠える by 五十嵐隆</li>
-<li><a href="https://ja.wikipedia.org/wiki/9mm_Parabellum_Bullet" title="wikilink">9mm Parabellum Bullet</a></li>
+<li><a href="../Page/9mm_Parabellum_Bullet.md" title="wikilink">9mm Parabellum Bullet</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/monobright" title="wikilink">monobright</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/GRAPEVINE" title="wikilink">GRAPEVINE</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/YOUR_SONG_IS_GOOD" title="wikilink">YOUR SONG IS GOOD</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/SAKEROCK" title="wikilink">SAKEROCK</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/BEAT_CRUSADERS" title="wikilink">BEAT CRUSADERS</a></li>
+<li><a href="../Page/GRAPEVINE.md" title="wikilink">GRAPEVINE</a></li>
+<li><a href="../Page/YOUR_SONG_IS_GOOD.md" title="wikilink">YOUR SONG IS GOOD</a></li>
+<li><a href="../Page/SAKEROCK.md" title="wikilink">SAKEROCK</a></li>
+<li><a href="../Page/BEAT_CRUSADERS.md" title="wikilink">BEAT CRUSADERS</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/AA=" title="wikilink">AA=</a></li>
 <li><a href="../Page/ACIDMAN.md" title="wikilink">ACIDMAN</a></li>
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/中塚武" title="wikilink">中塚武</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/RAM_RIDER" title="wikilink">RAM RIDER</a></li>
+<li><a href="../Page/RAM_RIDER.md" title="wikilink">RAM RIDER</a></li>
 <li><a href="../Page/YMCK.md" title="wikilink">YMCK</a></li>
 <li><a href="../Page/DE_DE_MOUSE.md" title="wikilink">DE DE MOUSE</a></li>
 </ul></td>
@@ -1173,33 +1173,33 @@ RESIDENT DJ's
 <td><p>12月31日</p></td>
 <td><ul>
 <li><a href="../Page/Base_Ball_Bear.md" title="wikilink">Base Ball Bear</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/TRICERATOPS" title="wikilink">TRICERATOPS</a></li>
+<li><a href="../Page/TRICERATOPS.md" title="wikilink">TRICERATOPS</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/GLORY_HILL" title="wikilink">GLORY HILL</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/10-FEET" title="wikilink">10-FEET</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/GOING_UNDER_GROUND" title="wikilink">GOING UNDER GROUND</a></li>
+<li><a href="../Page/10-FEET.md" title="wikilink">10-FEET</a></li>
+<li><a href="../Page/GOING_UNDER_GROUND.md" title="wikilink">GOING UNDER GROUND</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/サカナクション" title="wikilink">サカナクション</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/鶴_(バンド)" title="wikilink">鶴</a></li>
 <li><a href="../Page/ザ50回転ズ.md" title="wikilink">ザ50回転ズ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/サンボマスター" title="wikilink">サンボマスター</a></li>
+<li><a href="../Page/サンボマスター.md" title="wikilink">サンボマスター</a></li>
 <li><strong><a href="https://ja.wikipedia.org/wiki/エレファントカシマシ" title="wikilink">エレファントカシマシ</a></strong></li>
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/the_telephones" title="wikilink">the telephones</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/dustbox" title="wikilink">dustbox</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Superfly" title="wikilink">Superfly</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/HiGE" title="wikilink">髭（HiGE）</a></li>
+<li><a href="../Page/HiGE.md" title="wikilink">髭（HiGE）</a></li>
 <li><a href="../Page/NICO_Touches_the_Walls.md" title="wikilink">NICO Touches the Walls</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/locofrank" title="wikilink">locofrank</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/tacica" title="wikilink">tacica</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/bonobos" title="wikilink">bonobos</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/SPECIAL_OTHERS" title="wikilink">SPECIAL OTHERS</a></li>
-<li><strong><a href="https://ja.wikipedia.org/wiki/KREVA" title="wikilink">KREVA</a></strong></li>
+<li><a href="../Page/SPECIAL_OTHERS.md" title="wikilink">SPECIAL OTHERS</a></li>
+<li><strong><a href="../Page/KREVA.md" title="wikilink">KREVA</a></strong></li>
 </ul></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/HALFBY" title="wikilink">HALFBY</a></li>
+<li><a href="../Page/HALFBY.md" title="wikilink">HALFBY</a></li>
 <li>HANDSOMEBOY TECHNIQUE</li>
-<li>TAKUMA（<a href="https://ja.wikipedia.org/wiki/10-FEET" title="wikilink">10-FEET</a>）</li>
-<li><a href="https://ja.wikipedia.org/wiki/やついいちろう" title="wikilink">やついいちろう</a>（<a href="https://ja.wikipedia.org/wiki/エレキコミック" title="wikilink">エレキコミック</a>）</li>
+<li>TAKUMA（<a href="../Page/10-FEET.md" title="wikilink">10-FEET</a>）</li>
+<li><a href="../Page/やついいちろう.md" title="wikilink">やついいちろう</a>（<a href="../Page/エレキコミック.md" title="wikilink">エレキコミック</a>）</li>
 <li>ダニー&amp;ドリー（ザ50回転ズ）</li>
 </ul></td>
 </tr>
@@ -1243,7 +1243,7 @@ RESIDENT DJ's
 <td><ul>
 <li>SEAMO</li>
 <li>locofrank</li>
-<li><a href="https://ja.wikipedia.org/wiki/MO&#39;SOME_TONEBENDER" title="wikilink">MO'SOME TONEBENDER</a></li>
+<li><a href="../Page/MO&#39;SOME_TONEBENDER.md" title="wikilink">MO'SOME TONEBENDER</a></li>
 <li>真心ブラザーズ</li>
 <li><a href="../Page/ハナレグミ.md" title="wikilink">ハナレグミ</a></li>
 <li>電気グルーヴ</li>
@@ -1252,7 +1252,7 @@ RESIDENT DJ's
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/BIGMAMA" title="wikilink">BIGMAMA</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ミドリカワ書房" title="wikilink">ミドリカワ書房</a></li>
+<li><a href="../Page/ミドリカワ書房.md" title="wikilink">ミドリカワ書房</a></li>
 <li><a href="../Page/FoZZtone.md" title="wikilink">FoZZtone</a></li>
 <li><a href="../Page/マボロシ.md" title="wikilink">マボロシ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/LOVE_LOVE_LOVE_(バンド)" title="wikilink">LOVE LOVE LOVE</a></li>
@@ -1293,7 +1293,7 @@ RESIDENT DJ's
 <li>GOING UNDER GROUND</li>
 <li>NICO Touches the Walls</li>
 <li>dustbox</li>
-<li><a href="https://ja.wikipedia.org/wiki/藍坊主" title="wikilink">藍坊主</a></li>
+<li><a href="../Page/藍坊主.md" title="wikilink">藍坊主</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/LOW_IQ_01" title="wikilink">LOW IQ 01</a> &amp; MASTER LOW</li>
 <li>TRICERATOPS</li>
 <li>サンボマスター</li>
@@ -1302,7 +1302,7 @@ RESIDENT DJ's
 <li><a href="https://ja.wikipedia.org/wiki/People_In_The_Box" title="wikilink">People In The Box</a></li>
 <li>鶴</li>
 <li><a href="https://ja.wikipedia.org/wiki/knotlamp" title="wikilink">knotlamp</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/キセル_(バンド)" title="wikilink">キセル</a></li>
+<li><a href="../Page/キセル_(バンド).md" title="wikilink">キセル</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/THE_NOVEMBERS" title="wikilink">THE NOVEMBERS</a></li>
 <li>tacica</li>
 <li><a href="../Page/泉谷しげる.md" title="wikilink">泉谷しげる</a></li>
@@ -1310,7 +1310,7 @@ RESIDENT DJ's
 </ul></td>
 <td><ul>
 <li>DE DE MOUSE</li>
-<li><a href="https://ja.wikipedia.org/wiki/STANCE_PUNKS" title="wikilink">STANCE PUNKS</a></li>
+<li><a href="../Page/STANCE_PUNKS.md" title="wikilink">STANCE PUNKS</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ソウル・フラワー・ユニオン" title="wikilink">ソウル・フラワー・ユニオン</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/竹内電気" title="wikilink">竹内電気</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/the_chef_cooks_me" title="wikilink">the chef cooks me</a></li>
@@ -1337,34 +1337,34 @@ RESIDENT DJ's
 <li>エレファントカシマシ</li>
 </ul></td>
 <td><ul>
-<li>SBK（<a href="https://ja.wikipedia.org/wiki/スケボーキング" title="wikilink">スケボーキング</a>）</li>
+<li>SBK（<a href="../Page/スケボーキング.md" title="wikilink">スケボーキング</a>）</li>
 <li>PUFFY</li>
 <li><a href="../Page/175R.md" title="wikilink">175R</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/SPARTA_LOCALS" title="wikilink">SPARTA LOCALS</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ART-SCHOOL" title="wikilink">ART-SCHOOL</a></li>
+<li><a href="../Page/SPARTA_LOCALS.md" title="wikilink">SPARTA LOCALS</a></li>
+<li><a href="../Page/ART-SCHOOL.md" title="wikilink">ART-SCHOOL</a></li>
 <li>椿屋四重奏</li>
 <li>曽我部恵一BAND</li>
 <li>SPECIAL OTHERS</li>
 </ul></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/APOGEE" title="wikilink">APOGEE</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/フラワーカンパニーズ" title="wikilink">フラワーカンパニーズ</a></li>
+<li><a href="../Page/APOGEE.md" title="wikilink">APOGEE</a></li>
+<li><a href="../Page/フラワーカンパニーズ.md" title="wikilink">フラワーカンパニーズ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/おとぎ話_(バンド)" title="wikilink">おとぎ話</a></li>
 <li>sister jet</li>
 <li>ザ50回転ズ</li>
 <li><a href="https://ja.wikipedia.org/wiki/tobaccojuice" title="wikilink">tobaccojuice</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ジン_(バンド)" title="wikilink">ジン</a></li>
+<li><a href="../Page/ジン_(バンド).md" title="wikilink">ジン</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/COMEBACK_MY_DAUGHTERS" title="wikilink">COMEBACK MY DAUGHTERS</a></li>
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/上松秀実" title="wikilink">上松秀実</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/LOST_IN_TIME" title="wikilink">LOST IN TIME</a></li>
+<li><a href="../Page/LOST_IN_TIME.md" title="wikilink">LOST IN TIME</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/間々田優" title="wikilink">間々田優</a></li>
 <li><a href="../Page/シュノーケル_(バンド).md" title="wikilink">シュノーケル</a></li>
 <li>8otto</li>
 <li><a href="../Page/MARS_EURYTHMICS.md" title="wikilink">MARS EURYTHMICS</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/TOTALFAT" title="wikilink">TOTALFAT</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/音速ライン" title="wikilink">音速ライン</a></li>
+<li><a href="../Page/音速ライン.md" title="wikilink">音速ライン</a></li>
 </ul></td>
 <td><ul>
 <li>グレートマエカワ<br />
@@ -1379,12 +1379,12 @@ RESIDENT DJ's
 <td><ul>
 <li>グループ魂</li>
 <li>9mm Parabellum Bullet</li>
-<li><a href="https://ja.wikipedia.org/wiki/BEAT_CRUSADERS" title="wikilink">BEAT CRUSADERS</a></li>
+<li><a href="../Page/BEAT_CRUSADERS.md" title="wikilink">BEAT CRUSADERS</a></li>
 <li>JUN SKY WALKER(S)</li>
 <li>POLYSICS</li>
 <li>YOUR SONG IS GOOD</li>
 <li>チャットモンチー</li>
-<li><strong><a href="https://ja.wikipedia.org/wiki/RIP_SLYME" title="wikilink">RIP SLYME</a></strong></li>
+<li><strong><a href="../Page/RIP_SLYME.md" title="wikilink">RIP SLYME</a></strong></li>
 </ul></td>
 <td><ul>
 <li>犬が吠える by 五十嵐隆</li>
@@ -1393,7 +1393,7 @@ RESIDENT DJ's
 <li><a href="../Page/SOIL&amp;&quot;PIMP&quot;SESSIONS.md" title="wikilink">SOIL&amp;"PIMP"SESSIONS</a></li>
 <li>RYUKYUDISKO</li>
 <li>SAKEROCK</li>
-<li><a href="https://ja.wikipedia.org/wiki/SHAKALABBITS" title="wikilink">SHAKALABBITS</a></li>
+<li><a href="../Page/SHAKALABBITS.md" title="wikilink">SHAKALABBITS</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/AA=" title="wikilink">AA=</a></li>
 <li>ASPARAGUS</li>
 <li><strong><a href="https://ja.wikipedia.org/wiki/FRONTIER_BACKYARD" title="wikilink">FRONTIER BACKYARD</a></strong></li>
@@ -1404,20 +1404,20 @@ RESIDENT DJ's
 <li><a href="https://ja.wikipedia.org/wiki/プリングミン" title="wikilink">プリングミン</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Jeepta" title="wikilink">Jeepta</a></li>
 <li><a href="../Page/つしまみれ.md" title="wikilink">つしまみれ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/少年ナイフ" title="wikilink">少年ナイフ</a></li>
+<li><a href="../Page/少年ナイフ.md" title="wikilink">少年ナイフ</a></li>
 <li><a href="../Page/LAST_ALLIANCE.md" title="wikilink">LAST ALLIANCE</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/OVERGROUND_ACOUSTIC_UNDERGROUND" title="wikilink">OVERGROUND ACOUSTIC UNDERGROUND</a></li>
+<li><a href="../Page/OVERGROUND_ACOUSTIC_UNDERGROUND.md" title="wikilink">OVERGROUND ACOUSTIC UNDERGROUND</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/te&#39;" title="wikilink">te'</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/カジヒデキ" title="wikilink">カジヒデキ</a></li>
+<li><a href="../Page/カジヒデキ.md" title="wikilink">カジヒデキ</a></li>
 <li><strong><a href="https://ja.wikipedia.org/wiki/怒髪天" title="wikilink">怒髪天</a></strong></li>
 <li><a href="https://ja.wikipedia.org/wiki/JAPAN-狂撃-SPECIAL" title="wikilink">JAPAN-狂撃-SPECIAL</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ホフディラン" title="wikilink">ホフディラン</a></li>
+<li><a href="../Page/ホフディラン.md" title="wikilink">ホフディラン</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Fed_MUSIC" title="wikilink">Fed MUSIC</a></li>
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/serial_TV_drama" title="wikilink">serial TV drama</a></li>
 <li><a href="../Page/榎本くるみ.md" title="wikilink">榎本くるみ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/Good_Dog_Happy_Men" title="wikilink">Good Dog Happy Men</a></li>
+<li><a href="../Page/Good_Dog_Happy_Men.md" title="wikilink">Good Dog Happy Men</a></li>
 <li><a href="../Page/シギ_(歌手).md" title="wikilink">シギ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/毛皮のマリーズ" title="wikilink">毛皮のマリーズ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/cutman-booche" title="wikilink">cutman-booche</a></li>
@@ -1425,7 +1425,7 @@ RESIDENT DJ's
 <li><a href="../Page/HALCALI.md" title="wikilink">HALCALI</a></li>
 <li><a href="../Page/VOLA_&amp;_THE_ORIENTAL_MACHINE.md" title="wikilink">VOLA &amp; THE ORIENTAL MACHINE</a></li>
 <li><strong><a href="https://ja.wikipedia.org/wiki/オレスカバンド" title="wikilink">オレスカバンド</a></strong></li>
-<li><a href="https://ja.wikipedia.org/wiki/Scoobie_Do" title="wikilink">Scoobie Do</a></li>
+<li><a href="../Page/Scoobie_Do.md" title="wikilink">Scoobie Do</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/asphalt_frustration" title="wikilink">asphalt frustration</a></li>
 </ul></td>
 <td><ul>
@@ -1779,7 +1779,7 @@ RESIDENT DJ's
 <li><a href="../Page/MUCC.md" title="wikilink">ムック</a></li>
 <li>ASPARAGUS</li>
 <li>GOING UNDER GROUND</li>
-<li><a href="https://ja.wikipedia.org/wiki/スガシカオ" title="wikilink">スガシカオ</a></li>
+<li><a href="../Page/スガシカオ.md" title="wikilink">スガシカオ</a></li>
 </ul></td>
 <td><ul>
 <li>ONE OK ROCK</li>
@@ -1836,7 +1836,7 @@ RESIDENT DJ's
 <li>serial TV drama</li>
 <li>LAST ALLIANCE</li>
 <li>曽我部恵一</li>
-<li><a href="https://ja.wikipedia.org/wiki/星野源" title="wikilink">星野源</a></li>
+<li><a href="../Page/星野源.md" title="wikilink">星野源</a></li>
 <li>OGRE YOU ASSHOLE</li>
 <li>トクマルシューゴ</li>
 <li>AA=</li>
@@ -2308,7 +2308,7 @@ RESIDENT DJ's
 <li><a href="https://ja.wikipedia.org/wiki/DEAD_END_(バンド)" title="wikilink">DEAD END</a></li>
 <li>SEAMO</li>
 <li>TRICERATOPS</li>
-<li><a href="https://ja.wikipedia.org/wiki/Hermann_H.&amp;The_Pacemakers" title="wikilink">Hermann H.&amp;The Pacemakers</a></li>
+<li><a href="../Page/Hermann_H.&amp;The_Pacemakers.md" title="wikilink">Hermann H.&amp;The Pacemakers</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Crossfaith" title="wikilink">Crossfaith</a></li>
 <li>plenty</li>
 </ul></td>
@@ -2383,7 +2383,7 @@ RESIDENT DJ's
 <tr class="even">
 <td><p>12月31日</p></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/吉川晃司" title="wikilink">吉川晃司</a></li>
+<li><a href="../Page/吉川晃司.md" title="wikilink">吉川晃司</a></li>
 <li>THE BAWDIES</li>
 <li>Base Ball Bear</li>
 <li>the HIATUS</li>
@@ -2398,7 +2398,7 @@ RESIDENT DJ's
 <li>三浦大知</li>
 <li><a href="https://ja.wikipedia.org/wiki/ドレスコーズ" title="wikilink">ドレスコーズ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/BONNIE_PINK" title="wikilink">BONNIE PINK</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/藤巻亮太" title="wikilink">藤巻亮太</a></li>
+<li><a href="../Page/藤巻亮太.md" title="wikilink">藤巻亮太</a></li>
 <li>back number</li>
 <li><strong>The Mirraz</strong></li>
 <li>People In The Box</li>
@@ -2476,10 +2476,10 @@ RESIDENT DJ's
 <td><ul>
 <li><a href="../Page/ORANGE_RANGE.md" title="wikilink">ORANGE RANGE</a></li>
 <li>[Champagne]</li>
-<li><a href="https://ja.wikipedia.org/wiki/斉藤和義" title="wikilink">斉藤和義</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/フジファブリック" title="wikilink">フジファブリック</a></li>
+<li><a href="../Page/斉藤和義.md" title="wikilink">斉藤和義</a></li>
+<li><a href="../Page/フジファブリック.md" title="wikilink">フジファブリック</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/きゃりーぱみゅぱみゅ" title="wikilink">きゃりーぱみゅぱみゅ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/9mm_Parabellum_Bullet" title="wikilink">9mm Parabellum Bullet</a></li>
+<li><a href="../Page/9mm_Parabellum_Bullet.md" title="wikilink">9mm Parabellum Bullet</a></li>
 <li><a href="../Page/くるり.md" title="wikilink">くるり</a></li>
 </ul></td>
 <td><ul>
@@ -2504,7 +2504,7 @@ RESIDENT DJ's
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/BLUE_ENCOUNT" title="wikilink">BLUE ENCOUNT</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/SHAKALABBITS" title="wikilink">SHAKALABBITS</a></li>
+<li><a href="../Page/SHAKALABBITS.md" title="wikilink">SHAKALABBITS</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/SAKANAMON" title="wikilink">SAKANAMON</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/キュウソネコカミ" title="wikilink">キュウソネコカミ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/家入レオ" title="wikilink">家入レオ</a></li>
@@ -2568,10 +2568,10 @@ RESIDENT DJ's
 <tr class="odd">
 <td><p>12月30日</p></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/グループ魂" title="wikilink">グループ魂</a></li>
+<li><a href="../Page/グループ魂.md" title="wikilink">グループ魂</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/クリープハイプ" title="wikilink">クリープハイプ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/10-FEET" title="wikilink">10-FEET</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/Dragon_Ash" title="wikilink">Dragon Ash</a></li>
+<li><a href="../Page/10-FEET.md" title="wikilink">10-FEET</a></li>
+<li><a href="../Page/Dragon_Ash.md" title="wikilink">Dragon Ash</a></li>
 <li>東京スカパラダイスオーケストラ</li>
 <li>サカナクション</li>
 <li><a href="https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN" title="wikilink">BUMP OF CHICKEN</a></li>
@@ -2587,7 +2587,7 @@ RESIDENT DJ's
 <li>サンボマスター</li>
 </ul></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/かりゆし58" title="wikilink">かりゆし58</a></li>
+<li><a href="../Page/かりゆし58.md" title="wikilink">かりゆし58</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/KNOCK_OUT_MONKEY" title="wikilink">KNOCK OUT MONKEY</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/sukekiyo" title="wikilink">sukekiyo</a></li>
 <li>スガシカオ</li>
@@ -2993,7 +2993,7 @@ SPECIAL FORMATION SET</li>
 <li><a href="https://ja.wikipedia.org/wiki/きゃりーぱみゅぱみゅ" title="wikilink">きゃりーぱみゅぱみゅ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/BABYMETAL" title="wikilink">BABYMETAL</a></li>
 <li><a href="../Page/くるり.md" title="wikilink">くるり</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
+<li><a href="../Page/ASIAN_KUNG-FU_GENERATION.md" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/Crossfaith" title="wikilink">Crossfaith</a></li>
@@ -3001,7 +3001,7 @@ SPECIAL FORMATION SET</li>
 <li><a href="https://ja.wikipedia.org/wiki/アルカラ" title="wikilink">アルカラ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/04_Limited_Sazabys" title="wikilink">04 Limited Sazabys</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/HEY-SMITH" title="wikilink">HEY-SMITH</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/フジファブリック" title="wikilink">フジファブリック</a></li>
+<li><a href="../Page/フジファブリック.md" title="wikilink">フジファブリック</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/androp" title="wikilink">androp</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/coldrain" title="wikilink">coldrain</a></li>
 </ul></td>
@@ -3041,8 +3041,8 @@ SPECIAL FORMATION SET</li>
 <tr class="even">
 <td><p>12月29日</p></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/グループ魂" title="wikilink">グループ魂</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/Dragon_Ash" title="wikilink">Dragon Ash</a></li>
+<li><a href="../Page/グループ魂.md" title="wikilink">グループ魂</a></li>
+<li><a href="../Page/Dragon_Ash.md" title="wikilink">Dragon Ash</a></li>
 <li><a href="../Page/MONGOL800.md" title="wikilink">MONGOL800</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/でんぱ組.inc" title="wikilink">でんぱ組.inc</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/木村カエラ" title="wikilink">木村カエラ</a></li>
@@ -3409,7 +3409,7 @@ SPECIAL FORMATION SET</li>
 <li>エレファントカシマシ</li>
 <li><a href="../Page/UVERworld.md" title="wikilink">UVERworld</a></li>
 <li><strong>RADWIMPS</strong></li>
-<li><a href="https://ja.wikipedia.org/wiki/THE_YELLOW_MONKEY" title="wikilink">THE YELLOW MONKEY</a></li>
+<li><a href="../Page/THE_YELLOW_MONKEY.md" title="wikilink">THE YELLOW MONKEY</a></li>
 </ul></td>
 <td><ul>
 <li>THE BACK HORN</li>
@@ -3500,7 +3500,7 @@ SPECIAL FORMATION SET</li>
 <li>欅坂46</li>
 <li>KEYTALK</li>
 <li>miwa</li>
-<li><a href="https://ja.wikipedia.org/wiki/KICK_THE_CAN_CREW" title="wikilink">KICK THE CAN CREW</a></li>
+<li><a href="../Page/KICK_THE_CAN_CREW.md" title="wikilink">KICK THE CAN CREW</a></li>
 <li>KANA-BOON</li>
 <li>WANIMA</li>
 <li>ASIAN KUNG-FU GENERATION</li>
@@ -3649,7 +3649,7 @@ SPECIAL FORMATION SET</li>
 <li>OLDCODEX</li>
 <li>きのこ帝国</li>
 <li>Dizzy sunfist</li>
-<li><a href="https://ja.wikipedia.org/wiki/ホフディラン" title="wikilink">ホフディラン</a></li>
+<li><a href="../Page/ホフディラン.md" title="wikilink">ホフディラン</a></li>
 <li>Takaryu[DJ]</li>
 <li>DAOKO</li>
 <li>てんぷらDJアゲまさ a.k.a.小野武正(KEYTALK)[DJ]</li>
@@ -3872,7 +3872,7 @@ SPECIAL FORMATION SET</li>
 </ul></td>
 <td><ul>
 <li>DJライブキッズあるあるの中の人[DJ]</li>
-<li><a href="https://ja.wikipedia.org/wiki/FIVE_NEW_OLD" title="wikilink">FIVE NEW OLD</a></li>
+<li><a href="../Page/FIVE_NEW_OLD.md" title="wikilink">FIVE NEW OLD</a></li>
 <li>石崎ひゅーい</li>
 <li>NakamuraEmi</li>
 <li>Creepy Nuts</li>
@@ -3925,7 +3925,7 @@ SPECIAL FORMATION SET</li>
 <li>Crystal Lake</li>
 </ul></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/Soul_Mates" title="wikilink">Soul Mates</a>（<a href="https://ja.wikipedia.org/wiki/仲井戸麗市" title="wikilink">仲井戸麗市</a>＋<a href="https://ja.wikipedia.org/wiki/梅津和時" title="wikilink">梅津和時</a>＋<a href="../Page/早川岳晴.md" title="wikilink">早川岳晴</a>）</li>
+<li><a href="https://ja.wikipedia.org/wiki/Soul_Mates" title="wikilink">Soul Mates</a>（<a href="../Page/仲井戸麗市.md" title="wikilink">仲井戸麗市</a>＋<a href="../Page/梅津和時.md" title="wikilink">梅津和時</a>＋<a href="../Page/早川岳晴.md" title="wikilink">早川岳晴</a>）</li>
 <li><a href="https://ja.wikipedia.org/wiki/DATS" title="wikilink">DATS</a></li>
 <li>ドラマチックアラスカ</li>
 <li>パノラマパナマタウン</li>
@@ -4119,7 +4119,7 @@ SPECIAL FORMATION SET</li>
 </ul></td>
 <td><ul>
 <li>DANGER×DEAR（DJ/KSUKE）from コロナナモレモモ（マキシマム ザ ホルモン2号店）[DJ]</li>
-<li><a href="https://ja.wikipedia.org/wiki/ハンブレッダーズ" title="wikilink">ハンブレッダーズ</a></li>
+<li><a href="../Page/ハンブレッダーズ.md" title="wikilink">ハンブレッダーズ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Poppin&#39;Party" title="wikilink">Poppin'Party</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/TENDRE" title="wikilink">TENDRE</a>　</li>
 <li><a href="https://ja.wikipedia.org/wiki/ACE_COLLECTION" title="wikilink">ACE COLLECTION</a></li>

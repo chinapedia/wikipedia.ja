@@ -1,9 +1,9 @@
 > この記事は[Se-!2](https://ja.wikipedia.org/wiki/Se-!2)から翻訳されています。
 
 
-『**Se-女\! 2**』（セーじょツー）は、[2004年](../Page/2004年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")から[2004年](../Page/2004年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")で放送された[関東ローカル](https://ja.wikipedia.org/wiki/関東ローカル "wikilink")の[深夜](../Page/深夜番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。
+『**Se-女\! 2**』（セーじょツー）は、[2004年](../Page/2004年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")から[2004年](../Page/2004年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")で放送された[関東ローカル](../Page/関東ローカル.md "wikilink")の[深夜](../Page/深夜番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。
 
-後に、[西日本放送](../Page/西日本放送.md "wikilink")・[チバテレ](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink")・[群馬テレビ](../Page/群馬テレビ.md "wikilink")でも放送された。[フォーサイド・ドット・コム](https://ja.wikipedia.org/wiki/フォーサイド・ドット・コム "wikilink")の[一社提供](../Page/一社提供.md "wikilink")番組で、製作はアーデニー・エンタテインメント。放映時間は毎週[火曜日](../Page/火曜日.md "wikilink")深夜3時10分 - 深夜3時40分。
+後に、[西日本放送](../Page/西日本放送.md "wikilink")・[チバテレ](../Page/千葉テレビ放送.md "wikilink")・[群馬テレビ](../Page/群馬テレビ.md "wikilink")でも放送された。[フォーサイド・ドット・コム](https://ja.wikipedia.org/wiki/フォーサイド・ドット・コム "wikilink")の[一社提供](../Page/一社提供.md "wikilink")番組で、製作はアーデニー・エンタテインメント。放映時間は毎週[火曜日](../Page/火曜日.md "wikilink")深夜3時10分 - 深夜3時40分。
 
 ## 概要
 
@@ -21,10 +21,10 @@ Side-Aには人気の高い[グラビアアイドル](https://ja.wikipedia.org/w
 
 <!-- end list -->
 
-  - [秋山恵](https://ja.wikipedia.org/wiki/秋山恵 "wikilink")
+  - [秋山恵](../Page/秋山恵.md "wikilink")
   - [あびる優](../Page/あびる優.md "wikilink")
   - [飯作あゆり](https://ja.wikipedia.org/wiki/飯作あゆり "wikilink")
-  - [石川夕紀](https://ja.wikipedia.org/wiki/石川夕紀 "wikilink")
+  - [石川夕紀](../Page/石川夕紀.md "wikilink")
   - [磯山さやか](https://ja.wikipedia.org/wiki/磯山さやか "wikilink")
   - [岩佐真悠子](https://ja.wikipedia.org/wiki/岩佐真悠子 "wikilink")
   - [内田さやか](https://ja.wikipedia.org/wiki/内田さやか "wikilink")
@@ -39,13 +39,13 @@ Side-Aには人気の高い[グラビアアイドル](https://ja.wikipedia.org/w
 <!-- end list -->
 
   - [海江田純子](https://ja.wikipedia.org/wiki/海江田純子 "wikilink")
-  - [KAORI](https://ja.wikipedia.org/wiki/KAORI_\(モデル\) "wikilink")
+  - [KAORI](../Page/KAORI_\(モデル\).md "wikilink")
   - 川原洋子
   - [和希沙也](https://ja.wikipedia.org/wiki/和希沙也 "wikilink")
   - 北風舞
   - [くまきりあさ美](https://ja.wikipedia.org/wiki/くまきりあさ美 "wikilink")
   - [熊田曜子](https://ja.wikipedia.org/wiki/熊田曜子 "wikilink")
-  - [小林恵美](https://ja.wikipedia.org/wiki/小林恵美 "wikilink")
+  - [小林恵美](../Page/小林恵美.md "wikilink")
 
 <!-- end list -->
 
@@ -56,10 +56,10 @@ Side-Aには人気の高い[グラビアアイドル](https://ja.wikipedia.org/w
   - [榊安奈](https://ja.wikipedia.org/wiki/榊安奈 "wikilink")
   - [相楽のり子](https://ja.wikipedia.org/wiki/相楽のり子 "wikilink")
   - [桜木睦子](https://ja.wikipedia.org/wiki/桜木睦子 "wikilink")
-  - [佐藤和沙](https://ja.wikipedia.org/wiki/佐藤和沙 "wikilink")
-  - [佐藤寛子](https://ja.wikipedia.org/wiki/佐藤寛子_\(タレント\) "wikilink")
+  - [佐藤和沙](../Page/佐藤和沙.md "wikilink")
+  - [佐藤寛子](../Page/佐藤寛子_\(タレント\).md "wikilink")
   - 塩沢亜弓
-  - [島本里沙](https://ja.wikipedia.org/wiki/島本里沙 "wikilink")
+  - [島本里沙](../Page/島本里沙.md "wikilink")
   - [瀬戸早妃](https://ja.wikipedia.org/wiki/瀬戸早妃 "wikilink")
   - [相馬茜](../Page/相馬茜.md "wikilink")
 
@@ -71,7 +71,7 @@ Side-Aには人気の高い[グラビアアイドル](https://ja.wikipedia.org/w
 
   - [夏川純](https://ja.wikipedia.org/wiki/夏川純 "wikilink")
   - [二宮優](https://ja.wikipedia.org/wiki/二宮優 "wikilink")
-  - [沼尻沙弥香](https://ja.wikipedia.org/wiki/沼尻沙弥香 "wikilink")
+  - [沼尻沙弥香](../Page/沼尻沙弥香.md "wikilink")
   - [根本はるみ](https://ja.wikipedia.org/wiki/根本はるみ "wikilink")
 
 <!-- end list -->
@@ -80,17 +80,17 @@ Side-Aには人気の高い[グラビアアイドル](https://ja.wikipedia.org/w
 
 <!-- end list -->
 
-  - [長谷川恵美](https://ja.wikipedia.org/wiki/長谷川恵美 "wikilink")
-  - [浜田翔子](https://ja.wikipedia.org/wiki/浜田翔子_\(タレント\) "wikilink")
-  - [原史奈](https://ja.wikipedia.org/wiki/原史奈 "wikilink")
+  - [長谷川恵美](../Page/長谷川恵美.md "wikilink")
+  - [浜田翔子](../Page/浜田翔子_\(タレント\).md "wikilink")
+  - [原史奈](../Page/原史奈.md "wikilink")
   - [風香](../Page/風香.md "wikilink")
-  - [福下恵美](https://ja.wikipedia.org/wiki/福下恵美 "wikilink")
-  - [福田淳子](https://ja.wikipedia.org/wiki/福田淳子 "wikilink")
+  - [福下恵美](../Page/福下恵美.md "wikilink")
+  - [福田淳子](../Page/福田淳子.md "wikilink")
   - [福愛美](../Page/福愛美.md "wikilink")
   - 福山安奈
-  - [藤川京子](https://ja.wikipedia.org/wiki/藤川京子 "wikilink")
+  - [藤川京子](../Page/藤川京子.md "wikilink")
   - [ほしのあき](../Page/ほしのあき.md "wikilink")
-  - [堀口としみ](https://ja.wikipedia.org/wiki/堀口としみ "wikilink")
+  - [堀口としみ](../Page/堀口としみ.md "wikilink")
 
 <!-- end list -->
 
@@ -126,11 +126,11 @@ Side-Aには人気の高い[グラビアアイドル](https://ja.wikipedia.org/w
 
 ## 関連項目
 
-  - [テレビ東京番組一覧](https://ja.wikipedia.org/wiki/テレビ東京番組一覧 "wikilink")
+  - [テレビ東京番組一覧](../Page/テレビ東京番組一覧.md "wikilink")
   - [水着少女](../Page/水着少女.md "wikilink")
-  - [ウルトラヒロイン](https://ja.wikipedia.org/wiki/ウルトラヒロイン "wikilink")
-  - [美女-H](https://ja.wikipedia.org/wiki/美女-H "wikilink")
-  - [ダブルH](https://ja.wikipedia.org/wiki/ダブルH "wikilink")
-  - [ミラクルH](https://ja.wikipedia.org/wiki/ミラクルH "wikilink")
+  - [ウルトラヒロイン](../Page/ウルトラヒロイン.md "wikilink")
+  - [美女-H](../Page/美女-H.md "wikilink")
+  - [ダブルH](../Page/ダブルH.md "wikilink")
+  - [ミラクルH](../Page/ミラクルH.md "wikilink")
 
 [Category:2004年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2004年のテレビ番組_\(日本\) "wikilink") [Category:テレビ東京のバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京のバラエティ番組の歴史 "wikilink") [Category:テレビ東京の深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京の深夜番組の歴史 "wikilink") [Category:テレビのお色気番組](https://ja.wikipedia.org/wiki/Category:テレビのお色気番組 "wikilink") [Category:テレビ東京の一社提供番組](https://ja.wikipedia.org/wiki/Category:テレビ東京の一社提供番組 "wikilink")

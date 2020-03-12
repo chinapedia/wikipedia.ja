@@ -1,17 +1,17 @@
 > この記事は[BAZRA](https://ja.wikipedia.org/wiki/BAZRA)から翻訳されています。
 
 
-**BAZRA**（バズラ）は、日本の[スリーピース](https://ja.wikipedia.org/wiki/スリーピース "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")結成。[LOST IN TIME](https://ja.wikipedia.org/wiki/LOST_IN_TIME "wikilink")、[銀杏BOYZ](https://ja.wikipedia.org/wiki/銀杏BOYZ "wikilink")などと交流がある。
+**BAZRA**（バズラ）は、日本の[スリーピース](https://ja.wikipedia.org/wiki/スリーピース "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")結成。[LOST IN TIME](../Page/LOST_IN_TIME.md "wikilink")、[銀杏BOYZ](https://ja.wikipedia.org/wiki/銀杏BOYZ "wikilink")などと交流がある。
 
-2002年[DAIZAWA RECORDSからインディーズデビュー](https://ja.wikipedia.org/wiki/DAIZAWA_RECORDS "wikilink")。2005年[cutting edgeからメジャーデビュー](https://ja.wikipedia.org/wiki/cutting_edge "wikilink")。2008年契約終了。
+2002年[DAIZAWA RECORDSからインディーズデビュー](../Page/DAIZAWA_RECORDS.md "wikilink")。2005年[cutting edgeからメジャーデビュー](https://ja.wikipedia.org/wiki/cutting_edge "wikilink")。2008年契約終了。
 
 2008年『千回目の日曜日』(cutting edge)リリース後に、井上鉄平の持病の悪化により、不定期な活動となっていたが、体調も回復して、結成20周年となる2017年の夏にニューアルバムを古巣DAIZAWA RECORDSよりリリース。\[1\]
 
 ## メンバー
 
   - 井上鉄平（Vocal,Guitar） - [横浜市](../Page/横浜市.md "wikilink")生まれ、各地を転々として中学3年から[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")[1](http://www.ell.co.jp/osu141/interview_1.html)
-  - 三浦謙太郎（Bass） - 旧[上磯町](https://ja.wikipedia.org/wiki/上磯町 "wikilink")生まれ
-  - ザ☆ミエダタクヤ（Drums） - [釧路市](https://ja.wikipedia.org/wiki/釧路市 "wikilink")生まれ
+  - 三浦謙太郎（Bass） - 旧[上磯町](../Page/上磯町.md "wikilink")生まれ
+  - ザ☆ミエダタクヤ（Drums） - [釧路市](../Page/釧路市.md "wikilink")生まれ
 
 ## ディスコグラフィ
 
@@ -375,36 +375,36 @@
 <td><p>STREET ROCK FILE THE BEST</p></td>
 <td><p>MUCD-1081-82</p></td>
 <td><ol>
-<li>東京少年 / <a href="https://ja.wikipedia.org/wiki/GOING_STEADY" title="wikilink">GOING STEADY</a></li>
-<li>Puberty / <a href="https://ja.wikipedia.org/wiki/SKA_SKA_CLUB" title="wikilink">SKA SKA CLUB</a></li>
+<li>東京少年 / <a href="../Page/GOING_STEADY.md" title="wikilink">GOING STEADY</a></li>
+<li>Puberty / <a href="../Page/SKA_SKA_CLUB.md" title="wikilink">SKA SKA CLUB</a></li>
 <li>ALL YEAR ROUND / <a href="https://ja.wikipedia.org/wiki/FULLSCRATCH" title="wikilink">FULLSCRATCH</a></li>
-<li>愛の花 / <a href="https://ja.wikipedia.org/wiki/LINK_(バンド)" title="wikilink">LINK</a></li>
+<li>愛の花 / <a href="../Page/LINK_(バンド).md" title="wikilink">LINK</a></li>
 <li>SAKURA / <a href="../Page/175R.md" title="wikilink">175R</a></li>
 <li>はんぶんこ / <a href="../Page/Bivattchee.md" title="wikilink">Bivattchee</a></li>
 <li>がんばって / <a href="../Page/FOOT_STAMP.md" title="wikilink">FOOT STAMP</a></li>
 <li>All Time / <a href="https://ja.wikipedia.org/wiki/3.6_MILK" title="wikilink">3.6 MILK</a></li>
-<li>EVERY / <a href="https://ja.wikipedia.org/wiki/10-FEET" title="wikilink">10-FEET</a></li>
-<li>泥だらけの道 / <a href="https://ja.wikipedia.org/wiki/STANCE_PUNKS" title="wikilink">STANCE PUNKS</a></li>
-<li>愛するPOW / <a href="https://ja.wikipedia.org/wiki/B-DASH" title="wikilink">B-DASH</a></li>
-<li>レコード / <a href="https://ja.wikipedia.org/wiki/HIGHWAY61" title="wikilink">HIGHWAY61</a></li>
-<li>手紙 / <a href="https://ja.wikipedia.org/wiki/LOST_IN_TIME" title="wikilink">LOST IN TIME</a></li>
+<li>EVERY / <a href="../Page/10-FEET.md" title="wikilink">10-FEET</a></li>
+<li>泥だらけの道 / <a href="../Page/STANCE_PUNKS.md" title="wikilink">STANCE PUNKS</a></li>
+<li>愛するPOW / <a href="../Page/B-DASH.md" title="wikilink">B-DASH</a></li>
+<li>レコード / <a href="../Page/HIGHWAY61.md" title="wikilink">HIGHWAY61</a></li>
+<li>手紙 / <a href="../Page/LOST_IN_TIME.md" title="wikilink">LOST IN TIME</a></li>
 <li>F.A.T / <a href="https://ja.wikipedia.org/wiki/bus_tribute" title="wikilink">bus tribute</a></li>
 <li>青空へ / <a href="../Page/SABOTEN.md" title="wikilink">SABOTEN</a></li>
-<li>FREAK ME OUT / <a href="https://ja.wikipedia.org/wiki/NICOTINE" title="wikilink">NICOTINE</a></li>
+<li>FREAK ME OUT / <a href="../Page/NICOTINE.md" title="wikilink">NICOTINE</a></li>
 <li><strong>発揚の人 / BAZRA</strong></li>
-<li>贈り物 / <a href="https://ja.wikipedia.org/wiki/ジャパハリネット" title="wikilink">ジャパハリネット</a></li>
+<li>贈り物 / <a href="../Page/ジャパハリネット.md" title="wikilink">ジャパハリネット</a></li>
 <li>青春の日々 / <a href="https://ja.wikipedia.org/wiki/THE_PAN" title="wikilink">THE PAN</a></li>
-<li>EVERLASTING SUMMER PLACE / <a href="https://ja.wikipedia.org/wiki/LONG_SHOT_PARTY" title="wikilink">LONG SHOT PARTY</a></li>
-<li>head-scissirs(single version) / <a href="https://ja.wikipedia.org/wiki/SHAKALABBITS" title="wikilink">SHAKALABBITS</a></li>
+<li>EVERLASTING SUMMER PLACE / <a href="../Page/LONG_SHOT_PARTY.md" title="wikilink">LONG SHOT PARTY</a></li>
+<li>head-scissirs(single version) / <a href="../Page/SHAKALABBITS.md" title="wikilink">SHAKALABBITS</a></li>
 <li>STRAIN / <a href="https://ja.wikipedia.org/wiki/CHANGE_UP" title="wikilink">CHANGE UP</a></li>
 <li>握れっっ！！ / <a href="https://ja.wikipedia.org/wiki/マキシマム_ザ_ホルモン" title="wikilink">マキシマム ザ ホルモン</a></li>
 <li>SUPER DRUNKEN CHRISTMAS / <a href="https://ja.wikipedia.org/wiki/ROCKET_K" title="wikilink">ROCKET K</a></li>
 <li>ドーテー島 / <a href="../Page/オナニーマシーン.md" title="wikilink">オナニーマシーン</a></li>
-<li>セミのぬけがら / <a href="https://ja.wikipedia.org/wiki/藍坊主" title="wikilink">藍坊主</a></li>
-<li>UNDER THE BLUE SKY / <a href="https://ja.wikipedia.org/wiki/POTSHOT" title="wikilink">POTSHOT</a></li>
+<li>セミのぬけがら / <a href="../Page/藍坊主.md" title="wikilink">藍坊主</a></li>
+<li>UNDER THE BLUE SKY / <a href="../Page/POTSHOT.md" title="wikilink">POTSHOT</a></li>
 <li>O.I.DE.YA.SU～ポイ to TRY / <a href="../Page/鴨川_(バンド).md" title="wikilink">鴨川</a></li>
-<li>片隅の唄 / <a href="https://ja.wikipedia.org/wiki/THE_BOOGIE_JACK" title="wikilink">THE BOOGIE JACK</a></li>
-<li>LET'S DRIVING THE SIDE / <a href="https://ja.wikipedia.org/wiki/GOOD4NOTHING" title="wikilink">GOOD4NOTHING</a></li>
+<li>片隅の唄 / <a href="../Page/THE_BOOGIE_JACK.md" title="wikilink">THE BOOGIE JACK</a></li>
+<li>LET'S DRIVING THE SIDE / <a href="../Page/GOOD4NOTHING.md" title="wikilink">GOOD4NOTHING</a></li>
 </ol></td>
 <td><p>Dreamusic</p></td>
 </tr>
@@ -419,10 +419,10 @@
 <li>MORE / <a href="../Page/PhilHarmoUniQue.md" title="wikilink">自由人</a></li>
 <li>踊り子 / <a href="../Page/椿屋四重奏.md" title="wikilink">椿屋四重奏</a></li>
 <li>プロローグ / 椿屋四重奏</li>
-<li>オールライト / <a href="https://ja.wikipedia.org/wiki/PERIDOTS" title="wikilink">PERIDOTS</a></li>
+<li>オールライト / <a href="../Page/PERIDOTS.md" title="wikilink">PERIDOTS</a></li>
 <li>A communication refusal desire / <a href="../Page/VOLA_&amp;_THE_ORIENTAL_MACHINE.md" title="wikilink">VOLA &amp; THE ORIENTAL MACHINE</a></li>
-<li>蛍 / <a href="https://ja.wikipedia.org/wiki/LOST_IN_TIME" title="wikilink">LOST IN TIME</a></li>
-<li>聞こえるかい / <a href="https://ja.wikipedia.org/wiki/Syrup_16g" title="wikilink">Syrup 16g</a></li>
+<li>蛍 / <a href="../Page/LOST_IN_TIME.md" title="wikilink">LOST IN TIME</a></li>
+<li>聞こえるかい / <a href="../Page/Syrup_16g.md" title="wikilink">Syrup 16g</a></li>
 <li>翌日 / Syrup 16g</li>
 </ol></td>
 <td><p>DAIZAWA RECORDS</p></td>
@@ -434,11 +434,11 @@
 <td><ol>
 <li>ウルトラQのテーマ(ウルトラ(I)Q) / <a href="https://ja.wikipedia.org/wiki/LOW_IQ_01" title="wikilink">LOW IQ 01</a></li>
 <li>ウルトラマンの歌 / <a href="https://ja.wikipedia.org/wiki/bloodthirsty_butchers" title="wikilink">bloodthirsty butchers</a></li>
-<li>ULTRA SEVEN / <a href="https://ja.wikipedia.org/wiki/RUDEBONES" title="wikilink">RUDE BONES</a></li>
-<li>MATのテーマ / <a href="https://ja.wikipedia.org/wiki/OVERGROUND_ACOUSTIC_UNDERGROUND" title="wikilink">OVERGROUND ACOUSTIC UNDERGROUND</a></li>
+<li>ULTRA SEVEN / <a href="../Page/RUDEBONES.md" title="wikilink">RUDE BONES</a></li>
+<li>MATのテーマ / <a href="../Page/OVERGROUND_ACOUSTIC_UNDERGROUND.md" title="wikilink">OVERGROUND ACOUSTIC UNDERGROUND</a></li>
 <li><strong>ウルトラマン80 / BAZRA</strong></li>
 <li>ウルトラマンレオ / <a href="https://ja.wikipedia.org/wiki/杉本恭一" title="wikilink">杉本恭一</a></li>
-<li>マイティジャックの歌 / <a href="https://ja.wikipedia.org/wiki/特撮_(バンド)" title="wikilink">特撮</a></li>
+<li>マイティジャックの歌 / <a href="../Page/特撮_(バンド).md" title="wikilink">特撮</a></li>
 <li>ウルトラセブンの歌 / <a href="https://ja.wikipedia.org/wiki/FOE" title="wikilink">FOE</a></li>
 <li>MACのテーマ / <a href="../Page/CUBISMO_GRAFICO.md" title="wikilink">CUBISMO GRAFICO</a></li>
 <li>死神の子守唄 / <a href="https://ja.wikipedia.org/wiki/MOGA_THE_/5" title="wikilink">MOGA THE \5</a></li>
@@ -453,14 +453,14 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/エレファントカシマシ" title="wikilink">エレファントカシマシ</a>トリビュートアルバム「<a href="../Page/花男_(アルバム).md" title="wikilink">花男</a>」</p></td>
 <td><p>BFCA-83510</p></td>
 <td><ol>
-<li><a href="https://ja.wikipedia.org/wiki/so_many_people" title="wikilink">so many people</a> / <a href="https://ja.wikipedia.org/wiki/POTSHOT" title="wikilink">POTSHOT</a></li>
-<li>さらば青春 / <a href="https://ja.wikipedia.org/wiki/HUSKING_BEE" title="wikilink">HUSKING BEE</a></li>
-<li><a href="../Page/孤独な太陽_(エレファントカシマシの曲).md" title="wikilink">孤独な太陽</a> / <a href="https://ja.wikipedia.org/wiki/STANCE_PUNKS" title="wikilink">STANCE PUNKS</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/so_many_people" title="wikilink">so many people</a> / <a href="../Page/POTSHOT.md" title="wikilink">POTSHOT</a></li>
+<li>さらば青春 / <a href="../Page/HUSKING_BEE.md" title="wikilink">HUSKING BEE</a></li>
+<li><a href="../Page/孤独な太陽_(エレファントカシマシの曲).md" title="wikilink">孤独な太陽</a> / <a href="../Page/STANCE_PUNKS.md" title="wikilink">STANCE PUNKS</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/孤独な旅人" title="wikilink">孤独な旅人</a> / <a href="https://ja.wikipedia.org/wiki/ストレイテナー" title="wikilink">ストレイテナー</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/浮雲男" title="wikilink">浮雲男</a> (Takkyu's Japp Tekno ppopp Mix) / <a href="../Page/石野卓球.md" title="wikilink">石野卓球</a></li>
 <li>星の砂 / <a href="../Page/DMBQ.md" title="wikilink">DMBQ</a></li>
 <li>男餓鬼道空っ風 / <a href="https://ja.wikipedia.org/wiki/怒髪天" title="wikilink">怒髪天</a></li>
-<li>遁世 (白昼夢ver.) / <a href="https://ja.wikipedia.org/wiki/Syrup_16g" title="wikilink">Syrup 16g</a></li>
+<li>遁世 (白昼夢ver.) / <a href="../Page/Syrup_16g.md" title="wikilink">Syrup 16g</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/男は行く" title="wikilink">男は行く</a> / <a href="../Page/KING_BROTHERS.md" title="wikilink">KING BROTHERS</a></li>
 <li><strong>星の降るような夜に / BAZRA</strong></li>
 <li><a href="../Page/悲しみの果て.md" title="wikilink">悲しみの果て</a> / <a href="https://ja.wikipedia.org/wiki/銀杏BOYZ" title="wikilink">銀杏BOYZ</a></li>
@@ -484,7 +484,7 @@
 <td><p>代沢時代 ～Decade of Daizawa Days～</p></td>
 <td><p>UKDZ-0121</p></td>
 <td><ol>
-<li>希望 / <a href="https://ja.wikipedia.org/wiki/LOST_IN_TIME" title="wikilink">LOST IN TIME</a></li>
+<li>希望 / <a href="../Page/LOST_IN_TIME.md" title="wikilink">LOST IN TIME</a></li>
 <li>Marine / <a href="../Page/KAREN_(バンド).md" title="wikilink">KAREN</a></li>
 <li>Darjeeling / <a href="https://ja.wikipedia.org/wiki/伊藤文暁" title="wikilink">伊藤文暁</a></li>
 <li>何もできない / <a href="https://ja.wikipedia.org/wiki/paionia" title="wikilink">paionia</a></li>
@@ -495,7 +495,7 @@
 <li>Demophobia / <a href="https://ja.wikipedia.org/wiki/PILLS_EMPIRE" title="wikilink">PILLS EMPIRE</a></li>
 <li>electric girl / <a href="https://ja.wikipedia.org/wiki/the_telephones" title="wikilink">the telephones</a></li>
 <li>Mexico Pub / <a href="https://ja.wikipedia.org/wiki/VOLA&amp;THE_ORIENTAL_MACHINE" title="wikilink">VOLA&amp;THE ORIENTAL MACHINE</a></li>
-<li>NEW HERO / <a href="https://ja.wikipedia.org/wiki/SPARTA_LOCALS" title="wikilink">SPARTA LOCALS</a></li>
+<li>NEW HERO / <a href="../Page/SPARTA_LOCALS.md" title="wikilink">SPARTA LOCALS</a></li>
 <li>青い春 / <a href="https://ja.wikipedia.org/wiki/Your_gold,_my_pink" title="wikilink">Your gold, my pink</a></li>
 <li>Ru's rock / <a href="https://ja.wikipedia.org/wiki/CONDOR44" title="wikilink">CONDOR44</a></li>
 <li><strong>凡凡 / BAZRA</strong></li>
@@ -528,7 +528,7 @@
 
   - 2004年 - BAZLIVE ―ワイルドボルザークー
   - 2004年 - BAZRA tour 凡 to be wild 2004
-      - w/[椿屋四重奏](../Page/椿屋四重奏.md "wikilink")/[ランクヘッド](https://ja.wikipedia.org/wiki/ランクヘッド "wikilink")/[つばき](../Page/つばき_\(ロックバンド\).md "wikilink")/[ストレイテナー](https://ja.wikipedia.org/wiki/ストレイテナー "wikilink")/[SPARTA LOCALS](https://ja.wikipedia.org/wiki/SPARTA_LOCALS "wikilink")/[JELLY LEE PHANTOM](https://ja.wikipedia.org/wiki/JELLY_LEE_PHANTOM "wikilink")
+      - w/[椿屋四重奏](../Page/椿屋四重奏.md "wikilink")/[ランクヘッド](https://ja.wikipedia.org/wiki/ランクヘッド "wikilink")/[つばき](../Page/つばき_\(ロックバンド\).md "wikilink")/[ストレイテナー](https://ja.wikipedia.org/wiki/ストレイテナー "wikilink")/[SPARTA LOCALS](../Page/SPARTA_LOCALS.md "wikilink")/[JELLY LEE PHANTOM](https://ja.wikipedia.org/wiki/JELLY_LEE_PHANTOM "wikilink")
   - 2007年 - 2007 年忘れ "バズベスト" スペシャル
 
 ### 出演イベント
@@ -539,7 +539,7 @@
   - 2003年08月15日 - [RISING SUN ROCK FESTIVAL](https://ja.wikipedia.org/wiki/RISING_SUN_ROCK_FESTIVAL "wikilink") 2003 in EZO
   - 2003年09月06日 - [ARABAKI ROCK FEST.](../Page/ARABAKI_ROCK_FEST..md "wikilink")09072003 荒吐宵祭
   - 2003年10月19日 - MINAMI WHEEL 2003
-  - 2004年12月31日 - [COUNTDOWN JAPAN](https://ja.wikipedia.org/wiki/COUNTDOWN_JAPAN "wikilink") 04/05
+  - 2004年12月31日 - [COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 04/05
   - 2005年07月23日 - [SETSTOCK](../Page/SETSTOCK.md "wikilink")'05
   - 2005年08月06日 - [ROCK IN JAPAN FESTIVAL](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink") 2005
   - 2005年08月26日 - [SET YOU FREE](https://ja.wikipedia.org/wiki/SET_YOU_FREE "wikilink") SUMMER FESTA 2005
@@ -547,7 +547,7 @@
   - 2005年09月24日 - daimasの日記スペシャル
   - 2005年10月22日 - MINAMI WHEEL 2005
   - 2006年08月18日 - RISING SUN ROCK FESTIVAL 2006 in EZO
-  - 2007年02月03日 - [DIENOJI](https://ja.wikipedia.org/wiki/ダイノジ "wikilink") ROCK FESTIVAL VOLUME 2
+  - 2007年02月03日 - [DIENOJI](../Page/ダイノジ.md "wikilink") ROCK FESTIVAL VOLUME 2
   - 2007年08月25日 - VINTAGE LEAGUE
   - 2007年09月22日 - Selfishness of Queen vol.1
   - 2009年02月11日 - DIENOJI ROCK FESTIVAL DRF4 "for music,for Rock'n Roll,for smile,and for YOU"

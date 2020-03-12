@@ -5,11 +5,11 @@
 
 ## 略歴
 
-2002年[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")[山鹿市](../Page/山鹿市.md "wikilink")でLioとNoBuNaGa、[マニピュレーター](https://ja.wikipedia.org/wiki/マニピュレーター "wikilink")のCh@ppy（Ch@ppyの脱退後、龍が加入）の3人で結成。九州を中心にライブ活動開始。同年、[テレビ熊本](../Page/テレビ熊本.md "wikilink")のテレビ番組『[若っ人ランド](https://ja.wikipedia.org/wiki/若っ人ランド "wikilink")』と[ソニー・ミュージックパブリッシング](../Page/ソニー・ミュージックパブリッシング.md "wikilink")がコラボレーションして行った「若っ人ランド×SMP smoove オーディション」で100組の中からグランプリに輝き、Yanagiman（ケツメイシetc）トラックプロデュースで「Panorama」をリリース。その後東京に進出。龍の脱退後、AkiraとOkiが加入し、現在のメンバーになる。そして、結成当時から掲げていた「**NO STEREOTYPE**（お決まりがない）」という言葉のごとく、2MC+2シンガーという変形スタイルとなった。
+2002年[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")[山鹿市](../Page/山鹿市.md "wikilink")でLioとNoBuNaGa、[マニピュレーター](../Page/マニピュレーター.md "wikilink")のCh@ppy（Ch@ppyの脱退後、龍が加入）の3人で結成。九州を中心にライブ活動開始。同年、[テレビ熊本](../Page/テレビ熊本.md "wikilink")のテレビ番組『[若っ人ランド](../Page/若っ人ランド.md "wikilink")』と[ソニー・ミュージックパブリッシング](../Page/ソニー・ミュージックパブリッシング.md "wikilink")がコラボレーションして行った「若っ人ランド×SMP smoove オーディション」で100組の中からグランプリに輝き、Yanagiman（ケツメイシetc）トラックプロデュースで「Panorama」をリリース。その後東京に進出。龍の脱退後、AkiraとOkiが加入し、現在のメンバーになる。そして、結成当時から掲げていた「**NO STEREOTYPE**（お決まりがない）」という言葉のごとく、2MC+2シンガーという変形スタイルとなった。
 
 音楽ジャンルに関しては、[ヒップホップ](../Page/ヒップホップ.md "wikilink")を基点としながらも「こだわりがないことにこだわる」ことを信条としている。
 
-2005年8月3日、両A面シングル「Days/KAGEROU」でメジャーデビューし、全国のFMラジオ局25局でパワープレイを獲得した。2006年3月1日にリリースされた2ndシングル「Canvas」は[TBS系アニメ](../Page/TBSテレビ.md "wikilink")『[交響詩篇エウレカセブン](https://ja.wikipedia.org/wiki/交響詩篇エウレカセブン "wikilink")』のエンディングテーマに抜擢。2006年5月、[電気グルーヴ](../Page/電気グルーヴ.md "wikilink")のヒット曲「[Shangri-La](https://ja.wikipedia.org/wiki/Shangri-La_\(電気グルーヴの曲\) "wikilink")」をサンプリングした「Shangri-La～Poisonポワゾン～」をリリースする。Sony musicアニメフェス'06にて、大阪城ホール・代々木第一体育館3万人を前にライブ。2006年10月4日、1stアルバム「NO STEREOTYPE」リリース。2006年12月20日発売の「Snowman」で初の本人出演のCMに抜擢。この曲はCOOLONが熊本で活動していた時期から期間限定で歌われていた。
+2005年8月3日、両A面シングル「Days/KAGEROU」でメジャーデビューし、全国のFMラジオ局25局でパワープレイを獲得した。2006年3月1日にリリースされた2ndシングル「Canvas」は[TBS系アニメ](../Page/TBSテレビ.md "wikilink")『[交響詩篇エウレカセブン](https://ja.wikipedia.org/wiki/交響詩篇エウレカセブン "wikilink")』のエンディングテーマに抜擢。2006年5月、[電気グルーヴ](../Page/電気グルーヴ.md "wikilink")のヒット曲「[Shangri-La](../Page/Shangri-La_\(電気グルーヴの曲\).md "wikilink")」をサンプリングした「Shangri-La～Poisonポワゾン～」をリリースする。Sony musicアニメフェス'06にて、大阪城ホール・代々木第一体育館3万人を前にライブ。2006年10月4日、1stアルバム「NO STEREOTYPE」リリース。2006年12月20日発売の「Snowman」で初の本人出演のCMに抜擢。この曲はCOOLONが熊本で活動していた時期から期間限定で歌われていた。
 
 [2007年](../Page/2007年.md "wikilink")[8月](../Page/8月.md "wikilink")、音楽の方向性の違いにより解散。
 
@@ -181,7 +181,7 @@ SRCL-6564:通常盤</p></td>
 <li>SPEECH・・・</li>
 <li>RALLY AGAINST</li>
 <li>TILL DAWN(<a href="https://ja.wikipedia.org/wiki/RYUKYUDISKO" title="wikilink">RYUKYU DISKO</a> REMIX)</li>
-<li>PANORAMA(<a href="https://ja.wikipedia.org/wiki/Reggae_Disco_Rockers" title="wikilink">REGGAE DISCO ROCKERS</a> REMIX)</li>
+<li>PANORAMA(<a href="../Page/Reggae_Disco_Rockers.md" title="wikilink">REGGAE DISCO ROCKERS</a> REMIX)</li>
 </ol></td>
 <td><p>compactsounds</p></td>
 </tr>
@@ -245,7 +245,7 @@ SRCL-6564:通常盤</p></td>
 
 | 曲名        | タイアップ                                                                                                                                 |
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| Days      | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[流派-R](https://ja.wikipedia.org/wiki/流派-R "wikilink")』8月度オープニングテーマ           |
+| Days      | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[流派-R](../Page/流派-R.md "wikilink")』8月度オープニングテーマ                              |
 | KAGEROU   | [ブルボン](../Page/ブルボン.md "wikilink") アルフォートミニチョコ TVCMソング                                                                                |
 | Canvas    | [TBS系アニメ](../Page/TBSテレビ.md "wikilink")『[交響詩篇エウレカセブン](https://ja.wikipedia.org/wiki/交響詩篇エウレカセブン "wikilink")エンディングテーマ（\#40-\#49）       |
 | Snowman   | 「WINTER SPORTS FESTA 2006-2007 with Candy Flava」CFソング（CFはメンバー出演）                                                                      |

@@ -1,15 +1,15 @@
 > この記事は[YBCToday](https://ja.wikipedia.org/wiki/YBCToday)から翻訳されています。
 
 
-『**YBCニュースToday**』（ワイビーシー ニューストゥデイ）は、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[7月4日](../Page/7月4日.md "wikilink")から[1984年](../Page/1984年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[山形放送](../Page/山形放送.md "wikilink")（YBCテレビ）で放送された夕方の[ローカル](https://ja.wikipedia.org/wiki/ローカル番組 "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。同局の夕方枠で放送される番組としては初のローカルニュース専門の番組であった。
+『**YBCニュースToday**』（ワイビーシー ニューストゥデイ）は、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[7月4日](../Page/7月4日.md "wikilink")から[1984年](../Page/1984年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[山形放送](../Page/山形放送.md "wikilink")（YBCテレビ）で放送された夕方の[ローカル](../Page/ローカル番組.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。同局の夕方枠で放送される番組としては初のローカルニュース専門の番組であった。
 
 ## 概要
 
-同局では1983年4月に報道・情報番組『**[YBC6時です](https://ja.wikipedia.org/wiki/YBC6時です "wikilink")**』（18時から18:30放送）を時間拡大・前倒しした『**YBCワイド60**』（17:30から18:30）という番組が編成されていたが、ローカルニュースは番組の中で10分間伝えるのみであった。そこで夕方の報道枠の強化を目指し、同番組から独立。7月という中途半端な時期に立ち上げられた。番組タイトルは[札幌テレビ](https://ja.wikipedia.org/wiki/札幌テレビ放送 "wikilink")『[STVニュースToday](../Page/STVニュースToday.md "wikilink")』、[ミヤギテレビ](../Page/宮城テレビ放送.md "wikilink")『[みやぎToday](https://ja.wikipedia.org/wiki/みやぎToday "wikilink")』、[福島中央テレビ](../Page/福島中央テレビ.md "wikilink")『[ふくしまToday](https://ja.wikipedia.org/wiki/ふくしまToday "wikilink")』、[よみうりテレビ](../Page/讀賣テレビ放送.md "wikilink")『[きんきTODAY](https://ja.wikipedia.org/wiki/きんきTODAY "wikilink")』、[中京テレビ](../Page/中京テレビ放送.md "wikilink")『[中京TODAY](https://ja.wikipedia.org/wiki/中京TODAY "wikilink")』などタイトルに「Today (TODAY)」を取り入れている局にあやかって名づけた。1984年3月番組終了、翌4月からは18:00 - 18:30に時間拡大し、『[YBC6:00きょうのニュース](https://ja.wikipedia.org/wiki/YBC6:00きょうのニュース "wikilink")』を始める。
+同局では1983年4月に報道・情報番組『**[YBC6時です](../Page/YBC6時です.md "wikilink")**』（18時から18:30放送）を時間拡大・前倒しした『**YBCワイド60**』（17:30から18:30）という番組が編成されていたが、ローカルニュースは番組の中で10分間伝えるのみであった。そこで夕方の報道枠の強化を目指し、同番組から独立。7月という中途半端な時期に立ち上げられた。番組タイトルは[札幌テレビ](../Page/札幌テレビ放送.md "wikilink")『[STVニュースToday](../Page/STVニュースToday.md "wikilink")』、[ミヤギテレビ](../Page/宮城テレビ放送.md "wikilink")『[みやぎToday](https://ja.wikipedia.org/wiki/みやぎToday "wikilink")』、[福島中央テレビ](../Page/福島中央テレビ.md "wikilink")『[ふくしまToday](https://ja.wikipedia.org/wiki/ふくしまToday "wikilink")』、[よみうりテレビ](../Page/讀賣テレビ放送.md "wikilink")『[きんきTODAY](../Page/きんきTODAY.md "wikilink")』、[中京テレビ](../Page/中京テレビ放送.md "wikilink")『[中京TODAY](../Page/中京TODAY.md "wikilink")』などタイトルに「Today (TODAY)」を取り入れている局にあやかって名づけた。1984年3月番組終了、翌4月からは18:00 - 18:30に時間拡大し、『[YBC6:00きょうのニュース](https://ja.wikipedia.org/wiki/YBC6:00きょうのニュース "wikilink")』を始める。
 
 ## 放送時間
 
-平日 18:15 - 18:30 （このため、17:30 - 18:30までだった『YBCワイド60』は1983年7月より15分短縮。1984年4月からは18:00までの30分に縮小し、『**[YBCジュニア放送局 君にVキュン](https://ja.wikipedia.org/wiki/YBCジュニア放送局_君にVキュン "wikilink")**』を開始）
+平日 18:15 - 18:30 （このため、17:30 - 18:30までだった『YBCワイド60』は1983年7月より15分短縮。1984年4月からは18:00までの30分に縮小し、『**[YBCジュニア放送局 君にVキュン](../Page/YBCジュニア放送局_君にVキュン.md "wikilink")**』を開始）
 
 ## キャスター
 

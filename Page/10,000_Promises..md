@@ -8,8 +8,8 @@
   - 都内で個々で音楽活動をしていたTaikiとYoheiが、まだ日本にはいない[バックストリート・ボーイズ](https://ja.wikipedia.org/wiki/バックストリート・ボーイズ "wikilink")のようなグループを創ってみないかとの提案を受け、メンバー集めがスタート。
   - Taikiが音楽学校の友人Shinyaを誘う。誰もがメインを取るグループ、というコンセプトに魅力を感じたShinyaはオーディションを受けて合格。3人目が決定。
   - 4人目が決まらず、その間は3人で活動。
-  - その後Shawが発掘され、[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")の[First Loveを聴いて即決](https://ja.wikipedia.org/wiki/First_Love_\(宇多田ヒカルの曲\) "wikilink")。Shawが加入し、10,000 Promises.が誕生する。
-  - 2004年2月18日[エスエムイーレコーズ](https://ja.wikipedia.org/wiki/エスエムイーレコーズ "wikilink")よりMaxi Single「One True Love」にてメジャーデビュー。
+  - その後Shawが発掘され、[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")の[First Loveを聴いて即決](../Page/First_Love_\(宇多田ヒカルの曲\).md "wikilink")。Shawが加入し、10,000 Promises.が誕生する。
+  - 2004年2月18日[エスエムイーレコーズ](../Page/エスエムイーレコーズ.md "wikilink")よりMaxi Single「One True Love」にてメジャーデビュー。
   - 2007年3月21日、渋谷O-EASTでのラストライブをもって「プロジェクト終了」（事実上の解散）。
 
 ## メンバー
@@ -43,7 +43,7 @@
 
 <!-- end list -->
 
-  - **Yohei**（[1979年](../Page/1979年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink") -）[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身、身長175cm
+  - **Yohei**（[1979年](../Page/1979年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink") -）[東京都](../Page/東京都.md "wikilink")出身、身長175cm
 
 <!-- end list -->
 
@@ -262,7 +262,7 @@ SECL-230:通常盤</p></td>
 | 曲名            | タイアップ                                                                                                                              |
 | ------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
 | One True Love | [TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[奥さまは魔女](../Page/奥さまは魔女_\(テレビドラマ\).md "wikilink")』のエンディング・テーマ                              |
-| 雨が上がりの僕の心は    | BS日本他ドラマ「[19borders](https://ja.wikipedia.org/wiki/19borders "wikilink")」エンディング・テーマ                                                |
+| 雨が上がりの僕の心は    | BS日本他ドラマ「[19borders](../Page/19borders.md "wikilink")」エンディング・テーマ                                                                   |
 | Love,Again    | [毎日放送](../Page/毎日放送.md "wikilink")系[ドラマ30](../Page/ドラマ30.md "wikilink")『[ヤ・ク・ソ・ク](../Page/ヤ・ク・ソ・ク.md "wikilink")』2nd Half（male）主題歌 |
 
 ## 出演
@@ -270,8 +270,8 @@ SECL-230:通常盤</p></td>
   - 2004年 - NHK「[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")」
   - 2004年 - 日本テレビ系列 「AX MUSIC-TV 00」
   - 2004年 - テレビ朝日系「[Mの黙示録](../Page/Mの黙示録.md "wikilink")」
-  - 2004年 - 日本テレビ系列 「[@サプリッ\!](https://ja.wikipedia.org/wiki/@サプリッ! "wikilink")」
-  - 2004年 - TBS系「[月曜組曲](https://ja.wikipedia.org/wiki/月曜組曲 "wikilink")」
+  - 2004年 - 日本テレビ系列 「[@サプリッ\!](../Page/@サプリッ!.md "wikilink")」
+  - 2004年 - TBS系「[月曜組曲](../Page/月曜組曲.md "wikilink")」
   - 2004年 - テレビ東京系「[月刊MelodiX\!](https://ja.wikipedia.org/wiki/月刊MelodiX! "wikilink")」
 
 ## 関連項目

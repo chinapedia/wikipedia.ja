@@ -1,7 +1,7 @@
 > この記事は[OUTSIDE SIGNAL](https://ja.wikipedia.org/wiki/OUTSIDE_SIGNAL)から翻訳されています。
 
 
-**OUTSIDE SIGNAL**（アウトサイドシグナル）は、日本の[バンドである](../Page/バンド_\(音楽\).md "wikilink")。[2004年](../Page/2004年.md "wikilink")[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")よりメジャーデビュー。　元[デートピア](../Page/デートピア.md "wikilink")所属。
+**OUTSIDE SIGNAL**（アウトサイドシグナル）は、日本の[バンドである](../Page/バンド_\(音楽\).md "wikilink")。[2004年](../Page/2004年.md "wikilink")[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")よりメジャーデビュー。　元[デートピア](../Page/デートピア.md "wikilink")所属。
 
 ## メンバー
 

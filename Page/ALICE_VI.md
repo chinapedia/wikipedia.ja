@@ -1,7 +1,7 @@
 > この記事は[ALICE VI](https://ja.wikipedia.org/wiki/ALICE_VI)から翻訳されています。
 
 
-『**ALICE VI**』（アリス・シックス）は1978年4月にリリースされた[アリス](https://ja.wikipedia.org/wiki/アリス_\(フォークグループ\) "wikilink")6枚目のオリジナル・アルバムである。
+『**ALICE VI**』（アリス・シックス）は1978年4月にリリースされた[アリス](../Page/アリス_\(フォークグループ\).md "wikilink")6枚目のオリジナル・アルバムである。
 
 ## 解説
 
@@ -15,7 +15,7 @@
 1.  **つむじ風**(3分44秒)
       - 作詞・作曲:[谷村新司](../Page/谷村新司.md "wikilink")／編曲:[篠原信彦](https://ja.wikipedia.org/wiki/篠原信彦 "wikilink")
 2.  **[冬の稲妻](../Page/冬の稲妻.md "wikilink")**(3分05秒)
-      - 作詞:谷村新司／作曲:[堀内孝雄](../Page/堀内孝雄.md "wikilink")／編曲:[石川鷹彦](https://ja.wikipedia.org/wiki/石川鷹彦 "wikilink")
+      - 作詞:谷村新司／作曲:[堀内孝雄](../Page/堀内孝雄.md "wikilink")／編曲:[石川鷹彦](../Page/石川鷹彦.md "wikilink")
 3.  **砂塵の彼方**(3分48秒)
       - 作詞:谷村新司／作曲:堀内孝雄／編曲: ラスト・ショー
 4.  **[センチメンタル・ブルース](../Page/ジョニーの子守唄.md "wikilink")**(3分39秒)
@@ -40,6 +40,6 @@
 
 ## 関連項目
 
-  - [1978年の音楽](https://ja.wikipedia.org/wiki/1978年の音楽 "wikilink")
+  - [1978年の音楽](../Page/1978年の音楽.md "wikilink")
 
 [Category:アリスのアルバム](https://ja.wikipedia.org/wiki/Category:アリスのアルバム "wikilink") [Category:1978年のアルバム](https://ja.wikipedia.org/wiki/Category:1978年のアルバム "wikilink") [Category:1978年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1978年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:エキスプレスのアルバム](https://ja.wikipedia.org/wiki/Category:エキスプレスのアルバム "wikilink")

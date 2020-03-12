@@ -1,7 +1,7 @@
 > この記事は[Artificial Linguistic Internet Computer Entity](https://ja.wikipedia.org/wiki/Artificial_Linguistic_Internet_Computer_Entity)から翻訳されています。
 
 
-**Artificial Linguistic Internet Computer Entity**（**A.L.I.C.E.**）は、[自然言語処理](../Page/自然言語処理.md "wikilink")を行う[おしゃべりボット](https://ja.wikipedia.org/wiki/おしゃべりボット "wikilink")の1つ。ヒューリスティック的なパターンマッチングを適用しつつ人間と対話を行う。[ジョセフ・ワイゼンバウム](https://ja.wikipedia.org/wiki/ジョセフ・ワイゼンバウム "wikilink")の[ELIZA](../Page/ELIZA.md "wikilink")プログラムに触発されて開発された。この種のプログラムとしては最も強力なものの1つで、[ローブナー賞](../Page/ローブナー賞.md "wikilink")を3回受賞している（2000年、2001年、2004年）。しかし、[チューリングテスト](https://ja.wikipedia.org/wiki/チューリングテスト "wikilink")に合格するには至っておらず、何の事前知識も持たないユーザーでもちょっと対話しただけで機械的な雰囲気を感じ取ることが多い。
+**Artificial Linguistic Internet Computer Entity**（**A.L.I.C.E.**）は、[自然言語処理](../Page/自然言語処理.md "wikilink")を行う[おしゃべりボット](https://ja.wikipedia.org/wiki/おしゃべりボット "wikilink")の1つ。ヒューリスティック的なパターンマッチングを適用しつつ人間と対話を行う。[ジョセフ・ワイゼンバウム](../Page/ジョセフ・ワイゼンバウム.md "wikilink")の[ELIZA](../Page/ELIZA.md "wikilink")プログラムに触発されて開発された。この種のプログラムとしては最も強力なものの1つで、[ローブナー賞](../Page/ローブナー賞.md "wikilink")を3回受賞している（2000年、2001年、2004年）。しかし、[チューリングテスト](https://ja.wikipedia.org/wiki/チューリングテスト "wikilink")に合格するには至っておらず、何の事前知識も持たないユーザーでもちょっと対話しただけで機械的な雰囲気を感じ取ることが多い。
 
 当初、Alice という名称だったが、後に同じ綴りになるよう頭字語が設定された。
 

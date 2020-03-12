@@ -5,7 +5,7 @@
 
 ## 概要
 
-faviconのはじまりは、[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")である[Microsoft Internet Explorer 5によってはじめて搭載された独自の](https://ja.wikipedia.org/wiki/Internet_Explorer#Internet_Explorer_5 "wikilink")（非HTML標準の）機能であった。ユーザーが任意のウェブサイトを[お気に入りに登録するときに](https://ja.wikipedia.org/wiki/ブックマーク "wikilink")、ウェブブラウザは該当Webサイトのディレクトリから `favicon.ico` ファイルの存在を調べ、ある場合はこのファイルを該当Webサイトのアイコン画像として取り込む。それ以降にお気に入り一覧を表示する際、該当Webサイトについては一般的なWebアイコンではなく取り込んだアイコン画像が表示されるようになる。これにより、他のWebサイトのアイコンよりも目立たせ、ユーザーへイメージによる直観的な選択操作への便宜を図ることができる。
+faviconのはじまりは、[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")である[Microsoft Internet Explorer 5によってはじめて搭載された独自の](https://ja.wikipedia.org/wiki/Internet_Explorer#Internet_Explorer_5 "wikilink")（非HTML標準の）機能であった。ユーザーが任意のウェブサイトを[お気に入りに登録するときに](../Page/ブックマーク.md "wikilink")、ウェブブラウザは該当Webサイトのディレクトリから `favicon.ico` ファイルの存在を調べ、ある場合はこのファイルを該当Webサイトのアイコン画像として取り込む。それ以降にお気に入り一覧を表示する際、該当Webサイトについては一般的なWebアイコンではなく取り込んだアイコン画像が表示されるようになる。これにより、他のWebサイトのアイコンよりも目立たせ、ユーザーへイメージによる直観的な選択操作への便宜を図ることができる。
 
 現在では多くのウェブブラウザが本機能を搭載している。アイコンファイルの配置場所を `link` タグにより任意に指定できるようになり、従来の[ICO形式以外に](https://ja.wikipedia.org/wiki/ICO_\(ファイルフォーマット\) "wikilink")[GIF形式や](../Page/Graphics_Interchange_Format.md "wikilink")[PNG形式もサポートされるウェブブラウザが増えたため広く利用されている](../Page/Portable_Network_Graphics.md "wikilink")。
 

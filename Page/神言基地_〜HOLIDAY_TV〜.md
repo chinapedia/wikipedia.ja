@@ -1,23 +1,23 @@
 > この記事は[ HOLIDAY TV](https://ja.wikipedia.org/wiki/_HOLIDAY_TV)から翻訳されています。
 
 
-『**神言基地 〜HOLIDAY TV〜**』（しんげんきち ホリデイティービー）は、[テレビ大阪](../Page/テレビ大阪.md "wikilink")と[テレビ和歌山](https://ja.wikipedia.org/wiki/テレビ和歌山 "wikilink")で放送されていた[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")である。テレビ大阪では[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")から[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[12月29日](https://ja.wikipedia.org/wiki/12月29日 "wikilink")まで放送。
+『**神言基地 〜HOLIDAY TV〜**』（しんげんきち ホリデイティービー）は、[テレビ大阪](../Page/テレビ大阪.md "wikilink")と[テレビ和歌山](https://ja.wikipedia.org/wiki/テレビ和歌山 "wikilink")で放送されていた[音楽番組](../Page/音楽番組.md "wikilink")である。テレビ大阪では[2006年](../Page/2006年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[12月29日](../Page/12月29日.md "wikilink")まで放送。
 
 ## 概要
 
-[Phantasmagoria](https://ja.wikipedia.org/wiki/Phantasmagoria "wikilink")のベーシスト・[KISAKI](https://ja.wikipedia.org/wiki/KISAKI "wikilink")が主催する音楽事務所「UNDER CODE PRODUCTION」がライブハウス「HOLIDAY」と連携して制作していた[深夜番組](../Page/深夜番組.md "wikilink")で、主に[インディーズ](../Page/インディーズ.md "wikilink")シーンで活動する[バンドを紹介](../Page/バンド_\(音楽\).md "wikilink")。KISAKIをはじめとする[MCたちが彼らとトークしたり](https://ja.wikipedia.org/wiki/司会 "wikilink")、彼らのライブ映像を紹介したりしていた。UNDER CODE PRODUCTIONに所属するバンドはもちろんのこと、KISAKIがライブで共演したバンドや[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")情報雑誌『Cure』の表紙を飾ったバンドも紹介していた。基本的には2組のバンドをゲストに招いていた。
+[Phantasmagoria](../Page/Phantasmagoria.md "wikilink")のベーシスト・[KISAKI](../Page/KISAKI.md "wikilink")が主催する音楽事務所「UNDER CODE PRODUCTION」がライブハウス「HOLIDAY」と連携して制作していた[深夜番組](../Page/深夜番組.md "wikilink")で、主に[インディーズ](../Page/インディーズ.md "wikilink")シーンで活動する[バンドを紹介](../Page/バンド_\(音楽\).md "wikilink")。KISAKIをはじめとする[MCたちが彼らとトークしたり](../Page/司会.md "wikilink")、彼らのライブ映像を紹介したりしていた。UNDER CODE PRODUCTIONに所属するバンドはもちろんのこと、KISAKIがライブで共演したバンドや[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")情報雑誌『Cure』の表紙を飾ったバンドも紹介していた。基本的には2組のバンドをゲストに招いていた。
 
 ## 出演者
 
 ### 司会
 
-  - [KISAKI](https://ja.wikipedia.org/wiki/KISAKI "wikilink") （[Phantasmagoria](https://ja.wikipedia.org/wiki/Phantasmagoria "wikilink")） - 元MC。登場するときにはPhantasmagoriaの代表曲「神歌」がBGMに使われていた。音楽活動の引退とともに、2007年9月1日放送分をもってMCの座を後述のマコトに譲った。
+  - [KISAKI](../Page/KISAKI.md "wikilink") （[Phantasmagoria](../Page/Phantasmagoria.md "wikilink")） - 元MC。登場するときにはPhantasmagoriaの代表曲「神歌」がBGMに使われていた。音楽活動の引退とともに、2007年9月1日放送分をもってMCの座を後述のマコトに譲った。
   - KATCHIN - 全期間にわたってMCを担当。髪にパーマをかけ、いつも帽子を被っていた。
-  - [楠城華子](https://ja.wikipedia.org/wiki/楠城華子 "wikilink") - 2006年4月と6月に出演していた女性MC。同年7月以降は出演しなくなり、以後は後述の声が女性MCのポジションに就いていた。
-  - [声](https://ja.wikipedia.org/wiki/コスプレ声 "wikilink") - 楠城に替わって2006年7月からMCを担当。マルチコスプレタレントで、『[ポケットモンスター](https://ja.wikipedia.org/wiki/ポケットモンスター_\(アニメ\) "wikilink")』や『[ケロロ軍曹](../Page/ケロロ軍曹_\(アニメ\).md "wikilink")』などのアニメ関係の衣装をはじめ、様々な衣装を持っている。
-  - ラメ（[ヴィドール](https://ja.wikipedia.org/wiki/ヴィドール_\(バンド\) "wikilink")） - 稀にKISAKIの代理でMCを担当することがあった。
+  - [楠城華子](../Page/楠城華子.md "wikilink") - 2006年4月と6月に出演していた女性MC。同年7月以降は出演しなくなり、以後は後述の声が女性MCのポジションに就いていた。
+  - [声](https://ja.wikipedia.org/wiki/コスプレ声 "wikilink") - 楠城に替わって2006年7月からMCを担当。マルチコスプレタレントで、『[ポケットモンスター](../Page/ポケットモンスター_\(アニメ\).md "wikilink")』や『[ケロロ軍曹](../Page/ケロロ軍曹_\(アニメ\).md "wikilink")』などのアニメ関係の衣装をはじめ、様々な衣装を持っている。
+  - ラメ（[ヴィドール](../Page/ヴィドール_\(バンド\).md "wikilink")） - 稀にKISAKIの代理でMCを担当することがあった。
   - ミノル（[GLADZ J.B](https://ja.wikipedia.org/wiki/GLADZ_J.B "wikilink")） - 2007年からMCに参加していたが、KISAKIが引退するとともにMCを辞退した。会話数は少なかった。
-  - マコト（[ドレミ團](https://ja.wikipedia.org/wiki/ドレミ團 "wikilink")） - KISAKIが引退した後、彼に替わってMCを担当。
+  - マコト（[ドレミ團](../Page/ドレミ團.md "wikilink")） - KISAKIが引退した後、彼に替わってMCを担当。
 
 ### その他
 
@@ -57,7 +57,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/大阪府" title="wikilink">大阪府</a></p></td>
+<td><p><a href="../Page/大阪府.md" title="wikilink">大阪府</a></p></td>
 <td><p><a href="../Page/テレビ大阪.md" title="wikilink">テレビ大阪</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/TXN" title="wikilink">テレビ東京系列</a></p></td>
 <td><p>土曜 27:20 - 27:50 （2006年9月まで）<br />
@@ -75,10 +75,10 @@
 
 ## 関連項目
 
-  - [KISAKI](https://ja.wikipedia.org/wiki/KISAKI "wikilink")
-  - [Phantasmagoria](https://ja.wikipedia.org/wiki/Phantasmagoria "wikilink")
-  - [ヴィドール](https://ja.wikipedia.org/wiki/ヴィドール_\(バンド\) "wikilink")
-  - [12012](https://ja.wikipedia.org/wiki/12012 "wikilink")
+  - [KISAKI](../Page/KISAKI.md "wikilink")
+  - [Phantasmagoria](../Page/Phantasmagoria.md "wikilink")
+  - [ヴィドール](../Page/ヴィドール_\(バンド\).md "wikilink")
+  - [12012](../Page/12012.md "wikilink")
 
 ## 外部リンク
 

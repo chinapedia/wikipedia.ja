@@ -7,13 +7,13 @@
 
 ## 歴史
 
-PMLという概念は、もともと[火災保険](https://ja.wikipedia.org/wiki/火災保険 "wikilink")の保険料などを考える資料として[アメリカで生まれた](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。地震や火災以外の各種損害にも同じ概念が存在する。
+PMLという概念は、もともと[火災保険](../Page/火災保険.md "wikilink")の保険料などを考える資料として[アメリカで生まれた](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。地震や火災以外の各種損害にも同じ概念が存在する。
 
 地震の分野にPMLの概念が入ってきたころは、最も大きな被害をもたらす揺れを想定して[耐震](../Page/耐震.md "wikilink")[設計](../Page/設計.md "wikilink")に役立てるというものだった。1960年代後半に入り、地震の発生確率を加味した算出方法の開発が始まり、1970年代には確率論的な被害算出方法の開発が始まった。1980年代には保険の分野に地震PMLの概念が入り、最大想定地震（再現期間475年の地震、MCE = Maximum Credible Earthquake）が定義された。
 
-現在、日本の保険業界では、企業が関わるものやリスク管理などにおいて広く利用されている。建設業界では、[不動産](https://ja.wikipedia.org/wiki/不動産 "wikilink")の証券化に際して、不動産の将来収益の予測を考える指標として、不動産業で多用されている。投資リスクを小さくするために、この**地震PML**の値が一定以上の場合には[地震保険](https://ja.wikipedia.org/wiki/地震保険 "wikilink")を付保することや、投資対象から除外するなどの投資基準が設けられていることが多い。
+現在、日本の保険業界では、企業が関わるものやリスク管理などにおいて広く利用されている。建設業界では、[不動産](https://ja.wikipedia.org/wiki/不動産 "wikilink")の証券化に際して、不動産の将来収益の予測を考える指標として、不動産業で多用されている。投資リスクを小さくするために、この**地震PML**の値が一定以上の場合には[地震保険](../Page/地震保険.md "wikilink")を付保することや、投資対象から除外するなどの投資基準が設けられていることが多い。
 
-[不動産](https://ja.wikipedia.org/wiki/不動産 "wikilink")[投資](https://ja.wikipedia.org/wiki/投資 "wikilink")判断には重要な位置を占めているものであるが、一方で、この**地震PML**の計算方法は各社独自のものが開発され、標準的な算定方法がないことが一部で問題となっている。
+[不動産](https://ja.wikipedia.org/wiki/不動産 "wikilink")[投資](../Page/投資.md "wikilink")判断には重要な位置を占めているものであるが、一方で、この**地震PML**の計算方法は各社独自のものが開発され、標準的な算定方法がないことが一部で問題となっている。
 
 ## 具体例
 
@@ -21,7 +21,7 @@ PMLという概念は、もともと[火災保険](https://ja.wikipedia.org/wiki
 
 ## 計算方法
 
-[建築物](../Page/建築物.md "wikilink")の築年、構造、用途を設計図書と実地調査により調べ、また過去起きた[地震](../Page/地震.md "wikilink")の[震度](../Page/震度.md "wikilink")、[震源](../Page/震源.md "wikilink")の深さ、[地盤](https://ja.wikipedia.org/wiki/地盤 "wikilink")、[断層](https://ja.wikipedia.org/wiki/断層 "wikilink")の位置を調査した上で独自の計算方法に基づき算出する。[不動産](https://ja.wikipedia.org/wiki/不動産 "wikilink")購入に必須な調査とされることもあることから、[ゼネコン](../Page/ゼネコン.md "wikilink")や大手[設計](../Page/設計.md "wikilink")事務所が数十万円 - 数百万円で行うことが多い。
+[建築物](../Page/建築物.md "wikilink")の築年、構造、用途を設計図書と実地調査により調べ、また過去起きた[地震](../Page/地震.md "wikilink")の[震度](../Page/震度.md "wikilink")、[震源](../Page/震源.md "wikilink")の深さ、[地盤](../Page/地盤.md "wikilink")、[断層](https://ja.wikipedia.org/wiki/断層 "wikilink")の位置を調査した上で独自の計算方法に基づき算出する。[不動産](https://ja.wikipedia.org/wiki/不動産 "wikilink")購入に必須な調査とされることもあることから、[ゼネコン](../Page/ゼネコン.md "wikilink")や大手[設計](../Page/設計.md "wikilink")事務所が数十万円 - 数百万円で行うことが多い。
 
 一方で、[GIS技術の進歩により](../Page/地理情報システム.md "wikilink")、簡易ではあるものの地図上で場所を指定し、簡単な建物属性を入力するだけで即座に地震PML値の算定を行い、数千円でレポートまで作成してくれる[Webサービスもある](../Page/World_Wide_Web.md "wikilink")。
 
@@ -32,7 +32,7 @@ PMLという概念は、もともと[火災保険](https://ja.wikipedia.org/wiki
   - 所在、建物の概要
   - 算出PML値
   - 周辺で起きた過去の[地震](../Page/地震.md "wikilink")とその地点で予想される最大[震度](../Page/震度.md "wikilink")
-  - 周辺の[地盤](https://ja.wikipedia.org/wiki/地盤 "wikilink")の状況
+  - 周辺の[地盤](../Page/地盤.md "wikilink")の状況
   - 周辺の[断層](https://ja.wikipedia.org/wiki/断層 "wikilink")、[活断層](https://ja.wikipedia.org/wiki/活断層 "wikilink")の状況
   - その他（付属資料など）
 
@@ -47,9 +47,9 @@ PMLという概念は、もともと[火災保険](https://ja.wikipedia.org/wiki
 ## 関連項目
 
   - [地震](../Page/地震.md "wikilink")
-  - [地盤](https://ja.wikipedia.org/wiki/地盤 "wikilink")
+  - [地盤](../Page/地盤.md "wikilink")
   - [震度](../Page/震度.md "wikilink")
   - [不動産](https://ja.wikipedia.org/wiki/不動産 "wikilink")
-  - [地震保険](https://ja.wikipedia.org/wiki/地震保険 "wikilink")
+  - [地震保険](../Page/地震保険.md "wikilink")
 
 [Category:建築構造](https://ja.wikipedia.org/wiki/Category:建築構造 "wikilink") [Category:不動産](https://ja.wikipedia.org/wiki/Category:不動産 "wikilink")

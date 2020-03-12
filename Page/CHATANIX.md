@@ -5,7 +5,7 @@
 
 ## 概要
 
-日本国内において[スノーボード](../Page/スノーボード.md "wikilink")や[サーフィン](../Page/サーフィン.md "wikilink")にクラブミュージックを浸透させた第一人者。 [エクストリームスポーツ](https://ja.wikipedia.org/wiki/エクストリームスポーツ "wikilink")以外にも、[北海道日本ハムファイターズ](../Page/北海道日本ハムファイターズ.md "wikilink")などに楽曲提供している。 2006年12月31日、[大阪ドーム](../Page/大阪ドーム.md "wikilink")で行われた [K-1](../Page/K-1.md "wikilink") PREMIUM 2006 [Dynamite\!\!](https://ja.wikipedia.org/wiki/Dynamite!! "wikilink")にて、[須藤元気](https://ja.wikipedia.org/wiki/須藤元気 "wikilink")入場曲を担当。
+日本国内において[スノーボード](../Page/スノーボード.md "wikilink")や[サーフィン](../Page/サーフィン.md "wikilink")にクラブミュージックを浸透させた第一人者。 [エクストリームスポーツ](../Page/エクストリームスポーツ.md "wikilink")以外にも、[北海道日本ハムファイターズ](../Page/北海道日本ハムファイターズ.md "wikilink")などに楽曲提供している。 2006年12月31日、[大阪ドーム](../Page/大阪ドーム.md "wikilink")で行われた [K-1](../Page/K-1.md "wikilink") PREMIUM 2006 [Dynamite\!\!](https://ja.wikipedia.org/wiki/Dynamite!! "wikilink")にて、[須藤元気](../Page/須藤元気.md "wikilink")入場曲を担当。
 
 リミックスワークでは、数々のアーティストとコラボレーションしており、関連作品は100タイトル以上にのぼる。
 
@@ -80,7 +80,7 @@
 
 <!-- end list -->
 
-  - Rider: [中井孝治](https://ja.wikipedia.org/wiki/中井孝治 "wikilink") / music:SPACE ROCK (-2006年2月15日)
+  - Rider: [中井孝治](../Page/中井孝治.md "wikilink") / music:SPACE ROCK (-2006年2月15日)
   - Rider: 村上史行 / music:オープンユアアイズ(-2006年2月15日)
   - Rider: 上田ユキエ / music:セブンティーンズ(-2005年12月21日)
   - Rider: 太田宜孝 in [飛騨かわい](https://ja.wikipedia.org/wiki/飛騨かわい "wikilink") / music:AVE (-2005年12月21日)
@@ -96,8 +96,8 @@
 
 ### リミックスワーク
 
-  - SPIRITUARISE / [SUGIZO](https://ja.wikipedia.org/wiki/SUGIZO "wikilink") (-2007年12月26日)
-  - ハーコー / [B-DASH](https://ja.wikipedia.org/wiki/B-DASH "wikilink") (-2004年11月25日）
+  - SPIRITUARISE / [SUGIZO](../Page/SUGIZO.md "wikilink") (-2007年12月26日)
+  - ハーコー / [B-DASH](../Page/B-DASH.md "wikilink") (-2004年11月25日）
   - Sweet Floor Remix / Maria (-2003年01月22日) \*エレフォア
   - 灼熱 / [Venus Fly Trapp](https://ja.wikipedia.org/wiki/Venus_Fly_Trapp "wikilink") (-2002年01月01日)
   - Earth to Universe / ACID HEAD SOME RISE (-2002年05月12日)
@@ -153,7 +153,7 @@
 ### 映画
 
   - ON THE BOAT　(2002年)　音楽担当
-  - [ROBO☆ROCK](https://ja.wikipedia.org/wiki/ROBO☆ROCK "wikilink")（ロボ☆ロック） (-2007年)
+  - [ROBO☆ROCK](../Page/ROBO☆ROCK.md "wikilink")（ロボ☆ロック） (-2007年)
 
 製作国： 2007年日本映画 上映時間： 92分 配給： アステア
 

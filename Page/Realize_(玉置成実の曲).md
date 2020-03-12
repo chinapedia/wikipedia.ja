@@ -11,11 +11,11 @@
 
 ### 収録曲
 
-1.  **Realize**（作詞:[BOUNCEBACK](https://ja.wikipedia.org/wiki/BOUNCEBACK "wikilink")/作曲:[大谷靖夫](https://ja.wikipedia.org/wiki/大谷靖夫 "wikilink")/編曲:大谷靖夫・[荒井洋明](https://ja.wikipedia.org/wiki/荒井洋明 "wikilink")）　
+1.  **Realize**（作詞:[BOUNCEBACK](../Page/BOUNCEBACK.md "wikilink")/作曲:[大谷靖夫](../Page/大谷靖夫.md "wikilink")/編曲:大谷靖夫・[荒井洋明](https://ja.wikipedia.org/wiki/荒井洋明 "wikilink")）　
       -
-        [TBS](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")・[MBS系](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")『機動戦士ガンダムSEED』7月-9月期（PHASE 41-FINAL PHASE）オープニングテーマ
+        [TBS](../Page/TBSテレビ.md "wikilink")・[MBS系](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")『機動戦士ガンダムSEED』7月-9月期（PHASE 41-FINAL PHASE）オープニングテーマ
 2.  **Hot summer day**（作詞:[mavie](https://ja.wikipedia.org/wiki/mavie "wikilink")/作曲・編曲:[Fredrik Hult](https://ja.wikipedia.org/wiki/Fredrik_Hult "wikilink"),[Ola Larsson](https://ja.wikipedia.org/wiki/Ola_Larsson "wikilink"),[Aleena](https://ja.wikipedia.org/wiki/Aleena "wikilink")）　
-3.  '''明日の君 '''（作詞:[西尾佐栄子](https://ja.wikipedia.org/wiki/西尾佐栄子 "wikilink")/作曲:[Tsukasa](https://ja.wikipedia.org/wiki/Tsukasa "wikilink")/編曲:[齋藤真也](https://ja.wikipedia.org/wiki/齋藤真也 "wikilink")）　
+3.  '''明日の君 '''（作詞:[西尾佐栄子](https://ja.wikipedia.org/wiki/西尾佐栄子 "wikilink")/作曲:[Tsukasa](https://ja.wikipedia.org/wiki/Tsukasa "wikilink")/編曲:[齋藤真也](../Page/齋藤真也.md "wikilink")）　
 4.  **Realize -Instrumental-**
 
 ## GUNDAM SEED EDITION
@@ -37,13 +37,13 @@
 
 1.  **Realize -KZ Strictly Uptempo Mix-**　(4:52)
       -
-        \[作詞：[BOUNCEBACK](https://ja.wikipedia.org/wiki/BOUNCEBACK "wikilink") / 作曲：[y@suo ohtani](https://ja.wikipedia.org/wiki/大谷靖夫 "wikilink") / リプロダクション：[前田和彦](https://ja.wikipedia.org/wiki/前田和彦 "wikilink")\]
+        \[作詞：[BOUNCEBACK](../Page/BOUNCEBACK.md "wikilink") / 作曲：[y@suo ohtani](../Page/大谷靖夫.md "wikilink") / リプロダクション：[前田和彦](https://ja.wikipedia.org/wiki/前田和彦 "wikilink")\]
 2.  **Realize -fly in to the Universe Mix-**　(4:53)
       -
         \[作詞：BOUNCEBACK / 作曲：y@suo ohtani / リプロダクション：[PNTGN](https://ja.wikipedia.org/wiki/PNTGN "wikilink")\]
 3.  **Long Way Behind**　(3:53)
       -
-        \[作詞：[渡辺なつみ](../Page/渡辺なつみ_\(作詞家\).md "wikilink") / 作曲：[原一博](https://ja.wikipedia.org/wiki/原一博 "wikilink") / 編曲：[HΛL](https://ja.wikipedia.org/wiki/HΛL "wikilink")\]
+        \[作詞：[渡辺なつみ](../Page/渡辺なつみ_\(作詞家\).md "wikilink") / 作曲：[原一博](../Page/原一博.md "wikilink") / 編曲：[HΛL](../Page/HΛL.md "wikilink")\]
 4.  **Realize -GUNDAM SEED OPENING Ver.-**　(1:42)
       -
         \[作詞：BOUNCEBACK / 作曲：y@suo ohtani / リプロダクション：y@suo ohtani、[Hiroaki Arai](https://ja.wikipedia.org/wiki/荒井洋明 "wikilink")\]

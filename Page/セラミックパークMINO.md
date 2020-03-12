@@ -11,7 +11,7 @@
 
 [Ceramics_park_mino_cascade_square.jpg](https://ja.wikipedia.org/wiki/File:Ceramics_park_mino_cascade_square.jpg "fig:Ceramics_park_mino_cascade_square.jpg")
 
-  - [岐阜県現代陶芸美術館](https://ja.wikipedia.org/wiki/岐阜県現代陶芸美術館 "wikilink")
+  - [岐阜県現代陶芸美術館](../Page/岐阜県現代陶芸美術館.md "wikilink")
       - ミュージアムショップ
   - オリベスクエア
       - 展示ホール
@@ -28,12 +28,12 @@
 
 ## 交通アクセス
 
-  - [JR](https://ja.wikipedia.org/wiki/東海旅客鉄道 "wikilink")[多治見駅](https://ja.wikipedia.org/wiki/多治見駅 "wikilink")（[多治見駅前バスターミナル](https://ja.wikipedia.org/wiki/多治見駅前バスターミナル "wikilink")）から
-      - [ききょうバス](https://ja.wikipedia.org/wiki/ききょうバス "wikilink")・オリベ観光ルート（土日祝：多治見市のコミュニティバス）
-      - [東鉄バス](https://ja.wikipedia.org/wiki/東濃鉄道 "wikilink")（妻木線、瑞浪＝駄知＝多治見線「セラパーク・現代陶芸美術館口」下車徒歩10分）
+  - [JR](../Page/東海旅客鉄道.md "wikilink")[多治見駅](https://ja.wikipedia.org/wiki/多治見駅 "wikilink")（[多治見駅前バスターミナル](../Page/多治見駅前バスターミナル.md "wikilink")）から
+      - [ききょうバス](../Page/ききょうバス.md "wikilink")・オリベ観光ルート（土日祝：多治見市のコミュニティバス）
+      - [東鉄バス](../Page/東濃鉄道.md "wikilink")（妻木線、瑞浪＝駄知＝多治見線「セラパーク・現代陶芸美術館口」下車徒歩10分）
       - タクシーで10分
-  - [中央自動車道](../Page/中央自動車道.md "wikilink")[多治見ICから車で](https://ja.wikipedia.org/wiki/多治見インターチェンジ "wikilink")10分
-  - [東海環状自動車道](../Page/東海環状自動車道.md "wikilink")[土岐南多治見ICから車で](https://ja.wikipedia.org/wiki/土岐南多治見インターチェンジ "wikilink")10分
+  - [中央自動車道](../Page/中央自動車道.md "wikilink")[多治見ICから車で](../Page/多治見インターチェンジ.md "wikilink")10分
+  - [東海環状自動車道](../Page/東海環状自動車道.md "wikilink")[土岐南多治見ICから車で](../Page/土岐南多治見インターチェンジ.md "wikilink")10分
   - 無料駐車場（320台収容）
 
 ## 出典

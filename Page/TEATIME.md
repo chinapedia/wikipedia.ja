@@ -1,7 +1,7 @@
 > この記事は[TEATIME](https://ja.wikipedia.org/wiki/TEATIME)から翻訳されています。
 
 
-**TEATIME**（ティータイム）は株式会社アイワン\[1\]のアダルトゲームブランドである。姉妹ブランドの[ILLUSION](../Page/ILLUSION.md "wikilink")と同様に[3DCG](https://ja.wikipedia.org/wiki/3DCG "wikilink")を多用するブランドであり、ほぼ3DCG専業ブランドである。キャラクターを[萌え絵](https://ja.wikipedia.org/wiki/萌え絵 "wikilink")になるような感じでモデリングしているのが特徴。もう一つの姉妹ブランドにFULLTIMEがあり、こちらも3DCG専業ブランドである。[2013年](../Page/2013年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")に『らぶデスFINAL\!』をの販売をもってTEATIME及びFULLTIMEを解散することを告知\[2\]。
+**TEATIME**（ティータイム）は株式会社アイワン\[1\]のアダルトゲームブランドである。姉妹ブランドの[ILLUSION](../Page/ILLUSION.md "wikilink")と同様に[3DCG](https://ja.wikipedia.org/wiki/3DCG "wikilink")を多用するブランドであり、ほぼ3DCG専業ブランドである。キャラクターを[萌え絵](../Page/萌え絵.md "wikilink")になるような感じでモデリングしているのが特徴。もう一つの姉妹ブランドにFULLTIMEがあり、こちらも3DCG専業ブランドである。[2013年](../Page/2013年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")に『らぶデスFINAL\!』をの販売をもってTEATIME及びFULLTIMEを解散することを告知\[2\]。
 
 ## 作品一覧
 
@@ -13,20 +13,20 @@
       - [4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink") - [捕われた硝子の心](https://ja.wikipedia.org/wiki/捕われた硝子の心 "wikilink")
       - [10月19日](../Page/10月19日.md "wikilink") - [華の悲鳴 〜壊れた硝子の心〜](https://ja.wikipedia.org/wiki/捕われた硝子の心 "wikilink")
   - [2002年](../Page/2002年.md "wikilink")
-      - [3月21日](https://ja.wikipedia.org/wiki/3月21日 "wikilink") - [めいでん☆ブリーダー](https://ja.wikipedia.org/wiki/めいでん☆ブリーダー "wikilink")
+      - [3月21日](../Page/3月21日.md "wikilink") - [めいでん☆ブリーダー](https://ja.wikipedia.org/wiki/めいでん☆ブリーダー "wikilink")
       - [8月9日](../Page/8月9日.md "wikilink") - [雪蛍](https://ja.wikipedia.org/wiki/雪蛍 "wikilink")
   - [2003年](../Page/2003年.md "wikilink")
       - [2月14日](../Page/2月14日.md "wikilink") - [Toon](https://ja.wikipedia.org/wiki/Toon "wikilink")
       - [8月8日](../Page/8月8日.md "wikilink") - [TEAPACK1 捕華（ティーパック1 トラハナ）](https://ja.wikipedia.org/wiki/捕われた硝子の心 "wikilink")
       - [9月5日](../Page/9月5日.md "wikilink") - [セイクリッド・プルーム](https://ja.wikipedia.org/wiki/セイクリッド・プルーム "wikilink")
-  - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[5月21日](../Page/5月21日.md "wikilink")
+  - [2004年](../Page/2004年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink")
       - めいでん☆ブリーダー DVDリニューアルパッケージ
       - [メイデン☆ブリーダー2](https://ja.wikipedia.org/wiki/メイデン☆ブリーダー2 "wikilink")
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
       - [4月28日](../Page/4月28日.md "wikilink") - [らぶデス 〜Realtime Lovers〜](https://ja.wikipedia.org/wiki/らぶデス_〜Realtime_Lovers〜 "wikilink")
       - [9月22日](../Page/9月22日.md "wikilink") - [ふた魔女](https://ja.wikipedia.org/wiki/ふた魔女 "wikilink")（2D作品）
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月17日](../Page/11月17日.md "wikilink") - [ポリアニ 〜ポリゴンアニメ美少女〜](https://ja.wikipedia.org/wiki/ポリアニ_〜ポリゴンアニメ美少女〜 "wikilink")
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[8月31日](../Page/8月31日.md "wikilink") - [らぶデス2 〜Realtime Lovers〜](https://ja.wikipedia.org/wiki/らぶデス2_〜Realtime_Lovers〜 "wikilink")
+  - [2006年](../Page/2006年.md "wikilink")[11月17日](../Page/11月17日.md "wikilink") - [ポリアニ 〜ポリゴンアニメ美少女〜](https://ja.wikipedia.org/wiki/ポリアニ_〜ポリゴンアニメ美少女〜 "wikilink")
+  - [2007年](../Page/2007年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink") - [らぶデス2 〜Realtime Lovers〜](../Page/らぶデス2_〜Realtime_Lovers〜.md "wikilink")
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[11月28日](../Page/11月28日.md "wikilink") - [らぶデス3 〜Realtime Lovers〜](https://ja.wikipedia.org/wiki/らぶデス3_〜Realtime_Lovers〜 "wikilink")
   - [2009年](../Page/2009年.md "wikilink")
       - [6月26日](../Page/6月26日.md "wikilink") - [Tech48](https://ja.wikipedia.org/wiki/Tech48 "wikilink")

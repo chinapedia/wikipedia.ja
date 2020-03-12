@@ -9,7 +9,7 @@
   - 実在選手データは2003年シーズン開幕時の物を使用。ポリゴン使用だが、実在選手と架空選手とではグラフィックが異なっている。架空選手に対してはトゥーンシェイド方式を採用。
   - 「悪球打ち」「秘打・白鳥の湖」などの特殊打法や、「死神ボール」「ドリームボール」などの魔球も再現されている。これは実在選手でも、「気合」として使用可能。
   - アーケード版では｢激闘カード｣にポイントをためることによって、オリジナル選手の作成やオリジナルチームの作成ができるようになっている。
-  - 実況は一貫して[太田真一郎](https://ja.wikipedia.org/wiki/太田真一郎 "wikilink")が担当した。
+  - 実況は一貫して[太田真一郎](../Page/太田真一郎.md "wikilink")が担当した。
 
 ## 水島新司オールスターズ
 
@@ -20,55 +20,55 @@
 
 ### 『ドカベン』
 
-  - [山田 太郎](https://ja.wikipedia.org/wiki/山田太郎_\(ドカベン\) "wikilink")（やまだ たろう）：02
+  - [山田 太郎](../Page/山田太郎_\(ドカベン\).md "wikilink")（やまだ たろう）：02
     [声](../Page/声優.md "wikilink") - [田中秀幸](../Page/田中秀幸_\(声優\).md "wikilink")
 
-    [ドカベン](https://ja.wikipedia.org/wiki/ドカベン "wikilink")の主人公。球界一の大打者。捕手。[西武に入団](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")。
+    [ドカベン](../Page/ドカベン.md "wikilink")の主人公。球界一の大打者。捕手。[西武に入団](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")。
 
-  - [岩鬼 正美](https://ja.wikipedia.org/wiki/岩鬼正美 "wikilink")（いわき まさみ）：05
+  - [岩鬼 正美](../Page/岩鬼正美.md "wikilink")（いわき まさみ）：05
     声 - [玄田哲章](https://ja.wikipedia.org/wiki/玄田哲章 "wikilink")
 
     悪球打ちを得意とするスラッガー。ゲームではストライクゾーンのカーソルが極端に小さく、ゾーン外だと大きくなる仕様。打撃音がすさまじい。三塁手。[ダイエーに入団](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")。
 
-  - [殿馬 一人](https://ja.wikipedia.org/wiki/殿馬一人 "wikilink")（とのま かずと）：04
+  - [殿馬 一人](../Page/殿馬一人.md "wikilink")（とのま かずと）：04
     声 - [肝付兼太](../Page/肝付兼太.md "wikilink")
 
-    「[白鳥の湖](https://ja.wikipedia.org/wiki/白鳥の湖 "wikilink")」や「G線上のアリア」など、数々の「秘打」を繰り出すバッター。音楽の天才。二塁手。[オリックスに入団](https://ja.wikipedia.org/wiki/オリックス・バファローズ "wikilink")。
+    「[白鳥の湖](../Page/白鳥の湖.md "wikilink")」や「G線上のアリア」など、数々の「秘打」を繰り出すバッター。音楽の天才。二塁手。[オリックスに入団](../Page/オリックス・バファローズ.md "wikilink")。
 
   - [里中 智](https://ja.wikipedia.org/wiki/里中智 "wikilink")（さとなか さとる）：01
-    声 - [神谷浩史](https://ja.wikipedia.org/wiki/神谷浩史 "wikilink")☆
+    声 - [神谷浩史](../Page/神谷浩史.md "wikilink")☆
 
     さとるボールやスカイフォークなどの変化球を使う投手。「小さな巨人」の異名をとる。[ロッテに入団](../Page/千葉ロッテマリーンズ.md "wikilink")。
 
-  - [微笑 三太郎](https://ja.wikipedia.org/wiki/微笑三太郎 "wikilink")（ほほえみ さんたろう）：07
+  - [微笑 三太郎](../Page/微笑三太郎.md "wikilink")（ほほえみ さんたろう）：07
     いつでも笑顔のスラッガー。左翼手。[巨人に入団](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")。
 
-  - [土井垣 将](https://ja.wikipedia.org/wiki/土井垣将 "wikilink")（どいがき しょう）：02
+  - [土井垣 将](../Page/土井垣将.md "wikilink")（どいがき しょう）：02
     声 - [森功至](../Page/森功至.md "wikilink")
 
     山田達の1年上の先輩。[日本ハムに入団](../Page/北海道日本ハムファイターズ.md "wikilink")。
 
-  - [坂田 三吉](https://ja.wikipedia.org/wiki/坂田三吉_\(ドカベン\) "wikilink")（さかた さんきち）：01
-    声 - [千葉繁](https://ja.wikipedia.org/wiki/千葉繁 "wikilink")☆
+  - [坂田 三吉](../Page/坂田三吉_\(ドカベン\).md "wikilink")（さかた さんきち）：01
+    声 - [千葉繁](../Page/千葉繁.md "wikilink")☆
 
     [近鉄に入団](../Page/大阪近鉄バファローズ.md "wikilink")。
 
-  - [中 二美夫](https://ja.wikipedia.org/wiki/中二美夫 "wikilink")（あたる ふみお）：01
+  - [中 二美夫](../Page/中二美夫.md "wikilink")（あたる ふみお）：01
     2年時の夏で山田を5打席連続敬遠したことで有名。[ヤクルトに入団し](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")、リリーフとして活躍。
 
-  - [犬飼 小次郎](https://ja.wikipedia.org/wiki/犬飼小次郎 "wikilink")（いぬかい こじろう）：01
+  - [犬飼 小次郎](../Page/犬飼小次郎.md "wikilink")（いぬかい こじろう）：01
     犬飼3兄弟の長男。
 
-  - [犬飼 武蔵](https://ja.wikipedia.org/wiki/犬飼武蔵 "wikilink")（いぬかい たけぞう）：03
+  - [犬飼 武蔵](../Page/犬飼武蔵.md "wikilink")（いぬかい たけぞう）：03
     犬飼3兄弟の次男。
 
-  - [犬神 了](https://ja.wikipedia.org/wiki/犬神了 "wikilink")（いぬがみ りょう）：01
+  - [犬神 了](../Page/犬神了.md "wikilink")（いぬがみ りょう）：01
 
-  - [影丸 隼人](https://ja.wikipedia.org/wiki/影丸隼人 "wikilink")（かげまるはやと）：01
+  - [影丸 隼人](../Page/影丸隼人.md "wikilink")（かげまるはやと）：01
 
-  - [不知火 守](https://ja.wikipedia.org/wiki/不知火守 "wikilink")（しらぬい まもる）：01
+  - [不知火 守](../Page/不知火守.md "wikilink")（しらぬい まもる）：01
 
-  - [土門 剛介](https://ja.wikipedia.org/wiki/土門剛介 "wikilink")（どもん ごうすけ）：01
+  - [土門 剛介](../Page/土門剛介.md "wikilink")（どもん ごうすけ）：01
 
 #### 『ドカベン プロ野球編』
 
@@ -80,23 +80,23 @@
     西武にドラフト8位で入団。当初は大砲として期待されたが、弱点の変化球を克服できず伸び悩む。その後投手への転向が功を奏し、ストッパーとして定着。
 
   - 不吉 霊三郎（ふきつ れいざぶろう）：09
-    声 - [中井和哉](https://ja.wikipedia.org/wiki/中井和哉 "wikilink")
+    声 - [中井和哉](../Page/中井和哉.md "wikilink")
 
     酒造専門の大学からオリックスに入団。出場するだけで不可解なアクシデントやハプニングが頻発することで恐れられている。
 
 ### 『大甲子園』
 
-  - [犬飼 知三郎](https://ja.wikipedia.org/wiki/犬飼知三郎 "wikilink")（いぬかい ちさぶろう）：01
+  - [犬飼 知三郎](../Page/犬飼知三郎.md "wikilink")（いぬかい ちさぶろう）：01
     犬飼3兄弟の3男。
 
 ### 『野球狂の詩』
 
-  - [岩田 鉄五郎](https://ja.wikipedia.org/wiki/岩田鉄五郎 "wikilink")（いわた てつごろう）：18
+  - [岩田 鉄五郎](../Page/岩田鉄五郎.md "wikilink")（いわた てつごろう）：18
     声 - [納谷悟朗](../Page/納谷悟朗.md "wikilink")
 
-    [札幌華生堂メッツの監督兼投手](https://ja.wikipedia.org/wiki/東京メッツ "wikilink")。70歳を過ぎても現役の「球聖」。
+    [札幌華生堂メッツの監督兼投手](../Page/東京メッツ.md "wikilink")。70歳を過ぎても現役の「球聖」。
 
-  - [水原 勇気](https://ja.wikipedia.org/wiki/水原勇気 "wikilink")（みずはら ゆうき）：91
+  - [水原 勇気](../Page/水原勇気.md "wikilink")（みずはら ゆうき）：91
     声 - [山崎和佳奈](../Page/山崎和佳奈.md "wikilink")☆
 
     札幌華生堂メッツコーチ兼投手。プロ野球初の女性選手。左のアンダースローで、「ドリームボール」を駆使する。
@@ -104,9 +104,9 @@
   - 火浦 健（ひうら けん）：90
 
   - 王島 大介（おうしま だいすけ）：98
-    声 - [井上真樹夫](https://ja.wikipedia.org/wiki/井上真樹夫 "wikilink")☆
+    声 - [井上真樹夫](../Page/井上真樹夫.md "wikilink")☆
 
-    [阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")。
+    [阪神タイガース](../Page/阪神タイガース.md "wikilink")。
 
 #### 『野球狂の詩 平成編』
 
@@ -118,7 +118,7 @@
 #### 『新・野球狂の詩』
 
   - 青空 晴太（あおぞら はれた）：6
-    声 - [松野太紀](https://ja.wikipedia.org/wiki/松野太紀 "wikilink")
+    声 - [松野太紀](../Page/松野太紀.md "wikilink")
     鉄五郎にバッティングセンターでスカウトされるという異色の経歴の持ち主。プロ入りの動機は国立珠美に一目惚れしたこと。2001年からメッツの遊撃手として活躍。
 
 ### 『ストッパー』
@@ -135,19 +135,19 @@
 ### 『男どアホウ甲子園』
 
   - [藤村 甲子園](https://ja.wikipedia.org/wiki/藤村甲子園 "wikilink")（ふじむら こうしえん）：111
-    声 - [中井和哉](https://ja.wikipedia.org/wiki/中井和哉 "wikilink")☆
+    声 - [中井和哉](../Page/中井和哉.md "wikilink")☆
     剛球一直線の野球どアホウ。打撃もストレートにはめっぽう強い。
 
 ### 『球道くん』
 
-  - [中西 球道](https://ja.wikipedia.org/wiki/中西球道 "wikilink")（なかにし きゅうどう）：001
+  - [中西 球道](../Page/中西球道.md "wikilink")（なかにし きゅうどう）：001
     声 - [緑川光](../Page/緑川光.md "wikilink")
     最速163キロの剛速球が武器の投手。名前の由来は「球けがれなく道けわし」。『ドカベン プロ野球編』で再登場し、ロッテに入団した。
 
 ### 『一球さん』
 
-  - [真田 一球](https://ja.wikipedia.org/wiki/真田一球 "wikilink")（さなだ いっきゅう）：10
-    声 - [松野太紀](https://ja.wikipedia.org/wiki/松野太紀 "wikilink")☆
+  - [真田 一球](../Page/真田一球.md "wikilink")（さなだ いっきゅう）：10
+    声 - [松野太紀](../Page/松野太紀.md "wikilink")☆
 
 ### 『ダントツ』
 

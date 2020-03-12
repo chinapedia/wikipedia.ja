@@ -1,16 +1,16 @@
 > この記事は[Grand blue](https://ja.wikipedia.org/wiki/Grand_blue)から翻訳されています。
 
 
-「**grand blue**」（グランド・ブルー）は、[北原愛子](https://ja.wikipedia.org/wiki/北原愛子 "wikilink")の楽曲で、1枚目の[シングル](../Page/シングル.md "wikilink")である。[2002年](../Page/2002年.md "wikilink")[5月29日](../Page/5月29日.md "wikilink")に発売（発売元は[GIZA studio](../Page/GIZA_studio.md "wikilink")）。
+「**grand blue**」（グランド・ブルー）は、[北原愛子](../Page/北原愛子.md "wikilink")の楽曲で、1枚目の[シングル](../Page/シングル.md "wikilink")である。[2002年](../Page/2002年.md "wikilink")[5月29日](../Page/5月29日.md "wikilink")に発売（発売元は[GIZA studio](../Page/GIZA_studio.md "wikilink")）。
 
 メジャーデビュー作であり、表題曲は、アニメ『[天使な小生意気](../Page/天使な小生意気.md "wikilink")』の前期オープニングテーマ。ただしアニメで使用されたものはボーカル、アレンジ共に新録されている。
 
 ## 収録曲
 
 1.  **grand blue**
-      - 作詞：北原愛子　作曲・編曲：[徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")
+      - 作詞：北原愛子　作曲・編曲：[徳永暁人](../Page/徳永暁人.md "wikilink")
 2.  **LOVE\&PEACE WORLD**
-      - 作詞：北原愛子　作曲・編曲：[徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")
+      - 作詞：北原愛子　作曲・編曲：[徳永暁人](../Page/徳永暁人.md "wikilink")
 3.  **grand blue -Sunday Morning Groove Mix-**
 4.  grand blue -[Instrumental](https://ja.wikipedia.org/wiki/オフヴォーカル "wikilink")-
 
@@ -20,7 +20,7 @@
 
 <!-- end list -->
 
-  - 『[PIECE OF LOVE](https://ja.wikipedia.org/wiki/PIECE_OF_LOVE_\(アルバム\) "wikilink")』 (\#1)
+  - 『[PIECE OF LOVE](../Page/PIECE_OF_LOVE_\(アルバム\).md "wikilink")』 (\#1)
 
 <!-- end list -->
 

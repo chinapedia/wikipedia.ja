@@ -1,7 +1,7 @@
 > この記事は[SoftBank 709SC](https://ja.wikipedia.org/wiki/SoftBank_709SC)から翻訳されています。
 
 
-**SoftBank 709SC**（[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")709SC）は[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")の[サムスン電子](https://ja.wikipedia.org/wiki/サムスン電子 "wikilink")が開発した[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")の[W-CDMA](../Page/W-CDMA.md "wikilink")、[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")通信方式の[携帯電話](../Page/携帯電話.md "wikilink")端末である。
+**SoftBank 709SC**（[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")709SC）は[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")の[サムスン電子](../Page/サムスン電子.md "wikilink")が開発した[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")の[W-CDMA](../Page/W-CDMA.md "wikilink")、[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")通信方式の[携帯電話](../Page/携帯電話.md "wikilink")端末である。
 
 ## 特徴
 
@@ -9,8 +9,8 @@
 
   - PCドキュメントビューワ
   - ミュージックプレイヤー ([AAC](../Page/AAC.md "wikilink")ファイル対応)
-  - [着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")
-  - [Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth "wikilink")
+  - [着うたフル](../Page/着うたフル.md "wikilink")
+  - [Bluetooth](../Page/Bluetooth.md "wikilink")
   - [S\!アプリ](../Page/S!アプリ.md "wikilink")（[メガアプリ](https://ja.wikipedia.org/wiki/メガアプリ "wikilink")）
   - [TVコール](https://ja.wikipedia.org/wiki/TVコール "wikilink")
   - 3カ国語対応（日・英・韓）

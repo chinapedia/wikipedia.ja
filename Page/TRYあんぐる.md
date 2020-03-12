@@ -1,13 +1,13 @@
 > この記事は[TRY](https://ja.wikipedia.org/wiki/TRY)から翻訳されています。
 
 
-『**TRYあんぐる**』（トライあんぐる）は、[2000年](../Page/2000年.md "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")から[2003年](../Page/2003年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで[名古屋テレビで放送されていた](../Page/名古屋テレビ放送.md "wikilink")[夕方ワイド番組](https://ja.wikipedia.org/wiki/夕方ワイド番組 "wikilink")（[報道番組](../Page/報道番組.md "wikilink")・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")）である。当初は『**ニュースTRYあんぐる**』と題して放送されていた。
+『**TRYあんぐる**』（トライあんぐる）は、[2000年](../Page/2000年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2003年](../Page/2003年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで[名古屋テレビで放送されていた](../Page/名古屋テレビ放送.md "wikilink")[夕方ワイド番組](../Page/夕方ワイド番組.md "wikilink")（[報道番組](../Page/報道番組.md "wikilink")・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")）である。当初は『**ニュースTRYあんぐる**』と題して放送されていた。
 
 ## 概要
 
-『[情報ライブ トゥー・ユー\!](https://ja.wikipedia.org/wiki/情報ライブ_トゥー・ユー! "wikilink")』の後番組としてスタート。17時台前半には[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")発の全国ニュース『[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』第1部を内包し、17:54 - 18:17には『スーパーJチャンネル』第2部を内包していた。番組のラストには『[ニュースステーション](../Page/ニュースステーション.md "wikilink")』の見どころ紹介コーナーがあった。
+『[情報ライブ トゥー・ユー\!](../Page/情報ライブ_トゥー・ユー!.md "wikilink")』の後番組としてスタート。17時台前半には[テレビ朝日](../Page/テレビ朝日.md "wikilink")発の全国ニュース『[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』第1部を内包し、17:54 - 18:17には『スーパーJチャンネル』第2部を内包していた。番組のラストには『[ニュースステーション](../Page/ニュースステーション.md "wikilink")』の見どころ紹介コーナーがあった。
 
-番組はその後、2003年3月31日に名古屋テレビが愛称を「ナゴヤテレビ」から「メ〜テレ」へ変更するのに合わせて改題リニューアル。以後は『[メ〜テレワイド スーパーJチャンネル](https://ja.wikipedia.org/wiki/メ〜テレワイドスーパーJチャンネル "wikilink")』と題して放送された。
+番組はその後、2003年3月31日に名古屋テレビが愛称を「ナゴヤテレビ」から「メ〜テレ」へ変更するのに合わせて改題リニューアル。以後は『[メ〜テレワイド スーパーJチャンネル](../Page/メ〜テレワイドスーパーJチャンネル.md "wikilink")』と題して放送された。
 
 ## 放送時間
 
@@ -21,20 +21,20 @@
 
 ### キャスター
 
-  - [羽川英樹](https://ja.wikipedia.org/wiki/羽川英樹 "wikilink") - メインキャスター兼コメンテーター。2000年4月から2000年12月まで担当。
-  - [加藤歩](https://ja.wikipedia.org/wiki/加藤歩_\(アナウンサー\) "wikilink") - サブキャスター。2000年4月から2001年3月まで担当。
-  - [星恭博](https://ja.wikipedia.org/wiki/星恭博 "wikilink") - メインキャスター。2001年1月から2003年3月まで担当。
-  - [大川敦子](https://ja.wikipedia.org/wiki/大川敦子 "wikilink") - サブキャスター。2001年4月から2003年3月まで担当。
+  - [羽川英樹](../Page/羽川英樹.md "wikilink") - メインキャスター兼コメンテーター。2000年4月から2000年12月まで担当。
+  - [加藤歩](../Page/加藤歩_\(アナウンサー\).md "wikilink") - サブキャスター。2000年4月から2001年3月まで担当。
+  - [星恭博](../Page/星恭博.md "wikilink") - メインキャスター。2001年1月から2003年3月まで担当。
+  - [大川敦子](../Page/大川敦子.md "wikilink") - サブキャスター。2001年4月から2003年3月まで担当。
 
 ### リポーター
 
   - 星恭博 - 2000年4月から同年12月まで担当。
   - 加藤歩 - 2001年4月から2003年3月まで「あんぐる探偵団」→「怒〜なの\!」を担当。
-  - [佐藤裕二](https://ja.wikipedia.org/wiki/佐藤裕二_\(アナウンサー\) "wikilink") - フィールドキャスター。金曜担当。
-  - [齋藤寿幸](https://ja.wikipedia.org/wiki/齋藤寿幸 "wikilink") - 「斎藤ノススメ」を担当。
+  - [佐藤裕二](../Page/佐藤裕二_\(アナウンサー\).md "wikilink") - フィールドキャスター。金曜担当。
+  - [齋藤寿幸](../Page/齋藤寿幸.md "wikilink") - 「斎藤ノススメ」を担当。
   - [立松大和](https://ja.wikipedia.org/wiki/立松大和 "wikilink") - 「東海256景立松の旅」を担当。
-  - [倉橋友和](https://ja.wikipedia.org/wiki/倉橋友和 "wikilink") - フィールドキャスター。
-  - [神取恭子](https://ja.wikipedia.org/wiki/神取恭子 "wikilink") - フィールドキャスター。水曜担当。
+  - [倉橋友和](../Page/倉橋友和.md "wikilink") - フィールドキャスター。
+  - [神取恭子](../Page/神取恭子.md "wikilink") - フィールドキャスター。水曜担当。
 
 ### 天気予報担当
 

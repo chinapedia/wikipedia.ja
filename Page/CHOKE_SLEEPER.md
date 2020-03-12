@@ -1,7 +1,7 @@
 > この記事は[CHOKE SLEEPER](https://ja.wikipedia.org/wiki/CHOKE_SLEEPER)から翻訳されています。
 
 
-**CHOKE SLEEPER**（**Chokesleeper**、チョーク・スリーパー）は、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](https://ja.wikipedia.org/wiki/横浜市 "wikilink")出身の[ミクスチャー](https://ja.wikipedia.org/wiki/ミクスチャー "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。1997年結成。2004年[cutting edgeよりメジャーデビュー](https://ja.wikipedia.org/wiki/cutting_edge "wikilink")。[2011年](../Page/2011年.md "wikilink")[5月8日](../Page/5月8日.md "wikilink")の[渋谷the gameでのライブをもって活動休止](https://ja.wikipedia.org/wiki/渋谷the_game "wikilink")\[1\]。
+**CHOKE SLEEPER**（**Chokesleeper**、チョーク・スリーパー）は、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")出身の[ミクスチャー](https://ja.wikipedia.org/wiki/ミクスチャー "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。1997年結成。2004年[cutting edgeよりメジャーデビュー](https://ja.wikipedia.org/wiki/cutting_edge "wikilink")。[2011年](../Page/2011年.md "wikilink")[5月8日](../Page/5月8日.md "wikilink")の[渋谷the gameでのライブをもって活動休止](https://ja.wikipedia.org/wiki/渋谷the_game "wikilink")\[1\]。
 
 ## メンバー
 
@@ -10,7 +10,7 @@
 <!-- end list -->
 
   -
-    [MC担当](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。[1981年](https://ja.wikipedia.org/wiki/1981年 "wikilink")[8月9日](../Page/8月9日.md "wikilink")生まれ。[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+    [MC担当](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。[1981年](../Page/1981年.md "wikilink")[8月9日](../Page/8月9日.md "wikilink")生まれ。[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
 
 <!-- end list -->
 
@@ -28,7 +28,7 @@
 <!-- end list -->
 
   -
-    [ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。[1977年](../Page/1977年.md "wikilink")[6月7日](../Page/6月7日.md "wikilink")生まれ。[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+    [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。[1977年](../Page/1977年.md "wikilink")[6月7日](../Page/6月7日.md "wikilink")生まれ。[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
 
 <!-- end list -->
 
@@ -256,18 +256,18 @@
 
 ### 参加オムニバス
 
-| 発売日         | タイトル                                                                                                       | 規格品番       | 収録曲                                         |
-| ----------- | ---------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------- |
-|             | Time will tell                                                                                             |            | 「One step back」「CHOKESLEEPARTY」             |
-| 2000年8月24日  | JUNK YARD SOCIETY                                                                                          |            | 「NEXT STAGE」                                |
-| 2003年3月12日  | KICK THE NORM                                                                                              | MTCH-1035  | 「Game」                                      |
-|             | GREATFUL SOUND 〜tribute to "[BECK](https://ja.wikipedia.org/wiki/BECK_\(漫画\) "wikilink")                   |            | 「Leave me alone」                            |
-| 2004年7月2日   | [Des-ROW](https://ja.wikipedia.org/wiki/右寺修 "wikilink")『[D.](https://ja.wikipedia.org/wiki/D. "wikilink")』 |            | Shigeが、収録曲「Funky sonic WorlD+」にゲストボーカルとして参加 |
-| 2003年11月12日 | X-TRAIL JAM                                                                                                | AVCD-17384 |                                             |
-| 2005年09月14日 | GRANDSLAM COMPILATION Vol.1                                                                                | GSRC-7     | 「ROCK BAN GIN」/CHU for CHOKE SLEEPER        |
-| 2006年01月21日 | ガンギマナイト DVD\&CDx                                                                                           | VBDV-1002  | 「STAY」                                      |
-| 2006年10月25日 | ヨコハマアップカマー VOL.1                                                                                           | YYCF-111   |                                             |
-|             |                                                                                                            |            |                                             |
+| 発売日         | タイトル                                                                                     | 規格品番       | 収録曲                                         |
+| ----------- | ---------------------------------------------------------------------------------------- | ---------- | ------------------------------------------- |
+|             | Time will tell                                                                           |            | 「One step back」「CHOKESLEEPARTY」             |
+| 2000年8月24日  | JUNK YARD SOCIETY                                                                        |            | 「NEXT STAGE」                                |
+| 2003年3月12日  | KICK THE NORM                                                                            | MTCH-1035  | 「Game」                                      |
+|             | GREATFUL SOUND 〜tribute to "[BECK](https://ja.wikipedia.org/wiki/BECK_\(漫画\) "wikilink") |            | 「Leave me alone」                            |
+| 2004年7月2日   | [Des-ROW](../Page/右寺修.md "wikilink")『[D.](../Page/D..md "wikilink")』                     |            | Shigeが、収録曲「Funky sonic WorlD+」にゲストボーカルとして参加 |
+| 2003年11月12日 | X-TRAIL JAM                                                                              | AVCD-17384 |                                             |
+| 2005年09月14日 | GRANDSLAM COMPILATION Vol.1                                                              | GSRC-7     | 「ROCK BAN GIN」/CHU for CHOKE SLEEPER        |
+| 2006年01月21日 | ガンギマナイト DVD\&CDx                                                                         | VBDV-1002  | 「STAY」                                      |
+| 2006年10月25日 | ヨコハマアップカマー VOL.1                                                                         | YYCF-111   |                                             |
+|             |                                                                                          |            |                                             |
 
 ## 主なライブ
 
@@ -288,9 +288,9 @@
 ## 関連項目
 
   - [神奈川県出身の人物一覧](https://ja.wikipedia.org/wiki/神奈川県出身の人物一覧 "wikilink")
-  - [ミューパライチ押しナンバー](https://ja.wikipedia.org/wiki/ミューパライチ押しナンバー "wikilink")
-  - [BACK-ON](https://ja.wikipedia.org/wiki/BACK-ON "wikilink")
-  - [FLOW](https://ja.wikipedia.org/wiki/FLOW "wikilink")
+  - [ミューパライチ押しナンバー](../Page/ミューパライチ押しナンバー.md "wikilink")
+  - [BACK-ON](../Page/BACK-ON.md "wikilink")
+  - [FLOW](../Page/FLOW.md "wikilink")
 
 ## 脚注
 

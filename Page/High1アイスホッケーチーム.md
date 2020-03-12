@@ -1,16 +1,16 @@
 > この記事は[High1](https://ja.wikipedia.org/wiki/High1)から翻訳されています。
 
 
-[High1mascot.JPG](https://ja.wikipedia.org/wiki/File:High1mascot.JPG "fig:High1mascot.JPG") **High1アイスホッケーチーム**（韓国語：하이원 아이스하키단、英語：High1 ice Hockey Team）は、[大韓民国](https://ja.wikipedia.org/wiki/大韓民国 "wikilink")[江原道](../Page/江原道_\(南\).md "wikilink")[春川市](https://ja.wikipedia.org/wiki/春川市 "wikilink")を本拠地とする[アイスホッケー](../Page/アイスホッケー.md "wikilink")チームである。ホームリンクは、衣岩（ウィアム）アイスリンク。旧称は**カンウォンランド**（江原-、）。[アジアリーグアイスホッケー](https://ja.wikipedia.org/wiki/アジアリーグアイスホッケー "wikilink")に参加している。
+[High1mascot.JPG](https://ja.wikipedia.org/wiki/File:High1mascot.JPG "fig:High1mascot.JPG") **High1アイスホッケーチーム**（韓国語：하이원 아이스하키단、英語：High1 ice Hockey Team）は、[大韓民国](../Page/大韓民国.md "wikilink")[江原道](../Page/江原道_\(南\).md "wikilink")[春川市](https://ja.wikipedia.org/wiki/春川市 "wikilink")を本拠地とする[アイスホッケー](../Page/アイスホッケー.md "wikilink")チームである。ホームリンクは、衣岩（ウィアム）アイスリンク。旧称は**カンウォンランド**（江原-、）。[アジアリーグアイスホッケー](https://ja.wikipedia.org/wiki/アジアリーグアイスホッケー "wikilink")に参加している。
 
 江原道において、カジノやリゾート産業の経営をする[カンウォンランド](https://ja.wikipedia.org/wiki/カンウォンランド "wikilink")（강원랜드）が、チームを運営している。またカンウォンランドは[スキー](../Page/スキー.md "wikilink")チームも所有している。チーム名のHigh1はカンウォンランドが所有する[統合型リゾート](https://ja.wikipedia.org/wiki/統合型リゾート "wikilink")（IR）施設などの統一ブランド名。
 
 ## 歴史
 
-  - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")9月 - チーム創設（韓国5番目の実業団アイスホッケー部）初年度は韓国リーグへ参加し3位。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") - アジアリーグアイスホッケーに参加。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink") - High1アイスホッケーチームに改称。
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") - レギュラーリーグ2位と健闘するも王子製紙（現[王子イーグルス](https://ja.wikipedia.org/wiki/王子イーグルス "wikilink")）に敗れ4位に終わる
+  - [2004年](../Page/2004年.md "wikilink")9月 - チーム創設（韓国5番目の実業団アイスホッケー部）初年度は韓国リーグへ参加し3位。
+  - [2005年](../Page/2005年.md "wikilink") - アジアリーグアイスホッケーに参加。
+  - [2007年](../Page/2007年.md "wikilink") - High1アイスホッケーチームに改称。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") - レギュラーリーグ2位と健闘するも王子製紙（現[王子イーグルス](../Page/王子イーグルス.md "wikilink")）に敗れ4位に終わる
   - [2009年](../Page/2009年.md "wikilink") - レギュラーリーグ5位でプレーオフ進出するも[日本製紙クレインズ](https://ja.wikipedia.org/wiki/日本製紙クレインズ "wikilink")に敗れ5位に終わる
   - 2011-12年シーズン、[マイケル・スウィフト](https://ja.wikipedia.org/wiki/マイケル・スウィフト "wikilink")がリーグトップの44得点、46アシスト、合計90ポイントをあげて\[1\]最優秀選手に選ばれた\[2\]。アジアリーグタイ記録となる23試合連続ポイントをあげ、[ハットトリック](../Page/ハットトリック.md "wikilink")も4回記録した\[3\]。
   - 2018-2019年シーズンを持って、アジアリーグアイスホッケーから脱退が報じられる<ref>[ハイワンがアジアリーグ脱退へ　アイスホッケー　来季運営見直しも](https://www.hokkaido-np.co.jp/article/263531?rct=sports)

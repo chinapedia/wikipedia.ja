@@ -5,7 +5,7 @@
 
 ## 概要
 
-タイアップは、タイトル曲は[テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[すしあざらし](../Page/すしあざらし.md "wikilink")』テーマソング並びに『[T×2SHOW](https://ja.wikipedia.org/wiki/T×2SHOW "wikilink")』主題歌。カップリング曲は[2001年](../Page/2001年.md "wikilink")[大阪国際女子マラソン](https://ja.wikipedia.org/wiki/大阪国際女子マラソン "wikilink")イメージソング。 タイトル曲はパンク・ロックな曲で、後にリリースされたアルバム『[GLINT BEAT](https://ja.wikipedia.org/wiki/GLINT_BEAT "wikilink")』には同じくパンク・ロックの曲が多く収録されているが、本曲は収録されなかった。
+タイアップは、タイトル曲は[テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[すしあざらし](../Page/すしあざらし.md "wikilink")』テーマソング並びに『[T×2SHOW](https://ja.wikipedia.org/wiki/T×2SHOW "wikilink")』主題歌。カップリング曲は[2001年](../Page/2001年.md "wikilink")[大阪国際女子マラソン](../Page/大阪国際女子マラソン.md "wikilink")イメージソング。 タイトル曲はパンク・ロックな曲で、後にリリースされたアルバム『[GLINT BEAT](../Page/GLINT_BEAT.md "wikilink")』には同じくパンク・ロックの曲が多く収録されているが、本曲は収録されなかった。
 
 ## 収録曲
 

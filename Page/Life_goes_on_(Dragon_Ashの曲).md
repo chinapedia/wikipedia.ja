@@ -1,17 +1,17 @@
 > この記事は[Life goes on \(Dragon Ash\)](https://ja.wikipedia.org/wiki/Life_goes_on_\(Dragon_Ash\))から翻訳されています。
 
 
-「**Life goes on**」（ライフ・ゴーズ・オン）は、[Dragon Ashの楽曲で](https://ja.wikipedia.org/wiki/Dragon_Ash "wikilink")、10枚目の[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")に[ビクターエンタテインメントから発売](https://ja.wikipedia.org/wiki/JVCケンウッド・ビクターエンタテインメント "wikilink")。
+「**Life goes on**」（ライフ・ゴーズ・オン）は、[Dragon Ashの楽曲で](../Page/Dragon_Ash.md "wikilink")、10枚目の[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")に[ビクターエンタテインメントから発売](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")。
 
-表題曲は、J-PHONE（後のボーダフォン、現:[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")）「[写メール](../Page/写メール.md "wikilink")」[CMソングである](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。
+表題曲は、J-PHONE（後のボーダフォン、現:[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")）「[写メール](../Page/写メール.md "wikilink")」[CMソングである](../Page/コマーシャルソング.md "wikilink")。
 
-シングルとしては、[1999年](../Page/1999年.md "wikilink")の「[Grateful Days](../Page/Grateful_Days.md "wikilink")」以来通算2作目となる[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を獲得。同社集計の累計売上は80万枚を記録し\[1\]、「Grateful Days」に次ぐヒットとなっている。
+シングルとしては、[1999年](../Page/1999年.md "wikilink")の「[Grateful Days](../Page/Grateful_Days.md "wikilink")」以来通算2作目となる[オリコンチャート](../Page/オリコンチャート.md "wikilink")1位を獲得。同社集計の累計売上は80万枚を記録し\[1\]、「Grateful Days」に次ぐヒットとなっている。
 
 初回仕様盤はホログラムジャケット仕様で、ジャケットと同じ絵の描かれたステッカーが同梱されている。
 
 ## 収録曲
 
-  - 全作詞・作曲：[Kj](https://ja.wikipedia.org/wiki/降谷建志 "wikilink")
+  - 全作詞・作曲：[Kj](../Page/降谷建志.md "wikilink")
 
 <!-- end list -->
 

@@ -1,11 +1,11 @@
 > この記事は[Suono Dolce](https://ja.wikipedia.org/wiki/Suono_Dolce)から翻訳されています。
 
 
-**Suono Dolce**（スォーノ・ドルチェ）は[ニッポン放送](../Page/ニッポン放送.md "wikilink")が制作していた、デジタルラジオ推進協会 東京実用化試験局のサービス。デジタルラジオ閉局後は、インターネットラジオ局に転換。意味はイタリア語で「甘い音楽 (sweet sound)」。[D-JOLF](https://ja.wikipedia.org/wiki/D-JOLF "wikilink")のメインチャンネルの扱いである。
+**Suono Dolce**（スォーノ・ドルチェ）は[ニッポン放送](../Page/ニッポン放送.md "wikilink")が制作していた、デジタルラジオ推進協会 東京実用化試験局のサービス。デジタルラジオ閉局後は、インターネットラジオ局に転換。意味はイタリア語で「甘い音楽 (sweet sound)」。[D-JOLF](../Page/D-JOLF.md "wikilink")のメインチャンネルの扱いである。
 
 ## 概要
 
-これまでの[LFX mudigiから移行し](https://ja.wikipedia.org/wiki/LFX_mudigi "wikilink")、名称、番組構成ともに一新した。放送時間も毎日9:00～翌0:00となり、1日15時間に拡大した。キャッチコピーは「Love songs from Marunocuhi」。「丸の内発の[ラブソング](https://ja.wikipedia.org/wiki/ラブソング "wikilink")専門局」として、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2011年](../Page/2011年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで地上デジタルラジオで放送し、翌日4月1日から[2018年](../Page/2018年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")23:59までインターネット配信に移行して配信を行っていた。
+これまでの[LFX mudigiから移行し](../Page/LFX_mudigi.md "wikilink")、名称、番組構成ともに一新した。放送時間も毎日9:00～翌0:00となり、1日15時間に拡大した。キャッチコピーは「Love songs from Marunocuhi」。「丸の内発の[ラブソング](https://ja.wikipedia.org/wiki/ラブソング "wikilink")専門局」として、[2007年](../Page/2007年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2011年](../Page/2011年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで地上デジタルラジオで放送し、翌日4月1日から[2018年](../Page/2018年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")23:59までインターネット配信に移行して配信を行っていた。
 
 ### 放送時間
 
@@ -61,11 +61,11 @@
 
 ### 聴取方法
 
-  - [地上デジタルラジオ実用化試験放送](https://ja.wikipedia.org/wiki/地上デジタル音声放送 "wikilink") 関東9501チャンネル
-      - 東京タワーから出力2.4kW。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")、[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")、[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")の各一部でのみ受信できる。2011年3月31日に終了した\[1\]。
-  - [インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")（公式サイトでの配信、もしくはkikeruツールバーで聴取可能。また、日本国外でも視聴が可能。地上デジタルラジオ放送期間中、その補完として全世界向けに放送とのサイマル配信を実施）
-      - [ウィルコム](../Page/ウィルコム.md "wikilink")の[W-ZERO3](https://ja.wikipedia.org/wiki/W-ZERO3 "wikilink")(WILLCOM03含む)ではウィルコム用公式サイトをブックマークに入れるかW+RadioプレイヤーをインストールすることによりPHS回線（全ての方式）と無線LAN回線で聴取可能。
-      - [イーモバイル](https://ja.wikipedia.org/wiki/イーモバイル "wikilink")の[Windows Mobileスマートフォンではイーモバイル用公式サイトより](https://ja.wikipedia.org/wiki/Windows_Mobile "wikilink")3G回線と無線LANの両方で聴取可能。
+  - [地上デジタルラジオ実用化試験放送](../Page/地上デジタル音声放送.md "wikilink") 関東9501チャンネル
+      - 東京タワーから出力2.4kW。[東京都](../Page/東京都.md "wikilink")、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")、[千葉県](../Page/千葉県.md "wikilink")、[埼玉県](../Page/埼玉県.md "wikilink")の各一部でのみ受信できる。2011年3月31日に終了した\[1\]。
+  - [インターネット](../Page/インターネット.md "wikilink")（公式サイトでの配信、もしくはkikeruツールバーで聴取可能。また、日本国外でも視聴が可能。地上デジタルラジオ放送期間中、その補完として全世界向けに放送とのサイマル配信を実施）
+      - [ウィルコム](../Page/ウィルコム.md "wikilink")の[W-ZERO3](../Page/W-ZERO3.md "wikilink")(WILLCOM03含む)ではウィルコム用公式サイトをブックマークに入れるかW+RadioプレイヤーをインストールすることによりPHS回線（全ての方式）と無線LAN回線で聴取可能。
+      - [イーモバイル](https://ja.wikipedia.org/wiki/イーモバイル "wikilink")の[Windows Mobileスマートフォンではイーモバイル用公式サイトより](../Page/Windows_Mobile.md "wikilink")3G回線と無線LANの両方で聴取可能。
       - [ドコモ](https://ja.wikipedia.org/wiki/ドコモ "wikilink")・[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")向けWindows Mobile採用スマートフォンでは無線LAN使用時に限りPC用サイトのサイトマップページのHow to listenというリンク文字のタップにより出てきたページより聴取可能
           - 番組の配信方法がWindows Media Playerからフラッシュプレーヤーを組み込んだサイトの表示に変わった為、[ウィルコム](../Page/ウィルコム.md "wikilink")・[ドコモ](https://ja.wikipedia.org/wiki/ドコモ "wikilink")・[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")・[イーモバイル](https://ja.wikipedia.org/wiki/イーモバイル "wikilink")のWindows Mobileのスマートフォンでは視聴できなくなった。
       - [iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")については、2010年3月からiPhoneアプリ版にて聴取可能に。Twitter連携、お気に入り機能、バックグラウンド再生機能など。高音質で聴きたい人向けの有料アプリもある。
@@ -106,7 +106,7 @@
 <!-- end list -->
 
   -
-    パーソナリティー：[犬伏まり](https://ja.wikipedia.org/wiki/犬伏まり "wikilink")
+    パーソナリティー：[犬伏まり](../Page/犬伏まり.md "wikilink")
 
 <!-- end list -->
 
@@ -115,7 +115,7 @@
 <!-- end list -->
 
   -
-    パーソナリティー：[新保友映](https://ja.wikipedia.org/wiki/新保友映 "wikilink")
+    パーソナリティー：[新保友映](../Page/新保友映.md "wikilink")
 
 ## 脚注
 
@@ -123,9 +123,9 @@
 
 ## 関連項目
 
-  - [LFX mudigi](https://ja.wikipedia.org/wiki/LFX_mudigi "wikilink")
-  - [ニッポン放送 ポッドキャスティングステーション](https://ja.wikipedia.org/wiki/ニッポン放送_ポッドキャスティングステーション "wikilink")
-  - [D-JOLF](https://ja.wikipedia.org/wiki/D-JOLF "wikilink")
+  - [LFX mudigi](../Page/LFX_mudigi.md "wikilink")
+  - [ニッポン放送 ポッドキャスティングステーション](../Page/ニッポン放送_ポッドキャスティングステーション.md "wikilink")
+  - [D-JOLF](../Page/D-JOLF.md "wikilink")
 
 ## 外部リンク
 

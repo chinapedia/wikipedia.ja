@@ -1,12 +1,12 @@
 > この記事は[GT](https://ja.wikipedia.org/wiki/GT)から翻訳されています。
 
 
-[サムネイル](https://ja.wikipedia.org/wiki/ファイル:1972_Yamaha_GT50_in_the_Yamaha_Communication_Plaza.JPG "wikilink") **ヤマハ・GT**（ジーティー）とは、[ヤマハ発動機](https://ja.wikipedia.org/wiki/ヤマハ発動機 "wikilink")が製造していた[オートバイ](../Page/オートバイ.md "wikilink")の車種名。通称は**ミニトレ**。排気量50ccクラスの**GT50**と、同80ccクラスの**GT80**がシリーズ車種として展開された。
+[サムネイル](https://ja.wikipedia.org/wiki/ファイル:1972_Yamaha_GT50_in_the_Yamaha_Communication_Plaza.JPG "wikilink") **ヤマハ・GT**（ジーティー）とは、[ヤマハ発動機](../Page/ヤマハ発動機.md "wikilink")が製造していた[オートバイ](../Page/オートバイ.md "wikilink")の車種名。通称は**ミニトレ**。排気量50ccクラスの**GT50**と、同80ccクラスの**GT80**がシリーズ車種として展開された。
 
   - 系譜としては、同社のDT1のミニチュア風のデザインで前傾シリンダーの[ロータリーディスクバルブ](https://ja.wikipedia.org/wiki/2ストローク機関#ロータリー式吸気弁 "wikilink")[エンジンを搭載したFT](https://ja.wikipedia.org/wiki/オートバイ用エンジン "wikilink")1 (FT50)を元祖とする。
   - GTシリーズは、先代のコンセプトと「ミニトレ」の愛称を受け継ぎ、バーチカルシリンダーの[ピストンリードバルブエンジンを搭載した初代GT](https://ja.wikipedia.org/wiki/2ストローク機関#リード式吸気弁 "wikilink")50/80系と、[リアサスペンションに](https://ja.wikipedia.org/wiki/リヤサスペンション_\(オートバイ\) "wikilink")[カンチレバー式スイングアームを採用した二代目GT](https://ja.wikipedia.org/wiki/リヤサスペンション_\(オートバイ\)#カンチレバー "wikilink")50/80系との、2世代にわたるモデルが存在する。
   - 初期型モデルのシフトは「ボトムニュートラル方式」と言われるシフトを採用し、つま先で上にアップして1速、2速、3速、4速となり、かかと下げて4速、3速、2速、1速となる。シフト形状はロータリータイプと同じシーソー型だが、方式が異なり4速からいきなりニュートラルに戻る事はない。
-  - 1979年版のカタログには、当時プロボクサーとして活躍していた[具志堅用高](https://ja.wikipedia.org/wiki/具志堅用高 "wikilink")が登場している。
+  - 1979年版のカタログには、当時プロボクサーとして活躍していた[具志堅用高](../Page/具志堅用高.md "wikilink")が登場している。
 
 ## GT80
 

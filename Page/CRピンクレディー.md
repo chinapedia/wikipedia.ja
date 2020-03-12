@@ -1,11 +1,11 @@
 > この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
 
 
-**CRピンクレディー**は、[2002年](../Page/2002年.md "wikilink")9月に[大一商会](https://ja.wikipedia.org/wiki/大一商会 "wikilink")が開発、発売した[CR機](https://ja.wikipedia.org/wiki/CR機 "wikilink")[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")。[歌手](../Page/歌手.md "wikilink")の[ピンク・レディー](../Page/ピンク・レディー.md "wikilink")を主人公とした[タイアップ](https://ja.wikipedia.org/wiki/タイアップ "wikilink")[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")機。同社の『[CR天才バカボン](../Page/CR天才バカボン.md "wikilink")』で人気だったゲーム性を引き継いでおり、当時の大一機種としては『CR天才バカボン』が持っていた自社の売上記録を塗り替えるヒット機となった。また、本機のヒットを受けて、ピンク自身の人気も再上昇し、再々々々結成のきっかけともなった。
+**CRピンクレディー**は、[2002年](../Page/2002年.md "wikilink")9月に[大一商会](../Page/大一商会.md "wikilink")が開発、発売した[CR機](../Page/CR機.md "wikilink")[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")。[歌手](../Page/歌手.md "wikilink")の[ピンク・レディー](../Page/ピンク・レディー.md "wikilink")を主人公とした[タイアップ](../Page/タイアップ.md "wikilink")[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")機。同社の『[CR天才バカボン](../Page/CR天才バカボン.md "wikilink")』で人気だったゲーム性を引き継いでおり、当時の大一機種としては『CR天才バカボン』が持っていた自社の売上記録を塗り替えるヒット機となった。また、本機のヒットを受けて、ピンク自身の人気も再上昇し、再々々々結成のきっかけともなった。
 
 ## 特徴
 
-  - 1/2[確率変動](https://ja.wikipedia.org/wiki/確率変動 "wikilink")タイプ。
+  - 1/2[確率変動](../Page/確率変動.md "wikilink")タイプ。
   - キャラクターは、ピンク結成当時のイメージイラストやアニメキャラではなく、本機用に新たにデザインされたものを使用。かなりデフォルメされたため幼顔のピンクとなっている。
   - リーチ時、大当たり時にはピンクの当時のヒット曲が流れる。これらは当時のレコード音源のように聴こえるが、ピンク本人らによって本機用として新録されたものである。
   - 役物はワープルートからの打球を磁石でスタートチャッカー入賞をサポートする「リプレイ機能」を採用。
@@ -81,7 +81,7 @@
 
 ## CRピンクレディー・セカンドツアー
 
-CRピンクレディー・セカンドツアーは、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")に大一商会が開発、発売した[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")機。
+CRピンクレディー・セカンドツアーは、[2007年](../Page/2007年.md "wikilink")に大一商会が開発、発売した[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")機。
 
 ### 概要
 

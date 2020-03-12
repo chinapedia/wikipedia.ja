@@ -1,24 +1,24 @@
 > この記事は[Spontania](https://ja.wikipedia.org/wiki/Spontania)から翻訳されています。
 
 
-**Spontania**（スポンテニア）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")。ユニット名は英語で「自然発生的・自発的」の意味をもつ「spontaneous」を語源とする。
+**Spontania**（スポンテニア）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。ユニット名は英語で「自然発生的・自発的」の意味をもつ「spontaneous」を語源とする。
 
 ## メンバー
 
   - **Massattack**（マサタック）
-      - 横浜生まれ。高校の時に[ボストン](../Page/ボストン.md "wikilink")へ留学。デビュー前[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")のクラブでレギュラーDJとして活躍する。
+      - 横浜生まれ。高校の時に[ボストン](../Page/ボストン.md "wikilink")へ留学。デビュー前[ニューヨーク](../Page/ニューヨーク.md "wikilink")のクラブでレギュラーDJとして活躍する。
       - [アスタラビスタ](https://ja.wikipedia.org/wiki/アスタラビスタ "wikilink")のメンバーとしても活動。
   - **Tarantula**（タランチュラ、[1977年](../Page/1977年.md "wikilink")[6月17日](../Page/6月17日.md "wikilink") - ）
       - 東京生まれ。高校の時に渡米した。
   - **Kaori**（カオリ、[1982年](../Page/1982年.md "wikilink")[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink") - ）
-      - 2010年に加入。[名取香り](https://ja.wikipedia.org/wiki/名取香り "wikilink")としてソロデビューしていた経歴がある。
+      - 2010年に加入。[名取香り](../Page/名取香り.md "wikilink")としてソロデビューしていた経歴がある。
 
 ## 経歴・概要
 
-  - [1996年](../Page/1996年.md "wikilink")、[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")で出会い、「Hi-Timez」を結成。
-  - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")、「Hi-Timez」として[東芝EMIよりメジャーデビュー](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")、Hi-Timez解散。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")、[Def Techの](https://ja.wikipedia.org/wiki/Def_Tech "wikilink")[Micro](https://ja.wikipedia.org/wiki/Micro "wikilink")と出会い、同時にMicroが[ユニバーサルミュージックの](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")「[Far Eastern Tribe Records](https://ja.wikipedia.org/wiki/Far_Eastern_Tribe_Records "wikilink")」で設立した自身のレーベル「Primary Color Recordz」から新たな活動をスタートすることになり、「Spontania」を結成。
+  - [1996年](../Page/1996年.md "wikilink")、[ニューヨーク](../Page/ニューヨーク.md "wikilink")で出会い、「Hi-Timez」を結成。
+  - [2004年](../Page/2004年.md "wikilink")、「Hi-Timez」として[東芝EMIよりメジャーデビュー](../Page/EMIミュージック・ジャパン.md "wikilink")。
+  - [2006年](../Page/2006年.md "wikilink")、Hi-Timez解散。
+  - [2007年](../Page/2007年.md "wikilink")、[Def Techの](https://ja.wikipedia.org/wiki/Def_Tech "wikilink")[Micro](../Page/Micro.md "wikilink")と出会い、同時にMicroが[ユニバーサルミュージックの](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")「[Far Eastern Tribe Records](../Page/Far_Eastern_Tribe_Records.md "wikilink")」で設立した自身のレーベル「Primary Color Recordz」から新たな活動をスタートすることになり、「Spontania」を結成。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、JUJUをフィーチャーしたシングル[君のすべてに](https://ja.wikipedia.org/wiki/君のすべてに "wikilink")''' feat. [JUJU](https://ja.wikipedia.org/wiki/JUJU "wikilink")が大ヒット。累計300万以上のダウンロードを記録。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")、女性ボーカリストのKaoriが加入し、新生「Spontania」としてスタートをした。
 
@@ -49,7 +49,7 @@
 <tr class="even">
 <td><p>1st</p></td>
 <td><p>2004年3月3日</p></td>
-<td><p><strong>In My Words 〜<a href="https://ja.wikipedia.org/wiki/言葉にできない" title="wikilink">言葉にできない</a>〜</strong></p></td>
+<td><p><strong>In My Words 〜<a href="../Page/言葉にできない.md" title="wikilink">言葉にできない</a>〜</strong></p></td>
 <td><p>TOCT-22237</p></td>
 <td><ol>
 <li>In My Words 〜言葉にできない〜 【作詞作曲:Hi-Timez,小田和正】</li>
@@ -69,7 +69,7 @@
 <td><p><strong>Spark!</strong></p></td>
 <td><p>TOCT-4805</p></td>
 <td><ol>
-<li>Spark! 【作詞:Hi-Timez/作曲:Hi-Timez,<a href="https://ja.wikipedia.org/wiki/YANAGIMAN" title="wikilink">YANAGIMAN</a>】</li>
+<li>Spark! 【作詞:Hi-Timez/作曲:Hi-Timez,<a href="../Page/YANAGIMAN.md" title="wikilink">YANAGIMAN</a>】</li>
 <li>Spark!(Instrumental)</li>
 <li>In My Words 〜言葉にできない〜(exclsive goove mix)</li>
 </ol></td>
@@ -113,7 +113,7 @@ TOCT-4862:通常盤</p></td>
 <li>SUNSHINE [Instrumental]</li>
 <li>Caliente [Instrumental]</li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミュージック・ビデオ" title="wikilink">ミュージック・ビデオ</a>に<a href="https://ja.wikipedia.org/wiki/猫ひろし" title="wikilink">猫ひろし</a>が出演</p></td>
+<td><p><a href="../Page/ミュージック・ビデオ.md" title="wikilink">ミュージック・ビデオ</a>に<a href="../Page/猫ひろし.md" title="wikilink">猫ひろし</a>が出演</p></td>
 </tr>
 <tr class="odd">
 <td><p>6th</p></td>
@@ -202,11 +202,11 @@ TOCT-4862:通常盤</p></td>
 <tr class="odd">
 <td><p>6th</p></td>
 <td><p>2009年7月29日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/夏夢" title="wikilink">夏夢</a></strong> feat. <a href="https://ja.wikipedia.org/wiki/SOTTE_BOSSE" title="wikilink">Sotte Bosse</a>'''</p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/夏夢" title="wikilink">夏夢</a></strong> feat. <a href="../Page/SOTTE_BOSSE.md" title="wikilink">Sotte Bosse</a>'''</p></td>
 <td><p>UMCF-5040</p></td>
 <td><ol>
 <li>夏夢 feat. Sotte Bosse 【作詞:Spontania,Cana,ナカムラヒロシ/作曲:Spontania,ナカムラヒロシ/編曲:ナカムラヒロシ,本澤尚之】</li>
-<li>風に唄えば feat. <a href="https://ja.wikipedia.org/wiki/Leyona" title="wikilink">Leyona</a> 【作詞:Spontania,Leyona/作曲:Spontania,Leyona,<a href="https://ja.wikipedia.org/wiki/藤本和則" title="wikilink">藤本和則</a>/編曲:藤本和則】</li>
+<li>風に唄えば feat. <a href="../Page/Leyona.md" title="wikilink">Leyona</a> 【作詞:Spontania,Leyona/作曲:Spontania,Leyona,<a href="../Page/藤本和則.md" title="wikilink">藤本和則</a>/編曲:藤本和則】</li>
 <li>きっと feat. <a href="https://ja.wikipedia.org/wiki/橋本聖子_(歌手)" title="wikilink">橋本聖子</a> 【作詞:Spontania,ジェフ・ミヤハラ,橋本聖子/作曲:Spontania,ジェフ・ミヤハラ,橋本聖子,TAKAROT】
 <dl>
 <dt></dt>
@@ -238,11 +238,11 @@ TOCT-4862:通常盤</p></td>
 <tr class="odd">
 <td><p>8th</p></td>
 <td><p>2009年10月21日</p></td>
-<td><p><strong>同じ空みつめてるあなたに</strong> feat. <a href="https://ja.wikipedia.org/wiki/AZU" title="wikilink">AZU</a></p></td>
+<td><p><strong>同じ空みつめてるあなたに</strong> feat. <a href="../Page/AZU.md" title="wikilink">AZU</a></p></td>
 <td><p>UMCF-5046</p></td>
 <td><ol>
 <li>同じ空みつめてるあなたに feat. AZU 【作詞:Spontania,ジェフ・ミヤハラ,AZU/作曲:Spontania,ジェフ・ミヤハラ,AZU,Nagacho】</li>
-<li>One Nation 【作詞:Spontania/作曲:Spontania,<a href="https://ja.wikipedia.org/wiki/原一博" title="wikilink">原一博</a>/編曲:原一博】</li>
+<li>One Nation 【作詞:Spontania/作曲:Spontania,<a href="../Page/原一博.md" title="wikilink">原一博</a>/編曲:原一博】</li>
 <li>感謝'09 (Spontania☆Hi-Timez) 【作詞作曲:Spontania☆Hi-Timez/編曲:RYLL】</li>
 <li>同じ空みつめてるあなたに (Inst.)</li>
 </ol></td>
@@ -284,7 +284,7 @@ TOCT-4862:通常盤</p></td>
 <li>LIFE 【作詞:Spontania/作曲:Spontania,井上大介】</li>
 <li>DEPARTURES [INSTRUMENTAL]</li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/globe" title="wikilink">globe</a>「<a href="https://ja.wikipedia.org/wiki/DEPARTURES" title="wikilink">DEPARTURES</a>」をリメイクしカバー</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/globe" title="wikilink">globe</a>「<a href="../Page/DEPARTURES.md" title="wikilink">DEPARTURES</a>」をリメイクしカバー</p></td>
 </tr>
 <tr class="odd">
 <td><p>12th</p></td>
@@ -320,7 +320,7 @@ UMCF-5087:通常盤</p></td>
 <ol>
 <li>君でよかった (MUSIC VIDEO)</li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/TBSテレビ" title="wikilink">TBSテレビ</a>「<a href="https://ja.wikipedia.org/wiki/ランク王国" title="wikilink">ランク王国</a>」10・11月度オープニングテーマ</p></td>
+<td><p><a href="../Page/TBSテレビ.md" title="wikilink">TBSテレビ</a>「<a href="../Page/ランク王国.md" title="wikilink">ランク王国</a>」10・11月度オープニングテーマ</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -461,18 +461,18 @@ TOCT-26554:CD</p></td>
 UMCF-1027:通常盤</p></td>
 <td><ol>
 <li>Introduction</li>
-<li>Be With Me feat. <a href="https://ja.wikipedia.org/wiki/SEAMO" title="wikilink">SEAMO</a></li>
+<li>Be With Me feat. <a href="../Page/SEAMO.md" title="wikilink">SEAMO</a></li>
 <li>同じ空みつめてるあなたに feat. AZU</li>
 <li>君のすべてに feat. JUJU</li>
 <li>Where Is The Love feat. <a href="https://ja.wikipedia.org/wiki/多和田えみ" title="wikilink">多和田えみ</a></li>
 <li>今でもずっと feat. 伊藤由奈</li>
 <li>Interlude</li>
-<li>Three is the Magic Number feat. <a href="https://ja.wikipedia.org/wiki/COMA-CHI" title="wikilink">COMA-CHI</a></li>
+<li>Three is the Magic Number feat. <a href="../Page/COMA-CHI.md" title="wikilink">COMA-CHI</a></li>
 <li>夏夢 feat. Sotte Bosse</li>
 <li>Another Story 〜Story Spontania Version feat. EЯY</li>
-<li>Beep Beep (Hunter's Remix) feat. <a href="https://ja.wikipedia.org/wiki/WISE" title="wikilink">WISE</a></li>
+<li>Beep Beep (Hunter's Remix) feat. <a href="../Page/WISE.md" title="wikilink">WISE</a></li>
 <li>きっと feat. 橋本聖子</li>
-<li>山川草木 feat. <a href="https://ja.wikipedia.org/wiki/Micro" title="wikilink">Micro</a></li>
+<li>山川草木 feat. <a href="../Page/Micro.md" title="wikilink">Micro</a></li>
 <li>Beautiful feat. <a href="https://ja.wikipedia.org/wiki/ハリセンボン_(お笑いコンビ)" title="wikilink">ハリセンボン</a>
 <dl>
 <dt></dt>
@@ -538,7 +538,7 @@ UMCF-1067:通常盤</p></td>
 <li>君でよかった (MUSIC VIDEO)</li>
 <li>ごめんなんて言わないで (MUSIC VIDEO)</li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/藤森慎吾" title="wikilink">藤森慎吾</a>(オリエンタルラジオ)・<a href="https://ja.wikipedia.org/wiki/FISHBOY" title="wikilink">FISHBOY</a>が参加。</p></td>
+<td><p><a href="../Page/藤森慎吾.md" title="wikilink">藤森慎吾</a>(オリエンタルラジオ)・<a href="https://ja.wikipedia.org/wiki/FISHBOY" title="wikilink">FISHBOY</a>が参加。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -561,23 +561,23 @@ UMCF-1067:通常盤</p></td>
 </tr>
 <tr class="even">
 <td><p>Positivity</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>系「<a href="https://ja.wikipedia.org/wiki/JAPAN_COUNTDOWN" title="wikilink">JAPAN COUNTDOWN</a>」4月度エンディングテーマ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>系「<a href="../Page/JAPAN_COUNTDOWN.md" title="wikilink">JAPAN COUNTDOWN</a>」4月度エンディングテーマ</p></td>
 </tr>
 <tr class="odd">
 <td><p>テレビ東京系「ALOHA GIRL」オープニングテーマ</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/エムティーアイ" title="wikilink">エムティーアイ</a>「<a href="https://ja.wikipedia.org/wiki/music.jp" title="wikilink">music.jp</a>」CMソング</p></td>
+<td><p><a href="../Page/エムティーアイ.md" title="wikilink">エムティーアイ</a>「<a href="https://ja.wikipedia.org/wiki/music.jp" title="wikilink">music.jp</a>」CMソング</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>"HANABI"</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/TBSテレビ" title="wikilink">TBS系</a>「<a href="https://ja.wikipedia.org/wiki/COUNT_DOWN_TV" title="wikilink">COUNT DOWN TV</a>」6月度オープニングテーマ</p></td>
+<td><p><a href="../Page/TBSテレビ.md" title="wikilink">TBS系</a>「<a href="../Page/COUNT_DOWN_TV.md" title="wikilink">COUNT DOWN TV</a>」6月度オープニングテーマ</p></td>
 </tr>
 <tr class="even">
 <td><p>It's OK</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日産自動車" title="wikilink">NISSAN</a>「<a href="https://ja.wikipedia.org/wiki/日産・ノート" title="wikilink">NOTE</a>」CMソング</p></td>
+<td><p><a href="../Page/日産自動車.md" title="wikilink">NISSAN</a>「<a href="../Page/日産・ノート.md" title="wikilink">NOTE</a>」CMソング</p></td>
 </tr>
 <tr class="odd">
 <td><p>サヨナラ...</p></td>
@@ -585,8 +585,8 @@ UMCF-1067:通常盤</p></td>
 </tr>
 <tr class="even">
 <td><p>君のすべてに feat. <a href="https://ja.wikipedia.org/wiki/JUJU" title="wikilink">JUJU</a></p></td>
-<td><p>日本テレビ系「<a href="https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER" title="wikilink">音楽戦士 MUSIC FIGHTER</a>」7・8月度POWER PLAY<br />
-日本テレビ系「<a href="https://ja.wikipedia.org/wiki/ラジかるッ" title="wikilink">ラジかるッ</a>」エンディングテーマ<br />
+<td><p>日本テレビ系「<a href="../Page/音楽戦士_MUSIC_FIGHTER.md" title="wikilink">音楽戦士 MUSIC FIGHTER</a>」7・8月度POWER PLAY<br />
+日本テレビ系「<a href="../Page/ラジかるッ.md" title="wikilink">ラジかるッ</a>」エンディングテーマ<br />
 日本テレビ系「<a href="https://ja.wikipedia.org/wiki/ポシュレ" title="wikilink">ポシュレ</a>デパート深夜店」エンディングテーマ</p></td>
 </tr>
 <tr class="odd">
@@ -594,7 +594,7 @@ UMCF-1067:通常盤</p></td>
 <td><p>エムティーアイ「music.jp」CMソング</p></td>
 </tr>
 <tr class="even">
-<td><p>夏夢 feat. <a href="https://ja.wikipedia.org/wiki/SOTTE_BOSSE" title="wikilink">Sotte Bosse</a></p></td>
+<td><p>夏夢 feat. <a href="../Page/SOTTE_BOSSE.md" title="wikilink">Sotte Bosse</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/森永製菓" title="wikilink">森永製菓</a>「<a href="https://ja.wikipedia.org/wiki/ICE_BOX" title="wikilink">ICE BOX</a> 濃い果実氷」CMソング</p></td>
 </tr>
 </tbody>
@@ -614,7 +614,7 @@ UMCF-1067:通常盤</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/DJ_MASTERKEY" title="wikilink">DJ MASTERKEY</a></p></td>
+<td><p><a href="../Page/DJ_MASTERKEY.md" title="wikilink">DJ MASTERKEY</a></p></td>
 <td><p>アルバム</p></td>
 <td><p>DADDY'S HOUSE VOL.1</p></td>
 <td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="../Page/10月11日.md" title="wikilink">10月11日</a></p></td>
@@ -631,7 +631,7 @@ the message 03 Feat. Hi-Timez</p></td>
 <tr class="odd">
 <td><p>アルバム</p></td>
 <td><p>DADDY'S HOUSE VOL.3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/1月26日" title="wikilink">1月26日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/1月26日" title="wikilink">1月26日</a></p></td>
 <td><p>HEY DADDY Feat. Hi-Timez</p></td>
 <td></td>
 </tr>
@@ -658,7 +658,7 @@ the message 03 Feat. Hi-Timez</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/YA-KYIM" title="wikilink">YA-KYIM</a></p></td>
+<td><p><a href="../Page/YA-KYIM.md" title="wikilink">YA-KYIM</a></p></td>
 <td><p>シングル</p></td>
 <td><p>君がいるだけで／さぁ行こう! -"RESPECT"4 tracks E.P.-</p></td>
 <td><p>2008年<a href="../Page/12月3日.md" title="wikilink">12月3日</a></p></td>
@@ -708,14 +708,14 @@ the message 03 Feat. Hi-Timez</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/L-VOKAL" title="wikilink">L-VOKAL</a></p></td>
+<td><p><a href="../Page/L-VOKAL.md" title="wikilink">L-VOKAL</a></p></td>
 <td><p>アルバム</p></td>
 <td><p>LOVIN'</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><a href="../Page/3月3日.md" title="wikilink">3月3日</a></p></td>
-<td><p>PRIMARY COLORS feat. Spontania, NAO, <a href="https://ja.wikipedia.org/wiki/Micro" title="wikilink">Micro</a></p></td>
+<td><p>PRIMARY COLORS feat. Spontania, NAO, <a href="../Page/Micro.md" title="wikilink">Micro</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/AZU" title="wikilink">AZU</a></p></td>
+<td><p><a href="../Page/AZU.md" title="wikilink">AZU</a></p></td>
 <td><p>アルバム</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Two_of_Us_(AZUのアルバム)" title="wikilink">Two of Us</a></p></td>
 <td><p>2010年<a href="../Page/3月17日.md" title="wikilink">3月17日</a></p></td>
@@ -740,7 +740,7 @@ the message 03 Feat. Hi-Timez</p></td>
 <td><p>アルバム</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/SpeciAlisa" title="wikilink">SpeciAlisa</a></p></td>
 <td><p><a href="../Page/2011年.md" title="wikilink">2011年</a><a href="../Page/5月25日.md" title="wikilink">5月25日</a></p></td>
-<td><p>To Your Heart feat. <a href="https://ja.wikipedia.org/wiki/WISE" title="wikilink">WISE</a> &amp; Tarantula from スポンテニア</p></td>
+<td><p>To Your Heart feat. <a href="../Page/WISE.md" title="wikilink">WISE</a> &amp; Tarantula from スポンテニア</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/NERDHEAD" title="wikilink">NERDHEAD</a></p></td>
@@ -750,7 +750,7 @@ the message 03 Feat. Hi-Timez</p></td>
 <td><p>LIGHTS ON feat. スポンテニア</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/CHIHIRO_(歌手)" title="wikilink">CHIHIRO</a></p></td>
+<td><p><a href="../Page/CHIHIRO_(歌手).md" title="wikilink">CHIHIRO</a></p></td>
 <td><p>シングル</p></td>
 <td><p>永遠 feat. Tarantula from スポンテニア</p></td>
 <td><p><a href="../Page/2012年.md" title="wikilink">2012年</a><a href="../Page/1月18日.md" title="wikilink">1月18日</a></p></td>
@@ -789,7 +789,7 @@ the message 03 Feat. Hi-Timez</p></td>
 <td><p>アルバム</p></td>
 <td><p>I AM ME!</p></td>
 <td><p>2013年6月19日</p></td>
-<td><p>星のない街 〜TOKYO〜 feat. <a href="https://ja.wikipedia.org/wiki/LITTLE" title="wikilink">LITTLE</a> &amp; MASSATTACK</p></td>
+<td><p>星のない街 〜TOKYO〜 feat. <a href="../Page/LITTLE.md" title="wikilink">LITTLE</a> &amp; MASSATTACK</p></td>
 </tr>
 <tr class="even">
 <td><p>DJ SOULJAH</p></td>
@@ -834,9 +834,9 @@ the message 03 Feat. Hi-Timez</p></td>
 <td><p>「THAT'S IT NO MORE」</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/竹久正記" title="wikilink">竹久正記</a></p></td>
+<td><p><a href="../Page/竹久正記.md" title="wikilink">竹久正記</a></p></td>
 <td><p>「Break Yourself」<br />
-「SUNSHINE」(出演:<a href="https://ja.wikipedia.org/wiki/猫ひろし" title="wikilink">猫ひろし</a>・<a href="https://ja.wikipedia.org/wiki/村上恵梨" title="wikilink">村上恵梨</a>)</p></td>
+「SUNSHINE」(出演:<a href="../Page/猫ひろし.md" title="wikilink">猫ひろし</a>・<a href="../Page/村上恵梨.md" title="wikilink">村上恵梨</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/DAVID春山" title="wikilink">DAVID春山</a></p></td>
@@ -870,7 +870,7 @@ the message 03 Feat. Hi-Timez</p></td>
 <td><p>「<a href="https://www.youtube.com/watch?v=CD6TbDk3nWg">Positivity</a>」</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/池田一真" title="wikilink">池田一真</a></p></td>
+<td><p><a href="../Page/池田一真.md" title="wikilink">池田一真</a></p></td>
 <td><p>「<a href="https://www.youtube.com/watch?v=Dry-60w7MDM">HANABI</a>」</p></td>
 </tr>
 <tr class="even">
@@ -879,7 +879,7 @@ the message 03 Feat. Hi-Timez</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/大泉共弘" title="wikilink">大泉共弘</a></p></td>
-<td><p>「<a href="https://www.youtube.com/watch?v=VDV9L55cfKk">今でもずっと</a>」(出演:<a href="https://ja.wikipedia.org/wiki/大東駿介" title="wikilink">大東駿介</a>・<a href="https://ja.wikipedia.org/wiki/奥田恵梨華" title="wikilink">奥田恵梨華</a>・<a href="https://ja.wikipedia.org/wiki/瀧口修央" title="wikilink">瀧口修央</a>)</p></td>
+<td><p>「<a href="https://www.youtube.com/watch?v=VDV9L55cfKk">今でもずっと</a>」(出演:<a href="../Page/大東駿介.md" title="wikilink">大東駿介</a>・<a href="https://ja.wikipedia.org/wiki/奥田恵梨華" title="wikilink">奥田恵梨華</a>・<a href="https://ja.wikipedia.org/wiki/瀧口修央" title="wikilink">瀧口修央</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/Ka2_Kataoka" title="wikilink">Ka2 Kataoka</a></p></td>
@@ -892,16 +892,16 @@ the message 03 Feat. Hi-Timez</p></td>
 <td><p>「<a href="https://www.youtube.com/watch?v=IcY9OqrUW6I">DEPARTURES</a>」</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/須永秀明" title="wikilink">須永秀明</a></p></td>
+<td><p><a href="../Page/須永秀明.md" title="wikilink">須永秀明</a></p></td>
 <td><p>「<a href="https://www.youtube.com/watch?v=P0XZ1UzLPxA">「サヨナラ...」</a>」(出演:<a href="https://ja.wikipedia.org/wiki/石橋杏奈" title="wikilink">石橋杏奈</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/関和亮" title="wikilink">関和亮</a></p></td>
-<td><p>「<a href="https://www.youtube.com/watch?v=ICpWZoz4Qzc">JAM</a>」(出演:<a href="https://ja.wikipedia.org/wiki/篠原さや" title="wikilink">篠原さや</a>・<a href="https://ja.wikipedia.org/wiki/ELEVENPLAY" title="wikilink">ELEVENPLAY</a>)</p></td>
+<td><p>「<a href="https://www.youtube.com/watch?v=ICpWZoz4Qzc">JAM</a>」(出演:<a href="../Page/篠原さや.md" title="wikilink">篠原さや</a>・<a href="https://ja.wikipedia.org/wiki/ELEVENPLAY" title="wikilink">ELEVENPLAY</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/平野康祐" title="wikilink">平野康祐</a></p></td>
-<td><p>「<a href="https://www.youtube.com/watch?v=hdDI1TAydqc">君のすべてに</a>」(出演:<a href="https://ja.wikipedia.org/wiki/渡部豪太" title="wikilink">渡部豪太</a>・<a href="https://ja.wikipedia.org/wiki/清野優美" title="wikilink">清野優美</a>)</p></td>
+<td><p>「<a href="https://www.youtube.com/watch?v=hdDI1TAydqc">君のすべてに</a>」(出演:<a href="../Page/渡部豪太.md" title="wikilink">渡部豪太</a>・<a href="https://ja.wikipedia.org/wiki/清野優美" title="wikilink">清野優美</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/モリ☆カツ" title="wikilink">モリ☆カツ</a></p></td>
@@ -916,7 +916,7 @@ the message 03 Feat. Hi-Timez</p></td>
 
 ## 現在の出演番組
 
-  - [TOKYO→NIIGATA MUSIC CONVOY](https://ja.wikipedia.org/wiki/TOKYO→NIIGATA_MUSIC_CONVOY "wikilink") ([FM PORT](../Page/新潟県民エフエム放送.md "wikilink"))
+  - [TOKYO→NIIGATA MUSIC CONVOY](../Page/TOKYO→NIIGATA_MUSIC_CONVOY.md "wikilink") ([FM PORT](../Page/新潟県民エフエム放送.md "wikilink"))
 
 ## 主なライブ
 

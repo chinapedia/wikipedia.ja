@@ -1,22 +1,22 @@
 > この記事は[ \(THE BLUE HEARTS\)](https://ja.wikipedia.org/wiki/_\(THE_BLUE_HEARTS\))から翻訳されています。
 
 
-「**ラブレター**」は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[THE BLUE HEARTSの通算](https://ja.wikipedia.org/wiki/THE_BLUE_HEARTS "wikilink")7枚目の[シングル](../Page/シングル.md "wikilink")。
+「**ラブレター**」は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[THE BLUE HEARTSの通算](../Page/THE_BLUE_HEARTS.md "wikilink")7枚目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 解説
 
-3rdアルバム『[TRAIN-TRAIN](https://ja.wikipedia.org/wiki/TRAIN-TRAIN_\(アルバム\) "wikilink")』からのリカット。
+3rdアルバム『[TRAIN-TRAIN](../Page/TRAIN-TRAIN_\(アルバム\).md "wikilink")』からのリカット。
 
-[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")、[KDDI](../Page/KDDI.md "wikilink")（[au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")）の[CMソングに起用される](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。
+[2004年](../Page/2004年.md "wikilink")、[KDDI](../Page/KDDI.md "wikilink")（[au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")）の[CMソングに起用される](../Page/コマーシャルソング.md "wikilink")。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")、映画『[ラブレター 蒼恋歌](https://ja.wikipedia.org/wiki/ラブレター_蒼恋歌 "wikilink")』の[挿入歌に起用される](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")。
+[2006年](../Page/2006年.md "wikilink")、映画『[ラブレター 蒼恋歌](../Page/ラブレター_蒼恋歌.md "wikilink")』の[挿入歌に起用される](../Page/サウンドトラック.md "wikilink")。
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")、この年の春季キャンプ中に死亡した[小瀬浩之](https://ja.wikipedia.org/wiki/小瀬浩之 "wikilink")の追悼の意味を込め、オリックス・バファローズ応援団が試合開始前に行う通常の応援練習の後に、小瀬が登場曲として使用していた「電光石火」を追加して演奏することとなった。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")、この年の春季キャンプ中に死亡した[小瀬浩之](../Page/小瀬浩之.md "wikilink")の追悼の意味を込め、オリックス・バファローズ応援団が試合開始前に行う通常の応援練習の後に、小瀬が登場曲として使用していた「電光石火」を追加して演奏することとなった。
 
 ## 収録曲
 
 1.  **ラブレター**
-    （作詞・作曲: [甲本ヒロト](https://ja.wikipedia.org/wiki/甲本ヒロト "wikilink")）
+    （作詞・作曲: [甲本ヒロト](../Page/甲本ヒロト.md "wikilink")）
       -
         バラードでは初のシングル。演奏ではオーケストレーションがふんだんに使われている。プロモーションビデオはハワイで撮影された。
 2.  **電光石火**
@@ -28,7 +28,7 @@
 
   - [ロリータ18号](../Page/ロリータ18号.md "wikilink") - 1999年、アルバム『ヤリタミン』でカバー。
   - [つじあやの](https://ja.wikipedia.org/wiki/つじあやの "wikilink") - 2004年、アルバム『Cover Girl』でカバー。
-  - [白羽玲子](https://ja.wikipedia.org/wiki/白羽玲子 "wikilink") - 2005年、シングル「ラブレター」でカバー。
+  - [白羽玲子](../Page/白羽玲子.md "wikilink") - 2005年、シングル「ラブレター」でカバー。
       -
         テレビ朝日系ドラマ『[特命係長 只野仁](https://ja.wikipedia.org/wiki/特命係長_只野仁_\(テレビドラマ\) "wikilink")』の2ndシーズンの主題歌。
 

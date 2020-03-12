@@ -1,17 +1,17 @@
 > この記事は[ACCESS TO YOU](https://ja.wikipedia.org/wiki/ACCESS_TO_YOU)から翻訳されています。
 
 
-**NACK5 ACCESS TO YOU**（ナックファイブ アクセス トゥー ユー）は、[NACK5が放送している](../Page/エフエムナックファイブ.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")4月より放送開始。2011年3月27日の放送をもって終了した。NACK5のスタジオ・アルシェ（大宮スタジオ）から公開生放送をしていた。hithit.comで生中継動画を視聴できる。番組名がスポンサーにより変わる。
+**NACK5 ACCESS TO YOU**（ナックファイブ アクセス トゥー ユー）は、[NACK5が放送している](../Page/エフエムナックファイブ.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[2005年](../Page/2005年.md "wikilink")4月より放送開始。2011年3月27日の放送をもって終了した。NACK5のスタジオ・アルシェ（大宮スタジオ）から公開生放送をしていた。hithit.comで生中継動画を視聴できる。番組名がスポンサーにより変わる。
 
-  - 2005年4月-[2009年](../Page/2009年.md "wikilink")9月 - [au](https://ja.wikipedia.org/wiki/Au_\(携帯電話\) "wikilink") Presents NACK5 ACCESS TO YOU
+  - 2005年4月-[2009年](../Page/2009年.md "wikilink")9月 - [au](../Page/Au_\(携帯電話\).md "wikilink") Presents NACK5 ACCESS TO YOU
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")2月-2010年3月 - [UR都市機構](../Page/都市再生機構.md "wikilink") Presents NACK5 ACCESS TO YOU
 
 その後、日曜の午後ワイド番組はアイドルをフィーチャーする『[〜IDOL SHOWCASE〜 i-BAN\!\!](https://ja.wikipedia.org/wiki/〜IDOL_SHOWCASE〜_i-BAN!! "wikilink")』に代わる。
 
 ## 歴代パーソナリティ
 
-  - [黒田治](../Page/黒田治.md "wikilink")（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")4月-2011年3月）
-  - [上條ひとみ](https://ja.wikipedia.org/wiki/上條ひとみ "wikilink")（2005年4月-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")9月）
+  - [黒田治](../Page/黒田治.md "wikilink")（[2005年](../Page/2005年.md "wikilink")4月-2011年3月）
+  - [上條ひとみ](../Page/上條ひとみ.md "wikilink")（2005年4月-[2007年](../Page/2007年.md "wikilink")9月）
   - [伊原凛](https://ja.wikipedia.org/wiki/伊原凛 "wikilink")（2007年10月-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")9月）
   - [元井美貴](https://ja.wikipedia.org/wiki/元井美貴 "wikilink")（2008年10月-2011年3月）
 
@@ -48,8 +48,8 @@
         [goo](https://ja.wikipedia.org/wiki/goo "wikilink")ランキングなど、ランキングの中から男女関係に関するランキングテーマをピックアップする。
   - 17:30 NACK5 TRAFFIC
       -
-        [日本道路交通情報センター](https://ja.wikipedia.org/wiki/日本道路交通情報センター "wikilink")から伝える。交通情報は[関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikilink")の高速道路と[首都高速道路](https://ja.wikipedia.org/wiki/首都高速道路 "wikilink")、[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")内の一般道路が中心。
-  - 17:33 [ranKing ranQueen流行りものカウントダウン](https://ja.wikipedia.org/wiki/ランキンランキン "wikilink")
+        [日本道路交通情報センター](../Page/日本道路交通情報センター.md "wikilink")から伝える。交通情報は[関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikilink")の高速道路と[首都高速道路](https://ja.wikipedia.org/wiki/首都高速道路 "wikilink")、[埼玉県](../Page/埼玉県.md "wikilink")内の一般道路が中心。
+  - 17:33 [ranKing ranQueen流行りものカウントダウン](../Page/ランキンランキン.md "wikilink")
       -
         ランキンランキンについては項目を参照。今流行っている雑貨を毎週ジャンルをチョイスしてカウントダウン形式で紹介。
   - 17:50 SPORTS EXPRESS
@@ -69,7 +69,7 @@
         「歌はあなたの思い出の目次」。黒田一押しの曲を届ける。
   - 19:10 リスナーのみなさんと黒田の時間
       -
-        [RADIO-X](https://ja.wikipedia.org/wiki/RADIO-X "wikilink")金曜日の「黒田の時間」の復活版。黒田が雑誌や新聞などから、気になった情報を話す。
+        [RADIO-X](../Page/RADIO-X.md "wikilink")金曜日の「黒田の時間」の復活版。黒田が雑誌や新聞などから、気になった情報を話す。
   - 19:20 世界ちょいアホニュース
       -
         国内外のゴシップニュースを紹介するコーナー。
@@ -116,7 +116,7 @@
   - 17:35 ハンギングゼアー\! [埼玉ブロンコス](https://ja.wikipedia.org/wiki/埼玉ブロンコス "wikilink")
       -
         埼玉県を本拠地とするプロバスケットボールチーム、bjリーグ[埼玉ブロンコス](https://ja.wikipedia.org/wiki/埼玉ブロンコス "wikilink")について特集するコーナー。10月-4月中頃までの期間限定コーナー。
-  - 17:40 [au](https://ja.wikipedia.org/wiki/Au_\(携帯電話\) "wikilink") EZ[着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink") スペシャルチョイス
+  - 17:40 [au](../Page/Au_\(携帯電話\).md "wikilink") EZ[着うたフル](../Page/着うたフル.md "wikilink") スペシャルチョイス
       -
         女性パーソナリティーのタイトルコールで始まる。
   - 17:50 SPORTS EXPRESS
@@ -142,7 +142,7 @@
 
 ## 過去のコーナー
 
-  - 『[au](https://ja.wikipedia.org/wiki/Au_\(携帯電話\) "wikilink") EZ[着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink") トピックス』（上條）
+  - 『[au](../Page/Au_\(携帯電話\).md "wikilink") EZ[着うたフル](../Page/着うたフル.md "wikilink") トピックス』（上條）
   - 『au EZ着うたフル レコメンデーション』（伊原）→現『au EZ着うたフル スペシャルチョイス』
   - 『ACCESS TO A DREAM』
   - 『オサム監督単独ライブへの道』
@@ -154,11 +154,11 @@
   - この番組では、CM中や曲をかけている間に黒田、元井とホワイトボードで、スタジオのガラス越しに会話することができる。
   - 黒田はこの番組では、[元井のあだ名](https://ja.wikipedia.org/wiki/元井美貴 "wikilink")（「モッキー」）をあやかって、「クッキー」というあだ名が付いている。
   - 毎週放送されている番宣スポットには黒田と元井だけでなく、スタッフもよく出演している。特に出演しているスタッフは、この番組の[構成作家](https://ja.wikipedia.org/wiki/構成作家 "wikilink")である。このスポットは内容が本編とまったく関係のないラジオコントで、最後に元井が番組名と放送時間を言うという構成になっている。このスポットをほかの番組のパーソナリティがいじることが多い。また、過去のスポットが番組内でも流れる。
-  - この番組のパーソナリティは、当時番組の冠スポンサーであった[auに対する配慮のためか](https://ja.wikipedia.org/wiki/Au_\(携帯電話\) "wikilink")、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")がスポンサーの[NACK5年末のカウントダウンライブ](../Page/エフエムナックファイブ.md "wikilink")「[様ソニ](https://ja.wikipedia.org/wiki/様ソニ "wikilink")」に出演しなかった。また、番組中は様ソニの話題を極力避けていた。
+  - この番組のパーソナリティは、当時番組の冠スポンサーであった[auに対する配慮のためか](../Page/Au_\(携帯電話\).md "wikilink")、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")がスポンサーの[NACK5年末のカウントダウンライブ](../Page/エフエムナックファイブ.md "wikilink")「[様ソニ](https://ja.wikipedia.org/wiki/様ソニ "wikilink")」に出演しなかった。また、番組中は様ソニの話題を極力避けていた。
   - 2007年3月4日の放送で、100回記念を迎えた。
   - 2007年5月27日の放送では、7時間半スペシャルを行った（途中で特番による中断あり）。
   - 2009年2月15日の放送で、200回記念を迎えた。元井は私物のメイド服を着て番組に臨んだ。
-  - 元井は先々代・先代のパーソナリティが「大物」と結婚したことから（上條は[オリックス・バファローズ](https://ja.wikipedia.org/wiki/オリックス・バファローズ "wikilink")の[小松聖](../Page/小松聖.md "wikilink")、伊原はダウンタウンの[松本人志](../Page/松本人志.md "wikilink")）、黒田に『この番組の女性パーソナリティは結婚運がいいはずなんだけどね』と弄られていた。結局、元井は番組終了時まで未婚であった。
+  - 元井は先々代・先代のパーソナリティが「大物」と結婚したことから（上條は[オリックス・バファローズ](../Page/オリックス・バファローズ.md "wikilink")の[小松聖](../Page/小松聖.md "wikilink")、伊原はダウンタウンの[松本人志](../Page/松本人志.md "wikilink")）、黒田に『この番組の女性パーソナリティは結婚運がいいはずなんだけどね』と弄られていた。結局、元井は番組終了時まで未婚であった。
   - 終了後、当番組メインMCの黒田は同年4月から平日の夕方枠(平日17:00〜19:45(当初は17:00〜20:00だった。)にて『[夕焼けSHUTTLE](https://ja.wikipedia.org/wiki/夕焼けSHUTTLE "wikilink")』のMCが与えられた。
 
 ## 番組内キャラクター

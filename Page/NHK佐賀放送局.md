@@ -1,7 +1,7 @@
 > この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
 
 
-**NHK佐賀放送局**（エヌエイチケイさがほうそうきょく）は、[佐賀県](../Page/佐賀県.md "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](https://ja.wikipedia.org/wiki/日本放送協会放送局の一覧 "wikilink")。テレビとラジオで県域放送を行っている。
+**NHK佐賀放送局**（エヌエイチケイさがほうそうきょく）は、[佐賀県](../Page/佐賀県.md "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。テレビとラジオで県域放送を行っている。
 
 ## 所在地
 
@@ -21,21 +21,21 @@
 
 ## 沿革
 
-  - [1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")（昭和16年）[6月](../Page/6月.md "wikilink") - **[社団法人](https://ja.wikipedia.org/wiki/社団法人 "wikilink")日本放送協会**が受信相談などを担当する「熊本中央放送局佐賀出張所」開設。
+  - [1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")（昭和16年）[6月](../Page/6月.md "wikilink") - **[社団法人](../Page/社団法人.md "wikilink")日本放送協会**が受信相談などを担当する「熊本中央放送局佐賀出張所」開設。
   - 1941年（昭和16年）[12月28日](../Page/12月28日.md "wikilink") - 「佐賀臨時中継放送局」開局、同時にラジオ放送開始（この日を開局の日とする）。
   - [1948年](../Page/1948年.md "wikilink")（昭和23年）[5月](https://ja.wikipedia.org/wiki/5月 "wikilink") - 臨時中継放送局と出張所を統合し、社団法人日本放送協会佐賀放送局昇格発足。
   - [1950年](../Page/1950年.md "wikilink")（昭和25年）[6月1日](../Page/6月1日.md "wikilink")　-　[放送法](../Page/放送法.md "wikilink")施行に伴い社団法人日本放送協会が解散、[特殊法人](../Page/特殊法人.md "wikilink")としての**日本放送協会**が一切の権利義務を継承。
   - [1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")（昭和26年）[6月1日](../Page/6月1日.md "wikilink") - ラジオ第2放送開始（[コールサイン](https://ja.wikipedia.org/wiki/識別信号 "wikilink"):JOSD）。
-  - [1958年](../Page/1958年.md "wikilink")（昭和33年）[2月22日](../Page/2月22日.md "wikilink") - 九州本部（旧熊本中央放送局）テレビ放送開始、[佐賀平野](https://ja.wikipedia.org/wiki/佐賀平野 "wikilink")の大部分で受信可能になる。
+  - [1958年](../Page/1958年.md "wikilink")（昭和33年）[2月22日](../Page/2月22日.md "wikilink") - 九州本部（旧熊本中央放送局）テレビ放送開始、[佐賀平野](../Page/佐賀平野.md "wikilink")の大部分で受信可能になる。
   - [1963年](../Page/1963年.md "wikilink")（昭和38年）- 福岡放送局が唐津に、九州本部が伊万里に、それぞれテレビ中継局設置。
-  - [1965年](../Page/1965年.md "wikilink")（昭和40年）[3月22日](../Page/3月22日.md "wikilink") - [八幡岳の伊万里テレビ中継局にFM実験局開局](https://ja.wikipedia.org/wiki/八幡岳_\(佐賀県\) "wikilink")。
+  - [1965年](../Page/1965年.md "wikilink")（昭和40年）[3月22日](../Page/3月22日.md "wikilink") - [八幡岳の伊万里テレビ中継局にFM実験局開局](../Page/八幡岳_\(佐賀県\).md "wikilink")。
   - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")（昭和43年）[3月17日](../Page/3月17日.md "wikilink") - 県域テレビ放送開始を見据え佐賀放送会館完成\[7\]、伊万里テレビ中継局を使って佐賀県域ローカルニュース放送を開始（佐賀局制作番組の放送はその3年前から熊本局などを使って行われていた）。
   - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")（昭和44年）[3月1日](../Page/3月1日.md "wikilink") - FM本放送全国一斉開始。
-  - 1969年（昭和44年）[3月15日](../Page/3月15日.md "wikilink") - [日の隈山](https://ja.wikipedia.org/wiki/日の隈山 "wikilink")から佐賀県域テレビ本放送を開始\[8\]。同時に、現在の[唐津市](../Page/唐津市.md "wikilink")・[伊万里市](../Page/伊万里市.md "wikilink")・[多久市](../Page/多久市.md "wikilink")・[有田町](../Page/有田町.md "wikilink")にある中継局を移管\[9\]。
+  - 1969年（昭和44年）[3月15日](../Page/3月15日.md "wikilink") - [日の隈山](../Page/日の隈山.md "wikilink")から佐賀県域テレビ本放送を開始\[8\]。同時に、現在の[唐津市](../Page/唐津市.md "wikilink")・[伊万里市](../Page/伊万里市.md "wikilink")・[多久市](../Page/多久市.md "wikilink")・[有田町](../Page/有田町.md "wikilink")にある中継局を移管\[9\]。
   - [1974年](../Page/1974年.md "wikilink")（昭和49年）[3月20日](../Page/3月20日.md "wikilink") - 熊本局出力増力に伴い佐賀ラジオ第2放送廃止\[10\]。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）[10月13日](https://ja.wikipedia.org/wiki/10月13日 "wikilink") - 未明に地上デジタル放送試験放送を実施。
-  - 2006年（平成18年）[12月1日](../Page/12月1日.md "wikilink") - 地上デジタル放送の本放送開始。その際、[日の隈山](https://ja.wikipedia.org/wiki/日の隈山 "wikilink")局と[九千部山](https://ja.wikipedia.org/wiki/九千部山 "wikilink")局との間でテレビ親局と中継局の役割を交換（デジタル）。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")（平成19年）[10月1日](../Page/10月1日.md "wikilink") - 日の隈山のアナログテレビ親局送信所敷地内に、デジタルテレビの神埼中継局が開局。その後、[2011年](../Page/2011年.md "wikilink")（平成23年）[6月20日](../Page/6月20日.md "wikilink")までに佐賀県内のデジタルテレビ中継局が開局。
+  - [2006年](../Page/2006年.md "wikilink")（平成18年）[10月13日](../Page/10月13日.md "wikilink") - 未明に地上デジタル放送試験放送を実施。
+  - 2006年（平成18年）[12月1日](../Page/12月1日.md "wikilink") - 地上デジタル放送の本放送開始。その際、[日の隈山](../Page/日の隈山.md "wikilink")局と[九千部山](../Page/九千部山.md "wikilink")局との間でテレビ親局と中継局の役割を交換（デジタル）。
+  - [2007年](../Page/2007年.md "wikilink")（平成19年）[10月1日](../Page/10月1日.md "wikilink") - 日の隈山のアナログテレビ親局送信所敷地内に、デジタルテレビの神埼中継局が開局。その後、[2011年](../Page/2011年.md "wikilink")（平成23年）[6月20日](../Page/6月20日.md "wikilink")までに佐賀県内のデジタルテレビ中継局が開局。
   - [2011年](../Page/2011年.md "wikilink")（平成23年）[7月24日](../Page/7月24日.md "wikilink") - 正午でアナログ放送終了。その後、翌日（[7月25日](../Page/7月25日.md "wikilink")）午前0時までに完全停波。デジタル放送に完全移行。
 
 ## チャンネルと周波数
@@ -67,17 +67,17 @@
 <!-- end list -->
 
   - デジタルテレビ放送の出力
-      - 佐賀（九千部山）・伊万里（八幡岳） 100W【[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月1日](../Page/12月1日.md "wikilink")開始】
+      - 佐賀（九千部山）・伊万里（八幡岳） 100W【[2006年](../Page/2006年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")開始】
       - 日の隈 20W【2007年10月1日開局】
       - 武雄、有田 1W【2008年2月18日開局】
       - [2011年](../Page/2011年.md "wikilink")（平成23年）6月20日には、本局舎内に城内デジタルテレビ中継局が開局（※5月25日～試験放送（試験電波）を出していた。詳細は、[下記に記述](https://ja.wikipedia.org/wiki/#送信施設概要 "wikilink")）。
       - 日の隈山の神埼デジタルテレビ中継局が視聴（受信）が難しい世帯が多く存在していたため。そのため、本局舎内にデジタルテレビ中継局を開局する運びとなった。ただし、物理チャンネルは親局と同じとなる。
   - アナログ総合テレビ（2011年7月24日運用終了） コールサイン：JOSP-TV
-      - 佐賀（[日の隈山](https://ja.wikipedia.org/wiki/日の隈山 "wikilink")） 38ch 映像出力：5[kW](../Page/ワット.md "wikilink")
-      - [伊万里](https://ja.wikipedia.org/wiki/NHK伊万里大川中継局 "wikilink")（[八幡岳](https://ja.wikipedia.org/wiki/八幡岳_\(佐賀県\) "wikilink")）51ch 映像出力：300W
-      - [唐津](../Page/唐津市.md "wikilink")（[鏡山](https://ja.wikipedia.org/wiki/鏡山_\(佐賀県\) "wikilink")） 50ch 映像出力：10W
-      - [鳥栖](../Page/鳥栖市.md "wikilink")（[九千部山](https://ja.wikipedia.org/wiki/久留米・鳥栖テレビ・FM放送所 "wikilink")） 62ch《[アナアナ変換](https://ja.wikipedia.org/wiki/アナアナ変換 "wikilink")前は26ch》 映像出力：30W
-      - [呼子](https://ja.wikipedia.org/wiki/呼子テレビ中継局 "wikilink")（天童岳） 60ch 映像出力：10W
+      - 佐賀（[日の隈山](../Page/日の隈山.md "wikilink")） 38ch 映像出力：5[kW](../Page/ワット.md "wikilink")
+      - [伊万里](../Page/NHK伊万里大川中継局.md "wikilink")（[八幡岳](../Page/八幡岳_\(佐賀県\).md "wikilink")）51ch 映像出力：300W
+      - [唐津](../Page/唐津市.md "wikilink")（[鏡山](../Page/鏡山_\(佐賀県\).md "wikilink")） 50ch 映像出力：10W
+      - [鳥栖](../Page/鳥栖市.md "wikilink")（[九千部山](../Page/久留米・鳥栖テレビ・FM放送所.md "wikilink")） 62ch《[アナアナ変換](https://ja.wikipedia.org/wiki/アナアナ変換 "wikilink")前は26ch》 映像出力：30W
+      - [呼子](../Page/呼子テレビ中継局.md "wikilink")（天童岳） 60ch 映像出力：10W
   - アナログ教育テレビ（2011年7月24日運用終了） コールサイン：JOSD-TV
       - 佐賀（日の隈山） 40ch 映像出力：5kW
       - 伊万里（八幡岳） 27ch《[アナアナ変換](https://ja.wikipedia.org/wiki/アナアナ変換 "wikilink")前は44ch》 映像出力：300W
@@ -88,30 +88,30 @@
 
   -
     ※伊万里大川中継局は、佐賀県内唯一のVHF中継局（総合8ch・教育12ch）。
-    ※[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）[12月1日](../Page/12月1日.md "wikilink")開始のテレビの地上デジタル放送では、鳥栖アナログ中継局がある[九千部山](https://ja.wikipedia.org/wiki/九千部山 "wikilink")が、佐賀県のテレビの親局となった。NHK福岡の久留米中継局と共建であり、福岡県に親局が設置される形になっていた（stsはNHK鉄塔から200m東側の鳥栖市からの送信）。アナログの親局[日の隈山](https://ja.wikipedia.org/wiki/日の隈山 "wikilink")は、九千部山の麓で電波が届かない地域を補完するための中継局として残った。
+    ※[2006年](../Page/2006年.md "wikilink")（平成18年）[12月1日](../Page/12月1日.md "wikilink")開始のテレビの地上デジタル放送では、鳥栖アナログ中継局がある[九千部山](../Page/九千部山.md "wikilink")が、佐賀県のテレビの親局となった。NHK福岡の久留米中継局と共建であり、福岡県に親局が設置される形になっていた（stsはNHK鉄塔から200m東側の鳥栖市からの送信）。アナログの親局[日の隈山](../Page/日の隈山.md "wikilink")は、九千部山の麓で電波が届かない地域を補完するための中継局として残った。
 
 #### 送信施設概要
 
-| 放送局名                                                               | [物理チャンネル](https://ja.wikipedia.org/wiki/チャンネル_\(テレビ放送\) "wikilink") | [リモコンキーID](../Page/リモコンキーID.md "wikilink") | [呼出名称](https://ja.wikipedia.org/wiki/識別信号#呼出名称 "wikilink") | [空中線電力](https://ja.wikipedia.org/wiki/空中線電力 "wikilink") | [ERP](https://ja.wikipedia.org/wiki/実効放射電力 "wikilink") | [放送対象地域](https://ja.wikipedia.org/wiki/放送#放送対象地域 "wikilink") | [放送区域内世帯数](https://ja.wikipedia.org/wiki/放送#放送区域 "wikilink") |
-| ------------------------------------------------------------------ | ------------------------------------------------------------------- | ------------------------------------------ | ---------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| NHK佐賀[総合テレビ](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink") | 33ch                                                                | 1                                          | NHK城内DG                                                    | 3W                                                      | 31W                                                    | [佐賀県](../Page/佐賀県.md "wikilink")                             | 5万5355世帯                                                     |
-| NHK佐賀[教育テレビ](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink") | 25ch                                                                | 2                                          | NHK城内DE                                                    | 33W                                                     | 佐賀県                                                    |                                                              |                                                              |
+| 放送局名                                            | [物理チャンネル](../Page/チャンネル_\(テレビ放送\).md "wikilink") | [リモコンキーID](../Page/リモコンキーID.md "wikilink") | [呼出名称](https://ja.wikipedia.org/wiki/識別信号#呼出名称 "wikilink") | [空中線電力](../Page/空中線電力.md "wikilink") | [ERP](https://ja.wikipedia.org/wiki/実効放射電力 "wikilink") | [放送対象地域](https://ja.wikipedia.org/wiki/放送#放送対象地域 "wikilink") | [放送区域内世帯数](https://ja.wikipedia.org/wiki/放送#放送区域 "wikilink") |
+| ----------------------------------------------- | ------------------------------------------------ | ------------------------------------------ | ---------------------------------------------------------- | ------------------------------------ | ------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| NHK佐賀[総合テレビ](../Page/NHK総合テレビジョン.md "wikilink") | 33ch                                             | 1                                          | NHK城内DG                                                    | 3W                                   | 31W                                                    | [佐賀県](../Page/佐賀県.md "wikilink")                             | 5万5355世帯                                                     |
+| NHK佐賀[教育テレビ](../Page/NHK教育テレビジョン.md "wikilink") | 25ch                                             | 2                                          | NHK城内DE                                                    | 33W                                  | 佐賀県                                                    |                                                              |                                                              |
 
 ### ラジオ
 
   - ラジオ第1放送 コールサイン：JOSP
-      - 佐賀（[鍋島](https://ja.wikipedia.org/wiki/鍋島ラジオ放送所 "wikilink")） 963[kHz](https://ja.wikipedia.org/wiki/キロヘルツ "wikilink") 出力：1kW
+      - 佐賀（[鍋島](../Page/鍋島ラジオ放送所.md "wikilink")） 963[kHz](https://ja.wikipedia.org/wiki/キロヘルツ "wikilink") 出力：1kW
       - 伊万里（東山代） 531kHz 出力：100W　※1990年代前半までは、1323kHzで送信されていた。
       - 唐津（虹の松原） 1584kHz 出力：100W
       - 福岡（春日） 612kHz（JOLK） 出力：100kW
   - FM放送 コールサイン：JOSP-FM
       - 佐賀（八幡岳） 81.6[MHz](https://ja.wikipedia.org/wiki/メガヘルツ "wikilink") 出力：500W
-      - [肥前有田](../Page/有田町.md "wikilink")（[蓮花石山](https://ja.wikipedia.org/wiki/肥前有田中継局 "wikilink")） 88.9MHz 出力：1W
+      - [肥前有田](../Page/有田町.md "wikilink")（[蓮花石山](../Page/肥前有田中継局.md "wikilink")） 88.9MHz 出力：1W
 
 <!-- end list -->
 
   -
-    ※FM放送に関してはテレビ放送と違って、県西部の[八幡岳に佐賀本局送信所を置いていることから](https://ja.wikipedia.org/wiki/八幡岳_\(佐賀県\) "wikilink")、[佐賀市](https://ja.wikipedia.org/wiki/佐賀市 "wikilink")周辺だけでなく[武雄市](../Page/武雄市.md "wikilink")、[唐津市](../Page/唐津市.md "wikilink")、[伊万里市](../Page/伊万里市.md "wikilink")などの地域でも同じ周波数で聴くことができる。これに反して[鳥栖市](../Page/鳥栖市.md "wikilink")近辺や[鹿島市](../Page/鹿島市.md "wikilink")及び[藤津郡](../Page/藤津郡.md "wikilink")[太良町](https://ja.wikipedia.org/wiki/太良町 "wikilink")の県南部・東部では地形の影響で本局の電波が弱く、テレビと違い中継局の設置もない。
+    ※FM放送に関してはテレビ放送と違って、県西部の[八幡岳に佐賀本局送信所を置いていることから](../Page/八幡岳_\(佐賀県\).md "wikilink")、[佐賀市](https://ja.wikipedia.org/wiki/佐賀市 "wikilink")周辺だけでなく[武雄市](../Page/武雄市.md "wikilink")、[唐津市](../Page/唐津市.md "wikilink")、[伊万里市](../Page/伊万里市.md "wikilink")などの地域でも同じ周波数で聴くことができる。これに反して[鳥栖市](../Page/鳥栖市.md "wikilink")近辺や[鹿島市](../Page/鹿島市.md "wikilink")及び[藤津郡](../Page/藤津郡.md "wikilink")[太良町](../Page/太良町.md "wikilink")の県南部・東部では地形の影響で本局の電波が弱く、テレビと違い中継局の設置もない。
 
 <!-- end list -->
 
@@ -176,25 +176,25 @@
 （キャスター）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/中村泰人" title="wikilink">中村泰人</a>*</p></td>
+<td><p><a href="../Page/中村泰人.md" title="wikilink">中村泰人</a>*</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/NHKグローバルメディアサービス" title="wikilink">G-Media出向</a></p></td>
 <td><p>放送部副部長<br />
 佐賀県のニュース<br />
 各種スポーツ中継</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/井原陽介" title="wikilink">井原陽介</a></p></td>
+<td><p><a href="../Page/井原陽介.md" title="wikilink">井原陽介</a></p></td>
 <td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
 <td><p>佐賀県のニュース</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/竹野大輝" title="wikilink">竹野大輝</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK富山放送局" title="wikilink">富山</a></p></td>
+<td><p><a href="../Page/NHK富山放送局.md" title="wikilink">富山</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/上岡亮" title="wikilink">上岡亮</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK岡山放送局" title="wikilink">岡山</a></p></td>
+<td><p><a href="../Page/上岡亮.md" title="wikilink">上岡亮</a></p></td>
+<td><p><a href="../Page/NHK岡山放送局.md" title="wikilink">岡山</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

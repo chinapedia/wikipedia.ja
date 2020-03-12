@@ -1,19 +1,19 @@
 > この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
 
 
-**NHK熊本放送局**（エヌエイチケイくまもとほうそうきょく）は、[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](https://ja.wikipedia.org/wiki/日本放送協会放送局の一覧 "wikilink")。[テレビ](../Page/テレビ.md "wikilink")と[ラジオ](../Page/ラジオ.md "wikilink")で県域放送を行っている。
+**NHK熊本放送局**（エヌエイチケイくまもとほうそうきょく）は、[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。[テレビ](../Page/テレビ.md "wikilink")と[ラジオ](../Page/ラジオ.md "wikilink")で県域放送を行っている。
 
 ## 概要
 
 九州初の放送局として1928年に開局し、長らく九州沖縄8県を統括する中核としての位置づけがなされていたが、1992年6月5日の組織改正により九州の中核局としての機能が[福岡局に完全集約され](../Page/NHK福岡放送局.md "wikilink")\[1\]、熊本のローカル局として再出発した。以後今日に至るまで、地域に密着した活動を展開している。
 
-ラジオ放送のうち、[第2放送](https://ja.wikipedia.org/wiki/NHKラジオ第2放送 "wikilink")（[呼出符号](https://ja.wikipedia.org/wiki/識別信号 "wikilink")：JOGB、873[kHz](https://ja.wikipedia.org/wiki/キロヘルツ "wikilink")）は、[送信出力](https://ja.wikipedia.org/wiki/空中線電力 "wikilink")500[kWの](../Page/ワット.md "wikilink")**大電力**で県内はもちろん、西日本の広い範囲にわたり送信されている。出力500kWは日本最大級で、ほかに[秋田](../Page/NHK秋田放送局.md "wikilink")、[札幌](../Page/NHK札幌放送局.md "wikilink")、[東京本局のラジオ第](../Page/NHK放送センター.md "wikilink")2放送のみとなっている。
+ラジオ放送のうち、[第2放送](../Page/NHKラジオ第2放送.md "wikilink")（[呼出符号](https://ja.wikipedia.org/wiki/識別信号 "wikilink")：JOGB、873[kHz](https://ja.wikipedia.org/wiki/キロヘルツ "wikilink")）は、[送信出力](../Page/空中線電力.md "wikilink")500[kWの](../Page/ワット.md "wikilink")**大電力**で県内はもちろん、西日本の広い範囲にわたり送信されている。出力500kWは日本最大級で、ほかに[秋田](../Page/NHK秋田放送局.md "wikilink")、[札幌](../Page/NHK札幌放送局.md "wikilink")、[東京本局のラジオ第](../Page/NHK放送センター.md "wikilink")2放送のみとなっている。
 
 ## 沿革
 
 [JOGK_2011.JPG](https://ja.wikipedia.org/wiki/File:JOGK_2011.JPG "fig:JOGK_2011.JPG")
 
-  - [1928年](../Page/1928年.md "wikilink")（昭和3年）[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink") - **[社団法人](https://ja.wikipedia.org/wiki/社団法人 "wikilink")日本放送協会熊本放送局**開局。**九州初の放送局**としてラジオ放送開始。
+  - [1928年](../Page/1928年.md "wikilink")（昭和3年）[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink") - **[社団法人](../Page/社団法人.md "wikilink")日本放送協会熊本放送局**開局。**九州初の放送局**としてラジオ放送開始。
   - [1934年](../Page/1934年.md "wikilink")（昭和9年）5月16日 - **熊本中央放送局**として九州地区の拠点放送局に昇格。
   - [1945年](../Page/1945年.md "wikilink")（昭和20年）9月 - ラジオ第2放送開始。
   - [1950年](../Page/1950年.md "wikilink")（昭和25年）[6月1日](../Page/6月1日.md "wikilink") - [放送法](../Page/放送法.md "wikilink")施行に伴い社団法人日本放送協会が解散、[特殊法人](../Page/特殊法人.md "wikilink")としての**日本放送協会**が一切の権利義務を継承。
@@ -24,8 +24,8 @@
   - [1972年](../Page/1972年.md "wikilink")（昭和47年）[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink") - ラジオ第2放送の送信所を[大津町](../Page/大津町.md "wikilink")に移転。出力を10kWから500kWに増力するとともに、周波数も1560kHzから870kHzに変更する\[3\]。
   - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")（昭和55年）[7月25日](../Page/7月25日.md "wikilink") - 中央放送局制度廃止に伴って、**日本放送協会熊本放送局**に改称。
   - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")（昭和58年）6月 - 総合テレビジョン音声多重放送開始。
-  - [1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")（平成4年）[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink") - NHKの組織改正により、九州地方の統括機能を福岡放送局に全面移管（放送関係業務は前述の通り1957年に移管）\[4\]。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）[11月1日](../Page/11月1日.md "wikilink") - [地上デジタル放送の](../Page/地上デジタルテレビ放送.md "wikilink")[試験放送](https://ja.wikipedia.org/wiki/試験放送 "wikilink")開始。
+  - [1992年](../Page/1992年.md "wikilink")（平成4年）[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink") - NHKの組織改正により、九州地方の統括機能を福岡放送局に全面移管（放送関係業務は前述の通り1957年に移管）\[4\]。
+  - [2006年](../Page/2006年.md "wikilink")（平成18年）[11月1日](../Page/11月1日.md "wikilink") - [地上デジタル放送の](../Page/地上デジタルテレビ放送.md "wikilink")[試験放送](../Page/試験放送.md "wikilink")開始。
   - 2006年（平成18年）[12月1日](../Page/12月1日.md "wikilink") - 地上デジタル放送本放送開始。
   - [2011年](../Page/2011年.md "wikilink")（平成23年）[7月24日](../Page/7月24日.md "wikilink") - アナログ放送終了。
   - [2016年](../Page/2016年.md "wikilink") (平成28年) [11月30日](../Page/11月30日.md "wikilink") - 現放送会館が竣工\[5\]。
@@ -36,16 +36,16 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:NHK-JOGK_JOGB_DTV_Kinbozan_2015.JPG "wikilink")
 
-| 地区区分                                                       | 局名                                                         | デジタル  | アナログ（2011年7月24日で終了） |
-| ---------------------------------------------------------- | ---------------------------------------------------------- | ----- | ------------------- |
-| 総合ch                                                       | 教育ch                                                       | 空中線電力 | 総合ch                |
-| 熊本地方                                                       | [熊本](https://ja.wikipedia.org/wiki/金峰山_\(熊本県\) "wikilink") | 28    | 24                  |
-| [八代](https://ja.wikipedia.org/wiki/NHK八代テレビ中継局 "wikilink") | （原則熊本局でカバー）                                                | 61    | 58                  |
-| 阿蘇地方                                                       | 阿蘇                                                         | 28    | 24                  |
-| 天草地方                                                       | 天草牛深                                                       | 20    | 13                  |
-| 天草本渡                                                       | 29                                                         | 23    | 300mW               |
-| 葦北地方                                                       | 水俣                                                         | 20    | 25                  |
-| 球磨地方                                                       | 人吉                                                         | 17    | 25                  |
+| 地区区分                                                       | 局名                                      | デジタル  | アナログ（2011年7月24日で終了） |
+| ---------------------------------------------------------- | --------------------------------------- | ----- | ------------------- |
+| 総合ch                                                       | 教育ch                                    | 空中線電力 | 総合ch                |
+| 熊本地方                                                       | [熊本](../Page/金峰山_\(熊本県\).md "wikilink") | 28    | 24                  |
+| [八代](https://ja.wikipedia.org/wiki/NHK八代テレビ中継局 "wikilink") | （原則熊本局でカバー）                             | 61    | 58                  |
+| 阿蘇地方                                                       | 阿蘇                                      | 28    | 24                  |
+| 天草地方                                                       | 天草牛深                                    | 20    | 13                  |
+| 天草本渡                                                       | 29                                      | 23    | 300mW               |
+| 葦北地方                                                       | 水俣                                      | 20    | 25                  |
+| 球磨地方                                                       | 人吉                                      | 17    | 25                  |
 
 親局たる熊本局の廃止されたアナログ放送で、総合と教育の出力が異なっていたことは全国的にも珍しく、教育の方が小さかった。1979年までは、[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")（KBC）北九州局の方が域内他局よりも出力を半分に抑えられており、当時は南区高宮本社から直接電波を出していた[テレビ西日本](../Page/テレビ西日本.md "wikilink")（TNC）福岡親局についても、NHK熊本アナログ総合への影響を抑止するため同様に出力を抑えられていた\[8\]。
 
@@ -122,25 +122,25 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/石井隆広" title="wikilink">石井隆広</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK福井放送局" title="wikilink">福井</a></p></td>
+<td><p><a href="../Page/NHK福井放送局.md" title="wikilink">福井</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/クマロク!" title="wikilink">クマロク!</a>（キャスター）</p></td>
 <td><p>熊本県出身</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/池田達郎" title="wikilink">池田達郎</a>*</p></td>
+<td><p><a href="../Page/池田達郎.md" title="wikilink">池田達郎</a>*</p></td>
 <td><p><a href="../Page/NHK名古屋放送局.md" title="wikilink">名古屋</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/上野速人" title="wikilink">上野速人</a>*</p></td>
+<td><p><a href="../Page/上野速人.md" title="wikilink">上野速人</a>*</p></td>
 <td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
 <td><p>熊本県のニュース<br />
 スポーツ中継など</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/西東大" title="wikilink">西東大</a></p></td>
+<td><p><a href="../Page/西東大.md" title="wikilink">西東大</a></p></td>
 <td><p>熊本県のニュース<br />
 放送部副部長</p></td>
 <td></td>
@@ -166,7 +166,7 @@
 </tr>
 <tr class="odd">
 <td><p>金子紗也</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK山口放送局" title="wikilink">山口</a></p></td>
+<td><p><a href="../Page/NHK山口放送局.md" title="wikilink">山口</a></p></td>
 <td><p>クマロク!（キャスター）</p></td>
 <td><p>熊本県出身</p></td>
 </tr>
@@ -184,7 +184,7 @@
 </tr>
 <tr class="even">
 <td><p>野方美郷</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK佐賀放送局" title="wikilink">佐賀</a></p></td>
+<td><p><a href="../Page/NHK佐賀放送局.md" title="wikilink">佐賀</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/テレメッセくまもと" title="wikilink">テレメッセくまもと</a>（キャスター）</p></td>
 <td></td>
 </tr>
@@ -218,7 +218,7 @@
 
 ## 楽曲
 
-  - 「おもいで宝箱」（[島津亜矢](https://ja.wikipedia.org/wiki/島津亜矢 "wikilink")） - NHK熊本放送局・開局75周年記念楽曲
+  - 「おもいで宝箱」（[島津亜矢](../Page/島津亜矢.md "wikilink")） - NHK熊本放送局・開局75周年記念楽曲
 
 ## 脚注
 

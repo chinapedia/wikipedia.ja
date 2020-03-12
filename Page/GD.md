@@ -13,9 +13,9 @@
 
   - [日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")（GD賞）
 
-  - [GD Graphics Library](https://ja.wikipedia.org/wiki/GD_Graphics_Library "wikilink") -[オープンソース](../Page/オープンソース.md "wikilink")のグラフィックスライブラリ
+  - [GD Graphics Library](../Page/GD_Graphics_Library.md "wikilink") -[オープンソース](../Page/オープンソース.md "wikilink")のグラフィックスライブラリ
 
-  - [ジェネラル・ダイナミクス](https://ja.wikipedia.org/wiki/ジェネラル・ダイナミクス "wikilink") () - アメリカの機械メーカー
+  - [ジェネラル・ダイナミクス](../Page/ジェネラル・ダイナミクス.md "wikilink") () - アメリカの機械メーカー
 
   - [日野・セレガGD](https://ja.wikipedia.org/wiki/日野・セレガ#U-RU1H/1F/2F/3F系 "wikilink")
 
@@ -23,11 +23,11 @@
 
   - [グリシドール](https://ja.wikipedia.org/wiki/グリシドール "wikilink") ()
 
-  - [ソマン](https://ja.wikipedia.org/wiki/ソマン "wikilink")のNATOコード。コードは[G剤](https://ja.wikipedia.org/wiki/G剤 "wikilink")としての通し符合。
+  - [ソマン](../Page/ソマン.md "wikilink")のNATOコード。コードは[G剤](../Page/G剤.md "wikilink")としての通し符合。
 
-  - [妊娠糖尿病](https://ja.wikipedia.org/wiki/妊娠糖尿病 "wikilink") ()
+  - [妊娠糖尿病](../Page/妊娠糖尿病.md "wikilink") ()
 
-  - [ゴーシェ病](https://ja.wikipedia.org/wiki/ゴーシェ病 "wikilink") ()
+  - [ゴーシェ病](../Page/ゴーシェ病.md "wikilink") ()
 
   - \- [サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")などの得失点差
 
@@ -44,5 +44,5 @@
 ## gd
 
   - [.gd](https://ja.wikipedia.org/wiki/.gd "wikilink") - グレナダの[国名コードトップレベルドメイン](https://ja.wikipedia.org/wiki/国名コードトップレベルドメイン "wikilink")
-  - [スコットランド・ゲール語](https://ja.wikipedia.org/wiki/スコットランド・ゲール語 "wikilink") () の[ISO 639-1言語コード](https://ja.wikipedia.org/wiki/ISO_639 "wikilink")
+  - [スコットランド・ゲール語](../Page/スコットランド・ゲール語.md "wikilink") () の[ISO 639-1言語コード](../Page/ISO_639.md "wikilink")
   - [グーデルマン関数](https://ja.wikipedia.org/wiki/グーデルマン関数 "wikilink") ()

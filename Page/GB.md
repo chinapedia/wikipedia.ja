@@ -8,22 +8,22 @@
       - [GB 2312](../Page/GB_2312.md "wikilink") - [文字コード](../Page/文字コード.md "wikilink")
   - [GB積](https://ja.wikipedia.org/wiki/GB積 "wikilink") (gain band width product)
   - [グリーンバック](https://ja.wikipedia.org/wiki/紙幣#その他 "wikilink") (greenback) - アメリカのかつての紙幣
-  - グリーンバック (green back) - [クロマキー](https://ja.wikipedia.org/wiki/クロマキー "wikilink")合成に用いられる緑色の背景。[ブルーバック](https://ja.wikipedia.org/wiki/ブルーバック "wikilink")を参照のこと。
+  - グリーンバック (green back) - [クロマキー](../Page/クロマキー.md "wikilink")合成に用いられる緑色の背景。[ブルーバック](../Page/ブルーバック.md "wikilink")を参照のこと。
   - [グレートブリテン島](../Page/グレートブリテン島.md "wikilink") (Great Britain)
-      - [イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")（グレートブリテンおよび北アイルランド連合王国）の[ISO 3166-1](../Page/ISO_3166-1.md "wikilink")[国名コード](../Page/国名コード.md "wikilink")および[自動車の国際識別記号](https://ja.wikipedia.org/wiki/国際識別記号 "wikilink")
-  - [グリーンベイ・パッカーズ](https://ja.wikipedia.org/wiki/グリーンベイ・パッカーズ "wikilink") (Green Bay Packers) - [NFL](../Page/NFL.md "wikilink")のチーム
+      - [イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")（グレートブリテンおよび北アイルランド連合王国）の[ISO 3166-1](../Page/ISO_3166-1.md "wikilink")[国名コード](../Page/国名コード.md "wikilink")および[自動車の国際識別記号](../Page/国際識別記号.md "wikilink")
+  - [グリーンベイ・パッカーズ](../Page/グリーンベイ・パッカーズ.md "wikilink") (Green Bay Packers) - [NFL](../Page/NFL.md "wikilink")のチーム
   - [NHK熊本放送局](../Page/NHK熊本放送局.md "wikilink")ラジオ第二放送、教育テレビ (JOGB, JOGB-DTV)
   - [群馬銀行](../Page/群馬銀行.md "wikilink") (Gunma Bank)
-  - [群馬バス](https://ja.wikipedia.org/wiki/群馬バス "wikilink") (Gunma Bus)
+  - [群馬バス](../Page/群馬バス.md "wikilink") (Gunma Bus)
   - [GB (バンド)](https://ja.wikipedia.org/wiki/GB_\(バンド\) "wikilink")（Geinin Bandが語源） - 日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")。[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")所属のお笑い芸人4人からなる。
   - [ゲームボーイ](../Page/ゲームボーイ.md "wikilink") (Game Boy) - [任天堂](../Page/任天堂.md "wikilink")の[携帯ゲーム機](../Page/携帯型ゲーム.md "wikilink")。
-  - [ホンダ・GB](https://ja.wikipedia.org/wiki/ホンダ・GB "wikilink") - [本田技研工業](https://ja.wikipedia.org/wiki/本田技研工業 "wikilink")の[オートバイ](../Page/オートバイ.md "wikilink")「GB500TT」「GB400TT」「[GB250クラブマン](https://ja.wikipedia.org/wiki/ホンダ・GB250クラブマン "wikilink")」のシリーズ車種。
+  - [ホンダ・GB](https://ja.wikipedia.org/wiki/ホンダ・GB "wikilink") - [本田技研工業](../Page/本田技研工業.md "wikilink")の[オートバイ](../Page/オートバイ.md "wikilink")「GB500TT」「GB400TT」「[GB250クラブマン](https://ja.wikipedia.org/wiki/ホンダ・GB250クラブマン "wikilink")」のシリーズ車種。
   - [ギャツビー](https://ja.wikipedia.org/wiki/ギャツビー "wikilink") (Gatsby) - [小説](../Page/小説.md "wikilink")のシリーズ、およびその主人公
   - [ゲットバッカーズ](https://ja.wikipedia.org/wiki/ゲットバッカーズ "wikilink") - 漫画およびそれに登場する2人の主人公のコンビ名の略称。
-  - GB-1/2 - ビーチクラフトが製作したアメリカ海軍の単発輸送機[ビーチクラフト スタッガーウィング](https://ja.wikipedia.org/wiki/ビーチクラフト_スタッガーウィング "wikilink")。
-  - [海軍総隊](https://ja.wikipedia.org/wiki/海軍総隊 "wikilink")\[1\]
-  - [神経性毒ガスである](https://ja.wikipedia.org/wiki/神経ガス "wikilink")[サリン](../Page/サリン.md "wikilink")という意味。
-  - [ステアー GB](https://ja.wikipedia.org/wiki/ステアー_GB "wikilink") - かつて[シュタイヤー・マンリヒャー](https://ja.wikipedia.org/wiki/シュタイヤー・マンリヒャー "wikilink")が製造していた[拳銃](../Page/拳銃.md "wikilink")。
+  - GB-1/2 - ビーチクラフトが製作したアメリカ海軍の単発輸送機[ビーチクラフト スタッガーウィング](../Page/ビーチクラフト_スタッガーウィング.md "wikilink")。
+  - [海軍総隊](../Page/海軍総隊.md "wikilink")\[1\]
+  - [神経性毒ガスである](../Page/神経ガス.md "wikilink")[サリン](../Page/サリン.md "wikilink")という意味。
+  - [ステアー GB](https://ja.wikipedia.org/wiki/ステアー_GB "wikilink") - かつて[シュタイヤー・マンリヒャー](../Page/シュタイヤー・マンリヒャー.md "wikilink")が製造していた[拳銃](../Page/拳銃.md "wikilink")。
 
 **Gb**
 
@@ -33,7 +33,7 @@
 
 **gb**
 
-  - [.gb](https://ja.wikipedia.org/wiki/.gb "wikilink") - イギリスの[国別ドメイン](https://ja.wikipedia.org/wiki/国別ドメイン "wikilink")の1つ（ほとんど使用されていない）
+  - [.gb](../Page/.gb.md "wikilink") - イギリスの[国別ドメイン](https://ja.wikipedia.org/wiki/国別ドメイン "wikilink")の1つ（ほとんど使用されていない）
 
 ## 出典
 

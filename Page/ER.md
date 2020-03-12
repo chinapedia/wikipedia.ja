@@ -5,7 +5,7 @@
 
 ## ER
 
-  - [救急救命室](https://ja.wikipedia.org/wiki/救急救命室 "wikilink") ()
+  - [救急救命室](../Page/救急救命室.md "wikilink") ()
 
       - [ER緊急救命室](../Page/ER緊急救命室.md "wikilink") - アメリカNBCの[テレビドラマ](../Page/テレビドラマ.md "wikilink")
 
@@ -13,15 +13,15 @@
 
   - [エルフレ形式](https://ja.wikipedia.org/wiki/エルフレ形式 "wikilink") () - [アイピース](https://ja.wikipedia.org/wiki/アイピース "wikilink")の種類
 
-  - [エリクソン](https://ja.wikipedia.org/wiki/エリクソン "wikilink") () 製携帯電話を表す符丁。かつて[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")向けに使用
+  - [エリクソン](../Page/エリクソン.md "wikilink") () 製携帯電話を表す符丁。かつて[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")向けに使用
 
   - [中国放送](../Page/中国放送.md "wikilink")の[コールサイン](https://ja.wikipedia.org/wiki/コールサイン "wikilink") (JOER/-DTV)
 
   - \- 航空機の航続距離延長型。[ボーイング](../Page/ボーイング.md "wikilink")の旅客機、[スタンダードミサイル](../Page/スタンダードミサイル.md "wikilink")などにある。
 
-  - [エレクトリックレールウェイ](https://ja.wikipedia.org/wiki/ディズニーシー・エレクトリックレールウェイ "wikilink") () - [東京ディズニーシー](https://ja.wikipedia.org/wiki/東京ディズニーシー "wikilink")のアトラクション
+  - [エレクトリックレールウェイ](../Page/ディズニーシー・エレクトリックレールウェイ.md "wikilink") () - [東京ディズニーシー](../Page/東京ディズニーシー.md "wikilink")のアトラクション
 
-  - [小胞体](https://ja.wikipedia.org/wiki/小胞体 "wikilink") ()
+  - [小胞体](../Page/小胞体.md "wikilink") ()
 
   - [進化ロボット工学](https://ja.wikipedia.org/wiki/進化ロボット工学 "wikilink") ()
 
@@ -31,9 +31,9 @@
 
   - [ER端末](https://ja.wikipedia.org/wiki/もしもし券売機Kaeruくん "wikilink") - [JR東日本の券売機](../Page/東日本旅客鉄道.md "wikilink")
 
-  - [統一ロシア](https://ja.wikipedia.org/wiki/統一ロシア "wikilink") () - ロシアの政党
+  - [統一ロシア](../Page/統一ロシア.md "wikilink") () - ロシアの政党
 
-  - [実体関連](https://ja.wikipedia.org/wiki/実体関連モデル "wikilink") () - ERモデル、ER図など。
+  - [実体関連](../Page/実体関連モデル.md "wikilink") () - ERモデル、ER図など。
 
   - [労作性横紋筋融解症](https://ja.wikipedia.org/wiki/労作性横紋筋融解症 "wikilink") () - 馬の病気
 
@@ -50,15 +50,15 @@
 ## Er
 
   - [エルビウム](../Page/エルビウム.md "wikilink") () の[元素記号](../Page/元素記号.md "wikilink")
-  - [エルモラーエフ設計局](https://ja.wikipedia.org/wiki/V・G・エルモラーエフ記念試作設計局 "wikilink") () - [ソ連の](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[航空機](../Page/航空機.md "wikilink")メーカー。
+  - [エルモラーエフ設計局](../Page/V・G・エルモラーエフ記念試作設計局.md "wikilink") () - [ソ連の](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[航空機](../Page/航空機.md "wikilink")メーカー。
   - [Р](https://ja.wikipedia.org/wiki/Р "wikilink") - キリル文字
 
 ## er
 
   - [.er](https://ja.wikipedia.org/wiki/.er "wikilink") - エリトリアの[国別ドメイン](https://ja.wikipedia.org/wiki/国別ドメイン "wikilink")
-  - [-er](https://ja.wikipedia.org/wiki/wikt:-er "wikilink") - [英語](../Page/英語.md "wikilink")・[ドイツ語](../Page/ドイツ語.md "wikilink")などで[動作主名詞](https://ja.wikipedia.org/wiki/動作主名詞 "wikilink")（～する人・物）・[比較級](https://ja.wikipedia.org/wiki/比較級 "wikilink")（より～）などの[接尾辞](https://ja.wikipedia.org/wiki/接尾辞 "wikilink")。
-      - これより派生した動作主名詞の意味を持つ日本語の[スラング](../Page/スラング.md "wikilink")。例：[アムラー](https://ja.wikipedia.org/wiki/アムラー "wikilink")([安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")または[アムロ・レイ](https://ja.wikipedia.org/wiki/アムロ・レイ "wikilink")＋er)
+  - [-er](https://ja.wikipedia.org/wiki/wikt:-er "wikilink") - [英語](../Page/英語.md "wikilink")・[ドイツ語](../Page/ドイツ語.md "wikilink")などで[動作主名詞](https://ja.wikipedia.org/wiki/動作主名詞 "wikilink")（～する人・物）・[比較級](https://ja.wikipedia.org/wiki/比較級 "wikilink")（より～）などの[接尾辞](../Page/接尾辞.md "wikilink")。
+      - これより派生した動作主名詞の意味を持つ日本語の[スラング](../Page/スラング.md "wikilink")。例：[アムラー](../Page/アムラー.md "wikilink")([安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")または[アムロ・レイ](../Page/アムロ・レイ.md "wikilink")＋er)
           - さらにここから派生した日本語のスラングとして、「グループ・バンド・人名の一部または全部+er」でグループ・バンド・人の熱狂的なファンという意味を表すようになった。 例：**eighter**（エイター、[関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")の熱狂的なファン）、**wimper**（ウィンパー、[RADWIMPS](https://ja.wikipedia.org/wiki/RADWIMPS "wikilink")の熱狂的なファン）
-  - [ドイツ語](../Page/ドイツ語.md "wikilink")の[三人称](https://ja.wikipedia.org/wiki/三人称 "wikilink")[単数](https://ja.wikipedia.org/wiki/数_\(文法\) "wikilink")[一格（主格）](https://ja.wikipedia.org/wiki/主格 "wikilink")[代名詞](../Page/代名詞.md "wikilink")。「彼は」。[erも参照](https://ja.wikipedia.org/wiki/wikt:er "wikilink")。
+  - [ドイツ語](../Page/ドイツ語.md "wikilink")の[三人称](../Page/三人称.md "wikilink")[単数](../Page/数_\(文法\).md "wikilink")[一格（主格）](../Page/主格.md "wikilink")[代名詞](../Page/代名詞.md "wikilink")。「彼は」。[erも参照](https://ja.wikipedia.org/wiki/wikt:er "wikilink")。
   - [フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")における「第1」の[序数標識](https://ja.wikipedia.org/wiki/序数標識 "wikilink")。1 = 。
   - [中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")の接尾辞「ㄦ」。[児化](https://ja.wikipedia.org/wiki/児化 "wikilink")を参照。

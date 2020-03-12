@@ -1,11 +1,11 @@
 > この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
 
 
-**NHK横浜放送局**（エヌエイチケイよこはまほうそうきょく）は、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](https://ja.wikipedia.org/wiki/日本放送協会放送局の一覧 "wikilink")。神奈川県内向けに[FM放送](https://ja.wikipedia.org/wiki/FM放送 "wikilink")を行っており、ほかのAM放送・地上テレビ放送は全て[関東](https://ja.wikipedia.org/wiki/関東地方 "wikilink")[広域圏扱いとして](../Page/広域放送.md "wikilink")[東京本局からカバー](../Page/NHK放送センター.md "wikilink")・中継されている。
+**NHK横浜放送局**（エヌエイチケイよこはまほうそうきょく）は、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。神奈川県内向けに[FM放送](https://ja.wikipedia.org/wiki/FM放送 "wikilink")を行っており、ほかのAM放送・地上テレビ放送は全て[関東](https://ja.wikipedia.org/wiki/関東地方 "wikilink")[広域圏扱いとして](../Page/広域放送.md "wikilink")[東京本局からカバー](../Page/NHK放送センター.md "wikilink")・中継されている。
 
 ## 概要
 
-放送局は[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](https://ja.wikipedia.org/wiki/横浜市 "wikilink")[中区にあるが](../Page/中区_\(横浜市\).md "wikilink")、[1963年](../Page/1963年.md "wikilink")（昭和38年）から使ってきた局舎が狭隘で老朽化したこともあり、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）[11月27日](../Page/11月27日.md "wikilink")に同区内の[山下町に](https://ja.wikipedia.org/wiki/山下町_\(横浜市\) "wikilink")、[神奈川芸術劇場](https://ja.wikipedia.org/wiki/神奈川芸術劇場 "wikilink")との共同建築という形で移転した。なお、旧横浜放送会館は積水ハウスに売却された\[1\]。
+放送局は[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")[中区にあるが](../Page/中区_\(横浜市\).md "wikilink")、[1963年](../Page/1963年.md "wikilink")（昭和38年）から使ってきた局舎が狭隘で老朽化したこともあり、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）[11月27日](../Page/11月27日.md "wikilink")に同区内の[山下町に](../Page/山下町_\(横浜市\).md "wikilink")、[神奈川芸術劇場](https://ja.wikipedia.org/wiki/神奈川芸術劇場 "wikilink")との共同建築という形で移転した。なお、旧横浜放送会館は積水ハウスに売却された\[1\]。
 
 ## 沿革
 
@@ -16,7 +16,7 @@
   - [1950年](../Page/1950年.md "wikilink")（昭和25年）6月1日 - [放送法](../Page/放送法.md "wikilink")施行に伴い社団法人日本放送協会が解散。[特殊法人](../Page/特殊法人.md "wikilink")としての日本放送協会が設立され、特殊法人日本放送協会横浜支局となる。
   - [1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")（昭和26年）[7月1日](../Page/7月1日.md "wikilink") - 横浜放送局に改称。
   - [1963年](../Page/1963年.md "wikilink")（昭和38年） - 横浜市中区本町1-4に移転。
-  - [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")（昭和45年）[6月22日](../Page/6月22日.md "wikilink") - 県域FM放送開始。
+  - [1970年](../Page/1970年.md "wikilink")（昭和45年）[6月22日](../Page/6月22日.md "wikilink") - 県域FM放送開始。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）[11月27日](../Page/11月27日.md "wikilink") - 放送会館を山下町（[かながわドームシアター](https://ja.wikipedia.org/wiki/かながわドームシアター "wikilink")跡、[神奈川芸術劇場](https://ja.wikipedia.org/wiki/神奈川芸術劇場 "wikilink")との合同）に新築移転（営業部は先行して22日に移転）。
 
 <!-- end list -->
@@ -38,7 +38,7 @@
 
   - 支局
       - [横須賀](../Page/横須賀市.md "wikilink")
-      - [厚木](https://ja.wikipedia.org/wiki/厚木市 "wikilink")
+      - [厚木](../Page/厚木市.md "wikilink")
   - 記者室
       - [川崎](../Page/川崎市.md "wikilink")
   - 営業センター
@@ -60,11 +60,11 @@
   - [桜木町駅](https://ja.wikipedia.org/wiki/桜木町駅 "wikilink")
   - [横須賀市](../Page/横須賀市.md "wikilink")
   - [江ノ島](https://ja.wikipedia.org/wiki/江ノ島 "wikilink")（HD対応）
-  - [川崎市](../Page/川崎市.md "wikilink")[川崎区](../Page/川崎区.md "wikilink")（[川崎マリエン](https://ja.wikipedia.org/wiki/川崎マリエン "wikilink")、HD対応）
-  - 川崎市[高津区](../Page/高津区.md "wikilink")（新二子橋付近の[多摩川](https://ja.wikipedia.org/wiki/多摩川 "wikilink")が映される。テロップでは「多摩川」と表示）
+  - [川崎市](../Page/川崎市.md "wikilink")[川崎区](../Page/川崎区.md "wikilink")（[川崎マリエン](../Page/川崎マリエン.md "wikilink")、HD対応）
+  - 川崎市[高津区](../Page/高津区.md "wikilink")（新二子橋付近の[多摩川](../Page/多摩川.md "wikilink")が映される。テロップでは「多摩川」と表示）
   - [小田原市](../Page/小田原市.md "wikilink")
   - [大和市](../Page/大和市.md "wikilink")（[相模大塚駅](https://ja.wikipedia.org/wiki/相模大塚駅 "wikilink")付近。[東名高速道路](../Page/東名高速道路.md "wikilink")が映される）
-  - [松田町](https://ja.wikipedia.org/wiki/松田町 "wikilink")（東名高速道路が映される）
+  - [松田町](../Page/松田町.md "wikilink")（東名高速道路が映される）
   - [芦ノ湖](../Page/芦ノ湖.md "wikilink")（[箱根町](../Page/箱根町.md "wikilink")、晴れた日には富士山が見られる）
 
 ## 放送局の周波数一覧
@@ -73,16 +73,16 @@
 
   - [コールサイン](https://ja.wikipedia.org/wiki/識別信号 "wikilink")：**JOGP-FM**
 
-| 局名                                                       | 周波数     | 空中線電力 | 偏波面 | 送信場所                                                                                                            |
-| -------------------------------------------------------- | ------- | ----- | --- | --------------------------------------------------------------------------------------------------------------- |
-| 横浜                                                       | 81.9MHz | 5kW   | 水平  | 横浜市[磯子区](https://ja.wikipedia.org/wiki/磯子区 "wikilink")氷取沢町（[円海山](https://ja.wikipedia.org/wiki/円海山 "wikilink")） |
-| [小田原](https://ja.wikipedia.org/wiki/小田原FM中継局 "wikilink") | 83.5MHz | 100W  | 水平  | [小田原市](../Page/小田原市.md "wikilink")曽我谷津字風越（浅間山）                                                                  |
+| 局名                                                       | 周波数     | 空中線電力 | 偏波面 | 送信場所                                                                                         |
+| -------------------------------------------------------- | ------- | ----- | --- | -------------------------------------------------------------------------------------------- |
+| 横浜                                                       | 81.9MHz | 5kW   | 水平  | 横浜市[磯子区](https://ja.wikipedia.org/wiki/磯子区 "wikilink")氷取沢町（[円海山](../Page/円海山.md "wikilink")） |
+| [小田原](https://ja.wikipedia.org/wiki/小田原FM中継局 "wikilink") | 83.5MHz | 100W  | 水平  | [小田原市](../Page/小田原市.md "wikilink")曽我谷津字風越（浅間山）                                               |
 
 ### テレビ中継局
 
 横浜局の管理下にある神奈川県内の送信所に限る。
 
-県東部の大半の地域は[東京スカイツリー](https://ja.wikipedia.org/wiki/東京スカイツリー "wikilink")（※2013年5月31日午前8時59分までは[東京タワー](https://ja.wikipedia.org/wiki/東京タワー "wikilink")からの送信だった）の放送エリアのめやすである\[2\]。
+県東部の大半の地域は[東京スカイツリー](../Page/東京スカイツリー.md "wikilink")（※2013年5月31日午前8時59分までは[東京タワー](https://ja.wikipedia.org/wiki/東京タワー "wikilink")からの送信だった）の放送エリアのめやすである\[2\]。
 
 #### デジタル
 
@@ -248,7 +248,7 @@
 <td><p>垂直</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/大船中継局" title="wikilink">大船</a></p></td>
+<td><p><a href="../Page/大船中継局.md" title="wikilink">大船</a></p></td>
 <td><p>36</p></td>
 <td><p>34</p></td>
 <td><p>10W</p></td>
@@ -333,21 +333,21 @@
 <td><p>垂直</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/平塚テレビ中継局" title="wikilink">平塚</a></p></td>
+<td><p><a href="../Page/平塚テレビ中継局.md" title="wikilink">平塚</a></p></td>
 <td><p>33</p></td>
 <td><p>29</p></td>
 <td><p>300W</p></td>
 <td><p>垂直</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/厚木飯山テレビ中継放送所" title="wikilink">厚木飯山</a></p></td>
+<td><p><a href="../Page/厚木飯山テレビ中継放送所.md" title="wikilink">厚木飯山</a></p></td>
 <td><p>49</p></td>
 <td><p>47</p></td>
 <td><p>1W</p></td>
 <td><p>水平</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/秦野テレビ中継局" title="wikilink">秦野</a></p></td>
+<td><p><a href="../Page/秦野テレビ中継局.md" title="wikilink">秦野</a></p></td>
 <td><p>47</p></td>
 <td><p>49</p></td>
 <td><p>10W</p></td>
@@ -368,14 +368,14 @@
 <td><p>水平</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/小竹北田テレビ中継放送所" title="wikilink">小竹北田</a></p></td>
+<td><p><a href="../Page/小竹北田テレビ中継放送所.md" title="wikilink">小竹北田</a></p></td>
 <td><p>36</p></td>
 <td><p>34</p></td>
 <td><p>0.5W</p></td>
 <td><p>垂直</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/小田原テレビ中継局" title="wikilink">小田原</a></p></td>
+<td><p><a href="../Page/小田原テレビ中継局.md" title="wikilink">小田原</a></p></td>
 <td><p>52</p></td>
 <td><p>50</p></td>
 <td><p>100W</p></td>
@@ -403,7 +403,7 @@
 <td><p>垂直</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/南足柄テレビ中継局" title="wikilink">南足柄</a></p></td>
+<td><p><a href="../Page/南足柄テレビ中継局.md" title="wikilink">南足柄</a></p></td>
 <td><p>51</p></td>
 <td><p>49</p></td>
 <td><p>10W</p></td>
@@ -417,7 +417,7 @@
 <td><p>水平</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/湯ノ沢テレビ中継局" title="wikilink">湯ノ沢</a></p></td>
+<td><p><a href="../Page/湯ノ沢テレビ中継局.md" title="wikilink">湯ノ沢</a></p></td>
 <td><p>36</p></td>
 <td><p>34</p></td>
 <td><p>0.1W</p></td>
@@ -438,7 +438,7 @@
 <td><p>垂直</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/愛川中継局" title="wikilink">愛川</a></p></td>
+<td><p><a href="../Page/愛川中継局.md" title="wikilink">愛川</a></p></td>
 <td><p>37</p></td>
 <td><p>35</p></td>
 <td><p>10W</p></td>
@@ -459,12 +459,12 @@
     <!-- end list -->
       -
         ※金曜は「サウンドクルーズ」の枠内に内包。
-  - その他に随時神奈川県勢が絡むスポーツチームの中継（[全国高校選手権神奈川県大会](https://ja.wikipedia.org/wiki/全国高等学校野球選手権神奈川大会 "wikilink")、[プロ野球](../Page/日本プロ野球.md "wikilink")[横浜DeNAベイスターズ](../Page/横浜DeNAベイスターズ.md "wikilink")公式戦、[Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink")・[JFL所属神奈川勢の試合など](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")）を放送する場合がある。
+  - その他に随時神奈川県勢が絡むスポーツチームの中継（[全国高校選手権神奈川県大会](../Page/全国高等学校野球選手権神奈川大会.md "wikilink")、[プロ野球](../Page/日本プロ野球.md "wikilink")[横浜DeNAベイスターズ](../Page/横浜DeNAベイスターズ.md "wikilink")公式戦、[Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink")・[JFL所属神奈川勢の試合など](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")）を放送する場合がある。
 
 ### 制作参加
 
   - [ひるまえ ほっと](https://ja.wikipedia.org/wiki/ひるまえ_ほっと "wikilink")（総合テレビ、火曜日担当）
-  - [首都圏ネットワーク](https://ja.wikipedia.org/wiki/首都圏ネットワーク "wikilink")（総合テレビ）
+  - [首都圏ネットワーク](../Page/首都圏ネットワーク.md "wikilink")（総合テレビ）
 
 ### 過去の主な制作番組
 
@@ -472,7 +472,7 @@
 
   - [ヨコハマFMリクエスト](https://ja.wikipedia.org/wiki/FMリクエストアワー "wikilink")
   - よこはまサウンド♪シャトル
-  - [よこはまポートスタジオ](https://ja.wikipedia.org/wiki/よこはまポートスタジオ "wikilink")
+  - [よこはまポートスタジオ](../Page/よこはまポートスタジオ.md "wikilink")
 
 ## アナウンサー・キャスター
 
@@ -493,15 +493,15 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/後藤理" title="wikilink">後藤理</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK山口放送局" title="wikilink">山口</a></p></td>
+<td><p><a href="../Page/後藤理.md" title="wikilink">後藤理</a></p></td>
+<td><p><a href="../Page/NHK山口放送局.md" title="wikilink">山口</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/FMサウンドクルーズ" title="wikilink">はま☆キラ!</a><br />
 <a href="https://ja.wikipedia.org/wiki/ひるまえほっと" title="wikilink">ひるまえほっと</a><br />
-<a href="https://ja.wikipedia.org/wiki/首都圏ネットワーク" title="wikilink">首都圏ネットワーク</a>（神奈川県のリポート・不定期）</p></td>
+<a href="../Page/首都圏ネットワーク.md" title="wikilink">首都圏ネットワーク</a>（神奈川県のリポート・不定期）</p></td>
 <td><p><a href="../Page/海老名市.md" title="wikilink">海老名市</a>出身</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/関口健" title="wikilink">関口健</a></p></td>
+<td><p><a href="../Page/関口健.md" title="wikilink">関口健</a></p></td>
 <td><p><a href="../Page/NHK前橋放送局.md" title="wikilink">前橋</a></p></td>
 <td></td>
 <td></td>
@@ -528,13 +528,13 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/西岡愛" title="wikilink">西岡愛</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK旭川放送局" title="wikilink">旭川</a></p></td>
+<td><p><a href="../Page/NHK旭川放送局.md" title="wikilink">旭川</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/岡田美咲" title="wikilink">岡田美咲</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK宮崎放送局" title="wikilink">宮崎</a></p></td>
+<td><p><a href="../Page/NHK宮崎放送局.md" title="wikilink">宮崎</a></p></td>
 <td><p>はま☆キラ!<br />
 ひるまえほっと</p></td>
 <td></td>
@@ -552,4 +552,4 @@
 
 1.  [NHKが旧横浜放送会館を積水ハウスに売却、マンション建設を計画/横浜](http://news.kanaloco.jp/localnews/article/1108240003/)神奈川新聞、2011年8月24日
 2.  [放送エリアのめやす（東京スカイツリー）（Dpa）](http://dpa-tv-area.jp/sp/map/13-1280)
-3.  毎月第2・第4水曜日は[にっぽん列島夕方ラジオ](https://ja.wikipedia.org/wiki/にっぽん列島夕方ラジオ "wikilink")として[NHKラジオ第1放送](https://ja.wikipedia.org/wiki/NHKラジオ第1放送 "wikilink")にて17:00 - 17:55に放送。
+3.  毎月第2・第4水曜日は[にっぽん列島夕方ラジオ](https://ja.wikipedia.org/wiki/にっぽん列島夕方ラジオ "wikilink")として[NHKラジオ第1放送](../Page/NHKラジオ第1放送.md "wikilink")にて17:00 - 17:55に放送。

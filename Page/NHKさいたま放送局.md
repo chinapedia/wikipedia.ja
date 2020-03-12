@@ -1,7 +1,7 @@
 > この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
 
 
-[NHK_Saitama_Broadcasting_Station.JPG](https://ja.wikipedia.org/wiki/File:NHK_Saitama_Broadcasting_Station.JPG "fig:NHK_Saitama_Broadcasting_Station.JPG") **NHKさいたま放送局**（エヌエイチケイさいたまほうそうきょく）は、[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局のひとつである](https://ja.wikipedia.org/wiki/日本放送協会放送局の一覧 "wikilink")。[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")内向けにFM放送を行っている。AM放送および地上テレビジョン放送は[関東](https://ja.wikipedia.org/wiki/関東地方 "wikilink")[広域扱いとして](../Page/広域放送.md "wikilink")、管轄の[東京本局からカバー](../Page/NHK放送センター.md "wikilink")・中継されている。
+[NHK_Saitama_Broadcasting_Station.JPG](https://ja.wikipedia.org/wiki/File:NHK_Saitama_Broadcasting_Station.JPG "fig:NHK_Saitama_Broadcasting_Station.JPG") **NHKさいたま放送局**（エヌエイチケイさいたまほうそうきょく）は、[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局のひとつである](../Page/日本放送協会放送局の一覧.md "wikilink")。[埼玉県](../Page/埼玉県.md "wikilink")内向けにFM放送を行っている。AM放送および地上テレビジョン放送は[関東](https://ja.wikipedia.org/wiki/関東地方 "wikilink")[広域扱いとして](../Page/広域放送.md "wikilink")、管轄の[東京本局からカバー](../Page/NHK放送センター.md "wikilink")・中継されている。
 
 ## 概要
 
@@ -9,19 +9,19 @@
 
 [コールサイン](https://ja.wikipedia.org/wiki/識別信号 "wikilink") **JOLP-FM**
 
-  - [さいたま](https://ja.wikipedia.org/wiki/さいたま市 "wikilink")（親局） [周波数](../Page/周波数.md "wikilink")85.1MHz ・[空中線電力](https://ja.wikipedia.org/wiki/空中線電力 "wikilink")5kW（最大[実効輻射電力](https://ja.wikipedia.org/wiki/実効輻射電力 "wikilink")41kW）
-      - さいたま送信所（[平野原送信所](https://ja.wikipedia.org/wiki/平野原送信所 "wikilink")）は、さいたま市[桜区](https://ja.wikipedia.org/wiki/桜区 "wikilink")道場にあり、[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")のテレビ送信所としても使用されている。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）6月までは[NACK5も使用していた](../Page/エフエムナックファイブ.md "wikilink")（現在は廃止されている）。
+  - [さいたま](https://ja.wikipedia.org/wiki/さいたま市 "wikilink")（親局） [周波数](../Page/周波数.md "wikilink")85.1MHz ・[空中線電力](../Page/空中線電力.md "wikilink")5kW（最大[実効輻射電力](https://ja.wikipedia.org/wiki/実効輻射電力 "wikilink")41kW）
+      - さいたま送信所（[平野原送信所](../Page/平野原送信所.md "wikilink")）は、さいたま市[桜区](https://ja.wikipedia.org/wiki/桜区 "wikilink")道場にあり、[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")のテレビ送信所としても使用されている。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）6月までは[NACK5も使用していた](../Page/エフエムナックファイブ.md "wikilink")（現在は廃止されている）。
   - [秩父](../Page/秩父市.md "wikilink") 周波数83.5MHz・空中線電力50W（最大実効輻射電力59W）
 
 ### テレビジョン放送
 
-  - [NHKオンライン](https://ja.wikipedia.org/wiki/NHKオンライン "wikilink")の自局サイトにおいて、地域放送局としては珍しく、県内関係ニュースの動画配信を行った。この取り組みは[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[5月13日](../Page/5月13日.md "wikilink")の『[お元気ですか日本列島](../Page/お元気ですか日本列島.md "wikilink")』でも紹介された。この取り組みはNHKの中でも先進的なもので、その後数年をかけ順次全国に広げられていった。
+  - [NHKオンライン](../Page/NHKオンライン.md "wikilink")の自局サイトにおいて、地域放送局としては珍しく、県内関係ニュースの動画配信を行った。この取り組みは[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[5月13日](../Page/5月13日.md "wikilink")の『[お元気ですか日本列島](../Page/お元気ですか日本列島.md "wikilink")』でも紹介された。この取り組みはNHKの中でも先進的なもので、その後数年をかけ順次全国に広げられていった。
 
 #### テレビ中継局
 
 掲載はさいたま局の管理下にある埼玉県内の送信所限定。
 
-県南部・県東部の大半の地域は[東京スカイツリー](https://ja.wikipedia.org/wiki/東京スカイツリー "wikilink")の放送エリアのめやすである\[1\]。
+県南部・県東部の大半の地域は[東京スカイツリー](../Page/東京スカイツリー.md "wikilink")の放送エリアのめやすである\[1\]。
 
 #### デジタル
 
@@ -74,7 +74,7 @@
 
 #### 報道別館
 
-首都直下地震による災害等で、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")の[NHK放送センター](../Page/NHK放送センター.md "wikilink")および都内の代替放送施設からの送出が不可能になった場合、さいたま放送局に隣接する施設（報道別館）から災害関連の放送を行うことができる。当面は、ラジオ放送およびインターネットでの情報発信を行う。訓練の意味合いから、2013年9月1日にこの施設からの放送が行われた。
+首都直下地震による災害等で、[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")の[NHK放送センター](../Page/NHK放送センター.md "wikilink")および都内の代替放送施設からの送出が不可能になった場合、さいたま放送局に隣接する施設（報道別館）から災害関連の放送を行うことができる。当面は、ラジオ放送およびインターネットでの情報発信を行う。訓練の意味合いから、2013年9月1日にこの施設からの放送が行われた。
 
 #### 建て替え
 
@@ -104,7 +104,7 @@
 
 ## 情報カメラ
 
-  - [さいたま](https://ja.wikipedia.org/wiki/さいたま市 "wikilink")（NHKさいたま局屋上、HD・SD。[さいたま市役所](https://ja.wikipedia.org/wiki/さいたま市役所 "wikilink")方向は南側、[北浦和](https://ja.wikipedia.org/wiki/北浦和駅 "wikilink")・[さいたま新都心](../Page/さいたま新都心.md "wikilink")方
+  - [さいたま](https://ja.wikipedia.org/wiki/さいたま市 "wikilink")（NHKさいたま局屋上、HD・SD。[さいたま市役所](../Page/さいたま市役所.md "wikilink")方向は南側、[北浦和](https://ja.wikipedia.org/wiki/北浦和駅 "wikilink")・[さいたま新都心](../Page/さいたま新都心.md "wikilink")方
 
 向が北側）
 
@@ -112,12 +112,12 @@
   - [所沢](../Page/所沢市.md "wikilink")（[所沢市](../Page/所沢市.md "wikilink")役所SD）
   - [川口](https://ja.wikipedia.org/wiki/川口市 "wikilink")（SD）
   - [熊谷](https://ja.wikipedia.org/wiki/熊谷市 "wikilink")（SD）
-  - [関越自動車道](../Page/関越自動車道.md "wikilink")[新座料金所](https://ja.wikipedia.org/wiki/新座料金所 "wikilink")（HD）
+  - [関越自動車道](../Page/関越自動車道.md "wikilink")[新座料金所](../Page/新座料金所.md "wikilink")（HD）
 
 <!-- end list -->
 
   -
-    ※他にも、[宝登山](https://ja.wikipedia.org/wiki/宝登山 "wikilink")、[荒川](../Page/荒川_\(関東\).md "wikilink")（[長瀞町](../Page/長瀞町.md "wikilink")）、[羊山公園](https://ja.wikipedia.org/wiki/羊山公園 "wikilink")芝桜の丘（[秩父市](../Page/秩父市.md "wikilink")）、[菖蒲城](https://ja.wikipedia.org/wiki/菖蒲城 "wikilink")趾[あやめ園](../Page/アヤメ.md "wikilink")、[コスモス](../Page/コスモス.md "wikilink")ふれあいロード（[久喜市](../Page/久喜市.md "wikilink")）で毎年季節限定で設置。
+    ※他にも、[宝登山](../Page/宝登山.md "wikilink")、[荒川](../Page/荒川_\(関東\).md "wikilink")（[長瀞町](../Page/長瀞町.md "wikilink")）、[羊山公園](../Page/羊山公園.md "wikilink")芝桜の丘（[秩父市](../Page/秩父市.md "wikilink")）、[菖蒲城](../Page/菖蒲城.md "wikilink")趾[あやめ園](../Page/アヤメ.md "wikilink")、[コスモス](../Page/コスモス.md "wikilink")ふれあいロード（[久喜市](../Page/久喜市.md "wikilink")）で毎年季節限定で設置。
 
   - かつて設置されていた情報カメラ
 
@@ -163,7 +163,7 @@
 
   - [ひるまえ ほっと](https://ja.wikipedia.org/wiki/ひるまえ_ほっと "wikilink")
   - [ニュース シブ5時](https://ja.wikipedia.org/wiki/ニュース_シブ5時 "wikilink") - 全国放送
-  - [首都圏ネットワーク](https://ja.wikipedia.org/wiki/首都圏ネットワーク "wikilink")
+  - [首都圏ネットワーク](../Page/首都圏ネットワーク.md "wikilink")
   - [首都圏情報 ネタドリ\!](https://ja.wikipedia.org/wiki/首都圏情報_ネタドリ! "wikilink")
 
 ## アナウンサー・キャスター
@@ -183,12 +183,12 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/伊藤博英" title="wikilink">伊藤博英</a></p></td>
+<td><p><a href="../Page/伊藤博英.md" title="wikilink">伊藤博英</a></p></td>
 <td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/日刊!さいたま〜ず" title="wikilink">日刊!さいたま〜ず</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/與芝由三栄" title="wikilink">與芝由三栄</a></p></td>
+<td><p><a href="../Page/與芝由三栄.md" title="wikilink">與芝由三栄</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -227,8 +227,8 @@
 
 ## 関連人物
 
-  - [永井多恵子](https://ja.wikipedia.org/wiki/永井多恵子 "wikilink")（元NHK副会長。1990 - 1993年、当時の浦和放送局でNHKの女性正職員として史上初の放送局長を務めた）
-  - [荒木美和](https://ja.wikipedia.org/wiki/荒木美和 "wikilink")（ラジオセンターディレクター、元正職員アナウンサー〈初任地は[新潟](https://ja.wikipedia.org/wiki/NHK新潟放送局 "wikilink")〉になる前はリポーター）
+  - [永井多恵子](../Page/永井多恵子.md "wikilink")（元NHK副会長。1990 - 1993年、当時の浦和放送局でNHKの女性正職員として史上初の放送局長を務めた）
+  - [荒木美和](../Page/荒木美和.md "wikilink")（ラジオセンターディレクター、元正職員アナウンサー〈初任地は[新潟](../Page/NHK新潟放送局.md "wikilink")〉になる前はリポーター）
 
 ## 脚注
 

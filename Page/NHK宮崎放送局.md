@@ -1,11 +1,11 @@
 > この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
 
 
-**NHK宮崎放送局**（エヌエイチケイみやざきほうそうきょく）は、[宮崎県](../Page/宮崎県.md "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](https://ja.wikipedia.org/wiki/日本放送協会放送局の一覧 "wikilink")。テレビとラジオで県域放送を行っている。
+**NHK宮崎放送局**（エヌエイチケイみやざきほうそうきょく）は、[宮崎県](../Page/宮崎県.md "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。テレビとラジオで県域放送を行っている。
 
 ## 沿革
 
-  - [1937年](../Page/1937年.md "wikilink")（昭和12年）4月19日 - **[社団法人](https://ja.wikipedia.org/wiki/社団法人 "wikilink")日本放送協会宮崎放送局**開局。ラジオ第1放送開始（[コールサイン](https://ja.wikipedia.org/wiki/識別信号 "wikilink")：JOMG）。当時は、宮崎市鶴島町にあった。
+  - [1937年](../Page/1937年.md "wikilink")（昭和12年）4月19日 - **[社団法人](../Page/社団法人.md "wikilink")日本放送協会宮崎放送局**開局。ラジオ第1放送開始（[コールサイン](https://ja.wikipedia.org/wiki/識別信号 "wikilink")：JOMG）。当時は、宮崎市鶴島町にあった。
   - [1950年](../Page/1950年.md "wikilink")（昭和25年）3月25日 - ラジオ第2放送開始。
   - 1950年（昭和25年）6月1日 - [放送法](../Page/放送法.md "wikilink")施行に伴い社団法人日本放送協会が解散。[特殊法人](../Page/特殊法人.md "wikilink")としての**日本放送協会**が設立され一切の権利義務を継承。
   - [1960年](../Page/1960年.md "wikilink")（昭和35年）7月1日 - 総合テレビ放送開始。
@@ -16,10 +16,10 @@
   - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")（昭和46年）9月1日 - 地域カラーテレビ放送開始。
   - [1977年](../Page/1977年.md "wikilink")（昭和52年）3月5日 - FMステレオ放送開始。
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年）9月1日 - [緊急警報放送](../Page/緊急警報放送.md "wikilink")開始。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）8月8日 - 音声多重放送開始（教育テレビは[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")3月20日）。
+  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）8月8日 - 音声多重放送開始（教育テレビは[1991年](../Page/1991年.md "wikilink")3月20日）。
   - 1986年（昭和61年）11月29日 - 文字放送開始。
   - [2000年](../Page/2000年.md "wikilink")（平成12年）4月3日 - 『いっちゃがラジオ』の前身番組である『**いっちゃがスタジオ**』放送開始。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）12月1日 - 地上デジタル放送開始。
+  - [2006年](../Page/2006年.md "wikilink")（平成18年）12月1日 - 地上デジタル放送開始。
   - [2011年](../Page/2011年.md "wikilink")（平成23年）7月24日 - アナログ放送終了。
 
 ## 所在地
@@ -45,10 +45,10 @@
 
 コールサイン： **JOMG-TV**
 
-  - [宮崎](https://ja.wikipedia.org/wiki/宮崎市 "wikilink") 8ch 映像1kW／音声250W《親局》（[鰐塚山](https://ja.wikipedia.org/wiki/鰐塚山 "wikilink")）
-  - [延岡](https://ja.wikipedia.org/wiki/延岡市 "wikilink") 4ch 映像250W／音声62.5W
-  - [えびの](https://ja.wikipedia.org/wiki/えびの市 "wikilink") 4ch 映像10W／音声2.5W
-  - [高千穂](https://ja.wikipedia.org/wiki/高千穂町 "wikilink") 3ch 映像30W／音声7.5W
+  - [宮崎](https://ja.wikipedia.org/wiki/宮崎市 "wikilink") 8ch 映像1kW／音声250W《親局》（[鰐塚山](../Page/鰐塚山.md "wikilink")）
+  - [延岡](../Page/延岡市.md "wikilink") 4ch 映像250W／音声62.5W
+  - [えびの](../Page/えびの市.md "wikilink") 4ch 映像10W／音声2.5W
+  - [高千穂](../Page/高千穂町.md "wikilink") 3ch 映像30W／音声7.5W
 
 ### 教育テレビジョン
 
@@ -61,7 +61,7 @@
   - 延岡 45ch 100W（愛宕山）
   - 串間 28ch 3W（第二高畑山）
   - 日向 45ch 1W（米ノ山）
-  - [高千穂](https://ja.wikipedia.org/wiki/高千穂中継局 "wikilink") 17ch 10W（烏帽子岳）
+  - [高千穂](../Page/高千穂中継局.md "wikilink") 17ch 10W（烏帽子岳）
 
 #### アナログ（2011年7月24日運用終了）
 
@@ -76,7 +76,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:NHK-JOMG.jpg "wikilink") コールサイン **JOMG**
 
-  - 宮崎 540kHz 5kW《親局》（[宮崎ラジオ放送所](https://ja.wikipedia.org/wiki/宮崎ラジオ放送所 "wikilink")）
+  - 宮崎 540kHz 5kW《親局》（[宮崎ラジオ放送所](../Page/宮崎ラジオ放送所.md "wikilink")）
   - [都城](https://ja.wikipedia.org/wiki/都城市 "wikilink") 1161kHz 100W（[都城ラジオ中継局](https://ja.wikipedia.org/wiki/都城ラジオ中継局 "wikilink")）
   - 延岡 621kHz 1kW（[延岡ラジオ中継局](https://ja.wikipedia.org/wiki/延岡ラジオ中継局 "wikilink")）
   - 高千穂 1584kHz 100W
@@ -111,9 +111,9 @@
 
 ## 支局
 
-  - [延岡](https://ja.wikipedia.org/wiki/延岡市 "wikilink")
+  - [延岡](../Page/延岡市.md "wikilink")
   - [都城](https://ja.wikipedia.org/wiki/都城市 "wikilink")
-  - [日南](https://ja.wikipedia.org/wiki/日南市 "wikilink")
+  - [日南](../Page/日南市.md "wikilink")
 
 ## 宮崎放送局制作の主な番組
 
@@ -130,14 +130,14 @@
   - いっちゃがスタジオ
   - いっちゃがワイド（夕方5時台）
   - いっちゃがTV
-  - [みやざき640](https://ja.wikipedia.org/wiki/みやざき630 "wikilink")→[みやざき630](https://ja.wikipedia.org/wiki/みやざき630 "wikilink")→[イブニングネットワークみやざき](https://ja.wikipedia.org/wiki/イブニングネットワーク_\(NHK総合\) "wikilink")→[まるごと宮崎610](https://ja.wikipedia.org/wiki/まるごと宮崎600 "wikilink")→[まるごと宮崎600](https://ja.wikipedia.org/wiki/まるごと宮崎600 "wikilink")
+  - [みやざき640](https://ja.wikipedia.org/wiki/みやざき630 "wikilink")→[みやざき630](https://ja.wikipedia.org/wiki/みやざき630 "wikilink")→[イブニングネットワークみやざき](../Page/イブニングネットワーク_\(NHK総合\).md "wikilink")→[まるごと宮崎610](https://ja.wikipedia.org/wiki/まるごと宮崎600 "wikilink")→[まるごと宮崎600](https://ja.wikipedia.org/wiki/まるごと宮崎600 "wikilink")
   - [ニュースまるごと宮崎](https://ja.wikipedia.org/wiki/ニュースまるごと宮崎 "wikilink")
   - [みやざき645](https://ja.wikipedia.org/wiki/みやざき630 "wikilink")
   - いっちゃがワイド（夕方6時台）
   - くらしのチャンネルみやざき
   - スポット情報みやざき
   - [みやざき情報ひろば](https://ja.wikipedia.org/wiki/みやざき情報ひろば "wikilink")
-  - [いっちゃがゴールド](https://ja.wikipedia.org/wiki/いっちゃがゴールド "wikilink")
+  - [いっちゃがゴールド](../Page/いっちゃがゴールド.md "wikilink")
   - [ニュースWAVE宮崎](https://ja.wikipedia.org/wiki/ニュースWAVE宮崎 "wikilink")
   - [NHKニュースおはよう宮崎](https://ja.wikipedia.org/wiki/NHKニュースおはよう宮崎 "wikilink")（平日6:55 - 7:00、7:45 - 7:51）
   - [NHKニュース宮崎645](https://ja.wikipedia.org/wiki/NHKニュース宮崎645 "wikilink")（土曜日・日曜日・祝日18:45 - 18:59、年末年始18:50 - 19:00）
@@ -179,12 +179,12 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/岡野暁" title="wikilink">岡野暁</a></p></td>
+<td><p><a href="../Page/岡野暁.md" title="wikilink">岡野暁</a></p></td>
 <td><p><a href="../Page/NHK名古屋放送局.md" title="wikilink">名古屋</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/古賀一" title="wikilink">古賀一</a></p></td>
+<td><p><a href="../Page/古賀一.md" title="wikilink">古賀一</a></p></td>
 <td><p><a href="../Page/NHK横浜放送局.md" title="wikilink">横浜</a></p></td>
 <td><p>放送部副部長<br />
 宮崎県のニュース</p></td>
@@ -234,7 +234,7 @@
 
 ## その他
 
-  - NHK宮崎放送局の[マスコットキャラクターとして](https://ja.wikipedia.org/wiki/テレビ関連のマスコットキャラクター一覧 "wikilink")**ファイト君**を採用している。
+  - NHK宮崎放送局の[マスコットキャラクターとして](../Page/テレビ関連のマスコットキャラクター一覧.md "wikilink")**ファイト君**を採用している。
   - 九州・沖縄ブロックのNHK放送局の中では最初に、動画ニュースの配信を開始している。
 
 ## 外部リンク

@@ -7,16 +7,16 @@
 
       - [ギリシャ](../Page/ギリシャ.md "wikilink")の[ISO国名コード](https://ja.wikipedia.org/wiki/ISO国名コード "wikilink")
       - [ジュルジュ県](https://ja.wikipedia.org/wiki/ジュルジュ県 "wikilink") () の[ルーマニア州コード](https://ja.wikipedia.org/wiki/ISO_3166-2:RO "wikilink")
-      - [グロッセート県](../Page/グロッセート県.md "wikilink") () の[県名略記号および](../Page/イタリア共和国の県名略記号.md "wikilink")[イタリア県名コード](https://ja.wikipedia.org/wiki/ISO_3166-2:IT "wikilink")
-      - [グラウビュンデン州](https://ja.wikipedia.org/wiki/グラウビュンデン州 "wikilink") () の[スイス州コード](https://ja.wikipedia.org/wiki/ISO_3166-2:CH "wikilink")
+      - [グロッセート県](../Page/グロッセート県.md "wikilink") () の[県名略記号および](../Page/イタリア共和国の県名略記号.md "wikilink")[イタリア県名コード](../Page/ISO_3166-2:IT.md "wikilink")
+      - [グラウビュンデン州](../Page/グラウビュンデン州.md "wikilink") () の[スイス州コード](https://ja.wikipedia.org/wiki/ISO_3166-2:CH "wikilink")
 
   - 製品
 
-      - [リコー・GRシリーズ](https://ja.wikipedia.org/wiki/リコー・GRシリーズ "wikilink") / [GRデジタルシリーズ](https://ja.wikipedia.org/wiki/リコー・GRデジタルシリーズ "wikilink") - [リコー](../Page/リコー.md "wikilink")製コンパクトカメラ
-      - [GR (トヨタ自動車)](https://ja.wikipedia.org/wiki/GR_\(トヨタ自動車\) "wikilink") - [トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")による[スポーツカー](../Page/スポーツカー.md "wikilink")シリーズのブランド名。GRは「GAZOO Racing」の略。
-      - [トヨタ・GRエンジン](https://ja.wikipedia.org/wiki/トヨタ・GRエンジン "wikilink") - トヨタ自動車の[V6エンジン](https://ja.wikipedia.org/wiki/V型6気筒 "wikilink")
+      - [リコー・GRシリーズ](https://ja.wikipedia.org/wiki/リコー・GRシリーズ "wikilink") / [GRデジタルシリーズ](../Page/リコー・GRデジタルシリーズ.md "wikilink") - [リコー](../Page/リコー.md "wikilink")製コンパクトカメラ
+      - [GR (トヨタ自動車)](../Page/GR_\(トヨタ自動車\).md "wikilink") - [トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")による[スポーツカー](../Page/スポーツカー.md "wikilink")シリーズのブランド名。GRは「GAZOO Racing」の略。
+      - [トヨタ・GRエンジン](../Page/トヨタ・GRエンジン.md "wikilink") - トヨタ自動車の[V6エンジン](../Page/V型6気筒.md "wikilink")
       - [ジャーニーGR](https://ja.wikipedia.org/wiki/いすゞ・ジャーニーQ#U-GR432F/KC-GR433F/KK-GR433F "wikilink") () かつて[いすゞ自動車](../Page/いすゞ自動車.md "wikilink")が製造していた小型観光バス。
-      - [ゴーストリコン](https://ja.wikipedia.org/wiki/ゴーストリコンシリーズ "wikilink") - [ユービーアイソフト](https://ja.wikipedia.org/wiki/ユービーアイソフト "wikilink")のゲームソフト。
+      - [ゴーストリコン](../Page/ゴーストリコンシリーズ.md "wikilink") - [ユービーアイソフト](../Page/ユービーアイソフト.md "wikilink")のゲームソフト。
 
   - [一般相対性理論](https://ja.wikipedia.org/wiki/一般相対性理論 "wikilink") ()
 
@@ -26,7 +26,7 @@
 
   - [青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink") (JOGR)
 
-  - [グルココルチコイド受容体](https://ja.wikipedia.org/wiki/グルココルチコイド受容体 "wikilink") - [ステロイドホルモン](https://ja.wikipedia.org/wiki/ステロイドホルモン "wikilink")受容体
+  - [グルココルチコイド受容体](https://ja.wikipedia.org/wiki/グルココルチコイド受容体 "wikilink") - [ステロイドホルモン](../Page/ステロイドホルモン.md "wikilink")受容体
 
   - [国語ローマ字](https://ja.wikipedia.org/wiki/国語ローマ字 "wikilink") (Gwoyeu Romatzyh) - 中国語のローマ字表記法
 
@@ -47,6 +47,6 @@
 ## gr
 
   - [グレーン](../Page/グレーン.md "wikilink") () - [ヤード・ポンド法](../Page/ヤード・ポンド法.md "wikilink")における[質量](../Page/質量.md "wikilink")の[単位](../Page/単位.md "wikilink")。
-  - [.gr](https://ja.wikipedia.org/wiki/.gr "wikilink") - ギリシャの[国別ドメイン](https://ja.wikipedia.org/wiki/国別ドメイン "wikilink")
+  - [.gr](../Page/.gr.md "wikilink") - ギリシャの[国別ドメイン](https://ja.wikipedia.org/wiki/国別ドメイン "wikilink")
 
 ## 脚注

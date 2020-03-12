@@ -8,11 +8,11 @@
 ## 沿革
 
   -
-    *以前の沿革は[日本ヒューレット・パッカード](https://ja.wikipedia.org/wiki/日本ヒューレット・パッカード "wikilink")を参照。*
+    *以前の沿革は[日本ヒューレット・パッカード](../Page/日本ヒューレット・パッカード.md "wikilink")を参照。*
 
 <!-- end list -->
 
-  - [2015年](../Page/2015年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink") - [日本ヒューレット・パッカード](https://ja.wikipedia.org/wiki/日本ヒューレット・パッカード "wikilink")株式会社よりPC・プリンティング事業を継承\[1\]。
+  - [2015年](../Page/2015年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink") - [日本ヒューレット・パッカード](../Page/日本ヒューレット・パッカード.md "wikilink")株式会社よりPC・プリンティング事業を継承\[1\]。
 
 ## 概要
 
@@ -24,7 +24,7 @@ COMPAQの日本法人から引き継いだ[直販サイト・Directplus](http://
 
 ## 特徴
 
-[外資系](https://ja.wikipedia.org/wiki/外資系 "wikilink")企業であるが一部製品を国内で生産する「東京生産・MADE IN TOKYO」を特徴としている。輸送コストや輸送時における衝撃、振動による故障トラブルの軽減のために[デスクトップパソコン](../Page/デスクトップパソコン.md "wikilink")、[ワークステーション](../Page/ワークステーション.md "wikilink")、[ノートパソコン](../Page/ノートパソコン.md "wikilink")に関しては日野工場（[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[日野市](https://ja.wikipedia.org/wiki/日野市 "wikilink")、三井不動産ロジスティクスパーク日野）で生産しており、「MADE IN TOKYO」のラベルが製品に付けられている。元は[1999年](../Page/1999年.md "wikilink")に旧コンパックが[あきる野市](../Page/あきる野市.md "wikilink")（旧日本DEC）にて国内生産を開始し、HPとの合併後に昭島市へとラインを移した。HPIとHPEの分社後も引き続きラインが存在していたが、後に日野へ移転した。
+[外資系](https://ja.wikipedia.org/wiki/外資系 "wikilink")企業であるが一部製品を国内で生産する「東京生産・MADE IN TOKYO」を特徴としている。輸送コストや輸送時における衝撃、振動による故障トラブルの軽減のために[デスクトップパソコン](../Page/デスクトップパソコン.md "wikilink")、[ワークステーション](../Page/ワークステーション.md "wikilink")、[ノートパソコン](../Page/ノートパソコン.md "wikilink")に関しては日野工場（[東京都](../Page/東京都.md "wikilink")[日野市](https://ja.wikipedia.org/wiki/日野市 "wikilink")、三井不動産ロジスティクスパーク日野）で生産しており、「MADE IN TOKYO」のラベルが製品に付けられている。元は[1999年](../Page/1999年.md "wikilink")に旧コンパックが[あきる野市](../Page/あきる野市.md "wikilink")（旧日本DEC）にて国内生産を開始し、HPとの合併後に昭島市へとラインを移した。HPIとHPEの分社後も引き続きラインが存在していたが、後に日野へ移転した。
 
 [2002年](../Page/2002年.md "wikilink")に個人向けPCの店頭販売から撤退していたが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")5月から再開している。
 
@@ -95,7 +95,7 @@ COMPAQの日本法人から引き継いだ[直販サイト・Directplus](http://
   - タブレット
       - HP ElitePad
       - HP Pro Tablet
-      - HP Slate ([Android](https://ja.wikipedia.org/wiki/Android "wikilink"))
+      - HP Slate ([Android](../Page/Android.md "wikilink"))
       - HP Pavilion x2
 
 #### スマートフォン/ファブレット
@@ -112,7 +112,7 @@ COMPAQの日本法人から引き継いだ[直販サイト・Directplus](http://
 
 ## 関連項目
 
-  - [ヒューレット・パッカードのプリンター](https://ja.wikipedia.org/wiki/ヒューレット・パッカードのプリンター "wikilink")
+  - [ヒューレット・パッカードのプリンター](../Page/ヒューレット・パッカードのプリンター.md "wikilink")
 
 ## 外部リンク
 

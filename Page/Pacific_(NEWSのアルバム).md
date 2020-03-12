@@ -5,15 +5,15 @@
 
 ## 概要
 
-1枚目のアルバム『[touch](https://ja.wikipedia.org/wiki/Touch_\(NEWSのアルバム\) "wikilink")』から、約2年半ぶりの発売となるアルバム。7枚目のシングル「[weeeek](https://ja.wikipedia.org/wiki/weeeek "wikilink")」との同時発売（本作には未収録、「weeeek」は次のアルバム『[color](https://ja.wikipedia.org/wiki/color_\(NEWSのアルバム\) "wikilink")』に収録）となり、発売日はデビューシングル「[NEWSニッポン](https://ja.wikipedia.org/wiki/NEWSニッポン "wikilink")」と同月同日である。初回生産限定盤・通常盤ともに、「weeeek」との連動企画応募券を同梱するほか、初回生産限定盤は32ページの[ブックレットを封入し](../Page/小冊子.md "wikilink")、全13曲。通常盤は16ページのブックレットを封入し、ボーナストラックを追加した全15曲である。
+1枚目のアルバム『[touch](../Page/Touch_\(NEWSのアルバム\).md "wikilink")』から、約2年半ぶりの発売となるアルバム。7枚目のシングル「[weeeek](https://ja.wikipedia.org/wiki/weeeek "wikilink")」との同時発売（本作には未収録、「weeeek」は次のアルバム『[color](https://ja.wikipedia.org/wiki/color_\(NEWSのアルバム\) "wikilink")』に収録）となり、発売日はデビューシングル「[NEWSニッポン](../Page/NEWSニッポン.md "wikilink")」と同月同日である。初回生産限定盤・通常盤ともに、「weeeek」との連動企画応募券を同梱するほか、初回生産限定盤は32ページの[ブックレットを封入し](../Page/小冊子.md "wikilink")、全13曲。通常盤は16ページのブックレットを封入し、ボーナストラックを追加した全15曲である。
 
-「[TEPPEN](https://ja.wikipedia.org/wiki/TEPPEN_\(曲\) "wikilink")」から「[星をめざして](../Page/星をめざして.md "wikilink")」までのシングル曲4曲（「TEPPEN」と「サヤエンドウ」はアルバムバージョンで収録）と、コンサートで披露したメンバーのソロ曲やユニット曲を多数収録している。 [レコーディングは半年間かけて行われ](../Page/録音.md "wikilink")、各々がメインボーカルを務める楽曲はメンバー自身が選曲に関わった\[1\]。
+「[TEPPEN](../Page/TEPPEN_\(曲\).md "wikilink")」から「[星をめざして](../Page/星をめざして.md "wikilink")」までのシングル曲4曲（「TEPPEN」と「サヤエンドウ」はアルバムバージョンで収録）と、コンサートで披露したメンバーのソロ曲やユニット曲を多数収録している。 [レコーディングは半年間かけて行われ](../Page/録音.md "wikilink")、各々がメインボーカルを務める楽曲はメンバー自身が選曲に関わった\[1\]。
 
 6人体制で初のアルバムであり、活動再開後初のアルバムでもある。
 
 ## チャート成績
 
-本作は発売初週に19.6万枚を売り上げ[オリコンアルバムチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を記録し、「[weeeek](https://ja.wikipedia.org/wiki/weeeek "wikilink")」との同時1位を獲得した。シングル・アルバムの同時1位は、KAT-TUNのシングル「[Real Face](https://ja.wikipedia.org/wiki/Real_Face "wikilink")」とアルバム『[Best of KAT-TUN](https://ja.wikipedia.org/wiki/Best_of_KAT-TUN "wikilink")』の同時発売以来、1年8か月ぶりの記録である。また、[メジャーデビューシングル](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")「[希望〜Yell〜](https://ja.wikipedia.org/wiki/希望〜Yell〜 "wikilink")」以来続く、シングル・アルバムを合わせた初登場1位の記録を、9作に伸ばした\[2\]。
+本作は発売初週に19.6万枚を売り上げ[オリコンアルバムチャート](../Page/オリコンチャート.md "wikilink")1位を記録し、「[weeeek](https://ja.wikipedia.org/wiki/weeeek "wikilink")」との同時1位を獲得した。シングル・アルバムの同時1位は、KAT-TUNのシングル「[Real Face](../Page/Real_Face.md "wikilink")」とアルバム『[Best of KAT-TUN](../Page/Best_of_KAT-TUN.md "wikilink")』の同時発売以来、1年8か月ぶりの記録である。また、[メジャーデビューシングル](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")「[希望〜Yell〜](../Page/希望〜Yell〜.md "wikilink")」以来続く、シングル・アルバムを合わせた初登場1位の記録を、9作に伸ばした\[2\]。
 
 ## 収録曲
 
@@ -30,7 +30,7 @@
     <!-- end list -->
       -
         表記はないが、アルバムバージョンである。
-3.  **[TEPPEN](https://ja.wikipedia.org/wiki/TEPPEN_\(曲\) "wikilink")**
+3.  **[TEPPEN](../Page/TEPPEN_\(曲\).md "wikilink")**
       -
         作詞・作曲: 日比野裕史、編曲: ha-j, 吉岡たく
     <!-- end list -->
@@ -40,18 +40,18 @@
         表記はないが、アルバムバージョンである。
 4.  **Change the World**
       -
-        作詞: 森田文人, [くまのきよみ](https://ja.wikipedia.org/wiki/くまのきよみ "wikilink"), 森元康介、作曲: 森元康介、編曲: [中野雄太](https://ja.wikipedia.org/wiki/中野雄太 "wikilink")、ラップ詞: バケラッタ
+        作詞: 森田文人, [くまのきよみ](../Page/くまのきよみ.md "wikilink"), 森元康介、作曲: 森元康介、編曲: [中野雄太](../Page/中野雄太.md "wikilink")、ラップ詞: バケラッタ
     <!-- end list -->
       - [進研ゼミ](../Page/進研ゼミ.md "wikilink")「夏の特別号篇」「夏がため ひまわり篇」「夏がため 青空篇」CMソング
 5.  **君想フ夜**
       -
-        作詞: 岩佐麻紀、作曲: Shusui, Tony Malm、編曲: [鈴木Daichi秀行](https://ja.wikipedia.org/wiki/鈴木Daichi秀行 "wikilink")
-6.  **アリバイ** - [小山慶一郎](https://ja.wikipedia.org/wiki/小山慶一郎 "wikilink")・[加藤成亮](https://ja.wikipedia.org/wiki/加藤成亮 "wikilink")・[手越祐也](https://ja.wikipedia.org/wiki/手越祐也 "wikilink") ・[増田貴久](https://ja.wikipedia.org/wiki/増田貴久 "wikilink")
+        作詞: 岩佐麻紀、作曲: Shusui, Tony Malm、編曲: [鈴木Daichi秀行](../Page/鈴木Daichi秀行.md "wikilink")
+6.  **アリバイ** - [小山慶一郎](../Page/小山慶一郎.md "wikilink")・[加藤成亮](https://ja.wikipedia.org/wiki/加藤成亮 "wikilink")・[手越祐也](../Page/手越祐也.md "wikilink") ・[増田貴久](../Page/増田貴久.md "wikilink")
       -
         作詞: H.U.B.、作曲・編曲: 村山晋一郎
-7.  **code** - [錦戸亮](https://ja.wikipedia.org/wiki/錦戸亮 "wikilink")
+7.  **code** - [錦戸亮](../Page/錦戸亮.md "wikilink")
       -
-        作詞: 錦戸亮、作曲: [長瀬弘樹](https://ja.wikipedia.org/wiki/長瀬弘樹 "wikilink")、編曲: [黒須克彦](../Page/黒須克彦.md "wikilink")
+        作詞: 錦戸亮、作曲: [長瀬弘樹](../Page/長瀬弘樹.md "wikilink")、編曲: [黒須克彦](../Page/黒須克彦.md "wikilink")
 8.  **チラリズム** - 小山慶一郎・加藤成亮
       -
         作詞・作曲・編曲: [渡辺拓也](https://ja.wikipedia.org/wiki/渡辺拓也 "wikilink")
@@ -70,7 +70,7 @@
         作詞: zopp、作曲・編曲: Shusui, Stefan Aberg
     <!-- end list -->
       - 5thシングルの2曲目
-      - [内博貴](https://ja.wikipedia.org/wiki/内博貴 "wikilink")主演 [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")系ドラマ『[一瞬の風になれ](../Page/一瞬の風になれ.md "wikilink")』主題歌
+      - [内博貴](../Page/内博貴.md "wikilink")主演 [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")系ドラマ『[一瞬の風になれ](../Page/一瞬の風になれ.md "wikilink")』主題歌
 13. **[星をめざして](../Page/星をめざして.md "wikilink")**
       -
         作詞: [なかにし礼](../Page/なかにし礼.md "wikilink")、作曲: Peter Bjorklund, Johan Sahlen, Claes Andreasson, Torbjorn Wassenius、編曲: [あおい吉勇](https://ja.wikipedia.org/wiki/あおい吉勇 "wikilink")

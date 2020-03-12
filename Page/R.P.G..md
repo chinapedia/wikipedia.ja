@@ -1,19 +1,19 @@
 > この記事は[R.P.G.](https://ja.wikipedia.org/wiki/R.P.G.)から翻訳されています。
 
 
-『**R.P.G.**』（アール・ピー・ジー）は、[2001年](../Page/2001年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")に[集英社文庫](https://ja.wikipedia.org/wiki/集英社文庫 "wikilink")より[書き下ろし](https://ja.wikipedia.org/wiki/書き下ろし "wikilink")で発売された[宮部みゆき](../Page/宮部みゆき.md "wikilink")の小説である。後に[NHKでドラマ化された](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")。
+『**R.P.G.**』（アール・ピー・ジー）は、[2001年](../Page/2001年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")に[集英社文庫](../Page/集英社文庫.md "wikilink")より[書き下ろし](https://ja.wikipedia.org/wiki/書き下ろし "wikilink")で発売された[宮部みゆき](../Page/宮部みゆき.md "wikilink")の小説である。後に[NHKでドラマ化された](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")。
 
 ## 概要
 
 宮部初の文庫書き下ろし作品である。巻末の解説は[清水義範](../Page/清水義範.md "wikilink")が担当し、宮部自身の希望により[司馬遼太郎](../Page/司馬遼太郎.md "wikilink")を[パスティーシュ](../Page/パスティーシュ.md "wikilink")した文面で書き上げられた。
 
-作中で築き上げられる基本的設定には、全く真実ではなく最終的に覆されるものが存在し、宮部自身が[ミステリーとしての基本的ルールに違反しているとする部分が存在する](../Page/推理小説.md "wikilink")。清水は解説で、結末を知ってから読むと面白みが損なわれるという点から、映画『[サイコ](https://ja.wikipedia.org/wiki/サイコ_\(1960年の映画\) "wikilink")』のようであると表現した。
+作中で築き上げられる基本的設定には、全く真実ではなく最終的に覆されるものが存在し、宮部自身が[ミステリーとしての基本的ルールに違反しているとする部分が存在する](../Page/推理小説.md "wikilink")。清水は解説で、結末を知ってから読むと面白みが損なわれるという点から、映画『[サイコ](../Page/サイコ_\(1960年の映画\).md "wikilink")』のようであると表現した。
 
-また、宮部の小説『[クロスファイア](https://ja.wikipedia.org/wiki/クロスファイア_\(小説\) "wikilink")』から「石津ちか子」が、『[模倣犯](https://ja.wikipedia.org/wiki/模倣犯_\(小説\) "wikilink")』から「武上悦郎」が登場する[クロスオーバー作品](https://ja.wikipedia.org/wiki/クロスオーバー作品 "wikilink")という側面もある。宮部自身、[世界観](../Page/世界観.md "wikilink")の異なる2作品の登場人物の競演には違和感を覚えたようだが、作中で果たすべき役割からこの2人が適役であるとして再登場に踏み切ったとあとがきで語った。
+また、宮部の小説『[クロスファイア](../Page/クロスファイア_\(小説\).md "wikilink")』から「石津ちか子」が、『[模倣犯](../Page/模倣犯_\(小説\).md "wikilink")』から「武上悦郎」が登場する[クロスオーバー作品](../Page/クロスオーバー作品.md "wikilink")という側面もある。宮部自身、[世界観](../Page/世界観.md "wikilink")の異なる2作品の登場人物の競演には違和感を覚えたようだが、作中で果たすべき役割からこの2人が適役であるとして再登場に踏み切ったとあとがきで語った。
 
 ## あらすじ
 
-建築中の一軒家の中で殺人事件が発生、所田良介が刺殺された。捜査が進むにつれ、所田がネット上で「お父さん」を名乗り、家族ごっこをしていた痕跡がみつかる。武上らはある結論を導き出し、ある“計画”を実行することを決意する。所田の娘・一美が[マジックミラー](https://ja.wikipedia.org/wiki/マジックミラー "wikilink")越しに見守る中、「カズミ」「ミノル」「お母さん」の取調べが始まる。犯人は誰なのか、そして“計画”とは…。
+建築中の一軒家の中で殺人事件が発生、所田良介が刺殺された。捜査が進むにつれ、所田がネット上で「お父さん」を名乗り、家族ごっこをしていた痕跡がみつかる。武上らはある結論を導き出し、ある“計画”を実行することを決意する。所田の娘・一美が[マジックミラー](../Page/マジックミラー.md "wikilink")越しに見守る中、「カズミ」「ミノル」「お母さん」の取調べが始まる。犯人は誰なのか、そして“計画”とは…。
 
 ## 登場人物
 
@@ -24,7 +24,7 @@
   - 石津ちか子（いしつ ちかこ）
     “計画”のために呼び寄せられた女性刑事。武上とは過去に一緒に仕事をした仲で、当時は武上婦人と私的な関わりもあった。4年前、本庁の[放火](https://ja.wikipedia.org/wiki/放火 "wikilink")捜査班に所属していたときの命令違反がもとで事実上[左遷](https://ja.wikipedia.org/wiki/左遷 "wikilink")され、現在は杉並署に籍を置いている。本庁在籍時には「おっかさん」と呼ばれていたほど、温和な人物。
   - 葛西規義
-    警視庁捜査一課の[管理官](https://ja.wikipedia.org/wiki/管理官 "wikilink")。
+    警視庁捜査一課の[管理官](../Page/管理官.md "wikilink")。
   - 立川房夫
     物語の舞台となる中杉署の署長。
   - 下島規義（しもじま のりよし）
@@ -32,7 +32,7 @@
   - 中本房夫（なかもと ふさお）
     警視庁捜査一課三係のデスク担当。巡査部長。通称「ナカさん」。警視庁捜査一課の7人のデスク担当で最もベテランである。“計画”の発案者であるが、実行の数日前に[心筋梗塞](../Page/心筋梗塞.md "wikilink")で倒れて入院している。
   - 徳永松男（とくなが まつお）
-    武上の部下。取調べでは記録役を務める。「松男」という名前と、165cm程度しかない身長に[コンプレックス](../Page/コンプレックス.md "wikilink")を持つ。古風な言い回しを好み、[西條八十](https://ja.wikipedia.org/wiki/西條八十 "wikilink")の詩を引用するなど、ロマンチストな一面もある。
+    武上の部下。取調べでは記録役を務める。「松男」という名前と、165cm程度しかない身長に[コンプレックス](../Page/コンプレックス.md "wikilink")を持つ。古風な言い回しを好み、[西條八十](../Page/西條八十.md "wikilink")の詩を引用するなど、ロマンチストな一面もある。
   - 鳥居（とりい）
     武上の部下。取調べには同席せず、“計画”のために外で待機していた。優秀な刑事であるが融通がきかない面があり、過去にそれが原因で事件関係者とトラブルになったこともある。
   - 秋津信吾（あきつ しんご）
@@ -43,7 +43,7 @@
 ### 所田家
 
   - 所田良介（ところだ りょうすけ）
-    一美の父親で、食品会社(株)オリオンフーズ本社営業第二部顧客管理課課長。48歳。建築中の一軒家の中で、他殺体で発見される。生前、リアルでの家族には内緒で、[ネット上に家族を作っていた](https://ja.wikipedia.org/wiki/インターネット "wikilink")。[ハンドルネーム](../Page/ハンドルネーム.md "wikilink")は「**お父さん**」。
+    一美の父親で、食品会社(株)オリオンフーズ本社営業第二部顧客管理課課長。48歳。建築中の一軒家の中で、他殺体で発見される。生前、リアルでの家族には内緒で、[ネット上に家族を作っていた](../Page/インターネット.md "wikilink")。[ハンドルネーム](../Page/ハンドルネーム.md "wikilink")は「**お父さん**」。
   - 所田春恵（ところだ はるえ）
     所田良介の妻、一美の母。42歳。娘の一美とは逆に、[結婚指輪](../Page/結婚指輪.md "wikilink")以外の[アクセサリーを身につけない](../Page/装身具.md "wikilink")、地味なタイプの女性。
   - 所田一美（ところだ かずみ）
@@ -69,7 +69,7 @@
 
 ## テレビドラマ『R.P.G. 作られた家族の秘密』
 
-[2003年](../Page/2003年.md "wikilink")[7月26日](../Page/7月26日.md "wikilink")に[NHKデジタル衛星ハイビジョン](https://ja.wikipedia.org/wiki/NHKデジタル衛星ハイビジョン "wikilink")の90分枠で放送された。
+[2003年](../Page/2003年.md "wikilink")[7月26日](../Page/7月26日.md "wikilink")に[NHKデジタル衛星ハイビジョン](../Page/NHKデジタル衛星ハイビジョン.md "wikilink")の90分枠で放送された。
 
   - キャスト
 
@@ -77,21 +77,21 @@
 
   - 所田一美：[後藤真希](https://ja.wikipedia.org/wiki/後藤真希 "wikilink")
   - 武上悦郎：[伊東四朗](../Page/伊東四朗.md "wikilink")
-  - 石津ちか子：[風吹ジュン](https://ja.wikipedia.org/wiki/風吹ジュン "wikilink")
+  - 石津ちか子：[風吹ジュン](../Page/風吹ジュン.md "wikilink")
   - 所田良介：[伊武雅刀](../Page/伊武雅刀.md "wikilink")
-  - 所田春恵：[増田恵子](https://ja.wikipedia.org/wiki/増田恵子 "wikilink")
+  - 所田春恵：[増田恵子](../Page/増田恵子.md "wikilink")
   - 加原律子：[榎本加奈子](https://ja.wikipedia.org/wiki/榎本加奈子 "wikilink")
-  - 北条稔：[中村七之助](https://ja.wikipedia.org/wiki/中村七之助_\(2代目\) "wikilink")
-  - 三田佳恵：[高田聖子](https://ja.wikipedia.org/wiki/高田聖子 "wikilink")
-  - 渕上美紀恵：[春木みさよ](https://ja.wikipedia.org/wiki/春木みさよ "wikilink")
-  - 鳥居浩二：[吉満涼太](https://ja.wikipedia.org/wiki/吉満寛人 "wikilink")
+  - 北条稔：[中村七之助](../Page/中村七之助_\(2代目\).md "wikilink")
+  - 三田佳恵：[高田聖子](../Page/高田聖子.md "wikilink")
+  - 渕上美紀恵：[春木みさよ](../Page/春木みさよ.md "wikilink")
+  - 鳥居浩二：[吉満涼太](../Page/吉満寛人.md "wikilink")
   - 秋津信吾：[鈴木修平](../Page/鈴木修平.md "wikilink")
-  - 徳永松男：[飯田基祐](https://ja.wikipedia.org/wiki/飯田基祐 "wikilink")
-  - 葛西規義：[嶋田久作](https://ja.wikipedia.org/wiki/嶋田久作 "wikilink")
-  - 立川房夫：[鶴田忍](https://ja.wikipedia.org/wiki/鶴田忍_\(俳優\) "wikilink")
-  - 今井直子：[大沢舞子](https://ja.wikipedia.org/wiki/大沢舞子 "wikilink")
-  - 石津孝：[柄本佑](https://ja.wikipedia.org/wiki/柄本佑 "wikilink")
-  - 石黒達也：[斎藤工](https://ja.wikipedia.org/wiki/斎藤工 "wikilink")
+  - 徳永松男：[飯田基祐](../Page/飯田基祐.md "wikilink")
+  - 葛西規義：[嶋田久作](../Page/嶋田久作.md "wikilink")
+  - 立川房夫：[鶴田忍](../Page/鶴田忍_\(俳優\).md "wikilink")
+  - 今井直子：[大沢舞子](../Page/大沢舞子.md "wikilink")
+  - 石津孝：[柄本佑](../Page/柄本佑.md "wikilink")
+  - 石黒達也：[斎藤工](../Page/斎藤工.md "wikilink")
   - 木下祥子：[本橋里紗](https://ja.wikipedia.org/wiki/本橋里紗 "wikilink")
 
 <!-- end list -->
@@ -101,10 +101,10 @@
 <!-- end list -->
 
   - 原作：宮部みゆき
-  - プロデューサー：[鈴木伸太郎](https://ja.wikipedia.org/wiki/鈴木伸太郎 "wikilink")
-  - 演出：[星田良子](https://ja.wikipedia.org/wiki/星田良子 "wikilink")
-  - 脚本：[福田靖](https://ja.wikipedia.org/wiki/福田靖 "wikilink")
-  - 作曲：[窪田ミナ](https://ja.wikipedia.org/wiki/窪田ミナ "wikilink")
+  - プロデューサー：[鈴木伸太郎](../Page/鈴木伸太郎.md "wikilink")
+  - 演出：[星田良子](../Page/星田良子.md "wikilink")
+  - 脚本：[福田靖](../Page/福田靖.md "wikilink")
+  - 作曲：[窪田ミナ](../Page/窪田ミナ.md "wikilink")
   - 法律指導：本山信二郎
   - 共同製作：[NHKエンタープライズ21](https://ja.wikipedia.org/wiki/NHKエンタープライズ21 "wikilink")、[共同テレビジョン](../Page/共同テレビジョン.md "wikilink")
   - 製作著作：NHK

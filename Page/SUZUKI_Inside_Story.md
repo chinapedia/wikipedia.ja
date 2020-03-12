@@ -1,11 +1,11 @@
 > この記事は[SUZUKI Inside Story](https://ja.wikipedia.org/wiki/SUZUKI_Inside_Story)から翻訳されています。
 
 
-**SUZUKI INSIDE STORY**（スズキ・インサイドストーリー）は、[TOKYO FMを](../Page/エフエム東京.md "wikilink")[キーステーションに](https://ja.wikipedia.org/wiki/キー局 "wikilink")2007年10月1日から2009年3月31日まで[JFN](https://ja.wikipedia.org/wiki/全国FM放送協議会 "wikilink")35局で放送されていたラジオ番組。[SUZUKI一社提供](../Page/スズキ_\(企業\).md "wikilink")。
+**SUZUKI INSIDE STORY**（スズキ・インサイドストーリー）は、[TOKYO FMを](../Page/エフエム東京.md "wikilink")[キーステーションに](https://ja.wikipedia.org/wiki/キー局 "wikilink")2007年10月1日から2009年3月31日まで[JFN](../Page/全国FM放送協議会.md "wikilink")35局で放送されていたラジオ番組。[SUZUKI一社提供](../Page/スズキ_\(企業\).md "wikilink")。
 
 ## 放送時間
 
-  - 8:00 - 8:09 （「[SKY](https://ja.wikipedia.org/wiki/SKY_\(ラジオ番組\) "wikilink")」「[クロノス](https://ja.wikipedia.org/wiki/クロノス_\(ラジオ番組\) "wikilink")」の1コーナーの扱い）
+  - 8:00 - 8:09 （「[SKY](../Page/SKY_\(ラジオ番組\).md "wikilink")」「[クロノス](https://ja.wikipedia.org/wiki/クロノス_\(ラジオ番組\) "wikilink")」の1コーナーの扱い）
 
 [エフエム群馬](../Page/エフエム群馬.md "wikilink")、[エフエム栃木](https://ja.wikipedia.org/wiki/エフエム栃木 "wikilink")、[radio CUBE FM三重を除いた](https://ja.wikipedia.org/wiki/三重エフエム放送 "wikilink")35局で放送されていた。
 
@@ -19,7 +19,7 @@
 
 ## 備考
 
-前身の[SUZUKI Future Navi](https://ja.wikipedia.org/wiki/SUZUKI_Future_Navi "wikilink") 、後身の[SUZUKI Breakfast Newsとは異なり](https://ja.wikipedia.org/wiki/SUZUKI_Breakfast_News "wikilink")、生放送ではなかった。また、放送当時8時台に放送されていた[Roots Presents マリーに聞いてゴー\!](../Page/Roots_Presents_マリーに聞いてゴー!.md "wikilink")、[Honda SWEET MISSIONと同様にSKYやクロノスのパーソナリティーが出演していなかった](https://ja.wikipedia.org/wiki/Honda_SWEET_MISSION "wikilink")。
+前身の[SUZUKI Future Navi](https://ja.wikipedia.org/wiki/SUZUKI_Future_Navi "wikilink") 、後身の[SUZUKI Breakfast Newsとは異なり](https://ja.wikipedia.org/wiki/SUZUKI_Breakfast_News "wikilink")、生放送ではなかった。また、放送当時8時台に放送されていた[Roots Presents マリーに聞いてゴー\!](../Page/Roots_Presents_マリーに聞いてゴー!.md "wikilink")、[Honda SWEET MISSIONと同様にSKYやクロノスのパーソナリティーが出演していなかった](../Page/Honda_SWEET_MISSION.md "wikilink")。
 
 提供アナウンス時に坂井が「**TOKYO FMをキーステーションに全国35局ネットでお送りするこの番組は 小さな車 大きな未来 SUZUKIの提供でお送りします。**」とアナウンスし、エンディング後には「**TOKYO FMをキーステーションに全国35局ネットでお送りしたこの番組は 小さな車 大きな未来 SUZUKIの提供でお送りしました。そして、助手席で語りかけたのは坂井真紀でした。**」とアナウンスしている。
 
@@ -33,7 +33,7 @@
 ## 関連項目
 
   - [Roots Presents マリーに聞いてゴー\!](../Page/Roots_Presents_マリーに聞いてゴー!.md "wikilink")
-  - [Honda SWEET MISSION](https://ja.wikipedia.org/wiki/Honda_SWEET_MISSION "wikilink")
+  - [Honda SWEET MISSION](../Page/Honda_SWEET_MISSION.md "wikilink")
   - [SUZUKI Future Navi](https://ja.wikipedia.org/wiki/SUZUKI_Future_Navi "wikilink")
 
 [Category:2007年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のラジオ番組_\(日本\) "wikilink") [Category:TOKYO_FMの番組の歴史](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの番組の歴史 "wikilink") [Category:JFN系のラジオドラマ](https://ja.wikipedia.org/wiki/Category:JFN系のラジオドラマ "wikilink") [Category:JFN系ラジオの一社提供番組](https://ja.wikipedia.org/wiki/Category:JFN系ラジオの一社提供番組 "wikilink") [Category:スズキ一社提供番組](https://ja.wikipedia.org/wiki/Category:スズキ一社提供番組 "wikilink")

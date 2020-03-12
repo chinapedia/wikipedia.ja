@@ -1,13 +1,13 @@
 > この記事は[Windows Media](https://ja.wikipedia.org/wiki/Windows_Media)から翻訳されています。
 
 
-**Windows Mediaメタファイル** (Windows Media Metafile) は、[Windows Media Player](https://ja.wikipedia.org/wiki/Windows_Media_Player "wikilink") (WMP) 用の[ストリーミング](../Page/ストリーミング.md "wikilink")・[メディア](../Page/メディア.md "wikilink")・[メタファイル](https://ja.wikipedia.org/wiki/メタファイル "wikilink")。
+**Windows Mediaメタファイル** (Windows Media Metafile) は、[Windows Media Player](../Page/Windows_Media_Player.md "wikilink") (WMP) 用の[ストリーミング](../Page/ストリーミング.md "wikilink")・[メディア](../Page/メディア.md "wikilink")・[メタファイル](../Page/メタファイル.md "wikilink")。
 
 ## 内容
 
-[ASF](https://ja.wikipedia.org/wiki/Advanced_Systems_Format "wikilink")、[WMA](https://ja.wikipedia.org/wiki/Windows_Media_Audio "wikilink")、[WMVなど](https://ja.wikipedia.org/wiki/Windows_Media_Video "wikilink")[メディアファイル](https://ja.wikipedia.org/wiki/メディアファイル "wikilink")（[音声ファイル](https://ja.wikipedia.org/wiki/音声ファイル "wikilink")、[動画ファイル](https://ja.wikipedia.org/wiki/動画ファイル "wikilink")）の[URLが](../Page/Uniform_Resource_Locator.md "wikilink")、[XMLで記述されている](../Page/Extensible_Markup_Language.md "wikilink")。URLは複数記述することができ、順に再生されたり、条件選択されたりする。
+[ASF](../Page/Advanced_Systems_Format.md "wikilink")、[WMA](../Page/Windows_Media_Audio.md "wikilink")、[WMVなど](../Page/Windows_Media_Video.md "wikilink")[メディアファイル](https://ja.wikipedia.org/wiki/メディアファイル "wikilink")（[音声ファイル](https://ja.wikipedia.org/wiki/音声ファイル "wikilink")、[動画ファイル](https://ja.wikipedia.org/wiki/動画ファイル "wikilink")）の[URLが](../Page/Uniform_Resource_Locator.md "wikilink")、[XMLで記述されている](../Page/Extensible_Markup_Language.md "wikilink")。URLは複数記述することができ、順に再生されたり、条件選択されたりする。
 
-メディアファイルのURL以外に、再生制御のための情報、[ウェブページ](../Page/ウェブページ.md "wikilink")のURL、[著作権](../Page/著作権.md "wikilink")情報、タイトルなど[テキスト情報](https://ja.wikipedia.org/wiki/テキストファイル "wikilink")、[バナー](../Page/バナー.md "wikilink")や[アイコン](../Page/アイコン.md "wikilink")（メタデータではなく実体）などを記述することができる。
+メディアファイルのURL以外に、再生制御のための情報、[ウェブページ](../Page/ウェブページ.md "wikilink")のURL、[著作権](../Page/著作権.md "wikilink")情報、タイトルなど[テキスト情報](../Page/テキストファイル.md "wikilink")、[バナー](../Page/バナー.md "wikilink")や[アイコン](../Page/アイコン.md "wikilink")（メタデータではなく実体）などを記述することができる。
 
 ## 用途
 

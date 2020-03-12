@@ -1,7 +1,7 @@
 > この記事は[Guts10!!](https://ja.wikipedia.org/wiki/Guts10!!)から翻訳されています。
 
 
-'''音楽ガッタスのGuts10☆ガッタス\!\! '''は、[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")の[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")[チーム](https://ja.wikipedia.org/wiki/チーム "wikilink")「[Gatas Brilhantes H.P.](https://ja.wikipedia.org/wiki/Gatas_Brilhantes_H.P. "wikilink")」メンバーで構成される[ユニット](https://ja.wikipedia.org/wiki/ユニット "wikilink")「[音楽ガッタス](../Page/音楽ガッタス.md "wikilink")」が[パーソナリティを務めた](../Page/ラジオパーソナリティ.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[CBCラジオ](../Page/CBCラジオ.md "wikilink")で[ハイパーナイト](../Page/ハイパーナイト.md "wikilink")枠の月曜2部24:00～25:00に放送（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")放送回より）。番組開始は、[2007年](../Page/2007年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")。[里田まい](https://ja.wikipedia.org/wiki/里田まい "wikilink")と他の音楽ガッタスメンバー1名（週代わり）の2名で放送していた。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月24日](../Page/3月24日.md "wikilink")の放送回までは月曜1部23:30～24:00の放送だった。 [2009年](../Page/2009年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")をもって放送終了。
+'''音楽ガッタスのGuts10☆ガッタス\!\! '''は、[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")の[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")[チーム](../Page/チーム.md "wikilink")「[Gatas Brilhantes H.P.](../Page/Gatas_Brilhantes_H.P..md "wikilink")」メンバーで構成される[ユニット](../Page/ユニット.md "wikilink")「[音楽ガッタス](../Page/音楽ガッタス.md "wikilink")」が[パーソナリティを務めた](../Page/ラジオパーソナリティ.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[CBCラジオ](../Page/CBCラジオ.md "wikilink")で[ハイパーナイト](../Page/ハイパーナイト.md "wikilink")枠の月曜2部24:00～25:00に放送（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")放送回より）。番組開始は、[2007年](../Page/2007年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")。[里田まい](https://ja.wikipedia.org/wiki/里田まい "wikilink")と他の音楽ガッタスメンバー1名（週代わり）の2名で放送していた。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月24日](../Page/3月24日.md "wikilink")の放送回までは月曜1部23:30～24:00の放送だった。 [2009年](../Page/2009年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")をもって放送終了。
 
 ## 主なコーナー
 
@@ -19,7 +19,7 @@
 <!-- end list -->
 
   -
-    自慢や豪語できるネタを募集し、メンバーとリスナーが対決。メンバーが負けたら[罰ゲーム](https://ja.wikipedia.org/wiki/罰ゲーム "wikilink")を行うコーナー。
+    自慢や豪語できるネタを募集し、メンバーとリスナーが対決。メンバーが負けたら[罰ゲーム](../Page/罰ゲーム.md "wikilink")を行うコーナー。
 
 <!-- end list -->
 
@@ -192,108 +192,108 @@
 
 ### まいBOOK
 
-|                                                               | あいまいWord                                                  | 里田まいの解釈 |
-| ------------------------------------------------------------- | --------------------------------------------------------- | ------- |
-| あ                                                             | [アール・ヌーヴォー](../Page/アール・ヌーヴォー.md "wikilink")              | 全裸      |
-| [アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")         | かわいい人形                                                    |         |
-| [天下り](../Page/天下り.md "wikilink")                              | 軽い下り                                                      |         |
-| い                                                             | [石川梨華](https://ja.wikipedia.org/wiki/石川梨華 "wikilink")     | 主婦の集まり  |
-| 井の中の蛙                                                         | 命の中の三途の川を渡らなかった                                           |         |
-| [インサイダー](https://ja.wikipedia.org/wiki/インサイダー "wikilink")     | 刺激が強いダー                                                   |         |
-| う                                                             | [うだつ](https://ja.wikipedia.org/wiki/うだつ "wikilink")       | エレベーター  |
-| 海千山千                                                          | うみませんやみません、どっちなの？                                         |         |
-| うさちゃんピース                                                      | 梨華ちゃんへの最大の防御                                              |         |
-| え                                                             | [エンゲル係数](https://ja.wikipedia.org/wiki/エンゲル係数 "wikilink") | 2700kg  |
-| [エルニーニョ現象](https://ja.wikipedia.org/wiki/エルニーニョ現象 "wikilink") | ロナウジーニョの弟がコーヒーを引いている                                      |         |
-| エキゾチック                                                        | 駅までトクトク歩いていくぞ                                             |         |
-|                                                               |                                                           |         |
+|                                                               | あいまいWord                                              | 里田まいの解釈 |
+| ------------------------------------------------------------- | ----------------------------------------------------- | ------- |
+| あ                                                             | [アール・ヌーヴォー](../Page/アール・ヌーヴォー.md "wikilink")          | 全裸      |
+| [アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")         | かわいい人形                                                |         |
+| [天下り](../Page/天下り.md "wikilink")                              | 軽い下り                                                  |         |
+| い                                                             | [石川梨華](https://ja.wikipedia.org/wiki/石川梨華 "wikilink") | 主婦の集まり  |
+| 井の中の蛙                                                         | 命の中の三途の川を渡らなかった                                       |         |
+| [インサイダー](https://ja.wikipedia.org/wiki/インサイダー "wikilink")     | 刺激が強いダー                                               |         |
+| う                                                             | [うだつ](../Page/うだつ.md "wikilink")                      | エレベーター  |
+| 海千山千                                                          | うみませんやみません、どっちなの？                                     |         |
+| うさちゃんピース                                                      | 梨華ちゃんへの最大の防御                                          |         |
+| え                                                             | [エンゲル係数](../Page/エンゲル係数.md "wikilink")                | 2700kg  |
+| [エルニーニョ現象](https://ja.wikipedia.org/wiki/エルニーニョ現象 "wikilink") | ロナウジーニョの弟がコーヒーを引いている                                  |         |
+| エキゾチック                                                        | 駅までトクトク歩いていくぞ                                         |         |
+|                                                               |                                                       |         |
 
 ## パーソナリティ
 
-| 放送回数 | 放送日                                                       | パーソナリティ                                                                                                          |
-| ---- | --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| 1回目  | [10月1日](../Page/10月1日.md "wikilink")                      | 里田まい、[吉澤ひとみ](../Page/吉澤ひとみ.md "wikilink")                                                                        |
-| 2回目  | [10月8日](../Page/10月8日.md "wikilink")                      | 里田まい、吉澤ひとみ                                                                                                       |
-| 3回目  | [10月15日](../Page/10月15日.md "wikilink")                    | 里田まい、吉澤ひとみ                                                                                                       |
-| 4回目  | [10月22日](../Page/10月22日.md "wikilink")                    | 里田まい、吉澤ひとみ                                                                                                       |
-| 5回目  | [10月29日](../Page/10月29日.md "wikilink")                    | 里田まい、吉澤ひとみ                                                                                                       |
-| 6回目  | [11月5日](../Page/11月5日.md "wikilink")                      | 里田まい、吉澤ひとみ                                                                                                       |
-| 7回目  | [11月12日](../Page/11月12日.md "wikilink")                    | 里田まい、[石川梨華](https://ja.wikipedia.org/wiki/石川梨華 "wikilink")                                                       |
-| 8回目  | [11月19日](../Page/11月19日.md "wikilink")                    | 里田まい、石川梨華                                                                                                        |
-| 9回目  | [11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink") | 里田まい、石川梨華                                                                                                        |
-| 10回目 | [12月3日](../Page/12月3日.md "wikilink")                      | 里田まい、石川梨華                                                                                                        |
-| 11回目 | [12月10日](https://ja.wikipedia.org/wiki/12月10日 "wikilink") | 里田まい、石川梨華                                                                                                        |
-| 12回目 | [12月17日](../Page/12月17日.md "wikilink")                    | 里田まい、石川梨華                                                                                                        |
-| 13回目 | [12月24日](../Page/12月24日.md "wikilink")                    | 里田まい、石川梨華                                                                                                        |
-| 14回目 | [12月31日](../Page/12月31日.md "wikilink")                    | 里田まい、[紺野あさ美](../Page/紺野あさ美.md "wikilink")                                                                        |
-| 15回目 | [1月7日](../Page/1月7日.md "wikilink")                        | 里田まい、紺野あさ美                                                                                                       |
-| 16回目 | [1月14日](../Page/1月14日.md "wikilink")                      | 里田まい、紺野あさ美                                                                                                       |
-| 17回目 | [1月21日](../Page/1月21日.md "wikilink")                      | 里田まい、[是永美記](https://ja.wikipedia.org/wiki/是永美記 "wikilink")、[能登有沙](https://ja.wikipedia.org/wiki/能登有沙 "wikilink") |
-| 18回目 | [1月28日](../Page/1月28日.md "wikilink")                      | 里田まい、是永美記、能登有沙                                                                                                   |
-| 19回目 | [2月4日](../Page/2月4日.md "wikilink")                        | 里田まい、吉澤ひとみ                                                                                                       |
-| 20回目 | [2月11日](../Page/2月11日.md "wikilink")                      | 里田まい、吉澤ひとみ                                                                                                       |
-| 21回目 | [2月18日](../Page/2月18日.md "wikilink")                      | 里田まい、紺野あさ美                                                                                                       |
-| 22回目 | [2月25日](../Page/2月25日.md "wikilink")                      | 里田まい、紺野あさ美                                                                                                       |
-| 23回目 | [3月3日](../Page/3月3日.md "wikilink")                        | 里田まい、石川梨華                                                                                                        |
-| 24回目 | [3月10日](../Page/3月10日.md "wikilink")                      | 里田まい、石川梨華                                                                                                        |
-| 25回目 | [3月17日](../Page/3月17日.md "wikilink")                      | 里田まい、澤田由梨、武藤水華                                                                                                   |
-| 26回目 | [3月24日](../Page/3月24日.md "wikilink")                      | 里田まい、澤田由梨、武藤水華                                                                                                   |
-| 27回目 | [3月31日](../Page/3月31日.md "wikilink")                      | 里田まい、是永美記、仙石みなみ                                                                                                  |
-| 28回目 | [4月7日](../Page/4月7日.md "wikilink")                        | 里田まい、是永美記、仙石みなみ                                                                                                  |
-| 29回目 | [4月14日](../Page/4月14日.md "wikilink")                      | 里田まい、紺野あさ美                                                                                                       |
-| 30回目 | [4月21日](../Page/4月21日.md "wikilink")                      | 里田まい、紺野あさ美                                                                                                       |
-| 31回目 | [4月28日](../Page/4月28日.md "wikilink")                      | 里田まい、吉澤ひとみ                                                                                                       |
-| 32回目 | [5月5日](../Page/5月5日.md "wikilink")                        | 里田まい、吉澤ひとみ                                                                                                       |
-| 33回目 | [5月12日](../Page/5月12日.md "wikilink")                      | 里田まい、石川梨華                                                                                                        |
-| 34回目 | [5月19日](../Page/5月19日.md "wikilink")                      | 里田まい、石川梨華                                                                                                        |
-| 35回目 | [5月26日](../Page/5月26日.md "wikilink")                      | 里田まい、是永美記、仙石みなみ                                                                                                  |
-| 36回目 | [6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")     | 里田まい、是永美記、仙石みなみ                                                                                                  |
-| 37回目 | [6月9日](../Page/6月9日.md "wikilink")                        | 里田まい、吉澤ひとみ、是永美記                                                                                                  |
-| 38回目 | [6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink")   | 里田まい、吉澤ひとみ、是永美記                                                                                                  |
-| 39回目 | [6月23日](../Page/6月23日.md "wikilink")                      | 里田まい、是永美記、能登有沙                                                                                                   |
-| 40回目 | [6月30日](../Page/6月30日.md "wikilink")                      | 里田まい、是永美記、能登有沙                                                                                                   |
-| 41回目 | [7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")     | 里田まい、石川梨華                                                                                                        |
-| 42回目 | [7月14日](../Page/7月14日.md "wikilink")                      | 里田まい、石川梨華                                                                                                        |
-| 43回目 | [7月21日](../Page/7月21日.md "wikilink")                      | 里田まい、吉澤ひとみ                                                                                                       |
-| 44回目 | [7月28日](../Page/7月28日.md "wikilink")                      | 里田まい、吉澤ひとみ                                                                                                       |
-| 45回目 | [8月4日](../Page/8月4日.md "wikilink")                        | 里田まい、石川梨華、是永美記                                                                                                   |
-| 46回目 | [8月11日](../Page/8月11日.md "wikilink")                      | 里田まい、石川梨華、是永美記                                                                                                   |
-| 47回目 | [8月18日](../Page/8月18日.md "wikilink")                      | 里田まい、紺野あさ美                                                                                                       |
-| 48回目 | [8月25日](../Page/8月25日.md "wikilink")                      | 里田まい、紺野あさ美                                                                                                       |
-| 49回目 | [9月1日](../Page/9月1日.md "wikilink")                        | 里田まい、是永美記、仙石みなみ                                                                                                  |
-| 50回目 | [9月8日](https://ja.wikipedia.org/wiki/9月8日 "wikilink")     | 里田まい、是永美記、仙石みなみ                                                                                                  |
-| 51回目 | [9月15日](../Page/9月15日.md "wikilink")                      | 里田まい、紺野あさ美                                                                                                       |
-| 52回目 | [9月22日](../Page/9月22日.md "wikilink")                      | 里田まい、紺野あさ美                                                                                                       |
-| 53回目 | [9月29日](../Page/9月29日.md "wikilink")                      | 里田まい、石川梨華                                                                                                        |
-| 54回目 | [10月6日](../Page/10月6日.md "wikilink")                      | 里田まい、石川梨華                                                                                                        |
-| 55回目 | [10月13日](https://ja.wikipedia.org/wiki/10月13日 "wikilink") | 是永美記、能登有沙、仙石みなみ、澤田由梨                                                                                             |
-| 56回目 | [10月20日](../Page/10月20日.md "wikilink")                    | 是永美記、能登有沙、仙石みなみ、澤田由梨                                                                                             |
-| 57回目 | [10月27日](https://ja.wikipedia.org/wiki/10月27日 "wikilink") | 里田まい、吉澤ひとみ                                                                                                       |
-| 58回目 | [11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")   | 里田まい、吉澤ひとみ                                                                                                       |
-| 59回目 | [11月10日](../Page/11月10日.md "wikilink")                    | 紺野あさ美、是永美記、澤田由梨                                                                                                  |
-| 60回目 | [11月17日](../Page/11月17日.md "wikilink")                    | 紺野あさ美、是永美記、澤田由梨                                                                                                  |
-| 61回目 | [11月24日](../Page/11月24日.md "wikilink")                    | 里田まい、是永美記                                                                                                        |
-| 62回目 | [12月1日](../Page/12月1日.md "wikilink")                      | 里田まい、是永美記                                                                                                        |
-| 63回目 | [12月8日](../Page/12月8日.md "wikilink")                      | 是永美記、能登有沙、仙石みなみ、澤田由梨                                                                                             |
-| 64回目 | [12月15日](../Page/12月15日.md "wikilink")                    | 是永美記、能登有沙、仙石みなみ、澤田由梨                                                                                             |
-| 65回目 | [12月22日](../Page/12月22日.md "wikilink")                    | 里田まい、是永美記                                                                                                        |
-| 66回目 | [12月29日](https://ja.wikipedia.org/wiki/12月29日 "wikilink") | 里田まい、是永美記                                                                                                        |
-| 67回目 | [1月5日](../Page/1月5日.md "wikilink")                        | 吉澤ひとみ、紺野あさ美、仙石みなみ、澤田由梨                                                                                           |
-| 68回目 | [1月12日](../Page/1月12日.md "wikilink")                      | 吉澤ひとみ、紺野あさ美、仙石みなみ、澤田由梨                                                                                           |
-| 69回目 | [1月19日](../Page/1月19日.md "wikilink")                      | 是永美記、能登有沙、仙石みなみ、澤田由梨                                                                                             |
-| 70回目 | [1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")   | 是永美記、能登有沙、仙石みなみ、澤田由梨                                                                                             |
-| 71回目 | [3月2日](../Page/3月2日.md "wikilink")                        | 里田まい、石川梨華                                                                                                        |
-| 72回目 | [3月9日](../Page/3月9日.md "wikilink")                        | 里田まい、石川梨華                                                                                                        |
-| 73回目 | [3月16日](../Page/3月16日.md "wikilink")                      | 紺野あさ美、仙石みなみ、澤田由梨                                                                                                 |
-| 74回目 | [3月23日](../Page/3月23日.md "wikilink")                      | 紺野あさ美、仙石みなみ、澤田由梨                                                                                                 |
-| 最終回  | [3月30日](../Page/3月30日.md "wikilink")                      | 里田まい、吉澤ひとみ、石川梨華、紺野あさ美                                                                                            |
+| 放送回数 | 放送日                                                       | パーソナリティ                                                                    |
+| ---- | --------------------------------------------------------- | -------------------------------------------------------------------------- |
+| 1回目  | [10月1日](../Page/10月1日.md "wikilink")                      | 里田まい、[吉澤ひとみ](../Page/吉澤ひとみ.md "wikilink")                                  |
+| 2回目  | [10月8日](../Page/10月8日.md "wikilink")                      | 里田まい、吉澤ひとみ                                                                 |
+| 3回目  | [10月15日](../Page/10月15日.md "wikilink")                    | 里田まい、吉澤ひとみ                                                                 |
+| 4回目  | [10月22日](../Page/10月22日.md "wikilink")                    | 里田まい、吉澤ひとみ                                                                 |
+| 5回目  | [10月29日](../Page/10月29日.md "wikilink")                    | 里田まい、吉澤ひとみ                                                                 |
+| 6回目  | [11月5日](../Page/11月5日.md "wikilink")                      | 里田まい、吉澤ひとみ                                                                 |
+| 7回目  | [11月12日](../Page/11月12日.md "wikilink")                    | 里田まい、[石川梨華](https://ja.wikipedia.org/wiki/石川梨華 "wikilink")                 |
+| 8回目  | [11月19日](../Page/11月19日.md "wikilink")                    | 里田まい、石川梨華                                                                  |
+| 9回目  | [11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink") | 里田まい、石川梨華                                                                  |
+| 10回目 | [12月3日](../Page/12月3日.md "wikilink")                      | 里田まい、石川梨華                                                                  |
+| 11回目 | [12月10日](../Page/12月10日.md "wikilink")                    | 里田まい、石川梨華                                                                  |
+| 12回目 | [12月17日](../Page/12月17日.md "wikilink")                    | 里田まい、石川梨華                                                                  |
+| 13回目 | [12月24日](../Page/12月24日.md "wikilink")                    | 里田まい、石川梨華                                                                  |
+| 14回目 | [12月31日](../Page/12月31日.md "wikilink")                    | 里田まい、[紺野あさ美](../Page/紺野あさ美.md "wikilink")                                  |
+| 15回目 | [1月7日](../Page/1月7日.md "wikilink")                        | 里田まい、紺野あさ美                                                                 |
+| 16回目 | [1月14日](../Page/1月14日.md "wikilink")                      | 里田まい、紺野あさ美                                                                 |
+| 17回目 | [1月21日](../Page/1月21日.md "wikilink")                      | 里田まい、[是永美記](../Page/是永美記.md "wikilink")、[能登有沙](../Page/能登有沙.md "wikilink") |
+| 18回目 | [1月28日](../Page/1月28日.md "wikilink")                      | 里田まい、是永美記、能登有沙                                                             |
+| 19回目 | [2月4日](../Page/2月4日.md "wikilink")                        | 里田まい、吉澤ひとみ                                                                 |
+| 20回目 | [2月11日](../Page/2月11日.md "wikilink")                      | 里田まい、吉澤ひとみ                                                                 |
+| 21回目 | [2月18日](../Page/2月18日.md "wikilink")                      | 里田まい、紺野あさ美                                                                 |
+| 22回目 | [2月25日](../Page/2月25日.md "wikilink")                      | 里田まい、紺野あさ美                                                                 |
+| 23回目 | [3月3日](../Page/3月3日.md "wikilink")                        | 里田まい、石川梨華                                                                  |
+| 24回目 | [3月10日](../Page/3月10日.md "wikilink")                      | 里田まい、石川梨華                                                                  |
+| 25回目 | [3月17日](../Page/3月17日.md "wikilink")                      | 里田まい、澤田由梨、武藤水華                                                             |
+| 26回目 | [3月24日](../Page/3月24日.md "wikilink")                      | 里田まい、澤田由梨、武藤水華                                                             |
+| 27回目 | [3月31日](../Page/3月31日.md "wikilink")                      | 里田まい、是永美記、仙石みなみ                                                            |
+| 28回目 | [4月7日](../Page/4月7日.md "wikilink")                        | 里田まい、是永美記、仙石みなみ                                                            |
+| 29回目 | [4月14日](../Page/4月14日.md "wikilink")                      | 里田まい、紺野あさ美                                                                 |
+| 30回目 | [4月21日](../Page/4月21日.md "wikilink")                      | 里田まい、紺野あさ美                                                                 |
+| 31回目 | [4月28日](../Page/4月28日.md "wikilink")                      | 里田まい、吉澤ひとみ                                                                 |
+| 32回目 | [5月5日](../Page/5月5日.md "wikilink")                        | 里田まい、吉澤ひとみ                                                                 |
+| 33回目 | [5月12日](../Page/5月12日.md "wikilink")                      | 里田まい、石川梨華                                                                  |
+| 34回目 | [5月19日](../Page/5月19日.md "wikilink")                      | 里田まい、石川梨華                                                                  |
+| 35回目 | [5月26日](../Page/5月26日.md "wikilink")                      | 里田まい、是永美記、仙石みなみ                                                            |
+| 36回目 | [6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")     | 里田まい、是永美記、仙石みなみ                                                            |
+| 37回目 | [6月9日](../Page/6月9日.md "wikilink")                        | 里田まい、吉澤ひとみ、是永美記                                                            |
+| 38回目 | [6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink")   | 里田まい、吉澤ひとみ、是永美記                                                            |
+| 39回目 | [6月23日](../Page/6月23日.md "wikilink")                      | 里田まい、是永美記、能登有沙                                                             |
+| 40回目 | [6月30日](../Page/6月30日.md "wikilink")                      | 里田まい、是永美記、能登有沙                                                             |
+| 41回目 | [7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")     | 里田まい、石川梨華                                                                  |
+| 42回目 | [7月14日](../Page/7月14日.md "wikilink")                      | 里田まい、石川梨華                                                                  |
+| 43回目 | [7月21日](../Page/7月21日.md "wikilink")                      | 里田まい、吉澤ひとみ                                                                 |
+| 44回目 | [7月28日](../Page/7月28日.md "wikilink")                      | 里田まい、吉澤ひとみ                                                                 |
+| 45回目 | [8月4日](../Page/8月4日.md "wikilink")                        | 里田まい、石川梨華、是永美記                                                             |
+| 46回目 | [8月11日](../Page/8月11日.md "wikilink")                      | 里田まい、石川梨華、是永美記                                                             |
+| 47回目 | [8月18日](../Page/8月18日.md "wikilink")                      | 里田まい、紺野あさ美                                                                 |
+| 48回目 | [8月25日](../Page/8月25日.md "wikilink")                      | 里田まい、紺野あさ美                                                                 |
+| 49回目 | [9月1日](../Page/9月1日.md "wikilink")                        | 里田まい、是永美記、仙石みなみ                                                            |
+| 50回目 | [9月8日](../Page/9月8日.md "wikilink")                        | 里田まい、是永美記、仙石みなみ                                                            |
+| 51回目 | [9月15日](../Page/9月15日.md "wikilink")                      | 里田まい、紺野あさ美                                                                 |
+| 52回目 | [9月22日](../Page/9月22日.md "wikilink")                      | 里田まい、紺野あさ美                                                                 |
+| 53回目 | [9月29日](../Page/9月29日.md "wikilink")                      | 里田まい、石川梨華                                                                  |
+| 54回目 | [10月6日](../Page/10月6日.md "wikilink")                      | 里田まい、石川梨華                                                                  |
+| 55回目 | [10月13日](../Page/10月13日.md "wikilink")                    | 是永美記、能登有沙、仙石みなみ、澤田由梨                                                       |
+| 56回目 | [10月20日](../Page/10月20日.md "wikilink")                    | 是永美記、能登有沙、仙石みなみ、澤田由梨                                                       |
+| 57回目 | [10月27日](../Page/10月27日.md "wikilink")                    | 里田まい、吉澤ひとみ                                                                 |
+| 58回目 | [11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")   | 里田まい、吉澤ひとみ                                                                 |
+| 59回目 | [11月10日](../Page/11月10日.md "wikilink")                    | 紺野あさ美、是永美記、澤田由梨                                                            |
+| 60回目 | [11月17日](../Page/11月17日.md "wikilink")                    | 紺野あさ美、是永美記、澤田由梨                                                            |
+| 61回目 | [11月24日](../Page/11月24日.md "wikilink")                    | 里田まい、是永美記                                                                  |
+| 62回目 | [12月1日](../Page/12月1日.md "wikilink")                      | 里田まい、是永美記                                                                  |
+| 63回目 | [12月8日](../Page/12月8日.md "wikilink")                      | 是永美記、能登有沙、仙石みなみ、澤田由梨                                                       |
+| 64回目 | [12月15日](../Page/12月15日.md "wikilink")                    | 是永美記、能登有沙、仙石みなみ、澤田由梨                                                       |
+| 65回目 | [12月22日](../Page/12月22日.md "wikilink")                    | 里田まい、是永美記                                                                  |
+| 66回目 | [12月29日](../Page/12月29日.md "wikilink")                    | 里田まい、是永美記                                                                  |
+| 67回目 | [1月5日](../Page/1月5日.md "wikilink")                        | 吉澤ひとみ、紺野あさ美、仙石みなみ、澤田由梨                                                     |
+| 68回目 | [1月12日](../Page/1月12日.md "wikilink")                      | 吉澤ひとみ、紺野あさ美、仙石みなみ、澤田由梨                                                     |
+| 69回目 | [1月19日](../Page/1月19日.md "wikilink")                      | 是永美記、能登有沙、仙石みなみ、澤田由梨                                                       |
+| 70回目 | [1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")   | 是永美記、能登有沙、仙石みなみ、澤田由梨                                                       |
+| 71回目 | [3月2日](../Page/3月2日.md "wikilink")                        | 里田まい、石川梨華                                                                  |
+| 72回目 | [3月9日](../Page/3月9日.md "wikilink")                        | 里田まい、石川梨華                                                                  |
+| 73回目 | [3月16日](../Page/3月16日.md "wikilink")                      | 紺野あさ美、仙石みなみ、澤田由梨                                                           |
+| 74回目 | [3月23日](../Page/3月23日.md "wikilink")                      | 紺野あさ美、仙石みなみ、澤田由梨                                                           |
+| 最終回  | [3月30日](../Page/3月30日.md "wikilink")                      | 里田まい、吉澤ひとみ、石川梨華、紺野あさ美                                                      |
 
 ## 関連項目
 
   - [よろしくヨッスィー](https://ja.wikipedia.org/wiki/よろしくヨッスィー "wikilink")（2001年から2004年にかけて吉澤が出ていた番組で、[CBCラジオ](../Page/CBCラジオ.md "wikilink")ではそれ以来3年半ぶりのレギュラー番組）
-  - [Gatas Brilhantes H.P.](https://ja.wikipedia.org/wiki/Gatas_Brilhantes_H.P. "wikilink")
-  - [モーニング娘。道重さゆみの今夜も♥うさちゃんピース](https://ja.wikipedia.org/wiki/モーニング娘。道重さゆみの今夜もうさちゃんピース "wikilink")
-  - [藤本美貴のドキ♥みきNight](https://ja.wikipedia.org/wiki/藤本美貴のドキみきNight "wikilink")
+  - [Gatas Brilhantes H.P.](../Page/Gatas_Brilhantes_H.P..md "wikilink")
+  - [モーニング娘。道重さゆみの今夜も♥うさちゃんピース](../Page/モーニング娘。道重さゆみの今夜もうさちゃんピース.md "wikilink")
+  - [藤本美貴のドキ♥みきNight](../Page/藤本美貴のドキみきNight.md "wikilink")
 
 ## 外部リンク
 

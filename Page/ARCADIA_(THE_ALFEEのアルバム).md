@@ -8,7 +8,7 @@
 
 1.  **Arcadia**
       -
-        [1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")の[大阪国際女子マラソン](https://ja.wikipedia.org/wiki/大阪国際女子マラソン "wikilink")イメージソング
+        [1991年](../Page/1991年.md "wikilink")の[大阪国際女子マラソン](../Page/大阪国際女子マラソン.md "wikilink")イメージソング
 2.  **Masquerade Love**
       -
         レコーディングでは、[タブラ](https://ja.wikipedia.org/wiki/タブラ "wikilink")が使用されている。
@@ -22,7 +22,7 @@
         坂崎はライヴでは、[ガットギター](https://ja.wikipedia.org/wiki/ガットギター "wikilink")をスタンドギターで弾き、更には[パーカッション](../Page/パーカッション.md "wikilink")を演奏しているが、PVでは[リュートギター](https://ja.wikipedia.org/wiki/リュートギター "wikilink")と[ドラムを演奏している](../Page/ドラムセット.md "wikilink")。
 6.  **流砂のように**
       -
-        アルバムリリース当時のライブではエンディング部分で、[キング・クリムゾン](../Page/キング・クリムゾン.md "wikilink")の「[21世紀のスキッツォイド・マン](https://ja.wikipedia.org/wiki/21世紀のスキッツォイド・マン "wikilink")」のイントロ部分が演奏された。
+        アルバムリリース当時のライブではエンディング部分で、[キング・クリムゾン](../Page/キング・クリムゾン.md "wikilink")の「[21世紀のスキッツォイド・マン](../Page/21世紀のスキッツォイド・マン.md "wikilink")」のイントロ部分が演奏された。
 7.  **Funky Dog\!**
       -
         高見沢がつけた仮タイトルが、そのまま曲名となっている。
@@ -33,14 +33,14 @@
         CDでは主に桜井がリードボーカルを担当しているが(終盤の一部分は高見沢が担当)、レコーディングされる前は高見沢が担当であった。
 9.  **Shadow of Kingdom**
       -
-        ゲーム『[シャドウブレイン](https://ja.wikipedia.org/wiki/シャドウブレイン "wikilink")』のテーマ
+        ゲーム『[シャドウブレイン](../Page/シャドウブレイン.md "wikilink")』のテーマ
         [2014年](../Page/2014年.md "wikilink")リリースのセルフカバーアルバム『[Alfee Get Requests\! 2](https://ja.wikipedia.org/wiki/Alfee_Get_Requests!_2 "wikilink")』に、新録音源が収録された。
 10. **Mind Revolution**
 11. **On The Border**
       -
         「Mind Revolution」から無音部分無しでそのまま始まる。後述の「Flower Revolution」と合わせメドレー形式であるとも言える。
         [1989年](../Page/1989年.md "wikilink")夏の朝霞での野外イベントで初披露された曲をCD化。イベント前日まで歌詞を書いていたとのこと(高見沢談)。
-        ライヴでは、「[平和について](https://ja.wikipedia.org/wiki/Going_My_Way "wikilink")」や[Peter, Paul and Mary(PPM)の](https://ja.wikipedia.org/wiki/ピーター・ポール&マリー "wikilink")「[悲惨な戦争](https://ja.wikipedia.org/wiki/悲惨な戦争 "wikilink") (The Cruel War)」が前置きで演奏されることがある。
+        ライヴでは、「[平和について](../Page/Going_My_Way.md "wikilink")」や[Peter, Paul and Mary(PPM)の](../Page/ピーター・ポール&マリー.md "wikilink")「[悲惨な戦争](https://ja.wikipedia.org/wiki/悲惨な戦争 "wikilink") (The Cruel War)」が前置きで演奏されることがある。
 12. **[Flower Revolution (Slash Mix)](../Page/FLOWER_REVOLUTION.md "wikilink")**
       -
         「On The Border」のアウトロを引き継ぐ形で曲が始まる。同年のシングルタイトル曲をアレンジしたもの。

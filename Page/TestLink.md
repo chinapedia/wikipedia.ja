@@ -41,9 +41,9 @@
 
 ## 関連項目
 
-  - [ソフトウェアテスト](https://ja.wikipedia.org/wiki/ソフトウェアテスト "wikilink")
+  - [ソフトウェアテスト](../Page/ソフトウェアテスト.md "wikilink")
   - [テスト管理システム](https://ja.wikipedia.org/wiki/テスト管理システム "wikilink")
-  - [バグ管理システム](https://ja.wikipedia.org/wiki/バグ管理システム "wikilink")
+  - [バグ管理システム](../Page/バグ管理システム.md "wikilink")
   - [バージョン管理システム](../Page/バージョン管理システム.md "wikilink")
   - [Mantis](https://ja.wikipedia.org/wiki/Mantis "wikilink")
   - [Bugzilla](../Page/Bugzilla.md "wikilink")

@@ -1,7 +1,7 @@
 > この記事は[12RIVEN -the climinal of integral-](https://ja.wikipedia.org/wiki/12RIVEN_-the_climinal_of_integral-)から翻訳されています。
 
 
-『**12RIVEN -the Ψcliminal of integral-**』（トゥエルブリヴン・ザ・サイクリミナル・オブ・インテグラル）は、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月13日](../Page/3月13日.md "wikilink")に[サイバーフロント](https://ja.wikipedia.org/wiki/サイバーフロント "wikilink")より[PlayStation 2で発売された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")である。略して『**12RIVEN**』『**12R**』と呼ばれる。
+『**12RIVEN -the Ψcliminal of integral-**』（トゥエルブリヴン・ザ・サイクリミナル・オブ・インテグラル）は、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月13日](../Page/3月13日.md "wikilink")に[サイバーフロント](../Page/サイバーフロント.md "wikilink")より[PlayStation 2で発売された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")である。略して『**12RIVEN**』『**12R**』と呼ばれる。
 
 2008年[4月4日](../Page/4月4日.md "wikilink")に[Windows版が](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Amazon.co.jp](../Page/Amazon.co.jp.md "wikilink")で独占発売された。
 
@@ -9,7 +9,7 @@
 
 本作は『[Never7（infinity）](https://ja.wikipedia.org/wiki/infinity_\(ゲーム\) "wikilink")』、『[Ever17](https://ja.wikipedia.org/wiki/Ever17 "wikilink")』、『[Remember11](https://ja.wikipedia.org/wiki/Remember11 "wikilink")』の3作が発売されている「infinityシリーズ」に続く「integralシリーズ」第1弾という位置付けとなっている。しかし2011年に「infinityシリーズ」最新作『[code_18](https://ja.wikipedia.org/wiki/code_18 "wikilink")』が発売された一方で「integralシリーズ」の続編は未だ発表されていない。
 
-元々[KIDが開発していたが](../Page/KID_\(ゲームブランド\).md "wikilink")、2006年11月末に同社の自己破産、倒産により版権など全てを含め[サイバーフロント](https://ja.wikipedia.org/wiki/サイバーフロント "wikilink")へと継承されることになり、ゲーム開発が続行されたという経緯がある。原案・脚本監修は『[Memories Off](../Page/Memories_Off.md "wikilink")』や「Infinityシリーズ」の[打越鋼太郎が担当する](https://ja.wikipedia.org/wiki/槻潮鋼 "wikilink")。
+元々[KIDが開発していたが](../Page/KID_\(ゲームブランド\).md "wikilink")、2006年11月末に同社の自己破産、倒産により版権など全てを含め[サイバーフロント](../Page/サイバーフロント.md "wikilink")へと継承されることになり、ゲーム開発が続行されたという経緯がある。原案・脚本監修は『[Memories Off](../Page/Memories_Off.md "wikilink")』や「Infinityシリーズ」の[打越鋼太郎が担当する](https://ja.wikipedia.org/wiki/槻潮鋼 "wikilink")。
 
 通常版とは別にサウンドトラック同梱版（OP曲を含む、本編BGMオリジナルサウンドトラックCD2枚組と打越鋼太郎インタビュー掲載小冊子が同梱）も同時発売され、Windows版もPS2版のサウンドトラック同梱版と同じ物が同梱された。
 
@@ -40,10 +40,10 @@
 ### 主人公
 
   - 雅堂 錬丸（みやびどう れんまる）
-    [声](../Page/声優.md "wikilink")：[高橋直純](https://ja.wikipedia.org/wiki/高橋直純 "wikilink")（エピローグのみ）
+    [声](../Page/声優.md "wikilink")：[高橋直純](../Page/高橋直純.md "wikilink")（エピローグのみ）
     高校生。ミュウの幼馴染。普段はクールだが、いざというときは熱血漢。頭の回転も速い。インテグラルでの事件に巻き込まれ、ミュウと共に時の止まった世界へ迷い込む事となる。
   - 三嶋 鳴海（みしま なるみ）
-    声：[佐藤利奈](https://ja.wikipedia.org/wiki/佐藤利奈 "wikilink")（エピローグのみ）
+    声：[佐藤利奈](../Page/佐藤利奈.md "wikilink")（エピローグのみ）
     警視庁公安十二課所属。楽天的で男勝りな性格。一度見た物は忘れられない「サイクロペディア症候群（CPS）」の患者。真琴からのメールでインテグラルに呼び出され、そこでΨとその使い手・サイクリミナルの存在を知る。彼らの目論む「第弐エクリプス計画」を阻止するべく奔走する。
 
 ### メインキャラクター
@@ -55,7 +55,7 @@
 #### 錬丸サイド
 
   - 高江 ミュウ（たかえ -）
-    声：[野中藍](https://ja.wikipedia.org/wiki/野中藍 "wikilink")
+    声：[野中藍](../Page/野中藍.md "wikilink")
     本作のヒロイン。明るく無邪気な性格の女子高生。彼女自身もΨの能力を持っており、サイクリミナルに命を狙われている。
   - マイナ
     声：佐藤利奈
@@ -76,7 +76,7 @@
     声:[清水愛](../Page/清水愛.md "wikilink")
     理文学園第六高校所属。Ψの使い手。オメガの姉。
   - 雪積 真琴（ゆきづみ まこと）
-    声：[木川絵理子](https://ja.wikipedia.org/wiki/木川絵理子 "wikilink")
+    声：[木川絵理子](../Page/木川絵理子.md "wikilink")
     警視庁公安十二課所属。のほほんとした性格。鳴海に事件のメールを送った人物でもある。
   - 大手町（おおてまち）
     声：[諏訪部順一](../Page/諏訪部順一.md "wikilink")
@@ -94,12 +94,12 @@
   - キャラクターデザイン：[滝川悠](https://ja.wikipedia.org/wiki/滝川悠 "wikilink")、[bomi](https://ja.wikipedia.org/wiki/bomi "wikilink")
   - 背景美術：[さとう時子](https://ja.wikipedia.org/wiki/さとう時子 "wikilink")、他
   - 音楽：[阿保剛](../Page/阿保剛.md "wikilink")
-  - グラフィック総括：[株式会社5pb.](https://ja.wikipedia.org/wiki/5pb. "wikilink")
+  - グラフィック総括：[株式会社5pb.](../Page/5pb..md "wikilink")
 
 ## 主題歌
 
   - オープニングテーマ『third bridge』
-      - 作詞・作曲：[志倉千代丸](https://ja.wikipedia.org/wiki/志倉千代丸 "wikilink")、 編曲：[上野浩司](../Page/上野浩司.md "wikilink")、 歌：[KAORI.](../Page/KAORI..md "wikilink")
+      - 作詞・作曲：[志倉千代丸](../Page/志倉千代丸.md "wikilink")、 編曲：[上野浩司](../Page/上野浩司.md "wikilink")、 歌：[KAORI.](../Page/KAORI..md "wikilink")
   - エンディングテーマ『プロセス』
       - 作詞：[吉野麻希](https://ja.wikipedia.org/wiki/吉野麻希 "wikilink")、 作曲：[濱田智之](../Page/濱田智之.md "wikilink")、 編曲：[小池修也](https://ja.wikipedia.org/wiki/小池修也 "wikilink")、 歌：KAORI.
   - PSP版オープニングテーマ『[時のない世界](https://ja.wikipedia.org/wiki/You・I "wikilink")』

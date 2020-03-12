@@ -5,15 +5,15 @@
 
 ## 概要
 
-  - [2007年](../Page/2007年.md "wikilink")の[大阪国際女子マラソン](https://ja.wikipedia.org/wiki/大阪国際女子マラソン "wikilink")イメージソング。マラソンのイメージソングがシングルタイトル曲となったのは、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")の『[FLOWER REVOLUTION](../Page/FLOWER_REVOLUTION.md "wikilink")』以来17年ぶり2回目。また、マラソンのイメージソング以外にタイアップがない作品がシングルタイトル曲となったのは、今回が初めてである。
+  - [2007年](../Page/2007年.md "wikilink")の[大阪国際女子マラソン](../Page/大阪国際女子マラソン.md "wikilink")イメージソング。マラソンのイメージソングがシングルタイトル曲となったのは、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")の『[FLOWER REVOLUTION](../Page/FLOWER_REVOLUTION.md "wikilink")』以来17年ぶり2回目。また、マラソンのイメージソング以外にタイアップがない作品がシングルタイトル曲となったのは、今回が初めてである。
 
 <!-- end list -->
 
-  - 500円（税込）という異例の低価格で販売されたわずか3ヵ月後に、東芝EMIは[EMIミュージック・ジャパン](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")に社名変更され、その後に[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック "wikilink")の傘下となり事実上消滅する。
+  - 500円（税込）という異例の低価格で販売されたわずか3ヵ月後に、東芝EMIは[EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink")に社名変更され、その後に[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック "wikilink")の傘下となり事実上消滅する。
 
 ## 収録曲
 
-1.  **Dear My Life**（作詞・作曲：高見沢俊彦、編曲：THE ALFEE with [岸利至](https://ja.wikipedia.org/wiki/岸利至 "wikilink")）
+1.  **Dear My Life**（作詞・作曲：高見沢俊彦、編曲：THE ALFEE with [岸利至](../Page/岸利至.md "wikilink")）
 2.  **Dear My Life (Original Instrumental)**
 
 ## ジャケットとボーナストラック(\#3)の関係
@@ -23,7 +23,7 @@
   - [桜井ジャケット](../Page/桜井賢.md "wikilink")
       - **Dear My Life Acoustic Guitar Instrumental**
   - [坂崎ジャケット](../Page/坂崎幸之助.md "wikilink")
-      - **[夢よ急げ](https://ja.wikipedia.org/wiki/夢よ急げ "wikilink") Acoustic Guitar Instrumental**
+      - **[夢よ急げ](../Page/夢よ急げ.md "wikilink") Acoustic Guitar Instrumental**
   - [高見沢ジャケット](../Page/高見沢俊彦.md "wikilink")
       - **Dear My Life Original Instrumental with Electric Guitar Melody**
 

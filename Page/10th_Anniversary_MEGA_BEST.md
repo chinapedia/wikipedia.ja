@@ -10,7 +10,7 @@
   - DISC.1にはファンの人気投票にて選ばれた10曲と、2007年にリリースされた「[Systematic Fantasy](https://ja.wikipedia.org/wiki/Systematic_Fantasy/Good_Day_Good_Time "wikilink")」・「[Good Day Good Time](https://ja.wikipedia.org/wiki/Systematic_Fantasy/Good_Day_Good_Time "wikilink")」・「[SPEED MASTER](../Page/SPEED_MASTER.md "wikilink")」の3曲、 それまでにCD化されていなかった「Sugar Sugar Rain」、新曲の「Key Ring」が収録されている。
   - DISC.1の楽曲（新曲を除く）には、m.o.v.e監修の元リマスタリング処理が施されている。そのため、楽曲によってはかなり音質が変わっているものも存在する。
   - DISC.2にはファン投票にて選ばれなかった楽曲の中からメンバーが曲を選考し、メンバー自らがノンストップ・リミックスを施したものが収録されている。
-  - 初回版に付属されたDVDには、全シングル曲のショートバージョンのPVがノンストップ・ミックスで収録されており、「[10th Anniversary GIGA BEST](https://ja.wikipedia.org/wiki/10th_Anniversary_GIGA_BEST "wikilink")」との差別化が図られている。
+  - 初回版に付属されたDVDには、全シングル曲のショートバージョンのPVがノンストップ・ミックスで収録されており、「[10th Anniversary GIGA BEST](../Page/10th_Anniversary_GIGA_BEST.md "wikilink")」との差別化が図られている。
 
 ## 収録曲
 
@@ -23,9 +23,9 @@
 2.  [DOGFIGHT](../Page/DOGFIGHT.md "wikilink")
       - アニメ「頭文字D Fourth Stage」オープニングテーマ
 3.  [Angel Eyes](../Page/Angel_Eyes_\(m.o.v.eの曲\).md "wikilink")
-      - [MBS](../Page/毎日放送.md "wikilink")/[TBS系](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")「[世界バリバリ★バリュー](../Page/世界バリバリ★バリュー.md "wikilink")」エンディングテーマソング
+      - [MBS](../Page/毎日放送.md "wikilink")/[TBS系](../Page/TBSテレビ.md "wikilink")「[世界バリバリ★バリュー](../Page/世界バリバリ★バリュー.md "wikilink")」エンディングテーマソング
 4.  [Romancing Train](../Page/Romancing_Train.md "wikilink")
-      - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ「[FF：U 〜ファイナルファンタジー:アンリミテッド〜](https://ja.wikipedia.org/wiki/FF：U_〜ファイナルファンタジー:アンリミテッド〜 "wikilink")」エンディングテーマ
+      - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ「[FF：U 〜ファイナルファンタジー:アンリミテッド〜](../Page/FF：U_〜ファイナルファンタジー:アンリミテッド〜.md "wikilink")」エンディングテーマ
 5.  [DISCO TIME](../Page/DISCO_TIME.md "wikilink")
       - テレビ東京系[ウタカタ](https://ja.wikipedia.org/wiki/ウタカタ "wikilink")10月度 MONTHLY RECOMMEND
       - TBS系「[エンタメキャッチ](https://ja.wikipedia.org/wiki/エンタメキャッチ "wikilink")」オープニングテーマソング
@@ -37,9 +37,9 @@
 9.  [around the world](https://ja.wikipedia.org/wiki/around_the_world_\(m.o.v.eの曲\) "wikilink")
       - [フジテレビ系アニメ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「頭文字D」オープニングテーマソング
 10. [SUPER SONIC DANCE](../Page/SUPER_SONIC_DANCE.md "wikilink")
-      - テレビ東京系「[スキヤキ\!\!ロンドンブーツ大作戦](https://ja.wikipedia.org/wiki/スキヤキ!!ロンドンブーツ大作戦 "wikilink")」エンディングテーマソング
+      - テレビ東京系「[スキヤキ\!\!ロンドンブーツ大作戦](../Page/スキヤキ!!ロンドンブーツ大作戦.md "wikilink")」エンディングテーマソング
 11. [Systematic Fantasy](https://ja.wikipedia.org/wiki/Systematic_Fantasy/Good_Day_Good_Time "wikilink")
-      - テレビ東京系番組「[激走\!GT](https://ja.wikipedia.org/wiki/激走!GT "wikilink")」エンディングテーマソング
+      - テレビ東京系番組「[激走\!GT](../Page/激走!GT.md "wikilink")」エンディングテーマソング
 12. [Good Day Good Time](https://ja.wikipedia.org/wiki/Systematic_Fantasy/Good_Day_Good_Time "wikilink")
 13. [SPEED MASTER](../Page/SPEED_MASTER.md "wikilink")
       - 映画「SPEED MASTER」エンディングテーマソング
@@ -121,6 +121,6 @@
 
 ## 関連項目
 
-  - [10th Anniversary GIGA BEST](https://ja.wikipedia.org/wiki/10th_Anniversary_GIGA_BEST "wikilink")
+  - [10th Anniversary GIGA BEST](../Page/10th_Anniversary_GIGA_BEST.md "wikilink")
 
 [Category:M.o.v.eのアルバム](https://ja.wikipedia.org/wiki/Category:M.o.v.eのアルバム "wikilink") [Category:2007年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2007年のベスト・アルバム "wikilink")

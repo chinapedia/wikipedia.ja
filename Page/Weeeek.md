@@ -5,13 +5,13 @@
 
 ## 概要
 
-2枚目のアルバム『[pacific](https://ja.wikipedia.org/wiki/pacific_\(NEWSのアルバム\) "wikilink")』と同時発売したシングル。発売日はデビューシングル「[NEWSニッポン](https://ja.wikipedia.org/wiki/NEWSニッポン "wikilink")」と同月同日である。初回生産限定盤と通常盤では、ジャケットデザイン・収録曲が異なる。初回生産限定盤・通常盤ともに、『pacific』との連動企画応募券を同梱するほか、初回生産限定盤は12ページ、通常盤は8ページの[ブックレットを封入する](../Page/小冊子.md "wikilink")。
+2枚目のアルバム『[pacific](https://ja.wikipedia.org/wiki/pacific_\(NEWSのアルバム\) "wikilink")』と同時発売したシングル。発売日はデビューシングル「[NEWSニッポン](../Page/NEWSニッポン.md "wikilink")」と同月同日である。初回生産限定盤と通常盤では、ジャケットデザイン・収録曲が異なる。初回生産限定盤・通常盤ともに、『pacific』との連動企画応募券を同梱するほか、初回生産限定盤は12ページ、通常盤は8ページの[ブックレットを封入する](../Page/小冊子.md "wikilink")。
 
 後に、[GReeeeN](https://ja.wikipedia.org/wiki/GReeeeN "wikilink")の4枚目のアルバム「[歌うたいが歌うたいに来て 歌うたえと言うが 歌うたいが歌うたうだけうたい切れば 歌うたうけれども 歌うたいだけ 歌うたい切れないから 歌うたわぬ\!?](https://ja.wikipedia.org/wiki/歌うたいが歌うたいに来て_歌うたえと言うが_歌うたいが歌うたうだけうたい切れば_歌うたうけれども_歌うたいだけ_歌うたい切れないから_歌うたわぬ!? "wikilink")」でセルフカバーしている。
 
 ## チャート成績
 
-本作は発売初週に26.3万枚を売り上げ[オリコンシングルチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を記録し、アルバム『pacific』との同時1位を獲得した。シングル・アルバムの同時1位は、[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")のシングル「[Real Face](https://ja.wikipedia.org/wiki/Real_Face "wikilink")」とアルバム『[Best of KAT-TUN](https://ja.wikipedia.org/wiki/Best_of_KAT-TUN "wikilink")』の同時発売以来、1年8か月ぶりの記録である。また、[メジャーデビューシングル](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")「[希望〜Yell〜](https://ja.wikipedia.org/wiki/希望〜Yell〜 "wikilink")」以降続く、初登場1位の記録は7作連続となった\[1\]。
+本作は発売初週に26.3万枚を売り上げ[オリコンシングルチャート](../Page/オリコンチャート.md "wikilink")1位を記録し、アルバム『pacific』との同時1位を獲得した。シングル・アルバムの同時1位は、[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")のシングル「[Real Face](../Page/Real_Face.md "wikilink")」とアルバム『[Best of KAT-TUN](../Page/Best_of_KAT-TUN.md "wikilink")』の同時発売以来、1年8か月ぶりの記録である。また、[メジャーデビューシングル](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")「[希望〜Yell〜](../Page/希望〜Yell〜.md "wikilink")」以降続く、初登場1位の記録は7作連続となった\[1\]。
 
 また、2007年度年間チャートには10位にランクインし、グループ初の年間チャートTOP10入りを果たした。
 
@@ -21,23 +21,23 @@
 
 1.  **weeeek**
       -
-        作詞・作曲：[GReeeeN](https://ja.wikipedia.org/wiki/GReeeeN "wikilink")、編曲：鈴木雅也, [JIN](https://ja.wikipedia.org/wiki/JIN_\(ミュージシャン\) "wikilink")
+        作詞・作曲：[GReeeeN](https://ja.wikipedia.org/wiki/GReeeeN "wikilink")、編曲：鈴木雅也, [JIN](../Page/JIN_\(ミュージシャン\).md "wikilink")
     <!-- end list -->
-      - [クリムゾン RUSS-K](https://ja.wikipedia.org/wiki/新都ホールディングス "wikilink")「RUSS-Kを集めろ\!」「何系でもないRUSS-K」CMソング
+      - [クリムゾン RUSS-K](../Page/新都ホールディングス.md "wikilink")「RUSS-Kを集めろ\!」「何系でもないRUSS-K」CMソング
       - [文化放送](../Page/文化放送.md "wikilink")『[レコメン\!](../Page/レコメン!.md "wikilink")』2007年11月度エンディングテーマ
     <!-- end list -->
       -
         ボーカルグループ・[GReeeeN](https://ja.wikipedia.org/wiki/GReeeeN "wikilink")がNEWSのために書き下ろした楽曲である。タイトルにある4連のアルファベット「e」は、GReeeeNからの提供曲であることに由来する。
         歌詞はタイトル通り「[一週間](../Page/週.md "wikilink")」をテーマにしており、働く[社会人](https://ja.wikipedia.org/wiki/社会人 "wikilink")を応援する内容である\[2\]。
-        メンバーはGReeeeNが歌った仮歌の音源を手渡され、各自練習したのち、2007年7月に[レコーディングに臨んだ](../Page/録音.md "wikilink")\[3\]\[4\]。出だしの[山下智久](https://ja.wikipedia.org/wiki/山下智久 "wikilink")の掛け声「行きまーす\! イェイ\!」は、レコーディングの際に[アドリブで発した声がそのまま採用されたもので](https://ja.wikipedia.org/wiki/即興 "wikilink")、遊びの部分はほかにも随所に盛り込まれている\[5\]。[サビ](https://ja.wikipedia.org/wiki/サビ "wikilink")の[ハーモニーは](../Page/和声.md "wikilink")、[手越祐也](https://ja.wikipedia.org/wiki/手越祐也 "wikilink")が高音部を、[増田貴久](https://ja.wikipedia.org/wiki/増田貴久 "wikilink")が低音部を担当した\[6\]\[7\]。
-        [久保茂昭](../Page/久保茂昭.md "wikilink")がディレクターを務めた[PVは](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、メンバーが[リクルートスーツ](https://ja.wikipedia.org/wiki/リクルートスーツ "wikilink")や眼鏡、鞄などを駆使して、[サラリーマン](../Page/サラリーマン.md "wikilink")に扮した。なお、固定の振り付けがないため、メンバーはそれぞれが自由に踊っている\[8\]。
-        後にGReeeeN自身が[2012年](../Page/2012年.md "wikilink")[6月27日](../Page/6月27日.md "wikilink")発売「[歌うたいが歌うたいに来て 歌うたえと言うが 歌うたいが歌うたうだけうたい切れば 歌うたうけれども 歌うたいだけ 歌うたい切れないから 歌うたわぬ\!?](https://ja.wikipedia.org/wiki/歌うたいが歌うたいに来て_歌うたえと言うが_歌うたいが歌うたうだけうたい切れば_歌うたうけれども_歌うたいだけ_歌うたい切れないから_歌うたわぬ!? "wikilink")」にて[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")を行っている。
+        メンバーはGReeeeNが歌った仮歌の音源を手渡され、各自練習したのち、2007年7月に[レコーディングに臨んだ](../Page/録音.md "wikilink")\[3\]\[4\]。出だしの[山下智久](https://ja.wikipedia.org/wiki/山下智久 "wikilink")の掛け声「行きまーす\! イェイ\!」は、レコーディングの際に[アドリブで発した声がそのまま採用されたもので](../Page/即興.md "wikilink")、遊びの部分はほかにも随所に盛り込まれている\[5\]。[サビ](../Page/サビ.md "wikilink")の[ハーモニーは](../Page/和声.md "wikilink")、[手越祐也](../Page/手越祐也.md "wikilink")が高音部を、[増田貴久](../Page/増田貴久.md "wikilink")が低音部を担当した\[6\]\[7\]。
+        [久保茂昭](../Page/久保茂昭.md "wikilink")がディレクターを務めた[PVは](../Page/ミュージック・ビデオ.md "wikilink")、メンバーが[リクルートスーツ](../Page/リクルートスーツ.md "wikilink")や眼鏡、鞄などを駆使して、[サラリーマン](../Page/サラリーマン.md "wikilink")に扮した。なお、固定の振り付けがないため、メンバーはそれぞれが自由に踊っている\[8\]。
+        後にGReeeeN自身が[2012年](../Page/2012年.md "wikilink")[6月27日](../Page/6月27日.md "wikilink")発売「[歌うたいが歌うたいに来て 歌うたえと言うが 歌うたいが歌うたうだけうたい切れば 歌うたうけれども 歌うたいだけ 歌うたい切れないから 歌うたわぬ\!?](https://ja.wikipedia.org/wiki/歌うたいが歌うたいに来て_歌うたえと言うが_歌うたいが歌うたうだけうたい切れば_歌うたうけれども_歌うたいだけ_歌うたい切れないから_歌うたわぬ!? "wikilink")」にて[セルフカバー](../Page/セルフカバー.md "wikilink")を行っている。
 2.  **with me**
       -
         作詞：[zopp](https://ja.wikipedia.org/wiki/zopp "wikilink")、作曲：[Shusui](https://ja.wikipedia.org/wiki/Canna_\(音楽グループ\) "wikilink"), Tobias Lundgren, Johan Fransson, Tim Larsson、編曲：[h-wonder](https://ja.wikipedia.org/wiki/h-wonder "wikilink")
 3.  **Why**
       -
-        作詞：zopp、作曲：Carl Falk, Sharon Vaughn, Kristian Lundin、編曲：[中西亮輔](https://ja.wikipedia.org/wiki/中西亮輔 "wikilink")
+        作詞：zopp、作曲：Carl Falk, Sharon Vaughn, Kristian Lundin、編曲：[中西亮輔](../Page/中西亮輔.md "wikilink")
 4.  weeeek（Original・Karaoke）
 
 ### 通常盤

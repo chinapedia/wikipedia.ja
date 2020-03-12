@@ -27,22 +27,22 @@
 
   - いちこ - [吉井怜](../Page/吉井怜.md "wikilink")
   - エリー - [今宿麻美](../Page/今宿麻美.md "wikilink")
-  - タケちゃん - [高橋一生](https://ja.wikipedia.org/wiki/高橋一生 "wikilink")
-  - ユカコ - [平岩紙](https://ja.wikipedia.org/wiki/平岩紙 "wikilink")
-  - アキラ - [須賀貴匡](https://ja.wikipedia.org/wiki/須賀貴匡 "wikilink")
-  - CDショップの客 - [川合千春](https://ja.wikipedia.org/wiki/川合千春 "wikilink")
-  - エリーの父 - [寺泉憲](https://ja.wikipedia.org/wiki/寺泉憲 "wikilink")
-  - 千波さん - [秋本奈緒美](https://ja.wikipedia.org/wiki/秋本奈緒美 "wikilink")
-  - 立花健吾 - [池内博之](https://ja.wikipedia.org/wiki/池内博之 "wikilink")
+  - タケちゃん - [高橋一生](../Page/高橋一生.md "wikilink")
+  - ユカコ - [平岩紙](../Page/平岩紙.md "wikilink")
+  - アキラ - [須賀貴匡](../Page/須賀貴匡.md "wikilink")
+  - CDショップの客 - [川合千春](../Page/川合千春.md "wikilink")
+  - エリーの父 - [寺泉憲](../Page/寺泉憲.md "wikilink")
+  - 千波さん - [秋本奈緒美](../Page/秋本奈緒美.md "wikilink")
+  - 立花健吾 - [池内博之](../Page/池内博之.md "wikilink")
   - いちこのママ - [小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink")
-  - 冴子教授 - [浅田美代子](https://ja.wikipedia.org/wiki/浅田美代子 "wikilink")
+  - 冴子教授 - [浅田美代子](../Page/浅田美代子.md "wikilink")
   - いちこのパパ - [石田衣良](https://ja.wikipedia.org/wiki/石田衣良 "wikilink")
 
 ### スタッフ
 
-  - 監督：[川野浩司](https://ja.wikipedia.org/wiki/川野浩司 "wikilink")
-  - プロデューサー：[中林千賀子](https://ja.wikipedia.org/wiki/中林千賀子 "wikilink")、三宅はるえ
-  - 原作：[やまじえびね](https://ja.wikipedia.org/wiki/やまじえびね "wikilink")「LOVE MY LIFE」（[祥伝社](https://ja.wikipedia.org/wiki/祥伝社 "wikilink")）
+  - 監督：[川野浩司](../Page/川野浩司.md "wikilink")
+  - プロデューサー：[中林千賀子](../Page/中林千賀子.md "wikilink")、三宅はるえ
+  - 原作：[やまじえびね](https://ja.wikipedia.org/wiki/やまじえびね "wikilink")「LOVE MY LIFE」（[祥伝社](../Page/祥伝社.md "wikilink")）
   - 脚本：[金杉弘子](https://ja.wikipedia.org/wiki/金杉弘子 "wikilink")
   - 撮影：福本淳
   - 照明：市川徳充

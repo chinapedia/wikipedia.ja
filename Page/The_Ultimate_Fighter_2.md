@@ -1,11 +1,11 @@
 > この記事は[The Ultimate Fighter 2](https://ja.wikipedia.org/wiki/The_Ultimate_Fighter_2)から翻訳されています。
 
 
-**The Ultimate Fighter 2**（ジ・アルティメット・ファイター・ツー）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[リアリティ番組](https://ja.wikipedia.org/wiki/リアリティ番組 "wikilink")「[The Ultimate Fighter](https://ja.wikipedia.org/wiki/The_Ultimate_Fighter "wikilink")」の第2シーズンとして[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月22日](../Page/8月22日.md "wikilink")から[11月5日](../Page/11月5日.md "wikilink")にかけて放送されたテレビ番組である。
+**The Ultimate Fighter 2**（ジ・アルティメット・ファイター・ツー）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[リアリティ番組](https://ja.wikipedia.org/wiki/リアリティ番組 "wikilink")「[The Ultimate Fighter](../Page/The_Ultimate_Fighter.md "wikilink")」の第2シーズンとして[2005年](../Page/2005年.md "wikilink")[8月22日](../Page/8月22日.md "wikilink")から[11月5日](../Page/11月5日.md "wikilink")にかけて放送されたテレビ番組である。
 
-本シーズンではヘビー級（-120.2kg）とウェルター級（-77.1kg）の各8名、計16名の選手が[マット・ヒューズ](https://ja.wikipedia.org/wiki/マット・ヒューズ "wikilink")と[リッチ・フランクリン](../Page/リッチ・フランクリン.md "wikilink")のコーチの下、合宿所で共同生活を送りながらトレーニングを受け、[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")との正式契約を賭けた勝ち残りトーナメント戦を行った。
+本シーズンではヘビー級（-120.2kg）とウェルター級（-77.1kg）の各8名、計16名の選手が[マット・ヒューズ](../Page/マット・ヒューズ.md "wikilink")と[リッチ・フランクリン](../Page/リッチ・フランクリン.md "wikilink")のコーチの下、合宿所で共同生活を送りながらトレーニングを受け、[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")との正式契約を賭けた勝ち残りトーナメント戦を行った。
 
-2005年11月5日、番組のフィナーレとして、[ネバダ州](../Page/ネバダ州.md "wikilink")[ラスベガス](../Page/ラスベガス.md "wikilink")の[ハードロック・ホテル&カジノでUFCの大会である](https://ja.wikipedia.org/wiki/ハードロック・ホテル・アンド・カジノ_\(ラスベガス\) "wikilink")「[The Ultimate Fighter 2 Finale](https://ja.wikipedia.org/wiki/The_Ultimate_Fighter_2_Finale "wikilink")」が開催された。
+2005年11月5日、番組のフィナーレとして、[ネバダ州](../Page/ネバダ州.md "wikilink")[ラスベガス](../Page/ラスベガス.md "wikilink")の[ハードロック・ホテル&カジノでUFCの大会である](../Page/ハードロック・ホテル・アンド・カジノ_\(ラスベガス\).md "wikilink")「[The Ultimate Fighter 2 Finale](https://ja.wikipedia.org/wiki/The_Ultimate_Fighter_2_Finale "wikilink")」が開催された。
 
 ## シーズン概要
 
@@ -18,7 +18,7 @@
 ### チーム・ヒューズ
 
   - コーチ
-    [マット・ヒューズ](https://ja.wikipedia.org/wiki/マット・ヒューズ "wikilink")
+    [マット・ヒューズ](../Page/マット・ヒューズ.md "wikilink")
   - ヘビー級選手（指名順）
     [マイク・ホワイトヘッド](https://ja.wikipedia.org/wiki/マイク・ホワイトヘッド "wikilink")、ダン・クリスティソン、ロブ・マクドナルド、トム・マーフィー
   - ウェルター級選手（指名順）
@@ -29,7 +29,7 @@
   - コーチ
     [リッチ・フランクリン](../Page/リッチ・フランクリン.md "wikilink")
   - ヘビー級（指名順）
-    [キース・ジャーディン](../Page/キース・ジャーディン.md "wikilink")、[セス・ペトルゼリ](https://ja.wikipedia.org/wiki/セス・ペトルゼリ "wikilink")、[ラシャド・エヴァンス](../Page/ラシャド・エヴァンス.md "wikilink")、ブラッド・アイムス
+    [キース・ジャーディン](../Page/キース・ジャーディン.md "wikilink")、[セス・ペトルゼリ](../Page/セス・ペトルゼリ.md "wikilink")、[ラシャド・エヴァンス](../Page/ラシャド・エヴァンス.md "wikilink")、ブラッド・アイムス
   - ウェルター級選手（指名順）
     [ジョルジ・グージェウ](../Page/ジョルジ・グージェウ.md "wikilink")、[マーカス・デイヴィス](https://ja.wikipedia.org/wiki/マーカス・デイヴィス "wikilink")、アンソニー・トーレス、[メルヴィン・ギラード](https://ja.wikipedia.org/wiki/メルヴィン・ギラード "wikilink")
 
@@ -57,7 +57,7 @@
 
   - バークマンが前回の試合中の怪我で脱落した。代打でフルーがチーム・ヒューズに加入する。
   - チームチャレンジはチーム・ヒューズが2連勝する。
-  - ○ブラッド・アイムス（1R4:07 [三角絞め](https://ja.wikipedia.org/wiki/三角絞め "wikilink")）×ロブ・マクドナルド 【ヘビー級】
+  - ○ブラッド・アイムス（1R4:07 [三角絞め](../Page/三角絞め.md "wikilink")）×ロブ・マクドナルド 【ヘビー級】
 
 ### エピソード4
 
@@ -78,7 +78,7 @@
 ### エピソード7
 
   - チームチャレンジはチーム・フランクリンが勝利する。またウェルター級の人数調整のためチーム・ヒューズの選手がチーム・フランクリンに移籍することに。ヒューズは前回の試合で額に40針縫う怪我をしたフルーを手放した。
-  - ○[セス・ペトルゼリ](https://ja.wikipedia.org/wiki/セス・ペトルゼリ "wikilink")（5分判定3-0）×ダン・クリスティソン 【ヘビー級】
+  - ○[セス・ペトルゼリ](../Page/セス・ペトルゼリ.md "wikilink")（5分判定3-0）×ダン・クリスティソン 【ヘビー級】
 
 ### エピソード8
 
@@ -107,8 +107,8 @@
 ### エピソード12
 
   - フルーの傷は問題無しと判断され、予定通りスティーブンソンvs.フルーが行われることになる。
-  - ○[ジョー・スティーブンソン](../Page/ジョー・スティーブンソン.md "wikilink")（1R4:46 [腕ひしぎ十字固め](https://ja.wikipedia.org/wiki/腕挫十字固 "wikilink")）×ジェイソン・フォン・フルー 【ウェルター級】
-  - ○ブラッド・アイムス（5分判定2-1）×[セス・ペトルゼリ](https://ja.wikipedia.org/wiki/セス・ペトルゼリ "wikilink") 【ヘビー級】
+  - ○[ジョー・スティーブンソン](../Page/ジョー・スティーブンソン.md "wikilink")（1R4:46 [腕ひしぎ十字固め](../Page/腕挫十字固.md "wikilink")）×ジェイソン・フォン・フルー 【ウェルター級】
+  - ○ブラッド・アイムス（5分判定2-1）×[セス・ペトルゼリ](../Page/セス・ペトルゼリ.md "wikilink") 【ヘビー級】
 
 ## トーナメント
 

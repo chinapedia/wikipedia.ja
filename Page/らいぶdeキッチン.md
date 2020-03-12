@@ -9,7 +9,7 @@
 
 ## 日替わり料理人
 
-  - 月曜日：[コウケンテツ](https://ja.wikipedia.org/wiki/コウケンテツ "wikilink")（[料理研究家](https://ja.wikipedia.org/wiki/料理研究家 "wikilink")）
+  - 月曜日：[コウケンテツ](https://ja.wikipedia.org/wiki/コウケンテツ "wikilink")（[料理研究家](../Page/料理研究家.md "wikilink")）
   - 火曜日：[笠原将弘](https://ja.wikipedia.org/wiki/笠原将弘 "wikilink")（「賛否両論」店主）
   - 水曜日：[茂出木浩司](https://ja.wikipedia.org/wiki/茂出木浩司 "wikilink")（「たいめいけん」3代目店主）
   - 木曜日：[田村亮介](https://ja.wikipedia.org/wiki/田村亮介 "wikilink")（「麻布長江」料理長）
@@ -24,7 +24,7 @@
   - [夕食ばんざい\!](https://ja.wikipedia.org/wiki/夕食ばんざい! "wikilink")
   - [郁恵のお料理がんばるゾ\!](https://ja.wikipedia.org/wiki/郁恵のお料理がんばるゾ! "wikilink")
   - 郁恵の今日何にする?
-  - [郁恵・井森のお料理BAN\!BAN\!](https://ja.wikipedia.org/wiki/郁恵・井森のお料理BAN!BAN! "wikilink")
+  - [郁恵・井森のお料理BAN\!BAN\!](../Page/郁恵・井森のお料理BAN!BAN!.md "wikilink")
   - [郁恵・井森のデリ×デリキッチン](https://ja.wikipedia.org/wiki/郁恵・井森のデリ×デリキッチン "wikilink")
   - [おしえて\!うれしぴ](../Page/おしえて!うれしぴ.md "wikilink")
 

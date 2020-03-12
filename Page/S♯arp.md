@@ -3,7 +3,7 @@
 
 **S\#arp**（シャープ、[韓国語](https://ja.wikipedia.org/wiki/韓国語 "wikilink"): ）は[大韓民国](../Page/大韓民国.md "wikilink")の男女混成アイドルグループである。**The S\#arp** とも。名前の中の記号は縦棒が垂直な[♯（シャープ記号）ではなく横棒が水平な](https://ja.wikipedia.org/wiki/嬰記号 "wikilink")[\#（ナンバ記号）である](https://ja.wikipedia.org/wiki/ナンバ記号 "wikilink")。
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")11月アルバム『S\#ARP』の[表題曲](https://ja.wikipedia.org/wiki/表題曲 "wikilink")「Yes」でデビュー。[2002年](../Page/2002年.md "wikilink")10月公式に解散した。応援用の[風船](https://ja.wikipedia.org/wiki/風船 "wikilink")の色は[ゴールド](https://ja.wikipedia.org/wiki/金色 "wikilink")。所属事務所は[ワールドミュージック・エンタテインメント](https://ja.wikipedia.org/wiki/ワールドミュージック・エンタテインメント "wikilink")だった。
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")11月アルバム『S\#ARP』の[表題曲](https://ja.wikipedia.org/wiki/表題曲 "wikilink")「Yes」でデビュー。[2002年](../Page/2002年.md "wikilink")10月公式に解散した。応援用の[風船](../Page/風船.md "wikilink")の色は[ゴールド](../Page/金色.md "wikilink")。所属事務所は[ワールドミュージック・エンタテインメント](https://ja.wikipedia.org/wiki/ワールドミュージック・エンタテインメント "wikilink")だった。
 
 ## 経歴
 
@@ -15,9 +15,9 @@
   - [2001年](../Page/2001年.md "wikilink")2月 - 4集発表。
   - 2001年11月 - 4.5集発表。
   - [2002年](../Page/2002年.md "wikilink")9月 - 5集発表。
-  - 2002年10月8日 - イ・ジヘ、ソ・ジヨンが[エレベーター](../Page/エレベーター.md "wikilink")内で取っ組み合いの[喧嘩](https://ja.wikipedia.org/wiki/喧嘩 "wikilink")を行ったことによりテレビ番組出演をキャンセル、メンバー間の不和が表面化する。
+  - 2002年10月8日 - イ・ジヘ、ソ・ジヨンが[エレベーター](../Page/エレベーター.md "wikilink")内で取っ組み合いの[喧嘩](../Page/喧嘩.md "wikilink")を行ったことによりテレビ番組出演をキャンセル、メンバー間の不和が表面化する。
   - 2002年10月14日 - メンバー間の不和により、公式に[解散](https://ja.wikipedia.org/wiki/解散 "wikilink")を宣言。ただし事務所との[契約](../Page/契約.md "wikilink")は2003年11月まで残していた。
-  - [2003年](../Page/2003年.md "wikilink")1月 - グループ解散宣言後に[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")6集発表。
+  - [2003年](../Page/2003年.md "wikilink")1月 - グループ解散宣言後に[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")6集発表。
 
 ## メンバー
 

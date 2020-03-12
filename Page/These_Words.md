@@ -41,7 +41,7 @@
 9.  **Peace To**
 10. **Magic**
 
-and [hidden track](https://ja.wikipedia.org/wiki/隠しトラック "wikilink")「**Come Home to Me**」
+and [hidden track](../Page/隠しトラック.md "wikilink")「**Come Home to Me**」
 
 ## 参加ミュージシャン
 

@@ -29,7 +29,7 @@
 
   - サンフレッチェ広島の選手・スタッフ
   - 各メディアのサンフレッチェ番記者
-  - [吉田安孝](https://ja.wikipedia.org/wiki/吉田安孝 "wikilink")（解説者）
+  - [吉田安孝](../Page/吉田安孝.md "wikilink")（解説者）
   - [中野和也](../Page/中野和也.md "wikilink")（[紫熊倶楽部](../Page/紫熊倶楽部.md "wikilink")）
   - [石橋竜史](../Page/石橋竜史.md "wikilink")（スタジアムDJ）
   - [波田健一](../Page/波田健一.md "wikilink")（[テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")）

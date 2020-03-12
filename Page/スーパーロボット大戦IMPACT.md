@@ -1,17 +1,17 @@
 > この記事は[IMPACT](https://ja.wikipedia.org/wiki/IMPACT)から翻訳されています。
 
 
-『**スーパーロボット大戦IMPACT**』（スーパーロボットたいせんインパクト）は、[バンプレスト](https://ja.wikipedia.org/wiki/バンプレスト "wikilink")から発売された[シミュレーションRPG](https://ja.wikipedia.org/wiki/シミュレーションロールプレイングゲーム "wikilink")。
+『**スーパーロボット大戦IMPACT**』（スーパーロボットたいせんインパクト）は、[バンプレスト](../Page/バンプレスト.md "wikilink")から発売された[シミュレーションRPG](../Page/シミュレーションロールプレイングゲーム.md "wikilink")。
 
 キャッチコピーは「**今、銀河を『<ruby><rb>衝撃</rb><rt>IMPACT</rt></ruby>』が駆け抜ける。**」。
 
 ## 概要
 
-[SDで表現されたロボットたちが競演する](https://ja.wikipedia.org/wiki/ちびキャラ "wikilink")[クロスオーバー作品](https://ja.wikipedia.org/wiki/クロスオーバー作品 "wikilink")「[スーパーロボット大戦シリーズ](../Page/スーパーロボット大戦シリーズ.md "wikilink")」の一つ。同シリーズ初の[PlayStation 2用ソフトである](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。正式公表はされていないが、シリーズ内シリーズであるCOMPACTシリーズの2作目『[スーパーロボット大戦COMPACT2](../Page/スーパーロボット大戦COMPACT2.md "wikilink")』3部作（以下『COMPACT2』）のシナリオやシステム、登場作品、主人公キャラクターなどがほぼ踏襲されており\[1\]、実質上のリメイク作品にあたる。
+[SDで表現されたロボットたちが競演する](../Page/ちびキャラ.md "wikilink")[クロスオーバー作品](../Page/クロスオーバー作品.md "wikilink")「[スーパーロボット大戦シリーズ](../Page/スーパーロボット大戦シリーズ.md "wikilink")」の一つ。同シリーズ初の[PlayStation 2用ソフトである](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。正式公表はされていないが、シリーズ内シリーズであるCOMPACTシリーズの2作目『[スーパーロボット大戦COMPACT2](../Page/スーパーロボット大戦COMPACT2.md "wikilink")』3部作（以下『COMPACT2』）のシナリオやシステム、登場作品、主人公キャラクターなどがほぼ踏襲されており\[1\]、実質上のリメイク作品にあたる。
 
 『COMPACT2』3部作を1本にまとめているため、**全101話**と長いストーリーが特徴\[2\]。シナリオは大筋では同じだが、新たに『機動戦艦ナデシコ』・『機動武闘伝Gガンダム』を加えたため練り直され、特に第3部では新たな分岐が追加されるなど大きく異なる部分もある。
 
-企画時のタイトルは『スーパーロボット大戦 撃』だったが、「漢字はさすがにないだろう」ということで「撃」を英語にした現在のタイトルになった\[3\]。「[PlayStation Awards 2002](https://ja.wikipedia.org/wiki/PlayStation_Awards "wikilink")」において、ゴールドプライズ（累計出荷本数50万本以上100万本未満のタイトルに対して贈られる）を受賞\[4\]。
+企画時のタイトルは『スーパーロボット大戦 撃』だったが、「漢字はさすがにないだろう」ということで「撃」を英語にした現在のタイトルになった\[3\]。「[PlayStation Awards 2002](../Page/PlayStation_Awards.md "wikilink")」において、ゴールドプライズ（累計出荷本数50万本以上100万本未満のタイトルに対して贈られる）を受賞\[4\]。
 
 ## あらすじ
 
@@ -21,11 +21,11 @@
 
 ☆マークは据え置き型機初参戦作品。Vマークは音声付きシリーズ作品に初参戦。
 
-  - [超獣機神ダンクーガ](https://ja.wikipedia.org/wiki/超獣機神ダンクーガ "wikilink")
-  - ☆V[マシンロボ クロノスの大逆襲](https://ja.wikipedia.org/wiki/マシンロボ_クロノスの大逆襲 "wikilink")
-  - ☆V[破邪大星ダンガイオー](https://ja.wikipedia.org/wiki/破邪大星ダンガイオー "wikilink")
+  - [超獣機神ダンクーガ](../Page/超獣機神ダンクーガ.md "wikilink")
+  - ☆V[マシンロボ クロノスの大逆襲](../Page/マシンロボ_クロノスの大逆襲.md "wikilink")
+  - ☆V[破邪大星ダンガイオー](../Page/破邪大星ダンガイオー.md "wikilink")
   - ☆V[機動戦艦ナデシコ](../Page/機動戦艦ナデシコ.md "wikilink")
-  - ☆V[忍者戦士飛影](https://ja.wikipedia.org/wiki/忍者戦士飛影 "wikilink")
+  - ☆V[忍者戦士飛影](../Page/忍者戦士飛影.md "wikilink")
   - [機動戦士ガンダム](../Page/機動戦士ガンダム.md "wikilink")
   - V[機動戦士ガンダム 第08MS小隊](../Page/機動戦士ガンダム_第08MS小隊.md "wikilink")
   - [機動戦士ガンダム0080 ポケットの中の戦争](../Page/機動戦士ガンダム0080_ポケットの中の戦争.md "wikilink")
@@ -39,13 +39,13 @@
   - V[無敵超人ザンボット3](../Page/無敵超人ザンボット3.md "wikilink")
   - [聖戦士ダンバイン](../Page/聖戦士ダンバイン.md "wikilink")
   - [マジンガーZ](../Page/マジンガーZ.md "wikilink")
-  - [グレートマジンガー](https://ja.wikipedia.org/wiki/グレートマジンガー "wikilink")
-  - [UFOロボ グレンダイザー](https://ja.wikipedia.org/wiki/UFOロボ_グレンダイザー "wikilink")
+  - [グレートマジンガー](../Page/グレートマジンガー.md "wikilink")
+  - [UFOロボ グレンダイザー](../Page/UFOロボ_グレンダイザー.md "wikilink")
   - [ゲッターロボ](../Page/ゲッターロボ.md "wikilink")
-  - [ゲッターロボG](https://ja.wikipedia.org/wiki/ゲッターロボG "wikilink")
+  - [ゲッターロボG](../Page/ゲッターロボG.md "wikilink")
   - [真・ゲッターロボ（原作漫画版）](../Page/真ゲッターロボ.md "wikilink")
-  - [超電磁ロボ コン・バトラーV](https://ja.wikipedia.org/wiki/超電磁ロボ_コン・バトラーV "wikilink")
-  - [勇者ライディーン](https://ja.wikipedia.org/wiki/勇者ライディーン "wikilink")
+  - [超電磁ロボ コン・バトラーV](../Page/超電磁ロボ_コン・バトラーV.md "wikilink")
+  - [勇者ライディーン](../Page/勇者ライディーン.md "wikilink")
   - [バンプレストオリジナル](https://ja.wikipedia.org/wiki/バンプレストオリジナル "wikilink")
 
 ### 解説
@@ -57,7 +57,7 @@
 ### パッケージ登場機体
 
   - バイカンフー（マシンロボ クロノスの大逆襲）
-  - [エステバリス](https://ja.wikipedia.org/wiki/エステバリス "wikilink")・0Gアキト（機動戦艦ナデシコ）
+  - [エステバリス](../Page/エステバリス.md "wikilink")・0Gアキト（機動戦艦ナデシコ）
   - 飛影（忍者戦士飛影）
   - [真・ゲッター1](https://ja.wikipedia.org/wiki/真ゲッターロボ_\(架空のロボット\) "wikilink")（真・ゲッターロボ）
   - [コン・バトラーV](https://ja.wikipedia.org/wiki/超電磁ロボ_コン・バトラーV#コン・バトラーV "wikilink")（超電磁ロボ コン・バトラーV）
@@ -74,7 +74,7 @@
 スキルコーディネイトは規定ターン以内のMAPクリア以外に、特定の条件を満たすと新しいスキルが入手できるようになった。また、個人情報に応じて精神コマンドが変化するパーソナルデータテーブルは、PS2本体に個人情報を記録することができないため、廃止されている。
 
   - シールド耐久値
-    『[スーパーロボット大戦A](https://ja.wikipedia.org/wiki/スーパーロボット大戦A "wikilink")』からのシステムだが、本作では回数制のダメージ軽減効果に変更された。パイロットの特殊技能「防御」レベルが高いほどダメージ軽減量が増え、また回数はユニット改造で増やすことができる。なお、シールドのダメージ軽減量を超えなければ回数は減らない。
+    『[スーパーロボット大戦A](../Page/スーパーロボット大戦A.md "wikilink")』からのシステムだが、本作では回数制のダメージ軽減効果に変更された。パイロットの特殊技能「防御」レベルが高いほどダメージ軽減量が増え、また回数はユニット改造で増やすことができる。なお、シールドのダメージ軽減量を超えなければ回数は減らない。
   - 同時攻撃
     「統率」技能のあるユニットに対して発生する特殊な援護攻撃。通常の援護攻撃と異なり画面が上下2分割され同時に攻撃を行う。援護される側、する側ともに必ずクリティカルとなる。
   - 戦艦援護
@@ -92,7 +92,7 @@
 
     主人公の選択ができないため、第1部から通してプレイする必要がある（第3部で男女の主人公が合流する）。
 
-    キャラクターや搭乗機体の設定は、ドラマCD『[スーパーロボット大戦α ORIGINAL STORY](https://ja.wikipedia.org/wiki/スーパーロボット大戦ORIGINAL_GENERATION "wikilink")』と同様のものに変更されている。また、『COMPACT2』で行えた主人公名、および機体の名前変更はできなくなった。
+    キャラクターや搭乗機体の設定は、ドラマCD『[スーパーロボット大戦α ORIGINAL STORY](../Page/スーパーロボット大戦ORIGINAL_GENERATION.md "wikilink")』と同様のものに変更されている。また、『COMPACT2』で行えた主人公名、および機体の名前変更はできなくなった。
 
   - アインスト（敵対勢力）
 
@@ -107,7 +107,7 @@
     [森住惣一郎](../Page/森住惣一郎.md "wikilink")
     じっぱひとからげ
     菊池博
-    [寺田貴信](https://ja.wikipedia.org/wiki/寺田貴信 "wikilink")
+    [寺田貴信](../Page/寺田貴信.md "wikilink")
   - オリジナルメカデザイン
     斉藤和衛
     森野健一郎
@@ -121,15 +121,15 @@
 ## 主題歌
 
   - オープニングテーマ「GO\!\!」
-    作詞：[影山ヒロノブ](https://ja.wikipedia.org/wiki/影山ヒロノブ "wikilink") / 作・編曲：[河野陽吾](../Page/河野陽吾.md "wikilink") / 歌：[JAM Project](https://ja.wikipedia.org/wiki/JAM_Project "wikilink")
+    作詞：[影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink") / 作・編曲：[河野陽吾](../Page/河野陽吾.md "wikilink") / 歌：[JAM Project](../Page/JAM_Project.md "wikilink")
   - エンディングテーマ「DEPARTURE」
     作詞：影山ヒロノブ / 作曲：影山ヒロノブ・河野陽吾 / 編曲：河野陽吾 / 歌：JAM Project
   - CMソング「Machine Soul〜奇跡を呼ぶIMPACT POWER〜」
     作詞：しまざきなおと・花輪幸弥 / 作曲：[笠松美樹](../Page/Sugar_\(日本のコーラスグループ\).md "wikilink") / 歌：児玉国広
 
-本作のOPテーマとCMソングは、後の『[スーパーロボット大戦OG ORIGINAL GENERATIONS](https://ja.wikipedia.org/wiki/スーパーロボット大戦OG_ORIGINAL_GENERATIONS "wikilink")』でアレンジの上（「GO\!\! Ver.OG」「MACHINE SOUL Ver.OG」として）BGMとして収録されている。また、CMソングは『[無限のフロンティアEXCEED スーパーロボット大戦OGサーガ](https://ja.wikipedia.org/wiki/無限のフロンティアEXCEED_スーパーロボット大戦OGサーガ "wikilink")』に妖精機フェイクライドのBGMとして採用された。
+本作のOPテーマとCMソングは、後の『[スーパーロボット大戦OG ORIGINAL GENERATIONS](../Page/スーパーロボット大戦OG_ORIGINAL_GENERATIONS.md "wikilink")』でアレンジの上（「GO\!\! Ver.OG」「MACHINE SOUL Ver.OG」として）BGMとして収録されている。また、CMソングは『[無限のフロンティアEXCEED スーパーロボット大戦OGサーガ](https://ja.wikipedia.org/wiki/無限のフロンティアEXCEED_スーパーロボット大戦OGサーガ "wikilink")』に妖精機フェイクライドのBGMとして採用された。
 
-CMソング「Machine Soul〜奇跡を呼ぶIMPACT POWER〜」は主題歌「GO\!\!」がスケジュールの都合上PV第1弾に間に合わないため、つなぎとして急遽制作された曲で、スタッフの間での仮称は「インパクトパワー」となっていた\[6\]。後に『[スーパーロボット大戦ORIGINAL GENERATION2](https://ja.wikipedia.org/wiki/スーパーロボット大戦ORIGINAL_GENERATION2 "wikilink")』のPVソングとして一部の歌詞を変更した上で「Machine Soul 2005」に改題し、流用されている。
+CMソング「Machine Soul〜奇跡を呼ぶIMPACT POWER〜」は主題歌「GO\!\!」がスケジュールの都合上PV第1弾に間に合わないため、つなぎとして急遽制作された曲で、スタッフの間での仮称は「インパクトパワー」となっていた\[6\]。後に『[スーパーロボット大戦ORIGINAL GENERATION2](../Page/スーパーロボット大戦ORIGINAL_GENERATION2.md "wikilink")』のPVソングとして一部の歌詞を変更した上で「Machine Soul 2005」に改題し、流用されている。
 
 ## プロモーション
 
@@ -138,13 +138,13 @@ CMソング「Machine Soul〜奇跡を呼ぶIMPACT POWER〜」は主題歌「GO\
   - Machine Soulバージョン
     CMソング「Machine Soul〜奇跡を呼ぶIMPACT POWER〜」にのせてゲーム映像が流れるバージョン。ナレーションは[檜山修之](../Page/檜山修之.md "wikilink")。
   - GO\!\!バージョン
-    オープニングテーマ「GO\!\!」にのせてゲーム映像が流れるバージョン。ナレーションは[遠藤守哉](https://ja.wikipedia.org/wiki/遠藤守哉 "wikilink")。
+    オープニングテーマ「GO\!\!」にのせてゲーム映像が流れるバージョン。ナレーションは[遠藤守哉](../Page/遠藤守哉.md "wikilink")。
   - 精神コマンドバージョン
     人気の無い場所にたたずんだ[松永裕子](https://ja.wikipedia.org/wiki/松永裕子 "wikilink")が、精神コマンドの名前を読み上げるバージョン。
 
 ### ラジオCM
 
-ラジオCMは『機動戦士ガンダム 第08MS小隊』の[シロー・アマダ役の](https://ja.wikipedia.org/wiki/機動戦士ガンダム_第08MS小隊の登場人物#シロー・アマダ "wikilink")[檜山修之](../Page/檜山修之.md "wikilink")と[アイナ・サハリン役の](https://ja.wikipedia.org/wiki/機動戦士ガンダム_第08MS小隊の登場人物#アイナ・サハリン "wikilink")[井上喜久子](https://ja.wikipedia.org/wiki/井上喜久子 "wikilink")の2人による掛け合い（基本的に同アニメのパロディ）であった。
+ラジオCMは『機動戦士ガンダム 第08MS小隊』の[シロー・アマダ役の](https://ja.wikipedia.org/wiki/機動戦士ガンダム_第08MS小隊の登場人物#シロー・アマダ "wikilink")[檜山修之](../Page/檜山修之.md "wikilink")と[アイナ・サハリン役の](https://ja.wikipedia.org/wiki/機動戦士ガンダム_第08MS小隊の登場人物#アイナ・サハリン "wikilink")[井上喜久子](../Page/井上喜久子.md "wikilink")の2人による掛け合い（基本的に同アニメのパロディ）であった。
 
 ### 購入特典
 
@@ -164,7 +164,7 @@ CMソング「Machine Soul〜奇跡を呼ぶIMPACT POWER〜」は主題歌「GO\
 ### コミック
 
   - 衝撃騎士団-インパクトナイツ-
-    [双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink")、作：[環望](https://ja.wikipedia.org/wiki/環望 "wikilink")、[スーパーロボットマガジン](https://ja.wikipedia.org/wiki/スーパーロボットマガジン "wikilink")連載。アクションコミックス全1巻。ISBN 9784575938388
+    [双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink")、作：[環望](../Page/環望.md "wikilink")、[スーパーロボットマガジン](../Page/スーパーロボットマガジン.md "wikilink")連載。アクションコミックス全1巻。ISBN 9784575938388
     ゲーム本編の漫画化。
   - スーパーロボット大戦IMPACT 4コマ戦線
     2002年7月12日初版、[双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink")、アクションコミックス。ISBN 9784575937855
@@ -185,7 +185,7 @@ CMソング「Machine Soul〜奇跡を呼ぶIMPACT POWER〜」は主題歌「GO\
     2002年10月10日初版、光文社、火の玉ゲームコミックシリーズ。ISBN 9784334805661
     複数作家による二次創作短編漫画。
   - スーパーロボット大戦IMPACT 4コマKINGS
-    2002年8月15日初版、[一迅社](https://ja.wikipedia.org/wiki/一迅社 "wikilink")、DNAメディアコミックス。ISBN 9784758000604
+    2002年8月15日初版、[一迅社](../Page/一迅社.md "wikilink")、DNAメディアコミックス。ISBN 9784758000604
     複数作家による二次創作4コマ漫画。
   - スーパーロボット大戦IMPACT 4コマKINGS VOL.2
     2003年1月15日初版、一迅社、DNAメディアコミックス。ISBN 9784758000796
@@ -206,7 +206,7 @@ CMソング「Machine Soul〜奇跡を呼ぶIMPACT POWER〜」は主題歌「GO\
 ### CD
 
   - スーパーロボット大戦IMPACT オリジナルサウンドトラック
-    2002年5月22日発売 [ランティス](https://ja.wikipedia.org/wiki/ランティス "wikilink")
+    2002年5月22日発売 [ランティス](../Page/ランティス.md "wikilink")
     本編BGMを収録したサウンドトラックCD。
 
 ## 脚注
@@ -224,7 +224,7 @@ CMソング「Machine Soul〜奇跡を呼ぶIMPACT POWER〜」は主題歌「GO\
 [Category:スーパーロボット大戦のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:スーパーロボット大戦のコンピュータゲーム "wikilink") [Category:バンプレストのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:バンプレストのクロスオーバー作品 "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:2002年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2002年のコンピュータゲーム "wikilink") [Category:リメイクゲーム](https://ja.wikipedia.org/wiki/Category:リメイクゲーム "wikilink")
 
 1.
-2.  単独作品としては、『[スーパーロボット大戦OG ORIGINAL GENERATIONS](https://ja.wikipedia.org/wiki/スーパーロボット大戦OG_ORIGINAL_GENERATIONS "wikilink")』（全106話）に次いで長い。ただし、サブミッション制の『[スーパーロボット大戦Operation Extend](https://ja.wikipedia.org/wiki/スーパーロボット大戦Operation_Extend "wikilink")』（クリア必須ミッション数182＋α）を除く。
+2.  単独作品としては、『[スーパーロボット大戦OG ORIGINAL GENERATIONS](../Page/スーパーロボット大戦OG_ORIGINAL_GENERATIONS.md "wikilink")』（全106話）に次いで長い。ただし、サブミッション制の『[スーパーロボット大戦Operation Extend](https://ja.wikipedia.org/wiki/スーパーロボット大戦Operation_Extend "wikilink")』（クリア必須ミッション数182＋α）を除く。
 3.
 4.
 5.  「スーパーロボット大戦IMPACT オリジナルサウンドトラック」ブックレット

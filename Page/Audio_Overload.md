@@ -14,12 +14,12 @@
   - IMF - いくつかの[Apogee](https://ja.wikipedia.org/wiki/Apogee "wikilink")用ゲームサウンド（[PC/AT互換機](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink")）
   - KSS - [MSX](https://ja.wikipedia.org/wiki/MSX "wikilink")シリーズ
   - MDX - [シャープ](../Page/シャープ.md "wikilink")・[X68000](https://ja.wikipedia.org/wiki/X68000 "wikilink")
-  - [MOD](../Page/MOD_\(ファイルフォーマット\).md "wikilink") - [コモドール](https://ja.wikipedia.org/wiki/コモドール "wikilink")・[アミーガ](../Page/Amiga.md "wikilink")
+  - [MOD](../Page/MOD_\(ファイルフォーマット\).md "wikilink") - [コモドール](../Page/コモドール.md "wikilink")・[アミーガ](../Page/Amiga.md "wikilink")
   - [NSF](https://ja.wikipedia.org/wiki/NSF "wikilink") - 任天堂・[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")
   - [NSFE](https://ja.wikipedia.org/wiki/NSFe "wikilink") - 任天堂・ファミリーコンピュータ（拡張タグつき）
   - ORC - [TRS-80 Orchestra-90](https://ja.wikipedia.org/wiki/TRS-80_Orchestra-90 "wikilink")
-  - [PSF](https://ja.wikipedia.org/wiki/PSF "wikilink") - [ソニー](../Page/ソニー.md "wikilink")・[プレイステーション](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")
-  - QSF - [カプコン](https://ja.wikipedia.org/wiki/カプコン "wikilink")・[QSound](https://ja.wikipedia.org/wiki/QSound "wikilink")フォーマット
+  - [PSF](https://ja.wikipedia.org/wiki/PSF "wikilink") - [ソニー](../Page/ソニー.md "wikilink")・[プレイステーション](../Page/PlayStation_\(ゲーム機\).md "wikilink")
+  - QSF - [カプコン](../Page/カプコン.md "wikilink")・[QSound](https://ja.wikipedia.org/wiki/QSound "wikilink")フォーマット
   - RAW - [AdLib](https://ja.wikipedia.org/wiki/AdLib "wikilink")サウンドフォーマット（PC/AT互換機）
   - ROL - AdLib Visual Composerフォーマット（PC/AT互換機）
   - [S3M](https://ja.wikipedia.org/wiki/S3M "wikilink") - GUSおよび[SoundBlaster](https://ja.wikipedia.org/wiki/SoundBlaster "wikilink")フォーマット（主にPC/AT互換機）

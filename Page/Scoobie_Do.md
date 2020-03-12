@@ -1,7 +1,7 @@
 > この記事は[Scoobie Do](https://ja.wikipedia.org/wiki/Scoobie_Do)から翻訳されています。
 
 
-**SCOOBIE DO**（スクービードゥー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性4人組の[ファンク](https://ja.wikipedia.org/wiki/ファンク "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。
+**SCOOBIE DO**（スクービードゥー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性4人組の[ファンク](../Page/ファンク.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。
 
 ## メンバー
 
@@ -20,7 +20,7 @@
 
   - マツキ タイジロウ【松木 泰二郎】
 
-「グランドスラムギターリスト」「俺達のリーダー」（[ギター](../Page/ギター.md "wikilink")・リーダー、ほぼ全ての作詞・曲 / 1975年[7月3日](https://ja.wikipedia.org/wiki/7月3日 "wikilink")生まれ、血液型B型、趣味：ギターいじり）
+「グランドスラムギターリスト」「俺達のリーダー」（[ギター](../Page/ギター.md "wikilink")・リーダー、ほぼ全ての作詞・曲 / 1975年[7月3日](../Page/7月3日.md "wikilink")生まれ、血液型B型、趣味：ギターいじり）
 
   -
     幼馴染であるコヤマの兄の影響で[ブラックミュージック](../Page/ブラックミュージック.md "wikilink")を聴き始めるが、周りに語り合える人がいないため、コヤマを黒人音楽好きに染め上げる。ギターは中学校から毎日のように弾いており、大学入学と共にバンドを組むことを決意。「同じような趣味の人間は、コヤマしかいない」「そういえばアイツは小学生の頃、前に出ると何かやるタイプだった」という二つの理由で、コヤマをボーカルとして誘い、バンド結成。
@@ -30,7 +30,7 @@
 
   - ナガイケ ジョー【本名非公表】
 
-「ファンキーライン」「ファンタジスタ」（[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink") / [1981年](../Page/1981年.md "wikilink")[12月3日](../Page/12月3日.md "wikilink")生まれ、血液型O型、趣味：散歩）
+「ファンキーライン」「ファンタジスタ」（[ベース](../Page/ベース_\(弦楽器\).md "wikilink") / [1981年](../Page/1981年.md "wikilink")[12月3日](../Page/12月3日.md "wikilink")生まれ、血液型O型、趣味：散歩）
 
   -
     元々はスクービードゥーのステージを観る側だったが、MOBYが大学の音楽サークルのOBだったことで、前ベーシストが脱退した際に学生のままベースとして正式加入することになる。大学在学中に、全都道府県ツアーやメジャーデビューを経験したが、他のメンバーの「卒業はちゃんとした方がいい」という考えもあり、ジョーの卒業年度となる2003年は、シングル・アルバムの発表とイベント出演のみに専念し、ツアーは行わなかった。ジョーもメンバーの思いに応え、きっちり4年で卒業した。
@@ -40,13 +40,13 @@
 
   - オカモト"MOBY"タクヤ【岡本 拓也】
 
-「ファットでバッドでタイトなドラマー」「ファンキー・マエストロ」（[ドラム](../Page/ドラムセット.md "wikilink")、マネージャー、[アフロ](https://ja.wikipedia.org/wiki/アフロヘアー "wikilink") / [1976年](../Page/1976年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink")生まれ、血液型B型、趣味：野球（[ロッテファン](../Page/千葉ロッテマリーンズ.md "wikilink")））
+「ファットでバッドでタイトなドラマー」「ファンキー・マエストロ」（[ドラム](../Page/ドラムセット.md "wikilink")、マネージャー、[アフロ](../Page/アフロヘアー.md "wikilink") / [1976年](../Page/1976年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink")生まれ、血液型B型、趣味：野球（[ロッテファン](../Page/千葉ロッテマリーンズ.md "wikilink")））
 
   -
     1995年、先輩の「お前はドラムが似合う顔だ」という言葉に影響され、ドラムをはじめる。[早稲田大学第二文学部](../Page/早稲田大学第二文学部.md "wikilink")入学後、最初の体育の授業で集合場所を間違え、東伏見の野球場に行った際に、同じく間違って途方にくれていたコヤマと出会う。そのときコヤマと何故か、早稲田の映画館「早稲田松竹」で上映されていた'60年代のロック映画『砂丘』の話題になり、「こいつとは気があう」と一方的に思い、親交が始まる。
-    [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[6月](../Page/6月.md "wikilink")、[ボブ・ディラン](../Page/ボブ・ディラン.md "wikilink")の『[ブロンド・オン・ブロンド](../Page/ブロンド・オン・ブロンド.md "wikilink")』を持って、「これにしてくれ」と美容院のお兄さんに頼んだところ、現在の[アフロヘアー](https://ja.wikipedia.org/wiki/アフロヘアー "wikilink")になってしまった。失敗だと思っていたところ、「以前、実父もやっていた」という衝撃の事実を知る。
-    他の3人が若干人見知りなせいもあり、自ら率先してスクービードゥーの外交役を務める。[スペースシャワーTV](https://ja.wikipedia.org/wiki/スペースシャワーTV "wikilink")で、[熱血\!スペシャ中学](https://ja.wikipedia.org/wiki/熱血!スペシャ中学 "wikilink")、[音知連](https://ja.wikipedia.org/wiki/音知連 "wikilink")等、単独でのテレビ出演も多く、「うんちく」を披露する。自他共に認めるスクービードゥーの宣伝部長。なお、ライブハウス等を中心に[DJ活動も行っている](../Page/ディスクジョッキー.md "wikilink")。
-    妻はライターで「パンケーキ・ノート おいしいパンケーキ案内100」の著者である[トミヤマユキコ](https://ja.wikipedia.org/wiki/トミヤマユキコ "wikilink")。2014年入籍。幼少時から『[アメリカ横断ウルトラクイズ](https://ja.wikipedia.org/wiki/アメリカ横断ウルトラクイズ "wikilink")』（日本テレビ系）の熱狂的なファンであり、それが高じて『第28回[全国高等学校クイズ選手権](https://ja.wikipedia.org/wiki/全国高等学校クイズ選手権 "wikilink")』（同）では作問を担当。全国大会で2問採用されている\[1\]。
+    [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[6月](../Page/6月.md "wikilink")、[ボブ・ディラン](../Page/ボブ・ディラン.md "wikilink")の『[ブロンド・オン・ブロンド](../Page/ブロンド・オン・ブロンド.md "wikilink")』を持って、「これにしてくれ」と美容院のお兄さんに頼んだところ、現在の[アフロヘアー](../Page/アフロヘアー.md "wikilink")になってしまった。失敗だと思っていたところ、「以前、実父もやっていた」という衝撃の事実を知る。
+    他の3人が若干人見知りなせいもあり、自ら率先してスクービードゥーの外交役を務める。[スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")で、[熱血\!スペシャ中学](../Page/熱血!スペシャ中学.md "wikilink")、[音知連](https://ja.wikipedia.org/wiki/音知連 "wikilink")等、単独でのテレビ出演も多く、「うんちく」を披露する。自他共に認めるスクービードゥーの宣伝部長。なお、ライブハウス等を中心に[DJ活動も行っている](../Page/ディスクジョッキー.md "wikilink")。
+    妻はライターで「パンケーキ・ノート おいしいパンケーキ案内100」の著者である[トミヤマユキコ](https://ja.wikipedia.org/wiki/トミヤマユキコ "wikilink")。2014年入籍。幼少時から『[アメリカ横断ウルトラクイズ](https://ja.wikipedia.org/wiki/アメリカ横断ウルトラクイズ "wikilink")』（日本テレビ系）の熱狂的なファンであり、それが高じて『第28回[全国高等学校クイズ選手権](../Page/全国高等学校クイズ選手権.md "wikilink")』（同）では作問を担当。全国大会で2問採用されている\[1\]。
 
 ### 元メンバー
 
@@ -61,7 +61,7 @@
 <!-- end list -->
 
   -
-    米アニメ「[スクービー・ドゥー](https://ja.wikipedia.org/wiki/スクービー・ドゥー_\(フィクション作品\) "wikilink")」（弱虫クルッパー）にちなんだものではない。*Scooby Doo*と*SCOOBIE DO*でスペルも違う。
+    米アニメ「[スクービー・ドゥー](../Page/スクービー・ドゥー_\(フィクション作品\).md "wikilink")」（弱虫クルッパー）にちなんだものではない。*Scooby Doo*と*SCOOBIE DO*でスペルも違う。
 
 <!-- end list -->
 
@@ -88,11 +88,11 @@
 
 [2004年](../Page/2004年.md "wikilink")3月、マツキタイジロウの回復に伴い、ライヴ活動を再開。マツキタイジロウがライブ中にステージでまともに喋ったのは、この復活ライブの時のみ。4月、シングル『パレード』をリリース。5月、全国ツアー「Here We Do Again\!」開始。7月、メジャー2ndアルバム『Beautiful Days』をリリース（ちなみにCCCDではなかった）。9月、[代官山UNITにて](https://ja.wikipedia.org/wiki/UNIT "wikilink")、初のメンバー発信のレギュラーナイトミーティング「Root \&United」スタート。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")1月、第2回「Root & United」を代官山UNITで開催。その後、3回・4回と続き、[SOIL&"PIMP"SESSIONS](../Page/SOIL&"PIMP"SESSIONS.md "wikilink")、[RHYMESTER](https://ja.wikipedia.org/wiki/RHYMESTER "wikilink")、[ZAZEN BOYSなどとセッションし](https://ja.wikipedia.org/wiki/ZAZEN_BOYS "wikilink")、自分達の音楽を標榜する言葉として「Funk-a-lismo\!」（ファンカリズモ）を掲げるようになる。
+[2005年](../Page/2005年.md "wikilink")1月、第2回「Root & United」を代官山UNITで開催。その後、3回・4回と続き、[SOIL&"PIMP"SESSIONS](../Page/SOIL&"PIMP"SESSIONS.md "wikilink")、[RHYMESTER](../Page/RHYMESTER.md "wikilink")、[ZAZEN BOYSなどとセッションし](../Page/ZAZEN_BOYS.md "wikilink")、自分達の音楽を標榜する言葉として「Funk-a-lismo\!」（ファンカリズモ）を掲げるようになる。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")6月、日比谷野外音楽堂にて、結成10周年記念イベント「Royal Funk-a-lismo\!」を実施。7月1日、プライヴェート・レーベル「CHAMP RECORDS」を立ち上げ。
+[2006年](../Page/2006年.md "wikilink")6月、日比谷野外音楽堂にて、結成10周年記念イベント「Royal Funk-a-lismo\!」を実施。7月1日、プライヴェート・レーベル「CHAMP RECORDS」を立ち上げ。
 
-[2007年](../Page/2007年.md "wikilink")、4月「トラウマティック・ガール」をリリース。向井秀徳(ZAZEN BOYS / エンジニアも担当)のプライヴェート・スタジオ「MATSURI STUDIO」にて録音。ツアー「Funk-a-lismo\!vol.3」開催。8月、[RISING SUN ROCK FESTIVAL 2007 in EZO出演](https://ja.wikipedia.org/wiki/ライジング・サン・ロックフェスティバル "wikilink")。12月、[COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 初出演。
+[2007年](../Page/2007年.md "wikilink")、4月「トラウマティック・ガール」をリリース。向井秀徳(ZAZEN BOYS / エンジニアも担当)のプライヴェート・スタジオ「MATSURI STUDIO」にて録音。ツアー「Funk-a-lismo\!vol.3」開催。8月、[RISING SUN ROCK FESTIVAL 2007 in EZO出演](../Page/ライジング・サン・ロックフェスティバル.md "wikilink")。12月、[COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 初出演。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、4月「パラサイティック・ガール」をリリース。ツアー「Funk-a-lismo\!vol.4」開催。8月、初の会場限定ライヴ盤「Bootleg-tic Girl」販売開始。その後、ライブチャンプとして着実に名をあげつつ、年間百本近くのライブをこなす。SUPER BUTTER DOGや東京事変との対バンなどを行う。
 
@@ -472,7 +472,7 @@ VICL-62699(再発)</p></td>
 <td><p>VICL-35579</p></td>
 </tr>
 <tr class="even">
-<td><p>*茜色が燃えるとき - <a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレ東アニメ</a>「<a href="https://ja.wikipedia.org/wiki/ガングレイヴ" title="wikilink">GUNGRAVE</a>」ED</p></td>
+<td><p>*茜色が燃えるとき - <a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレ東アニメ</a>「<a href="../Page/ガングレイヴ.md" title="wikilink">GUNGRAVE</a>」ED</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -769,14 +769,14 @@ cover CD</p></td>
 <div class="NavContent" style="text-align:left;">
 <ol>
 <li>INTRODUCTION (studio ver.)</li>
-<li>A CHANT FOR BU (straight ver.) <small>『<a href="https://ja.wikipedia.org/wiki/アート・ブレイキー" title="wikilink">Art Blakey &amp; The Jazz Messengers</a>』</small></li>
+<li>A CHANT FOR BU (straight ver.) <small>『<a href="../Page/アート・ブレイキー.md" title="wikilink">Art Blakey &amp; The Jazz Messengers</a>』</small></li>
 <li>疲れない人 〜 TIGHTEN UP <small>『<a href="../Page/フィッシュマンズ.md" title="wikilink">フィッシュマンズ</a> 〜 <a href="https://ja.wikipedia.org/wiki/アーチー・ベル&amp;ザ・ドレルズ" title="wikilink">アーチー・ベル&amp;ザ・ドレルズ</a>』</small></li>
-<li>恋をしましょう <small>『<a href="https://ja.wikipedia.org/wiki/フラワーカンパニーズ" title="wikilink">フラワーカンパニーズ</a>』</small></li>
+<li>恋をしましょう <small>『<a href="../Page/フラワーカンパニーズ.md" title="wikilink">フラワーカンパニーズ</a>』</small></li>
 <li>FUNKY 4 TIMES</li>
-<li>スニーカーぶる〜す <small>『<a href="https://ja.wikipedia.org/wiki/近藤真彦" title="wikilink">近藤真彦</a>』</small></li>
+<li>スニーカーぶる〜す <small>『<a href="../Page/近藤真彦.md" title="wikilink">近藤真彦</a>』</small></li>
 <li>チェリー <small>『<a href="https://ja.wikipedia.org/wiki/スピッツ_(バンド)" title="wikilink">スピッツ</a>』</small></li>
 <li>MIRACLE WAVE</li>
-<li>WELCOME TO MY DOGHOUSE <small>『<a href="https://ja.wikipedia.org/wiki/THE_YELLOW_MONKEY" title="wikilink">THE YELLOW MONKEY</a>』</small></li>
+<li>WELCOME TO MY DOGHOUSE <small>『<a href="../Page/THE_YELLOW_MONKEY.md" title="wikilink">THE YELLOW MONKEY</a>』</small></li>
 <li>美しく燃える森 <small>『<a href="../Page/東京スカパラダイスオーケストラ.md" title="wikilink">東京スカパラダイスオーケストラ</a>』</small></li>
 <li>RIDE ON TIME <small>『<a href="../Page/山下達郎.md" title="wikilink">山下達郎</a>』</small></li>
 <li>DAY TRIPPER <small>『<a href="https://ja.wikipedia.org/wiki/The_Beatles" title="wikilink">The Beatles</a>』</small></li>
@@ -1090,7 +1090,7 @@ cover CD</p></td>
 <td><p>HICC-2408</p></td>
 </tr>
 <tr class="even">
-<td><p><small>CHAMP RECORDS最初のリリース音源。エンジニアに<a href="https://ja.wikipedia.org/wiki/向井秀徳" title="wikilink">向井秀徳</a>(<a href="https://ja.wikipedia.org/wiki/ZAZEN_BOYS" title="wikilink">ZAZEN BOYS</a>)が参加。</small></p></td>
+<td><p><small>CHAMP RECORDS最初のリリース音源。エンジニアに<a href="../Page/向井秀徳.md" title="wikilink">向井秀徳</a>(<a href="../Page/ZAZEN_BOYS.md" title="wikilink">ZAZEN BOYS</a>)が参加。</small></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1826,7 +1826,7 @@ SIDE-B - Scoobie Do<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/コンピレーション・アルバム" title="wikilink">Compi Al</a></p></td>
+<td><p><a href="../Page/コンピレーション・アルバム.md" title="wikilink">Compi Al</a></p></td>
 <td><p><strong>ALWAYS HERE!<br />
 ALWAYS DRUNK!<br />
 ALWAYS ROCK YOU!</strong></p></td>
@@ -1887,7 +1887,7 @@ ALWAYS ROCK YOU!</strong></p></td>
 <td><p>Al「<a href="https://ja.wikipedia.org/wiki/Notes_4_You" title="wikilink">Notes 4 You</a>」</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/RHYMESTER" title="wikilink">RHYMESTER</a></p></td>
+<td><p><a href="../Page/RHYMESTER.md" title="wikilink">RHYMESTER</a></p></td>
 <td><p>けしからん<br />
 <small> session with SCOOBIE DO</small></p></td>
 <td><p>演奏:Scoobie Do</p></td>
@@ -1900,7 +1900,7 @@ ALWAYS ROCK YOU!</strong></p></td>
 <td><p>作詞:<small>宇多丸/MUMMY-D/</small>小山周<small>/DJ JIN</small><br />
 作曲:松木泰二郎<small>/DJ JIN</small><br />
 演奏:Scoobie Do</p></td>
-<td><p>Al「<a href="https://ja.wikipedia.org/wiki/HEAT_ISLAND_(アルバム)" title="wikilink">HEAT ISLAND</a>」<br />
+<td><p>Al「<a href="../Page/HEAT_ISLAND_(アルバム).md" title="wikilink">HEAT ISLAND</a>」<br />
 <small>「KING OF STAGE Vol.6」 ※日比谷野外音楽堂ライヴにゲスト参加。<br />
 DVD「KING OF STAGE VOL.7」※武道館ライヴにゲスト参加。</small></p></td>
 <td></td>
@@ -1910,7 +1910,7 @@ DVD「KING OF STAGE VOL.7」※武道館ライヴにゲスト参加。</small></
 <small> feat. SCOOBIE DO</small></p></td>
 <td><p>演奏:Scoobie Do</p></td>
 <td><p><small>「KING OF STAGE Vol.6」 ※日比谷野外音楽堂ライヴにゲスト参加。<br />
-※原曲は<a href="https://ja.wikipedia.org/wiki/RHYMESTER" title="wikilink">RHYMESTER</a>と<a href="https://ja.wikipedia.org/wiki/SUPER_BUTTER_DOG" title="wikilink">SUPER BUTTER DOGとの共同作品</a>。<br />
+※原曲は<a href="../Page/RHYMESTER.md" title="wikilink">RHYMESTER</a>と<a href="../Page/SUPER_BUTTER_DOG.md" title="wikilink">SUPER BUTTER DOGとの共同作品</a>。<br />
 今回のセッションのためサビ部分は新たに書き下ろし披露している。</small></p></td>
 <td></td>
 </tr>
@@ -1935,14 +1935,14 @@ DVD「KING OF STAGE VOL.7」※武道館ライヴにゲスト参加。</small></
 <td><p>Al「Kohshi」</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/Romancrew" title="wikilink">Romancrew</a></p></td>
+<td><p><a href="../Page/Romancrew.md" title="wikilink">Romancrew</a></p></td>
 <td><p>ロマンより愛をこめて<br />
 <small>feat.コヤマシュウ</small></p></td>
 <td><p>Vo:コヤマシュウ</p></td>
 <td><p>Al「<a href="../Page/DUCK&#39;s_MARKET.md" title="wikilink">DUCK's MARKET</a>」</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/スカポンタス" title="wikilink">スカポンタス</a></p></td>
+<td><p><a href="../Page/スカポンタス.md" title="wikilink">スカポンタス</a></p></td>
 <td><p>SOULFUL CHRISTMAS</p></td>
 <td><p>Vo:コヤマシュウ</p></td>
 <td><p>Al「GO!GO! SWINGIN'SANTA CLAUS」</p></td>
@@ -2030,14 +2030,14 @@ Al「Extra Funk-a-lismo!」</p></td>
 </tr>
 <tr class="even">
 <td><p>WELCOME TO MY DOGHOUSE</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/THE_YELLOW_MONKEY" title="wikilink">THE YELLOW MONKEY</a></p></td>
+<td><p><a href="../Page/THE_YELLOW_MONKEY.md" title="wikilink">THE YELLOW MONKEY</a></p></td>
 <td><p>トリビュート盤「THIS IS FOR YOU」<br />
 Al「Extra Funk-a-lismo!」</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/スニーカーぶる〜す" title="wikilink">スニーカーぶる〜す</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/近藤真彦" title="wikilink">近藤真彦</a></p></td>
+<td><p><a href="../Page/近藤真彦.md" title="wikilink">近藤真彦</a></p></td>
 <td><p>トリビュート盤「MATCHY TRIBUTE」<br />
 Al「Extra Funk-a-lismo!」</p></td>
 <td></td>
@@ -2050,7 +2050,7 @@ Al「Extra Funk-a-lismo!」</p></td>
 </tr>
 <tr class="odd">
 <td><p>恋をしましょう</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フラワーカンパニーズ" title="wikilink">フラワーカンパニーズ</a></p></td>
+<td><p><a href="../Page/フラワーカンパニーズ.md" title="wikilink">フラワーカンパニーズ</a></p></td>
 <td><p>トリビュート盤「I♥FC MORE THAN EVER〜FLOWER COMPANYZ TRIBUTE〜」<br />
 Al「Extra Funk-a-lismo!」</p></td>
 <td></td>
@@ -2145,23 +2145,23 @@ Al「Extra Funk-a-lismo!」</p></td>
         w/[犬式](https://ja.wikipedia.org/wiki/犬式 "wikilink")
   - 2005年 - Root\&United Vol.3〜Funk-a-lismo\!〜
       -
-        w/[RHYMESTER](https://ja.wikipedia.org/wiki/RHYMESTER "wikilink")
+        w/[RHYMESTER](../Page/RHYMESTER.md "wikilink")
   - 2005年 - TOUR 2005 AUTUMN「Funk-a-lismo\!」
   - 2005年 - TOUR 2005 AUTUMN “Funk-a-lismo\!” FINAL Ver. Root\&United Vol.5 “Grand-Funk-a-lismo\!”
       -
-        w/[ZAZEN BOYS](https://ja.wikipedia.org/wiki/ZAZEN_BOYS "wikilink")
+        w/[ZAZEN BOYS](../Page/ZAZEN_BOYS.md "wikilink")
   - 2006年 - Royal-Funk-a-lismo\!
       -
         w/RHYMESTER、タブゾンビ&元晴([SOIL&"PIMP"SESSIONS](../Page/SOIL&"PIMP"SESSIONS.md "wikilink"))/[高野勲](https://ja.wikipedia.org/wiki/高野勲 "wikilink")
   - 2006年 - TOUR 2006 AUTUMN「Funk-a-lismo\!Vol.2」
   - 2007年 - Root\&United Vol.7
       -
-        w/[The Miceteeth](https://ja.wikipedia.org/wiki/The_Miceteeth "wikilink")
-  - 2007年 - SCOOBIE DO VS [YOUR SONG IS GOOD](https://ja.wikipedia.org/wiki/YOUR_SONG_IS_GOOD "wikilink")
+        w/[The Miceteeth](../Page/The_Miceteeth.md "wikilink")
+  - 2007年 - SCOOBIE DO VS [YOUR SONG IS GOOD](../Page/YOUR_SONG_IS_GOOD.md "wikilink")
   - 2007年 - SCOOBIE DO TOUR 2007"Funk-a-lismo\! Vol.3"
   - 2007年 - Root\&United Vol.8
       -
-        w/[FIREBALL](https://ja.wikipedia.org/wiki/FIRE_BALL_\(レゲエグループ\) "wikilink")
+        w/[FIREBALL](../Page/FIRE_BALL_\(レゲエグループ\).md "wikilink")
   - 2008年 - Root\&United Vol.9
       -
         w/[オーサカ=モノレール](../Page/オーサカ=モノレール.md "wikilink")
@@ -2186,7 +2186,7 @@ Al「Extra Funk-a-lismo!」</p></td>
   - 2010年 - SCOOBIE DO インストアライブ
   - 2010年 - Root\&United vol.14
       -
-        w/[サンボマスター](https://ja.wikipedia.org/wiki/サンボマスター "wikilink")
+        w/[サンボマスター](../Page/サンボマスター.md "wikilink")
   - 2010年 - Funk-a-lismo\! vol.6
   - 2011年 - Root\&United vol.15
       -
@@ -2199,7 +2199,7 @@ Al「Extra Funk-a-lismo!」</p></td>
         w/[アナログフィッシュ](../Page/アナログフィッシュ.md "wikilink")
   - 2011年 - Root\&United vol.16
       -
-        w/[GOING UNDER GROUND](https://ja.wikipedia.org/wiki/GOING_UNDER_GROUND "wikilink")
+        w/[GOING UNDER GROUND](../Page/GOING_UNDER_GROUND.md "wikilink")
   - 2012年 - Root\&United vol.17
       -
         w/[レキシ](../Page/レキシ.md "wikilink")
@@ -2218,7 +2218,7 @@ Al「Extra Funk-a-lismo!」</p></td>
   - 2013年04月05日 - SCOOBIE [DOES](https://ja.wikipedia.org/wiki/DOES "wikilink")
   - 2013年04月14日 - Root & United vol.19
       -
-        w/[スチャダラパー](https://ja.wikipedia.org/wiki/スチャダラパー "wikilink")
+        w/[スチャダラパー](../Page/スチャダラパー.md "wikilink")
   - 2013年04月26日 - DOの部屋
   - 2013年06月12日〜11月09日 - Funk-a-lismo\! vol.8
   - 2013年12月23日 - Different Strokes
@@ -2238,11 +2238,11 @@ Al「Extra Funk-a-lismo!」</p></td>
   - 2014年05月06日 - 春のワンマン祭り〜全部のせ公演
   - 2014年07月21日〜08月29日 - 天国や地獄 vol.2
       -
-        w/[QUATTRO](https://ja.wikipedia.org/wiki/QUATTRO_\(バンド\) "wikilink")/[MO'SOME TONEBENDER](https://ja.wikipedia.org/wiki/MO'SOME_TONEBENDER "wikilink")/[go\!go\!vanillas](https://ja.wikipedia.org/wiki/go!go!vanillas "wikilink")/爆弾ジョニー/[音速ライン](https://ja.wikipedia.org/wiki/音速ライン "wikilink")
+        w/[QUATTRO](https://ja.wikipedia.org/wiki/QUATTRO_\(バンド\) "wikilink")/[MO'SOME TONEBENDER](../Page/MO'SOME_TONEBENDER.md "wikilink")/[go\!go\!vanillas](https://ja.wikipedia.org/wiki/go!go!vanillas "wikilink")/爆弾ジョニー/[音速ライン](../Page/音速ライン.md "wikilink")
   - 2014年09月05日 - SCOOBIE TSURU
   - 2014年10月19日 - Root & United vol.21
       -
-        w/[カジヒデキ](https://ja.wikipedia.org/wiki/カジヒデキ "wikilink")
+        w/[カジヒデキ](../Page/カジヒデキ.md "wikilink")
         w/[山名昇](https://ja.wikipedia.org/wiki/山名昇 "wikilink")
   - 2014年10月24日〜12月21日 - Funk-a-lismo\! vol.9
   - 2015年01月10日〜04月12日 - SCOOBIE DO TOUR「Funk-a-lismo\! vol.9.5」
@@ -2362,7 +2362,7 @@ Al「Extra Funk-a-lismo!」</p></td>
   - 2012年12月23日 - RED GENERATION\[VOL.49PARTY\]〜ユキノpresents〜
   - 2012年12月28日 - COUNTDOWN JAPAN 12/13
   - 2013年01月12日 - 新年\!\! 会いにいけるFUNK 〜SCOOBIE DO × [オーサカ=モノレール](../Page/オーサカ=モノレール.md "wikilink")
-  - 2013年01月13日 - [フラワーカンパニーズ](https://ja.wikipedia.org/wiki/フラワーカンパニーズ "wikilink") フラカン結成25周年 〜ほぼ対バンtour〜「シリーズ・人間の爆発スペシャル」
+  - 2013年01月13日 - [フラワーカンパニーズ](../Page/フラワーカンパニーズ.md "wikilink") フラカン結成25周年 〜ほぼ対バンtour〜「シリーズ・人間の爆発スペシャル」
   - 2013年02月03日 - NIHONKOGAKUIN MUSIC COLLEGE presents 卒業LIVE2013 「EVER ONWARD」
   - 2013年03月17日 - HAPPY JACK 2013
   - 2013年03月19日 - [四星球](../Page/四星球.md "wikilink")主催"毛が生えた日〜SRC前夜祭〜"
@@ -2382,7 +2382,7 @@ Al「Extra Funk-a-lismo!」</p></td>
   - 2013年08月27日 - KOBE Goodies Collection
   - 2013年11月14日 - [TOWER RECORDS](https://ja.wikipedia.org/wiki/TOWER_RECORDS "wikilink") presents Otonano/Oto
   - 2013年11月16日・17日・12月07日・08日 - [a flood of circle](https://ja.wikipedia.org/wiki/a_flood_of_circle "wikilink") Tour I'M FREE"AFOCの47都道府県制覇\!形ないものを爆破しにいくツアー 迷わず行けよ編
-  - 2013年12月18日 - [GRAPEVINE](https://ja.wikipedia.org/wiki/GRAPEVINE "wikilink") × SCOOBIE DO
+  - 2013年12月18日 - [GRAPEVINE](../Page/GRAPEVINE.md "wikilink") × SCOOBIE DO
   - 2013年12月22日 - RED GENERATION\[VOL.52PARTY\]
   - 2013年12月28日 - IN BUSINESS
   - 2014年02月04日・05日 - MINE☆ROCK CARNIVAL
@@ -2395,7 +2395,7 @@ Al「Extra Funk-a-lismo!」</p></td>
   - 2014年05月10日 - 道玄坂異種格闘技戦 vol.65
   - 2014年05月11日 - DANCE ROOM RACKET IN MOTOYAWATA
   - 2014年05月15日 - 20周年\! 華夢氣企画☆真撃\! QLUB Que 20周年 K.O.G.A Records presents 『OPERATION MAGOKORO』
-  - 2014年05月24日 - 会いに行けるFUNK'2014 〜SCOOBIE DO × [Hermann H.\&The Pacemakers](https://ja.wikipedia.org/wiki/Hermann_H.&The_Pacemakers "wikilink")〜
+  - 2014年05月24日 - 会いに行けるFUNK'2014 〜SCOOBIE DO × [Hermann H.\&The Pacemakers](../Page/Hermann_H.&The_Pacemakers.md "wikilink")〜
   - 2014年07月13日 - 神戸VARIT.10th Anniversary『バリFUNKYでバリSOULなバリット音泉』
   - 2014年07月19日 - 所沢 夏びらき MUSIC FESTIVAL 2014
   - 2014年08月10日 - ROCK IN JAPAN FESTIVAL 2014
@@ -2410,9 +2410,9 @@ Al「Extra Funk-a-lismo!」</p></td>
   - 2014年12月27日 - [FM802](../Page/FM802.md "wikilink") ROCK FESTIVAL [RADIO CRAZY](https://ja.wikipedia.org/wiki/RADIO_CRAZY "wikilink") 2014
   - 2014年12月28日 - 年末調整GIG 2014
   - 2015年01月15日 - フラカン25周年記念トリビュートparty「WE▼FC MORE THAN EVER」
-  - 2015年01月22日・24日・25日 - [フラワーカンパニーズ](https://ja.wikipedia.org/wiki/フラワーカンパニーズ "wikilink") フラカン結成25周年 ほぼ対バンtour 「シリーズ・人間の爆発スペシャル」
+  - 2015年01月22日・24日・25日 - [フラワーカンパニーズ](../Page/フラワーカンパニーズ.md "wikilink") フラカン結成25周年 ほぼ対バンtour 「シリーズ・人間の爆発スペシャル」
   - 2015年02月21日 - RED GENERATION 8th Anniversary \[VOL.57PARTY\]
-  - 2015年03月20日 - [マキタスポーツ](https://ja.wikipedia.org/wiki/マキタスポーツ "wikilink") EXPO2015
+  - 2015年03月20日 - [マキタスポーツ](../Page/マキタスポーツ.md "wikilink") EXPO2015
   - 2015年03月28日 - IMAIKE GO NOW 2015
   - 2015年04月15日 - KYOTO MUSE 25th ANNIVERSARY "25SOULS"
   - 2015年04月24日 - 荒吐宵祭前夜「初恋の嵐×ARABAKI PROJECT Presents『対バンの嵐』」

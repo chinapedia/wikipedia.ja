@@ -30,7 +30,7 @@
 <td><p><strong><a href="../Page/グローバー_(ミュージシャン).md" title="wikilink">グローバー義和</a></strong></p></td>
 <td><p>Vocal</p></td>
 <td><p>（ぐろーばーよしかず - <a href="https://ja.wikipedia.org/wiki/1978年" title="wikilink">1978年</a><a href="../Page/6月4日.md" title="wikilink">6月4日</a> - 神奈川県横浜市出身 - 東京大学文学部卒業）<br />
-バンドと平行し2003年「<a href="https://ja.wikipedia.org/wiki/Jackson_vibe" title="wikilink">Jackson vibe</a>」を結成。<br />
+バンドと平行し2003年「<a href="../Page/Jackson_vibe.md" title="wikilink">Jackson vibe</a>」を結成。<br />
 インド(父)と日本(母)のハーフ。2012年よりタレント活動も開始。</p></td>
 </tr>
 <tr class="even">
@@ -42,7 +42,7 @@
 <tr class="odd">
 <td><p><strong>塩山乱</strong></p></td>
 <td><p>Guitar</p></td>
-<td><p>（しおやまおさむ - <a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a><a href="../Page/久留米市.md" title="wikilink">久留米市</a>出身。東京大学法学部、九州大学法科大学院修了）<br />
+<td><p>（しおやまおさむ - <a href="../Page/福岡県.md" title="wikilink">福岡県</a><a href="../Page/久留米市.md" title="wikilink">久留米市</a>出身。東京大学法学部、九州大学法科大学院修了）<br />
 福岡県<a href="https://ja.wikipedia.org/wiki/福岡市" title="wikilink">福岡市</a>在住、<a href="../Page/弁護士.md" title="wikilink">弁護士</a>として活動。</p></td>
 </tr>
 <tr class="even">

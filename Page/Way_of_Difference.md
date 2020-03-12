@@ -5,12 +5,12 @@
 
 ## 概要
 
-  - 次のシングルである「[またここであいましょう](https://ja.wikipedia.org/wiki/またここであいましょう "wikilink")」及びさらに次の「[逢いたい気持ち](https://ja.wikipedia.org/wiki/逢いたい気持ち "wikilink")」までの3曲は全て[歌詞](../Page/歌詞.md "wikilink")の最初が「逢いたい」という同じような[フレーズ](https://ja.wikipedia.org/wiki/フレーズ "wikilink")となっているが、それは当時のTAKUROの私生活の影響であることが『胸懐』で語られている。
-  - 初動売上はシングルでは「[Missing You](https://ja.wikipedia.org/wiki/Missing_You_\(GLAYの曲\) "wikilink")」以来となる40万枚超を記録、2002年に発売された全てのシングルで最高の初動売上を記録した。また、初動売上のみで前作の累計売上を大きく上回っている。累計では70万枚以上を記録し、21世紀以降にリリースされた彼らのシングルでは最も売上が高い。
+  - 次のシングルである「[またここであいましょう](../Page/またここであいましょう.md "wikilink")」及びさらに次の「[逢いたい気持ち](../Page/逢いたい気持ち.md "wikilink")」までの3曲は全て[歌詞](../Page/歌詞.md "wikilink")の最初が「逢いたい」という同じような[フレーズ](https://ja.wikipedia.org/wiki/フレーズ "wikilink")となっているが、それは当時のTAKUROの私生活の影響であることが『胸懐』で語られている。
+  - 初動売上はシングルでは「[Missing You](../Page/Missing_You_\(GLAYの曲\).md "wikilink")」以来となる40万枚超を記録、2002年に発売された全てのシングルで最高の初動売上を記録した。また、初動売上のみで前作の累計売上を大きく上回っている。累計では70万枚以上を記録し、21世紀以降にリリースされた彼らのシングルでは最も売上が高い。
 
 ## 収録曲
 
-全作詞・作曲：[TAKURO](../Page/TAKURO.md "wikilink")　編曲：GLAY、[佐久間正英](https://ja.wikipedia.org/wiki/佐久間正英 "wikilink")
+全作詞・作曲：[TAKURO](../Page/TAKURO.md "wikilink")　編曲：GLAY、[佐久間正英](../Page/佐久間正英.md "wikilink")
 
 1.  **Way of Difference** \[4:55\]
       -

@@ -1,7 +1,7 @@
 > この記事は[MSplash!!](https://ja.wikipedia.org/wiki/MSplash!!)から翻訳されています。
 
 
-**M☆Splash\!\!**（エム・スプラッシュ）は、[プロ野球](../Page/プロ野球.md "wikilink")・[千葉ロッテマリーンズ](../Page/千葉ロッテマリーンズ.md "wikilink")の公式チア・パフォーマー（[チアリーディング](https://ja.wikipedia.org/wiki/チアリーディング "wikilink")）チーム。
+**M☆Splash\!\!**（エム・スプラッシュ）は、[プロ野球](../Page/プロ野球.md "wikilink")・[千葉ロッテマリーンズ](../Page/千葉ロッテマリーンズ.md "wikilink")の公式チア・パフォーマー（[チアリーディング](../Page/チアリーディング.md "wikilink")）チーム。
 
 ## 前史
 
@@ -15,7 +15,7 @@
 
 メインの活動はシーズン中のZOZOマリンスタジアム（旧称：[千葉マリンスタジアム](../Page/千葉マリンスタジアム.md "wikilink")）でのホームゲームおよび遠征先でのチアパフォーマンスであるが、その他にテレビ、イベント時のダンス出演、マリーンズグッズの販売促進、チャリティー、プロモーション、地域振興活動（例：小学校・幼稚園などへの訪問）など多岐に渡る。さらにホームゲームの前後には、QVCマリンフィールドの正面入り口に設けられたステージで、M☆Splash\!\!単独、[マーくん](https://ja.wikipedia.org/wiki/マーくん "wikilink")他のキャラクターと、時には他球団のキャラクターおよびチアパフォーマーとも合同でショーが開催される。また、毎試合メンバーのうち2名が、黒を基調とした衣装を着て「BLACK☆Splash\!\!」となり、ビジター側を盛り上げるキャラクター「COOL」とともに3塁側スタンドで活動している。
 
-過去には[ボビー・バレンタイン](https://ja.wikipedia.org/wiki/ボビー・バレンタイン "wikilink")元監督（2009年シーズンをもって退任。前[ボストン・レッドソックス](https://ja.wikipedia.org/wiki/ボストン・レッドソックス "wikilink")監督）をはじめ、[里崎智也](https://ja.wikipedia.org/wiki/里崎智也 "wikilink")、[渡辺俊介](https://ja.wikipedia.org/wiki/渡辺俊介 "wikilink")といった選手とも共演した例がある。
+過去には[ボビー・バレンタイン](https://ja.wikipedia.org/wiki/ボビー・バレンタイン "wikilink")元監督（2009年シーズンをもって退任。前[ボストン・レッドソックス](../Page/ボストン・レッドソックス.md "wikilink")監督）をはじめ、[里崎智也](https://ja.wikipedia.org/wiki/里崎智也 "wikilink")、[渡辺俊介](../Page/渡辺俊介.md "wikilink")といった選手とも共演した例がある。
 
 公式[ファンクラブ](../Page/ファンクラブ.md "wikilink")「TEAM26」（「26番目の選手たち」の意）と共に球団を応援する存在であることから「27番目の選手」と位置付けられており、一時はコスチュームに「Team27」の文字も入っていた（現行のコスチュームにはない）。なお、背番号としての27は2018年現在[山本大貴が使用している](https://ja.wikipedia.org/wiki/山本大貴_\(1995年生の投手\) "wikilink")。
 
@@ -25,9 +25,9 @@
 
 ## 他チームとの交流
 
-[ヴィーナス](https://ja.wikipedia.org/wiki/チームヴィーナス "wikilink")（[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")の[マスコット](https://ja.wikipedia.org/wiki/マスコット "wikilink")ガール。2006年まではチームジャビッツ21）と、2009年6月の[ニッポン放送の特番で初めて共演を果たし](../Page/ニッポン放送ショウアップナイター.md "wikilink")、[交流戦では](https://ja.wikipedia.org/wiki/セ・パ交流戦 "wikilink")2015年6月13日に初共演が実現した。他方、[チア・ドラゴンズ](https://ja.wikipedia.org/wiki/チア・ドラゴンズ "wikilink")（[中日ドラゴンズ](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")のチアリーディング・チーム）と、[diana](https://ja.wikipedia.org/wiki/diana "wikilink")（[横浜DeNAベイスターズ](../Page/横浜DeNAベイスターズ.md "wikilink")のチアリーディング・チーム）とはマスコットも含め相互に交流している。特にチア・ドラゴンズとは、2011年の交流戦のオープニングおよびスペシャルショーにおいて、互いのレッグカバーを交換して出演するなど、関係が深い。
+[ヴィーナス](https://ja.wikipedia.org/wiki/チームヴィーナス "wikilink")（[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")の[マスコット](../Page/マスコット.md "wikilink")ガール。2006年まではチームジャビッツ21）と、2009年6月の[ニッポン放送の特番で初めて共演を果たし](../Page/ニッポン放送ショウアップナイター.md "wikilink")、[交流戦では](../Page/セ・パ交流戦.md "wikilink")2015年6月13日に初共演が実現した。他方、[チア・ドラゴンズ](../Page/チア・ドラゴンズ.md "wikilink")（[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")のチアリーディング・チーム）と、[diana](https://ja.wikipedia.org/wiki/diana "wikilink")（[横浜DeNAベイスターズ](../Page/横浜DeNAベイスターズ.md "wikilink")のチアリーディング・チーム）とはマスコットも含め相互に交流している。特にチア・ドラゴンズとは、2011年の交流戦のオープニングおよびスペシャルショーにおいて、互いのレッグカバーを交換して出演するなど、関係が深い。
 
-2008年8月に[ファイターズガール](https://ja.wikipedia.org/wiki/ファイターズガール "wikilink")（[北海道日本ハムファイターズ](../Page/北海道日本ハムファイターズ.md "wikilink")のチアリーディング・チーム）とチア交流を行った。
+2008年8月に[ファイターズガール](../Page/ファイターズガール.md "wikilink")（[北海道日本ハムファイターズ](../Page/北海道日本ハムファイターズ.md "wikilink")のチアリーディング・チーム）とチア交流を行った。
 
 野球以外では、同じ千葉市を本拠地とするプロサッカークラブである[ジェフユナイテッド市原・千葉](https://ja.wikipedia.org/wiki/ジェフユナイテッド市原・千葉 "wikilink")のチアパフォーマンスチーム[ジェット・スフィーン](../Page/ジェット・スフィーン.md "wikilink")との、マスコットも含めたコラボレーションも行っている。
 
@@ -37,10 +37,10 @@
 
 ## その他
 
-  - MC[庄司こなつ](https://ja.wikipedia.org/wiki/庄司こなつ "wikilink")・[村井真里](https://ja.wikipedia.org/wiki/村井真里 "wikilink")（2009年シーズンで退任）・[渡辺将成](https://ja.wikipedia.org/wiki/渡辺将成 "wikilink")と試合前・後のステージを盛り上げている。
-  - 2006年度のメンバーにかつて「[みんなが出るテレビ](https://ja.wikipedia.org/wiki/みんなが出るテレビ "wikilink")」（[tvk](../Page/テレビ神奈川.md "wikilink")）のレポーターとして出演していた[水木香](https://ja.wikipedia.org/wiki/水木香 "wikilink")がいる（番組で共演した[出口紗智子](https://ja.wikipedia.org/wiki/出口紗智子 "wikilink")はチームヴィーナスの2007年度メンバー）。
+  - MC[庄司こなつ](https://ja.wikipedia.org/wiki/庄司こなつ "wikilink")・[村井真里](../Page/村井真里.md "wikilink")（2009年シーズンで退任）・[渡辺将成](https://ja.wikipedia.org/wiki/渡辺将成 "wikilink")と試合前・後のステージを盛り上げている。
+  - 2006年度のメンバーにかつて「[みんなが出るテレビ](../Page/みんなが出るテレビ.md "wikilink")」（[tvk](../Page/テレビ神奈川.md "wikilink")）のレポーターとして出演していた[水木香](../Page/水木香.md "wikilink")がいる（番組で共演した[出口紗智子](https://ja.wikipedia.org/wiki/出口紗智子 "wikilink")はチームヴィーナスの2007年度メンバー）。
   - 同じく2006年度メンバーの[生宗香](https://ja.wikipedia.org/wiki/生宗香 "wikilink")が[『ぷっ』すま](../Page/『ぷっ』すま.md "wikilink") ([テレビ朝日](../Page/テレビ朝日.md "wikilink")・2007年1月16日放送)の「ペア当て眼力バトル\! リアル神経衰弱\!」に出題者として出演。マスコットの[マーくん](https://ja.wikipedia.org/wiki/マーくん "wikilink")も応援に駆けつけた。
-  - [女優魂](https://ja.wikipedia.org/wiki/女優魂 "wikilink")（[中京テレビ放送](../Page/中京テレビ放送.md "wikilink")制作・日本テレビ系列ネット）にメンバーのうち2名が出演したことがある。この時はチア・ドラゴンズからも2名が出演し、その4人のうちの誰が偽物かを当てる内容だった。偽物を演じたのは[鈴木あきえ](../Page/鈴木あきえ.md "wikilink")でチア・ドラゴンズに扮していた。
+  - [女優魂](../Page/女優魂.md "wikilink")（[中京テレビ放送](../Page/中京テレビ放送.md "wikilink")制作・日本テレビ系列ネット）にメンバーのうち2名が出演したことがある。この時はチア・ドラゴンズからも2名が出演し、その4人のうちの誰が偽物かを当てる内容だった。偽物を演じたのは[鈴木あきえ](../Page/鈴木あきえ.md "wikilink")でチア・ドラゴンズに扮していた。
   - 過去には「エムマキトビコ（3人組のアクロバットチーム）」「ハッピーセット」などのサブユニットがあり、試合前後のショーなどで活動していた。その後も通常のパフォーマンスに加えて、主として[マーくん](https://ja.wikipedia.org/wiki/マーくん "wikilink")とともに、「マー様Night」「マー様Night Z」などのコミカルな設定のキャラクターショーに高頻度で出演する「バラエティ班」と呼ばれるメンバーが居る。2012年度からは、新たにメンバー6名で編成されるダンスボーカルユニット「MMN（Marines Music Navigation）」が活動を開始、4月8日（日）の対日本ハム戦後のステージショーでミニライブを行った。
   - アイドルグループ[乃木坂46](https://ja.wikipedia.org/wiki/乃木坂46 "wikilink")の4期生、[柴田柚菜](https://ja.wikipedia.org/wiki/柴田柚菜 "wikilink")は、自身のブログ\[4\]において、MDA出身であることを発表している。
 
@@ -66,7 +66,7 @@
 
 [Category:プロ野球の応援団](https://ja.wikipedia.org/wiki/Category:プロ野球の応援団 "wikilink") [Category:千葉ロッテマリーンズ](https://ja.wikipedia.org/wiki/Category:千葉ロッテマリーンズ "wikilink") [Category:チアリーディング](https://ja.wikipedia.org/wiki/Category:チアリーディング "wikilink")
 
-1.  ロッテ球団が球団資料として、1978年シーズンオフに実施した「ロッテオリオンズ・チアガールズ選考会」を保存しており、これは2018年のロッテオリオンズ誕生50周年のセレモニーで公開された。なお、ロッテでは公開時に「日本プロ野球界初のチアガール誕生」とアピールしていたが、厳密には1年セントラル・リーグの球団である[阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")のチアリーディングチームの方が先行していた（阪神のチアリーディングチームは同年解散している）。
+1.  ロッテ球団が球団資料として、1978年シーズンオフに実施した「ロッテオリオンズ・チアガールズ選考会」を保存しており、これは2018年のロッテオリオンズ誕生50周年のセレモニーで公開された。なお、ロッテでは公開時に「日本プロ野球界初のチアガール誕生」とアピールしていたが、厳密には1年セントラル・リーグの球団である[阪神タイガース](../Page/阪神タイガース.md "wikilink")のチアリーディングチームの方が先行していた（阪神のチアリーディングチームは同年解散している）。
 2.  「[『串カツ田中』だけじゃない、千葉ロッテのチアリーダー盗撮事件](https://wezz-y.com/archives/62607)」wezzy2018年12月29日
 3.  「[千葉ロッテマリーンズ『M☆Splash\!\!』から大量卒業、盗撮事件の余波か](https://wezz-y.com/archives/63532)」wezzy2019年2月11日
 4.  [４期生ブログ あさって！柴田柚菜　2019年5月23日付](http://blog.nogizaka46.com/fourth/2019/05/050824.php)

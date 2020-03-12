@@ -7,7 +7,7 @@
 
 ### 現在のメンバー
 
-  - Vo.[宙也](https://ja.wikipedia.org/wiki/宙也 "wikilink") : ex.ALLERGY。　De-LAXと平行して[LOOPUS](https://ja.wikipedia.org/wiki/LOOPUS "wikilink")やPARALLEL PARADOXでも活動している。
+  - Vo.[宙也](../Page/宙也.md "wikilink") : ex.ALLERGY。　De-LAXと平行して[LOOPUS](../Page/LOOPUS.md "wikilink")やPARALLEL PARADOXでも活動している。
   - B. [鈴木正美](https://ja.wikipedia.org/wiki/鈴木正美 "wikilink") : ex.MENU、De-LAXにおけるメインのメロディーメーカーだといえる。[BLUE CADILLAC ORCHESTRAでも活動している](https://ja.wikipedia.org/wiki/BLUE_CADILLAC_ORCHESTRA "wikilink")。
   - G.Lee : 榊原秀樹の後任として2010年4月より加入。
 
@@ -15,25 +15,25 @@
 
   - Gt.[榊原秀樹](https://ja.wikipedia.org/wiki/榊原秀樹 "wikilink") : De-LAX休止中は[GEENA](https://ja.wikipedia.org/wiki/GEENA "wikilink")でも活動していた。現在はカリキュラマシーンでも活動している。
   - Per./Key./Dr. 京極常世/輝男 ： 初期メンバー。再結成後の[2000年](../Page/2000年.md "wikilink")に脱退。[世田谷にあった創作料理](../Page/世田谷_\(世田谷区\).md "wikilink") 『鶏竈 torikamado』の店主だった。コンサートツアー『SPIRITS ON THE ROCKS』内の"VINTAGE 2006"と題した[新宿LOFT](https://ja.wikipedia.org/wiki/新宿LOFT "wikilink")2DAYSの7月2日にゲストとして登場した。また、コンサートツアー『D+X 20th Anniversary Tokyo 3 Days』の原宿アストロホール公演にも、最初からゲストとして登場した。
-  - Dr.[高橋まこと](https://ja.wikipedia.org/wiki/高橋まこと "wikilink") : ex.BOØWY。[ドラマーズ](https://ja.wikipedia.org/wiki/ドラマーズ "wikilink")やBLUE CADILLAC ORCHESTRAでも活動している。De-LAX休止中に榊原秀樹とともにGEENAでも活動していた。2013年2月脱退。
-  - Gt.[本田毅](../Page/本田毅.md "wikilink") : ex.VERSUS,buG,GITANE。[PERSONZ](../Page/PERSONZ.md "wikilink")のメンバーとして活躍中。[fringe tritoneや](https://ja.wikipedia.org/wiki/fringe_tritone "wikilink")[Ai+BAND](https://ja.wikipedia.org/wiki/Ai+BAND "wikilink")でも活動。コンサートツアー『SPIRITS ON THE ROCKS』内の"VINTAGE 2006"と題した[新宿LOFT](https://ja.wikipedia.org/wiki/新宿LOFT "wikilink")2DAYSの7月1日にゲストとして登場した。
+  - Dr.[高橋まこと](../Page/高橋まこと.md "wikilink") : ex.BOØWY。[ドラマーズ](https://ja.wikipedia.org/wiki/ドラマーズ "wikilink")やBLUE CADILLAC ORCHESTRAでも活動している。De-LAX休止中に榊原秀樹とともにGEENAでも活動していた。2013年2月脱退。
+  - Gt.[本田毅](../Page/本田毅.md "wikilink") : ex.VERSUS,buG,GITANE。[PERSONZ](../Page/PERSONZ.md "wikilink")のメンバーとして活躍中。[fringe tritoneや](https://ja.wikipedia.org/wiki/fringe_tritone "wikilink")[Ai+BAND](../Page/Ai+BAND.md "wikilink")でも活動。コンサートツアー『SPIRITS ON THE ROCKS』内の"VINTAGE 2006"と題した[新宿LOFT](https://ja.wikipedia.org/wiki/新宿LOFT "wikilink")2DAYSの7月1日にゲストとして登場した。
   - Key.[小滝満](https://ja.wikipedia.org/wiki/小滝満 "wikilink") : [シネマ](https://ja.wikipedia.org/wiki/シネマ_\(バンド\) "wikilink")、ex.メトロファルス。De-LAXを離れた後、[戸川純](../Page/戸川純.md "wikilink")＆ヤプーズ、エクスタシーボーイズ、[Saybow\&theR+X+S](https://ja.wikipedia.org/wiki/Saybow&theR+X+S "wikilink")などで活躍。なお現在は小滝みつると表記されている。
 
 ### サポートメンバー
 
-  - Gt.[友森昭一](https://ja.wikipedia.org/wiki/友森昭一 "wikilink") : [AUTO-MOD](../Page/AUTO-MOD.md "wikilink")、[レベッカ](https://ja.wikipedia.org/wiki/レベッカ_\(バンド\) "wikilink")、[筋肉少女帯](https://ja.wikipedia.org/wiki/筋肉少女帯 "wikilink")などに参加していた事で知られる。
+  - Gt.[友森昭一](https://ja.wikipedia.org/wiki/友森昭一 "wikilink") : [AUTO-MOD](../Page/AUTO-MOD.md "wikilink")、[レベッカ](../Page/レベッカ_\(バンド\).md "wikilink")、[筋肉少女帯](../Page/筋肉少女帯.md "wikilink")などに参加していた事で知られる。
   - Gt.[玉城宏志](https://ja.wikipedia.org/wiki/玉城宏志 "wikilink") : ex.[ローザ・ルクセンブルグ](https://ja.wikipedia.org/wiki/ローザ・ルクセンブルグ_\(バンド\) "wikilink")。その後マチルダロドリゲスなどで活躍している。
   - Dr.[永井利光](../Page/永井利光.md "wikilink") : [GLAY](../Page/GLAY.md "wikilink")や[氷室京介](../Page/氷室京介.md "wikilink")のサポートで活躍中。なおDe+LAX公式サイトでは永井利充と表記されているが、ex.ローザ・ルクセンブルクのベーシストである同名の人物とは別人である。
 
 ## バンドの歩み
 
-[ALLERGY](https://ja.wikipedia.org/wiki/ALLERGY "wikilink")を解散した[宙也](https://ja.wikipedia.org/wiki/宙也 "wikilink")は、ちわきまゆみのユニットMENUをサポートしていたベーシスト[鈴木正美](https://ja.wikipedia.org/wiki/鈴木正美 "wikilink")と当時ドラムスを担当していた京極輝男の3人で新たなバンドを結成することを決意する。ここに、PERSONZのギタリスト本田毅、メトロファルスのキーボーディスト小滝満が加わり、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")にCHU-YA＆De-LAX（当初はDe-Lux）が結成された。
+[ALLERGY](../Page/ALLERGY.md "wikilink")を解散した[宙也](../Page/宙也.md "wikilink")は、ちわきまゆみのユニットMENUをサポートしていたベーシスト[鈴木正美](https://ja.wikipedia.org/wiki/鈴木正美 "wikilink")と当時ドラムスを担当していた京極輝男の3人で新たなバンドを結成することを決意する。ここに、PERSONZのギタリスト本田毅、メトロファルスのキーボーディスト小滝満が加わり、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")にCHU-YA＆De-LAX（当初はDe-Lux）が結成された。
 
 10月以降は、ライブハウスツアーを行うまでになった。既にレパートリーには、1stアルバム『[SENSATION](https://ja.wikipedia.org/wiki/SENSATION_\(アルバム\) "wikilink")』収録曲である「熱帯LADY」、「突然炎のごとく」、「G.N.A.」、「SERIOUS MOOD」、「BLUE HEART LOVER」が含まれていた。また、4thアルバム『[EMOTIONAL MARKET](https://ja.wikipedia.org/wiki/EMOTIONAL_MARKET "wikilink")』で日の目を見た「ONE PLUS ONE」もこの時期のライブで演奏されていた。
 
 バンド名を単にDe-LAXとしてしばらくし、本田毅の所属するPERSONZもブレイクし始め、両立が困難になったため脱退、サポートに友森昭一やローザ ルクセンブルグの玉城宏志を迎え活動を続けて行くが、小滝満も戸川純＆ヤプーズに専念するために脱退。京極輝男がドラムスからパッカーション＆キーボード担当にコンバートし、永井利光がサポートとして加わるものの、正式なギタリスト、ドラムスが不在のままであった。
 
-[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")のドラムスだった[高橋まこと](https://ja.wikipedia.org/wiki/高橋まこと "wikilink")の元にDe-LAXへの参加要請があったのは、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")暮れのBOOWY最後のツアー中だった。その頃、新宿LOFTに出入りしていた榊原秀樹は、ギタリスト募集を聞きつけ、バンドのオーディションに参加することとした。
+[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")のドラムスだった[高橋まこと](../Page/高橋まこと.md "wikilink")の元にDe-LAXへの参加要請があったのは、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")暮れのBOOWY最後のツアー中だった。その頃、新宿LOFTに出入りしていた榊原秀樹は、ギタリスト募集を聞きつけ、バンドのオーディションに参加することとした。
 
 [1988年](../Page/1988年.md "wikilink")[2月18日](../Page/2月18日.md "wikilink")、デビュー当初のメンバーで初ライブを行った。
 
@@ -41,7 +41,7 @@
 
 7か月をかけ26か所56公演を行ったDe-LAX史上最大規模となるライブツアー『De-LAX NEUROMANCER '89 "SPIRITS A GO-GO"』で、[日本武道館](../Page/日本武道館.md "wikilink")のライブを2度行い、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")の[ニューヨーク](../Page/ニューヨーク.md "wikilink")でライブも行った。
 
-だが、[1992年](../Page/1992年.md "wikilink")5thアルバム『[Our Favourite Roads](https://ja.wikipedia.org/wiki/Our_Favourite_Roads "wikilink")』発売前、榊原秀樹が方向性の違いにより脱退を要望。その後、正式なギタリストが見つからず、このままでは活動ができないという事になり、1992年[12月25日](../Page/12月25日.md "wikilink")の[渋谷公会堂](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")公演のライブで、解散することを発表。翌年1993年3月24日の渋谷公会堂公演のライブを持って解散した。
+だが、[1992年](../Page/1992年.md "wikilink")5thアルバム『[Our Favourite Roads](https://ja.wikipedia.org/wiki/Our_Favourite_Roads "wikilink")』発売前、榊原秀樹が方向性の違いにより脱退を要望。その後、正式なギタリストが見つからず、このままでは活動ができないという事になり、1992年[12月25日](../Page/12月25日.md "wikilink")の[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")公演のライブで、解散することを発表。翌年1993年3月24日の渋谷公会堂公演のライブを持って解散した。
 
 それから約5年後、De-LAXがメジャーデビューした年と同じ年に[新宿](../Page/新宿.md "wikilink")に誕生した日清パワーステーションが、6月いっぱいを持って閉店することになり、その記念として、一夜限りの再結成を果たし、ライブ『De-LAX '98 "HELLO\! POWER STATION"』を行った。
 
@@ -49,7 +49,7 @@
 
 だが、[2002年](../Page/2002年.md "wikilink")にメンバーの諸事情により活動を休止。
 
-その後、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に活動を再開。
+その後、[2005年](../Page/2005年.md "wikilink")に活動を再開。
 
 デビュー20周年を記念した2008年には、約9年ぶりとなるアルバム『[ART+BEAT](https://ja.wikipedia.org/wiki/ART+BEAT "wikilink")』と、約7年ぶりとなるベスト・アルバム『["20th Anniversary Premium Collection"](https://ja.wikipedia.org/wiki/20th_Anniversary_Premium_Collection "wikilink")』を同時リリース。
 
@@ -59,7 +59,7 @@
 
 ### 1985年
 
-  - [3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - [ALLERGY](https://ja.wikipedia.org/wiki/ALLERGY "wikilink")を解散した[宙也](https://ja.wikipedia.org/wiki/宙也 "wikilink")（V）とMENUに在籍していた[鈴木正美](https://ja.wikipedia.org/wiki/鈴木正美 "wikilink")(B)と京極輝男(Dr)の3人で結成された。すぐに[PERSONZ](../Page/PERSONZ.md "wikilink")の[本田毅](../Page/本田毅.md "wikilink")(G)とメトロファルスの小滝満(Key)が加わった。
+  - [3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - [ALLERGY](../Page/ALLERGY.md "wikilink")を解散した[宙也](../Page/宙也.md "wikilink")（V）とMENUに在籍していた[鈴木正美](https://ja.wikipedia.org/wiki/鈴木正美 "wikilink")(B)と京極輝男(Dr)の3人で結成された。すぐに[PERSONZ](../Page/PERSONZ.md "wikilink")の[本田毅](../Page/本田毅.md "wikilink")(G)とメトロファルスの小滝満(Key)が加わった。
   - [10月8日](../Page/10月8日.md "wikilink")、[10月9日](../Page/10月9日.md "wikilink") - イベント『ダンス天国 CHUYA COMES BACK』を行った。
   - [12月31日](../Page/12月31日.md "wikilink") - イベント『年末恒例オールナイトギグ』を行った。
 
@@ -81,7 +81,7 @@
   - [8月22日](../Page/8月22日.md "wikilink") - 京都磔磔でライブを行った。
   - [8月24日](../Page/8月24日.md "wikilink") - 名古屋ハートランドでライブを行った。
   - [9月2日](../Page/9月2日.md "wikilink") - 渋谷ライブインでライブを行った。
-  - [9月8日](https://ja.wikipedia.org/wiki/9月8日 "wikilink") - 同日の新宿LOFTでライブを行っていたサラスヴァティのライブに宙也のみゲスト出演した。
+  - [9月8日](../Page/9月8日.md "wikilink") - 同日の新宿LOFTでライブを行っていたサラスヴァティのライブに宙也のみゲスト出演した。
   - [9月17日](../Page/9月17日.md "wikilink") - 横浜ビブレホールでライブを行った。
   - [10月1日](../Page/10月1日.md "wikilink") - 渋谷エッグマンでライブを行った。
   - [10月25日](../Page/10月25日.md "wikilink") - イベント『Radical Dance Night Vol.3』に参加。
@@ -108,24 +108,24 @@
   - [4月10日](../Page/4月10日.md "wikilink") - [5月24日](../Page/5月24日.md "wikilink") - コンサートツアー『De-LAX TOUR '88 SPRING "DIAMOND SENSATION"』を行った。
   - [6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink") - イベント『KID'S ALIVE』に参加。
   - [7月16日](../Page/7月16日.md "wikilink") - 1980年代後半から1990年代、『PATi-PATi』(雑誌)と[tvk](https://ja.wikipedia.org/wiki/tvk "wikilink")(テレビ)のメディアミックスで実施されていたコラボイベント『PATI-PATI TOMATO』に参加。
-  - [7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink") - [南こうせつ](https://ja.wikipedia.org/wiki/南こうせつ "wikilink")主催のイベント『サマーピクニック』に参加。
+  - [7月23日](../Page/7月23日.md "wikilink") - [南こうせつ](https://ja.wikipedia.org/wiki/南こうせつ "wikilink")主催のイベント『サマーピクニック』に参加。
   - [8月7日](../Page/8月7日.md "wikilink") - イベント『NEW KID'S IN THE ROCK '88』に参加。
   - [8月21日](../Page/8月21日.md "wikilink") - [フォーライフ・レコード](../Page/フォーライフ・レコード.md "wikilink")から1stアルバム『[SENSATION](https://ja.wikipedia.org/wiki/SENSATION_\(アルバム\) "wikilink")』をリリースし、メジャーデビューを果たす。
   - [8月24日](../Page/8月24日.md "wikilink") - [11月25日](../Page/11月25日.md "wikilink") - アルバムツアー『De-LAX TOUR '88 "SENSATION"』を行った。
   - [11月12日](../Page/11月12日.md "wikilink") - 1stシングル「[POP IS MY LIFE](https://ja.wikipedia.org/wiki/POP_IS_MY_LIFE "wikilink")」をリリース。
-  - [12月29日](../Page/12月29日.md "wikilink") - [新宿コマ劇場](https://ja.wikipedia.org/wiki/新宿コマ劇場 "wikilink")にて、コンサート『De-LAX TOUR '88 "THE GREAT SENSATION"』を行った。
+  - [12月29日](../Page/12月29日.md "wikilink") - [新宿コマ劇場](../Page/新宿コマ劇場.md "wikilink")にて、コンサート『De-LAX TOUR '88 "THE GREAT SENSATION"』を行った。
   - [12月31日](../Page/12月31日.md "wikilink") - PATI-PATI TOMATOの、カウントダウンのオールナイトイベントに参加。
 
 ### 1989年
 
-  - [2月8日](../Page/2月8日.md "wikilink") - [NHKホール](https://ja.wikipedia.org/wiki/NHKホール "wikilink")にて、ライブを行った。
+  - [2月8日](../Page/2月8日.md "wikilink") - [NHKホール](../Page/NHKホール.md "wikilink")にて、ライブを行った。
   - [2月27日](../Page/2月27日.md "wikilink") - イベント『LIVE-D』に参加。
   - [3月9日](../Page/3月9日.md "wikilink") - 新宿LOFTにて、シークレットライブを行った。
   - [3月24日](../Page/3月24日.md "wikilink")、[3月29日](../Page/3月29日.md "wikilink") - イベント『We are Me-Har』に参加。
   - [4月5日](../Page/4月5日.md "wikilink") - 期間限定ライブハウス汐留PIT2にてこけら落としライブを行った。
   - [6月18日](../Page/6月18日.md "wikilink") - イベント『カレッジコロシアム'89』に参加。
   - [7月5日](../Page/7月5日.md "wikilink") - 2ndシングル「[NEUROMANCER](https://ja.wikipedia.org/wiki/NEUROMANCER_\(曲\) "wikilink")」をリリース。
-  - [7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink") - イベント『ロックサーキット'89』に参加。
+  - [7月23日](../Page/7月23日.md "wikilink") - イベント『ロックサーキット'89』に参加。
   - [7月31日](../Page/7月31日.md "wikilink") - イベント『OBC Music～ing LIVE GARDEN』に参加。
   - [8月2日](../Page/8月2日.md "wikilink") - 2ndアルバム『[NEUROMANCER](https://ja.wikipedia.org/wiki/NEUROMANCER_\(アルバム\) "wikilink")』をリリース。
   - [8月4日](../Page/8月4日.md "wikilink") - [2月1日](../Page/2月1日.md "wikilink") - 翌年の2月1日まで、アルバムツアー『De-LAX NEUROMANCER '89 "SPIRITS A GO-GO"』を行った。
@@ -149,7 +149,7 @@
 
   - [1月15日](../Page/1月15日.md "wikilink") - ファンクラブ限定イベント『D+X-F-C OPENING EVENT』を行った。
   - [2月21日](../Page/2月21日.md "wikilink") - [8月21日](../Page/8月21日.md "wikilink") - コンサートツアー『De-LAX "CLUB KINGDOM"』を行った。
-  - [3月21日](../Page/3月21日.md "wikilink") - 昨年の12月25日に[渋谷公会堂](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")で行われたライブの模様を収録したライブ・ビデオ『[TOUR '90 "KINGDOM"](https://ja.wikipedia.org/wiki/TOUR_'90_KINGDOM "wikilink")』をリリース。
+  - [3月21日](../Page/3月21日.md "wikilink") - 昨年の12月25日に[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")で行われたライブの模様を収録したライブ・ビデオ『[TOUR '90 "KINGDOM"](https://ja.wikipedia.org/wiki/TOUR_'90_KINGDOM "wikilink")』をリリース。
   - [6月21日](../Page/6月21日.md "wikilink") - 同年の[3月3日](../Page/3月3日.md "wikilink")に[日清パワーステーション](../Page/日清パワーステーション.md "wikilink")で行われたライブの音源を収録したライブ・アルバム『[BOOTLEG\!\!](https://ja.wikipedia.org/wiki/BOOTLEG!! "wikilink")』をリリース。
   - [7月21日](../Page/7月21日.md "wikilink") - 5thシングル「[VOICE OF LOVE](https://ja.wikipedia.org/wiki/VOICE_OF_LOVE "wikilink")」をリリース。
   - [7月31日](../Page/7月31日.md "wikilink") - イベント『JTサウンドコニファ』に参加。
@@ -162,7 +162,7 @@
 
   - [4月26日](../Page/4月26日.md "wikilink") - 日清パワーステーションでライブを行った。
   - [5月31日](../Page/5月31日.md "wikilink") - [九州芸術工科大学](../Page/九州芸術工科大学.md "wikilink")の学園祭に参加。
-  - [7月24日](../Page/7月24日.md "wikilink")、[7月25日](../Page/7月25日.md "wikilink") - [後楽園ホール](https://ja.wikipedia.org/wiki/後楽園ホール "wikilink")にてライブ『SUMMER EXCITTING '92』を行った。
+  - [7月24日](../Page/7月24日.md "wikilink")、[7月25日](../Page/7月25日.md "wikilink") - [後楽園ホール](../Page/後楽園ホール.md "wikilink")にてライブ『SUMMER EXCITTING '92』を行った。
   - [8月21日](../Page/8月21日.md "wikilink") - 6thシングル「[TONIGHT](https://ja.wikipedia.org/wiki/TONIGHT_\(De-LAXの曲\) "wikilink")」をリリース。
   - [9月21日](../Page/9月21日.md "wikilink") - 5thアルバム『[Our Favourite Roads](https://ja.wikipedia.org/wiki/Our_Favourite_Roads "wikilink")』をリリース。
   - [9月25日](../Page/9月25日.md "wikilink") - [3月24日](../Page/3月24日.md "wikilink") - 翌年の3月24日までアルバムツアー『De-LAX TOUR '92 "OUR FAVOURITE ROADS"』を行った。また、12月25日の渋谷公会堂でのライブで、解散することを発表した。
@@ -184,7 +184,7 @@
   - [2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink") - [6月24日](../Page/6月24日.md "wikilink") - コンサートツアー『De-LAX 1999』を行った。
   - [6月19日](../Page/6月19日.md "wikilink") - 前年の[6月10日](../Page/6月10日.md "wikilink")に日清パワーステーションで閉店を記念して行われたライブの音源を収録したライブ・アルバム『[HELLO AGAIN](https://ja.wikipedia.org/wiki/HELLO_AGAIN_\(De-LAXのアルバム\) "wikilink")』をリリース。
   - [7月17日](../Page/7月17日.md "wikilink") - 7thシングル「[beat'N'message](https://ja.wikipedia.org/wiki/beat'N'message "wikilink")」をリリース。
-  - [7月20日](../Page/7月20日.md "wikilink") - [7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink") - シングルツアー『De-LAX 1999 beat'N'message』を行った。
+  - [7月20日](../Page/7月20日.md "wikilink") - [7月23日](../Page/7月23日.md "wikilink") - シングルツアー『De-LAX 1999 beat'N'message』を行った。
   - [8月6日](../Page/8月6日.md "wikilink") - イベント『ROCK RUSH'99』に参加。
   - [10月30日](../Page/10月30日.md "wikilink") - 8thシングル「[darkOrange](https://ja.wikipedia.org/wiki/darkOrange "wikilink")」をリリース。
   - [11月2日](../Page/11月2日.md "wikilink") - イベント『TRIAD NIGHT -King's Road Back－』に参加。
@@ -268,7 +268,7 @@
   - [8月28日](../Page/8月28日.md "wikilink") - イベント『CHAIN the ROCK Festival』に参加。
   - [9月20日](../Page/9月20日.md "wikilink") - 佐野Dining Bar KENにて、ライブを行った。
   - [10月7日](../Page/10月7日.md "wikilink") - イベント『CLUB Que 16th Birthday presents SWEET LITTLE SIXTEEN』に参加。
-  - [10月13日](https://ja.wikipedia.org/wiki/10月13日 "wikilink") - イベント『KiWaMi-極-COUNTER ACTION 2010-04』に参加。
+  - [10月13日](../Page/10月13日.md "wikilink") - イベント『KiWaMi-極-COUNTER ACTION 2010-04』に参加。
   - [10月16日](../Page/10月16日.md "wikilink") - 宇都宮LIVEHOUSE KENTにて、ライブを行った。
   - [11月2日](../Page/11月2日.md "wikilink")、[11月12日](../Page/11月12日.md "wikilink") - イベント『fringe tritone tour 2010「Here」Part.4』に参加。
   - [11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")、[11月4日](../Page/11月4日.md "wikilink") - イベント『fringe tritone tour 2010「Here」Part.4 ～フリテスナンバーDX\!\!～』に参加。
@@ -293,7 +293,7 @@
   - [5月21日](../Page/5月21日.md "wikilink") - 札幌SUSUKINO 810にて、『De+LAX Tour 2011 Wonderful Life\!\!』と題したライブを行った。
   - [6月4日](../Page/6月4日.md "wikilink")、[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink") - イベント『GAMBARUZO！ふくしま2Days in いなわしろ』に参加。
   - [6月11日](../Page/6月11日.md "wikilink")、[6月12日](../Page/6月12日.md "wikilink") - 『～De+LAX ～ GET HAPPY\! 2DAYS』と題したライブを行った。6月11日は、下北沢SHELTERにて、6月12日は、吉祥寺Planet Kにて、ライブが行われた。
-  - [7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink") - セブンスアベニュー26周年スーパーライブ2に参加。
+  - [7月23日](../Page/7月23日.md "wikilink") - セブンスアベニュー26周年スーパーライブ2に参加。
   - [7月26日](../Page/7月26日.md "wikilink") - イベント『CLUB Que夏ノ陣 2011 VS SERIES』に参加。
   - [7月31日](../Page/7月31日.md "wikilink") - イベント『M.J.Q presents 天罰なんかクソ喰らえっ\!\!\! vol.18』に参加。
   - [8月11日](../Page/8月11日.md "wikilink") - イベント『東日本大震災チャリティライブ LIVE in HOPE\!』に参加。
@@ -336,7 +336,7 @@
 
   - いわゆる[第二次バンドブーム時に登場しているが](../Page/バンドブーム.md "wikilink")、その中で特に異彩を放つバンドと見られていた。楽曲の特徴もアルバムごとに変遷した。
   - 楽曲の製作工程も移り変わっており、初期は京極輝男と鈴木正美の作曲が大半で、後に鈴木正美と榊原秀樹（または合作による『THE SPANISH BOMBS』名義）が大半の作曲を担う。作詞は一貫して宙也が中心。例外的に1992年に発売された6thシングル「[TONIGHT](https://ja.wikipedia.org/wiki/TONIGHT_\(De-LAXの曲\) "wikilink")」及び、5thアルバム『[Our Favourite Roads](https://ja.wikipedia.org/wiki/Our_Favourite_Roads "wikilink")』では、前者は京極輝男作曲のカップリング曲、後者は鈴木正美作曲の1曲を除き、すべてがDe-LAX名義となっている(当時のインタビュー記事では、メンバーが作詞班・作曲班に分かれて創作したと説明されている)。
-  - 『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』に2回出演。その後のTV出演は、[かとうれいこ](https://ja.wikipedia.org/wiki/かとうれいこ "wikilink")司会のフジテレビ深夜番組ROCK SHOW(曲は「PSYCHO PARTY」)等。
+  - 『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』に2回出演。その後のTV出演は、[かとうれいこ](../Page/かとうれいこ.md "wikilink")司会のフジテレビ深夜番組ROCK SHOW(曲は「PSYCHO PARTY」)等。
   - バンド名表記について、「De-LAX」という表記でメジャーデビューし、解散までのアーティスト名の表記は「De-LAX」であるが、1989年頃からデザイン・ロゴとして「De+LAX」という表記をすることが多々あり、再結成後は「De+LAX」に統一している。
 
 ## ディスコグラフィー
@@ -504,7 +504,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/フォーライフミュージックエンタテイメント" title="wikilink">フォーライフミュージックエンタテイメント</a></p></td>
+<td><p><a href="../Page/フォーライフミュージックエンタテイメント.md" title="wikilink">フォーライフミュージックエンタテイメント</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -746,10 +746,10 @@
 
 ### 未音源化楽曲
 
-| CHAPMAN      | [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[12月8日](../Page/12月8日.md "wikilink")に[ジョン・レノン](../Page/ジョン・レノン.md "wikilink")を射殺した犯人である[マーク・チャップマン](https://ja.wikipedia.org/wiki/マーク・チャップマン "wikilink")を歌った曲である。デビュー前からステージで演奏されていた曲で、[1989年](../Page/1989年.md "wikilink")の汐留PIT2のライブまでセットリストに含まれていた。[1988年](../Page/1988年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")に[THE HEARTが発表した作品](https://ja.wikipedia.org/wiki/THE_HEART "wikilink")\[2\]が同名であることも理由のひとつではないだろうか?という事だが、真相は不明である。 |
-| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| SECRET LOVE  | 1988年後半(アルバムツアー『De-LAX TOUR '88 "SENSATION"』の1988年[11月20日](../Page/11月20日.md "wikilink")の北久里浜リバーブサウンド公演のライブのセットリストには既に含まれていた)に、「[CANDY](https://ja.wikipedia.org/wiki/CANDY_\(De-LAXの曲\) "wikilink")」と「CRAZY BOY」と一緒にセットリストに加わった楽曲。前2曲は後に3rdシングルの表題曲とカップリング曲として正式発表されたが、この曲はボツになり、お蔵入りになってしまった隠れた名曲。「CHAPMAN」と同様に、この曲も1989年の汐留PIT2のライブまでセットリストに含まれていた。                                                                                                                                                                 |
-| ATOMIC DANCE | [2007年](../Page/2007年.md "wikilink")に行ったライブツアー『ROCK STEADY GO-GO AHEAD』のセットリストに加わった楽曲。だが、その後は正式発表されることなく、そのライブツアーが終わると、セットリストから外されてしまった。                                                                                                                                                                                                                                                                                                                                                                               |
+| CHAPMAN      | [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[12月8日](../Page/12月8日.md "wikilink")に[ジョン・レノン](../Page/ジョン・レノン.md "wikilink")を射殺した犯人である[マーク・チャップマン](../Page/マーク・チャップマン.md "wikilink")を歌った曲である。デビュー前からステージで演奏されていた曲で、[1989年](../Page/1989年.md "wikilink")の汐留PIT2のライブまでセットリストに含まれていた。[1988年](../Page/1988年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")に[THE HEARTが発表した作品](https://ja.wikipedia.org/wiki/THE_HEART "wikilink")\[2\]が同名であることも理由のひとつではないだろうか?という事だが、真相は不明である。 |
+| ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| SECRET LOVE  | 1988年後半(アルバムツアー『De-LAX TOUR '88 "SENSATION"』の1988年[11月20日](../Page/11月20日.md "wikilink")の北久里浜リバーブサウンド公演のライブのセットリストには既に含まれていた)に、「[CANDY](https://ja.wikipedia.org/wiki/CANDY_\(De-LAXの曲\) "wikilink")」と「CRAZY BOY」と一緒にセットリストに加わった楽曲。前2曲は後に3rdシングルの表題曲とカップリング曲として正式発表されたが、この曲はボツになり、お蔵入りになってしまった隠れた名曲。「CHAPMAN」と同様に、この曲も1989年の汐留PIT2のライブまでセットリストに含まれていた。                                                                                                                                              |
+| ATOMIC DANCE | [2007年](../Page/2007年.md "wikilink")に行ったライブツアー『ROCK STEADY GO-GO AHEAD』のセットリストに加わった楽曲。だが、その後は正式発表されることなく、そのライブツアーが終わると、セットリストから外されてしまった。                                                                                                                                                                                                                                                                                                                                                            |
 
 ## 過去に開催したライブツアー・単発ライブ
 
@@ -859,7 +859,7 @@
 <p>全1か所1公演</p>
 </div>
 <div class="NavContent" style="text-align:left;">
-<p>12月29日 <a href="https://ja.wikipedia.org/wiki/新宿コマ劇場" title="wikilink">新宿コマ劇場</a></p>
+<p>12月29日 <a href="../Page/新宿コマ劇場.md" title="wikilink">新宿コマ劇場</a></p>
 </div>
 </div></td>
 <td></td>
@@ -912,7 +912,7 @@
 12月4日 名古屋勤労会館<br />
 12月6日 大阪厚生年金中ホール<br />
 12月14日 <a href="../Page/日本武道館.md" title="wikilink">日本武道館</a><br />
-12月16日 <a href="https://ja.wikipedia.org/wiki/渋谷公会堂" title="wikilink">渋谷公会堂</a><br />
+12月16日 <a href="../Page/渋谷公会堂.md" title="wikilink">渋谷公会堂</a><br />
 12月31日 新宿コマ劇場<br />
 <strong>1990年</strong><br />
 1月13日 日清パワーステーション<br />
@@ -947,8 +947,8 @@
 9月20日 京都府立勤労会館<br />
 9月22日 <a href="https://ja.wikipedia.org/wiki/愛知県勤労会館" title="wikilink">愛知県勤労会館</a><br />
 9月25日 仙台市青少年文化センター<br />
-9月26日 <a href="https://ja.wikipedia.org/wiki/郡山市民文化センター" title="wikilink">郡山市民文化センター</a><br />
-9月28日 <a href="https://ja.wikipedia.org/wiki/青森市民文化ホール" title="wikilink">青森市民文化ホール</a><br />
+9月26日 <a href="../Page/郡山市民文化センター.md" title="wikilink">郡山市民文化センター</a><br />
+9月28日 <a href="../Page/青森市民文化ホール.md" title="wikilink">青森市民文化ホール</a><br />
 9月30日 <a href="https://ja.wikipedia.org/wiki/PENNY_LANE_24" title="wikilink">札幌ペニーレイン24</a><br />
 10月1日 <a href="https://ja.wikipedia.org/wiki/旭川市民文化会館" title="wikilink">旭川市民文化会館</a><br />
 10月13日 入間市民会館<br />
@@ -1036,7 +1036,7 @@
 3月4日 日清パワーステーション<br />
 3月6日 札幌ペニーレイン<br />
 6月20日 6月21日 6月22日 De-LAX CHANGE COSTUME at 3×3 GIGS 新宿LOFT 3DAYS<br />
-7月20日 7月21日 7月22日 De-LAX CHANGE COSTUME at 3×3 GIGS <a href="https://ja.wikipedia.org/wiki/後楽園ホール" title="wikilink">後楽園ホール</a> 3DAYS<br />
+7月20日 7月21日 7月22日 De-LAX CHANGE COSTUME at 3×3 GIGS <a href="../Page/後楽園ホール.md" title="wikilink">後楽園ホール</a> 3DAYS<br />
 8月19日 8月20日 8月21日 De-LAX CHANGE COSTUME at 3×3 GIGS 川崎クラブチッタ 3DAYS</p></td>
 <td><p>3月3日の日清パワーステーション公演のライブは、<br />
 後にライブアルバム『[[BOOTLEG</p></td>
@@ -1289,7 +1289,7 @@ Vol.3～00's Now And Then～</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
 <td></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
@@ -1302,7 +1302,7 @@ Vol.3～00's Now And Then～</p></td>
 </div></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
 <td></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
@@ -1678,11 +1678,11 @@ OVER THE CENTURY</p></td>
 
 ## 関連項目
 
-  - [宙也](https://ja.wikipedia.org/wiki/宙也 "wikilink")
-  - [ALLERGY](https://ja.wikipedia.org/wiki/ALLERGY "wikilink")
-  - [LOOPUS](https://ja.wikipedia.org/wiki/LOOPUS "wikilink")
+  - [宙也](../Page/宙也.md "wikilink")
+  - [ALLERGY](../Page/ALLERGY.md "wikilink")
+  - [LOOPUS](../Page/LOOPUS.md "wikilink")
   - [BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")
-  - [高橋まこと](https://ja.wikipedia.org/wiki/高橋まこと "wikilink")
+  - [高橋まこと](../Page/高橋まこと.md "wikilink")
   - [PERSONZ](../Page/PERSONZ.md "wikilink")
 
 ## 外部リンク
@@ -1693,4 +1693,4 @@ OVER THE CENTURY</p></td>
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:フォーライフミュージックエンタテイメントのアーティスト](https://ja.wikipedia.org/wiki/Category:フォーライフミュージックエンタテイメントのアーティスト "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:1985年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1985年に結成した音楽グループ "wikilink") [Category:1993年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1993年に解散した音楽グループ "wikilink") [Category:1999年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1999年に再結成した音楽グループ "wikilink") [Category:2002年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2002年に解散した音楽グループ "wikilink") [Category:2006年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2006年に再結成した音楽グループ "wikilink")
 
 1.
-2.  この時THE HEARTのメンバーだった[斉藤律](https://ja.wikipedia.org/wiki/斉藤律 "wikilink")は、のちに宙也と[LOOPUS](https://ja.wikipedia.org/wiki/LOOPUS "wikilink")を結成する。
+2.  この時THE HEARTのメンバーだった[斉藤律](../Page/斉藤律.md "wikilink")は、のちに宙也と[LOOPUS](../Page/LOOPUS.md "wikilink")を結成する。

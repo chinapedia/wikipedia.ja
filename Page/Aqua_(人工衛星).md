@@ -3,13 +3,13 @@
 
 **Aqua (EOS PM-1)**とは、アメリカ ([NASA](../Page/アメリカ航空宇宙局.md "wikilink"))、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink") ([宇宙開発事業団](../Page/宇宙開発事業団.md "wikilink") NASDA)、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink") ([ブラジル国立宇宙研究所](https://ja.wikipedia.org/wiki/ブラジル国立宇宙研究所 "wikilink") INPE) の3か国共同による[地球観測衛星](../Page/地球観測衛星.md "wikilink")である。[2002年](../Page/2002年.md "wikilink")5月4日に[デルタIIロケットにより打ち上げられ](../Page/デルタロケット.md "wikilink")、高度705km、傾斜角98度、軌道周期98分の[太陽同期軌道](https://ja.wikipedia.org/wiki/太陽同期軌道 "wikilink")に投入された。名は[ラテン語](../Page/ラテン語.md "wikilink")の「水」の意。設計寿命は6年である。
 
-他の衛星と[A-trainという](https://ja.wikipedia.org/wiki/A-train_\(衛星コンステレーション\) "wikilink")[衛星コンステレーション](https://ja.wikipedia.org/wiki/衛星コンステレーション "wikilink")を構成し、隊列の先頭に位置する。
+他の衛星と[A-trainという](https://ja.wikipedia.org/wiki/A-train_\(衛星コンステレーション\) "wikilink")[衛星コンステレーション](../Page/衛星コンステレーション.md "wikilink")を構成し、隊列の先頭に位置する。
 
 ## 搭載測器
 
 ### Advanced Microwave Scanning Radiometer for EOS (AMSR-E)
 
-AMSR-EはNASDAによって開発されたマイクロ波放射計で、[みどりII](https://ja.wikipedia.org/wiki/みどりII "wikilink")に搭載されたAMSRをAqua用にしたもの。観測周波数は6.925、10.65、18.7、23.8、36.5、と89.0GHzの水平/鉛直偏波。空間解像度は6x4km(89.0GHz)から75x43km(6.925GHz)、観測幅は1445kmである。雲水量、可降水量、海上風速、海面水温、雪氷、土壌水分量などが観測される。 AMSR-Eは、毎分40回転でアンテナを回転させる装置だが、3年の設計寿命の3倍以上の運用を経て、回転摩擦の増大が限界に達したことにより、2011年10月4日以降観測およびアンテナの回転を停止していた。2012年12月5日に、通常時の20分1の2rpm（1分間に2回転）という低速回転で観測を再開することに成功し、その後も安定して観測データを取得している\[1\]。
+AMSR-EはNASDAによって開発されたマイクロ波放射計で、[みどりII](../Page/みどりII.md "wikilink")に搭載されたAMSRをAqua用にしたもの。観測周波数は6.925、10.65、18.7、23.8、36.5、と89.0GHzの水平/鉛直偏波。空間解像度は6x4km(89.0GHz)から75x43km(6.925GHz)、観測幅は1445kmである。雲水量、可降水量、海上風速、海面水温、雪氷、土壌水分量などが観測される。 AMSR-Eは、毎分40回転でアンテナを回転させる装置だが、3年の設計寿命の3倍以上の運用を経て、回転摩擦の増大が限界に達したことにより、2011年10月4日以降観測およびアンテナの回転を停止していた。2012年12月5日に、通常時の20分1の2rpm（1分間に2回転）という低速回転で観測を再開することに成功し、その後も安定して観測データを取得している\[1\]。
 
 AMSR-Eの後継装置AMSR2は、第一期水循環変動観測衛星「しずく」[GCOM-W1](https://ja.wikipedia.org/wiki/GCOM-W1 "wikilink")に搭載されている。
 
@@ -43,7 +43,7 @@ CERESは0.3から50μmの3つの広域帯観測バンドで観測する水平分
   - [Terra](https://ja.wikipedia.org/wiki/Terra "wikilink")
   - [地球観測衛星](../Page/地球観測衛星.md "wikilink")
   - [衛星海洋学](../Page/衛星海洋学.md "wikilink")
-  - [みどりII](https://ja.wikipedia.org/wiki/みどりII "wikilink")
+  - [みどりII](../Page/みどりII.md "wikilink")
   - [だいち](../Page/だいち.md "wikilink")
 
 ## 外部リンク

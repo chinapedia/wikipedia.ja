@@ -13,7 +13,7 @@
 |                 メディア:                 |
 |                 入力機器:                 |
 
-**LastChaos**（ラストカオス）とは韓国のNAKO Entertainment(現在はBarunson Games)が開発し、[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")、[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")、[タイ](../Page/タイ王国.md "wikilink")、[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")で運営されている[MMORPG](../Page/MMORPG.md "wikilink")。
+**LastChaos**（ラストカオス）とは韓国のNAKO Entertainment(現在はBarunson Games)が開発し、[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")、[中国](../Page/中国.md "wikilink")、[タイ](../Page/タイ王国.md "wikilink")、[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")で運営されている[MMORPG](../Page/MMORPG.md "wikilink")。
 
 ## あらすじ
 

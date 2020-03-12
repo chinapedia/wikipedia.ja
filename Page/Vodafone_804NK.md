@@ -1,11 +1,11 @@
 > この記事は[Vodafone 804NK](https://ja.wikipedia.org/wiki/Vodafone_804NK)から翻訳されています。
 
 
-**Vodafone 804NK**（ボーダフォン 804NK）は、[ノキア](https://ja.wikipedia.org/wiki/ノキア "wikilink")が開発し、ボーダフォン日本法人（現[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")）が販売するVodafone 3G（現[SoftBank 3G](https://ja.wikipedia.org/wiki/SoftBank_3G "wikilink")）サービスを利用可能な[W-CDMA](../Page/W-CDMA.md "wikilink")及び[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")通信方式の[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")。
+**Vodafone 804NK**（ボーダフォン 804NK）は、[ノキア](../Page/ノキア.md "wikilink")が開発し、ボーダフォン日本法人（現[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")）が販売するVodafone 3G（現[SoftBank 3G](../Page/SoftBank_3G.md "wikilink")）サービスを利用可能な[W-CDMA](../Page/W-CDMA.md "wikilink")及び[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")通信方式の[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")。
 
 ## 概要
 
-海外ではエンターテイメント端末シリーズである[Nseries](https://ja.wikipedia.org/wiki/Nseries "wikilink")として、**Nokia N71**という名前で販売している。[Symbian OS](https://ja.wikipedia.org/wiki/Symbian_OS "wikilink")/[S60プラットフォームを搭載している](https://ja.wikipedia.org/wiki/Series_60 "wikilink")。トライバンド[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")とシングルバンド[UMTS](https://ja.wikipedia.org/wiki/UMTS "wikilink") ([W-CDMA](../Page/W-CDMA.md "wikilink"))のデュアルモード端末である。
+海外ではエンターテイメント端末シリーズである[Nseries](https://ja.wikipedia.org/wiki/Nseries "wikilink")として、**Nokia N71**という名前で販売している。[Symbian OS](../Page/Symbian_OS.md "wikilink")/[S60プラットフォームを搭載している](https://ja.wikipedia.org/wiki/Series_60 "wikilink")。トライバンド[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")とシングルバンド[UMTS](https://ja.wikipedia.org/wiki/UMTS "wikilink") ([W-CDMA](../Page/W-CDMA.md "wikilink"))のデュアルモード端末である。
 
 Vodafone 804NKはNokia N71を日本語化し、ボーダフォン向けのカスタマイズを行っている。こちらはネイティブアプリは[Symbian](https://ja.wikipedia.org/wiki/Symbian "wikilink")かNokiaの証明書がついているもののみインストールできる。なお、日本市場向けに販売されるノキア製端末の中で初めて[QVGA](https://ja.wikipedia.org/wiki/QVGA "wikilink")解像度のメイン液晶を搭載した端末でもある。
 
@@ -21,13 +21,13 @@ Vodafone 804NKはNokia N71を日本語化し、ボーダフォン向けのカス
 
 ## 対応サービス
 
-| 主な対応サービス                                                                                 |
-| ---------------------------------------------------------------------------------------- |
-| ~~[サークルトーク](https://ja.wikipedia.org/wiki/サークルトーク "wikilink")~~                          |
-| ~~[S\!タウン](https://ja.wikipedia.org/wiki/S!タウン "wikilink")~~                             |
-| [S\!ケータイ動画](../Page/S!ケータイ動画.md "wikilink")                                              |
-| [着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")／[着うた](../Page/着うた.md "wikilink") |
-| [レコメール](https://ja.wikipedia.org/wiki/レコメール "wikilink")                                  |
+| 主な対応サービス                                                              |
+| --------------------------------------------------------------------- |
+| ~~[サークルトーク](https://ja.wikipedia.org/wiki/サークルトーク "wikilink")~~       |
+| ~~[S\!タウン](https://ja.wikipedia.org/wiki/S!タウン "wikilink")~~          |
+| [S\!ケータイ動画](../Page/S!ケータイ動画.md "wikilink")                           |
+| [着うたフル](../Page/着うたフル.md "wikilink")／[着うた](../Page/着うた.md "wikilink") |
+| [レコメール](https://ja.wikipedia.org/wiki/レコメール "wikilink")               |
 
 ## 欠陥
 

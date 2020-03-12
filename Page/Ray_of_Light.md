@@ -1,7 +1,7 @@
 > この記事は[Ray of Light](https://ja.wikipedia.org/wiki/Ray_of_Light)から翻訳されています。
 
 
-**Ray of Light**(レイ・オブ・ライト)は日本の女性2人組[デュオ](../Page/デュオ.md "wikilink")である。意味は「こもれび」。2001年結成。2002年に[エスエムイーレコーズ](https://ja.wikipedia.org/wiki/エスエムイーレコーズ "wikilink")よりデビューして以後も二人とも現役OLとして二束のわらじを履いた。
+**Ray of Light**(レイ・オブ・ライト)は日本の女性2人組[デュオ](../Page/デュオ.md "wikilink")である。意味は「こもれび」。2001年結成。2002年に[エスエムイーレコーズ](../Page/エスエムイーレコーズ.md "wikilink")よりデビューして以後も二人とも現役OLとして二束のわらじを履いた。
 
 ## メンバー
 

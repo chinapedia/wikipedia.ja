@@ -1,15 +1,15 @@
 > この記事は[ZOFFY VS](https://ja.wikipedia.org/wiki/ZOFFY_VS)から翻訳されています。
 
 
-『**ウルトラマンZOFFY ウルトラの戦士VS大怪獣軍団**』（ウルトラマンゾフィー ウルトラのせんしブイエスだいかいじゅうぐんだん）は、歴代の[ウルトラシリーズ](https://ja.wikipedia.org/wiki/ウルトラシリーズ "wikilink")の作品を再編集した[劇場公開作品](../Page/映画.md "wikilink")。[1984年](../Page/1984年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")公開、[松竹富士](https://ja.wikipedia.org/wiki/松竹富士 "wikilink")配給。
+『**ウルトラマンZOFFY ウルトラの戦士VS大怪獣軍団**』（ウルトラマンゾフィー ウルトラのせんしブイエスだいかいじゅうぐんだん）は、歴代の[ウルトラシリーズ](https://ja.wikipedia.org/wiki/ウルトラシリーズ "wikilink")の作品を再編集した[劇場公開作品](../Page/映画.md "wikilink")。[1984年](../Page/1984年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")公開、[松竹富士](../Page/松竹富士.md "wikilink")配給。
 
 ## 概要
 
-[宇宙警備隊](https://ja.wikipedia.org/wiki/宇宙警備隊 "wikilink")隊長であり、[ウルトラ兄弟](https://ja.wikipedia.org/wiki/ウルトラ兄弟 "wikilink")の長兄である[ゾフィーを進行役に](../Page/ゾフィー_\(ウルトラシリーズ\).md "wikilink")、『[ウルトラQ](https://ja.wikipedia.org/wiki/ウルトラQ "wikilink")』から『[ウルトラマン80](../Page/ウルトラマン80.md "wikilink")』までの名勝負を紹介する。ゾフィーの声を『ウルトラマン』最終回（第39話）以来、17年ぶりに[浦野光](https://ja.wikipedia.org/wiki/浦野光 "wikilink")が演じている。
+[宇宙警備隊](../Page/宇宙警備隊.md "wikilink")隊長であり、[ウルトラ兄弟](../Page/ウルトラ兄弟.md "wikilink")の長兄である[ゾフィーを進行役に](../Page/ゾフィー_\(ウルトラシリーズ\).md "wikilink")、『[ウルトラQ](../Page/ウルトラQ.md "wikilink")』から『[ウルトラマン80](../Page/ウルトラマン80.md "wikilink")』までの名勝負を紹介する。ゾフィーの声を『ウルトラマン』最終回（第39話）以来、17年ぶりに[浦野光](../Page/浦野光.md "wikilink")が演じている。
 
-登場する怪獣・宇宙人は[バルタン星人](https://ja.wikipedia.org/wiki/バルタン星人 "wikilink")に始まり、[キングジョー](../Page/キングジョー.md "wikilink")、[ガラモン](https://ja.wikipedia.org/wiki/ガラモン_\(ウルトラ怪獣\) "wikilink")、[ババルウ星人](https://ja.wikipedia.org/wiki/ババルウ星人 "wikilink")など、全部で36体におよぶ。登場に際し、一部の怪獣・宇宙人の鳴き声や光線の発射音が変更されているほか、最期の描写や倒され方も本編とは異なる怪獣がいる。当時、『[ワールドプロレスリング](https://ja.wikipedia.org/wiki/ワールドプロレスリング "wikilink")』の実況で人気があった[古舘伊知郎](https://ja.wikipedia.org/wiki/古舘伊知郎 "wikilink")（当時・[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")アナウンサー）が怪獣やウルトラマンの戦いを実況する場面や、[ピグモン](https://ja.wikipedia.org/wiki/ピグモン "wikilink")が『ウルトラQ』に登場した可愛らしい怪獣を紹介する場面もある。新規に人間のセリフが追加されている。
+登場する怪獣・宇宙人は[バルタン星人](../Page/バルタン星人.md "wikilink")に始まり、[キングジョー](../Page/キングジョー.md "wikilink")、[ガラモン](https://ja.wikipedia.org/wiki/ガラモン_\(ウルトラ怪獣\) "wikilink")、[ババルウ星人](../Page/ババルウ星人.md "wikilink")など、全部で36体におよぶ。登場に際し、一部の怪獣・宇宙人の鳴き声や光線の発射音が変更されているほか、最期の描写や倒され方も本編とは異なる怪獣がいる。当時、『[ワールドプロレスリング](../Page/ワールドプロレスリング.md "wikilink")』の実況で人気があった[古舘伊知郎](../Page/古舘伊知郎.md "wikilink")（当時・[テレビ朝日](../Page/テレビ朝日.md "wikilink")アナウンサー）が怪獣やウルトラマンの戦いを実況する場面や、[ピグモン](../Page/ピグモン.md "wikilink")が『ウルトラQ』に登場した可愛らしい怪獣を紹介する場面もある。新規に人間のセリフが追加されている。
 
-本作において[帰ってきたウルトラマン](https://ja.wikipedia.org/wiki/帰ってきたウルトラマン "wikilink")に「ウルトラマンジャック」という名前が設定され、以降の作品でもこの名前で呼ばれるようになった\[1\]。
+本作において[帰ってきたウルトラマン](../Page/帰ってきたウルトラマン.md "wikilink")に「ウルトラマンジャック」という名前が設定され、以降の作品でもこの名前で呼ばれるようになった\[1\]。
 
 作中には、『[ウルトラマンタロウ](../Page/ウルトラマンタロウ.md "wikilink")』第34話の、ウルトラ6兄弟が次々とウルトラマンボールから出ると同時に自らの名前を名乗るシーンがあるが、そこで、ゾフィーが「ジャック」、ジャックが「ゾフィー」と名乗るミスがある。
 
@@ -19,17 +19,17 @@
 
   - [ゾフィー](../Page/ゾフィー_\(ウルトラシリーズ\).md "wikilink")
   - [ウルトラマン](../Page/ウルトラマン.md "wikilink")
-  - [ウルトラセブン](https://ja.wikipedia.org/wiki/ウルトラセブン_\(キャラクター\) "wikilink")
+  - [ウルトラセブン](../Page/ウルトラセブン_\(キャラクター\).md "wikilink")
   - ウルトラマンジャック
   - [ウルトラマンA](../Page/ウルトラマンA.md "wikilink")
   - [ウルトラマンタロウ](../Page/ウルトラマンタロウ.md "wikilink")
-  - [ウルトラマンレオ](https://ja.wikipedia.org/wiki/ウルトラマンレオ "wikilink")
+  - [ウルトラマンレオ](../Page/ウルトラマンレオ.md "wikilink")
   - [アストラ](https://ja.wikipedia.org/wiki/ウルトラマンレオ#アストラ "wikilink")
   - ウルトラマン80
   - [ユリアン](https://ja.wikipedia.org/wiki/ウルトラマン80#ユリアン "wikilink")
   - [ウルトラの父](../Page/ウルトラの父.md "wikilink")
   - [ウルトラの母](../Page/ウルトラの母.md "wikilink")
-  - [ウルトラマンキング](https://ja.wikipedia.org/wiki/ウルトラマンキング "wikilink")
+  - [ウルトラマンキング](../Page/ウルトラマンキング.md "wikilink")
 
 ## 登場怪獣・宇宙人
 
@@ -76,38 +76,38 @@
 
 ## 声の出演
 
-  - [ゾフィー](../Page/ゾフィー_\(ウルトラシリーズ\).md "wikilink") - [浦野光](https://ja.wikipedia.org/wiki/浦野光 "wikilink")
-  - ウルトラマン - [堀内賢雄](https://ja.wikipedia.org/wiki/堀内賢雄 "wikilink")
-  - [ウルトラセブン](https://ja.wikipedia.org/wiki/ウルトラセブン_\(キャラクター\) "wikilink")、[ペダン星人](https://ja.wikipedia.org/wiki/ペダン星人 "wikilink")、ギロン人 - [小滝進](https://ja.wikipedia.org/wiki/大滝進矢 "wikilink")
+  - [ゾフィー](../Page/ゾフィー_\(ウルトラシリーズ\).md "wikilink") - [浦野光](../Page/浦野光.md "wikilink")
+  - ウルトラマン - [堀内賢雄](../Page/堀内賢雄.md "wikilink")
+  - [ウルトラセブン](../Page/ウルトラセブン_\(キャラクター\).md "wikilink")、[ペダン星人](../Page/ペダン星人.md "wikilink")、ギロン人 - [小滝進](../Page/大滝進矢.md "wikilink")
   - ウルトラマンエース - 佐藤弘
   - ウルトラマンタロウ - [桜本昌弘](https://ja.wikipedia.org/wiki/桜本昌弘 "wikilink")
-  - [バルタン星人](https://ja.wikipedia.org/wiki/バルタン星人 "wikilink")二代目、[テンペラー星人](https://ja.wikipedia.org/wiki/テンペラー星人 "wikilink") - [広瀬正志](https://ja.wikipedia.org/wiki/広瀬正志 "wikilink")
-  - [ピグモン](https://ja.wikipedia.org/wiki/ピグモン "wikilink") - [栗葉子](https://ja.wikipedia.org/wiki/栗葉子 "wikilink")
-  - [カネゴン](https://ja.wikipedia.org/wiki/カネゴン "wikilink")、M1号 - [白川澄子](https://ja.wikipedia.org/wiki/白川澄子 "wikilink")
-  - アナウンサー - [古舘伊知郎](https://ja.wikipedia.org/wiki/古舘伊知郎 "wikilink")（[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")アナウンサー）
-  - ナレーター - [矢島正明](https://ja.wikipedia.org/wiki/矢島正明 "wikilink")
+  - [バルタン星人](../Page/バルタン星人.md "wikilink")二代目、[テンペラー星人](https://ja.wikipedia.org/wiki/テンペラー星人 "wikilink") - [広瀬正志](../Page/広瀬正志.md "wikilink")
+  - [ピグモン](../Page/ピグモン.md "wikilink") - [栗葉子](../Page/栗葉子.md "wikilink")
+  - [カネゴン](../Page/カネゴン.md "wikilink")、M1号 - [白川澄子](../Page/白川澄子.md "wikilink")
+  - アナウンサー - [古舘伊知郎](../Page/古舘伊知郎.md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")アナウンサー）
+  - ナレーター - [矢島正明](../Page/矢島正明.md "wikilink")
 
 ## スタッフ
 
-  - 企画・製作 - [円谷皐](https://ja.wikipedia.org/wiki/円谷皐 "wikilink")
+  - 企画・製作 - [円谷皐](../Page/円谷皐.md "wikilink")
   - プロデューサー - 宇川清隆、円谷皐
-  - 脚本・構成 - 藤島浩一郎、安井尚志、金田益実、[平野靖士](https://ja.wikipedia.org/wiki/平野靖士 "wikilink")
-  - 音楽 - [宮内国郎](https://ja.wikipedia.org/wiki/宮内國郎 "wikilink")、[冬木透](https://ja.wikipedia.org/wiki/蒔田尚昊 "wikilink")
+  - 脚本・構成 - 藤島浩一郎、安井尚志、金田益実、[平野靖士](../Page/平野靖士.md "wikilink")
+  - 音楽 - [宮内国郎](../Page/宮内國郎.md "wikilink")、[冬木透](../Page/蒔田尚昊.md "wikilink")
   - 総編集 - [浦岡敬一](https://ja.wikipedia.org/wiki/浦岡敬一 "wikilink")
-  - 撮影 - [大岡新一](https://ja.wikipedia.org/wiki/大岡新一 "wikilink")
-  - 制作協力 - [円谷エンタープライズ](https://ja.wikipedia.org/wiki/円谷エンタープライズ "wikilink")
-  - 監督 - [高野宏一](https://ja.wikipedia.org/wiki/高野宏一 "wikilink")
+  - 撮影 - [大岡新一](../Page/大岡新一.md "wikilink")
+  - 制作協力 - [円谷エンタープライズ](../Page/円谷エンタープライズ.md "wikilink")
+  - 監督 - [高野宏一](../Page/高野宏一.md "wikilink")
 
 ## 主題歌
 
   - 「ウルトラマンゾフィー」
-    作詞 - [谷のぼる](https://ja.wikipedia.org/wiki/円谷皐 "wikilink")、作曲・編曲 - [菊池俊輔](https://ja.wikipedia.org/wiki/菊池俊輔 "wikilink") / 歌 - 近藤光子、[コロムビアゆりかご会](https://ja.wikipedia.org/wiki/音羽ゆりかご会 "wikilink")
+    作詞 - [谷のぼる](../Page/円谷皐.md "wikilink")、作曲・編曲 - [菊池俊輔](../Page/菊池俊輔.md "wikilink") / 歌 - 近藤光子、[コロムビアゆりかご会](../Page/音羽ゆりかご会.md "wikilink")
   - 「ウルトラマン物語」
     作詞 - 谷のぼる / 作曲・編曲 - 冬木透 / 歌 - [水木一郎](../Page/水木一郎.md "wikilink")、コロムビアゆりかご会
 
 ## 映像ソフト化
 
-シリーズ40周年作品『[ウルトラマンメビウス&ウルトラ兄弟](https://ja.wikipedia.org/wiki/ウルトラマンメビウス&ウルトラ兄弟 "wikilink")』の公開を記念し、2006年9月13日にDVDが発売された。また、シリーズ45周年を記念した「ウルトラシリーズ45周年記念 メモリアルムービーコレクション 1966-1984　DVD-BOX」にも収録されている。
+シリーズ40周年作品『[ウルトラマンメビウス&ウルトラ兄弟](../Page/ウルトラマンメビウス&ウルトラ兄弟.md "wikilink")』の公開を記念し、2006年9月13日にDVDが発売された。また、シリーズ45周年を記念した「ウルトラシリーズ45周年記念 メモリアルムービーコレクション 1966-1984　DVD-BOX」にも収録されている。
 
 ## 脚注
 

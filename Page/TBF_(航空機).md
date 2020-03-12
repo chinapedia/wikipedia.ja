@@ -2,10 +2,10 @@
 
 
 {{ Infobox 航空機 |名称=TBF / TBM アヴェンジャー |画像=<File:Grumman> TBM-3R VR-23 over Korea 1953.jpg |キャプション=飛行するTBF-3R 85905号機
-(VR-23輸送飛行隊所属、[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")[6月25日](../Page/6月25日.md "wikilink")撮影) |用途=[雷撃機](https://ja.wikipedia.org/wiki/雷撃機 "wikilink") |分類=[艦上攻撃機](../Page/艦上攻撃機.md "wikilink") |設計者=[リロイ・ランドル・グラマン](https://ja.wikipedia.org/wiki/:en:Leroy_Grumman "wikilink") |製造者=
+(VR-23輸送飛行隊所属、[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")[6月25日](../Page/6月25日.md "wikilink")撮影) |用途=[雷撃機](../Page/雷撃機.md "wikilink") |分類=[艦上攻撃機](../Page/艦上攻撃機.md "wikilink") |設計者=[リロイ・ランドル・グラマン](https://ja.wikipedia.org/wiki/:en:Leroy_Grumman "wikilink") |製造者=
 \*\* [グラマン](../Page/グラマン.md "wikilink")航空機エンジニアリング社（開発）
 
-  -   - [ジェネラル・モーターズ社](https://ja.wikipedia.org/wiki/ゼネラルモーターズ "wikilink")
+  -   - [ジェネラル・モーターズ社](../Page/ゼネラルモーターズ.md "wikilink")
 
 |運用者 more=
 \*\* （[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")）
@@ -16,15 +16,15 @@
 
       - （[ウルグアイ海軍航空隊](https://ja.wikipedia.org/wiki/ウルグアイ海軍#海軍航空隊 "wikilink")）
 
-      - （[カナダ海軍](https://ja.wikipedia.org/wiki/カナダ海軍 "wikilink")）
+      - （[カナダ海軍](../Page/カナダ海軍.md "wikilink")）
 
       - （[フランス海軍航空隊](https://ja.wikipedia.org/wiki/海軍航空隊_\(フランス海軍\) "wikilink")）
 
       - （[オランダ海軍](https://ja.wikipedia.org/wiki/オランダ海軍 "wikilink")）
 
-      - （[海上自衛隊](https://ja.wikipedia.org/wiki/海上自衛隊 "wikilink")）、他
+      - （[海上自衛隊](../Page/海上自衛隊.md "wikilink")）、他
 
-|初飛行年月日=[1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")[8月7日](../Page/8月7日.md "wikilink") |生産数=9,839機 |生産開始年月日=[1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink") |運用開始年月日=[1942年](../Page/1942年.md "wikilink") |退役年月日=1960年代（各国） |運用状況=退役 |ユニットコスト= }} **TBF アヴェンジャー**（*Grumman TBF Avenger* ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[グラマン](../Page/グラマン.md "wikilink")社が開発し、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中に[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")などで運用された[主力雷撃機](https://ja.wikipedia.org/wiki/雷撃機 "wikilink")。
+|初飛行年月日=[1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")[8月7日](../Page/8月7日.md "wikilink") |生産数=9,839機 |生産開始年月日=[1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink") |運用開始年月日=[1942年](../Page/1942年.md "wikilink") |退役年月日=1960年代（各国） |運用状況=退役 |ユニットコスト= }} **TBF アヴェンジャー**（*Grumman TBF Avenger* ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[グラマン](../Page/グラマン.md "wikilink")社が開発し、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中に[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")などで運用された[主力雷撃機](../Page/雷撃機.md "wikilink")。
 
 愛称の「**アヴェンジャー** (Avenger)」は、「復讐者、報復者」の意。また、発音については**アベンジャー**とも表記することがある。
 
@@ -32,57 +32,57 @@
 
 アメリカ海軍と[アメリカ海兵隊](../Page/アメリカ海兵隊.md "wikilink")で運用が開始され、[1942年](../Page/1942年.md "wikilink")の[ミッドウェー海戦](https://ja.wikipedia.org/wiki/ミッドウェー海戦 "wikilink")を初陣に[イギリス海軍](../Page/イギリス海軍.md "wikilink")など他国でも運用された雷撃機。[日本海軍で言う](../Page/大日本帝国海軍.md "wikilink")[艦攻にあたる](../Page/艦上攻撃機.md "wikilink")（ただし、日本での「艦攻」は[流星を除き急降下爆撃ができないが](../Page/流星_\(航空機\).md "wikilink")、TBFには[急降下爆撃](../Page/急降下爆撃.md "wikilink")可能な種類もあった）。
 
-生産の途中からTBFは[グラマン](../Page/グラマン.md "wikilink")社に代わって[ジェネラル・モーターズ](https://ja.wikipedia.org/wiki/ゼネラルモーターズ "wikilink")（GM）社が量産するようになり、ジェネラル・モーターズ社で生産された機体は**TBM**の[制式番号が付けられ](https://ja.wikipedia.org/wiki/軍用機の命名規則_\(アメリカ合衆国\) "wikilink")、**TBM アヴェンジャー**の呼称で呼ばれた。
+生産の途中からTBFは[グラマン](../Page/グラマン.md "wikilink")社に代わって[ジェネラル・モーターズ](../Page/ゼネラルモーターズ.md "wikilink")（GM）社が量産するようになり、ジェネラル・モーターズ社で生産された機体は**TBM**の[制式番号が付けられ](../Page/軍用機の命名規則_\(アメリカ合衆国\).md "wikilink")、**TBM アヴェンジャー**の呼称で呼ばれた。
 
 ## 略史
 
-[250px](https://ja.wikipedia.org/wiki/ファイル:TBF_\(Avengers\)_flying_in_formation.jpg "wikilink") 航空雷撃において[魚雷](../Page/魚雷.md "wikilink")の命中率を高めるためには、[雷撃機](https://ja.wikipedia.org/wiki/雷撃機 "wikilink")は海面すれすれを飛び、目標艦船に低空でぎりぎりまで近づくことが必要で、ゆえに、激しい[対空砲](../Page/対空砲.md "wikilink")火と敵方の直掩[戦闘機](../Page/戦闘機.md "wikilink")の攻撃にさらされるという性格を持っていた。このため、雷撃機の開発においては高い飛行安定性と防弾性、そして敵の直掩戦闘機に対する対空攻撃力が追求された。さらに当時の米海軍は、主力雷撃機として採用されていた[ダグラス社製の](https://ja.wikipedia.org/wiki/ダグラス・エアクラフト "wikilink")[TBD デヴァステイターの最大の欠点である](https://ja.wikipedia.org/wiki/TBD_\(航空機\) "wikilink")、「航続距離が短すぎて戦闘機や[急降下爆撃機](../Page/急降下爆撃機.md "wikilink")と連携できない」という慢性的な問題を抱えていた。
+[250px](https://ja.wikipedia.org/wiki/ファイル:TBF_\(Avengers\)_flying_in_formation.jpg "wikilink") 航空雷撃において[魚雷](../Page/魚雷.md "wikilink")の命中率を高めるためには、[雷撃機](../Page/雷撃機.md "wikilink")は海面すれすれを飛び、目標艦船に低空でぎりぎりまで近づくことが必要で、ゆえに、激しい[対空砲](../Page/対空砲.md "wikilink")火と敵方の直掩[戦闘機](../Page/戦闘機.md "wikilink")の攻撃にさらされるという性格を持っていた。このため、雷撃機の開発においては高い飛行安定性と防弾性、そして敵の直掩戦闘機に対する対空攻撃力が追求された。さらに当時の米海軍は、主力雷撃機として採用されていた[ダグラス社製の](../Page/ダグラス・エアクラフト.md "wikilink")[TBD デヴァステイターの最大の欠点である](../Page/TBD_\(航空機\).md "wikilink")、「航続距離が短すぎて戦闘機や[急降下爆撃機](../Page/急降下爆撃機.md "wikilink")と連携できない」という慢性的な問題を抱えていた。
 
 TBFはこの問題を解消するため内部燃料タンクを大型化した。さらに魚雷を機内兵装庫に収める格納型の装備方式を取ったため、単発エンジンの[艦載機](https://ja.wikipedia.org/wiki/艦載機 "wikilink")としては非常に大型の機体となった。また、操縦席後方の背面機銃は全周旋回可能な[銃塔](https://ja.wikipedia.org/wiki/銃塔 "wikilink")式で、機体下面にも引き込み式に機銃が装備されており、機内には複層の「階」があるという、双発[大型陸上爆撃機に似た異色な構造を持っていた](../Page/爆撃機.md "wikilink")。
 
-TBFは雷撃機として当時の世界水準を越えた高性能を持ち、日本海軍の[零式艦上戦闘機](https://ja.wikipedia.org/wiki/零式艦上戦闘機 "wikilink")によって開戦初期に大損害を出したTBDの後継機として運用された。零戦がアメリカ海軍の新鋭戦闘機[F6Fヘルキャットによって劣勢に追い込まれた](https://ja.wikipedia.org/wiki/F6F_\(航空機\) "wikilink")1943年以降活躍し、[戦艦](https://ja.wikipedia.org/wiki/戦艦 "wikilink")「[大和](../Page/大和_\(戦艦\).md "wikilink")」、「[武蔵](../Page/武蔵_\(戦艦\).md "wikilink")」や[空母](../Page/航空母艦.md "wikilink")「[瑞鶴](../Page/瑞鶴_\(空母\).md "wikilink")」を撃沈するなど、日本艦隊に甚大な損害を与えた。
+TBFは雷撃機として当時の世界水準を越えた高性能を持ち、日本海軍の[零式艦上戦闘機](https://ja.wikipedia.org/wiki/零式艦上戦闘機 "wikilink")によって開戦初期に大損害を出したTBDの後継機として運用された。零戦がアメリカ海軍の新鋭戦闘機[F6Fヘルキャットによって劣勢に追い込まれた](../Page/F6F_\(航空機\).md "wikilink")1943年以降活躍し、[戦艦](https://ja.wikipedia.org/wiki/戦艦 "wikilink")「[大和](../Page/大和_\(戦艦\).md "wikilink")」、「[武蔵](../Page/武蔵_\(戦艦\).md "wikilink")」や[空母](../Page/航空母艦.md "wikilink")「[瑞鶴](../Page/瑞鶴_\(空母\).md "wikilink")」を撃沈するなど、日本艦隊に甚大な損害を与えた。
 
 {{-}}
 
 ## 構造
 
-TBFは、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")に参加した[雷撃機](https://ja.wikipedia.org/wiki/雷撃機 "wikilink")で最も重いエンジンを搭載し、[航空母艦](../Page/航空母艦.md "wikilink")で収容スペースを確保するため翼折り構造を最初に採用した航空機でもある。主翼を後ろに畳む独自の方式は[F6Fヘルキャットなどグラマン製の艦載機の標準となった](https://ja.wikipedia.org/wiki/F6F_\(航空機\) "wikilink")。
+TBFは、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")に参加した[雷撃機](../Page/雷撃機.md "wikilink")で最も重いエンジンを搭載し、[航空母艦](../Page/航空母艦.md "wikilink")で収容スペースを確保するため翼折り構造を最初に採用した航空機でもある。主翼を後ろに畳む独自の方式は[F6Fヘルキャットなどグラマン製の艦載機の標準となった](../Page/F6F_\(航空機\).md "wikilink")。
 
-1,900馬力の[ライトR-2600-20 サイクロン14を採用することで大型魚雷の搭載が可能となり](https://ja.wikipedia.org/wiki/ライト_R-2600 "wikilink")、機体サイズの割に運動性も良好であった。グラマンの伝統である機体強度を重視した設計により、翼端に10人以上が乗ってもたわむことが無く、急降下と急激な引き起こしにも耐えられた。無骨な外観であるが高い安定性と使い勝手の良さからパイロットは「頑丈なトラックのようだ」と賞した。
+1,900馬力の[ライトR-2600-20 サイクロン14を採用することで大型魚雷の搭載が可能となり](../Page/ライト_R-2600.md "wikilink")、機体サイズの割に運動性も良好であった。グラマンの伝統である機体強度を重視した設計により、翼端に10人以上が乗ってもたわむことが無く、急降下と急激な引き起こしにも耐えられた。無骨な外観であるが高い安定性と使い勝手の良さからパイロットは「頑丈なトラックのようだ」と賞した。
 
-乗員は[操縦士](https://ja.wikipedia.org/wiki/パイロット_\(航空\) "wikilink")、無線士、[砲塔](../Page/砲塔.md "wikilink")射撃手の3名である。12.7mm[重機関銃](https://ja.wikipedia.org/wiki/重機関銃 "wikilink")は左右の翼内におさめられ、もう1つの12.7mm重機関銃は後部に電気駆動の砲塔に備えつけられた。砲塔は全周視界が確保されており後方の警戒にも威力を発揮した。無線士は[爆撃](https://ja.wikipedia.org/wiki/爆撃 "wikilink")手を兼ねており、後下方より敵[戦闘機](../Page/戦闘機.md "wikilink")の攻撃を受けた際には、機腹部に設置された7.62mm[機関銃](../Page/機関銃.md "wikilink")を操作する射手も兼ねていた。通信機は洋上での長距離通信を考慮した大出力のものであったため非常に大型で、パイロットの背部の大部分を占有していた。なお、現存のTBFはほとんど通信機をより小型のものに交換しており、空いたパイロットの背部スペースには同乗者用の予備座席が設置してあるものが多い。
+乗員は[操縦士](https://ja.wikipedia.org/wiki/パイロット_\(航空\) "wikilink")、無線士、[砲塔](../Page/砲塔.md "wikilink")射撃手の3名である。12.7mm[重機関銃](../Page/重機関銃.md "wikilink")は左右の翼内におさめられ、もう1つの12.7mm重機関銃は後部に電気駆動の砲塔に備えつけられた。砲塔は全周視界が確保されており後方の警戒にも威力を発揮した。無線士は[爆撃](https://ja.wikipedia.org/wiki/爆撃 "wikilink")手を兼ねており、後下方より敵[戦闘機](../Page/戦闘機.md "wikilink")の攻撃を受けた際には、機腹部に設置された7.62mm[機関銃](../Page/機関銃.md "wikilink")を操作する射手も兼ねていた。通信機は洋上での長距離通信を考慮した大出力のものであったため非常に大型で、パイロットの背部の大部分を占有していた。なお、現存のTBFはほとんど通信機をより小型のものに交換しており、空いたパイロットの背部スペースには同乗者用の予備座席が設置してあるものが多い。
 
 機体下面はほぼ[爆弾倉となっており](https://ja.wikipedia.org/wiki/爆弾槽 "wikilink")、[Mk13魚雷や](https://ja.wikipedia.org/wiki/Mk13_\(魚雷\) "wikilink")2000ポンド（907kg）[爆弾](../Page/爆弾.md "wikilink")ならば1発、500ポンド（227kg）爆弾ならば4発を搭載できた。しかし、魚雷はミッドウェー海戦後に改善を指示され、後の1944年6月まで使用されなかった。それまでの間、TBFは主に陸地に対する爆撃に使用された。翼下にも[HVAR (ロケット弾)や](https://ja.wikipedia.org/wiki/HVAR_\(ロケット弾\) "wikilink")[3.5インチ FFARを搭載できるため](https://ja.wikipedia.org/wiki/3.5インチ_FFAR "wikilink")、対地攻撃機としても活躍した。
 
-30,000フィート（10,000m）の高度で完全に武装した状態でも1,000マイル（1,600km）の航続距離があり、アメリカの雷撃機の中では群をぬいた。それらは、唯一の対抗機の[九七式艦上攻撃機](https://ja.wikipedia.org/wiki/九七式艦上攻撃機 "wikilink")よりも優れていた。
+30,000フィート（10,000m）の高度で完全に武装した状態でも1,000マイル（1,600km）の航続距離があり、アメリカの雷撃機の中では群をぬいた。それらは、唯一の対抗機の[九七式艦上攻撃機](../Page/九七式艦上攻撃機.md "wikilink")よりも優れていた。
 
 電子産業や[MITの技術者は新型レーダーの改善を行ったが](../Page/マサチューセッツ工科大学.md "wikilink")、1943年の真空管を使ったレーダーは非常に大きいために小型の戦闘機には搭載できず、TBFにレーダーを搭載してASW（対潜哨戒：Anti-submarine warfare）やEAW（早期空中警戒：Early Air Warning）などの任務にも従事させた。
 
-<File:TBM-3R> NAN-6-54.jpg|搭乗口 <File:TBM-3Es> on USS Siboney forward.jpg|主翼を畳んだ状態 <File:Mk> 13 torpedo is loaded on TBF aboard USS Lexington (CV-16) in 1943.jpg|爆弾倉に搭載されたMk13魚雷 ファイル:Hvar.jpg|搭載されたHVARロケット弾 <File:Grumman> TBM-3E Avenger HB-RDG OTT 2103 13.jpg|砲塔 <File:TBF> underwing rockets CVE-9 1944.jpg|[USSボーグのキャットウォークに落ちた機体を引き上げる作業](https://ja.wikipedia.org/wiki/ボーグ_\(護衛空母\) "wikilink")
+<File:TBM-3R> NAN-6-54.jpg|搭乗口 <File:TBM-3Es> on USS Siboney forward.jpg|主翼を畳んだ状態 <File:Mk> 13 torpedo is loaded on TBF aboard USS Lexington (CV-16) in 1943.jpg|爆弾倉に搭載されたMk13魚雷 ファイル:Hvar.jpg|搭載されたHVARロケット弾 <File:Grumman> TBM-3E Avenger HB-RDG OTT 2103 13.jpg|砲塔 <File:TBF> underwing rockets CVE-9 1944.jpg|[USSボーグのキャットウォークに落ちた機体を引き上げる作業](../Page/ボーグ_\(護衛空母\).md "wikilink")
 
 ## 経緯
 
-[250px](https://ja.wikipedia.org/wiki/ファイル:TBMs_and_SB2Cs_dropping_bombs.jpg "wikilink")\]\] [TBD デヴァステイター](https://ja.wikipedia.org/wiki/TBD_\(航空機\) "wikilink")[主力雷撃機は](https://ja.wikipedia.org/wiki/雷撃機 "wikilink")[1935年](../Page/1935年.md "wikilink")に登場したものの、[1939年](../Page/1939年.md "wikilink")に[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で[九七式艦上攻撃機](https://ja.wikipedia.org/wiki/九七式艦上攻撃機 "wikilink")の三号（一二型）が制式化されると時代遅れとなってしまった。[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")はTBDに代わる次期主力雷撃機の開発をグラマン社に依頼した。リロイ・グラマンが設計を担当し、最初のXTB-1と呼ばれる試作機が完成した。[1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")8月7日に初飛行し、2機の試作機のうち、1機はニューヨークのブレントウッドで墜落してしまったが、生産は続けられた。
+[250px](https://ja.wikipedia.org/wiki/ファイル:TBMs_and_SB2Cs_dropping_bombs.jpg "wikilink")\]\] [TBD デヴァステイター](../Page/TBD_\(航空機\).md "wikilink")[主力雷撃機は](../Page/雷撃機.md "wikilink")[1935年](../Page/1935年.md "wikilink")に登場したものの、[1939年](../Page/1939年.md "wikilink")に[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で[九七式艦上攻撃機](../Page/九七式艦上攻撃機.md "wikilink")の三号（一二型）が制式化されると時代遅れとなってしまった。[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")はTBDに代わる次期主力雷撃機の開発をグラマン社に依頼した。リロイ・グラマンが設計を担当し、最初のXTB-1と呼ばれる試作機が完成した。[1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")8月7日に初飛行し、2機の試作機のうち、1機はニューヨークのブレントウッドで墜落してしまったが、生産は続けられた。
 
 1941年12月7日の午後、グラマン社は新しく完成した工場の式典でTBFのお披露目を行った。皮肉にもその日は[日本海軍が](../Page/大日本帝国海軍.md "wikilink")[真珠湾攻撃](../Page/真珠湾攻撃.md "wikilink")を行った日でもあった。式典の後、工場は直ちに生産に向けて動き出し、[1942年](../Page/1942年.md "wikilink")の6月（[ミッドウェー海戦](https://ja.wikipedia.org/wiki/ミッドウェー海戦 "wikilink")）までに100機が完成した。なお、復讐者を意味する「アヴェンジャー」とは、この式典で名づけられたと言われているが、発表されたのが式典であるというだけで、実際に公式の愛称としてアヴェンジャーと名づけられたのは1941年10月である。
 
-ミッドウェー海戦までに[空母への搭載は間に合わなかったが](../Page/航空母艦.md "wikilink")、[ホーネット](https://ja.wikipedia.org/wiki/ホーネット_\(CV-8\) "wikilink")（CV-8）へ搭載する予定であった6機のTBF-1を第8雷撃隊（VT-8）の[分隊](../Page/分隊.md "wikilink")としてミッドウェー諸島に送られ、同海戦に参加した。ほとんどのパイロットは経験が浅いこともあって大きな損害と犠牲者を出してしまい、6機のうち生き残ったのは1機であった。なお、ミッドウェー海戦では空母3隻に搭載されたTBDの雷撃隊が多数の犠牲を出し、TBDの低速と防御力不足に起因してある隊では1名（ジョージ・ガイ[少尉](../Page/少尉.md "wikilink")）を残して全滅してしまった。皮肉にもTBFがハワイに到着する数時間前に空母は真珠湾を出港していた。
+ミッドウェー海戦までに[空母への搭載は間に合わなかったが](../Page/航空母艦.md "wikilink")、[ホーネット](../Page/ホーネット_\(CV-8\).md "wikilink")（CV-8）へ搭載する予定であった6機のTBF-1を第8雷撃隊（VT-8）の[分隊](../Page/分隊.md "wikilink")としてミッドウェー諸島に送られ、同海戦に参加した。ほとんどのパイロットは経験が浅いこともあって大きな損害と犠牲者を出してしまい、6機のうち生き残ったのは1機であった。なお、ミッドウェー海戦では空母3隻に搭載されたTBDの雷撃隊が多数の犠牲を出し、TBDの低速と防御力不足に起因してある隊では1名（ジョージ・ガイ[少尉](../Page/少尉.md "wikilink")）を残して全滅してしまった。皮肉にもTBFがハワイに到着する数時間前に空母は真珠湾を出港していた。
 
 次の航空戦を交えた[第二次ソロモン海戦](../Page/第二次ソロモン海戦.md "wikilink")にも24機のTBFが参加し、7機を犠牲にしながらも[日本海軍の空母](../Page/大日本帝国海軍.md "wikilink")[龍驤の撃沈に関与した](../Page/龍驤_\(空母\).md "wikilink")。しかし、この海戦までにアメリカ海軍で使用していた[魚雷](../Page/魚雷.md "wikilink")は誤作動を起こすことが多く、それらは命中の有無に関わらず爆発しなかった。[ゴードン・ウィリアム・プランゲ](https://ja.wikipedia.org/wiki/ゴードン・ウィリアム・プランゲ "wikilink")教授（総司令部の構成員）は磁気爆発装置の不発問題を言及した。1942年11月、[第三次ソロモン海戦](../Page/第三次ソロモン海戦.md "wikilink")において海兵隊のTBFと協同で戦艦[比叡を攻撃して航行不能にさせ](../Page/比叡_\(戦艦\).md "wikilink")、自沈に追い込んだ。これがTBFの最初の戦果となった。
 
-日本海軍の航空機が250機以上撃墜された[マリアナ沖海戦](../Page/マリアナ沖海戦.md "wikilink")では[マーク・ミッチャー](https://ja.wikipedia.org/wiki/マーク・ミッチャー "wikilink")提督の指揮下で220機が索敵機として日本艦隊の捜索を命じられた。300海里以上の距離がありながらも[F6F戦闘機](https://ja.wikipedia.org/wiki/F6F_\(航空機\) "wikilink")、[SB2C爆撃機](../Page/SB2C_\(航空機\).md "wikilink")、そしてアヴェンジャーの攻撃隊を差し向け、空母[ベロー・ウッドから発進したアヴェンジャーが空母](https://ja.wikipedia.org/wiki/ベロー・ウッド_\(空母\) "wikilink")[飛鷹の撃沈に貢献し](../Page/飛鷹_\(空母\).md "wikilink")、同海戦における数少ない戦果となった。ミッチャーが期待したほどの戦果を上げずに犠牲も出したが、彼のギャンブルは許容範囲内で成功した。
+日本海軍の航空機が250機以上撃墜された[マリアナ沖海戦](../Page/マリアナ沖海戦.md "wikilink")では[マーク・ミッチャー](../Page/マーク・ミッチャー.md "wikilink")提督の指揮下で220機が索敵機として日本艦隊の捜索を命じられた。300海里以上の距離がありながらも[F6F戦闘機](../Page/F6F_\(航空機\).md "wikilink")、[SB2C爆撃機](../Page/SB2C_\(航空機\).md "wikilink")、そしてアヴェンジャーの攻撃隊を差し向け、空母[ベロー・ウッドから発進したアヴェンジャーが空母](../Page/ベロー・ウッド_\(空母\).md "wikilink")[飛鷹の撃沈に貢献し](../Page/飛鷹_\(空母\).md "wikilink")、同海戦における数少ない戦果となった。ミッチャーが期待したほどの戦果を上げずに犠牲も出したが、彼のギャンブルは許容範囲内で成功した。
 
 従来まで雷撃機は水上艦を魚雷で攻撃する役割であったが、アヴェンジャーは1998年に発見された[伊-52を含む約](https://ja.wikipedia.org/wiki/伊号第五二潜水艦 "wikilink")30隻の[潜水艦](../Page/潜水艦.md "wikilink")を撃沈した。そして、大西洋でも太平洋でもアヴェンジャーは効率的な潜水艦キラーの一つであった。空母や護衛空母に搭載、運用され、輸送船団の上空で警戒を行い、ドイツ海軍U-ボートの攻撃から連合軍の船団を守った。
 
-TBFの後継機であった爆撃・雷撃兼用[艦上攻撃機](../Page/艦上攻撃機.md "wikilink")、ダグラス[A-1 スカイレイダーの配備が第二次世界大戦に間に合わず](https://ja.wikipedia.org/wiki/A-1_\(航空機\) "wikilink")、TBFの大規模な部隊配備が戦争中盤以降であったこともあり、同機は終戦まで第一線で活躍した。 {{-}}
+TBFの後継機であった爆撃・雷撃兼用[艦上攻撃機](../Page/艦上攻撃機.md "wikilink")、ダグラス[A-1 スカイレイダーの配備が第二次世界大戦に間に合わず](../Page/A-1_\(航空機\).md "wikilink")、TBFの大規模な部隊配備が戦争中盤以降であったこともあり、同機は終戦まで第一線で活躍した。 {{-}}
 
 終戦後、戦時中「[天山](../Page/天山_\(航空機\).md "wikilink")」に乗っていたパイロットが操縦したところ、その鈍重さに驚いたという逸話がある。
 
 ## 発展型と派生型
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Grumman_TBM-3S2_and_TBM-3W2_Avenger_of_VS-26_in_flight,_circa_in_1953.jpg "wikilink") 1942年のミッドウェー海戦から間もなく、半分のスペースが専用の内部・翼内燃料タンクに割り当てられ、航続距離が倍になったTBF-1Cの生産が開始された。1943年までにグラマン社では[F6Fの生産が優先されたため](https://ja.wikipedia.org/wiki/F6F_\(航空機\) "wikilink")、TBFの生産は滞り始め、代わってジェネラル・モーターズ社のイースタン・エアクラフト部門（Eastern Aircraft Division）が生産を引き継ぎ、同社で生産された機体はTBMと呼ぶ。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Grumman_TBM-3S2_and_TBM-3W2_Avenger_of_VS-26_in_flight,_circa_in_1953.jpg "wikilink") 1942年のミッドウェー海戦から間もなく、半分のスペースが専用の内部・翼内燃料タンクに割り当てられ、航続距離が倍になったTBF-1Cの生産が開始された。1943年までにグラマン社では[F6Fの生産が優先されたため](../Page/F6F_\(航空機\).md "wikilink")、TBFの生産は滞り始め、代わってジェネラル・モーターズ社のイースタン・エアクラフト部門（Eastern Aircraft Division）が生産を引き継ぎ、同社で生産された機体はTBMと呼ぶ。
 
-[1944年](../Page/1944年.md "wikilink")の中頃、主翼下に[増槽](https://ja.wikipedia.org/wiki/増槽 "wikilink")や小型[爆弾](../Page/爆弾.md "wikilink")、[ロケット弾](https://ja.wikipedia.org/wiki/ロケット弾 "wikilink")を搭載できる[ハードポイント](https://ja.wikipedia.org/wiki/ハードポイント "wikilink")の追加とより強力なエンジンを搭載したTBM-3が完成し、約4,600機生産されたが、終戦の[1945年](../Page/1945年.md "wikilink")まで実戦で戦っていたのはTBF-1の割合の方が多かった。TBM-4は[急降下爆撃](../Page/急降下爆撃.md "wikilink")兼用で、2,141機が発注され、1945年8月よりTBM-3Eにかわって生産開始の予定であったが、日本の敗戦によってキャンセルされた。
+[1944年](../Page/1944年.md "wikilink")の中頃、主翼下に[増槽](../Page/増槽.md "wikilink")や小型[爆弾](../Page/爆弾.md "wikilink")、[ロケット弾](../Page/ロケット弾.md "wikilink")を搭載できる[ハードポイント](https://ja.wikipedia.org/wiki/ハードポイント "wikilink")の追加とより強力なエンジンを搭載したTBM-3が完成し、約4,600機生産されたが、終戦の[1945年](../Page/1945年.md "wikilink")まで実戦で戦っていたのはTBF-1の割合の方が多かった。TBM-4は[急降下爆撃](../Page/急降下爆撃.md "wikilink")兼用で、2,141機が発注され、1945年8月よりTBM-3Eにかわって生産開始の予定であったが、日本の敗戦によってキャンセルされた。
 
 派生型として、[銃塔](https://ja.wikipedia.org/wiki/銃塔 "wikilink")を撤去して対潜任務専用とした-S型、-S型とペアを組んで運用される索敵レーダー搭載型の-W型、[電子戦](https://ja.wikipedia.org/wiki/電子戦 "wikilink")用装備を搭載した-E/Q型、機銃塔と腹部機銃を撤去して兵装庫を貨物庫に改装し、並列複座の座席を3席設けて合計6名を搭乗させられるようにした艦上[輸送機](../Page/輸送機.md "wikilink")の-R型なども開発された。
 
@@ -90,7 +90,7 @@ TBFの後継機であった爆撃・雷撃兼用[艦上攻撃機](../Page/艦上
 
 ## 他国での運用
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:TBF_HMS_Biter_convoy.jpg "wikilink") **[ターポン](https://ja.wikipedia.org/wiki/ターポン "wikilink")**（Tarpon）の名称で[イギリス海軍艦隊航空隊でも使用された](https://ja.wikipedia.org/wiki/艦隊航空隊 "wikilink")。初期型のTBF-1 402機がアヴェンジャー Mk Iと呼ばれ、334機のTBM-1をアヴェンジャー Mk II、同じく334機のTBM-3をMk III、戦争終結後に[イギリス海軍](../Page/イギリス海軍.md "wikilink")で対潜任務に従事し続けたものをアヴェンジャー AS Mk IVとした。なお、イギリス海軍は後に[オランダ海軍](https://ja.wikipedia.org/wiki/オランダ海軍 "wikilink")に20機のAS Mk IVを引き渡したが、この中の6機はその後[ブラジル海軍](../Page/ブラジル海軍.md "wikilink")が購入している。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:TBF_HMS_Biter_convoy.jpg "wikilink") **[ターポン](../Page/ターポン.md "wikilink")**（Tarpon）の名称で[イギリス海軍艦隊航空隊でも使用された](https://ja.wikipedia.org/wiki/艦隊航空隊 "wikilink")。初期型のTBF-1 402機がアヴェンジャー Mk Iと呼ばれ、334機のTBM-1をアヴェンジャー Mk II、同じく334機のTBM-3をMk III、戦争終結後に[イギリス海軍](../Page/イギリス海軍.md "wikilink")で対潜任務に従事し続けたものをアヴェンジャー AS Mk IVとした。なお、イギリス海軍は後に[オランダ海軍](https://ja.wikipedia.org/wiki/オランダ海軍 "wikilink")に20機のAS Mk IVを引き渡したが、この中の6機はその後[ブラジル海軍](../Page/ブラジル海軍.md "wikilink")が購入している。
 
 第二次世界大戦中にアメリカとイギリス以外で本機を保有したのは[ニュージーランド](../Page/ニュージーランド.md "wikilink")で、2型式48機が供与されていた。
 
@@ -98,7 +98,7 @@ TBFの後継機であった爆撃・雷撃兼用[艦上攻撃機](../Page/艦上
 
 ### 日本での運用
 
-[TBM-3M.jpg](https://ja.wikipedia.org/wiki/File:TBM-3M.jpg "fig:TBM-3M.jpg") [JMSDF_TBM-3W.jpg](https://ja.wikipedia.org/wiki/File:JMSDF_TBM-3W.jpg "fig:JMSDF_TBM-3W.jpg") [1954年](../Page/1954年.md "wikilink")（昭和29年）7月1日に発足した[海上自衛隊](https://ja.wikipedia.org/wiki/海上自衛隊 "wikilink")に対して[MSA協定に基づき米軍から航空機が供与されることとなった](../Page/日本国とアメリカ合衆国との間の相互防衛援助協定.md "wikilink")。同年12月に最初の実用機として索敵型のTBM-3Wが10機供与された。[1955年](../Page/1955年.md "wikilink")（昭和30年）11月には攻撃型のTBM-3Sの供与が始まり[1956年](../Page/1956年.md "wikilink")（昭和31年）2月までに計10機を受領し、10組の対潜チームの編成が可能となった。しかし、機体が鈍重であることと、すでに老朽化していたため、本格的な単機任務完結型の対潜哨戒機が導入されるの間、主に訓練用として運用された。TBM-3Sは[1959年](../Page/1959年.md "wikilink")（昭和34年）6月に、TBM-3Wは[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")（昭和36年）8月に全機除籍。 {{-}}
+[TBM-3M.jpg](https://ja.wikipedia.org/wiki/File:TBM-3M.jpg "fig:TBM-3M.jpg") [JMSDF_TBM-3W.jpg](https://ja.wikipedia.org/wiki/File:JMSDF_TBM-3W.jpg "fig:JMSDF_TBM-3W.jpg") [1954年](../Page/1954年.md "wikilink")（昭和29年）7月1日に発足した[海上自衛隊](../Page/海上自衛隊.md "wikilink")に対して[MSA協定に基づき米軍から航空機が供与されることとなった](../Page/日本国とアメリカ合衆国との間の相互防衛援助協定.md "wikilink")。同年12月に最初の実用機として索敵型のTBM-3Wが10機供与された。[1955年](../Page/1955年.md "wikilink")（昭和30年）11月には攻撃型のTBM-3Sの供与が始まり[1956年](../Page/1956年.md "wikilink")（昭和31年）2月までに計10機を受領し、10組の対潜チームの編成が可能となった。しかし、機体が鈍重であることと、すでに老朽化していたため、本格的な単機任務完結型の対潜哨戒機が導入されるの間、主に訓練用として運用された。TBM-3Sは[1959年](../Page/1959年.md "wikilink")（昭和34年）6月に、TBM-3Wは[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")（昭和36年）8月に全機除籍。 {{-}}
 
 ## 民間での運用
 
@@ -136,7 +136,7 @@ TBFの後継機であった爆撃・雷撃兼用[艦上攻撃機](../Page/艦上
 </tr>
 <tr class="even">
 <td><p>エンジン</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カーチス・ライト" title="wikilink">Wright</a> <a href="https://ja.wikipedia.org/wiki/ライト_R-2600" title="wikilink">R-2600-8</a> (1,700Bhp) ×1</p></td>
+<td><p><a href="../Page/カーチス・ライト.md" title="wikilink">Wright</a> <a href="../Page/ライト_R-2600.md" title="wikilink">R-2600-8</a> (1,700Bhp) ×1</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/空虚重量" title="wikilink">空虚重量</a></p></td>
@@ -177,7 +177,7 @@ TBFの後継機であった爆撃・雷撃兼用[艦上攻撃機](../Page/艦上
 </tr>
 <tr class="even">
 <td><p>武装</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブローニングM2重機関銃" title="wikilink">AN/M2 12.7mm機関銃</a> 前方固定×2 後方旋回×1、<a href="../Page/ブローニングM1919重機関銃.md" title="wikilink">AN/M2 7.62mm機関銃</a> 腹部旋回×1</p></td>
+<td><p><a href="../Page/ブローニングM2重機関銃.md" title="wikilink">AN/M2 12.7mm機関銃</a> 前方固定×2 後方旋回×1、<a href="../Page/ブローニングM1919重機関銃.md" title="wikilink">AN/M2 7.62mm機関銃</a> 腹部旋回×1</p></td>
 </tr>
 <tr class="odd">
 <td><p>外部兵装</p></td>
@@ -211,7 +211,7 @@ TBFの後継機であった爆撃・雷撃兼用[艦上攻撃機](../Page/艦上
 </tr>
 <tr class="even">
 <td><p>エンジン</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カーチス・ライト" title="wikilink">Wright</a> <a href="https://ja.wikipedia.org/wiki/ライト_R-2600" title="wikilink">R-2600-20</a> (1,800Bhp) ×1</p></td>
+<td><p><a href="../Page/カーチス・ライト.md" title="wikilink">Wright</a> <a href="../Page/ライト_R-2600.md" title="wikilink">R-2600-20</a> (1,800Bhp) ×1</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/空虚重量" title="wikilink">空虚重量</a></p></td>
@@ -252,7 +252,7 @@ TBFの後継機であった爆撃・雷撃兼用[艦上攻撃機](../Page/艦上
 </tr>
 <tr class="even">
 <td><p>武装</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブローニングM2重機関銃" title="wikilink">AN/M2 12.7mm機関銃</a> 前方固定×2 後方旋回×1、<a href="../Page/ブローニングM1919重機関銃.md" title="wikilink">AN/M2 7.62mm機関銃</a> 腹部旋回×1</p></td>
+<td><p><a href="../Page/ブローニングM2重機関銃.md" title="wikilink">AN/M2 12.7mm機関銃</a> 前方固定×2 後方旋回×1、<a href="../Page/ブローニングM1919重機関銃.md" title="wikilink">AN/M2 7.62mm機関銃</a> 腹部旋回×1</p></td>
 </tr>
 <tr class="odd">
 <td><p>外部兵装</p></td>
@@ -1237,7 +1237,7 @@ AS Mk.3</p></td>
 ### 映画
 
   - 『[男たちの大和/YAMATO](https://ja.wikipedia.org/wiki/男たちの大和/YAMATO "wikilink")』
-    アメリカ海軍所属機が登場。終盤にて、[F6F ヘルキャットや](https://ja.wikipedia.org/wiki/F6F_\(航空機\) "wikilink")[SB2C ヘルダイバーと共に](../Page/SB2C_\(航空機\).md "wikilink")、[菊水作戦](https://ja.wikipedia.org/wiki/菊水作戦 "wikilink")のために[沖縄へ向かっていた](../Page/沖縄県.md "wikilink")[大和型戦艦](../Page/大和型戦艦.md "wikilink")「[大和](../Page/大和_\(戦艦\).md "wikilink")」を襲撃する。
+    アメリカ海軍所属機が登場。終盤にて、[F6F ヘルキャットや](../Page/F6F_\(航空機\).md "wikilink")[SB2C ヘルダイバーと共に](../Page/SB2C_\(航空機\).md "wikilink")、[菊水作戦](https://ja.wikipedia.org/wiki/菊水作戦 "wikilink")のために[沖縄へ向かっていた](../Page/沖縄県.md "wikilink")[大和型戦艦](../Page/大和型戦艦.md "wikilink")「[大和](../Page/大和_\(戦艦\).md "wikilink")」を襲撃する。
 
 ### アニメ・漫画
 
@@ -1245,9 +1245,9 @@ AS Mk.3</p></td>
     回想シーンに登場。沖縄特攻へ向かう戦艦「大和」へ来襲。1機が雷撃体勢で砲撃を受けて撃墜されるが、大部分は雷撃に成功。クルーが沈み行く大和に向かって敬礼していた。
 
   - 『[ジパング](https://ja.wikipedia.org/wiki/ジパング_\(漫画\) "wikilink")』
-    空母「[ワスプ](https://ja.wikipedia.org/wiki/ワスプ_\(CV-7\) "wikilink")」の攻撃隊として登場。護衛艦「みらい」の[速射砲](https://ja.wikipedia.org/wiki/速射砲 "wikilink")で撃墜される。
+    空母「[ワスプ](../Page/ワスプ_\(CV-7\).md "wikilink")」の攻撃隊として登場。護衛艦「みらい」の[速射砲](../Page/速射砲.md "wikilink")で撃墜される。
 
-  - 『[戦場まんがシリーズ](https://ja.wikipedia.org/wiki/戦場まんがシリーズ "wikilink")』
+  - 『[戦場まんがシリーズ](../Page/戦場まんがシリーズ.md "wikilink")』
     「戦場交響曲」「消滅線雷撃」などに登場する。
 
   - 『[アズールレーン](https://ja.wikipedia.org/wiki/アズールレーン "wikilink")』
@@ -1259,7 +1259,7 @@ AS Mk.3</p></td>
   - 『[War Thunder](https://ja.wikipedia.org/wiki/War_Thunder "wikilink")』
     [アメリカの](../Page/アメリカ海軍.md "wikilink")[爆撃機](../Page/爆撃機.md "wikilink")として1cが登場。
   - 『[World of Warships](https://ja.wikipedia.org/wiki/World_of_Warships "wikilink")』
-    アメリカの[空母である](../Page/航空母艦.md "wikilink")「[レキシントン](https://ja.wikipedia.org/wiki/レキシントン_\(CV-2\) "wikilink")」と「[レンジャー](https://ja.wikipedia.org/wiki/レンジャー_\(CV-4\) "wikilink")」の[雷撃機](https://ja.wikipedia.org/wiki/雷撃機 "wikilink")として登場する。
+    アメリカの[空母である](../Page/航空母艦.md "wikilink")「[レキシントン](../Page/レキシントン_\(CV-2\).md "wikilink")」と「[レンジャー](../Page/レンジャー_\(CV-4\).md "wikilink")」の[雷撃機](../Page/雷撃機.md "wikilink")として登場する。
   - 『[艦隊これくしょん -艦これ-](https://ja.wikipedia.org/wiki/艦隊これくしょん_-艦これ- "wikilink")』
     通常の[艦上攻撃機](../Page/艦上攻撃機.md "wikilink")としてTBFが、夜間行動が可能な艦上攻撃機としてTBM-3Dが登場。
     『World war battleships』
@@ -1275,9 +1275,9 @@ AS Mk.3</p></td>
 
 ## 関連項目
 
-  - [航空機](../Page/航空機.md "wikilink") - [爆撃機](../Page/爆撃機.md "wikilink") - [爆撃機一覧](https://ja.wikipedia.org/wiki/爆撃機一覧 "wikilink")
+  - [航空機](../Page/航空機.md "wikilink") - [爆撃機](../Page/爆撃機.md "wikilink") - [爆撃機一覧](../Page/爆撃機一覧.md "wikilink")
   - [航空機メーカーの一覧](../Page/航空機メーカーの一覧.md "wikilink") - **[グラマン](../Page/グラマン.md "wikilink")** - [ノースロップ・グラマン](../Page/ノースロップ・グラマン.md "wikilink")
-  - [バミューダトライアングル](https://ja.wikipedia.org/wiki/バミューダトライアングル "wikilink") - 1945年12月5日にバミューダ海域を5機の本機が飛行し、遭難事故を起こしたことが消失事件として取り上げられることが多い。
+  - [バミューダトライアングル](../Page/バミューダトライアングル.md "wikilink") - 1945年12月5日にバミューダ海域を5機の本機が飛行し、遭難事故を起こしたことが消失事件として取り上げられることが多い。
   - [ジョージ・H・W・ブッシュ](../Page/ジョージ・H・W・ブッシュ.md "wikilink")
 
 ## 外部リンク

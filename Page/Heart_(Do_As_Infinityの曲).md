@@ -12,7 +12,7 @@
 1.  **Heart**
 2.  **散りゆく夕辺**
       -
-        ｢さりゆくゆうべ｣と読む。1stアルバム『[BREAK OF DAWN](https://ja.wikipedia.org/wiki/BREAK_OF_DAWN "wikilink")』の初回限定盤にはボーナストラックとしてこの曲の[アコースティック](https://ja.wikipedia.org/wiki/アコースティック "wikilink")バージョンが収録されている。
+        ｢さりゆくゆうべ｣と読む。1stアルバム『[BREAK OF DAWN](../Page/BREAK_OF_DAWN.md "wikilink")』の初回限定盤にはボーナストラックとしてこの曲の[アコースティック](https://ja.wikipedia.org/wiki/アコースティック "wikilink")バージョンが収録されている。
 3.  Heart (Instrumental)
 4.  散りゆく夕辺 (Instrumental)
 5.  **Heart (Keith Litman’s Heart Head Remix)**
@@ -25,7 +25,7 @@
 
 <!-- end list -->
 
-  - 『[BREAK OF DAWN](https://ja.wikipedia.org/wiki/BREAK_OF_DAWN "wikilink")』
+  - 『[BREAK OF DAWN](../Page/BREAK_OF_DAWN.md "wikilink")』
   - 『[Do The Best](../Page/Do_The_Best.md "wikilink")』
   - 『[Do The A-side](../Page/Do_The_A-side.md "wikilink")』
   - 『\[\[2_of_Us\#2_of_Us_BLUE_-14_Re:SINGLES-|2 of Us \[BLUE\] -14 Re:SINGLES-\]\]』※アレンジ、新録音して収録

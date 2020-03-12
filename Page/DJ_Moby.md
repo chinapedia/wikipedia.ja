@@ -1,7 +1,7 @@
 > この記事は[DJ Moby](https://ja.wikipedia.org/wiki/DJ_Moby)から翻訳されています。
 
 
-**DJ Moby**（DJモビー、[8月22日](../Page/8月22日.md "wikilink") - ）は北部九州のラジオに出演する[ラジオ](../Page/ラジオ.md "wikilink")[DJ並びに](../Page/ディスクジョッキー.md "wikilink")[ナレーター](https://ja.wikipedia.org/wiki/ナレーター "wikilink")である。[ディレクター](../Page/ディレクター.md "wikilink")も兼務する事がある。兵庫生まれ、広島育ち。最終学歴は[西南学院大学](https://ja.wikipedia.org/wiki/西南学院大学 "wikilink") [法学部](../Page/法学部.md "wikilink")卒業。
+**DJ Moby**（DJモビー、[8月22日](../Page/8月22日.md "wikilink") - ）は北部九州のラジオに出演する[ラジオ](../Page/ラジオ.md "wikilink")[DJ並びに](../Page/ディスクジョッキー.md "wikilink")[ナレーター](https://ja.wikipedia.org/wiki/ナレーター "wikilink")である。[ディレクター](../Page/ディレクター.md "wikilink")も兼務する事がある。兵庫生まれ、広島育ち。最終学歴は[西南学院大学](../Page/西南学院大学.md "wikilink") [法学部](../Page/法学部.md "wikilink")卒業。
 
 ## 概要
 
@@ -10,7 +10,7 @@
 ## 人柄・エピソードなど
 
   - モノマネのレパートリーが多数あり、最近のヒットは「サザエさんのタラちゃん」。番組内でもよくしている。普段でも困るとオカマキャラになる。
-  - Mobyと書いて「モビー」と読ませている。（本来の発音は「モービー」）由来は名字を縮めたもの。たまにアーティストの[MOBY（モービー）と間違えられるが](https://ja.wikipedia.org/wiki/モービー "wikilink")、別人。[Scoobie Doのドラム](../Page/Scoobie_Do.md "wikilink")「オカモト"MOBY"タクヤ」とも、別人。
+  - Mobyと書いて「モビー」と読ませている。（本来の発音は「モービー」）由来は名字を縮めたもの。たまにアーティストの[MOBY（モービー）と間違えられるが](../Page/モービー.md "wikilink")、別人。[Scoobie Doのドラム](../Page/Scoobie_Do.md "wikilink")「オカモト"MOBY"タクヤ」とも、別人。
   - 名前を間違えられやすい。「ボビー」「モリー」「「藻B」など
   - 一時変なREMIXをよく作っていた。たまに回す方のDJもする。
   - R\&Bが好きで、ライヴによく行く。

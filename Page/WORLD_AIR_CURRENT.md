@@ -8,7 +8,7 @@
   - スタジオに招かれた[ゲスト](https://ja.wikipedia.org/wiki/ゲスト "wikilink")と葉加瀬が、「[旅](../Page/旅行.md "wikilink")」をテーマに語り合う。終盤には葉加瀬が必ず「○○○○（※○にはその日のゲストの名前）とは？」と問いかける。
   - 番組は、ゲストゆかりの地へ向かう[飛行機の機内](../Page/旅客機.md "wikilink")、という設定になっている。
   - 放送されたゲストとのトークは、相当部分が書き起こされ番組公式サイトに掲載される。
-  - 平日が[祝日](../Page/祝日.md "wikilink")にあたる時には、**ANA HOLIDAY AIR CURRENT**の番組名で9時間[ホリデー・スペシャルもしくは](https://ja.wikipedia.org/wiki/J-WAVE_HOLIDAY_SPECIAL "wikilink")2時間の特別番組として放送される場合がある。
+  - 平日が[祝日](../Page/祝日.md "wikilink")にあたる時には、**ANA HOLIDAY AIR CURRENT**の番組名で9時間[ホリデー・スペシャルもしくは](../Page/J-WAVE_HOLIDAY_SPECIAL.md "wikilink")2時間の特別番組として放送される場合がある。
   - 番組中盤では、ナビゲーターである葉加瀬自らの曲やそれらに関連したアーティストの曲が流されるほか、今後の予定やコンサートツアーなどの現況も伝えられる。
   - 2019年6月8日の放送で1,000回を達成。
 
@@ -18,7 +18,7 @@
 
 ## ナビゲーター
 
-  - [葉加瀬太郎](https://ja.wikipedia.org/wiki/葉加瀬太郎 "wikilink")
+  - [葉加瀬太郎](../Page/葉加瀬太郎.md "wikilink")
 
 ## 番組関連書籍
 

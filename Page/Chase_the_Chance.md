@@ -9,8 +9,8 @@
   - [日本テレビ](../Page/日本テレビ放送網.md "wikilink")[土曜ドラマ](https://ja.wikipedia.org/wiki/土曜グランド劇場 "wikilink")「[ザ・シェフ](../Page/ザ・シェフ.md "wikilink")」（同年10月8日〜12月16日・全9話）の主題歌。ソロ名義になってからの初のドラマ主題歌となった。
   - 元・[dosの](https://ja.wikipedia.org/wiki/dos_\(音楽ユニット\) "wikilink")[KABAによる振付](../Page/KABA.ちゃん.md "wikilink")。
   - ラップの部分がメインになっていて、デモテープを聴きながら一生懸命覚え、それでもその部分はレコーディングにかなりの時間がかかった\[1\]。当初ラップは安室が担当する予定ではなかったが、レコーディングの当日「1コーラスだけやってみよう」ということになり歌ってみたら即OKテイクが出て、そのまま2コーラスもやることになった。安室は難しく感じながらも、必死にその場のノリで挑んでスタッフの要求に答えていった\[2\]。
-  - 同曲まで、バックダンサーとして[SUPER MONKEY'S](https://ja.wikipedia.org/wiki/SUPER_MONKEY'S "wikilink")（現・[MAX](https://ja.wikipedia.org/wiki/MAX_\(音楽グループ\) "wikilink")）が参加していた。
-  - 自身初の[オリコンシングルチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を獲得した。オリコンでは、自身初のシングルのミリオンセラーを達成（出荷ベースでは2枚目）。また、[大晦日](../Page/大晦日.md "wikilink")の[第46回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第46回NHK紅白歌合戦 "wikilink")にも初出場した（当時18歳）。
+  - 同曲まで、バックダンサーとして[SUPER MONKEY'S](../Page/SUPER_MONKEY'S.md "wikilink")（現・[MAX](https://ja.wikipedia.org/wiki/MAX_\(音楽グループ\) "wikilink")）が参加していた。
+  - 自身初の[オリコンシングルチャート](../Page/オリコンチャート.md "wikilink")1位を獲得した。オリコンでは、自身初のシングルのミリオンセラーを達成（出荷ベースでは2枚目）。また、[大晦日](../Page/大晦日.md "wikilink")の[第46回NHK紅白歌合戦](../Page/第46回NHK紅白歌合戦.md "wikilink")にも初出場した（当時18歳）。
   - 累計出荷枚数は155万枚\[3\]。
 
 ## 主な記録
@@ -36,7 +36,7 @@
 
 <!-- end list -->
 
-  - オリジナル『**[SWEET 19 BLUES](https://ja.wikipedia.org/wiki/SWEET_19_BLUES "wikilink")**』(CC Mix)
+  - オリジナル『**[SWEET 19 BLUES](../Page/SWEET_19_BLUES.md "wikilink")**』(CC Mix)
       - バンドサウンド中心のアレンジを施した\[4\]。
   - ベスト 『**[181920](https://ja.wikipedia.org/wiki/181920 "wikilink")**』（ 『**181920 & films**』も同様）
   - ライヴ『**[namie amuro 5 Major Domes Tour 2012 〜20th Anniversary Best〜](https://ja.wikipedia.org/wiki/namie_amuro_5_Major_Domes_Tour_2012_〜20th_Anniversary_Best〜 "wikilink")**』（レンタル限定・豪華盤）

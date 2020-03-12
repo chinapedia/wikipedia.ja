@@ -5,7 +5,7 @@
 
 クラブは[1891年](../Page/1891年.md "wikilink")に設立され、サッカークラブがスタートしたのは[1896年](../Page/1896年.md "wikilink")。[ストックホルム](../Page/ストックホルム.md "wikilink")中心部に位置する[ユールゴーデンIF](../Page/ユールゴーデンIF.md "wikilink")とはライバル関係にあり、ダービーマッチは常に白熱する。クラブのサポーターはブラックアーミーと呼ばれ、スウェーデン国内では[ユールゴーデンIF](../Page/ユールゴーデンIF.md "wikilink")サポーター、ブルーセインツと共に過激だと言われている。
 
-クラブのメンバーにはスウェーデン王[カール16世グスタフがいる](https://ja.wikipedia.org/wiki/カール16世グスタフ_\(スウェーデン王\) "wikilink")。2005年まではUEFA会長の[レナート・ヨハンソン](https://ja.wikipedia.org/wiki/レナート・ヨハンソン "wikilink")がクラブの会長を務めていた。
+クラブのメンバーにはスウェーデン王[カール16世グスタフがいる](../Page/カール16世グスタフ_\(スウェーデン王\).md "wikilink")。2005年まではUEFA会長の[レナート・ヨハンソン](https://ja.wikipedia.org/wiki/レナート・ヨハンソン "wikilink")がクラブの会長を務めていた。
 
 ## タイトル
 
@@ -150,7 +150,7 @@
 <td><p>1967</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAインタートトカップ_1967" title="wikilink">UEFAインタートトカップ</a></p></td>
 <td><p>グループB6</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オーフスGF" title="wikilink">オーフス</a></p></td>
+<td><p><a href="../Page/オーフスGF.md" title="wikilink">オーフス</a></p></td>
 <td><p>1–0</p></td>
 <td><p>2–1</p></td>
 <td><p>'''3位</p></td>
@@ -188,7 +188,7 @@
 </tr>
 <tr class="odd">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハノーファー96" title="wikilink">ハノーファー96</a></p></td>
+<td><p><a href="../Page/ハノーファー96.md" title="wikilink">ハノーファー96</a></p></td>
 <td><p>4–2</p></td>
 <td><p>2–5</p></td>
 <td><p>'''6–7</p></td>
@@ -207,7 +207,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/オリンピック・マルセイユ" title="wikilink">オリンピック・マルセイユ</a></p></td>
+<td><p><a href="../Page/オリンピック・マルセイユ.md" title="wikilink">オリンピック・マルセイユ</a></p></td>
 <td><p>2–2</p></td>
 <td><p>2–6</p></td>
 <td></td>
@@ -230,14 +230,14 @@
 <td><p>1973</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAインタートトカップ_1973" title="wikilink">UEFAインタートトカップ</a></p></td>
 <td><p>グループ2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/MSVデュースブルク" title="wikilink">デュースブルク</a></p></td>
+<td><p><a href="../Page/MSVデュースブルク.md" title="wikilink">デュースブルク</a></p></td>
 <td><p>3–1</p></td>
 <td><p>1–1</p></td>
 <td><p>'''3位</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/PSVアイントホーフェン" title="wikilink">PSV</a></p></td>
+<td><p><a href="../Page/PSVアイントホーフェン.md" title="wikilink">PSV</a></p></td>
 <td><p>0–1</p></td>
 <td><p>0–3</p></td>
 <td></td>
@@ -287,7 +287,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ヴィスワ・クラクフ" title="wikilink">ヴィスワ・クラクフ</a></p></td>
+<td><p><a href="../Page/ヴィスワ・クラクフ.md" title="wikilink">ヴィスワ・クラクフ</a></p></td>
 <td><p>0–3</p></td>
 <td><p>0–1</p></td>
 <td></td>
@@ -397,7 +397,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1.FCニュルンベルク" title="wikilink">ニュルンベルク</a></p></td>
+<td><p><a href="../Page/1.FCニュルンベルク.md" title="wikilink">ニュルンベルク</a></p></td>
 <td><p>8–2</p></td>
 <td><p>2–1</p></td>
 <td></td>
@@ -510,7 +510,7 @@
 <td><p>1993-94</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_1993-94" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ACスパルタ・プラハ" title="wikilink">スパルタ・プラハ</a></p></td>
+<td><p><a href="../Page/ACスパルタ・プラハ.md" title="wikilink">スパルタ・プラハ</a></p></td>
 <td><p>1–0</p></td>
 <td><p>0–2</p></td>
 <td><p>'''1–2</p></td>
@@ -520,7 +520,7 @@
 <td><p>1994</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAインタートトカップ_1994" title="wikilink">UEFAインタートトカップ</a></p></td>
 <td><p>グループ3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/バイエル・レバークーゼン" title="wikilink">バイエル・レバークーゼン</a></p></td>
+<td><p><a href="../Page/バイエル・レバークーゼン.md" title="wikilink">バイエル・レバークーゼン</a></p></td>
 <td><p>3–2</p></td>
 <td><p>'''1位</p></td>
 <td></td>
@@ -571,7 +571,7 @@
 <td><p><a href="../Page/SKスラヴィア・プラハ.md" title="wikilink">スラヴィア・プラハ</a></p></td>
 <td><p>0–0</p></td>
 <td><p>2–2</p></td>
-<td><p>'''2–2 (<a href="https://ja.wikipedia.org/wiki/アウェーゴール" title="wikilink">a</a>)</p></td>
+<td><p>'''2–2 (<a href="../Page/アウェーゴール.md" title="wikilink">a</a>)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -598,7 +598,7 @@
 </tr>
 <tr class="even">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ニーム・オリンピック" title="wikilink">ニーム・オリンピック</a></p></td>
+<td><p><a href="../Page/ニーム・オリンピック.md" title="wikilink">ニーム・オリンピック</a></p></td>
 <td><p>0–1</p></td>
 <td><p>3–1</p></td>
 <td><p>'''3–2</p></td>
@@ -667,7 +667,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ACFフィオレンティーナ" title="wikilink">フィオレンティーナ</a></p></td>
+<td><p><a href="../Page/ACFフィオレンティーナ.md" title="wikilink">フィオレンティーナ</a></p></td>
 <td><p>0–0</p></td>
 <td><p>0–3</p></td>
 <td></td>
@@ -738,7 +738,7 @@
 </tr>
 <tr class="even">
 <td><p>予選1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フェネルバフチェSK" title="wikilink">フェネルバフチェ</a></p></td>
+<td><p><a href="../Page/フェネルバフチェSK.md" title="wikilink">フェネルバフチェ</a></p></td>
 <td><p>3–3</p></td>
 <td><p>1–3</p></td>
 <td><p>'''4–6</p></td>
@@ -758,7 +758,7 @@
 </tr>
 <tr class="even">
 <td><p>予選1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/バレンシアCF" title="wikilink">バレンシア</a></p></td>
+<td><p><a href="../Page/バレンシアCF.md" title="wikilink">バレンシア</a></p></td>
 <td><p>0–1</p></td>
 <td><p>0–1</p></td>
 <td><p>'''0–2</p></td>
@@ -808,7 +808,7 @@
 </tr>
 <tr class="odd">
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ローゼンボリBK" title="wikilink">ローゼンボリBK</a></p></td>
+<td><p><a href="../Page/ローゼンボリBK.md" title="wikilink">ローゼンボリBK</a></p></td>
 <td><p>0–1</p></td>
 <td><p>0–3</p></td>
 <td><p>'''0–4</p></td>
@@ -819,7 +819,7 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2010-11" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>プレーオフ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レフスキ・ソフィア" title="wikilink">レフスキ・ソフィア</a></p></td>
+<td><p><a href="../Page/レフスキ・ソフィア.md" title="wikilink">レフスキ・ソフィア</a></p></td>
 <td><p>0–0</p></td>
 <td><p>1–2</p></td>
 <td><p>'''1–2</p></td>
@@ -848,7 +848,7 @@
 </tr>
 <tr class="odd">
 <td><p>プレーオフ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PFC_CSKAモスクワ" title="wikilink">CSKAモスクワ</a></p></td>
+<td><p><a href="../Page/PFC_CSKAモスクワ.md" title="wikilink">CSKAモスクワ</a></p></td>
 <td><p>0–1</p></td>
 <td><p>2–0</p></td>
 <td><p>'''2–1</p></td>
@@ -877,7 +877,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/PSVアイントホーフェン" title="wikilink">PSV</a></p></td>
+<td><p><a href="../Page/PSVアイントホーフェン.md" title="wikilink">PSV</a></p></td>
 <td><p>1–0</p></td>
 <td><p>1–1</p></td>
 <td></td>
@@ -978,7 +978,7 @@
 </tr>
 <tr class="even">
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SCブラガ" title="wikilink">ブラガ</a></p></td>
+<td><p><a href="../Page/SCブラガ.md" title="wikilink">ブラガ</a></p></td>
 <td><p>1–1</p></td>
 <td><p>1-2 (a.e.t.)</p></td>
 <td><p>'''2-3</p></td>
@@ -1038,7 +1038,7 @@
 </tr>
 <tr class="even">
 <td><p>プレーオフ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セルティックFC" title="wikilink">セルティック</a></p></td>
+<td><p><a href="../Page/セルティックFC.md" title="wikilink">セルティック</a></p></td>
 <td><p>1-4</p></td>
 <td><p>0-2</p></td>
 <td><p>'''1-6</p></td>
@@ -1057,9 +1057,9 @@
 
 ## 歴代監督
 
-  - [グンナー・ノルダール](https://ja.wikipedia.org/wiki/グンナー・ノルダール "wikilink") 1977-1978
+  - [グンナー・ノルダール](../Page/グンナー・ノルダール.md "wikilink") 1977-1978
 
-  - [スチュワート・バクスター](https://ja.wikipedia.org/wiki/スチュワート・バクスター "wikilink") 1998-2000
+  - [スチュワート・バクスター](../Page/スチュワート・バクスター.md "wikilink") 1998-2000
 
   - [アレックス・ミラー](https://ja.wikipedia.org/wiki/アレックス・ミラー "wikilink") 2010
 
@@ -1071,7 +1071,7 @@
 
 ### GK
 
-  - [マグヌス・ヘドマン](https://ja.wikipedia.org/wiki/マグヌス・ヘドマン "wikilink") 1990-1996
+  - [マグヌス・ヘドマン](../Page/マグヌス・ヘドマン.md "wikilink") 1990-1996
 
 ### DF
 
@@ -1079,7 +1079,7 @@
 
   - [オロフ・メルベリ](../Page/オロフ・メルベリ.md "wikilink") 1997-1998
 
-  - [エリック・エドマン](https://ja.wikipedia.org/wiki/エリック・エドマン "wikilink") 2000-2001
+  - [エリック・エドマン](../Page/エリック・エドマン.md "wikilink") 2000-2001
 
   - [ダニエル・スンドグレン](https://ja.wikipedia.org/wiki/ダニエル・スンドグレン "wikilink") 2008, 2016-
 
@@ -1091,7 +1091,7 @@
 
   - [ステファン・イシザキ](../Page/ステファン・イシザキ.md "wikilink") 1999-2004, 2015-2017
 
-  - [テディ・ルチッチ](https://ja.wikipedia.org/wiki/テディ・ルチッチ "wikilink") 2000-2002
+  - [テディ・ルチッチ](../Page/テディ・ルチッチ.md "wikilink") 2000-2002
 
   - [セバスティアン・エグレン](../Page/セバスティアン・エグレン.md "wikilink") 2010
 

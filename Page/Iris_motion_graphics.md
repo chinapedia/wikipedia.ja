@@ -1,27 +1,27 @@
 > この記事は[Iris motion graphics](https://ja.wikipedia.org/wiki/Iris_motion_graphics)から翻訳されています。
 
 
-**Iris motion graphics**（アイリス・モーション・グラフィックス）は、主に[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")や[コンシューマーゲーム](../Page/コンシューマーゲーム.md "wikilink")の[映像作品を制作しているムービー制作ブランド](https://ja.wikipedia.org/wiki/ムービー "wikilink")。Tsukune.が主宰している。
+**Iris motion graphics**（アイリス・モーション・グラフィックス）は、主に[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")や[コンシューマーゲーム](../Page/コンシューマーゲーム.md "wikilink")の[映像作品を制作しているムービー制作ブランド](../Page/ムービー.md "wikilink")。Tsukune.が主宰している。
 
 本ブランドが制作に携わった作品は、ユーザーによる主要な美少女ゲームランキングの映像部門において、複数回のランクインを果たしている。
 
 ## 経緯
 
-かつてTsukune.は「捏音たむ」（つくね-）名義にて[神藝工房](https://ja.wikipedia.org/wiki/神藝工房 "wikilink")で[MADムービー](../Page/MADムービー.md "wikilink")制作を行っていたが\[1\]、神藝工房の解散に伴い独立\[2\]。その後Tsukune.はブランド「Iris motion graphics」を立ち上げ、現在までアダルトゲームやコンシューマーゲームの[OPムービー](https://ja.wikipedia.org/wiki/オープニングアニメーション "wikilink")、[プロモーションムービー等を制作している](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。
+かつてTsukune.は「捏音たむ」（つくね-）名義にて[神藝工房](https://ja.wikipedia.org/wiki/神藝工房 "wikilink")で[MADムービー](../Page/MADムービー.md "wikilink")制作を行っていたが\[1\]、神藝工房の解散に伴い独立\[2\]。その後Tsukune.はブランド「Iris motion graphics」を立ち上げ、現在までアダルトゲームやコンシューマーゲームの[OPムービー](../Page/オープニングアニメーション.md "wikilink")、[プロモーションムービー等を制作している](../Page/ミュージック・ビデオ.md "wikilink")。
 
 ## 人物・作風
 
 本節ではIris motion graphicsを主宰する**Tsukune.**について述べる。[9月17日](../Page/9月17日.md "wikilink")生まれ\[3\]。アメリカの大学に通っていた当時、知人に影響を受けてMADムービーの制作を嗜んでいた\[4\]。Tsukune.の作品を観たアダルトゲームブランド「[GROOVER](../Page/GROOVER.md "wikilink")」のプロデューサー、竹内博が声をかけたことをきっかけに、外注としてゲーム『[グリーングリーン](../Page/グリーングリーン_\(ゲーム\).md "wikilink")』の制作に関わることとなった\[5\]。
 
-制作にあたっては[絵コンテ](https://ja.wikipedia.org/wiki/絵コンテ "wikilink")を用いない\[6\]。編集技術をあくまで踏み台として考え、作品の伝えたいメッセージをなるべく表現し、そのうえに自らの個性を追加する手法をとっている\[7\]。また、美少女ゲームというジャンルに興味の無い視聴者にも関心をもってもらえるような作品制作を重視している\[8\]。作業環境（2002年当時）はWindows機2台で、1台をレンダリング用、もう1台を作業用として利用している\[9\]。
+制作にあたっては[絵コンテ](../Page/絵コンテ.md "wikilink")を用いない\[6\]。編集技術をあくまで踏み台として考え、作品の伝えたいメッセージをなるべく表現し、そのうえに自らの個性を追加する手法をとっている\[7\]。また、美少女ゲームというジャンルに興味の無い視聴者にも関心をもってもらえるような作品制作を重視している\[8\]。作業環境（2002年当時）はWindows機2台で、1台をレンダリング用、もう1台を作業用として利用している\[9\]。
 
 ## 反響
 
 ### ランキング
 
-Iris motion graphicsが制作を行った映像作品群について、関連する主要なランキングについて言及する。担当作品およびその制作内容については[後述の節を参考にされたい](https://ja.wikipedia.org/wiki/#担当作品 "wikilink")。2003年から2010年まで[ベクターが運営していた美少女ゲーム情報サイト](https://ja.wikipedia.org/wiki/ベクター_\(企業\) "wikilink")「[Galge.com](../Page/Galge.com.md "wikilink")」では、無料配信された各データの年間ダウンロード数を集計し、その結果をもとに順位を決定するランキングが発表されていた\[10\]。そのうちの2007年デモムービー部門において『[長靴をはいたデコ](https://ja.wikipedia.org/wiki/長靴をはいたデコ "wikilink")』のデモムービーが15位を獲得した\[11\]。
+Iris motion graphicsが制作を行った映像作品群について、関連する主要なランキングについて言及する。担当作品およびその制作内容については[後述の節を参考にされたい](https://ja.wikipedia.org/wiki/#担当作品 "wikilink")。2003年から2010年まで[ベクターが運営していた美少女ゲーム情報サイト](../Page/ベクター_\(企業\).md "wikilink")「[Galge.com](../Page/Galge.com.md "wikilink")」では、無料配信された各データの年間ダウンロード数を集計し、その結果をもとに順位を決定するランキングが発表されていた\[10\]。そのうちの2007年デモムービー部門において『[長靴をはいたデコ](https://ja.wikipedia.org/wiki/長靴をはいたデコ "wikilink")』のデモムービーが15位を獲得した\[11\]。
 
-また、美少女ゲームサイト「[Getchu.com](https://ja.wikipedia.org/wiki/Getchu.com "wikilink")」においても2003年より毎年発売された作品について、ユーザーによる投票数から各部門のランキングを発表しており、2007年までの映像部門および2008年からのムービー部門についてランクインした作品が多数ある。2004年には『[SHUFFLE\!](https://ja.wikipedia.org/wiki/SHUFFLE! "wikilink")』は2位、『[はるのあしおと](https://ja.wikipedia.org/wiki/はるのあしおと "wikilink")』は4位、『[Canvas2 〜茜色のパレット〜](https://ja.wikipedia.org/wiki/Canvas2_〜茜色のパレット〜 "wikilink")』は8位、『[Soul Link](../Page/Soul_Link.md "wikilink")』は19位を記録\[12\]、2006年に『[ef - the first tale.](https://ja.wikipedia.org/wiki/ef_-_a_fairy_tale_of_the_two. "wikilink")』は2位、『[Really? Really\!](../Page/Really?_Really!.md "wikilink")』は9位となった\[13\]。さらに2008年のside Whiteにおいて『[ef - the latter tale.](https://ja.wikipedia.org/wiki/ef_-_a_fairy_tale_of_the_two. "wikilink")』が1位、続いて『[FORTUNE ARTERIAL](../Page/FORTUNE_ARTERIAL.md "wikilink")』が2位となり\[14\]、2009年でも『[eden\*](https://ja.wikipedia.org/wiki/eden* "wikilink")』が1位を、『[俺たちに翼はない](https://ja.wikipedia.org/wiki/俺たちに翼はない "wikilink")』が3位に位置している\[15\]。2012年には『[すぴぱら STORY\#01 - Spring Has Come\!](https://ja.wikipedia.org/wiki/すぴぱら "wikilink")』が2位、『[はつゆきさくら](https://ja.wikipedia.org/wiki/はつゆきさくら "wikilink")』が7位にランクインしている\[16\]。
+また、美少女ゲームサイト「[Getchu.com](https://ja.wikipedia.org/wiki/Getchu.com "wikilink")」においても2003年より毎年発売された作品について、ユーザーによる投票数から各部門のランキングを発表しており、2007年までの映像部門および2008年からのムービー部門についてランクインした作品が多数ある。2004年には『[SHUFFLE\!](../Page/SHUFFLE!.md "wikilink")』は2位、『[はるのあしおと](../Page/はるのあしおと.md "wikilink")』は4位、『[Canvas2 〜茜色のパレット〜](https://ja.wikipedia.org/wiki/Canvas2_〜茜色のパレット〜 "wikilink")』は8位、『[Soul Link](../Page/Soul_Link.md "wikilink")』は19位を記録\[12\]、2006年に『[ef - the first tale.](https://ja.wikipedia.org/wiki/ef_-_a_fairy_tale_of_the_two. "wikilink")』は2位、『[Really? Really\!](../Page/Really?_Really!.md "wikilink")』は9位となった\[13\]。さらに2008年のside Whiteにおいて『[ef - the latter tale.](https://ja.wikipedia.org/wiki/ef_-_a_fairy_tale_of_the_two. "wikilink")』が1位、続いて『[FORTUNE ARTERIAL](../Page/FORTUNE_ARTERIAL.md "wikilink")』が2位となり\[14\]、2009年でも『[eden\*](https://ja.wikipedia.org/wiki/eden* "wikilink")』が1位を、『[俺たちに翼はない](https://ja.wikipedia.org/wiki/俺たちに翼はない "wikilink")』が3位に位置している\[15\]。2012年には『[すぴぱら STORY\#01 - Spring Has Come\!](https://ja.wikipedia.org/wiki/すぴぱら "wikilink")』が2位、『[はつゆきさくら](https://ja.wikipedia.org/wiki/はつゆきさくら "wikilink")』が7位にランクインしている\[16\]。
 
 ### 批評
 
@@ -36,7 +36,7 @@ Iris motion graphicsが制作を行った映像作品群について、関連す
 #### 一般向け
 
   - [Wind -a breath of heart-](../Page/Wind_-a_breath_of_heart-.md "wikilink")（[DC](../Page/ドリームキャスト.md "wikilink")）
-  - [PHANTOM OF INFERNO](https://ja.wikipedia.org/wiki/Phantom_-PHANTOM_OF_INFERNO- "wikilink")（[PS2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")）
+  - [PHANTOM OF INFERNO](../Page/Phantom_-PHANTOM_OF_INFERNO-.md "wikilink")（[PS2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")）
   - [機神咆吼デモンベイン](https://ja.wikipedia.org/wiki/斬魔大聖デモンベイン "wikilink")（PS2）
   - [君が望む永遠](../Page/君が望む永遠.md "wikilink")（DC）
   - [咎狗の血 True Blood](../Page/咎狗の血.md "wikilink")（PS2）
@@ -58,18 +58,18 @@ Iris motion graphicsが制作を行った映像作品群について、関連す
   - [そよかぜのおくりもの](../Page/Wind_-a_breath_of_heart-.md "wikilink")
   - [十六夜れんか](https://ja.wikipedia.org/wiki/十六夜れんか "wikilink")
   - [朱 -Aka-](../Page/朱_-Aka-.md "wikilink")
-  - [魔女っ娘ア・ラ・モード](https://ja.wikipedia.org/wiki/魔女っ娘ア・ラ・モード "wikilink")
+  - [魔女っ娘ア・ラ・モード](../Page/魔女っ娘ア・ラ・モード.md "wikilink")
   - [Kissing\!\! under the mistletoe](../Page/Kissing!!_under_the_mistletoe.md "wikilink")
-  - [SHUFFLE\!](https://ja.wikipedia.org/wiki/SHUFFLE! "wikilink")
+  - [SHUFFLE\!](../Page/SHUFFLE!.md "wikilink")
   - [Canvas2 〜茜色のパレット〜](https://ja.wikipedia.org/wiki/Canvas2_〜茜色のパレット〜 "wikilink")
   - [CARNIVAL](../Page/CARNIVAL_\(ゲーム\).md "wikilink")
-  - [はるのあしおと](https://ja.wikipedia.org/wiki/はるのあしおと "wikilink") - ED担当。
-  - [グリーングリーン2 恋のスペシャルサマー](https://ja.wikipedia.org/wiki/グリーングリーン2_恋のスペシャルサマー "wikilink")
+  - [はるのあしおと](../Page/はるのあしおと.md "wikilink") - ED担当。
+  - [グリーングリーン2 恋のスペシャルサマー](../Page/グリーングリーン2_恋のスペシャルサマー.md "wikilink")
   - そよかぜのおくりもの -Wind Pleasurable Box- - DVD版アニメーションエンドロールを担当。
   - [Soul Link](../Page/Soul_Link.md "wikilink")
-  - [塵骸魔京](https://ja.wikipedia.org/wiki/塵骸魔京 "wikilink")
+  - [塵骸魔京](../Page/塵骸魔京.md "wikilink")
   - [魔女っ娘ア・ラ・モード2](https://ja.wikipedia.org/wiki/魔女っ娘ア・ラ・モードII_〜光と闇のエトランゼ〜 "wikilink")
-  - [グリーングリーン3 ハローグッバイ](https://ja.wikipedia.org/wiki/グリーングリーン3_ハローグッバイ "wikilink")
+  - [グリーングリーン3 ハローグッバイ](../Page/グリーングリーン3_ハローグッバイ.md "wikilink")
   - [最果てのイマ](../Page/最果てのイマ.md "wikilink")
   - [Tick\!Tack\!](../Page/Tick!_Tack!.md "wikilink")
 
@@ -77,7 +77,7 @@ Iris motion graphicsが制作を行った映像作品群について、関連す
 
   - [蠅声の王](../Page/蠅声の王.md "wikilink")
   - [蠅声の王 シナリオII](https://ja.wikipedia.org/wiki/蠅声の王_シナリオII "wikilink")
-  - [エーデルワイス](https://ja.wikipedia.org/wiki/エーデルワイス_\(ゲーム\) "wikilink")
+  - [エーデルワイス](../Page/エーデルワイス_\(ゲーム\).md "wikilink")
   - [Really? Really\!](../Page/Really?_Really!.md "wikilink")
   - [キラ☆キラ](../Page/キラ☆キラ.md "wikilink")
   - [長靴をはいたデコ](https://ja.wikipedia.org/wiki/長靴をはいたデコ "wikilink")

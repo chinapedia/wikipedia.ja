@@ -5,13 +5,13 @@
 
 後に日本国外にて『**Donkey Kong Jr. Math**』のタイトルで発売された。
 
-[2007年](../Page/2007年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")より[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")の[バーチャルコンソール](https://ja.wikipedia.org/wiki/バーチャルコンソール "wikilink")で、[2015年](../Page/2015年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")より[Wii Uのバーチャルコンソールで](https://ja.wikipedia.org/wiki/Wii_U "wikilink")、それぞれ配信されている。
+[2007年](../Page/2007年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")より[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")の[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")で、[2015年](../Page/2015年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")より[Wii Uのバーチャルコンソールで](https://ja.wikipedia.org/wiki/Wii_U "wikilink")、それぞれ配信されている。
 
 ## 概要
 
-『[ポパイの英語遊び](https://ja.wikipedia.org/wiki/ポパイの英語遊び "wikilink")』に続く「楽しみながら勉強できる」ゲームの第2弾で、『[ドンキーコングJR.](../Page/ドンキーコングJR..md "wikilink")』のゲームシステムとグラフィックを使った教育用ゲーム。「CALCULATE A」、「CALCULATE B」、「＋－×÷EXERCISE」の3つのゲームモードがある。
+『[ポパイの英語遊び](../Page/ポパイの英語遊び.md "wikilink")』に続く「楽しみながら勉強できる」ゲームの第2弾で、『[ドンキーコングJR.](../Page/ドンキーコングJR..md "wikilink")』のゲームシステムとグラフィックを使った教育用ゲーム。「CALCULATE A」、「CALCULATE B」、「＋－×÷EXERCISE」の3つのゲームモードがある。
 
-本作には[ドンキーコングJr.と](../Page/ドンキーコングJr._\(ゲームキャラクター\).md "wikilink")[ドンキーコング](https://ja.wikipedia.org/wiki/ドンキーコング_\(ゲームキャラクター・初代\) "wikilink")、ニットピッカー（[カラス](../Page/カラス.md "wikilink")）は登場するが、『ドンキーコングJR.』で敵役だった[マリオは登場しない](https://ja.wikipedia.org/wiki/マリオ_\(ゲームキャラクター\) "wikilink")。
+本作には[ドンキーコングJr.と](../Page/ドンキーコングJr._\(ゲームキャラクター\).md "wikilink")[ドンキーコング](../Page/ドンキーコング_\(ゲームキャラクター・初代\).md "wikilink")、ニットピッカー（[カラス](../Page/カラス.md "wikilink")）は登場するが、『ドンキーコングJR.』で敵役だった[マリオは登場しない](https://ja.wikipedia.org/wiki/マリオ_\(ゲームキャラクター\) "wikilink")。
 
 [どうぶつの森シリーズ](https://ja.wikipedia.org/wiki/どうぶつの森シリーズ "wikilink")（『[どうぶつの森](../Page/どうぶつの森.md "wikilink")』\[1\]『[どうぶつの森+](../Page/どうぶつの森+.md "wikilink")』『[どうぶつの森e+](../Page/どうぶつの森e+.md "wikilink")』）のファミコン家具としてプレイ可能。ただし、『[どうぶつの森+](../Page/どうぶつの森+.md "wikilink")』では日本版、『[どうぶつの森e+](../Page/どうぶつの森e+.md "wikilink")』では海外版のROMになっている。
 
@@ -71,7 +71,7 @@ CALCURATE AおよびBは2人用で、『ドンキーコングJR.』の1面を元
 <td><p>任天堂</p></td>
 <td><p>任天堂</p></td>
 <td><p><a href="../Page/ダウンロード販売.md" title="wikilink">ダウンロード</a><br />
-（<a href="https://ja.wikipedia.org/wiki/バーチャルコンソール" title="wikilink">バーチャルコンソール</a>）</p></td>
+（<a href="../Page/バーチャルコンソール.md" title="wikilink">バーチャルコンソール</a>）</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -105,7 +105,7 @@ CALCURATE AおよびBは2人用で、『ドンキーコングJR.』の1面を元
 
 ## 備考
 
-本作は『[ポパイの英語遊び](https://ja.wikipedia.org/wiki/ポパイの英語遊び "wikilink")』に続くファミコンの教育ソフト第2弾であり、発売時点では以下の後続タイトルも開発されていたが発売中止となったため本作が事実上のシリーズ最終作となっている。
+本作は『[ポパイの英語遊び](../Page/ポパイの英語遊び.md "wikilink")』に続くファミコンの教育ソフト第2弾であり、発売時点では以下の後続タイトルも開発されていたが発売中止となったため本作が事実上のシリーズ最終作となっている。
 
 ### ドンキーコングの音楽遊び
 
@@ -115,7 +115,7 @@ CALCURATE AおよびBは2人用で、『ドンキーコングJR.』の1面を元
 
 当時のチラシに掲載されていた説明によれば『音楽遊び』は「MUSIC QUIZ」と「DONKEY BAND」の2つのモードがあり、このうち「MUSIC QUIZ」は[マリオを操作して制限時間内に画面上の](https://ja.wikipedia.org/wiki/マリオ_\(ゲームキャラクター\) "wikilink")[楽譜](../Page/楽譜.md "wikilink")に対応した音の鍵盤を弾き、曲を完成させるのが目的とされる。また「DONKEY BAND」は本体IIコントローラのマイクで[カラオケ](../Page/カラオケ.md "wikilink")が楽しめることをセールスポイントとしていた。
 
-チラシには「[犬のおまわりさん](https://ja.wikipedia.org/wiki/犬のおまわりさん "wikilink")」「[線路は続くよどこまでも](../Page/線路は続くよどこまでも.md "wikilink")」の2曲が載っている。任天堂は発売中止の理由について「ノ―コメント」としているが、元[ハドソン](../Page/ハドソン.md "wikilink")社員の[桜田名人](https://ja.wikipedia.org/wiki/桜田名人 "wikilink")は在職中に開発用サンプルとして社内にあった『音楽遊び』をプレイしたことがあり、[Twitter](../Page/Twitter.md "wikilink")で「ゲーム性に乏しかった」と語っているほか、当時を知る関係者から聞いた話として「ゲーム中に収録されていた[松田聖子](../Page/松田聖子.md "wikilink")の曲の版権問題が発売中止の直接の原因」だとしている\[4\]。また、初期タイトルと言うこともありROM容量の不足で収録曲が僅少にならざるを得ず「算数遊びや英語遊びに比較すると容量の食う音楽遊びは無理があったのだろう」としている\[5\]。これに対して元『[ファミリーコンピュータMagazine](https://ja.wikipedia.org/wiki/ファミリーコンピュータMagazine "wikilink")』編集長の[山本直人](https://ja.wikipedia.org/wiki/山本直人 "wikilink")は、本体IIコントローラマイクの認識の問題からゲームに搭載される予定だったカラオケモードが製品化の域に達しなかったのが発売中止の主要因であるとコメントしている\[6\]。
+チラシには「[犬のおまわりさん](https://ja.wikipedia.org/wiki/犬のおまわりさん "wikilink")」「[線路は続くよどこまでも](../Page/線路は続くよどこまでも.md "wikilink")」の2曲が載っている。任天堂は発売中止の理由について「ノ―コメント」としているが、元[ハドソン](../Page/ハドソン.md "wikilink")社員の[桜田名人](https://ja.wikipedia.org/wiki/桜田名人 "wikilink")は在職中に開発用サンプルとして社内にあった『音楽遊び』をプレイしたことがあり、[Twitter](../Page/Twitter.md "wikilink")で「ゲーム性に乏しかった」と語っているほか、当時を知る関係者から聞いた話として「ゲーム中に収録されていた[松田聖子](../Page/松田聖子.md "wikilink")の曲の版権問題が発売中止の直接の原因」だとしている\[4\]。また、初期タイトルと言うこともありROM容量の不足で収録曲が僅少にならざるを得ず「算数遊びや英語遊びに比較すると容量の食う音楽遊びは無理があったのだろう」としている\[5\]。これに対して元『[ファミリーコンピュータMagazine](../Page/ファミリーコンピュータMagazine.md "wikilink")』編集長の[山本直人](https://ja.wikipedia.org/wiki/山本直人 "wikilink")は、本体IIコントローラマイクの認識の問題からゲームに搭載される予定だったカラオケモードが製品化の域に達しなかったのが発売中止の主要因であるとコメントしている\[6\]。
 
 ## 脚注
 

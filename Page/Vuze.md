@@ -1,7 +1,7 @@
 > この記事は[Vuze](https://ja.wikipedia.org/wiki/Vuze)から翻訳されています。
 
 
-**Vuze**（ヴューズ）は、[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Mac OS X](https://ja.wikipedia.org/wiki/macOS "wikilink")、[Linux](../Page/Linux.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")で動作する[オープンソース](../Page/オープンソース.md "wikilink")の[BitTorrent](https://ja.wikipedia.org/wiki/BitTorrent "wikilink")クライアントである。[GNU General Public License下で配布されている](../Page/GNU_General_Public_License.md "wikilink")。[Java仮想マシン](../Page/Java仮想マシン.md "wikilink")がインストールされたコンピューターで利用できる。
+**Vuze**（ヴューズ）は、[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Mac OS X](https://ja.wikipedia.org/wiki/macOS "wikilink")、[Linux](../Page/Linux.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")で動作する[オープンソース](../Page/オープンソース.md "wikilink")の[BitTorrent](../Page/BitTorrent.md "wikilink")クライアントである。[GNU General Public License下で配布されている](../Page/GNU_General_Public_License.md "wikilink")。[Java仮想マシン](../Page/Java仮想マシン.md "wikilink")がインストールされたコンピューターで利用できる。
 
 [2003年](../Page/2003年.md "wikilink")よりVuze, Inc（旧Zureus, Inc）がコアデベロッパーとして開発。最初のリリースは2003年6月、**Azureus**（アズレウス）という名称で[SourceForge.net](../Page/SourceForge.net.md "wikilink")にて行われた。当時は[SWTを用いた実験的なソフトウェアとして開発されていたが](../Page/Standard_Widget_Toolkit.md "wikilink")、今ではSourceForge.netの代表的なプロジェクトの一つ\[1\]となっている。
 
@@ -9,7 +9,7 @@
 
 ## 機能
 
-Vuzeは、標準BitTorrentクライアントより大幅に機能が強化された設計をされており、各種プラグインによってさらに機能を持たせることもできる。[I2P](https://ja.wikipedia.org/wiki/I2P "wikilink")や[Tor](https://ja.wikipedia.org/wiki/Tor "wikilink")などの匿名通信プロトコルに対応している。以下に特徴的なものを挙げる。
+Vuzeは、標準BitTorrentクライアントより大幅に機能が強化された設計をされており、各種プラグインによってさらに機能を持たせることもできる。[I2P](../Page/I2P.md "wikilink")や[Tor](../Page/Tor.md "wikilink")などの匿名通信プロトコルに対応している。以下に特徴的なものを挙げる。
 
   - 健康状態
     ダウンロードのレジューム
@@ -25,7 +25,7 @@ Vuzeは、標準BitTorrentクライアントより大幅に機能が強化され
   - Rating（Pluginにて提供）
     Torrentファイルごとのレーティング（5段階評価）や、コメントを共有する機能。
   - UPnP（Pluginにて提供）
-    [ユニバーサル・プラグ・アンド・プレイ (UPnP)](https://ja.wikipedia.org/wiki/Universal_Plug_and_Play "wikilink") 対応ルータを使っているときに、自動的にポートを割り当てる機能
+    [ユニバーサル・プラグ・アンド・プレイ (UPnP)](../Page/Universal_Plug_and_Play.md "wikilink") 対応ルータを使っているときに、自動的にポートを割り当てる機能
   - UPnP Media Server（Pluginにて提供）
     分散データベース（Pluginにて提供）
     LAN Peer Finder（Pluginにて提供）

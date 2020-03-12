@@ -1,11 +1,11 @@
 > この記事は[UEFA](https://ja.wikipedia.org/wiki/UEFA)から翻訳されています。
 
 
-**UEFAランキング**（ウエファーランキング）は、[UEFAに所属する](../Page/欧州サッカー連盟.md "wikilink")[ナショナルチーム](https://ja.wikipedia.org/wiki/ナショナルチーム "wikilink")と[クラブチームのそれぞれについて](https://ja.wikipedia.org/wiki/スポーツクラブ "wikilink")、公式戦での成績をもとに算出されるランキングである。日本では、**UEFA係数**（）や**UEFAランキング係数**、**UEFA係数ランキング**と呼ばれることもある。
+**UEFAランキング**（ウエファーランキング）は、[UEFAに所属する](../Page/欧州サッカー連盟.md "wikilink")[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")と[クラブチームのそれぞれについて](https://ja.wikipedia.org/wiki/スポーツクラブ "wikilink")、公式戦での成績をもとに算出されるランキングである。日本では、**UEFA係数**（）や**UEFAランキング係数**、**UEFA係数ランキング**と呼ばれることもある。
 
 UEFAランキングには以下の3種類がある。
 
-  - ナショナルチームランキング：ナショナルチームのランキングであり、[UEFA欧州選手権](https://ja.wikipedia.org/wiki/UEFA欧州選手権 "wikilink")のシード決定などに使用される。
+  - ナショナルチームランキング：ナショナルチームのランキングであり、[UEFA欧州選手権](../Page/UEFA欧州選手権.md "wikilink")のシード決定などに使用される。
   - カントリーランキング：各国協会のリーグのランキングであり、[UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")及び[UEFAヨーロッパリーグ](../Page/UEFAヨーロッパリーグ.md "wikilink")の各国の出場枠を決定することに使用される。
   - クラブランキング：クラブごとのランキングであり、CLとELの組み分け抽選におけるシード決めに用いられる。
 
@@ -16,7 +16,7 @@ UEFAランキングには以下の3種類がある。
   - EURO予選及びEURO本大会での組み分け抽選
   - [UEFAネーションズリーグ](https://ja.wikipedia.org/wiki/UEFAネーションズリーグ "wikilink")の組み分け抽選
 
-算出時点での直近3回のEUROと[FIFAワールドカップ](https://ja.wikipedia.org/wiki/FIFAワールドカップ "wikilink")の予選と、直近2回のEUROとワールドカップ本大会における試合の結果をポイント化して算出する。なお、親善試合の結果については一切考慮しない。
+算出時点での直近3回のEUROと[FIFAワールドカップ](../Page/FIFAワールドカップ.md "wikilink")の予選と、直近2回のEUROとワールドカップ本大会における試合の結果をポイント化して算出する。なお、親善試合の結果については一切考慮しない。
 
 算出方法は以下の通り。
 
@@ -934,7 +934,7 @@ UEFAランキングには以下の3種類がある。
 <td><p>36</p></td>
 <td><p>33</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:RedDownArrow.svg" title="fig:RedDownArrow.svg">RedDownArrow.svg</a>-3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フィンランド" title="wikilink">フィンランド</a></p></td>
+<td><p><a href="../Page/フィンランド.md" title="wikilink">フィンランド</a></p></td>
 <td><p>1.375</p></td>
 <td><p>1.800</p></td>
 <td><p>1.500</p></td>
@@ -982,7 +982,7 @@ UEFAランキングには以下の3種類がある。
 <td><p>39</p></td>
 <td><p>41</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Green-Up-Arrow.svg" title="fig:Green-Up-Arrow.svg">Green-Up-Arrow.svg</a>+2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/モンテネグロ" title="wikilink">モンテネグロ</a></p></td>
+<td><p><a href="../Page/モンテネグロ.md" title="wikilink">モンテネグロ</a></p></td>
 <td><p>1.125</p></td>
 <td><p>1.750</p></td>
 <td><p>0.500</p></td>
@@ -1303,13 +1303,13 @@ UEFAランキングには以下の3種類がある。
 <td><p>10</p></td>
 <td><p>7</p></td>
 <td><p>–3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セビージャFC" title="wikilink">セビージャ</a></p></td>
+<td><p><a href="../Page/セビージャFC.md" title="wikilink">セビージャ</a></p></td>
 </tr>
 <tr class="even">
 <td><p>11</p></td>
 <td><p>17</p></td>
 <td><p>+6</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トッテナム・ホットスパーFC" title="wikilink">トッテナム・ホットスパー</a></p></td>
+<td><p><a href="../Page/トッテナム・ホットスパーFC.md" title="wikilink">トッテナム・ホットスパー</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>18</p></td>
@@ -1326,7 +1326,7 @@ UEFAランキングには以下の3種類がある。
 <tr class="odd">
 <td><p>13</p></td>
 <td><p>—</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ボルシア・ドルトムント" title="wikilink">ボルシア・ドルトムント</a></p></td>
+<td><p><a href="../Page/ボルシア・ドルトムント.md" title="wikilink">ボルシア・ドルトムント</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ドイツサッカー連盟" title="wikilink">ドイツ</a></p></td>
 </tr>
 <tr class="even">
@@ -1339,7 +1339,7 @@ UEFAランキングには以下の3種類がある。
 <td><p>16</p></td>
 <td><p>10</p></td>
 <td><p>–6</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCポルト" title="wikilink">ポルト</a></p></td>
+<td><p><a href="../Page/FCポルト.md" title="wikilink">ポルト</a></p></td>
 </tr>
 <tr class="even">
 <td><p>17</p></td>
@@ -1357,7 +1357,7 @@ UEFAランキングには以下の3種類がある。
 <td><p>27</p></td>
 <td><p>+9</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/オリンピック・リヨン" title="wikilink">オリンピック・リヨン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フランスサッカー連盟" title="wikilink">フランス</a></p></td>
+<td><p><a href="../Page/フランスサッカー連盟.md" title="wikilink">フランス</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>20</p></td>
@@ -1369,7 +1369,7 @@ UEFAランキングには以下の3種類がある。
 <td><p>21</p></td>
 <td><p>21</p></td>
 <td><p>—</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SLベンフィカ" title="wikilink">ベンフィカ</a></p></td>
+<td><p><a href="../Page/SLベンフィカ.md" title="wikilink">ベンフィカ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>22</p></td>
@@ -1381,18 +1381,18 @@ UEFAランキングには以下の3種類がある。
 <td><p>23</p></td>
 <td><p>21</p></td>
 <td><p>–2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ビジャレアルCF" title="wikilink">ビジャレアル</a></p></td>
+<td><p><a href="../Page/ビジャレアルCF.md" title="wikilink">ビジャレアル</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>24</p></td>
 <td><p>23</p></td>
 <td><p>–1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCディナモ・キエフ" title="wikilink">FCディナモ・キエフ</a></p></td>
+<td><p><a href="../Page/FCディナモ・キエフ.md" title="wikilink">FCディナモ・キエフ</a></p></td>
 </tr>
 <tr class="even">
 <td><p>25</p></td>
 <td><p>+1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ベシクタシュJK" title="wikilink">ベシクタシュ</a></p></td>
+<td><p><a href="../Page/ベシクタシュJK.md" title="wikilink">ベシクタシュ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/トルコサッカー連盟" title="wikilink">トルコ</a></p></td>
 </tr>
 </tbody>

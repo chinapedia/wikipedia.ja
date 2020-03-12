@@ -11,9 +11,9 @@
 V.A「Youth Against Humbugs」の参加後、本格的なライブ活動を開始。
 ダイスケ（Guitar）加入で4人編成となる。
 ライブ活動と様々なオムニバスアルバムに参加した後、2000年2月「Stagnant Mind」を[メガフォースコーポレーション](http://www.megaforcejp.com/)よりリリース。
-Stagnant Mind収録曲(M3)「It Just Makes Me Want To Cry」が[ぷらちなロンドンブーツ](https://ja.wikipedia.org/wiki/ぷらちなロンドンブーツ "wikilink")のエンディングテーマにタイアップされた。
+Stagnant Mind収録曲(M3)「It Just Makes Me Want To Cry」が[ぷらちなロンドンブーツ](../Page/ぷらちなロンドンブーツ.md "wikilink")のエンディングテーマにタイアップされた。
 
-[2000年](../Page/2000年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")「walk up」で[東芝EMIよりメジャーデビュー](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")。
+[2000年](../Page/2000年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")「walk up」で[東芝EMIよりメジャーデビュー](../Page/EMIミュージック・ジャパン.md "wikilink")。
 続いて同年11月に「grunge」をリリース。ダイスケ（Guitar）脱退、後任としてカティ（Guitar）が加入。
 
 カティ加入後、V.A「WALK IN THE GROUND」（2001年）に参加。

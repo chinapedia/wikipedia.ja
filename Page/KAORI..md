@@ -1,21 +1,21 @@
 > この記事は[KAORI.](https://ja.wikipedia.org/wiki/KAORI.)から翻訳されています。
 
 
-**KAORI.**（かおり、[1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink")[2月28日](../Page/2月28日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[声優](../Page/声優.md "wikilink")、[歌手](../Page/歌手.md "wikilink")。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")出身。
+**KAORI.**（かおり、[1976年](../Page/1976年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[声優](../Page/声優.md "wikilink")、[歌手](../Page/歌手.md "wikilink")。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")出身。
 
 ## 来歴・人物
 
-以前は「[新音楽協会](https://ja.wikipedia.org/wiki/新音楽協会 "wikilink")」→「[アクセント](https://ja.wikipedia.org/wiki/アクセント_\(芸能プロダクション\) "wikilink")」に所属していた。
+以前は「[新音楽協会](../Page/新音楽協会.md "wikilink")」→「[アクセント](../Page/アクセント_\(芸能プロダクション\).md "wikilink")」に所属していた。
 
-自身が[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")を務めていた[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")「**Spunky Strider**」のメンバーでもある。現在は[発声時頸部ジストニア](https://ja.wikipedia.org/wiki/局所性ジストニア "wikilink")（痙攣性発声障害）\[1\]により、ソロおよびバンドでの歌手活動を休止している。なお『[ポケットモンスター ダイヤモンド&パール](https://ja.wikipedia.org/wiki/ポケットモンスター_ダイヤモンド&パール "wikilink")』にハルカ役でゲスト出演した時点で発声障害の兆候があったとのことである。
+自身が[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")を務めていた[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")「**Spunky Strider**」のメンバーでもある。現在は[発声時頸部ジストニア](https://ja.wikipedia.org/wiki/局所性ジストニア "wikilink")（痙攣性発声障害）\[1\]により、ソロおよびバンドでの歌手活動を休止している。なお『[ポケットモンスター ダイヤモンド&パール](../Page/ポケットモンスター_ダイヤモンド&パール.md "wikilink")』にハルカ役でゲスト出演した時点で発声障害の兆候があったとのことである。
 
 ## 芸名の変遷
 
 [1999年](../Page/1999年.md "wikilink")頃までは「**川菜明子**」後に「**川菜翠**」の[芸名](../Page/芸名.md "wikilink")で[芸能事務所](../Page/芸能事務所.md "wikilink")に所属し活動していたが、所属していた事務所の吸収合併により「川菜翠」の芸名が使えなくなり、しばらくの間「**か〜な**」という芸名で活動していた。長年使用していたKAORIという芸名は、川菜翠（「KA」WANA MID「ORI」）の初めと終わりであるというのと、本名の読みが「かおり」であるという2つの説があるが、詳細は不明である。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")からは歌手業を「**KAORI.**」名義でおこなった。『[ポケットモンスター ダイヤモンド&パール](https://ja.wikipedia.org/wiki/ポケットモンスター_ダイヤモンド&パール "wikilink")』の出演時に役者業を「**鈴木カオリ**」名義に変更した。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")からは歌手業を「**KAORI.**」名義でおこなった。『[ポケットモンスター ダイヤモンド&パール](../Page/ポケットモンスター_ダイヤモンド&パール.md "wikilink")』の出演時に役者業を「**鈴木カオリ**」名義に変更した。
 
-[Fiction Junctionや](https://ja.wikipedia.org/wiki/Fiction_Junction "wikilink")[Sound Horizonに出演している](https://ja.wikipedia.org/wiki/Sound_Horizon "wikilink")「[KAORI（織田かおり）](https://ja.wikipedia.org/wiki/織田かおり "wikilink")」とは別人。[川村かおりのいくつかの曲の作詞家](https://ja.wikipedia.org/wiki/川村カオリ "wikilink")「KAORI.」も別人（川村かおり本人）である。
+[Fiction Junctionや](https://ja.wikipedia.org/wiki/Fiction_Junction "wikilink")[Sound Horizonに出演している](https://ja.wikipedia.org/wiki/Sound_Horizon "wikilink")「[KAORI（織田かおり）](../Page/織田かおり.md "wikilink")」とは別人。[川村かおりのいくつかの曲の作詞家](../Page/川村カオリ.md "wikilink")「KAORI.」も別人（川村かおり本人）である。
 
 ## 出演
 
@@ -23,27 +23,27 @@
 
 ### テレビアニメ
 
-  - [D4プリンセス](https://ja.wikipedia.org/wiki/D4プリンセス "wikilink")（1999年、銀乃つばさ）
+  - [D4プリンセス](../Page/D4プリンセス.md "wikilink")（1999年、銀乃つばさ）
   - [BRIGADOON まりんとメラン](../Page/BRIGADOON_まりんとメラン.md "wikilink")（2000年、**浅葱まりん**）
-  - [コスモウォーリアー零](https://ja.wikipedia.org/wiki/コスモウォーリアー零 "wikilink")（2001年、レ・シルビアーナ）
-  - [神雕侠侶 コンドルヒーロー](https://ja.wikipedia.org/wiki/神雕侠侶_コンドルヒーロー "wikilink")（2001年、陸無双）
-  - [FF：U 〜ファイナルファンタジー:アンリミテッド〜](https://ja.wikipedia.org/wiki/FF：U_〜ファイナルファンタジー:アンリミテッド〜 "wikilink")（2001年、**ルー・ルプス**）
-  - [ポケットモンスター アドバンスジェネレーション](https://ja.wikipedia.org/wiki/ポケットモンスター_アドバンスジェネレーション "wikilink")（2002年、**[ハルカ](https://ja.wikipedia.org/wiki/ハルカ_\(アニメポケットモンスター\) "wikilink")**、[ラッキー](https://ja.wikipedia.org/wiki/ラッキー_\(ポケモン\) "wikilink") 他）
-  - [カレイドスター](https://ja.wikipedia.org/wiki/カレイドスター "wikilink")（2003年、ミロ）
+  - [コスモウォーリアー零](../Page/コスモウォーリアー零.md "wikilink")（2001年、レ・シルビアーナ）
+  - [神雕侠侶 コンドルヒーロー](../Page/神雕侠侶_コンドルヒーロー.md "wikilink")（2001年、陸無双）
+  - [FF：U 〜ファイナルファンタジー:アンリミテッド〜](../Page/FF：U_〜ファイナルファンタジー:アンリミテッド〜.md "wikilink")（2001年、**ルー・ルプス**）
+  - [ポケットモンスター アドバンスジェネレーション](../Page/ポケットモンスター_アドバンスジェネレーション.md "wikilink")（2002年、**[ハルカ](../Page/ハルカ_\(アニメポケットモンスター\).md "wikilink")**、[ラッキー](https://ja.wikipedia.org/wiki/ラッキー_\(ポケモン\) "wikilink") 他）
+  - [カレイドスター](../Page/カレイドスター.md "wikilink")（2003年、ミロ）
   - [GetBackers-奪還屋-](https://ja.wikipedia.org/wiki/GetBackers-奪還屋- "wikilink")（2003年、今井由美子）
-  - [ポケットモンスター サイドストーリー](https://ja.wikipedia.org/wiki/週刊ポケモン放送局 "wikilink")（2003年、[ルリリ](https://ja.wikipedia.org/wiki/ルリリ "wikilink")）
+  - [ポケットモンスター サイドストーリー](../Page/週刊ポケモン放送局.md "wikilink")（2003年、[ルリリ](https://ja.wikipedia.org/wiki/ルリリ "wikilink")）
   - [かいけつゾロリ](../Page/かいけつゾロリ.md "wikilink")（2004年、ポメラ）
-  - [Paradise Kiss](https://ja.wikipedia.org/wiki/Paradise_Kiss "wikilink")（2005年、お店の女の子）
-  - [NANA](https://ja.wikipedia.org/wiki/NANA "wikilink")（2006年、**小松奈々**）
-  - [BLACK CAT](https://ja.wikipedia.org/wiki/BLACK_CAT "wikilink")（2006年、サキ）
-  - [ポケットモンスター ダイヤモンド&パール](https://ja.wikipedia.org/wiki/ポケットモンスター_ダイヤモンド&パール "wikilink")（2008年、ハルカ）
+  - [Paradise Kiss](../Page/Paradise_Kiss.md "wikilink")（2005年、お店の女の子）
+  - [NANA](../Page/NANA.md "wikilink")（2006年、**小松奈々**）
+  - [BLACK CAT](../Page/BLACK_CAT.md "wikilink")（2006年、サキ）
+  - [ポケットモンスター ダイヤモンド&パール](../Page/ポケットモンスター_ダイヤモンド&パール.md "wikilink")（2008年、ハルカ）
 
 ### 劇場アニメ
 
-  - [劇場版ポケットモンスター アドバンスジェネレーション 七夜の願い星 ジラーチ](https://ja.wikipedia.org/wiki/劇場版ポケットモンスター_アドバンスジェネレーション_七夜の願い星_ジラーチ "wikilink")（2003年、**[ハルカ](https://ja.wikipedia.org/wiki/ハルカ_\(アニメポケットモンスター\) "wikilink")**）
+  - [劇場版ポケットモンスター アドバンスジェネレーション 七夜の願い星 ジラーチ](../Page/劇場版ポケットモンスター_アドバンスジェネレーション_七夜の願い星_ジラーチ.md "wikilink")（2003年、**[ハルカ](../Page/ハルカ_\(アニメポケットモンスター\).md "wikilink")**）
   - [劇場版ポケットモンスター アドバンスジェネレーション 裂空の訪問者 デオキシス](https://ja.wikipedia.org/wiki/劇場版ポケットモンスター_アドバンスジェネレーション_裂空の訪問者_デオキシス "wikilink")（2004年、**ハルカ**）
-  - [劇場版ポケットモンスター アドバンスジェネレーション ミュウと波導の勇者 ルカリオ](https://ja.wikipedia.org/wiki/劇場版ポケットモンスター_アドバンスジェネレーション_ミュウと波導の勇者_ルカリオ "wikilink")（2005年、**ハルカ**）
-  - [劇場版ポケットモンスター アドバンスジェネレーション ポケモンレンジャーと蒼海の王子 マナフィ](https://ja.wikipedia.org/wiki/劇場版ポケットモンスター_アドバンスジェネレーション_ポケモンレンジャーと蒼海の王子_マナフィ "wikilink")（2006年、**ハルカ**）
+  - [劇場版ポケットモンスター アドバンスジェネレーション ミュウと波導の勇者 ルカリオ](../Page/劇場版ポケットモンスター_アドバンスジェネレーション_ミュウと波導の勇者_ルカリオ.md "wikilink")（2005年、**ハルカ**）
+  - [劇場版ポケットモンスター アドバンスジェネレーション ポケモンレンジャーと蒼海の王子 マナフィ](../Page/劇場版ポケットモンスター_アドバンスジェネレーション_ポケモンレンジャーと蒼海の王子_マナフィ.md "wikilink")（2006年、**ハルカ**）
 
 ### Webアニメ
 
@@ -51,10 +51,10 @@
 
 ### ゲーム
 
-  - [速攻生徒会](https://ja.wikipedia.org/wiki/速攻生徒会 "wikilink")（1998年、ガンダー丸）
-  - [どきどきポヤッチオ](https://ja.wikipedia.org/wiki/どきどきポヤッチオ "wikilink")（1998年、**ルフィー**）
-  - [ユア・メモリーズオフ〜Girl's Style〜](https://ja.wikipedia.org/wiki/ユア・メモリーズオフ〜Girl's_Style〜 "wikilink")（2008年、**月岡海**）
-  - ユア・メモリーズオフ〜Girl's Style〜（2009年、**月岡海**）※[PSP版](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")
+  - [速攻生徒会](../Page/速攻生徒会.md "wikilink")（1998年、ガンダー丸）
+  - [どきどきポヤッチオ](../Page/どきどきポヤッチオ.md "wikilink")（1998年、**ルフィー**）
+  - [ユア・メモリーズオフ〜Girl's Style〜](../Page/ユア・メモリーズオフ〜Girl's_Style〜.md "wikilink")（2008年、**月岡海**）
+  - ユア・メモリーズオフ〜Girl's Style〜（2009年、**月岡海**）※[PSP版](../Page/PlayStation_Portable.md "wikilink")
 
 ### ドラマCD
 
@@ -94,22 +94,22 @@
 
 ### タイアップ曲
 
-| 楽曲              | タイアップ                                                                                                                             | 時期    |
-| --------------- | --------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| BLUE BLUE WAVE  | ゲーム『[ARIA The NATURAL 〜遠い記憶のミラージュ〜](https://ja.wikipedia.org/wiki/ARIA_The_NATURAL_〜遠い記憶のミラージュ〜 "wikilink")』オープニングテーマ             | 2006年 |
-| その小さな小さな微笑で     | ゲーム『ARIA The NATURAL 〜遠い記憶のミラージュ〜』エンディングテーマ                                                                                       |       |
-| この青空に約束を        | テレビアニメ『[この青空に約束を―〜ようこそつぐみ寮へ〜](https://ja.wikipedia.org/wiki/この青空に約束を―〜ようこそつぐみ寮へ〜 "wikilink")』オープニングテーマ                            | 2007年 |
-| Tears Infection | テレビアニメ『[Myself ; Yourself](../Page/Myself_;_Yourself.md "wikilink")』オープニングテーマ                                                     |       |
-| 篝火              | テレビアニメ『[AYAKASHI](https://ja.wikipedia.org/wiki/AYAKASHI "wikilink")』エンディングテーマ                                                    |       |
-| third bridge    | ゲーム『[12RIVEN -the Ψcliminal of integral-](https://ja.wikipedia.org/wiki/12RIVEN_-the_Ψcliminal_of_integral- "wikilink")』オープニングテーマ | 2008年 |
-| プロセス            | ゲーム『12RIVEN -the Ψcliminal of integral-』エンディングテーマ                                                                                 |       |
+| 楽曲              | タイアップ                                                                                                                 | 時期    |
+| --------------- | --------------------------------------------------------------------------------------------------------------------- | ----- |
+| BLUE BLUE WAVE  | ゲーム『[ARIA The NATURAL 〜遠い記憶のミラージュ〜](https://ja.wikipedia.org/wiki/ARIA_The_NATURAL_〜遠い記憶のミラージュ〜 "wikilink")』オープニングテーマ | 2006年 |
+| その小さな小さな微笑で     | ゲーム『ARIA The NATURAL 〜遠い記憶のミラージュ〜』エンディングテーマ                                                                           |       |
+| この青空に約束を        | テレビアニメ『[この青空に約束を―〜ようこそつぐみ寮へ〜](https://ja.wikipedia.org/wiki/この青空に約束を―〜ようこそつぐみ寮へ〜 "wikilink")』オープニングテーマ                | 2007年 |
+| Tears Infection | テレビアニメ『[Myself ; Yourself](../Page/Myself_;_Yourself.md "wikilink")』オープニングテーマ                                         |       |
+| 篝火              | テレビアニメ『[AYAKASHI](../Page/AYAKASHI.md "wikilink")』エンディングテーマ                                                           |       |
+| third bridge    | ゲーム『[12RIVEN -the Ψcliminal of integral-](../Page/12RIVEN_-the_Ψcliminal_of_integral-.md "wikilink")』オープニングテーマ        | 2008年 |
+| プロセス            | ゲーム『12RIVEN -the Ψcliminal of integral-』エンディングテーマ                                                                     |       |
 
 ### 歌手参加作品
 
-| 枚   | 発売日        | タイトル               | 規格品番     | 備考                                                                                                                                                    |
-| --- | ---------- | ------------------ | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1st | 1997年4月9日  | **ミラクル・ボディに御用心\!** | KIDA-147 | OVA『[VS騎士ラムネ&40FRESH](https://ja.wikipedia.org/wiki/VS騎士ラムネ&40炎 "wikilink")』オープニングテーマ、**川菜翠**＆[貝田由里子](https://ja.wikipedia.org/wiki/貝田由里子 "wikilink") |
-| 2nd | 1999年4月21日 | **ドリルでルンルンクルルンルン** | FSDA-9   | テレビアニメ『[D4プリンセス](https://ja.wikipedia.org/wiki/D4プリンセス "wikilink")』オープニング、**川菜翠**＆[麻績村まゆ子](https://ja.wikipedia.org/wiki/麻績村まゆ子 "wikilink")           |
+| 枚   | 発売日        | タイトル               | 規格品番     | 備考                                                                                                                                 |
+| --- | ---------- | ------------------ | -------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| 1st | 1997年4月9日  | **ミラクル・ボディに御用心\!** | KIDA-147 | OVA『[VS騎士ラムネ&40FRESH](../Page/VS騎士ラムネ&40炎.md "wikilink")』オープニングテーマ、**川菜翠**＆[貝田由里子](https://ja.wikipedia.org/wiki/貝田由里子 "wikilink") |
+| 2nd | 1999年4月21日 | **ドリルでルンルンクルルンルン** | FSDA-9   | テレビアニメ『[D4プリンセス](../Page/D4プリンセス.md "wikilink")』オープニング、**川菜翠**＆[麻績村まゆ子](https://ja.wikipedia.org/wiki/麻績村まゆ子 "wikilink")           |
 
 デュエットシングル
 
@@ -185,13 +185,13 @@
 <td><p>IMAGE ALBUM YsV</p></td>
 <td><p><strong>川菜翠</strong></p></td>
 <td><p>「Brand-New Memories」</p></td>
-<td><p>ドラマCD『<a href="https://ja.wikipedia.org/wiki/イースV" title="wikilink">イースV</a>』イメージソング</p></td>
+<td><p>ドラマCD『<a href="../Page/イースV.md" title="wikilink">イースV</a>』イメージソング</p></td>
 </tr>
 <tr class="even">
 <td><p>5月22日</p></td>
 <td><p>ファルコム ボーカルコレクションIV</p></td>
 <td><p>「いつの日かこの愛を」</p></td>
-<td><p>ドラマCD『<a href="https://ja.wikipedia.org/wiki/風の伝説ザナドゥ" title="wikilink">風の伝説ザナドゥ ヒロイン達の誕生日</a>II』イメージソング</p></td>
+<td><p>ドラマCD『<a href="../Page/風の伝説ザナドゥ.md" title="wikilink">風の伝説ザナドゥ ヒロイン達の誕生日</a>II』イメージソング</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -259,7 +259,7 @@
 「天使の賛歌」<br />
 「アンジェラスの瞳」<br />
 「もし生まれ変われるとしても この国に生まれたい」</p></td>
-<td><p>ゲーム『<a href="https://ja.wikipedia.org/wiki/イースシリーズ" title="wikilink">イースシリーズ</a>』</p></td>
+<td><p>ゲーム『<a href="../Page/イースシリーズ.md" title="wikilink">イースシリーズ</a>』</p></td>
 </tr>
 <tr class="even">
 <td><p>1999年</p></td>
@@ -273,7 +273,7 @@
 <td><p>どきどきポヤッチオ 音楽絵本 プエルコルダンPの物語</p></td>
 <td><p><strong>川菜翠</strong></p></td>
 <td><p>「生きてるって素晴らしい」</p></td>
-<td><p>ゲーム『<a href="https://ja.wikipedia.org/wiki/どきどきポヤッチオ" title="wikilink">どきどきポヤッチオ</a>』オープニングテーマ</p></td>
+<td><p>ゲーム『<a href="../Page/どきどきポヤッチオ.md" title="wikilink">どきどきポヤッチオ</a>』オープニングテーマ</p></td>
 </tr>
 <tr class="even">
 <td><p>「あの頃の君を忘れないで」</p></td>
@@ -334,9 +334,9 @@
 <tr class="even">
 <td><p>2002年2月20日</p></td>
 <td><p>メモオフ・ファーストコンサートALBUM〜表も裏も完全ノーカット版！〜</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/間島淳司" title="wikilink">間島淳司</a>、<a href="../Page/山本麻里安.md" title="wikilink">山本麻里安</a>、<a href="https://ja.wikipedia.org/wiki/那須めぐみ" title="wikilink">那須めぐみ</a>、<a href="https://ja.wikipedia.org/wiki/田村ゆかり" title="wikilink">田村ゆかり</a>、<a href="../Page/浅野るり.md" title="wikilink">浅野るり</a>、<a href="https://ja.wikipedia.org/wiki/河合久美" title="wikilink">河合久美</a>、<a href="https://ja.wikipedia.org/wiki/利田優子" title="wikilink">利田優子</a>、<a href="../Page/水樹奈々.md" title="wikilink">水樹奈々</a>、<a href="https://ja.wikipedia.org/wiki/菊池志穂" title="wikilink">菊池志穂</a>、<a href="https://ja.wikipedia.org/wiki/池澤春菜" title="wikilink">池澤春菜</a>、<a href="https://ja.wikipedia.org/wiki/仲西環" title="wikilink">仲西環</a>、<a href="https://ja.wikipedia.org/wiki/千葉紗子" title="wikilink">千葉紗子</a>、<a href="https://ja.wikipedia.org/wiki/南里侑香" title="wikilink">南里侑香</a>、<a href="https://ja.wikipedia.org/wiki/小尾元政" title="wikilink">小尾元政</a>、<a href="https://ja.wikipedia.org/wiki/REMI" title="wikilink">REMI</a>、<strong>KAORI.</strong></p></td>
+<td><p><a href="../Page/間島淳司.md" title="wikilink">間島淳司</a>、<a href="../Page/山本麻里安.md" title="wikilink">山本麻里安</a>、<a href="../Page/那須めぐみ.md" title="wikilink">那須めぐみ</a>、<a href="https://ja.wikipedia.org/wiki/田村ゆかり" title="wikilink">田村ゆかり</a>、<a href="../Page/浅野るり.md" title="wikilink">浅野るり</a>、<a href="https://ja.wikipedia.org/wiki/河合久美" title="wikilink">河合久美</a>、<a href="../Page/利田優子.md" title="wikilink">利田優子</a>、<a href="../Page/水樹奈々.md" title="wikilink">水樹奈々</a>、<a href="../Page/菊池志穂.md" title="wikilink">菊池志穂</a>、<a href="https://ja.wikipedia.org/wiki/池澤春菜" title="wikilink">池澤春菜</a>、<a href="../Page/仲西環.md" title="wikilink">仲西環</a>、<a href="../Page/千葉紗子.md" title="wikilink">千葉紗子</a>、<a href="../Page/南里侑香.md" title="wikilink">南里侑香</a>、<a href="../Page/小尾元政.md" title="wikilink">小尾元政</a>、<a href="../Page/REMI.md" title="wikilink">REMI</a>、<strong>KAORI.</strong></p></td>
 <td><p>「MEMORIE I・N・G（Live）」</p></td>
-<td><p>ゲーム『<a href="https://ja.wikipedia.org/wiki/Memories_Offシリーズ" title="wikilink">Memories Offシリーズ</a>』関連曲</p></td>
+<td><p>ゲーム『<a href="../Page/Memories_Offシリーズ.md" title="wikilink">Memories Offシリーズ</a>』関連曲</p></td>
 </tr>
 <tr class="odd">
 <td><p>6月19日</p></td>
@@ -382,7 +382,7 @@
 </tr>
 <tr class="odd">
 <td><p>「Close to」</p></td>
-<td><p>ゲーム『<a href="https://ja.wikipedia.org/wiki/Close_to_〜祈りの丘〜" title="wikilink">Close to 〜祈りの丘〜</a>』オープニングテーマ</p></td>
+<td><p>ゲーム『<a href="../Page/Close_to_〜祈りの丘〜.md" title="wikilink">Close to 〜祈りの丘〜</a>』オープニングテーマ</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -406,15 +406,15 @@
 
 ### キャラクターソング
 
-| 発売日                 | 商品名                                                                                         | 歌               | 楽曲                  | タイアップ                                                                                                        |
-| ------------------- | ------------------------------------------------------------------------------------------- | --------------- | ------------------- | ------------------------------------------------------------------------------------------------------------ |
-| 2003年               |                                                                                             |                 |                     |                                                                                                              |
-| 7月25日               | 2003年劇場版ポケットモンスター・ミュージックコレクション                                                              | ハルカ（**KAORI.**） | 「冒険のはじまりだ           | 」                                                                                                            |
-| 2006年               |                                                                                             |                 |                     |                                                                                                              |
-| 6月28日               | [スパート\!/私、負けない\!〜ハルカのテーマ〜](https://ja.wikipedia.org/wiki/スパート!/私、負けない!〜ハルカのテーマ〜 "wikilink") | ハルカ（**KAORI.**） | 「私、負けない\!〜ハルカのテーマ〜」 | テレビアニメ『[ポケットモンスター アドバンスジェネレーション](https://ja.wikipedia.org/wiki/ポケットモンスター_アドバンスジェネレーション "wikilink")』エンディングテーマ |
-| 2008年               |                                                                                             |                 |                     |                                                                                                              |
-| 3月7日                | Re-birth/Shine〜降りそそぐ風のように〜                                                                  | Your（**KAORI**） | 「Re-birth」          | ゲーム『[ユア・メモリーズオフ〜Girl's Style〜](https://ja.wikipedia.org/wiki/ユア・メモリーズオフ〜Girl's_Style〜 "wikilink")』エンディングテーマ  |
-| 「Shine〜降りそそぐ風のように〜」 |                                                                                             |                 |                     |                                                                                                              |
+| 発売日                 | 商品名                                                                                         | 歌               | 楽曲                  | タイアップ                                                                                     |
+| ------------------- | ------------------------------------------------------------------------------------------- | --------------- | ------------------- | ----------------------------------------------------------------------------------------- |
+| 2003年               |                                                                                             |                 |                     |                                                                                           |
+| 7月25日               | 2003年劇場版ポケットモンスター・ミュージックコレクション                                                              | ハルカ（**KAORI.**） | 「冒険のはじまりだ           | 」                                                                                         |
+| 2006年               |                                                                                             |                 |                     |                                                                                           |
+| 6月28日               | [スパート\!/私、負けない\!〜ハルカのテーマ〜](https://ja.wikipedia.org/wiki/スパート!/私、負けない!〜ハルカのテーマ〜 "wikilink") | ハルカ（**KAORI.**） | 「私、負けない\!〜ハルカのテーマ〜」 | テレビアニメ『[ポケットモンスター アドバンスジェネレーション](../Page/ポケットモンスター_アドバンスジェネレーション.md "wikilink")』エンディングテーマ |
+| 2008年               |                                                                                             |                 |                     |                                                                                           |
+| 3月7日                | Re-birth/Shine〜降りそそぐ風のように〜                                                                  | Your（**KAORI**） | 「Re-birth」          | ゲーム『[ユア・メモリーズオフ〜Girl's Style〜](../Page/ユア・メモリーズオフ〜Girl's_Style〜.md "wikilink")』エンディングテーマ  |
+| 「Shine〜降りそそぐ風のように〜」 |                                                                                             |                 |                     |                                                                                           |
 
 ## 楽曲提供
 
@@ -427,7 +427,7 @@
 
   - 「[キラ キラ キラリ](https://ja.wikipedia.org/wiki/ヘキサムーン・ガーディアンズ#主題歌 "wikilink")」（2000年、作詞・作曲）
 
-  - [仙台エリ](https://ja.wikipedia.org/wiki/仙台エリ "wikilink")「やっぱり君が好き\!」（1999年、作詞・[名古屋司](https://ja.wikipedia.org/wiki/名古屋司 "wikilink")と共同作曲）
+  - [仙台エリ](../Page/仙台エリ.md "wikilink")「やっぱり君が好き\!」（1999年、作詞・[名古屋司](https://ja.wikipedia.org/wiki/名古屋司 "wikilink")と共同作曲）
 
 ## 脚注
 
@@ -446,4 +446,4 @@
 
 1.  [SpunkyStrider公式サイト（2012年5月）より](http://spunkystrider.good.cx/news_kaori/index.html)
 2.  [SpunkyStrider公式ブログ（2014年6月22日）より](http://spunkystrider.jugem.jp/?month=201406)
-3.  [彩音](https://ja.wikipedia.org/wiki/彩音 "wikilink")、[河合久美](https://ja.wikipedia.org/wiki/河合久美 "wikilink")、[那須めぐみ](https://ja.wikipedia.org/wiki/那須めぐみ "wikilink")、[山本麻里安](../Page/山本麻里安.md "wikilink")、[松来未祐](../Page/松来未祐.md "wikilink")、[仲西環](https://ja.wikipedia.org/wiki/仲西環 "wikilink")、[村田あゆみ](https://ja.wikipedia.org/wiki/村田あゆみ "wikilink")、[菊池志穂](https://ja.wikipedia.org/wiki/菊池志穂 "wikilink")、[野川さくら](https://ja.wikipedia.org/wiki/野川さくら "wikilink")、[こやまきみこ](../Page/こやまきみこ.md "wikilink")、[桑谷夏子](https://ja.wikipedia.org/wiki/桑谷夏子 "wikilink")、[井ノ上奈々](https://ja.wikipedia.org/wiki/井ノ上奈々 "wikilink")、**KAORI.**、[森久保祥太郎](../Page/森久保祥太郎.md "wikilink")、[間島淳司](https://ja.wikipedia.org/wiki/間島淳司 "wikilink")、[池澤春菜](https://ja.wikipedia.org/wiki/池澤春菜 "wikilink")
+3.  [彩音](../Page/彩音.md "wikilink")、[河合久美](https://ja.wikipedia.org/wiki/河合久美 "wikilink")、[那須めぐみ](../Page/那須めぐみ.md "wikilink")、[山本麻里安](../Page/山本麻里安.md "wikilink")、[松来未祐](../Page/松来未祐.md "wikilink")、[仲西環](../Page/仲西環.md "wikilink")、[村田あゆみ](../Page/村田あゆみ.md "wikilink")、[菊池志穂](../Page/菊池志穂.md "wikilink")、[野川さくら](../Page/野川さくら.md "wikilink")、[こやまきみこ](../Page/こやまきみこ.md "wikilink")、[桑谷夏子](../Page/桑谷夏子.md "wikilink")、[井ノ上奈々](../Page/井ノ上奈々.md "wikilink")、**KAORI.**、[森久保祥太郎](../Page/森久保祥太郎.md "wikilink")、[間島淳司](../Page/間島淳司.md "wikilink")、[池澤春菜](https://ja.wikipedia.org/wiki/池澤春菜 "wikilink")

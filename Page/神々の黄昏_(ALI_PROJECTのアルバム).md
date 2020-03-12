@@ -1,13 +1,13 @@
 > この記事は[ \(ALI PROJECT\)](https://ja.wikipedia.org/wiki/_\(ALI_PROJECT\))から翻訳されています。
 
 
-『**神々の黄昏**』（かみがみのたそがれ）は、[宝野アリカ](https://ja.wikipedia.org/wiki/宝野アリカ "wikilink")と[片倉三起也](https://ja.wikipedia.org/wiki/片倉三起也 "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")・[ALI PROJECTの](https://ja.wikipedia.org/wiki/ALI_PROJECT "wikilink")3枚目の[ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")アルバム。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月7日](../Page/12月7日.md "wikilink")に[徳間ジャパンコミュニケーションズ](https://ja.wikipedia.org/wiki/徳間ジャパンコミュニケーションズ "wikilink")から発売された。
+『**神々の黄昏**』（かみがみのたそがれ）は、[宝野アリカ](https://ja.wikipedia.org/wiki/宝野アリカ "wikilink")と[片倉三起也](../Page/片倉三起也.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[ALI PROJECTの](https://ja.wikipedia.org/wiki/ALI_PROJECT "wikilink")3枚目の[ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")アルバム。[2005年](../Page/2005年.md "wikilink")[12月7日](../Page/12月7日.md "wikilink")に[徳間ジャパンコミュニケーションズ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")から発売された。
 
 ## 概要
 
 他のストリングスアルバム同様、過去の楽曲もストリングスアレンジがなされている他、新曲も収録している。
 
-なお、「神々の黄昏」は[ワーグナーの](../Page/リヒャルト・ワーグナー.md "wikilink")『[ニーベルングの指環](https://ja.wikipedia.org/wiki/ニーベルングの指環 "wikilink")』の第3日からとられており\[1\]、[ラグナロク](../Page/ラグナロク.md "wikilink")を指している。
+なお、「神々の黄昏」は[ワーグナーの](../Page/リヒャルト・ワーグナー.md "wikilink")『[ニーベルングの指環](../Page/ニーベルングの指環.md "wikilink")』の第3日からとられており\[1\]、[ラグナロク](../Page/ラグナロク.md "wikilink")を指している。
 
 ## 収録曲
 
@@ -20,7 +20,7 @@
 5.  **彼と彼女の聖夜 (Strings Arrange)** \[5:59\]
       - 初出は[星と月のソナタ](../Page/星と月のソナタ.md "wikilink")。
 6.  **蜜薔薇庭園** \[5:16\]
-      - 宝野のウェブサイトの[BBSと同名である](https://ja.wikipedia.org/wiki/電子掲示板 "wikilink")。また、アニメ『[マリア様がみてる](https://ja.wikipedia.org/wiki/マリア様がみてる_\(アニメ\) "wikilink")』の第1期、第2期のエンディングテーマ「Sonata Blue」のヴォーカルバージョンともなっている。
+      - 宝野のウェブサイトの[BBSと同名である](../Page/電子掲示板.md "wikilink")。また、アニメ『[マリア様がみてる](../Page/マリア様がみてる_\(アニメ\).md "wikilink")』の第1期、第2期のエンディングテーマ「Sonata Blue」のヴォーカルバージョンともなっている。
 7.  **月光夜 (Strings Arrange)** \[6:24\]
       - 初出は[Noblerot](../Page/Noblerot.md "wikilink")。
 8.  **神の雪** \[6:00\]
@@ -33,7 +33,7 @@
 ## 参加ミュージシャン
 
   - 全作詞：[Arika Takarano](https://ja.wikipedia.org/wiki/宝野アリカ "wikilink")
-  - 全作曲：[Mikiya Katakura](https://ja.wikipedia.org/wiki/片倉三起也 "wikilink")
+  - 全作曲：[Mikiya Katakura](../Page/片倉三起也.md "wikilink")
   - 編曲：[Yoshihisa Hirano](https://ja.wikipedia.org/wiki/平野義久 "wikilink")(M1-M4,M6,M8)、Akira Saito(斉藤聡)(M5,M7,M10)、[Tsuyoshi Watanabe](../Page/渡辺剛_\(ヴァイオリニスト\).md "wikilink")(M9)
   - Vocals：[Arika Takarano](https://ja.wikipedia.org/wiki/宝野アリカ "wikilink")
   - Strings：Gekko String Orchestra

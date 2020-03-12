@@ -1,17 +1,17 @@
 > この記事は[VU](https://ja.wikipedia.org/wiki/VU)から翻訳されています。
 
 
-[VU_Meter.jpg](https://ja.wikipedia.org/wiki/File:VU_Meter.jpg "fig:VU_Meter.jpg") **VUメーター**（ブイユーメーター、VU Meter）とは音響機器に於いて音量感を指示するための測定器である。1939年に[ベル研究所](../Page/ベル研究所.md "wikilink")及び[CBS](../Page/CBS.md "wikilink")、[NBC](https://ja.wikipedia.org/wiki/NBC "wikilink")により[通信線路](https://ja.wikipedia.org/wiki/通信線路 "wikilink")の基準レベルを監視するために開発された。VUとは英語のvolume unit（音量の単位）のこと。
+[VU_Meter.jpg](https://ja.wikipedia.org/wiki/File:VU_Meter.jpg "fig:VU_Meter.jpg") **VUメーター**（ブイユーメーター、VU Meter）とは音響機器に於いて音量感を指示するための測定器である。1939年に[ベル研究所](../Page/ベル研究所.md "wikilink")及び[CBS](../Page/CBS.md "wikilink")、[NBC](../Page/NBC.md "wikilink")により[通信線路](../Page/通信線路.md "wikilink")の基準レベルを監視するために開発された。VUとは英語のvolume unit（音量の単位）のこと。
 
 ## 開発当時の定義
 
-インピーダンス600Ωの負荷回路へ1kHzの[正弦波](https://ja.wikipedia.org/wiki/正弦波 "wikilink")を加えて1mWの電力を消費したときの出力電圧を0[dBm](https://ja.wikipedia.org/wiki/dBm "wikilink")とし、+4dBmを0VUとするが、業界によってちがう。
+インピーダンス600Ωの負荷回路へ1kHzの[正弦波](../Page/正弦波.md "wikilink")を加えて1mWの電力を消費したときの出力電圧を0[dBm](https://ja.wikipedia.org/wiki/dBm "wikilink")とし、+4dBmを0VUとするが、業界によってちがう。
 
 VUメーターの指示範囲は-20から+3で単位はdBである。（変動する）信号電圧に対し針が指示値に位置するまでの所要時間は300msecである。この遅れは原理的に電圧の最大値（いわゆるピークレベル）を示せないことを意味し、連続した正弦波を加えた場合は（そのピークレベルを示さず）ほぼ平均値に等しい値を指示する。
 
 ## VUメーターの規格
 
-VUメーターに関する規格として [ANSI](https://ja.wikipedia.org/wiki/ANSI "wikilink") C16.5-1942, [British Standard](https://ja.wikipedia.org/wiki/British_Standard "wikilink") BS 6840, そして[IEC](https://ja.wikipedia.org/wiki/国際電気標準会議 "wikilink") 60268-17がある。かつて日本にも[JIS](https://ja.wikipedia.org/wiki/JIS "wikilink") C 1504-1976があったが、1993年に廃止された。
+VUメーターに関する規格として [ANSI](https://ja.wikipedia.org/wiki/ANSI "wikilink") C16.5-1942, [British Standard](https://ja.wikipedia.org/wiki/British_Standard "wikilink") BS 6840, そして[IEC](../Page/国際電気標準会議.md "wikilink") 60268-17がある。かつて日本にも[JIS](https://ja.wikipedia.org/wiki/JIS "wikilink") C 1504-1976があったが、1993年に廃止された。
 
 ## VUメーターの特性
 

@@ -1,21 +1,21 @@
 > この記事は[Deja Vu THE ORIGINAL BEST 1992-1995](https://ja.wikipedia.org/wiki/Deja_Vu_THE_ORIGINAL_BEST_1992-1995)から翻訳されています。
 
 
-『**Deja Vu 〜THE ORIGINAL BEST 1992-1995〜**』（デジャヴ ザ・オリジナル・ベスト・せんきゅうひゃくきゅうじゅうに・せんきゅうひゃくきゅうじゅうご）は、[宝野アリカ](https://ja.wikipedia.org/wiki/宝野アリカ "wikilink")と[片倉三起也](https://ja.wikipedia.org/wiki/片倉三起也 "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")・[ALI PROJECTの](https://ja.wikipedia.org/wiki/ALI_PROJECT "wikilink")2枚目の[ベストアルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月8日](../Page/3月8日.md "wikilink")に[東芝EMIから発売された](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")。
+『**Deja Vu 〜THE ORIGINAL BEST 1992-1995〜**』（デジャヴ ザ・オリジナル・ベスト・せんきゅうひゃくきゅうじゅうに・せんきゅうひゃくきゅうじゅうご）は、[宝野アリカ](https://ja.wikipedia.org/wiki/宝野アリカ "wikilink")と[片倉三起也](../Page/片倉三起也.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[ALI PROJECTの](https://ja.wikipedia.org/wiki/ALI_PROJECT "wikilink")2枚目の[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")に[東芝EMIから発売された](../Page/EMIミュージック・ジャパン.md "wikilink")。
 
 ## 概要
 
-久々の東芝EMIからのリリース。ZAZOU Recordsからのみの販売で一般的に多くは流通していない[jamais vuを除くと](https://ja.wikipedia.org/wiki/jamais_vu "wikilink")、初のベストアルバムである。東芝EMIからリリースしていた初期の楽曲が収録されている。タイトルはjamais vuと対比になっていると思われる（[既視感](https://ja.wikipedia.org/wiki/既視感 "wikilink")参照）。そのためか、jamais vuに収録されていた多くの楽曲が本アルバムにも収録されている。
+久々の東芝EMIからのリリース。ZAZOU Recordsからのみの販売で一般的に多くは流通していない[jamais vuを除くと](https://ja.wikipedia.org/wiki/jamais_vu "wikilink")、初のベストアルバムである。東芝EMIからリリースしていた初期の楽曲が収録されている。タイトルはjamais vuと対比になっていると思われる（[既視感](../Page/既視感.md "wikilink")参照）。そのためか、jamais vuに収録されていた多くの楽曲が本アルバムにも収録されている。
 
 ## 収録曲
 
-（全作詞：[宝野アリカ](https://ja.wikipedia.org/wiki/宝野アリカ "wikilink")、作曲・編曲：[片倉三起也](https://ja.wikipedia.org/wiki/片倉三起也 "wikilink")）
+（全作詞：[宝野アリカ](https://ja.wikipedia.org/wiki/宝野アリカ "wikilink")、作曲・編曲：[片倉三起也](../Page/片倉三起也.md "wikilink")）
 
 1.  **[メガロポリス・アリス -MEGALOPOLIS ALICE-](../Page/月下の一群_\(ALI_PROJECTのアルバム\).md "wikilink")** \[4:04\]
 2.  **[嵐ヶ丘](https://ja.wikipedia.org/wiki/嵐ヶ丘_\(ALI_PROJECTの曲\) "wikilink")** \[4:17\]
 3.  **[恋せよ乙女〜Love story of ZIPANG〜](https://ja.wikipedia.org/wiki/恋せよ乙女〜Love_story_of_ZIPANG〜 "wikilink")** \[3:55\]
       -
-        [黄桜](https://ja.wikipedia.org/wiki/黄桜 "wikilink")飛沫の[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
+        [黄桜](../Page/黄桜.md "wikilink")飛沫の[CMソング](../Page/コマーシャルソング.md "wikilink")
 4.  **[ビアンカ](../Page/月下の一群_\(ALI_PROJECTのアルバム\).md "wikilink")** \[4:05\]
 5.  **[月光浴](../Page/月下の一群_\(ALI_PROJECTのアルバム\).md "wikilink")** \[3:27\]
 6.  **Nous Deux C’est Pour La Vie** \[4:40\]
@@ -38,7 +38,7 @@
 
   - Produced by ALI PROJECT
   - All Lyrics Written by [ARIKA TAKARANO](https://ja.wikipedia.org/wiki/宝野アリカ "wikilink")
-  - All Music Composed & Arranged by [MIKIYA KATAKURA](https://ja.wikipedia.org/wiki/片倉三起也 "wikilink")
+  - All Music Composed & Arranged by [MIKIYA KATAKURA](../Page/片倉三起也.md "wikilink")
   - Co-Produced by SHIGEO OHWA（大輪茂男）
   - Directed by IKU AOKI(青木郁生)、SHINGO TSUDA
   - Sales Planning：YOSHIFUMI YAMAMINAMI

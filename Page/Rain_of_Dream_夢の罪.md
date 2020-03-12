@@ -9,7 +9,7 @@
 
 1.  **Rain of Dream 夢の罪**
       -
-        作詞：[松本一起](https://ja.wikipedia.org/wiki/松本一起 "wikilink")、作曲：沢村拓二、編曲：[難波弘之](../Page/難波弘之.md "wikilink")
+        作詞：[松本一起](../Page/松本一起.md "wikilink")、作曲：沢村拓二、編曲：[難波弘之](../Page/難波弘之.md "wikilink")
 
 ### SIDE B
 
@@ -25,6 +25,6 @@
 
   - [Caravan From Tokyo](https://ja.wikipedia.org/wiki/Caravan_From_Tokyo "wikilink")
   - [BEST PACK/西城秀樹](https://ja.wikipedia.org/wiki/BEST_PACK/西城秀樹 "wikilink")
-  - [1986年の音楽](https://ja.wikipedia.org/wiki/1986年の音楽 "wikilink")
+  - [1986年の音楽](../Page/1986年の音楽.md "wikilink")
 
 [Category:西城秀樹の楽曲](https://ja.wikipedia.org/wiki/Category:西城秀樹の楽曲 "wikilink") [Category:松本一起が制作した楽曲](https://ja.wikipedia.org/wiki/Category:松本一起が制作した楽曲 "wikilink") [Category:1986年のシングル](https://ja.wikipedia.org/wiki/Category:1986年のシングル "wikilink") [Category:RCAのシングル](https://ja.wikipedia.org/wiki/Category:RCAのシングル "wikilink") [Category:雨を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:雨を題材とした楽曲 "wikilink") [Category:夢を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:夢を題材とした楽曲 "wikilink") [Category:楽曲_れ](https://ja.wikipedia.org/wiki/Category:楽曲_れ "wikilink")

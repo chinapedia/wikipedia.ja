@@ -1,9 +1,9 @@
 > この記事は[RiRiKA](https://ja.wikipedia.org/wiki/RiRiKA)から翻訳されています。
 
 
-**RiRiKA**（りりか、[1984年](../Page/1984年.md "wikilink")[12月26日](../Page/12月26日.md "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")、[女優](../Page/俳優.md "wikilink")。元[宝塚歌劇団](../Page/宝塚歌劇団.md "wikilink")[花組の娘役](https://ja.wikipedia.org/wiki/花組_\(宝塚歌劇\) "wikilink")。
+**RiRiKA**（りりか、[1984年](../Page/1984年.md "wikilink")[12月26日](../Page/12月26日.md "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")、[女優](../Page/俳優.md "wikilink")。元[宝塚歌劇団](../Page/宝塚歌劇団.md "wikilink")[花組の娘役](../Page/花組_\(宝塚歌劇\).md "wikilink")。
 
-[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")出身\[2\]。身長162cm\[3\]。宝塚歌劇団時代の芸名は**花咲りりか**（はなさき・りりか）。
+[大阪府](../Page/大阪府.md "wikilink")出身\[2\]。身長162cm\[3\]。宝塚歌劇団時代の芸名は**花咲りりか**（はなさき・りりか）。
 
 所属事務所は[東宝芸能](../Page/東宝芸能.md "wikilink")\[4\]。
 
@@ -11,9 +11,9 @@
 
 2001年4月、[宝塚音楽学校](../Page/宝塚音楽学校.md "wikilink")入学。音楽学校では最高歌唱評価「秀」を宝塚史上初めて獲得した\[5\]\[6\]。
 
-2003年3月、宝塚歌劇団に[89期生として入団](../Page/宝塚歌劇団89期生.md "wikilink")\[7\]。入団時の成績は11番\[8\]。[月組公演](https://ja.wikipedia.org/wiki/月組_\(宝塚歌劇\) "wikilink")「[花の宝塚風土記](https://ja.wikipedia.org/wiki/花の宝塚風土記 "wikilink")／[シニョール・ドン・ファン](https://ja.wikipedia.org/wiki/シニョール・ドン・ファン "wikilink")」で**花咲りりか**として初舞台。その後、花組に配属\[9\]。
+2003年3月、宝塚歌劇団に[89期生として入団](../Page/宝塚歌劇団89期生.md "wikilink")\[7\]。入団時の成績は11番\[8\]。[月組公演](../Page/月組_\(宝塚歌劇\).md "wikilink")「[花の宝塚風土記](https://ja.wikipedia.org/wiki/花の宝塚風土記 "wikilink")／[シニョール・ドン・ファン](https://ja.wikipedia.org/wiki/シニョール・ドン・ファン "wikilink")」で**花咲りりか**として初舞台。その後、花組に配属\[9\]。
 
-2006年12月6日、「MIND TRAVELLER」（ドラマシティ・[日本青年館](https://ja.wikipedia.org/wiki/日本青年館 "wikilink")公演）千秋楽をもって、宝塚歌劇団を退団\[10\]。
+2006年12月6日、「MIND TRAVELLER」（ドラマシティ・[日本青年館](../Page/日本青年館.md "wikilink")公演）千秋楽をもって、宝塚歌劇団を退団\[10\]。
 
 退団後は芸名を**RiRiKA**と改名し、舞台を中心に活動\[11\]\[12\]。近年は「[THEカラオケ★バトル](https://ja.wikipedia.org/wiki/THEカラオケ★バトル "wikilink")」（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）に出演し、毎回高得点を叩き出し、2018年3月まで番組内TOP7の1人として活躍した\[13\]\[14\]。
 
@@ -23,7 +23,7 @@
 
 ### 初舞台
 
-  - 2003年4〜5月、月組『花の宝塚風土記-春の踊り-』『シニョール ドン・ファン』（[宝塚大劇場](https://ja.wikipedia.org/wiki/宝塚大劇場 "wikilink")のみ）
+  - 2003年4〜5月、月組『花の宝塚風土記-春の踊り-』『シニョール ドン・ファン』（[宝塚大劇場](../Page/宝塚大劇場.md "wikilink")のみ）
 
 ### 花組時代
 
@@ -36,14 +36,14 @@
   - 2005年11月、『落陽のパレルモ／ASIAN WINDS！-アジアの風-』ベッカデッリ令嬢、新人公演：サンドラ（本役：[舞城のどか](https://ja.wikipedia.org/wiki/舞城のどか "wikilink")）
   - 2006年3月、『スカウト』（バウ）マチルダ
   - 2006年5月、『[エンカレッジ・コンサート](../Page/エンカレッジ・コンサート.md "wikilink")』（バウ）
-  - 2006年6月、『[ファントム](https://ja.wikipedia.org/wiki/ファントム_\(ミュージカル\) "wikilink")』ベラドーヴァ、 新人公演：ミレイユ（本役：[絵莉千晶](https://ja.wikipedia.org/wiki/絵莉千晶 "wikilink")）
+  - 2006年6月、『[ファントム](../Page/ファントム_\(ミュージカル\).md "wikilink")』ベラドーヴァ、 新人公演：ミレイユ（本役：[絵莉千晶](https://ja.wikipedia.org/wiki/絵莉千晶 "wikilink")）
   - 2006年11月、『MIND TRAVELLAR -記憶の旅人-』（シアタードラマシティ・東京特別）エイミー **＊退団公演**
 
 ## 宝塚歌劇団退団後の主な活動
 
 ### テレビ・ラジオ
 
-  - 2010年、[トレインチャンネル](https://ja.wikipedia.org/wiki/トレインチャンネル "wikilink")「しぐさの裏心理学」出演
+  - 2010年、[トレインチャンネル](../Page/トレインチャンネル.md "wikilink")「しぐさの裏心理学」出演
   - 2012年、[ハピラジ\!](http://ch.nicovideo.jp/happy-radio)にて「ファンタスマゴリックの壊れちゃったラジオ」スタート
   - 2014年10月、[bayFM](https://ja.wikipedia.org/wiki/bayFM "wikilink")「beautiful future」パーソナリティー
   - 2014年、シネマジーンにてシネマレビュー担当スタート
@@ -71,14 +71,14 @@
   - 2008年、プロ野球公式戦 国歌斉唱（[京セラドーム](../Page/大阪ドーム.md "wikilink")）
   - 2010年、[赤西仁](https://ja.wikipedia.org/wiki/赤西仁 "wikilink")コンサート「友＆仁」コーラス
   - 2011年、ソロライブ『RiRiKA with Moment Strings Quartet』(東京俱楽部、神戸[チキンジョージ](../Page/チキンジョージ.md "wikilink"))
-  - 2011年、[井上芳雄](https://ja.wikipedia.org/wiki/井上芳雄 "wikilink")クリスマスコンサート　ゲスト出演
+  - 2011年、[井上芳雄](../Page/井上芳雄.md "wikilink")クリスマスコンサート　ゲスト出演
   - 2012年、ソロライブ『RiRiKA with Moment Strings Quartet』(東京俱楽部、神戸チキンジョージ)
   - 2012年、HARAJUKU SOUND COLLECTION出演
   - 2013年、デビューミニアルバム「ラストダンスは私に」発売
   - 2013年、『Zlee 3rd Dinner show』（コットンクラブ）出演
-  - 2013年、[瀬奈じゅん](https://ja.wikipedia.org/wiki/瀬奈じゅん "wikilink")コンサート(東京国際フォーラム)　コーラス
+  - 2013年、[瀬奈じゅん](../Page/瀬奈じゅん.md "wikilink")コンサート(東京国際フォーラム)　コーラス
   - 2013年、ゲーム『[CONCEPTIONII 七星の導きとマズルの悪夢](https://ja.wikipedia.org/wiki/CONCEPTIONII_七星の導きとマズルの悪夢 "wikilink")』主題歌、挿入歌、エンディングソング　([PS Vita](https://ja.wikipedia.org/wiki/PlayStation_Vita "wikilink"),[ニンテンドー3DS](https://ja.wikipedia.org/wiki/ニンテンドー3DS "wikilink"))
-  - 2013年、[モブキャスト](https://ja.wikipedia.org/wiki/モブキャスト "wikilink") [クライマックスシリーズ](https://ja.wikipedia.org/wiki/クライマックスシリーズ "wikilink") パ 第4戦 [東北楽天イーグルス](https://ja.wikipedia.org/wiki/東北楽天イーグルス "wikilink")VS[千葉ロッテマリーンズ](../Page/千葉ロッテマリーンズ.md "wikilink")戦（[日本製紙クリネックススタジアム宮城](https://ja.wikipedia.org/wiki/日本製紙クリネックススタジアム宮城 "wikilink")）にて国歌斉唱
+  - 2013年、[モブキャスト](https://ja.wikipedia.org/wiki/モブキャスト "wikilink") [クライマックスシリーズ](../Page/クライマックスシリーズ.md "wikilink") パ 第4戦 [東北楽天イーグルス](https://ja.wikipedia.org/wiki/東北楽天イーグルス "wikilink")VS[千葉ロッテマリーンズ](../Page/千葉ロッテマリーンズ.md "wikilink")戦（[日本製紙クリネックススタジアム宮城](https://ja.wikipedia.org/wiki/日本製紙クリネックススタジアム宮城 "wikilink")）にて国歌斉唱
 
 <!-- end list -->
 
@@ -106,7 +106,7 @@
   - 2015年1月、ミュージカルtrails ヒロイン エイミー 役
   - 2015年7月1日 - 7月7日、舞台「愚者よ」ヒロイン 八重 役（シアターグリーン）
   - 2015年9月、ブロードウェイミュージカル「little women〜若草物語〜」メグ 役
-  - 2016年2月、ミュージカル座「I HAVE A DREAM」ヒロイン ジャネット 役（[IMAホール](https://ja.wikipedia.org/wiki/光が丘IMA "wikilink")）\[16\] - 共演者の[中村萌子](https://ja.wikipedia.org/wiki/中村萌子 "wikilink")を『[THEカラオケ★バトル](https://ja.wikipedia.org/wiki/THEカラオケ★バトル "wikilink")』に推薦\[17\]。
+  - 2016年2月、ミュージカル座「I HAVE A DREAM」ヒロイン ジャネット 役（[IMAホール](../Page/光が丘IMA.md "wikilink")）\[16\] - 共演者の[中村萌子](https://ja.wikipedia.org/wiki/中村萌子 "wikilink")を『[THEカラオケ★バトル](https://ja.wikipedia.org/wiki/THEカラオケ★バトル "wikilink")』に推薦\[17\]。
   - 2017年1月、[PREMIUM 3D MUSICAL『英雄伝説 閃の軌跡』ヴィータ](https://ja.wikipedia.org/wiki/英雄伝説_閃の軌跡#ミュージカル "wikilink")・クロチルダ 役（[Zeppブルーシアター六本木](https://ja.wikipedia.org/wiki/Zeppブルーシアター六本木 "wikilink")）
   - 2017年4月-5月、ミュージカル「紳士のための愛と殺人の手引き」（日生劇場ほか）
   - [Fate/Grand Order THE STAGE -神聖円卓領域 キャメロット-](https://ja.wikipedia.org/wiki/Fate/Grand_Order#舞台 "wikilink")（2017年7月14日 - 7月17日、[Zeppブルーシアター六本木](https://ja.wikipedia.org/wiki/Zeppブルーシアター六本木 "wikilink")） - [レオナルド・ダ・ヴィンチ](../Page/レオナルド・ダ・ヴィンチ.md "wikilink") 役\[18\]
@@ -128,7 +128,7 @@
       - [駅](https://ja.wikipedia.org/wiki/駅_\(曲\) "wikilink")
       - いつもそばに歌がある ※ [翠千賀](https://ja.wikipedia.org/wiki/翠千賀 "wikilink")・[城南海](https://ja.wikipedia.org/wiki/城南海 "wikilink")とともに。
   - テレビ東京系『THEカラオケ★バトル BEST ALBUM II』（[2017年](../Page/2017年.md "wikilink")[8月2日](../Page/8月2日.md "wikilink")発売。PCCA-04545）\[21\]
-      - M-8「[つばさ](https://ja.wikipedia.org/wiki/つばさ_\(本田美奈子の曲\) "wikilink")」([本田美奈子のカバー](https://ja.wikipedia.org/wiki/本田美奈子. "wikilink")。）
+      - M-8「[つばさ](../Page/つばさ_\(本田美奈子の曲\).md "wikilink")」([本田美奈子のカバー](https://ja.wikipedia.org/wiki/本田美奈子. "wikilink")。）
       - M-9「Over and Over ～夢は終わらない」（合唱ver）- K★Bオールスターズ（[城南海](https://ja.wikipedia.org/wiki/城南海 "wikilink")、RiRiKA、[翠千賀](https://ja.wikipedia.org/wiki/翠千賀 "wikilink")、宮本美季、[堀優衣](https://ja.wikipedia.org/wiki/堀優衣 "wikilink")、佐々木麻衣、佐久間彩加、[鈴木杏奈](https://ja.wikipedia.org/wiki/鈴木杏奈 "wikilink")、[竹野留里](https://ja.wikipedia.org/wiki/竹野留里 "wikilink")）
 
 ## 脚注
@@ -149,7 +149,7 @@
 5.  [元宝塚・RiRiKA、陶芸家・青木良太氏と結婚「愛に溢れ最高に笑える家庭を」](https://www.oricon.co.jp/news/2142396/full/)オリコンニュース
 6.
 7.
-8.  監修：[小林公一](https://ja.wikipedia.org/wiki/小林公一 "wikilink")『宝塚歌劇100年史　虹の橋 渡り続けて（人物編）』、[阪急コミュニケーションズ](https://ja.wikipedia.org/wiki/阪急コミュニケーションズ "wikilink")、2014年4月1日、P115。ISBN 9784484146010
+8.  監修：[小林公一](../Page/小林公一.md "wikilink")『宝塚歌劇100年史　虹の橋 渡り続けて（人物編）』、[阪急コミュニケーションズ](../Page/阪急コミュニケーションズ.md "wikilink")、2014年4月1日、P115。ISBN 9784484146010
 9.
 10.
 11.

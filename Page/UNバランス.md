@@ -1,20 +1,20 @@
 > この記事は[UN](https://ja.wikipedia.org/wiki/UN)から翻訳されています。
 
 
-「**UNバランス**」（アンバランス）は、[河合奈保子](https://ja.wikipedia.org/wiki/河合奈保子 "wikilink")が1983年9月にリリースした14枚目のシングル([EP](https://ja.wikipedia.org/wiki/レコード#レコード盤の形状 "wikilink"): AH-370)。
+「**UNバランス**」（アンバランス）は、[河合奈保子](../Page/河合奈保子.md "wikilink")が1983年9月にリリースした14枚目のシングル([EP](https://ja.wikipedia.org/wiki/レコード#レコード盤の形状 "wikilink"): AH-370)。
 
 ## 解説
 
 この曲で河合は、1983年末の「[第34回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第34回NHK紅白歌合戦 "wikilink")」に3年連続3回目の出場を果たした。
 
-前作の「エスカレーション」に続いて[ディスコ](https://ja.wikipedia.org/wiki/ディスコ "wikilink")路線であり、リズムは[8ビートである](https://ja.wikipedia.org/wiki/ドラム・ビート "wikilink")。サウンドアレンジは同年発表された[ドナ・サマー](https://ja.wikipedia.org/wiki/ドナ・サマー "wikilink")の「[情熱物語 (She Works Hard For The Money)](https://ja.wikipedia.org/wiki/情熱物語_\(ドナ・サマーの曲\) "wikilink")」に酷似している。
+前作の「エスカレーション」に続いて[ディスコ](../Page/ディスコ.md "wikilink")路線であり、リズムは[8ビートである](../Page/ドラム・ビート.md "wikilink")。サウンドアレンジは同年発表された[ドナ・サマー](../Page/ドナ・サマー.md "wikilink")の「[情熱物語 (She Works Hard For The Money)](https://ja.wikipedia.org/wiki/情熱物語_\(ドナ・サマーの曲\) "wikilink")」に酷似している。
 
 アルバム『HALF SHADOW』に収録され、「single-A'」としてイントロが新たに追加されている。
 
 ## 収録曲
 
 1.  UNバランス（3分47秒）
-      - 作詞：売野雅勇、作曲：筒美京平、編曲：[大村雅朗](https://ja.wikipedia.org/wiki/大村雅朗 "wikilink")
+      - 作詞：売野雅勇、作曲：筒美京平、編曲：[大村雅朗](../Page/大村雅朗.md "wikilink")
 2.  リメンバー（3分58秒）
       - 作詞：売野雅勇、作曲：筒美京平、編曲：大村雅朗
 
@@ -24,7 +24,7 @@
 
 ## 関連項目
 
-  - [1983年の音楽](https://ja.wikipedia.org/wiki/1983年の音楽 "wikilink")
+  - [1983年の音楽](../Page/1983年の音楽.md "wikilink")
 
 ## 脚注
 

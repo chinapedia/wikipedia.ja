@@ -1,19 +1,19 @@
 > この記事は[VK](https://ja.wikipedia.org/wiki/VK)から翻訳されています。
 
 
-**日産・VKエンジン**とは、[日産自動車](https://ja.wikipedia.org/wiki/日産自動車 "wikilink")の[V型8気筒](../Page/V型8気筒.md "wikilink")[ガソリンエンジン](https://ja.wikipedia.org/wiki/ガソリンエンジン "wikilink")の系列である。
+**日産・VKエンジン**とは、[日産自動車](../Page/日産自動車.md "wikilink")の[V型8気筒](../Page/V型8気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")の系列である。
 
-[VHエンジンの後継として](https://ja.wikipedia.org/wiki/日産・VHエンジン "wikilink")、日産初のV型8気筒[直接噴射（筒内噴射）式エンジンであるVK](https://ja.wikipedia.org/wiki/ガソリン直噴エンジン "wikilink")45DDが[2001年](../Page/2001年.md "wikilink")（[平成](../Page/平成.md "wikilink")13年）にF50型[シーマのフルモデルチェンジと同時に登場した](https://ja.wikipedia.org/wiki/日産・シーマ "wikilink")。
+[VHエンジンの後継として](../Page/日産・VHエンジン.md "wikilink")、日産初のV型8気筒[直接噴射（筒内噴射）式エンジンであるVK](../Page/ガソリン直噴エンジン.md "wikilink")45DDが[2001年](../Page/2001年.md "wikilink")（[平成](../Page/平成.md "wikilink")13年）にF50型[シーマのフルモデルチェンジと同時に登場した](../Page/日産・シーマ.md "wikilink")。
 
-[2003年](../Page/2003年.md "wikilink")（平成15年）8月にはシーマのマイナーチェンジで燃料供給方式を[ポート噴射式としたVK](https://ja.wikipedia.org/wiki/燃料噴射装置#マルチポイントインジェクション "wikilink")45DEが搭載され、VK45DDは廃止となった。同年10月、PGF50型[プレジデントにVK](../Page/日産・プレジデント.md "wikilink")45DEを搭載。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）8月、[Y50型フーガに](https://ja.wikipedia.org/wiki/日産・フーガ_Y50 "wikilink")333 PS仕様のVK45DEを搭載。[自主規制撤廃後](https://ja.wikipedia.org/wiki/自動車馬力規制 "wikilink")、日産のエンジンでは初めて280 PSを越えた。
+[2003年](../Page/2003年.md "wikilink")（平成15年）8月にはシーマのマイナーチェンジで燃料供給方式を[ポート噴射式としたVK](https://ja.wikipedia.org/wiki/燃料噴射装置#マルチポイントインジェクション "wikilink")45DEが搭載され、VK45DDは廃止となった。同年10月、PGF50型[プレジデントにVK](../Page/日産・プレジデント.md "wikilink")45DEを搭載。[2005年](../Page/2005年.md "wikilink")（平成17年）8月、[Y50型フーガに](../Page/日産・フーガ_Y50.md "wikilink")333 PS仕様のVK45DEを搭載。[自主規制撤廃後](../Page/自動車馬力規制.md "wikilink")、日産のエンジンでは初めて280 PSを越えた。
 
-また、VK45DEをスケールアップしたVK56DEは日本国外で販売されている[SUVや](../Page/スポーツ・ユーティリティ・ビークル.md "wikilink")[ピックアップトラック](https://ja.wikipedia.org/wiki/ピックアップトラック "wikilink")に搭載されている。
+また、VK45DEをスケールアップしたVK56DEは日本国外で販売されている[SUVや](../Page/スポーツ・ユーティリティ・ビークル.md "wikilink")[ピックアップトラック](../Page/ピックアップトラック.md "wikilink")に搭載されている。
 
 ## バリエーション
 
 ### VK45DD
 
-  - 種類 : V型8気筒 DOHC [32バルブ](https://ja.wikipedia.org/wiki/マルチバルブ "wikilink") [CVTC](https://ja.wikipedia.org/wiki/NVCS "wikilink") (NEO-Di)
+  - 種類 : V型8気筒 DOHC [32バルブ](../Page/マルチバルブ.md "wikilink") [CVTC](../Page/NVCS.md "wikilink") (NEO-Di)
   - 排気量 : 4,494 cc
   - 内径×行程 : 93.0 mm×82.7 mm
   - 圧縮比：11.0
@@ -23,9 +23,9 @@
 
 #### 搭載車種
 
-  - [日産・シーマ](https://ja.wikipedia.org/wiki/日産・シーマ "wikilink")（F50型）
+  - [日産・シーマ](../Page/日産・シーマ.md "wikilink")（F50型）
 
-「VK45DD」は、[シリンダーブロック](https://ja.wikipedia.org/wiki/シリンダーブロック "wikilink")こそ旧型の4.1リットルV型8気筒ユニット（VH41DE）の発展形ではあるが、事実上まったくの新設計である。直噴システムは同社の2.0リットル直噴ユニット[QR20DDと同じタイプ](https://ja.wikipedia.org/wiki/日産・QRエンジン "wikilink")\[1\]を用いており、また、[シリンダーヘッド](https://ja.wikipedia.org/wiki/シリンダーヘッド "wikilink")の構造や給排気ポートの形状などをV6の[VQシリーズと](https://ja.wikipedia.org/wiki/日産・VQエンジン "wikilink")[モジュール](https://ja.wikipedia.org/wiki/モジュール "wikilink")化して、開発や生産のコストを引き下げている。従来品より40 %も軽いという[チタン合金](https://ja.wikipedia.org/wiki/チタン合金 "wikilink")製[給排気バルブや](https://ja.wikipedia.org/wiki/ポペットバルブ "wikilink")、軽量タイプの[ピストン](https://ja.wikipedia.org/wiki/ピストン "wikilink")など、運動系の部品の軽量化を徹底したことと、摺動部のクリアランスを縮小したことで、高い[静粛性と](../Page/静粛性能.md "wikilink")[燃費](https://ja.wikipedia.org/wiki/燃費 "wikilink")の向上が図られたという。とくに静粛性については、旧型の4.1リットルV型8気筒にくらべ、50 - 70 %も向上している。
+「VK45DD」は、[シリンダーブロック](../Page/シリンダーブロック.md "wikilink")こそ旧型の4.1リットルV型8気筒ユニット（VH41DE）の発展形ではあるが、事実上まったくの新設計である。直噴システムは同社の2.0リットル直噴ユニット[QR20DDと同じタイプ](../Page/日産・QRエンジン.md "wikilink")\[1\]を用いており、また、[シリンダーヘッド](https://ja.wikipedia.org/wiki/シリンダーヘッド "wikilink")の構造や給排気ポートの形状などをV6の[VQシリーズと](../Page/日産・VQエンジン.md "wikilink")[モジュール](../Page/モジュール.md "wikilink")化して、開発や生産のコストを引き下げている。従来品より40 %も軽いという[チタン合金](https://ja.wikipedia.org/wiki/チタン合金 "wikilink")製[給排気バルブや](https://ja.wikipedia.org/wiki/ポペットバルブ "wikilink")、軽量タイプの[ピストン](../Page/ピストン.md "wikilink")など、運動系の部品の軽量化を徹底したことと、摺動部のクリアランスを縮小したことで、高い[静粛性と](../Page/静粛性能.md "wikilink")[燃費](../Page/燃費.md "wikilink")の向上が図られたという。とくに静粛性については、旧型の4.1リットルV型8気筒にくらべ、50 - 70 %も向上している。
 
 ### VK45DE
 
@@ -45,9 +45,9 @@
 #### 搭載車種
 
   - [日産・プレジデント](../Page/日産・プレジデント.md "wikilink")（PGF50型）
-  - [日産・シーマ](https://ja.wikipedia.org/wiki/日産・シーマ "wikilink")/インフィニティ・Q45（F50型）
-  - [日産・フーガ](https://ja.wikipedia.org/wiki/日産・フーガ_Y50 "wikilink")/インフィニティ・M45（Y50型）
-  - [インフィニティ・FX](https://ja.wikipedia.org/wiki/インフィニティ・FX "wikilink")45
+  - [日産・シーマ](../Page/日産・シーマ.md "wikilink")/インフィニティ・Q45（F50型）
+  - [日産・フーガ](../Page/日産・フーガ_Y50.md "wikilink")/インフィニティ・M45（Y50型）
+  - [インフィニティ・FX](../Page/インフィニティ・FX.md "wikilink")45
   - [インフィニティ・M](https://ja.wikipedia.org/wiki/インフィニティ・M "wikilink")45（2003年 - 2005年）
   - インフィニティ・M45（2005年 - 2010年 ）
   - 日産・フェアレディZ 〈[SUPER GT](https://ja.wikipedia.org/wiki/SUPER_GT "wikilink")・GT500仕様〉（2007年）
@@ -68,9 +68,9 @@
 
 #### 搭載車種
 
-  - [インフィニティ・FX](https://ja.wikipedia.org/wiki/インフィニティ・FX "wikilink")（2008年-）
+  - [インフィニティ・FX](../Page/インフィニティ・FX.md "wikilink")（2008年-）
 
-[2015年](../Page/2015年.md "wikilink")より[FIA 世界耐久選手権に新設されたLMP](https://ja.wikipedia.org/wiki/FIA_世界耐久選手権 "wikilink")3クラスにおいて、本エンジンが[ワンメイク](https://ja.wikipedia.org/wiki/ワンメイク "wikilink")エンジンとして採用されている\[3\]。LMP3用エンジンは出力が約420PSで、メンテナンスは[オレカ](https://ja.wikipedia.org/wiki/オレカ "wikilink")が担当する\[4\]。
+[2015年](../Page/2015年.md "wikilink")より[FIA 世界耐久選手権に新設されたLMP](https://ja.wikipedia.org/wiki/FIA_世界耐久選手権 "wikilink")3クラスにおいて、本エンジンが[ワンメイク](../Page/ワンメイク.md "wikilink")エンジンとして採用されている\[3\]。LMP3用エンジンは出力が約420PSで、メンテナンスは[オレカ](../Page/オレカ.md "wikilink")が担当する\[4\]。
 
 ### VK56DE
 
@@ -86,10 +86,10 @@
 
 #### 搭載車種
 
-  - [インフィニティ・QX](https://ja.wikipedia.org/wiki/インフィニティ・QX "wikilink")（JA60型）
-  - [日産・アルマーダ](https://ja.wikipedia.org/wiki/日産・アルマーダ "wikilink")（TA60型）
-  - [日産・タイタン](https://ja.wikipedia.org/wiki/日産・タイタン "wikilink")（A60型）
-  - [日産・パスファインダー](https://ja.wikipedia.org/wiki/日産・パスファインダー "wikilink")（R51型）
+  - [インフィニティ・QX](../Page/インフィニティ・QX.md "wikilink")（JA60型）
+  - [日産・アルマーダ](../Page/日産・アルマーダ.md "wikilink")（TA60型）
+  - [日産・タイタン](../Page/日産・タイタン.md "wikilink")（A60型）
+  - [日産・パスファインダー](../Page/日産・パスファインダー.md "wikilink")（R51型）
 
 ### VK56VD
 
@@ -97,8 +97,8 @@
 
 ## 関連項目
 
-  - [日産自動車](https://ja.wikipedia.org/wiki/日産自動車 "wikilink")
-  - [日産のエンジン型式一覧](https://ja.wikipedia.org/wiki/日産のエンジン型式一覧 "wikilink")
+  - [日産自動車](../Page/日産自動車.md "wikilink")
+  - [日産のエンジン型式一覧](../Page/日産のエンジン型式一覧.md "wikilink")
 
 [Category:日産自動車のエンジン](https://ja.wikipedia.org/wiki/Category:日産自動車のエンジン "wikilink") [Category:レーシングカーのエンジン](https://ja.wikipedia.org/wiki/Category:レーシングカーのエンジン "wikilink") [Category:SUPER_GT](https://ja.wikipedia.org/wiki/Category:SUPER_GT "wikilink")
 

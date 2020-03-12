@@ -1,7 +1,7 @@
 > この記事は[A-L-I-V-E](https://ja.wikipedia.org/wiki/A-L-I-V-E)から翻訳されています。
 
 
-「**A-L-I-V-E**」（アライヴ）は、ボーカルユニット[Foxxi misQが](https://ja.wikipedia.org/wiki/Foxxi_misQ "wikilink")[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[1月24日](../Page/1月24日.md "wikilink")にリリースした通算3枚目のシングル。
+「**A-L-I-V-E**」（アライヴ）は、ボーカルユニット[Foxxi misQが](https://ja.wikipedia.org/wiki/Foxxi_misQ "wikilink")[2007年](../Page/2007年.md "wikilink")[1月24日](../Page/1月24日.md "wikilink")にリリースした通算3枚目のシングル。
 
 ## 解説
 
@@ -25,15 +25,15 @@
 
 1.  A-L-I-V-E
       -
-        （作詞：[Shoko Fujibayashi](https://ja.wikipedia.org/wiki/藤林聖子 "wikilink") 作曲：[Face 2 fAKE](https://ja.wikipedia.org/wiki/Face_2_fAKE "wikilink")）
+        （作詞：[Shoko Fujibayashi](../Page/藤林聖子.md "wikilink") 作曲：[Face 2 fAKE](../Page/Face_2_fAKE.md "wikilink")）
         SKECHERS 2007イメージソング
-        [TBS系](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")「[オビラジR](https://ja.wikipedia.org/wiki/オビラジR "wikilink")」2月度エンディングテーマ
+        [TBS系](../Page/TBSテレビ.md "wikilink")「[オビラジR](../Page/オビラジR.md "wikilink")」2月度エンディングテーマ
         [AIR-G'](../Page/エフエム北海道.md "wikilink") POWER PLAY
         [ふくしまFM](../Page/エフエム福島.md "wikilink") 1月度後期 POWER PLAY
 2.  \-A Taste Of Honey-
       -
         （作詞：Shoko Fujibayashi 作曲：Face 2 fAKE）
-3.  A-L-I-V-E ～[DJ TARO](https://ja.wikipedia.org/wiki/DJ_TARO "wikilink") "hbs" mixx～
+3.  A-L-I-V-E ～[DJ TARO](../Page/DJ_TARO.md "wikilink") "hbs" mixx～
       -
         表題曲のリミックス
 4.  A-L-I-V-E（less vocal）

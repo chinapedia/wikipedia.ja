@@ -1,7 +1,7 @@
 > この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
 
 
-『**Rくろにくる**』（あーるくろにくる）は原作：[数多ヒロ](https://ja.wikipedia.org/wiki/数多ヒロ "wikilink")、漫画：[あづまゆきによる](https://ja.wikipedia.org/wiki/あずまゆき "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[月刊コンプエース](https://ja.wikipedia.org/wiki/月刊コンプエース "wikilink")』（[角川書店](../Page/角川書店.md "wikilink")）に連載された。
+『**Rくろにくる**』（あーるくろにくる）は原作：[数多ヒロ](https://ja.wikipedia.org/wiki/数多ヒロ "wikilink")、漫画：[あづまゆきによる](../Page/あずまゆき.md "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[月刊コンプエース](../Page/月刊コンプエース.md "wikilink")』（[角川書店](../Page/角川書店.md "wikilink")）に連載された。
 
 ## あらすじ
 

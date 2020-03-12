@@ -1,7 +1,7 @@
 > この記事は[ULTIMATE GIRLS](https://ja.wikipedia.org/wiki/ULTIMATE_GIRLS)から翻訳されています。
 
 
-「**ULTIMATE GIRLS**」（アルティメット・ガールズ）は、ボーカルユニット[Foxxi misQが](https://ja.wikipedia.org/wiki/Foxxi_misQ "wikilink")[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月25日](../Page/10月25日.md "wikilink")にリリースした通算2枚目のシングル。
+「**ULTIMATE GIRLS**」（アルティメット・ガールズ）は、ボーカルユニット[Foxxi misQが](https://ja.wikipedia.org/wiki/Foxxi_misQ "wikilink")[2006年](../Page/2006年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")にリリースした通算2枚目のシングル。
 
 ## 解説
 
@@ -9,7 +9,7 @@
   - 「ULTIMATE GIRLS」は「ULTIMATE（究極）」な部分を目指す強気な女性の一面と、その反面不安を抱いている「GIRLS（少女達）」の一面を唄ったものだという。[R\&B](https://ja.wikipedia.org/wiki/R&B "wikilink")、[HIP HOPベースのアップテンポなダンスナンバー](https://ja.wikipedia.org/wiki/HIP_HOP "wikilink")。[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")、HOZEが参加。
   - 「Lesson」はミディアムバラード。
   - 衣装にちりばめられた30万個の[スワロフスキー](https://ja.wikipedia.org/wiki/スワロフスキー "wikilink")クリスタルは、本人達も手伝い手作業で五日間かけて装飾されたもの。[1](http://foxximisq.exblog.jp/m2006-10-01/#4093554)
-  - このシングルで[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")、『[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")』に初出演を果たした。
+  - このシングルで[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")、『[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")』に初出演を果たした。
 
 ## 収録曲
 
@@ -17,12 +17,12 @@
 
 1.  ULTIMATE GIRLS
       -
-        （作詞：[Shoko Fujibayashi](https://ja.wikipedia.org/wiki/藤林聖子 "wikilink") 作曲：[Face 2 fAKE](https://ja.wikipedia.org/wiki/Face_2_fAKE "wikilink")）
+        （作詞：[Shoko Fujibayashi](../Page/藤林聖子.md "wikilink") 作曲：[Face 2 fAKE](../Page/Face_2_fAKE.md "wikilink")）
         [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")」10-11月エンディングテーマ
 2.  Lesson
       -
         （作詞：Shoko Fujibayashi 作曲：Face 2 fAKE）
-        [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「[MusiG](https://ja.wikipedia.org/wiki/MusiG "wikilink")」10-12月エンディングテーマ
+        [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「[MusiG](../Page/MusiG.md "wikilink")」10-12月エンディングテーマ
 3.  ULTIMATE GIRLS Killa City Remix
       -
         表題曲のリミックス

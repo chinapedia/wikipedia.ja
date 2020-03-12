@@ -1,7 +1,7 @@
 > この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
 
 
-『**CRモンスターハウス**』は、[1996年](../Page/1996年.md "wikilink")に[竹屋](https://ja.wikipedia.org/wiki/竹屋 "wikilink")が開発、発売した西洋の[妖怪](../Page/妖怪.md "wikilink")をキャラクターとした[CR機](https://ja.wikipedia.org/wiki/CR機 "wikilink")[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")。CRデジパチ機の規制（リミッターや1/2確変など）時期の変遷期に登場し、竹屋を代表するヒット機種となった。
+『**CRモンスターハウス**』は、[1996年](../Page/1996年.md "wikilink")に[竹屋](https://ja.wikipedia.org/wiki/竹屋 "wikilink")が開発、発売した西洋の[妖怪](../Page/妖怪.md "wikilink")をキャラクターとした[CR機](../Page/CR機.md "wikilink")[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")。CRデジパチ機の規制（リミッターや1/2確変など）時期の変遷期に登場し、竹屋を代表するヒット機種となった。
 
 ## 特徴
 
@@ -9,9 +9,9 @@
 
 後に『CRモンスターマンション』など、モンスターシリーズとして後継シリーズも発売されている。
 
-4種類のセル画がある。保留玉消化時に発生する連続予告音（ツルツルアクション）が[確率変動](https://ja.wikipedia.org/wiki/確率変動 "wikilink")大当たりへの期待度を高めた。
+4種類のセル画がある。保留玉消化時に発生する連続予告音（ツルツルアクション）が[確率変動](../Page/確率変動.md "wikilink")大当たりへの期待度を高めた。
 
-大当たり21[連荘](https://ja.wikipedia.org/wiki/連荘 "wikilink")で「大爆発中」と表示されるプレミア画面がある。
+大当たり21[連荘](../Page/連荘.md "wikilink")で「大爆発中」と表示されるプレミア画面がある。
 
 リーチ開始後の1周目に地中から突然ゾンビの手が出て大当たりするプレミア演出がある。
 
@@ -26,15 +26,15 @@
       - 賞球数 5&15 大当たり15ラウンド・10カウント
       - 確率変動図柄：「3」・「7」・「ドラキュラ」・「狼男」・「魔女」・「フランケン」・「ミイラ男」
       - 通常図柄：「1」・「2」・「4」・「5」・「6」・「8」・「9」
-      - 高確率状態での通常大当たり終了後、100回転の[時短に突入](https://ja.wikipedia.org/wiki/時短_\(パチンコ\) "wikilink")
+      - 高確率状態での通常大当たり終了後、100回転の[時短に突入](../Page/時短_\(パチンコ\).md "wikilink")
       - ST　10000回転
 
 ## 関連商品
 
-  - 必殺パチンコステーション2（[サンソフト](https://ja.wikipedia.org/wiki/サンソフト "wikilink")、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")12月25日、[PlayStation用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")）
+  - 必殺パチンコステーション2（[サンソフト](https://ja.wikipedia.org/wiki/サンソフト "wikilink")、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")12月25日、[PlayStation用ゲームソフト](../Page/PlayStation_\(ゲーム機\).md "wikilink")）
   - 必殺パチンコステーション モンスターハウススペシャル（サンソフト、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")10月29日、PlayStation用ゲームソフト）
   - 必殺\!ぷちパチンコ モンスターハウス（[インターチャネル](../Page/インターチャネル.md "wikilink")、[1999年](../Page/1999年.md "wikilink")9月17日、[Windows用PCゲームソフト](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")）
-  - ネッパチ〜10連チャンでラスベガス旅行〜（[ダイコク電機](https://ja.wikipedia.org/wiki/ダイコク電機 "wikilink")、1999年11月25日、[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")用ゲームソフト）
+  - ネッパチ〜10連チャンでラスベガス旅行〜（[ダイコク電機](../Page/ダイコク電機.md "wikilink")、1999年11月25日、[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")用ゲームソフト）
   - 必殺パチンコBOY CRモンスターハウス（サンソフト、[2000年](../Page/2000年.md "wikilink")3月31日、[ゲームボーイカラー](../Page/ゲームボーイカラー.md "wikilink")用ゲームソフト）
   - いつでもパチンコGB CRモンスターハウス（[タムソフト](https://ja.wikipedia.org/wiki/タムソフト "wikilink")、2000年7月4日、ゲームボーイカラー用ゲームソフト）
   - ネッパチV@VPACHI〜CRモンスターハウス〜（ダイコク電機、2000年12月14日、ドリームキャスト用ゲームソフト）

@@ -1,13 +1,13 @@
 > この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
 
 
-『**究極タイガーII**』（きゅうきょくタイガーツー、**Twin Cobra II**）は、[タクミコーポレーション](https://ja.wikipedia.org/wiki/タクミコーポレーション "wikilink")が開発し、[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")にリリースされた[アーケード用縦スクロール](../Page/アーケードゲーム.md "wikilink")[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")\[1\]\[2\]。
+『**究極タイガーII**』（きゅうきょくタイガーツー、**Twin Cobra II**）は、[タクミコーポレーション](../Page/タクミコーポレーション.md "wikilink")が開発し、[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")にリリースされた[アーケード用縦スクロール](../Page/アーケードゲーム.md "wikilink")[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")\[1\]\[2\]。
 
 [東亜プラン](../Page/東亜プラン.md "wikilink")が製作した『[究極タイガー](../Page/究極タイガー.md "wikilink")』の続編。東亜プランより一部のスタッフが移ったタクミコーポレーションが権利を引き継ぐ形で製作した。
 
 ## ゲームのルール
 
-8方向レバー、2ボタン（ショット、[ボム](https://ja.wikipedia.org/wiki/ボム_\(シューティングゲーム\) "wikilink")）でプレイヤーの[自機](../Page/自機.md "wikilink")（1Pは青、2Pは赤）を操作する。 パイロットは1P側が男性、2P側が女性となる。
+8方向レバー、2ボタン（ショット、[ボム](../Page/ボム_\(シューティングゲーム\).md "wikilink")）でプレイヤーの[自機](../Page/自機.md "wikilink")（1Pは青、2Pは赤）を操作する。 パイロットは1P側が男性、2P側が女性となる。
 
 ## アイテム
 
@@ -57,7 +57,7 @@
 
 ## 関連作品
 
-  - 『[タイガーヘリ](https://ja.wikipedia.org/wiki/タイガーヘリ "wikilink")』（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink") タイトー）
+  - 『[タイガーヘリ](../Page/タイガーヘリ.md "wikilink")』（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink") タイトー）
     前々作。
   - 『[究極タイガー](../Page/究極タイガー.md "wikilink")』（1987年 タイトー）
     前作の日本版。1人プレイでは1ミスすると一定地点まで戻される。

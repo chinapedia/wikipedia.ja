@@ -1,7 +1,7 @@
 > この記事は[Tha F.Q\'s Style](https://ja.wikipedia.org/wiki/Tha_F.Q\'s_Style)から翻訳されています。
 
 
-「**Tha F.Q's Style**」（ザ・エフキューズ・スタイル）は、ボーカルユニット[Foxxi misQが](https://ja.wikipedia.org/wiki/Foxxi_misQ "wikilink")[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月19日](../Page/7月19日.md "wikilink")にリリースしたデビューシングル。
+「**Tha F.Q's Style**」（ザ・エフキューズ・スタイル）は、ボーカルユニット[Foxxi misQが](https://ja.wikipedia.org/wiki/Foxxi_misQ "wikilink")[2006年](../Page/2006年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink")にリリースしたデビューシングル。
 
 ## 解説
 
@@ -17,9 +17,9 @@
 
 1.  Tha F.Q's Style -feat.JiN-
       -
-        （作詞:[Nao'ymt](../Page/Nao'ymt.md "wikilink") 作曲:[Face 2 fAKE](https://ja.wikipedia.org/wiki/Face_2_fAKE "wikilink") ）
+        （作詞:[Nao'ymt](../Page/Nao'ymt.md "wikilink") 作曲:[Face 2 fAKE](../Page/Face_2_fAKE.md "wikilink") ）
         [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「[ダウンタウンDX](https://ja.wikipedia.org/wiki/ダウンタウンDX "wikilink")」2006年8月～9月度のエンディングテーマ
-        日本テレビ系「[歌スタ\!\!](https://ja.wikipedia.org/wiki/歌スタ!! "wikilink")」7月のお題歌
+        日本テレビ系「[歌スタ\!\!](../Page/歌スタ!!.md "wikilink")」7月のお題歌
         「2006 SKECHERS TVCF」イメージソング
 2.  Tha F.Q's Style （Instrumental）
 3.  Tha F.Q's Style （Tarot\&Tommy Wada Mix）

@@ -11,7 +11,7 @@
 
 ### ラヂコネ・ミーティング
 
-ある[テーマ](https://ja.wikipedia.org/wiki/テーマ "wikilink")にちなんだ[メール](https://ja.wikipedia.org/wiki/メール "wikilink")を[リスナー](https://ja.wikipedia.org/wiki/リスナー "wikilink")が送るコーナー。大賞になると、サインつきのステッカーなどをプレゼントされる。
+ある[テーマ](https://ja.wikipedia.org/wiki/テーマ "wikilink")にちなんだ[メール](https://ja.wikipedia.org/wiki/メール "wikilink")を[リスナー](../Page/リスナー.md "wikilink")が送るコーナー。大賞になると、サインつきのステッカーなどをプレゼントされる。
 
 ### ラヂコネ・ミーティングテーマ
 

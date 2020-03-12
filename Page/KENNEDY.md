@@ -9,7 +9,7 @@
 
 -----
 
-**KENNEDY**（ケネディ）は1985年に[泉陸奥彦](https://ja.wikipedia.org/wiki/泉陸奥彦 "wikilink")を中心に結成された、[プログレッシブ・ロック](../Page/プログレッシブ・ロック.md "wikilink")バンドである。
+**KENNEDY**（ケネディ）は1985年に[泉陸奥彦](../Page/泉陸奥彦.md "wikilink")を中心に結成された、[プログレッシブ・ロック](../Page/プログレッシブ・ロック.md "wikilink")バンドである。
 
 ## 歴史
 
@@ -31,7 +31,7 @@
 
 ### 1stアルバム参加メンバー
 
-  - [泉陸奥彦](https://ja.wikipedia.org/wiki/泉陸奥彦 "wikilink")/ギター、シンセサイザー、コンピューター
+  - [泉陸奥彦](../Page/泉陸奥彦.md "wikilink")/ギター、シンセサイザー、コンピューター
   - 伊藤宏二/サックス
   - 宇佐見斉/ドラム
   - 北岡敦(JuJu北岡)/キーボード
@@ -41,14 +41,14 @@
 
 ### 2ndアルバム参加メンバー
 
-  - [泉陸奥彦](https://ja.wikipedia.org/wiki/泉陸奥彦 "wikilink")/ギター
+  - [泉陸奥彦](../Page/泉陸奥彦.md "wikilink")/ギター
   - 伊藤宏二/サックス、キーボード
   - [安田隆](https://ja.wikipedia.org/wiki/安田隆_\(セラピスト\) "wikilink")/ドラム
   - 北岡敦(JuJu北岡)/キーボード
 
 ### 3rdアルバム参加メンバー
 
-  - [泉陸奥彦](https://ja.wikipedia.org/wiki/泉陸奥彦 "wikilink")/ギター
+  - [泉陸奥彦](../Page/泉陸奥彦.md "wikilink")/ギター
   - [安田隆](https://ja.wikipedia.org/wiki/安田隆_\(セラピスト\) "wikilink")/ドラム
   - Wolli/キーボード
 

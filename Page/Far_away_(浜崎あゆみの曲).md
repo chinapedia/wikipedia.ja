@@ -7,11 +7,11 @@
 
 シングルとしては前作「[vogue](https://ja.wikipedia.org/wiki/vogue_\(浜崎あゆみの曲\) "wikilink")」より、約1ヶ月ぶりとなる。前作「vogue」と、次作「[SEASONS](../Page/SEASONS_\(浜崎あゆみの曲\).md "wikilink")」とともに、「絶望3部作」と呼ばれたシングル3部作の2作目にあたるシングルで\[2\]、累計51.0万枚を売り上げた\[3\]。
 
-作曲は[菊池一仁](https://ja.wikipedia.org/wiki/菊池一仁 "wikilink")と[D・A・I](https://ja.wikipedia.org/wiki/D・A・I "wikilink")の共作であるが、本来は前年の浜崎の誕生日に2人が贈った楽曲であったという\[4\]。
+作曲は[菊池一仁](../Page/菊池一仁.md "wikilink")と[D・A・I](https://ja.wikipedia.org/wiki/D・A・I "wikilink")の共作であるが、本来は前年の浜崎の誕生日に2人が贈った楽曲であったという\[4\]。
 
 楽曲自体は、2000年[3月29日](../Page/3月29日.md "wikilink")発売の[リミックス](../Page/リミックス.md "wikilink")アルバム『[ayu-mi-x II version Non-Stop Mega Mix](https://ja.wikipedia.org/wiki/ayu-mi-x_II#ayu-mi-x_II_version_Non-Stop_Mega_Mix "wikilink")』のDISC2にて、この曲のリミックスが発表されていた。
 
-2000年[7月12日](../Page/7月12日.md "wikilink")に、3部作の[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")等を収めた「[Vogue Far away SEASONS](https://ja.wikipedia.org/wiki/Vogue_Far_away_SEASONS "wikilink")」が発売された。
+2000年[7月12日](../Page/7月12日.md "wikilink")に、3部作の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")等を収めた「[Vogue Far away SEASONS](https://ja.wikipedia.org/wiki/Vogue_Far_away_SEASONS "wikilink")」が発売された。
 
 [日本音楽著作権協会](../Page/日本音楽著作権協会.md "wikilink")（JASRAC）の著作権使用料分配額（国内作品）ランキングでは、[2000年](../Page/2000年.md "wikilink")度の年間4位\[5\]を獲得した。
 
@@ -19,12 +19,12 @@
 
 ### CD
 
-全曲[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：ayumi hamasaki
+全曲[作詞](../Page/作詞.md "wikilink")：ayumi hamasaki
 
 1.  **Far away "Original Mix"**
       -
-        [作曲](../Page/作曲.md "wikilink")：[Kazuhito Kikuchi](https://ja.wikipedia.org/wiki/菊池一仁 "wikilink")、[D・A・I](https://ja.wikipedia.org/wiki/長尾大 "wikilink") / [編曲](../Page/編曲.md "wikilink")：[HΛL](https://ja.wikipedia.org/wiki/HΛL "wikilink")
-        [ツーカー](../Page/ツーカー.md "wikilink")セルラー東京・東海[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
+        [作曲](../Page/作曲.md "wikilink")：[Kazuhito Kikuchi](../Page/菊池一仁.md "wikilink")、[D・A・I](../Page/長尾大.md "wikilink") / [編曲](../Page/編曲.md "wikilink")：[HΛL](../Page/HΛL.md "wikilink")
+        [ツーカー](../Page/ツーカー.md "wikilink")セルラー東京・東海[CMソング](../Page/コマーシャルソング.md "wikilink")
 2.  **Far away "CRAFTY Remix"**
 3.  **Far away "Main Radio Mix"**
 4.  **[appears](https://ja.wikipedia.org/wiki/appears "wikilink") "Junior's Club Mix"**

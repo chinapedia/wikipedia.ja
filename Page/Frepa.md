@@ -1,7 +1,7 @@
 > この記事は[Frepa](https://ja.wikipedia.org/wiki/Frepa)から翻訳されています。
 
 
-**frepa**（フレパ）は、かつて[ライブドア](https://ja.wikipedia.org/wiki/ライブドア "wikilink")が運営・管理していた[ソーシャル・ネットワーキング・サービス](https://ja.wikipedia.org/wiki/ソーシャル・ネットワーキング・サービス "wikilink")の名称。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink")にlivedoor フレンドパークとしてベータ版公開\[1\]。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[11月25日](../Page/11月25日.md "wikilink")をもって「frepa」のすべてのサービスの提供を終了した。
+**frepa**（フレパ）は、かつて[ライブドア](../Page/ライブドア.md "wikilink")が運営・管理していた[ソーシャル・ネットワーキング・サービス](../Page/ソーシャル・ネットワーキング・サービス.md "wikilink")の名称。[2005年](../Page/2005年.md "wikilink")[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink")にlivedoor フレンドパークとしてベータ版公開\[1\]。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[11月25日](../Page/11月25日.md "wikilink")をもって「frepa」のすべてのサービスの提供を終了した。
 
 ## 特徴
 
@@ -13,8 +13,8 @@
 
 ## 関連項目
 
-  - [ライブドア](https://ja.wikipedia.org/wiki/ライブドア "wikilink")
-  - [ソーシャル・ネットワーキング・サービス](https://ja.wikipedia.org/wiki/ソーシャル・ネットワーキング・サービス "wikilink")
+  - [ライブドア](../Page/ライブドア.md "wikilink")
+  - [ソーシャル・ネットワーキング・サービス](../Page/ソーシャル・ネットワーキング・サービス.md "wikilink")
   - [nowa](https://ja.wikipedia.org/wiki/nowa "wikilink")
 
 ## 脚注

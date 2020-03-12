@@ -6,7 +6,7 @@
 ## 概要
 
   - [保田圭](https://ja.wikipedia.org/wiki/保田圭 "wikilink")在籍最後のシングル。『[ハロー\!モーニング。](../Page/ハロー!モーニング。.md "wikilink")』（[2003年](../Page/2003年.md "wikilink")[5月11日](../Page/5月11日.md "wikilink")[放送](../Page/放送.md "wikilink")）での新曲披露では、[保田圭](https://ja.wikipedia.org/wiki/保田圭 "wikilink")[卒業](../Page/卒業.md "wikilink")企画の一環として、[カメラ](../Page/カメラ.md "wikilink")が1曲まるまる保田だけを追い駆けるバージョンが放送された。
-  - 本作を最後に「女性グループ[シングルCD](https://ja.wikipedia.org/wiki/シングルCD "wikilink")[オリコン](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位連続年」の記録が途絶えた。次にオリコン1位になったのは約3年半後にリリースされた「[歩いてる](https://ja.wikipedia.org/wiki/歩いてる_\(モーニング娘。の曲\) "wikilink")」である。また今作を最後に2週連続でのTOP10入りからも遠ざかっている。
+  - 本作を最後に「女性グループ[シングルCD](https://ja.wikipedia.org/wiki/シングルCD "wikilink")[オリコン](../Page/オリコンチャート.md "wikilink")1位連続年」の記録が途絶えた。次にオリコン1位になったのは約3年半後にリリースされた「[歩いてる](https://ja.wikipedia.org/wiki/歩いてる_\(モーニング娘。の曲\) "wikilink")」である。また今作を最後に2週連続でのTOP10入りからも遠ざかっている。
   - 前曲の『[モーニング娘。のひょっこりひょうたん島](https://ja.wikipedia.org/wiki/モーニング娘。のひょっこりひょうたん島 "wikilink")』に引き続き6期メンバーは参加していない。
 
 ## 収録曲
@@ -17,13 +17,13 @@
       -
         [編曲](../Page/編曲.md "wikilink")：[鈴木Daichi秀行](../Page/鈴木Daichi秀行.md "wikilink")
     <!-- end list -->
-      - [シルク・ドゥ・ソレイユ](https://ja.wikipedia.org/wiki/シルク・ドゥ・ソレイユ "wikilink")が演じた『キダム2003』のイメージソング。
+      - [シルク・ドゥ・ソレイユ](../Page/シルク・ドゥ・ソレイユ.md "wikilink")が演じた『キダム2003』のイメージソング。
       - 冒頭のセリフは[加護亜依](../Page/加護亜依.md "wikilink")による。[フルート](../Page/フルート.md "wikilink")の音色が使われており、2番後の間奏にはソロもある。つんく♂曰く「どうしてもイントロにギリシャ楽器をいれたくて出来あがった曲」で、イントロや1番後の間奏、Aメロのフレーズに取り入れられている。
 2.  **Never Forget (Rock ver.)**
       -
         編曲：[小西貴雄](../Page/小西貴雄.md "wikilink")、[酒井ミキオ](../Page/酒井ミキオ.md "wikilink")
     <!-- end list -->
-      - 「[Memory 青春の光](../Page/Memory_青春の光.md "wikilink")」の[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")のリメイク（[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")）。原曲は当時卒業を控えていた[福田明日香](../Page/福田明日香.md "wikilink")がメインボーカルを務めていたが、今回は本作で卒業する保田がメインボーカル（ほとんどソロ）を務めた。アレンジはサブタイトルにあるように[ロック色を強めたもので](../Page/ロック_\(音楽\).md "wikilink")、原曲より[テンポ](../Page/テンポ.md "wikilink")が上がっている。
+      - 「[Memory 青春の光](../Page/Memory_青春の光.md "wikilink")」の[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")のリメイク（[セルフカバー](../Page/セルフカバー.md "wikilink")）。原曲は当時卒業を控えていた[福田明日香](../Page/福田明日香.md "wikilink")がメインボーカルを務めていたが、今回は本作で卒業する保田がメインボーカル（ほとんどソロ）を務めた。アレンジはサブタイトルにあるように[ロック色を強めたもので](../Page/ロック_\(音楽\).md "wikilink")、原曲より[テンポ](../Page/テンポ.md "wikilink")が上がっている。
 3.  AS FOR ONE DAY (Instrumental)
 
 ## 参加メンバー
@@ -35,7 +35,7 @@
 
 ## 参加ミュージシャン
 
-  - 鈴木Daichi秀行 - [プログラミング](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")&[ギター](../Page/ギター.md "wikilink")(1)
+  - 鈴木Daichi秀行 - [プログラミング](../Page/ミュージックシーケンサー.md "wikilink")&[ギター](../Page/ギター.md "wikilink")(1)
   - 弦一徹 - [ストリングス](../Page/弦楽器.md "wikilink")(1)
   - 井上信平 - [フルート](../Page/フルート.md "wikilink")(1)
   - 酒井ミキオ - プログラミング&ギター(2)

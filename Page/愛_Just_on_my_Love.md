@@ -7,7 +7,7 @@
 
 ベース担当の[しゅう](../Page/しゅう.md "wikilink")在籍最後のシングルで、表題曲は、[TBS系アニメ](../Page/TBSテレビ.md "wikilink")『[魔術士オーフェン](../Page/魔術士オーフェン_\(アニメ\).md "wikilink")』前期オープニングテーマ。
 
-作詞・作曲・プロデュースを手がけた[つんく](https://ja.wikipedia.org/wiki/つんく "wikilink")（ボーカル）の提案により、[夏まゆみ](https://ja.wikipedia.org/wiki/夏まゆみ "wikilink")の振り付けによるダンスを取り入れた。
+作詞・作曲・プロデュースを手がけた[つんく](https://ja.wikipedia.org/wiki/つんく "wikilink")（ボーカル）の提案により、[夏まゆみ](../Page/夏まゆみ.md "wikilink")の振り付けによるダンスを取り入れた。
 
 ## 収録曲
 

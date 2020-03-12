@@ -1,17 +1,17 @@
 > この記事は[SPIRIT \(PAMELAH\)](https://ja.wikipedia.org/wiki/SPIRIT_\(PAMELAH\))から翻訳されています。
 
 
-「**SPIRIT**」（スピリット）は、[PAMELAH](https://ja.wikipedia.org/wiki/PAMELAH "wikilink")の7枚目のシングル。
+「**SPIRIT**」（スピリット）は、[PAMELAH](../Page/PAMELAH.md "wikilink")の7枚目のシングル。
 
 ## 概要
 
-表題曲は、[テレビ朝日](../Page/テレビ朝日.md "wikilink")系アニメ『[地獄先生ぬ〜べ〜](https://ja.wikipedia.org/wiki/地獄先生ぬ〜べ〜 "wikilink")』第2期エンディングテーマ。PAMELAHのシングルでは自己最高のセールスを記録。
+表題曲は、[テレビ朝日](../Page/テレビ朝日.md "wikilink")系アニメ『[地獄先生ぬ〜べ〜](../Page/地獄先生ぬ〜べ〜.md "wikilink")』第2期エンディングテーマ。PAMELAHのシングルでは自己最高のセールスを記録。
 
 ## 収録曲
 
 1.  **SPIRIT**
       -
-        作詞：[水原由貴](https://ja.wikipedia.org/wiki/水原由貴 "wikilink")　作曲･編曲：[小澤正澄](../Page/小澤正澄.md "wikilink")
+        作詞：[水原由貴](../Page/水原由貴.md "wikilink")　作曲･編曲：[小澤正澄](../Page/小澤正澄.md "wikilink")
 2.  **Baby come back to me\!**
       -
         作詞：水原由貴　作曲･編曲：小澤正澄

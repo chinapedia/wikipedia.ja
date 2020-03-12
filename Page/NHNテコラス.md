@@ -1,11 +1,11 @@
 > この記事は[NHN](https://ja.wikipedia.org/wiki/NHN)から翻訳されています。
 
 
-**NHNテコラス株式会社**（*NHN Techorus Corp.*）は、[韓国のエンターテインメント企業NHN](../Page/大韓民国.md "wikilink") Entertainmentの[日本法人](https://ja.wikipedia.org/wiki/日本法人 "wikilink")、[NHN JAPANの完全子会社で](../Page/NHN_JAPAN.md "wikilink")[インターネットデータセンター](https://ja.wikipedia.org/wiki/インターネットデータセンター "wikilink")およびセキュリティ事業などのインターネットサービスを提供する企業である。
+**NHNテコラス株式会社**（*NHN Techorus Corp.*）は、[韓国のエンターテインメント企業NHN](../Page/大韓民国.md "wikilink") Entertainmentの[日本法人](https://ja.wikipedia.org/wiki/日本法人 "wikilink")、[NHN JAPANの完全子会社で](../Page/NHN_JAPAN.md "wikilink")[インターネットデータセンター](../Page/インターネットデータセンター.md "wikilink")およびセキュリティ事業などのインターネットサービスを提供する企業である。
 
 ## 概要
 
-2000年に[堀江貴文](https://ja.wikipedia.org/wiki/堀江貴文 "wikilink")率いる[オン・ザ・エッヂ](../Page/LDH_\(持株会社\).md "wikilink")（後の[ライブドア](https://ja.wikipedia.org/wiki/ライブドア "wikilink")）が「データホテル」の名称でデータセンター事業を開始。2007年に持株会社移行に伴い新設されたライブドアに移管、2010年に[韓国](../Page/大韓民国.md "wikilink")[NHN](https://ja.wikipedia.org/wiki/NHN "wikilink")の日本法人である[NHN Japan](https://ja.wikipedia.org/wiki/NHN_PlayArt "wikilink")（現：[LINE株式会社](https://ja.wikipedia.org/wiki/LINE_\(企業\) "wikilink")）の傘下となる。2012年1月にライブドアのコンテンツ事業がNHN Japanに移譲され、通信関連事業が残ったライブドアは同時に株式会社データホテルに社名変更した。
+2000年に[堀江貴文](../Page/堀江貴文.md "wikilink")率いる[オン・ザ・エッヂ](../Page/LDH_\(持株会社\).md "wikilink")（後の[ライブドア](../Page/ライブドア.md "wikilink")）が「データホテル」の名称でデータセンター事業を開始。2007年に持株会社移行に伴い新設されたライブドアに移管、2010年に[韓国](../Page/大韓民国.md "wikilink")[NHN](https://ja.wikipedia.org/wiki/NHN "wikilink")の日本法人である[NHN Japan](https://ja.wikipedia.org/wiki/NHN_PlayArt "wikilink")（現：[LINE株式会社](https://ja.wikipedia.org/wiki/LINE_\(企業\) "wikilink")）の傘下となる。2012年1月にライブドアのコンテンツ事業がNHN Japanに移譲され、通信関連事業が残ったライブドアは同時に株式会社データホテルに社名変更した。
 
 2012年10月9日、本社を[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")[西新宿](../Page/西新宿.md "wikilink")の[住友不動産西新宿ビル](https://ja.wikipedia.org/wiki/住友不動産西新宿ビル "wikilink")から、[東新宿駅](https://ja.wikipedia.org/wiki/東新宿駅 "wikilink")に直結する[新宿イーストサイドスクエア](https://ja.wikipedia.org/wiki/新宿イーストサイドスクエア "wikilink")に移転\[1\]。
 
@@ -27,7 +27,7 @@
 
 ## 関連項目
 
-  - [ライブドア](https://ja.wikipedia.org/wiki/ライブドア "wikilink")
+  - [ライブドア](../Page/ライブドア.md "wikilink")
   - [livedoor Wireless](https://ja.wikipedia.org/wiki/livedoor_Wireless "wikilink")
 
 ## 所属団体

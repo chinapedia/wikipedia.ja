@@ -1,7 +1,7 @@
 > この記事は[3BV](https://ja.wikipedia.org/wiki/3BV)から翻訳されています。
 
 
-**3BV**は「Bechtel's Board Benchmark Value」を省略したものである。これは[マインスイーパ](https://ja.wikipedia.org/wiki/マインスイーパ "wikilink")というコンピューターゲームの盤面の難易度を定義するための手段である。この記事を理解するにはマインスイーパのルールを知っておくと便利である。
+**3BV**は「Bechtel's Board Benchmark Value」を省略したものである。これは[マインスイーパ](../Page/マインスイーパ.md "wikilink")というコンピューターゲームの盤面の難易度を定義するための手段である。この記事を理解するにはマインスイーパのルールを知っておくと便利である。
 
 ## 歴史
 

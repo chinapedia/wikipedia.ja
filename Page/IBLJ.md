@@ -1,15 +1,15 @@
 > この記事は[IBLJ](https://ja.wikipedia.org/wiki/IBLJ)から翻訳されています。
 
 
-**株式会社IBLJ**は、[プロ野球](../Page/プロ野球.md "wikilink")[独立リーグ](https://ja.wikipedia.org/wiki/独立リーグ "wikilink")の[四国アイランドリーグplus](https://ja.wikipedia.org/wiki/四国アイランドリーグplus "wikilink")を運営する企業である。 IBLJは、**I**ndependent **B**aseball **L**eague of **J**apanの略。この言葉を日本語に直すと「日本独立野球リーグ」となるが、[江本孟紀](../Page/江本孟紀.md "wikilink")らが発足を企図していた[日本独立リーグ](https://ja.wikipedia.org/wiki/日本独立リーグ "wikilink")とは関係がない。
+**株式会社IBLJ**は、[プロ野球](../Page/プロ野球.md "wikilink")[独立リーグ](../Page/独立リーグ.md "wikilink")の[四国アイランドリーグplus](../Page/四国アイランドリーグplus.md "wikilink")を運営する企業である。 IBLJは、**I**ndependent **B**aseball **L**eague of **J**apanの略。この言葉を日本語に直すと「日本独立野球リーグ」となるが、[江本孟紀](../Page/江本孟紀.md "wikilink")らが発足を企図していた[日本独立リーグ](../Page/日本独立リーグ.md "wikilink")とは関係がない。
 
-リーグ発足の[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")までは、すべてのチーム、首脳陣、選手がIBLJの下にあり、IBLJが選手の配分等を決めていたが、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")シーズンからは各チームを独立した法人（社名は○○（チーム名）球団株式会社。例：香川オリーブガイナーズ球団株式会社）とし、独立採算制を採るようになった\[1\]。
+リーグ発足の[2005年](../Page/2005年.md "wikilink")までは、すべてのチーム、首脳陣、選手がIBLJの下にあり、IBLJが選手の配分等を決めていたが、[2006年](../Page/2006年.md "wikilink")シーズンからは各チームを独立した法人（社名は○○（チーム名）球団株式会社。例：香川オリーブガイナーズ球団株式会社）とし、独立採算制を採るようになった\[1\]。
 
 ## 沿革
 
-[2004年](../Page/2004年.md "wikilink")に元[プロ野球選手](../Page/プロ野球選手.md "wikilink")の[石毛宏典](../Page/石毛宏典.md "wikilink")によって設立された。リーグ発足後、経営難の際に支援を行った出資者側に運営の主導権が移り、[2007年](../Page/2007年.md "wikilink")3月に石毛は社長を退任してコミッショナーに就任、出資者の一人である[鍵山誠](https://ja.wikipedia.org/wiki/鍵山誠 "wikilink")が社長となった。さらに同年12月末のコミッショナー契約満了をもって石毛はコミッショナーを退任し、自らが創設したリーグ全体の運営からは完全に離れた。ただし石毛は現在も株主で、2008年1月からはリーグ内の[愛媛マンダリンパイレーツ](https://ja.wikipedia.org/wiki/愛媛マンダリンパイレーツ "wikilink")のシニア・チームアドバイザーに就任している。
+[2004年](../Page/2004年.md "wikilink")に元[プロ野球選手](../Page/プロ野球選手.md "wikilink")の[石毛宏典](../Page/石毛宏典.md "wikilink")によって設立された。リーグ発足後、経営難の際に支援を行った出資者側に運営の主導権が移り、[2007年](../Page/2007年.md "wikilink")3月に石毛は社長を退任してコミッショナーに就任、出資者の一人である[鍵山誠](https://ja.wikipedia.org/wiki/鍵山誠 "wikilink")が社長となった。さらに同年12月末のコミッショナー契約満了をもって石毛はコミッショナーを退任し、自らが創設したリーグ全体の運営からは完全に離れた。ただし石毛は現在も株主で、2008年1月からはリーグ内の[愛媛マンダリンパイレーツ](../Page/愛媛マンダリンパイレーツ.md "wikilink")のシニア・チームアドバイザーに就任している。
 
-  - 2004年4月23日 - 設立。当時は[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[目黒区](https://ja.wikipedia.org/wiki/目黒区 "wikilink")に所在していた。
+  - 2004年4月23日 - 設立。当時は[東京都](../Page/東京都.md "wikilink")[目黒区](https://ja.wikipedia.org/wiki/目黒区 "wikilink")に所在していた。
   - 2005年6月1日 - 高松市[扇町に運営事務局を移転](https://ja.wikipedia.org/wiki/扇町_\(高松市\) "wikilink")。
   - 2006年8月1日 - 登記上本店も高松市に移転。
   - 2007年3月10日 - 石毛宏典が社長を退任し、コミッショナー専任となる。かわって専務の鍵山誠が社長就任。
@@ -30,17 +30,17 @@
 
 ## 株主
 
-  - [セイア](https://ja.wikipedia.org/wiki/セイア "wikilink")
+  - [セイア](../Page/セイア.md "wikilink")
   - [石毛宏典](../Page/石毛宏典.md "wikilink")
   - [S.R.D](https://ja.wikipedia.org/wiki/S.R.D "wikilink")
   - [データスタジアム](https://ja.wikipedia.org/wiki/データスタジアム "wikilink")
   - [星企画](https://ja.wikipedia.org/wiki/星企画 "wikilink")
   - [フラワーマウンテン](https://ja.wikipedia.org/wiki/フラワーマウンテン "wikilink")
   - [セーラー広告](../Page/セーラー広告.md "wikilink")
-  - [帝國製薬](https://ja.wikipedia.org/wiki/帝國製薬 "wikilink")
+  - [帝國製薬](../Page/帝國製薬.md "wikilink")
   - [松浦開発興行](https://ja.wikipedia.org/wiki/松浦開発興行 "wikilink")
   - [四国電力](https://ja.wikipedia.org/wiki/四国電力 "wikilink")
-  - [四国旅客鉄道](https://ja.wikipedia.org/wiki/四国旅客鉄道 "wikilink")
+  - [四国旅客鉄道](../Page/四国旅客鉄道.md "wikilink")
   - [岡山放送](../Page/岡山放送.md "wikilink")
   - [ユーセイ・ホールディングス](https://ja.wikipedia.org/wiki/ユーセイ・ホールディングス "wikilink")
 

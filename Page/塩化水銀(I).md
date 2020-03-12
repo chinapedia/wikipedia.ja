@@ -1,11 +1,11 @@
 > この記事は[\(I\)](https://ja.wikipedia.org/wiki/\(I\))から翻訳されています。
 
 
-**塩化水銀(I)**（えんかすいぎん いち、calomel）は、[水銀](../Page/水銀.md "wikilink")の[塩化物](https://ja.wikipedia.org/wiki/塩化物 "wikilink")の1つ。水銀の塩化物である[塩化水銀](https://ja.wikipedia.org/wiki/塩化水銀 "wikilink")は2種類あり、もう1つは[塩化水銀(II)](https://ja.wikipedia.org/wiki/塩化水銀\(II\) "wikilink") である。Hg<sub>2</sub>Cl<sub>2</sub> という組成をもち、**塩化第一水銀**（えんかだいいちすいぎん）、**甘汞**（かんこう）、**カロメル**とも言う。水銀原子同士が[共有結合](../Page/共有結合.md "wikilink")により結合しているため HgCl とは表記しない。
+**塩化水銀(I)**（えんかすいぎん いち、calomel）は、[水銀](../Page/水銀.md "wikilink")の[塩化物](../Page/塩化物.md "wikilink")の1つ。水銀の塩化物である[塩化水銀](https://ja.wikipedia.org/wiki/塩化水銀 "wikilink")は2種類あり、もう1つは[塩化水銀(II)](../Page/塩化水銀\(II\).md "wikilink") である。Hg<sub>2</sub>Cl<sub>2</sub> という組成をもち、**塩化第一水銀**（えんかだいいちすいぎん）、**甘汞**（かんこう）、**カロメル**とも言う。水銀原子同士が[共有結合](../Page/共有結合.md "wikilink")により結合しているため HgCl とは表記しない。
 
 ## 性質
 
-光に当たると塩化水銀(II) と金属水銀に分解する。[毒性](https://ja.wikipedia.org/wiki/毒性 "wikilink")は塩化水銀(II)よりは弱いが、[毒物および劇物取締法](https://ja.wikipedia.org/wiki/毒物および劇物取締法 "wikilink")で劇物に指定されている。白色またはやや黄ばんだ白色をしていて[水](../Page/水.md "wikilink")には溶けにくい。
+光に当たると塩化水銀(II) と金属水銀に分解する。[毒性](../Page/毒性.md "wikilink")は塩化水銀(II)よりは弱いが、[毒物および劇物取締法](https://ja.wikipedia.org/wiki/毒物および劇物取締法 "wikilink")で劇物に指定されている。白色またはやや黄ばんだ白色をしていて[水](../Page/水.md "wikilink")には溶けにくい。
 
 [アンモニア水](https://ja.wikipedia.org/wiki/アンモニア水 "wikilink")と反応すると黒色に変わる。[反応式](https://ja.wikipedia.org/wiki/反応式 "wikilink")は次の通りである。
 

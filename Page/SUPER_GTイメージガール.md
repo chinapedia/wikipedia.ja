@@ -1,7 +1,7 @@
 > この記事は[SUPER GT](https://ja.wikipedia.org/wiki/SUPER_GT)から翻訳されています。
 
 
-**SUPER GTイメージガール**（スーパージーティーイメージガール）、旧称・**JGTCイメージガール**は、[SUPER GT](https://ja.wikipedia.org/wiki/SUPER_GT "wikilink")（旧[全日本GT選手権](https://ja.wikipedia.org/wiki/全日本GT選手権 "wikilink") (JGTC) ）のPR活動を行っている[イメージガールの名称である](https://ja.wikipedia.org/wiki/キャンペーンガール "wikilink")。グループ数は4人（2010年は8人、2013年は3人）。
+**SUPER GTイメージガール**（スーパージーティーイメージガール）、旧称・**JGTCイメージガール**は、[SUPER GT](https://ja.wikipedia.org/wiki/SUPER_GT "wikilink")（旧[全日本GT選手権](https://ja.wikipedia.org/wiki/全日本GT選手権 "wikilink") (JGTC) ）のPR活動を行っている[イメージガールの名称である](../Page/キャンペーンガール.md "wikilink")。グループ数は4人（2010年は8人、2013年は3人）。
 
 ## 概要
 
@@ -17,7 +17,7 @@
 
 ### 1999年「PASSION」（パッション）
 
-  - [山口五和](https://ja.wikipedia.org/wiki/山口五和 "wikilink")
+  - [山口五和](../Page/山口五和.md "wikilink")
   - 大川伸子
   - 越田仁美
   - 山中百合子
@@ -31,7 +31,7 @@
   - [原田梢](https://ja.wikipedia.org/wiki/原田梢 "wikilink")
   - [真崎麻衣](https://ja.wikipedia.org/wiki/真崎麻衣 "wikilink")
 
-※山口以外メンバーチェンジ。この年にGTの冠スポンサーである[AUTOBACSのロゴと](https://ja.wikipedia.org/wiki/オートバックスセブン "wikilink")、レコード会社エイベックスのロゴが現在のものに変更された。
+※山口以外メンバーチェンジ。この年にGTの冠スポンサーである[AUTOBACSのロゴと](../Page/オートバックスセブン.md "wikilink")、レコード会社エイベックスのロゴが現在のものに変更された。
 
 ### 2001年「PASSION」
 
@@ -45,9 +45,9 @@
 ### 2002年「wi☆th」（ウィズ）
 
   - [若槻千夏](https://ja.wikipedia.org/wiki/若槻千夏 "wikilink")
-  - [伊織](https://ja.wikipedia.org/wiki/伊織 "wikilink")
+  - [伊織](../Page/伊織.md "wikilink")
   - 高杉さとみ（現：[高杉さと美](../Page/高杉さと美.md "wikilink")）
-  - [星野加奈](https://ja.wikipedia.org/wiki/星野加奈 "wikilink")
+  - [星野加奈](../Page/星野加奈.md "wikilink")
 
 ※当時の[プラチナムプロダクション](../Page/プラチナムプロダクション.md "wikilink")所属者で構成。ユニット名は4人の頭文字（若槻= **w**、伊織= **i**、高杉= **t**、星野= **h**）から取った。また、歴代ユニットで唯一シングル盤をリリースしている（曲名『[yourhythmix](https://ja.wikipedia.org/wiki/yourhythmix "wikilink")』）。
 
@@ -62,10 +62,10 @@
 
 ### 2004年「vivace」（ヴィヴァーチェ）
 
-  - [福田淳子](https://ja.wikipedia.org/wiki/福田淳子 "wikilink")
-  - [渋谷千賀](https://ja.wikipedia.org/wiki/渋谷千賀 "wikilink")
-  - [福愛美](https://ja.wikipedia.org/wiki/福愛美 "wikilink")
-  - [番ことみ](https://ja.wikipedia.org/wiki/番ことみ "wikilink")
+  - [福田淳子](../Page/福田淳子.md "wikilink")
+  - [渋谷千賀](../Page/渋谷千賀.md "wikilink")
+  - [福愛美](../Page/福愛美.md "wikilink")
+  - [番ことみ](../Page/番ことみ.md "wikilink")
 
 ※GT終了後にプラチナム所属の渋谷、福田、福の3人がvivace名義で活動を継続。また後にこの3名に源田マリナを加え、『[SHANADOO](https://ja.wikipedia.org/wiki/SHANADOO "wikilink")』としてドイツでのCDデビューを果たした。
 
@@ -80,26 +80,26 @@
 
 ### 2006年「4☆TUNE」（フォーチュン）
 
-  - [丸居沙矢香](https://ja.wikipedia.org/wiki/丸居沙矢香 "wikilink")
-  - [木口亜矢](https://ja.wikipedia.org/wiki/木口亜矢 "wikilink")
+  - [丸居沙矢香](../Page/丸居沙矢香.md "wikilink")
+  - [木口亜矢](../Page/木口亜矢.md "wikilink")
   - [菊地亜沙美](../Page/菊地亜沙美.md "wikilink")
   - 榎並沙知（現：[川村えな](https://ja.wikipedia.org/wiki/川村えな "wikilink")）
 
-※プラチナム3：[フェイスネットワーク](../Page/フェイスネットワーク.md "wikilink")1で構成。最年少メンバーだった榎並はその後“川村えな”と改名し現在も活動を続けている。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身メンバーがいない最初のイメージガールユニットでもある。
+※プラチナム3：[フェイスネットワーク](../Page/フェイスネットワーク.md "wikilink")1で構成。最年少メンバーだった榎並はその後“川村えな”と改名し現在も活動を続けている。[東京都](../Page/東京都.md "wikilink")出身メンバーがいない最初のイメージガールユニットでもある。
 
 ### 2007年「[Shiny](../Page/Shiny.md "wikilink")」（シャイニー）
 
-  - [鈴木礼央奈](https://ja.wikipedia.org/wiki/鈴木礼央奈 "wikilink")
+  - [鈴木礼央奈](../Page/鈴木礼央奈.md "wikilink")
   - [志摩夕里加](../Page/志摩夕里加.md "wikilink")
   - 佐藤里香（現：[さとう里香](../Page/さとう里香.md "wikilink")）
-  - [丹野友美](https://ja.wikipedia.org/wiki/丹野友美 "wikilink")
+  - [丹野友美](../Page/丹野友美.md "wikilink")
 
 ※この年の年末にプラチナム所属の鈴木、志摩、さとうの3人がShiny名義でライブを開催した（[「Shiny」のこの項も参照](https://ja.wikipedia.org/wiki/Shiny#エピソード "wikilink")）。さとうはこの3年後の2010年に[スーパー戦隊シリーズ](https://ja.wikipedia.org/wiki/スーパー戦隊シリーズ "wikilink")『[天装戦隊ゴセイジャー](https://ja.wikipedia.org/wiki/天装戦隊ゴセイジャー "wikilink")』に出演し話題となった。
 
 ### 2008年「[Airy](../Page/Airy.md "wikilink")」（エアリー）
 
   - [助川まりえ](../Page/助川まりえ.md "wikilink")
-  - [友稀サナ](https://ja.wikipedia.org/wiki/友稀サナ "wikilink")
+  - [友稀サナ](../Page/友稀サナ.md "wikilink")
   - [村岡沙耶香](../Page/村岡沙耶香.md "wikilink")
   - [ロペス貴子](https://ja.wikipedia.org/wiki/ロペス貴子 "wikilink")
 
@@ -112,7 +112,7 @@
   - [鈴木咲](https://ja.wikipedia.org/wiki/鈴木咲 "wikilink")
   - [永井麻央](https://ja.wikipedia.org/wiki/永井麻央 "wikilink")
 
-※プラチナム（鈴木、永井）、[ニューゲートプロダクション](https://ja.wikipedia.org/wiki/ニューゲートプロダクション "wikilink")（花木）、ホリプロ大阪（実）から選出。この年はイメージガール史上初めてユニット名公募が行われ、上記の名前となった。実は[HOP CLUBメンバーとして番以来](https://ja.wikipedia.org/wiki/HOP_CLUB "wikilink")2人目のGTイメージガールとなる。
+※プラチナム（鈴木、永井）、[ニューゲートプロダクション](https://ja.wikipedia.org/wiki/ニューゲートプロダクション "wikilink")（花木）、ホリプロ大阪（実）から選出。この年はイメージガール史上初めてユニット名公募が行われ、上記の名前となった。実は[HOP CLUBメンバーとして番以来](../Page/HOP_CLUB.md "wikilink")2人目のGTイメージガールとなる。
 
 ### 2010年「[G☆RACE](https://ja.wikipedia.org/wiki/G☆RACE "wikilink")」（グレース）
 
@@ -127,7 +127,7 @@
   - [山崎麻衣](https://ja.wikipedia.org/wiki/山崎麻衣 "wikilink")
   - [菜々緒](https://ja.wikipedia.org/wiki/菜々緒 "wikilink")
 
-※『P-ch\!』以来5年ぶりにプラチナムプロダクション所属者に統一された。同年[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink")の[東京オートサロン](https://ja.wikipedia.org/wiki/東京オートサロン "wikilink")開催中に発表が行われ、過去最多の8人が選出された。
+※『P-ch\!』以来5年ぶりにプラチナムプロダクション所属者に統一された。同年[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink")の[東京オートサロン](../Page/東京オートサロン.md "wikilink")開催中に発表が行われ、過去最多の8人が選出された。
 
 ### 2013年「[IA GIRL STARS](https://ja.wikipedia.org/wiki/IA_GIRL_STARS "wikilink")」（イア ガール スターズ）
 
@@ -135,7 +135,7 @@
   - [石原百恵](https://ja.wikipedia.org/wiki/石原百恵 "wikilink")
   - [高橋としみ](https://ja.wikipedia.org/wiki/高橋としみ "wikilink")
 
-※1st PLACEの[VOCALOID](../Page/VOCALOID.md "wikilink")「IA」とのコラボレーションによるSUPER GTオフィシャルサポーターズソング制作を機にイメージガールに起用された。「IA」を軸にしたクリエイター支援プロジェクト「IA PROJECT」によるもので、イメージガールとしては初起用だが、2012年には[SARDとのコラボレーションでレースクイーンとして参加している](https://ja.wikipedia.org/wiki/サード_\(企業\) "wikilink")\[2\]。当初は長田と石原の2人だったが、第2戦からは高橋が加わり3人体制となる。現時点で歴代のGTイメージガールとしては最少人数編成となっている。
+※1st PLACEの[VOCALOID](../Page/VOCALOID.md "wikilink")「IA」とのコラボレーションによるSUPER GTオフィシャルサポーターズソング制作を機にイメージガールに起用された。「IA」を軸にしたクリエイター支援プロジェクト「IA PROJECT」によるもので、イメージガールとしては初起用だが、2012年には[SARDとのコラボレーションでレースクイーンとして参加している](../Page/サード_\(企業\).md "wikilink")\[2\]。当初は長田と石原の2人だったが、第2戦からは高橋が加わり3人体制となる。現時点で歴代のGTイメージガールとしては最少人数編成となっている。
 
 ### 2014年「IA GIRL STARS」（イア ガール スターズ）
 
@@ -148,15 +148,15 @@
 
 ## SUPER GTマレーシアラウンドイメージガール
 
-[Sepang_tribune.jpg](https://ja.wikipedia.org/wiki/File:Sepang_tribune.jpg "fig:Sepang_tribune.jpg")）\]\] [Tokyo_Motor_Show_2009_(4058833558).jpg](https://ja.wikipedia.org/wiki/File:Tokyo_Motor_Show_2009_\(4058833558\).jpg "fig:Tokyo_Motor_Show_2009_(4058833558).jpg")2009にて）</small>\]\] [2013年まで毎年](https://ja.wikipedia.org/wiki/2013年のSUPER_GT "wikilink")6月中旬に行われていた[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")・[セパンサーキット戦では](https://ja.wikipedia.org/wiki/セパン・インターナショナル・サーキット "wikilink")、SUPER GT本体のイメージガールとは別に、マレーシア戦限定で活動するイメージガールユニットが存在しており、開催までの約1ヵ月間現地に滞在しPR活動を行っていた。
+[Sepang_tribune.jpg](https://ja.wikipedia.org/wiki/File:Sepang_tribune.jpg "fig:Sepang_tribune.jpg")）\]\] [Tokyo_Motor_Show_2009_(4058833558).jpg](https://ja.wikipedia.org/wiki/File:Tokyo_Motor_Show_2009_\(4058833558\).jpg "fig:Tokyo_Motor_Show_2009_(4058833558).jpg")2009にて）</small>\]\] [2013年まで毎年](https://ja.wikipedia.org/wiki/2013年のSUPER_GT "wikilink")6月中旬に行われていた[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")・[セパンサーキット戦では](../Page/セパン・インターナショナル・サーキット.md "wikilink")、SUPER GT本体のイメージガールとは別に、マレーシア戦限定で活動するイメージガールユニットが存在しており、開催までの約1ヵ月間現地に滞在しPR活動を行っていた。
 
 殆どの年で[スタイルコーポレーション](https://ja.wikipedia.org/wiki/スタイルコーポレーション "wikilink")所属者がイメージガールを務めていたが、2009年と2010年は[プラチナムプロダクション](../Page/プラチナムプロダクション.md "wikilink")所属者が担当。さらに2011年からは日本人1名とマレーシアの女性による体制となった。
 
-なお、[2014年以降は](https://ja.wikipedia.org/wiki/2014年のSUPER_GT "wikilink")[タイ](../Page/タイ王国.md "wikilink")・[ブリーラムの](https://ja.wikipedia.org/wiki/ブリーラム県 "wikilink")[チャーン・インターナショナルサーキット](https://ja.wikipedia.org/wiki/チャーン・インターナショナルサーキット "wikilink")で10月上旬にSUPER GTレースが開催されているが、タイ戦限定のイメージガールは設置されていない。
+なお、[2014年以降は](https://ja.wikipedia.org/wiki/2014年のSUPER_GT "wikilink")[タイ](../Page/タイ王国.md "wikilink")・[ブリーラムの](../Page/ブリーラム県.md "wikilink")[チャーン・インターナショナルサーキット](https://ja.wikipedia.org/wiki/チャーン・インターナショナルサーキット "wikilink")で10月上旬にSUPER GTレースが開催されているが、タイ戦限定のイメージガールは設置されていない。
 
 ### 歴代メンバー
 
-  - 2004年「**紅 KURENAI**」（クレナイ）：堀内晶子、[澄谷薫](https://ja.wikipedia.org/wiki/澄谷薫 "wikilink")、青木美樹、山本渚
+  - 2004年「**紅 KURENAI**」（クレナイ）：堀内晶子、[澄谷薫](../Page/澄谷薫.md "wikilink")、青木美樹、山本渚
   - 2005年「**babes**」（ベイブス）：[小口亜紀](https://ja.wikipedia.org/wiki/小口亜紀 "wikilink")、[秋山まい](https://ja.wikipedia.org/wiki/秋山まい "wikilink")、浅見薫
   - 2006年「**babes**」：朝倉ひさみ、澄谷薫、小口亜紀
   - 2007年「**babes**」：藍原ももよ（現：[清宮百代](https://ja.wikipedia.org/wiki/清宮百代 "wikilink")）、小口亜紀

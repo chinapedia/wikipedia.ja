@@ -7,9 +7,9 @@
 
 シングルとしては、前作「[SEASONS](../Page/SEASONS_\(浜崎あゆみの曲\).md "wikilink")」より3ヶ月半振りのリリースとなり、3rd[アルバム](../Page/アルバム.md "wikilink")『[Duty](../Page/Duty.md "wikilink")』と同時発売で、初回限定生産シングル。
 
-本作、『Duty』、DVD『[ayumi hamasaki concert tour 2000 A 第1幕](https://ja.wikipedia.org/wiki/ayumi_hamasaki_concert_tour_2000_A_第1幕 "wikilink")』の3作が、それぞれ週間シングル、アルバム、DVDチャートで首位を記録し、[オリコン史上初の](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")3冠となった\[2\]。
+本作、『Duty』、DVD『[ayumi hamasaki concert tour 2000 A 第1幕](https://ja.wikipedia.org/wiki/ayumi_hamasaki_concert_tour_2000_A_第1幕 "wikilink")』の3作が、それぞれ週間シングル、アルバム、DVDチャートで首位を記録し、[オリコン史上初の](../Page/オリコンチャート.md "wikilink")3冠となった\[2\]。
 
-「SURREAL」はフジビューティ（[たかの友梨](https://ja.wikipedia.org/wiki/たかの友梨 "wikilink")ビューティクリニック）「恋する白肌」[CMソングタイアップ曲になっているが](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")、実際のCMで流れた曲は「Duty」であった。
+「SURREAL」はフジビューティ（[たかの友梨](../Page/たかの友梨.md "wikilink")ビューティクリニック）「恋する白肌」[CMソングタイアップ曲になっているが](../Page/コマーシャルソング.md "wikilink")、実際のCMで流れた曲は「Duty」であった。
 
 [2000年](../Page/2000年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")にはDVDシングル『SURREAL』が発売された。
 
@@ -19,8 +19,8 @@
 
 1.  **SURREAL "Original Mix"**
       -
-        [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：ayumi hamasaki / [作曲](../Page/作曲.md "wikilink")：[Kazuhito Kikuchi](https://ja.wikipedia.org/wiki/菊池一仁 "wikilink") / [編曲](../Page/編曲.md "wikilink")：[HΛL](https://ja.wikipedia.org/wiki/HΛL "wikilink")
-        フジビューティ（[たかの友梨](https://ja.wikipedia.org/wiki/たかの友梨 "wikilink")ビューティクリニック）「恋する白肌」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
+        [作詞](../Page/作詞.md "wikilink")：ayumi hamasaki / [作曲](../Page/作曲.md "wikilink")：[Kazuhito Kikuchi](../Page/菊池一仁.md "wikilink") / [編曲](../Page/編曲.md "wikilink")：[HΛL](../Page/HΛL.md "wikilink")
+        フジビューティ（[たかの友梨](../Page/たかの友梨.md "wikilink")ビューティクリニック）「恋する白肌」[CMソング](../Page/コマーシャルソング.md "wikilink")
 2.  **Duty "Eric Kupper Big Room Mix -Radio Edit-"**
 3.  **SEASONS "BUMP & FLEX RADIO EDIT"**
 4.  **Duty "Under Lounge club Mix"**

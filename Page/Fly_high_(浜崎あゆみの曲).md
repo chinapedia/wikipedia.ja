@@ -9,14 +9,14 @@
 
 リカットシングルではあるが、アルバム『LOVEppears』収録のオリジナルバージョンは収録されていない（ただし、「Album Version」の-Instrumental-が収録されている）。トラック最後の「Fly high "Vocal Track"」は一般からの[リミックス](../Page/リミックス.md "wikilink")作品を広く募集するために収録された。
 
-[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")の音源は本作にのみ収録の「HΛL's MIX 2000」が使用されている。また、同ビデオでは[HΛL](https://ja.wikipedia.org/wiki/HΛL "wikilink")の梅崎が[ショルダーキーボード](https://ja.wikipedia.org/wiki/ショルダーキーボード "wikilink")を演奏し、佐藤が[DJを担当している](../Page/ディスクジョッキー.md "wikilink")。
+[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")の音源は本作にのみ収録の「HΛL's MIX 2000」が使用されている。また、同ビデオでは[HΛL](../Page/HΛL.md "wikilink")の梅崎が[ショルダーキーボード](https://ja.wikipedia.org/wiki/ショルダーキーボード "wikilink")を演奏し、佐藤が[DJを担当している](../Page/ディスクジョッキー.md "wikilink")。
 
 ## 収録曲
 
 1.  **Fly high "HΛL's MIX 2000"**
       -
-        [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：ayumi hamasaki / [作曲](../Page/作曲.md "wikilink")：[D・A・I](https://ja.wikipedia.org/wiki/長尾大 "wikilink") / [編曲](../Page/編曲.md "wikilink")：[HΛL](https://ja.wikipedia.org/wiki/HΛL "wikilink")
-        [ライコス](../Page/ライコス.md "wikilink")[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
+        [作詞](../Page/作詞.md "wikilink")：ayumi hamasaki / [作曲](../Page/作曲.md "wikilink")：[D・A・I](../Page/長尾大.md "wikilink") / [編曲](../Page/編曲.md "wikilink")：[HΛL](../Page/HΛL.md "wikilink")
+        [ライコス](../Page/ライコス.md "wikilink")[CMソング](../Page/コマーシャルソング.md "wikilink")
 2.  **Fly high "SAMPLE MADNESS REMIX"**
 3.  **Fly high "Supreme Mix"**
 4.  **Fly high "Acoustic Orchestra Version"**

@@ -5,9 +5,9 @@
 
 ## 概要
 
-日本の[芸能事務所](../Page/芸能事務所.md "wikilink")である[Rhythmediaの所属アーティスト用のレーベル](https://ja.wikipedia.org/wiki/リズメディア "wikilink")。[2002年](../Page/2002年.md "wikilink")設立。第1弾CDは[MISIA](https://ja.wikipedia.org/wiki/MISIA "wikilink")のシングル「[果てなく続くストーリー](https://ja.wikipedia.org/wiki/果てなく続くストーリー "wikilink")」。
+日本の[芸能事務所](../Page/芸能事務所.md "wikilink")である[Rhythmediaの所属アーティスト用のレーベル](../Page/リズメディア.md "wikilink")。[2002年](../Page/2002年.md "wikilink")設立。第1弾CDは[MISIA](https://ja.wikipedia.org/wiki/MISIA "wikilink")のシングル「[果てなく続くストーリー](https://ja.wikipedia.org/wiki/果てなく続くストーリー "wikilink")」。
 
-上記の通りRhythmediaの専属レーベルであるが、同事務所所属の[千織](https://ja.wikipedia.org/wiki/千織 "wikilink")や[ダンデライオンはこのレーベルを使用していない](https://ja.wikipedia.org/wiki/ダンデライオン_\(音楽グループ\) "wikilink")。また、[TIGERとDJ](https://ja.wikipedia.org/wiki/TIGER_\(歌手\) "wikilink") GOMIは2005年以降本人名義の作品を発表しておらず、またCalynは2004年をもってRhythmediaとの契約を終了（Calynが参加したユニットであるDGEMも同様）、[GANGA ZUMBAは](https://ja.wikipedia.org/wiki/GANGA_ZUMBA "wikilink")2008年からは[インディーズ](../Page/インディーズ.md "wikilink")レーベルより作品をリリースしているため、現在は実質MISIA専用のレーベルとして運営されている。
+上記の通りRhythmediaの専属レーベルであるが、同事務所所属の[千織](../Page/千織.md "wikilink")や[ダンデライオンはこのレーベルを使用していない](../Page/ダンデライオン_\(音楽グループ\).md "wikilink")。また、[TIGERとDJ](https://ja.wikipedia.org/wiki/TIGER_\(歌手\) "wikilink") GOMIは2005年以降本人名義の作品を発表しておらず、またCalynは2004年をもってRhythmediaとの契約を終了（Calynが参加したユニットであるDGEMも同様）、[GANGA ZUMBAは](../Page/GANGA_ZUMBA.md "wikilink")2008年からは[インディーズ](../Page/インディーズ.md "wikilink")レーベルより作品をリリースしているため、現在は実質MISIA専用のレーベルとして運営されている。
 
 配給をレコード会社に委託したレーベル運営を行っており、設立時の2002年から2006年までは[エイベックスが行っていたが](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")、2007年からはMISIAのレコード会社移籍に伴い[BMG JAPAN](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")、[2009年](../Page/2009年.md "wikilink")10月にアリオラジャパン。さらに[2014年](../Page/2014年.md "wikilink")4月にソニー・ミュージックレーベルズに販売権を移行した。
 
@@ -53,7 +53,7 @@
 <td><p>RXCD-21033</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/月嶋カリン" title="wikilink">Calyn</a></p></td>
+<td><p><a href="../Page/月嶋カリン.md" title="wikilink">Calyn</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -73,13 +73,13 @@
 <td><p>RXCD-21013</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/鷺巣詩郎" title="wikilink">鷺巣詩郎</a></p></td>
+<td><p><a href="../Page/鷺巣詩郎.md" title="wikilink">鷺巣詩郎</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2002年08月28日</p></td>
-<td><p>フジテレビ系木曜夜10時連続ドラマ <a href="https://ja.wikipedia.org/wiki/恋愛偏差値" title="wikilink">恋愛偏差値</a> オリジナル・サウンドトラック</p></td>
+<td><p>フジテレビ系木曜夜10時連続ドラマ <a href="../Page/恋愛偏差値.md" title="wikilink">恋愛偏差値</a> オリジナル・サウンドトラック</p></td>
 <td><p>RXCD-21014</p></td>
 </tr>
 <tr class="even">
@@ -103,7 +103,7 @@
 <td><p>RXCD-21056</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/月嶋カリン" title="wikilink">DGEM</a></p></td>
+<td><p><a href="../Page/月嶋カリン.md" title="wikilink">DGEM</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -123,7 +123,7 @@
 <td><p>RXCD-21062</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/GANGA_ZUMBA" title="wikilink">GANGA ZUMBA</a></p></td>
+<td><p><a href="../Page/GANGA_ZUMBA.md" title="wikilink">GANGA ZUMBA</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -139,7 +139,7 @@
 </tr>
 <tr class="odd">
 <td><p>2007年04月25日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/UM_(アルバム)" title="wikilink">UM</a></p></td>
+<td><p><a href="../Page/UM_(アルバム).md" title="wikilink">UM</a></p></td>
 <td><p>RXCD-21086<br />
 RXCD-21087</p></td>
 </tr>

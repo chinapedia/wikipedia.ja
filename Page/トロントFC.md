@@ -1,9 +1,9 @@
 > この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
 
 
-**トロント・フットボール・クラブ**（）は、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の[トロント](../Page/トロント.md "wikilink")をホームタウンとする、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")および[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")のプロサッカーリーグ（[メジャーリーグサッカー](../Page/メジャーリーグサッカー.md "wikilink")）に加盟するプロサッカークラブ。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に発足。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")より[メジャーリーグサッカー](../Page/メジャーリーグサッカー.md "wikilink")に新規参入。[アメリカ国外のチームとして初めての参入となった](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。
+**トロント・フットボール・クラブ**（）は、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の[トロント](../Page/トロント.md "wikilink")をホームタウンとする、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")および[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")のプロサッカーリーグ（[メジャーリーグサッカー](../Page/メジャーリーグサッカー.md "wikilink")）に加盟するプロサッカークラブ。[2006年](../Page/2006年.md "wikilink")に発足。[2007年](../Page/2007年.md "wikilink")より[メジャーリーグサッカー](../Page/メジャーリーグサッカー.md "wikilink")に新規参入。[アメリカ国外のチームとして初めての参入となった](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。
 
-チーム最初の公式戦は、2007年4月7日に[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")の[ホーム・デポ・センター](https://ja.wikipedia.org/wiki/ホーム・デポ・センター "wikilink")で開催された[クラブ・デポルティボ・チーヴァス・USA](https://ja.wikipedia.org/wiki/クラブ・デポルティボ・チーヴァス・USA "wikilink")戦であり、結果は0-2で負けている。[BMOフィールド](https://ja.wikipedia.org/wiki/BMOフィールド "wikilink")での初のホームゲームは、2007年4月28日に行われた[カンザスシティ・ウィザーズ](https://ja.wikipedia.org/wiki/カンザスシティ・ウィザーズ "wikilink")戦で、試合は0-1で敗北した。
+チーム最初の公式戦は、2007年4月7日に[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")の[ホーム・デポ・センター](https://ja.wikipedia.org/wiki/ホーム・デポ・センター "wikilink")で開催された[クラブ・デポルティボ・チーヴァス・USA](../Page/クラブ・デポルティボ・チーヴァス・USA.md "wikilink")戦であり、結果は0-2で負けている。[BMOフィールド](../Page/BMOフィールド.md "wikilink")での初のホームゲームは、2007年4月28日に行われた[カンザスシティ・ウィザーズ](https://ja.wikipedia.org/wiki/カンザスシティ・ウィザーズ "wikilink")戦で、試合は0-1で敗北した。
 
 ## 歴史
 
@@ -21,9 +21,9 @@
 
 [TorontoFCFans.jpg](https://ja.wikipedia.org/wiki/File:TorontoFCFans.jpg "fig:TorontoFCFans.jpg")
 
-トロントFCがホームスタジアムとする[BMOフィールド](https://ja.wikipedia.org/wiki/BMOフィールド "wikilink")は[トロント](../Page/トロント.md "wikilink")の[エキシビション・プレイス](https://ja.wikipedia.org/wiki/エキシビション・プレイス "wikilink")内にあり、この新スタジアムは2007年、シーズン公式戦が始まる前に完成した。スタジアムは[トロント](../Page/トロント.md "wikilink")市が所有、[MLSEが運営している](https://ja.wikipedia.org/wiki/:en:Maple_Leaf_Sports_&_Entertainment "wikilink")。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")に開催された[2007 FIFA U-20ワールドカップの公式スタジアムとしても建設され](https://ja.wikipedia.org/wiki/2007_FIFA_U-20ワールドカップ "wikilink")、メイン会場として使われた。スタジアムの収容人数は2万500人でカナダ国内のサッカー専用スタジアムでは最大規模。
+トロントFCがホームスタジアムとする[BMOフィールド](../Page/BMOフィールド.md "wikilink")は[トロント](../Page/トロント.md "wikilink")の[エキシビション・プレイス](https://ja.wikipedia.org/wiki/エキシビション・プレイス "wikilink")内にあり、この新スタジアムは2007年、シーズン公式戦が始まる前に完成した。スタジアムは[トロント](../Page/トロント.md "wikilink")市が所有、[MLSEが運営している](https://ja.wikipedia.org/wiki/:en:Maple_Leaf_Sports_&_Entertainment "wikilink")。[2007年](../Page/2007年.md "wikilink")に開催された[2007 FIFA U-20ワールドカップの公式スタジアムとしても建設され](../Page/2007_FIFA_U-20ワールドカップ.md "wikilink")、メイン会場として使われた。スタジアムの収容人数は2万500人でカナダ国内のサッカー専用スタジアムでは最大規模。
 
-2006年9月20日、[MLSのWebサイトにて](../Page/メジャーリーグサッカー.md "wikilink")、BMOフィナンシャル・グループ（[モントリオール銀行](https://ja.wikipedia.org/wiki/モントリオール銀行 "wikilink")）がスタジアムの[命名権](https://ja.wikipedia.org/wiki/命名権 "wikilink")を買い取ったことが公式に発表された。
+2006年9月20日、[MLSのWebサイトにて](../Page/メジャーリーグサッカー.md "wikilink")、BMOフィナンシャル・グループ（[モントリオール銀行](../Page/モントリオール銀行.md "wikilink")）がスタジアムの[命名権](https://ja.wikipedia.org/wiki/命名権 "wikilink")を買い取ったことが公式に発表された。
 
 ## 獲得タイトル
 
@@ -203,11 +203,11 @@
 
   - [プレーキ](https://ja.wikipedia.org/wiki/プレーキ "wikilink") 2009.11-2010.9
 
-  - [アーロン・ヴィンター](https://ja.wikipedia.org/wiki/アーロン・ヴィンター "wikilink") 2011.1-2012.6
+  - [アーロン・ヴィンター](../Page/アーロン・ヴィンター.md "wikilink") 2011.1-2012.6
 
   - [ポール・マリナー](https://ja.wikipedia.org/wiki/ポール・マリナー "wikilink") 2012.7-2013.1
 
-  - [ライアン・ネルセン](https://ja.wikipedia.org/wiki/ライアン・ネルセン "wikilink") 2013.1-2014.8
+  - [ライアン・ネルセン](../Page/ライアン・ネルセン.md "wikilink") 2013.1-2014.8
 
   - [グレッグ・ヴァニー](https://ja.wikipedia.org/wiki/グレッグ・ヴァニー "wikilink") 2014.8-
 
@@ -215,11 +215,11 @@
 
 ### GK
 
-  - [ジュリオ・セーザル](https://ja.wikipedia.org/wiki/ジュリオ・セザル・ソアレス・エスピンドラ "wikilink") 2014
+  - [ジュリオ・セーザル](../Page/ジュリオ・セザル・ソアレス・エスピンドラ.md "wikilink") 2014
 
 ### DF
 
-  - [マーベル・ウイン](https://ja.wikipedia.org/wiki/マーベル・ウイン_\(サッカー選手\) "wikilink") 2007-2010
+  - [マーベル・ウイン](../Page/マーベル・ウイン_\(サッカー選手\).md "wikilink") 2007-2010
 
   - [ダミアン・ペルキ](https://ja.wikipedia.org/wiki/ダミアン・ペルキ "wikilink") 2015-2016
 
@@ -233,33 +233,33 @@
 
   - [アマド・ゲバラ](https://ja.wikipedia.org/wiki/アマド・ゲバラ "wikilink") 2008-2009
 
-  - [ローワン・リケッツ](https://ja.wikipedia.org/wiki/ローワン・リケッツ "wikilink") 2008-2009
+  - [ローワン・リケッツ](../Page/ローワン・リケッツ.md "wikilink") 2008-2009
 
   - [ローラン・ロベール](../Page/ローラン・ロベール.md "wikilink") 2008
 
-  - [ジュリアン・デ・グズマン](https://ja.wikipedia.org/wiki/ジュリアン・デ・グズマン "wikilink") 2009-2012
+  - [ジュリアン・デ・グズマン](../Page/ジュリアン・デ・グズマン.md "wikilink") 2009-2012
 
   - [ドウェイン・デ・ロサリオ](https://ja.wikipedia.org/wiki/ドウェイン・デ・ロサリオ "wikilink") 2009-2011, 2014
 
-  - [トルステン・フリンクス](https://ja.wikipedia.org/wiki/トルステン・フリンクス "wikilink") 2011-2013
+  - [トルステン・フリンクス](../Page/トルステン・フリンクス.md "wikilink") 2011-2013
 
-  - [マイケル・ブラッドリー](https://ja.wikipedia.org/wiki/マイケル・ブラッドリー_\(サッカー選手\) "wikilink") 2014-
+  - [マイケル・ブラッドリー](../Page/マイケル・ブラッドリー_\(サッカー選手\).md "wikilink") 2014-
 
   - [ベノワ・シェイル](https://ja.wikipedia.org/wiki/ベノワ・シェイル "wikilink") 2015-2017
 
-  - [ビクトル・バスケス](https://ja.wikipedia.org/wiki/ビクトル・バスケス "wikilink") 2017-
+  - [ビクトル・バスケス](../Page/ビクトル・バスケス.md "wikilink") 2017-
 
 ### FW
 
-  - [ミスタ](https://ja.wikipedia.org/wiki/ミゲル・アンヘル・フェレール "wikilink") 2010
+  - [ミスタ](../Page/ミゲル・アンヘル・フェレール.md "wikilink") 2010
 
-  - [中島ファラン一生](https://ja.wikipedia.org/wiki/中島ファラン一生 "wikilink") 2014
+  - [中島ファラン一生](../Page/中島ファラン一生.md "wikilink") 2014
 
-  - [ジャーメイン・デフォー](https://ja.wikipedia.org/wiki/ジャーメイン・デフォー "wikilink") 2014-2015
+  - [ジャーメイン・デフォー](../Page/ジャーメイン・デフォー.md "wikilink") 2014-2015
 
   - [セバスティアン・ジョヴィンコ](https://ja.wikipedia.org/wiki/セバスティアン・ジョヴィンコ "wikilink") 2015-2019
 
-  - [ジョジー・アルティドール](https://ja.wikipedia.org/wiki/ジョジー・アルティドール "wikilink") 2015-
+  - [ジョジー・アルティドール](../Page/ジョジー・アルティドール.md "wikilink") 2015-
 
   - [遠藤翼](https://ja.wikipedia.org/wiki/遠藤翼 "wikilink") 2016-2017, 2019-
 

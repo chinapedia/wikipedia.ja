@@ -10,20 +10,20 @@
 
 ## 収録曲
 
-全[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")･[作曲](../Page/作曲.md "wikilink")･[編曲](../Page/編曲.md "wikilink"):[LUNA SEA](../Page/LUNA_SEA.md "wikilink")
+全[作詞](../Page/作詞.md "wikilink")･[作曲](../Page/作曲.md "wikilink")･[編曲](../Page/編曲.md "wikilink"):[LUNA SEA](../Page/LUNA_SEA.md "wikilink")
 
 1.  **STORM**
-    [J原曲](https://ja.wikipedia.org/wiki/J_\(ミュージシャン\) "wikilink")。[NHKの](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")『[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")』1998年4月度テーマソングに起用された。
+    [J原曲](../Page/J_\(ミュージシャン\).md "wikilink")。[NHKの](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[音楽番組](../Page/音楽番組.md "wikilink")『[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")』1998年4月度テーマソングに起用された。
 2.  **この世界の果てで**
-    [INORAN](https://ja.wikipedia.org/wiki/INORAN "wikilink")原曲。音源化されたLUNA SEAの楽曲では初めてタイトルが日本語のみで構成されており、終幕前では唯一であった。
+    [INORAN](../Page/INORAN.md "wikilink")原曲。音源化されたLUNA SEAの楽曲では初めてタイトルが日本語のみで構成されており、終幕前では唯一であった。
 
 ## 収録アルバム
 
 ＃1
 
-  - [SHINE](https://ja.wikipedia.org/wiki/SHINE_\(アルバム\) "wikilink")　(1998.07.23･MVCD-34)
-  - [NEVER SOLD OUT](https://ja.wikipedia.org/wiki/NEVER_SOLD_OUT "wikilink") （1999.5.29･MVCH-30007）
-  - [PERIOD 〜THE BEST SELECTION〜](https://ja.wikipedia.org/wiki/PERIOD_〜THE_BEST_SELECTION〜 "wikilink") （2000.12.23･UUCH-1012）
+  - [SHINE](../Page/SHINE_\(アルバム\).md "wikilink")　(1998.07.23･MVCD-34)
+  - [NEVER SOLD OUT](../Page/NEVER_SOLD_OUT.md "wikilink") （1999.5.29･MVCH-30007）
+  - [PERIOD 〜THE BEST SELECTION〜](../Page/PERIOD_〜THE_BEST_SELECTION〜.md "wikilink") （2000.12.23･UUCH-1012）
   - [LUNA SEA 3D IN LOS ANGELES](https://ja.wikipedia.org/wiki/LUNA_SEA_3D_IN_LOS_ANGELES "wikilink") （2011年6月1日、YICQ-10077〜8）
   - LUNA SEA 25th Anniversary Ultimate Best -THE ONE-（2014.5.28・UPCH-1982/3）
 

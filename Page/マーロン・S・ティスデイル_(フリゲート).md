@@ -14,7 +14,7 @@
 | その後                                                                                                                                             |
 | モットー                                                                                                                                            |
 
-**マーロン・S・ティスディル** (, FFG-27) は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")のミサイル[フリゲート](../Page/フリゲート.md "wikilink")。[オリバー・ハザード・ペリー級ミサイルフリゲート](https://ja.wikipedia.org/wiki/オリバー・ハザード・ペリー級ミサイルフリゲート "wikilink")の19番艦。艦名は[マーロン・S・ティスディル](https://ja.wikipedia.org/wiki/マーロン・S・ティスディル "wikilink")[海軍中将](https://ja.wikipedia.org/wiki/海軍中将 "wikilink")（1890年12月6日 - 1972年7月12日）に因む。
+**マーロン・S・ティスディル** (, FFG-27) は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")のミサイル[フリゲート](../Page/フリゲート.md "wikilink")。[オリバー・ハザード・ペリー級ミサイルフリゲート](../Page/オリバー・ハザード・ペリー級ミサイルフリゲート.md "wikilink")の19番艦。艦名は[マーロン・S・ティスディル](https://ja.wikipedia.org/wiki/マーロン・S・ティスディル "wikilink")[海軍中将](https://ja.wikipedia.org/wiki/海軍中将 "wikilink")（1890年12月6日 - 1972年7月12日）に因む。
 
 ## 艦歴
 

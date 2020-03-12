@@ -14,7 +14,7 @@
 | その後                                                                                                                                 |
 | モットー                                                                                                                                |
 
-**ジョン・A・ムーア** (, FFG-19) は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")のミサイル[フリゲート](../Page/フリゲート.md "wikilink")。[オリバー・ハザード・ペリー級ミサイルフリゲート](https://ja.wikipedia.org/wiki/オリバー・ハザード・ペリー級ミサイルフリゲート "wikilink")の11番艦。艦名は[ジョン・A・ムーア](https://ja.wikipedia.org/wiki/ジョン・A・ムーア "wikilink") (1910 - 1944) に因む。
+**ジョン・A・ムーア** (, FFG-19) は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")のミサイル[フリゲート](../Page/フリゲート.md "wikilink")。[オリバー・ハザード・ペリー級ミサイルフリゲート](../Page/オリバー・ハザード・ペリー級ミサイルフリゲート.md "wikilink")の11番艦。艦名は[ジョン・A・ムーア](https://ja.wikipedia.org/wiki/ジョン・A・ムーア "wikilink") (1910 - 1944) に因む。
 
 ## 艦歴
 

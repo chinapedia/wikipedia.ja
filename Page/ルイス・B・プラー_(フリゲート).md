@@ -14,7 +14,7 @@
 | その後:                                                                                                                                      |
 | モットー:                                                                                                                                     |
 
-**ルイス・B・プラー** (, FFG-23) は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")のミサイル[フリゲート](../Page/フリゲート.md "wikilink")。[オリバー・ハザード・ペリー級ミサイルフリゲート](https://ja.wikipedia.org/wiki/オリバー・ハザード・ペリー級ミサイルフリゲート "wikilink")の15番艦。艦名は[ルイス・"チェスティ"・プラー](https://ja.wikipedia.org/wiki/ルイス・B・プラー "wikilink")[海兵隊](../Page/アメリカ海兵隊.md "wikilink")[中将](../Page/中将.md "wikilink")(1898 - 1971)に因む。
+**ルイス・B・プラー** (, FFG-23) は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")のミサイル[フリゲート](../Page/フリゲート.md "wikilink")。[オリバー・ハザード・ペリー級ミサイルフリゲート](../Page/オリバー・ハザード・ペリー級ミサイルフリゲート.md "wikilink")の15番艦。艦名は[ルイス・"チェスティ"・プラー](https://ja.wikipedia.org/wiki/ルイス・B・プラー "wikilink")[海兵隊](../Page/アメリカ海兵隊.md "wikilink")[中将](../Page/中将.md "wikilink")(1898 - 1971)に因む。
 
 ## 艦歴
 

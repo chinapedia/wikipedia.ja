@@ -3,15 +3,15 @@
 
 [thumb](https://ja.wikipedia.org/wiki/image:ISS_Unity_module.jpg "wikilink")
 
-**ユニティ**（）は、[国際宇宙ステーション](../Page/国際宇宙ステーション.md "wikilink") (ISS) を構成するモジュールの1つで、[米国製としては初のモジュールである](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。円筒形で6箇所（前後左右と上下）の[結合場所があり](https://ja.wikipedia.org/wiki/共通結合機構 "wikilink")、他のモジュールを接続できるようになっている。大きさは直径が15フィート、全長が18フィートで、[アラバマ州](../Page/アラバマ州.md "wikilink")[ハンツビル](https://ja.wikipedia.org/wiki/ハンツビル "wikilink")の[マーシャル宇宙飛行センター](https://ja.wikipedia.org/wiki/マーシャル宇宙飛行センター "wikilink")にある製造設備で[ボーイング](../Page/ボーイング.md "wikilink")社により建造された。**ノード1**と呼ばれることもあり、ISS の完成時には3つとなる接続モジュールの最初の1つである。
+**ユニティ**（）は、[国際宇宙ステーション](../Page/国際宇宙ステーション.md "wikilink") (ISS) を構成するモジュールの1つで、[米国製としては初のモジュールである](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。円筒形で6箇所（前後左右と上下）の[結合場所があり](../Page/共通結合機構.md "wikilink")、他のモジュールを接続できるようになっている。大きさは直径が15フィート、全長が18フィートで、[アラバマ州](../Page/アラバマ州.md "wikilink")[ハンツビル](../Page/ハンツビル.md "wikilink")の[マーシャル宇宙飛行センター](https://ja.wikipedia.org/wiki/マーシャル宇宙飛行センター "wikilink")にある製造設備で[ボーイング](../Page/ボーイング.md "wikilink")社により建造された。**ノード1**と呼ばれることもあり、ISS の完成時には3つとなる接続モジュールの最初の1つである。
 
 ## 打ち上げと最初の接続
 
-[スペースシャトル](../Page/スペースシャトル.md "wikilink")初の ISS 組み立てミッションである [STS-88](https://ja.wikipedia.org/wiki/STS-88 "wikilink") で、[エンデバーのメインのペイロードとして軌道上に運ばれた](https://ja.wikipedia.org/wiki/エンデバー_\(オービタ\) "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[12月6日](../Page/12月6日.md "wikilink")、ユニティ後部の結合ポートと、すでに軌道上にあった[ザーリャ](../Page/ザーリャ.md "wikilink")モジュールの前部ハッチが STS-88 の搭乗員により接続された（ザーリャは米国が資金提供してロシアが建造したもので、[カザフスタン](../Page/カザフスタン.md "wikilink")の[バイコヌール宇宙基地](https://ja.wikipedia.org/wiki/バイコヌール宇宙基地 "wikilink")から[ロシア](../Page/ロシア.md "wikilink")の[プロトンロケットで事前に打ち上げられていた](https://ja.wikipedia.org/wiki/プロトン_\(ロケット\) "wikilink")）。
+[スペースシャトル](../Page/スペースシャトル.md "wikilink")初の ISS 組み立てミッションである [STS-88](https://ja.wikipedia.org/wiki/STS-88 "wikilink") で、[エンデバーのメインのペイロードとして軌道上に運ばれた](https://ja.wikipedia.org/wiki/エンデバー_\(オービタ\) "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[12月6日](../Page/12月6日.md "wikilink")、ユニティ後部の結合ポートと、すでに軌道上にあった[ザーリャ](../Page/ザーリャ.md "wikilink")モジュールの前部ハッチが STS-88 の搭乗員により接続された（ザーリャは米国が資金提供してロシアが建造したもので、[カザフスタン](../Page/カザフスタン.md "wikilink")の[バイコヌール宇宙基地](../Page/バイコヌール宇宙基地.md "wikilink")から[ロシア](../Page/ロシア.md "wikilink")の[プロトンロケットで事前に打ち上げられていた](../Page/プロトン_\(ロケット\).md "wikilink")）。
 
 ## 他のモジュールとの接続
 
-ザーリャとの接続の他に、現在では米国の[デスティニー](https://ja.wikipedia.org/wiki/デスティニー_\(ISS\) "wikilink")（[STS-98](https://ja.wikipedia.org/wiki/STS-98 "wikilink")で接続）、Z-1[トラス](https://ja.wikipedia.org/wiki/トラス_\(ISS\) "wikilink")（初期の外部構造、[STS-92](https://ja.wikipedia.org/wiki/STS-92 "wikilink")で接続）、[与圧結合アダプタ](https://ja.wikipedia.org/wiki/与圧結合アダプタ "wikilink")のPMA-3（[STS-92](https://ja.wikipedia.org/wiki/STS-92 "wikilink")で接続）、[クエストエアロック](https://ja.wikipedia.org/wiki/クエストエアロック "wikilink")（[STS-104](https://ja.wikipedia.org/wiki/STS-104 "wikilink")で接続）、[トランクウィリティーと](https://ja.wikipedia.org/wiki/トランクウィリティー_\(ISS\) "wikilink")[キューポラ](../Page/キューポラ_\(ISS\).md "wikilink")（[STS-130](https://ja.wikipedia.org/wiki/STS-130 "wikilink")で接続）が接続されている。 さらに、[多目的補給モジュール](../Page/多目的補給モジュール.md "wikilink")であるレオナルドとラファエロが、何回かのミッションでユニティに接続されている。
+ザーリャとの接続の他に、現在では米国の[デスティニー](../Page/デスティニー_\(ISS\).md "wikilink")（[STS-98](../Page/STS-98.md "wikilink")で接続）、Z-1[トラス](../Page/トラス_\(ISS\).md "wikilink")（初期の外部構造、[STS-92](../Page/STS-92.md "wikilink")で接続）、[与圧結合アダプタ](../Page/与圧結合アダプタ.md "wikilink")のPMA-3（[STS-92](../Page/STS-92.md "wikilink")で接続）、[クエストエアロック](https://ja.wikipedia.org/wiki/クエストエアロック "wikilink")（[STS-104](https://ja.wikipedia.org/wiki/STS-104 "wikilink")で接続）、[トランクウィリティーと](https://ja.wikipedia.org/wiki/トランクウィリティー_\(ISS\) "wikilink")[キューポラ](../Page/キューポラ_\(ISS\).md "wikilink")（[STS-130](https://ja.wikipedia.org/wiki/STS-130 "wikilink")で接続）が接続されている。 さらに、[多目的補給モジュール](../Page/多目的補給モジュール.md "wikilink")であるレオナルドとラファエロが、何回かのミッションでユニティに接続されている。
 
 ## 詳細
 
@@ -21,7 +21,7 @@
 
 ## その他のノード
 
-残る2つの接続モジュール（ノード）は、[NASA](../Page/アメリカ航空宇宙局.md "wikilink") と [欧州宇宙機関](../Page/欧州宇宙機関.md "wikilink") (ESA) の合意のもとで[イタリア](../Page/イタリア.md "wikilink")の[アレーニア・エアロスパシオで建造された](https://ja.wikipedia.org/wiki/アレーニア・アエロナウティカ "wikilink")。[ハーモニー](https://ja.wikipedia.org/wiki/ハーモニー_\(ISS\) "wikilink")（ノード2）とトランクウィリティーはユニティよりもわずかに長い約21フィートの長さで、6つの結合ポートに加えて8台の[国際標準実験ラック](https://ja.wikipedia.org/wiki/国際標準実験ラック "wikilink") (ISPR) と同等サイズのラックを設置している。それに比べると、ユニティは半分の4台のラックしか搭載していない。ESA が建造したハーモニーとトランクウィリティーは、[コロンバスやその他の](https://ja.wikipedia.org/wiki/コロンバス_\(ISS\) "wikilink") ESA の機器をスペースシャトルで打ち上げるための費用を相殺する形にされている。
+残る2つの接続モジュール（ノード）は、[NASA](../Page/アメリカ航空宇宙局.md "wikilink") と [欧州宇宙機関](../Page/欧州宇宙機関.md "wikilink") (ESA) の合意のもとで[イタリア](../Page/イタリア.md "wikilink")の[アレーニア・エアロスパシオで建造された](https://ja.wikipedia.org/wiki/アレーニア・アエロナウティカ "wikilink")。[ハーモニー](https://ja.wikipedia.org/wiki/ハーモニー_\(ISS\) "wikilink")（ノード2）とトランクウィリティーはユニティよりもわずかに長い約21フィートの長さで、6つの結合ポートに加えて8台の[国際標準実験ラック](https://ja.wikipedia.org/wiki/国際標準実験ラック "wikilink") (ISPR) と同等サイズのラックを設置している。それに比べると、ユニティは半分の4台のラックしか搭載していない。ESA が建造したハーモニーとトランクウィリティーは、[コロンバスやその他の](../Page/コロンバス_\(ISS\).md "wikilink") ESA の機器をスペースシャトルで打ち上げるための費用を相殺する形にされている。
 
 ## 仕様
 

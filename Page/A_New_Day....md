@@ -5,7 +5,7 @@
 
 [シーザーズ・パレス](https://ja.wikipedia.org/wiki/シーザーズ・パレス "wikilink")・ホテルに新しく建設された4,000人収容の劇場「コロセウム」で[2003年](../Page/2003年.md "wikilink")5月からスタート。セリーヌの公演が無い期間には、[エルトン・ジョン](../Page/エルトン・ジョン.md "wikilink")の[レッド・ピアノ](https://ja.wikipedia.org/wiki/レッド・ピアノ "wikilink")が開催されていた。 全1時間30分のステージで合計21曲を熱唱する。常にプラチナ・チケット化するほど人気が高いショーである。
 
-[シーザーズ・パレス](https://ja.wikipedia.org/wiki/シーザーズ・パレス "wikilink")・ホテルとの契約で[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")12月15日で終了した。
+[シーザーズ・パレス](https://ja.wikipedia.org/wiki/シーザーズ・パレス "wikilink")・ホテルとの契約で[2007年](../Page/2007年.md "wikilink")12月15日で終了した。
 
 公演終了に合わせて[DVD化された](../Page/DVD-Video.md "wikilink")。[Blu-ray Disc版もあるが日本未発売である](../Page/Blu-ray_Disc.md "wikilink")。
 
@@ -25,7 +25,7 @@
 12. "The First Time Ever I Saw Your Face"†
 13. "Ammore Annascunnuto"
 14. At Last"††
-15. "Fever"†† / "All the Way" ([フランク・シナトラ](https://ja.wikipedia.org/wiki/フランク・シナトラ "wikilink")とのバーチャル[デュエット](https://ja.wikipedia.org/wiki/デュエット "wikilink"))
+15. "Fever"†† / "All the Way" ([フランク・シナトラ](https://ja.wikipedia.org/wiki/フランク・シナトラ "wikilink")とのバーチャル[デュエット](../Page/デュエット.md "wikilink"))
 16. "I've Got the World on a String"
 17. "I Wish"
 18. "Love Can Move Mountains"

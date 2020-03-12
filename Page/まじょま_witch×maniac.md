@@ -1,13 +1,13 @@
 > この記事は[ witchmaniac](https://ja.wikipedia.org/wiki/_witchmaniac)から翻訳されています。
 
 
-『**まじょま witch×maniac**』（まじょま ウィッチ・マニアック）は、[神吉の](https://ja.wikipedia.org/wiki/神吉_\(漫画家\) "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")[作品](https://ja.wikipedia.org/wiki/作品 "wikilink")。『[月刊少年ブラッド](https://ja.wikipedia.org/wiki/月刊少年ブラッド "wikilink")』（[ソフトバンククリエイティブ](https://ja.wikipedia.org/wiki/ソフトバンククリエイティブ "wikilink")）[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")5月号から11月号まで連載の後、同誌の休刊に伴い[ウェブコミック](https://ja.wikipedia.org/wiki/ウェブコミック "wikilink")誌『[FlexComixブラッド](../Page/FlexComixブラッド.md "wikilink")』に移行して連載されていたが、長期休載の後に同誌より派生した『[FlexComixネクスト](https://ja.wikipedia.org/wiki/FlexComixネクスト "wikilink")』で[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月10日](../Page/6月10日.md "wikilink")より連載を再開し、2008年[11月11日](../Page/11月11日.md "wikilink")更新分で完結した。単行本は全2巻。
+『**まじょま witch×maniac**』（まじょま ウィッチ・マニアック）は、[神吉の](../Page/神吉_\(漫画家\).md "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")[作品](https://ja.wikipedia.org/wiki/作品 "wikilink")。『[月刊少年ブラッド](../Page/月刊少年ブラッド.md "wikilink")』（[ソフトバンククリエイティブ](https://ja.wikipedia.org/wiki/ソフトバンククリエイティブ "wikilink")）[2006年](../Page/2006年.md "wikilink")5月号から11月号まで連載の後、同誌の休刊に伴い[ウェブコミック](../Page/ウェブコミック.md "wikilink")誌『[FlexComixブラッド](../Page/FlexComixブラッド.md "wikilink")』に移行して連載されていたが、長期休載の後に同誌より派生した『[FlexComixネクスト](https://ja.wikipedia.org/wiki/FlexComixネクスト "wikilink")』で[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月10日](../Page/6月10日.md "wikilink")より連載を再開し、2008年[11月11日](../Page/11月11日.md "wikilink")更新分で完結した。単行本は全2巻。
 
 ## ストーリー
 
 グリランドゥス魔法学院の転校生・ニュイは転入1日目から遅刻の危機に見舞われ、速度上昇魔法でダッシュしたところを同じように教室へ急いでいた男子生徒・北原深にぶつかり一目惚れしてしまう。
 
-深が[魔女っ娘](../Page/魔法少女.md "wikilink")[萌え](https://ja.wikipedia.org/wiki/萌え "wikilink")だと知ったニュイは、[悪魔](../Page/悪魔.md "wikilink")っ娘の安田さんに深の気を引くための相談を持ちかけるが、いつも恥ずかしい[コスプレ](../Page/コスプレ.md "wikilink")衣装を強引に着せられ、いいように弄ばれてしまう。
+深が[魔女っ娘](../Page/魔法少女.md "wikilink")[萌え](../Page/萌え.md "wikilink")だと知ったニュイは、[悪魔](../Page/悪魔.md "wikilink")っ娘の安田さんに深の気を引くための相談を持ちかけるが、いつも恥ずかしい[コスプレ](../Page/コスプレ.md "wikilink")衣装を強引に着せられ、いいように弄ばれてしまう。
 
 ## 登場キャラクター
 
@@ -18,7 +18,7 @@
   - 安田さん（やすださん）
     「安田さん」がフルネームの悪魔っ娘。無類のコスプレ好きで、自分が着る方も他人に着せる方も趣味の範疇。「深の気を引くため」と言いながらニュイに様々なコスプレ衣装を着せて弄んでいる。
   - シスネ
-    先祖代々の魔法少女の家系に生まれた[ツインテール](https://ja.wikipedia.org/wiki/ツインテール "wikilink")娘。[家訓](https://ja.wikipedia.org/wiki/家訓 "wikilink")により魔法を使う際は専用のフリフリ衣装を着なければならないことが悩み。安田さんを目の敵にしている。ツンデレ。
+    先祖代々の魔法少女の家系に生まれた[ツインテール](../Page/ツインテール.md "wikilink")娘。[家訓](../Page/家訓.md "wikilink")により魔法を使う際は専用のフリフリ衣装を着なければならないことが悩み。安田さんを目の敵にしている。ツンデレ。
   - ユウ
     学院初等部の生徒。深に専用のステッキ（[マジックワンド](https://ja.wikipedia.org/wiki/マジックワンド "wikilink")）を作ってもらってから深を「お兄ちゃん」と呼んで慕っている。
   - 雪花先生（シュウファせんせい）

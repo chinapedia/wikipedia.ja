@@ -1,11 +1,11 @@
 > この記事は[URAWA BOYS](https://ja.wikipedia.org/wiki/URAWA_BOYS)から翻訳されています。
 
 
-[thumbでの応援風景](https://ja.wikipedia.org/wiki/ファイル:Saitama_Stadium_Panorama.jpg "wikilink")（2009年5月16日）\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:Reds_Choreography01.JPG "wikilink")）写真は2013年12月7日の[セレッソ大阪](../Page/セレッソ大阪.md "wikilink")戦、この試合を最後に引退する[山田暢久](https://ja.wikipedia.org/wiki/山田暢久 "wikilink")へのコレオグラフィー。\]\] **URAWA BOYS**（ウラワボーイズ）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")から[2014年](../Page/2014年.md "wikilink")にかけて活動していた[Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink")・[浦和レッドダイヤモンズ](https://ja.wikipedia.org/wiki/浦和レッドダイヤモンズ "wikilink")の[サポーター集団である](https://ja.wikipedia.org/wiki/私設応援団 "wikilink")。通称UB\[1\]。。
+[thumbでの応援風景](https://ja.wikipedia.org/wiki/ファイル:Saitama_Stadium_Panorama.jpg "wikilink")（2009年5月16日）\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:Reds_Choreography01.JPG "wikilink")）写真は2013年12月7日の[セレッソ大阪](../Page/セレッソ大阪.md "wikilink")戦、この試合を最後に引退する[山田暢久](../Page/山田暢久.md "wikilink")へのコレオグラフィー。\]\] **URAWA BOYS**（ウラワボーイズ）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")から[2014年](../Page/2014年.md "wikilink")にかけて活動していた[Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink")・[浦和レッドダイヤモンズ](https://ja.wikipedia.org/wiki/浦和レッドダイヤモンズ "wikilink")の[サポーター集団である](../Page/私設応援団.md "wikilink")。通称UB\[1\]。。
 
 ## 概要
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")\[2\]、それまで[駒場スタジアムの東側ゴール裏で中心的な活動を行っていたサポーター達により結成された](../Page/さいたま市駒場スタジアム.md "wikilink")\[3\]。初代リーダーの相良純真が「[浦和](https://ja.wikipedia.org/wiki/浦和 "wikilink")生まれの浦和育ちで、ずっと浦和でサッカーをやってきた。浦和と名の付くチームが弱いことは納得がいかないし、サッカーどころのサポーターならサッカーを良く理解していなければならない」と語るように\[4\]「サッカーの街、浦和のプライド」を全面に出した応援スタイルを標榜した。その一方で[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")や浦和とは直接繋がりのない[革命家](https://ja.wikipedia.org/wiki/革命家 "wikilink")の[チェ・ゲバラ](../Page/チェ・ゲバラ.md "wikilink")の横断幕を頻繁に掲げたが\[5\]、これは浦和サポーターの原型を作り上げたサポーター集団『[クレイジー・コールズ](https://ja.wikipedia.org/wiki/クレイジー・コールズ "wikilink")』（以下CC\[6\]）が「反体制」を信条としていたことに由来している\[7\]。なお、作家の豊田充穂によれば浦和サポーターにとっての「体制」とは政治闘争とは関係なく、「メジャーな存在」あるいは「[東京](https://ja.wikipedia.org/wiki/東京 "wikilink")への盲目的な帰属意識」だとしている\[8\]。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")\[2\]、それまで[駒場スタジアムの東側ゴール裏で中心的な活動を行っていたサポーター達により結成された](../Page/さいたま市駒場スタジアム.md "wikilink")\[3\]。初代リーダーの相良純真が「[浦和](https://ja.wikipedia.org/wiki/浦和 "wikilink")生まれの浦和育ちで、ずっと浦和でサッカーをやってきた。浦和と名の付くチームが弱いことは納得がいかないし、サッカーどころのサポーターならサッカーを良く理解していなければならない」と語るように\[4\]「サッカーの街、浦和のプライド」を全面に出した応援スタイルを標榜した。その一方で[埼玉県](../Page/埼玉県.md "wikilink")や浦和とは直接繋がりのない[革命家](https://ja.wikipedia.org/wiki/革命家 "wikilink")の[チェ・ゲバラ](../Page/チェ・ゲバラ.md "wikilink")の横断幕を頻繁に掲げたが\[5\]、これは浦和サポーターの原型を作り上げたサポーター集団『[クレイジー・コールズ](../Page/クレイジー・コールズ.md "wikilink")』（以下CC\[6\]）が「反体制」を信条としていたことに由来している\[7\]。なお、作家の豊田充穂によれば浦和サポーターにとっての「体制」とは政治闘争とは関係なく、「メジャーな存在」あるいは「[東京](../Page/東京.md "wikilink")への盲目的な帰属意識」だとしている\[8\]。
 
 ## 歴史
 
@@ -17,7 +17,7 @@
 
 この過程でUBと他のグループとの繋がりも生まれるようになり、UBを中心に複数のグループによる集合体を形成するようになる\[16\]。またCC時代には大旗（通称デカ旗）や人文字などを使ったビジュアル的な応援も一手に担っていたが、これを別のグループに一任する\[17\] などスタジアムにおける役割の分業化を図るようになった。その後、UBと周囲のグループは「[クルバ・エスト](https://ja.wikipedia.org/wiki/クルバ・エスト "wikilink")」を名乗り浦和レッズサポーターにおける最大の派閥を形成するようになった\[18\]。
 
-[1999年の](https://ja.wikipedia.org/wiki/1999年のJリーグ "wikilink")[J2降格を経て](https://ja.wikipedia.org/wiki/J2リーグ "wikilink")、[2006年に](https://ja.wikipedia.org/wiki/2006年のJリーグ "wikilink")[J1で初優勝した際には](https://ja.wikipedia.org/wiki/J1リーグ "wikilink")、リーダーの角田は「日本一は当然。遅すぎたくらい。まだ天皇杯もACLもあるので、1試合1試合勝っていくだけ。負けの時代は終わった。これからは勝ちの時代をここ埼スタから作っていく。」と発言した\[19\]。
+[1999年の](../Page/1999年のJリーグ.md "wikilink")[J2降格を経て](https://ja.wikipedia.org/wiki/J2リーグ "wikilink")、[2006年に](../Page/2006年のJリーグ.md "wikilink")[J1で初優勝した際には](https://ja.wikipedia.org/wiki/J1リーグ "wikilink")、リーダーの角田は「日本一は当然。遅すぎたくらい。まだ天皇杯もACLもあるので、1試合1試合勝っていくだけ。負けの時代は終わった。これからは勝ちの時代をここ埼スタから作っていく。」と発言した\[19\]。
 
 ### 解散
 

@@ -1,7 +1,7 @@
 > この記事は[U-suke](https://ja.wikipedia.org/wiki/U-suke)から翻訳されています。
 
 
-**U-suke**（ゆうすけ）は[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")生まれ、[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")育ちの[イラストレーター](../Page/イラストレーター.md "wikilink")・絵本作家。
+**U-suke**（ゆうすけ）は[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")生まれ、[千葉県](../Page/千葉県.md "wikilink")育ちの[イラストレーター](../Page/イラストレーター.md "wikilink")・絵本作家。
 
 ## 人物
 

@@ -5,7 +5,7 @@
 
 ## 略歴
 
-父親はルイジアナ州出身の[クレオール](https://ja.wikipedia.org/wiki/クレオール_\(ルイジアナ\) "wikilink")\[1\]。[ノースウェスタン大学](https://ja.wikipedia.org/wiki/ノースウェスタン大学 "wikilink")で演劇を学んだ。
+父親はルイジアナ州出身の[クレオール](../Page/クレオール_\(ルイジアナ\).md "wikilink")\[1\]。[ノースウェスタン大学](../Page/ノースウェスタン大学.md "wikilink")で演劇を学んだ。
 
 ## 主な出演作品
 
@@ -93,7 +93,7 @@
 <td><p>テレビ映画</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/コラテラル・ダメージ" title="wikilink">コラテラル・ダメージ</a><br />
+<td><p><a href="../Page/コラテラル・ダメージ.md" title="wikilink">コラテラル・ダメージ</a><br />
 <em>Collateral Damage</em></p></td>
 <td><p>ドレイ</p></td>
 <td></td>
@@ -107,7 +107,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/白いカラス" title="wikilink">白いカラス</a><br />
+<td><p><a href="../Page/白いカラス.md" title="wikilink">白いカラス</a><br />
 <em>The Human Stain</em></p></td>
 <td><p>シルク</p></td>
 <td></td>
@@ -149,7 +149,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/アクロス・ザ・ユニバース" title="wikilink">アクロス・ザ・ユニバース</a><br />
+<td><p><a href="../Page/アクロス・ザ・ユニバース.md" title="wikilink">アクロス・ザ・ユニバース</a><br />
 '' Across the Universe''</p></td>
 <td><p>陸軍軍曹</p></td>
 <td></td>
@@ -228,14 +228,14 @@
 </tr>
 <tr class="even">
 <td><p>1998</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アリー_my_Love" title="wikilink">アリー my Love</a><br />
+<td><p><a href="../Page/アリー_my_Love.md" title="wikilink">アリー my Love</a><br />
 <em>Ally My Love</em></p></td>
 <td><p>バラード</p></td>
 <td><p>計1話出演</p></td>
 </tr>
 <tr class="odd">
 <td><p>1999</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/犯罪捜査官ネイビーファイル" title="wikilink">犯罪捜査官ネイビーファイル</a><br />
+<td><p><a href="../Page/犯罪捜査官ネイビーファイル.md" title="wikilink">犯罪捜査官ネイビーファイル</a><br />
 <em>JAG</em></p></td>
 <td><p>ジョン・ニコラス捜査官</p></td>
 <td><p>計1話出演</p></td>

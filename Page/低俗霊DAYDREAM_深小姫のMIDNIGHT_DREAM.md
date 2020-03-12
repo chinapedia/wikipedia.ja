@@ -1,7 +1,7 @@
 > この記事は[DAYDREAM MIDNIGHT DREAM](https://ja.wikipedia.org/wiki/DAYDREAM_MIDNIGHT_DREAM)から翻訳されています。
 
 
-『**低俗霊DAYDREAM 深小姫のMIDNIGHT DREAM**』（ていぞくれいデイドリーム みさきのミッドナイトドリーム）は、[奥瀬サキ](../Page/奥瀬サキ.md "wikilink")原作のコミック『[低俗霊DAYDREAM](../Page/低俗霊DAYDREAM.md "wikilink")』が[OVA](../Page/OVA.md "wikilink")化されたことを機にスタートした[アニラジ](../Page/アニラジ.md "wikilink")。[TBSラジオ](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")、[ラジオ大阪の](https://ja.wikipedia.org/wiki/大阪放送 "wikilink")「[ゴクラク\!もえもえステーション](https://ja.wikipedia.org/wiki/ゴクラク!もえもえステーション "wikilink")」枠で2004年4月から2004年7月まで放送された。また、「Net版」（地上波との相違点はCMカットと最後まで流れるエンディングテーマ）として[バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")の「[BEAT Net Radio](https://ja.wikipedia.org/wiki/BEAT_Net_Radio "wikilink")」で配信された。
+『**低俗霊DAYDREAM 深小姫のMIDNIGHT DREAM**』（ていぞくれいデイドリーム みさきのミッドナイトドリーム）は、[奥瀬サキ](../Page/奥瀬サキ.md "wikilink")原作のコミック『[低俗霊DAYDREAM](../Page/低俗霊DAYDREAM.md "wikilink")』が[OVA](../Page/OVA.md "wikilink")化されたことを機にスタートした[アニラジ](../Page/アニラジ.md "wikilink")。[TBSラジオ](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")、[ラジオ大阪の](../Page/大阪放送.md "wikilink")「[ゴクラク\!もえもえステーション](https://ja.wikipedia.org/wiki/ゴクラク!もえもえステーション "wikilink")」枠で2004年4月から2004年7月まで放送された。また、「Net版」（地上波との相違点はCMカットと最後まで流れるエンディングテーマ）として[バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")の「[BEAT Net Radio](https://ja.wikipedia.org/wiki/BEAT_Net_Radio "wikilink")」で配信された。
 
 主人公、崔樹深小姫役の[浅野真澄](../Page/浅野真澄.md "wikilink")がパーソナリティで、アイドル声優に対する批判や放送禁止用語でピー音（実際はバキュン音）が毎回のように入り、アニラジとは到底思えない破天荒な放送を展開した。
 
@@ -9,8 +9,8 @@
 
   - 深小姫の口寄せ人生相談
       -
-        日頃リスナーが悩んでいることを、パーソナリティの浅野が[口寄せ](https://ja.wikipedia.org/wiki/口寄せ "wikilink")で解決しようというコーナーで、死者（実際は現存の人間もOK）を浅野真澄の体に降霊させて伝える。[加藤鷹](../Page/加藤鷹.md "wikilink")、[田村ゆかり](https://ja.wikipedia.org/wiki/田村ゆかり "wikilink")、風見みずほ、[ビル・ゲイツ](../Page/ビル・ゲイツ.md "wikilink")などか降霊した。
-        リスナーのお悩み相談のはずが途中から構成作家[伊福部崇](https://ja.wikipedia.org/wiki/伊福部崇 "wikilink")が乗り移った死者に質問し、浅野が成りきってそれに答える形になっていった。
+        日頃リスナーが悩んでいることを、パーソナリティの浅野が[口寄せ](../Page/口寄せ.md "wikilink")で解決しようというコーナーで、死者（実際は現存の人間もOK）を浅野真澄の体に降霊させて伝える。[加藤鷹](../Page/加藤鷹.md "wikilink")、[田村ゆかり](https://ja.wikipedia.org/wiki/田村ゆかり "wikilink")、風見みずほ、[ビル・ゲイツ](../Page/ビル・ゲイツ.md "wikilink")などか降霊した。
+        リスナーのお悩み相談のはずが途中から構成作家[伊福部崇](../Page/伊福部崇.md "wikilink")が乗り移った死者に質問し、浅野が成りきってそれに答える形になっていった。
 
 <!-- end list -->
 

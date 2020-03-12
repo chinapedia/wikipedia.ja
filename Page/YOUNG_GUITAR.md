@@ -8,31 +8,31 @@
 ## 略歴
 
   - 1969年5月号より創刊。創刊当時はフォーク雑誌だった。1970年代中期に入るとフォークソングだけでなく国内外の[ハードロック](../Page/ハードロック.md "wikilink")や[フュージョンも扱うようになる](../Page/フュージョン_\(音楽\).md "wikilink")。
-  - 1980年代に入ると徐々にハードロック色が強くなり、表紙を飾るギタリストもヘヴィメタル系が中心となる。1982年には[LOUDNESS](https://ja.wikipedia.org/wiki/LOUDNESS "wikilink")、[EARTHSHAKER](https://ja.wikipedia.org/wiki/EARTHSHAKER "wikilink")らが出演した「JAPAN HEAVY METAL FESTIVAL」といった国内のヘヴィメタル系アーティストのイベントも主催。YOUNG GUITAR誌が主催したこのフェスティバルは[聖飢魔II](../Page/聖飢魔II.md "wikilink")、[ANTHEM](https://ja.wikipedia.org/wiki/ANTHEM "wikilink")、[FLATBACKER](https://ja.wikipedia.org/wiki/FLATBACKER "wikilink")らが出演した1985年10月10日に[日比谷野外音楽堂](https://ja.wikipedia.org/wiki/日比谷野外音楽堂 "wikilink")で行われた「5th JAPAN HEAVY METAL FESTIVAL」まで続いた。
+  - 1980年代に入ると徐々にハードロック色が強くなり、表紙を飾るギタリストもヘヴィメタル系が中心となる。1982年には[LOUDNESS](../Page/LOUDNESS.md "wikilink")、[EARTHSHAKER](../Page/EARTHSHAKER.md "wikilink")らが出演した「JAPAN HEAVY METAL FESTIVAL」といった国内のヘヴィメタル系アーティストのイベントも主催。YOUNG GUITAR誌が主催したこのフェスティバルは[聖飢魔II](../Page/聖飢魔II.md "wikilink")、[ANTHEM](../Page/ANTHEM.md "wikilink")、[FLATBACKER](../Page/FLATBACKER.md "wikilink")らが出演した1985年10月10日に[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")で行われた「5th JAPAN HEAVY METAL FESTIVAL」まで続いた。
   - 1980年代～1990年代後半まで、国内外のギタリストの手形が掲載されていた。
   - 1990年代中期からは初代編集長の山本隆士の会社、“**ワイ・ジー・ファクトリー**”からの発行、発売がシンコー・ミュージックとなっていたが、2000年に入る前に編集長が交代し、発行元および発売元が元のシンコー・ミュージックとなった。
-  - 1999年1月号（表紙は[ジョン・サイクス](https://ja.wikipedia.org/wiki/ジョン・サイクス "wikilink")、[ザック・ワイルド](https://ja.wikipedia.org/wiki/ザック・ワイルド "wikilink")、[ポール・ギルバート](../Page/ポール・ギルバート.md "wikilink")）で初めて[CDが付録として付き](../Page/コンパクトディスク.md "wikilink")、2002年1月号（表紙は[スレイヤー](../Page/スレイヤー.md "wikilink")の[ケリー・キング](https://ja.wikipedia.org/wiki/ケリー・キング "wikilink")や元[パンテラ](https://ja.wikipedia.org/wiki/パンテラ "wikilink")の[ダイムバッグ・ダレル](https://ja.wikipedia.org/wiki/ダイムバッグ・ダレル "wikilink")ら2001年のBEAST FEAST出演アーティスト）で初めて[DVD](../Page/DVD.md "wikilink")が付録となった。DVDには有名ギタリストの演奏動画が収録されるなどしたことから注目されたが、付録のDVDは2017年1月号で終了し、2017年2月号から2019年1月号までは[ミュージック・カード](https://ja.wikipedia.org/wiki/ミュージック・カード "wikilink")によるダウンロード制となっていた。2019年2月号以降は[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")の公式アカウント（下記外部リンク参照）による配信となっている。
-  - 上記にある様にかつてはギタリストの手形を載せていたが、2015年1月号では特別付録として[高崎晃](https://ja.wikipedia.org/wiki/高崎晃 "wikilink")、[スティーヴ・ヴァイ](https://ja.wikipedia.org/wiki/スティーヴ・ヴァイ "wikilink")、[ポール・ギルバート](../Page/ポール・ギルバート.md "wikilink")、[スラッシュ](https://ja.wikipedia.org/wiki/スラッシュ_\(ミュージシャン\) "wikilink")、[ジョージ・リンチ](../Page/ジョージ・リンチ.md "wikilink")の立体型手形レプリカを封入した事が話題となった\[1\]。
+  - 1999年1月号（表紙は[ジョン・サイクス](../Page/ジョン・サイクス.md "wikilink")、[ザック・ワイルド](../Page/ザック・ワイルド.md "wikilink")、[ポール・ギルバート](../Page/ポール・ギルバート.md "wikilink")）で初めて[CDが付録として付き](../Page/コンパクトディスク.md "wikilink")、2002年1月号（表紙は[スレイヤー](../Page/スレイヤー.md "wikilink")の[ケリー・キング](https://ja.wikipedia.org/wiki/ケリー・キング "wikilink")や元[パンテラ](../Page/パンテラ.md "wikilink")の[ダイムバッグ・ダレル](../Page/ダイムバッグ・ダレル.md "wikilink")ら2001年のBEAST FEAST出演アーティスト）で初めて[DVD](../Page/DVD.md "wikilink")が付録となった。DVDには有名ギタリストの演奏動画が収録されるなどしたことから注目されたが、付録のDVDは2017年1月号で終了し、2017年2月号から2019年1月号までは[ミュージック・カード](https://ja.wikipedia.org/wiki/ミュージック・カード "wikilink")によるダウンロード制となっていた。2019年2月号以降は[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")の公式アカウント（下記外部リンク参照）による配信となっている。
+  - 上記にある様にかつてはギタリストの手形を載せていたが、2015年1月号では特別付録として[高崎晃](../Page/高崎晃.md "wikilink")、[スティーヴ・ヴァイ](../Page/スティーヴ・ヴァイ.md "wikilink")、[ポール・ギルバート](../Page/ポール・ギルバート.md "wikilink")、[スラッシュ](../Page/スラッシュ_\(ミュージシャン\).md "wikilink")、[ジョージ・リンチ](../Page/ジョージ・リンチ.md "wikilink")の立体型手形レプリカを封入した事が話題となった\[1\]。
 
 ## 歴代編集長
 
-| 代 | 氏名                                                    | 期間                  |
-| - | ----------------------------------------------------- | ------------------- |
-| 1 | 山本隆士                                                  | 1969年創刊号 - 1998年9月号 |
-| 2 | [烏丸哲也](https://ja.wikipedia.org/wiki/T.V. "wikilink") | 1998年9月号 - 2000年4月号 |
-| 3 | 長瀬啓                                                   | 2000年5月号 - 2009年3月号 |
-| 4 | 平井毅                                                   | 2009年4月号 - 2011年4月号 |
-| 5 | 上田慎也                                                  | 2011年5月号 - 在職中      |
-|   |                                                       |                     |
+| 代 | 氏名                                 | 期間                  |
+| - | ---------------------------------- | ------------------- |
+| 1 | 山本隆士                               | 1969年創刊号 - 1998年9月号 |
+| 2 | [烏丸哲也](../Page/T.V..md "wikilink") | 1998年9月号 - 2000年4月号 |
+| 3 | 長瀬啓                                | 2000年5月号 - 2009年3月号 |
+| 4 | 平井毅                                | 2009年4月号 - 2011年4月号 |
+| 5 | 上田慎也                               | 2011年5月号 - 在職中      |
+|   |                                    |                     |
 
 ## 連載
 
   - モリジュンの音の細道遊行記（時期不明 - 連載中） - 森田純一
   - ウイリアム・ヘイムスのL.A.通信 What's going on（1987年11月号 - 連載中） - [ウイリアム・ヘイムス](https://ja.wikipedia.org/wiki/ウイリアム・ヘイムス "wikilink")
-  - NOWでYOUNGなヅッカヅカ☆ギター人生（2013年5月号 ｰ 連載中） - [e-ZUKA](https://ja.wikipedia.org/wiki/飯塚昌明 "wikilink")（[GRANRODEO](https://ja.wikipedia.org/wiki/GRANRODEO "wikilink")）
+  - NOWでYOUNGなヅッカヅカ☆ギター人生（2013年5月号 ｰ 連載中） - [e-ZUKA](../Page/飯塚昌明.md "wikilink")（[GRANRODEO](../Page/GRANRODEO.md "wikilink")）
   - ろってぃーの Road to Guitar Heroine（2015年10月号 - 2018年8月号） - [川村真洋](https://ja.wikipedia.org/wiki/川村真洋 "wikilink")
   - ちゃっきーの地獄より愛をこめて（2015年11月号 - 連載中） - SAKI（[Mary's Blood](https://ja.wikipedia.org/wiki/Mary's_Blood "wikilink")）
-  - ROLLYのロック・ギター異人伝（2016年1月号 - 連載中） - [ROLLY](https://ja.wikipedia.org/wiki/ROLLY "wikilink")
+  - ROLLYのロック・ギター異人伝（2016年1月号 - 連載中） - [ROLLY](../Page/ROLLY.md "wikilink")
   - 素人おっさんギタリスト 脱力★トレーニング！（2017年11月号 - 連載中） - 尾谷幸憲
   - IRONBUNNYの速弾きバカ一代（2019年6月号 - 連載中）- [Ediee Ironbunny](https://ja.wikipedia.org/wiki/IRONBUNNY "wikilink")
 
@@ -42,7 +42,7 @@
 
 ## 関連項目
 
-  - [イーエスピー](https://ja.wikipedia.org/wiki/イーエスピー "wikilink")
+  - [イーエスピー](../Page/イーエスピー.md "wikilink")
   - [森久保祥太郎 presents IRONBUNNY'S ROCK ROCKER ROCKEST](https://ja.wikipedia.org/wiki/森久保祥太郎_presents_IRONBUNNY'S_ROCK_ROCKER_ROCKEST "wikilink")
 
 ## 外部リンク

@@ -5,7 +5,7 @@
 
 ## 作品
 
-  - シングル『[ZERO LANDMINE](https://ja.wikipedia.org/wiki/ZERO_LANDMINE "wikilink")』（[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")）（CD：2001年4月25日、LP：8月22日）
+  - シングル『[ZERO LANDMINE](../Page/ZERO_LANDMINE.md "wikilink")』（[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")）（CD：2001年4月25日、LP：8月22日）
 
 <!-- end list -->
 
@@ -24,23 +24,23 @@
   - [細野晴臣](../Page/細野晴臣.md "wikilink")
   - [高橋幸宏](../Page/高橋幸宏.md "wikilink")
   - [佐野元春](../Page/佐野元春.md "wikilink")
-  - [大貫妙子](https://ja.wikipedia.org/wiki/大貫妙子 "wikilink")
+  - [大貫妙子](../Page/大貫妙子.md "wikilink")
   - [デヴィッド・シルヴィアン](../Page/デヴィッド・シルヴィアン.md "wikilink")
   - [CHARA](https://ja.wikipedia.org/wiki/CHARA "wikilink")
-  - [DREAMS COME TRUE](../Page/DREAMS_COME_TRUE.md "wikilink")（[吉田美和](https://ja.wikipedia.org/wiki/吉田美和 "wikilink")、[中村正人](https://ja.wikipedia.org/wiki/中村正人 "wikilink")、[西川隆宏](https://ja.wikipedia.org/wiki/西川隆宏 "wikilink")）
+  - [DREAMS COME TRUE](../Page/DREAMS_COME_TRUE.md "wikilink")（[吉田美和](../Page/吉田美和.md "wikilink")、[中村正人](https://ja.wikipedia.org/wiki/中村正人 "wikilink")、[西川隆宏](https://ja.wikipedia.org/wiki/西川隆宏 "wikilink")）
   - [UA](https://ja.wikipedia.org/wiki/UA_\(歌手\) "wikilink")
   - [GLAY](../Page/GLAY.md "wikilink")（[TAKURO](../Page/TAKURO.md "wikilink")、[TERU](../Page/TERU.md "wikilink")）
   - [シンディ・ローパー](../Page/シンディ・ローパー.md "wikilink")
   - [桜井和寿](../Page/桜井和寿.md "wikilink")（[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")）
-  - [SUGIZO](https://ja.wikipedia.org/wiki/SUGIZO "wikilink")（[LUNA SEA](../Page/LUNA_SEA.md "wikilink")）
-  - [ヤマタカEYE](https://ja.wikipedia.org/wiki/ヤマタカEYE "wikilink")（[ボアダムス](https://ja.wikipedia.org/wiki/ボアダムス "wikilink")）
-  - [DJ KRUSH](https://ja.wikipedia.org/wiki/DJ_KRUSH "wikilink")
-  - [ブライアン・イーノ](https://ja.wikipedia.org/wiki/ブライアン・イーノ "wikilink")
+  - [SUGIZO](../Page/SUGIZO.md "wikilink")（[LUNA SEA](../Page/LUNA_SEA.md "wikilink")）
+  - [ヤマタカEYE](https://ja.wikipedia.org/wiki/ヤマタカEYE "wikilink")（[ボアダムス](../Page/ボアダムス.md "wikilink")）
+  - [DJ KRUSH](../Page/DJ_KRUSH.md "wikilink")
+  - [ブライアン・イーノ](../Page/ブライアン・イーノ.md "wikilink")
   - [スティーヴ・ジャンセン](https://ja.wikipedia.org/wiki/スティーヴ・ジャンセン "wikilink")
   - [クラフトワーク](../Page/クラフトワーク.md "wikilink")（「ZERO LANDMINE」のサウンドロゴ制作）
   - キム･ドクス（金徳洙）
   - [東京少年少女合唱隊](https://ja.wikipedia.org/wiki/東京少年少女合唱隊 "wikilink")
-  - [ヤドランカ](https://ja.wikipedia.org/wiki/ヤドランカ "wikilink")
+  - [ヤドランカ](../Page/ヤドランカ.md "wikilink")
 
 など多数
 

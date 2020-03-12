@@ -1,7 +1,7 @@
 > この記事は[AICJ](https://ja.wikipedia.org/wiki/AICJ)から翻訳されています。
 
 
-**AICJ中学校・高等学校**（エーアイシージェイちゅうがっこう・こうとうがっこう）は[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")[安佐南区](../Page/安佐南区.md "wikilink")に[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に開校した[私立の](../Page/私立学校.md "wikilink")[中高一貫校](https://ja.wikipedia.org/wiki/中高一貫校 "wikilink")である。[国際バカロレア](../Page/国際バカロレア.md "wikilink")認定校。
+**AICJ中学校・高等学校**（エーアイシージェイちゅうがっこう・こうとうがっこう）は[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")[安佐南区](../Page/安佐南区.md "wikilink")に[2006年](../Page/2006年.md "wikilink")に開校した[私立の](../Page/私立学校.md "wikilink")[中高一貫校](https://ja.wikipedia.org/wiki/中高一貫校 "wikilink")である。[国際バカロレア](../Page/国際バカロレア.md "wikilink")認定校。
 
 ## 概要
 
@@ -11,7 +11,7 @@ AICJは「**A**cademy for the **I**nternational **C**ommunity in **J**apan」の
 
 生徒数は中高6学年で約700名で、寮生は60名程度。
 
-学校の運営は広島で「鴎州塾」を展開する[鴎州コーポレーション](https://ja.wikipedia.org/wiki/鴎州コーポレーション "wikilink")傘下の「学校法人AICJ鴎州学園」が行っている。 理事長は薗部明史。顧問は[竹村健一](../Page/竹村健一.md "wikilink")。
+学校の運営は広島で「鴎州塾」を展開する[鴎州コーポレーション](../Page/鴎州コーポレーション.md "wikilink")傘下の「学校法人AICJ鴎州学園」が行っている。 理事長は薗部明史。顧問は[竹村健一](../Page/竹村健一.md "wikilink")。
 
 ## コース
 
@@ -41,9 +41,9 @@ AICJは「**A**cademy for the **I**nternational **C**ommunity in **J**apan」の
 
 ## 沿革
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") - [鴎州コーポレーション](https://ja.wikipedia.org/wiki/鴎州コーポレーション "wikilink")、中高一貫校の設立の構想を表明。
-      - 学校法人大下学園（[広島中央女子短期大学](https://ja.wikipedia.org/wiki/広島中央女子短期大学 "wikilink")等を運営）の経営権を同社が承継し、学校法人AICJ鴎州学園に改称。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink") - 大下学園祇園高等学校の敷地及び設備を転用し、**AICJ中学校**開校。
+  - [2005年](../Page/2005年.md "wikilink") - [鴎州コーポレーション](../Page/鴎州コーポレーション.md "wikilink")、中高一貫校の設立の構想を表明。
+      - 学校法人大下学園（[広島中央女子短期大学](../Page/広島中央女子短期大学.md "wikilink")等を運営）の経営権を同社が承継し、学校法人AICJ鴎州学園に改称。
+  - [2006年](../Page/2006年.md "wikilink") - 大下学園祇園高等学校の敷地及び設備を転用し、**AICJ中学校**開校。
   - [2007年](../Page/2007年.md "wikilink") - 同地に**AICJ高等学校**開校。
   - [2016年](../Page/2016年.md "wikilink") - 新校舎竣工。
   - [2017年](../Page/2017年.md "wikilink") - 人工芝グラウンド完成。
@@ -52,11 +52,11 @@ AICJは「**A**cademy for the **I**nternational **C**ommunity in **J**apan」の
 
 ### 所在地
 
-  - 広島県広島市安佐南区[祇園](https://ja.wikipedia.org/wiki/祇園_\(広島市\) "wikilink")2-33-16
+  - 広島県広島市安佐南区[祇園](../Page/祇園_\(広島市\).md "wikilink")2-33-16
 
 ### アクセス
 
-  - [JR](https://ja.wikipedia.org/wiki/西日本旅客鉄道 "wikilink")[可部線](https://ja.wikipedia.org/wiki/可部線 "wikilink")[下祇園駅](../Page/下祇園駅.md "wikilink")より徒歩3分
+  - [JR](../Page/西日本旅客鉄道.md "wikilink")[可部線](https://ja.wikipedia.org/wiki/可部線 "wikilink")[下祇園駅](../Page/下祇園駅.md "wikilink")より徒歩3分
   - [広島交通](../Page/広島交通.md "wikilink")中祇園バス停より徒歩1分
   - 広島交通・[広電バス](../Page/広電バス.md "wikilink")今津バス停より徒歩5分
 
@@ -79,7 +79,7 @@ AICJは「**A**cademy for the **I**nternational **C**ommunity in **J**apan」の
 
 ## 関連項目
 
-  - [広島県高等学校一覧](https://ja.wikipedia.org/wiki/広島県高等学校一覧 "wikilink")
+  - [広島県高等学校一覧](../Page/広島県高等学校一覧.md "wikilink")
 
 ## 外部リンク
 

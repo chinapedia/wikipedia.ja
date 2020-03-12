@@ -1,7 +1,7 @@
 > この記事は[COACH](https://ja.wikipedia.org/wiki/COACH)から翻訳されています。
 
 
-**COACH☆**（コーチ）は、日本の女性5人組歌手（女優・声優）グループである。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")結成。同年[8月13日](../Page/8月13日.md "wikilink")、[マキシシングル](../Page/シングル.md "wikilink")「スタートライン」でメジャーデビュー。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月18日](../Page/3月18日.md "wikilink")に解散。
+**COACH☆**（コーチ）は、日本の女性5人組歌手（女優・声優）グループである。[2005年](../Page/2005年.md "wikilink")結成。同年[8月13日](../Page/8月13日.md "wikilink")、[マキシシングル](../Page/シングル.md "wikilink")「スタートライン」でメジャーデビュー。[2006年](../Page/2006年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")に解散。
 
 ## メンバー
 
@@ -16,12 +16,12 @@
 <th><p>出身地</p></th>
 <th><p>『スーパーお芝居スクールランブル』<br />
 での役名</p></th>
-<th><p>『<a href="https://ja.wikipedia.org/wiki/涼風_(漫画)" title="wikilink">涼風</a>』での役名</p></th>
+<th><p>『<a href="../Page/涼風_(漫画).md" title="wikilink">涼風</a>』での役名</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/明坂聡美" title="wikilink">明坂聡美</a></p></td>
+<td><p><a href="../Page/明坂聡美.md" title="wikilink">明坂聡美</a></p></td>
 <td><p>あけさか さとみ</p></td>
 <td><p><a href="../Page/1988年.md" title="wikilink">1988年</a><a href="../Page/1月2日.md" title="wikilink">1月2日</a></p></td>
 <td><p>埼玉県</p></td>
@@ -72,7 +72,7 @@
           -
             作詞：TOMBOW、作曲・編曲：[宅見将典](../Page/宅見将典.md "wikilink")
         <!-- end list -->
-          - テレビアニメ『[涼風](https://ja.wikipedia.org/wiki/涼風_\(漫画\) "wikilink")』[オープニングテーマ](https://ja.wikipedia.org/wiki/主題歌 "wikilink")
+          - テレビアニメ『[涼風](../Page/涼風_\(漫画\).md "wikilink")』[オープニングテーマ](../Page/主題歌.md "wikilink")
     2.  青いフィールド
           -
             作詞：TAPIKO、作曲：POM、編曲：[can/goo](https://ja.wikipedia.org/wiki/can/goo "wikilink")＆時乗浩一郎
@@ -88,7 +88,7 @@
       - 青いフィールド〜TV EDIT version〜
     <!-- end list -->
       -
-        「スタートライン」の[プロモーションビデオが収録されたDVDも付属](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。
+        「スタートライン」の[プロモーションビデオが収録されたDVDも付属](../Page/ミュージック・ビデオ.md "wikilink")。
   - 涼風キャラクターソング集&オリジナルサウンドトラック「ミュージックフィールド2」（2005年[11月23日](../Page/11月23日.md "wikilink")、KICA-735）
       - 君のこと
           -
@@ -108,7 +108,7 @@
 
 <!-- end list -->
 
-  - [涼風Radio COACH☆しちゃうぞ\!](https://ja.wikipedia.org/wiki/涼風_\(漫画\) "wikilink")（公式サイトインターネットラジオ）
+  - [涼風Radio COACH☆しちゃうぞ\!](../Page/涼風_\(漫画\).md "wikilink")（公式サイトインターネットラジオ）
 
 <!-- end list -->
 
@@ -126,7 +126,7 @@
 ### 雑誌
 
   - [週刊少年マガジン](https://ja.wikipedia.org/wiki/週刊少年マガジン "wikilink")（2005年7月6日発売）
-  - [アニカン](https://ja.wikipedia.org/wiki/アニカン "wikilink")（2005年7月16日配布開始）
+  - [アニカン](../Page/アニカン.md "wikilink")（2005年7月16日配布開始）
   - すたちゃまにあ?\!（2005年7月16日配布開始）
   - [hm3 SPECIAL](https://ja.wikipedia.org/wiki/hm3_SPECIAL "wikilink") 10月号（2005年8月16日発売）
   - [声優グランプリ](../Page/声優グランプリ.md "wikilink") 11月号（2005年10月10日発売）
@@ -139,7 +139,7 @@
 
 ## 外部リンク
 
-  - [COACH☆オフィシャルページ](http://www.starchild.co.jp/special/suzuka/coachindex.html) - [スターチャイルド](https://ja.wikipedia.org/wiki/スターチャイルド "wikilink")
+  - [COACH☆オフィシャルページ](http://www.starchild.co.jp/special/suzuka/coachindex.html) - [スターチャイルド](../Page/スターチャイルド.md "wikilink")
   - [テレビアニメ『涼風』公式サイト リリースページ](http://www.starchild.co.jp/special/suzuka/release.html) - スターチャイルド
 
 [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:声優ユニット](https://ja.wikipedia.org/wiki/Category:声優ユニット "wikilink") [Category:スターチャイルドのアーティスト](https://ja.wikipedia.org/wiki/Category:スターチャイルドのアーティスト "wikilink")

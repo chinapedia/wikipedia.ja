@@ -9,7 +9,7 @@
 
 後に、MSNやネットスケープに対抗するため、社名をExciteに変更した。
 
-一時は[Yahoo\!](https://ja.wikipedia.org/wiki/Yahoo! "wikilink")、[Infoseek](https://ja.wikipedia.org/wiki/Infoseek "wikilink")、[Lycos](https://ja.wikipedia.org/wiki/Lycos "wikilink")などと並び大手検索エンジンの一角を占め、特に創業間もないYahoo\!の強力なライバルであった。
+一時は[Yahoo\!](../Page/Yahoo!.md "wikilink")、[Infoseek](https://ja.wikipedia.org/wiki/Infoseek "wikilink")、[Lycos](https://ja.wikipedia.org/wiki/Lycos "wikilink")などと並び大手検索エンジンの一角を占め、特に創業間もないYahoo\!の強力なライバルであった。
 
 創業直後の[Google](../Page/Google.md "wikilink")との提携話があったが、Excite側はその後検索エンジン業界のトップにまで成長するGoogleの価値を見抜けず、提携は成立しなかった。このことがExciteの運命の岐路となったとも言われる。
 
@@ -17,7 +17,7 @@
 
 またそれに伴い、[2002年](../Page/2002年.md "wikilink")には日本を含むアジア圏での「Excite」ブランドの使用権を[伊藤忠商事](https://ja.wikipedia.org/wiki/伊藤忠商事 "wikilink")に売却した\[3\]ほか、日本の現地法人である[エキサイト](../Page/エキサイト.md "wikilink")株式会社についても、@Homeの保有する全株式を伊藤忠商事に売却し、日本市場から事実上撤退した。
 
-[2004年](../Page/2004年.md "wikilink")には、当時のAsk JeevesがExcite Networkを買収し、現在は[Ask.com](https://ja.wikipedia.org/wiki/Ask.com "wikilink")など同社が運営する検索エンジンと並行して運用されている。
+[2004年](../Page/2004年.md "wikilink")には、当時のAsk JeevesがExcite Networkを買収し、現在は[Ask.com](../Page/Ask.com.md "wikilink")など同社が運営する検索エンジンと並行して運用されている。
 
 ## 脚注
 

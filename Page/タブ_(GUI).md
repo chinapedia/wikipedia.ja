@@ -5,7 +5,7 @@
 
 このタブというGUIは本の索引や[フォルダ](https://ja.wikipedia.org/wiki/フォルダ "wikilink")管理に使われる紙タブに発想を得て作られたものであり、ユーザインターフェースの利用をスムーズにするためにしばしば利用されている。
 
-タブ方式の[インタフェースのことは](https://ja.wikipedia.org/wiki/インタフェース_\(情報技術\) "wikilink")  と呼ぶ。
+タブ方式の[インタフェースのことは](../Page/インタフェース_\(情報技術\).md "wikilink")  と呼ぶ。
 
 ## ウェブサイトにおけるタブ
 
@@ -13,7 +13,7 @@
 
 ## 関連項目
 
-  - [タブブラウザ](https://ja.wikipedia.org/wiki/タブブラウザ "wikilink")
-  - [タブ](https://ja.wikipedia.org/wiki/タブ "wikilink")
+  - [タブブラウザ](../Page/タブブラウザ.md "wikilink")
+  - [タブ](../Page/タブ.md "wikilink")
 
 [Category:ウィジェット](https://ja.wikipedia.org/wiki/Category:ウィジェット "wikilink")

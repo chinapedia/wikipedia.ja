@@ -5,13 +5,13 @@
 
 ## 解説
 
-アルバム『[FACES PLACES](https://ja.wikipedia.org/wiki/FACES_PLACES_\(アルバム\) "wikilink")』からシングルカット。
+アルバム『[FACES PLACES](../Page/FACES_PLACES_\(アルバム\).md "wikilink")』からシングルカット。
 
 ## 収録曲
 
 1.  **Anytime smokin' cigarette (STRAIGHT RUN)**
       -
-        Written by [TETSUYA KOMURO](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink") & [MARC](https://ja.wikipedia.org/wiki/マーク・パンサー "wikilink")　　Composed & Arranged by [TETSUYA KOMURO](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
+        Written by [TETSUYA KOMURO](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink") & [MARC](../Page/マーク・パンサー.md "wikilink")　　Composed & Arranged by [TETSUYA KOMURO](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
 2.  **Anytime smokin' cigarette (BLACK LUNG MIX)**
 3.  **Anytime smokin' cigarette (INSTRUMENTAL)**
 
@@ -19,8 +19,8 @@
 
 **Anytime smokin' cigarette**
 
-  - [FACES PLACES](https://ja.wikipedia.org/wiki/FACES_PLACES_\(アルバム\) "wikilink")
-  - [CRUISE RECORD 1995-2000](https://ja.wikipedia.org/wiki/CRUISE_RECORD_1995-2000 "wikilink")
+  - [FACES PLACES](../Page/FACES_PLACES_\(アルバム\).md "wikilink")
+  - [CRUISE RECORD 1995-2000](../Page/CRUISE_RECORD_1995-2000.md "wikilink")
   - [globe decade -single history 1995-2004-](https://ja.wikipedia.org/wiki/globe_decade_-single_history_1995-2004- "wikilink")
   - [15YEARS -BEST HIT SELECTION-](https://ja.wikipedia.org/wiki/15YEARS_-BEST_HIT_SELECTION- "wikilink")
   - [\#globe20th -SPECIAL COVER BEST-](https://ja.wikipedia.org/wiki/globe20th_-SPECIAL_COVER_BEST- "wikilink")（COVER+BEST盤のみ短縮バージョンを収録）

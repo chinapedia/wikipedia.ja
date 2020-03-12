@@ -13,14 +13,14 @@
 
 「BRAND NEW globe 4 SINGLES」の4作品は一貫して『悪夢』をテーマにした[プロモーションビデオ](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")が製作されている。
 
-この楽曲では『[MARCが見た悪夢](https://ja.wikipedia.org/wiki/マーク・パンサー "wikilink")』をテーマにプロモーションビデオが製作されたが、諸般の事情でPV集などに収録されていない。
+この楽曲では『[MARCが見た悪夢](../Page/マーク・パンサー.md "wikilink")』をテーマにプロモーションビデオが製作されたが、諸般の事情でPV集などに収録されていない。
 
 ## 収録曲
 
 1.  **Sa Yo Na Ra (Straight Run)**
       -
-        Written by [TK](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink") & [MARC](https://ja.wikipedia.org/wiki/マーク・パンサー "wikilink")　　Composed & Arranged by [TETSUYA KOMURO](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
-        [NESCAFE](https://ja.wikipedia.org/wiki/ネスカフェ "wikilink")「ウェイクアップモーメント・ブレイクタイムモーメント」CMソング
+        Written by [TK](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink") & [MARC](../Page/マーク・パンサー.md "wikilink")　　Composed & Arranged by [TETSUYA KOMURO](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
+        [NESCAFE](../Page/ネスカフェ.md "wikilink")「ウェイクアップモーメント・ブレイクタイムモーメント」CMソング
 2.  **Sa Yo Na Ra (BUZZ mix)**
 3.  **Sa Yo Na Ra (TV mix)**
 
@@ -28,8 +28,8 @@
 
 **Sa Yo Na Ra**
 
-  - [Relation](https://ja.wikipedia.org/wiki/Relation_\(globeのアルバム\) "wikilink")（アルバムバージョン）
-  - [CRUISE RECORD 1995-2000](https://ja.wikipedia.org/wiki/CRUISE_RECORD_1995-2000 "wikilink")
+  - [Relation](../Page/Relation_\(globeのアルバム\).md "wikilink")（アルバムバージョン）
+  - [CRUISE RECORD 1995-2000](../Page/CRUISE_RECORD_1995-2000.md "wikilink")
   - [Ballads & Memories](https://ja.wikipedia.org/wiki/Ballads_&_Memories "wikilink")
   - [globe decade -single history 1995-2004-](https://ja.wikipedia.org/wiki/globe_decade_-single_history_1995-2004- "wikilink")
   - [15YEARS -BEST HIT SELECTION-](https://ja.wikipedia.org/wiki/15YEARS_-BEST_HIT_SELECTION- "wikilink")（アルバムバージョン）
@@ -37,11 +37,11 @@
 
 ## カバー
 
-  - [梅田彩佳](https://ja.wikipedia.org/wiki/梅田彩佳 "wikilink") - V.A.『[\#globe20th -SPECIAL COVER BEST-](https://ja.wikipedia.org/wiki/globe20th_-SPECIAL_COVER_BEST- "wikilink")』（2015年12月16日）に収録\[2\]。
+  - [梅田彩佳](../Page/梅田彩佳.md "wikilink") - V.A.『[\#globe20th -SPECIAL COVER BEST-](https://ja.wikipedia.org/wiki/globe20th_-SPECIAL_COVER_BEST- "wikilink")』（2015年12月16日）に収録\[2\]。
 
 ## 脚注
 
 [Category:Globeの楽曲](https://ja.wikipedia.org/wiki/Category:Globeの楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:マーク・パンサーが制作した楽曲](https://ja.wikipedia.org/wiki/Category:マーク・パンサーが制作した楽曲 "wikilink") [Category:1998年のシングル](https://ja.wikipedia.org/wiki/Category:1998年のシングル "wikilink") [Category:1998年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1998年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:ネスカフェのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:ネスカフェのコマーシャルソング "wikilink") [Category:楽曲_さ](https://ja.wikipedia.org/wiki/Category:楽曲_さ "wikilink") [Category:失恋を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:失恋を題材とした楽曲 "wikilink")
 
-1.  [日経BP](https://ja.wikipedia.org/wiki/日経BP "wikilink")刊「[日経エンタテインメント\!](https://ja.wikipedia.org/wiki/日経エンタテインメント! "wikilink")」1998年12月号166Pより。
+1.  [日経BP](../Page/日経BP.md "wikilink")刊「[日経エンタテインメント\!](../Page/日経エンタテインメント!.md "wikilink")」1998年12月号166Pより。
 2.

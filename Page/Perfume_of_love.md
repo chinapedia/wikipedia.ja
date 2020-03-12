@@ -7,7 +7,7 @@
 
 「BRAND NEW globe 4 SINGLES」（4枚連続リリース）の第4弾として発売。
 
-登場2週目の1998年10月26日付[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")で、「[wanna Be A Dreammaker](https://ja.wikipedia.org/wiki/wanna_Be_A_Dreammaker "wikilink")」(10位）「[Sa Yo Na Ra](../Page/Sa_Yo_Na_Ra.md "wikilink")」（7位）「[sweet heart](https://ja.wikipedia.org/wiki/sweet_heart_\(globeの曲\) "wikilink")」（8位）「Perfume of love」（3位）がチャートイン。同シングルチャート初の4作品同時トップ10入りを達成した。
+登場2週目の1998年10月26日付[オリコンチャート](../Page/オリコンチャート.md "wikilink")で、「[wanna Be A Dreammaker](https://ja.wikipedia.org/wiki/wanna_Be_A_Dreammaker "wikilink")」(10位）「[Sa Yo Na Ra](../Page/Sa_Yo_Na_Ra.md "wikilink")」（7位）「[sweet heart](https://ja.wikipedia.org/wiki/sweet_heart_\(globeの曲\) "wikilink")」（8位）「Perfume of love」（3位）がチャートイン。同シングルチャート初の4作品同時トップ10入りを達成した。
 
 「BRAND NEW globe 4 SINGLESの」4作品は一貫して『悪夢』をテーマにしたプロモーションビデオが製作されている。 この楽曲では『悪夢からの目覚め』をテーマにプロモーションビデオが製作された。
 
@@ -15,7 +15,7 @@
 
 1.  **Perfume of love (Straight Run)**
       -
-        Written by [TK](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink") & [MARC](https://ja.wikipedia.org/wiki/マーク・パンサー "wikilink")　　Composed & Arranged by [TETSUYA KOMURO](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
+        Written by [TK](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink") & [MARC](../Page/マーク・パンサー.md "wikilink")　　Composed & Arranged by [TETSUYA KOMURO](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
         [日本テレビ系ドラマ](../Page/日本テレビ放送網.md "wikilink")「[P.A.](../Page/P.A..md "wikilink") プライベート・アクトレス」主題歌
 2.  **Perfume of love (Aromatic mix)**
 3.  **Perfume of love (TV Mix)**
@@ -24,8 +24,8 @@
 
 **Perfume of love**
 
-  - [Relation](https://ja.wikipedia.org/wiki/Relation_\(globeのアルバム\) "wikilink")（アルバムバージョン）
-  - [CRUISE RECORD 1995-2000](https://ja.wikipedia.org/wiki/CRUISE_RECORD_1995-2000 "wikilink")
+  - [Relation](../Page/Relation_\(globeのアルバム\).md "wikilink")（アルバムバージョン）
+  - [CRUISE RECORD 1995-2000](../Page/CRUISE_RECORD_1995-2000.md "wikilink")
   - [globe decade -single history 1995-2004-](https://ja.wikipedia.org/wiki/globe_decade_-single_history_1995-2004- "wikilink")
   - [15YEARS -BEST HIT SELECTION-](https://ja.wikipedia.org/wiki/15YEARS_-BEST_HIT_SELECTION- "wikilink")（アルバムバージョン）
 

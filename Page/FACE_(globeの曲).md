@@ -5,9 +5,9 @@
 
 ## 解説
 
-[オリコン初登場](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位。前作「[Can't Stop Fallin' in Love](../Page/Can't_Stop_Fallin'_in_Love.md "wikilink")」に続き2作連続のミリオンヒットとなった。globeのシングルの中では「[DEPARTURES](https://ja.wikipedia.org/wiki/DEPARTURES "wikilink")」に次ぐ2番目の売り上げ。歴代シングル売り上げ112位。
+[オリコン初登場](../Page/オリコンチャート.md "wikilink")1位。前作「[Can't Stop Fallin' in Love](../Page/Can't_Stop_Fallin'_in_Love.md "wikilink")」に続き2作連続のミリオンヒットとなった。globeのシングルの中では「[DEPARTURES](../Page/DEPARTURES.md "wikilink")」に次ぐ2番目の売り上げ。歴代シングル売り上げ112位。
 
-globeのデビュー10周年を記念して[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月16日](../Page/2月16日.md "wikilink")に発売された[CD-BOX](https://ja.wikipedia.org/wiki/CD-BOX "wikilink")『[globe decade -complete box 1995-2004-](https://ja.wikipedia.org/wiki/globe_decade_-complete_box_1995-2004- "wikilink")』と[シングルコレクションアルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[globe decade -single history 1995-2004-](https://ja.wikipedia.org/wiki/globe_decade_-single_history_1995-2004- "wikilink")』にはミックスが異なる未発表バージョン、また、『globe decade -complete box 1995-2004-』のみTrack 2に未発表[リミックス](https://ja.wikipedia.org/wiki/リミックス "wikilink")が収録されている。[iTunes Storeでは未発表バージョン](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")、未発表リミックスが配信されている。
+globeのデビュー10周年を記念して[2005年](../Page/2005年.md "wikilink")[2月16日](../Page/2月16日.md "wikilink")に発売された[CD-BOX](https://ja.wikipedia.org/wiki/CD-BOX "wikilink")『[globe decade -complete box 1995-2004-](https://ja.wikipedia.org/wiki/globe_decade_-complete_box_1995-2004- "wikilink")』と[シングルコレクションアルバム](../Page/ベスト・アルバム.md "wikilink")『[globe decade -single history 1995-2004-](https://ja.wikipedia.org/wiki/globe_decade_-single_history_1995-2004- "wikilink")』にはミックスが異なる未発表バージョン、また、『globe decade -complete box 1995-2004-』のみTrack 2に未発表[リミックス](../Page/リミックス.md "wikilink")が収録されている。[iTunes Storeでは未発表バージョン](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")、未発表リミックスが配信されている。
 
 2016年には「MUSIC VIDEOドラマプロジェクト」で本曲をモチーフにしたMVドラマが制作され、[池田エライザ](https://ja.wikipedia.org/wiki/池田エライザ "wikilink")が主演\[1\]\[2\]。
 
@@ -15,9 +15,9 @@ globeのデビュー10周年を記念して[2005年](https://ja.wikipedia.org/wi
 
 1.  **FACE \[STRAIGHT RUN\]** (6:16)
       -
-        Written by [TETSUYA KOMURO](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink") & [MARC](https://ja.wikipedia.org/wiki/マーク・パンサー "wikilink")　　Composed & Arranged by [TETSUYA KOMURO](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
-        [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[木曜劇場](https://ja.wikipedia.org/wiki/木曜劇場 "wikilink")「[彼女たちの結婚](https://ja.wikipedia.org/wiki/彼女たちの結婚 "wikilink")」主題歌
-        [NTT](https://ja.wikipedia.org/wiki/日本電信電話 "wikilink")「まるちねっとフェア」CMソング
+        Written by [TETSUYA KOMURO](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink") & [MARC](../Page/マーク・パンサー.md "wikilink")　　Composed & Arranged by [TETSUYA KOMURO](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
+        [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[木曜劇場](../Page/木曜劇場.md "wikilink")「[彼女たちの結婚](../Page/彼女たちの結婚.md "wikilink")」主題歌
+        [NTT](../Page/日本電信電話.md "wikilink")「まるちねっとフェア」CMソング
 2.  **FACE \[TRISTESSE DE L'AMOUR MIX\]** (6:36)
       -
         Remixed by TETSUYA KOMURO
@@ -27,8 +27,8 @@ globeのデビュー10周年を記念して[2005年](https://ja.wikipedia.org/wi
 
 **FACE**
 
-  - [FACES PLACES](https://ja.wikipedia.org/wiki/FACES_PLACES_\(アルバム\) "wikilink")（アルバムバージョン）
-  - [CRUISE RECORD 1995-2000](https://ja.wikipedia.org/wiki/CRUISE_RECORD_1995-2000 "wikilink")
+  - [FACES PLACES](../Page/FACES_PLACES_\(アルバム\).md "wikilink")（アルバムバージョン）
+  - [CRUISE RECORD 1995-2000](../Page/CRUISE_RECORD_1995-2000.md "wikilink")
   - [8 Years ～Many Classic Moments～](https://ja.wikipedia.org/wiki/8_Years_～Many_Classic_Moments～ "wikilink")
   - [globe decade -single history 1995-2004-](https://ja.wikipedia.org/wiki/globe_decade_-single_history_1995-2004- "wikilink")（未発表の別ミックスバージョンであり、アルバムバージョンとも異なる）
   - [15YEARS -BEST HIT SELECTION-](https://ja.wikipedia.org/wiki/15YEARS_-BEST_HIT_SELECTION- "wikilink")（アルバムバージョン）
@@ -37,7 +37,7 @@ globeのデビュー10周年を記念して[2005年](https://ja.wikipedia.org/wi
 ## カバー
 
   - [GReeeeN](https://ja.wikipedia.org/wiki/GReeeeN "wikilink") - V.A.『[\#globe20th -SPECIAL COVER BEST-](https://ja.wikipedia.org/wiki/globe20th_-SPECIAL_COVER_BEST- "wikilink")』（2015年12月16日）に収録\[3\]。
-  - [Aphrodite](https://ja.wikipedia.org/wiki/Aphrodite "wikilink") - [コンピレーション・アルバム](https://ja.wikipedia.org/wiki/コンピレーション・アルバム "wikilink")『[EXA IDOL COMPLEX〜Super duper\!](https://ja.wikipedia.org/wiki/EXA_IDOL_COMPLEX〜Super_duper! "wikilink")』（2016年10月15日）に収録。
+  - [Aphrodite](https://ja.wikipedia.org/wiki/Aphrodite "wikilink") - [コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")『[EXA IDOL COMPLEX〜Super duper\!](https://ja.wikipedia.org/wiki/EXA_IDOL_COMPLEX〜Super_duper! "wikilink")』（2016年10月15日）に収録。
 
 ## 関連項目
 

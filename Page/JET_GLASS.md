@@ -5,7 +5,7 @@
 
 ## 解説
 
-  - [清春](https://ja.wikipedia.org/wiki/清春 "wikilink")プロデュースの第1弾作品。本シングルは[カセットテープであり](../Page/コンパクトカセット.md "wikilink")、1曲のみの収録。[コンドーム](../Page/コンドーム.md "wikilink")付で8,000枚限定。
+  - [清春](../Page/清春.md "wikilink")プロデュースの第1弾作品。本シングルは[カセットテープであり](../Page/コンパクトカセット.md "wikilink")、1曲のみの収録。[コンドーム](../Page/コンドーム.md "wikilink")付で8,000枚限定。
 
 <!-- end list -->
 

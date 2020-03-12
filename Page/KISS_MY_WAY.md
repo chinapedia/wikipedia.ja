@@ -1,7 +1,7 @@
 > この記事は[KISS MY WAY](https://ja.wikipedia.org/wiki/KISS_MY_WAY)から翻訳されています。
 
 
-『**KISS MY WAY**』（キス・マイ・ウェイ）は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")、[ゼリ→の](https://ja.wikipedia.org/wiki/JELLY→ "wikilink")3枚目のアルバムで、[2002年](../Page/2002年.md "wikilink")[5月22日](../Page/5月22日.md "wikilink")に発売された。発売元は[青空レコード](https://ja.wikipedia.org/wiki/青空レコード "wikilink")。同レーベルへの移籍後、初のアルバムである。
+『**KISS MY WAY**』（キス・マイ・ウェイ）は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")、[ゼリ→の](https://ja.wikipedia.org/wiki/JELLY→ "wikilink")3枚目のアルバムで、[2002年](../Page/2002年.md "wikilink")[5月22日](../Page/5月22日.md "wikilink")に発売された。発売元は[青空レコード](../Page/青空レコード.md "wikilink")。同レーベルへの移籍後、初のアルバムである。
 
 ## 収録曲
 
@@ -31,7 +31,7 @@
         （作詞・作曲：ヤフミ）
 9.  **[PRETTY VACANT](https://ja.wikipedia.org/wiki/プリティ・ヴェイカント "wikilink") (Bonus Track)** (3:11)
       -
-        （作詞・作曲：[ポール・クック](https://ja.wikipedia.org/wiki/ポール・クック "wikilink")、[スティーブ・ジョーンズ](https://ja.wikipedia.org/wiki/スティーヴ・ジョーンズ "wikilink")、[ジョニー・ロットン](https://ja.wikipedia.org/wiki/ジョニー・ロットン "wikilink")、[グレン・マトロック](https://ja.wikipedia.org/wiki/グレン・マトロック "wikilink")）
+        （作詞・作曲：[ポール・クック](../Page/ポール・クック.md "wikilink")、[スティーブ・ジョーンズ](../Page/スティーヴ・ジョーンズ.md "wikilink")、[ジョニー・ロットン](https://ja.wikipedia.org/wiki/ジョニー・ロットン "wikilink")、[グレン・マトロック](../Page/グレン・マトロック.md "wikilink")）
         [セックス・ピストルズ](../Page/セックス・ピストルズ.md "wikilink")の同ナンバーの[カヴァー](../Page/カバー.md "wikilink")。ヤフミとグレン・マトロックのかけあいも聴きどころである。
 
 [Category:JELLY→のアルバム](https://ja.wikipedia.org/wiki/Category:JELLY→のアルバム "wikilink") [Category:2002年のアルバム](https://ja.wikipedia.org/wiki/Category:2002年のアルバム "wikilink")

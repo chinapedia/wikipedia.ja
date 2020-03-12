@@ -58,15 +58,15 @@
 
   - [アラン・シモンセン](../Page/アラン・シモンセン.md "wikilink")
 
-  - [ブライアン・スティーン・ニールセン](https://ja.wikipedia.org/wiki/ブライアン・スティーン・ニールセン "wikilink")
+  - [ブライアン・スティーン・ニールセン](../Page/ブライアン・スティーン・ニールセン.md "wikilink")
 
   - [トーマス・グラベセン](https://ja.wikipedia.org/wiki/トーマス・グラベセン "wikilink")
 
-  - [中島ファラン一生](https://ja.wikipedia.org/wiki/中島ファラン一生 "wikilink")
+  - [中島ファラン一生](../Page/中島ファラン一生.md "wikilink")
 
-  - [橋本卓](https://ja.wikipedia.org/wiki/橋本卓 "wikilink")
+  - [橋本卓](../Page/橋本卓.md "wikilink")
 
-  - [バレー](https://ja.wikipedia.org/wiki/ジャデル・ヴォルネイ・スピンドラー "wikilink")
+  - [バレー](../Page/ジャデル・ヴォルネイ・スピンドラー.md "wikilink")
 
   - [ヨン・シヴェベーク](https://ja.wikipedia.org/wiki/ヨン・シヴェベーク "wikilink")
 

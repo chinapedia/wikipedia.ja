@@ -1,7 +1,7 @@
 > この記事は[SINGLES 2 \(Janne Da Arc\)](https://ja.wikipedia.org/wiki/SINGLES_2_\(Janne_Da_Arc\))から翻訳されています。
 
 
-『**SINGLES 2**』（シングルス・ツー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")[Janne Da Arc](https://ja.wikipedia.org/wiki/Janne_Da_Arc "wikilink")2枚目のシングルコレクションアルバム。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[2月21日](../Page/2月21日.md "wikilink")発売。発売元は[motorod](https://ja.wikipedia.org/wiki/motorod "wikilink")。
+『**SINGLES 2**』（シングルス・ツー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")[Janne Da Arc](../Page/Janne_Da_Arc.md "wikilink")2枚目のシングルコレクションアルバム。[2007年](../Page/2007年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")発売。発売元は[motorod](https://ja.wikipedia.org/wiki/motorod "wikilink")。
 
 ## 解説
 
@@ -17,14 +17,14 @@
 
 <!-- end list -->
 
-1.  **[FREEDOM](https://ja.wikipedia.org/wiki/FREEDOM_\(Janne_Da_Arcの曲\) "wikilink")**（作詞・作曲:[yasu](https://ja.wikipedia.org/wiki/yasu "wikilink")）
-2.  **[Kiss Me](https://ja.wikipedia.org/wiki/Kiss_Me_\(Janne_Da_Arcの曲\) "wikilink")**（作詞・作曲:yasu）
-3.  **[DOLLS](https://ja.wikipedia.org/wiki/DOLLS_\(Janne_Da_Arcの曲\) "wikilink")**（作詞・作曲:yasu）
-4.  **[ROMANC∃](https://ja.wikipedia.org/wiki/ROMANC∃ "wikilink")**（作詞・作曲:yasu）
+1.  **[FREEDOM](../Page/FREEDOM_\(Janne_Da_Arcの曲\).md "wikilink")**（作詞・作曲:[yasu](https://ja.wikipedia.org/wiki/yasu "wikilink")）
+2.  **[Kiss Me](../Page/Kiss_Me_\(Janne_Da_Arcの曲\).md "wikilink")**（作詞・作曲:yasu）
+3.  **[DOLLS](../Page/DOLLS_\(Janne_Da_Arcの曲\).md "wikilink")**（作詞・作曲:yasu）
+4.  **[ROMANC∃](../Page/ROMANC∃.md "wikilink")**（作詞・作曲:yasu）
 5.  **[BLACK JACK](https://ja.wikipedia.org/wiki/BLACK_JACK_\(Janne_Da_Arcの曲\) "wikilink")**（作詞・作曲:yasu）
-6.  **[Love is Here](https://ja.wikipedia.org/wiki/Love_is_Here "wikilink")**（作詞・作曲:yasu）
+6.  **[Love is Here](../Page/Love_is_Here.md "wikilink")**（作詞・作曲:yasu）
 7.  **[月光花](../Page/月光花.md "wikilink")**（作詞・作曲:yasu）
-8.  **[ダイヤモンドヴァージン](https://ja.wikipedia.org/wiki/ダイヤモンドヴァージン "wikilink")**（作詞・作曲:yasu）
+8.  **[ダイヤモンドヴァージン](../Page/ダイヤモンドヴァージン.md "wikilink")**（作詞・作曲:yasu）
 9.  **[振り向けば…](https://ja.wikipedia.org/wiki/振り向けば…/Destination "wikilink")**（作詞：yasu　作曲：[ka-yu](https://ja.wikipedia.org/wiki/ka-yu "wikilink")）
 10. **[Destination](https://ja.wikipedia.org/wiki/振り向けば…/Destination "wikilink")**（作詞：yasu，[kiyo](https://ja.wikipedia.org/wiki/kiyo "wikilink")　作曲：kiyo）
 11. **[HEAVEN](https://ja.wikipedia.org/wiki/HEAVEN/メビウス "wikilink")**（作詞・作曲:yasu）

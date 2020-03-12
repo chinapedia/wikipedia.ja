@@ -1,7 +1,7 @@
 > この記事は[CAPE OF GOOD HOPE](https://ja.wikipedia.org/wiki/CAPE_OF_GOOD_HOPE)から翻訳されています。
 
 
-**CAPE OF GOOD HOPE**（ケープ・オブ・グッド・ホープ）は日本の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")、[ゼリ→の](https://ja.wikipedia.org/wiki/JELLY→ "wikilink")6thアルバム。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月5日](../Page/4月5日.md "wikilink")発売。発売元は[VELVET SNOOZER](https://ja.wikipedia.org/wiki/VELVET_SNOOZER "wikilink")。[喜望峰](https://ja.wikipedia.org/wiki/喜望峰 "wikilink")の英語名から命名。[エンハンスドCD](https://ja.wikipedia.org/wiki/エンハンスドCD "wikilink")仕様であり、ニューヨークでのスペシャル映像を観ることができる。初回限定盤にはジャケットと同デザインのステッカーが同封。 [マスタリング](https://ja.wikipedia.org/wiki/マスタリング "wikilink")には[テッド・ジェンセン](https://ja.wikipedia.org/wiki/テッド・ジェンセン "wikilink")を起用している。
+**CAPE OF GOOD HOPE**（ケープ・オブ・グッド・ホープ）は日本の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")、[ゼリ→の](https://ja.wikipedia.org/wiki/JELLY→ "wikilink")6thアルバム。[2006年](../Page/2006年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")発売。発売元は[VELVET SNOOZER](https://ja.wikipedia.org/wiki/VELVET_SNOOZER "wikilink")。[喜望峰](../Page/喜望峰.md "wikilink")の英語名から命名。[エンハンスドCD](https://ja.wikipedia.org/wiki/エンハンスドCD "wikilink")仕様であり、ニューヨークでのスペシャル映像を観ることができる。初回限定盤にはジャケットと同デザインのステッカーが同封。 [マスタリング](../Page/マスタリング.md "wikilink")には[テッド・ジェンセン](https://ja.wikipedia.org/wiki/テッド・ジェンセン "wikilink")を起用している。
 
 ## 収録曲
 

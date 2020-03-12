@@ -1,7 +1,7 @@
 > この記事は[NO NEED](https://ja.wikipedia.org/wiki/NO_NEED)から翻訳されています。
 
 
-**NO NEED**（ノー・ニード）は日本の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")、[ゼリ→の](https://ja.wikipedia.org/wiki/JELLY→ "wikilink")2ndアルバム。[2001年](../Page/2001年.md "wikilink")[5月30日](../Page/5月30日.md "wikilink")発売。発売元は[東芝EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")。
+**NO NEED**（ノー・ニード）は日本の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")、[ゼリ→の](https://ja.wikipedia.org/wiki/JELLY→ "wikilink")2ndアルバム。[2001年](../Page/2001年.md "wikilink")[5月30日](../Page/5月30日.md "wikilink")発売。発売元は[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")。
 
 ## 収録曲
 

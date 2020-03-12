@@ -1,13 +1,13 @@
 > この記事は[PowerPC 601](https://ja.wikipedia.org/wiki/PowerPC_601)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:IBM_PowerPC601_PPC601FD-080-2_top.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:PPCA601v5FE1002_01.JPG "wikilink")  **PowerPC 601**シリーズは[アップルコンピュータ](../Page/アップル_\(企業\).md "wikilink")、[モトローラ](../Page/モトローラ.md "wikilink")、[IBM](../Page/IBM.md "wikilink")の3社が共同で開発した[32ビット](https://ja.wikipedia.org/wiki/32ビット "wikilink")の[RISC](../Page/RISC.md "wikilink")[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")である。初めて製品化された[PowerPC](../Page/PowerPC.md "wikilink")系列のプロセッサであり、アップルコンピュータが発売した初期の[Power Macintoshシリーズに採用された](https://ja.wikipedia.org/wiki/Power_Macintosh "wikilink")。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:IBM_PowerPC601_PPC601FD-080-2_top.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:PPCA601v5FE1002_01.JPG "wikilink")  **PowerPC 601**シリーズは[アップルコンピュータ](../Page/アップル_\(企業\).md "wikilink")、[モトローラ](../Page/モトローラ.md "wikilink")、[IBM](../Page/IBM.md "wikilink")の3社が共同で開発した[32ビット](../Page/32ビット.md "wikilink")の[RISC](../Page/RISC.md "wikilink")[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")である。初めて製品化された[PowerPC](../Page/PowerPC.md "wikilink")系列のプロセッサであり、アップルコンピュータが発売した初期の[Power Macintoshシリーズに採用された](../Page/Power_Macintosh.md "wikilink")。
 
 PowerPC 601には、高速版であるPowerPC 601vが存在する。
 
 ## 設計
 
-PowerPC 601シリーズはIBMの[サーバ](../Page/サーバ.md "wikilink")・[ワークステーション](../Page/ワークステーション.md "wikilink")向けプロセッサである[POWERをベースとして設計された](../Page/POWER_\(マイクロプロセッサ\).md "wikilink")。601シリーズのコアは後継の603シリーズや604シリーズと異なり、POWERアーキテクチャとの互換性をもつ。また、外部インターフェイスはモトローラのRISC CPU[88000をベースに設計され](https://ja.wikipedia.org/wiki/MC88000 "wikilink")\[1\]、バス幅は64ビットとされた。
+PowerPC 601シリーズはIBMの[サーバ](../Page/サーバ.md "wikilink")・[ワークステーション](../Page/ワークステーション.md "wikilink")向けプロセッサである[POWERをベースとして設計された](../Page/POWER_\(マイクロプロセッサ\).md "wikilink")。601シリーズのコアは後継の603シリーズや604シリーズと異なり、POWERアーキテクチャとの互換性をもつ。また、外部インターフェイスはモトローラのRISC CPU[88000をベースに設計され](../Page/MC88000.md "wikilink")\[1\]、バス幅は64ビットとされた。
 
 以下は主な仕様である。
 

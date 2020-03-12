@@ -1,7 +1,7 @@
 > この記事は[89ERS](https://ja.wikipedia.org/wiki/89ERS)から翻訳されています。
 
 
-[サムネイル](https://ja.wikipedia.org/wiki/ファイル:STORYPIC_00014518_BURST190807142430.jpg "wikilink")」おまつり広場（[勾当台公園](https://ja.wikipedia.org/wiki/勾当台公園 "wikilink")市民広場）でのパフォーマンス\]\] **89ERSチアーズ**（89ERS Cheers; エイティナイナーズチアーズ）は、[Bリーグに所属する](https://ja.wikipedia.org/wiki/ジャパン・プロフェッショナル・バスケットボールリーグ "wikilink")[仙台89ERS](https://ja.wikipedia.org/wiki/仙台89ERS "wikilink")を応援するパフォーマンスチームである。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")結成から2018-19シーズンまで、トップチームは**仙台89ERS直属ではなく「[東北チアエージェンシー&アカデミー](https://ja.wikipedia.org/wiki/東北チアエージェンシー&アカデミー "wikilink")」からの派遣**であった\[1\]。
+[サムネイル](https://ja.wikipedia.org/wiki/ファイル:STORYPIC_00014518_BURST190807142430.jpg "wikilink")」おまつり広場（[勾当台公園](../Page/勾当台公園.md "wikilink")市民広場）でのパフォーマンス\]\] **89ERSチアーズ**（89ERS Cheers; エイティナイナーズチアーズ）は、[Bリーグに所属する](https://ja.wikipedia.org/wiki/ジャパン・プロフェッショナル・バスケットボールリーグ "wikilink")[仙台89ERS](../Page/仙台89ERS.md "wikilink")を応援するパフォーマンスチームである。[2005年](../Page/2005年.md "wikilink")結成から2018-19シーズンまで、トップチームは**仙台89ERS直属ではなく「[東北チアエージェンシー&アカデミー](https://ja.wikipedia.org/wiki/東北チアエージェンシー&アカデミー "wikilink")」からの派遣**であった\[1\]。
 
 ## 概要
 
@@ -17,7 +17,7 @@
 
   - [Bリーグチアリーディングチーム一覧](https://ja.wikipedia.org/wiki/Bリーグチアリーディングチーム一覧 "wikilink")
   - [ベガルタチアリーダーズ](../Page/ベガルタチアリーダーズ.md "wikilink")（[ベガルタ仙台](../Page/ベガルタ仙台.md "wikilink")のチアリーディングチーム）
-  - [東北ゴールデンエンジェルス](https://ja.wikipedia.org/wiki/東北ゴールデンエンジェルス "wikilink")（[東北楽天ゴールデンイーグルス](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")のチアリーディングチーム）
+  - [東北ゴールデンエンジェルス](../Page/東北ゴールデンエンジェルス.md "wikilink")（[東北楽天ゴールデンイーグルス](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")のチアリーディングチーム）
 
 ## 外部リンク
 

@@ -7,12 +7,12 @@
 
 130万枚以上を売上げ、globeの代表曲の1つである。同年12月の最終週にミリオンを達成した。
 
-globeが初出場を果たした[第47回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第47回NHK紅白歌合戦 "wikilink")で演奏された。
+globeが初出場を果たした[第47回NHK紅白歌合戦](../Page/第47回NHK紅白歌合戦.md "wikilink")で演奏された。
 
 ## 収録曲
 
 1.  **Can't Stop Fallin' in Love (STRAIGHT RUN)**
-      - Written by [TETSUYA KOMURO](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink") & [MARC](https://ja.wikipedia.org/wiki/マーク・パンサー "wikilink")　　Composed & Arranged by [TETSUYA KOMURO](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
+      - Written by [TETSUYA KOMURO](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink") & [MARC](../Page/マーク・パンサー.md "wikilink")　　Composed & Arranged by [TETSUYA KOMURO](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
       - [東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）「[JR ski ski](https://ja.wikipedia.org/wiki/JR東日本_SKI_SKI "wikilink")」キャンペーンソング
 2.  **Can't Stop Fallin' in Love (EXTENDED MIX)**
 3.  **Can't Stop Fallin' in Love (INSTRUMENTAL)**
@@ -21,8 +21,8 @@ globeが初出場を果たした[第47回NHK紅白歌合戦](https://ja.wikipedi
 
 **Can't Stop Fallin' in Love**
 
-  - [FACES PLACES](https://ja.wikipedia.org/wiki/FACES_PLACES_\(アルバム\) "wikilink")（アルバムバージョン）
-  - [CRUISE RECORD 1995-2000](https://ja.wikipedia.org/wiki/CRUISE_RECORD_1995-2000 "wikilink")
+  - [FACES PLACES](../Page/FACES_PLACES_\(アルバム\).md "wikilink")（アルバムバージョン）
+  - [CRUISE RECORD 1995-2000](../Page/CRUISE_RECORD_1995-2000.md "wikilink")
   - [Ballads & Memories](https://ja.wikipedia.org/wiki/Ballads_&_Memories "wikilink")
   - [globe decade -single history 1995-2004-](https://ja.wikipedia.org/wiki/globe_decade_-single_history_1995-2004- "wikilink")
   - [15YEARS -BEST HIT SELECTION-](https://ja.wikipedia.org/wiki/15YEARS_-BEST_HIT_SELECTION- "wikilink")（アルバムバージョン）

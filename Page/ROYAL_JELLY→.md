@@ -1,11 +1,11 @@
 > この記事は[ROYAL JELLY](https://ja.wikipedia.org/wiki/ROYAL_JELLY)から翻訳されています。
 
 
-『**ROYAL JELLY→**』（ローヤル・ゼリ→）は、日本のロックバンド、[ゼリ→の](https://ja.wikipedia.org/wiki/JELLY→ "wikilink")[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。[2002年](../Page/2002年.md "wikilink")[12月18日](../Page/12月18日.md "wikilink")発売。発売元は[東芝EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")。レコード会社の垣根を越えたベスト盤であり、インディーズ〜東芝EMI〜[青空レコード](https://ja.wikipedia.org/wiki/青空レコード "wikilink")時代の作品から構成され、未発表曲/未CD化曲も収録されている。初回限定盤には王冠ステッカー同封。PV集「[ROYAL JELLY→ V](https://ja.wikipedia.org/wiki/ROYAL_JELLY→_V "wikilink")」が同時発売。
+『**ROYAL JELLY→**』（ローヤル・ゼリ→）は、日本のロックバンド、[ゼリ→の](https://ja.wikipedia.org/wiki/JELLY→ "wikilink")[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。[2002年](../Page/2002年.md "wikilink")[12月18日](../Page/12月18日.md "wikilink")発売。発売元は[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")。レコード会社の垣根を越えたベスト盤であり、インディーズ〜東芝EMI〜[青空レコード](../Page/青空レコード.md "wikilink")時代の作品から構成され、未発表曲/未CD化曲も収録されている。初回限定盤には王冠ステッカー同封。PV集「[ROYAL JELLY→ V](https://ja.wikipedia.org/wiki/ROYAL_JELLY→_V "wikilink")」が同時発売。
 
 ## 収録曲
 
-1.  **[JET GLASS](https://ja.wikipedia.org/wiki/JET_GLASS "wikilink")** (2:36)
+1.  **[JET GLASS](../Page/JET_GLASS.md "wikilink")** (2:36)
       -
         （作詞・作曲：ヤフミ）
 2.  **[ROCKER](https://ja.wikipedia.org/wiki/ROCKER_\(ゼリ→\) "wikilink") (STUD BULL Ver.)** (2:15)

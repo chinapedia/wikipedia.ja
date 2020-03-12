@@ -5,11 +5,11 @@
 
 ## 概要
 
-前作「[We Will 〜あの場所で〜](https://ja.wikipedia.org/wiki/We_Will_〜あの場所で〜 "wikilink")」から3ヶ月ぶりのシングル。
+前作「[We Will 〜あの場所で〜](../Page/We_Will_〜あの場所で〜.md "wikilink")」から3ヶ月ぶりのシングル。
 
 同年6月20日に[Rhythm REPUBLICからアナログ盤が発売された](../Page/Rhythm_REPUBLIC.md "wikilink")。
 
-EXILE第二章以降に発売されたベストアルバム『[EXILE CATCHY BEST](https://ja.wikipedia.org/wiki/EXILE_CATCHY_BEST "wikilink")』『[EXTREME BEST](https://ja.wikipedia.org/wiki/EXTREME_BEST "wikilink")』には、[ATSUSHI](https://ja.wikipedia.org/wiki/ATSUSHI_\(歌手\) "wikilink")、[TAKAHIROによって再録された表題曲が収録されている](https://ja.wikipedia.org/wiki/TAKAHIRO_\(歌手\) "wikilink")。
+EXILE第二章以降に発売されたベストアルバム『[EXILE CATCHY BEST](../Page/EXILE_CATCHY_BEST.md "wikilink")』『[EXTREME BEST](https://ja.wikipedia.org/wiki/EXTREME_BEST "wikilink")』には、[ATSUSHI](https://ja.wikipedia.org/wiki/ATSUSHI_\(歌手\) "wikilink")、[TAKAHIROによって再録された表題曲が収録されている](https://ja.wikipedia.org/wiki/TAKAHIRO_\(歌手\) "wikilink")。
 
 ## 収録曲
 
@@ -17,9 +17,9 @@ EXILE第二章以降に発売されたベストアルバム『[EXILE CATCHY BEST
 
 1.  **Together** \[4:19\]
       -
-        作詞：EXILE & [Kenn Kato](https://ja.wikipedia.org/wiki/Kenn_Kato "wikilink") / 作曲・編曲：[原一博](https://ja.wikipedia.org/wiki/原一博 "wikilink")
+        作詞：EXILE & [Kenn Kato](https://ja.wikipedia.org/wiki/Kenn_Kato "wikilink") / 作曲・編曲：[原一博](../Page/原一博.md "wikilink")
     <!-- end list -->
-      - [TBS](https://ja.wikipedia.org/wiki/TBS "wikilink")系ドラマ『[ホットマン](https://ja.wikipedia.org/wiki/ホットマン "wikilink")』主題歌
+      - [TBS](https://ja.wikipedia.org/wiki/TBS "wikilink")系ドラマ『[ホットマン](../Page/ホットマン.md "wikilink")』主題歌
       - 14thシングル「[Carry On/運命のヒト](https://ja.wikipedia.org/wiki/Carry_On/運命のヒト "wikilink")」にはドラマで使用されたバージョンが収録
 2.  **Time** \[4:58\]
       -
@@ -30,7 +30,7 @@ EXILE第二章以降に発売されたベストアルバム『[EXILE CATCHY BEST
       -
         作詞：EXILE & RYK / 作曲・編曲：山木隆一郎
     <!-- end list -->
-      - [ニベアボディ](https://ja.wikipedia.org/wiki/ニベア花王 "wikilink")「薬用ホワイトニングストレッチアップ」CMソング
+      - [ニベアボディ](../Page/ニベア花王.md "wikilink")「薬用ホワイトニングストレッチアップ」CMソング
 4.  **砂時計** \[4:52\]
       -
         作詞：maR / 作曲・編曲：MONK
@@ -56,28 +56,28 @@ EXILE第二章以降に発売されたベストアルバム『[EXILE CATCHY BEST
 
 **Together**
 
-  - [EXILE ENTERTAINMENT](https://ja.wikipedia.org/wiki/EXILE_ENTERTAINMENT "wikilink")
-  - [PERFECT BEST](https://ja.wikipedia.org/wiki/PERFECT_BEST_\(EXILEのアルバム\) "wikilink")
+  - [EXILE ENTERTAINMENT](../Page/EXILE_ENTERTAINMENT.md "wikilink")
+  - [PERFECT BEST](../Page/PERFECT_BEST_\(EXILEのアルバム\).md "wikilink")
       - SINGLE BEST
-  - [EXILE CATCHY BEST](https://ja.wikipedia.org/wiki/EXILE_CATCHY_BEST "wikilink")（再録）
+  - [EXILE CATCHY BEST](../Page/EXILE_CATCHY_BEST.md "wikilink")（再録）
   - [EXTREME BEST](https://ja.wikipedia.org/wiki/EXTREME_BEST "wikilink")（再録）
 
 **Time**
 
-  - [EXILE ENTERTAINMENT](https://ja.wikipedia.org/wiki/EXILE_ENTERTAINMENT "wikilink")
-  - [PERFECT BEST](https://ja.wikipedia.org/wiki/PERFECT_BEST_\(EXILEのアルバム\) "wikilink")
+  - [EXILE ENTERTAINMENT](../Page/EXILE_ENTERTAINMENT.md "wikilink")
+  - [PERFECT BEST](../Page/PERFECT_BEST_\(EXILEのアルバム\).md "wikilink")
       - SELECT BEST
 
 **BLUE 〜云えずにいる〜**
 
-  - [EXILE ENTERTAINMENT](https://ja.wikipedia.org/wiki/EXILE_ENTERTAINMENT "wikilink")
-  - [PERFECT BEST](https://ja.wikipedia.org/wiki/PERFECT_BEST_\(EXILEのアルバム\) "wikilink")
+  - [EXILE ENTERTAINMENT](../Page/EXILE_ENTERTAINMENT.md "wikilink")
+  - [PERFECT BEST](../Page/PERFECT_BEST_\(EXILEのアルバム\).md "wikilink")
       - SELECT BEST
 
 **砂時計**
 
-  - [EXILE ENTERTAINMENT](https://ja.wikipedia.org/wiki/EXILE_ENTERTAINMENT "wikilink")
-  - [PERFECT BEST](https://ja.wikipedia.org/wiki/PERFECT_BEST_\(EXILEのアルバム\) "wikilink")
+  - [EXILE ENTERTAINMENT](../Page/EXILE_ENTERTAINMENT.md "wikilink")
+  - [PERFECT BEST](../Page/PERFECT_BEST_\(EXILEのアルバム\).md "wikilink")
       - SELECT BEST
 
 ## 脚注

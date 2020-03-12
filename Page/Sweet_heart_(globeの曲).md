@@ -7,7 +7,7 @@
 
 BRAND NEW globe 4 SINGLES（4枚連続リリース）の第3弾として発売。
 
-BRAND NEW globe 4 SINGLESの4作品は一貫して『[悪夢](https://ja.wikipedia.org/wiki/悪夢 "wikilink")』をテーマにした[プロモーションビデオ](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")が製作されている。 この楽曲では『[TKが見た悪夢](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")』をテーマにプロモーションビデオが製作された。
+BRAND NEW globe 4 SINGLESの4作品は一貫して『[悪夢](../Page/悪夢.md "wikilink")』をテーマにした[プロモーションビデオ](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")が製作されている。 この楽曲では『[TKが見た悪夢](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")』をテーマにプロモーションビデオが製作された。
 
 2018年現在、globeがオリコンチャート1位を獲得した最後のシングルとなっている。
 
@@ -15,8 +15,8 @@ BRAND NEW globe 4 SINGLESの4作品は一貫して『[悪夢](https://ja.wikiped
 
 1.  **sweet heart (Straight Run)**
       -
-        Written by [TK](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink") & [MARC](https://ja.wikipedia.org/wiki/マーク・パンサー "wikilink")　　Composed & Arranged by [TETSUYA KOMURO](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
-        [FORD](https://ja.wikipedia.org/wiki/フォード・モーター "wikilink")「COUNTDOWN FESTIVAL」キャンペーンソング
+        Written by [TK](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink") & [MARC](../Page/マーク・パンサー.md "wikilink")　　Composed & Arranged by [TETSUYA KOMURO](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
+        [FORD](../Page/フォード・モーター.md "wikilink")「COUNTDOWN FESTIVAL」キャンペーンソング
 2.  **sweet heart (LA Intensive Remix)**
 3.  **sweet heart (Instrumental)**
 
@@ -24,8 +24,8 @@ BRAND NEW globe 4 SINGLESの4作品は一貫して『[悪夢](https://ja.wikiped
 
 **sweet heart**
 
-  - [Relation](https://ja.wikipedia.org/wiki/Relation_\(globeのアルバム\) "wikilink")（アルバムバージョン）
-  - [CRUISE RECORD 1995-2000](https://ja.wikipedia.org/wiki/CRUISE_RECORD_1995-2000 "wikilink")
+  - [Relation](../Page/Relation_\(globeのアルバム\).md "wikilink")（アルバムバージョン）
+  - [CRUISE RECORD 1995-2000](../Page/CRUISE_RECORD_1995-2000.md "wikilink")
   - [globe decade -single history 1995-2004-](https://ja.wikipedia.org/wiki/globe_decade_-single_history_1995-2004- "wikilink")
   - [15YEARS -BEST HIT SELECTION-](https://ja.wikipedia.org/wiki/15YEARS_-BEST_HIT_SELECTION- "wikilink")（アルバムバージョン）
 

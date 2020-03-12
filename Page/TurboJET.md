@@ -5,19 +5,19 @@
 
 ## 概要
 
-[HK_Macau_Ferry_Piers_Sheung_Wan.JPG](https://ja.wikipedia.org/wiki/File:HK_Macau_Ferry_Piers_Sheung_Wan.JPG "fig:HK_Macau_Ferry_Piers_Sheung_Wan.JPG") 香港が[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[植民地](../Page/植民地.md "wikilink")で、[マカオ](../Page/マカオ.md "wikilink")が[ポルトガル](../Page/ポルトガル.md "wikilink")の植民地であった[1962年](../Page/1962年.md "wikilink")に、両地を結ぶ高速フェリーとして香港に拠点を置く[信徳集団有限公司](https://ja.wikipedia.org/wiki/信徳集団有限公司 "wikilink")によって、[水中翼船](../Page/水中翼船.md "wikilink")などの高速船による運航が開始された。信徳集団は[スタンレー・ホー](https://ja.wikipedia.org/wiki/スタンレー・ホー "wikilink")が創始した、マカオにおける[カジノ](../Page/カジノ.md "wikilink")事業を独占\[1\]した企業集団であり、この航路はカジノ観光の動脈として発展した。
+[HK_Macau_Ferry_Piers_Sheung_Wan.JPG](https://ja.wikipedia.org/wiki/File:HK_Macau_Ferry_Piers_Sheung_Wan.JPG "fig:HK_Macau_Ferry_Piers_Sheung_Wan.JPG") 香港が[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[植民地](../Page/植民地.md "wikilink")で、[マカオ](../Page/マカオ.md "wikilink")が[ポルトガル](../Page/ポルトガル.md "wikilink")の植民地であった[1962年](../Page/1962年.md "wikilink")に、両地を結ぶ高速フェリーとして香港に拠点を置く[信徳集団有限公司](https://ja.wikipedia.org/wiki/信徳集団有限公司 "wikilink")によって、[水中翼船](../Page/水中翼船.md "wikilink")などの高速船による運航が開始された。信徳集団は[スタンレー・ホー](../Page/スタンレー・ホー.md "wikilink")が創始した、マカオにおける[カジノ](../Page/カジノ.md "wikilink")事業を独占\[1\]した企業集団であり、この航路はカジノ観光の動脈として発展した。
 
 [1980年代](../Page/1980年代.md "wikilink")に入り、新たに建設された香港の[上環](https://ja.wikipedia.org/wiki/上環 "wikilink")の[信徳中心](https://ja.wikipedia.org/wiki/信徳中心 "wikilink")（Shun Tak Centre）にある[香港・マカオ・フェリーターミナルと](https://ja.wikipedia.org/wiki/マカオ・フェリーターミナル "wikilink")、マカオの[アウター・ハーバー・フェリーターミナル](https://ja.wikipedia.org/wiki/アウター・ハーバー・フェリーターミナル "wikilink")の間を結ぶ路線を運航している。
 
 その後、マカオの行政管理権が中華人民共和国へ返還される数か月前の[1999年](../Page/1999年.md "wikilink")7月に、信徳集団有限公司と香港中旅国際投資有限公司により設立された「信徳中旅船務管理有限公司」による運航に組織変更され、「TurboJET」の[ブランド](../Page/ブランド.md "wikilink")名を冠された。
 
-他にも、上環と[九龍](https://ja.wikipedia.org/wiki/九龍 "wikilink")の[尖沙咀](https://ja.wikipedia.org/wiki/尖沙咀 "wikilink")中港客運碼頭（China Hong Kong Terminal）と深圳の間を結ぶ路線、マカオから深圳の間を結ぶ路線と、[香港国際空港](https://ja.wikipedia.org/wiki/香港国際空港 "wikilink")のスカイピアとマカオ、[中華人民共和国](../Page/中華人民共和国.md "wikilink")本土の[深圳の間を結ぶ路線](https://ja.wikipedia.org/wiki/深セン市 "wikilink")（TurboJET Sea Express/機場噴射飛航のブランド名で運航）を運航している。
+他にも、上環と[九龍](../Page/九龍.md "wikilink")の[尖沙咀](../Page/尖沙咀.md "wikilink")中港客運碼頭（China Hong Kong Terminal）と深圳の間を結ぶ路線、マカオから深圳の間を結ぶ路線と、[香港国際空港](../Page/香港国際空港.md "wikilink")のスカイピアとマカオ、[中華人民共和国](../Page/中華人民共和国.md "wikilink")本土の[深圳の間を結ぶ路線](../Page/深セン市.md "wikilink")（TurboJET Sea Express/機場噴射飛航のブランド名で運航）を運航している。
 
-香港・マカオ・[珠海市](https://ja.wikipedia.org/wiki/珠海市 "wikilink")を結ぶ全長55kmの[港珠澳大橋](../Page/港珠澳大橋.md "wikilink")が[2018年](../Page/2018年.md "wikilink")10月23日に開通。高速バス運行による輸送量減少に呼応し、就航時期の早い船舶について定員減少を伴う改装を施す等、サービス面のグレードアップを進めている。
+香港・マカオ・[珠海市](../Page/珠海市.md "wikilink")を結ぶ全長55kmの[港珠澳大橋](../Page/港珠澳大橋.md "wikilink")が[2018年](../Page/2018年.md "wikilink")10月23日に開通。高速バス運行による輸送量減少に呼応し、就航時期の早い船舶について定員減少を伴う改装を施す等、サービス面のグレードアップを進めている。
 
 ## 運航路線
 
-[Hong_Kong-Macau_Ferry_Pier_at_Sheung_Wan.jpg](https://ja.wikipedia.org/wiki/File:Hong_Kong-Macau_Ferry_Pier_at_Sheung_Wan.jpg "fig:Hong_Kong-Macau_Ferry_Pier_at_Sheung_Wan.jpg") [HKMAC_Harbour.JPG](https://ja.wikipedia.org/wiki/File:HKMAC_Harbour.JPG "fig:HKMAC_Harbour.JPG") 香港とマカオを中心に計10路線（2019年6月現在）を[水中翼船](../Page/水中翼船.md "wikilink")（[ジェットフォイル](https://ja.wikipedia.org/wiki/ボーイング929 "wikilink")）や高速[双胴船](../Page/双胴船.md "wikilink")などの32隻（2019年現在）の[高速船](https://ja.wikipedia.org/wiki/高速船 "wikilink")で運航している。なお、全ての路線は国際線扱いになるため、出航及び到着時にそれぞれの税関でパスポートの提出が必要である。
+[Hong_Kong-Macau_Ferry_Pier_at_Sheung_Wan.jpg](https://ja.wikipedia.org/wiki/File:Hong_Kong-Macau_Ferry_Pier_at_Sheung_Wan.jpg "fig:Hong_Kong-Macau_Ferry_Pier_at_Sheung_Wan.jpg") [HKMAC_Harbour.JPG](https://ja.wikipedia.org/wiki/File:HKMAC_Harbour.JPG "fig:HKMAC_Harbour.JPG") 香港とマカオを中心に計10路線（2019年6月現在）を[水中翼船](../Page/水中翼船.md "wikilink")（[ジェットフォイル](../Page/ボーイング929.md "wikilink")）や高速[双胴船](../Page/双胴船.md "wikilink")などの32隻（2019年現在）の[高速船](../Page/高速船.md "wikilink")で運航している。なお、全ての路線は国際線扱いになるため、出航及び到着時にそれぞれの税関でパスポートの提出が必要である。
 
 ### 香港（上環）-マカオ線
 
@@ -27,7 +27,7 @@
 
 ### 香港（九龍）-マカオ線
 
-[九龍](https://ja.wikipedia.org/wiki/九龍 "wikilink")の[尖沙咀](https://ja.wikipedia.org/wiki/尖沙咀 "wikilink")のとマカオを結ぶ航路。[タイパ港行きを含め](https://ja.wikipedia.org/wiki/タイパ・フェリーターミナル "wikilink")、1日10往復が運航されている。
+[九龍](../Page/九龍.md "wikilink")の[尖沙咀](../Page/尖沙咀.md "wikilink")のとマカオを結ぶ航路。[タイパ港行きを含め](https://ja.wikipedia.org/wiki/タイパ・フェリーターミナル "wikilink")、1日10往復が運航されている。
 
   - **九龍 - 外港**
   - **九龍 - タイパ**
@@ -41,7 +41,7 @@
 
 ### 深圳（深圳空港/蛇口）-マカオ線
 
-中華人民共和国本土の一部の省からのマカオへの事実上の渡航自由化を受けて、マカオと中華人民共和国本土の[深圳の](https://ja.wikipedia.org/wiki/深セン市 "wikilink")[蛇口クルーズセンター](https://ja.wikipedia.org/wiki/蛇口クルーズセンター "wikilink")、[深セン宝安国際空港](https://ja.wikipedia.org/wiki/深セン宝安国際空港 "wikilink")を結ぶ3航路が開設された。マカオ-深圳間は約60分である。
+中華人民共和国本土の一部の省からのマカオへの事実上の渡航自由化を受けて、マカオと中華人民共和国本土の[深圳の](../Page/深セン市.md "wikilink")[蛇口クルーズセンター](https://ja.wikipedia.org/wiki/蛇口クルーズセンター "wikilink")、[深セン宝安国際空港](../Page/深セン宝安国際空港.md "wikilink")を結ぶ3航路が開設された。マカオ-深圳間は約60分である。
 
   - **外港 - 深圳空港（[福永](https://ja.wikipedia.org/wiki/福永フェリーターミナル "wikilink"))**
   - **外港 - 蛇口**
@@ -49,7 +49,7 @@
 
 ### 香港国際空港-マカオ線
 
-[2003年](../Page/2003年.md "wikilink")から「Turbojet Sea Express（機場噴射飛航）」のブランド名で運航されている。1日5便程度と便数は少ないものの、[マカオ国際空港](https://ja.wikipedia.org/wiki/マカオ国際空港 "wikilink")に就航していない[航空会社](../Page/航空会社.md "wikilink")による国際線とのアクセスに香港国際空港を利用するために、これらの海路を利用することも多い。所要時間は約70分。なお、香港国際空港-マカオ線に乗り継ぐ場合、香港に入国せずに空港内で乗り継ぎ、手荷物をそのままマカオまで運ぶサービスも提供されている。
+[2003年](../Page/2003年.md "wikilink")から「Turbojet Sea Express（機場噴射飛航）」のブランド名で運航されている。1日5便程度と便数は少ないものの、[マカオ国際空港](../Page/マカオ国際空港.md "wikilink")に就航していない[航空会社](../Page/航空会社.md "wikilink")による国際線とのアクセスに香港国際空港を利用するために、これらの海路を利用することも多い。所要時間は約70分。なお、香港国際空港-マカオ線に乗り継ぐ場合、香港に入国せずに空港内で乗り継ぎ、手荷物をそのままマカオまで運ぶサービスも提供されている。
 
   - **外港 - 香港国際空港**()
   - マカオ国際空港直近のタイパ港とを結ぶ航路が[2009年](../Page/2009年.md "wikilink")に開設されたが後に撤退。現在は（コタイ・ウォータージェット）が就航中。
@@ -62,8 +62,8 @@
 
 Premier JetFoil の登場により、客席グレードが追加された。
 
-  - [エコノミークラス](https://ja.wikipedia.org/wiki/エコノミークラス "wikilink")
-    [スーパークラス](https://ja.wikipedia.org/wiki/ビジネスクラス "wikilink")
+  - [エコノミークラス](../Page/エコノミークラス.md "wikilink")
+    [スーパークラス](../Page/ビジネスクラス.md "wikilink")
     無料で軽食がサービスされる他、[新聞](../Page/新聞.md "wikilink")や[雑誌](../Page/雑誌.md "wikilink")、ターミナル内のラウンジと優先搭乗サービスが提供される。料金はエコノミーの約2倍。
     また、ジェットフォイルのスーパークラスには6人以下のグループ用の個室(VIPキャビン)も用意されている。
   - プレミアグランドクラス
@@ -79,12 +79,12 @@ Premier JetFoil の登場により、客席グレードが追加された。
 
 [20091105-TurboJET_Urzela.jpg](https://ja.wikipedia.org/wiki/File:20091105-TurboJET_Urzela.jpg "fig:20091105-TurboJET_Urzela.jpg") [20081113-TurboJET_Universal_MK_2001.jpg](https://ja.wikipedia.org/wiki/File:20081113-TurboJET_Universal_MK_2001.jpg "fig:20081113-TurboJET_Universal_MK_2001.jpg") [20081116-TurboJET_Universal_MK_2011.jpg](https://ja.wikipedia.org/wiki/File:20081116-TurboJET_Universal_MK_2011.jpg "fig:20081116-TurboJET_Universal_MK_2011.jpg") [20090225-TurboJET_Universal_MK_1.jpg](https://ja.wikipedia.org/wiki/File:20090225-TurboJET_Universal_MK_1.jpg "fig:20090225-TurboJET_Universal_MK_1.jpg") [20170709-TurboJET_Penha.jpg](https://ja.wikipedia.org/wiki/File:20170709-TurboJET_Penha.jpg "fig:20170709-TurboJET_Penha.jpg") [thumb](https://ja.wikipedia.org/wiki/画像:Boeing929-100.jpg "wikilink")
 
-社名が示すように在籍する6種類32隻（2018年現在）すべてが[ウォータージェット推進](https://ja.wikipedia.org/wiki/ウォータージェット推進 "wikilink")船で、うち計12隻は水中翼船である。
+社名が示すように在籍する6種類32隻（2018年現在）すべてが[ウォータージェット推進](../Page/ウォータージェット推進.md "wikilink")船で、うち計12隻は水中翼船である。
 
-### [JetFoil](https://ja.wikipedia.org/wiki/ボーイング929 "wikilink")
+### [JetFoil](../Page/ボーイング929.md "wikilink")
 
 260トン、全長24.4m、乗客数260人の水中翼船。[ボーイング](../Page/ボーイング.md "wikilink")社製造。
-初期型の[929-100型](https://ja.wikipedia.org/wiki/ボーイング929 "wikilink")、改良型の115型に大別される。
+初期型の[929-100型](../Page/ボーイング929.md "wikilink")、改良型の115型に大別される。
 
   - 929-100型
 
@@ -107,7 +107,7 @@ Premier JetFoil の登場により、客席グレードが追加された。
   - 幸運星 (Cacilhas, 1980, 929-115-018) 1991年購入、Premier Jetfoil
   - 帝后星 (Taipa, 1981, 929-115-021) 1990年購入、Premier Jetfoil
 
-### [PS-30](https://ja.wikipedia.org/wiki/PS-30 "wikilink")
+### [PS-30](../Page/PS-30.md "wikilink")
 
 300トン、全長27.8m、乗客数270人の水中翼船。[中国船舶工業集団](https://ja.wikipedia.org/wiki/中国船舶工業集団 "wikilink")社製造（ボーイング社からのライセンスを受け製造）。
 
@@ -145,7 +145,7 @@ Premier JetFoil の登場により、客席グレードが追加された。
 
 ### Austal 48
 
-610トン、全長47.5m、乗客数410人の双胴船。[オーストラリア](https://ja.wikipedia.org/wiki/オーストラリア "wikilink")の[オースタル](https://ja.wikipedia.org/wiki/オースタル "wikilink")社製造（新世界第一渡輪から購入）。
+610トン、全長47.5m、乗客数410人の双胴船。[オーストラリア](../Page/オーストラリア.md "wikilink")の[オースタル](https://ja.wikipedia.org/wiki/オースタル "wikilink")社製造（新世界第一渡輪から購入）。
 
   - 宇航2011 (Universal MK 2011, 2008)
   - 宇航2012 (Universal MK 2012, 2008)
@@ -252,7 +252,7 @@ Premier JetFoil の登場により、客席グレードが追加された。
 
 ## 関連項目
 
-  - [シャトル便](https://ja.wikipedia.org/wiki/シャトル便 "wikilink")
+  - [シャトル便](../Page/シャトル便.md "wikilink")
 
 ## 外部リンク
 

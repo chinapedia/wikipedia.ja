@@ -13,8 +13,8 @@ TBS系ドラマ「青い鳥」主題歌である。
 
 1.  **Wanderin' Destiny (STRAIGHT RUN)**
       -
-        Written by [TETSUYA KOMURO](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink") & [MARC](https://ja.wikipedia.org/wiki/マーク・パンサー "wikilink")　　Composed & Arranged by [TETSUYA KOMURO](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
-        [TBS系ドラマ](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")『[青い鳥](https://ja.wikipedia.org/wiki/青い鳥_\(テレビドラマ\) "wikilink")』主題歌
+        Written by [TETSUYA KOMURO](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink") & [MARC](../Page/マーク・パンサー.md "wikilink")　　Composed & Arranged by [TETSUYA KOMURO](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
+        [TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[青い鳥](../Page/青い鳥_\(テレビドラマ\).md "wikilink")』主題歌
 2.  **Wanderin' Destiny ("BOOM THE BASS" MIX)**
 3.  **Wanderin' Destiny (INSTRUMENTAL)**
 
@@ -22,8 +22,8 @@ TBS系ドラマ「青い鳥」主題歌である。
 
 **Wanderin' Destiny**
 
-  - [Love again](https://ja.wikipedia.org/wiki/Love_again_\(アルバム\) "wikilink")（アルバムバージョン）
-  - [CRUISE RECORD 1995-2000](https://ja.wikipedia.org/wiki/CRUISE_RECORD_1995-2000 "wikilink")
+  - [Love again](../Page/Love_again_\(アルバム\).md "wikilink")（アルバムバージョン）
+  - [CRUISE RECORD 1995-2000](../Page/CRUISE_RECORD_1995-2000.md "wikilink")
   - [Ballads & Memories](https://ja.wikipedia.org/wiki/Ballads_&_Memories "wikilink")
   - [globe decade -single history 1995-2004-](https://ja.wikipedia.org/wiki/globe_decade_-single_history_1995-2004- "wikilink")
   - [15YEARS -BEST HIT SELECTION-](https://ja.wikipedia.org/wiki/15YEARS_-BEST_HIT_SELECTION- "wikilink")（アルバムバージョン）

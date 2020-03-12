@@ -1,17 +1,17 @@
 > この記事は[THE GOD OF DEATH](https://ja.wikipedia.org/wiki/THE_GOD_OF_DEATH)から翻訳されています。
 
 
-『**THE GOD OF DEATH**』（ザ ゴッド オブ デス）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月29日](../Page/7月29日.md "wikilink")に[スタジオメビウス](../Page/スタジオメビウス.md "wikilink")より発売された[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")である。
+『**THE GOD OF DEATH**』（ザ ゴッド オブ デス）は、[2005年](../Page/2005年.md "wikilink")[7月29日](../Page/7月29日.md "wikilink")に[スタジオメビウス](../Page/スタジオメビウス.md "wikilink")より発売された[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")である。
 
 ## 概要
 
-本作は、[死神](../Page/死神.md "wikilink")として覚醒した天才少年楠葉竜臥が、死神本来の力を取り戻すために、占拠した学園内にいる少女たちを陵辱し、その[魂](https://ja.wikipedia.org/wiki/魂 "wikilink")を刈り取る凌辱系のアダルトゲームである。 本作は『[絶望 -青い果実の散花-](https://ja.wikipedia.org/wiki/絶望_-青い果実の散花- "wikilink")』同様、マップを移動するシステムを採用しており、ヒロイン達は学校内を逃げ回り、主人公が追いかけると言うシナリオになっている\[1\]。
+本作は、[死神](../Page/死神.md "wikilink")として覚醒した天才少年楠葉竜臥が、死神本来の力を取り戻すために、占拠した学園内にいる少女たちを陵辱し、その[魂](https://ja.wikipedia.org/wiki/魂 "wikilink")を刈り取る凌辱系のアダルトゲームである。 本作は『[絶望 -青い果実の散花-](../Page/絶望_-青い果実の散花-.md "wikilink")』同様、マップを移動するシステムを採用しており、ヒロイン達は学校内を逃げ回り、主人公が追いかけると言うシナリオになっている\[1\]。
 
 また、本作は主人公の行動に合わせて時間が経過する方式をとっており、主人公の行動とは別にヒロインの行動が設定されている\[2\]。また、制限時間が設けられており、制限時間内ヒロインを見つる必要があることから、かなり難易度が高い作品となっている\[3\]。
 
 バッドエンドになると、死神の鎌のミズチと兄の虎樹が、バッドエンドを回避する方法をコント仕立てで教えてくれる。そのコントの内容は非常にネタがこっており、作品の世界観が全くつながっていない。
 
-[オープニングアニメーション](https://ja.wikipedia.org/wiki/オープニングアニメーション "wikilink")の[絵コンテ](https://ja.wikipedia.org/wiki/絵コンテ "wikilink")を、[アニメ監督](https://ja.wikipedia.org/wiki/アニメ監督 "wikilink")の[新房昭之](https://ja.wikipedia.org/wiki/新房昭之 "wikilink")が担当しているが、ゲームの内容は異なる雰囲気を持っている。
+[オープニングアニメーション](../Page/オープニングアニメーション.md "wikilink")の[絵コンテ](../Page/絵コンテ.md "wikilink")を、[アニメ監督](https://ja.wikipedia.org/wiki/アニメ監督 "wikilink")の[新房昭之](../Page/新房昭之.md "wikilink")が担当しているが、ゲームの内容は異なる雰囲気を持っている。
 
 ## ストーリー
 
@@ -21,14 +21,14 @@
 
   - 楠葉竜臥
     この物語の主人公。普段は聖上学園に通う天才学生だが、それは仮の姿に過ぎず、本当は天上の神々に戦いを挑み敗れた死神リューガの生まれ変わりである。
-    [秩序](https://ja.wikipedia.org/wiki/秩序 "wikilink")と[平和](https://ja.wikipedia.org/wiki/平和 "wikilink")を何より嫌い、世界を絶望が支配する世界に変えるのが目的である。
+    [秩序](https://ja.wikipedia.org/wiki/秩序 "wikilink")と[平和](../Page/平和.md "wikilink")を何より嫌い、世界を絶望が支配する世界に変えるのが目的である。
     人の不幸に群がるだけの[マスコミ](https://ja.wikipedia.org/wiki/マスコミ "wikilink")を軽蔑したり、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")の侵略同然の行為を鼻で笑ったりといった面がある一方、平気で人を銃殺する西崎に対して叱咤するゆずかの教育者精神を認めたり、他の不良達がいい加減に防壁用コンクリートを盛り付ける中できちんと仕事をする西崎に激励を入れるといった面も持ち合わせている。
   - 秋坂なつき
     [声](../Page/声優.md "wikilink")：羽月優名
-    竜臥の[幼馴染](https://ja.wikipedia.org/wiki/幼馴染 "wikilink")であり[恋人](https://ja.wikipedia.org/wiki/恋人 "wikilink")。
+    竜臥の[幼馴染](../Page/幼馴染.md "wikilink")であり[恋人](https://ja.wikipedia.org/wiki/恋人 "wikilink")。
     彼が死神として覚醒する前は、彼を相当慕っており、周りもお似合いの二人だと認めるほどであったにも関わらず、彼の毒牙に掛けられることとなった。
   - 楠葉舞
-    声：[天天](https://ja.wikipedia.org/wiki/天天 "wikilink")
+    声：[天天](../Page/天天.md "wikilink")
     竜臥の実の[妹](https://ja.wikipedia.org/wiki/妹 "wikilink")。普通の可愛らしい少女と思われがちだが、実はいじめっ子の一面を持ち、朝岡ちえり等をターゲットにしていたようである。
     精神崩壊させ魂を狩ることはできないが、ゲームの進め方によっては[サディスト](https://ja.wikipedia.org/wiki/サディスト "wikilink")としての才能が開花し、竜臥の従者として覚醒する。小説版ではほかのヒロイン同様魂を狩られるシーンがある（原作ではバッドエンドに繋がるシーンを基にしている）。
   - 藤沢弥生
@@ -38,8 +38,8 @@
   - 天野美冬
     声：[紬叶慧](https://ja.wikipedia.org/wiki/紬叶慧 "wikilink")
     竜臥の同級生。学級委員を務める。近寄りがたい雰囲気があり生真面目な性格だが、小動物を愛する一面も持つ。
-    竜臥の[兄](https://ja.wikipedia.org/wiki/兄 "wikilink")、虎樹に会った事があり、彼を尊敬している。
-    監禁事件の際、竜臥が[体育館](https://ja.wikipedia.org/wiki/体育館 "wikilink")に居なかった事に加えて竜臥が相田先生の件を知っていた事をヒントに、彼が事件に関わっている事を探り当てる程の洞察力を持つ。
+    竜臥の[兄](../Page/兄.md "wikilink")、虎樹に会った事があり、彼を尊敬している。
+    監禁事件の際、竜臥が[体育館](../Page/体育館.md "wikilink")に居なかった事に加えて竜臥が相田先生の件を知っていた事をヒントに、彼が事件に関わっている事を探り当てる程の洞察力を持つ。
   - 草薙みさき
     声：百花ルナ
     竜臥の後輩。活発で明るい性格。
@@ -101,15 +101,15 @@
   - 色彩設計：こぶいち
   - CG監修：田山みにも
   - 背景：Ryouma
-  - 音楽：[Angel Note](https://ja.wikipedia.org/wiki/Angel_Note "wikilink")
+  - 音楽：[Angel Note](../Page/Angel_Note.md "wikilink")
   - 音響：Famishin
-  - OP：「IN THE DARK\[4\]」（作詞：みるくくるみ／作曲・編曲：Angel Note／歌：[みるくくるみ](https://ja.wikipedia.org/wiki/Riryka "wikilink")）
+  - OP：「IN THE DARK\[4\]」（作詞：みるくくるみ／作曲・編曲：Angel Note／歌：[みるくくるみ](../Page/Riryka.md "wikilink")）
   - ED：「夢の終わり\[5\]」（作詞：みるくくるみ／作曲・編曲：Angel Note／歌：みるくくるみ）
   - OPアニメーション
-      - 絵コンテ：[新房昭之](https://ja.wikipedia.org/wiki/新房昭之 "wikilink")
-      - 演出：[わたなべぢゅんいち](https://ja.wikipedia.org/wiki/わたなべぢゅんいち "wikilink")
+      - 絵コンテ：[新房昭之](../Page/新房昭之.md "wikilink")
+      - 演出：[わたなべぢゅんいち](../Page/わたなべぢゅんいち.md "wikilink")
       - 作画監督：吉田潤
-      - 制作：[REMIC](https://ja.wikipedia.org/wiki/REMIC "wikilink")
+      - 制作：[REMIC](../Page/REMIC.md "wikilink")
 
 ## 関連商品
 
@@ -124,7 +124,7 @@
     ISBN 978-4-89490-778-2
   - The god of death　第2章
     ISBN 978-4-89490-786-7
-    どちらも[パラダイム](https://ja.wikipedia.org/wiki/パラダイム "wikilink")から出版。著者は前薗はるか。
+    どちらも[パラダイム](../Page/パラダイム.md "wikilink")から出版。著者は前薗はるか。
 
 ## 脚注
 
@@ -135,5 +135,5 @@
 1.
 2.
 3.
-4.  「IN THE DARK」はこのゲームのデモムービーや取扱説明書に記載されている曲名。[Angel Noteのベストアルバムなどでは同じ曲で](https://ja.wikipedia.org/wiki/Angel_Note "wikilink")「桃源郷」という曲名になっている。
-5.  「夢の終わり」はこのゲームのエンドロールに記載されている曲名。[Angel Noteのベストアルバムなどでは同じ曲で](https://ja.wikipedia.org/wiki/Angel_Note "wikilink")「月光花」という曲名になっている。
+4.  「IN THE DARK」はこのゲームのデモムービーや取扱説明書に記載されている曲名。[Angel Noteのベストアルバムなどでは同じ曲で](../Page/Angel_Note.md "wikilink")「桃源郷」という曲名になっている。
+5.  「夢の終わり」はこのゲームのエンドロールに記載されている曲名。[Angel Noteのベストアルバムなどでは同じ曲で](../Page/Angel_Note.md "wikilink")「月光花」という曲名になっている。

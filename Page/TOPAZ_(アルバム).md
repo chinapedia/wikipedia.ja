@@ -7,7 +7,7 @@
 
   - 「VOICE」はNHKの『[人形歴史スペクタクル 平家物語](../Page/人形歴史スペクタクル_平家物語.md "wikilink")』の主題歌として知られているが、本作では[アカペラによるアレンジで収録されている](../Page/ア・カペラ.md "wikilink")。
   - 「水の物語り」は[サンディ・ラムへの提供曲](https://ja.wikipedia.org/wiki/林憶蓮 "wikilink")「MY LOVE, MY DEAR」の歌詞差し替え版である。
-  - 「Amaranth」は[大京](https://ja.wikipedia.org/wiki/大京 "wikilink")ライオンズマンションのCMソングとして、翌年リリースの「衝撃のベクトル」のカップリングでリカットされた。
+  - 「Amaranth」は[大京](../Page/大京.md "wikilink")ライオンズマンションのCMソングとして、翌年リリースの「衝撃のベクトル」のカップリングでリカットされた。
 
 ## 収録曲
 

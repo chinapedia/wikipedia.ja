@@ -5,11 +5,11 @@
 
 ## 解説
 
-[葉山拓亮](https://ja.wikipedia.org/wiki/葉山拓亮 "wikilink")作詞・作曲・編曲作品。[葉山拓亮](https://ja.wikipedia.org/wiki/葉山拓亮 "wikilink")の提供はシングルでは「[NEW PARADISE](../Page/NEW_PARADISE.md "wikilink")」以来約2年ぶりとなる。この曲で、『[NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第55回NHK紅白歌合戦 "wikilink")』にも出場した）。
+[葉山拓亮](../Page/葉山拓亮.md "wikilink")作詞・作曲・編曲作品。[葉山拓亮](../Page/葉山拓亮.md "wikilink")の提供はシングルでは「[NEW PARADISE](../Page/NEW_PARADISE.md "wikilink")」以来約2年ぶりとなる。この曲で、『[NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第55回NHK紅白歌合戦 "wikilink")』にも出場した）。
 
-ある。CDでは[慶太のパートであった部分をライブでは](https://ja.wikipedia.org/wiki/橘慶太 "wikilink")[龍一が歌唱しており](https://ja.wikipedia.org/wiki/緒方龍一 "wikilink")、CDとライブで若干ヴォーカルが異なっている。
+ある。CDでは[慶太のパートであった部分をライブでは](../Page/橘慶太.md "wikilink")[龍一が歌唱しており](../Page/緒方龍一.md "wikilink")、CDとライブで若干ヴォーカルが異なっている。
 
-C/W曲の「永遠の途中」はスウェーデン女性歌手[シャロッテ・ペレッリ](https://ja.wikipedia.org/wiki/シャロッテ・ペレッリ "wikilink")のアルバム「Gone too long」の収録曲「Believ in love again」のカバー曲。原曲は「永遠の途中」より3ヶ月早くリリースされた。なお、同曲は後に[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")のロックバンド[TRAX](https://ja.wikipedia.org/wiki/TRAX "wikilink")のアルバム『初雨』にて「Sad Wedding Song」として韓国語カバーされている。
+C/W曲の「永遠の途中」はスウェーデン女性歌手[シャロッテ・ペレッリ](https://ja.wikipedia.org/wiki/シャロッテ・ペレッリ "wikilink")のアルバム「Gone too long」の収録曲「Believ in love again」のカバー曲。原曲は「永遠の途中」より3ヶ月早くリリースされた。なお、同曲は後に[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")のロックバンド[TRAX](../Page/TRAX.md "wikilink")のアルバム『初雨』にて「Sad Wedding Song」として韓国語カバーされている。
 
 ## 収録曲
 

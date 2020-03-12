@@ -1,7 +1,7 @@
 > この記事は[Grand Finale](https://ja.wikipedia.org/wiki/Grand_Finale)から翻訳されています。
 
 
-『**Grand Finale**』（グランド・フィナーレ）は、[宝野アリカ](https://ja.wikipedia.org/wiki/宝野アリカ "wikilink")と[片倉三起也](https://ja.wikipedia.org/wiki/片倉三起也 "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")・[ALI PROJECTの](https://ja.wikipedia.org/wiki/ALI_PROJECT "wikilink")5枚目の[ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")アルバム。 [2007年](../Page/2007年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink")に[徳間ジャパンコミュニケーションズ](https://ja.wikipedia.org/wiki/徳間ジャパンコミュニケーションズ "wikilink")から発売された。
+『**Grand Finale**』（グランド・フィナーレ）は、[宝野アリカ](https://ja.wikipedia.org/wiki/宝野アリカ "wikilink")と[片倉三起也](../Page/片倉三起也.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[ALI PROJECTの](https://ja.wikipedia.org/wiki/ALI_PROJECT "wikilink")5枚目の[ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")アルバム。 [2007年](../Page/2007年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink")に[徳間ジャパンコミュニケーションズ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")から発売された。
 
 ## 概要
 
@@ -9,13 +9,13 @@
 
 ## 収録曲
 
-（全作詞：[宝野アリカ](https://ja.wikipedia.org/wiki/宝野アリカ "wikilink")、全作曲：[片倉三起也](https://ja.wikipedia.org/wiki/片倉三起也 "wikilink")、オーケストラアレンジ：[平野義久](https://ja.wikipedia.org/wiki/平野義久 "wikilink")）
+（全作詞：[宝野アリカ](https://ja.wikipedia.org/wiki/宝野アリカ "wikilink")、全作曲：[片倉三起也](../Page/片倉三起也.md "wikilink")、オーケストラアレンジ：[平野義久](https://ja.wikipedia.org/wiki/平野義久 "wikilink")）
 
 1.  **[月蝕グランギニョル](https://ja.wikipedia.org/wiki/月蝕グランギニョル "wikilink") (Orchestral Arrange)** \[4:49\]
-      - テレビアニメ『[AVENGER](https://ja.wikipedia.org/wiki/AVENGER "wikilink")』オープニングテーマ
+      - テレビアニメ『[AVENGER](../Page/AVENGER.md "wikilink")』オープニングテーマ
 2.  **[恋せよ乙女](https://ja.wikipedia.org/wiki/恋せよ乙女〜Love_story_of_ZIPANG〜 "wikilink") (Orchestral Arrange)** \[3:45\]
       -
-        過去に、『冷酒[黄桜](https://ja.wikipedia.org/wiki/黄桜 "wikilink")・飛沫』のCMソングであった。再録は以前にもあったが、アレンジは初となる。
+        過去に、『冷酒[黄桜](../Page/黄桜.md "wikilink")・飛沫』のCMソングであった。再録は以前にもあったが、アレンジは初となる。
 3.  **[聖少女領域](https://ja.wikipedia.org/wiki/聖少女領域 "wikilink") (Orchestral Arrange)** \[4:56\]
       - テレビアニメ『[ローゼンメイデン トロイメント](https://ja.wikipedia.org/wiki/ローゼンメイデン "wikilink")』オープニングテーマ
 4.  **オフェリア遺文 (Orchestral Arrange)** \[5:09\]
@@ -45,7 +45,7 @@
 
   - Vocals：[Arika Takarano](https://ja.wikipedia.org/wiki/宝野アリカ "wikilink")
   - Strings：RUSH by 加藤高志
-  - Harp：[Tomoyuki Asakawa](https://ja.wikipedia.org/wiki/朝川朋之 "wikilink")
+  - Harp：[Tomoyuki Asakawa](../Page/朝川朋之.md "wikilink")
   - Pf：Masako Hosoda(細田真子)
   - FL2：[Kazushi Saito](https://ja.wikipedia.org/wiki/斎藤和志 "wikilink"), Daisuke Morota(諸田大輔)
   - Ob2：Hitoshi Wakui(和久井仁), Takehiko Ura(浦丈彦)

@@ -1,7 +1,7 @@
 > この記事は[MTD-f](https://ja.wikipedia.org/wiki/MTD-f)から翻訳されています。
 
 
-**MTD(f)** は MTD(n, f) (Memory-enhanced Test Driver with node n and value f) の略で、[アルファ・ベータ法](../Page/アルファ・ベータ法.md "wikilink")や[NegaScoutよりも効率の良い](https://ja.wikipedia.org/wiki/Negascout "wikilink")[ミニマックス法](https://ja.wikipedia.org/wiki/ミニマックス法 "wikilink")[アルゴリズム](../Page/アルゴリズム.md "wikilink")の一種である。 MTD(f) は、ミニマックス値を見積もった値 f から、 Null Window Search を何度も繰り返す事で実際のミニマックス値に向けて近づいていく探索法である。 ミニマックス値が見つかると、再び Null Window Search を行っても同じ値が返るようになるので、これを探索の終了条件とする。
+**MTD(f)** は MTD(n, f) (Memory-enhanced Test Driver with node n and value f) の略で、[アルファ・ベータ法](../Page/アルファ・ベータ法.md "wikilink")や[NegaScoutよりも効率の良い](../Page/Negascout.md "wikilink")[ミニマックス法](../Page/ミニマックス法.md "wikilink")[アルゴリズム](../Page/アルゴリズム.md "wikilink")の一種である。 MTD(f) は、ミニマックス値を見積もった値 f から、 Null Window Search を何度も繰り返す事で実際のミニマックス値に向けて近づいていく探索法である。 ミニマックス値が見つかると、再び Null Window Search を行っても同じ値が返るようになるので、これを探索の終了条件とする。
 
 ## 擬似コード
 

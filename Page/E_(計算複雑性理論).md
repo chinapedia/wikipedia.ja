@@ -3,7 +3,7 @@
 
 [計算複雑性理論](https://ja.wikipedia.org/wiki/計算複雑性理論 "wikilink")において、[複雑性クラス](https://ja.wikipedia.org/wiki/複雑性クラス "wikilink") **E** とは、[決定性チューリング機械で](../Page/チューリングマシン.md "wikilink") 2<sup>[O](../Page/ランダウの記号.md "wikilink")(n)</sup> の時間で解ける[決定問題](https://ja.wikipedia.org/wiki/決定問題 "wikilink")の集合である。これはすなわち、複雑性クラス [DTIME](../Page/DTIME.md "wikilink")(2<sup>O(n)</sup>) に等しい。
 
-**E** は類似のクラス [EXPTIME](https://ja.wikipedia.org/wiki/EXPTIME "wikilink") よりも理論上の重要性が低いとされる。それは、[多項式時間多対一還元において閉じていないためである](https://ja.wikipedia.org/wiki/多項式時間変換 "wikilink")。
+**E** は類似のクラス [EXPTIME](https://ja.wikipedia.org/wiki/EXPTIME "wikilink") よりも理論上の重要性が低いとされる。それは、[多項式時間多対一還元において閉じていないためである](../Page/多項式時間変換.md "wikilink")。
 
 ## 参考文献
 

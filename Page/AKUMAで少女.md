@@ -1,7 +1,7 @@
 > この記事は[AKUMA](https://ja.wikipedia.org/wiki/AKUMA)から翻訳されています。
 
 
-『**AKUMAで少女**』（あくまでしょうじょ）は、[わかつきひかる](https://ja.wikipedia.org/wiki/わかつきひかる "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ライトノベル](../Page/ライトノベル.md "wikilink")。[イラスト](https://ja.wikipedia.org/wiki/イラスト "wikilink")は[高階@聖人](https://ja.wikipedia.org/wiki/高階@聖人 "wikilink")が担当。[ホビージャパン](../Page/ホビージャパン.md "wikilink")・[HJ文庫](https://ja.wikipedia.org/wiki/HJ文庫 "wikilink")刊。これまで[ジュブナイルポルノ](https://ja.wikipedia.org/wiki/ジュブナイルポルノ "wikilink")専門で執筆活動を行っていた著者の一般向けライトノベル第1作である。
+『**AKUMAで少女**』（あくまでしょうじょ）は、[わかつきひかる](../Page/わかつきひかる.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ライトノベル](../Page/ライトノベル.md "wikilink")。[イラスト](https://ja.wikipedia.org/wiki/イラスト "wikilink")は[高階@聖人](../Page/高階@聖人.md "wikilink")が担当。[ホビージャパン](../Page/ホビージャパン.md "wikilink")・[HJ文庫](../Page/HJ文庫.md "wikilink")刊。これまで[ジュブナイルポルノ](../Page/ジュブナイルポルノ.md "wikilink")専門で執筆活動を行っていた著者の一般向けライトノベル第1作である。
 
 本編は[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")8月刊の第4巻で一旦完結しているが、ホビージャパン刊『[キャラの\!](../Page/キャラの!.md "wikilink")』誌上において後日談的短編「**AKUMAでメイド**」を2話（前・後編）掲載。その後、[2009年](../Page/2009年.md "wikilink")2月より本作と同じ桜井坂高校を舞台とする新シリーズ「[放課後の世界征服](https://ja.wikipedia.org/wiki/放課後の世界征服 "wikilink")」が刊行されている。
 
@@ -16,7 +16,7 @@
 ## 登場人物
 
   - 如月 ゆり絵（きさらぎ ゆりえ）
-    「天使の容姿、悪魔の性格」と周囲に評される[ツンデレ](https://ja.wikipedia.org/wiki/ツンデレ "wikilink")美少女。生まれつき[心臓](../Page/心臓.md "wikilink")の弁に小さな穴が開いている疾患を抱えており、心臓に負担をかけ過ぎると発作に見舞われる。病気自体は治療可能で、手術をすればまず間違いなく周囲と同じ健康体になれるといわれているが、身体に手術跡がついてしまうことへの抵抗と、ごく僅かとはいえ失敗して死ぬ可能性があるという恐れから手術を受けないでいる。
+    「天使の容姿、悪魔の性格」と周囲に評される[ツンデレ](../Page/ツンデレ.md "wikilink")美少女。生まれつき[心臓](../Page/心臓.md "wikilink")の弁に小さな穴が開いている疾患を抱えており、心臓に負担をかけ過ぎると発作に見舞われる。病気自体は治療可能で、手術をすればまず間違いなく周囲と同じ健康体になれるといわれているが、身体に手術跡がついてしまうことへの抵抗と、ごく僅かとはいえ失敗して死ぬ可能性があるという恐れから手術を受けないでいる。
     隣家に住む幼馴染みの僚に片想いしているが、感情を素直に出せず、ついきつく当たりがちな性格のためにやや敬遠されている。そのため、デビルベアを脅して3つの願いを叶えさせようとした結果、僚の肉体と交換されてしまう。
 
 <!-- end list -->
@@ -43,7 +43,7 @@
 <!-- end list -->
 
   - 花村 勇作（はなむら ゆうさく）
-    [イタリア](../Page/イタリア.md "wikilink")からの[帰国子女](https://ja.wikipedia.org/wiki/帰国子女 "wikilink")。[イケメン](../Page/イケメン.md "wikilink")で[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")が得意なことから転校して早々に女生徒の人気を独り占めするものの、誰彼構わず口説こうとする軽いところがある。
+    [イタリア](../Page/イタリア.md "wikilink")からの[帰国子女](../Page/帰国子女.md "wikilink")。[イケメン](../Page/イケメン.md "wikilink")で[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")が得意なことから転校して早々に女生徒の人気を独り占めするものの、誰彼構わず口説こうとする軽いところがある。
 
 <!-- end list -->
 

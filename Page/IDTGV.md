@@ -1,15 +1,15 @@
 > この記事は[IDTGV](https://ja.wikipedia.org/wiki/IDTGV)から翻訳されています。
 
 
-**iDTGV**は[フランス国鉄](https://ja.wikipedia.org/wiki/フランス国鉄 "wikilink")が[2004年](../Page/2004年.md "wikilink")に始めた[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")だけによる新しい[TGV](https://ja.wikipedia.org/wiki/TGV "wikilink")版の[Eチケットサービスである](https://ja.wikipedia.org/wiki/航空券#電子航空券（Eチケット） "wikilink")。[格安航空会社](https://ja.wikipedia.org/wiki/格安航空会社 "wikilink")の台頭が著しいため始められた点もある。このサービスは2004年[6月](../Page/6月.md "wikilink")に[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")-[アヴィニョン](../Page/アヴィニョン.md "wikilink")-[マルセーユ](https://ja.wikipedia.org/wiki/マルセーユ "wikilink")-[トゥーロン](https://ja.wikipedia.org/wiki/トゥーロン "wikilink")の往復運賃で最初は3年間の実験の枠内で[子会社](https://ja.wikipedia.org/wiki/子会社 "wikilink")であるiDTGV社により開始された。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月21日](../Page/11月21日.md "wikilink")に始まった鉄道職員による[ストライキ](../Page/ストライキ.md "wikilink")に続き子会社は議論になった。しかしながら会社は保護され自主的に業務を行っている。
+**iDTGV**は[フランス国鉄](../Page/フランス国鉄.md "wikilink")が[2004年](../Page/2004年.md "wikilink")に始めた[インターネット](../Page/インターネット.md "wikilink")だけによる新しい[TGV](https://ja.wikipedia.org/wiki/TGV "wikilink")版の[Eチケットサービスである](https://ja.wikipedia.org/wiki/航空券#電子航空券（Eチケット） "wikilink")。[格安航空会社](https://ja.wikipedia.org/wiki/格安航空会社 "wikilink")の台頭が著しいため始められた点もある。このサービスは2004年[6月](../Page/6月.md "wikilink")に[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")-[アヴィニョン](../Page/アヴィニョン.md "wikilink")-[マルセーユ](https://ja.wikipedia.org/wiki/マルセーユ "wikilink")-[トゥーロン](../Page/トゥーロン.md "wikilink")の往復運賃で最初は3年間の実験の枠内で[子会社](../Page/子会社.md "wikilink")であるiDTGV社により開始された。[2005年](../Page/2005年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")に始まった鉄道職員による[ストライキ](../Page/ストライキ.md "wikilink")に続き子会社は議論になった。しかしながら会社は保護され自主的に業務を行っている。
 
-サービスの提供地は拡大され、パリ-[ニーム](https://ja.wikipedia.org/wiki/ニーム_\(フランス\) "wikilink")-[モンペリエ](https://ja.wikipedia.org/wiki/モンペリエ "wikilink")間が2005年[6月22日](../Page/6月22日.md "wikilink")、パリ-[ボルドー](../Page/ボルドー.md "wikilink")-[トゥールーズ](https://ja.wikipedia.org/wiki/トゥールーズ "wikilink")間とパリ-[ペルピニャン](https://ja.wikipedia.org/wiki/ペルピニャン "wikilink")が[2007年](../Page/2007年.md "wikilink")[1月9日](../Page/1月9日.md "wikilink")に開始された。[7月9日](../Page/7月9日.md "wikilink")から[バスク地方](https://ja.wikipedia.org/wiki/バスク地方 "wikilink")とパリ間の[ビアリッツ](../Page/ビアリッツ.md "wikilink")、アンダイエ、[バイヨンヌ](../Page/バイヨンヌ.md "wikilink")、Holy Jean de Luzでも開始された。2007年[10月2日](../Page/10月2日.md "wikilink")にはパリ-[ストラスブール](../Page/ストラスブール.md "wikilink")、パリ-[ミュルーズ](https://ja.wikipedia.org/wiki/ミュルーズ "wikilink")でも提供される。
+サービスの提供地は拡大され、パリ-[ニーム](../Page/ニーム_\(フランス\).md "wikilink")-[モンペリエ](../Page/モンペリエ.md "wikilink")間が2005年[6月22日](../Page/6月22日.md "wikilink")、パリ-[ボルドー](../Page/ボルドー.md "wikilink")-[トゥールーズ](../Page/トゥールーズ.md "wikilink")間とパリ-[ペルピニャン](../Page/ペルピニャン.md "wikilink")が[2007年](../Page/2007年.md "wikilink")[1月9日](../Page/1月9日.md "wikilink")に開始された。[7月9日](../Page/7月9日.md "wikilink")から[バスク地方](../Page/バスク地方.md "wikilink")とパリ間の[ビアリッツ](../Page/ビアリッツ.md "wikilink")、アンダイエ、[バイヨンヌ](../Page/バイヨンヌ.md "wikilink")、Holy Jean de Luzでも開始された。2007年[10月2日](../Page/10月2日.md "wikilink")にはパリ-[ストラスブール](../Page/ストラスブール.md "wikilink")、パリ-[ミュルーズ](../Page/ミュルーズ.md "wikilink")でも提供される。
 
 [2017年](../Page/2017年.md "wikilink")、フランス国鉄は[LGV南ヨーロッパ大西洋線](https://ja.wikipedia.org/wiki/LGV南ヨーロッパ大西洋線 "wikilink")と[LGVブルターニュ-ペイ・ド・ラ・ロワール線](https://ja.wikipedia.org/wiki/LGVブルターニュ-ペイ・ド・ラ・ロワール線 "wikilink")開業を機にTGVのへのリブランドと[Ouigo](https://ja.wikipedia.org/wiki/Ouigo "wikilink")の拡大に伴い**iDTGVブランドは消滅**することになることを発表した\[1\]。
 
 ## インターネットによる予約
 
-サービスサイトでは席数に制限があるが最低価格19[ユーロ](../Page/ユーロ.md "wikilink")のチケットも設定されている。料金は予約状況によって異なっている。乗車日の3ヶ月前からチケットは購入出来る。顧客は自ら[プリンター](https://ja.wikipedia.org/wiki/プリンター "wikilink")でチケットを印刷するか駅に設置された専用の[券売機で発券する](../Page/自動券売機.md "wikilink")。 iDTGV.comサイト自体ではチケットを売っていない。提携しているサイトのうちの1つを経由して予約を行うことが必要である。(anyway.com, atlantisvoyages.fr, expedia.fr, fftparis.com, koala-voyages.com, luce-voyages.com, otu.fr, travelonweb.com, voyages-sncf.com,wasteels.fr.)全ての[TGV](https://ja.wikipedia.org/wiki/TGV "wikilink")は予約が義務付けられている。チケットは白紙の[A4のフォーマットで印刷しなければならない](https://ja.wikipedia.org/wiki/紙#洋紙寸法 "wikilink")。確定されたチケットの印刷画面が出てきたら交換は出来ない。チケットの確定する前ならば他のiDTGVだけならば交換が出来るが、[フランス国鉄](https://ja.wikipedia.org/wiki/フランス国鉄 "wikilink")のサイト上で購入すると一律に10ユーロの追加料金が掛かる。
+サービスサイトでは席数に制限があるが最低価格19[ユーロ](../Page/ユーロ.md "wikilink")のチケットも設定されている。料金は予約状況によって異なっている。乗車日の3ヶ月前からチケットは購入出来る。顧客は自ら[プリンター](https://ja.wikipedia.org/wiki/プリンター "wikilink")でチケットを印刷するか駅に設置された専用の[券売機で発券する](../Page/自動券売機.md "wikilink")。 iDTGV.comサイト自体ではチケットを売っていない。提携しているサイトのうちの1つを経由して予約を行うことが必要である。(anyway.com, atlantisvoyages.fr, expedia.fr, fftparis.com, koala-voyages.com, luce-voyages.com, otu.fr, travelonweb.com, voyages-sncf.com,wasteels.fr.)全ての[TGV](https://ja.wikipedia.org/wiki/TGV "wikilink")は予約が義務付けられている。チケットは白紙の[A4のフォーマットで印刷しなければならない](https://ja.wikipedia.org/wiki/紙#洋紙寸法 "wikilink")。確定されたチケットの印刷画面が出てきたら交換は出来ない。チケットの確定する前ならば他のiDTGVだけならば交換が出来るが、[フランス国鉄](../Page/フランス国鉄.md "wikilink")のサイト上で購入すると一律に10ユーロの追加料金が掛かる。
 
 ## 労働組合の反発
 
@@ -25,7 +25,7 @@ iDTGVの料金は全ての収入額を最大化するために、実際の列車
 
 ## 成果
 
-ルイ・ガロワ(現、[EADS](https://ja.wikipedia.org/wiki/EADS "wikilink")のCEO。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")当時はフランス国鉄総裁)によれば、2004年12月には平均占有率77%に上がったとなっている。旅客人員は210,000人。旅客の平均単価は55ユーロである。
+ルイ・ガロワ(現、[EADS](https://ja.wikipedia.org/wiki/EADS "wikilink")のCEO。[2005年](../Page/2005年.md "wikilink")当時はフランス国鉄総裁)によれば、2004年12月には平均占有率77%に上がったとなっている。旅客人員は210,000人。旅客の平均単価は55ユーロである。
 
 ## 出典
 

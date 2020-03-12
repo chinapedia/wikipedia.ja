@@ -3,16 +3,16 @@
 
 *'Something ELse **（サムシングエルス）は、1994年に結成した、アコースティック・スタイルと三声のハーモニーを基調とした[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のバンドである。略称は「**サムエル*'」。
 
-「[柏](https://ja.wikipedia.org/wiki/柏市 "wikilink")」発の[ストリートミュージシャン](https://ja.wikipedia.org/wiki/ストリートミュージシャン "wikilink")出身であることや、楽曲「[ラストチャンス](https://ja.wikipedia.org/wiki/ラストチャンス "wikilink")」のヒットで知られる。 2006年10月22日、FINAL TOUR「LAST LIVE」をもって解散した。
+「[柏](https://ja.wikipedia.org/wiki/柏市 "wikilink")」発の[ストリートミュージシャン](https://ja.wikipedia.org/wiki/ストリートミュージシャン "wikilink")出身であることや、楽曲「[ラストチャンス](../Page/ラストチャンス.md "wikilink")」のヒットで知られる。 2006年10月22日、FINAL TOUR「LAST LIVE」をもって解散した。
 
-解散後、[大久保伸隆](https://ja.wikipedia.org/wiki/大久保伸隆 "wikilink")はソロでライブを中心に活動中。伊藤大介と今井千尋はプロデュース・ユニット[ranai](https://ja.wikipedia.org/wiki/ranai "wikilink")を結成したものの現在活動休止中。今井はレコード会社勤務の傍ら、音楽ディレクターとしての活動を行っている。
+解散後、[大久保伸隆](../Page/大久保伸隆.md "wikilink")はソロでライブを中心に活動中。伊藤大介と今井千尋はプロデュース・ユニット[ranai](https://ja.wikipedia.org/wiki/ranai "wikilink")を結成したものの現在活動休止中。今井はレコード会社勤務の傍ら、音楽ディレクターとしての活動を行っている。
 
 ## メンバー
 
-  - **[大久保伸隆](https://ja.wikipedia.org/wiki/大久保伸隆 "wikilink")（おおくぼ のぶたか、 - ）**
+  - **[大久保伸隆](../Page/大久保伸隆.md "wikilink")（おおくぼ のぶたか、 - ）**
       -
         [リード・ヴォーカル](https://ja.wikipedia.org/wiki/リード・ヴォーカル "wikilink")(Lead Vocal)、[アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")(Acoustic Guitar)
-        [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")生まれ、[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[流山市](https://ja.wikipedia.org/wiki/流山市 "wikilink")育ち
+        [東京都](../Page/東京都.md "wikilink")生まれ、[千葉県](../Page/千葉県.md "wikilink")[流山市](https://ja.wikipedia.org/wiki/流山市 "wikilink")育ち
         2009年11月11日、ブログで一般女性との結婚を発表。
 
 <!-- end list -->
@@ -26,8 +26,8 @@
 
   - **今井千尋（いまい ちひろ、 - ）**
       -
-        [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")(Bass)、[キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")(Keyboard)、ヴォーカル(Vocal)
-        [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")[太宰府市](../Page/太宰府市.md "wikilink")出身。[明治大学](https://ja.wikipedia.org/wiki/明治大学 "wikilink")政治経済学部卒業。妻は歌手の[松本英子](https://ja.wikipedia.org/wiki/松本英子_\(歌手\) "wikilink")。一児の父。
+        [ベース](../Page/ベース_\(弦楽器\).md "wikilink")(Bass)、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")(Keyboard)、ヴォーカル(Vocal)
+        [福岡県](../Page/福岡県.md "wikilink")[太宰府市](../Page/太宰府市.md "wikilink")出身。[明治大学](../Page/明治大学.md "wikilink")政治経済学部卒業。妻は歌手の[松本英子](../Page/松本英子_\(歌手\).md "wikilink")。一児の父。
 
 ## 遍歴
 
@@ -43,7 +43,7 @@
 
 1994年5月、[柏駅](https://ja.wikipedia.org/wiki/柏駅 "wikilink")前のデッキ上でI/O EXITとしてストリートライブを行っているところを、たまたま母校の野球観戦を終えて帰宅途中だった今井千尋が見かける。今井は別の音楽ユニットで活動していたがプロミュージシャンとして身を立てることを志しており、 自身の作る楽曲に合うボーカルと演奏を求めていたこともあって、[オーリアンズ](https://ja.wikipedia.org/wiki/オーリアンズ "wikilink")の「Dance With Me」を演奏する2人に心打たれ、すぐに声をかける。その時の今井は泥酔状態であった為、伊藤と大久保は不信感を募らせたが、プロ志向を熱く語る今井に感じるものがあり、後日改めて話し合いをすることになる。今井が用意したオリジナル曲の譜面とテープを聴いた2人が気に入り、『EXIT LINE』として活動を開始。一週間後にはストリートライブを行う。後にシングルとして発売されることとなる『風と行きたかった』は最初のオリジナル曲として早くから披露されていた。
 
-やがて、柏でのストリートライブは200人以上を集めるようになり、地元紙に取り上げられるまでになっていた。当初は歌いたいだけ歌っていたが、 [ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")への集客を目的とする為、後に隔週土曜日、時間も50分間で固定された。音楽関係者がその様子を知ることになりデビューへのきっかけとなる。
+やがて、柏でのストリートライブは200人以上を集めるようになり、地元紙に取り上げられるまでになっていた。当初は歌いたいだけ歌っていたが、 [ライブハウス](../Page/ライブハウス.md "wikilink")への集客を目的とする為、後に隔週土曜日、時間も50分間で固定された。音楽関係者がその様子を知ることになりデビューへのきっかけとなる。
 
 ### Something ELse
 
@@ -63,13 +63,13 @@
 
 :\* [3月12日](../Page/3月12日.md "wikilink") - 2ndシングル『days go by』リリース。サムエルで最も売れなかったシングル 。
 
-:\* [4月18日](../Page/4月18日.md "wikilink") - 初のワンマンライブを渋谷のライブハウス[Egg-manで行う](https://ja.wikipedia.org/wiki/Shibuya_eggman "wikilink")。
+:\* [4月18日](../Page/4月18日.md "wikilink") - 初のワンマンライブを渋谷のライブハウス[Egg-manで行う](../Page/Shibuya_eggman.md "wikilink")。
 
-:\* [10月8日](../Page/10月8日.md "wikilink") - 3rdシングル『風と行きたかった』リリース。[JR東日本の](../Page/東日本旅客鉄道.md "wikilink")[VIEW CARDのCFソングに採用される](https://ja.wikipedia.org/wiki/ビューカード "wikilink")。セールスこそ芳しくなかったが、地方ラジオ局のリクエストランキングでは1位を記録。
+:\* [10月8日](../Page/10月8日.md "wikilink") - 3rdシングル『風と行きたかった』リリース。[JR東日本の](../Page/東日本旅客鉄道.md "wikilink")[VIEW CARDのCFソングに採用される](../Page/ビューカード.md "wikilink")。セールスこそ芳しくなかったが、地方ラジオ局のリクエストランキングでは1位を記録。
 
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")
 
-:\* [2月6日](https://ja.wikipedia.org/wiki/2月6日 "wikilink") - 4thシングル『反省のうた』リリース。NHK『[みんなのうた](https://ja.wikipedia.org/wiki/みんなのうた "wikilink")』（[1998年2-3月](https://ja.wikipedia.org/wiki/みんなのうた年度別放送楽曲一覧#1997年度の放送楽曲 "wikilink")）でオンエア\[[http://cgi2.nhk.or.jp/minna/search/index.cgi?id=MIN199802_03\]される](http://cgi2.nhk.or.jp/minna/search/index.cgi?id=MIN199802_03%5Dされる)。
+:\* [2月6日](../Page/2月6日.md "wikilink") - 4thシングル『反省のうた』リリース。NHK『[みんなのうた](../Page/みんなのうた.md "wikilink")』（[1998年2-3月](https://ja.wikipedia.org/wiki/みんなのうた年度別放送楽曲一覧#1997年度の放送楽曲 "wikilink")）でオンエア\[[http://cgi2.nhk.or.jp/minna/search/index.cgi?id=MIN199802_03\]される](http://cgi2.nhk.or.jp/minna/search/index.cgi?id=MIN199802_03%5Dされる)。
 
 :\* [3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink") - 1stアルバム『TRIPLE PLAY』リリース。当時のレコード会社所属アーティストの地方移動費No.1も報われず、 なかなか結果に結びつかなかった。
 
@@ -77,11 +77,11 @@
 
 :\* [9月13日](../Page/9月13日.md "wikilink") - デビューシングルを超えるセールスを記録できず低迷。レコード会社との契約切れの危機に立たされていた折、[日本テレビの人気番組](../Page/日本テレビ放送網.md "wikilink")『[雷波少年](../Page/雷波少年.md "wikilink")』から起死回生のチャンスともいえる白羽の矢が立つ。「三人で一つの部屋にこもり運命の一曲を制作。その一曲を次のシングルとしてリリースし、そのシングルがオリコン初登場20位以内に入らなければバンド解散、音楽業界以外の職種に転職」という条件だった。企画内容には一時メンバー、スタッフも難色を示したが、三人の意見は一致し合宿生活を開始。首都圏以外では深夜のオンエアや放送が数週間遅れとなるなど不利な点もいくつか重なったが、 全国各地でのファンやラジオDJによる応援活動やネットでの呼びかけ、バンドがデビュー以後出演してきたラジオ局のDJが一丸となって、「僕達だってサムシングエルスを失いたくない\!\!」というチラシを署名入りで全国的に配布しバンドの存続を訴えた。
 
-:\* [12月23日](../Page/12月23日.md "wikilink") - 運命の6thシングル『[ラストチャンス](https://ja.wikipedia.org/wiki/ラストチャンス "wikilink")』リリース。
+:\* [12月23日](../Page/12月23日.md "wikilink") - 運命の6thシングル『[ラストチャンス](../Page/ラストチャンス.md "wikilink")』リリース。
 
   - [1999年](../Page/1999年.md "wikilink")
 
-:\*[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink") - 初登場20位以内を目指して合宿所から見えた富士山へ願掛け。また同日、すでに担当を外れていたスタッフが熊本へ飛び、ファンも街頭で呼びかけを行った。さらにFMK（現在の[エフエム熊本](../Page/エフエム熊本.md "wikilink")）のラジオDJもCDショップにて「ラストチャンス」を手売りする。
+:\*[1月1日](../Page/1月1日.md "wikilink") - 初登場20位以内を目指して合宿所から見えた富士山へ願掛け。また同日、すでに担当を外れていたスタッフが熊本へ飛び、ファンも街頭で呼びかけを行った。さらにFMK（現在の[エフエム熊本](../Page/エフエム熊本.md "wikilink")）のラジオDJもCDショップにて「ラストチャンス」を手売りする。
 
 :\* [1月6日](../Page/1月6日.md "wikilink") - オリコン結果発表で20万5340枚を売り上げ、初登場2位を記録、118日間の合宿生活を終了する。翌週には1位を獲得。最終的にミリオンセラーに迫るヒットを記録した。
 
@@ -99,13 +99,13 @@
 
 :\* [7月28日](../Page/7月28日.md "wikilink") - 8thシングル『あいのうた』リリース。
 
-:\* [10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - [文化放送](../Page/文化放送.md "wikilink")をキー局に全国ネットのラジオ番組『[LIPS PARTY 21.jp](https://ja.wikipedia.org/wiki/LIPS_PARTY_21.jp "wikilink")』スタート（2001年9月まで）。
+:\* [10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - [文化放送](../Page/文化放送.md "wikilink")をキー局に全国ネットのラジオ番組『[LIPS PARTY 21.jp](../Page/LIPS_PARTY_21.jp.md "wikilink")』スタート（2001年9月まで）。
 
 :\* [10月6日](../Page/10月6日.md "wikilink") - [11月30日](../Page/11月30日.md "wikilink") - 二度目の全国ツアー。15ヶ所15公演。
 
 :\* [12月30日](../Page/12月30日.md "wikilink") - 『[輝く\!日本レコード大賞](https://ja.wikipedia.org/wiki/日本レコード大賞 "wikilink")』に出演。『ラストチャンス』が優秀作品賞を受賞。
 
-:\* [12月31日](../Page/12月31日.md "wikilink") - [第50回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第50回NHK紅白歌合戦 "wikilink")に出場。またこの年、『[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")』において、ソング・オブ・ザ・イヤーも受賞し、年末年始にかけて多数の音楽番組に出演する。
+:\* [12月31日](../Page/12月31日.md "wikilink") - [第50回NHK紅白歌合戦](../Page/第50回NHK紅白歌合戦.md "wikilink")に出場。またこの年、『[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")』において、ソング・オブ・ザ・イヤーも受賞し、年末年始にかけて多数の音楽番組に出演する。
 
   - [2000年](../Page/2000年.md "wikilink")
 
@@ -143,13 +143,13 @@
 
   - [2002年](../Page/2002年.md "wikilink")
 
-:\* [2月6日](https://ja.wikipedia.org/wiki/2月6日 "wikilink") -　12thシングル『夏のラジオ』リリース。
+:\* [2月6日](../Page/2月6日.md "wikilink") -　12thシングル『夏のラジオ』リリース。
 
 :\* [2月27日](../Page/2月27日.md "wikilink")　- 4thアルバム『Y』リリース。
 
 :\* [3月23日](../Page/3月23日.md "wikilink") - [5月18日](../Page/5月18日.md "wikilink")　- 全国ツアー『“Y”〜技Y転じて服とナス〜』19ヶ所26公演。原点回帰をテーマに、小規模のライブハウスに絞ったツアーを敢行。
 
-:\* 4月以降、[FM YOKOHAMAにてレギュラーラジオ番組](https://ja.wikipedia.org/wiki/横浜エフエム放送 "wikilink")『Step On Something』スタート（2003年9月まで）。
+:\* 4月以降、[FM YOKOHAMAにてレギュラーラジオ番組](../Page/横浜エフエム放送.md "wikilink")『Step On Something』スタート（2003年9月まで）。
 
 :\* [6月12日](../Page/6月12日.md "wikilink") - 15日　- 東名阪ホールツアー『“Y”〜ボクラYク〜』3大都市3公演。
 
@@ -167,13 +167,13 @@
 
 :\* [5月14日](../Page/5月14日.md "wikilink") - 5thアルバム『風見鶏』リリース。
 
-:\* [5月17日](../Page/5月17日.md "wikilink") - 毎年恒例の[渋谷公会堂](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")公演『帰ってきたGUITARMAN』を敢行。
+:\* [5月17日](../Page/5月17日.md "wikilink") - 毎年恒例の[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")公演『帰ってきたGUITARMAN』を敢行。
 
-:\* [5月21日](../Page/5月21日.md "wikilink") - サッカー[キリンチャレンジカップ](https://ja.wikipedia.org/wiki/キリンチャレンジカップ "wikilink")（ニュージーランド vs 日本代表戦）にて国歌斉唱。
+:\* [5月21日](../Page/5月21日.md "wikilink") - サッカー[キリンチャレンジカップ](../Page/キリンチャレンジカップ.md "wikilink")（ニュージーランド vs 日本代表戦）にて国歌斉唱。
 
 :\* [8月27日](../Page/8月27日.md "wikilink") - ベストDVD『TICKET THE MOVIE』リリース。これまでに発表したシングル14曲のミュージックビデオを収録。
 
-:\* [10月](https://ja.wikipedia.org/wiki/10月 "wikilink")以降 - [NRNにてラジオ番組](../Page/全国ラジオネットワーク.md "wikilink")『[Something ELseのラジオアミューズメントパーク](https://ja.wikipedia.org/wiki/ラジオアミューズメントパーク "wikilink")』スタート（2004年3月まで）。
+:\* [10月](https://ja.wikipedia.org/wiki/10月 "wikilink")以降 - [NRNにてラジオ番組](../Page/全国ラジオネットワーク.md "wikilink")『[Something ELseのラジオアミューズメントパーク](../Page/ラジオアミューズメントパーク.md "wikilink")』スタート（2004年3月まで）。
 
 :\* [10月2日](../Page/10月2日.md "wikilink") - 『Dream Power ジョン・レノン スーパーライブ』に出演。
 
@@ -201,7 +201,7 @@
 
 :\* 12月31日 - カウントダウンライブ『2004→2005申酉合戦』千葉京成ホテルミラマーレで敢行。
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
 
 :\* 1月1日 - 新体制スタート。新事務所「パラレルワールド」を設立し独立（後に法人化、「有限会社アクアヴィット」所属となる）。
 
@@ -215,7 +215,7 @@
 
 :\* 12月31日 - カウントダウンライブ「2005→2006酉が戌」ラフォーレミュージアム六本木で敢行。
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")
+  - [2006年](../Page/2006年.md "wikilink")
 
 :\* [3月4日](../Page/3月4日.md "wikilink") - shibuya eggmanの25周年を記念したワンマンライブに参加。
 
@@ -225,7 +225,7 @@
 
   - [2014年](../Page/2014年.md "wikilink")
 
-:\* 10月 - 11月\[1\] - 視聴者からの後押しで番組の再放送を行う NHK『[みんなのうた](https://ja.wikipedia.org/wiki/みんなのうた "wikilink")リクエスト』\[2\]\[[http://cgi2.nhk.or.jp/minna/special/request/index.html\]で、1998年2月](http://cgi2.nhk.or.jp/minna/special/request/index.html%5Dで、1998年2月) - 3月に放送[1](http://cgi2.nhk.or.jp/minna/search/index.cgi?id=MIN199802_03%5Dされた『反省のうた』が再放送された%5Bhttp://megalodon.jp/2014-1126-1340-38/cgi2.nhk.or.jp/minna/special/request/index.html)。2017年5月時点においても不定期で放送されている。
+:\* 10月 - 11月\[1\] - 視聴者からの後押しで番組の再放送を行う NHK『[みんなのうた](../Page/みんなのうた.md "wikilink")リクエスト』\[2\]\[[http://cgi2.nhk.or.jp/minna/special/request/index.html\]で、1998年2月](http://cgi2.nhk.or.jp/minna/special/request/index.html%5Dで、1998年2月) - 3月に放送[1](http://cgi2.nhk.or.jp/minna/search/index.cgi?id=MIN199802_03%5Dされた『反省のうた』が再放送された%5Bhttp://megalodon.jp/2014-1126-1340-38/cgi2.nhk.or.jp/minna/special/request/index.html)。2017年5月時点においても不定期で放送されている。
 
   - [2016年](../Page/2016年.md "wikilink")
 
@@ -271,23 +271,23 @@
 
   - 2007年2月、伊藤と今井の二人はプロデュースユニット「ranai」を結成。イベント出演やCDリリースも行ったが現在活動休止中。伊藤に関しては近年、活動が確認されていない。今井は個人で[松浦亜弥](../Page/松浦亜弥.md "wikilink")・[メロン記念日](../Page/メロン記念日.md "wikilink")・[Buono\!](../Page/Buono!.md "wikilink")など、[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")所属アーティストへの作曲提供や、[さだまさし](../Page/さだまさし.md "wikilink")のアルバム制作といった、ディレクターとしての活動を中心に行っている。
   - バンド活動の継続に強い意思を持っていた大久保も2007年3月、「Sunnyglider\#」として活動を開始。その後、「Sunny-G」を経て、現在は本名の大久保伸隆に戻り、年5回Liveを中心に活動中。
-  - 2017年1月1日、今井はフジテレビ放送の「さま～ずコントTV vol.2」にて、コント[マイナスターズ](https://ja.wikipedia.org/wiki/マイナスターズ "wikilink")のギター担当「今井ちゃん」として出演した\[3\]。
+  - 2017年1月1日、今井はフジテレビ放送の「さま～ずコントTV vol.2」にて、コント[マイナスターズ](../Page/マイナスターズ.md "wikilink")のギター担当「今井ちゃん」として出演した\[3\]。
 
 ## ディスコグラフィ
 
 ### シングル
 
 1.  **悲しきノンフィクション**／レインボウ（1996年10月23日）
-      - [TBS系](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")「Popfile」エンディングテーマ&[J-WAVE](../Page/J-WAVE.md "wikilink")[サッポロビール](../Page/サッポロビール.md "wikilink")企業CMソング
+      - [TBS系](../Page/TBSテレビ.md "wikilink")「Popfile」エンディングテーマ&[J-WAVE](../Page/J-WAVE.md "wikilink")[サッポロビール](../Page/サッポロビール.md "wikilink")企業CMソング
 2.  **days go by**／無口（1997年3月12日）
-      - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系「[TVチャンピオン](https://ja.wikipedia.org/wiki/TVチャンピオン "wikilink")」エンディングテーマ
+      - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系「[TVチャンピオン](../Page/TVチャンピオン.md "wikilink")」エンディングテーマ
 3.  **風と行きたかった**／MONKEY MAGIC（[ゴダイゴ](../Page/ゴダイゴ.md "wikilink")のカヴァー）（1997年10月8日）
-      - [JR東日本](../Page/東日本旅客鉄道.md "wikilink")「[VIEW CARD](https://ja.wikipedia.org/wiki/ビューカード "wikilink")」CFソング
+      - [JR東日本](../Page/東日本旅客鉄道.md "wikilink")「[VIEW CARD](../Page/ビューカード.md "wikilink")」CFソング
 4.  **反省のうた**／Easy to Love（1998年2月6日）
-      - [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")「[みんなのうた](https://ja.wikipedia.org/wiki/みんなのうた "wikilink")」
+      - [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")「[みんなのうた](../Page/みんなのうた.md "wikilink")」
 5.  **レコード**／I say razz you go\!（1998年6月17日）
       - テレビ東京系「[太陽娘と海](https://ja.wikipedia.org/wiki/太陽娘と海 "wikilink")」主題歌
-6.  **[ラストチャンス](https://ja.wikipedia.org/wiki/ラストチャンス "wikilink")**（1998年12月23日）
+6.  **[ラストチャンス](../Page/ラストチャンス.md "wikilink")**（1998年12月23日）
       - 日本テレビ系「雷波少年系ラストチャンス」より
       - AGAスキンクリニックCMソング（2015年、歌唱は[篠崎愛](../Page/篠崎愛.md "wikilink")）
 7.  **[さよならじゃない](../Page/さよならじゃない.md "wikilink")**／どこまでも遠くへ（1999年4月9日）…「ラストチャンス」の候補曲だった。
@@ -295,19 +295,19 @@
 8.  **[あいのうた](../Page/あいのうた_\(Something_ELseの曲\).md "wikilink")**／花火が消えるまで（1999年7月28日）
       - 「雷波少年系遊園地 後ろ楽しいガーデン」イメージソング
 9.  **[ウソツキ](https://ja.wikipedia.org/wiki/ウソツキ_\(Something_ELseの曲\) "wikilink")**／be there（2000年2月16日）
-      - つんくタウン二丁目企画。映画「[GO-CON\!](https://ja.wikipedia.org/wiki/GO-CON! "wikilink")」主題歌／[山崎製パン](https://ja.wikipedia.org/wiki/山崎製パン "wikilink")「新食感宣言」CMソング
+      - つんくタウン二丁目企画。映画「[GO-CON\!](https://ja.wikipedia.org/wiki/GO-CON! "wikilink")」主題歌／[山崎製パン](../Page/山崎製パン.md "wikilink")「新食感宣言」CMソング
 10. **磁石**／蜘蛛の糸／1224〜25（今井家demo）（2000年11月8日）
-      - テレビ東京系「[少女日記](https://ja.wikipedia.org/wiki/少女日記 "wikilink")」主題歌
+      - テレビ東京系「[少女日記](../Page/少女日記.md "wikilink")」主題歌
 11. **びいだま**／桜雨〜あの日の雨と今日の雨II／思い出であれ、後悔であれ（2001年2月9日）
       - テレビ東京系「少女日記」主題歌
 12. **夏のラジオ**／元気ですか?（2002年2月6日）
-      - 「元気ですか？」[全薬工業](https://ja.wikipedia.org/wiki/全薬工業 "wikilink")「ジキニン」CMソング
+      - 「元気ですか？」[全薬工業](../Page/全薬工業.md "wikilink")「ジキニン」CMソング
 13. **国道16**／そのまま（2002年9月26日）
-      - 日本テレビ系「[モグモグGOMBO](https://ja.wikipedia.org/wiki/モグモグGOMBO "wikilink")」エンディングテーマ
+      - 日本テレビ系「[モグモグGOMBO](../Page/モグモグGOMBO.md "wikilink")」エンディングテーマ
 14. **少年**／笑いたい（2003年2月5日）
       - 日本テレビ系「カップリングLOVE」エンディングテーマ
 15. **1M**／天気予報（2003年10月16日）
-      - 「天気予報」（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")「[ほくほくテレビ](https://ja.wikipedia.org/wiki/ほくほくテレビ "wikilink")」より）
+      - 「天気予報」（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")「[ほくほくテレビ](../Page/ほくほくテレビ.md "wikilink")」より）
 16. **あの頃のまま**／夏唄／夕立ち（アコースティックバージョン）（2004年7月28日）
 
 ### アルバム
@@ -315,7 +315,7 @@
 ### オリジナルアルバム
 
 1.  [TRIPLE PLAY](https://ja.wikipedia.org/wiki/TRIPLE_PLAY "wikilink")（1998年3月6日）
-2.  [ギターマン](https://ja.wikipedia.org/wiki/ギターマン "wikilink")（2000年3月8日）
+2.  [ギターマン](../Page/ギターマン.md "wikilink")（2000年3月8日）
 3.  [光の糸](https://ja.wikipedia.org/wiki/光の糸 "wikilink")（2001年3月7日）
 4.  [Y](https://ja.wikipedia.org/wiki/Y_\(Something_ELseのアルバム\) "wikilink")（2002年2月27日）
 5.  [風見鶏](https://ja.wikipedia.org/wiki/風見鶏_\(Something_ELseのアルバム\) "wikilink")（2003年5月14日）
@@ -332,8 +332,8 @@
 
 ### ベストアルバム
 
-  - [TICKET](https://ja.wikipedia.org/wiki/TICKET "wikilink")（2003年3月12日）
-  - [ゴールデン☆ベスト Something ELse](https://ja.wikipedia.org/wiki/ゴールデン☆ベスト "wikilink")（2011年2月23日）
+  - [TICKET](../Page/TICKET.md "wikilink")（2003年3月12日）
+  - [ゴールデン☆ベスト Something ELse](../Page/ゴールデン☆ベスト.md "wikilink")（2011年2月23日）
 
 ### ビデオ/DVD
 
@@ -347,16 +347,16 @@
   - 『ビデオテープ』（「トライデント」CMソング）
   - 『いつか』（「TBSグアムマラソン2000」イメージソング）
   - 『星空を見上げたら』（「[アデランス](https://ja.wikipedia.org/wiki/アデランス "wikilink")」CMソング）※未発表曲
-  - 『遥かなすぐ近くに』（[NTT DoCoMo東海](https://ja.wikipedia.org/wiki/エヌ・ティ・ティ・ドコモ東海 "wikilink")「P-IN」CMソング）
-  - 『渡り鳥』（TBS系全国ネット「[がっちりマンデー\!\!](https://ja.wikipedia.org/wiki/がっちりマンデー!! "wikilink")」エンディングテーマ
+  - 『遥かなすぐ近くに』（[NTT DoCoMo東海](../Page/エヌ・ティ・ティ・ドコモ東海.md "wikilink")「P-IN」CMソング）
+  - 『渡り鳥』（TBS系全国ネット「[がっちりマンデー\!\!](../Page/がっちりマンデー!!.md "wikilink")」エンディングテーマ
   - 『ボールの行方』（FUJIKEN企業CMソング）
   - 『面影ポーズ』『まだまだ僕には』（[松坂屋](../Page/松坂屋.md "wikilink")キャンペーンソング）
 
 ## NHK紅白歌合戦出場歴
 
-| 年度/放送回                                                                                                    | 回 | 曲目      | 出演順   | 対戦相手                                                                    |
-| --------------------------------------------------------------------------------------------------------- | - | ------- | ----- | ----------------------------------------------------------------------- |
-| [1999年](../Page/1999年.md "wikilink")（平成11年）/[第50回](https://ja.wikipedia.org/wiki/第50回NHK紅白歌合戦 "wikilink") | 初 | ラストチャンス | 02/27 | [Hysteric Blue](https://ja.wikipedia.org/wiki/Hysteric_Blue "wikilink") |
+| 年度/放送回                                                                                 | 回 | 曲目      | 出演順   | 対戦相手                                                                    |
+| -------------------------------------------------------------------------------------- | - | ------- | ----- | ----------------------------------------------------------------------- |
+| [1999年](../Page/1999年.md "wikilink")（平成11年）/[第50回](../Page/第50回NHK紅白歌合戦.md "wikilink") | 初 | ラストチャンス | 02/27 | [Hysteric Blue](https://ja.wikipedia.org/wiki/Hysteric_Blue "wikilink") |
 
   - 注意点
 
@@ -378,5 +378,5 @@
 [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:EMIミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのアーティスト "wikilink") [Category:日本のストリート出身ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のストリート出身ミュージシャン "wikilink") [Category:1994年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1994年に結成した音楽グループ "wikilink") [Category:2006年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2006年に解散した音楽グループ "wikilink")
 
 1.  10月4日、11月1日、11月29日
-2.  毎週土曜日 20:55 - 21:00 [NHK Eテレ](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")
+2.  毎週土曜日 20:55 - 21:00 [NHK Eテレ](../Page/NHK教育テレビジョン.md "wikilink")
 3.  [今井千尋 Twitter](https://twitter.com/chihiroimai/status/815238723981803520)、2017年1月5日閲覧。

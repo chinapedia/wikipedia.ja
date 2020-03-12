@@ -1,16 +1,16 @@
 > この記事は[SYR420th](https://ja.wikipedia.org/wiki/SYR420th)から翻訳されています。
 
 
-『**SYR4 グッバイ・20th・センチュリー**』（SYR4: Goodbye 20th Century）は、1999年に発売された[ソニック・ユース](https://ja.wikipedia.org/wiki/ソニック・ユース "wikilink")の2枚組アルバムである。
+『**SYR4 グッバイ・20th・センチュリー**』（SYR4: Goodbye 20th Century）は、1999年に発売された[ソニック・ユース](../Page/ソニック・ユース.md "wikilink")の2枚組アルバムである。
 
-アルバムジャケットのグラフィックはクリス・アビブ。裏面には[ルー・ハリソン](https://ja.wikipedia.org/wiki/ルー・ハリソン "wikilink")の“Everything comes to the end...even the twentyth century”という言葉が引用されている。
+アルバムジャケットのグラフィックはクリス・アビブ。裏面には[ルー・ハリソン](../Page/ルー・ハリソン.md "wikilink")の“Everything comes to the end...even the twentyth century”という言葉が引用されている。
 
 ## 収録曲
 
 **ディスク1**
 
 1.  **エッジズ** - *Edges* (16:03)
-      - [クリスチャン・ウォルフ](https://ja.wikipedia.org/wiki/クリスチャン・ウォルフ "wikilink")
+      - [クリスチャン・ウォルフ](../Page/クリスチャン・ウォルフ.md "wikilink")
 2.  **シックス(サードテイク)** - *Six (3rd Take)* (3:03)
       - [ジョン・ケージ](../Page/ジョン・ケージ.md "wikilink")
 3.  **シックス・フォー・ニュー・タイム** - *Six for New Time* (8:06)

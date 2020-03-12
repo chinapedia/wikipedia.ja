@@ -1,7 +1,7 @@
 > この記事は[PHAZER](https://ja.wikipedia.org/wiki/PHAZER)から翻訳されています。
 
 
-**PHAZER**（フェザー）は[ヤマハ発動機](https://ja.wikipedia.org/wiki/ヤマハ発動機 "wikilink")が[2007年](../Page/2007年.md "wikilink")に製造を開始した[スノーモビル](https://ja.wikipedia.org/wiki/スノーモビル "wikilink")である。
+**PHAZER**（フェザー）は[ヤマハ発動機](../Page/ヤマハ発動機.md "wikilink")が[2007年](../Page/2007年.md "wikilink")に製造を開始した[スノーモビル](https://ja.wikipedia.org/wiki/スノーモビル "wikilink")である。
 
 ## PHAZER
 

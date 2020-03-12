@@ -1,7 +1,7 @@
 > この記事は[V](https://ja.wikipedia.org/wiki/V)から翻訳されています。
 
 
-[Grosmont_Depot_MMB_08_30926.jpg](https://ja.wikipedia.org/wiki/File:Grosmont_Depot_MMB_08_30926.jpg "fig:Grosmont_Depot_MMB_08_30926.jpg") [440locomotivestowe.jpg](https://ja.wikipedia.org/wiki/File:440locomotivestowe.jpg "fig:440locomotivestowe.jpg") **V形** (SR Class V) は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[サザン鉄道](../Page/サザン鉄道_\(イギリス\).md "wikilink") (Southern Railway, SR) で使用されていた[蒸気機関車](../Page/蒸気機関車.md "wikilink")。**スクールズ級** (Schools class) としても知られ、各機関車には有名な[パブリックスクール](https://ja.wikipedia.org/wiki/パブリックスクール "wikilink")の名前が付けられている。
+[Grosmont_Depot_MMB_08_30926.jpg](https://ja.wikipedia.org/wiki/File:Grosmont_Depot_MMB_08_30926.jpg "fig:Grosmont_Depot_MMB_08_30926.jpg") [440locomotivestowe.jpg](https://ja.wikipedia.org/wiki/File:440locomotivestowe.jpg "fig:440locomotivestowe.jpg") **V形** (SR Class V) は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[サザン鉄道](../Page/サザン鉄道_\(イギリス\).md "wikilink") (Southern Railway, SR) で使用されていた[蒸気機関車](../Page/蒸気機関車.md "wikilink")。**スクールズ級** (Schools class) としても知られ、各機関車には有名な[パブリックスクール](../Page/パブリックスクール.md "wikilink")の名前が付けられている。
 
 ## 概要
 
@@ -32,15 +32,15 @@
 | 番号    | 名称  | 製造所                                                                                                   | 製造 | 廃車   |
 | ----- | --- | ----------------------------------------------------------------------------------------------------- | -- | ---- |
 | BR    | SR  |                                                                                                       |    |      |
-| 30900 | 900 | *[Eton](https://ja.wikipedia.org/wiki/イートン・カレッジ "wikilink")*                                          |    | 1930 |
+| 30900 | 900 | *[Eton](../Page/イートン・カレッジ.md "wikilink")*                                                             |    | 1930 |
 | 30901 | 901 | *[Winchester](https://ja.wikipedia.org/wiki/ウィンチェスター・カレッジ "wikilink")*                                |    | 1930 |
 | 30902 | 902 | *[Wellington](https://ja.wikipedia.org/wiki/w:en:Wellington_College,_Berkshire "wikilink")*           |    | 1930 |
 | 30903 | 903 | *[Charterhouse](https://ja.wikipedia.org/wiki/チャーターハウス・スクール "wikilink")*                              |    | 1930 |
 | 30904 | 904 | *[Lancing](https://ja.wikipedia.org/wiki/w:en:Lancing_College "wikilink")*                            |    | 1930 |
 | 30905 | 905 | *[Tonbridge](https://ja.wikipedia.org/wiki/w:en:Tonbridge_School "wikilink")*                         |    | 1930 |
 | 30906 | 906 | *[Sherborne](https://ja.wikipedia.org/wiki/w:en:Sherborne_School "wikilink")*                         |    | 1930 |
-| 30907 | 907 | *[Dulwich](https://ja.wikipedia.org/wiki/ダリッジ・カレッジ "wikilink")*                                       |    | 1930 |
-| 30908 | 908 | *[Westminster](https://ja.wikipedia.org/wiki/ウェストミンスター・スクール "wikilink")*                              |    | 1930 |
+| 30907 | 907 | *[Dulwich](../Page/ダリッジ・カレッジ.md "wikilink")*                                                          |    | 1930 |
+| 30908 | 908 | *[Westminster](../Page/ウェストミンスター・スクール.md "wikilink")*                                                 |    | 1930 |
 | 30909 | 909 | *[St Paul's](https://ja.wikipedia.org/wiki/セント・ポールズ・スクール_\(ロンドン\) "wikilink")*                        |    | 1930 |
 | 30910 | 910 | *[Merchant Taylors](https://ja.wikipedia.org/wiki/マーチャント・テイラーズ・スクール "wikilink")*                      |    | 1933 |
 | 30911 | 911 | *[Dover](https://ja.wikipedia.org/wiki/w:en:Dover_College "wikilink")*                                |    | 1933 |
@@ -51,7 +51,7 @@
 | 30916 | 916 | *[Whitgift](https://ja.wikipedia.org/wiki/w:en:Whitgift_School "wikilink")*                           |    | 1934 |
 | 30917 | 917 | *[Ardingly](https://ja.wikipedia.org/wiki/w:en:Ardingly_College "wikilink")*                          |    | 1934 |
 | 30918 | 918 | *[Hurstpierpoint](https://ja.wikipedia.org/wiki/w:en:Hurstpierpoint_College "wikilink")*              |    | 1934 |
-| 30919 | 919 | *[Harrow](https://ja.wikipedia.org/wiki/ハーロー校 "wikilink")*                                            |    | 1934 |
+| 30919 | 919 | *[Harrow](../Page/ハーロー校.md "wikilink")*                                                               |    | 1934 |
 | 30920 | 920 | *[Rugby](https://ja.wikipedia.org/wiki/ラグビー校 "wikilink")*                                             |    | 1934 |
 | 30921 | 921 | *[Shrewsbury](https://ja.wikipedia.org/wiki/シュルーズベリー校 "wikilink")*                                    |    | 1934 |
 | 30922 | 922 | *[Marlborough](https://ja.wikipedia.org/wiki/w:en:Marlborough_College "wikilink")*                    |    | 1934 |
@@ -65,7 +65,7 @@
 | 30930 | 930 | *[Radley](https://ja.wikipedia.org/wiki/w:en:Radley_College "wikilink")*                              |    | 1934 |
 | 30931 | 931 | *[King's Wimbledon](https://ja.wikipedia.org/wiki/w:en:King's_College_School "wikilink")*             |    | 1934 |
 | 30932 | 932 | *[Blundells](https://ja.wikipedia.org/wiki/w:en:Blundell's_School "wikilink")*                        |    | 1934 |
-| 30933 | 933 | *[King's Canterbury](https://ja.wikipedia.org/wiki/キングズ・スクール "wikilink")*                             |    | 1934 |
+| 30933 | 933 | *[King's Canterbury](../Page/キングズ・スクール.md "wikilink")*                                                |    | 1934 |
 | 30934 | 934 | *[St Lawrence](https://ja.wikipedia.org/wiki/w:en:St._Lawrence_College,_Ramsgate "wikilink")*         |    | 1934 |
 | 30935 | 935 | *[Sevenoaks](https://ja.wikipedia.org/wiki/w:en:Sevenoaks_School "wikilink")*                         |    | 1934 |
 | 30936 | 936 | *[Cranleigh](https://ja.wikipedia.org/wiki/w:en:Cranleigh_school "wikilink")*                         |    | 1934 |

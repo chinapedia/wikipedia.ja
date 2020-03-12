@@ -1,13 +1,13 @@
 > この記事は[U-ka saegusa IN db II](https://ja.wikipedia.org/wiki/U-ka_saegusa_IN_db_II)から翻訳されています。
 
 
-『**U-ka saegusa IN db II**』（ユーカ サエグサ イン デシベル セカンド）は、[三枝夕夏 IN dbの](https://ja.wikipedia.org/wiki/三枝夕夏_IN_db "wikilink")2枚目のアルバム。
+『**U-ka saegusa IN db II**』（ユーカ サエグサ イン デシベル セカンド）は、[三枝夕夏 IN dbの](../Page/三枝夕夏_IN_db.md "wikilink")2枚目のアルバム。
 
 ## 内容
 
   - 「[眠る君の横顔に微笑みを](../Page/眠る君の横顔に微笑みを.md "wikilink")」「[へこんだ気持ち 溶かすキミ](../Page/へこんだ気持ち_溶かすキミ.md "wikilink")」「[笑顔でいようよ](../Page/笑顔でいようよ.md "wikilink")」「[いつも心に太陽を](../Page/いつも心に太陽を_\(三枝夕夏_IN_dbの曲\).md "wikilink")」のシングル4曲を含む2枚目のフルアルバムである。
-  - 前作に引き続き、元[PAMELAH](https://ja.wikipedia.org/wiki/PAMELAH "wikilink")の[小澤正澄](../Page/小澤正澄.md "wikilink")が半数以上の曲のアレンジを手がけ、[ビーイング](../Page/ビーイング.md "wikilink")の主力作曲家が曲を提供しているが、新たに[小松未歩](../Page/小松未歩.md "wikilink")が楽曲を提供しているほか、メンバーの[三枝夕夏](../Page/三枝夕夏.md "wikilink")、[岩井勇一郎](https://ja.wikipedia.org/wiki/岩井勇一郎 "wikilink")が作曲した曲も収録されている。
-  - 三枝が[JEWELRYに作詞提供した](../Page/ジュエリー_\(音楽グループ\).md "wikilink")「ココロが止まらない」「胸いっぱいのこの愛を 誰より君に」、[WAG](https://ja.wikipedia.org/wiki/WAG "wikilink")に作詞提供した「[吹きすさぶ風の中で](https://ja.wikipedia.org/wiki/吹きすさぶ風の中で "wikilink")」のセルフカバーが計3曲収録され、シングル曲、カップリング曲も合わせると既発曲が9曲にもなっており、新曲が3曲しかない事になる。
+  - 前作に引き続き、元[PAMELAH](../Page/PAMELAH.md "wikilink")の[小澤正澄](../Page/小澤正澄.md "wikilink")が半数以上の曲のアレンジを手がけ、[ビーイング](../Page/ビーイング.md "wikilink")の主力作曲家が曲を提供しているが、新たに[小松未歩](../Page/小松未歩.md "wikilink")が楽曲を提供しているほか、メンバーの[三枝夕夏](../Page/三枝夕夏.md "wikilink")、[岩井勇一郎](../Page/岩井勇一郎.md "wikilink")が作曲した曲も収録されている。
+  - 三枝が[JEWELRYに作詞提供した](../Page/ジュエリー_\(音楽グループ\).md "wikilink")「ココロが止まらない」「胸いっぱいのこの愛を 誰より君に」、[WAG](../Page/WAG.md "wikilink")に作詞提供した「[吹きすさぶ風の中で](../Page/吹きすさぶ風の中で.md "wikilink")」のセルフカバーが計3曲収録され、シングル曲、カップリング曲も合わせると既発曲が9曲にもなっており、新曲が3曲しかない事になる。
 
 ## 収録曲
 
@@ -15,7 +15,7 @@
       - 作詞・作曲：三枝夕夏 / 編曲：小澤正澄
     <!-- end list -->
       -
-        10thシングル。[TBS系](../Page/TBSテレビ.md "wikilink")『[ウルトラマンネクサス](https://ja.wikipedia.org/wiki/ウルトラマンネクサス "wikilink")』エンディングテーマ。
+        10thシングル。[TBS系](../Page/TBSテレビ.md "wikilink")『[ウルトラマンネクサス](../Page/ウルトラマンネクサス.md "wikilink")』エンディングテーマ。
 2.  **[眠る君の横顔に微笑みを](../Page/眠る君の横顔に微笑みを.md "wikilink")**
       - 作詞：三枝夕夏 / 作曲：大野愛果 / 編曲：小澤正澄
     <!-- end list -->
@@ -42,7 +42,7 @@
       - 作詞：三枝夕夏 / 作曲：大野愛果 / 編曲：小澤正澄
     <!-- end list -->
       -
-        9thシングル。[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[AX MUSIC-TV](https://ja.wikipedia.org/wiki/AX_MUSIC-TV "wikilink")』AX POWER PLAY \#067
+        9thシングル。[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[AX MUSIC-TV](../Page/AX_MUSIC-TV.md "wikilink")』AX POWER PLAY \#067
 8.  **[最後のキスは氷のように冷たかった](../Page/いつも心に太陽を_\(三枝夕夏_IN_dbの曲\).md "wikilink")**
       - 作詞：三枝夕夏 / 作曲：五大ゆり / 編曲：古井弘人
     <!-- end list -->
@@ -52,7 +52,7 @@
       - 作詞：三枝夕夏 / 作曲：徳永暁人 / 編曲：小澤正澄
     <!-- end list -->
       -
-        [WAG](https://ja.wikipedia.org/wiki/WAG "wikilink")の「[吹きすさぶ風の中で](https://ja.wikipedia.org/wiki/吹きすさぶ風の中で "wikilink")」のセルフカバー
+        [WAG](../Page/WAG.md "wikilink")の「[吹きすさぶ風の中で](../Page/吹きすさぶ風の中で.md "wikilink")」のセルフカバー
 10. **私を許さないで**
       - 作詞：三枝夕夏 / 作曲：小松未歩 / 編曲：後藤康二
 11. **Hand to Hand**
@@ -60,7 +60,7 @@
     <!-- end list -->
       -
         [愛知県警](https://ja.wikipedia.org/wiki/愛知県警察 "wikilink")『進めよう\!\! みんなで安全なまちづくり』イメージソングになっており、[愛知県警が歌詞を一般公募し](https://ja.wikipedia.org/wiki/愛知県警察 "wikilink")、最優秀賞に選ばれた作品から三枝が補作詞、[大野愛果](../Page/大野愛果.md "wikilink")が曲を作ったという1曲である。
-        後に18thシングル「[雲に乗って](https://ja.wikipedia.org/wiki/雲に乗って "wikilink")」ではニューバージョンが収録された。
+        後に18thシングル「[雲に乗って](../Page/雲に乗って.md "wikilink")」ではニューバージョンが収録された。
 12. **[君のハートに胸キュン②](../Page/へこんだ気持ち_溶かすキミ.md "wikilink")**
       - 作詞：三枝夕夏 / 作曲：岩井勇一郎 / 編曲：後藤康二
     <!-- end list -->

@@ -1,15 +1,15 @@
 > この記事は[Beagle](https://ja.wikipedia.org/wiki/Beagle)から翻訳されています。
 
 
-**Beagle**（ビーグル）は、[Monoプラットフォーム上で動作する](../Page/Mono_\(ソフトウェア\).md "wikilink")[デスクトップ検索](https://ja.wikipedia.org/wiki/デスクトップ検索 "wikilink")ツール。 主に[Linux](../Page/Linux.md "wikilink")での動作を想定しているが、その他のMono対応プラットフォーム上でも動作する。 ドキュメント、チャットのログ、電子メールなど様々なものを検索出来る（後述）。 [Windowsでの](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Googleデスクトップや](https://ja.wikipedia.org/wiki/Google#Google_デスクトップ "wikilink")、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")での[Spotlight](https://ja.wikipedia.org/wiki/Spotlight "wikilink")に類似したものである。
+**Beagle**（ビーグル）は、[Monoプラットフォーム上で動作する](../Page/Mono_\(ソフトウェア\).md "wikilink")[デスクトップ検索](https://ja.wikipedia.org/wiki/デスクトップ検索 "wikilink")ツール。 主に[Linux](../Page/Linux.md "wikilink")での動作を想定しているが、その他のMono対応プラットフォーム上でも動作する。 ドキュメント、チャットのログ、電子メールなど様々なものを検索出来る（後述）。 [Windowsでの](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Googleデスクトップや](https://ja.wikipedia.org/wiki/Google#Google_デスクトップ "wikilink")、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")での[Spotlight](../Page/Spotlight.md "wikilink")に類似したものである。
 
 ## 機能
 
 Beagleで検索可能なものとして、
 
   - 会話のログ（[Gaim](https://ja.wikipedia.org/wiki/Gaim "wikilink")、[Kopete](https://ja.wikipedia.org/wiki/Kopete "wikilink")、[IRCのログ](../Page/Internet_Relay_Chat.md "wikilink")）
-  - ドキュメント（[AbiWord](https://ja.wikipedia.org/wiki/AbiWord "wikilink"), [OpenOffice.org](../Page/OpenOffice.org.md "wikilink"), [Microsoft Office](../Page/Microsoft_Office.md "wikilink"), [PDF](../Page/Portable_Document_Format.md "wikilink"), [テキストファイル](https://ja.wikipedia.org/wiki/テキストファイル "wikilink") (.txt), [リッチテキスト](https://ja.wikipedia.org/wiki/Rich_Text_Format "wikilink")）
-  - [電子メール](../Page/電子メール.md "wikilink")とアドレスブック（[Evolutionや](https://ja.wikipedia.org/wiki/Evolution_\(ソフトウェア\) "wikilink")[KMail](https://ja.wikipedia.org/wiki/KMail "wikilink")）
+  - ドキュメント（[AbiWord](../Page/AbiWord.md "wikilink"), [OpenOffice.org](../Page/OpenOffice.org.md "wikilink"), [Microsoft Office](../Page/Microsoft_Office.md "wikilink"), [PDF](../Page/Portable_Document_Format.md "wikilink"), [テキストファイル](../Page/テキストファイル.md "wikilink") (.txt), [リッチテキスト](../Page/Rich_Text_Format.md "wikilink")）
+  - [電子メール](../Page/電子メール.md "wikilink")とアドレスブック（[Evolutionや](../Page/Evolution_\(ソフトウェア\).md "wikilink")[KMail](https://ja.wikipedia.org/wiki/KMail "wikilink")）
   - ヘルプファイル（[Texinfo](../Page/Texinfo.md "wikilink")、manページ）
   - 画像ファイル ([PNG](../Page/Portable_Network_Graphics.md "wikilink"), [JPEG](../Page/JPEG.md "wikilink"))
   - 音楽ファイル ([MP3](../Page/MP3.md "wikilink"), [ogg](https://ja.wikipedia.org/wiki/ogg "wikilink"), [FLAC](../Page/FLAC.md "wikilink"))

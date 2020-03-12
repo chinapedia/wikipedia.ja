@@ -5,7 +5,7 @@
 
 ## 概要
 
-[新静岡セノバ](https://ja.wikipedia.org/wiki/新静岡セノバ "wikilink")\[1\]5階の[サテライトスタジオ](https://ja.wikipedia.org/wiki/サテライトスタジオ "wikilink")「view-st.Shizuoka"NOA"」からの[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")\[2\]。
+[新静岡セノバ](https://ja.wikipedia.org/wiki/新静岡セノバ "wikilink")\[1\]5階の[サテライトスタジオ](../Page/サテライトスタジオ.md "wikilink")「view-st.Shizuoka"NOA"」からの[生放送](../Page/生放送.md "wikilink")\[2\]。
 
 [TOKYO FM制作の番組](../Page/エフエム東京.md "wikilink")「SUZUKI presents KAT-TUN田口淳之介の[TAG-TUNE DRIVING](https://ja.wikipedia.org/wiki/TAG-TUNE_DRIVING "wikilink")」が17:45より17:55まで内包されている。
 
@@ -17,7 +17,7 @@
 
 <!-- end list -->
 
-  - [高橋正純](https://ja.wikipedia.org/wiki/高橋正純 "wikilink")\[4\]
+  - [高橋正純](../Page/高橋正純.md "wikilink")\[4\]
 
 <!-- end list -->
 
@@ -26,7 +26,7 @@
 2013年3月時点。
 
   - [ディレクター](../Page/ディレクター.md "wikilink")：「ヌキチ（島ヌキチ）\[5\]\[6\]」（月～水）、「レイニー川崎\[7\]\[8\]」（木）
-  - [AD](https://ja.wikipedia.org/wiki/アシスタントディレクター "wikilink")：「生徒会長コバヤシ\[9\]\[10\]\[11\]」
+  - [AD](../Page/アシスタントディレクター.md "wikilink")：「生徒会長コバヤシ\[9\]\[10\]\[11\]」
 
 <!-- end list -->
 
@@ -44,7 +44,7 @@
 
 ## 番組の特徴
 
-  - [リスナー](https://ja.wikipedia.org/wiki/リスナー "wikilink")のメッセージ、高橋のトーク、それらを引き立たせる[効果音](https://ja.wikipedia.org/wiki/効果音 "wikilink")が特徴的である。
+  - [リスナー](../Page/リスナー.md "wikilink")のメッセージ、高橋のトーク、それらを引き立たせる[効果音](../Page/効果音.md "wikilink")が特徴的である。
   - 曜日ごとに「ポイントワード」と呼ばれるテーマワードが設定され、[ファクス](https://ja.wikipedia.org/wiki/ファクシミリ "wikilink")・[電子メール](../Page/電子メール.md "wikilink")・スタジオでの受け渡しによるリスナーからのメッセージと音楽、時折出演するゲストとのトークを中心に展開される。
   - 水曜日は「Boom！オールリクエストデー」として毎週リクエストタイトルを設定し、極力リスナーからのリクエストに応えている\[15\]。
   - K-MIXの番組にしては珍しくスタッフの名前がよく出てくる。
@@ -52,13 +52,13 @@
 
 ## 歴史
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")末 - ディレクター「モリコ」が番組を卒業。以後、後任の「ヌキチ」が月～木を担当。
+  - [2006年](../Page/2006年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")末 - ディレクター「モリコ」が番組を卒業。以後、後任の「ヌキチ」が月～木を担当。
   - 2006年[8月1日](../Page/8月1日.md "wikilink") - 番組初の出張生放送を[浜名湖パルパル](../Page/浜名湖パルパル.md "wikilink")で行った。
   - [2007年](../Page/2007年.md "wikilink")[1月10日](../Page/1月10日.md "wikilink") - [Vライブ](../Page/Vライブ.md "wikilink")での放送を開始\[16\]。
-  - 2007年[3月19日](../Page/3月19日.md "wikilink") - 2度目の[公開放送](https://ja.wikipedia.org/wiki/公開放送 "wikilink")を[三島市](../Page/三島市.md "wikilink")の日清プラザで行った。
-  - 2007年[11月4日](../Page/11月4日.md "wikilink")-[11月8日](../Page/11月8日.md "wikilink") - 高橋正純の体力企画として1週間キャンプ生活と[エコキャップ運動](https://ja.wikipedia.org/wiki/エコキャップ運動 "wikilink")\[17\]が行われた。その間、キャンプサイト（K-MIX本社前）から[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")の放送が行われたが、本放送では到底放送できないほどの[下ネタ](https://ja.wikipedia.org/wiki/下ネタ "wikilink")が飛び交っていた。
+  - 2007年[3月19日](../Page/3月19日.md "wikilink") - 2度目の[公開放送](../Page/公開放送.md "wikilink")を[三島市](../Page/三島市.md "wikilink")の日清プラザで行った。
+  - 2007年[11月4日](../Page/11月4日.md "wikilink")-[11月8日](../Page/11月8日.md "wikilink") - 高橋正純の体力企画として1週間キャンプ生活と[エコキャップ運動](https://ja.wikipedia.org/wiki/エコキャップ運動 "wikilink")\[17\]が行われた。その間、キャンプサイト（K-MIX本社前）から[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")の放送が行われたが、本放送では到底放送できないほどの[下ネタ](../Page/下ネタ.md "wikilink")が飛び交っていた。
   - [2009年](../Page/2009年.md "wikilink")[5月11日](../Page/5月11日.md "wikilink") - 前日喉を痛めていた高橋が喉の不調を訴え、嗄れ声のまま放送を行った。放送中に状態が悪化し、エンディング近くには声が出なくなる一幕もあった。その後リスナーに対してお詫びのコメントを述べている。翌日からは徐々に快方に向かっている。
-  - 2009年[12月22日](../Page/12月22日.md "wikilink") - スタジオのあった[電電ビル](https://ja.wikipedia.org/wiki/電電ビル "wikilink")にて[停電](https://ja.wikipedia.org/wiki/停電 "wikilink")が発生。[BGMがないまま放送が始まった](https://ja.wikipedia.org/wiki/バックグラウンドミュージック "wikilink")。停電の間は高橋のトークと、本社からの音源で放送は続けられた。
+  - 2009年[12月22日](../Page/12月22日.md "wikilink") - スタジオのあった[電電ビル](https://ja.wikipedia.org/wiki/電電ビル "wikilink")にて[停電](../Page/停電.md "wikilink")が発生。[BGMがないまま放送が始まった](../Page/バックグラウンドミュージック.md "wikilink")。停電の間は高橋のトークと、本社からの音源で放送は続けられた。
   - [2013年](../Page/2013年.md "wikilink")[3月10日](../Page/3月10日.md "wikilink") - 番組10周年記念商品であるオリジナル[日本酒](https://ja.wikipedia.org/wiki/日本酒 "wikilink")「甘十（かんじゅう）\[18\]\[19\]」を先行販売。翌日より一般発売。
   - 2013年[3月11日](../Page/3月11日.md "wikilink") - [富士宮市](../Page/富士宮市.md "wikilink")（[富士錦酒造](https://ja.wikipedia.org/wiki/富士錦酒造 "wikilink")株式会社）から[静岡市](../Page/静岡市.md "wikilink")（新静岡セノバ）までを[マラソン](../Page/マラソン.md "wikilink")する体力企画を実施。
   - 2013年[3月28日](../Page/3月28日.md "wikilink") - 番組終了。
@@ -90,7 +90,7 @@
         三面記事的な話題の紹介。「パーソナリティブログ」が紹介されることもある。
   - 17:18 - **K-MIX TRAFFIC INFORMATION**
       -
-        [日本道路交通情報センター](https://ja.wikipedia.org/wiki/日本道路交通情報センター "wikilink")のアナウンサーとクロストークを行うことがある。
+        [日本道路交通情報センター](../Page/日本道路交通情報センター.md "wikilink")のアナウンサーとクロストークを行うことがある。
   - 17:20 - **しずおかデイリーメッセージ**
   - 17:25 -
       -
@@ -137,8 +137,8 @@
   - スポーツBoom！ダッシュ\[24\]
   - ブレインバスター
   - I-shotダイアリー\[25\]
-  - [F1](https://ja.wikipedia.org/wiki/2007年日本グランプリ_\(4輪\) "wikilink") pit in the Boom\!
-  - [8耐](https://ja.wikipedia.org/wiki/鈴鹿8時間耐久ロードレース "wikilink")\!行きたい\!無問題\!\!
+  - [F1](../Page/2007年日本グランプリ_\(4輪\).md "wikilink") pit in the Boom\!
+  - [8耐](../Page/鈴鹿8時間耐久ロードレース.md "wikilink")\!行きたい\!無問題\!\!
   - [ゲレンデ](https://ja.wikipedia.org/wiki/ゲレンデ "wikilink")インフォメーション
   - [au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink") Run & Talk
   - ジーパン先生
@@ -152,7 +152,7 @@
   - [ローソン](../Page/ローソン.md "wikilink") マチのポストステーション
   - 純ちゃんの じゅ〜んとやってみよう！
   - [Webしずおか](../Page/TOKAIコミュニケーションズ.md "wikilink") インターネット・カフェ\[27\]\[28\]\[29\]\[30\]
-  - [すみや](https://ja.wikipedia.org/wiki/すみや "wikilink")POWER PICK UP\!\[31\]
+  - [すみや](../Page/すみや.md "wikilink")POWER PICK UP\!\[31\]
   - ニュースがわかる\!\!教えて照ちゃん（みやちゃん）\!
 
 ## 備考
@@ -189,7 +189,7 @@
 11. [吾味箱](http://blog.goo.ne.jp/hiyokoumori/) - 生徒会長こばやしのブログ（移転前）
 12. [モリコの毎々日記](http://blogs.dion.ne.jp/morico/)
 13. 2009年度より。オープニング曲としては新静岡セノバ移転後。
-14. 最初の[スクラッチ](https://ja.wikipedia.org/wiki/スクラッチ "wikilink")音は前ディレクターのモリコが追加したもの。
+14. 最初の[スクラッチ](../Page/スクラッチ.md "wikilink")音は前ディレクターのモリコが追加したもの。
 15. これは[CARAMEL POCKETの](../Page/CARAMEL_POCKET.md "wikilink")「メシリク」に対抗しているため。2005年度頃までは、1週目「メジャーリーク」、2週目「びっくりくりくりクリックリク」、3週目「青春18リック」、4週目「リク1グランプリ」、最終週「月の終わリク」と固定されていたが、後に毎週違うタイトルになっている。
 16. [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月30日](../Page/9月30日.md "wikilink")終了。
 17. その後エコキャップ運動は2008年6月よりK-MIX全体でレギュラーシーズンが開始された。view-st.Shizuoka"NOA"でも放送中に回収を行っている。
@@ -198,16 +198,16 @@
 20. 2008年4月22日から。
 21. 二畑泰三 前支社長（通称：フタバタケッキー）は2008年3月をもってBoomを卒業した。
 22. [2007年](../Page/2007年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")よりルールが変更され得点により問題を決める方式に変更された。
-23. 福山雅ズミ（[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")）、ワイルドズミちゃん（[スギちゃん](https://ja.wikipedia.org/wiki/スギちゃん "wikilink")）、ズミえもん（[ドラえもん](https://ja.wikipedia.org/wiki/ドラえもん_\(キャラクター\) "wikilink")）、ズミパンマン（[アンパンマン](https://ja.wikipedia.org/wiki/アンパンマン_\(キャラクター\) "wikilink")）、ズミッキー（[ミッキーマウス](../Page/ミッキーマウス.md "wikilink")）など。
+23. 福山雅ズミ（[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")）、ワイルドズミちゃん（[スギちゃん](https://ja.wikipedia.org/wiki/スギちゃん "wikilink")）、ズミえもん（[ドラえもん](../Page/ドラえもん_\(キャラクター\).md "wikilink")）、ズミパンマン（[アンパンマン](https://ja.wikipedia.org/wiki/アンパンマン_\(キャラクター\) "wikilink")）、ズミッキー（[ミッキーマウス](../Page/ミッキーマウス.md "wikilink")）など。
 24. 最新のスポーツ情報、速報を紹介。
 25. パーソナリティブログの開始により終了。
 26. （-2009年3月）
-27. 2004年4月-2011年3月。2007年4月以降の放送は[ポッドキャスティングで聴取可能だった](https://ja.wikipedia.org/wiki/ポッドキャスト "wikilink")。
+27. 2004年4月-2011年3月。2007年4月以降の放送は[ポッドキャスティングで聴取可能だった](../Page/ポッドキャスト.md "wikilink")。
 28. （番組公式）
 29. （移転後）
 30. （移転前）
 31. \-2011年3月。スポンサー撤退により終了。前番組RADIOSHIP"NOA"から継続のコーナー。
 32. [常葉菊川高校](https://ja.wikipedia.org/wiki/常葉菊川高校 "wikilink")が[センバツに優勝した時](../Page/第79回選抜高等学校野球大会.md "wikilink")、リスナーの意見により「今日もK-MIX Radio the Boom\! プレイボールです！」に変更された。また「番組が始まるときに、『キックオフ！』じゃなく『ブックオフ！』と言ってみる」というジーパン先生でのボケ回答（[2007年](../Page/2007年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")）に応じ、翌週の月曜日に「今日もK-MIX Radio the Boom\! [BOOKOFF](https://ja.wikipedia.org/wiki/BOOKOFF "wikilink")です！」と発した。
-33. 「come together」の部分が聞き取りづらいため、 「釜揚げ[しらす](https://ja.wikipedia.org/wiki/シラス_\(魚\) "wikilink")」だと思っていたというメールが来た。また リスナーから、初音ミクバージョンのジングルが送られてきたが、やはり「come together」の部分が曖昧だった。そのため、高橋からは「今『[セインカミュー](https://ja.wikipedia.org/wiki/セイン・カミュ "wikilink")』って言ってませんでした？！」との指摘もあった。
+33. 「come together」の部分が聞き取りづらいため、 「釜揚げ[しらす](../Page/シラス_\(魚\).md "wikilink")」だと思っていたというメールが来た。また リスナーから、初音ミクバージョンのジングルが送られてきたが、やはり「come together」の部分が曖昧だった。そのため、高橋からは「今『[セインカミュー](../Page/セイン・カミュ.md "wikilink")』って言ってませんでした？！」との指摘もあった。
 34. [NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")におけるカメラ付携帯電話。
 35. K-MIXパーソナリティの大半が行っていた。

@@ -1,7 +1,7 @@
 > この記事は[FIFA U-20](https://ja.wikipedia.org/wiki/FIFA_U-20)から翻訳されています。
 
 
-**FIFA U-20女子ワールドカップ**（）は、[国際サッカー連盟](../Page/国際サッカー連盟.md "wikilink")（FIFA）が主催する、20歳以下の[ナショナルチーム](https://ja.wikipedia.org/wiki/ナショナルチーム "wikilink")による[女子サッカー](https://ja.wikipedia.org/wiki/女子サッカー "wikilink")の[世界選手権大会](https://ja.wikipedia.org/wiki/世界選手権大会 "wikilink")である。偶数年に開催される。[2002年](../Page/2002年.md "wikilink")の第1回大会は19歳以下の選手が出場する**FIFA U-19女子世界選手権**であったが、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")の第3回大会から出場年齢制限が20歳以下に変更されて**FIFA U-20女子世界選手権**となり\[1\]、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")の第4回大会から大会名称が**U-20女子ワールドカップ**に変更された\[2\]。これはFIFAが主催するナショナルチームによる世界選手権大会の名称を統一する措置によるものである。
+**FIFA U-20女子ワールドカップ**（）は、[国際サッカー連盟](../Page/国際サッカー連盟.md "wikilink")（FIFA）が主催する、20歳以下の[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[女子サッカー](../Page/女子サッカー.md "wikilink")の[世界選手権大会](../Page/世界選手権大会.md "wikilink")である。偶数年に開催される。[2002年](../Page/2002年.md "wikilink")の第1回大会は19歳以下の選手が出場する**FIFA U-19女子世界選手権**であったが、[2006年](../Page/2006年.md "wikilink")の第3回大会から出場年齢制限が20歳以下に変更されて**FIFA U-20女子世界選手権**となり\[1\]、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")の第4回大会から大会名称が**U-20女子ワールドカップ**に変更された\[2\]。これはFIFAが主催するナショナルチームによる世界選手権大会の名称を統一する措置によるものである。
 
 第6回大会では開催地が当初の予定地であった[ウズベキスタン](../Page/ウズベキスタン.md "wikilink")から[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")へ変更されて開催された（[後述](https://ja.wikipedia.org/wiki/#2012年 "wikilink")）。第7回大会は[2015 FIFA女子ワールドカップの開催国でもある](https://ja.wikipedia.org/wiki/2015_FIFA女子ワールドカップ "wikilink")[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")で開催された\[3\]。
 
@@ -9,7 +9,7 @@
 
 ### 2002年
 
-女子ユース世代では初の世界選手権、**[2002 FIFA U-19女子世界選手権](https://ja.wikipedia.org/wiki/2002_FIFA_U-19女子世界選手権 "wikilink")**は[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")で開催された。決勝戦は[アルバート州](https://ja.wikipedia.org/wiki/アルバート州 "wikilink")[エドモントン](../Page/エドモントン.md "wikilink")の[コモンウェルス・スタジアムで行われ](https://ja.wikipedia.org/wiki/コモンウェルス・スタジアム_\(エドモントン\) "wikilink")、47,000人を超える観客が来場した\[4\]。[アメリカ合衆国が延長戦での](https://ja.wikipedia.org/wiki/サッカーアメリカ合衆国女子代表 "wikilink")[リンゼイ・タープリー](https://ja.wikipedia.org/wiki/リンゼイ・タープリー "wikilink")の得点で1-0で開催国[カナダに勝利し優勝した](../Page/サッカーカナダ女子代表.md "wikilink")。カナダ代表の[クリスティン・シンクレア](https://ja.wikipedia.org/wiki/クリスティン・シンクレア "wikilink")が大会最優秀選手賞（ゴールデンボール）と大会得点王（ゴールデンシューズ、10得点）を獲得した\[5\]。
+女子ユース世代では初の世界選手権、**[2002 FIFA U-19女子世界選手権](https://ja.wikipedia.org/wiki/2002_FIFA_U-19女子世界選手権 "wikilink")**は[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")で開催された。決勝戦は[アルバート州](https://ja.wikipedia.org/wiki/アルバート州 "wikilink")[エドモントン](../Page/エドモントン.md "wikilink")の[コモンウェルス・スタジアムで行われ](../Page/コモンウェルス・スタジアム_\(エドモントン\).md "wikilink")、47,000人を超える観客が来場した\[4\]。[アメリカ合衆国が延長戦での](https://ja.wikipedia.org/wiki/サッカーアメリカ合衆国女子代表 "wikilink")[リンゼイ・タープリー](https://ja.wikipedia.org/wiki/リンゼイ・タープリー "wikilink")の得点で1-0で開催国[カナダに勝利し優勝した](../Page/サッカーカナダ女子代表.md "wikilink")。カナダ代表の[クリスティン・シンクレア](https://ja.wikipedia.org/wiki/クリスティン・シンクレア "wikilink")が大会最優秀選手賞（ゴールデンボール）と大会得点王（ゴールデンシューズ、10得点）を獲得した\[5\]。
 
 ### 2004年
 
@@ -17,7 +17,7 @@
 
 ### 2006年
 
-**[2006 FIFA U-20女子世界選手権](https://ja.wikipedia.org/wiki/2006_FIFA_U-20女子世界選手権 "wikilink")**は、[ロシア](../Page/ロシア.md "wikilink")国内にて8月17日から9月3日まで開催された。この大会から、FIFAは年齢の上限を従来の19歳から1歳上げて20歳とした。大会は[モスクワ](https://ja.wikipedia.org/wiki/モスクワ "wikilink")市内の3会場（[ディナモ](https://ja.wikipedia.org/wiki/VTBアレナ "wikilink")、[ロコモティフ](https://ja.wikipedia.org/wiki/ロコモティフ・スタジアム_\(モスクワ\) "wikilink")、[トルペド](https://ja.wikipedia.org/wiki/エドゥアルド・ストレリツォフ・スタジアム "wikilink")）に[シチョルコヴォ](https://ja.wikipedia.org/wiki/シチョルコヴォ "wikilink")市内の[ポドモスコヴィと](https://ja.wikipedia.org/wiki/ポドモスコヴィ・スタジアム "wikilink")[サンクトペテルブルク](../Page/サンクトペテルブルク.md "wikilink")市内の[ペトロフスキーを加えた](https://ja.wikipedia.org/wiki/ペトロフスキー・スタジアム "wikilink")5会場にて行われた。
+**[2006 FIFA U-20女子世界選手権](https://ja.wikipedia.org/wiki/2006_FIFA_U-20女子世界選手権 "wikilink")**は、[ロシア](../Page/ロシア.md "wikilink")国内にて8月17日から9月3日まで開催された。この大会から、FIFAは年齢の上限を従来の19歳から1歳上げて20歳とした。大会は[モスクワ](../Page/モスクワ.md "wikilink")市内の3会場（[ディナモ](https://ja.wikipedia.org/wiki/VTBアレナ "wikilink")、[ロコモティフ](https://ja.wikipedia.org/wiki/ロコモティフ・スタジアム_\(モスクワ\) "wikilink")、[トルペド](https://ja.wikipedia.org/wiki/エドゥアルド・ストレリツォフ・スタジアム "wikilink")）に[シチョルコヴォ](https://ja.wikipedia.org/wiki/シチョルコヴォ "wikilink")市内の[ポドモスコヴィと](https://ja.wikipedia.org/wiki/ポドモスコヴィ・スタジアム "wikilink")[サンクトペテルブルク](../Page/サンクトペテルブルク.md "wikilink")市内の[ペトロフスキーを加えた](https://ja.wikipedia.org/wiki/ペトロフスキー・スタジアム "wikilink")5会場にて行われた。
 
 ロコモティフ・スタジアムにて開催された決勝戦は[北朝鮮と](../Page/サッカー朝鮮民主主義人民共和国女子代表.md "wikilink")[中国のアジア勢対決となり](../Page/サッカー中華人民共和国女子代表.md "wikilink")、 北朝鮮が[キム・ソンヒのハットトリックを含む](https://ja.wikipedia.org/wiki/金ソンヒ "wikilink")5得点を挙げて中国に勝利し初優勝した。準優勝した中国の[馬暁旭](../Page/馬暁旭.md "wikilink")が大会最優秀選手賞と大会得点王（6得点）を受賞した\[8\]。
 
@@ -33,7 +33,7 @@
 
 **[2012 FIFA U-20女子ワールドカップ](https://ja.wikipedia.org/wiki/2012_FIFA_U-20女子ワールドカップ "wikilink")**は[ウズベキスタン](../Page/ウズベキスタン.md "wikilink")国内での開催が決定していたが、施設等が規準に満たない等の理由により、FIFAは2011年12月に同国での開催を取りやめ、他国で代替開催する事を決定した\[11\]。代替開催地として挙げられた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")\[12\]国内で協議の末、翌2012年2月に日本での開催が正式に決定した\[13\]\[14\]\[15\]。
 
-[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")の[国立霞ヶ丘競技場にて行われた決勝戦は](https://ja.wikipedia.org/wiki/国立霞ヶ丘陸上競技場 "wikilink")、前回大会優勝国のドイツと、2008年大会で優勝したアメリカとの対決となり、アメリカが[キーリア・オーハイ](https://ja.wikipedia.org/wiki/キーリア・オーハイ "wikilink")の得点で1-0で勝利し優勝した。準優勝したドイツの[ジェニファー・マロジャン](https://ja.wikipedia.org/wiki/ジェニファー・マロジャン "wikilink")が大会最優秀選手賞を、ベスト8に入った北朝鮮の[金恩花](https://ja.wikipedia.org/wiki/金恩花 "wikilink")が大会得点王を受賞した\[16\]。
+[東京都](../Page/東京都.md "wikilink")の[国立霞ヶ丘競技場にて行われた決勝戦は](../Page/国立霞ヶ丘陸上競技場.md "wikilink")、前回大会優勝国のドイツと、2008年大会で優勝したアメリカとの対決となり、アメリカが[キーリア・オーハイ](https://ja.wikipedia.org/wiki/キーリア・オーハイ "wikilink")の得点で1-0で勝利し優勝した。準優勝したドイツの[ジェニファー・マロジャン](https://ja.wikipedia.org/wiki/ジェニファー・マロジャン "wikilink")が大会最優秀選手賞を、ベスト8に入った北朝鮮の[金恩花](https://ja.wikipedia.org/wiki/金恩花 "wikilink")が大会得点王を受賞した\[16\]。
 
 ### 2014年
 
@@ -52,7 +52,7 @@
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/AFC_U-19女子選手権" title="wikilink">AFC U-19女子選手権</a></p></td>
+<td><p><a href="../Page/AFC_U-19女子選手権.md" title="wikilink">AFC U-19女子選手権</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -136,7 +136,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/2006_FIFA_U-20女子世界選手権" title="wikilink">3</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>5 - 0</strong></p></td>
@@ -1021,7 +1021,7 @@
 
 ## 関連項目
 
-  - [FIFA U-17女子ワールドカップ](https://ja.wikipedia.org/wiki/FIFA_U-17女子ワールドカップ "wikilink")
+  - [FIFA U-17女子ワールドカップ](../Page/FIFA_U-17女子ワールドカップ.md "wikilink")
   - [FIFA U-20ワールドカップ](../Page/FIFA_U-20ワールドカップ.md "wikilink")
 
 ## 外部リンク

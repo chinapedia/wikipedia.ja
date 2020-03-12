@@ -5,7 +5,7 @@
 
 ## 解説
 
-オリジナルアルバムとしては『[Many Pieces](https://ja.wikipedia.org/wiki/Many_Pieces "wikilink")』より約1年振りとなる。
+オリジナルアルバムとしては『[Many Pieces](../Page/Many_Pieces.md "wikilink")』より約1年振りとなる。
 
 初回限定盤はDVD付き、ピクチャーブックスタイルパッケージ仕様になっている。
 
@@ -15,39 +15,39 @@
 
 シングル曲はマスタリングが変更されている。テイクはシングルのままである。
 
-[伊藤一朗](https://ja.wikipedia.org/wiki/伊藤一朗 "wikilink")作曲の[インストゥルメンタル](https://ja.wikipedia.org/wiki/インストゥルメンタル "wikilink")が収録されるのはベストアルバム『[Every Best Single +3](https://ja.wikipedia.org/wiki/Every_Best_Single_+3 "wikilink")』以来約5年ぶり、オリジナルアルバムでは1stアルバム『[everlasting](https://ja.wikipedia.org/wiki/everlasting_\(Every_Little_Thingのアルバム\) "wikilink")』以来約7年ぶりとなった。本作以降のオリジナルアルバムには必ず伊藤作曲のインストが収録されている。
+[伊藤一朗](../Page/伊藤一朗.md "wikilink")作曲の[インストゥルメンタル](https://ja.wikipedia.org/wiki/インストゥルメンタル "wikilink")が収録されるのはベストアルバム『[Every Best Single +3](../Page/Every_Best_Single_+3.md "wikilink")』以来約5年ぶり、オリジナルアルバムでは1stアルバム『[everlasting](https://ja.wikipedia.org/wiki/everlasting_\(Every_Little_Thingのアルバム\) "wikilink")』以来約7年ぶりとなった。本作以降のオリジナルアルバムには必ず伊藤作曲のインストが収録されている。
 
 Every Little Thingにとって最後の[CCCD](https://ja.wikipedia.org/wiki/CCCD "wikilink")。これ以降は通常のCDとなる（レンタル盤は引き続きCCCD）。
 
-[シークレットトラック含むアルバム収録曲](https://ja.wikipedia.org/wiki/隠しトラック "wikilink")12曲にちなんだアルバムスイーツがショッピング・アリーナ（現・[mu-mo](https://ja.wikipedia.org/wiki/mu-mo "wikilink")ショップ）など[ネットショップ](https://ja.wikipedia.org/wiki/ネットショップ "wikilink")や百貨店にて期間限定で販売された（現在は販売終了）。
+[シークレットトラック含むアルバム収録曲](../Page/隠しトラック.md "wikilink")12曲にちなんだアルバムスイーツがショッピング・アリーナ（現・[mu-mo](https://ja.wikipedia.org/wiki/mu-mo "wikilink")ショップ）など[ネットショップ](https://ja.wikipedia.org/wiki/ネットショップ "wikilink")や百貨店にて期間限定で販売された（現在は販売終了）。
 
 ## 収録曲
 
 ### CD
 
 1.  **[ソラアイ](../Page/ソラアイ.md "wikilink")**
-    （作詞：[持田香織](https://ja.wikipedia.org/wiki/持田香織 "wikilink") / 作曲：[HIKARI](https://ja.wikipedia.org/wiki/HIKARI "wikilink") / 編曲：HIKARI & [伊藤一朗](https://ja.wikipedia.org/wiki/伊藤一朗 "wikilink")）
+    （作詞：[持田香織](https://ja.wikipedia.org/wiki/持田香織 "wikilink") / 作曲：[HIKARI](../Page/HIKARI.md "wikilink") / 編曲：HIKARI & [伊藤一朗](../Page/伊藤一朗.md "wikilink")）
       -
         26thシングル
-        [スズキ](../Page/スズキ_\(企業\).md "wikilink")「[MR wagon](https://ja.wikipedia.org/wiki/スズキ・MRワゴン "wikilink")」CMイメージソング
+        [スズキ](../Page/スズキ_\(企業\).md "wikilink")「[MR wagon](../Page/スズキ・MRワゴン.md "wikilink")」CMイメージソング
         メンバーやスタッフ全員がこの曲を1曲目にする雰囲気だったという\[1\]。
 2.  **[ファンダメンタル・ラブ](../Page/ファンダメンタル・ラブ.md "wikilink")**
     （作詞：持田香織 / 作曲：[多胡邦夫](../Page/多胡邦夫.md "wikilink") / 編曲：[tasuku](https://ja.wikipedia.org/wiki/tasuku "wikilink") & 伊藤一朗）
       -
         24thシングル
-        [森永乳業](https://ja.wikipedia.org/wiki/森永乳業 "wikilink")「ラクトフェリンヨーグルト」TV-CFソング
+        [森永乳業](../Page/森永乳業.md "wikilink")「ラクトフェリンヨーグルト」TV-CFソング
 3.  **water(s)**
     （作詞：持田香織 / 作曲：[早川大地](https://ja.wikipedia.org/wiki/東京エスムジカ "wikilink") / 編曲：村田昭&伊藤一朗）
       -
         [ピアノ](../Page/ピアノ.md "wikilink")をメインに構成されている。「アルバム用の曲」と意識して制作された曲\[2\]。
-        [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")の[ap bank '05でも披露され](https://ja.wikipedia.org/wiki/ap_bank "wikilink")、Bank Band（メンバーは[小林武史](../Page/小林武史.md "wikilink")や[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の[櫻井和寿](https://ja.wikipedia.org/wiki/櫻井和寿 "wikilink")など）も演奏に参加した。
+        [2005年](../Page/2005年.md "wikilink")の[ap bank '05でも披露され](https://ja.wikipedia.org/wiki/ap_bank "wikilink")、Bank Band（メンバーは[小林武史](../Page/小林武史.md "wikilink")や[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の[櫻井和寿](https://ja.wikipedia.org/wiki/櫻井和寿 "wikilink")など）も演奏に参加した。
 4.  **[しあわせの風景](../Page/また_あした.md "wikilink")**
     （作詞：持田香織 / 作曲：[菊池一仁](../Page/菊池一仁.md "wikilink") / 編曲：[中尾昌文](https://ja.wikipedia.org/wiki/中尾昌文 "wikilink")&伊藤一朗）
       -
         25thシングル『また あした』収録曲。
         [キリン](../Page/麒麟麦酒.md "wikilink")「[氷結アップルヌーヴォー](https://ja.wikipedia.org/wiki/氷結_\(チューハイ\) "wikilink")」CMソング
 5.  **country road**
-    （作詞：持田香織 / 作曲：[伊藤一朗](https://ja.wikipedia.org/wiki/伊藤一朗 "wikilink") / 編曲：村田昭&伊藤一朗）
+    （作詞：持田香織 / 作曲：[伊藤一朗](../Page/伊藤一朗.md "wikilink") / 編曲：村田昭&伊藤一朗）
       -
         全英語詞。持田が日本語で作詞し、英訳をGary Newbyが担当した。
         持田はこの楽曲に関して「日本語でやるより、英語で、って言う意識だった。英語の方が日本語でやるより、深いところや厳しいところが言い切れた。」と語っている\[3\]。
@@ -55,7 +55,7 @@ Every Little Thingにとって最後の[CCCD](https://ja.wikipedia.org/wiki/CCCD
     （作詞：持田香織 / 作曲：HIKARI / 編曲：HIKARI & [Every Little Thing](../Page/Every_Little_Thing.md "wikilink")）
       -
         25thシングル『また あした』収録曲
-        [ニベア花王](https://ja.wikipedia.org/wiki/ニベア花王 "wikilink")「アトリックス」CFソング
+        [ニベア花王](../Page/ニベア花王.md "wikilink")「アトリックス」CFソング
 7.  **life cycle**
     （作詞：持田香織 / 作曲：HIKARI / 編曲：HIKARI & 伊藤一朗）
       -
@@ -64,7 +64,7 @@ Every Little Thingにとって最後の[CCCD](https://ja.wikipedia.org/wiki/CCCD
 8.  **うらうらら**
     （作詞・作曲：持田香織 / 編曲：村田昭 & Every Little Thing）
       -
-        [NHK総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")[月曜ドラマシリーズ](https://ja.wikipedia.org/wiki/月曜ドラマシリーズ "wikilink")「[農家のヨメになりたい](https://ja.wikipedia.org/wiki/農家のヨメになりたい "wikilink")」主題歌
+        [NHK総合](../Page/NHK総合テレビジョン.md "wikilink")[月曜ドラマシリーズ](../Page/月曜ドラマシリーズ.md "wikilink")「[農家のヨメになりたい](https://ja.wikipedia.org/wiki/農家のヨメになりたい "wikilink")」主題歌
 9.  **[また あした](../Page/また_あした.md "wikilink")**
     （作詞：持田香織 / 作曲：[小幡英之](../Page/小幡英之.md "wikilink") / 編曲：[十川知司](../Page/十川ともじ.md "wikilink") & Every Little Thing）
       -
@@ -75,7 +75,7 @@ Every Little Thingにとって最後の[CCCD](https://ja.wikipedia.org/wiki/CCCD
 10. **Interluido 〜 Meridiana**
     （作曲：伊藤一朗 / 編曲：中村康就&伊藤一朗）
       -
-        [インスト曲](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")。「[(When) Will It Rain](https://ja.wikipedia.org/wiki/Every_Best_Single_+3 "wikilink")」以来となる伊藤作曲のインスト。
+        [インスト曲](../Page/器楽曲.md "wikilink")。「[(When) Will It Rain](../Page/Every_Best_Single_+3.md "wikilink")」以来となる伊藤作曲のインスト。
         当初はアルバムの中盤に配置するつもりで製作されたが、持田の提案によりこの位置となった\[5\]。
 11. **五月雨**
     （作詞：持田香織 / 作曲：多胡邦夫 / 編曲：[中尾昌文](https://ja.wikipedia.org/wiki/中尾昌文 "wikilink")&伊藤一朗）
@@ -88,7 +88,7 @@ Every Little Thingにとって最後の[CCCD](https://ja.wikipedia.org/wiki/CCCD
         （作詞・作曲：伊藤一朗）
     <!-- end list -->
       -
-        「五月雨」の後、しばらくすると流れる[シークレットトラック](https://ja.wikipedia.org/wiki/隠しトラック "wikilink")。
+        「五月雨」の後、しばらくすると流れる[シークレットトラック](../Page/隠しトラック.md "wikilink")。
         作詞・作曲は伊藤一朗が担当しており、Every Little Thingがリリースした数々の楽曲の中で唯一、伊藤が作詞した曲。
 
 ### 参加ミュージシャン

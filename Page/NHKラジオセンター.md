@@ -5,7 +5,7 @@
 
 ## 概要
 
-1990年に設置された。[NHK放送センター](../Page/NHK放送センター.md "wikilink")本館13階にあり、ラジオスタジオに隣接する\[2\]。ここで制作した番組は[NHKラジオ第1放送](https://ja.wikipedia.org/wiki/NHKラジオ第1放送 "wikilink")（[中波](../Page/中波.md "wikilink")）で放送されるが、同じ中波の[ラジオ第2放送のほか](https://ja.wikipedia.org/wiki/NHKラジオ第2放送 "wikilink")、[FM放送](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")（[超短波](../Page/超短波.md "wikilink")）、[NHKワールド・ラジオ日本](../Page/NHKワールド・ラジオ日本.md "wikilink")（[短波](../Page/短波.md "wikilink")・衛星ラジオ）および[地上デジタルラジオ実用化試験放送でも放送される](../Page/地上デジタル音声放送.md "wikilink")。
+1990年に設置された。[NHK放送センター](../Page/NHK放送センター.md "wikilink")本館13階にあり、ラジオスタジオに隣接する\[2\]。ここで制作した番組は[NHKラジオ第1放送](../Page/NHKラジオ第1放送.md "wikilink")（[中波](../Page/中波.md "wikilink")）で放送されるが、同じ中波の[ラジオ第2放送のほか](../Page/NHKラジオ第2放送.md "wikilink")、[FM放送](../Page/NHK-FM放送.md "wikilink")（[超短波](../Page/超短波.md "wikilink")）、[NHKワールド・ラジオ日本](../Page/NHKワールド・ラジオ日本.md "wikilink")（[短波](../Page/短波.md "wikilink")・衛星ラジオ）および[地上デジタルラジオ実用化試験放送でも放送される](../Page/地上デジタル音声放送.md "wikilink")。
 
 ラジオセンターは一日を早朝・午前中・午後・夜間・深夜の5つのゾーンに分け、「ワイド番組」を核とした、報道、生活情報、音楽、バラエティーなどの番組を制作する。
 
@@ -22,20 +22,20 @@
 
 ## アナウンサー・キャスター
 
-ラジオセンター専属の[アナウンサーを設けて](../Page/日本のアナウンサー.md "wikilink")、番組の進行役を務めさせている（[NHK放送センター\#ラジオセンター](https://ja.wikipedia.org/wiki/NHK放送センター#ラジオセンター "wikilink")参照）。かつてはそれだけでなく、番組制作業務（プロデュース、ディレクターなど。かつてはアナウンスをせず業務専念のアナウンサーもいた）を担当するアナウンサーもいた。番組出演はラジオセンター所属以外からも東京アナウンス室、[日本語センター所属のアナウンサー](https://ja.wikipedia.org/wiki/NHK放送研修センター・日本語センター "wikilink")、またNHKを一度退職したアナウンサーも出演している。
+ラジオセンター専属の[アナウンサーを設けて](../Page/日本のアナウンサー.md "wikilink")、番組の進行役を務めさせている（[NHK放送センター\#ラジオセンター](https://ja.wikipedia.org/wiki/NHK放送センター#ラジオセンター "wikilink")参照）。かつてはそれだけでなく、番組制作業務（プロデュース、ディレクターなど。かつてはアナウンスをせず業務専念のアナウンサーもいた）を担当するアナウンサーもいた。番組出演はラジオセンター所属以外からも東京アナウンス室、[日本語センター所属のアナウンサー](../Page/NHK放送研修センター・日本語センター.md "wikilink")、またNHKを一度退職したアナウンサーも出演している。
 
 2010年度、NHKの組織改革に伴い、制作業務のみに専念していたアナウンサー（過去に地方局でアナウンス業務をしていた人も多くいた）については職種カテゴリが“アナウンサー”から“番組制作者”に変更された。[NHKオンライン](../Page/NHKオンライン.md "wikilink")ではアナウンサープロフィールのページは番組に出演するアナウンサーのみとなった。この組織改革は3年間の中期経営計画に基づき、報道・番組制作分野は人員を増やす一方、他の分野は抑制・減員させる方針が明確化されたことによるものである。制作担当者の氏名については[NHKのアナウンサー一覧\#ラジオセンター所属の制作担当者](https://ja.wikipedia.org/wiki/NHKのアナウンサー一覧#ラジオセンター所属の制作担当者 "wikilink")参照。
 
-なおラジオセンター所属アナウンサーは原則としてラジオ番組のみ出演するが、[柴田祐規子](https://ja.wikipedia.org/wiki/柴田祐規子 "wikilink")のように、テレビのドキュメント番組などのナレーター担当で出演することもある。\[4\]
+なおラジオセンター所属アナウンサーは原則としてラジオ番組のみ出演するが、[柴田祐規子](../Page/柴田祐規子.md "wikilink")のように、テレビのドキュメント番組などのナレーター担当で出演することもある。\[4\]
 
 アナウンサー以外にも、ラジオセンターと番組出演契約を交わした契約キャスターがいる。2019年4月時点の所属者は以下の通り。
 
-  - [石垣真帆](https://ja.wikipedia.org/wiki/石垣真帆 "wikilink")（[ごごラジ\!](https://ja.wikipedia.org/wiki/ごごラジ! "wikilink")担当、[気象予報士](../Page/気象予報士.md "wikilink")）
+  - [石垣真帆](../Page/石垣真帆.md "wikilink")（[ごごラジ\!](https://ja.wikipedia.org/wiki/ごごラジ! "wikilink")担当、[気象予報士](../Page/気象予報士.md "wikilink")）
   - [浦野遥](https://ja.wikipedia.org/wiki/浦野遥 "wikilink")（[NHKきょうのニュース](../Page/NHKきょうのニュース.md "wikilink")担当）
   - 大久保彰絵（[NHKけさのニュース](https://ja.wikipedia.org/wiki/NHKけさのニュース "wikilink")、[マイあさ\!](https://ja.wikipedia.org/wiki/マイあさ! "wikilink")担当）
   - [黒崎瞳](https://ja.wikipedia.org/wiki/黒崎瞳 "wikilink")（[Nらじ](https://ja.wikipedia.org/wiki/Nらじ "wikilink")担当）
   - 菅野真美恵（[NHKジャーナル](../Page/NHKジャーナル.md "wikilink")担当、[気象予報士](../Page/気象予報士.md "wikilink")）
-  - [柴原紅](https://ja.wikipedia.org/wiki/柴原紅 "wikilink")（[ちきゅうラジオ](https://ja.wikipedia.org/wiki/ちきゅうラジオ "wikilink")担当）
+  - [柴原紅](https://ja.wikipedia.org/wiki/柴原紅 "wikilink")（[ちきゅうラジオ](../Page/ちきゅうラジオ.md "wikilink")担当）
   - [高嶋未希](https://ja.wikipedia.org/wiki/高嶋未希 "wikilink")（[NHKけさのニュース](https://ja.wikipedia.org/wiki/NHKけさのニュース "wikilink")、[マイあさ\!](https://ja.wikipedia.org/wiki/マイあさ! "wikilink")担当）
   - 高橋春菜（[NHKきょうのニュース](../Page/NHKきょうのニュース.md "wikilink")担当）
   - [横山亜紀子](https://ja.wikipedia.org/wiki/横山亜紀子 "wikilink")（[NHKきょうのニュース](../Page/NHKきょうのニュース.md "wikilink")担当）
@@ -54,13 +54,13 @@
 
 ## イメージキャラクター
 
-[2011年](../Page/2011年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")、NHKラジオ初のイメージキャラクター「[らじる](https://ja.wikipedia.org/wiki/NHKネットラジオ_らじる★らじる#キャラクター "wikilink")」が発表された。[5月3日](https://ja.wikipedia.org/wiki/5月3日 "wikilink")の[渋谷DEどーも](https://ja.wikipedia.org/wiki/渋谷DEどーも "wikilink")にてラジオ第1初出演を果たしている。詳細は同項目を参照。
+[2011年](../Page/2011年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")、NHKラジオ初のイメージキャラクター「[らじる](https://ja.wikipedia.org/wiki/NHKネットラジオ_らじる★らじる#キャラクター "wikilink")」が発表された。[5月3日](../Page/5月3日.md "wikilink")の[渋谷DEどーも](https://ja.wikipedia.org/wiki/渋谷DEどーも "wikilink")にてラジオ第1初出演を果たしている。詳細は同項目を参照。
 
 ## 脚注
 
 ## 関連項目
 
-  - [NHKラジオ第1番組一覧](https://ja.wikipedia.org/wiki/NHKラジオ第1番組一覧 "wikilink")、[NHK FM番組一覧](https://ja.wikipedia.org/wiki/NHK_FM番組一覧 "wikilink")
+  - [NHKラジオ第1番組一覧](../Page/NHKラジオ第1番組一覧.md "wikilink")、[NHK FM番組一覧](../Page/NHK_FM番組一覧.md "wikilink")
   - [NHK放送センターのアナウンサー一覧・ラジオセンター](https://ja.wikipedia.org/wiki/NHK放送センター#ラジオセンター "wikilink")（裏方専業アナウンサーは[NHKアナウンサー一覧・ラジオセンター所属の制作担当者](https://ja.wikipedia.org/wiki/NHKのアナウンサー一覧#ラジオセンター所属の制作担当者 "wikilink")）のそれぞれの項を参照。
   - [日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")
   - [NHK放送センター](../Page/NHK放送センター.md "wikilink")
@@ -74,7 +74,7 @@
 
 1.   - NHK年鑑2011 p.815
 2.  [R1 NHKラジオ第一：ラジオセンターとは?](http://www.nhk.or.jp/r1/about/)
-3.  1990年代に入ると、[KBCラジオ](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")、[エフエム京都](../Page/エフエム京都.md "wikilink")、[セント・ギガ](https://ja.wikipedia.org/wiki/セント・ギガ "wikilink")（[BS](../Page/BS.md "wikilink")ラジオ）、[ZIP-FM](../Page/ZIP-FM.md "wikilink")でもほぼ同じようなワンフォーマット編成を実施している。
+3.  1990年代に入ると、[KBCラジオ](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")、[エフエム京都](../Page/エフエム京都.md "wikilink")、[セント・ギガ](../Page/セント・ギガ.md "wikilink")（[BS](../Page/BS.md "wikilink")ラジオ）、[ZIP-FM](../Page/ZIP-FM.md "wikilink")でもほぼ同じようなワンフォーマット編成を実施している。
 4.  民放では[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")にも「ラジオセンター」という明確な部署があり、所属アナウンサーは原則テレビ出演しない。
 5.  [R1 blogNHKブログ NHKきょうのニュース あと少しで完成　新ラジオスタジオ](http://www.nhk.or.jp/r1-blog/1200/145009.html)
 6.

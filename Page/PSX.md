@@ -1,45 +1,45 @@
 > この記事は[PSX](https://ja.wikipedia.org/wiki/PSX)から翻訳されています。
 
 
-**PSX**（ピーエスエックス）は、[ソニー](../Page/ソニー.md "wikilink")株式会社が[2003年](../Page/2003年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")にかけて販売していた、[ハードディスク搭載](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")[DVDレコーダー](https://ja.wikipedia.org/wiki/DVDレコーダー "wikilink")（ハイブリッド・レコーダー）。
+**PSX**（ピーエスエックス）は、[ソニー](../Page/ソニー.md "wikilink")株式会社が[2003年](../Page/2003年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")から[2005年](../Page/2005年.md "wikilink")にかけて販売していた、[ハードディスク搭載](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")[DVDレコーダー](../Page/DVDレコーダー.md "wikilink")（ハイブリッド・レコーダー）。
 
-ハイブリッド・レコーダーに[PlayStation 2としての機能を併せ持つのが特徴で](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、後のソニー関連製品で広く採用された「[クロスメディアバー](https://ja.wikipedia.org/wiki/クロスメディアバー "wikilink")」を最初に導入した製品としても知られる。
+ハイブリッド・レコーダーに[PlayStation 2としての機能を併せ持つのが特徴で](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、後のソニー関連製品で広く採用された「[クロスメディアバー](../Page/クロスメディアバー.md "wikilink")」を最初に導入した製品としても知られる。
 
 ## 概要
 
 ソニーはPSXを「ハードディスクが搭載されたハイブリッド（HDD・DVD）レコーダー」としているが、基本的な部品は[PlayStation 2で使われているものを流用しており](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、まさに「録画ができるプレステ」であった。なお、本機はPlayStation 2を展開するソニー子会社ソニー・コンピュータエンタテインメント（現[ソニー・インタラクティブエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・インタラクティブエンタテインメント "wikilink")）の発売製品ではない。
 
-2003年12月13日に、250GB HDD搭載の「DESR-7000（[希望小売価格](https://ja.wikipedia.org/wiki/希望小売価格 "wikilink")99,800円）」、160GB HDD搭載の「DESR-5000（同79,800円）」が発売された。この希望小売価格は当時主流であった[地上アナログ](https://ja.wikipedia.org/wiki/NTSC "wikilink")[チューナーのみ内蔵の](https://ja.wikipedia.org/wiki/テレビチューナー "wikilink")[DVDレコーダー](https://ja.wikipedia.org/wiki/DVDレコーダー "wikilink")（HDD無し）のエントリーモデルと同水準であった。
+2003年12月13日に、250GB HDD搭載の「DESR-7000（[希望小売価格](../Page/希望小売価格.md "wikilink")99,800円）」、160GB HDD搭載の「DESR-5000（同79,800円）」が発売された。この希望小売価格は当時主流であった[地上アナログ](../Page/NTSC.md "wikilink")[チューナーのみ内蔵の](https://ja.wikipedia.org/wiki/テレビチューナー "wikilink")[DVDレコーダー](../Page/DVDレコーダー.md "wikilink")（HDD無し）のエントリーモデルと同水準であった。
 
 2004年9月ごろにDESR-5100（2代目）の実勢価格が当時のハイブリッドレコーダーでは珍しい4万円台にまで下がったことがネット掲示板などで話題となり、多少は販売台数が伸びた。発売から半年後に家電量販店などではDVDレコーダーの月間売上1位を獲得し、HDD・DVDレコーダーの普及に役立ったと言われる。
 
-2005年2月、PSXのWebページ上で2004年12月に発売されたばかりの新機種の生産完了が告知された。翌3月には一貫してPSXプロジェクトを推進してきた[久夛良木健](https://ja.wikipedia.org/wiki/久夛良木健 "wikilink")副社長が辞任。また、[PlayStation Portableとの連係機能は機能を改良して](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")、2005年11月に発売された[スゴ録](https://ja.wikipedia.org/wiki/スゴ録 "wikilink")に搭載された。さらに、PSX開発陣をスゴ録開発陣が吸収しソニーはスゴ録（2007年以降は[BDZ](https://ja.wikipedia.org/wiki/BDZ "wikilink")シリーズ）を発売している。
+2005年2月、PSXのWebページ上で2004年12月に発売されたばかりの新機種の生産完了が告知された。翌3月には一貫してPSXプロジェクトを推進してきた[久夛良木健](../Page/久夛良木健.md "wikilink")副社長が辞任。また、[PlayStation Portableとの連係機能は機能を改良して](../Page/PlayStation_Portable.md "wikilink")、2005年11月に発売された[スゴ録](../Page/スゴ録.md "wikilink")に搭載された。さらに、PSX開発陣をスゴ録開発陣が吸収しソニーはスゴ録（2007年以降は[BDZ](https://ja.wikipedia.org/wiki/BDZ "wikilink")シリーズ）を発売している。
 
 2013年10月に全機種修理の受付を終了。
 
 ### XMB
 
-メニュー画面にクロスバーと言われる横列の機能別メニューと縦列の項目ボタンを交差させて機能選択する、新感覚の[GUI](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")「**[クロスメディアバー](https://ja.wikipedia.org/wiki/クロスメディアバー "wikilink")（XMB）**」を導入した最初の機種でもある。[PlayStation Portable](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")・[VAIO](https://ja.wikipedia.org/wiki/VAIO "wikilink")（Do VAIO・VAIO Media）・[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")・ソニー・エリクソン・モバイルコミュニケーションズ（現[ソニーモバイルコミュニケーションズ](https://ja.wikipedia.org/wiki/ソニーモバイルコミュニケーションズ "wikilink")）製[携帯電話](../Page/携帯電話.md "wikilink")や[ブラビア](https://ja.wikipedia.org/wiki/ブラビア "wikilink")・[BDレコーダー](https://ja.wikipedia.org/wiki/BDレコーダー "wikilink")に装備されている。
+メニュー画面にクロスバーと言われる横列の機能別メニューと縦列の項目ボタンを交差させて機能選択する、新感覚の[GUI](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")「**[クロスメディアバー](../Page/クロスメディアバー.md "wikilink")（XMB）**」を導入した最初の機種でもある。[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")・[VAIO](../Page/VAIO.md "wikilink")（Do VAIO・VAIO Media）・[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")・ソニー・エリクソン・モバイルコミュニケーションズ（現[ソニーモバイルコミュニケーションズ](../Page/ソニーモバイルコミュニケーションズ.md "wikilink")）製[携帯電話](../Page/携帯電話.md "wikilink")や[ブラビア](../Page/ブラビア.md "wikilink")・[BDレコーダー](https://ja.wikipedia.org/wiki/BDレコーダー "wikilink")に装備されている。
 
 ### レコーダー機能
 
-発売された2003年-2004年時点では[デジタルチューナー](https://ja.wikipedia.org/wiki/デジタルチューナー "wikilink")が幾分高価格であったため、地上波・[BS](https://ja.wikipedia.org/wiki/BSアナログ放送 "wikilink")（DESR5000、5100以降は7500,7700番台のみ）アナログチューナーのみ搭載された（PSX以外のハイブリッドレコーダーで地上波デジタルチューナーが搭載された機種が発売されるのは2004年に入ってからであり、先陣を切ったスゴ録や[DIGA](https://ja.wikipedia.org/wiki/DIGA "wikilink")では実勢価格が10万円を上回る上位モデルとして発売されていた）。また、先に発売されていたHDD（単体）レコーダー「[cocoon](https://ja.wikipedia.org/wiki/コクーン_\(チャンネルサーバー\) "wikilink")」や「スゴ録」と同じく[Gガイド](https://ja.wikipedia.org/wiki/Gガイド "wikilink")による[EPGが搭載されている](https://ja.wikipedia.org/wiki/電子番組ガイド "wikilink")。
+発売された2003年-2004年時点では[デジタルチューナー](https://ja.wikipedia.org/wiki/デジタルチューナー "wikilink")が幾分高価格であったため、地上波・[BS](https://ja.wikipedia.org/wiki/BSアナログ放送 "wikilink")（DESR5000、5100以降は7500,7700番台のみ）アナログチューナーのみ搭載された（PSX以外のハイブリッドレコーダーで地上波デジタルチューナーが搭載された機種が発売されるのは2004年に入ってからであり、先陣を切ったスゴ録や[DIGA](https://ja.wikipedia.org/wiki/DIGA "wikilink")では実勢価格が10万円を上回る上位モデルとして発売されていた）。また、先に発売されていたHDD（単体）レコーダー「[cocoon](https://ja.wikipedia.org/wiki/コクーン_\(チャンネルサーバー\) "wikilink")」や「スゴ録」と同じく[Gガイド](https://ja.wikipedia.org/wiki/Gガイド "wikilink")による[EPGが搭載されている](../Page/電子番組ガイド.md "wikilink")。
 
-[メモリースティック](../Page/メモリースティック.md "wikilink")スロット（ドライブ）が搭載されており、メモリースティックに保存された[JPEG](../Page/JPEG.md "wikilink")方式などの画像や[ATRAC](https://ja.wikipedia.org/wiki/ATRAC "wikilink")オーディオのファイルをスライドショー形式で再生することができる。この部分は2004年以降のスゴ録やBDZシリーズの一部機種と、[PlayStation 3の本体機能にも反映されている](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")。更に2004年のアップデートで、PSXのHDD上の録画番組（デジタルチューナーからのダビングによるコピーワンス付きを除く）を[メモリースティック](../Page/メモリースティック.md "wikilink")にコピーし、[PlayStation Portable等で再生できる機能も追加された](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")。これはBDZシリーズの「おまかせ転送機能」や、PlayStation 3の地上波デジタル放送視聴キット「[torne](https://ja.wikipedia.org/wiki/torne "wikilink")」の機能に踏襲された。
+[メモリースティック](../Page/メモリースティック.md "wikilink")スロット（ドライブ）が搭載されており、メモリースティックに保存された[JPEG](../Page/JPEG.md "wikilink")方式などの画像や[ATRAC](../Page/ATRAC.md "wikilink")オーディオのファイルをスライドショー形式で再生することができる。この部分は2004年以降のスゴ録やBDZシリーズの一部機種と、[PlayStation 3の本体機能にも反映されている](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")。更に2004年のアップデートで、PSXのHDD上の録画番組（デジタルチューナーからのダビングによるコピーワンス付きを除く）を[メモリースティック](../Page/メモリースティック.md "wikilink")にコピーし、[PlayStation Portable等で再生できる機能も追加された](../Page/PlayStation_Portable.md "wikilink")。これはBDZシリーズの「おまかせ転送機能」や、PlayStation 3の地上波デジタル放送視聴キット「[torne](https://ja.wikipedia.org/wiki/torne "wikilink")」の機能に踏襲された。
 
-[デジタル放送](https://ja.wikipedia.org/wiki/デジタル放送 "wikilink")の録画は、[デジタルチューナー](https://ja.wikipedia.org/wiki/デジタルチューナー "wikilink")（デッキ単体・内蔵テレビ）と[RCA端子](https://ja.wikipedia.org/wiki/RCA端子 "wikilink")（[S端子](../Page/S端子.md "wikilink")含む）で[コンポジット](../Page/コンポジット映像信号.md "wikilink")（アナログ）接続し、出力された[標準画質](https://ja.wikipedia.org/wiki/標準画質 "wikilink")を内蔵HDDへ[ムーブする方法しか無かった](https://ja.wikipedia.org/wiki/コピーワンス "wikilink")。[コピーワンス](https://ja.wikipedia.org/wiki/コピーワンス "wikilink")のため[CPRM](https://ja.wikipedia.org/wiki/CPRM "wikilink")非対応の初代機種ではこのムーブは不可である。
+[デジタル放送](../Page/デジタル放送.md "wikilink")の録画は、[デジタルチューナー](https://ja.wikipedia.org/wiki/デジタルチューナー "wikilink")（デッキ単体・内蔵テレビ）と[RCA端子](../Page/RCA端子.md "wikilink")（[S端子](../Page/S端子.md "wikilink")含む）で[コンポジット](../Page/コンポジット映像信号.md "wikilink")（アナログ）接続し、出力された[標準画質](https://ja.wikipedia.org/wiki/標準画質 "wikilink")を内蔵HDDへ[ムーブする方法しか無かった](https://ja.wikipedia.org/wiki/コピーワンス "wikilink")。[コピーワンス](https://ja.wikipedia.org/wiki/コピーワンス "wikilink")のため[CPRM](../Page/CPRM.md "wikilink")非対応の初代機種ではこのムーブは不可である。
 
 2011年7月に地上波アナログ放送とBSアナログ放送の停波を迎えたため、[デジアナ変換されていない住宅では本機単体でのテレビ放送の録画が不可能となるため注意が必要である](https://ja.wikipedia.org/wiki/2011年問題_\(日本のテレビジョン放送\) "wikilink")。
 
 ### PlayStation 2機能
 
-[PlayStationおよび](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")[PlayStation 2の規格のソフトがプレイ可能である](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。HDD空き容量の40GBをゲーム側へ割り当て、内蔵の[イーサネット](../Page/イーサネット.md "wikilink")ポートを使用することで[PlayStation BB Unitと同等の機能を持たせることもできる](https://ja.wikipedia.org/wiki/PlayStation_BB_Unit "wikilink")（ただし、DESR-5500・7500モデル以降PlayStation BB Navigator非対応となった）。
+[PlayStationおよび](../Page/PlayStation_\(ゲーム機\).md "wikilink")[PlayStation 2の規格のソフトがプレイ可能である](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。HDD空き容量の40GBをゲーム側へ割り当て、内蔵の[イーサネット](../Page/イーサネット.md "wikilink")ポートを使用することで[PlayStation BB Unitと同等の機能を持たせることもできる](../Page/PlayStation_BB_Unit.md "wikilink")（ただし、DESR-5500・7500モデル以降PlayStation BB Navigator非対応となった）。
 
-PlayStation 2と比較すると、[コントローラポートは背面にあるため](https://ja.wikipedia.org/wiki/ゲームコントローラ "wikilink")、コントローラは4[メートル](../Page/メートル.md "wikilink")ほどのケーブルが付いた専用のものかサードパーティ製の延長ケーブル\[1\]を使う必要があること、[USBポートが](../Page/ユニバーサル・シリアル・バス.md "wikilink")1つしかない、[メモリースティック](../Page/メモリースティック.md "wikilink")用スロットがある、メモリーカード差込口の形状から来る物理的な制限のため、[PocketStation](../Page/PocketStation.md "wikilink")に非対応などの相違がある。
+PlayStation 2と比較すると、[コントローラポートは背面にあるため](../Page/ゲームコントローラ.md "wikilink")、コントローラは4[メートル](../Page/メートル.md "wikilink")ほどのケーブルが付いた専用のものかサードパーティ製の延長ケーブル\[1\]を使う必要があること、[USBポートが](../Page/ユニバーサル・シリアル・バス.md "wikilink")1つしかない、[メモリースティック](../Page/メモリースティック.md "wikilink")用スロットがある、メモリーカード差込口の形状から来る物理的な制限のため、[PocketStation](../Page/PocketStation.md "wikilink")に非対応などの相違がある。
 
 ## 仕様
 
-  - CPUおよび描画プロセッサー：90nm [Emotion Engine](https://ja.wikipedia.org/wiki/Emotion_Engine "wikilink") + [Graphics Synthesizer](https://ja.wikipedia.org/wiki/Graphics_Synthesizer "wikilink")
+  - CPUおよび描画プロセッサー：90nm [Emotion Engine](../Page/Emotion_Engine.md "wikilink") + [Graphics Synthesizer](https://ja.wikipedia.org/wiki/Graphics_Synthesizer "wikilink")
   - 記録可能メディア：HDD、DVD-R、DVD-RW、DVD+R、DVD+RW
   - 再生可能メディア：DVD-VIDEO、DVD-R、DVD-RW、DVD+R、DVD+RW、音楽CD、CD-R、メモリースティック、PlayStation規格CD-ROM、PlayStation 2規格CD-ROM/DVD-ROM
   - 高画質・高音質化回路：
@@ -68,7 +68,7 @@ PlayStation 2と比較すると、[コントローラポートは背面にある
   - 「DESR-5500 (160GB)」「DESR-7500 (250GB)」
     2004年12月10日発売。大幅にソフトウェアとハードウェアが変更された。従来はHDDの容量の違いのみだったが、上位モデルのDESR-7500だけ[GRT](https://ja.wikipedia.org/wiki/GRT "wikilink")（ゴーストリダクションチューナー）、BSアナログチューナー、[DV端子](https://ja.wikipedia.org/wiki/DV端子 "wikilink")を搭載し、デジタルビデオカメラの映像取込・編集が行える（ただし、GRT、BSアナログチューナーは下位機種のDESR-5000・7000・5100・7100にも搭載されている）。また、アンテナ線のスルー出力端子を搭載した。ソフトウェア方面は録画機能に「x-おまかせ・まる録」が追加され、同社のスゴ録などのおまかせ・まる録機能と同様になった。この機種よりPlayStation BB Navigatorに非対応となった。
   - 「DESR-5700 (160GB)」「DESR-7700 (250GB)」
-    2005年4月15日発売。前機種からの違いは、録画した番組を[PlayStation Portableで再生できるビデオフォーマット](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")（MPEG-4/AACステレオ）に変換できること。
+    2005年4月15日発売。前機種からの違いは、録画した番組を[PlayStation Portableで再生できるビデオフォーマット](../Page/PlayStation_Portable.md "wikilink")（MPEG-4/AACステレオ）に変換できること。
 
 ## バージョンアップについて
 
@@ -94,7 +94,7 @@ PlayStation 2と比較すると、[コントローラポートは背面にある
       - 番組表上での予約修正の対応
       - [CD-R](../Page/CD-R.md "wikilink")からサイバーショットの静止画・動画の再生・取り込み
       - CD-R上のMP3認識可能曲数が99曲/1フォルダに増加
-      - 静止画[スライドショー](https://ja.wikipedia.org/wiki/スライドショー "wikilink")再生時に途中で停止する点の修正
+      - 静止画[スライドショー](../Page/スライドショー.md "wikilink")再生時に途中で停止する点の修正
   - **2004年7月1日**
       - PSXの新機種発売。ハードウェア的には何も変更がないが、GUI関係が一新されている。またそれに伴い、旧機種ユーザー向けに、7月15日より第3回目のアップデートが行われる予定であったが、7月12日に8月3日へ延期されることが発表された。
       - 新機種の発表と、旧機種のアップデートの情報は、6月中旬に行われたが、この数日後から、携帯電話に「PSX「DESR-5100（限定シルバー）」をプレゼント」すると騙った[チェーンメール](https://ja.wikipedia.org/wiki/チェーンメール "wikilink")が流れ、ソニーおよびグループ各社が対応に追われた。
@@ -103,12 +103,12 @@ PlayStation 2と比較すると、[コントローラポートは背面にある
       - DVDへの追記ダビング機能
       - 録画モード変更機能
       - チャプター編集機能
-      - [PlayStation BBに対応](https://ja.wikipedia.org/wiki/PlayStation_BB_Unit "wikilink")（ただし閲覧のみでコンテンツ内の動画、ゲーム等のダウンロードには対応しない）
+      - [PlayStation BBに対応](../Page/PlayStation_BB_Unit.md "wikilink")（ただし閲覧のみでコンテンツ内の動画、ゲーム等のダウンロードには対応しない）
 
 ### 「DESR-5500」と「DESR-7500」
 
   - **2005年5月17日**
-      - [PlayStation Portableで再生できるメモリースティックビデオフォーマット](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")（MPEG-4/AACステレオ）の変換機能を加えられた（ソフトウェアでの変換であり、録画時間の4～5倍変換に時間がかかり、エンコード中は他の操作ができない）。
+      - [PlayStation Portableで再生できるメモリースティックビデオフォーマット](../Page/PlayStation_Portable.md "wikilink")（MPEG-4/AACステレオ）の変換機能を加えられた（ソフトウェアでの変換であり、録画時間の4～5倍変換に時間がかかり、エンコード中は他の操作ができない）。
 
 ## 脚注
 

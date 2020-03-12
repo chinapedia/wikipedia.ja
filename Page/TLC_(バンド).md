@@ -5,31 +5,31 @@
 
 ## 来歴
 
-メインボーカルは[アイオワ州](https://ja.wikipedia.org/wiki/アイオワ州 "wikilink")出身のT-ボズ（T-Boz, 本名：Tionne Watkins, [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[4月26日](../Page/4月26日.md "wikilink") - ）、[ラップ](../Page/ラップ.md "wikilink")と作詞担当はレフト・アイ（Left Eye, 本名：Lisa Nicole Lopes, [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[5月27日](../Page/5月27日.md "wikilink") - [2002年](../Page/2002年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")）、メインボーカルと[コーラスをチリ](https://ja.wikipedia.org/wiki/コーラス_\(ポピュラー音楽\) "wikilink")（Chilli, 本名：Rozonda Thomas, [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[2月27日](../Page/2月27日.md "wikilink") - ）が担当。
+メインボーカルは[アイオワ州](https://ja.wikipedia.org/wiki/アイオワ州 "wikilink")出身のT-ボズ（T-Boz, 本名：Tionne Watkins, [1970年](../Page/1970年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink") - ）、[ラップ](../Page/ラップ.md "wikilink")と作詞担当はレフト・アイ（Left Eye, 本名：Lisa Nicole Lopes, [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[5月27日](../Page/5月27日.md "wikilink") - [2002年](../Page/2002年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")）、メインボーカルと[コーラスをチリ](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")（Chilli, 本名：Rozonda Thomas, [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[2月27日](../Page/2月27日.md "wikilink") - ）が担当。
 
 グループの名前は「Tender Loving Care」からと、三人の[ニックネームの頭文字から](../Page/愛称.md "wikilink")。最初はT-ボズ、レフト・アイ、クリスタルというメンバーでデビューするはずだったが、デビュー前にクリスタルは解雇され、チリが加入した。
 
-それぞれのニックネームの由来は、T-ボズはTionnieのTと、リーダーという意味のボス（boss）から。レフト・アイは彼氏に可愛いといわれた左目を細める癖から。チリは最初、クッキーというニックネームを付けられそうになったが拒否、ホットな[チリ・ソースという意味のチリがニックネームになった](https://ja.wikipedia.org/wiki/唐辛子 "wikilink")。
+それぞれのニックネームの由来は、T-ボズはTionnieのTと、リーダーという意味のボス（boss）から。レフト・アイは彼氏に可愛いといわれた左目を細める癖から。チリは最初、クッキーというニックネームを付けられそうになったが拒否、ホットな[チリ・ソースという意味のチリがニックネームになった](../Page/唐辛子.md "wikilink")。
 
-LA&[ベイビーフェイスが設立したレーベルLAFACEから](https://ja.wikipedia.org/wiki/ベイビーフェイス_\(音楽\) "wikilink")[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")、[シングル](https://ja.wikipedia.org/wiki/シングル "wikilink")「エイント・2・プラウド・2・ベッグ（Ain't 2 Proud 2 Beg）」でデビュー。2ndシングル「ベイビー・ベイビー・ベイビー（Baby Baby Baby）」は全米チャート2位、R\&Bチャート1位となる。1st[アルバム](../Page/アルバム.md "wikilink")「エイント・2・プラウド・2・ベッグ（Oooooohhh...On The TLC Tip）」は全米で500万枚以上のセールスを記録、日本では20万枚のセールスを記録する。レフト・アイは[コンドーム](https://ja.wikipedia.org/wiki/コンドーム "wikilink")を眼帯として使用するなど、そのファッションが注目されただけでなく、当時付き合っていた[フットボール](https://ja.wikipedia.org/wiki/フットボール "wikilink")選手Andre Previn Risonが持つ86万ドルの豪邸に[放火](https://ja.wikipedia.org/wiki/放火 "wikilink")したりと、何かと注目された。
+LA&[ベイビーフェイスが設立したレーベルLAFACEから](https://ja.wikipedia.org/wiki/ベイビーフェイス_\(音楽\) "wikilink")[1992年](../Page/1992年.md "wikilink")、[シングル](../Page/シングル.md "wikilink")「エイント・2・プラウド・2・ベッグ（Ain't 2 Proud 2 Beg）」でデビュー。2ndシングル「ベイビー・ベイビー・ベイビー（Baby Baby Baby）」は全米チャート2位、R\&Bチャート1位となる。1st[アルバム](../Page/アルバム.md "wikilink")「エイント・2・プラウド・2・ベッグ（Oooooohhh...On The TLC Tip）」は全米で500万枚以上のセールスを記録、日本では20万枚のセールスを記録する。レフト・アイは[コンドーム](../Page/コンドーム.md "wikilink")を眼帯として使用するなど、そのファッションが注目されただけでなく、当時付き合っていた[フットボール](../Page/フットボール.md "wikilink")選手Andre Previn Risonが持つ86万ドルの豪邸に[放火](https://ja.wikipedia.org/wiki/放火 "wikilink")したりと、何かと注目された。
 
-2ndアルバム「クレイジーセクシークール（CrazySexyCool）」では1stシングル「クリープ（Creep）」、2ndシングル「レッド・ライト・スペシャル（Red Light Special）」とヒットが続く。3rdシングルの「ウォーターフォールズ（Waterfalls）」では歌詞の内容と、当時最先端の[SFX](https://ja.wikipedia.org/wiki/SFX "wikilink")を使用した[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")でも大きな話題を呼び、全米チャート7週連続1位という大ヒットを記録。アルバムは全米で1,000万枚以上のセールスをあげ、見事[グラミー賞](../Page/グラミー賞.md "wikilink")を獲得する。
+2ndアルバム「クレイジーセクシークール（CrazySexyCool）」では1stシングル「クリープ（Creep）」、2ndシングル「レッド・ライト・スペシャル（Red Light Special）」とヒットが続く。3rdシングルの「ウォーターフォールズ（Waterfalls）」では歌詞の内容と、当時最先端の[SFX](../Page/SFX.md "wikilink")を使用した[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")でも大きな話題を呼び、全米チャート7週連続1位という大ヒットを記録。アルバムは全米で1,000万枚以上のセールスをあげ、見事[グラミー賞](../Page/グラミー賞.md "wikilink")を獲得する。
 
 チリは未婚のまま、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")ダラス・オースティン（Dallas Austin）との間に、長男Tronを出産。二人は[2000年](../Page/2000年.md "wikilink")に破局。
 
-「それまでないがしろにしていた、ファンへのお詫び」という意味を込めてタイトルを付けた3rdアルバム「ファンメール（FanMail）」を[1999年](../Page/1999年.md "wikilink")リリース。1stシングル「ノー・スクラブズ（No Scrubs）」、2ndシングル「アンプリティ（Unpretty）」も全米一位となる。「ファンメール」は全世界で1,000万枚以上のセールスとなり、日本でも100万枚というセールスを記録、再びグラミー賞を獲得する。同年夏には「爽健美茶ナチュラル・ブリーズ・コンサート」で[モニカとともに来日](https://ja.wikipedia.org/wiki/モニカ_\(歌手\) "wikilink")、[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")も含めた三[アーティストの合同ライブを](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、また全米をまわるファンメール・ツアーも実施した。しかし、自分の書いた曲がアルバムに採用されないことに不満を抱いていたレフト・アイは、「ソロ・アルバムをリリースし誰が一番売れるか[ビルボード](https://ja.wikipedia.org/wiki/ビルボード "wikilink")に判断してもらおう」といったメンバーの不仲説を煽る発言をした。
+「それまでないがしろにしていた、ファンへのお詫び」という意味を込めてタイトルを付けた3rdアルバム「ファンメール（FanMail）」を[1999年](../Page/1999年.md "wikilink")リリース。1stシングル「ノー・スクラブズ（No Scrubs）」、2ndシングル「アンプリティ（Unpretty）」も全米一位となる。「ファンメール」は全世界で1,000万枚以上のセールスとなり、日本でも100万枚というセールスを記録、再びグラミー賞を獲得する。同年夏には「爽健美茶ナチュラル・ブリーズ・コンサート」で[モニカとともに来日](../Page/モニカ_\(歌手\).md "wikilink")、[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")も含めた三[アーティストの合同ライブを](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、また全米をまわるファンメール・ツアーも実施した。しかし、自分の書いた曲がアルバムに採用されないことに不満を抱いていたレフト・アイは、「ソロ・アルバムをリリースし誰が一番売れるか[ビルボード](../Page/ビルボード.md "wikilink")に判断してもらおう」といったメンバーの不仲説を煽る発言をした。
 
-来日公演を予定していた[2000年](../Page/2000年.md "wikilink")、T-ボズが[鎌状赤血球症](https://ja.wikipedia.org/wiki/鎌状赤血球症 "wikilink")で体調を崩したことが原因で中止になってしまう。またT-ボズは[ラッパーのマック](../Page/ラップ.md "wikilink")10（Mack 10）との間にチェイス（Chase）という名の娘をもうけ、同年[8月19日](../Page/8月19日.md "wikilink")に[LA](https://ja.wikipedia.org/wiki/LA "wikilink")で結婚。しかし、マック10がT-ボズを頻繁に脅迫したことにより、[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")に別居申請をする。
+来日公演を予定していた[2000年](../Page/2000年.md "wikilink")、T-ボズが[鎌状赤血球症](../Page/鎌状赤血球症.md "wikilink")で体調を崩したことが原因で中止になってしまう。またT-ボズは[ラッパーのマック](../Page/ラップ.md "wikilink")10（Mack 10）との間にチェイス（Chase）という名の娘をもうけ、同年[8月19日](../Page/8月19日.md "wikilink")に[LA](https://ja.wikipedia.org/wiki/LA "wikilink")で結婚。しかし、マック10がT-ボズを頻繁に脅迫したことにより、[2004年](../Page/2004年.md "wikilink")に別居申請をする。
 
 レフト・アイは[2000年](../Page/2000年.md "wikilink")にショーン・ニューマンと結婚するとされたが、破局。
 
 [2001年](../Page/2001年.md "wikilink")にはレフト・アイがソロ・アルバム「Supernova」をリリース。これはレコード会社移籍など多くの問題を抱えていたため、世界中でリリースされたが全米では発売を中止した。同年Andre Risonと婚約するも、解消。
 
-4枚目のグループ・アルバムのレコーディング中、また自身の2ndソロ・アルバム制作中の[2002年](../Page/2002年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")夜、レフト・アイが中米[ホンジュラス](https://ja.wikipedia.org/wiki/ホンジュラス "wikilink")フティアパ近くのハイウェイで[SUVを運転中](https://ja.wikipedia.org/wiki/スポーツ・ユーティリティ・ビークル "wikilink")、木に衝突。[シートベルト](https://ja.wikipedia.org/wiki/シートベルト "wikilink")をしていなかったレフト・アイは頭部の怪我により30歳の若さで他界した。この事故の瞬間は[ドキュメンタリー](https://ja.wikipedia.org/wiki/ドキュメンタリー "wikilink")「ラスト・デイズ・オブ・レフト・アイ」に収録されている。この死亡事故に関して、警察はスピード超過によるものと判断したが、レフト・アイの母親ワンダ・ロペス（Wanda Lopes）が、事故の原因をモンテロ（Montero SUV、日本名：[パジェロ](https://ja.wikipedia.org/wiki/三菱・パジェロ "wikilink")）の欠陥によるものとして、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[6月](../Page/6月.md "wikilink")自動車メーカーの[三菱自動車](https://ja.wikipedia.org/wiki/三菱自動車 "wikilink")を相手取った訴訟を起こしている。レフト・アイの死後、T-ボズとチリはレコーディングを続行、レフト・アイがすでに録音していた音源も使い、4thアルバム「3D」を2002年に完成させる。
+4枚目のグループ・アルバムのレコーディング中、また自身の2ndソロ・アルバム制作中の[2002年](../Page/2002年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")夜、レフト・アイが中米[ホンジュラス](https://ja.wikipedia.org/wiki/ホンジュラス "wikilink")フティアパ近くのハイウェイで[SUVを運転中](../Page/スポーツ・ユーティリティ・ビークル.md "wikilink")、木に衝突。[シートベルト](../Page/シートベルト.md "wikilink")をしていなかったレフト・アイは頭部の怪我により30歳の若さで他界した。この事故の瞬間は[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")「ラスト・デイズ・オブ・レフト・アイ」に収録されている。この死亡事故に関して、警察はスピード超過によるものと判断したが、レフト・アイの母親ワンダ・ロペス（Wanda Lopes）が、事故の原因をモンテロ（Montero SUV、日本名：[パジェロ](../Page/三菱・パジェロ.md "wikilink")）の欠陥によるものとして、[2005年](../Page/2005年.md "wikilink")[6月](../Page/6月.md "wikilink")自動車メーカーの[三菱自動車](https://ja.wikipedia.org/wiki/三菱自動車 "wikilink")を相手取った訴訟を起こしている。レフト・アイの死後、T-ボズとチリはレコーディングを続行、レフト・アイがすでに録音していた音源も使い、4thアルバム「3D」を2002年に完成させる。
 
-このころ、チリと[アッシャーの交際はビッグカップルとして有名だったが](https://ja.wikipedia.org/wiki/アッシャー_\(歌手\) "wikilink")、アッシャーのファンが彼との情事で妊娠したことが原因で、[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")1月に破局。
+このころ、チリと[アッシャーの交際はビッグカップルとして有名だったが](../Page/アッシャー_\(歌手\).md "wikilink")、アッシャーのファンが彼との情事で妊娠したことが原因で、[2004年](../Page/2004年.md "wikilink")1月に破局。
 
-T-ボズの鎌型赤血球症やレフト・アイの死もあって、事実上活動休止状態にあったが、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に[テレビ番組](../Page/テレビ番組.md "wikilink")の[オーディション](https://ja.wikipedia.org/wiki/オーディション "wikilink")を勝ち残った、20歳のO'so Krispie（[アトランタ](https://ja.wikipedia.org/wiki/アトランタ "wikilink")出身）を[フィーチャリング](https://ja.wikipedia.org/wiki/フィーチャリング "wikilink")した2年ぶりになるシングル「I Bet」を、[iTunes Music Store上に発表](https://ja.wikipedia.org/wiki/iTunes_Music_Store "wikilink")。ラップ担当で[コリオグラファーでもある彼女の参加が](https://ja.wikipedia.org/wiki/振り付け師 "wikilink")、TLC復活を予感させたが、結局一曲をレコーディングしただけで、復活には至らなかった。
+T-ボズの鎌型赤血球症やレフト・アイの死もあって、事実上活動休止状態にあったが、[2005年](../Page/2005年.md "wikilink")に[テレビ番組](../Page/テレビ番組.md "wikilink")の[オーディション](../Page/オーディション.md "wikilink")を勝ち残った、20歳のO'so Krispie（[アトランタ](../Page/アトランタ.md "wikilink")出身）を[フィーチャリング](../Page/フィーチャリング.md "wikilink")した2年ぶりになるシングル「I Bet」を、[iTunes Music Store上に発表](https://ja.wikipedia.org/wiki/iTunes_Music_Store "wikilink")。ラップ担当で[コリオグラファーでもある彼女の参加が](https://ja.wikipedia.org/wiki/振り付け師 "wikilink")、TLC復活を予感させたが、結局一曲をレコーディングしただけで、復活には至らなかった。
 
 チリはソロとしてのデビューも噂されるが、進展を見せていない。
 
@@ -89,8 +89,8 @@ T-ボズの鎌型赤血球症やレフト・アイの死もあって、事実上
 <td><p><strong><em>CrazySexyCool</em></strong><small></p></td>
 <td><ul>
 <li>発売日: 1994年11月15日</li>
-<li>レーベル: LaFace, <a href="https://ja.wikipedia.org/wiki/アリスタ・レコード" title="wikilink">Arista</a></li>
-<li>フォーマット: CD, cassette, <a href="https://ja.wikipedia.org/wiki/音楽配信" title="wikilink">digital download</a></li>
+<li>レーベル: LaFace, <a href="../Page/アリスタ・レコード.md" title="wikilink">Arista</a></li>
+<li>フォーマット: CD, cassette, <a href="../Page/音楽配信.md" title="wikilink">digital download</a></li>
 <li>全米売上: 887万枚[6][7]</small></li>
 </ul></td>
 <td><p>3</p></td>

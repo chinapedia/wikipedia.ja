@@ -19,25 +19,25 @@
 
   - [ステファノ・タッコーニ](https://ja.wikipedia.org/wiki/ステファノ・タッコーニ "wikilink") (1983-1992)
 
-  - [アンジェロ・ペルッツィ](https://ja.wikipedia.org/wiki/アンジェロ・ペルッツィ "wikilink") (1991-1999)
+  - [アンジェロ・ペルッツィ](../Page/アンジェロ・ペルッツィ.md "wikilink") (1991-1999)
 
   - [エトヴィン・ファン・デル・サール](../Page/エトヴィン・ファン・デル・サール.md "wikilink") (1999-2001)
 
-  - [アンドレーアス・イサクソン](https://ja.wikipedia.org/wiki/アンドレーアス・イサクソン "wikilink") (1999-2001)
+  - [アンドレーアス・イサクソン](../Page/アンドレーアス・イサクソン.md "wikilink") (1999-2001)
 
   - [ファビアン・カリーニ](https://ja.wikipedia.org/wiki/ファビアン・カリーニ "wikilink") (2000-2004)
 
 <!-- end list -->
 
-  - [ジャンルイジ・ブッフォン](https://ja.wikipedia.org/wiki/ジャンルイジ・ブッフォン "wikilink") (2001-2018、2019-)
+  - [ジャンルイジ・ブッフォン](../Page/ジャンルイジ・ブッフォン.md "wikilink") (2001-2018、2019-)
 
-  - [アントニオ・キメンティ](https://ja.wikipedia.org/wiki/アントニオ・キメンティ "wikilink") (2002-2006、2008-2010)
+  - [アントニオ・キメンティ](../Page/アントニオ・キメンティ.md "wikilink") (2002-2006、2008-2010)
 
-  - [クリスティアン・アッビアーティ](https://ja.wikipedia.org/wiki/クリスティアン・アッビアーティ "wikilink") (2005-2006)
+  - [クリスティアン・アッビアーティ](../Page/クリスティアン・アッビアーティ.md "wikilink") (2005-2006)
 
-  - [アレクサンダー・マンニンガー](https://ja.wikipedia.org/wiki/アレクサンダー・マンニンガー "wikilink") (2008-2012)
+  - [アレクサンダー・マンニンガー](../Page/アレクサンダー・マンニンガー.md "wikilink") (2008-2012)
 
-  - [マルコ･ストラーリ](https://ja.wikipedia.org/wiki/マルコ・ストラーリ "wikilink") (2010-2015)
+  - [マルコ･ストラーリ](../Page/マルコ・ストラーリ.md "wikilink") (2010-2015)
 
   - [ネト](https://ja.wikipedia.org/wiki/ノルベルト・ムラーラ・ネト "wikilink") (2015-2017)
 
@@ -47,77 +47,77 @@
 
 ## DF
 
-  - [ガエターノ・シレア](https://ja.wikipedia.org/wiki/ガエターノ・シレア "wikilink")
+  - [ガエターノ・シレア](../Page/ガエターノ・シレア.md "wikilink")
 
-  - [クラウディオ・ジェンティーレ](https://ja.wikipedia.org/wiki/クラウディオ・ジェンティーレ "wikilink")
+  - [クラウディオ・ジェンティーレ](../Page/クラウディオ・ジェンティーレ.md "wikilink")
 
-  - [アントニオ・カブリーニ](https://ja.wikipedia.org/wiki/アントニオ・カブリーニ "wikilink")
+  - [アントニオ・カブリーニ](../Page/アントニオ・カブリーニ.md "wikilink")
 
   - [ロベルト・トリセラ](https://ja.wikipedia.org/wiki/ロベルト・トリセラ "wikilink")
 
-  - [ピエトロ・ヴィエルコウッド](https://ja.wikipedia.org/wiki/ピエトロ・ヴィエルコウッド "wikilink")
+  - [ピエトロ・ヴィエルコウッド](../Page/ピエトロ・ヴィエルコウッド.md "wikilink")
 
   - [ルイジ・デ・アゴスティーニ](https://ja.wikipedia.org/wiki/ルイジ・デ・アゴスティーニ "wikilink")
 
-  - [ユルゲン・コーラー](https://ja.wikipedia.org/wiki/ユルゲン・コーラー "wikilink")
+  - [ユルゲン・コーラー](../Page/ユルゲン・コーラー.md "wikilink")
 
   - [ジュリオ・セザール](https://ja.wikipedia.org/wiki/ジュリオ・セザール "wikilink")
 
   - [チーロ・フェラーラ](https://ja.wikipedia.org/wiki/チーロ・フェラーラ "wikilink")
 
-  - [モレノ・トリチェッリ](https://ja.wikipedia.org/wiki/モレノ・トリチェッリ "wikilink")
+  - [モレノ・トリチェッリ](../Page/モレノ・トリチェッリ.md "wikilink")
 
-  - [ジャンルカ・ペッソット](https://ja.wikipedia.org/wiki/ジャンルカ・ペッソット "wikilink")
+  - [ジャンルカ・ペッソット](../Page/ジャンルカ・ペッソット.md "wikilink")
 
-  - [パオロ・モンテーロ](https://ja.wikipedia.org/wiki/パオロ・モンテーロ "wikilink")
+  - [パオロ・モンテーロ](../Page/パオロ・モンテーロ.md "wikilink")
 
-  - [リリアン・テュラム](https://ja.wikipedia.org/wiki/リリアン・テュラム "wikilink")
+  - [リリアン・テュラム](../Page/リリアン・テュラム.md "wikilink")
 
   - [ファビオ・カンナヴァーロ](https://ja.wikipedia.org/wiki/ファビオ・カンナヴァーロ "wikilink")
 
 <!-- end list -->
 
-  - [ロベルト・コヴァチ](https://ja.wikipedia.org/wiki/ロベルト・コヴァチ "wikilink")
+  - [ロベルト・コヴァチ](../Page/ロベルト・コヴァチ.md "wikilink")
 
-  - [ジャンルカ・ザンブロッタ](https://ja.wikipedia.org/wiki/ジャンルカ・ザンブロッタ "wikilink")
+  - [ジャンルカ・ザンブロッタ](../Page/ジャンルカ・ザンブロッタ.md "wikilink")
 
-  - [オロフ・メルベリ](https://ja.wikipedia.org/wiki/オロフ・メルベリ "wikilink")
+  - [オロフ・メルベリ](../Page/オロフ・メルベリ.md "wikilink")
 
-  - [ファビオ・グロッソ](https://ja.wikipedia.org/wiki/ファビオ・グロッソ "wikilink")
+  - [ファビオ・グロッソ](../Page/ファビオ・グロッソ.md "wikilink")
 
-  - [ジョルジュ・アンドラーデ](https://ja.wikipedia.org/wiki/ジョルジュ・アンドラーデ "wikilink")
+  - [ジョルジュ・アンドラーデ](../Page/ジョルジュ・アンドラーデ.md "wikilink")
 
-  - [イゴール・トゥドール](https://ja.wikipedia.org/wiki/イゴール・トゥドール "wikilink")
+  - [イゴール・トゥドール](../Page/イゴール・トゥドール.md "wikilink")
 
-  - [ルッシオ・フェレイラ](https://ja.wikipedia.org/wiki/ルシマール・ダ・シウヴァ・フェレイラ "wikilink")
+  - [ルッシオ・フェレイラ](../Page/ルシマール・ダ・シウヴァ・フェレイラ.md "wikilink")
 
-  - [ジャン＝アラン・ブームソン](https://ja.wikipedia.org/wiki/ジャン＝アラン・ブームソン "wikilink")
+  - [ジャン＝アラン・ブームソン](../Page/ジャン＝アラン・ブームソン.md "wikilink")
 
   - [ズデニェク・グリゲラ](../Page/ズデニェク・グリゲラ.md "wikilink")
 
   - [アンドレア・バルザーリ](https://ja.wikipedia.org/wiki/アンドレア・バルザーリ "wikilink")
 
-  - [パトリス・エヴラ](https://ja.wikipedia.org/wiki/パトリス・エヴラ "wikilink")
+  - [パトリス・エヴラ](../Page/パトリス・エヴラ.md "wikilink")
 
 <!-- end list -->
 
-  - [フェデリコ・バルザレッティ](https://ja.wikipedia.org/wiki/フェデリコ・バルザレッティ "wikilink")
+  - [フェデリコ・バルザレッティ](../Page/フェデリコ・バルザレッティ.md "wikilink")
 
   - [ステファン・リヒトシュタイナー](https://ja.wikipedia.org/wiki/ステファン・リヒトシュタイナー "wikilink")
 
-  - [ジョルジョ・キエッリーニ](https://ja.wikipedia.org/wiki/ジョルジョ・キエッリーニ "wikilink")
+  - [ジョルジョ・キエッリーニ](../Page/ジョルジョ・キエッリーニ.md "wikilink")
 
-  - [レト・ツィークラー](https://ja.wikipedia.org/wiki/レト・ツィークラー "wikilink")
+  - [レト・ツィークラー](../Page/レト・ツィークラー.md "wikilink")
 
-  - [ドメニコ・クリシート](https://ja.wikipedia.org/wiki/ドメニコ・クリシート "wikilink")
+  - [ドメニコ・クリシート](../Page/ドメニコ・クリシート.md "wikilink")
 
-  - [マルティン・カセレス](https://ja.wikipedia.org/wiki/マルティン・カセレス "wikilink")
+  - [マルティン・カセレス](../Page/マルティン・カセレス.md "wikilink")
 
   - [レオナルド・ボヌッチ](https://ja.wikipedia.org/wiki/レオナルド・ボヌッチ "wikilink")
 
   - [アンジェロ・オグボンナ](https://ja.wikipedia.org/wiki/アンジェロ・オグボンナ "wikilink")
 
-  - [ダニエウ・アウヴェス](https://ja.wikipedia.org/wiki/ダニエウ・アウヴェス "wikilink")
+  - [ダニエウ・アウヴェス](../Page/ダニエウ・アウヴェス.md "wikilink")
 
   - [ダニエレ・ルガーニ](https://ja.wikipedia.org/wiki/ダニエレ・ルガーニ "wikilink")
 
@@ -125,7 +125,7 @@
 
 ## MF
 
-  - [マルコ・タルデッリ](https://ja.wikipedia.org/wiki/マルコ・タルデッリ "wikilink")
+  - [マルコ・タルデッリ](../Page/マルコ・タルデッリ.md "wikilink")
 
   - [ミシェル・プラティニ](../Page/ミシェル・プラティニ.md "wikilink")
 
@@ -135,31 +135,31 @@
 
   - [アレクサンドル・ザバロフ](https://ja.wikipedia.org/wiki/アレクサンドル・ザバロフ "wikilink")
 
-  - [ミカエル・ラウドルップ](https://ja.wikipedia.org/wiki/ミカエル・ラウドルップ "wikilink")
+  - [ミカエル・ラウドルップ](../Page/ミカエル・ラウドルップ.md "wikilink")
 
   - [ルイ・バロス](https://ja.wikipedia.org/wiki/ルイ・バロス "wikilink")
 
-  - [トーマス・ヘスラー](https://ja.wikipedia.org/wiki/トーマス・ヘスラー "wikilink")
+  - [トーマス・ヘスラー](../Page/トーマス・ヘスラー.md "wikilink")
 
-  - [デビッド・プラット](https://ja.wikipedia.org/wiki/デビッド・プラット "wikilink")
+  - [デビッド・プラット](../Page/デビッド・プラット.md "wikilink")
 
-  - [アンジェロ・ディ・リービオ](https://ja.wikipedia.org/wiki/アンジェロ・ディ・リービオ "wikilink")
+  - [アンジェロ・ディ・リービオ](../Page/アンジェロ・ディ・リービオ.md "wikilink")
 
-  - [シュテファン・ロイター](https://ja.wikipedia.org/wiki/シュテファン・ロイター "wikilink")
+  - [シュテファン・ロイター](../Page/シュテファン・ロイター.md "wikilink")
 
-  - [アンドレアス・メラー](https://ja.wikipedia.org/wiki/アンドレアス・メラー "wikilink")
+  - [アンドレアス・メラー](../Page/アンドレアス・メラー.md "wikilink")
 
   - [トーマス・へスラー](https://ja.wikipedia.org/wiki/トーマス・へスラー "wikilink")
 
   - [ディディエ・デシャン](../Page/ディディエ・デシャン.md "wikilink")
 
-  - [ロベルト・ヤルニ](https://ja.wikipedia.org/wiki/ロベルト・ヤルニ "wikilink")
+  - [ロベルト・ヤルニ](../Page/ロベルト・ヤルニ.md "wikilink")
 
-  - [アントニオ・コンテ](https://ja.wikipedia.org/wiki/アントニオ・コンテ "wikilink")
+  - [アントニオ・コンテ](../Page/アントニオ・コンテ.md "wikilink")
 
   - [ヴラジミール・ユーゴビッチ](https://ja.wikipedia.org/wiki/ヴラジミール・ユーゴビッチ "wikilink")
 
-  - [パウロ・ソウザ](https://ja.wikipedia.org/wiki/パウロ・ソウザ "wikilink")
+  - [パウロ・ソウザ](../Page/パウロ・ソウザ.md "wikilink")
 
 <!-- end list -->
 
@@ -169,27 +169,27 @@
 
   - [パベル・ネドベド](../Page/パベル・ネドベド.md "wikilink")
 
-  - [エドガー・ダーヴィッツ](https://ja.wikipedia.org/wiki/エドガー・ダーヴィッツ "wikilink")
+  - [エドガー・ダーヴィッツ](../Page/エドガー・ダーヴィッツ.md "wikilink")
 
-  - [サンデー・オリセー](https://ja.wikipedia.org/wiki/サンデー・オリセー "wikilink")
+  - [サンデー・オリセー](../Page/サンデー・オリセー.md "wikilink")
 
-  - [エメルソン・フェレイラ](https://ja.wikipedia.org/wiki/エメルソン・フェレイラ・ダ・ローザ "wikilink")
+  - [エメルソン・フェレイラ](../Page/エメルソン・フェレイラ・ダ・ローザ.md "wikilink")
 
-  - [フアン・パブロ・ソリン](https://ja.wikipedia.org/wiki/フアン・パブロ・ソリン "wikilink")
+  - [フアン・パブロ・ソリン](../Page/フアン・パブロ・ソリン.md "wikilink")
 
-  - [パトリック・ヴィエラ](https://ja.wikipedia.org/wiki/パトリック・ヴィエラ "wikilink")
+  - [パトリック・ヴィエラ](../Page/パトリック・ヴィエラ.md "wikilink")
 
-  - [マウロ・カモラネージ](https://ja.wikipedia.org/wiki/マウロ・カモラネージ "wikilink")
+  - [マウロ・カモラネージ](../Page/マウロ・カモラネージ.md "wikilink")
 
-  - [ハサン・サリハミジッチ](https://ja.wikipedia.org/wiki/ハサン・サリハミジッチ "wikilink")
+  - [ハサン・サリハミジッチ](../Page/ハサン・サリハミジッチ.md "wikilink")
 
-  - [シモーネ・ペッロッタ](https://ja.wikipedia.org/wiki/シモーネ・ペッロッタ "wikilink")
+  - [シモーネ・ペッロッタ](../Page/シモーネ・ペッロッタ.md "wikilink")
 
-  - [アンドレア・ピルロ](https://ja.wikipedia.org/wiki/アンドレア・ピルロ "wikilink")
+  - [アンドレア・ピルロ](../Page/アンドレア・ピルロ.md "wikilink")
 
-  - [クリスティアン・ポウルセン](https://ja.wikipedia.org/wiki/クリスティアン・ポウルセン "wikilink")
+  - [クリスティアン・ポウルセン](../Page/クリスティアン・ポウルセン.md "wikilink")
 
-  - [スティーヴン・アッピアー](https://ja.wikipedia.org/wiki/スティーヴン・アッピアー "wikilink")
+  - [スティーヴン・アッピアー](../Page/スティーヴン・アッピアー.md "wikilink")
 
   - [チアゴ・メンデス](https://ja.wikipedia.org/wiki/チアゴ・メンデス "wikilink")
 
@@ -203,11 +203,11 @@
 
   - [ミロシュ・クラシッチ](https://ja.wikipedia.org/wiki/ミロシュ・クラシッチ "wikilink")
 
-  - [モハメド・シソッコ](https://ja.wikipedia.org/wiki/モハメド・シソッコ "wikilink")
+  - [モハメド・シソッコ](../Page/モハメド・シソッコ.md "wikilink")
 
-  - [ジエゴ・リーバス](https://ja.wikipedia.org/wiki/ジエゴ・リバス・ダ・クーニャ "wikilink")
+  - [ジエゴ・リーバス](../Page/ジエゴ・リバス・ダ・クーニャ.md "wikilink")
 
-  - [アントニオ・ノチェリーノ](https://ja.wikipedia.org/wiki/アントニオ・ノチェリーノ "wikilink")
+  - [アントニオ・ノチェリーノ](../Page/アントニオ・ノチェリーノ.md "wikilink")
 
   - [エマヌエレ・ジャッケリーニ](https://ja.wikipedia.org/wiki/エマヌエレ・ジャッケリーニ "wikilink")
 
@@ -242,19 +242,19 @@
   - [パオロ・ロッシ](../Page/パオロ・ロッシ.md "wikilink")
     (1973 - 1975, 1981 - 1985)
 
-  - [ズビグニェフ・ボニエク](https://ja.wikipedia.org/wiki/ズビグニェフ・ボニエク "wikilink")
+  - [ズビグニェフ・ボニエク](../Page/ズビグニェフ・ボニエク.md "wikilink")
     (1982 - 1985)
 
   - [アルド・セレーナ](https://ja.wikipedia.org/wiki/アルド・セレーナ "wikilink")
     (1985 - 1987)
 
-  - [イアン・ラッシュ](https://ja.wikipedia.org/wiki/イアン・ラッシュ "wikilink")
+  - [イアン・ラッシュ](../Page/イアン・ラッシュ.md "wikilink")
     (1986 - 1988)
 
   - [アレッサンドロ・アルトベッリ](https://ja.wikipedia.org/wiki/アレッサンドロ・アルトベッリ "wikilink")
     (1988 - 1989)
 
-  - [ピエルルイジ・カジラギ](https://ja.wikipedia.org/wiki/ピエルルイジ・カジラギ "wikilink")
+  - [ピエルルイジ・カジラギ](../Page/ピエルルイジ・カジラギ.md "wikilink")
     (1989 - 1993)
 
   - [サルバトーレ・スキラッチ](https://ja.wikipedia.org/wiki/サルバトーレ・スキラッチ "wikilink")
@@ -263,7 +263,7 @@
   - [ロベルト・バッジョ](../Page/ロベルト・バッジョ.md "wikilink")
     (1990 - 1995)
 
-  - [ジャンルカ・ヴィアリ](https://ja.wikipedia.org/wiki/ジャンルカ・ヴィアリ "wikilink")
+  - [ジャンルカ・ヴィアリ](../Page/ジャンルカ・ヴィアリ.md "wikilink")
     (1992 - 1996)
 
   - [ファブリシオ・ラバネッリ](https://ja.wikipedia.org/wiki/ファブリシオ・ラバネッリ "wikilink")
@@ -272,7 +272,7 @@
   - [アレッサンドロ・デル・ピエロ](../Page/アレッサンドロ・デル・ピエロ.md "wikilink")
     (1993 - 2012)
 
-  - [アレン・ボクシッチ](https://ja.wikipedia.org/wiki/アレン・ボクシッチ "wikilink")
+  - [アレン・ボクシッチ](../Page/アレン・ボクシッチ.md "wikilink")
     (1996 - 1997)
 
   - [クリスティアン・ヴィエリ](../Page/クリスティアン・ヴィエリ.md "wikilink")
@@ -284,36 +284,36 @@
   - [フィリッポ・インザーギ](../Page/フィリッポ・インザーギ.md "wikilink")
     (1997 - 2001)
 
-  - [マルセロ・サラジェタ](https://ja.wikipedia.org/wiki/マルセロ・サラジェタ "wikilink")
+  - [マルセロ・サラジェタ](../Page/マルセロ・サラジェタ.md "wikilink")
     (1997 - 2007)
 
   - [ティエリ・アンリ](../Page/ティエリ・アンリ.md "wikilink")
     (1999)
 
-  - [ダルコ・コバチェビッチ](https://ja.wikipedia.org/wiki/ダルコ・コバチェビッチ "wikilink")
+  - [ダルコ・コバチェビッチ](../Page/ダルコ・コバチェビッチ.md "wikilink")
     (1999 - 2001)
 
 <!-- end list -->
 
-  - [ダヴィド・トレゼゲ](https://ja.wikipedia.org/wiki/ダヴィド・トレゼゲ "wikilink")
+  - [ダヴィド・トレゼゲ](../Page/ダヴィド・トレゼゲ.md "wikilink")
     (2000 - 2010)
 
-  - [マルセロ・サラス](https://ja.wikipedia.org/wiki/マルセロ・サラス "wikilink")
+  - [マルセロ・サラス](../Page/マルセロ・サラス.md "wikilink")
     (2001 - 2004)
 
-  - [アドリアン・ムトゥ](https://ja.wikipedia.org/wiki/アドリアン・ムトゥ "wikilink")
+  - [アドリアン・ムトゥ](../Page/アドリアン・ムトゥ.md "wikilink")
     (2004 - 2006)
 
   - [ズラタン・イブラヒモビッチ](https://ja.wikipedia.org/wiki/ズラタン・イブラヒモビッチ "wikilink")
     (2004 - 2006)
 
-  - [ヴァレリ・ボジノフ](https://ja.wikipedia.org/wiki/ヴァレリ・ボジノフ "wikilink")
+  - [ヴァレリ・ボジノフ](../Page/ヴァレリ・ボジノフ.md "wikilink")
     (2006 - 2007)
 
   - [セバスティアン・ジョヴィンコ](https://ja.wikipedia.org/wiki/セバスティアン・ジョヴィンコ "wikilink")
     (2006 - 2015)
 
-  - [ヴィンチェンツォ・イアクインタ](https://ja.wikipedia.org/wiki/ヴィンチェンツォ・イアクインタ "wikilink")
+  - [ヴィンチェンツォ・イアクインタ](../Page/ヴィンチェンツォ・イアクインタ.md "wikilink")
     (2007 - 2013)
 
   - [チーロ・インモービレ](https://ja.wikipedia.org/wiki/チーロ・インモービレ "wikilink")
@@ -322,7 +322,7 @@
   - [ファビオ・クアリアレッラ](https://ja.wikipedia.org/wiki/ファビオ・クアリアレッラ "wikilink")
     (2010 - 2014)
 
-  - [ルカ・トーニ](https://ja.wikipedia.org/wiki/ルカ・トーニ "wikilink")
+  - [ルカ・トーニ](../Page/ルカ・トーニ.md "wikilink")
     (2011 - 2012)
 
   - [エルイェロ・エリア](https://ja.wikipedia.org/wiki/エルイェロ・エリア "wikilink")
@@ -331,24 +331,24 @@
   - [アレッサンドロ・マトリ](https://ja.wikipedia.org/wiki/アレッサンドロ・マトリ "wikilink")
     (2011 - 2013, 2015)
 
-  - [ミルコ・ヴチニッチ](https://ja.wikipedia.org/wiki/ミルコ・ヴチニッチ "wikilink")
+  - [ミルコ・ヴチニッチ](../Page/ミルコ・ヴチニッチ.md "wikilink")
     (2011 - 2014)
 
   - [ニクラス・ベントナー](../Page/ニクラス・ベントナー.md "wikilink")
     (2012 - 2013)
 
-  - [ニコラ・アネルカ](https://ja.wikipedia.org/wiki/ニコラ・アネルカ "wikilink")
+  - [ニコラ・アネルカ](../Page/ニコラ・アネルカ.md "wikilink")
     (2013)
 
 <!-- end list -->
 
-  - [カルロス・テベス](https://ja.wikipedia.org/wiki/カルロス・テベス "wikilink")
+  - [カルロス・テベス](../Page/カルロス・テベス.md "wikilink")
     (2013 - 2015)
 
-  - [フェルナンド・ジョレンテ](https://ja.wikipedia.org/wiki/フェルナンド・ジョレンテ "wikilink")
+  - [フェルナンド・ジョレンテ](../Page/フェルナンド・ジョレンテ.md "wikilink")
     (2013 - 2015)
 
-  - [パブロ・オスバルド](https://ja.wikipedia.org/wiki/パブロ・オスバルド "wikilink")
+  - [パブロ・オスバルド](../Page/パブロ・オスバルド.md "wikilink")
     (2014)
 
   - [キングスレイ・コマン](https://ja.wikipedia.org/wiki/キングスレイ・コマン "wikilink")
@@ -369,7 +369,7 @@
   - **[マルコ・ピアツァ](https://ja.wikipedia.org/wiki/マルコ・ピアツァ "wikilink")
     (2016 - )**
 
-  - ** [ゴンサロ・イグアイン](https://ja.wikipedia.org/wiki/ゴンサロ・イグアイン "wikilink")
+  - ** [ゴンサロ・イグアイン](../Page/ゴンサロ・イグアイン.md "wikilink")
     (2016 - )**
 
   - **[ドウグラス・コスタ](https://ja.wikipedia.org/wiki/ドウグラス・コスタ "wikilink")
@@ -378,7 +378,7 @@
   - **[フェデリコ・ベルナルデスキ](https://ja.wikipedia.org/wiki/フェデリコ・ベルナルデスキ "wikilink")
     (2017 - )**
 
-  - **[クリスティアーノ・ロナウド](https://ja.wikipedia.org/wiki/クリスティアーノ・ロナウド "wikilink")
+  - **[クリスティアーノ・ロナウド](../Page/クリスティアーノ・ロナウド.md "wikilink")
     (2018 - )**
 
 [Category:ヨーロッパのクラブのサッカー選手一覧](https://ja.wikipedia.org/wiki/Category:ヨーロッパのクラブのサッカー選手一覧 "wikilink") [Category:ユヴェントスFCの選手](https://ja.wikipedia.org/wiki/Category:ユヴェントスFCの選手 "wikilink")

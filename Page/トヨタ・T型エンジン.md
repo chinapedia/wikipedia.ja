@@ -1,41 +1,41 @@
 > この記事は[T](https://ja.wikipedia.org/wiki/T)から翻訳されています。
 
 
-**T型エンジン**（ティーがたエンジン）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[水冷](https://ja.wikipedia.org/wiki/水冷エンジン "wikilink")[直列4気筒](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink")[ガソリンエンジン](https://ja.wikipedia.org/wiki/ガソリンエンジン "wikilink")の[系列である](https://ja.wikipedia.org/wiki/トヨタのエンジン系列名 "wikilink")。先代のR型（1,500 - 2,400cc）の1,800cc以下のクラスの性能強化を目的に登場。
+**T型エンジン**（ティーがたエンジン）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[水冷](../Page/水冷エンジン.md "wikilink")[直列4気筒](../Page/直列4気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")の[系列である](../Page/トヨタのエンジン系列名.md "wikilink")。先代のR型（1,500 - 2,400cc）の1,800cc以下のクラスの性能強化を目的に登場。
 
 2T系や4T系はラリーや耐久レースで活躍。
 
 ## 概要
 
-[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")（昭和45年）9月、2代目[カローラ](https://ja.wikipedia.org/wiki/トヨタ・カローラ "wikilink")/[スプリンター](https://ja.wikipedia.org/wiki/トヨタ・スプリンター "wikilink")（TE20型）に搭載され登場（1,400ccの「T」型、「T-D」型）。[OHV](https://ja.wikipedia.org/wiki/OHV "wikilink")シリンダヘッド仕様に関しては、[クライスラー・ヘミエンジン](https://ja.wikipedia.org/wiki/クライスラー・ヘミエンジン "wikilink")のコンセプトを用いている（[ハイマウントカムシャフト](https://ja.wikipedia.org/wiki/ハイカム#OHVにおけるハイマウントカムシャフト "wikilink")・V字型[クロスフロー](https://ja.wikipedia.org/wiki/クロスフロー "wikilink")・センター[スパークプラグ](../Page/点火プラグ.md "wikilink")・[半球型燃焼室](https://ja.wikipedia.org/wiki/燃焼室#半球型 "wikilink")）。なお同コンセプトはトヨタでは[1967年](../Page/1967年.md "wikilink")（昭和42年）11月発売の[初代センチュリーに搭載された](https://ja.wikipedia.org/wiki/トヨタ・センチュリー "wikilink")[3Vエンジンから採用している](https://ja.wikipedia.org/wiki/トヨタ・V型エンジン "wikilink")。当初は「**パッションエンジン**」と呼ばれた。
+[1970年](../Page/1970年.md "wikilink")（昭和45年）9月、2代目[カローラ](../Page/トヨタ・カローラ.md "wikilink")/[スプリンター](../Page/トヨタ・スプリンター.md "wikilink")（TE20型）に搭載され登場（1,400ccの「T」型、「T-D」型）。[OHV](../Page/OHV.md "wikilink")シリンダヘッド仕様に関しては、[クライスラー・ヘミエンジン](../Page/クライスラー・ヘミエンジン.md "wikilink")のコンセプトを用いている（[ハイマウントカムシャフト](https://ja.wikipedia.org/wiki/ハイカム#OHVにおけるハイマウントカムシャフト "wikilink")・V字型[クロスフロー](https://ja.wikipedia.org/wiki/クロスフロー "wikilink")・センター[スパークプラグ](../Page/点火プラグ.md "wikilink")・[半球型燃焼室](https://ja.wikipedia.org/wiki/燃焼室#半球型 "wikilink")）。なお同コンセプトはトヨタでは[1967年](../Page/1967年.md "wikilink")（昭和42年）11月発売の[初代センチュリーに搭載された](../Page/トヨタ・センチュリー.md "wikilink")[3Vエンジンから採用している](../Page/トヨタ・V型エンジン.md "wikilink")。当初は「**パッションエンジン**」と呼ばれた。
 
-本来は、後に登場する初代[カリーナ](../Page/トヨタ・カリーナ.md "wikilink")（A10系）/[セリカ](https://ja.wikipedia.org/wiki/トヨタ・セリカ "wikilink")（A20系）用に開発されていたエンジンである。カローラにも搭載されることになった理由の1つとして、同車の競合車である[日産・サニー](../Page/日産・サニー.md "wikilink")に対する優位性の維持が挙げられる。これに対し日産は、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")（昭和46年）4月、サニーに[OHC](https://ja.wikipedia.org/wiki/OHC "wikilink")の[L14型エンジンを搭載した](https://ja.wikipedia.org/wiki/日産・L型エンジン "wikilink")「エクセレントシリーズ」を追加している。
+本来は、後に登場する初代[カリーナ](../Page/トヨタ・カリーナ.md "wikilink")（A10系）/[セリカ](../Page/トヨタ・セリカ.md "wikilink")（A20系）用に開発されていたエンジンである。カローラにも搭載されることになった理由の1つとして、同車の競合車である[日産・サニー](../Page/日産・サニー.md "wikilink")に対する優位性の維持が挙げられる。これに対し日産は、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")（昭和46年）4月、サニーに[OHC](https://ja.wikipedia.org/wiki/OHC "wikilink")の[L14型エンジンを搭載した](../Page/日産・L型エンジン.md "wikilink")「エクセレントシリーズ」を追加している。
 
-1970年（昭和45年）12月には、初代セリカが登場。最上級グレードの1600GT（TA22型）には、OHVの2T型エンジンをベースに、[ヤマハ製](https://ja.wikipedia.org/wiki/ヤマハ発動機 "wikilink")[DOHC](../Page/DOHC.md "wikilink")[シリンダーヘッド](https://ja.wikipedia.org/wiki/シリンダーヘッド "wikilink")を組み合わせた「**2T-G**」型エンジンが搭載される。それまでトヨタのDOHCエンジンには、「[3M](https://ja.wikipedia.org/wiki/トヨタ・M型エンジン "wikilink")」「[9R](https://ja.wikipedia.org/wiki/トヨタ・R型エンジン "wikilink")」「[10R](https://ja.wikipedia.org/wiki/トヨタ・R型エンジン "wikilink")」型があったが、この2T-G型以降、型式にDOHCであることを示す「G」の記号が付与されるようになった（8R型がベースの10R型は、翌1971年（昭和46年）2月に「[8R-G](https://ja.wikipedia.org/wiki/トヨタ・R型エンジン "wikilink")」型に型式変更された）。
+1970年（昭和45年）12月には、初代セリカが登場。最上級グレードの1600GT（TA22型）には、OHVの2T型エンジンをベースに、[ヤマハ製](../Page/ヤマハ発動機.md "wikilink")[DOHC](../Page/DOHC.md "wikilink")[シリンダーヘッド](https://ja.wikipedia.org/wiki/シリンダーヘッド "wikilink")を組み合わせた「**2T-G**」型エンジンが搭載される。それまでトヨタのDOHCエンジンには、「[3M](../Page/トヨタ・M型エンジン.md "wikilink")」「[9R](../Page/トヨタ・R型エンジン.md "wikilink")」「[10R](../Page/トヨタ・R型エンジン.md "wikilink")」型があったが、この2T-G型以降、型式にDOHCであることを示す「G」の記号が付与されるようになった（8R型がベースの10R型は、翌1971年（昭和46年）2月に「[8R-G](../Page/トヨタ・R型エンジン.md "wikilink")」型に型式変更された）。
 
 ## 生産期間
 
-  - 国内向け：[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")8月 - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")6月
+  - 国内向け：[1970年](../Page/1970年.md "wikilink")8月 - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")6月
 
 ## 系譜
 
-  - [エンジン型式一覧の](https://ja.wikipedia.org/wiki/トヨタのエンジン型式一覧 "wikilink")[自動車用エンジンの系譜を参照](https://ja.wikipedia.org/wiki/トヨタのエンジン型式一覧#自動車用エンジンの系譜 "wikilink")。
+  - [エンジン型式一覧の](../Page/トヨタのエンジン型式一覧.md "wikilink")[自動車用エンジンの系譜を参照](https://ja.wikipedia.org/wiki/トヨタのエンジン型式一覧#自動車用エンジンの系譜 "wikilink")。
 
 ## 型式
 
 ### T
 
   - 生産期間
-      - [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")8月 - 1975年9月（国内向け）
-  - 種類：[OHV](https://ja.wikipedia.org/wiki/OHV "wikilink") 8バルブ [シングルキャブレター](../Page/キャブレター.md "wikilink")
+      - [1970年](../Page/1970年.md "wikilink")8月 - 1975年9月（国内向け）
+  - 種類：[OHV](../Page/OHV.md "wikilink") 8バルブ [シングルキャブレター](../Page/キャブレター.md "wikilink")
   - 排気量：1.407L
   - 内径×行程：80.0×70.0(mm)
   - 圧縮比：8.5
   - 出力：86ps/6,000rpm
   - トルク：12.0kg・m/3,800rpm
   - 搭載車種（車両型式）
-      - （初）2代目[カローラ](https://ja.wikipedia.org/wiki/トヨタ・カローラ "wikilink")/[スプリンター](https://ja.wikipedia.org/wiki/トヨタ・スプリンター "wikilink")（TE20）
-      - 初代[カリーナ](../Page/トヨタ・カリーナ.md "wikilink")（TA10）/[セリカ](https://ja.wikipedia.org/wiki/トヨタ・セリカ "wikilink")（TA20）
+      - （初）2代目[カローラ](../Page/トヨタ・カローラ.md "wikilink")/[スプリンター](../Page/トヨタ・スプリンター.md "wikilink")（TE20）
+      - 初代[カリーナ](../Page/トヨタ・カリーナ.md "wikilink")（TA10）/[セリカ](../Page/トヨタ・セリカ.md "wikilink")（TA20）
       - 3代目カローラ（TE30）/スプリンター（TE40）
 
 ### T-D
@@ -103,10 +103,10 @@
 
 #### 昭和51年規制適合型
 
-[昭和51年度排出ガス規制適合](https://ja.wikipedia.org/wiki/1976年 "wikilink") (B)
+[昭和51年度排出ガス規制適合](../Page/1976年.md "wikilink") (B)
 
   - 生産期間
-      - [1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink")12月 - 1979年1月（国内向け）
+      - [1976年](../Page/1976年.md "wikilink")12月 - 1979年1月（国内向け）
   - 種類：OHV 8バルブ シングルキャブレター 酸化触媒 TTC-C
   - 排気量：1.407L
   - 内径×行程：80.0×70.0(mm)
@@ -238,9 +238,9 @@
       - 初代[カローラレビン](../Page/トヨタ・カローラレビン.md "wikilink")/[スプリンタートレノ](../Page/トヨタ・スプリンタートレノ.md "wikilink")（TE27）
       - 2代目カローラレビン（TE37）/スプリンタートレノ（TE47）
   - 備考
-      - 輸出仕様車は、「[4A-G](https://ja.wikipedia.org/wiki/トヨタ・4A-GE "wikilink")」と交代するまで上記のスペックで搭載され続けた。
-      - レース専用のシリンダーヘッドとしてまず始めに吸排気ポートが拡大された8バルブの｢100E｣、8バルブ・ツインプラグ化された「126E」、1気筒当たり4バルブ化された「151E」と呼ばれるシリンダーヘッドも存在したが一般には市販されず、主にトヨタの[ワークス・チーム](../Page/ワークス・チーム.md "wikilink")([トムス](https://ja.wikipedia.org/wiki/トムス "wikilink")や[トヨタ・チーム・ヨーロッパ等含む](https://ja.wikipedia.org/wiki/トヨタ・モータースポーツ "wikilink"))で使用された。
-      - 日本の[フォーミュラ・パシフィック](https://ja.wikipedia.org/wiki/フォーミュラ・パシフィック "wikilink")や、当時同一レギュレーションだった[マカオグランプリ](https://ja.wikipedia.org/wiki/マカオグランプリ "wikilink")でも本エンジンが使用された。
+      - 輸出仕様車は、「[4A-G](../Page/トヨタ・4A-GE.md "wikilink")」と交代するまで上記のスペックで搭載され続けた。
+      - レース専用のシリンダーヘッドとしてまず始めに吸排気ポートが拡大された8バルブの｢100E｣、8バルブ・ツインプラグ化された「126E」、1気筒当たり4バルブ化された「151E」と呼ばれるシリンダーヘッドも存在したが一般には市販されず、主にトヨタの[ワークス・チーム](../Page/ワークス・チーム.md "wikilink")([トムス](../Page/トムス.md "wikilink")や[トヨタ・チーム・ヨーロッパ等含む](https://ja.wikipedia.org/wiki/トヨタ・モータースポーツ "wikilink"))で使用された。
+      - 日本の[フォーミュラ・パシフィック](https://ja.wikipedia.org/wiki/フォーミュラ・パシフィック "wikilink")や、当時同一レギュレーションだった[マカオグランプリ](../Page/マカオグランプリ.md "wikilink")でも本エンジンが使用された。
       - 伊ノバ社が2T-Gをベースに製作した[F3用](https://ja.wikipedia.org/wiki/フォーミュラ3 "wikilink")2Lエンジンは長らく世界のF3車の大半で使用された。
 
 ### 2T-GR
@@ -286,7 +286,7 @@
 
   - 生産期間
       - 1978年3月 - [1981年](../Page/1981年.md "wikilink")5月（国内向け）
-  - 種類：DOHC 8バルブ EFI [三元触媒](https://ja.wikipedia.org/wiki/三元触媒 "wikilink")
+  - 種類：DOHC 8バルブ EFI [三元触媒](../Page/三元触媒.md "wikilink")
   - 排気量：1.588L
   - 内径×行程：85.0×70.0(mm)
   - 圧縮比：8.4
@@ -303,7 +303,7 @@
 
 #### 1981年燃焼室改良型
 
-半球型燃焼室から多球型燃焼室に変更。事実上「**2T-G**」の最終型。後継は「**[4A-GEU](https://ja.wikipedia.org/wiki/トヨタ・4A-GE "wikilink")**」。
+半球型燃焼室から多球型燃焼室に変更。事実上「**2T-G**」の最終型。後継は「**[4A-GEU](../Page/トヨタ・4A-GE.md "wikilink")**」。
 
   - 生産期間
       - 1981年6月 - 1983年5月（国内向け）
@@ -330,7 +330,7 @@
   - 出力：93ps/6,000rpm
   - トルク：13.1kg・m/3,800rpm
   - 搭載車種（車両型式）
-      - [タウンエース（R10系）](https://ja.wikipedia.org/wiki/トヨタ・タウンエース "wikilink")
+      - [タウンエース（R10系）](../Page/トヨタ・タウンエース.md "wikilink")
       - 6代目[コロナバン](../Page/トヨタ・コロナ.md "wikilink")（TT137V）
 
 ### 3T-U
@@ -483,9 +483,9 @@
 ## 関連項目
 
   - [トヨタのエンジン型式命名規則](https://ja.wikipedia.org/wiki/トヨタのエンジン型式命名規則 "wikilink")
-  - [トヨタのエンジン系列名](https://ja.wikipedia.org/wiki/トヨタのエンジン系列名 "wikilink")
-  - [トヨタのエンジン型式一覧](https://ja.wikipedia.org/wiki/トヨタのエンジン型式一覧 "wikilink")
-  - [クライスラー・ヘミエンジン](https://ja.wikipedia.org/wiki/クライスラー・ヘミエンジン "wikilink")
+  - [トヨタのエンジン系列名](../Page/トヨタのエンジン系列名.md "wikilink")
+  - [トヨタのエンジン型式一覧](../Page/トヨタのエンジン型式一覧.md "wikilink")
+  - [クライスラー・ヘミエンジン](../Page/クライスラー・ヘミエンジン.md "wikilink")
   - [自動車排出ガス規制](../Page/自動車排出ガス規制.md "wikilink")
 
 [Category:トヨタ自動車のエンジン](https://ja.wikipedia.org/wiki/Category:トヨタ自動車のエンジン "wikilink")

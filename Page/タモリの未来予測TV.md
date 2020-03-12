@@ -1,9 +1,9 @@
 > この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
 
 
-『**タモリの未来予測TV**』（タモリのみらいよそくテレビ）とは、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列にて](../Page/フジネットワーク.md "wikilink")[2003年](../Page/2003年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")（[月曜日](../Page/月曜日.md "wikilink")）から[2月27日](../Page/2月27日.md "wikilink")（[木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink")）の23:00 - 23:45（[JST](../Page/日本標準時.md "wikilink")）に[バラパラ](https://ja.wikipedia.org/wiki/バラパラ "wikilink")枠で4夜連続で放送された[教養](https://ja.wikipedia.org/wiki/教育番組 "wikilink")・[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")・[特別番組](https://ja.wikipedia.org/wiki/特別番組 "wikilink")である。[司会](https://ja.wikipedia.org/wiki/司会 "wikilink")を務める[タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")である。[ステレオ放送](../Page/ステレオ放送.md "wikilink")、[文字多重放送](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")が実施された。正式な番組タイトルは『**FNSサイエンススペシャル タモリの未来予測TV**』である。通称は「**未来予測TV**」。
+『**タモリの未来予測TV**』（タモリのみらいよそくテレビ）とは、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列にて](../Page/フジネットワーク.md "wikilink")[2003年](../Page/2003年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")（[月曜日](../Page/月曜日.md "wikilink")）から[2月27日](../Page/2月27日.md "wikilink")（[木曜日](../Page/木曜日.md "wikilink")）の23:00 - 23:45（[JST](../Page/日本標準時.md "wikilink")）に[バラパラ](../Page/バラパラ.md "wikilink")枠で4夜連続で放送された[教養](../Page/教育番組.md "wikilink")・[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")・[特別番組](../Page/特別番組.md "wikilink")である。[司会](../Page/司会.md "wikilink")を務める[タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")である。[ステレオ放送](../Page/ステレオ放送.md "wikilink")、[文字多重放送](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")が実施された。正式な番組タイトルは『**FNSサイエンススペシャル タモリの未来予測TV**』である。通称は「**未来予測TV**」。
 
-大好評につき、[2004年](../Page/2004年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")（[土曜日](../Page/土曜日.md "wikilink")）の21:00 - 23:24（JST）には『[プレミアムステージ](https://ja.wikipedia.org/wiki/土曜プレミアム "wikilink")』内にて[ゴールデンタイム](https://ja.wikipedia.org/wiki/ゴールデンタイム "wikilink")に進出し[特別番組](https://ja.wikipedia.org/wiki/特別番組 "wikilink")が放送された。
+大好評につき、[2004年](../Page/2004年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")（[土曜日](../Page/土曜日.md "wikilink")）の21:00 - 23:24（JST）には『[プレミアムステージ](../Page/土曜プレミアム.md "wikilink")』内にて[ゴールデンタイム](https://ja.wikipedia.org/wiki/ゴールデンタイム "wikilink")に進出し[特別番組](../Page/特別番組.md "wikilink")が放送された。
 
 ## 概要
 
@@ -11,11 +11,11 @@
 
 4夜連続の[放送](../Page/放送.md "wikilink")で、これから先の[近未来](../Page/近未来.md "wikilink")の暮らしを[番組](../Page/番組.md "wikilink")独自に[VTR](https://ja.wikipedia.org/wiki/VTR "wikilink")形式にて紹介。[科学](../Page/科学.md "wikilink")的な[研究](../Page/研究.md "wikilink")成果を基に、近未来にどんなことが可能になるかを探る。「これを見ると、未来は暗くない。明るいのが分かる」。
 
-主な例としては、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")の[モーラー](https://ja.wikipedia.org/wiki/モーラー "wikilink")[博士](../Page/博士.md "wikilink")が開発中の[空](https://ja.wikipedia.org/wiki/空 "wikilink")飛ぶ[自動車](../Page/自動車.md "wikilink")や近[未来](../Page/未来.md "wikilink")の[スポーツ](../Page/スポーツ.md "wikilink")、[恋愛](../Page/恋愛.md "wikilink")、[医療](../Page/医療.md "wikilink")、[宇宙](../Page/宇宙.md "wikilink")[開発](https://ja.wikipedia.org/wiki/開発 "wikilink")などを再現をする。
+主な例としては、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")の[モーラー](../Page/モーラー.md "wikilink")[博士](../Page/博士.md "wikilink")が開発中の[空](../Page/空.md "wikilink")飛ぶ[自動車](../Page/自動車.md "wikilink")や近[未来](../Page/未来.md "wikilink")の[スポーツ](../Page/スポーツ.md "wikilink")、[恋愛](../Page/恋愛.md "wikilink")、[医療](../Page/医療.md "wikilink")、[宇宙](../Page/宇宙.md "wikilink")[開発](../Page/開発.md "wikilink")などを再現をする。
 
 [世界](../Page/世界.md "wikilink")中から集めてきた[未来](../Page/未来.md "wikilink")予測を紹介し、会長の[タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")を始めとする未来予測士の[稲垣吾郎](../Page/稲垣吾郎.md "wikilink")（[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")）らと未来について討論する番組である。
 
-他には、[SFでお馴染みの](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")[空](https://ja.wikipedia.org/wiki/空 "wikilink")飛ぶ[自動車](../Page/自動車.md "wikilink")。地上1000メートルの超高層[マンション](https://ja.wikipedia.org/wiki/マンション "wikilink")。高さ1000メートル、20万人が住めるというマンションの未来予測。翼を使わず、垂直に浮遊する自動車の未来予測。そして、[タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")と[山田五郎](../Page/山田五郎.md "wikilink")が大いに興味がある、多くの[男性](../Page/男性.md "wikilink")の悩みを解決で[ハゲ](../Page/ハゲ.md "wikilink")の未来予測する。
+他には、[SFでお馴染みの](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")[空](../Page/空.md "wikilink")飛ぶ[自動車](../Page/自動車.md "wikilink")。地上1000メートルの超高層[マンション](https://ja.wikipedia.org/wiki/マンション "wikilink")。高さ1000メートル、20万人が住めるというマンションの未来予測。翼を使わず、垂直に浮遊する自動車の未来予測。そして、[タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")と[山田五郎](../Page/山田五郎.md "wikilink")が大いに興味がある、多くの[男性](../Page/男性.md "wikilink")の悩みを解決で[ハゲ](../Page/ハゲ.md "wikilink")の未来予測する。
 
 ## 出演者
 
@@ -38,23 +38,23 @@
 ### ゲスト（スペシャルにて）
 
   - [山田五郎](../Page/山田五郎.md "wikilink")
-  - [香山リカ](https://ja.wikipedia.org/wiki/香山リカ_\(精神科医\) "wikilink")（[精神科医](https://ja.wikipedia.org/wiki/精神科医 "wikilink")）
-  - [サンプラザ中野](https://ja.wikipedia.org/wiki/サンプラザ中野くん "wikilink")
+  - [香山リカ](https://ja.wikipedia.org/wiki/香山リカ_\(精神科医\) "wikilink")（[精神科医](../Page/精神科医.md "wikilink")）
+  - [サンプラザ中野](../Page/サンプラザ中野くん.md "wikilink")
 
 ### ナレーション
 
-  - [奥田民義](https://ja.wikipedia.org/wiki/奥田民義 "wikilink")
+  - [奥田民義](../Page/奥田民義.md "wikilink")
 
 ## 放送日・放送時間
 
 ### 4夜連続放送
 
-  - [2003年](../Page/2003年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")（[月曜日](../Page/月曜日.md "wikilink")） - [2月27日](../Page/2月27日.md "wikilink")（[木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink")） 23:00 - 23:45（[JST](../Page/日本標準時.md "wikilink")）
+  - [2003年](../Page/2003年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")（[月曜日](../Page/月曜日.md "wikilink")） - [2月27日](../Page/2月27日.md "wikilink")（[木曜日](../Page/木曜日.md "wikilink")） 23:00 - 23:45（[JST](../Page/日本標準時.md "wikilink")）
 
 <!-- end list -->
 
   -
-    『[バラパラ](https://ja.wikipedia.org/wiki/バラパラ "wikilink")』枠内にて放送（通常より15分拡大）。
+    『[バラパラ](../Page/バラパラ.md "wikilink")』枠内にて放送（通常より15分拡大）。
 
 ### スペシャル放送
 
@@ -71,9 +71,9 @@
 
 <!-- end list -->
 
-  - [2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")（[月](https://ja.wikipedia.org/wiki/月 "wikilink")） - 第一夜 『未来の[東京](https://ja.wikipedia.org/wiki/東京 "wikilink")』
-  - [2月25日](../Page/2月25日.md "wikilink")（[火](../Page/火.md "wikilink")） - 第二夜 『未来の[人体](https://ja.wikipedia.org/wiki/人体 "wikilink")』
-  - [2月26日](https://ja.wikipedia.org/wiki/2月26日 "wikilink")（[水](../Page/水.md "wikilink")） - 第三夜 『未来の[恋愛](../Page/恋愛.md "wikilink")』
+  - [2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")（[月](https://ja.wikipedia.org/wiki/月 "wikilink")） - 第一夜 『未来の[東京](../Page/東京.md "wikilink")』
+  - [2月25日](../Page/2月25日.md "wikilink")（[火](../Page/火.md "wikilink")） - 第二夜 『未来の[人体](../Page/人体.md "wikilink")』
+  - [2月26日](../Page/2月26日.md "wikilink")（[水](../Page/水.md "wikilink")） - 第三夜 『未来の[恋愛](../Page/恋愛.md "wikilink")』
   - [2月27日](../Page/2月27日.md "wikilink")（[木](https://ja.wikipedia.org/wiki/木 "wikilink")） - 第四夜 『未来の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")』
 
 <!-- end list -->
@@ -88,15 +88,15 @@
 
 | 年度                                                      | 番組独自に考えた未来予測                                                                                                              |
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") | [マンモス](../Page/マンモス.md "wikilink")の[赤ちゃん](../Page/赤ちゃん.md "wikilink")が[誕生](https://ja.wikipedia.org/wiki/誕生 "wikilink")\! |
-| [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink") | 海上[マンション](https://ja.wikipedia.org/wiki/マンション "wikilink")が出現\!                                                            |
-| [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") | [マラソン](https://ja.wikipedia.org/wiki/マラソン "wikilink")の記録が1時間30分を切る\!                                                      |
+| [2005年](../Page/2005年.md "wikilink")                    | [マンモス](../Page/マンモス.md "wikilink")の[赤ちゃん](../Page/赤ちゃん.md "wikilink")が[誕生](https://ja.wikipedia.org/wiki/誕生 "wikilink")\! |
+| [2007年](../Page/2007年.md "wikilink")                    | 海上[マンション](https://ja.wikipedia.org/wiki/マンション "wikilink")が出現\!                                                            |
+| [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") | [マラソン](../Page/マラソン.md "wikilink")の記録が1時間30分を切る\!                                                                         |
 | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink") | [ハゲ](../Page/ハゲ.md "wikilink")がこの世からいなくなる\!                                                                               |
 | [2011年](../Page/2011年.md "wikilink")                    | いくら食べても太らなくなる\!                                                                                                           |
 | [2012年](../Page/2012年.md "wikilink")                    | [人類](../Page/人類.md "wikilink")が[ガンを克服する](../Page/悪性腫瘍.md "wikilink")\!                                                    |
 | [2014年](../Page/2014年.md "wikilink")                    | この世から[占い](../Page/占い.md "wikilink")がなくなる\!                                                                                |
-| [2015年](../Page/2015年.md "wikilink")                    | 空飛ぶ[自動車](../Page/自動車.md "wikilink")が飛び回るというのが[スタジオ](https://ja.wikipedia.org/wiki/スタジオ "wikilink")に、60分の1サイズの模型も登場\!      |
-| [2023年](../Page/2023年.md "wikilink")                    | [東京](https://ja.wikipedia.org/wiki/東京 "wikilink")に1000mマンション誕生\!                                                          |
+| [2015年](../Page/2015年.md "wikilink")                    | 空飛ぶ[自動車](../Page/自動車.md "wikilink")が飛び回るというのが[スタジオ](../Page/スタジオ.md "wikilink")に、60分の1サイズの模型も登場\!                         |
+| [2023年](../Page/2023年.md "wikilink")                    | [東京](../Page/東京.md "wikilink")に1000mマンション誕生\!                                                                             |
 | [2029年](../Page/2029年.md "wikilink")                    | 1泊2日の[宇宙旅行](../Page/宇宙旅行.md "wikilink")が100万円を切る\!                                                                        |
 | [2038年](../Page/2038年.md "wikilink")                    | [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")結成50周年\!                                                             |
 | [2043年](../Page/2043年.md "wikilink")                    | [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")が世界一の金持ち大国に\!                                                            |
@@ -105,17 +105,17 @@
 | [2060年](https://ja.wikipedia.org/wiki/2060年 "wikilink") | 『[笑っていいとも\!](https://ja.wikipedia.org/wiki/森田一義アワー_笑っていいとも! "wikilink")』生放送2万回放送突破\!                                      |
 | [2073年](https://ja.wikipedia.org/wiki/2073年 "wikilink") | [稲垣吾郎](../Page/稲垣吾郎.md "wikilink")（[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")）生誕100周年\!                        |
 | [2088年](https://ja.wikipedia.org/wiki/2088年 "wikilink") | SMAP100周年\!                                                                                                               |
-| [2095年](https://ja.wikipedia.org/wiki/2095年 "wikilink") | タモリ生誕150周年\!                                                                                                              |
+| [2095年](../Page/2095年.md "wikilink")                    | タモリ生誕150周年\!                                                                                                              |
 | [2100年](../Page/2100年.md "wikilink")                    | [札幌](../Page/札幌.md "wikilink")が[首都](../Page/首都.md "wikilink")に\!                                                          |
-| 21○○年                                                   | [火星人](../Page/火星人.md "wikilink")を[発見](https://ja.wikipedia.org/wiki/発見 "wikilink")\!                                      |
+| 21○○年                                                   | [火星人](../Page/火星人.md "wikilink")を[発見](../Page/発見.md "wikilink")\!                                                         |
 | 2420年                                                   | [人類](../Page/人類.md "wikilink")の[寿命](../Page/寿命.md "wikilink")が400歳になる\!                                                   |
 
 ## スタッフ
 
-  - ナレーション：[奥田民義](https://ja.wikipedia.org/wiki/奥田民義 "wikilink")
+  - ナレーション：[奥田民義](../Page/奥田民義.md "wikilink")
   - 企画：[浜野貴敏](https://ja.wikipedia.org/wiki/濱野貴敏 "wikilink")（フジテレビ）
-  - 構成：[武田浩](https://ja.wikipedia.org/wiki/武田浩 "wikilink")、[伊藤正宏](https://ja.wikipedia.org/wiki/伊藤正宏 "wikilink")
-  - VTR構成：[木村仁](https://ja.wikipedia.org/wiki/木村仁 "wikilink")
+  - 構成：[武田浩](../Page/武田浩.md "wikilink")、[伊藤正宏](../Page/伊藤正宏.md "wikilink")
+  - VTR構成：[木村仁](../Page/木村仁.md "wikilink")
   - ロケ技術：
       - 撮影：杉下光二
       - VE（ビデオエンジニア）：高橋圭介
@@ -128,7 +128,7 @@
       - デザイン：石森慎司
       - 美術製作：柴田慎一郎
       - 美術進行：西村貴則
-      - CG製作：川端孝（[日本エフェクトセンター](https://ja.wikipedia.org/wiki/日本エフェクトセンター "wikilink")）、マタンゴ小平、有働武史
+      - CG製作：川端孝（[日本エフェクトセンター](../Page/日本エフェクトセンター.md "wikilink")）、マタンゴ小平、有働武史
       - TK（タイムキーパー）：水野久美
       - 効果：大久保吉久
       - 編集：田中寛人
@@ -145,13 +145,13 @@
   - AD（アシスタントディレクター）：保科和美、吉村理恵、大場康正、岡晶子
   - ディレクター：佐久間務、関正和、角田誠二、木熊太郎、羽根井信英
   - 総合演出：[田中経一](https://ja.wikipedia.org/wiki/田中経一 "wikilink")
-  - プロデューサー：山田治宗、[鈴木ゆかり](https://ja.wikipedia.org/wiki/鈴木ゆかり "wikilink")
+  - プロデューサー：山田治宗、[鈴木ゆかり](../Page/鈴木ゆかり.md "wikilink")
   - リサーチ：T2ファージ、清宮正人
   - 美術協力：[フジアール](../Page/フジアール.md "wikilink")
-  - 技術協力：[八峯テレビ](https://ja.wikipedia.org/wiki/八峯テレビ "wikilink")、[オムニバスジャパン](https://ja.wikipedia.org/wiki/オムニバスジャパン "wikilink")
-  - 制作・企画協力：[田辺エージェンシー](../Page/田辺エージェンシー.md "wikilink")（タモリ）、[ジャニーズ事務所](https://ja.wikipedia.org/wiki/ジャニーズ事務所 "wikilink")（稲垣吾郎）
+  - 技術協力：[八峯テレビ](../Page/八峯テレビ.md "wikilink")、[オムニバスジャパン](https://ja.wikipedia.org/wiki/オムニバスジャパン "wikilink")
+  - 制作・企画協力：[田辺エージェンシー](../Page/田辺エージェンシー.md "wikilink")（タモリ）、[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")（稲垣吾郎）
   - 制作：フジテレビバラエティ制作センター
-  - 制作著作：[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、[テレコムスタッフ](https://ja.wikipedia.org/wiki/テレコムスタッフ "wikilink")
+  - 制作著作：[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、[テレコムスタッフ](../Page/テレコムスタッフ.md "wikilink")
 
 ## 外部リンク
 

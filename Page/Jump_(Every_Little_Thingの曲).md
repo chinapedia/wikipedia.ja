@@ -17,7 +17,7 @@
         [カネボウ](../Page/クラシエホールディングス.md "wikilink")「プロスタイル」TV-CFイメージソング
 2.  **jump (Cubismo Grafico Mix)**
       -
-        リミックス：[Cubismo Grafico](https://ja.wikipedia.org/wiki/CUBISMO_GRAFICO "wikilink")
+        リミックス：[Cubismo Grafico](../Page/CUBISMO_GRAFICO.md "wikilink")
         リミックスアルバム『[The Remixes III 〜Mix Rice Plantation〜](https://ja.wikipedia.org/wiki/The_Remixes_III_〜Mix_Rice_Plantation〜 "wikilink")』に収録されている「jump -\*cbsmgrfc obrigado mix-」とはミックスが若干異なる。
 3.  **jump (Instrumental)**
 
@@ -27,8 +27,8 @@
 
 <!-- end list -->
 
-  - 『[Many Pieces](https://ja.wikipedia.org/wiki/Many_Pieces "wikilink")』(ジャンピング・ミックス)
-  - 『[Every Best Single 2](https://ja.wikipedia.org/wiki/Every_Best_Single_2 "wikilink")』
+  - 『[Many Pieces](../Page/Many_Pieces.md "wikilink")』(ジャンピング・ミックス)
+  - 『[Every Best Single 2](../Page/Every_Best_Single_2.md "wikilink")』
   - 『[Every Best Single 〜COMPLETE〜](https://ja.wikipedia.org/wiki/Every_Best_Single_〜COMPLETE〜 "wikilink")』
   - 『[Every Cheering Songs](https://ja.wikipedia.org/wiki/Every_Cheering_Songs "wikilink")』
   - 『[Every Best Single 2 〜MORE COMPLETE〜](https://ja.wikipedia.org/wiki/Tabitabi+Every_Best_Single_2_〜MORE_COMPLETE〜 "wikilink")』

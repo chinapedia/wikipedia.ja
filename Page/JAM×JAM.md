@@ -1,14 +1,14 @@
 > この記事は[JAMJAM](https://ja.wikipedia.org/wiki/JAMJAM)から翻訳されています。
 
 
-**JAM×JAM**は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")10月より木曜日20時から21時50分放送の[ラジオ関西](../Page/ラジオ関西.md "wikilink")のワイド番組（[コンプレックス](https://ja.wikipedia.org/wiki/コンプレックス_\(番組形式\) "wikilink")）である。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月7日](../Page/4月7日.md "wikilink")より放送日が土曜日の19時から21時までになった。2010年4月より放送日が日曜日の22時から24時までになった。関西の他のNRN加盟局で放送されていない2つの番組を[箱番組](https://ja.wikipedia.org/wiki/箱番組 "wikilink")として内包しているのも特徴。
+**JAM×JAM**は、[2006年](../Page/2006年.md "wikilink")10月より木曜日20時から21時50分放送の[ラジオ関西](../Page/ラジオ関西.md "wikilink")のワイド番組（[コンプレックス](../Page/コンプレックス_\(番組形式\).md "wikilink")）である。[2007年](../Page/2007年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")より放送日が土曜日の19時から21時までになった。2010年4月より放送日が日曜日の22時から24時までになった。関西の他のNRN加盟局で放送されていない2つの番組を[箱番組](https://ja.wikipedia.org/wiki/箱番組 "wikilink")として内包しているのも特徴。
 
 ## レギュラーコーナー（タイムスケジュール）
 
 2006年10月～2007年3月まで
 
   - 20:00 オープニングトーク
-  - 20:15 「[キンキラKinKiワールド](https://ja.wikipedia.org/wiki/キンキラKinKiワールド "wikilink")」
+  - 20:15 「[キンキラKinKiワールド](../Page/キンキラKinKiワールド.md "wikilink")」
   - 20:45 メール、FAX、リクエスト紹介
   - 21:00 「[STOP THE SMAP増刊号](https://ja.wikipedia.org/wiki/STOP_THE_SMAP "wikilink")」
   - 21:30 メール、FAX、リクエスト紹介、ニュースJAM、エンディングの1曲
@@ -27,7 +27,7 @@
   - 19:00 JAM×JAM (ナビ1) ～今日のメニュー紹介～新曲を中心にお届け～メール紹介
   - 19:20 関西ジャニーズJr. もぎたて関ジュース
   - 19:35 JAM×JAM (ナビ2) ～メール、リクエスト紹介～ドラマ･映画･コンサートレポなど
-  - 20:00 「[タッキーの滝沢電波城](https://ja.wikipedia.org/wiki/タッキーの滝沢電波城 "wikilink")」
+  - 20:00 「[タッキーの滝沢電波城](../Page/タッキーの滝沢電波城.md "wikilink")」
   - 20:30 STOP THE SMAP増刊号
   - 21:00 また来週～！
 
@@ -50,7 +50,7 @@
 
 ## パーソナリティ
 
-  - [松本美香](https://ja.wikipedia.org/wiki/松本美香 "wikilink")
+  - [松本美香](../Page/松本美香.md "wikilink")
 
 ## 出来事
 

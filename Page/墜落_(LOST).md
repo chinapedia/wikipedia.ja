@@ -1,9 +1,9 @@
 > この記事は[ \(LOST\)](https://ja.wikipedia.org/wiki/_\(LOST\))から翻訳されています。
 
 
-『**墜落**』（ついらく、***Pilot Part1***）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")においての『[LOST](https://ja.wikipedia.org/wiki/LOST "wikilink")』シーズン1のエピソード1の題名である。監督は[J・J・エイブラムス](https://ja.wikipedia.org/wiki/J・J・エイブラムス "wikilink")。
+『**墜落**』（ついらく、***Pilot Part1***）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")においての『[LOST](https://ja.wikipedia.org/wiki/LOST "wikilink")』シーズン1のエピソード1の題名である。監督は[J・J・エイブラムス](../Page/J・J・エイブラムス.md "wikilink")。
 
-本国[アメリカでは](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[2004年](../Page/2004年.md "wikilink")[9月22日](../Page/9月22日.md "wikilink")に放送され、日本では[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月2日](../Page/10月2日.md "wikilink")（字幕版）と[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月9日](../Page/11月9日.md "wikilink")（吹替版）に放送された。
+本国[アメリカでは](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[2004年](../Page/2004年.md "wikilink")[9月22日](../Page/9月22日.md "wikilink")に放送され、日本では[2005年](../Page/2005年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")（字幕版）と[2005年](../Page/2005年.md "wikilink")[11月9日](../Page/11月9日.md "wikilink")（吹替版）に放送された。
 
 メインキャラクターは**ジャック**。
 

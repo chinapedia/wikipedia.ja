@@ -5,13 +5,13 @@
 
 [ASIC](../Page/ASIC.md "wikilink")開発や[プログラマブルロジックデバイス](../Page/プログラマブルロジックデバイス.md "wikilink")を用いた開発の際に利用する。
 
-1990年代以降、LSIの開発手法として[ハードウェア記述言語](https://ja.wikipedia.org/wiki/ハードウェア記述言語 "wikilink")による開発が盛んになり、開発効率の向上が求められた。 そこで、既存開発製品の回路を、機能ブロック単位で再利用可能な形にまとめ、他の製品でも利用可な部分はそれを流用する方法が用いられた。 更に、この再利用可能な機能ブロックは、その開発者だけでなく、他の開発者や他の会社との間でもやり取りが行われるようになり、 新しいビジネスモデルが発達した。 IPコアベンダは、LSIを開発するためのIPコアを提供し、LSI開発側はIPコアベンダに[使用料を支払う契約を結ぶのが一般的である](https://ja.wikipedia.org/wiki/ロイヤルティー "wikilink")。
+1990年代以降、LSIの開発手法として[ハードウェア記述言語](../Page/ハードウェア記述言語.md "wikilink")による開発が盛んになり、開発効率の向上が求められた。 そこで、既存開発製品の回路を、機能ブロック単位で再利用可能な形にまとめ、他の製品でも利用可な部分はそれを流用する方法が用いられた。 更に、この再利用可能な機能ブロックは、その開発者だけでなく、他の開発者や他の会社との間でもやり取りが行われるようになり、 新しいビジネスモデルが発達した。 IPコアベンダは、LSIを開発するためのIPコアを提供し、LSI開発側はIPコアベンダに[使用料を支払う契約を結ぶのが一般的である](../Page/ロイヤルティー.md "wikilink")。
 
 IPとは元々は知的財産という意味だが、半導体業界において回路情報は重要な技術製品であり、形のない商品としてIPと呼ばれるようになった。
 
 ## IPコアの形態での分類
 
-LSIの集積規模が飛躍的に向上したことを背景に、大規模なIPコアも開発されるようになった。 またプログラマブルロジックも、規模、速度ともに実用レベルに達すると、[FPGA](https://ja.wikipedia.org/wiki/FPGA "wikilink")をメインのターゲットにしたIPコアも登場した。
+LSIの集積規模が飛躍的に向上したことを背景に、大規模なIPコアも開発されるようになった。 またプログラマブルロジックも、規模、速度ともに実用レベルに達すると、[FPGA](../Page/FPGA.md "wikilink")をメインのターゲットにしたIPコアも登場した。
 
   - ハードマクロ
       -
@@ -26,7 +26,7 @@ LSIの集積規模が飛躍的に向上したことを背景に、大規模なIP
 <!-- end list -->
 
   - ソフトマクロ
-      - [RTLの形で提供されるもの](https://ja.wikipedia.org/wiki/レジスタ転送レベル "wikilink")。
+      - [RTLの形で提供されるもの](../Page/レジスタ転送レベル.md "wikilink")。
           -
             利用者の手元でターゲットのプロセス用に論理合成すればよく、半導体プロセス技術に依存しない。
             回路の構成がわかるため、トラブル発生時に解析が容易になる。
@@ -58,18 +58,18 @@ LSIの集積規模が飛躍的に向上したことを背景に、大規模なIP
 [デジタル回路](../Page/デジタル回路.md "wikilink")のIPコアが一般的であるが、[アナログ回路](../Page/アナログ回路.md "wikilink")のIPコアも存在する。
 
   - デジタル回路
-      - [CPU](../Page/CPU.md "wikilink")（[ソフトプロセッサ](https://ja.wikipedia.org/wiki/ソフトプロセッサ "wikilink")）、[DSP](https://ja.wikipedia.org/wiki/デジタルシグナルプロセッサ "wikilink")
-      - CPU周辺回路 （[タイマー](https://ja.wikipedia.org/wiki/タイマー "wikilink")、[DMA](../Page/Direct_Memory_Access.md "wikilink")、[割り込み制御](../Page/割り込み_\(コンピュータ\).md "wikilink")、他）
+      - [CPU](../Page/CPU.md "wikilink")（[ソフトプロセッサ](../Page/ソフトプロセッサ.md "wikilink")）、[DSP](../Page/デジタルシグナルプロセッサ.md "wikilink")
+      - CPU周辺回路 （[タイマー](../Page/タイマー.md "wikilink")、[DMA](../Page/Direct_Memory_Access.md "wikilink")、[割り込み制御](../Page/割り込み_\(コンピュータ\).md "wikilink")、他）
       - [メモリ](../Page/記憶装置.md "wikilink") （[フラッシュメモリ](../Page/フラッシュメモリ.md "wikilink")、[SRAM](../Page/Static_Random_Access_Memory.md "wikilink")、[DRAM](../Page/Dynamic_Random_Access_Memory.md "wikilink")、他）
           -
             基本的に半導体プロセス技術依存
             フルスクラッチのフルカスタム[ASIC](../Page/ASIC.md "wikilink")でのみ利用可能
-      - 通信I/F （[UART](../Page/UART.md "wikilink")、[SPI](https://ja.wikipedia.org/wiki/シリアル・ペリフェラル・インタフェース "wikilink")、[I²C](https://ja.wikipedia.org/wiki/I²C "wikilink")、[USB](../Page/ユニバーサル・シリアル・バス.md "wikilink")、[イーサネット](../Page/イーサネット.md "wikilink")、[ATM](../Page/Asynchronous_Transfer_Mode.md "wikilink")、[JTAG](https://ja.wikipedia.org/wiki/JTAG "wikilink")、他）
-      - バスI/F （[PCI](../Page/Peripheral_Component_Interconnect.md "wikilink")、[PCI Express](https://ja.wikipedia.org/wiki/PCI_Express "wikilink")、AHB、[ハードディスクドライブ](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink") I/F、各種メモリカードI/F、他）
+      - 通信I/F （[UART](../Page/UART.md "wikilink")、[SPI](../Page/シリアル・ペリフェラル・インタフェース.md "wikilink")、[I²C](https://ja.wikipedia.org/wiki/I²C "wikilink")、[USB](../Page/ユニバーサル・シリアル・バス.md "wikilink")、[イーサネット](../Page/イーサネット.md "wikilink")、[ATM](../Page/Asynchronous_Transfer_Mode.md "wikilink")、[JTAG](../Page/JTAG.md "wikilink")、他）
+      - バスI/F （[PCI](../Page/Peripheral_Component_Interconnect.md "wikilink")、[PCI Express](../Page/PCI_Express.md "wikilink")、AHB、[ハードディスクドライブ](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink") I/F、各種メモリカードI/F、他）
       - 基本算術演算 （[浮動小数点演算](../Page/浮動小数点数.md "wikilink")、FFT、他）
-      - [暗号](../Page/暗号.md "wikilink")化/復号 （[AES](../Page/Advanced_Encryption_Standard.md "wikilink")、[DES](../Page/Data_Encryption_Standard.md "wikilink")、[RSA](../Page/RSA暗号.md "wikilink")、[RC5](https://ja.wikipedia.org/wiki/RC5 "wikilink")、[SHA-1](https://ja.wikipedia.org/wiki/SHA-1 "wikilink")、[MD5](../Page/MD5.md "wikilink")、[TLS/SSL](../Page/Transport_Layer_Security.md "wikilink")、他）
+      - [暗号](../Page/暗号.md "wikilink")化/復号 （[AES](../Page/Advanced_Encryption_Standard.md "wikilink")、[DES](../Page/Data_Encryption_Standard.md "wikilink")、[RSA](../Page/RSA暗号.md "wikilink")、[RC5](../Page/RC5.md "wikilink")、[SHA-1](https://ja.wikipedia.org/wiki/SHA-1 "wikilink")、[MD5](../Page/MD5.md "wikilink")、[TLS/SSL](../Page/Transport_Layer_Security.md "wikilink")、他）
       - 画像処理 （静止画[CODEC](../Page/コーデック.md "wikilink")（[JPEG](../Page/JPEG.md "wikilink")、他）、動画CODEC （[MPEG](../Page/Moving_Picture_Experts_Group.md "wikilink")）、画像認識、他）
-      - 音声処理 （音声CODEC（[MP3](../Page/MP3.md "wikilink")、[AAC](../Page/AAC.md "wikilink")、[μ-law](https://ja.wikipedia.org/wiki/G.711 "wikilink")、A-law）、音声合成、他）
+      - 音声処理 （音声CODEC（[MP3](../Page/MP3.md "wikilink")、[AAC](../Page/AAC.md "wikilink")、[μ-law](../Page/G.711.md "wikilink")、A-law）、音声合成、他）
 
 <!-- end list -->
 
@@ -78,8 +78,8 @@ LSIの集積規模が飛躍的に向上したことを背景に、大規模なIP
         基本的に半導体プロセス技術依存
     <!-- end list -->
       - [AD](../Page/アナログ-デジタル変換回路.md "wikilink")、[DA変換](../Page/デジタル-アナログ変換回路.md "wikilink")
-      - [オペアンプ](https://ja.wikipedia.org/wiki/オペアンプ "wikilink")
-      - [PLL](https://ja.wikipedia.org/wiki/位相同期回路 "wikilink")、[クロック](../Page/クロック.md "wikilink")、タイミング
+      - [オペアンプ](../Page/オペアンプ.md "wikilink")
+      - [PLL](../Page/位相同期回路.md "wikilink")、[クロック](../Page/クロック.md "wikilink")、タイミング
       - 電源
       - 大電力ドライバ （モータドライバ）
       - センサ （加速度、圧力、光/画像、温度、磁気、電流/電圧、他）
@@ -87,7 +87,7 @@ LSIの集積規模が飛躍的に向上したことを背景に、大規模なIP
 ## 主な用途
 
   - [ASIC](../Page/ASIC.md "wikilink")
-  - [FPGA](https://ja.wikipedia.org/wiki/FPGA "wikilink")や[CPLD](https://ja.wikipedia.org/wiki/CPLD "wikilink")などのプログラマブルロジックデバイス
+  - [FPGA](../Page/FPGA.md "wikilink")や[CPLD](../Page/CPLD.md "wikilink")などのプログラマブルロジックデバイス
 
 ## 関連項目
 

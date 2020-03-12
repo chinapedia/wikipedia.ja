@@ -1,13 +1,13 @@
 > この記事は[W \(\)](https://ja.wikipedia.org/wiki/W_\(\))から翻訳されています。
 
 
-『**W**』（ダブリュー）は、[1982年](../Page/1982年.md "wikilink")にリリースされた、ロックバンド[ARBの](https://ja.wikipedia.org/wiki/ARB_\(バンド\) "wikilink")5枚目のアルバムである。
+『**W**』（ダブリュー）は、[1982年](../Page/1982年.md "wikilink")にリリースされた、ロックバンド[ARBの](../Page/ARB_\(バンド\).md "wikilink")5枚目のアルバムである。
 
 ## 収録曲
 
 1.  **Whiskey\&Vodka**
       -
-        （作詞：[石橋凌](https://ja.wikipedia.org/wiki/石橋凌 "wikilink")　作曲：[田中一郎](https://ja.wikipedia.org/wiki/田中一郎_\(ミュージシャン\) "wikilink")　編曲：ARB）
+        （作詞：[石橋凌](../Page/石橋凌.md "wikilink")　作曲：[田中一郎](../Page/田中一郎_\(ミュージシャン\).md "wikilink")　編曲：ARB）
 2.  **ユニオン・ロッカー**
       -
         （作詞：石橋凌　作曲：田中一郎　編曲：ARB）

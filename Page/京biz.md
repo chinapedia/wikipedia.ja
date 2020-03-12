@@ -1,7 +1,7 @@
 > この記事は[biz](https://ja.wikipedia.org/wiki/biz)から翻訳されています。
 
 
-『**京biz**』（きょうビズ）は、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")まで[KBS京都テレビで放送されていた](../Page/京都放送.md "wikilink")[経済](../Page/経済.md "wikilink")関連の[報道番組](../Page/報道番組.md "wikilink")。放送時間は毎週[火曜](../Page/火曜日.md "wikilink") 21:25 - 21:55、[再放送](https://ja.wikipedia.org/wiki/再放送 "wikilink")は毎週[日曜](../Page/日曜日.md "wikilink") 7:30 - 8:00。
+『**京biz**』（きょうビズ）は、[2007年](../Page/2007年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")まで[KBS京都テレビで放送されていた](../Page/京都放送.md "wikilink")[経済](../Page/経済.md "wikilink")関連の[報道番組](../Page/報道番組.md "wikilink")。放送時間は毎週[火曜](../Page/火曜日.md "wikilink") 21:25 - 21:55、[再放送](../Page/再放送.md "wikilink")は毎週[日曜](../Page/日曜日.md "wikilink") 7:30 - 8:00。
 
 ## 内容
 
@@ -11,7 +11,7 @@
 
 ## 出演者
 
-  - [竹内弘一](https://ja.wikipedia.org/wiki/竹内弘一 "wikilink")（KBS京都アナウンサー）
+  - [竹内弘一](../Page/竹内弘一.md "wikilink")（KBS京都アナウンサー）
   - [東奈緒美](https://ja.wikipedia.org/wiki/東奈緒美 "wikilink")（タレント） - アシスタントを担当。
   - ご意見番 - 京都の経済界から1人がご意見番として出演。
 
@@ -29,8 +29,8 @@
 
 ## 関連項目
 
-  - [京bizW](https://ja.wikipedia.org/wiki/京bizW "wikilink") - 2008年4月4日から2011年3月25日まで放送されていた後継番組。メインキャスターは[池坊美佳](https://ja.wikipedia.org/wiki/池坊美佳 "wikilink")。
-  - [京bizS](https://ja.wikipedia.org/wiki/京bizS "wikilink") - 2011年4月1日から2016年3月25日まで放送されていた後継番組。メインキャスターは竹内と[遠藤奈美](https://ja.wikipedia.org/wiki/遠藤奈美 "wikilink")。
+  - [京bizW](https://ja.wikipedia.org/wiki/京bizW "wikilink") - 2008年4月4日から2011年3月25日まで放送されていた後継番組。メインキャスターは[池坊美佳](../Page/池坊美佳.md "wikilink")。
+  - [京bizS](https://ja.wikipedia.org/wiki/京bizS "wikilink") - 2011年4月1日から2016年3月25日まで放送されていた後継番組。メインキャスターは竹内と[遠藤奈美](../Page/遠藤奈美.md "wikilink")。
   - [京bizX](https://ja.wikipedia.org/wiki/京bizX "wikilink") - 2016年4月1日から放送されている後継番組。メインキャスターは竹内と遠藤。
 
 ## 外部リンク

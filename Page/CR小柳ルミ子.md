@@ -1,13 +1,13 @@
 > この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
 
 
-**CR小柳ルミ子**（シーアールこやなぎルミこ、機種名「小柳ルミ子CYBER SPACEルミチャンネル」）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")9月に[ソフィアが開発し](https://ja.wikipedia.org/wiki/ソフィア_\(パチンコ\) "wikilink")、[西陣が発売した](https://ja.wikipedia.org/wiki/西陣_\(企業\) "wikilink")[CR機](https://ja.wikipedia.org/wiki/CR機 "wikilink")[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")。歌手、[小柳ルミ子](https://ja.wikipedia.org/wiki/小柳ルミ子 "wikilink")とのタイアップ機。
+**CR小柳ルミ子**（シーアールこやなぎルミこ、機種名「小柳ルミ子CYBER SPACEルミチャンネル」）は、[2006年](../Page/2006年.md "wikilink")9月に[ソフィアが開発し](../Page/ソフィア_\(パチンコ\).md "wikilink")、[西陣が発売した](../Page/西陣_\(企業\).md "wikilink")[CR機](../Page/CR機.md "wikilink")[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")。歌手、[小柳ルミ子](../Page/小柳ルミ子.md "wikilink")とのタイアップ機。
 
 ## 特徴
 
-  - 突然[確率変動](https://ja.wikipedia.org/wiki/確率変動 "wikilink")タイプ（GS、GLを除く）であり、「サイバーツアーモード」と呼ばれる。
+  - 突然[確率変動](../Page/確率変動.md "wikilink")タイプ（GS、GLを除く）であり、「サイバーツアーモード」と呼ばれる。
   - 役物として「ルミちゃん人形」を搭載。またファイバースコープを使用したバラの花を模した装飾を実装。
-  - リーチ中の一部、大当たり中は歌（「[わたしの城下町](https://ja.wikipedia.org/wiki/わたしの城下町 "wikilink")」、「[瀬戸の花嫁](https://ja.wikipedia.org/wiki/瀬戸の花嫁 "wikilink")」、「[お久しぶりね](https://ja.wikipedia.org/wiki/お久しぶりね "wikilink")」、「[今さらジロー](https://ja.wikipedia.org/wiki/今さらジロー "wikilink")」、「BLUE\&SKY」）が流れる。大当たり中のBGMは曲選択機能があり、連荘するほど選択曲が増える（GLを除く）。7図柄当選時は、歌にあわせて「ルミちゃん人形」が動作する。
+  - リーチ中の一部、大当たり中は歌（「[わたしの城下町](../Page/わたしの城下町.md "wikilink")」、「[瀬戸の花嫁](../Page/瀬戸の花嫁.md "wikilink")」、「[お久しぶりね](../Page/お久しぶりね.md "wikilink")」、「[今さらジロー](../Page/今さらジロー.md "wikilink")」、「BLUE\&SKY」）が流れる。大当たり中のBGMは曲選択機能があり、連荘するほど選択曲が増える（GLを除く）。7図柄当選時は、歌にあわせて「ルミちゃん人形」が動作する。
   - 大当たり中に流れる「BLUE\&SKY」（作詞：卯月元、作曲：北村仁志）は当機用に製作された曲である。当曲の音源は販促、景品用CDとして存在するが、市販はされていない。購入はネット販売で可能。
   - 変則6ライン機で、タテ、ヨコのゾロ目でもリーチとなる。
   - 大当たり決定後、「お久しぶりね」の曲にあわせて確率変動に昇格する場合もある。ルミちゃん人形が歌にあわせて顔と手を動かせば昇格確定。
@@ -87,7 +87,7 @@
 
 ## 登場人物
 
-  - **ルミコ・レプリカX号** 西暦2241年、[ソフィア社が](https://ja.wikipedia.org/wiki/ソフィア_\(パチンコ\) "wikilink")「小柳ルミ子」のデータを元に開発したエンターテインメント・アンドロイド（という設定）。群れで現れることもある。
+  - **ルミコ・レプリカX号** 西暦2241年、[ソフィア社が](../Page/ソフィア_\(パチンコ\).md "wikilink")「小柳ルミ子」のデータを元に開発したエンターテインメント・アンドロイド（という設定）。群れで現れることもある。
 
 ## 外部リンク
 

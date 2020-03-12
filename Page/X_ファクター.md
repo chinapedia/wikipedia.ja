@@ -1,9 +1,9 @@
 > この記事は[X ](https://ja.wikipedia.org/wiki/X_)から翻訳されています。
 
 
-『**X ファクター**』(**The X Factor**)は、[アイアン・メイデン](https://ja.wikipedia.org/wiki/アイアン・メイデン "wikilink")の10枚目のスタジオアルバム。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[10月25日](../Page/10月25日.md "wikilink")に発売された。
+『**X ファクター**』(**The X Factor**)は、[アイアン・メイデン](../Page/アイアン・メイデン.md "wikilink")の10枚目のスタジオアルバム。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[10月25日](../Page/10月25日.md "wikilink")に発売された。
 
-本作からブルース・ディッキンソン(vo)の後任としてブレイズ・ベイリー(vo)が参入。制作当時はハリスが[プログレッシヴ・ロック](https://ja.wikipedia.org/wiki/プログレッシヴ・ロック "wikilink")に傾倒していた影響で、複雑な展開や長尺でドラマチックさを強調した楽曲が多い。「マン・オン・ジ・エッジ」の歌詞は、映画『[フォーリング・ダウン](https://ja.wikipedia.org/wiki/フォーリング・ダウン "wikilink")』にインスピレーションを得て作った、とハリスは公言している。
+本作からブルース・ディッキンソン(vo)の後任としてブレイズ・ベイリー(vo)が参入。制作当時はハリスが[プログレッシヴ・ロック](https://ja.wikipedia.org/wiki/プログレッシヴ・ロック "wikilink")に傾倒していた影響で、複雑な展開や長尺でドラマチックさを強調した楽曲が多い。「マン・オン・ジ・エッジ」の歌詞は、映画『[フォーリング・ダウン](../Page/フォーリング・ダウン.md "wikilink")』にインスピレーションを得て作った、とハリスは公言している。
 
 ## 収録曲
 
@@ -27,10 +27,10 @@
 
 ## 参加ミュージシャン
 
-  - [スティーヴ・ハリス](https://ja.wikipedia.org/wiki/スティーヴ・ハリス "wikilink") Steve Harris - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、[ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")
+  - [スティーヴ・ハリス](../Page/スティーヴ・ハリス.md "wikilink") Steve Harris - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")
   - [ブレイズ・ベイリー](https://ja.wikipedia.org/wiki/ブレイズ・ベイリー "wikilink") Blaze Bayley - [リード・ヴォーカル](https://ja.wikipedia.org/wiki/リード・ヴォーカル "wikilink")
   - [デイヴ・マーレイ](../Page/デイヴ・マーレイ.md "wikilink") Dave Murray - [ギター](../Page/ギター.md "wikilink")
   - [ヤニック・ガーズ](../Page/ヤニック・ガーズ.md "wikilink") Janick gers - [ギター](../Page/ギター.md "wikilink")
-  - [ニコ・マクブレイン](https://ja.wikipedia.org/wiki/ニコ・マクブレイン "wikilink") Nicko McBrain - [ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")
+  - [ニコ・マクブレイン](../Page/ニコ・マクブレイン.md "wikilink") Nicko McBrain - [ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")
 
 [Category:アイアン・メイデンのアルバム](https://ja.wikipedia.org/wiki/Category:アイアン・メイデンのアルバム "wikilink") [Category:EMIのアルバム](https://ja.wikipedia.org/wiki/Category:EMIのアルバム "wikilink") [Category:サンクチュアリ・レコードのアルバム](https://ja.wikipedia.org/wiki/Category:サンクチュアリ・レコードのアルバム "wikilink") [Category:1995年のアルバム](https://ja.wikipedia.org/wiki/Category:1995年のアルバム "wikilink")

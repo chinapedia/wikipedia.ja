@@ -5,16 +5,16 @@
 
 ## 解説
 
-前作「[FOREVER YOURS](../Page/FOREVER_YOURS.md "wikilink")」から3ヶ月振りのリリースとなる。PVには、タレントの[坂本三佳](https://ja.wikipedia.org/wiki/坂本三佳 "wikilink")が出演している。
+前作「[FOREVER YOURS](../Page/FOREVER_YOURS.md "wikilink")」から3ヶ月振りのリリースとなる。PVには、タレントの[坂本三佳](../Page/坂本三佳.md "wikilink")が出演している。
 
-2005年に発売された『[ACOUSTIC:LATTE](https://ja.wikipedia.org/wiki/ACOUSTIC:LATTE "wikilink")』にアコースティックにアレンジして収録されたものにオリジナルとは別のビデオクリップが存在する。
+2005年に発売された『[ACOUSTIC:LATTE](../Page/ACOUSTIC:LATTE.md "wikilink")』にアコースティックにアレンジして収録されたものにオリジナルとは別のビデオクリップが存在する。
 
 ## 収録曲
 
 1.  **NECESSARY**
       -
         （作詞・作曲・編曲：[五十嵐充](../Page/五十嵐充.md "wikilink")）
-        [トヨタ](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")「[NEW HILUX SURF](https://ja.wikipedia.org/wiki/トヨタ・ハイラックスサーフ "wikilink")」[CFソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
+        [トヨタ](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")「[NEW HILUX SURF](../Page/トヨタ・ハイラックスサーフ.md "wikilink")」[CFソング](../Page/コマーシャルソング.md "wikilink")
 2.  **NECESSARY (D'AMBROSIO CLUB MIX)**
       -
         リミックス：Bobby D'Ambrosio (Def Mix Productions)
@@ -26,8 +26,8 @@
 
 <!-- end list -->
 
-  - 『[Every Best Single +3](https://ja.wikipedia.org/wiki/Every_Best_Single_+3 "wikilink")』
-  - 『[ACOUSTIC:LATTE](https://ja.wikipedia.org/wiki/ACOUSTIC:LATTE "wikilink")』※アレンジ、新録音して収録。
+  - 『[Every Best Single +3](../Page/Every_Best_Single_+3.md "wikilink")』
+  - 『[ACOUSTIC:LATTE](../Page/ACOUSTIC:LATTE.md "wikilink")』※アレンジ、新録音して収録。
   - 『[Every Best Single 〜COMPLETE〜](https://ja.wikipedia.org/wiki/Every_Best_Single_〜COMPLETE〜 "wikilink")』
   - 『[Every Best Single 2 ～MORE COMPLETE～](https://ja.wikipedia.org/wiki/Tabitabi+Every_Best_Single_2_〜MORE_COMPLETE〜#Every_Best_Single_2_〜MORE_COMPLETE〜 "wikilink")』
 

@@ -1,13 +1,13 @@
 > この記事は[THE ](https://ja.wikipedia.org/wiki/THE_)から翻訳されています。
 
 
-『**THE ビリヤード**』（ザ・ビリヤード）は、[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")より発売されている[SIMPLEシリーズ](../Page/SIMPLEシリーズ.md "wikilink")の3D[ビリヤード](../Page/ビリヤード.md "wikilink")ゲーム。開発は[アジェンダ](https://ja.wikipedia.org/wiki/アジェンダ_\(企業\) "wikilink")。
+『**THE ビリヤード**』（ザ・ビリヤード）は、[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")より発売されている[SIMPLEシリーズ](../Page/SIMPLEシリーズ.md "wikilink")の3D[ビリヤード](../Page/ビリヤード.md "wikilink")ゲーム。開発は[アジェンダ](../Page/アジェンダ_\(企業\).md "wikilink")。
 
 ## 概要
 
-[アジェンダより発売された](https://ja.wikipedia.org/wiki/アジェンダ_\(企業\) "wikilink")[PlayStation用ソフト](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")『キャロムショット2』（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")）をベースに、SIMPLE1500シリーズVol.2としてリリース。当初は「ナインボール」、「エイトボール」、「ローテーション」の3種類のみだったが、『THE ビリヤード2』よりゲームの種類が6種に増加した。
+[アジェンダより発売された](../Page/アジェンダ_\(企業\).md "wikilink")[PlayStation用ソフト](../Page/PlayStation_\(ゲーム機\).md "wikilink")『キャロムショット2』（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")）をベースに、SIMPLE1500シリーズVol.2としてリリース。当初は「ナインボール」、「エイトボール」、「ローテーション」の3種類のみだったが、『THE ビリヤード2』よりゲームの種類が6種に増加した。
 
-なお、PlayStationで発売された『THE ビリヤード』は[PlayStation Awards](https://ja.wikipedia.org/wiki/PlayStation_Awards "wikilink")2000において累計出荷枚数50万枚以上100万枚未満のタイトルに対して贈られる「ゴールドプライズ」を受賞した隠れたヒット作品となっている。
+なお、PlayStationで発売された『THE ビリヤード』は[PlayStation Awards](../Page/PlayStation_Awards.md "wikilink")2000において累計出荷枚数50万枚以上100万枚未満のタイトルに対して贈られる「ゴールドプライズ」を受賞した隠れたヒット作品となっている。
 
 ## 収録ゲーム
 

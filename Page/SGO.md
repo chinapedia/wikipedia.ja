@@ -1,7 +1,7 @@
 > この記事は[SGO](https://ja.wikipedia.org/wiki/SGO)から翻訳されています。
 
 
-**SGO**（またはS.G.O、エスジーオー）は、[韓国のCelestial](https://ja.wikipedia.org/wiki/大韓民国 "wikilink") Digital Entertainment社が開発した[MMORPG](../Page/MMORPG.md "wikilink")。
+**SGO**（またはS.G.O、エスジーオー）は、[韓国のCelestial](../Page/大韓民国.md "wikilink") Digital Entertainment社が開発した[MMORPG](../Page/MMORPG.md "wikilink")。
 
 [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")ではSeedC株式会社（当時ブロードゲーム株式会社）が運営し、2004年12月下旬より『スターゲートオンライン（仮）』としてオープンβテストを開始。 約3ヶ月のβテスト期間を経て、2004年3月30日に正式サービス（アイテム課金制）が開始された。
 

@@ -14,15 +14,15 @@
 | その後:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | モットー:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 
-**ジョン・L・ホール** (, FFG-32) は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")のミサイル[フリゲート](../Page/フリゲート.md "wikilink")。[オリバー・ハザード・ペリー級ミサイルフリゲート](https://ja.wikipedia.org/wiki/オリバー・ハザード・ペリー級ミサイルフリゲート "wikilink")の24番艦。艦名は[ジョン・レスリー・ホール](https://ja.wikipedia.org/wiki/ジョン・レスリー・ホール "wikilink")[提督](https://ja.wikipedia.org/wiki/提督 "wikilink")(1891 - 1978)に因む。
+**ジョン・L・ホール** (, FFG-32) は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")のミサイル[フリゲート](../Page/フリゲート.md "wikilink")。[オリバー・ハザード・ペリー級ミサイルフリゲート](../Page/オリバー・ハザード・ペリー級ミサイルフリゲート.md "wikilink")の24番艦。艦名は[ジョン・レスリー・ホール](https://ja.wikipedia.org/wiki/ジョン・レスリー・ホール "wikilink")[提督](https://ja.wikipedia.org/wiki/提督 "wikilink")(1891 - 1978)に因む。
 
 ## 艦歴
 
 ジョン・L・ホールは1978年1月23日にFY78プログラムの一部として[メイン州](../Page/メイン州.md "wikilink")の[バス鉄工所](https://ja.wikipedia.org/wiki/バス鉄工所 "wikilink")に建造発注され、1981年1月5日に起工する。1981年7月24日に進水し、1982年6月26日に就役した。なお、就役当初は[ネームシップ](https://ja.wikipedia.org/wiki/ネームシップ "wikilink")同様の短船体として建造されたが、のちに船体延長改修を受け、右記のような諸元を備えるようになった。
 
-2005年8月、ジョン・L・ホールは[ハリケーン・カトリーナ](https://ja.wikipedia.org/wiki/ハリケーン・カトリーナ "wikilink")を避け母港の[ミシシッピ州](https://ja.wikipedia.org/wiki/ミシシッピ州 "wikilink")[パスカグーラ](https://ja.wikipedia.org/wiki/パスカグーラ "wikilink")から姉妹艦の[スティーブン・W・グローブス](../Page/スティーブン・W・グローブス_\(フリゲート\).md "wikilink") (*USS Stephen W. Groves, FFG-29*) と共に出港した。[パスカグーラ海軍基地](https://ja.wikipedia.org/wiki/パスカグーラ海軍基地 "wikilink")はハリケーンによって甚大な被害を受けた。
+2005年8月、ジョン・L・ホールは[ハリケーン・カトリーナ](../Page/ハリケーン・カトリーナ.md "wikilink")を避け母港の[ミシシッピ州](https://ja.wikipedia.org/wiki/ミシシッピ州 "wikilink")[パスカグーラ](../Page/パスカグーラ.md "wikilink")から姉妹艦の[スティーブン・W・グローブス](../Page/スティーブン・W・グローブス_\(フリゲート\).md "wikilink") (*USS Stephen W. Groves, FFG-29*) と共に出港した。[パスカグーラ海軍基地](https://ja.wikipedia.org/wiki/パスカグーラ海軍基地 "wikilink")はハリケーンによって甚大な被害を受けた。
 
-2005年6月30日時点で、ジョン・L・ホールはデヴィッド・A・ガイスラー艦長の指揮下、第14駆逐戦隊に所属し、[ミシシッピ州](https://ja.wikipedia.org/wiki/ミシシッピ州 "wikilink")[パスカグーラ](https://ja.wikipedia.org/wiki/パスカグーラ "wikilink")を母港としていた。
+2005年6月30日時点で、ジョン・L・ホールはデヴィッド・A・ガイスラー艦長の指揮下、第14駆逐戦隊に所属し、[ミシシッピ州](https://ja.wikipedia.org/wiki/ミシシッピ州 "wikilink")[パスカグーラ](../Page/パスカグーラ.md "wikilink")を母港としていた。
 
 2012年3月9日に退役した。
 

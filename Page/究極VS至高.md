@@ -1,7 +1,7 @@
 > この記事は[VS](https://ja.wikipedia.org/wiki/VS)から翻訳されています。
 
 
-**究極VS至高**（きゅうきょくVSしこう）は、[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")『[美味しんぼ](https://ja.wikipedia.org/wiki/美味しんぼ "wikilink")』作中で、東西新聞[社員](../Page/社員.md "wikilink")の[山岡士郎](https://ja.wikipedia.org/wiki/山岡士郎 "wikilink")・[栗田ゆう子](https://ja.wikipedia.org/wiki/栗田ゆう子 "wikilink")などが提供する**究極のメニュー**と、帝都新聞と美食倶楽部を主宰する海原雄山が提供する**至高のメニュー**で繰り広げられる戦い。
+**究極VS至高**（きゅうきょくVSしこう）は、[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")『[美味しんぼ](../Page/美味しんぼ.md "wikilink")』作中で、東西新聞[社員](../Page/社員.md "wikilink")の[山岡士郎](../Page/山岡士郎.md "wikilink")・[栗田ゆう子](../Page/栗田ゆう子.md "wikilink")などが提供する**究極のメニュー**と、帝都新聞と美食倶楽部を主宰する海原雄山が提供する**至高のメニュー**で繰り広げられる戦い。
 
 ## 概要
 
@@ -26,7 +26,7 @@
 <td><p>1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/#究極VS至高" title="wikilink">究極VS至高</a></p></td>
 <td><p><a href="../Page/卵.md" title="wikilink">卵</a>の<a href="../Page/オードブル.md" title="wikilink">前菜</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ゆで卵" title="wikilink">ゆで卵</a><a href="../Page/セイヨウショウロ.md" title="wikilink">トリュフ</a><a href="../Page/ソース_(調味料).md" title="wikilink">ソース</a></p></td>
+<td><p><a href="../Page/ゆで卵.md" title="wikilink">ゆで卵</a><a href="../Page/セイヨウショウロ.md" title="wikilink">トリュフ</a><a href="../Page/ソース_(調味料).md" title="wikilink">ソース</a></p></td>
 <td><p>引き分け</p></td>
 <td><p>卵の黄身の味噌漬け</p></td>
 </tr>
@@ -55,7 +55,7 @@
 <td><p>蒸し餃子</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/黒砂糖" title="wikilink">黒砂糖</a>餃子</p></td>
+<td><p><a href="../Page/黒砂糖.md" title="wikilink">黒砂糖</a>餃子</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -65,10 +65,10 @@
 <tr class="even">
 <td><p>4</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/#エイと鮫" title="wikilink">エイと鮫</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エイ" title="wikilink">エイ</a>料理</p></td>
+<td><p><a href="../Page/エイ.md" title="wikilink">エイ</a>料理</p></td>
 <td><p>エイの<a href="https://ja.wikipedia.org/wiki/えんがわ" title="wikilink">縁側の</a><a href="../Page/バター.md" title="wikilink">バター</a>ソース</p></td>
 <td><p>引き分け</p></td>
-<td><p>エイの<a href="https://ja.wikipedia.org/wiki/サラダドレッシング" title="wikilink">ドレッシング和え</a></p></td>
+<td><p>エイの<a href="../Page/サラダドレッシング.md" title="wikilink">ドレッシング和え</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
@@ -76,10 +76,10 @@
 <td><p>|生肉勝負</p></td>
 <td><p>]]</p></td>
 <td><p>生肉料理</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/タルタルステーキ" title="wikilink">タルタルステーキ</a></p></td>
+<td><p><a href="../Page/タルタルステーキ.md" title="wikilink">タルタルステーキ</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/馬刺し" title="wikilink">馬刺し</a></p></td>
+<td><p><a href="../Page/馬刺し.md" title="wikilink">馬刺し</a></p></td>
 <td><p><a href="../Page/カルパッチョ.md" title="wikilink">カルパッチョ</a></p></td>
 <td></td>
 <td></td>
@@ -140,13 +140,13 @@
 <td><p>|豆腐勝負</p></td>
 <td><p>]]</p></td>
 <td><p><a href="../Page/豆腐.md" title="wikilink">豆腐</a>料理</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ざる" title="wikilink">ザル豆腐</a></p></td>
+<td><p><a href="../Page/ざる.md" title="wikilink">ザル豆腐</a></p></td>
 </tr>
 <tr class="even">
 <td><p>9</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/#カツオのたたき" title="wikilink">カツオのたたき</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/鰹のタタキ" title="wikilink">鰹のタタキ</a></p></td>
-<td><p>拍子木形<a href="../Page/カツオ.md" title="wikilink">カツオ</a>の<a href="https://ja.wikipedia.org/wiki/たたき" title="wikilink">たたき</a></p></td>
+<td><p><a href="../Page/鰹のタタキ.md" title="wikilink">鰹のタタキ</a></p></td>
+<td><p>拍子木形<a href="../Page/カツオ.md" title="wikilink">カツオ</a>の<a href="../Page/たたき.md" title="wikilink">たたき</a></p></td>
 <td><p>至高</p></td>
 <td><p>洋風カツオのたたき</p></td>
 </tr>
@@ -185,10 +185,10 @@
 <tr class="odd">
 <td><p>13</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/#究極の披露宴" title="wikilink">究極の披露宴</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/結婚披露宴" title="wikilink">披露宴料理</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山野草" title="wikilink">野草料理</a></p></td>
+<td><p><a href="../Page/結婚披露宴.md" title="wikilink">披露宴料理</a></p></td>
+<td><p><a href="../Page/山野草.md" title="wikilink">野草料理</a></p></td>
 <td><p>引き分け</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/惣菜" title="wikilink">お惣菜料理</a></p></td>
+<td><p><a href="../Page/惣菜.md" title="wikilink">お惣菜料理</a></p></td>
 </tr>
 <tr class="even">
 <td><p>14</p></td>
@@ -199,7 +199,7 @@
 <td><p>素食（お惣菜料理）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/スッポン.md" title="wikilink">スッポン</a>と<a href="https://ja.wikipedia.org/wiki/ふかひれ" title="wikilink">フカヒレの鍋</a></p></td>
+<td><p><a href="../Page/スッポン.md" title="wikilink">スッポン</a>と<a href="../Page/ふかひれ.md" title="wikilink">フカヒレの鍋</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -231,7 +231,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/燕の巣" title="wikilink">ツバメの巣</a></p></td>
+<td><p><a href="../Page/燕の巣.md" title="wikilink">ツバメの巣</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -243,9 +243,9 @@
 <td><p>[[#鮭勝負</p></td>
 <td><p>|鮭勝負</p></td>
 <td><p>]]</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サケ" title="wikilink">鮭料理</a></p></td>
+<td><p><a href="../Page/サケ.md" title="wikilink">鮭料理</a></p></td>
 <td><p>生鮭のドレッシング和え<br />
-<a href="https://ja.wikipedia.org/wiki/花" title="wikilink">花</a>びら風味</p></td>
+<a href="../Page/花.md" title="wikilink">花</a>びら風味</p></td>
 </tr>
 <tr class="odd">
 <td><p>鮭の赤身の揚げ餅</p></td>
@@ -322,7 +322,7 @@
 <tr class="even">
 <td><p>18</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/#魅惑の大陸" title="wikilink">魅惑の大陸</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オーストラリア" title="wikilink">オーストラリア</a>の食材料理</p></td>
+<td><p><a href="../Page/オーストラリア.md" title="wikilink">オーストラリア</a>の食材料理</p></td>
 <td><p>野菜のパテのうさぎ肉乗せ</p></td>
 <td><p>引き分け</p></td>
 <td><p><a href="../Page/サメ.md" title="wikilink">サメ</a>の切り身・すり身団子</p></td>
@@ -464,7 +464,7 @@
 <td><p>究極・至高のメニューの<br />
 完成発表</p></td>
 <td><p>前菜（ゆで卵トリュフソース・大トロの炭火焼き<br />
-・<a href="https://ja.wikipedia.org/wiki/豆腐よう" title="wikilink">豆腐よう</a>・フグの唐揚げ・牛肉の刺身</p></td>
+・<a href="../Page/豆腐よう.md" title="wikilink">豆腐よう</a>・フグの唐揚げ・牛肉の刺身</p></td>
 <td><p>結果なし</p></td>
 <td><p>ミンク鯨の刺身・鯛の刺身</p></td>
 </tr>
@@ -494,7 +494,7 @@
 <td><p>ニューサウスウェールズ州<br />
 の食材料理</p></td>
 <td><p>弁当（エンドウ豆の炊き込みご飯<br />
-・しめ<a href="https://ja.wikipedia.org/wiki/シマアジ" title="wikilink">シマアジ</a>・野菜のテリーヌ<br />
+・しめ<a href="../Page/シマアジ.md" title="wikilink">シマアジ</a>・野菜のテリーヌ<br />
 ・<a href="../Page/エミュー.md" title="wikilink">エミュー</a>の生ハムのサラダ<br />
 ・<a href="../Page/ザリガニ.md" title="wikilink">ザリガニ</a>のバター焼きニンニク風味<br />
 ・<a href="../Page/赤飯.md" title="wikilink">赤飯</a>まんじゅう</p></td>
@@ -605,7 +605,7 @@
 ### 鮭勝負\!\!
 
   -
-    究極側は極薄に切った生鮭にレモン・オリーブオイル・エシャロットのドレッシングをかけ、菊の花びらのみじん切りをのせた料理を出す。これに海原雄山は激怒し、究極側に失格を言い渡す。そして、至高のメニューとして鮭の皮と腹身をまるめて焼いたもの、鮭の赤身を具に入れた揚げ餅を出す。究極と至高の違いは生と火を通したという点であり、鮭には[アニサキス](https://ja.wikipedia.org/wiki/アニサキス "wikilink")などの寄生虫が寄生している場合があり、生鮭を用いた究極側は失格となりかけるが、寄生虫の専門家を用意し、調理法も寄生虫を検査するためのものであったことから失格は免れる。しかし危険は避けるべきであり、生鮭を使ったのは冒険であるとして減点は避けられず、至高側の勝利となった。
+    究極側は極薄に切った生鮭にレモン・オリーブオイル・エシャロットのドレッシングをかけ、菊の花びらのみじん切りをのせた料理を出す。これに海原雄山は激怒し、究極側に失格を言い渡す。そして、至高のメニューとして鮭の皮と腹身をまるめて焼いたもの、鮭の赤身を具に入れた揚げ餅を出す。究極と至高の違いは生と火を通したという点であり、鮭には[アニサキス](../Page/アニサキス.md "wikilink")などの寄生虫が寄生している場合があり、生鮭を用いた究極側は失格となりかけるが、寄生虫の専門家を用意し、調理法も寄生虫を検査するためのものであったことから失格は免れる。しかし危険は避けるべきであり、生鮭を使ったのは冒険であるとして減点は避けられず、至高側の勝利となった。
 
 ### 鍋対決\!\!
 

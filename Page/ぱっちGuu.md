@@ -1,7 +1,7 @@
 > この記事は[Guu](https://ja.wikipedia.org/wiki/Guu)から翻訳されています。
 
 
-**ぱっちGuu**（ぱっちぐー）は、株式会社パブリシティ・グローバル・サポートが発行する[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")、[パチスロ](../Page/パチスロ.md "wikilink")の[情報誌で](https://ja.wikipedia.org/wiki/パチンコ・パチスロ情報誌 "wikilink")[フリーペーパー](https://ja.wikipedia.org/wiki/フリーペーパー "wikilink")。2004年12月創刊。東京･千葉･埼玉エリア、京浜エリア、関西エリアの3エリア\[1\]で、パチンコ店、主要鉄道駅、[am/pm](https://ja.wikipedia.org/wiki/am/pm "wikilink")（エーエム・ピーエム）に設置されたスタンドで無料配布されていた。2015年3月時点で確認できる情報から、既に廃刊されているものと思われる。廃刊年月は不明。
+**ぱっちGuu**（ぱっちぐー）は、株式会社パブリシティ・グローバル・サポートが発行する[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")、[パチスロ](../Page/パチスロ.md "wikilink")の[情報誌で](../Page/パチンコ・パチスロ情報誌.md "wikilink")[フリーペーパー](../Page/フリーペーパー.md "wikilink")。2004年12月創刊。東京･千葉･埼玉エリア、京浜エリア、関西エリアの3エリア\[1\]で、パチンコ店、主要鉄道駅、[am/pm](https://ja.wikipedia.org/wiki/am/pm "wikilink")（エーエム・ピーエム）に設置されたスタンドで無料配布されていた。2015年3月時点で確認できる情報から、既に廃刊されているものと思われる。廃刊年月は不明。
 
 ## イベント取材
 
@@ -11,8 +11,8 @@
 
   - [パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")
   - [パチスロ](../Page/パチスロ.md "wikilink")
-  - [パチンコ・パチスロ情報誌](https://ja.wikipedia.org/wiki/パチンコ・パチスロ情報誌 "wikilink")
-  - [フリーペーパー](https://ja.wikipedia.org/wiki/フリーペーパー "wikilink")
+  - [パチンコ・パチスロ情報誌](../Page/パチンコ・パチスロ情報誌.md "wikilink")
+  - [フリーペーパー](../Page/フリーペーパー.md "wikilink")
 
 ## 外部リンク
 

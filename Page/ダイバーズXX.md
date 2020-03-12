@@ -1,13 +1,13 @@
 > この記事は[XX](https://ja.wikipedia.org/wiki/XX)から翻訳されています。
 
 
-**ダイバーズXX**（DIVERS XX）は、[1994年](../Page/1994年.md "wikilink")に[山佐](https://ja.wikipedia.org/wiki/山佐 "wikilink")が開発・販売した[パチスロ](../Page/パチスロ.md "wikilink")機である。モチーフは[浦島太郎](../Page/浦島太郎.md "wikilink")。
+**ダイバーズXX**（DIVERS XX）は、[1994年](../Page/1994年.md "wikilink")に[山佐](../Page/山佐.md "wikilink")が開発・販売した[パチスロ](../Page/パチスロ.md "wikilink")機である。モチーフは[浦島太郎](../Page/浦島太郎.md "wikilink")。
 
 ## 概要
 
 ### 特徴
 
-大ヒット機種[ニューパルサー](https://ja.wikipedia.org/wiki/ニューパルサー "wikilink")に続いて発売された、山佐4号機第2弾。山佐恒例の緑のボーナス絵柄に「[カメ](../Page/カメ.md "wikilink")」を採用。小役絵柄にも、[ヒトデ](../Page/ヒトデ.md "wikilink")や[フグ](../Page/フグ.md "wikilink")・[マンボウ](../Page/マンボウ.md "wikilink")など海に関するものになっている。
+大ヒット機種[ニューパルサー](../Page/ニューパルサー.md "wikilink")に続いて発売された、山佐4号機第2弾。山佐恒例の緑のボーナス絵柄に「[カメ](../Page/カメ.md "wikilink")」を採用。小役絵柄にも、[ヒトデ](../Page/ヒトデ.md "wikilink")や[フグ](../Page/フグ.md "wikilink")・[マンボウ](../Page/マンボウ.md "wikilink")など海に関するものになっている。
 
 ゲーム性は山佐パターンによるリーチ目でボーナスを察知という、歴代山佐機種を踏襲した内容。
 

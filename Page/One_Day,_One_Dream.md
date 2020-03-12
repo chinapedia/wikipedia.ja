@@ -1,7 +1,7 @@
 > この記事は[One Day, One Dream](https://ja.wikipedia.org/wiki/One_Day,_One_Dream)から翻訳されています。
 
 
-「**One Day, One Dream**」（ワン・デイ ワン・ドリーム）は、[タッキー&翼](../Page/タッキー&翼.md "wikilink")の3枚目の[シングル](../Page/シングル.md "wikilink")。[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[2月11日](../Page/2月11日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+「**One Day, One Dream**」（ワン・デイ ワン・ドリーム）は、[タッキー&翼](../Page/タッキー&翼.md "wikilink")の3枚目の[シングル](../Page/シングル.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[2月11日](../Page/2月11日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 
@@ -14,15 +14,15 @@
 ### 初回盤
 
 1.  **One Day, One Dream**
-    （作詞：[小幡英之](https://ja.wikipedia.org/wiki/小幡英之 "wikilink") 作曲：[吉川慶](https://ja.wikipedia.org/wiki/吉川慶 "wikilink")、編曲：[CHOKKAKU](https://ja.wikipedia.org/wiki/CHOKKAKU "wikilink")）
+    （作詞：[小幡英之](../Page/小幡英之.md "wikilink") 作曲：[吉川慶](../Page/吉川慶.md "wikilink")、編曲：[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")）
       -
-        [サビ](https://ja.wikipedia.org/wiki/サビ "wikilink")の[歌詞](../Page/歌詞.md "wikilink")では、[英語](../Page/英語.md "wikilink")と[日本語](../Page/日本語.md "wikilink")の言葉遊びが使用されている。
+        [サビ](../Page/サビ.md "wikilink")の[歌詞](../Page/歌詞.md "wikilink")では、[英語](../Page/英語.md "wikilink")と[日本語](../Page/日本語.md "wikilink")の言葉遊びが使用されている。
 2.  **DEEP into BLUE**
-    （作詞：Batu Bulan、作曲：[十川知司](https://ja.wikipedia.org/wiki/十川ともじ "wikilink")・鈴木哲彦、編曲：[高見優](https://ja.wikipedia.org/wiki/高見優 "wikilink")）
+    （作詞：Batu Bulan、作曲：[十川知司](../Page/十川ともじ.md "wikilink")・鈴木哲彦、編曲：[高見優](../Page/高見優.md "wikilink")）
       -
-        [今井翼](https://ja.wikipedia.org/wiki/今井翼 "wikilink")ソロ曲。[ハウス](../Page/ハウス食品.md "wikilink")『とんがりコーン』[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。
+        [今井翼](../Page/今井翼.md "wikilink")ソロ曲。[ハウス](../Page/ハウス食品.md "wikilink")『とんがりコーン』[CMソング](../Page/コマーシャルソング.md "wikilink")。
 3.  **あるがまま**
-    （作詞：[六ツ見純代](https://ja.wikipedia.org/wiki/六ツ見純代 "wikilink")、作曲：[坂下正俊](https://ja.wikipedia.org/wiki/manzo "wikilink")、編曲：[HΛL](https://ja.wikipedia.org/wiki/HΛL "wikilink")）
+    （作詞：[六ツ見純代](https://ja.wikipedia.org/wiki/六ツ見純代 "wikilink")、作曲：[坂下正俊](https://ja.wikipedia.org/wiki/manzo "wikilink")、編曲：[HΛL](../Page/HΛL.md "wikilink")）
       -
         [滝沢秀明](https://ja.wikipedia.org/wiki/滝沢秀明 "wikilink")ソロ曲。
 4.  One Day, One Dream 〜TAKIZAWA PART VERSION〜
@@ -41,7 +41,7 @@
 3.  **あるがまま**
     （作詞:六ツ見純代 作曲:坂下正俊）
 4.  **愛世界**
-    （作詞・作曲：[羽場仁志](https://ja.wikipedia.org/wiki/羽場仁志 "wikilink")、編曲：[安部潤](https://ja.wikipedia.org/wiki/安部潤 "wikilink")）
+    （作詞・作曲：[羽場仁志](https://ja.wikipedia.org/wiki/羽場仁志 "wikilink")、編曲：[安部潤](../Page/安部潤.md "wikilink")）
 5.  'One Day, One Dream 〜Karaoke〜
     （作詞:小幡英之 作曲:吉川慶）
 

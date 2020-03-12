@@ -17,23 +17,23 @@
   - [大杉漣](../Page/大杉漣.md "wikilink")
   - [寺島進](https://ja.wikipedia.org/wiki/寺島進 "wikilink")
   - [美輪明宏](https://ja.wikipedia.org/wiki/美輪明宏 "wikilink")
-  - [六平直政](https://ja.wikipedia.org/wiki/六平直政 "wikilink")
-  - [津田寛治](https://ja.wikipedia.org/wiki/津田寛治 "wikilink")
-  - [芦川誠](https://ja.wikipedia.org/wiki/芦川誠 "wikilink")
-  - [渡辺哲](https://ja.wikipedia.org/wiki/渡辺哲 "wikilink")
-  - [高木淳也](https://ja.wikipedia.org/wiki/高木淳也 "wikilink")
-  - [石橋保](https://ja.wikipedia.org/wiki/石橋保 "wikilink")
-  - [木村彰吾](https://ja.wikipedia.org/wiki/木村彰吾 "wikilink")
+  - [六平直政](../Page/六平直政.md "wikilink")
+  - [津田寛治](../Page/津田寛治.md "wikilink")
+  - [芦川誠](../Page/芦川誠.md "wikilink")
+  - [渡辺哲](../Page/渡辺哲.md "wikilink")
+  - [高木淳也](../Page/高木淳也.md "wikilink")
+  - [石橋保](../Page/石橋保.md "wikilink")
+  - [木村彰吾](../Page/木村彰吾.md "wikilink")
   - [ビートきよし](https://ja.wikipedia.org/wiki/ビートきよし "wikilink")
   - [松村邦洋](../Page/松村邦洋.md "wikilink")
   - [内山信二](../Page/内山信二.md "wikilink")
-  - [早乙女太一](https://ja.wikipedia.org/wiki/早乙女太一 "wikilink")
+  - [早乙女太一](../Page/早乙女太一.md "wikilink")
   - [STRiPES](../Page/STRiPES.md "wikilink")
 
 ## スタッフ
 
   - 監督：[北野武](../Page/ビートたけし.md "wikilink")
-  - 製作：[バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")、[TOKYO FM](../Page/エフエム東京.md "wikilink")、[電通](../Page/電通.md "wikilink")、[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")、[オフィス北野](https://ja.wikipedia.org/wiki/オフィス北野 "wikilink")
+  - 製作：[バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")、[TOKYO FM](../Page/エフエム東京.md "wikilink")、[電通](../Page/電通.md "wikilink")、[テレビ朝日](../Page/テレビ朝日.md "wikilink")、[オフィス北野](https://ja.wikipedia.org/wiki/オフィス北野 "wikilink")
   - 衣装：[山本耀司](../Page/山本耀司.md "wikilink")
   - 音楽：[NAGI](https://ja.wikipedia.org/wiki/藤川祥虎 "wikilink")
 
@@ -41,9 +41,9 @@
 
 たけし曰く「100人の評論家が見て、7人しか分からない映画」。公開前の情報が全く無かったことについて「内緒で撮っていた」とも語っていた。
 
-映画のアイデアは自身が監督を務めた『[ソナチネ](https://ja.wikipedia.org/wiki/ソナチネ_\(映画\) "wikilink")』の頃から温めていたらしく、仮タイトルは『フラクタル』で、[タクシー](../Page/タクシー.md "wikilink")運転手を主人公とした映画にするつもりだった。
+映画のアイデアは自身が監督を務めた『[ソナチネ](../Page/ソナチネ_\(映画\).md "wikilink")』の頃から温めていたらしく、仮タイトルは『フラクタル』で、[タクシー](../Page/タクシー.md "wikilink")運転手を主人公とした映画にするつもりだった。
 
-たけしは、第30回モスクワ映画祭特別功労賞を受賞した際のインタビューで、『[監督・ばんざい\!](https://ja.wikipedia.org/wiki/監督・ばんざい! "wikilink")』とこの映画は自分が一番沈んだ最低のときに製作した映画だと語った。自分が求める芸術と日本の低評価の間で悩み、同時に2つ手に入らないものを求めるうちに「自分の映画が自分自身を壊していく」と感じ、その葛藤のなかで製作したのだという\[1\]。また、「『**TAKESHIS**'』はひょっとしたら、『武、死す』かもしれない」とも語った。
+たけしは、第30回モスクワ映画祭特別功労賞を受賞した際のインタビューで、『[監督・ばんざい\!](../Page/監督・ばんざい!.md "wikilink")』とこの映画は自分が一番沈んだ最低のときに製作した映画だと語った。自分が求める芸術と日本の低評価の間で悩み、同時に2つ手に入らないものを求めるうちに「自分の映画が自分自身を壊していく」と感じ、その葛藤のなかで製作したのだという\[1\]。また、「『**TAKESHIS**'』はひょっとしたら、『武、死す』かもしれない」とも語った。
 
 ## 公開
 
@@ -55,8 +55,8 @@
 
 ## 受賞
 
-  - 第15回[東京スポーツ映画大賞](https://ja.wikipedia.org/wiki/東京スポーツ映画大賞 "wikilink")・主演男優賞（ビートたけし）・助演男優賞（寺島進）
-  - 2005年度[文春きいちご賞](https://ja.wikipedia.org/wiki/文春きいちご賞 "wikilink")第2位
+  - 第15回[東京スポーツ映画大賞](../Page/東京スポーツ映画大賞.md "wikilink")・主演男優賞（ビートたけし）・助演男優賞（寺島進）
+  - 2005年度[文春きいちご賞](../Page/文春きいちご賞.md "wikilink")第2位
 
 ## 脚注・出典
 

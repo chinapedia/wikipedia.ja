@@ -109,11 +109,11 @@ Normal 8PSK Burst Bits
 
 ## Dual Carrier EDGE
 
-[3GPP](https://ja.wikipedia.org/wiki/3GPP "wikilink")のrelease 7で追加された2[搬送波](https://ja.wikipedia.org/wiki/搬送波 "wikilink")を使う仕様を従来のEDGEとの組み合わせのみで使う。従来通り8PSKのみなのでノキア・シーメンスの基地局の無線機のハードウェアは同じままソフトウェアのバージョンアップのみで592kbpsに対応できる\[1\]。
+[3GPP](../Page/3GPP.md "wikilink")のrelease 7で追加された2[搬送波](https://ja.wikipedia.org/wiki/搬送波 "wikilink")を使う仕様を従来のEDGEとの組み合わせのみで使う。従来通り8PSKのみなのでノキア・シーメンスの基地局の無線機のハードウェアは同じままソフトウェアのバージョンアップのみで592kbpsに対応できる\[1\]。
 
 ## EDGE Evolution
 
-EDGE EvolutionはEDGEをさらに高速化したもの。[3GPP](https://ja.wikipedia.org/wiki/3GPP "wikilink")のrelease 7で追加された。デジタル変調に8PSKの代わりに16QAMまたは32QAMを用いる。1Mbps程度のスループットが得られるとしている。これは[第三世代携帯電話](https://ja.wikipedia.org/wiki/第三世代携帯電話 "wikilink")に匹敵するスピードである。2009年開始予定。
+EDGE EvolutionはEDGEをさらに高速化したもの。[3GPP](../Page/3GPP.md "wikilink")のrelease 7で追加された。デジタル変調に8PSKの代わりに16QAMまたは32QAMを用いる。1Mbps程度のスループットが得られるとしている。これは[第三世代携帯電話](https://ja.wikipedia.org/wiki/第三世代携帯電話 "wikilink")に匹敵するスピードである。2009年開始予定。
 
 ## EGPRS2-A
 

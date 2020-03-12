@@ -11,7 +11,7 @@ IL-2 Sturmovikはそのリアリティの高い飛行操縦特性、正確な機
 
 開発チームもIL-2 Sturmovikの人気に応え、航空機、車両、艦船を追加するアドオンのプロジェクトを進めていた。 2003年3月に続編であるIL-2 Sturmovik: Forgotten Battlesがリリースされた。20個のシングル・ミッション、10個のダイナミック・キャンペーン、新しいフライアブル機体30機種、新しいAI専用機体23機種を追加したこのタイトルは、ロシア国内で65万本以上、ワールドワイドで60万本以上を販売した。なお、Forgotten Battles以降のバージョンアップは、アドオンまたはマージ・インストール可能であって上位互換性が維持されたが、初版のIL-2 SturmovikとForgotten Battlesは内容的には重複する。 Forgotten Battlesには完全日本語化されたバージョンも存在し、日本国内で販売された。
 
-2004年2月、西部戦線マップや追加機体を収録した拡張パックAce Expansion Packをリリース。 このときにはドイツ軍のロケット機[Me163や実用化前の無尾翼ジェット機](https://ja.wikipedia.org/wiki/メッサーシュミット_Me163 "wikilink")[ホルテン Ho229](https://ja.wikipedia.org/wiki/ホルテン_Ho229 "wikilink")、多数のアメリカ軍機（[P-51](https://ja.wikipedia.org/wiki/P-51 "wikilink")ほか）、また少数の日本軍機（[A6M2や](https://ja.wikipedia.org/wiki/零式艦上戦闘機 "wikilink")[Ki-84](https://ja.wikipedia.org/wiki/四式戦闘機 "wikilink")）が収録された。
+2004年2月、西部戦線マップや追加機体を収録した拡張パックAce Expansion Packをリリース。 このときにはドイツ軍のロケット機[Me163や実用化前の無尾翼ジェット機](../Page/メッサーシュミット_Me163.md "wikilink")[ホルテン Ho229](../Page/ホルテン_Ho229.md "wikilink")、多数のアメリカ軍機（[P-51](https://ja.wikipedia.org/wiki/P-51 "wikilink")ほか）、また少数の日本軍機（[A6M2や](https://ja.wikipedia.org/wiki/零式艦上戦闘機 "wikilink")[Ki-84](https://ja.wikipedia.org/wiki/四式戦闘機 "wikilink")）が収録された。
 
 2005年には太平洋戦域の機体とマップを収録したIL-2 Sturmovik PACIFIC FIGHTERSが発売された。これはスタンドアローンとしても動作するが、拡張パックとしても導入可能な体裁をとった。 このPACIFIC FIGHTERSにおいて、零戦の各タイプや[一式陸上攻撃機](../Page/一式陸上攻撃機.md "wikilink")、[隼など日本人に馴染み深い機体も多数登場した](../Page/一式戦闘機.md "wikilink")。空母を用いた発艦・着艦の概念も取り入れられ、日米の空母戦を行うことが可能となった。
 

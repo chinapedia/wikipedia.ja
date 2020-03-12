@@ -1,11 +1,11 @@
 > この記事は[MACKA-CHIN](https://ja.wikipedia.org/wiki/MACKA-CHIN)から翻訳されています。
 
 
-**MACKA-CHIN**（マッカチン [1974年](../Page/1974年.md "wikilink") - ）は、[トラックメイカー](https://ja.wikipedia.org/wiki/トラックメイカー "wikilink") 、[DJ](../Page/ディスクジョッキー.md "wikilink")、 音楽プロデューサー、イベント企画オーガナイザー、サウンドデザイナー、 [NITRO MICROPHONE UNDERGROUNDのMCとして知られる](https://ja.wikipedia.org/wiki/NITRO_MICROPHONE_UNDERGROUND "wikilink")。
+**MACKA-CHIN**（マッカチン [1974年](../Page/1974年.md "wikilink") - ）は、[トラックメイカー](https://ja.wikipedia.org/wiki/トラックメイカー "wikilink") 、[DJ](../Page/ディスクジョッキー.md "wikilink")、 音楽プロデューサー、イベント企画オーガナイザー、サウンドデザイナー、 [NITRO MICROPHONE UNDERGROUNDのMCとして知られる](../Page/NITRO_MICROPHONE_UNDERGROUND.md "wikilink")。
 
 ## 概略
 
-[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[足立区](../Page/足立区.md "wikilink")出身。90年代半ばより活動開始。[2001年](../Page/2001年.md "wikilink")にアルバム『CHIN-ATTACK』でソロデビュー。このときから既にHIP-HOPのジャンルを越え、民族音楽、ハウス、アンビエント、レゲエなど、いろいろな音楽がミックスされたオリジナル色強い作品でHIP-HOP専門誌BLASTで新人PRODUCE賞を受賞しラップと共にトラック制作も同時にスタートさせる。自らのイベントで後に結成されたNITRO MICROPHONE UNDERGROUNDのとしてもアルバム『NITRO MICROPHONE UNDERGROUND』をリリース　すでに何曲もトラック制作を手掛けている。翌年2002年にはビクターレコードよりメジャーデビュー。一枚目の『CHIN-ATTACK』をジャケ違いで再発し、自身二枚目のCHIN NEAR HEREを発表。収録曲のMUSIC VIDEOを全編THAILANDで撮影し作品も話題に。その後ソロ作品は出さず DABOとのユニットMABOを結成し、全曲MACKA-CHIN PRODUCEのアルバムをインディーズからリリース。さらに東芝EMIからリミックスアルバムも発表。全国ツアーも大盛況に。そして次はすぐにシンガーのTINA、SUIKENとMONTIENというグループを結成し(キングレコードより２枚のEPと１枚のフルアルバムを発表)活動を始める。翌年デビュー前からイベント活動を活発に行ってきた彼が、2006年に自身でPRODUCEしていた渋谷THE ROOMでのイベントCHACK SPLASHにファッション雑誌のインタビューでレコード会社募集と記載したところ、それを見て東芝EMIのA\&Rが直接出向きソロアルバムの契約を結ぶ。同年東芝EMI/VIRGIN RECORDよりMINI EP、翌年にはフルアルバム LAST を発表。また同年自身初となる映像作品 SUPER25 をDVDで発表。彼のアイデアや作家達の映像美も話題になりLIVE DVDが多い中、斜めから見たアート作品を発表する彼の姿勢も話題に。2009年 NITRO MICROPHONE UNDERGROUNのアパレルブランド NITRAID が発表したスケートボード及びストリートカルチャーDVD（RAIDBACKとA.N.T.I.)の全編音楽を2枚とも担当し、後にサウンドトラックとして2011年にCD化されることに。2013年には今までソロ作品は本人がトラックを作ってラップして来た彼がトラックを全曲 GRUNTERZ（ZKA & DJ MARK )と組んで作品を発表。これぞ日本語ラップというラップルバムはこのアルバムが初となる。ラップアルバムとしてはじつに6年ぶりの作品であった。そしてインディーズレーベル 術ノ穴主催でもあるFRAGMENTとの客演を経て2014年に術ノ穴レーベルから架空の映画サウンドトラック 静かな月と夜 を発表。以前からファンの希望があったアンビエントアルバムということもあり、GESKIA\! のREMIXも含め多方面で話題に。2015年にはNITROのメンバーで東京弐拾伍時 (DABO,MACKA-CHIN,SUIKEN,S-WORD)を結成。MIN EPを発表。2016年にはDJとしての企画アルバムで、ほぼトラックのみを制作し呂布カルマやTOKYO HEALTH CLUB、Y.I.M.のOMEALが扮するMC恋してる、HAZY、ランチタイムスピークスからGOCCIなど全9組の客演を招いてコンピレーションアルバムを発表。彼の目線で選ばれた独特なメンバーと色鮮やかな音色の作品は、誰も聞いた事の無い未来への立派なHIP-HOPアルバムとして年齢層広く騒がれた。2017年にはKIRIN氷結のCMにラップアドバイザーやリリック提供、藤井隆のリミックスなど、オーバーグラウンドでの活動で活躍の場を広げている。レコード屋での勤務経験がある彼はラップ活動やトラック制作と同時に学生の頃から活動してきたDJ活動も忙しく、全国各地のイベントでシーンを盛り上げている。またDJとして和モノといった新しい解釈で日本の踊れる歌謡曲（主に7インチレコード）を中心にイベントも開催している。また洋楽邦楽ともにレコードコレクターでもある。現在も DJ、MC、トラックメイカー、プロデューサー、イベントオーガナイザー、本の執筆活動などマルチにアウトプットディレクター（本人談）として活動している。
+[東京都](../Page/東京都.md "wikilink")[足立区](../Page/足立区.md "wikilink")出身。90年代半ばより活動開始。[2001年](../Page/2001年.md "wikilink")にアルバム『CHIN-ATTACK』でソロデビュー。このときから既にHIP-HOPのジャンルを越え、民族音楽、ハウス、アンビエント、レゲエなど、いろいろな音楽がミックスされたオリジナル色強い作品でHIP-HOP専門誌BLASTで新人PRODUCE賞を受賞しラップと共にトラック制作も同時にスタートさせる。自らのイベントで後に結成されたNITRO MICROPHONE UNDERGROUNDのとしてもアルバム『NITRO MICROPHONE UNDERGROUND』をリリース　すでに何曲もトラック制作を手掛けている。翌年2002年にはビクターレコードよりメジャーデビュー。一枚目の『CHIN-ATTACK』をジャケ違いで再発し、自身二枚目のCHIN NEAR HEREを発表。収録曲のMUSIC VIDEOを全編THAILANDで撮影し作品も話題に。その後ソロ作品は出さず DABOとのユニットMABOを結成し、全曲MACKA-CHIN PRODUCEのアルバムをインディーズからリリース。さらに東芝EMIからリミックスアルバムも発表。全国ツアーも大盛況に。そして次はすぐにシンガーのTINA、SUIKENとMONTIENというグループを結成し(キングレコードより２枚のEPと１枚のフルアルバムを発表)活動を始める。翌年デビュー前からイベント活動を活発に行ってきた彼が、2006年に自身でPRODUCEしていた渋谷THE ROOMでのイベントCHACK SPLASHにファッション雑誌のインタビューでレコード会社募集と記載したところ、それを見て東芝EMIのA\&Rが直接出向きソロアルバムの契約を結ぶ。同年東芝EMI/VIRGIN RECORDよりMINI EP、翌年にはフルアルバム LAST を発表。また同年自身初となる映像作品 SUPER25 をDVDで発表。彼のアイデアや作家達の映像美も話題になりLIVE DVDが多い中、斜めから見たアート作品を発表する彼の姿勢も話題に。2009年 NITRO MICROPHONE UNDERGROUNのアパレルブランド NITRAID が発表したスケートボード及びストリートカルチャーDVD（RAIDBACKとA.N.T.I.)の全編音楽を2枚とも担当し、後にサウンドトラックとして2011年にCD化されることに。2013年には今までソロ作品は本人がトラックを作ってラップして来た彼がトラックを全曲 GRUNTERZ（ZKA & DJ MARK )と組んで作品を発表。これぞ日本語ラップというラップルバムはこのアルバムが初となる。ラップアルバムとしてはじつに6年ぶりの作品であった。そしてインディーズレーベル 術ノ穴主催でもあるFRAGMENTとの客演を経て2014年に術ノ穴レーベルから架空の映画サウンドトラック 静かな月と夜 を発表。以前からファンの希望があったアンビエントアルバムということもあり、GESKIA\! のREMIXも含め多方面で話題に。2015年にはNITROのメンバーで東京弐拾伍時 (DABO,MACKA-CHIN,SUIKEN,S-WORD)を結成。MIN EPを発表。2016年にはDJとしての企画アルバムで、ほぼトラックのみを制作し呂布カルマやTOKYO HEALTH CLUB、Y.I.M.のOMEALが扮するMC恋してる、HAZY、ランチタイムスピークスからGOCCIなど全9組の客演を招いてコンピレーションアルバムを発表。彼の目線で選ばれた独特なメンバーと色鮮やかな音色の作品は、誰も聞いた事の無い未来への立派なHIP-HOPアルバムとして年齢層広く騒がれた。2017年にはKIRIN氷結のCMにラップアドバイザーやリリック提供、藤井隆のリミックスなど、オーバーグラウンドでの活動で活躍の場を広げている。レコード屋での勤務経験がある彼はラップ活動やトラック制作と同時に学生の頃から活動してきたDJ活動も忙しく、全国各地のイベントでシーンを盛り上げている。またDJとして和モノといった新しい解釈で日本の踊れる歌謡曲（主に7インチレコード）を中心にイベントも開催している。また洋楽邦楽ともにレコードコレクターでもある。現在も DJ、MC、トラックメイカー、プロデューサー、イベントオーガナイザー、本の執筆活動などマルチにアウトプットディレクター（本人談）として活動している。
 
 ## ディスコグラフィ
 
@@ -24,18 +24,18 @@
 
 ### アルバム
 
-| 発売日                                                         | \! タイトル                                                                   | \! 備考                                                             |
-| ----------------------------------------------------------- | ------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| [2001年](../Page/2001年.md "wikilink")8月25日                   | | **CHIN-ATTACK**                                                         | | 2001年インディーズレーベルREALITY RECORSよりリリースしたアルバムをVICTOR より2002年12月4日再発 |
-| [2002年](../Page/2002年.md "wikilink")12月4日                   | | **CHIN NEAR HERE**                                                      | | 初回盤は防水スピーカーを同梱した「BOOM BOOM MACKA」として発売。                         |
-| [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")8月9日 | | **A Pride and Fear-Town in which fellows who like stimulation gather-** | | 東芝EMI/VIRGIN よりリリース/MINI EP                                     |
-| [2007年](../Page/2007年.md "wikilink")2月28日                   | | **LAST**                                                                | | 東芝EMI/VIRGIN よりリリース/フルアルバム                                      |
-| 2011年10月26日                                                 |                                                                           | A.N.T.I. \&RAIDBACK ORIGINAL MOTIONPICTURE SOUNDTRACK             |
-| [2013年](../Page/2013年.md "wikilink")10月16日                  | | **incompleteness theorem**                                              | | 初めてアルバム全編で外部のプロデューサー(GRUNTERZ)を起用したRAPアルバム                      |
-| 2014年2月23日                                                  |                                                                           | **incompleteness theorem　２LP**                                    |
-| [2014年](../Page/2014年.md "wikilink")11月26日                  | | **静かな月と夜**                                                              | |全曲本人プロデュースのアンビエントアルバム 術ノ穴よりリリース                                  |
-| 2016年10月5日                                                  |                                                                           | MARIRIN CAFE BLUE                                                 |
-| 2017年4月28日                                                  |                                                                           | MARIRIN CAFE BLUE INST                                            |
+| 発売日                                        | \! タイトル                                                                   | \! 備考                                                             |
+| ------------------------------------------ | ------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| [2001年](../Page/2001年.md "wikilink")8月25日  | | **CHIN-ATTACK**                                                         | | 2001年インディーズレーベルREALITY RECORSよりリリースしたアルバムをVICTOR より2002年12月4日再発 |
+| [2002年](../Page/2002年.md "wikilink")12月4日  | | **CHIN NEAR HERE**                                                      | | 初回盤は防水スピーカーを同梱した「BOOM BOOM MACKA」として発売。                         |
+| [2006年](../Page/2006年.md "wikilink")8月9日   | | **A Pride and Fear-Town in which fellows who like stimulation gather-** | | 東芝EMI/VIRGIN よりリリース/MINI EP                                     |
+| [2007年](../Page/2007年.md "wikilink")2月28日  | | **LAST**                                                                | | 東芝EMI/VIRGIN よりリリース/フルアルバム                                      |
+| 2011年10月26日                                |                                                                           | A.N.T.I. \&RAIDBACK ORIGINAL MOTIONPICTURE SOUNDTRACK             |
+| [2013年](../Page/2013年.md "wikilink")10月16日 | | **incompleteness theorem**                                              | | 初めてアルバム全編で外部のプロデューサー(GRUNTERZ)を起用したRAPアルバム                      |
+| 2014年2月23日                                 |                                                                           | **incompleteness theorem　２LP**                                    |
+| [2014年](../Page/2014年.md "wikilink")11月26日 | | **静かな月と夜**                                                              | |全曲本人プロデュースのアンビエントアルバム 術ノ穴よりリリース                                  |
+| 2016年10月5日                                 |                                                                           | MARIRIN CAFE BLUE                                                 |
+| 2017年4月28日                                 |                                                                           | MARIRIN CAFE BLUE INST                                            |
 
 ### DVD
 
@@ -113,7 +113,7 @@
 <td><p>2002年6月5日</p></td>
 <td><p>8</p></td>
 <td><p><strong>ULTIMATE RARE-価値上がれ- <small>feat.GORE-TEX &amp; MACKA-CHIN</small></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/S-WORD" title="wikilink">S-WORD</a></p></td>
+<td><p><a href="../Page/S-WORD.md" title="wikilink">S-WORD</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ONE_PIECE_(S-WORDのアルバム)" title="wikilink">ONE PIECE</a></strong></p></td>
 </tr>
 <tr class="odd">
@@ -135,7 +135,7 @@
 <td><p><strong>STAR ILL WARZ</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a>7月20日</p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a>7月20日</p></td>
 <td><p>3</p></td>
 <td><p><strong>M★Boogie <small>feat.<a href="../Page/MIKRIS.md" title="wikilink">MIKRIS</a>,MARS MANIE,MACKA-CHIN</small></strong></p></td>
 <td><p><a href="../Page/MURO.md" title="wikilink">MURO</a></p></td>
@@ -156,7 +156,7 @@
 <td><p>BREAKS&amp;BEAT DISNEY</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a>5月10日</p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a>5月10日</p></td>
 <td><p>15</p></td>
 <td><p><strong>願い <small>feat.MACKA-CHIN</small></strong></p></td>
 <td><p>TWIGY</p></td>
@@ -165,7 +165,7 @@
 <tr class="odd">
 <td><p>2006年7月26日</p></td>
 <td><p>3</p></td>
-<td><p><strong>NIGHT RIDERS <small>feat.<a href="https://ja.wikipedia.org/wiki/NITRO_MICROPHONE_UNDERGROUND" title="wikilink">NITRO MICROPHONE UNDERGROUND</a></small></strong></p></td>
+<td><p><strong>NIGHT RIDERS <small>feat.<a href="../Page/NITRO_MICROPHONE_UNDERGROUND.md" title="wikilink">NITRO MICROPHONE UNDERGROUND</a></small></strong></p></td>
 <td><p><a href="../Page/SUIKEN.md" title="wikilink">SUIKEN</a></p></td>
 <td><p><strong>HOT IN POT</strong></p></td>
 </tr>
@@ -350,7 +350,7 @@
 ## 関連項目
 
   - [MONTIEN](https://ja.wikipedia.org/wiki/MONTIEN "wikilink")
-      - [Tina](https://ja.wikipedia.org/wiki/Tina "wikilink")
+      - [Tina](../Page/Tina.md "wikilink")
   - [MABO](https://ja.wikipedia.org/wiki/MABO "wikilink")
   - [MURO](../Page/MURO.md "wikilink")
   - [TWIGY](../Page/TWIGY.md "wikilink")

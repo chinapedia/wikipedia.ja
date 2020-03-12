@@ -13,13 +13,13 @@
 | その後                                                                                                                                                                                                                                                                                                                         |
 | モットー                                                                                                                                                                                                                                                                                                                        |
 
-**ジェームズ・E・ウィリアムズ** (, DDG-95) は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[ミサイル駆逐艦](https://ja.wikipedia.org/wiki/ミサイル駆逐艦 "wikilink")。[アーレイ・バーク級ミサイル駆逐艦](../Page/アーレイ・バーク級ミサイル駆逐艦.md "wikilink")の45番艦。艦名は[ベトナム戦争](../Page/ベトナム戦争.md "wikilink")での功績で名誉勲章を受章した[ジェームズ・E・ウィリアムズ](https://ja.wikipedia.org/wiki/ジェームズ・E・ウィリアムズ "wikilink")[軍曹](https://ja.wikipedia.org/wiki/軍曹 "wikilink")に因む。
+**ジェームズ・E・ウィリアムズ** (, DDG-95) は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[ミサイル駆逐艦](../Page/ミサイル駆逐艦.md "wikilink")。[アーレイ・バーク級ミサイル駆逐艦](../Page/アーレイ・バーク級ミサイル駆逐艦.md "wikilink")の45番艦。艦名は[ベトナム戦争](../Page/ベトナム戦争.md "wikilink")での功績で名誉勲章を受章した[ジェームズ・E・ウィリアムズ](https://ja.wikipedia.org/wiki/ジェームズ・E・ウィリアムズ "wikilink")[軍曹](../Page/軍曹.md "wikilink")に因む。
 
 ## 艦歴
 
-ジェームズ・E・ウィリアムズは[ミシシッピ州](https://ja.wikipedia.org/wiki/ミシシッピ州 "wikilink")[パスカグーラ](https://ja.wikipedia.org/wiki/パスカグーラ "wikilink")の[インガルス造船所](../Page/インガルス造船所.md "wikilink")で2002年7月15日に起工し、2003年6月25日にイレーン・ウィーバー・ウィリアムズ（ウィリアムズ軍曹の未亡人）によって命名、進水し、2004年12月11日に[サウスカロライナ州](../Page/サウスカロライナ州.md "wikilink")[チャールストンでフィリップ](../Page/チャールストン_\(サウスカロライナ州\).md "wikilink")・ウォレン・ヴァンス艦長の指揮下就役した。
+ジェームズ・E・ウィリアムズは[ミシシッピ州](https://ja.wikipedia.org/wiki/ミシシッピ州 "wikilink")[パスカグーラ](../Page/パスカグーラ.md "wikilink")の[インガルス造船所](../Page/インガルス造船所.md "wikilink")で2002年7月15日に起工し、2003年6月25日にイレーン・ウィーバー・ウィリアムズ（ウィリアムズ軍曹の未亡人）によって命名、進水し、2004年12月11日に[サウスカロライナ州](../Page/サウスカロライナ州.md "wikilink")[チャールストンでフィリップ](../Page/チャールストン_\(サウスカロライナ州\).md "wikilink")・ウォレン・ヴァンス艦長の指揮下就役した。
 
-ジェームズ・E・ウィリアムズは[大西洋艦隊の第](https://ja.wikipedia.org/wiki/大西洋艦隊_\(アメリカ海軍\) "wikilink")22駆逐艦隊に所属し、[バージニア州](../Page/バージニア州.md "wikilink")[ノーフォークを母港とする](https://ja.wikipedia.org/wiki/ノーフォーク_\(バージニア州\) "wikilink")。
+ジェームズ・E・ウィリアムズは[大西洋艦隊の第](https://ja.wikipedia.org/wiki/大西洋艦隊_\(アメリカ海軍\) "wikilink")22駆逐艦隊に所属し、[バージニア州](../Page/バージニア州.md "wikilink")[ノーフォークを母港とする](../Page/ノーフォーク_\(バージニア州\).md "wikilink")。
 
 2006年2月17日にヴァンス艦長は後任のイアン・マイケル・ホール艦長と交代した。
 

@@ -1,11 +1,11 @@
 > この記事は[Dt.](https://ja.wikipedia.org/wiki/Dt.)から翻訳されています。
 
 
-**Dt.**（ディーティー）は[Dragon Ashのギタリスト](https://ja.wikipedia.org/wiki/Dragon_Ash "wikilink")、[STROBO](https://ja.wikipedia.org/wiki/STROBO "wikilink")・[endive](https://ja.wikipedia.org/wiki/endive "wikilink")のフロントマンであるHIROKIが結成した[ミクスチャー・ロック](https://ja.wikipedia.org/wiki/ミクスチャー・ロック "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。2001年[アンティノスレコード](https://ja.wikipedia.org/wiki/アンティノスレコード "wikilink")よりメジャーデビュー
+**Dt.**（ディーティー）は[Dragon Ashのギタリスト](../Page/Dragon_Ash.md "wikilink")、[STROBO](https://ja.wikipedia.org/wiki/STROBO "wikilink")・[endive](https://ja.wikipedia.org/wiki/endive "wikilink")のフロントマンであるHIROKIが結成した[ミクスチャー・ロック](../Page/ミクスチャー・ロック.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。2001年[アンティノスレコード](https://ja.wikipedia.org/wiki/アンティノスレコード "wikilink")よりメジャーデビュー
 
 ## メンバー
 
-  - HIROKI（G.+プログラミング）プロデューサーも兼ねる。[Dragon Ashと平行して活動](https://ja.wikipedia.org/wiki/Dragon_Ash "wikilink")。
+  - HIROKI（G.+プログラミング）プロデューサーも兼ねる。[Dragon Ashと平行して活動](../Page/Dragon_Ash.md "wikilink")。
   - natsu（Vox）元[センチメンタル・バス](../Page/センチメンタル・バス.md "wikilink")
   - HIDE（Vox）元JASONS
   - FIRE（Bass）元SUPER TRAPP
@@ -270,7 +270,7 @@ AVCD-23200:CD</p></td>
 <ol>
 <li>球の上 龍の背 [3:09]（POCYOMIKIN from <a href="https://ja.wikipedia.org/wiki/餓鬼レンジャー" title="wikilink">餓鬼レンジャー</a>参加：vox）</li>
 <li>FU.RA.CHI. [3:35]</li>
-<li>OWN FACE [4:18]（TAKEMURA from <a href="https://ja.wikipedia.org/wiki/SNAIL_RAMP" title="wikilink">SNAIL RAMP参加</a>：vox）</li>
+<li>OWN FACE [4:18]（TAKEMURA from <a href="../Page/SNAIL_RAMP.md" title="wikilink">SNAIL RAMP参加</a>：vox）</li>
 <li>DAMMIT! [3:08]</li>
 <li>WISH YOU WELL [3:36]</li>
 <li>RJ (インスト) [0:39]</li>
@@ -317,11 +317,11 @@ AVCD-23200:CD</p></td>
 
 ## タイアップ
 
-| 曲名      | タイアップ                                                                                                                 |
-| ------- | --------------------------------------------------------------------------------------------------------------------- |
-| shiny   | TX系「シブスタ」エンディングテーマ                                                                                                    |
-| キズナ     | [TBS系列](../Page/TBSテレビ.md "wikilink")[COUNT DOWN TVオープニングテーマ](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink") |
-| 未知数のワンダ | TVK「JUICE TV＋」3月度エンディングテーマ                                                                                            |
+| 曲名      | タイアップ                                                                                              |
+| ------- | -------------------------------------------------------------------------------------------------- |
+| shiny   | TX系「シブスタ」エンディングテーマ                                                                                 |
+| キズナ     | [TBS系列](../Page/TBSテレビ.md "wikilink")[COUNT DOWN TVオープニングテーマ](../Page/COUNT_DOWN_TV.md "wikilink") |
+| 未知数のワンダ | TVK「JUICE TV＋」3月度エンディングテーマ                                                                         |
 
 ## 出演
 

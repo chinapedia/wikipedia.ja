@@ -7,9 +7,9 @@
 
 1975年、[メキシコ](../Page/メキシコ.md "wikilink")の[LLIが創設](https://ja.wikipedia.org/wiki/ユニバーサル・レスリング・アソシエーション "wikilink")。
 
-LLI解散後も王座のみ存続して[WAR](https://ja.wikipedia.org/wiki/WAR_\(プロレス\) "wikilink")、[格闘探偵団バトラーツ](https://ja.wikipedia.org/wiki/格闘探偵団バトラーツ "wikilink")、[新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")を渡った。
+LLI解散後も王座のみ存続して[WAR](../Page/WAR_\(プロレス\).md "wikilink")、[格闘探偵団バトラーツ](../Page/格闘探偵団バトラーツ.md "wikilink")、[新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")を渡った。
 
-2002年、[PABLOが](../Page/パブロ・マルケス.md "wikilink")[KAIENTAI DOJOに持ち込んでからはK](https://ja.wikipedia.org/wiki/KAIENTAI_DOJO "wikilink")-DOJO管理下に置かれ、タイトルマッチが行われていたが、K-DOJOが2019年6月2日より[2AW](https://ja.wikipedia.org/wiki/2AW "wikilink")に団体名を変更するに伴い、現在は2AWの管理下に置かれ、タイトルマッチが行われている。
+2002年、[PABLOが](../Page/パブロ・マルケス.md "wikilink")[KAIENTAI DOJOに持ち込んでからはK](../Page/KAIENTAI_DOJO.md "wikilink")-DOJO管理下に置かれ、タイトルマッチが行われていたが、K-DOJOが2019年6月2日より[2AW](https://ja.wikipedia.org/wiki/2AW "wikilink")に団体名を変更するに伴い、現在は2AWの管理下に置かれ、タイトルマッチが行われている。
 
 ## 歴代王者
 
@@ -33,7 +33,7 @@ LLI解散後も王座のみ存続して[WAR](https://ja.wikipedia.org/wiki/WAR_\
 </tr>
 <tr class="even">
 <td><p>第2代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/グラン浜田" title="wikilink">グラン浜田</a></p></td>
+<td><p><a href="../Page/グラン浜田.md" title="wikilink">グラン浜田</a></p></td>
 <td><p>1</p></td>
 <td><p>1976年5月2日</p></td>
 </tr>
@@ -124,7 +124,7 @@ LLI解散後も王座のみ存続して[WAR](https://ja.wikipedia.org/wiki/WAR_\
 </tr>
 <tr class="odd">
 <td><p>第17代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウルティモ・ドラゴン" title="wikilink">浅井嘉浩</a></p></td>
+<td><p><a href="../Page/ウルティモ・ドラゴン.md" title="wikilink">浅井嘉浩</a></p></td>
 <td><p>1</p></td>
 <td><p>1990年4月6日</p></td>
 </tr>
@@ -160,7 +160,7 @@ LLI解散後も王座のみ存続して[WAR](https://ja.wikipedia.org/wiki/WAR_\
 </tr>
 <tr class="odd">
 <td><p>第23代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エル・サムライ" title="wikilink">エル・サムライ</a></p></td>
+<td><p><a href="../Page/エル・サムライ.md" title="wikilink">エル・サムライ</a></p></td>
 <td><p>1</p></td>
 <td><p>1993年5月20日</p></td>
 </tr>
@@ -204,21 +204,21 @@ LLI解散後も王座のみ存続して[WAR](https://ja.wikipedia.org/wiki/WAR_\
 </tr>
 <tr class="even">
 <td><p>第30代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/タイガーマスク_(4代目)" title="wikilink">タイガーマスク</a></p></td>
+<td><p><a href="../Page/タイガーマスク_(4代目).md" title="wikilink">タイガーマスク</a></p></td>
 <td><p>1</p></td>
 <td><p>1996年9月23日<br />
-<a href="https://ja.wikipedia.org/wiki/MEN&#39;Sテイオー" title="wikilink">MEN'Sテイオー</a>　97年2月5日王座返上[3]</p></td>
+<a href="../Page/MEN&#39;Sテイオー.md" title="wikilink">MEN'Sテイオー</a>　97年2月5日王座返上[3]</p></td>
 </tr>
 <tr class="odd">
 <td><p>第31代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/船木勝一" title="wikilink">船木勝一</a></p></td>
+<td><p><a href="../Page/船木勝一.md" title="wikilink">船木勝一</a></p></td>
 <td><p>1</p></td>
 <td><p>1997年3月19日<br />
 パンテラ</p></td>
 </tr>
 <tr class="even">
 <td><p>第32代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/田中稔_(プロレスラー)" title="wikilink">田中稔</a></p></td>
+<td><p><a href="../Page/田中稔_(プロレスラー).md" title="wikilink">田中稔</a></p></td>
 <td><p>1</p></td>
 <td><p>1997年5月24日<br />
 1998年4月19日王座返上</p></td>
@@ -235,11 +235,11 @@ LLI解散後も王座のみ存続して[WAR](https://ja.wikipedia.org/wiki/WAR_\
 <td><p><a href="../Page/シルバー・ウルフ_(プロレスラー).md" title="wikilink">シルバー・ウルフ</a></p></td>
 <td><p>1</p></td>
 <td><p>2002年5月5日<br />
-<a href="https://ja.wikipedia.org/wiki/Hi69" title="wikilink">Hi69</a> 9月王座空位</p></td>
+<a href="../Page/Hi69.md" title="wikilink">Hi69</a> 9月王座空位</p></td>
 </tr>
 <tr class="odd">
 <td><p>第35代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Hi69" title="wikilink">Hi69</a></p></td>
+<td><p><a href="../Page/Hi69.md" title="wikilink">Hi69</a></p></td>
 <td><p>1</p></td>
 <td><p>2002年10月27日<br />
 <a href="../Page/パブロ・マルケス.md" title="wikilink">PABLO</a></p></td>
@@ -283,7 +283,7 @@ LLI解散後も王座のみ存続して[WAR](https://ja.wikipedia.org/wiki/WAR_\
 </tr>
 <tr class="even">
 <td><p>第42代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PSYCHO_(プロレスラー)" title="wikilink">PSYCHO</a></p></td>
+<td><p><a href="../Page/PSYCHO_(プロレスラー).md" title="wikilink">PSYCHO</a></p></td>
 <td><p>1</p></td>
 <td><p>2006年4月5日</p></td>
 </tr>
@@ -374,7 +374,7 @@ LLI解散後も王座のみ存続して[WAR](https://ja.wikipedia.org/wiki/WAR_\
 </tr>
 <tr class="odd">
 <td><p>第57代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/TAKAみちのく" title="wikilink">TAKAみちのく</a></p></td>
+<td><p><a href="../Page/TAKAみちのく.md" title="wikilink">TAKAみちのく</a></p></td>
 <td><p>1</p></td>
 <td><p>2013年4月14日</p></td>
 </tr>
@@ -410,7 +410,7 @@ LLI解散後も王座のみ存続して[WAR](https://ja.wikipedia.org/wiki/WAR_\
 </tr>
 <tr class="odd">
 <td><p>第63代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヒロ・トウナイ" title="wikilink">ヒロ・トウナイ</a></p></td>
+<td><p><a href="../Page/ヒロ・トウナイ.md" title="wikilink">ヒロ・トウナイ</a></p></td>
 <td><p>1</p></td>
 <td><p>2015年11月1日</p></td>
 </tr>
@@ -478,5 +478,5 @@ LLI解散後も王座のみ存続して[WAR](https://ja.wikipedia.org/wiki/WAR_\
 1.  本名の浅井嘉浩の時代から通算している。
 2.  同日、東京でNWA世界ミドル級王座獲得後にUWAの要請があったためである。
 3.  負傷による防衛戦期限切れのためである。
-4.  他は[PSYCHOと](https://ja.wikipedia.org/wiki/PSYCHO_\(プロレスラー\) "wikilink")[山縣優](../Page/山縣優.md "wikilink")。
+4.  他は[PSYCHOと](../Page/PSYCHO_\(プロレスラー\).md "wikilink")[山縣優](../Page/山縣優.md "wikilink")。
 5.  先代のリングネームのサンボ大石から通算している。

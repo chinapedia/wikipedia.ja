@@ -1,7 +1,7 @@
 > この記事は[Jr.](https://ja.wikipedia.org/wiki/Jr.)から翻訳されています。
 
 
-**ダイナソーJr.** (Dinosaur Jr.) は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[オルタナティヴ・ロック](../Page/オルタナティヴ・ロック.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。ノイジーなギターサウンドとポップなメロディに乗せた気だるいヴォーカルを特徴とする音楽性により、[1990年代](../Page/1990年代.md "wikilink")の[グランジ](https://ja.wikipedia.org/wiki/グランジ "wikilink")・[オルタナティヴブームの中で人気を得た](../Page/オルタナティヴ・ロック.md "wikilink")。
+**ダイナソーJr.** (Dinosaur Jr.) は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[オルタナティヴ・ロック](../Page/オルタナティヴ・ロック.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。ノイジーなギターサウンドとポップなメロディに乗せた気だるいヴォーカルを特徴とする音楽性により、[1990年代](../Page/1990年代.md "wikilink")の[グランジ](../Page/グランジ.md "wikilink")・[オルタナティヴブームの中で人気を得た](../Page/オルタナティヴ・ロック.md "wikilink")。
 
 ## 来歴
 
@@ -9,9 +9,9 @@
 
 [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")、[マサチューセッツ州](../Page/マサチューセッツ州.md "wikilink")[ボストン](../Page/ボストン.md "wikilink")郊外のアマーストにて、[ハードコア・パンク](../Page/ハードコア・パンク.md "wikilink")バンド、[ディープ・ウーンド](https://ja.wikipedia.org/wiki/ディープ・ウーンド "wikilink") (Deep Wound) のメンバーだった[J・マスシス](https://ja.wikipedia.org/wiki/J・マスシス "wikilink")と[ルー・バーロウ](https://ja.wikipedia.org/wiki/ルー・バーロウ "wikilink") (Lou Barlow) により結成される。当初、バンド名に「Jr」はついてなかったが、同名のバンドが存在することが判明したため、1987年に改名した。
 
-[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に[ニューヨーク](../Page/ニューヨーク.md "wikilink")の[インディーズ](../Page/インディーズ.md "wikilink")レーベル、[ホームステッド・レコード](https://ja.wikipedia.org/wiki/ホームステッド・レコード "wikilink")からデビューアルバム「Dinosaur」をリリース。その後、インディーシーンの雄[ソニック・ユース](https://ja.wikipedia.org/wiki/ソニック・ユース "wikilink")に認められ、[SSTと契約](https://ja.wikipedia.org/wiki/SSTレコード "wikilink")。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")2ndアルバム「You're Living All Over Me」を、[1988年](../Page/1988年.md "wikilink")に3rdアルバム「Bug」を同レーベルからリリースする（ヨーロッパではブラスト・ファーストからリリース）。「Bug」発売に伴うツアー終了後、マスシスとの対立が深刻になったバーロウがバンドを去る。
+[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に[ニューヨーク](../Page/ニューヨーク.md "wikilink")の[インディーズ](../Page/インディーズ.md "wikilink")レーベル、[ホームステッド・レコード](https://ja.wikipedia.org/wiki/ホームステッド・レコード "wikilink")からデビューアルバム「Dinosaur」をリリース。その後、インディーシーンの雄[ソニック・ユース](../Page/ソニック・ユース.md "wikilink")に認められ、[SSTと契約](https://ja.wikipedia.org/wiki/SSTレコード "wikilink")。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")2ndアルバム「You're Living All Over Me」を、[1988年](../Page/1988年.md "wikilink")に3rdアルバム「Bug」を同レーベルからリリースする（ヨーロッパではブラスト・ファーストからリリース）。「Bug」発売に伴うツアー終了後、マスシスとの対立が深刻になったバーロウがバンドを去る。
 
-[1991年](../Page/1991年.md "wikilink")、ゲストにドン・フレミング（主にベースを担当）らを迎えて4thアルバム「Green Mind」をレコーディング。同時にWEA傘下の英[ブランコ・イ・ネグロ](https://ja.wikipedia.org/wiki/ブランコ・イ・ネグロ・レコード "wikilink")（アメリカではサイア・レコード）と契約し、同アルバムからメジャーからのリリースとなった。なお、同作の制作の頃からマーフに代わってマスシスがドラムを叩くことが多くなり、ベース以外の楽器はほぼすべて彼が演奏するようになっていった。続くアルバム「Where You Been」発表の後、マーフが脱退。これによりオリジナルメンバーはマスシスのみとなり、ダイナソーJr.はバンドというより実質的な彼のソロプロジェクトへと変化した。さらに2枚のスタジオアルバムを発表した後の[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、マスシスの判断でバンドは解散する。
+[1991年](../Page/1991年.md "wikilink")、ゲストにドン・フレミング（主にベースを担当）らを迎えて4thアルバム「Green Mind」をレコーディング。同時にWEA傘下の英[ブランコ・イ・ネグロ](../Page/ブランコ・イ・ネグロ・レコード.md "wikilink")（アメリカではサイア・レコード）と契約し、同アルバムからメジャーからのリリースとなった。なお、同作の制作の頃からマーフに代わってマスシスがドラムを叩くことが多くなり、ベース以外の楽器はほぼすべて彼が演奏するようになっていった。続くアルバム「Where You Been」発表の後、マーフが脱退。これによりオリジナルメンバーはマスシスのみとなり、ダイナソーJr.はバンドというより実質的な彼のソロプロジェクトへと変化した。さらに2枚のスタジオアルバムを発表した後の[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、マスシスの判断でバンドは解散する。
 
 ### 再結成
 

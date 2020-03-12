@@ -25,34 +25,34 @@
 
 2019年1月現在。放送時間の早い順から記載。★印は「[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")」（プレミアム含む）で聴取可能な放送局。
 
-| 放送対象地域                                              | 放送局名                                                                     | 放送時間                   | 備考           |
-| --------------------------------------------------- | ------------------------------------------------------------------------ | ---------------------- | ------------ |
-| [佐賀県](../Page/佐賀県.md "wikilink")                    | [エフエム佐賀](../Page/エフエム佐賀.md "wikilink")（FMS）                              | 毎週日曜 2:00 - 3:00（土曜深夜） |              |
-| [青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink") | [エフエム青森](../Page/エフエム青森.md "wikilink")（AFB）                              | 毎週日曜 4:00 - 5:00（土曜深夜） | \[7\]\[8\]   |
-| [岩手県](../Page/岩手県.md "wikilink")                    | [エフエム岩手](../Page/エフエム岩手.md "wikilink")（FM IWATE）★                        |                        |              |
-| [秋田県](../Page/秋田県.md "wikilink")                    | [エフエム秋田](../Page/エフエム秋田.md "wikilink")（AFM）                              |                        |              |
-| [山形県](https://ja.wikipedia.org/wiki/山形県 "wikilink") | [エフエム山形](../Page/エフエム山形.md "wikilink")（Rhythm Station）                   |                        |              |
-| [福島県](../Page/福島県.md "wikilink")                    | [エフエム福島](../Page/エフエム福島.md "wikilink")（ふくしまFM）★                          |                        |              |
-| [群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink") | [エフエム群馬](../Page/エフエム群馬.md "wikilink")（FMぐんま）★                           |                        |              |
-| [富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink") | [富山エフエム放送](https://ja.wikipedia.org/wiki/富山エフエム放送 "wikilink")（FMとやま）★    |                        |              |
-| [石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink") | [エフエム石川](../Page/エフエム石川.md "wikilink")（HELLO FIVE）★                      |                        |              |
-| [福井県](../Page/福井県.md "wikilink")                    | [福井エフエム放送](https://ja.wikipedia.org/wiki/福井エフエム放送 "wikilink")（FM FUKUI）★ |                        |              |
-| [岐阜県](../Page/岐阜県.md "wikilink")                    | [エフエム岐阜](../Page/エフエム岐阜.md "wikilink")（FM GIFU）★                         |                        |              |
-| [滋賀県](../Page/滋賀県.md "wikilink")                    | [エフエム滋賀](../Page/エフエム滋賀.md "wikilink")（e-radio）★                         |                        |              |
-| [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink") | [岡山エフエム放送](../Page/岡山エフエム放送.md "wikilink")（FM OKAYAMA）                   |                        |              |
-| [広島県](../Page/広島県.md "wikilink")                    | [広島エフエム放送](../Page/広島エフエム放送.md "wikilink")（HFM）★                         |                        |              |
-| [山口県](../Page/山口県.md "wikilink")                    | [エフエム山口](https://ja.wikipedia.org/wiki/エフエム山口 "wikilink")（FMY）★          |                        |              |
-| [香川県](../Page/香川県.md "wikilink")                    | [エフエム香川](../Page/エフエム香川.md "wikilink")（FM香川）★                            |                        |              |
-| [徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink") | [エフエム徳島](../Page/エフエム徳島.md "wikilink")（FM TOKUSHIMA）                     |                        |              |
-| [長崎県](../Page/長崎県.md "wikilink")                    | [エフエム長崎](../Page/エフエム長崎.md "wikilink")（FM Nagasaki）★                     |                        |              |
-| [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink") | [エフエム熊本](../Page/エフエム熊本.md "wikilink")（FMK）★                             |                        |              |
-| [大分県](../Page/大分県.md "wikilink")                    | [エフエム大分](../Page/エフエム大分.md "wikilink")（Air-Radio FM88）★                  |                        |              |
-| [鹿児島県](../Page/鹿児島県.md "wikilink")                  | [エフエム鹿児島](../Page/エフエム鹿児島.md "wikilink")（μFM）★                           |                        |              |
-| [沖縄県](../Page/沖縄県.md "wikilink")                    | [エフエム沖縄](../Page/エフエム沖縄.md "wikilink")（FM沖縄）★                            |                        |              |
-| [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink") | [エフエム東京](../Page/エフエム東京.md "wikilink")（TOKYO FM）★                        | 毎週月曜 0:00 - 0:30（日曜深夜） | \[9\]\[10\]  |
-| [栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink") | [エフエム栃木](https://ja.wikipedia.org/wiki/エフエム栃木 "wikilink")（RADIO BERRY）★  | 毎週月曜 1:00 - 2:00（日曜深夜） | \[11\]       |
-| [宮崎県](../Page/宮崎県.md "wikilink")                    | [エフエム宮崎](../Page/エフエム宮崎.md "wikilink")（JOY FM）                           |                        |              |
-| [大阪府](../Page/大阪府.md "wikilink")                    | [エフエム大阪](../Page/エフエム大阪.md "wikilink")（FM OH\!）★                         | 毎週月曜 2:30 - 3:30（日曜深夜） | \[12\]\[13\] |
+| 放送対象地域                                              | 放送局名                                                                    | 放送時間                   | 備考           |
+| --------------------------------------------------- | ----------------------------------------------------------------------- | ---------------------- | ------------ |
+| [佐賀県](../Page/佐賀県.md "wikilink")                    | [エフエム佐賀](../Page/エフエム佐賀.md "wikilink")（FMS）                             | 毎週日曜 2:00 - 3:00（土曜深夜） |              |
+| [青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink") | [エフエム青森](../Page/エフエム青森.md "wikilink")（AFB）                             | 毎週日曜 4:00 - 5:00（土曜深夜） | \[7\]\[8\]   |
+| [岩手県](../Page/岩手県.md "wikilink")                    | [エフエム岩手](../Page/エフエム岩手.md "wikilink")（FM IWATE）★                       |                        |              |
+| [秋田県](../Page/秋田県.md "wikilink")                    | [エフエム秋田](../Page/エフエム秋田.md "wikilink")（AFM）                             |                        |              |
+| [山形県](../Page/山形県.md "wikilink")                    | [エフエム山形](../Page/エフエム山形.md "wikilink")（Rhythm Station）                  |                        |              |
+| [福島県](../Page/福島県.md "wikilink")                    | [エフエム福島](../Page/エフエム福島.md "wikilink")（ふくしまFM）★                         |                        |              |
+| [群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink") | [エフエム群馬](../Page/エフエム群馬.md "wikilink")（FMぐんま）★                          |                        |              |
+| [富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink") | [富山エフエム放送](../Page/富山エフエム放送.md "wikilink")（FMとやま）★                      |                        |              |
+| [石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink") | [エフエム石川](../Page/エフエム石川.md "wikilink")（HELLO FIVE）★                     |                        |              |
+| [福井県](../Page/福井県.md "wikilink")                    | [福井エフエム放送](../Page/福井エフエム放送.md "wikilink")（FM FUKUI）★                   |                        |              |
+| [岐阜県](../Page/岐阜県.md "wikilink")                    | [エフエム岐阜](../Page/エフエム岐阜.md "wikilink")（FM GIFU）★                        |                        |              |
+| [滋賀県](../Page/滋賀県.md "wikilink")                    | [エフエム滋賀](../Page/エフエム滋賀.md "wikilink")（e-radio）★                        |                        |              |
+| [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink") | [岡山エフエム放送](../Page/岡山エフエム放送.md "wikilink")（FM OKAYAMA）                  |                        |              |
+| [広島県](../Page/広島県.md "wikilink")                    | [広島エフエム放送](../Page/広島エフエム放送.md "wikilink")（HFM）★                        |                        |              |
+| [山口県](../Page/山口県.md "wikilink")                    | [エフエム山口](https://ja.wikipedia.org/wiki/エフエム山口 "wikilink")（FMY）★         |                        |              |
+| [香川県](../Page/香川県.md "wikilink")                    | [エフエム香川](../Page/エフエム香川.md "wikilink")（FM香川）★                           |                        |              |
+| [徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink") | [エフエム徳島](../Page/エフエム徳島.md "wikilink")（FM TOKUSHIMA）                    |                        |              |
+| [長崎県](../Page/長崎県.md "wikilink")                    | [エフエム長崎](../Page/エフエム長崎.md "wikilink")（FM Nagasaki）★                    |                        |              |
+| [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink") | [エフエム熊本](../Page/エフエム熊本.md "wikilink")（FMK）★                            |                        |              |
+| [大分県](../Page/大分県.md "wikilink")                    | [エフエム大分](../Page/エフエム大分.md "wikilink")（Air-Radio FM88）★                 |                        |              |
+| [鹿児島県](../Page/鹿児島県.md "wikilink")                  | [エフエム鹿児島](../Page/エフエム鹿児島.md "wikilink")（μFM）★                          |                        |              |
+| [沖縄県](../Page/沖縄県.md "wikilink")                    | [エフエム沖縄](../Page/エフエム沖縄.md "wikilink")（FM沖縄）★                           |                        |              |
+| [東京都](../Page/東京都.md "wikilink")                    | [エフエム東京](../Page/エフエム東京.md "wikilink")（TOKYO FM）★                       | 毎週月曜 0:00 - 0:30（日曜深夜） | \[9\]\[10\]  |
+| [栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink") | [エフエム栃木](https://ja.wikipedia.org/wiki/エフエム栃木 "wikilink")（RADIO BERRY）★ | 毎週月曜 1:00 - 2:00（日曜深夜） | \[11\]       |
+| [宮崎県](../Page/宮崎県.md "wikilink")                    | [エフエム宮崎](../Page/エフエム宮崎.md "wikilink")（JOY FM）                          |                        |              |
+| [大阪府](../Page/大阪府.md "wikilink")                    | [エフエム大阪](../Page/エフエム大阪.md "wikilink")（FM OH\!）★                        | 毎週月曜 2:30 - 3:30（日曜深夜） | \[12\]\[13\] |
 
 ## 関連項目
 

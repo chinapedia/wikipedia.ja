@@ -1,28 +1,28 @@
 > この記事は[WhiteStudioNekoashi](https://ja.wikipedia.org/wiki/WhiteStudioNekoashi)から翻訳されています。
 
 
-**WhiteStudioNekoashi**（白いスタジオねこあし 通称:白いスタねこ）は、主に[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")や[コンシューマーゲーム](../Page/コンシューマーゲーム.md "wikilink")、[同人](https://ja.wikipedia.org/wiki/同人 "wikilink")などの[ムービー](https://ja.wikipedia.org/wiki/ムービー "wikilink")（OPやプロモーション等）を作成しているムービー制作ブランド。
+**WhiteStudioNekoashi**（白いスタジオねこあし 通称:白いスタねこ）は、主に[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")や[コンシューマーゲーム](../Page/コンシューマーゲーム.md "wikilink")、[同人](https://ja.wikipedia.org/wiki/同人 "wikilink")などの[ムービー](../Page/ムービー.md "wikilink")（OPやプロモーション等）を作成しているムービー制作ブランド。
 
 ## 概要
 
-癸乙夜（みずのといつや）が大学在籍中、静止画ムービーを見て独学で勉強を始めすっかり映像世界の魅に。その後、03年よりフリーランスの[デモムービー](https://ja.wikipedia.org/wiki/デモムービー "wikilink")作家として活動。 のちの06年、映像制作ブランド「[Mju:z](https://ja.wikipedia.org/wiki/Mju:z "wikilink")」を[神月社](https://ja.wikipedia.org/wiki/Radiant_Impression_Prelude "wikilink")、パリオともに立ち上げ現在在籍中。
+癸乙夜（みずのといつや）が大学在籍中、静止画ムービーを見て独学で勉強を始めすっかり映像世界の魅に。その後、03年よりフリーランスの[デモムービー](https://ja.wikipedia.org/wiki/デモムービー "wikilink")作家として活動。 のちの06年、映像制作ブランド「[Mju:z](../Page/Mju:z.md "wikilink")」を[神月社](../Page/Radiant_Impression_Prelude.md "wikilink")、パリオともに立ち上げ現在在籍中。
 
 ## コンシューマー作品一覧
 
   - [状況開始っ\!](../Page/状況開始っ!.md "wikilink")
   - [蒼い空のネオスフィア どきどきアドベンチャー Effective E](https://ja.wikipedia.org/wiki/蒼い空のネオスフィア#蒼い空のネオスフィアどきどきアドベンチャー_EfectiveE "wikilink")
-  - [ガジェットトライアル](https://ja.wikipedia.org/wiki/ガジェットトライアル "wikilink")
-  - [D.C. Four Seasons 〜ダ・カーポ〜 フォーシーズンズ](https://ja.wikipedia.org/wiki/D.C._Four_Seasons_〜ダ・カーポ〜_フォーシーズンズ "wikilink") サマー編
+  - [ガジェットトライアル](../Page/ガジェットトライアル.md "wikilink")
+  - [D.C. Four Seasons 〜ダ・カーポ〜 フォーシーズンズ](../Page/D.C._Four_Seasons_〜ダ・カーポ〜_フォーシーズンズ.md "wikilink") サマー編
 
 ## アダルトゲーム作品一覧
 
   - [ホワイトブレス 〜with faint hope〜](https://ja.wikipedia.org/wiki/ホワイトブレス_〜with_faint_hope〜 "wikilink") ロングデモムービー
   - [あいかぎDVDエディッション](../Page/あいかぎ_〜ひだまりと彼女の部屋着〜.md "wikilink") OP・デモムービー
-  - [チェリッシュピザはいかがですか](https://ja.wikipedia.org/wiki/チェリッシュピザはいかがですか "wikilink") デモ/ロングデモ
+  - [チェリッシュピザはいかがですか](../Page/チェリッシュピザはいかがですか.md "wikilink") デモ/ロングデモ
   - [天空のシンフォニア](https://ja.wikipedia.org/wiki/天空のシンフォニア "wikilink") システムデモ・ゲーム内ムービー
   - [最終試験くじら](https://ja.wikipedia.org/wiki/最終試験くじら "wikilink") デモムービーB
   - [D.C. Summer Vacation 〜ダ・カーポ サマーバケーション〜](../Page/D.C._Summer_Vacation_〜ダ・カーポ_サマーバケーション〜.md "wikilink") OPムービー/デモ
-  - [終の館 〜罪と罰〜](https://ja.wikipedia.org/wiki/終の館 "wikilink") OPムービー
+  - [終の館 〜罪と罰〜](../Page/終の館.md "wikilink") OPムービー
   - [最終試験くじら〜Departures〜](../Page/最終試験くじら〜Departures〜.md "wikilink")イメージムービー/CM
   - 終の館 〜恋文〜 OPムービー
   - [つくしてあげるの\!](https://ja.wikipedia.org/wiki/つくしてあげるの! "wikilink") デモ/OPムービー
@@ -45,7 +45,7 @@
   - [鐘ノ音ダイナティック](../Page/鐘ノ音ダイナティック.md "wikilink")
   - [H<sub>2</sub>O -FOOTPRINTS IN THE SAND-](../Page/H2O_-FOOTPRINTS_IN_THE_SAND-.md "wikilink")
   - [PP -ピアニッシモ- 操リ人形ノ輪舞](https://ja.wikipedia.org/wiki/PP_-ピアニッシモ-_操リ人形ノ輪舞 "wikilink")
-  - [いな☆こい\! 〜お稲荷さまとモテモテのたたり〜](https://ja.wikipedia.org/wiki/いな☆こい!_〜お稲荷さまとモテモテのたたり〜 "wikilink")
+  - [いな☆こい\! 〜お稲荷さまとモテモテのたたり〜](../Page/いな☆こい!_〜お稲荷さまとモテモテのたたり〜.md "wikilink")
   - [きすみみ\!\! 〜Kiss\! Me\! Me\!〜](https://ja.wikipedia.org/wiki/きすみみ!!_〜Kiss!_Me!_Me!〜 "wikilink")
 
 ## 同人作品一覧

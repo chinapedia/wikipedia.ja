@@ -1,7 +1,7 @@
 > この記事は[GLOBAL COMMUNICATION](https://ja.wikipedia.org/wiki/GLOBAL_COMMUNICATION)から翻訳されています。
 
 
-「**GLOBAL COMMUNICATION**」（グローバル・コミュニケーション）は、[GLAY](../Page/GLAY.md "wikilink")の22枚目の[シングル](../Page/シングル.md "wikilink")。本作で9作連続[オリコン](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位獲得を果たした。
+「**GLOBAL COMMUNICATION**」（グローバル・コミュニケーション）は、[GLAY](../Page/GLAY.md "wikilink")の22枚目の[シングル](../Page/シングル.md "wikilink")。本作で9作連続[オリコン](../Page/オリコンチャート.md "wikilink")1位獲得を果たした。
 
 ## 概要
 
@@ -12,7 +12,7 @@
 
 ## 収録曲
 
-全作詞・作曲：[TAKURO](../Page/TAKURO.md "wikilink")　編曲：GLAY、[佐久間正英](https://ja.wikipedia.org/wiki/佐久間正英 "wikilink")
+全作詞・作曲：[TAKURO](../Page/TAKURO.md "wikilink")　編曲：GLAY、[佐久間正英](../Page/佐久間正英.md "wikilink")
 
 1.  **GLOBAL COMMUNICATION**
       -

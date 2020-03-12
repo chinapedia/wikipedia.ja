@@ -1,7 +1,7 @@
 > この記事は[OVERGROUND ACOUSTIC UNDERGROUND](https://ja.wikipedia.org/wiki/OVERGROUND_ACOUSTIC_UNDERGROUND)から翻訳されています。
 
 
-**OAU**（オーエーユー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のアコースティック・[バンドである](../Page/バンド_\(音楽\).md "wikilink")。[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")所属。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に結成。同年9月、下北沢440にて初ライブ（シークレット出演）を行う。
+**OAU**（オーエーユー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のアコースティック・[バンドである](../Page/バンド_\(音楽\).md "wikilink")。[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")所属。[2005年](../Page/2005年.md "wikilink")に結成。同年9月、下北沢440にて初ライブ（シークレット出演）を行う。
 
 2019年4月12日よりバンド名を「OVERGROUND ACOUSTIC UNDERGROUND（オーヴァーグラウンド・アコースティック・アンダーグラウンド）」から「OAU」（オーエーユー）へ変更。
 
@@ -14,7 +14,7 @@
   - **MAKOTO** - コントラバス、チェロ
   - **RONZI** - ドラムス
 
-TOSHI-LOW、KOHKI、MAKOTO、RONZIの4人は[BRAHMAN](https://ja.wikipedia.org/wiki/BRAHMAN "wikilink")のメンバーであり、MARTINはJOHNSONS MOTORCAR、KAKUEIは再結成のIMA21のバンドメンバーとしても活動している。
+TOSHI-LOW、KOHKI、MAKOTO、RONZIの4人は[BRAHMAN](../Page/BRAHMAN.md "wikilink")のメンバーであり、MARTINはJOHNSONS MOTORCAR、KAKUEIは再結成のIMA21のバンドメンバーとしても活動している。
 
 
 
@@ -50,7 +50,7 @@ TOSHI-LOW、KOHKI、MAKOTO、RONZIの4人は[BRAHMAN](https://ja.wikipedia.org/w
 </div>
 </div></li>
 </ol></td>
-<td><p>コーラスに<a href="https://ja.wikipedia.org/wiki/細美武士" title="wikilink">細美武士</a>（the HIATUS、MONOEYES、ELLEGARDEN）が参加</p></td>
+<td><p>コーラスに<a href="../Page/細美武士.md" title="wikilink">細美武士</a>（the HIATUS、MONOEYES、ELLEGARDEN）が参加</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -86,7 +86,7 @@ TOSHI-LOW、KOHKI、MAKOTO、RONZIの4人は[BRAHMAN](https://ja.wikipedia.org/w
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/7月12日.md" title="wikilink">7月12日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/7月12日.md" title="wikilink">7月12日</a></p></td>
 <td><p><strong>OVERGROUND ACOUSTIC UNDERGROUND</strong></p></td>
 <td><p>TFCC-86203</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -283,7 +283,7 @@ TFJC-38038:アナログ盤</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/11月23日.md" title="wikilink">11月23日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/11月23日.md" title="wikilink">11月23日</a></p></td>
 <td><p><strong>THE BASEMENT TRACKS -10 YEARS SOUNDTRACK OF 7STARS-</strong></p></td>
 <td><p>TFCC-86188</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -310,7 +310,7 @@ TFJC-38038:アナログ盤</p></td>
 <td><p>オリコン最高55位、登場回数4回</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/5月10日.md" title="wikilink">5月10日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/5月10日.md" title="wikilink">5月10日</a></p></td>
 <td><p><strong>ROCK THE <a href="https://ja.wikipedia.org/wiki/ULTRAMAN" title="wikilink">ULTRAMAN</a></strong></p></td>
 <td><p>AVCD-17953</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -320,12 +320,12 @@ TFJC-38038:アナログ盤</p></td>
 <div class="NavContent" style="text-align:left;">
 <ol>
 <li>ウルトラQ / <a href="https://ja.wikipedia.org/wiki/LOW_IQ_ICHI" title="wikilink">LOW IQ ICHI</a></li>
-<li>ウルトラマンの歌 / <a href="https://ja.wikipedia.org/wiki/Bloodthirsty_butchers" title="wikilink">Bloodthirsty butchers</a></li>
+<li>ウルトラマンの歌 / <a href="../Page/Bloodthirsty_butchers.md" title="wikilink">Bloodthirsty butchers</a></li>
 <li>ULTRA SEVEN / <a href="../Page/RUDEBONES.md" title="wikilink">RUDEBONES</a></li>
 <li><strong>MATのテーマ / OVERGROUND ACOUSTIC UNDERGROUND</strong></li>
 <li>ウルトラマン80 / <a href="../Page/BAZRA.md" title="wikilink">BAZRA</a></li>
 <li>ウルトラマンレオ / <a href="https://ja.wikipedia.org/wiki/杉本恭一" title="wikilink">杉本恭一</a></li>
-<li>マイティジャックの歌 / <a href="https://ja.wikipedia.org/wiki/特撮_(バンド)" title="wikilink">特撮</a></li>
+<li>マイティジャックの歌 / <a href="../Page/特撮_(バンド).md" title="wikilink">特撮</a></li>
 <li>ウルトラセブンの歌 / <a href="https://ja.wikipedia.org/wiki/FOE" title="wikilink">FOE</a></li>
 <li>MACのテーマ / <a href="../Page/CUBISMO_GRAFICO.md" title="wikilink">CUBISMO GRAFICO</a></li>
 <li>死神の子守唄 / <a href="https://ja.wikipedia.org/wiki/MOGA_THE_/5" title="wikilink">MOGA THE \5</a></li>
@@ -352,10 +352,10 @@ TFJC-38038:アナログ盤</p></td>
 <li>8.6 / <a href="https://ja.wikipedia.org/wiki/toe" title="wikilink">toe</a> + <a href="https://ja.wikipedia.org/wiki/土岐麻子" title="wikilink">土岐麻子</a></li>
 <li>WALK / <a href="https://ja.wikipedia.org/wiki/Ken_Yokoyama" title="wikilink">Ken Yokoyama</a></li>
 <li>SHARE THE JOY OF OUR TOUR / <a href="https://ja.wikipedia.org/wiki/WATER_CLOSET" title="wikilink">WATER CLOSET</a></li>
-<li>SUN MYSELF / <a href="https://ja.wikipedia.org/wiki/BRAHMAN" title="wikilink">BRAHMAN</a></li>
+<li>SUN MYSELF / <a href="../Page/BRAHMAN.md" title="wikilink">BRAHMAN</a></li>
 <li>A SINGLE WORD / <a href="https://ja.wikipedia.org/wiki/FINE_LINES" title="wikilink">FINE LINES</a></li>
-<li>欠けボタンの浜 / <a href="https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
-<li>BY CHANCE / <a href="https://ja.wikipedia.org/wiki/BEAT_CRUSADERS" title="wikilink">BEAT CRUSADERS</a></li>
+<li>欠けボタンの浜 / <a href="../Page/ASIAN_KUNG-FU_GENERATION.md" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
+<li>BY CHANCE / <a href="../Page/BEAT_CRUSADERS.md" title="wikilink">BEAT CRUSADERS</a></li>
 <li>STILL IN THE SAME PLACE? / <a href="https://ja.wikipedia.org/wiki/WOWW" title="wikilink">WOWW</a></li>
 <li><strong>THE SUN AND THE MOON / OVERGROUND ACOUSTIC UNDERGROUND</strong></li>
 <li>後に跡 / <a href="../Page/YOUR_SONG_IS_GOOD.md" title="wikilink">YOUR SONG IS GOOD</a></li>
@@ -387,10 +387,10 @@ TFJC-38038:アナログ盤</p></td>
 <li>Arms Around the Sun / <a href="https://ja.wikipedia.org/wiki/THE_SIM_REDMOND_BAND" title="wikilink">THE SIM REDMOND BAND</a></li>
 <li><strong>Puppeteer / OVERGROUND ACOUSTIC UNDERGROUND</strong></li>
 <li>Come and Check Your Head / <a href="https://ja.wikipedia.org/wiki/Blue_King_Brown" title="wikilink">Blue King Brown</a></li>
-<li>Thank You / <a href="https://ja.wikipedia.org/wiki/Leyona" title="wikilink">Leyona</a></li>
+<li>Thank You / <a href="../Page/Leyona.md" title="wikilink">Leyona</a></li>
 <li>SLOWJAM / <a href="../Page/東田トモヒロ.md" title="wikilink">東田トモヒロ</a></li>
 <li>Fire Flood Freedom / <a href="https://ja.wikipedia.org/wiki/Mike_McCarthy" title="wikilink">Mike McCarthy</a></li>
-<li>Bless / <a href="../Page/Keison.md" title="wikilink">Keison</a>×<a href="https://ja.wikipedia.org/wiki/Leyona" title="wikilink">Leyona</a></li>
+<li>Bless / <a href="../Page/Keison.md" title="wikilink">Keison</a>×<a href="../Page/Leyona.md" title="wikilink">Leyona</a></li>
 <li>New Day / <a href="https://ja.wikipedia.org/wiki/GABBY_&amp;_LOPEZ" title="wikilink">GABBY &amp; LOPEZ</a></li>
 <li>Spiritualize / LOTUS
 </div>
@@ -445,7 +445,7 @@ PCCA-4065</p></td>
 | [UGICHIN](../Page/UGICHIN.md "wikilink")              | 「[Dissonant Melody](https://www.youtube.com/watch?v=YOqQNIjj3nY)」「Thank You」「[all the way](https://www.youtube.com/watch?v=LHQ91kq7fD0)」 |
 | [川口潤](https://ja.wikipedia.org/wiki/川口潤 "wikilink")   | 「[New Tale](https://www.youtube.com/watch?v=0o3dd6RXRLU)」                                                                                |
 | [武藤義明](https://ja.wikipedia.org/wiki/武藤義明 "wikilink") | 「The World」「[Follow The Dream（Live Ver.）](https://www.youtube.com/watch?v=orf1VcZOgKc)」                                                  |
-| [箭内道彦](https://ja.wikipedia.org/wiki/箭内道彦 "wikilink") | 「[夢の跡](https://www.youtube.com/watch?v=JZlBddtFHKI)」「[朝焼の歌](https://www.youtube.com/watch?v=yyRdiwrZy-Y)」                                |
+| [箭内道彦](../Page/箭内道彦.md "wikilink")                    | 「[夢の跡](https://www.youtube.com/watch?v=JZlBddtFHKI)」「[朝焼の歌](https://www.youtube.com/watch?v=yyRdiwrZy-Y)」                                |
 | 不明                                                    | 「[Making Time](https://www.youtube.com/watch?v=MR0Ij1FYy4k)」                                                                             |
 | 永戸知之                                                  | 「MIDNIGHT SUN」short ver.                                                                                                                 |
 | 不明                                                    | 「帰り道」                                                                                                                                    |
@@ -540,7 +540,7 @@ PCCA-4065</p></td>
   - 2013年09月29日 - BLUE LAGOON FESTA '13
   - 2013年10月13日 - SUPER DREAM LAKE CONCERT IN MITO 2013
   - 2013年11月09日 - JG NETS PRESENTS 「[toe](https://ja.wikipedia.org/wiki/toe "wikilink") vs OVERGROUND ACOUSTIC UNDERGROUND」
-  - 2013年11月15日 - [宇崎竜童](https://ja.wikipedia.org/wiki/宇崎竜童 "wikilink")プロデュース シブイおとなのコンサート2013
+  - 2013年11月15日 - [宇崎竜童](../Page/宇崎竜童.md "wikilink")プロデュース シブイおとなのコンサート2013
   - 2013年12月25日 - Especially Winter Night 2013
   - 2014年03月01日 - Chain of Smiles vol.1
   - 2014年03月15日 - L∞P ～OVERGROUND ACOUSTIC UNDERGROUND × [cinema staff](https://ja.wikipedia.org/wiki/cinema_staff "wikilink")～

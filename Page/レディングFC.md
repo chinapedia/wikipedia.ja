@@ -3,7 +3,7 @@
 
 **レディングFC**（**Reading Football Club** ( )）は、[イングランド](../Page/イングランド.md "wikilink")・[レディング](../Page/レディング.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。
 
-[1871年](../Page/1871年.md "wikilink")設立。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に当時のオーナーの名を冠したマディスキ・スタジアムにホームスタジアムを新築移転した。2006-07シーズンには[プレミアリーグへ設立以来](https://ja.wikipedia.org/wiki/FAプレミアリーグ "wikilink")135年目にして初の昇格・残留を果たした。 愛称はロイヤルズといい、ロイヤルとは[王室](../Page/王室.md "wikilink")という意味である。 クラブの[マスコット](https://ja.wikipedia.org/wiki/マスコット "wikilink")は、キングズリーロイヤルと呼ばれる[ライオン](../Page/ライオン.md "wikilink")である。
+[1871年](../Page/1871年.md "wikilink")設立。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に当時のオーナーの名を冠したマディスキ・スタジアムにホームスタジアムを新築移転した。2006-07シーズンには[プレミアリーグへ設立以来](https://ja.wikipedia.org/wiki/FAプレミアリーグ "wikilink")135年目にして初の昇格・残留を果たした。 愛称はロイヤルズといい、ロイヤルとは[王室](../Page/王室.md "wikilink")という意味である。 クラブの[マスコット](../Page/マスコット.md "wikilink")は、キングズリーロイヤルと呼ばれる[ライオン](../Page/ライオン.md "wikilink")である。
 
 ## クラブ史概要
 
@@ -179,7 +179,7 @@
 
   - [ブライアン・マクダーモット](https://ja.wikipedia.org/wiki/ブライアン・マクダーモット "wikilink") 2015-2016
 
-  - [ヤープ・スタム](https://ja.wikipedia.org/wiki/ヤープ・スタム "wikilink") 2016-2018
+  - [ヤープ・スタム](../Page/ヤープ・スタム.md "wikilink") 2016-2018
 
   - ポール・クレメント 2018
 
@@ -207,7 +207,7 @@
 
   - [ケヴィン・ドイル](../Page/ケヴィン・ドイル.md "wikilink") 2005-2009
 
-  - [グラハム・スタック](https://ja.wikipedia.org/wiki/グラハム・スタック "wikilink") 2005-2006
+  - [グラハム・スタック](../Page/グラハム・スタック.md "wikilink") 2005-2006
 
   - [シェーン・ロング](https://ja.wikipedia.org/wiki/シェーン・ロング "wikilink") 2005-2011
 
@@ -219,7 +219,7 @@
 
   - [ウリセス・デ・ラ・クルス](../Page/ウリセス・デ・ラ・クルス.md "wikilink") 2006-2008
 
-  - [薛琦鉉](https://ja.wikipedia.org/wiki/薛ギ鉉 "wikilink") 2006-2007
+  - [薛琦鉉](../Page/薛ギ鉉.md "wikilink") 2006-2007
 
   - [ジミー・ケベ](https://ja.wikipedia.org/wiki/ジミー・ケベ "wikilink") 2008-2013
 

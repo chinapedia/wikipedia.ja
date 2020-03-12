@@ -15,7 +15,7 @@
     [声](../Page/声優.md "wikilink") - [中本順久](../Page/中本順久.md "wikilink")
     美しさを持つ[悪魔](../Page/悪魔.md "wikilink")的な[吸血鬼](../Page/吸血鬼.md "wikilink")。ジークを吸血鬼にした。
   - ジーク
-    声 - [杉田智和](https://ja.wikipedia.org/wiki/杉田智和 "wikilink")
+    声 - [杉田智和](../Page/杉田智和.md "wikilink")
   - ステファン
     声 - [ユウ・アマノ](https://ja.wikipedia.org/wiki/ユウ・アマノ "wikilink")
     ジークの幼馴染み、半吸血鬼。
@@ -35,7 +35,7 @@
 ## スタッフ
 
   - 原作 - [Durant Project](https://ja.wikipedia.org/wiki/Durant_Project "wikilink")（[Project DUO](https://ja.wikipedia.org/wiki/Project_DUO "wikilink")）
-  - 監督 - [ネギシ・ヒロシ](https://ja.wikipedia.org/wiki/ねぎしひろし "wikilink")
+  - 監督 - [ネギシ・ヒロシ](../Page/ねぎしひろし.md "wikilink")
   - 監修・企画協力 - 菊池晃一
   - キャラクターデザイン - [RADIX企画室](https://ja.wikipedia.org/wiki/RADIX企画室 "wikilink")
   - 脚本 - [井上敏樹](../Page/井上敏樹.md "wikilink")、[石橋大助](https://ja.wikipedia.org/wiki/石橋大助 "wikilink")

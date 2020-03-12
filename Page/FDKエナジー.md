@@ -1,7 +1,7 @@
 > この記事は[FDK](https://ja.wikipedia.org/wiki/FDK)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:FDK-CR2032.JPG "wikilink") **FDKエナジー株式会社**（エフディーケイエナジー、）は、かつて存在した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[企業](../Page/企業.md "wikilink")。[アルカリ乾電池](../Page/アルカリマンガン乾電池.md "wikilink")、[リチウム電池](https://ja.wikipedia.org/wiki/リチウム電池 "wikilink")の製造等を行う[FDK](https://ja.wikipedia.org/wiki/FDK "wikilink")株式会社の子会社で、同じく子会社のPT FDK INDONESIAとともに、FDKグループとして乾電池を供給していた\[1\]。供給先ブランドは[富士通](../Page/富士通.md "wikilink")の他、[ソニー](../Page/ソニー.md "wikilink")\[2\]、[三菱電機](../Page/三菱電機.md "wikilink")\[3\]、[東芝](../Page/東芝.md "wikilink")\[4\]など。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:FDK-CR2032.JPG "wikilink") **FDKエナジー株式会社**（エフディーケイエナジー、）は、かつて存在した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[企業](../Page/企業.md "wikilink")。[アルカリ乾電池](../Page/アルカリマンガン乾電池.md "wikilink")、[リチウム電池](../Page/リチウム電池.md "wikilink")の製造等を行う[FDK](https://ja.wikipedia.org/wiki/FDK "wikilink")株式会社の子会社で、同じく子会社のPT FDK INDONESIAとともに、FDKグループとして乾電池を供給していた\[1\]。供給先ブランドは[富士通](../Page/富士通.md "wikilink")の他、[ソニー](../Page/ソニー.md "wikilink")\[2\]、[三菱電機](../Page/三菱電機.md "wikilink")\[3\]、[東芝](../Page/東芝.md "wikilink")\[4\]など。
 
 ## 沿革
 
@@ -13,7 +13,7 @@
   - [1965年](../Page/1965年.md "wikilink")（昭和40年） - 富士通の出資比率が43.3%となる。
   - [1967年](../Page/1967年.md "wikilink")（昭和42年） - [アルカリ乾電池の生産開始](../Page/アルカリマンガン乾電池.md "wikilink")。
   - [1972年](../Page/1972年.md "wikilink")（昭和47年） - 富士通の出資比率が50.5%となり、富士通の子会社化。
-  - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")（昭和53年） - [酸化銀電池](https://ja.wikipedia.org/wiki/酸化銀電池 "wikilink")を発売。
+  - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")（昭和53年） - [酸化銀電池](../Page/酸化銀電池.md "wikilink")を発売。
   - [1984年](../Page/1984年.md "wikilink")（昭和59年） - 乾電池のブランドを「富士通乾電池」に変更。（それまでは「ノーベル乾電池」）
   - [1991年](../Page/1991年.md "wikilink")（[平成](../Page/平成.md "wikilink")3年） - 無水銀[マンガン乾電池](../Page/マンガン乾電池.md "wikilink")を発売。
   - [1992年](../Page/1992年.md "wikilink")（平成4年） - 無水銀アルカリ乾電池を発売。
@@ -27,7 +27,7 @@
 
 ## 関連項目
 
-  - [FDKトワイセル](../Page/FDKトワイセル.md "wikilink") - 2014年にFDKと合併した[ニッケル・水素充電池](https://ja.wikipedia.org/wiki/ニッケル・水素充電池 "wikilink")製造会社。FDKエナジーの一部設備と同じく東芝電池をルーツとする。
+  - [FDKトワイセル](../Page/FDKトワイセル.md "wikilink") - 2014年にFDKと合併した[ニッケル・水素充電池](../Page/ニッケル・水素充電池.md "wikilink")製造会社。FDKエナジーの一部設備と同じく東芝電池をルーツとする。
 
 ## 外部リンク
 

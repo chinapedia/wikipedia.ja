@@ -14,7 +14,7 @@
       - 作詞・作曲：[TAKURO](../Page/TAKURO.md "wikilink")
     <!-- end list -->
       -
-        ハモリを[JIRO](../Page/JIRO.md "wikilink")が担当している珍しい曲。[PVではメンバー各々のプライベートカットのようなものを収録している](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。
+        ハモリを[JIRO](../Page/JIRO.md "wikilink")が担当している珍しい曲。[PVではメンバー各々のプライベートカットのようなものを収録している](../Page/ミュージック・ビデオ.md "wikilink")。
 2.  **neuromancer**
       - 作詞・作曲：[HISASHI](../Page/HISASHI.md "wikilink")
     <!-- end list -->
@@ -38,7 +38,7 @@
 
 ## 関連項目
 
-  - [1996年の音楽](https://ja.wikipedia.org/wiki/1996年の音楽 "wikilink")
-  - [1997年の音楽](https://ja.wikipedia.org/wiki/1997年の音楽 "wikilink")
+  - [1996年の音楽](../Page/1996年の音楽.md "wikilink")
+  - [1997年の音楽](../Page/1997年の音楽.md "wikilink")
 
 [Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:GLAYの楽曲](https://ja.wikipedia.org/wiki/Category:GLAYの楽曲 "wikilink") [Category:TAKUROが制作した楽曲](https://ja.wikipedia.org/wiki/Category:TAKUROが制作した楽曲 "wikilink") [Category:NHKの番組主題歌](https://ja.wikipedia.org/wiki/Category:NHKの番組主題歌 "wikilink") [Category:ト長調](https://ja.wikipedia.org/wiki/Category:ト長調 "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink") [Category:ポリドール・レコードのシングル](https://ja.wikipedia.org/wiki/Category:ポリドール・レコードのシングル "wikilink")

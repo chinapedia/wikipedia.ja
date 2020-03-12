@@ -1,7 +1,7 @@
 > この記事は[Adobe PageMaker](https://ja.wikipedia.org/wiki/Adobe_PageMaker)から翻訳されています。
 
 
-**Adobe PageMaker**（**アドビ・ページメーカー**）とは、かつて[アドビシステムズ](../Page/アドビシステムズ.md "wikilink")の開発・販売していた[DTP](../Page/DTP.md "wikilink")ソフト。当初[アルダス](https://ja.wikipedia.org/wiki/アルダス "wikilink")社によって開発されたが、バージョン5時にアドビによりアルダス社ごと買収された。
+**Adobe PageMaker**（**アドビ・ページメーカー**）とは、かつて[アドビシステムズ](../Page/アドビシステムズ.md "wikilink")の開発・販売していた[DTP](../Page/DTP.md "wikilink")ソフト。当初[アルダス](../Page/アルダス.md "wikilink")社によって開発されたが、バージョン5時にアドビによりアルダス社ごと買収された。
 
 最終バージョンは7.0.2（[2001年](../Page/2001年.md "wikilink")11月リリース）。
 
@@ -13,7 +13,7 @@
 
 ボックスを使わずに、紙面上の任意の場所に文字や画像を配置することができるなど、直感的な操作性を特徴とする。また、パソコンによるDTPソフトとしてはかなり初期の段階で[カラー対応を果たしている](../Page/色.md "wikilink")。
 
-1999年にアドビではアルダスが開発していた[InDesign](../Page/Adobe_InDesign.md "wikilink")\[3\]を継続開発し、[QuarkXPress](../Page/QuarkXPress.md "wikilink")に対抗するDTPソフトとして販売を始めた。同社によると、デザイン要素の強いレイアウトワークにはInDesignを、ビジネスドキュメントにはPageMakerを、大量のマニュアルなどには[FrameMakerを](https://ja.wikipedia.org/wiki/Adobe_FrameMaker "wikilink")、というように分類していたが、PageMakerからInDesignへの移行を推進し\[4\]、2005年にはアドビストアでは PageMaker 7からInDesign CS2へのアップグレード版が販売された（InDesign CS2ではPageMaker 6.0以降のファイルを変換出来る）\[5\]。
+1999年にアドビではアルダスが開発していた[InDesign](../Page/Adobe_InDesign.md "wikilink")\[3\]を継続開発し、[QuarkXPress](../Page/QuarkXPress.md "wikilink")に対抗するDTPソフトとして販売を始めた。同社によると、デザイン要素の強いレイアウトワークにはInDesignを、ビジネスドキュメントにはPageMakerを、大量のマニュアルなどには[FrameMakerを](../Page/Adobe_FrameMaker.md "wikilink")、というように分類していたが、PageMakerからInDesignへの移行を推進し\[4\]、2005年にはアドビストアでは PageMaker 7からInDesign CS2へのアップグレード版が販売された（InDesign CS2ではPageMaker 6.0以降のファイルを変換出来る）\[5\]。
 
 ## 歴史
 

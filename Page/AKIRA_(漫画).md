@@ -5,15 +5,15 @@
 
 ## 概要
 
-[超能力](https://ja.wikipedia.org/wiki/超能力 "wikilink")者を巡る軍や反政府勢力の争い、近未来都市やその崩壊後の世界を描いた[SF漫画](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")。
+[超能力](../Page/超能力.md "wikilink")者を巡る軍や反政府勢力の争い、近未来都市やその崩壊後の世界を描いた[SF漫画](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")。
 
-[講談社](../Page/講談社.md "wikilink")の漫画雑誌『[週刊ヤングマガジン](https://ja.wikipedia.org/wiki/週刊ヤングマガジン "wikilink")』にて、[1982年](../Page/1982年.md "wikilink")12月20日号から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")6月25日号にかけて連載\[1\]（途中、アニメ映画制作に伴う中断あり）。全120話。題字は[平田弘史](https://ja.wikipedia.org/wiki/平田弘史 "wikilink")が担当（PART3～PART4）。
+[講談社](../Page/講談社.md "wikilink")の漫画雑誌『[週刊ヤングマガジン](https://ja.wikipedia.org/wiki/週刊ヤングマガジン "wikilink")』にて、[1982年](../Page/1982年.md "wikilink")12月20日号から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")6月25日号にかけて連載\[1\]（途中、アニメ映画制作に伴う中断あり）。全120話。題字は[平田弘史](../Page/平田弘史.md "wikilink")が担当（PART3～PART4）。
 
-[1984年](../Page/1984年.md "wikilink")（昭和59年）度 第8回[講談社漫画賞](https://ja.wikipedia.org/wiki/講談社漫画賞 "wikilink")一般部門受賞。
+[1984年](../Page/1984年.md "wikilink")（昭和59年）度 第8回[講談社漫画賞](../Page/講談社漫画賞.md "wikilink")一般部門受賞。
 
 [1988年](../Page/1988年.md "wikilink") 7月16日、アニメ映画公開。12月24日、タイトーによるゲーム発売（ファミリーコンピュータ）。
 
-[2002年](../Page/2002年.md "wikilink")、[アイズナー賞](https://ja.wikipedia.org/wiki/アイズナー賞 "wikilink")最優秀国際アーカイブプロジェクト部門および最優秀国際作品部門を受賞。また、それ以前の[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")にも『オールカラー国際版』が最優秀彩色部門を受賞している。
+[2002年](../Page/2002年.md "wikilink")、[アイズナー賞](https://ja.wikipedia.org/wiki/アイズナー賞 "wikilink")最優秀国際アーカイブプロジェクト部門および最優秀国際作品部門を受賞。また、それ以前の[1992年](../Page/1992年.md "wikilink")にも『オールカラー国際版』が最優秀彩色部門を受賞している。
 
 [2019年](../Page/2019年.md "wikilink") 7月、ロサンゼルスで開催された[Anime Expo 2019にてサンライズによる新アニメ化プロジェクトを発表](https://ja.wikipedia.org/wiki/アニメ・エキスポ "wikilink")\[2\]。
 
@@ -21,11 +21,11 @@
 
 ## 制作の背景
 
-大友克洋は『[美術手帖](https://ja.wikipedia.org/wiki/美術手帖 "wikilink")』1998年12月号のインタビューで、『AKIRA』について、「[東京](https://ja.wikipedia.org/wiki/東京 "wikilink")が好きで、別の形で東京を語りなおしてみたい欲望があった」「[戦後の復興期から](https://ja.wikipedia.org/wiki/戦後復興期 "wikilink")[東京オリンピックの頃のような混沌を構築したかった](../Page/1964年東京オリンピック.md "wikilink")。（東京のように）こんなに無思想で歪んでめまぐるしく変化していく都市は魅力的」と語っている\[3\]。また[NHKスペシャル](https://ja.wikipedia.org/wiki/NHKスペシャル "wikilink")のシリーズ「東京リボーン」で『AKIRA』がタイトル映像などに取り上げられるにあたってのインタビューでは次のように、廃墟からオリンピックまでの昭和の東京を描こうとしたことを語っている\[4\]\[5\]。
+大友克洋は『[美術手帖](https://ja.wikipedia.org/wiki/美術手帖 "wikilink")』1998年12月号のインタビューで、『AKIRA』について、「[東京](../Page/東京.md "wikilink")が好きで、別の形で東京を語りなおしてみたい欲望があった」「[戦後の復興期から](../Page/戦後復興期.md "wikilink")[東京オリンピックの頃のような混沌を構築したかった](../Page/1964年東京オリンピック.md "wikilink")。（東京のように）こんなに無思想で歪んでめまぐるしく変化していく都市は魅力的」と語っている\[3\]。また[NHKスペシャル](../Page/NHKスペシャル.md "wikilink")のシリーズ「東京リボーン」で『AKIRA』がタイトル映像などに取り上げられるにあたってのインタビューでは次のように、廃墟からオリンピックまでの昭和の東京を描こうとしたことを語っている\[4\]\[5\]。
 
 バイクの暴走少年を主人公としたことについては以下のように述べている\[6\]。
 
-近藤正高は、AKIRAが偶然にも2020年の[東京オリンピック実現を](https://ja.wikipedia.org/wiki/2020年東京オリンピック "wikilink")「予言」したことについて、「同作の連載が開始された[1982年](../Page/1982年.md "wikilink")が[第2次世界大戦](https://ja.wikipedia.org/wiki/第2次世界大戦 "wikilink")終結から37年後だったので、その時間幅をそのまま作中の[第3次世界大戦](https://ja.wikipedia.org/wiki/第3次世界大戦 "wikilink")後に当てはめたのだろう」と述べている\[7\]\[8\]。物語の舞台である[2019年](../Page/2019年.md "wikilink")は、連載開始の年であり、作中で「新型爆弾」により東京が廃墟と化した年である[1982年](../Page/1982年.md "wikilink")からは37年後に当たる。本作にはデモ隊、オリンピック、四畳半、路地裏などの昭和の東京を思わせる、連載当時の都市再開発や[バブル景気](https://ja.wikipedia.org/wiki/バブル景気 "wikilink")の中で失われようとしていた風景が描かれていたこと、それらを惜しむというよりは変化し続ける混沌の方をこそ愛しているようだと評している\[9\]\[10\]。
+近藤正高は、AKIRAが偶然にも2020年の[東京オリンピック実現を](https://ja.wikipedia.org/wiki/2020年東京オリンピック "wikilink")「予言」したことについて、「同作の連載が開始された[1982年](../Page/1982年.md "wikilink")が[第2次世界大戦](https://ja.wikipedia.org/wiki/第2次世界大戦 "wikilink")終結から37年後だったので、その時間幅をそのまま作中の[第3次世界大戦](https://ja.wikipedia.org/wiki/第3次世界大戦 "wikilink")後に当てはめたのだろう」と述べている\[7\]\[8\]。物語の舞台である[2019年](../Page/2019年.md "wikilink")は、連載開始の年であり、作中で「新型爆弾」により東京が廃墟と化した年である[1982年](../Page/1982年.md "wikilink")からは37年後に当たる。本作にはデモ隊、オリンピック、四畳半、路地裏などの昭和の東京を思わせる、連載当時の都市再開発や[バブル景気](../Page/バブル景気.md "wikilink")の中で失われようとしていた風景が描かれていたこと、それらを惜しむというよりは変化し続ける混沌の方をこそ愛しているようだと評している\[9\]\[10\]。
 
 ## ストーリー
 
@@ -33,7 +33,7 @@
 
 ### 1巻（PART1 鉄雄）
 
-[2019年](../Page/2019年.md "wikilink")。[東京湾](../Page/東京湾.md "wikilink")には[超高層建築物](https://ja.wikipedia.org/wiki/超高層建築物 "wikilink")が林立する新首都「ネオ東京」が建設され、その繁栄は爛熟の極に達していたが、その足元では反政府デモ隊と警察が衝突する騒然とした状態が続いていた。崩壊ののち放置状態だった旧市街（かつての東京）でも、[2020年](../Page/2020年.md "wikilink")の東京オリンピック開催\[11\]を機に、[都市再開発](https://ja.wikipedia.org/wiki/都市再開発 "wikilink")が進められようとしていた。
+[2019年](../Page/2019年.md "wikilink")。[東京湾](../Page/東京湾.md "wikilink")には[超高層建築物](../Page/超高層建築物.md "wikilink")が林立する新首都「ネオ東京」が建設され、その繁栄は爛熟の極に達していたが、その足元では反政府デモ隊と警察が衝突する騒然とした状態が続いていた。崩壊ののち放置状態だった旧市街（かつての東京）でも、[2020年](../Page/2020年.md "wikilink")の東京オリンピック開催\[11\]を機に、[都市再開発](../Page/都市再開発.md "wikilink")が進められようとしていた。
 
 主人公である職業訓練校生・**金田**率いる暴走族の少年たちは、旧市街へと続く遺棄されたハイウェイに入り込んでバイクを走らせていたところ、「爆心地」付近で白髪の少年と遭遇する。彼は軍の研究機関から、反政府ゲリラによって連れ出された実験体・**タカシ**（26号）であった。
 
@@ -127,17 +127,17 @@
 
 ## 登場人物
 
-メインキャラクターの名前のいくつかは『[鉄人28号](https://ja.wikipedia.org/wiki/鉄人28号 "wikilink")』のオマージュであることが明らかにされている。これは『鉄人28号』の主人公である「金田正太郎」、鉄人28号を開発した敷島博士の息子「敷島鉄雄」から取られた「島鉄雄」などに現れている\[12\]。原作、アニメ映画版、ゲーム版で設定に多少の差異がある。
+メインキャラクターの名前のいくつかは『[鉄人28号](../Page/鉄人28号.md "wikilink")』のオマージュであることが明らかにされている。これは『鉄人28号』の主人公である「金田正太郎」、鉄人28号を開発した敷島博士の息子「敷島鉄雄」から取られた「島鉄雄」などに現れている\[12\]。原作、アニメ映画版、ゲーム版で設定に多少の差異がある。
 
 ### 主要人物
 
   - 金田 正太郎（かねだ しょうたろう）
     主人公。職業訓練校の生徒。暴走族チームのリーダー格で、自称「健康優良不良少年」。自分専用に改造したバイク（盗品）を駆り、日々を無為な暴走行為に費やしている。そのすばしっこさや逃げ足の速さは、軍隊でも捕まえられないほどで、大佐を驚嘆させた。
-    高い運動神経の持ち主で、[走り屋](https://ja.wikipedia.org/wiki/走り屋 "wikilink")としては度胸のある走りをする。仲間や走り屋からの人望も篤い。また、鉄雄とは幼少からの幼馴染であり、イジメを受けやすい彼を庇護するような立場の親友として接していた。
+    高い運動神経の持ち主で、[走り屋](../Page/走り屋.md "wikilink")としては度胸のある走りをする。仲間や走り屋からの人望も篤い。また、鉄雄とは幼少からの幼馴染であり、イジメを受けやすい彼を庇護するような立場の親友として接していた。
     ケイを助けたことで、反政府ゲリラと関わる。能力に覚醒し、薬物に溺れた鉄雄がリーダーとなった暴走族チーム「クラウン」との抗争で、鉄雄を追い込み銃口を突きつけるも幼馴染ゆえに引き金を引くことができず、目の前で山形を殺害される。これをきっかけに鉄雄への復讐に走るが、まだ彼に対して情を捨てきれない面を残している。
     原作ではゲリラの一員としてケイやチヨコと行動を共にしていたが、覚醒したアキラの力に飲み込まれ、物語中盤は表舞台から一旦姿を消す。後にアキラと鉄雄の力の発動の中で、第三次世界大戦を含む一連の出来事の真相を知る。事件の終了後、ケイ、チヨコ、甲斐らと共に大東京帝国を鉄雄から引き継いだ。職業訓練校の保健婦と関係を持っているらしく、妊娠したと告げられても大して意に介していなかったり、興奮剤のような薬物を日常的に摂取している様子が見られる。
     アニメ映画版では、アキラの封印を解いた鉄雄との決戦で怪物と化した鉄雄に呑まれてしまうが、辛くも脱出。その後、ナンバーズたちによって覚醒したアキラの力を目の当たりにし、鉄雄の救いを求める声に応じて飛び込んだことで力に巻き込まれる中、アキラたちにすら制御できなかった能力を人類が受け入れられるような「目覚め」が始まっていることをナンバーズから告げられ、最終的にオリンピック会場の瓦礫に踏みとどまった。
-    名前の由来は[同名から](https://ja.wikipedia.org/wiki/鉄人28号 "wikilink")。本編では姓で呼ばれ、名前で呼ばれる場面はない（アニメ映画版では生徒手帳から「金田正」まで名前を確認できる）。
+    名前の由来は[同名から](../Page/鉄人28号.md "wikilink")。本編では姓で呼ばれ、名前で呼ばれる場面はない（アニメ映画版では生徒手帳から「金田正」まで名前を確認できる）。
   - 島 鉄雄（しま てつお）
     もう一人の主人公。15歳7ヶ月（物語スタート時点）。**41号**とも呼ばれる。金田の幼馴染。金田のチームの[スクラムハーフ](https://ja.wikipedia.org/wiki/スクラムハーフ "wikilink")として暴走中、タカシとの接触がきっかけで能力に覚醒。能力の爆発的な成長によりアキラに迫る力を手に入れ世界を翻弄する。
     何事においてもリーダーシップを発揮し喧嘩も強い金田に対し、幼少の頃から絶えず劣等感を抱き、自分が金田を始めとする仲間たちから庇護されることに不満を抱いていた。
@@ -183,7 +183,7 @@
     原作ではネオ東京崩壊後、ミヤコによって彼女らの能力の触媒となる能力を見いだされ、自らの意思で鉄雄と対決する。
     なお、原作内の金田に宛てた書き置きやアニメ映画版での絵コンテで「K」と記述されており、本名が明らかにされる場面はない。
   - 竜作（りゅうさく）
-    通称「竜（りゅう）」。根津率いる反政府[ゲリラ](https://ja.wikipedia.org/wiki/ゲリラ "wikilink")グループのリーダー。革命を信じて行動するも、より大きなうねりに翻弄され、幾度となく危機的な状況に陥った。
+    通称「竜（りゅう）」。根津率いる反政府[ゲリラ](../Page/ゲリラ.md "wikilink")グループのリーダー。革命を信じて行動するも、より大きなうねりに翻弄され、幾度となく危機的な状況に陥った。
     生年月日は1992年5月31日。グラフブックより。
     原作では鉄雄と共鳴して力を発動させようとしたアキラを目の当たりにし、これを止めようとして発砲。弾け飛んだ力の余波で崩れた瓦礫に押し潰される。
     アニメ映画版では保身を図った根津に撃たれ、アキラの騒ぎを革命と勘違いしたまま世を去った。
@@ -196,11 +196,11 @@
 
   - 敷島大佐（しきしまたいさ）
     軍の実質的な最高指揮官で、凍結封印されたアキラの管理者でもあった。軍高官だった父親がアキラの[災厄](https://ja.wikipedia.org/wiki/災厄 "wikilink")に遭って死亡したことから、アキラにこだわる。最高幹部会の一員でもある。
-    原作では[クーデター](https://ja.wikipedia.org/wiki/クーデター "wikilink")を起こしてまで行方不明となったアキラを保護しようと試みるも、根津のタカシ誤射により失敗。再び開放されたアキラの力を目の当たりにする。ネオ東京崩壊後は単身で鉄雄を抹殺するチャンスを伺っていたが、後に同じ目的を持つケイやチヨコと共闘することとなる。
+    原作では[クーデター](../Page/クーデター.md "wikilink")を起こしてまで行方不明となったアキラを保護しようと試みるも、根津のタカシ誤射により失敗。再び開放されたアキラの力を目の当たりにする。ネオ東京崩壊後は単身で鉄雄を抹殺するチャンスを伺っていたが、後に同じ目的を持つケイやチヨコと共闘することとなる。
     アニメ映画版では鉄雄の暴走を食い止めようとクーデターを起こし、最高幹部会を全員拘束して失脚させる。ナンバーズを危険視しつつも親身に面倒を見ていたため、キヨコによってアキラの覚醒から救助される。
-    名前のモデルは[敷島博士](https://ja.wikipedia.org/wiki/鉄人28号 "wikilink")。
+    名前のモデルは[敷島博士](../Page/鉄人28号.md "wikilink")。
   - ドクター
-    アニメでは「[大西](https://ja.wikipedia.org/wiki/大西 "wikilink")」と書かれた[名札](https://ja.wikipedia.org/wiki/名札 "wikilink")を付けている。大佐の下でアキラを始めとするナンバーズの研究管理を司る人物だが、研究に熱中するあまり、鉄雄のコントロールできないほどの成長を安全より優先してしまう。
+    アニメでは「[大西](../Page/大西.md "wikilink")」と書かれた[名札](../Page/名札.md "wikilink")を付けている。大佐の下でアキラを始めとするナンバーズの研究管理を司る人物だが、研究に熱中するあまり、鉄雄のコントロールできないほどの成長を安全より優先してしまう。
     原作ではアキラ覚醒の際の[冷却液](https://ja.wikipedia.org/wiki/冷却液 "wikilink")漏れに巻き込まれ[凍死](https://ja.wikipedia.org/wiki/凍死 "wikilink")。
     アニメ映画版では鉄雄の能力データの収集に夢中になり、結果としてアキラの力の開放に巻き込まれ、つぶされる観測トレーラーの中で圧死する。
 
@@ -293,13 +293,13 @@
 
 諸元
 
-アニメ映画版の劇中でこのバイクへの興味を募らせる鉄雄によると、金田のバイクのスペックは「セラミックツーローターの両輪駆動」「コンピューター制御の[アンチロックブレーキ](https://ja.wikipedia.org/wiki/アンチロック・ブレーキ・システム "wikilink")(ABS)」「12,000回転の200[馬力](https://ja.wikipedia.org/wiki/馬力 "wikilink")」。バックも可能で、さらに[コンソール](https://ja.wikipedia.org/wiki/コンソール "wikilink")にはスピードメーターなどの他に[ナビゲートシステムも搭載されている](../Page/カーナビゲーション.md "wikilink")。このうちABS、200馬力、バック、バイク用カーナビは現在の市販車で実現されている。
+アニメ映画版の劇中でこのバイクへの興味を募らせる鉄雄によると、金田のバイクのスペックは「セラミックツーローターの両輪駆動」「コンピューター制御の[アンチロックブレーキ](../Page/アンチロック・ブレーキ・システム.md "wikilink")(ABS)」「12,000回転の200[馬力](../Page/馬力.md "wikilink")」。バックも可能で、さらに[コンソール](../Page/コンソール.md "wikilink")にはスピードメーターなどの他に[ナビゲートシステムも搭載されている](../Page/カーナビゲーション.md "wikilink")。このうちABS、200馬力、バック、バイク用カーナビは現在の市販車で実現されている。
 
 盗品を改造したものであるらしく、扱いに不慣れな鉄雄はエンジン5,000回転以下で[ギアチェンジ](https://ja.wikipedia.org/wiki/ギアチェンジ "wikilink")をしたことで[エンスト](https://ja.wikipedia.org/wiki/エンスト "wikilink")させてしまった。
 
-赤一色で塗られた車体には「[成田山](https://ja.wikipedia.org/wiki/成田山 "wikilink")」「[Canon](https://ja.wikipedia.org/wiki/キヤノン "wikilink")」「[HONDA](https://ja.wikipedia.org/wiki/本田技研工業 "wikilink")」「[SHOEI](https://ja.wikipedia.org/wiki/SHOEI "wikilink")」「[Arai](https://ja.wikipedia.org/wiki/アライヘルメット "wikilink")」「[CITIZEN](https://ja.wikipedia.org/wiki/シチズン時計 "wikilink")」等のステッカーが貼られている。後にアメリカのマクファーレントイズから発売された1/12スケールの金田のバイクには、CEOのトッド・マクファーレンのコミック会社「イメージ・コミックス」のキャラクター「スポーン」のロゴステッカーが貼られている。
+赤一色で塗られた車体には「[成田山](../Page/成田山.md "wikilink")」「[Canon](https://ja.wikipedia.org/wiki/キヤノン "wikilink")」「[HONDA](../Page/本田技研工業.md "wikilink")」「[SHOEI](../Page/SHOEI.md "wikilink")」「[Arai](../Page/アライヘルメット.md "wikilink")」「[CITIZEN](../Page/シチズン時計.md "wikilink")」等のステッカーが貼られている。後にアメリカのマクファーレントイズから発売された1/12スケールの金田のバイクには、CEOのトッド・マクファーレンのコミック会社「イメージ・コミックス」のキャラクター「スポーン」のロゴステッカーが貼られている。
 
-造形上、2人以上の搭乗は想定されていないように見えるが、原作では「80kg以下ならなんとか乗れる」と言いながら金田がリア[カウル](https://ja.wikipedia.org/wiki/カウル "wikilink")を外して[荷台](https://ja.wikipedia.org/wiki/荷台 "wikilink")のような部分を露出させてケイを乗せている他、加筆されたラストシーンでは座席に金田とケイが体を密着させて搭乗しており、二人がより親密な関係になったことを表している。
+造形上、2人以上の搭乗は想定されていないように見えるが、原作では「80kg以下ならなんとか乗れる」と言いながら金田がリア[カウル](../Page/カウル.md "wikilink")を外して[荷台](https://ja.wikipedia.org/wiki/荷台 "wikilink")のような部分を露出させてケイを乗せている他、加筆されたラストシーンでは座席に金田とケイが体を密着させて搭乗しており、二人がより親密な関係になったことを表している。
 
 アニメ映画版では鉄雄にとっての「力」、そして「金田への憧憬」の象徴として扱われており、それゆえに超能力に目覚めた鉄雄はバイクへの興味を失う。また、冒頭の暴走シーンでの印象的な走行に加え、鉄雄との最終決戦でも金田を乗せて活躍し、最終的にはカウルを破損しながらエンディングでも金田を乗せて走り続けた。
 
@@ -309,21 +309,21 @@
 
 この未来的で前衛的なスタイルは漫画・アニメファンのみならず多くのカスタムバイク関係者の注目を集めた。
 
-まず最初に、アニメーション映画公開に併せてモックアップモデル（計器類は動くが走らせることは不可能）が制作、[東京モーターショー](https://ja.wikipedia.org/wiki/東京モーターショー "wikilink")で展示される。同モックアップはカスタムバイクメーカー「[ホワイトハウス](http://www.whouse.jp/)」によって、アニメ映画公開に併せてタイアップしていた[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")のスポンサードで制作された。当初、作画側から割り出したリアタイヤ径が21インチとされたが、そのような寸法のタイヤが存在しなかったため微妙に縮小されている。革ジャンメーカー「[カドヤ](https://ekadoya.com/)」の提供したジャケットを着たモデルとの撮影も行われていたが、そのような事情からモデルには金田の設定よりも少し小柄な女性が担当した。その後、日本国外での公開で行方不明となっている。
+まず最初に、アニメーション映画公開に併せてモックアップモデル（計器類は動くが走らせることは不可能）が制作、[東京モーターショー](../Page/東京モーターショー.md "wikilink")で展示される。同モックアップはカスタムバイクメーカー「[ホワイトハウス](http://www.whouse.jp/)」によって、アニメ映画公開に併せてタイアップしていた[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")のスポンサードで制作された。当初、作画側から割り出したリアタイヤ径が21インチとされたが、そのような寸法のタイヤが存在しなかったため微妙に縮小されている。革ジャンメーカー「[カドヤ](https://ekadoya.com/)」の提供したジャケットを着たモデルとの撮影も行われていたが、そのような事情からモデルには金田の設定よりも少し小柄な女性が担当した。その後、日本国外での公開で行方不明となっている。
 
 250ccの市販アメリカンバイクをベースとして、同車の雰囲気を持つカスタムバイクも開発・発売された。この車両は保安基準を満たしているため、ナンバーを取得すれば公道走行も可能である。
 
 さらにこのバイクをモチーフにした「電動バイク」がベンチャー企業によって製作された。量産化の記事が2006年のバイク専門誌に掲載されたが、リアのアルミニウム削り出しのモーターハウジングは一品モノであり、製作単価は数百万円に上った。2007年には資本提携していた企業との関係解消などの報道もあり、その後の開発の進展の音沙汰は無い。
 
-[ホンダのスクーター](https://ja.wikipedia.org/wiki/本田技研工業 "wikilink")「リード」をベースとしたカスタムバイクもある。ベース車両は50ccと90ccが選択できるが、2ストロークエンジンであるため生産が終了しており、ベース車両は中古とならざるを得ない。
+[ホンダのスクーター](../Page/本田技研工業.md "wikilink")「リード」をベースとしたカスタムバイクもある。ベース車両は50ccと90ccが選択できるが、2ストロークエンジンであるため生産が終了しており、ベース車両は中古とならざるを得ない。
 
-[スズキからも](https://ja.wikipedia.org/wiki/スズキ_\(企業\) "wikilink")、同車の雰囲気を持つバイクが開発され、[2003年](../Page/2003年.md "wikilink")の東京モーターショーで展示された。
+[スズキからも](../Page/スズキ_\(企業\).md "wikilink")、同車の雰囲気を持つバイクが開発され、[2003年](../Page/2003年.md "wikilink")の東京モーターショーで展示された。
 
-[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")4月には同スケール実動モデルが製作された。流石にアニメ版の[常温超伝導](https://ja.wikipedia.org/wiki/常温超伝導 "wikilink")デュアルパワー電動バイクとまではいかないものの（エンジンは249ccから998ccの単気筒から4気筒までの既存エンジンからユーザーが選択する方式を採っている。既にオーダーは受付終了）、実走可能なフルカスタムバイク（実際にナンバーを取得して公道をテスト走行している）が開発中である。なお同車は作者の原作・アニメ版監督の大友や[講談社](../Page/講談社.md "wikilink")の「公認」を得ているとしている。
+[2004年](../Page/2004年.md "wikilink")4月には同スケール実動モデルが製作された。流石にアニメ版の[常温超伝導](https://ja.wikipedia.org/wiki/常温超伝導 "wikilink")デュアルパワー電動バイクとまではいかないものの（エンジンは249ccから998ccの単気筒から4気筒までの既存エンジンからユーザーが選択する方式を採っている。既にオーダーは受付終了）、実走可能なフルカスタムバイク（実際にナンバーを取得して公道をテスト走行している）が開発中である。なお同車は作者の原作・アニメ版監督の大友や[講談社](../Page/講談社.md "wikilink")の「公認」を得ているとしている。
 
 ホンダの250ccスクーター「FUSION」をベースにした、カスタムコンプリートバイクが「才谷屋Factory」から販売されていた。また、バイク本体を含まない外装キットのみの販売もあった。
 
-後述のようにアメリカでの映画化が滞る中、2018年公開の[スピルバーグ監督作品](https://ja.wikipedia.org/wiki/スティーヴン・スピルバーグ "wikilink")『[レディ・プレイヤー1](https://ja.wikipedia.org/wiki/レディ・プレイヤー1 "wikilink")』ではヴァーチャルなゲーム世界において登場人物が操るマシンとして、CGIで描かれた金田のバイク（作中でも「Kaneda's bike from AKIRA」と呼称）が登場。部分的な実写化が達成された。
+後述のようにアメリカでの映画化が滞る中、2018年公開の[スピルバーグ監督作品](../Page/スティーヴン・スピルバーグ.md "wikilink")『[レディ・プレイヤー1](https://ja.wikipedia.org/wiki/レディ・プレイヤー1 "wikilink")』ではヴァーチャルなゲーム世界において登場人物が操るマシンとして、CGIで描かれた金田のバイク（作中でも「Kaneda's bike from AKIRA」と呼称）が登場。部分的な実写化が達成された。
 
 ## 書誌情報
 
@@ -383,15 +383,15 @@
 
 まだ原作が連載中（4巻まで）の制作であったため、大友が自ら映画上映用に描き下ろした絵コンテをベースに、原作で言う3巻前後までの展開（鉄雄暴走・アキラ復活・ネオ東京の崩壊）の後、映画独自のラストに帰結する形でまとめられている。一方、クライマックスでの展開には原作のラストに通じる要素も多く含まれている。
 
-映画製作費に、当時の日本のアニメーション映画としては破格の10億円をかけ、70mmプリント・総セル画枚数約15万枚を使用。[アフレコ](https://ja.wikipedia.org/wiki/アフレコ "wikilink")ではなく[プレスコ](https://ja.wikipedia.org/wiki/プレスコ "wikilink")を採用して、会話のアニメートもできるだけ自然に見えるように作画（通常リミテッドアニメーションでの人物の口の動きは3種類であるが、この作品では、日本語の母音数と同じ5種類で描かれている）、ドクターの使用する波形センサーの動きは、当時ほとんど採用例がなかった[3DCG](https://ja.wikipedia.org/wiki/3DCG "wikilink")アニメーションとセル画の背景合成で再現するなど、贅沢な制作体制を取った。
+映画製作費に、当時の日本のアニメーション映画としては破格の10億円をかけ、70mmプリント・総セル画枚数約15万枚を使用。[アフレコ](../Page/アフレコ.md "wikilink")ではなく[プレスコ](../Page/プレスコ.md "wikilink")を採用して、会話のアニメートもできるだけ自然に見えるように作画（通常リミテッドアニメーションでの人物の口の動きは3種類であるが、この作品では、日本語の母音数と同じ5種類で描かれている）、ドクターの使用する波形センサーの動きは、当時ほとんど採用例がなかった[3DCG](https://ja.wikipedia.org/wiki/3DCG "wikilink")アニメーションとセル画の背景合成で再現するなど、贅沢な制作体制を取った。
 
 同年12月のビデオ化にあたっては大友が自ら200ものカットに手を加え、さらに1億円の巨額を投じ、撮影や音響を向上させた**国際映画祭参加版**としてリリース。スタッフやキャストの表記を全て英語に置き換え、[ハリウッド・リポーター](https://ja.wikipedia.org/wiki/ハリウッド・リポーター "wikilink")選出の「大人向けアニメ映画ベスト10」において4位にランクイン\[13\]するなど絶大な人気を集めると共に、その後の大人向けアニメの先鞭をつける形となった。
 
-劇伴は[芸能山城組](https://ja.wikipedia.org/wiki/芸能山城組 "wikilink")が担当。[ガムラン](../Page/ガムラン.md "wikilink")や[ジェゴク](https://ja.wikipedia.org/wiki/ジェゴク "wikilink")、[ケチャ](https://ja.wikipedia.org/wiki/ケチャ "wikilink")を使用した独特の楽曲は、劇伴の枠を超えた独自性を持ち、音楽面でも高い評価を得た。
+劇伴は[芸能山城組](../Page/芸能山城組.md "wikilink")が担当。[ガムラン](../Page/ガムラン.md "wikilink")や[ジェゴク](https://ja.wikipedia.org/wiki/ジェゴク "wikilink")、[ケチャ](../Page/ケチャ.md "wikilink")を使用した独特の楽曲は、劇伴の枠を超えた独自性を持ち、音楽面でも高い評価を得た。
 
 ### ストーリー（アニメ映画版）
 
-[1988年](../Page/1988年.md "wikilink")[7月16日](../Page/7月16日.md "wikilink")、[関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikilink")で「新型爆弾」が炸裂し、[第三次世界大戦](https://ja.wikipedia.org/wiki/第三次世界大戦 "wikilink")が勃発。それから31年後、[2019年](../Page/2019年.md "wikilink")の新[首都](../Page/首都.md "wikilink")「ネオ東京」では、反政府[ゲリラ](https://ja.wikipedia.org/wiki/ゲリラ "wikilink")と軍（アーミー）との衝突が続いていた。
+[1988年](../Page/1988年.md "wikilink")[7月16日](../Page/7月16日.md "wikilink")、[関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikilink")で「新型爆弾」が炸裂し、[第三次世界大戦](../Page/第三次世界大戦.md "wikilink")が勃発。それから31年後、[2019年](../Page/2019年.md "wikilink")の新[首都](../Page/首都.md "wikilink")「ネオ東京」では、反政府[ゲリラ](../Page/ゲリラ.md "wikilink")と軍（アーミー）との衝突が続いていた。
 
 不良少年の金田は、山形・甲斐・鉄雄といった仲間と共に、[オートバイ](../Page/オートバイ.md "wikilink")での暴走に明け暮れる日々を繰り返していた。ある日、暴走中に鉄雄がタカシと衝突したことで警察に捕えられ、金田は留置所で出会ったケイに一目惚れする。
 
@@ -399,7 +399,7 @@
 
 金田はケイと共に、軍のラボに潜入して鉄雄を救おうとするが、暴走した鉄雄によって山形たちが殺されたことで、鉄雄との対決を決意する。
 
-軍や暴徒を退けて、[2020年](../Page/2020年.md "wikilink")の東京オリンピック会場にたどり着いた鉄雄は、アキラの封印を解くが、そこにあったのは、分析のためにバラバラに分解され冷凍保存された[ホルマリン](https://ja.wikipedia.org/wiki/ホルマリン "wikilink")漬けの臓器であった。レーザー銃を手に入れた金田が鉄雄との対決に敗れる一方、軍の敷島大佐が[軍事衛星](https://ja.wikipedia.org/wiki/軍事衛星 "wikilink")SOLによるレーザー照射を実行。鉄雄はこれによって右腕を失うが、能力によって衛星軌道へ飛びSOLを破壊、墜落させる。鉄雄は右腕の代わりとして、瓦礫の破片を素材として義手を作り上げる。
+軍や暴徒を退けて、[2020年](../Page/2020年.md "wikilink")の東京オリンピック会場にたどり着いた鉄雄は、アキラの封印を解くが、そこにあったのは、分析のためにバラバラに分解され冷凍保存された[ホルマリン](../Page/ホルマリン.md "wikilink")漬けの臓器であった。レーザー銃を手に入れた金田が鉄雄との対決に敗れる一方、軍の敷島大佐が[軍事衛星](https://ja.wikipedia.org/wiki/軍事衛星 "wikilink")SOLによるレーザー照射を実行。鉄雄はこれによって右腕を失うが、能力によって衛星軌道へ飛びSOLを破壊、墜落させる。鉄雄は右腕の代わりとして、瓦礫の破片を素材として義手を作り上げる。
 
 翌日、オリンピックスタジアムの玉座に座る鉄雄は、肥大する能力のコントロールを失いつつあり、その兆候は肉体にも現れはじめた。大佐の説得を拒み、膨張する肉と機械の塊のような怪物へと変貌し、カオリや最終決戦を挑む金田を飲み込む。そこへナンバーズによって導かれたアキラが覚醒、拡大する光は金田や鉄雄もろともネオ東京を飲み込み破壊する。
 
@@ -409,52 +409,52 @@
 
 ### 声の出演
 
-| キャラクター | 日本語版                                                    | 英語版                                                                 | 英語版（DVD版）                                                                     |
-| ------ | ------------------------------------------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| 金田     | [岩田光央](https://ja.wikipedia.org/wiki/岩田光央 "wikilink")   | [カム・クラーク](https://ja.wikipedia.org/wiki/カム・クラーク "wikilink")         | [ジョニー・ヨング・ボッシュ](https://ja.wikipedia.org/wiki/ジョニー・ヨング・ボッシュ "wikilink")       |
-| 鉄雄     | [佐々木望](https://ja.wikipedia.org/wiki/佐々木望 "wikilink")   | ジャン・ラブソン                                                            | ジョシュア・セス                                                                      |
-| ケイ     | [小山茉美](https://ja.wikipedia.org/wiki/小山茉美 "wikilink")   | ララ・コーディー                                                            | [ウェンディー・リー](https://ja.wikipedia.org/wiki/ウェンディー・リー "wikilink")               |
-| 竜      | [玄田哲章](https://ja.wikipedia.org/wiki/玄田哲章 "wikilink")   | [スティーブ・クレイマー](https://ja.wikipedia.org/wiki/スティーブ・クレイマー "wikilink") | ロバート・ブッフホルツ                                                                   |
-| 敷島大佐   | [石田太郎](https://ja.wikipedia.org/wiki/石田太郎 "wikilink")   | [トニー・ポープ](https://ja.wikipedia.org/wiki/トニー・ポープ "wikilink")         | ジェーミソン・プライス                                                                   |
-| ドクター   | [鈴木瑞穂](https://ja.wikipedia.org/wiki/鈴木瑞穂 "wikilink")   | ルイス・ルメイ                                                             | シモン・プレスコット                                                                    |
-| マサル    | 神藤一弘                                                    | [ボブ・バーゲン](https://ja.wikipedia.org/wiki/ボブ・バーゲン "wikilink")         |                                                                               |
-| タカシ    | 中村龍彦                                                    | [バーバラ・グッドソン](https://ja.wikipedia.org/wiki/バーバラ・グッドソン "wikilink")   | コディー・マッケンジー                                                                   |
-| キヨコ    | 伊藤福恵                                                    | [メローラ・ハート](https://ja.wikipedia.org/wiki/メローラ・ハート "wikilink")       | [サンディ・フォックス](https://ja.wikipedia.org/wiki/サンディ・フォックス "wikilink")             |
-| カオリ    | [淵崎有里子](https://ja.wikipedia.org/wiki/渕崎ゆり子 "wikilink") | バーバラ・ラーセン                                                           | [ミシェル・ラフ](https://ja.wikipedia.org/wiki/ミシェル・ラフ "wikilink")                   |
-| 山形     | [大倉正章](https://ja.wikipedia.org/wiki/大倉正章 "wikilink")   | トニー・ポープ                                                             | マイケル・リンジー                                                                     |
-| 甲斐     | [草尾毅](https://ja.wikipedia.org/wiki/草尾毅 "wikilink")     | ボブ・バーゲン                                                             | マシュー・マーサー                                                                     |
-| 根津     | [大竹宏](https://ja.wikipedia.org/wiki/大竹宏 "wikilink")     | トニー・ポープ                                                             | [マイク・レイノルズ](https://ja.wikipedia.org/wiki/マイク・レイノルズ "wikilink")               |
-| ミヤコ    | [北村弘一](https://ja.wikipedia.org/wiki/北村弘一 "wikilink")   | スティーブ・クレイマー                                                         | [ウィリアム・フレデリック・ナイト](https://ja.wikipedia.org/wiki/ウィリアム・フレデリック・ナイト "wikilink") |
-| 検査官    | [池水通洋](https://ja.wikipedia.org/wiki/池水通洋 "wikilink")   | ボブ・バーゲン                                                             | スティーブステーリー                                                                    |
-| 渡辺     | [荒川太郎](https://ja.wikipedia.org/wiki/荒川太郎 "wikilink")   | ジャン・ラブソン                                                            | スキップ・ステルレッヘト                                                                  |
-| 桑田     | [岸野幸正](https://ja.wikipedia.org/wiki/岸野幸正 "wikilink")   | ボブ・バーゲン                                                             | ジョナサン・C・オズボーン                                                                 |
-| 竹山     | [平野正人](https://ja.wikipedia.org/wiki/平野正人 "wikilink")   |                                                                     | [エディ・フライアーソン](https://ja.wikipedia.org/wiki/エディ・フライアーソン "wikilink")           |
-| 島崎     |                                                         | トニー・ポープ                                                             | [ロバート・アクセルロッド](https://ja.wikipedia.org/wiki/ロバート・アクセルロッド_\(声優\) "wikilink")  |
-| ゲリラ    |                                                         | [ウォーリー・バー](https://ja.wikipedia.org/wiki/ウォーリー・バー "wikilink")       | [マイケル・マコノヒー](https://ja.wikipedia.org/wiki/マイケル・マコノヒー "wikilink")             |
-| アーミー   | [田中和実](https://ja.wikipedia.org/wiki/田中和実 "wikilink")   | スティーブ・クレイマー                                                         | カート・P・ウィンバーガー                                                                 |
-| 店長     | [秋元羊介](../Page/秋元羊介.md "wikilink")                      | ボブ・バーゲン                                                             | ジョン・スナイダー                                                                     |
+| キャラクター | 日本語版                                                  | 英語版                                                           | 英語版（DVD版）                                                                     |
+| ------ | ----------------------------------------------------- | ------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| 金田     | [岩田光央](../Page/岩田光央.md "wikilink")                    | [カム・クラーク](https://ja.wikipedia.org/wiki/カム・クラーク "wikilink")   | [ジョニー・ヨング・ボッシュ](../Page/ジョニー・ヨング・ボッシュ.md "wikilink")                          |
+| 鉄雄     | [佐々木望](../Page/佐々木望.md "wikilink")                    | ジャン・ラブソン                                                      | ジョシュア・セス                                                                      |
+| ケイ     | [小山茉美](../Page/小山茉美.md "wikilink")                    | ララ・コーディー                                                      | [ウェンディー・リー](../Page/ウェンディー・リー.md "wikilink")                                  |
+| 竜      | [玄田哲章](https://ja.wikipedia.org/wiki/玄田哲章 "wikilink") | [スティーブ・クレイマー](../Page/スティーブ・クレイマー.md "wikilink")              | ロバート・ブッフホルツ                                                                   |
+| 敷島大佐   | [石田太郎](../Page/石田太郎.md "wikilink")                    | [トニー・ポープ](https://ja.wikipedia.org/wiki/トニー・ポープ "wikilink")   | ジェーミソン・プライス                                                                   |
+| ドクター   | [鈴木瑞穂](../Page/鈴木瑞穂.md "wikilink")                    | ルイス・ルメイ                                                       | シモン・プレスコット                                                                    |
+| マサル    | 神藤一弘                                                  | [ボブ・バーゲン](https://ja.wikipedia.org/wiki/ボブ・バーゲン "wikilink")   |                                                                               |
+| タカシ    | 中村龍彦                                                  | [バーバラ・グッドソン](../Page/バーバラ・グッドソン.md "wikilink")                | コディー・マッケンジー                                                                   |
+| キヨコ    | 伊藤福恵                                                  | [メローラ・ハート](../Page/メローラ・ハート.md "wikilink")                    | [サンディ・フォックス](https://ja.wikipedia.org/wiki/サンディ・フォックス "wikilink")             |
+| カオリ    | [淵崎有里子](../Page/渕崎ゆり子.md "wikilink")                  | バーバラ・ラーセン                                                     | [ミシェル・ラフ](../Page/ミシェル・ラフ.md "wikilink")                                      |
+| 山形     | [大倉正章](../Page/大倉正章.md "wikilink")                    | トニー・ポープ                                                       | マイケル・リンジー                                                                     |
+| 甲斐     | [草尾毅](../Page/草尾毅.md "wikilink")                      | ボブ・バーゲン                                                       | マシュー・マーサー                                                                     |
+| 根津     | [大竹宏](../Page/大竹宏.md "wikilink")                      | トニー・ポープ                                                       | [マイク・レイノルズ](../Page/マイク・レイノルズ.md "wikilink")                                  |
+| ミヤコ    | [北村弘一](../Page/北村弘一.md "wikilink")                    | スティーブ・クレイマー                                                   | [ウィリアム・フレデリック・ナイト](https://ja.wikipedia.org/wiki/ウィリアム・フレデリック・ナイト "wikilink") |
+| 検査官    | [池水通洋](../Page/池水通洋.md "wikilink")                    | ボブ・バーゲン                                                       | スティーブステーリー                                                                    |
+| 渡辺     | [荒川太郎](https://ja.wikipedia.org/wiki/荒川太郎 "wikilink") | ジャン・ラブソン                                                      | スキップ・ステルレッヘト                                                                  |
+| 桑田     | [岸野幸正](../Page/岸野幸正.md "wikilink")                    | ボブ・バーゲン                                                       | ジョナサン・C・オズボーン                                                                 |
+| 竹山     | [平野正人](../Page/平野正人.md "wikilink")                    |                                                               | [エディ・フライアーソン](https://ja.wikipedia.org/wiki/エディ・フライアーソン "wikilink")           |
+| 島崎     |                                                       | トニー・ポープ                                                       | [ロバート・アクセルロッド](../Page/ロバート・アクセルロッド_\(声優\).md "wikilink")                     |
+| ゲリラ    |                                                       | [ウォーリー・バー](https://ja.wikipedia.org/wiki/ウォーリー・バー "wikilink") | [マイケル・マコノヒー](../Page/マイケル・マコノヒー.md "wikilink")                                |
+| アーミー   | [田中和実](../Page/田中和実.md "wikilink")                    | スティーブ・クレイマー                                                   | カート・P・ウィンバーガー                                                                 |
+| 店長     | [秋元羊介](../Page/秋元羊介.md "wikilink")                    | ボブ・バーゲン                                                       | ジョン・スナイダー                                                                     |
 
 ### スタッフ
 
-  - 製作・著作 - アキラ製作委員会（[講談社](../Page/講談社.md "wikilink")・[毎日放送](https://ja.wikipedia.org/wiki/毎日放送 "wikilink")・[バンダイ](../Page/バンダイ.md "wikilink")・[博報堂](https://ja.wikipedia.org/wiki/博報堂 "wikilink")・[東宝](https://ja.wikipedia.org/wiki/東宝 "wikilink")・[レーザーディスク](https://ja.wikipedia.org/wiki/レーザーディスク株式会社 "wikilink")・[住友商事](https://ja.wikipedia.org/wiki/住友商事 "wikilink")・[東京ムービー新社](https://ja.wikipedia.org/wiki/東京ムービー新社 "wikilink")）
-  - プロデューサー - 鈴木良平、[加藤俊三](https://ja.wikipedia.org/wiki/加藤俊三 "wikilink")
+  - 製作・著作 - アキラ製作委員会（[講談社](../Page/講談社.md "wikilink")・[毎日放送](../Page/毎日放送.md "wikilink")・[バンダイ](../Page/バンダイ.md "wikilink")・[博報堂](https://ja.wikipedia.org/wiki/博報堂 "wikilink")・[東宝](../Page/東宝.md "wikilink")・[レーザーディスク](https://ja.wikipedia.org/wiki/レーザーディスク株式会社 "wikilink")・[住友商事](https://ja.wikipedia.org/wiki/住友商事 "wikilink")・[東京ムービー新社](https://ja.wikipedia.org/wiki/東京ムービー新社 "wikilink")）
+  - プロデューサー - 鈴木良平、[加藤俊三](../Page/加藤俊三.md "wikilink")
   - 原作・監督 - [大友克洋](../Page/大友克洋.md "wikilink")
-  - 製作 - [野間佐和子](https://ja.wikipedia.org/wiki/野間佐和子 "wikilink")
-  - 助監督 - [竹内啓雄](https://ja.wikipedia.org/wiki/竹内啓雄 "wikilink")、[佐藤博暉](https://ja.wikipedia.org/wiki/佐藤博暉 "wikilink")
-  - 脚本 - 大友克洋、[橋本以蔵](https://ja.wikipedia.org/wiki/橋本以蔵 "wikilink")
-  - 作画監督 - [なかむらたかし](https://ja.wikipedia.org/wiki/なかむらたかし "wikilink")
-  - 作画監督補 - [森本晃司](https://ja.wikipedia.org/wiki/森本晃司_\(アニメーター\) "wikilink")
+  - 製作 - [野間佐和子](../Page/野間佐和子.md "wikilink")
+  - 助監督 - [竹内啓雄](../Page/竹内啓雄.md "wikilink")、[佐藤博暉](https://ja.wikipedia.org/wiki/佐藤博暉 "wikilink")
+  - 脚本 - 大友克洋、[橋本以蔵](../Page/橋本以蔵.md "wikilink")
+  - 作画監督 - [なかむらたかし](../Page/なかむらたかし.md "wikilink")
+  - 作画監督補 - [森本晃司](../Page/森本晃司_\(アニメーター\).md "wikilink")
   - 音楽監督 - [山城祥二](https://ja.wikipedia.org/wiki/山城祥二 "wikilink")
   - 録音 - 瀬川徹夫
   - 効果 - [倉橋静男](https://ja.wikipedia.org/wiki/倉橋静男 "wikilink")
   - 美術監督 - 水谷利春
   - 撮影監督 - 三澤勝治
-  - 編集 - [瀬山武司](https://ja.wikipedia.org/wiki/瀬山武司 "wikilink")
-  - 原画 - [福島敦子](https://ja.wikipedia.org/wiki/福島敦子_\(アニメーター\) "wikilink")、[井上俊之](https://ja.wikipedia.org/wiki/井上俊之 "wikilink")、大久保富彦、[木上益治](https://ja.wikipedia.org/wiki/木上益治 "wikilink")、[沖浦啓之](https://ja.wikipedia.org/wiki/沖浦啓之 "wikilink")、[坂巻貞彦](https://ja.wikipedia.org/wiki/坂巻貞彦 "wikilink")、[平山智](https://ja.wikipedia.org/wiki/平山智_\(アニメーター\) "wikilink")、[牟田清司](https://ja.wikipedia.org/wiki/牟田清司 "wikilink")、[うつのみやさとる](https://ja.wikipedia.org/wiki/うつのみや理 "wikilink")、竹内一義、江村豊秋、[須藤昌朋](https://ja.wikipedia.org/wiki/須藤昌朋 "wikilink")、鈴木信一、植田均、富田邦、[知吹愛弓](https://ja.wikipedia.org/wiki/知吹愛弓 "wikilink")、佐藤千春、瀬尾康博、時矢義則、[二村秀樹](https://ja.wikipedia.org/wiki/二村秀樹 "wikilink")、[川崎博嗣](https://ja.wikipedia.org/wiki/川崎博嗣 "wikilink")、[鍋島修](https://ja.wikipedia.org/wiki/鍋島修 "wikilink")、多田雅治、橋本浩一、岡野秀彦、[堀内博之](https://ja.wikipedia.org/wiki/堀内博之 "wikilink")、[長岡康史](https://ja.wikipedia.org/wiki/長岡康史 "wikilink")、仲盛文、[大平晋也](https://ja.wikipedia.org/wiki/大平晋也 "wikilink")、[北久保弘之](https://ja.wikipedia.org/wiki/北久保弘之 "wikilink")、[漆原智志](https://ja.wikipedia.org/wiki/漆原智志 "wikilink")、山内英子、[梅津泰臣](https://ja.wikipedia.org/wiki/梅津泰臣 "wikilink")、高橋明信、寺沢伸介、本谷利明、柳野龍男、[増尾昭一](https://ja.wikipedia.org/wiki/増尾昭一 "wikilink")、[小原秀一](https://ja.wikipedia.org/wiki/小原秀一 "wikilink")、[金田伊功](../Page/金田伊功.md "wikilink")、[河口俊夫](https://ja.wikipedia.org/wiki/河口俊夫 "wikilink")、遠藤正明、松原京子、[大塚伸治](https://ja.wikipedia.org/wiki/大塚伸治 "wikilink")、[田中達之](https://ja.wikipedia.org/wiki/田中達之 "wikilink")、柳沼和良、金井次郎、高木広行、[二木真希子](https://ja.wikipedia.org/wiki/二木真希子 "wikilink")、[橋本晋治](https://ja.wikipedia.org/wiki/橋本晋治 "wikilink")、[高坂希太郎](../Page/高坂希太郎.md "wikilink")
-      - [テレコム・アニメーションフィルム](https://ja.wikipedia.org/wiki/テレコム・アニメーションフィルム "wikilink")
+  - 編集 - [瀬山武司](../Page/瀬山武司.md "wikilink")
+  - 原画 - [福島敦子](../Page/福島敦子_\(アニメーター\).md "wikilink")、[井上俊之](../Page/井上俊之.md "wikilink")、大久保富彦、[木上益治](../Page/木上益治.md "wikilink")、[沖浦啓之](../Page/沖浦啓之.md "wikilink")、[坂巻貞彦](https://ja.wikipedia.org/wiki/坂巻貞彦 "wikilink")、[平山智](../Page/平山智_\(アニメーター\).md "wikilink")、[牟田清司](../Page/牟田清司.md "wikilink")、[うつのみやさとる](../Page/うつのみや理.md "wikilink")、竹内一義、江村豊秋、[須藤昌朋](../Page/須藤昌朋.md "wikilink")、鈴木信一、植田均、富田邦、[知吹愛弓](../Page/知吹愛弓.md "wikilink")、佐藤千春、瀬尾康博、時矢義則、[二村秀樹](https://ja.wikipedia.org/wiki/二村秀樹 "wikilink")、[川崎博嗣](https://ja.wikipedia.org/wiki/川崎博嗣 "wikilink")、[鍋島修](https://ja.wikipedia.org/wiki/鍋島修 "wikilink")、多田雅治、橋本浩一、岡野秀彦、[堀内博之](../Page/堀内博之.md "wikilink")、[長岡康史](../Page/長岡康史.md "wikilink")、仲盛文、[大平晋也](../Page/大平晋也.md "wikilink")、[北久保弘之](../Page/北久保弘之.md "wikilink")、[漆原智志](https://ja.wikipedia.org/wiki/漆原智志 "wikilink")、山内英子、[梅津泰臣](../Page/梅津泰臣.md "wikilink")、高橋明信、寺沢伸介、本谷利明、柳野龍男、[増尾昭一](../Page/増尾昭一.md "wikilink")、[小原秀一](https://ja.wikipedia.org/wiki/小原秀一 "wikilink")、[金田伊功](../Page/金田伊功.md "wikilink")、[河口俊夫](https://ja.wikipedia.org/wiki/河口俊夫 "wikilink")、遠藤正明、松原京子、[大塚伸治](https://ja.wikipedia.org/wiki/大塚伸治 "wikilink")、[田中達之](../Page/田中達之.md "wikilink")、柳沼和良、金井次郎、高木広行、[二木真希子](https://ja.wikipedia.org/wiki/二木真希子 "wikilink")、[橋本晋治](../Page/橋本晋治.md "wikilink")、[高坂希太郎](../Page/高坂希太郎.md "wikilink")
+      - [テレコム・アニメーションフィルム](../Page/テレコム・アニメーションフィルム.md "wikilink")
           - 丸山晃一、道旗義宣、小野昌則、八崎健二、野口寛明、[増田敏彦](https://ja.wikipedia.org/wiki/増田敏彦 "wikilink")、矢野雄一郎、[楠本祐子](https://ja.wikipedia.org/wiki/楠本祐子 "wikilink")、[青山浩行](https://ja.wikipedia.org/wiki/青山浩行 "wikilink")、[滝口禎一](https://ja.wikipedia.org/wiki/滝口禎一 "wikilink")、末永宏一、鷲田敏弥、富沢恵子
   - 動画 - 中村プロダクション、ドラゴンプロダクション、テレコム・アニメーションフィルム
-  - 動画協力 - [OH\!プロダクション](https://ja.wikipedia.org/wiki/オープロダクション "wikilink")、[ガイナックス](https://ja.wikipedia.org/wiki/ガイナックス "wikilink")、スタジオダフ、[スタジオディーン](https://ja.wikipedia.org/wiki/スタジオディーン "wikilink")、MOOK、進藤プロダクション、玉沢動画舎、スタジオムサシ、スタジオLOOK、ファンタジア、ブーメラン、[京都アニメーション](https://ja.wikipedia.org/wiki/京都アニメーション "wikilink")、メルヘン社、ワープ、サムタック、[スタジオぴえろ](https://ja.wikipedia.org/wiki/ぴえろ "wikilink")、[手塚プロ](https://ja.wikipedia.org/wiki/手塚プロダクション "wikilink")、グループライナス、雷神フィルム、タイガープロダクション、スタジオ九魔、スーパースピリッツ、あすなろスタジオ、アニマル屋、[マジックバス](https://ja.wikipedia.org/wiki/マジックバス "wikilink")、アニメアール、ラジカルパーティー
+  - 動画協力 - [OH\!プロダクション](../Page/オープロダクション.md "wikilink")、[ガイナックス](../Page/ガイナックス.md "wikilink")、スタジオダフ、[スタジオディーン](../Page/スタジオディーン.md "wikilink")、MOOK、進藤プロダクション、玉沢動画舎、スタジオムサシ、スタジオLOOK、ファンタジア、ブーメラン、[京都アニメーション](../Page/京都アニメーション.md "wikilink")、メルヘン社、ワープ、サムタック、[スタジオぴえろ](../Page/ぴえろ.md "wikilink")、[手塚プロ](../Page/手塚プロダクション.md "wikilink")、グループライナス、雷神フィルム、タイガープロダクション、スタジオ九魔、スーパースピリッツ、あすなろスタジオ、アニマル屋、[マジックバス](../Page/マジックバス.md "wikilink")、アニメアール、ラジカルパーティー
   - 色指定 - 山名公枝、池内道子、田中せつ子
   - 仕上検査 - 塩谷典子、小川典子、柏倉由合子、立川照代
   - 特殊効果 - 前川孝
@@ -463,41 +463,41 @@
   - 美術 - [海老沢一男](https://ja.wikipedia.org/wiki/海老沢一男 "wikilink")、[池畑祐治](https://ja.wikipedia.org/wiki/池畑祐治 "wikilink")、[大野広司](https://ja.wikipedia.org/wiki/大野広司 "wikilink")
   - 設定・レイアウト - [渡部隆](https://ja.wikipedia.org/wiki/渡部隆 "wikilink")、田中精美
   - ハーモニー - [高屋法子](https://ja.wikipedia.org/wiki/高屋法子 "wikilink")
-  - 背景 - スタジオ風雅、[スタジオユニ](https://ja.wikipedia.org/wiki/スタジオユニ "wikilink")、獏プロダクション、石垣プロダクション、[小林プロダクション](https://ja.wikipedia.org/wiki/小林プロダクション "wikilink")
+  - 背景 - スタジオ風雅、[スタジオユニ](../Page/スタジオユニ.md "wikilink")、獏プロダクション、石垣プロダクション、[小林プロダクション](../Page/小林プロダクション.md "wikilink")
   - 背景協力 - なかやす巧
-  - 撮影 - [旭プロダクション](https://ja.wikipedia.org/wiki/旭プロダクション "wikilink")、トムス・フォト
-  - 撮影協力 - [トランス・アーツ](https://ja.wikipedia.org/wiki/トランス・アーツ "wikilink")
+  - 撮影 - [旭プロダクション](../Page/旭プロダクション.md "wikilink")、トムス・フォト
+  - 撮影協力 - [トランス・アーツ](../Page/トランス・アーツ.md "wikilink")
   - CG制作 - [ハイテックラボ・ジャパン](https://ja.wikipedia.org/wiki/吉崎武#ハイテック_ラボ_ジャパン（HighTech_Lab._Japan_Inc.） "wikilink")（協力 - 住商電子システム）
   - 演出助手 - 石堂宏之、須藤典彦
   - 編集助手 - 足立浩
   - クイックアクション - 森田吾朗
   - 音楽
       - 作曲・指揮 - 山城祥二
-      - 演奏 - [芸能山城組](https://ja.wikipedia.org/wiki/芸能山城組 "wikilink")
+      - 演奏 - [芸能山城組](../Page/芸能山城組.md "wikilink")
       - サウンドアーキテクト - 蒲田恵司
       - 音楽ディレクター - 村本敬史、[佐々木史朗](https://ja.wikipedia.org/wiki/佐々木史朗_\(音楽プロデューサー\) "wikilink")
       - レコーディングエンジニア - 依田平三、高田英男、吉岡恵一郎
       - ミュージックエディター - 大野映郎
       - 音楽制作 - [ビクター音楽産業](https://ja.wikipedia.org/wiki/ビクター音楽産業 "wikilink")、アキラ製作委員会
-      - レコーディングスタジオ - ビクター青山スタジオ、アビラック ミュージックコミュニティセンター、[昭和女子大学人見記念講堂](https://ja.wikipedia.org/wiki/昭和女子大学人見記念講堂 "wikilink")
-  - 音響監督 - [明田川進](https://ja.wikipedia.org/wiki/明田川進 "wikilink")
+      - レコーディングスタジオ - ビクター青山スタジオ、アビラック ミュージックコミュニティセンター、[昭和女子大学人見記念講堂](../Page/昭和女子大学人見記念講堂.md "wikilink")
+  - 音響監督 - [明田川進](../Page/明田川進.md "wikilink")
   - 音響プロデューサー - 島田十九八
   - 録音 - 内藤幸恵、清家利文
-  - 効果 - [柴崎憲治](https://ja.wikipedia.org/wiki/柴崎憲治 "wikilink")（[東洋音響](https://ja.wikipedia.org/wiki/東洋音響効果グループ "wikilink")）
+  - 効果 - [柴崎憲治](https://ja.wikipedia.org/wiki/柴崎憲治 "wikilink")（[東洋音響](../Page/東洋音響効果グループ.md "wikilink")）
   - 録音担当 - 尾形浩三
-  - 音響担当 - [三間雅文](https://ja.wikipedia.org/wiki/三間雅文 "wikilink")
+  - 音響担当 - [三間雅文](../Page/三間雅文.md "wikilink")
   - 音響制作スタジオ - D.S.Dゆりーか
   - 音響制作協力 - マジックカプセル
   - 制作進行 - 松本文一、山路晴久、高橋伸治、末定智弘、新井実、吉田純哉
   - 制作事務 - 信元敬子
   - 制作担当 - 角田研、池田陽一、横溝隆久
-  - 録音スタジオ - [アオイスタジオ](https://ja.wikipedia.org/wiki/アオイスタジオ "wikilink")
-  - 現像 - [東京現像所](https://ja.wikipedia.org/wiki/東京現像所 "wikilink")
+  - 録音スタジオ - [アオイスタジオ](../Page/アオイスタジオ.md "wikilink")
+  - 現像 - [東京現像所](../Page/東京現像所.md "wikilink")
   - タイトル - 石田功
   - 制作宣伝 - 水尾芳正、熊井良助
   - 制作スタジオ - アキラスタジオ
   - アニメーション制作 - 東京ムービー新社
-  - 協力 - 有限会社マッシュルーム、[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")、[ソニー](../Page/ソニー.md "wikilink")、ベストバイク社、フリーランスプランニング、[NTT](https://ja.wikipedia.org/wiki/日本電信電話 "wikilink")、有限会社スタジオハード、White House、KADOYA、友&愛ビジネスコーポレーション、やまもと寛斎、[チチヤス](https://ja.wikipedia.org/wiki/チチヤス "wikilink")乳業、[コダック・ナカセ](https://ja.wikipedia.org/wiki/コダック#日本法人 "wikilink")、[パイオニア](https://ja.wikipedia.org/wiki/パイオニア "wikilink")
+  - 協力 - 有限会社マッシュルーム、[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")、[ソニー](../Page/ソニー.md "wikilink")、ベストバイク社、フリーランスプランニング、[NTT](../Page/日本電信電話.md "wikilink")、有限会社スタジオハード、White House、KADOYA、友&愛ビジネスコーポレーション、やまもと寛斎、[チチヤス](../Page/チチヤス.md "wikilink")乳業、[コダック・ナカセ](https://ja.wikipedia.org/wiki/コダック#日本法人 "wikilink")、[パイオニア](https://ja.wikipedia.org/wiki/パイオニア "wikilink")
   - DOLBY技術協力 - 森幹生、極東コンチネンタル株式会社
 
 ### TV放送
@@ -518,7 +518,7 @@
 
 ### AKIRA PSYCHO BALL
 
-『**AKIRA PSYCHO BALL**』（アキラ サイコボール）は、[2002年](../Page/2002年.md "wikilink")2月21日に[バンダイ](../Page/バンダイ.md "wikilink")（後の[バンダイナムコエンターテインメント](../Page/バンダイナムコエンターテインメント.md "wikilink")）より発売されたPlayStation 2用ピンボールゲーム。開発は[カゼ](https://ja.wikipedia.org/wiki/カゼ・ネット "wikilink")。
+『**AKIRA PSYCHO BALL**』（アキラ サイコボール）は、[2002年](../Page/2002年.md "wikilink")2月21日に[バンダイ](../Page/バンダイ.md "wikilink")（後の[バンダイナムコエンターテインメント](../Page/バンダイナムコエンターテインメント.md "wikilink")）より発売されたPlayStation 2用ピンボールゲーム。開発は[カゼ](../Page/カゼ・ネット.md "wikilink")。
 
 アニメ映画版をモチーフにしたピンボール台が4台（うち1台は対戦プレイ用）あり、条件を満たすと台が変形・合体する。オープニングやマルチボール、ステージクリア時にはアニメ映画版のムービーが挿入される。
 
@@ -528,20 +528,20 @@
 
 ## 実写版映画
 
-21世紀初頭から実写映画化に関する報道が出ていたが\[18\]、2019年5月に[ワーナー・ブラザース](https://ja.wikipedia.org/wiki/ワーナー・ブラザース "wikilink")から製作が正式に発表され、この時点では監督に[タイカ・ワイティティ](https://ja.wikipedia.org/wiki/タイカ・ワイティティ "wikilink")、プロデューサーに[レオナルド・ディカプリオ](https://ja.wikipedia.org/wiki/レオナルド・ディカプリオ "wikilink")、[アンドリュー・ラザー](https://ja.wikipedia.org/wiki/アンドリュー・ラザー "wikilink")、[ジェニファー・ダヴィッソン](https://ja.wikipedia.org/wiki/ジェニファー・ダヴィッソン "wikilink")が就任。撮影は[カリフォルニア](https://ja.wikipedia.org/wiki/カリフォルニア "wikilink")で71日間に渡って行われ、[2021年](../Page/2021年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink")に全米公開予定とされていた。しかし同年7月に企画の無期限保留が発表され、公開予定などのスケジュールは全て撤回された\[19\]。
+21世紀初頭から実写映画化に関する報道が出ていたが\[18\]、2019年5月に[ワーナー・ブラザース](../Page/ワーナー・ブラザース.md "wikilink")から製作が正式に発表され、この時点では監督に[タイカ・ワイティティ](https://ja.wikipedia.org/wiki/タイカ・ワイティティ "wikilink")、プロデューサーに[レオナルド・ディカプリオ](../Page/レオナルド・ディカプリオ.md "wikilink")、[アンドリュー・ラザー](https://ja.wikipedia.org/wiki/アンドリュー・ラザー "wikilink")、[ジェニファー・ダヴィッソン](https://ja.wikipedia.org/wiki/ジェニファー・ダヴィッソン "wikilink")が就任。撮影は[カリフォルニア](https://ja.wikipedia.org/wiki/カリフォルニア "wikilink")で71日間に渡って行われ、[2021年](../Page/2021年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink")に全米公開予定とされていた。しかし同年7月に企画の無期限保留が発表され、公開予定などのスケジュールは全て撤回された\[19\]。
 
 ### 経緯
 
 下記はこれまでに各種報道で示唆された情報。
 
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") - 具体的な監督名や公開時期が報じられ始める\[20\]。この時、監督には[ルアイリ・ロビンソン](https://ja.wikipedia.org/wiki/ルアイリ・ロビンソン "wikilink")を起用、製作の一人に[レオナルド・ディカプリオ](https://ja.wikipedia.org/wiki/レオナルド・ディカプリオ "wikilink")も加わり[ワーナー・ブラザース](https://ja.wikipedia.org/wiki/ワーナー・ブラザース "wikilink")配給で2009年夏に公開予定とされた。しかし製作は難航し、一時期は製作中止とも報道されてしまう\[21\]（この時点でルアエリは監督降板）。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") - 具体的な監督名や公開時期が報じられ始める\[20\]。この時、監督には[ルアイリ・ロビンソン](https://ja.wikipedia.org/wiki/ルアイリ・ロビンソン "wikilink")を起用、製作の一人に[レオナルド・ディカプリオ](../Page/レオナルド・ディカプリオ.md "wikilink")も加わり[ワーナー・ブラザース](../Page/ワーナー・ブラザース.md "wikilink")配給で2009年夏に公開予定とされた。しかし製作は難航し、一時期は製作中止とも報道されてしまう\[21\]（この時点でルアエリは監督降板）。
   - [2009年](../Page/2009年.md "wikilink")秋 - プロジェクトが再始動<ref>
 
 </ref>。ここからマーク・ファーガスとホーク・オストビーが脚本に参加。
 
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink") - 新監督候補として[アレン・ヒューズとアルバート・ヒューズ（兄弟）の名前が報道で取り沙汰される](https://ja.wikipedia.org/wiki/ヒューズ兄弟 "wikilink")\[22\]。
   - [2011年](../Page/2011年.md "wikilink")
-      - 5月 - 「制作上の困難」を理由にアルバート・ヒューズ監督が降板\[23\]。この時点ではワーナー・ブラザースは製作を中断するつもりはなく、早期に新監督を決定し2011年後半ないしは[2012年](../Page/2012年.md "wikilink")初めに[クランクインする予定であった](https://ja.wikipedia.org/wiki/撮影 "wikilink")。
+      - 5月 - 「制作上の困難」を理由にアルバート・ヒューズ監督が降板\[23\]。この時点ではワーナー・ブラザースは製作を中断するつもりはなく、早期に新監督を決定し2011年後半ないしは[2012年](../Page/2012年.md "wikilink")初めに[クランクインする予定であった](../Page/撮影.md "wikilink")。
       - 7月 - 新監督が[ジャウム・コレット＝セラ](https://ja.wikipedia.org/wiki/ジャウム・コレット＝セラ "wikilink")に決定したと報道\[24\]。
   - [2015年](../Page/2015年.md "wikilink")6月 - 実写ドラマ版『[デアデビル](https://ja.wikipedia.org/wiki/デアデビル_\(テレビドラマ\) "wikilink")』第2シーズンを手掛けるマルコ・ラミレスが脚本を執筆することが決定したと報道\[25\]。
   - [2016年](../Page/2016年.md "wikilink")6月 - [ジャスティン・リン](https://ja.wikipedia.org/wiki/ジャスティン・リン "wikilink")へ監督のオファーがあった（らしい）との報道\[26\]。
@@ -558,8 +558,8 @@
 ### スタッフ（実写版）
 
   - 監督 - [タイカ・ワイティティ](https://ja.wikipedia.org/wiki/タイカ・ワイティティ "wikilink")
-  - プロデューサー - [レオナルド・ディカプリオ](https://ja.wikipedia.org/wiki/レオナルド・ディカプリオ "wikilink")、[アンドリュー・ラザー](https://ja.wikipedia.org/wiki/アンドリュー・ラザー "wikilink")、[ジェニファー・ダヴィッソン](https://ja.wikipedia.org/wiki/ジェニファー・ダヴィッソン "wikilink")
-  - 製作 - [ワーナー・ブラザース](https://ja.wikipedia.org/wiki/ワーナー・ブラザース "wikilink")
+  - プロデューサー - [レオナルド・ディカプリオ](../Page/レオナルド・ディカプリオ.md "wikilink")、[アンドリュー・ラザー](https://ja.wikipedia.org/wiki/アンドリュー・ラザー "wikilink")、[ジェニファー・ダヴィッソン](https://ja.wikipedia.org/wiki/ジェニファー・ダヴィッソン "wikilink")
+  - 製作 - [ワーナー・ブラザース](../Page/ワーナー・ブラザース.md "wikilink")
 
 ## 新アニメ
 
@@ -602,8 +602,8 @@
 17.
 18. web上だと[2002年](../Page/2002年.md "wikilink")には実写化の報道があったことが確認出来る。
 19.
-20. [「AKIRA」ハリウッドで実写版](http://www.sponichi.co.jp/entertainment/news/2008/02/23/05.html) [スポーツニッポン](https://ja.wikipedia.org/wiki/スポーツニッポン "wikilink") 2008年2月23日
-    ※現在は掲載期間終了につき、[Internet Archive Wayback Machine内に納められたキャッシュ先](https://ja.wikipedia.org/wiki/インターネットアーカイブ "wikilink")\[[http://web.archive.org/web/20080620074732/http://www.sponichi.co.jp/entertainment/news/2008/02/23/05.html\]から閲覧されたし](http://web.archive.org/web/20080620074732/http://www.sponichi.co.jp/entertainment/news/2008/02/23/05.html%5Dから閲覧されたし)。
+20. [「AKIRA」ハリウッドで実写版](http://www.sponichi.co.jp/entertainment/news/2008/02/23/05.html) [スポーツニッポン](../Page/スポーツニッポン.md "wikilink") 2008年2月23日
+    ※現在は掲載期間終了につき、[Internet Archive Wayback Machine内に納められたキャッシュ先](../Page/インターネットアーカイブ.md "wikilink")\[[http://web.archive.org/web/20080620074732/http://www.sponichi.co.jp/entertainment/news/2008/02/23/05.html\]から閲覧されたし](http://web.archive.org/web/20080620074732/http://www.sponichi.co.jp/entertainment/news/2008/02/23/05.html%5Dから閲覧されたし)。
 21. [ディカプリオのプロデュースによる実写映画版「AKIRA」は中止か？](http://www.cinematoday.jp/page/N0018461) シネマトゥデイ 2009年6月15日
 22.
 23.

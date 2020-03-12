@@ -9,7 +9,7 @@
 
 最新バージョン2015では、[Windows 10に対応](https://ja.wikipedia.org/wiki/Microsoft_Windows_10 "wikilink")。
 
-旅客機[ボーイング787](https://ja.wikipedia.org/wiki/ボーイング787 "wikilink")のフライトマニュアル執筆に利用されている\[1\]。
+旅客機[ボーイング787](../Page/ボーイング787.md "wikilink")のフライトマニュアル執筆に利用されている\[1\]。
 
 ## 関連用語
 
@@ -18,7 +18,7 @@
   - [PageMaker](../Page/Adobe_PageMaker.md "wikilink")
   - [PostScript](../Page/PostScript.md "wikilink")
   - [Quark XPress](https://ja.wikipedia.org/wiki/Quark_XPress "wikilink")
-  - [NeWS](https://ja.wikipedia.org/wiki/NeWS "wikilink")
+  - [NeWS](../Page/NeWS.md "wikilink")
 
 ## 脚注
 

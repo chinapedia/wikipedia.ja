@@ -1,9 +1,9 @@
 > この記事は[Bugzilla](https://ja.wikipedia.org/wiki/Bugzilla)から翻訳されています。
 
 
-**Bugzilla**（バグジラ）は、[Mozilla Foundationが開発](../Page/Mozilla_Foundation.md "wikilink")、使用してきた[ウェブベースの](../Page/World_Wide_Web.md "wikilink")[バグ管理システム](https://ja.wikipedia.org/wiki/バグ管理システム "wikilink")。元々[Netscape社が社内で使ってきたシステムであったが](../Page/ネットスケープコミュニケーションズ.md "wikilink")、後に公開。極めて初期のバージョンは[Tclで記述されていたが](https://ja.wikipedia.org/wiki/Tcl/Tk "wikilink")、オープンソース・プロジェクトになってからのソースコードは、Perlで記述されている。現在では、オープンソース、[プロプライエタリ問わず](https://ja.wikipedia.org/wiki/プロプライエタリ・ソフトウェア "wikilink")、数百のプロジェクトでバグ管理ツールとして選択されている。
+**Bugzilla**（バグジラ）は、[Mozilla Foundationが開発](../Page/Mozilla_Foundation.md "wikilink")、使用してきた[ウェブベースの](../Page/World_Wide_Web.md "wikilink")[バグ管理システム](../Page/バグ管理システム.md "wikilink")。元々[Netscape社が社内で使ってきたシステムであったが](../Page/ネットスケープコミュニケーションズ.md "wikilink")、後に公開。極めて初期のバージョンは[Tclで記述されていたが](https://ja.wikipedia.org/wiki/Tcl/Tk "wikilink")、オープンソース・プロジェクトになってからのソースコードは、Perlで記述されている。現在では、オープンソース、[プロプライエタリ問わず](../Page/プロプライエタリ・ソフトウェア.md "wikilink")、数百のプロジェクトでバグ管理ツールとして選択されている。
 
-Bugzillaでの[バグ](https://ja.wikipedia.org/wiki/バグ "wikilink")はソフトウェアに対する問題点、要望、議論などのすべてを表し、機能拡張リクエストにも利用される。
+Bugzillaでの[バグ](../Page/バグ.md "wikilink")はソフトウェアに対する問題点、要望、議論などのすべてを表し、機能拡張リクエストにも利用される。
 
 NetscapeがNetscape Webブラウザのソースコードを公開する際にmozilla.orgで使うツールとして、Bonsaiと共に公開されたものが現在のBugzillaの原型である。
 
@@ -29,11 +29,11 @@ Bugzillaは、標準でバグをカテゴリ別、ステータス別、登録者
 
 Bugzillaを利用するにあたって必要なソフトウェアは、以下の通りである。
 
-  - 対応するデータベースサーバ（[MySQL](https://ja.wikipedia.org/wiki/MySQL "wikilink")、[PostgreSQL](https://ja.wikipedia.org/wiki/PostgreSQL "wikilink") または [Oracle](https://ja.wikipedia.org/wiki/Oracle_Database "wikilink")）。要求されるバージョンはbugzillaのバージョンにより異なる
+  - 対応するデータベースサーバ（[MySQL](https://ja.wikipedia.org/wiki/MySQL "wikilink")、[PostgreSQL](https://ja.wikipedia.org/wiki/PostgreSQL "wikilink") または [Oracle](../Page/Oracle_Database.md "wikilink")）。要求されるバージョンはbugzillaのバージョンにより異なる
   - 適切な[Perl](../Page/Perl.md "wikilink")5
   - 各種Perlモジュール
   - Apacheのような対応するウェブサーバ（CGIが動くウェブサーバであれば使える）
-  - [Sendmail](../Page/Sendmail.md "wikilink")、[qmail](https://ja.wikipedia.org/wiki/qmail "wikilink")、[Postfix](https://ja.wikipedia.org/wiki/Postfix "wikilink")、あるいは[Exim](https://ja.wikipedia.org/wiki/Exim "wikilink")といった適切な[メール転送エージェント](https://ja.wikipedia.org/wiki/メール転送エージェント "wikilink")
+  - [Sendmail](../Page/Sendmail.md "wikilink")、[qmail](https://ja.wikipedia.org/wiki/qmail "wikilink")、[Postfix](../Page/Postfix.md "wikilink")、あるいは[Exim](https://ja.wikipedia.org/wiki/Exim "wikilink")といった適切な[メール転送エージェント](https://ja.wikipedia.org/wiki/メール転送エージェント "wikilink")
 
 ## 出典
 

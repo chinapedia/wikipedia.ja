@@ -7,15 +7,15 @@
 
 ## 概要
 
-多ページ数の書籍や、[数式](https://ja.wikipedia.org/wiki/数式 "wikilink")を含む[学習参考書](https://ja.wikipedia.org/wiki/学習参考書 "wikilink")などの複雑な[組版](https://ja.wikipedia.org/wiki/組版 "wikilink")にまで幅広く対応している。
+多ページ数の書籍や、[数式](../Page/数式.md "wikilink")を含む[学習参考書](https://ja.wikipedia.org/wiki/学習参考書 "wikilink")などの複雑な[組版](../Page/組版.md "wikilink")にまで幅広く対応している。
 
-商品カタログなどに対しては、[データベース](../Page/データベース.md "wikilink")と連動した[バッチ処理](https://ja.wikipedia.org/wiki/バッチ処理 "wikilink")により高速に自動組版を行うことができる。
+商品カタログなどに対しては、[データベース](../Page/データベース.md "wikilink")と連動した[バッチ処理](../Page/バッチ処理.md "wikilink")により高速に自動組版を行うことができる。
 
-[クライアントサーバモデル](https://ja.wikipedia.org/wiki/クライアントサーバモデル "wikilink")を基本とし、分散作業による効率化を実現しているがPC1台での[スタンドアローン](https://ja.wikipedia.org/wiki/スタンドアローン "wikilink")運用も可能。ハードウェアも含めた[Windowsベースのシステムであり](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、アプリケーションソフト単体での販売は行われていない。
+[クライアントサーバモデル](../Page/クライアントサーバモデル.md "wikilink")を基本とし、分散作業による効率化を実現しているがPC1台での[スタンドアローン](../Page/スタンドアローン.md "wikilink")運用も可能。ハードウェアも含めた[Windowsベースのシステムであり](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、アプリケーションソフト単体での販売は行われていない。
 
-本システムは[2018年](../Page/2018年.md "wikilink")まで[キヤノンITソリューションズ](https://ja.wikipedia.org/wiki/キヤノンITソリューションズ "wikilink")（2003年に[キヤノン販売に企業買収される前は住友金属システムソリューションズ](https://ja.wikipedia.org/wiki/キヤノンマーケティングジャパン "wikilink")）から販売されていたが、2019年1月1日にNECネクサソリューションズに事業譲渡された\[1\]。システム名は、住友金属システムソリューションズから販売されていたときは**[SMI](https://ja.wikipedia.org/wiki/住友金属工業 "wikilink") EDIAN**（エスエムアイ エディアン）という表記だったが、キヤノン販売による買収の際にSMIを外し、大文字表記ではなくなった。
+本システムは[2018年](../Page/2018年.md "wikilink")まで[キヤノンITソリューションズ](../Page/キヤノンITソリューションズ.md "wikilink")（2003年に[キヤノン販売に企業買収される前は住友金属システムソリューションズ](../Page/キヤノンマーケティングジャパン.md "wikilink")）から販売されていたが、2019年1月1日にNECネクサソリューションズに事業譲渡された\[1\]。システム名は、住友金属システムソリューションズから販売されていたときは**[SMI](../Page/住友金属工業.md "wikilink") EDIAN**（エスエムアイ エディアン）という表記だったが、キヤノン販売による買収の際にSMIを外し、大文字表記ではなくなった。
 
-本システムの開発はSMI EDIAN時代から[管理工学研究所](https://ja.wikipedia.org/wiki/管理工学研究所 "wikilink")が担当している。
+本システムの開発はSMI EDIAN時代から[管理工学研究所](../Page/管理工学研究所.md "wikilink")が担当している。
 
 ## ファミリー
 
@@ -25,7 +25,7 @@
 
 ### SMI EDIAN PLUS
 
-機能強化とともにUNIXからWindowsに移行したシステム。[1996年](../Page/1996年.md "wikilink")登場\[3\]。[1999年](../Page/1999年.md "wikilink")、[日本新聞協会](https://ja.wikipedia.org/wiki/日本新聞協会 "wikilink")から技術開発奨励賞を受賞\[4\]。（販売終了）
+機能強化とともにUNIXからWindowsに移行したシステム。[1996年](../Page/1996年.md "wikilink")登場\[3\]。[1999年](../Page/1999年.md "wikilink")、[日本新聞協会](../Page/日本新聞協会.md "wikilink")から技術開発奨励賞を受賞\[4\]。（販売終了）
 
 ### EdianWing
 

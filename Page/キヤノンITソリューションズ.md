@@ -1,7 +1,7 @@
 > この記事は[IT](https://ja.wikipedia.org/wiki/IT)から翻訳されています。
 
 
-**キヤノンITソリューションズ株式会社**（キヤノンアイティーソリューションズ、*Canon IT Solutions Inc.*）は、[キヤノン](https://ja.wikipedia.org/wiki/キヤノン "wikilink")グループの[システムインテグレーター](https://ja.wikipedia.org/wiki/システムインテグレーター "wikilink")。キヤノンシステムソリューションズ株式会社と株式会社アルゴ21が[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（[平成](../Page/平成.md "wikilink")20年）[4月1日](../Page/4月1日.md "wikilink")に合併して誕生した。[東京](https://ja.wikipedia.org/wiki/東京 "wikilink")のほか、[新川崎](../Page/川崎市.md "wikilink")・[西東京](../Page/西東京市.md "wikilink")・[大阪](../Page/大阪.md "wikilink")・[名古屋](../Page/名古屋市.md "wikilink")・[刈谷](https://ja.wikipedia.org/wiki/刈谷市 "wikilink")・[宇都宮に事業所を持つ](https://ja.wikipedia.org/wiki/宇都宮市 "wikilink")。[2009年](../Page/2009年.md "wikilink")（平成21年）に中国ソリューション事業推進室を設置、2014年にタイのIT会社を傘下に加えるなど、海外事業の強化に乗り出している。2017年7月に[キヤノンソフトウェア](https://ja.wikipedia.org/wiki/キヤノンソフトウェア "wikilink")株式会社と経営統合した。
+**キヤノンITソリューションズ株式会社**（キヤノンアイティーソリューションズ、*Canon IT Solutions Inc.*）は、[キヤノン](https://ja.wikipedia.org/wiki/キヤノン "wikilink")グループの[システムインテグレーター](../Page/システムインテグレーター.md "wikilink")。キヤノンシステムソリューションズ株式会社と株式会社アルゴ21が[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（[平成](../Page/平成.md "wikilink")20年）[4月1日](../Page/4月1日.md "wikilink")に合併して誕生した。[東京](../Page/東京.md "wikilink")のほか、[新川崎](../Page/川崎市.md "wikilink")・[西東京](../Page/西東京市.md "wikilink")・[大阪](../Page/大阪.md "wikilink")・[名古屋](../Page/名古屋市.md "wikilink")・[刈谷](../Page/刈谷市.md "wikilink")・[宇都宮に事業所を持つ](https://ja.wikipedia.org/wiki/宇都宮市 "wikilink")。[2009年](../Page/2009年.md "wikilink")（平成21年）に中国ソリューション事業推進室を設置、2014年にタイのIT会社を傘下に加えるなど、海外事業の強化に乗り出している。2017年7月に[キヤノンソフトウェア](../Page/キヤノンソフトウェア.md "wikilink")株式会社と経営統合した。
 2019年9月に本社を港区のキヤノンSタワーに移転。東京23区における拠点としては、他に天王洲事業所、三田事業所がある。キヤノングループにおけるIT分野の中核を担う企業の位置づけである。\[1\] \[2\]
 \[3\] \[4\]
 
@@ -17,32 +17,32 @@
 
 ### IT基盤構築
 
-[コンピュータネットワーク](https://ja.wikipedia.org/wiki/コンピュータネットワーク "wikilink")の設計・構築、[データベース](../Page/データベース.md "wikilink")の構築・サポート、運用管理システムの構築、[ハイパフォーマンスコンピューティング（HPC）環境の構築](https://ja.wikipedia.org/wiki/高性能計算 "wikilink")、[ディザスタリカバリ](https://ja.wikipedia.org/wiki/ディザスタリカバリ "wikilink")対策、24時間365日の運用サポートサービスなどを手掛ける。
+[コンピュータネットワーク](../Page/コンピュータネットワーク.md "wikilink")の設計・構築、[データベース](../Page/データベース.md "wikilink")の構築・サポート、運用管理システムの構築、[ハイパフォーマンスコンピューティング（HPC）環境の構築](../Page/高性能計算.md "wikilink")、[ディザスタリカバリ](https://ja.wikipedia.org/wiki/ディザスタリカバリ "wikilink")対策、24時間365日の運用サポートサービスなどを手掛ける。
 
 ### iDC
 
-西東京[データセンター](https://ja.wikipedia.org/wiki/データセンター "wikilink")、ならびに子会社の[クオリサイトテクノロジーズ](https://ja.wikipedia.org/wiki/クオリサイトテクノロジーズ "wikilink")が運営する[沖縄県](../Page/沖縄県.md "wikilink")[名護市](https://ja.wikipedia.org/wiki/名護市 "wikilink")のデータセンターを用い、ホスティング、ハウジング、ISPサービスを提供している。また、[キヤノン](https://ja.wikipedia.org/wiki/キヤノン "wikilink")が法人向けに展開している[ISP](https://ja.wikipedia.org/wiki/インターネットサービスプロバイダ "wikilink")・[ASPである](https://ja.wikipedia.org/wiki/アプリケーションサービスプロバイダ "wikilink")「Canonet」では、キヤノンITソリューションズがサーバー運用を行っている。
+西東京[データセンター](https://ja.wikipedia.org/wiki/データセンター "wikilink")、ならびに子会社の[クオリサイトテクノロジーズ](https://ja.wikipedia.org/wiki/クオリサイトテクノロジーズ "wikilink")が運営する[沖縄県](../Page/沖縄県.md "wikilink")[名護市](../Page/名護市.md "wikilink")のデータセンターを用い、ホスティング、ハウジング、ISPサービスを提供している。また、[キヤノン](https://ja.wikipedia.org/wiki/キヤノン "wikilink")が法人向けに展開している[ISP](https://ja.wikipedia.org/wiki/インターネットサービスプロバイダ "wikilink")・[ASPである](../Page/アプリケーションサービスプロバイダ.md "wikilink")「Canonet」では、キヤノンITソリューションズがサーバー運用を行っている。
 
 ### セキュリティ
 
-[ファイアウォール](https://ja.wikipedia.org/wiki/ファイアウォール "wikilink")や[アンチウイルスソフトウェア](https://ja.wikipedia.org/wiki/アンチウイルスソフトウェア "wikilink")、コンテンツフィルタリング製品などの[セキュリティ製品を開発](../Page/コンピュータセキュリティ.md "wikilink")・販売している。 また、[マルウェア](https://ja.wikipedia.org/wiki/マルウェア "wikilink")解析サービスも行っている。なお、2019年より本領域の企画・開発はキヤノンマーケティングジャパンに移管している。
+[ファイアウォール](../Page/ファイアウォール.md "wikilink")や[アンチウイルスソフトウェア](../Page/アンチウイルスソフトウェア.md "wikilink")、コンテンツフィルタリング製品などの[セキュリティ製品を開発](../Page/コンピュータセキュリティ.md "wikilink")・販売している。 また、[マルウェア](../Page/マルウェア.md "wikilink")解析サービスも行っている。なお、2019年より本領域の企画・開発はキヤノンマーケティングジャパンに移管している。
 
 ### ドキュメント
 
-[DTP](../Page/DTP.md "wikilink")ソフトウエアの開発・販売の経験を持ち、帳票システムや[OCRシステムの構築のほか](https://ja.wikipedia.org/wiki/光学文字認識 "wikilink")、キヤノン製複合機・プリンターのアプリケーションプラットフォームである[MEAP](https://ja.wikipedia.org/wiki/MEAP "wikilink")に対応したシステム開発を行っている。
+[DTP](../Page/DTP.md "wikilink")ソフトウエアの開発・販売の経験を持ち、帳票システムや[OCRシステムの構築のほか](../Page/光学文字認識.md "wikilink")、キヤノン製複合機・プリンターのアプリケーションプラットフォームである[MEAP](https://ja.wikipedia.org/wiki/MEAP "wikilink")に対応したシステム開発を行っている。
 
 ### ソリューション事業
 
-  - [ERP](https://ja.wikipedia.org/wiki/ERP "wikilink")／[CRM](https://ja.wikipedia.org/wiki/顧客関係管理 "wikilink")：[SAP](https://ja.wikipedia.org/wiki/SAP "wikilink")、[mcframe](https://ja.wikipedia.org/wiki/mcframe "wikilink")、Siebel、[salesforce](https://ja.wikipedia.org/wiki/salesforce "wikilink")、および子会社のSSJが開発する[SuperStream](https://ja.wikipedia.org/wiki/SuperStream "wikilink")を中心に、システム構築を行っている。また、[ビジネスインテリジェンス](https://ja.wikipedia.org/wiki/ビジネスインテリジェンス "wikilink")／[企業パフォーマンス管理](https://ja.wikipedia.org/wiki/企業パフォーマンス管理 "wikilink")のシステム構築も行っている。
-  - [EDI](https://ja.wikipedia.org/wiki/電子データ交換 "wikilink")：各種規格に準拠したソフトウエアを自社開発している。
-  - マイグレーション：[メインフレーム](https://ja.wikipedia.org/wiki/メインフレーム "wikilink")環境を中心とした[マイグレーションを行っている](https://ja.wikipedia.org/wiki/レガシーマイグレーション "wikilink")。
-  - 環境：[グリーン調達支援システムや](https://ja.wikipedia.org/wiki/グリーン購入 "wikilink")[MFCA分析システムを開発](https://ja.wikipedia.org/wiki/環境会計 "wikilink")・販売している。
+  - [ERP](https://ja.wikipedia.org/wiki/ERP "wikilink")／[CRM](../Page/顧客関係管理.md "wikilink")：[SAP](https://ja.wikipedia.org/wiki/SAP "wikilink")、[mcframe](https://ja.wikipedia.org/wiki/mcframe "wikilink")、Siebel、[salesforce](https://ja.wikipedia.org/wiki/salesforce "wikilink")、および子会社のSSJが開発する[SuperStream](https://ja.wikipedia.org/wiki/SuperStream "wikilink")を中心に、システム構築を行っている。また、[ビジネスインテリジェンス](../Page/ビジネスインテリジェンス.md "wikilink")／[企業パフォーマンス管理](https://ja.wikipedia.org/wiki/企業パフォーマンス管理 "wikilink")のシステム構築も行っている。
+  - [EDI](../Page/電子データ交換.md "wikilink")：各種規格に準拠したソフトウエアを自社開発している。
+  - マイグレーション：[メインフレーム](../Page/メインフレーム.md "wikilink")環境を中心とした[マイグレーションを行っている](https://ja.wikipedia.org/wiki/レガシーマイグレーション "wikilink")。
+  - 環境：[グリーン調達支援システムや](../Page/グリーン購入.md "wikilink")[MFCA分析システムを開発](../Page/環境会計.md "wikilink")・販売している。
   - 知的財産：特許情報管理システムを核に、契約管理やライセンス管理などの関連するソリューションもあわせて販売している。
-  - モバイルシステム：[キヤノン電子](https://ja.wikipedia.org/wiki/キヤノン電子 "wikilink")製の[ハンディターミナル](https://ja.wikipedia.org/wiki/ハンディターミナル "wikilink")を用い、製造・金融・流通などの各業種向けシステムを開発・販売している。
+  - モバイルシステム：[キヤノン電子](../Page/キヤノン電子.md "wikilink")製の[ハンディターミナル](https://ja.wikipedia.org/wiki/ハンディターミナル "wikilink")を用い、製造・金融・流通などの各業種向けシステムを開発・販売している。
 
 ### 研究開発
 
-[オブジェクト指向](../Page/オブジェクト指向.md "wikilink")開発技術、開発基盤（[クラウドなど](https://ja.wikipedia.org/wiki/クラウドコンピューティング "wikilink")）、[オープンソース](../Page/オープンソース.md "wikilink")ソフトウエア、映像認識（[パターン認識](https://ja.wikipedia.org/wiki/パターン認識 "wikilink")など）、[自然言語処理](../Page/自然言語処理.md "wikilink")の研究を行う。また、[オペレーションズリサーチ](https://ja.wikipedia.org/wiki/オペレーションズリサーチ "wikilink")（Operations Research）を用いたシステム開発・コンサルティングを行う数理技術部門を持ち、同技術を活用したソリューションパッケージも開発している。
+[オブジェクト指向](../Page/オブジェクト指向.md "wikilink")開発技術、開発基盤（[クラウドなど](https://ja.wikipedia.org/wiki/クラウドコンピューティング "wikilink")）、[オープンソース](../Page/オープンソース.md "wikilink")ソフトウエア、映像認識（[パターン認識](../Page/パターン認識.md "wikilink")など）、[自然言語処理](../Page/自然言語処理.md "wikilink")の研究を行う。また、[オペレーションズリサーチ](https://ja.wikipedia.org/wiki/オペレーションズリサーチ "wikilink")（Operations Research）を用いたシステム開発・コンサルティングを行う数理技術部門を持ち、同技術を活用したソリューションパッケージも開発している。
 
 ## 主な自社開発製品
 
@@ -63,15 +63,15 @@
   - 設立
     [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）
       - 株式会社アルゴ21とキヤノンシステムソリューションズ株式会社が合併し、キヤノンITソリューションズ株式会社が発足。同時にアルゴインテリジェントサービスの社名をAISに、アルゴエデュケーションサービスの社名を[AESにそれぞれ変更](https://ja.wikipedia.org/wiki/AES_\(企業\) "wikilink")。
-      - ニイウスコーならびに[ビックカメラ](https://ja.wikipedia.org/wiki/ビックカメラ "wikilink")より、ビックニイウスの全株式を取得し、社名を[クオリサイトテクノロジーズ](https://ja.wikipedia.org/wiki/クオリサイトテクノロジーズ "wikilink")に変更。
+      - ニイウスコーならびに[ビックカメラ](../Page/ビックカメラ.md "wikilink")より、ビックニイウスの全株式を取得し、社名を[クオリサイトテクノロジーズ](https://ja.wikipedia.org/wiki/クオリサイトテクノロジーズ "wikilink")に変更。
 
 <!-- end list -->
 
   -
     [2009年](../Page/2009年.md "wikilink")（平成21年）
       - キヤノンネットワークコミュニケーションズ株式会社を吸収合併。
-      - 医療ソリューション事業をFMSに移管し、同社社名を[キヤノンITSメディカル](https://ja.wikipedia.org/wiki/キヤノンITSメディカル "wikilink")に変更。
-      - 傘下のAISと[キヤノンMJの子会社ソリューションサービスが合併し](https://ja.wikipedia.org/wiki/キヤノンマーケティングジャパン "wikilink")、[キヤノンビズアテンダ](https://ja.wikipedia.org/wiki/キヤノンビズアテンダ "wikilink")に社名変更。
+      - 医療ソリューション事業をFMSに移管し、同社社名を[キヤノンITSメディカル](../Page/キヤノンITSメディカル.md "wikilink")に変更。
+      - 傘下のAISと[キヤノンMJの子会社ソリューションサービスが合併し](../Page/キヤノンマーケティングジャパン.md "wikilink")、[キヤノンビズアテンダ](https://ja.wikipedia.org/wiki/キヤノンビズアテンダ "wikilink")に社名変更。
       - 中国ソリューション事業推進室を設置し、現地企業向けのSI事業を本格化。
       - キヤノンMJの中堅企業向けシステム営業部門を編入。
       - [SSJの開発部門を編入](https://ja.wikipedia.org/wiki/エス・エス・ジェイ "wikilink")\[5\]。
@@ -100,7 +100,7 @@
 
   -
     [2015年](../Page/2015年.md "wikilink")（平成27年）
-      - [キヤノンソフトウェア](https://ja.wikipedia.org/wiki/キヤノンソフトウェア "wikilink")株式会社よりソリューション事業を継承。
+      - [キヤノンソフトウェア](../Page/キヤノンソフトウェア.md "wikilink")株式会社よりソリューション事業を継承。
 
 <!-- end list -->
 
@@ -121,7 +121,7 @@
 
 ## 合併前の沿革：キヤノンシステムソリューションズ
 
-大手鉄鋼メーカー[住友金属工業](https://ja.wikipedia.org/wiki/住友金属工業 "wikilink")株式会社の情報システム部門及び研究開発部門とその子会社を前身とする。
+大手鉄鋼メーカー[住友金属工業](../Page/住友金属工業.md "wikilink")株式会社の情報システム部門及び研究開発部門とその子会社を前身とする。
 
   -
     [1982年](../Page/1982年.md "wikilink")（昭和57年）
@@ -136,7 +136,7 @@
 <!-- end list -->
 
   -
-    [1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")（平成3年）
+    [1991年](../Page/1991年.md "wikilink")（平成3年）
       - 通商産業省 システムインテグレータ企業に認定。
 
 <!-- end list -->
@@ -167,33 +167,33 @@
 <!-- end list -->
 
   -
-    [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")（平成16年）
+    [2004年](../Page/2004年.md "wikilink")（平成16年）
       - キヤノン販売の基幹SI部門を編入。
 
 <!-- end list -->
 
   -
-    [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）
-      - [アステラス製薬](https://ja.wikipedia.org/wiki/アステラス製薬 "wikilink")から株式会社[FMSの株式譲渡を受け](https://ja.wikipedia.org/wiki/キヤノンITSメディカル "wikilink")、子会社化。
+    [2005年](../Page/2005年.md "wikilink")（平成17年）
+      - [アステラス製薬](../Page/アステラス製薬.md "wikilink")から株式会社[FMSの株式譲渡を受け](../Page/キヤノンITSメディカル.md "wikilink")、子会社化。
 
 <!-- end list -->
 
   -
-    [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）
+    [2006年](../Page/2006年.md "wikilink")（平成18年）
       - キヤノンMJのドキュメントソリューション開発部門を編入。同時に、[キヤノン](https://ja.wikipedia.org/wiki/キヤノン "wikilink")製品向けドライバー開発事業を譲り受ける。
-      - クボタソリッドテクノロジーから[CAD](https://ja.wikipedia.org/wiki/CAD "wikilink")事業([SolidWorks](https://ja.wikipedia.org/wiki/SolidWorks "wikilink"))の販売部門を譲り受ける。
+      - クボタソリッドテクノロジーから[CAD](../Page/CAD.md "wikilink")事業([SolidWorks](../Page/SolidWorks.md "wikilink"))の販売部門を譲り受ける。
 
 <!-- end list -->
 
   -
-    [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")（平成19年）
+    [2007年](../Page/2007年.md "wikilink")（平成19年）
       - キヤノンMJの医療向けソリューション事業を編入。
 
 <!-- end list -->
 
   -
     [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）
-      - キヤノンMJの[ハイパフォーマンスコンピューティング（HPC）事業](https://ja.wikipedia.org/wiki/高性能計算 "wikilink")（旧キヤノン・スーパーコンピューティング・エスアイ株式会社）、環境ソリューション事業、特許ソリューション事業、コンサルティング事業を編入。
+      - キヤノンMJの[ハイパフォーマンスコンピューティング（HPC）事業](../Page/高性能計算.md "wikilink")（旧キヤノン・スーパーコンピューティング・エスアイ株式会社）、環境ソリューション事業、特許ソリューション事業、コンサルティング事業を編入。
 
 ## 合併前の沿革：アルゴ21
 
@@ -232,7 +232,7 @@
   -
     [1999年](../Page/1999年.md "wikilink")（平成11年）
       - ERPベンダーの[SSJを子会社化](https://ja.wikipedia.org/wiki/エス・エス・ジェイ "wikilink")。
-      - [東京証券取引所](https://ja.wikipedia.org/wiki/東京証券取引所 "wikilink")2部上場。
+      - [東京証券取引所](../Page/東京証券取引所.md "wikilink")2部上場。
 
 <!-- end list -->
 
@@ -265,7 +265,7 @@
 <!-- end list -->
 
   -
-    [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")（平成16年）
+    [2004年](../Page/2004年.md "wikilink")（平成16年）
       - 株式会社アルゴコンサルティングサービスを吸収合併
       - デジタルエンジニアリング部門をアルゴグラフィックスに譲渡。
       - パソコンの保守サービス事業の一部を日本オフィス・システム株式会社に譲渡
@@ -273,14 +273,14 @@
 <!-- end list -->
 
   -
-    [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）
+    [2006年](../Page/2006年.md "wikilink")（平成18年）
       - NRIガーデンネットワークを子会社化し、[ガーデンネットワーク](https://ja.wikipedia.org/wiki/ガーデンネットワーク "wikilink")に社名変更。
 
 <!-- end list -->
 
   -
-    [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")（平成19年）
-      - [株式公開買い付け](https://ja.wikipedia.org/wiki/株式公開買い付け "wikilink")（TOB）により[キヤノンマーケティングジャパン](https://ja.wikipedia.org/wiki/キヤノンマーケティングジャパン "wikilink")の子会社となる。
+    [2007年](../Page/2007年.md "wikilink")（平成19年）
+      - [株式公開買い付け](https://ja.wikipedia.org/wiki/株式公開買い付け "wikilink")（TOB）により[キヤノンマーケティングジャパン](../Page/キヤノンマーケティングジャパン.md "wikilink")の子会社となる。
       - アルゴグラフィックスの自社株式買付に応募し、同社との資本関係を解消。
       - Pro-SPIREとの資本提携を解消。
       - キヤノンマーケティングジャパンの完全子会社となり、上場廃止。
@@ -308,19 +308,19 @@
 
   - [エディフィストラーニング](https://ja.wikipedia.org/wiki/エディフィストラーニング "wikilink")株式会社（企業向けIT研修・マネジメント研修事業）
   - [株式会社ブロードバンドセキュリティ](https://www.bbsec.co.jp/)（セキュリティサービスの提供）
-  - [株式会社ABM](http://www.abmc.co.jp/)（[活動基準原価計算](https://ja.wikipedia.org/wiki/活動基準原価計算 "wikilink")の支援サービスの提供）
+  - [株式会社ABM](http://www.abmc.co.jp/)（[活動基準原価計算](../Page/活動基準原価計算.md "wikilink")の支援サービスの提供）
 
 ## 脚注
 
 ## 関連項目
 
-  - [ユーザー系](https://ja.wikipedia.org/wiki/ユーザー系 "wikilink") : コンピューターメーカー以外を親会社に持つシステムインテグレータを指す。キヤノンITソリューションズもキヤノングループのIT革新やエンベデッド開発の一端を担う。
-  - [形式手法](https://ja.wikipedia.org/wiki/形式手法 "wikilink") : ソフトウエア開発手法の一つ。キヤノンITソリューションズの子会社であるAESが、同手法を用いた組込ソフトウエアの技術者育成研修を手掛ける[1](http://www.argo-aes.co.jp/download/news070724.pdfで参照)。
-  - [公立はこだて未来大学](https://ja.wikipedia.org/wiki/公立はこだて未来大学 "wikilink") :産学連携による寄付講座として「実践的IT人材育成講座」が開設され、講演協力を行う [2](http://codepro.c.fun.ac.jp/で参照)。
-  - [日本オペレーションズ・リサーチ学会](https://ja.wikipedia.org/wiki/日本オペレーションズ・リサーチ学会 "wikilink") : OR理論ならびに手法の研究・開発を行い、経営・行政課題での活用を図る社団法人。賛助会員の１社。
-  - [情報サービス産業協会](https://ja.wikipedia.org/wiki/情報サービス産業協会 "wikilink")（JISA）: 同社元顧問の佐藤雄二郎(アルゴ21設立者）が会長、太田清史（[NRI出身](https://ja.wikipedia.org/wiki/野村総合研究所 "wikilink")）が副会長を務めていた社団法人。
-  - [バーチャルリアリティ](https://ja.wikipedia.org/wiki/バーチャルリアリティ "wikilink") : 同技術の一種である[拡張現実](../Page/拡張現実.md "wikilink")/[複合現実](https://ja.wikipedia.org/wiki/複合現実 "wikilink") ([:en:Mixed reality](https://ja.wikipedia.org/wiki/:en:Mixed_reality "wikilink"))を実現する機器（[ヘッドマウントディスプレイ](https://ja.wikipedia.org/wiki/ヘッドマウントディスプレイ "wikilink")）やプラットフォームを、キヤノン株式会社で開発しており、それを用いたシステム構築をキヤノンITソリューションズで行う。旧キヤノン・スーパーコンピューティング・エスアイで手掛けてきた[ハイパフォーマンスコンピューティング（HPC）事業のひとつ](https://ja.wikipedia.org/wiki/高性能計算 "wikilink")。
-  - [TouchUpWeb](https://ja.wikipedia.org/wiki/TouchUpWeb "wikilink") : 特定のウェブブラウザでの閲覧を前提に最適化されたウェブサイトを、[FireFox](https://ja.wikipedia.org/wiki/FireFox "wikilink")で適切に表示させるためのシステム。[情報処理推進機構 (IPA)](https://ja.wikipedia.org/wiki/情報処理推進機構 "wikilink") の 2005 年度下期オープンソースソフトウェア活用基盤整備事業の一環として、旧アルゴ21が[Mozilla Japanと](https://ja.wikipedia.org/wiki/Mozilla_Japan "wikilink")[三菱総合研究所](https://ja.wikipedia.org/wiki/三菱総合研究所 "wikilink")とともに開発した。
+  - [ユーザー系](../Page/ユーザー系.md "wikilink") : コンピューターメーカー以外を親会社に持つシステムインテグレータを指す。キヤノンITソリューションズもキヤノングループのIT革新やエンベデッド開発の一端を担う。
+  - [形式手法](../Page/形式手法.md "wikilink") : ソフトウエア開発手法の一つ。キヤノンITソリューションズの子会社であるAESが、同手法を用いた組込ソフトウエアの技術者育成研修を手掛ける[1](http://www.argo-aes.co.jp/download/news070724.pdfで参照)。
+  - [公立はこだて未来大学](../Page/公立はこだて未来大学.md "wikilink") :産学連携による寄付講座として「実践的IT人材育成講座」が開設され、講演協力を行う [2](http://codepro.c.fun.ac.jp/で参照)。
+  - [日本オペレーションズ・リサーチ学会](../Page/日本オペレーションズ・リサーチ学会.md "wikilink") : OR理論ならびに手法の研究・開発を行い、経営・行政課題での活用を図る社団法人。賛助会員の１社。
+  - [情報サービス産業協会](../Page/情報サービス産業協会.md "wikilink")（JISA）: 同社元顧問の佐藤雄二郎(アルゴ21設立者）が会長、太田清史（[NRI出身](../Page/野村総合研究所.md "wikilink")）が副会長を務めていた社団法人。
+  - [バーチャルリアリティ](https://ja.wikipedia.org/wiki/バーチャルリアリティ "wikilink") : 同技術の一種である[拡張現実](../Page/拡張現実.md "wikilink")/[複合現実](https://ja.wikipedia.org/wiki/複合現実 "wikilink") ([:en:Mixed reality](https://ja.wikipedia.org/wiki/:en:Mixed_reality "wikilink"))を実現する機器（[ヘッドマウントディスプレイ](../Page/ヘッドマウントディスプレイ.md "wikilink")）やプラットフォームを、キヤノン株式会社で開発しており、それを用いたシステム構築をキヤノンITソリューションズで行う。旧キヤノン・スーパーコンピューティング・エスアイで手掛けてきた[ハイパフォーマンスコンピューティング（HPC）事業のひとつ](../Page/高性能計算.md "wikilink")。
+  - [TouchUpWeb](../Page/TouchUpWeb.md "wikilink") : 特定のウェブブラウザでの閲覧を前提に最適化されたウェブサイトを、[FireFox](https://ja.wikipedia.org/wiki/FireFox "wikilink")で適切に表示させるためのシステム。[情報処理推進機構 (IPA)](../Page/情報処理推進機構.md "wikilink") の 2005 年度下期オープンソースソフトウェア活用基盤整備事業の一環として、旧アルゴ21が[Mozilla Japanと](https://ja.wikipedia.org/wiki/Mozilla_Japan "wikilink")[三菱総合研究所](../Page/三菱総合研究所.md "wikilink")とともに開発した。
   - [アルゴ船](https://ja.wikipedia.org/wiki/アルゴ船 "wikilink") : ギリシャ神話で、王子イアソンが英雄とともに大海原に船出した船の名前。旧アルゴ21の社名の由来となった。
 
 ## 外部リンク

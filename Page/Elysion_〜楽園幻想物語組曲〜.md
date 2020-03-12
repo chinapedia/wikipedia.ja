@@ -1,17 +1,17 @@
 > この記事は[Elysion ](https://ja.wikipedia.org/wiki/Elysion_)から翻訳されています。
 
 
-『**Elysion 〜楽園幻想物語組曲〜**』（エリュシオン らくえんげんそうものがたりくみきょく）は[Sound Horizonによる](https://ja.wikipedia.org/wiki/Sound_Horizon "wikilink")2枚目のメジャーアルバム。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月13日](../Page/4月13日.md "wikilink")に[ベルウッドから発売された](https://ja.wikipedia.org/wiki/ベルウッド・レコード "wikilink")。
+『**Elysion 〜楽園幻想物語組曲〜**』（エリュシオン らくえんげんそうものがたりくみきょく）は[Sound Horizonによる](https://ja.wikipedia.org/wiki/Sound_Horizon "wikilink")2枚目のメジャーアルバム。[2005年](../Page/2005年.md "wikilink")[4月13日](../Page/4月13日.md "wikilink")に[ベルウッドから発売された](../Page/ベルウッド・レコード.md "wikilink")。
 
 ## 概要
 
 同人時代からの通算で4作目のStory CD。前作『[Elysion 〜楽園への前奏曲〜](https://ja.wikipedia.org/wiki/Elysion_〜楽園への前奏曲〜 "wikilink")』より「Ark」と「Yield」、過去の自主制作アルバムより「魔女とラフレンツェ」を別バージョンとして収録。
 
-このCDは音楽データとは別に、特典としてシステムサウンド用の[WAV](https://ja.wikipedia.org/wiki/WAV "wikilink")ファイルが収録されている[エンハンスドCDとなっている](https://ja.wikipedia.org/wiki/CD_EXTRA "wikilink")。
+このCDは音楽データとは別に、特典としてシステムサウンド用の[WAV](../Page/WAV.md "wikilink")ファイルが収録されている[エンハンスドCDとなっている](../Page/CD_EXTRA.md "wikilink")。
 
-2005年には、本作の内容を元に[なかのZERO](https://ja.wikipedia.org/wiki/なかのZERO "wikilink")で開催されたコンサートの様子を収録したDVD『[Elysion 〜楽園パレードへようこそ〜](https://ja.wikipedia.org/wiki/Elysion_〜楽園パレードへようこそ〜 "wikilink")』もリリースされている。
+2005年には、本作の内容を元に[なかのZERO](https://ja.wikipedia.org/wiki/なかのZERO "wikilink")で開催されたコンサートの様子を収録したDVD『[Elysion 〜楽園パレードへようこそ〜](../Page/Elysion_〜楽園パレードへようこそ〜.md "wikilink")』もリリースされている。
 
-2015年には、[十文字青](../Page/十文字青.md "wikilink")による上下巻のノベライズ作品が『Elysion 二つの楽園を廻る物語』が、[角川書店](../Page/角川書店.md "wikilink")より刊行。4月24日には、[月刊Asuka](https://ja.wikipedia.org/wiki/月刊Asuka "wikilink")6月号から[木下さくら](https://ja.wikipedia.org/wiki/木下さくら "wikilink")による同名タイトルのコミカライズ作品が連載開始\[1\]（2016年7月号で連載終了\[2\]）。
+2015年には、[十文字青](../Page/十文字青.md "wikilink")による上下巻のノベライズ作品が『Elysion 二つの楽園を廻る物語』が、[角川書店](../Page/角川書店.md "wikilink")より刊行。4月24日には、[月刊Asuka](../Page/月刊Asuka.md "wikilink")6月号から[木下さくら](../Page/木下さくら.md "wikilink")による同名タイトルのコミカライズ作品が連載開始\[1\]（2016年7月号で連載終了\[2\]）。
 
 ## 収録曲
 
@@ -43,7 +43,7 @@
 
 <!-- end list -->
 
-  - [Revo](https://ja.wikipedia.org/wiki/Revo "wikilink")
+  - [Revo](../Page/Revo.md "wikilink")
 
 <!-- end list -->
 
@@ -51,8 +51,8 @@
 
 <!-- end list -->
 
-  - [Aramary](https://ja.wikipedia.org/wiki/あらまり "wikilink")
-  - [Jimang](https://ja.wikipedia.org/wiki/じまんぐ "wikilink")
+  - [Aramary](../Page/あらまり.md "wikilink")
+  - [Jimang](../Page/じまんぐ.md "wikilink")
 
 <!-- end list -->
 
@@ -87,7 +87,7 @@
 
 <!-- end list -->
 
-  - Sound Horizon(原作)・十文字青(解釈・構成)・[木下さくら](https://ja.wikipedia.org/wiki/木下さくら "wikilink")(漫画)、[あすかコミックス](https://ja.wikipedia.org/wiki/あすかコミックス "wikilink")DX(KADOKAWA)刊
+  - Sound Horizon(原作)・十文字青(解釈・構成)・[木下さくら](../Page/木下さくら.md "wikilink")(漫画)、[あすかコミックス](https://ja.wikipedia.org/wiki/あすかコミックス "wikilink")DX(KADOKAWA)刊
 
 <!-- end list -->
 

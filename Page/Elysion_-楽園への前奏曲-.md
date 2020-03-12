@@ -1,20 +1,20 @@
 > この記事は[Elysion --](https://ja.wikipedia.org/wiki/Elysion_--)から翻訳されています。
 
 
-『**Elysion －楽園への前奏曲－**』（エリュシオン らくえんへのぜんそうきょく）は[Sound Horizonのメジャーデビューアルバム](https://ja.wikipedia.org/wiki/Sound_Horizon "wikilink")。[2004年](../Page/2004年.md "wikilink")[10月27日](https://ja.wikipedia.org/wiki/10月27日 "wikilink")に[ベルウッドレコード](https://ja.wikipedia.org/wiki/ベルウッドレコード "wikilink")から発売された。
+『**Elysion －楽園への前奏曲－**』（エリュシオン らくえんへのぜんそうきょく）は[Sound Horizonのメジャーデビューアルバム](https://ja.wikipedia.org/wiki/Sound_Horizon "wikilink")。[2004年](../Page/2004年.md "wikilink")[10月27日](../Page/10月27日.md "wikilink")に[ベルウッドレコード](https://ja.wikipedia.org/wiki/ベルウッドレコード "wikilink")から発売された。
 
 ## 概要
 
-デビュー前の自主制作アルバムからピックアップした楽曲と、次作『[Elysion 〜楽園幻想物語組曲〜](https://ja.wikipedia.org/wiki/Elysion_〜楽園幻想物語組曲〜 "wikilink")』から先行収録された新曲（細部が若干異なる別バージョン）で構成され、より多くのリスナーにSound Horizonの幻想物語音楽を知って欲しいという願いから、「Story CD」とも「Pleasure CD」とも銘打たない短編集・ベストアルバムに近い作品となっている。
+デビュー前の自主制作アルバムからピックアップした楽曲と、次作『[Elysion 〜楽園幻想物語組曲〜](../Page/Elysion_〜楽園幻想物語組曲〜.md "wikilink")』から先行収録された新曲（細部が若干異なる別バージョン）で構成され、より多くのリスナーにSound Horizonの幻想物語音楽を知って欲しいという願いから、「Story CD」とも「Pleasure CD」とも銘打たない短編集・ベストアルバムに近い作品となっている。
 
 ## 収録曲
 
 1.  **Ark**
       -
-        『[Elysion 〜楽園幻想物語組曲〜](https://ja.wikipedia.org/wiki/Elysion_〜楽園幻想物語組曲〜 "wikilink")』より先行収録
+        『[Elysion 〜楽園幻想物語組曲〜](../Page/Elysion_〜楽園幻想物語組曲〜.md "wikilink")』より先行収録
 2.  **辿りつく詩**
       -
-        自主制作アルバム『[Chronicle 2nd](https://ja.wikipedia.org/wiki/Chronicle_2nd "wikilink")』より収録
+        自主制作アルバム『[Chronicle 2nd](../Page/Chronicle_2nd.md "wikilink")』より収録
 3.  **恋人を射ち堕とした日**
       -
         自主制作アルバム『Lost』より収録
@@ -26,13 +26,13 @@
         自主制作アルバム『Lost』より収録
 6.  **雷神の系譜**
       -
-        自主制作アルバム『[Chronicle 2nd](https://ja.wikipedia.org/wiki/Chronicle_2nd "wikilink")』より収録
+        自主制作アルバム『[Chronicle 2nd](../Page/Chronicle_2nd.md "wikilink")』より収録
 7.  **檻の中の花**
       -
         自主制作アルバム『Pico Magic Reloaded』より収録
 8.  **Yield**
       -
-        『[Elysion 〜楽園幻想物語組曲〜](https://ja.wikipedia.org/wiki/Elysion_〜楽園幻想物語組曲〜 "wikilink")』より先行収録
+        『[Elysion 〜楽園幻想物語組曲〜](../Page/Elysion_〜楽園幻想物語組曲〜.md "wikilink")』より先行収録
 
 ## 制作・参加メンバー
 
@@ -40,7 +40,7 @@
 
 <!-- end list -->
 
-  - [Revo](https://ja.wikipedia.org/wiki/Revo "wikilink")
+  - [Revo](../Page/Revo.md "wikilink")
 
 <!-- end list -->
 
@@ -48,8 +48,8 @@
 
 <!-- end list -->
 
-  - [Aramary](https://ja.wikipedia.org/wiki/あらまり "wikilink")
-  - [Jimang](https://ja.wikipedia.org/wiki/じまんぐ "wikilink")
+  - [Aramary](../Page/あらまり.md "wikilink")
+  - [Jimang](../Page/じまんぐ.md "wikilink")
 
 <!-- end list -->
 
@@ -61,8 +61,8 @@
 
 ## 収録曲の違い
 
-  - 「Ark」と「Yield」は、『[Elysion 〜楽園幻想物語組曲〜](https://ja.wikipedia.org/wiki/Elysion_〜楽園幻想物語組曲〜 "wikilink")』に収録されているものとイントロ部分などの細部が若干異なっている。
-  - 「辿りつく詩」と「雷神の系譜」は『[Chronicle 2nd](https://ja.wikipedia.org/wiki/Chronicle_2nd "wikilink")』のものからイントロの台詞を省いたものが収録されている。
+  - 「Ark」と「Yield」は、『[Elysion 〜楽園幻想物語組曲〜](../Page/Elysion_〜楽園幻想物語組曲〜.md "wikilink")』に収録されているものとイントロ部分などの細部が若干異なっている。
+  - 「辿りつく詩」と「雷神の系譜」は『[Chronicle 2nd](../Page/Chronicle_2nd.md "wikilink")』のものからイントロの台詞を省いたものが収録されている。
 
 ## 外部リンク
 

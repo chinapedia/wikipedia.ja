@@ -1,25 +1,25 @@
 > この記事は[UNIQue the RADIO](https://ja.wikipedia.org/wiki/UNIQue_the_RADIO)から翻訳されています。
 
 
-**UNIQue the RADIO**（ユニーク・ザ・レディオ）は、[デジタルラジオ推進協会](https://ja.wikipedia.org/wiki/デジタルラジオ推進協会 "wikilink")が放送し、[文化放送](https://ja.wikipedia.org/wiki/文化放送 "wikilink")と[NACK5が編成を行っていた](../Page/エフエムナックファイブ.md "wikilink")[地上デジタル音声放送](https://ja.wikipedia.org/wiki/地上デジタル音声放送 "wikilink")実用化試験局のサービス。東京地区9301ch。
+**UNIQue the RADIO**（ユニーク・ザ・レディオ）は、[デジタルラジオ推進協会](../Page/デジタルラジオ推進協会.md "wikilink")が放送し、[文化放送](../Page/文化放送.md "wikilink")と[NACK5が編成を行っていた](../Page/エフエムナックファイブ.md "wikilink")[地上デジタル音声放送](../Page/地上デジタル音声放送.md "wikilink")実用化試験局のサービス。東京地区9301ch。
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")（[平成](../Page/平成.md "wikilink")19年）[4月2日](../Page/4月2日.md "wikilink")サービス開始、[2009年](../Page/2009年.md "wikilink")（[平成](../Page/平成.md "wikilink")21年）[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")サービス終了。
+[2007年](../Page/2007年.md "wikilink")（[平成](../Page/平成.md "wikilink")19年）[4月2日](../Page/4月2日.md "wikilink")サービス開始、[2009年](../Page/2009年.md "wikilink")（[平成](../Page/平成.md "wikilink")21年）[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")サービス終了。
 
 ## 歴史
 
-  - [2003年](../Page/2003年.md "wikilink")（[平成](../Page/平成.md "wikilink")15年）[10月10日](../Page/10月10日.md "wikilink") - 地上デジタル音声放送実用化試験の放送開始にともない、93チャンネルにて文化放送・FM NACK5・[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")の3社の制作で、DigiQ+N 93（デジキューン　ナインティスリー；現在はデジタルラジオ推進協会 東京実用化試験局 93チャンネルとしての名称）のサービスを開始。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")（[平成](../Page/平成.md "wikilink")19年）[4月2日](../Page/4月2日.md "wikilink") - ステーションネームをUNIQue the RADIOと変更。文化放送とNACK5が番組を提供する。先行して[3月12日](../Page/3月12日.md "wikilink")よりアニラジ枠をスタートし[Voice of A\&G Digital 超ラジ\!の放送が始まった](https://ja.wikipedia.org/wiki/Voice_of_A&G_Digital_超ラジ! "wikilink")。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")（[平成](../Page/平成.md "wikilink")19年）[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink") - [アニラジ](../Page/アニラジ.md "wikilink")関連のコンテンツを、9302ch「[超\!A\&G+](https://ja.wikipedia.org/wiki/超!A&G+ "wikilink")」として独立。新サービスの名称は文化放送のアニラジ枠「[A\&Gゾーン](https://ja.wikipedia.org/wiki/文化放送A&Gゾーン "wikilink")」のキャッチフレーズ「超\! A\&G」より。UNIQue the RADIOは、World Music Stylesをキーワードとした編成に統一される。
+  - [2003年](../Page/2003年.md "wikilink")（[平成](../Page/平成.md "wikilink")15年）[10月10日](../Page/10月10日.md "wikilink") - 地上デジタル音声放送実用化試験の放送開始にともない、93チャンネルにて文化放送・FM NACK5・[テレビ朝日](../Page/テレビ朝日.md "wikilink")の3社の制作で、DigiQ+N 93（デジキューン　ナインティスリー；現在はデジタルラジオ推進協会 東京実用化試験局 93チャンネルとしての名称）のサービスを開始。
+  - [2007年](../Page/2007年.md "wikilink")（[平成](../Page/平成.md "wikilink")19年）[4月2日](../Page/4月2日.md "wikilink") - ステーションネームをUNIQue the RADIOと変更。文化放送とNACK5が番組を提供する。先行して[3月12日](../Page/3月12日.md "wikilink")よりアニラジ枠をスタートし[Voice of A\&G Digital 超ラジ\!の放送が始まった](../Page/Voice_of_A&G_Digital_超ラジ!.md "wikilink")。
+  - [2007年](../Page/2007年.md "wikilink")（[平成](../Page/平成.md "wikilink")19年）[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink") - [アニラジ](../Page/アニラジ.md "wikilink")関連のコンテンツを、9302ch「[超\!A\&G+](https://ja.wikipedia.org/wiki/超!A&G+ "wikilink")」として独立。新サービスの名称は文化放送のアニラジ枠「[A\&Gゾーン](../Page/文化放送A&Gゾーン.md "wikilink")」のキャッチフレーズ「超\! A\&G」より。UNIQue the RADIOは、World Music Stylesをキーワードとした編成に統一される。
   - [2009年](../Page/2009年.md "wikilink")（[平成](../Page/平成.md "wikilink")21年）[4月6日](../Page/4月6日.md "wikilink") - NACK5の制作枠縮小に伴い、文化放送制作枠が拡大。「[アジアン\!プラス](https://ja.wikipedia.org/wiki/アジアン!プラス "wikilink")」などの放送時間が変更された。
   - [2009年](../Page/2009年.md "wikilink")（[平成](../Page/平成.md "wikilink")21年）[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink") - 25時をもって放送終了し、サービス終了。
 
 ## 聴取方法
 
-  - [地上デジタル音声放送](https://ja.wikipedia.org/wiki/地上デジタル音声放送 "wikilink")実用化試験放局 東京地区9301チャンネル
-  - [インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")
-      - [公式サイト](http://www.uniqueradio.jp/)にて[アンケート](https://ja.wikipedia.org/wiki/アンケート "wikilink")に答えることにより聴取できた。
+  - [地上デジタル音声放送](../Page/地上デジタル音声放送.md "wikilink")実用化試験放局 東京地区9301チャンネル
+  - [インターネット](../Page/インターネット.md "wikilink")
+      - [公式サイト](http://www.uniqueradio.jp/)にて[アンケート](../Page/アンケート.md "wikilink")に答えることにより聴取できた。
       - kikeruツールバーでも視聴できた。
-      - [2009年](../Page/2009年.md "wikilink")（[平成](../Page/平成.md "wikilink")21年）頃に[DRMがかけられたため](https://ja.wikipedia.org/wiki/デジタル著作権管理 "wikilink")、[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink")以外では聴取不可となった。
+      - [2009年](../Page/2009年.md "wikilink")（[平成](../Page/平成.md "wikilink")21年）頃に[DRMがかけられたため](../Page/デジタル著作権管理.md "wikilink")、[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink")以外では聴取不可となった。
 
 ### その他
 
@@ -53,21 +53,21 @@
       - [kikyu sky station](https://ja.wikipedia.org/wiki/kikyu_sky_station "wikilink")（金曜日8:00-10:00、リピート放送:当日16:00-18:00、深夜0:00-2:00、日曜日18:00-20:00）
       - [ヤマモト世界旅行社](https://ja.wikipedia.org/wiki/ヤマモト世界旅行社 "wikilink")（金曜日12:00-14:00、リピート放送:当日18:00-20:00、日曜日10:00-12:00）
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")（[平成](../Page/平成.md "wikilink")19年）[3月12日](../Page/3月12日.md "wikilink")～[2009年](../Page/2009年.md "wikilink")（[平成](../Page/平成.md "wikilink")21年）[4月5日](../Page/4月5日.md "wikilink")まで放送されていた番組
+[2007年](../Page/2007年.md "wikilink")（[平成](../Page/平成.md "wikilink")19年）[3月12日](../Page/3月12日.md "wikilink")～[2009年](../Page/2009年.md "wikilink")（[平成](../Page/平成.md "wikilink")21年）[4月5日](../Page/4月5日.md "wikilink")まで放送されていた番組
 
-**[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")（[平成](../Page/平成.md "wikilink")19年）[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink")以降、[超\!A\&G+](https://ja.wikipedia.org/wiki/超!A&G+ "wikilink")へ移動した番組**
+**[2007年](../Page/2007年.md "wikilink")（[平成](../Page/平成.md "wikilink")19年）[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink")以降、[超\!A\&G+](https://ja.wikipedia.org/wiki/超!A&G+ "wikilink")へ移動した番組**
 
-  -   - [喜多村英梨の超ラジ\!](https://ja.wikipedia.org/wiki/喜多村英梨の超ラジ! "wikilink")（その後、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（[平成](../Page/平成.md "wikilink")22年）[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")で終了。）
-      - [柿原徹也の超ラジ\!](https://ja.wikipedia.org/wiki/柿原徹也の超ラジ! "wikilink")（その後[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")（[平成](../Page/平成.md "wikilink")19年）[9月25日](../Page/9月25日.md "wikilink")で終了。）
-      - [飯塚雅弓の超ラジ\!](https://ja.wikipedia.org/wiki/飯塚雅弓の超ラジ! "wikilink")（その後、[2009年](../Page/2009年.md "wikilink")（[平成](../Page/平成.md "wikilink")21年）[4月1日](../Page/4月1日.md "wikilink")で終了。）
-      - [鈴木久美子の超ラジ\!](https://ja.wikipedia.org/wiki/鈴木久美子の超ラジ! "wikilink")（その後、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（[平成](../Page/平成.md "wikilink")20年）[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")で終了。）
-      - [鷲崎健の超ラジ\!](https://ja.wikipedia.org/wiki/鷲崎健の超ラジ! "wikilink")（その後、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（[平成](../Page/平成.md "wikilink")22年）[10月1日](../Page/10月1日.md "wikilink")で終了。）
+  -   - [喜多村英梨の超ラジ\!](../Page/喜多村英梨の超ラジ!.md "wikilink")（その後、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（[平成](../Page/平成.md "wikilink")22年）[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")で終了。）
+      - [柿原徹也の超ラジ\!](../Page/柿原徹也の超ラジ!.md "wikilink")（その後[2007年](../Page/2007年.md "wikilink")（[平成](../Page/平成.md "wikilink")19年）[9月25日](../Page/9月25日.md "wikilink")で終了。）
+      - [飯塚雅弓の超ラジ\!](../Page/飯塚雅弓の超ラジ!.md "wikilink")（その後、[2009年](../Page/2009年.md "wikilink")（[平成](../Page/平成.md "wikilink")21年）[4月1日](../Page/4月1日.md "wikilink")で終了。）
+      - [鈴木久美子の超ラジ\!](../Page/鈴木久美子の超ラジ!.md "wikilink")（その後、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（[平成](../Page/平成.md "wikilink")20年）[4月3日](../Page/4月3日.md "wikilink")で終了。）
+      - [鷲崎健の超ラジ\!](../Page/鷲崎健の超ラジ!.md "wikilink")（その後、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（[平成](../Page/平成.md "wikilink")22年）[10月1日](../Page/10月1日.md "wikilink")で終了。）
 
 など。
 
-  - 文化放送制作アニラジ番組の[サイマルプログラム](https://ja.wikipedia.org/wiki/サイマル放送 "wikilink")
-      - [水樹奈々スマイルギャング](https://ja.wikipedia.org/wiki/水樹奈々スマイルギャング "wikilink")（[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")（[平成](../Page/平成.md "wikilink")19年）[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")～[8月](../Page/8月.md "wikilink")。その後[文化放送プラス](https://ja.wikipedia.org/wiki/文化放送プラス "wikilink")でのデジタルラジオ配信スタートまでは地上波のみで放送。）
-      - [堀江由衣の天使のたまご](../Page/堀江由衣の天使のたまご.md "wikilink")（[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")（[平成](../Page/平成.md "wikilink")19年）[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")～[8月](../Page/8月.md "wikilink")。その後文化放送プラスでのデジタルラジオ配信スタートまでは地上波のみで放送。）
+  - 文化放送制作アニラジ番組の[サイマルプログラム](../Page/サイマル放送.md "wikilink")
+      - [水樹奈々スマイルギャング](https://ja.wikipedia.org/wiki/水樹奈々スマイルギャング "wikilink")（[2007年](../Page/2007年.md "wikilink")（[平成](../Page/平成.md "wikilink")19年）[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")～[8月](../Page/8月.md "wikilink")。その後[文化放送プラス](https://ja.wikipedia.org/wiki/文化放送プラス "wikilink")でのデジタルラジオ配信スタートまでは地上波のみで放送。）
+      - [堀江由衣の天使のたまご](../Page/堀江由衣の天使のたまご.md "wikilink")（[2007年](../Page/2007年.md "wikilink")（[平成](../Page/平成.md "wikilink")19年）[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")～[8月](../Page/8月.md "wikilink")。その後文化放送プラスでのデジタルラジオ配信スタートまでは地上波のみで放送。）
 
 <!-- end list -->
 
@@ -76,8 +76,8 @@
       - [GOLD HITS REFRAIN](https://ja.wikipedia.org/wiki/GOLD_HITS_REFRAIN "wikilink")（[2009年](../Page/2009年.md "wikilink")（[平成](../Page/平成.md "wikilink")21年）[3月31日](../Page/3月31日.md "wikilink")まで火曜日18:00-19:00。リピート放送:[2009年](../Page/2009年.md "wikilink")（[平成](../Page/平成.md "wikilink")21年）[4月4日](../Page/4月4日.md "wikilink")までの土曜日25:00-26:00。）
       - [Soul, R＆B Cruise](https://ja.wikipedia.org/wiki/Soul,_R＆B_Cruise "wikilink") （[2009年](../Page/2009年.md "wikilink")（[平成](../Page/平成.md "wikilink")21年）[4月1日](../Page/4月1日.md "wikilink")までの水曜日18:00-19:00。リピート放送:[2009年](../Page/2009年.md "wikilink")（[平成](../Page/平成.md "wikilink")21年）[4月5日](../Page/4月5日.md "wikilink")までの日曜日06:00-07:00。）
       - [Goo Goo RADIO](https://ja.wikipedia.org/wiki/Goo_Goo_RADIO "wikilink")（[2009年](../Page/2009年.md "wikilink")（[平成](../Page/平成.md "wikilink")21年）[4月2日](../Page/4月2日.md "wikilink")までの木曜日18:00-19:00。リピート放送:[2009年](../Page/2009年.md "wikilink")（[平成](../Page/平成.md "wikilink")21年）[4月5日](../Page/4月5日.md "wikilink")までの日曜日23:00-24:00。）
-      - [Music Tavigation](https://ja.wikipedia.org/wiki/Music_Tavigation "wikilink")（[2009年](../Page/2009年.md "wikilink")（[平成](../Page/平成.md "wikilink")21年）[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")までの金曜日18:00-19:00。リピート放送:[2009年](../Page/2009年.md "wikilink")（[平成](../Page/平成.md "wikilink")21年）[4月5日](../Page/4月5日.md "wikilink")までの日曜日24:00-25:00。）
-      - [BEST HIT USA](https://ja.wikipedia.org/wiki/ベストヒットUSA "wikilink")（[2009年](../Page/2009年.md "wikilink")（[平成](../Page/平成.md "wikilink")21年）[4月4日](../Page/4月4日.md "wikilink")までの土曜日18:00-19:00。）
+      - [Music Tavigation](https://ja.wikipedia.org/wiki/Music_Tavigation "wikilink")（[2009年](../Page/2009年.md "wikilink")（[平成](../Page/平成.md "wikilink")21年）[4月3日](../Page/4月3日.md "wikilink")までの金曜日18:00-19:00。リピート放送:[2009年](../Page/2009年.md "wikilink")（[平成](../Page/平成.md "wikilink")21年）[4月5日](../Page/4月5日.md "wikilink")までの日曜日24:00-25:00。）
+      - [BEST HIT USA](../Page/ベストヒットUSA.md "wikilink")（[2009年](../Page/2009年.md "wikilink")（[平成](../Page/平成.md "wikilink")21年）[4月4日](../Page/4月4日.md "wikilink")までの土曜日18:00-19:00。）
 
 <!-- end list -->
 
@@ -86,7 +86,7 @@
 
 ## 関連項目
 
-  - [文化放送](https://ja.wikipedia.org/wiki/文化放送 "wikilink")
+  - [文化放送](../Page/文化放送.md "wikilink")
   - [NACK5](../Page/エフエムナックファイブ.md "wikilink")
   - [超\!A\&G+](https://ja.wikipedia.org/wiki/超!A&G+ "wikilink")
 

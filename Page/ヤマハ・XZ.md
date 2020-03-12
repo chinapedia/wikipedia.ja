@@ -1,7 +1,7 @@
 > この記事は[XZ](https://ja.wikipedia.org/wiki/XZ)から翻訳されています。
 
 
-**ヤマハ・XZ**（エックスゼット）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[オートバイメーカー](https://ja.wikipedia.org/wiki/オートバイメーカー "wikilink")である[ヤマハ発動機](https://ja.wikipedia.org/wiki/ヤマハ発動機 "wikilink")がかつて製造販売していた[オートバイ](../Page/オートバイ.md "wikilink")である。
+**ヤマハ・XZ**（エックスゼット）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[オートバイメーカー](https://ja.wikipedia.org/wiki/オートバイメーカー "wikilink")である[ヤマハ発動機](../Page/ヤマハ発動機.md "wikilink")がかつて製造販売していた[オートバイ](../Page/オートバイ.md "wikilink")である。
 
 ## 概要
 
@@ -11,7 +11,7 @@
 
 1983年2月には、エンジン形式を変更したフェアリングモデルXZ550Dが、国内で発売された。
 
-モデルとしては[ロードスポーツ](https://ja.wikipedia.org/wiki/ネイキッド_\(オートバイ\) "wikilink")（1980年代当時の呼称では[ヨーロピアンタイプ](https://ja.wikipedia.org/wiki/オートバイの種類#オンロードモデル "wikilink")）に分類される\[1\]。駆動方式は[シャフトドライブ](https://ja.wikipedia.org/wiki/シャフトドライブ "wikilink")を採用。安定性に優れ、長距離ツーリングに向いている。搭載される[エンジンはYICS](https://ja.wikipedia.org/wiki/オートバイ用エンジン "wikilink")（ヤマハインダクションコントロールシステム）を採用した[水冷](https://ja.wikipedia.org/wiki/水冷エンジン "wikilink")[DOHC](../Page/DOHC.md "wikilink")[V型2気筒](https://ja.wikipedia.org/wiki/V型2気筒 "wikilink")。500ccモデルと400ccモデルで同じ車体を使用しているため、当時の400ccクラスとしては大柄な車格をしている。
+モデルとしては[ロードスポーツ](../Page/ネイキッド_\(オートバイ\).md "wikilink")（1980年代当時の呼称では[ヨーロピアンタイプ](https://ja.wikipedia.org/wiki/オートバイの種類#オンロードモデル "wikilink")）に分類される\[1\]。駆動方式は[シャフトドライブ](../Page/シャフトドライブ.md "wikilink")を採用。安定性に優れ、長距離ツーリングに向いている。搭載される[エンジンはYICS](https://ja.wikipedia.org/wiki/オートバイ用エンジン "wikilink")（ヤマハインダクションコントロールシステム）を採用した[水冷](../Page/水冷エンジン.md "wikilink")[DOHC](../Page/DOHC.md "wikilink")[V型2気筒](../Page/V型2気筒.md "wikilink")。500ccモデルと400ccモデルで同じ車体を使用しているため、当時の400ccクラスとしては大柄な車格をしている。
 
 ## 脚注
 

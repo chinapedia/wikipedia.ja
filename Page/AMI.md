@@ -6,7 +6,7 @@
 **企業**
 
   - [アメリカンメガトレンド](https://ja.wikipedia.org/wiki/American_Megatrends "wikilink") (American Megatrends Incorporate) - パソコンの[BIOSなど各種ソフトウェア開発を行う企業](https://ja.wikipedia.org/wiki/Basic_Input/Output_System "wikilink")。
-  - 株式会社[エイエムアイ](https://ja.wikipedia.org/wiki/エイエムアイ "wikilink") (Amusement Marketing International) - [アーケードゲーム](../Page/アーケードゲーム.md "wikilink")関連製品の販売業者。
+  - 株式会社[エイエムアイ](../Page/エイエムアイ.md "wikilink") (Amusement Marketing International) - [アーケードゲーム](../Page/アーケードゲーム.md "wikilink")関連製品の販売業者。
   - [オーストラリアン・モーター・インダストリーズ](https://ja.wikipedia.org/wiki/オーストラリアン・モーター・インダストリーズ "wikilink") (Australian Motor Industries) - オーストラリアに存在した自動車組み立て会社。
 
 **組織、団体等**
@@ -21,10 +21,10 @@
 
   - [鈴木亜美](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink") (Ami Suzuki) - 日本の女性アーチスト。
   - [Ami (AV女優)](https://ja.wikipedia.org/wiki/Ami_\(AV女優\) "wikilink") - 日本のAV女優。
-  - [Dream Ami](https://ja.wikipedia.org/wiki/Dream_Ami "wikilink") - 女性ボーカル&ダンスグループ「[Dream](../Page/Dream_\(音楽ユニット\).md "wikilink")」および「[E-girls](https://ja.wikipedia.org/wiki/E-girls "wikilink")」の元メンバー
+  - [Dream Ami](../Page/Dream_Ami.md "wikilink") - 女性ボーカル&ダンスグループ「[Dream](../Page/Dream_\(音楽ユニット\).md "wikilink")」および「[E-girls](https://ja.wikipedia.org/wiki/E-girls "wikilink")」の元メンバー
   - [Ami (アイドルグループ)](https://ja.wikipedia.org/wiki/Ami_\(アイドルグループ\) "wikilink") - 小谷みさこ、吉田美花葉、三宅えみの3人によるアイドルグループ。
   - [AMIAYA](https://ja.wikipedia.org/wiki/AMIAYA "wikilink") - 日本の双子の姉(AMI)、妹(AYA)による女性ユニット。歌手、モデル
-  - AMI - 解散した日本の[ガールズバンド](https://ja.wikipedia.org/wiki/ガールズバンド "wikilink")「[Chelsy](https://ja.wikipedia.org/wiki/Chelsy "wikilink")」の一員。解散後はソロプロジェクト「[TENDERLAMP](https://ja.wikipedia.org/wiki/TENDERLAMP "wikilink")」のフロントマンとして活動。
+  - AMI - 解散した日本の[ガールズバンド](../Page/ガールズバンド.md "wikilink")「[Chelsy](https://ja.wikipedia.org/wiki/Chelsy "wikilink")」の一員。解散後はソロプロジェクト「[TENDERLAMP](https://ja.wikipedia.org/wiki/TENDERLAMP "wikilink")」のフロントマンとして活動。
 
 **各国語の単語**
 
@@ -37,6 +37,6 @@
   - [経絡臓器機能測定装置](https://ja.wikipedia.org/wiki/経絡臓器機能測定装置 "wikilink") (Apparatus for Measuring the function of the meridians and their corresponding Internal organs) - 東洋医学に基づき、日本で開発された。
   - [アークミニット・マイクロケルビン・イメージャー](https://ja.wikipedia.org/wiki/アークミニット・マイクロケルビン・イメージャー "wikilink")（Arcminute Microkelvin Imager）
   - [アミ族](https://ja.wikipedia.org/wiki/アミ族 "wikilink")
-  - [Ami (藤原さくらの曲)](https://ja.wikipedia.org/wiki/Ami_\(藤原さくらの曲\) "wikilink")
+  - [Ami (藤原さくらの曲)](../Page/Ami_\(藤原さくらの曲\).md "wikilink")
 
 [Category:日本語の個人名のローマ字表記](https://ja.wikipedia.org/wiki/Category:日本語の個人名のローマ字表記 "wikilink")

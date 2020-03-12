@@ -1,7 +1,7 @@
 > この記事は[60WATTS](https://ja.wikipedia.org/wiki/60WATTS)から翻訳されています。
 
 
-**東京60WATTS**（とうきょうろくじゅうワッツ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")グループ。 1999年ごろ、[立教大学](../Page/立教大学.md "wikilink")の音楽サークルで知り合った大川、杉浦、佃を中心に結成。 [2004年](../Page/2004年.md "wikilink")に「外は寒いから/ふわふわ」で[東芝EMIからメジャーデビュー](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")。
+**東京60WATTS**（とうきょうろくじゅうワッツ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")グループ。 1999年ごろ、[立教大学](../Page/立教大学.md "wikilink")の音楽サークルで知り合った大川、杉浦、佃を中心に結成。 [2004年](../Page/2004年.md "wikilink")に「外は寒いから/ふわふわ」で[東芝EMIからメジャーデビュー](../Page/EMIミュージック・ジャパン.md "wikilink")。
 
 2005年11月に[avexに移籍](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。自主レーベル『HIKARIMON RECORD』を立ち上げる。 2006年1月から放送されたアニメ『[プレイボール2nd](https://ja.wikipedia.org/wiki/プレイボール_\(漫画\)#アニメ "wikilink")』のOP、EDの楽曲を担う。 2006年発売のミニアルバム『clover』からは、avexと所属事務所[FIVE-D](https://ja.wikipedia.org/wiki/FIVE-D "wikilink")の共同レーベル『FIVE-D PLUS』所属。 派生ユニットにVo.大川とPf.杉浦の「たけお」がある。2009年に結成10周年を迎える。2010年9月無期限活動休止を発表。 2015年5月13日に5年ぶりのオリジナルフルアルバム「サヨナラトーキョー」をリリースを皮切りに、大川たけし(Vo/Gt)、杉浦琢雄(Pf/Vo)、森利昭(Dr)の3人で活動再開。
 
@@ -381,18 +381,18 @@ Gt.佃太郎(脱退) Ba.大山敦史(脱退)
 | ------------- | --------------------------------------------------------------------------------------------------------- |
 | チェリー          | 九州朝日放送『[前川清の笑顔まんてんタビ好キ](https://ja.wikipedia.org/wiki/前川清の笑顔まんてんタビ好キ "wikilink")』オープニングテーマ                |
 | clover        | TBS系テレビ『がっちりマンデー！』エンディングテーマ                                                                               |
-| サマータイムブルース    | アニメ『[プレイボール2nd](https://ja.wikipedia.org/wiki/プレイボール_\(漫画\) "wikilink")』エンディングテーマ                         |
+| サマータイムブルース    | アニメ『[プレイボール2nd](../Page/プレイボール_\(漫画\).md "wikilink")』エンディングテーマ                                            |
 | たまにはこんなラブ・ソング | NTV系『[音燃え\!](../Page/音燃え!.md "wikilink")』5月度オープニングテーマ                                                     |
 | 夕映えのシーン       | テレビ東京系『[たけしのニッポンのミカタ\!](https://ja.wikipedia.org/wiki/たけしのニッポンのミカタ! "wikilink")』2010年5月度1月 - 3月期エンディングテーマ |
 
 ## ラジオ
 
-  - 東京60WHATTSのWhat's Up\! 〈[ぎふチャン](https://ja.wikipedia.org/wiki/岐阜放送ラジオ "wikilink")\~08年9月〉
+  - 東京60WHATTSのWhat's Up\! 〈[ぎふチャン](../Page/岐阜放送ラジオ.md "wikilink")\~08年9月〉
 
 ## 主なライブ
 
   - 2004年09月17日 - [RADIO BERRY](https://ja.wikipedia.org/wiki/RADIO_BERRY "wikilink") ベリテンライブ2004
-  - 2004年12月29日 - [COUNTDOWN JAPAN](https://ja.wikipedia.org/wiki/COUNTDOWN_JAPAN "wikilink") 04/05
+  - 2004年12月29日 - [COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 04/05
   - 2006年09月14日 - RADIO BERRY ベリテンライブ2006
   - 2007年09月06日 - Atomic Monster Festival Vol.2
   - 2007年10月20日 - PIANO Playin' the Night

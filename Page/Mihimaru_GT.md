@@ -1,21 +1,21 @@
 > この記事は[Mihimaru GT](https://ja.wikipedia.org/wiki/Mihimaru_GT)から翻訳されています。
 
 
-**mihimaru GT**（ミヒマル・ジーティー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男女2人組[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")。[2003年](../Page/2003年.md "wikilink")結成。所属[芸能事務所](../Page/芸能事務所.md "wikilink")は[エイベックス・マネジメント](https://ja.wikipedia.org/wiki/エイベックス・マネジメント "wikilink")。所属[レコード会社](https://ja.wikipedia.org/wiki/レコード会社 "wikilink")は[ユニバーサルミュージックで](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")、[レーベルは](../Page/レコードレーベル.md "wikilink")[ユニバーサルJ](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\)#レーベル "wikilink")。[略称は](../Page/略語.md "wikilink")「**ミヒマル**」。[2013年](../Page/2013年.md "wikilink")より無期限活動休止中。
+**mihimaru GT**（ミヒマル・ジーティー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男女2人組[音楽ユニット](../Page/音楽ユニット.md "wikilink")。[2003年](../Page/2003年.md "wikilink")結成。所属[芸能事務所](../Page/芸能事務所.md "wikilink")は[エイベックス・マネジメント](https://ja.wikipedia.org/wiki/エイベックス・マネジメント "wikilink")。所属[レコード会社](../Page/レコード会社.md "wikilink")は[ユニバーサルミュージックで](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")、[レーベルは](../Page/レコードレーベル.md "wikilink")[ユニバーサルJ](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\)#レーベル "wikilink")。[略称は](../Page/略語.md "wikilink")「**ミヒマル**」。[2013年](../Page/2013年.md "wikilink")より無期限活動休止中。
 
 ## メンバー
 
   - [hiroko](https://ja.wikipedia.org/wiki/hiroko "wikilink")（ヒロコ）
-    [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ラップ](../Page/ラップ.md "wikilink")、[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")[作曲](../Page/作曲.md "wikilink")担当
+    [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ラップ](../Page/ラップ.md "wikilink")、[作詞](../Page/作詞.md "wikilink")[作曲](../Page/作曲.md "wikilink")担当
 
 <!-- end list -->
 
   - [miyake](https://ja.wikipedia.org/wiki/miyake "wikilink")（ミヤケ）
-    ボーカル、ラップ、[プログラミング](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")、[ギター](../Page/ギター.md "wikilink")、作詞作曲[編曲](../Page/編曲.md "wikilink")担当
+    ボーカル、ラップ、[プログラミング](../Page/ミュージックシーケンサー.md "wikilink")、[ギター](../Page/ギター.md "wikilink")、作詞作曲[編曲](../Page/編曲.md "wikilink")担当
 
 ## 概要
 
-[ブラック・コンテンポラリー](https://ja.wikipedia.org/wiki/ブラック・コンテンポラリー "wikilink")のサウンドを基盤とし、ラップや[DJによるスクラッチといった](../Page/ディスクジョッキー.md "wikilink")[ヒップホップの要素を含んだ](https://ja.wikipedia.org/wiki/ヒップホップ・ミュージック "wikilink")[ポップ・ミュージック](https://ja.wikipedia.org/wiki/ポップ・ミュージック "wikilink")が特徴で、自らそれを**ヒップポップ**としてコンセプトに掲げている。
+[ブラック・コンテンポラリー](https://ja.wikipedia.org/wiki/ブラック・コンテンポラリー "wikilink")のサウンドを基盤とし、ラップや[DJによるスクラッチといった](../Page/ディスクジョッキー.md "wikilink")[ヒップホップの要素を含んだ](https://ja.wikipedia.org/wiki/ヒップホップ・ミュージック "wikilink")[ポップ・ミュージック](../Page/ポップ・ミュージック.md "wikilink")が特徴で、自らそれを**ヒップポップ**としてコンセプトに掲げている。
 
 正式表記は「mihimaru GT」で、"mihimaru"と"GT"の間にスペースが入る。クレジットが"mihimaruGT"であったり、CDのCMや帯には「ミヒマル GT（ミヒマルGT）」と表記される場合もある。
 
@@ -30,7 +30,7 @@
 <!-- end list -->
 
   - 幼い頃から[ボーカリスト](https://ja.wikipedia.org/wiki/ボーカリスト "wikilink")を目指していたhirokoと、数々の有名[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")へ楽曲提供をしていた[クリエーター](https://ja.wikipedia.org/wiki/クリエーター "wikilink")[miyake](https://ja.wikipedia.org/wiki/miyake "wikilink")が出会いmihimaru GTを結成。
-  - 「[気分上々↑↑](https://ja.wikipedia.org/wiki/気分上々↑↑ "wikilink")」が大ヒットするまで、鳴かず飛ばずが続く苦労を味わった。デビュー直後はストリートやライブハウスやクラブでライブを行う。小さなクラブでは演者がmihimaru GTとDJの3人に対し客が2人しかおらず、その客同士が顔を見合わせて気まずそうに帰っていったというエピソードも。曲の途中であったが中止せずクラブの[バーテンダー](https://ja.wikipedia.org/wiki/バーテンダー "wikilink")に対して演奏した\[1\]。
+  - 「[気分上々↑↑](../Page/気分上々↑↑.md "wikilink")」が大ヒットするまで、鳴かず飛ばずが続く苦労を味わった。デビュー直後はストリートやライブハウスやクラブでライブを行う。小さなクラブでは演者がmihimaru GTとDJの3人に対し客が2人しかおらず、その客同士が顔を見合わせて気まずそうに帰っていったというエピソードも。曲の途中であったが中止せずクラブの[バーテンダー](../Page/バーテンダー.md "wikilink")に対して演奏した\[1\]。
   - [7月30日](../Page/7月30日.md "wikilink") - シングル『[約束](../Page/約束_\(mihimaru_GTの曲\).md "wikilink")』でデビュー。
 
 <!-- end list -->
@@ -39,11 +39,11 @@
 
 <!-- end list -->
 
-  - [5月3日](https://ja.wikipedia.org/wiki/5月3日 "wikilink") - シングル『気分上々↑↑』が2人が出演したヘアカラーのCMソングに使われて大ヒット、[テレビ朝日](../Page/テレビ朝日.md "wikilink")の『[MUSIC STATION](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』に初出演。二人とも『気分上々↑↑』が売れるとは思わず、「もうこれでだめかな」と感じたという\[2\]。
-  - [11月17日](../Page/11月17日.md "wikilink") - [ベストヒット歌謡祭](https://ja.wikipedia.org/wiki/ベストヒット歌謡祭 "wikilink")2006でゴールドアーティスト賞を受賞。歌唱曲は「気分上々↑↑」。
-  - [12月16日](../Page/12月16日.md "wikilink") - 第39回[日本有線大賞](https://ja.wikipedia.org/wiki/日本有線大賞 "wikilink")有線音楽賞を受賞。歌唱曲は「気分上々↑↑」。
+  - [5月3日](../Page/5月3日.md "wikilink") - シングル『気分上々↑↑』が2人が出演したヘアカラーのCMソングに使われて大ヒット、[テレビ朝日](../Page/テレビ朝日.md "wikilink")の『[MUSIC STATION](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』に初出演。二人とも『気分上々↑↑』が売れるとは思わず、「もうこれでだめかな」と感じたという\[2\]。
+  - [11月17日](../Page/11月17日.md "wikilink") - [ベストヒット歌謡祭](../Page/ベストヒット歌謡祭.md "wikilink")2006でゴールドアーティスト賞を受賞。歌唱曲は「気分上々↑↑」。
+  - [12月16日](../Page/12月16日.md "wikilink") - 第39回[日本有線大賞](../Page/日本有線大賞.md "wikilink")有線音楽賞を受賞。歌唱曲は「気分上々↑↑」。
   - [12月30日](../Page/12月30日.md "wikilink") - 「気分上々↑↑」で[第48回日本レコード大賞](https://ja.wikipedia.org/wiki/第48回日本レコード大賞 "wikilink")金賞を受賞。
-  - [12月31日](../Page/12月31日.md "wikilink") - [第57回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第57回NHK紅白歌合戦 "wikilink")に初出場。「気分上々↑↑」で紅組トップバッターをつとめた。
+  - [12月31日](../Page/12月31日.md "wikilink") - [第57回NHK紅白歌合戦](../Page/第57回NHK紅白歌合戦.md "wikilink")に初出場。「気分上々↑↑」で紅組トップバッターをつとめた。
 
 <!-- end list -->
 
@@ -61,7 +61,7 @@
 <!-- end list -->
 
   - [11月24日](../Page/11月24日.md "wikilink") - 全国ツアー締めくくりに[日本武道館](../Page/日本武道館.md "wikilink")ライブ。
-  - ファイナルライブゲストで[柳沢慎吾](https://ja.wikipedia.org/wiki/柳沢慎吾 "wikilink")、[常田真太郎](https://ja.wikipedia.org/wiki/常田真太郎 "wikilink")（from [スキマスイッチ](https://ja.wikipedia.org/wiki/スキマスイッチ "wikilink")）、[SOFFet](https://ja.wikipedia.org/wiki/SOFFet "wikilink")、[古坂大魔王](../Page/古坂大魔王.md "wikilink") が出演。
+  - ファイナルライブゲストで[柳沢慎吾](../Page/柳沢慎吾.md "wikilink")、[常田真太郎](../Page/常田真太郎.md "wikilink")（from [スキマスイッチ](../Page/スキマスイッチ.md "wikilink")）、[SOFFet](../Page/SOFFet.md "wikilink")、[古坂大魔王](../Page/古坂大魔王.md "wikilink") が出演。
   - 12月30日 - 「[ギリギリHERO](../Page/ギリギリHERO.md "wikilink")」で[第50回日本レコード大賞](https://ja.wikipedia.org/wiki/第50回日本レコード大賞 "wikilink")優秀作品賞を受賞。
 
 <!-- end list -->
@@ -80,7 +80,7 @@
 
   - [3月20日](../Page/3月20日.md "wikilink") - 同年12月31日を以って無期限活動休止をすることを発表した\[3\]。
   - [4月13日](../Page/4月13日.md "wikilink") - [ももいろクローバーZ 春の一大事 2013 西武ドーム大会にゲスト出演](https://ja.wikipedia.org/wiki/ももいろクローバーZ_春の一大事_2013_西武ドーム大会 "wikilink")。
-  - [9月22日](../Page/9月22日.md "wikilink") - mihimaLIVE2013 10th Anniversary Live〜[渋谷公会堂](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")公演。これをラストライブとした\[4\]。
+  - [9月22日](../Page/9月22日.md "wikilink") - mihimaLIVE2013 10th Anniversary Live〜[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")公演。これをラストライブとした\[4\]。
   - 12月31日 - 無期限活動休止\[5\]。
 
 ## ディスコグラフィ
@@ -141,7 +141,7 @@
 </tr>
 <tr class="even">
 <td><p>5th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/4月6日.md" title="wikilink">4月6日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/4月6日.md" title="wikilink">4月6日</a></p></td>
 <td><p><strong><a href="../Page/ユルメのレイデ.md" title="wikilink">ユルメのレイデ</a></strong></p></td>
 <td><p>-</p></td>
 <td><p>UPCH-5301</p></td>
@@ -165,7 +165,7 @@
 </tr>
 <tr class="odd">
 <td><p>8th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/3月15日.md" title="wikilink">3月15日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/3月15日.md" title="wikilink">3月15日</a></p></td>
 <td><p><strong><a href="../Page/さよならのうた.md" title="wikilink">さよならのうた</a></strong></p></td>
 <td><p>-</p></td>
 <td><p>UPCH-5382</p></td>
@@ -173,8 +173,8 @@
 </tr>
 <tr class="even">
 <td><p>9th</p></td>
-<td><p>2006年<a href="https://ja.wikipedia.org/wiki/5月3日" title="wikilink">5月3日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/気分上々↑↑" title="wikilink">気分上々↑↑</a></strong></p></td>
+<td><p>2006年<a href="../Page/5月3日.md" title="wikilink">5月3日</a></p></td>
+<td><p><strong><a href="../Page/気分上々↑↑.md" title="wikilink">気分上々↑↑</a></strong></p></td>
 <td><p>UPCH-9235</p></td>
 <td><p>UPCH-5388</p></td>
 <td><p>7位</p></td>
@@ -182,7 +182,7 @@
 <tr class="odd">
 <td><p>10th</p></td>
 <td><p>2006年<a href="../Page/7月12日.md" title="wikilink">7月12日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ツヨクツヨク" title="wikilink">ツヨクツヨク</a></strong></p></td>
+<td><p><strong><a href="../Page/ツヨクツヨク.md" title="wikilink">ツヨクツヨク</a></strong></p></td>
 <td><p>-</p></td>
 <td><p>UPCH-5408</p></td>
 <td><p>19位</p></td>
@@ -248,7 +248,7 @@ UPCH-9283 (初回ドラ盤)</p></td>
 <tr class="odd">
 <td><p>18th</p></td>
 <td><p>2008年<a href="../Page/7月2日.md" title="wikilink">7月2日</a></p></td>
-<td><p><strong><a href="../Page/泣き夏.md" title="wikilink">泣き夏</a> (mihimaru GT with <a href="https://ja.wikipedia.org/wiki/SOFFet" title="wikilink">SOFFet</a>)</strong></p></td>
+<td><p><strong><a href="../Page/泣き夏.md" title="wikilink">泣き夏</a> (mihimaru GT with <a href="../Page/SOFFet.md" title="wikilink">SOFFet</a>)</strong></p></td>
 <td><p>UPCH-9431</p></td>
 <td><p>UPCH-5550</p></td>
 <td><p>7位</p></td>
@@ -348,9 +348,9 @@ UPCH-9652 (初回盤B)</p></td>
 
 ### 配信シングル
 
-| 発売日                                                                      | タイトル                                                                                        | 販売形態                                                                                                                                                                                                                           | 収録アルバム                                                                                          |
-| ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
-| [2012年](../Page/2012年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink") | **[SAY YES 〜102回目のプロポーズ〜](https://ja.wikipedia.org/wiki/SAY_YES_〜102回目のプロポーズ〜 "wikilink")** | [デジタル・ダウンロード](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink")（PC配信、[着うた](../Page/着うた.md "wikilink")、[着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink") RBT ([待ちうた](https://ja.wikipedia.org/wiki/待ちうた "wikilink"))） | [THE BEST of mihimaru GT 2](https://ja.wikipedia.org/wiki/THE_BEST_of_mihimaru_GT_2 "wikilink") |
+| 発売日                                                                      | タイトル                                                                                        | 販売形態                                                                                                                                                                                                        | 収録アルバム                                                                                          |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| [2012年](../Page/2012年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink") | **[SAY YES 〜102回目のプロポーズ〜](https://ja.wikipedia.org/wiki/SAY_YES_〜102回目のプロポーズ〜 "wikilink")** | [デジタル・ダウンロード](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink")（PC配信、[着うた](../Page/着うた.md "wikilink")、[着うたフル](../Page/着うたフル.md "wikilink") RBT ([待ちうた](https://ja.wikipedia.org/wiki/待ちうた "wikilink"))） | [THE BEST of mihimaru GT 2](https://ja.wikipedia.org/wiki/THE_BEST_of_mihimaru_GT_2 "wikilink") |
 
 ### アルバム
 
@@ -376,7 +376,7 @@ UPCH-9652 (初回盤B)</p></td>
 </tr>
 <tr class="even">
 <td><p>1st</p></td>
-<td><p>2004年<a href="https://ja.wikipedia.org/wiki/9月8日" title="wikilink">9月8日</a></p></td>
+<td><p>2004年<a href="../Page/9月8日.md" title="wikilink">9月8日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/mihimarhythm" title="wikilink">mihimarhythm</a></strong>[7]</p></td>
 <td><p>-</p></td>
 <td><p>UPCH-1364</p></td>
@@ -473,7 +473,7 @@ UPCH-9546(初回盤B)</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/1月25日.md" title="wikilink">1月25日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/1月25日.md" title="wikilink">1月25日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/mihimaclip" title="wikilink">mihimaclip</a></strong></p></td>
 <td><p>UPBH-1184</p></td>
 </tr>
@@ -574,8 +574,8 @@ UPCH-9546(初回盤B)</p></td>
 
 ### Blu-ray
 
-  - [mihimaLIVE3 〜University of mihimaru GT☆mihimalogy 実践講座\!\!アリーナSPECIAL〜](https://ja.wikipedia.org/wiki/mihimaLIVE3_〜University_of_mihimaru_GT☆mihimalogy_実践講座!!アリーナSPECIAL〜 "wikilink")（2010年[10月13日](https://ja.wikipedia.org/wiki/10月13日 "wikilink")）
-      - 2010年[7月3日](https://ja.wikipedia.org/wiki/7月3日 "wikilink")、アルバム「mihimalogy」を引っ提げ行われたツアーからmihimaru GT初の[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")で行ったライブの模様を収録。
+  - [mihimaLIVE3 〜University of mihimaru GT☆mihimalogy 実践講座\!\!アリーナSPECIAL〜](https://ja.wikipedia.org/wiki/mihimaLIVE3_〜University_of_mihimaru_GT☆mihimalogy_実践講座!!アリーナSPECIAL〜 "wikilink")（2010年[10月13日](../Page/10月13日.md "wikilink")）
+      - 2010年[7月3日](../Page/7月3日.md "wikilink")、アルバム「mihimalogy」を引っ提げ行われたツアーからmihimaru GT初の[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")で行ったライブの模様を収録。
       - mihimaLIVE 初のBlu-ray作品。
 
 ### アーティスト・ブック
@@ -609,7 +609,7 @@ UPCH-9546(初回盤B)</p></td>
 
   - [JUDY AND MARY 15th Anniversary Tribute Album](https://ja.wikipedia.org/wiki/JUDY_AND_MARY_15th_Anniversary_Tribute_Album "wikilink")（2009年3月18日）
       -
-        「[Over Drive](https://ja.wikipedia.org/wiki/Over_Drive_\(JUDY_AND_MARYの曲\) "wikilink")」で参加。
+        「[Over Drive](../Page/Over_Drive_\(JUDY_AND_MARYの曲\).md "wikilink")」で参加。
 
 ## タイアップ
 
@@ -617,39 +617,39 @@ UPCH-9546(初回盤B)</p></td>
 | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | **起用年**                                                                                                            | **曲名**                                                                                                                                                                 | **タイアップ**                                                                                                                                     |
 | 2003年                                                                                                              | 約束                                                                                                                                                                     | [TBS系](../Page/TBSテレビ.md "wikilink")『[大好き\!五つ子5](https://ja.wikipedia.org/wiki/大好き!五つ子5 "wikilink")』主題歌                                       |
-| 2004年                                                                                                              | 帰ろう歌                                                                                                                                                                   | TBS系『[CDTV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")』2004年4月度OPテーマ                                                             |
+| 2004年                                                                                                              | 帰ろう歌                                                                                                                                                                   | TBS系『[CDTV](../Page/COUNT_DOWN_TV.md "wikilink")』2004年4月度OPテーマ                                                                                |
 | 「クロップス・クルー」CMソング                                                                                                   |                                                                                                                                                                        |                                                                                                                                               |
 | [文化放送](../Page/文化放送.md "wikilink")『レコメン』EDテーマ                                                                      |                                                                                                                                                                        |                                                                                                                                               |
-| 願〜negai〜                                                                                                           | TBS系『[Pooh\!](https://ja.wikipedia.org/wiki/Pooh! "wikilink")』2004年7月度EDテーマ                                                                                            |                                                                                                                                               |
+| 願〜negai〜                                                                                                           | TBS系『[Pooh\!](../Page/Pooh!.md "wikilink")』2004年7月度EDテーマ                                                                                                               |                                                                                                                                               |
 | [JSPORTS](https://ja.wikipedia.org/wiki/JSPORTS "wikilink")『[フォーミュラ・ニッポン](../Page/フォーミュラ・ニッポン.md "wikilink")』EDテーマ |                                                                                                                                                                        |                                                                                                                                               |
 | 「クロップス・クルー」CMソング                                                                                                   |                                                                                                                                                                        |                                                                                                                                               |
 | H.P.S.J. -mihimaru Ball MIX-                                                                                       | [テレビ朝日](../Page/テレビ朝日.md "wikilink")系アニメ『[ボボボーボ・ボーボボ](../Page/ボボボーボ・ボーボボ.md "wikilink")』EDテーマ                                                                          |                                                                                                                                               |
 | 「フィットハウス」CMソング                                                                                                     |                                                                                                                                                                        |                                                                                                                                               |
-| 2005年                                                                                                              | ユルメのレイデ                                                                                                                                                                | [ダリヤ](https://ja.wikipedia.org/wiki/ダリヤ "wikilink")「パルティ」CMソング                                                                                |
+| 2005年                                                                                                              | ユルメのレイデ                                                                                                                                                                | [ダリヤ](../Page/ダリヤ.md "wikilink")「パルティ」CMソング                                                                                                   |
 | プライスレス                                                                                                             | [マーベラスインタラクティブ](https://ja.wikipedia.org/wiki/マーベラスインタラクティブ "wikilink")「\[\[学校をつくろう                                                                                    | _Happy_Days|学校をつくろう                                                                                                                         |
-| Love is...                                                                                                         | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[元祖\!でぶや](https://ja.wikipedia.org/wiki/元祖!でぶや "wikilink")』EDテーマ                                              |                                                                                                                                               |
+| Love is...                                                                                                         | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[元祖\!でぶや](../Page/元祖!でぶや.md "wikilink")』EDテーマ                                                                 |                                                                                                                                               |
 | Darlin'                                                                                                            | ダリヤ「パルティ」CMソング                                                                                                                                                         |                                                                                                                                               |
-| 恋する気持ち                                                                                                             | TBS系[日曜劇場](https://ja.wikipedia.org/wiki/日曜劇場 "wikilink")『[恋の時間](https://ja.wikipedia.org/wiki/恋の時間 "wikilink")』主題歌                                                    |                                                                                                                                               |
+| 恋する気持ち                                                                                                             | TBS系[日曜劇場](https://ja.wikipedia.org/wiki/日曜劇場 "wikilink")『[恋の時間](../Page/恋の時間.md "wikilink")』主題歌                                                                       |                                                                                                                                               |
 | YES                                                                                                                | 結婚式場「マリエール」CMソング                                                                                                                                                       |                                                                                                                                               |
 | 2006年                                                                                                              | さよならのうた                                                                                                                                                                | [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[くりぃむしちゅーのたりらリラ～ン](https://ja.wikipedia.org/wiki/くりぃむしちゅーのたりらリラ～ン "wikilink")』3月度EDテーマ               |
-| Life Gauge                                                                                                         | [テレビ愛知](../Page/テレビ愛知.md "wikilink")制作・テレビ東京系『[ワンワンセレプー それゆけ\!徹之進](https://ja.wikipedia.org/wiki/ワンワンセレプー_それゆけ!徹之進 "wikilink")』EDテーマ                                   |                                                                                                                                               |
+| Life Gauge                                                                                                         | [テレビ愛知](../Page/テレビ愛知.md "wikilink")制作・テレビ東京系『[ワンワンセレプー それゆけ\!徹之進](../Page/ワンワンセレプー_それゆけ!徹之進.md "wikilink")』EDテーマ                                                      |                                                                                                                                               |
 | Hurry & Dive                                                                                                       | [コジマ](../Page/コジマ.md "wikilink")「フレッシュグレー」CMソング                                                                                                                        |                                                                                                                                               |
 | 気分上々↑↑                                                                                                             | ダリヤ「パルティ」CMソング                                                                                                                                                         |                                                                                                                                               |
-| [エムティーアイ](https://ja.wikipedia.org/wiki/エムティーアイ "wikilink")「music.jp」CMソング                                         |                                                                                                                                                                        |                                                                                                                                               |
-| テレビ東京系『[スキバラ](https://ja.wikipedia.org/wiki/スキバラ "wikilink")』5月度EDテーマ                                              |                                                                                                                                                                        |                                                                                                                                               |
-| ツヨクツヨク                                                                                                             | [朝日放送](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")・テレビ朝日系アニメ『[ガラスの艦隊](https://ja.wikipedia.org/wiki/ガラスの艦隊 "wikilink")』OPテーマ                                      |                                                                                                                                               |
-| [マルハン](https://ja.wikipedia.org/wiki/マルハン "wikilink")企業CMソング                                                       |                                                                                                                                                                        |                                                                                                                                               |
-| いつまでも響くこのmelody                                                                                                    | テレビ東京系[ドラマ24](https://ja.wikipedia.org/wiki/ドラマ24 "wikilink")『[怨み屋本舗](https://ja.wikipedia.org/wiki/怨み屋本舗_\(テレビドラマ\) "wikilink")』OP主題歌                                 |                                                                                                                                               |
+| [エムティーアイ](../Page/エムティーアイ.md "wikilink")「music.jp」CMソング                                                            |                                                                                                                                                                        |                                                                                                                                               |
+| テレビ東京系『[スキバラ](../Page/スキバラ.md "wikilink")』5月度EDテーマ                                                                 |                                                                                                                                                                        |                                                                                                                                               |
+| ツヨクツヨク                                                                                                             | [朝日放送](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")・テレビ朝日系アニメ『[ガラスの艦隊](../Page/ガラスの艦隊.md "wikilink")』OPテーマ                                                         |                                                                                                                                               |
+| [マルハン](../Page/マルハン.md "wikilink")企業CMソング                                                                          |                                                                                                                                                                        |                                                                                                                                               |
+| いつまでも響くこのmelody                                                                                                    | テレビ東京系[ドラマ24](../Page/ドラマ24.md "wikilink")『[怨み屋本舗](https://ja.wikipedia.org/wiki/怨み屋本舗_\(テレビドラマ\) "wikilink")』OP主題歌                                                    |                                                                                                                                               |
 | マジカルスピーカー                                                                                                          | ダリヤ「パルティ '06夏篇」CMソング                                                                                                                                                   |                                                                                                                                               |
 | エムティーアイ「music.jp」CMソング                                                                                             |                                                                                                                                                                        |                                                                                                                                               |
 | 楽園                                                                                                                 | [九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")「水と緑のキャンペーン」テーマ曲                                                                                              |                                                                                                                                               |
-| So Merry Christmas -TAKE06-                                                                                        | [三貴](https://ja.wikipedia.org/wiki/三貴 "wikilink")「カメリアダイヤモンド」CMソング                                                                                                     |                                                                                                                                               |
-| 2007年                                                                                                              | かけがえのない詩                                                                                                                                                               | [東宝](../Page/東宝.md "wikilink")配給アニメ映画『[ドラえもん のび太の新魔界大冒険 〜7人の魔法使い〜](https://ja.wikipedia.org/wiki/ドラえもん_のび太の新魔界大冒険_〜7人の魔法使い〜 "wikilink")』主題歌   |
+| So Merry Christmas -TAKE06-                                                                                        | [三貴](../Page/三貴.md "wikilink")「カメリアダイヤモンド」CMソング                                                                                                                        |                                                                                                                                               |
+| 2007年                                                                                                              | かけがえのない詩                                                                                                                                                               | [東宝](../Page/東宝.md "wikilink")配給アニメ映画『[ドラえもん のび太の新魔界大冒険 〜7人の魔法使い〜](../Page/ドラえもん_のび太の新魔界大冒険_〜7人の魔法使い〜.md "wikilink")』主題歌                      |
 | [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[天才\!志村どうぶつ園](../Page/天才!志村どうぶつ園.md "wikilink")』EDテーマ                     |                                                                                                                                                                        |                                                                                                                                               |
 | パンキッシュ☆                                                                                                            | ダリヤ「パルティ '07春篇」CMソング                                                                                                                                                   |                                                                                                                                               |
 | エムティーアイ「music.jp」CMソング                                                                                             |                                                                                                                                                                        |                                                                                                                                               |
 | 俄然Yeah\!                                                                                                           | ダリヤ「パルティ '07夏篇」CMソング                                                                                                                                                   |                                                                                                                                               |
-| 日本テレビ系『[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")』8月度OPテーマ                  |                                                                                                                                                                        |                                                                                                                                               |
+| 日本テレビ系『[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")』8月度OPテーマ                                     |                                                                                                                                                                        |                                                                                                                                               |
 | エムティーアイ「music.jp」CMソング                                                                                             |                                                                                                                                                                        |                                                                                                                                               |
 | 日本テレビ系『\[\[スッキリ                                                                                                    | |スッキリ                                                                                                                                                                  | \]\]』8月EDテーマ                                                                                                                                  |
 | ビバケーション                                                                                                            | [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[めざまし土曜日](../Page/めざましどようび.md "wikilink")』テーマ曲                                                             |                                                                                                                                               |
@@ -669,7 +669,7 @@ UPCH-9546(初回盤B)</p></td>
 | Amethyst                                                                                                           | [ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")ゲームソフト「[サモンナイトX 〜Tears Crown〜](https://ja.wikipedia.org/wiki/サモンナイトX_〜Tears_Crown〜 "wikilink")」主題歌                           |                                                                                                                                               |
 | 2010年                                                                                                              | Love Letter                                                                                                                                                            | [SDP](https://ja.wikipedia.org/wiki/スターダストピクチャーズ "wikilink")/[ショウゲート](https://ja.wikipedia.org/wiki/ショウゲート "wikilink")配給映画『猿ロック THE MOVIE』主題歌 |
 | アンビリーバボー                                                                                                           | 日本テレビ系『[江川×堀尾のSUPERうるぐす](https://ja.wikipedia.org/wiki/江川×堀尾のSUPERうるぐす "wikilink")』2-3月テーマソング                                                                          |                                                                                                                                               |
-| [花王](../Page/花王.md "wikilink") [ロリエ](https://ja.wikipedia.org/wiki/ロリエ "wikilink") 『Superスリムガード』CMソング              |                                                                                                                                                                        |                                                                                                                                               |
+| [花王](../Page/花王.md "wikilink") [ロリエ](../Page/ロリエ.md "wikilink") 『Superスリムガード』CMソング                                 |                                                                                                                                                                        |                                                                                                                                               |
 | 道しるべ                                                                                                               | SDP/ショウゲート配給映画『猿ロック THE MOVIE』エンディングテーマ                                                                                                                                |                                                                                                                                               |
 | オメデトウ                                                                                                              | 東宝配給アニメ映画『[クレヨンしんちゃん 超時空\!嵐を呼ぶオラの花嫁](https://ja.wikipedia.org/wiki/クレヨンしんちゃん_超時空!嵐を呼ぶオラの花嫁 "wikilink")』主題歌                                                             |                                                                                                                                               |
 | テレビ朝日系『[お願い\!ランキング](https://ja.wikipedia.org/wiki/お願い!ランキング "wikilink")』3月度エンディングテーマ                               |                                                                                                                                                                        |                                                                                                                                               |
@@ -685,19 +685,19 @@ UPCH-9546(初回盤B)</p></td>
 | ウィガリスター                                                                                                            | [AOKI](../Page/AOKIホールディングス.md "wikilink") フレッシャーズ CMソング                                                                                                               |                                                                                                                                               |
 | Promise                                                                                                            | [NHK BSプレミアムテレビドラマ](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink") 『[POWER GAME〜パワーゲーム〜](https://ja.wikipedia.org/wiki/POWER_GAME〜パワーゲーム〜 "wikilink")』エンディングテーマ |                                                                                                                                               |
 
-なお、『[ドラえもん](https://ja.wikipedia.org/wiki/ドラえもん "wikilink")（[テレビアニメ第2作第2期](https://ja.wikipedia.org/wiki/ドラえもん_\(2005年のテレビアニメ\) "wikilink")）』と『[クレヨンしんちゃん](https://ja.wikipedia.org/wiki/クレヨンしんちゃん_\(アニメ\) "wikilink")』の主題歌を両方歌ったアーティストは[2016年](../Page/2016年.md "wikilink")現在のところ彼らだけである（作曲者を含めると[中田ヤスタカ](https://ja.wikipedia.org/wiki/中田ヤスタカ "wikilink")が後に担当することとなった。また、[テレビアニメ第2作第1期で主題歌を担当した](https://ja.wikipedia.org/wiki/ドラえもん_\(1979年のテレビアニメ\) "wikilink")[ゆずが](https://ja.wikipedia.org/wiki/ゆず_\(音楽グループ\) "wikilink")[2015年](../Page/2015年.md "wikilink")に『クレヨンしんちゃん』の映画主題歌を担当している）。
+なお、『[ドラえもん](https://ja.wikipedia.org/wiki/ドラえもん "wikilink")（[テレビアニメ第2作第2期](https://ja.wikipedia.org/wiki/ドラえもん_\(2005年のテレビアニメ\) "wikilink")）』と『[クレヨンしんちゃん](https://ja.wikipedia.org/wiki/クレヨンしんちゃん_\(アニメ\) "wikilink")』の主題歌を両方歌ったアーティストは[2016年](../Page/2016年.md "wikilink")現在のところ彼らだけである（作曲者を含めると[中田ヤスタカ](https://ja.wikipedia.org/wiki/中田ヤスタカ "wikilink")が後に担当することとなった。また、[テレビアニメ第2作第1期で主題歌を担当した](../Page/ドラえもん_\(1979年のテレビアニメ\).md "wikilink")[ゆずが](https://ja.wikipedia.org/wiki/ゆず_\(音楽グループ\) "wikilink")[2015年](../Page/2015年.md "wikilink")に『クレヨンしんちゃん』の映画主題歌を担当している）。
 
 ## 出演
 
 ### ラジオ番組
 
-  - [シェケラバンバン](https://ja.wikipedia.org/wiki/シェケラバンバン "wikilink")（[FMヨコハマ](https://ja.wikipedia.org/wiki/横浜エフエム放送 "wikilink")/MIDNIGHT DJ SESSION/毎週木曜日/2006年3月終了）
+  - [シェケラバンバン](https://ja.wikipedia.org/wiki/シェケラバンバン "wikilink")（[FMヨコハマ](../Page/横浜エフエム放送.md "wikilink")/MIDNIGHT DJ SESSION/毎週木曜日/2006年3月終了）
   - [mihimaru GTのラジマルGT](https://ja.wikipedia.org/wiki/mihimaru_GTのラジマルGT "wikilink")（[JFN系列](../Page/全国FM放送協議会.md "wikilink")/2007年4月-2011年9月）
   - [オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")（[ニッポン放送](../Page/ニッポン放送.md "wikilink")系、CMアイキャッチを担当・2008年4月30日にパーソナリティを担当）
 
 ### CM
 
-  - [ダリヤ](https://ja.wikipedia.org/wiki/ダリヤ "wikilink")「パルティ」/2人で出演（2006年-2008年）
+  - [ダリヤ](../Page/ダリヤ.md "wikilink")「パルティ」/2人で出演（2006年-2008年）
 
 <!-- end list -->
 
@@ -705,12 +705,12 @@ UPCH-9546(初回盤B)</p></td>
 
 ### NHK紅白歌合戦
 
-  - [第57回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第57回NHK紅白歌合戦 "wikilink")「気分上々↑↑」
+  - [第57回NHK紅白歌合戦](../Page/第57回NHK紅白歌合戦.md "wikilink")「気分上々↑↑」
   - [第58回NHK紅白歌合戦](../Page/第58回NHK紅白歌合戦.md "wikilink")「俄然Yeah\!」
 
 ### 映画
 
-  - [ドラえもん のび太の新魔界大冒険 〜7人の魔法使い〜](https://ja.wikipedia.org/wiki/ドラえもん_のび太の新魔界大冒険_〜7人の魔法使い〜 "wikilink")（2007年） - hiroko：女の子、miyake：郵便配達員 役（声優として）
+  - [ドラえもん のび太の新魔界大冒険 〜7人の魔法使い〜](../Page/ドラえもん_のび太の新魔界大冒険_〜7人の魔法使い〜.md "wikilink")（2007年） - hiroko：女の子、miyake：郵便配達員 役（声優として）
 
 ## 脚注
 

@@ -1,7 +1,7 @@
 > この記事は[HINOKIO](https://ja.wikipedia.org/wiki/HINOKIO)から翻訳されています。
 
 
-『**HINOKIO**』（**ヒノキオ**）は、[2005年公開の](https://ja.wikipedia.org/wiki/2005年の映画 "wikilink")[日本映画](../Page/日本映画.md "wikilink")。
+『**HINOKIO**』（**ヒノキオ**）は、[2005年公開の](../Page/2005年の映画.md "wikilink")[日本映画](../Page/日本映画.md "wikilink")。
 
 [ロボット](../Page/ロボット.md "wikilink")が中心となる映画ということで、[CGがふんだんに使われている作品である](../Page/コンピュータグラフィックス.md "wikilink")。
 
@@ -57,12 +57,12 @@
 
 ## キャスト
 
-  - 岩本サトル：[本郷奏多](https://ja.wikipedia.org/wiki/本郷奏多 "wikilink")
+  - 岩本サトル：[本郷奏多](../Page/本郷奏多.md "wikilink")
   - 工藤ジュン：[多部未華子](https://ja.wikipedia.org/wiki/多部未華子 "wikilink")
   - 岩本薫：[中村雅俊](https://ja.wikipedia.org/wiki/中村雅俊 "wikilink")
-  - 細野丈一：[村上雄太](https://ja.wikipedia.org/wiki/村上雄太 "wikilink")
+  - 細野丈一：[村上雄太](../Page/村上雄太.md "wikilink")
   - 平井健太：[加藤諒](../Page/加藤諒.md "wikilink")
-  - 高坂スミレ：[小林涼子](https://ja.wikipedia.org/wiki/小林涼子 "wikilink")
+  - 高坂スミレ：[小林涼子](../Page/小林涼子.md "wikilink")
   - 昭島江里子：[堀北真希](https://ja.wikipedia.org/wiki/堀北真希 "wikilink")
   - 風吹夏子：[原沙知絵](https://ja.wikipedia.org/wiki/原沙知絵 "wikilink")
   - 坂上ユウキ：[牧瀬里穂](https://ja.wikipedia.org/wiki/牧瀬里穂 "wikilink")
@@ -73,12 +73,12 @@
 
   - 監督：[秋山貴彦](https://ja.wikipedia.org/wiki/秋山貴彦 "wikilink")（オーバーロードピクチャーズ）
   - 原案：[秋山貴彦](https://ja.wikipedia.org/wiki/秋山貴彦 "wikilink")
-  - 脚本：[秋山貴彦](https://ja.wikipedia.org/wiki/秋山貴彦 "wikilink")、[米村正二](https://ja.wikipedia.org/wiki/米村正二 "wikilink")、[末谷真澄](https://ja.wikipedia.org/wiki/末谷真澄 "wikilink")
+  - 脚本：[秋山貴彦](https://ja.wikipedia.org/wiki/秋山貴彦 "wikilink")、[米村正二](../Page/米村正二.md "wikilink")、[末谷真澄](https://ja.wikipedia.org/wiki/末谷真澄 "wikilink")
   - プロデューサー：牛山拓二（ムービーアイ）、上原英和、隠田雅浩
   - 美術：[池谷仙克](https://ja.wikipedia.org/wiki/池谷仙克 "wikilink")、[岡野正広](https://ja.wikipedia.org/wiki/岡野正広 "wikilink")（特殊造形担当）
   - 音楽：[千住明](../Page/千住明.md "wikilink")
   - 主題歌：[YUI](https://ja.wikipedia.org/wiki/YUI_\(歌手\) "wikilink")『[Tomorrow's way](../Page/Tomorrow's_way.md "wikilink")』
-  - 製作：[松竹](../Page/松竹.md "wikilink")、[イマージュ](../Page/イマージュ_\(画像処理企業\).md "wikilink")、[ムービーアイ・エンタテインメント](https://ja.wikipedia.org/wiki/ムービーアイ・エンタテインメント "wikilink")、[H・パートナーズ](https://ja.wikipedia.org/wiki/H・パートナーズ "wikilink")、[東京電力](https://ja.wikipedia.org/wiki/東京電力 "wikilink")、[レントラックジャパン](https://ja.wikipedia.org/wiki/レントラックジャパン "wikilink")、[タカラトミー](https://ja.wikipedia.org/wiki/タカラトミー "wikilink")、[関西テレビ放送](../Page/関西テレビ放送.md "wikilink")、[衛星劇場](https://ja.wikipedia.org/wiki/松竹ブロードキャスティング "wikilink")、[I\&S BBDO](https://ja.wikipedia.org/wiki/I&S_BBDO "wikilink")
+  - 製作：[松竹](../Page/松竹.md "wikilink")、[イマージュ](../Page/イマージュ_\(画像処理企業\).md "wikilink")、[ムービーアイ・エンタテインメント](https://ja.wikipedia.org/wiki/ムービーアイ・エンタテインメント "wikilink")、[H・パートナーズ](https://ja.wikipedia.org/wiki/H・パートナーズ "wikilink")、[東京電力](https://ja.wikipedia.org/wiki/東京電力 "wikilink")、[レントラックジャパン](../Page/レントラックジャパン.md "wikilink")、[タカラトミー](../Page/タカラトミー.md "wikilink")、[関西テレビ放送](../Page/関西テレビ放送.md "wikilink")、[衛星劇場](../Page/松竹ブロードキャスティング.md "wikilink")、[I\&S BBDO](../Page/I&S_BBDO.md "wikilink")
   - 配給：[松竹](../Page/松竹.md "wikilink")
 
 ## 脚注

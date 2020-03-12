@@ -1,11 +1,11 @@
 > この記事は[VOODOO-MURDERS](https://ja.wikipedia.org/wiki/VOODOO-MURDERS)から翻訳されています。
 
 
-**VOODOO-MURDERS**（ブードゥー-マーダーズ）は、[全日本プロレス](../Page/全日本プロレス.md "wikilink")を舞台として活動していた[ヒール](https://ja.wikipedia.org/wiki/ヒール_\(プロレス\) "wikilink")・[プロレスラー](../Page/プロレスラー.md "wikilink")の[ユニット](https://ja.wikipedia.org/wiki/ユニット "wikilink")。略称は**ブードゥー**、略表記は**VM**（以下、本文中で同ユニットをVMとも表記）。
+**VOODOO-MURDERS**（ブードゥー-マーダーズ）は、[全日本プロレス](../Page/全日本プロレス.md "wikilink")を舞台として活動していた[ヒール](../Page/ヒール_\(プロレス\).md "wikilink")・[プロレスラー](../Page/プロレスラー.md "wikilink")の[ユニット](../Page/ユニット.md "wikilink")。略称は**ブードゥー**、略表記は**VM**（以下、本文中で同ユニットをVMとも表記）。
 
-2011年6月、リーダーの[TARU](../Page/TARU.md "wikilink")によるメンバーの[スーパー・ヘイトに対する暴行傷害を受け](https://ja.wikipedia.org/wiki/平井伸和 "wikilink")、全日本プロレスにより強制解散となった。
+2011年6月、リーダーの[TARU](../Page/TARU.md "wikilink")によるメンバーの[スーパー・ヘイトに対する暴行傷害を受け](../Page/平井伸和.md "wikilink")、全日本プロレスにより強制解散となった。
 
-2012年12月、元メンバーである["brother"YASSHI](https://ja.wikipedia.org/wiki/"brother"YASSHI "wikilink")が自身のレスラー復帰に伴いグループの活動再開を発表した。
+2012年12月、元メンバーである["brother"YASSHI](../Page/"brother"YASSHI.md "wikilink")が自身のレスラー復帰に伴いグループの活動再開を発表した。
 
 なお、前者を**第1期**、後者を**第2期**として説明する。
 
@@ -15,27 +15,27 @@
 
 #### 結成の経緯・初期
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に[ジョニー・スタンボリーとTARUが共闘した事により結成された](../Page/ジョン・ハガー.md "wikilink")。スタンボリーは、前年末の[世界最強タッグ決定リーグ戦](https://ja.wikipedia.org/wiki/世界最強タッグ決定リーグ戦 "wikilink")に[ラブ・マシンズ](https://ja.wikipedia.org/wiki/ラブ・マシンズ "wikilink")の秘密兵器「[GREAT MUTA](https://ja.wikipedia.org/wiki/GREAT_MUTA "wikilink")」として参戦したが、ラブ・マシンズから戦力外通告を受け、孤立していた。一方、TARUは前年に大型選手との対戦を求めて[DRAGON GATEを退団し](https://ja.wikipedia.org/wiki/DRAGON_GATE "wikilink")、打倒・[武藤敬司](https://ja.wikipedia.org/wiki/武藤敬司 "wikilink")を掲げて[フリーランス](../Page/フリーランス.md "wikilink")として全日本プロレスに参戦していた。反・全日本プロレスという共通目的があった事で共闘関係が成立した。翌2月には、元[WWE](../Page/WWE.md "wikilink")の[チャック・パルンボ](../Page/チャック・パルンボ.md "wikilink")が加入、チーム名も「ブードゥー・マーダーズ（VOODOO-MURDERS）」と発表された。3月には元WWEの[ジャイアント・バーナード](https://ja.wikipedia.org/wiki/ジャイアント・バーナード "wikilink")が加入し勢力が増した。
+[2005年](../Page/2005年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に[ジョニー・スタンボリーとTARUが共闘した事により結成された](../Page/ジョン・ハガー.md "wikilink")。スタンボリーは、前年末の[世界最強タッグ決定リーグ戦](../Page/世界最強タッグ決定リーグ戦.md "wikilink")に[ラブ・マシンズ](https://ja.wikipedia.org/wiki/ラブ・マシンズ "wikilink")の秘密兵器「[GREAT MUTA](https://ja.wikipedia.org/wiki/GREAT_MUTA "wikilink")」として参戦したが、ラブ・マシンズから戦力外通告を受け、孤立していた。一方、TARUは前年に大型選手との対戦を求めて[DRAGON GATEを退団し](https://ja.wikipedia.org/wiki/DRAGON_GATE "wikilink")、打倒・[武藤敬司](https://ja.wikipedia.org/wiki/武藤敬司 "wikilink")を掲げて[フリーランス](../Page/フリーランス.md "wikilink")として全日本プロレスに参戦していた。反・全日本プロレスという共通目的があった事で共闘関係が成立した。翌2月には、元[WWE](../Page/WWE.md "wikilink")の[チャック・パルンボ](../Page/チャック・パルンボ.md "wikilink")が加入、チーム名も「ブードゥー・マーダーズ（VOODOO-MURDERS）」と発表された。3月には元WWEの[ジャイアント・バーナード](https://ja.wikipedia.org/wiki/ジャイアント・バーナード "wikilink")が加入し勢力が増した。
 
-さらにその後、TARUと所属ユニットこそ違ってはいたが、同じく元DRAGON GATE所属であった[近藤修司](https://ja.wikipedia.org/wiki/近藤修司 "wikilink")と["brother"YASSHI](https://ja.wikipedia.org/wiki/"brother"YASSHI "wikilink")も加入した。
+さらにその後、TARUと所属ユニットこそ違ってはいたが、同じく元DRAGON GATE所属であった[近藤修司](../Page/近藤修司.md "wikilink")と["brother"YASSHI](../Page/"brother"YASSHI.md "wikilink")も加入した。
 
 #### 発展期
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")、諏訪間幸平が加入し、リングネームを「[諏訪魔](https://ja.wikipedia.org/wiki/諏訪魔 "wikilink")」に改名した。同年9月、対立していたユニット[RO\&D](../Page/RO&D.md "wikilink")のメンバーである[RO'Zが加入](https://ja.wikipedia.org/wiki/マット・アノアイ "wikilink")。同月、RO\&Dとのユニット解散をかけたタッグマッチを行い、これに勝利。試合中にRO\&Dから寝返った[ディーロ・ブラウン](https://ja.wikipedia.org/wiki/ディーロ・ブラウン "wikilink")と[ブキャナンも加入](https://ja.wikipedia.org/wiki/バリー・ブキャナン "wikilink")。\[1\]。
+[2006年](../Page/2006年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")、諏訪間幸平が加入し、リングネームを「[諏訪魔](../Page/諏訪魔.md "wikilink")」に改名した。同年9月、対立していたユニット[RO\&D](../Page/RO&D.md "wikilink")のメンバーである[RO'Zが加入](../Page/マット・アノアイ.md "wikilink")。同月、RO\&Dとのユニット解散をかけたタッグマッチを行い、これに勝利。試合中にRO\&Dから寝返った[ディーロ・ブラウン](../Page/ディーロ・ブラウン.md "wikilink")と[ブキャナンも加入](../Page/バリー・ブキャナン.md "wikilink")。\[1\]。
 
-10月、[ハッスル](https://ja.wikipedia.org/wiki/ハッスル_\(プロレス\) "wikilink")20に“brother”YASSHI with TARU として参戦した。11月1日、[プロレスリング・セム](https://ja.wikipedia.org/wiki/プロレスリング・セム "wikilink")に近藤・YASSHIが[SUWA](https://ja.wikipedia.org/wiki/SUWA "wikilink")のパートナーとして、TARUがセコンドとして参戦。[モハメド・ヨネ](https://ja.wikipedia.org/wiki/モハメド・ヨネ "wikilink")・[石森太二](https://ja.wikipedia.org/wiki/石森太二 "wikilink")・[青木篤志](https://ja.wikipedia.org/wiki/青木篤志 "wikilink")組に勝利した後、TARUが観客を罵ったのをきっかけに[プロレスリング・ノア](../Page/プロレスリング・ノア.md "wikilink")勢と乱闘となった。
+10月、[ハッスル](https://ja.wikipedia.org/wiki/ハッスル_\(プロレス\) "wikilink")20に“brother”YASSHI with TARU として参戦した。11月1日、[プロレスリング・セム](../Page/プロレスリング・セム.md "wikilink")に近藤・YASSHIが[SUWA](../Page/SUWA.md "wikilink")のパートナーとして、TARUがセコンドとして参戦。[モハメド・ヨネ](../Page/モハメド・ヨネ.md "wikilink")・[石森太二](../Page/石森太二.md "wikilink")・[青木篤志](../Page/青木篤志.md "wikilink")組に勝利した後、TARUが観客を罵ったのをきっかけに[プロレスリング・ノア](../Page/プロレスリング・ノア.md "wikilink")勢と乱闘となった。
 
 #### 混迷期
 
-[thumbの](https://ja.wikipedia.org/wiki/ファイル:Voodoo_Murders_2.jpg "wikilink")[国立台湾大学](../Page/国立台湾大学.md "wikilink")総合体育館で行われた「2010 プロレスLove in Taiwan」でのVM入場シーン\]\] [2007年](../Page/2007年.md "wikilink")6月、[小島聡](https://ja.wikipedia.org/wiki/小島聡 "wikilink")が加入した。7月には諏訪魔が[TNAの](https://ja.wikipedia.org/wiki/TNAレスリング "wikilink")[スコット・スタイナー](../Page/スコット・スタイナー.md "wikilink")と共闘を果たし、10月にはシルバーキング、ゾディアックが加入した。
+[thumbの](https://ja.wikipedia.org/wiki/ファイル:Voodoo_Murders_2.jpg "wikilink")[国立台湾大学](../Page/国立台湾大学.md "wikilink")総合体育館で行われた「2010 プロレスLove in Taiwan」でのVM入場シーン\]\] [2007年](../Page/2007年.md "wikilink")6月、[小島聡](../Page/小島聡.md "wikilink")が加入した。7月には諏訪魔が[TNAの](https://ja.wikipedia.org/wiki/TNAレスリング "wikilink")[スコット・スタイナー](../Page/スコット・スタイナー.md "wikilink")と共闘を果たし、10月にはシルバーキング、ゾディアックが加入した。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月、諏訪魔が脱退したが、4月には元WWEの[アル・ダバリが加入](https://ja.wikipedia.org/wiki/ショーン・デバリ "wikilink")。8月には小島が脱退、9月には[ジョー・ドーリング](../Page/ジョー・ドーリング.md "wikilink")が加入し、9月に近藤が脱退。10月には[平井伸和](https://ja.wikipedia.org/wiki/平井伸和 "wikilink")が加入し、リングネームをヘイトに改名した。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月、諏訪魔が脱退したが、4月には元WWEの[アル・ダバリが加入](../Page/ショーン・デバリ.md "wikilink")。8月には小島が脱退、9月には[ジョー・ドーリング](../Page/ジョー・ドーリング.md "wikilink")が加入し、9月に近藤が脱退。10月には[平井伸和](../Page/平井伸和.md "wikilink")が加入し、リングネームをヘイトに改名した。
 
 [2009年](../Page/2009年.md "wikilink")2月、[新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")を退団しフリーになった[稔](https://ja.wikipedia.org/wiki/稔 "wikilink")が加入したが、YASSHIがプロレスを休業するため離脱。その後、[土方隆司](../Page/土方隆司.md "wikilink")が「歳三」として加入した。同年9月、ゾディアックが脱退。
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")1月、[レネ・デュプリが加入](../Page/レネ・ゴーゲン.md "wikilink")。2月には、[F4](https://ja.wikipedia.org/wiki/F4 "wikilink")との解散マッチに勝利した。6月に[MAZADA](https://ja.wikipedia.org/wiki/MAZADA "wikilink")、7月に[鈴木健想](https://ja.wikipedia.org/wiki/鈴木健想 "wikilink")、10月に、[河野真幸](https://ja.wikipedia.org/wiki/河野真幸 "wikilink")が加入した。後に鈴木がリングネームをKENSO、河野がKONOに改名した。12月、鈴木と河野が[世界最強タッグ決定リーグ戦](https://ja.wikipedia.org/wiki/世界最強タッグ決定リーグ戦 "wikilink")優勝を果たした。同月[ダーク・オズ](https://ja.wikipedia.org/wiki/ダーク・オズ "wikilink")、[ダーク・クエルボ](https://ja.wikipedia.org/wiki/ダーク・クエルボ "wikilink")が加入した。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")1月、[レネ・デュプリが加入](../Page/レネ・ゴーゲン.md "wikilink")。2月には、[F4](https://ja.wikipedia.org/wiki/F4 "wikilink")との解散マッチに勝利した。6月に[MAZADA](../Page/MAZADA.md "wikilink")、7月に[鈴木健想](https://ja.wikipedia.org/wiki/鈴木健想 "wikilink")、10月に、[河野真幸](https://ja.wikipedia.org/wiki/河野真幸 "wikilink")が加入した。後に鈴木がリングネームをKENSO、河野がKONOに改名した。12月、鈴木と河野が[世界最強タッグ決定リーグ戦](../Page/世界最強タッグ決定リーグ戦.md "wikilink")優勝を果たした。同月[ダーク・オズ](https://ja.wikipedia.org/wiki/ダーク・オズ "wikilink")、[ダーク・クエルボ](https://ja.wikipedia.org/wiki/ダーク・クエルボ "wikilink")が加入した。
 
-2011年1月、鈴木と河野が[世界タッグ王座](https://ja.wikipedia.org/wiki/世界タッグ王座 "wikilink")選手権に挑戦したが、試合中に仲間割れを起こし敗戦。試合後鈴木が追放された。
+2011年1月、鈴木と河野が[世界タッグ王座](../Page/世界タッグ王座.md "wikilink")選手権に挑戦したが、試合中に仲間割れを起こし敗戦。試合後鈴木が追放された。
 
 #### 解散
 
@@ -47,13 +47,13 @@
 
 #### 復活
 
-2012年12月、[ダイヤモンド・リングのホーム興行に](https://ja.wikipedia.org/wiki/ダイヤモンド・リング_\(プロレス\) "wikilink")"brother"YASSHIが乱入し、レスラー復帰を発表。その後の記者会見にて**[拳剛](https://ja.wikipedia.org/wiki/拳剛 "wikilink")**（旧:西村賢吾）とブードゥーマーダーズ再始動を発表。
+2012年12月、[ダイヤモンド・リングのホーム興行に](../Page/ダイヤモンド・リング_\(プロレス\).md "wikilink")"brother"YASSHIが乱入し、レスラー復帰を発表。その後の記者会見にて**[拳剛](https://ja.wikipedia.org/wiki/拳剛 "wikilink")**（旧:西村賢吾）とブードゥーマーダーズ再始動を発表。
 
-2013年1月、TARUが復帰会見。同グループへの合流も発表された。2月11日のダイヤモンド・リング・ホーム興行にて、同団体所属の[宮原健斗](https://ja.wikipedia.org/wiki/宮原健斗 "wikilink")、ならびに[KAIENTAI-DOJO](https://ja.wikipedia.org/wiki/KAIENTAI-DOJO "wikilink")所属の[滝澤大志](https://ja.wikipedia.org/wiki/滝澤大志 "wikilink")が合流する。第2期はダイヤモンド・リングの他、[ZERO1](https://ja.wikipedia.org/wiki/ZERO1 "wikilink")、[天龍プロジェクト](https://ja.wikipedia.org/wiki/天龍プロジェクト "wikilink")、[紅白プロレス合戦](https://ja.wikipedia.org/wiki/紅白プロレス合戦 "wikilink")などに参戦している。
+2013年1月、TARUが復帰会見。同グループへの合流も発表された。2月11日のダイヤモンド・リング・ホーム興行にて、同団体所属の[宮原健斗](https://ja.wikipedia.org/wiki/宮原健斗 "wikilink")、ならびに[KAIENTAI-DOJO](https://ja.wikipedia.org/wiki/KAIENTAI-DOJO "wikilink")所属の[滝澤大志](../Page/滝澤大志.md "wikilink")が合流する。第2期はダイヤモンド・リングの他、[ZERO1](../Page/ZERO1.md "wikilink")、[天龍プロジェクト](https://ja.wikipedia.org/wiki/天龍プロジェクト "wikilink")、[紅白プロレス合戦](https://ja.wikipedia.org/wiki/紅白プロレス合戦 "wikilink")などに参戦している。
 
-2014年7月、"brother"YASSHIが新体制となった全日本プロレスのリングに5年ぶりに登場。リング上で参戦を要求すると、ブードゥーマーダーズとしてではなく、"brother"YASSHI個人として出場し、試合終了後、リング上でブードゥーマーダーズを投入すると宣言しアピールした。しかし、全日本プロレスからは[秋山準](https://ja.wikipedia.org/wiki/秋山準 "wikilink")社長名義のコメントで「今の全日本プロレスにはスキャンダルは必要ありません。今後“brother”YASSHI選手をはじめとするVOODOO-MURDERSの全日本プロレス参戦はご遠慮いただきました」\[6\]\[7\]と拒否され、予定されていたYASSHIのシリーズ参戦も白紙となった\[8\]。
+2014年7月、"brother"YASSHIが新体制となった全日本プロレスのリングに5年ぶりに登場。リング上で参戦を要求すると、ブードゥーマーダーズとしてではなく、"brother"YASSHI個人として出場し、試合終了後、リング上でブードゥーマーダーズを投入すると宣言しアピールした。しかし、全日本プロレスからは[秋山準](../Page/秋山準.md "wikilink")社長名義のコメントで「今の全日本プロレスにはスキャンダルは必要ありません。今後“brother”YASSHI選手をはじめとするVOODOO-MURDERSの全日本プロレス参戦はご遠慮いただきました」\[6\]\[7\]と拒否され、予定されていたYASSHIのシリーズ参戦も白紙となった\[8\]。
 
-2015年1月、全日本プロレス主催の『[ジャイアント馬場](../Page/ジャイアント馬場.md "wikilink") 十七回忌特別大会』にTARUの参戦が発表され\[9\]、3年8ヶ月ぶりに全日本プロレスのリングに上がった\[10\]。試合では、"brother"YASSHIと拳剛も共に入場し、鉄パイプで対戦相手の[相島勇人](../Page/相島勇人.md "wikilink")や[太陽ケア](../Page/太陽ケア.md "wikilink")を攻撃するなど、かつてのやり方を貫く戦いを見せた\[11\]。なお今回の参戦は、ジャイアント馬場の夫人である[馬場元子](https://ja.wikipedia.org/wiki/馬場元子 "wikilink")相談役のオファーによって実現したものであり、あくまでも特例であることが強調された形となった\[12\]\[13\]。
+2015年1月、全日本プロレス主催の『[ジャイアント馬場](../Page/ジャイアント馬場.md "wikilink") 十七回忌特別大会』にTARUの参戦が発表され\[9\]、3年8ヶ月ぶりに全日本プロレスのリングに上がった\[10\]。試合では、"brother"YASSHIと拳剛も共に入場し、鉄パイプで対戦相手の[相島勇人](../Page/相島勇人.md "wikilink")や[太陽ケア](../Page/太陽ケア.md "wikilink")を攻撃するなど、かつてのやり方を貫く戦いを見せた\[11\]。なお今回の参戦は、ジャイアント馬場の夫人である[馬場元子](../Page/馬場元子.md "wikilink")相談役のオファーによって実現したものであり、あくまでも特例であることが強調された形となった\[12\]\[13\]。
 
 2016年2月17日、CRYSIS興行にて"brother"YASSHIがVOODOO-MURDERSを離脱すると発表。 これに伴い、VOODOO-MURDERSの活動を見直すことになり　個々でのフリーランス活動となる。その後TARUの20周年記念興行にて拳剛がみちのくプロレスのBAD BOY加入のためTARUから追放される。興行中離脱したYASSHIがTARUに対してビデオメッセージを送っている。
 
@@ -61,17 +61,17 @@
 
   - 第1期
 
-全日本プロレス本隊、[RO\&D](../Page/RO&D.md "wikilink")、[健介ファミリーなど](https://ja.wikipedia.org/wiki/健介office "wikilink")。[リングソウル](https://ja.wikipedia.org/wiki/リングソウル "wikilink")や[ビッグマウス](https://ja.wikipedia.org/wiki/ビッグマウス "wikilink")・ラウドにも登場している。
+全日本プロレス本隊、[RO\&D](../Page/RO&D.md "wikilink")、[健介ファミリーなど](https://ja.wikipedia.org/wiki/健介office "wikilink")。[リングソウル](https://ja.wikipedia.org/wiki/リングソウル "wikilink")や[ビッグマウス](../Page/ビッグマウス.md "wikilink")・ラウドにも登場している。
 
-また、抗争ではないものの、メンバーに[プロレスリング・エルドラド](https://ja.wikipedia.org/wiki/プロレスリング・エルドラド "wikilink")所属選手が2人いたという縁から、[TARU](../Page/TARU.md "wikilink")がGMとしてエルドラドにも登場したことがあった。
+また、抗争ではないものの、メンバーに[プロレスリング・エルドラド](../Page/プロレスリング・エルドラド.md "wikilink")所属選手が2人いたという縁から、[TARU](../Page/TARU.md "wikilink")がGMとしてエルドラドにも登場したことがあった。
 
 ## 試合スタイル
 
   - 第1期
 
-結成当初は凶器攻撃・罵倒文句の凄まじさが特徴的であった。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")頃から対戦相手の口に試合会場地の名産物を押し込むなどのユーモラスな行動や、TARU水\[14\]と呼ばれる水を観客に浴びせるなどのギミックが登場。
+結成当初は凶器攻撃・罵倒文句の凄まじさが特徴的であった。[2006年](../Page/2006年.md "wikilink")頃から対戦相手の口に試合会場地の名産物を押し込むなどのユーモラスな行動や、TARU水\[14\]と呼ばれる水を観客に浴びせるなどのギミックが登場。
 
-あらゆるファイトスタイルに対応できる人材を持ち、興行にメリハリをつける上で全日本には欠かせない集団となった。[アンチヒーロー](https://ja.wikipedia.org/wiki/アンチヒーロー "wikilink")的存在としてVMに声援を送るファンも多く、F4との解散マッチに勝った後にTARUが興行を締めるマイクを持つなど、単に嫌われるだけのヒール軍団ではなくなっていた。
+あらゆるファイトスタイルに対応できる人材を持ち、興行にメリハリをつける上で全日本には欠かせない集団となった。[アンチヒーロー](../Page/アンチヒーロー.md "wikilink")的存在としてVMに声援を送るファンも多く、F4との解散マッチに勝った後にTARUが興行を締めるマイクを持つなど、単に嫌われるだけのヒール軍団ではなくなっていた。
 
 ## メンバー
 
@@ -89,7 +89,7 @@
 
 <!-- end list -->
 
-  - [稔](https://ja.wikipedia.org/wiki/田中稔_\(プロレスラー\) "wikilink")
+  - [稔](../Page/田中稔_\(プロレスラー\).md "wikilink")
 
 <!-- end list -->
 
@@ -99,7 +99,7 @@
 
 <!-- end list -->
 
-  - [MAZADA](https://ja.wikipedia.org/wiki/MAZADA "wikilink")
+  - [MAZADA](../Page/MAZADA.md "wikilink")
 
 <!-- end list -->
 
@@ -118,7 +118,7 @@
 
 <!-- end list -->
 
-  - [スーパー・ヘイト](https://ja.wikipedia.org/wiki/平井伸和 "wikilink")
+  - [スーパー・ヘイト](../Page/平井伸和.md "wikilink")
 
 <!-- end list -->
 
@@ -165,7 +165,7 @@
 
 <!-- end list -->
 
-  - [ジャイアント・バーナード](https://ja.wikipedia.org/wiki/マシュー・ブルーム "wikilink")
+  - [ジャイアント・バーナード](../Page/マシュー・ブルーム.md "wikilink")
 
 <!-- end list -->
 
@@ -174,7 +174,7 @@
 
 <!-- end list -->
 
-  - [AKAONI（赤鬼）](https://ja.wikipedia.org/wiki/渕正信 "wikilink") - ～2006年8月20日
+  - [AKAONI（赤鬼）](../Page/渕正信.md "wikilink") - ～2006年8月20日
 
 <!-- end list -->
 
@@ -183,19 +183,19 @@
 
 <!-- end list -->
 
-  - [ディーロ・ブラウン](https://ja.wikipedia.org/wiki/ディーロ・ブラウン "wikilink") ～2006年9月17日
-  - [ブキャナン](https://ja.wikipedia.org/wiki/バリー・ブキャナン "wikilink") ～2006年9月17日
+  - [ディーロ・ブラウン](../Page/ディーロ・ブラウン.md "wikilink") ～2006年9月17日
+  - [ブキャナン](../Page/バリー・ブキャナン.md "wikilink") ～2006年9月17日
 
 <!-- end list -->
 
   -
     上記2選手は、RO\&Dからの電撃加入だったが短期間で全日本を離脱。
-    [プロレスリング・ノア](../Page/プロレスリング・ノア.md "wikilink")へRO\&Dとして参戦（[TAKAみちのく](https://ja.wikipedia.org/wiki/TAKAみちのく "wikilink")曰く、移籍経緯は来るもの拒まず。）
+    [プロレスリング・ノア](../Page/プロレスリング・ノア.md "wikilink")へRO\&Dとして参戦（[TAKAみちのく](../Page/TAKAみちのく.md "wikilink")曰く、移籍経緯は来るもの拒まず。）
     現在、ディーロは再び全日本へ、ブキャナンは海外団体で活動中。
 
 <!-- end list -->
 
-  - [RO'Z](https://ja.wikipedia.org/wiki/マット・アノアイ "wikilink") ～2007年3月。
+  - [RO'Z](../Page/マット・アノアイ.md "wikilink") ～2007年3月。
 
 <!-- end list -->
 
@@ -204,7 +204,7 @@
 
 <!-- end list -->
 
-  - [諏訪魔](https://ja.wikipedia.org/wiki/諏訪魔 "wikilink") - ～2008年1月3日<sub>本名諏訪間幸平</sub>
+  - [諏訪魔](../Page/諏訪魔.md "wikilink") - ～2008年1月3日<sub>本名諏訪間幸平</sub>
 
 <!-- end list -->
 
@@ -213,7 +213,7 @@
 
 <!-- end list -->
 
-  - [小島聡](https://ja.wikipedia.org/wiki/小島聡 "wikilink") - ～2008年8月3日
+  - [小島聡](../Page/小島聡.md "wikilink") - ～2008年8月3日
 
 <!-- end list -->
 
@@ -223,7 +223,7 @@
 
 <!-- end list -->
 
-  - [近藤修司](https://ja.wikipedia.org/wiki/近藤修司 "wikilink") - ～2008年9月29日
+  - [近藤修司](../Page/近藤修司.md "wikilink") - ～2008年9月29日
 
 <!-- end list -->
 
@@ -233,21 +233,21 @@
 
 <!-- end list -->
 
-  - ["brother"YASSHI](https://ja.wikipedia.org/wiki/"brother"YASSHI "wikilink") - （2005年 - 2009年）
+  - ["brother"YASSHI](../Page/"brother"YASSHI.md "wikilink") - （2005年 - 2009年）
 
 <!-- end list -->
 
   -
-    [近藤修司](https://ja.wikipedia.org/wiki/近藤修司 "wikilink")とタッグによる主力メンバーであったが休業とともに離脱。のち2013年に活動復帰とともにグループ再始動を発起。
+    [近藤修司](../Page/近藤修司.md "wikilink")とタッグによる主力メンバーであったが休業とともに離脱。のち2013年に活動復帰とともにグループ再始動を発起。
 
 <!-- end list -->
 
-  - [ランス・ホイト](https://ja.wikipedia.org/wiki/ランス・ホイット "wikilink")
+  - [ランス・ホイト](../Page/ランス・ホイット.md "wikilink")
 
 <!-- end list -->
 
   -
-    現在は[鈴木みのる](https://ja.wikipedia.org/wiki/鈴木みのる "wikilink")率いる[鈴木軍](https://ja.wikipedia.org/wiki/鈴木軍 "wikilink")のメンバーとして[新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")で活動中。現・ランス・アーチャー。
+    現在は[鈴木みのる](../Page/鈴木みのる.md "wikilink")率いる[鈴木軍](https://ja.wikipedia.org/wiki/鈴木軍 "wikilink")のメンバーとして[新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")で活動中。現・ランス・アーチャー。
 
 <!-- end list -->
 
@@ -299,7 +299,7 @@
 
 <!-- end list -->
 
-  - [アル・ダバリ](https://ja.wikipedia.org/wiki/ショーン・デバリ "wikilink")
+  - [アル・ダバリ](../Page/ショーン・デバリ.md "wikilink")
   - [シルバー・キング](../Page/シルバー・キング.md "wikilink") 2019年5月11日死去。
   - [マイク・フェース](https://ja.wikipedia.org/wiki/マイク・フェース "wikilink")
   - [ビッグ・ダディ・ブードゥー](../Page/ネルソン・フレイジャー・ジュニア.md "wikilink")
@@ -311,7 +311,7 @@
 
 <!-- end list -->
 
-  - [チャーリー・ハース](https://ja.wikipedia.org/wiki/チャーリー・ハース "wikilink")
+  - [チャーリー・ハース](../Page/チャーリー・ハース.md "wikilink")
   - [ダーク・オズ](https://ja.wikipedia.org/wiki/ダーク・オズ "wikilink")　
   - [ダーク・クエルボ](https://ja.wikipedia.org/wiki/ダーク・クエルボ "wikilink")
 
@@ -322,13 +322,13 @@
 
 #### 共闘メンバー
 
-  - [谷嵜なおき](https://ja.wikipedia.org/wiki/谷嵜直樹 "wikilink") - 欠場したYASSHIの代役。
+  - [谷嵜なおき](../Page/谷嵜直樹.md "wikilink") - 欠場したYASSHIの代役。
   - [スコット・スタイナー](../Page/スコット・スタイナー.md "wikilink")
-  - [SUWA](https://ja.wikipedia.org/wiki/SUWA "wikilink")
-  - [トラヴィス・トムコ](https://ja.wikipedia.org/wiki/トラヴィス・トムコ "wikilink") - 新日本プロレスにVM参戦時にバーナードともに共闘。
+  - [SUWA](../Page/SUWA.md "wikilink")
+  - [トラヴィス・トムコ](../Page/トラヴィス・トムコ.md "wikilink") - 新日本プロレスにVM参戦時にバーナードともに共闘。
   - [CHAOS](https://ja.wikipedia.org/wiki/CHAOS_\(プロレス\) "wikilink") - 新日本プロレスのヒール軍団として共闘。
   - [ベイダー](https://ja.wikipedia.org/wiki/レオン・ホワイト "wikilink") - 自分の弟子達をVMに推薦するも、TARUが召集しなかった為、現在は敵対。
-  - [村上和成](https://ja.wikipedia.org/wiki/村上和成 "wikilink") - 新生VM復活の際に要求から共闘。
+  - [村上和成](../Page/村上和成.md "wikilink") - 新生VM復活の際に要求から共闘。
 
 ### 第2期
 
@@ -362,7 +362,7 @@
 
 <!-- end list -->
 
-  - [将軍岡本](https://ja.wikipedia.org/wiki/岡本将之 "wikilink")- （2018年　- ）
+  - [将軍岡本](../Page/岡本将之.md "wikilink")- （2018年　- ）
 
 <!-- end list -->
 
@@ -391,7 +391,7 @@
 
 <!-- end list -->
 
-  - [滝澤大志](https://ja.wikipedia.org/wiki/滝澤大志 "wikilink") - （2013年2月11日 - 2013年6月）
+  - [滝澤大志](../Page/滝澤大志.md "wikilink") - （2013年2月11日 - 2013年6月）
 
 <!-- end list -->
 
@@ -409,12 +409,12 @@
 
 <!-- end list -->
 
-  - ["brother"YASSHI](https://ja.wikipedia.org/wiki/"brother"YASSHI "wikilink") - （2012年12月 - 2016年2月）
+  - ["brother"YASSHI](../Page/"brother"YASSHI.md "wikilink") - （2012年12月 - 2016年2月）
 
 <!-- end list -->
 
   -
-    第1期で[近藤修司](https://ja.wikipedia.org/wiki/近藤修司 "wikilink")とタッグによる主力メンバーであったが休業とともに離脱。
+    第1期で[近藤修司](../Page/近藤修司.md "wikilink")とタッグによる主力メンバーであったが休業とともに離脱。
     活動復帰を機にグループ再始動の発起した新生VMのリーダー。2月のCRYSIS興行で離脱を表明。当時欠場中の拳剛の復帰戦の対戦相手になることも宣言し同興行のラストではTARUとは握手を交わし拳剛とは拳を合わせた。
 
 <!-- end list -->
@@ -464,7 +464,7 @@
 
 <!-- end list -->
 
-  - [KAMIKAZE](https://ja.wikipedia.org/wiki/KAMIKAZE_\(プロレスラー\) "wikilink")
+  - [KAMIKAZE](../Page/KAMIKAZE_\(プロレスラー\).md "wikilink")
 
 <!-- end list -->
 
@@ -473,7 +473,7 @@
 
 <!-- end list -->
 
-  - [菅原拓也](https://ja.wikipedia.org/wiki/菅原拓也 "wikilink")
+  - [菅原拓也](../Page/菅原拓也.md "wikilink")
 
 <!-- end list -->
 
@@ -482,7 +482,7 @@
 
 <!-- end list -->
 
-  - [田中将斗](https://ja.wikipedia.org/wiki/田中将斗 "wikilink")- （2017年　- ）
+  - [田中将斗](../Page/田中将斗.md "wikilink")- （2017年　- ）
 
 <!-- end list -->
 
@@ -512,14 +512,14 @@
 ### 第1期
 
   - 全日本プロレス
-    2011年2月現在、全日本プロレス内で獲得していないベルトは、[三冠ヘビー級王座](https://ja.wikipedia.org/wiki/三冠ヘビー級王座 "wikilink")のみとなっている。
+    2011年2月現在、全日本プロレス内で獲得していないベルトは、[三冠ヘビー級王座](../Page/三冠ヘビー級王座.md "wikilink")のみとなっている。
 
 <!-- end list -->
 
-  - [世界ジュニアヘビー級王座](https://ja.wikipedia.org/wiki/世界ジュニアヘビー級王座 "wikilink")･･･3回 - 近藤修司（第23代）、シルバー・キング（第25代）、稔（第29代）
-  - [アジアタッグ王座](https://ja.wikipedia.org/wiki/アジアタッグ王座 "wikilink")･･･2回 - 近藤修司 & "brother"YASSHI（第79代）、 TARU & ビック・ダディ・ブードゥー（第83代）
-  - [世界タッグ王座](https://ja.wikipedia.org/wiki/世界タッグ王座 "wikilink")･･･2回 - 小島聡 & TARU（第53代）、 KONO & ジョー・ドーリング（第58代）
-  - [世界最強タッグ決定リーグ戦](https://ja.wikipedia.org/wiki/世界最強タッグ決定リーグ戦 "wikilink")･･･1回 - KENSO & KONO（2010年）
+  - [世界ジュニアヘビー級王座](../Page/世界ジュニアヘビー級王座.md "wikilink")･･･3回 - 近藤修司（第23代）、シルバー・キング（第25代）、稔（第29代）
+  - [アジアタッグ王座](../Page/アジアタッグ王座.md "wikilink")･･･2回 - 近藤修司 & "brother"YASSHI（第79代）、 TARU & ビック・ダディ・ブードゥー（第83代）
+  - [世界タッグ王座](../Page/世界タッグ王座.md "wikilink")･･･2回 - 小島聡 & TARU（第53代）、 KONO & ジョー・ドーリング（第58代）
+  - [世界最強タッグ決定リーグ戦](../Page/世界最強タッグ決定リーグ戦.md "wikilink")･･･1回 - KENSO & KONO（2010年）
   - [ジュニア・タッグリーグ戦](https://ja.wikipedia.org/wiki/ジュニア・タッグリーグ戦 "wikilink")･･･1回 - 歳三 & 稔（2009年）
 
 <!-- end list -->

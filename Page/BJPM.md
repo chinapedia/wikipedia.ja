@@ -51,7 +51,7 @@ Joint Factory / T-Square Labの製品。これもBJPMとほぼ同様の仕様を
 
 ### 硬質少女有限公司
 
-[明貴美加](https://ja.wikipedia.org/wiki/明貴美加 "wikilink") の企画で、 [Doujin Hoops](https://ja.wikipedia.org/wiki/Doujin_Hoops "wikilink")（[竜牙](https://ja.wikipedia.org/wiki/竜牙 "wikilink")） / T-Square Lab から Rainy と同様の人間型ブロックジョイントモデルとしてリリースされる予定。
+[明貴美加](../Page/明貴美加.md "wikilink") の企画で、 [Doujin Hoops](https://ja.wikipedia.org/wiki/Doujin_Hoops "wikilink")（[竜牙](https://ja.wikipedia.org/wiki/竜牙 "wikilink")） / T-Square Lab から Rainy と同様の人間型ブロックジョイントモデルとしてリリースされる予定。
 
 ## ミキシング (各製品間での組み合わせ)
 

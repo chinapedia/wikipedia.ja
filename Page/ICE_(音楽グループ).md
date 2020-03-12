@@ -7,7 +7,7 @@
 
 [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")にギターの[宮内和之](../Page/宮内和之.md "wikilink")を中心にインディーズレーベルICEを結成。ICE以前の宮内を中心にした音楽集団[宮内和之セッション](https://ja.wikipedia.org/wiki/宮内和之セッション "wikilink")では、アルバムごとにメンバーやコンセプトを変えて発表する形態を模索していた。その後、2人いたコーラスのうちコーラスBであった[国岡真由美](https://ja.wikipedia.org/wiki/国岡真由美 "wikilink")をヴォーカルに迎える。大手レーベルと契約にあたり、宮内和之セッションのメンバーはそれぞれにミュージシャンとしての契約があったため、国岡と宮内の2人のユニットを前面に出し、ICEとして活動開始。
 
-1993年4月7日に[東芝EMIからデビューアルバム](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")「ICE」をリリース。その後短期間のうちに2ndアルバム、3rdアルバムを発売。2002年頃に[ユニバーサルミュージックへ移籍](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。 2007年10月までに12枚のオリジナルアルバム、13枚のシングルをリリースしている。
+1993年4月7日に[東芝EMIからデビューアルバム](../Page/EMIミュージック・ジャパン.md "wikilink")「ICE」をリリース。その後短期間のうちに2ndアルバム、3rdアルバムを発売。2002年頃に[ユニバーサルミュージックへ移籍](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。 2007年10月までに12枚のオリジナルアルバム、13枚のシングルをリリースしている。
 
 大手レーベルを離れ、自らのレーベルfreebirdrecordを設立。自らのペースでイベントライブを中心に活動を行っていたが、2007年12月宮内の死去により事実上活動休止となった。
 
@@ -524,7 +524,7 @@ BLUES VIBRATION～GET DOWN,GET DOWN,GET DOWN</li>
 <td><p>UPCH-1170</p></td>
 <td><ol>
 <li>LIGHT OF THE WORLD(Be quiet)</li>
-<li>(Going To The)LIGHT OF THE WORLD＜featuring <a href="https://ja.wikipedia.org/wiki/斉藤和義" title="wikilink">斉藤和義</a>＞</li>
+<li>(Going To The)LIGHT OF THE WORLD＜featuring <a href="../Page/斉藤和義.md" title="wikilink">斉藤和義</a>＞</li>
 <li>Hello,Young Lovers</li>
 <li>sheet blues</li>
 <li>FIRECRACKER</li>
@@ -778,18 +778,18 @@ XQIQ-1002</p></td>
 
 ## タイアップ
 
-| 曲名                         | タイアップ                                                                                                      |
-| -------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| SLOW LOVE                  | ANB系「Mew」エンディング・テーマ                                                                                        |
-| Kozmic blue                | ANB系「Mew」エンディング・テーマ                                                                                        |
-| BABY MAYBE                 | ANB系「走れ\!GET」エンディング・テーマ                                                                                    |
-| GET DOWN,GET DOWN,GET DOWN | 銀座ジュエリーマキ「カメリア・ダイヤモンド」CMソング                                                                                |
-| Love Makes Me Run          | TBSテレビ系「FACE2」エンディング・テーマ                                                                                   |
-| CAN’T STOP THE MUSIC       | TBSテレビ系「愛のテリーヌ」エンディング・テーマ                                                                                  |
-| GET ON THE FLOOR           | 東芝「DVDプレイヤー LIVIN’IN THE CITY」CMソング                                                                        |
-| ECHOES                     | TBSテレビ系「恋愛旅行社」オープニング・テーマ                                                                                   |
-| C’est La Vie               | ABCテレビ,ANB系「[新★得するテレビ ホンジャマカな日曜日](https://ja.wikipedia.org/wiki/新★得するテレビ_ホンジャマカな日曜日 "wikilink")」エンディング・テーマ |
-| spirit                     | TBS「[王様のブランチ](https://ja.wikipedia.org/wiki/王様のブランチ "wikilink")」2002年4月・5月主題歌                              |
+| 曲名                         | タイアップ                                                                                   |
+| -------------------------- | --------------------------------------------------------------------------------------- |
+| SLOW LOVE                  | ANB系「Mew」エンディング・テーマ                                                                     |
+| Kozmic blue                | ANB系「Mew」エンディング・テーマ                                                                     |
+| BABY MAYBE                 | ANB系「走れ\!GET」エンディング・テーマ                                                                 |
+| GET DOWN,GET DOWN,GET DOWN | 銀座ジュエリーマキ「カメリア・ダイヤモンド」CMソング                                                             |
+| Love Makes Me Run          | TBSテレビ系「FACE2」エンディング・テーマ                                                                |
+| CAN’T STOP THE MUSIC       | TBSテレビ系「愛のテリーヌ」エンディング・テーマ                                                               |
+| GET ON THE FLOOR           | 東芝「DVDプレイヤー LIVIN’IN THE CITY」CMソング                                                     |
+| ECHOES                     | TBSテレビ系「恋愛旅行社」オープニング・テーマ                                                                |
+| C’est La Vie               | ABCテレビ,ANB系「[新★得するテレビ ホンジャマカな日曜日](../Page/新★得するテレビ_ホンジャマカな日曜日.md "wikilink")」エンディング・テーマ |
+| spirit                     | TBS「[王様のブランチ](https://ja.wikipedia.org/wiki/王様のブランチ "wikilink")」2002年4月・5月主題歌           |
 
 ## ライヴ
 

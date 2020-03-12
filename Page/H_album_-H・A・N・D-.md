@@ -1,7 +1,7 @@
 > この記事は[H album -HAND-](https://ja.wikipedia.org/wiki/H_album_-HAND-)から翻訳されています。
 
 
-『**H album -H・A・N・D-**』（エイチ・アルバム ハンド）は、[KinKi Kidsの](../Page/KinKi_Kids.md "wikilink")8作目の[オリジナル・アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")発売。発売元は[ジャニーズ・エンタテイメント](https://ja.wikipedia.org/wiki/ジャニーズ・エンタテイメント "wikilink")。
+『**H album -H・A・N・D-**』（エイチ・アルバム ハンド）は、[KinKi Kidsの](../Page/KinKi_Kids.md "wikilink")8作目の[オリジナル・アルバム](../Page/スタジオ・アルバム.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")発売。発売元は[ジャニーズ・エンタテイメント](../Page/ジャニーズ・エンタテイメント.md "wikilink")。
 
 ## 解説
 
@@ -11,18 +11,18 @@
 
 本作でも従来どおり2人のソロ曲を収録しているが、どちらも提供曲である。2人の共作による「恋涙」は収録されているが、これまであった自作曲が収録されていない。また、本作はオリジナル・アルバムとしては初めてインスト曲が収録されている。
 
-初回盤は2人へのインタビュー、収録曲「99%LIBERTY」の[PVのほか](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、PV撮影のメイキング映像などが収録された[DVDを付属](../Page/DVD-Video.md "wikilink")。通常盤はジャケット違い、更にボーナストラックを追加収録している。アルバムにDVDが付属されるのは初めてであり、収録曲の相違も初の試みである。
+初回盤は2人へのインタビュー、収録曲「99%LIBERTY」の[PVのほか](../Page/ミュージック・ビデオ.md "wikilink")、PV撮影のメイキング映像などが収録された[DVDを付属](../Page/DVD-Video.md "wikilink")。通常盤はジャケット違い、更にボーナストラックを追加収録している。アルバムにDVDが付属されるのは初めてであり、収録曲の相違も初の試みである。
 
 ## チャート成績
 
-2005年11月24日付の[オリコン週間ランキングで初週](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")24.6万枚を売り上げて、初登場1位を獲得した。自身のアルバム首位獲得は、ベスト盤を含め通算9作目であり、これまで同じ8作で並んでいた[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")、[V6を抜いて](../Page/V6_\(グループ\).md "wikilink")、アルバム首位獲得数の男性アイドル部門で歴代トップとなった\[1\]。
+2005年11月24日付の[オリコン週間ランキングで初週](../Page/オリコンチャート.md "wikilink")24.6万枚を売り上げて、初登場1位を獲得した。自身のアルバム首位獲得は、ベスト盤を含め通算9作目であり、これまで同じ8作で並んでいた[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")、[V6を抜いて](../Page/V6_\(グループ\).md "wikilink")、アルバム首位獲得数の男性アイドル部門で歴代トップとなった\[1\]。
 
 ## 収録曲
 
 ※シングル曲の解説は各シングルのページを参照
 
 1.  **Arabesque 〜千夜一夜の夢〜**
-    ([作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[作曲](../Page/作曲.md "wikilink"):[井手コウジ](https://ja.wikipedia.org/wiki/井手コウジ "wikilink")　[編曲](../Page/編曲.md "wikilink"):[鈴木雅也](https://ja.wikipedia.org/wiki/鈴木雅也 "wikilink"))
+    ([作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink"):[井手コウジ](../Page/井手コウジ.md "wikilink")　[編曲](../Page/編曲.md "wikilink"):[鈴木雅也](https://ja.wikipedia.org/wiki/鈴木雅也 "wikilink"))
       -
         歌い出しが[英語](../Page/英語.md "wikilink")詞で始める点は、前作『G album』の1曲目「[Bonnie Butterfly](https://ja.wikipedia.org/wiki/G_album_-24/7-#収録曲 "wikilink")」と同様である。
 2.  **[Anniversary](../Page/Anniversary_\(KinKi_Kidsの曲\).md "wikilink")**
@@ -54,15 +54,15 @@
       -
         [ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")『[KinKi Single Selection](../Page/KinKi_Single_Selection.md "wikilink")』の収録曲「Theme of KinKi Kids '00」以来のインスト。
 9.  **[ビロードの闇](../Page/ビロードの闇.md "wikilink")**
-    (作詞:Satomi　作曲:[林田健司](https://ja.wikipedia.org/wiki/林田健司 "wikilink")　編曲:[CHOKKAKU](https://ja.wikipedia.org/wiki/CHOKKAKU "wikilink"))
+    (作詞:Satomi　作曲:[林田健司](../Page/林田健司.md "wikilink")　編曲:[CHOKKAKU](../Page/CHOKKAKU.md "wikilink"))
       -
         21stシングル
 10. **ダイヤモンド・ストーリー**
-    (作詞:[松本素生](https://ja.wikipedia.org/wiki/松本素生 "wikilink")　作曲:[飯岡隆志](https://ja.wikipedia.org/wiki/飯岡隆志 "wikilink")　編曲:CHOKKAKU)
+    (作詞:[松本素生](../Page/松本素生.md "wikilink")　作曲:[飯岡隆志](https://ja.wikipedia.org/wiki/飯岡隆志 "wikilink")　編曲:CHOKKAKU)
       -
-        作詞は[GOING UNDER GROUNDの松本素生が担当](https://ja.wikipedia.org/wiki/GOING_UNDER_GROUND "wikilink")。
+        作詞は[GOING UNDER GROUNDの松本素生が担当](../Page/GOING_UNDER_GROUND.md "wikilink")。
 11. **駅までは同じ帰り道**
-    (作詞:[久保田洋司](https://ja.wikipedia.org/wiki/久保田洋司 "wikilink")　作曲:[飯田建彦](https://ja.wikipedia.org/wiki/飯田建彦 "wikilink")　編曲:[長岡成貢](https://ja.wikipedia.org/wiki/長岡成貢 "wikilink")　コーラスアレンジ:[松下誠](../Page/松下誠.md "wikilink"))
+    (作詞:[久保田洋司](../Page/久保田洋司.md "wikilink")　作曲:[飯田建彦](https://ja.wikipedia.org/wiki/飯田建彦 "wikilink")　編曲:[長岡成貢](https://ja.wikipedia.org/wiki/長岡成貢 "wikilink")　コーラスアレンジ:[松下誠](../Page/松下誠.md "wikilink"))
       -
         まだ恋人とも呼べない男女の純愛を描いたストーリー。片想いの男性目線での世界で描かれている。
 12. **未完のラブ・ソング**
@@ -89,7 +89,7 @@
       - [堂本光一](../Page/堂本光一.md "wikilink"):[Vocal](https://ja.wikipedia.org/wiki/ボーカル "wikilink") (\#1〜6,9〜14)、[Chorus](../Page/コーラス_\(ポピュラー音楽\).md "wikilink") (\#1〜6,9,10,13)
       - [堂本剛](../Page/堂本剛.md "wikilink"):[Vocal](https://ja.wikipedia.org/wiki/ボーカル "wikilink") (\#1〜5,7,9〜14)、Chorus (\#1,7,10)
   - **Arabesque 〜千夜一夜の夢〜**
-      - 鈴木雅也:[Programming](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink") & [Keyboards](../Page/キーボード_\(楽器\).md "wikilink")
+      - 鈴木雅也:[Programming](../Page/ミュージックシーケンサー.md "wikilink") & [Keyboards](../Page/キーボード_\(楽器\).md "wikilink")
       - 久米康隆:[Guitar](../Page/ギター.md "wikilink")
       - Ko-saku:[Chorus](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
   - **Anniversary**
@@ -98,14 +98,14 @@
   - **恋涙**
       - 石塚知生:Programming & Keyboards
       - [林部直樹](../Page/林部直樹.md "wikilink"):Guitar
-      - [山口寛雄](https://ja.wikipedia.org/wiki/山口寛雄 "wikilink"):[Bass](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+      - [山口寛雄](https://ja.wikipedia.org/wiki/山口寛雄 "wikilink"):[Bass](../Page/ベース_\(弦楽器\).md "wikilink")
       - Ko-saku:Chorus
   - **【AOZORA】**
       - [佐藤泰将](https://ja.wikipedia.org/wiki/佐藤泰将 "wikilink"):Programming & Keyborads
       - 梶原順:Guitar
       - 加勢達:Bass
       - 渡嘉敷祐一:[Drums](../Page/ドラムセット.md "wikilink")
-      - [中西康晴](https://ja.wikipedia.org/wiki/中西康晴 "wikilink"):[Acoustic Piano](../Page/ピアノ.md "wikilink")
+      - [中西康晴](../Page/中西康晴.md "wikilink"):[Acoustic Piano](../Page/ピアノ.md "wikilink")
       - [平原まこと](../Page/平原まこと.md "wikilink"):[Saxphone](../Page/サクソフォーン.md "wikilink")
       - 藤田乙比古:[Horn](../Page/ホルン.md "wikilink")
       - 萩原顕彰:Horn
@@ -113,7 +113,7 @@
   - **キミハカルマ**
       - 家原正樹:Programming, Keyboards & Guitar
       - 小田原友洋:Chorus
-      - [浦嶋りんこ](https://ja.wikipedia.org/wiki/浦嶋りんこ "wikilink"):Chorus
+      - [浦嶋りんこ](../Page/浦嶋りんこ.md "wikilink"):Chorus
   - **Love Me More**
       - [ha-j](https://ja.wikipedia.org/wiki/ha-j "wikilink"):[All Instrumental](../Page/楽器.md "wikilink")
       - 亜美:Chorus
@@ -124,9 +124,9 @@
       - 知野芳彦:Guitar
       - 後藤勇一郎ストリングス:Strings
   - **ビロードの闇**
-      - [CHOKKAKU](https://ja.wikipedia.org/wiki/CHOKKAKU "wikilink"):Programming, Keyboards & Guitar
-      - [種子田健](https://ja.wikipedia.org/wiki/種子田健 "wikilink"):Bass
-      - [佐藤芳明](https://ja.wikipedia.org/wiki/佐藤芳明 "wikilink"):[Accordion](https://ja.wikipedia.org/wiki/アコーディオン "wikilink")
+      - [CHOKKAKU](../Page/CHOKKAKU.md "wikilink"):Programming, Keyboards & Guitar
+      - [種子田健](../Page/種子田健.md "wikilink"):Bass
+      - [佐藤芳明](https://ja.wikipedia.org/wiki/佐藤芳明 "wikilink"):[Accordion](../Page/アコーディオン.md "wikilink")
       - RUSH by 加藤高志:Strings
       - Ko-saku:Chorus
   - **ダイヤモンド・ストーリー**
@@ -138,7 +138,7 @@
       - 長岡成貢:Programming & Keyboards
       - Adrian Bergerac:Guitar
       - Carios Martino:Drums
-      - [宮崎隆睦](https://ja.wikipedia.org/wiki/宮崎隆睦 "wikilink"):Saxphone
+      - [宮崎隆睦](../Page/宮崎隆睦.md "wikilink"):Saxphone
       - 松下誠:Chorus
       - [笠松美樹](https://ja.wikipedia.org/wiki/笠松美樹 "wikilink"):Chorus
   - **未完のラブ・ソング**

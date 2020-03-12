@@ -1,11 +1,11 @@
 > この記事は[D album](https://ja.wikipedia.org/wiki/D_album)から翻訳されています。
 
 
-『**D album**』（ディー・アルバム）は、[KinKi Kidsの](../Page/KinKi_Kids.md "wikilink")4枚目の[オリジナル・アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。[2000年](../Page/2000年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")発売。発売元は[ジャニーズ・エンタテイメント](https://ja.wikipedia.org/wiki/ジャニーズ・エンタテイメント "wikilink")
+『**D album**』（ディー・アルバム）は、[KinKi Kidsの](../Page/KinKi_Kids.md "wikilink")4枚目の[オリジナル・アルバム](../Page/スタジオ・アルバム.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")発売。発売元は[ジャニーズ・エンタテイメント](../Page/ジャニーズ・エンタテイメント.md "wikilink")
 
 ## 解説
 
-この年[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[KinKi Single Selection](../Page/KinKi_Single_Selection.md "wikilink")』のリリースもあり、オリジナルアルバムのリリースは前作『[C album](../Page/C_album.md "wikilink")』から約1年4ヶ月ぶりとなった。
+この年[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[KinKi Single Selection](../Page/KinKi_Single_Selection.md "wikilink")』のリリースもあり、オリジナルアルバムのリリースは前作『[C album](../Page/C_album.md "wikilink")』から約1年4ヶ月ぶりとなった。
 
 ベストアルバム発売を機に、「夏の王様／もう君以外愛せない」からは作品の[プロデュース](https://ja.wikipedia.org/wiki/プロデュース "wikilink")をKinKi Kids自ら担当し、本作以降一貫してセルフプロデュースとなっている。本作でも堂本剛と堂本光一のソロ曲を1曲ずつ収録している。セルフプロデュースにあたって、光一は[アレンジや](../Page/編曲.md "wikilink")[ミクスチャー](https://ja.wikipedia.org/wiki/ミクスチャー "wikilink")に積極的に関わったが、剛はそもそもセルフプロデュースであることを知らなかったらしく、名義的にはKinKi Kidsだが、実際は光一が主に動いていた模様。次作からは剛もプロデュースに関与している。
 
@@ -18,11 +18,11 @@
 2.  **Back Fire**
     （作詞:[戸沢暢美](https://ja.wikipedia.org/wiki/戸沢暢美 "wikilink")　作曲・編曲:[石塚知生](../Page/石塚知生.md "wikilink")　コーラスレンジ:[岩田雅之](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink")）
 3.  **[夏の王様](https://ja.wikipedia.org/wiki/夏の王様/もう君以外愛せない "wikilink")**
-    （作詞:[康珍化](https://ja.wikipedia.org/wiki/康珍化 "wikilink") 作曲：[羽田一郎](https://ja.wikipedia.org/wiki/羽田一郎 "wikilink")　編曲:[船山基紀](https://ja.wikipedia.org/wiki/船山基紀 "wikilink")）
+    （作詞:[康珍化](../Page/康珍化.md "wikilink") 作曲：[羽田一郎](../Page/羽田一郎.md "wikilink")　編曲:[船山基紀](../Page/船山基紀.md "wikilink")）
       -
         10thシングルの1曲目。
 4.  **Misty**
-    （作詞・作曲:[堂島孝平](https://ja.wikipedia.org/wiki/堂島孝平 "wikilink")　編曲:[CHOKKAKU](https://ja.wikipedia.org/wiki/CHOKKAKU "wikilink")）
+    （作詞・作曲:[堂島孝平](../Page/堂島孝平.md "wikilink")　編曲:[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")）
       -
         自身のベストアルバム『[39](../Page/39_\(KinKi_Kidsのアルバム\).md "wikilink")』にも収録されている。
 5.  **エンジェル**
@@ -44,7 +44,7 @@
 11. **KinKi Kids forever**
     （作詞・作曲・編曲:[Jonas Saeed](https://ja.wikipedia.org/wiki/ジョナス・サエード "wikilink")　日本語詞:[尾上一平](https://ja.wikipedia.org/wiki/尾上一平 "wikilink")）
       -
-        堂本剛・堂本光一出演の[森永製菓](https://ja.wikipedia.org/wiki/森永製菓 "wikilink")「ダース」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。
+        堂本剛・堂本光一出演の[森永製菓](https://ja.wikipedia.org/wiki/森永製菓 "wikilink")「ダース」[CMソング](../Page/コマーシャルソング.md "wikilink")。
         CMは本作収録前から放映されていた。当初のバージョンは全[英語](../Page/英語.md "wikilink")詞だったが、フルバージョンとして製作・収録するにあたり、[日本語](../Page/日本語.md "wikilink")詞が書き加えられている。楽曲自体は本作のみ収録であり、全英語詞のバージョンは[2007年](../Page/2007年.md "wikilink")[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")『39』に収録されている。なお、コンサートなどでは披露されている。
 12. **[もう君以外愛せない](https://ja.wikipedia.org/wiki/夏の王様/もう君以外愛せない#収録曲 "wikilink")**
     （作詞・作曲:[周水](https://ja.wikipedia.org/wiki/周水 "wikilink") ([canna](https://ja.wikipedia.org/wiki/Canna_\(音楽グループ\) "wikilink"))　編曲:重実徹）

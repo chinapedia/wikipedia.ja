@@ -53,7 +53,7 @@
 <td><p>Dance with me</p></td>
 <td><p><a href="../Page/CHEMISTRY.md" title="wikilink">CHEMISTRY</a></p></td>
 <td><ul>
-<li>シングル『<a href="../Page/キミがいる_(CHEMISTRYの曲).md" title="wikilink">キミがいる</a>』（2005年2月）のカップリングに収録。韓国の歌手、<a href="https://ja.wikipedia.org/wiki/リナ・パーク" title="wikilink">リナ・パーク</a>をフィーチャーし、韓国語と日本語が混ざった歌詞になっている。</li>
+<li>シングル『<a href="../Page/キミがいる_(CHEMISTRYの曲).md" title="wikilink">キミがいる</a>』（2005年2月）のカップリングに収録。韓国の歌手、<a href="../Page/リナ・パーク.md" title="wikilink">リナ・パーク</a>をフィーチャーし、韓国語と日本語が混ざった歌詞になっている。</li>
 <li>アルバム『<a href="https://ja.wikipedia.org/wiki/fo(u)r" title="wikilink">fo(u)r</a>』（2005年11月）に収録。作詞を担当した<a href="../Page/EAST_END.md" title="wikilink">EAST ENDのGAKU</a>-MCをフィーチャーしている。[1]</li>
 </ul></td>
 </tr>

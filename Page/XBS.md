@@ -1,7 +1,7 @@
 > この記事は[XBS](https://ja.wikipedia.org/wiki/XBS)から翻訳されています。
 
 
-**XBS**（エックスビーエス 本名：深見 展啓（ふかみ のぶひろ））は、[日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。[NITRO MICROPHONE UNDERGROUNDのメンバーとして知られる](https://ja.wikipedia.org/wiki/NITRO_MICROPHONE_UNDERGROUND "wikilink")。
+**XBS**（エックスビーエス 本名：深見 展啓（ふかみ のぶひろ））は、[日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。[NITRO MICROPHONE UNDERGROUNDのメンバーとして知られる](../Page/NITRO_MICROPHONE_UNDERGROUND.md "wikilink")。
 
 ## 概要
 
@@ -62,12 +62,12 @@
 <li>Under The Ground feat. <a href="../Page/MIKRIS.md" title="wikilink">MIKRIS</a></li>
 <li>In The House</li>
 <li>Hey! Deejay!</li>
-<li>Gaaacho feat. <a href="https://ja.wikipedia.org/wiki/MACKA-CHIN" title="wikilink">MACKA-CHIN</a></li>
+<li>Gaaacho feat. <a href="../Page/MACKA-CHIN.md" title="wikilink">MACKA-CHIN</a></li>
 <li>Skit</li>
 <li>Life -In Memory-</li>
 <li>One</li>
 <li>Skit</li>
-<li>Extra Negotiation Pt.2 feat. <a href="https://ja.wikipedia.org/wiki/S-WORD" title="wikilink">S-WORD</a></li>
+<li>Extra Negotiation Pt.2 feat. <a href="../Page/S-WORD.md" title="wikilink">S-WORD</a></li>
 <li>You Don't Understand feat. MACKA-CHIN</li>
 <li>Respect Yourself</li>
 <li>Rond</li>
@@ -129,7 +129,7 @@
 </div>
 <div class="NavContent">
 <ol>
-<li>ALL DAY ALL NIGHT feat.<a href="https://ja.wikipedia.org/wiki/Tina" title="wikilink">Tina</a></li>
+<li>ALL DAY ALL NIGHT feat.<a href="../Page/Tina.md" title="wikilink">Tina</a></li>
 <li>ONE REMIX feat.BIGZAM,<a href="../Page/DELI.md" title="wikilink">DELI</a>,<a href="../Page/DABO.md" title="wikilink">DABO</a>,<a href="https://ja.wikipedia.org/wiki/GORE-TEX_(ミュージシャン)" title="wikilink">GORE-TEX</a></li>
 <li>IN THE HOUSE <a href="../Page/DEV_LARGE.md" title="wikilink">D.L.REMIX</a></li>
 <li>HEY! DEEJAY! <a href="../Page/DJ_MASTERKEY.md" title="wikilink">DJ MASTERKEY</a> REMIX</li>
@@ -159,7 +159,7 @@
 <td><p>15</p></td>
 <td><p><strong>適当強盗 a.k.a 春夏秋冬<br />
 <small>feat. S-WORD, XBS, DABO, BIGZAM, GORE-TEX, SUIKEN, DELI</small></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/MACKA-CHIN" title="wikilink">MACKA-CHIN</a></p></td>
+<td><p><a href="../Page/MACKA-CHIN.md" title="wikilink">MACKA-CHIN</a></p></td>
 <td><p><strong>CHIN ATTACK</strong></p></td>
 </tr>
 <tr class="even">
@@ -173,14 +173,14 @@
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a>6月5日</p></td>
 <td><p>5</p></td>
 <td><p><strong>EXTRA NEGOTIATION <small>feat.XBS</small></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/S-WORD" title="wikilink">S-WORD</a></p></td>
+<td><p><a href="../Page/S-WORD.md" title="wikilink">S-WORD</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ONE_PIECE_(S-WORDのアルバム)" title="wikilink">ONE PIECE</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a>2月26日</p></td>
 <td><p>2</p></td>
 <td><p><strong>What's on your mind <small>feat.XBS</small></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SUITE_CHIC" title="wikilink">SUITE CHIC</a></p></td>
+<td><p><a href="../Page/SUITE_CHIC.md" title="wikilink">SUITE CHIC</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/WHEN_POP_HITS_THE_FAN" title="wikilink">WHEN POP HITS THE FAN</a></strong></p></td>
 </tr>
 <tr class="odd">
@@ -194,7 +194,7 @@
 <td><p>2003年10月8日</p></td>
 <td><p>6</p></td>
 <td><p><strong>カラクリ <small>feat.XBS</small></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/AQUARIUS_(音楽ユニット)" title="wikilink">AQUARIUS</a></p></td>
+<td><p><a href="../Page/AQUARIUS_(音楽ユニット).md" title="wikilink">AQUARIUS</a></p></td>
 <td><p><strong>オボレタ街</strong></p></td>
 </tr>
 <tr class="odd">
@@ -205,14 +205,14 @@
 <td><p><strong>JOURNEY OF FORESIGHT</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a>7月20日</p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a>7月20日</p></td>
 <td><p>11</p></td>
 <td><p><strong>Newyorkin'in T.K.O.<small>feat.BIG-O,XBS</small></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/MURO" title="wikilink">MURO</a></p></td>
+<td><p><a href="../Page/MURO.md" title="wikilink">MURO</a></p></td>
 <td><p><strong>20 Street Years</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a>3月15日</p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a>3月15日</p></td>
 <td><p>4</p></td>
 <td><p><strong>DOIT <small>feat.CHIEF LOW,XBS</small></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/MONTIEN" title="wikilink">MONTIEN</a></p></td>
@@ -221,7 +221,7 @@
 <tr class="even">
 <td><p>2006年7月26日</p></td>
 <td><p>3</p></td>
-<td><p><strong>NIGHT RIDERS <small>feat.<a href="https://ja.wikipedia.org/wiki/NITRO_MICROPHONE_UNDERGROUND" title="wikilink">NITRO MICROPHONE UNDERGROUND</a></small></strong></p></td>
+<td><p><strong>NIGHT RIDERS <small>feat.<a href="../Page/NITRO_MICROPHONE_UNDERGROUND.md" title="wikilink">NITRO MICROPHONE UNDERGROUND</a></small></strong></p></td>
 <td><p><a href="../Page/SUIKEN.md" title="wikilink">SUIKEN</a></p></td>
 <td><p><strong>HOT IN POT</strong></p></td>
 </tr>

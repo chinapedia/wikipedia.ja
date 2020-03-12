@@ -5,7 +5,7 @@
 
 ## 来歴
 
-1994年、[ジャマイカ](../Page/ジャマイカ.md "wikilink")を訪問したことをきっかけに帰国後[DJとしての活動を開始](../Page/ディスクジョッキー.md "wikilink")。同年7インチシングル『現場至上主義』でデビュー。 その後[NG HEAD](https://ja.wikipedia.org/wiki/NG_HEAD "wikilink")、[PUSHIM](https://ja.wikipedia.org/wiki/PUSHIM "wikilink")らとTokiwa Dem Crew結成するも1999年、Tokiwa Dem Crewは発展的解散。同年[Sugar Soulや](https://ja.wikipedia.org/wiki/Sugar_Soul "wikilink")[Ram Jam Worldへの客演を機に注目を集め](https://ja.wikipedia.org/wiki/Ram_Jam_World "wikilink")、2000年『SUNNY DAY WALK』で[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")より[メジャーデビュー](https://ja.wikipedia.org/wiki/メジャーデビュー "wikilink")。同時に活動の拠点を東京へと移す。 [2004年](../Page/2004年.md "wikilink")自身の[レーベル](../Page/レコードレーベル.md "wikilink")[BUSH HUNTER MUSIC設立](https://ja.wikipedia.org/wiki/BUSH_HUNTER_MUSIC "wikilink")。 2006年[riddim zoneに移籍](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。同年より2010年現在まで渋谷の[クラブ](https://ja.wikipedia.org/wiki/ディスコ "wikilink")、[キャメロットコート](https://ja.wikipedia.org/wiki/キャメロットコート "wikilink")にて毎月Rockers Paradiseを主催。
+1994年、[ジャマイカ](../Page/ジャマイカ.md "wikilink")を訪問したことをきっかけに帰国後[DJとしての活動を開始](../Page/ディスクジョッキー.md "wikilink")。同年7インチシングル『現場至上主義』でデビュー。 その後[NG HEAD](https://ja.wikipedia.org/wiki/NG_HEAD "wikilink")、[PUSHIM](https://ja.wikipedia.org/wiki/PUSHIM "wikilink")らとTokiwa Dem Crew結成するも1999年、Tokiwa Dem Crewは発展的解散。同年[Sugar Soulや](https://ja.wikipedia.org/wiki/Sugar_Soul "wikilink")[Ram Jam Worldへの客演を機に注目を集め](../Page/Ram_Jam_World.md "wikilink")、2000年『SUNNY DAY WALK』で[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")より[メジャーデビュー](https://ja.wikipedia.org/wiki/メジャーデビュー "wikilink")。同時に活動の拠点を東京へと移す。 [2004年](../Page/2004年.md "wikilink")自身の[レーベル](../Page/レコードレーベル.md "wikilink")[BUSH HUNTER MUSIC設立](https://ja.wikipedia.org/wiki/BUSH_HUNTER_MUSIC "wikilink")。 2006年[riddim zoneに移籍](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。同年より2010年現在まで渋谷の[クラブ](../Page/ディスコ.md "wikilink")、[キャメロットコート](https://ja.wikipedia.org/wiki/キャメロットコート "wikilink")にて毎月Rockers Paradiseを主催。
 
 ## 人物
 
@@ -28,10 +28,10 @@
 | 4th  | [2002年](../Page/2002年.md "wikilink")[5月22日](../Page/5月22日.md "wikilink")                    | **[GUERRILLA MONSTER/連勝マイク](https://ja.wikipedia.org/wiki/GUERRILLA_MONSTER/連勝マイク "wikilink")**                                       | 89位 | <WPC6-70003> |                                                                                     |
 | 5th  | [2002年](../Page/2002年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")                    | **[From Distance](https://ja.wikipedia.org/wiki/From_Distance "wikilink")**                                                           | 63位 | <WPC6-70007> | [PUSHIM](https://ja.wikipedia.org/wiki/PUSHIM "wikilink")とのコラボシングル。                 |
 | 6th  | [2002年](../Page/2002年.md "wikilink")[11月7日](../Page/11月7日.md "wikilink")                    | **[FREE](https://ja.wikipedia.org/wiki/FREE_\(RYO_the_SKYWALKER\) "wikilink")**                                                       | 90位 | <WPC6-70009> | アルバムからのリカット                                                                         |
-| 7th  | [2003年](../Page/2003年.md "wikilink")[7月9日](../Page/7月9日.md "wikilink")                      | **[BUSH HUNTER](https://ja.wikipedia.org/wiki/BUSH_HUNTER "wikilink")**                                                               | 67位 | <WPCL-10017> | [スライ&ロビー](https://ja.wikipedia.org/wiki/スライ&ロビー "wikilink")プロデュース                   |
+| 7th  | [2003年](../Page/2003年.md "wikilink")[7月9日](../Page/7月9日.md "wikilink")                      | **[BUSH HUNTER](https://ja.wikipedia.org/wiki/BUSH_HUNTER "wikilink")**                                                               | 67位 | <WPCL-10017> | [スライ&ロビー](../Page/スライ&ロビー.md "wikilink")プロデュース                                      |
 | 8th  | [2004年](../Page/2004年.md "wikilink")[11月17日](../Page/11月17日.md "wikilink")                  | **[Gimmi Ur Vibes](https://ja.wikipedia.org/wiki/Gimmi_Ur_Vibes "wikilink")**                                                         | 71位 | <BHMW-3001>  |                                                                                     |
-| 9th  | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[5月25日](../Page/5月25日.md "wikilink") | **[Seize The Day](https://ja.wikipedia.org/wiki/Seize_The_Day "wikilink")**                                                           | 47位 | <BHMW-3002>  |                                                                                     |
-| 10th | [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[8月2日](../Page/8月2日.md "wikilink")   | **[晴れわたる丘](https://ja.wikipedia.org/wiki/晴れわたる丘 "wikilink")**                                                                         | 27位 | <RZCD-45428> | ミュージックビデオに[窪塚洋介](../Page/窪塚洋介.md "wikilink")・[派谷恵美](../Page/派谷恵美.md "wikilink")が出演。 |
+| 9th  | [2005年](../Page/2005年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")                    | **[Seize The Day](https://ja.wikipedia.org/wiki/Seize_The_Day "wikilink")**                                                           | 47位 | <BHMW-3002>  |                                                                                     |
+| 10th | [2006年](../Page/2006年.md "wikilink")[8月2日](../Page/8月2日.md "wikilink")                      | **[晴れわたる丘](https://ja.wikipedia.org/wiki/晴れわたる丘 "wikilink")**                                                                         | 27位 | <RZCD-45428> | ミュージックビデオに[窪塚洋介](../Page/窪塚洋介.md "wikilink")・[派谷恵美](../Page/派谷恵美.md "wikilink")が出演。 |
 | 11th | [2007年](../Page/2007年.md "wikilink")[4月18日](../Page/4月18日.md "wikilink")                    | **[おはようJAPAN](https://ja.wikipedia.org/wiki/おはようJAPAN "wikilink")**                                                                   | 26位 | <RZCD-45550> | 「RYO the SKYWALKER & [トータス松本](../Page/トータス松本.md "wikilink")」名義。                     |
 | 12th | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月25日](../Page/6月25日.md "wikilink") | **[EVER GREEN/Pon De Floor-UZZER BEATS remix-](https://ja.wikipedia.org/wiki/EVER_GREEN/Pon_De_Floor-UZZER_BEATS_remix- "wikilink")** | 40位 | <RZCD-45909> |                                                                                     |
 
@@ -58,17 +58,17 @@
 | 9th  | [2003年](../Page/2003年.md "wikilink")[12月6日](../Page/12月6日.md "wikilink")                      | **Get On The Train/クネクネBOUNCE**   | <BHM-7020>  |                                                                                                                               |
 | 10th | [2004年](../Page/2004年.md "wikilink")[11月2日](../Page/11月2日.md "wikilink")                      | **Gimmi Ur Vibes**                | <BHM-7022>  | Sly Dumbarが打ち込み、ギターにMickey Chang、キーボードにComputer Paulが参加。                                                                      |
 | 11th | [2004年](../Page/2004年.md "wikilink")[11月2日](../Page/11月2日.md "wikilink")                      | **Survival**                      | <BHM-7023 > |                                                                                                                               |
-| 12th | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月22日](../Page/4月22日.md "wikilink")   | **Seize The Day**                 | <BHM-7024>  |                                                                                                                               |
-| 13th | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月22日](../Page/4月22日.md "wikilink")   | **to the future**                 | <BHM-7025>  |                                                                                                                               |
-| 14th | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月1日](../Page/7月1日.md "wikilink")     | **Burn Sky/Iko×Iko**              | <BHM-7026>  | [プロモーションビデオ](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")に[小桜セレナ](https://ja.wikipedia.org/wiki/小桜セレナ "wikilink")が出演。 |
-| 15th | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月30日](../Page/9月30日.md "wikilink")   | **Thunder Roll**                  | <BHM-7027>  | [Mighty Jam RockよりTakafinが参加](https://ja.wikipedia.org/wiki/Mighty_Jam_Rock "wikilink")。                                      |
-| 16th | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月30日](../Page/9月30日.md "wikilink")   | **Ja-Ja Links**                   | <BHM-7028>  | トラックはクリストファー・バーチ。                                                                                                             |
-| 17th | [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月21日](../Page/7月21日.md "wikilink")   | **晴れわたる丘**                        | <BHM-7030>  | トラックは大阪のAkioが担当、BassにTanco for Home Grown、ギターにNodatinを迎えた。                                                                    |
-| 18th | [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月21日](../Page/7月21日.md "wikilink")   | **Marching For Freedom**          | <BHM-7031>  |                                                                                                                               |
-| 19th | [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月20日](../Page/10月20日.md "wikilink") | **Perspire**                      | <BHM-7032>  |                                                                                                                               |
-| 20th | [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月20日](../Page/10月20日.md "wikilink") | **Body Talk/Raggamuffin Danddie** | <BHM-7034>  | 「Raggamuffin Danddie」はPETER MANによる楽曲。                                                                                         |
-| 21st | [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月1日](../Page/12月1日.md "wikilink")   | **Discovery/Guidance**            | <BHM-7035>  | 「Guidance」はKing-K\&DANによる楽曲。                                                                                                  |
-| 22nd | [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月1日](../Page/12月1日.md "wikilink")   | **I-Grade No.1/遅刻常習犯**            | <BHM-7037>  | 「遅刻常習犯」は PROFESSOR CHINNEN\&MAYA-BEEによる楽曲。                                                                                    |
+| 12th | [2005年](../Page/2005年.md "wikilink")[4月22日](../Page/4月22日.md "wikilink")                      | **Seize The Day**                 | <BHM-7024>  |                                                                                                                               |
+| 13th | [2005年](../Page/2005年.md "wikilink")[4月22日](../Page/4月22日.md "wikilink")                      | **to the future**                 | <BHM-7025>  |                                                                                                                               |
+| 14th | [2005年](../Page/2005年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")                        | **Burn Sky/Iko×Iko**              | <BHM-7026>  | [プロモーションビデオ](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")に[小桜セレナ](https://ja.wikipedia.org/wiki/小桜セレナ "wikilink")が出演。 |
+| 15th | [2005年](../Page/2005年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")                      | **Thunder Roll**                  | <BHM-7027>  | [Mighty Jam RockよりTakafinが参加](../Page/Mighty_Jam_Rock.md "wikilink")。                                                         |
+| 16th | [2005年](../Page/2005年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")                      | **Ja-Ja Links**                   | <BHM-7028>  | トラックはクリストファー・バーチ。                                                                                                             |
+| 17th | [2006年](../Page/2006年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")                      | **晴れわたる丘**                        | <BHM-7030>  | トラックは大阪のAkioが担当、BassにTanco for Home Grown、ギターにNodatinを迎えた。                                                                    |
+| 18th | [2006年](../Page/2006年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")                      | **Marching For Freedom**          | <BHM-7031>  |                                                                                                                               |
+| 19th | [2006年](../Page/2006年.md "wikilink")[10月20日](../Page/10月20日.md "wikilink")                    | **Perspire**                      | <BHM-7032>  |                                                                                                                               |
+| 20th | [2006年](../Page/2006年.md "wikilink")[10月20日](../Page/10月20日.md "wikilink")                    | **Body Talk/Raggamuffin Danddie** | <BHM-7034>  | 「Raggamuffin Danddie」はPETER MANによる楽曲。                                                                                         |
+| 21st | [2006年](../Page/2006年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")                      | **Discovery/Guidance**            | <BHM-7035>  | 「Guidance」はKing-K\&DANによる楽曲。                                                                                                  |
+| 22nd | [2006年](../Page/2006年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")                      | **I-Grade No.1/遅刻常習犯**            | <BHM-7037>  | 「遅刻常習犯」は PROFESSOR CHINNEN\&MAYA-BEEによる楽曲。                                                                                    |
 | 23rd | [2007年](../Page/2007年.md "wikilink")[4月13日](../Page/4月13日.md "wikilink")                      | **おはようJAPAN**                     | <BHM-7039>  |                                                                                                                               |
 | 24th | [2007年](../Page/2007年.md "wikilink")[4月13日](../Page/4月13日.md "wikilink")                      | **Solid Ground -Bingi 2007-**     | <BHM-7040>  |                                                                                                                               |
 | 25th | [2007年](../Page/2007年.md "wikilink")[6月8日](../Page/6月8日.md "wikilink")                        | **忘れておしまい**                       | <BHM-7041>  | [ケン田村](https://ja.wikipedia.org/wiki/ケン田村 "wikilink")が80年代に歌った楽曲のレゲエ・アレンジ。                                                    |
@@ -154,14 +154,14 @@ volume2：<WQJB-1048></p></td>
 </tr>
 <tr class="odd">
 <td><p>9th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/9月30日.md" title="wikilink">9月30日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/9月30日.md" title="wikilink">9月30日</a></p></td>
 <td><p><strong>Day-Oh/Hide&amp;Seek/One Word</strong></p></td>
 <td><p><BHM-7029></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>10th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/6月7日.md" title="wikilink">6月7日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/6月7日.md" title="wikilink">6月7日</a></p></td>
 <td><p><strong>Ragga Jet</strong></p></td>
 <td><p><NLP-1034 ></p></td>
 <td></td>
@@ -216,7 +216,7 @@ volume2：<WQJB-1048></p></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/7月6日.md" title="wikilink">7月6日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/7月6日.md" title="wikilink">7月6日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/COME_HOME" title="wikilink">COME HOME</a></strong></p></td>
 <td><p>23位</p></td>
 <td><p><BHMW-3003></p></td>
@@ -294,16 +294,16 @@ CD：<WPCL-10435></p></td>
 
 #### コンピレーションアルバム
 
-| 枚   | リリース日                                                                                         | タイトル                                                                                                | 最高位 | 型番           | 備考                               |
-| --- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | --- | ------------ | -------------------------------- |
-| 1st | [2003年](../Page/2003年.md "wikilink")[8月6日](../Page/8月6日.md "wikilink")                        | **[HOW TO HUNT IN THE BUSH](https://ja.wikipedia.org/wiki/HOW_TO_HUNT_IN_THE_BUSH "wikilink")**     | 48位 | <WPCL-10022> | 「RYO the SKYWALKER & FRIENDS」名義。 |
-| 2nd | [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月25日](../Page/10月25日.md "wikilink") | **[HOW TO HUNT IN THE BUSH 2](https://ja.wikipedia.org/wiki/HOW_TO_HUNT_IN_THE_BUSH_2 "wikilink")** | 35位 | <RZCD-45443> | 「RYO the SKYWALKER & FRIENDS」名義。 |
+| 枚   | リリース日                                                                      | タイトル                                                                                                | 最高位 | 型番           | 備考                               |
+| --- | -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | --- | ------------ | -------------------------------- |
+| 1st | [2003年](../Page/2003年.md "wikilink")[8月6日](../Page/8月6日.md "wikilink")     | **[HOW TO HUNT IN THE BUSH](https://ja.wikipedia.org/wiki/HOW_TO_HUNT_IN_THE_BUSH "wikilink")**     | 48位 | <WPCL-10022> | 「RYO the SKYWALKER & FRIENDS」名義。 |
+| 2nd | [2006年](../Page/2006年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink") | **[HOW TO HUNT IN THE BUSH 2](https://ja.wikipedia.org/wiki/HOW_TO_HUNT_IN_THE_BUSH_2 "wikilink")** | 35位 | <RZCD-45443> | 「RYO the SKYWALKER & FRIENDS」名義。 |
 
 ### DVD
 
 | 枚   | リリース日                                                                                       | タイトル                                                                                                                                                                                  | 最高位 | 型番           | 備考 |
 | --- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | ------------ | -- |
-| 1st | [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[8月2日](../Page/8月2日.md "wikilink")   | **["COME HOME TOUR 2005" Fianl at Osaka Big Cat](https://ja.wikipedia.org/wiki/"COME_HOME_TOUR_2005"_Fianl_at_Osaka_Big_Cat "wikilink")**                                             | 31位 | <RZBD-45429> |    |
+| 1st | [2006年](../Page/2006年.md "wikilink")[8月2日](../Page/8月2日.md "wikilink")                      | **["COME HOME TOUR 2005" Fianl at Osaka Big Cat](https://ja.wikipedia.org/wiki/"COME_HOME_TOUR_2005"_Fianl_at_Osaka_Big_Cat "wikilink")**                                             | 31位 | <RZBD-45429> |    |
 | 2nd | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月25日](../Page/6月25日.md "wikilink") | **[ONE DER LAND TOUR 2007](https://ja.wikipedia.org/wiki/ONE_DER_LAND_TOUR_2007 "wikilink")**                                                                                         | 71位 | <RZBD-45908> |    |
 | 3rd | [2011年](../Page/2011年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")                    | **[RYO the SKYWALKER 10th ANNIVERSARY SPECIAL LIVE "RHYME-LIGHT 2010"](https://ja.wikipedia.org/wiki/RYO_the_SKYWALKER_10th_ANNIVERSARY_SPECIAL_LIVE_"RHYME-LIGHT_2010" "wikilink")** | 40位 | <RZBD-46695> |    |
 
@@ -313,9 +313,9 @@ CD：<WPCL-10435></p></td>
       - Ho-Oh Megami No Uta feat. RYO the SKYWALKER
   - [餓鬼レンジャー](https://ja.wikipedia.org/wiki/餓鬼レンジャー "wikilink")『UPPER JAM』（2001年9月5日）
       - 14\. UPPER JAM feat. RYO the SKYWALKER
-  - [CORN HEAD](https://ja.wikipedia.org/wiki/CORN_HEAD "wikilink")『DA CORN HEAD』（2002年11月20日）
+  - [CORN HEAD](../Page/CORN_HEAD.md "wikilink")『DA CORN HEAD』（2002年11月20日）
       - 9\. GUERRILLA MONSTER feat. RYO the SKYWALKER
-  - [RIP SLYME](https://ja.wikipedia.org/wiki/RIP_SLYME "wikilink")『[TIME TO GO](../Page/TIME_TO_GO.md "wikilink")』（2003年7月16日）
+  - [RIP SLYME](../Page/RIP_SLYME.md "wikilink")『[TIME TO GO](../Page/TIME_TO_GO.md "wikilink")』（2003年7月16日）
       - 1\. INTRODUCTION feat. RYO the SKYWALKER
   - [湘南乃風](../Page/湘南乃風.md "wikilink")『[湘南乃風〜REAL RIDERS〜](https://ja.wikipedia.org/wiki/湘南乃風〜REAL_RIDERS〜 "wikilink")』（2003年7月30日）
       - 6\. Another World feat. RYO the SKYWALKER
@@ -334,7 +334,7 @@ CD：<WPCL-10435></p></td>
       - 3\. あのコどこのコ feat. RYO the SKYWALKER
   - [SPICY CHOCOLATE](https://ja.wikipedia.org/wiki/SPICY_CHOCOLATE "wikilink")『東京RAGGA LOVERS』（2010年1月27日）
       - (DISC-1) 4. 「Bitter Sweet Ragga Remix feat. [傳田真央](https://ja.wikipedia.org/wiki/傳田真央 "wikilink") & RYO the SKYWALKER」
-  - [Zeebra](https://ja.wikipedia.org/wiki/Zeebra "wikilink")『Butterfly City Feat. Ryo The Skywalker, Mummy-D & DOUBLE』（2011年3月17日）
+  - [Zeebra](../Page/Zeebra.md "wikilink")『Butterfly City Feat. Ryo The Skywalker, Mummy-D & DOUBLE』（2011年3月17日）
       - 1.Butterfly City Feat. Ryo The Skywalker, Mummy-D & DOUBLE
   - [May J.](https://ja.wikipedia.org/wiki/May_J. "wikilink")『Believin'...』（2010年11月24日）
       - 2\. あの日があるから feat. RYO the SKYWALKER

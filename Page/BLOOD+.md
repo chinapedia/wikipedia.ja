@@ -8,22 +8,22 @@
 
 |- | colspan="2" style="padding: 0;"|
 
-| **小説** {{Infobox animanga/Novel | タイトル = BLOOD+ | 著者 = [池端亮](https://ja.wikipedia.org/wiki/池端亮 "wikilink") | イラスト = [箸井地図](../Page/箸井地図.md "wikilink") | 出版社 = 角川書店 | 他出版社 = | 掲載誌 = | レーベル = [角川スニーカー文庫](https://ja.wikipedia.org/wiki/角川スニーカー文庫 "wikilink") | 発行日 = | 発売日 = | 掲載号 = | 開始号 = | 終了号 = | 開始日 = | 終了日 = | 発表期間 = | 巻数 = 全4巻 | 話数 = | その他 = | インターネット = }} {{Infobox animanga/Novel | タイトル = BLOOD+ ロシアン・ローズ | 著者 = 漲月かりの | イラスト = [高城リョウ](https://ja.wikipedia.org/wiki/高城リョウ "wikilink") | 出版社 = 角川書店 | 他出版社 = | 掲載誌 = | レーベル = [角川ビーンズ文庫](https://ja.wikipedia.org/wiki/角川ビーンズ文庫 "wikilink") | 発行日 = | 発売日 = | 掲載号 = | 開始号 = | 終了号 = | 開始日 = | 終了日 = | 発表期間 = | 巻数 = 全2巻 | 話数 = | その他 = | インターネット = }} |
-| ------------------------------- | ------------- | -------------------------------------------------------- | ----------------------------------------- | ---------- | ------ | ----- | ---------------------------------------------------------------------- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ------ | -------- | ---- | ----- | ------------------------------------- | ---------------------- | ---------- | -------------------------------------------------------------- | ---------- | ------ | ----- | -------------------------------------------------------------------- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ------ | -------- | ---- | ----- | ------------ |
+| **小説** {{Infobox animanga/Novel | タイトル = BLOOD+ | 著者 = [池端亮](https://ja.wikipedia.org/wiki/池端亮 "wikilink") | イラスト = [箸井地図](../Page/箸井地図.md "wikilink") | 出版社 = 角川書店 | 他出版社 = | 掲載誌 = | レーベル = [角川スニーカー文庫](https://ja.wikipedia.org/wiki/角川スニーカー文庫 "wikilink") | 発行日 = | 発売日 = | 掲載号 = | 開始号 = | 終了号 = | 開始日 = | 終了日 = | 発表期間 = | 巻数 = 全4巻 | 話数 = | その他 = | インターネット = }} {{Infobox animanga/Novel | タイトル = BLOOD+ ロシアン・ローズ | 著者 = 漲月かりの | イラスト = [高城リョウ](https://ja.wikipedia.org/wiki/高城リョウ "wikilink") | 出版社 = 角川書店 | 他出版社 = | 掲載誌 = | レーベル = [角川ビーンズ文庫](../Page/角川ビーンズ文庫.md "wikilink") | 発行日 = | 発売日 = | 掲載号 = | 開始号 = | 終了号 = | 開始日 = | 終了日 = | 発表期間 = | 巻数 = 全2巻 | 話数 = | その他 = | インターネット = }} |
+| ------------------------------- | ------------- | -------------------------------------------------------- | ----------------------------------------- | ---------- | ------ | ----- | ---------------------------------------------------------------------- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ------ | -------- | ---- | ----- | ------------------------------------- | ---------------------- | ---------- | -------------------------------------------------------------- | ---------- | ------ | ----- | ------------------------------------------------- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ------ | -------- | ---- | ----- | ------------ |
 
-『**BLOOD+**』（ブラッドプラス）は、[Production I.G制作の](../Page/プロダクション・アイジー.md "wikilink")[アニメ](../Page/アニメ.md "wikilink")作品。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月8日](../Page/10月8日.md "wikilink")（一部地域は[10月15日](../Page/10月15日.md "wikilink")）から[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月23日](../Page/9月23日.md "wikilink")（一部地域は[9月30日](../Page/9月30日.md "wikilink")）まで[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")・[TBS系列で放送された](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")。略称は「血+（BLOODの訳が「血」であることから）」「B+」「ブラプラ」。小説や漫画も出ているが、多少内容は異なる。
+『**BLOOD+**』（ブラッドプラス）は、[Production I.G制作の](../Page/プロダクション・アイジー.md "wikilink")[アニメ](../Page/アニメ.md "wikilink")作品。[2005年](../Page/2005年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink")（一部地域は[10月15日](../Page/10月15日.md "wikilink")）から[2006年](../Page/2006年.md "wikilink")[9月23日](../Page/9月23日.md "wikilink")（一部地域は[9月30日](../Page/9月30日.md "wikilink")）まで[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")・[TBS系列で放送された](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")。略称は「血+（BLOODの訳が「血」であることから）」「B+」「ブラプラ」。小説や漫画も出ているが、多少内容は異なる。
 
 ## 作品概要
 
-2000年に劇場公開およびゲーム化されたBLOODシリーズ第1作『[BLOOD THE LAST VAMPIRE](https://ja.wikipedia.org/wiki/BLOOD_THE_LAST_VAMPIRE "wikilink")』の「少女が刀を使って翼手を斬る」というコンセプトはそのままに、キャラクターやストーリーを一新して製作された。『[機動戦士ガンダムSEED](../Page/機動戦士ガンダムSEED.md "wikilink")』、『[鋼の錬金術師](https://ja.wikipedia.org/wiki/鋼の錬金術師_\(アニメ\) "wikilink")』、『[機動戦士ガンダムSEED DESTINY](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_DESTINY "wikilink")』などの人気アニメ作品を連発する[毎日放送土曜6時枠](https://ja.wikipedia.org/wiki/毎日放送制作土曜夕方6時枠のアニメ "wikilink")、通称・**土6**の新作として話題を集める。作品上での謎が実際の歴史との関係が深く、奥深い作品となっている。
+2000年に劇場公開およびゲーム化されたBLOODシリーズ第1作『[BLOOD THE LAST VAMPIRE](https://ja.wikipedia.org/wiki/BLOOD_THE_LAST_VAMPIRE "wikilink")』の「少女が刀を使って翼手を斬る」というコンセプトはそのままに、キャラクターやストーリーを一新して製作された。『[機動戦士ガンダムSEED](../Page/機動戦士ガンダムSEED.md "wikilink")』、『[鋼の錬金術師](https://ja.wikipedia.org/wiki/鋼の錬金術師_\(アニメ\) "wikilink")』、『[機動戦士ガンダムSEED DESTINY](../Page/機動戦士ガンダムSEED_DESTINY.md "wikilink")』などの人気アニメ作品を連発する[毎日放送土曜6時枠](../Page/毎日放送制作土曜夕方6時枠のアニメ.md "wikilink")、通称・**土6**の新作として話題を集める。作品上での謎が実際の歴史との関係が深く、奥深い作品となっている。
 
-[メディアミックス](../Page/メディアミックス.md "wikilink")として、[小説](../Page/小説.md "wikilink")版・複数の[コミック版](https://ja.wikipedia.org/wiki/漫画 "wikilink")・[ゲーム](../Page/ゲーム.md "wikilink")版が存在する。[1993年](../Page/1993年.md "wikilink")開始の『[ムカムカパラダイス](https://ja.wikipedia.org/wiki/ムカムカパラダイス "wikilink")』から続いた[MBS土6枠最後の](https://ja.wikipedia.org/wiki/毎日放送制作土曜夕方6時枠のアニメ "wikilink")4クール（1年）作品である。
+[メディアミックス](../Page/メディアミックス.md "wikilink")として、[小説](../Page/小説.md "wikilink")版・複数の[コミック版](https://ja.wikipedia.org/wiki/漫画 "wikilink")・[ゲーム](../Page/ゲーム.md "wikilink")版が存在する。[1993年](../Page/1993年.md "wikilink")開始の『[ムカムカパラダイス](../Page/ムカムカパラダイス.md "wikilink")』から続いた[MBS土6枠最後の](../Page/毎日放送制作土曜夕方6時枠のアニメ.md "wikilink")4クール（1年）作品である。
 
 ストーリーは吸血生物・翼手との戦いや主人公・小夜の出生の謎を追いながら世界各国を巡る内容となっており、「**[沖縄](../Page/沖縄県.md "wikilink")**」編（第1話 - 第7話、第14話、第15話）、「**[ベトナム](https://ja.wikipedia.org/wiki/ベトナム "wikilink")**」編（第8話 - 第13話）、「**[ロシア](../Page/ロシア.md "wikilink")**」編（第16話 - 第19話）、「**[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")**」編（第20話 - 第32話）、「**[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")**」編（第33話 - 第40話）、「**[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")**」編（第41話 - 最終話）に分けられる。
 
 さらに大きく分けると2部構成になっており、小夜とハジの沖縄での出会いから赤い盾崩壊までを描いた**第1部**、そしてその1年後の戦いを描いた**第2部**に分けられる。人間の血液を栄養源にする翼手、長い眠りに就く翼手の女王、日光を浴びられないシフなど、[吸血鬼](../Page/吸血鬼.md "wikilink")をモチーフにした部分が幾つか見受けられる。
 
-小夜の住む沖縄の[米軍基地](https://ja.wikipedia.org/wiki/米軍基地 "wikilink")問題やそれに伴う[日米地位協定](https://ja.wikipedia.org/wiki/日米地位協定 "wikilink")、アメリカの[軍産複合体](https://ja.wikipedia.org/wiki/軍産複合体 "wikilink")などの抱える問題についても、ストーリーで採り上げられている。
+小夜の住む沖縄の[米軍基地](https://ja.wikipedia.org/wiki/米軍基地 "wikilink")問題やそれに伴う[日米地位協定](../Page/日米地位協定.md "wikilink")、アメリカの[軍産複合体](../Page/軍産複合体.md "wikilink")などの抱える問題についても、ストーリーで採り上げられている。
 
 当初、スタッフの間では第1作から絵柄や世界観を変えることに対する不安もあったという\[3\]。しかし放送が開始されると、第1作の支持層が男性中心であったのに対して本作では女性層からの大きな反響があり、商業的には成功を収めることとなった\[4\]。
 
@@ -44,28 +44,28 @@ D67を追う「赤い盾」は、その出所が[ベトナム](https://ja.wikipe
 ## 登場人物
 
   - 音無 小夜（おとなし さや）
-    声 - [喜多村英梨](https://ja.wikipedia.org/wiki/喜多村英梨 "wikilink")
+    声 - [喜多村英梨](../Page/喜多村英梨.md "wikilink")
     本作の主人公。沖縄のコザで血の繋がらない家族と共に暮らしていたが、翼手との遭遇を機に過酷な運命に身を投じていく。
   - ハジ
-    声 - [小西克幸](https://ja.wikipedia.org/wiki/小西克幸 "wikilink")
+    声 - [小西克幸](../Page/小西克幸.md "wikilink")
     チェロを携えた寡黙な美青年。短剣とチェロケースを駆使して小夜の戦闘をサポートする。異形の右手を持つ。
   - 宮城 カイ（みやぐすく カイ）
-    声 - [吉野裕行](https://ja.wikipedia.org/wiki/吉野裕行 "wikilink")
+    声 - [吉野裕行](../Page/吉野裕行.md "wikilink")
     小夜の義兄。短慮で粗暴な少年だったが、小夜と翼手との戦いに巻き込まれていき、様々な経験を経て成長していく。
   - 宮城 リク（みやぐすく リク）
     声 - [矢島晶子](../Page/矢島晶子.md "wikilink")
     小夜の義弟。聡明で温和かつ大人しい少年。姉の小夜や兄のカイと共に翼手を巡る争いに巻き込まれていくが…。
   - 宮城 ジョージ（みやぐすく ジョージ）
-    声 - [大塚芳忠](https://ja.wikipedia.org/wiki/大塚芳忠 "wikilink")
+    声 - [大塚芳忠](../Page/大塚芳忠.md "wikilink")
     小夜、カイ、リクの養父。コザで酒場「OMORO」を経営し子供たちを養っている。元米兵。
   - デヴィッド
-    声 - [小杉十郎太](https://ja.wikipedia.org/wiki/小杉十郎太 "wikilink")
+    声 - [小杉十郎太](../Page/小杉十郎太.md "wikilink")
     小夜の戦いを支援する「赤い盾」のエージェント。ハードボイルドを地で行く硬骨漢。
   - ルイス
-    声 - [長嶝高士](https://ja.wikipedia.org/wiki/長嶝高士 "wikilink")
+    声 - [長嶝高士](../Page/長嶝高士.md "wikilink")
     「赤い盾」のエージェント。デヴィッドの相棒を務める肥満体の黒人。
   - ジュリア・シルヴァスタイン
-    声 - [甲斐田裕子](https://ja.wikipedia.org/wiki/甲斐田裕子 "wikilink")
+    声 - [甲斐田裕子](../Page/甲斐田裕子.md "wikilink")
     「赤い盾」の医療スタッフ。構成員の中でも若手だがやり手の翼手研究者。
   - ディーヴァ
     声 - 矢島晶子
@@ -124,7 +124,7 @@ D67を追う「赤い盾」は、その出所が[ベトナム](https://ja.wikipe
     総帥はアンシェル・ゴールドスミス。
   - 動物園（どうぶつえん）
     1832年に完成したボルドーにある施設。またジョエル・ゴルトシュミットの屋敷のこと。
-    [ラマルクの](https://ja.wikipedia.org/wiki/ジャン＝バティスト・ラマルク "wikilink")「動物哲学」に影響されて生物の進化に興味を持った初代ジョエルが、世界中の動植物や化石の類を個人の研究のために収集していた。その収集品の中にアイスランドに伝わる奇妙な[ミイラ](../Page/ミイラ.md "wikilink")があった。「SAYA」と呼ばれたこのミイラを解剖して取り出した[繭](../Page/繭.md "wikilink")から生まれたのが小夜とディーヴァであり、小夜はジョエルに愛情深く育てられたが、ディーヴァは薄暗い塔に幽閉され、最低限の食事のみを与えられるだけだった。内部の広さは100エーカー（120,000坪、サッカーグラウンド100個分）ほどである。小夜とディーヴァの最後の決戦の場となった劇場の背景は、この「動物園」がモデルになっている。
+    [ラマルクの](../Page/ジャン＝バティスト・ラマルク.md "wikilink")「動物哲学」に影響されて生物の進化に興味を持った初代ジョエルが、世界中の動植物や化石の類を個人の研究のために収集していた。その収集品の中にアイスランドに伝わる奇妙な[ミイラ](../Page/ミイラ.md "wikilink")があった。「SAYA」と呼ばれたこのミイラを解剖して取り出した[繭](../Page/繭.md "wikilink")から生まれたのが小夜とディーヴァであり、小夜はジョエルに愛情深く育てられたが、ディーヴァは薄暗い塔に幽閉され、最低限の食事のみを与えられるだけだった。内部の広さは100エーカー（120,000坪、サッカーグラウンド100個分）ほどである。小夜とディーヴァの最後の決戦の場となった劇場の背景は、この「動物園」がモデルになっている。
   - E（イプシロン）88V
     『BLOOD+ 双翼のバトル輪舞曲』に登場する。D67に代わる薬品としてアレクセイが開発させた。単体では機能せず翼手の声帯を持つ少女の歌声を聞かせることが必要。E88Vによる翼手は小夜に倒されても結晶化せず、まるで桜の花びらのように散ってしまう。
   - D（デルタ）06
@@ -145,12 +145,12 @@ D67を追う「赤い盾」は、その出所が[ベトナム](https://ja.wikipe
   - 企画協力 - [押井守](../Page/押井守.md "wikilink")
   - 3D監督 - [遠藤誠](https://ja.wikipedia.org/wiki/遠藤誠_\(3D監督\) "wikilink")
   - 編集 - 濱宇津妙子
-  - 音楽 - [マーク・マンシーナ](https://ja.wikipedia.org/wiki/マーク・マンシーナ "wikilink")
-  - 音楽プロデュース - [ハンス・ジマー](https://ja.wikipedia.org/wiki/ハンス・ジマー "wikilink")
-  - 音響演出 - [岩浪美和](https://ja.wikipedia.org/wiki/岩浪美和 "wikilink")
+  - 音楽 - [マーク・マンシーナ](../Page/マーク・マンシーナ.md "wikilink")
+  - 音楽プロデュース - [ハンス・ジマー](../Page/ハンス・ジマー.md "wikilink")
+  - 音響演出 - [岩浪美和](../Page/岩浪美和.md "wikilink")
   - 音響プロデューサー- [山田稔](https://ja.wikipedia.org/wiki/山田稔 "wikilink")
-  - プロデューサー - [諸冨洋史](https://ja.wikipedia.org/wiki/諸冨洋史 "wikilink")、[丸山博雄](https://ja.wikipedia.org/wiki/丸山博雄 "wikilink")、落越友則、森下勝司、南成江（第39 - 50話）
-  - エグゼクティブプロデューサー - 勝股英夫、[石川光久](https://ja.wikipedia.org/wiki/石川光久 "wikilink")
+  - プロデューサー - [諸冨洋史](../Page/諸冨洋史.md "wikilink")、[丸山博雄](../Page/丸山博雄.md "wikilink")、落越友則、森下勝司、南成江（第39 - 50話）
+  - エグゼクティブプロデューサー - 勝股英夫、[石川光久](../Page/石川光久.md "wikilink")
   - 制作 - Production I.G
   - 製作 - [毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")・Aniplex・Production I.G
 
@@ -159,7 +159,7 @@ D67を追う「赤い盾」は、その出所が[ベトナム](https://ja.wikipe
 ### オープニングテーマ
 
   - 「[青空のナミダ](../Page/青空のナミダ.md "wikilink")」\[5\]（1 - 13話）
-    作詞 - 高橋瞳、[渡辺なつみ](../Page/渡辺なつみ_\(作詞家\).md "wikilink") / 作曲 - [田中秀典](../Page/田中秀典.md "wikilink") / 編曲 - 安原兵衛 / 歌 - [高橋瞳](https://ja.wikipedia.org/wiki/高橋瞳 "wikilink")
+    作詞 - 高橋瞳、[渡辺なつみ](../Page/渡辺なつみ_\(作詞家\).md "wikilink") / 作曲 - [田中秀典](../Page/田中秀典.md "wikilink") / 編曲 - 安原兵衛 / 歌 - [高橋瞳](../Page/高橋瞳.md "wikilink")
   - 「[SEASON'S CALL](../Page/SEASON'S_CALL.md "wikilink")」\[6\]（14 - 25話）
     作詞・歌 - [HYDE](https://ja.wikipedia.org/wiki/HYDE "wikilink") / 作曲 - [KAZ](https://ja.wikipedia.org/wiki/KAZ_\(ギタリスト\) "wikilink") / 編曲 - KAZ、HYDE
   - 「[Colors of the Heart](../Page/Colors_of_the_Heart.md "wikilink")」\[7\]（26 - 38話）
@@ -170,13 +170,13 @@ D67を追う「赤い盾」は、その出所が[ベトナム](https://ja.wikipe
 ### エンディングテーマ
 
   - 「[語り継ぐこと](../Page/語り継ぐこと.md "wikilink")」\[9\]（1 - 13、50話）
-    作詞 - HUSSY_R / 作曲 - 田鹿祐一 / 編曲 - [常田真太郎](../Page/常田真太郎.md "wikilink")（[スキマスイッチ](https://ja.wikipedia.org/wiki/スキマスイッチ "wikilink")） / 歌 - [元ちとせ](https://ja.wikipedia.org/wiki/元ちとせ "wikilink")
+    作詞 - HUSSY_R / 作曲 - 田鹿祐一 / 編曲 - [常田真太郎](../Page/常田真太郎.md "wikilink")（[スキマスイッチ](../Page/スキマスイッチ.md "wikilink")） / 歌 - [元ちとせ](https://ja.wikipedia.org/wiki/元ちとせ "wikilink")
   - 「[CRY NO MORE](https://ja.wikipedia.org/wiki/CRY_NO_MORE_\(中島美嘉の曲\) "wikilink")」\[10\]（14 - 25話）
-    作詞 - [康珍化](https://ja.wikipedia.org/wiki/康珍化 "wikilink") / 作曲 - Lensei / 編曲 - [河野伸](../Page/河野伸.md "wikilink") / 歌 - [中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")
+    作詞 - [康珍化](../Page/康珍化.md "wikilink") / 作曲 - Lensei / 編曲 - [河野伸](../Page/河野伸.md "wikilink") / 歌 - [中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")
   - 「[This Love](../Page/This_Love.md "wikilink")」\[11\]（26 - 38話）
     作詞・作曲・歌 - [アンジェラ・アキ](https://ja.wikipedia.org/wiki/アンジェラ・アキ "wikilink") / 編曲 - [松岡モトキ](https://ja.wikipedia.org/wiki/松岡基樹 "wikilink") & アンジェラ・アキ
   - 「[Brand New Map](https://ja.wikipedia.org/wiki/Brand_New_Map "wikilink")」\[12\]（39 - 49話）
-    作詞 - [立田野純](https://ja.wikipedia.org/wiki/松尾潔 "wikilink") / 作曲 - [和田昌哉](https://ja.wikipedia.org/wiki/和田昌哉 "wikilink") / 編曲 - [Jin Nakamura](https://ja.wikipedia.org/wiki/Jin_Nakamura "wikilink")、和田昌哉 / 歌 - [K](https://ja.wikipedia.org/wiki/K_\(歌手\) "wikilink")
+    作詞 - [立田野純](https://ja.wikipedia.org/wiki/松尾潔 "wikilink") / 作曲 - [和田昌哉](https://ja.wikipedia.org/wiki/和田昌哉 "wikilink") / 編曲 - [Jin Nakamura](https://ja.wikipedia.org/wiki/Jin_Nakamura "wikilink")、和田昌哉 / 歌 - [K](../Page/K_\(歌手\).md "wikilink")
 
 ## 各話リスト
 
@@ -234,7 +234,7 @@ D67を追う「赤い盾」は、その出所が[ベトナム](https://ja.wikipe
 <td><p>Episode-4</p></td>
 <td><p>10月29日</p></td>
 <td><p>アブない少年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/菅正太郎" title="wikilink">菅正太郎</a></p></td>
+<td><p><a href="../Page/菅正太郎.md" title="wikilink">菅正太郎</a></p></td>
 <td><p>弥佐吉</p></td>
 <td><p>誉田晶子</p></td>
 <td><p>大久保徹</p></td>
@@ -244,7 +244,7 @@ D67を追う「赤い盾」は、その出所が[ベトナム](https://ja.wikipe
 <td><p>11月5日</p></td>
 <td><p>暗い森のむこうへ</p></td>
 <td><p>後藤みどり</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/佐山聖子" title="wikilink">佐山聖子</a></p></td>
+<td><p><a href="../Page/佐山聖子.md" title="wikilink">佐山聖子</a></p></td>
 <td><p>佐野隆史</p></td>
 <td><p><a href="../Page/中澤勇一.md" title="wikilink">中澤勇一</a><br />
 中本尚子</p></td>
@@ -253,7 +253,7 @@ D67を追う「赤い盾」は、その出所が[ベトナム](https://ja.wikipe
 <td><p>Episode-6</p></td>
 <td><p>11月12日</p></td>
 <td><p>おとうさんの手</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/森田繁" title="wikilink">森田繁</a></p></td>
+<td><p><a href="../Page/森田繁.md" title="wikilink">森田繁</a></p></td>
 <td><p>勇徹夫</p></td>
 <td><p>浦田保則</p></td>
 <td><p>福島豊明</p></td>
@@ -326,7 +326,7 @@ D67を追う「赤い盾」は、その出所が[ベトナム](https://ja.wikipe
 <td><p><strong>2006年</strong><br />
 1月7日</p></td>
 <td><p>ジャングル・パラダイス</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/紅優" title="wikilink">紅優</a></p></td>
+<td><p><a href="../Page/紅優.md" title="wikilink">紅優</a></p></td>
 <td><p>浦田保則</p></td>
 <td><p>福島豊明</p></td>
 <td></td>
@@ -456,7 +456,7 @@ D67を追う「赤い盾」は、その出所が[ベトナム](https://ja.wikipe
 <td><p>森田繁</p></td>
 <td><p>金子伸吾<br />
 ヤマトナオミチ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/うえだしげる" title="wikilink">うえだしげる</a></p></td>
+<td><p><a href="../Page/うえだしげる.md" title="wikilink">うえだしげる</a></p></td>
 <td><p>山本善哉<br />
 渡辺るりこ</p></td>
 </tr>
@@ -493,14 +493,14 @@ D67を追う「赤い盾」は、その出所が[ベトナム](https://ja.wikipe
 <td><p>限りあるもの</p></td>
 <td><p>森田繁</p></td>
 <td><p>松林唯人</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/高村和宏" title="wikilink">高村和宏</a></p></td>
+<td><p><a href="../Page/高村和宏.md" title="wikilink">高村和宏</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>Episode-29</p></td>
 <td><p>4月29日</p></td>
 <td><p>呪われた血</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/横手美智子" title="wikilink">横手美智子</a></p></td>
+<td><p><a href="../Page/横手美智子.md" title="wikilink">横手美智子</a></p></td>
 <td><p><a href="../Page/玉川達文.md" title="wikilink">玉川達文</a>、松本淳<br />
 誉田晶子</p></td>
 <td><p>誉田晶子</p></td>
@@ -613,8 +613,8 @@ D67を追う「赤い盾」は、その出所が[ベトナム](https://ja.wikipe
 <td><p>7月15日</p></td>
 <td><p>シュヴァリエの見る夢</p></td>
 <td><p>菅正太郎</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山内重保" title="wikilink">山内重保</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/黄瀬和哉" title="wikilink">黄瀬和哉</a></p></td>
+<td><p><a href="../Page/山内重保.md" title="wikilink">山内重保</a></p></td>
+<td><p><a href="../Page/黄瀬和哉.md" title="wikilink">黄瀬和哉</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -751,9 +751,9 @@ D67を追う「赤い盾」は、その出所が[ベトナム](https://ja.wikipe
   - 『BLOOD+』全4巻
     著 - 池端亮、イラスト - [箸井地図](../Page/箸井地図.md "wikilink")。[角川スニーカー文庫](https://ja.wikipedia.org/wiki/角川スニーカー文庫 "wikilink")刊。2005年12月から2007年4月にかけて発表されたテレビアニメ版をベースとしたノベライズ。
   - 『BLOOD＋ ロシアン・ローズ』全2巻
-    著 - 漲月かりの、イラスト - [高城リョウ](https://ja.wikipedia.org/wiki/高城リョウ "wikilink")。[角川ビーンズ文庫](https://ja.wikipedia.org/wiki/角川ビーンズ文庫 "wikilink")刊。
+    著 - 漲月かりの、イラスト - [高城リョウ](https://ja.wikipedia.org/wiki/高城リョウ "wikilink")。[角川ビーンズ文庫](../Page/角川ビーンズ文庫.md "wikilink")刊。
   - 『BLOOD\#』全1巻
-    著 - [藤咲淳一](../Page/藤咲淳一.md "wikilink")、イラスト - [箸井地図](../Page/箸井地図.md "wikilink")、原作 - Production I.G・Aniplex。[マッグガーデン](https://ja.wikipedia.org/wiki/マッグガーデン "wikilink")刊。2017年2月28日発売。監督だった藤咲氏が執筆したBLOOD+の後日談。高校生となったディーヴァが生んだ双子の姉妹が主人公となっている。
+    著 - [藤咲淳一](../Page/藤咲淳一.md "wikilink")、イラスト - [箸井地図](../Page/箸井地図.md "wikilink")、原作 - Production I.G・Aniplex。[マッグガーデン](../Page/マッグガーデン.md "wikilink")刊。2017年2月28日発売。監督だった藤咲氏が執筆したBLOOD+の後日談。高校生となったディーヴァが生んだ双子の姉妹が主人公となっている。
 
 ### 朗読劇
 
@@ -768,7 +768,7 @@ D67を追う「赤い盾」は、その出所が[ベトナム](https://ja.wikipe
   - 『[BLOOD+ ONE NIGHT KISS](../Page/BLOOD+_ONE_NIGHT_KISS.md "wikilink")』
     PlayStation 2用ソフト。2006年8月31日発売。沖縄編とベトナム編の間のストーリー。
   - 『BLOOD+ ファイナルピース〜最後のかけら〜』
-    [PlayStation Portable用ソフト](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")。2006年9月7日発売。
+    [PlayStation Portable用ソフト](../Page/PlayStation_Portable.md "wikilink")。2006年9月7日発売。
   - 『[ヒーローズファンタジア](https://ja.wikipedia.org/wiki/ヒーローズファンタジア "wikilink")』
     PlayStation Portable用ソフト。2012年1月19日発売。
 

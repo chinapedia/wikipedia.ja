@@ -1,7 +1,7 @@
 > この記事は[F album](https://ja.wikipedia.org/wiki/F_album)から翻訳されています。
 
 
-『**F album**』（エフ・アルバム）は、[KinKi Kidsの](../Page/KinKi_Kids.md "wikilink")6枚目の[オリジナル・アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。[2002年](../Page/2002年.md "wikilink")[12月26日](../Page/12月26日.md "wikilink")発売。発売元は[ジャニーズ・エンタテイメント](https://ja.wikipedia.org/wiki/ジャニーズ・エンタテイメント "wikilink")。
+『**F album**』（エフ・アルバム）は、[KinKi Kidsの](../Page/KinKi_Kids.md "wikilink")6枚目の[オリジナル・アルバム](../Page/スタジオ・アルバム.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[12月26日](../Page/12月26日.md "wikilink")発売。発売元は[ジャニーズ・エンタテイメント](../Page/ジャニーズ・エンタテイメント.md "wikilink")。
 
 ## 解説
 
@@ -13,7 +13,7 @@
 
 ## チャート成績
 
-本作はデビューから続いていた[オリコン週間アルバムチャートでの連続](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位獲得記録が途切れた作品である。2018年現在もKinKi Kidsのアルバムとしては唯一オリコンチャートで1位になっていない作品である。
+本作はデビューから続いていた[オリコン週間アルバムチャートでの連続](../Page/オリコンチャート.md "wikilink")1位獲得記録が途切れた作品である。2018年現在もKinKi Kidsのアルバムとしては唯一オリコンチャートで1位になっていない作品である。
 
 ## 収録曲
 
@@ -53,13 +53,13 @@
       -
         13thシングル「Hey\! みんな元気かい?」カップリングのアコースティックバージョン
 10. **[Hey\! みんな元気かい?](../Page/Hey!_みんな元気かい?.md "wikilink")**
-    (作詞・作曲:[YO-KING](https://ja.wikipedia.org/wiki/YO-KING "wikilink")　編曲:[F.L.P.](https://ja.wikipedia.org/wiki/F.L.P. "wikilink"))
+    (作詞・作曲:[YO-KING](../Page/YO-KING.md "wikilink")　編曲:[F.L.P.](https://ja.wikipedia.org/wiki/F.L.P. "wikilink"))
       -
         13thシングル
 11. **テノヒラ**
-    (作詞:[浅田信一](../Page/浅田信一.md "wikilink")　作曲:オオヤギヒロオ　編曲:[CHOKKAKU](https://ja.wikipedia.org/wiki/CHOKKAKU "wikilink"))
+    (作詞:[浅田信一](../Page/浅田信一.md "wikilink")　作曲:オオヤギヒロオ　編曲:[CHOKKAKU](../Page/CHOKKAKU.md "wikilink"))
 12. **[カナシミ ブルー (New Mix)](../Page/カナシミ_ブルー.md "wikilink")**
-    (作詞・作曲:[堂島孝平](https://ja.wikipedia.org/wiki/堂島孝平 "wikilink")　編曲:CHOKKAKU)
+    (作詞・作曲:[堂島孝平](../Page/堂島孝平.md "wikilink")　編曲:CHOKKAKU)
       -
         14thシングルのアルバムバージョン
 

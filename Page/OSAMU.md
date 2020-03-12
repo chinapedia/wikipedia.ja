@@ -1,7 +1,7 @@
 > この記事は[OSAMU](https://ja.wikipedia.org/wiki/OSAMU)から翻訳されています。
 
 
-**OSAMU**（おさむ、[1958年](../Page/1958年.md "wikilink")[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink") - [2012年](../Page/2012年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")）は日本の[レーシングドライバー](https://ja.wikipedia.org/wiki/レーシングドライバー "wikilink")。本名、**中嶋 修**（なかじま おさむ）。[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")出身。
+**OSAMU**（おさむ、[1958年](../Page/1958年.md "wikilink")[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink") - [2012年](../Page/2012年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")）は日本の[レーシングドライバー](https://ja.wikipedia.org/wiki/レーシングドライバー "wikilink")。本名、**中嶋 修**（なかじま おさむ）。[京都府](../Page/京都府.md "wikilink")出身。
 
 ## プロフィール
 
@@ -13,21 +13,21 @@
 
 ### デビュー
 
-レーシングキャリアは大変長く、1983年に[FJ1600](https://ja.wikipedia.org/wiki/FJ1600 "wikilink")[鈴鹿シリーズでデビューした](../Page/鈴鹿サーキット.md "wikilink")。その後、[全日本F3選手権](https://ja.wikipedia.org/wiki/全日本F3選手権 "wikilink")を戦うなどしているが、一旦レース活動を休止している。1995年に自らのレーシングチームである「R.F.LeyJun（あーるえふれいじゅん）」を結成し、再びレース活動を開始した。[F4や全日本F](https://ja.wikipedia.org/wiki/フォーミュラ4 "wikilink")3選手権への参戦を行った。
+レーシングキャリアは大変長く、1983年に[FJ1600](../Page/FJ1600.md "wikilink")[鈴鹿シリーズでデビューした](../Page/鈴鹿サーキット.md "wikilink")。その後、[全日本F3選手権](../Page/全日本F3選手権.md "wikilink")を戦うなどしているが、一旦レース活動を休止している。1995年に自らのレーシングチームである「R.F.LeyJun（あーるえふれいじゅん）」を結成し、再びレース活動を開始した。[F4や全日本F](../Page/フォーミュラ4.md "wikilink")3選手権への参戦を行った。
 
 ### フォーミュラ・ニッポン
 
-1997年から2000年まで、日本のモータースポーツにおけるトップカテゴリーである[フォーミュラ・ニッポン](../Page/フォーミュラ・ニッポン.md "wikilink")へ参戦した。入賞こそなかったが安定した走りで完走を続けたものの、1999年に[美祢サーキットで](https://ja.wikipedia.org/wiki/MINEサーキット "wikilink")[ミハエル・クルム](https://ja.wikipedia.org/wiki/ミハエル・クルム "wikilink")と生死をさまよう大クラッシュを喫し\[1\]、2000年にも[鈴鹿サーキット](../Page/鈴鹿サーキット.md "wikilink")で[ヤレック・ヴィエルチューク](https://ja.wikipedia.org/wiki/ヤレック・ヴィエルチューク "wikilink")とクラッシュしたこともあり、体力の限界を感じて2001年はフォーミュラ・ニッポンへの挑戦を断念した。
+1997年から2000年まで、日本のモータースポーツにおけるトップカテゴリーである[フォーミュラ・ニッポン](../Page/フォーミュラ・ニッポン.md "wikilink")へ参戦した。入賞こそなかったが安定した走りで完走を続けたものの、1999年に[美祢サーキットで](../Page/MINEサーキット.md "wikilink")[ミハエル・クルム](../Page/ミハエル・クルム.md "wikilink")と生死をさまよう大クラッシュを喫し\[1\]、2000年にも[鈴鹿サーキット](../Page/鈴鹿サーキット.md "wikilink")で[ヤレック・ヴィエルチューク](https://ja.wikipedia.org/wiki/ヤレック・ヴィエルチューク "wikilink")とクラッシュしたこともあり、体力の限界を感じて2001年はフォーミュラ・ニッポンへの挑戦を断念した。
 
 ### スーパーGT/スーパー耐久
 
-同年以降は代わりのカテゴリーとして[全日本GT選手権](https://ja.wikipedia.org/wiki/全日本GT選手権 "wikilink")のGT300クラスに参戦することを表明した。その後はGT300クラスと[スーパー耐久](https://ja.wikipedia.org/wiki/スーパー耐久 "wikilink")に挑戦し続ける（2005年はチームオーナーに専念）と同時に、2003年にはGT300で初の3位表彰台を獲得したほか、2006年は[全日本スポーツカー耐久選手権](https://ja.wikipedia.org/wiki/全日本スポーツカー耐久選手権 "wikilink")にも参戦している。
+同年以降は代わりのカテゴリーとして[全日本GT選手権](https://ja.wikipedia.org/wiki/全日本GT選手権 "wikilink")のGT300クラスに参戦することを表明した。その後はGT300クラスと[スーパー耐久](../Page/スーパー耐久.md "wikilink")に挑戦し続ける（2005年はチームオーナーに専念）と同時に、2003年にはGT300で初の3位表彰台を獲得したほか、2006年は[全日本スポーツカー耐久選手権](../Page/全日本スポーツカー耐久選手権.md "wikilink")にも参戦している。
 
 レーシングチーム「LeyJun」の名前の由来は、自身の妻と一人娘の名前からそれぞれ一字を取って合わせたもので、「レーシングファミリーレイジュン」として中嶋一家がレースを楽しむという意味で名づけられており、レース期間中パドックにおいて一家で楽しんでいる様子が見かけられた。
 
 ### 事故死
 
-[thumb](https://ja.wikipedia.org/wiki/file:Mie_prefectural_General_medicical_center.JPG "wikilink") 2012年10月21日鈴鹿サーキットで行われた[スーパー耐久](https://ja.wikipedia.org/wiki/スーパー耐久 "wikilink")シリーズ第5戦ST-3クラス(排気量2,001～3,500cc)。11周目35号車のassetテクノZ33がオイルを撒き、後続のOSAMUの乗る63号車リールレーシング&レイジュンZ33は第一コーナーでコントロールを失い防護タイヤに激突。ヘリコプターで[四日市市](../Page/四日市市.md "wikilink")の[三重県立総合医療センター](https://ja.wikipedia.org/wiki/三重県立総合医療センター "wikilink")に緊急搬送されたが脳挫傷により死亡が確認された\[2\]。満54歳没。
+[thumb](https://ja.wikipedia.org/wiki/file:Mie_prefectural_General_medicical_center.JPG "wikilink") 2012年10月21日鈴鹿サーキットで行われた[スーパー耐久](../Page/スーパー耐久.md "wikilink")シリーズ第5戦ST-3クラス(排気量2,001～3,500cc)。11周目35号車のassetテクノZ33がオイルを撒き、後続のOSAMUの乗る63号車リールレーシング&レイジュンZ33は第一コーナーでコントロールを失い防護タイヤに激突。ヘリコプターで[四日市市](../Page/四日市市.md "wikilink")の[三重県立総合医療センター](https://ja.wikipedia.org/wiki/三重県立総合医療センター "wikilink")に緊急搬送されたが脳挫傷により死亡が確認された\[2\]。満54歳没。
 
 ## レース戦績
 
@@ -41,27 +41,27 @@
   - 1987年 - 全日本F3選手権（シリーズ21位）
   - 1994年 - 全日本カート選手権FSAクラス
   - 1995年
-      - TI（現[岡山国際サーキット](https://ja.wikipedia.org/wiki/岡山国際サーキット "wikilink")）F4シリーズ
+      - TI（現[岡山国際サーキット](../Page/岡山国際サーキット.md "wikilink")）F4シリーズ
       - 全日本F3選手権
-      - [全日本F3000選手権](https://ja.wikipedia.org/wiki/全日本F3000選手権 "wikilink")\<Rd.9\>（[TEAM CERUMO](https://ja.wikipedia.org/wiki/セルモ "wikilink")/[ローラT](https://ja.wikipedia.org/wiki/ローラ・カーズ "wikilink")94/50 [MF308](https://ja.wikipedia.org/wiki/無限・MF308 "wikilink")）
+      - [全日本F3000選手権](https://ja.wikipedia.org/wiki/全日本F3000選手権 "wikilink")\<Rd.9\>（[TEAM CERUMO](../Page/セルモ.md "wikilink")/[ローラT](../Page/ローラ・カーズ.md "wikilink")94/50 [MF308](../Page/無限・MF308.md "wikilink")）
   - 1996年
       - 全日本GT選手権・GT500クラス\<Rd.6\>（プローバ モータースポーツ/プローバ 993GT-2 3.8）
-      - [MINE](https://ja.wikipedia.org/wiki/MINEサーキット "wikilink") F4シリーズ
+      - [MINE](../Page/MINEサーキット.md "wikilink") F4シリーズ
       - 全日本F3選手権・Jクラス
   - 1997年
       - 全日本F3選手権
-      - 全日本選手権フォーミュラ・ニッポン\<Rd.6-10\>（TEAM LEYJUN/[レイナード](https://ja.wikipedia.org/wiki/レイナード "wikilink")96D MF308）
+      - 全日本選手権フォーミュラ・ニッポン\<Rd.6-10\>（TEAM LEYJUN/[レイナード](../Page/レイナード.md "wikilink")96D MF308）
   - 1998年
       - 全日本選手権フォーミュラ・ニッポン（TEAM LEYJUN/レイナード95D・97D MF308）
       - 全日本GT選手権・GT300クラス\<Rd.6\>（コブラレーシングチーム/コブラポルシェ）（シリーズ33位）
   - 1999年 - 全日本選手権フォーミュラ・ニッポン\<Rd.1-3\>（TEAM LEYJUN/レイナード99L MF308）
   - 2000年 - 全日本選手権フォーミュラ・ニッポン（TEAM LEYJUN/レイナード99L MF308）
-  - 2001年 - 全日本GT選手権・GT300クラス（[アールアンドデースポーツ](https://ja.wikipedia.org/wiki/R&D_SPORT "wikilink")/レイジュンR\&D[ダンロップ](https://ja.wikipedia.org/wiki/ダンロップ "wikilink")[GT3R](https://ja.wikipedia.org/wiki/ポルシェ・911#5代目_996型（1997年-2004年） "wikilink")）（シリーズ12位）
+  - 2001年 - 全日本GT選手権・GT300クラス（[アールアンドデースポーツ](../Page/R&D_SPORT.md "wikilink")/レイジュンR\&D[ダンロップ](../Page/ダンロップ.md "wikilink")[GT3R](https://ja.wikipedia.org/wiki/ポルシェ・911#5代目_996型（1997年-2004年） "wikilink")）（シリーズ12位）
   - 2002年 - 全日本GT選手権・GT300クラス（アールアンドデースポーツ/レイジュンR\&DダンロップGT3R）（シリーズ18位）
   - 2003年 - 全日本GT選手権・GT300クラス（TEAM LEYJUN/レイジュン・ダンロップ GT-1）
   - 2004年 - 全日本GT選手権・GT300クラス（TEAM LEYJUN/LEYJUNダンロップ[320R](https://ja.wikipedia.org/wiki/VEMAC#車種一覧 "wikilink")）（シリーズ12位）
   - 2006年
-      - SUPER GT・GT300クラス（A\&S RACING \#9/NOMAD [ADVAN](https://ja.wikipedia.org/wiki/横浜ゴム "wikilink") LeyJun MT）（シリーズ34位）
+      - SUPER GT・GT300クラス（A\&S RACING \#9/NOMAD [ADVAN](../Page/横浜ゴム.md "wikilink") LeyJun MT）（シリーズ34位）
       - 全日本スポーツカー耐久選手権LMGT1クラス（シリーズ2位）
   - 2007年 - SUPER GT・GT300クラス\<Rd.1-3,6,9\>（A\&S RACING \#9/ LEYJUN DUNLOP MT900）
 
@@ -89,14 +89,14 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1995年の全日本F3000選手権" title="wikilink">1995年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セルモ" title="wikilink">CERUMO Co. Ltd</a></p></td>
+<td><p><a href="../Page/セルモ.md" title="wikilink">CERUMO Co. Ltd</a></p></td>
 <td><p><a href="../Page/鈴鹿サーキット.md" title="wikilink">SUZ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/富士スピードウェイ" title="wikilink">FSW</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/MINEサーキット" title="wikilink">MIN</a></p></td>
+<td><p><a href="../Page/MINEサーキット.md" title="wikilink">MIN</a></p></td>
 <td><p><a href="../Page/鈴鹿サーキット.md" title="wikilink">SUZ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スポーツランドSUGO" title="wikilink">SUG</a></p></td>
+<td><p><a href="../Page/スポーツランドSUGO.md" title="wikilink">SUG</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/富士スピードウェイ" title="wikilink">FSW</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/十勝スピードウェイ" title="wikilink">TOK</a></p></td>
+<td><p><a href="../Page/十勝スピードウェイ.md" title="wikilink">TOK</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/富士スピードウェイ" title="wikilink">FSW</a></p></td>
 <td><p><a href="../Page/鈴鹿サーキット.md" title="wikilink">SUZ</a><br />
 <small>Ret</small></p></td>
@@ -105,18 +105,18 @@
 <td><p>0</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1997年のフォーミュラ・ニッポン" title="wikilink">1997年</a></p></td>
+<td><p><a href="../Page/1997年のフォーミュラ・ニッポン.md" title="wikilink">1997年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/TEAM_LEYJUN" title="wikilink">TEAM LEYJUN</a></p></td>
 <td><p><a href="../Page/鈴鹿サーキット.md" title="wikilink">SUZ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/MINEサーキット" title="wikilink">MIN</a></p></td>
+<td><p><a href="../Page/MINEサーキット.md" title="wikilink">MIN</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/富士スピードウェイ" title="wikilink">FSW</a></p></td>
 <td><p><a href="../Page/鈴鹿サーキット.md" title="wikilink">SUZ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スポーツランドSUGO" title="wikilink">SUG</a></p></td>
+<td><p><a href="../Page/スポーツランドSUGO.md" title="wikilink">SUG</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/富士スピードウェイ" title="wikilink">FSW</a><br />
 <small>15</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/MINEサーキット" title="wikilink">MIN</a><br />
+<td><p><a href="../Page/MINEサーキット.md" title="wikilink">MIN</a><br />
 <small>16</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ツインリンクもてぎ" title="wikilink">TRM</a><br />
+<td><p><a href="../Page/ツインリンクもてぎ.md" title="wikilink">TRM</a><br />
 <small>16</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/富士スピードウェイ" title="wikilink">FSW</a><br />
 <small>Ret</small></p></td>
@@ -126,20 +126,20 @@
 <td><p>0</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1998年のフォーミュラ・ニッポン" title="wikilink">1998年</a></p></td>
+<td><p><a href="../Page/1998年のフォーミュラ・ニッポン.md" title="wikilink">1998年</a></p></td>
 <td><p><a href="../Page/鈴鹿サーキット.md" title="wikilink">SUZ</a><br />
 <small>13</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/MINEサーキット" title="wikilink">MIN</a></p></td>
+<td><p><a href="../Page/MINEサーキット.md" title="wikilink">MIN</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/富士スピードウェイ" title="wikilink">FSW</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ツインリンクもてぎ" title="wikilink">TRM</a><br />
+<td><p><a href="../Page/ツインリンクもてぎ.md" title="wikilink">TRM</a><br />
 <small>Ret</small></p></td>
 <td><p><a href="../Page/鈴鹿サーキット.md" title="wikilink">SUZ</a><br />
 <small>Ret</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スポーツランドSUGO" title="wikilink">SUG</a><br />
+<td><p><a href="../Page/スポーツランドSUGO.md" title="wikilink">SUG</a><br />
 <small>13</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/富士スピードウェイ" title="wikilink">FSW</a><br />
 <small>C</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/MINEサーキット" title="wikilink">MIN</a><br />
+<td><p><a href="../Page/MINEサーキット.md" title="wikilink">MIN</a><br />
 <small>9</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/富士スピードウェイ" title="wikilink">FSW</a><br />
 <small>Ret</small></p></td>
@@ -150,42 +150,42 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1999年のフォーミュラ・ニッポン" title="wikilink">1999年</a></p></td>
+<td><p><a href="../Page/1999年のフォーミュラ・ニッポン.md" title="wikilink">1999年</a></p></td>
 <td><p><a href="../Page/鈴鹿サーキット.md" title="wikilink">SUZ</a><br />
 <small>Ret</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ツインリンクもてぎ" title="wikilink">TRM</a><br />
+<td><p><a href="../Page/ツインリンクもてぎ.md" title="wikilink">TRM</a><br />
 <small>14</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/MINEサーキット" title="wikilink">MIN</a><br />
+<td><p><a href="../Page/MINEサーキット.md" title="wikilink">MIN</a><br />
 <small>Ret</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/富士スピードウェイ" title="wikilink">FSW</a></p></td>
 <td><p><a href="../Page/鈴鹿サーキット.md" title="wikilink">SUZ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スポーツランドSUGO" title="wikilink">SUG</a></p></td>
+<td><p><a href="../Page/スポーツランドSUGO.md" title="wikilink">SUG</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/富士スピードウェイ" title="wikilink">FSW</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/MINEサーキット" title="wikilink">MIN</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ツインリンクもてぎ" title="wikilink">TRM</a></p></td>
+<td><p><a href="../Page/MINEサーキット.md" title="wikilink">MIN</a></p></td>
+<td><p><a href="../Page/ツインリンクもてぎ.md" title="wikilink">TRM</a></p></td>
 <td><p><a href="../Page/鈴鹿サーキット.md" title="wikilink">SUZ</a></p></td>
 <td><p>NC</p></td>
 <td><p>0</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2000年のフォーミュラ・ニッポン" title="wikilink">2000年</a></p></td>
+<td><p><a href="../Page/2000年のフォーミュラ・ニッポン.md" title="wikilink">2000年</a></p></td>
 <td><p><a href="../Page/鈴鹿サーキット.md" title="wikilink">SUZ</a><br />
 <small>10</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ツインリンクもてぎ" title="wikilink">TRM</a><br />
+<td><p><a href="../Page/ツインリンクもてぎ.md" title="wikilink">TRM</a><br />
 <small>Ret</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/MINEサーキット" title="wikilink">MIN</a><br />
+<td><p><a href="../Page/MINEサーキット.md" title="wikilink">MIN</a><br />
 <small>11</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/富士スピードウェイ" title="wikilink">FSW</a><br />
 <small>14</small></p></td>
 <td><p><a href="../Page/鈴鹿サーキット.md" title="wikilink">SUZ</a><br />
 <small>Ret</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スポーツランドSUGO" title="wikilink">SUG</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ツインリンクもてぎ" title="wikilink">TRM</a><br />
+<td><p><a href="../Page/スポーツランドSUGO.md" title="wikilink">SUG</a></p></td>
+<td><p><a href="../Page/ツインリンクもてぎ.md" title="wikilink">TRM</a><br />
 <small>14</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/富士スピードウェイ" title="wikilink">FSW</a><br />
 <small>14</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/MINEサーキット" title="wikilink">MIN</a><br />
+<td><p><a href="../Page/MINEサーキット.md" title="wikilink">MIN</a><br />
 <small>15</small></p></td>
 <td><p><a href="../Page/鈴鹿サーキット.md" title="wikilink">SUZ</a><br />
 <small>13</small></p></td>
@@ -222,14 +222,14 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1996年の全日本GT選手権" title="wikilink">1996年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/プローバ_モータースポーツ" title="wikilink">プローバ モータースポーツ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ポルシェ・911" title="wikilink">ポルシェ・911 GT2</a></p></td>
+<td><p><a href="../Page/ポルシェ・911.md" title="wikilink">ポルシェ・911 GT2</a></p></td>
 <td><p>GT500</p></td>
 <td><p><a href="../Page/鈴鹿サーキット.md" title="wikilink">SUZ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/富士スピードウェイ" title="wikilink">FSW</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/仙台ハイランド" title="wikilink">SEN</a></p></td>
+<td><p><a href="../Page/仙台ハイランド.md" title="wikilink">SEN</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/富士スピードウェイ" title="wikilink">FSW</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スポーツランドSUGO" title="wikilink">SUG</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/MINEサーキット" title="wikilink">MIN</a><br />
+<td><p><a href="../Page/スポーツランドSUGO.md" title="wikilink">SUG</a></p></td>
+<td><p><a href="../Page/MINEサーキット.md" title="wikilink">MIN</a><br />
 <small>Ret</small></p></td>
 <td></td>
 <td></td>
@@ -240,16 +240,16 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1998年の全日本GT選手権" title="wikilink">1998年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/コブラレーシングチーム" title="wikilink">コブラレーシングチーム</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ポルシェ・911" title="wikilink">ポルシェ・911</a></p></td>
+<td><p><a href="../Page/ポルシェ・911.md" title="wikilink">ポルシェ・911</a></p></td>
 <td><p>GT300</p></td>
 <td><p><a href="../Page/鈴鹿サーキット.md" title="wikilink">SUZ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/富士スピードウェイ" title="wikilink">FSW</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/仙台ハイランド" title="wikilink">SEN</a></p></td>
+<td><p><a href="../Page/仙台ハイランド.md" title="wikilink">SEN</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/富士スピードウェイ" title="wikilink">FSW</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ツインリンクもてぎ" title="wikilink">TRM</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/MINEサーキット" title="wikilink">MIN</a><br />
+<td><p><a href="../Page/ツインリンクもてぎ.md" title="wikilink">TRM</a></p></td>
+<td><p><a href="../Page/MINEサーキット.md" title="wikilink">MIN</a><br />
 <small>10</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スポーツランドSUGO" title="wikilink">SUG</a></p></td>
+<td><p><a href="../Page/スポーツランドSUGO.md" title="wikilink">SUG</a></p></td>
 <td></td>
 <td></td>
 <td><p>33位</p></td>
@@ -257,22 +257,22 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/2001年の全日本GT選手権" title="wikilink">2001年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/R&amp;D_SPORT" title="wikilink">アールアンドデースポーツ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ポルシェ・911" title="wikilink">ポルシェ・911</a>　GT3R</p></td>
+<td><p><a href="../Page/R&amp;D_SPORT.md" title="wikilink">アールアンドデースポーツ</a></p></td>
+<td><p><a href="../Page/ポルシェ・911.md" title="wikilink">ポルシェ・911</a>　GT3R</p></td>
 <td><p>GT300</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/岡山国際サーキット" title="wikilink">TAI</a><br />
+<td><p><a href="../Page/岡山国際サーキット.md" title="wikilink">TAI</a><br />
 <small>9</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/富士スピードウェイ" title="wikilink">FSW</a><br />
 <small>8</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スポーツランドSUGO" title="wikilink">SUG</a><br />
+<td><p><a href="../Page/スポーツランドSUGO.md" title="wikilink">SUG</a><br />
 <small>6</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/富士スピードウェイ" title="wikilink">FSW</a><br />
 <small>17</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ツインリンクもてぎ" title="wikilink">TRM</a><br />
+<td><p><a href="../Page/ツインリンクもてぎ.md" title="wikilink">TRM</a><br />
 <small>17</small></p></td>
 <td><p><a href="../Page/鈴鹿サーキット.md" title="wikilink">SUZ</a><br />
 <small>5</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/MINEサーキット" title="wikilink">MIN</a><br />
+<td><p><a href="../Page/MINEサーキット.md" title="wikilink">MIN</a><br />
 <small>7</small></p></td>
 <td></td>
 <td></td>
@@ -282,19 +282,19 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/2002年の全日本GT選手権" title="wikilink">2002年</a></p></td>
 <td><p>GT300</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/岡山国際サーキット" title="wikilink">TAI</a><br />
+<td><p><a href="../Page/岡山国際サーキット.md" title="wikilink">TAI</a><br />
 <small>17</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/富士スピードウェイ" title="wikilink">FSW</a><br />
 <small>Ret</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スポーツランドSUGO" title="wikilink">SUG</a><br />
+<td><p><a href="../Page/スポーツランドSUGO.md" title="wikilink">SUG</a><br />
 <small>3</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セパン・インターナショナル・サーキット" title="wikilink">SEP</a><br />
+<td><p><a href="../Page/セパン・インターナショナル・サーキット.md" title="wikilink">SEP</a><br />
 <small>15</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/富士スピードウェイ" title="wikilink">FSW</a><br />
 <small>17</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ツインリンクもてぎ" title="wikilink">TRM</a><br />
+<td><p><a href="../Page/ツインリンクもてぎ.md" title="wikilink">TRM</a><br />
 <small>13</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/MINEサーキット" title="wikilink">MIN</a><br />
+<td><p><a href="../Page/MINEサーキット.md" title="wikilink">MIN</a><br />
 <small>10</small></p></td>
 <td><p><a href="../Page/鈴鹿サーキット.md" title="wikilink">SUZ</a><br />
 <small>Ret</small></p></td>
@@ -309,25 +309,25 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/TEAM_LEYJUN" title="wikilink">TEAM LEYJUN</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ミラージュ・GT-1" title="wikilink">ミラージュ・GT-1</a></p></td>
 <td><p>GT300</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/岡山国際サーキット" title="wikilink">TAI</a><br />
+<td><p><a href="../Page/岡山国際サーキット.md" title="wikilink">TAI</a><br />
 <small>Ret</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/富士スピードウェイ" title="wikilink">FSW</a><br />
 <small>Ret</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スポーツランドSUGO" title="wikilink">SUG</a><br />
+<td><p><a href="../Page/スポーツランドSUGO.md" title="wikilink">SUG</a><br />
 <small>DNQ</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/富士スピードウェイ" title="wikilink">FSW</a><br />
 <small>25</small></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ツインリンクもてぎ" title="wikilink">TRM</a><br />
+<td><p><a href="../Page/ツインリンクもてぎ.md" title="wikilink">TRM</a><br />
 <small>DNR</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オートポリス" title="wikilink">AUT</a></p></td>
+<td><p><a href="../Page/オートポリス.md" title="wikilink">AUT</a></p></td>
 <td></td>
 <td></td>
 <td><p>NC</p></td>
 <td><p>0</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ポルシェ・911" title="wikilink">ポルシェ・911</a>　GT3R</p></td>
+<td><p><a href="../Page/ポルシェ・911.md" title="wikilink">ポルシェ・911</a>　GT3R</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -345,7 +345,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/VEMAC" title="wikilink">ヴィーマック・RD320R</a></p></td>
+<td><p><a href="../Page/VEMAC.md" title="wikilink">ヴィーマック・RD320R</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -363,19 +363,19 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2004年の全日本GT選手権" title="wikilink">2004年</a></p></td>
+<td><p><a href="../Page/2004年の全日本GT選手権.md" title="wikilink">2004年</a></p></td>
 <td><p>GT300</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/岡山国際サーキット" title="wikilink">TAI</a><br />
+<td><p><a href="../Page/岡山国際サーキット.md" title="wikilink">TAI</a><br />
 <small>6</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スポーツランドSUGO" title="wikilink">SUG</a><br />
+<td><p><a href="../Page/スポーツランドSUGO.md" title="wikilink">SUG</a><br />
 <small>6</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セパン・インターナショナル・サーキット" title="wikilink">SEP</a><br />
+<td><p><a href="../Page/セパン・インターナショナル・サーキット.md" title="wikilink">SEP</a><br />
 <small>14</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/十勝スピードウェイ" title="wikilink">TOK</a><br />
+<td><p><a href="../Page/十勝スピードウェイ.md" title="wikilink">TOK</a><br />
 <small>22</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ツインリンクもてぎ" title="wikilink">TRM</a><br />
+<td><p><a href="../Page/ツインリンクもてぎ.md" title="wikilink">TRM</a><br />
 <small>19</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オートポリス" title="wikilink">AUT</a><br />
+<td><p><a href="../Page/オートポリス.md" title="wikilink">AUT</a><br />
 <small>17</small></p></td>
 <td><p><a href="../Page/鈴鹿サーキット.md" title="wikilink">SUZ</a><br />
 <small>16</small></p></td>
@@ -393,18 +393,18 @@
 <td><p>GT300</p></td>
 <td><p><a href="../Page/鈴鹿サーキット.md" title="wikilink">SUZ</a><br />
 <small>13</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/岡山国際サーキット" title="wikilink">OKA</a><br />
+<td><p><a href="../Page/岡山国際サーキット.md" title="wikilink">OKA</a><br />
 <small>20</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/富士スピードウェイ" title="wikilink">FSW</a><br />
 <small>Ret</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セパン・インターナショナル・サーキット" title="wikilink">SEP</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スポーツランドSUGO" title="wikilink">SUG</a><br />
+<td><p><a href="../Page/セパン・インターナショナル・サーキット.md" title="wikilink">SEP</a></p></td>
+<td><p><a href="../Page/スポーツランドSUGO.md" title="wikilink">SUG</a><br />
 <small>13</small></p></td>
 <td><p><a href="../Page/鈴鹿サーキット.md" title="wikilink">SUZ</a><br />
 <small>13</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ツインリンクもてぎ" title="wikilink">TRM</a><br />
+<td><p><a href="../Page/ツインリンクもてぎ.md" title="wikilink">TRM</a><br />
 <small>22</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オートポリス" title="wikilink">AUT</a><br />
+<td><p><a href="../Page/オートポリス.md" title="wikilink">AUT</a><br />
 <small>17</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/富士スピードウェイ" title="wikilink">FSW</a><br />
 <small>Ret</small></p></td>
@@ -416,16 +416,16 @@
 <td><p>GT300</p></td>
 <td><p><a href="../Page/鈴鹿サーキット.md" title="wikilink">SUZ</a><br />
 <small>Ret</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/岡山国際サーキット" title="wikilink">OKA</a><br />
+<td><p><a href="../Page/岡山国際サーキット.md" title="wikilink">OKA</a><br />
 <small>23</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/富士スピードウェイ" title="wikilink">FSW</a><br />
 <small>Ret</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セパン・インターナショナル・サーキット" title="wikilink">SEP</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スポーツランドSUGO" title="wikilink">SUG</a></p></td>
+<td><p><a href="../Page/セパン・インターナショナル・サーキット.md" title="wikilink">SEP</a></p></td>
+<td><p><a href="../Page/スポーツランドSUGO.md" title="wikilink">SUG</a></p></td>
 <td><p><a href="../Page/鈴鹿サーキット.md" title="wikilink">SUZ</a><br />
 <small>18</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ツインリンクもてぎ" title="wikilink">TRM</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オートポリス" title="wikilink">AUT</a></p></td>
+<td><p><a href="../Page/ツインリンクもてぎ.md" title="wikilink">TRM</a></p></td>
+<td><p><a href="../Page/オートポリス.md" title="wikilink">AUT</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/富士スピードウェイ" title="wikilink">FSW</a><br />
 <small>23</small></p></td>
 <td><p>NC</p></td>

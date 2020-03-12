@@ -3,7 +3,7 @@
 
 **Sotte Bosse**（ソット ボッセ）は、クラブジャズユニット[i-dep](https://ja.wikipedia.org/wiki/i-dep "wikilink")の中心人物である[ナカムラヒロシ](https://ja.wikipedia.org/wiki/ナカムラヒロシ "wikilink")が、同じくi-depで[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")を務める[Cana](https://ja.wikipedia.org/wiki/Cana "wikilink")と共に結成したスペシャルユニットである。
 
-[THE BOOMの](https://ja.wikipedia.org/wiki/THE_BOOM "wikilink")「[島唄](https://ja.wikipedia.org/wiki/島唄_\(THE_BOOM\) "wikilink")」をはじめ、J-POPの曲を[ボサノヴァ](../Page/ボサノヴァ.md "wikilink")・[ジャズ](../Page/ジャズ.md "wikilink")風にカバーした『Essence of life』は、約25万枚の売上を記録した\[1\]。CD売上の約6割が[ヴィレッジヴァンガードでの売上であることが特徴である](https://ja.wikipedia.org/wiki/ヴィレッジヴァンガード_\(書籍・雑貨店\) "wikilink")\[2\]。
+[THE BOOMの](../Page/THE_BOOM.md "wikilink")「[島唄](../Page/島唄_\(THE_BOOM\).md "wikilink")」をはじめ、J-POPの曲を[ボサノヴァ](../Page/ボサノヴァ.md "wikilink")・[ジャズ](../Page/ジャズ.md "wikilink")風にカバーした『Essence of life』は、約25万枚の売上を記録した\[1\]。CD売上の約6割が[ヴィレッジヴァンガードでの売上であることが特徴である](../Page/ヴィレッジヴァンガード_\(書籍・雑貨店\).md "wikilink")\[2\]。
 
 2014年より活動休止中。
 
@@ -28,19 +28,19 @@
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/2月2日.md" title="wikilink">2月2日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/2月2日.md" title="wikilink">2月2日</a></p></td>
 <td><p><strong>Essence of life</strong></p></td>
 <td><p>TGO-001</p></td>
 <td><ol>
-<li><a href="https://ja.wikipedia.org/wiki/島唄_(THE_BOOM)" title="wikilink">島唄</a>（THE BOOM）</li>
+<li><a href="../Page/島唄_(THE_BOOM).md" title="wikilink">島唄</a>（THE BOOM）</li>
 <li><a href="https://ja.wikipedia.org/wiki/接吻_(曲)" title="wikilink">接吻 KISS</a>（<a href="https://ja.wikipedia.org/wiki/ORIGINAL_LOVE" title="wikilink">ORIGINAL LOVE</a>）</li>
 <li><a href="../Page/Everything_(MISIAの曲).md" title="wikilink">EVERYTHING</a>（<a href="https://ja.wikipedia.org/wiki/MISIA" title="wikilink">MISIA</a>）</li>
 <li><a href="https://ja.wikipedia.org/wiki/真夏の果実" title="wikilink">真夏の果実</a>（<a href="../Page/サザンオールスターズ.md" title="wikilink">サザンオールスターズ</a>）</li>
 <li><a href="https://ja.wikipedia.org/wiki/春の歌/テクテク" title="wikilink">春の歌</a>（<a href="https://ja.wikipedia.org/wiki/スピッツ_(バンド)" title="wikilink">スピッツ</a>）</li>
-<li><a href="https://ja.wikipedia.org/wiki/笑顔の行方" title="wikilink">未来予想図II</a> （<a href="../Page/DREAMS_COME_TRUE.md" title="wikilink">DREAMS COME TRUE</a>）</li>
+<li><a href="../Page/笑顔の行方.md" title="wikilink">未来予想図II</a> （<a href="../Page/DREAMS_COME_TRUE.md" title="wikilink">DREAMS COME TRUE</a>）</li>
 <li><a href="../Page/One_more_time,_One_more_chance.md" title="wikilink">One more time, One more chance</a>（<a href="https://ja.wikipedia.org/wiki/山崎まさよし" title="wikilink">山崎まさよし</a>）</li>
-<li><a href="https://ja.wikipedia.org/wiki/世界に一つだけの花" title="wikilink">世界に一つだけの花</a>（<a href="https://ja.wikipedia.org/wiki/SMAP" title="wikilink">SMAP</a>）</li>
-<li><a href="https://ja.wikipedia.org/wiki/ガラス越しに消えた夏" title="wikilink">ガラス越しに消えた夏</a>（<a href="https://ja.wikipedia.org/wiki/鈴木雅之_(歌手)" title="wikilink">鈴木雅之</a>）</li>
+<li><a href="../Page/世界に一つだけの花.md" title="wikilink">世界に一つだけの花</a>（<a href="https://ja.wikipedia.org/wiki/SMAP" title="wikilink">SMAP</a>）</li>
+<li><a href="https://ja.wikipedia.org/wiki/ガラス越しに消えた夏" title="wikilink">ガラス越しに消えた夏</a>（<a href="../Page/鈴木雅之_(歌手).md" title="wikilink">鈴木雅之</a>）</li>
 </ol></td>
 <td><p>売上約25万枚[3]</p>
 <div class="NavFrame" style="clear: both; border:0;">
@@ -52,18 +52,18 @@
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="../Page/3月7日.md" title="wikilink">3月7日</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/3月7日.md" title="wikilink">3月7日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/innocent_view" title="wikilink">innocent view</a></strong></p></td>
 <td><p>BLOOM-010</p></td>
 <td><ol>
-<li><a href="https://ja.wikipedia.org/wiki/ハナミズキ_(曲)" title="wikilink">ハナミズキ</a>（<a href="https://ja.wikipedia.org/wiki/一青窈" title="wikilink">一青窈</a>）</li>
-<li><a href="https://ja.wikipedia.org/wiki/First_Love_(宇多田ヒカルの曲)" title="wikilink">First Love</a>（<a href="../Page/宇多田ヒカル.md" title="wikilink">宇多田ヒカル</a>）</li>
+<li><a href="../Page/ハナミズキ_(曲).md" title="wikilink">ハナミズキ</a>（<a href="https://ja.wikipedia.org/wiki/一青窈" title="wikilink">一青窈</a>）</li>
+<li><a href="../Page/First_Love_(宇多田ヒカルの曲).md" title="wikilink">First Love</a>（<a href="../Page/宇多田ヒカル.md" title="wikilink">宇多田ヒカル</a>）</li>
 <li><a href="https://ja.wikipedia.org/wiki/チェリー_(曲)" title="wikilink">チェリー</a>（<a href="https://ja.wikipedia.org/wiki/スピッツ_(バンド)" title="wikilink">スピッツ</a>）</li>
 <li>遠く遠く（<a href="../Page/槇原敬之.md" title="wikilink">槇原敬之</a>）</li>
-<li><a href="https://ja.wikipedia.org/wiki/言葉にできない" title="wikilink">言葉にできない</a>（<a href="https://ja.wikipedia.org/wiki/オフコース" title="wikilink">オフコース</a>）</li>
+<li><a href="../Page/言葉にできない.md" title="wikilink">言葉にできない</a>（<a href="https://ja.wikipedia.org/wiki/オフコース" title="wikilink">オフコース</a>）</li>
 <li><a href="../Page/やさしさに包まれたなら.md" title="wikilink">やさしさに包まれたなら</a>（<a href="../Page/松任谷由実.md" title="wikilink">荒井由実</a>）</li>
-<li><a href="https://ja.wikipedia.org/wiki/夜空ノムコウ" title="wikilink">夜空ノムコウ</a>（<a href="https://ja.wikipedia.org/wiki/SMAP" title="wikilink">SMAP</a>）</li>
-<li><a href="https://ja.wikipedia.org/wiki/メランコリニスタ" title="wikilink">メランコリニスタ</a>（<a href="https://ja.wikipedia.org/wiki/YUKI_(歌手)" title="wikilink">YUKI</a>）</li>
+<li><a href="../Page/夜空ノムコウ.md" title="wikilink">夜空ノムコウ</a>（<a href="https://ja.wikipedia.org/wiki/SMAP" title="wikilink">SMAP</a>）</li>
+<li><a href="../Page/メランコリニスタ.md" title="wikilink">メランコリニスタ</a>（<a href="https://ja.wikipedia.org/wiki/YUKI_(歌手)" title="wikilink">YUKI</a>）</li>
 <li><a href="https://ja.wikipedia.org/wiki/イージュー★ライダー" title="wikilink">イージュー★ライダー</a>（<a href="../Page/奥田民生.md" title="wikilink">奥田民生</a>）</li>
 <li>hello（オリジナル曲）</li>
 </ol></td>
@@ -76,7 +76,7 @@
 <td><p><strong>moment</strong></p></td>
 <td><p>UPCI-1070</p></td>
 <td><ol>
-<li><a href="https://ja.wikipedia.org/wiki/瞳がほほえむから" title="wikilink">瞳がほほえむから</a> (<a href="https://ja.wikipedia.org/wiki/今井美樹" title="wikilink">今井美樹</a>)</li>
+<li><a href="https://ja.wikipedia.org/wiki/瞳がほほえむから" title="wikilink">瞳がほほえむから</a> (<a href="../Page/今井美樹.md" title="wikilink">今井美樹</a>)</li>
 <li><a href="https://ja.wikipedia.org/wiki/君がいるだけで/愛してる" title="wikilink">君がいるだけで</a>（<a href="../Page/米米CLUB.md" title="wikilink">米米CLUB</a>）</li>
 <li>太陽のキス 【作詞:ナカムラヒロシ/作曲:ナカムラヒロシ,本澤尚之】</li>
 <li>マンダリンパスタ 【作詞:ナカムラヒロシ,Cana/作曲:ナカムラヒロシ,本澤尚之】</li>
@@ -84,12 +84,12 @@
 <li><a href="../Page/Replay_(曲).md" title="wikilink">Replay</a>（<a href="https://ja.wikipedia.org/wiki/Mr.Children" title="wikilink">Mr.Children</a>）</li>
 <li><a href="https://ja.wikipedia.org/wiki/楓/スピカ" title="wikilink">楓</a>（スピッツ）</li>
 <li>グッバイ 【作詞:<a href="https://ja.wikipedia.org/wiki/及川リン" title="wikilink">及川リン</a>/作曲:ナカムラヒロシ,本澤尚之】</li>
-<li><a href="https://ja.wikipedia.org/wiki/三日月_(絢香の曲)" title="wikilink">三日月</a>（<a href="https://ja.wikipedia.org/wiki/絢香" title="wikilink">絢香</a>）</li>
+<li><a href="../Page/三日月_(絢香の曲).md" title="wikilink">三日月</a>（<a href="https://ja.wikipedia.org/wiki/絢香" title="wikilink">絢香</a>）</li>
 <li>Breathing Space 【作詞:ナカムラヒロシ,Cana/作曲:ナカムラヒロシ,井村達也】</li>
 <li>ひとひら 【作詞:ナカムラヒロシ,Cana/作曲:ナカムラヒロシ】</li>
 </ol></td>
 <td><p>売上約10万枚[5]<br />
-<a href="https://ja.wikipedia.org/wiki/日本レコード協会" title="wikilink">日本レコード協会</a><a href="https://ja.wikipedia.org/wiki/ゴールドディスク" title="wikilink">ゴールド認定</a>。</p>
+<a href="../Page/日本レコード協会.md" title="wikilink">日本レコード協会</a><a href="../Page/ゴールドディスク.md" title="wikilink">ゴールド認定</a>。</p>
 <div class="NavFrame" style="clear: both; border:0;">
 <div class="NavHead" style="text-align: left;">
 <p>詳細</p>
@@ -115,7 +115,7 @@ UPCI-1081:通常盤</p></td>
 <ol>
 <li>Blooming Sky</li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/コンセプト・アルバム" title="wikilink">コンセプト・アルバム</a></p>
+<td><p><a href="../Page/コンセプト・アルバム.md" title="wikilink">コンセプト・アルバム</a></p>
 <div class="NavFrame" style="clear: both; border:0;">
 <div class="NavHead" style="text-align: left;">
 <p>詳細</p>
@@ -208,15 +208,15 @@ UPCI-1092:通常盤</p></td>
 <li><a href="https://ja.wikipedia.org/wiki/さすらい_(奥田民生の曲)" title="wikilink">さすらい</a></li>
 <li><a href="../Page/どんなときも。.md" title="wikilink">どんなときも。</a></li>
 <li>missing</li>
-<li><a href="https://ja.wikipedia.org/wiki/ロビンソン_(曲)" title="wikilink">ロビンソン</a></li>
+<li><a href="../Page/ロビンソン_(曲).md" title="wikilink">ロビンソン</a></li>
 <li><a href="../Page/Hello,_my_friend.md" title="wikilink">Hello, my friend</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/愛について" title="wikilink">愛について</a></li>
+<li><a href="../Page/愛について.md" title="wikilink">愛について</a></li>
 <li>猫の月の昼寝</li>
 <li><a href="https://ja.wikipedia.org/wiki/命の別名/糸" title="wikilink">糸</a></li>
 <li>One Love</li>
-<li><a href="https://ja.wikipedia.org/wiki/未来へ_(Kiroroの曲)" title="wikilink">未来へ</a></li>
+<li><a href="../Page/未来へ_(Kiroroの曲).md" title="wikilink">未来へ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/サヨナラCOLOR" title="wikilink">サヨナラCOLOR</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/はじまりはいつも雨" title="wikilink">はじまりはいつも雨</a></li>
+<li><a href="../Page/はじまりはいつも雨.md" title="wikilink">はじまりはいつも雨</a></li>
 <li>You are mine(オリジナル曲)</li>
 </ol></td>
 <td><p>オリコン最高130位、登場回数3回</p></td>
@@ -324,15 +324,15 @@ UPCI-1092:通常盤</p></td>
 <li><a href="https://ja.wikipedia.org/wiki/やさしさで溢れるように" title="wikilink">やさしさで溢れるように</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ごはんができたよ" title="wikilink">ひとつだけ</a></li>
 <li><a href="../Page/25コ目の染色体.md" title="wikilink">25コ目の染色体</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/鱗_(曲)" title="wikilink">鱗</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/天体観測_(曲)" title="wikilink">天体観測</a></li>
+<li><a href="../Page/鱗_(曲).md" title="wikilink">鱗</a></li>
+<li><a href="../Page/天体観測_(曲).md" title="wikilink">天体観測</a></li>
 <li><a href="../Page/ばらの花.md" title="wikilink">ばらの花</a></li>
 <li>吉祥寺は夜の6時 -Interlude-(オリジナル曲)</li>
 <li><a href="https://ja.wikipedia.org/wiki/RPG_(SEKAI_NO_OWARIの曲)" title="wikilink">RPG</a></li>
 <li>It's a Brand New Day -奇跡の日-(オリジナル曲)</li>
 <li><a href="../Page/中央線_(曲).md" title="wikilink">中央線</a></li>
 <li>はるのはるか (sasakure.UK)</li>
-<li><a href="https://ja.wikipedia.org/wiki/空も飛べるはず" title="wikilink">空も飛べるはず</a></li>
+<li><a href="../Page/空も飛べるはず.md" title="wikilink">空も飛べるはず</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ORION_(中島美嘉の曲)" title="wikilink">ORION</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/LOVE_LOVE_LOVE/嵐が来る" title="wikilink">LOVE LOVE LOVE</a></li>
 <li>Beautiful Life(オリジナル曲)</li>
@@ -444,7 +444,7 @@ KICA-93240</p></td>
 | [Yukitaka Amemiya](https://ja.wikipedia.org/wiki/Yukitaka_Amemiya "wikilink")+[Chernyy krolik](https://ja.wikipedia.org/wiki/Chernyy_krolik "wikilink") | 「[やさしさで溢れるように](https://www.youtube.com/watch?v=8hctWzbIe3Q)」                                                    |
 | [勝浦裕](https://ja.wikipedia.org/wiki/勝浦裕 "wikilink")                                                                                                     | 「[ボクたちのうた](https://www.youtube.com/watch?v=iXgigwFGPnY)」                                                        |
 | [sasakure.UK](https://ja.wikipedia.org/wiki/sasakure.UK "wikilink")                                                                                     | 「[はるのはるか](https://www.youtube.com/watch?v=gT_hXzWkfag)」                                                         |
-| [須永秀明](https://ja.wikipedia.org/wiki/須永秀明 "wikilink")                                                                                                   | 「[はじまりのうた](https://www.youtube.com/watch?v=tViflOhKUYU)」「[ナミダノコエ](https://www.youtube.com/watch?v=fAPRT24rKTA)」 |
+| [須永秀明](../Page/須永秀明.md "wikilink")                                                                                                                      | 「[はじまりのうた](https://www.youtube.com/watch?v=tViflOhKUYU)」「[ナミダノコエ](https://www.youtube.com/watch?v=fAPRT24rKTA)」 |
 | [HIBIKI](https://ja.wikipedia.org/wiki/吉崎響 "wikilink")                                                                                                  | 「hello」「ひらり」「[太陽のキス](https://www.youtube.com/watch?v=NfrrOSRyVjk)」                                              |
 | [VISIBLEX](https://ja.wikipedia.org/wiki/VISIBLEX "wikilink")                                                                                           | 「[瞳がほほえむから](https://www.youtube.com/watch?v=ylVKfNP52L0)」                                                       |
 |                                                                                                                                                         |                                                                                                                 |

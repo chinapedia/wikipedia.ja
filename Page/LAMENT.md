@@ -8,18 +8,18 @@
 ## 収録曲
 
 1.  **PREY -remix-／[SHIHO](../Page/SHIHO_\(ボーカリスト\).md "wikilink")**
-      - 作詞・作曲・編曲：[高瀬一矢](https://ja.wikipedia.org/wiki/高瀬一矢 "wikilink")
+      - 作詞・作曲・編曲：[高瀬一矢](../Page/高瀬一矢.md "wikilink")
 2.  **SNOW -Album Mix-／[島宮えい子](https://ja.wikipedia.org/wiki/島宮えい子 "wikilink")**
       - 作詞：Studio Mebius／作曲・編曲：高瀬一矢
 3.  **Face of Fact／[KOTOKO](https://ja.wikipedia.org/wiki/KOTOKO "wikilink")**
       - 作詞：[KOTOKO](https://ja.wikipedia.org/wiki/KOTOKO "wikilink")／作曲：[C.G mix](../Page/C.G_mix.md "wikilink")／編曲：C.G mix、FISH TONE
-4.  **SAVE YOUR HEART -Album Mix-／KOTOKO to [詩月カオリ](https://ja.wikipedia.org/wiki/詩月カオリ "wikilink")**
+4.  **SAVE YOUR HEART -Album Mix-／KOTOKO to [詩月カオリ](../Page/詩月カオリ.md "wikilink")**
       - 作詞：KOTOKO／作曲・編曲：高瀬一矢
 5.  **遮光 ～かげり～ -Album Mix-／KOTOKO**
-      - 作詞：KOTOKO／作曲：[中沢伴行](https://ja.wikipedia.org/wiki/中沢伴行 "wikilink")／編曲：高瀬一矢
-6.  **僕らが見守る未来／[詩月カオリ](https://ja.wikipedia.org/wiki/詩月カオリ "wikilink")**
-      - 作詞：KOTOKO（訳詞：[wata](https://ja.wikipedia.org/wiki/渡部真也 "wikilink")）作曲・編曲：中沢伴行／コーラス：KOTOKO
-7.  **GREEDY／[MOMO](https://ja.wikipedia.org/wiki/モモイヒトミ "wikilink")**
+      - 作詞：KOTOKO／作曲：[中沢伴行](../Page/中沢伴行.md "wikilink")／編曲：高瀬一矢
+6.  **僕らが見守る未来／[詩月カオリ](../Page/詩月カオリ.md "wikilink")**
+      - 作詞：KOTOKO（訳詞：[wata](../Page/渡部真也.md "wikilink")）作曲・編曲：中沢伴行／コーラス：KOTOKO
+7.  **GREEDY／[MOMO](../Page/モモイヒトミ.md "wikilink")**
       - 作詞：木内亜矢／作曲・編曲：高瀬一矢／コーラス：島みやえい子
 8.  **Feel in tears／KOTOKO**
       - 作詞：KOTOKO／作曲・編曲：高瀬一矢
@@ -36,20 +36,20 @@
 
 ## タイアップ
 
-| 曲名                                       | タイアップ                                                                                                                      | 備考（原曲歌唱）                                              |
-| ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
-| PREY                                     | [PCゲーム](../Page/パソコンゲーム.md "wikilink")『nightmare4.1 SoundEdition』[オープニングテーマ](https://ja.wikipedia.org/wiki/主題歌 "wikilink") | 島宮えい子                                                 |
-| SNOW                                     | PCゲーム『[SNOW](https://ja.wikipedia.org/wiki/SNOW_\(ゲーム\) "wikilink")』オープニングテーマ                                              | [松澤由美](https://ja.wikipedia.org/wiki/松澤由美 "wikilink") |
-| Face of Fact                             | PCゲーム『[BALDR FORCE](https://ja.wikipedia.org/wiki/BALDR_FORCE "wikilink")』オープニングテーマ                                        |                                                       |
-| SAVE YOUR HEART                          | PCゲーム『注射器2』オープニングテーマ                                                                                                       | KOTOKO TO AKI                                         |
-| 遮光                                       | PCゲーム『Coda-棘-』オープニングテーマ                                                                                                    |                                                       |
-| 僕らが見守る未来                                 | PCゲーム『はじらひ』オープニングテーマ                                                                                                       |                                                       |
-| GREEDY                                   | PCゲーム『失格医師』オープニングテーマ                                                                                                       |                                                       |
-| Feel in tears                            | PCゲーム『Heart of Hearts』オープニングテーマ                                                                                            |                                                       |
-| 夏草の線路                                    | PCゲーム『[Railway 〜ここにある夢〜](https://ja.wikipedia.org/wiki/Railway_〜ここにある夢〜 "wikilink")』オープニングテーマ                              | KOTOKO TO AKI                                         |
-| 雨に歌う譚詩曲                                  | PCゲーム『雨に歌う譚詩曲 〜A rainbow after the rain〜』オープニングテーマ                                                                         |                                                       |
-| I pray to stop my cry -little sea style- | PCゲーム『凌辱痴漢地獄』オープニングテーマ                                                                                                     |                                                       |
-| 悲しみの花                                    | PCゲーム『復讐 -凌辱の刃-』エンディングテーマ                                                                                                  |                                                       |
+| 曲名                                       | タイアップ                                                                                                   | 備考（原曲歌唱）                           |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------------------- | ---------------------------------- |
+| PREY                                     | [PCゲーム](../Page/パソコンゲーム.md "wikilink")『nightmare4.1 SoundEdition』[オープニングテーマ](../Page/主題歌.md "wikilink") | 島宮えい子                              |
+| SNOW                                     | PCゲーム『[SNOW](../Page/SNOW_\(ゲーム\).md "wikilink")』オープニングテーマ                                              | [松澤由美](../Page/松澤由美.md "wikilink") |
+| Face of Fact                             | PCゲーム『[BALDR FORCE](../Page/BALDR_FORCE.md "wikilink")』オープニングテーマ                                        |                                    |
+| SAVE YOUR HEART                          | PCゲーム『注射器2』オープニングテーマ                                                                                    | KOTOKO TO AKI                      |
+| 遮光                                       | PCゲーム『Coda-棘-』オープニングテーマ                                                                                 |                                    |
+| 僕らが見守る未来                                 | PCゲーム『はじらひ』オープニングテーマ                                                                                    |                                    |
+| GREEDY                                   | PCゲーム『失格医師』オープニングテーマ                                                                                    |                                    |
+| Feel in tears                            | PCゲーム『Heart of Hearts』オープニングテーマ                                                                         |                                    |
+| 夏草の線路                                    | PCゲーム『[Railway 〜ここにある夢〜](https://ja.wikipedia.org/wiki/Railway_〜ここにある夢〜 "wikilink")』オープニングテーマ           | KOTOKO TO AKI                      |
+| 雨に歌う譚詩曲                                  | PCゲーム『雨に歌う譚詩曲 〜A rainbow after the rain〜』オープニングテーマ                                                      |                                    |
+| I pray to stop my cry -little sea style- | PCゲーム『凌辱痴漢地獄』オープニングテーマ                                                                                  |                                    |
+| 悲しみの花                                    | PCゲーム『復讐 -凌辱の刃-』エンディングテーマ                                                                               |                                    |
 
 ## 外部リンク
 

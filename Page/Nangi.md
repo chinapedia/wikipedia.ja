@@ -7,7 +7,7 @@
 
 ### 人物
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")より[音楽](../Page/音楽.md "wikilink")活動を開始し、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")に[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")。
+[2006年](../Page/2006年.md "wikilink")より[音楽](../Page/音楽.md "wikilink")活動を開始し、[2007年](../Page/2007年.md "wikilink")に[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")。
 
 アーティストネームは、少女期に[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")を描いていた時の[ペンネーム](../Page/ペンネーム.md "wikilink")で、本名の「南実」から由来している\[1\]。
 
@@ -20,17 +20,17 @@
 ## 略歴
 
   - 幼少時より[オルガン](../Page/オルガン.md "wikilink")に触れ、小学校高学年の頃より趣味の延長で作曲を開始する。
-  - 高校時代に[キーボードと中古の](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")[MTRを購入したことをきっかけに宅録で音楽制作を始める](https://ja.wikipedia.org/wiki/マルチトラックレコーダー "wikilink")。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - 高校時代に[キーボードと中古の](../Page/キーボード_\(楽器\).md "wikilink")[MTRを購入したことをきっかけに宅録で音楽制作を始める](https://ja.wikipedia.org/wiki/マルチトラックレコーダー "wikilink")。
+  - [2005年](../Page/2005年.md "wikilink")
       - [ソニー・ミュージックエンタテインメント主催のSony](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink") Music Auditionに参加。そこで映画関係者の目に留まり、映画『[ベロニカは死ぬことにした](../Page/ベロニカは死ぬことにした.md "wikilink")』の主題歌担当のオファーを受ける。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")
-      - [2月1日](../Page/2月1日.md "wikilink")、映画『ベロニカは死ぬことにした』[サウンドトラック](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")発売。主題歌に起用された「こんな風に笑う。(film ver.)」収録でCDデビューを果たす。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")
+  - [2006年](../Page/2006年.md "wikilink")
+      - [2月1日](../Page/2月1日.md "wikilink")、映画『ベロニカは死ぬことにした』[サウンドトラック](../Page/サウンドトラック.md "wikilink")発売。主題歌に起用された「こんな風に笑う。(film ver.)」収録でCDデビューを果たす。
+  - [2007年](../Page/2007年.md "wikilink")
       - [1月5日](../Page/1月5日.md "wikilink")、オフィシャルサイト開設。[LOVE FMにて初のレギュラー](https://ja.wikipedia.org/wiki/九州国際エフエム "wikilink")[ラジオ](../Page/ラジオ.md "wikilink")番組『nangi - the life size music』が放送開始。
       - [2月14日](../Page/2月14日.md "wikilink")、[タワーレコード](../Page/タワーレコード.md "wikilink")限定発売で、[tearbridge productionより](https://ja.wikipedia.org/wiki/tearbridge_production "wikilink")[ミニアルバム](../Page/アルバム.md "wikilink")『n』で[インディーズ](../Page/インディーズ.md "wikilink")デビュー。収録曲6曲のうち5曲が[映画](../Page/映画.md "wikilink")・[舞台](../Page/舞台.md "wikilink")の主題歌に起用されたことで話題を集める（収録曲6曲全てタイアップ付）。
       - [3月](https://ja.wikipedia.org/wiki/3月 "wikilink")、映画『東京の嘘』で、自身が映画音楽を担当し、作品にも出演する。
-      - [6月6日](../Page/6月6日.md "wikilink")、[EPIC RECORDSよりミニアルバム](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")『すばらしい想い』で[メジャーデビュー](https://ja.wikipedia.org/wiki/メジャー・デビュー_\(音楽家\) "wikilink")。
-      - [8月24日](../Page/8月24日.md "wikilink")より、より多くの人に「目撃」してもらうための無料招待制ライブ「目撃者ライブ」を[ソニー・ミュージックエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")[乃木坂](https://ja.wikipedia.org/wiki/乃木坂 "wikilink")ビルライブテリアにて開催。以後、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月24日](../Page/1月24日.md "wikilink")の第5回まで月1回のペースでライブを行う。
+      - [6月6日](../Page/6月6日.md "wikilink")、[EPIC RECORDSよりミニアルバム](../Page/エピックレコードジャパン.md "wikilink")『すばらしい想い』で[メジャーデビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。
+      - [8月24日](../Page/8月24日.md "wikilink")より、より多くの人に「目撃」してもらうための無料招待制ライブ「目撃者ライブ」を[ソニー・ミュージックエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")[乃木坂](../Page/乃木坂.md "wikilink")ビルライブテリアにて開催。以後、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月24日](../Page/1月24日.md "wikilink")の第5回まで月1回のペースでライブを行う。
       - [12月5日](../Page/12月5日.md "wikilink")、2枚目のミニアルバム『VIVID HEART』を発売。
   - [2009年](../Page/2009年.md "wikilink")
       - [5月13日](../Page/5月13日.md "wikilink")、オムニバス映画『[非女子図鑑](https://ja.wikipedia.org/wiki/非女子図鑑 "wikilink")』の主題歌「エクスプレス」を[着うた](../Page/着うた.md "wikilink")配信にて先行発売。
@@ -41,9 +41,9 @@
 
 #### ミニアルバム
 
-| 枚   | 発売日                                                                                         | タイトル  | 規格品番      |
-| --- | ------------------------------------------------------------------------------------------- | ----- | --------- |
-| 1st | [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[2月14日](../Page/2月14日.md "wikilink") | **n** | TBCD-1031 |
+| 枚   | 発売日                                                                      | タイトル  | 規格品番      |
+| --- | ------------------------------------------------------------------------ | ----- | --------- |
+| 1st | [2007年](../Page/2007年.md "wikilink")[2月14日](../Page/2月14日.md "wikilink") | **n** | TBCD-1031 |
 
 ### メジャー
 
@@ -69,9 +69,9 @@
 ### 配信限定曲
 
   - くろ (切なさ色 ver.)（2007年[9月28日](../Page/9月28日.md "wikilink")配信開始）
-      - [mora](https://ja.wikipedia.org/wiki/mora "wikilink")・[着うた](../Page/着うた.md "wikilink")・[着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")限定配信
+      - [mora](https://ja.wikipedia.org/wiki/mora "wikilink")・[着うた](../Page/着うた.md "wikilink")・[着うたフル](../Page/着うたフル.md "wikilink")限定配信
   - エクスプレス（2009年6月3日配信開始）
-      - [mora](https://ja.wikipedia.org/wiki/mora "wikilink")・[着うた](../Page/着うた.md "wikilink")・[着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")限定配信
+      - [mora](https://ja.wikipedia.org/wiki/mora "wikilink")・[着うた](../Page/着うた.md "wikilink")・[着うたフル](../Page/着うたフル.md "wikilink")限定配信
       - 映画『[非女子図鑑](https://ja.wikipedia.org/wiki/非女子図鑑 "wikilink")』主題歌
 
 ### その他
@@ -85,32 +85,32 @@
 
 ## ミュージックビデオ
 
-|                                                         |                                                |
-| ------------------------------------------------------- | ---------------------------------------------- |
-| **監督**                                                  | **曲名**                                         |
-| [久保茂昭](../Page/久保茂昭.md "wikilink")                      | 「VIVID」(出演:[伊倉愛美](../Page/伊倉愛美.md "wikilink")) |
-| [タナダユキ](https://ja.wikipedia.org/wiki/タナダユキ "wikilink") | 「すばらしい想い」                                      |
-| [柳沢翔](https://ja.wikipedia.org/wiki/柳沢翔 "wikilink")     | 「walkの約束」                                      |
-|                                                         |                                                |
+|                                                     |                                                |
+| --------------------------------------------------- | ---------------------------------------------- |
+| **監督**                                              | **曲名**                                         |
+| [久保茂昭](../Page/久保茂昭.md "wikilink")                  | 「VIVID」(出演:[伊倉愛美](../Page/伊倉愛美.md "wikilink")) |
+| [タナダユキ](../Page/タナダユキ.md "wikilink")                | 「すばらしい想い」                                      |
+| [柳沢翔](https://ja.wikipedia.org/wiki/柳沢翔 "wikilink") | 「walkの約束」                                      |
+|                                                     |                                                |
 
 ## タイアップ
 
-|                                                                                               |                                                                                                                                                                                                                              |
-| --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **曲名**                                                                                        | **タイアップ**                                                                                                                                                                                                                    |
-| jinx                                                                                          | CineMusica『東京の嘘』主題歌                                                                                                                                                                                                          |
-| こんな風に笑う。                                                                                      | 映画『[ベロニカは死ぬことにした](https://ja.wikipedia.org/wiki/ベロニカは死ぬことにした_\(2005年の映画\) "wikilink")』主題歌                                                                                                                                    |
-| あした。                                                                                          | [下北沢](../Page/下北沢.md "wikilink")演劇祭 舞台『月の子供』主題歌                                                                                                                                                                              |
-| UNMEI                                                                                         | CineMusica『東京の嘘』挿入歌                                                                                                                                                                                                          |
-| 星の道。                                                                                          | [FM鹿児島](../Page/エフエム鹿児島.md "wikilink")『[Move On\! ～aiRhythm～](https://ja.wikipedia.org/wiki/Move_On!_～aiRhythm～ "wikilink")』エンディングテーマ                                                                                        |
-| [九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")スペシャルドラマ『福岡恋愛白書2 ふたつの Love Story』挿入歌 |                                                                                                                                                                                                                              |
-| 妄想依存ショー (with 島田雅彦)                                                                           | CineMusica『東京の嘘』挿入歌                                                                                                                                                                                                          |
-| エクスプレス                                                                                        | 映画『[非女子図鑑](https://ja.wikipedia.org/wiki/非女子図鑑 "wikilink")』主題歌                                                                                                                                                               |
-| すばらしい想い                                                                                       | [毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")・[TBS系全国ネット](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")[ドラマ30](../Page/ドラマ30.md "wikilink")『[暖流](https://ja.wikipedia.org/wiki/暖流_\(小説\)#2007年版 "wikilink")』主題歌 |
-| VIVID                                                                                         | [スペースシャワーTV](https://ja.wikipedia.org/wiki/スペースシャワーTV "wikilink")2007年12月度[POWER PUSH選出曲](https://ja.wikipedia.org/wiki/スペースシャワーTV歴代POWER_PUSH一覧 "wikilink")                                                                 |
-| Firefly (Dakota Star featuring nangi)                                                         | 映画『夜の上海』主題歌                                                                                                                                                                                                                  |
-| [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『メデューサの瞳』エンディングテーマ                    |                                                                                                                                                                                                                              |
-| walkの約束                                                                                       | [フジテレビアニメ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[屍鬼](https://ja.wikipedia.org/wiki/屍鬼 "wikilink")』エンディング・テーマ                                                                                                   |
+|                                                                                               |                                                                                                                                                                                                           |
+| --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **曲名**                                                                                        | **タイアップ**                                                                                                                                                                                                 |
+| jinx                                                                                          | CineMusica『東京の嘘』主題歌                                                                                                                                                                                       |
+| こんな風に笑う。                                                                                      | 映画『[ベロニカは死ぬことにした](https://ja.wikipedia.org/wiki/ベロニカは死ぬことにした_\(2005年の映画\) "wikilink")』主題歌                                                                                                                 |
+| あした。                                                                                          | [下北沢](../Page/下北沢.md "wikilink")演劇祭 舞台『月の子供』主題歌                                                                                                                                                           |
+| UNMEI                                                                                         | CineMusica『東京の嘘』挿入歌                                                                                                                                                                                       |
+| 星の道。                                                                                          | [FM鹿児島](../Page/エフエム鹿児島.md "wikilink")『[Move On\! ～aiRhythm～](https://ja.wikipedia.org/wiki/Move_On!_～aiRhythm～ "wikilink")』エンディングテーマ                                                                     |
+| [九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")スペシャルドラマ『福岡恋愛白書2 ふたつの Love Story』挿入歌 |                                                                                                                                                                                                           |
+| 妄想依存ショー (with 島田雅彦)                                                                           | CineMusica『東京の嘘』挿入歌                                                                                                                                                                                       |
+| エクスプレス                                                                                        | 映画『[非女子図鑑](https://ja.wikipedia.org/wiki/非女子図鑑 "wikilink")』主題歌                                                                                                                                            |
+| すばらしい想い                                                                                       | [毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")・[TBS系全国ネット](../Page/TBSテレビ.md "wikilink")[ドラマ30](../Page/ドラマ30.md "wikilink")『[暖流](https://ja.wikipedia.org/wiki/暖流_\(小説\)#2007年版 "wikilink")』主題歌 |
+| VIVID                                                                                         | [スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")2007年12月度[POWER PUSH選出曲](../Page/スペースシャワーTV歴代POWER_PUSH一覧.md "wikilink")                                                                                    |
+| Firefly (Dakota Star featuring nangi)                                                         | 映画『夜の上海』主題歌                                                                                                                                                                                               |
+| [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『メデューサの瞳』エンディングテーマ                    |                                                                                                                                                                                                           |
+| walkの約束                                                                                       | [フジテレビアニメ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[屍鬼](../Page/屍鬼.md "wikilink")』エンディング・テーマ                                                                                                   |
 
 ## 出演
 
@@ -132,14 +132,14 @@
 
 ## 関連人物
 
-  - [加藤有加利](https://ja.wikipedia.org/wiki/加藤有加利 "wikilink")
+  - [加藤有加利](../Page/加藤有加利.md "wikilink")
   - [SUEMITSU & THE SUEMITH](https://ja.wikipedia.org/wiki/SUEMITSU_&_THE_SUEMITH "wikilink")
-  - [鈴木俊介](https://ja.wikipedia.org/wiki/鈴木俊介 "wikilink")
-  - [西川進](https://ja.wikipedia.org/wiki/西川進 "wikilink")
+  - [鈴木俊介](../Page/鈴木俊介.md "wikilink")
+  - [西川進](../Page/西川進.md "wikilink")
   - [野間康介](https://ja.wikipedia.org/wiki/野間康介 "wikilink")
   - [宗本康兵](https://ja.wikipedia.org/wiki/宗本康兵 "wikilink")
   - [村山☆潤](https://ja.wikipedia.org/wiki/村山☆潤 "wikilink")
-  - [RAM RIDER](https://ja.wikipedia.org/wiki/RAM_RIDER "wikilink")
+  - [RAM RIDER](../Page/RAM_RIDER.md "wikilink")
 
 ## 出典
 

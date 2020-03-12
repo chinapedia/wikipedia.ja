@@ -1,42 +1,42 @@
 > この記事は[B\'](https://ja.wikipedia.org/wiki/B\')から翻訳されています。
 
 
-『**アニメ店長B'店長候補生**』は、『[アニメ店長](https://ja.wikipedia.org/wiki/アニメ店長 "wikilink")』からのスピンオフ作品。漫画版は[コミックZERO-SUM](https://ja.wikipedia.org/wiki/コミックZERO-SUM "wikilink")（[一迅社](https://ja.wikipedia.org/wiki/一迅社 "wikilink")）2003年8月号-2007年7月号にて連載
+『**アニメ店長B'店長候補生**』は、『[アニメ店長](../Page/アニメ店長.md "wikilink")』からのスピンオフ作品。漫画版は[コミックZERO-SUM](../Page/コミックZERO-SUM.md "wikilink")（[一迅社](../Page/一迅社.md "wikilink")）2003年8月号-2007年7月号にて連載
 
   - [原作](../Page/原作.md "wikilink")：[島本和彦](../Page/島本和彦.md "wikilink")
-  - [キャラクターデザイン](../Page/キャラクターデザイン.md "wikilink")：[ねぎしきょうこ](https://ja.wikipedia.org/wiki/ねぎしきょうこ "wikilink")
+  - [キャラクターデザイン](../Page/キャラクターデザイン.md "wikilink")：[ねぎしきょうこ](../Page/ねぎしきょうこ.md "wikilink")
   - [漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")：[真崎はるか](https://ja.wikipedia.org/wiki/真崎はるか "wikilink")
 
 ## 概要
 
 通常、『アニメ店長』とはストーリーや登場人物に関連を持たないが、世界観は共通しており、『アニメ店長』から兄沢命斗がゲスト出演したことや、逆に『アニメ店長』側へ候補生たちがゲスト出演した事もあったり、時には『アニメ店長』側をも大勢巻き込んでの壮大なクロスオーバーをしたことなどがあった。
 
-コミックZERO-SUM（一迅社）2007年7月号で連載終了。アニメイトを描いた作品は一時的に『アニメ店長』のみに戻るが、その後、『[アニメイト・コンシェルジュ](https://ja.wikipedia.org/wiki/アニメイト・コンシェルジュ "wikilink")』（原作：[渡辺圭子](https://ja.wikipedia.org/wiki/渡辺圭子 "wikilink") キャラクターデザイン：[松本テマリ](https://ja.wikipedia.org/wiki/松本テマリ "wikilink")）が企画される。ただし、この『アニメイト・コンシェルジュ』は、『アニメ店長』や『店長候補生』との世界観のつながりは明記されていない。なお、連載終了後も、『アニメ店長』のキャラクターとともにラジオ番組がくまれたり、イベントに参加したりと、『[アニメ店長](https://ja.wikipedia.org/wiki/アニメ店長 "wikilink")』の中で設定は生き続けているとも言える。
+コミックZERO-SUM（一迅社）2007年7月号で連載終了。アニメイトを描いた作品は一時的に『アニメ店長』のみに戻るが、その後、『[アニメイト・コンシェルジュ](https://ja.wikipedia.org/wiki/アニメイト・コンシェルジュ "wikilink")』（原作：[渡辺圭子](https://ja.wikipedia.org/wiki/渡辺圭子 "wikilink") キャラクターデザイン：[松本テマリ](../Page/松本テマリ.md "wikilink")）が企画される。ただし、この『アニメイト・コンシェルジュ』は、『アニメ店長』や『店長候補生』との世界観のつながりは明記されていない。なお、連載終了後も、『アニメ店長』のキャラクターとともにラジオ番組がくまれたり、イベントに参加したりと、『[アニメ店長](../Page/アニメ店長.md "wikilink")』の中で設定は生き続けているとも言える。
 
 ## 登場人物
 
 ### アニメイト寿銀座通り店関係者
 
   - 金原紫（きんばらゆかり）
-    声：[平松晶子](../Page/平松晶子.md "wikilink")（2003年7月配布の「日常業務」のみ）・[水谷優子](https://ja.wikipedia.org/wiki/水谷優子 "wikilink")
-    [アニメイト](https://ja.wikipedia.org/wiki/アニメイト "wikilink")寿銀座通り店[店長](https://ja.wikipedia.org/wiki/店長 "wikilink")。アニメ魂は皆無だが、経営手段（実績）はピカイチ。勤務態度はかなりいい加減だが、実力はあるので帳尻合わせができる。その実力は地方の小規模店ながら、都市圏中規模店以上の売り上げを誇るほどである。
+    声：[平松晶子](../Page/平松晶子.md "wikilink")（2003年7月配布の「日常業務」のみ）・[水谷優子](../Page/水谷優子.md "wikilink")
+    [アニメイト](../Page/アニメイト.md "wikilink")寿銀座通り店[店長](https://ja.wikipedia.org/wiki/店長 "wikilink")。アニメ魂は皆無だが、経営手段（実績）はピカイチ。勤務態度はかなりいい加減だが、実力はあるので帳尻合わせができる。その実力は地方の小規模店ながら、都市圏中規模店以上の売り上げを誇るほどである。
     本社からの指示である「店長プロジェクト」を一任されており、メンバーをなんとか集めたが、一太たちのデキの悪さには頭を抱えることもある。得物は釘バット（主に一太や修三郎、覆面に使用されることが多い）。
 
 #### 店長候補生
 
-金原紫に撰ばれた4人。作中の[主人公](https://ja.wikipedia.org/wiki/主人公 "wikilink")たち。新渡戸和以外の3人は、金原紫によって強制的に集められた。
+金原紫に撰ばれた4人。作中の[主人公](../Page/主人公.md "wikilink")たち。新渡戸和以外の3人は、金原紫によって強制的に集められた。
 
   - 福沢一太（ふくざわいった）
     声：[朴璐美](../Page/朴ロ美.md "wikilink")
     候補生の一人。リストバンドを愛用している。可愛い女の子に目がない。
-    夏目修三郎が金原紫に襲撃された現場に遭遇し、[ゴミ](https://ja.wikipedia.org/wiki/ゴミ "wikilink")[バケツ](https://ja.wikipedia.org/wiki/バケツ "wikilink")を投げられ[ダウン](https://ja.wikipedia.org/wiki/ダウン "wikilink")したところをつれてこられた。4人の中では殆ど一般人に近く、アニメなどの知識は皆無。車とスポーツ、そして可愛い女の子に興味があるごく普通の高校生。熱血漢で、兄沢命斗をモデルとした『[アニメ店長](https://ja.wikipedia.org/wiki/アニメ店長 "wikilink")』(本編内の[劇中劇](https://ja.wikipedia.org/wiki/劇中劇 "wikilink")や[イメージキャラクター](https://ja.wikipedia.org/wiki/イメージキャラクター "wikilink")としての『アニメ店長』)との一件から店長プロジェクトに一番積極的に活動し、客とのコミュニケーションも一番積極的ではいるが、ドジで記憶力も悪く、要領が悪いため、足を引っ張ることが多い。
-    他の3人と違い、[喧嘩](https://ja.wikipedia.org/wiki/喧嘩 "wikilink")ごとでの伝説はないが、ふられた数なら[30](../Page/30.md "wikilink")を超える。
+    夏目修三郎が金原紫に襲撃された現場に遭遇し、[ゴミ](https://ja.wikipedia.org/wiki/ゴミ "wikilink")[バケツ](../Page/バケツ.md "wikilink")を投げられ[ダウン](https://ja.wikipedia.org/wiki/ダウン "wikilink")したところをつれてこられた。4人の中では殆ど一般人に近く、アニメなどの知識は皆無。車とスポーツ、そして可愛い女の子に興味があるごく普通の高校生。熱血漢で、兄沢命斗をモデルとした『[アニメ店長](../Page/アニメ店長.md "wikilink")』(本編内の[劇中劇](../Page/劇中劇.md "wikilink")や[イメージキャラクター](https://ja.wikipedia.org/wiki/イメージキャラクター "wikilink")としての『アニメ店長』)との一件から店長プロジェクトに一番積極的に活動し、客とのコミュニケーションも一番積極的ではいるが、ドジで記憶力も悪く、要領が悪いため、足を引っ張ることが多い。
+    他の3人と違い、[喧嘩](../Page/喧嘩.md "wikilink")ごとでの伝説はないが、ふられた数なら[30](../Page/30.md "wikilink")を超える。
     お人よしの父親が身に覚えが無いのに認知したため血のつながらない妹が12人いる。ちなみにその妹達からもふられている。
   - 新渡戸和（にとべなごむ）
     声：[小林沙苗](../Page/小林沙苗.md "wikilink")
     候補生の一人。
     柔和な見た目とは裏腹にかなり腹黒い面のある高校生。ある理由により自分からアニメイト寿銀座通り店で働くことを決意する（そのため、初めて店長候補生が集められた際も、一人だけ拘束されていなかった）。面倒なことが嫌いで人を使うのが上手く、ちゃっかりした面もある。裁縫が得意。
-    [過去](../Page/過去.md "wikilink")の[影響](https://ja.wikipedia.org/wiki/影響 "wikilink")から、しばしば[毒](../Page/毒.md "wikilink")を吐くことがある。[中学](https://ja.wikipedia.org/wiki/中学 "wikilink")の頃、詳しいことは明かされていないが[伝説](https://ja.wikipedia.org/wiki/伝説 "wikilink")を残したことがある。
+    [過去](../Page/過去.md "wikilink")の[影響](https://ja.wikipedia.org/wiki/影響 "wikilink")から、しばしば[毒](../Page/毒.md "wikilink")を吐くことがある。[中学](https://ja.wikipedia.org/wiki/中学 "wikilink")の頃、詳しいことは明かされていないが[伝説](../Page/伝説.md "wikilink")を残したことがある。
     一太には自分がアニメイトで働こうとした理由を話したためか、他の二人より仲が良い。通勤にはシロのバイクのタンデムシートを占領している。
   - 岩倉シロ（いわくらしろ）
     声：[斎賀みつき](../Page/斎賀みつき.md "wikilink")
@@ -47,10 +47,10 @@
     一部のキャラクターの間では、「シロ」ではなく「クロ」と呼ばれている。
     4人の中で唯一彼女（年上）持ち。彼女のお母さん（[BL同人作家歴](../Page/ボーイズラブ.md "wikilink")25年の強者）とも仲がよい。
   - 夏目修三郎（なつめしゅうざぶろう）
-    声：[皆川純子](https://ja.wikipedia.org/wiki/皆川純子 "wikilink")
+    声：[皆川純子](../Page/皆川純子.md "wikilink")
     候補生の一人。
     インテリ系で自信過剰、自分至上主義の自称・エリートであるが、ツメの甘さは人一倍でたびたび不幸な目に合うこともある。
-    帰宅途中、金原紫によって背後から[金属バットで襲われ気絶](https://ja.wikipedia.org/wiki/バット_\(野球\) "wikilink")、アニメイト寿銀座通り店へ連れて行かれる。当初バイトに乗り気ではなかったが、お店がアニメショップだと知り、ある作品の登場人物の方が好きだという理由でフラれるた彼女を見返すために一気にやる気をだす。
+    帰宅途中、金原紫によって背後から[金属バットで襲われ気絶](../Page/バット_\(野球\).md "wikilink")、アニメイト寿銀座通り店へ連れて行かれる。当初バイトに乗り気ではなかったが、お店がアニメショップだと知り、ある作品の登場人物の方が好きだという理由でフラれるた彼女を見返すために一気にやる気をだす。
     学校では風紀委員を務めており、後輩からの信頼も厚い。隣接の男子校、[黒井高の生徒などからは](https://ja.wikipedia.org/wiki/#黒井高関係者 "wikilink")、「[白菊](https://ja.wikipedia.org/wiki/白菊 "wikilink")の君」と呼ばれ、非常に慕われている。『金物屋銀次』のファンサイトでの名は「レンレン」。
     14歳の妹がいる。
 
@@ -63,23 +63,23 @@
 店長候補生たちが不在の際には、臨時で店を手伝うことも。
 
   - 前店長候補生リーダー
-    前店長候補生たちの**[プリンちゃん](https://ja.wikipedia.org/wiki/カスタードプディング "wikilink")**と呼ばれる[フィギュア](../Page/フィギュア.md "wikilink")（[人形](../Page/人形.md "wikilink")）を大事にしており、それが原因で和に敗れる。
+    前店長候補生たちの**[プリンちゃん](../Page/カスタードプディング.md "wikilink")**と呼ばれる[フィギュア](../Page/フィギュア.md "wikilink")（[人形](../Page/人形.md "wikilink")）を大事にしており、それが原因で和に敗れる。
     同様に**プリンちゃん**を愛するフクメンには気に入られている。
 
 #### 客
 
   - 山田（やまだ）
-    声：[岩田光央](https://ja.wikipedia.org/wiki/岩田光央 "wikilink")
+    声：[岩田光央](../Page/岩田光央.md "wikilink")
     通称「覆面（フクメン）」。本名は「山田聖徳（やまだまさのり）」
     アニメグッズで作った衣装と覆面をまとってお店によく来る客。はっきり言うと「イタいお客様」の部類。しかしたまに言うことは正論である。
-    **プリンちゃん**や**天使ちゃん**という[ロリキャラ](https://ja.wikipedia.org/wiki/ロリキャラ "wikilink")に[萌え](../Page/萌え.md "wikilink")るのみならず、本物の[ロリコン](https://ja.wikipedia.org/wiki/ロリコン "wikilink")であり、その[思想](../Page/思想.md "wikilink")のまま話し相手に理解されないことが多い。天使ちゃんを愛する漢達[同盟](https://ja.wikipedia.org/wiki/同盟 "wikilink")の一員。こう見えて大学生。
+    **プリンちゃん**や**天使ちゃん**という[ロリキャラ](https://ja.wikipedia.org/wiki/ロリキャラ "wikilink")に[萌え](../Page/萌え.md "wikilink")るのみならず、本物の[ロリコン](https://ja.wikipedia.org/wiki/ロリコン "wikilink")であり、その[思想](../Page/思想.md "wikilink")のまま話し相手に理解されないことが多い。天使ちゃんを愛する漢達[同盟](../Page/同盟.md "wikilink")の一員。こう見えて大学生。
     第1話から登場しており、過去にアニメイト寿銀座通り店の[アルバイト](../Page/アルバイト.md "wikilink")の面接時に金原紫に「[濃い](https://ja.wikipedia.org/wiki/濃い "wikilink")」との理由で拒否されたことがある。その復讐で店を訪れるが、現候補生達のがんばり（誤解）に感動し、陰日なたに4人をバックアップすることを誓ったのだが、役に立っていない（むしろ来店するたびに邪魔者扱いされている）。相棒の覆面ネコをいつも連れている。
   - カズヤ
-    声：[神奈延年](https://ja.wikipedia.org/wiki/神奈延年 "wikilink")
+    声：[神奈延年](../Page/神奈延年.md "wikilink")
     新渡戸和の同級生。[アニメソング](https://ja.wikipedia.org/wiki/アニメソング "wikilink")に燃えるアニソンガー。モデルは店長候補生の楽曲提供者である[西岡和哉](https://ja.wikipedia.org/wiki/西岡和哉_\(作曲家\) "wikilink")。
     自分のスタミナ不足という欠点を補うため、パートナーを探していたところ、学園祭にたまたま訪れていたシロの歌声に惚れ、彼と共にユニットデビューをしようとした。が、シロに断られてしまう。しかし今でも諦めておらず、自分で作ったMDを作ってはシロに渡していたりもする。お店の手伝いをするときもある。
   - ナミ
-    夏目修三郎に惚れる女の子。元は、ぷちぷち☆BABY（シロの[姉](https://ja.wikipedia.org/wiki/姉 "wikilink")が入っている同人サークル）の本を買う目的でアニメイトへ訪れる。顔は少々いかついが、心は乙女。環と仲良くなり、修三郎との恋を応援されている。年上のように見えるが実は中学生。
+    夏目修三郎に惚れる女の子。元は、ぷちぷち☆BABY（シロの[姉](../Page/姉.md "wikilink")が入っている同人サークル）の本を買う目的でアニメイトへ訪れる。顔は少々いかついが、心は乙女。環と仲良くなり、修三郎との恋を応援されている。年上のように見えるが実は中学生。
   - 環（たまき）
     夏目修三郎の[幼なじみ](https://ja.wikipedia.org/wiki/幼なじみ "wikilink")。『金物屋銀次』の主人公のファン。修三郎に告白されたが、そのときは「金物屋銀二」の主人公のほうが好きだという理由でふった。恵という[恋人](https://ja.wikipedia.org/wiki/恋人 "wikilink")がいる。ナミと意気投合し、彼女の恋を応援している。
   - 恵（けい）
@@ -90,16 +90,16 @@
   - るりか
     ラフレシア蝶子などに憧れる少女。同人誌の作り方を知るためにアニメイト寿銀座通り店に訪れ、一太たちに質問攻めをするが、自分で調べようとしなかった態度を蝶子に諌められる。その後、ちゃんと自分で調べて同人誌を出したらしい。人の話をちゃんと聞かないのが欠点。学校では放送部に所属しているらしい。
   - 越峰連之介（こしみねれんのすけ）
-    16年間漫画家生活を送って出した本は、『赤毛の大将くん』という漫画（8年前の漫画作品）だけという[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")（しかし、一太だけの呼び込みで[サイン会](https://ja.wikipedia.org/wiki/サイン会 "wikilink")に[ファン](../Page/ファン.md "wikilink")が4人も来る）。[妻](https://ja.wikipedia.org/wiki/妻 "wikilink")や[子供](../Page/子供.md "wikilink")に出て行かれており、[自殺](https://ja.wikipedia.org/wiki/自殺 "wikilink")をはかろうとするも止められる。
+    16年間漫画家生活を送って出した本は、『赤毛の大将くん』という漫画（8年前の漫画作品）だけという[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")（しかし、一太だけの呼び込みで[サイン会](https://ja.wikipedia.org/wiki/サイン会 "wikilink")に[ファン](../Page/ファン.md "wikilink")が4人も来る）。[妻](https://ja.wikipedia.org/wiki/妻 "wikilink")や[子供](../Page/子供.md "wikilink")に出て行かれており、[自殺](../Page/自殺.md "wikilink")をはかろうとするも止められる。
   - 越峰涼子（こしみねりょうこ）
     越峰連之介の[娘](https://ja.wikipedia.org/wiki/娘 "wikilink")。
 
 ### アニメイト本社関係者
 
-  - [高橋豊](https://ja.wikipedia.org/wiki/高橋豊_\(実業家\) "wikilink")（たかはしゆたか）
+  - [高橋豊](../Page/高橋豊_\(実業家\).md "wikilink")（たかはしゆたか）
     アニメイト社長であり、店長プロジェクトの発案者。
   - 黒崎（くろさき）
-    声：[矢尾一樹](https://ja.wikipedia.org/wiki/矢尾一樹 "wikilink")
+    声：[矢尾一樹](../Page/矢尾一樹.md "wikilink")
     高橋社長立案のプロジェクト「店長候補生プロジェクト」の担当者。時々寿銀座通り店に視察で訪れることもある。店に遊びに行くギンコのお守をかねている。[前店長候補生を一瞬で倒すほどの格闘センスを持つ](https://ja.wikipedia.org/wiki/#前店長候補生 "wikilink")。
   - 羽山（はやま）
     候補生監査役。常に和洋を問わないアンティークドールを携えており、日本人形の「多恵子ちゃん」には盗撮カメラが仕込んである。
@@ -112,14 +112,14 @@
     声：[関智一](../Page/関智一.md "wikilink")
     『アニメ店長』となった人物として店長候補生たちにあらぬ指導を行った。
   - 星井ラミカ（ほしいらみか）
-    声：[長沢美樹](https://ja.wikipedia.org/wiki/長沢美樹 "wikilink")
+    声：[長沢美樹](../Page/長沢美樹.md "wikilink")
     ラフレシア蝶子と[BL系の話で意気投合](../Page/ボーイズラブ.md "wikilink")。また、黒崎と面識があるような発言もしている。
 
 ### フェイク事務所関係者
 
   - 富田敬一
     通称、「トミー」。ススム役（『[宇宙](../Page/宇宙.md "wikilink")[提督](https://ja.wikipedia.org/wiki/提督 "wikilink")ススム\!\!』）や魚美役（『ロミオと[地下帝国](https://ja.wikipedia.org/wiki/地下帝国 "wikilink")のほとり』）や蓮次役（『金物屋銀次』）が代表作。『R・R・R』の銀行員A役で[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")。
-    [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")生まれ。一時期、**藍薔薇s**（ブルーローズ）という[ユニット](https://ja.wikipedia.org/wiki/ユニット "wikilink")を組んでいた。シロの姉が熱狂的なファン。
+    [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")生まれ。一時期、**藍薔薇s**（ブルーローズ）という[ユニット](../Page/ユニット.md "wikilink")を組んでいた。シロの姉が熱狂的なファン。
   - シンディ
     本名、村井。富田敬一のマネージャー。金原紫の学生時代のパシリ。
 
@@ -134,7 +134,7 @@
   - 島（しま）
     夏目修三郎を慕うメンバーの一人で、シロの正体を知っていた。
   - タカ
-    白菊の君の存在を認めないメンバーの一人で、アニメイトへと殴りこむも、[大雪](../Page/大雪.md "wikilink")にあいアニメイトから出られなくなり、当の夏目修三郎はその[天気](../Page/天気.md "wikilink")で[遭難](https://ja.wikipedia.org/wiki/遭難 "wikilink")していたため来なかった。
+    白菊の君の存在を認めないメンバーの一人で、アニメイトへと殴りこむも、[大雪](../Page/大雪.md "wikilink")にあいアニメイトから出られなくなり、当の夏目修三郎はその[天気](../Page/天気.md "wikilink")で[遭難](../Page/遭難.md "wikilink")していたため来なかった。
 
 ### 鈴木一家
 
@@ -155,16 +155,16 @@
 
 ### 『アニメ店長』
 
-現実世界の『[アニメ店長](https://ja.wikipedia.org/wiki/アニメ店長 "wikilink")』と同じような作品。
+現実世界の『[アニメ店長](../Page/アニメ店長.md "wikilink")』と同じような作品。
 
 ただし、「そのモデルとなった人物が存在する」や「『店長候補生』などのスピンオフ作品は今のところ確認されていない」などの点が異なっている。
 
 ### 『天使ちゃん』シリーズ
 
-[異世界](https://ja.wikipedia.org/wiki/異世界 "wikilink")から来た[少女](../Page/少女.md "wikilink")が[天使](../Page/天使.md "wikilink")になるための物語。モデルは、[石ノ森章太郎](https://ja.wikipedia.org/wiki/石ノ森章太郎 "wikilink")の『[二級天使](https://ja.wikipedia.org/wiki/二級天使 "wikilink")』。アニメイト寿銀座通り店でも、様々なグッズが販売されている。
+[異世界](https://ja.wikipedia.org/wiki/異世界 "wikilink")から来た[少女](../Page/少女.md "wikilink")が[天使](../Page/天使.md "wikilink")になるための物語。モデルは、[石ノ森章太郎](../Page/石ノ森章太郎.md "wikilink")の『[二級天使](https://ja.wikipedia.org/wiki/二級天使 "wikilink")』。アニメイト寿銀座通り店でも、様々なグッズが販売されている。
 
   - 『ラブリー 天使ちゃん』
-    『天使ちゃん』シリーズ第1作目の作品。数々の[スピンオフ](https://ja.wikipedia.org/wiki/スピンオフ "wikilink")を生んでいる。
+    『天使ちゃん』シリーズ第1作目の作品。数々の[スピンオフ](../Page/スピンオフ.md "wikilink")を生んでいる。
   - 『moe2 リトルシスター 天使ちゃん』
     『ラブリー 天使ちゃん』からのスピンオフ作品。漫画版『店長候補生』第1巻表紙カバー下に収録。
 
@@ -188,7 +188,7 @@
   - 蓮次
     『金物屋銀次』の登場人物。声優は富田敬一が担当。
   - 銀次
-    [伝説](https://ja.wikipedia.org/wiki/伝説 "wikilink")の[金物屋](https://ja.wikipedia.org/wiki/金物屋 "wikilink")。
+    [伝説](../Page/伝説.md "wikilink")の[金物屋](https://ja.wikipedia.org/wiki/金物屋 "wikilink")。
 
 ### 『ラン☆ダム』シリーズ
 
@@ -197,9 +197,9 @@
   - 『ラン☆ダム』
     便宜上「初代『ラン☆ダム』」と呼ばれることが多い。
   - 二代目『ラン☆ダム』
-    失敗作とされ、[DVD](../Page/DVD.md "wikilink")化や[レンタル](https://ja.wikipedia.org/wiki/レンタル "wikilink")化されていない『ラン☆ダム』の二作目。
+    失敗作とされ、[DVD](../Page/DVD.md "wikilink")化や[レンタル](../Page/レンタル.md "wikilink")化されていない『ラン☆ダム』の二作目。
   - 『ラん☆ダム』
-    『ラン☆ダム』の最新作。初代『ラン☆ダム』の[リメイク](https://ja.wikipedia.org/wiki/リメイク "wikilink")作品。[ドラマCD](https://ja.wikipedia.org/wiki/ドラマCD "wikilink")なども出されている。
+    『ラン☆ダム』の最新作。初代『ラン☆ダム』の[リメイク](../Page/リメイク.md "wikilink")作品。[ドラマCD](../Page/ドラマCD.md "wikilink")なども出されている。
 
 ## 用語
 
@@ -213,13 +213,13 @@
 一迅社よりZERO-SUM COMICの[レーベル](https://ja.wikipedia.org/wiki/レーベル "wikilink")で[単行本](../Page/単行本.md "wikilink")化
 
 1.  [2004年](../Page/2004年.md "wikilink")[9月15日](../Page/9月15日.md "wikilink")発行 ISBN 4-7580-5094-5
-2.  [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月15日](../Page/10月15日.md "wikilink")発行 ISBN 4-7580-5179-8
-3.  [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[8月15日](../Page/8月15日.md "wikilink")発行 ISBN 4-7580-5231-X
-4.  [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[9月15日](../Page/9月15日.md "wikilink")発行 ISBN 4-7580-5305-7
+2.  [2005年](../Page/2005年.md "wikilink")[10月15日](../Page/10月15日.md "wikilink")発行 ISBN 4-7580-5179-8
+3.  [2006年](../Page/2006年.md "wikilink")[8月15日](../Page/8月15日.md "wikilink")発行 ISBN 4-7580-5231-X
+4.  [2007年](../Page/2007年.md "wikilink")[9月15日](../Page/9月15日.md "wikilink")発行 ISBN 4-7580-5305-7
 
 ## ラジオ
 
-  - 店長候補生 超電波HYPER WAVE\! - [文化放送](../Page/文化放送.md "wikilink")[超機動放送アニゲマスター](https://ja.wikipedia.org/wiki/超機動放送アニゲマスター "wikilink")で放送されたアニメ店長のコーナーの後を受け[A\&G 超RADIO SHOW〜アニスパ\!〜放送開始とともにコーナーとして放送された](https://ja.wikipedia.org/wiki/A&G_超RADIO_SHOW〜アニスパ!〜 "wikilink")10分番組。覆面山田役の岩田をパーソナリティーに候補生が週代わりのアシスタントを担当。
+  - 店長候補生 超電波HYPER WAVE\! - [文化放送](../Page/文化放送.md "wikilink")[超機動放送アニゲマスター](../Page/超機動放送アニゲマスター.md "wikilink")で放送されたアニメ店長のコーナーの後を受け[A\&G 超RADIO SHOW〜アニスパ\!〜放送開始とともにコーナーとして放送された](../Page/A&G_超RADIO_SHOW〜アニスパ!〜.md "wikilink")10分番組。覆面山田役の岩田をパーソナリティーに候補生が週代わりのアシスタントを担当。
   - アニメイトTV アニメ店長\!子安・岩田のVOICEきゃらびぃ - [アニメイトTV](https://ja.wikipedia.org/wiki/アニメイトTV "wikilink")にて配信されたネットラジオ。覆面山田役の岩田とアニメ店長の道玄坂役の子安をパーソナリティーにアニメイトの商品などの紹介を行う番組
 
 ## CD
@@ -230,7 +230,7 @@
 
   - アニメ店長B'店長候補生 Drama\&Radio Talk Album 研修報告Vol.1（2004年10月23日）
     アニメ店長B'店長候補生 Drama\&Radio Talk Album 研修報告Vol.2（2004年11月27日）
-    脚本：[原田徹](https://ja.wikipedia.org/wiki/原田徹 "wikilink")
+    脚本：[原田徹](../Page/原田徹.md "wikilink")
 
 #### AVまつり配布CD
 

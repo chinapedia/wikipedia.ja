@@ -9,7 +9,7 @@
 
 ## DJ
 
-  - [KOJI](https://ja.wikipedia.org/wiki/KOJI "wikilink")・[森夏子](https://ja.wikipedia.org/wiki/森夏子 "wikilink")（3代目）
+  - [KOJI](../Page/KOJI.md "wikilink")・[森夏子](../Page/森夏子.md "wikilink")（3代目）
 
 <!-- end list -->
 
@@ -17,8 +17,8 @@
 
 <!-- end list -->
 
-  - [藤沢俊一郎](https://ja.wikipedia.org/wiki/藤沢俊一郎 "wikilink")・[大塚由美](https://ja.wikipedia.org/wiki/大塚由美 "wikilink")(初代)
-  - [庄司悟](https://ja.wikipedia.org/wiki/庄司悟 "wikilink")・森夏子(2代目、～2006年9月)
+  - [藤沢俊一郎](../Page/藤沢俊一郎.md "wikilink")・[大塚由美](../Page/大塚由美.md "wikilink")(初代)
+  - [庄司悟](../Page/庄司悟.md "wikilink")・森夏子(2代目、～2006年9月)
 
 <!-- end list -->
 
@@ -26,8 +26,8 @@
 
 <!-- end list -->
 
-  - [林智美](https://ja.wikipedia.org/wiki/林智美 "wikilink")（番組レポーター/2007年2月3日、KOJIの代理）
-  - [朴康造](https://ja.wikipedia.org/wiki/朴康造 "wikilink")（[ヴィッセル神戸](../Page/ヴィッセル神戸.md "wikilink")所属サッカー選手/2007年8月4日、KOJIの代理）
+  - [林智美](../Page/林智美.md "wikilink")（番組レポーター/2007年2月3日、KOJIの代理）
+  - [朴康造](../Page/朴康造.md "wikilink")（[ヴィッセル神戸](../Page/ヴィッセル神戸.md "wikilink")所属サッカー選手/2007年8月4日、KOJIの代理）
 
 ## 放送時間の変遷
 
@@ -37,13 +37,13 @@
 | 2005年4月～6月      | 18:00-20:55 | [TOYOTA RADIO FISH](https://ja.wikipedia.org/wiki/TOYOTA_RADIO_FISH "wikilink")（[TOKYO FMからのネット](../Page/エフエム東京.md "wikilink")）が終了したため |
 | 2005年7月～12月     | 18:00-20:30 | [ソヤファーム presents Natural Tempo](https://ja.wikipedia.org/wiki/ソヤファーム_presents_Natural_Tempo "wikilink")（TOKYO FMからのネット）が開始したため         |
 | 2006年1月～3月      | 18:00-20:55 | ソヤファーム presents Natural Tempoが終了したため                                                                                                   |
-| 2006年4月～2007年6月 | 18:00-20:30 | [Driving Navigator by ADVAN](https://ja.wikipedia.org/wiki/Driving_Navigator_by_ADVAN "wikilink")（TOKYO FMからの時差ネット）が時間変更したため           |
+| 2006年4月～2007年6月 | 18:00-20:30 | [Driving Navigator by ADVAN](../Page/Driving_Navigator_by_ADVAN.md "wikilink")（TOKYO FMからの時差ネット）が時間変更したため                              |
 | 2007年7月～終了      | 18:00-20:00 | [サンプラザ中野のマネーランナー](https://ja.wikipedia.org/wiki/サンプラザ中野のマネーランナー "wikilink")（[AIR-G'から時差ネット](../Page/エフエム北海道.md "wikilink")）が開始したため     |
 |                 |             |                                                                                                                                        |
 
 ## その他
 
-  - 18:00～18:55は[中西金属工業](https://ja.wikipedia.org/wiki/中西金属工業 "wikilink")がサポート（提供）していた。終了後は後番組の[トラフィックのスポンサーになっている](https://ja.wikipedia.org/wiki/FM_OSAKA_INFORMATION "wikilink")。
+  - 18:00～18:55は[中西金属工業](https://ja.wikipedia.org/wiki/中西金属工業 "wikilink")がサポート（提供）していた。終了後は後番組の[トラフィックのスポンサーになっている](../Page/FM_OSAKA_INFORMATION.md "wikilink")。
 
 ## 外部リンク
 

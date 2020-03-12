@@ -6,8 +6,8 @@
 ## 歴史
 
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に古河電池サッカー部として発足。
-  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") [東北社会人リーグ2部に参入](https://ja.wikipedia.org/wiki/東北社会人サッカーリーグ "wikilink")。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink") 東北社会人リーグ1部に昇格。[福島県サッカー選手権大会](https://ja.wikipedia.org/wiki/福島県サッカー選手権大会 "wikilink")で準優勝。
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") [東北社会人リーグ2部に参入](../Page/東北社会人サッカーリーグ.md "wikilink")。
+  - [2007年](../Page/2007年.md "wikilink") 東北社会人リーグ1部に昇格。[福島県サッカー選手権大会](https://ja.wikipedia.org/wiki/福島県サッカー選手権大会 "wikilink")で準優勝。
   - [2009年](../Page/2009年.md "wikilink") 東北2部降格。クラブ名を**いわき古河F.C**に改称。
   - [2011年](../Page/2011年.md "wikilink") [東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")のため活動が困難となったため東北2部出場辞退
   - [2015年](../Page/2015年.md "wikilink") 東北社会人リーグ1部に昇格。

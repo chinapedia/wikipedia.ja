@@ -1,13 +1,13 @@
 > この記事は[SPLASH LIFE](https://ja.wikipedia.org/wiki/SPLASH_LIFE)から翻訳されています。
 
 
-**SPLASH LIFE**（スプラッシュ・ライフ）は、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月7日](../Page/4月7日.md "wikilink")から[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[9月29日](../Page/9月29日.md "wikilink")まで[J-WAVE](../Page/J-WAVE.md "wikilink")で毎週土曜8:00-11:00に放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。ナビゲーター（[DJ](../Page/ラジオパーソナリティ.md "wikilink")）は[宮本絢子](https://ja.wikipedia.org/wiki/宮本絢子 "wikilink")である。[六本木ヒルズ森タワー](../Page/六本木ヒルズ森タワー.md "wikilink")にある[J-WAVE](../Page/J-WAVE.md "wikilink")の専用スタジオから放送される。
+**SPLASH LIFE**（スプラッシュ・ライフ）は、[2007年](../Page/2007年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")まで[J-WAVE](../Page/J-WAVE.md "wikilink")で毎週土曜8:00-11:00に放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。ナビゲーター（[DJ](../Page/ラジオパーソナリティ.md "wikilink")）は[宮本絢子](../Page/宮本絢子.md "wikilink")である。[六本木ヒルズ森タワー](../Page/六本木ヒルズ森タワー.md "wikilink")にある[J-WAVE](../Page/J-WAVE.md "wikilink")の専用スタジオから放送される。
 
 ## コーナー
 
-コーナーはの大部分は前番組の[WEEKEND MAGICから引き継いでいた](https://ja.wikipedia.org/wiki/WEEKEND_MAGIC "wikilink")。
+コーナーはの大部分は前番組の[WEEKEND MAGICから引き継いでいた](../Page/WEEKEND_MAGIC.md "wikilink")。
 
-  - 8:30-9:00 [KEY COFFEE METROPOLITAN CAFE](https://ja.wikipedia.org/wiki/KEY_COFFEE_METROPOLITAN_CAFE "wikilink")
+  - 8:30-9:00 [KEY COFFEE METROPOLITAN CAFE](../Page/KEY_COFFEE_METROPOLITAN_CAFE.md "wikilink")
 
 <!-- end list -->
 

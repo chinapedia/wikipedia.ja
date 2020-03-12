@@ -3,13 +3,13 @@
 
 **電撃コラボレーション企画 MW学園**（でんげきコラボレーション NWがくえん）は2005年3月に発刊された『[電撃hp](https://ja.wikipedia.org/wiki/電撃hp "wikilink") SPECIAL 2005 SPRING』に掲載された特別企画である。
 
-[壁井ユカコ](https://ja.wikipedia.org/wiki/壁井ユカコ "wikilink")、[渡瀬草一郎](../Page/渡瀬草一郎.md "wikilink")、[三上延](https://ja.wikipedia.org/wiki/三上延 "wikilink")、[佐藤ケイ](https://ja.wikipedia.org/wiki/佐藤ケイ "wikilink")、[柴村仁](https://ja.wikipedia.org/wiki/柴村仁 "wikilink")、[有沢まみず](https://ja.wikipedia.org/wiki/有沢まみず "wikilink")、[鎌池和馬](https://ja.wikipedia.org/wiki/鎌池和馬 "wikilink")、[成田良悟](https://ja.wikipedia.org/wiki/成田良悟 "wikilink")ら8人の電撃作家陣と、イラストレーター、漫画家として参加した[片瀬優](https://ja.wikipedia.org/wiki/片瀬優 "wikilink")を加えたの計9人が、廃校が決まった高校『マザー・ホワイト学園』、通称『MW学園』の最期の卒業式を舞台に起こった9つの事件を描いている。
+[壁井ユカコ](../Page/壁井ユカコ.md "wikilink")、[渡瀬草一郎](../Page/渡瀬草一郎.md "wikilink")、[三上延](../Page/三上延.md "wikilink")、[佐藤ケイ](../Page/佐藤ケイ.md "wikilink")、[柴村仁](../Page/柴村仁.md "wikilink")、[有沢まみず](../Page/有沢まみず.md "wikilink")、[鎌池和馬](../Page/鎌池和馬.md "wikilink")、[成田良悟](../Page/成田良悟.md "wikilink")ら8人の電撃作家陣と、イラストレーター、漫画家として参加した[片瀬優](https://ja.wikipedia.org/wiki/片瀬優 "wikilink")を加えたの計9人が、廃校が決まった高校『マザー・ホワイト学園』、通称『MW学園』の最期の卒業式を舞台に起こった9つの事件を描いている。
 
 ページ数はA4サイズ中三段で書かれており、1冊分以上のボリュームを誇るのだが、複数の著者によるコラボレーション企画であるため、文庫本化には未だ至ってはいない（[2009年](../Page/2009年.md "wikilink")3月現在）。また、企画が掲載された『[電撃hp](https://ja.wikipedia.org/wiki/電撃hp "wikilink") SPECIAL 2005 SPRING』も、月刊誌のコミック「[電撃大王](https://ja.wikipedia.org/wiki/電撃大王 "wikilink")」の増刊として発売されたため、[書籍としてではなく](../Page/本.md "wikilink")[雑誌](../Page/雑誌.md "wikilink")として分類される。このため[バックナンバー](https://ja.wikipedia.org/wiki/バックナンバー "wikilink")そのものが存在せず、入手は困難となっている。
 
 ## ハルカワくんと人体模型
 
-著：[壁井ユカコ](https://ja.wikipedia.org/wiki/壁井ユカコ "wikilink")
+著：[壁井ユカコ](../Page/壁井ユカコ.md "wikilink")
 
 ### あらすじ
 
@@ -17,7 +17,7 @@
 
   - ハルカワ（春川）
     MW学園内でただ一人、人体模型たちが喋ったり動いたりすることを知っていながら、付き合うことのできる男子生徒。学年は2年生。「カナミさん」という年上の大学生彼女がいる。裸眼では何も見えないほど視力が低く、普段はコンタクトレンズを装着している。MW学園廃校後は別の高校に通うことが決まっている。
-  - [人体模型](https://ja.wikipedia.org/wiki/人体模型 "wikilink")
+  - [人体模型](../Page/人体模型.md "wikilink")
     一見、 理科準備室に陳列してあるどこの学校にでもある人体模型。実は喋ったり、自らの意思で動くことができる曰く付きの人形である。どうやら神隠しにあった少女の霊が人体模型の体に取り憑いてしまったためらしい。ハルカワとは彼が入学時してきたときからの知り合いであり、2年間に渡って彼の成長を身近に感じてきた。そのためか、ハルカワを弟のように捉えている。腕やパーツがポロポロ取れてしまうのがひそかな悩み。
   - ホルマリン漬けのカエル
     理科準備室の戸棚に置かれているカエルの[はく製](https://ja.wikipedia.org/wiki/はく製 "wikilink")。人体模型同様、なぜか喋ることのできる実験器具の一つ（一人?）。人体模型と同様、神隠しにあった人の魂がカエルのはく製に取り憑いてしまっている。理科準備室の実験器具の中では（実験器具に取り憑いてしまった人の魂？としては）最長老にあたる。
@@ -49,7 +49,7 @@
 
 ## M/W・二枚のメダル
 
-著：[三上延](https://ja.wikipedia.org/wiki/三上延 "wikilink")
+著：[三上延](../Page/三上延.md "wikilink")
 
 ### あらすじ
 
@@ -63,7 +63,7 @@
 
 ## MW学園の崩壊
 
-著：[佐藤ケイ](https://ja.wikipedia.org/wiki/佐藤ケイ "wikilink")
+著：[佐藤ケイ](../Page/佐藤ケイ.md "wikilink")
 
 ### あらすじ
 
@@ -96,7 +96,7 @@
 
 ## 天使は飛行船の夢を見るか？
 
-著：[柴村仁](https://ja.wikipedia.org/wiki/柴村仁 "wikilink")
+著：[柴村仁](../Page/柴村仁.md "wikilink")
 
 ### あらすじ
 
@@ -112,7 +112,7 @@
 
 ## NICE GAY
 
-著：[有沢まみず](https://ja.wikipedia.org/wiki/有沢まみず "wikilink")
+著：[有沢まみず](../Page/有沢まみず.md "wikilink")
 
 ### あらすじ
 
@@ -130,7 +130,7 @@
 
 ## 謎のその先に
 
-著：[鎌池和馬](https://ja.wikipedia.org/wiki/鎌池和馬 "wikilink")
+著：[鎌池和馬](../Page/鎌池和馬.md "wikilink")
 
 ### あらすじ
 
@@ -145,7 +145,7 @@
 
 ## 卆形式 〜マヨイガハレルヒ〜
 
-著：[成田良悟](https://ja.wikipedia.org/wiki/成田良悟 "wikilink")
+著：[成田良悟](../Page/成田良悟.md "wikilink")
 
 ### 登場人物
 
@@ -183,14 +183,14 @@
 
 ## 関連項目
 
-  - [電撃コラボレーション](https://ja.wikipedia.org/wiki/電撃コラボレーション "wikilink")
+  - [電撃コラボレーション](../Page/電撃コラボレーション.md "wikilink")
   - [電撃hp](https://ja.wikipedia.org/wiki/電撃hp "wikilink")
   - [電撃文庫](../Page/電撃文庫.md "wikilink")
-  - [壁井ユカコ](https://ja.wikipedia.org/wiki/壁井ユカコ "wikilink")　　
+  - [壁井ユカコ](../Page/壁井ユカコ.md "wikilink")　　
   - [渡瀬草一郎](../Page/渡瀬草一郎.md "wikilink")
-  - [三上延](https://ja.wikipedia.org/wiki/三上延 "wikilink")
-  - [佐藤ケイ](https://ja.wikipedia.org/wiki/佐藤ケイ "wikilink")
-  - [柴村仁](https://ja.wikipedia.org/wiki/柴村仁 "wikilink")
-  - [有沢まみず](https://ja.wikipedia.org/wiki/有沢まみず "wikilink")
+  - [三上延](../Page/三上延.md "wikilink")
+  - [佐藤ケイ](../Page/佐藤ケイ.md "wikilink")
+  - [柴村仁](../Page/柴村仁.md "wikilink")
+  - [有沢まみず](../Page/有沢まみず.md "wikilink")
 
 [Category:電撃hp](https://ja.wikipedia.org/wiki/Category:電撃hp "wikilink") [Category:学園小説](https://ja.wikipedia.org/wiki/Category:学園小説 "wikilink") [Category:鎌池和馬](https://ja.wikipedia.org/wiki/Category:鎌池和馬 "wikilink") [Category:成田良悟](https://ja.wikipedia.org/wiki/Category:成田良悟 "wikilink")

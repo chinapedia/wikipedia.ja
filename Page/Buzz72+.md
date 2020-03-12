@@ -1,20 +1,20 @@
 > この記事は[Buzz72+](https://ja.wikipedia.org/wiki/Buzz72+)から翻訳されています。
 
 
-**Buzz72+**（バズセブンツー）は[2002年](../Page/2002年.md "wikilink")に[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")にて結成された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")。編曲家[CHOKKAKU](https://ja.wikipedia.org/wiki/CHOKKAKU "wikilink")に実力を見出され上京、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月10日](../Page/8月10日.md "wikilink")に[avex traxより](https://ja.wikipedia.org/wiki/avex_trax "wikilink")[メジャー・デビュー](https://ja.wikipedia.org/wiki/メジャー・デビュー_\(音楽家\) "wikilink")。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[12月31日](../Page/12月31日.md "wikilink")をもってVocal井上の脱退により活動休止。[インディーズ](../Page/インディーズ.md "wikilink")時代よりワンマンライブ、イベント主催、全国ツアーなどを行い、地元の[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")動員記録を次々記録、TV、ラジオ出演等も行っていた。 2020年、13年ぶりにオリジナルのメンバーで復活することが、松隈ケンタのラジオでアナウンスされた。復活ライヴは4月に福岡で行われるSCRAMBLES主催のライヴイベント「サウンドスクランブル天神2020」。Buzz72+を筆頭に、BiSH、PEDRO、豆柴の大群の他、松隈が手がける九州限定レーベルバンドscramble edgeの若手バンドが出演し復活を盛り上げる。
+**Buzz72+**（バズセブンツー）は[2002年](../Page/2002年.md "wikilink")に[福岡県](../Page/福岡県.md "wikilink")にて結成された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")。編曲家[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")に実力を見出され上京、[2005年](../Page/2005年.md "wikilink")[8月10日](../Page/8月10日.md "wikilink")に[avex traxより](https://ja.wikipedia.org/wiki/avex_trax "wikilink")[メジャー・デビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。[2007年](../Page/2007年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink")をもってVocal井上の脱退により活動休止。[インディーズ](../Page/インディーズ.md "wikilink")時代よりワンマンライブ、イベント主催、全国ツアーなどを行い、地元の[ライブハウス](../Page/ライブハウス.md "wikilink")動員記録を次々記録、TV、ラジオ出演等も行っていた。 2020年、13年ぶりにオリジナルのメンバーで復活することが、松隈ケンタのラジオでアナウンスされた。復活ライヴは4月に福岡で行われるSCRAMBLES主催のライヴイベント「サウンドスクランブル天神2020」。Buzz72+を筆頭に、BiSH、PEDRO、豆柴の大群の他、松隈が手がける九州限定レーベルバンドscramble edgeの若手バンドが出演し復活を盛り上げる。
 
 ## 概要・来歴
 
-[全日本不動産協会](https://ja.wikipedia.org/wiki/全日本不動産協会 "wikilink")の[コマーシャルに出演した過去がある](https://ja.wikipedia.org/wiki/コマーシャルメッセージ "wikilink")。
+[全日本不動産協会](https://ja.wikipedia.org/wiki/全日本不動産協会 "wikilink")の[コマーシャルに出演した過去がある](../Page/コマーシャルメッセージ.md "wikilink")。
 
 ## メンバー
 
   - [松隈ケンタ](https://ja.wikipedia.org/wiki/松隈ケンタ "wikilink")（まつくま けんた）
-    [ギター](../Page/ギター.md "wikilink")、ボーカル、作詞、作曲担当。リーダー。作曲家/プロデューサーとして活動しており、[柴咲コウ](https://ja.wikipedia.org/wiki/柴咲コウ "wikilink")、[BiS](https://ja.wikipedia.org/wiki/BiS "wikilink")、[中川翔子](https://ja.wikipedia.org/wiki/中川翔子 "wikilink")等に楽曲提供。
+    [ギター](../Page/ギター.md "wikilink")、ボーカル、作詞、作曲担当。リーダー。作曲家/プロデューサーとして活動しており、[柴咲コウ](https://ja.wikipedia.org/wiki/柴咲コウ "wikilink")、[BiS](https://ja.wikipedia.org/wiki/BiS "wikilink")、[中川翔子](../Page/中川翔子.md "wikilink")等に楽曲提供。
   - 北島ノリヒロ（きたじま のりひろ）
-    [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、ボーカル担当。[大塚愛](https://ja.wikipedia.org/wiki/大塚愛 "wikilink")のバックバンドに加入。現[SAY MY NAME.](https://ja.wikipedia.org/wiki/SAY_MY_NAME. "wikilink")
+    [ベース](../Page/ベース_\(弦楽器\).md "wikilink")、ボーカル担当。[大塚愛](https://ja.wikipedia.org/wiki/大塚愛 "wikilink")のバックバンドに加入。現[SAY MY NAME.](https://ja.wikipedia.org/wiki/SAY_MY_NAME. "wikilink")
   - 轟タカシ（とどろき たかし）
-    [ドラムス](../Page/ドラムセット.md "wikilink")、ボーカル担当。サポートドラマーとして[ヒューマンロスト](https://ja.wikipedia.org/wiki/ヒューマンロスト "wikilink")や数々のバンドで活動。[土屋アンナ](https://ja.wikipedia.org/wiki/土屋アンナ "wikilink")のレコーディングに[クレジットされている](https://ja.wikipedia.org/wiki/クレジットタイトル "wikilink")。現SAY MY NAME.
+    [ドラムス](../Page/ドラムセット.md "wikilink")、ボーカル担当。サポートドラマーとして[ヒューマンロスト](https://ja.wikipedia.org/wiki/ヒューマンロスト "wikilink")や数々のバンドで活動。[土屋アンナ](https://ja.wikipedia.org/wiki/土屋アンナ "wikilink")のレコーディングに[クレジットされている](../Page/クレジットタイトル.md "wikilink")。現SAY MY NAME.
 
 ## 元メンバー
 
@@ -137,19 +137,19 @@
 
 ## ミュージックビデオ
 
-|                                                           |               |
-| --------------------------------------------------------- | ------------- |
-| **監督**                                                    | **曲名**        |
-| [川村ケンスケ](https://ja.wikipedia.org/wiki/川村ケンスケ "wikilink") | 「ミリオンダラーベイビー」 |
-| [菅井高志](https://ja.wikipedia.org/wiki/菅井高志 "wikilink")     | 「光の射す方へ」      |
-|                                                           |               |
+|                                                       |               |
+| ----------------------------------------------------- | ------------- |
+| **監督**                                                | **曲名**        |
+| [川村ケンスケ](../Page/川村ケンスケ.md "wikilink")                | 「ミリオンダラーベイビー」 |
+| [菅井高志](https://ja.wikipedia.org/wiki/菅井高志 "wikilink") | 「光の射す方へ」      |
+|                                                       |               |
 
 ## タイアップ
 
-| 曲名          | タイアップ                                                                                                                                    |
-| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| 光の射す方へ      | [TBS系列](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")[COUNT DOWN TVエンディングテーマ](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink") |
-| ミリオンダラーベイビー | 「全日本不動産協会」CMソング                                                                                                                          |
+| 曲名          | タイアップ                                                                                              |
+| ----------- | -------------------------------------------------------------------------------------------------- |
+| 光の射す方へ      | [TBS系列](../Page/TBSテレビ.md "wikilink")[COUNT DOWN TVエンディングテーマ](../Page/COUNT_DOWN_TV.md "wikilink") |
+| ミリオンダラーベイビー | 「全日本不動産協会」CMソング                                                                                    |
 
 ## 主なライブ
 

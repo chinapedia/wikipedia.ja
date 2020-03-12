@@ -5,9 +5,9 @@
 
 ## 概要
 
-発売は[2001年](../Page/2001年.md "wikilink")4月。[米国で行われているクラッシャーレース用の](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[モンスタートラック](https://ja.wikipedia.org/wiki/モンスタートラック "wikilink")をモデル化しており、キット価格は44,800円。それまでの[クラッドバスター](https://ja.wikipedia.org/wiki/クラッドバスター "wikilink")（[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")にモデルチェンジを受け現在は[スーパークラッドバスター](https://ja.wikipedia.org/wiki/スーパークラッドバスター "wikilink")）、[ジャガーノート](../Page/ジャガーノート.md "wikilink")を上回る価格となり、同社の電動ビッグフットモデルの[フラグシップ機](https://ja.wikipedia.org/wiki/フラグシップ機 "wikilink")となっていた。
+発売は[2001年](../Page/2001年.md "wikilink")4月。[米国で行われているクラッシャーレース用の](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[モンスタートラック](../Page/モンスタートラック.md "wikilink")をモデル化しており、キット価格は44,800円。それまでの[クラッドバスター](../Page/クラッドバスター.md "wikilink")（[2004年](../Page/2004年.md "wikilink")にモデルチェンジを受け現在は[スーパークラッドバスター](https://ja.wikipedia.org/wiki/スーパークラッドバスター "wikilink")）、[ジャガーノート](../Page/ジャガーノート.md "wikilink")を上回る価格となり、同社の電動ビッグフットモデルの[フラグシップ機](../Page/フラグシップ機.md "wikilink")となっていた。
 
-かつての[トヨタ ハイラックス4×4とはカテゴリーは違うものの](https://ja.wikipedia.org/wiki/トヨタ_ハイラックス4×4 "wikilink")、[シャーシ](https://ja.wikipedia.org/wiki/シャーシ "wikilink")のメインフレームや前後アクスルを支持するロッド類に[ジュラルミン](../Page/ジュラルミン.md "wikilink")、[アルミ](https://ja.wikipedia.org/wiki/アルミ "wikilink")材を用いるなど金属部品を多用しており、実車[モンスタートラック](https://ja.wikipedia.org/wiki/モンスタートラック "wikilink")のメカニズムを再現している。
+かつての[トヨタ ハイラックス4×4とはカテゴリーは違うものの](https://ja.wikipedia.org/wiki/トヨタ_ハイラックス4×4 "wikilink")、[シャーシ](../Page/シャーシ.md "wikilink")のメインフレームや前後アクスルを支持するロッド類に[ジュラルミン](../Page/ジュラルミン.md "wikilink")、[アルミ](https://ja.wikipedia.org/wiki/アルミ "wikilink")材を用いるなど金属部品を多用しており、実車[モンスタートラック](../Page/モンスタートラック.md "wikilink")のメカニズムを再現している。
 
 キットには塗装・カット済みのフイニッシュボディに加え、スペア用のクリアボディが同梱される（両方とも[ポリカーボネート](../Page/ポリカーボネート.md "wikilink")製、クリアボディ用ステッカーは非同梱）。
 
@@ -19,12 +19,12 @@
 <!-- end list -->
 
   - 双発モーターと独特な駆動系
-    [発動機](https://ja.wikipedia.org/wiki/発動機 "wikilink")は[マブチモーター](https://ja.wikipedia.org/wiki/マブチモーター "wikilink")製若しくはジョンソン製の540サイズモーターを双発で搭載し、センター[トランスファー](https://ja.wikipedia.org/wiki/トランスファー "wikilink")を経て前後アクスルに[プロペラシャフト](https://ja.wikipedia.org/wiki/プロペラシャフト "wikilink")により駆動を伝達し、[ディファレンシャル・ギア](https://ja.wikipedia.org/wiki/ディファレンシャル・ギア "wikilink")直前で一旦ベベルギア/ドライブピニオンにより減速されリングギアに伝える2階建て構造の最終減速部を経て[ホイール](https://ja.wikipedia.org/wiki/ホイール "wikilink")へ出力されるという、凝った[4輪駆動](https://ja.wikipedia.org/wiki/4輪駆動 "wikilink")方式を用いる\[2\]。
+    [発動機](https://ja.wikipedia.org/wiki/発動機 "wikilink")は[マブチモーター](../Page/マブチモーター.md "wikilink")製若しくはジョンソン製の540サイズモーターを双発で搭載し、センター[トランスファー](../Page/トランスファー.md "wikilink")を経て前後アクスルに[プロペラシャフト](../Page/プロペラシャフト.md "wikilink")により駆動を伝達し、[ディファレンシャル・ギア](https://ja.wikipedia.org/wiki/ディファレンシャル・ギア "wikilink")直前で一旦ベベルギア/ドライブピニオンにより減速されリングギアに伝える2階建て構造の最終減速部を経て[ホイール](https://ja.wikipedia.org/wiki/ホイール "wikilink")へ出力されるという、凝った[4輪駆動](https://ja.wikipedia.org/wiki/4輪駆動 "wikilink")方式を用いる\[2\]。
 
 <!-- end list -->
 
   - 大径タイヤ
-    タイヤは[クラッドバスター](https://ja.wikipedia.org/wiki/クラッドバスター "wikilink")と同サイズの直径165mm/幅110mmのV型ラグパターンタイヤを装着（ホイールはハブ形状が異なる為、互換性は無い）。
+    タイヤは[クラッドバスター](../Page/クラッドバスター.md "wikilink")と同サイズの直径165mm/幅110mmのV型ラグパターンタイヤを装着（ホイールはハブ形状が異なる為、互換性は無い）。
 
 <!-- end list -->
 
@@ -34,7 +34,7 @@
 <!-- end list -->
 
   - 四輪操舵のオプション
-    リア用のステアリングサーボを追加する事で[四輪操舵](https://ja.wikipedia.org/wiki/四輪操舵 "wikilink")(4WS)も可能となっている\[5\]。
+    リア用のステアリングサーボを追加する事で[四輪操舵](../Page/四輪操舵.md "wikilink")(4WS)も可能となっている\[5\]。
 
 ## 主な仕様
 
@@ -55,7 +55,7 @@
 ## 関連項目
 
   - [TXT-2](https://ja.wikipedia.org/wiki/TXT-2 "wikilink")
-  - [タミヤのRC製品一覧](https://ja.wikipedia.org/wiki/タミヤのRC製品一覧 "wikilink")
+  - [タミヤのRC製品一覧](../Page/タミヤのRC製品一覧.md "wikilink")
 
 ## 脚注
 

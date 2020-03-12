@@ -10,7 +10,7 @@
 
   - 今作は、the brilliant greenのボーカル、川瀬智子のソロプロジェクト「Tommy february<sup>6</sup>」のファーストアルバムで、[2001年](../Page/2001年.md "wikilink")と[2002年](../Page/2002年.md "wikilink")にリリースしたシングル3曲とC/W2曲、カヴァー曲1曲と書き下ろし曲6曲の計12曲で構成。
   - 発売日である2002年2月6日は、川瀬智子自身の27歳の誕生日であった。
-  - 収録曲「CAN'T TAKE MY EYES OFF OF YOU（邦題：[君の瞳に恋してる](https://ja.wikipedia.org/wiki/君の瞳に恋してる "wikilink")）」は[フランキー・ヴァリのカヴァー曲で](https://ja.wikipedia.org/wiki/:en:Frankie_Valli "wikilink")、この曲は[自動車](../Page/自動車.md "wikilink")メーカー[ダイハツ](https://ja.wikipedia.org/wiki/ダイハツ "wikilink")の発売した軽自動車「MAX」のコマーシャルソングに起用された。
+  - 収録曲「CAN'T TAKE MY EYES OFF OF YOU（邦題：[君の瞳に恋してる](../Page/君の瞳に恋してる.md "wikilink")）」は[フランキー・ヴァリのカヴァー曲で](https://ja.wikipedia.org/wiki/:en:Frankie_Valli "wikilink")、この曲は[自動車](../Page/自動車.md "wikilink")メーカー[ダイハツ](https://ja.wikipedia.org/wiki/ダイハツ "wikilink")の発売した軽自動車「MAX」のコマーシャルソングに起用された。
   - 本作の初回限定盤は少なめに生産され、早々とCDショップから初回限定盤は完売し一時期は[ヤフーオークション](https://ja.wikipedia.org/wiki/ヤフーオークション "wikilink")等で高値で売買されていた。
   - 今作の初回限定盤に付いてくる[DVD](../Page/DVD.md "wikilink")にはシングル「♥KISS♥ ONE MORE TIME」「Bloomin'\!」のPVを中心にその他特典映像が収録。
 
@@ -19,18 +19,18 @@
 1.  **T.O.M.M.Y**
       -
         デビューシングル「EVERYDAY AT THE BUS STOP」のイントロにチアーガールの掛け声を収録したインスト曲、次曲「EVERYDAY AT THE BUS STOP」へ続く。
-2.  **[EVERYDAY AT THE BUS STOP](https://ja.wikipedia.org/wiki/EVERYDAY_AT_THE_BUS_STOP "wikilink")**
+2.  **[EVERYDAY AT THE BUS STOP](../Page/EVERYDAY_AT_THE_BUS_STOP.md "wikilink")**
       -
         1stシングル
         シングル3部作は学校の部活やスポーツをテーマした楽曲でこの「EVERYDAY AT THE BUS STOP」ではチアガール部が題材、PVではバックに外国人ダンサーがチアガールに扮してダンスをする。
         なおこの曲のPVはシングル版「EVERYDAY AT THE BUS STOP」に付いてくるDVDに収録（こちらは初回盤・通常版の差は外装が折り畳み式かプラスチックケースかの差で、内容は同一）。
 3.  **トミーフェブラッテ、マカロン。**
       -
-        アニメ「[ピロッポ](https://ja.wikipedia.org/wiki/ピロッポ "wikilink")」の主題歌、タイトルの「ラッテ」「マカロン」とは[SONYが発売したロボットペット](../Page/ソニー.md "wikilink")「[AIBO](https://ja.wikipedia.org/wiki/AIBO "wikilink")」の名前（白い方が「ラッテ」、茶色が「マカロン」）。なお川瀬智子本人もこのアニメに声優として出演している。
-4.  **[Bloomin'\!](https://ja.wikipedia.org/wiki/Bloomin'! "wikilink")**
+        アニメ「[ピロッポ](https://ja.wikipedia.org/wiki/ピロッポ "wikilink")」の主題歌、タイトルの「ラッテ」「マカロン」とは[SONYが発売したロボットペット](../Page/ソニー.md "wikilink")「[AIBO](../Page/AIBO.md "wikilink")」の名前（白い方が「ラッテ」、茶色が「マカロン」）。なお川瀬智子本人もこのアニメに声優として出演している。
+4.  **[Bloomin'\!](../Page/Bloomin'!.md "wikilink")**
       -
         3rdシングル
-        フレンチユーロを基調に部活シリーズ第三弾で[テニス](../Page/テニス.md "wikilink")をテーマした楽曲、この曲のPVは童話「[不思議の国のアリス](https://ja.wikipedia.org/wiki/不思議の国のアリス "wikilink")」をモチーフにした凝った作りで屋内と屋外ロケが敢行。
+        フレンチユーロを基調に部活シリーズ第三弾で[テニス](../Page/テニス.md "wikilink")をテーマした楽曲、この曲のPVは童話「[不思議の国のアリス](../Page/不思議の国のアリス.md "wikilink")」をモチーフにした凝った作りで屋内と屋外ロケが敢行。
 5.  **HEY BAD BOY**
 6.  **[♥KISS♥ ONE MORE TIME](https://ja.wikipedia.org/wiki/KISS_ONE_MORE_TIME "wikilink")**
       -
@@ -40,7 +40,7 @@
 7.  **WHERE ARE YOU? "MY HERO"**
       -
         歌詞は英語で作詞(訳詞も記載)。ロマンチックな恋がテーマ。
-8.  **[WALK AWAY FROM YOU MY BABE](https://ja.wikipedia.org/wiki/EVERYDAY_AT_THE_BUS_STOP "wikilink")**
+8.  **[WALK AWAY FROM YOU MY BABE](../Page/EVERYDAY_AT_THE_BUS_STOP.md "wikilink")**
       -
         1stシングルのカップリング。この曲は[ヒップホップ](../Page/ヒップホップ.md "wikilink")調の曲で途中、Tommy february<sup>6</sup>の歌唱がラップ風に加工されている。
 9.  **恋は眠らない**

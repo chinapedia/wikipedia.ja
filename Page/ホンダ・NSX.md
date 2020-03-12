@@ -1,25 +1,25 @@
 > この記事は[NSX](https://ja.wikipedia.org/wiki/NSX)から翻訳されています。
 
 
-**NSX**（エヌエスエックス）は、[本田技研工業](https://ja.wikipedia.org/wiki/本田技研工業 "wikilink")が生産、販売していた2シーターの[スポーツカー](../Page/スポーツカー.md "wikilink")である。本稿ではNSXタイプS(NSX-S)、NSXタイプR(NSX-R)についても述べる。
+**NSX**（エヌエスエックス）は、[本田技研工業](../Page/本田技研工業.md "wikilink")が生産、販売していた2シーターの[スポーツカー](../Page/スポーツカー.md "wikilink")である。本稿ではNSXタイプS(NSX-S)、NSXタイプR(NSX-R)についても述べる。
 
 ## 概要
 
 [250px](https://ja.wikipedia.org/wiki/ファイル:Honda_C30A_engine_001.jpg "wikilink") [Wnętrze_NSX.jpg](https://ja.wikipedia.org/wiki/File:Wnętrze_NSX.jpg "fig:Wnętrze_NSX.jpg") キャッチコピーは『**our dreams come true**』、『**緊張ではない、解放するスポーツだ**』。 車名はホンダの新しいスポーツカー、「ニュー」「スポーツカー」と未知数を表す「X」を合成させた**N**ew **S**portsCar **X**の略である。
 
-もともと第2期[F1参戦を機に](../Page/フォーミュラ1.md "wikilink")「世界に通用するHondaの顔を持ちたい」との願いから発売された車であり\[1\]、[バブル景気](../Page/バブル景気.md "wikilink")絶頂期の[1989年](../Page/1989年.md "wikilink")に発表、翌[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")9月14日の販売開始から[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")1月末までの16年間の長きにわたってフルモデルチェンジを行うことなく製造され、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")12月まで販売がなされた。価格は販売当初は1グレードのみの800万円（[AT仕様は](../Page/オートマチックトランスミッション.md "wikilink")60万円高）に始まり、車両の改良や装備の追加などによる値上がりとカスタムオーダープランへの対応で900万-1,500万円台となった。なおこの15年間は当時のスポーツカーの新車価格では日本車最高額だった。ホンダにおける[フラッグシップの役割を担っていたが](https://ja.wikipedia.org/wiki/フラグシップ機 "wikilink")、NSXの生産終了以降は[レジェンドにその座を譲った](../Page/ホンダ・レジェンド.md "wikilink")。
+もともと第2期[F1参戦を機に](../Page/フォーミュラ1.md "wikilink")「世界に通用するHondaの顔を持ちたい」との願いから発売された車であり\[1\]、[バブル景気](../Page/バブル景気.md "wikilink")絶頂期の[1989年](../Page/1989年.md "wikilink")に発表、翌[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")9月14日の販売開始から[2006年](../Page/2006年.md "wikilink")1月末までの16年間の長きにわたってフルモデルチェンジを行うことなく製造され、[2005年](../Page/2005年.md "wikilink")12月まで販売がなされた。価格は販売当初は1グレードのみの800万円（[AT仕様は](../Page/オートマチックトランスミッション.md "wikilink")60万円高）に始まり、車両の改良や装備の追加などによる値上がりとカスタムオーダープランへの対応で900万-1,500万円台となった。なおこの15年間は当時のスポーツカーの新車価格では日本車最高額だった。ホンダにおける[フラッグシップの役割を担っていたが](../Page/フラグシップ機.md "wikilink")、NSXの生産終了以降は[レジェンドにその座を譲った](../Page/ホンダ・レジェンド.md "wikilink")。
 
-運転席後方に搭載し後輪を駆動する[ミッドシップエンジン・リアドライブ](https://ja.wikipedia.org/wiki/後輪駆動#ミッドシップエンジン・リアドライブ方式 "wikilink")（MR）を採用している。また、当時市販自動車として類を見ない世界初の「オール[アルミ](../Page/アルミニウム.md "wikilink")[モノコック](https://ja.wikipedia.org/wiki/モノコック "wikilink")・ボディー」を採用した。1990年にはこのボディ構造が、社団法人自動車技術会の「日本の自動車技術180選」の「車体」部門で「剛性解析により理想的な高剛性設計とした」として選出されている。その特殊性から、工場に発電所を併設したり、大工場での[産業用ロボット](https://ja.wikipedia.org/wiki/産業用ロボット "wikilink")による流れ作業製作ではなく、エンジン同様、車両の生産は全て手作業で行っていた。このような特色と価格帯から、日本車で唯一の[スーパーカー](https://ja.wikipedia.org/wiki/スーパーカー "wikilink")と評された。
+運転席後方に搭載し後輪を駆動する[ミッドシップエンジン・リアドライブ](https://ja.wikipedia.org/wiki/後輪駆動#ミッドシップエンジン・リアドライブ方式 "wikilink")（MR）を採用している。また、当時市販自動車として類を見ない世界初の「オール[アルミ](../Page/アルミニウム.md "wikilink")[モノコック](../Page/モノコック.md "wikilink")・ボディー」を採用した。1990年にはこのボディ構造が、社団法人自動車技術会の「日本の自動車技術180選」の「車体」部門で「剛性解析により理想的な高剛性設計とした」として選出されている。その特殊性から、工場に発電所を併設したり、大工場での[産業用ロボット](../Page/産業用ロボット.md "wikilink")による流れ作業製作ではなく、エンジン同様、車両の生産は全て手作業で行っていた。このような特色と価格帯から、日本車で唯一の[スーパーカー](../Page/スーパーカー.md "wikilink")と評された。
 
-日本での販売店は[ベルノ店](https://ja.wikipedia.org/wiki/ベルノ店 "wikilink")。日本国外ではホンダブランドのほか、北米ではホンダの高級車チャンネルの[アキュラ](https://ja.wikipedia.org/wiki/アキュラ "wikilink")ブランドから発売。日本名と同じ「NSX」の名前で販売された。欧米で[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")から始まる燃費・排ガス環境規制への対応が難しいため、欧州向けは2005年9月末\[2\]、北米向けは同年12月末、国内向けは2005年をもって生産終了となった。
+日本での販売店は[ベルノ店](../Page/ベルノ店.md "wikilink")。日本国外ではホンダブランドのほか、北米ではホンダの高級車チャンネルの[アキュラ](../Page/アキュラ.md "wikilink")ブランドから発売。日本名と同じ「NSX」の名前で販売された。欧米で[2006年](../Page/2006年.md "wikilink")から始まる燃費・排ガス環境規制への対応が難しいため、欧州向けは2005年9月末\[2\]、北米向けは同年12月末、国内向けは2005年をもって生産終了となった。
 
 [250pxを走るNSX](https://ja.wikipedia.org/wiki/ファイル:Ostkurve_Hockenheim.jpg "wikilink")\]\]
 
 ## 開発経緯
 
-初代の発売から6年半前の[1984年](../Page/1984年.md "wikilink")、ホンダ車の得意分野である前輪駆動とは異なる、別の駆動方式を[本田技術研究所](https://ja.wikipedia.org/wiki/本田技術研究所 "wikilink")が基礎研究していた際にMR駆動方式の開発に着手したことが契機となる。開発責任者は、先述のMR駆動方式を開発研究していた[上原繁](https://ja.wikipedia.org/wiki/上原繁 "wikilink")が担当した。操縦安定性を専門に研究していた上原の意向でハンドリングにこだわるスポーツカーを目指すことになり、軽量なオールアルミボディーの採用など、当時の革新的な技術が開発・採用されるに至った。 [250px](https://ja.wikipedia.org/wiki/ファイル:Ayrton_Senna_Imola_1989_Cropped.jpg "wikilink") 開発に当たっては高級高性能スポーツカーが比較対象になったが、特に[フェラーリ](../Page/フェラーリ.md "wikilink")の[V8モデル](../Page/V型8気筒.md "wikilink") [フェラーリ・328](https://ja.wikipedia.org/wiki/フェラーリ・328 "wikilink")を越える走行性能を目指して開発され、当時個体性能差が大きかった328をデータ取りのために何台も購入したといわれている。開発段階から[アイルトン・セナ](../Page/アイルトン・セナ.md "wikilink")や[中嶋悟](https://ja.wikipedia.org/wiki/中嶋悟 "wikilink")など、当時ホンダがエンジンを供給していたF1チームのドライバーが１日のみ走行テストに参加した。車両をテストした彼らからボディー[剛性](../Page/剛性.md "wikilink")の低さを指摘されたため、過酷なコースレイアウトで有名な[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[ニュルブルクリンク](https://ja.wikipedia.org/wiki/ニュルブルクリンク "wikilink")などでの走行テストを辞めること無く繰り返し実施したとも言われている。当時ニュルブルクリンクでの走行テストは、テスト車両のみを持ち込み走り込むというものが主流である中で、サーキットに程近いミューレンバッハ村にテスト基地を建設した。8か月（冬季は封鎖）にわたり走行テストを繰り返すという姿勢で開発に臨んだ。その結果、世界初のオールアルミ製軽量高剛性ボディーが完成した。
+初代の発売から6年半前の[1984年](../Page/1984年.md "wikilink")、ホンダ車の得意分野である前輪駆動とは異なる、別の駆動方式を[本田技術研究所](../Page/本田技術研究所.md "wikilink")が基礎研究していた際にMR駆動方式の開発に着手したことが契機となる。開発責任者は、先述のMR駆動方式を開発研究していた[上原繁](../Page/上原繁.md "wikilink")が担当した。操縦安定性を専門に研究していた上原の意向でハンドリングにこだわるスポーツカーを目指すことになり、軽量なオールアルミボディーの採用など、当時の革新的な技術が開発・採用されるに至った。 [250px](https://ja.wikipedia.org/wiki/ファイル:Ayrton_Senna_Imola_1989_Cropped.jpg "wikilink") 開発に当たっては高級高性能スポーツカーが比較対象になったが、特に[フェラーリ](../Page/フェラーリ.md "wikilink")の[V8モデル](../Page/V型8気筒.md "wikilink") [フェラーリ・328](../Page/フェラーリ・328.md "wikilink")を越える走行性能を目指して開発され、当時個体性能差が大きかった328をデータ取りのために何台も購入したといわれている。開発段階から[アイルトン・セナ](../Page/アイルトン・セナ.md "wikilink")や[中嶋悟](../Page/中嶋悟.md "wikilink")など、当時ホンダがエンジンを供給していたF1チームのドライバーが１日のみ走行テストに参加した。車両をテストした彼らからボディー[剛性](../Page/剛性.md "wikilink")の低さを指摘されたため、過酷なコースレイアウトで有名な[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[ニュルブルクリンク](https://ja.wikipedia.org/wiki/ニュルブルクリンク "wikilink")などでの走行テストを辞めること無く繰り返し実施したとも言われている。当時ニュルブルクリンクでの走行テストは、テスト車両のみを持ち込み走り込むというものが主流である中で、サーキットに程近いミューレンバッハ村にテスト基地を建設した。8か月（冬季は封鎖）にわたり走行テストを繰り返すという姿勢で開発に臨んだ。その結果、世界初のオールアルミ製軽量高剛性ボディーが完成した。
 
-搭載するエンジンはさまざまな案が提案され、当初は軽量スポーツカーのパッケージング案から、2.0Lの[直列4気筒](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink")エンジンが搭載される予定だった。しかし社内事情やアメリカ市場を見据えたリサーチなどから、[ホンダ・レジェンド](../Page/ホンダ・レジェンド.md "wikilink")のエンジン[C27Aをベースにした](https://ja.wikipedia.org/wiki/ホンダ・C型エンジン#C27A "wikilink")3.0L・V6 SOHC（250PS/6,800rpm）へと計画の変更を受けた。さらに同社[B型エンジンに追加された新機構の](https://ja.wikipedia.org/wiki/ホンダ・B型エンジン "wikilink")**[VTEC](../Page/VTEC.md "wikilink")**に対する市場の好評を受け、[DOHC](../Page/DOHC.md "wikilink") VTEC化がなされた。DOHC化によりシリンダーヘッドが大きくなることから、[ホイールベース](https://ja.wikipedia.org/wiki/ホイールベース "wikilink")の延長を余儀なくされたが、エンジンを傾斜させることにより全長を30mm延長する事で対処した。
+搭載するエンジンはさまざまな案が提案され、当初は軽量スポーツカーのパッケージング案から、2.0Lの[直列4気筒](../Page/直列4気筒.md "wikilink")エンジンが搭載される予定だった。しかし社内事情やアメリカ市場を見据えたリサーチなどから、[ホンダ・レジェンド](../Page/ホンダ・レジェンド.md "wikilink")のエンジン[C27Aをベースにした](https://ja.wikipedia.org/wiki/ホンダ・C型エンジン#C27A "wikilink")3.0L・V6 SOHC（250PS/6,800rpm）へと計画の変更を受けた。さらに同社[B型エンジンに追加された新機構の](../Page/ホンダ・B型エンジン.md "wikilink")**[VTEC](../Page/VTEC.md "wikilink")**に対する市場の好評を受け、[DOHC](../Page/DOHC.md "wikilink") VTEC化がなされた。DOHC化によりシリンダーヘッドが大きくなることから、[ホイールベース](../Page/ホイールベース.md "wikilink")の延長を余儀なくされたが、エンジンを傾斜させることにより全長を30mm延長する事で対処した。
 
 ## 設計思想
 
@@ -33,35 +33,35 @@
 
 ### I型 E-NA1型（1990-1997年）
 
-1990年に登場した。エンジンは前述の通りC30A型エンジンを搭載している。また、通常仕様のクーペから快適装備を外して軽量化を図ったピュアスポーツグレードの「[タイプR](https://ja.wikipedia.org/wiki/ホンダ・NSXタイプR "wikilink")」が、[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[11月](../Page/11月.md "wikilink")から3年間の期間限定で日本国内でのみラインアップされた。 [サムネイル](https://ja.wikipedia.org/wiki/ファイル:Rétromobile_2017_-_Honda_NSX_-_1994_-_003.jpg "wikilink") [1994年](../Page/1994年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")に最初の[マイナーチェンジ](https://ja.wikipedia.org/wiki/マイナーチェンジ "wikilink")が行われ、45/40扁平タイヤがオプション設定された。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に2度目のマイナーチェンジが行われ、[ドライブ・バイ・ワイヤ](https://ja.wikipedia.org/wiki/ドライブ・バイ・ワイヤ "wikilink")（DBW）やAT仕様車にFマチック（ステアリングコラムのスイッチによるマニュアルシフト）が追加された。また、オープントップ（[タルガトップ](../Page/タルガトップ.md "wikilink")）仕様の「タイプT」が追加された。
+1990年に登場した。エンジンは前述の通りC30A型エンジンを搭載している。また、通常仕様のクーペから快適装備を外して軽量化を図ったピュアスポーツグレードの「[タイプR](https://ja.wikipedia.org/wiki/ホンダ・NSXタイプR "wikilink")」が、[1992年](../Page/1992年.md "wikilink")[11月](../Page/11月.md "wikilink")から3年間の期間限定で日本国内でのみラインアップされた。 [サムネイル](https://ja.wikipedia.org/wiki/ファイル:Rétromobile_2017_-_Honda_NSX_-_1994_-_003.jpg "wikilink") [1994年](../Page/1994年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")に最初の[マイナーチェンジ](https://ja.wikipedia.org/wiki/マイナーチェンジ "wikilink")が行われ、45/40扁平タイヤがオプション設定された。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に2度目のマイナーチェンジが行われ、[ドライブ・バイ・ワイヤ](../Page/ドライブ・バイ・ワイヤ.md "wikilink")（DBW）やAT仕様車にFマチック（ステアリングコラムのスイッチによるマニュアルシフト）が追加された。また、オープントップ（[タルガトップ](../Page/タルガトップ.md "wikilink")）仕様の「タイプT」が追加された。
 
 #### タイプR
 
-[250px](https://ja.wikipedia.org/wiki/ファイル:Nsx-r_twinringmotegi.jpg "wikilink") [1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[11月27日](../Page/11月27日.md "wikilink")に登場した\[7\]。エンジンは標準車と同じ[V型6気筒](https://ja.wikipedia.org/wiki/V型6気筒 "wikilink") [DOHC](../Page/DOHC.md "wikilink") [VTEC](../Page/VTEC.md "wikilink") 3.0L [C30A型であるが](https://ja.wikipedia.org/wiki/ホンダ・C型エンジン "wikilink")、[クランクシャフト](https://ja.wikipedia.org/wiki/クランクシャフト "wikilink")のバランス精度や、[ピストン](https://ja.wikipedia.org/wiki/ピストン "wikilink")及び[コネクティングロッド](https://ja.wikipedia.org/wiki/コネクティングロッド "wikilink")の重量精度をより向上させ、レスポンスの向上が図られている。内部は約120kgの軽量化（遮音材や快適装備の削減、[バンパー](https://ja.wikipedia.org/wiki/バンパー "wikilink")及びドアビームのアルミ化、エンジンメンテナンスリッドのアルミメッシュ化、[レカロ](https://ja.wikipedia.org/wiki/レカロ "wikilink")製[CFRP製フルバケット電動パワーシート](https://ja.wikipedia.org/wiki/繊維強化プラスチック "wikilink")、[モモ製ステアリング](https://ja.wikipedia.org/wiki/モモ_\(会社\) "wikilink")、[チタン](../Page/チタン.md "wikilink")製シフトノブ 等）が行われており、ヨー慣性モーメントの低減や重心高の低下が図られ、サスペンションセッティングもサーキット走行を視野に入れた造りである。生産期間は約3年間だった。
+[250px](https://ja.wikipedia.org/wiki/ファイル:Nsx-r_twinringmotegi.jpg "wikilink") [1992年](../Page/1992年.md "wikilink")[11月27日](../Page/11月27日.md "wikilink")に登場した\[7\]。エンジンは標準車と同じ[V型6気筒](../Page/V型6気筒.md "wikilink") [DOHC](../Page/DOHC.md "wikilink") [VTEC](../Page/VTEC.md "wikilink") 3.0L [C30A型であるが](../Page/ホンダ・C型エンジン.md "wikilink")、[クランクシャフト](../Page/クランクシャフト.md "wikilink")のバランス精度や、[ピストン](../Page/ピストン.md "wikilink")及び[コネクティングロッド](../Page/コネクティングロッド.md "wikilink")の重量精度をより向上させ、レスポンスの向上が図られている。内部は約120kgの軽量化（遮音材や快適装備の削減、[バンパー](../Page/バンパー.md "wikilink")及びドアビームのアルミ化、エンジンメンテナンスリッドのアルミメッシュ化、[レカロ](../Page/レカロ.md "wikilink")製[CFRP製フルバケット電動パワーシート](../Page/繊維強化プラスチック.md "wikilink")、[モモ製ステアリング](../Page/モモ_\(会社\).md "wikilink")、[チタン](../Page/チタン.md "wikilink")製シフトノブ 等）が行われており、ヨー慣性モーメントの低減や重心高の低下が図られ、サスペンションセッティングもサーキット走行を視野に入れた造りである。生産期間は約3年間だった。
 
 ### II型 GH-NA2/GH-NA1型（1997-2001年）
 
 [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")にマイナーチェンジがおこなわれ、[平成12年排出ガス規制に適合した](../Page/自動車排出ガス規制.md "wikilink")。外観上は大きな変更はないが、MT仕様車のエンジンが新たに3.2LのC32B型に変更されたのと同時に、トランスミッションは6速MTとなった。日本国内販売のみ、MT仕様にスポーツグレードの「タイプS」、従来の「タイプR」に相当する「タイプS-Zero」がラインアップに追加された。3.2リッター化に伴う改良はフルモデルチェンジに相当した。（小説NSX参照）
 
-[1999年](../Page/1999年.md "wikilink")[9月](../Page/9月.md "wikilink")にはエンジンがさらに低公害化され、[2000年](../Page/2000年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に平成12年基準排出ガス50%低減の「[優－低排出ガス](https://ja.wikipedia.org/wiki/低排出ガス車認定制度 "wikilink")」車に認定された。
+[1999年](../Page/1999年.md "wikilink")[9月](../Page/9月.md "wikilink")にはエンジンがさらに低公害化され、[2000年](../Page/2000年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に平成12年基準排出ガス50%低減の「[優－低排出ガス](../Page/低排出ガス車認定制度.md "wikilink")」車に認定された。
 
 ### III型 LA-NA2/LA-NA1型、ABA-NA2/ABA-NA1（2001-2005年）
 
-[NSX_(8208095694).jpg](https://ja.wikipedia.org/wiki/File:NSX_\(8208095694\).jpg "fig:NSX_(8208095694).jpg") [2001年](../Page/2001年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")には外観を中心にビッグマイナーチェンジが施行され、衝突安全性を高めるためという理由もあるが、主に空力、そしてフロントの重量軽減を目的に、ヘッドライトを固定式に変更し、フロントボンネット、フェンダー、サイドスカート、リア回り等が新たに改良された。このマイナーチェンジから半年後に「タイプR」が復活した（そのため、「タイプS-Zero」は廃止）。また、[2003年](../Page/2003年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")の小変更ではCDチェンジャー（タイプRを除く）および[イモビライザー](https://ja.wikipedia.org/wiki/イモビライザー "wikilink")（全車）が標準装備化されるとともに平成17年排出ガス規制に適合し、形式記号がLA-NA\#からABA-NA\#に変更されている。
+[NSX_(8208095694).jpg](https://ja.wikipedia.org/wiki/File:NSX_\(8208095694\).jpg "fig:NSX_(8208095694).jpg") [2001年](../Page/2001年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")には外観を中心にビッグマイナーチェンジが施行され、衝突安全性を高めるためという理由もあるが、主に空力、そしてフロントの重量軽減を目的に、ヘッドライトを固定式に変更し、フロントボンネット、フェンダー、サイドスカート、リア回り等が新たに改良された。このマイナーチェンジから半年後に「タイプR」が復活した（そのため、「タイプS-Zero」は廃止）。また、[2003年](../Page/2003年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")の小変更ではCDチェンジャー（タイプRを除く）および[イモビライザー](../Page/イモビライザー.md "wikilink")（全車）が標準装備化されるとともに平成17年排出ガス規制に適合し、形式記号がLA-NA\#からABA-NA\#に変更されている。
 
 15年以上にわたり生産されたことと、2006年に欧米で始まる最新の燃費・排ガス環境規制に対応させるとさらに採算がとれないため、2005年12月26日限りで生産終了となった。
 
 #### NSX-R
 
-[250px](https://ja.wikipedia.org/wiki/ファイル:Honda_NSX-R.jpg "wikilink") [2001年](../Page/2001年.md "wikilink")に行われたNSXのマイナーチェンジから半年後の[2002年](../Page/2002年.md "wikilink")[5月23日](../Page/5月23日.md "wikilink")より発売した\[8\]。2001年[東京モーターショー](https://ja.wikipedia.org/wiki/東京モーターショー "wikilink")で公開された「NSX-Rコンセプト」が元となる。名称は、I型の「NSXタイプR」から「NSX-R」に変更された\[9\]。 標準車からの変更項目は基本的にI型と同様であるが、新たに空力性能向上（エア・アウトレット付きボンネット、フロント・アンダーカバー、リア・[ディフューザー](https://ja.wikipedia.org/wiki/ディフューザー_\(自動車\) "wikilink")、大型リア・スポイラー）による操縦安定性の向上が図られた。さらに、ボンネットやリア・スポイラーの素材をCFRPとし、軽量化もより進められた。これにより、市販車で初となるマイナスリフトを実現している。
+[250px](https://ja.wikipedia.org/wiki/ファイル:Honda_NSX-R.jpg "wikilink") [2001年](../Page/2001年.md "wikilink")に行われたNSXのマイナーチェンジから半年後の[2002年](../Page/2002年.md "wikilink")[5月23日](../Page/5月23日.md "wikilink")より発売した\[8\]。2001年[東京モーターショー](../Page/東京モーターショー.md "wikilink")で公開された「NSX-Rコンセプト」が元となる。名称は、I型の「NSXタイプR」から「NSX-R」に変更された\[9\]。 標準車からの変更項目は基本的にI型と同様であるが、新たに空力性能向上（エア・アウトレット付きボンネット、フロント・アンダーカバー、リア・[ディフューザー](https://ja.wikipedia.org/wiki/ディフューザー_\(自動車\) "wikilink")、大型リア・スポイラー）による操縦安定性の向上が図られた。さらに、ボンネットやリア・スポイラーの素材をCFRPとし、軽量化もより進められた。これにより、市販車で初となるマイナスリフトを実現している。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月22日](../Page/2月22日.md "wikilink")に、最後の特別仕様車「**NSX-R GT**」（型式ABA-NA2）を発表した。[3月22日](../Page/3月22日.md "wikilink")までの1か月間限定で[SUPER GT参加のホモロゲーション取得用に](https://ja.wikipedia.org/wiki/SUPER_GT "wikilink")5台限定で販売（実際に売れたのは1台のみ）され、価格は5,000万円であった。相違点はCFRP製エアロバンパーなど外観のみで、エンジン（カタログ参照値280PS/31.0kgf・m）、ミッション、[ダブルウィッシュボーン式サスペンション](../Page/ダブルウィッシュボーン式サスペンション.md "wikilink")等の基本性能は建前上では変更なしと言われている。
+[2005年](../Page/2005年.md "wikilink")[2月22日](../Page/2月22日.md "wikilink")に、最後の特別仕様車「**NSX-R GT**」（型式ABA-NA2）を発表した。[3月22日](../Page/3月22日.md "wikilink")までの1か月間限定で[SUPER GT参加のホモロゲーション取得用に](https://ja.wikipedia.org/wiki/SUPER_GT "wikilink")5台限定で販売（実際に売れたのは1台のみ）され、価格は5,000万円であった。相違点はCFRP製エアロバンパーなど外観のみで、エンジン（カタログ参照値280PS/31.0kgf・m）、ミッション、[ダブルウィッシュボーン式サスペンション](../Page/ダブルウィッシュボーン式サスペンション.md "wikilink")等の基本性能は建前上では変更なしと言われている。
 
-I型とII型に続いて[ニュルブルクリンク](https://ja.wikipedia.org/wiki/ニュルブルクリンク "wikilink")のタイムアタックに挑戦し、[黒澤元治](https://ja.wikipedia.org/wiki/黒澤元治 "wikilink")による運転で8分を切る7分56秒を記録している。
+I型とII型に続いて[ニュルブルクリンク](https://ja.wikipedia.org/wiki/ニュルブルクリンク "wikilink")のタイムアタックに挑戦し、[黒澤元治](../Page/黒澤元治.md "wikilink")による運転で8分を切る7分56秒を記録している。
 
 ### プロトタイプ NS-X
 
-1989年発表。**NS-X**と、SとXの間に[ハイフン](https://ja.wikipedia.org/wiki/ハイフン "wikilink")が入っていた。エンジンには同社のセダンである[レジェンドに搭載していたC](../Page/ホンダ・レジェンド.md "wikilink")27A[横置き](https://ja.wikipedia.org/wiki/横置きエンジン "wikilink")[V6](https://ja.wikipedia.org/wiki/V型6気筒 "wikilink") SOHCを改良したものを採用、とした。
+1989年発表。**NS-X**と、SとXの間に[ハイフン](../Page/ハイフン.md "wikilink")が入っていた。エンジンには同社のセダンである[レジェンドに搭載していたC](../Page/ホンダ・レジェンド.md "wikilink")27A[横置き](../Page/横置きエンジン.md "wikilink")[V6](../Page/V型6気筒.md "wikilink") SOHCを改良したものを採用、とした。
 
 ### 搭載エンジン
 
@@ -75,8 +75,8 @@ I型とII型に続いて[ニュルブルクリンク](https://ja.wikipedia.org/w
 
 <div class="NavContent" style="text-align: left;">
 
-  - [C30A型](https://ja.wikipedia.org/wiki/ホンダ・C型エンジン "wikilink")
-    エンジン種類：[水冷](https://ja.wikipedia.org/wiki/水冷エンジン "wikilink")[V型6気筒](https://ja.wikipedia.org/wiki/V型6気筒 "wikilink")[横置き](https://ja.wikipedia.org/wiki/横置きエンジン "wikilink")
+  - [C30A型](../Page/ホンダ・C型エンジン.md "wikilink")
+    エンジン種類：[水冷](../Page/水冷エンジン.md "wikilink")[V型6気筒](../Page/V型6気筒.md "wikilink")[横置き](../Page/横置きエンジン.md "wikilink")
     弁機構：[DOHC](../Page/DOHC.md "wikilink")ベルト駆動 吸気2 排気2 [VTEC](../Page/VTEC.md "wikilink")
     排気量：2,977cc
     内径×行程：90.0mm×78.0mm
@@ -107,13 +107,13 @@ I型とII型に続いて[ニュルブルクリンク](https://ja.wikipedia.org/w
 
 ## 製造・販売
 
-1990年のNSX生産開始に合わせて、[アルミを電気溶接する際の電力消費を補うために工場敷地内に](../Page/アルミニウム.md "wikilink")[発電所](../Page/発電所.md "wikilink")を備えた専用生産工場を、[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")[塩谷郡](../Page/塩谷郡.md "wikilink")[高根沢町](https://ja.wikipedia.org/wiki/高根沢町 "wikilink")にホンダ栃木製作所[高根沢工場として建設した](https://ja.wikipedia.org/wiki/本田技研工業高根沢工場 "wikilink")。当時の日本では[バブル景気](../Page/バブル景気.md "wikilink")が続いており、NSXは発売当初、3年先まで予約の入る人気となり\[10\]、[中古車](https://ja.wikipedia.org/wiki/中古車 "wikilink")が新車を上回る[プレミアム](https://ja.wikipedia.org/wiki/プレミアム "wikilink")価格で販売されるという現象もみられた\[11\]。これに対してホンダは、「約半年で納車できるように」と製造工員を倍にしての二交代体制を敷き、1日あたり25台の生産数を倍にする増産体制をとった。
+1990年のNSX生産開始に合わせて、[アルミを電気溶接する際の電力消費を補うために工場敷地内に](../Page/アルミニウム.md "wikilink")[発電所](../Page/発電所.md "wikilink")を備えた専用生産工場を、[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")[塩谷郡](../Page/塩谷郡.md "wikilink")[高根沢町](../Page/高根沢町.md "wikilink")にホンダ栃木製作所[高根沢工場として建設した](../Page/本田技研工業高根沢工場.md "wikilink")。当時の日本では[バブル景気](../Page/バブル景気.md "wikilink")が続いており、NSXは発売当初、3年先まで予約の入る人気となり\[10\]、[中古車](../Page/中古車.md "wikilink")が新車を上回る[プレミアム](../Page/プレミアム.md "wikilink")価格で販売されるという現象もみられた\[11\]。これに対してホンダは、「約半年で納車できるように」と製造工員を倍にしての二交代体制を敷き、1日あたり25台の生産数を倍にする増産体制をとった。
 
-しかしながら直後に[バブル経済](../Page/バブル経済.md "wikilink")が[崩壊](../Page/バブル崩壊.md "wikilink")、発売翌年の[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")（[平成](../Page/平成.md "wikilink")3年）になるとキャンセルが相次ぐ事態となった。生産台数は1991年をピークに減少傾向となり、販売開始から10年が経った21世紀以後の年間生産台数は日本国内外合わせて年間300台程度に下落した。
+しかしながら直後に[バブル経済](../Page/バブル経済.md "wikilink")が[崩壊](../Page/バブル崩壊.md "wikilink")、発売翌年の[1991年](../Page/1991年.md "wikilink")（[平成](../Page/平成.md "wikilink")3年）になるとキャンセルが相次ぐ事態となった。生産台数は1991年をピークに減少傾向となり、販売開始から10年が経った21世紀以後の年間生産台数は日本国内外合わせて年間300台程度に下落した。
 
-2004年4月にホンダの完成車一貫生産構想に基づき、高根沢工場での生産を終了し、[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")[鈴鹿市](../Page/鈴鹿市.md "wikilink")にある鈴鹿製作所の少量車種専用ライン、**[TDライン](https://ja.wikipedia.org/wiki/TDライン "wikilink")**（Takumi Dreamライン）へ生産を移管した。 一方、製造は完全受注生産であり、ほとんどを手作業で製造されることから納車には2か月-3か月半を要していた。月間生産数はわずか10台ほど（日本向けはその半分程度）まで減少していた。2005年7月の生産終了を発表以降は[駆け込み需要](https://ja.wikipedia.org/wiki/駆け込み需要 "wikilink")で注文が殺到し、わずか一週間ほどで生産予定枠の注文数を満たしたことから早々に販売受付が打ち切られた。
+2004年4月にホンダの完成車一貫生産構想に基づき、高根沢工場での生産を終了し、[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")[鈴鹿市](../Page/鈴鹿市.md "wikilink")にある鈴鹿製作所の少量車種専用ライン、**[TDライン](https://ja.wikipedia.org/wiki/TDライン "wikilink")**（Takumi Dreamライン）へ生産を移管した。 一方、製造は完全受注生産であり、ほとんどを手作業で製造されることから納車には2か月-3か月半を要していた。月間生産数はわずか10台ほど（日本向けはその半分程度）まで減少していた。2005年7月の生産終了を発表以降は[駆け込み需要](../Page/駆け込み需要.md "wikilink")で注文が殺到し、わずか一週間ほどで生産予定枠の注文数を満たしたことから早々に販売受付が打ち切られた。
 
-生産ラインは閉じられたが、経年車\[12\]を生産工場に戻し、新車時の性能や質感を蘇らせる[NSXリフレッシュプラン](https://ja.wikipedia.org/wiki/NSXリフレッシュプラン "wikilink")が継続されている。大規模メーカー自らが行うものとしては、世界的に見てもまれである。
+生産ラインは閉じられたが、経年車\[12\]を生産工場に戻し、新車時の性能や質感を蘇らせる[NSXリフレッシュプラン](../Page/NSXリフレッシュプラン.md "wikilink")が継続されている。大規模メーカー自らが行うものとしては、世界的に見てもまれである。
 
 バブル景気で予約が殺到した日本に加えて日本国外でも高い評価を得たNSXは\[13\]、日米欧で累計1万8,734台を販売、そのうち日本での販売台数は7,415台であった\[14\]。うち6,000台余りが1991年以前の初期モデルである。
 
@@ -121,24 +121,24 @@ I型とII型に続いて[ニュルブルクリンク](https://ja.wikipedia.org/w
 
 ## レース活動
 
-元々レース参戦用のホモロゲーションを考慮した車両ではなかったため、1990年の発表当初はレース活動には全く使用されず、エンジンのみが改造され1991年より2年間アメリカの[IMSAに参戦](https://ja.wikipedia.org/wiki/国際モータースポーツ協会 "wikilink") (ACURA-SPICE SE90CL) し、キャメル [GTP](https://ja.wikipedia.org/wiki/プロトタイプレーシングカー "wikilink") Lightクラスにおいてドライバーズ、マニュファクチャラーズの両タイトルを2年連続で獲得している。
+元々レース参戦用のホモロゲーションを考慮した車両ではなかったため、1990年の発表当初はレース活動には全く使用されず、エンジンのみが改造され1991年より2年間アメリカの[IMSAに参戦](../Page/国際モータースポーツ協会.md "wikilink") (ACURA-SPICE SE90CL) し、キャメル [GTP](https://ja.wikipedia.org/wiki/プロトタイプレーシングカー "wikilink") Lightクラスにおいてドライバーズ、マニュファクチャラーズの両タイトルを2年連続で獲得している。
 
-1992年の「NSX-R」投入以後から、それをベース車両として徐々に日本国内外でレース活動を行うようになる。1993年から2年間はドイツ国内レースの「ADAC GT CUP」（[ドイツツーリングカー選手権](../Page/ドイツツーリングカー選手権.md "wikilink")（DTM）よりも改造範囲が限定された市販車により近いカテゴリー）に投入し、BMWやポルシェらと戦い優勝もしたが、日本国外のローカルレースのために日本国内ではそれほど話題にはならなかった。しかし、その車両を改良し1994年から3年間にわたって[ル・マン24時間レース](../Page/ル・マン24時間レース.md "wikilink")に参戦した際は、日本人レーシングドライバーも多数登用されたこともあって日本国内においても話題となった。 なお、[1994年はル](https://ja.wikipedia.org/wiki/1994年のル・マン24時間レース "wikilink")・マン24時間レースなどの耐久レースで実績を持つクレマー・レーシングが参戦し、相次ぐ駆動系トラブルに苦しみながらも14、16、18位と全車完走した。[1995年はGT](https://ja.wikipedia.org/wiki/1995年のル・マン24時間レース "wikilink")1クラスに[ワークス・チーム](https://ja.wikipedia.org/wiki/ワークス・チーム "wikilink")、GT2クラスに[チーム国光](https://ja.wikipedia.org/wiki/チーム国光 "wikilink")と[中嶋企画](https://ja.wikipedia.org/wiki/中嶋企画 "wikilink")のプライベートチームが参戦し\[16\]、チーム国光がGT2クラス優勝（ドライバーは[高橋国光](https://ja.wikipedia.org/wiki/高橋国光 "wikilink")/[土屋圭市](https://ja.wikipedia.org/wiki/土屋圭市 "wikilink")/[飯田章](https://ja.wikipedia.org/wiki/飯田章 "wikilink")）を果たした。[1996年はGT](https://ja.wikipedia.org/wiki/1996年のル・マン24時間レース "wikilink")2クラスにチーム国光のみが参戦し、クラス3位を獲得した。しかしこの年を最後にNSXはル・マンから去っている。
+1992年の「NSX-R」投入以後から、それをベース車両として徐々に日本国内外でレース活動を行うようになる。1993年から2年間はドイツ国内レースの「ADAC GT CUP」（[ドイツツーリングカー選手権](../Page/ドイツツーリングカー選手権.md "wikilink")（DTM）よりも改造範囲が限定された市販車により近いカテゴリー）に投入し、BMWやポルシェらと戦い優勝もしたが、日本国外のローカルレースのために日本国内ではそれほど話題にはならなかった。しかし、その車両を改良し1994年から3年間にわたって[ル・マン24時間レース](../Page/ル・マン24時間レース.md "wikilink")に参戦した際は、日本人レーシングドライバーも多数登用されたこともあって日本国内においても話題となった。 なお、[1994年はル](https://ja.wikipedia.org/wiki/1994年のル・マン24時間レース "wikilink")・マン24時間レースなどの耐久レースで実績を持つクレマー・レーシングが参戦し、相次ぐ駆動系トラブルに苦しみながらも14、16、18位と全車完走した。[1995年はGT](https://ja.wikipedia.org/wiki/1995年のル・マン24時間レース "wikilink")1クラスに[ワークス・チーム](../Page/ワークス・チーム.md "wikilink")、GT2クラスに[チーム国光](../Page/チーム国光.md "wikilink")と[中嶋企画](../Page/中嶋企画.md "wikilink")のプライベートチームが参戦し\[16\]、チーム国光がGT2クラス優勝（ドライバーは[高橋国光](../Page/高橋国光.md "wikilink")/[土屋圭市](../Page/土屋圭市.md "wikilink")/[飯田章](../Page/飯田章.md "wikilink")）を果たした。[1996年はGT](../Page/1996年のル・マン24時間レース.md "wikilink")2クラスにチーム国光のみが参戦し、クラス3位を獲得した。しかしこの年を最後にNSXはル・マンから去っている。
 
 ル・マン24時間レースに参戦したマシンは、全てイギリスのTCPが製造していた。1995年にGT1クラスにエントリーした「NSX GT1」は、車体剛性を高める目的でタルガトップの「NSX-T」をベースとして製作され、さらに高速走行時の安定を図るためにロングテール仕様となっており、3台中2台は[ターボエンジンを搭載していた](../Page/ターボチャージャー.md "wikilink")。しかしGT1クラスはトラブルや深夜のクラッシュなどで全く成績を残せず、1年で姿を消している。
 
-1996年からは、市販車レース国内最高峰の[全日本GT選手権](https://ja.wikipedia.org/wiki/全日本GT選手権 "wikilink") (JGTC) に参戦を開始した。参戦初年度はル・マンGT2車両を使用したが、翌年よりN-GT車両を使用した。そして、2000年にはGT500クラスで（ドライバーは[道上龍](https://ja.wikipedia.org/wiki/道上龍 "wikilink")）、2004年にはGT300クラスで（ドライバーは[山野哲也](https://ja.wikipedia.org/wiki/山野哲也 "wikilink")/[八木宏之](https://ja.wikipedia.org/wiki/八木宏之 "wikilink")）年度チャンピオンを獲得しているが、ミッドシップ車に対しての不利なレギュレーションに悩まされて、その後は良い結果が残せなくなった。
+1996年からは、市販車レース国内最高峰の[全日本GT選手権](https://ja.wikipedia.org/wiki/全日本GT選手権 "wikilink") (JGTC) に参戦を開始した。参戦初年度はル・マンGT2車両を使用したが、翌年よりN-GT車両を使用した。そして、2000年にはGT500クラスで（ドライバーは[道上龍](../Page/道上龍.md "wikilink")）、2004年にはGT300クラスで（ドライバーは[山野哲也](../Page/山野哲也.md "wikilink")/[八木宏之](../Page/八木宏之.md "wikilink")）年度チャンピオンを獲得しているが、ミッドシップ車に対しての不利なレギュレーションに悩まされて、その後は良い結果が残せなくなった。
 
-選手権の名称が「[SUPER GT](https://ja.wikipedia.org/wiki/SUPER_GT "wikilink")」となった2005年よりベース車両を「NSX-R GT」に変更した結果、コンスタントに優勝を飾るなどして復調のきざしが見え、2007年には再びGT500クラスで年度チャンピオンを獲得した（ドライバーは[伊藤大輔](https://ja.wikipedia.org/wiki/伊藤大輔_\(レーサー\) "wikilink")/[ラルフ・ファーマン](https://ja.wikipedia.org/wiki/ラルフ・ファーマン "wikilink")）。また、同年の開幕戦（鈴鹿サーキット）の公式予選にて伊藤大輔が**1分49秒842**を記録し\[17\]、それは2014年に車両規定が大幅に変更されるまで更新されることは無かった。しかしそれ以降は再度不利な状況が続き、2009年を最後にSUPER GTから撤退することが表明された\[18\]。2010年からは、新型車両「[ホンダ・HSV-010](https://ja.wikipedia.org/wiki/ホンダ・HSV-010 "wikilink")」で参戦する。
+選手権の名称が「[SUPER GT](https://ja.wikipedia.org/wiki/SUPER_GT "wikilink")」となった2005年よりベース車両を「NSX-R GT」に変更した結果、コンスタントに優勝を飾るなどして復調のきざしが見え、2007年には再びGT500クラスで年度チャンピオンを獲得した（ドライバーは[伊藤大輔](../Page/伊藤大輔_\(レーサー\).md "wikilink")/[ラルフ・ファーマン](../Page/ラルフ・ファーマン.md "wikilink")）。また、同年の開幕戦（鈴鹿サーキット）の公式予選にて伊藤大輔が**1分49秒842**を記録し\[17\]、それは2014年に車両規定が大幅に変更されるまで更新されることは無かった。しかしそれ以降は再度不利な状況が続き、2009年を最後にSUPER GTから撤退することが表明された\[18\]。2010年からは、新型車両「[ホンダ・HSV-010](https://ja.wikipedia.org/wiki/ホンダ・HSV-010 "wikilink")」で参戦する。
 
-改造範囲が限定された市販車により近い[スーパー耐久](https://ja.wikipedia.org/wiki/スーパー耐久 "wikilink")にも参戦しているほか、全日本[ジムカーナ](https://ja.wikipedia.org/wiki/ジムカーナ "wikilink")選手権でも1999年・2004年・2005年に山野哲也がシリーズチャンピオンを獲得するなどの活躍を見せている。日本国外においては[ニュルブルクリンク24時間レース](https://ja.wikipedia.org/wiki/ニュルブルクリンク24時間レース "wikilink")に2003年から毎年参戦している。
+改造範囲が限定された市販車により近い[スーパー耐久](../Page/スーパー耐久.md "wikilink")にも参戦しているほか、全日本[ジムカーナ](https://ja.wikipedia.org/wiki/ジムカーナ "wikilink")選手権でも1999年・2004年・2005年に山野哲也がシリーズチャンピオンを獲得するなどの活躍を見せている。日本国外においては[ニュルブルクリンク24時間レース](../Page/ニュルブルクリンク24時間レース.md "wikilink")に2003年から毎年参戦している。
 
 画像:Spice-Acura.jpg|ACURA-SPICE SE90CL 画像:Honda NSX Le Mans Racer.JPG|LeMans 24h参戦車両
 （1995年 GT-2優勝車両） 画像:NSX-MugenGT500.JPG|2000年GT500チャンピオン車両
 
 ## パトカー
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:NSX-policecar.jpg "wikilink") NSX(NA2)の[パトカーが日本の](https://ja.wikipedia.org/wiki/パトロールカー "wikilink")[栃木県警察](https://ja.wikipedia.org/wiki/栃木県警察 "wikilink")[高速道路交通警察隊](https://ja.wikipedia.org/wiki/高速道路交通警察隊 "wikilink")に存在する。本田技研工業から寄贈された車両。DIN規格のオーディオスペースがないためサイレンアンプ、ストップメーターは助手席に装備される。警察車両では珍しく[希望ナンバーで](https://ja.wikipedia.org/wiki/日本のナンバープレート#希望番号制度 "wikilink")「・110」を取得していた。2019年現在も現役で、県内で警察関係の啓発イベントがある際には必ず出動、展示される。 {{-}}
+[thumb](https://ja.wikipedia.org/wiki/ファイル:NSX-policecar.jpg "wikilink") NSX(NA2)の[パトカーが日本の](../Page/パトロールカー.md "wikilink")[栃木県警察](../Page/栃木県警察.md "wikilink")[高速道路交通警察隊](../Page/高速道路交通警察隊.md "wikilink")に存在する。本田技研工業から寄贈された車両。DIN規格のオーディオスペースがないためサイレンアンプ、ストップメーターは助手席に装備される。警察車両では珍しく[希望ナンバーで](https://ja.wikipedia.org/wiki/日本のナンバープレート#希望番号制度 "wikilink")「・110」を取得していた。2019年現在も現役で、県内で警察関係の啓発イベントがある際には必ず出動、展示される。 {{-}}
 
 ## 2代目 NC1型（2016年-）
 
@@ -148,13 +148,13 @@ I型とII型に続いて[ニュルブルクリンク](https://ja.wikipedia.org/w
 
 ## 関連項目
 
-  - [本田技研工業](https://ja.wikipedia.org/wiki/本田技研工業 "wikilink")
-  - [アキュラ](https://ja.wikipedia.org/wiki/アキュラ "wikilink")
-  - [上原繁](https://ja.wikipedia.org/wiki/上原繁 "wikilink")
+  - [本田技研工業](../Page/本田技研工業.md "wikilink")
+  - [アキュラ](../Page/アキュラ.md "wikilink")
+  - [上原繁](../Page/上原繁.md "wikilink")
   - [ホンダ・レジェンド](../Page/ホンダ・レジェンド.md "wikilink")
   - [ホンダ・ビート](https://ja.wikipedia.org/wiki/ホンダ・ビート_\(自動車\) "wikilink")
-  - [ホンダ・デュアルノート](https://ja.wikipedia.org/wiki/ホンダ・デュアルノート "wikilink")
-  - [ホンダ・HSC](https://ja.wikipedia.org/wiki/ホンダ・HSC "wikilink")
+  - [ホンダ・デュアルノート](../Page/ホンダ・デュアルノート.md "wikilink")
+  - [ホンダ・HSC](../Page/ホンダ・HSC.md "wikilink")
   - [ホンダ・HSV-010](https://ja.wikipedia.org/wiki/ホンダ・HSV-010 "wikilink")
 
 ## 外部リンク
@@ -167,7 +167,7 @@ I型とII型に続いて[ニュルブルクリンク](https://ja.wikipedia.org/w
 
 1.  エンスーCARガイド「ホンダ NSX」18ページ。 [三樹書房](https://ja.wikipedia.org/wiki/三樹書房 "wikilink") 2007年7月 ISBN 978-4-89522-497-0
 2.
-3.  リアオーバーハングの短い[フェラーリ・360モデナ](https://ja.wikipedia.org/wiki/フェラーリ・360モデナ "wikilink")などは、高速走行時の安定性の悪さが指摘されている（『オートジャンブル』vol.58）
+3.  リアオーバーハングの短い[フェラーリ・360モデナ](../Page/フェラーリ・360モデナ.md "wikilink")などは、高速走行時の安定性の悪さが指摘されている（『オートジャンブル』vol.58）
 4.  [小説NSX（開発経緯を物語としている）](http://www.honda.co.jp/NSX/novel/index.html)前編13ページ
 5.  モーターファン別冊 最新NSXのすべて 54ページ。 [三栄書房](https://ja.wikipedia.org/wiki/三栄書房 "wikilink") 平成5年5月17日発行
 6.  [発表時のFact book](http://www.honda.co.jp/factbook/auto/NSX/19900913/ns90-030.html)
@@ -175,10 +175,10 @@ I型とII型に続いて[ニュルブルクリンク](https://ja.wikipedia.org/w
 8.  [四輪製品ニュース ＮＳＸの運動性能をさらに際立たせたピュアスポーツモデル、ＮＳＸ－Ｒを追加発売](http://www.honda.co.jp/news/2002/4020523-nsx.html)
 9.
 10. ホンダ、スポーツ車再参入　「NSX」後継、3年後メド投入　『日本経済新聞』　平成23年12月13日企業総合面
-11. マンションや[ゴルフ会員権](https://ja.wikipedia.org/wiki/ゴルフ会員権 "wikilink")などと同様に高級車を転売する投機の対象にもされた
+11. マンションや[ゴルフ会員権](../Page/ゴルフ会員権.md "wikilink")などと同様に高級車を転売する投機の対象にもされた
 12. ただし、フルオリジナル、もしくはそれに近い状態であることが条件となる。あくまでも純正へ戻す為、ある程度改造が施されていても対象内ではあるが、著しく改造をした車両は対象外、またボディに修復不可能な錆穴がある場合は対象外となる。他社の例だと、マツダのロードスターのリフレッシュプランも同様の条件となる。
 13.
-14. [ネコ・パブリッシング](https://ja.wikipedia.org/wiki/ネコ・パブリッシング "wikilink")発行『Legendary J's 01 HONDA NSX』 46ページ
+14. [ネコ・パブリッシング](../Page/ネコ・パブリッシング.md "wikilink")発行『Legendary J's 01 HONDA NSX』 46ページ
 15. [SPORTSCAR web | 上原繁](http://www.honda.co.jp/sportscar/uehara/takahira/index.html)
 16. GT1の1台と中嶋企画は予備予選をクリアできず、決勝に参加できなかった。
 17. [鈴鹿サーキット｜コースレコード｜国際レーシングコース 4輪](http://www.suzukacircuit.jp/records_s/racing_4wheel/index.html)

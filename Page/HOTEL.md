@@ -1,21 +1,21 @@
 > この記事は[HOTEL](https://ja.wikipedia.org/wiki/HOTEL)から翻訳されています。
 
 
-『**HOTEL**』（ホテル） は、紺間宏（[漫画原作者](../Page/漫画原作者.md "wikilink")[大石健一](https://ja.wikipedia.org/wiki/大石健一 "wikilink")の別名）[シナリオ](https://ja.wikipedia.org/wiki/シナリオ "wikilink")・[石ノ森章太郎](https://ja.wikipedia.org/wiki/石ノ森章太郎 "wikilink")作画の[青年漫画](../Page/青年漫画.md "wikilink")である。
+『**HOTEL**』（ホテル） は、紺間宏（[漫画原作者](../Page/漫画原作者.md "wikilink")[大石健一](https://ja.wikipedia.org/wiki/大石健一 "wikilink")の別名）[シナリオ](https://ja.wikipedia.org/wiki/シナリオ "wikilink")・[石ノ森章太郎](../Page/石ノ森章太郎.md "wikilink")作画の[青年漫画](../Page/青年漫画.md "wikilink")である。
 
-1990年から2002年にかけて[TBS系で](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")化し、[高視聴率を記録する人気作となった](../Page/視聴率.md "wikilink")。
+1990年から2002年にかけて[TBS系で](../Page/TBSテレビ.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")化し、[高視聴率を記録する人気作となった](../Page/視聴率.md "wikilink")。
 
 ## 漫画
 
-[小学館](../Page/小学館.md "wikilink")[ビッグコミック](../Page/ビッグコミック.md "wikilink")1984年9月25日号から1998年3月10日号\[1\]にて連載された。第33回（[昭和62年度](https://ja.wikipedia.org/wiki/1987年 "wikilink")）[小学館漫画賞](https://ja.wikipedia.org/wiki/小学館漫画賞 "wikilink")受賞。
+[小学館](../Page/小学館.md "wikilink")[ビッグコミック](../Page/ビッグコミック.md "wikilink")1984年9月25日号から1998年3月10日号\[1\]にて連載された。第33回（[昭和62年度](https://ja.wikipedia.org/wiki/1987年 "wikilink")）[小学館漫画賞](../Page/小学館漫画賞.md "wikilink")受賞。
 
 漫画版は「東京プラトン」のジェネラルマネージャー・東堂や新入社員の赤川一平を中心に、[バブル期](https://ja.wikipedia.org/wiki/バブル期 "wikilink")で羽振りのある利用客とホテル従業員との関わりや、世界展開で肥大化するホテル経営について展開される。開始当初の「プラトン」は平均的なシティホテルとして描かれ、ホテル内で繰り広げられるトラブルをメインに描いていたが、比較的早い段階で一流のサービスを提供するプロのホテルマン集団と客の交流へと作風が変化している。
 
-石ノ森の没後、「HOTEL 〜ミレニアム・サービス編〜」（[石森章太郎プロ](https://ja.wikipedia.org/wiki/石ノ森章太郎 "wikilink")、脚本：大石健一 作画協力：[シュガー佐藤](https://ja.wikipedia.org/wiki/シュガー佐藤_\(漫画家\) "wikilink")）が『[ビッグコミック増刊号](https://ja.wikipedia.org/wiki/ビッグコミック増刊号 "wikilink")』に連載。2011年6月には、描き下ろしの新作「HOTEL 第374話『NEOホテル進化論』」（製作：[石森プロ](https://ja.wikipedia.org/wiki/石森プロ "wikilink")、脚本：大石健一、作画協力：[シュガー佐藤](https://ja.wikipedia.org/wiki/シュガー佐藤_\(漫画家\) "wikilink")）が、ウェブサイト『[BIZCOM.](https://ja.wikipedia.org/wiki/BIZCOM. "wikilink")』に掲載された。この作品群では「銀座プラトン」や「丸の内プラトン」を舞台としている。
+石ノ森の没後、「HOTEL 〜ミレニアム・サービス編〜」（[石森章太郎プロ](../Page/石ノ森章太郎.md "wikilink")、脚本：大石健一 作画協力：[シュガー佐藤](../Page/シュガー佐藤_\(漫画家\).md "wikilink")）が『[ビッグコミック増刊号](../Page/ビッグコミック増刊号.md "wikilink")』に連載。2011年6月には、描き下ろしの新作「HOTEL 第374話『NEOホテル進化論』」（製作：[石森プロ](https://ja.wikipedia.org/wiki/石森プロ "wikilink")、脚本：大石健一、作画協力：[シュガー佐藤](../Page/シュガー佐藤_\(漫画家\).md "wikilink")）が、ウェブサイト『[BIZCOM.](https://ja.wikipedia.org/wiki/BIZCOM. "wikilink")』に掲載された。この作品群では「銀座プラトン」や「丸の内プラトン」を舞台としている。
 
-[ザ・ウィンザーホテル洞爺リゾート&スパ](https://ja.wikipedia.org/wiki/ザ・ウィンザーホテル洞爺リゾート&スパ "wikilink")を経営している[窪山哲雄](https://ja.wikipedia.org/wiki/窪山哲雄 "wikilink")が、東堂のモデルとして知られている。
+[ザ・ウィンザーホテル洞爺リゾート&スパ](../Page/ザ・ウィンザーホテル洞爺リゾート&スパ.md "wikilink")を経営している[窪山哲雄](../Page/窪山哲雄.md "wikilink")が、東堂のモデルとして知られている。
 
-[スターシステムとして](https://ja.wikipedia.org/wiki/スター・システム_\(小説・アニメ・漫画\) "wikilink")、石ノ森の別作品でホテルが登場する場合はプラトン系列となる場合が多い。『[仮面ライダーBlack](https://ja.wikipedia.org/wiki/仮面ライダーBlack "wikilink")』では劇中何度かホテル「プラトン」が登場し、京都では東堂というネームプレートを付けたホテルマンが登場する。また『マンガ青函トンネル』（1988年　日本放送協会出版）の冒頭では「東京プラトン」が登場している。
+[スターシステムとして](https://ja.wikipedia.org/wiki/スター・システム_\(小説・アニメ・漫画\) "wikilink")、石ノ森の別作品でホテルが登場する場合はプラトン系列となる場合が多い。『[仮面ライダーBlack](../Page/仮面ライダーBlack.md "wikilink")』では劇中何度かホテル「プラトン」が登場し、京都では東堂というネームプレートを付けたホテルマンが登場する。また『マンガ青函トンネル』（1988年　日本放送協会出版）の冒頭では「東京プラトン」が登場している。
 
 ## 登場人物
 
@@ -172,7 +172,7 @@
 
 ## テレビドラマ
 
-1990年から2002年にかけて[TBS系で放送](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")。
+1990年から2002年にかけて[TBS系で放送](../Page/TBSテレビ.md "wikilink")。
 
 ## HATAGO［旅籠］
 
@@ -186,7 +186,7 @@
 
 ## 関連項目
 
-  - [仮面ライダーBlack](https://ja.wikipedia.org/wiki/仮面ライダーBlack "wikilink")
+  - [仮面ライダーBlack](../Page/仮面ライダーBlack.md "wikilink")
 
 ## 外部リンク
 

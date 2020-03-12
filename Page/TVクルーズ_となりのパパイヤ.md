@@ -5,9 +5,9 @@
 
 ## 番組概要
 
-放送時間は月 - 金曜15:00 - 16:00（[JST](../Page/日本標準時.md "wikilink")）。午後の[ワイドショー](https://ja.wikipedia.org/wiki/ワイドショー "wikilink")の視聴率で苦戦したフジテレビが、**「脱ワイドショー」**をコンセプトに、[1994年](../Page/1994年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、午後3時の時間帯に立ち上げた。ニュース、生活情報はもちろんのこと、各曜日ごとにバラエティー要素を盛り込んだ企画で新風を巻き起こそうとした。しかし、この時期に[阪神・淡路大震災](https://ja.wikipedia.org/wiki/阪神・淡路大震災 "wikilink")や[愛知県西尾市中学生いじめ自殺事件](https://ja.wikipedia.org/wiki/愛知県西尾市中学生いじめ自殺事件 "wikilink")、[地下鉄サリン事件](../Page/地下鉄サリン事件.md "wikilink")をはじめとする[オウム真理教事件](https://ja.wikipedia.org/wiki/オウム真理教事件 "wikilink")などの重大事件・事故が続き、ワイドショー番組は連日これらの報道一色となった。そのためフジテレビも当初のバラエティ路線を修正せざるを得ない状況となり、コンセプトを押し通せないまま1995年3月で終了した。後番組の[3時ヨこい\!](https://ja.wikipedia.org/wiki/3時ヨこい! "wikilink")も同様に不完全燃焼のまま半年で終了し、[ビッグトゥデイ](https://ja.wikipedia.org/wiki/ビッグトゥデイ "wikilink")以降は再びワイドショー路線へと回帰することになる。
+放送時間は月 - 金曜15:00 - 16:00（[JST](../Page/日本標準時.md "wikilink")）。午後の[ワイドショー](../Page/ワイドショー.md "wikilink")の視聴率で苦戦したフジテレビが、**「脱ワイドショー」**をコンセプトに、[1994年](../Page/1994年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、午後3時の時間帯に立ち上げた。ニュース、生活情報はもちろんのこと、各曜日ごとにバラエティー要素を盛り込んだ企画で新風を巻き起こそうとした。しかし、この時期に[阪神・淡路大震災](../Page/阪神・淡路大震災.md "wikilink")や[愛知県西尾市中学生いじめ自殺事件](../Page/愛知県西尾市中学生いじめ自殺事件.md "wikilink")、[地下鉄サリン事件](../Page/地下鉄サリン事件.md "wikilink")をはじめとする[オウム真理教事件](../Page/オウム真理教事件.md "wikilink")などの重大事件・事故が続き、ワイドショー番組は連日これらの報道一色となった。そのためフジテレビも当初のバラエティ路線を修正せざるを得ない状況となり、コンセプトを押し通せないまま1995年3月で終了した。後番組の[3時ヨこい\!](https://ja.wikipedia.org/wiki/3時ヨこい! "wikilink")も同様に不完全燃焼のまま半年で終了し、[ビッグトゥデイ](../Page/ビッグトゥデイ.md "wikilink")以降は再びワイドショー路線へと回帰することになる。
 
-テーマ曲は、[ビンゴボンゴ](https://ja.wikipedia.org/wiki/ビンゴボンゴ "wikilink")（[ユースケ・サンタマリア](../Page/ユースケ・サンタマリア.md "wikilink")が在籍したバンド）の楽曲が使用された。また、田代まさし・麻木久仁子のデュエットによる「[愛が懐かしい](https://ja.wikipedia.org/wiki/愛が懐かしい "wikilink")」がエンディングに使用された。
+テーマ曲は、[ビンゴボンゴ](../Page/ビンゴボンゴ.md "wikilink")（[ユースケ・サンタマリア](../Page/ユースケ・サンタマリア.md "wikilink")が在籍したバンド）の楽曲が使用された。また、田代まさし・麻木久仁子のデュエットによる「[愛が懐かしい](https://ja.wikipedia.org/wiki/愛が懐かしい "wikilink")」がエンディングに使用された。
 
 ## 出演者
 
@@ -31,9 +31,9 @@
 ### コメンテーター
 
   - [江本孟紀](../Page/江本孟紀.md "wikilink")
-  - [神足裕司](https://ja.wikipedia.org/wiki/神足裕司 "wikilink")
+  - [神足裕司](../Page/神足裕司.md "wikilink")
   - [テリー伊藤](../Page/テリー伊藤.md "wikilink")
-  - [内田春菊](https://ja.wikipedia.org/wiki/内田春菊 "wikilink")
+  - [内田春菊](../Page/内田春菊.md "wikilink")
   - [村田昭治](https://ja.wikipedia.org/wiki/村田昭治 "wikilink")
 
 ### コーナー担当
@@ -43,7 +43,7 @@
 <!-- end list -->
 
   -
-    ※『[タイム3](../Page/タイム3.md "wikilink")』→『[タイムアングル](https://ja.wikipedia.org/wiki/タイムアングル "wikilink")』から続投。後番組『[3時ヨこい\!](https://ja.wikipedia.org/wiki/3時ヨこい! "wikilink")』も続投。
+    ※『[タイム3](../Page/タイム3.md "wikilink")』→『[タイムアングル](../Page/タイムアングル.md "wikilink")』から続投。後番組『[3時ヨこい\!](https://ja.wikipedia.org/wiki/3時ヨこい! "wikilink")』も続投。
 
 ## 主なコーナー
 
@@ -178,7 +178,7 @@
 <tr class="even">
 <td><p><a href="../Page/岡山放送.md" title="wikilink">岡山放送</a><br />
 （OHK）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/岡山県・香川県の放送" title="wikilink">岡山県・香川県</a></p></td>
+<td><p><a href="../Page/岡山県・香川県の放送.md" title="wikilink">岡山県・香川県</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -220,7 +220,7 @@
 <tr class="even">
 <td><p><a href="../Page/テレビ西日本.md" title="wikilink">テレビ西日本</a><br />
 （TNC）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p>フジテレビ系列</p></td>
 <td></td>
 </tr>
@@ -246,7 +246,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビ大分" title="wikilink">テレビ大分</a><br />
+<td><p><a href="../Page/テレビ大分.md" title="wikilink">テレビ大分</a><br />
 （TOS）</p></td>
 <td><p><a href="../Page/大分県.md" title="wikilink">大分県</a></p></td>
 <td><p>日本テレビ系列<br />
@@ -265,7 +265,7 @@
 <tr class="even">
 <td><p><a href="../Page/鹿児島テレビ放送.md" title="wikilink">鹿児島テレビ放送</a><br />
 （KTS）)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/鹿児島県" title="wikilink">鹿児島県</a></p></td>
+<td><p><a href="../Page/鹿児島県.md" title="wikilink">鹿児島県</a></p></td>
 <td><p>フジテレビ系列</p></td>
 <td></td>
 </tr>

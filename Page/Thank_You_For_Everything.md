@@ -1,11 +1,11 @@
 > この記事は[Thank You For Everything](https://ja.wikipedia.org/wiki/Thank_You_For_Everything)から翻訳されています。
 
 
-「**Thank You For Everything**」（センキュー・フォー・エブリシング）は、[岩田さゆり](https://ja.wikipedia.org/wiki/岩田さゆり "wikilink")の4枚目の[シングル](../Page/シングル.md "wikilink")。本作で岩田が初めて作詞を手掛けた。全ての人に「ありがとう」と言う気持ちをこめて作詞を手がけたと本人がコメントしている。売り上げは自身最高を記録している。なお、タイアップ先となった『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")』の同時期のオープニングテーマである[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")の「[Growing of my heart](https://ja.wikipedia.org/wiki/Growing_of_my_heart "wikilink")」も同日に発売された。
+「**Thank You For Everything**」（センキュー・フォー・エブリシング）は、[岩田さゆり](../Page/岩田さゆり.md "wikilink")の4枚目の[シングル](../Page/シングル.md "wikilink")。本作で岩田が初めて作詞を手掛けた。全ての人に「ありがとう」と言う気持ちをこめて作詞を手がけたと本人がコメントしている。売り上げは自身最高を記録している。なお、タイアップ先となった『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")』の同時期のオープニングテーマである[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")の「[Growing of my heart](../Page/Growing_of_my_heart.md "wikilink")」も同日に発売された。
 
 ## 収録曲
 
-全作詞：[岩田さゆり](https://ja.wikipedia.org/wiki/岩田さゆり "wikilink")、全編曲：鎌田真吾
+全作詞：[岩田さゆり](../Page/岩田さゆり.md "wikilink")、全編曲：鎌田真吾
 
 1.  **Thank You For Everything**
       -
@@ -20,20 +20,20 @@
 
 ## 収録アルバム
 
-  - [Thank You For…](https://ja.wikipedia.org/wiki/Thank_You_For… "wikilink")（\#1）
-  - [岩田さゆり Best+](https://ja.wikipedia.org/wiki/岩田さゆり_Best+ "wikilink")（\#1）
-  - [THE BEST OF DETECTIVE CONAN 3 〜名探偵コナン テーマ曲集3〜](https://ja.wikipedia.org/wiki/THE_BEST_OF_DETECTIVE_CONAN_3_〜名探偵コナン_テーマ曲集3〜 "wikilink")（\#1）
+  - [Thank You For…](../Page/Thank_You_For….md "wikilink")（\#1）
+  - [岩田さゆり Best+](../Page/岩田さゆり_Best+.md "wikilink")（\#1）
+  - [THE BEST OF DETECTIVE CONAN 3 〜名探偵コナン テーマ曲集3〜](../Page/THE_BEST_OF_DETECTIVE_CONAN_3_〜名探偵コナン_テーマ曲集3〜.md "wikilink")（\#1）
 
 <table>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビアニメ" title="wikilink">テレビアニメ</a>『<a href="https://ja.wikipedia.org/wiki/名探偵コナン_(アニメ)" title="wikilink">名探偵コナン</a>』<a href="https://ja.wikipedia.org/wiki/主題歌" title="wikilink">エンディングテーマ</a><br />
-<a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/10月24日.md" title="wikilink">10月24日</a> - <a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/12月19日" title="wikilink">12月19日</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/テレビアニメ" title="wikilink">テレビアニメ</a>『<a href="https://ja.wikipedia.org/wiki/名探偵コナン_(アニメ)" title="wikilink">名探偵コナン</a>』<a href="../Page/主題歌.md" title="wikilink">エンディングテーマ</a><br />
+<a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/10月24日.md" title="wikilink">10月24日</a> - <a href="../Page/2005年.md" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/12月19日" title="wikilink">12月19日</a></p></td>
 </tr>
 <tr class="even">
 <td><p>前作:<br />
-<a href="https://ja.wikipedia.org/wiki/竹井詩織里" title="wikilink">竹井詩織里</a><br />
-『<a href="https://ja.wikipedia.org/wiki/世界_止めて" title="wikilink">世界 止めて</a>』</p></td>
+<a href="../Page/竹井詩織里.md" title="wikilink">竹井詩織里</a><br />
+『<a href="../Page/世界_止めて.md" title="wikilink">世界 止めて</a>』</p></td>
 </tr>
 </tbody>
 </table>

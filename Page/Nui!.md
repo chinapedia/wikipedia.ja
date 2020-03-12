@@ -1,7 +1,7 @@
 > この記事は[Nui!](https://ja.wikipedia.org/wiki/Nui!)から翻訳されています。
 
 
-『**Nui\!**』（ぬい）は、[迎夏生](../Page/迎夏生.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[月刊コミックラッシュ](https://ja.wikipedia.org/wiki/月刊コミックラッシュ "wikilink")』（[ジャイブ](https://ja.wikipedia.org/wiki/ジャイブ "wikilink")）[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")8月号から[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")10月号まで連載された。
+『**Nui\!**』（ぬい）は、[迎夏生](../Page/迎夏生.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[月刊コミックラッシュ](../Page/月刊コミックラッシュ.md "wikilink")』（[ジャイブ](../Page/ジャイブ.md "wikilink")）[2006年](../Page/2006年.md "wikilink")8月号から[2007年](../Page/2007年.md "wikilink")10月号まで連載された。
 
 ## ストーリー
 

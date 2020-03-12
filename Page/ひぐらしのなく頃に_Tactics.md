@@ -1,11 +1,11 @@
 > この記事は[ Tactics](https://ja.wikipedia.org/wiki/_Tactics)から翻訳されています。
 
 
-**ひぐらしのなく頃に Tactics**（ひぐらしのなくころに タクティクス）は、[そらゆめ](https://ja.wikipedia.org/wiki/そらゆめ "wikilink")開発・販売の[携帯電話](../Page/携帯電話.md "wikilink")向け[シミュレーションRPG](https://ja.wikipedia.org/wiki/シミュレーションRPG "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")に[SoftBank 3G](https://ja.wikipedia.org/wiki/SoftBank_3G "wikilink")・[WILLCOM W-ZERO3の](https://ja.wikipedia.org/wiki/W-ZERO3 "wikilink")2機種でダウンロード開始。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[5月7日](../Page/5月7日.md "wikilink")より[iアプリ](https://ja.wikipedia.org/wiki/iアプリ "wikilink")版（[FOMA](../Page/FOMA.md "wikilink")・703i/903i～）が追加された。
+**ひぐらしのなく頃に Tactics**（ひぐらしのなくころに タクティクス）は、[そらゆめ](../Page/そらゆめ.md "wikilink")開発・販売の[携帯電話](../Page/携帯電話.md "wikilink")向け[シミュレーションRPG](https://ja.wikipedia.org/wiki/シミュレーションRPG "wikilink")。[2006年](../Page/2006年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")に[SoftBank 3G](../Page/SoftBank_3G.md "wikilink")・[WILLCOM W-ZERO3の](../Page/W-ZERO3.md "wikilink")2機種でダウンロード開始。[2007年](../Page/2007年.md "wikilink")[5月7日](../Page/5月7日.md "wikilink")より[iアプリ](https://ja.wikipedia.org/wiki/iアプリ "wikilink")版（[FOMA](../Page/FOMA.md "wikilink")・703i/903i～）が追加された。
 
 ## 概要
 
-タイトルが示す通り、[07th Expansionの](https://ja.wikipedia.org/wiki/07th_Expansion "wikilink")[同人ゲーム](../Page/同人ゲーム.md "wikilink")「[ひぐらしのなく頃に](https://ja.wikipedia.org/wiki/ひぐらしのなく頃に "wikilink")」を題材にしたシミュレーションRPGである。
+タイトルが示す通り、[07th Expansionの](../Page/07th_Expansion.md "wikilink")[同人ゲーム](../Page/同人ゲーム.md "wikilink")「[ひぐらしのなく頃に](../Page/ひぐらしのなく頃に.md "wikilink")」を題材にしたシミュレーションRPGである。
 
 プレイヤーはチームを編成し、ステージごとに設定されている勝利条件の達成を目指す。行動は基本的にウェイト制であり、WT（Wait）値が0になったユニットから順に行動する。
 
@@ -30,7 +30,7 @@
 
 ## 登場キャラクター
 
-基本設定は[ひぐらしのなく頃にの登場人物](https://ja.wikipedia.org/wiki/ひぐらしのなく頃にの登場人物 "wikilink")を参照。
+基本設定は[ひぐらしのなく頃にの登場人物](../Page/ひぐらしのなく頃にの登場人物.md "wikilink")を参照。
 
   - 前原 圭一（まえばら けいいち）
     専用スキル‥口先の魔術、KOOLモード

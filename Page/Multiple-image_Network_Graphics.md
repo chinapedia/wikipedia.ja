@@ -1,17 +1,17 @@
 > この記事は[Multiple-image Network Graphics](https://ja.wikipedia.org/wiki/Multiple-image_Network_Graphics)から翻訳されています。
 
 
-**Multiple-image Network Graphics** （**MNG**、ミングと発音）は[コンピュータ](../Page/コンピュータ.md "wikilink")上で[動画](../Page/動画.md "wikilink")を扱うための[ファイルフォーマット](../Page/ファイルフォーマット.md "wikilink")の一つ。[GIF](../Page/Graphics_Interchange_Format.md "wikilink")（特に[アニメーションGIF](https://ja.wikipedia.org/wiki/GIFアニメーション "wikilink")）の代替フォーマットとして開発されたが、GIFの[サブマリン特許](https://ja.wikipedia.org/wiki/サブマリン特許 "wikilink")問題が発生した際に起きたGIFから[PNGへの移行ほどの動きは起きておらず正式運用している実例はごく僅かである](../Page/Portable_Network_Graphics.md "wikilink")。
+**Multiple-image Network Graphics** （**MNG**、ミングと発音）は[コンピュータ](../Page/コンピュータ.md "wikilink")上で[動画](../Page/動画.md "wikilink")を扱うための[ファイルフォーマット](../Page/ファイルフォーマット.md "wikilink")の一つ。[GIF](../Page/Graphics_Interchange_Format.md "wikilink")（特に[アニメーションGIF](../Page/GIFアニメーション.md "wikilink")）の代替フォーマットとして開発されたが、GIFの[サブマリン特許](../Page/サブマリン特許.md "wikilink")問題が発生した際に起きたGIFから[PNGへの移行ほどの動きは起きておらず正式運用している実例はごく僅かである](../Page/Portable_Network_Graphics.md "wikilink")。
 
-PNGがアニメーションできないことが開発のきっかけとなった。MNGはPNGの[スーパーセットであり](https://ja.wikipedia.org/wiki/互換性 "wikilink")、PNGの特徴を色濃く引き継いでいる。最も単純なMNGは、[拡張子](../Page/拡張子.md "wikilink")`.png`を`.mng`に変更しただけのものである。また、MNGには[JPEG](../Page/JPEG.md "wikilink")を含めた[JNGフォーマットも存在し](https://ja.wikipedia.org/wiki/JPEG_Network_Graphics "wikilink")、アニメーション時にはPNGやJPEGを素材として使うことが可能である。
+PNGがアニメーションできないことが開発のきっかけとなった。MNGはPNGの[スーパーセットであり](../Page/互換性.md "wikilink")、PNGの特徴を色濃く引き継いでいる。最も単純なMNGは、[拡張子](../Page/拡張子.md "wikilink")`.png`を`.mng`に変更しただけのものである。また、MNGには[JPEG](../Page/JPEG.md "wikilink")を含めた[JNGフォーマットも存在し](https://ja.wikipedia.org/wiki/JPEG_Network_Graphics "wikilink")、アニメーション時にはPNGやJPEGを素材として使うことが可能である。
 
-日本では、[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")が提供する[Yahoo\!ケータイ](https://ja.wikipedia.org/wiki/Yahoo!ケータイ "wikilink")対応[携帯電話](../Page/携帯電話.md "wikilink")にて、ブラウザ上及びJavaアプリケーション（S\!アプリ）上での再生に対応している端末が多い。また、地上デジタル放送のコンテンツに使用されているBML([Broadcast Markup Language](https://ja.wikipedia.org/wiki/Broadcast_Markup_Language "wikilink"))では、GIFの特許がらみを避けるため、アニメーション可能なイメージとしてMNGが採用された。
+日本では、[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")が提供する[Yahoo\!ケータイ](../Page/Yahoo!ケータイ.md "wikilink")対応[携帯電話](../Page/携帯電話.md "wikilink")にて、ブラウザ上及びJavaアプリケーション（S\!アプリ）上での再生に対応している端末が多い。また、地上デジタル放送のコンテンツに使用されているBML([Broadcast Markup Language](../Page/Broadcast_Markup_Language.md "wikilink"))では、GIFの特許がらみを避けるため、アニメーション可能なイメージとしてMNGが採用された。
 
 ## 関連項目
 
   - [PNG](../Page/Portable_Network_Graphics.md "wikilink")
-  - [APNG](https://ja.wikipedia.org/wiki/Animated_Portable_Network_Graphics "wikilink")
-  - [NetFront Browser](https://ja.wikipedia.org/wiki/NetFront_Browser "wikilink")
+  - [APNG](../Page/Animated_Portable_Network_Graphics.md "wikilink")
+  - [NetFront Browser](../Page/NetFront_Browser.md "wikilink")
 
 ## 外部リンク
 

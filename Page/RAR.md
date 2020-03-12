@@ -5,9 +5,9 @@
 
 ## 概要
 
-[ZIP](../Page/ZIP_\(ファイルフォーマット\).md "wikilink") に比べ高い圧縮率であり、他の圧縮形式にはあまり見られない特色としてリカバリレコードが挙げられる。リカバリレコードとは、一種の[ハミング符号](https://ja.wikipedia.org/wiki/ハミング符号 "wikilink")を付加することで圧縮ファイルの破損をある程度まで修復可能とするものである。また、一定のサイズごとに分割して圧縮することができる。
+[ZIP](../Page/ZIP_\(ファイルフォーマット\).md "wikilink") に比べ高い圧縮率であり、他の圧縮形式にはあまり見られない特色としてリカバリレコードが挙げられる。リカバリレコードとは、一種の[ハミング符号](../Page/ハミング符号.md "wikilink")を付加することで圧縮ファイルの破損をある程度まで修復可能とするものである。また、一定のサイズごとに分割して圧縮することができる。
 
-[WinRAR](https://ja.wikipedia.org/wiki/WinRAR "wikilink") や [MacRAR](https://ja.wikipedia.org/wiki/MacRAR "wikilink") などの[ソフトウェア](../Page/ソフトウェア.md "wikilink")で処理を行うことができる。
+[WinRAR](../Page/WinRAR.md "wikilink") や [MacRAR](https://ja.wikipedia.org/wiki/MacRAR "wikilink") などの[ソフトウェア](../Page/ソフトウェア.md "wikilink")で処理を行うことができる。
 
 [2013年](../Page/2013年.md "wikilink")にリリースされたWinRAR5より新フォーマットRAR5が登場した。拡張子は.rarと同じであるが、古いバージョンのソフトウェアでは扱うことができない。
 
@@ -30,7 +30,7 @@
       - 拡張子が従来の {ボリューム名}.rar, {ボリューム名}.r00, {ボリューム名}.r01, etc. から、{ボリューム名}.part001.rar, {ボリューム名}.part002.rar, etc. に変更
       - ファイルヘッダとファイルのデータ両方が暗号化されるようになった（従来はファイル名だけは閲覧可能だった）。
       - 圧縮方式として 4 MB の辞書を使用、テキストデータには Dmitry Shkarin の PPMII アルゴリズムが使用可能、他のデータにはプラットフォームとファイルタイプに応じた事前処理のためのフィルタを使用する。
-      - 暗号化方式が[Cipher Block Chainingから](https://ja.wikipedia.org/wiki/暗号利用モード#CBC "wikilink")[AES](https://ja.wikipedia.org/wiki/Advanced_Encryption_Standard "wikilink") の 128 ビット長の暗号鍵に変更可能
+      - 暗号化方式が[Cipher Block Chainingから](https://ja.wikipedia.org/wiki/暗号利用モード#CBC "wikilink")[AES](../Page/Advanced_Encryption_Standard.md "wikilink") の 128 ビット長の暗号鍵に変更可能
       - リカバリーボリューム(.rev)が作成可能。ボリュームセットの欠損ファイルを修復できる。
       - 9 GB以上の圧縮ファイルが作成可能。
       - [Unicode](../Page/Unicode.md "wikilink")対応、ファイル名は[UTF-16](../Page/UTF-16.md "wikilink")リトルエンディアンで保存。
@@ -40,7 +40,7 @@
   - v5.0 - WinRAR 5.0以降でサポート
       - 最大圧縮辞書サイズが1GBにアップ。デフォルトが32MBに（WinRAR 4、v2.9フォーマットでのデフォルトは4MB）。
       - RAR、ZIPフォーマットでのファイル名の最大長が2048文字までにアップ。
-      - [リード・ソロモン符号](https://ja.wikipedia.org/wiki/リード・ソロモン符号 "wikilink")によるリカバリーレコードにより、複数エリアに損傷があるアーカイブの復元性能がアップ。有効なリカバリーレコードサイズ上限が256MBから無制限に。
+      - [リード・ソロモン符号](../Page/リード・ソロモン符号.md "wikilink")によるリカバリーレコードにより、複数エリアに損傷があるアーカイブの復元性能がアップ。有効なリカバリーレコードサイズ上限が256MBから無制限に。
       - リカバリーボリュームの高速化。上限が通常ボリュームファイル含めて255個から65535個に
       - [UTF-8](../Page/UTF-8.md "wikilink")にてファイル名を保存
       - ファイルタイムスタンプを[UTC](https://ja.wikipedia.org/wiki/UTC "wikilink")で保存
@@ -56,7 +56,7 @@
 ## 関連項目
 
   - [CBR](https://ja.wikipedia.org/wiki/CDisplay_RAR_Archived_Comic_Book_File "wikilink") - RAR を用いたデータフォーマット
-  - [7-Zip](https://ja.wikipedia.org/wiki/7-Zip "wikilink")
+  - [7-Zip](../Page/7-Zip.md "wikilink")
   - [ZIP](../Page/ZIP_\(ファイルフォーマット\).md "wikilink")
   - [LHA](../Page/LHA.md "wikilink") - 同じく「ラー」と呼ぶユーザーがいる
   - [CAB](../Page/CAB.md "wikilink")

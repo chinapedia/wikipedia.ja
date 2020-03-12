@@ -5,15 +5,15 @@
 
 ## 略歴
 
-[1841年](../Page/1841年.md "wikilink")[3月12日](../Page/3月12日.md "wikilink")、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")、[ケント州](https://ja.wikipedia.org/wiki/ケント_\(イングランド\) "wikilink")[マーゲート](https://ja.wikipedia.org/wiki/マーゲート "wikilink")に生まれた。イスリントン・カレッジを卒業後、[執事となり](https://ja.wikipedia.org/wiki/執事_\(キリスト教\) "wikilink")3年間香港で布教活動をした後、[司祭](../Page/司祭.md "wikilink")となったが病のため1868年にイギリス本国に帰国した。[1873年](../Page/1873年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink") [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[神戸港](../Page/神戸港.md "wikilink")に到着、同年12月31日、[大阪](../Page/大阪.md "wikilink")に移った\[3\]。
+[1841年](../Page/1841年.md "wikilink")[3月12日](../Page/3月12日.md "wikilink")、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")、[ケント州](../Page/ケント_\(イングランド\).md "wikilink")[マーゲート](https://ja.wikipedia.org/wiki/マーゲート "wikilink")に生まれた。イスリントン・カレッジを卒業後、[執事となり](https://ja.wikipedia.org/wiki/執事_\(キリスト教\) "wikilink")3年間香港で布教活動をした後、[司祭](../Page/司祭.md "wikilink")となったが病のため1868年にイギリス本国に帰国した。[1873年](../Page/1873年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink") [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[神戸港](../Page/神戸港.md "wikilink")に到着、同年12月31日、[大阪](../Page/大阪.md "wikilink")に移った\[3\]。
 
-1877年、大阪[川口居留地で会堂献堂を行う](https://ja.wikipedia.org/wiki/旧川口居留地 "wikilink")。これが大阪聖三一教会であり、翌1878年に命名されている。1882年にそこで[神学](../Page/神学.md "wikilink")教育を開始、1884年には[桃山学院の起源である三一小学校を開設した](../Page/学校法人桃山学院.md "wikilink")。[1890年](../Page/1890年.md "wikilink")、[桃山学院中学校・高等学校](https://ja.wikipedia.org/wiki/桃山学院中学校・高等学校 "wikilink")の前身である高等英学校を創設した。夫人が病となったため、一旦再度帰国したが、夫人の死後再来日を果たし大阪地方部大執事を務めた。[1899年](../Page/1899年.md "wikilink")[6月8日](../Page/6月8日.md "wikilink")、伝道旅行中に[広島県](../Page/広島県.md "wikilink")[福山で階段から転倒したことが原因で事故死した](../Page/福山市.md "wikilink")。遺体は福山の共同墓地に埋葬された。
+1877年、大阪[川口居留地で会堂献堂を行う](../Page/旧川口居留地.md "wikilink")。これが大阪聖三一教会であり、翌1878年に命名されている。1882年にそこで[神学](../Page/神学.md "wikilink")教育を開始、1884年には[桃山学院の起源である三一小学校を開設した](../Page/学校法人桃山学院.md "wikilink")。[1890年](../Page/1890年.md "wikilink")、[桃山学院中学校・高等学校](../Page/桃山学院中学校・高等学校.md "wikilink")の前身である高等英学校を創設した。夫人が病となったため、一旦再度帰国したが、夫人の死後再来日を果たし大阪地方部大執事を務めた。[1899年](../Page/1899年.md "wikilink")[6月8日](../Page/6月8日.md "wikilink")、伝道旅行中に[広島県](../Page/広島県.md "wikilink")[福山で階段から転倒したことが原因で事故死した](../Page/福山市.md "wikilink")。遺体は福山の共同墓地に埋葬された。
 
 在日中は大阪以外に広島県、[島根県](../Page/島根県.md "wikilink")、[岐阜県](../Page/岐阜県.md "wikilink")、[徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")でも伝道を行っている\[4\]。
 
 [桃山学院大学](../Page/桃山学院大学.md "wikilink")にはワレンにちなんだワレン館という名の建物がある\[5\]。
 
-また[桃山学院中学校・高等学校](https://ja.wikipedia.org/wiki/桃山学院中学校・高等学校 "wikilink")にもワレンにちなんだフレデリック館（通称F館）という建物がある。
+また[桃山学院中学校・高等学校](../Page/桃山学院中学校・高等学校.md "wikilink")にもワレンにちなんだフレデリック館（通称F館）という建物がある。
 
 ## 脚注
 

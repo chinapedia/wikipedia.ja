@@ -2,7 +2,7 @@
 
 
 **MRTスーパーワイド バリッと朝\!**（えむあーるてぃーすーぱーわいど ばりっとあさ）とは[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")ラジオで過去放送されてたラジオ番組。月曜日～金曜日の8:30～11:00に放送。略称は*バリ朝*、*バリッと朝*。
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")放送開始。当初は月曜日～金曜日の放送、同年[10月6日](../Page/10月6日.md "wikilink")より土曜日に放送されていたが、2008年4月からは、放送時間が7:55\~11:00となり、6時台の枠は「[スカッと朝いち番\!](https://ja.wikipedia.org/wiki/スカッと朝いち番! "wikilink")」に引き継がれ、土曜版は「[バリ朝\! 土曜日](https://ja.wikipedia.org/wiki/バリ朝!_土曜日 "wikilink")」として独立した。2008年9月26日までは6:30\~11:00の放送時間だった。 2014年3月放送終了し、「[フレッシュAM\!もぎたてラジオ](https://ja.wikipedia.org/wiki/フレッシュAM!もぎたてラジオ "wikilink")」に引き継がれた。
+[2007年](../Page/2007年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")放送開始。当初は月曜日～金曜日の放送、同年[10月6日](../Page/10月6日.md "wikilink")より土曜日に放送されていたが、2008年4月からは、放送時間が7:55\~11:00となり、6時台の枠は「[スカッと朝いち番\!](https://ja.wikipedia.org/wiki/スカッと朝いち番! "wikilink")」に引き継がれ、土曜版は「[バリ朝\! 土曜日](https://ja.wikipedia.org/wiki/バリ朝!_土曜日 "wikilink")」として独立した。2008年9月26日までは6:30\~11:00の放送時間だった。 2014年3月放送終了し、「[フレッシュAM\!もぎたてラジオ](https://ja.wikipedia.org/wiki/フレッシュAM!もぎたてラジオ "wikilink")」に引き継がれた。
 
 ## パーソナリティ　
 
@@ -14,7 +14,7 @@
 
   - 月曜日・火曜日・水曜日**[竹井由美](https://ja.wikipedia.org/wiki/竹井由美 "wikilink")**・[早川伸吾](../Page/早川伸吾.md "wikilink")
   - 木曜日[西田裕子](https://ja.wikipedia.org/wiki/西田裕子 "wikilink")・[末元政弘](https://ja.wikipedia.org/wiki/末元政弘 "wikilink")
-  - 金曜日[オダマ](https://ja.wikipedia.org/wiki/0930 "wikilink")・TEDDY（[藤井隆広](https://ja.wikipedia.org/wiki/藤井隆広 "wikilink")）
+  - 金曜日[オダマ](../Page/0930.md "wikilink")・TEDDY（[藤井隆広](https://ja.wikipedia.org/wiki/藤井隆広 "wikilink")）
       - 気象予報士[野田俊一郎](https://ja.wikipedia.org/wiki/野田俊一郎 "wikilink")
 
 <!-- end list -->
@@ -59,8 +59,8 @@
 
 <!-- end list -->
 
-  - 月曜・火曜　早川伸吾・[吉野綾](https://ja.wikipedia.org/wiki/吉野綾 "wikilink")
-  - 水曜　**[村山耕一](https://ja.wikipedia.org/wiki/村山耕一 "wikilink")**・[成井富左子](https://ja.wikipedia.org/wiki/成井富左子 "wikilink")
+  - 月曜・火曜　早川伸吾・[吉野綾](../Page/吉野綾.md "wikilink")
+  - 水曜　**[村山耕一](../Page/村山耕一.md "wikilink")**・[成井富左子](https://ja.wikipedia.org/wiki/成井富左子 "wikilink")
   - 木曜　**村山耕一**・・[田中三枝子](https://ja.wikipedia.org/wiki/田中三枝子 "wikilink")
   - 金曜　**村山耕一**・さとうくみこ
       - 気象予報士　野田俊一郎
@@ -71,7 +71,7 @@
 
 <!-- end list -->
 
-  - 月曜　**[粉川真一](../Page/粉川真一.md "wikilink")**・**[竹内真理](https://ja.wikipedia.org/wiki/竹内真理 "wikilink")**
+  - 月曜　**[粉川真一](../Page/粉川真一.md "wikilink")**・**[竹内真理](../Page/竹内真理.md "wikilink")**
   - 火曜　**粉川真一**・田中三枝子
   - 水曜　**村山耕一**・成井富左子
   - 木曜　**村山耕一**・[西田裕子](https://ja.wikipedia.org/wiki/西田裕子 "wikilink")
@@ -112,14 +112,14 @@
   - 6:35　MRTニュース・天気予報
   - 6:40　朝イチランキング
   - 6:50　よもやまニュース
-  - 7:00　[NISSANビジネスサポートトピックス](https://ja.wikipedia.org/wiki/NISSANビジネスサポートトピックス "wikilink")
-  - 7:10　[GoodDay\!ニュースネットワーク](https://ja.wikipedia.org/wiki/お早うネットワーク "wikilink")
+  - 7:00　[NISSANビジネスサポートトピックス](../Page/NISSANビジネスサポートトピックス.md "wikilink")
+  - 7:10　[GoodDay\!ニュースネットワーク](../Page/お早うネットワーク.md "wikilink")
   - 7:25　交通情報
-  - 7:30　[武田鉄矢・今朝の三枚おろし](https://ja.wikipedia.org/wiki/武田鉄矢・今朝の三枚おろし "wikilink")
+  - 7:30　[武田鉄矢・今朝の三枚おろし](../Page/武田鉄矢・今朝の三枚おろし.md "wikilink")
   - 7:45　[歌のない歌謡曲](../Page/歌のない歌謡曲.md "wikilink")
   - 8:00　[日本全国8時です](https://ja.wikipedia.org/wiki/日本全国8時です "wikilink")
   - 8:15　毎日新聞ニュース・天気予報
-  - 8:20　[SUZUKIハッピーモーニング 鈴木杏樹のいってらっしゃい](https://ja.wikipedia.org/wiki/SUZUKIハッピーモーニング・いってらっしゃいシリーズ "wikilink")
+  - 8:20　[SUZUKIハッピーモーニング 鈴木杏樹のいってらっしゃい](../Page/SUZUKIハッピーモーニング・いってらっしゃいシリーズ.md "wikilink")
   - 8:25　交通情報
   - 8:30　ヘッドラインニュース
   - 8:35　ウェザーインフォメーション
@@ -135,7 +135,7 @@
   - 10:05　おはよう県庁です
   - 10:10　宮崎ほっとタイム
   - 10:15　飛び出せスクーピー
-  - 10:20　[純喫茶・谷村新司](https://ja.wikipedia.org/wiki/純喫茶・谷村新司 "wikilink")
+  - 10:20　[純喫茶・谷村新司](../Page/純喫茶・谷村新司.md "wikilink")
   - 10:35　くらしの相談室（「健康ホームドクター」、「園芸相談」等）
   - 10:50　ニュースタイム・天気予報
 
@@ -148,15 +148,15 @@
   - 9:00　ニュース･天気予報
   - 9:10　アラカルト
   - 9:25　飛び出せスクーピー
-  - 9:30　[宮交レジャーガイド](https://ja.wikipedia.org/wiki/宮崎交通 "wikilink")
-  - 9:35　[ジャパネットたかた](https://ja.wikipedia.org/wiki/ジャパネットたかた "wikilink")ラジオショッピング
+  - 9:30　[宮交レジャーガイド](../Page/宮崎交通.md "wikilink")
+  - 9:35　[ジャパネットたかた](../Page/ジャパネットたかた.md "wikilink")ラジオショッピング
   - 9:45　お耳拝借
   - 9:55　ニュースタイム・天気予報
   - 10:00　キープみやざきビューティフル21
   - 10:05　おはよう県庁です
   - 10:10　宮崎ほっとタイム
   - 10:15　飛び出せスクーピー
-  - 10:20　[純喫茶・谷村新司](https://ja.wikipedia.org/wiki/純喫茶・谷村新司 "wikilink")
+  - 10:20　[純喫茶・谷村新司](../Page/純喫茶・谷村新司.md "wikilink")
   - 10:35　くらしの相談室（「健康ホームドクター」、「園芸相談」等）
   - 10:50　ニュースタイム・天気予報
   - 10:54 エンディング
@@ -185,7 +185,7 @@
   - [吉田たかよしプラス\!](https://ja.wikipedia.org/wiki/吉田たかよしプラス! "wikilink")　（前番組）
   - [MRTさわやかモーニング](https://ja.wikipedia.org/wiki/MRTさわやかモーニング "wikilink")（前番組）
   - [ふれあいラジオくらしのレーダー](https://ja.wikipedia.org/wiki/ふれあいラジオくらしのレーダー "wikilink")（前番組）
-  - [蟹瀬誠一 ネクスト\!](https://ja.wikipedia.org/wiki/蟹瀬誠一_ネクスト! "wikilink")　（前々番組）
+  - [蟹瀬誠一 ネクスト\!](../Page/蟹瀬誠一_ネクスト!.md "wikilink")　（前々番組）
 
 ## リンク
 

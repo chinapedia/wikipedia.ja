@@ -1,13 +1,13 @@
 > この記事は[III](https://ja.wikipedia.org/wiki/III)から翻訳されています。
 
 
-『**サークIII**』 (*XakIII*) は、[1993年](../Page/1993年.md "wikilink")[4月23日](../Page/4月23日.md "wikilink")に日本の[マイクロキャビン](https://ja.wikipedia.org/wiki/マイクロキャビン "wikilink")から発売された[PC-9801用](../Page/PC-9800シリーズ.md "wikilink")[アクションロールプレイングゲーム](../Page/アクションロールプレイングゲーム.md "wikilink")。正式タイトルは『**サークIII ジ・エターナル・リカーレンス**』 (*XakIII The eternal recurrence*)。
+『**サークIII**』 (*XakIII*) は、[1993年](../Page/1993年.md "wikilink")[4月23日](../Page/4月23日.md "wikilink")に日本の[マイクロキャビン](../Page/マイクロキャビン.md "wikilink")から発売された[PC-9801用](../Page/PC-9800シリーズ.md "wikilink")[アクションロールプレイングゲーム](../Page/アクションロールプレイングゲーム.md "wikilink")。正式タイトルは『**サークIII ジ・エターナル・リカーレンス**』 (*XakIII The eternal recurrence*)。
 
-同社の『[サークII](../Page/サークII.md "wikilink")』（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")）、『[ガゼルの塔](https://ja.wikipedia.org/wiki/ガゼルの塔 "wikilink")』（[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")）の続編で、サークIIから2年後（『ガゼルの塔』では1年後）、戦神デュエルの血をひく若き戦士ラトク・カートと、妖魔三将軍最後の生き残りゾム・ディザエの戦いを描く、サークシリーズの最終作である。前作に引き続き“**VRシステム**”を採用。更に『[幻影都市](https://ja.wikipedia.org/wiki/幻影都市 "wikilink")』（1991年）で好評だった“**操演システム**”を採用。『幻影都市』とは違い、オープニングからエンディングまで全てフィールドキャラクター達による操演となっている。
+同社の『[サークII](../Page/サークII.md "wikilink")』（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")）、『[ガゼルの塔](../Page/ガゼルの塔.md "wikilink")』（[1991年](../Page/1991年.md "wikilink")）の続編で、サークIIから2年後（『ガゼルの塔』では1年後）、戦神デュエルの血をひく若き戦士ラトク・カートと、妖魔三将軍最後の生き残りゾム・ディザエの戦いを描く、サークシリーズの最終作である。前作に引き続き“**VRシステム**”を採用。更に『[幻影都市](../Page/幻影都市.md "wikilink")』（1991年）で好評だった“**操演システム**”を採用。『幻影都市』とは違い、オープニングからエンディングまで全てフィールドキャラクター達による操演となっている。
 
-開発はマイクロキャビンが行い、プロデューサーおよびディレクターは『[フレイ](https://ja.wikipedia.org/wiki/フレイ_\(ゲーム\) "wikilink")』（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")）や『幻影都市』を手掛けた中津泰彦が担当、シナリオおよびゲーム・デザインは中津の他に後に『[英雄志願](https://ja.wikipedia.org/wiki/英雄志願 "wikilink")』（[1994年](../Page/1994年.md "wikilink")）を手掛けた陣内靖弘および瀬田哲也が担当、音楽は『幻影都市』を手掛けた[瓜田幸治](https://ja.wikipedia.org/wiki/瓜田幸治 "wikilink")が担当、キャラクター・デザインは百鬼丸ことイラストレーターの[中北晃二](https://ja.wikipedia.org/wiki/中北晃二 "wikilink")が担当している。
+開発はマイクロキャビンが行い、プロデューサーおよびディレクターは『[フレイ](../Page/フレイ_\(ゲーム\).md "wikilink")』（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")）や『幻影都市』を手掛けた中津泰彦が担当、シナリオおよびゲーム・デザインは中津の他に後に『[英雄志願](../Page/英雄志願.md "wikilink")』（[1994年](../Page/1994年.md "wikilink")）を手掛けた陣内靖弘および瀬田哲也が担当、音楽は『幻影都市』を手掛けた[瓜田幸治](../Page/瓜田幸治.md "wikilink")が担当、キャラクター・デザインは百鬼丸ことイラストレーターの[中北晃二](../Page/中北晃二.md "wikilink")が担当している。
 
-同年に[FM TOWNSに移植された他](../Page/FM_TOWNS.md "wikilink")、[1994年](../Page/1994年.md "wikilink")には[PCエンジン](../Page/PCエンジン.md "wikilink")[SUPER CD-ROM<sup>2</sup>に移植され](../Page/SUPER_CD-ROM2.md "wikilink")、声優ボイスが追加された。PC-9801版とPCエンジンSUPER CD-ROM<sup>2</sup>版は[Windows用ソフトとして](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[プロジェクトEGG](https://ja.wikipedia.org/wiki/プロジェクトEGG "wikilink")にて配信された。
+同年に[FM TOWNSに移植された他](../Page/FM_TOWNS.md "wikilink")、[1994年](../Page/1994年.md "wikilink")には[PCエンジン](../Page/PCエンジン.md "wikilink")[SUPER CD-ROM<sup>2</sup>に移植され](../Page/SUPER_CD-ROM2.md "wikilink")、声優ボイスが追加された。PC-9801版とPCエンジンSUPER CD-ROM<sup>2</sup>版は[Windows用ソフトとして](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[プロジェクトEGG](../Page/プロジェクトEGG.md "wikilink")にて配信された。
 
 ## 設定
 
@@ -21,7 +21,7 @@
 
   - 猪馬
     猪と馬を組み合わせたような姿を持つ、この世界での乗用動物。
-    ファーランド城に最初に入ったときのイベントデモで猪馬を乗った[槍騎兵](https://ja.wikipedia.org/wiki/槍騎兵 "wikilink")の活躍が見られる。
+    ファーランド城に最初に入ったときのイベントデモで猪馬を乗った[槍騎兵](../Page/槍騎兵.md "wikilink")の活躍が見られる。
 
 ## 主な登場人物
 
@@ -31,29 +31,29 @@
 
   - ラトク・カート
     声：[草尾毅](../Page/草尾毅.md "wikilink")
-    シリーズ全作の主人公（『[フレイ](https://ja.wikipedia.org/wiki/フレイ_\(ゲーム\) "wikilink")』を除く）。通称**ラトク**。戦神デュエルの血を引く21歳の少年剣士。色恋沙汰には鈍感。なお、過去作の『セイレーン』にも幼少の頃のラトクが登場している。
+    シリーズ全作の主人公（『[フレイ](../Page/フレイ_\(ゲーム\).md "wikilink")』を除く）。通称**ラトク**。戦神デュエルの血を引く21歳の少年剣士。色恋沙汰には鈍感。なお、過去作の『セイレーン』にも幼少の頃のラトクが登場している。
   - ジン・オブ・サークソード
     声：[銀河万丈](../Page/銀河万丈.md "wikilink")
     人間界の守護者。心を持つ聖剣。戦神デュエルの血を引く者しか扱えない。
     エンディングで３世界の柱の一人であることが明らかになった。
   - ピクシー
-    声：[伊藤美紀](https://ja.wikipedia.org/wiki/伊藤美紀_\(声優\) "wikilink")
-    国王直属の妖精。本名は**ルゥ・ミーリ**。『[ガゼルの塔](https://ja.wikipedia.org/wiki/ガゼルの塔 "wikilink")』では人間サイズの大きさだったが妖魔界からの波動の影響で人の手に乗るほど小さな少女の姿に戻り、背中の羽根を広げて飛行する。『サークI』で[メッセンジャー](https://ja.wikipedia.org/wiki/メッセンジャー "wikilink")としてラトクの前に現れて以来、ずっとラトクと行動を共にする。
+    声：[伊藤美紀](../Page/伊藤美紀_\(声優\).md "wikilink")
+    国王直属の妖精。本名は**ルゥ・ミーリ**。『[ガゼルの塔](../Page/ガゼルの塔.md "wikilink")』では人間サイズの大きさだったが妖魔界からの波動の影響で人の手に乗るほど小さな少女の姿に戻り、背中の羽根を広げて飛行する。『サークI』で[メッセンジャー](https://ja.wikipedia.org/wiki/メッセンジャー "wikilink")としてラトクの前に現れて以来、ずっとラトクと行動を共にする。
   - フレイア・ジェルバーン
-    声：[岡本麻弥](https://ja.wikipedia.org/wiki/岡本麻弥 "wikilink")
+    声：[岡本麻弥](../Page/岡本麻弥.md "wikilink")
     魔道師の少女。18歳。通称**フレイ**。『サークI』時点ではまだ重要キャラクターではなく、怪我をして倒れているただの少女であり、ラトクに助けられて惚れるまでが描かれる。以後、ラトクの役に立ちたいため魔法学校に入学して魔道師となるが、その設定や顛末は『サークII』や『フレイ』にて明かされる。ラトクとパーティーを組むメンバーの一人。ラトク争奪戦では本作で積極的なアプローチをしたフレイがラトクに気にかけてもらえるくらいにはなった。
   - リューン・グリード
-    声：[林延年（現・神奈延年）](https://ja.wikipedia.org/wiki/神奈延年 "wikilink")
+    声：[林延年（現・神奈延年）](../Page/神奈延年.md "wikilink")
     ラトクと同様、戦神デュエルの血を引く剣士で妻子持ち。憎まれ口を叩く皮肉屋。ラトクとパーティーを組むメンバーの一人。ラトクが色恋沙汰に鈍感すぎる為色々とアドバイスをした。
 
 #### 聖ウェービス王国
 
   - エリス
-    声：[渡辺菜生子](https://ja.wikipedia.org/wiki/渡辺菜生子 "wikilink")
+    声：[渡辺菜生子](../Page/渡辺菜生子.md "wikilink")
     フェアレスの町長の孫娘。病気で目が不自由になったラトクの母サリアの介護をしている。
-    ラトクとは[幼馴染](https://ja.wikipedia.org/wiki/幼馴染 "wikilink")で、フレイとはラトクを巡って恋敵的存在となる。『サークII』ではエリスの圧勝でラトク争奪戦に事実上決着がついたと思われていたが本作では決着がついていなかったことが明らかにされた。
+    ラトクとは[幼馴染](../Page/幼馴染.md "wikilink")で、フレイとはラトクを巡って恋敵的存在となる。『サークII』ではエリスの圧勝でラトク争奪戦に事実上決着がついたと思われていたが本作では決着がついていなかったことが明らかにされた。
   - フェル・バーウ
-    ヴェービス王国将軍ニル・バーウの妹で吟遊詩人ホーン・アシュタル（声：[太田真一郎](https://ja.wikipedia.org/wiki/太田真一郎 "wikilink")）とは幼馴染。
+    ヴェービス王国将軍ニル・バーウの妹で吟遊詩人ホーン・アシュタル（声：[太田真一郎](../Page/太田真一郎.md "wikilink")）とは幼馴染。
     今作ではファーランド城奪還のためにファーランド軍残存勢力と組織したヴェービス・ファーランド連合軍の参謀の一人として作戦に参加している。
   - ガフー・ザ・ウォーロック
     ファーランド王国との国境近くの山、ギンガヌール山に「ガフーの塔」を居をかまえて住む、緑色の肌と大きな鼻を持つを持つ鬼のような姿の魔法使い。学者でもあり詩人でもあり医者でもある…といった具合に見かけによらず博学のある人物である。
@@ -64,7 +64,7 @@
     なお、「ガフーの塔」に徘徊する敵の中で彼とは同タイプのゴーレムも存在する。
   - レオーノフ
     ガロアの港近郊に屋敷を持つ海運商の提督でバミューサを妻に持つ。
-    ガロア沖に座礁した船からブルーストーンを回収するために一時的にパーティーに入り。その武装はゲーリングホークと呼ばれる名を持つ[マスケット銃](https://ja.wikipedia.org/wiki/マスケット銃 "wikilink")を武器としている。
+    ガロア沖に座礁した船からブルーストーンを回収するために一時的にパーティーに入り。その武装はゲーリングホークと呼ばれる名を持つ[マスケット銃](../Page/マスケット銃.md "wikilink")を武器としている。
 
 #### ファーランド王国
 
@@ -96,8 +96,8 @@
     嵐の傭兵団の4人の幹部の一人で復讐のために生きたままアンデッドと化した剣士。
     妖魔界最終決戦にて夜叉騎士と、ほぼ成り行きでラトクをゼキシスの間へ導くために妖魔の中堅幹部を相手に戦い抜き、ラトクがゼキシスを討ち三界融合後ユンカース・リューンと共にフレイ・レオノーフ達と合流するが、ユンカースに刺青の効果が切れることを伝え、そのまま塵化した。
   - ユンカース
-    声：[江川央生](https://ja.wikipedia.org/wiki/江川央生 "wikilink")
-    嵐の傭兵団の4人の幹部の一人で[アルビノ](https://ja.wikipedia.org/wiki/アルビノ "wikilink")の[リザードマン](https://ja.wikipedia.org/wiki/リザードマン "wikilink")の戦士。4幹部の中では唯一最後まで存命した。
+    声：[江川央生](../Page/江川央生.md "wikilink")
+    嵐の傭兵団の4人の幹部の一人で[アルビノ](../Page/アルビノ.md "wikilink")の[リザードマン](../Page/リザードマン.md "wikilink")の戦士。4幹部の中では唯一最後まで存命した。
     「ユンカース」とはリザードマンの言葉で「貴族」という意味である。
 
 #### カルタグララ同盟（対妖魔異種族間同盟）
@@ -115,9 +115,9 @@
 ### 妖魔界
 
   - パルワ・ゼキシス
-    『サークIII』の[ラスボス](https://ja.wikipedia.org/wiki/ボスキャラクター "wikilink")。妖魔界の王にして３世界の柱の一人。別名で妖魔神ともいう。
+    『サークIII』の[ラスボス](../Page/ボスキャラクター.md "wikilink")。妖魔界の王にして３世界の柱の一人。別名で妖魔神ともいう。
   - ロブ・ネクロマンサ
-    声：[里内信夫](https://ja.wikipedia.org/wiki/里内信夫 "wikilink")
+    声：[里内信夫](../Page/里内信夫.md "wikilink")
     ゾム・ディザエに仕える妖魔（ディザエ軍には所属していない）。死霊使い。
     『[サーク](../Page/サーク.md "wikilink")』ではラトクの父ドルク・カートを操りゼム・バドゥーの復活を目論み、ラトクに何度となく敗れ去るが、不死身の力を持ち何度でも甦りラトクに立ちはだかる。しかし今作での最後の決戦にてネクロマンサの不死身の秘密が暴かれることとなる。
 
@@ -176,7 +176,7 @@
 <td><p>サークIII</p></td>
 <td></td>
 <td><p><a href="../Page/PCエンジン.md" title="wikilink">PCエンジン</a><a href="../Page/SUPER_CD-ROM2.md" title="wikilink">SUPER CD-ROM<sup>2</sup></a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日本テレネット_(ゲーム会社)" title="wikilink">日本テレネット</a></p></td>
+<td><p><a href="../Page/日本テレネット_(ゲーム会社).md" title="wikilink">日本テレネット</a></p></td>
 <td><p><a href="../Page/日本電気ホームエレクトロニクス.md" title="wikilink">NEC-HE</a></p></td>
 <td><p>CD-ROM</p></td>
 <td><p>HECD4013</p></td>
@@ -188,9 +188,9 @@
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Windows</a></p></td>
 <td><p>マイクロキャビン</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ボーステック" title="wikilink">ボーステック</a></p></td>
+<td><p><a href="../Page/ボーステック.md" title="wikilink">ボーステック</a></p></td>
 <td><p><a href="../Page/ダウンロード販売.md" title="wikilink">ダウンロード</a><br />
-（<a href="https://ja.wikipedia.org/wiki/プロジェクトEGG" title="wikilink">プロジェクトEGG</a>）</p></td>
+（<a href="../Page/プロジェクトEGG.md" title="wikilink">プロジェクトEGG</a>）</p></td>
 <td><p>-</p></td>
 <td><p>PC-9801版の移植</p></td>
 </tr>
@@ -200,7 +200,7 @@
 <td></td>
 <td><p>Windows</p></td>
 <td><p>マイクロキャビン</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/D4エンタープライズ" title="wikilink">D4エンタープライズ</a></p></td>
+<td><p><a href="../Page/D4エンタープライズ.md" title="wikilink">D4エンタープライズ</a></p></td>
 <td><p>ダウンロード<br />
 （プロジェクトEGG）</p></td>
 <td><p>-</p></td>
@@ -212,7 +212,7 @@
 <td></td>
 <td><p>Windows</p></td>
 <td><p>日本テレネット</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/D4エンタープライズ" title="wikilink">D4エンタープライズ</a></p></td>
+<td><p><a href="../Page/D4エンタープライズ.md" title="wikilink">D4エンタープライズ</a></p></td>
 <td><p>ダウンロード<br />
 （プロジェクトEGG）</p></td>
 <td><p>-</p></td>
@@ -244,8 +244,8 @@
   - プログラム、ツール（VR、操演）：中津泰彦、青木正二郎
   - モンスター・グラフィック、ボス・グラフィック、操演キャラ・グラフィック：陣内靖弘
   - ゲーム・デザインお手伝い：川口洋一郎
-  - 人物（会話）グラフィック、エンディング・グラフィック、マップ・プランニング：[百鬼丸](https://ja.wikipedia.org/wiki/中北晃二 "wikilink")
-  - 音楽、FM版アレンジ：[瓜田幸治](https://ja.wikipedia.org/wiki/瓜田幸治 "wikilink")
+  - 人物（会話）グラフィック、エンディング・グラフィック、マップ・プランニング：[百鬼丸](../Page/中北晃二.md "wikilink")
+  - 音楽、FM版アレンジ：[瓜田幸治](../Page/瓜田幸治.md "wikilink")
   - MIDI版アレンジ：加太好晴、太田浩一、瓜田幸治
   - ミュージック・ドライバ、mealシステム：山田浩司
   - マップ・グラフィック：石川慎二
@@ -276,7 +276,7 @@
 ## 評価
 
   - PCエンジン版
-    ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「[クロスレビュー](https://ja.wikipedia.org/wiki/クロスレビュー "wikilink")」では7・4・6・5の合計22点（満40点）\[3\]、『[電撃PCエンジン](https://ja.wikipedia.org/wiki/電撃G's_magazine "wikilink")』では55・70・70・65の平均65点（満100点）、『[PC Engine FAN](https://ja.wikipedia.org/wiki/PC_Engine_FAN "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、22.0点（満30点）となっている\[4\]。
+    ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「[クロスレビュー](../Page/クロスレビュー.md "wikilink")」では7・4・6・5の合計22点（満40点）\[3\]、『[電撃PCエンジン](../Page/電撃G's_magazine.md "wikilink")』では55・70・70・65の平均65点（満100点）、『[PC Engine FAN](../Page/PC_Engine_FAN.md "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、22.0点（満30点）となっている\[4\]。
 
 <!-- end list -->
 
@@ -290,8 +290,8 @@
   - [サーク](../Page/サーク.md "wikilink") - サークシリーズ最初の作品
   - [サークII](../Page/サークII.md "wikilink") - 『サーク』の続編。
   - サークIII - 本作。サークシリーズ完結編。
-  - [フレイ](https://ja.wikipedia.org/wiki/フレイ_\(ゲーム\) "wikilink") - フレイが主人公の[ARPG](https://ja.wikipedia.org/wiki/ARPG "wikilink")。時系列的には『サークII』と並行。
-  - [Xak -ガゼルの塔-](https://ja.wikipedia.org/wiki/ガゼルの塔 "wikilink") - 外伝。時系列的には『サークII』と『サークIII』の間。
+  - [フレイ](../Page/フレイ_\(ゲーム\).md "wikilink") - フレイが主人公の[ARPG](https://ja.wikipedia.org/wiki/ARPG "wikilink")。時系列的には『サークII』と並行。
+  - [Xak -ガゼルの塔-](../Page/ガゼルの塔.md "wikilink") - 外伝。時系列的には『サークII』と『サークIII』の間。
 
 ## 小説版
 
@@ -301,8 +301,8 @@
 
 ## 関連項目
 
-  - [瓜田幸治](https://ja.wikipedia.org/wiki/瓜田幸治 "wikilink") - 『[幻影都市](https://ja.wikipedia.org/wiki/幻影都市 "wikilink")』『サークIII』作曲
-  - [百鬼丸](https://ja.wikipedia.org/wiki/中北晃二 "wikilink") - [キャラクターデザイン](../Page/キャラクターデザイン.md "wikilink")
+  - [瓜田幸治](../Page/瓜田幸治.md "wikilink") - 『[幻影都市](../Page/幻影都市.md "wikilink")』『サークIII』作曲
+  - [百鬼丸](../Page/中北晃二.md "wikilink") - [キャラクターデザイン](../Page/キャラクターデザイン.md "wikilink")
 
 ## 外部リンク
 

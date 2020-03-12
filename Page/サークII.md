@@ -1,19 +1,19 @@
 > この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
 
 
-『**サークII**』 (*XakII*) は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[9月21日](../Page/9月21日.md "wikilink")に日本の[マイクロキャビン](https://ja.wikipedia.org/wiki/マイクロキャビン "wikilink")から発売された[PC-8801用](https://ja.wikipedia.org/wiki/PC-8800シリーズ "wikilink")[アクションロールプレイングゲーム](../Page/アクションロールプレイングゲーム.md "wikilink")。正式タイトルは『**サークII ライジング・オブ・ザ・レッドムーン**』 (*XakII Rising of The Redmoon*) 。
+『**サークII**』 (*XakII*) は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[9月21日](../Page/9月21日.md "wikilink")に日本の[マイクロキャビン](../Page/マイクロキャビン.md "wikilink")から発売された[PC-8801用](https://ja.wikipedia.org/wiki/PC-8800シリーズ "wikilink")[アクションロールプレイングゲーム](../Page/アクションロールプレイングゲーム.md "wikilink")。正式タイトルは『**サークII ライジング・オブ・ザ・レッドムーン**』 (*XakII Rising of The Redmoon*) 。
 
 同社の『[サーク](../Page/サーク.md "wikilink")』（[1989年](../Page/1989年.md "wikilink")）の続編で、前作の冒険から3年後が舞台である。主人公「ラトク・カート」を操作して父である「ドルク」の行方を捜索する事を目的としている。システム面では、引き続き“**VRシステム**”を採用している。今作ではその改良版を採用しており、ジャンプ等の高さの概念を加え、更に立体感のある創りになっている。
 
-開発はマイクロキャビンが行い、原案およびシナリオ、プロデューサーは後に『[幻影都市](https://ja.wikipedia.org/wiki/幻影都市 "wikilink")』（[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")）を手掛けた加藤雅史が担当、原作およびゲーム・デザイン、グラフィック・デザインは前作に引き続き柳島秀行が担当、音楽も前作に引き続き[新田忠弘](https://ja.wikipedia.org/wiki/新田忠弘 "wikilink")が担当した。
+開発はマイクロキャビンが行い、原案およびシナリオ、プロデューサーは後に『[幻影都市](../Page/幻影都市.md "wikilink")』（[1991年](../Page/1991年.md "wikilink")）を手掛けた加藤雅史が担当、原作およびゲーム・デザイン、グラフィック・デザインは前作に引き続き柳島秀行が担当、音楽も前作に引き続き[新田忠弘](https://ja.wikipedia.org/wiki/新田忠弘 "wikilink")が担当した。
 
-同年に[PC-9801](../Page/PC-9800シリーズ.md "wikilink")、[MSX2](../Page/MSX2.md "wikilink")に移植された他、[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")には[FM TOWNSに移植され](../Page/FM_TOWNS.md "wikilink")、[古谷徹](../Page/古谷徹.md "wikilink")によるオープニングナレーションが追加された。[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")には[X68000](https://ja.wikipedia.org/wiki/X68000 "wikilink")に移植された他、『サークI』と『サークII』を合本した『サークI・II』として[日本テレネットから](https://ja.wikipedia.org/wiki/日本テレネット_\(ゲーム会社\) "wikilink")[PCエンジン](../Page/PCエンジン.md "wikilink")[SUPER CD-ROM²用ソフトとして発売された](../Page/SUPER_CD-ROM2.md "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")には[携帯電話ゲーム](https://ja.wikipedia.org/wiki/携帯電話ゲーム "wikilink")として[Vアプリにて配信された](../Page/S!アプリ.md "wikilink")。PC-8801版、PC-9801版、MSX2版は[Windows用ソフトとして](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[プロジェクトEGG](https://ja.wikipedia.org/wiki/プロジェクトEGG "wikilink")にて配信された。
+同年に[PC-9801](../Page/PC-9800シリーズ.md "wikilink")、[MSX2](../Page/MSX2.md "wikilink")に移植された他、[1991年](../Page/1991年.md "wikilink")には[FM TOWNSに移植され](../Page/FM_TOWNS.md "wikilink")、[古谷徹](../Page/古谷徹.md "wikilink")によるオープニングナレーションが追加された。[1992年](../Page/1992年.md "wikilink")には[X68000](https://ja.wikipedia.org/wiki/X68000 "wikilink")に移植された他、『サークI』と『サークII』を合本した『サークI・II』として[日本テレネットから](../Page/日本テレネット_\(ゲーム会社\).md "wikilink")[PCエンジン](../Page/PCエンジン.md "wikilink")[SUPER CD-ROM²用ソフトとして発売された](../Page/SUPER_CD-ROM2.md "wikilink")。[2005年](../Page/2005年.md "wikilink")には[携帯電話ゲーム](../Page/携帯電話ゲーム.md "wikilink")として[Vアプリにて配信された](../Page/S!アプリ.md "wikilink")。PC-8801版、PC-9801版、MSX2版は[Windows用ソフトとして](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[プロジェクトEGG](../Page/プロジェクトEGG.md "wikilink")にて配信された。
 
 ## ゲーム内容
 
   - VRシステム
-    **V**isual **R**epresentation（ビジュアル・リプレゼンテーション）システムの略。[2D](https://ja.wikipedia.org/wiki/2次元コンピュータグラフィックス "wikilink")[ハーフトップビューにおいて高低や奥行きの表現により立体的なマップ構成を可能にするマップ](../Page/ビュー.md "wikilink")・キャラクタ合成表示システムの総称である。
-    本シリーズでのバージョンアップを経て『[幻影都市](https://ja.wikipedia.org/wiki/幻影都市 "wikilink")』などにも採用されることとなるこのシステムは、前述の要素のほか、主人公が建物の影に隠れても半透明で表示されることから見失わずにプレイを続行できるなど、当時としては画期的であった。
+    **V**isual **R**epresentation（ビジュアル・リプレゼンテーション）システムの略。[2D](../Page/2次元コンピュータグラフィックス.md "wikilink")[ハーフトップビューにおいて高低や奥行きの表現により立体的なマップ構成を可能にするマップ](../Page/ビュー.md "wikilink")・キャラクタ合成表示システムの総称である。
+    本シリーズでのバージョンアップを経て『[幻影都市](../Page/幻影都市.md "wikilink")』などにも採用されることとなるこのシステムは、前述の要素のほか、主人公が建物の影に隠れても半透明で表示されることから見失わずにプレイを続行できるなど、当時としては画期的であった。
 
 ## あらすじ
 
@@ -25,18 +25,18 @@
 
   - ラトク・カート
     [声](../Page/声優.md "wikilink") - [草尾毅](../Page/草尾毅.md "wikilink")
-    シリーズ全作の主人公（『[フレイ](https://ja.wikipedia.org/wiki/フレイ_\(ゲーム\) "wikilink")』を除く）。通称**ラトク**。戦神デュエルの血を引く19歳の少年剣士。色恋沙汰には鈍感。なお、過去作の『セイレーン』にも幼少の頃のラトクが登場している。
+    シリーズ全作の主人公（『[フレイ](../Page/フレイ_\(ゲーム\).md "wikilink")』を除く）。通称**ラトク**。戦神デュエルの血を引く19歳の少年剣士。色恋沙汰には鈍感。なお、過去作の『セイレーン』にも幼少の頃のラトクが登場している。
   - ジン・オブ・サークソード
     声 - [銀河万丈](../Page/銀河万丈.md "wikilink")
     人間界の守護者。心を持つ聖剣。戦神デュエルの血を引く者しか扱えない。
   - ピクシー
-    声 - [伊藤美紀](https://ja.wikipedia.org/wiki/伊藤美紀_\(声優\) "wikilink")
+    声 - [伊藤美紀](../Page/伊藤美紀_\(声優\).md "wikilink")
     国王直属の妖精。本名は**ルゥ・ミーリ**（当作品のエンディングで明らかにされる）。人の手に乗るほど小さな少女の姿をしており、背中の羽根を広げて飛行する。『サークI』で[メッセンジャー](https://ja.wikipedia.org/wiki/メッセンジャー "wikilink")としてラトクの前に現れて以来、ずっとラトクと行動を共にする。エンディングでラトク争奪戦の第3候補として名乗りを上げる。『フレイ』の隠しゲーム『GOGOピクシー』では主役として登場する。
   - フレイア・ジェルバーン
-    声 - [岡本麻弥](https://ja.wikipedia.org/wiki/岡本麻弥 "wikilink")
+    声 - [岡本麻弥](../Page/岡本麻弥.md "wikilink")
     魔道師の少女。16歳。通称**フレイ**。『サークI』時点ではまだ重要キャラクターではなく、怪我をして倒れているただの少女であり、ラトクに助けられて惚れるまでが描かれる。以後、ラトクの役に立ちたいため魔法学校に入学して魔道師となってフェアレスの街に帰ったが、ラトクは先に旅立ってしまい、追いかけて（この顛末は『フレイ』として作品化された）デスマウンテンへ旅たつ寸前のところのラトクたちと合流する。
   - リューン・グリード
-    声 - [林延年](https://ja.wikipedia.org/wiki/神奈延年 "wikilink")
+    声 - [林延年](../Page/神奈延年.md "wikilink")
     ラトクと同様、戦神デュエルの血を引く剣士。憎まれ口を叩く皮肉屋。今作にて既婚者であり、しかも子持ちであることが明らかになる。
   - エリス
     エンディングに登場するラトクの幼なじみで、18歳。ラトクの故郷であるフェアレスの街の町長の孫娘であり、ラトクを巡ってはフレイの恋敵。ラトクの父ドレク失踪後に重病に罹って失明したラトクの母を介護している。
@@ -56,7 +56,7 @@
 ### 妖魔
 
   - ザム・ゴスペル
-    『サークII』の[ラスボス](https://ja.wikipedia.org/wiki/ボスキャラクター "wikilink")。妖魔三将軍の一人。妖魔四天王を従え妖魔将軍ゼム・バドゥーの復活を目論んだ張本人。強力な炎を操る。
+    『サークII』の[ラスボス](../Page/ボスキャラクター.md "wikilink")。妖魔三将軍の一人。妖魔四天王を従え妖魔将軍ゼム・バドゥーの復活を目論んだ張本人。強力な炎を操る。
   - ロブ・ネクロマンサ
     声：[速水奨](../Page/速水奨.md "wikilink")
     妖魔四天王のリーダー。北天王。死霊使い。
@@ -127,7 +127,7 @@
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/X68000" title="wikilink">X68000</a></p></td>
 <td><p>マイクロキャビン</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ソフトベンダーTAKERU" title="wikilink">TAKERU</a></p></td>
+<td><p><a href="../Page/ソフトベンダーTAKERU.md" title="wikilink">TAKERU</a></p></td>
 <td><p>5インチフロッピーディスク</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -138,7 +138,7 @@
 <td></td>
 <td><p><a href="../Page/PCエンジン.md" title="wikilink">PCエンジン</a><a href="../Page/SUPER_CD-ROM2.md" title="wikilink">SUPER CD-ROM²</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ライオット_(ゲームブランド)" title="wikilink">ライオット</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日本テレネット_(ゲーム会社)" title="wikilink">日本テレネット</a></p></td>
+<td><p><a href="../Page/日本テレネット_(ゲーム会社).md" title="wikilink">日本テレネット</a></p></td>
 <td><p><a href="../Page/CD-ROM.md" title="wikilink">CD-ROM</a></p></td>
 <td><p>TJCD2032</p></td>
 <td></td>
@@ -149,9 +149,9 @@
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Windows</a></p></td>
 <td><p>マイクロキャビン</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ボーステック" title="wikilink">ボーステック</a></p></td>
+<td><p><a href="../Page/ボーステック.md" title="wikilink">ボーステック</a></p></td>
 <td><p><a href="../Page/ダウンロード販売.md" title="wikilink">ダウンロード</a><br />
-（<a href="https://ja.wikipedia.org/wiki/プロジェクトEGG" title="wikilink">プロジェクトEGG</a>）</p></td>
+（<a href="../Page/プロジェクトEGG.md" title="wikilink">プロジェクトEGG</a>）</p></td>
 <td><p>-</p></td>
 <td><p>MSX2版の移植</p></td>
 </tr>
@@ -174,7 +174,7 @@
 <td></td>
 <td><p>Windows</p></td>
 <td><p>マイクロキャビン</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/D4エンタープライズ" title="wikilink">D4エンタープライズ</a></p></td>
+<td><p><a href="../Page/D4エンタープライズ.md" title="wikilink">D4エンタープライズ</a></p></td>
 <td><p>ダウンロード<br />
 （プロジェクトEGG）</p></td>
 <td><p>-</p></td>
@@ -251,7 +251,7 @@
   - 文章：加藤雅史
   - コンテ、演出：柳島秀行
   - グラフィック：柳島秀行
-  - 音楽、効果音：新田忠弘、[笹井りゅうじ](https://ja.wikipedia.org/wiki/笹井隆司 "wikilink")
+  - 音楽、効果音：新田忠弘、[笹井りゅうじ](../Page/笹井隆司.md "wikilink")
   - アート・ディレクション、谷口恵津子
   - イメージ・イラスト：菊池通隆
   - プロデュース：加藤雅史
@@ -262,15 +262,15 @@
 
   - [サーク](../Page/サーク.md "wikilink") - サークシリーズ最初の作品。
   - サークII - 本作。
-  - [サークIII](https://ja.wikipedia.org/wiki/サークIII "wikilink") - 『サークII』の続編。シリーズ完結編。
-  - [フレイ](https://ja.wikipedia.org/wiki/フレイ_\(ゲーム\) "wikilink") - フレイが主人公の[ARPG](https://ja.wikipedia.org/wiki/ARPG "wikilink")。時系列的には『サークII』と並行。
-  - [Xak -ガゼルの塔-](https://ja.wikipedia.org/wiki/ガゼルの塔 "wikilink") - 外伝。時系列的には『サークII』と『サークIII』の間。
+  - [サークIII](../Page/サークIII.md "wikilink") - 『サークII』の続編。シリーズ完結編。
+  - [フレイ](../Page/フレイ_\(ゲーム\).md "wikilink") - フレイが主人公の[ARPG](https://ja.wikipedia.org/wiki/ARPG "wikilink")。時系列的には『サークII』と並行。
+  - [Xak -ガゼルの塔-](../Page/ガゼルの塔.md "wikilink") - 外伝。時系列的には『サークII』と『サークIII』の間。
 
 ## 脚注
 
 ## 関連項目
 
-  - [笹井隆司](https://ja.wikipedia.org/wiki/笹井隆司 "wikilink")　-　『サーク』『サークII』作曲
+  - [笹井隆司](../Page/笹井隆司.md "wikilink")　-　『サーク』『サークII』作曲
   - [新田忠弘](https://ja.wikipedia.org/wiki/新田忠弘 "wikilink") - 『サーク』『サークII』『フレイ』作曲
   - [菊池通隆](https://ja.wikipedia.org/wiki/菊池通隆 "wikilink")　-　パッケージイラストおよびキャラクターデザイン
 

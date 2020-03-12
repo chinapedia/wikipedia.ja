@@ -1,7 +1,7 @@
 > この記事は[World Baseball !](https://ja.wikipedia.org/wiki/World_Baseball_!)から翻訳されています。
 
 
-『**World Baseballエンタテイメント たまッチ\!**』（ワールド・ベースボール・エンタテインメント たまっち）は、[フジテレビで](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")より不定期に放送されている[野球](../Page/野球.md "wikilink")を専門とした[スポーツ](https://ja.wikipedia.org/wiki/スポーツ番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。
+『**World Baseballエンタテイメント たまッチ\!**』（ワールド・ベースボール・エンタテインメント たまっち）は、[フジテレビで](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[2007年](../Page/2007年.md "wikilink")より不定期に放送されている[野球](../Page/野球.md "wikilink")を専門とした[スポーツ](https://ja.wikipedia.org/wiki/スポーツ番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。
 
 ## 概要
 
@@ -13,24 +13,24 @@
 
   - リーダー：[中居正広](../Page/中居正広.md "wikilink")（2016年までは、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")メンバー）
   - アシスタント：[今田美桜](https://ja.wikipedia.org/wiki/今田美桜 "wikilink")（2018年4月9日 - ）7代目アシスタント
-  - [アンタッチャブル](../Page/アンタッチャブル_\(お笑いコンビ\).md "wikilink")・[山崎弘也](https://ja.wikipedia.org/wiki/山崎弘也 "wikilink")
+  - [アンタッチャブル](../Page/アンタッチャブル_\(お笑いコンビ\).md "wikilink")・[山崎弘也](../Page/山崎弘也.md "wikilink")
 
 ### 過去の出演者
 
-  - アンタッチャブル・[柴田英嗣](https://ja.wikipedia.org/wiki/柴田英嗣 "wikilink")（2007年3月 - 2008年3月）
+  - アンタッチャブル・[柴田英嗣](../Page/柴田英嗣.md "wikilink")（2007年3月 - 2008年3月）
   - アシスタント
-      - [Mie](https://ja.wikipedia.org/wiki/Mie "wikilink")（2007年3月 - 2008年3月）\[1\]初代アシスタント
+      - [Mie](../Page/Mie.md "wikilink")（2007年3月 - 2008年3月）\[1\]初代アシスタント
       - [有村実樹](https://ja.wikipedia.org/wiki/有村実樹 "wikilink")（2008年6月 - 2008年11月）2代目アシスタント
-      - [Nanami](https://ja.wikipedia.org/wiki/Nanami "wikilink")（2009年3月 - 2010年1月）3代目アシスタント
+      - [Nanami](../Page/Nanami.md "wikilink")（2009年3月 - 2010年1月）3代目アシスタント
       - [トリンドル玲奈](https://ja.wikipedia.org/wiki/トリンドル玲奈 "wikilink")（2010年3月 - 2014年11月）4代目アシスタント
       - [乃木坂46](https://ja.wikipedia.org/wiki/乃木坂46 "wikilink")
           - [橋本奈々未](https://ja.wikipedia.org/wiki/橋本奈々未 "wikilink")（当時、2015年4月 - 2016年8月）\[2\]5代目アシスタント
           - [生駒里奈](https://ja.wikipedia.org/wiki/生駒里奈 "wikilink")（当時、2016年11月13日）※橋本の臨時MC\[3\]
       - [板野友美](https://ja.wikipedia.org/wiki/板野友美 "wikilink")（2017年4月4日 - 2017年12月）6代目アシスタント
       - フジテレビアナウンサー（[斉藤舞子](https://ja.wikipedia.org/wiki/斉藤舞子 "wikilink")、[遠藤玲子](https://ja.wikipedia.org/wiki/遠藤玲子 "wikilink")、[三田友梨佳](https://ja.wikipedia.org/wiki/三田友梨佳 "wikilink")）
-  - 育成枠：[岡田圭右](../Page/岡田圭右.md "wikilink")（[ますだおかだ](https://ja.wikipedia.org/wiki/ますだおかだ "wikilink")、第19回・第21回〜第23回）\[4\]
+  - 育成枠：[岡田圭右](../Page/岡田圭右.md "wikilink")（[ますだおかだ](../Page/ますだおかだ.md "wikilink")、第19回・第21回〜第23回）\[4\]
   - [MLBジャーナリスト](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")：[AKI猪瀬](https://ja.wikipedia.org/wiki/AKI猪瀬 "wikilink")（第31回）
-  - 顧問レポーター：[元木大介](https://ja.wikipedia.org/wiki/元木大介 "wikilink") （2007年 - 2018年11月11日）\[5\]
+  - 顧問レポーター：[元木大介](../Page/元木大介.md "wikilink") （2007年 - 2018年11月11日）\[5\]
 
 ## 放送日時
 
@@ -311,7 +311,7 @@
 
   - フジテレビ、仙台放送 2016年11月13日 25:35 -26:35
 
-スタジオゲスト・[鈴木尚広](https://ja.wikipedia.org/wiki/鈴木尚広 "wikilink")（元・[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")[外野手](../Page/外野手.md "wikilink")）
+スタジオゲスト・[鈴木尚広](../Page/鈴木尚広.md "wikilink")（元・[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")[外野手](../Page/外野手.md "wikilink")）
 
 **第51回 独占！長嶋＆王が夢の共演**
 
@@ -323,7 +323,7 @@
 
   - フジテレビ、仙台放送 2017年4月4日（火）24:25 - 25:25
 
-スタジオゲスト・[立浪和義](https://ja.wikipedia.org/wiki/立浪和義 "wikilink")（[2013年](../Page/2013年.md "wikilink")[WBC打撃コーチ](https://ja.wikipedia.org/wiki/ワールド・ベースボール・クラシック "wikilink")）
+スタジオゲスト・[立浪和義](https://ja.wikipedia.org/wiki/立浪和義 "wikilink")（[2013年](../Page/2013年.md "wikilink")[WBC打撃コーチ](../Page/ワールド・ベースボール・クラシック.md "wikilink")）
 
 **第53回「World Baseball エンタテインメント たまッチ\! プロ野球前半戦総括SP」**
 
@@ -353,7 +353,7 @@
 
   - フジテレビ系 2018年12月30日 18:00 - 19:00\[8\]<small></small>
 
-ゲスト・[高橋由伸](https://ja.wikipedia.org/wiki/高橋由伸 "wikilink")（前・読売ジャイアンツ監督）、[高橋尚成](https://ja.wikipedia.org/wiki/高橋尚成 "wikilink")
+ゲスト・[高橋由伸](https://ja.wikipedia.org/wiki/高橋由伸 "wikilink")（前・読売ジャイアンツ監督）、[高橋尚成](../Page/高橋尚成.md "wikilink")
 
 ## 番組内容
 
@@ -369,29 +369,29 @@
   - スタジオゲスト：KKコンビ、[松坂大輔](https://ja.wikipedia.org/wiki/松坂大輔 "wikilink") ヒーロー3人衆！
   - [松井稼頭央](https://ja.wikipedia.org/wiki/松井稼頭央 "wikilink")が感じた野球の原点
   - [星野ジャパンのキーマンを直撃](https://ja.wikipedia.org/wiki/星野仙一 "wikilink")（[藤川球児](https://ja.wikipedia.org/wiki/藤川球児 "wikilink")&[上原浩治](https://ja.wikipedia.org/wiki/上原浩治 "wikilink")）
-  - MLB2007サムライ4銃士 激闘の裏側（松井稼、[斎藤隆](https://ja.wikipedia.org/wiki/斎藤隆_\(野球\) "wikilink")、[岩村明憲](https://ja.wikipedia.org/wiki/岩村明憲 "wikilink")、[桑田真澄](../Page/桑田真澄.md "wikilink")）
+  - MLB2007サムライ4銃士 激闘の裏側（松井稼、[斎藤隆](../Page/斎藤隆_\(野球\).md "wikilink")、[岩村明憲](https://ja.wikipedia.org/wiki/岩村明憲 "wikilink")、[桑田真澄](../Page/桑田真澄.md "wikilink")）
 
 ### 第12回
 
   - '08野球界広告大賞\!\!
-      - 尚、オープニングトークで、[2008年度](https://ja.wikipedia.org/wiki/2008年の野球 "wikilink")[パ・リーグ](https://ja.wikipedia.org/wiki/パ・リーグ "wikilink")の順位を、「5位[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")・6位[東北楽天ゴールデンイーグルス](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")」とするミスがあった（実際は「5位楽天・6位ソフトバンク」）。
+      - 尚、オープニングトークで、[2008年度](../Page/2008年の野球.md "wikilink")[パ・リーグ](https://ja.wikipedia.org/wiki/パ・リーグ "wikilink")の順位を、「5位[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")・6位[東北楽天ゴールデンイーグルス](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")」とするミスがあった（実際は「5位楽天・6位ソフトバンク」）。
 
 ### 第18回
 
   - 元木以外のメンバーがアメリカを探訪
-  - ゲストに[ウォーレン・クロマティ](https://ja.wikipedia.org/wiki/ウォーレン・クロマティ "wikilink")、[福留孝介](https://ja.wikipedia.org/wiki/福留孝介 "wikilink")、[アニマル・レスリー](https://ja.wikipedia.org/wiki/アニマル・レスリー "wikilink")が登場した。
-  - 電車での移動中は『[世界の車窓から](https://ja.wikipedia.org/wiki/世界の車窓から "wikilink")』風のVTRになった。
+  - ゲストに[ウォーレン・クロマティ](../Page/ウォーレン・クロマティ.md "wikilink")、[福留孝介](https://ja.wikipedia.org/wiki/福留孝介 "wikilink")、[アニマル・レスリー](../Page/アニマル・レスリー.md "wikilink")が登場した。
+  - 電車での移動中は『[世界の車窓から](../Page/世界の車窓から.md "wikilink")』風のVTRになった。
   - 過去の名（珍）場面集がアンタチャブルによる新たなナレーションで1～2つCMに入る前に紹介された。
       - 敬遠球を見事打ち返しサヨナラ打にしたクロマティ
-      - 暴走した挙げ句、当時[ロッテの監督だった](../Page/千葉ロッテマリーンズ.md "wikilink")[金田正一](../Page/金田正一.md "wikilink")に蹴られる元[近鉄バファローズの](../Page/大阪近鉄バファローズ.md "wikilink")[ジム・トレーバー](https://ja.wikipedia.org/wiki/ジム・トレーバー "wikilink")
+      - 暴走した挙げ句、当時[ロッテの監督だった](../Page/千葉ロッテマリーンズ.md "wikilink")[金田正一](../Page/金田正一.md "wikilink")に蹴られる元[近鉄バファローズの](../Page/大阪近鉄バファローズ.md "wikilink")[ジム・トレーバー](../Page/ジム・トレーバー.md "wikilink")
       - [川崎球場](../Page/川崎球場.md "wikilink")のおじいちゃん先生
-      - マスクを被ってスチュワーデスにちょっかいを出す元[阪急ブレーブスのアニマル](https://ja.wikipedia.org/wiki/オリックス・バファローズ "wikilink")
-      - 元ロッテの[平沼定晴](https://ja.wikipedia.org/wiki/平沼定晴 "wikilink")にバットを投げ、飛び蹴りをする[西武時代の](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")[清原和博](https://ja.wikipedia.org/wiki/清原和博 "wikilink")
+      - マスクを被ってスチュワーデスにちょっかいを出す元[阪急ブレーブスのアニマル](../Page/オリックス・バファローズ.md "wikilink")
+      - 元ロッテの[平沼定晴](../Page/平沼定晴.md "wikilink")にバットを投げ、飛び蹴りをする[西武時代の](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")[清原和博](../Page/清原和博.md "wikilink")
       - 球審のストライクの真似をして注意される清原・元木・[江藤智](../Page/江藤智_\(野球\).md "wikilink")（2004年）
 
 ### 第19回
 
-  - [ますだおかだ](https://ja.wikipedia.org/wiki/ますだおかだ "wikilink")の[岡田圭右](../Page/岡田圭右.md "wikilink")がVTR出演した｡
+  - [ますだおかだ](../Page/ますだおかだ.md "wikilink")の[岡田圭右](../Page/岡田圭右.md "wikilink")がVTR出演した｡
 
 ### 第21回
 
@@ -400,15 +400,15 @@
 <!-- end list -->
 
   - 中居＆山崎＆トリンドルで沖縄をぶらり旅
-      - Tシャツショップ、沖縄料理店、[興南高校探訪](https://ja.wikipedia.org/wiki/興南中学校・高等学校 "wikilink")
+      - Tシャツショップ、沖縄料理店、[興南高校探訪](../Page/興南中学校・高等学校.md "wikilink")
       - [佐々木主浩](../Page/佐々木主浩.md "wikilink")が経営するスポーツジム
-      - [周富徳](https://ja.wikipedia.org/wiki/周富徳 "wikilink")ジャッジの中華料理対決
-      - 中居、山崎、元木、[デニー友利](https://ja.wikipedia.org/wiki/友利結 "wikilink")、佐々木の野球対決
-  - また岡田、元木、[山田親太朗](https://ja.wikipedia.org/wiki/山田親太朗 "wikilink")、[具志堅用高](https://ja.wikipedia.org/wiki/具志堅用高 "wikilink")、フジテレビ女子アナで35年ぶりの沖縄でのプロ野球開催を盛り上げに行くという趣旨の内容
+      - [周富徳](../Page/周富徳.md "wikilink")ジャッジの中華料理対決
+      - 中居、山崎、元木、[デニー友利](../Page/友利結.md "wikilink")、佐々木の野球対決
+  - また岡田、元木、[山田親太朗](../Page/山田親太朗.md "wikilink")、[具志堅用高](../Page/具志堅用高.md "wikilink")、フジテレビ女子アナで35年ぶりの沖縄でのプロ野球開催を盛り上げに行くという趣旨の内容
 
 ### 珍プレー好プレー大賞2010
 
-  - アンタッチャブルの山崎と[伊藤利尋](../Page/伊藤利尋.md "wikilink")アナウンサーのナレーションで、単体番組としては5年ぶりに『[プロ野球珍プレー・好プレー大賞](https://ja.wikipedia.org/wiki/プロ野球珍プレー・好プレー大賞 "wikilink")』が復活した。
+  - アンタッチャブルの山崎と[伊藤利尋](../Page/伊藤利尋.md "wikilink")アナウンサーのナレーションで、単体番組としては5年ぶりに『[プロ野球珍プレー・好プレー大賞](../Page/プロ野球珍プレー・好プレー大賞.md "wikilink")』が復活した。
   - ゲストには、清原和博（解説者）、[今江敏晃](https://ja.wikipedia.org/wiki/今江敏晃 "wikilink")（[千葉ロッテマリーンズ](../Page/千葉ロッテマリーンズ.md "wikilink")）、[前田健太](https://ja.wikipedia.org/wiki/前田健太 "wikilink")（[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")）、[中田翔](https://ja.wikipedia.org/wiki/中田翔 "wikilink")（[北海道日本ハムファイターズ](../Page/北海道日本ハムファイターズ.md "wikilink")）を迎えた。
   - フジテレビでの珍プレー集の放送は、2010年2月に『[ジャンクSPORTS](../Page/ジャンクSPORTS.md "wikilink")』内で放送されて以来約10カ月ぶりである。
   - 2010年の珍プレー集が20分ほど、過去の名作が10分ほど、好プレー集が2分ほど放送され、珍プレー大賞には今江が選ばれた。
@@ -422,7 +422,7 @@
 
 ### 第51回 独占\!長嶋&王が夢の共演〜中居正広に全てを語った\!あの伝説秘話から球界の未来まで〜
 
-  - インタビューゲストに[長嶋茂雄](https://ja.wikipedia.org/wiki/長嶋茂雄 "wikilink")（[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")[終身名誉監督](https://ja.wikipedia.org/wiki/終身名誉監督 "wikilink")）と王貞治（[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")球団会長）、[高橋由伸](https://ja.wikipedia.org/wiki/高橋由伸 "wikilink")（読売ジャイアンツ監督）が出演し、中居が[巨人V9時代やプロ野球の現在と未来についてなどの話を聞く](https://ja.wikipedia.org/wiki/V9_\(読売ジャイアンツ\) "wikilink")\[9\]。なお、中居と長嶋・王との対談の模様は[帝国ホテル](../Page/帝国ホテル.md "wikilink")にて収録され
+  - インタビューゲストに[長嶋茂雄](../Page/長嶋茂雄.md "wikilink")（[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")[終身名誉監督](https://ja.wikipedia.org/wiki/終身名誉監督 "wikilink")）と王貞治（[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")球団会長）、[高橋由伸](https://ja.wikipedia.org/wiki/高橋由伸 "wikilink")（読売ジャイアンツ監督）が出演し、中居が[巨人V9時代やプロ野球の現在と未来についてなどの話を聞く](../Page/V9_\(読売ジャイアンツ\).md "wikilink")\[9\]。なお、中居と長嶋・王との対談の模様は[帝国ホテル](../Page/帝国ホテル.md "wikilink")にて収録され
 
 た。
 
@@ -439,7 +439,7 @@
 
 **第52回現在**
 
-  - 制作協力：[ジャニーズ事務所](https://ja.wikipedia.org/wiki/ジャニーズ事務所 "wikilink")
+  - 制作協力：[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")
   - イラストレーター：[坂井永年](https://ja.wikipedia.org/wiki/坂井永年 "wikilink")
   - 構成：天野敏宏
   - TD：石井隆志
@@ -467,7 +467,7 @@
 
 **第51回現在**
 
-  - 制作協力：オフィス エヌ、[ジャニーズ事務所](https://ja.wikipedia.org/wiki/ジャニーズ事務所 "wikilink")
+  - 制作協力：オフィス エヌ、[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")
   - イラストレーター：坂井永年
   - 構成：天野敏宏
   - TD：石井隆志（以前はCAM）
@@ -506,8 +506,8 @@
   - 編集：吉川豪、平賀雄貴
   - MA：民幸之助、伊藤一馬
   - メイク：[山田かつら](https://ja.wikipedia.org/wiki/山田かつら "wikilink")
-  - 技術協力：[八峯テレビ](https://ja.wikipedia.org/wiki/八峯テレビ "wikilink")（現・[フジ・メディア・テクノロジー](https://ja.wikipedia.org/wiki/フジ・メディア・テクノロジー "wikilink")（fmt））
-  - 映像提供：[MLB](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")、[中日ドラゴンズ](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")、[ヤクルト球団](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")、[阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")、[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")、[横浜DeNAベイスターズ](../Page/横浜DeNAベイスターズ.md "wikilink")、[北海道日本ハムファイターズ](../Page/北海道日本ハムファイターズ.md "wikilink")、[西武ライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")、[オリックス野球クラブ](https://ja.wikipedia.org/wiki/オリックス・バファローズ "wikilink")、[楽天野球団](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")、[千葉ロッテマリーンズ](../Page/千葉ロッテマリーンズ.md "wikilink")
+  - 技術協力：[八峯テレビ](../Page/八峯テレビ.md "wikilink")（現・[フジ・メディア・テクノロジー](https://ja.wikipedia.org/wiki/フジ・メディア・テクノロジー "wikilink")（fmt））
+  - 映像提供：[MLB](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")、[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")、[ヤクルト球団](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")、[阪神タイガース](../Page/阪神タイガース.md "wikilink")、[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")、[横浜DeNAベイスターズ](../Page/横浜DeNAベイスターズ.md "wikilink")、[北海道日本ハムファイターズ](../Page/北海道日本ハムファイターズ.md "wikilink")、[西武ライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")、[オリックス野球クラブ](../Page/オリックス・バファローズ.md "wikilink")、[楽天野球団](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")、[千葉ロッテマリーンズ](../Page/千葉ロッテマリーンズ.md "wikilink")
   - 編成：大辻健一郎、清水泰貴、大坊雄二、鈴木はるか、門脇寛至
   - TK：江守紀代子、小島陽子
   - AD：苅谷俊介、田中裕一郎、江藤修平

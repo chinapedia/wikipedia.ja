@@ -18,15 +18,15 @@
 
 ヒューズ・エレクトロニクスは、[1956年](../Page/1956年.md "wikilink")の初めにGAR-1D (AIM-4A) ファルコンを大型化した核弾頭を搭載するミサイルの開発を開始した。そのミサイルは[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")の重爆撃機編隊への攻撃において、それらを確実に撃墜することを目的としていた。当初の開発は、通常のGAR-1/GAR-2を基礎としたセミアクティブ・レーダー誘導型と赤外線誘導型のためのものであり、それぞれ**GAR-5**及び**GAR-6**の制式名称が与えられた。この開発プログラムは設計段階の初期に一度は中止されたものの、[1959年](../Page/1959年.md "wikilink")に復活した。
 
-その結果として開発された**GAR-11**（後の**AIM-26A**）は、当初の設計では全長 3.5 m、直径 0.30 mとAIM-4 ファルコンの全長 2.0 m、直径 0.16 mに対して大幅な大型化を予定していたが、最終的にGAR-11の大きさは全長 2.14 m、直径 0.28 mとAIM-4と弾体が10 cmほど太くなったのみで、それほど変わらないものになった。GAR-11は[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")に運用に投入され、ADC (Aerospace/Air Defense Command) の[F-102 デルタダガー](../Page/F-102_\(戦闘機\).md "wikilink")[迎撃機に搭載された](https://ja.wikipedia.org/wiki/要撃機 "wikilink")。また、レーダー[近接信管](https://ja.wikipedia.org/wiki/近接信管 "wikilink")とセミアクティブ・レーダー誘導を用いていた。GAR-6では赤外線誘導を想定していたが、当時の赤外線誘導はジェットエンジンの高温の排気熱にのみ誘導できるものであったため、目標とする航空機の背後にまわる必要があった。一連の空対空核ミサイル開発は、いち早く敵爆撃機を撃墜するために正面からの攻撃を意図していたため、背後にまわるための時間がかかる赤外線誘導は採用されなかった。セミアクティブ・レーダー誘導も決して精度の良いものではなかったが、核弾頭の広範囲の爆発によって精度の悪さをカバーできると考えられたため、たいした問題とされなかった。このあたりの発想は空対空核ロケット弾[AIR-2 ジニーとまったく同じである](../Page/AIR-2_\(ミサイル\).md "wikilink")。
+その結果として開発された**GAR-11**（後の**AIM-26A**）は、当初の設計では全長 3.5 m、直径 0.30 mとAIM-4 ファルコンの全長 2.0 m、直径 0.16 mに対して大幅な大型化を予定していたが、最終的にGAR-11の大きさは全長 2.14 m、直径 0.28 mとAIM-4と弾体が10 cmほど太くなったのみで、それほど変わらないものになった。GAR-11は[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")に運用に投入され、ADC (Aerospace/Air Defense Command) の[F-102 デルタダガー](../Page/F-102_\(戦闘機\).md "wikilink")[迎撃機に搭載された](../Page/要撃機.md "wikilink")。また、レーダー[近接信管](../Page/近接信管.md "wikilink")とセミアクティブ・レーダー誘導を用いていた。GAR-6では赤外線誘導を想定していたが、当時の赤外線誘導はジェットエンジンの高温の排気熱にのみ誘導できるものであったため、目標とする航空機の背後にまわる必要があった。一連の空対空核ミサイル開発は、いち早く敵爆撃機を撃墜するために正面からの攻撃を意図していたため、背後にまわるための時間がかかる赤外線誘導は採用されなかった。セミアクティブ・レーダー誘導も決して精度の良いものではなかったが、核弾頭の広範囲の爆発によって精度の悪さをカバーできると考えられたため、たいした問題とされなかった。このあたりの発想は空対空核ロケット弾[AIR-2 ジニーとまったく同じである](../Page/AIR-2_\(ミサイル\).md "wikilink")。
 
-GAR-11は、[M-388 デイビー・クロケット](https://ja.wikipedia.org/wiki/デイビー・クロケット_\(戦術核兵器\) "wikilink")[無反動砲](../Page/無反動砲.md "wikilink")の[核砲弾](../Page/核砲弾.md "wikilink")（Mk-54 [核出力](https://ja.wikipedia.org/wiki/核出力 "wikilink")：10～20 t）と共通設計のW54サブキロトン核弾頭（[核出力](https://ja.wikipedia.org/wiki/核出力 "wikilink")：250 t）を使用した。GAR-11がより大型のW25核弾頭（核出力：1.5 kt）を[AIR-2 (MB-1) ジニー核ロケットと共有したとする解説もあるが](../Page/AIR-2_\(ミサイル\).md "wikilink")、これは誤りである。
+GAR-11は、[M-388 デイビー・クロケット](../Page/デイビー・クロケット_\(戦術核兵器\).md "wikilink")[無反動砲](../Page/無反動砲.md "wikilink")の[核砲弾](../Page/核砲弾.md "wikilink")（Mk-54 [核出力](../Page/核出力.md "wikilink")：10～20 t）と共通設計のW54サブキロトン核弾頭（[核出力](../Page/核出力.md "wikilink")：250 t）を使用した。GAR-11がより大型のW25核弾頭（核出力：1.5 kt）を[AIR-2 (MB-1) ジニー核ロケットと共有したとする解説もあるが](../Page/AIR-2_\(ミサイル\).md "wikilink")、これは誤りである。
 
 自国又は友好国の領土の上空で核兵器を使うという点でその性質から容易に想像しうる問題に対する懸念から、GAR-11の通常弾頭バージョンGAR-11Aが、40 lb（18.1 kg）の通常高性能炸薬弾頭を使用して開発された。
 
-[1963年](../Page/1963年.md "wikilink")以後、[ミサイルの命名規則が変更されたため](https://ja.wikipedia.org/wiki/ミサイル・ロケットの命名規則_\(アメリカ合衆国\) "wikilink")、GAR-11は**AIM-26**に改名され、核弾頭搭載型は**AIM-26A**、通常弾頭型は**AIM-26B**となった。[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")から[1972年](../Page/1972年.md "wikilink")にAIM-26Aの核弾頭は、[AGM-62 ウォールアイ滑空爆弾の核弾頭搭載型のために造り直された](../Page/AGM-62_\(ミサイル\).md "wikilink")。
+[1963年](../Page/1963年.md "wikilink")以後、[ミサイルの命名規則が変更されたため](https://ja.wikipedia.org/wiki/ミサイル・ロケットの命名規則_\(アメリカ合衆国\) "wikilink")、GAR-11は**AIM-26**に改名され、核弾頭搭載型は**AIM-26A**、通常弾頭型は**AIM-26B**となった。[1970年](../Page/1970年.md "wikilink")から[1972年](../Page/1972年.md "wikilink")にAIM-26Aの核弾頭は、[AGM-62 ウォールアイ滑空爆弾の核弾頭搭載型のために造り直された](../Page/AGM-62_\(ミサイル\).md "wikilink")。
 
-AIM-26は[アメリカ空軍](https://ja.wikipedia.org/wiki/アメリカ空軍 "wikilink")の運用における広範囲にわたる使用をほとんど見ずに、[1972年](../Page/1972年.md "wikilink")に退役した。しかし、通常弾頭のAIM-26Bは**HM-55**として[スイス](../Page/スイス.md "wikilink")に輸出され、スイス空軍の[ミラージュIIIS戦闘機で使用された](https://ja.wikipedia.org/wiki/ミラージュIII_\(戦闘機\) "wikilink")。また、[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")では**Rb 27**として[ライセンス生産](https://ja.wikipedia.org/wiki/ライセンス生産 "wikilink")され、[サーブ 35 ドラケン戦闘機に搭載された](https://ja.wikipedia.org/wiki/サーブ_35_ドラケン "wikilink")。Rb 27は[1990年代](../Page/1990年代.md "wikilink")初期までに退役した。
+AIM-26は[アメリカ空軍](https://ja.wikipedia.org/wiki/アメリカ空軍 "wikilink")の運用における広範囲にわたる使用をほとんど見ずに、[1972年](../Page/1972年.md "wikilink")に退役した。しかし、通常弾頭のAIM-26Bは**HM-55**として[スイス](../Page/スイス.md "wikilink")に輸出され、スイス空軍の[ミラージュIIIS戦闘機で使用された](../Page/ミラージュIII_\(戦闘機\).md "wikilink")。また、[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")では**Rb 27**として[ライセンス生産](../Page/ライセンス生産.md "wikilink")され、[サーブ 35 ドラケン戦闘機に搭載された](../Page/サーブ_35_ドラケン.md "wikilink")。Rb 27は[1990年代](../Page/1990年代.md "wikilink")初期までに退役した。
 
 ## 各型
 
@@ -51,7 +51,7 @@ AIM-26は[アメリカ空軍](https://ja.wikipedia.org/wiki/アメリカ空軍 "
   - 速度： [M](../Page/マッハ数.md "wikilink") 2
   - 射程： 8～16 km （5～10 mi）
   - 誘導装置： セミアクティブ・レーダー誘導
-  - 弾頭： [W54核弾頭](https://ja.wikipedia.org/wiki/W54_\(核弾頭\) "wikilink")（[核出力](https://ja.wikipedia.org/wiki/核出力 "wikilink")：250 t）
+  - 弾頭： [W54核弾頭](https://ja.wikipedia.org/wiki/W54_\(核弾頭\) "wikilink")（[核出力](../Page/核出力.md "wikilink")：250 t）
 
 ## 脚注
 
@@ -61,8 +61,8 @@ AIM-26は[アメリカ空軍](https://ja.wikipedia.org/wiki/アメリカ空軍 "
 
   - [AIM-4 ファルコン](../Page/AIM-4_\(ミサイル\).md "wikilink")
   - [AIM-47 ファルコン](../Page/AIM-47_\(ミサイル\).md "wikilink")
-  - [AIM-54 フェニックス](https://ja.wikipedia.org/wiki/フェニックス_\(ミサイル\) "wikilink")
-  - [アメリカ合衆国のミサイル一覧](https://ja.wikipedia.org/wiki/アメリカ合衆国のミサイル一覧 "wikilink")
+  - [AIM-54 フェニックス](../Page/フェニックス_\(ミサイル\).md "wikilink")
+  - [アメリカ合衆国のミサイル一覧](../Page/アメリカ合衆国のミサイル一覧.md "wikilink")
 
 ## 外部リンク
 

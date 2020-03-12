@@ -1,35 +1,35 @@
 > この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
 
 
-『**タモリのヒストリーX**』（タモリのヒストリーエックス、[英称](../Page/英語.md "wikilink"):*TAMORI'S HISTORY - X*）とは、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列にて](../Page/フジネットワーク.md "wikilink")[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")にかけて合計5回に渡って不定期放送されていた[タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")が[メイン司会の](https://ja.wikipedia.org/wiki/司会 "wikilink")[歴史](../Page/歴史.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")及び[特別番組](https://ja.wikipedia.org/wiki/特別番組 "wikilink")である。タモリの[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")である。[ステレオ放送](../Page/ステレオ放送.md "wikilink")、[文字多重放送](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")、[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")が実施されている。通称は『**ヒストリーX**』。
+『**タモリのヒストリーX**』（タモリのヒストリーエックス、[英称](../Page/英語.md "wikilink"):*TAMORI'S HISTORY - X*）とは、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列にて](../Page/フジネットワーク.md "wikilink")[2007年](../Page/2007年.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")にかけて合計5回に渡って不定期放送されていた[タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")が[メイン司会の](../Page/司会.md "wikilink")[歴史](../Page/歴史.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")及び[特別番組](../Page/特別番組.md "wikilink")である。タモリの[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")である。[ステレオ放送](../Page/ステレオ放送.md "wikilink")、[文字多重放送](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")、[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")が実施されている。通称は『**ヒストリーX**』。
 
 ## 概要
 
 [オープニング](https://ja.wikipedia.org/wiki/オープニング "wikilink")は、[番組](../Page/番組.md "wikilink")の趣旨が記された以下の[文章](https://ja.wikipedia.org/wiki/文章 "wikilink")（[歴史](../Page/歴史.md "wikilink")について書かれていた「[番組](../Page/番組.md "wikilink")[概要](https://ja.wikipedia.org/wiki/概要 "wikilink")」を[ベースにしたもの](https://ja.wikipedia.org/wiki/素地 "wikilink")）が流れる。
 
-上記の文章が白い[テロップで](../Page/スーパーインポーズ_\(映像編集\).md "wikilink")[スクロール](https://ja.wikipedia.org/wiki/スクロール "wikilink")式に下から上に流れる。そして、『歴史は生きている\!』と大きく表示される。
+上記の文章が白い[テロップで](../Page/スーパーインポーズ_\(映像編集\).md "wikilink")[スクロール](../Page/スクロール.md "wikilink")式に下から上に流れる。そして、『歴史は生きている\!』と大きく表示される。
 
-『**前代未聞の“好奇心バトル番組”**』と銘を打ち、[日本史](https://ja.wikipedia.org/wiki/日本史 "wikilink")・[世界史](https://ja.wikipedia.org/wiki/世界史 "wikilink")等の[歴史](../Page/歴史.md "wikilink")を題材として、[タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")扮する『**タモ様**』が新しい歴史書『**タモリのヒストリーX**』に自らタモリを前にして家臣の者ども[お笑い芸人](https://ja.wikipedia.org/wiki/お笑い芸人 "wikilink")・[俳優](../Page/俳優.md "wikilink")・[女優ら](../Page/俳優.md "wikilink")（1名ずつ）が調べてきたことを自らプレゼン（発表）形式で発表し、提唱する新説を掲載してもらえるのは一体どの家臣の者ども（パネラー）かというもの。[教科書](https://ja.wikipedia.org/wiki/教科書 "wikilink")には載らない歴史などを発表する『歴史の真実を楽しくひもとく』[歴史](../Page/歴史.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。
+『**前代未聞の“好奇心バトル番組”**』と銘を打ち、[日本史](https://ja.wikipedia.org/wiki/日本史 "wikilink")・[世界史](https://ja.wikipedia.org/wiki/世界史 "wikilink")等の[歴史](../Page/歴史.md "wikilink")を題材として、[タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")扮する『**タモ様**』が新しい歴史書『**タモリのヒストリーX**』に自らタモリを前にして家臣の者ども[お笑い芸人](https://ja.wikipedia.org/wiki/お笑い芸人 "wikilink")・[俳優](../Page/俳優.md "wikilink")・[女優ら](../Page/俳優.md "wikilink")（1名ずつ）が調べてきたことを自らプレゼン（発表）形式で発表し、提唱する新説を掲載してもらえるのは一体どの家臣の者ども（パネラー）かというもの。[教科書](../Page/教科書.md "wikilink")には載らない歴史などを発表する『歴史の真実を楽しくひもとく』[歴史](../Page/歴史.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。
 
-家臣にはプレゼンの出来栄えによって[小判](../Page/小判.md "wikilink")（第1 - 4回放送分）、[星](https://ja.wikipedia.org/wiki/星 "wikilink")（第5回放送分）が最大5枚与えられるが、プレゼンが終了したトーク中にタモリの意向で取り上げられることもある。タモリの心を動かしたうわさは歴史書「ヒストリーX」に書き込まれるのである。進行役である（[姫](https://ja.wikipedia.org/wiki/姫 "wikilink")）は[高島彩](../Page/高島彩.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")）が担当している。
+家臣にはプレゼンの出来栄えによって[小判](../Page/小判.md "wikilink")（第1 - 4回放送分）、[星](https://ja.wikipedia.org/wiki/星 "wikilink")（第5回放送分）が最大5枚与えられるが、プレゼンが終了したトーク中にタモリの意向で取り上げられることもある。タモリの心を動かしたうわさは歴史書「ヒストリーX」に書き込まれるのである。進行役である（[姫](../Page/姫.md "wikilink")）は[高島彩](../Page/高島彩.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")）が担当している。
 
 こうして、タモリの手によって面白い歴史エピソード満載の新たなる歴史書「ヒストリーX」が完成されていき、そんじょそこらの知識では[太刀](../Page/太刀.md "wikilink")打ちできないタモ様を納得させられるのは誰か。今まで誰も知らなかった驚きの歴史上のうわさの数々が明らかになる。プレゼンが終わり、分からない事があると歴史お局「キタ様」が登場し詳しく説明してくれる。
 
-第1・2・5回目放送分は[プライムタイム](https://ja.wikipedia.org/wiki/プライムタイム "wikilink")（[深夜放送](../Page/深夜放送.md "wikilink")）であったが、[視聴者](https://ja.wikipedia.org/wiki/視聴者 "wikilink")からの好評につき第3回目放送分からは[ゴールデンタイム](https://ja.wikipedia.org/wiki/ゴールデンタイム "wikilink")に進出し、家臣の者ども（プレゼンター）も一段と増えた。ゴールデンタイムではお色気が少ないと言うことで、第4回目放送分はタモリの要望により[プライムタイム](https://ja.wikipedia.org/wiki/プライムタイム "wikilink")の放送に戻った形になった。
+第1・2・5回目放送分は[プライムタイム](../Page/プライムタイム.md "wikilink")（[深夜放送](../Page/深夜放送.md "wikilink")）であったが、[視聴者](../Page/視聴者.md "wikilink")からの好評につき第3回目放送分からは[ゴールデンタイム](https://ja.wikipedia.org/wiki/ゴールデンタイム "wikilink")に進出し、家臣の者ども（プレゼンター）も一段と増えた。ゴールデンタイムではお色気が少ないと言うことで、第4回目放送分はタモリの要望により[プライムタイム](../Page/プライムタイム.md "wikilink")の放送に戻った形になった。
 
 ## 出演者
 
 ### 司会・進行
 
-  - [城主](https://ja.wikipedia.org/wiki/城主 "wikilink")（[殿](https://ja.wikipedia.org/wiki/殿 "wikilink")） - [タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")（「**タモ様**」） - 番組ホームページ上では本名の“[森田一義](https://ja.wikipedia.org/wiki/タモリ "wikilink")”名義
-  - [進行](https://ja.wikipedia.org/wiki/進行 "wikilink")（[姫](https://ja.wikipedia.org/wiki/姫 "wikilink")） - [高島彩](../Page/高島彩.md "wikilink")（元[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")）
+  - [城主](https://ja.wikipedia.org/wiki/城主 "wikilink")（[殿](../Page/殿.md "wikilink")） - [タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")（「**タモ様**」） - 番組ホームページ上では本名の“[森田一義](https://ja.wikipedia.org/wiki/タモリ "wikilink")”名義
+  - [進行](https://ja.wikipedia.org/wiki/進行 "wikilink")（[姫](../Page/姫.md "wikilink")） - [高島彩](../Page/高島彩.md "wikilink")（元[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")）
   - キタサマ（[人形](../Page/人形.md "wikilink")） - [喜多あおい](https://ja.wikipedia.org/wiki/喜多あおい "wikilink")（[ジーワン](https://ja.wikipedia.org/wiki/ジーワン_\(企業\) "wikilink")） - [番組](../Page/番組.md "wikilink")リサーチャーが[声](../Page/声.md "wikilink")の出演をし、出演者の疑問に対し解説する
 
 ### 家臣（プレゼンター）
 
-  - [千原ジュニア](https://ja.wikipedia.org/wiki/千原ジュニア "wikilink")（[千原兄弟](../Page/千原兄弟.md "wikilink")） - 全放送分に出演
+  - [千原ジュニア](../Page/千原ジュニア.md "wikilink")（[千原兄弟](../Page/千原兄弟.md "wikilink")） - 全放送分に出演
   - [品川祐](https://ja.wikipedia.org/wiki/品川祐 "wikilink")（[品川庄司](../Page/品川庄司.md "wikilink")） - 全放送分に出演
-  - [劇団ひとり](https://ja.wikipedia.org/wiki/劇団ひとり "wikilink") - 第4回放送分まで出演
+  - [劇団ひとり](../Page/劇団ひとり.md "wikilink") - 第4回放送分まで出演
   - [安めぐみ](https://ja.wikipedia.org/wiki/安めぐみ "wikilink") - 第1回放送分に出演
   - [田中裕二](https://ja.wikipedia.org/wiki/田中裕二_\(お笑い芸人\) "wikilink")（[爆笑問題](../Page/爆笑問題.md "wikilink")） - 第2回放送分に出演
   - [小池栄子](https://ja.wikipedia.org/wiki/小池栄子 "wikilink") - 第2回〜5回放送分に出演
@@ -37,26 +37,26 @@
   - [森三中](../Page/森三中.md "wikilink") - [VTR](https://ja.wikipedia.org/wiki/VTR "wikilink")出演
       - [大島美幸](https://ja.wikipedia.org/wiki/大島美幸 "wikilink")
       - [村上知子](https://ja.wikipedia.org/wiki/村上知子 "wikilink")
-      - [黒沢かずこ](https://ja.wikipedia.org/wiki/黒沢かずこ "wikilink")
+      - [黒沢かずこ](../Page/黒沢かずこ.md "wikilink")
   - [西川史子](../Page/西川史子.md "wikilink") - 第3回放送分に出演
   - [柳原可奈子](https://ja.wikipedia.org/wiki/柳原可奈子 "wikilink") - VTR出演
   - [松下由樹](https://ja.wikipedia.org/wiki/松下由樹 "wikilink") - 第3回・4回放送分に出演
-  - [徳井義実](../Page/徳井義実.md "wikilink")（[チュートリアル](https://ja.wikipedia.org/wiki/チュートリアル_\(お笑いコンビ\) "wikilink")） - 第3回放送分に出演
+  - [徳井義実](../Page/徳井義実.md "wikilink")（[チュートリアル](../Page/チュートリアル_\(お笑いコンビ\).md "wikilink")） - 第3回放送分に出演
   - [中山秀征](../Page/中山秀征.md "wikilink") - 第4回放送分に出演
   - [石原良純](../Page/石原良純.md "wikilink") - 第5回放送分に出演
-  - [小島よしお](https://ja.wikipedia.org/wiki/小島よしお "wikilink") - 第5回放送分に出演
+  - [小島よしお](../Page/小島よしお.md "wikilink") - 第5回放送分に出演
   - [高木美保](https://ja.wikipedia.org/wiki/高木美保 "wikilink") - 同上
   - [八田亜矢子](https://ja.wikipedia.org/wiki/八田亜矢子 "wikilink") - 同上
   - [里田まい](https://ja.wikipedia.org/wiki/里田まい "wikilink") - 同上
 
 ### ナレーション
 
-  - [高塚正也](https://ja.wikipedia.org/wiki/高塚正也 "wikilink")
+  - [高塚正也](../Page/高塚正也.md "wikilink")
   - [藤田淑子](../Page/藤田淑子.md "wikilink")
 
 ### エキストラ（局・中臈）
 
-  - [スタジオ](https://ja.wikipedia.org/wiki/スタジオ "wikilink")には、たくさんの[モデル系や](https://ja.wikipedia.org/wiki/モデル_\(職業\) "wikilink")[イベントコンパニオン](https://ja.wikipedia.org/wiki/イベントコンパニオン "wikilink")系の[女性](../Page/女性.md "wikilink")が、[かつらや衣裳を身に着け](https://ja.wikipedia.org/wiki/かつら_\(装身具\) "wikilink")、[大奥](https://ja.wikipedia.org/wiki/大奥 "wikilink")[女中](https://ja.wikipedia.org/wiki/女中 "wikilink")（[局](https://ja.wikipedia.org/wiki/局 "wikilink")・中臈）として[エキストラ](https://ja.wikipedia.org/wiki/エキストラ "wikilink")出演をしている。
+  - [スタジオ](../Page/スタジオ.md "wikilink")には、たくさんの[モデル系や](../Page/モデル_\(職業\).md "wikilink")[イベントコンパニオン](../Page/イベントコンパニオン.md "wikilink")系の[女性](../Page/女性.md "wikilink")が、[かつらや衣裳を身に着け](https://ja.wikipedia.org/wiki/かつら_\(装身具\) "wikilink")、[大奥](../Page/大奥.md "wikilink")[女中](../Page/女中.md "wikilink")（[局](../Page/局.md "wikilink")・中臈）として[エキストラ](../Page/エキストラ.md "wikilink")出演をしている。
   - しかし、第5回目放送分（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月28日](../Page/4月28日.md "wikilink")放送分）からは、画面からかつら姿のモデル系やイベントコンパニオン系の女性が消えた状態となった。
 
 ## 放送リスト
@@ -66,12 +66,12 @@
   - 番組タイトル名：『タモリのヒストリーX』
   - 放送日・放送時間：2007年[1月3日](../Page/1月3日.md "wikilink") 23:30 - 0:30（[JST](../Page/日本標準時.md "wikilink")）放送。
 
-| 家臣（プレゼンター）   | 歴史内容                                                                                                                      | 小判   |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------- | ---- |
-| 千原ジュニア（千原兄弟） | 「伝説・[宮本武蔵](../Page/宮本武蔵.md "wikilink")の真の姿\!?」                                                                            | 小判5枚 |
-| 品川祐（品川庄司）    | 「[武田信玄](../Page/武田信玄.md "wikilink")もう一つの顔」                                                                                | 小判4枚 |
-| 劇団ひとり        | 「[聖徳太子](../Page/聖徳太子.md "wikilink")のタブーに挑戦」                                                                               | 小判4枚 |
-| 安めぐみ         | 「[ドラマ](../Page/ドラマ.md "wikilink")じゃ見られない[Hな](../Page/エッチ.md "wikilink")[大奥](https://ja.wikipedia.org/wiki/大奥 "wikilink")」 | 小判4枚 |
+| 家臣（プレゼンター）   | 歴史内容                                                                                                   | 小判   |
+| ------------ | ------------------------------------------------------------------------------------------------------ | ---- |
+| 千原ジュニア（千原兄弟） | 「伝説・[宮本武蔵](../Page/宮本武蔵.md "wikilink")の真の姿\!?」                                                         | 小判5枚 |
+| 品川祐（品川庄司）    | 「[武田信玄](../Page/武田信玄.md "wikilink")もう一つの顔」                                                             | 小判4枚 |
+| 劇団ひとり        | 「[聖徳太子](../Page/聖徳太子.md "wikilink")のタブーに挑戦」                                                            | 小判4枚 |
+| 安めぐみ         | 「[ドラマ](../Page/ドラマ.md "wikilink")じゃ見られない[Hな](../Page/エッチ.md "wikilink")[大奥](../Page/大奥.md "wikilink")」 | 小判4枚 |
 
 ### 第2回
 
@@ -82,9 +82,9 @@
 | ------------ | -------------------------------------------------------------------------------- | ---- |
 | 千原ジュニア（千原兄弟） | 「[一休さんはとんちがきかなかった](../Page/一休宗純.md "wikilink")\!」                                | 小判4枚 |
 | 品川祐（品川庄司）    | 「[織田信長](../Page/織田信長.md "wikilink")の[ハケンの品格](../Page/ハケンの品格.md "wikilink")とは\!?」 | 小判3枚 |
-| 劇団ひとり        | 「本当の[忍者](https://ja.wikipedia.org/wiki/忍者 "wikilink")はカッコわるかった\!」                | 小判3枚 |
+| 劇団ひとり        | 「本当の[忍者](../Page/忍者.md "wikilink")はカッコわるかった\!」                                   | 小判3枚 |
 | 田中裕二（爆笑問題）   | 「[お犬様将軍の真相](../Page/徳川綱吉.md "wikilink")\!」                                       | 小判4枚 |
-| 小池栄子         | 「ドラマじゃ見られないHな[大奥](https://ja.wikipedia.org/wiki/大奥 "wikilink")」                  | 小判4枚 |
+| 小池栄子         | 「ドラマじゃ見られないHな[大奥](../Page/大奥.md "wikilink")」                                     | 小判4枚 |
 
 ### 第3回
 
@@ -95,19 +95,19 @@
 
   - 『[時代劇](../Page/時代劇.md "wikilink")[ドラマ](../Page/ドラマ.md "wikilink")ヒーローの裏側』
 
-| 家臣（プレゼンター） | 歴史内容                                                                                                       | 小判   |
-| ---------- | ---------------------------------------------------------------------------------------------------------- | ---- |
-| 劇団ひとり      | 「[水戸黄門は旅に出なかった](../Page/徳川光圀.md "wikilink")\!?」                                                            | 小判3枚 |
-| 品川祐（品川庄司）  | 「[秀吉](https://ja.wikipedia.org/wiki/豊臣秀吉 "wikilink")[鬼嫁日記](https://ja.wikipedia.org/wiki/鬼嫁日記 "wikilink")」 | 小判5枚 |
-| えなりかずき     | 「[遠山の金さんの姿](../Page/遠山景元.md "wikilink")\!カッコよくはなかった」                                                       | 小判4枚 |
+| 家臣（プレゼンター） | 歴史内容                                                                                    | 小判   |
+| ---------- | --------------------------------------------------------------------------------------- | ---- |
+| 劇団ひとり      | 「[水戸黄門は旅に出なかった](../Page/徳川光圀.md "wikilink")\!?」                                         | 小判3枚 |
+| 品川祐（品川庄司）  | 「[秀吉](https://ja.wikipedia.org/wiki/豊臣秀吉 "wikilink")[鬼嫁日記](../Page/鬼嫁日記.md "wikilink")」 | 小判5枚 |
+| えなりかずき     | 「[遠山の金さんの姿](../Page/遠山景元.md "wikilink")\!カッコよくはなかった」                                    | 小判4枚 |
 
   - 『女の歴史』
 
 | 家臣（プレゼンター） | 歴史内容                                                                                                                         | 小判   |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------- | ---- |
-| 小池栄子       | 「仰天\![大奥](https://ja.wikipedia.org/wiki/大奥 "wikilink")の[年金](../Page/年金.md "wikilink")制度」                                     | 小判3枚 |
+| 小池栄子       | 「仰天\![大奥](../Page/大奥.md "wikilink")の[年金](../Page/年金.md "wikilink")制度」                                                        | 小判3枚 |
 | 西川史子       | 「[清少納言](https://ja.wikipedia.org/wiki/清少納言 "wikilink")VS[紫式部](../Page/紫式部.md "wikilink")[ブログ](../Page/ブログ.md "wikilink")バトル」 | 小判4枚 |
-| 松下由樹       | 「[世界初の全身麻酔の完成には](https://ja.wikipedia.org/wiki/華岡青洲 "wikilink")\!?」                                                          | 小判5枚 |
+| 松下由樹       | 「[世界初の全身麻酔の完成には](../Page/華岡青洲.md "wikilink")\!?」                                                                             | 小判5枚 |
 
   - 『歴史の新ジャンル』
 
@@ -138,12 +138,12 @@
 </tr>
 <tr class="even">
 <td><p>小池栄子</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/花魁" title="wikilink">花魁</a>その浮世離れな世界とは!?」</p></td>
+<td><p>「<a href="../Page/花魁.md" title="wikilink">花魁</a>その浮世離れな世界とは!?」</p></td>
 <td><p>小判4枚</p></td>
 </tr>
 <tr class="odd">
 <td><p>劇団ひとり</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/東大寺盧舎那仏像" title="wikilink">奈良の大仏頭が</a>3度落ちた!?」</p></td>
+<td><p>「<a href="../Page/東大寺盧舎那仏像.md" title="wikilink">奈良の大仏頭が</a>3度落ちた!?」</p></td>
 <td><p>小判4枚</p></td>
 </tr>
 <tr class="even">
@@ -158,7 +158,7 @@
 </tr>
 <tr class="even">
 <td><p>松下由樹</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/細川ガラシャ" title="wikilink">細川ガラシャ</a>の純愛とその悲劇の生涯</p></td>
+<td><p>「<a href="../Page/細川ガラシャ.md" title="wikilink">細川ガラシャ</a>の純愛とその悲劇の生涯</p></td>
 <td><p>」</p></td>
 </tr>
 </tbody>
@@ -166,11 +166,11 @@
 
   - 『タモリの日本の寺』（タモリがオススメの寺を紹介）
 
-| タモリがオススメするお寺                                                                        | 詳細                                                     |
-| ----------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| [毛越寺](https://ja.wikipedia.org/wiki/毛越寺 "wikilink")                                 | 日本最古の[庭園](https://ja.wikipedia.org/wiki/庭園 "wikilink") |
-| 銀閣寺（[慈照寺](../Page/慈照寺.md "wikilink")）                                               | [東山文化](../Page/東山文化.md "wikilink")を代表する庭園              |
-| [妙心寺](../Page/妙心寺.md "wikilink")[退蔵院](https://ja.wikipedia.org/wiki/退蔵院 "wikilink") |                                                        |
+| タモリがオススメするお寺                                                     | 詳細                                                     |
+| ---------------------------------------------------------------- | ------------------------------------------------------ |
+| [毛越寺](https://ja.wikipedia.org/wiki/毛越寺 "wikilink")              | 日本最古の[庭園](https://ja.wikipedia.org/wiki/庭園 "wikilink") |
+| 銀閣寺（[慈照寺](../Page/慈照寺.md "wikilink")）                            | [東山文化](../Page/東山文化.md "wikilink")を代表する庭園              |
+| [妙心寺](../Page/妙心寺.md "wikilink")[退蔵院](../Page/退蔵院.md "wikilink") |                                                        |
 
 ### 第5回
 
@@ -183,7 +183,7 @@
 
 | 家臣（プレゼンター）               | 歴史内容                                                                                                                       | 星     |
 | ------------------------ | -------------------------------------------------------------------------------------------------------------------------- | ----- |
-| 千原ジュニア（千原兄弟）             | 「10分で心打つ『[篤姫](https://ja.wikipedia.org/wiki/天璋院 "wikilink")』」                                                              | ☆☆☆☆☆ |
+| 千原ジュニア（千原兄弟）             | 「10分で心打つ『[篤姫](../Page/天璋院.md "wikilink")』」                                                                                 | ☆☆☆☆☆ |
 | 小島よしお                    | 「[戦国武将ら珠玉の](https://ja.wikipedia.org/wiki/武将 "wikilink")[名言](https://ja.wikipedia.org/wiki/名言 "wikilink")」                 | ☆☆☆☆  |
 | 石原良純                     | 「[リストラ](../Page/リストラ.md "wikilink")[武士](../Page/武士.md "wikilink")と[あんぱん](https://ja.wikipedia.org/wiki/あんぱん "wikilink")誕生」 | ☆☆☆☆☆ |
 | 品川祐（品川庄司）                |                                                                                                                            |       |
@@ -202,16 +202,16 @@
 
 ## スタッフ
 
-  - ナレーション：[高塚正也](https://ja.wikipedia.org/wiki/高塚正也 "wikilink")、[藤田淑子](../Page/藤田淑子.md "wikilink")
-  - 監修：[加来耕三](https://ja.wikipedia.org/wiki/加来耕三 "wikilink")
-  - 構成：[樋口卓治](https://ja.wikipedia.org/wiki/樋口卓治 "wikilink")、[鈴木おさむ](../Page/鈴木おさむ.md "wikilink")、[都築浩](https://ja.wikipedia.org/wiki/都築浩 "wikilink")、[福田雄一](https://ja.wikipedia.org/wiki/福田雄一 "wikilink")、[松本真一](https://ja.wikipedia.org/wiki/松本真一_\(放送作家\) "wikilink")、[秋葉高彰](https://ja.wikipedia.org/wiki/秋葉高彰 "wikilink")、山内正之、藤谷弥生
+  - ナレーション：[高塚正也](../Page/高塚正也.md "wikilink")、[藤田淑子](../Page/藤田淑子.md "wikilink")
+  - 監修：[加来耕三](../Page/加来耕三.md "wikilink")
+  - 構成：[樋口卓治](../Page/樋口卓治.md "wikilink")、[鈴木おさむ](../Page/鈴木おさむ.md "wikilink")、[都築浩](../Page/都築浩.md "wikilink")、[福田雄一](https://ja.wikipedia.org/wiki/福田雄一 "wikilink")、[松本真一](../Page/松本真一_\(放送作家\).md "wikilink")、[秋葉高彰](../Page/秋葉高彰.md "wikilink")、山内正之、藤谷弥生
   - 技術：[共同テレビ](../Page/共同テレビジョン.md "wikilink")
   - TD（テクニカルディレクター）：佐々木信一、上村克志
   - SW（スイッチャー）：大嶋徹
   - CAM（カメラマン）：小林知司
   - VE（ビデオエンジニア）：帯刀淳也、川崎淳、郡司洋
   - AUD（オーディオ）：太田勝巳
-  - 照明：北澤正樹（[FLT](https://ja.wikipedia.org/wiki/フジライティング・アンド・テクノロジイ "wikilink")）
+  - 照明：北澤正樹（[FLT](../Page/フジライティング・アンド・テクノロジイ.md "wikilink")）
   - 美術制作：井上幸夫、矢野雄一郎
   - セットデザイン：棈木陽次
   - 美術進行：中村秀美、堀部信行、矢野雄一郎
@@ -234,8 +234,8 @@
   - イラスト：石井克昌・青田明央（タイトルアート）、福満研一
   - VTR編集： 一ノ瀬勝（笑カンパニー）
   - MA：中村和弘（笑カンパニー）
-  - 音響効果：松長芳樹（[デジタルサーカス](https://ja.wikipedia.org/wiki/デジタルサーカス "wikilink")）
-  - 編成：[坪田譲治](https://ja.wikipedia.org/wiki/坪田譲治_\(フジテレビ\) "wikilink")、[成戸真知子](https://ja.wikipedia.org/wiki/成戸真知子 "wikilink")、情野誠人
+  - 音響効果：松長芳樹（[デジタルサーカス](../Page/デジタルサーカス.md "wikilink")）
+  - 編成：[坪田譲治](../Page/坪田譲治_\(フジテレビ\).md "wikilink")、[成戸真知子](https://ja.wikipedia.org/wiki/成戸真知子 "wikilink")、情野誠人
   - 広報：小中ももこ
   - TK（タイムキーパー）：平井冴子
   - デスク：小林琴美
@@ -247,7 +247,7 @@
   - 演出：金子傑（フジテレビ）
   - プロデューサー：[濱野貴敏](https://ja.wikipedia.org/wiki/濱野貴敏 "wikilink")（フジテレビ）【第5回 - 】
   - チーフプロデューサー / プロデュース：[石井浩二](../Page/石井浩二.md "wikilink")（フジテレビ）【第5回 - 以前は、プロデュース】
-  - 制作協力：[田辺エージェンシー](../Page/田辺エージェンシー.md "wikilink")、[NET WEB](https://ja.wikipedia.org/wiki/ネットウエブ "wikilink")
+  - 制作協力：[田辺エージェンシー](../Page/田辺エージェンシー.md "wikilink")、[NET WEB](../Page/ネットウエブ.md "wikilink")
   - 制作：フジテレビバラエティ制作センター
   - 制作著作：[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")
 

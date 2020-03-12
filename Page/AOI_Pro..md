@@ -1,7 +1,7 @@
 > この記事は[AOI Pro.](https://ja.wikipedia.org/wiki/AOI_Pro.)から翻訳されています。
 
 
-**株式会社AOI Pro.**（アオイプロ、*AOI Pro. Inc.*）は、テレビCM、携帯電話を中心とした各種コンテンツ、映画など映像作品の企画・演出・制作および関連商品の販売を行う日本の大手広告映像制作会社である。[2012年](../Page/2012年.md "wikilink")7月に**葵プロモーション**（*Aoi Advertising Promotion Inc.*）より現社名となった\[1\]。[2017年](../Page/2017年.md "wikilink")1月4日には同じく業界大手の[ティー・ワイ・オー](https://ja.wikipedia.org/wiki/ティー・ワイ・オー "wikilink")と経営統合し、共同[持株会社](../Page/持株会社.md "wikilink")である[AOI TYO Holdings株式会社を設立した](https://ja.wikipedia.org/wiki/AOI_TYO_Holdings "wikilink")\[2\]。
+**株式会社AOI Pro.**（アオイプロ、*AOI Pro. Inc.*）は、テレビCM、携帯電話を中心とした各種コンテンツ、映画など映像作品の企画・演出・制作および関連商品の販売を行う日本の大手広告映像制作会社である。[2012年](../Page/2012年.md "wikilink")7月に**葵プロモーション**（*Aoi Advertising Promotion Inc.*）より現社名となった\[1\]。[2017年](../Page/2017年.md "wikilink")1月4日には同じく業界大手の[ティー・ワイ・オー](../Page/ティー・ワイ・オー.md "wikilink")と経営統合し、共同[持株会社](../Page/持株会社.md "wikilink")である[AOI TYO Holdings株式会社を設立した](https://ja.wikipedia.org/wiki/AOI_TYO_Holdings "wikilink")\[2\]。
 
 ## 概要
 
@@ -12,8 +12,8 @@ AOI Pro.では企画および制作に携わる部門をそれぞれ○○部と
 ## 沿革
 
   - [1963年](../Page/1963年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink") 東京都港区で**葵プロモーション**として創業。
-  - [1968年4月](https://ja.wikipedia.org/wiki/1968年#4月 "wikilink") [社団法人日本テレビコマーシャル制作社連盟（JAC）および](https://ja.wikipedia.org/wiki/日本アド・コンテンツ制作社連盟 "wikilink")[社団法人全日本シーエム放送連盟（ACC）に加盟](https://ja.wikipedia.org/wiki/全日本シーエム放送連盟 "wikilink")。
-  - [1979年8月](https://ja.wikipedia.org/wiki/1979年#8月 "wikilink") [東京商工会議所](https://ja.wikipedia.org/wiki/東京商工会議所 "wikilink")に加盟。
+  - [1968年4月](https://ja.wikipedia.org/wiki/1968年#4月 "wikilink") [社団法人日本テレビコマーシャル制作社連盟（JAC）および](https://ja.wikipedia.org/wiki/日本アド・コンテンツ制作社連盟 "wikilink")[社団法人全日本シーエム放送連盟（ACC）に加盟](../Page/全日本シーエム放送連盟.md "wikilink")。
+  - [1979年8月](https://ja.wikipedia.org/wiki/1979年#8月 "wikilink") [東京商工会議所](../Page/東京商工会議所.md "wikilink")に加盟。
   - [1982年4月](https://ja.wikipedia.org/wiki/1982年#4月 "wikilink") [社団法人日本広告審査機構（JARO）に加盟](../Page/日本広告審査機構.md "wikilink")。
   - [1984年1月](https://ja.wikipedia.org/wiki/1984年#1月 "wikilink") [社団法人公共広告機構（AC）に加盟](../Page/ACジャパン.md "wikilink")。
   - [1987年1月](https://ja.wikipedia.org/wiki/1987年#1月 "wikilink") 本社を現在の東京都品川区大崎一丁目6番1号へ移転。
@@ -24,14 +24,14 @@ AOI Pro.では企画および制作に携わる部門をそれぞれ○○部と
   - [1992年5月](https://ja.wikipedia.org/wiki/1992年#5月 "wikilink") 銀座オフィスを開設。
   - [1994年7月](https://ja.wikipedia.org/wiki/1994年#7月 "wikilink") 株式会社メディア・ガーデン設立。
   - [1997年4月](https://ja.wikipedia.org/wiki/1997年#4月 "wikilink") CM撮影スタジオ完成
-  - [1998年2月](https://ja.wikipedia.org/wiki/1998年#2月 "wikilink") 資本金を16億円4,390万円に増資。また、[東京証券取引所](https://ja.wikipedia.org/wiki/東京証券取引所 "wikilink")市場第二部に上場。
+  - [1998年2月](https://ja.wikipedia.org/wiki/1998年#2月 "wikilink") 資本金を16億円4,390万円に増資。また、[東京証券取引所](../Page/東京証券取引所.md "wikilink")市場第二部に上場。
   - [1998年5月](https://ja.wikipedia.org/wiki/1998年#5月 "wikilink") 株式会社デジタル・ガーデンを設立。
   - [1999年2月](https://ja.wikipedia.org/wiki/1999年#2月 "wikilink") 田町オフィスを開設。
   - [2000年3月](https://ja.wikipedia.org/wiki/2000年#3月 "wikilink") 資本金を33億2,390万円に増資。
   - [2000年9月](https://ja.wikipedia.org/wiki/2000年#9月 "wikilink") 東京証券取引所市場第一部に上場。
   - [2002年7月](https://ja.wikipedia.org/wiki/2002年#7月 "wikilink") 東京都中央区に新橋オフィス開設。
   - [2003年1月](https://ja.wikipedia.org/wiki/2003年#1月 "wikilink") 株式会社スパイクフィルムスを設立。
-  - [2005年12月](https://ja.wikipedia.org/wiki/2005年#12月 "wikilink") [プライバシーマーク](https://ja.wikipedia.org/wiki/プライバシーマーク "wikilink")の認定「認定番号：A800007(01)\]」を取得。
+  - [2005年12月](https://ja.wikipedia.org/wiki/2005年#12月 "wikilink") [プライバシーマーク](../Page/プライバシーマーク.md "wikilink")の認定「認定番号：A800007(01)\]」を取得。
   - [2006年3月](https://ja.wikipedia.org/wiki/2006年#3月 "wikilink") 株式会社葵デジタルクリエーションを設立。
   - [2007年8月](https://ja.wikipedia.org/wiki/2007年#8月 "wikilink") CM制作会社の株式会社メイアンを株式取得により子会社化。
   - [2007年11月](https://ja.wikipedia.org/wiki/2007年#11月 "wikilink") 東京都港区赤坂に赤坂オフィス開設。
@@ -53,14 +53,14 @@ AOI Pro.では企画および制作に携わる部門をそれぞれ○○部と
   - [2013年9月](https://ja.wikipedia.org/wiki/2013年#9月 "wikilink") ラジオCM、映像コンテンツの企画・制作会社の株式会社大日を株式取得により子会社化。
   - [2014年1月](https://ja.wikipedia.org/wiki/2014年#1月 "wikilink") コンテンツの企画開発、広告プロデュース会社の株式会社STORYWRITERを設立（2017年1月、株式会社Quark tokyoへ吸収合併）。
   - [2014年11月](https://ja.wikipedia.org/wiki/2014年#11月 "wikilink") 株式会社パーゴルフを、同業の「[アルバトロス・ビュー](https://ja.wikipedia.org/wiki/アルバトロス・ビュー "wikilink")」の発行元である「株式会社ALBA」に売却する。\[4\]
-  - [2016年](../Page/2016年.md "wikilink")（平成28年）[7月11日](../Page/7月11日.md "wikilink") - [ティー・ワイ・オー](https://ja.wikipedia.org/wiki/ティー・ワイ・オー "wikilink")（4358）と共同持株会社を設立する形で経営統合することを公表\[5\]。
+  - [2016年](../Page/2016年.md "wikilink")（平成28年）[7月11日](../Page/7月11日.md "wikilink") - [ティー・ワイ・オー](../Page/ティー・ワイ・オー.md "wikilink")（4358）と共同持株会社を設立する形で経営統合することを公表\[5\]。
   - 2016年（平成28年）[12月28日](../Page/12月28日.md "wikilink") - 東京証券取引所市場第一部上場廃止。
   - [2017年](../Page/2017年.md "wikilink")（平成29年）[1月4日](../Page/1月4日.md "wikilink") - ティー・ワイ・オーと経営統合し、共同持株会社であるAOI TYO Holdings株式会社を設立。
   - 2017年（平成29年）[12月31日](../Page/12月31日.md "wikilink") - 株式会社ビジネス・アーキテクツの株式95%を、同社社長の大日健に売却する。
 
 ## 作品
 
-  - 環境テーマ広告「ランプカー・街」 [本田技研工業](https://ja.wikipedia.org/wiki/本田技研工業 "wikilink")（株） （株）[電通](../Page/電通.md "wikilink")
+  - 環境テーマ広告「ランプカー・街」 [本田技研工業](../Page/本田技研工業.md "wikilink")（株） （株）[電通](../Page/電通.md "wikilink")
   - [トヨタ・bB](../Page/トヨタ・bB.md "wikilink")「Play Music Player」 [トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")（株） （株）電通
   - AC骨髄移植推進財団　「スロットマシン」 公共広告機構（現・[ACジャパン](../Page/ACジャパン.md "wikilink")） （株）電通
   - ジャーナリスト宣言キャンペーン　「言葉のチカラ・オペラ」 [朝日新聞社](../Page/朝日新聞社.md "wikilink") （株）電通
@@ -72,35 +72,35 @@ AOI Pro.では企画および制作に携わる部門をそれぞれ○○部と
   - マクセルDVD「大人になったジブンへ」 [日立マクセル](https://ja.wikipedia.org/wiki/日立マクセル "wikilink")（株） （株）[アサツー ディ・ケイ](https://ja.wikipedia.org/wiki/アサツー_ディ・ケイ "wikilink")
   - IT、で、エコ「植物でケータイ」 日本電気（株） （株）マッキャンエリクソン
   - リオネット補聴器　日本音風景百選　「川越　時の鐘」 リオン（株） （株）[東急エージェンシー](https://ja.wikipedia.org/wiki/東急エージェンシー "wikilink")
-  - [PSP脳力トレーナーポータブル](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")「（前）アレリーマン」 （株）[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink") （株）博報堂
+  - [PSP脳力トレーナーポータブル](../Page/PlayStation_Portable.md "wikilink")「（前）アレリーマン」 （株）[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink") （株）博報堂
   - PSP脳力トレーナーポータブル「アレリーマン」 （株）ソニー・コンピュータエンタテインメント （株）博報堂
   - [パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")補聴器　「あのころの音がきこえますか?」 松下電器産業（現・パナソニック）（株） （株）電通関西支社
   - [ミスタードーナツ](https://ja.wikipedia.org/wiki/ミスタードーナツ "wikilink")　ミスドリカちゃん第2弾「レアルリカちゃん」 （株）[ダスキン](https://ja.wikipedia.org/wiki/ダスキン "wikilink") （株）博報堂
   - 企業「登場・新パッケージ」ヤクルト本社 （株）アサツー ディ・ケイ
-  - 毎日スイッチ新聞「ティザー／ボリューム／照明」 毎日新聞社 （株）博報堂／（株）[博報堂DYメディアパートナーズ](https://ja.wikipedia.org/wiki/博報堂DYメディアパートナーズ "wikilink")
+  - 毎日スイッチ新聞「ティザー／ボリューム／照明」 毎日新聞社 （株）博報堂／（株）[博報堂DYメディアパートナーズ](../Page/博報堂DYメディアパートナーズ.md "wikilink")
   - 茶流彩彩さんぴん茶「初恋」[日本コカ・コーラ](../Page/日本コカ・コーラ.md "wikilink")（株） （株）電通
   - ヤフー・オークション「服がかぶった／ジャマな家具　おならVer.」 ヤフー（株） （株）博報堂
   - Fanta「そうだったらいいのにな　ヤギ／カメラマン／リモコン」 日本コカ・コーラ（株） （株）博報堂クリエイティブ・ヴォックス／（株）博報堂
   - Fanta「そうだったらいいのにな　ヤギ／カメラマン／リモコン／デザイナー」 日本コカ・コーラ（株） （株）博報堂クリエイティブ・ヴォックス／（株）博報堂
   - Fanta クリアーアップル「そうだったらいいのになUFO」 日本コカ・コーラ（株） （株）博報堂クリエイティブ・ヴォックス／（株）博報堂
   - Fanta「そうだったらいいのにな　デザイナー」 日本コカ・コーラ（株） （株）博報堂クリエイティブ・ヴォックス／（株）博報堂
-  - [日清ラ王](https://ja.wikipedia.org/wiki/日清ラ王 "wikilink")「槍ヶ岳山頂」　日清食品（株） （株）電通
-  - [メルセデス・ベンツ・Aクラス](https://ja.wikipedia.org/wiki/メルセデス・ベンツ・Aクラス "wikilink")「NEXT A-Class」 [メルセデス・ベンツ](https://ja.wikipedia.org/wiki/メルセデス・ベンツ "wikilink")日本（株） （株）[プロダクションI.G](https://ja.wikipedia.org/wiki/プロダクションI.G "wikilink")／（株）博報堂
+  - [日清ラ王](../Page/日清ラ王.md "wikilink")「槍ヶ岳山頂」　日清食品（株） （株）電通
+  - [メルセデス・ベンツ・Aクラス](../Page/メルセデス・ベンツ・Aクラス.md "wikilink")「NEXT A-Class」 [メルセデス・ベンツ](https://ja.wikipedia.org/wiki/メルセデス・ベンツ "wikilink")日本（株） （株）[プロダクションI.G](https://ja.wikipedia.org/wiki/プロダクションI.G "wikilink")／（株）博報堂
   - [スバル・フォレスター](../Page/スバル・フォレスター.md "wikilink")「Let me drive」 [富士重工業](https://ja.wikipedia.org/wiki/富士重工業 "wikilink")（株） （株）HYSUBARU TEAM
-  - MATCH「夢／デビュー／眉毛／部活」　[大塚食品](https://ja.wikipedia.org/wiki/大塚食品 "wikilink")（株）（株）博報堂
+  - MATCH「夢／デビュー／眉毛／部活」　[大塚食品](../Page/大塚食品.md "wikilink")（株）（株）博報堂
   - [au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")「[au 4G LTE](https://ja.wikipedia.org/wiki/au_4G_LTE "wikilink") FULL CONTROL/Xmas」　[KDDI](../Page/KDDI.md "wikilink")（株） （株）GLIDER／（株）電通
   - au「au 4G LTE PLAY SCREEN」　KDDI（株） （株）GLIDER／（株）ライゾマティクス／（株）電通
   - au「[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")（[iPhone 5c](https://ja.wikipedia.org/wiki/iPhone_5c "wikilink")） 数字」　KDDI（株）
   - au「[スマートパスやってくる](https://ja.wikipedia.org/wiki/auスマートパス "wikilink")」　KDDI（株）
   - [ダイハツ・ムーヴ](../Page/ダイハツ・ムーヴ.md "wikilink")（5代目）「パパの愛」ほか　[ダイハツ工業](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")（株）（株）博報堂／（株）博報堂クリエイティブ・ヴォックス
-  - [ダイハツ・タント](https://ja.wikipedia.org/wiki/ダイハツ・タント "wikilink")（3代目）ダイハツ工業（株）（株）電通
+  - [ダイハツ・タント](../Page/ダイハツ・タント.md "wikilink")（3代目）ダイハツ工業（株）（株）電通
   - ダイハツ 企業CM「くらしの真ん中で 働く人たち（[ハイゼットトラック](https://ja.wikipedia.org/wiki/ダイハツ・ハイゼットトラック "wikilink")）」ほか　ダイハツ工業（株）（株）電通／（株）ワンスカイ
   - スパイラル グレープ「自己紹介」ほか　[アサヒ飲料](../Page/アサヒ飲料.md "wikilink")（株）（株）博報堂
-  - [バイク王](https://ja.wikipedia.org/wiki/バイク王 "wikilink")×[ルパン三世](https://ja.wikipedia.org/wiki/ルパン三世 "wikilink")　「キャンペーン」　（株）[バイク王&カンパニー](https://ja.wikipedia.org/wiki/バイク王&カンパニー "wikilink")　
+  - [バイク王](https://ja.wikipedia.org/wiki/バイク王 "wikilink")×[ルパン三世](../Page/ルパン三世.md "wikilink")　「キャンペーン」　（株）[バイク王&カンパニー](../Page/バイク王&カンパニー.md "wikilink")　
   - au「笑おう。」　KDDI（株）（株）電通
-  - [万引き家族](https://ja.wikipedia.org/wiki/万引き家族 "wikilink")　[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")　[ギャガ](https://ja.wikipedia.org/wiki/ギャガ "wikilink")　
+  - [万引き家族](https://ja.wikipedia.org/wiki/万引き家族 "wikilink")　[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")　[ギャガ](../Page/ギャガ.md "wikilink")　
   - ダイハツ・ムーヴ（6代目）[ダイハツ工業](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")（株）（株）電通
-  - [ダイハツ・ブーン](https://ja.wikipedia.org/wiki/ダイハツ・ブーン "wikilink")（3代目）ダイハツ工業（株）（株）博報堂／（株）博報堂クリエイティブ・ヴォックス
+  - [ダイハツ・ブーン](../Page/ダイハツ・ブーン.md "wikilink")（3代目）ダイハツ工業（株）（株）博報堂／（株）博報堂クリエイティブ・ヴォックス
   - [ダイハツ・トール](https://ja.wikipedia.org/wiki/ダイハツ・トール "wikilink")　ダイハツ工業（株）（株）博報堂／（株）博報堂クリエイティブ・ヴォックス
   - [ダイハツ・ミライース](https://ja.wikipedia.org/wiki/ダイハツ・ミライース "wikilink")（2代目）　ダイハツ工業（株）（株）電通
   - [ダイハツ・ハイゼットトラック](https://ja.wikipedia.org/wiki/ダイハツ・ハイゼットトラック "wikilink")（10代目）「こわいおやじに」ダイハツ工業（株）（株）電通

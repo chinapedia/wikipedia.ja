@@ -1,11 +1,11 @@
 > この記事は[KINGDOM HEARTS Original Soundtrack COMPLETE](https://ja.wikipedia.org/wiki/KINGDOM_HEARTS_Original_Soundtrack_COMPLETE)から翻訳されています。
 
 
-**KINGDOM HEARTS Original Soundtrack COMPLETE**（キングダム ハーツ オリジナルサウンドトラック コンプリート）は、[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")・[キングダム ハーツ シリーズ](https://ja.wikipedia.org/wiki/キングダム_ハーツ_シリーズ "wikilink")（『[キングダム ハーツ（KH）](https://ja.wikipedia.org/wiki/キングダム_ハーツ "wikilink")』『[キングダム ハーツ チェイン オブ メモリーズ（COM）](https://ja.wikipedia.org/wiki/キングダム_ハーツ_チェイン_オブ_メモリーズ "wikilink")』『[キングダム ハーツII（KH2）](https://ja.wikipedia.org/wiki/キングダム_ハーツII "wikilink")』）に登場した楽曲を収録した[サウンドトラック](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")である。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[3月28日](../Page/3月28日.md "wikilink")発売。ディスク9枚組、全229曲。先着購入特典はイラストが描かれたCDケース。
+**KINGDOM HEARTS Original Soundtrack COMPLETE**（キングダム ハーツ オリジナルサウンドトラック コンプリート）は、[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")・[キングダム ハーツ シリーズ](../Page/キングダム_ハーツ_シリーズ.md "wikilink")（『[キングダム ハーツ（KH）](../Page/キングダム_ハーツ.md "wikilink")』『[キングダム ハーツ チェイン オブ メモリーズ（COM）](../Page/キングダム_ハーツ_チェイン_オブ_メモリーズ.md "wikilink")』『[キングダム ハーツII（KH2）](../Page/キングダム_ハーツII.md "wikilink")』）に登場した楽曲を収録した[サウンドトラック](../Page/サウンドトラック.md "wikilink")である。[2007年](../Page/2007年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")発売。ディスク9枚組、全229曲。先着購入特典はイラストが描かれたCDケース。
 
 ## 概要
 
-サウンドトラックの発売された『KH』『KH2』に加え、サウンドトラックの発売されなかった『COM』の曲を収録（音源は[GBA版ではなく](https://ja.wikipedia.org/wiki/ゲームボーイアドバンス "wikilink")[PS2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『Re:COM』のものである）。『KH2』の曲は当時のサウンドトラックでは1ループで収録されていたが、本作では2ループとなって収録されているのに加え、サウンドトラック未収録だった曲を4曲追加。さらに『KH ファイナルミックス（FM）』および『KH2FM+』（いずれも英語音声・ディレクターズカット版）での追加曲も収録し、完全版とされた。なお『KH』の曲は既に発売されていたサウンドトラックと同内容のもの、また『KHFM』の曲は同ゲーム先着購入特典のサウンドトラックと同内容のものが再収録された。
+サウンドトラックの発売された『KH』『KH2』に加え、サウンドトラックの発売されなかった『COM』の曲を収録（音源は[GBA版ではなく](../Page/ゲームボーイアドバンス.md "wikilink")[PS2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『Re:COM』のものである）。『KH2』の曲は当時のサウンドトラックでは1ループで収録されていたが、本作では2ループとなって収録されているのに加え、サウンドトラック未収録だった曲を4曲追加。さらに『KH ファイナルミックス（FM）』および『KH2FM+』（いずれも英語音声・ディレクターズカット版）での追加曲も収録し、完全版とされた。なお『KH』の曲は既に発売されていたサウンドトラックと同内容のもの、また『KHFM』の曲は同ゲーム先着購入特典のサウンドトラックと同内容のものが再収録された。
 
 構成は、ディスク1〜2が『KH』、ディスク3〜6が『KH2』、ディスク7〜8が『Re:COM』、ディスク9が『KHFM』『KH2FM+』での追加曲となっている。
 
@@ -59,43 +59,43 @@
 
 ### ディスク2
 
-| トラック番号 | 曲名                                                           | 下訳                                    |
-| ------ | ------------------------------------------------------------ | ------------------------------------- |
-| 1      | A Day in Agrabah                                             | アグラバーの一日                              |
-| 2      | Arabian Dream                                                | アラビアの夢                                |
-| 3      | Villains of a Sort                                           | 悪役みたいな者                               |
-| 4      | A Very Small Wish                                            | とても小さな願い                              |
-| 5      | Monstrous Monstro                                            | 巨大なモンストロ                              |
-| 6      | Friends in My Heart                                          | 心の中の友達                                |
-| 7      | Under the Sea                                                | アンダー・ザ・シー                             |
-| 8      | An Adventure in Atlantica                                    | アトランティカの冒険                            |
-| 9      | A Piece of Peace                                             | やすらぎのかけら                              |
-| 10     | An Intense Situation                                         | 険しい局面                                 |
-| 11     | The Deep End                                                 | 瀬戸際                                   |
-| 12     | This is Halloween                                            | ハロウィーン・タウンへようこそ                       |
-| 13     | Spooks of Halloween Town                                     | ハロウィンタウンのおばけ                          |
-| 14     | Oopsy-Daisy                                                  | おっと                                   |
-| 15     | Captain Hook's Pirate Ship                                   | フック船長の海賊船                             |
-| 16     | Pirate's Gigue                                               | 海賊のジーグ                                |
-| 17     | Never Land Sky                                               | ネバーランドの空                              |
-| 18     | Kairi III                                                    | カイリ III                               |
-| 19     | Blast Away\! -Gummi Ship III-                                | 着手！ -グミシップ III-                       |
-| 20     | Hollow Bastion                                               | ホロウバスティオン                             |
-| 21     | Scherzo Di Notte                                             | スケルツォ・ディ・ノッテ<small>（※夜の悪戯）</small>    |
-| 22     | Forze Del Male                                               | フォルツェ・デル・マーレ<small>（※悪の力）</small>     |
-| 23     | HIKARI -KINGDOM HEARTS Instrumental Version-                 | HIKARI -キングダムハーツ・インストバージョン-           |
-| 24     | Miracle                                                      | 奇跡                                    |
-| 25     | End of the World                                             | エンド・オブ・ザ・ワールド                         |
-| 26     | Fragments of Sorrow                                          | 悲しみの欠片                                |
-| 27     | Guardando nel buio                                           | ガルダンド・ネル・ブイーオ<small>（※闇から見守る）</small> |
-| 28     | Beyond the Door                                              | 扉の向こう                                 |
-| 29     | Always on My Mind                                            | いつも気になっている                            |
-| 30     | [光](https://ja.wikipedia.org/wiki/光_\(宇多田ヒカルの曲\) "wikilink") | 光                                     |
-| 31     | March Caprice for Piano and Orchestra                        | ピアノと交響楽団の斑気な行進曲                       |
-| 32     | Hand in Hand -Reprise-                                       | 手を携えて -リプリーズ-                         |
-| 33     | Dearly Beloved -Reprise-                                     | 親愛なる者 -リプリーズ-                         |
-| 34     | Having a Wild Time -Previous Version-                        | ワイルドにふざける -原編-                        |
-| 35     | Destati                                                      | デスタティ<small>（※目覚めよ）</small>           |
+| トラック番号 | 曲名                                           | 下訳                                    |
+| ------ | -------------------------------------------- | ------------------------------------- |
+| 1      | A Day in Agrabah                             | アグラバーの一日                              |
+| 2      | Arabian Dream                                | アラビアの夢                                |
+| 3      | Villains of a Sort                           | 悪役みたいな者                               |
+| 4      | A Very Small Wish                            | とても小さな願い                              |
+| 5      | Monstrous Monstro                            | 巨大なモンストロ                              |
+| 6      | Friends in My Heart                          | 心の中の友達                                |
+| 7      | Under the Sea                                | アンダー・ザ・シー                             |
+| 8      | An Adventure in Atlantica                    | アトランティカの冒険                            |
+| 9      | A Piece of Peace                             | やすらぎのかけら                              |
+| 10     | An Intense Situation                         | 険しい局面                                 |
+| 11     | The Deep End                                 | 瀬戸際                                   |
+| 12     | This is Halloween                            | ハロウィーン・タウンへようこそ                       |
+| 13     | Spooks of Halloween Town                     | ハロウィンタウンのおばけ                          |
+| 14     | Oopsy-Daisy                                  | おっと                                   |
+| 15     | Captain Hook's Pirate Ship                   | フック船長の海賊船                             |
+| 16     | Pirate's Gigue                               | 海賊のジーグ                                |
+| 17     | Never Land Sky                               | ネバーランドの空                              |
+| 18     | Kairi III                                    | カイリ III                               |
+| 19     | Blast Away\! -Gummi Ship III-                | 着手！ -グミシップ III-                       |
+| 20     | Hollow Bastion                               | ホロウバスティオン                             |
+| 21     | Scherzo Di Notte                             | スケルツォ・ディ・ノッテ<small>（※夜の悪戯）</small>    |
+| 22     | Forze Del Male                               | フォルツェ・デル・マーレ<small>（※悪の力）</small>     |
+| 23     | HIKARI -KINGDOM HEARTS Instrumental Version- | HIKARI -キングダムハーツ・インストバージョン-           |
+| 24     | Miracle                                      | 奇跡                                    |
+| 25     | End of the World                             | エンド・オブ・ザ・ワールド                         |
+| 26     | Fragments of Sorrow                          | 悲しみの欠片                                |
+| 27     | Guardando nel buio                           | ガルダンド・ネル・ブイーオ<small>（※闇から見守る）</small> |
+| 28     | Beyond the Door                              | 扉の向こう                                 |
+| 29     | Always on My Mind                            | いつも気になっている                            |
+| 30     | [光](../Page/光_\(宇多田ヒカルの曲\).md "wikilink")    | 光                                     |
+| 31     | March Caprice for Piano and Orchestra        | ピアノと交響楽団の斑気な行進曲                       |
+| 32     | Hand in Hand -Reprise-                       | 手を携えて -リプリーズ-                         |
+| 33     | Dearly Beloved -Reprise-                     | 親愛なる者 -リプリーズ-                         |
+| 34     | Having a Wild Time -Previous Version-        | ワイルドにふざける -原編-                        |
+| 35     | Destati                                      | デスタティ<small>（※目覚めよ）</small>           |
 
 ### ディスク3
 
@@ -193,24 +193,24 @@
 
 ### ディスク6
 
-| トラック番号 | 曲名                                                                                                   | 下訳                                                      |
-| ------ | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| 1      | Showdown at Hollow Bastion                                                                           | ホロウバスティオンでの対決                                           |
-| 2      | One-Winged Angel (from [FINAL FANTASY VII](https://ja.wikipedia.org/wiki/ファイナルファンタジーVII "wikilink")) | 片翼の天使（ファイナルファンタジーVIIより）                                 |
-| 3      | Battleship Bravery                                                                                   | 戦艦の勇猛さ                                                  |
-| 4      | Sacred Moon                                                                                          | 聖なる月                                                    |
-| 5      | Deep Drive                                                                                           | 深い前進                                                    |
-| 6      | Riku                                                                                                 | リク                                                      |
-| 7      | Courage                                                                                              | 勇気                                                      |
-| 8      | Disappeared                                                                                          | 消え失せた                                                   |
-| 9      | A Fight to the Death                                                                                 | 死闘                                                      |
-| 10     | Darkness of the Unknown                                                                              | 不明の闇                                                    |
-| 11     | Passion ～after the battle～                                                                           | 情熱 ～戦いのあと～                                              |
-| 12     | Fantasia alla marcia for piano, chorus and orchestra                                                 | ピアノと合唱団と交響楽団のファンタジア・アラ・マルチア<small>（※行進曲のような幻想曲）</small> |
-| 13     | Destiny Islands                                                                                      | デスティニーアイランド                                             |
-| 14     | Hand in Hand                                                                                         | 手を携えて                                                   |
-| 15     | Sunset Horizons                                                                                      | 日暮れの地平線                                                 |
-| 16     | Dearly Beloved -Reprise-                                                                             | 親愛なる者 -リプリーズ-                                           |
+| トラック番号 | 曲名                                                                                | 下訳                                                      |
+| ------ | --------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| 1      | Showdown at Hollow Bastion                                                        | ホロウバスティオンでの対決                                           |
+| 2      | One-Winged Angel (from [FINAL FANTASY VII](../Page/ファイナルファンタジーVII.md "wikilink")) | 片翼の天使（ファイナルファンタジーVIIより）                                 |
+| 3      | Battleship Bravery                                                                | 戦艦の勇猛さ                                                  |
+| 4      | Sacred Moon                                                                       | 聖なる月                                                    |
+| 5      | Deep Drive                                                                        | 深い前進                                                    |
+| 6      | Riku                                                                              | リク                                                      |
+| 7      | Courage                                                                           | 勇気                                                      |
+| 8      | Disappeared                                                                       | 消え失せた                                                   |
+| 9      | A Fight to the Death                                                              | 死闘                                                      |
+| 10     | Darkness of the Unknown                                                           | 不明の闇                                                    |
+| 11     | Passion ～after the battle～                                                        | 情熱 ～戦いのあと～                                              |
+| 12     | Fantasia alla marcia for piano, chorus and orchestra                              | ピアノと合唱団と交響楽団のファンタジア・アラ・マルチア<small>（※行進曲のような幻想曲）</small> |
+| 13     | Destiny Islands                                                                   | デスティニーアイランド                                             |
+| 14     | Hand in Hand                                                                      | 手を携えて                                                   |
+| 15     | Sunset Horizons                                                                   | 日暮れの地平線                                                 |
+| 16     | Dearly Beloved -Reprise-                                                          | 親愛なる者 -リプリーズ-                                           |
 
 ### ディスク7
 
@@ -270,20 +270,20 @@
 
 ### ディスク9
 
-| トラック番号 | 曲名                                                                             | 下訳                      |
-| ------ | ------------------------------------------------------------------------------ | ----------------------- |
-| 1      | One-Winged Angel (from FINAL FANTASY VII)                                      | 片翼の天使（ファイナルファンタジーVIIより） |
-| 2      | [A Night on the Bare Mountain](https://ja.wikipedia.org/wiki/禿山の一夜 "wikilink") | 禿山の一夜                   |
-| 3      | Disappeared                                                                    | 消え失せた                   |
-| 4      | Another Side                                                                   | 裏                       |
-| 5      | What A Surprise?\!                                                             | びっくり？！                  |
-| 6      | Happy Holidays\!                                                               | 幸せな休日！                  |
-| 7      | The 13th Reflection                                                            | 13番目の影                  |
-| 8      | Cavern of Remembrance                                                          | 追憶の洞                    |
-| 9      | Deep Anxiety                                                                   | 深い不安                    |
-| 10     | The Other Promise                                                              | もう一つの約束                 |
-| 11     | Rage Awakened                                                                  | 目覚めた怒り                  |
-| 12     | Fate of the Unknown                                                            | 未知の運命                   |
+| トラック番号 | 曲名                                                          | 下訳                      |
+| ------ | ----------------------------------------------------------- | ----------------------- |
+| 1      | One-Winged Angel (from FINAL FANTASY VII)                   | 片翼の天使（ファイナルファンタジーVIIより） |
+| 2      | [A Night on the Bare Mountain](../Page/禿山の一夜.md "wikilink") | 禿山の一夜                   |
+| 3      | Disappeared                                                 | 消え失せた                   |
+| 4      | Another Side                                                | 裏                       |
+| 5      | What A Surprise?\!                                          | びっくり？！                  |
+| 6      | Happy Holidays\!                                            | 幸せな休日！                  |
+| 7      | The 13th Reflection                                         | 13番目の影                  |
+| 8      | Cavern of Remembrance                                       | 追憶の洞                    |
+| 9      | Deep Anxiety                                                | 深い不安                    |
+| 10     | The Other Promise                                           | もう一つの約束                 |
+| 11     | Rage Awakened                                               | 目覚めた怒り                  |
+| 12     | Fate of the Unknown                                         | 未知の運命                   |
 
 ## 外部リンク
 

@@ -5,15 +5,15 @@
 
 ## 経歴
 
-[ピマ・コミュニティ大学](https://ja.wikipedia.org/wiki/ピマ・コミュニティ大学 "wikilink")を卒業後、の[MLBドラフト](https://ja.wikipedia.org/wiki/ドラフト会議_\(MLB\) "wikilink")26巡目で[ボルチモア・オリオールズ](https://ja.wikipedia.org/wiki/ボルチモア・オリオールズ "wikilink")に指名され契約。
+[ピマ・コミュニティ大学](https://ja.wikipedia.org/wiki/ピマ・コミュニティ大学 "wikilink")を卒業後、の[MLBドラフト](../Page/ドラフト会議_\(MLB\).md "wikilink")26巡目で[ボルチモア・オリオールズ](../Page/ボルチモア・オリオールズ.md "wikilink")に指名され契約。
 
 ### マイナー時代
 
-オリオールズのマイナー組織では登板は無いまま、は[クリーブランド・インディアンス](https://ja.wikipedia.org/wiki/クリーブランド・インディアンス "wikilink")へ移籍した。ここでは、マイナーで投げた。
+オリオールズのマイナー組織では登板は無いまま、は[クリーブランド・インディアンス](../Page/クリーブランド・インディアンス.md "wikilink")へ移籍した。ここでは、マイナーで投げた。
 
-からは、[ピッツバーグ・パイレーツ](https://ja.wikipedia.org/wiki/ピッツバーグ・パイレーツ "wikilink")のマイナーでプレーした。
+からは、[ピッツバーグ・パイレーツ](../Page/ピッツバーグ・パイレーツ.md "wikilink")のマイナーでプレーした。
 
-に[ルール5ドラフト](https://ja.wikipedia.org/wiki/ルール5ドラフト "wikilink")で[カンザスシティ・ロイヤルズ](https://ja.wikipedia.org/wiki/カンザスシティ・ロイヤルズ "wikilink")へ移籍した。
+に[ルール5ドラフト](https://ja.wikipedia.org/wiki/ルール5ドラフト "wikilink")で[カンザスシティ・ロイヤルズ](../Page/カンザスシティ・ロイヤルズ.md "wikilink")へ移籍した。
 
 ### メジャー昇格とロイヤルズ時代
 
@@ -21,9 +21,9 @@
 
 ### 日本球界時代
 
-は投手陣に不安を抱えていた[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")の目に留まり、推定総額2年5億円の契約を結び入団した。[オーバー](https://ja.wikipedia.org/wiki/オーバースロー "wikilink")、[サイド](https://ja.wikipedia.org/wiki/サイドスロー "wikilink")、[アンダーからの速球や鋭い変化球](https://ja.wikipedia.org/wiki/アンダースロー "wikilink")（主な変化球の球種は[カーブ](https://ja.wikipedia.org/wiki/カーブ_\(球種\) "wikilink")、[スライダー](../Page/スライダー_\(球種\).md "wikilink")、[チェンジアップ](https://ja.wikipedia.org/wiki/チェンジアップ "wikilink")、[カットボール](https://ja.wikipedia.org/wiki/カット・ファスト・ボール "wikilink")）を武器に、当初は[先発ローテーション](https://ja.wikipedia.org/wiki/先発ローテーション "wikilink")入りが期待されていた。
+は投手陣に不安を抱えていた[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")の目に留まり、推定総額2年5億円の契約を結び入団した。[オーバー](../Page/オーバースロー.md "wikilink")、[サイド](../Page/サイドスロー.md "wikilink")、[アンダーからの速球や鋭い変化球](../Page/アンダースロー.md "wikilink")（主な変化球の球種は[カーブ](https://ja.wikipedia.org/wiki/カーブ_\(球種\) "wikilink")、[スライダー](../Page/スライダー_\(球種\).md "wikilink")、[チェンジアップ](../Page/チェンジアップ.md "wikilink")、[カットボール](../Page/カット・ファスト・ボール.md "wikilink")）を武器に、当初は[先発ローテーション](../Page/先発ローテーション.md "wikilink")入りが期待されていた。
 
-しかし、3試合に先発したものの、期待通りのピッチングを見せることはなくファームに降格。その後、再度チャンスを与えられるも結果を残すことが出来ず、ファーム生活が続いていた。結局1年の契約を残しながら11月15日に球団から正式に[戦力外通告](https://ja.wikipedia.org/wiki/戦力外通告 "wikilink")を受けた後、12月1日に[自由契約](https://ja.wikipedia.org/wiki/自由契約 "wikilink")。
+しかし、3試合に先発したものの、期待通りのピッチングを見せることはなくファームに降格。その後、再度チャンスを与えられるも結果を残すことが出来ず、ファーム生活が続いていた。結局1年の契約を残しながら11月15日に球団から正式に[戦力外通告](../Page/戦力外通告.md "wikilink")を受けた後、12月1日に[自由契約](../Page/自由契約.md "wikilink")。
 
 ### アメリカ球界復帰
 
@@ -31,17 +31,17 @@
 
 ### ホワイトソックス時代
 
-1月11日に[シカゴ・ホワイトソックス](https://ja.wikipedia.org/wiki/シカゴ・ホワイトソックス "wikilink")とマイナー契約。この年も開幕メジャー入りはならなかったが、7月9日に[ボビー・ジェンクス](../Page/ボビー・ジェンクス.md "wikilink")の故障に伴いメジャー復帰を果たした。
+1月11日に[シカゴ・ホワイトソックス](../Page/シカゴ・ホワイトソックス.md "wikilink")とマイナー契約。この年も開幕メジャー入りはならなかったが、7月9日に[ボビー・ジェンクス](../Page/ボビー・ジェンクス.md "wikilink")の故障に伴いメジャー復帰を果たした。
 
 12月12日にノーテンダーFAになった。
 
 ### パイレーツ時代
 
-1月13日、[ピッツバーグ・パイレーツ](https://ja.wikipedia.org/wiki/ピッツバーグ・パイレーツ "wikilink")とマイナー契約を結んだ\[1\]。
+1月13日、[ピッツバーグ・パイレーツ](../Page/ピッツバーグ・パイレーツ.md "wikilink")とマイナー契約を結んだ\[1\]。
 
 ### ダイヤモンドバックス時代
 
-2010年7月31日に、[ボビー・クロスビー](https://ja.wikipedia.org/wiki/ボビー・クロスビー "wikilink")と[ライアン・チャーチ](../Page/ライアン・チャーチ.md "wikilink")と共に、[クリス・スナイダー](https://ja.wikipedia.org/wiki/クリス・スナイダー "wikilink")と[ペドロ・シリアコ](https://ja.wikipedia.org/wiki/ペドロ・シリアコ "wikilink")とのトレードで[アリゾナ・ダイヤモンドバックス](../Page/アリゾナ・ダイヤモンドバックス.md "wikilink")へ移籍\[2\]。
+2010年7月31日に、[ボビー・クロスビー](../Page/ボビー・クロスビー.md "wikilink")と[ライアン・チャーチ](../Page/ライアン・チャーチ.md "wikilink")と共に、[クリス・スナイダー](https://ja.wikipedia.org/wiki/クリス・スナイダー "wikilink")と[ペドロ・シリアコ](https://ja.wikipedia.org/wiki/ペドロ・シリアコ "wikilink")とのトレードで[アリゾナ・ダイヤモンドバックス](../Page/アリゾナ・ダイヤモンドバックス.md "wikilink")へ移籍\[2\]。
 
 ### メッツ時代
 
@@ -51,7 +51,7 @@
 
 ### ブレーブス時代
 
-2012年6月20日、[アトランタ・ブレーブス](https://ja.wikipedia.org/wiki/アトランタ・ブレーブス "wikilink")と契約を結ぶ\[5\]。しかし、7月4日に解雇された。
+2012年6月20日、[アトランタ・ブレーブス](../Page/アトランタ・ブレーブス.md "wikilink")と契約を結ぶ\[5\]。しかし、7月4日に解雇された。
 
 ### ブレーブス退団後
 
@@ -69,7 +69,7 @@
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カンザスシティ・ロイヤルズ" title="wikilink">KC</a></p></td>
+<td><p><a href="../Page/カンザスシティ・ロイヤルズ.md" title="wikilink">KC</a></p></td>
 <td><p>50</p></td>
 <td><p>2</p></td>
 <td><p>0</p></td>
@@ -181,7 +181,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シカゴ・ホワイトソックス" title="wikilink">CWS</a></p></td>
+<td><p><a href="../Page/シカゴ・ホワイトソックス.md" title="wikilink">CWS</a></p></td>
 <td><p>31</p></td>
 <td><p>0</p></td>
 <td><p>0</p></td>
@@ -237,7 +237,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ピッツバーグ・パイレーツ" title="wikilink">PIT</a></p></td>
+<td><p><a href="../Page/ピッツバーグ・パイレーツ.md" title="wikilink">PIT</a></p></td>
 <td><p>45</p></td>
 <td><p>0</p></td>
 <td><p>0</p></td>
@@ -443,7 +443,7 @@
 <!-- end list -->
 
   - 初登板・初先発：2006年3月29日、対[西武ライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")2回戦（[北九州市民球場](../Page/北九州市民球場.md "wikilink")）、4回1/3を9失点で敗戦投手
-  - 初奪三振：同上、2回表に[中村剛也](https://ja.wikipedia.org/wiki/中村剛也 "wikilink")から空振り三振
+  - 初奪三振：同上、2回表に[中村剛也](../Page/中村剛也.md "wikilink")から空振り三振
 
 ### 背番号
 
@@ -462,7 +462,7 @@
 ## 関連項目
 
   - [メジャーリーグベースボールの選手一覧](../Page/メジャーリーグベースボールの選手一覧.md "wikilink")
-  - [福岡ソフトバンクホークスの選手一覧](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークスの選手一覧 "wikilink")
+  - [福岡ソフトバンクホークスの選手一覧](../Page/福岡ソフトバンクホークスの選手一覧.md "wikilink")
 
 ## 外部リンク
 

@@ -1,7 +1,7 @@
 > この記事は[CLAZZIQUAI PROJECT](https://ja.wikipedia.org/wiki/CLAZZIQUAI_PROJECT)から翻訳されています。
 
 
-**クラジクワイ・プロジェクト**（**CLAZZIQUAI PROJECT**、）は、[韓国の](../Page/大韓民国.md "wikilink")[クラブ](../Page/クラブ.md "wikilink")系アーティスト。韓国のレーベル[FLUXUS](https://ja.wikipedia.org/wiki/FLUXUS "wikilink")に所属。日本では2005年に[AvexからCDデビューしたが](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")、2009年に[UNIVERSAL MUSIC JAPANに移籍](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。
+**クラジクワイ・プロジェクト**（**CLAZZIQUAI PROJECT**、）は、[韓国の](../Page/大韓民国.md "wikilink")[クラブ](../Page/クラブ.md "wikilink")系アーティスト。韓国のレーベル[FLUXUS](https://ja.wikipedia.org/wiki/FLUXUS "wikilink")に所属。日本では2005年に[AvexからCDデビューしたが](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")、2009年に[UNIVERSAL MUSIC JAPANに移籍](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
 
 ## 概要・メンバー
 
@@ -16,7 +16,7 @@
       - ボーカル。
       - 韓国在住。
 
-Clazziquaiとは、[Classic](../Page/クラシック音楽.md "wikilink")+[Jazz](../Page/ジャズ.md "wikilink")+[Grooveをかけあわせた](../Page/グルーヴ.md "wikilink")[造語](../Page/造語.md "wikilink")であり、さらに[Jamiroquaiへのリスペクトも兼ねた意味となっている](https://ja.wikipedia.org/wiki/ジャミロクワイ "wikilink")。さらに、[韓国語](https://ja.wikipedia.org/wiki/韓国語 "wikilink")読みすると「クレジカイ」と似た[発音](https://ja.wikipedia.org/wiki/発音 "wikilink")になり、「Crazy Guy」とも掛けている。
+Clazziquaiとは、[Classic](../Page/クラシック音楽.md "wikilink")+[Jazz](../Page/ジャズ.md "wikilink")+[Grooveをかけあわせた](../Page/グルーヴ.md "wikilink")[造語](../Page/造語.md "wikilink")であり、さらに[Jamiroquaiへのリスペクトも兼ねた意味となっている](../Page/ジャミロクワイ.md "wikilink")。さらに、[韓国語](https://ja.wikipedia.org/wiki/韓国語 "wikilink")読みすると「クレジカイ」と似た[発音](https://ja.wikipedia.org/wiki/発音 "wikilink")になり、「Crazy Guy」とも掛けている。
 
 最近は、日本の音楽ユニット、[capsule](https://ja.wikipedia.org/wiki/capsule "wikilink")と比較され、音楽メディアや、一部ファンの間から「**韓国のcapsule**」と呼ばれている。
 
@@ -26,21 +26,21 @@ DJ Clazziquaiが自身のWebサイトに「Sweety」の[MP3](../Page/MP3.md "wik
 
 韓国の[Hip Hopユニット](../Page/ヒップホップ.md "wikilink")、[エピック・ハイ](../Page/エピック・ハイ.md "wikilink")のアルバム2、3集にフィーチャリングで参加する。
 
-[2004年](../Page/2004年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")にアルバム『instant pig』（1集）を韓国FLUXUS MUSICよりリリース。[R\&B](../Page/リズム・アンド・ブルース.md "wikilink")/[Hip Hop全盛の韓国で](../Page/ヒップホップ.md "wikilink")、[アシッドジャズ](https://ja.wikipedia.org/wiki/アシッドジャズ "wikilink")や[ラウンジ](https://ja.wikipedia.org/wiki/ラウンジ "wikilink")系のアルバムは売れないとの見方も多かったものの、予想以上の成功を収める。その後、韓国で[リミックス](../Page/リミックス.md "wikilink")アルバム『ZBAM』も発売された。
+[2004年](../Page/2004年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")にアルバム『instant pig』（1集）を韓国FLUXUS MUSICよりリリース。[R\&B](../Page/リズム・アンド・ブルース.md "wikilink")/[Hip Hop全盛の韓国で](../Page/ヒップホップ.md "wikilink")、[アシッドジャズ](../Page/アシッドジャズ.md "wikilink")や[ラウンジ](https://ja.wikipedia.org/wiki/ラウンジ "wikilink")系のアルバムは売れないとの見方も多かったものの、予想以上の成功を収める。その後、韓国で[リミックス](../Page/リミックス.md "wikilink")アルバム『ZBAM』も発売された。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")には、アルバム2集『COLOR YOUR SOUL』を発売。韓国盤の初回特典はフォトブック。同じ頃、日本でも1集『instant pig』がAvexより発売される。さらに、[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink") loves [Sowelu](https://ja.wikipedia.org/wiki/Sowelu "wikilink")の「So Exclusive」のリミックスを手掛けた。[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")にはエピック・ハイの3集『Swan Songs』に一部参加した。
+[2005年](../Page/2005年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")には、アルバム2集『COLOR YOUR SOUL』を発売。韓国盤の初回特典はフォトブック。同じ頃、日本でも1集『instant pig』がAvexより発売される。さらに、[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink") loves [Sowelu](https://ja.wikipedia.org/wiki/Sowelu "wikilink")の「So Exclusive」のリミックスを手掛けた。[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")にはエピック・ハイの3集『Swan Songs』に一部参加した。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")、2集『COLOR YOUR SOUL』日本発売。日本盤初回特典として、[HMV](../Page/HMV.md "wikilink")ではm-floの☆Taku Takahashi、[タワーレコード](../Page/タワーレコード.md "wikilink")では[Studio ApartmentによるMixCDが付属した](../Page/Studio_Apartment.md "wikilink")。
+[2006年](../Page/2006年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")、2集『COLOR YOUR SOUL』日本発売。日本盤初回特典として、[HMV](../Page/HMV.md "wikilink")ではm-floの☆Taku Takahashi、[タワーレコード](../Page/タワーレコード.md "wikilink")では[Studio ApartmentによるMixCDが付属した](../Page/Studio_Apartment.md "wikilink")。
 
 [3月](https://ja.wikipedia.org/wiki/3月 "wikilink")には2集のリミックスアルバム『PINCH YOUR SOUL』を発売。新曲としてエピック・ハイのMCである[タブロ](https://ja.wikipedia.org/wiki/タブロ "wikilink")と競演した「Love Mode」、「Chi Chi」、韓国伝統音楽祭参加記念の「Bye」が収録された。
 
-[8月](../Page/8月.md "wikilink")にミニアルバム 『Love Mode』を日本で発売。タイトルトラックである「Love Mode」で[VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")（m-flo）および[PE'Z](https://ja.wikipedia.org/wiki/PE'Z "wikilink")と共演。
+[8月](../Page/8月.md "wikilink")にミニアルバム 『Love Mode』を日本で発売。タイトルトラックである「Love Mode」で[VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")（m-flo）および[PE'Z](../Page/PE'Z.md "wikilink")と共演。
 
 [2007年](../Page/2007年.md "wikilink")[6月](../Page/6月.md "wikilink")、3集『LOVE CHILD of the CENTURY』発売。
 
 [12月](https://ja.wikipedia.org/wiki/12月 "wikilink")には同アルバムのリミックスアルバム「Robotica」を韓国で発売。[大沢伸一](../Page/大沢伸一.md "wikilink")による「Prayers」のリミックスが収録されているほか、韓国では未発表であった「Love Mode」の Pzq mode・Hwa Remix の両方が収録される。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月](../Page/9月.md "wikilink")、韓国の[音楽ゲーム](../Page/音楽ゲーム.md "wikilink")「[DJMAX](https://ja.wikipedia.org/wiki/DJMAX "wikilink")」シリーズの最新作にメインアーティストとして参加する事が発表される。過去にリリースされた作品、および完全新曲が収録されて[DJMAX Portable：CLAZZIQUAI Editionとして同年](https://ja.wikipedia.org/wiki/DJMAX_Portable#DJMAX_Portable：CLAZZIQUAI_Edition "wikilink")10月24日に韓国で発売された。また同年に韓国で稼動が開始された（日本でも2010年12月から稼動開始している）[DJMAX TECHNIKAにも楽曲が収録されている](https://ja.wikipedia.org/wiki/DJMAX_TECHNIKA "wikilink")。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月](../Page/9月.md "wikilink")、韓国の[音楽ゲーム](../Page/音楽ゲーム.md "wikilink")「[DJMAX](../Page/DJMAX.md "wikilink")」シリーズの最新作にメインアーティストとして参加する事が発表される。過去にリリースされた作品、および完全新曲が収録されて[DJMAX Portable：CLAZZIQUAI Editionとして同年](https://ja.wikipedia.org/wiki/DJMAX_Portable#DJMAX_Portable：CLAZZIQUAI_Edition "wikilink")10月24日に韓国で発売された。また同年に韓国で稼動が開始された（日本でも2010年12月から稼動開始している）[DJMAX TECHNIKAにも楽曲が収録されている](https://ja.wikipedia.org/wiki/DJMAX_TECHNIKA "wikilink")。
 
 ## m-floとの関わり
 
@@ -54,8 +54,8 @@ DJ Clazziquaiが自身のWebサイトに「Sweety」の[MP3](../Page/MP3.md "wik
 
 ### オリジナルアルバム
 
-  - instant pig（1集、[2004年](../Page/2004年.md "wikilink")韓国、台湾、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")日本）
-  - COLOR YOUR SOUL（2集、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")韓国、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")台湾、日本）
+  - instant pig（1集、[2004年](../Page/2004年.md "wikilink")韓国、台湾、[2005年](../Page/2005年.md "wikilink")日本）
+  - COLOR YOUR SOUL（2集、[2005年](../Page/2005年.md "wikilink")韓国、[2006年](../Page/2006年.md "wikilink")台湾、日本）
   - LOVE CHILD of the CENTURY（3集、[2007年](../Page/2007年.md "wikilink")韓国、日本、台湾）
   - Mucho Punk（4集、[2009年](../Page/2009年.md "wikilink")韓国）　Mucho MUSICA（4集、[2009年](../Page/2009年.md "wikilink")日本、台湾）
   - Blessed（5集、[2013年](../Page/2013年.md "wikilink")韓国）
@@ -64,14 +64,14 @@ DJ Clazziquaiが自身のWebサイトに「Sweety」の[MP3](../Page/MP3.md "wik
 
 ### ミニアルバム
 
-  - Love Mode（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")日本、台湾）
+  - Love Mode（[2006年](../Page/2006年.md "wikilink")日本、台湾）
   - Beat in Love（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")日本）
   - Metrotronics（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")韓国）
 
 ### リミックス・アルバム
 
-  - ZBAM（1.5集[2004年](../Page/2004年.md "wikilink")韓国、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")台湾）
-  - PINCH YOUR SOUL（2.5集[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")韓国、台湾）
+  - ZBAM（1.5集[2004年](../Page/2004年.md "wikilink")韓国、[2005年](../Page/2005年.md "wikilink")台湾）
+  - PINCH YOUR SOUL（2.5集[2006年](../Page/2006年.md "wikilink")韓国、台湾）
   - Robotica（3.5集[2007年](../Page/2007年.md "wikilink")韓国、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")台湾）
   - Mucho Mix（[2009年](../Page/2009年.md "wikilink")日本）※　日本盤なので4.5とカウントしない
   - MUCHO BEAT（4.5集[2009年](../Page/2009年.md "wikilink")韓国）
@@ -84,8 +84,8 @@ DJ Clazziquaiが自身のWebサイトに「Sweety」の[MP3](../Page/MP3.md "wik
   - コンセプト・アルバム『 The Walk Around The Coaner』に「Coming at me to disco」で参加
   - [m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink") loves [Sowelu](https://ja.wikipedia.org/wiki/Sowelu "wikilink") - So Exclusive (Clazziquai Remix)（リミックスアルバム『[DOPE SPACE NINE](../Page/DOPE_SPACE_NINE.md "wikilink")』収録）
   - [鈴木亜美](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink") - Sweet Voice "CLAZZIQUAI PROJECT RMX"（リミックスアルバム『AMIx WORLD』収録）
-  - [Fantastic Plastic Machine](https://ja.wikipedia.org/wiki/Fantastic_Plastic_Machine "wikilink") - don't you know? feat. CLAZZIQUAI PROJECT（『imaginations』『FPMB -Fantastic Plastic Machine Best-』収録）
-  - [FreeTEMPO](https://ja.wikipedia.org/wiki/FreeTEMPO "wikilink") - HARMONY feat. Alex (CLAZZIQUAI PROJECT)（ミニアルバム『HARMONY』収録）
+  - [Fantastic Plastic Machine](../Page/Fantastic_Plastic_Machine.md "wikilink") - don't you know? feat. CLAZZIQUAI PROJECT（『imaginations』『FPMB -Fantastic Plastic Machine Best-』収録）
+  - [FreeTEMPO](../Page/FreeTEMPO.md "wikilink") - HARMONY feat. Alex (CLAZZIQUAI PROJECT)（ミニアルバム『HARMONY』収録）
   - m-flo loves ALEX (CLAZZIQUAI PROJECT) - Love Me After 12AM（5thアルバム『COSMICOLOR』収録）
   - [Ryohei](../Page/Ryohei.md "wikilink") - Calling You feat.CLAZZIQUAI PROJECT（アルバム『Cavaca 〜Catch the Various Catchy〜』収録）
 

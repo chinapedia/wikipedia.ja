@@ -1,7 +1,7 @@
 > この記事は[Every Ballad Songs](https://ja.wikipedia.org/wiki/Every_Ballad_Songs)から翻訳されています。
 
 
-『**Every Ballad Songs**』（エヴリ・バラード・ソングス）は、日本の音楽グループ[Every Little Thingの](../Page/Every_Little_Thing.md "wikilink")[バラード](../Page/バラード.md "wikilink")[ベストアルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。[2001年](../Page/2001年.md "wikilink")[12月5日](../Page/12月5日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+『**Every Ballad Songs**』（エヴリ・バラード・ソングス）は、日本の音楽グループ[Every Little Thingの](../Page/Every_Little_Thing.md "wikilink")[バラード](../Page/バラード.md "wikilink")[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[12月5日](../Page/12月5日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 
@@ -10,7 +10,7 @@
 
 ## 収録曲
 
-1.  **[Over and Over](https://ja.wikipedia.org/wiki/Over_and_Over "wikilink")**
+1.  **[Over and Over](../Page/Over_and_Over.md "wikilink")**
       -
         作詞・作曲・編曲：[五十嵐充](../Page/五十嵐充.md "wikilink")
         11thシングル。
@@ -20,7 +20,7 @@
         8thシングル。
 3.  **[愛のカケラ](../Page/愛のカケラ_\(Every_Little_Thingの曲\).md "wikilink")**
       -
-        作詞：[持田香織](https://ja.wikipedia.org/wiki/持田香織 "wikilink") / 作曲：[多胡邦夫](../Page/多胡邦夫.md "wikilink") / 編曲：桑島幻矢&[伊藤一朗](https://ja.wikipedia.org/wiki/伊藤一朗 "wikilink")
+        作詞：[持田香織](https://ja.wikipedia.org/wiki/持田香織 "wikilink") / 作曲：[多胡邦夫](../Page/多胡邦夫.md "wikilink") / 編曲：桑島幻矢&[伊藤一朗](../Page/伊藤一朗.md "wikilink")
         16thシングル。
 4.  **[鮮やかなもの](../Page/4_FORCE.md "wikilink")**
       -
@@ -48,7 +48,7 @@
         15thシングル「[Rescue me／Smile Again](https://ja.wikipedia.org/wiki/Rescue_me/Smile_Again "wikilink")」カップリング曲。シングルバージョンはアルバム初収録。
 10. **[One](../Page/4_FORCE.md "wikilink")**
       -
-        作詞：持田香織 / 作曲：[D･A･I](https://ja.wikipedia.org/wiki/長尾大 "wikilink") / 編曲：桑島幻矢&伊藤一朗
+        作詞：持田香織 / 作曲：[D･A･I](../Page/長尾大.md "wikilink") / 編曲：桑島幻矢&伊藤一朗
         4thアルバム『4 FORCE』収録曲。
 11. **[sure](https://ja.wikipedia.org/wiki/sure_\(Every_Little_Thingの曲\) "wikilink")**
       -

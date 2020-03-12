@@ -11,7 +11,7 @@
 
 ## キャラクター
 
-[声優](../Page/声優.md "wikilink")名は、2003年12月に開催された[コミックマーケット](../Page/コミックマーケット.md "wikilink")65で販売された[ドラマCD](https://ja.wikipedia.org/wiki/ドラマCD "wikilink")のもの。
+[声優](../Page/声優.md "wikilink")名は、2003年12月に開催された[コミックマーケット](../Page/コミックマーケット.md "wikilink")65で販売された[ドラマCD](../Page/ドラマCD.md "wikilink")のもの。
 
   - 井上雅尚（いのうえ まさなお）
     声：[新田祐一](https://ja.wikipedia.org/wiki/新田祐一 "wikilink")
@@ -28,7 +28,7 @@
     7月27日生まれ、血液型A型
     身長：135cm、体重:29,5kg、3サイズ：62/51.2/67
   - 観月しおり（みづき しおり）
-    声：[あさり☆](https://ja.wikipedia.org/wiki/あさり☆ "wikilink")
+    声：[あさり☆](../Page/あさり☆.md "wikilink")
     双子の観月姉妹の姉。『はじめてのおるすばん』が初出。西村姉妹のクラスメートでななみの前の席。
   - 観月さおり（みづき さおり）
     声：[もっち](https://ja.wikipedia.org/wiki/もっち "wikilink")
@@ -57,9 +57,9 @@
 
 「はじめてシリーズ」の続編として、『**[はじめてのおてつだい](https://ja.wikipedia.org/wiki/はじめてのおてつだい "wikilink")**』が発売されている。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月21日](../Page/10月21日.md "wikilink")、画面解像度を 800×600 に変更し、システムを改良した『**ななみとこのみのおしえてA・B・C 〜りにゅーある〜**』が発売されている（ただし、『無印』のDVD-ROMに収録されていた「おまけ」のファイル類は収録されていない）。
+[2005年](../Page/2005年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")、画面解像度を 800×600 に変更し、システムを改良した『**ななみとこのみのおしえてA・B・C 〜りにゅーある〜**』が発売されている（ただし、『無印』のDVD-ROMに収録されていた「おまけ」のファイル類は収録されていない）。
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月29日](../Page/10月29日.md "wikilink")、画面解像度を 1280×720 に変更し、ワイドモニターに対応した『**ななみとこのみのおしえてA・B・C HDワイドスクリーン版**』が発売された。このバージョンはAndroid用にも移植され、[DLsite](https://ja.wikipedia.org/wiki/DLsite "wikilink")でダウンロード販売されている。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月29日](../Page/10月29日.md "wikilink")、画面解像度を 1280×720 に変更し、ワイドモニターに対応した『**ななみとこのみのおしえてA・B・C HDワイドスクリーン版**』が発売された。このバージョンはAndroid用にも移植され、[DLsite](../Page/DLsite.md "wikilink")でダウンロード販売されている。
 
 [2011年](../Page/2011年.md "wikilink")[2月10日](../Page/2月10日.md "wikilink")、[DVDPG版が発売された](https://ja.wikipedia.org/wiki/DVDプレイヤーズゲーム "wikilink")。「たてすじの殿堂4\[1\]」と銘打っている。
 

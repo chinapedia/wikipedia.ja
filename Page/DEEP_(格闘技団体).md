@@ -5,13 +5,13 @@
 
 ## 歴史
 
-2001年1月8日に旗揚げされ、開始から第6回大会までは[パンクラス](https://ja.wikipedia.org/wiki/パンクラス "wikilink")などの協力で、独立独歩のメジャー指向で大会場での興行を打っていた。[プロレスラー](../Page/プロレスラー.md "wikilink")も積極的に参戦させ、レフェリーの[和田良覚](https://ja.wikipedia.org/wiki/和田良覚 "wikilink")の試合を組むなど話題性のあるマッチメイクから「格闘技のおもちゃ箱」とも称されていた。しかし、勝負を賭けた[田村潔司](https://ja.wikipedia.org/wiki/田村潔司 "wikilink")対[美濃輪育久をメインにした](https://ja.wikipedia.org/wiki/ミノワマン "wikilink")[2002年](../Page/2002年.md "wikilink")9月7日の第6回大会の失敗で、興行規模を縮小を余儀なくされる。
+2001年1月8日に旗揚げされ、開始から第6回大会までは[パンクラス](../Page/パンクラス.md "wikilink")などの協力で、独立独歩のメジャー指向で大会場での興行を打っていた。[プロレスラー](../Page/プロレスラー.md "wikilink")も積極的に参戦させ、レフェリーの[和田良覚](https://ja.wikipedia.org/wiki/和田良覚 "wikilink")の試合を組むなど話題性のあるマッチメイクから「格闘技のおもちゃ箱」とも称されていた。しかし、勝負を賭けた[田村潔司](../Page/田村潔司.md "wikilink")対[美濃輪育久をメインにした](../Page/ミノワマン.md "wikilink")[2002年](../Page/2002年.md "wikilink")9月7日の第6回大会の失敗で、興行規模を縮小を余儀なくされる。
 
-2003年9月に[ドリームステージエンターテインメント](https://ja.wikipedia.org/wiki/ドリームステージエンターテインメント "wikilink")が[PRIDE武士道](https://ja.wikipedia.org/wiki/PRIDE武士道 "wikilink")シリーズを開始すると、DEEP代表の佐伯と業務提携を行い、DEEPはPRIDEの下部組織的な位置づけとなる。以後のDEEPは、日本人の中量級と軽量級の選手を中心に、[後楽園ホール](https://ja.wikipedia.org/wiki/後楽園ホール "wikilink")規模の会場で大会を開催するようになり、客層は選手の応援団や格闘技マニアが中心となった。当初は[大阪プロレス](https://ja.wikipedia.org/wiki/大阪プロレス "wikilink")の[村浜武洋](https://ja.wikipedia.org/wiki/村浜武洋 "wikilink")や[ルチャドール](https://ja.wikipedia.org/wiki/ルチャリブレ "wikilink")（メキシカンスタイルのプロレスラー）を登場させ、パンクラスから選手を派遣してもらっていたが、やがて[桜井速人](../Page/桜井速人.md "wikilink")や[桜井隆多](../Page/桜井隆多.md "wikilink")、[須田匡昇](https://ja.wikipedia.org/wiki/須田匡昇 "wikilink")、[中尾受太郎](https://ja.wikipedia.org/wiki/中尾受太郎 "wikilink")など[修斗](https://ja.wikipedia.org/wiki/修斗 "wikilink")のリングに上がらなくなった選手たちの受け皿となり、パンクラスを離れた美濃輪育久や[GRABAKA](https://ja.wikipedia.org/wiki/GRABAKA "wikilink")の選手たちの活躍の舞台となった。その後はDEEPで育つ中、軽量級の選手が増加している。中でも[長南亮](https://ja.wikipedia.org/wiki/長南亮 "wikilink")はDEEPから出発して、PRIDE武士道の常連となった代表的な選手である。7月13日の第11回大会から女子選手の試合も組み込むようになった。現在は主なイベントとして「DEEP IMPACT」、「clubDEEP」などを開催している。
+2003年9月に[ドリームステージエンターテインメント](../Page/ドリームステージエンターテインメント.md "wikilink")が[PRIDE武士道](../Page/PRIDE武士道.md "wikilink")シリーズを開始すると、DEEP代表の佐伯と業務提携を行い、DEEPはPRIDEの下部組織的な位置づけとなる。以後のDEEPは、日本人の中量級と軽量級の選手を中心に、[後楽園ホール](../Page/後楽園ホール.md "wikilink")規模の会場で大会を開催するようになり、客層は選手の応援団や格闘技マニアが中心となった。当初は[大阪プロレス](../Page/大阪プロレス.md "wikilink")の[村浜武洋](../Page/村浜武洋.md "wikilink")や[ルチャドール](../Page/ルチャリブレ.md "wikilink")（メキシカンスタイルのプロレスラー）を登場させ、パンクラスから選手を派遣してもらっていたが、やがて[桜井速人](../Page/桜井速人.md "wikilink")や[桜井隆多](../Page/桜井隆多.md "wikilink")、[須田匡昇](../Page/須田匡昇.md "wikilink")、[中尾受太郎](https://ja.wikipedia.org/wiki/中尾受太郎 "wikilink")など[修斗](../Page/修斗.md "wikilink")のリングに上がらなくなった選手たちの受け皿となり、パンクラスを離れた美濃輪育久や[GRABAKA](../Page/GRABAKA.md "wikilink")の選手たちの活躍の舞台となった。その後はDEEPで育つ中、軽量級の選手が増加している。中でも[長南亮](../Page/長南亮.md "wikilink")はDEEPから出発して、PRIDE武士道の常連となった代表的な選手である。7月13日の第11回大会から女子選手の試合も組み込むようになった。現在は主なイベントとして「DEEP IMPACT」、「clubDEEP」などを開催している。
 
 2007年、グラップリング大会の「DEEP X」、[キックボクシング](../Page/キックボクシング.md "wikilink")やエンタテインメントを融合した「DEEP GLOVE」（2009年に[K-1](../Page/K-1.md "wikilink")などで活躍する[長島☆自演乙☆雄一郎](https://ja.wikipedia.org/wiki/長島☆自演乙☆雄一郎 "wikilink")プロデュースによる「DEEP KICK」にリニューアル）などの新シリーズを開始した。その他のシリーズに「おやじDEEP」「DEEP HERO」などがある。
 
-2008年2月22日、[ネバダ州アスレチック・コミッション](../Page/ネバダ州アスレチック・コミッション.md "wikilink")に倣った男子階級が導入される\[1\]。3月、[FEG](https://ja.wikipedia.org/wiki/FEG "wikilink")が[DREAMを開始すると](../Page/DREAM_\(格闘技イベント\).md "wikilink")、PRIDE時代同様協力体制を採りDEEPはDREAMの下部組織的な位置づけとなる。
+2008年2月22日、[ネバダ州アスレチック・コミッション](../Page/ネバダ州アスレチック・コミッション.md "wikilink")に倣った男子階級が導入される\[1\]。3月、[FEG](../Page/FEG.md "wikilink")が[DREAMを開始すると](../Page/DREAM_\(格闘技イベント\).md "wikilink")、PRIDE時代同様協力体制を採りDEEPはDREAMの下部組織的な位置づけとなる。
 
 2009年12月19日、DEEP初のケージ（DEEPオリジナルのオクタゴンケージ）を使用した大会「[DEEP CAGE IMPACT 2009](https://ja.wikipedia.org/wiki/DEEP_CAGE_IMPACT_2009 "wikilink")」を開催した\[2\]。
 
@@ -31,7 +31,7 @@
 
   - [JEWELS](https://ja.wikipedia.org/wiki/JEWELS "wikilink")
 
-2007年、[スマックガール](https://ja.wikipedia.org/wiki/スマックガール "wikilink")と提携を結び、後継イベントである「JEWELS」にも協力している。
+2007年、[スマックガール](../Page/スマックガール.md "wikilink")と提携を結び、後継イベントである「JEWELS」にも協力している。
 
   - [GLADIATOR](https://ja.wikipedia.org/wiki/GLADIATOR "wikilink")
 
@@ -43,7 +43,7 @@
 
 ## 試合中継
 
-格闘技[専門チャンネル](../Page/専門チャンネル.md "wikilink")の[FIGHTING TV サムライで録画中継番組が放送されている](https://ja.wikipedia.org/wiki/FIGHTING_TV_サムライ "wikilink")。開始当初のメジャー志向だった頃には、[BSデジタル放送の](https://ja.wikipedia.org/wiki/日本における衛星放送#BSデジタル放送 "wikilink")[BS朝日や](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")、[地上波](../Page/地上波.md "wikilink")でも東海ローカルの[名古屋テレビで大会の中継を行っていたことがある](../Page/名古屋テレビ放送.md "wikilink")。[PPVチャンネルの](https://ja.wikipedia.org/wiki/ペイ・パー・ビュー "wikilink")[パーフェクト・チョイス](https://ja.wikipedia.org/wiki/スカチャン "wikilink")（現：スカチャン）でも実施していた。
+格闘技[専門チャンネル](../Page/専門チャンネル.md "wikilink")の[FIGHTING TV サムライで録画中継番組が放送されている](../Page/FIGHTING_TV_サムライ.md "wikilink")。開始当初のメジャー志向だった頃には、[BSデジタル放送の](https://ja.wikipedia.org/wiki/日本における衛星放送#BSデジタル放送 "wikilink")[BS朝日や](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")、[地上波](../Page/地上波.md "wikilink")でも東海ローカルの[名古屋テレビで大会の中継を行っていたことがある](../Page/名古屋テレビ放送.md "wikilink")。[PPVチャンネルの](../Page/ペイ・パー・ビュー.md "wikilink")[パーフェクト・チョイス](../Page/スカチャン.md "wikilink")（現：スカチャン）でも実施していた。
 
 2007年12月22日、久しぶりの地上波として「DEEP PROTECT IMPACT in OSAKA」が大阪ローカルの[テレビ大阪](../Page/テレビ大阪.md "wikilink")で深夜に録画中継された。2008年12月の大会は大晦日に放送。
 
@@ -68,22 +68,22 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ロッキー・マルティネス" title="wikilink">ロッキー・マルティネス</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ライトヘビー級" title="wikilink">ライトヘビー級</a></p></td>
+<td><p><a href="../Page/ライトヘビー級.md" title="wikilink">ライトヘビー級</a></p></td>
 <td><p>93.0kg以下</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/中西良行" title="wikilink">中西良行</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ミドル級" title="wikilink">ミドル級</a></p></td>
+<td><p><a href="../Page/ミドル級.md" title="wikilink">ミドル級</a></p></td>
 <td><p>83.9kg以下</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/水野竜也" title="wikilink">水野竜也</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ウェルター級" title="wikilink">ウェルター級</a></p></td>
+<td><p><a href="../Page/ウェルター級.md" title="wikilink">ウェルター級</a></p></td>
 <td><p>77.1kg以下</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/住村竜市朗" title="wikilink">住村竜市朗</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ライト級" title="wikilink">ライト級</a></p></td>
+<td><p><a href="../Page/ライト級.md" title="wikilink">ライト級</a></p></td>
 <td><p>70.3kg以下</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/武田光司" title="wikilink">武田光司</a></p></td>
 </tr>
@@ -132,19 +132,19 @@
 <td><p>アマンダ・ルーカス</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ミドル級" title="wikilink">ミドル級</a></p></td>
+<td><p><a href="../Page/ミドル級.md" title="wikilink">ミドル級</a></p></td>
 <td><p>61.2kg以下</p></td>
 <td><p>キム・ジヨン</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ライト級" title="wikilink">ライト級</a></p></td>
+<td><p><a href="../Page/ライト級.md" title="wikilink">ライト級</a></p></td>
 <td><p>52.0kg以下</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/魅津希" title="wikilink">魅津希</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/フェザー級.md" title="wikilink">フェザー級</a></p></td>
 <td><p>48.0kg以下</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/前澤智" title="wikilink">前澤智</a></p></td>
+<td><p><a href="../Page/前澤智.md" title="wikilink">前澤智</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/フライ級.md" title="wikilink">フライ級</a></p></td>
@@ -319,10 +319,10 @@
 | 2005年 | 江尻真司                                                  | [小林歩](https://ja.wikipedia.org/wiki/小林歩 "wikilink")       | 田村幸成                               | 金太郎                                |
 | 2004年 | （開催なし）                                                | 井上裕貴                                                      | [帯谷信弘](../Page/帯谷信弘.md "wikilink") | [佐藤豪則](../Page/佐藤豪則.md "wikilink") |
 
-| 年     | 65kg以下級 | 69kg以下級                                               | 76kg以下級 | 82kg以下級                                               |
-| ----- | ------- | ----------------------------------------------------- | ------- | ----------------------------------------------------- |
-| 2003年 | （開催なし）  | 杉内勇                                                   | （開催なし）  | [青木真也](https://ja.wikipedia.org/wiki/青木真也 "wikilink") |
-| 2002年 | （開催なし）  | [深見智之](https://ja.wikipedia.org/wiki/深見智之 "wikilink") | （開催なし）  | 藤沼弘秀                                                  |
+| 年     | 65kg以下級 | 69kg以下級                                               | 76kg以下級 | 82kg以下級                            |
+| ----- | ------- | ----------------------------------------------------- | ------- | ---------------------------------- |
+| 2003年 | （開催なし）  | 杉内勇                                                   | （開催なし）  | [青木真也](../Page/青木真也.md "wikilink") |
+| 2002年 | （開催なし）  | [深見智之](https://ja.wikipedia.org/wiki/深見智之 "wikilink") | （開催なし）  | 藤沼弘秀                               |
 
 ## 開催履歴
 
@@ -342,61 +342,61 @@
 <td><p>DEEP 69 IMPACT</p></td>
 <td><p>2014年10月26日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ミーツポート#TOKYO_DOME_CITY_HALL" title="wikilink">TDCホール</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/文京区" title="wikilink">文京区</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/文京区" title="wikilink">文京区</a></p></td>
 </tr>
 <tr class="even">
 <td><p>DEEP 68 IMPACT</p></td>
 <td><p>2014年8月23日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/後楽園ホール" title="wikilink">後楽園ホール</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/文京区" title="wikilink">文京区</a></p></td>
+<td><p><a href="../Page/後楽園ホール.md" title="wikilink">後楽園ホール</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/文京区" title="wikilink">文京区</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>DEEP 67 IMPACT</p></td>
 <td><p>2014年6月22日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/後楽園ホール" title="wikilink">後楽園ホール</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/文京区" title="wikilink">文京区</a></p></td>
+<td><p><a href="../Page/後楽園ホール.md" title="wikilink">後楽園ホール</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/文京区" title="wikilink">文京区</a></p></td>
 </tr>
 <tr class="even">
 <td><p>DEEP 66 IMPACT</p></td>
 <td><p>2014年4月29日</p></td>
 <td><p><a href="../Page/ディファ有明.md" title="wikilink">ディファ有明</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/江東区" title="wikilink">江東区</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/江東区" title="wikilink">江東区</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>DEEP 65 IMPACT</p></td>
 <td><p>2014年3月22日</p></td>
 <td><p><a href="../Page/ディファ有明.md" title="wikilink">ディファ有明</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/江東区" title="wikilink">江東区</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/江東区" title="wikilink">江東区</a></p></td>
 </tr>
 <tr class="even">
 <td><p>DEEP 64 IMPACT</p></td>
 <td><p>2013年12月22日</p></td>
 <td><p><a href="../Page/ディファ有明.md" title="wikilink">ディファ有明</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/江東区" title="wikilink">江東区</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/江東区" title="wikilink">江東区</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>DEEP 63 IMPACT</p></td>
 <td><p>2013年8月25日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/後楽園ホール" title="wikilink">後楽園ホール</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/文京区" title="wikilink">文京区</a></p></td>
+<td><p><a href="../Page/後楽園ホール.md" title="wikilink">後楽園ホール</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/文京区" title="wikilink">文京区</a></p></td>
 </tr>
 <tr class="even">
 <td><p>DEEP 62 IMPACT</p></td>
 <td><p>2013年4月26日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ミーツポート#TOKYO_DOME_CITY_HALL" title="wikilink">TDCホール</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/文京区" title="wikilink">文京区</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/文京区" title="wikilink">文京区</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>DEEP 61 IMPACT</p></td>
 <td><p>2013年2月16日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/後楽園ホール" title="wikilink">後楽園ホール</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/文京区" title="wikilink">文京区</a></p></td>
+<td><p><a href="../Page/後楽園ホール.md" title="wikilink">後楽園ホール</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/文京区" title="wikilink">文京区</a></p></td>
 </tr>
 <tr class="even">
 <td><p>DEEP 60 IMPACT</p></td>
 <td><p>2012年10月19日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/後楽園ホール" title="wikilink">後楽園ホール</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/文京区" title="wikilink">文京区</a></p></td>
+<td><p><a href="../Page/後楽園ホール.md" title="wikilink">後楽園ホール</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/文京区" title="wikilink">文京区</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>DEEP 59 IMPACT</p></td>
@@ -485,7 +485,7 @@
 <tr class="odd">
 <td><p>DEEP 45 IMPACT</p></td>
 <td><p>2010年1月24日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Zepp" title="wikilink">Zepp Osaka</a></p></td>
+<td><p><a href="../Page/Zepp.md" title="wikilink">Zepp Osaka</a></p></td>
 <td><p><a href="../Page/大阪府.md" title="wikilink">大阪府</a><a href="../Page/大阪市.md" title="wikilink">大阪市</a></p></td>
 </tr>
 <tr class="even">
@@ -683,13 +683,13 @@
 <tr class="even">
 <td><p>DEEP 12th IMPACT in OHTAKU</p></td>
 <td><p>2003年9月15日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大田区体育館" title="wikilink">大田区体育館</a></p></td>
+<td><p><a href="../Page/大田区体育館.md" title="wikilink">大田区体育館</a></p></td>
 <td><p>東京都<a href="https://ja.wikipedia.org/wiki/大田区" title="wikilink">大田区</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>DEEP 11th IMPACT in OSAKA</p></td>
 <td><p>2003年7月13日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大阪府立国際会議場" title="wikilink">グランキューブ大阪</a></p></td>
+<td><p><a href="../Page/大阪府立国際会議場.md" title="wikilink">グランキューブ大阪</a></p></td>
 <td><p>大阪府大阪市</p></td>
 </tr>
 <tr class="even">
@@ -719,7 +719,7 @@
 <tr class="even">
 <td><p>DEEP2001 6th IMPACT in ARIAKE COLOSSEUM</p></td>
 <td><p>2002年9月7日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/有明コロシアム" title="wikilink">有明コロシアム</a></p></td>
+<td><p><a href="../Page/有明コロシアム.md" title="wikilink">有明コロシアム</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -731,7 +731,7 @@
 <tr class="even">
 <td><p>DEEP2001 4th IMPACT in NAGOYA</p></td>
 <td><p>2002年3月30日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/愛知県体育館" title="wikilink">愛知県体育館</a></p></td>
+<td><p><a href="../Page/愛知県体育館.md" title="wikilink">愛知県体育館</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/愛知県" title="wikilink">愛知県</a><a href="../Page/名古屋市.md" title="wikilink">名古屋市</a></p></td>
 </tr>
 <tr class="odd">
@@ -743,7 +743,7 @@
 <tr class="even">
 <td><p>DEEP2001 in YOKOHAMA</p></td>
 <td><p>2001年8月18日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/横浜文化体育館" title="wikilink">横浜文化体育館</a></p></td>
+<td><p><a href="../Page/横浜文化体育館.md" title="wikilink">横浜文化体育館</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/神奈川県" title="wikilink">神奈川県</a><a href="../Page/横浜市.md" title="wikilink">横浜市</a></p></td>
 </tr>
 <tr class="odd">
@@ -777,43 +777,43 @@
 <td><p>DEEP CAGE IMPACT 2014 〜ミスターメガトン誠悟引退興行〜</p></td>
 <td><p>2014年7月21日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/大田区総合体育館" title="wikilink">大田区総合体育館</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/大田区" title="wikilink">大田区</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/大田区" title="wikilink">大田区</a></p></td>
 </tr>
 <tr class="even">
 <td><p>DEEP CAGE IMPACT 2013 in TDC HALL</p></td>
 <td><p>2013年11月24日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ミーツポート#TOKYO_DOME_CITY_HALL" title="wikilink">TDCホール</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/文京区" title="wikilink">文京区</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/文京区" title="wikilink">文京区</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>DEEP CAGE IMPACT 2013 in KORAKUEN HALL</p></td>
 <td><p>2013年6月15日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/後楽園ホール" title="wikilink">後楽園ホール</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/文京区" title="wikilink">文京区</a></p></td>
+<td><p><a href="../Page/後楽園ホール.md" title="wikilink">後楽園ホール</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/文京区" title="wikilink">文京区</a></p></td>
 </tr>
 <tr class="even">
 <td><p>DEEP CAGE IMPACT 2012 in TOKYO 2nd ROUND</p></td>
 <td><p>2012年12月8日</p></td>
 <td><p><a href="../Page/ディファ有明.md" title="wikilink">ディファ有明</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/江東区" title="wikilink">江東区</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/江東区" title="wikilink">江東区</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>DEEP CAGE IMPACT 2012 in TOKYO 1st ROUND</p></td>
 <td><p>2012年12月8日</p></td>
 <td><p><a href="../Page/ディファ有明.md" title="wikilink">ディファ有明</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/江東区" title="wikilink">江東区</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/江東区" title="wikilink">江東区</a></p></td>
 </tr>
 <tr class="even">
 <td><p>DEEP CAGE IMPACT 2012 in HAMAMATSU</p></td>
 <td><p>2012年9月16日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アクトシティ浜松" title="wikilink">アクトシティ浜松</a></p></td>
+<td><p><a href="../Page/アクトシティ浜松.md" title="wikilink">アクトシティ浜松</a></p></td>
 <td><p><a href="../Page/静岡県.md" title="wikilink">静岡県</a><a href="https://ja.wikipedia.org/wiki/浜松市" title="wikilink">浜松市</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>DEEP CAGE IMPACT 2012 in TOKYO 〜OVER AGAIN〜</p></td>
 <td><p>2012年4月7日</p></td>
 <td><p><a href="../Page/ディファ有明.md" title="wikilink">ディファ有明</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/江東区" title="wikilink">江東区</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/江東区" title="wikilink">江東区</a></p></td>
 </tr>
 <tr class="even">
 <td><p>DEEP CAGE IMPACT in TOYAMA</p></td>
@@ -825,30 +825,30 @@
 <td><p>DEEP CAGE IMPACT 2011 in TOKYO</p></td>
 <td><p>2011年10月29日</p></td>
 <td><p><a href="../Page/ディファ有明.md" title="wikilink">ディファ有明</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/江東区" title="wikilink">江東区</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/江東区" title="wikilink">江東区</a></p></td>
 </tr>
 <tr class="even">
 <td><p>DEEP CAGE IMPACT 2011 in HAMAMATSU</p></td>
 <td><p>2011年9月18日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アクトシティ浜松" title="wikilink">アクトシティ浜松</a></p></td>
+<td><p><a href="../Page/アクトシティ浜松.md" title="wikilink">アクトシティ浜松</a></p></td>
 <td><p><a href="../Page/静岡県.md" title="wikilink">静岡県</a><a href="https://ja.wikipedia.org/wiki/浜松市" title="wikilink">浜松市</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>DEEP CAGE IMPACT 2011 in Nagoya 公武堂ファイト</p></td>
 <td><p>2011年7月10日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Zepp" title="wikilink">Zepp Nagoya</a></p></td>
+<td><p><a href="../Page/Zepp.md" title="wikilink">Zepp Nagoya</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/愛知県" title="wikilink">愛知県</a><a href="../Page/名古屋市.md" title="wikilink">名古屋市</a></p></td>
 </tr>
 <tr class="even">
 <td><p>DEEP CAGE IMPACT 2010 in HAMAMATSU</p></td>
 <td><p>2010年9月19日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アクトシティ浜松" title="wikilink">アクトシティ浜松</a></p></td>
+<td><p><a href="../Page/アクトシティ浜松.md" title="wikilink">アクトシティ浜松</a></p></td>
 <td><p><a href="../Page/静岡県.md" title="wikilink">静岡県</a><a href="https://ja.wikipedia.org/wiki/浜松市" title="wikilink">浜松市</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>DEEP CAGE IMPACT 2010 in NAGOYA 公武堂ファイト</p></td>
 <td><p>2010年7月11日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Zepp" title="wikilink">Zepp Nagoya</a></p></td>
+<td><p><a href="../Page/Zepp.md" title="wikilink">Zepp Nagoya</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/愛知県" title="wikilink">愛知県</a><a href="../Page/名古屋市.md" title="wikilink">名古屋市</a></p></td>
 </tr>
 <tr class="even">
@@ -861,7 +861,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/DEEP_CAGE_IMPACT_2009" title="wikilink">DEEP CAGE IMPACT 2009</a></p></td>
 <td><p>2009年12月19日</p></td>
 <td><p><a href="../Page/ディファ有明.md" title="wikilink">ディファ有明</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/江東区" title="wikilink">江東区</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/江東区" title="wikilink">江東区</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -894,7 +894,7 @@
 <td><p>clubDEEP 八王子</p></td>
 <td><p>2010年7月27日</p></td>
 <td><p><a href="../Page/京王プラザホテル.md" title="wikilink">京王プラザホテル</a>八王子</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/八王子市" title="wikilink">八王子市</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/八王子市" title="wikilink">八王子市</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>clubDEEP 東京</p></td>
@@ -924,7 +924,7 @@
 <td><p>clubDEEP 京都</p></td>
 <td><p>2009年11月2日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/京都テルサホール" title="wikilink">京都テルサホール</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/京都府" title="wikilink">京都府</a><a href="../Page/京都市.md" title="wikilink">京都市</a></p></td>
+<td><p><a href="../Page/京都府.md" title="wikilink">京都府</a><a href="../Page/京都市.md" title="wikilink">京都市</a></p></td>
 </tr>
 <tr class="even">
 <td><p>clubDEEP 八王子</p></td>
@@ -947,7 +947,7 @@
 <tr class="odd">
 <td><p>clubDEEP 浜松</p></td>
 <td><p>2008年9月28日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アクトシティ浜松" title="wikilink">アクトシティ浜松</a></p></td>
+<td><p><a href="../Page/アクトシティ浜松.md" title="wikilink">アクトシティ浜松</a></p></td>
 <td><p><a href="../Page/静岡県.md" title="wikilink">静岡県</a><a href="https://ja.wikipedia.org/wiki/浜松市" title="wikilink">浜松市</a></p></td>
 </tr>
 <tr class="even">
@@ -965,7 +965,7 @@
 <tr class="even">
 <td><p>clubDEEP 名古屋 in Nagoya MB3z IMPACT</p></td>
 <td><p>2008年6月29日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Zepp" title="wikilink">Zepp Nagoya</a></p></td>
+<td><p><a href="../Page/Zepp.md" title="wikilink">Zepp Nagoya</a></p></td>
 <td><p>愛知県名古屋市</p></td>
 </tr>
 <tr class="odd">
@@ -995,14 +995,14 @@
 <tr class="odd">
 <td><p>clubDEEP 金沢</p></td>
 <td><p>2007年12月9日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/石川県産業展示館" title="wikilink">石川県産業展示館</a></p></td>
+<td><p><a href="../Page/石川県産業展示館.md" title="wikilink">石川県産業展示館</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/石川県" title="wikilink">石川県</a><a href="https://ja.wikipedia.org/wiki/金沢市" title="wikilink">金沢市</a></p></td>
 </tr>
 <tr class="even">
 <td><p>clubDEEP 仙台</p></td>
 <td><p>2007年10月28日</p></td>
 <td><p>Zepp Sendai</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/宮城県" title="wikilink">宮城県</a><a href="https://ja.wikipedia.org/wiki/仙台市" title="wikilink">仙台市</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/宮城県" title="wikilink">宮城県</a><a href="../Page/仙台市.md" title="wikilink">仙台市</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>clubDEEP 浜松</p></td>
@@ -1098,7 +1098,7 @@
 <td><p>clubDEEP 福岡 天下一祭り</p></td>
 <td><p>2005年4月10日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/紫水会館イベントホール" title="wikilink">紫水会館イベントホール</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a><a href="https://ja.wikipedia.org/wiki/北九州市" title="wikilink">北九州市</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a><a href="https://ja.wikipedia.org/wiki/北九州市" title="wikilink">北九州市</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>clubDEEP 富山 -野蛮人祭り1-</p></td>
@@ -1110,7 +1110,7 @@
 <td><p>clubDEEP 長南祭り</p></td>
 <td><p>2004年10月3日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/三川町民体育館" title="wikilink">三川町民体育館</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山形県" title="wikilink">山形県</a><a href="https://ja.wikipedia.org/wiki/三川町" title="wikilink">三川町</a></p></td>
+<td><p><a href="../Page/山形県.md" title="wikilink">山形県</a><a href="../Page/三川町.md" title="wikilink">三川町</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>clubDEEP 福岡 Team Roken祭り</p></td>
@@ -1121,14 +1121,14 @@
 <tr class="even">
 <td><p>clubDEEP 大阪</p></td>
 <td><p>2003年12月7日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フェスティバルゲート" title="wikilink">デルフィン・アリーナ</a></p></td>
+<td><p><a href="../Page/フェスティバルゲート.md" title="wikilink">デルフィン・アリーナ</a></p></td>
 <td><p>大阪府大阪市</p></td>
 </tr>
 <tr class="odd">
 <td><p>clubDEEP 4th 西調布</p></td>
 <td><p>2003年9月15日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/U-FILE_CAMP#西調布格闘技アリーナ" title="wikilink">西調布格闘技アリーナ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a>調布市</p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a>調布市</p></td>
 </tr>
 <tr class="even">
 <td><p>clubDEEP 3rd in OZON</p></td>
@@ -1173,13 +1173,13 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/DEEP_DREAM_IMPACT_2014_〜大晦日SPECIAL〜" title="wikilink">DEEP DREAM IMPACT 2014 〜大晦日SPECIAL〜</a></p></td>
 <td><p>2014年12月31日</p></td>
 <td><p><a href="../Page/さいたまスーパーアリーナ.md" title="wikilink">さいたまスーパーアリーナ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/文京区" title="wikilink">文京区</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/文京区" title="wikilink">文京区</a></p></td>
 </tr>
 <tr class="even">
 <td><p>DEEP HALEO IMPACT 〜三崎和雄引退セレモニー〜</p></td>
 <td><p>2012年12月22日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/後楽園ホール" title="wikilink">後楽園ホール</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/文京区" title="wikilink">文京区</a></p></td>
+<td><p><a href="../Page/後楽園ホール.md" title="wikilink">後楽園ホール</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/文京区" title="wikilink">文京区</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>DEEP OSAKA IMPACT</p></td>
@@ -1215,7 +1215,7 @@
 <tr class="even">
 <td><p>DEEP KICK 2</p></td>
 <td><p>2009年12月23日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大阪府立体育会館" title="wikilink">大阪府立体育会館</a>第2競技場</p></td>
+<td><p><a href="../Page/大阪府立体育会館.md" title="wikilink">大阪府立体育会館</a>第2競技場</p></td>
 <td><p>大阪府大阪市</p></td>
 </tr>
 <tr class="odd">
@@ -1275,7 +1275,7 @@
 <tr class="even">
 <td><p>新春!DEEP&amp;CMAファン感謝祭2009</p></td>
 <td><p>2009年1月16日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/後楽園ホール" title="wikilink">後楽園ホール</a></p></td>
+<td><p><a href="../Page/後楽園ホール.md" title="wikilink">後楽園ホール</a></p></td>
 <td><p>東京都<a href="https://ja.wikipedia.org/wiki/文京区" title="wikilink">文京区</a></p></td>
 </tr>
 <tr class="odd">
@@ -1378,7 +1378,7 @@
 <td><p>DEEP X 2007</p></td>
 <td><p>2007年6月17日</p></td>
 <td><p>新宿FACE</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/新宿区" title="wikilink">新宿区</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/新宿区" title="wikilink">新宿区</a></p></td>
 </tr>
 <tr class="even">
 <td><p>おやじDEEP</p></td>

@@ -20,13 +20,13 @@
 
 1.  [independent](../Page/H_\(シングル\).md "wikilink") "Europop Mix"
       -
-        Remixed by [Dave Rodgers](https://ja.wikipedia.org/wiki/デイブ・ロジャース "wikilink") & Sandro Oliva
+        Remixed by [Dave Rodgers](../Page/デイブ・ロジャース.md "wikilink") & Sandro Oliva
 2.  [WE WISH](../Page/RAINBOW_\(浜崎あゆみのアルバム\).md "wikilink") "Starlight Mix"
       -
         Remixed by Sergio Dall'ora & Luca Degani
 3.  [Dearest](../Page/Dearest_\(浜崎あゆみの曲\).md "wikilink") "Sentimental Euro Mix"
       -
-        Remixed by [Laurent Newfield](https://ja.wikipedia.org/wiki/ローラン・ジェルメッティ "wikilink")
+        Remixed by [Laurent Newfield](../Page/ローラン・ジェルメッティ.md "wikilink")
 4.  [July 1st](../Page/H_\(シングル\).md "wikilink") "A Eurobeat Mix"
       -
         Remixed by Sergio Dall'ora & Luca Degani
@@ -130,7 +130,7 @@
 1.  Free & Easy "Huge Heavenly Mix"
       -
         remixed by Huge
-2.  Real me "[RAM RIDER](https://ja.wikipedia.org/wiki/RAM_RIDER "wikilink") REMIX"
+2.  Real me "[RAM RIDER](../Page/RAM_RIDER.md "wikilink") REMIX"
       -
         remixed by RAM RIDER
 3.  everywhere nowhere "[NEWDEAL](https://ja.wikipedia.org/wiki/Newdeal "wikilink") REMIX"

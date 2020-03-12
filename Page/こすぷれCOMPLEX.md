@@ -3,7 +3,7 @@
 
 『**こすぷれCOMPLEX**』（こすぷれコンプレックス）は、[OVA](../Page/OVA.md "wikilink")作品。2002年5月に第1巻が発売された。全3巻。
 
-こすぷれ甲子園を目指すコスプレ同好会の面々による[ギャグアニメ](https://ja.wikipedia.org/wiki/ギャグアニメ "wikilink")作品。作中では登場人物が[コスプレ](../Page/コスプレ.md "wikilink")を披露するのを始め、様々な[パロディ](https://ja.wikipedia.org/wiki/パロディ "wikilink")が鏤められている。また、[エンディングアニメーション](https://ja.wikipedia.org/wiki/エンディングアニメーション "wikilink")では何人もの実際のコスプレイヤー達のコスプレ姿を見ることができる。
+こすぷれ甲子園を目指すコスプレ同好会の面々による[ギャグアニメ](../Page/ギャグアニメ.md "wikilink")作品。作中では登場人物が[コスプレ](../Page/コスプレ.md "wikilink")を披露するのを始め、様々な[パロディ](../Page/パロディ.md "wikilink")が鏤められている。また、[エンディングアニメーション](../Page/エンディングアニメーション.md "wikilink")では何人もの実際のコスプレイヤー達のコスプレ姿を見ることができる。
 
 ## ストーリー
 
@@ -16,11 +16,11 @@
 ## 登場キャラクター
 
   - 長谷川チャコ
-    [声](../Page/声優.md "wikilink") - [野川さくら](https://ja.wikipedia.org/wiki/野川さくら "wikilink")
+    [声](../Page/声優.md "wikilink") - [野川さくら](../Page/野川さくら.md "wikilink")
   - デルモ
     声 - [釘宮理恵](https://ja.wikipedia.org/wiki/釘宮理恵 "wikilink")
   - 今井まりあ
-    声 - [千葉紗子](https://ja.wikipedia.org/wiki/千葉紗子 "wikilink")
+    声 - [千葉紗子](../Page/千葉紗子.md "wikilink")
   - 今井あてな
     声 - [清水愛](../Page/清水愛.md "wikilink")
   - 青島麗華
@@ -28,45 +28,45 @@
   - ジェニー・マテル
     声 - [渡辺明乃](../Page/渡辺明乃.md "wikilink")
   - 万代五郎
-    声 - [千葉進歩](https://ja.wikipedia.org/wiki/千葉進歩 "wikilink")
+    声 - [千葉進歩](../Page/千葉進歩.md "wikilink")
   - 田宮耕介
     声 - [櫻井孝宏](../Page/櫻井孝宏.md "wikilink")
   - 有井幸子
-    声 - [増田ゆき](https://ja.wikipedia.org/wiki/増田ゆき "wikilink")
+    声 - [増田ゆき](../Page/増田ゆき.md "wikilink")
   - イケブクロウ
-    声 - [小野健一](https://ja.wikipedia.org/wiki/小野健一_\(声優\) "wikilink")
+    声 - [小野健一](../Page/小野健一_\(声優\).md "wikilink")
   - 鷹良蘭子
-    声 - [井上喜久子](https://ja.wikipedia.org/wiki/井上喜久子 "wikilink")
+    声 - [井上喜久子](../Page/井上喜久子.md "wikilink")
   - 富井つかさ
     声 - [浅野真澄](../Page/浅野真澄.md "wikilink")
 
 ## スタッフ
 
   - 企画 - [有栖川ケイ](https://ja.wikipedia.org/wiki/有栖川ケイ "wikilink")
-  - 原作 - [六月十三](https://ja.wikipedia.org/wiki/六月十三 "wikilink")
+  - 原作 - [六月十三](../Page/六月十三.md "wikilink")
   - 監督 - [木村真一郎](../Page/木村真一郎.md "wikilink")
-  - シリーズ構成 - [木村暢](https://ja.wikipedia.org/wiki/木村暢 "wikilink")
-  - キャラクターデザイン・総作画監督 - [平田雄三](https://ja.wikipedia.org/wiki/平田雄三 "wikilink")
+  - シリーズ構成 - [木村暢](../Page/木村暢.md "wikilink")
+  - キャラクターデザイン・総作画監督 - [平田雄三](../Page/平田雄三.md "wikilink")
   - プロップデザイン - [森木靖泰](https://ja.wikipedia.org/wiki/森木靖泰 "wikilink")
   - 美術監督 - 永吉幸樹
   - 色彩設定 - 植木義則
   - 撮影監督 - 岡崎英夫
   - 編集 - 秋山涼路
   - 音楽 - 平岩嘉信
-  - 音楽プロデューサー - [井上俊次](https://ja.wikipedia.org/wiki/井上俊次 "wikilink")
+  - 音楽プロデューサー - [井上俊次](../Page/井上俊次.md "wikilink")
   - 音響監督 - [高橋秀雄](https://ja.wikipedia.org/wiki/高橋秀雄_\(音響監督\) "wikilink")
   - チーフプロデューサー - [伊藤敦](https://ja.wikipedia.org/wiki/伊藤敦_\(プロデューサー\) "wikilink")（第2巻から）
   - 製作 - 酒匂暢彦、島村達夫、鈴木径男、[安田猛](https://ja.wikipedia.org/wiki/安田猛_\(角川書店\) "wikilink")
   - プロデューサー - 伊藤敦（第1巻）、[蜂屋誠一](https://ja.wikipedia.org/wiki/蜂屋誠一 "wikilink")（第2巻から）、冨岡重明、武智恒雄、福井政文
   - アニメーションプロデューサー - 加藤長輝
   - 企画プロデュース - [ワンダーファーム](https://ja.wikipedia.org/wiki/ワンダーファーム "wikilink")
-  - アニメーション制作 - [TNK](https://ja.wikipedia.org/wiki/ティー・エヌ・ケー "wikilink")
-  - 製作 - こすぷれCOMPLEX製作委員会（[角川書店](../Page/角川書店.md "wikilink")、[ビームエンタテインメント](https://ja.wikipedia.org/wiki/ハピネット "wikilink")、[クロックワークス](https://ja.wikipedia.org/wiki/クロックワークス "wikilink")、[イマジカ](https://ja.wikipedia.org/wiki/IMAGICA "wikilink")、ティー・エヌ・ケー）
+  - アニメーション制作 - [TNK](../Page/ティー・エヌ・ケー.md "wikilink")
+  - 製作 - こすぷれCOMPLEX製作委員会（[角川書店](../Page/角川書店.md "wikilink")、[ビームエンタテインメント](../Page/ハピネット.md "wikilink")、[クロックワークス](../Page/クロックワークス.md "wikilink")、[イマジカ](https://ja.wikipedia.org/wiki/IMAGICA "wikilink")、ティー・エヌ・ケー）
 
 ## 主題歌
 
   - オープニングテーマ「萌えてこそ・コスプレ」
-    作詞 - [六月十三](https://ja.wikipedia.org/wiki/六月十三 "wikilink") / 作曲 - 千沢仁 / 編曲 - [須藤賢一](https://ja.wikipedia.org/wiki/須藤賢一 "wikilink")
+    作詞 - [六月十三](../Page/六月十三.md "wikilink") / 作曲 - 千沢仁 / 編曲 - [須藤賢一](https://ja.wikipedia.org/wiki/須藤賢一 "wikilink")
     歌 - 長谷川チャコ（野川さくら）、デルモ（釘宮理恵）、今井まりあ（千葉紗子）、今井あてな（清水愛）、ジェニー・マテル（渡辺明乃）、青島麗華（たかはし智秋）
   - エンディングテーマ「コスプレ音頭」
     作詞 - 六月十三 / 作曲 - 宮島律子 / 編曲 - 須藤賢一
@@ -88,15 +88,15 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>コスプレ部誕生！</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/木村暢" title="wikilink">木村暢</a></p></td>
+<td><p><a href="../Page/木村暢.md" title="wikilink">木村暢</a></p></td>
 <td><p><a href="../Page/木村真一郎.md" title="wikilink">木村真一郎</a></p></td>
 <td><p>木村真一郎<br />
-<a href="https://ja.wikipedia.org/wiki/長井龍雪" title="wikilink">長井龍雪</a></p></td>
+<a href="../Page/長井龍雪.md" title="wikilink">長井龍雪</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
 <td><p>魅惑の夏合宿！！</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大畑清隆" title="wikilink">大畑清隆</a></p></td>
+<td><p><a href="../Page/大畑清隆.md" title="wikilink">大畑清隆</a></p></td>
 <td><p>寺岡巌</p></td>
 <td></td>
 </tr>
@@ -123,7 +123,7 @@
 
 ### 萌えてこそ・コスプレ
 
-「**萌えてこそ・コスプレ**」（）は、長谷川チャコ（[野川さくら](https://ja.wikipedia.org/wiki/野川さくら "wikilink")）、デルモ（[釘宮理恵](https://ja.wikipedia.org/wiki/釘宮理恵 "wikilink")）、今井まりあ（[千葉紗子](https://ja.wikipedia.org/wiki/千葉紗子 "wikilink")）、今井あてな（[清水愛](../Page/清水愛.md "wikilink")）、ジェニー・マテル（[渡辺明乃](../Page/渡辺明乃.md "wikilink")）、青島麗華（[たかはし智秋](https://ja.wikipedia.org/wiki/たかはし智秋 "wikilink")）の1枚目の[シングル](../Page/シングル.md "wikilink")。2002年5月22日に[Lantis](https://ja.wikipedia.org/wiki/Lantis "wikilink")から発売された。
+「**萌えてこそ・コスプレ**」（）は、長谷川チャコ（[野川さくら](../Page/野川さくら.md "wikilink")）、デルモ（[釘宮理恵](https://ja.wikipedia.org/wiki/釘宮理恵 "wikilink")）、今井まりあ（[千葉紗子](../Page/千葉紗子.md "wikilink")）、今井あてな（[清水愛](../Page/清水愛.md "wikilink")）、ジェニー・マテル（[渡辺明乃](../Page/渡辺明乃.md "wikilink")）、青島麗華（[たかはし智秋](https://ja.wikipedia.org/wiki/たかはし智秋 "wikilink")）の1枚目の[シングル](../Page/シングル.md "wikilink")。2002年5月22日に[Lantis](https://ja.wikipedia.org/wiki/Lantis "wikilink")から発売された。
 
   - 収録曲
 

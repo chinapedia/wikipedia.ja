@@ -1,7 +1,7 @@
 > この記事は[MY STORY Classical](https://ja.wikipedia.org/wiki/MY_STORY_Classical)から翻訳されています。
 
 
-『**MY STORY Classical**』（マイ・ストーリー・クラシカル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の[リミックス](../Page/リミックス.md "wikilink")・[アルバム](../Page/アルバム.md "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月24日](../Page/3月24日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+『**MY STORY Classical**』（マイ・ストーリー・クラシカル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の[リミックス](../Page/リミックス.md "wikilink")・[アルバム](../Page/アルバム.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 解説
 
@@ -9,7 +9,7 @@
 
 本作は、6thオリジナルアルバム『[MY STORY](../Page/MY_STORY.md "wikilink")』の収録曲を[クラシック調にアレンジした作品で](../Page/クラシック音楽.md "wikilink")、[佐渡裕](../Page/佐渡裕.md "wikilink")指揮の[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")、[ラムルー管弦楽団](https://ja.wikipedia.org/wiki/ラムルー管弦楽団 "wikilink")が演奏を担当している。
 
-[ボーナス・トラック](https://ja.wikipedia.org/wiki/ボーナス・トラック "wikilink")の「[A Song is born](https://ja.wikipedia.org/wiki/a_song_is_born "wikilink")」は、本作の発売日に行われた[日本国際博覧会](../Page/2005年日本国際博覧会.md "wikilink")[開会式にて](https://ja.wikipedia.org/wiki/愛知万博の開会式 "wikilink")、[EXPOスーパーワールドオーケストラ](https://ja.wikipedia.org/wiki/EXPOスーパーワールドオーケストラ "wikilink")（佐渡裕指揮）とともに披露した、オーケストラアレンジの[インストゥルメンタルバージョンである](https://ja.wikipedia.org/wiki/オフヴォーカル "wikilink")。
+[ボーナス・トラック](../Page/ボーナス・トラック.md "wikilink")の「[A Song is born](https://ja.wikipedia.org/wiki/a_song_is_born "wikilink")」は、本作の発売日に行われた[日本国際博覧会](../Page/2005年日本国際博覧会.md "wikilink")[開会式にて](../Page/愛知万博の開会式.md "wikilink")、[EXPOスーパーワールドオーケストラ](https://ja.wikipedia.org/wiki/EXPOスーパーワールドオーケストラ "wikilink")（佐渡裕指揮）とともに披露した、オーケストラアレンジの[インストゥルメンタルバージョンである](https://ja.wikipedia.org/wiki/オフヴォーカル "wikilink")。
 
 ## 収録曲
 

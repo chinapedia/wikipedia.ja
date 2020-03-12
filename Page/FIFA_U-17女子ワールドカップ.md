@@ -1,11 +1,11 @@
 > この記事は[FIFA U-17](https://ja.wikipedia.org/wiki/FIFA_U-17)から翻訳されています。
 
 
-**FIFA U-17女子ワールドカップ**（）は、[国際サッカー連盟](../Page/国際サッカー連盟.md "wikilink")（FIFA）が主催する、17歳以下の[ナショナルチーム](https://ja.wikipedia.org/wiki/ナショナルチーム "wikilink")による[女子サッカー](https://ja.wikipedia.org/wiki/女子サッカー "wikilink")の[世界選手権大会](https://ja.wikipedia.org/wiki/世界選手権大会 "wikilink")である。
+**FIFA U-17女子ワールドカップ**（）は、[国際サッカー連盟](../Page/国際サッカー連盟.md "wikilink")（FIFA）が主催する、17歳以下の[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[女子サッカー](../Page/女子サッカー.md "wikilink")の[世界選手権大会](../Page/世界選手権大会.md "wikilink")である。
 
 ## 概要
 
-[2002年](../Page/2002年.md "wikilink")に開催された[第1回U-19女子世界選手権](https://ja.wikipedia.org/wiki/2002_FIFA_U-19女子世界選手権 "wikilink")（現・[FIFA U-20女子ワールドカップ](../Page/FIFA_U-20女子ワールドカップ.md "wikilink")）の成功から、第2の世代別世界大会の創設が提案された。すでに開催されている男子の[FIFA U-17ワールドカップの女子版として](https://ja.wikipedia.org/wiki/FIFA_U-17ワールドカップ "wikilink")[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に本大会が創設され、以降、FIFA U-20女子ワールドカップと同様に2年に1度の[西暦](../Page/西暦.md "wikilink")[偶数](../Page/偶数.md "wikilink")[年](../Page/年.md "wikilink")に開催されている。
+[2002年](../Page/2002年.md "wikilink")に開催された[第1回U-19女子世界選手権](https://ja.wikipedia.org/wiki/2002_FIFA_U-19女子世界選手権 "wikilink")（現・[FIFA U-20女子ワールドカップ](../Page/FIFA_U-20女子ワールドカップ.md "wikilink")）の成功から、第2の世代別世界大会の創設が提案された。すでに開催されている男子の[FIFA U-17ワールドカップの女子版として](../Page/FIFA_U-17ワールドカップ.md "wikilink")[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に本大会が創設され、以降、FIFA U-20女子ワールドカップと同様に2年に1度の[西暦](../Page/西暦.md "wikilink")[偶数](../Page/偶数.md "wikilink")[年](../Page/年.md "wikilink")に開催されている。
 
 ## 各大陸代表選出大会
 
@@ -20,7 +20,7 @@
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/AFC_U-16女子選手権" title="wikilink">AFC U-16女子選手権</a></p></td>
+<td><p><a href="../Page/AFC_U-16女子選手権.md" title="wikilink">AFC U-16女子選手権</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -889,7 +889,7 @@
 ## 関連項目
 
   - [FIFA U-20女子ワールドカップ](../Page/FIFA_U-20女子ワールドカップ.md "wikilink")
-  - [FIFA U-17ワールドカップ](https://ja.wikipedia.org/wiki/FIFA_U-17ワールドカップ "wikilink")
+  - [FIFA U-17ワールドカップ](../Page/FIFA_U-17ワールドカップ.md "wikilink")
 
 ## 外部リンク
 

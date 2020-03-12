@@ -62,10 +62,10 @@
 
 ## タイアップ
 
-| 曲名                    | タイアップ                                                                                                                                                                                                                                                                                                         | 収録作品                                                               |
-| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| Just keep on dreaming | [読売テレビ](../Page/讀賣テレビ放送.md "wikilink")・[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[情報ライブ ミヤネ屋](https://ja.wikipedia.org/wiki/情報ライブ_ミヤネ屋 "wikilink")』エンディングテーマ<ref>{{cite web|url=<https://egfc.jp/news-detail/3525/> |title=【Dream Shizuka】 新曲『Just keep on dreaming』が4月からの読売テレビ・日本テレビ系「情報ライブ ミヤネ屋」エンディングテーマに決定 | |publisher=E.G.F.C. |date=2019-04-01|accessdate=2019-04-01}}</ref> |
-| Paper Dream           | [HBC北海道放送](https://ja.wikipedia.org/wiki/HBC北海道放送 "wikilink")「音ドキッ！」 6月度のオープニング曲\[18\]                                                                                                                                                                                                                        |                                                                    |
+| 曲名                    | タイアップ                                                                                                                                                                                                                                                                                      | 収録作品                                                               |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------ |
+| Just keep on dreaming | [読売テレビ](../Page/讀賣テレビ放送.md "wikilink")・[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[情報ライブ ミヤネ屋](../Page/情報ライブ_ミヤネ屋.md "wikilink")』エンディングテーマ<ref>{{cite web|url=<https://egfc.jp/news-detail/3525/> |title=【Dream Shizuka】 新曲『Just keep on dreaming』が4月からの読売テレビ・日本テレビ系「情報ライブ ミヤネ屋」エンディングテーマに決定 | |publisher=E.G.F.C. |date=2019-04-01|accessdate=2019-04-01}}</ref> |
+| Paper Dream           | [HBC北海道放送](https://ja.wikipedia.org/wiki/HBC北海道放送 "wikilink")「音ドキッ！」 6月度のオープニング曲\[18\]                                                                                                                                                                                                     |                                                                    |
 
 ## ライブ
 
@@ -115,34 +115,34 @@ E.G. POWER 2019 〜POWER to the DOME〜
 
 <div class="NavContent" style="text-align: left;">
 
-  - 2月22日：大阪・[オリックス劇場](https://ja.wikipedia.org/wiki/オリックス劇場 "wikilink")
-  - 2月24日：京都・[ロームシアター京都](https://ja.wikipedia.org/wiki/ロームシアター京都 "wikilink") メインホール
-  - 3月01日：石川・[金沢歌劇座](https://ja.wikipedia.org/wiki/金沢歌劇座 "wikilink")
+  - 2月22日：大阪・[オリックス劇場](../Page/オリックス劇場.md "wikilink")
+  - 2月24日：京都・[ロームシアター京都](../Page/ロームシアター京都.md "wikilink") メインホール
+  - 3月01日：石川・[金沢歌劇座](../Page/金沢歌劇座.md "wikilink")
   - 3月03日：長野・[キッセイ文化ホール](../Page/長野県松本文化会館.md "wikilink")
-  - 3月05日：栃木・[宇都宮市文化会館](https://ja.wikipedia.org/wiki/宇都宮市文化会館 "wikilink")
-  - 3月09日：福井・[フェニックス・プラザ](https://ja.wikipedia.org/wiki/フェニックス・プラザ "wikilink") 大ホール
+  - 3月05日：栃木・[宇都宮市文化会館](../Page/宇都宮市文化会館.md "wikilink")
+  - 3月09日：福井・[フェニックス・プラザ](../Page/フェニックス・プラザ.md "wikilink") 大ホール
   - 3月14日：静岡・[静岡市民文化会館](../Page/静岡市民文化会館.md "wikilink") 大ホール
   - 3月17日：三重・[三重県文化会館](https://ja.wikipedia.org/wiki/三重県総合文化センター "wikilink") 大ホール
-  - 3月22日：宮城・[仙台サンプラザ](https://ja.wikipedia.org/wiki/仙台サンプラザ "wikilink")ホール
-  - 3月24日：山形・[やまぎんホール](https://ja.wikipedia.org/wiki/山形県県民会館 "wikilink")
-  - 3月27日、3月28日：東京・[NHKホール](https://ja.wikipedia.org/wiki/NHKホール "wikilink")
+  - 3月22日：宮城・[仙台サンプラザ](../Page/仙台サンプラザ.md "wikilink")ホール
+  - 3月24日：山形・[やまぎんホール](../Page/山形県県民会館.md "wikilink")
+  - 3月27日、3月28日：東京・[NHKホール](../Page/NHKホール.md "wikilink")
   - 3月30日：山梨・[コラニー文化ホール](../Page/山梨県立県民文化ホール.md "wikilink")
-  - 3月31日：新潟・[新潟県民会館](https://ja.wikipedia.org/wiki/新潟県民会館 "wikilink")
+  - 3月31日：新潟・[新潟県民会館](../Page/新潟県民会館.md "wikilink")
   - 4月02日、4月03日：大阪・オリックス劇場
   - 4月05日：滋賀・[滋賀県立芸術劇場 びわ湖ホール](../Page/滋賀県立芸術劇場_びわ湖ホール.md "wikilink")
   - 4月06日：山口・[周南市文化会館](https://ja.wikipedia.org/wiki/周南市文化会館 "wikilink")
   - 4月08日：広島・[ふくやま芸術文化ホール](../Page/ふくやま芸術文化ホール.md "wikilink") リーデンローズ 大ホール
   - 4月11日：愛媛・[松山市民会館](../Page/松山市民会館.md "wikilink")
-  - 4月13日：岩手・[岩手県民会館](https://ja.wikipedia.org/wiki/岩手県民会館 "wikilink")
-  - 4月14日：青森・[リンクステーションホール青森](https://ja.wikipedia.org/wiki/青森市文化会館 "wikilink")
+  - 4月13日：岩手・[岩手県民会館](../Page/岩手県民会館.md "wikilink")
+  - 4月14日：青森・[リンクステーションホール青森](../Page/青森市文化会館.md "wikilink")
   - 4月16日：埼玉・[川口総合文化センター](../Page/川口総合文化センター.md "wikilink") リリア
-  - 4月20日：佐賀・[佐賀市文化会館](https://ja.wikipedia.org/wiki/佐賀市文化会館 "wikilink")
+  - 4月20日：佐賀・[佐賀市文化会館](../Page/佐賀市文化会館.md "wikilink")
   - 4月21日：大分・[iichiko グランシアタ](../Page/大分県立総合文化センター.md "wikilink")
-  - 4月24日、4月25日：福岡・[福岡サンパレス](https://ja.wikipedia.org/wiki/福岡サンパレス "wikilink")
-  - 5月07日、5月08日：愛知・[名古屋国際会議場](https://ja.wikipedia.org/wiki/名古屋国際会議場 "wikilink") センチュリーホール
+  - 4月24日、4月25日：福岡・[福岡サンパレス](../Page/福岡サンパレス.md "wikilink")
+  - 5月07日、5月08日：愛知・[名古屋国際会議場](../Page/名古屋国際会議場.md "wikilink") センチュリーホール
   - 5月10日、5月11日：千葉・[市川市文化会館](../Page/市川市文化会館.md "wikilink") 大ホール
   - 5月17日、5月18日：北海道・[札幌文化芸術劇場](https://ja.wikipedia.org/wiki/札幌文化芸術劇場 "wikilink") hitaru
-  - 5月25日：神奈川・[パシフィコ横浜](https://ja.wikipedia.org/wiki/横浜国際平和会議場 "wikilink") 国立大ホール
+  - 5月25日：神奈川・[パシフィコ横浜](../Page/横浜国際平和会議場.md "wikilink") 国立大ホール
 
 </div>
 

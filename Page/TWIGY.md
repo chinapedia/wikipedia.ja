@@ -5,7 +5,7 @@
 
 ## 来歴
 
-[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")、大学教員の父と弁護士事務所勤務の母のもと、兄、姉に次ぐ三人兄弟の末っ子として三重県に生誕する\[1\]。 小学校6年生のときに三重県から愛知県名古屋市に引っ越す\[2\]。 [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")、[刃頭](https://ja.wikipedia.org/wiki/刃頭 "wikilink")と共にBEATKICKSを結成し、[名古屋を中心に活動](https://ja.wikipedia.org/wiki/名古屋圏 "wikilink")。 18歳の頃、スティーヴィー・ワンダーの日本ツアーに参加し、楽曲「Each Other's Throat」に合わせて日本語でラップし、共演する\[3\]。 [1992年](../Page/1992年.md "wikilink")に活動の場を東京へ移し、[MURO](https://ja.wikipedia.org/wiki/MURO "wikilink")や同郷のPHらと[MICROPHONE PAGERを結成](https://ja.wikipedia.org/wiki/MICROPHONE_PAGER "wikilink")。[1994年](../Page/1994年.md "wikilink")には、[YOU THE ROCK☆](https://ja.wikipedia.org/wiki/YOU_THE_ROCK☆ "wikilink")、[RINO LATINA II](https://ja.wikipedia.org/wiki/RINO "wikilink")、[G.K.MARYAN](https://ja.wikipedia.org/wiki/G.K.MARYAN "wikilink")らとともに[雷を結成](https://ja.wikipedia.org/wiki/KAMINARI-KAZOKU. "wikilink")。翌[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に、LAMP EYEの「[証言](https://ja.wikipedia.org/wiki/証言_\(ヒップホップ\) "wikilink")」に参加。 1997年、ライブに来ていたムスリムの誘いを受け、イスラム教に改宗。ブランド・ヌビアンやラキムといったムスリムラッパーの影響もあった\[4\]。 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")9月9日、1stアルバム『AL-KHADIR』を発売。このアルバムはSPELLBOUND Recordsから発売された3枚の12インチシングル音源に、エントツレコーディングでの新録音源を加えた内容となっている。[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")でレコーディングされ、ハードコアラップの要素はあまり取り入れられず、自身の信仰する[イスラム教](https://ja.wikipedia.org/wiki/イスラム教 "wikilink")の教義に影響された歌詞と浮遊感のあるトラックが特徴的な作品。
+[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")、大学教員の父と弁護士事務所勤務の母のもと、兄、姉に次ぐ三人兄弟の末っ子として三重県に生誕する\[1\]。 小学校6年生のときに三重県から愛知県名古屋市に引っ越す\[2\]。 [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")、[刃頭](../Page/刃頭.md "wikilink")と共にBEATKICKSを結成し、[名古屋を中心に活動](https://ja.wikipedia.org/wiki/名古屋圏 "wikilink")。 18歳の頃、スティーヴィー・ワンダーの日本ツアーに参加し、楽曲「Each Other's Throat」に合わせて日本語でラップし、共演する\[3\]。 [1992年](../Page/1992年.md "wikilink")に活動の場を東京へ移し、[MURO](../Page/MURO.md "wikilink")や同郷のPHらと[MICROPHONE PAGERを結成](../Page/MICROPHONE_PAGER.md "wikilink")。[1994年](../Page/1994年.md "wikilink")には、[YOU THE ROCK☆](https://ja.wikipedia.org/wiki/YOU_THE_ROCK☆ "wikilink")、[RINO LATINA II](https://ja.wikipedia.org/wiki/RINO "wikilink")、[G.K.MARYAN](../Page/G.K.MARYAN.md "wikilink")らとともに[雷を結成](../Page/KAMINARI-KAZOKU..md "wikilink")。翌[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に、LAMP EYEの「[証言](../Page/証言_\(ヒップホップ\).md "wikilink")」に参加。 1997年、ライブに来ていたムスリムの誘いを受け、イスラム教に改宗。ブランド・ヌビアンやラキムといったムスリムラッパーの影響もあった\[4\]。 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")9月9日、1stアルバム『AL-KHADIR』を発売。このアルバムはSPELLBOUND Recordsから発売された3枚の12インチシングル音源に、エントツレコーディングでの新録音源を加えた内容となっている。[ニューヨーク](../Page/ニューヨーク.md "wikilink")でレコーディングされ、ハードコアラップの要素はあまり取り入れられず、自身の信仰する[イスラム教](../Page/イスラム教.md "wikilink")の教義に影響された歌詞と浮遊感のあるトラックが特徴的な作品。
 
 [2000年](../Page/2000年.md "wikilink")2月23日、2ndアルバム『SEVEN DIMENSIONS』を発売。**枯枝楽団**名義で自ら[サザン・ヒップホップ](https://ja.wikipedia.org/wiki/サザン・ヒップホップ "wikilink")に影響を受けた楽曲を製作。[2001年](../Page/2001年.md "wikilink")10月17日、3rdアルバム『The Legendary Mr.Clifton』を発売。[2002年](../Page/2002年.md "wikilink")9月11日、4thアルバム『余韻〜断編集〜』を発売。[くるり](../Page/くるり.md "wikilink")の[岸田繁](../Page/岸田繁.md "wikilink")や[小林克也](../Page/小林克也.md "wikilink")など多彩な客演を迎えた。本人曰く「壊れた」時期である。
 
@@ -15,7 +15,7 @@
 
 ## 人物
 
-アーティスト名である「**Twigy**」の部分の由来は、[アサ](https://ja.wikipedia.org/wiki/アサ "wikilink")の枝の繋木（ついぎ）、または[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[女優](../Page/俳優.md "wikilink")・[ツイッギー](https://ja.wikipedia.org/wiki/ツイッギー "wikilink")（Twiggy）のような華奢な体型から。 「**al Salaam**」の部分の由来は、自身が[イスラム教徒である事から](../Page/ムスリム.md "wikilink")、[イスラム教](https://ja.wikipedia.org/wiki/イスラム教 "wikilink")の挨拶の言葉「As-salamu alaykum」（[アッサラーム アライクム](https://ja.wikipedia.org/wiki/アッサラーム "wikilink")。「あなたがたの上に平安がありますように」の意味）を引用したもの。
+アーティスト名である「**Twigy**」の部分の由来は、[アサ](../Page/アサ.md "wikilink")の枝の繋木（ついぎ）、または[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[女優](../Page/俳優.md "wikilink")・[ツイッギー](../Page/ツイッギー.md "wikilink")（Twiggy）のような華奢な体型から。 「**al Salaam**」の部分の由来は、自身が[イスラム教徒である事から](../Page/ムスリム.md "wikilink")、[イスラム教](../Page/イスラム教.md "wikilink")の挨拶の言葉「As-salamu alaykum」（[アッサラーム アライクム](https://ja.wikipedia.org/wiki/アッサラーム "wikilink")。「あなたがたの上に平安がありますように」の意味）を引用したもの。
 
 ## ディスコグラフィ
 
@@ -58,8 +58,8 @@
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>希少情報 feat.<a href="https://ja.wikipedia.org/wiki/RINO_LATINA_II" title="wikilink">RINO</a>[3:57]（作詞：RINO・TWIGY／作曲・編曲：<a href="https://ja.wikipedia.org/wiki/DJ_YAS" title="wikilink">DJ YAS</a>）</li>
-<li>煙の拳 (KNOW MORE MORAL REMIX)[4:53]（編曲：<a href="https://ja.wikipedia.org/wiki/刃頭" title="wikilink">HAZU</a>）</li>
+<li>希少情報 feat.<a href="../Page/RINO_LATINA_II.md" title="wikilink">RINO</a>[3:57]（作詞：RINO・TWIGY／作曲・編曲：<a href="https://ja.wikipedia.org/wiki/DJ_YAS" title="wikilink">DJ YAS</a>）</li>
+<li>煙の拳 (KNOW MORE MORAL REMIX)[4:53]（編曲：<a href="../Page/刃頭.md" title="wikilink">HAZU</a>）</li>
 <li>煙の拳 (ORIGINAL MIX)[3:54]（作詞：TWIGY／作曲・編曲：DJ YAS）</li>
 <li>七日間[4:39]（作詞・作曲・編曲：TWIGY）</li>
 <li>希少情報 (INSTRUMENTAL)[3:55]</li>
@@ -91,9 +91,9 @@
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>このまま / TWIGY feat.<a href="https://ja.wikipedia.org/wiki/椎名純平" title="wikilink">椎名純平</a>[4:17]（作詞：TWIGY・椎名純平／作曲：TWIGY）</li>
+<li>このまま / TWIGY feat.<a href="../Page/椎名純平.md" title="wikilink">椎名純平</a>[4:17]（作詞：TWIGY・椎名純平／作曲：TWIGY）</li>
 <li>このまま＜Instrumental＞[4:17]</li>
-<li>一等賞 / TWIGY feat.<a href="https://ja.wikipedia.org/wiki/MACKA-CHIN" title="wikilink">MACKA-CHIN</a>,<a href="../Page/D.O.md" title="wikilink">D.O</a>&amp;Q[5:15]（作詞：TWIGY・MACKA-CHIN・D.O・Q／作曲：TWIGY）</li>
+<li>一等賞 / TWIGY feat.<a href="../Page/MACKA-CHIN.md" title="wikilink">MACKA-CHIN</a>,<a href="../Page/D.O.md" title="wikilink">D.O</a>&amp;Q[5:15]（作詞：TWIGY・MACKA-CHIN・D.O・Q／作曲：TWIGY）</li>
 <li>一等賞＜Instrumental＞[5:16]</li>
 <li>一等賞＜Screwed Out Mix＞Tribute to DJ SCREW[7:41]</li>
 </ol></td>
@@ -107,7 +107,7 @@
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>FREEDOM feat.<a href="https://ja.wikipedia.org/wiki/YOU_THE_ROCK★" title="wikilink">YOU THE ROCK★</a>,<a href="https://ja.wikipedia.org/wiki/Keyco" title="wikilink">Keyco</a>[4:32]（作詞：TWIGY・YOU THE ROCK★・Keyco／作曲：TWIGY・Keyco）
+<li>FREEDOM feat.<a href="https://ja.wikipedia.org/wiki/YOU_THE_ROCK★" title="wikilink">YOU THE ROCK★</a>,<a href="../Page/Keyco.md" title="wikilink">Keyco</a>[4:32]（作詞：TWIGY・YOU THE ROCK★・Keyco／作曲：TWIGY・Keyco）
 <ul>
 <li>NTV系「<a href="../Page/スポーツうるぐす.md" title="wikilink">スポーツうるぐす</a>」エンディングテーマ</li>
 </ul></li>
@@ -172,7 +172,7 @@
 <li>FINAL COUNTDOWN[3:23]</li>
 <li>水[2:13]</li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スタジオ・アルバム" title="wikilink">スタジオ・アルバム</a></p></td>
+<td><p><a href="../Page/スタジオ・アルバム.md" title="wikilink">スタジオ・アルバム</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -186,11 +186,11 @@
 <li>INTRODUCTION OF SEVEN DIMENSIONS[2:00]</li>
 <li>BIG PARTY[3:00]</li>
 <li>1 Minute of Fresh G.K.Funk[1:00]</li>
-<li>病む街 pt.2 ＜1/f MIX＞ feat.RINO,<a href="https://ja.wikipedia.org/wiki/MURO" title="wikilink">MURO</a>[3:00]</li>
+<li>病む街 pt.2 ＜1/f MIX＞ feat.RINO,<a href="../Page/MURO.md" title="wikilink">MURO</a>[3:00]</li>
 <li>今は昔[3:00]</li>
 <li>Starbuds Grande[1:00]</li>
 <li>a Moment of Twigy[1:00]</li>
-<li>GO! NIPPON feat.<a href="https://ja.wikipedia.org/wiki/OZROSAURUS" title="wikilink">MACCHO</a>,MACKA-CHIN,M.C.KHA-LA[5:00]</li>
+<li>GO! NIPPON feat.<a href="../Page/OZROSAURUS.md" title="wikilink">MACCHO</a>,MACKA-CHIN,M.C.KHA-LA[5:00]</li>
 <li>Represent[1:00]</li>
 <li>50m[1:00]</li>
 <li>金[5:00]</li>
@@ -203,7 +203,7 @@
 <li>もういいかい2000[4:00]</li>
 <li>希少情報 ＜HYDRAULIC FUNK MIX＞ feat.アフリカ・バンバータ[5:00]</li>
 <li>OUTRO[0:48]</li>
-<li>Player's Delight ＜NO LOOK PASS MIX＞ feat.<a href="https://ja.wikipedia.org/wiki/ZEEBRA" title="wikilink">ZEEBRA</a>,<a href="https://ja.wikipedia.org/wiki/DEV_LARGE" title="wikilink">DEV LARGE</a> -BONUS TRACK-[5:00]</li>
+<li>Player's Delight ＜NO LOOK PASS MIX＞ feat.<a href="https://ja.wikipedia.org/wiki/ZEEBRA" title="wikilink">ZEEBRA</a>,<a href="../Page/DEV_LARGE.md" title="wikilink">DEV LARGE</a> -BONUS TRACK-[5:00]</li>
 </ol></td>
 <td><p>スタジオ・アルバム</p></td>
 <td><p>オリコン50位</p></td>
@@ -221,13 +221,13 @@
 <li>七日間 (<a href="https://ja.wikipedia.org/wiki/DJ_KAORI" title="wikilink">DJ KAORI</a> REMIX)[3:00]</li>
 <li>希少情報 (DJ AMEKEN MIX)[3:00]</li>
 <li>HONEY (SO LONG MIX:枯枝楽団)[4:00]</li>
-<li>夜行列車 (<a href="https://ja.wikipedia.org/wiki/チボ・マット" title="wikilink">CIBOMATTOREMIX</a>:ホンダユカ)[4:00]</li>
+<li>夜行列車 (<a href="../Page/チボ・マット.md" title="wikilink">CIBOMATTOREMIX</a>:ホンダユカ)[4:00]</li>
 <li>GO!NIPPON feat.MACCHO,MACKA-CHIN,Kha-la (THE WISEGUYS REMIX:DJ TOUCHE)[4:00]</li>
 <li>今は昔 (風雲STORM RYDERS MIX:MASSA)[5:00]</li>
 <li>病む街 pt.2 (THE RZA REMIX:The RZA・アンド・PADRON)[4:00]</li>
 <li>もういいかい2001 (COMPANY FLOW REMIX:Mr.LEN)[4:00]</li>
 <li>LOVE ALIBABA (TE ADOPO MIX:枯枝楽団)[3:00]</li>
-<li>Tragicomic / <a href="../Page/DJ_KRUSH.md" title="wikilink">DJ KRUSH</a> feat.<a href="https://ja.wikipedia.org/wiki/ACO" title="wikilink">ACO</a>,TWIGY(BEYOND REAL MIX:DJスピナ)[4:00]</li>
+<li>Tragicomic / <a href="../Page/DJ_KRUSH.md" title="wikilink">DJ KRUSH</a> feat.<a href="../Page/ACO.md" title="wikilink">ACO</a>,TWIGY(BEYOND REAL MIX:DJスピナ)[4:00]</li>
 </ol></td>
 <td><p><a href="../Page/リミックス.md" title="wikilink">リミックス</a>・アルバム</p></td>
 <td></td>
@@ -242,7 +242,7 @@
 <ol>
 <li>Mr.Clifton Theme[1:09]</li>
 <li>一等賞 featuring MACKA-CHIN,D.O and Q[5:13]</li>
-<li>T.K.O featuring <a href="https://ja.wikipedia.org/wiki/G.K.MARYAN" title="wikilink">G.K.MARYAN</a>,D.O and WIGGY CLIFTON[3:30]</li>
+<li>T.K.O featuring <a href="../Page/G.K.MARYAN.md" title="wikilink">G.K.MARYAN</a>,D.O and WIGGY CLIFTON[3:30]</li>
 <li>希望[3:48]</li>
 <li>?[0:47]</li>
 <li>LAST WALTZ[4:49]</li>
@@ -274,7 +274,7 @@
 <li>カタリヤ[4:04]</li>
 <li>TWIGY TWIGY featuring Keyco[3:35]</li>
 <li>SNAKE TIME(VOICE by <a href="../Page/小林克也.md" title="wikilink">小林克也</a>)[2:02]</li>
-<li>PARTY featuring <a href="https://ja.wikipedia.org/wiki/HI-D" title="wikilink">HI-D</a>[4:21]</li>
+<li>PARTY featuring <a href="../Page/HI-D.md" title="wikilink">HI-D</a>[4:21]</li>
 <li>ケムニマケ (PERFORMED by Milwaukee Noise Band)[4:58]</li>
 </ol></td>
 <td><p>スタジオ・アルバム</p></td>
@@ -291,7 +291,7 @@
 <li>FREEDOM feat.You The Rock★&amp;Keyco＜station 79.7 remix＞[5:32]</li>
 <li>GO! NIPPON feat.Maccho,Macka-chin,M.C.Kha-la[5:07]</li>
 <li>希少情報 ＜DJ AMEKEN MIX＞[3:53]</li>
-<li>病む街 (<a href="https://ja.wikipedia.org/wiki/MICROPHONE_PAGER" title="wikilink">MICROPHONE PAGER</a>)[3:24]</li>
+<li>病む街 (<a href="../Page/MICROPHONE_PAGER.md" title="wikilink">MICROPHONE PAGER</a>)[3:24]</li>
 <li>煙の拳[3:31]</li>
 <li>BIG PARTY ＜BIGGER THAN BEFORE REMIX＞[3:44]</li>
 <li>夜行列車 feat.BOY-KEN＜T2K MIX＞[4:07]</li>
@@ -308,11 +308,11 @@
 <li>50m[1:32]</li>
 <li>その先の向こう[4:00]</li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ベスト・アルバム" title="wikilink">ベスト・アルバム</a></p></td>
+<td><p><a href="../Page/ベスト・アルバム.md" title="wikilink">ベスト・アルバム</a></p></td>
 <td><p>オリコン208位</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a>7月13日</p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a>7月13日</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
 <p>LOVE or HATE</p>
@@ -335,11 +335,11 @@
 <li>AGAINST THE WORLD pt.2[3:45]</li>
 <li>outro[1:00]</li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/コンピレーション・アルバム" title="wikilink">コンピレーション・アルバム</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/HI-D" title="wikilink">HI-D</a> &amp; TWIGY</strong>名義</p></td>
+<td><p><a href="../Page/コンピレーション・アルバム.md" title="wikilink">コンピレーション・アルバム</a></p></td>
+<td><p><strong><a href="../Page/HI-D.md" title="wikilink">HI-D</a> &amp; TWIGY</strong>名義</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a>5月10日</p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a>5月10日</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
 <p>TWIG</p>
@@ -408,7 +408,7 @@
 <li>GATHERING[0:56]</li>
 <li>RAPSHIT feat.SYZZZY SYZZZA, DJ AMEKEN[2:40]</li>
 <li>TOKYO MUD SLUDGE CHOCOLATE feat.THE LEGEND$[0:45]</li>
-<li>YOU RELOADED feat.D.O, PIT-GOb, <a href="https://ja.wikipedia.org/wiki/AFRA" title="wikilink">AFRA</a>[3:10]</li>
+<li>YOU RELOADED feat.D.O, PIT-GOb, <a href="../Page/AFRA.md" title="wikilink">AFRA</a>[3:10]</li>
 <li>CALL EXPANSION feat.KAPTAIN KIRK[0:45]</li>
 <li>JUST LIKE MUSIC feat.SYZZZY SYZZZA, DJ AMEKEN[3:27]</li>
 <li>808 feat.CATHY[0:20]</li>
@@ -468,28 +468,28 @@
 ## 主な客演
 
   - 「TWIGYの言い分」 　KRUSH feat. TWIGY
-  - 「Made in JAPAN '93 remix」 　[YOU THE ROCK★](https://ja.wikipedia.org/wiki/YOU_THE_ROCK★ "wikilink") ＆ DJ BEN　feat. [MURO](https://ja.wikipedia.org/wiki/MURO "wikilink"), TWIGY, P.R.C., MINIDON
-  - 「MASS 対 CORE」 　[ECD](https://ja.wikipedia.org/wiki/ECD_\(ミュージシャン\) "wikilink") feat. TWIGY, [YOU THE ROCK★](https://ja.wikipedia.org/wiki/YOU_THE_ROCK★ "wikilink")
+  - 「Made in JAPAN '93 remix」 　[YOU THE ROCK★](https://ja.wikipedia.org/wiki/YOU_THE_ROCK★ "wikilink") ＆ DJ BEN　feat. [MURO](../Page/MURO.md "wikilink"), TWIGY, P.R.C., MINIDON
+  - 「MASS 対 CORE」 　[ECD](../Page/ECD_\(ミュージシャン\).md "wikilink") feat. TWIGY, [YOU THE ROCK★](https://ja.wikipedia.org/wiki/YOU_THE_ROCK★ "wikilink")
   - けむにまけ TWIGY　（『HEY, YOUNG WORLD』 に収録）
   - AN-CHO-BY ～百鬼夜行 　TWIGY　（『悪名』 に収録）
   - QUIET STORM TWIGY feat. Little KANA　（『続・悪名』 に収録）
   - 午後5時 TWIGY　（『ON THE 1+2』 に収録）
-  - 『[証言](https://ja.wikipedia.org/wiki/証言_\(ヒップホップ\) "wikilink")』 　LAMP EYE
-  - BLACK MONDAY　[YOU THE ROCK★](https://ja.wikipedia.org/wiki/YOU_THE_ROCK★ "wikilink") feat. MIC MASTERZ（MACKA-CHIN, SHIKI, HAB, GAMA, YOTTY, E.G.G. MAN, RINO, G.K. MARYAN, PATRICK, DAMAGE, TWIGY, [MUMMY-D](https://ja.wikipedia.org/wiki/MUMMY-D "wikilink"), [DEV LARGE](https://ja.wikipedia.org/wiki/DEV_LARGE "wikilink")）
+  - 『[証言](../Page/証言_\(ヒップホップ\).md "wikilink")』 　LAMP EYE
+  - BLACK MONDAY　[YOU THE ROCK★](https://ja.wikipedia.org/wiki/YOU_THE_ROCK★ "wikilink") feat. MIC MASTERZ（MACKA-CHIN, SHIKI, HAB, GAMA, YOTTY, E.G.G. MAN, RINO, G.K. MARYAN, PATRICK, DAMAGE, TWIGY, [MUMMY-D](https://ja.wikipedia.org/wiki/MUMMY-D "wikilink"), [DEV LARGE](../Page/DEV_LARGE.md "wikilink")）
   - 今昔物語 　ILLMARIACHI　feat. TWIGY
   - Kaana の Funky Heart Break 　KAANA feat. TWIGY
   - DANCEHALL CHECKER （V.I.P. MIX） 　feat. [PUSHIM](https://ja.wikipedia.org/wiki/PUSHIM "wikilink"), BOY-KEN, [ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink"), [YOU THE ROCK★](https://ja.wikipedia.org/wiki/YOU_THE_ROCK★ "wikilink"), TWIGY
-  - PLAYER'S DELIGHT （ZBR-5000 mix） 　[ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink") feat. TWIGY and [DEV LARGE](https://ja.wikipedia.org/wiki/DEV_LARGE "wikilink")
-  - PLAYER'S DELIGHT -Going back to my roots mix- 　[DEV LARGE](https://ja.wikipedia.org/wiki/DEV_LARGE "wikilink") feat. [ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink"), TWIGY
+  - PLAYER'S DELIGHT （ZBR-5000 mix） 　[ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink") feat. TWIGY and [DEV LARGE](../Page/DEV_LARGE.md "wikilink")
+  - PLAYER'S DELIGHT -Going back to my roots mix- 　[DEV LARGE](../Page/DEV_LARGE.md "wikilink") feat. [ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink"), TWIGY
   - TRAGICOMIC 　[DJ KRUSH](../Page/DJ_KRUSH.md "wikilink") feat. ACO, TWIGY
   - ヤバスギルスキル Part4 ラッパ我リヤ feat. GINRHYME DA VIBERATER, TWIGY　（『ラッパ我リヤ伝説』 に収録）
-  - 病む街 Pt.2 　[MURO](https://ja.wikipedia.org/wiki/MURO "wikilink") feat. TWIGY, RINO
+  - 病む街 Pt.2 　[MURO](../Page/MURO.md "wikilink") feat. TWIGY, RINO
   - これが私の優しさです 　bird feat. TWIGY
   - ANOTHER BIG PARTY 　AMBIVALENCE feat. TWIGY
-  - しかけ 　[OZROSAURUS](https://ja.wikipedia.org/wiki/OZROSAURUS "wikilink") feat. TWIGY
+  - しかけ 　[OZROSAURUS](../Page/OZROSAURUS.md "wikilink") feat. TWIGY
   - SNEAKER PIMP （TWO PIMPS IN A CYPHER MIX） 　DABO feat. TWIGY　（『PLATINUM TONGUE』 に収録）
-  - MASTERPLAY 　[DJ MASTERKEY](https://ja.wikipedia.org/wiki/DJ_MASTERKEY "wikilink") feat. TWIGY　（『DADDY'S HOUSE Vol.1』 に収録）
-  - 病む街 Part II 第三章 　RINO LATINA II feat. [MURO](https://ja.wikipedia.org/wiki/MURO "wikilink"), TWIGY　（『Carnival of RINO』 に収録）
+  - MASTERPLAY 　[DJ MASTERKEY](../Page/DJ_MASTERKEY.md "wikilink") feat. TWIGY　（『DADDY'S HOUSE Vol.1』 に収録）
+  - 病む街 Part II 第三章 　RINO LATINA II feat. [MURO](../Page/MURO.md "wikilink"), TWIGY　（『Carnival of RINO』 に収録）
   - P-TRAIN 　Keyco feat. TWIGY
   - モンキー・マジック 　椎名純平 feat. TWIGY
   - NEXT MOVIE　Four quarter　bags　joint 　RINO LATINA II feat. [YOU THE ROCK★](https://ja.wikipedia.org/wiki/YOU_THE_ROCK★ "wikilink"), G.K. MARYAN, TWIGY
@@ -506,13 +506,13 @@
   - MADE IN JAPAN 2004 　MURO feat. TWIGY, E.G.G. MAN, HAB I SCREAM, BOY-KEN, YOU THE ROCK★
   - DANCEHALL KILLER 　TWIGY feat. D.O
   - MIRROR BALL 2004 　GORE-TEX feat. MICROPHONE PAGER
-  - AT THE FEVER 　[加藤ミリヤ](https://ja.wikipedia.org/wiki/加藤ミリヤ "wikilink") feat. [DEV LARGE](https://ja.wikipedia.org/wiki/DEV_LARGE "wikilink"), [NIPPS](https://ja.wikipedia.org/wiki/NIPPS "wikilink"), TWIGY, SHINNOSK8
+  - AT THE FEVER 　[加藤ミリヤ](https://ja.wikipedia.org/wiki/加藤ミリヤ "wikilink") feat. [DEV LARGE](../Page/DEV_LARGE.md "wikilink"), [NIPPS](../Page/NIPPS.md "wikilink"), TWIGY, SHINNOSK8
   - 1・2 　刃頭 feat. TWIGY
   - VICTORY 　565 feat. TWIGY
-  - UHUHUHUHUHUHUH \!\!\!\!\!\! 　[MURO](https://ja.wikipedia.org/wiki/MURO "wikilink") feat. TWIGY
+  - UHUHUHUHUHUHUH \!\!\!\!\!\! 　[MURO](../Page/MURO.md "wikilink") feat. TWIGY
   - AKERO 　HIFANA feat. TWIGY
   - SIXTH SENSE」　DJ YAS feat. TWIGY
-  - READY GO！ 　DJ YAS feat. [MICROPHONE PAGER](https://ja.wikipedia.org/wiki/MICROPHONE_PAGER "wikilink")
+  - READY GO！ 　DJ YAS feat. [MICROPHONE PAGER](../Page/MICROPHONE_PAGER.md "wikilink")
   - MAD DRAMA 　dj honda feat. LEX DIAMONDS, GDX, TWIGY, 山田マン, 565
   - MARY POPPINS -TWIGY MIX- 　TWIGY　（『Breaks & Beats Disney』 に収録）
   - 練 GO AROUND 　[D.O](../Page/D.O.md "wikilink") feat. HI-D & TWIGY, JASHWON
@@ -522,24 +522,24 @@
   - 24 HOURS 　[加藤ミリヤ](https://ja.wikipedia.org/wiki/加藤ミリヤ "wikilink") feat. TWIGY
   - NASTY OR CLASSY 　ARIA feat. TWIGY
   - DOGG LIFE 　[SEEDA](https://ja.wikipedia.org/wiki/SEEDA "wikilink"), JASHWON, [D.O](../Page/D.O.md "wikilink"), STICKY, [bay4k](https://ja.wikipedia.org/wiki/bay4k "wikilink"), BES, A.THUG, TWIGY　（『JAPANESE RAP STA～ON BOOT STREET～』 に収録）
-  - TRIBE LIFE 　[MURO](https://ja.wikipedia.org/wiki/MURO "wikilink") feat. TWIGY & KASHI DA HANDSOME
+  - TRIBE LIFE 　[MURO](../Page/MURO.md "wikilink") feat. TWIGY & KASHI DA HANDSOME
   - 「反則 （I'M SO KOOL）」 　DABO feat. TWIGY, [JAY'ED](../Page/JAY'ED.md "wikilink")
   - 「ブリブリテーマソング pt.III」 　剣 桃太郎 feat. TWIGY, DEN
-  - 「Once Again Remix」　[RHYMESTER](https://ja.wikipedia.org/wiki/RHYMESTER "wikilink") feat. DABO, TWIGY, [ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink")
-  - 「[2U](https://ja.wikipedia.org/wiki/2U_\(ヒップホップ\) "wikilink")」 [雷](https://ja.wikipedia.org/wiki/KAMINARI-KAZOKU. "wikilink")
+  - 「Once Again Remix」　[RHYMESTER](../Page/RHYMESTER.md "wikilink") feat. DABO, TWIGY, [ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink")
+  - 「[2U](https://ja.wikipedia.org/wiki/2U_\(ヒップホップ\) "wikilink")」 [雷](../Page/KAMINARI-KAZOKU..md "wikilink")
   - 「Don't Believe The Hype -真実の詩-」 dj honda feat. Deli, 般若, MACCHO, RYUZO, Zeebra, TwiGy, RINO LATINA II, ANARCHY
 
 ## 関連人物
 
-  - [MURO](https://ja.wikipedia.org/wiki/MURO "wikilink")
+  - [MURO](../Page/MURO.md "wikilink")
   - [ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink")
   - [YOU THE ROCK★](https://ja.wikipedia.org/wiki/YOU_THE_ROCK★ "wikilink")
-  - [DEV LARGE](https://ja.wikipedia.org/wiki/DEV_LARGE "wikilink")
-  - [Keyco](https://ja.wikipedia.org/wiki/Keyco "wikilink")
+  - [DEV LARGE](../Page/DEV_LARGE.md "wikilink")
+  - [Keyco](../Page/Keyco.md "wikilink")
   - [加藤ミリヤ](https://ja.wikipedia.org/wiki/加藤ミリヤ "wikilink")
   - [bird](https://ja.wikipedia.org/wiki/bird_\(日本の歌手\) "wikilink")
   - [D.O](../Page/D.O.md "wikilink")
-  - [HI-D](https://ja.wikipedia.org/wiki/HI-D "wikilink")
+  - [HI-D](../Page/HI-D.md "wikilink")
 
 ## 脚注
 

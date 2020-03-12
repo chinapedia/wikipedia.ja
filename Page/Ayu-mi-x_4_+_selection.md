@@ -7,7 +7,7 @@
 
 リミックスアルバムとしては、同時発売の『[ayu trance](../Page/Cyber_TRANCE_presents_ayu_trance.md "wikilink")』、『[ayu-ro mix 2](../Page/SUPER_EUROBEAT_presents_ayu-ro_mix_2.md "wikilink")』から約半年ぶりのリリース。
 
-『**[ayu-mi-x](https://ja.wikipedia.org/wiki/ayu-mi-x "wikilink")**』シリーズの第4弾となる本作は、4thアルバム『[I am...](../Page/I_am....md "wikilink")』及び[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[A BEST](../Page/A_BEST.md "wikilink")』収録曲のリミックスアルバムで、リミックスのジャンル別に2タイトルが同時発売された。初回盤はピクチャーレーベル仕様。
+『**[ayu-mi-x](https://ja.wikipedia.org/wiki/ayu-mi-x "wikilink")**』シリーズの第4弾となる本作は、4thアルバム『[I am...](../Page/I_am....md "wikilink")』及び[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[A BEST](../Page/A_BEST.md "wikilink")』収録曲のリミックスアルバムで、リミックスのジャンル別に2タイトルが同時発売された。初回盤はピクチャーレーベル仕様。
 
 タイトルにある「selection」という言葉通り、過去のayu-mi-xからも数曲セレクトされている。
 

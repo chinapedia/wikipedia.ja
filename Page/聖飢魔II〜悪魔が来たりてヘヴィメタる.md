@@ -30,8 +30,8 @@
   - [デーモン小暮](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink") - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
   - [エース清水](../Page/ACE_\(ミュージシャン\).md "wikilink") - [ギター](../Page/ギター.md "wikilink")
   - [ジェイル大橋](../Page/大橋隆志.md "wikilink") - ギター
-  - [ゾッド星島](https://ja.wikipedia.org/wiki/ゾッド星島 "wikilink") - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
-  - [ライデン湯沢](https://ja.wikipedia.org/wiki/雷電湯澤 "wikilink") - [ドラムス](../Page/ドラムセット.md "wikilink")
+  - [ゾッド星島](../Page/ゾッド星島.md "wikilink") - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
+  - [ライデン湯沢](../Page/雷電湯澤.md "wikilink") - [ドラムス](../Page/ドラムセット.md "wikilink")
 
 ## 脚注
 

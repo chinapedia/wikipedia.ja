@@ -1,7 +1,7 @@
 > この記事は[ZZ \(\)](https://ja.wikipedia.org/wiki/ZZ_\(\))から翻訳されています。
 
 
-**ZZ**（ズィーズィー）は、日本の[ミクスチャー・ロック](https://ja.wikipedia.org/wiki/ミクスチャー・ロック "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[静岡県](../Page/静岡県.md "wikilink")出身の男女5人によって構成される。所属レーベルは[avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。所属事務所は[euclid agency](https://ja.wikipedia.org/wiki/euclid_agency "wikilink")。
+**ZZ**（ズィーズィー）は、日本の[ミクスチャー・ロック](../Page/ミクスチャー・ロック.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[静岡県](../Page/静岡県.md "wikilink")出身の男女5人によって構成される。所属レーベルは[avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。所属事務所は[euclid agency](https://ja.wikipedia.org/wiki/euclid_agency "wikilink")。
 
 ## メンバー
 
@@ -34,7 +34,7 @@ Favorite Book:「ガール」桜井あみ
 Hobby:読書,DJ,インテリア
 
   - **KYAMA**（1979年[9月7日](../Page/9月7日.md "wikilink") - ）
-      - [ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。
+      - [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。
 
 Blood type:A
 
@@ -844,7 +844,7 @@ CD</p></td>
 
 ## 付注
 
-  - 「NO WAY OUT 〜Nogueira Version〜」は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")の[総合格闘家](https://ja.wikipedia.org/wiki/総合格闘家 "wikilink")である[アントニオ・ホドリゴ・ノゲイラ](https://ja.wikipedia.org/wiki/アントニオ・ホドリゴ・ノゲイラ "wikilink")の入場曲。
+  - 「NO WAY OUT 〜Nogueira Version〜」は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")の[総合格闘家](https://ja.wikipedia.org/wiki/総合格闘家 "wikilink")である[アントニオ・ホドリゴ・ノゲイラ](../Page/アントニオ・ホドリゴ・ノゲイラ.md "wikilink")の入場曲。
 
 <!-- end list -->
 

@@ -5,9 +5,9 @@
 
 ## 概要
 
-[2001年](../Page/2001年.md "wikilink")の[北米国際オートショー](../Page/北米国際オートショー.md "wikilink")で「Vision GST（*Grand Sports Tourer* ）」として最初のコンセプトが発表され、最終的なプロダクションモデルは[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")の[ニューヨーク国際オートショー](https://ja.wikipedia.org/wiki/ニューヨーク国際オートショー "wikilink")で発表された。日本では2005年の[東京モーターショー](../Page/東京モーターショー.md "wikilink")に参考出品された。
+[2001年](../Page/2001年.md "wikilink")の[北米国際オートショー](../Page/北米国際オートショー.md "wikilink")で「Vision GST（*Grand Sports Tourer* ）」として最初のコンセプトが発表され、最終的なプロダクションモデルは[2005年](../Page/2005年.md "wikilink")の[ニューヨーク国際オートショー](../Page/ニューヨーク国際オートショー.md "wikilink")で発表された。日本では2005年の[東京モーターショー](../Page/東京モーターショー.md "wikilink")に参考出品された。
 
-メルセデス・ベンツではこのRクラスを、「[乗用車](../Page/乗用車.md "wikilink")に求められるすべての要素を極めて高い次元で融合させた、まったく新しいカテゴリーの[ラグジュアリーモデル](https://ja.wikipedia.org/wiki/高級車 "wikilink")」と位置づけ、[ミニバン](../Page/ミニバン.md "wikilink")や[ステーションワゴン](../Page/ステーションワゴン.md "wikilink")などの要素が含まれている。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[アラバマ州](../Page/アラバマ州.md "wikilink")の[タスカルーサ](../Page/タスカルーサ.md "wikilink")工場で生産され、[Mクラス](https://ja.wikipedia.org/wiki/メルセデス・ベンツ・Mクラス "wikilink")（W164）や[GLクラス](../Page/メルセデス・ベンツ・GLクラス.md "wikilink")（X164）と[プラットフォームを共有する](https://ja.wikipedia.org/wiki/プラットフォーム_\(自動車\) "wikilink")。ただし、[フルタイム4WD車の機構は](https://ja.wikipedia.org/wiki/四輪駆動#フルタイム式 "wikilink")、独自の4MATICを採用している。
+メルセデス・ベンツではこのRクラスを、「[乗用車](../Page/乗用車.md "wikilink")に求められるすべての要素を極めて高い次元で融合させた、まったく新しいカテゴリーの[ラグジュアリーモデル](../Page/高級車.md "wikilink")」と位置づけ、[ミニバン](../Page/ミニバン.md "wikilink")や[ステーションワゴン](../Page/ステーションワゴン.md "wikilink")などの要素が含まれている。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[アラバマ州](../Page/アラバマ州.md "wikilink")の[タスカルーサ](../Page/タスカルーサ.md "wikilink")工場で生産され、[Mクラス](../Page/メルセデス・ベンツ・Mクラス.md "wikilink")（W164）や[GLクラス](../Page/メルセデス・ベンツ・GLクラス.md "wikilink")（X164）と[プラットフォームを共有する](../Page/プラットフォーム_\(自動車\).md "wikilink")。ただし、[フルタイム4WD車の機構は](https://ja.wikipedia.org/wiki/四輪駆動#フルタイム式 "wikilink")、独自の4MATICを採用している。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")にはニューヨーク国際オートショーにて[フェイスリフト](https://ja.wikipedia.org/wiki/フェイスリフト "wikilink")を受けた2011年モデルが発表された\[1\]。
 
@@ -23,7 +23,7 @@
 
 海外には[AMGモデルの](../Page/メルセデスAMG.md "wikilink")「R63 AMG」（過去に日本市場でも導入されていた）や[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")を搭載する「R320 CDI」「R420 CDI」などがある。
 
-初期の日本仕様では、[国土交通省](../Page/国土交通省.md "wikilink")の定める保安基準に準拠して[サイドアンダーミラー](https://ja.wikipedia.org/wiki/サイドアンダーミラー "wikilink")が付いており、「スタイルを損ねる」との声が多かった。その後、助手席側[ドアミラー](https://ja.wikipedia.org/wiki/ドアミラー "wikilink")に内蔵するサイドビューカメラからの映像を[カーナビゲーション](../Page/カーナビゲーション.md "wikilink")用モニターに投影するという手法に改変され、同ミラーは廃止された。
+初期の日本仕様では、[国土交通省](../Page/国土交通省.md "wikilink")の定める保安基準に準拠して[サイドアンダーミラー](../Page/サイドアンダーミラー.md "wikilink")が付いており、「スタイルを損ねる」との声が多かった。その後、助手席側[ドアミラー](../Page/ドアミラー.md "wikilink")に内蔵するサイドビューカメラからの映像を[カーナビゲーション](../Page/カーナビゲーション.md "wikilink")用モニターに投影するという手法に改変され、同ミラーは廃止された。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[11月4日](../Page/11月4日.md "wikilink")にマイナーチェンジを実施。前後のデザイン変更に加えて[ETC](../Page/ETC.md "wikilink")ユニットが標準装備となった。R550 4MATICがラインナップから落とされ、R350 4MATICのみとなった。
 

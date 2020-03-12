@@ -7,7 +7,7 @@
 
 Yahoo\!メッセンジャーを利用するには**Yahoo\! JAPAN ID**の取得が必要である。利用者間でメッセージをやりとりする場合には、このIDによって識別を行い、友人登録を行う。
 
-また、[2007年](../Page/2007年.md "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")に[Yahoo\!チャット](../Page/Yahoo!チャット.md "wikilink")のWeb版が廃止されたため、Yahoo\! JAPANの提供するチャットサービスを利用するにはYahoo\!メッセンジャーのダウンロードが必須となった。
+また、[2007年](../Page/2007年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")に[Yahoo\!チャット](../Page/Yahoo!チャット.md "wikilink")のWeb版が廃止されたため、Yahoo\! JAPANの提供するチャットサービスを利用するにはYahoo\!メッセンジャーのダウンロードが必須となった。
 
 利用者の減少が著しく、[2014年](../Page/2014年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")15時を以て、サービスを終了した\[3\]。
 
@@ -24,7 +24,7 @@ Windows版、Mac版を利用する場合にはメッセージアーカイブはP
 
 ## Yahoo\! Messengerとの互換性
 
-Yahoo\!メッセンジャーはYahoo\! JAPANが独立して運営していたため、[米国Yahoo\!が運営する](https://ja.wikipedia.org/wiki/Yahoo! "wikilink")[Yahoo\! Messengerとは互換性を持たない](../Page/Yahoo!_Messenger.md "wikilink")。Yahoo\! JAPAN IDとYahoo\! Inc,IDが別管理なことによる。そのため、両サービスを跨った形でのチャットやメッセージの遣り取りは一切出来ない。
+Yahoo\!メッセンジャーはYahoo\! JAPANが独立して運営していたため、[米国Yahoo\!が運営する](../Page/Yahoo!.md "wikilink")[Yahoo\! Messengerとは互換性を持たない](../Page/Yahoo!_Messenger.md "wikilink")。Yahoo\! JAPAN IDとYahoo\! Inc,IDが別管理なことによる。そのため、両サービスを跨った形でのチャットやメッセージの遣り取りは一切出来ない。
 
 システム要件として、バージョンによってはダウンロード版メッセンジャーの共存ができない。 バージョン7.0の場合は、US版Yahoo\!メッセンジャーと日本語版のそれぞれの共存ができた。
 
@@ -54,7 +54,7 @@ Yahoo\!メッセンジャーはYahoo\! JAPANが独立して運営していたた
 
 ## プラグイン
 
-Windows版バージョン9.0より、プラグインが利用できるようになった。このプラグインの仕様は公開されており、[JavaScript](../Page/JavaScript.md "wikilink")及び[Visual C++の知識があれば自作することも可能である](https://ja.wikipedia.org/wiki/Microsoft_Visual_C++ "wikilink")。なお、Yahoo\! JAPANから開発キットも公開されている。
+Windows版バージョン9.0より、プラグインが利用できるようになった。このプラグインの仕様は公開されており、[JavaScript](../Page/JavaScript.md "wikilink")及び[Visual C++の知識があれば自作することも可能である](../Page/Microsoft_Visual_C++.md "wikilink")。なお、Yahoo\! JAPANから開発キットも公開されている。
 
 ## 脚注
 

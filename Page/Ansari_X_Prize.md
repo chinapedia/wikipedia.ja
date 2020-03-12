@@ -1,7 +1,7 @@
 > この記事は[Ansari X Prize](https://ja.wikipedia.org/wiki/Ansari_X_Prize)から翻訳されています。
 
 
-**Ansari X Prize**（アンサリ・エックスプライズ）は、[Xプライズ財団](https://ja.wikipedia.org/wiki/Xプライズ財団 "wikilink")によって運営された、民間による最初の[有人弾道宇宙飛行を競うコンテストである](https://ja.wikipedia.org/wiki/有人宇宙飛行 "wikilink")。
+**Ansari X Prize**（アンサリ・エックスプライズ）は、[Xプライズ財団](https://ja.wikipedia.org/wiki/Xプライズ財団 "wikilink")によって運営された、民間による最初の[有人弾道宇宙飛行を競うコンテストである](../Page/有人宇宙飛行.md "wikilink")。
 
 [1996年](../Page/1996年.md "wikilink")に[アメリカで開始され](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、最終的に[2004年](../Page/2004年.md "wikilink")に[スケールド・コンポジッツ](../Page/スケールド・コンポジッツ.md "wikilink")社の宇宙船[スペースシップワン](../Page/スペースシップワン.md "wikilink")が条件を達成、賞金1,000万ドル（約10億5000万円）を獲得した。
 

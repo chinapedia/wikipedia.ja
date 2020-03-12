@@ -15,7 +15,7 @@
 
 毎年、2月10日の発売号には読書投票によるCM大賞の各部門が独自に発表される。発表されるのは、CMランキングベスト100、女性タレント、男性タレント、新人タレントのベスト10である。なお、CMランキングベスト100は100位以降も発表される。新人タレントは前年の発表時に選出されていても選出される。[ACジャパン](../Page/ACジャパン.md "wikilink")のCMを時々取り上げており、学生が製作した作品も比較的数多く紹介している。
 
-2000年代以前は、女性タレントのプロフィールには生年月日、血液型、生まれ地、所属事務所のほか、[スリーサイズ](https://ja.wikipedia.org/wiki/スリーサイズ "wikilink")もほとんどの女性タレントで掲載されていたが、2000年代以降は、スリーサイズの掲載は少なくなった。
+2000年代以前は、女性タレントのプロフィールには生年月日、血液型、生まれ地、所属事務所のほか、[スリーサイズ](../Page/スリーサイズ.md "wikilink")もほとんどの女性タレントで掲載されていたが、2000年代以降は、スリーサイズの掲載は少なくなった。
 
 2011年10月6日に[mixi](https://ja.wikipedia.org/wiki/mixi "wikilink")にてmixiページを開設。
 
@@ -52,13 +52,13 @@
 | 号  | 発売日         | 表紙                                                       | 特集 および 備考                        |
 | -- | ----------- | -------------------------------------------------------- | -------------------------------- |
 | 1  | 1982年3月31日  | [松田聖子](../Page/松田聖子.md "wikilink")                       | 気分は、すっかりコマーシャル　**創刊号**（この号のみ左開き） |
-| 2  | 1983年2月7日   | [斉藤慶子](https://ja.wikipedia.org/wiki/斉藤慶子 "wikilink")    | 世の中、全くコマーシャル                     |
+| 2  | 1983年2月7日   | [斉藤慶子](../Page/斉藤慶子.md "wikilink")                       | 世の中、全くコマーシャル                     |
 | 3  | 1983年7月14日  | [美保純](https://ja.wikipedia.org/wiki/美保純 "wikilink")      | 僕たち、とっくにコマーシャル                   |
 | 4  | 1984年1月23日  | [中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")    | 今日も元気だコマーシャル                     |
 | 5  | 1984年5月7日   | 松田聖子                                                     | 食前、食後にコマーシャル                     |
 | 6  | 1984年9月17日  | [石原真理子](https://ja.wikipedia.org/wiki/石原真理子 "wikilink")  | お酒のお宝コマーシャル　**年4回の季刊になる**        |
 | 7  | 1984年12月14日 | [斉藤由貴](https://ja.wikipedia.org/wiki/斉藤由貴 "wikilink")    | 好き好き大好きコマーシャル                    |
-| 8  | 1985年3月9日   | [工藤夕貴](https://ja.wikipedia.org/wiki/工藤夕貴 "wikilink")    | 我らのアイドルコマーシャル                    |
+| 8  | 1985年3月9日   | [工藤夕貴](../Page/工藤夕貴.md "wikilink")                       | 我らのアイドルコマーシャル                    |
 | 9  | 1985年6月10日  | 斉藤由貴                                                     | 外タレ特集 **発売日が10日に固定される**          |
 | 10 | 1985年9月10日  | [本田美奈子](https://ja.wikipedia.org/wiki/本田美奈子. "wikilink") | 特集ショックを仕掛ける                      |
 | 11 | 1985年12月10日 | [薬師丸ひろ子](../Page/薬師丸ひろ子.md "wikilink")                   | 1985年CM大賞                        |
@@ -66,20 +66,20 @@
 | 13 | 1986年6月10日  | [塩川美佳](../Page/塩川美佳.md "wikilink")                       | 86年CM夏のお嬢様通信                     |
 | 14 | 1986年9月10日  | [後藤久美子](../Page/後藤久美子.md "wikilink")                     | CM作りのスーパーマン                      |
 | 15 | 1986年12月10日 | [島田奈美](https://ja.wikipedia.org/wiki/島田奈美 "wikilink")    | 読者が選ぶ1986年CM大賞                   |
-| 16 | 1987年3月10日  | [富田靖子](https://ja.wikipedia.org/wiki/富田靖子 "wikilink")    | 話題のCMはこうしてできる                    |
+| 16 | 1987年3月10日  | [富田靖子](../Page/富田靖子.md "wikilink")                       | 話題のCMはこうしてできる                    |
 | 17 | 1987年6月10日  | [八木さおり](https://ja.wikipedia.org/wiki/八木さおり "wikilink")  | 87年夏の女の子CM大特集                    |
-| 18 | 1987年9月10日  | [仁藤優子](https://ja.wikipedia.org/wiki/仁藤優子 "wikilink")    | きれいがうれしいコマーシャル                   |
+| 18 | 1987年9月10日  | [仁藤優子](../Page/仁藤優子.md "wikilink")                       | きれいがうれしいコマーシャル                   |
 | 19 | 1987年12月10日 | [宮沢りえ](https://ja.wikipedia.org/wiki/宮沢りえ "wikilink")    | 読者が選ぶ1987年CM大賞                   |
 | 20 | 1988年3月10日  | [南野陽子](https://ja.wikipedia.org/wiki/南野陽子 "wikilink")    | 究極の最新クルマCM                       |
 | 21 | 1988年6月10日  | [守谷香](../Page/守谷香.md "wikilink")                         | 88年夏の女の子CM                       |
 | 22 | 1988年9月10日  | 宮沢りえ                                                     | CMキャラクタードキドキ大図鑑                  |
 | 23 | 1988年12月10日 | [大西結花](https://ja.wikipedia.org/wiki/大西結花 "wikilink")    | 読者が選ぶ1988年CM大賞                   |
 | 24 | 1989年3月10日  | [深津絵里](https://ja.wikipedia.org/wiki/深津絵里 "wikilink")    | 外タレCM最前線                         |
-| 25 | 1989年6月10日  | [和久井映見](https://ja.wikipedia.org/wiki/和久井映見 "wikilink")  | 89年夏の女の子CM                       |
-| 26 | 1989年9月10日  | [川越美和](https://ja.wikipedia.org/wiki/川越美和 "wikilink")    | ようこそCM音楽ランドへ                     |
+| 25 | 1989年6月10日  | [和久井映見](../Page/和久井映見.md "wikilink")                     | 89年夏の女の子CM                       |
+| 26 | 1989年9月10日  | [川越美和](../Page/川越美和.md "wikilink")                       | ようこそCM音楽ランドへ                     |
 | 27 | 1989年12月10日 | 宮沢りえ                                                     | 読者が選ぶ1989年CM大賞                   |
 | 28 | 1990年3月10日  | 後藤久美子                                                    | タレントCM激ウォーズ                      |
-| 29 | 1990年6月10日  | [中山美穂](https://ja.wikipedia.org/wiki/中山美穂 "wikilink")    | 90年夏の女の子CM                       |
+| 29 | 1990年6月10日  | [中山美穂](../Page/中山美穂.md "wikilink")                       | 90年夏の女の子CM                       |
 | 30 | 1990年9月10日  | [菊池桃子](../Page/菊池桃子.md "wikilink")                       | おもしろくなったJR\&NTTコマーシャル            |
 | 31 | 1991年12月10日 | [牧瀬里穂](https://ja.wikipedia.org/wiki/牧瀬里穂 "wikilink")    | 読者が選ぶ1990年CM大賞                   |
 | 32 | 1991年3月10日  | [西田ひかる](../Page/西田ひかる.md "wikilink")                     | ドラマCM新時代                         |
@@ -133,7 +133,7 @@
 <tr class="even">
 <td><p>40</p></td>
 <td><p>1992年12月10日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/和久井映見" title="wikilink">和久井映見</a></p></td>
+<td><p><a href="../Page/和久井映見.md" title="wikilink">和久井映見</a></p></td>
 <td><p>アニメCMだいすき宣言</p></td>
 </tr>
 <tr class="odd">
@@ -214,7 +214,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/清水美沙" title="wikilink">清水美砂</a><br />
 牧瀬里穂<br />
 中江有里<br />
-<a href="https://ja.wikipedia.org/wiki/今村雅美" title="wikilink">今村雅美</a></p></td>
+<a href="../Page/今村雅美.md" title="wikilink">今村雅美</a></p></td>
 <td><p>1994年CM大賞</p></td>
 </tr>
 <tr class="even">
@@ -367,7 +367,7 @@
 <tr class="even">
 <td><p>74</p></td>
 <td><p>1998年8月10日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/後藤理沙" title="wikilink">後藤理沙</a></p></td>
+<td><p><a href="../Page/後藤理沙.md" title="wikilink">後藤理沙</a></p></td>
 <td><p>CM対談</p></td>
 </tr>
 <tr class="odd">
@@ -397,7 +397,7 @@
 <tr class="odd">
 <td><p>79</p></td>
 <td><p>1999年6月10日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/木内晶子" title="wikilink">木内晶子</a></p></td>
+<td><p><a href="../Page/木内晶子.md" title="wikilink">木内晶子</a></p></td>
 <td><p>女の子130人のCM150本</p></td>
 </tr>
 <tr class="even">
@@ -428,7 +428,7 @@
 <tr class="even">
 <td><p>84</p></td>
 <td><p>2000年4月10日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/後藤理沙" title="wikilink">後藤理沙</a></p></td>
+<td><p><a href="../Page/後藤理沙.md" title="wikilink">後藤理沙</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/CM女王" title="wikilink">CM女王</a>のヒミツと魅力</p></td>
 </tr>
 <tr class="odd">
@@ -488,7 +488,7 @@
 <tr class="even">
 <td><p>94</p></td>
 <td><p>2001年12月10日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/酒井若菜" title="wikilink">酒井若菜</a></p></td>
+<td><p><a href="../Page/酒井若菜.md" title="wikilink">酒井若菜</a></p></td>
 <td><p>スーパーインタビュー5</p></td>
 </tr>
 </tbody>
@@ -533,7 +533,7 @@
 <tr class="odd">
 <td><p>97</p></td>
 <td><p>2002年6月10日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/松本莉緒" title="wikilink">松本莉緒</a></p></td>
+<td><p><a href="../Page/松本莉緒.md" title="wikilink">松本莉緒</a></p></td>
 <td><p>日本縦断ローカルCM2002</p></td>
 </tr>
 <tr class="even">
@@ -1038,7 +1038,7 @@ CMタレント名鑑2006</p></td>
 <tr class="even">
 <td><p>170</p></td>
 <td><p>2014年8月9日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/木村文乃" title="wikilink">木村文乃</a></p></td>
+<td><p><a href="../Page/木村文乃.md" title="wikilink">木村文乃</a></p></td>
 <td><p>巻頭特集木村文乃</p></td>
 </tr>
 <tr class="odd">
@@ -1139,7 +1139,7 @@ CMタレント名鑑2006</p></td>
   - [コマーシャルメッセージ](../Page/コマーシャルメッセージ.md "wikilink")
   - [広告](../Page/広告.md "wikilink")
   - [CMタレント](../Page/CMタレント.md "wikilink")
-  - [CMスキップ](https://ja.wikipedia.org/wiki/CMスキップ "wikilink")
+  - [CMスキップ](../Page/CMスキップ.md "wikilink")
 
 ## 外部リンク
 

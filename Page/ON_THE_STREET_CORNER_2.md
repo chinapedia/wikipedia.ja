@@ -47,7 +47,7 @@
       -
         Billy Myles
         ©1959 by \*EMI LONGITUDE ⁄ SELBONN MUSIC INC.
-        \*The rights for Japan assigned to [FUJIPACIFIC MUSIC INC.](https://ja.wikipedia.org/wiki/フジパシフィックミュージック "wikilink")
+        \*The rights for Japan assigned to [FUJIPACIFIC MUSIC INC.](../Page/フジパシフィックミュージック.md "wikilink")
 2.  **[YOU MAKE ME FEEL BRAND NEW](https://ja.wikipedia.org/wiki/踊ろよ、フィッシュ "wikilink")**
       -
         [Thom Bell](https://ja.wikipedia.org/wiki/:en:Thom_Bell "wikilink") & [Linda Creed](https://ja.wikipedia.org/wiki/:en:Linda_Creed "wikilink")
@@ -68,7 +68,7 @@
         International Copyright Secured  All Rights Reserved
         Rights for Japan controlled by Shinko Music Publishing Co.,Ltd.,Tokyo
         Authorized for Japan only
-        [1942年](../Page/1942年.md "wikilink")のパラマウント映画『[Holiday Inn](https://ja.wikipedia.org/wiki/:en:Holiday_Inn_\(film\) "wikilink")』（邦題『スイング・ホテル』、[1947年](../Page/1947年.md "wikilink")封切）の中で、[ビング・クロスビー](https://ja.wikipedia.org/wiki/ビング・クロスビー "wikilink")（[Bing Crosby](https://ja.wikipedia.org/wiki/:en:Bing_Crosby "wikilink")）によって歌われ、その年のアカデミー主題歌賞を受賞。さらにビング・クロスビーのレコードは史上最も売れたレコードとしての記録を保持し続けている。シングル「[クリスマス・イブ](https://ja.wikipedia.org/wiki/クリスマス・イブ_\(山下達郎の曲\) "wikilink")」\[9\]のカップリングに収録され、後に『SEASON'S GREETINGS』\[10\]にも収録された\[11\]。
+        [1942年](../Page/1942年.md "wikilink")のパラマウント映画『[Holiday Inn](https://ja.wikipedia.org/wiki/:en:Holiday_Inn_\(film\) "wikilink")』（邦題『スイング・ホテル』、[1947年](../Page/1947年.md "wikilink")封切）の中で、[ビング・クロスビー](../Page/ビング・クロスビー.md "wikilink")（[Bing Crosby](https://ja.wikipedia.org/wiki/:en:Bing_Crosby "wikilink")）によって歌われ、その年のアカデミー主題歌賞を受賞。さらにビング・クロスビーのレコードは史上最も売れたレコードとしての記録を保持し続けている。シングル「[クリスマス・イブ](https://ja.wikipedia.org/wiki/クリスマス・イブ_\(山下達郎の曲\) "wikilink")」\[9\]のカップリングに収録され、後に『SEASON'S GREETINGS』\[10\]にも収録された\[11\]。
 
 ### クレジット
 
@@ -76,7 +76,7 @@
   - ALL VOICES, INSTRUMENTS & EFFECTS BY TATSURO YAMASHITA
       - except ; [MARIYA TAKEUCHI](https://ja.wikipedia.org/wiki/竹内まりや "wikilink") : Narration on “Ten Commandments Of Love”
       - [CINDY](../Page/CINDY.md "wikilink") : High part on “Make It Easy On Yourself”
-  - Exective Producer : [RYUZO “JUNIOR” KOSUGI](https://ja.wikipedia.org/wiki/小杉理宇造 "wikilink")
+  - Exective Producer : [RYUZO “JUNIOR” KOSUGI](../Page/小杉理宇造.md "wikilink")
   - Recording Engineers : [TAMOTSU YOSHIDA](https://ja.wikipedia.org/wiki/吉田保_\(レコーディングエンジニア\) "wikilink"), MASATO OHMORI, YASUO SATOH & AKIRA FUKADA
   - Mixing Engineer : TAMOTSU YOSHIDA
   - Assistant Engineers : TATSUYA NAKAMURA, JUNJI MATSUO & YUKIHIRO FUKUDA
@@ -117,7 +117,7 @@
         © Copyright 1958 by ARC MUSIC CORP.
         Assigned to Rock'N'Roll music Company for Japan and Far East (Hong Kong,
         The Philippines, Taiwan, Korea, Malaysia, Singapore and Thailand)
-        All rights controlled by [Shinko Music Publishing Co.,Ltd., Tokyo](https://ja.wikipedia.org/wiki/シンコーミュージック・エンタテイメント "wikilink")
+        All rights controlled by [Shinko Music Publishing Co.,Ltd., Tokyo](../Page/シンコーミュージック・エンタテイメント.md "wikilink")
         Authorized for sale in Japan only
 3.  **SO MUCH IN LOVE**
       -
@@ -136,17 +136,17 @@
       -
         JEFF BARRY - BOBBY BLOOM
         ©1971 by EMI/UNART CATALOG INC.
-        1986年にレコーディングされ、その時ミックスされたテイク。[ステイプル・シンガーズ](../Page/ザ・ステイプル・シンガーズ.md "wikilink")（[The Staple Singers](https://ja.wikipedia.org/wiki/:en:The_Staple_Singers "wikilink")）の[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")のヒット曲だが、山下のヴァージョンは作曲者であるソング・ライター、ボビー・ブルーム（[Bobby Bloom](https://ja.wikipedia.org/wiki/:en:Bobby_Bloom "wikilink")）のソロ・アルバムでのアレンジが土台になっている。
+        1986年にレコーディングされ、その時ミックスされたテイク。[ステイプル・シンガーズ](../Page/ザ・ステイプル・シンガーズ.md "wikilink")（[The Staple Singers](https://ja.wikipedia.org/wiki/:en:The_Staple_Singers "wikilink")）の[1970年](../Page/1970年.md "wikilink")のヒット曲だが、山下のヴァージョンは作曲者であるソング・ライター、ボビー・ブルーム（[Bobby Bloom](https://ja.wikipedia.org/wiki/:en:Bobby_Bloom "wikilink")）のソロ・アルバムでのアレンジが土台になっている。
 7.  **WILL YOU LOVE ME TOMORROW**
       -
         [CAROLE KING](https://ja.wikipedia.org/wiki/:en:Carole_King "wikilink") - [GERRY GOFFIN](https://ja.wikipedia.org/wiki/:en:Gerry_Goffin "wikilink")
         ©Screen Gems-EMI Music Inc.
-        [1960年](../Page/1960年.md "wikilink")にシレルズ（[The Shirelles](https://ja.wikipedia.org/wiki/:en:The_Shirelles "wikilink")）によって歌われた曲が\[13\]、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")に[キャロル・キング](https://ja.wikipedia.org/wiki/キャロル・キング "wikilink")（[Carole King](https://ja.wikipedia.org/wiki/:en:Carole_King "wikilink")）自身のアルバム『[つづれおり](https://ja.wikipedia.org/wiki/つづれおり "wikilink")』\[14\]へと引き継がれたことで、ティーン・エイジ・ラブ・ソングに新たな意味が加えられ、哲学的な崇高さが加味された曲としてキャロル・キング & ジェリー・ゴフィン（[Carole King](https://ja.wikipedia.org/wiki/:en:Carole_King "wikilink")-[Gerry Goffin](https://ja.wikipedia.org/wiki/:en:Gerry_Goffin "wikilink")）の最高傑作のひとつというだけでなく、ロックン・ロールにとって最も価値ある一作に感じられるという。
+        [1960年](../Page/1960年.md "wikilink")にシレルズ（[The Shirelles](https://ja.wikipedia.org/wiki/:en:The_Shirelles "wikilink")）によって歌われた曲が\[13\]、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")に[キャロル・キング](../Page/キャロル・キング.md "wikilink")（[Carole King](https://ja.wikipedia.org/wiki/:en:Carole_King "wikilink")）自身のアルバム『[つづれおり](../Page/つづれおり.md "wikilink")』\[14\]へと引き継がれたことで、ティーン・エイジ・ラブ・ソングに新たな意味が加えられ、哲学的な崇高さが加味された曲としてキャロル・キング & ジェリー・ゴフィン（[Carole King](https://ja.wikipedia.org/wiki/:en:Carole_King "wikilink")-[Gerry Goffin](https://ja.wikipedia.org/wiki/:en:Gerry_Goffin "wikilink")）の最高傑作のひとつというだけでなく、ロックン・ロールにとって最も価値ある一作に感じられるという。
 8.  **CHAPEL OF DREAMS**
       -
         BILLY MYLES
         ©1959 by \*EMI LONGITUDE / SELBONN MUSIC INC.
-        \*The rights for Japan assigned to [FUJIPACIFIC MUSIC INC.](https://ja.wikipedia.org/wiki/フジパシフィックミュージック "wikilink")
+        \*The rights for Japan assigned to [FUJIPACIFIC MUSIC INC.](../Page/フジパシフィックミュージック.md "wikilink")
 9.  **[YOU MAKE ME FEEL BRAND NEW](https://ja.wikipedia.org/wiki/:en:You_Make_Me_Feel_Brand_New "wikilink")**
       -
         THOM BELL - LINDA CREED
@@ -163,13 +163,13 @@
         [IRVING BERLIN](../Page/アーヴィング・バーリン.md "wikilink")
         ©Copyright 1940 and 1942 by IRVING BERLIN
         International Copyright Secured All Rights Reserved
-        Rights for Japan controlled by [Shinko Music Publishing Co.,Ltd., Tokyo](https://ja.wikipedia.org/wiki/シンコーミュージック・エンタテイメント "wikilink")
+        Rights for Japan controlled by [Shinko Music Publishing Co.,Ltd., Tokyo](../Page/シンコーミュージック・エンタテイメント.md "wikilink")
         Authorized for sale in Japan only
 
 ### クレジット
 
   - PRODUCED and ARRANGED by TATSURO YAMASHITA for TENDABERRY MUSIC INC.
-  - Exective Producer : [RYUZO “JUNIOR” KOSUGI](https://ja.wikipedia.org/wiki/小杉理宇造 "wikilink") (Smile Group)
+  - Exective Producer : [RYUZO “JUNIOR” KOSUGI](../Page/小杉理宇造.md "wikilink") (Smile Group)
   - All Voices, Instruments & Effects by TATSURO YAMASHITA
       - except ; [MARIYA TAKEUCHI](https://ja.wikipedia.org/wiki/竹内まりや "wikilink") : Narration on “Ten Commandments Of Love”
       - [CINDY](../Page/CINDY.md "wikilink") : High part on “Make It Easy On Yourself”
@@ -181,7 +181,7 @@
   - CD Mastering Engineer : MITSUHARU HARADA (Disc Lab)
   - Mastering Studio : ON AIR AZABU
   - A\&R Co-ordinator : HIROYUKI IKEDA (WMJ)
-  - Artist Management : MITSUHIRO TAMURA ([Smile Company](https://ja.wikipedia.org/wiki/スマイルカンパニー "wikilink"))
+  - Artist Management : MITSUHIRO TAMURA ([Smile Company](../Page/スマイルカンパニー.md "wikilink"))
   - Assistant Management : TETSUYA FUJINO (Smile Company)
   - Copyrights Management : MASAHARU NOJIMA (Smile Publishers)
   - Art Direction & Cover Design : SHUSAKU HARIMA, NAHOKO WASHIO ([Tohokushinsha Film Co.](https://ja.wikipedia.org/wiki/東北新社 "wikilink"))
@@ -217,7 +217,7 @@
 8.  『[SEASON'S GREETINGS](https://ja.wikipedia.org/wiki/SEASON'S_GREETINGS "wikilink")』 [1993年](../Page/1993年.md "wikilink")[11月18日](../Page/11月18日.md "wikilink")発売 MOON ⁄ MMG CD:AMCM-4180
 9.  「[クリスマス・イブ](https://ja.wikipedia.org/wiki/クリスマス・イブ_\(山下達郎の曲\) "wikilink")」 [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[11月10日](../Page/11月10日.md "wikilink")発売 MOON ⁄ ALFA MOON EP:MOON-508M
 10.
-11. [日本テレビ](../Page/日本テレビ放送網.md "wikilink")『[HAPPY Xmas SHOW](../Page/HAPPY_Xmas_SHOW.md "wikilink")』のオープニング・ヴァージョンも制作され、『[山下達郎のサンデー・ソングブック](https://ja.wikipedia.org/wiki/山下達郎のサンデー・ソングブック "wikilink")』でオンエアされた。
-12. 『[ON THE STREET CORNER 3](https://ja.wikipedia.org/wiki/ON_THE_STREET_CORNER_3 "wikilink")』 [1999年](../Page/1999年.md "wikilink")[11月25日](../Page/11月25日.md "wikilink")発売 [MOON](../Page/MOON_RECORDS.md "wikilink") ⁄ [WARNER MUSIC JAPAN](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink") CD:WPC2-10032
+11. [日本テレビ](../Page/日本テレビ放送網.md "wikilink")『[HAPPY Xmas SHOW](../Page/HAPPY_Xmas_SHOW.md "wikilink")』のオープニング・ヴァージョンも制作され、『[山下達郎のサンデー・ソングブック](../Page/山下達郎のサンデー・ソングブック.md "wikilink")』でオンエアされた。
+12. 『[ON THE STREET CORNER 3](https://ja.wikipedia.org/wiki/ON_THE_STREET_CORNER_3 "wikilink")』 [1999年](../Page/1999年.md "wikilink")[11月25日](../Page/11月25日.md "wikilink")発売 [MOON](../Page/MOON_RECORDS.md "wikilink") ⁄ [WARNER MUSIC JAPAN](../Page/ワーナーミュージック・ジャパン.md "wikilink") CD:WPC2-10032
 13. [The Shirelles](https://ja.wikipedia.org/wiki/:en:The_Shirelles "wikilink") 「[Will You Love Me Tomorrow](https://ja.wikipedia.org/wiki/:en:Will_You_Love_Me_Tomorrow "wikilink") b/w [Boys](https://ja.wikipedia.org/wiki/:en:Boys_\(The_Shirelles_song\) "wikilink")」 Released in 1960 [Scepter](https://ja.wikipedia.org/wiki/:en:Scepter_Records "wikilink") EP:1211
 14. [Carole King](https://ja.wikipedia.org/wiki/:en:Carole_King "wikilink") 『[Tapestry](https://ja.wikipedia.org/wiki/:en:Tapestry_\(Carole_King_album\) "wikilink")』 Released in February 10 1971 [Ode](https://ja.wikipedia.org/wiki/:en:Ode_Records "wikilink")

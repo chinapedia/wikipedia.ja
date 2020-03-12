@@ -1,13 +1,13 @@
 > この記事は[Creative Zen](https://ja.wikipedia.org/wiki/Creative_Zen)から翻訳されています。
 
 
-**Creative Zen** (*クリエイティブ・ゼン*) とは、[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")の[クリエイティブテクノロジー](https://ja.wikipedia.org/wiki/クリエイティブテクノロジー "wikilink")が開発・発売している[デジタルオーディオプレーヤー](../Page/デジタルオーディオプレーヤー.md "wikilink")シリーズである。
+**Creative Zen** (*クリエイティブ・ゼン*) とは、[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")の[クリエイティブテクノロジー](../Page/クリエイティブテクノロジー.md "wikilink")が開発・発売している[デジタルオーディオプレーヤー](../Page/デジタルオーディオプレーヤー.md "wikilink")シリーズである。
 
 ## 概要
 
-同社初期からの製品群である[NOMAD](https://ja.wikipedia.org/wiki/NOMAD "wikilink")シリーズの後継的なラインナップである（NOMADシリーズが廃止されたわけではない）。
+同社初期からの製品群である[NOMAD](../Page/NOMAD.md "wikilink")シリーズの後継的なラインナップである（NOMADシリーズが廃止されたわけではない）。
 
-[Windows Media Playerと高い親和性を持たせるために](https://ja.wikipedia.org/wiki/Windows_Media_Player "wikilink")[メディア転送プロトコル](https://ja.wikipedia.org/wiki/メディア転送プロトコル "wikilink")を採用している。
+[Windows Media Playerと高い親和性を持たせるために](../Page/Windows_Media_Player.md "wikilink")[メディア転送プロトコル](https://ja.wikipedia.org/wiki/メディア転送プロトコル "wikilink")を採用している。
 
 モデルによる違いはあるが、音楽の再生のみならず、[FMラジオの](https://ja.wikipedia.org/wiki/ラジオ#FM放送（超短波放送） "wikilink")[受信](https://ja.wikipedia.org/wiki/受信 "wikilink")・[録音](../Page/録音.md "wikilink")や[ビデオ](../Page/ビデオ.md "wikilink")[再生](https://ja.wikipedia.org/wiki/再生 "wikilink")、スケジュール・アドレス帳管理などの機能を備えているものがある。
 
@@ -20,8 +20,8 @@
   - Zen Touch
       -
         2004年8月上旬発売で価格は29,800円。2004年12上旬に40GBモデルが追加された。価格は39,800円。
-        2インチ大の青色EL[バックライト](../Page/バックライト.md "wikilink")付き[液晶ディスプレイ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")を搭載し、Creativeで初めて静電式[タッチパッド](https://ja.wikipedia.org/wiki/タッチパッド "wikilink")を採用したモデル。
-        再生フォーマットは[MP3](../Page/MP3.md "wikilink")/[WMA](https://ja.wikipedia.org/wiki/WMA "wikilink")/[WAV](https://ja.wikipedia.org/wiki/WAV "wikilink")、容量は20GBと40GBの二種類が存在する。
+        2インチ大の青色EL[バックライト](../Page/バックライト.md "wikilink")付き[液晶ディスプレイ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")を搭載し、Creativeで初めて静電式[タッチパッド](../Page/タッチパッド.md "wikilink")を採用したモデル。
+        再生フォーマットは[MP3](../Page/MP3.md "wikilink")/[WMA](https://ja.wikipedia.org/wiki/WMA "wikilink")/[WAV](../Page/WAV.md "wikilink")、容量は20GBと40GBの二種類が存在する。
         薄型・大容量のリチウムポリマー二次電池を採用し、約24時間の連続再生を実現した。【生産終了】
 
 {{-}} [thumb](https://ja.wikipedia.org/wiki/ファイル:Portable_Media_Center.jpg "wikilink")
@@ -53,7 +53,7 @@
         2005年6月上旬発売で、価格は23,800円。6GBモデルは2005年9月下旬に24,800円で発売。
         裏面のみカラーが異なり、パープル、ダークブルー、ブルー、グリーン、イエロー、オレンジ、レッド、ピンク、シルバー、ブロンズの10色(ダークブルー、イエロー、ピンク、ブロンズは直販限定カラーで6GBモデルはこれらを除く6色のみ)のカラーバリエーションがある。
         別売のスキンジャケットを用いて着せ替えが可能。
-        他のHDD搭載機種とは異なりUSBマスストレージクラスで音楽ファイルの転送を行う[フォルダ](https://ja.wikipedia.org/wiki/フォルダ "wikilink")方式の[ファイル管理である](https://ja.wikipedia.org/wiki/ファイル_\(コンピュータ\) "wikilink")。また、MTPには未対応である。
+        他のHDD搭載機種とは異なりUSBマスストレージクラスで音楽ファイルの転送を行う[フォルダ](https://ja.wikipedia.org/wiki/フォルダ "wikilink")方式の[ファイル管理である](../Page/ファイル_\(コンピュータ\).md "wikilink")。また、MTPには未対応である。
         [液晶ディスプレイ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")は[モノクロ](https://ja.wikipedia.org/wiki/モノクロ "wikilink")で7色のEL[バックライト](../Page/バックライト.md "wikilink")を内蔵している。5GBと6GBの二種類が存在し、現状では5GBモデルは生産中止になっている。
         また、Neeonは後述のフラッシュメモリータイプも存在する。【生産終了】
 
@@ -69,7 +69,7 @@
       -
         2005年11月上旬発売で価格は29,800円。
         約26万色表示のカラー[有機EL](https://ja.wikipedia.org/wiki/有機EL "wikilink") (OLED) ディスプレイを搭載していて、鮮やかな表示を特徴としている。
-        対応形式は音楽では[MP3](../Page/MP3.md "wikilink")/[WMA](https://ja.wikipedia.org/wiki/WMA "wikilink")/[WAV](https://ja.wikipedia.org/wiki/WAV "wikilink")E、静止画では[JPEG](../Page/JPEG.md "wikilink")に対応。ハードディスク容量は8GB
+        対応形式は音楽では[MP3](../Page/MP3.md "wikilink")/[WMA](https://ja.wikipedia.org/wiki/WMA "wikilink")/[WAV](../Page/WAV.md "wikilink")E、静止画では[JPEG](../Page/JPEG.md "wikilink")に対応。ハードディスク容量は8GB
         色はグレー、ピンク、ライトブルー、グリーン、オレンジ、ホワイト、レッド、ダークブルー、パープル、ブラックの10色が用意されている。
         内蔵の電池はZEN Microと共通の型であるが、こちらのほうが高容量 (830mAh) のものになっている。【生産終了】
 
@@ -98,7 +98,7 @@
         2005年5月下旬発売で、価格はそれぞれ、10,800円(256MB)、14,800円(512MB)、21,800円(1GB)
         「MuVo Micro N200」から名称を変更し、新色を2色追加したモデルで、256MB～1GBの容量と10色のバリエーションから選べる。
         従来のMuvoシリーズと同様に転送ソフト不要でエクスプローラ上で転送が可能。また、MTPには未対応である。
-        使い捨て[ライター](../Page/ライター.md "wikilink")程度の大きさながら、ライン入力による録音とFMラジオの受信・録音が可能。[電源](https://ja.wikipedia.org/wiki/電源 "wikilink")は単4[乾電池](../Page/乾電池.md "wikilink")である。
+        使い捨て[ライター](../Page/ライター.md "wikilink")程度の大きさながら、ライン入力による録音とFMラジオの受信・録音が可能。[電源](../Page/電源.md "wikilink")は単4[乾電池](../Page/乾電池.md "wikilink")である。
         ディズニーキャラクターを使用したDAP Pも発売した。【生産終了】
   - ZEN Neeon (CZNx) / DAP N
       -
@@ -186,7 +186,7 @@
 
 ## 外部リンク
 
-  - [ZEN特許](http://www.uspto.gov/web/patents/patog/week32/OG/html/1297-2/US06928433-20050809.html)（英語）：Creative Technology LTD.が所有する[ユーザインタフェース](../Page/ユーザインタフェース.md "wikilink")関連の[特許](https://ja.wikipedia.org/wiki/特許 "wikilink")。iPod等にも同様のものが採用されている。
+  - [ZEN特許](http://www.uspto.gov/web/patents/patog/week32/OG/html/1297-2/US06928433-20050809.html)（英語）：Creative Technology LTD.が所有する[ユーザインタフェース](../Page/ユーザインタフェース.md "wikilink")関連の[特許](../Page/特許.md "wikilink")。iPod等にも同様のものが採用されている。
   - [Creative Worldwide](http://www.creative.com/)（英語）：同社のウェブサイト
   - [jp.creative.com](http://jp.creative.com/)（日本語）：同社の日本法人「クリエイティブメディア」のウェブサイト
   - [ZENシリーズ製品情報](http://jp.creative.com/products/welcome.asp?category=213&subcategory=214&)（日本語）：jp.creative.com内の製品リストページ

@@ -5,7 +5,7 @@
 
 ## 解説
 
-リミックスアルバムとしては『[ayu-mi-x III](https://ja.wikipedia.org/wiki/ayu-mi-x_III "wikilink")』から約7ヵ月ぶりのリリースで、『**[ayu-ro mix](../Page/SUPER_EUROBEAT_presents_ayu-ro_mix.md "wikilink")**』シリーズの第2弾。24thシングル「[Dearest](../Page/Dearest_\(浜崎あゆみの曲\).md "wikilink")」、リミックスアルバム『[Cyber TRANCE presents ayu trance](https://ja.wikipedia.org/wiki/Cyber_TRANCE_presents_ayu_trance "wikilink")』と同時発売。
+リミックスアルバムとしては『[ayu-mi-x III](https://ja.wikipedia.org/wiki/ayu-mi-x_III "wikilink")』から約7ヵ月ぶりのリリースで、『**[ayu-ro mix](../Page/SUPER_EUROBEAT_presents_ayu-ro_mix.md "wikilink")**』シリーズの第2弾。24thシングル「[Dearest](../Page/Dearest_\(浜崎あゆみの曲\).md "wikilink")」、リミックスアルバム『[Cyber TRANCE presents ayu trance](../Page/Cyber_TRANCE_presents_ayu_trance.md "wikilink")』と同時発売。
 
 14thシングル「[vogue](https://ja.wikipedia.org/wiki/vogue_\(浜崎あゆみの曲\) "wikilink")」から22ndシングル「[Endless sorrow](../Page/Endless_sorrow.md "wikilink")」までのシングル表題曲9曲と、3rdアルバム『[Duty](../Page/Duty.md "wikilink")』の表題曲「Duty」の計10曲の未発表リミックスを収録。ボーナストラックとして、シリーズ前作の『[SUPER EUROBEAT presents ayu-ro mix](../Page/SUPER_EUROBEAT_presents_ayu-ro_mix.md "wikilink")』から3曲のリミックスの新バージョンを収録している。
 
@@ -20,7 +20,7 @@
 
 1.  [AUDIENCE](../Page/AUDIENCE.md "wikilink") "Euro-Power Mix"
       -
-        Remixed by [DAVE RODGERS](https://ja.wikipedia.org/wiki/デイブ・ロジャース "wikilink")
+        Remixed by [DAVE RODGERS](../Page/デイブ・ロジャース.md "wikilink")
 2.  [evolution](../Page/Evolution_\(浜崎あゆみの曲\).md "wikilink") "Time Is Pop Mix"
       -
         Remixed by SERGIO DALL'ORA & LUCA DEGANI
@@ -29,7 +29,7 @@
         Remixed by SERGIO DALL'ORA & LUCA DEGANI
 4.  [Duty](../Page/Duty.md "wikilink") "Power Mind Mix"
       -
-        Remixed by [LAURENT NEWFIELD](https://ja.wikipedia.org/wiki/ローラン・ジェルメッティ "wikilink")
+        Remixed by [LAURENT NEWFIELD](../Page/ローラン・ジェルメッティ.md "wikilink")
 5.  [vogue](https://ja.wikipedia.org/wiki/vogue_\(浜崎あゆみの曲\) "wikilink") "Traditional Mix"
       -
         Remixed by DAVE RODGERS
@@ -44,7 +44,7 @@
         Remixed by SERGIO DALL'ORA & LUCA DEGANI
 9.  [Far away](../Page/Far_away_\(浜崎あゆみの曲\).md "wikilink") "ayu-ro Extended Mix"
       -
-        Remixed by [BRATT SINCLAIRE](https://ja.wikipedia.org/wiki/アンドレア・レオナルディ "wikilink")
+        Remixed by [BRATT SINCLAIRE](../Page/アンドレア・レオナルディ.md "wikilink")
 10. [SURREAL](../Page/SURREAL.md "wikilink") "Time A Go-Go Mix"
       -
         Remixed by SERGIO DALL'ORA & LUCA DEGANI

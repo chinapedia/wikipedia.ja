@@ -1,9 +1,9 @@
 > この記事は[OLIVE \(\)](https://ja.wikipedia.org/wiki/OLIVE_\(\))から翻訳されています。
 
 
-『**OLIVE**』（オリーブ）は、[松任谷由実](../Page/松任谷由実.md "wikilink")（ユーミン）の7枚目のオリジナルアルバム。[1979年](../Page/1979年.md "wikilink")[7月20日](../Page/7月20日.md "wikilink")に[東芝EMIからリリースされた](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")（[LP](../Page/レコード.md "wikilink")：ETP-80085、[CT](../Page/コンパクトカセット.md "wikilink")：ZT25-425）。 [1979年](../Page/1979年.md "wikilink")[6月3日](../Page/6月3日.md "wikilink")～[7月30日](../Page/7月30日.md "wikilink")に『OLIVE』コンサートツアーが行われた。[1981年](../Page/1981年.md "wikilink")[5月5日](../Page/5月5日.md "wikilink")再発（LP：ETP-90083、CT：ZT28-783）。
+『**OLIVE**』（オリーブ）は、[松任谷由実](../Page/松任谷由実.md "wikilink")（ユーミン）の7枚目のオリジナルアルバム。[1979年](../Page/1979年.md "wikilink")[7月20日](../Page/7月20日.md "wikilink")に[東芝EMIからリリースされた](../Page/EMIミュージック・ジャパン.md "wikilink")（[LP](../Page/レコード.md "wikilink")：ETP-80085、[CT](../Page/コンパクトカセット.md "wikilink")：ZT25-425）。 [1979年](../Page/1979年.md "wikilink")[6月3日](../Page/6月3日.md "wikilink")～[7月30日](../Page/7月30日.md "wikilink")に『OLIVE』コンサートツアーが行われた。[1981年](../Page/1981年.md "wikilink")[5月5日](../Page/5月5日.md "wikilink")再発（LP：ETP-90083、CT：ZT28-783）。
 
-[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[6月1日](../Page/6月1日.md "wikilink")に初[CD化](../Page/CD-DA.md "wikilink")（CA32-1133）。[1999年](../Page/1999年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")に[LPのブックレットを復刻し](../Page/レコード.md "wikilink")、[バーニー・グランドマン](https://ja.wikipedia.org/wiki/バーニー・グランドマン "wikilink")による[デジタルリマスタリングで音質を大幅に向上したリマスタリング](https://ja.wikipedia.org/wiki/デジタルリマスター "wikilink")[CD](../Page/CD-DA.md "wikilink")（TOCT-10640）と[LP](../Page/レコード.md "wikilink")（TOJT-10640）をリリース。
+[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[6月1日](../Page/6月1日.md "wikilink")に初[CD化](../Page/CD-DA.md "wikilink")（CA32-1133）。[1999年](../Page/1999年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")に[LPのブックレットを復刻し](../Page/レコード.md "wikilink")、[バーニー・グランドマン](https://ja.wikipedia.org/wiki/バーニー・グランドマン "wikilink")による[デジタルリマスタリングで音質を大幅に向上したリマスタリング](../Page/デジタルリマスター.md "wikilink")[CD](../Page/CD-DA.md "wikilink")（TOCT-10640）と[LP](../Page/レコード.md "wikilink")（TOJT-10640）をリリース。
 
 ## 解説
 
@@ -23,18 +23,18 @@
 2.  **青いエアメイル** *-Blue Airmail Envelope-*
       -
         [2007年](../Page/2007年.md "wikilink")[12月29日](../Page/12月29日.md "wikilink")[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『Yuming Films』でドラマ化された（第2話「バイバイ、ベアー〜青いエアメイル」、監督：[甲斐さやか](https://ja.wikipedia.org/wiki/甲斐さやか "wikilink")、主演：[多部未華子](https://ja.wikipedia.org/wiki/多部未華子 "wikilink")、ただしドラマの中では、歌詞内容と状況が異なっている）。[岩崎宏美](../Page/岩崎宏美.md "wikilink")に提供する予定の曲だったが没になった(本人談)。
-        カバー：[今井美樹](https://ja.wikipedia.org/wiki/今井美樹 "wikilink")（2013年）
+        カバー：[今井美樹](../Page/今井美樹.md "wikilink")（2013年）
 3.  **ツバメのように**
       -
-        高層ビルから[飛び降り](https://ja.wikipedia.org/wiki/飛び降り "wikilink")[自殺](../Page/自殺.md "wikilink")をした若い女性を[ツバメ](../Page/ツバメ.md "wikilink")に例え、第三者の視点で歌った楽曲。
+        高層ビルから[飛び降り](../Page/飛び降り.md "wikilink")[自殺](../Page/自殺.md "wikilink")をした若い女性を[ツバメ](../Page/ツバメ.md "wikilink")に例え、第三者の視点で歌った楽曲。
 4.  **最後の春休み**
       -
-        [ハイ・ファイ・セット](https://ja.wikipedia.org/wiki/ハイ・ファイ・セット "wikilink")への提供曲。[1991年](../Page/1991年.md "wikilink")に『[ルージュの伝言](https://ja.wikipedia.org/wiki/ルージュの伝言 "wikilink")』（[TBS](../Page/TBSテレビ.md "wikilink")）でドラマ化された（第5話、出演・[深津絵里](https://ja.wikipedia.org/wiki/深津絵里 "wikilink")、[武田真治](../Page/武田真治.md "wikilink")ほか）。
+        [ハイ・ファイ・セット](../Page/ハイ・ファイ・セット.md "wikilink")への提供曲。[1991年](../Page/1991年.md "wikilink")に『[ルージュの伝言](../Page/ルージュの伝言.md "wikilink")』（[TBS](../Page/TBSテレビ.md "wikilink")）でドラマ化された（第5話、出演・[深津絵里](https://ja.wikipedia.org/wiki/深津絵里 "wikilink")、[武田真治](../Page/武田真治.md "wikilink")ほか）。
         カバー：[伊藤麻衣子](../Page/いとうまい子.md "wikilink")（1983年）、[千菅春香](https://ja.wikipedia.org/wiki/千菅春香 "wikilink")（2013年）。
 5.  **甘い予感**
       -
-        [1977年](../Page/1977年.md "wikilink")の[アン・ルイス](../Page/アン・ルイス.md "wikilink")への提供曲。詞の中に[カーラジオ](https://ja.wikipedia.org/wiki/カーラジオ "wikilink")の[BGMとして](https://ja.wikipedia.org/wiki/バックグラウンドミュージック "wikilink")[ビーチボーイズが登場](../Page/ザ・ビーチ・ボーイズ.md "wikilink")。
-        カバー：[ザ・リリーズ](../Page/ザ・リリーズ_\(女性アイドル\).md "wikilink")（1981年）、[モダンチョキチョキズ](https://ja.wikipedia.org/wiki/モダンチョキチョキズ "wikilink")（1992年）、[井上陽水](../Page/井上陽水.md "wikilink")（1999年）。
+        [1977年](../Page/1977年.md "wikilink")の[アン・ルイス](../Page/アン・ルイス.md "wikilink")への提供曲。詞の中に[カーラジオ](https://ja.wikipedia.org/wiki/カーラジオ "wikilink")の[BGMとして](../Page/バックグラウンドミュージック.md "wikilink")[ビーチボーイズが登場](../Page/ザ・ビーチ・ボーイズ.md "wikilink")。
+        カバー：[ザ・リリーズ](../Page/ザ・リリーズ_\(女性アイドル\).md "wikilink")（1981年）、[モダンチョキチョキズ](../Page/モダンチョキチョキズ.md "wikilink")（1992年）、[井上陽水](../Page/井上陽水.md "wikilink")（1999年）。
 6.  **[帰愁](../Page/帰愁.md "wikilink")**
       -
         かつての恋人と再会したものの、素直に本当の気持ちを言えなかった女性の後悔と未練がテーマ。13枚目のシングルとしてリリース。
@@ -42,25 +42,25 @@
 7.  **[冷たい雨](../Page/『いちご白書』をもう一度.md "wikilink")**
       -
         喧嘩をして出て行き、部屋に戻ったらもう別の女が居たという内容の曲。[1975年](../Page/1975年.md "wikilink")の[バンバンへの提供曲でヒット曲となった](../Page/バンバン_\(フォークグループ\).md "wikilink")「『いちご白書』をもう一度」のB面に収録されていた楽曲。楽曲自体は荒井由実時代に作られたものだった為、作詞・作曲のクレジットも「荒井由実」になっている。
-        [TBS](../Page/TBSテレビ.md "wikilink")『[ルージュの伝言](https://ja.wikipedia.org/wiki/ルージュの伝言 "wikilink")』でドラマ化された（第14話、主演・[伊藤美紀](https://ja.wikipedia.org/wiki/伊藤美紀_\(女優\) "wikilink")）。
-        カバー：ハイ・ファイ・セット（1976年）、[倉田まり子](https://ja.wikipedia.org/wiki/坪田まり子 "wikilink")（1982年）、[森丘祥子](../Page/柴田くに子.md "wikilink")（1990年）、[香西かおり](https://ja.wikipedia.org/wiki/香西かおり "wikilink")（2001年）、スティーヴン・ビショップ（2003年）、[錢錢](https://ja.wikipedia.org/wiki/錢錢 "wikilink")（広東語、1980年オムニバスアルバム「6Pair半」『冷雨』）、[莫文蔚](https://ja.wikipedia.org/wiki/莫文蔚 "wikilink")（[カレン・モク](../Page/カレン・モク.md "wikilink")）（広東語、1999年ミニアルバム「回家」『冷雨』）、[謝巧丹](https://ja.wikipedia.org/wiki/謝巧丹 "wikilink")（広東語、2006年アルバム「夜半輕私語」『冷雨』）、[張德蘭](https://ja.wikipedia.org/wiki/張德蘭 "wikilink")（広東語、2012年アルバム「重遇 Delighting You Always」『冷雨』）、[顏培珊](https://ja.wikipedia.org/wiki/顏培珊 "wikilink")（広東語、2014年アルバム「To Bossa 芭莎的奇想曲」『冷雨』）、[柏安妮](https://ja.wikipedia.org/wiki/柏安妮 "wikilink")（広東語、1989年アルバム「不經意」『再見昨天』）、[肖盈](https://ja.wikipedia.org/wiki/肖盈 "wikilink")（北京語、1987年アルバム「眼中情人」『純潔的心』）、[莫文蔚](https://ja.wikipedia.org/wiki/莫文蔚 "wikilink")（[カレン・モク](../Page/カレン・モク.md "wikilink")）（北京語、1999年アルバム「就是 莫文蔚」『雙城故事』）。
+        [TBS](../Page/TBSテレビ.md "wikilink")『[ルージュの伝言](../Page/ルージュの伝言.md "wikilink")』でドラマ化された（第14話、主演・[伊藤美紀](../Page/伊藤美紀_\(女優\).md "wikilink")）。
+        カバー：ハイ・ファイ・セット（1976年）、[倉田まり子](../Page/坪田まり子.md "wikilink")（1982年）、[森丘祥子](../Page/柴田くに子.md "wikilink")（1990年）、[香西かおり](../Page/香西かおり.md "wikilink")（2001年）、スティーヴン・ビショップ（2003年）、[錢錢](https://ja.wikipedia.org/wiki/錢錢 "wikilink")（広東語、1980年オムニバスアルバム「6Pair半」『冷雨』）、[莫文蔚](https://ja.wikipedia.org/wiki/莫文蔚 "wikilink")（[カレン・モク](../Page/カレン・モク.md "wikilink")）（広東語、1999年ミニアルバム「回家」『冷雨』）、[謝巧丹](https://ja.wikipedia.org/wiki/謝巧丹 "wikilink")（広東語、2006年アルバム「夜半輕私語」『冷雨』）、[張德蘭](https://ja.wikipedia.org/wiki/張德蘭 "wikilink")（広東語、2012年アルバム「重遇 Delighting You Always」『冷雨』）、[顏培珊](https://ja.wikipedia.org/wiki/顏培珊 "wikilink")（広東語、2014年アルバム「To Bossa 芭莎的奇想曲」『冷雨』）、[柏安妮](https://ja.wikipedia.org/wiki/柏安妮 "wikilink")（広東語、1989年アルバム「不經意」『再見昨天』）、[肖盈](https://ja.wikipedia.org/wiki/肖盈 "wikilink")（北京語、1987年アルバム「眼中情人」『純潔的心』）、[莫文蔚](https://ja.wikipedia.org/wiki/莫文蔚 "wikilink")（[カレン・モク](../Page/カレン・モク.md "wikilink")）（北京語、1999年アルバム「就是 莫文蔚」『雙城故事』）。
 8.  **風の中の栗毛**
       -
-        珍しく[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")・ソロが展開されている。[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")の[堀川まゆみ](../Page/堀川まゆみ.md "wikilink")への提供曲。
+        珍しく[ベース](../Page/ベース_\(弦楽器\).md "wikilink")・ソロが展開されている。[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")の[堀川まゆみ](../Page/堀川まゆみ.md "wikilink")への提供曲。
 9.  **稲妻の少女**
       -
         無邪気なまでに[サーフィン](../Page/サーフィン.md "wikilink")を愛し、男の扱いにも手慣れている少女の歌。13枚目のシングル『帰愁』のB面。
 10. **りんごのにおいと風の国**
       -
-        曲中の[いのこずちとは](https://ja.wikipedia.org/wiki/イノコヅチ "wikilink")[ヒユ科](https://ja.wikipedia.org/wiki/ヒユ科 "wikilink")の[多年草で](https://ja.wikipedia.org/wiki/多年生植物 "wikilink")、実に三本のヒゲ状の棘があり、服などにくっつく。
+        曲中の[いのこずちとは](https://ja.wikipedia.org/wiki/イノコヅチ "wikilink")[ヒユ科](../Page/ヒユ科.md "wikilink")の[多年草で](../Page/多年生植物.md "wikilink")、実に三本のヒゲ状の棘があり、服などにくっつく。
 
 ## 参加ミュージシャン
 
-  - キーボード&マンドリン：[松任谷正隆](https://ja.wikipedia.org/wiki/松任谷正隆 "wikilink")
+  - キーボード&マンドリン：[松任谷正隆](../Page/松任谷正隆.md "wikilink")
   - ドラム：[林立夫](../Page/林立夫.md "wikilink")、[村上"ポンタ"秀一](../Page/村上秀一.md "wikilink")、[高橋幸宏](../Page/高橋幸宏.md "wikilink")
   - パーカッション：[斉藤ノブ](https://ja.wikipedia.org/wiki/斉藤ノブ "wikilink")、[Pecker](https://ja.wikipedia.org/wiki/Pecker "wikilink")
   - ベース：[細野晴臣](../Page/細野晴臣.md "wikilink")、[小原礼](../Page/小原礼.md "wikilink")、[高水健司](https://ja.wikipedia.org/wiki/高水健司 "wikilink")
-  - エレクトリックギター：[松原正樹](../Page/松原正樹.md "wikilink")、[今剛](https://ja.wikipedia.org/wiki/今剛 "wikilink")
+  - エレクトリックギター：[松原正樹](../Page/松原正樹.md "wikilink")、[今剛](../Page/今剛.md "wikilink")
   - アコースティックギター：Ted M. Gibson
   - トランペット：[数原晋](../Page/数原晋.md "wikilink")、[羽鳥幸次](https://ja.wikipedia.org/wiki/羽鳥幸次 "wikilink")、[白山文男](https://ja.wikipedia.org/wiki/白山文男 "wikilink")、[岸義和](https://ja.wikipedia.org/wiki/岸義和 "wikilink")、[竹田和三](https://ja.wikipedia.org/wiki/竹田和三 "wikilink")
   - トロンボーン：[新井英二](https://ja.wikipedia.org/wiki/新井英二 "wikilink")、[岡田澄夫](https://ja.wikipedia.org/wiki/岡田澄夫 "wikilink")

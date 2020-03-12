@@ -1,35 +1,35 @@
 > この記事は[DABO](https://ja.wikipedia.org/wiki/DABO)から翻訳されています。
 
 
-**DABO**（ダボ、本名：芦田 大介〈あしだ だいすけ〉、[1975年](../Page/1975年.md "wikilink")[1月6日](../Page/1月6日.md "wikilink") - ）は、[日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。[NITRO MICROPHONE UNDERGROUNDのMCとしても知られる](https://ja.wikipedia.org/wiki/NITRO_MICROPHONE_UNDERGROUND "wikilink")。[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")出身。
+**DABO**（ダボ、本名：芦田 大介〈あしだ だいすけ〉、[1975年](../Page/1975年.md "wikilink")[1月6日](../Page/1月6日.md "wikilink") - ）は、[日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。[NITRO MICROPHONE UNDERGROUNDのMCとしても知られる](../Page/NITRO_MICROPHONE_UNDERGROUND.md "wikilink")。[千葉県](../Page/千葉県.md "wikilink")出身。
 
 ## 来歴
 
-学生時代に[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ヒップホップ](../Page/ヒップホップ.md "wikilink")に夢中になり、17歳からラップを始める\[1\]。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")頃、[DJ HAZIME](../Page/DJ_HAZIME.md "wikilink")、[SUIKEN](https://ja.wikipedia.org/wiki/SUIKEN "wikilink")、[KEI-BOMBらと](../Page/THINK_TANK.md "wikilink")「CHANNEL5」というグループを結成。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、[SHAKKAZOMBIE](https://ja.wikipedia.org/wiki/SHAKKAZOMBIE "wikilink")の楽曲「共に行こう -version pure-」に、 [GORE-TEX](https://ja.wikipedia.org/wiki/GORE-TEX "wikilink")、SUIKEN、[MACKA-CHIN](https://ja.wikipedia.org/wiki/MACKA-CHIN "wikilink")と共に客演。[1999年](../Page/1999年.md "wikilink")、初のソロ名義の12'inchシングル「MR.FUDATZKEE」 をインディーズレーベルRealty Recordsから発売。
+学生時代に[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ヒップホップ](../Page/ヒップホップ.md "wikilink")に夢中になり、17歳からラップを始める\[1\]。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")頃、[DJ HAZIME](../Page/DJ_HAZIME.md "wikilink")、[SUIKEN](../Page/SUIKEN.md "wikilink")、[KEI-BOMBらと](../Page/THINK_TANK.md "wikilink")「CHANNEL5」というグループを結成。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、[SHAKKAZOMBIE](../Page/SHAKKAZOMBIE.md "wikilink")の楽曲「共に行こう -version pure-」に、 [GORE-TEX](https://ja.wikipedia.org/wiki/GORE-TEX "wikilink")、SUIKEN、[MACKA-CHIN](../Page/MACKA-CHIN.md "wikilink")と共に客演。[1999年](../Page/1999年.md "wikilink")、初のソロ名義の12'inchシングル「MR.FUDATZKEE」 をインディーズレーベルRealty Recordsから発売。
 
 ### NITRO MICROPHONE UNDERGROUND〜Def Jam Japan
 
-2000年10月7日、[NITRO MICROPHONE UNDERGROUNDのメンバーとしてアルバム](https://ja.wikipedia.org/wiki/NITRO_MICROPHONE_UNDERGROUND "wikilink")『NITRO MICROPHONE UNDERGROUND』をReality Recordsより発売。同年12月27日には同アルバムが[Def Jam Japan設立後初の作品として再発売される](https://ja.wikipedia.org/wiki/Def_Jam_Japan "wikilink")。その後、第1号アーティストとしてDef Jam Japanと契約。
+2000年10月7日、[NITRO MICROPHONE UNDERGROUNDのメンバーとしてアルバム](../Page/NITRO_MICROPHONE_UNDERGROUND.md "wikilink")『NITRO MICROPHONE UNDERGROUND』をReality Recordsより発売。同年12月27日には同アルバムが[Def Jam Japan設立後初の作品として再発売される](https://ja.wikipedia.org/wiki/Def_Jam_Japan "wikilink")。その後、第1号アーティストとしてDef Jam Japanと契約。
 
-[2001年](../Page/2001年.md "wikilink")6月13日、ファーストアルバム『PLATINUM TONGUE』発売。同アルバム収録曲の「レクサスグッチ」が映画『[ワイルド・スピード](https://ja.wikipedia.org/wiki/ワイルド・スピード "wikilink")』日本公開版のエンディングテーマに採用される。その後全国20都市ライブツアーを開催。また、[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")の[川畑要](https://ja.wikipedia.org/wiki/川畑要 "wikilink")と、**KAWABATA and DABO**名義でアナログ盤「BROTHERHOOD」を発表。[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")のファーストアルバム『[The Way We Are](../Page/The_Way_We_Are.md "wikilink")』にも収録された。
+[2001年](../Page/2001年.md "wikilink")6月13日、ファーストアルバム『PLATINUM TONGUE』発売。同アルバム収録曲の「レクサスグッチ」が映画『[ワイルド・スピード](../Page/ワイルド・スピード.md "wikilink")』日本公開版のエンディングテーマに採用される。その後全国20都市ライブツアーを開催。また、[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")の[川畑要](../Page/川畑要.md "wikilink")と、**KAWABATA and DABO**名義でアナログ盤「BROTHERHOOD」を発表。[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")のファーストアルバム『[The Way We Are](../Page/The_Way_We_Are.md "wikilink")』にも収録された。
 
-[2002年](../Page/2002年.md "wikilink")9月25日、2ndアルバム『HITMAN』を発売。全国31都市ライブツアーを開催。同時期に[BoA](../Page/BoA.md "wikilink")、[SUITE CHIC](https://ja.wikipedia.org/wiki/SUITE_CHIC "wikilink")、[LISAなど多くのメジャーアーティストの作品に客演](../Page/LISA_\(歌手\).md "wikilink")。[2003年](../Page/2003年.md "wikilink")12月24日、3rdアルバム『Diamond』を発売。[エミネム](https://ja.wikipedia.org/wiki/エミネム "wikilink")を手がけたサウンドプロデューサーTOMMY COSTERからなるプロデュースチーム327、[BL](https://ja.wikipedia.org/wiki/Bach_Logic "wikilink")、[餓鬼レンジャー](https://ja.wikipedia.org/wiki/餓鬼レンジャー "wikilink")のGPらがプロデューサーとして参加。その後、3度目の全国ツアーを開催。
+[2002年](../Page/2002年.md "wikilink")9月25日、2ndアルバム『HITMAN』を発売。全国31都市ライブツアーを開催。同時期に[BoA](../Page/BoA.md "wikilink")、[SUITE CHIC](../Page/SUITE_CHIC.md "wikilink")、[LISAなど多くのメジャーアーティストの作品に客演](../Page/LISA_\(歌手\).md "wikilink")。[2003年](../Page/2003年.md "wikilink")12月24日、3rdアルバム『Diamond』を発売。[エミネム](https://ja.wikipedia.org/wiki/エミネム "wikilink")を手がけたサウンドプロデューサーTOMMY COSTERからなるプロデュースチーム327、[BL](https://ja.wikipedia.org/wiki/Bach_Logic "wikilink")、[餓鬼レンジャー](https://ja.wikipedia.org/wiki/餓鬼レンジャー "wikilink")のGPらがプロデューサーとして参加。その後、3度目の全国ツアーを開催。
 
 ### BABY MARIO PRODUCTION〜EMIミュージック・ジャパン
 
-[2004年](../Page/2004年.md "wikilink")にレーベル「BABY MARIO PRODUCTION」を設立し、11月10日に同レーベルからミニアルバム『6Bullets』を発売。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")6月8日にはMACKA-CHINとのユニット[MABO](https://ja.wikipedia.org/wiki/MABO "wikilink")のアルバム『デラコスタ』を発売。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に[EMIミュージック・ジャパン](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")傘下のレーベル[Capitol Musicと契約し](../Page/Capitol_Music.md "wikilink")、2月15日に4枚目のアルバム『THE FORCE』を発売。客演が一切無しの作品となった。また、社会や若者へのメッセージを含んだ内容の歌詞が多くなった。
+[2004年](../Page/2004年.md "wikilink")にレーベル「BABY MARIO PRODUCTION」を設立し、11月10日に同レーベルからミニアルバム『6Bullets』を発売。[2005年](../Page/2005年.md "wikilink")6月8日にはMACKA-CHINとのユニット[MABO](https://ja.wikipedia.org/wiki/MABO "wikilink")のアルバム『デラコスタ』を発売。[2006年](../Page/2006年.md "wikilink")に[EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink")傘下のレーベル[Capitol Musicと契約し](../Page/Capitol_Music.md "wikilink")、2月15日に4枚目のアルバム『THE FORCE』を発売。客演が一切無しの作品となった。また、社会や若者へのメッセージを含んだ内容の歌詞が多くなった。
 
-[2007年](../Page/2007年.md "wikilink")2月21日、全曲客演のコンピレーションアルバム『DABO PRESENTS B.M.W.vol.1 BABY MARIO WORLD』を発売。[KREVA](https://ja.wikipedia.org/wiki/KREVA "wikilink")、[ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink")、[MURO](https://ja.wikipedia.org/wiki/MURO "wikilink")、[PUSHIM](https://ja.wikipedia.org/wiki/PUSHIM "wikilink")、[ANARCHY](../Page/ANARCHY.md "wikilink")、SIMON、[COMA-CHI](../Page/COMA-CHI.md "wikilink")、[TARO SOULなどが客演](https://ja.wikipedia.org/wiki/TARO_SOUL "wikilink")。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")2月1日、ブログ『PAPER MOON MAN』を[アメーバブログ](../Page/アメーバブログ.md "wikilink")より開始。[2009年](../Page/2009年.md "wikilink")1月28日、ベストアルバム『I'm The Best』を発売。自身の楽曲以外にも、他のアーティストに客演した楽曲も含んだベスト盤となった。
+[2007年](../Page/2007年.md "wikilink")2月21日、全曲客演のコンピレーションアルバム『DABO PRESENTS B.M.W.vol.1 BABY MARIO WORLD』を発売。[KREVA](../Page/KREVA.md "wikilink")、[ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink")、[MURO](../Page/MURO.md "wikilink")、[PUSHIM](https://ja.wikipedia.org/wiki/PUSHIM "wikilink")、[ANARCHY](../Page/ANARCHY.md "wikilink")、SIMON、[COMA-CHI](../Page/COMA-CHI.md "wikilink")、[TARO SOULなどが客演](https://ja.wikipedia.org/wiki/TARO_SOUL "wikilink")。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")2月1日、ブログ『PAPER MOON MAN』を[アメーバブログ](../Page/アメーバブログ.md "wikilink")より開始。[2009年](../Page/2009年.md "wikilink")1月28日、ベストアルバム『I'm The Best』を発売。自身の楽曲以外にも、他のアーティストに客演した楽曲も含んだベスト盤となった。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")11月3日、4年ぶり・5枚目となるオリジナルアルバム『HI-FIVE』を発売。
 
 ### FEEL NO PAIN
 
-[2012年](../Page/2012年.md "wikilink")12月、[第46回衆議院議員総選挙](https://ja.wikipedia.org/wiki/第46回衆議院議員総選挙 "wikilink")に出馬した[山本太郎](https://ja.wikipedia.org/wiki/山本太郎 "wikilink")の[高円寺](https://ja.wikipedia.org/wiki/高円寺 "wikilink")での街頭演説に[DELI](https://ja.wikipedia.org/wiki/DELI "wikilink")らと共に登場し、自身の楽曲「拍手喝采」、「デッパツ進行」などを披露\[2\]。
+[2012年](../Page/2012年.md "wikilink")12月、[第46回衆議院議員総選挙](https://ja.wikipedia.org/wiki/第46回衆議院議員総選挙 "wikilink")に出馬した[山本太郎](https://ja.wikipedia.org/wiki/山本太郎 "wikilink")の[高円寺](../Page/高円寺.md "wikilink")での街頭演説に[DELI](../Page/DELI.md "wikilink")らと共に登場し、自身の楽曲「拍手喝采」、「デッパツ進行」などを披露\[2\]。
 
 [2014年](../Page/2014年.md "wikilink")[7月13日](../Page/7月13日.md "wikilink")、**DABO & MACKA-CHIN & SUIKEN & S-WORD**名義でシングル「東京弐拾伍時」をManhattan Recordingsより発売\[3\]\[4\]。
 
-同年10月1日には、レーベル「FEEL NO PAIN」を[DJ YAKKO](https://ja.wikipedia.org/wiki/JHETT_a.k.a.YAKKO_for_AQUARIUS "wikilink")、[DJ SAATと共に設立](https://ja.wikipedia.org/wiki/DJ_SAAT "wikilink")。
+同年10月1日には、レーベル「FEEL NO PAIN」を[DJ YAKKO](../Page/JHETT_a.k.a.YAKKO_for_AQUARIUS.md "wikilink")、[DJ SAATと共に設立](https://ja.wikipedia.org/wiki/DJ_SAAT "wikilink")。
 
 2015年5月に2000年代初頭のアメリカのヒット曲を日本語でカバーしたアルバム『DEEP COVER - Mixed by DJ SAAT』を発売\[5\]。
 
@@ -37,7 +37,7 @@
 
 ## 人物
 
-身長は171cm\[6\]。姉がいる。学生時代は、[現代文](https://ja.wikipedia.org/wiki/現代文 "wikilink")と[英語](../Page/英語.md "wikilink")が得意であった。家族からの呼称「ダイ坊」を縮めて「ダボ」としたのがMC名の由来。DABO以前には、[Q-TIPが好きだった事から](https://ja.wikipedia.org/wiki/Qティップ_\(ミュージシャン\) "wikilink")**Q太**というMC名であった。 別称（a.k.a）はMr. Fudatzkee(フダツキー)、札月、DABO DA MARIO、フダ画伯など。兎年生まれである事をしばしば歌詞でアピールしている。イラストを描くことを好み、[スペースシャワーTV](https://ja.wikipedia.org/wiki/スペースシャワーTV "wikilink")で放送されている[第三会議室](https://ja.wikipedia.org/wiki/第三会議室 "wikilink")にゲスト出演した際にはホワイトボードに絵を描いていた。絵を描く時はフダ画伯というネームを使用している。
+身長は171cm\[6\]。姉がいる。学生時代は、[現代文](https://ja.wikipedia.org/wiki/現代文 "wikilink")と[英語](../Page/英語.md "wikilink")が得意であった。家族からの呼称「ダイ坊」を縮めて「ダボ」としたのがMC名の由来。DABO以前には、[Q-TIPが好きだった事から](https://ja.wikipedia.org/wiki/Qティップ_\(ミュージシャン\) "wikilink")**Q太**というMC名であった。 別称（a.k.a）はMr. Fudatzkee(フダツキー)、札月、DABO DA MARIO、フダ画伯など。兎年生まれである事をしばしば歌詞でアピールしている。イラストを描くことを好み、[スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")で放送されている[第三会議室](../Page/第三会議室.md "wikilink")にゲスト出演した際にはホワイトボードに絵を描いていた。絵を描く時はフダ画伯というネームを使用している。
 
 2018年4月一般女性と結婚。2019年4月第1子男児が誕生。
 
@@ -111,7 +111,7 @@
 <ol>
 <li>ZERO [3:57]（作詞：DABO）</li>
 <li>MIC CHECK [2:59]（作詞：DABO）</li>
-<li>拍手喝采 (REMIX) [4:35]（作詞：DABO・<a href="https://ja.wikipedia.org/wiki/DELI" title="wikilink">DELI</a>・BIGZAM・OSUMI）</li>
+<li>拍手喝采 (REMIX) [4:35]（作詞：DABO・<a href="../Page/DELI.md" title="wikilink">DELI</a>・BIGZAM・OSUMI）</li>
 <li>ZERO (INSTRUMENTAL) [3:57]</li>
 <li>MIC CHECK (INSTRUMENTAL) [2:58]</li>
 </ol></td>
@@ -174,8 +174,8 @@
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>恋はオートマ feat.<a href="https://ja.wikipedia.org/wiki/HI-D" title="wikilink">HI-D</a> [4:59]<br />
-（作詞：DABO／作曲：<a href="https://ja.wikipedia.org/wiki/AQUARIUS_(音楽ユニット)" title="wikilink">AQUARIUS</a>／作曲：<a href="https://ja.wikipedia.org/wiki/和田昌哉" title="wikilink">MASAYA WADA</a>）</li>
+<li>恋はオートマ feat.<a href="../Page/HI-D.md" title="wikilink">HI-D</a> [4:59]<br />
+（作詞：DABO／作曲：<a href="../Page/AQUARIUS_(音楽ユニット).md" title="wikilink">AQUARIUS</a>／作曲：<a href="https://ja.wikipedia.org/wiki/和田昌哉" title="wikilink">MASAYA WADA</a>）</li>
 <li>予告編 [DJ HAZY ON DA WHEELZ OF STEEL] [3:32]（作詞：DABO）</li>
 <li>恋はオートマ [INSTRUMENTAL] [4:57]</li>
 </ol></td>
@@ -224,14 +224,14 @@
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>CHOSEN ONE [Feat. <a href="https://ja.wikipedia.org/wiki/FIRE_BALL_(レゲエグループ)" title="wikilink">CHOZEN LEE</a>]</li>
+<li>CHOSEN ONE [Feat. <a href="../Page/FIRE_BALL_(レゲエグループ).md" title="wikilink">CHOZEN LEE</a>]</li>
 <li>CHOSEN ONE (Instrumental)</li>
 </ol></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a>9月17日</p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a>9月17日</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
 <p>戦モード</p>
@@ -241,11 +241,11 @@
 <li>戦モード</li>
 <li>戦モード (Instrumental)</li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/JVCケンウッド・ビクターエンタテインメント" title="wikilink">Victor</a></p></td>
+<td><p><a href="../Page/JVCケンウッド・ビクターエンタテインメント.md" title="wikilink">Victor</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a>1月18日</p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a>1月18日</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
 <p>おはようジパング</p>
@@ -255,7 +255,7 @@
 <li>おはようジパング（作詞：DABO／作曲・編曲：The Harbinger Illicit Tsuboi）</li>
 <li>COME COME BACK（作詞：DABO／作曲・編曲：KURA）</li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン" title="wikilink">東芝EMI</a></p></td>
+<td><p><a href="../Page/EMIミュージック・ジャパン.md" title="wikilink">東芝EMI</a></p></td>
 <td><p>65位</p></td>
 </tr>
 </tbody>
@@ -286,18 +286,18 @@
 <li>マチガイナイ! [4:01]</li>
 <li>O-RE-BA-NA [4:58]</li>
 <li>BUNNY TALKS [1:02]</li>
-<li>PLATINUM TONGUE (featuring <a href="https://ja.wikipedia.org/wiki/SUIKEN" title="wikilink">SUIKEN</a>) [4:38]</li>
+<li>PLATINUM TONGUE (featuring <a href="../Page/SUIKEN.md" title="wikilink">SUIKEN</a>) [4:38]</li>
 <li>HI-LIFE (RELAXXX) [5:02]</li>
 <li>PINKY 〜だから、その手を離して〜 (featuring TYLER) [5:14]</li>
 <li>拍手喝采 [4:13]</li>
 <li>レクサスグッチ [4:29]</li>
-<li>徒然草 (featuring <a href="https://ja.wikipedia.org/wiki/GAGLE" title="wikilink">HUNGER</a> and <a href="https://ja.wikipedia.org/wiki/OZROSAURUS" title="wikilink">MACCHO</a>) [4:24]</li>
+<li>徒然草 (featuring <a href="../Page/GAGLE.md" title="wikilink">HUNGER</a> and <a href="../Page/OZROSAURUS.md" title="wikilink">MACCHO</a>) [4:24]</li>
 <li>愛しのサブリナ [4:04]</li>
 <li>R.E.C.ROOM (BAD TRIP) [3:50]</li>
 <li>DAIMONION FUNK (I GOT CHA) [4:39]</li>
 <li>JOLLY｀S PIANO[1:04]</li>
-<li>この指止まれ (featuring <a href="https://ja.wikipedia.org/wiki/BUDDHA_BRAND" title="wikilink">CQ</a>) [5:17]</li>
-<li>SNEAKER PIMP (TWO PIMPS IN A CYPHER MIX) (featuring <a href="https://ja.wikipedia.org/wiki/TWIGY" title="wikilink">TWIGY</a>) [3:56]</li>
+<li>この指止まれ (featuring <a href="../Page/BUDDHA_BRAND.md" title="wikilink">CQ</a>) [5:17]</li>
+<li>SNEAKER PIMP (TWO PIMPS IN A CYPHER MIX) (featuring <a href="../Page/TWIGY.md" title="wikilink">TWIGY</a>) [3:56]</li>
 <li>ZERO (MUKASEE MUKASEE MIX) [5:03]</li>
 </ol></td>
 <td><p>Def Jam Japan</p></td>
@@ -318,16 +318,16 @@
 <li>D.A.B.O. [4:00]</li>
 <li>マイクにガツン☆ [5:20]</li>
 <li>WANNABEES CUP 2002 [4:28]</li>
-<li>授賞式 (SKIT) [Feat. <a href="https://ja.wikipedia.org/wiki/MACKA-CHIN" title="wikilink">Macka-Chin</a>] [2:53]</li>
+<li>授賞式 (SKIT) [Feat. <a href="../Page/MACKA-CHIN.md" title="wikilink">Macka-Chin</a>] [2:53]</li>
 </ol>
 <p>#MURDA</p></td>
 <td></td>
-<td><p>(KILLA EMCEE) [Feat. <a href="https://ja.wikipedia.org/wiki/TOKONA-X" title="wikilink">Tokona-X</a>] [4:38]</p>
+<td><p>(KILLA EMCEE) [Feat. <a href="../Page/TOKONA-X.md" title="wikilink">Tokona-X</a>] [4:38]</p>
 <ol>
 <li>場外ホーマー [3:21]</li>
-<li>恋はオートマ [Feat. <a href="https://ja.wikipedia.org/wiki/HI-D" title="wikilink">Hi-D</a>] [5:01]</li>
+<li>恋はオートマ [Feat. <a href="../Page/HI-D.md" title="wikilink">Hi-D</a>] [5:01]</li>
 <li>スピーカーにTバック [Feat. P.H.] [4:34]</li>
-<li>WEEGOTWEEE! [Feat. <a href="https://ja.wikipedia.org/wiki/DELI" title="wikilink">Deli</a> &amp; <a href="https://ja.wikipedia.org/wiki/SUIKEN" title="wikilink">Suiken</a>] [4:48]</li>
+<li>WEEGOTWEEE! [Feat. <a href="../Page/DELI.md" title="wikilink">Deli</a> &amp; <a href="../Page/SUIKEN.md" title="wikilink">Suiken</a>] [4:48]</li>
 <li>ねぇ D (LADY) [Feat. <a href="../Page/LISA_(歌手).md" title="wikilink">Lisa</a>] [6:31]</li>
 <li>もしも明日が… (FORGET ME NOT) [3:39]</li>
 <li>OUTROW (OUTRO) [0:58]</li>
@@ -346,7 +346,7 @@
 <li>スーパーバックシャン (Yes,Sir) [4:20]</li>
 <li>Clap Ya Hands [3:19]</li>
 <li>BONO! [4:46]</li>
-<li>Chosen One [Feat. <a href="https://ja.wikipedia.org/wiki/FIRE_BALL_(レゲエグループ)" title="wikilink">Chozen Lee</a>] [4:55]</li>
+<li>Chosen One [Feat. <a href="../Page/FIRE_BALL_(レゲエグループ).md" title="wikilink">Chozen Lee</a>] [4:55]</li>
 <li>DIAMOND (Forever) [5:03]</li>
 <li>おそうしき [Feat. <a href="https://ja.wikipedia.org/wiki/般若_(ミュージシャン)" title="wikilink">般若</a>] [5:06]</li>
 <li>カルナバル [3:46]</li>
@@ -362,7 +362,7 @@
 <td><p>45位</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a>2月15日</p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a>2月15日</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
 <p>THE FORCE</p>
@@ -410,12 +410,12 @@
 <li>デッパツ進行 [3:15]</li>
 <li>ケツにマシンガン [3:44]</li>
 <li>Love and Hate(ニコイチ) [5:03]</li>
-<li>TEST Mi feat.<a href="https://ja.wikipedia.org/wiki/RYO_the_SKYWALKER" title="wikilink">RYO the SKYWALKER</a> [4:16]</li>
-<li>I REP / DABO, <a href="../Page/ANARCHY.md" title="wikilink">ANARCHY</a>, <a href="https://ja.wikipedia.org/wiki/KREVA" title="wikilink">KREVA</a> [3:59]</li>
-<li>AZS feat.<a href="https://ja.wikipedia.org/wiki/降谷建志" title="wikilink">Kj</a> from <a href="https://ja.wikipedia.org/wiki/Dragon_Ash" title="wikilink">Dragon Ash</a> [3:55]</li>
+<li>TEST Mi feat.<a href="../Page/RYO_the_SKYWALKER.md" title="wikilink">RYO the SKYWALKER</a> [4:16]</li>
+<li>I REP / DABO, <a href="../Page/ANARCHY.md" title="wikilink">ANARCHY</a>, <a href="../Page/KREVA.md" title="wikilink">KREVA</a> [3:59]</li>
+<li>AZS feat.<a href="../Page/降谷建志.md" title="wikilink">Kj</a> from <a href="../Page/Dragon_Ash.md" title="wikilink">Dragon Ash</a> [3:55]</li>
 <li>オレヨマケンナ。 [5:10]</li>
 <li>お江戸花吹雪 [4:37]</li>
-<li>Sweet 90's Blues(後方確認) feat.K-BOMB,<a href="https://ja.wikipedia.org/wiki/SUIKEN" title="wikilink">SUIKEN</a> [5:51]</li>
+<li>Sweet 90's Blues(後方確認) feat.K-BOMB,<a href="../Page/SUIKEN.md" title="wikilink">SUIKEN</a> [5:51]</li>
 <li>KO-KO-DA (エピローグ・ソング) [4:42]</li>
 </ol></td>
 <td><p>42位</p></td>
@@ -447,7 +447,7 @@
 <li>Trigga Song (introshooting) [1:29]</li>
 <li>REDRUM (Feat. <a href="../Page/RUDEBWOY_FACE.md" title="wikilink">Rudeboy Face</a>) [4:21]</li>
 <li>アウシュビッツ (アドルフが告ぐ) [4:20]</li>
-<li>わらしべ長者 (Feat. <a href="https://ja.wikipedia.org/wiki/DELI" title="wikilink">Deli</a> &amp; Mars Manie) [4:39]</li>
+<li>わらしべ長者 (Feat. <a href="../Page/DELI.md" title="wikilink">Deli</a> &amp; Mars Manie) [4:39]</li>
 <li>Hey Bartender [4:41]</li>
 <li>Ding-Ding-Dong [5:42]</li>
 </ol></td>
@@ -498,13 +498,13 @@
 <div class="NavContent" style="text-align:left;">
 <ol>
 <li>Intro</li>
-<li>Hey 札月 【Hey Papi / <a href="https://ja.wikipedia.org/wiki/ジェイ・Z" title="wikilink">Jay-Z</a> Ft. Memphis Bleek &amp; Amil】</li>
+<li>Hey 札月 【Hey Papi / <a href="../Page/ジェイ・Z.md" title="wikilink">Jay-Z</a> Ft. Memphis Bleek &amp; Amil】</li>
 <li>俺のParty 【This Is My Party / <a href="../Page/ファボラス.md" title="wikilink">Fabolous</a>】</li>
 <li>STOP!ダルマさん 【Break Ya Neck / <a href="../Page/バスタ・ライムス.md" title="wikilink">Busta Rhymes</a>】</li>
 <li>Tokyo Riot 【New York / <a href="../Page/ジャ・ルール.md" title="wikilink">Ja Rule</a>】</li>
 <li>Interlude</li>
-<li>#TourLife a.k.a. 市外局番 【Area Code / <a href="https://ja.wikipedia.org/wiki/リュダクリス" title="wikilink">Ludacris</a> Ft. <a href="../Page/ネイト・ドッグ.md" title="wikilink">Nate Dogg</a>】</li>
-<li>常夏注意報 【Beautiful / <a href="https://ja.wikipedia.org/wiki/スヌープ・ドッグ" title="wikilink">Snoop Dogg</a>】</li>
+<li>#TourLife a.k.a. 市外局番 【Area Code / <a href="../Page/リュダクリス.md" title="wikilink">Ludacris</a> Ft. <a href="../Page/ネイト・ドッグ.md" title="wikilink">Nate Dogg</a>】</li>
+<li>常夏注意報 【Beautiful / <a href="../Page/スヌープ・ドッグ.md" title="wikilink">Snoop Dogg</a>】</li>
 <li>Skit</li>
 <li>ようこそSHIBUYA 【Welcome to Atlanta / <a href="../Page/ジャーメイン・デュプリ.md" title="wikilink">Jermaine Dupri</a> Ft. Ludacris】</li>
 <li>ヤバいDJ 【Go DJ / <a href="https://ja.wikipedia.org/wiki/リル・ウェイン" title="wikilink">Lil Wayne</a> Ft. Mannie Fresh】</li>
@@ -644,7 +644,7 @@
 <ol>
 <li>D.A.B.O.</li>
 <li>場外ホーマー</li>
-<li>恋はオートマ feat.<a href="https://ja.wikipedia.org/wiki/HI-D" title="wikilink">HI-D</a></li>
+<li>恋はオートマ feat.<a href="../Page/HI-D.md" title="wikilink">HI-D</a></li>
 <li>ねぇ D(LADY) feat.<a href="../Page/LISA_(歌手).md" title="wikilink">LISA</a></li>
 </ol>
 <p># It’s My Turn (Fight</p></td>
@@ -652,8 +652,8 @@
 <ol>
 <li>Clap Ya Hands</li>
 <li>Diamond(Forever)〈BONUS PV〉</li>
-<li>Chosen One featuring <a href="https://ja.wikipedia.org/wiki/FIRE_BALL_(レゲエグループ)" title="wikilink">CHOZEN LEE</a>] (live at <a href="../Page/CLUB_CITTA&#39;.md" title="wikilink">club citta</a> {FIRE MEETS NITRO})</li>
-<li>ワカホレ(Get Busy)〈HITMAN JPN TOUR FINAL (2003.1.30[@]TOKYO <a href="https://ja.wikipedia.org/wiki/SHIBUYA-AX" title="wikilink">SHIBUYA-AX</a>)〉</li>
+<li>Chosen One featuring <a href="../Page/FIRE_BALL_(レゲエグループ).md" title="wikilink">CHOZEN LEE</a>] (live at <a href="../Page/CLUB_CITTA&#39;.md" title="wikilink">club citta</a> {FIRE MEETS NITRO})</li>
+<li>ワカホレ(Get Busy)〈HITMAN JPN TOUR FINAL (2003.1.30[@]TOKYO <a href="../Page/SHIBUYA-AX.md" title="wikilink">SHIBUYA-AX</a>)〉</li>
 <li>HITMANのテーマ</li>
 </ol>
 <p># MURDA</p></td>
@@ -1029,18 +1029,18 @@
 
 ## タイアップ
 
-| 楽曲                                                                                                   | タイアップ                                                                                     | 収録作品             |
-| ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ---------------- |
-| **レクサスグッチ feat.FAT MAN SCOOP MIX**                                                                   | 『[ワイルド・スピード](https://ja.wikipedia.org/wiki/ワイルド・スピード "wikilink")』日本公開版エンディングテーマ           | レクサスグッチ          |
-| **D.A.B.O.**                                                                                         | [サイバード](https://ja.wikipedia.org/wiki/サイバードホールディングス "wikilink")「Cool Sound」CMソング          | D.A.B.O.         |
-| NTV系「『[AX MUSIC-TV](https://ja.wikipedia.org/wiki/AX_MUSIC-TV "wikilink")』AX POWER PLAY \#008」テーマソング |                                                                                           |                  |
-| **恋はオートマ feat.HI-D**                                                                                 | TX系「[JAPAN COUNTDOWN](https://ja.wikipedia.org/wiki/JAPAN_COUNTDOWN "wikilink")」オープニングテーマ | 恋はオートマ feat.HI-D |
-| ANB系「Future Tracks」オープニングテーマ                                                                         |                                                                                           |                  |
+| 楽曲                                                                                | タイアップ                                                                            | 収録作品             |
+| --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ---------------- |
+| **レクサスグッチ feat.FAT MAN SCOOP MIX**                                                | 『[ワイルド・スピード](../Page/ワイルド・スピード.md "wikilink")』日本公開版エンディングテーマ                     | レクサスグッチ          |
+| **D.A.B.O.**                                                                      | [サイバード](https://ja.wikipedia.org/wiki/サイバードホールディングス "wikilink")「Cool Sound」CMソング | D.A.B.O.         |
+| NTV系「『[AX MUSIC-TV](../Page/AX_MUSIC-TV.md "wikilink")』AX POWER PLAY \#008」テーマソング |                                                                                  |                  |
+| **恋はオートマ feat.HI-D**                                                              | TX系「[JAPAN COUNTDOWN](../Page/JAPAN_COUNTDOWN.md "wikilink")」オープニングテーマ           | 恋はオートマ feat.HI-D |
+| ANB系「Future Tracks」オープニングテーマ                                                      |                                                                                  |                  |
 
 ## その他
 
   - [麻波25](https://ja.wikipedia.org/wiki/麻波25 "wikilink")「ADVANCED PLAYER」（2000年4月19日） - CDジャケットのイラストデザインを担当。
-  - 「札と月」（[トランスワールドジャパン](https://ja.wikipedia.org/wiki/トランスワールドジャパン "wikilink")、2009年11月24日） - DABOによる初の著書。
+  - 「札と月」（[トランスワールドジャパン](../Page/トランスワールドジャパン.md "wikilink")、2009年11月24日） - DABOによる初の著書。
 
 ## 脚注
 

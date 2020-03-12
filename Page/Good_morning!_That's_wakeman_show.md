@@ -5,7 +5,7 @@
 
 ## 概要
 
-2000年3月まで放送された前番組『[THIS MORNING](https://ja.wikipedia.org/wiki/THIS_MORNING "wikilink")』を受ける形で、[2000年](../Page/2000年.md "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")から[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで放送された朝のワイド番組。
+2000年3月まで放送された前番組『[THIS MORNING](../Page/THIS_MORNING.md "wikilink")』を受ける形で、[2000年](../Page/2000年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで放送された朝のワイド番組。
 放送開始からの1年間は5:00 - 8:55に放送された。なお、7:00 - 7:30と8:00 - 8:20はTOKYO FMネット番組（当時：『[立花裕人のMORNING FREEWAY](../Page/立花裕人のMORNING_FREEWAY.md "wikilink")』、現：『[クロノス](https://ja.wikipedia.org/wiki/クロノス_\(ラジオ番組\) "wikilink")』）を放送する形とした。
 
 当初から女性パーソナリティは5時台のみの担当となっており、これは終了までそのまま引き継がれている。
@@ -14,9 +14,9 @@
 
 　*（このあたりの編成は [\#4時間ワイド時のウェイクマン](https://ja.wikipedia.org/wiki/#4時間ワイド時のウェイクマン "wikilink") を参照のこと。）*
 
-2001年4月の改編で当番組は6:55までに縮小。第3部・4部は後枠の「[Te quiero pa quiero](https://ja.wikipedia.org/wiki/Te_quiero_pa_quiero "wikilink")」と統合され『[Open Sesame\!](https://ja.wikipedia.org/wiki/Open_Sesame! "wikilink")』（7:30 - 11:00）を新設。
+2001年4月の改編で当番組は6:55までに縮小。第3部・4部は後枠の「[Te quiero pa quiero](../Page/Te_quiero_pa_quiero.md "wikilink")」と統合され『[Open Sesame\!](../Page/Open_Sesame!.md "wikilink")』（7:30 - 11:00）を新設。
 
-2006年3月をもって当番組は終了した。後番組は[TFM制作の](../Page/エフエム東京.md "wikilink")『[Eyes on Japan](https://ja.wikipedia.org/wiki/Eyes_on_Japan "wikilink")』（『[6Sense](https://ja.wikipedia.org/wiki/6Sense "wikilink")』と合体して始まった番組）であるが、ラインネットの関係上、旧『wakeman show』枠はJFNC発、旧『6Sense』枠はTOKYO FM発の形をとる。
+2006年3月をもって当番組は終了した。後番組は[TFM制作の](../Page/エフエム東京.md "wikilink")『[Eyes on Japan](../Page/Eyes_on_Japan.md "wikilink")』（『[6Sense](../Page/6Sense.md "wikilink")』と合体して始まった番組）であるが、ラインネットの関係上、旧『wakeman show』枠はJFNC発、旧『6Sense』枠はTOKYO FM発の形をとる。
 
 新聞の[ラ・テ欄には](https://ja.wikipedia.org/wiki/番組表 "wikilink")「グッドモーニング！」\[改行\]「ウエークマンショー」と書かれていることが多かった。
 
@@ -42,17 +42,17 @@
 
 ## パーソナリティ
 
-| 期間       | 男性        | 女性（5時台のみ）                                               |
-| -------- | --------- | ------------------------------------------------------- |
-| 月 - 木    | 金         | 月                                                       |
-| 2000.4.3 | 2000.09   | [假野剛彦](https://ja.wikipedia.org/wiki/假野剛彦 "wikilink")   |
-| 2000.10  | 2001.3    | [藤本えみり](https://ja.wikipedia.org/wiki/藤本えみり "wikilink") |
-| 2001.4   | 2001.12   | 假野剛彦                                                    |
-| 2002.1   | 2002.9    | [蒲田健](../Page/蒲田健.md "wikilink")                        |
-| 2002.10  | 2003.9    | [宮原亜矢](https://ja.wikipedia.org/wiki/宮原亜矢 "wikilink")   |
-| 2003.10  | 2004.3    | [井門宗之](https://ja.wikipedia.org/wiki/井門宗之 "wikilink")   |
-| 2004.4   | 2005.3    | 宮原亜矢                                                    |
-| 2005.4   | 2006.3.31 | [AKI](https://ja.wikipedia.org/wiki/AKI "wikilink")     |
+| 期間       | 男性        | 女性（5時台のみ）                                             |
+| -------- | --------- | ----------------------------------------------------- |
+| 月 - 木    | 金         | 月                                                     |
+| 2000.4.3 | 2000.09   | [假野剛彦](../Page/假野剛彦.md "wikilink")                    |
+| 2000.10  | 2001.3    | [藤本えみり](../Page/藤本えみり.md "wikilink")                  |
+| 2001.4   | 2001.12   | 假野剛彦                                                  |
+| 2002.1   | 2002.9    | [蒲田健](../Page/蒲田健.md "wikilink")                      |
+| 2002.10  | 2003.9    | [宮原亜矢](https://ja.wikipedia.org/wiki/宮原亜矢 "wikilink") |
+| 2003.10  | 2004.3    | [井門宗之](https://ja.wikipedia.org/wiki/井門宗之 "wikilink") |
+| 2004.4   | 2005.3    | 宮原亜矢                                                  |
+| 2005.4   | 2006.3.31 | [AKI](https://ja.wikipedia.org/wiki/AKI "wikilink")   |
 
 Good morning\! That's wakeman show パーソナリティーの変遷
 
@@ -115,7 +115,7 @@ Good morning\! That's wakeman show パーソナリティーの変遷
 
   - 6:51　COSMO EARTHCONCIOUS ACT・100万人のメッセージ 上田万由子
   - 6:54　（CM／JFNからはネットで[ステブレ用音楽](https://ja.wikipedia.org/wiki/ステーションブレイク "wikilink")）
-  - 6:55　[MY OLYMPIC](https://ja.wikipedia.org/wiki/MY_OLYMPIC "wikilink") 蒲田健
+  - 6:55　[MY OLYMPIC](../Page/MY_OLYMPIC.md "wikilink") 蒲田健
   - 6:58　（CM／JFNからはネットで[ステブレ用音楽](https://ja.wikipedia.org/wiki/ステーションブレイク "wikilink")）
 
 <!-- end list -->
@@ -149,7 +149,7 @@ Good morning\! That's wakeman show パーソナリティーの変遷
       -
         世界各国の面白情報・世界のワイドショーネタをピックアップ。海外国内の面白インターネット・ホームページ紹介。又、世界各国からのTEL中継をする。（[Hi-Six飛乗り](../Page/エフエム高知.md "wikilink")）
   - 8:50　エンディング
-  - 8:55　[JFNニュース](https://ja.wikipedia.org/wiki/JFNニュース "wikilink")（假野ではなく別途アナウンサーが担当）
+  - 8:55　[JFNニュース](../Page/JFNニュース.md "wikilink")（假野ではなく別途アナウンサーが担当）
 
 番組自体は第1部・2部は全国の大半の放送局がネットしており、津々浦々で聴ける放送であった。ただし、一部時間帯はラジオショッピングなどに差し替える局があるため、細切れ編成を維持しつつも多少フレキシブルなコーナー組み立てとなっていた。
 第3部以降は基本的に自社制作番組を放送する地域が多いことから一部地域のみの放送であり、さらに5分から10分単位でニュースや交通情報などを編成する局に合わせて第1・2部以上に細切れな編成となっていた。ネット局の変遷は後述。
@@ -195,14 +195,14 @@ Good morning\! That's wakeman show パーソナリティーの変遷
 
 [TOKYO FMをはじめ](../Page/エフエム東京.md "wikilink")、全国[JFN系列](../Page/全国FM放送協議会.md "wikilink")34局で放送されていた。
 
-なお、[Radio 80では](https://ja.wikipedia.org/wiki/岐阜FM "wikilink")2004年4月から2005年3月のみ自社製作番組『[Morning Bird](https://ja.wikipedia.org/wiki/Morning_Bird "wikilink")』放送のため、6:30にネット飛び降りをしていた。
+なお、[Radio 80では](https://ja.wikipedia.org/wiki/岐阜FM "wikilink")2004年4月から2005年3月のみ自社製作番組『[Morning Bird](../Page/Morning_Bird.md "wikilink")』放送のため、6:30にネット飛び降りをしていた。
 
 以下は5時台のみの放送であった。このうち、FM AICHI以外は6:00から『6Sense』を放送。
 
   - TOKYO FM - 金曜日は原則未ネット。上記参照。
   - [Date fm](../Page/エフエム仙台.md "wikilink")（※一時期6時台も放送していたが、末期は5時台のみの放送に戻った）、
   - [広島FM](../Page/広島エフエム放送.md "wikilink")
-  - [FM AICHI](../Page/エフエム愛知.md "wikilink") - 6時からは自社制作番組『[モーニング・グルーブ](https://ja.wikipedia.org/wiki/モーニング・グルーブ "wikilink")』を放送。
+  - [FM AICHI](../Page/エフエム愛知.md "wikilink") - 6時からは自社制作番組『[モーニング・グルーブ](../Page/モーニング・グルーブ.md "wikilink")』を放送。
 
 [K-MIXでは](../Page/静岡エフエム放送.md "wikilink")2001年3月までは5時台のみをネットし、6時からは『MORNING FREEWAY〜今日のチェック・リスト』をネットしていた\[1\]が、2001年4月からは『wakeman show』を6:55までネットし、『MORNING FREEWAY』をAラインネットのみに縮小した\[2\]。
 
@@ -218,14 +218,14 @@ Good morning\! That's wakeman show パーソナリティーの変遷
 
 以下は未ネット局。
 
-  - [AIR-G'](../Page/エフエム北海道.md "wikilink") - 5時台は自社制作番組『チェキチェキ』（金曜のみ7:00まで）、6時台は自社制作番組『[AIR-G' Morning Pax 6PAX](https://ja.wikipedia.org/wiki/AIR-G'_Morning_Pax "wikilink")』（月-木）
+  - [AIR-G'](../Page/エフエム北海道.md "wikilink") - 5時台は自社制作番組『チェキチェキ』（金曜のみ7:00まで）、6時台は自社制作番組『[AIR-G' Morning Pax 6PAX](../Page/AIR-G'_Morning_Pax.md "wikilink")』（月-木）
   - [fm osaka](../Page/エフエム大阪.md "wikilink") - 自社制作番組『ASA-REN 5』
   - [FM愛媛](../Page/エフエム愛媛.md "wikilink") - 5時台は放送休止時間。6時台はTOKYO FMの番組
-  - [FM福岡](../Page/エフエム福岡.md "wikilink") - 5時台は自社制作番組『J-HITS SHOW CASE』、6時台は自社制作番組『[椎葉ユウmorninGroovy](https://ja.wikipedia.org/wiki/椎葉ユウmorninGroovy "wikilink")』
+  - [FM福岡](../Page/エフエム福岡.md "wikilink") - 5時台は自社制作番組『J-HITS SHOW CASE』、6時台は自社制作番組『[椎葉ユウmorninGroovy](../Page/椎葉ユウmorninGroovy.md "wikilink")』
 
 ### FMとやま版 wakeman show
 
-[FMとやまでは](https://ja.wikipedia.org/wiki/富山エフエム放送 "wikilink")2000年3月までは『**FMモーニングサロン**』という朝ワイドを放送していたが、当番組開始後、JFN同様に5:00-9:00を『**good morning\! That's wakeman show**』としたうえで、放送枠後半をローカル編成枠としていた。
+[FMとやまでは](../Page/富山エフエム放送.md "wikilink")2000年3月までは『**FMモーニングサロン**』という朝ワイドを放送していたが、当番組開始後、JFN同様に5:00-9:00を『**good morning\! That's wakeman show**』としたうえで、放送枠後半をローカル編成枠としていた。
 
   - タイムテーブルの例（2000年6月）\[3\]
 
@@ -234,7 +234,7 @@ Good morning\! That's wakeman show パーソナリティーの変遷
   - 7:30　ウェイクアップシャワー　長谷川まりこ
   - 7:40　オークス・ナイスデー・スクランブル　村口恭子
   - 7:45　三菱ダッシュ・トゥデイ
-  - 7:55　[FMとやまニュース](https://ja.wikipedia.org/wiki/朝日新聞ニュース "wikilink")
+  - 7:55　[FMとやまニュース](../Page/朝日新聞ニュース.md "wikilink")
   - 8:00　MORNING FREEWAY（TOKYO FM）
   - 8:20　経済ニュース
   - 8:25　交通情報・天気予報
@@ -253,5 +253,5 @@ Good morning\! That's wakeman show パーソナリティーの変遷
 [Category:2000年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2000年のラジオ番組_\(日本\) "wikilink") [Category:JFNCの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:JFNCの帯番組の歴史 "wikilink") [Category:TOKYO_FMの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの帯番組の歴史 "wikilink") [Category:ラジオの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:ラジオの情報・ワイドショー番組 "wikilink")
 
 1.  当時の自社制作番組『K-MIX MORNING CUE』を6:28から放送していたためその時点で飛び降り。
-2.  当時の自社制作番組『K-MIX MORNING CUE』はネットCM明けの7:28スタートに縮小。後番組の『[Brand-new Junction](https://ja.wikipedia.org/wiki/Brand-new_Junction "wikilink")』『[K-mix モーニング ラジラ](https://ja.wikipedia.org/wiki/K-mix_モーニング_ラジラ "wikilink")』が同一のスタート手法をとっているのは当時の名残である。
+2.  当時の自社制作番組『K-MIX MORNING CUE』はネットCM明けの7:28スタートに縮小。後番組の『[Brand-new Junction](../Page/Brand-new_Junction.md "wikilink")』『[K-mix モーニング ラジラ](https://ja.wikipedia.org/wiki/K-mix_モーニング_ラジラ "wikilink")』が同一のスタート手法をとっているのは当時の名残である。
 3.  [1](https://web.archive.org/web/20000621033505/http://www.fmtoyama.co.jp/timetable/timetable.htm)

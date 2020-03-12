@@ -1,7 +1,7 @@
 > この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
 
 
-**講談社X文庫ティーンズハート**（こうだんしゃエックスぶんこティーンズハート）は、[講談社](../Page/講談社.md "wikilink")が発行していた[ライトノベル](../Page/ライトノベル.md "wikilink")系・[少女小説](https://ja.wikipedia.org/wiki/少女小説 "wikilink")系の[文庫](../Page/文庫.md "wikilink")レーベル。
+**講談社X文庫ティーンズハート**（こうだんしゃエックスぶんこティーンズハート）は、[講談社](../Page/講談社.md "wikilink")が発行していた[ライトノベル](../Page/ライトノベル.md "wikilink")系・[少女小説](../Page/少女小説.md "wikilink")系の[文庫](../Page/文庫.md "wikilink")レーベル。
 
 ## 概要
 
@@ -31,7 +31,7 @@
   - [鎌田絵里](https://ja.wikipedia.org/wiki/鎌田絵里 "wikilink")
   - [かわちゆかり](../Page/かわちゆかり.md "wikilink")
   - [神崎あおい](https://ja.wikipedia.org/wiki/神崎あおい "wikilink")
-  - [倉橋耀子](https://ja.wikipedia.org/wiki/倉橋燿子 "wikilink")
+  - [倉橋耀子](../Page/倉橋燿子.md "wikilink")
   - [くりた陸](../Page/くりた陸.md "wikilink")
   - [小泉まりえ](https://ja.wikipedia.org/wiki/小泉まりえ "wikilink")
   - [小林深雪](../Page/小林深雪.md "wikilink")

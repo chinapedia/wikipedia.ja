@@ -1,7 +1,7 @@
 > この記事は[NIAGARA MOON](https://ja.wikipedia.org/wiki/NIAGARA_MOON)から翻訳されています。
 
 
-『**NIAGARA MOON**』（ナイアガラ・ムーン）は、[1975年](../Page/1975年.md "wikilink")[5月30日](../Page/5月30日.md "wikilink")に発売された[大滝詠一](https://ja.wikipedia.org/wiki/大滝詠一 "wikilink")通算2作目の[スタジオ・アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。
+『**NIAGARA MOON**』（ナイアガラ・ムーン）は、[1975年](../Page/1975年.md "wikilink")[5月30日](../Page/5月30日.md "wikilink")に発売された[大滝詠一](https://ja.wikipedia.org/wiki/大滝詠一 "wikilink")通算2作目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 解説
 
@@ -45,7 +45,7 @@
 6.  **恋はメレンゲ**
       -
         作詞・作曲 / 大瀧詠一
-        この曲の制作経緯について、後に大滝は「のCM\<ココナツ・コーン\>で使った“メレンゲ”のアイデアをようやく使えるというのがありましたね。これは\<[恋はボサノバ](https://ja.wikipedia.org/wiki/:en:Blame_It_on_the_Bossa_Nova "wikilink")\>をパロディにしようってことで。[ボサノヴァ](../Page/ボサノヴァ.md "wikilink")でおかげで恋に落ちたというストーリーだから、後はそれをメレンゲに置き換えて。原詞にないところを適当に取り入れながらね。“たった一度の…ロマンスで花が咲く”はそのまんまだからね。<恋はボサノバ>の日本語のカバーがあるけれど、それはこういう詞にはなってないんだよ。やっぱりこれは創作なんですな」\[3\]と答えている。さらに、「それでリズムを録って終わったときに、ポップスにしようということで、[ピアニカ](https://ja.wikipedia.org/wiki/ピアニカ "wikilink")でチロル民謡を弾いてる。南米のリズムのメレンゲでチロル民謡という、ただのアダプトではないところにナイアガラ色があると。[松任谷が弾いてたら](https://ja.wikipedia.org/wiki/松任谷正隆 "wikilink")、あのリズムの中であのフレーズをやるのはすんごい難しくて。吹いてるうちに息切れするわけ。続かないよ、と。いやー、せっかくなのにもったいないな、と言っていたら矢崎さん（PA機材リース会社の人）がゴムホースとビニール袋を持ってきた。それをピアニカに付けて演奏の間中、ずーっと矢崎さんが吹いてんの。[マンタは弾くだけ](https://ja.wikipedia.org/wiki/松任谷正隆 "wikilink")。ビニール袋がずーっと膨らんでるわけよ。それで“シンナー矢崎”とクレジットした。それが誤植されて“ツンナー矢崎”と。誤植まで入るなよ。説明にならなくなるじゃないかよ。ピアニカがフレーズが長いから息が続かないと。それで矢崎さんが発案したんだもの。顔真っ赤にしてフーフー言ってたよ」\[4\]という。その経緯を踏まえ、リリースの“30th Anniversary Edition”およびリリースの“[40th Anniversary Edition](https://ja.wikipedia.org/wiki/NIAGARA_MOON_-40th_Anniversary_Edition- "wikilink")”でも、“ツンナー矢崎”とクレジットされている。
+        この曲の制作経緯について、後に大滝は「のCM\<ココナツ・コーン\>で使った“メレンゲ”のアイデアをようやく使えるというのがありましたね。これは\<[恋はボサノバ](https://ja.wikipedia.org/wiki/:en:Blame_It_on_the_Bossa_Nova "wikilink")\>をパロディにしようってことで。[ボサノヴァ](../Page/ボサノヴァ.md "wikilink")でおかげで恋に落ちたというストーリーだから、後はそれをメレンゲに置き換えて。原詞にないところを適当に取り入れながらね。“たった一度の…ロマンスで花が咲く”はそのまんまだからね。<恋はボサノバ>の日本語のカバーがあるけれど、それはこういう詞にはなってないんだよ。やっぱりこれは創作なんですな」\[3\]と答えている。さらに、「それでリズムを録って終わったときに、ポップスにしようということで、[ピアニカ](../Page/ピアニカ.md "wikilink")でチロル民謡を弾いてる。南米のリズムのメレンゲでチロル民謡という、ただのアダプトではないところにナイアガラ色があると。[松任谷が弾いてたら](../Page/松任谷正隆.md "wikilink")、あのリズムの中であのフレーズをやるのはすんごい難しくて。吹いてるうちに息切れするわけ。続かないよ、と。いやー、せっかくなのにもったいないな、と言っていたら矢崎さん（PA機材リース会社の人）がゴムホースとビニール袋を持ってきた。それをピアニカに付けて演奏の間中、ずーっと矢崎さんが吹いてんの。[マンタは弾くだけ](../Page/松任谷正隆.md "wikilink")。ビニール袋がずーっと膨らんでるわけよ。それで“シンナー矢崎”とクレジットした。それが誤植されて“ツンナー矢崎”と。誤植まで入るなよ。説明にならなくなるじゃないかよ。ピアニカがフレーズが長いから息が続かないと。それで矢崎さんが発案したんだもの。顔真っ赤にしてフーフー言ってたよ」\[4\]という。その経緯を踏まえ、リリースの“30th Anniversary Edition”およびリリースの“[40th Anniversary Edition](https://ja.wikipedia.org/wiki/NIAGARA_MOON_-40th_Anniversary_Edition- "wikilink")”でも、“ツンナー矢崎”とクレジットされている。
 
 ### SIDE 2
 
@@ -64,15 +64,15 @@
 4.  **いつも夢中**
       -
         作詞・作曲 / 大瀧詠一
-        [ザ・キング・トーンズ](https://ja.wikipedia.org/wiki/ザ・キング・トーンズ "wikilink")をバックコーラスに迎えたアカペラ曲。後に[シチズン腕時計コスモトロンCMソングに](https://ja.wikipedia.org/wiki/シチズン時計 "wikilink")「ムーチュ」として使われるが、その時は、コーラスもすべて大滝が一人コーラスグループとして名乗っているJack Toneとして担当した再録音バージョン。
+        [ザ・キング・トーンズ](https://ja.wikipedia.org/wiki/ザ・キング・トーンズ "wikilink")をバックコーラスに迎えたアカペラ曲。後に[シチズン腕時計コスモトロンCMソングに](../Page/シチズン時計.md "wikilink")「ムーチュ」として使われるが、その時は、コーラスもすべて大滝が一人コーラスグループとして名乗っているJack Toneとして担当した再録音バージョン。
 5.  **Cider '73 '74 '75**
       -
-        作詞 / [伊藤アキラ](https://ja.wikipedia.org/wiki/伊藤アキラ "wikilink")、 作曲 / 多羅尾伴内
-        [三ツ矢サイダー](https://ja.wikipedia.org/wiki/三ツ矢サイダー "wikilink")のCMソングとして制作された楽曲。『[NIAGARA CM SPECIAL](https://ja.wikipedia.org/wiki/NIAGARA_CM_SPECIAL "wikilink")』にも収録。
+        作詞 / [伊藤アキラ](../Page/伊藤アキラ.md "wikilink")、 作曲 / 多羅尾伴内
+        [三ツ矢サイダー](../Page/三ツ矢サイダー.md "wikilink")のCMソングとして制作された楽曲。『[NIAGARA CM SPECIAL](https://ja.wikipedia.org/wiki/NIAGARA_CM_SPECIAL "wikilink")』にも収録。
 6.  **ナイアガラ・ムーンがまた輝けば**
       -
         作詞・作曲 / 大瀧詠一
-        後に、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")公開の映画『[イン・ザ・プール](../Page/イン・ザ・プール.md "wikilink")』のテーマソング用に、新たにミックスされた（オールタイム・[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[Best Always](https://ja.wikipedia.org/wiki/Best_Always "wikilink")』に収録）。
+        後に、[2005年](../Page/2005年.md "wikilink")公開の映画『[イン・ザ・プール](../Page/イン・ザ・プール.md "wikilink")』のテーマソング用に、新たにミックスされた（オールタイム・[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[Best Always](https://ja.wikipedia.org/wiki/Best_Always "wikilink")』に収録）。
 
 ## クレジット
 
@@ -147,7 +147,7 @@
 
 ### 解説
 
-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月24日](../Page/3月24日.md "wikilink")に1stソロアルバム『[大瀧詠一](https://ja.wikipedia.org/wiki/大瀧詠一_\(アルバム\) "wikilink")』と、[ナイアガラ・レーベル](../Page/ナイアガラ・レーベル.md "wikilink")からリリースされた『[NIAGARA CM SPECIAL](https://ja.wikipedia.org/wiki/NIAGARA_CM_SPECIAL "wikilink")』『[NIAGARA TRIANGLE Vol.1](https://ja.wikipedia.org/wiki/NIAGARA_TRIANGLE_Vol.1 "wikilink")』とともにオリジナル・マスターおよび、[ボーナス・トラック](https://ja.wikipedia.org/wiki/ボーナス・トラック "wikilink")付きで再発された。
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月24日](../Page/3月24日.md "wikilink")に1stソロアルバム『[大瀧詠一](https://ja.wikipedia.org/wiki/大瀧詠一_\(アルバム\) "wikilink")』と、[ナイアガラ・レーベル](../Page/ナイアガラ・レーベル.md "wikilink")からリリースされた『[NIAGARA CM SPECIAL](https://ja.wikipedia.org/wiki/NIAGARA_CM_SPECIAL "wikilink")』『[NIAGARA TRIANGLE Vol.1](https://ja.wikipedia.org/wiki/NIAGARA_TRIANGLE_Vol.1 "wikilink")』とともにオリジナル・マスターおよび、[ボーナス・トラック](../Page/ボーナス・トラック.md "wikilink")付きで再発された。
 
 ### 収録曲
 
@@ -165,7 +165,7 @@
 12. **WHEN MY NIAGARA MOON TURNS TO GOLD AGAIN**
 13. **福生ストラット(PART II)（スタジオ・ライヴ）**
       -
-        M13-18は1976年、『[NIAGARA TRIANGLE Vol.1](https://ja.wikipedia.org/wiki/NIAGARA_TRIANGLE_Vol.1 "wikilink")』制作中にそれのプロモーション・フィルムを作る話が持ち上がり、[2月20日](../Page/2月20日.md "wikilink")に[福生45スタジオ](https://ja.wikipedia.org/wiki/福生45スタジオ "wikilink")で収録されたスタジオ・ライブの音源。メンバーはドラム・[上原裕](https://ja.wikipedia.org/wiki/上原裕 "wikilink")、ベース・[寺尾次郎](https://ja.wikipedia.org/wiki/寺尾次郎 "wikilink")、ギター・[伊藤銀次](../Page/伊藤銀次.md "wikilink") & [村松邦男](../Page/村松邦男.md "wikilink")、スティール・[駒沢裕城](https://ja.wikipedia.org/wiki/駒沢裕城 "wikilink")、ピアノ・[坂本龍一](../Page/坂本龍一.md "wikilink")。「福生ストラット」は、後半が[青梅線](https://ja.wikipedia.org/wiki/青梅線 "wikilink")巡りに歌詞が変更されている。
+        M13-18は1976年、『[NIAGARA TRIANGLE Vol.1](https://ja.wikipedia.org/wiki/NIAGARA_TRIANGLE_Vol.1 "wikilink")』制作中にそれのプロモーション・フィルムを作る話が持ち上がり、[2月20日](../Page/2月20日.md "wikilink")に[福生45スタジオ](https://ja.wikipedia.org/wiki/福生45スタジオ "wikilink")で収録されたスタジオ・ライブの音源。メンバーはドラム・[上原裕](https://ja.wikipedia.org/wiki/上原裕 "wikilink")、ベース・[寺尾次郎](https://ja.wikipedia.org/wiki/寺尾次郎 "wikilink")、ギター・[伊藤銀次](../Page/伊藤銀次.md "wikilink") & [村松邦男](../Page/村松邦男.md "wikilink")、スティール・[駒沢裕城](../Page/駒沢裕城.md "wikilink")、ピアノ・[坂本龍一](../Page/坂本龍一.md "wikilink")。「福生ストラット」は、後半が[青梅線](https://ja.wikipedia.org/wiki/青梅線 "wikilink")巡りに歌詞が変更されている。
 14. **あの娘に御用心（スタジオ・ライヴ）**
       -
         シャックリ・ママさん・バージョン。
@@ -186,7 +186,7 @@
 
 ### 解説
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月21日](../Page/3月21日.md "wikilink")に大瀧自身によるリマスタリングで発売された30周年記念盤。初回盤を銀蒸着CDとして制作したが、エンジニア笛吹銅次の意に沿わない音質であったため、大瀧は通常盤も併せて聴いて欲しいという。
+[2005年](../Page/2005年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")に大瀧自身によるリマスタリングで発売された30周年記念盤。初回盤を銀蒸着CDとして制作したが、エンジニア笛吹銅次の意に沿わない音質であったため、大瀧は通常盤も併せて聴いて欲しいという。
 
 ### 収録曲
 
@@ -575,7 +575,7 @@
 <th><p>発売日</p></th>
 <th><p>リリース</p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">品番</a></p></th>
 <th><p>備考</p></th>
 </tr>
 </thead>

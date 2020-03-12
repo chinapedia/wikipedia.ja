@@ -1,11 +1,11 @@
 > この記事は[DEBUT \(\)](https://ja.wikipedia.org/wiki/DEBUT_\(\))から翻訳されています。
 
 
-『**DEBUT**』（デビュー）は、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[8月25日](../Page/8月25日.md "wikilink")に発売された[大滝詠一の](../Page/大瀧詠一.md "wikilink")[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。
+『**DEBUT**』（デビュー）は、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[8月25日](../Page/8月25日.md "wikilink")に発売された[大滝詠一の](../Page/大瀧詠一.md "wikilink")[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。
 
 ## 解説
 
-『[GO\! GO\! NIAGARA](https://ja.wikipedia.org/wiki/GO!_GO!_NIAGARA "wikilink")』\[1\]までのソロ作品全31曲の中から12曲を選ぶ、という専用ハガキを配布しての投票の多い順の収録を謳ったファン参加呼びかけ式選曲による“ヒット曲のない[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")”。雑誌『[ヤング・ギター](../Page/YOUNG_GUITAR.md "wikilink")』が協賛し集計先になっていたが、得票結果は定かではない。全12曲中5曲が本作用の新録で、『多羅尾伴内楽團 Vol.2』\[2\]とほぼ同じメンバーによってに録音された。A面収録の最初の4曲は[福生45スタジオ](https://ja.wikipedia.org/wiki/福生45スタジオ "wikilink")での[リミックス](../Page/リミックス.md "wikilink")・バージョン。B面の前半曲はの[渋谷公会堂](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")でのライブ音源。『多羅尾伴内楽團 Vol.1』\[3\]のメンバーに[井上鑑](https://ja.wikipedia.org/wiki/井上鑑 "wikilink")と稲垣次郎セクションのホーンと岡崎資夫のクラリネットが参加。最後の3曲にはドラムスに宗台春男が参加し、夏のライブから『[LET'S ONDO AGAIN](https://ja.wikipedia.org/wiki/LET'S_ONDO_AGAIN "wikilink")』\[4\]へと続くメンバーが揃う。また、「外はいい天気だよ ’78」ではクレジットから漏れているが、コントラバスが2人参加している\[5\]。タイトルは「それまで聴いたことのない人の“初めての”アルバムになって欲しい」という意図からつけられた。
+『[GO\! GO\! NIAGARA](../Page/GO!_GO!_NIAGARA.md "wikilink")』\[1\]までのソロ作品全31曲の中から12曲を選ぶ、という専用ハガキを配布しての投票の多い順の収録を謳ったファン参加呼びかけ式選曲による“ヒット曲のない[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")”。雑誌『[ヤング・ギター](../Page/YOUNG_GUITAR.md "wikilink")』が協賛し集計先になっていたが、得票結果は定かではない。全12曲中5曲が本作用の新録で、『多羅尾伴内楽團 Vol.2』\[2\]とほぼ同じメンバーによってに録音された。A面収録の最初の4曲は[福生45スタジオ](https://ja.wikipedia.org/wiki/福生45スタジオ "wikilink")での[リミックス](../Page/リミックス.md "wikilink")・バージョン。B面の前半曲はの[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")でのライブ音源。『多羅尾伴内楽團 Vol.1』\[3\]のメンバーに[井上鑑](../Page/井上鑑.md "wikilink")と稲垣次郎セクションのホーンと岡崎資夫のクラリネットが参加。最後の3曲にはドラムスに宗台春男が参加し、夏のライブから『[LET'S ONDO AGAIN](https://ja.wikipedia.org/wiki/LET'S_ONDO_AGAIN "wikilink")』\[4\]へと続くメンバーが揃う。また、「外はいい天気だよ ’78」ではクレジットから漏れているが、コントラバスが2人参加している\[5\]。タイトルは「それまで聴いたことのない人の“初めての”アルバムになって欲しい」という意図からつけられた。
 
 、[CBSソニー](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")（当時）未発売のアルバムを[ボックス・セット](../Page/ボックス・セット.md "wikilink")化した限定盤『NIAGARA BLACK VOX』\[6\]に収録された他は、一度もオリジナル・フォーマットでリイシューされたことがなかったが、発売の12枚組[CDボックス・セット](https://ja.wikipedia.org/wiki/CD-BOX "wikilink")『NIAGARA CD BOOK I』\[7\]にてオリジナル・フォーマットによる初CD化が実現した。には『[EACH TIME -30th Anniversary Edition-](https://ja.wikipedia.org/wiki/EACH_TIME_-30th_Anniversary_Edition- "wikilink")』\[8\]のリリースを記念して、[iTunes Storeでは](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")3月19日から同作配信と合わせて未配信のカタログ配信が一斉に開始された\[9\]。
 
@@ -22,7 +22,7 @@
 </tbody>
 </table>
 
-オリジナル・アナログ盤にはナイアガラ・レコードのディスコグラフィー、ポスター、シングル及びアルバムのジャケットなどがブックレットの形で添付されていた。また、ミュージシャンズ・クレジット下段には前作『[NIAGARA CALENDAR](https://ja.wikipedia.org/wiki/NIAGARA_CALENDAR "wikilink")』\[10\]の歌詞に誤字があったとして、訂正文が記載されている。
+オリジナル・アナログ盤にはナイアガラ・レコードのディスコグラフィー、ポスター、シングル及びアルバムのジャケットなどがブックレットの形で添付されていた。また、ミュージシャンズ・クレジット下段には前作『[NIAGARA CALENDAR](../Page/NIAGARA_CALENDAR.md "wikilink")』\[10\]の歌詞に誤字があったとして、訂正文が記載されている。
 
 ## 収録曲
 
@@ -155,7 +155,7 @@ Side 2-4,5,6 by 松本隆 &amp; 大瀧詠一</p></td>
 <th><p>発売日</p></th>
 <th><p>リリース</p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">品番</a></p></th>
 <th><p>備考</p></th>
 </tr>
 </thead>
@@ -233,16 +233,16 @@ Side 2-4,5,6 by 松本隆 &amp; 大瀧詠一</p></td>
 
 [Category:ナイアガラ・レーベルのアルバム](https://ja.wikipedia.org/wiki/Category:ナイアガラ・レーベルのアルバム "wikilink") [Category:大滝詠一のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:大滝詠一のベスト・アルバム "wikilink") [Category:1978年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:1978年のベスト・アルバム "wikilink")
 
-1.  『[GO\! GO\! NIAGARA](https://ja.wikipedia.org/wiki/GO!_GO!_NIAGARA "wikilink")』 発売 [NIAGARA](../Page/ナイアガラ・レーベル.md "wikilink") / [COLUMBIA](../Page/日本コロムビア.md "wikilink") LP:LQ-7011-E (NGLP-507, 508-OT)
+1.  『[GO\! GO\! NIAGARA](../Page/GO!_GO!_NIAGARA.md "wikilink")』 発売 [NIAGARA](../Page/ナイアガラ・レーベル.md "wikilink") / [COLUMBIA](../Page/日本コロムビア.md "wikilink") LP:LQ-7011-E (NGLP-507, 508-OT)
 2.  多羅尾伴内楽團『多羅尾伴内楽團 Vol.2』 発売 NIAGARA / COLUMBIA LP:LX-7042-E (NGLP-517, 518-TB), [CT](../Page/カセットテープ.md "wikilink"):CAY-1080-E
 3.  多羅尾伴内楽團『多羅尾伴内楽團 Vol.1』 発売 NIAGARA / COLUMBIA LP:LX-7031-E (NGLP-513, 514-TB)
 4.  NIAGARA FALLIN' STARS『[LET'S ONDO AGAIN](https://ja.wikipedia.org/wiki/LET'S_ONDO_AGAIN "wikilink")』 発売 NIAGARA / COLUMBIA LP:LX-7054-E (NGLP-521, 522-TB)
 5.
 6.  V.A.『NIAGARA BLACK VOX』 発売 NIAGARA ⁄ [CBS/SONY](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink") 5LP:98AH 1701\~5
-7.  V.A.『NIAGARA CD BOOK I』 発売 NIAGARA / [Sony Music Records](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink") 12CD:SRCL 7500\~11
+7.  V.A.『NIAGARA CD BOOK I』 発売 NIAGARA / [Sony Music Records](../Page/ソニー・ミュージックレコーズ.md "wikilink") 12CD:SRCL 7500\~11
 8.  『[EACH TIME -30th Anniversary Edition-](https://ja.wikipedia.org/wiki/EACH_TIME_-30th_Anniversary_Edition- "wikilink")』 発売 NIAGARA / [Sony Music Labels](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink") 2CD:SRCL-8005\~6
 9.
-10. 『[NIAGARA CALENDAR](https://ja.wikipedia.org/wiki/NIAGARA_CALENDAR "wikilink")』 発売 NIAGARA / COLUMBIA LP:LX-7032-E (NGLP-515,516-OT), [CT](../Page/カセットテープ.md "wikilink"):CAY-1059-E
+10. 『[NIAGARA CALENDAR](../Page/NIAGARA_CALENDAR.md "wikilink")』 発売 NIAGARA / COLUMBIA LP:LX-7032-E (NGLP-515,516-OT), [CT](../Page/カセットテープ.md "wikilink"):CAY-1059-E
 11.
 12.
 13.

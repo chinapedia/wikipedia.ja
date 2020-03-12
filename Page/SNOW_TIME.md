@@ -1,7 +1,7 @@
 > この記事は[SNOW TIME](https://ja.wikipedia.org/wiki/SNOW_TIME)から翻訳されています。
 
 
-『**SNOW TIME**』（スノータイム）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[大滝詠一の](../Page/大瀧詠一.md "wikilink")[コンピレーション・アルバム](https://ja.wikipedia.org/wiki/コンピレーション・アルバム "wikilink")。
+『**SNOW TIME**』（スノータイム）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[大滝詠一の](../Page/大瀧詠一.md "wikilink")[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")。
 
 ## 内容
 
@@ -96,7 +96,7 @@
 
       -
         Guitar : [村松邦男](../Page/村松邦男.md "wikilink")
-        Steel : [駒沢裕城](https://ja.wikipedia.org/wiki/駒沢裕城 "wikilink")
+        Steel : [駒沢裕城](../Page/駒沢裕城.md "wikilink")
 
 4.  **AURORA / オーロラに消えた恋**
 
@@ -130,7 +130,7 @@
 <th><p>発売日</p></th>
 <th><p>リリース</p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">品番</a></p></th>
 <th><p>備考</p></th>
 </tr>
 </thead>
@@ -141,7 +141,7 @@
 <td><p><a href="../Page/ナイアガラ・レーベル.md" title="wikilink">ナイアガラ</a> ⁄ <a href="https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_(日本)" title="wikilink">CBSソニー</a></p></td>
 <td><p>CD</p></td>
 <td><p>XDDH 93001 (NGSP-CD-1-OT)</p></td>
-<td><p>冬向きの曲と、未発表<a href="https://ja.wikipedia.org/wiki/器楽曲" title="wikilink">インストゥルメンタル</a>・ナンバーを集めた、プロモーション用アルバム。プロモ・オンリーCDとしては世界初[1]。ライト・ケース仕様。</p></td>
+<td><p>冬向きの曲と、未発表<a href="../Page/器楽曲.md" title="wikilink">インストゥルメンタル</a>・ナンバーを集めた、プロモーション用アルバム。プロモ・オンリーCDとしては世界初[1]。ライト・ケース仕様。</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>

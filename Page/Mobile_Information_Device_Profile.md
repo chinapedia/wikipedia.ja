@@ -1,7 +1,7 @@
 > この記事は[Mobile Information Device Profile](https://ja.wikipedia.org/wiki/Mobile_Information_Device_Profile)から翻訳されています。
 
 
-**Mobile Information Device Profile**（略称**MIDP**）は、[携帯電話](../Page/携帯電話.md "wikilink")や[PDAのような](../Page/携帯情報端末.md "wikilink")[組み込み](https://ja.wikipedia.org/wiki/組み込み "wikilink")機器での[Java](https://ja.wikipedia.org/wiki/Java "wikilink")の利用について記述した仕様である。MIDPは [Java ME](../Page/Java_Platform,_Micro_Edition.md "wikilink") フレームワークの一部である。MIDPは[CLDCと組み合わせて利用する](https://ja.wikipedia.org/wiki/Connected_Limited_Device_Configuration "wikilink")。
+**Mobile Information Device Profile**（略称**MIDP**）は、[携帯電話](../Page/携帯電話.md "wikilink")や[PDAのような](../Page/携帯情報端末.md "wikilink")[組み込み](https://ja.wikipedia.org/wiki/組み込み "wikilink")機器での[Java](https://ja.wikipedia.org/wiki/Java "wikilink")の利用について記述した仕様である。MIDPは [Java ME](../Page/Java_Platform,_Micro_Edition.md "wikilink") フレームワークの一部である。MIDPは[CLDCと組み合わせて利用する](../Page/Connected_Limited_Device_Configuration.md "wikilink")。
 
 ## 歴史
 
@@ -13,7 +13,7 @@ MIDPは以下の三種類が[JCPの下で開発された](../Page/Java_Community
 
 ## 日本での採用
 
-日本では[au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")（ezplus、[EZアプリ (Java)](../Page/EZアプリ_\(Java\).md "wikilink")、[オープンアプリプレイヤー](https://ja.wikipedia.org/wiki/オープンアプリプレイヤー "wikilink")）、[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")（[S\!アプリ](../Page/S!アプリ.md "wikilink")）、[ウィルコム](../Page/ウィルコム.md "wikilink")で採用されている。[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[iアプリ](https://ja.wikipedia.org/wiki/iアプリ "wikilink")はMIDPでは無く、[DoJaプロファイル](../Page/DoJaプロファイル.md "wikilink")である。
+日本では[au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")（ezplus、[EZアプリ (Java)](../Page/EZアプリ_\(Java\).md "wikilink")、[オープンアプリプレイヤー](../Page/オープンアプリプレイヤー.md "wikilink")）、[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")（[S\!アプリ](../Page/S!アプリ.md "wikilink")）、[ウィルコム](../Page/ウィルコム.md "wikilink")で採用されている。[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[iアプリ](https://ja.wikipedia.org/wiki/iアプリ "wikilink")はMIDPでは無く、[DoJaプロファイル](../Page/DoJaプロファイル.md "wikilink")である。
 
 ## Lightweight User Interface Toolkit
 

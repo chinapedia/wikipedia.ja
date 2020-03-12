@@ -5,13 +5,13 @@
 
 **ジョルジュ・ジャン・フランツ・ケーラー**\[1\]（Georges Jean Franz Köhler、[1946年](../Page/1946年.md "wikilink")[4月17日](../Page/4月17日.md "wikilink") - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月1日](../Page/3月1日.md "wikilink")）は[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[生物学者](https://ja.wikipedia.org/wiki/生物学者 "wikilink")。
 
-[ミュンヘン](../Page/ミュンヘン.md "wikilink")で、ドイツ人の父とフランス人の母の間に生まれた\[2\]。[免疫制御機構](https://ja.wikipedia.org/wiki/免疫制御機構 "wikilink")に関する理論の確立と[モノクローナル抗体](../Page/モノクローナル抗体.md "wikilink")の作成法の開発により、[ニールス・イェルネ](../Page/ニールス・イェルネ.md "wikilink")及び[セーサル・ミルスタイン](../Page/セーサル・ミルスタイン.md "wikilink")と共に[1984年](../Page/1984年.md "wikilink")に[ノーベル生理学・医学賞](../Page/ノーベル生理学・医学賞.md "wikilink")を受賞した。同年、[フライブルク大学の教授に就任した](https://ja.wikipedia.org/wiki/アルベルト・ルートヴィヒ大学フライブルク "wikilink")。[マックス・プランク免疫生物学研究所の研究員となった](https://ja.wikipedia.org/wiki/マックス・プランク研究所 "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、彼は[肺炎](https://ja.wikipedia.org/wiki/肺炎 "wikilink")により死亡した。
+[ミュンヘン](../Page/ミュンヘン.md "wikilink")で、ドイツ人の父とフランス人の母の間に生まれた\[2\]。[免疫制御機構](https://ja.wikipedia.org/wiki/免疫制御機構 "wikilink")に関する理論の確立と[モノクローナル抗体](../Page/モノクローナル抗体.md "wikilink")の作成法の開発により、[ニールス・イェルネ](../Page/ニールス・イェルネ.md "wikilink")及び[セーサル・ミルスタイン](../Page/セーサル・ミルスタイン.md "wikilink")と共に[1984年](../Page/1984年.md "wikilink")に[ノーベル生理学・医学賞](../Page/ノーベル生理学・医学賞.md "wikilink")を受賞した。同年、[フライブルク大学の教授に就任した](../Page/アルベルト・ルートヴィヒ大学フライブルク.md "wikilink")。[マックス・プランク免疫生物学研究所の研究員となった](../Page/マックス・プランク研究所.md "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、彼は[肺炎](https://ja.wikipedia.org/wiki/肺炎 "wikilink")により死亡した。
 
 ## 受賞歴
 
   - 1981年 [ガードナー国際賞](../Page/ガードナー国際賞.md "wikilink")
   - 1982年 [カール・ラントシュタイナー記念賞](https://ja.wikipedia.org/wiki/カール・ラントシュタイナー記念賞 "wikilink")
-  - 1984年 [アルバート・ラスカー基礎医学研究賞](https://ja.wikipedia.org/wiki/アルバート・ラスカー基礎医学研究賞 "wikilink")、ノーベル生理学・医学賞
+  - 1984年 [アルバート・ラスカー基礎医学研究賞](../Page/アルバート・ラスカー基礎医学研究賞.md "wikilink")、ノーベル生理学・医学賞
 
 ## 脚注
 

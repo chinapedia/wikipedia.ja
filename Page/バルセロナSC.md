@@ -1,9 +1,9 @@
 > この記事は[SC](https://ja.wikipedia.org/wiki/SC)から翻訳されています。
 
 
-**バルセロナSC**（**Barcelona Sporting Club**）は[エクアドル](https://ja.wikipedia.org/wiki/エクアドル "wikilink")の[グアヤキル](https://ja.wikipedia.org/wiki/グアヤキル "wikilink")に本拠地を置くサッカークラブ。[FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")との混同を避けたい場合には Barcelona de Guayaquil（バルセロナ・デ・グアヤキル）という呼称が用いられることもある。 [FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")とは直接的な関係は無いものの、エンブレムは非常によく似ており親善試合も行ったことがある。
+**バルセロナSC**（**Barcelona Sporting Club**）は[エクアドル](https://ja.wikipedia.org/wiki/エクアドル "wikilink")の[グアヤキル](../Page/グアヤキル.md "wikilink")に本拠地を置くサッカークラブ。[FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")との混同を避けたい場合には Barcelona de Guayaquil（バルセロナ・デ・グアヤキル）という呼称が用いられることもある。 [FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")とは直接的な関係は無いものの、エンブレムは非常によく似ており親善試合も行ったことがある。
 
-1925年5月1日、クラブ名の由来であるスペイン・[バルセロナ](../Page/バルセロナ.md "wikilink")市からの移民エウティミオ・ペレスによって創設された。1960年から40年間はエクアドル一の強豪クラブとして南米にその名を轟かせた。1990年と1998年には[コパ・リベルタドーレス](https://ja.wikipedia.org/wiki/コパ・リベルタドーレス "wikilink")で決勝まで進むものの、それぞれ[オリンピア・アスンシオン](../Page/オリンピア・アスンシオン.md "wikilink")と[CRヴァスコ・ダ・ガマ](https://ja.wikipedia.org/wiki/CRヴァスコ・ダ・ガマ "wikilink")に敗れ、 日本行きはならなかった。
+1925年5月1日、クラブ名の由来であるスペイン・[バルセロナ](../Page/バルセロナ.md "wikilink")市からの移民エウティミオ・ペレスによって創設された。1960年から40年間はエクアドル一の強豪クラブとして南米にその名を轟かせた。1990年と1998年には[コパ・リベルタドーレス](https://ja.wikipedia.org/wiki/コパ・リベルタドーレス "wikilink")で決勝まで進むものの、それぞれ[オリンピア・アスンシオン](../Page/オリンピア・アスンシオン.md "wikilink")と[CRヴァスコ・ダ・ガマ](../Page/CRヴァスコ・ダ・ガマ.md "wikilink")に敗れ、 日本行きはならなかった。
 
 ここ最近はかつてのような強さは無くなったものの、未だにエクアドル随一の人気クラブであることには変わりない。
 
@@ -11,7 +11,7 @@
 
 ## ライバル
 
-バルセロナSCの最大のライバルは同じグアヤキルを本拠地に置く、[エメレクである](https://ja.wikipedia.org/wiki/CSエメレク "wikilink")。この2チームの対戦は"[エル・クラシコ・デル・アスティジェーロ](https://ja.wikipedia.org/wiki/クラシコ・デル・アスティジェーロ "wikilink")"（造船所のダービー）と言われている。また[リーガ・デ・キトと](https://ja.wikipedia.org/wiki/LDUキト "wikilink")[CDエル・ナシオナル](https://ja.wikipedia.org/wiki/CDエル・ナシオナル "wikilink")ともライバル関係にある。
+バルセロナSCの最大のライバルは同じグアヤキルを本拠地に置く、[エメレクである](https://ja.wikipedia.org/wiki/CSエメレク "wikilink")。この2チームの対戦は"[エル・クラシコ・デル・アスティジェーロ](https://ja.wikipedia.org/wiki/クラシコ・デル・アスティジェーロ "wikilink")"（造船所のダービー）と言われている。また[リーガ・デ・キトと](../Page/LDUキト.md "wikilink")[CDエル・ナシオナル](../Page/CDエル・ナシオナル.md "wikilink")ともライバル関係にある。
 
 ## タイトル
 
@@ -37,7 +37,7 @@
 
   - [ガストン・セッサ](https://ja.wikipedia.org/wiki/ガストン・セッサ "wikilink")
 
-  - [アグスティン・デルガド](https://ja.wikipedia.org/wiki/アグスティン・デルガド "wikilink") 1994-1995
+  - [アグスティン・デルガド](../Page/アグスティン・デルガド.md "wikilink") 1994-1995
 
   - [ウリセス・デ・ラ・クルス](../Page/ウリセス・デ・ラ・クルス.md "wikilink") 1995
 

@@ -5,7 +5,7 @@
 
 ## 特徴
 
-[Seamonkey_composer_ja.png](https://ja.wikipedia.org/wiki/File:Seamonkey_composer_ja.png "fig:Seamonkey_composer_ja.png") SeaMonkeyは[Gecko](../Page/Gecko.md "wikilink")と呼ばれる[レンダリングエンジン](https://ja.wikipedia.org/wiki/レンダリングエンジン "wikilink")を使用している。SeaMonkeyには[タブブラウザ](https://ja.wikipedia.org/wiki/タブブラウザ "wikilink")方式の[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")、[電子メール](../Page/電子メール.md "wikilink")クライアント、[ニュースグループ](../Page/ニュースグループ.md "wikilink")クライアント、[IRCクライアント](https://ja.wikipedia.org/wiki/インターネット・リレー・チャット "wikilink")、単にComposerとも呼ばれる [WYSIWYG](../Page/WYSIWYG.md "wikilink")のHTML編集ツール（[Mozilla Composer](https://ja.wikipedia.org/wiki/Mozilla_Composer "wikilink")/右のスクリーンショット参照）が含まれている。
+[Seamonkey_composer_ja.png](https://ja.wikipedia.org/wiki/File:Seamonkey_composer_ja.png "fig:Seamonkey_composer_ja.png") SeaMonkeyは[Gecko](../Page/Gecko.md "wikilink")と呼ばれる[レンダリングエンジン](https://ja.wikipedia.org/wiki/レンダリングエンジン "wikilink")を使用している。SeaMonkeyには[タブブラウザ](../Page/タブブラウザ.md "wikilink")方式の[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")、[電子メール](../Page/電子メール.md "wikilink")クライアント、[ニュースグループ](../Page/ニュースグループ.md "wikilink")クライアント、[IRCクライアント](https://ja.wikipedia.org/wiki/インターネット・リレー・チャット "wikilink")、単にComposerとも呼ばれる [WYSIWYG](../Page/WYSIWYG.md "wikilink")のHTML編集ツール（[Mozilla Composer](../Page/Mozilla_Composer.md "wikilink")/右のスクリーンショット参照）が含まれている。
 
 Mozillaからの改良が加えられ、[SVGサポートや](../Page/Scalable_Vector_Graphics.md "wikilink")[フィッシングメールの検出など](https://ja.wikipedia.org/wiki/フィッシング詐欺 "wikilink")[Firefoxや](../Page/Mozilla_Firefox.md "wikilink")[Thunderbirdの持つ機能も幾らか利用できるようになっている](../Page/Mozilla_Thunderbird.md "wikilink")。SeaMonkeyという名前は小型甲殻類[アルテミア](../Page/アルテミア.md "wikilink")の別名に由来する。
 
@@ -19,7 +19,7 @@ Mozillaからの改良が加えられ、[SVGサポートや](../Page/Scalable_Ve
 
 2006年2月、SeaMonkeyプロジェクトの最初の製品版であるバージョン1.0の英語版がリリース。さらに2007年7月にはかねてより非公式で提供されていた日本語インストーラー版(Windows)と日本語化パック(マルチプラットフォーム)がSeaMonkey Councilの承認を受け公式版としてリリースされるようになる。\[3\]。
 
-2009年11月、SeaMonkey 2.0がリリースされた。このリリースでは、Firefox 3.5相当のプラットフォームへのアップデートが行われたほか、[フィード](https://ja.wikipedia.org/wiki/フィード "wikilink")のサポートや新テーマ、[タブ機能を利用可能なメールクライアントなどを新たに備えた](../Page/タブ_\(GUI\).md "wikilink")。また、[JavaScript](../Page/JavaScript.md "wikilink")の高速化などもアップデートにより実現している\[4\]。
+2009年11月、SeaMonkey 2.0がリリースされた。このリリースでは、Firefox 3.5相当のプラットフォームへのアップデートが行われたほか、[フィード](../Page/フィード.md "wikilink")のサポートや新テーマ、[タブ機能を利用可能なメールクライアントなどを新たに備えた](../Page/タブ_\(GUI\).md "wikilink")。また、[JavaScript](../Page/JavaScript.md "wikilink")の高速化などもアップデートにより実現している\[4\]。
 
 ## バージョンの変遷
 
@@ -29,11 +29,11 @@ SeaMonkey ProjectではソフトウェアにFirefoxやThunderbirdの持つ機能
 
   - 2005年7月2日 - 開発打ち切りとなっていたMozillaをThe SeaMonkey Councilが引き継ぎ、ソフト名をSeaMonkeyに変更しての開発続行が決定。
   - 2006年1月30日 - 開発が引き継がれてから初の正式リリースとなる、**SeaMonkey** **1.0**がリリース。(rv.1.8.0.1)
-  - 2006年4月13日 - SeaMonkey 1.0.1リリース。[Intel Macへの対応](https://ja.wikipedia.org/wiki/Intel_Mac "wikilink")。Firefox 1.5.0.3と同時リリース。(rv.1.8.0.3)
+  - 2006年4月13日 - SeaMonkey 1.0.1リリース。[Intel Macへの対応](../Page/Intel_Mac.md "wikilink")。Firefox 1.5.0.3と同時リリース。(rv.1.8.0.3)
   - 2006年6月1日 - SeaMonkey 1.0.2リリース。安定性の向上、セキュリティフィックス。Firefox、Thunderbirdの1.5.0.4と同時リリース。(rv.1.8.0.4)
   - 2006年7月27日 - SeaMonkey 1.0.3リリース。Firefox、Thunderbird 1.5.0.5との同時リリース。(rv:1.8.0.5)
   - 2006年8月2日 - SeaMonkey 1.0.4リリース。Firefox 1.5.0.6との同時リリース。(rv:1.8.0.6)
-  - 2006年9月16日 - SeaMonkey 1.0.5リリース。Firefox、Thunderbird 1.5.0.7、[Camino](https://ja.wikipedia.org/wiki/Camino "wikilink") 1.0.3との同時リリース。(rv:1.8.0.7)
+  - 2006年9月16日 - SeaMonkey 1.0.5リリース。Firefox、Thunderbird 1.5.0.7、[Camino](../Page/Camino.md "wikilink") 1.0.3との同時リリース。(rv:1.8.0.7)
   - 2006年11月7日 - SeaMonkey 1.0.6リリース。Firefox、Thunderbird 1.5.0.8との同時リリース。(rv:1.8.0.8)
   - 2006年12月18日 - SeaMonkey 1.0.7リリース。Firefox、Thunderbird 1.5.0.9との同時リリース。(rv:1.8.0.9)
   - 2007年2月28日 - SeaMonkey 1.0.8リリース。1.1.1と同等のセキュリティフィックス。(rv:1.8.0.10)
@@ -88,7 +88,7 @@ SeaMonkey ProjectではソフトウェアにFirefoxやThunderbirdの持つ機能
   - 2011年9月27日 - **SeaMonkey** **2.4**リリース。メモリ使用量の大幅削減。レンダリングバックエンド追加によるWindows上の`canvas`処理高速化など。
       - 2011年9月29日 - SeaMonkey 2.4.1リリース。Mozillaの安定性・セキュリティアップデートの反映。
   - 2011年11月22日 - **SeaMonkey** **2.5**リリース。アドオン管理機能を改良、HTML5やWebSocketへの対応を強化した。
-  - 2011年12月20日 -*' SeaMonkey 2.6*'リリース。HTML5のコンテキストメニューに対応、Composerに印刷プレビュー機能を追加、[型推論](https://ja.wikipedia.org/wiki/型推論 "wikilink")導入によるJavaScriptの高速化。
+  - 2011年12月20日 -*' SeaMonkey 2.6*'リリース。HTML5のコンテキストメニューに対応、Composerに印刷プレビュー機能を追加、[型推論](../Page/型推論.md "wikilink")導入によるJavaScriptの高速化。
       - 2011年12月22日 - SeaMonkey 2.6.1リリース。Linux版、Mac OS X 版で異常終了する問題を修正。
   - 2012年1月31日 - **SeaMonkey** **2.7**リリース。アドオンの互換性を柔軟に判断するように変更したほか、[WebGL](https://ja.wikipedia.org/wiki/WebGL "wikilink")のアンチエイリアス、[CSS](../Page/CSS.md "wikilink")の3Dトランスフォーム、HTML5の`bdi`要素、[Indexed Database APIを実装](https://ja.wikipedia.org/wiki/Indexed_Database_API "wikilink")。
       - 2012年2月10日 - SeaMonkey 2.7.1リリース。Javaアプレット上で文字入力が無反応になる場合がある問題と1件のセキュリティ問題を修正。
@@ -144,7 +144,7 @@ SeaMonkey ProjectではソフトウェアにFirefoxやThunderbirdの持つ機能
 ### 2.3x系列
 
   - 2014年10月15日 - **SeaMonkey** **2.30**リリース。Windows版でのOMTCのサポート、Open H264のサポートなど。
-  - 2014年12月4日 - **SeaMonkey** **2.31**リリース。[Mac OS X v10.6以降での](../Page/Mac_OS_X_v10.6.md "wikilink")[H264](https://ja.wikipedia.org/wiki/H264 "wikilink") ([MP4](https://ja.wikipedia.org/wiki/MP4 "wikilink")) のネイティブAPIでのサポート、[HTTP/2](https://ja.wikipedia.org/wiki/HTTP/2 "wikilink") (draft14) およびALPNの実装など。
+  - 2014年12月4日 - **SeaMonkey** **2.31**リリース。[Mac OS X v10.6以降での](../Page/Mac_OS_X_v10.6.md "wikilink")[H264](https://ja.wikipedia.org/wiki/H264 "wikilink") ([MP4](../Page/MP4.md "wikilink")) のネイティブAPIでのサポート、[HTTP/2](https://ja.wikipedia.org/wiki/HTTP/2 "wikilink") (draft14) およびALPNの実装など。
   - 2015年1月13日 - **SeaMonkey** **2.32**リリース。スペルチェックダイアログのサイズ可変、GGC有効化など。
       - 2015年2月6日 - SeaMonkey 2.32.1リリース。バグ修正。
   - 2015年3月10日 - **SeaMonkey** **2.33**リリース。セキュリティ通知バーからのトラッキングの制御、プライバシー設定ペインの更新など。
@@ -187,14 +187,14 @@ SeaMonkey ProjectではソフトウェアにFirefoxやThunderbirdの持つ機能
   - [Mozilla Japan](https://ja.wikipedia.org/wiki/Mozilla_Japan "wikilink") - 日本国内でMozilla製品の普及促進・展開を支援する団体
   - [Mozilla Application Suite](../Page/Mozilla_Application_Suite.md "wikilink") - SeaMonkeyの元となったアプリケーション
   - [Mozilla Firefox](../Page/Mozilla_Firefox.md "wikilink") - Mozillaのブラウザのみの単体ソフト
-  - [Camino](https://ja.wikipedia.org/wiki/Camino "wikilink") - Mac OS X ネイティブのGeckoブラウザ
+  - [Camino](../Page/Camino.md "wikilink") - Mac OS X ネイティブのGeckoブラウザ
   - [Mozilla Thunderbird](../Page/Mozilla_Thunderbird.md "wikilink") - Mozillaの電子メールクライアントのみの単体ソフト
-  - [Mozilla Sunbird](https://ja.wikipedia.org/wiki/Mozilla_Sunbird "wikilink") - Mozillaのカレンダーのみの単体ソフト
+  - [Mozilla Sunbird](../Page/Mozilla_Sunbird.md "wikilink") - Mozillaのカレンダーのみの単体ソフト
   - [Lightning (ソフトウェア)](../Page/Lightning_\(ソフトウェア\).md "wikilink") - Mozilla のカレンダーアドオン
-  - [Mozilla Composer](https://ja.wikipedia.org/wiki/Mozilla_Composer "wikilink") - Mozilla付属のHTML編集ソフト
-  - [Nvu](https://ja.wikipedia.org/wiki/Nvu "wikilink") - Mozilla ComposerベースのHTML編集単体ソフト
+  - [Mozilla Composer](../Page/Mozilla_Composer.md "wikilink") - Mozilla付属のHTML編集ソフト
+  - [Nvu](../Page/Nvu.md "wikilink") - Mozilla ComposerベースのHTML編集単体ソフト
   - [Sylera](https://ja.wikipedia.org/wiki/Sylera "wikilink") - SeaMonkeyのブラウザ部分をベースとしてWindowsに機能を特化したブラウザ
-  - [拡張機能 (Mozilla)](https://ja.wikipedia.org/wiki/拡張機能_\(Mozilla\) "wikilink")
+  - [拡張機能 (Mozilla)](../Page/拡張機能_\(Mozilla\).md "wikilink")
   - [アルテミア](../Page/アルテミア.md "wikilink")（シーモンキー） - SeaMonkeyの名称、および[ロゴの元となった](../Page/ロゴタイプ.md "wikilink")[甲殻類](../Page/甲殻類.md "wikilink")。
 
 ## 外部リンク

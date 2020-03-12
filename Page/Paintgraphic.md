@@ -1,7 +1,7 @@
 > この記事は[Paintgraphic](https://ja.wikipedia.org/wiki/Paintgraphic)から翻訳されています。
 
 
-**Paintgraphic** (ペイントグラフィック) は[ソースネクスト](https://ja.wikipedia.org/wiki/ソースネクスト "wikilink")が販売している[グラフィックソフトウェア](../Page/グラフィックソフトウェア.md "wikilink")。主にビットマップ画像を扱う写真編集ソフトウェアの一つである。
+**Paintgraphic** (ペイントグラフィック) は[ソースネクスト](../Page/ソースネクスト.md "wikilink")が販売している[グラフィックソフトウェア](../Page/グラフィックソフトウェア.md "wikilink")。主にビットマップ画像を扱う写真編集ソフトウェアの一つである。
 
 ファンファーレ開発の[ウルトラキッド](https://ja.wikipedia.org/wiki/ウルトラキッド "wikilink")がもとになっており、現在はソースネクストが「Paintgraphic」「Paintgraphic2」としてリリースしているため、市販のペイント系ソフトの中では圧倒的に安い価格が特徴。 [Adobe Photoshop](../Page/Adobe_Photoshop.md "wikilink") や [Paint Shop Pro](https://ja.wikipedia.org/wiki/Paint_Shop_Pro "wikilink") などに比べて使用者数や書籍は少ないが、使いやすいインターフェイスを持ち多機能かつ軽快に動作するため、ソースネクストの商品の中で特に良質ソフトに挙げられるものの一つである。
 
@@ -9,7 +9,7 @@
 
 ## 特徴
 
-写真編集ソフトウェアとしては、階調・色調補正などの基本的な機能を多く備えているが、自作ブラシや、 [Painter](https://ja.wikipedia.org/wiki/Painter "wikilink") などにも搭載されているイメージホース(複数のイメージの連続を1つのブラシとして用いる)の使用、パスを用いた[ベクトルデータの作成なども可能であり](https://ja.wikipedia.org/wiki/ベクトル画像 "wikilink")、ペイントツールとしての側面も持ち合わせている。
+写真編集ソフトウェアとしては、階調・色調補正などの基本的な機能を多く備えているが、自作ブラシや、 [Painter](../Page/Painter.md "wikilink") などにも搭載されているイメージホース(複数のイメージの連続を1つのブラシとして用いる)の使用、パスを用いた[ベクトルデータの作成なども可能であり](https://ja.wikipedia.org/wiki/ベクトル画像 "wikilink")、ペイントツールとしての側面も持ち合わせている。
 
 もともと Photoshop の対抗馬として開発されたソフトの流れをくんでいるため、基本的な写真修正の機能がまんべんなく盛り込まれており、かつ画像処理が最大限しやすいように配慮されている。
 

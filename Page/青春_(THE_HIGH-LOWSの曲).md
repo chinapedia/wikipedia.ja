@@ -1,7 +1,7 @@
 > この記事は[ \(THE HIGH-LOWS\)](https://ja.wikipedia.org/wiki/_\(THE_HIGH-LOWS\))から翻訳されています。
 
 
-「**青春**」（せいしゅん）は[THE HIGH-LOWSの](https://ja.wikipedia.org/wiki/THE_HIGH-LOWS "wikilink")14枚目のシングル。[2000年](../Page/2000年.md "wikilink")[5月24日](../Page/5月24日.md "wikilink")に[キティから発売された](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。
+「**青春**」（せいしゅん）は[THE HIGH-LOWSの](../Page/THE_HIGH-LOWS.md "wikilink")14枚目のシングル。[2000年](../Page/2000年.md "wikilink")[5月24日](../Page/5月24日.md "wikilink")に[キティから発売された](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
 
 ## 解説
 
@@ -12,9 +12,9 @@
 ## 収録曲
 
 1.  **青春** (3:10)
-    　（作詞・作曲：[真島昌利](https://ja.wikipedia.org/wiki/真島昌利 "wikilink")）
+    　（作詞・作曲：[真島昌利](../Page/真島昌利.md "wikilink")）
 2.  **魔羅（シンボル）‘69** (3:38)
-    　（作詞・作曲：[甲本ヒロト](https://ja.wikipedia.org/wiki/甲本ヒロト "wikilink")）
+    　（作詞・作曲：[甲本ヒロト](../Page/甲本ヒロト.md "wikilink")）
       -
         アルバムのほうにはこの曲のアレンジバージョンである**魔羅‘77**が収録されている。(イントロが違う)
 

@@ -5,13 +5,13 @@
 
 ## 沿革
 
-  - [1915年](../Page/1915年.md "wikilink") - [大阪市](https://ja.wikipedia.org/wiki/大阪市 "wikilink")に株式会社松田製作所設立。（戦後、松田氏が[東洋工業](https://ja.wikipedia.org/wiki/東洋工業 "wikilink")（現・[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")）を起業する。）
+  - [1915年](../Page/1915年.md "wikilink") - [大阪市](../Page/大阪市.md "wikilink")に株式会社松田製作所設立。（戦後、松田氏が[東洋工業](https://ja.wikipedia.org/wiki/東洋工業 "wikilink")（現・[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")）を起業する。）
   - [1920年](../Page/1920年.md "wikilink") - 株式会社大阪機械工作所に社名変更。
   - [1938年](../Page/1938年.md "wikilink") - 大阪機工株式会社に社名変更。
   - [1939年](../Page/1939年.md "wikilink") - [兵庫県](../Page/兵庫県.md "wikilink")[川辺郡](../Page/川辺郡.md "wikilink")[伊丹町](https://ja.wikipedia.org/wiki/伊丹町 "wikilink")（現-伊丹市）に猪名川製造所を開設。
-  - [1949年](../Page/1949年.md "wikilink") - [東京証券取引所](https://ja.wikipedia.org/wiki/東京証券取引所 "wikilink")、[大阪証券取引所](https://ja.wikipedia.org/wiki/大阪証券取引所 "wikilink")上場。
+  - [1949年](../Page/1949年.md "wikilink") - [東京証券取引所](../Page/東京証券取引所.md "wikilink")、[大阪証券取引所](https://ja.wikipedia.org/wiki/大阪証券取引所 "wikilink")上場。
   - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink") - 東洋工業へ[ロータリーエンジン](../Page/ロータリーエンジン.md "wikilink")の加工ライン機を二機納入。ロータリーエンジンの製造に使用された。
-  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") - 愛知県の[豊田自動織機](https://ja.wikipedia.org/wiki/豊田自動織機 "wikilink")にて火災があり、多くの工作機メーカーが復旧にたずさわり、OKKからも工作機を納品。北米GMグループの企業へHMシリーズを軸に工作機を数年に渡り納品する。
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") - 愛知県の[豊田自動織機](../Page/豊田自動織機.md "wikilink")にて火災があり、多くの工作機メーカーが復旧にたずさわり、OKKからも工作機を納品。北米GMグループの企業へHMシリーズを軸に工作機を数年に渡り納品する。
   - [2001年](../Page/2001年.md "wikilink") - 三菱重工(高砂)向けに横型MCを納品。発電所のタービン加工に使用されたと言われる。以降、神戸、横浜の三菱重工へ納品する。
   - [2004年](../Page/2004年.md "wikilink") - 大阪市から伊丹市に本社を移転。
   - [2011年](../Page/2011年.md "wikilink") - タイ チャオプラヤ川流域で起こった洪水の影響でHONDAの生産ラインが水没した。以前から取り引きのある間柄で生産復旧の為に尽力した。

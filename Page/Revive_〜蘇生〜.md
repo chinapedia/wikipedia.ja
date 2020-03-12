@@ -1,7 +1,7 @@
 > この記事は[Revive ](https://ja.wikipedia.org/wiki/Revive_)から翻訳されています。
 
 
-『**REVIVE... 〜蘇生〜**』（リバイブ そせい）は、[1999年](../Page/1999年.md "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")に発売された[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")用[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。『[慟哭 そして…](https://ja.wikipedia.org/wiki/慟哭_そして… "wikilink")』の続編。後に[Windowsにも移植されている](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。開発中の仮題は『慟哭2』。
+『**REVIVE... 〜蘇生〜**』（リバイブ そせい）は、[1999年](../Page/1999年.md "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")に発売された[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")用[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。『[慟哭 そして…](../Page/慟哭_そして….md "wikilink")』の続編。後に[Windowsにも移植されている](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。開発中の仮題は『慟哭2』。
 
 基本的なシステムは前作と同様であるが、前作よりも難易度が相当高くグロテスクなシーンも存在する。
 
@@ -32,13 +32,13 @@
     誕生日：[5月18日](../Page/5月18日.md "wikilink")。血液型：O型。星座：おうし座。
     主人公や菜緒の同学年の幼馴染。[バスケ部のキャプテンを務めている](../Page/バスケットボール.md "wikilink")。クラスメイトの主人公へひそかに想いを寄せている。
   - 穂高 由月（ほだか ゆつき）
-    声：[丹下桜](https://ja.wikipedia.org/wiki/丹下桜 "wikilink")
+    声：[丹下桜](../Page/丹下桜.md "wikilink")
     誕生日：[11月21日](../Page/11月21日.md "wikilink")。血液型：B型。星座：さそり座。
     主人公達の1つ下の後輩。水泳部に所属し、自由形では全国レベルの実力を持つ。運動だけでなく、成績も優秀である。
   - 笠原 美澄（かさはら みすみ）
-    声：[永島由子](https://ja.wikipedia.org/wiki/永島由子 "wikilink")
+    声：[永島由子](../Page/永島由子.md "wikilink")
     誕生日：[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")。血液型：O型。星座：さそり座。
-    海洋開発研究所で受付業務を担当するOL。京都出身。由月とは[いとこ](https://ja.wikipedia.org/wiki/いとこ "wikilink")にあたる。
+    海洋開発研究所で受付業務を担当するOL。京都出身。由月とは[いとこ](../Page/いとこ.md "wikilink")にあたる。
   - 高野 玲子（たかの れいこ）
     声：[根谷美智子](../Page/根谷美智子.md "wikilink")
     誕生日：[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink")。血液型：AB型。星座：おとめ座。
@@ -52,12 +52,12 @@
     誕生日：[2月2日](../Page/2月2日.md "wikilink")。血液型：？型。星座：みずがめ座。
     研究所内の「素体保管室」でカプセルに保管された状態で発見された謎の女性。重い病を患っている。
   - 北条 義兼（ほうじょう よしかね）
-    声：[阪脩](https://ja.wikipedia.org/wiki/阪脩 "wikilink")
+    声：[阪脩](../Page/阪脩.md "wikilink")
   - 水谷 陵三（みずたに りょうぞう）
-    声：[沢木郁也](https://ja.wikipedia.org/wiki/沢木郁也 "wikilink")
+    声：[沢木郁也](../Page/沢木郁也.md "wikilink")
     海洋開発研究所の所長。菜緒の父親。
   - 神田 巧（かんだ たくみ）
-    声：[森川智之](https://ja.wikipedia.org/wiki/森川智之 "wikilink")
+    声：[森川智之](../Page/森川智之.md "wikilink")
     海洋開発研究所の所員。
 
 ## 外部リンク

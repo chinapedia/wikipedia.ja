@@ -32,7 +32,7 @@
   - 物件が8件ある駅が、全国的に大幅に増える。
   - 収益率2%の物件が登場する（『II』までは全て収益率が5%刻みだった）。低収益率の物件が増加しているため、収益率を考えて物件を購入する必要がある。
   - 景気変動イベントが登場。[バブル](../Page/バブル景気.md "wikilink")（プラス駅収入・到着援助金が2倍、マイナス駅支出が半分）と不景気（プラス駅収入・到着援助金が半分、マイナス駅支出が2倍）がある。
-  - 初登場のカード : [のぞみカード](https://ja.wikipedia.org/wiki/のぞみ_\(列車\) "wikilink")(300系新幹線登場に伴い登場)、スペシャルカード、イエローカード、[テレポートカード](https://ja.wikipedia.org/wiki/瞬間移動 "wikilink")、[ダイヤモンド](../Page/ダイヤモンド.md "wikilink")カード、とびちりカードなど
+  - 初登場のカード : [のぞみカード](https://ja.wikipedia.org/wiki/のぞみ_\(列車\) "wikilink")(300系新幹線登場に伴い登場)、スペシャルカード、イエローカード、[テレポートカード](../Page/瞬間移動.md "wikilink")、[ダイヤモンド](../Page/ダイヤモンド.md "wikilink")カード、とびちりカードなど
   - 特定のプレイ回数のみ、記念ゲームとして特別な状態でスタートすることができる。
 
 ## 登場駅
@@ -46,7 +46,7 @@
   - **[稚内](../Page/稚内市.md "wikilink")**
   - [旭川](../Page/旭川市.md "wikilink")
   - [網走](../Page/網走市.md "wikilink")
-  - **[釧路](https://ja.wikipedia.org/wiki/釧路市 "wikilink")**
+  - **[釧路](../Page/釧路市.md "wikilink")**
   - [トマム](../Page/トマム駅.md "wikilink")
   - [富良野](../Page/富良野市.md "wikilink")
   - **[札幌](https://ja.wikipedia.org/wiki/札幌市 "wikilink")**
@@ -54,7 +54,7 @@
   - [ニセコ](../Page/ニセコ町.md "wikilink")
   - [苫小牧](https://ja.wikipedia.org/wiki/苫小牧市 "wikilink")
   - [襟裳](../Page/えりも町.md "wikilink")
-  - [長万部](https://ja.wikipedia.org/wiki/長万部町 "wikilink")
+  - [長万部](../Page/長万部町.md "wikilink")
   - [函館](../Page/函館市.md "wikilink")
   - **[青森](https://ja.wikipedia.org/wiki/青森市 "wikilink")**
   - [弘前](../Page/弘前市.md "wikilink")
@@ -62,7 +62,7 @@
   - [盛岡](https://ja.wikipedia.org/wiki/盛岡市 "wikilink")
   - [山形](../Page/山形市.md "wikilink")
   - [鳴子](../Page/鳴子町.md "wikilink")
-  - **[仙台](https://ja.wikipedia.org/wiki/仙台市 "wikilink")**
+  - **[仙台](../Page/仙台市.md "wikilink")**
   - [福島](../Page/福島市.md "wikilink")
   - [那須](../Page/那須町.md "wikilink")
   - [水戸](../Page/水戸市.md "wikilink")
@@ -82,11 +82,11 @@
   - [甲府](../Page/甲府市.md "wikilink")
   - [長野](../Page/長野市.md "wikilink")
   - [軽井沢](../Page/軽井沢町.md "wikilink")
-  - [松本](https://ja.wikipedia.org/wiki/松本市 "wikilink")
+  - [松本](../Page/松本市.md "wikilink")
   - [白馬](../Page/白馬村.md "wikilink")
   - [熱海](https://ja.wikipedia.org/wiki/熱海市 "wikilink")
-  - [静岡](https://ja.wikipedia.org/wiki/静岡市 "wikilink")
-  - [木曽](https://ja.wikipedia.org/wiki/木曽町 "wikilink")
+  - [静岡](../Page/静岡市.md "wikilink")
+  - [木曽](../Page/木曽町.md "wikilink")
   - [浜松](https://ja.wikipedia.org/wiki/浜松市 "wikilink")
   - **[名古屋](../Page/名古屋市.md "wikilink")**
   - [高山](../Page/高山市.md "wikilink")
@@ -96,9 +96,9 @@
   - **[新宮](../Page/新宮市.md "wikilink")**
   - [富山](https://ja.wikipedia.org/wiki/富山市 "wikilink")
   - [金沢](https://ja.wikipedia.org/wiki/金沢市 "wikilink")
-  - [敦賀](https://ja.wikipedia.org/wiki/敦賀市 "wikilink")
+  - [敦賀](../Page/敦賀市.md "wikilink")
   - [京都](../Page/京都市.md "wikilink")
-  - **[大阪](https://ja.wikipedia.org/wiki/大阪市 "wikilink")**
+  - **[大阪](../Page/大阪市.md "wikilink")**
   - [奈良](https://ja.wikipedia.org/wiki/奈良市 "wikilink")
   - [白浜](../Page/白浜町.md "wikilink")
   - [和歌山](../Page/和歌山市.md "wikilink")
@@ -108,7 +108,7 @@
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
   - [神戸](../Page/神戸市.md "wikilink")
-  - [姫路](https://ja.wikipedia.org/wiki/姫路市 "wikilink")
+  - [姫路](../Page/姫路市.md "wikilink")
   - [鳥取](../Page/鳥取市.md "wikilink")
   - [岡山](../Page/岡山市.md "wikilink")
   - **[出雲](../Page/出雲市.md "wikilink")**
@@ -117,7 +117,7 @@
   - [萩](../Page/萩市.md "wikilink")
   - [下関](../Page/下関市.md "wikilink")
   - [高松](https://ja.wikipedia.org/wiki/高松市 "wikilink")
-  - [徳島](https://ja.wikipedia.org/wiki/徳島市 "wikilink")
+  - [徳島](../Page/徳島市.md "wikilink")
   - **[高知](../Page/高知市.md "wikilink")**
   - [宇和島](../Page/宇和島市.md "wikilink")
   - [松山](../Page/松山市.md "wikilink")
@@ -143,7 +143,7 @@
 
   - [根室](../Page/根室市.md "wikilink")
   - [様似](../Page/様似町.md "wikilink")
-  - [恐山](https://ja.wikipedia.org/wiki/恐山 "wikilink")
+  - [恐山](../Page/恐山.md "wikilink")
   - [遠野](../Page/遠野市.md "wikilink")
   - [宮古](https://ja.wikipedia.org/wiki/宮古市 "wikilink")
   - [陸前高田](../Page/陸前高田市.md "wikilink")
@@ -158,12 +158,12 @@
 
   - [尾鷲](https://ja.wikipedia.org/wiki/尾鷲市 "wikilink")
   - [輪島](https://ja.wikipedia.org/wiki/輪島市 "wikilink")
-  - [マキノ](https://ja.wikipedia.org/wiki/マキノ町 "wikilink")
+  - [マキノ](../Page/マキノ町.md "wikilink")
   - [田辺](https://ja.wikipedia.org/wiki/田辺市 "wikilink")
   - [倉吉](../Page/倉吉市.md "wikilink")
   - [新居浜](../Page/新居浜市.md "wikilink")
   - [中村](../Page/中村市.md "wikilink")
-  - [高千穂](https://ja.wikipedia.org/wiki/高千穂町 "wikilink")
+  - [高千穂](../Page/高千穂町.md "wikilink")
   - [指宿](../Page/指宿市.md "wikilink")
 
 </div>
@@ -172,7 +172,7 @@
 
   - [気仙沼](https://ja.wikipedia.org/wiki/気仙沼市 "wikilink")
   - [七尾](../Page/七尾市.md "wikilink")
-  - [阿蘇](https://ja.wikipedia.org/wiki/阿蘇市 "wikilink")
+  - [阿蘇](../Page/阿蘇市.md "wikilink")
 
 ## TVCM
 

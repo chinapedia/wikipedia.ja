@@ -1,9 +1,9 @@
 > この記事は[K](https://ja.wikipedia.org/wiki/K)から翻訳されています。
 
 
-**リライアントK** (**Relient K**)は、[オハイオ州](../Page/オハイオ州.md "wikilink")[カントン出身の](https://ja.wikipedia.org/wiki/カントン_\(オハイオ州\) "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。名前の由来はマット・フープスの Reliant K車（[Plymouth Reliant](https://ja.wikipedia.org/wiki/:en:Plymouth_Reliant "wikilink")）で、つづりの一部を変えてある。ジャンルは[オルタナティブ・ミュージック](https://ja.wikipedia.org/wiki/オルタナティブ・ミュージック "wikilink")、[ポップ・パンク](https://ja.wikipedia.org/wiki/ポップ・パンク "wikilink")、[ピアノ・ロック](https://ja.wikipedia.org/wiki/ピアノ・ロック "wikilink")、[クリスチャン・ロック](https://ja.wikipedia.org/wiki/クリスチャン・ロック "wikilink")など。
+**リライアントK** (**Relient K**)は、[オハイオ州](../Page/オハイオ州.md "wikilink")[カントン出身の](https://ja.wikipedia.org/wiki/カントン_\(オハイオ州\) "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。名前の由来はマット・フープスの Reliant K車（[Plymouth Reliant](https://ja.wikipedia.org/wiki/:en:Plymouth_Reliant "wikilink")）で、つづりの一部を変えてある。ジャンルは[オルタナティブ・ミュージック](https://ja.wikipedia.org/wiki/オルタナティブ・ミュージック "wikilink")、[ポップ・パンク](../Page/ポップ・パンク.md "wikilink")、[ピアノ・ロック](../Page/ピアノ・ロック.md "wikilink")、[クリスチャン・ロック](../Page/クリスチャン・ロック.md "wikilink")など。
 
-美しいメロディーとトリッキーな歌詞、そして圧倒的ライブ・パフォーマンスが話題を呼び、メロディック・パンク・シーンで大きく注目される。2ndアルバム「[The Anatomy of the Tongue in Cheek](https://ja.wikipedia.org/wiki/ジ・アナトミー・オブ・ザ・タン・イン・チーク "wikilink")」、グラミー賞ノミネート作となった3rdアルバム「[トゥー・レフツ・ドント・メイク・ア・ライト…バット・スリー・ドゥ](https://ja.wikipedia.org/wiki/トゥー・レフツ・ドント・メイク・ア・ライト…バット・スリー・ドゥ "wikilink")」(2003)そして4thとなる前作「[ビー・マイ・エスケイプ（Mmhmm）](https://ja.wikipedia.org/wiki/ビー・マイ・エスケイプ_\(アルバム\) "wikilink")」(2004)の3作品全て全米で50万枚を超えるセールスを記録。「MMHMM」は全世界で85万枚を記録している。
+美しいメロディーとトリッキーな歌詞、そして圧倒的ライブ・パフォーマンスが話題を呼び、メロディック・パンク・シーンで大きく注目される。2ndアルバム「[The Anatomy of the Tongue in Cheek](../Page/ジ・アナトミー・オブ・ザ・タン・イン・チーク.md "wikilink")」、グラミー賞ノミネート作となった3rdアルバム「[トゥー・レフツ・ドント・メイク・ア・ライト…バット・スリー・ドゥ](https://ja.wikipedia.org/wiki/トゥー・レフツ・ドント・メイク・ア・ライト…バット・スリー・ドゥ "wikilink")」(2003)そして4thとなる前作「[ビー・マイ・エスケイプ（Mmhmm）](../Page/ビー・マイ・エスケイプ_\(アルバム\).md "wikilink")」(2004)の3作品全て全米で50万枚を超えるセールスを記録。「MMHMM」は全世界で85万枚を記録している。
 
 ## メンバー
 
@@ -15,10 +15,10 @@
 
 </dl>
 <ul>
-<li><a href="https://ja.wikipedia.org/wiki/マット・ティーセン" title="wikilink">マット・ティーセン</a>（<em><a href="https://ja.wikipedia.org/wiki/:en:Matt_Thiessen" title="wikilink">Matthew Arnold Thiessen</a></em>, 1998–）–<a href="https://ja.wikipedia.org/wiki/ボーカル" title="wikilink">ボーカル</a>、<a href="../Page/ギター.md" title="wikilink">ギター</a>、<a href="../Page/ピアノ.md" title="wikilink">ピアノ</a></li>
+<li><a href="../Page/マット・ティーセン.md" title="wikilink">マット・ティーセン</a>（<em><a href="https://ja.wikipedia.org/wiki/:en:Matt_Thiessen" title="wikilink">Matthew Arnold Thiessen</a></em>, 1998–）–<a href="https://ja.wikipedia.org/wiki/ボーカル" title="wikilink">ボーカル</a>、<a href="../Page/ギター.md" title="wikilink">ギター</a>、<a href="../Page/ピアノ.md" title="wikilink">ピアノ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/マット・フープス" title="wikilink">マット・フープス</a>（<em><a href="https://ja.wikipedia.org/wiki/:en:Matt_Hoopes" title="wikilink">Matthew Ryan Hoopes</a></em>, 1998–）–ギター、ボーカル</li>
-<li><a href="https://ja.wikipedia.org/wiki/ジョン・ワーン" title="wikilink">ジョン・ワーン</a>（<em><a href="https://ja.wikipedia.org/wiki/:en:John_Warne" title="wikilink">John Michael Warne</a></em>, 2004–）–<a href="https://ja.wikipedia.org/wiki/ベース_(弦楽器)" title="wikilink">ベース</a>、ボーカル</li>
-<li><a href="https://ja.wikipedia.org/wiki/ジョン・シュネック" title="wikilink">ジョン・シュネック</a>（<em><a href="https://ja.wikipedia.org/wiki/:en:Jonathan_Schneck" title="wikilink">Jonathan David Schneck</a></em>, 2005–）–ギター、<a href="https://ja.wikipedia.org/wiki/バンジョー" title="wikilink">バンジョー</a>、<a href="https://ja.wikipedia.org/wiki/鐘" title="wikilink">鐘</a>、ボーカル</li>
+<li><a href="https://ja.wikipedia.org/wiki/ジョン・ワーン" title="wikilink">ジョン・ワーン</a>（<em><a href="https://ja.wikipedia.org/wiki/:en:John_Warne" title="wikilink">John Michael Warne</a></em>, 2004–）–<a href="../Page/ベース_(弦楽器).md" title="wikilink">ベース</a>、ボーカル</li>
+<li><a href="https://ja.wikipedia.org/wiki/ジョン・シュネック" title="wikilink">ジョン・シュネック</a>（<em><a href="https://ja.wikipedia.org/wiki/:en:Jonathan_Schneck" title="wikilink">Jonathan David Schneck</a></em>, 2005–）–ギター、<a href="../Page/バンジョー.md" title="wikilink">バンジョー</a>、<a href="../Page/鐘.md" title="wikilink">鐘</a>、ボーカル</li>
 <li><a href="https://ja.wikipedia.org/wiki/イーサン・ラック" title="wikilink">イーサン・ラック</a>（<em><a href="https://ja.wikipedia.org/wiki/:en:Ethan_Luck" title="wikilink">Ethan John Luck</a></em>, 2008–）–<a href="../Page/ドラムセット.md" title="wikilink">ドラムス</a>、ボーカル</li>
 </ul></td>
 <td><dl>
@@ -53,11 +53,11 @@
 
 ## アルバム（アメリカ）
 
-  - 2000年 - 1st「[Relient K](https://ja.wikipedia.org/wiki/リライアントK_\(アルバム\) "wikilink")」
-  - 2001年 - 2nd「[The Anatomy of the Tongue in Cheek](https://ja.wikipedia.org/wiki/ジ・アナトミー・オブ・ザ・タン・イン・チーク "wikilink")」
+  - 2000年 - 1st「[Relient K](../Page/リライアントK_\(アルバム\).md "wikilink")」
+  - 2001年 - 2nd「[The Anatomy of the Tongue in Cheek](../Page/ジ・アナトミー・オブ・ザ・タン・イン・チーク.md "wikilink")」
   - 2003年 - 3rd「[Two Lefts Don't Make a Right...but Three Do](https://ja.wikipedia.org/wiki/トゥー・レフツ・ドント・メイク・ア・ライト…バット・スリー・ドゥ "wikilink")」
-  - 2004年 - 4th「[Mmhmm](https://ja.wikipedia.org/wiki/ビー・マイ・エスケイプ_\(アルバム\) "wikilink")」
-  - 2007年 - 5th「[Five Score & Seven Years Ago](https://ja.wikipedia.org/wiki/ファイブ・スコア&セブン・イヤーズ・アゴー "wikilink")」
+  - 2004年 - 4th「[Mmhmm](../Page/ビー・マイ・エスケイプ_\(アルバム\).md "wikilink")」
+  - 2007年 - 5th「[Five Score & Seven Years Ago](../Page/ファイブ・スコア&セブン・イヤーズ・アゴー.md "wikilink")」
   - 2009年 - 6th「[Forget and Not Slow Down](https://ja.wikipedia.org/wiki/フォゲット・アンド・ノット・スロー・ダウン "wikilink")」
   - 2013年 - 7th「[Collapsible Lung](https://ja.wikipedia.org/wiki/コラプシブル・ラング "wikilink")」
 
@@ -76,7 +76,7 @@
   - 2005年 - 2nd「[High of 75](https://ja.wikipedia.org/wiki/ハイ・オブ・セブンティファイブ "wikilink")」
   - 2005年 - 3rd「[Be My Escape](https://ja.wikipedia.org/wiki/ビー・マイ・エスケイプ "wikilink")」
   - 2005年 - 4th「[Who I Am Hates Who I've Been](https://ja.wikipedia.org/wiki/フー・アイ・アム・ヘイツ・フー・アイブ・ビーン "wikilink")」
-  - 2006年 - 5th「[Must Have Done Something Right](https://ja.wikipedia.org/wiki/マスト・ハブ・ダン・サムシング・ライト "wikilink")」
+  - 2006年 - 5th「[Must Have Done Something Right](../Page/マスト・ハブ・ダン・サムシング・ライト.md "wikilink")」
   - 2006年 - 6th「[Forgiven](https://ja.wikipedia.org/wiki/フォーギブン "wikilink")」
   - 2007年 - 7th「[The Best Thing](https://ja.wikipedia.org/wiki/ザ・ベスト・シング "wikilink")」
   - 2008年 - 8th「[Give Until There's Nothing Left](https://ja.wikipedia.org/wiki/ギブ・アンティル・ゼアーズ・ノッシング・レフト "wikilink")」
@@ -85,16 +85,16 @@
 ## アルバム（日本）
 
   - 2003年 - 1st「[トゥー・レフツ・ドント・メイク・ア・ライト…バット・スリー・ドゥ](https://ja.wikipedia.org/wiki/トゥー・レフツ・ドント・メイク・ア・ライト…バット・スリー・ドゥ "wikilink")」
-  - 2005年 - 2nd「[ビー・マイ・エスケイプ](https://ja.wikipedia.org/wiki/ビー・マイ・エスケイプ_\(アルバム\) "wikilink")」
-  - 2007年 - 3rd「[ファイブ・スコア&セブン・イヤーズ・アゴー](https://ja.wikipedia.org/wiki/ファイブ・スコア&セブン・イヤーズ・アゴー "wikilink")」
+  - 2005年 - 2nd「[ビー・マイ・エスケイプ](../Page/ビー・マイ・エスケイプ_\(アルバム\).md "wikilink")」
+  - 2007年 - 3rd「[ファイブ・スコア&セブン・イヤーズ・アゴー](../Page/ファイブ・スコア&セブン・イヤーズ・アゴー.md "wikilink")」
   - 2009年 - 4th「[フォゲット・アンド・ノット・スロー・ダウン](https://ja.wikipedia.org/wiki/フォゲット・アンド・ノット・スロー・ダウン "wikilink")」
 
 ## ミュージック・ビデオ
 
-  - [チャップ・スティック,チャップド・リップス,アンド・シングス・ライク・ケミストリー](https://ja.wikipedia.org/wiki/チャップ・スティック,チャップド・リップス,アンド・シングス・ライク・ケミストリー "wikilink") (**[トゥー・レフツ・ドント・メイク・ア・ライト…バット・スリー・ドゥ](https://ja.wikipedia.org/wiki/トゥー・レフツ・ドント・メイク・ア・ライト…バット・スリー・ドゥ "wikilink")**)
-  - [ビー・マイ・エスケイプ](https://ja.wikipedia.org/wiki/ビー・マイ・エスケイプ "wikilink") (**[ビー・マイ・エスケイプ](https://ja.wikipedia.org/wiki/ビー・マイ・エスケイプ_\(アルバム\) "wikilink")**)
-  - [フー・アイ・アム・ヘイツ・フー・アイヴ・ビーン](https://ja.wikipedia.org/wiki/フー・アイ・アム・ヘイツ・フー・アイヴ・ビーン "wikilink") (**ビー・マイ・エスケイプ**)
-  - [マスト・ハブ・ダン・サムシング・ライト](https://ja.wikipedia.org/wiki/マスト・ハブ・ダン・サムシング・ライト "wikilink") (**[ファイブ・スコア&セブン・イヤーズ・アゴー](https://ja.wikipedia.org/wiki/ファイブ・スコア&セブン・イヤーズ・アゴー "wikilink")**)
+  - [チャップ・スティック,チャップド・リップス,アンド・シングス・ライク・ケミストリー](../Page/チャップ・スティック,チャップド・リップス,アンド・シングス・ライク・ケミストリー.md "wikilink") (**[トゥー・レフツ・ドント・メイク・ア・ライト…バット・スリー・ドゥ](https://ja.wikipedia.org/wiki/トゥー・レフツ・ドント・メイク・ア・ライト…バット・スリー・ドゥ "wikilink")**)
+  - [ビー・マイ・エスケイプ](https://ja.wikipedia.org/wiki/ビー・マイ・エスケイプ "wikilink") (**[ビー・マイ・エスケイプ](../Page/ビー・マイ・エスケイプ_\(アルバム\).md "wikilink")**)
+  - [フー・アイ・アム・ヘイツ・フー・アイヴ・ビーン](../Page/フー・アイ・アム・ヘイツ・フー・アイヴ・ビーン.md "wikilink") (**ビー・マイ・エスケイプ**)
+  - [マスト・ハブ・ダン・サムシング・ライト](../Page/マスト・ハブ・ダン・サムシング・ライト.md "wikilink") (**[ファイブ・スコア&セブン・イヤーズ・アゴー](../Page/ファイブ・スコア&セブン・イヤーズ・アゴー.md "wikilink")**)
   - [ザ・ベスト・シング](https://ja.wikipedia.org/wiki/ザ・ベスト・シング "wikilink") (**ファイブ・スコア&セブン・イヤーズ・アゴー**)
 
 ## 脚注

@@ -1,19 +1,19 @@
 > この記事は[Design Compiler](https://ja.wikipedia.org/wiki/Design_Compiler)から翻訳されています。
 
 
-**Design Compiler**（デザインコンパイラ）は、米[シノプシス](https://ja.wikipedia.org/wiki/シノプシス "wikilink")社が開発した[論理合成](../Page/論理合成.md "wikilink")ソフトウェアである。あるいはそれを中核とした、ソフトウェア群の総称である。
+**Design Compiler**（デザインコンパイラ）は、米[シノプシス](../Page/シノプシス.md "wikilink")社が開発した[論理合成](../Page/論理合成.md "wikilink")ソフトウェアである。あるいはそれを中核とした、ソフトウェア群の総称である。
 
 ## 概要
 
-[ハードウェア記述言語](https://ja.wikipedia.org/wiki/ハードウェア記述言語 "wikilink")(HDL)や真理値表で書かれた論理回路定義を[論理ゲート](https://ja.wikipedia.org/wiki/論理ゲート "wikilink")レベル回路に変換するための[論理合成](../Page/論理合成.md "wikilink")ツールの一つである。使用できるHDLとしては[Verilog HDL](https://ja.wikipedia.org/wiki/Verilog "wikilink") 、[VHDL](https://ja.wikipedia.org/wiki/VHDL "wikilink")などのほか [SystemVerilog](../Page/SystemVerilog.md "wikilink")や[SystemC](https://ja.wikipedia.org/wiki/SystemC "wikilink")へも対応している。合成された結果は同社標準の論理回路[ライブラリ](../Page/ライブラリ.md "wikilink")のほか [半導体](../Page/半導体.md "wikilink")ベンダーが作成したライブラリを使って、ネットリスト（配線情報）化される。
+[ハードウェア記述言語](../Page/ハードウェア記述言語.md "wikilink")(HDL)や真理値表で書かれた論理回路定義を[論理ゲート](https://ja.wikipedia.org/wiki/論理ゲート "wikilink")レベル回路に変換するための[論理合成](../Page/論理合成.md "wikilink")ツールの一つである。使用できるHDLとしては[Verilog HDL](../Page/Verilog.md "wikilink") 、[VHDL](../Page/VHDL.md "wikilink")などのほか [SystemVerilog](../Page/SystemVerilog.md "wikilink")や[SystemC](../Page/SystemC.md "wikilink")へも対応している。合成された結果は同社標準の論理回路[ライブラリ](../Page/ライブラリ.md "wikilink")のほか [半導体](../Page/半導体.md "wikilink")ベンダーが作成したライブラリを使って、ネットリスト（配線情報）化される。
 
-米[シノプシス](https://ja.wikipedia.org/wiki/シノプシス "wikilink")社が開発・販売しており、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")現在、[集積回路](../Page/集積回路.md "wikilink")、特に[ASIC](../Page/ASIC.md "wikilink")製造に用いる論理合成ツールの[デファクトスタンダード](../Page/デファクトスタンダード.md "wikilink")となっている。
+米[シノプシス](../Page/シノプシス.md "wikilink")社が開発・販売しており、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")現在、[集積回路](../Page/集積回路.md "wikilink")、特に[ASIC](../Page/ASIC.md "wikilink")製造に用いる論理合成ツールの[デファクトスタンダード](../Page/デファクトスタンダード.md "wikilink")となっている。
 
 ## Design Compiler を用いた論理合成の流れ
 
 ### ハードウェアの設計
 
-作成したいハードウェアを設計し、それをVerilog HDL 、VHDLなどのハードウェア記述言語や[真理値表](https://ja.wikipedia.org/wiki/真理値表 "wikilink")を用いて論理を記述する。 ただし記述は[レジスタ転送レベル](../Page/レジスタ転送レベル.md "wikilink")でなければならない。
+作成したいハードウェアを設計し、それをVerilog HDL 、VHDLなどのハードウェア記述言語や[真理値表](../Page/真理値表.md "wikilink")を用いて論理を記述する。 ただし記述は[レジスタ転送レベル](../Page/レジスタ転送レベル.md "wikilink")でなければならない。
 
 ### デザインのリード
 
@@ -66,7 +66,7 @@ CTS/Zから出力されている[クロック](../Page/クロック.md "wikilink
 ## 関連項目
 
   - [論理合成](../Page/論理合成.md "wikilink")
-  - [Verilog](https://ja.wikipedia.org/wiki/Verilog "wikilink")
+  - [Verilog](../Page/Verilog.md "wikilink")
 
 ## 外部リンク
 

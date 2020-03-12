@@ -42,32 +42,32 @@
 
 ## テレビドラマ
 
-2007年7月13日から同年9月28日まで、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")・[ドラマ24](https://ja.wikipedia.org/wiki/ドラマ24 "wikilink")枠で毎週金曜日0:12～0:53に放映された。
+2007年7月13日から同年9月28日まで、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")・[ドラマ24](../Page/ドラマ24.md "wikilink")枠で毎週金曜日0:12～0:53に放映された。
 
 ### キャスト
 
 #### 主要登場人物
 
-  - 赤城響：[中村蒼](https://ja.wikipedia.org/wiki/中村蒼 "wikilink")
+  - 赤城響：[中村蒼](../Page/中村蒼.md "wikilink")
   - 小岩井静香：[杉本有美](https://ja.wikipedia.org/wiki/杉本有美 "wikilink")
-  - 敷島七里：[斎藤工](https://ja.wikipedia.org/wiki/斎藤工 "wikilink")
-  - 名糖吉馬：[賀集利樹](https://ja.wikipedia.org/wiki/賀集利樹 "wikilink")
-  - 森永叶：[池内博之](https://ja.wikipedia.org/wiki/池内博之 "wikilink")
-  - 恵比寿直紀：[小沢一敬](https://ja.wikipedia.org/wiki/小沢一敬 "wikilink")（[スピードワゴン](../Page/スピードワゴン.md "wikilink")）※ドラマのオリジナルキャラクター\[1\]
-  - 高梨さくら：[木口亜矢](https://ja.wikipedia.org/wiki/木口亜矢 "wikilink")
-  - 赤城次郎：[酒井敏也](https://ja.wikipedia.org/wiki/酒井敏也 "wikilink")
+  - 敷島七里：[斎藤工](../Page/斎藤工.md "wikilink")
+  - 名糖吉馬：[賀集利樹](../Page/賀集利樹.md "wikilink")
+  - 森永叶：[池内博之](../Page/池内博之.md "wikilink")
+  - 恵比寿直紀：[小沢一敬](../Page/小沢一敬.md "wikilink")（[スピードワゴン](../Page/スピードワゴン.md "wikilink")）※ドラマのオリジナルキャラクター\[1\]
+  - 高梨さくら：[木口亜矢](../Page/木口亜矢.md "wikilink")
+  - 赤城次郎：[酒井敏也](../Page/酒井敏也.md "wikilink")
   - 赤城保子：[宮田早苗](https://ja.wikipedia.org/wiki/宮田早苗 "wikilink")
   - 赤城鈴香：[橋本愛実](https://ja.wikipedia.org/wiki/橋本愛実 "wikilink")
-  - 江崎友子：[八代亜紀](https://ja.wikipedia.org/wiki/八代亜紀 "wikilink")
+  - 江崎友子：[八代亜紀](../Page/八代亜紀.md "wikilink")
   - 軽部ひな：[秦みずほ](https://ja.wikipedia.org/wiki/秦みずほ "wikilink")
   - 東鳩花江：[松本夏空](https://ja.wikipedia.org/wiki/松本夏空 "wikilink")
   - 藤島東悟：[CHIKARA](https://ja.wikipedia.org/wiki/米川力 "wikilink")
   - 春日井徹：[松村雄基](../Page/松村雄基.md "wikilink")
-  - 名糖圭介：[大高洋夫](https://ja.wikipedia.org/wiki/大高洋夫 "wikilink")
+  - 名糖圭介：[大高洋夫](../Page/大高洋夫.md "wikilink")
   - ゴージャス珠子：[野口かおる](https://ja.wikipedia.org/wiki/野口かおる "wikilink")
-  - 敷島杏子：[筒井真理子](https://ja.wikipedia.org/wiki/筒井真理子 "wikilink")
-  - 八頭田福子：[石井トミコ](https://ja.wikipedia.org/wiki/石井トミコ "wikilink")
-  - 新城光 : [北村栄基](https://ja.wikipedia.org/wiki/北村栄基 "wikilink")
+  - 敷島杏子：[筒井真理子](../Page/筒井真理子.md "wikilink")
+  - 八頭田福子：[石井トミコ](../Page/石井トミコ.md "wikilink")
+  - 新城光 : [北村栄基](../Page/北村栄基.md "wikilink")
 
 #### そのほかの登場人物
 
@@ -86,14 +86,14 @@
   - プロデュース：岡部紳二、[山鹿達也](https://ja.wikipedia.org/wiki/山鹿達也 "wikilink")、赤羽博、江口正和
   - 演出：飯島真一（アベクカンパニー）、岡嶋純一
   - 音楽：[RAINBOW SEPTET](https://ja.wikipedia.org/wiki/RAINBOW_SEPTET "wikilink")
-  - 技術協力：[フォーチュン](https://ja.wikipedia.org/wiki/フォーチュン_\(テレビ技術会社\) "wikilink")
+  - 技術協力：[フォーチュン](../Page/フォーチュン_\(テレビ技術会社\).md "wikilink")
   - 美術協力：[フジアール](../Page/フジアール.md "wikilink")
-  - 制作：テレビ東京、[アベクカンパニー](https://ja.wikipedia.org/wiki/アベクカンパニー "wikilink")
+  - 制作：テレビ東京、[アベクカンパニー](../Page/アベクカンパニー.md "wikilink")
 
 ### 主題歌
 
   - オープニングテーマ：「Stand Up\!」[D-51](../Page/D-51.md "wikilink")（[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")）
-  - エンディングテーマ：「HOME」[FREENOTE](https://ja.wikipedia.org/wiki/FREENOTE "wikilink")（[TOY'S FACTORY](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")）
+  - エンディングテーマ：「HOME」[FREENOTE](../Page/FREENOTE.md "wikilink")（[TOY'S FACTORY](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")）
 
 ### サブタイトル
 
@@ -117,9 +117,9 @@
 <!-- end list -->
 
 1.  [2004年](../Page/2004年.md "wikilink")6月11日、ISBN 978-406365274-1
-2.  [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")6月13日、ISBN 978-406365323-6
+2.  [2005年](../Page/2005年.md "wikilink")6月13日、ISBN 978-406365323-6
 3.  2005年11月11日、ISBN 978-406365355-7
-4.  [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")6月13日、ISBN 978-406365385-4
+4.  [2006年](../Page/2006年.md "wikilink")6月13日、ISBN 978-406365385-4
 5.  2006年11月13日、ISBN 978-406365417-2
 6.  2007年6月13日、ISBN 978-406365454-7
 7.  2007年11月13日、ISBN 978-406365477-6

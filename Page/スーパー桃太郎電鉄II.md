@@ -1,15 +1,15 @@
 > この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
 
 
-『**スーパー桃太郎電鉄II**』（スーパーももたろうでんてつツー）は、[ハドソン](../Page/ハドソン.md "wikilink")が発売したコンピュータボードゲーム。[桃太郎電鉄シリーズ](../Page/桃太郎電鉄シリーズ.md "wikilink")の第3作目。[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[12月20日](../Page/12月20日.md "wikilink")に[PCエンジン](../Page/PCエンジン.md "wikilink")版、[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[8月7日](../Page/8月7日.md "wikilink")に[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")版、[1994年](../Page/1994年.md "wikilink")[2月18日](../Page/2月18日.md "wikilink")に[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")版が発売された。
+『**スーパー桃太郎電鉄II**』（スーパーももたろうでんてつツー）は、[ハドソン](../Page/ハドソン.md "wikilink")が発売したコンピュータボードゲーム。[桃太郎電鉄シリーズ](../Page/桃太郎電鉄シリーズ.md "wikilink")の第3作目。[1991年](../Page/1991年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")に[PCエンジン](../Page/PCエンジン.md "wikilink")版、[1992年](../Page/1992年.md "wikilink")[8月7日](../Page/8月7日.md "wikilink")に[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")版、[1994年](../Page/1994年.md "wikilink")[2月18日](../Page/2月18日.md "wikilink")に[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")版が発売された。
 
-ハドソンの制作コンテンツの著作権を保有している[コナミデジタルエンタテインメント](https://ja.wikipedia.org/wiki/コナミデジタルエンタテインメント "wikilink")（KDE）から2020年3月19日に発売される予定のテレビゲーム機・[PCエンジン miniに本作のPCエンジン版が収録されることが発表されている](https://ja.wikipedia.org/wiki/PCエンジン_mini "wikilink")。
+ハドソンの制作コンテンツの著作権を保有している[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")（KDE）から2020年3月19日に発売される予定のテレビゲーム機・[PCエンジン miniに本作のPCエンジン版が収録されることが発表されている](https://ja.wikipedia.org/wiki/PCエンジン_mini "wikilink")。
 
 ## 概要
 
 今作より、プレイヤーに被害を与える「貧乏神」の変身形態として「キングボンビー」が追加され、さらに深刻な被害をもたらすようになった。また、「空港」のマスから飛行機で向かう海外駅として「ハワイ」などが登場。そのほか、新駅が追加され路線が大幅に変更されている箇所もある。
 
-なお、作者の[さくまあきら](https://ja.wikipedia.org/wiki/さくまあきら "wikilink")が『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』誌上で担当していた読者コーナー『[ジャンプ放送局](https://ja.wikipedia.org/wiki/ジャンプ放送局 "wikilink")』の単行本第20巻の巻末漫画において、今作のマイナーチェンジ版として「95年度版（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")度版）」を制作している、とのさくまの落書きコメントが記載されていたが、発売されることはなかった。
+なお、作者の[さくまあきら](../Page/さくまあきら.md "wikilink")が『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』誌上で担当していた読者コーナー『[ジャンプ放送局](../Page/ジャンプ放送局.md "wikilink")』の単行本第20巻の巻末漫画において、今作のマイナーチェンジ版として「95年度版（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")度版）」を制作している、とのさくまの落書きコメントが記載されていたが、発売されることはなかった。
 
 ## 前作からの変更点
 
@@ -20,7 +20,7 @@
       - PCE版のみ、キングボンビーは変身したそのターンから悪行を開始する。SFC・GB版では後の作品同様に、変身したターンには何もしない。
   - 本作より、損害系カードにキングデビルカードが登場。
   - 本作より、他人が所有している物件の文字が青色で表示されるようになった\[2\]ほか、購入済みの物件も収益率が確認できるようになった。
-  - 本作から『[16](https://ja.wikipedia.org/wiki/桃太郎電鉄16_北海道大移動の巻! "wikilink")』まで、物件の増資が可能になった。購入済みの物件に、購入時と同額の資金をつぎ込む（感覚としては再購入に近い）。1件につき1ターン1回まで、最高で+2段階。増資すると物件価格自体が2倍・3倍になる上、収益率も一定値上昇する。ただし手放した物件は全ての増資が無効になる。
+  - 本作から『[16](../Page/桃太郎電鉄16_北海道大移動の巻!.md "wikilink")』まで、物件の増資が可能になった。購入済みの物件に、購入時と同額の資金をつぎ込む（感覚としては再購入に近い）。1件につき1ターン1回まで、最高で+2段階。増資すると物件価格自体が2倍・3倍になる上、収益率も一定値上昇する。ただし手放した物件は全ての増資が無効になる。
   - 本作より、本社・支社がピンチになったときに駆けつけなかった場合、所持金に損害が出る点は変わらないが、所持物件が失われることはなくなった。
   - 本作より、F-1や地方博物、選挙などイベントが大幅に増大された。
   - イベントなどで流れる各種BGMの大幅変更。
@@ -46,7 +46,7 @@
   - **[稚内](../Page/稚内市.md "wikilink")**
   - [旭川](../Page/旭川市.md "wikilink")
   - [網走](../Page/網走市.md "wikilink")
-  - **[釧路](https://ja.wikipedia.org/wiki/釧路市 "wikilink")**
+  - **[釧路](../Page/釧路市.md "wikilink")**
   - [トマム](../Page/トマム駅.md "wikilink")
   - [富良野](../Page/富良野市.md "wikilink")
   - **[札幌](https://ja.wikipedia.org/wiki/札幌市 "wikilink")**
@@ -54,7 +54,7 @@
   - [ニセコ](../Page/ニセコ町.md "wikilink")
   - [苫小牧](https://ja.wikipedia.org/wiki/苫小牧市 "wikilink")
   - [襟裳](../Page/えりも町.md "wikilink")
-  - [長万部](https://ja.wikipedia.org/wiki/長万部町 "wikilink")
+  - [長万部](../Page/長万部町.md "wikilink")
   - [函館](https://ja.wikipedia.org/wiki/函館駅 "wikilink")
   - **[青森](../Page/青森駅.md "wikilink")**
   - [弘前](../Page/弘前駅.md "wikilink")
@@ -82,11 +82,11 @@
   - [甲府](https://ja.wikipedia.org/wiki/甲府駅 "wikilink")
   - [長野](https://ja.wikipedia.org/wiki/長野駅 "wikilink")
   - [軽井沢](../Page/軽井沢町.md "wikilink")
-  - [松本](https://ja.wikipedia.org/wiki/松本市 "wikilink")
+  - [松本](../Page/松本市.md "wikilink")
   - [白馬](../Page/白馬村.md "wikilink")
   - [熱海](https://ja.wikipedia.org/wiki/熱海市 "wikilink")
-  - [静岡](https://ja.wikipedia.org/wiki/静岡市 "wikilink")
-  - [木曽](https://ja.wikipedia.org/wiki/木曽町 "wikilink")
+  - [静岡](../Page/静岡市.md "wikilink")
+  - [木曽](../Page/木曽町.md "wikilink")
   - [浜松](https://ja.wikipedia.org/wiki/浜松市 "wikilink")
   - **[名古屋](../Page/名古屋駅.md "wikilink")**
   - [高山](../Page/高山市.md "wikilink")
@@ -96,9 +96,9 @@
   - **[新宮](../Page/新宮市.md "wikilink")**
   - [富山](https://ja.wikipedia.org/wiki/富山市 "wikilink")
   - [金沢](https://ja.wikipedia.org/wiki/金沢市 "wikilink")
-  - [敦賀](https://ja.wikipedia.org/wiki/敦賀市 "wikilink")
+  - [敦賀](../Page/敦賀市.md "wikilink")
   - [京都](../Page/京都市.md "wikilink")
-  - **[大阪](https://ja.wikipedia.org/wiki/大阪市 "wikilink")**
+  - **[大阪](../Page/大阪市.md "wikilink")**
   - [奈良](https://ja.wikipedia.org/wiki/奈良市 "wikilink")
   - [白浜](../Page/白浜町.md "wikilink")
   - [和歌山](../Page/和歌山市.md "wikilink")
@@ -108,7 +108,7 @@
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
   - [神戸](../Page/神戸市.md "wikilink")
-  - [姫路](https://ja.wikipedia.org/wiki/姫路市 "wikilink")
+  - [姫路](../Page/姫路市.md "wikilink")
   - [鳥取](../Page/鳥取市.md "wikilink")
   - [岡山](../Page/岡山市.md "wikilink")
   - **[出雲](../Page/出雲市.md "wikilink")**
@@ -117,7 +117,7 @@
   - [萩](../Page/萩市.md "wikilink")
   - [下関](../Page/下関市.md "wikilink")
   - [高松](https://ja.wikipedia.org/wiki/高松市 "wikilink")
-  - [徳島](https://ja.wikipedia.org/wiki/徳島市 "wikilink")
+  - [徳島](../Page/徳島市.md "wikilink")
   - **[高知](../Page/高知市.md "wikilink")**
   - [宇和島](../Page/宇和島市.md "wikilink")
   - [松山](../Page/松山市.md "wikilink")
@@ -143,7 +143,7 @@
 
   - [根室](../Page/根室市.md "wikilink")
   - [様似](../Page/様似町.md "wikilink")
-  - [恐山](https://ja.wikipedia.org/wiki/恐山 "wikilink")
+  - [恐山](../Page/恐山.md "wikilink")
   - [遠野](../Page/遠野市.md "wikilink")
   - [宮古](https://ja.wikipedia.org/wiki/宮古市 "wikilink")
   - [気仙沼](https://ja.wikipedia.org/wiki/気仙沼市 "wikilink")
@@ -160,12 +160,12 @@
   - [尾鷲](https://ja.wikipedia.org/wiki/尾鷲市 "wikilink")
   - [七尾](../Page/七尾市.md "wikilink")
   - [輪島](https://ja.wikipedia.org/wiki/輪島市 "wikilink")
-  - [マキノ](https://ja.wikipedia.org/wiki/マキノ町 "wikilink")
+  - [マキノ](../Page/マキノ町.md "wikilink")
   - [田辺](https://ja.wikipedia.org/wiki/田辺市 "wikilink")
   - [倉吉](../Page/倉吉市.md "wikilink")
   - [新居浜](../Page/新居浜市.md "wikilink")
   - [中村](../Page/中村市.md "wikilink")
-  - [高千穂](https://ja.wikipedia.org/wiki/高千穂町 "wikilink")
+  - [高千穂](../Page/高千穂町.md "wikilink")
   - [指宿](../Page/指宿市.md "wikilink")
 
 </div>
@@ -195,7 +195,7 @@
 <td><p><a href="../Page/ハドソン.md" title="wikilink">ハドソン</a><br />
 <a href="https://ja.wikipedia.org/wiki/サマープロジェクト" title="wikilink">サマープロジェクト</a></p></td>
 <td><p>ハドソン</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/HuCARD" title="wikilink">HuCARD</a></p></td>
+<td><p><a href="../Page/HuCARD.md" title="wikilink">HuCARD</a></p></td>
 <td><p>HC91050</p></td>
 <td></td>
 </tr>
@@ -267,8 +267,8 @@ SHVC-H4-I</p></td>
 <td></td>
 <td><p>ハドソン<br />
 サマープロジェクト</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/コナミデジタルエンタテインメント" title="wikilink">KDE</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリインストール" title="wikilink">プリインストール</a></p></td>
+<td><p><a href="../Page/コナミデジタルエンタテインメント.md" title="wikilink">KDE</a></p></td>
+<td><p><a href="../Page/プリインストール.md" title="wikilink">プリインストール</a></p></td>
 <td></td>
 <td><p>PCエンジン版を収録。</p></td>
 </tr>
@@ -283,8 +283,8 @@ SHVC-H4-I</p></td>
 
 ## 関連書籍
 
-  - SUPER桃太郎電鉄II完全ツアーガイド（[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[1月10日](../Page/1月10日.md "wikilink")発売、[小学館](../Page/小学館.md "wikilink") ISBN 4-09-104199-X）
-  - SUPER桃太郎電鉄II : 完全版（1992年[9月28日](../Page/9月28日.md "wikilink")発売、[実業之日本社](https://ja.wikipedia.org/wiki/実業之日本社 "wikilink")）
+  - SUPER桃太郎電鉄II完全ツアーガイド（[1992年](../Page/1992年.md "wikilink")[1月10日](../Page/1月10日.md "wikilink")発売、[小学館](../Page/小学館.md "wikilink") ISBN 4-09-104199-X）
+  - SUPER桃太郎電鉄II : 完全版（1992年[9月28日](../Page/9月28日.md "wikilink")発売、[実業之日本社](../Page/実業之日本社.md "wikilink")）
 
 ## 外部リンク
 
@@ -300,5 +300,5 @@ SHVC-H4-I</p></td>
 
 1.  GB版各種作品および、GG版『III』を除く。
 2.  GB版を除く。
-3.  以後の作品では、『[III](https://ja.wikipedia.org/wiki/スーパー桃太郎電鉄III "wikilink")』でのサウンドテストで聴くことができるほか、『[HAPPY](https://ja.wikipedia.org/wiki/桃太郎電鉄HAPPY "wikilink")』のサウンドテストでタイトルだけ確認可能。
+3.  以後の作品では、『[III](../Page/スーパー桃太郎電鉄III.md "wikilink")』でのサウンドテストで聴くことができるほか、『[HAPPY](../Page/桃太郎電鉄HAPPY.md "wikilink")』のサウンドテストでタイトルだけ確認可能。
 4.

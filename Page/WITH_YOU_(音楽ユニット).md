@@ -1,7 +1,7 @@
 > この記事は[WITH YOU \(\)](https://ja.wikipedia.org/wiki/WITH_YOU_\(\))から翻訳されています。
 
 
-**WITH YOU**（ウィズ・ユー）は、[阪神・淡路大震災](https://ja.wikipedia.org/wiki/阪神・淡路大震災 "wikilink")の復興支援チャリティとして、[声優](../Page/声優.md "wikilink")の[神谷明](../Page/神谷明.md "wikilink")の呼びかけで声優・漫画家などの有志によって結成された音楽ユニット。震災のあった[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")から4年間活動し、多くのチャリティイベントを行った。
+**WITH YOU**（ウィズ・ユー）は、[阪神・淡路大震災](../Page/阪神・淡路大震災.md "wikilink")の復興支援チャリティとして、[声優](../Page/声優.md "wikilink")の[神谷明](../Page/神谷明.md "wikilink")の呼びかけで声優・漫画家などの有志によって結成された音楽ユニット。震災のあった[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")から4年間活動し、多くのチャリティイベントを行った。
 
 ## メンバー
 
@@ -11,28 +11,28 @@
   - [伊倉一恵](https://ja.wikipedia.org/wiki/伊倉一恵 "wikilink")（声優）
   - [一条和矢](../Page/一条和矢.md "wikilink")（声優）
   - [井上かおり](https://ja.wikipedia.org/wiki/井上かおり "wikilink")（童謡歌手）
-  - [岩井由希子](https://ja.wikipedia.org/wiki/岩居由希子 "wikilink")（声優）
-  - [岩崎和夫](https://ja.wikipedia.org/wiki/岩崎和夫 "wikilink")（フリーアナウンサー）
-  - [榎本充希子](https://ja.wikipedia.org/wiki/榎本充希子 "wikilink")（声優）
+  - [岩井由希子](../Page/岩居由希子.md "wikilink")（声優）
+  - [岩崎和夫](../Page/岩崎和夫.md "wikilink")（フリーアナウンサー）
+  - [榎本充希子](../Page/榎本充希子.md "wikilink")（声優）
   - [大山英亮](https://ja.wikipedia.org/wiki/大山英亮 "wikilink")（脚本家）
   - [金丸淳一](../Page/金丸淳一.md "wikilink")（声優）
   - [神谷明](../Page/神谷明.md "wikilink")（声優）
-  - [ショッカーO野](https://ja.wikipedia.org/wiki/ショッカーO野 "wikilink")（声優、イベントプロデューサー）
-  - [高木渉](https://ja.wikipedia.org/wiki/高木渉 "wikilink")（声優）
-  - [高戸靖広](https://ja.wikipedia.org/wiki/高戸靖広 "wikilink")（声優）
+  - [ショッカーO野](../Page/ショッカーO野.md "wikilink")（声優、イベントプロデューサー）
+  - [高木渉](../Page/高木渉.md "wikilink")（声優）
+  - [高戸靖広](../Page/高戸靖広.md "wikilink")（声優）
   - [田中義則](https://ja.wikipedia.org/wiki/田中義則 "wikilink")
-  - [千葉進歩](https://ja.wikipedia.org/wiki/千葉進歩 "wikilink")（声優）
+  - [千葉進歩](../Page/千葉進歩.md "wikilink")（声優）
   - [筒井英次](https://ja.wikipedia.org/wiki/筒井英次 "wikilink")
 
 </div>
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [富沢美智恵](https://ja.wikipedia.org/wiki/富沢美智恵 "wikilink")（声優）
+  - [富沢美智恵](../Page/富沢美智恵.md "wikilink")（声優）
   - [野沢雅子](../Page/野沢雅子.md "wikilink")（声優）
   - [端月雅子](https://ja.wikipedia.org/wiki/端月雅子 "wikilink")
-  - [日髙のり子](https://ja.wikipedia.org/wiki/日高のり子 "wikilink")（声優）
-  - [ひと美](https://ja.wikipedia.org/wiki/ひと美 "wikilink")（声優）
+  - [日髙のり子](../Page/日高のり子.md "wikilink")（声優）
+  - [ひと美](../Page/ひと美.md "wikilink")（声優）
   - [廣瀬和好](https://ja.wikipedia.org/wiki/廣瀬和好 "wikilink")
   - [氷上恭子](https://ja.wikipedia.org/wiki/氷上恭子 "wikilink")（声優）
   - [深見梨加](../Page/深見梨加.md "wikilink")（声優）
@@ -43,13 +43,13 @@
   - [ミンキー・ヤス](../Page/ミンキー・ヤス.md "wikilink")（タレント）
   - [山口勝平](../Page/山口勝平.md "wikilink")（声優）
   - [雪乃五月](https://ja.wikipedia.org/wiki/雪野五月 "wikilink")（声優）
-  - [吉田古奈美](https://ja.wikipedia.org/wiki/吉田小南美 "wikilink")（声優）
+  - [吉田古奈美](../Page/吉田小南美.md "wikilink")（声優）
 
 </div>
 
 ## チャリティCD
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[12月17日](../Page/12月17日.md "wikilink")に[東芝EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink") / [FUTURE LANDから発売](https://ja.wikipedia.org/wiki/ユーメックス "wikilink")。売上金は制作費を除いた全額が寄付された\[1\]。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[12月17日](../Page/12月17日.md "wikilink")に[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink") / [FUTURE LANDから発売](../Page/ユーメックス.md "wikilink")。売上金は制作費を除いた全額が寄付された\[1\]。
 
 ### 収録曲
 
@@ -75,13 +75,13 @@
 
 :\*ベース：[小原礼](../Page/小原礼.md "wikilink")
 
-:\*ドラム：[島村英二](https://ja.wikipedia.org/wiki/島村英二 "wikilink")
+:\*ドラム：[島村英二](../Page/島村英二.md "wikilink")
 
 :\*ギター：[鈴木茂](../Page/鈴木茂_\(ギタリスト\).md "wikilink")
 
 :\*キーボード：[尾崎亜美](https://ja.wikipedia.org/wiki/尾崎亜美 "wikilink")
 
-:\*シンセサイザープログラマー：[松武秀樹](https://ja.wikipedia.org/wiki/松武秀樹 "wikilink")
+:\*シンセサイザープログラマー：[松武秀樹](../Page/松武秀樹.md "wikilink")
 
   - スタッフ
 
@@ -96,7 +96,7 @@
   - プロモーター：相川剛志
   - 制作協力：藏本治 (ビーズクラブオフィス)・エラト音楽事務所
   - ロゴデザイン：[藤原カムイ](../Page/藤原カムイ.md "wikilink")
-  - 協賛：アトリエねこまんま・[アップルコンピュータ株式会社](../Page/アップル_\(企業\).md "wikilink")・[日本工学院](https://ja.wikipedia.org/wiki/日本工学院専門学校 "wikilink")［鎌田・[八王子](https://ja.wikipedia.org/wiki/日本工学院八王子専門学校 "wikilink")］
+  - 協賛：アトリエねこまんま・[アップルコンピュータ株式会社](../Page/アップル_\(企業\).md "wikilink")・[日本工学院](../Page/日本工学院専門学校.md "wikilink")［鎌田・[八王子](../Page/日本工学院八王子専門学校.md "wikilink")］
 
 ### セルフカバー
 

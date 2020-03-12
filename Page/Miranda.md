@@ -1,23 +1,23 @@
 > この記事は[Miranda](https://ja.wikipedia.org/wiki/Miranda)から翻訳されています。
 
 
-**Miranda**は、[遅延評価](https://ja.wikipedia.org/wiki/遅延評価 "wikilink")方式の純粋[関数型](../Page/関数型言語.md "wikilink")[プログラミング言語](../Page/プログラミング言語.md "wikilink")である。作者デビッド・ターナー（David Turner）による以前の言語SASLや[KRCの後継でもあり](https://ja.wikipedia.org/wiki/Kent_Recursive_Calculator "wikilink")、また[MLやHopeの影響も受けている](../Page/ML_\(プログラミング言語\).md "wikilink")。イギリスのリサーチ・ソフトウェア社（Research Software Ltd.）が販売しており、同社の商標でもある。研究目的ではない商用を目指した最初の純粋関数型言語であった。
+**Miranda**は、[遅延評価](../Page/遅延評価.md "wikilink")方式の純粋[関数型](../Page/関数型言語.md "wikilink")[プログラミング言語](../Page/プログラミング言語.md "wikilink")である。作者デビッド・ターナー（David Turner）による以前の言語SASLや[KRCの後継でもあり](https://ja.wikipedia.org/wiki/Kent_Recursive_Calculator "wikilink")、また[MLやHopeの影響も受けている](../Page/ML_\(プログラミング言語\).md "wikilink")。イギリスのリサーチ・ソフトウェア社（Research Software Ltd.）が販売しており、同社の商標でもある。研究目的ではない商用を目指した最初の純粋関数型言語であった。
 
 よくある例題を解くプログラムに関して言えば、Mirandaのコードは（[APL](../Page/APL.md "wikilink")などを別とすれば）ほとんどの主流のプログラミング言語よりも簡単で短く表現でき、他の[関数型言語](../Page/関数型言語.md "wikilink")と同様、信頼性の高いプログラムの開発が[命令型言語](https://ja.wikipedia.org/wiki/命令型言語 "wikilink")に比べて短期間で可能になったという報告がある。
 
-1985年に登場した。処理系の実装としては[Unix系](https://ja.wikipedia.org/wiki/Unix系 "wikilink")向けの[C言語](../Page/C言語.md "wikilink")で実装されたもののみがある。後発の[Haskell](../Page/Haskell.md "wikilink")は多くの面でMirandaの影響を受けている。
+1985年に登場した。処理系の実装としては[Unix系](../Page/Unix系.md "wikilink")向けの[C言語](../Page/C言語.md "wikilink")で実装されたもののみがある。後発の[Haskell](../Page/Haskell.md "wikilink")は多くの面でMirandaの影響を受けている。
 
 ## 概要
 
-Miranda は[遅延評価](https://ja.wikipedia.org/wiki/遅延評価 "wikilink")の純粋関数型言語であり、[副作用がなく](https://ja.wikipedia.org/wiki/副作用_\(プログラム\) "wikilink")、[命令型プログラミング](../Page/命令型プログラミング.md "wikilink")機能は存在しない。
+Miranda は[遅延評価](../Page/遅延評価.md "wikilink")の純粋関数型言語であり、[副作用がなく](../Page/副作用_\(プログラム\).md "wikilink")、[命令型プログラミング](../Page/命令型プログラミング.md "wikilink")機能は存在しない。
 
 具象構文の最も大きい特徴としては、[オフサイドルール](../Page/オフサイドルール.md "wikilink")を採用している。
 
-`||` からその行の終わりまでが[コメントとして扱われる](../Page/コメント_\(コンピュータ\).md "wikilink")。別のコメント記法は「[文芸的プログラミング](https://ja.wikipedia.org/wiki/文芸的プログラミング "wikilink")」的なもので、行の先頭に `>` がない行は全てコメントとして扱われる。
+`||` からその行の終わりまでが[コメントとして扱われる](../Page/コメント_\(コンピュータ\).md "wikilink")。別のコメント記法は「[文芸的プログラミング](../Page/文芸的プログラミング.md "wikilink")」的なもので、行の先頭に `>` がない行は全てコメントとして扱われる。
 
-Miranda の基本[データ型](https://ja.wikipedia.org/wiki/データ型 "wikilink")は `char`、`num`、`bool` である。文字列は `char` のリストであり、`num` は内部的には2種類の形式があって、自動的に変換される（[多倍長整数](https://ja.wikipedia.org/wiki/多倍長整数 "wikilink")がデフォルトで使われ、必要に応じて[浮動小数点数](../Page/浮動小数点数.md "wikilink")が使われる）。
+Miranda の基本[データ型](../Page/データ型.md "wikilink")は `char`、`num`、`bool` である。文字列は `char` のリストであり、`num` は内部的には2種類の形式があって、自動的に変換される（[多倍長整数](https://ja.wikipedia.org/wiki/多倍長整数 "wikilink")がデフォルトで使われ、必要に応じて[浮動小数点数](../Page/浮動小数点数.md "wikilink")が使われる）。
 
-[タプル](https://ja.wikipedia.org/wiki/タプル "wikilink")は様々な型のデータの羅列であり、抽象的な観点からは直積型である。
+[タプル](../Page/タプル.md "wikilink")は様々な型のデータの羅列であり、抽象的な観点からは直積型である。
 
     this_employee = ("Folland, Mary", 10560, False, 35)
 
@@ -54,7 +54,7 @@ Miranda の基本[データ型](https://ja.wikipedia.org/wiki/データ型 "wiki
 
 関数への実引数の適用は `sin x` のように、単に関数に実[引数](../Page/引数.md "wikilink")を続ける。
 
-Miranda は他の純粋関数型言語と同様、関数を引数として他の関数に渡したり、関数の結果として関数を返したり、データ構造に要素として関数を含むといったことが可能である。また、関数は全て1引数に[カリー化](https://ja.wikipedia.org/wiki/カリー化 "wikilink")されているものと見ることもでき、実引数の数が足りていない適用は部分適用となる**（注意: しばしば混同されるが、「カリー化」と「部分適用」は違うものである）**。例えば次のようになる。
+Miranda は他の純粋関数型言語と同様、関数を引数として他の関数に渡したり、関数の結果として関数を返したり、データ構造に要素として関数を含むといったことが可能である。また、関数は全て1引数に[カリー化](../Page/カリー化.md "wikilink")されているものと見ることもでき、実引数の数が足りていない適用は部分適用となる**（注意: しばしば混同されるが、「カリー化」と「部分適用」は違うものである）**。例えば次のようになる。
 
     add a b = a + b
     increment = add 1
@@ -72,7 +72,7 @@ Miranda は他の純粋関数型言語と同様、関数を引数として他の
 
 といった単一引数関数を作成できる。この場合、インタプリタは除算のどちらの引数が関数の引数として供給されるのかを理解しており、引数を 2 で割る関数や 1 を引数で割る関数が得られる。
 
-Miranda は[強い型付けをする言語だが](https://ja.wikipedia.org/wiki/型システム#強い型付けと弱い型付け "wikilink")、記述上は明確な型の宣言を必ずしも要しない。関数の型が明示されない場合、インタプリタは引数の型や引数の使われ方から[型推論](https://ja.wikipedia.org/wiki/型推論 "wikilink")を行う。例えばリスト逆転関数などでは、基本データ型（`char`, `num`, `bool`）に加えて、引数の型を問題としない `anything` 型がある。
+Miranda は[強い型付けをする言語だが](https://ja.wikipedia.org/wiki/型システム#強い型付けと弱い型付け "wikilink")、記述上は明確な型の宣言を必ずしも要しない。関数の型が明示されない場合、インタプリタは引数の型や引数の使われ方から[型推論](../Page/型推論.md "wikilink")を行う。例えばリスト逆転関数などでは、基本データ型（`char`, `num`, `bool`）に加えて、引数の型を問題としない `anything` 型がある。
 
     rev [] = []
     rev (a:x) = rev x ++ [a]

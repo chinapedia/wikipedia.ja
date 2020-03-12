@@ -1,7 +1,7 @@
 > この記事は[ARIA](https://ja.wikipedia.org/wiki/ARIA)から翻訳されています。
 
 
-『**ありっちゃ〜ARIA**』（ありっちゃ〜ありあ）は、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[1月10日](../Page/1月10日.md "wikilink")から同年[5月30日](../Page/5月30日.md "wikilink")まで[GyaOの](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")[インターネットテレビ](https://ja.wikipedia.org/wiki/インターネットテレビ "wikilink")枠『[GyaOジョッキー](../Page/GyaOジョッキー.md "wikilink")』で放送されていた[音楽](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")[トーク番組](https://ja.wikipedia.org/wiki/トーク番組 "wikilink")である。2007年4月末までは毎週水曜日22時 - 23時に、同年5月からは隔週水曜日22時 - 23時に[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")されていた。
+『**ありっちゃ〜ARIA**』（ありっちゃ〜ありあ）は、[2007年](../Page/2007年.md "wikilink")[1月10日](../Page/1月10日.md "wikilink")から同年[5月30日](../Page/5月30日.md "wikilink")まで[GyaOの](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")[インターネットテレビ](../Page/インターネットテレビ.md "wikilink")枠『[GyaOジョッキー](../Page/GyaOジョッキー.md "wikilink")』で放送されていた[音楽](../Page/音楽番組.md "wikilink")[トーク番組](../Page/トーク番組.md "wikilink")である。2007年4月末までは毎週水曜日22時 - 23時に、同年5月からは隔週水曜日22時 - 23時に[生放送](../Page/生放送.md "wikilink")されていた。
 
 ## 概要
 
@@ -21,17 +21,17 @@
   - TSUGU （\#1、2007年1月10日放送分）
   - DJ SHOW （\#2、2007年1月17日放送分）
   - [K DUB SHINE](https://ja.wikipedia.org/wiki/K_DUB_SHINE "wikilink") （\#3、2007年1月24日放送分）
-  - [HI-D](https://ja.wikipedia.org/wiki/HI-D "wikilink") （\#4、2007年1月31日放送分）
-  - 渡辺聡（[メガネスーパー](https://ja.wikipedia.org/wiki/メガネスーパー "wikilink")の店員、\#5、2007年2月7日放送分）
+  - [HI-D](../Page/HI-D.md "wikilink") （\#4、2007年1月31日放送分）
+  - 渡辺聡（[メガネスーパー](../Page/メガネスーパー.md "wikilink")の店員、\#5、2007年2月7日放送分）
   - [ASAMI](https://ja.wikipedia.org/wiki/ASAMI "wikilink") （\#6、2007年2月14日放送分）
   - JAKE （STAR WAX、\#7、2007年2月21日放送分）
   - [JAMOSA](https://ja.wikipedia.org/wiki/JAMOSA "wikilink") （\#8、2007年2月28日放送分）
   - [DJ MAYUMI](https://ja.wikipedia.org/wiki/DJ_MAYUMI "wikilink") （\#9、2007年3月7日放送分）
-  - [SHINGO☆西成](https://ja.wikipedia.org/wiki/SHINGO☆西成 "wikilink")（\#10、2007年3月14日放送分）
-  - [BIG RON](https://ja.wikipedia.org/wiki/BIG_RON "wikilink") （\#11、2007年3月28日放送分）
-  - [YA-KYIM](https://ja.wikipedia.org/wiki/YA-KYIM "wikilink") （\#12、2007年4月4日放送分）
+  - [SHINGO☆西成](../Page/SHINGO☆西成.md "wikilink")（\#10、2007年3月14日放送分）
+  - [BIG RON](../Page/BIG_RON.md "wikilink") （\#11、2007年3月28日放送分）
+  - [YA-KYIM](../Page/YA-KYIM.md "wikilink") （\#12、2007年4月4日放送分）
   - やすこママ・トヴィ・アマンダ（\#13、2007年4月11日放送分）
-  - [ET-KING](https://ja.wikipedia.org/wiki/ET-KING "wikilink") （\#14、2007年4月18日放送分）
+  - [ET-KING](../Page/ET-KING.md "wikilink") （\#14、2007年4月18日放送分）
   - [YOU THE ROCK★](https://ja.wikipedia.org/wiki/YOU_THE_ROCK★ "wikilink")（\#15、2007年4月25日放送分）
   - ARIAダンサーズ（\#16、2007年5月16日放送分）
 
@@ -48,7 +48,7 @@
 
 ## 主な出来事
 
-  - 2007年3月7日 - 番組の放送中、機材トラブルによって22:00から22:12までの間映像も音声も入らない[放送事故](https://ja.wikipedia.org/wiki/放送事故 "wikilink")が発生した。映像は復旧したものの、音声はその後もしばらく入らない状態となった。また、その後のPV映像の放送中にスタジオの声が入るという二重の事故も発生した。
+  - 2007年3月7日 - 番組の放送中、機材トラブルによって22:00から22:12までの間映像も音声も入らない[放送事故](../Page/放送事故.md "wikilink")が発生した。映像は復旧したものの、音声はその後もしばらく入らない状態となった。また、その後のPV映像の放送中にスタジオの声が入るという二重の事故も発生した。
 
 ## 関連項目
 

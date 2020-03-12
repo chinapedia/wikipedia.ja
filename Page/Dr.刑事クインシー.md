@@ -1,7 +1,7 @@
 > この記事は[Dr.](https://ja.wikipedia.org/wiki/Dr.)から翻訳されています。
 
 
-**Dr.刑事クインシー**（英語タイトル:**Quincy, M.E.**）は[1976年](../Page/1976年.md "wikilink")10月から[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")5月（9月とも）まで[米国の](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[NBC](https://ja.wikipedia.org/wiki/NBC "wikilink")で放送されたテレビドラマ。当初は90分枠の "[NBCサンデー・ミステリー・ムービー](../Page/NBCミステリー・ムービー.md "wikilink")" 枠で「[刑事コロンボ](../Page/刑事コロンボ.md "wikilink")」、「[警部マクロード](../Page/警部マクロード.md "wikilink")」、「[署長マクミラン](../Page/署長マクミラン.md "wikilink")」と週替わりで4本が放映され、[1977年](../Page/1977年.md "wikilink")2月から低視聴率で打ち切られた「[アウトロー刑事・セルピコ](../Page/セルピコ.md "wikilink")」の後番組として、金曜22時からの60分枠に移動した。
+**Dr.刑事クインシー**（英語タイトル:**Quincy, M.E.**）は[1976年](../Page/1976年.md "wikilink")10月から[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")5月（9月とも）まで[米国の](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[NBC](../Page/NBC.md "wikilink")で放送されたテレビドラマ。当初は90分枠の "[NBCサンデー・ミステリー・ムービー](../Page/NBCミステリー・ムービー.md "wikilink")" 枠で「[刑事コロンボ](../Page/刑事コロンボ.md "wikilink")」、「[警部マクロード](../Page/警部マクロード.md "wikilink")」、「[署長マクミラン](../Page/署長マクミラン.md "wikilink")」と週替わりで4本が放映され、[1977年](../Page/1977年.md "wikilink")2月から低視聴率で打ち切られた「[アウトロー刑事・セルピコ](../Page/セルピコ.md "wikilink")」の後番組として、金曜22時からの60分枠に移動した。
 
 ## 概要
 
@@ -17,7 +17,7 @@
 
 クインシーは恰幅がよく、プライベートではハウスボート（houseboat、居住用のヨット）に暮らし、友人の経営するパブ、ダニーズに通って女性にももてるといった設定がされている。
 
-このドラマの原型は、1966年から1968年にかけて[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の[CBCで放映されたドラマシリーズ](https://ja.wikipedia.org/wiki/カナダ放送協会 "wikilink")『**Wojeck**』にあるともいわれる。また、『クインシー』は旧型テレビ（SquareTV）時代の古典的なカルト番組であると位置づける者もおり、[パンク](../Page/パンク・ロック.md "wikilink")、[ヒッピー](https://ja.wikipedia.org/wiki/ヒッピー "wikilink")など放映当時の若者文化に対するアンチテーゼを投げかける意味もあったと評価される。
+このドラマの原型は、1966年から1968年にかけて[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の[CBCで放映されたドラマシリーズ](../Page/カナダ放送協会.md "wikilink")『**Wojeck**』にあるともいわれる。また、『クインシー』は旧型テレビ（SquareTV）時代の古典的なカルト番組であると位置づける者もおり、[パンク](../Page/パンク・ロック.md "wikilink")、[ヒッピー](../Page/ヒッピー.md "wikilink")など放映当時の若者文化に対するアンチテーゼを投げかける意味もあったと評価される。
 
 なお、クインシーのモデルとなったのは、日本人の[トーマス野口](../Page/トーマス野口.md "wikilink")である。野口は、日本医科大学を卒業後、単身渡米し、ロサンゼルス郡検死局長になった人物で、[ケネディ大統領や](../Page/ジョン・F・ケネディ.md "wikilink")[マリリン・モンロー](https://ja.wikipedia.org/wiki/マリリン・モンロー "wikilink")の検死を担当したことで知られている。
 
@@ -37,12 +37,12 @@
 
 ## キャスト
 
-  - Dr.クインシー：[ジャック・クラグマン](https://ja.wikipedia.org/wiki/ジャック・クラグマン "wikilink")　（声： [北村和夫](https://ja.wikipedia.org/wiki/北村和夫 "wikilink")→[宮川洋一](../Page/宮川洋一.md "wikilink")）
-  - フランク・モナハン警部：ゲーリー・ウォルバーグ　（声： [加藤修](https://ja.wikipedia.org/wiki/加藤治 "wikilink")→[緒方賢一](../Page/緒方賢一.md "wikilink")）
+  - Dr.クインシー：[ジャック・クラグマン](https://ja.wikipedia.org/wiki/ジャック・クラグマン "wikilink")　（声： [北村和夫](../Page/北村和夫.md "wikilink")→[宮川洋一](../Page/宮川洋一.md "wikilink")）
+  - フランク・モナハン警部：ゲーリー・ウォルバーグ　（声： [加藤修](../Page/加藤治.md "wikilink")→[緒方賢一](../Page/緒方賢一.md "wikilink")）
   - サム・フジヤマ：ロバート・イトー　（声： [玄田哲章](https://ja.wikipedia.org/wiki/玄田哲章 "wikilink")→[古川登志夫](../Page/古川登志夫.md "wikilink")）
   - Dr.ロバート・アスティン部長：ジョン・S・ラギン　（声： [仁内達之](https://ja.wikipedia.org/wiki/仁内達之 "wikilink")→[青野武](../Page/青野武.md "wikilink")）
-  - ダニー・トーボ：バル・ビソグリオ　（声： [宮内幸平](https://ja.wikipedia.org/wiki/宮内幸平 "wikilink")→[弥富英央](https://ja.wikipedia.org/wiki/弥富英央 "wikilink")）
-  - ブリル刑事：ジョゼフ・ローマン　（声： [千田光男](https://ja.wikipedia.org/wiki/千田光男 "wikilink")）
+  - ダニー・トーボ：バル・ビソグリオ　（声： [宮内幸平](../Page/宮内幸平.md "wikilink")→[弥富英央](https://ja.wikipedia.org/wiki/弥富英央 "wikilink")）
+  - ブリル刑事：ジョゼフ・ローマン　（声： [千田光男](../Page/千田光男.md "wikilink")）
 
 ## スタッフ
 

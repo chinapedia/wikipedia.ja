@@ -1,7 +1,7 @@
 > この記事は[No.1](https://ja.wikipedia.org/wiki/No.1)から翻訳されています。
 
 
-**ドラゴンズNo.1ジョッキー**（ドラゴンズナンバーワンジョッキー）は、[東海ラジオ放送](../Page/東海ラジオ放送.md "wikilink")で2004年～2007度のナイターオフシーズンに放送していた[中日ドラゴンズ](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")を題材にした[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
+**ドラゴンズNo.1ジョッキー**（ドラゴンズナンバーワンジョッキー）は、[東海ラジオ放送](../Page/東海ラジオ放送.md "wikilink")で2004年～2007度のナイターオフシーズンに放送していた[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")を題材にした[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
 
 ## 概要
 
@@ -22,13 +22,13 @@
 
 ### 2004年度
 
-  - [大澤広樹](https://ja.wikipedia.org/wiki/大澤広樹 "wikilink")（東海ラジオアナウンサー）
+  - [大澤広樹](../Page/大澤広樹.md "wikilink")（東海ラジオアナウンサー）
   - 奈良まなみ（当時東海ラジオアナウンサー）
-  - [藤波行雄](https://ja.wikipedia.org/wiki/藤波行雄 "wikilink")（東海ラジオプロ野球解説者）
+  - [藤波行雄](../Page/藤波行雄.md "wikilink")（東海ラジオプロ野球解説者）
 
 ### 2005年度
 
-  - [川島葵](https://ja.wikipedia.org/wiki/川島葵 "wikilink")（東海ラジオアナウンサー）
+  - [川島葵](../Page/川島葵.md "wikilink")（東海ラジオアナウンサー）
   - 藤波行雄
   - そがいさお（ミュージシャン）
 
@@ -37,12 +37,12 @@
   - 川島葵
   - 藤波行雄
   - そがいさお
-  - [雷門幸福](https://ja.wikipedia.org/wiki/雷門幸福 "wikilink")（落語家）
-  - [井上一樹](https://ja.wikipedia.org/wiki/井上一樹 "wikilink")（中日ドラゴンズ）
+  - [雷門幸福](../Page/雷門幸福.md "wikilink")（落語家）
+  - [井上一樹](../Page/井上一樹.md "wikilink")（中日ドラゴンズ）
 
 ### 2007年度
 
-  - [平光清](https://ja.wikipedia.org/wiki/平光清 "wikilink")（元セ・リーグ審判部副部長）
+  - [平光清](../Page/平光清.md "wikilink")（元セ・リーグ審判部副部長）
   - ゲスト（ドラゴンズ選手・東海ラジオプロ野球解説者）
   - 井上一樹
 
@@ -51,7 +51,7 @@
 ### 2004年
 
   - セ・リーグシーズン開幕前に他の5球団の担当局アナウンサーが電話出演し、担当球団の開幕直前情報を伝えていた。
-      - 担当局アナウンサー一覧－[阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")：[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")・[唐渡吉則](https://ja.wikipedia.org/wiki/唐渡吉則 "wikilink")。[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")：[RCC中国放送アナウンサー](../Page/中国放送.md "wikilink")。[横浜ベイスターズ](https://ja.wikipedia.org/wiki/横浜ベイスターズ "wikilink")・[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")・[ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")：[ニッポン放送](../Page/ニッポン放送.md "wikilink")アナウンサー。
+      - 担当局アナウンサー一覧－[阪神タイガース](../Page/阪神タイガース.md "wikilink")：[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")・[唐渡吉則](../Page/唐渡吉則.md "wikilink")。[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")：[RCC中国放送アナウンサー](../Page/中国放送.md "wikilink")。[横浜ベイスターズ](https://ja.wikipedia.org/wiki/横浜ベイスターズ "wikilink")・[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")・[ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")：[ニッポン放送](../Page/ニッポン放送.md "wikilink")アナウンサー。
 
 ### 2005年・2006年
 
@@ -64,12 +64,12 @@
 
 ### 2005年～
 
-  - 選手会長[井上一樹](https://ja.wikipedia.org/wiki/井上一樹 "wikilink")のコーナー
+  - 選手会長[井上一樹](../Page/井上一樹.md "wikilink")のコーナー
 
 <!-- end list -->
 
   -
-    中日ドラゴンズ・選手会長の[井上一樹](https://ja.wikipedia.org/wiki/井上一樹 "wikilink")選手が電話出演し、出演者とトークを繰り広げる（なお2006年セ・リーグ優勝旅行時には、時差等を考慮し、出演しなかった）。また1シーズンオフに最低でも1度程度、スタジオに生出演していた。
+    中日ドラゴンズ・選手会長の[井上一樹](../Page/井上一樹.md "wikilink")選手が電話出演し、出演者とトークを繰り広げる（なお2006年セ・リーグ優勝旅行時には、時差等を考慮し、出演しなかった）。また1シーズンオフに最低でも1度程度、スタジオに生出演していた。
 
 ### 2007年
 
@@ -91,11 +91,11 @@
 
 ## 2011年
 
-  - 東海ラジオのホームページのタイムテーブルからの情報によると、2011年秋季の土曜日ナイターオフは16:00～19：00「[山浦](https://ja.wikipedia.org/wiki/山浦ひさし "wikilink")・[深谷の年リク](https://ja.wikipedia.org/wiki/深谷里奈 "wikilink")\!」→19:00～20：00ニッポン放送制作の「サタデー知っとか[ナイツ](https://ja.wikipedia.org/wiki/ナイツ_\(お笑い\) "wikilink")」になっている。
+  - 東海ラジオのホームページのタイムテーブルからの情報によると、2011年秋季の土曜日ナイターオフは16:00～19：00「[山浦](../Page/山浦ひさし.md "wikilink")・[深谷の年リク](../Page/深谷里奈.md "wikilink")\!」→19:00～20：00ニッポン放送制作の「サタデー知っとか[ナイツ](https://ja.wikipedia.org/wiki/ナイツ_\(お笑い\) "wikilink")」になっている。
 
 ## 2012年
 
-  - 東海ラジオのホームページのタイムテーブルからの情報によると、2012年秋季の土曜日ナイターオフは18:00～19:00「[ジェイムスのやるときはやるJ](../Page/ジェイムス・ヘイブンス.md "wikilink")\!」（[酒ゃビック一社提供](https://ja.wikipedia.org/wiki/藤桂京伊 "wikilink")。自社制作）→19:00～20:30「[青山紀子](https://ja.wikipedia.org/wiki/青山紀子 "wikilink")きままにSaturday」が編成されているが、「きままに-」は東海ラジオの送信所の施設改修工事の関係で放送できる回数が少なかった。（2012年12月8日\~2013年1月26日の8回しか放送できなかった。）（19:00～20:30に「[野中藍 ラリルれ、サタデーナイト。](https://ja.wikipedia.org/wiki/野中藍_ラリルれ、サタデーナイト。 "wikilink")」「Radio[キタエリあっ](https://ja.wikipedia.org/wiki/喜多村英梨 "wikilink")\!」（以上2番組は[アニたまどっとコム](https://ja.wikipedia.org/wiki/アニたまどっとコム "wikilink")制作[スターチャイルドレコード一社提供の](../Page/キングレコード.md "wikilink")[アニラジ](../Page/アニラジ.md "wikilink")）、「[電撃大賞](https://ja.wikipedia.org/wiki/電撃大賞 "wikilink")」（[文化放送](../Page/文化放送.md "wikilink")制作[アスキーメディアワークス](https://ja.wikipedia.org/wiki/アスキーメディアワークス "wikilink")一社提供アニラジ）の振り替え･繰上げ放送に割り当たられているため。本来の放送は土曜日深夜1:00\~2:30にそれぞれ放送されている。）
+  - 東海ラジオのホームページのタイムテーブルからの情報によると、2012年秋季の土曜日ナイターオフは18:00～19:00「[ジェイムスのやるときはやるJ](../Page/ジェイムス・ヘイブンス.md "wikilink")\!」（[酒ゃビック一社提供](https://ja.wikipedia.org/wiki/藤桂京伊 "wikilink")。自社制作）→19:00～20:30「[青山紀子](../Page/青山紀子.md "wikilink")きままにSaturday」が編成されているが、「きままに-」は東海ラジオの送信所の施設改修工事の関係で放送できる回数が少なかった。（2012年12月8日\~2013年1月26日の8回しか放送できなかった。）（19:00～20:30に「[野中藍 ラリルれ、サタデーナイト。](../Page/野中藍_ラリルれ、サタデーナイト。.md "wikilink")」「Radio[キタエリあっ](../Page/喜多村英梨.md "wikilink")\!」（以上2番組は[アニたまどっとコム](https://ja.wikipedia.org/wiki/アニたまどっとコム "wikilink")制作[スターチャイルドレコード一社提供の](../Page/キングレコード.md "wikilink")[アニラジ](../Page/アニラジ.md "wikilink")）、「[電撃大賞](../Page/電撃大賞.md "wikilink")」（[文化放送](../Page/文化放送.md "wikilink")制作[アスキーメディアワークス](https://ja.wikipedia.org/wiki/アスキーメディアワークス "wikilink")一社提供アニラジ）の振り替え･繰上げ放送に割り当たられているため。本来の放送は土曜日深夜1:00\~2:30にそれぞれ放送されている。）
       - そのため前年度オフはネットしていたニッポン放送制作のオフ番組も東海ラジオエリアではネットされなかった。
 
 ## 2013年

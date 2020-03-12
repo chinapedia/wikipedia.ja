@@ -1,7 +1,7 @@
 > この記事は[HAPPYBEST](https://ja.wikipedia.org/wiki/HAPPYBEST)から翻訳されています。
 
 
-『**HAPPY★BEST**』（ハッピーベスト）は[HAPPY DRUG STOREのファースト](https://ja.wikipedia.org/wiki/HAPPY_DRUG_STORE "wikilink")[アルバム](../Page/アルバム.md "wikilink")であり、[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。
+『**HAPPY★BEST**』（ハッピーベスト）は[HAPPY DRUG STOREのファースト](../Page/HAPPY_DRUG_STORE.md "wikilink")[アルバム](../Page/アルバム.md "wikilink")であり、[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。
 
 2004年3月24日リリース。奇しくもリリース2ヶ月前にリーダーの[清水和彦](https://ja.wikipedia.org/wiki/清水和彦 "wikilink")が交通事故で亡くなってしまい、そのことが売り上げを大きく上げた。
 

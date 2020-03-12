@@ -5,7 +5,7 @@
 
 ## 経歴
 
-[横浜市](../Page/横浜市.md "wikilink")[旭区](https://ja.wikipedia.org/wiki/旭区_\(横浜市\) "wikilink")[二俣川](https://ja.wikipedia.org/wiki/二俣川 "wikilink")出身で、身長152cm。血液型は[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。クォーター（父は日本人、母はドイツ系アメリカ人と日本人のハーフ）
+[横浜市](../Page/横浜市.md "wikilink")[旭区](https://ja.wikipedia.org/wiki/旭区_\(横浜市\) "wikilink")[二俣川](../Page/二俣川.md "wikilink")出身で、身長152cm。血液型は[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。クォーター（父は日本人、母はドイツ系アメリカ人と日本人のハーフ）
 
 音楽が好きな家庭に生まれ、幼少の頃から歌手を目指す。14歳の頃に書いた「[Every time](https://ja.wikipedia.org/wiki/Every_time "wikilink")」のデモテープが事務所の社長の手に渡り、[2004年](../Page/2004年.md "wikilink")[6月9日](../Page/6月9日.md "wikilink")にファーストシングル「Every time」でエピックレコードよりデビューを果たす。
 
@@ -57,9 +57,9 @@ Rey chew,Yolanda Adams,Donnie McClurkin,Shirley Caesar,Richard Smallwood,Dionne 
 
 ## 交友・家族
 
-かつて同じ事務所所属だった[ユンナ](https://ja.wikipedia.org/wiki/ユンナ "wikilink")とは仲が良い（ユンナは日記で、TiA姉と言っている）。TiA本人のblogにも登場するタレントの[安藤成子](../Page/安藤成子.md "wikilink")や[小阪由佳](https://ja.wikipedia.org/wiki/小阪由佳 "wikilink")、元[SDN48](https://ja.wikipedia.org/wiki/SDN48 "wikilink")の[河内麻沙美](https://ja.wikipedia.org/wiki/河内麻沙美 "wikilink")\[1\]は親友である。また[阿井莉沙](../Page/阿井莉沙.md "wikilink")とは中学時代からの親友で、お互いのblogにも度々登場している\[2\]\[3\]。愛犬はポム（[パグ](https://ja.wikipedia.org/wiki/パグ "wikilink")）。大好物はアイスクリーム。
+かつて同じ事務所所属だった[ユンナ](../Page/ユンナ.md "wikilink")とは仲が良い（ユンナは日記で、TiA姉と言っている）。TiA本人のblogにも登場するタレントの[安藤成子](../Page/安藤成子.md "wikilink")や[小阪由佳](https://ja.wikipedia.org/wiki/小阪由佳 "wikilink")、元[SDN48](https://ja.wikipedia.org/wiki/SDN48 "wikilink")の[河内麻沙美](https://ja.wikipedia.org/wiki/河内麻沙美 "wikilink")\[1\]は親友である。また[阿井莉沙](../Page/阿井莉沙.md "wikilink")とは中学時代からの親友で、お互いのblogにも度々登場している\[2\]\[3\]。愛犬はポム（[パグ](../Page/パグ.md "wikilink")）。大好物はアイスクリーム。
 
-[劇団ひとり](https://ja.wikipedia.org/wiki/劇団ひとり "wikilink")が、自身の番組内でTiAのファンだということを公表し、後にTiA本人も番組（『[やぐちひとり](https://ja.wikipedia.org/wiki/やぐちひとり "wikilink")©』[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")3月22日）に出演した。
+[劇団ひとり](../Page/劇団ひとり.md "wikilink")が、自身の番組内でTiAのファンだということを公表し、後にTiA本人も番組（『[やぐちひとり](../Page/やぐちひとり.md "wikilink")©』[2006年](../Page/2006年.md "wikilink")3月22日）に出演した。
 
 5人兄妹の末っ子である\[4\]。
 
@@ -72,7 +72,7 @@ Rey chew,Yolanda Adams,Donnie McClurkin,Shirley Caesar,Richard Smallwood,Dionne 
 3.  [ねがい/バースデーイヴ](https://ja.wikipedia.org/wiki/ねがい/バースデーイヴ "wikilink")（2004年11月17日）
     1.  ねがい　日本テレビ系『[TVおじゃマンボウ](../Page/TVおじゃマンボウ.md "wikilink")』エンディングテーマ
     2.  バースデーイヴ　『フジテレビフラワーセンター』イメージソング
-4.  [Promise](https://ja.wikipedia.org/wiki/Promise_\(TiAの曲\) "wikilink")（2005年8月3日）　テレビ東京系アニメ『[焼きたて\!\!ジャぱん](https://ja.wikipedia.org/wiki/焼きたて!!ジャぱん "wikilink")』オープニングテーマ
+4.  [Promise](https://ja.wikipedia.org/wiki/Promise_\(TiAの曲\) "wikilink")（2005年8月3日）　テレビ東京系アニメ『[焼きたて\!\!ジャぱん](../Page/焼きたて!!ジャぱん.md "wikilink")』オープニングテーマ
 5.  [ずっと ずっと…](https://ja.wikipedia.org/wiki/ずっと_ずっと… "wikilink")（2006年3月24日）
 
 ### 配信限定シングル

@@ -12,12 +12,12 @@
       - フジテレビや『[こんやのニュース](https://ja.wikipedia.org/wiki/こんやのニュース "wikilink")』のタイトルを使用していた一部系列局において、2016年10月3日から2017年10月1日まで『[ユアタイム クイック](https://ja.wikipedia.org/wiki/ユアタイム_クイック "wikilink")』、同年10月2日から2018年3月31日まで『[THE NEWSα Pick](https://ja.wikipedia.org/wiki/THE_NEWSα_Pick "wikilink")』となったが、石川テレビでは改題せず、引き続き『こんやのニュース』のタイトルを使用している。
       - 日曜は2015年10月4日から2016年3月27日までは『[日曜ファミリア](https://ja.wikipedia.org/wiki/日曜ファミリア "wikilink")』、2017年10月1日から2018年3月25日までは『[ニチファミ\!](https://ja.wikipedia.org/wiki/ニチファミ! "wikilink")』に内包されていた。
       - 2017年1月から2019年10月までは金曜のみ21:49 - 21:55\[1\]に放送されていた。
-      - 2018年3月31日までは突発的なニュースが発生した場合、東京からの『THE NEWSα Pick』の[スポットニュース](https://ja.wikipedia.org/wiki/スポットニュース "wikilink")の内容に変更されることがあった。
+      - 2018年3月31日までは突発的なニュースが発生した場合、東京からの『THE NEWSα Pick』の[スポットニュース](../Page/スポットニュース.md "wikilink")の内容に変更されることがあった。
       - 2018年4月4日からは日曜日\[2\]を除き、20時台および21:00以前にまたがってのスペシャル番組放送時\[3\]の終盤6分間を差し替えて（飛び降り）放送することになる。
 
 ## ニュースの動画配信
 
-ローカルニュースの[動画](../Page/動画.md "wikilink")配信は、自社の[ウェブサイト](../Page/ウェブサイト.md "wikilink")ではなく石川テレビが配信している[Yahoo\!ニュース](https://ja.wikipedia.org/wiki/Yahoo!ニュース "wikilink")（[Yahoo\! JAPAN](https://ja.wikipedia.org/wiki/Yahoo!_JAPAN "wikilink")）と[フジニュースネットワーク](../Page/フジニュースネットワーク.md "wikilink")（FNN）の公式ウェブサイト「FNN.jpプライムオンライン」において実施している。対象の番組は以下のとおり（2019年時点）。
+ローカルニュースの[動画](../Page/動画.md "wikilink")配信は、自社の[ウェブサイト](../Page/ウェブサイト.md "wikilink")ではなく石川テレビが配信している[Yahoo\!ニュース](https://ja.wikipedia.org/wiki/Yahoo!ニュース "wikilink")（[Yahoo\! JAPAN](../Page/Yahoo!_JAPAN.md "wikilink")）と[フジニュースネットワーク](../Page/フジニュースネットワーク.md "wikilink")（FNN）の公式ウェブサイト「FNN.jpプライムオンライン」において実施している。対象の番組は以下のとおり（2019年時点）。
 
   - [FNN Live News days](https://ja.wikipedia.org/wiki/FNN_Live_News_days "wikilink")（ローカル枠）
   - [石川さん Live News it\!](https://ja.wikipedia.org/wiki/石川さん_Live_News_it! "wikilink")

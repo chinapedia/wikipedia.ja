@@ -5,7 +5,7 @@
 
 ## 概要
 
-創刊以来『**りぼんオリジナル**』の誌名で発行されていたが、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")12月号から雑誌名を**RIBONオリジナル**に変更、『[りぼん](https://ja.wikipedia.org/wiki/りぼん "wikilink")』の派生誌のイメージを極力薄めるリニューアルを実施した。若手作家や\<\!--\>本誌で連載を任される機会のない\<--\>中堅作家の読みきり作品を主体とし、ベテラン作家の連載は1、2作程度に留めた内容であった。
+創刊以来『**りぼんオリジナル**』の誌名で発行されていたが、[2005年](../Page/2005年.md "wikilink")12月号から雑誌名を**RIBONオリジナル**に変更、『[りぼん](https://ja.wikipedia.org/wiki/りぼん "wikilink")』の派生誌のイメージを極力薄めるリニューアルを実施した。若手作家や\<\!--\>本誌で連載を任される機会のない\<--\>中堅作家の読みきり作品を主体とし、ベテラン作家の連載は1、2作程度に留めた内容であった。
 
 リニューアルから3号目に当たる2006年4月号にベテラン作家の連載がすべて終了。次号（同年6月号）にて廃刊となった。なお廃刊号では表紙に『りぼん』本誌の連載作品のキャラクターを載せるという、リニューアル前の形式が取られた。
 
@@ -14,26 +14,26 @@
   - 表紙は『[りぼん](https://ja.wikipedia.org/wiki/りぼん "wikilink")』本誌の連載作品のキャラクターから『RIBONオリジナル』掲載作品のキャラクターに変更。
   - タイトルロゴの大幅な変更。
   - ベテラン作家による連載を前面に押し立てるスタイル。
-      - その際起用されたのは[椎名あゆみ](https://ja.wikipedia.org/wiki/椎名あゆみ "wikilink")・[倉橋えりか](https://ja.wikipedia.org/wiki/倉橋えりか "wikilink")・[高須賀由枝](https://ja.wikipedia.org/wiki/高須賀由枝 "wikilink")。
+      - その際起用されたのは[椎名あゆみ](../Page/椎名あゆみ.md "wikilink")・[倉橋えりか](../Page/倉橋えりか.md "wikilink")・[高須賀由枝](../Page/高須賀由枝.md "wikilink")。
 
 ### 『りぼんオリジナル』から引き継がれた点
 
   - 若手や中堅作家の読みきりは引き続き掲載。
       - ただし全体的に大人っぽい作風の漫画家が起用されている。
-  - 『[紳士同盟†](https://ja.wikipedia.org/wiki/紳士同盟† "wikilink")』（[種村有菜](../Page/種村有菜.md "wikilink")）の番外編の掲載。
+  - 『[紳士同盟†](../Page/紳士同盟†.md "wikilink")』（[種村有菜](../Page/種村有菜.md "wikilink")）の番外編の掲載。
   - ギャグ＆ショートが一部『りぼん』本誌の連載と共通。
 
 ## 連載作品
 
-  - [聖・ドラゴンガール](https://ja.wikipedia.org/wiki/聖・ドラゴンガール "wikilink")（[松本夏実](../Page/松本夏実.md "wikilink")）
-  - [保育園へ行こう\!](https://ja.wikipedia.org/wiki/保育園へ行こう! "wikilink")（[樫の木ちゃん](https://ja.wikipedia.org/wiki/樫の木ちゃん "wikilink")）
+  - [聖・ドラゴンガール](../Page/聖・ドラゴンガール.md "wikilink")（[松本夏実](../Page/松本夏実.md "wikilink")）
+  - [保育園へ行こう\!](../Page/保育園へ行こう!.md "wikilink")（[樫の木ちゃん](../Page/樫の木ちゃん.md "wikilink")）
       - いずれの作品も後に『りぼん』本誌の連載に移行。
-  - [君は青空の下にいる](https://ja.wikipedia.org/wiki/君は青空の下にいる "wikilink") （[森本里菜](https://ja.wikipedia.org/wiki/森本里菜 "wikilink")）
+  - [君は青空の下にいる](https://ja.wikipedia.org/wiki/君は青空の下にいる "wikilink") （[森本里菜](../Page/森本里菜.md "wikilink")）
       - 『りぼんびっくり大増刊号』や『りぼん』本誌にも発表された。
   - [有閑倶楽部](../Page/有閑倶楽部.md "wikilink") （[一条ゆかり](../Page/一条ゆかり.md "wikilink")）
-      - 後に『[マーガレット](../Page/マーガレット_\(雑誌\).md "wikilink")』や『[コーラス](https://ja.wikipedia.org/wiki/Cocohana "wikilink")』にも発表。
+      - 後に『[マーガレット](../Page/マーガレット_\(雑誌\).md "wikilink")』や『[コーラス](../Page/Cocohana.md "wikilink")』にも発表。
   - [ポポロクロイス ピノンの大冒険](../Page/ポポロクロイス_\(アニメ\).md "wikilink")　（[井上多美子](https://ja.wikipedia.org/wiki/井上多美子 "wikilink")）
-  - [シュガーポット](../Page/シュガーポット.md "wikilink")シリーズ（[高須賀由枝](https://ja.wikipedia.org/wiki/高須賀由枝 "wikilink")）
+  - [シュガーポット](../Page/シュガーポット.md "wikilink")シリーズ（[高須賀由枝](../Page/高須賀由枝.md "wikilink")）
   - チャレンジャー（高井祐）
 
 ## 発行部数

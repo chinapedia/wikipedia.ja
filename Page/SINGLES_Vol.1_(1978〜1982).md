@@ -1,9 +1,9 @@
 > この記事は[SINGLES Vol.1 \(19781982\)](https://ja.wikipedia.org/wiki/SINGLES_Vol.1_\(19781982\))から翻訳されています。
 
 
-『**SINGLES Vol.1 (1978〜1982)**』（シングルス・ボリューム・ワン）は日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[長渕剛](../Page/長渕剛.md "wikilink")の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")である。
+『**SINGLES Vol.1 (1978〜1982)**』（シングルス・ボリューム・ワン）は日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[長渕剛](../Page/長渕剛.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")である。
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[12月10日](https://ja.wikipedia.org/wiki/12月10日 "wikilink")に[東芝EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")／エキスプレスよりリリースされた。また、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月8日](../Page/3月8日.md "wikilink")には24ビット・デジタル・リマスタリング化されて再リリースされている。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[12月10日](../Page/12月10日.md "wikilink")に[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")／エキスプレスよりリリースされた。また、[2006年](../Page/2006年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")には24ビット・デジタル・リマスタリング化されて再リリースされている。
 
 [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")〜[1982年](../Page/1982年.md "wikilink")までのシングル曲を全て収録している。2枚組。
 
@@ -23,21 +23,21 @@
 2.  **帰り道** ※
       -
         （作詞・作曲：長渕剛／編曲：鈴木茂）
-3.  **[俺らの家まで](https://ja.wikipedia.org/wiki/俺らの家まで "wikilink")**
+3.  **[俺らの家まで](../Page/俺らの家まで.md "wikilink")**
       -
-        （作詞・作曲：長渕剛／編曲：[石川鷹彦](https://ja.wikipedia.org/wiki/石川鷹彦 "wikilink")）
+        （作詞・作曲：長渕剛／編曲：[石川鷹彦](../Page/石川鷹彦.md "wikilink")）
 4.  **ジャック・エンジェル** ※
       -
         （作詞・作曲：長渕剛／編曲：石川鷹彦）
-5.  **[祈り](https://ja.wikipedia.org/wiki/祈り_\(長渕剛の曲\) "wikilink")**
+5.  **[祈り](../Page/祈り_\(長渕剛の曲\).md "wikilink")**
       -
-        （作詞・作曲：長渕剛／編曲：[佐藤準](https://ja.wikipedia.org/wiki/佐藤準 "wikilink")）
+        （作詞・作曲：長渕剛／編曲：[佐藤準](../Page/佐藤準.md "wikilink")）
 6.  **恋のランデブー**
       -
         （作詞・作曲：長渕剛／編曲：石川鷹彦）
-7.  **[春待気流](https://ja.wikipedia.org/wiki/春待気流 "wikilink")**<small>（はるまちきりゅう）</small>
+7.  **[春待気流](../Page/春待気流.md "wikilink")**<small>（はるまちきりゅう）</small>
       -
-        （作詞・作曲：長渕剛／編曲：[瀬尾一三](https://ja.wikipedia.org/wiki/瀬尾一三 "wikilink")）
+        （作詞・作曲：長渕剛／編曲：[瀬尾一三](../Page/瀬尾一三.md "wikilink")）
 8.  **冬の海** ※
       -
         （作詞・作曲：長渕剛／編曲：石川鷹彦）
@@ -50,25 +50,25 @@
 
 ### DISC-2
 
-1.  **[ヒロイン](https://ja.wikipedia.org/wiki/ヒロイン_\(長渕剛の曲\) "wikilink")**
+1.  **[ヒロイン](../Page/ヒロイン_\(長渕剛の曲\).md "wikilink")**
       -
         （作詞・作曲：長渕剛／編曲：瀬尾一三）
 2.  **Da\! Da\! Da\!**
       -
         （作詞・作曲・編曲：長渕剛）
-3.  **[夏の恋人](https://ja.wikipedia.org/wiki/夏の恋人_\(長渕剛の曲\) "wikilink")**
+3.  **[夏の恋人](../Page/夏の恋人_\(長渕剛の曲\).md "wikilink")**
       -
-        （作詞・作曲：長渕剛・[藤岡孝章](../Page/藤岡孝章.md "wikilink")・[山梨鐐平](https://ja.wikipedia.org/wiki/山梨鐐平 "wikilink")／編曲：瀬尾一三）
+        （作詞・作曲：長渕剛・[藤岡孝章](../Page/藤岡孝章.md "wikilink")・[山梨鐐平](../Page/山梨鐐平.md "wikilink")／編曲：瀬尾一三）
 4.  **クレイジーボーイ**
       -
         （作詞・作曲：長渕剛／編曲：瀬尾一三）
-5.  **[二人歩記](https://ja.wikipedia.org/wiki/二人歩記 "wikilink")**<small>（ふたりあるき）</small>
+5.  **[二人歩記](../Page/二人歩記.md "wikilink")**<small>（ふたりあるき）</small>
       -
         （作詞・作曲：長渕剛／編曲：徳武弘文、瀬尾一三）
 6.  **少しだけ ほほえみが** ※
       -
         （作詞・作曲・編曲：長渕剛）
-7.  **[花いちもんめ](https://ja.wikipedia.org/wiki/花いちもんめ_\(長渕剛の曲\) "wikilink")**
+7.  **[花いちもんめ](../Page/花いちもんめ_\(長渕剛の曲\).md "wikilink")**
       -
         （作詞：長渕剛・[松井五郎](https://ja.wikipedia.org/wiki/松井五郎 "wikilink")／作曲：長渕剛／編曲：長渕剛・瀬尾一三）
 8.  **日めくりの愛** ※

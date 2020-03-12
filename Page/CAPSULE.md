@@ -1,7 +1,7 @@
 > この記事は[CAPSULE](https://ja.wikipedia.org/wiki/CAPSULE)から翻訳されています。
 
 
-**CAPSULE**（カプセル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")。[2001年](../Page/2001年.md "wikilink")にメジャーデビュー。
+**CAPSULE**（カプセル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。[2001年](../Page/2001年.md "wikilink")にメジャーデビュー。
 
 ## メンバー
 
@@ -12,7 +12,7 @@
 
 ## 概要
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")でCAPSULEを結成。[2001年](../Page/2001年.md "wikilink")にCDデビュー\[1\]。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[東京都](../Page/東京都.md "wikilink")でCAPSULEを結成。[2001年](../Page/2001年.md "wikilink")にCDデビュー\[1\]。
 
 [音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")である[中田ヤスタカ](https://ja.wikipedia.org/wiki/中田ヤスタカ "wikilink")と、ボーカルの[こしじまとしこ](https://ja.wikipedia.org/wiki/こしじまとしこ "wikilink")による音楽ユニット。作曲や演奏、アレンジ、エンジニアリングなどボーカル以外の全てを担当する中田ヤスタカ自らが、ジャケットなどのアート・ワークやデザインも手がけるなどトータル・プロデュースを行っている。
 
@@ -22,9 +22,9 @@
 
 また、[中田ヤスタカ](https://ja.wikipedia.org/wiki/中田ヤスタカ "wikilink")がサウンドプロデュースをしている[Perfume](https://ja.wikipedia.org/wiki/Perfume "wikilink")はアルバム『[GAME](../Page/GAME_\(Perfumeのアルバム\).md "wikilink")』、『[⊿](https://ja.wikipedia.org/wiki/⊿_\(アルバム\) "wikilink")』、『[JPN](https://ja.wikipedia.org/wiki/JPN_\(アルバム\) "wikilink")』やシングル「[love the world](https://ja.wikipedia.org/wiki/love_the_world "wikilink")」、「[ワンルーム・ディスコ](https://ja.wikipedia.org/wiki/ワンルーム・ディスコ "wikilink")」などでオリコンチャート初登場1位にランクインしている\[5\]\[6\]\[7\]\[8\]\[9\]。
 
-その他、[きゃりーぱみゅぱみゅ](https://ja.wikipedia.org/wiki/きゃりーぱみゅぱみゅ "wikilink")\[10\]、[COLTEMONIKHA](../Page/COLTEMONIKHA.md "wikilink")のサウンドプロデュース、[MEG](https://ja.wikipedia.org/wiki/MEG "wikilink")、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")、[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")、[青山テルマ](https://ja.wikipedia.org/wiki/青山テルマ "wikilink")、[鈴木亜美](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")、[リア・ディゾン](https://ja.wikipedia.org/wiki/リア・ディゾン "wikilink")等各種アーティストへの楽曲提供・リミキサーとしても参加。
+その他、[きゃりーぱみゅぱみゅ](https://ja.wikipedia.org/wiki/きゃりーぱみゅぱみゅ "wikilink")\[10\]、[COLTEMONIKHA](../Page/COLTEMONIKHA.md "wikilink")のサウンドプロデュース、[MEG](https://ja.wikipedia.org/wiki/MEG "wikilink")、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")、[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")、[青山テルマ](https://ja.wikipedia.org/wiki/青山テルマ "wikilink")、[鈴木亜美](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")、[リア・ディゾン](../Page/リア・ディゾン.md "wikilink")等各種アーティストへの楽曲提供・リミキサーとしても参加。
 
-2013年秋に[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")（[unBORDE](https://ja.wikipedia.org/wiki/unBORDE "wikilink")）へ移籍するとともに、表記を大文字の「CAPSULE」に変更\[11\]。
+2013年秋に[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")（[unBORDE](https://ja.wikipedia.org/wiki/unBORDE "wikilink")）へ移籍するとともに、表記を大文字の「CAPSULE」に変更\[11\]。
 
 ## ディスコグラフィー
 
@@ -260,26 +260,26 @@ B1.the Time is Now</p></td>
 
 ### アルバム
 
-|                                                                                                                                                      | 発売日         | タイトル                                                                                                          | 順位   |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------- | ---- |
-| capsule名義 / [contemode](https://ja.wikipedia.org/wiki/contemode "wikilink")（[ヤマハミュージックコミュニケーションズ](../Page/ヤマハミュージックコミュニケーションズ.md "wikilink")）        |             |                                                                                                               |      |
-| 1                                                                                                                                                    | 2001年11月21日 | **[ハイカラ・ガール](https://ja.wikipedia.org/wiki/ハイカラ・ガール "wikilink")**                                             | \-   |
-| 2                                                                                                                                                    | 2003年3月19日  | **[CUTIE CINEMA REPLAY](https://ja.wikipedia.org/wiki/CUTIE_CINEMA_REPLAY "wikilink")**                       | 232位 |
-| 3                                                                                                                                                    | 2003年11月19日 | **[phony phonic](https://ja.wikipedia.org/wiki/phony_phonic "wikilink")**                                     | 120位 |
-| 4                                                                                                                                                    | 2004年6月9日   | **[S.F. sound furniture](https://ja.wikipedia.org/wiki/S.F._sound_furniture "wikilink")**                     | 35位  |
-| 5                                                                                                                                                    | 2005年2月9日   | **[NEXUS-2060](https://ja.wikipedia.org/wiki/NEXUS-2060 "wikilink")**                                         | 59位  |
-| 6                                                                                                                                                    | 2005年9月21日  | **[L.D.K. Lounge Designers Killer](https://ja.wikipedia.org/wiki/L.D.K._Lounge_Designers_Killer "wikilink")** | 49位  |
-| 7                                                                                                                                                    | 2006年5月10日  | **[FRUITS CLiPPER](https://ja.wikipedia.org/wiki/FRUITS_CLiPPER "wikilink")**                                 | 29位  |
-| 8                                                                                                                                                    | 2007年2月21日  | **[Sugarless GiRL](https://ja.wikipedia.org/wiki/Sugarless_GiRL "wikilink")**                                 | 25位  |
-| 9                                                                                                                                                    | 2007年12月5日  | **[FLASH BACK](https://ja.wikipedia.org/wiki/FLASH_BACK "wikilink")**                                         | 20位  |
-| 10                                                                                                                                                   | 2008年11月19日 | **[MORE\! MORE\! MORE\!](https://ja.wikipedia.org/wiki/MORE!_MORE!_MORE! "wikilink")**                        | 6位   |
-| 11                                                                                                                                                   | 2010年3月3日   | **[PLAYER](https://ja.wikipedia.org/wiki/PLAYER_\(capsuleのアルバム\) "wikilink")**                                | 4位   |
-| 12                                                                                                                                                   | 2011年5月25日  | **[WORLD OF FANTASY](https://ja.wikipedia.org/wiki/WORLD_OF_FANTASY "wikilink")**                             | 3位   |
-| 13                                                                                                                                                   | 2012年3月7日   | **[STEREO WORXXX](https://ja.wikipedia.org/wiki/STEREO_WORXXX "wikilink")**                                   | 5位   |
-| CAPSULE名義 / [unBORDE](https://ja.wikipedia.org/wiki/unBORDE "wikilink")（[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")） |             |                                                                                                               |      |
-| 14                                                                                                                                                   | 2013年10月23日 | **[CAPS LOCK](https://ja.wikipedia.org/wiki/CAPS_LOCK "wikilink")**                                           | 13位  |
-| 15                                                                                                                                                   | 2015年2月18日  | **[WAVE RUNNER](https://ja.wikipedia.org/wiki/WAVE_RUNNER "wikilink")**                                       | 5位   |
-|                                                                                                                                                      |             |                                                                                                               |      |
+|                                                                                                                                               | 発売日         | タイトル                                                                                                          | 順位   |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------- | ---- |
+| capsule名義 / [contemode](https://ja.wikipedia.org/wiki/contemode "wikilink")（[ヤマハミュージックコミュニケーションズ](../Page/ヤマハミュージックコミュニケーションズ.md "wikilink")） |             |                                                                                                               |      |
+| 1                                                                                                                                             | 2001年11月21日 | **[ハイカラ・ガール](https://ja.wikipedia.org/wiki/ハイカラ・ガール "wikilink")**                                             | \-   |
+| 2                                                                                                                                             | 2003年3月19日  | **[CUTIE CINEMA REPLAY](https://ja.wikipedia.org/wiki/CUTIE_CINEMA_REPLAY "wikilink")**                       | 232位 |
+| 3                                                                                                                                             | 2003年11月19日 | **[phony phonic](https://ja.wikipedia.org/wiki/phony_phonic "wikilink")**                                     | 120位 |
+| 4                                                                                                                                             | 2004年6月9日   | **[S.F. sound furniture](https://ja.wikipedia.org/wiki/S.F._sound_furniture "wikilink")**                     | 35位  |
+| 5                                                                                                                                             | 2005年2月9日   | **[NEXUS-2060](https://ja.wikipedia.org/wiki/NEXUS-2060 "wikilink")**                                         | 59位  |
+| 6                                                                                                                                             | 2005年9月21日  | **[L.D.K. Lounge Designers Killer](https://ja.wikipedia.org/wiki/L.D.K._Lounge_Designers_Killer "wikilink")** | 49位  |
+| 7                                                                                                                                             | 2006年5月10日  | **[FRUITS CLiPPER](https://ja.wikipedia.org/wiki/FRUITS_CLiPPER "wikilink")**                                 | 29位  |
+| 8                                                                                                                                             | 2007年2月21日  | **[Sugarless GiRL](https://ja.wikipedia.org/wiki/Sugarless_GiRL "wikilink")**                                 | 25位  |
+| 9                                                                                                                                             | 2007年12月5日  | **[FLASH BACK](https://ja.wikipedia.org/wiki/FLASH_BACK "wikilink")**                                         | 20位  |
+| 10                                                                                                                                            | 2008年11月19日 | **[MORE\! MORE\! MORE\!](https://ja.wikipedia.org/wiki/MORE!_MORE!_MORE! "wikilink")**                        | 6位   |
+| 11                                                                                                                                            | 2010年3月3日   | **[PLAYER](https://ja.wikipedia.org/wiki/PLAYER_\(capsuleのアルバム\) "wikilink")**                                | 4位   |
+| 12                                                                                                                                            | 2011年5月25日  | **[WORLD OF FANTASY](https://ja.wikipedia.org/wiki/WORLD_OF_FANTASY "wikilink")**                             | 3位   |
+| 13                                                                                                                                            | 2012年3月7日   | **[STEREO WORXXX](https://ja.wikipedia.org/wiki/STEREO_WORXXX "wikilink")**                                   | 5位   |
+| CAPSULE名義 / [unBORDE](https://ja.wikipedia.org/wiki/unBORDE "wikilink")（[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")）             |             |                                                                                                               |      |
+| 14                                                                                                                                            | 2013年10月23日 | **[CAPS LOCK](https://ja.wikipedia.org/wiki/CAPS_LOCK "wikilink")**                                           | 13位  |
+| 15                                                                                                                                            | 2015年2月18日  | **[WAVE RUNNER](https://ja.wikipedia.org/wiki/WAVE_RUNNER "wikilink")**                                       | 5位   |
+|                                                                                                                                               |             |                                                                                                               |      |
 
 ### ベストアルバム
 
@@ -423,37 +423,37 @@ B1.the Time is Now</p></td>
 
 ## タイアップ
 
-| 曲名                | タイアップ                                                                                                                                                                                                                                               |
-| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| さくら               | [TBS系](../Page/TBSテレビ.md "wikilink")『[エクスプレス](https://ja.wikipedia.org/wiki/エクスプレス_\(テレビ番組\) "wikilink")』お天気コーナー使用曲                                                                                                                                 |
-| 花火                | TBS系『エクスプレス』お天気コーナー使用曲                                                                                                                                                                                                                              |
-| 一つ二つ三つ            | [ハドソン](../Page/ハドソン.md "wikilink")[PlayStation 2用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『ドリフトチャンプ』テーマソング                                                                                                                       |
-| music controller  | テレビ東京『[ミュージックブレイク](https://ja.wikipedia.org/wiki/ミュージックブレイク "wikilink")』『イチオシ』エンディングテーマ                                                                                                                                                             |
-| プラスチックガール         | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[給与明細](https://ja.wikipedia.org/wiki/給与明細_\(テレビ番組\) "wikilink")』エンディングテーマ                                                                                                                  |
-| キャンディーキューティー      | テレビ東京系『給与明細』エンディングテーマ                                                                                                                                                                                                                               |
-| レトロメモリー           | [ハウス食品](../Page/ハウス食品.md "wikilink")「おうちで食べよう。」第二弾キャンペーン〈ソリ遊び編〉・〈道草編〉CMソング                                                                                                                                                                          |
-| 宇宙エレベーター          | [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『\[\[アイドリング                                                                                                                                                                              |
-| Lucky Love        | [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『\[\[スッキリ                                                                                                                                                                                                   |
-| グライダー             | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[やりすぎコージー](https://ja.wikipedia.org/wiki/やりすぎコージー "wikilink")』エンディングテーマ/『[abnステーション](https://ja.wikipedia.org/wiki/abnステーション "wikilink")』（[長野朝日放送](../Page/長野朝日放送.md "wikilink")）エンディングテーマ |
-| FRUITS CLiPPER    | [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[ゲームセンターCX](https://ja.wikipedia.org/wiki/ゲームセンターCX "wikilink")』プレゼントコーナー使用曲/『abnステーション』オープニングテーマ                                                                                       |
-| Starry Sky        | [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[密室謎解きバラエティー 脱出ゲームDERO\!](https://ja.wikipedia.org/wiki/密室謎解きバラエティー_脱出ゲームDERO! "wikilink")』エンディングテーマ                                                                                                       |
-| FLASH BACK        | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[極嬢ヂカラ](https://ja.wikipedia.org/wiki/極嬢ヂカラ "wikilink")』テーマ曲                                                                                                                               |
-| THE CLIMAX        | テレビ東京系『極嬢ヂカラ Premium』テーマ曲                                                                                                                                                                                                                           |
-| more more more    | [テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[シルシルミシル](https://ja.wikipedia.org/wiki/シルシルミシル "wikilink")』オープニングテーマ/[花王](../Page/花王.md "wikilink")エッセンシャルCMソング                                                                                              |
-| JUMPER            | [テレビ愛知](../Page/テレビ愛知.md "wikilink")『a-ha-N varie』エンディングテーマ                                                                                                                                                                                         |
-| Phantom           | CYCLEMODE international 2008 イメージソング                                                                                                                                                                                                                |
-| Pleasure ground   | [TBS系列](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")『[どうぶつ奇想天外\!](../Page/どうぶつ奇想天外!.md "wikilink")』エンディングテーマ                                                                                                                        |
-| e.d.i.t.          | テレビ東京系『[音遊人](https://ja.wikipedia.org/wiki/音遊人 "wikilink")』オープニングテーマ/[TBS](https://ja.wikipedia.org/wiki/TBS "wikilink")系『[好きか嫌いか言う時間](https://ja.wikipedia.org/wiki/好きか嫌いか言う時間 "wikilink")』オープニング・エンディングテーマ                                        |
-| Stay with You     | [映画](../Page/映画.md "wikilink")『[LIAR GAME The final Stage](https://ja.wikipedia.org/wiki/LIAR_GAME_\(テレビドラマ\)#映画 "wikilink")』[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")                                                                    |
-| Hello             | 「[iida PRISMOID](https://ja.wikipedia.org/wiki/PRISMOID "wikilink")」「[iida PLY](https://ja.wikipedia.org/wiki/PLY "wikilink")」CMソング                                                                                                                 |
-| Love or Lies      | 映画『LIAR GAME The final Stage』挿入歌                                                                                                                                                                                                                    |
-| WORLD OF FANTASY  | [パイオニア](https://ja.wikipedia.org/wiki/パイオニア "wikilink") [カロッツェリア](../Page/カロッツェリア_\(AV機器\).md "wikilink")「[サイバーナビ](https://ja.wikipedia.org/wiki/サイバーナビ "wikilink")」CMソング                                                                           |
-| PRIME TIME        | [バンタンデザイン研究所CMソング](https://ja.wikipedia.org/wiki/バンタングループ "wikilink")                                                                                                                                                                               |
-| Step on The Floor | 映画『[LIAR GAME -再生-](https://ja.wikipedia.org/wiki/LIAR_GAME_\(テレビドラマ\)#LIAR_GAME_-.E5.86.8D.E7.94.9F- "wikilink")』主題歌                                                                                                                               |
-| All The Way       | 映画『LIAR GAME -再生-』挿入歌                                                                                                                                                                                                                               |
-| Motor Force       | アプリ「チャリ走DX」capsule stage BGM                                                                                                                                                                                                                        |
-| Beyond The Sky    | パイオニア カロッツェリア「サイバーナビ」CMソング                                                                                                                                                                                                                          |
-|                   |                                                                                                                                                                                                                                                     |
+| 曲名                | タイアップ                                                                                                                                                                                                                            |
+| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| さくら               | [TBS系](../Page/TBSテレビ.md "wikilink")『[エクスプレス](../Page/エクスプレス_\(テレビ番組\).md "wikilink")』お天気コーナー使用曲                                                                                                                                 |
+| 花火                | TBS系『エクスプレス』お天気コーナー使用曲                                                                                                                                                                                                           |
+| 一つ二つ三つ            | [ハドソン](../Page/ハドソン.md "wikilink")[PlayStation 2用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『ドリフトチャンプ』テーマソング                                                                                                    |
+| music controller  | テレビ東京『[ミュージックブレイク](https://ja.wikipedia.org/wiki/ミュージックブレイク "wikilink")』『イチオシ』エンディングテーマ                                                                                                                                          |
+| プラスチックガール         | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[給与明細](../Page/給与明細_\(テレビ番組\).md "wikilink")』エンディングテーマ                                                                                                                  |
+| キャンディーキューティー      | テレビ東京系『給与明細』エンディングテーマ                                                                                                                                                                                                            |
+| レトロメモリー           | [ハウス食品](../Page/ハウス食品.md "wikilink")「おうちで食べよう。」第二弾キャンペーン〈ソリ遊び編〉・〈道草編〉CMソング                                                                                                                                                       |
+| 宇宙エレベーター          | [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『\[\[アイドリング                                                                                                                                                           |
+| Lucky Love        | [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『\[\[スッキリ                                                                                                                                                                                |
+| グライダー             | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[やりすぎコージー](../Page/やりすぎコージー.md "wikilink")』エンディングテーマ/『[abnステーション](https://ja.wikipedia.org/wiki/abnステーション "wikilink")』（[長野朝日放送](../Page/長野朝日放送.md "wikilink")）エンディングテーマ |
+| FRUITS CLiPPER    | [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[ゲームセンターCX](https://ja.wikipedia.org/wiki/ゲームセンターCX "wikilink")』プレゼントコーナー使用曲/『abnステーション』オープニングテーマ                                                                    |
+| Starry Sky        | [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[密室謎解きバラエティー 脱出ゲームDERO\!](https://ja.wikipedia.org/wiki/密室謎解きバラエティー_脱出ゲームDERO! "wikilink")』エンディングテーマ                                                                                    |
+| FLASH BACK        | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[極嬢ヂカラ](https://ja.wikipedia.org/wiki/極嬢ヂカラ "wikilink")』テーマ曲                                                                                                            |
+| THE CLIMAX        | テレビ東京系『極嬢ヂカラ Premium』テーマ曲                                                                                                                                                                                                        |
+| more more more    | [テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[シルシルミシル](https://ja.wikipedia.org/wiki/シルシルミシル "wikilink")』オープニングテーマ/[花王](../Page/花王.md "wikilink")エッセンシャルCMソング                                                                           |
+| JUMPER            | [テレビ愛知](../Page/テレビ愛知.md "wikilink")『a-ha-N varie』エンディングテーマ                                                                                                                                                                      |
+| Phantom           | CYCLEMODE international 2008 イメージソング                                                                                                                                                                                             |
+| Pleasure ground   | [TBS系列](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")『[どうぶつ奇想天外\!](../Page/どうぶつ奇想天外!.md "wikilink")』エンディングテーマ                                                                                                     |
+| e.d.i.t.          | テレビ東京系『[音遊人](https://ja.wikipedia.org/wiki/音遊人 "wikilink")』オープニングテーマ/[TBS](https://ja.wikipedia.org/wiki/TBS "wikilink")系『[好きか嫌いか言う時間](https://ja.wikipedia.org/wiki/好きか嫌いか言う時間 "wikilink")』オープニング・エンディングテーマ                     |
+| Stay with You     | [映画](../Page/映画.md "wikilink")『[LIAR GAME The final Stage](https://ja.wikipedia.org/wiki/LIAR_GAME_\(テレビドラマ\)#映画 "wikilink")』[主題歌](../Page/主題歌.md "wikilink")                                                                    |
+| Hello             | 「[iida PRISMOID](https://ja.wikipedia.org/wiki/PRISMOID "wikilink")」「[iida PLY](https://ja.wikipedia.org/wiki/PLY "wikilink")」CMソング                                                                                              |
+| Love or Lies      | 映画『LIAR GAME The final Stage』挿入歌                                                                                                                                                                                                 |
+| WORLD OF FANTASY  | [パイオニア](https://ja.wikipedia.org/wiki/パイオニア "wikilink") [カロッツェリア](../Page/カロッツェリア_\(AV機器\).md "wikilink")「[サイバーナビ](https://ja.wikipedia.org/wiki/サイバーナビ "wikilink")」CMソング                                                        |
+| PRIME TIME        | [バンタンデザイン研究所CMソング](https://ja.wikipedia.org/wiki/バンタングループ "wikilink")                                                                                                                                                            |
+| Step on The Floor | 映画『[LIAR GAME -再生-](https://ja.wikipedia.org/wiki/LIAR_GAME_\(テレビドラマ\)#LIAR_GAME_-.E5.86.8D.E7.94.9F- "wikilink")』主題歌                                                                                                            |
+| All The Way       | 映画『LIAR GAME -再生-』挿入歌                                                                                                                                                                                                            |
+| Motor Force       | アプリ「チャリ走DX」capsule stage BGM                                                                                                                                                                                                     |
+| Beyond The Sky    | パイオニア カロッツェリア「サイバーナビ」CMソング                                                                                                                                                                                                       |
+|                   |                                                                                                                                                                                                                                  |
 
 ## 主なライブ
 
@@ -471,7 +471,7 @@ B1.the Time is Now</p></td>
 
   - 2008年08月03日 - [ROCK IN JAPAN FESTIVAL](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink") 2008
   - 2009年08月14日 - [RISING SUN ROCK FESTIVAL](https://ja.wikipedia.org/wiki/RISING_SUN_ROCK_FESTIVAL "wikilink") 2009 in EZO
-  - 2009年12月31日 - [COUNTDOWN JAPAN](https://ja.wikipedia.org/wiki/COUNTDOWN_JAPAN "wikilink") 09/10
+  - 2009年12月31日 - [COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 09/10
   - 2010年08月06日 - ROCK IN JAPAN FESTIVAL 2010
   - 2010年12月31日 - COUNTDOWN JAPAN 10/11
   - 2011年08月06日 - ROCK IN JAPAN FESTIVAL 2011
@@ -497,7 +497,7 @@ B1.the Time is Now</p></td>
 ### ラジオ
 
   - [NACK5](../Page/エフエムナックファイブ.md "wikilink") 『ハイカラカプセル』 （月曜日深夜0時 - 0時30分、- [2003年](../Page/2003年.md "wikilink")[9月](../Page/9月.md "wikilink")）
-  - [α-STATION](../Page/エフエム京都.md "wikilink") 『[MAGICAL STREAM](https://ja.wikipedia.org/wiki/MAGICAL_STREAM "wikilink")』（金曜日担当、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - [12月](https://ja.wikipedia.org/wiki/12月 "wikilink")）
+  - [α-STATION](../Page/エフエム京都.md "wikilink") 『[MAGICAL STREAM](../Page/MAGICAL_STREAM.md "wikilink")』（金曜日担当、[2005年](../Page/2005年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - [12月](https://ja.wikipedia.org/wiki/12月 "wikilink")）
 
 ## 脚注
 

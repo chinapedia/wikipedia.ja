@@ -9,7 +9,7 @@
 
 "L"の特徴は、ダウンタウンの中心部を[環状線で結び](https://ja.wikipedia.org/wiki/放射線・環状線 "wikilink")、郊外から都心部へまた都心部から郊外へスムーズに往来できるように設計されている点である。この環状線に囲まれた地区は東西に500m、南北に900mに及び、**[ループ](https://ja.wikipedia.org/wiki/ループ_\(シカゴ交通局\) "wikilink")**(Loop)と呼ばれている。
 
-[ニューヨーク市地下鉄](https://ja.wikipedia.org/wiki/ニューヨーク市地下鉄 "wikilink")と同じく、24時間運行を行っている。
+[ニューヨーク市地下鉄](../Page/ニューヨーク市地下鉄.md "wikilink")と同じく、24時間運行を行っている。
 
 ## 路線一覧
 
@@ -24,7 +24,7 @@
 <!-- end list -->
 
   -
-    都心を縦断し、南北に走る路線。北に[シカゴ・カブス](https://ja.wikipedia.org/wiki/シカゴ・カブス "wikilink")本拠地の[リグレー・フィールド](../Page/リグレー・フィールド.md "wikilink")、南に[シカゴ・ホワイトソックス](https://ja.wikipedia.org/wiki/シカゴ・ホワイトソックス "wikilink")本拠地の[USセルラー・フィールド](https://ja.wikipedia.org/wiki/USセルラー・フィールド "wikilink")に隣接・近接する駅を有する。
+    都心を縦断し、南北に走る路線。北に[シカゴ・カブス](../Page/シカゴ・カブス.md "wikilink")本拠地の[リグレー・フィールド](../Page/リグレー・フィールド.md "wikilink")、南に[シカゴ・ホワイトソックス](../Page/シカゴ・ホワイトソックス.md "wikilink")本拠地の[USセルラー・フィールド](https://ja.wikipedia.org/wiki/USセルラー・フィールド "wikilink")に隣接・近接する駅を有する。
 
 <!-- end list -->
 
@@ -42,7 +42,7 @@
 <!-- end list -->
 
   -
-    南西の[ミッドウェー国際空港とループを結ぶ](https://ja.wikipedia.org/wiki/シカゴ・ミッドウェー国際空港 "wikilink")。
+    南西の[ミッドウェー国際空港とループを結ぶ](../Page/シカゴ・ミッドウェー国際空港.md "wikilink")。
 
 <!-- end list -->
 
@@ -105,11 +105,11 @@ CTAバスとの乗換は初回25セント・2回目無料。
 
 ### 空港への接続
 
-  - "L" は[オヘア国際空港](../Page/シカゴ・オヘア国際空港.md "wikilink") (Blue Line) 及び [ミッドウェー国際空港](https://ja.wikipedia.org/wiki/シカゴ・ミッドウェー国際空港 "wikilink") (Orange Line) の両方に直接接続している。
+  - "L" は[オヘア国際空港](../Page/シカゴ・オヘア国際空港.md "wikilink") (Blue Line) 及び [ミッドウェー国際空港](../Page/シカゴ・ミッドウェー国際空港.md "wikilink") (Orange Line) の両方に直接接続している。
 
 ### 長距離列車、都市間バスへの接続
 
-[アムトラック](../Page/アムトラック.md "wikilink")(Amtrak)・[メトラ](https://ja.wikipedia.org/wiki/メトラ "wikilink")(Metra) の鉄道、及び[グレイハウンドバスとの直接の接続はない](https://ja.wikipedia.org/wiki/グレイハウンド_\(バス\) "wikilink")。ダウンタウン主要ターミナルへの"L"からの最寄駅は以下の通り。
+[アムトラック](../Page/アムトラック.md "wikilink")(Amtrak)・[メトラ](https://ja.wikipedia.org/wiki/メトラ "wikilink")(Metra) の鉄道、及び[グレイハウンドバスとの直接の接続はない](../Page/グレイハウンド_\(バス\).md "wikilink")。ダウンタウン主要ターミナルへの"L"からの最寄駅は以下の通り。
 
   - [シカゴ・ユニオン駅](https://ja.wikipedia.org/wiki/ユニオン駅_\(シカゴ\) "wikilink") (Union Station)
 
@@ -134,7 +134,7 @@ CTAバスとの乗換は初回25セント・2回目無料。
 <!-- end list -->
 
   -
-    メトラ及び[サウスショアー線](https://ja.wikipedia.org/wiki/サウスショアー線 "wikilink")のターミナル。"L" のRandolph駅 (ループのBrown/Orange/Green/Pink/Purple Line) から東へ2ブロック。
+    メトラ及び[サウスショアー線](../Page/サウスショアー線.md "wikilink")のターミナル。"L" のRandolph駅 (ループのBrown/Orange/Green/Pink/Purple Line) から東へ2ブロック。
 
 <!-- end list -->
 
@@ -168,19 +168,19 @@ CTAバスとの乗換は初回25セント・2回目無料。
 
 ## ゲーム
 
-  - 2006年12月21日発売の[プレイステーション3用ソフト](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")「[Railfan](https://ja.wikipedia.org/wiki/Railfan "wikilink")」にてシカゴ・LのBrown Lineのループ区間が収録されている。また、同時期に「[電車でGO\!](../Page/電車でGO!.md "wikilink")」のモバイル版で同路線が収録されている。
-  - 2013年発売の[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")・[4](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")、[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink")、[WiiU](https://ja.wikipedia.org/wiki/WiiU "wikilink")、[Xbox 360](../Page/Xbox_360.md "wikilink")・[One用ソフト](https://ja.wikipedia.org/wiki/Xbox_One "wikilink")[ウォッチドッグス](https://ja.wikipedia.org/wiki/ウォッチドッグス "wikilink")の中では、ゲーム内のシステムで統括制御されているという設定となっており、主人公がハッキングすることが出来る。ただし車両は実車を模しておらず、[ニューヨーク市地下鉄](https://ja.wikipedia.org/wiki/ニューヨーク市地下鉄 "wikilink")に似た電車が走行している。
+  - 2006年12月21日発売の[プレイステーション3用ソフト](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")「[Railfan](../Page/Railfan.md "wikilink")」にてシカゴ・LのBrown Lineのループ区間が収録されている。また、同時期に「[電車でGO\!](../Page/電車でGO!.md "wikilink")」のモバイル版で同路線が収録されている。
+  - 2013年発売の[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")・[4](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")、[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink")、[WiiU](https://ja.wikipedia.org/wiki/WiiU "wikilink")、[Xbox 360](../Page/Xbox_360.md "wikilink")・[One用ソフト](https://ja.wikipedia.org/wiki/Xbox_One "wikilink")[ウォッチドッグス](https://ja.wikipedia.org/wiki/ウォッチドッグス "wikilink")の中では、ゲーム内のシステムで統括制御されているという設定となっており、主人公がハッキングすることが出来る。ただし車両は実車を模しておらず、[ニューヨーク市地下鉄](../Page/ニューヨーク市地下鉄.md "wikilink")に似た電車が走行している。
 
 ## ギャラリー
 
-ファイル:Tower18NorthboundWellsPinkLine.jpg|Purple、Brown、Pink、Green、Orangeの[ダイヤモンドクロッシング](https://ja.wikipedia.org/wiki/ダイヤモンドクロッシング "wikilink") ファイル:CTA loop junction.jpg|ループ北西部にあるダイヤモンドクロッシングとコントロールタワー ファイル:CTA Night.jpg|夜のAdams/Wabash駅から北を望む ファイル:20090612 Chicago Loop view of the L Tracks, 35 East Wacker, and Trump International Hotel and Tower from Wabash Avenue.jpg|地上から高架鉄道を望む
+ファイル:Tower18NorthboundWellsPinkLine.jpg|Purple、Brown、Pink、Green、Orangeの[ダイヤモンドクロッシング](../Page/ダイヤモンドクロッシング.md "wikilink") ファイル:CTA loop junction.jpg|ループ北西部にあるダイヤモンドクロッシングとコントロールタワー ファイル:CTA Night.jpg|夜のAdams/Wabash駅から北を望む ファイル:20090612 Chicago Loop view of the L Tracks, 35 East Wacker, and Trump International Hotel and Tower from Wabash Avenue.jpg|地上から高架鉄道を望む
 
 ## 関連項目
 
   - [シカゴ交通局](https://ja.wikipedia.org/wiki/シカゴ交通局 "wikilink")
   - [シカゴの公共交通機関](https://ja.wikipedia.org/wiki/シカゴの公共交通機関 "wikilink")
   - [地下鉄一覧](https://ja.wikipedia.org/wiki/地下鉄一覧 "wikilink")
-  - [空港連絡鉄道](https://ja.wikipedia.org/wiki/空港連絡鉄道 "wikilink")
+  - [空港連絡鉄道](../Page/空港連絡鉄道.md "wikilink")
 
 ## 脚注
 

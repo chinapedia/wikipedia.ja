@@ -1,9 +1,9 @@
 > この記事は[SINGLES Vol.3 \(19881996\)](https://ja.wikipedia.org/wiki/SINGLES_Vol.3_\(19881996\))から翻訳されています。
 
 
-『**SINGLES Vol.3 (1988〜1996)**』（シングルス・ボリューム・スリー）は、日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[長渕剛](../Page/長渕剛.md "wikilink")の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")である。
+『**SINGLES Vol.3 (1988〜1996)**』（シングルス・ボリューム・スリー）は、日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[長渕剛](../Page/長渕剛.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")である。
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[12月10日](https://ja.wikipedia.org/wiki/12月10日 "wikilink")に[東芝EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")／エキスプレスよりリリースされた。また、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月8日](../Page/3月8日.md "wikilink")には24ビット・デジタル・リマスタリング化されて再リリースされている。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[12月10日](../Page/12月10日.md "wikilink")に[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")／エキスプレスよりリリースされた。また、[2006年](../Page/2006年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")には24ビット・デジタル・リマスタリング化されて再リリースされている。
 
 [1988年](../Page/1988年.md "wikilink")から[1996年](../Page/1996年.md "wikilink")までのシングル曲を全て収録している。全2枚組。
 
@@ -15,19 +15,19 @@
 
 ### DISC-1
 
-1.  **[とんぼ](https://ja.wikipedia.org/wiki/とんぼ_\(長渕剛の曲\) "wikilink")** （[TBS](../Page/TBSテレビ.md "wikilink") TVドラマ『[とんぼ](https://ja.wikipedia.org/wiki/とんぼ_\(テレビドラマ\) "wikilink")』主題歌）
+1.  **[とんぼ](../Page/とんぼ_\(長渕剛の曲\).md "wikilink")** （[TBS](../Page/TBSテレビ.md "wikilink") TVドラマ『[とんぼ](../Page/とんぼ_\(テレビドラマ\).md "wikilink")』主題歌）
       -
-        （作詞・作曲：長渕 剛／編曲：[瀬尾一三](https://ja.wikipedia.org/wiki/瀬尾一三 "wikilink")・長渕 剛）
+        （作詞・作曲：長渕 剛／編曲：[瀬尾一三](../Page/瀬尾一三.md "wikilink")・長渕 剛）
 2.  **STAY DREAM ('88 TOKYO DOME Live Version)** ※
       -
-        （作詞・作曲：長渕 剛／編曲：[中西康晴](https://ja.wikipedia.org/wiki/中西康晴 "wikilink")）
+        （作詞・作曲：長渕 剛／編曲：[中西康晴](../Page/中西康晴.md "wikilink")）
 3.  **[激愛](https://ja.wikipedia.org/wiki/激愛 "wikilink")** （[東映](../Page/東映.md "wikilink")映画『オルゴール』テーマソング）
       -
         （作詞・作曲：長渕 剛／編曲：瀬尾一三）
 4.  **あんたとあたいは数え唄 ('88 TOKYO DOME Live Version)** ※
       -
         （作詞・作曲：長渕 剛／編曲：瀬尾一三・長渕 剛）
-5.  **[しょっぱい三日月の夜](https://ja.wikipedia.org/wiki/しょっぱい三日月の夜 "wikilink")**（東映映画『[ウォータームーン](https://ja.wikipedia.org/wiki/ウォータームーン "wikilink")』テーマソング ）
+5.  **[しょっぱい三日月の夜](https://ja.wikipedia.org/wiki/しょっぱい三日月の夜 "wikilink")**（東映映画『[ウォータームーン](../Page/ウォータームーン.md "wikilink")』テーマソング ）
       -
         （作詞・作曲：長渕 剛／編曲：瀬尾一三）
 6.  **いつかの少年 ('89 YOKOHAMA ARENA Live Version)**
@@ -39,7 +39,7 @@
 8.  **女よ、ごめん** ※
       -
         （作詞・作曲・編曲：長渕 剛）
-9.  **[しゃぼん玉](../Page/しゃぼん玉_\(長渕剛の曲\).md "wikilink")**（[フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[しゃぼん玉](https://ja.wikipedia.org/wiki/しゃぼん玉_\(テレビドラマ\) "wikilink")』主題歌）
+9.  **[しゃぼん玉](../Page/しゃぼん玉_\(長渕剛の曲\).md "wikilink")**（[フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[しゃぼん玉](../Page/しゃぼん玉_\(テレビドラマ\).md "wikilink")』主題歌）
       -
         （作詞・作曲：長渕 剛／編曲：瀬尾一三・長渕 剛）
 10. **親知らず**
@@ -51,7 +51,7 @@
 1.  **[巡恋歌'92](https://ja.wikipedia.org/wiki/巡恋歌'92 "wikilink")**
       -
         （作詞・作曲：長渕 剛／編曲：瀬尾一三・長渕 剛）
-2.  **[俺らの家まで](https://ja.wikipedia.org/wiki/俺らの家まで "wikilink") ('92 TOKYO DOME Live Version)** ※
+2.  **[俺らの家まで](../Page/俺らの家まで.md "wikilink") ('92 TOKYO DOME Live Version)** ※
       -
         （作詞・作曲：長渕 剛／編曲：瀬尾一三・長渕 剛）
 3.  **[RUN](../Page/RUN_\(長渕剛の曲\).md "wikilink")**（TBS系ドラマ『RUN』主題歌）

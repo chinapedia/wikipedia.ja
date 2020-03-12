@@ -7,7 +7,7 @@
 
   - [サムネイル](https://ja.wikipedia.org/wiki/ファイル:Mucc_japanese_logo.svg "wikilink")**[逹瑯](https://ja.wikipedia.org/wiki/逹瑯 "wikilink")**（[1979年](../Page/1979年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink") - ） - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
   - **[ミヤ](https://ja.wikipedia.org/wiki/ミヤ_\(MUCC\) "wikilink")**（1979年[7月26日](../Page/7月26日.md "wikilink") - ） - [ギター](../Page/ギター.md "wikilink")・[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
-  - **[YUKKE](https://ja.wikipedia.org/wiki/YUKKE "wikilink")**（1979年[11月5日](../Page/11月5日.md "wikilink") - ） - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")（1999年2月22日加入）
+  - **[YUKKE](https://ja.wikipedia.org/wiki/YUKKE "wikilink")**（1979年[11月5日](../Page/11月5日.md "wikilink") - ） - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")（1999年2月22日加入）
   - **[SATOち](https://ja.wikipedia.org/wiki/SATOち "wikilink")**（1979年[8月12日](../Page/8月12日.md "wikilink") - ） - [ドラムス](../Page/ドラムセット.md "wikilink")
 
 ### 元メンバー
@@ -16,7 +16,7 @@
 
 ### サポート・メンバー
 
-  - **吉田トオル**（[ピアノ](../Page/ピアノ.md "wikilink")、[キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")（2017年、2019年〜2020年）
+  - **吉田トオル**（[ピアノ](../Page/ピアノ.md "wikilink")、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")（2017年、2019年〜2020年）
       - アルバム『[是空](https://ja.wikipedia.org/wiki/是空 "wikilink")』収録の「1979」、ベスト・アルバム『[BEST OF MUCC](https://ja.wikipedia.org/wiki/BEST_OF_MUCC "wikilink")』の初回盤Disc 2収録の『月の砂丘 Unplugged』にも参加している。
 
 ## 概要
@@ -25,33 +25,33 @@
 
 作詞は基本的に逹瑯、ミヤの2人が担当しているが、シングル「ホリゾント」のc/w「心色（ココイロ）」でYUKKEが、アルバム『極彩』収録の「キンセンカ」ではSATOちが初の作詞を担当した。作曲はミヤを中心にメンバー全員が行っており、メンバー内での共作も見られる。また2010年にリリースされたアルバム「カルマ」より、逹瑯による作曲が多くなっている。
 
-楽曲のプロデュースは、[岡野ハジメ](https://ja.wikipedia.org/wiki/岡野ハジメ "wikilink")や[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の[ken](https://ja.wikipedia.org/wiki/ken "wikilink")等、外部からプロデューサーを迎えていたが、近年はセルフプロデュースの割合が増えている。
+楽曲のプロデュースは、[岡野ハジメ](../Page/岡野ハジメ.md "wikilink")や[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の[ken](https://ja.wikipedia.org/wiki/ken "wikilink")等、外部からプロデューサーを迎えていたが、近年はセルフプロデュースの割合が増えている。
 
 様々なジャンルのアーティストとの共演や海外アーティストの来日公演のオープニング・アクトを務めており、中でも[Guns N' Rosesは](https://ja.wikipedia.org/wiki/ガンズ・アンド・ローゼズ "wikilink")2007年に続き2009年にも務めた。
 
 2005年以降は世界のメタル系フェスティバル「*Wacken* Open Air」への出演、単独ツアーなども行っている。2010年の[ROCKS TOKYOへの出演をきっかけに国内のロックフェスティバルへの出演も増えている](https://ja.wikipedia.org/wiki/ROCKS_TOKYO "wikilink")。また、インディーズ時代から対バン形式のイベント「えん」を2017年12月現在までに7度主催している。
 
-[2017年](../Page/2017年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")現在、世界各国では[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")（[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")・[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")・[スイス](../Page/スイス.md "wikilink")・[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")・[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")・[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[ハンガリー](../Page/ハンガリー.md "wikilink")・[フィンランド](https://ja.wikipedia.org/wiki/フィンランド "wikilink")・[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")・[ポーランド](../Page/ポーランド.md "wikilink")）・[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")・[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")・[中国](../Page/中華人民共和国.md "wikilink")・[ロシア](../Page/ロシア.md "wikilink")・[南米](https://ja.wikipedia.org/wiki/南米 "wikilink")（[チリ](../Page/チリ.md "wikilink")・[メキシコ](../Page/メキシコ.md "wikilink")）の計18か国でライヴを行っている。
+[2017年](../Page/2017年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")現在、世界各国では[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")（[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")・[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")・[スイス](../Page/スイス.md "wikilink")・[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")・[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")・[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[ハンガリー](../Page/ハンガリー.md "wikilink")・[フィンランド](../Page/フィンランド.md "wikilink")・[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")・[ポーランド](../Page/ポーランド.md "wikilink")）・[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")・[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")・[中国](../Page/中華人民共和国.md "wikilink")・[ロシア](../Page/ロシア.md "wikilink")・[南米](https://ja.wikipedia.org/wiki/南米 "wikilink")（[チリ](../Page/チリ.md "wikilink")・[メキシコ](../Page/メキシコ.md "wikilink")）の計18か国でライヴを行っている。
 
 ## 評価
 
-音楽評論家の[市川哲史](https://ja.wikipedia.org/wiki/市川哲史 "wikilink")は「80年代序盤の[ソノシート](https://ja.wikipedia.org/wiki/ソノシート "wikilink")的」な空気感が素晴らしく、「日本語ロックとしてとても優秀だ」と評している。ライターの藤谷千明は「歌詞がすごく美しい」と述べている。
+音楽評論家の[市川哲史](../Page/市川哲史.md "wikilink")は「80年代序盤の[ソノシート](../Page/ソノシート.md "wikilink")的」な空気感が素晴らしく、「日本語ロックとしてとても優秀だ」と評している。ライターの藤谷千明は「歌詞がすごく美しい」と述べている。
 
 ## 来歴
 
-1997年、逹瑯、ミヤが中心になり結成。当時のベーシストはHIRO。[THE BLUE HEARTSや](https://ja.wikipedia.org/wiki/THE_BLUE_HEARTS "wikilink")[GLAY](../Page/GLAY.md "wikilink")をコピーしていた。当初は「[密室ノイローゼ](https://ja.wikipedia.org/wiki/密室ノイローゼ "wikilink")」に所属しており、いわゆる「密室系」と呼ばれるジャンルに属していた。
+1997年、逹瑯、ミヤが中心になり結成。当時のベーシストはHIRO。[THE BLUE HEARTSや](../Page/THE_BLUE_HEARTS.md "wikilink")[GLAY](../Page/GLAY.md "wikilink")をコピーしていた。当初は「[密室ノイローゼ](https://ja.wikipedia.org/wiki/密室ノイローゼ "wikilink")」に所属しており、いわゆる「密室系」と呼ばれるジャンルに属していた。
 
 1998年、上京。[1999年](../Page/1999年.md "wikilink")2月にHIROが脱退し、現ベースであるYUKKEが加入。
 
 [2001年](../Page/2001年.md "wikilink")、初のワンマンツアー「激痛―――――。」を敢行。
 
-[2002年](../Page/2002年.md "wikilink")に[デンジャークルー・レコード](https://ja.wikipedia.org/wiki/デンジャークルー・レコード "wikilink")内に自主レーベル「朱」を設立し、独立。同年、初の「えん」を敢行。
+[2002年](../Page/2002年.md "wikilink")に[デンジャークルー・レコード](../Page/デンジャークルー・レコード.md "wikilink")内に自主レーベル「朱」を設立し、独立。同年、初の「えん」を敢行。
 
-[2003年](../Page/2003年.md "wikilink")、[ユニバーサルミュージックに移籍しシングル](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")「我、在ルベキ場所」のリリースをもってメジャーデビュー。
+[2003年](../Page/2003年.md "wikilink")、[ユニバーサルミュージックに移籍しシングル](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")「我、在ルベキ場所」のリリースをもってメジャーデビュー。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")のメタルフェスティバル[Wacken Open Airに出演し](../Page/ヴァッケン・オープン・エア.md "wikilink")、さらにその2日後には同地でのワンマンライブも敢行。これがムックにとって初の海外公演となる。
+[2005年](../Page/2005年.md "wikilink")、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")のメタルフェスティバル[Wacken Open Airに出演し](../Page/ヴァッケン・オープン・エア.md "wikilink")、さらにその2日後には同地でのワンマンライブも敢行。これがムックにとって初の海外公演となる。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")、初の[日本武道館](../Page/日本武道館.md "wikilink")単独公演を行う。
+[2006年](../Page/2006年.md "wikilink")、初の[日本武道館](../Page/日本武道館.md "wikilink")単独公演を行う。
 
 2007年、結成10周年記念を迎える。来日した[Guns N' Rosesのオープニング](https://ja.wikipedia.org/wiki/ガンズ・アンド・ローゼズ "wikilink")・アクトを全公演を務める。
 
@@ -59,35 +59,35 @@
 
 [2009年](../Page/2009年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")、2度目の日本武道館単独公演を行う。
 
-[2009年](../Page/2009年.md "wikilink")、シングル「[フリージア](https://ja.wikipedia.org/wiki/フリージア_\(MUCCの曲\) "wikilink")」の発売をもって[デンジャークルー・レコード](https://ja.wikipedia.org/wiki/デンジャークルー・レコード "wikilink")に移籍、活動の場をインディーズに戻した（流通はメジャー）。
+[2009年](../Page/2009年.md "wikilink")、シングル「[フリージア](https://ja.wikipedia.org/wiki/フリージア_\(MUCCの曲\) "wikilink")」の発売をもって[デンジャークルー・レコード](../Page/デンジャークルー・レコード.md "wikilink")に移籍、活動の場をインディーズに戻した（流通はメジャー）。
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")、YUKKEの母校である[茨城県立小川高等学校](https://ja.wikipedia.org/wiki/茨城県立小川高等学校 "wikilink")が廃校になることを受け、同校の学園祭ライヴに出演した。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")、YUKKEの母校である[茨城県立小川高等学校](../Page/茨城県立小川高等学校.md "wikilink")が廃校になることを受け、同校の学園祭ライヴに出演した。
 
 [2011年](../Page/2011年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")、3度目となる日本武道館単独公演を2デイズで行う。
 
-[11月](../Page/11月.md "wikilink")、[ソニーからのメジャー再デビューを発表](https://ja.wikipedia.org/wiki/ソニー・ミュージックアソシエイテッドレコーズ "wikilink")。
+[11月](../Page/11月.md "wikilink")、[ソニーからのメジャー再デビューを発表](../Page/ソニー・ミュージックアソシエイテッドレコーズ.md "wikilink")。
 
 [2012年](../Page/2012年.md "wikilink")、結成15周年記念を迎える。6月9日に幕張メッセにてワンマンライブを行う。
 
 [2013年](../Page/2013年.md "wikilink")、8月17日、結成15周年記念の応募企画の特賞「MUCCになれる権」で当選した新メンバーDEANと班長加入。9月4日、両名とも一身上の都合で脱退。
 
-[2014年](../Page/2014年.md "wikilink")、七ヶ月間連続で毎月異なる全6種類のツアーを各9公演ずつ行うというバンド史上最大規模のライヴプロジェクト「SIX NINE WARS –ぼくらの七ヶ月間戦争-」を開催。ツアーファイナルとして[9月23日](../Page/9月23日.md "wikilink")に[国立代々木競技場](https://ja.wikipedia.org/wiki/国立代々木競技場 "wikilink")第一体育館にてワンマンライブを行う。
+[2014年](../Page/2014年.md "wikilink")、七ヶ月間連続で毎月異なる全6種類のツアーを各9公演ずつ行うというバンド史上最大規模のライヴプロジェクト「SIX NINE WARS –ぼくらの七ヶ月間戦争-」を開催。ツアーファイナルとして[9月23日](../Page/9月23日.md "wikilink")に[国立代々木競技場](../Page/国立代々木競技場.md "wikilink")第一体育館にてワンマンライブを行う。
 
 [2015年](../Page/2015年.md "wikilink")、[LUNA SEA主宰フェス](../Page/LUNA_SEA.md "wikilink")[LUNATIC FEST.に出演](https://ja.wikipedia.org/wiki/LUNATIC_FEST. "wikilink")
 
 [2017年](../Page/2017年.md "wikilink")、20周年記念として、「MUCC 20TH ANNIVERSARY 97-17"飛翔"」と銘打った企画を発表。特設サイトもオープン。
 
-[2017年](../Page/2017年.md "wikilink")[5月1日](../Page/5月1日.md "wikilink")、メンバーの地元である[茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")[石岡市](../Page/石岡市.md "wikilink")及び茨城県[水戸市](../Page/水戸市.md "wikilink")の「ふるさと大使」にダブル就任。
+[2017年](../Page/2017年.md "wikilink")[5月1日](../Page/5月1日.md "wikilink")、メンバーの地元である[茨城県](../Page/茨城県.md "wikilink")[石岡市](../Page/石岡市.md "wikilink")及び茨城県[水戸市](../Page/水戸市.md "wikilink")の「ふるさと大使」にダブル就任。
 
 [2017年](../Page/2017年.md "wikilink")[6月20日](../Page/6月20日.md "wikilink")〜[21日](../Page/6月21日.md "wikilink")、20周年記念武道館公演を2デイズで行う。
 
-[2017年](../Page/2017年.md "wikilink")、再び[デンジャークルー・レコード](https://ja.wikipedia.org/wiki/デンジャークルー・レコード "wikilink")に移籍する。
+[2017年](../Page/2017年.md "wikilink")、再び[デンジャークルー・レコード](../Page/デンジャークルー・レコード.md "wikilink")に移籍する。
 
 [2018年](../Page/2018年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink")〜[22日](../Page/6月22日.md "wikilink")、Zepp Tokyoにて『MUCC 2018 ～復活の夜～ The WALL-CRIMEorDESTROY-』を2デイズを行う。
 
 ## バンド名の由来
 
-バンド名を決める際、YUKKEの友人が[ガチャピン](../Page/ガチャピン.md "wikilink")という名前を候補に挙げ、それに対しメンバーが「ガチャピンよりは[ムックじゃねーの](https://ja.wikipedia.org/wiki/ムック_\(キャラクター\) "wikilink")?」と発言した。
+バンド名を決める際、YUKKEの友人が[ガチャピン](../Page/ガチャピン.md "wikilink")という名前を候補に挙げ、それに対しメンバーが「ガチャピンよりは[ムックじゃねーの](../Page/ムック_\(キャラクター\).md "wikilink")?」と発言した。
 
 その何気なく提案された「ムック」という単語が、メンバーの求める「覚えやすくてインパクトがあり他になく、名前からバンドのイメージが想像できない」という理想に合致したため決定した。よって、そのものを意識したネーミングではないとはいえ、既存のキャラクターであるムックが名前の由来となったことになる。
 
@@ -112,7 +112,7 @@
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
 <th><p>規格品番</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">JP</a></p></th>
+<th><p><a href="../Page/オリコンチャート.md" title="wikilink">JP</a></p></th>
 <th><p>備考</p></th>
 </tr>
 </thead>
@@ -215,7 +215,7 @@ MSHN-004A (Bタイプ)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ココロノナイマチ" title="wikilink">ココロノナイマチ</a></p></td>
 <td><p>POCE-6906</p></td>
 <td><p>20</p></td>
-<td><p><a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ系音楽番組</a>『<a href="https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER" title="wikilink">音楽戦士 MUSIC FIGHTER</a>』4月度オープニングテーマ</p></td>
+<td><p><a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ系音楽番組</a>『<a href="../Page/音楽戦士_MUSIC_FIGHTER.md" title="wikilink">音楽戦士 MUSIC FIGHTER</a>』4月度オープニングテーマ</p></td>
 </tr>
 <tr class="odd">
 <td><p>10th</p></td>
@@ -231,7 +231,7 @@ MSHN-004A (Bタイプ)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/最終列車_(MUCCの曲)" title="wikilink">最終列車</a></p></td>
 <td><p>UPCI-5020</p></td>
 <td><p>12</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>系音楽番組『<a href="https://ja.wikipedia.org/wiki/LIVE_BANG!" title="wikilink">LIVE BANG!</a>』10月度オープニングテーマ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>系音楽番組『<a href="../Page/LIVE_BANG!.md" title="wikilink">LIVE BANG!</a>』10月度オープニングテーマ</p></td>
 </tr>
 <tr class="odd">
 <td><p>12th</p></td>
@@ -249,7 +249,7 @@ UPCI-5024 (通常盤)</p></td>
 <td><p>UPCI-9507 (限定盤)<br />
 UPCI-5030 (通常盤)</p></td>
 <td><p>14</p></td>
-<td><p>テレビ東京系音楽番組『<a href="https://ja.wikipedia.org/wiki/JAPAN_COUNTDOWN" title="wikilink">JAPAN COUNTDOWN</a>』6月度オープニングテーマ</p></td>
+<td><p>テレビ東京系音楽番組『<a href="../Page/JAPAN_COUNTDOWN.md" title="wikilink">JAPAN COUNTDOWN</a>』6月度オープニングテーマ</p></td>
 </tr>
 <tr class="odd">
 <td><p>14th</p></td>
@@ -258,7 +258,7 @@ UPCI-5030 (通常盤)</p></td>
 <td><p>UPCI-9508 (限定盤)<br />
 UPCI-5033 (通常盤)</p></td>
 <td><p>7</p></td>
-<td><p><a href="../Page/TBSテレビ.md" title="wikilink">TBS系</a>『<a href="https://ja.wikipedia.org/wiki/COUNT_DOWN_TV" title="wikilink">COUNT DOWN TV</a>』8月度オープニングテーマ</p></td>
+<td><p><a href="../Page/TBSテレビ.md" title="wikilink">TBS系</a>『<a href="../Page/COUNT_DOWN_TV.md" title="wikilink">COUNT DOWN TV</a>』8月度オープニングテーマ</p></td>
 </tr>
 <tr class="even">
 <td><p>15th</p></td>
@@ -267,7 +267,7 @@ UPCI-5033 (通常盤)</p></td>
 <td><p>UPCI-9310 (限定盤)<br />
 UPCI-5041 (通常盤)</p></td>
 <td><p>14</p></td>
-<td><p>日本テレビ系バラエティ番組『<a href="https://ja.wikipedia.org/wiki/ミラクル☆シェイプ" title="wikilink">ミラクル☆シェイプ</a>』11月度エンディングテーマ</p></td>
+<td><p>日本テレビ系バラエティ番組『<a href="../Page/ミラクル☆シェイプ.md" title="wikilink">ミラクル☆シェイプ</a>』11月度エンディングテーマ</p></td>
 </tr>
 <tr class="odd">
 <td><p>16th</p></td>
@@ -295,7 +295,7 @@ UPCI-5048 (通常盤)</p></td>
 UPCI-5056 (通常盤)</p></td>
 <td><p>14</p></td>
 <td><p>映画『<a href="https://ja.wikipedia.org/wiki/クローバーフィールド/HAKAISHA" title="wikilink">クローバーフィールド/HAKAISHA</a>』挿入歌<br />
-c/w「チェインリング」テレビアニメ『<a href="https://ja.wikipedia.org/wiki/ZOMBIE-LOAN" title="wikilink">ZOMBIE-LOAN</a>』エンディングテーマ</p></td>
+c/w「チェインリング」テレビアニメ『<a href="../Page/ZOMBIE-LOAN.md" title="wikilink">ZOMBIE-LOAN</a>』エンディングテーマ</p></td>
 </tr>
 <tr class="even">
 <td><p>19th</p></td>
@@ -411,7 +411,7 @@ AICL-2456 (通常盤)</p></td>
 <td><p>AICL-2581～2 (初回生産限定盤)<br />
 AICL-2583 (通常盤)</p></td>
 <td><p>14</p></td>
-<td><p>c/w「狂乱狂唱 RMX fot 不安の種」…映画『<a href="https://ja.wikipedia.org/wiki/不安の種" title="wikilink">不安の種</a>』主題歌</p></td>
+<td><p>c/w「狂乱狂唱 RMX fot 不安の種」…映画『<a href="../Page/不安の種.md" title="wikilink">不安の種</a>』主題歌</p></td>
 </tr>
 <tr class="odd">
 <td><p>30th</p></td>
@@ -439,7 +439,7 @@ AICL-2682 (通常盤)</p></td>
 <td><p>AICL-2724～5 (初回生産限定盤)<br />
 AICL-2726 (初回仕様限定盤)</p></td>
 <td><p>17</p></td>
-<td><p>テレビアニメ『<a href="https://ja.wikipedia.org/wiki/金田一少年の事件簿_(アニメ)" title="wikilink">金田一少年の事件簿R</a>』オープニングテーマ</p></td>
+<td><p>テレビアニメ『<a href="../Page/金田一少年の事件簿_(アニメ).md" title="wikilink">金田一少年の事件簿R</a>』オープニングテーマ</p></td>
 </tr>
 <tr class="even">
 <td><p>33rd</p></td>
@@ -721,13 +721,13 @@ AICL-2896（通常盤）</p></td>
 <tr class="header">
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>備考</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/1月26日" title="wikilink">1月26日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/1月26日" title="wikilink">1月26日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/朽木の灯_ライヴ_アット_六本木" title="wikilink">朽木の灯 ライヴ アット 六本木</a></strong></p></td>
 <td><p>POCE-6905</p></td>
 <td><p>オリコン週間アルバムチャート初登場131位</p></td>
@@ -969,7 +969,7 @@ UPCI-1064:通常盤</p></td>
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
 <th><p>収録曲</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>備考</p></th>
 </tr>
 </thead>
@@ -983,18 +983,18 @@ UPCI-1064:通常盤</p></td>
 </div>
 <div class="NavContent" style="text-align:left;">
 <p>DISC1<br />
-# 蘭鋳 / <a href="https://ja.wikipedia.org/wiki/ROTTENGRAFFTY" title="wikilink">ROTTENGRAFFTY</a></p>
+# 蘭鋳 / <a href="../Page/ROTTENGRAFFTY.md" title="wikilink">ROTTENGRAFFTY</a></p>
 <ol>
 <li>ハニー / <a href="https://ja.wikipedia.org/wiki/BAND-MAID" title="wikilink">BAND-MAID</a></li>
-<li>最終列車 / <a href="https://ja.wikipedia.org/wiki/THE_BACK_HORN" title="wikilink">THE BACK HORN</a></li>
+<li>最終列車 / <a href="../Page/THE_BACK_HORN.md" title="wikilink">THE BACK HORN</a></li>
 <li>EMP / <a href="https://ja.wikipedia.org/wiki/ken" title="wikilink">ken</a></li>
 <li>ガーベラ / <a href="https://ja.wikipedia.org/wiki/sukekiyo" title="wikilink">sukekiyo</a></li>
 <li>溺れる魚 / gibkiy gibkiy gibkiy</li>
 <li>謡声（ウタゴエ） / <a href="../Page/氣志團.md" title="wikilink">氣志團</a></li>
-<li>アイアムコンピュータ / <a href="https://ja.wikipedia.org/wiki/POLYSICS" title="wikilink">POLYSICS</a></li>
+<li>アイアムコンピュータ / <a href="../Page/POLYSICS.md" title="wikilink">POLYSICS</a></li>
 <li>風と太陽 / <a href="https://ja.wikipedia.org/wiki/cali≠gari" title="wikilink">cali≠gari</a></li>
 <li>流星 / <a href="https://ja.wikipedia.org/wiki/Plastic_Tree" title="wikilink">Plastic Tree</a></li>
-<li>暁闇 / <a href="https://ja.wikipedia.org/wiki/シド_(バンド)" title="wikilink">シド</a></li>
+<li>暁闇 / <a href="../Page/シド_(バンド).md" title="wikilink">シド</a></li>
 <li>五月雨 / <a href="https://ja.wikipedia.org/wiki/girugamesh" title="wikilink">girugamesh</a>[2]</li>
 </ol>
 <p>DISC2<br />
@@ -1003,14 +1003,14 @@ UPCI-1064:通常盤</p></td>
 <li>大嫌い / <a href="https://ja.wikipedia.org/wiki/THE_ORAL_CIGARETTES" title="wikilink">THE ORAL CIGARETTES</a></li>
 <li>茫然自失 / <a href="https://ja.wikipedia.org/wiki/lynch." title="wikilink">lynch.</a></li>
 <li>Mr. Liar / <a href="https://ja.wikipedia.org/wiki/ヒステリックパニック" title="wikilink">ヒステリックパニック</a></li>
-<li>リブラ / <a href="https://ja.wikipedia.org/wiki/矢野絢子" title="wikilink">矢野絢子</a></li>
-<li>家路 / <a href="https://ja.wikipedia.org/wiki/MERRY" title="wikilink">MERRY</a></li>
+<li>リブラ / <a href="../Page/矢野絢子.md" title="wikilink">矢野絢子</a></li>
+<li>家路 / <a href="../Page/MERRY.md" title="wikilink">MERRY</a></li>
 <li>アカ / DEZERT</li>
 <li>ハイデ / ROACH</li>
 <li>フライト / <a href="https://ja.wikipedia.org/wiki/BREAKERZ" title="wikilink">BREAKERZ</a></li>
-<li>ニルヴァーナ / <a href="https://ja.wikipedia.org/wiki/GRANRODEO" title="wikilink">GRANRODEO</a></li>
+<li>ニルヴァーナ / <a href="../Page/GRANRODEO.md" title="wikilink">GRANRODEO</a></li>
 <li>ブリリアント ワールド / <a href="https://ja.wikipedia.org/wiki/ゴールデンボンバー_(バンド)#鬼龍院_翔" title="wikilink">鬼龍院 翔</a></li>
-<li><a href="../Page/恋はみずいろ.md" title="wikilink">恋はみずいろ</a> / <a href="https://ja.wikipedia.org/wiki/MUCC" title="wikilink">MUCC</a>[3]
+<li><a href="../Page/恋はみずいろ.md" title="wikilink">恋はみずいろ</a> / <a href="../Page/MUCC.md" title="wikilink">MUCC</a>[3]
 </div>
 </div></li>
 </ol></td>
@@ -1138,7 +1138,7 @@ DISC1、2ともに1曲ずつボーナストラックが収録された。<br />
 <th><p> </p></th>
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>収録曲</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -1146,7 +1146,7 @@ DISC1、2ともに1曲ずつボーナストラックが収録された。<br />
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="../Page/2003年.md" title="wikilink">2003年</a><a href="https://ja.wikipedia.org/wiki/12月10日" title="wikilink">12月10日</a></p></td>
+<td><p><a href="../Page/2003年.md" title="wikilink">2003年</a><a href="../Page/12月10日.md" title="wikilink">12月10日</a></p></td>
 <td><p><strong>日本列島混沌平成心ノ中</strong></p></td>
 <td><p>POBE-6900</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -1202,7 +1202,7 @@ DISC1、2ともに1曲ずつボーナストラックが収録された。<br />
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/3月29日.md" title="wikilink">3月29日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/3月29日.md" title="wikilink">3月29日</a></p></td>
 <td><p><strong>図南の鵬翼</strong></p></td>
 <td><p>UPBI-1012</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -1238,7 +1238,7 @@ DISC1、2ともに1曲ずつボーナストラックが収録された。<br />
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/12月20日.md" title="wikilink">12月20日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/12月20日.md" title="wikilink">12月20日</a></p></td>
 <td><p><strong>ワールドツアーファイナル日本武道館「666」</strong></p></td>
 <td><p>UPBI-1015〜6</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -2100,7 +2100,7 @@ DISC3(CD)</p>
 </tr>
 <tr class="odd">
 <td><p>2008年3月28日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/デトロイト・メタル・シティ" title="wikilink">デトロイト・メタル・シティ</a>　トリビュートアルバム〜生贄メタルMIX〜</strong></p></td>
+<td><p><strong><a href="../Page/デトロイト・メタル・シティ.md" title="wikilink">デトロイト・メタル・シティ</a>　トリビュートアルバム〜生贄メタルMIX〜</strong></p></td>
 <td><p>CD</p></td>
 <td><p>DFCL-1456</p></td>
 <td><p>フライト Best Hold It Ver.</p></td>
@@ -2545,7 +2545,7 @@ VIZL-1684</p></td>
   - 2010年 - WINTER CIRCUIT 2010
   - 2010年 - 『えん6』ムック主催イベント
   - 2010年 - MUCC Tour 2010 "Chemical Parade"
-  - 2010年12月29日 - [COUNTDOWN JAPAN](https://ja.wikipedia.org/wiki/COUNTDOWN_JAPAN "wikilink") 10/11
+  - 2010年12月29日 - [COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 10/11
   - 2011年 - "Chemical Parade" in EURO
   - 2011年 - "Chemical Parade" in Asia
   - 2011年8月7日 - [ROCK IN JAPAN FESTIVAL](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink") 2011

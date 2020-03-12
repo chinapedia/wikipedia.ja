@@ -6,7 +6,7 @@
 ## 概要
 
   - [フジテレビ制作の全国ニュース番組のタイトルを差し替える場合は](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『**BBTニュース**』という名称が使われる。なお、全国ニュースであっても[FNNの表記はつかない](../Page/フジニュースネットワーク.md "wikilink")。
-  - [1994年](../Page/1994年.md "wikilink")[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink")にBBTという[CIを導入する前は](https://ja.wikipedia.org/wiki/コーポレートアイデンティティ "wikilink")『富山テレビニュース』または『富山テレニュース』として放送されていた。
+  - [1994年](../Page/1994年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")にBBTという[CIを導入する前は](../Page/コーポレートアイデンティティ.md "wikilink")『富山テレビニュース』または『富山テレニュース』として放送されていた。
   - ローカルニュースの場合は[1974年](../Page/1974年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")に新設された当時は別の番組タイトルを使用していた。当初は『**T34ニュースフラッシュ**』（ティーさんじゅうよんニュースフラッシュ）\[1\]で、[1981年](../Page/1981年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から『**富山テレビニュースフラッシュ**』に、[1994年](../Page/1994年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に『**BBTニュースフラッシュ**』、[2018年](../Page/2018年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")に『**プライムニュース富山**』という名称に改題され\[2\]、[2019年](../Page/2019年.md "wikilink")[3月19日](../Page/3月19日.md "wikilink")で終了した\[3\]。同年4月2日以降、ローカルニュースについても『**BBTニュース**』というタイトルで放送されるようになった。
 
 ## 放送時間
@@ -49,4 +49,4 @@
 1.  『富山新聞』1974年10月1日付テレビ欄より。
 2.  『富山新聞』2018年4月4日付テレビ欄より。
 3.  北日本新聞 2019年3月19日付朝刊34面テレビ欄より。
-4.  内容は「[THE NEWSα Pick](https://ja.wikipedia.org/wiki/THE_NEWSα_Pick "wikilink")」（以前のタイトルは「[FNNニュース](https://ja.wikipedia.org/wiki/FNNニュース・明日の天気 "wikilink")」→「[FNNレインボー発](https://ja.wikipedia.org/wiki/FNNレインボー発 "wikilink")」→「[FNN NEWS Pick Up](https://ja.wikipedia.org/wiki/FNN_NEWS_Pick_Up "wikilink")」 → 「[こんやのニュース](https://ja.wikipedia.org/wiki/こんやのニュース "wikilink")」→「[ユアタイム クイック](https://ja.wikipedia.org/wiki/ユアタイム_クイック "wikilink")」）
+4.  内容は「[THE NEWSα Pick](https://ja.wikipedia.org/wiki/THE_NEWSα_Pick "wikilink")」（以前のタイトルは「[FNNニュース](../Page/FNNニュース・明日の天気.md "wikilink")」→「[FNNレインボー発](https://ja.wikipedia.org/wiki/FNNレインボー発 "wikilink")」→「[FNN NEWS Pick Up](https://ja.wikipedia.org/wiki/FNN_NEWS_Pick_Up "wikilink")」 → 「[こんやのニュース](https://ja.wikipedia.org/wiki/こんやのニュース "wikilink")」→「[ユアタイム クイック](https://ja.wikipedia.org/wiki/ユアタイム_クイック "wikilink")」）

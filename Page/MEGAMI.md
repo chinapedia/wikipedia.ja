@@ -9,7 +9,7 @@
 
 [1994年](../Page/1994年.md "wikilink")に株式会社[スタジオオフサイド](https://ja.wikipedia.org/wiki/スタジオオフサイド "wikilink")のブランドとして発足。その後、紆余曲折の後に当初のブランド名を引き継ぎ[1999年](../Page/1999年.md "wikilink")に『ぶれ 〜BURE〜』を発売、 [2002年](../Page/2002年.md "wikilink")に株式会社[ピックス](https://ja.wikipedia.org/wiki/ピックス "wikilink")傘下の[ブランド](../Page/ブランド.md "wikilink")となった。
 
-中堅ブランドとして微妙な人気があったが、最後に企画された「**MEGAMI**のお祭りゲーム」が発売されないまま、[2004年](../Page/2004年.md "wikilink")8月頃に沈黙状態となり、同年[11月30日](../Page/11月30日.md "wikilink")に活動停止、その後元関係者がウエブページを一時的に復活させていたが、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月27日](../Page/3月27日.md "wikilink")に[ドメインがactiveでなくなり](../Page/ドメイン名.md "wikilink")、完全に痕跡が消滅した。サブブランドとして「天使と悪魔」、姉妹ブランドとして「[Mireille](https://ja.wikipedia.org/wiki/Mireille "wikilink")」があった。
+中堅ブランドとして微妙な人気があったが、最後に企画された「**MEGAMI**のお祭りゲーム」が発売されないまま、[2004年](../Page/2004年.md "wikilink")8月頃に沈黙状態となり、同年[11月30日](../Page/11月30日.md "wikilink")に活動停止、その後元関係者がウエブページを一時的に復活させていたが、[2005年](../Page/2005年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")に[ドメインがactiveでなくなり](../Page/ドメイン名.md "wikilink")、完全に痕跡が消滅した。サブブランドとして「天使と悪魔」、姉妹ブランドとして「[Mireille](https://ja.wikipedia.org/wiki/Mireille "wikilink")」があった。
 
 ## 発売済みの作品一覧
 
@@ -50,7 +50,7 @@
             （『どきどきサマーレッスン 〜教科書は教えてくれないっ〜』、『ぶれ〜BURE〜』）
   - 2003年[1月30日](../Page/1月30日.md "wikilink") - 「megami POWDER SNOW　DVDPG Edition」（BLACKRAINBOW DVDPG Division）
   - 2004年[12月9日](../Page/12月9日.md "wikilink") - 「きんぎん☆はぁと☆さっきゅばす DVDPG Edition」（[青梅製作所](https://ja.wikipedia.org/wiki/青梅製作所 "wikilink")）
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月7日](../Page/4月7日.md "wikilink") - 「くわいなしょっく\!DVDPG Edition」（青梅製作所）
+  - [2005年](../Page/2005年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink") - 「くわいなしょっく\!DVDPG Edition」（青梅製作所）
 
 ## 外部リンク
 

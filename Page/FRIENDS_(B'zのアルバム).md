@@ -1,33 +1,33 @@
 > この記事は[FRIENDS \(B\'z\)](https://ja.wikipedia.org/wiki/FRIENDS_\(B\'z\))から翻訳されています。
 
 
-『**FRIENDS**』(フレンズ)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")[B'z](../Page/B'z.md "wikilink")が[1992年](../Page/1992年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink")に[BMGルームスからリリースした](https://ja.wikipedia.org/wiki/VERMILLION_RECORDS "wikilink")4作目のミニ・アルバムである。また[1996年](../Page/1996年.md "wikilink")[11月25日](../Page/11月25日.md "wikilink")には、このアルバムの続編である『[FRIENDS II](https://ja.wikipedia.org/wiki/FRIENDS_II "wikilink")』が発売された。
+『**FRIENDS**』(フレンズ)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")[B'z](../Page/B'z.md "wikilink")が[1992年](../Page/1992年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink")に[BMGルームスからリリースした](../Page/VERMILLION_RECORDS.md "wikilink")4作目のミニ・アルバムである。また[1996年](../Page/1996年.md "wikilink")[11月25日](../Page/11月25日.md "wikilink")には、このアルバムの続編である『[FRIENDS II](../Page/FRIENDS_II.md "wikilink")』が発売された。
 
 ## 作品解説
 
 ジャケットには、[イングランド](../Page/イングランド.md "wikilink")の写真家Michael Kennaの作品「Deckchairs, Bournemouth, Dorset, England」が使用されている\[1\]。初回盤のみCDケースを入れる紙製のスリーブケースが付属している。
 
-9thシングル「[ALONE](https://ja.wikipedia.org/wiki/ALONE_\(B'zの曲\) "wikilink")」からの「B'z」ロゴマークが使用された最後のアルバム(シングルでは13thシングル「[裸足の女神](https://ja.wikipedia.org/wiki/裸足の女神 "wikilink")」まで)。
+9thシングル「[ALONE](../Page/ALONE_\(B'zの曲\).md "wikilink")」からの「B'z」ロゴマークが使用された最後のアルバム(シングルでは13thシングル「[裸足の女神](../Page/裸足の女神.md "wikilink")」まで)。
 
-本作より、クレジットにて[ベースが表記されるようになった](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。
+本作より、クレジットにて[ベースが表記されるようになった](../Page/ベース_\(弦楽器\).md "wikilink")。
 
-本作は全楽曲で1つのストーリー性を持たせた[コンセプト・アルバム](https://ja.wikipedia.org/wiki/コンセプト・アルバム "wikilink")となっており\[2\]、内容は『回想』『再会』『葛藤』『解決』のシーンからなるラブストーリーで、アルバムタイトル『**FRIENDS**』はストーリーのテーマにあたる。本作について[松本孝弘](../Page/松本孝弘.md "wikilink")は、「映画のサウンドトラックのようなアルバムを作りたかった」と述べている。
+本作は全楽曲で1つのストーリー性を持たせた[コンセプト・アルバム](../Page/コンセプト・アルバム.md "wikilink")となっており\[2\]、内容は『回想』『再会』『葛藤』『解決』のシーンからなるラブストーリーで、アルバムタイトル『**FRIENDS**』はストーリーのテーマにあたる。本作について[松本孝弘](../Page/松本孝弘.md "wikilink")は、「映画のサウンドトラックのようなアルバムを作りたかった」と述べている。
 
 作詞について[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")は「全ての楽曲の歌詞は飛行機での移動中に4曲同時進行で書いた」と語っている。
 
 曲順表記は「\#1」などではなく、「**SCENE1**」など独特の表記になっているのも特徴。
 
-1999年8月に[日本レコード協会](https://ja.wikipedia.org/wiki/日本レコード協会 "wikilink")より、2ミリオン認定を受けた\[3\]。
+1999年8月に[日本レコード協会](../Page/日本レコード協会.md "wikilink")より、2ミリオン認定を受けた\[3\]。
 
 ## 収録曲
 
 1.  Prologue. **Friends** (1:48)
       -
-        [インストゥルメンタル](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")。
+        [インストゥルメンタル](../Page/器楽曲.md "wikilink")。
         [ストリングスによる](../Page/弦楽器.md "wikilink")[演奏](../Page/演奏.md "wikilink")。
-2.  SCENE1. **[いつかのメリークリスマス](https://ja.wikipedia.org/wiki/いつかのメリークリスマス "wikilink")** (5:36)　
+2.  SCENE1. **[いつかのメリークリスマス](../Page/いつかのメリークリスマス.md "wikilink")** (5:36)　
       -
-        [クリスマス](https://ja.wikipedia.org/wiki/クリスマス "wikilink")ソング。本作が初出。
+        [クリスマス](../Page/クリスマス.md "wikilink")ソング。本作が初出。
         非シングル曲だがファンの人気は高く、クリスマスソングの定番となっている。
 3.  SCENE2. **僕の罪** (4:19)
       -
@@ -36,12 +36,12 @@
 4.  2-2. **Love is ...** (1:26)
       -
         インストゥルメンタル。
-        [オルゴール](https://ja.wikipedia.org/wiki/オルゴール "wikilink")のような雰囲気で[キーボードで演奏されている](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")。メロディは次曲「恋じゃなくなる日」と同様\[4\]。
+        [オルゴール](../Page/オルゴール.md "wikilink")のような雰囲気で[キーボードで演奏されている](../Page/キーボード_\(楽器\).md "wikilink")。メロディは次曲「恋じゃなくなる日」と同様\[4\]。
 5.  SCENE3. **恋じゃなくなる日** (4:51)
       -
         一転して激しいギターによるイントロから始まる。
         ファンの人気が高く、ベスト・アルバム『[B'z The Best "ULTRA Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")』のファン投票で10位にランクインして収録された\[5\]。
-        2014年にファンクラブ会報で行われた「まだ自身は聴いたことがないけれど、いつか[LIVE-GYM](https://ja.wikipedia.org/wiki/LIVE-GYM "wikilink")で聴きたいと夢見ている曲」のアンケートで3位、2017年に行われた同会報の「LIVE-GYMで聴きたいB'zナンバー」のアンケートでも3位に選ばれたが、『[B'z LIVE-GYM'93 "RUN"](https://ja.wikipedia.org/wiki/LIVE-GYM_#1989年-1993年 "wikilink")』以降は演奏されていない。
+        2014年にファンクラブ会報で行われた「まだ自身は聴いたことがないけれど、いつか[LIVE-GYM](../Page/LIVE-GYM.md "wikilink")で聴きたいと夢見ている曲」のアンケートで3位、2017年に行われた同会報の「LIVE-GYMで聴きたいB'zナンバー」のアンケートでも3位に選ばれたが、『[B'z LIVE-GYM'93 "RUN"](https://ja.wikipedia.org/wiki/LIVE-GYM_#1989年-1993年 "wikilink")』以降は演奏されていない。
 6.  SCENE4. **SEASONS** (1:14)
       -
         インストゥルメンタル。
@@ -56,10 +56,10 @@
 ## 参加ミュージシャン
 
   - [松本孝弘](../Page/松本孝弘.md "wikilink"):[ギター](../Page/ギター.md "wikilink")、全曲[作曲](../Page/作曲.md "wikilink")、[編曲](../Page/編曲.md "wikilink")
-  - [稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink"):[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")
-  - [明石昌夫](https://ja.wikipedia.org/wiki/明石昌夫 "wikilink"):[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、[マニピュレーター](https://ja.wikipedia.org/wiki/マニピュレーター "wikilink")、[編曲](../Page/編曲.md "wikilink") (\#4、6、8除く)
+  - [稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink"):[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[作詞](../Page/作詞.md "wikilink")
+  - [明石昌夫](../Page/明石昌夫.md "wikilink"):[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[マニピュレーター](../Page/マニピュレーター.md "wikilink")、[編曲](../Page/編曲.md "wikilink") (\#4、6、8除く)
   - [田中一光](https://ja.wikipedia.org/wiki/田中一光_\(ドラマー\) "wikilink"):[ドラム](../Page/ドラムセット.md "wikilink")
-  - [小野塚晃](../Page/小野塚晃.md "wikilink") ([DIMENSION](https://ja.wikipedia.org/wiki/DIMENSION "wikilink")):[キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink") (\#3、4、7、8)
+  - [小野塚晃](../Page/小野塚晃.md "wikilink") ([DIMENSION](../Page/DIMENSION.md "wikilink")):[キーボード](../Page/キーボード_\(楽器\).md "wikilink") (\#3、4、7、8)
   - 澤野博敬:[トランペット](../Page/トランペット.md "wikilink") (\#7)
   - [野村裕幸](../Page/野村裕幸.md "wikilink"):[トロンボーン](../Page/トロンボーン.md "wikilink") (\#7)
   - 日色Strings:[ストリングス](../Page/弦楽器.md "wikilink") (\#1)
@@ -74,7 +74,7 @@
 
 ## 関連項目
 
-  - [1992年の音楽](https://ja.wikipedia.org/wiki/1992年の音楽 "wikilink")
+  - [1992年の音楽](../Page/1992年の音楽.md "wikilink")
 
 ## 外部リンク
 

@@ -1,7 +1,7 @@
 > この記事は[Swfdec](https://ja.wikipedia.org/wiki/Swfdec)から翻訳されています。
 
 
-**Swfdec** は [Adobe Flash](../Page/Adobe_Flash.md "wikilink") フォーマットの動画のデコードやレンダリングを行う[フリーのライブラリである](../Page/フリーソフトウェア.md "wikilink")。[Linux](https://ja.wikipedia.org/wiki/Linux "wikilink") と [FreeBSD](../Page/FreeBSD.md "wikilink") で動作する。
+**Swfdec** は [Adobe Flash](../Page/Adobe_Flash.md "wikilink") フォーマットの動画のデコードやレンダリングを行う[フリーのライブラリである](../Page/フリーソフトウェア.md "wikilink")。[Linux](../Page/Linux.md "wikilink") と [FreeBSD](../Page/FreeBSD.md "wikilink") で動作する。
 
 Swfdec を用いたスタンドアロンの Flash 再生ソフトや [Firefox](../Page/Mozilla_Firefox.md "wikilink") など [Mozilla](../Page/Mozilla.md "wikilink") 系ブラウザの Flash プラグインが存在する。バージョン 0.4.3 で [YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink") の動画を再生できるようになった\[1\]。
 

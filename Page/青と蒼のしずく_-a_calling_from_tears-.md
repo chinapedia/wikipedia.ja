@@ -1,7 +1,7 @@
 > この記事は[ -a calling from tears-](https://ja.wikipedia.org/wiki/_-a_calling_from_tears-)から翻訳されています。
 
 
-『**青と蒼のしずく -a calling from tears-**』（あおとあおのしずく ア コーリング フロム ティアーズ）は、[2003年](../Page/2003年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")に[Lass](https://ja.wikipedia.org/wiki/Lass "wikilink")より発売された[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")である。株式会社ジャックインザボックスのウェブサイト「[禁断のギャルゲー](https://ja.wikipedia.org/wiki/禁断のギャルゲー "wikilink")」より携帯電話アプリゲーム版も配信されている。
+『**青と蒼のしずく -a calling from tears-**』（あおとあおのしずく ア コーリング フロム ティアーズ）は、[2003年](../Page/2003年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")に[Lass](../Page/Lass.md "wikilink")より発売された[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")である。株式会社ジャックインザボックスのウェブサイト「[禁断のギャルゲー](https://ja.wikipedia.org/wiki/禁断のギャルゲー "wikilink")」より携帯電話アプリゲーム版も配信されている。
 
 ## ストーリー
 
@@ -17,7 +17,7 @@
   - 岬愛夏（みさき まなつ）
     [3月29日](../Page/3月29日.md "wikilink")生まれ。秋人の幼馴染。家が隣同士であることから、毎朝起こしに来てくれる。
     本人は気づいていないが相当の怪力と格闘センスを持ち合わせていて、下ネタを放つヒロッチョをことあるごとに制裁している。
-    ゲーム中では制裁として実在する[プロレス技](https://ja.wikipedia.org/wiki/プロレス技 "wikilink")もヒロッチョに仕掛けてくる。
+    ゲーム中では制裁として実在する[プロレス技](../Page/プロレス技.md "wikilink")もヒロッチョに仕掛けてくる。
 
 <!-- end list -->
 
@@ -54,7 +54,7 @@
 
   - 広原淳司（ひろはら あつし）
     [9月11日](../Page/9月11日.md "wikilink")生まれ。通称「ヒロッチョ」。口を開けば下ネタを連発する広原家の一員。
-    [3days 〜満ちてゆく刻の彼方で〜に露天商として登場している](https://ja.wikipedia.org/wiki/3days_〜満ちてゆく刻の彼方で〜 "wikilink")。
+    [3days 〜満ちてゆく刻の彼方で〜に露天商として登場している](../Page/3days_〜満ちてゆく刻の彼方で〜.md "wikilink")。
     [11eyes -罪と罰と贖いの少女-では雪子が賢久の性格を表現するのに彼の名前を挙げており](https://ja.wikipedia.org/wiki/11eyes_-罪と罰と贖いの少女- "wikilink")、賢久は出会ったら盟友になるだろうと言っていた。
 
 <!-- end list -->

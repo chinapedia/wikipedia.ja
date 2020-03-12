@@ -1,11 +1,11 @@
 > この記事は[MICRO \(\)](https://ja.wikipedia.org/wiki/MICRO_\(\))から翻訳されています。
 
 
-**MICRO**（ミクロ、本名：**新美 太祐**、[1977年](../Page/1977年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink") - ）は、[ヒップホップ](../Page/ヒップホップ.md "wikilink")グループ[HOME MADE 家族の](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")、リードボーカルである。[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[刈谷市](https://ja.wikipedia.org/wiki/刈谷市 "wikilink")出身。身長153cm。[ミニ塾。](https://ja.wikipedia.org/wiki/ミニ塾。 "wikilink")のメンバーでもある。
+**MICRO**（ミクロ、本名：**新美 太祐**、[1977年](../Page/1977年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink") - ）は、[ヒップホップ](../Page/ヒップホップ.md "wikilink")グループ[HOME MADE 家族の](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")、リードボーカルである。[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[刈谷市](../Page/刈谷市.md "wikilink")出身。身長153cm。[ミニ塾。](https://ja.wikipedia.org/wiki/ミニ塾。 "wikilink")のメンバーでもある。
 
 ## 来歴
 
-[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")技術者の[新美篤志](https://ja.wikipedia.org/wiki/新美篤志 "wikilink")（トヨタ自動車副社長、[ジェイテクト](https://ja.wikipedia.org/wiki/ジェイテクト "wikilink")会長、中部経済同友会代表幹事を歴任）の子として生まれ、9歳から4年間、父が赴任した[アメリカケンタッキー州で過ごす](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。その時現地の学校でHIP HOPに出会う。
+[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")技術者の[新美篤志](https://ja.wikipedia.org/wiki/新美篤志 "wikilink")（トヨタ自動車副社長、[ジェイテクト](../Page/ジェイテクト.md "wikilink")会長、中部経済同友会代表幹事を歴任）の子として生まれ、9歳から4年間、父が赴任した[アメリカケンタッキー州で過ごす](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。その時現地の学校でHIP HOPに出会う。
 
 1996年、大学時代のCLUB仲間であったKURO、U-ICHIと共にHIP HOPユニット「HOME MADE 家族」を結成。グループでは、Vo、Rap、作詞、作曲を担当する他、タレント、MCとしても、バラエティやドラマなどにも出演する。熱く正直に、真っ正面からぶつかる裏表のないトークが信条。ミュージシャンとしては、T.M.Revolutionこと西川貴教や、米米CLUBの石井竜也とも親交があり、客演も多数。作家としては、SMAP17枚目のアルバム『Pop Up\! SMAP』に収録の「TAKE OFF」を楽曲提供するなど、作家、プロデューサーとしても活躍。グループとしては、'09年に日本武道館ワンマン、'10年にアメリカでの海外公演、野外音楽フェスの立ち上げなど、精力的に活動。地元愛知県からは「LOVEあいちサポーターズ“あいち音楽大使”」を拝命。その他、台湾、ブラジルなど海外公演の経験も多数。'16年末、グループの無期限活動休止に伴い、'17年からはソロ活動を開始。自称太陽のようなアーティスト。口癖は「サンラーイズ！！！」。
 
@@ -13,11 +13,11 @@
 
 ### 配信限定
 
-  - MICRO ＆ [UZY](https://ja.wikipedia.org/wiki/酒井雄二 "wikilink") (HOME MADE 家族 / [ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink"))　「同じ空を見上げて」（2012年6月20日）\[1\]\[2\]。
+  - MICRO ＆ [UZY](../Page/酒井雄二.md "wikilink") (HOME MADE 家族 / [ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink"))　「同じ空を見上げて」（2012年6月20日）\[1\]\[2\]。
 
 ### 客演
 
-  - [シーモネーター\&DJ TAKI-SHIT](https://ja.wikipedia.org/wiki/シーモネーター&DJ_TAKI-SHIT "wikilink"),「[半熟ラバーズ/まってたんだNEO](https://ja.wikipedia.org/wiki/半熟ラバーズ/まってたんだNEO "wikilink")」（2002年12月4日）
+  - [シーモネーター\&DJ TAKI-SHIT](../Page/シーモネーター&DJ_TAKI-SHIT.md "wikilink"),「[半熟ラバーズ/まってたんだNEO](https://ja.wikipedia.org/wiki/半熟ラバーズ/まってたんだNEO "wikilink")」（2002年12月4日）
 
 <!-- end list -->
 
@@ -26,7 +26,7 @@
 
 <!-- end list -->
 
-  - シーモネーター\&DJ TAKI-SHIT,『[シモダス](https://ja.wikipedia.org/wiki/シモダス "wikilink")』（2003年2月19日）
+  - シーモネーター\&DJ TAKI-SHIT,『[シモダス](../Page/シモダス.md "wikilink")』（2003年2月19日）
 
 <!-- end list -->
 
@@ -35,7 +35,7 @@
 
 <!-- end list -->
 
-  - [椿](https://ja.wikipedia.org/wiki/椿_\(歌手\) "wikilink"),『cotton voice』（2004年12月8日）
+  - [椿](../Page/椿_\(歌手\).md "wikilink"),『cotton voice』（2004年12月8日）
 
 <!-- end list -->
 
@@ -62,7 +62,7 @@
 
 <!-- end list -->
 
-  - [SEAMO](https://ja.wikipedia.org/wiki/SEAMO "wikilink"),『[Get Back On Stage](https://ja.wikipedia.org/wiki/Get_Back_On_Stage "wikilink")』（2005年10月26日）
+  - [SEAMO](../Page/SEAMO.md "wikilink"),『[Get Back On Stage](../Page/Get_Back_On_Stage.md "wikilink")』（2005年10月26日）
 
 <!-- end list -->
 
@@ -80,7 +80,7 @@
 
 <!-- end list -->
 
-  - SEAMO,『[Round About](https://ja.wikipedia.org/wiki/Round_About "wikilink")』（2007年10月31日）
+  - SEAMO,『[Round About](../Page/Round_About.md "wikilink")』（2007年10月31日）
 
 <!-- end list -->
 
@@ -89,7 +89,7 @@
 
 <!-- end list -->
 
-  - [TUT-1026](https://ja.wikipedia.org/wiki/TUT-1026 "wikilink")『[エブリバディー](https://ja.wikipedia.org/wiki/エブリバディー "wikilink")』（2008年[3月19日](../Page/3月19日.md "wikilink")）
+  - [TUT-1026](https://ja.wikipedia.org/wiki/TUT-1026 "wikilink")『[エブリバディー](../Page/エブリバディー.md "wikilink")』（2008年[3月19日](../Page/3月19日.md "wikilink")）
 
 <!-- end list -->
 
@@ -107,7 +107,7 @@
 
 <!-- end list -->
 
-  - [LITTLE](https://ja.wikipedia.org/wiki/LITTLE "wikilink")『["Yes"rhyme-dentity](https://ja.wikipedia.org/wiki/"Yes"rhyme-dentity "wikilink")』（2008年5月8日）
+  - [LITTLE](../Page/LITTLE.md "wikilink")『["Yes"rhyme-dentity](https://ja.wikipedia.org/wiki/"Yes"rhyme-dentity "wikilink")』（2008年5月8日）
 
 <!-- end list -->
 
@@ -125,7 +125,7 @@
 
 <!-- end list -->
 
-  - [アンダーグラフ](https://ja.wikipedia.org/wiki/アンダーグラフ "wikilink")『Mother feat. MICRO(HOME MADE 家族)』（2013年5月8日）
+  - [アンダーグラフ](../Page/アンダーグラフ.md "wikilink")『Mother feat. MICRO(HOME MADE 家族)』（2013年5月8日）
 
 <!-- end list -->
 

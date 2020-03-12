@@ -1,19 +1,19 @@
 > この記事は[KNB](https://ja.wikipedia.org/wiki/KNB)から翻訳されています。
 
 
-『**いっちゃん★KNB**』（いっちゃん★ケイエヌビー、[通称](../Page/通称.md "wikilink")：**いっちゃん**）は、[北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")（KNBテレビ）で[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")\[1\]から放送されている[夕方ワイド番組](https://ja.wikipedia.org/wiki/夕方ワイド番組 "wikilink")である。
+『**いっちゃん★KNB**』（いっちゃん★ケイエヌビー、[通称](../Page/通称.md "wikilink")：**いっちゃん**）は、[北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")（KNBテレビ）で[2007年](../Page/2007年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")\[1\]から放送されている[夕方ワイド番組](../Page/夕方ワイド番組.md "wikilink")である。
 
 ## 概要
 
-北日本放送は、試験的に毎週[火曜日](../Page/火曜日.md "wikilink")に限定してローカル番組を復活、『[相本商店テレビ支店 小林でスミマセン](https://ja.wikipedia.org/wiki/相本商店テレビ支店_小林でスミマセン "wikilink")』（16:22 - 16:50）を[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月7日](../Page/11月7日.md "wikilink")から2007年[3月20日](../Page/3月20日.md "wikilink")まで放送した。
+北日本放送は、試験的に毎週[火曜日](../Page/火曜日.md "wikilink")に限定してローカル番組を復活、『[相本商店テレビ支店 小林でスミマセン](https://ja.wikipedia.org/wiki/相本商店テレビ支店_小林でスミマセン "wikilink")』（16:22 - 16:50）を[2006年](../Page/2006年.md "wikilink")[11月7日](../Page/11月7日.md "wikilink")から2007年[3月20日](../Page/3月20日.md "wikilink")まで放送した。
 
 そして同年4月2日より、1年ぶりに帯の夕方ワイド番組を復活。放送開始を16:25としている。当初は17時台にも一部ローカル枠を設けていたが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")より天気予報を除き17時台もフルネットとなった。後に天気予報の他に18時台のニュースのラインナップを紹介するようになった。
 
-後半は「[KNB news every.](https://ja.wikipedia.org/wiki/KNB_news_every. "wikilink")」というサブタイトルが付いており「[コンプレックス](https://ja.wikipedia.org/wiki/コンプレックス_\(番組形式\) "wikilink")」の体裁になっている。
+後半は「[KNB news every.](https://ja.wikipedia.org/wiki/KNB_news_every. "wikilink")」というサブタイトルが付いており「[コンプレックス](../Page/コンプレックス_\(番組形式\).md "wikilink")」の体裁になっている。
 
 番組タイトルの「いっちゃん」は「一番」が訛った「いっちゃん」と北日本放送のアナログテレビ本局が**1ch**、ならびに[地上デジタルテレビジョン放送](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")の[リモコンキーID](../Page/リモコンキーID.md "wikilink")が**1**であることからの「1チャンネル」を略した「1チャン」を掛けている。
 
-[2011年](../Page/2011年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")からは独自の番組テーマソング（「[いつも、いっちゃん\!](https://ja.wikipedia.org/wiki/いつも、いっちゃん! "wikilink")」）を使用、作詞・作曲は[高原兄](https://ja.wikipedia.org/wiki/高原兄 "wikilink")、歌は[Tomomi](https://ja.wikipedia.org/wiki/Tomomi "wikilink")。
+[2011年](../Page/2011年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")からは独自の番組テーマソング（「[いつも、いっちゃん\!](https://ja.wikipedia.org/wiki/いつも、いっちゃん! "wikilink")」）を使用、作詞・作曲は[高原兄](../Page/高原兄.md "wikilink")、歌は[Tomomi](https://ja.wikipedia.org/wiki/Tomomi "wikilink")。
 
 [2017年](../Page/2017年.md "wikilink")[11月10日](../Page/11月10日.md "wikilink")は10周年記念スペシャルとして19:56まで拡大放送された。そのため、その日放送の『[沸騰ワード10](https://ja.wikipedia.org/wiki/沸騰ワード10 "wikilink")』は[11月12日](../Page/11月12日.md "wikilink")12:00に録画という形で振替放送を行った。
 
@@ -34,7 +34,7 @@
 
   - [上野透](https://ja.wikipedia.org/wiki/上野透 "wikilink")（[2011年](../Page/2011年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink") - ）\[4\]
   - [柴田泰佳](https://ja.wikipedia.org/wiki/柴田泰佳 "wikilink")（[2014年](../Page/2014年.md "wikilink")[1月8日](../Page/1月8日.md "wikilink") - [月曜日](../Page/月曜日.md "wikilink") - [水曜日](../Page/水曜日.md "wikilink")）\[5\]
-  - [柳川明子](https://ja.wikipedia.org/wiki/柳川明子 "wikilink")（[2018年](../Page/2018年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink") - [木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink")・[金曜日](../Page/金曜日.md "wikilink")）
+  - [柳川明子](https://ja.wikipedia.org/wiki/柳川明子 "wikilink")（[2018年](../Page/2018年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink") - [木曜日](../Page/木曜日.md "wikilink")・[金曜日](../Page/金曜日.md "wikilink")）
 
 <!-- end list -->
 
@@ -51,7 +51,7 @@
 
 <!-- end list -->
 
-  - [高原兄](https://ja.wikipedia.org/wiki/高原兄 "wikilink")
+  - [高原兄](../Page/高原兄.md "wikilink")
   - [山下千晴](https://ja.wikipedia.org/wiki/山下千晴 "wikilink")
 
 <!-- end list -->
@@ -87,8 +87,8 @@
 
 <!-- end list -->
 
-  - [数家直樹](https://ja.wikipedia.org/wiki/数家直樹 "wikilink")（[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月2日](../Page/4月2日.md "wikilink") - 、[KNBニュースプラス1](https://ja.wikipedia.org/wiki/KNBニュースプラス1 "wikilink") → [KNB Newsリアルタイムから続投](https://ja.wikipedia.org/wiki/KNB_Newsリアルタイム "wikilink")。）
-  - [武道優美子](https://ja.wikipedia.org/wiki/武道優美子 "wikilink")（2014年[1月6日](../Page/1月6日.md "wikilink") - ）\[6\]
+  - [数家直樹](../Page/数家直樹.md "wikilink")（[2007年](../Page/2007年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink") - 、[KNBニュースプラス1](../Page/KNBニュースプラス1.md "wikilink") → [KNB Newsリアルタイムから続投](../Page/KNB_Newsリアルタイム.md "wikilink")。）
+  - [武道優美子](../Page/武道優美子.md "wikilink")（2014年[1月6日](../Page/1月6日.md "wikilink") - ）\[6\]
 
 <!-- end list -->
 
@@ -114,9 +114,9 @@
 
 <!-- end list -->
 
-  - [小林淳子](https://ja.wikipedia.org/wiki/小林淳子 "wikilink")（2007年4月2日 - 2008年[10月3日](../Page/10月3日.md "wikilink")）
-  - [武部知春](https://ja.wikipedia.org/wiki/武部知春 "wikilink")（2008年10月6日 - 2009年[3月27日](../Page/3月27日.md "wikilink")）
-  - [荒瀬洋太](https://ja.wikipedia.org/wiki/荒瀬洋太 "wikilink")（2009年3月30日 - 2011年4月1日）
+  - [小林淳子](../Page/小林淳子.md "wikilink")（2007年4月2日 - 2008年[10月3日](../Page/10月3日.md "wikilink")）
+  - [武部知春](../Page/武部知春.md "wikilink")（2008年10月6日 - 2009年[3月27日](../Page/3月27日.md "wikilink")）
+  - [荒瀬洋太](../Page/荒瀬洋太.md "wikilink")（2009年3月30日 - 2011年4月1日）
   - 武道優美子（2009年[3月30日](../Page/3月30日.md "wikilink") - 2013年12月27日）\[7\]
   - [松平寛未](https://ja.wikipedia.org/wiki/松平寛未 "wikilink")（[2012年](../Page/2012年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink") - 2014年3月28日、木曜日・金曜日）\[8\]
   - [舟本真理](https://ja.wikipedia.org/wiki/舟本真理 "wikilink")（2014年[3月31日](../Page/3月31日.md "wikilink") - [2015年](../Page/2015年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")）
@@ -128,9 +128,9 @@
 
 <!-- end list -->
 
-  - [相本芳彦](https://ja.wikipedia.org/wiki/相本芳彦 "wikilink")
+  - [相本芳彦](../Page/相本芳彦.md "wikilink")
   - [山村美樹](https://ja.wikipedia.org/wiki/山村美樹 "wikilink")
-  - [栂安亜紀](https://ja.wikipedia.org/wiki/栂安亜紀 "wikilink")\[10\]
+  - [栂安亜紀](../Page/栂安亜紀.md "wikilink")\[10\]
   - 百瀬由璃絵
   - 庄司幸寛
       - 上野アナが高校サッカー取材・中継等で不在の場合は、ピンチヒッターを務めていた。
@@ -141,7 +141,7 @@
 
 <!-- end list -->
 
-  - [梅田恵子](https://ja.wikipedia.org/wiki/梅田恵子 "wikilink")（2007年[4月2日](../Page/4月2日.md "wikilink") - 2008年10月3日）
+  - [梅田恵子](../Page/梅田恵子.md "wikilink")（2007年[4月2日](../Page/4月2日.md "wikilink") - 2008年10月3日）
   - 小林淳子（2008年[10月6日](../Page/10月6日.md "wikilink") - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")3月27日）\[11\]
   - 柳川明子（2010年[3月29日](../Page/3月29日.md "wikilink") - [2013年](../Page/2013年.md "wikilink")12月27日）\[12\]
 
@@ -257,7 +257,7 @@
 
 <!-- end list -->
 
-  - 富山の旨い店リレー ガチメシ（[ゼロいち](https://ja.wikipedia.org/wiki/ゼロいち "wikilink")で放送されたものを[再放送](https://ja.wikipedia.org/wiki/再放送 "wikilink")していた。）
+  - 富山の旨い店リレー ガチメシ（[ゼロいち](https://ja.wikipedia.org/wiki/ゼロいち "wikilink")で放送されたものを[再放送](../Page/再放送.md "wikilink")していた。）
 
 <!-- end list -->
 
@@ -281,7 +281,7 @@
 
 ## 番組のコラボレーション
 
-  - [富山民放3局共同キャンペーン テレビはイ・ロ・ハ\!?の](https://ja.wikipedia.org/wiki/富山民放3局共同キャンペーン_テレビはイ・ロ・ハ!? "wikilink")[PRを兼ねて](../Page/宣伝.md "wikilink")、[2013年](../Page/2013年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")に[富山テレビの](../Page/富山テレビ放送.md "wikilink")[Youドキッ\!たいむ](https://ja.wikipedia.org/wiki/Youドキッ!たいむ "wikilink")と[チューリップテレビ](../Page/チューリップテレビ.md "wikilink")の[N6](https://ja.wikipedia.org/wiki/N6 "wikilink")とコラボ生中継を行った。
+  - [富山民放3局共同キャンペーン テレビはイ・ロ・ハ\!?の](https://ja.wikipedia.org/wiki/富山民放3局共同キャンペーン_テレビはイ・ロ・ハ!? "wikilink")[PRを兼ねて](../Page/宣伝.md "wikilink")、[2013年](../Page/2013年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")に[富山テレビの](../Page/富山テレビ放送.md "wikilink")[Youドキッ\!たいむ](../Page/Youドキッ!たいむ.md "wikilink")と[チューリップテレビ](../Page/チューリップテレビ.md "wikilink")の[N6](https://ja.wikipedia.org/wiki/N6 "wikilink")とコラボ生中継を行った。
 
 ## 関連番組
 

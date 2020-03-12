@@ -1,12 +1,12 @@
 > この記事は[DREAM RUNNER](https://ja.wikipedia.org/wiki/DREAM_RUNNER)から翻訳されています。
 
 
-**中田宏のDREAM RUNNER**（なかだひろしのドリームランナー）は[ニッポン放送](../Page/ニッポン放送.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。パーソナリティは前[横浜市](../Page/横浜市.md "wikilink")[長の](https://ja.wikipedia.org/wiki/市長 "wikilink")[中田宏](https://ja.wikipedia.org/wiki/中田宏 "wikilink")（[2009年](../Page/2009年.md "wikilink")[8月17日](../Page/8月17日.md "wikilink")をもって市長を退任）。
+**中田宏のDREAM RUNNER**（なかだひろしのドリームランナー）は[ニッポン放送](../Page/ニッポン放送.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。パーソナリティは前[横浜市](../Page/横浜市.md "wikilink")[長の](https://ja.wikipedia.org/wiki/市長 "wikilink")[中田宏](../Page/中田宏.md "wikilink")（[2009年](../Page/2009年.md "wikilink")[8月17日](../Page/8月17日.md "wikilink")をもって市長を退任）。
 
 ## 放送内容・放送概要
 
   - 放送開始当時横浜市長だった中田宏がラジオパーソナリティを務める。
-  - 毎回様々なジャンルのゲストを迎え、その人たちの「夢」を語ってもらう。提供は[日産自動車](https://ja.wikipedia.org/wiki/日産自動車 "wikilink")。（2006年度）
+  - 毎回様々なジャンルのゲストを迎え、その人たちの「夢」を語ってもらう。提供は[日産自動車](../Page/日産自動車.md "wikilink")。（2006年度）
 
 2007年度オフ は[東京電力](https://ja.wikipedia.org/wiki/東京電力 "wikilink")が提供している。（ニッポン放送向け）
 

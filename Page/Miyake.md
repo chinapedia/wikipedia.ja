@@ -7,13 +7,13 @@
 
 ## 来歴
 
-[倉敷市立福田中学校](https://ja.wikipedia.org/wiki/倉敷市立福田中学校 "wikilink")出身。 [1999年](../Page/1999年.md "wikilink")に[岡山県立倉敷古城池高等学校](https://ja.wikipedia.org/wiki/岡山県立倉敷古城池高等学校 "wikilink")を卒業後、[東京スクールオブミュージック専門学校](https://ja.wikipedia.org/wiki/東京スクールオブミュージック専門学校 "wikilink")で[和声法](https://ja.wikipedia.org/wiki/和声法 "wikilink")、音楽制作を学ぶ。 同校の一つ上の先輩には[中田ヤスタカ](https://ja.wikipedia.org/wiki/中田ヤスタカ "wikilink")が、一つ下の後輩には作曲家[渡辺拓也](https://ja.wikipedia.org/wiki/渡辺拓也 "wikilink")がいる。またアルバム「[mihimalife](https://ja.wikipedia.org/wiki/mihimalife "wikilink")」収録の「voice」は同校二つ上の先輩、[大谷靖夫](https://ja.wikipedia.org/wiki/大谷靖夫 "wikilink")の作曲である。
+[倉敷市立福田中学校](https://ja.wikipedia.org/wiki/倉敷市立福田中学校 "wikilink")出身。 [1999年](../Page/1999年.md "wikilink")に[岡山県立倉敷古城池高等学校](../Page/岡山県立倉敷古城池高等学校.md "wikilink")を卒業後、[東京スクールオブミュージック専門学校](https://ja.wikipedia.org/wiki/東京スクールオブミュージック専門学校 "wikilink")で[和声法](https://ja.wikipedia.org/wiki/和声法 "wikilink")、音楽制作を学ぶ。 同校の一つ上の先輩には[中田ヤスタカ](https://ja.wikipedia.org/wiki/中田ヤスタカ "wikilink")が、一つ下の後輩には作曲家[渡辺拓也](https://ja.wikipedia.org/wiki/渡辺拓也 "wikilink")がいる。またアルバム「[mihimalife](https://ja.wikipedia.org/wiki/mihimalife "wikilink")」収録の「voice」は同校二つ上の先輩、[大谷靖夫](../Page/大谷靖夫.md "wikilink")の作曲である。
 
 同校での作家オーディションがきっかけで[avexと契約に至る](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。デビューの半年前までは[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")や[BoA](../Page/BoA.md "wikilink")等のアルバムに楽曲を提供していた。
 
 [2003年](../Page/2003年.md "wikilink")1月に、当時ボーカリストを目指していた[hiroko](https://ja.wikipedia.org/wiki/hiroko "wikilink")と出会いユニットを結成する。同年7月にメジャーデビューを果たす。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")11月に2歳年上の女性と結婚し、翌年の春に挙式を行う\[1\]。
+[2006年](../Page/2006年.md "wikilink")11月に2歳年上の女性と結婚し、翌年の春に挙式を行う\[1\]。
 
 [mihimaru GTではMC](https://ja.wikipedia.org/wiki/mihimaru_GT "wikilink")、作詞、作曲および編曲を担当した。
 
@@ -25,20 +25,20 @@
 
 ## 音楽性
 
-好きな音楽ジャンルは[ロック](../Page/ロック_\(音楽\).md "wikilink")、[ファンク](https://ja.wikipedia.org/wiki/ファンク "wikilink")、[ソウル](https://ja.wikipedia.org/wiki/ソウルミュージック "wikilink")、[R\&Bで](../Page/リズム・アンド・ブルース.md "wikilink")、好きなアーティストは[ジャミロクワイ](https://ja.wikipedia.org/wiki/ジャミロクワイ "wikilink")、[Chic](https://ja.wikipedia.org/wiki/シック_\(バンド\) "wikilink")、KC&ザ・サンシャイン・バンド、[ORIGINAL LOVE](https://ja.wikipedia.org/wiki/ORIGINAL_LOVE "wikilink")、[タワー・オブ・パワー](https://ja.wikipedia.org/wiki/タワー・オブ・パワー "wikilink")、[ケツメイシ](https://ja.wikipedia.org/wiki/ケツメイシ "wikilink")、[マルーン5](https://ja.wikipedia.org/wiki/マルーン5 "wikilink")、ニベア、[THE MAD CAPSULE MARKETS](https://ja.wikipedia.org/wiki/THE_MAD_CAPSULE_MARKETS "wikilink")、[CRAZE](../Page/CRAZE.md "wikilink")、[チャカ・カーン](https://ja.wikipedia.org/wiki/チャカ・カーン "wikilink")、[アニタ・ベイカー](https://ja.wikipedia.org/wiki/アニタ・ベイカー "wikilink")、[カニエ・ウェスト](https://ja.wikipedia.org/wiki/カニエ・ウェスト "wikilink")、[スティーヴィー・ワンダー](../Page/スティーヴィー・ワンダー.md "wikilink")\[2\]。
+好きな音楽ジャンルは[ロック](../Page/ロック_\(音楽\).md "wikilink")、[ファンク](../Page/ファンク.md "wikilink")、[ソウル](../Page/ソウルミュージック.md "wikilink")、[R\&Bで](../Page/リズム・アンド・ブルース.md "wikilink")、好きなアーティストは[ジャミロクワイ](../Page/ジャミロクワイ.md "wikilink")、[Chic](../Page/シック_\(バンド\).md "wikilink")、KC&ザ・サンシャイン・バンド、[ORIGINAL LOVE](https://ja.wikipedia.org/wiki/ORIGINAL_LOVE "wikilink")、[タワー・オブ・パワー](../Page/タワー・オブ・パワー.md "wikilink")、[ケツメイシ](../Page/ケツメイシ.md "wikilink")、[マルーン5](../Page/マルーン5.md "wikilink")、ニベア、[THE MAD CAPSULE MARKETS](../Page/THE_MAD_CAPSULE_MARKETS.md "wikilink")、[CRAZE](../Page/CRAZE.md "wikilink")、[チャカ・カーン](../Page/チャカ・カーン.md "wikilink")、[アニタ・ベイカー](../Page/アニタ・ベイカー.md "wikilink")、[カニエ・ウェスト](https://ja.wikipedia.org/wiki/カニエ・ウェスト "wikilink")、[スティーヴィー・ワンダー](../Page/スティーヴィー・ワンダー.md "wikilink")\[2\]。
 
 ## 人物像
 
   - 実家は倉敷市内で園芸店を営んでいる。
   - 幼少時代のあだ名は、みっつん。中学時代に好きな人にふられたのがきっかけで音楽を始めた。
-  - 好物は[チョコレート](https://ja.wikipedia.org/wiki/チョコレート "wikilink")[パフェ](../Page/パフェ.md "wikilink")ととんこつ[醤油](https://ja.wikipedia.org/wiki/醤油 "wikilink")[ラーメン](https://ja.wikipedia.org/wiki/ラーメン "wikilink")。お笑いコンビ[ダウンタウンの似顔絵がうまく](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")、小学生のときにダウンタウンの二人を彫刻で彫ったことがある\[3\]。
+  - 好物は[チョコレート](https://ja.wikipedia.org/wiki/チョコレート "wikilink")[パフェ](../Page/パフェ.md "wikilink")ととんこつ[醤油](../Page/醤油.md "wikilink")[ラーメン](https://ja.wikipedia.org/wiki/ラーメン "wikilink")。お笑いコンビ[ダウンタウンの似顔絵がうまく](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")、小学生のときにダウンタウンの二人を彫刻で彫ったことがある\[3\]。
   - メンバーのhirokoと一緒にいると、よくスタッフに間違えられるという。
   - スタッフに間違われることやマネージャーに髪型がつまらないといわれ髪の色をシルバーにした。手入れが大変なので1週間くらいするとシルバーが落ちて金髪になってしまう。
 
 ## 作品
 
 **miCKunの名義**
-シングル、アルバム共に[ユニバーサルミュージック (日本)](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")
+シングル、アルバム共に[ユニバーサルミュージック (日本)](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")
 
 ### シングル
 
@@ -57,12 +57,12 @@
 ### 提供楽曲
 
   - [BoA](../Page/BoA.md "wikilink")
-      - Winding Road（オリジナル[VALENTI](https://ja.wikipedia.org/wiki/VALENTI_\(アルバム\) "wikilink"); リミックス[Next World](https://ja.wikipedia.org/wiki/Next_World "wikilink") に収録）
+      - Winding Road（オリジナル[VALENTI](../Page/VALENTI_\(アルバム\).md "wikilink"); リミックス[Next World](../Page/Next_World.md "wikilink") に収録）
   - [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")
       - Over Flow（[SMAP 015/Drink\! Smap\!](https://ja.wikipedia.org/wiki/SMAP_015/Drink!_Smap! "wikilink") 収録）
-  - [ウルトラキャッツ](https://ja.wikipedia.org/wiki/ウルトラキャッツ "wikilink")
+  - [ウルトラキャッツ](../Page/ウルトラキャッツ.md "wikilink")
       - ハナタバ（ウルトラC 収録）
-  - [YA-KYIM](https://ja.wikipedia.org/wiki/YA-KYIM "wikilink")
+  - [YA-KYIM](../Page/YA-KYIM.md "wikilink")
       - [BAKUROCK 〜未来の輪郭線〜](https://ja.wikipedia.org/wiki/BAKUROCK_〜未来の輪郭線〜 "wikilink")
   - [SUPER☆GiRLS](https://ja.wikipedia.org/wiki/SUPER☆GiRLS "wikilink")
       - EXIT（[Celebration](https://ja.wikipedia.org/wiki/Celebration_\(SUPER☆GiRLSのアルバム\) "wikilink") 収録）
@@ -71,7 +71,7 @@
 
 ## 映画出演
 
-  - [ドラえもん のび太の新魔界大冒険 〜7人の魔法使い〜](https://ja.wikipedia.org/wiki/ドラえもん_のび太の新魔界大冒険_〜7人の魔法使い〜 "wikilink")（2007年）郵便配達員 役（声優として）
+  - [ドラえもん のび太の新魔界大冒険 〜7人の魔法使い〜](../Page/ドラえもん_のび太の新魔界大冒険_〜7人の魔法使い〜.md "wikilink")（2007年）郵便配達員 役（声優として）
 
 ## 脚注
 

@@ -1,7 +1,7 @@
 > この記事は[So What\?](https://ja.wikipedia.org/wiki/So_What\?)から翻訳されています。
 
 
-『**So What?**』（ソー・ホワット？）は、[わかつきめぐみ](../Page/わかつきめぐみ.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[LaLa](../Page/LaLa.md "wikilink")』([白泉社](../Page/白泉社.md "wikilink"))で、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[8月](../Page/8月.md "wikilink")から[1989年](../Page/1989年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")まで連載。[花とゆめコミックス](https://ja.wikipedia.org/wiki/花とゆめコミックス "wikilink")(全6巻)、[白泉社文庫](https://ja.wikipedia.org/wiki/白泉社文庫 "wikilink")(全4巻)がそれぞれ刊行された。
+『**So What?**』（ソー・ホワット？）は、[わかつきめぐみ](../Page/わかつきめぐみ.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[LaLa](../Page/LaLa.md "wikilink")』([白泉社](../Page/白泉社.md "wikilink"))で、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[8月](../Page/8月.md "wikilink")から[1989年](../Page/1989年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")まで連載。[花とゆめコミックス](../Page/花とゆめコミックス.md "wikilink")(全6巻)、[白泉社文庫](https://ja.wikipedia.org/wiki/白泉社文庫 "wikilink")(全4巻)がそれぞれ刊行された。
 
 ## 概要
 

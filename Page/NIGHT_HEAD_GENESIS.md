@@ -1,7 +1,7 @@
 > この記事は[NIGHT HEAD GENESIS](https://ja.wikipedia.org/wiki/NIGHT_HEAD_GENESIS)から翻訳されています。
 
 
-『**NIGHT HEAD GENESIS**』（ナイト ヘッド ジェネシス）は、テレビドラマ『[NIGHT HEAD](https://ja.wikipedia.org/wiki/NIGHT_HEAD "wikilink")』（厳密には、実写ドラマ終了後にストーリーを再構築した小説版）を原作とした[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。アニメ化の際、原作者・飯田譲治がストーリーを更に再構成している。[月刊マガジンZ](https://ja.wikipedia.org/wiki/月刊マガジンZ "wikilink")で漫画も連載された。
+『**NIGHT HEAD GENESIS**』（ナイト ヘッド ジェネシス）は、テレビドラマ『[NIGHT HEAD](../Page/NIGHT_HEAD.md "wikilink")』（厳密には、実写ドラマ終了後にストーリーを再構築した小説版）を原作とした[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。アニメ化の際、原作者・飯田譲治がストーリーを更に再構成している。[月刊マガジンZ](../Page/月刊マガジンZ.md "wikilink")で漫画も連載された。
 
 [インターネット](../Page/インターネット.md "wikilink")による動画[ストリーミング](../Page/ストリーミング.md "wikilink")及び[衛星放送](../Page/衛星放送.md "wikilink")でコンテンツが放送・配信されていた。（詳細は「[放送局 / 配信サイト](https://ja.wikipedia.org/wiki/#放送局_/_配信サイト "wikilink")」を参照）
 
@@ -13,35 +13,35 @@
 
 ## 登場人物
 
-  - 霧原直人（きりはら なおと）: 声：[森川智之](https://ja.wikipedia.org/wiki/森川智之 "wikilink")
+  - 霧原直人（きりはら なおと）: 声：[森川智之](../Page/森川智之.md "wikilink")
     霧原直也（きりはら なおや）: 声：[石田彰](../Page/石田彰.md "wikilink")
-    御厨恭二郎（みくりや きょうじろう）: 声：[中村秀利](https://ja.wikipedia.org/wiki/中村秀利 "wikilink")
+    御厨恭二郎（みくりや きょうじろう）: 声：[中村秀利](../Page/中村秀利.md "wikilink")
     双海翔子（ふたみ しょうこ）: 声：[渡辺明乃](../Page/渡辺明乃.md "wikilink")
     岬老人（みさきろうじん）: 声：[上田陽司](../Page/上田燿司.md "wikilink")
-    神谷司（かみや つかさ）: 声：[遊佐浩二](https://ja.wikipedia.org/wiki/遊佐浩二 "wikilink")
-    曽根崎道夫（そねざき みちお）: 声：[家中宏](https://ja.wikipedia.org/wiki/家中宏 "wikilink")
+    神谷司（かみや つかさ）: 声：[遊佐浩二](../Page/遊佐浩二.md "wikilink")
+    曽根崎道夫（そねざき みちお）: 声：[家中宏](../Page/家中宏.md "wikilink")
     双海芳紀（ふたみ よしき）: 声：[小野坂昌也](../Page/小野坂昌也.md "wikilink")
-    天元早起枝（あまもと さきえ）: 声：[仙台エリ](https://ja.wikipedia.org/wiki/仙台エリ "wikilink")
-    都築洋介（つづき ようすけ）: 声：[太田哲治](https://ja.wikipedia.org/wiki/太田哲治 "wikilink")
+    天元早起枝（あまもと さきえ）: 声：[仙台エリ](../Page/仙台エリ.md "wikilink")
+    都築洋介（つづき ようすけ）: 声：[太田哲治](../Page/太田哲治.md "wikilink")
     三雲玄吾（みくも げんご）: 声：[諏訪部順一](../Page/諏訪部順一.md "wikilink")
-    坂口修（さかぐち おさむ）: 声：[渋谷茂](https://ja.wikipedia.org/wiki/渋谷茂 "wikilink")
-    奥原晶子（おくはら あきこ）: 声：[宮寺智子](https://ja.wikipedia.org/wiki/宮寺智子 "wikilink")
-    霧原直美（きりはら なおみ）: 声：[仁藤優子](https://ja.wikipedia.org/wiki/仁藤優子 "wikilink")
-    霧原幸彦（きりはら ゆきひこ）: 声：[増谷康紀](https://ja.wikipedia.org/wiki/増谷康紀 "wikilink")
+    坂口修（さかぐち おさむ）: 声：[渋谷茂](../Page/渋谷茂.md "wikilink")
+    奥原晶子（おくはら あきこ）: 声：[宮寺智子](../Page/宮寺智子.md "wikilink")
+    霧原直美（きりはら なおみ）: 声：[仁藤優子](../Page/仁藤優子.md "wikilink")
+    霧原幸彦（きりはら ゆきひこ）: 声：[増谷康紀](../Page/増谷康紀.md "wikilink")
     ナレーション: 声：[武田真治](../Page/武田真治.md "wikilink")
 
 ## スタッフ
 
-  - 原作・脚本 - [飯田譲治](https://ja.wikipedia.org/wiki/飯田譲治 "wikilink")
+  - 原作・脚本 - [飯田譲治](../Page/飯田譲治.md "wikilink")
   - 監督 - [竹内啓雄](../Page/竹内啓雄.md "wikilink")
   - 助監督 - [小林哲也](https://ja.wikipedia.org/wiki/小林哲也 "wikilink")
   - キャラクター原案 - 氷栗優
   - キャラクターデザイン・総作画監督 - 古瀬登
-  - 美術監督 - 小濱俊裕、[加藤浩](https://ja.wikipedia.org/wiki/加藤浩 "wikilink")
+  - 美術監督 - 小濱俊裕、[加藤浩](../Page/加藤浩.md "wikilink")
   - 美術設定 - 塩澤良憲
   - 色彩設計 - 原田幸子
   - 撮影監督 - 阿部安彦
-  - 音響監督 - [岩浪美和](https://ja.wikipedia.org/wiki/岩浪美和 "wikilink")
+  - 音響監督 - [岩浪美和](../Page/岩浪美和.md "wikilink")
   - 編集 - 田熊純
   - 音楽・音楽プロデューサー - [梅林茂](https://ja.wikipedia.org/wiki/梅林茂 "wikilink")
   - ラインプロデューサー - 南喜長
@@ -50,17 +50,17 @@
   - 企画・プロデューサー - 高島健一
   - アニメーション制作 - BEE MEDIA
   - アニメーション制作協力 - [アクタス](../Page/アクタス.md "wikilink")
-  - 製作 - 株式会社[ギャガ・コミュニケーションズ](https://ja.wikipedia.org/wiki/ギャガ・コミュニケーションズ "wikilink")、株式会社[USEN](https://ja.wikipedia.org/wiki/USEN "wikilink")
+  - 製作 - 株式会社[ギャガ・コミュニケーションズ](https://ja.wikipedia.org/wiki/ギャガ・コミュニケーションズ "wikilink")、株式会社[USEN](../Page/USEN.md "wikilink")
 
 ## 主題歌
 
   - エンディングテーマ
 
-:; 「[言葉](https://ja.wikipedia.org/wiki/素晴らしき日常 "wikilink")」（1話-12話）
+:; 「[言葉](../Page/素晴らしき日常.md "wikilink")」（1話-12話）
 
-:: 作詞・作曲 - 真戸原直人 / 編曲 - アンダーグラフ、[島田昌典](https://ja.wikipedia.org/wiki/島田昌典 "wikilink") / 歌 - [アンダーグラフ](https://ja.wikipedia.org/wiki/アンダーグラフ "wikilink")
+:: 作詞・作曲 - 真戸原直人 / 編曲 - アンダーグラフ、[島田昌典](https://ja.wikipedia.org/wiki/島田昌典 "wikilink") / 歌 - [アンダーグラフ](../Page/アンダーグラフ.md "wikilink")
 
-:; 「[眠っていた気持ち 眠っていたココロ](https://ja.wikipedia.org/wiki/眠っていた気持ち_眠っていたココロ "wikilink")」（13話-24話）
+:; 「[眠っていた気持ち 眠っていたココロ](../Page/眠っていた気持ち_眠っていたココロ.md "wikilink")」（13話-24話）
 
   -
 
@@ -168,7 +168,7 @@ Hwang Young Sik</p></td>
 <tr class="odd">
 <td><p>Episode13</p></td>
 <td><p>遊戯</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/うえだひでひと" title="wikilink">うえだひでひと</a></p></td>
+<td><p><a href="../Page/うえだひでひと.md" title="wikilink">うえだひでひと</a></p></td>
 <td><p>内田信吾</p></td>
 <td><p>飯飼一幸</p></td>
 </tr>

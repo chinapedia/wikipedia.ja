@@ -1,13 +1,13 @@
 > この記事は[Colors of the Heart](https://ja.wikipedia.org/wiki/Colors_of_the_Heart)から翻訳されています。
 
 
-「**Colors of the Heart**」（カラーズ オブ ザ ハート）とは、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")、[UVERworld](../Page/UVERworld.md "wikilink")の楽曲で、4枚目の[シングル](../Page/シングル.md "wikilink")である。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[5月17日](../Page/5月17日.md "wikilink")に[gr8\!records](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")(SME)から発売された。
+「**Colors of the Heart**」（カラーズ オブ ザ ハート）とは、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")、[UVERworld](../Page/UVERworld.md "wikilink")の楽曲で、4枚目の[シングル](../Page/シングル.md "wikilink")である。[2006年](../Page/2006年.md "wikilink")[5月17日](../Page/5月17日.md "wikilink")に[gr8\!records](../Page/ソニー・ミュージックレコーズ.md "wikilink")(SME)から発売された。
 
 ## 概要
 
-表題曲は、[TBS系アニメ](../Page/TBSテレビ.md "wikilink")『[BLOOD+](https://ja.wikipedia.org/wiki/BLOOD+ "wikilink")』3代目オープニングテーマと[サンスター](https://ja.wikipedia.org/wiki/サンスター "wikilink")「[VO5](https://ja.wikipedia.org/wiki/VO5 "wikilink")シリーズ」CMタイアップソングに起用。DVDと描きおろし[ステッカーが付属の初回生産限定盤と通常盤の](https://ja.wikipedia.org/wiki/シール "wikilink")2形態で発売。
+表題曲は、[TBS系アニメ](../Page/TBSテレビ.md "wikilink")『[BLOOD+](../Page/BLOOD+.md "wikilink")』3代目オープニングテーマと[サンスター](../Page/サンスター.md "wikilink")「[VO5](https://ja.wikipedia.org/wiki/VO5 "wikilink")シリーズ」CMタイアップソングに起用。DVDと描きおろし[ステッカーが付属の初回生産限定盤と通常盤の](../Page/シール.md "wikilink")2形態で発売。
 
-初の[オリコン初登場](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")3位を獲得。また、今までリリースされた全シングル・[アルバム](../Page/アルバム.md "wikilink")のジャケットを飾っていたキャラクター"UVERちゃん"がこのシングルからは使われなくなり、今作以降のCDからはメンバーを絵柄にしたジャケットに替わった。
+初の[オリコン初登場](../Page/オリコンチャート.md "wikilink")3位を獲得。また、今までリリースされた全シングル・[アルバム](../Page/アルバム.md "wikilink")のジャケットを飾っていたキャラクター"UVERちゃん"がこのシングルからは使われなくなり、今作以降のCDからはメンバーを絵柄にしたジャケットに替わった。
 
 この曲で、音楽番組『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系）、『[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』（[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）に再び出演した。
 
@@ -28,7 +28,7 @@
       - SOUND極ROAD(インディーズ)に原曲「癒光」が存在する。
 2.  **SORA**
       - 作詞：TAKUYA∞　作曲：TAKUYA∞,彰
-      - ドラムの真太郎はこの曲について「めちゃくちゃかっこよくて、UVERの曲の中で一番好き」「音がいいとか歌詞がいいと言うよりも単純にかっこいい」と語っている。ツアーより、イベントライブなどの[アンコール](https://ja.wikipedia.org/wiki/アンコール "wikilink")でよく歌われる。
+      - ドラムの真太郎はこの曲について「めちゃくちゃかっこよくて、UVERの曲の中で一番好き」「音がいいとか歌詞がいいと言うよりも単純にかっこいい」と語っている。ツアーより、イベントライブなどの[アンコール](../Page/アンコール.md "wikilink")でよく歌われる。
 3.  **一人じゃないから**
       - 作詞・作曲：TAKUYA∞
       - メンバー全員が上京した時の故郷[滋賀県](../Page/滋賀県.md "wikilink")に対する想いを歌った曲。[ピアノ](../Page/ピアノ.md "wikilink")[伴奏](https://ja.wikipedia.org/wiki/伴奏 "wikilink")は、TAKUYA∞自身が行っている。信人は、あまりの曲の良さに号泣したという。

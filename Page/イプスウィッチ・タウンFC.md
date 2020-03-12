@@ -1,9 +1,9 @@
 > この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
 
 
-**イプスウィッチ・タウン**（**Ipswich Town Football Club**）は、[イングランド](../Page/イングランド.md "wikilink")・[サフォーク](https://ja.wikipedia.org/wiki/サフォーク "wikilink")州・[イプスウィッチ](../Page/イプスウィッチ.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。2019-20シーズンは[リーグ1](../Page/EFLリーグ1.md "wikilink")（3部相当）に所属。1878年10月16日に創立。1938年にフットボールリーグに加盟した。
+**イプスウィッチ・タウン**（**Ipswich Town Football Club**）は、[イングランド](../Page/イングランド.md "wikilink")・[サフォーク](../Page/サフォーク.md "wikilink")州・[イプスウィッチ](../Page/イプスウィッチ.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。2019-20シーズンは[リーグ1](../Page/EFLリーグ1.md "wikilink")（3部相当）に所属。1878年10月16日に創立。1938年にフットボールリーグに加盟した。
 
-[アルフ・ラムゼイ](https://ja.wikipedia.org/wiki/アルフ・ラムゼイ "wikilink")が率いた1961-62シーズンにリーグを制し、[ボビー・ロブソン](https://ja.wikipedia.org/wiki/ボビー・ロブソン "wikilink")が率いた1977-78シーズンには[FAカップ](../Page/FAカップ.md "wikilink")を獲得した。1980-81シーズンには2試合合計スコア5対4で[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の[AZを破り](https://ja.wikipedia.org/wiki/AZアルクマール "wikilink")、[UEFAカップを獲得した](../Page/UEFAヨーロッパリーグ.md "wikilink")。
+[アルフ・ラムゼイ](https://ja.wikipedia.org/wiki/アルフ・ラムゼイ "wikilink")が率いた1961-62シーズンにリーグを制し、[ボビー・ロブソン](../Page/ボビー・ロブソン.md "wikilink")が率いた1977-78シーズンには[FAカップ](../Page/FAカップ.md "wikilink")を獲得した。1980-81シーズンには2試合合計スコア5対4で[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の[AZを破り](../Page/AZアルクマール.md "wikilink")、[UEFAカップを獲得した](../Page/UEFAヨーロッパリーグ.md "wikilink")。
 
 ## タイトル
 
@@ -379,7 +379,7 @@
 </tr>
 <tr class="even">
 <td><p>2004-05</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/EFLチャンピオンシップ" title="wikilink">チャンピオン</a></p></td>
+<td><p><a href="../Page/EFLチャンピオンシップ.md" title="wikilink">チャンピオン</a></p></td>
 <td><p>46</p></td>
 <td><p>24</p></td>
 <td><p>13</p></td>
@@ -388,7 +388,7 @@
 </tr>
 <tr class="odd">
 <td><p>2005-06</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/EFLチャンピオンシップ" title="wikilink">チャンピオン</a></p></td>
+<td><p><a href="../Page/EFLチャンピオンシップ.md" title="wikilink">チャンピオン</a></p></td>
 <td><p>46</p></td>
 <td><p>14</p></td>
 <td><p>14</p></td>
@@ -397,7 +397,7 @@
 </tr>
 <tr class="even">
 <td><p>2006-07</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/EFLチャンピオンシップ" title="wikilink">チャンピオン</a></p></td>
+<td><p><a href="../Page/EFLチャンピオンシップ.md" title="wikilink">チャンピオン</a></p></td>
 <td><p>46</p></td>
 <td><p>18</p></td>
 <td><p>8</p></td>
@@ -406,7 +406,7 @@
 </tr>
 <tr class="odd">
 <td><p>2007-08</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/EFLチャンピオンシップ" title="wikilink">チャンピオン</a></p></td>
+<td><p><a href="../Page/EFLチャンピオンシップ.md" title="wikilink">チャンピオン</a></p></td>
 <td><p>46</p></td>
 <td><p>18</p></td>
 <td><p>15</p></td>
@@ -415,7 +415,7 @@
 </tr>
 <tr class="even">
 <td><p>2008-09</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/EFLチャンピオンシップ" title="wikilink">チャンピオン</a></p></td>
+<td><p><a href="../Page/EFLチャンピオンシップ.md" title="wikilink">チャンピオン</a></p></td>
 <td><p>46</p></td>
 <td><p>17</p></td>
 <td><p>15</p></td>
@@ -424,7 +424,7 @@
 </tr>
 <tr class="odd">
 <td><p>2009-10</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/EFLチャンピオンシップ" title="wikilink">チャンピオン</a></p></td>
+<td><p><a href="../Page/EFLチャンピオンシップ.md" title="wikilink">チャンピオン</a></p></td>
 <td><p>46</p></td>
 <td><p>12</p></td>
 <td><p>20</p></td>
@@ -433,7 +433,7 @@
 </tr>
 <tr class="even">
 <td><p>2010-11</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/EFLチャンピオンシップ" title="wikilink">チャンピオン</a></p></td>
+<td><p><a href="../Page/EFLチャンピオンシップ.md" title="wikilink">チャンピオン</a></p></td>
 <td><p>46</p></td>
 <td><p>18</p></td>
 <td><p>8</p></td>
@@ -442,7 +442,7 @@
 </tr>
 <tr class="odd">
 <td><p>2011-12</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/EFLチャンピオンシップ" title="wikilink">チャンピオン</a></p></td>
+<td><p><a href="../Page/EFLチャンピオンシップ.md" title="wikilink">チャンピオン</a></p></td>
 <td><p>46</p></td>
 <td><p>17</p></td>
 <td><p>10</p></td>
@@ -451,7 +451,7 @@
 </tr>
 <tr class="even">
 <td><p>2012-13</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/EFLチャンピオンシップ" title="wikilink">チャンピオン</a></p></td>
+<td><p><a href="../Page/EFLチャンピオンシップ.md" title="wikilink">チャンピオン</a></p></td>
 <td><p>46</p></td>
 <td><p>16</p></td>
 <td><p>12</p></td>
@@ -460,7 +460,7 @@
 </tr>
 <tr class="odd">
 <td><p>2013-14</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/EFLチャンピオンシップ" title="wikilink">チャンピオン</a></p></td>
+<td><p><a href="../Page/EFLチャンピオンシップ.md" title="wikilink">チャンピオン</a></p></td>
 <td><p>46</p></td>
 <td><p>18</p></td>
 <td><p>14</p></td>
@@ -469,7 +469,7 @@
 </tr>
 <tr class="even">
 <td><p>2014-15</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/EFLチャンピオンシップ" title="wikilink">チャンピオン</a></p></td>
+<td><p><a href="../Page/EFLチャンピオンシップ.md" title="wikilink">チャンピオン</a></p></td>
 <td><p>46</p></td>
 <td><p>22</p></td>
 <td><p>12</p></td>
@@ -478,7 +478,7 @@
 </tr>
 <tr class="odd">
 <td><p>2015-16</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/EFLチャンピオンシップ" title="wikilink">チャンピオン</a></p></td>
+<td><p><a href="../Page/EFLチャンピオンシップ.md" title="wikilink">チャンピオン</a></p></td>
 <td><p>46</p></td>
 <td><p>18</p></td>
 <td><p>15</p></td>
@@ -487,7 +487,7 @@
 </tr>
 <tr class="even">
 <td><p>2016-17</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/EFLチャンピオンシップ" title="wikilink">チャンピオン</a></p></td>
+<td><p><a href="../Page/EFLチャンピオンシップ.md" title="wikilink">チャンピオン</a></p></td>
 <td><p>46</p></td>
 <td><p>13</p></td>
 <td><p>16</p></td>
@@ -496,7 +496,7 @@
 </tr>
 <tr class="odd">
 <td><p>2017-18</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/EFLチャンピオンシップ" title="wikilink">チャンピオン</a></p></td>
+<td><p><a href="../Page/EFLチャンピオンシップ.md" title="wikilink">チャンピオン</a></p></td>
 <td><p>46</p></td>
 <td><p>17</p></td>
 <td><p>9</p></td>
@@ -505,7 +505,7 @@
 </tr>
 <tr class="even">
 <td><p>2018-19</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/EFLチャンピオンシップ" title="wikilink">チャンピオン</a></p></td>
+<td><p><a href="../Page/EFLチャンピオンシップ.md" title="wikilink">チャンピオン</a></p></td>
 <td><p>46</p></td>
 <td><p>5</p></td>
 <td><p>16</p></td>
@@ -548,7 +548,7 @@
 
   - [ビリー・マクギャリー](https://ja.wikipedia.org/wiki/ビリー・マクギャリー "wikilink") 1964.10.5 - 1968.11.23
 
-  - [ボビー・ロブソン](https://ja.wikipedia.org/wiki/ボビー・ロブソン "wikilink") 1969.1.13 - 1982.8.18
+  - [ボビー・ロブソン](../Page/ボビー・ロブソン.md "wikilink") 1969.1.13 - 1982.8.18
 
   - [ボビー・ファーガソン](https://ja.wikipedia.org/wiki/ボビー・ファーガソン "wikilink") 1982.8.19 - 1987.5.17
 
@@ -564,9 +564,9 @@
 
   - [ロイ・キーン](../Page/ロイ・キーン.md "wikilink") 2009.4.23 - 2011.1.7
 
-  - [ポール・ジュエル](https://ja.wikipedia.org/wiki/ポール・ジュエル "wikilink") 2011.1.10 - 2012.10.24
+  - [ポール・ジュエル](../Page/ポール・ジュエル.md "wikilink") 2011.1.10 - 2012.10.24
 
-  - [ミック・マッカーシー](https://ja.wikipedia.org/wiki/ミック・マッカーシー "wikilink") 2012.11.1 - 2018.4.10
+  - [ミック・マッカーシー](../Page/ミック・マッカーシー.md "wikilink") 2012.11.1 - 2018.4.10
 
   - [ブライアン・クラグ](https://ja.wikipedia.org/wiki/ブライアン・クラグ "wikilink") 2018.4.11 - 2018.5.6
 
@@ -600,15 +600,15 @@
 
 <!-- end list -->
 
-  - [キーロン・ダイアー](https://ja.wikipedia.org/wiki/キーロン・ダイアー "wikilink") 1996-1999
+  - [キーロン・ダイアー](../Page/キーロン・ダイアー.md "wikilink") 1996-1999
 
   - [マット・ホランド](../Page/マット・ホランド.md "wikilink") 1997-2003
 
   - [アミール・カーリッチ](../Page/アミール・カーリッチ.md "wikilink") 2000
 
-  - [フィニディ・ジョージ](https://ja.wikipedia.org/wiki/フィニディ・ジョージ "wikilink") 2001-2003
+  - [フィニディ・ジョージ](../Page/フィニディ・ジョージ.md "wikilink") 2001-2003
 
-  - [ダレン・アンブローズ](https://ja.wikipedia.org/wiki/ダレン・アンブローズ "wikilink") 2001-2003
+  - [ダレン・アンブローズ](../Page/ダレン・アンブローズ.md "wikilink") 2001-2003
 
   - [シルヴァン・レグヴァンスキ](https://ja.wikipedia.org/wiki/シルヴァン・レグヴァンスキ "wikilink") 2006-2008
 
@@ -620,7 +620,7 @@
 
 <!-- end list -->
 
-  - [ダレン・ベント](https://ja.wikipedia.org/wiki/ダレン・ベント "wikilink") 2001-2005
+  - [ダレン・ベント](../Page/ダレン・ベント.md "wikilink") 2001-2005
 
   - [シェフキ・クキ](../Page/シェフキ・クキ.md "wikilink") 2003-2005, 2008
 

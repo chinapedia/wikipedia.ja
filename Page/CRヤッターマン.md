@@ -1,7 +1,7 @@
 > この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
 
 
-**CRヤッターマン**は、[平和が](https://ja.wikipedia.org/wiki/平和_\(パチンコ\) "wikilink")2001年および2009年に開発・発売した[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")機。
+**CRヤッターマン**は、[平和が](../Page/平和_\(パチンコ\).md "wikilink")2001年および2009年に開発・発売した[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")機。
 
 本項では、CRヤッターマン以外の『[ヤッターマン](../Page/ヤッターマン.md "wikilink")』とのタイアップ機についても記述する。
 
@@ -37,7 +37,7 @@
 
 ## CRドロンジョにおまかせ
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")発売。
+[2005年](../Page/2005年.md "wikilink")発売。
 
 パチスロの『[ドロンジョにおまかせ](../Page/ヤッターマン只今参上.md "wikilink")』を継承。キャッチフレーズは『ドロンジョは、三度よみがえる』。
 

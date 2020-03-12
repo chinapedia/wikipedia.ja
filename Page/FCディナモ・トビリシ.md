@@ -5,11 +5,11 @@
 
 ## 概要
 
-[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")時代から実績、名声ともに当時の[グルジア・ソビエト社会主義共和国](../Page/グルジア・ソビエト社会主義共和国.md "wikilink")を代表するクラブとして知られ、主要タイトル（[ソ連リーグ](https://ja.wikipedia.org/wiki/ソビエト連邦サッカーリーグ "wikilink")、[カップ](../Page/USSRカップ.md "wikilink")）を獲得した国内唯一のクラブだった。[1981年](../Page/1981年.md "wikilink")の[UEFAカップウィナーズカップ](../Page/UEFAカップウィナーズカップ.md "wikilink")にはソ連代表として出場、決勝で[東ドイツの](../Page/ドイツ民主共和国.md "wikilink")[FCカールツァイス・イェーナ](../Page/FCカールツァイス・イェーナ.md "wikilink")を2対1で破り、初の欧州タイトルに輝いた。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に始まった[ウマグレシ・リーガ](https://ja.wikipedia.org/wiki/ウマグレシ・リーガ "wikilink")では最初の10年間で10連覇を達成した。
+[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")時代から実績、名声ともに当時の[グルジア・ソビエト社会主義共和国](../Page/グルジア・ソビエト社会主義共和国.md "wikilink")を代表するクラブとして知られ、主要タイトル（[ソ連リーグ](../Page/ソビエト連邦サッカーリーグ.md "wikilink")、[カップ](../Page/USSRカップ.md "wikilink")）を獲得した国内唯一のクラブだった。[1981年](../Page/1981年.md "wikilink")の[UEFAカップウィナーズカップ](../Page/UEFAカップウィナーズカップ.md "wikilink")にはソ連代表として出場、決勝で[東ドイツの](../Page/ドイツ民主共和国.md "wikilink")[FCカールツァイス・イェーナ](../Page/FCカールツァイス・イェーナ.md "wikilink")を2対1で破り、初の欧州タイトルに輝いた。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に始まった[ウマグレシ・リーガ](https://ja.wikipedia.org/wiki/ウマグレシ・リーガ "wikilink")では最初の10年間で10連覇を達成した。
 
 本拠地のボリス・パイチャーゼ・スタジアム（ディナモ・スタジアムとも呼称される）は、かつてディナモで活躍した名選手[ボリス・パイチャーゼ](https://ja.wikipedia.org/wiki/ボリス・パイチャーゼ "wikilink")の名に因む。
 
-[バスケットボール](../Page/バスケットボール.md "wikilink")部門のBCディナモ・トビリシは1961-62シーズンの[欧州チャンピオンズカップに優勝した](https://ja.wikipedia.org/wiki/ユーロリーグ "wikilink")。
+[バスケットボール](../Page/バスケットボール.md "wikilink")部門のBCディナモ・トビリシは1961-62シーズンの[欧州チャンピオンズカップに優勝した](../Page/ユーロリーグ.md "wikilink")。
 
 ## タイトル
 
@@ -26,7 +26,7 @@
 
 <!-- end list -->
 
-  - **[ソ連リーグ](https://ja.wikipedia.org/wiki/ソビエト連邦サッカーリーグ "wikilink"):2回**
+  - **[ソ連リーグ](../Page/ソビエト連邦サッカーリーグ.md "wikilink"):2回**
       - 1964、1978
   - **[ソ連カップ](../Page/USSRカップ.md "wikilink"):2回**
       - 1976、1979
@@ -113,7 +113,7 @@
 </tr>
 <tr class="odd">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/OFKベオグラード" title="wikilink">ベオグラード</a></p></td>
+<td><p><a href="../Page/OFKベオグラード.md" title="wikilink">ベオグラード</a></p></td>
 <td><p>3–0</p></td>
 <td><p>5–1</p></td>
 <td><p>'''8-1</p></td>
@@ -123,7 +123,7 @@
 </tr>
 <tr class="even">
 <td><p>3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トッテナム・ホットスパーFC" title="wikilink">トッテナム・ホットスパー</a></p></td>
+<td><p><a href="../Page/トッテナム・ホットスパーFC.md" title="wikilink">トッテナム・ホットスパー</a></p></td>
 <td><p>1–1</p></td>
 <td><p>1–5</p></td>
 <td><p>'''2-6</p></td>
@@ -135,7 +135,7 @@
 <td><p>1976-77</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1976-77" title="wikilink">UEFAカップウィナーズカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カーディフ・シティFC" title="wikilink">カーディフ・シティ</a></p></td>
+<td><p><a href="../Page/カーディフ・シティFC.md" title="wikilink">カーディフ・シティ</a></p></td>
 <td><p>3–0</p></td>
 <td><p>0–1</p></td>
 <td><p>'''3-1</p></td>
@@ -173,7 +173,7 @@
 </tr>
 <tr class="odd">
 <td><p>3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/グラスホッパー・クラブ・チューリッヒ" title="wikilink">グラスホッパーズ</a></p></td>
+<td><p><a href="../Page/グラスホッパー・クラブ・チューリッヒ.md" title="wikilink">グラスホッパーズ</a></p></td>
 <td><p>1–0</p></td>
 <td><p>0–4</p></td>
 <td><p>'''1-4</p></td>
@@ -213,7 +213,7 @@
 </tr>
 <tr class="odd">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハンブルガーSV" title="wikilink">ハンブルガーSV</a></p></td>
+<td><p><a href="../Page/ハンブルガーSV.md" title="wikilink">ハンブルガーSV</a></p></td>
 <td><p>2-3</p></td>
 <td><p>1-3</p></td>
 <td><p>'''3-6</p></td>
@@ -283,7 +283,7 @@
 </tr>
 <tr class="even">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SCバスティア" title="wikilink">バスティア</a></p></td>
+<td><p><a href="../Page/SCバスティア.md" title="wikilink">バスティア</a></p></td>
 <td><p>3–1</p></td>
 <td><p>1–1</p></td>
 <td><p>'''4-2</p></td>
@@ -318,7 +318,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/SSCナポリ" title="wikilink">ナポリ</a></p></td>
 <td><p>2-1</p></td>
 <td><p>0-1</p></td>
-<td><p>'''2-2 (<a href="https://ja.wikipedia.org/wiki/アウェーゴール" title="wikilink">a</a>)</p></td>
+<td><p>'''2-2 (<a href="../Page/アウェーゴール.md" title="wikilink">a</a>)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
 <tr class="even">
@@ -343,7 +343,7 @@
 </tr>
 <tr class="even">
 <td><p>3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヴェルダー・ブレーメン" title="wikilink">ヴェルダー・ブレーメン</a></p></td>
+<td><p><a href="../Page/ヴェルダー・ブレーメン.md" title="wikilink">ヴェルダー・ブレーメン</a></p></td>
 <td><p>1–1</p></td>
 <td><p>1–2</p></td>
 <td><p>'''2-3</p></td>
@@ -365,7 +365,7 @@
 <td><p>1994-95</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1994-95" title="wikilink">UEFAカップ</a></p></td>
 <td><p>予選ラウンド</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCウニヴェルシタテア・クラヨーヴァ" title="wikilink">ウニヴェルシタテア・クラヨーヴァ</a></p></td>
+<td><p><a href="../Page/FCウニヴェルシタテア・クラヨーヴァ.md" title="wikilink">ウニヴェルシタテア・クラヨーヴァ</a></p></td>
 <td><p>2–0</p></td>
 <td><p>2–1</p></td>
 <td><p>'''4-1</p></td>
@@ -423,7 +423,7 @@
 </tr>
 <tr class="even">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ボアヴィスタFC" title="wikilink">ボアヴィスタ</a></p></td>
+<td><p><a href="../Page/ボアヴィスタFC.md" title="wikilink">ボアヴィスタ</a></p></td>
 <td><p>1-0</p></td>
 <td><p>0-5</p></td>
 <td><p>'''1-5</p></td>
@@ -443,7 +443,7 @@
 </tr>
 <tr class="even">
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/バイエル・レバークーゼン" title="wikilink">バイエル・レバークーゼン</a></p></td>
+<td><p><a href="../Page/バイエル・レバークーゼン.md" title="wikilink">バイエル・レバークーゼン</a></p></td>
 <td><p>1-0</p></td>
 <td><p>1-6</p></td>
 <td><p>'''2-6</p></td>
@@ -463,7 +463,7 @@
 </tr>
 <tr class="even">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SCブラガ" title="wikilink">ブラガ</a></p></td>
+<td><p><a href="../Page/SCブラガ.md" title="wikilink">ブラガ</a></p></td>
 <td><p>0-1</p></td>
 <td><p>0-4</p></td>
 <td><p>'''0-5</p></td>
@@ -483,7 +483,7 @@
 </tr>
 <tr class="even">
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アスレティック・ビルバオ" title="wikilink">アスレティック・ビルバオ</a></p></td>
+<td><p><a href="../Page/アスレティック・ビルバオ.md" title="wikilink">アスレティック・ビルバオ</a></p></td>
 <td><p>2-1</p></td>
 <td><p>0-1</p></td>
 <td><p>'''2-2 (a)</p></td>
@@ -574,7 +574,7 @@
 </tr>
 <tr class="odd">
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SKスラヴィア・プラハ" title="wikilink">スラヴィア・プラハ</a></p></td>
+<td><p><a href="../Page/SKスラヴィア・プラハ.md" title="wikilink">スラヴィア・プラハ</a></p></td>
 <td><p>2–0</p></td>
 <td><p>1–3</p></td>
 <td><p>'''3-3 (a)</p></td>
@@ -584,7 +584,7 @@
 </tr>
 <tr class="even">
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヴィスワ・クラクフ" title="wikilink">ヴィスワ・クラクフ</a></p></td>
+<td><p><a href="../Page/ヴィスワ・クラクフ.md" title="wikilink">ヴィスワ・クラクフ</a></p></td>
 <td><p>2–1</p></td>
 <td><p>3–4</p></td>
 <td><p>'''5-5 (a)</p></td>
@@ -603,7 +603,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ニューカッスル・ユナイテッドFC" title="wikilink">ニューカッスル・ユナイテッド</a></p></td>
+<td><p><a href="../Page/ニューカッスル・ユナイテッドFC.md" title="wikilink">ニューカッスル・ユナイテッド</a></p></td>
 <td><p>style="background-color:#CFF" align="center" </p></td>
 <td><p>0-2</p></td>
 <td></td>
@@ -613,7 +613,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/スポルティング・クルーベ・デ・ポルトゥガル" title="wikilink">スポルティングCP</a></p></td>
+<td><p><a href="../Page/スポルティング・クルーベ・デ・ポルトゥガル.md" title="wikilink">スポルティングCP</a></p></td>
 <td><p>0-4</p></td>
 <td><p>style="background-color:#CFF" align="center" </p></td>
 <td></td>
@@ -684,7 +684,7 @@
 </tr>
 <tr class="even">
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SKラピード・ウィーン" title="wikilink">ラピード・ウィーン</a></p></td>
+<td><p><a href="../Page/SKラピード・ウィーン.md" title="wikilink">ラピード・ウィーン</a></p></td>
 <td><p>0–3</p></td>
 <td><p>0–5</p></td>
 <td><p>'''0-8</p></td>
@@ -724,7 +724,7 @@
 </tr>
 <tr class="even">
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レッドスター・ベオグラード" title="wikilink">ツルヴェナ・ズヴェズダ</a></p></td>
+<td><p><a href="../Page/レッドスター・ベオグラード.md" title="wikilink">ツルヴェナ・ズヴェズダ</a></p></td>
 <td><p>2–0</p></td>
 <td><p>2–5</p></td>
 <td><p>'''4-5</p></td>
@@ -825,7 +825,7 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2013-14" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>プレーオフ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トッテナム・ホットスパーFC" title="wikilink">トッテナム・ホットスパー</a></p></td>
+<td><p><a href="../Page/トッテナム・ホットスパーFC.md" title="wikilink">トッテナム・ホットスパー</a></p></td>
 <td><p>0–5</p></td>
 <td><p>0–3</p></td>
 <td><p>'''0-8</p></td>

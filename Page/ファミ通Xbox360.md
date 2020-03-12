@@ -1,11 +1,11 @@
 > この記事は[Xbox360](https://ja.wikipedia.org/wiki/Xbox360)から翻訳されています。
 
 
-『**ファミ通Xbox360**』（ファミつうエックスボックスさんろくまる）は、[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")から発行されていた[Xbox及び](../Page/Xbox_\(ゲーム機\).md "wikilink")[Xbox 360専門](../Page/Xbox_360.md "wikilink")[ゲーム雑誌](https://ja.wikipedia.org/wiki/ゲーム雑誌 "wikilink")（唯一の専門誌でもあった）。
+『**ファミ通Xbox360**』（ファミつうエックスボックスさんろくまる）は、[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")から発行されていた[Xbox及び](../Page/Xbox_\(ゲーム機\).md "wikilink")[Xbox 360専門](../Page/Xbox_360.md "wikilink")[ゲーム雑誌](../Page/ゲーム雑誌.md "wikilink")（唯一の専門誌でもあった）。
 
 ## 概要
 
-[2002年](../Page/2002年.md "wikilink")1月に『**ファミ通Xbox**』の表題で創刊、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")にXbox 360が発売されたことに伴い、同年9月30日発売の11月号より現在の雑誌名に変更した。公称発行部数は12万部。
+[2002年](../Page/2002年.md "wikilink")1月に『**ファミ通Xbox**』の表題で創刊、[2005年](../Page/2005年.md "wikilink")にXbox 360が発売されたことに伴い、同年9月30日発売の11月号より現在の雑誌名に変更した。公称発行部数は12万部。
 
 編集スタッフの大半は元・『[ファミ通DC](https://ja.wikipedia.org/wiki/ファミ通DC "wikilink")』編集部員により構成されていた。Xbox 360のオンラインコンテンツ『inside xbox』の金曜日のコンテンツを担当したこともある。inside第3期に入ると毎月末に「月刊編集長」と題して松井ムネタツが出演するようになる。
 

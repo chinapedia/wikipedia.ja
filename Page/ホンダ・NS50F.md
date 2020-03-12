@@ -5,11 +5,11 @@
 
 ## 車両解説
 
-[排気量](../Page/排気量.md "wikilink")49ccの[水冷](https://ja.wikipedia.org/wiki/水冷エンジン "wikilink")[2ストローク](../Page/2ストローク機関.md "wikilink")[単気筒エンジン](../Page/単気筒エンジン.md "wikilink")を搭載するロードスポーツ[NSシリーズに属する](https://ja.wikipedia.org/wiki/ホンダ・NS "wikilink")[原動機付自転車](../Page/原動機付自転車.md "wikilink")である。
+[排気量](../Page/排気量.md "wikilink")49ccの[水冷](../Page/水冷エンジン.md "wikilink")[2ストローク](../Page/2ストローク機関.md "wikilink")[単気筒エンジン](../Page/単気筒エンジン.md "wikilink")を搭載するロードスポーツ[NSシリーズに属する](../Page/ホンダ・NS.md "wikilink")[原動機付自転車](../Page/原動機付自転車.md "wikilink")である。
 
 ### NS50F
 
-型式名A-AC08\[1\]。MC14型[CBR250FOURをイメージしたデザインでハーフ](https://ja.wikipedia.org/wiki/ホンダ・CBR250FOUR "wikilink")[カウル](../Page/カウル.md "wikilink")を装着するほか、他の同クラスモデルと比較して大きな車体と容量10Lの燃料タンクを特徴とする。搭載されるAC08E型エンジンは[MBX50系と基本設計を共用し](https://ja.wikipedia.org/wiki/ホンダ・MBX "wikilink")、最高出力7.2psを発生する。
+型式名A-AC08\[1\]。MC14型[CBR250FOURをイメージしたデザインでハーフ](https://ja.wikipedia.org/wiki/ホンダ・CBR250FOUR "wikilink")[カウル](../Page/カウル.md "wikilink")を装着するほか、他の同クラスモデルと比較して大きな車体と容量10Lの燃料タンクを特徴とする。搭載されるAC08E型エンジンは[MBX50系と基本設計を共用し](../Page/ホンダ・MBX.md "wikilink")、最高出力7.2psを発生する。
 
 #### 遍歴
 
@@ -38,7 +38,7 @@
 
 :\* 車名を**NS50F**に変更
 
-:\* [ヘッドライトをイエロースーパークリプトンバルブを装着するレンズ一体型デュアルタイプへ変更](https://ja.wikipedia.org/wiki/前照灯 "wikilink")
+:\* [ヘッドライトをイエロースーパークリプトンバルブを装着するレンズ一体型デュアルタイプへ変更](../Page/前照灯.md "wikilink")
 
 :\* カラーリング変更
 
@@ -60,7 +60,7 @@
 
 ### NS50R
 
-[HRCが受注販売する公道走行不可のミニバイククラスレース専用車両である](https://ja.wikipedia.org/wiki/ホンダ・レーシング "wikilink")。NS50Fからは以下の変更を実施し、1987年から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")まで製造された\[6\]。
+[HRCが受注販売する公道走行不可のミニバイククラスレース専用車両である](../Page/ホンダ・レーシング.md "wikilink")。NS50Fからは以下の変更を実施し、1987年から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")まで製造された\[6\]。
 
   - アッパーカウルならびに保安部品を取外
   - 始動方式を[キックスターター](../Page/キックスターター.md "wikilink")から押し掛けへ変更
@@ -78,9 +78,9 @@
 
 ## 関連項目
 
-  - [ホンダ・NS](https://ja.wikipedia.org/wiki/ホンダ・NS "wikilink")
-  - [ホンダ・NSR](https://ja.wikipedia.org/wiki/ホンダ・NSR "wikilink")
-  - [ホンダ・NS-1](https://ja.wikipedia.org/wiki/ホンダ・NS-1 "wikilink")
+  - [ホンダ・NS](../Page/ホンダ・NS.md "wikilink")
+  - [ホンダ・NSR](../Page/ホンダ・NSR.md "wikilink")
+  - [ホンダ・NS-1](../Page/ホンダ・NS-1.md "wikilink")
 
 ## 外部リンク
 

@@ -1,15 +1,15 @@
 > この記事は[V](https://ja.wikipedia.org/wiki/V)から翻訳されています。
 
 
-『**三國志V**』（さんごくし・ファイブ）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に[コーエー](../Page/コーエー.md "wikilink")（現・[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")）から発売された[歴史シミュレーションゲーム](../Page/歴史シミュレーションゲーム.md "wikilink")。「[三國志シリーズ](https://ja.wikipedia.org/wiki/三國志シリーズ "wikilink")」の第5作である。音楽は[服部隆之](https://ja.wikipedia.org/wiki/服部隆之 "wikilink")が担当\[1\]。
+『**三國志V**』（さんごくし・ファイブ）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に[コーエー](../Page/コーエー.md "wikilink")（現・[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")）から発売された[歴史シミュレーションゲーム](../Page/歴史シミュレーションゲーム.md "wikilink")。「[三國志シリーズ](../Page/三國志シリーズ.md "wikilink")」の第5作である。音楽は[服部隆之](../Page/服部隆之.md "wikilink")が担当\[1\]。
 
-パソコン版が発売された後、さまざまな家庭用ゲーム機に移植された。また、「[コーエー定番シリーズ](https://ja.wikipedia.org/wiki/コーエーテクモ定番シリーズ "wikilink")」などの廉価版シリーズも発売されている。なお、Windows版は[パワーアップキット](../Page/パワーアップキット.md "wikilink")含め[XP及び](../Page/Microsoft_Windows_XP.md "wikilink")2000での動作保証は公式にはされていない。『[VI](https://ja.wikipedia.org/wiki/三國志VI "wikilink")』とのセットであるバリューパックも発売されている。
+パソコン版が発売された後、さまざまな家庭用ゲーム機に移植された。また、「[コーエー定番シリーズ](https://ja.wikipedia.org/wiki/コーエーテクモ定番シリーズ "wikilink")」などの廉価版シリーズも発売されている。なお、Windows版は[パワーアップキット](../Page/パワーアップキット.md "wikilink")含め[XP及び](../Page/Microsoft_Windows_XP.md "wikilink")2000での動作保証は公式にはされていない。『[VI](../Page/三國志VI.md "wikilink")』とのセットであるバリューパックも発売されている。
 
 なお、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月18日](../Page/2月18日.md "wikilink")に発売された[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用ソフト『[三國志DS3](https://ja.wikipedia.org/wiki/三國志DS3 "wikilink")』および[2013年](../Page/2013年.md "wikilink")[9月19日](../Page/9月19日.md "wikilink")に発売の[ニンテンドー3DS](https://ja.wikipedia.org/wiki/ニンテンドー3DS "wikilink")用ソフト『三國志』も本作がベースとなっている。
 
 ## 概要
 
-[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")の[三国時代の群雄の一人となり](https://ja.wikipedia.org/wiki/三国時代_\(中国\) "wikilink")、古代中国の主要都市の完全制覇を目指すという基本的な枠組は前作までと同様だが、シリーズとしては初めて[黄巾の乱](../Page/黄巾の乱.md "wikilink")の年代のシナリオ及び武将が本格的に登場した\[2\]。本作の最大の特徴は、名声によるコマンド実行回数制と、戦争における陣形の導入である。
+[中国](../Page/中国.md "wikilink")の[三国時代の群雄の一人となり](../Page/三国時代_\(中国\).md "wikilink")、古代中国の主要都市の完全制覇を目指すという基本的な枠組は前作までと同様だが、シリーズとしては初めて[黄巾の乱](../Page/黄巾の乱.md "wikilink")の年代のシナリオ及び武将が本格的に登場した\[2\]。本作の最大の特徴は、名声によるコマンド実行回数制と、戦争における陣形の導入である。
 
 ## 名声
 
@@ -200,13 +200,13 @@
 
 以下の8人を特殊武将として配下にすることができる。
 
-  - [于吉](https://ja.wikipedia.org/wiki/于吉 "wikilink")
-  - [華佗](https://ja.wikipedia.org/wiki/華佗 "wikilink")
-  - [管輅](https://ja.wikipedia.org/wiki/管輅 "wikilink")
-  - [許子将](https://ja.wikipedia.org/wiki/許劭 "wikilink")
-  - [左慈](https://ja.wikipedia.org/wiki/左慈 "wikilink")
+  - [于吉](../Page/于吉.md "wikilink")
+  - [華佗](../Page/華佗.md "wikilink")
+  - [管輅](../Page/管輅.md "wikilink")
+  - [許子将](../Page/許劭.md "wikilink")
+  - [左慈](../Page/左慈.md "wikilink")
   - [紫虚上人](https://ja.wikipedia.org/wiki/紫虚上人 "wikilink")
-  - [司馬徽](https://ja.wikipedia.org/wiki/司馬徽 "wikilink")
+  - [司馬徽](../Page/司馬徽.md "wikilink")
   - [南華老仙](https://ja.wikipedia.org/wiki/南華老仙 "wikilink")
 
 DS版、3DS版では以下3人も特殊武将として配下にできる。
@@ -238,7 +238,7 @@ DS版、3DS版では以下3人も特殊武将として配下にできる。
 3.  [曹操](../Page/曹操.md "wikilink")の台頭 [196年](https://ja.wikipedia.org/wiki/196年 "wikilink")9月
 4.  [河北](https://ja.wikipedia.org/wiki/河北 "wikilink")の嵐 [201年](https://ja.wikipedia.org/wiki/201年 "wikilink")10月
 5.  [臥龍出淵](../Page/諸葛亮.md "wikilink") [208年](https://ja.wikipedia.org/wiki/208年 "wikilink")11月
-6.  [三国鼎立](https://ja.wikipedia.org/wiki/三国時代_\(中国\) "wikilink") [219年](../Page/219年.md "wikilink")7月
+6.  [三国鼎立](../Page/三国時代_\(中国\).md "wikilink") [219年](../Page/219年.md "wikilink")7月
 7.  星落[五丈原](https://ja.wikipedia.org/wiki/五丈原 "wikilink") [234年](https://ja.wikipedia.org/wiki/234年 "wikilink")9月
 
 <!-- end list -->

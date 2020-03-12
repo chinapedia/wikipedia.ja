@@ -3,9 +3,9 @@
 
 **Penelope**（ペネロペ\[1\]）は、[Mozilla Foundationのプロジェクトのひとつ](../Page/Mozilla_Foundation.md "wikilink")。[Mozilla Thunderbird用のPenelope拡張プラグインの開発と](../Page/Mozilla_Thunderbird.md "wikilink")、そのプラグインを含む[Eudora OSEの開発を行う](https://ja.wikipedia.org/wiki/Eudora#Eudora_OSE "wikilink")。[Eudora OSEの開発コードネームでもある](https://ja.wikipedia.org/wiki/Eudora#Eudora_OSE "wikilink")。
 
-由来は明確には公表されていないが、公式サイトではWikipedia英語版の[Penelope](https://ja.wikipedia.org/wiki/:en:Penelope "wikilink")（ギリシア神話上の人物「[ペーネロペー](https://ja.wikipedia.org/wiki/ペーネロペー "wikilink")」）へのリンクとなっている。
+由来は明確には公表されていないが、公式サイトではWikipedia英語版の[Penelope](https://ja.wikipedia.org/wiki/:en:Penelope "wikilink")（ギリシア神話上の人物「[ペーネロペー](../Page/ペーネロペー.md "wikilink")」）へのリンクとなっている。
 
-2006年10月11日、[Mozilla Foundationと](../Page/Mozilla_Foundation.md "wikilink")[クアルコム](https://ja.wikipedia.org/wiki/クアルコム "wikilink")はメールソフト「[Eudora](https://ja.wikipedia.org/wiki/Eudora "wikilink")」のオープンソース版を共同開発することを発表した\[2\]。
+2006年10月11日、[Mozilla Foundationと](../Page/Mozilla_Foundation.md "wikilink")[クアルコム](../Page/クアルコム.md "wikilink")はメールソフト「[Eudora](../Page/Eudora.md "wikilink")」のオープンソース版を共同開発することを発表した\[2\]。
 
 ## EudoraとPenelopeの関係
 
@@ -15,14 +15,14 @@ PenelopeはThunderbirdの拡張機能であり、[Eudoraオープンソース版
 
 ## 開発者
 
-Penelopeプロジェクトには、Eudoraの原開発者を含む以下6名の[クアルコム](https://ja.wikipedia.org/wiki/クアルコム "wikilink")社員がコアメンバーとして参加した。
+Penelopeプロジェクトには、Eudoraの原開発者を含む以下6名の[クアルコム](../Page/クアルコム.md "wikilink")社員がコアメンバーとして参加した。
 
-  - Steve Dorner：[Eudora](https://ja.wikipedia.org/wiki/Eudora "wikilink") for Macintoshの原作者
-  - Jeff Beckley：[Eudora](https://ja.wikipedia.org/wiki/Eudora "wikilink") for Windowsの最初の共著者
-  - Dale Wiggins：[Eudora](https://ja.wikipedia.org/wiki/Eudora "wikilink")開発者
-  - Matt Dudziak：[Eudora](https://ja.wikipedia.org/wiki/Eudora "wikilink")[プロジェクトマネージャ](https://ja.wikipedia.org/wiki/プロジェクトマネージャ "wikilink")
-  - Mark Charlebois：[Linux](https://ja.wikipedia.org/wiki/Linux "wikilink")開発者
-  - Geoffrey Wenger：[Eudora](https://ja.wikipedia.org/wiki/Eudora "wikilink")開発者
+  - Steve Dorner：[Eudora](../Page/Eudora.md "wikilink") for Macintoshの原作者
+  - Jeff Beckley：[Eudora](../Page/Eudora.md "wikilink") for Windowsの最初の共著者
+  - Dale Wiggins：[Eudora](../Page/Eudora.md "wikilink")開発者
+  - Matt Dudziak：[Eudora](../Page/Eudora.md "wikilink")[プロジェクトマネージャ](../Page/プロジェクトマネージャ.md "wikilink")
+  - Mark Charlebois：[Linux](../Page/Linux.md "wikilink")開発者
+  - Geoffrey Wenger：[Eudora](../Page/Eudora.md "wikilink")開発者
 
 ## リリース履歴
 

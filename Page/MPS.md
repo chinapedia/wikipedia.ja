@@ -28,22 +28,22 @@
 ## コンピュータ
 
   - [ジェットブレインズ](https://ja.wikipedia.org/wiki/ジェットブレインズ "wikilink")のメタプログラミングプラットフォームである[JetBrains MPS](https://ja.wikipedia.org/wiki/JetBrains_MPS "wikilink")
-  - MSX Port Controller and Sound Generator。[MSX-SYSTEM](https://ja.wikipedia.org/wiki/MSX-SYSTEM "wikilink")を参照。
+  - MSX Port Controller and Sound Generator。[MSX-SYSTEM](../Page/MSX-SYSTEM.md "wikilink")を参照。
   - [マネージド・プリント・サービス](https://ja.wikipedia.org/wiki/マネージド・プリント・サービス "wikilink")
   - [Multi-Profile Specification](https://ja.wikipedia.org/wiki/Multi-Profile_Specification "wikilink") - [Bluetoothプロファイル](https://ja.wikipedia.org/wiki/Bluetoothプロファイル "wikilink")の一つ
 
 ## 団体
 
   - Ministry of Public Security
-      - [中華人民共和国公安部](https://ja.wikipedia.org/wiki/中華人民共和国公安部 "wikilink")
+      - [中華人民共和国公安部](../Page/中華人民共和国公安部.md "wikilink")
       - 朝鮮民主主義人民共和国[人民保安部](https://ja.wikipedia.org/wiki/人民保安部 "wikilink")
-  - [ロンドン警視庁](https://ja.wikipedia.org/wiki/ロンドン警視庁 "wikilink") (Metropolitan Police Service)
+  - [ロンドン警視庁](../Page/ロンドン警視庁.md "wikilink") (Metropolitan Police Service)
   - [愛国救済運動](https://ja.wikipedia.org/wiki/愛国救済運動 "wikilink") (Mouvement Patriotique du Salut) - チャドの政党
-  - [モンペルラン・ソサイエティー](https://ja.wikipedia.org/wiki/モンペルラン・ソサイエティー "wikilink") (Mont Pelerin Society)
+  - [モンペルラン・ソサイエティー](../Page/モンペルラン・ソサイエティー.md "wikilink") (Mont Pelerin Society)
   - [MPSレコード](https://ja.wikipedia.org/wiki/MPSレコード "wikilink") (Musik Produktion Schwarzwald) - ドイツのジャズ・レコード会社
   - [モンテ・デイ・パスキ・ディ・シエナ銀行](https://ja.wikipedia.org/wiki/モンテ・デイ・パスキ・ディ・シエナ銀行 "wikilink") (Banca Monte dei Paschi di Siena)
   - [日本行方不明者捜索・地域安全支援協会](https://ja.wikipedia.org/wiki/日本行方不明者捜索・地域安全支援協会 "wikilink")（特定非営利活動法人）[1](https://www.mps.or.jp/)
-  - [メルコ・パワー・システムズ](https://ja.wikipedia.org/wiki/メルコ・パワー・システムズ "wikilink") (Melco Power Systems)
+  - [メルコ・パワー・システムズ](../Page/メルコ・パワー・システムズ.md "wikilink") (Melco Power Systems)
 
 ## コード
 

@@ -13,7 +13,7 @@
 
 1.  **garden**
       -
-        作詞:[MARC](https://ja.wikipedia.org/wiki/マーク・パンサー "wikilink") & [KEIKO](https://ja.wikipedia.org/wiki/KEIKO "wikilink")、作曲:[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
+        作詞:[MARC](../Page/マーク・パンサー.md "wikilink") & [KEIKO](../Page/KEIKO.md "wikilink")、作曲:[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
 2.  **outernet (Instrumental)**
 3.  **garden (Instrumental)**
 4.  **angel's song (Instrumental)**

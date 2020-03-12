@@ -1,7 +1,7 @@
 > この記事は[ YOU KNOW\?](https://ja.wikipedia.org/wiki/_YOU_KNOW\?)から翻訳されています。
 
 
-「**なんちゅう恋をやってるぅ YOU KNOW?**」（なんちゅうこいをやってるっちゅうの ）は、[Berryz工房](../Page/Berryz工房.md "wikilink")の7枚目の[シングル](../Page/シングル.md "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[6月8日](../Page/6月8日.md "wikilink")、[アップフロントワークス](https://ja.wikipedia.org/wiki/アップフロントワークス "wikilink")の[PICCOLO TOWNレーベル](https://ja.wikipedia.org/wiki/アップフロントワークス "wikilink")（販売元は[キングレコード](../Page/キングレコード.md "wikilink")）より発売。
+「**なんちゅう恋をやってるぅ YOU KNOW?**」（なんちゅうこいをやってるっちゅうの ）は、[Berryz工房](../Page/Berryz工房.md "wikilink")の7枚目の[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[6月8日](../Page/6月8日.md "wikilink")、[アップフロントワークス](../Page/アップフロントワークス.md "wikilink")の[PICCOLO TOWNレーベル](../Page/アップフロントワークス.md "wikilink")（販売元は[キングレコード](../Page/キングレコード.md "wikilink")）より発売。
 
 ## 概要
 
@@ -15,11 +15,11 @@
 
 1.  **なんちゅう恋をやってるぅ YOU KNOW?** \[4:17\]
       -
-        編曲：[平田祥一郎](https://ja.wikipedia.org/wiki/平田祥一郎 "wikilink")
-        キッズステーションアニメ『[パタリロ西遊記\!](https://ja.wikipedia.org/wiki/パタリロ西遊記! "wikilink")』エンディングテーマ。
+        編曲：[平田祥一郎](../Page/平田祥一郎.md "wikilink")
+        キッズステーションアニメ『[パタリロ西遊記\!](../Page/パタリロ西遊記!.md "wikilink")』エンディングテーマ。
 2.  **夢で ドゥーアップ** \[3:26\]
       -
-        編曲：[橋本由香利](https://ja.wikipedia.org/wiki/橋本由香利 "wikilink")
+        編曲：[橋本由香利](../Page/橋本由香利.md "wikilink")
 3.  **なんちゅう恋をやってるぅ YOU KNOW? ([Instrumental](https://ja.wikipedia.org/wiki/オフヴォーカル "wikilink"))** \[4:17\]
 
 ## 外部リンク

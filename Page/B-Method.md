@@ -1,13 +1,13 @@
 > この記事は[B-Method](https://ja.wikipedia.org/wiki/B-Method)から翻訳されています。
 
 
-**B-Method**とは、AMN（Abstract Machine Notation）という[仕様記述言語](https://ja.wikipedia.org/wiki/仕様記述言語 "wikilink")（兼[プログラミング言語](../Page/プログラミング言語.md "wikilink")）を中心とした[形式手法](https://ja.wikipedia.org/wiki/形式手法 "wikilink")に基づいた[ソフトウェア開発](https://ja.wikipedia.org/wiki/ソフトウェア開発 "wikilink")手法である。B-Method で使用する形式手法やそのツール群は単に **B** と呼ぶ。
+**B-Method**とは、AMN（Abstract Machine Notation）という[仕様記述言語](../Page/仕様記述言語.md "wikilink")（兼[プログラミング言語](../Page/プログラミング言語.md "wikilink")）を中心とした[形式手法](../Page/形式手法.md "wikilink")に基づいた[ソフトウェア開発](../Page/ソフトウェア開発.md "wikilink")手法である。B-Method で使用する形式手法やそのツール群は単に **B** と呼ぶ。
 
 ## 概要
 
-Jean-Raymond Abrial を中心として[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")および[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で開発された。Abrial の開発した[Z言語](https://ja.wikipedia.org/wiki/Z言語 "wikilink")とも関連しており、仕様からの[プログラミング言語](../Page/プログラミング言語.md "wikilink")コード作成をサポートしている。[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")では、大規模なインフラシステムで利用されており（[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")の[メトロ](https://ja.wikipedia.org/wiki/メトロ_\(パリ\) "wikilink")[14号線など](https://ja.wikipedia.org/wiki/パリメトロ14号線 "wikilink")）、産業界の注目を集めつつある。堅牢で商業利用可能なツールが提供されており、[仕様記述](https://ja.wikipedia.org/wiki/プログラム仕様 "wikilink")、[設計](https://ja.wikipedia.org/wiki/ソフトウェア設計 "wikilink")、[検証](https://ja.wikipedia.org/wiki/形式的検証 "wikilink")、[ソースコード生成](https://ja.wikipedia.org/wiki/ソースコード生成 "wikilink")が可能である。
+Jean-Raymond Abrial を中心として[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")および[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で開発された。Abrial の開発した[Z言語](../Page/Z言語.md "wikilink")とも関連しており、仕様からの[プログラミング言語](../Page/プログラミング言語.md "wikilink")コード作成をサポートしている。[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")では、大規模なインフラシステムで利用されており（[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")の[メトロ](../Page/メトロ_\(パリ\).md "wikilink")[14号線など](../Page/パリメトロ14号線.md "wikilink")）、産業界の注目を集めつつある。堅牢で商業利用可能なツールが提供されており、[仕様記述](../Page/プログラム仕様.md "wikilink")、[設計](https://ja.wikipedia.org/wiki/ソフトウェア設計 "wikilink")、[検証](../Page/形式的検証.md "wikilink")、[ソースコード生成](https://ja.wikipedia.org/wiki/ソースコード生成 "wikilink")が可能である。
 
-Z言語に比較して抽象化レベルが低く、単なる[形式仕様記述](https://ja.wikipedia.org/wiki/形式仕様記述 "wikilink")というよりもコードへの[詳細化](../Page/詳細化.md "wikilink")に重きを置いている。そのため、B で書かれた仕様はZ言語の場合よりも実装が容易である。特にそのために様々なツール群が用意されている。
+Z言語に比較して抽象化レベルが低く、単なる[形式仕様記述](../Page/形式仕様記述.md "wikilink")というよりもコードへの[詳細化](../Page/詳細化.md "wikilink")に重きを置いている。そのため、B で書かれた仕様はZ言語の場合よりも実装が容易である。特にそのために様々なツール群が用意されている。
 
 ## Event B
 
@@ -24,7 +24,7 @@ Z言語に比較して抽象化レベルが低く、単なる[形式仕様記述
 
 ## 関連項目
 
-  - [Z言語](https://ja.wikipedia.org/wiki/Z言語 "wikilink")
+  - [Z言語](../Page/Z言語.md "wikilink")
 
 ## 外部リンク
 

@@ -1,11 +1,11 @@
 > この記事は[HEIWA](https://ja.wikipedia.org/wiki/HEIWA)から翻訳されています。
 
 
-**HEIWAの鐘**（へいわのかね）は、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")の[仲里幸広](https://ja.wikipedia.org/wiki/仲里幸広 "wikilink")（ユキヒロ）が[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[作曲](../Page/作曲.md "wikilink")した[楽曲](https://ja.wikipedia.org/wiki/楽曲 "wikilink")である。仲里自身のソロ初のシングルCD。[2000年](../Page/2000年.md "wikilink")[5月15日](../Page/5月15日.md "wikilink")リリース。
+**HEIWAの鐘**（へいわのかね）は、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")の[仲里幸広](https://ja.wikipedia.org/wiki/仲里幸広 "wikilink")（ユキヒロ）が[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")した[楽曲](https://ja.wikipedia.org/wiki/楽曲 "wikilink")である。仲里自身のソロ初のシングルCD。[2000年](../Page/2000年.md "wikilink")[5月15日](../Page/5月15日.md "wikilink")リリース。
 
-[2000年](../Page/2000年.md "wikilink")7月、[九州・沖縄サミット](https://ja.wikipedia.org/wiki/九州・沖縄サミット "wikilink")で紹介されて以来注目を集める。その後、[白石哲也](https://ja.wikipedia.org/wiki/白石哲也 "wikilink")の[編曲](../Page/編曲.md "wikilink")により[合唱曲](https://ja.wikipedia.org/wiki/合唱曲 "wikilink")としても歌われるようになり、主に小中学校の[合唱コンクール](https://ja.wikipedia.org/wiki/合唱コンクール "wikilink")や[卒業式](../Page/卒業式.md "wikilink")などで歌われている。合唱曲版には、同声二部合唱版と混声三部合唱版、混声四部合唱版が存在する。また、曲風や伴奏も沖縄風である。
+[2000年](../Page/2000年.md "wikilink")7月、[九州・沖縄サミット](https://ja.wikipedia.org/wiki/九州・沖縄サミット "wikilink")で紹介されて以来注目を集める。その後、[白石哲也](https://ja.wikipedia.org/wiki/白石哲也 "wikilink")の[編曲](../Page/編曲.md "wikilink")により[合唱曲](https://ja.wikipedia.org/wiki/合唱曲 "wikilink")としても歌われるようになり、主に小中学校の[合唱コンクール](../Page/合唱コンクール.md "wikilink")や[卒業式](../Page/卒業式.md "wikilink")などで歌われている。合唱曲版には、同声二部合唱版と混声三部合唱版、混声四部合唱版が存在する。また、曲風や伴奏も沖縄風である。
 
-2005年度には[高等学校](https://ja.wikipedia.org/wiki/高等学校 "wikilink")の[音楽](../Page/音楽.md "wikilink")の[教科書](https://ja.wikipedia.org/wiki/教科書 "wikilink")にも採用された。
+2005年度には[高等学校](https://ja.wikipedia.org/wiki/高等学校 "wikilink")の[音楽](../Page/音楽.md "wikilink")の[教科書](../Page/教科書.md "wikilink")にも採用された。
 
 ## シングル収録曲
 
@@ -30,7 +30,7 @@
 
 ## カバー
 
-  - [NHK東京児童合唱団](https://ja.wikipedia.org/wiki/NHK東京児童合唱団 "wikilink") - 2018年『天使のうたごえ 小学生の合唱 BEST』収録
+  - [NHK東京児童合唱団](../Page/NHK東京児童合唱団.md "wikilink") - 2018年『天使のうたごえ 小学生の合唱 BEST』収録
 
 ## 関連項目
 

@@ -1,7 +1,7 @@
 > この記事は[Robot \(\)](https://ja.wikipedia.org/wiki/Robot_\(\))から翻訳されています。
 
 
-『**robot**』（ロボット）は[ワニマガジン社](../Page/ワニマガジン社.md "wikilink")発行の[村田蓮爾](../Page/村田蓮爾.md "wikilink")責任編集のフルカラー[コミック誌である](https://ja.wikipedia.org/wiki/漫画 "wikilink")。[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")に創刊された。[サブタイトル](https://ja.wikipedia.org/wiki/サブタイトル "wikilink")は「SUPER COLOR COMIC」。
+『**robot**』（ロボット）は[ワニマガジン社](../Page/ワニマガジン社.md "wikilink")発行の[村田蓮爾](../Page/村田蓮爾.md "wikilink")責任編集のフルカラー[コミック誌である](https://ja.wikipedia.org/wiki/漫画 "wikilink")。[2004年](../Page/2004年.md "wikilink")に創刊された。[サブタイトル](../Page/サブタイトル.md "wikilink")は「SUPER COLOR COMIC」。
 
 ## 概要
 
@@ -19,22 +19,22 @@ robot内キャラクターの[フィギュア](../Page/フィギュア.md "wikil
 
 ### 漫画
 
-  - [浅田弘幸](https://ja.wikipedia.org/wiki/浅田弘幸 "wikilink") - PEZ（robot1 - 5、10、microbot）
+  - [浅田弘幸](../Page/浅田弘幸.md "wikilink") - PEZ（robot1 - 5、10、microbot）
   - [安倍吉俊](../Page/安倍吉俊.md "wikilink") - [廃域](https://ja.wikipedia.org/wiki/回螺 "wikilink")（robot1 - 9）
   - 安倍吉俊 - U.C.O Unidentified Cycling Object（robot10）
-  - [伊藤真美](https://ja.wikipedia.org/wiki/伊藤真美 "wikilink") - Carogna（robot1）
+  - [伊藤真美](../Page/伊藤真美.md "wikilink") - Carogna（robot1）
   - 伊藤真美 - Batchy Twins（robot3）
   - 伊藤真美 - HETNANOTIKA（robot5）
   - 伊藤真美 - CABINET'S TALE（robot8）
   - 伊藤真美 - Una Poupee Triste（robot10）
   - [いぬぶろ](https://ja.wikipedia.org/wiki/いぬぶろ "wikilink") - 赤色料理店〜いぬみみずかん出張版〜（robot7）
   - いぬぶろ - 今日は楽しい新人歓迎会だ\!\!（robot8）
-  - [緒方剛志](https://ja.wikipedia.org/wiki/緒方剛志 "wikilink") - Super SHERPA -ホンノスコシノクウカンリョコウ-（robot4）
+  - [緒方剛志](../Page/緒方剛志.md "wikilink") - Super SHERPA -ホンノスコシノクウカンリョコウ-（robot4）
   - [OKAMA](../Page/OKAMA.md "wikilink") - オプトン（robot1）
   - OKAMA - ロボットは羊の数を数える椅子を選んだよ（robot10）
   - [衣谷遊](../Page/衣谷遊.md "wikilink") - ANGELS（robot1）
-  - [コザキユースケ](https://ja.wikipedia.org/wiki/コザキユースケ "wikilink") - 東京カラス（robot4 - 10）※最終話描きおろしで同人誌にて完結
-  - [SABE](https://ja.wikipedia.org/wiki/SABE "wikilink") - 雀ロボが行く〜\!\!（robot1 - 10）
+  - [コザキユースケ](../Page/コザキユースケ.md "wikilink") - 東京カラス（robot4 - 10）※最終話描きおろしで同人誌にて完結
+  - [SABE](../Page/SABE.md "wikilink") - 雀ロボが行く〜\!\!（robot1 - 10）
   - [三部けい](https://ja.wikipedia.org/wiki/三部けい "wikilink") - 月光（robot1）
   - 三部けい - 鏡の中（robot2）
   - 三部けい - 祠の声（robot3）
@@ -48,18 +48,18 @@ robot内キャラクターの[フィギュア](../Page/フィギュア.md "wikil
   - [chicken](https://ja.wikipedia.org/wiki/chicken_\(イラストレーター\) "wikilink") - me no me（robot7）
   - [帝国少年](https://ja.wikipedia.org/wiki/帝国少年 "wikilink") - 菜魚料理店（robot2）
   - 帝国少年 - 聞茶店（robot8）
-  - [道満晴明](https://ja.wikipedia.org/wiki/道満晴明 "wikilink") - 魔女の条件（robot2）
-  - [冬目景](https://ja.wikipedia.org/wiki/冬目景 "wikilink") - Skit Scooter（robot7）
+  - [道満晴明](../Page/道満晴明.md "wikilink") - 魔女の条件（robot2）
+  - [冬目景](../Page/冬目景.md "wikilink") - Skit Scooter（robot7）
   - [TOKIYA](https://ja.wikipedia.org/wiki/トキヤ "wikilink") - マホマ法（robot9)）
   - TOKIYA - UNIONOISE ユニオノイズ（robot10）
   - [長澤真](https://ja.wikipedia.org/wiki/長澤真 "wikilink") - せどうか（robot1～10）
-  - [鳴子ハナハル](https://ja.wikipedia.org/wiki/鳴子ハナハル "wikilink") - Picnic（robot1）
+  - [鳴子ハナハル](../Page/鳴子ハナハル.md "wikilink") - Picnic（robot1）
   - [猫井ミィ](https://ja.wikipedia.org/wiki/猫井ミィ "wikilink") - 激突\! 復讐のイケメンカンフー対ブサイクカンフー 花婿を探せ\!（robot1）
   - 猫井ミィ - 来年の事を言うと鬼が笑う（robot2）
   - [平凡](https://ja.wikipedia.org/wiki/平凡_\(イラストレーター\) "wikilink") - AI（robot7）
-  - 原作：[平井和正](../Page/平井和正.md "wikilink")・[桑田二郎](../Page/桑田二郎.md "wikilink") 作画：[藤原カムイ](../Page/藤原カムイ.md "wikilink") - [EIGHTMAN](https://ja.wikipedia.org/wiki/8マン "wikilink")（robot9）
+  - 原作：[平井和正](../Page/平井和正.md "wikilink")・[桑田二郎](../Page/桑田二郎.md "wikilink") 作画：[藤原カムイ](../Page/藤原カムイ.md "wikilink") - [EIGHTMAN](../Page/8マン.md "wikilink")（robot9）
   - 藤原カムイ - EIGHT DOG LEGEND PREVIEW（robot8）
-  - [放電映像](https://ja.wikipedia.org/wiki/放電映像 "wikilink") - ストロー（robot5～10）※『[季刊GELATIN](https://ja.wikipedia.org/wiki/季刊GELATIN "wikilink")』へ移籍
+  - [放電映像](../Page/放電映像.md "wikilink") - ストロー（robot5～10）※『[季刊GELATIN](https://ja.wikipedia.org/wiki/季刊GELATIN "wikilink")』へ移籍
   - [前嶋重機](https://ja.wikipedia.org/wiki/前嶋重機 "wikilink") - [DRAGON FLY](https://ja.wikipedia.org/wiki/蟲忍_―ムシニン― "wikilink")（robot1 - 8、microbot）※『季刊GELATIN』へ移籍
   - [前田浩孝](https://ja.wikipedia.org/wiki/前田浩孝 "wikilink") - 花〜hana〜（robot2）
   - 前田浩孝 - alter ego（robot5）
@@ -68,12 +68,12 @@ robot内キャラクターの[フィギュア](../Page/フィギュア.md "wikil
   - 三浦靖冬 - ゆうやみこやみ（robot3）
   - 三浦靖冬 - チリヌルヲ（robot6）
   - 三浦靖冬 - 櫛曳きのにわ（robot10）
-  - [三原ミツカズ](https://ja.wikipedia.org/wiki/三原ミツカズ "wikilink") - a Paradox of a Lion（robot6）
+  - [三原ミツカズ](../Page/三原ミツカズ.md "wikilink") - a Paradox of a Lion（robot6）
   - [むらかわみちお](https://ja.wikipedia.org/wiki/むらかわみちお "wikilink") - 「色の行方・風の記憶」\#1 色の行方（robot5）
   - 村田蓮爾 - BMW DRIVE（robot8）
-  - [ヤスダスズヒト](https://ja.wikipedia.org/wiki/ヤスダスズヒト "wikilink") - [Eine Kleine Nachtmusik](https://ja.wikipedia.org/wiki/Eine_Kleine_Nachtmusik "wikilink")（robot1 - 2、4 - 5、9、microbot）※『季刊GELATIN』へ移籍
-  - [山本ヤマト](https://ja.wikipedia.org/wiki/山本ヤマト "wikilink") - Rail（robot6 - 9）※未完
-  - [YUG](https://ja.wikipedia.org/wiki/YUG "wikilink") - へもへも（robot1、3、6）
+  - [ヤスダスズヒト](../Page/ヤスダスズヒト.md "wikilink") - [Eine Kleine Nachtmusik](https://ja.wikipedia.org/wiki/Eine_Kleine_Nachtmusik "wikilink")（robot1 - 2、4 - 5、9、microbot）※『季刊GELATIN』へ移籍
+  - [山本ヤマト](../Page/山本ヤマト.md "wikilink") - Rail（robot6 - 9）※未完
+  - [YUG](../Page/YUG.md "wikilink") - へもへも（robot1、3、6）
   - YUG - delicious adventures（robot2）
   - [米倉けんご](../Page/米倉けんご.md "wikilink") - 好色（robot3）
   - 米倉けんご - ツバメ（robot6、8 - 10）※未完
@@ -89,11 +89,11 @@ robot内キャラクターの[フィギュア](../Page/フィギュア.md "wikil
 ### イラストーリー
 
   - [川洋](https://ja.wikipedia.org/wiki/川洋 "wikilink") - [越谷市](https://ja.wikipedia.org/wiki/越谷市 "wikilink")みずアトリビュー町（robot8）
-  - [小林治](https://ja.wikipedia.org/wiki/小林治_\(イラストレーター\) "wikilink") - [THE BABYS](https://ja.wikipedia.org/wiki/THE_BABYS "wikilink")×小林治（robot3）
-  - [小林誠](https://ja.wikipedia.org/wiki/小林誠_\(イラストレーター\) "wikilink") - [DRAGON'S HEAVEN](https://ja.wikipedia.org/wiki/ドラゴンズヘブン "wikilink")（robot1）
+  - [小林治](../Page/小林治_\(イラストレーター\).md "wikilink") - [THE BABYS](https://ja.wikipedia.org/wiki/THE_BABYS "wikilink")×小林治（robot3）
+  - [小林誠](../Page/小林誠_\(イラストレーター\).md "wikilink") - [DRAGON'S HEAVEN](../Page/ドラゴンズヘブン.md "wikilink")（robot1）
   - 田島昭宇 - プラネタリウムの天使-補＜捉＞-（robot6）
-  - [HACCAN](https://ja.wikipedia.org/wiki/HACCAN "wikilink") - EVENTYR（robot1 - 2、microbot）
-  - [藤純](https://ja.wikipedia.org/wiki/藤純 "wikilink") - [RED GARDEN](https://ja.wikipedia.org/wiki/RED_GARDEN "wikilink")（robot4 - 7）
+  - [HACCAN](../Page/HACCAN.md "wikilink") - EVENTYR（robot1 - 2、microbot）
+  - [藤純](https://ja.wikipedia.org/wiki/藤純 "wikilink") - [RED GARDEN](../Page/RED_GARDEN.md "wikilink")（robot4 - 7）
   - [ミギー](https://ja.wikipedia.org/wiki/ミギー "wikilink") - 空籠の夢（robot1）
   - ミギー - 星や青く（robot2）
   - ミギー - VOICE OF GARDEN（robot3）
@@ -115,8 +115,8 @@ robot内キャラクターの[フィギュア](../Page/フィギュア.md "wikil
 
   - [榎本](https://ja.wikipedia.org/wiki/榎本 "wikilink") - Memory Of Childhood -奇妙な行進-（robot4）
   - OKAMA - ビニルのゴシックドレス（robot3 - 4）
-  - [キム・ヒョンテ](https://ja.wikipedia.org/wiki/キム・ヒョンテ "wikilink") - The Colour of ROBOT（robot5）
-  - [Shuzilow.HA](https://ja.wikipedia.org/wiki/Shuzilow.HA "wikilink") - [SoltyRei](https://ja.wikipedia.org/wiki/SoltyRei "wikilink") The other side of production（robot5）
+  - [キム・ヒョンテ](../Page/キム・ヒョンテ.md "wikilink") - The Colour of ROBOT（robot5）
+  - [Shuzilow.HA](../Page/Shuzilow.HA.md "wikilink") - [SoltyRei](../Page/SoltyRei.md "wikilink") The other side of production（robot5）
   - 田島昭宇 - 「ベルベット」モノクロバージョン（robot2）
   - 田島昭宇 - プラネタリウムの天使 -羽売りの少年-（robot7）
   - [D.K](https://ja.wikipedia.org/wiki/D.K "wikilink") - 触物遊戯（robot7）
@@ -127,8 +127,8 @@ robot内キャラクターの[フィギュア](../Page/フィギュア.md "wikil
   - 帝国少年 - PRiCINPal STaTioN（robot9）
   - 帝国少年 - The Dress March Corps ドレス行進軍団（robot10）
   - 冬目景 - 緋いな（robot3、10）
-  - [白亜右月](https://ja.wikipedia.org/wiki/白亜右月 "wikilink") - 原色図鑑（robot1）
-  - [BABYsue](https://ja.wikipedia.org/wiki/BABYsue "wikilink") - rmp meets [Pinky:st.](https://ja.wikipedia.org/wiki/ピンキーストリート "wikilink")（robot7）
+  - [白亜右月](../Page/白亜右月.md "wikilink") - 原色図鑑（robot1）
+  - [BABYsue](https://ja.wikipedia.org/wiki/BABYsue "wikilink") - rmp meets [Pinky:st.](../Page/ピンキーストリート.md "wikilink")（robot7）
 
 ### その他
 
@@ -137,15 +137,15 @@ robot内キャラクターの[フィギュア](../Page/フィギュア.md "wikil
 
 ## 刊行巻
 
-  - robot1（[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")発売、ISBN 978-4-89829-777-3）1,890円（税込）
-  - robot2（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")発売、ISBN 978-4-89829-785-8）1,890円（税込）
+  - robot1（[2004年](../Page/2004年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")発売、ISBN 978-4-89829-777-3）1,890円（税込）
+  - robot2（[2005年](../Page/2005年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")発売、ISBN 978-4-89829-785-8）1,890円（税込）
   - robot3（2005年[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")発売、ISBN 978-4-89829-797-1）1,890円（税込）
   - robot4（2005年10月発売、ISBN 978-4-89829-493-2）1,890円（税込）
-  - robot5（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")4月発売、ISBN 978-4-89829-987-6）1,890円（税込）
+  - robot5（[2006年](../Page/2006年.md "wikilink")4月発売、ISBN 978-4-89829-987-6）1,890円（税込）
   - robot6（2006年[8月](../Page/8月.md "wikilink")発売、ISBN 978-4-89829-980-7）2,415円（税込）
       - フィギュアとオリジナルミニ本『microbot』付き
   - robot7（2006年[11月](../Page/11月.md "wikilink")発売、ISBN 978-4-86269-008-1）1,995円（税込）
-  - robot8（[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")発売、ISBN 978-4-86269-011-1）1,995円（税込）
+  - robot8（[2007年](../Page/2007年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")発売、ISBN 978-4-86269-011-1）1,995円（税込）
   - robot9（2007年8月発売、ISBN 978-4-86269-024-1）1,995円（税込）
   - robot10（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")発売、ISBN 978-4-86269-046-3）1,995円（税込）
 

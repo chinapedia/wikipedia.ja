@@ -5,17 +5,17 @@
 
 ## 解説
 
-「biting her nails」「SHOCK INSIDE MY BRAIN」ともに、アルバム『[CRUISE RECORD 1995-2000](https://ja.wikipedia.org/wiki/CRUISE_RECORD_1995-2000 "wikilink")』からのシングルカット。デビュー以来、シングルCDはオリコンチャート（週間）10位以内にランクインしていたが、このシングルが初めてオリコンチャート（週間）10位以内に入らなかった。
+「biting her nails」「SHOCK INSIDE MY BRAIN」ともに、アルバム『[CRUISE RECORD 1995-2000](../Page/CRUISE_RECORD_1995-2000.md "wikilink")』からのシングルカット。デビュー以来、シングルCDはオリコンチャート（週間）10位以内にランクインしていたが、このシングルが初めてオリコンチャート（週間）10位以内に入らなかった。
 
 ## 収録曲
 
 1.  **biting her nails**
       -
-        Written by [KEIKO](https://ja.wikipedia.org/wiki/KEIKO "wikilink") & [MARC](https://ja.wikipedia.org/wiki/マーク・パンサー "wikilink")　　Composed & Arranged by [TETSUYA KOMURO](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
-        [ソーテック](https://ja.wikipedia.org/wiki/ソーテック "wikilink")「[e-one 500](https://ja.wikipedia.org/wiki/ソーテック#e-one "wikilink")」CMソング
+        Written by [KEIKO](../Page/KEIKO.md "wikilink") & [MARC](../Page/マーク・パンサー.md "wikilink")　　Composed & Arranged by [TETSUYA KOMURO](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
+        [ソーテック](../Page/ソーテック.md "wikilink")「[e-one 500](https://ja.wikipedia.org/wiki/ソーテック#e-one "wikilink")」CMソング
 2.  **SHOCK INSIDE MY BRAIN - ten pound mix**
       -
-        Written by [MARC](https://ja.wikipedia.org/wiki/マーク・パンサー "wikilink")　　Composed & Arranged by [TETSUYA KOMURO](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
+        Written by [MARC](../Page/マーク・パンサー.md "wikilink")　　Composed & Arranged by [TETSUYA KOMURO](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
 3.  **biting her nails - down to the bone mix**
 4.  **biting her nails - instrumental**
 
@@ -23,7 +23,7 @@
 
 **biting her nails**
 
-  - [CRUISE RECORD 1995-2000](https://ja.wikipedia.org/wiki/CRUISE_RECORD_1995-2000 "wikilink")
+  - [CRUISE RECORD 1995-2000](../Page/CRUISE_RECORD_1995-2000.md "wikilink")
   - [globe decade -single history 1995-2004-](https://ja.wikipedia.org/wiki/globe_decade_-single_history_1995-2004- "wikilink")
 
 ## 外部リンク

@@ -11,7 +11,7 @@
 
 [カート・コバーン](../Page/カート・コバーン.md "wikilink")が亡くなった時に本作の原点となるメロディのみのデモテープをロンドンで作っていたので、[ニルヴァーナの作風に非常に傾倒しながら制作した](../Page/ニルヴァーナ_\(アメリカ合衆国のバンド\).md "wikilink")\[1\]\[2\]。
 
-アルバムのテーマは「ニルヴァーナの終結」「[グランジ](https://ja.wikipedia.org/wiki/グランジ "wikilink")の崩壊」「ギターのハネる表現・特有のグルーヴ感・スウィング奏法を表現し切ること」という落ち着かない雰囲気作りを志向した。シングルで先行発売された楽曲以外は1997年1月1日以降に改めてデモテープを練り直し、ロサンゼルスの2つのスタジオで本格的なレコーディングに突入した。全て[ドラムマシン](../Page/ドラムマシン.md "wikilink")を起動しながらギターの即興の弾き語りの形で小室の仮歌を録った後、マークにコード進行を教えながらベースを弾き語り、KEIKOもエフェクトをかけずに生で歌う形で改めてglobeの楽曲としての音源を制作した。この段階で荒々しさを気に入った小室がそのままOKテイクにしようとしたが、流石に周囲からNGを出されたため、「デモテープに録った味を殺さずに荒さを消して、CDとして発売できるまでのクオリティへ高めるレコーディング作業を行う」と同時に「『[globe@4_domes](https://ja.wikipedia.org/wiki/globe@4_domes "wikilink")』のリハーサルを同時進行で進める」という強行スケジュールで制作され、小室も後に「今までのレコーディングで、一番難しくて大変だった」と振り返った\[3\]\[4\]\[5\]\[6\]\[7\]。
+アルバムのテーマは「ニルヴァーナの終結」「[グランジ](../Page/グランジ.md "wikilink")の崩壊」「ギターのハネる表現・特有のグルーヴ感・スウィング奏法を表現し切ること」という落ち着かない雰囲気作りを志向した。シングルで先行発売された楽曲以外は1997年1月1日以降に改めてデモテープを練り直し、ロサンゼルスの2つのスタジオで本格的なレコーディングに突入した。全て[ドラムマシン](../Page/ドラムマシン.md "wikilink")を起動しながらギターの即興の弾き語りの形で小室の仮歌を録った後、マークにコード進行を教えながらベースを弾き語り、KEIKOもエフェクトをかけずに生で歌う形で改めてglobeの楽曲としての音源を制作した。この段階で荒々しさを気に入った小室がそのままOKテイクにしようとしたが、流石に周囲からNGを出されたため、「デモテープに録った味を殺さずに荒さを消して、CDとして発売できるまでのクオリティへ高めるレコーディング作業を行う」と同時に「『[globe@4_domes](https://ja.wikipedia.org/wiki/globe@4_domes "wikilink")』のリハーサルを同時進行で進める」という強行スケジュールで制作され、小室も後に「今までのレコーディングで、一番難しくて大変だった」と振り返った\[3\]\[4\]\[5\]\[6\]\[7\]。
 
 歌詞全体のコンセプトは「1,2分の間に何が起こったのか、その瞬間何を考えていたのかを深く掘り下げて切り取る」様に心がけた\[8\]。
 
@@ -25,7 +25,7 @@
       -
         インストゥルメンタル
 2.  **DEGENERATE**
-3.  **[FACES PLACES](https://ja.wikipedia.org/wiki/FACES_PLACES "wikilink")**
+3.  **[FACES PLACES](../Page/FACES_PLACES.md "wikilink")**
 4.  **[Is this love](../Page/Is_this_love.md "wikilink")**
       -
         ニュー・アレンジで収録。
@@ -72,12 +72,12 @@
 
 [Category:Globeのアルバム](https://ja.wikipedia.org/wiki/Category:Globeのアルバム "wikilink") [Category:1997年のアルバム](https://ja.wikipedia.org/wiki/Category:1997年のアルバム "wikilink") [Category:小室哲哉プロデュースのアルバム](https://ja.wikipedia.org/wiki/Category:小室哲哉プロデュースのアルバム "wikilink") [Category:1997年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1997年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink")
 
-1.  [ダイヤモンド社](https://ja.wikipedia.org/wiki/ダイヤモンド社 "wikilink")刊『[FM STATION](https://ja.wikipedia.org/wiki/FM_STATION "wikilink")』1997年4月20日号16Pより。
-2.  [マガジンハウス](https://ja.wikipedia.org/wiki/マガジンハウス "wikilink")刊『[GINZA](https://ja.wikipedia.org/wiki/GINZA "wikilink")』2017年4月号113Pより。
+1.  [ダイヤモンド社](../Page/ダイヤモンド社.md "wikilink")刊『[FM STATION](../Page/FM_STATION.md "wikilink")』1997年4月20日号16Pより。
+2.  [マガジンハウス](../Page/マガジンハウス.md "wikilink")刊『[GINZA](../Page/GINZA.md "wikilink")』2017年4月号113Pより。
 3.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊「[PATi PATi](https://ja.wikipedia.org/wiki/PATi_PATi "wikilink")」1997年4月号44P-45P「globe "FACES PLACES" SPECIAL LONG INTERVIEW IB L.A.」より。
 4.  [オリコン・エンタテインメント](../Page/オリコン・エンタテインメント.md "wikilink")刊「オリコン・ウィーク The Ichiban」1997年3月3日号136Pより。
 5.  「[beatfreak 111 issue](https://web.archive.org/web/20041017191717/http://www.avexnet.or.jp:80/beatfreak/111/)」より。
-6.  「[ぴあ](https://ja.wikipedia.org/wiki/ぴあ "wikilink")」1999年12月6日号22Pより。
+6.  「[ぴあ](../Page/ぴあ.md "wikilink")」1999年12月6日号22Pより。
 7.
-8.  [角川書店](../Page/角川書店.md "wikilink")刊『[月刊カドカワ](https://ja.wikipedia.org/wiki/月刊カドカワ "wikilink")』1997年5月号110Pより。
+8.  [角川書店](../Page/角川書店.md "wikilink")刊『[月刊カドカワ](../Page/月刊カドカワ.md "wikilink")』1997年5月号110Pより。
 9.  [globe 20周年イヤーを記念したハイレゾリリース＆期間限定フラッシュプライス！](http://www.e-onkyo.com/news/577/) e-onkyo music NEWS 2016年12月22日閲覧

@@ -1,15 +1,15 @@
 > この記事は[Summer melody](https://ja.wikipedia.org/wiki/Summer_melody)から翻訳されています。
 
 
-「**summer melody**」（サマー・メロディー）は、[田村ゆかり](https://ja.wikipedia.org/wiki/田村ゆかり "wikilink")の1作目の[シングル](../Page/シングル.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[5月23日](../Page/5月23日.md "wikilink")、[KONAMIより発売された](https://ja.wikipedia.org/wiki/コナミレーベル "wikilink")。（販売元は[キングレコード](../Page/キングレコード.md "wikilink")）
+「**summer melody**」（サマー・メロディー）は、[田村ゆかり](https://ja.wikipedia.org/wiki/田村ゆかり "wikilink")の1作目の[シングル](../Page/シングル.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[5月23日](../Page/5月23日.md "wikilink")、[KONAMIより発売された](../Page/コナミレーベル.md "wikilink")。（販売元は[キングレコード](../Page/キングレコード.md "wikilink")）
 
-尚、田村は本作以前にも[ポリグラム](https://ja.wikipedia.org/wiki/ポリグラム "wikilink")から4枚のシングルを出している。しかしそれらは[キャラクターソング](https://ja.wikipedia.org/wiki/キャラクターソング "wikilink")扱いのため、本作が事実上の1作目のシングルとなる。
+尚、田村は本作以前にも[ポリグラム](../Page/ポリグラム.md "wikilink")から4枚のシングルを出している。しかしそれらは[キャラクターソング](../Page/キャラクターソング.md "wikilink")扱いのため、本作が事実上の1作目のシングルとなる。
 
 ## 解説
 
   - 収録されている3曲すべてのalbum versionが、アルバム『[天使は瞳の中に](../Page/天使は瞳の中に.md "wikilink")』に収録されている。
-  - 1曲目の**summer melody**の前に[隠しトラック](https://ja.wikipedia.org/wiki/隠しトラック "wikilink")として、**A Day Of Little Girl 〜姫とウサギとおしゃべりこねこ〜**の短縮版にセリフが入ったボーナストラックがあり、これも同じく『天使は瞳の中に』にalbum versionが隠しトラックとして収録されている。
-  - 作詞者の花梨とは田村ゆかりと[伊福部崇](https://ja.wikipedia.org/wiki/伊福部崇 "wikilink")の共作[ペンネーム](../Page/ペンネーム.md "wikilink")である。ただし歌詞の大半を書いたのは伊福部であるとのこと。
+  - 1曲目の**summer melody**の前に[隠しトラック](../Page/隠しトラック.md "wikilink")として、**A Day Of Little Girl 〜姫とウサギとおしゃべりこねこ〜**の短縮版にセリフが入ったボーナストラックがあり、これも同じく『天使は瞳の中に』にalbum versionが隠しトラックとして収録されている。
+  - 作詞者の花梨とは田村ゆかりと[伊福部崇](../Page/伊福部崇.md "wikilink")の共作[ペンネーム](../Page/ペンネーム.md "wikilink")である。ただし歌詞の大半を書いたのは伊福部であるとのこと。
 
 ## 収録曲
 

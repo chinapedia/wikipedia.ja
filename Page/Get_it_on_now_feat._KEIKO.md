@@ -5,7 +5,7 @@
 
 ## 解説
 
-アルバム『[LEVEL 4](https://ja.wikipedia.org/wiki/LEVEL_4_\(globeのアルバム\) "wikilink")』と同時リリース。
+アルバム『[LEVEL 4](../Page/LEVEL_4_\(globeのアルバム\).md "wikilink")』と同時リリース。
 
 売上は7,042枚で、globeのリリースしたシングルの中で最も売上が低い作品である。
 
@@ -13,7 +13,7 @@
 
 1.  **get it on now feat. KEIKO**
       -
-        Written by [TETSUYA KOMURO](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink") / Rap Words by [MARC](https://ja.wikipedia.org/wiki/マーク・パンサー "wikilink")
+        Written by [TETSUYA KOMURO](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink") / Rap Words by [MARC](../Page/マーク・パンサー.md "wikilink")
         Composed & Arranged by TETSUYA KOMURO
 2.  **out of © control**
       -
@@ -26,12 +26,12 @@
 
 **get it on now feat. KEIKO**
 
-  - [LEVEL 4](https://ja.wikipedia.org/wiki/LEVEL_4_\(globeのアルバム\) "wikilink")
+  - [LEVEL 4](../Page/LEVEL_4_\(globeのアルバム\).md "wikilink")
   - [globe decade -single history 1995-2004-](https://ja.wikipedia.org/wiki/globe_decade_-single_history_1995-2004- "wikilink")
 
 **out of © control**
 
-  - [LEVEL 4](https://ja.wikipedia.org/wiki/LEVEL_4_\(globeのアルバム\) "wikilink")
+  - [LEVEL 4](../Page/LEVEL_4_\(globeのアルバム\).md "wikilink")
 
 ## 外部リンク
 

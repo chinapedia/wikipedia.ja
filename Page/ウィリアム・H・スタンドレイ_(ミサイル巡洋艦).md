@@ -15,7 +15,7 @@
 | その後:                                                                                                                                  |
 | 除籍:                                                                                                                                   |
 | 性能諸元                                                                                                                                  |
-| [排水量](https://ja.wikipedia.org/wiki/排水量 "wikilink"):                                                                                  |
+| [排水量](../Page/排水量.md "wikilink"):                                                                                                     |
 | 全長:                                                                                                                                   |
 | 全幅:                                                                                                                                   |
 | 吃水:                                                                                                                                   |
@@ -29,7 +29,7 @@
 
 </div>
 
-**ウィリアム・H・スタンドレイ**(**USS William H. Standley, DLG/CG-32**)は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[ミサイル巡洋艦](https://ja.wikipedia.org/wiki/ミサイル巡洋艦 "wikilink")。[ベルナップ級ミサイル巡洋艦](https://ja.wikipedia.org/wiki/ベルナップ級ミサイル巡洋艦 "wikilink")の7番艦。艦名は[ウィリアム・H・スタンドレイ](https://ja.wikipedia.org/wiki/ウィリアム・H・スタンドレイ "wikilink")[海軍大将](https://ja.wikipedia.org/wiki/海軍大将 "wikilink")に因んで命名された。
+**ウィリアム・H・スタンドレイ**(**USS William H. Standley, DLG/CG-32**)は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[ミサイル巡洋艦](../Page/ミサイル巡洋艦.md "wikilink")。[ベルナップ級ミサイル巡洋艦](../Page/ベルナップ級ミサイル巡洋艦.md "wikilink")の7番艦。艦名は[ウィリアム・H・スタンドレイ](https://ja.wikipedia.org/wiki/ウィリアム・H・スタンドレイ "wikilink")[海軍大将](../Page/海軍大将.md "wikilink")に因んで命名された。
 
 ## 艦歴
 
@@ -39,7 +39,7 @@
 
 1990年6月から1991年8月まで、ウィリアム・H・スタンドレイは、NTU(*New Threat Upgrade*)プログラムで対空兵装の改良を含む大規模な[オーバーホール](https://ja.wikipedia.org/wiki/オーバーホール "wikilink")を行った。
 
-27年間以上の現役活動後に、ウィリアム・H・スタンドレイは1994年2月11日に退役し同日除籍された。ウィリアム・H・スタンドレイは[エリオット](https://ja.wikipedia.org/wiki/エリオット_\(駆逐艦\) "wikilink")(*USS Elliot, DD-967*)と共に2005年6月25日にオペレーション・タリスマン・サーベルでの標的艦としてオーストラリア東部海岸沖に沈められた。両艦は現在南緯25度、東経155度、[フレーザー島](https://ja.wikipedia.org/wiki/フレーザー島 "wikilink")沖190kmの[珊瑚海](https://ja.wikipedia.org/wiki/珊瑚海 "wikilink")の海域で人工岩礁として眠る。
+27年間以上の現役活動後に、ウィリアム・H・スタンドレイは1994年2月11日に退役し同日除籍された。ウィリアム・H・スタンドレイは[エリオット](https://ja.wikipedia.org/wiki/エリオット_\(駆逐艦\) "wikilink")(*USS Elliot, DD-967*)と共に2005年6月25日にオペレーション・タリスマン・サーベルでの標的艦としてオーストラリア東部海岸沖に沈められた。両艦は現在南緯25度、東経155度、[フレーザー島](../Page/フレーザー島.md "wikilink")沖190kmの[珊瑚海](https://ja.wikipedia.org/wiki/珊瑚海 "wikilink")の海域で人工岩礁として眠る。
 
 ## 関連項目
 

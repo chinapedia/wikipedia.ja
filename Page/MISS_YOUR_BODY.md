@@ -5,14 +5,14 @@
 
 ## 解説
 
-2曲目に収録されるLive tracksは[1999年](../Page/1999年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")、[府中の森芸術劇場](https://ja.wikipedia.org/wiki/府中の森芸術劇場 "wikilink")ふるさとホールで行われたアルバム『[FIRST REPRODUCTS](https://ja.wikipedia.org/wiki/FIRST_REPRODUCTS "wikilink")』制作に関する公開レコーディング（アンプラグドによるライブ）において録音されたもの。
+2曲目に収録されるLive tracksは[1999年](../Page/1999年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")、[府中の森芸術劇場](../Page/府中の森芸術劇場.md "wikilink")ふるさとホールで行われたアルバム『[FIRST REPRODUCTS](../Page/FIRST_REPRODUCTS.md "wikilink")』制作に関する公開レコーディング（アンプラグドによるライブ）において録音されたもの。
 
 ## 収録曲
 
 1.  **MISS YOUR BODY (Studio tracks)**
       -
-        Written by [KEIKO](https://ja.wikipedia.org/wiki/KEIKO "wikilink") & [MARC](https://ja.wikipedia.org/wiki/マーク・パンサー "wikilink")　　Composed & Arranged by [TETSUYA KOMURO](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
-        [FORD「Ka」キャンペーンソング](https://ja.wikipedia.org/wiki/フォード・Ka "wikilink")
+        Written by [KEIKO](../Page/KEIKO.md "wikilink") & [MARC](../Page/マーク・パンサー.md "wikilink")　　Composed & Arranged by [TETSUYA KOMURO](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
+        [FORD「Ka」キャンペーンソング](../Page/フォード・Ka.md "wikilink")
 2.  **MISS YOUR BODY (Live tracks)**
 3.  **MISS YOUR BODY (Radio Edit)**
 

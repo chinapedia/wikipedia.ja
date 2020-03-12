@@ -7,13 +7,13 @@
 
 ### 概要
 
-本作は『[Natural -身も心も-](https://ja.wikipedia.org/wiki/Natural_-身も心も- "wikilink")』の続編に当たる。しかし、登場人物は一新されておりシナリオも直接には続いていないため、前作を知らなくても支障無くプレイできる。
+本作は『[Natural -身も心も-](../Page/Natural_-身も心も-.md "wikilink")』の続編に当たる。しかし、登場人物は一新されておりシナリオも直接には続いていないため、前作を知らなくても支障無くプレイできる。
 
-最初のCD-ROM版の後、[2001年](../Page/2001年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink")にはイベントを追加した『DVD EDITION』が、[2003年](../Page/2003年.md "wikilink")[5月23日](../Page/5月23日.md "wikilink")には『[F\&C](../Page/F&C.md "wikilink") DVD COLLECTION』の第3弾としてその廉価版が発売された。また、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[8月24日](../Page/8月24日.md "wikilink")には[DMMより](https://ja.wikipedia.org/wiki/DMM.com "wikilink")[ダウンロード販売](../Page/ダウンロード販売.md "wikilink")版が、同年[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")には[アイチェリーより](https://ja.wikipedia.org/wiki/アクラス "wikilink")[DVDPG版が発売された](https://ja.wikipedia.org/wiki/DVDプレイヤーズゲーム "wikilink")。なお、DVDPG版はセックスシーンに100カットにも及ぶ[セル画](https://ja.wikipedia.org/wiki/セル画 "wikilink")調アニメーションが追加されている。
+最初のCD-ROM版の後、[2001年](../Page/2001年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink")にはイベントを追加した『DVD EDITION』が、[2003年](../Page/2003年.md "wikilink")[5月23日](../Page/5月23日.md "wikilink")には『[F\&C](../Page/F&C.md "wikilink") DVD COLLECTION』の第3弾としてその廉価版が発売された。また、[2007年](../Page/2007年.md "wikilink")[8月24日](../Page/8月24日.md "wikilink")には[DMMより](../Page/DMM.com.md "wikilink")[ダウンロード販売](../Page/ダウンロード販売.md "wikilink")版が、同年[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")には[アイチェリーより](https://ja.wikipedia.org/wiki/アクラス "wikilink")[DVDPG版が発売された](https://ja.wikipedia.org/wiki/DVDプレイヤーズゲーム "wikilink")。なお、DVDPG版はセックスシーンに100カットにも及ぶ[セル画](../Page/セル画.md "wikilink")調アニメーションが追加されている。
 
-[家庭用ゲーム機にも移植されている](../Page/ゲーム機.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink")には[ゲームボーイアドバンス](https://ja.wikipedia.org/wiki/ゲームボーイアドバンス "wikilink") (GBA) 版が同タイトルで[オメガ・プロジェクトより](https://ja.wikipedia.org/wiki/ソーシャル・エコロジー・プロジェクト "wikilink")、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")には[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink") (PS2) 版が『**Natural2 -DUO- 桜色の季節**』（ナチュラルツー デュオ さくらいろのきせつ）のタイトル名で[角川書店](../Page/角川書店.md "wikilink")より、それぞれ発売された。
+[家庭用ゲーム機にも移植されている](../Page/ゲーム機.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink")には[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink") (GBA) 版が同タイトルで[オメガ・プロジェクトより](https://ja.wikipedia.org/wiki/ソーシャル・エコロジー・プロジェクト "wikilink")、[2005年](../Page/2005年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")には[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink") (PS2) 版が『**Natural2 -DUO- 桜色の季節**』（ナチュラルツー デュオ さくらいろのきせつ）のタイトル名で[角川書店](../Page/角川書店.md "wikilink")より、それぞれ発売された。
 
-PC版ではエンディング到達後に今までのプレイ内容から性格が診断され、その累積により新しいシナリオが追加される恋愛育成シミュレーションゲーム、DVDPG版では主にメインヒロイン2人の各ルートと2人同時攻略のルートから構成される[恋愛アドベンチャーゲームとなっている](../Page/恋愛ゲーム_\(ゲームジャンル\).md "wikilink")。一方、家庭用ゲーム機版では、いわゆる鬼畜系のルートを廃して純愛のみに特化した定番タイプの恋愛アドベンチャーゲームへとアレンジされており、ヒロインの機嫌を損ねると突然キャラクターが低頭身かつ絵本調にデフォルメされるシステムが追加されている他、『[Natural Zero+ -はじまりと終わりの場所で-](https://ja.wikipedia.org/wiki/Natural_Zero+_-はじまりと終わりの場所で- "wikilink")』に存在する「3つのキーワードを組み合わせてストーリーを作る」要素が、「イベントの組み合わせにより新たなイベントを追加する」という形で収録されている。また、GBA版では一部のイベントがミニゲーム形式となっており、その正否によってヒロインの反応が変化する。そのミニゲームは以下の6つ。
+PC版ではエンディング到達後に今までのプレイ内容から性格が診断され、その累積により新しいシナリオが追加される恋愛育成シミュレーションゲーム、DVDPG版では主にメインヒロイン2人の各ルートと2人同時攻略のルートから構成される[恋愛アドベンチャーゲームとなっている](../Page/恋愛ゲーム_\(ゲームジャンル\).md "wikilink")。一方、家庭用ゲーム機版では、いわゆる鬼畜系のルートを廃して純愛のみに特化した定番タイプの恋愛アドベンチャーゲームへとアレンジされており、ヒロインの機嫌を損ねると突然キャラクターが低頭身かつ絵本調にデフォルメされるシステムが追加されている他、『[Natural Zero+ -はじまりと終わりの場所で-](../Page/Natural_Zero+_-はじまりと終わりの場所で-.md "wikilink")』に存在する「3つのキーワードを組み合わせてストーリーを作る」要素が、「イベントの組み合わせにより新たなイベントを追加する」という形で収録されている。また、GBA版では一部のイベントがミニゲーム形式となっており、その正否によってヒロインの反応が変化する。そのミニゲームは以下の6つ。
 
   - BLACK ENEMY
     部屋に繁殖し続ける[ゴキブリ](https://ja.wikipedia.org/wiki/ゴキブリ "wikilink")を退治し続ける。
@@ -42,10 +42,10 @@ PC版ではエンディング到達後に今までのプレイ内容から性格
     声：[長崎みなみ](../Page/長崎みなみ.md "wikilink")
     メインヒロインの1人で、翔馬が過去に1か月だけ過ごした双子姉妹の姉。病弱だが、食欲は旺盛。なお、妹の空とは身長及びスリーサイズが全く同じである。
   - 鳥海 空（とりうみ くう）
-    声：[永瀬江美弥](https://ja.wikipedia.org/wiki/永瀬江美弥 "wikilink")
-    メインヒロインの1人で、翔馬が過去に1か月だけ過ごした双子姉妹の妹。昔は大人しかったが、今は活発な[ボク少女](https://ja.wikipedia.org/wiki/ボク少女 "wikilink")。星和芸術学院に通っている。
+    声：[永瀬江美弥](../Page/永瀬江美弥.md "wikilink")
+    メインヒロインの1人で、翔馬が過去に1か月だけ過ごした双子姉妹の妹。昔は大人しかったが、今は活発な[ボク少女](../Page/ボク少女.md "wikilink")。星和芸術学院に通っている。
   - 江崎 日奈美（えざき ひなみ）
-    声：[ひなたぼっ子](https://ja.wikipedia.org/wiki/ひなたぼっ子 "wikilink")（PC版） / [倖月美和](https://ja.wikipedia.org/wiki/倖月美和 "wikilink")（PS2版）
+    声：[ひなたぼっ子](https://ja.wikipedia.org/wiki/ひなたぼっ子 "wikilink")（PC版） / [倖月美和](../Page/倖月美和.md "wikilink")（PS2版）
     翔馬の雑誌社での後輩。おっちょこちょいな[眼鏡っ娘](https://ja.wikipedia.org/wiki/眼鏡っ娘 "wikilink")。実家は中華料理店で、日奈美のチャイナドレス姿のシーンが存在する。
   - 端本 久美子（はしもと くみこ）
     声：[さかもとみずき](https://ja.wikipedia.org/wiki/さかもとみずき "wikilink")
@@ -66,7 +66,7 @@ PC版ではエンディング到達後に今までのプレイ内容から性格
 ### スタッフ
 
   - シナリオ - 宮村優、素浪人、ひろもりさかな
-  - キャラクターデザイン、原画 - [針玉ヒロキ](https://ja.wikipedia.org/wiki/針玉ヒロキ "wikilink")
+  - キャラクターデザイン、原画 - [針玉ヒロキ](../Page/針玉ヒロキ.md "wikilink")
   - 音楽 - [DOORS MUSIC ENTERTAINMENT](../Page/DOORS_MUSIC_ENTERTAINMENT.md "wikilink")
 
 ### 主題歌
@@ -84,19 +84,19 @@ PC版ではエンディング到達後に今までのプレイ内容から性格
 
 ### 概要（アニメ）
 
-[2001年](../Page/2001年.md "wikilink")から[2003年](../Page/2003年.md "wikilink")にかけて、[グリーンバニー](https://ja.wikipedia.org/wiki/グリーンバニー "wikilink")より発売された。[VHS](../Page/VHS.md "wikilink")版と[DVD版が存在し](../Page/DVD-Video.md "wikilink")、それぞれ各巻30分。各巻の北米版正規DVDも存在するが、日本国内では入手不可。
+[2001年](../Page/2001年.md "wikilink")から[2003年](../Page/2003年.md "wikilink")にかけて、[グリーンバニー](../Page/グリーンバニー.md "wikilink")より発売された。[VHS](../Page/VHS.md "wikilink")版と[DVD版が存在し](../Page/DVD-Video.md "wikilink")、それぞれ各巻30分。各巻の北米版正規DVDも存在するが、日本国内では入手不可。
 
-「**純愛SMアニメ**」と称された作画や演出は、制作当時の他作品と並べても遜色の無い高水準を保っていた。しかし、売上の低迷により第4巻の制作途中で[打ち切り](https://ja.wikipedia.org/wiki/打ち切り "wikilink")が決定。急ぎ内容の改変が行われ、本来予定されていた結末は描かれないまま、終了を迎えた。
+「**純愛SMアニメ**」と称された作画や演出は、制作当時の他作品と並べても遜色の無い高水準を保っていた。しかし、売上の低迷により第4巻の制作途中で[打ち切り](../Page/打ち切り.md "wikilink")が決定。急ぎ内容の改変が行われ、本来予定されていた結末は描かれないまま、終了を迎えた。
 
-なお、シリーズ構成と脚本を担当していた[たかおかよしお曰く](https://ja.wikipedia.org/wiki/吉岡たかを "wikilink")、本来は全6巻構成であり、最初から第6巻のラストシーンを想定した上で執筆していた上、[サブタイトル](https://ja.wikipedia.org/wiki/サブタイトル "wikilink")も第5巻は『**翔馬**』、第6巻は『**二人**』に決めていたとのこと\[1\]。
+なお、シリーズ構成と脚本を担当していた[たかおかよしお曰く](../Page/吉岡たかを.md "wikilink")、本来は全6巻構成であり、最初から第6巻のラストシーンを想定した上で執筆していた上、[サブタイトル](../Page/サブタイトル.md "wikilink")も第5巻は『**翔馬**』、第6巻は『**二人**』に決めていたとのこと\[1\]。
 
 ### スタッフ（アニメ）
 
   - 原作 - PCゲーム『Natural2 -DUO-』、ひろもりさかな（[F\&C](../Page/F&C.md "wikilink")・FC03/DreamSoft）
   - 企画 - 金木怪男、天地悠大
-  - 監督 - [よしもときんじ](https://ja.wikipedia.org/wiki/よしもときんじ "wikilink")
+  - 監督 - [よしもときんじ](../Page/よしもときんじ.md "wikilink")
   - シリーズ構成 - たかおかよしお
-  - キャラクター原案 - [針玉ヒロキ](https://ja.wikipedia.org/wiki/針玉ヒロキ "wikilink")
+  - キャラクター原案 - [針玉ヒロキ](../Page/針玉ヒロキ.md "wikilink")
   - キャラクターデザイン - 牧田良信（第1巻、第2巻、第3巻）、よしもときんじ（第4巻）、岡田豊広（第4巻）
   - 美術監督 - 池端茂（第1巻、第2巻）、伊谷たかし（第3巻、第4巻）
   - 色彩設計 - 中田亮太
@@ -104,13 +104,13 @@ PC版ではエンディング到達後に今までのプレイ内容から性格
   - 音楽 - アン・フー
   - 音響監督 - 黛計
   - 音響制作 - アーツプロ
-  - 音響効果 - 庄司雅弘（[フィズサウンド](https://ja.wikipedia.org/wiki/フィズサウンドクリエイション "wikilink")）
-  - 録音スタジオ - [タバック](https://ja.wikipedia.org/wiki/タバック "wikilink")
+  - 音響効果 - 庄司雅弘（[フィズサウンド](../Page/フィズサウンドクリエイション.md "wikilink")）
+  - 録音スタジオ - [タバック](../Page/タバック.md "wikilink")
   - 協力 - 笹島靖規 (DreamSoft)
   - スーパーバイザー - Dr.POCHI
   - プロデューサー - 雅太郎、越中おさむ
-  - アニメーション制作 - [アームス](https://ja.wikipedia.org/wiki/アームス "wikilink")
-  - アニメーション制作協力（第2巻） - [スタジオジャイアンツ](https://ja.wikipedia.org/wiki/スタジオジャイアンツ "wikilink")、[スタジオ九魔](https://ja.wikipedia.org/wiki/スタジオ九魔 "wikilink")、韓鎮アニメーション
+  - アニメーション制作 - [アームス](../Page/アームス.md "wikilink")
+  - アニメーション制作協力（第2巻） - [スタジオジャイアンツ](../Page/スタジオジャイアンツ.md "wikilink")、[スタジオ九魔](../Page/スタジオ九魔.md "wikilink")、韓鎮アニメーション
   - 製作 - グリーンバニー
 
 ### 各巻リスト

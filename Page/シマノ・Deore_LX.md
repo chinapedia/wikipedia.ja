@@ -1,11 +1,11 @@
 > この記事は[Deore LX](https://ja.wikipedia.org/wiki/Deore_LX)から翻訳されています。
 
 
-**Deore LX**（デオーレ エルエックス）は、株式会社[シマノ](../Page/シマノ.md "wikilink")が開発、販売する[マウンテンバイク](../Page/マウンテンバイク.md "wikilink")向け[コンポーネントである](https://ja.wikipedia.org/wiki/コンポーネント_\(自転車\) "wikilink")。
+**Deore LX**（デオーレ エルエックス）は、株式会社[シマノ](../Page/シマノ.md "wikilink")が開発、販売する[マウンテンバイク](../Page/マウンテンバイク.md "wikilink")向け[コンポーネントである](../Page/コンポーネント_\(自転車\).md "wikilink")。
 
 ## 概要 M580シリーズまで
 
-同社の提供する製品群では、[XTR](https://ja.wikipedia.org/wiki/シマノ・XTR "wikilink")、[Deore XTに次ぐグレードであり](https://ja.wikipedia.org/wiki/シマノ・Deore_XT "wikilink")、[Deore](../Page/シマノ・Deore.md "wikilink")、[Alivioの上位に相当する](https://ja.wikipedia.org/wiki/シマノ・Alivio "wikilink")。同社によれば「上位機種に引けをとらない本格的マウンテンバイクコンポとしての実力を備える」とされている。
+同社の提供する製品群では、[XTR](../Page/シマノ・XTR.md "wikilink")、[Deore XTに次ぐグレードであり](../Page/シマノ・Deore_XT.md "wikilink")、[Deore](../Page/シマノ・Deore.md "wikilink")、[Alivioの上位に相当する](../Page/シマノ・Alivio.md "wikilink")。同社によれば「上位機種に引けをとらない本格的マウンテンバイクコンポとしての実力を備える」とされている。
 
 かつてはXTとLXの間にDXというグレードがあったが、MTBへの人気が落ち着きを見せ、不景気も重なって、DXグレードは消滅。この穴を埋めるべくLXはワンランク上のグレードへと進化していった（後年、LXのグレードアップによって空いた部分にDeoreグレードが新設された。かつてのLXが担っていたスポーツ向けグレードの入門用を担当する。）。
 

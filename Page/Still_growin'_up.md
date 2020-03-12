@@ -5,13 +5,13 @@
 
 ## 解説
 
-アルバム「[CRUISE RECORD 1995-2000](https://ja.wikipedia.org/wiki/CRUISE_RECORD_1995-2000 "wikilink")」の先行シングルであり、[8cmCD仕様で発売された最後のシングルである](../Page/コンパクトディスク.md "wikilink")。アルバムに収録されているバージョンは歌詞が追加されており、50秒程長い。また、アルバムにはカップリングに収録されている「MISS YOUR BODY」のリミックスも収録されている。
+アルバム「[CRUISE RECORD 1995-2000](../Page/CRUISE_RECORD_1995-2000.md "wikilink")」の先行シングルであり、[8cmCD仕様で発売された最後のシングルである](../Page/コンパクトディスク.md "wikilink")。アルバムに収録されているバージョンは歌詞が追加されており、50秒程長い。また、アルバムにはカップリングに収録されている「MISS YOUR BODY」のリミックスも収録されている。
 
 ## 収録曲
 
 1.  **still growin' up - Single Edit**
       -
-        Written by [KEIKO](https://ja.wikipedia.org/wiki/KEIKO "wikilink") & [MARC](https://ja.wikipedia.org/wiki/マーク・パンサー "wikilink")　　Composed & Arranged by [TETSUYA KOMURO](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
+        Written by [KEIKO](../Page/KEIKO.md "wikilink") & [MARC](../Page/マーク・パンサー.md "wikilink")　　Composed & Arranged by [TETSUYA KOMURO](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
         [コカ・コーラ](../Page/コカ・コーラ.md "wikilink") TVCMソング
 2.  **MISS YOUR BODY - tan line mix**
 3.  **still growin' up - Just Backtracks**
@@ -20,14 +20,14 @@
 
 **still growin' up**
 
-  - [CRUISE RECORD 1995-2000](https://ja.wikipedia.org/wiki/CRUISE_RECORD_1995-2000 "wikilink")（アルバムバージョン）
+  - [CRUISE RECORD 1995-2000](../Page/CRUISE_RECORD_1995-2000.md "wikilink")（アルバムバージョン）
   - [8 Years ～Many Classic Moments～](https://ja.wikipedia.org/wiki/8_Years_～Many_Classic_Moments～ "wikilink")
   - [globe decade -single history 1995-2004-](https://ja.wikipedia.org/wiki/globe_decade_-single_history_1995-2004- "wikilink")
   - [15YEARS -BEST HIT SELECTION-](https://ja.wikipedia.org/wiki/15YEARS_-BEST_HIT_SELECTION- "wikilink")（アルバムバージョン）
 
 **MISS YOUR BODY - tan line mix**
 
-  - [CRUISE RECORD 1995-2000](https://ja.wikipedia.org/wiki/CRUISE_RECORD_1995-2000 "wikilink")
+  - [CRUISE RECORD 1995-2000](../Page/CRUISE_RECORD_1995-2000.md "wikilink")
 
 ## 外部リンク
 

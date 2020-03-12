@@ -1,7 +1,7 @@
 > この記事は[Biz](https://ja.wikipedia.org/wiki/Biz)から翻訳されています。
 
 
-**Biz・ホーダイ**（ビズ・ホーダイ）は、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[第三世代携帯電話](https://ja.wikipedia.org/wiki/第三世代携帯電話 "wikilink")[FOMA](../Page/FOMA.md "wikilink")の[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")向け[パケット通信料定額サービスである](https://ja.wikipedia.org/wiki/パケット定額制 "wikilink")。本項では、後継サービスとなる**Biz・ホーダイ ダブル**及び、メール利用者向けサービスとなる**Biz・ホーダイ シンプル**についても、併せて述べる。
+**Biz・ホーダイ**（ビズ・ホーダイ）は、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[第三世代携帯電話](https://ja.wikipedia.org/wiki/第三世代携帯電話 "wikilink")[FOMA](../Page/FOMA.md "wikilink")の[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")向け[パケット通信料定額サービスである](../Page/パケット定額制.md "wikilink")。本項では、後継サービスとなる**Biz・ホーダイ ダブル**及び、メール利用者向けサービスとなる**Biz・ホーダイ シンプル**についても、併せて述べる。
 
 2010年4月より、Biz・ホーダイに既に加入している人のみ、契約継続になり、Biz・ホーダイ ダブルとBiz・ホーダイ シンプルは、それぞれパケ・ホーダイ ダブルとパケ・ホーダイ シンプルの契約に移行した。
 
@@ -11,13 +11,13 @@ NTTドコモのFOMA端末への割引サービスのひとつで、[iモード](
 
 ## Biz・ホーダイ
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")提供開始。
+[2007年](../Page/2007年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")提供開始。
 
-FOMA新料金プランに対応し、定額料5,700円（税込5,985円）を支払うことで、FOMA端末からのパケット通信が定額となる。利用に際しては[mopera Uの](https://ja.wikipedia.org/wiki/mopera "wikilink")「Uスタンダードプラン」か「Uライトプラン」の契約と、対象端末にBiz・ホーダイ接続アプリケーションのダウンロードと定額用アクセスポイントの設定が必要となる。ただし後述するBlackBerryにおいてはmoperaUではなく、[BlackBerry Internet Service等の契約があればBiz](https://ja.wikipedia.org/wiki/BlackBerry_Internet_Service "wikilink")・ホーダイを適用することが可能となる。（BlackBerry単体ではblackberry.netの[APN](https://ja.wikipedia.org/wiki/APN "wikilink")以外にはアクセスができない）
+FOMA新料金プランに対応し、定額料5,700円（税込5,985円）を支払うことで、FOMA端末からのパケット通信が定額となる。利用に際しては[mopera Uの](https://ja.wikipedia.org/wiki/mopera "wikilink")「Uスタンダードプラン」か「Uライトプラン」の契約と、対象端末にBiz・ホーダイ接続アプリケーションのダウンロードと定額用アクセスポイントの設定が必要となる。ただし後述するBlackBerryにおいてはmoperaUではなく、[BlackBerry Internet Service等の契約があればBiz](../Page/BlackBerry_Internet_Service.md "wikilink")・ホーダイを適用することが可能となる。（BlackBerry単体ではblackberry.netの[APN](https://ja.wikipedia.org/wiki/APN "wikilink")以外にはアクセスができない）
 
-5,985円（税込）の定額料やパソコン用ホームページの閲覧を含むFOMA端末からのパケット通信が定額となるなどの点で[パケ・ホーダイフルに似ているが](https://ja.wikipedia.org/wiki/パケ・ホーダイ#パケ・ホーダイフル "wikilink")、こちらは「iモード非対応の」スマートフォン向けのサービスであり、定額制対象となるのは日本国内における対応端末からのパケット通信のみである（反対にパケ・ホーダイフルはフルブラウザも定額制になるとはいえ、対象はあくまでもiモード通信のみなのでiモード非対応の上記の機種では定額制にはならない）。つまりiモードの利用でもパソコンなどに接続した際と同額のパケット通信料（0.021円（税込）／パケット）がかかる。Biz・ホーダイ、[パケットパック](https://ja.wikipedia.org/wiki/FOMA#パケット料金 "wikilink")、[パケ・ホーダイ](https://ja.wikipedia.org/wiki/パケ・ホーダイ "wikilink")、[パケ・ホーダイフルはいずれか](https://ja.wikipedia.org/wiki/パケ・ホーダイ#パケ・ホーダイフル "wikilink")1つしか契約できないため、iモード対応端末と[FOMAカード](https://ja.wikipedia.org/wiki/FOMAカード "wikilink")を差し替えて使い分けているユーザーはそれぞれの利用頻度を考慮して契約するサービスを選択することが望ましい。
+5,985円（税込）の定額料やパソコン用ホームページの閲覧を含むFOMA端末からのパケット通信が定額となるなどの点で[パケ・ホーダイフルに似ているが](https://ja.wikipedia.org/wiki/パケ・ホーダイ#パケ・ホーダイフル "wikilink")、こちらは「iモード非対応の」スマートフォン向けのサービスであり、定額制対象となるのは日本国内における対応端末からのパケット通信のみである（反対にパケ・ホーダイフルはフルブラウザも定額制になるとはいえ、対象はあくまでもiモード通信のみなのでiモード非対応の上記の機種では定額制にはならない）。つまりiモードの利用でもパソコンなどに接続した際と同額のパケット通信料（0.021円（税込）／パケット）がかかる。Biz・ホーダイ、[パケットパック](https://ja.wikipedia.org/wiki/FOMA#パケット料金 "wikilink")、[パケ・ホーダイ](../Page/パケ・ホーダイ.md "wikilink")、[パケ・ホーダイフルはいずれか](https://ja.wikipedia.org/wiki/パケ・ホーダイ#パケ・ホーダイフル "wikilink")1つしか契約できないため、iモード対応端末と[FOMAカード](https://ja.wikipedia.org/wiki/FOMAカード "wikilink")を差し替えて使い分けているユーザーはそれぞれの利用頻度を考慮して契約するサービスを選択することが望ましい。
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")の提供開始時点で[M1000](../Page/M1000.md "wikilink")と[hTc Zの](https://ja.wikipedia.org/wiki/FOMA#ビジネスコンシューマー向け "wikilink")2機種が対応機種として発表されたが、サービスインからしばらくの間はM1000のみの対応になった。
+[2007年](../Page/2007年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")の提供開始時点で[M1000](../Page/M1000.md "wikilink")と[hTc Zの](https://ja.wikipedia.org/wiki/FOMA#ビジネスコンシューマー向け "wikilink")2機種が対応機種として発表されたが、サービスインからしばらくの間はM1000のみの対応になった。
 
 ### 料金体系
 
@@ -29,9 +29,9 @@ FOMA新料金プランに対応し、定額料5,700円（税込5,985円）を支
 
 ### 歴史
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[1月31日](../Page/1月31日.md "wikilink")のドコモの発表で、スマートフォン用の定額制度の導入を発表。2007年[4月1日](../Page/4月1日.md "wikilink")の料金改定で実施された。プラン発表当初、[M1000](../Page/M1000.md "wikilink")・[hTc Zへの対応をアナウンスしていた](https://ja.wikipedia.org/wiki/hTc_Z "wikilink")\[1\]。
+[2007年](../Page/2007年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink")のドコモの発表で、スマートフォン用の定額制度の導入を発表。2007年[4月1日](../Page/4月1日.md "wikilink")の料金改定で実施された。プラン発表当初、[M1000](../Page/M1000.md "wikilink")・[hTc Zへの対応をアナウンスしていた](https://ja.wikipedia.org/wiki/hTc_Z "wikilink")\[1\]。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[8月25日](../Page/8月25日.md "wikilink")のドコモの発表で、Biz・ホーダイダブルの導入に伴い、同年12月31日に新規申し込みを終了すると発表され、実施された。[2009年](../Page/2009年.md "wikilink")[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink")以降は解約のみ受付となる\[2\]。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[8月25日](../Page/8月25日.md "wikilink")のドコモの発表で、Biz・ホーダイダブルの導入に伴い、同年12月31日に新規申し込みを終了すると発表され、実施された。[2009年](../Page/2009年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")以降は解約のみ受付となる\[2\]。
 
 ## Biz・ホーダイダブル
 
@@ -41,7 +41,7 @@ FOMA新料金プランに対応し、定額料5,700円（税込5,985円）を支
 
 この「Biz・ホーダイ ダブル」の料金体系は、同時に開始される「[パケ・ホーダイ ダブル](https://ja.wikipedia.org/wiki/パケ・ホーダイ#パケ・ホーダイダブル "wikilink")」契約でiモードフルブラウザを利用したときのものと同じである。
 
-なお、新制度への移行により、「Biz・ホーダイ」の新規利用申込は2008年いっぱいで終了。それまでに契約したユーザーは引き続き従来体系を利用できるものの、「Biz・ホーダイ ダブル」へ移行する場合は新たな手続きが必要となる。またiモードやPCでのモデム接続といったBiz・ホーダイダブル定額対象外の通信料は、1パケット0.021円で従量課金される。また[WORLD WINGといった海外での通信料には](https://ja.wikipedia.org/wiki/WORLD_WING "wikilink")、この割引は適用されない。
+なお、新制度への移行により、「Biz・ホーダイ」の新規利用申込は2008年いっぱいで終了。それまでに契約したユーザーは引き続き従来体系を利用できるものの、「Biz・ホーダイ ダブル」へ移行する場合は新たな手続きが必要となる。またiモードやPCでのモデム接続といったBiz・ホーダイダブル定額対象外の通信料は、1パケット0.021円で従量課金される。また[WORLD WINGといった海外での通信料には](../Page/WORLD_WING.md "wikilink")、この割引は適用されない。
 
 2009年10月1日より、Biz・ホーダイダブル契約者がパソコンやiモードなど、mopera U以外の接続を行った際も13,650円以上かからない料金メニューが追加された\[4\]
 
@@ -126,7 +126,7 @@ FOMA新料金プランに対応し、定額料5,700円（税込5,985円）を支
 
 ### 歴史
 
-2009年[10月27日](https://ja.wikipedia.org/wiki/10月27日 "wikilink")のドコモの発表で、[iモードメール](https://ja.wikipedia.org/wiki/iモードメール "wikilink")が使い放題のサービス「メール使いホーダイ」を提供すると発表。2009年[12月1日](../Page/12月1日.md "wikilink")の料金改定で実施された\[10\]。
+2009年[10月27日](../Page/10月27日.md "wikilink")のドコモの発表で、[iモードメール](https://ja.wikipedia.org/wiki/iモードメール "wikilink")が使い放題のサービス「メール使いホーダイ」を提供すると発表。2009年[12月1日](../Page/12月1日.md "wikilink")の料金改定で実施された\[10\]。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月21日](../Page/1月21日.md "wikilink")のドコモの発表で、パケ・ホーダイシンプルとの統合を発表。加入者は改訂以降はパケ・ホーダイシンプルの契約に移行した。2010年[4月1日](../Page/4月1日.md "wikilink")の料金改定で実施された。\[11\]。
 
@@ -140,10 +140,10 @@ FOMA新料金プランに対応し、定額料5,700円（税込5,985円）を支
 
 ## 関連項目
 
-  - [モバイルデータ通信定額制](https://ja.wikipedia.org/wiki/モバイルデータ通信定額制 "wikilink")
+  - [モバイルデータ通信定額制](../Page/モバイルデータ通信定額制.md "wikilink")
   - [定額データプラン](https://ja.wikipedia.org/wiki/定額データプラン "wikilink")
-  - [パケット定額制](https://ja.wikipedia.org/wiki/パケット定額制 "wikilink")
-  - [パケ・ホーダイ](https://ja.wikipedia.org/wiki/パケ・ホーダイ "wikilink")
+  - [パケット定額制](../Page/パケット定額制.md "wikilink")
+  - [パケ・ホーダイ](../Page/パケ・ホーダイ.md "wikilink")
   - [メール使いホーダイ](https://ja.wikipedia.org/wiki/メール使いホーダイ "wikilink")
 
 ## 外部リンク

@@ -1,17 +1,17 @@
 > この記事は[Love Destiny](https://ja.wikipedia.org/wiki/Love_Destiny)から翻訳されています。
 
 
-「**Love Destiny**」（ラヴ・デスティニー）は、[堀江由衣](https://ja.wikipedia.org/wiki/堀江由衣 "wikilink")の1枚目（通算3作目）の[シングル](../Page/シングル.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[5月16日](../Page/5月16日.md "wikilink")に[スターチャイルド](https://ja.wikipedia.org/wiki/スターチャイルド "wikilink")から発売された。
+「**Love Destiny**」（ラヴ・デスティニー）は、[堀江由衣](https://ja.wikipedia.org/wiki/堀江由衣 "wikilink")の1枚目（通算3作目）の[シングル](../Page/シングル.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[5月16日](../Page/5月16日.md "wikilink")に[スターチャイルド](../Page/スターチャイルド.md "wikilink")から発売された。
 
 ## 概要
 
 スターチャイルドから発売されたシングルとしては1枚目であり、以降のシングルもそれを基準にカウントされている。
 
-表題曲「Love Destiny」とカップリングの「翼」は、それぞれ[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[シスター・プリンセス](../Page/シスター・プリンセス.md "wikilink")』の[オープニングテーマと](https://ja.wikipedia.org/wiki/主題歌 "wikilink")[エンディングテーマとして使用された](https://ja.wikipedia.org/wiki/主題歌 "wikilink")。「Love Destiny」と「翼」は[instrumentalだが](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")、「Sweet Baby Love」のみ[Off Vocalとなっている](https://ja.wikipedia.org/wiki/オフヴォーカル "wikilink")。初回盤はデジパック仕様になっている。
+表題曲「Love Destiny」とカップリングの「翼」は、それぞれ[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[シスター・プリンセス](../Page/シスター・プリンセス.md "wikilink")』の[オープニングテーマと](../Page/主題歌.md "wikilink")[エンディングテーマとして使用された](../Page/主題歌.md "wikilink")。「Love Destiny」と「翼」は[instrumentalだが](../Page/器楽曲.md "wikilink")、「Sweet Baby Love」のみ[Off Vocalとなっている](https://ja.wikipedia.org/wiki/オフヴォーカル "wikilink")。初回盤はデジパック仕様になっている。
 
 「Love Destiny」は、『シスター・プリンセス』の原作出版元である[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")の社歌という噂があり、同社のイベント『DENGEKI MUSIC LIVE\!\!』で堀江が言及したこともある\[1\]。また、元[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")の[渡辺麻友](https://ja.wikipedia.org/wiki/渡辺麻友 "wikilink")がアニメ好きになる原因となったと同時に芸能界に入るきっかけの一つである事を渡辺が堀江との対談で明かしている\[2\]。
 
-「翼」は、声優の[竹達彩奈](https://ja.wikipedia.org/wiki/竹達彩奈 "wikilink")が、自身のソロライブにてカバーし、「声優になるのを頑張ろうと思える、希望みたいな形になった、思い出の大事な曲」と評した\[3\]。
+「翼」は、声優の[竹達彩奈](../Page/竹達彩奈.md "wikilink")が、自身のソロライブにてカバーし、「声優になるのを頑張ろうと思える、希望みたいな形になった、思い出の大事な曲」と評した\[3\]。
 
 2019年3月1日には、[ソニー・ミュージックエンタテインメントのアニメソング人気投票キャンペーン](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")「[平成アニソン大賞](https://ja.wikipedia.org/wiki/平成アニソン大賞 "wikilink")」において声優ソング賞（2000年 - 2009年）に選出された\[4\]。
 
@@ -22,20 +22,20 @@
         作詞・作曲：伊藤千夏、編曲：[小林信吾](https://ja.wikipedia.org/wiki/小林信吾 "wikilink")
 2.  **翼** \[4:30\]
       -
-        作詞：[有森聡美](https://ja.wikipedia.org/wiki/有森聡美 "wikilink")、作曲：池田浩雄、編曲：[太田美知彦](https://ja.wikipedia.org/wiki/太田美知彦 "wikilink")
+        作詞：[有森聡美](https://ja.wikipedia.org/wiki/有森聡美 "wikilink")、作曲：池田浩雄、編曲：[太田美知彦](../Page/太田美知彦.md "wikilink")
 3.  **Sweet Baby Love** \[5:37\]
       -
         作詞・作曲：岡田実音、編曲：岡田実音・高島智明
-4.  Love Destiny （[instrumental](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")）
+4.  Love Destiny （[instrumental](../Page/器楽曲.md "wikilink")）
 5.  翼 （instrumental）
 6.  Sweet Baby Love （[Off Vocal](https://ja.wikipedia.org/wiki/オフヴォーカル "wikilink")）
 
 ## タイアップ
 
-| 曲名           | タイアップ                                                                                                                                                              |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Love Destiny | [テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[シスター・プリンセス](../Page/シスター・プリンセス.md "wikilink")』[オープニングテーマ](https://ja.wikipedia.org/wiki/主題歌 "wikilink") |
-| 翼            | テレビアニメ『[シスター・プリンセス](../Page/シスター・プリンセス.md "wikilink")』エンディングテーマ                                                                                                    |
+| 曲名           | タイアップ                                                                                                                                           |
+| ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Love Destiny | [テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[シスター・プリンセス](../Page/シスター・プリンセス.md "wikilink")』[オープニングテーマ](../Page/主題歌.md "wikilink") |
+| 翼            | テレビアニメ『[シスター・プリンセス](../Page/シスター・プリンセス.md "wikilink")』エンディングテーマ                                                                                 |
 
 ## 収録アルバム
 
@@ -51,15 +51,15 @@
 <tbody>
 <tr class="odd">
 <td><p>Love Destiny</p></td>
-<td><p>『<strong><a href="https://ja.wikipedia.org/wiki/黒猫と月気球をめぐる冒険" title="wikilink">黒猫と月気球をめぐる冒険</a></strong>』</p></td>
+<td><p>『<strong><a href="../Page/黒猫と月気球をめぐる冒険.md" title="wikilink">黒猫と月気球をめぐる冒険</a></strong>』</p></td>
 <td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="../Page/11月29日.md" title="wikilink">11月29日</a></p></td>
-<td><p>1st<a href="https://ja.wikipedia.org/wiki/スタジオ・アルバム" title="wikilink">オリジナルアルバム</a><br />
+<td><p>1st<a href="../Page/スタジオ・アルバム.md" title="wikilink">オリジナルアルバム</a><br />
 Album Mixとして収録されている。</p></td>
 </tr>
 <tr class="even">
 <td><p>『<strong><a href="https://ja.wikipedia.org/wiki/BEST_ALBUM" title="wikilink">BEST ALBUM</a></strong>』</p></td>
 <td><p><a href="../Page/2012年.md" title="wikilink">2012年</a><a href="../Page/9月20日.md" title="wikilink">9月20日</a></p></td>
-<td><p>2nd<a href="https://ja.wikipedia.org/wiki/ベスト・アルバム" title="wikilink">ベストアルバム</a></p></td>
+<td><p>2nd<a href="../Page/ベスト・アルバム.md" title="wikilink">ベストアルバム</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

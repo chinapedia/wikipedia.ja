@@ -5,7 +5,7 @@
 
 ## 概要
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")急性骨髄性白血病のために療養中だった[本田美奈子.](https://ja.wikipedia.org/wiki/本田美奈子. "wikilink")のために、彼女のプロデューサーであった[井上鑑](https://ja.wikipedia.org/wiki/井上鑑 "wikilink")が復帰第一作として曲を作った。当時[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")のコンサートツアーに同行していた井上はバンドのメンバーにデモテープ作成に協力を要請し、メンバー全員の快諾を得て映像をつけてDVDとして作成した。
+[2005年](../Page/2005年.md "wikilink")急性骨髄性白血病のために療養中だった[本田美奈子.](https://ja.wikipedia.org/wiki/本田美奈子. "wikilink")のために、彼女のプロデューサーであった[井上鑑](../Page/井上鑑.md "wikilink")が復帰第一作として曲を作った。当時[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")のコンサートツアーに同行していた井上はバンドのメンバーにデモテープ作成に協力を要請し、メンバー全員の快諾を得て映像をつけてDVDとして作成した。
 
 病床に届けられたDVDを見て、福山のデビュー直後からのファンだった本田は泣いて喜んだ。彼女自身が詞をつけて歌うはずだったが、11月に他界したために叶わなかった。
 
@@ -23,22 +23,22 @@
 
 1.  wish
       -
-        **[井上鑑](https://ja.wikipedia.org/wiki/井上鑑 "wikilink")**（キーボード、ボーカル）
+        **[井上鑑](../Page/井上鑑.md "wikilink")**（キーボード、ボーカル）
         **[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")**（ボーカル）
         **[金原千恵子](../Page/金原千恵子.md "wikilink")**（ヴァイオリン）
         **高尾直樹**（ボーカル）
-        **[坪倉唯子](https://ja.wikipedia.org/wiki/坪倉唯子 "wikilink")**（ボーカル）
+        **[坪倉唯子](../Page/坪倉唯子.md "wikilink")**（ボーカル）
         **山木秀夫**（ドラム）
         **美久月千晴**（ベース）
         **[三沢またろう](../Page/三沢またろう.md "wikilink")**（パーカッション、ボーカル）
         **鎌田ジョージ**（ギター）
-        **[小倉博和](https://ja.wikipedia.org/wiki/小倉博和 "wikilink")**（ギター・ボーカル）
-        **[山本拓夫](https://ja.wikipedia.org/wiki/山本拓夫 "wikilink")**（サックス）
+        **[小倉博和](../Page/小倉博和.md "wikilink")**（ギター・ボーカル）
+        **[山本拓夫](../Page/山本拓夫.md "wikilink")**（サックス）
         **西村浩二**（トランペット）
-        **[村田陽一](https://ja.wikipedia.org/wiki/村田陽一 "wikilink")**（トロンボーン）
+        **[村田陽一](../Page/村田陽一.md "wikilink")**（トロンボーン）
 2.  requiem〜wish〜
       -
-        **[井上鑑](https://ja.wikipedia.org/wiki/井上鑑 "wikilink")**（キーボード）
+        **[井上鑑](../Page/井上鑑.md "wikilink")**（キーボード）
         **[高嶋ちさ子](../Page/高嶋ちさ子.md "wikilink")**（ヴァイオリン）
         **[古川昌義](https://ja.wikipedia.org/wiki/古川昌義 "wikilink")**（ギター）
         **古川展生**（チェロ）

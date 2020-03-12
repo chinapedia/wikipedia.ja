@@ -11,13 +11,13 @@
 
 1.  **genesis of next (original mix)**
       -
-        Written by [TETSUYA KOMURO](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink") & [MARC](https://ja.wikipedia.org/wiki/マーク・パンサー "wikilink")
+        Written by [TETSUYA KOMURO](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink") & [MARC](../Page/マーク・パンサー.md "wikilink")
         Composed & Arranged by [TETSUYA KOMURO](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
         [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系[アニメ](../Page/アニメ.md "wikilink")『[サイボーグ009](https://ja.wikipedia.org/wiki/サイボーグ009_\(アニメ\) "wikilink")』エンディングテーマ
 2.  **genesis of next ([tatsumaki](https://ja.wikipedia.org/wiki/tatsumaki "wikilink") remix)**
 3.  **What's the justice? (original mix)**
       -
-        Written by [KEIKO](https://ja.wikipedia.org/wiki/KEIKO "wikilink") & [MARC](https://ja.wikipedia.org/wiki/マーク・パンサー "wikilink")
+        Written by [KEIKO](../Page/KEIKO.md "wikilink") & [MARC](../Page/マーク・パンサー.md "wikilink")
         Composed & Arranged by [TETSUYA KOMURO](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
         テレビ東京系アニメ『サイボーグ009』オープニングテーマ
 4.  **genesis of next (ver.O,8)**
@@ -27,13 +27,13 @@
 
 **genesis of next**
 
-  - [Lights](https://ja.wikipedia.org/wiki/Lights_\(globeのアルバム\) "wikilink")（アルバムバージョン）
+  - [Lights](../Page/Lights_\(globeのアルバム\).md "wikilink")（アルバムバージョン）
   - [globe decade -single history 1995-2004-](https://ja.wikipedia.org/wiki/globe_decade_-single_history_1995-2004- "wikilink")
   - [15YEARS -BEST HIT SELECTION-](https://ja.wikipedia.org/wiki/15YEARS_-BEST_HIT_SELECTION- "wikilink")（アルバムバージョン）
 
 **What's the justice?**
 
-  - [Lights](https://ja.wikipedia.org/wiki/Lights_\(globeのアルバム\) "wikilink")（アルバムバージョン）
+  - [Lights](../Page/Lights_\(globeのアルバム\).md "wikilink")（アルバムバージョン）
 
 **genesis of next (ver.O,8)**
 

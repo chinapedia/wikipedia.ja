@@ -5,9 +5,9 @@
 
 ## 解説
 
-サポートメンバーには、[ドラムで元](../Page/ドラムセット.md "wikilink")[Guns N' Rosesのマット](https://ja.wikipedia.org/wiki/Guns_N'_Roses "wikilink")・ソーラムや[ナイン・インチ・ネイルズ](https://ja.wikipedia.org/wiki/ナイン・インチ・ネイルズ "wikilink")のジョシュ・フリーズ、[ベースでアラニスバンドのクリス](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")・チェイニーなどが参加している。
+サポートメンバーには、[ドラムで元](../Page/ドラムセット.md "wikilink")[Guns N' Rosesのマット](https://ja.wikipedia.org/wiki/Guns_N'_Roses "wikilink")・ソーラムや[ナイン・インチ・ネイルズ](../Page/ナイン・インチ・ネイルズ.md "wikilink")のジョシュ・フリーズ、[ベースでアラニスバンドのクリス](../Page/ベース_\(弦楽器\).md "wikilink")・チェイニーなどが参加している。
 
-トラック1・2は[ラテンテイストの曲](https://ja.wikipedia.org/wiki/ラテン音楽 "wikilink")。トラック3～5は上記のサポートメンバーとバンドセッション形式で[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")においてレコーディングされた。
+トラック1・2は[ラテンテイストの曲](../Page/ラテン音楽.md "wikilink")。トラック3～5は上記のサポートメンバーとバンドセッション形式で[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")においてレコーディングされた。
 
 ## 収録曲
 

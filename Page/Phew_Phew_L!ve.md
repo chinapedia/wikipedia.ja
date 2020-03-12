@@ -5,17 +5,17 @@
 
 ## 略歴
 
-  - [チキンガーリックステーキ](https://ja.wikipedia.org/wiki/チキンガーリックステーキ "wikilink")のメンバーとして活動していたHeroとアシストのKazzが、新アカペラバンド結成のためメンバー募集。
+  - [チキンガーリックステーキ](../Page/チキンガーリックステーキ.md "wikilink")のメンバーとして活動していたHeroとアシストのKazzが、新アカペラバンド結成のためメンバー募集。
   - [1994年](../Page/1994年.md "wikilink")3月、TAC加入。その後、TACのバイト先の友達であったWOOKIE加入。
   - 1994年4月、TACの友達REEが加入。 混声アカペラバンド「Phew Phew L\!ve」誕生。
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")1月、[阪神大震災](https://ja.wikipedia.org/wiki/阪神大震災 "wikilink")のため活動休止。
-  - [1996年](../Page/1996年.md "wikilink")6月、新グループ結成のため[Kazzが脱退](https://ja.wikipedia.org/wiki/Voice_Percussion_KAZZ "wikilink")。JOが加入。
+  - [1996年](../Page/1996年.md "wikilink")6月、新グループ結成のため[Kazzが脱退](../Page/Voice_Percussion_KAZZ.md "wikilink")。JOが加入。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、シングル「TAKE ME TO THE STADIUM～甲子園に連れてって～」が[甲子園球場](https://ja.wikipedia.org/wiki/甲子園球場 "wikilink")の公認歌に決定。
   - 同年12月、海外アカペラグループ[Rockappella](https://ja.wikipedia.org/wiki/Rockappella "wikilink")の前座を務める。
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、U:KO、KWANI、CHAVOが加入。
   - [1999年](../Page/1999年.md "wikilink")、[SMAP×SMAP](https://ja.wikipedia.org/wiki/SMAP×SMAP "wikilink")出演。バックコーラスを担当。
   - [2000年](../Page/2000年.md "wikilink")、萬太郎が加入。
-  - [2001年](../Page/2001年.md "wikilink")、12月28日の[大阪](../Page/大阪.md "wikilink")[難波](https://ja.wikipedia.org/wiki/難波 "wikilink")[マザーホール](https://ja.wikipedia.org/wiki/マザーホール "wikilink")でのライブを最後に解散。
+  - [2001年](../Page/2001年.md "wikilink")、12月28日の[大阪](../Page/大阪.md "wikilink")[難波](../Page/難波.md "wikilink")[マザーホール](https://ja.wikipedia.org/wiki/マザーホール "wikilink")でのライブを最後に解散。
 
 ## メンバー
 
@@ -24,12 +24,12 @@
   - **U:KO**　（石田悠晃 [1977年](../Page/1977年.md "wikilink")[2月18日](../Page/2月18日.md "wikilink") -）[岩手県](../Page/岩手県.md "wikilink")出身。パート：テナー担当
   - **KWANI**　（山田光世 [1975年](../Page/1975年.md "wikilink")[3月7日](../Page/3月7日.md "wikilink") -）[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")出身。パート：[バリトン](../Page/バリトン.md "wikilink")
   - **CHAVO**　（大内洋輔 [1975年](../Page/1975年.md "wikilink")[11月13日](../Page/11月13日.md "wikilink") -）[滋賀県](../Page/滋賀県.md "wikilink")出身。パート：テンション
-  - **HERO**　（上田よしひろ 生年不詳[11月13日](../Page/11月13日.md "wikilink") -）[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")出身。パート：ベースヴォーカル
+  - **HERO**　（上田よしひろ 生年不詳[11月13日](../Page/11月13日.md "wikilink") -）[京都府](../Page/京都府.md "wikilink")出身。パート：ベースヴォーカル
   - **萬太郎**　（水島武彦 [1975年](../Page/1975年.md "wikilink")[6月29日](../Page/6月29日.md "wikilink") -）[兵庫県](../Page/兵庫県.md "wikilink")出身。パート：ヴォイスパーカッション
 
 元メンバー
 
-**　KAZZ**　（ボイスパーカッション　カズ、1972年8月7日 -）詳細は「[Voice Percussion KAZZ](https://ja.wikipedia.org/wiki/Voice_Percussion_KAZZ "wikilink")」を参照。
+**　KAZZ**　（ボイスパーカッション　カズ、1972年8月7日 -）詳細は「[Voice Percussion KAZZ](../Page/Voice_Percussion_KAZZ.md "wikilink")」を参照。
 
 ## 解散後
 

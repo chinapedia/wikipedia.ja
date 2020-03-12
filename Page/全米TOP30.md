@@ -1,7 +1,7 @@
 > この記事は[TOP30](https://ja.wikipedia.org/wiki/TOP30)から翻訳されています。
 
 
-**全米TOP30**（ぜんべいトップサーティー）は、テラモバイルほか制作の[ビルボード](../Page/ビルボード.md "wikilink")総合チャートとトーク等による[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")の[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")で、主に[日本テレビ系列の深夜に](../Page/日本テレビ放送網.md "wikilink")15分放送されているが、日本テレビおよび[読売テレビでは放送されていない](../Page/讀賣テレビ放送.md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")4月放送開始、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")3月放送終了。終了後は、2007年4月～[Break Point\!で](https://ja.wikipedia.org/wiki/Break_Point! "wikilink")、ビルボードの情報を紹介している。
+**全米TOP30**（ぜんべいトップサーティー）は、テラモバイルほか制作の[ビルボード](../Page/ビルボード.md "wikilink")総合チャートとトーク等による[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")の[音楽番組](../Page/音楽番組.md "wikilink")で、主に[日本テレビ系列の深夜に](../Page/日本テレビ放送網.md "wikilink")15分放送されているが、日本テレビおよび[読売テレビでは放送されていない](../Page/讀賣テレビ放送.md "wikilink")。[2006年](../Page/2006年.md "wikilink")4月放送開始、[2007年](../Page/2007年.md "wikilink")3月放送終了。終了後は、2007年4月～[Break Point\!で](https://ja.wikipedia.org/wiki/Break_Point! "wikilink")、ビルボードの情報を紹介している。
 
 ## 内容
 
@@ -16,14 +16,14 @@
 
 ## 放送局
 
-  - [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")（[札幌テレビ](https://ja.wikipedia.org/wiki/札幌テレビ放送 "wikilink")）
+  - [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")（[札幌テレビ](../Page/札幌テレビ放送.md "wikilink")）
   - [青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")（[青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")）
   - [岩手県](../Page/岩手県.md "wikilink")（[テレビ岩手](../Page/テレビ岩手.md "wikilink")）
   - [秋田県](../Page/秋田県.md "wikilink")（[秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")）
-  - [山形県](https://ja.wikipedia.org/wiki/山形県 "wikilink")（[山形放送](../Page/山形放送.md "wikilink")）
+  - [山形県](../Page/山形県.md "wikilink")（[山形放送](../Page/山形放送.md "wikilink")）
   - [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")（[ミヤギテレビ](../Page/宮城テレビ放送.md "wikilink")）
   - [福島県](../Page/福島県.md "wikilink")（[福島中央テレビ](../Page/福島中央テレビ.md "wikilink")）
-  - [茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")、[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")、[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")
+  - [茨城県](../Page/茨城県.md "wikilink")、[東京都](../Page/東京都.md "wikilink")、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")、[埼玉県](../Page/埼玉県.md "wikilink")、[千葉県](../Page/千葉県.md "wikilink")
 
 <!-- end list -->
 
@@ -55,18 +55,18 @@
   - [広島県](../Page/広島県.md "wikilink")（[広島テレビ](../Page/広島テレビ放送.md "wikilink")）
   - [鳥取県](../Page/鳥取県.md "wikilink")、[島根県](../Page/島根県.md "wikilink")（[日本海テレビ](../Page/日本海テレビジョン放送.md "wikilink")）
   - [山口県](../Page/山口県.md "wikilink")（[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")）
-  - [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")（[福岡放送](../Page/福岡放送.md "wikilink")）
+  - [福岡県](../Page/福岡県.md "wikilink")（[福岡放送](../Page/福岡放送.md "wikilink")）
   - [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")（[くまもと県民テレビ](../Page/熊本県民テレビ.md "wikilink")）
-  - [長崎県](../Page/長崎県.md "wikilink")（[長崎国際テレビ](https://ja.wikipedia.org/wiki/長崎国際テレビ "wikilink")）
-  - [大分県](../Page/大分県.md "wikilink")（[テレビ大分](https://ja.wikipedia.org/wiki/テレビ大分 "wikilink")）
-  - [鹿児島県](https://ja.wikipedia.org/wiki/鹿児島県 "wikilink")（[鹿児島読売テレビ](../Page/鹿児島讀賣テレビ.md "wikilink")）
+  - [長崎県](../Page/長崎県.md "wikilink")（[長崎国際テレビ](../Page/長崎国際テレビ.md "wikilink")）
+  - [大分県](../Page/大分県.md "wikilink")（[テレビ大分](../Page/テレビ大分.md "wikilink")）
+  - [鹿児島県](../Page/鹿児島県.md "wikilink")（[鹿児島読売テレビ](../Page/鹿児島讀賣テレビ.md "wikilink")）
   - [沖縄県](../Page/沖縄県.md "wikilink")（[沖縄テレビ](../Page/沖縄テレビ放送.md "wikilink")）
 
 大分県は、日本テレビとフジテレビのクロスネット局、沖縄県は、フジテレビ系列、東京など関東圏は、UHF局。
 
 ## 放送されていない所
 
-  - [栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")、[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")、[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")、[兵庫県](../Page/兵庫県.md "wikilink")、[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")、[和歌山県](../Page/和歌山県.md "wikilink")、[奈良県](https://ja.wikipedia.org/wiki/奈良県 "wikilink")、[滋賀県](../Page/滋賀県.md "wikilink")、[宮崎県](../Page/宮崎県.md "wikilink")
+  - [栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")、[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")、[大阪府](../Page/大阪府.md "wikilink")、[兵庫県](../Page/兵庫県.md "wikilink")、[京都府](../Page/京都府.md "wikilink")、[和歌山県](../Page/和歌山県.md "wikilink")、[奈良県](../Page/奈良県.md "wikilink")、[滋賀県](../Page/滋賀県.md "wikilink")、[宮崎県](../Page/宮崎県.md "wikilink")
 
 近畿地方を中心に2府7県で放送されなかった。
 

@@ -170,7 +170,7 @@
 
 ## 漫画版
 
-[月刊コミックコンプ](https://ja.wikipedia.org/wiki/月刊コミックコンプ "wikilink")[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")号より掲載。
+[月刊コミックコンプ](../Page/月刊コミックコンプ.md "wikilink")[1992年](../Page/1992年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")号より掲載。
 
 ## 既刊
 

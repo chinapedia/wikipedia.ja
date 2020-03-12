@@ -1,15 +1,15 @@
 > この記事は[Lights \(globe\)](https://ja.wikipedia.org/wiki/Lights_\(globe\))から翻訳されています。
 
 
-『**Lights**』（ライツ）は、[2002年](../Page/2002年.md "wikilink")に発売された[globe](https://ja.wikipedia.org/wiki/globe "wikilink")の7枚目、及び8枚目のフル[アルバム](../Page/アルバム.md "wikilink")。[2月6日](https://ja.wikipedia.org/wiki/2月6日 "wikilink")リリースの『**Lights**』と、[4月17日](../Page/4月17日.md "wikilink")リリースの『**Lights2**』がある。
+『**Lights**』（ライツ）は、[2002年](../Page/2002年.md "wikilink")に発売された[globe](https://ja.wikipedia.org/wiki/globe "wikilink")の7枚目、及び8枚目のフル[アルバム](../Page/アルバム.md "wikilink")。[2月6日](../Page/2月6日.md "wikilink")リリースの『**Lights**』と、[4月17日](../Page/4月17日.md "wikilink")リリースの『**Lights2**』がある。
 
 ## 解説
 
-小室一人で自己流の[プリプロダクション](https://ja.wikipedia.org/wiki/プリプロダクション "wikilink")からミックスダウンまでを担当した。サポートミュージシャンも起用せず、生のアコースティックギターに聞こえる音も[Roland Fantomを使っている](https://ja.wikipedia.org/wiki/ローランド・Fantomシリーズ "wikilink")。アルバムのコンセプトは「自分が広めてしまったも同然のJ-POPのお約束を少しずつ崩したい」「『Aメロ→Bメロ→サビ』の定番方式ではなく、『Aメロ→Bメロ→Aメロ』でヒット曲を作りたい」「ラストの『Many Classic Moments (epilogue)』をまだ続くような雰囲気で締めて、1枚目に戻って聴き直して、globeの世界に浸って欲しい」としている\[1\]\[2\]。
+小室一人で自己流の[プリプロダクション](https://ja.wikipedia.org/wiki/プリプロダクション "wikilink")からミックスダウンまでを担当した。サポートミュージシャンも起用せず、生のアコースティックギターに聞こえる音も[Roland Fantomを使っている](../Page/ローランド・Fantomシリーズ.md "wikilink")。アルバムのコンセプトは「自分が広めてしまったも同然のJ-POPのお約束を少しずつ崩したい」「『Aメロ→Bメロ→サビ』の定番方式ではなく、『Aメロ→Bメロ→Aメロ』でヒット曲を作りたい」「ラストの『Many Classic Moments (epilogue)』をまだ続くような雰囲気で締めて、1枚目に戻って聴き直して、globeの世界に浸って欲しい」としている\[1\]\[2\]。
 
   - Lights
 
-シングル「[Many Classic Moments](https://ja.wikipedia.org/wiki/Many_Classic_Moments "wikilink")」と同時リリース。シングルには別バージョンが収録されている。
+シングル「[Many Classic Moments](../Page/Many_Classic_Moments.md "wikilink")」と同時リリース。シングルには別バージョンが収録されている。
 
 KEIKOの提案で1stアルバム「[globe](https://ja.wikipedia.org/wiki/globe_\(アルバム\) "wikilink")」を聴き直し、「globeが求めるもの・求められているもの・変わったもの・変わらなかったもの」を見つめ直す所からスタートした\[3\]。
 
@@ -25,7 +25,7 @@ KEIKOの提案で1stアルバム「[globe](https://ja.wikipedia.org/wiki/globe_\
 
 ### Lights
 
-1.  **[Many Classic Moments](https://ja.wikipedia.org/wiki/Many_Classic_Moments "wikilink")**
+1.  **[Many Classic Moments](../Page/Many_Classic_Moments.md "wikilink")**
       -
         作詞・作曲・編曲：小室哲哉　Rap words：MARC
         表記は無いがアルバムバージョン。
@@ -47,7 +47,7 @@ KEIKOの提案で1stアルバム「[globe](https://ja.wikipedia.org/wiki/globe_\
 5.  **Come Into Existence**
       -
         作詞：MARC　作曲：小室哲哉　編曲：MARC
-        MARCにバックトラックの素材を全て渡し、どれを使うかを全てMARCが選び、小室は音色の選択とミックスダウンをサポートした。MARCは正月返上で[Pro Toolsで](https://ja.wikipedia.org/wiki/Pro_Tools "wikilink")63ch使って色んな音色を入れたが、アルバム全体に対してのバランスを考えていなかったために、最初は[サイケデリックトランス](https://ja.wikipedia.org/wiki/サイケデリックトランス "wikilink")調のアレンジになってしまい、実際には小室による直接的なアレンジが2度入った。それでもKEIKOから「格好良い」と褒められた時には「すごく助かったと思った」と振り返っている\[6\]\[7\]\[8\]。
+        MARCにバックトラックの素材を全て渡し、どれを使うかを全てMARCが選び、小室は音色の選択とミックスダウンをサポートした。MARCは正月返上で[Pro Toolsで](../Page/Pro_Tools.md "wikilink")63ch使って色んな音色を入れたが、アルバム全体に対してのバランスを考えていなかったために、最初は[サイケデリックトランス](../Page/サイケデリックトランス.md "wikilink")調のアレンジになってしまい、実際には小室による直接的なアレンジが2度入った。それでもKEIKOから「格好良い」と褒められた時には「すごく助かったと思った」と振り返っている\[6\]\[7\]\[8\]。
 6.  **女神**
       -
         作詞・作曲・編曲：小室哲哉
@@ -57,12 +57,12 @@ KEIKOの提案で1stアルバム「[globe](https://ja.wikipedia.org/wiki/globe_\
 7.  **[try this shoot](https://ja.wikipedia.org/wiki/try_this_shoot "wikilink")**
       -
         作詞：KEIKO　作曲・編曲：小室哲哉　Rap words:MARC
-        [花王](../Page/花王.md "wikilink")[ソフィーナ](https://ja.wikipedia.org/wiki/ソフィーナ "wikilink")「AUBE」CMイメージソング
+        [花王](../Page/花王.md "wikilink")[ソフィーナ](../Page/ソフィーナ.md "wikilink")「AUBE」CMイメージソング
         表記は無いがアルバムバージョン。
 8.  **[Stop\! In the Name of Love](https://ja.wikipedia.org/wiki/Stop!_In_the_Name_of_Love "wikilink")**
       -
         written by E.Holland/L.dozier/B.Holland　 Rap words:MARC 編曲：小室哲哉
-        [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[ドラマ](../Page/ドラマ.md "wikilink")「[スタアの恋](https://ja.wikipedia.org/wiki/スタアの恋 "wikilink")」主題歌
+        [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[ドラマ](../Page/ドラマ.md "wikilink")「[スタアの恋](../Page/スタアの恋.md "wikilink")」主題歌
         表記は無いがアルバムバージョン。
 9.  **Lights brought the future**
       -
@@ -111,7 +111,7 @@ KEIKOの提案で1stアルバム「[globe](https://ja.wikipedia.org/wiki/globe_\
     18\. **[INSPIRED FROM R\&B](https://ja.wikipedia.org/wiki/OVER_THE_RAINBOW/INSPIRED_FROM_RED&BLUE "wikilink")**
       -
         作詞・作曲・編曲：小室哲哉　Rap words：MARC
-        [ポンピドーセンター](https://ja.wikipedia.org/wiki/ポンピドゥー・センター "wikilink")&シャガール家秘蔵作品「[マルク・シャガール](../Page/マルク・シャガール.md "wikilink")展」イメージソング
+        [ポンピドーセンター](../Page/ポンピドゥー・センター.md "wikilink")&シャガール家秘蔵作品「[マルク・シャガール](../Page/マルク・シャガール.md "wikilink")展」イメージソング
         [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「AX MUSIC TV」AX POWER PLAY \#002
     19\. **US**
       -
@@ -132,9 +132,9 @@ KEIKOの提案で1stアルバム「[globe](https://ja.wikipedia.org/wiki/globe_\
 
 [Category:2002年のアルバム](https://ja.wikipedia.org/wiki/Category:2002年のアルバム "wikilink") [Category:Globeのアルバム](https://ja.wikipedia.org/wiki/Category:Globeのアルバム "wikilink") [Category:サイボーグ009の音楽](https://ja.wikipedia.org/wiki/Category:サイボーグ009の音楽 "wikilink") [Category:小室哲哉プロデュースのアルバム](https://ja.wikipedia.org/wiki/Category:小室哲哉プロデュースのアルバム "wikilink")
 
-1.  [リットーミュージック](https://ja.wikipedia.org/wiki/リットーミュージック "wikilink")刊『[キーボード・マガジン](https://ja.wikipedia.org/wiki/キーボード・マガジン "wikilink")』2002年7月号17P-18Pより。
-2.  [角川書店](../Page/角川書店.md "wikilink")刊「[CDでーた](https://ja.wikipedia.org/wiki/CD&DLでーた "wikilink")」2002年4月20日号98P-101Pより。
-3.  [角川書店](../Page/角川書店.md "wikilink")刊「[CDでーた](https://ja.wikipedia.org/wiki/CD&DLでーた "wikilink")」2002年2月5日号36Pより。
+1.  [リットーミュージック](../Page/リットーミュージック.md "wikilink")刊『[キーボード・マガジン](../Page/キーボード・マガジン.md "wikilink")』2002年7月号17P-18Pより。
+2.  [角川書店](../Page/角川書店.md "wikilink")刊「[CDでーた](../Page/CD&DLでーた.md "wikilink")」2002年4月20日号98P-101Pより。
+3.  [角川書店](../Page/角川書店.md "wikilink")刊「[CDでーた](../Page/CD&DLでーた.md "wikilink")」2002年2月5日号36Pより。
 4.
 5.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊『[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")』2002年3月号Special Fireより。
 6.

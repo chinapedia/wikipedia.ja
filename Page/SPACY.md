@@ -1,11 +1,11 @@
 > この記事は[SPACY](https://ja.wikipedia.org/wiki/SPACY)から翻訳されています。
 
 
-『**SPACY**』（スペイシー）は、[1977年](../Page/1977年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")に発売された[山下達郎](../Page/山下達郎.md "wikilink")通算2作目の[スタジオ・アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。
+『**SPACY**』（スペイシー）は、[1977年](../Page/1977年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")に発売された[山下達郎](../Page/山下達郎.md "wikilink")通算2作目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 解説
 
-『[CIRCUS TOWN](../Page/CIRCUS_TOWN.md "wikilink")』\[1\]の[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")・サイドのレコーディング終了後、[チャーリー・カレロ](https://ja.wikipedia.org/wiki/チャーリー・カレロ "wikilink")は[山下達郎](../Page/山下達郎.md "wikilink")に、すべての[スコアを持ち帰ることを許した](../Page/総譜.md "wikilink")。日本に帰ってそのスコアを検証したところ、山下がそれまで見たどの教則本や理論書とも全く違うものだったという。アイデアの構築の仕方が実践的で、何よりもスモール・コンボのための程よいデフォルメが随所に施されていた。これを学習しない手はないし、何より実践に応用しないでどうすると思い、セカンド・アルバムのレコーディングが始まるころにはすっかりその気になって、スコア書きに没頭していった。『CIRCUS TOWN』\[2\]を作り終えた頃は、マネージャーと喧嘩別れしたり、取材で音楽評論家と喧嘩したりと、状況的には悪い日々が続いたが、音楽的好奇心はむしろ旺盛で、限られた予算の中とはいえ、それまで出来なかったいろいろな試みが行われた。
+『[CIRCUS TOWN](../Page/CIRCUS_TOWN.md "wikilink")』\[1\]の[ニューヨーク](../Page/ニューヨーク.md "wikilink")・サイドのレコーディング終了後、[チャーリー・カレロ](https://ja.wikipedia.org/wiki/チャーリー・カレロ "wikilink")は[山下達郎](../Page/山下達郎.md "wikilink")に、すべての[スコアを持ち帰ることを許した](../Page/総譜.md "wikilink")。日本に帰ってそのスコアを検証したところ、山下がそれまで見たどの教則本や理論書とも全く違うものだったという。アイデアの構築の仕方が実践的で、何よりもスモール・コンボのための程よいデフォルメが随所に施されていた。これを学習しない手はないし、何より実践に応用しないでどうすると思い、セカンド・アルバムのレコーディングが始まるころにはすっかりその気になって、スコア書きに没頭していった。『CIRCUS TOWN』\[2\]を作り終えた頃は、マネージャーと喧嘩別れしたり、取材で音楽評論家と喧嘩したりと、状況的には悪い日々が続いたが、音楽的好奇心はむしろ旺盛で、限られた予算の中とはいえ、それまで出来なかったいろいろな試みが行われた。
 
 厳格な構成を持つ昭和歌謡が主流の時代にあって、山下の作風は、当時の商業音楽の主流とかけ離れた（あるいは、作風のポピュラー性という意味で当時の主流からは著しく進んでいた）ものであったため、このアルバムの制作にあたっては経費や時間への厳しい制限を克服しなければならなかった。ジャケットは、山下の個人的依頼に応じて[ペーター佐藤](../Page/ペーター佐藤.md "wikilink")が[カラーコピー機とアクリルブロックで製作したイラストを使用しているし](../Page/複写機.md "wikilink")、録音においても、B面収録曲の多くがほとんど山下一人の手によって演奏されているところに、その影がうかがえる。しかしながら、そのような状況下で制作されたからこそ、その虚飾のないサウンド（「夜に忍び込む曲」と評される\[3\]）は、70年代の山下の音楽が最も率直なかたちで具現化されたものとして、現在に至るまで高く評価されている。古くからのファンの中には、このアルバムをベストとする人も多く、山下本人も自分でよく聞き返すアルバムの一つだと語っている。
 
@@ -19,16 +19,16 @@
 
 1.以下のメンバーを核とした編成。
 
-  - Dr. [村上秀一](https://ja.wikipedia.org/wiki/村上秀一 "wikilink")
+  - Dr. [村上秀一](../Page/村上秀一.md "wikilink")
   - Bs. [細野晴臣](../Page/細野晴臣.md "wikilink")
   - Gt [松木恒秀](https://ja.wikipedia.org/wiki/松木恒秀 "wikilink")
-  - Gt [大村憲司](https://ja.wikipedia.org/wiki/大村憲司 "wikilink")
+  - Gt [大村憲司](../Page/大村憲司.md "wikilink")
   - kb. [佐藤博](https://ja.wikipedia.org/wiki/佐藤博_\(ミュージシャン\) "wikilink")
 
 2.以下のメンバーを核とした編成。
 
   - Dr. [上原裕](https://ja.wikipedia.org/wiki/上原裕 "wikilink")（[シュガー・ベイブ](../Page/シュガー・ベイブ.md "wikilink")後期メンバー）
-  - Bs. 田中章弘（元[ハックルバック](https://ja.wikipedia.org/wiki/ハックルバック "wikilink")）
+  - Bs. 田中章弘（元[ハックルバック](../Page/ハックルバック.md "wikilink")）
   - kb. [坂本龍一](../Page/坂本龍一.md "wikilink")
 
 3.山下自身のピアノ、[シンセ](../Page/シンセサイザー.md "wikilink")、山下単独もしくは山下と[吉田美奈子](https://ja.wikipedia.org/wiki/吉田美奈子 "wikilink")による[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。
@@ -43,7 +43,7 @@
 
 1.  **LOVE SPACE**
       -
-        このアルバムの最初にレコーディングされた曲。ライブで演奏しやすいという理由から、16小節のテーマがひたすら繰り返されるという趣向の作品というのを以前から作ってみたくて書き下ろされた。イントロ冒頭の[佐藤博のピアノのフレーズは](https://ja.wikipedia.org/wiki/佐藤博_\(ミュージシャン\) "wikilink")、佐藤が本番になっていきなり思いつきで弾き始めたものだという。後にリマスターされたCD『[GREATEST HITS\! OF TATSURO YAMASHITA](https://ja.wikipedia.org/wiki/GREATEST_HITS!_OF_TATSURO_YAMASHITA "wikilink")』\[4\]に[ボーナス・トラック](https://ja.wikipedia.org/wiki/ボーナス・トラック "wikilink")として収録されたほか、ライヴ・ヴァージョンがライヴ・アルバム『[JOY](https://ja.wikipedia.org/wiki/JOY_\(山下達郎のアルバム\) "wikilink")』\[5\]に収録された。後に[オールタイム・ベスト](https://ja.wikipedia.org/wiki/オールタイム・ベスト "wikilink")・アルバム『[OPUS 〜ALL TIME BEST 1975-2012〜](https://ja.wikipedia.org/wiki/OPUS_〜ALL_TIME_BEST_1975-2012〜 "wikilink")』\[6\]にも収録されている。
+        このアルバムの最初にレコーディングされた曲。ライブで演奏しやすいという理由から、16小節のテーマがひたすら繰り返されるという趣向の作品というのを以前から作ってみたくて書き下ろされた。イントロ冒頭の[佐藤博のピアノのフレーズは](https://ja.wikipedia.org/wiki/佐藤博_\(ミュージシャン\) "wikilink")、佐藤が本番になっていきなり思いつきで弾き始めたものだという。後にリマスターされたCD『[GREATEST HITS\! OF TATSURO YAMASHITA](https://ja.wikipedia.org/wiki/GREATEST_HITS!_OF_TATSURO_YAMASHITA "wikilink")』\[4\]に[ボーナス・トラック](../Page/ボーナス・トラック.md "wikilink")として収録されたほか、ライヴ・ヴァージョンがライヴ・アルバム『[JOY](https://ja.wikipedia.org/wiki/JOY_\(山下達郎のアルバム\) "wikilink")』\[5\]に収録された。後に[オールタイム・ベスト](https://ja.wikipedia.org/wiki/オールタイム・ベスト "wikilink")・アルバム『[OPUS 〜ALL TIME BEST 1975-2012〜](https://ja.wikipedia.org/wiki/OPUS_〜ALL_TIME_BEST_1975-2012〜 "wikilink")』\[6\]にも収録されている。
 2.  **翼に乗せて**
       -
         当時、自身のコマーシャルの仕事などを行っていたリズム・セクションでレコーディングされた曲。小品だが難易度の高い演奏だという。
@@ -55,7 +55,7 @@
         山下曰く、コード進行の興味のために作ったような曲。サビにI aug/-5という変わったコードが用いられているためか、休憩時間に[細野晴臣](../Page/細野晴臣.md "wikilink")がサビのコードをピアノで弾いて確かめていたのが、妙に嬉しかったのを覚えているという。
 5.  **DANCER**
       -
-        山下が、村上の[16ビートの](https://ja.wikipedia.org/wiki/ドラム・ビート#16ビート "wikilink")[ドラムを活かすことを企図して書いた曲](../Page/ドラムセット.md "wikilink")。歌詞は、[都立竹早高校在学時に](https://ja.wikipedia.org/wiki/東京都立竹早高等学校 "wikilink")[北朝鮮に帰国した](https://ja.wikipedia.org/wiki/在日朝鮮人の帰還事業 "wikilink")[ブラスバンド](../Page/ブラスバンド.md "wikilink")の先輩を思って書いたという。この曲も『[JOY](https://ja.wikipedia.org/wiki/JOY_\(山下達郎のアルバム\) "wikilink")』\[7\]にライヴ・ヴァージョンが収録された。
+        山下が、村上の[16ビートの](https://ja.wikipedia.org/wiki/ドラム・ビート#16ビート "wikilink")[ドラムを活かすことを企図して書いた曲](../Page/ドラムセット.md "wikilink")。歌詞は、[都立竹早高校在学時に](../Page/東京都立竹早高等学校.md "wikilink")[北朝鮮に帰国した](../Page/在日朝鮮人の帰還事業.md "wikilink")[ブラスバンド](../Page/ブラスバンド.md "wikilink")の先輩を思って書いたという。この曲も『[JOY](https://ja.wikipedia.org/wiki/JOY_\(山下達郎のアルバム\) "wikilink")』\[7\]にライヴ・ヴァージョンが収録された。
 
 ### SIDE B
 
@@ -70,17 +70,17 @@
         1976年春、電車の[ストライキ](../Page/ストライキ.md "wikilink")で[大瀧詠一](../Page/大瀧詠一.md "wikilink")の自宅スタジオに1週間近く寝泊まりしていた時、スタジオにあった16トラック・レコーダーに自分の声を重ねたのが、山下にとって一人アカペラのそもそもの始まりだった。その時の譜面をそのまま流用して、導入部に[ピアノ](../Page/ピアノ.md "wikilink")[弾き語り](../Page/弾き語り.md "wikilink")を足して小品に仕立てられた曲。一人アカペラがレコードになった最初の作品で、山下もテクニカルな部分ではまだ習作の段階だが、とても好きな響きだという。山下が徹夜明けで眠り、夕方に起きた際、今が朝なのか夕暮れなのか、時間感覚を一瞬喪失した時に作られたモチーフ。
 4.  **きぬずれ**
       -
-        この曲もピアノ弾き語りの世界を膨らませた作品。作った当時はそれほど意識したわけではなかったが、今聴くと[ビーチ・ボーイズ](../Page/ザ・ビーチ・ボーイズ.md "wikilink")『[スマイリー・スマイル](https://ja.wikipedia.org/wiki/スマイリー・スマイル "wikilink")』あたりの空気に近いものがあるという。
+        この曲もピアノ弾き語りの世界を膨らませた作品。作った当時はそれほど意識したわけではなかったが、今聴くと[ビーチ・ボーイズ](../Page/ザ・ビーチ・ボーイズ.md "wikilink")『[スマイリー・スマイル](../Page/スマイリー・スマイル.md "wikilink")』あたりの空気に近いものがあるという。
 5.  **SOLID SLIDER**
       -
-        当時のいわゆる[AOR](../Page/AOR.md "wikilink")の線をねらった一曲。この時代はレコーディングに使える予算と時間が限られていたため、短時間で演奏をまとめやすい曲作りを心掛けていたという。いかにアイデアのあるリズム・パターンを考え出せるか、この曲もその典型だという。[大村憲司](https://ja.wikipedia.org/wiki/大村憲司 "wikilink")による[ギター](../Page/ギター.md "wikilink")[ソロは](../Page/ソロ_\(音楽\).md "wikilink")、ワンテイクで録音された。
+        当時のいわゆる[AOR](../Page/AOR.md "wikilink")の線をねらった一曲。この時代はレコーディングに使える予算と時間が限られていたため、短時間で演奏をまとめやすい曲作りを心掛けていたという。いかにアイデアのあるリズム・パターンを考え出せるか、この曲もその典型だという。[大村憲司](../Page/大村憲司.md "wikilink")による[ギター](../Page/ギター.md "wikilink")[ソロは](../Page/ソロ_\(音楽\).md "wikilink")、ワンテイクで録音された。
 
 ## クレジット
 
 |                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------- |
 | Recording Staff                                                                                                                     |
-| Director : [Ryuzo Kosugi](https://ja.wikipedia.org/wiki/小杉理宇造 "wikilink")                                                           |
+| Director : [Ryuzo Kosugi](../Page/小杉理宇造.md "wikilink")                                                                              |
 | Recording & Re-mix Engineer : [Tamotsu Yoshida](https://ja.wikipedia.org/wiki/吉田保_\(レコーディングエンジニア\) "wikilink")                      |
 | Musician Contractor : Kozo Araki                                                                                                    |
 | Recording Studio                                                                                                                    |
@@ -95,13 +95,13 @@
 | All Lyrics Written by [Minako Yoshida](https://ja.wikipedia.org/wiki/吉田美奈子 "wikilink") except A-5,B-3 Written by Tatsuro Yamashita. |
 | All Songs Composed by Tatsuro Yamashita.                                                                                            |
 | ※thanks to Minako Yoshida for production coordinate.                                                                                |
-| All Songs Publoshed by © 1977 [P.M.P.](https://ja.wikipedia.org/wiki/フジパシフィックミュージック "wikilink")                                     |
+| All Songs Publoshed by © 1977 [P.M.P.](../Page/フジパシフィックミュージック.md "wikilink")                                                        |
 
 ## BVCR-17014
 
 ### 解説
 
-2002年、“山下達郎 RCA/AIRイヤーズ 1976-1982”として、『[CIRCUS TOWN](../Page/CIRCUS_TOWN.md "wikilink")』\[8\]から『[FOR YOU](https://ja.wikipedia.org/wiki/FOR_YOU_\(山下達郎のアルバム\) "wikilink")』\[9\]までの7タイトルが山下監修によるデジタル・リマスタリング、および、自身によるライナーノーツと曲解説。CDには各タイトル毎に未発表音源を含むボーナス・トラック収録にて再度リイシューされた。本作には未発表音源を含む3曲をボーナス・トラックとして収録。また、本作を含むRCA/AIRイヤーズ対象商品7タイトル購入者に応募者全員への特典として、リマスター盤『[COME ALONG](https://ja.wikipedia.org/wiki/COME_ALONG "wikilink")』がプレゼントされた。
+2002年、“山下達郎 RCA/AIRイヤーズ 1976-1982”として、『[CIRCUS TOWN](../Page/CIRCUS_TOWN.md "wikilink")』\[8\]から『[FOR YOU](../Page/FOR_YOU_\(山下達郎のアルバム\).md "wikilink")』\[9\]までの7タイトルが山下監修によるデジタル・リマスタリング、および、自身によるライナーノーツと曲解説。CDには各タイトル毎に未発表音源を含むボーナス・トラック収録にて再度リイシューされた。本作には未発表音源を含む3曲をボーナス・トラックとして収録。また、本作を含むRCA/AIRイヤーズ対象商品7タイトル購入者に応募者全員への特典として、リマスター盤『[COME ALONG](https://ja.wikipedia.org/wiki/COME_ALONG "wikilink")』がプレゼントされた。
 
 ### 収録曲
 
@@ -133,22 +133,22 @@
 
 #### LOVE SPACE（ラブ・スペイス）
 
-|                                                                                         |
-| --------------------------------------------------------------------------------------- |
-| Words by [吉田美奈子](https://ja.wikipedia.org/wiki/吉田美奈子 "wikilink")                        |
-| Music by 山下達郎                                                                           |
-| ©1977 [FUJIPACIFIC MUSIC INC.](https://ja.wikipedia.org/wiki/フジパシフィックミュージック "wikilink") |
-|                                                                                         |
-| 山下達郎 : Electric Guitar(Left) & Background Vocals                                        |
-| [村上“PONTA”秀一](https://ja.wikipedia.org/wiki/村上秀一 "wikilink") : Drums                    |
-| [細野晴臣](../Page/細野晴臣.md "wikilink") : Bass                                               |
-| [松木恒秀](https://ja.wikipedia.org/wiki/松木恒秀 "wikilink") : Electric Guitar(Right)          |
-| [佐藤博](https://ja.wikipedia.org/wiki/佐藤博_\(ミュージシャン\) "wikilink") : Acoustic Piano        |
-| [斉藤ノブ](https://ja.wikipedia.org/wiki/斎藤ノヴ "wikilink") : Percussion                      |
-| [岡崎資夫](https://ja.wikipedia.org/wiki/岡崎資夫 "wikilink") : Alto Sax Solo                   |
-| [吉田美奈子](https://ja.wikipedia.org/wiki/吉田美奈子 "wikilink") : Background Vocals             |
-|                                                                                         |
-| 多忠明 : Strings Concert Master                                                            |
+|                                                                                  |
+| -------------------------------------------------------------------------------- |
+| Words by [吉田美奈子](https://ja.wikipedia.org/wiki/吉田美奈子 "wikilink")                 |
+| Music by 山下達郎                                                                    |
+| ©1977 [FUJIPACIFIC MUSIC INC.](../Page/フジパシフィックミュージック.md "wikilink")             |
+|                                                                                  |
+| 山下達郎 : Electric Guitar(Left) & Background Vocals                                 |
+| [村上“PONTA”秀一](../Page/村上秀一.md "wikilink") : Drums                                |
+| [細野晴臣](../Page/細野晴臣.md "wikilink") : Bass                                        |
+| [松木恒秀](https://ja.wikipedia.org/wiki/松木恒秀 "wikilink") : Electric Guitar(Right)   |
+| [佐藤博](https://ja.wikipedia.org/wiki/佐藤博_\(ミュージシャン\) "wikilink") : Acoustic Piano |
+| [斉藤ノブ](../Page/斎藤ノヴ.md "wikilink") : Percussion                                  |
+| [岡崎資夫](https://ja.wikipedia.org/wiki/岡崎資夫 "wikilink") : Alto Sax Solo            |
+| [吉田美奈子](https://ja.wikipedia.org/wiki/吉田美奈子 "wikilink") : Background Vocals      |
+|                                                                                  |
+| 多忠明 : Strings Concert Master                                                     |
 
 #### 翼に乗せて
 
@@ -184,22 +184,22 @@
 </tbody>
 </table>
 
-|                                                                               |
-| ----------------------------------------------------------------------------- |
-| 村上“PONTA”秀一 : Drums                                                           |
-| 細野晴臣 : Bass                                                                   |
-| 松木恒秀 : Electric Guitar(Right)                                                 |
-| [大村憲司](https://ja.wikipedia.org/wiki/大村憲司 "wikilink") : Electric Guitar(Left) |
-| 佐藤博 : Electric Piano                                                          |
-| 岡崎資夫 : Alto Sax Solo                                                          |
-|                                                                               |
-| 羽鳥幸次 : Trumpet                                                                |
-| [数原晋](https://ja.wikipedia.org/wiki/数原晋 "wikilink") : Trumpet                 |
-| [向井滋春](https://ja.wikipedia.org/wiki/向井滋春 "wikilink") : Trombone              |
-| 粉川忠範 : Trombone                                                               |
-| 村岡建 : Tenor Sax                                                               |
-| 砂原俊三 : Baritone Sax                                                           |
-| 多忠明 : Strings Concert Master                                                  |
+|                                                                  |
+| ---------------------------------------------------------------- |
+| 村上“PONTA”秀一 : Drums                                              |
+| 細野晴臣 : Bass                                                      |
+| 松木恒秀 : Electric Guitar(Right)                                    |
+| [大村憲司](../Page/大村憲司.md "wikilink") : Electric Guitar(Left)       |
+| 佐藤博 : Electric Piano                                             |
+| 岡崎資夫 : Alto Sax Solo                                             |
+|                                                                  |
+| 羽鳥幸次 : Trumpet                                                   |
+| [数原晋](../Page/数原晋.md "wikilink") : Trumpet                       |
+| [向井滋春](https://ja.wikipedia.org/wiki/向井滋春 "wikilink") : Trombone |
+| 粉川忠範 : Trombone                                                  |
+| 村岡建 : Tenor Sax                                                  |
+| 砂原俊三 : Baritone Sax                                              |
+| 多忠明 : Strings Concert Master                                     |
 
 #### CANDY（キャンディー）
 
@@ -338,11 +338,11 @@ Percussion &amp; Background Vocals</p></td>
 </tbody>
 </table>
 
-|                                                                 |
-| --------------------------------------------------------------- |
-| [岡田徹](https://ja.wikipedia.org/wiki/岡田徹 "wikilink") : Accordion |
-| 中川昌三 : Flute                                                    |
-| 吉田美奈子 : Background Vocals                                       |
+|                                              |
+| -------------------------------------------- |
+| [岡田徹](../Page/岡田徹.md "wikilink") : Accordion |
+| 中川昌三 : Flute                                 |
+| 吉田美奈子 : Background Vocals                    |
 
 #### SOLID SLIDER（ソリッド・スライダー）
 
@@ -407,7 +407,7 @@ Percussion &amp; Background Vocals</p></td>
 
 |                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------- |
-| Production Co-odinater : [小杉理宇造](https://ja.wikipedia.org/wiki/小杉理宇造 "wikilink")                                          |
+| Production Co-odinater : [小杉理宇造](../Page/小杉理宇造.md "wikilink")                                                             |
 |                                                                                                                           |
 | Recording & Mixing Engineer : [吉田保](https://ja.wikipedia.org/wiki/吉田保_\(レコーディングエンジニア\) "wikilink")                        |
 | Recording Studios: Sound City, [Onkio Haus](https://ja.wikipedia.org/wiki/音響ハウス "wikilink") & RVC in Feb. 26〜Apr. 18 1977 |
@@ -436,7 +436,7 @@ Percussion &amp; Background Vocals</p></td>
 <th><p>発売日</p></th>
 <th><p>リリース</p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">品番</a></p></th>
 <th><p>備考</p></th>
 </tr>
 </thead>
@@ -520,7 +520,7 @@ Percussion &amp; Background Vocals</p></td>
 <td><p>RCA / <a href="https://ja.wikipedia.org/wiki/BMG_JAPAN#BMG_JAPAN（BMGファンハウス）" title="wikilink">BMG FUNHOUSE</a></p></td>
 <td><p>CD</p></td>
 <td><p>BVCR-17014</p></td>
-<td><p>“TATSURO YAMASHITA THE RCA/AIR YEARS 1976-1982”の一枚。本人監修によるデジタル・リマスタリング + <a href="https://ja.wikipedia.org/wiki/ボーナス・トラック" title="wikilink">ボーナス・トラック</a>3曲収録。ディスク表面のレーベルはオリジナル・デザインを使用。</p></td>
+<td><p>“TATSURO YAMASHITA THE RCA/AIR YEARS 1976-1982”の一枚。本人監修によるデジタル・リマスタリング + <a href="../Page/ボーナス・トラック.md" title="wikilink">ボーナス・トラック</a>3曲収録。ディスク表面のレーベルはオリジナル・デザインを使用。</p></td>
 </tr>
 <tr class="odd">
 <td><p>11</p></td>
@@ -553,12 +553,12 @@ Percussion &amp; Background Vocals</p></td>
 
 1.  『[CIRCUS TOWN](../Page/CIRCUS_TOWN.md "wikilink")』 発売 RCA ⁄ RVC LP:RVL-8004
 2.
-3.  これは『[Quick Japan](../Page/Quick_Japan.md "wikilink") No.62』（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")発行、[太田出版](https://ja.wikipedia.org/wiki/太田出版 "wikilink")）に掲載された山下と[サンボマスター](https://ja.wikipedia.org/wiki/サンボマスター "wikilink")のヴォーカル、山口隆との対談の中で、山口が表した言葉である。
+3.  これは『[Quick Japan](../Page/Quick_Japan.md "wikilink") No.62』（[2005年](../Page/2005年.md "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")発行、[太田出版](../Page/太田出版.md "wikilink")）に掲載された山下と[サンボマスター](../Page/サンボマスター.md "wikilink")のヴォーカル、山口隆との対談の中で、山口が表した言葉である。
 4.  『[GREATEST HITS\! OF TATSURO YAMASHITA](https://ja.wikipedia.org/wiki/GREATEST_HITS!_OF_TATSURO_YAMASHITA "wikilink")』 発売 AIR ⁄ [BMG JAPAN](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink") CD:BVCR-1541
-5.  『[JOY](https://ja.wikipedia.org/wiki/JOY_\(山下達郎のアルバム\) "wikilink")』 発売 MOON ⁄ [ALFA MOON](https://ja.wikipedia.org/wiki/MOON_RECORDS "wikilink") 2CD:50MX-95/6
-6.  『[OPUS 〜ALL TIME BEST 1975-2012〜](https://ja.wikipedia.org/wiki/OPUS_〜ALL_TIME_BEST_1975-2012〜 "wikilink")』 発売 MOON ⁄ [WARNER MUSIC JAPAN](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink") 4CD:WPCL-11201/4【初回限定盤】, 3CD:WPCL-11205/7【通常盤】
+5.  『[JOY](https://ja.wikipedia.org/wiki/JOY_\(山下達郎のアルバム\) "wikilink")』 発売 MOON ⁄ [ALFA MOON](../Page/MOON_RECORDS.md "wikilink") 2CD:50MX-95/6
+6.  『[OPUS 〜ALL TIME BEST 1975-2012〜](https://ja.wikipedia.org/wiki/OPUS_〜ALL_TIME_BEST_1975-2012〜 "wikilink")』 発売 MOON ⁄ [WARNER MUSIC JAPAN](../Page/ワーナーミュージック・ジャパン.md "wikilink") 4CD:WPCL-11201/4【初回限定盤】, 3CD:WPCL-11205/7【通常盤】
 7.
 8.
-9.  『[FOR YOU](https://ja.wikipedia.org/wiki/FOR_YOU_\(山下達郎のアルバム\) "wikilink")』 [1982年](../Page/1982年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink")発売 AIR ⁄ RVC LP:RAL-8801
+9.  『[FOR YOU](../Page/FOR_YOU_\(山下達郎のアルバム\).md "wikilink")』 [1982年](../Page/1982年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink")発売 AIR ⁄ RVC LP:RAL-8801
 10. 『[GREATEST HITS\! OF TATSURO YAMASHITA](https://ja.wikipedia.org/wiki/GREATEST_HITS!_OF_TATSURO_YAMASHITA "wikilink")』 発売 AIR ⁄ RVC LP:RAL-8803
 11.

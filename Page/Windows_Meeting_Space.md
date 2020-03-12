@@ -1,11 +1,11 @@
 > この記事は[Windows Meeting Space](https://ja.wikipedia.org/wiki/Windows_Meeting_Space)から翻訳されています。
 
 
-**Windows Meeting Space**（**Windows ミーティング スペース**）は、[Windows Vistaに搭載された](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink")[コラボレーション](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")。
+**Windows Meeting Space**（**Windows ミーティング スペース**）は、[Windows Vistaに搭載された](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink")[コラボレーション](../Page/コラボレーション.md "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")。
 
 ## 概要
 
-このソフトウェアは、古くからWindowsに搭載されていた[Microsoft NetMeetingを置き換えたソフトウェアで](https://ja.wikipedia.org/wiki/Microsoft_NetMeeting "wikilink")、[P2Pを利用して複数のユーザ](https://ja.wikipedia.org/wiki/Peer-to-Peer "wikilink")（2～10人）とコラボレーションを行うことを目的としている。
+このソフトウェアは、古くからWindowsに搭載されていた[Microsoft NetMeetingを置き換えたソフトウェアで](../Page/Microsoft_NetMeeting.md "wikilink")、[P2Pを利用して複数のユーザ](https://ja.wikipedia.org/wiki/Peer-to-Peer "wikilink")（2～10人）とコラボレーションを行うことを目的としている。
 
 招待されたユーザはアプリケーションやワークスペースを共有して作業を行うことができる。
 

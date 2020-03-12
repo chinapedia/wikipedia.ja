@@ -1,13 +1,13 @@
 > この記事は[SPLASH \(\)](https://ja.wikipedia.org/wiki/SPLASH_\(\))から翻訳されています。
 
 
-**SPLASH**（スプラッシュ）は[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](https://ja.wikipedia.org/wiki/仙台市 "wikilink")を拠点に活動する小中学生の女の子によるダンス＆ボーカルユニット、「[東北発信源ユニット](https://ja.wikipedia.org/wiki/東北地方 "wikilink")」を[キャッチコピー](../Page/キャッチコピー.md "wikilink")に地域交流・貢献を活動目的としている。[モラドカンパニー](https://ja.wikipedia.org/wiki/モラドカンパニー "wikilink")（旧名：仙台SOSモデルエージェンシー）所属。
+**SPLASH**（スプラッシュ）は[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](../Page/仙台市.md "wikilink")を拠点に活動する小中学生の女の子によるダンス＆ボーカルユニット、「[東北発信源ユニット](https://ja.wikipedia.org/wiki/東北地方 "wikilink")」を[キャッチコピー](../Page/キャッチコピー.md "wikilink")に地域交流・貢献を活動目的としている。[モラドカンパニー](https://ja.wikipedia.org/wiki/モラドカンパニー "wikilink")（旧名：仙台SOSモデルエージェンシー）所属。
 
 ## 概要
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に結成された。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[5月5日](../Page/5月5日.md "wikilink")にCDデビュー\[1\]。ユニットとして各地のイベント出演や地元テレビへの出演の他、メンバーそれぞれが、[テレビ](../Page/テレビ.md "wikilink")、[CM](https://ja.wikipedia.org/wiki/コマーシャルメッセージ "wikilink")、[ドラマ](../Page/ドラマ.md "wikilink")、[モデルなどの活動も行っている](https://ja.wikipedia.org/wiki/モデル_\(職業\) "wikilink")。
+[2006年](../Page/2006年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に結成された。[2007年](../Page/2007年.md "wikilink")[5月5日](../Page/5月5日.md "wikilink")にCDデビュー\[1\]。ユニットとして各地のイベント出演や地元テレビへの出演の他、メンバーそれぞれが、[テレビ](../Page/テレビ.md "wikilink")、[CM](../Page/コマーシャルメッセージ.md "wikilink")、[ドラマ](../Page/ドラマ.md "wikilink")、[モデルなどの活動も行っている](../Page/モデル_\(職業\).md "wikilink")。
 
-モラドカンパニーは、[ローカル](https://ja.wikipedia.org/wiki/ローカル "wikilink")[メディアへの](../Page/メディア_\(媒体\).md "wikilink")[タレント](../Page/タレント.md "wikilink")・[モデルの供給の他](https://ja.wikipedia.org/wiki/モデル_\(職業\) "wikilink")、[鈴木京香](https://ja.wikipedia.org/wiki/鈴木京香 "wikilink")や[本郷奏多](https://ja.wikipedia.org/wiki/本郷奏多 "wikilink")などを[俳優](../Page/俳優.md "wikilink")として[東京](https://ja.wikipedia.org/wiki/東京 "wikilink")に輩出してきたが、[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")・[音楽](../Page/音楽.md "wikilink")関係での人材育成と[地域密着](https://ja.wikipedia.org/wiki/地域密着 "wikilink")を目指し、SPLASHが結成された。[仙台市都心部](../Page/仙台市都心部.md "wikilink")で開催される主だった屋外イベント\[2\]\[3\]（主に[勾当台公園](https://ja.wikipedia.org/wiki/勾当台公園 "wikilink")で開催される）では、既になくてはならない存在に成長し地域密着が進んできている。育成面では、メンバーが各種[オーディション](https://ja.wikipedia.org/wiki/オーディション "wikilink")から県外の仕事を得る例も出現してきている。
+モラドカンパニーは、[ローカル](../Page/ローカル.md "wikilink")[メディアへの](../Page/メディア_\(媒体\).md "wikilink")[タレント](../Page/タレント.md "wikilink")・[モデルの供給の他](../Page/モデル_\(職業\).md "wikilink")、[鈴木京香](https://ja.wikipedia.org/wiki/鈴木京香 "wikilink")や[本郷奏多](../Page/本郷奏多.md "wikilink")などを[俳優](../Page/俳優.md "wikilink")として[東京](../Page/東京.md "wikilink")に輩出してきたが、[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")・[音楽](../Page/音楽.md "wikilink")関係での人材育成と[地域密着](../Page/地域密着.md "wikilink")を目指し、SPLASHが結成された。[仙台市都心部](../Page/仙台市都心部.md "wikilink")で開催される主だった屋外イベント\[2\]\[3\]（主に[勾当台公園](../Page/勾当台公園.md "wikilink")で開催される）では、既になくてはならない存在に成長し地域密着が進んできている。育成面では、メンバーが各種[オーディション](../Page/オーディション.md "wikilink")から県外の仕事を得る例も出現してきている。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")、[宮城テレビ](../Page/宮城テレビ放送.md "wikilink") 開局40周年記念事業のイメージキャラクターに起用され\[4\]、テレビCM出演などで宮城県での認知度を大きく上げている。春の視聴率週間が「SPLASHウィーク」と名付けられるなど\[5\] メインキャラクターとしても活動したほか\[6\]、2011年には引き続き「ミヤテレ応援隊」として[クリネックススタジアム宮城](../Page/宮城球場.md "wikilink")（現：楽天koboスタジアム）で開催された[東北楽天ゴールデンイーグルス](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")の協賛試合「ミヤテレデー」等で活躍した\[7\]。
 
@@ -49,12 +49,12 @@
 <tr class="odd">
 <td><p>RISA</p></td>
 <td><p><strong>横山林沙</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1991年" title="wikilink">1991年</a><a href="../Page/5月19日.md" title="wikilink">5月19日</a></p>
+<td><p><a href="../Page/1991年.md" title="wikilink">1991年</a><a href="../Page/5月19日.md" title="wikilink">5月19日</a></p>
 <div style="text-align:center">
 <p>（歳）</p>
 </div></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/3月" title="wikilink">3月</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/8月27日.md" title="wikilink">8月27日</a><br />
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/3月" title="wikilink">3月</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/8月27日.md" title="wikilink">8月27日</a><br />
 ( - )<br />
 <a href="https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」" title="wikilink">24時間テレビ</a>29ステージ出演</p></td>
 <td><p>初代メンバー『チェッカー＝笑顔チェック係』<br />
@@ -70,8 +70,8 @@
 <div style="text-align:center">
 <p>（歳）</p>
 </div></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/3月" title="wikilink">3月</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="https://ja.wikipedia.org/wiki/4月" title="wikilink">4月</a><br />
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/3月" title="wikilink">3月</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="https://ja.wikipedia.org/wiki/4月" title="wikilink">4月</a><br />
 ( - )<br />
 2007年4月以降フェードアウト</p></td>
 <td><p>初代メンバー『広報』担当<br />
@@ -82,14 +82,14 @@
 <tr class="odd">
 <td><p>KANA</p></td>
 <td><p><strong>澤田加奈子</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1992年" title="wikilink">1992年</a><a href="https://ja.wikipedia.org/wiki/6月16日" title="wikilink">6月16日</a></p>
+<td><p><a href="../Page/1992年.md" title="wikilink">1992年</a><a href="https://ja.wikipedia.org/wiki/6月16日" title="wikilink">6月16日</a></p>
 <div style="text-align:center">
 <p>（歳）</p>
 </div></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/3月" title="wikilink">3月</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="../Page/8月31日.md" title="wikilink">8月31日</a><br />
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/3月" title="wikilink">3月</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/8月31日.md" title="wikilink">8月31日</a><br />
 (2007年8月10日)<br />
-仙台<a href="https://ja.wikipedia.org/wiki/オクトーバーフェスト" title="wikilink">オクトーバーフェスト</a>2007</p></td>
+仙台<a href="../Page/オクトーバーフェスト.md" title="wikilink">オクトーバーフェスト</a>2007</p></td>
 <td><p>初代リーダー</p></td>
 <td></td>
 <td></td>
@@ -100,8 +100,8 @@
 <td><div style="text-align:center">
 <p>-</p>
 </div></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/3月" title="wikilink">3月</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="../Page/8月31日.md" title="wikilink">8月31日</a>[14]<br />
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/3月" title="wikilink">3月</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/8月31日.md" title="wikilink">8月31日</a>[14]<br />
 (2007年8月10日)<br />
 仙台オクトーバーフェスト2007</p></td>
 <td><p>初代メンバー『サービス』担当</p></td>
@@ -115,8 +115,8 @@
 <div style="text-align:center">
 <p>（歳）</p>
 </div></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/3月" title="wikilink">3月</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="../Page/8月31日.md" title="wikilink">8月31日</a><br />
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/3月" title="wikilink">3月</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/8月31日.md" title="wikilink">8月31日</a><br />
 (2007年8月10日)<br />
 仙台オクトーバーフェスト2007</p></td>
 <td><p>初代メンバー『ご意見番』担当<br />
@@ -131,10 +131,10 @@ KANA（澤田加奈子）とは姉妹</p></td>
 <div style="text-align:center">
 <p>（歳）</p>
 </div></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/3月" title="wikilink">3月</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/3月" title="wikilink">3月</a></p></td>
 <td><p><a href="../Page/2009年.md" title="wikilink">2009年</a><a href="../Page/3月28日.md" title="wikilink">3月28日</a><br />
 (2009年3月21日)<br />
-<a href="https://ja.wikipedia.org/wiki/錦ケ丘ヒルサイドモール" title="wikilink">ヒルサイドショップス&amp;アウトレットイベント</a></p></td>
+<a href="../Page/錦ケ丘ヒルサイドモール.md" title="wikilink">ヒルサイドショップス&amp;アウトレットイベント</a></p></td>
 <td><p>初代メンバー『タイムキーパー』担当</p></td>
 <td></td>
 <td></td>
@@ -146,10 +146,10 @@ KANA（澤田加奈子）とは姉妹</p></td>
 <div style="text-align:center">
 <p>（歳）</p>
 </div></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/3月" title="wikilink">3月</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/3月" title="wikilink">3月</a></p></td>
 <td><p><a href="../Page/2009年.md" title="wikilink">2009年</a><a href="../Page/4月18日.md" title="wikilink">4月18日</a><br />
 (2009年4月13日)<br />
-<a href="https://ja.wikipedia.org/wiki/仙台89ERS" title="wikilink">仙台89ERS</a>応援</p></td>
+<a href="../Page/仙台89ERS.md" title="wikilink">仙台89ERS</a>応援</p></td>
 <td><p>初代メンバー『お世話』担当<br />
 元<a href="https://ja.wikipedia.org/wiki/テクプリ" title="wikilink">テクプリ</a>リーダー</p></td>
 <td></td>
@@ -162,7 +162,7 @@ KANA（澤田加奈子）とは姉妹</p></td>
 <div style="text-align:center">
 <p>（歳）</p>
 </div></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/3月" title="wikilink">3月</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/3月" title="wikilink">3月</a></p></td>
 <td><p><a href="../Page/2009年.md" title="wikilink">2009年</a><a href="../Page/4月18日.md" title="wikilink">4月18日</a><br />
 (2009年4月13日)<br />
 仙台89ERS応援</p></td>
@@ -226,7 +226,7 @@ KANA（澤田加奈子）とは姉妹</p></td>
 <div style="text-align:center">
 <p>（歳）</p>
 </div></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="../Page/9月14日.md" title="wikilink">9月14日</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/9月14日.md" title="wikilink">9月14日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><a href="../Page/3月31日.md" title="wikilink">3月31日</a><br />
 (2010年4月7日)<br />
 （動画による卒業報告）</p></td>
@@ -362,7 +362,7 @@ ambitious music SHOWCASE Vol.2</p></td>
 <tr class="odd">
 <td><p>AMI</p></td>
 <td><p>|<strong>高橋亜実</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1998年" title="wikilink">1998年</a><a href="https://ja.wikipedia.org/wiki/7月23日" title="wikilink">7月23日</a></p>
+<td><p><a href="https://ja.wikipedia.org/wiki/1998年" title="wikilink">1998年</a><a href="../Page/7月23日.md" title="wikilink">7月23日</a></p>
 <div style="text-align:center">
 <p>（歳）</p>
 </div></td>
@@ -393,7 +393,7 @@ ambitious music SHOWCASE Vol.2</p></td>
 <tr class="odd">
 <td><p>MOKA</p></td>
 <td><p><strong>中川萌香</strong></p></td>
-<td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="https://ja.wikipedia.org/wiki/2月26日" title="wikilink">2月26日</a></p>
+<td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="../Page/2月26日.md" title="wikilink">2月26日</a></p>
 <div style="text-align:center">
 <p>（歳）</p>
 </div></td>
@@ -557,7 +557,7 @@ ambitious music SHOWCASE Vol.2</p></td>
 （オルゴールバージョン）</p></td>
 <td><p>CD</p></td>
 <td><p>SORE-0002</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SENDAI光のページェント" title="wikilink">SENDAI光のページェント</a>2007公認ソング<br />
+<td><p><a href="../Page/SENDAI光のページェント.md" title="wikilink">SENDAI光のページェント</a>2007公認ソング<br />
 <a href="https://ja.wikipedia.org/wiki/みやぎ蔵王えぼしスキー場" title="wikilink">みやぎ蔵王えぼしスキー場</a><br />
 2007～2008シーズンキャンペーンソング</p></td>
 </tr>
@@ -568,7 +568,7 @@ ambitious music SHOWCASE Vol.2</p></td>
 <td><p>たからもの～君に逢えてよかった～</p></td>
 <td><p>CD</p></td>
 <td><p>SORE-0003</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/仙台七夕" title="wikilink">仙台七夕</a>まつり応援ソング</p></td>
+<td><p><a href="../Page/仙台七夕.md" title="wikilink">仙台七夕</a>まつり応援ソング</p></td>
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
@@ -624,14 +624,14 @@ CDデビュー前に、既に持ち歌が4曲あった。
 
 ### テレビ
 
-  - [ふるさとサイエンス・ふしぎのトビラ](https://ja.wikipedia.org/wiki/ふしぎのトビラ "wikilink")（2006年4月 - 2011年3月、[東北放送](../Page/東北放送.md "wikilink")）
-  - [OH\!バンデス](https://ja.wikipedia.org/wiki/OH!バンデス "wikilink")（2007年4月30日、[ミヤギテレビ](https://ja.wikipedia.org/wiki/ミヤギテレビ "wikilink")）- 生出演
-  - 北国からのコンサート2014\[23\]（2014年3月7日・8日、[NHK総合東北ブロック](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")、3月30日、[NHK BSプレミアム](https://ja.wikipedia.org/wiki/BSプレミアム "wikilink")）
+  - [ふるさとサイエンス・ふしぎのトビラ](../Page/ふしぎのトビラ.md "wikilink")（2006年4月 - 2011年3月、[東北放送](../Page/東北放送.md "wikilink")）
+  - [OH\!バンデス](../Page/OH!バンデス.md "wikilink")（2007年4月30日、[ミヤギテレビ](https://ja.wikipedia.org/wiki/ミヤギテレビ "wikilink")）- 生出演
+  - 北国からのコンサート2014\[23\]（2014年3月7日・8日、[NHK総合東北ブロック](../Page/NHK総合テレビジョン.md "wikilink")、3月30日、[NHK BSプレミアム](https://ja.wikipedia.org/wiki/BSプレミアム "wikilink")）
 
 ### ラジオ
 
-  - Groovin'J（2007年5月3日、[ラジオ3](https://ja.wikipedia.org/wiki/仙台シティエフエム "wikilink")）
-  - [AIRJAM Friday](https://ja.wikipedia.org/wiki/AIRJAM "wikilink")（2007年5月4日、[Date fm](../Page/エフエム仙台.md "wikilink")）
+  - Groovin'J（2007年5月3日、[ラジオ3](../Page/仙台シティエフエム.md "wikilink")）
+  - [AIRJAM Friday](../Page/AIRJAM.md "wikilink")（2007年5月4日、[Date fm](../Page/エフエム仙台.md "wikilink")）
 
 ### インターネットテレビ
 
@@ -640,7 +640,7 @@ CDデビュー前に、既に持ち歌が4曲あった。
 
 ### イメージキャラクター・キャンペーン
 
-  - [仙台89ERS](https://ja.wikipedia.org/wiki/仙台89ERS "wikilink") ブースターユニット（2008-2009年）
+  - [仙台89ERS](../Page/仙台89ERS.md "wikilink") ブースターユニット（2008-2009年）
   - [宮城テレビ放送](../Page/宮城テレビ放送.md "wikilink") 開局40周年記念事業イメージキャラクター（2010年）
   - 宮城テレビ放送 イメージキャラクター「ミヤテレ応援隊」（2011年）
   - 日本中が元気になる\! 全国「あまちゃん」マップ あなたの町おこしキャンペーン 地元サポーター（NHK、2013年）
@@ -657,25 +657,25 @@ CDデビュー前に、既に持ち歌が4曲あった。
 
 <div class="NavContent" style="text-align: left;">
 
-  - 5月5日、デビューイベント（[藤崎大町館](https://ja.wikipedia.org/wiki/藤崎_\(百貨店\) "wikilink") 玄関前ステージ）
+  - 5月5日、デビューイベント（[藤崎大町館](../Page/藤崎_\(百貨店\).md "wikilink") 玄関前ステージ）
 
-  - 6月4日、「[とっておきの音楽祭](https://ja.wikipedia.org/wiki/とっておきの音楽祭 "wikilink")2006」フィナーレ出演（[勾当台公園](https://ja.wikipedia.org/wiki/勾当台公園 "wikilink")・市民広場）
+  - 6月4日、「[とっておきの音楽祭](../Page/とっておきの音楽祭.md "wikilink")2006」フィナーレ出演（[勾当台公園](../Page/勾当台公園.md "wikilink")・市民広場）
 
-  - 7月29日、「[モバ☆スタ カフェ](https://ja.wikipedia.org/wiki/モバ☆スタ#モバ☆スタ_カフェ "wikilink")」でミニライブ2回（「[仙台市都心部](../Page/仙台市都心部.md "wikilink")6商店街&[NTTドコモ東北ジョイントイベント](https://ja.wikipedia.org/wiki/エヌ・ティ・ティ・ドコモ東北 "wikilink")」[ミヤギテレビ](../Page/宮城テレビ放送.md "wikilink")&ドコモ東北特設ブース）
+  - 7月29日、「[モバ☆スタ カフェ](https://ja.wikipedia.org/wiki/モバ☆スタ#モバ☆スタ_カフェ "wikilink")」でミニライブ2回（「[仙台市都心部](../Page/仙台市都心部.md "wikilink")6商店街&[NTTドコモ東北ジョイントイベント](../Page/エヌ・ティ・ティ・ドコモ東北.md "wikilink")」[ミヤギテレビ](../Page/宮城テレビ放送.md "wikilink")&ドコモ東北特設ブース）
 
   - 7月30日、「[TBCラジオまつり](https://ja.wikipedia.org/wiki/TBC夏まつり "wikilink")」（勾当台公園・市民広場）
 
   - 7月30日、「モバ☆スタ カフェ」でミニライブ
 
-  - 8月7日～、[東北放送](../Page/東北放送.md "wikilink")「[ウォッチン\!みやぎ](https://ja.wikipedia.org/wiki/ウォッチン!みやぎ "wikilink")」にアシスタントとして出演（2週間）
+  - 8月7日～、[東北放送](../Page/東北放送.md "wikilink")「[ウォッチン\!みやぎ](../Page/ウォッチン!みやぎ.md "wikilink")」にアシスタントとして出演（2週間）
 
-  - 8月7日、「[仙台七夕](https://ja.wikipedia.org/wiki/仙台七夕 "wikilink")まつり」でステージイベント（勾当台公園・円形広場）
+  - 8月7日、「[仙台七夕](../Page/仙台七夕.md "wikilink")まつり」でステージイベント（勾当台公園・円形広場）
 
   - 8月27日、ミヤギテレビ「[24時間テレビ](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink")」ステージイベント（勾当台公園・市民広場）
 
   - 9月17日、「第2回[ママチャリ](https://ja.wikipedia.org/wiki/ママチャリ "wikilink")8時間耐久レース」ステージイベント（[名取市](../Page/名取市.md "wikilink")サイクルスポーツセンター）
 
-  - 10月28日、「[ハロウィーン](https://ja.wikipedia.org/wiki/ハロウィーン "wikilink")[岳温泉](../Page/岳温泉.md "wikilink")収獲祭」（[福島県](../Page/福島県.md "wikilink")[二本松市](https://ja.wikipedia.org/wiki/二本松市 "wikilink")）
+  - 10月28日、「[ハロウィーン](https://ja.wikipedia.org/wiki/ハロウィーン "wikilink")[岳温泉](../Page/岳温泉.md "wikilink")収獲祭」（[福島県](../Page/福島県.md "wikilink")[二本松市](../Page/二本松市.md "wikilink")）
 
   - 11月3日、「[青葉区民まつり](../Page/青葉区_\(仙台市\).md "wikilink")」仙台市都心部アーケードでのパレード参加、勾当台公園・市民広場でのミニライブ。
 
@@ -683,7 +683,7 @@ CDデビュー前に、既に持ち歌が4曲あった。
 
   - 12月1日、「[JR東日本](../Page/東日本旅客鉄道.md "wikilink")×NTTドコモ東北 仙台駅[イルミネーション](https://ja.wikipedia.org/wiki/イルミネーション "wikilink")点灯式」（[仙台駅](../Page/仙台駅.md "wikilink")）
 
-  - 12月12日、「[SENDAI光のページェント](https://ja.wikipedia.org/wiki/SENDAI光のページェント "wikilink")点灯LIVE」（[せんだいメディアテーク](https://ja.wikipedia.org/wiki/せんだいメディアテーク "wikilink")）
+  - 12月12日、「[SENDAI光のページェント](../Page/SENDAI光のページェント.md "wikilink")点灯LIVE」（[せんだいメディアテーク](../Page/せんだいメディアテーク.md "wikilink")）
 
   - 12月12日～12月31日、NTTドコモ東北「STARLIGHT☆FANTASY」特命レポーター
 
@@ -691,7 +691,7 @@ CDデビュー前に、既に持ち歌が4曲あった。
 
   - 12月16日、「街NAVI仙台 2006 Heartland Festa」（仙台市都心部6商店街の内3ヶ所）
 
-  - 12月17日、「第2回 X'masアートフェスティバル」（[仙台港](https://ja.wikipedia.org/wiki/仙台港 "wikilink")アクセル）
+  - 12月17日、「第2回 X'masアートフェスティバル」（[仙台港](../Page/仙台港.md "wikilink")アクセル）
 
   - 12月17日、「街NAVI仙台 2006 Heartland Festa」（仙台市都心部6商店街の内残り3ヶ所）
 
@@ -717,21 +717,21 @@ CDデビュー前に、既に持ち歌が4曲あった。
 
   - 4月22日、「しおがま市民まつり」（[本塩釜駅](../Page/本塩釜駅.md "wikilink")前特設ステージ）
 
-  - 4月30日、ミヤギテレビ「[OH\!バンデス](https://ja.wikipedia.org/wiki/OH!バンデス "wikilink")」出演
+  - 4月30日、ミヤギテレビ「[OH\!バンデス](../Page/OH!バンデス.md "wikilink")」出演
 
-  - 5月3日、[ラジオ3](https://ja.wikipedia.org/wiki/仙台シティエフエム "wikilink")「Groovin'」ゲスト出演
+  - 5月3日、[ラジオ3](../Page/仙台シティエフエム.md "wikilink")「Groovin'」ゲスト出演
 
   - 5月4日、東北放送「ウォッチン\!みやぎ」ゲスト出演
 
-  - 5月4日、[Date fm](../Page/エフエム仙台.md "wikilink")「[AIRJAM](https://ja.wikipedia.org/wiki/AIRJAM "wikilink") Friday」ゲスト出演
+  - 5月4日、[Date fm](../Page/エフエム仙台.md "wikilink")「[AIRJAM](../Page/AIRJAM.md "wikilink") Friday」ゲスト出演
 
-  - 5月5日、[CD](../Page/コンパクトディスク.md "wikilink")[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")イベント（[藤崎大町館玄関前ステージ](https://ja.wikipedia.org/wiki/藤崎_\(百貨店\) "wikilink")。3回）
+  - 5月5日、[CD](../Page/コンパクトディスク.md "wikilink")[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")イベント（[藤崎大町館玄関前ステージ](../Page/藤崎_\(百貨店\).md "wikilink")。3回）
 
-  - 5月19日、「[仙台・青葉まつり](https://ja.wikipedia.org/wiki/仙台・青葉まつり "wikilink")」ステージイベント（[錦町公園](https://ja.wikipedia.org/wiki/錦町公園 "wikilink")）
+  - 5月19日、「[仙台・青葉まつり](../Page/仙台・青葉まつり.md "wikilink")」ステージイベント（[錦町公園](https://ja.wikipedia.org/wiki/錦町公園 "wikilink")）
 
   - 5月20日、「仙台・青葉まつり」ステージイベント（錦町公園）
 
-  - 5月27日、[仙台ヒルサイドアウトレット](https://ja.wikipedia.org/wiki/錦ケ丘ヒルサイドモール "wikilink")・ステージイベント（2回）
+  - 5月27日、[仙台ヒルサイドアウトレット](../Page/錦ケ丘ヒルサイドモール.md "wikilink")・ステージイベント（2回）
 
   - 6月2日、仙台ヒルサイドアウトレット・ステージイベント（2回）
 
@@ -749,7 +749,7 @@ CDデビュー前に、既に持ち歌が4曲あった。
 
   - 8月7日、仙台七夕まつり「星の宵まつり」（定禅寺通り。3ステージ）
 
-  - 8月8日、[ラジオ3](https://ja.wikipedia.org/wiki/仙台シティエフエム "wikilink")「七夕ヴィレッジ2007」出演（勾当台公園・円形広場）
+  - 8月8日、[ラジオ3](../Page/仙台シティエフエム.md "wikilink")「七夕ヴィレッジ2007」出演（勾当台公園・円形広場）
 
   - 8月8日、仙台七夕まつり「星の宵まつり」（定禅寺通り。4ステージ）
 
@@ -763,7 +763,7 @@ CDデビュー前に、既に持ち歌が4曲あった。
 
   - 8月19日、ミヤギテレビ「24時間テレビ」ステージイベント（イオン石巻ショッピングセンター）
 
-  - 9月2日、「仙台[オクトーバーフェスト](https://ja.wikipedia.org/wiki/オクトーバーフェスト "wikilink")2007」ステージイベント（錦町公園）。KANA（澤田加奈子）とSAYUKIが「卒業」。
+  - 9月2日、「仙台[オクトーバーフェスト](../Page/オクトーバーフェスト.md "wikilink")2007」ステージイベント（錦町公園）。KANA（澤田加奈子）とSAYUKIが「卒業」。
 
   - 9月22日、第11回仙台市高齢者生きがい健康祭「シニアいきいきまつり」ステージイベント（勾当台公園・市民広場）
 
@@ -771,13 +771,13 @@ CDデビュー前に、既に持ち歌が4曲あった。
 
   - 10月20日、第8回「みやぎまるごとフェスティバル」オープニングACTミニライブ（勾当台公園・市民広場）、ミニライブ（[一番町四丁目アーケード](https://ja.wikipedia.org/wiki/一番町_\(仙台市\)#一番町四丁目買物公園 "wikilink")）
 
-  - 10月27日、第8回「坂小まつり」でミニライブ（[福島県](../Page/福島県.md "wikilink")・[会津坂下町](https://ja.wikipedia.org/wiki/会津坂下町 "wikilink")立[坂下小学校](https://ja.wikipedia.org/wiki/会津坂下町立坂下小学校 "wikilink")）
+  - 10月27日、第8回「坂小まつり」でミニライブ（[福島県](../Page/福島県.md "wikilink")・[会津坂下町](../Page/会津坂下町.md "wikilink")立[坂下小学校](https://ja.wikipedia.org/wiki/会津坂下町立坂下小学校 "wikilink")）
 
   - 11月15日、ラジオ3「Groovin' J」ゲスト出演
 
-  - 12月1日、[藤崎](https://ja.wikipedia.org/wiki/藤崎_\(百貨店\) "wikilink")「Dreaming Christmas ミニコンサート」でミニライブ（藤崎本館・[サンモール一番町側玄関前特設ステージ](https://ja.wikipedia.org/wiki/一番町_\(仙台市\)#サンモール一番町商店街 "wikilink")。2回）
+  - 12月1日、[藤崎](../Page/藤崎_\(百貨店\).md "wikilink")「Dreaming Christmas ミニコンサート」でミニライブ（藤崎本館・[サンモール一番町側玄関前特設ステージ](https://ja.wikipedia.org/wiki/一番町_\(仙台市\)#サンモール一番町商店街 "wikilink")。2回）
 
-  - 12月12日、[SENDAI光のページェント](https://ja.wikipedia.org/wiki/SENDAI光のページェント "wikilink")点灯式Live（せんだいメディアテーク）
+  - 12月12日、[SENDAI光のページェント](../Page/SENDAI光のページェント.md "wikilink")点灯式Live（せんだいメディアテーク）
 
   - 12月15日、「SPLASHプロモーションLive」（[一番町四丁目商店街](https://ja.wikipedia.org/wiki/一番町_\(仙台市\)#一番町四丁目買物公園 "wikilink")・[仙台三越](https://ja.wikipedia.org/wiki/仙台三越 "wikilink")前。2回）
 
@@ -797,7 +797,7 @@ CDデビュー前に、既に持ち歌が4曲あった。
 
 <div class="NavContent" style="text-align: left;">
 
-  - 1月19日、「[エボシスキー場花火大会](https://ja.wikipedia.org/wiki/みやぎ蔵王えぼしスキー場 "wikilink") EBOSHI FANTASIA 2008-Glow With Love-」で[花火](../Page/花火.md "wikilink")と[コラボレーション](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")ライブ（宮城県・[蔵王町](https://ja.wikipedia.org/wiki/蔵王町 "wikilink")）
+  - 1月19日、「[エボシスキー場花火大会](https://ja.wikipedia.org/wiki/みやぎ蔵王えぼしスキー場 "wikilink") EBOSHI FANTASIA 2008-Glow With Love-」で[花火](../Page/花火.md "wikilink")と[コラボレーション](../Page/コラボレーション.md "wikilink")ライブ（宮城県・[蔵王町](../Page/蔵王町.md "wikilink")）
 
   - 4月29日、「イオン仙台泉大沢ショッピングセンター（現・[イオンタウン仙台泉大沢](https://ja.wikipedia.org/wiki/イオンタウン仙台泉大沢 "wikilink")）」ミニライブ（2回）
 
@@ -825,7 +825,7 @@ CDデビュー前に、既に持ち歌が4曲あった。
 
   - 12月12日、仙台放送「ページェント特番」出演（新曲『Winter Chance』を披露）
 
-  - 12月12日、[SENDAI光のページェント](https://ja.wikipedia.org/wiki/SENDAI光のページェント "wikilink")点灯式Live（せんだいメディアテーク）
+  - 12月12日、[SENDAI光のページェント](../Page/SENDAI光のページェント.md "wikilink")点灯式Live（せんだいメディアテーク）
 
   - 12月20日、89ERS応援（仙台市体育館）
 
@@ -853,7 +853,7 @@ CDデビュー前に、既に持ち歌が4曲あった。
 
   - 1月14日、OH\!バンデス仙台駅から中継（みやぎ蔵王えぼしスキー場に関する告知）
 
-  - 1月17日、「[エボシスキー場ステージイベント](https://ja.wikipedia.org/wiki/みやぎ蔵王えぼしスキー場 "wikilink")（宮城県・[蔵王町](https://ja.wikipedia.org/wiki/蔵王町 "wikilink")）
+  - 1月17日、「[エボシスキー場ステージイベント](https://ja.wikipedia.org/wiki/みやぎ蔵王えぼしスキー場 "wikilink")（宮城県・[蔵王町](../Page/蔵王町.md "wikilink")）
 
   - 1月19日、[Date fm](../Page/エフエム仙台.md "wikilink")「[ブロッキンハーモニクス](https://ja.wikipedia.org/wiki/ブロッキンハーモニクス "wikilink") 」ゲスト出演
 
@@ -863,7 +863,7 @@ CDデビュー前に、既に持ち歌が4曲あった。
 
   - 2月14日、89ERS応援（仙台市体育館）
 
-  - 2月15日、えぼしスキー場イベント（Rina＆Rioのみの出演）（宮城県・[蔵王町](https://ja.wikipedia.org/wiki/蔵王町 "wikilink")）
+  - 2月15日、えぼしスキー場イベント（Rina＆Rioのみの出演）（宮城県・[蔵王町](../Page/蔵王町.md "wikilink")）
 
   - 2月28日、仙台市消防局「春の火災予防運動」イベント出演（イオン泉大沢ショッピングセンター）
 
@@ -975,7 +975,7 @@ CDデビュー前に、既に持ち歌が4曲あった。
 
   - 11月20日、第2回「みんなの安全・安心フェアin宮城」（勾当台公園）
 
-  - 12月3日、[SENDAI光のページェント](https://ja.wikipedia.org/wiki/SENDAI光のページェント "wikilink")点灯式Live（せんだいメディアテーク1階）
+  - 12月3日、[SENDAI光のページェント](../Page/SENDAI光のページェント.md "wikilink")点灯式Live（せんだいメディアテーク1階）
 
   - 12月18日、ネッツトヨタ「クリスマスライブイベント」（ネッツトヨタ仙台「日の出店」：招待者イベント）
 
@@ -1001,7 +1001,7 @@ CDデビュー前に、既に持ち歌が4曲あった。
 
   - 5月29日、ミヤギテレビ「ミヤテレデー」（クリネックススタジアム宮城正面　ミヤテレステージ）
 
-  - 8月6日、仙台七夕まつり [Date fm](https://ja.wikipedia.org/wiki/Date_fm "wikilink") [夕涼みコンサート](https://ja.wikipedia.org/wiki/夕涼みコンサート "wikilink")2011（勾当台公園　LOCOステージ）
+  - 8月6日、仙台七夕まつり [Date fm](https://ja.wikipedia.org/wiki/Date_fm "wikilink") [夕涼みコンサート](../Page/夕涼みコンサート.md "wikilink")2011（勾当台公園　LOCOステージ）
 
   - 8月6日、国分町七夕ひろば2011（国分町元鍛冶丁公園）
 
@@ -1055,7 +1055,7 @@ CDデビュー前に、既に持ち歌が4曲あった。
 
   - 8月5日、第43回仙台七夕花火祭特別イベント「ありがとう」発信ライブ（勾当台公園　市民広場）
 
-  - 8月8日、仙台七夕まつり [Date fm](https://ja.wikipedia.org/wiki/Date_fm "wikilink") [夕涼みコンサート](https://ja.wikipedia.org/wiki/夕涼みコンサート "wikilink")2012（勾当台公園　LOCOステージ）
+  - 8月8日、仙台七夕まつり [Date fm](https://ja.wikipedia.org/wiki/Date_fm "wikilink") [夕涼みコンサート](../Page/夕涼みコンサート.md "wikilink")2012（勾当台公園　LOCOステージ）
 
   - 8月8日、七夕ヴィレッジ2012（勾当台公園・円形公園）
 
@@ -1141,11 +1141,11 @@ CDデビュー前に、既に持ち歌が4曲あった。
 
 <div class="NavContent" style="text-align: left;">
 
-  - 1月25日・26日、「がんばろう東北！くまもと応援市場」T-GIRL'S FES（熊本市・[サンロード新市街](https://ja.wikipedia.org/wiki/サンロード新市街 "wikilink")アーケード内特設ステージ）
+  - 1月25日・26日、「がんばろう東北！くまもと応援市場」T-GIRL'S FES（熊本市・[サンロード新市街](../Page/サンロード新市街.md "wikilink")アーケード内特設ステージ）
 
   - 3月29日、東北発信源ユニットSPLASH ワンマンコンサート「持ち歌全曲やります！」（NeoBrotherZ）
 
-  - 4月19日、自衛隊仙台駐屯地さくら祭り（[陸上自衛隊](../Page/陸上自衛隊.md "wikilink") [仙台駐屯地](https://ja.wikipedia.org/wiki/仙台駐屯地 "wikilink")）
+  - 4月19日、自衛隊仙台駐屯地さくら祭り（[陸上自衛隊](../Page/陸上自衛隊.md "wikilink") [仙台駐屯地](../Page/仙台駐屯地.md "wikilink")）
 
   - 4月19日、【Girls-attack\!\!】（NeoBrotherZ）
 
@@ -1161,11 +1161,11 @@ CDデビュー前に、既に持ち歌が4曲あった。
 
   - 10月26日、【LIVE-ATTACK'14～Gathering of Fairies～】1026（Sendai [CLUB JUNK BOX](https://ja.wikipedia.org/wiki/CLUB_JUNK_BOX "wikilink")）
 
-  - 11月1日、みちのく・みやぎ矯正展（[宮城刑務所](https://ja.wikipedia.org/wiki/宮城刑務所 "wikilink")）
+  - 11月1日、みちのく・みやぎ矯正展（[宮城刑務所](../Page/宮城刑務所.md "wikilink")）
 
   - 11月3日、第五回ぼくらのワールドカップ2014in多賀城（[仙台育英学園](https://ja.wikipedia.org/wiki/仙台育英学園 "wikilink")多賀城キャンパス）
 
-  - 11月22日、[ソフマップ](https://ja.wikipedia.org/wiki/ソフマップ "wikilink")仙台駅前店オープン記念一日店長（[仙台駅前EBeanS](https://ja.wikipedia.org/wiki/イービーンズ "wikilink")）
+  - 11月22日、[ソフマップ](../Page/ソフマップ.md "wikilink")仙台駅前店オープン記念一日店長（[仙台駅前EBeanS](https://ja.wikipedia.org/wiki/イービーンズ "wikilink")）
 
   - 12月6日、【LIVE-ATTACK'14～Gathering of Fairies～】1206（[仙台darwin](https://ja.wikipedia.org/wiki/エドワード・エンターテインメント・グループ#darwin "wikilink")）
 
@@ -1190,11 +1190,11 @@ CDデビュー前に、既に持ち歌が4曲あった。
 ## 関連項目
 
   - [仙台の著名人一覧](../Page/仙台の著名人一覧.md "wikilink")
-  - [ローカルアイドル](https://ja.wikipedia.org/wiki/ローカルアイドル "wikilink")
+  - [ローカルアイドル](../Page/ローカルアイドル.md "wikilink")
   - [テクプリ](https://ja.wikipedia.org/wiki/テクプリ "wikilink") - SPLASHからメンバーを選抜しメジャーデビューを視野に入れ全国展開を目的に結成されたユニット
   - [アイリス (by MORADOLL)](https://ja.wikipedia.org/wiki/アイリス_\(by_MORADOLL\) "wikilink") - 2013年7月に解散したテクプリのメンバーにより結成されたユニット
-  - [楽都仙台](https://ja.wikipedia.org/wiki/楽都仙台 "wikilink")
-  - [モバ☆スタ2.0](https://ja.wikipedia.org/wiki/モバ☆スタ2.0 "wikilink")
+  - [楽都仙台](../Page/楽都仙台.md "wikilink")
+  - [モバ☆スタ2.0](../Page/モバ☆スタ2.0.md "wikilink")
 
 ## 外部リンク
 

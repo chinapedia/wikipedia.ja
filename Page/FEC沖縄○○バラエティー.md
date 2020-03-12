@@ -3,7 +3,7 @@
 
 『**FEC沖縄○○バラエティー**\[1\]\[2\]』（エフイーシーおきなわまるまるバラエティー）は、[沖縄テレビで放送されていた](../Page/沖縄テレビ放送.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。
 
-沖縄県のお笑い演芸集団・[FEC](https://ja.wikipedia.org/wiki/FEC "wikilink")が出演していた[深夜番組](../Page/深夜番組.md "wikilink")で、番組は彼らの名をタイトルに冠していた。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")から同年[9月](../Page/9月.md "wikilink")まで第1シリーズが、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink")から同年[9月28日](../Page/9月28日.md "wikilink")まで[石川愛理](https://ja.wikipedia.org/wiki/石川愛理 "wikilink")を秘書役に迎えた第2シリーズが放送された。いずれも放送時間は毎週[金曜](../Page/金曜日.md "wikilink") 25:20 - 25:50。
+沖縄県のお笑い演芸集団・[FEC](https://ja.wikipedia.org/wiki/FEC "wikilink")が出演していた[深夜番組](../Page/深夜番組.md "wikilink")で、番組は彼らの名をタイトルに冠していた。[2006年](../Page/2006年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")から同年[9月](../Page/9月.md "wikilink")まで第1シリーズが、[2007年](../Page/2007年.md "wikilink")[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink")から同年[9月28日](../Page/9月28日.md "wikilink")まで[石川愛理](../Page/石川愛理.md "wikilink")を秘書役に迎えた第2シリーズが放送された。いずれも放送時間は毎週[金曜](../Page/金曜日.md "wikilink") 25:20 - 25:50。
 
 2007年6月からは、[スカパー\!e2の](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink")[インターローカルTV](../Page/インターローカルTV.md "wikilink")でも約1か月遅れで放送されていた。
 

@@ -1,7 +1,7 @@
 > この記事は[TAKAJIN DO MY BEST](https://ja.wikipedia.org/wiki/TAKAJIN_DO_MY_BEST)から翻訳されています。
 
 
-『**TAKAJIN DO MY BEST**』（タカジン・ドゥー・マイ・ベスト）は、[やしきたかじん](https://ja.wikipedia.org/wiki/やしきたかじん "wikilink")歌手デビュー20周年を記念して[1996年](../Page/1996年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")にリリースされた[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")である。[ポリスター](https://ja.wikipedia.org/wiki/ポリスター "wikilink")所属以前の楽曲はNew Version'96としてリメイクされている。たかじんの全アルバムの中で最大のヒットとなっている。1996年10月時点で20万枚を超える売上を記録\[1\]。
+『**TAKAJIN DO MY BEST**』（タカジン・ドゥー・マイ・ベスト）は、[やしきたかじん](../Page/やしきたかじん.md "wikilink")歌手デビュー20周年を記念して[1996年](../Page/1996年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")にリリースされた[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")である。[ポリスター](../Page/ポリスター.md "wikilink")所属以前の楽曲はNew Version'96としてリメイクされている。たかじんの全アルバムの中で最大のヒットとなっている。1996年10月時点で20万枚を超える売上を記録\[1\]。
 
 ## 収録曲目
 
@@ -22,7 +22,7 @@
         作詞：及川眠子　作曲：坂本洋　編曲：川村栄二
 6.  **心はいつも**
       -
-        作詞：及川眠子　作曲：やしきたかじん　編曲：[若草恵](https://ja.wikipedia.org/wiki/若草恵 "wikilink")
+        作詞：及川眠子　作曲：やしきたかじん　編曲：[若草恵](../Page/若草恵.md "wikilink")
 7.  **大阪恋物語　New Version'96**
       -
         作詞・作曲：鹿紋太郎　編曲：土井淳
@@ -41,7 +41,7 @@
 12. **夢見る男のために**
       -
         作詞：及川眠子　作曲：川上明彦　編曲：若草恵
-13. **[明日になれば　New Version'96](https://ja.wikipedia.org/wiki/明日になれば_\(やしきたかじんの曲\) "wikilink")**
+13. **[明日になれば　New Version'96](../Page/明日になれば_\(やしきたかじんの曲\).md "wikilink")**
       -
         作詞：来生えつこ　作曲：やしきたかじん　編曲：川村栄二
 14. **もしも夢が叶うならば**

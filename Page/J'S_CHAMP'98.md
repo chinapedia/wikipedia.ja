@@ -22,7 +22,7 @@ FM-FUJIはアーティスト番組の充実を図るべく[1998年](https://ja.w
 <!-- end list -->
 
   -
-    DJ：**[HAKUEI](https://ja.wikipedia.org/wiki/HAKUEI "wikilink")** ([PENICILLIN](https://ja.wikipedia.org/wiki/PENICILLIN "wikilink"))
+    DJ：**[HAKUEI](../Page/HAKUEI.md "wikilink")** ([PENICILLIN](../Page/PENICILLIN.md "wikilink"))
     もともとは[1996年](../Page/1996年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月](../Page/9月.md "wikilink")まで、同じHAKUEIのDJ番組で、甲府本社で制作され、日曜夜20:00-20:55（55分）枠に放送されていた『[CHAMELEON KISS](https://ja.wikipedia.org/wiki/CHAMELEON_KISS "wikilink")』（カメレオン・キス）という番組。同番組を発展解消する形で、制作を東京支社へ移管、HAKUEI初の冠ラジオ番組となった。1997年10月開始時は23:00-24:00だった。一時期22:00枠へ移動（→21:00へ復帰）し、2001年9月をもって終了した。
 
 <!-- end list -->
@@ -32,7 +32,7 @@ FM-FUJIはアーティスト番組の充実を図るべく[1998年](https://ja.w
 <!-- end list -->
 
   -
-    DJ：**[FANATIC◇CRISIS](https://ja.wikipedia.org/wiki/FANATIC◇CRISIS "wikilink")**
+    DJ：**[FANATIC◇CRISIS](../Page/FANATIC◇CRISIS.md "wikilink")**
     FANATIC◇CRISISの冠番組として、本枠新設とともに登場したが、半年で終了する。
 
 ### 火曜日
@@ -54,7 +54,7 @@ FM-FUJIはアーティスト番組の充実を図るべく[1998年](https://ja.w
 <!-- end list -->
 
   -
-    DJ：**[KAZUSHI](https://ja.wikipedia.org/wiki/KAZUSHI "wikilink")**([ROUAGE](https://ja.wikipedia.org/wiki/ROUAGE "wikilink"))
+    DJ：**[KAZUSHI](https://ja.wikipedia.org/wiki/KAZUSHI "wikilink")**([ROUAGE](../Page/ROUAGE.md "wikilink"))
     本枠新設とともにスタートした、ROUAGEメンバー、KAZUSHIの冠番組。本枠廃止とともに1時間に短縮され（23:00開始に繰り下げ、[1999年](../Page/1999年.md "wikilink")4月より22:00に復帰）、2000年3月をもって終了となった。
 
 ### 水曜日
@@ -64,7 +64,7 @@ FM-FUJIはアーティスト番組の充実を図るべく[1998年](https://ja.w
 <!-- end list -->
 
   -
-    DJ：**[米倉利紀](https://ja.wikipedia.org/wiki/米倉利紀 "wikilink")**
+    DJ：**[米倉利紀](../Page/米倉利紀.md "wikilink")**
     月〜木曜\[1\]深夜の人気番組だった『[POWER ZZZ](https://ja.wikipedia.org/wiki/POWER_ZZZ "wikilink")』（1998年3月終了）でリスナーから一躍人気を得た米倉の単独冠番組として登場。本枠廃止とともに22:00-23:00枠へ移動、末期には日曜夕方17:00-18:00枠で放送され、そして終了した。
 
 <!-- end list -->
@@ -94,7 +94,7 @@ FM-FUJIはアーティスト番組の充実を図るべく[1998年](https://ja.w
 
 <!-- end list -->
 
-  - DJ：**[清春](https://ja.wikipedia.org/wiki/清春 "wikilink")**（[黒夢](../Page/黒夢.md "wikilink")→[SADS](https://ja.wikipedia.org/wiki/SADS "wikilink")）
+  - DJ：**[清春](../Page/清春.md "wikilink")**（[黒夢](../Page/黒夢.md "wikilink")→[SADS](../Page/SADS.md "wikilink")）
 
 <!-- end list -->
 
@@ -109,28 +109,28 @@ FM-FUJIはアーティスト番組の充実を図るべく[1998年](https://ja.w
 
   - 宇都宮隆 EASY ATTRACTION（[宇都宮隆](https://ja.wikipedia.org/wiki/宇都宮隆 "wikilink")）
   - SING LIKE TALKING FAST BREAK （[Sing Like Talking](https://ja.wikipedia.org/wiki/Sing_Like_Talking "wikilink")）
-  - EBONY & IVORY （[かとうれいこ](https://ja.wikipedia.org/wiki/かとうれいこ "wikilink")）
+  - EBONY & IVORY （[かとうれいこ](../Page/かとうれいこ.md "wikilink")）
   - ON THE FREEWAY （中村耕一：[JAYWALK](https://ja.wikipedia.org/wiki/JAYWALK "wikilink")）
-  - GISHOの会いたくて大滝（GISHO：[PENICILLIN](https://ja.wikipedia.org/wiki/PENICILLIN "wikilink")）- ※「[RADIO-Veep](https://ja.wikipedia.org/wiki/RADIO-Veep "wikilink")」内の1コーナーとして放送
+  - GISHOの会いたくて大滝（GISHO：[PENICILLIN](../Page/PENICILLIN.md "wikilink")）- ※「[RADIO-Veep](https://ja.wikipedia.org/wiki/RADIO-Veep "wikilink")」内の1コーナーとして放送
   - [CYBER NET CITY-FULLMETAL MIX-](https://ja.wikipedia.org/wiki/CYBER_NET_CITY-FULLMETAL_MIX- "wikilink")（[HISASHI](../Page/HISASHI.md "wikilink")：[GLAY](../Page/GLAY.md "wikilink")）
-  - [BRAIN TRIP NIGHT](https://ja.wikipedia.org/wiki/BRAIN_TRIP_NIGHT "wikilink")（[キリト](https://ja.wikipedia.org/wiki/キリト "wikilink")：[Angelo](https://ja.wikipedia.org/wiki/Angelo "wikilink")）
+  - [BRAIN TRIP NIGHT](https://ja.wikipedia.org/wiki/BRAIN_TRIP_NIGHT "wikilink")（[キリト](../Page/キリト.md "wikilink")：[Angelo](../Page/Angelo.md "wikilink")）
   - [ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")メンバー出演番組
       - [Hello\! Project Monday Party](https://ja.wikipedia.org/wiki/Hello!_Project_Monday_Party "wikilink")
-      - [B.B.L.](https://ja.wikipedia.org/wiki/B.B.L. "wikilink") （[美勇伝](https://ja.wikipedia.org/wiki/美勇伝 "wikilink")）
+      - [B.B.L.](../Page/B.B.L..md "wikilink") （[美勇伝](../Page/美勇伝.md "wikilink")）
       - [COLORFUL PLEASURE](https://ja.wikipedia.org/wiki/COLORFUL_PLEASURE "wikilink")（[メロン記念日](../Page/メロン記念日.md "wikilink")）
       - [Hello\! Project Night](https://ja.wikipedia.org/wiki/Hello!_Project_Night "wikilink")（ハロー\!プロジェクトメンバーが出演）
-          - [CUTIE PARTY](https://ja.wikipedia.org/wiki/CUTIE_PARTY "wikilink")（[梅田えりか](../Page/梅田えりか.md "wikilink")・[矢島舞美](../Page/矢島舞美.md "wikilink")：[℃-ute](https://ja.wikipedia.org/wiki/℃-ute "wikilink")）
-          - [GAKI・KAME](https://ja.wikipedia.org/wiki/GAKI・KAME "wikilink")（[新垣里沙](../Page/新垣里沙.md "wikilink")・[亀井絵里](../Page/亀井絵里.md "wikilink")：[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")）
-  - [ジャニーズ関連](https://ja.wikipedia.org/wiki/ジャニーズ事務所 "wikilink")
-      - [SHO BEAT](https://ja.wikipedia.org/wiki/SHO_BEAT "wikilink")（[櫻井翔](https://ja.wikipedia.org/wiki/櫻井翔 "wikilink")：[嵐](https://ja.wikipedia.org/wiki/嵐_\(グループ\) "wikilink")）
+          - [CUTIE PARTY](../Page/CUTIE_PARTY.md "wikilink")（[梅田えりか](../Page/梅田えりか.md "wikilink")・[矢島舞美](../Page/矢島舞美.md "wikilink")：[℃-ute](https://ja.wikipedia.org/wiki/℃-ute "wikilink")）
+          - [GAKI・KAME](../Page/GAKI・KAME.md "wikilink")（[新垣里沙](../Page/新垣里沙.md "wikilink")・[亀井絵里](../Page/亀井絵里.md "wikilink")：[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")）
+  - [ジャニーズ関連](../Page/ジャニーズ事務所.md "wikilink")
+      - [SHO BEAT](https://ja.wikipedia.org/wiki/SHO_BEAT "wikilink")（[櫻井翔](https://ja.wikipedia.org/wiki/櫻井翔 "wikilink")：[嵐](../Page/嵐_\(グループ\).md "wikilink")）
       - [SHIGET TOGETHER](https://ja.wikipedia.org/wiki/SHIGET_TOGETHER "wikilink")（[加藤成亮](https://ja.wikipedia.org/wiki/加藤成亮 "wikilink")：[NEWS](https://ja.wikipedia.org/wiki/NEWS_\(ジャニーズ\) "wikilink")）
       - [TSUYOSHI'S RADIO LOVE-DHA\!](https://ja.wikipedia.org/wiki/TSUYOSHI'S_RADIO_LOVE-DHA! "wikilink")（[244 ENDLI-x（堂本剛）](../Page/堂本剛.md "wikilink")：[KinKi Kids](../Page/KinKi_Kids.md "wikilink")）
   - [MEGUMI-X](https://ja.wikipedia.org/wiki/MEGUMI-X "wikilink")（[MEGUMI](https://ja.wikipedia.org/wiki/MEGUMI "wikilink")）
-  - [〜DJ KOO PRESENTS〜 BEAT GOES ON](https://ja.wikipedia.org/wiki/〜DJ_KOO_PRESENTS〜_BEAT_GOES_ON "wikilink")（[DJ KOO](https://ja.wikipedia.org/wiki/DJ_KOO "wikilink")）　
+  - [〜DJ KOO PRESENTS〜 BEAT GOES ON](https://ja.wikipedia.org/wiki/〜DJ_KOO_PRESENTS〜_BEAT_GOES_ON "wikilink")（[DJ KOO](../Page/DJ_KOO.md "wikilink")）　
   - [FROM BACK STAGE](https://ja.wikipedia.org/wiki/FROM_BACK_STAGE "wikilink")（[Qwai](https://ja.wikipedia.org/wiki/Qwai "wikilink")）
   - [MANO-DELI](https://ja.wikipedia.org/wiki/MANO-DELI "wikilink")（真野恵里菜）
-  - [STEP BY STEP](https://ja.wikipedia.org/wiki/STEP_BY_STEP "wikilink")（[林田健司](https://ja.wikipedia.org/wiki/林田健司 "wikilink")）
-  - [MUTUAL LOVE](https://ja.wikipedia.org/wiki/MUTUAL_LOVE "wikilink")（[下川みくに](https://ja.wikipedia.org/wiki/下川みくに "wikilink")）
+  - [STEP BY STEP](https://ja.wikipedia.org/wiki/STEP_BY_STEP "wikilink")（[林田健司](../Page/林田健司.md "wikilink")）
+  - [MUTUAL LOVE](https://ja.wikipedia.org/wiki/MUTUAL_LOVE "wikilink")（[下川みくに](../Page/下川みくに.md "wikilink")）
 
 ほか多数
 
@@ -143,7 +143,7 @@ FM-FUJIはアーティスト番組の充実を図るべく[1998年](https://ja.w
 ## 関連項目
 
   - [エフエム富士](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")
-  - [1998年の音楽](https://ja.wikipedia.org/wiki/1998年の音楽 "wikilink")
+  - [1998年の音楽](../Page/1998年の音楽.md "wikilink")
 
 [Category:FM-FUJIの番組](https://ja.wikipedia.org/wiki/Category:FM-FUJIの番組 "wikilink") [Category:ラジオ放送枠](https://ja.wikipedia.org/wiki/Category:ラジオ放送枠 "wikilink") [Category:独立系FMラジオの音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:独立系FMラジオの音楽番組の歴史 "wikilink") [Category:1998年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1998年のラジオ番組_\(日本\) "wikilink")
 

@@ -14,7 +14,7 @@
 
 ## archの動作
 
-archは[CVSや](../Page/Concurrent_Versions_System.md "wikilink")[Subversionと同様にバージョンを管理する場所](../Page/Apache_Subversion.md "wikilink")（リポジトリ）を持ち、それをアーカイブと呼ぶが、CVSやSubversionと異なり、集中させる必要がない。必要であれば、他人のアーカイブを分岐させた[ローカル](https://ja.wikipedia.org/wiki/ローカル "wikilink")のアーカイブを作成し、開発に利用することができる。後になって、分岐したアーカイブでの成果を取り込む（[マージ](https://ja.wikipedia.org/wiki/マージ "wikilink")）必要があれば、それを行うための補助機能が用意されている。
+archは[CVSや](../Page/Concurrent_Versions_System.md "wikilink")[Subversionと同様にバージョンを管理する場所](../Page/Apache_Subversion.md "wikilink")（リポジトリ）を持ち、それをアーカイブと呼ぶが、CVSやSubversionと異なり、集中させる必要がない。必要であれば、他人のアーカイブを分岐させた[ローカル](../Page/ローカル.md "wikilink")のアーカイブを作成し、開発に利用することができる。後になって、分岐したアーカイブでの成果を取り込む（[マージ](../Page/マージ.md "wikilink")）必要があれば、それを行うための補助機能が用意されている。
 
 ## archでの主な操作
 

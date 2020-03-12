@@ -5,9 +5,9 @@
 
 ## 来歴
 
-前身バンドとなる[BODYがイベントを除き唯一のライブとなる](https://ja.wikipedia.org/wiki/BODY_\(バンド\) "wikilink")1994年5月14日、[日本武道館](https://ja.wikipedia.org/wiki/日本武道館 "wikilink")公演の2か月後に突如解散。その後、Bodyの主要メンバーであった**瀧川一郎**と**菊地哲**が、元[ZI:KILL](https://ja.wikipedia.org/wiki/ZI:KILL "wikilink")の**飯田成一**を加えて1994年7月結成したバンド、それが**CRAZE**である。
+前身バンドとなる[BODYがイベントを除き唯一のライブとなる](../Page/BODY_\(バンド\).md "wikilink")1994年5月14日、[日本武道館](../Page/日本武道館.md "wikilink")公演の2か月後に突如解散。その後、Bodyの主要メンバーであった**瀧川一郎**と**菊地哲**が、元[ZI:KILL](../Page/ZI:KILL.md "wikilink")の**飯田成一**を加えて1994年7月結成したバンド、それが**CRAZE**である。
 
-そこから空席のボーカリスト探しが始まるが、藤崎賢一は[JUSTY-NASTY](https://ja.wikipedia.org/wiki/JUSTY-NASTY "wikilink")としての活動があり参加出来ず、後にCRAZE最後のボーカリストを担当する事になるTUSK（[板谷祐](https://ja.wikipedia.org/wiki/板谷祐 "wikilink")）に声をかけるも、その当時ZI:KILLの解散直後だったこともあり、精神的疲労を原因に加入にはいたらず、伊藤可久や濱口正勝に声をかけるも、リハーサルや単発のライブイベント出演のみで正式加入には至らなかった。そこへ1995年に[JUSTY-NASTY](https://ja.wikipedia.org/wiki/JUSTY-NASTY "wikilink")を解散した**藤崎賢一**が加入意思を表明。デビュー時のラインナップが揃った。
+そこから空席のボーカリスト探しが始まるが、藤崎賢一は[JUSTY-NASTY](../Page/JUSTY-NASTY.md "wikilink")としての活動があり参加出来ず、後にCRAZE最後のボーカリストを担当する事になるTUSK（[板谷祐](https://ja.wikipedia.org/wiki/板谷祐 "wikilink")）に声をかけるも、その当時ZI:KILLの解散直後だったこともあり、精神的疲労を原因に加入にはいたらず、伊藤可久や濱口正勝に声をかけるも、リハーサルや単発のライブイベント出演のみで正式加入には至らなかった。そこへ1995年に[JUSTY-NASTY](../Page/JUSTY-NASTY.md "wikilink")を解散した**藤崎賢一**が加入意思を表明。デビュー時のラインナップが揃った。
 
 藤崎賢一が加入した後、3月より「COUNTDOWN TO FREEDOM」「BEAT CRAZE act.1」合間にレコーディング＆写真撮影を挟んだ後、「BEAT CRAZE act.2」と精力的にツアーを行い、存在をアピールして行く。 そして同年9月6日にシングル、「NAKED BLUE」でキングからメジャーデビュー。9月21日に1stアルバム「BE CRAZY」リリース。 リリース後には、ツアー「BE CRAZY 95'」、シークレット公演を含む2DAYSライヴを行う。
 
@@ -19,24 +19,24 @@
 
 2005年8月、板谷が突如の脱退表明。歴代ボーカリストの中では最長の在籍期間だった。以降のスケジュール、発売予定だったオリジナルアルバムは白紙に戻される。
 
-ボーカリストを欠いたCRAZEは、3人体制のままノンボーカルによる演奏のみで2006年1月9日の[SHIBUYA-AX](https://ja.wikipedia.org/wiki/SHIBUYA-AX "wikilink")での公演をもって解散した。
+ボーカリストを欠いたCRAZEは、3人体制のままノンボーカルによる演奏のみで2006年1月9日の[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")での公演をもって解散した。
 
 ## メンバー
 
 ### 解散時のメンバー
 
-  - [瀧川一郎](https://ja.wikipedia.org/wiki/瀧川一郎 "wikilink")（Guitar）1968年1月5日生、[D'ERLANGER](https://ja.wikipedia.org/wiki/D'ERLANGER "wikilink")（CIPHER名義）、元[Body](https://ja.wikipedia.org/wiki/BODY_\(バンド\) "wikilink")
-  - [飯田成一](https://ja.wikipedia.org/wiki/飯田成一 "wikilink")（Bass）1968年11月6日生、[vez](https://ja.wikipedia.org/wiki/vez "wikilink")、Daisy＊glitteR、元[ZI:KILL](https://ja.wikipedia.org/wiki/ZI:KILL "wikilink")
-  - [菊地哲](https://ja.wikipedia.org/wiki/菊地哲 "wikilink")（Drums）1969年2月22日生、D'ERLANGER（Tetsu名義）、元ZI:KILL（TETSU名義）、元Body
+  - [瀧川一郎](../Page/瀧川一郎.md "wikilink")（Guitar）1968年1月5日生、[D'ERLANGER](../Page/D'ERLANGER.md "wikilink")（CIPHER名義）、元[Body](../Page/BODY_\(バンド\).md "wikilink")
+  - [飯田成一](https://ja.wikipedia.org/wiki/飯田成一 "wikilink")（Bass）1968年11月6日生、[vez](https://ja.wikipedia.org/wiki/vez "wikilink")、Daisy＊glitteR、元[ZI:KILL](../Page/ZI:KILL.md "wikilink")
+  - [菊地哲](../Page/菊地哲.md "wikilink")（Drums）1969年2月22日生、D'ERLANGER（Tetsu名義）、元ZI:KILL（TETSU名義）、元Body
 
 ### 過去に所属したボーカリスト
 
-  - 伊藤可久 - リハーサルのみ。現在はギタリストとして[吉川晃司](https://ja.wikipedia.org/wiki/吉川晃司 "wikilink")のサポート等で活動中。
+  - 伊藤可久 - リハーサルのみ。現在はギタリストとして[吉川晃司](../Page/吉川晃司.md "wikilink")のサポート等で活動中。
   - 濱口正勝 - リハーサルから結成ライブまで。藤崎賢一加入に伴い脱退。元TOY BOYS、RAY-GUNS（浜口祐夢名義）
-  - [藤崎賢一](https://ja.wikipedia.org/wiki/藤崎賢一 "wikilink") - 1997年12月脱退。Bordeaux、元LIZARD'S TAIL、元6six、現[JUSTY-NASTY](https://ja.wikipedia.org/wiki/JUSTY-NASTY "wikilink")
-  - [緒方豊和](https://ja.wikipedia.org/wiki/緒方豊和 "wikilink") - 1999年7月脱退。tubTRaCK、元ASH、元MAJESTY
-  - [鈴木慎一郎](https://ja.wikipedia.org/wiki/鈴木慎一郎 "wikilink") - 2000年6月脱退。 BLOOD、CHAIN OF THE PAIN、 LOVE FIXER、元DEAL
-  - [板谷祐](https://ja.wikipedia.org/wiki/板谷祐 "wikilink") - 2005年8月脱退。新宿心音会 板谷祐、[THE SLUT BANKS](https://ja.wikipedia.org/wiki/THE_SLUT_BANKS "wikilink")、元[ZI:KILL](https://ja.wikipedia.org/wiki/ZI:KILL "wikilink")（TUSK名義）
+  - [藤崎賢一](../Page/藤崎賢一.md "wikilink") - 1997年12月脱退。Bordeaux、元LIZARD'S TAIL、元6six、現[JUSTY-NASTY](../Page/JUSTY-NASTY.md "wikilink")
+  - [緒方豊和](../Page/緒方豊和.md "wikilink") - 1999年7月脱退。tubTRaCK、元ASH、元MAJESTY
+  - [鈴木慎一郎](../Page/鈴木慎一郎.md "wikilink") - 2000年6月脱退。 BLOOD、CHAIN OF THE PAIN、 LOVE FIXER、元DEAL
+  - [板谷祐](https://ja.wikipedia.org/wiki/板谷祐 "wikilink") - 2005年8月脱退。新宿心音会 板谷祐、[THE SLUT BANKS](../Page/THE_SLUT_BANKS.md "wikilink")、元[ZI:KILL](../Page/ZI:KILL.md "wikilink")（TUSK名義）
 
 ## ディスコグラフィ
 
@@ -66,7 +66,7 @@
 <li>The unclouded day</li>
 </ol></td>
 <td><p><strong>BE CRAZY</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/藤崎賢一" title="wikilink">藤崎賢一</a></p></td>
+<td><p><a href="../Page/藤崎賢一.md" title="wikilink">藤崎賢一</a></p></td>
 <td><p>ANB「Jリーグ A GO GO!」テーマ曲<br />
 オリコン最高10位</p></td>
 </tr>
@@ -121,7 +121,7 @@
 <li>言葉よりも</li>
 </ol></td>
 <td><p><strong>ZERO</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/緒方豊和" title="wikilink">緒方豊和</a></p></td>
+<td><p><a href="../Page/緒方豊和.md" title="wikilink">緒方豊和</a></p></td>
 <td><p>CX「来来圏」オープニングテーマ<br />
 オリコン最高50位</p></td>
 </tr>
@@ -530,7 +530,7 @@
 </ol></td>
 <td><p>緒方豊和</p></td>
 <td><p>緒方豊和加入後、初のアルバム。 元々は藤崎ボーカルによりリリース予定だった為、藤崎ボーカルによる音源が存在している楽曲もある。</p>
-<p><a href="https://ja.wikipedia.org/wiki/テイチクエンタテインメント" title="wikilink">テイチクエンタテインメント</a>移籍第一弾アルバム</p></td>
+<p><a href="../Page/テイチクエンタテインメント.md" title="wikilink">テイチクエンタテインメント</a>移籍第一弾アルバム</p></td>
 </tr>
 <tr class="even">
 <td><p>2007年8月22日</p></td>
@@ -602,9 +602,9 @@
 </div>
 </div></li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/鈴木慎一郎" title="wikilink">鈴木慎一郎</a></p></td>
+<td><p><a href="../Page/鈴木慎一郎.md" title="wikilink">鈴木慎一郎</a></p></td>
 <td><p>鈴木慎一郎唯一の作品</p>
-<p><a href="https://ja.wikipedia.org/wiki/徳間ジャパンコミュニケーションズ" title="wikilink">徳間ジャパン移籍第一弾アルバム</a></p></td>
+<p><a href="../Page/徳間ジャパンコミュニケーションズ.md" title="wikilink">徳間ジャパン移籍第一弾アルバム</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2007年8月22日</p></td>
@@ -932,9 +932,9 @@
 </ol>
 </div>
 </div></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/藤崎賢一" title="wikilink">藤崎賢一</a></p>
-<p><a href="https://ja.wikipedia.org/wiki/緒方豊和" title="wikilink">緒方豊和</a></p>
-<p><a href="https://ja.wikipedia.org/wiki/鈴木慎一郎" title="wikilink">鈴木慎一郎</a></p>
+<td><p><a href="../Page/藤崎賢一.md" title="wikilink">藤崎賢一</a></p>
+<p><a href="../Page/緒方豊和.md" title="wikilink">緒方豊和</a></p>
+<p><a href="../Page/鈴木慎一郎.md" title="wikilink">鈴木慎一郎</a></p>
 <p><a href="https://ja.wikipedia.org/wiki/板谷祐" title="wikilink">板谷祐</a></p></td>
 <td><p>デビューシングル「NAKED BLUE」から「THANK YOU MY FRIEND」までのシングル曲を中心に収録したオールタイムベストアルバム。 シングル曲はCRZ名義の「アヂト」と後発の「NEW SONG」を除き全曲収録。</p>
 <p>鈴木慎一郎時代にはシングルリリースが無い為「I don't like BACKSTREETBOYS」を収録。<br />
@@ -1092,13 +1092,13 @@
 
 ## ミュージックビデオ
 
-|                                                     |                                                                                                                                                              |
-| --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **監督**                                              | **曲名**                                                                                                                                                       |
-| 後藤新吾                                                | 「baby punks 2000」「交錯」                                                                                                                                        |
-| [前嶋輝](https://ja.wikipedia.org/wiki/前嶋輝 "wikilink") | 「TRUE HEART」「すばらしき明日へ」                                                                                                                                       |
-| 前畑貴文                                                | 「ALONE」                                                                                                                                                      |
-| 不明                                                  | 「BEAT SO LONELY, ALL NIGHT LONG」「I don't like BACKSTREETBOYS」「hearts」「NAKED BLUE」「RISKY」「TO THE NIGHT」「to me, to you」「傷」「少年のままで」「I LOVE YOU（SECRET VERSION）」 |
+|                                  |                                                                                                                                                              |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **監督**                           | **曲名**                                                                                                                                                       |
+| 後藤新吾                             | 「baby punks 2000」「交錯」                                                                                                                                        |
+| [前嶋輝](../Page/前嶋輝.md "wikilink") | 「TRUE HEART」「すばらしき明日へ」                                                                                                                                       |
+| 前畑貴文                             | 「ALONE」                                                                                                                                                      |
+| 不明                               | 「BEAT SO LONELY, ALL NIGHT LONG」「I don't like BACKSTREETBOYS」「hearts」「NAKED BLUE」「RISKY」「TO THE NIGHT」「to me, to you」「傷」「少年のままで」「I LOVE YOU（SECRET VERSION）」 |
 
 ## バンドスコア
 

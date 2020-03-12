@@ -1,20 +1,20 @@
 > この記事は[PPPoE](https://ja.wikipedia.org/wiki/PPPoE)から翻訳されています。
 
 
-|                                        |                                                                         |                                                       |                                                       |   |                                                 |   |
-| -------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- | - | ----------------------------------------------- | - |
-| *アプリケーション層*                            | [FTP](../Page/File_Transfer_Protocol.md "wikilink")                     | [SMTP](https://ja.wikipedia.org/wiki/SMTP "wikilink") | [HTTP](https://ja.wikipedia.org/wiki/HTTP "wikilink") | … | [DNS](../Page/Domain_Name_System.md "wikilink") | … |
-| *トランスポート層*                             | [TCP](../Page/Transmission_Control_Protocol.md "wikilink")              | [UDP](../Page/User_Datagram_Protocol.md "wikilink")   |                                                       |   |                                                 |   |
-| *インターネット層*                             | [IPv4](https://ja.wikipedia.org/wiki/IPv4 "wikilink")                   | [IPv6](https://ja.wikipedia.org/wiki/IPv6 "wikilink") |                                                       |   |                                                 |   |
-| **リンク層**                               | [PPP](https://ja.wikipedia.org/wiki/Point-to-Point_Protocol "wikilink") |                                                       |                                                       |   |                                                 |   |
-| **PPPoE**                              |                                                                         |                                                       |                                                       |   |                                                 |   |
-| [イーサネット](../Page/イーサネット.md "wikilink") |                                                                         |                                                       |                                                       |   |                                                 |   |
+|                                        |                                                            |                                                       |                                                       |   |                                                 |   |
+| -------------------------------------- | ---------------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- | - | ----------------------------------------------- | - |
+| *アプリケーション層*                            | [FTP](../Page/File_Transfer_Protocol.md "wikilink")        | [SMTP](https://ja.wikipedia.org/wiki/SMTP "wikilink") | [HTTP](https://ja.wikipedia.org/wiki/HTTP "wikilink") | … | [DNS](../Page/Domain_Name_System.md "wikilink") | … |
+| *トランスポート層*                             | [TCP](../Page/Transmission_Control_Protocol.md "wikilink") | [UDP](../Page/User_Datagram_Protocol.md "wikilink")   |                                                       |   |                                                 |   |
+| *インターネット層*                             | [IPv4](../Page/IPv4.md "wikilink")                         | [IPv6](https://ja.wikipedia.org/wiki/IPv6 "wikilink") |                                                       |   |                                                 |   |
+| **リンク層**                               | [PPP](../Page/Point-to-Point_Protocol.md "wikilink")       |                                                       |                                                       |   |                                                 |   |
+| **PPPoE**                              |                                                            |                                                       |                                                       |   |                                                 |   |
+| [イーサネット](../Page/イーサネット.md "wikilink") |                                                            |                                                       |                                                       |   |                                                 |   |
 
-**PPPoEとTCP/IPの[プロトコルスタック](https://ja.wikipedia.org/wiki/プロトコルスタック "wikilink")**
+**PPPoEとTCP/IPの[プロトコルスタック](../Page/プロトコルスタック.md "wikilink")**
 
-**PPPoE**（**Point-to-Point Protocol over Ethernet**）は、[イーサネットフレーム](https://ja.wikipedia.org/wiki/イーサネットフレーム "wikilink")上に[PPPフレームを](https://ja.wikipedia.org/wiki/Point-to-Point_Protocol "wikilink")[カプセル化するための](https://ja.wikipedia.org/wiki/カプセル化_\(通信\) "wikilink")[通信プロトコル](../Page/通信プロトコル.md "wikilink")である。RFC 2516によって定義される。主に[DSLや](../Page/デジタル加入者線.md "wikilink")[CATV](../Page/ケーブルテレビ.md "wikilink")、[FTTH](../Page/FTTH.md "wikilink")などでの[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")接続サービスでの[ブリッジ接続用に利用される](../Page/ブリッジ_\(ネットワーク機器\).md "wikilink")。
+**PPPoE**（**Point-to-Point Protocol over Ethernet**）は、[イーサネットフレーム](https://ja.wikipedia.org/wiki/イーサネットフレーム "wikilink")上に[PPPフレームを](../Page/Point-to-Point_Protocol.md "wikilink")[カプセル化するための](https://ja.wikipedia.org/wiki/カプセル化_\(通信\) "wikilink")[通信プロトコル](../Page/通信プロトコル.md "wikilink")である。RFC 2516によって定義される。主に[DSLや](../Page/デジタル加入者線.md "wikilink")[CATV](../Page/ケーブルテレビ.md "wikilink")、[FTTH](../Page/FTTH.md "wikilink")などでの[インターネット](../Page/インターネット.md "wikilink")接続サービスでの[ブリッジ接続用に利用される](../Page/ブリッジ_\(ネットワーク機器\).md "wikilink")。
 
-[イーサネット](../Page/イーサネット.md "wikilink")ではPPPoEを使わなくても、IPパケットを直接扱うことができる。あえてPPPoEを使うのは、PPPが持つユーザ認証などの機能を使うためである。代償として[MTU減少をはじめとする](https://ja.wikipedia.org/wiki/Maximum_Transmission_Unit "wikilink")[オーバーヘッド](https://ja.wikipedia.org/wiki/オーバーヘッド "wikilink")が発生する。
+[イーサネット](../Page/イーサネット.md "wikilink")ではPPPoEを使わなくても、IPパケットを直接扱うことができる。あえてPPPoEを使うのは、PPPが持つユーザ認証などの機能を使うためである。代償として[MTU減少をはじめとする](../Page/Maximum_Transmission_Unit.md "wikilink")[オーバーヘッド](https://ja.wikipedia.org/wiki/オーバーヘッド "wikilink")が発生する。
 
 2000年頃、[ISP](https://ja.wikipedia.org/wiki/ISP "wikilink")の[IPネットワーク](https://ja.wikipedia.org/wiki/IPネットワーク "wikilink")へのDSL接続を介してパケットをトンネリングするための技術として使われだした。2005年のネットワークの技術書には、「ほとんどのDSLプロバイダは、[認証](../Page/認証.md "wikilink")・[暗号化](https://ja.wikipedia.org/wiki/暗号化 "wikilink")・[圧縮](https://ja.wikipedia.org/wiki/圧縮 "wikilink")のためにPPPoEを使用する」と書かれている\[1\]。一般的なPPPoEの利用では、ユーザー名とパスワードでユーザーを認証するために[PAPや](https://ja.wikipedia.org/wiki/Password_Authentication_Protocol "wikilink")[CHAPが使用される](https://ja.wikipedia.org/wiki/Challenge-Handshake_Authentication_Protocol "wikilink")\[2\]。
 
@@ -38,7 +38,7 @@ PPPoEは、以下の2つのステージを持つ。
 
 ## PPPoEディスカバリ（PPPoED）
 
-伝統的なPPPは[ピア・ツー・ピアである](../Page/Peer_to_Peer.md "wikilink")。それに対しPPPoEは、1つの物理的接続を介して複数のホストがサービスプロバイダに接続できることから、本質的に[クライアントサーバモデル](https://ja.wikipedia.org/wiki/クライアントサーバモデル "wikilink")である。
+伝統的なPPPは[ピア・ツー・ピアである](../Page/Peer_to_Peer.md "wikilink")。それに対しPPPoEは、1つの物理的接続を介して複数のホストがサービスプロバイダに接続できることから、本質的に[クライアントサーバモデル](../Page/クライアントサーバモデル.md "wikilink")である。
 
 PPPoEディスカバリは、クライアントの働きをするホストコンピュータとサーバの働きをするISPのアクセス・コンセントレータの間で、以下の4つの段階を踏む。最後のPADTは、既存のセッションを閉じるために使用される。
 
@@ -113,14 +113,14 @@ PADSパケットにより、PPPoEのセッションIDをクライアントに通
 
 ## 関連項目
 
-  - [Point-to-Point Protocol](https://ja.wikipedia.org/wiki/Point-to-Point_Protocol "wikilink") (PPP)
+  - [Point-to-Point Protocol](../Page/Point-to-Point_Protocol.md "wikilink") (PPP)
   - [Point-to-Point Tunneling Protocol](https://ja.wikipedia.org/wiki/Point-to-Point_Tunneling_Protocol "wikilink")
   - [pppd](https://ja.wikipedia.org/wiki/pppd "wikilink")
 
 ## 外部リンク
 
   - RFC 2516 - A Method for Transmitting PPP Over Ethernet(PPPoE)
-  - RFC 3817 - [Layer 2 Tunneling Protocol](https://ja.wikipedia.org/wiki/Layer_2_Tunneling_Protocol "wikilink")(L2TP) Active Discovery Relay for PPP over Ethernet(PPPoE)
+  - RFC 3817 - [Layer 2 Tunneling Protocol](../Page/Layer_2_Tunneling_Protocol.md "wikilink")(L2TP) Active Discovery Relay for PPP over Ethernet(PPPoE)
   - RFC 4638 - Accommodating a Maximum Transit Unit/Maximum Receive Unit(MTU/MRU) Greater Than 1492 in the Point-to-Point Protocol over Ethernet(PPPoE)
   - RFC 4938 - PPP Over Ethernet(PPPoE) Extensions for Credit Flow and Link Metrics
   - [US Patent 6891825](http://www.google.com/patents/US6891825) Method and system of providing multi-user access to a packet switched network

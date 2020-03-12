@@ -1,11 +1,11 @@
 > この記事は[Q](https://ja.wikipedia.org/wiki/Q)から翻訳されています。
 
 
-『**カルトQ**』（カルトキュー）は、[フジテレビ系列局で放送された](../Page/フジネットワーク.md "wikilink")[フジテレビ製作の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")である。製作局のフジテレビでは[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[10月22日](../Page/10月22日.md "wikilink")から[1993年](../Page/1993年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで放送。
+『**カルトQ**』（カルトキュー）は、[フジテレビ系列局で放送された](../Page/フジネットワーク.md "wikilink")[フジテレビ製作の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")である。製作局のフジテレビでは[1991年](../Page/1991年.md "wikilink")[10月22日](../Page/10月22日.md "wikilink")から[1993年](../Page/1993年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで放送。
 
 ## 概要
 
-既存のクイズ番組とは一線を画し、特定ジャンルに徹底的に特化するマニアックなクイズ番組として、1991年に登場。クイズ番組としては珍しく深夜に放送された、「真夜中の狂信的（カルト）クイズ」。他にも『[カノッサの屈辱](../Page/カノッサの屈辱_\(テレビ番組\).md "wikilink")』（1990年）など、個性的で独創的な番組を次々と送り出した事で知られる、1990年代前半のフジテレビの[深夜番組](../Page/深夜番組.md "wikilink")[黄金期](https://ja.wikipedia.org/wiki/黄金時代 "wikilink")（いわゆる[JOCX-TV2](https://ja.wikipedia.org/wiki/JOCX-TV2 "wikilink")）を代表する番組であり、1992年10月には[プライムタイム](https://ja.wikipedia.org/wiki/プライムタイム "wikilink")枠に昇格。本放送の終了後にはフジテレビ739（現・[フジテレビONE](https://ja.wikipedia.org/wiki/フジテレビONE "wikilink")）で再放送されていた。
+既存のクイズ番組とは一線を画し、特定ジャンルに徹底的に特化するマニアックなクイズ番組として、1991年に登場。クイズ番組としては珍しく深夜に放送された、「真夜中の狂信的（カルト）クイズ」。他にも『[カノッサの屈辱](../Page/カノッサの屈辱_\(テレビ番組\).md "wikilink")』（1990年）など、個性的で独創的な番組を次々と送り出した事で知られる、1990年代前半のフジテレビの[深夜番組](../Page/深夜番組.md "wikilink")[黄金期](../Page/黄金時代.md "wikilink")（いわゆる[JOCX-TV2](../Page/JOCX-TV2.md "wikilink")）を代表する番組であり、1992年10月には[プライムタイム](../Page/プライムタイム.md "wikilink")枠に昇格。本放送の終了後にはフジテレビ739（現・[フジテレビONE](https://ja.wikipedia.org/wiki/フジテレビONE "wikilink")）で再放送されていた。
 
 第1回の「[ブラックミュージック](../Page/ブラックミュージック.md "wikilink")」を皮切りに、[サブカルチャー](../Page/サブカルチャー.md "wikilink")（[オタク文化](../Page/おたく.md "wikilink")）を題材にしたテーマが多く採り上げられ、番組で扱われたテーマは50以上に上った（後述）。
 
@@ -29,11 +29,11 @@
 
   -
     予選問題の例 「ジャパニーズポップス」（難易度：超。正解率：22%）
-    （Q）[ユニコーンのバンド名は何から取ったもの](https://ja.wikipedia.org/wiki/ユニコーン_\(バンド\) "wikilink")？ - （A）[T・レックス](https://ja.wikipedia.org/wiki/T・レックス "wikilink")のアルバムタイトル
+    （Q）[ユニコーンのバンド名は何から取ったもの](https://ja.wikipedia.org/wiki/ユニコーン_\(バンド\) "wikilink")？ - （A）[T・レックス](../Page/T・レックス.md "wikilink")のアルバムタイトル
 
 ### 本選
 
-予選を通過した上位5名がスタジオに集結、**カルトキング**（女性なら**カルトクイーン**）を目指して戦う。優勝者には賞品ならびに[トロフィー](https://ja.wikipedia.org/wiki/トロフィー "wikilink")が与えられる。出題される問題は全て早押しで、1問につき5人全員が不正解するまで解答権があった。この結果、当時芸能人系クイズ番組で頻繁にあった早押しボタンの連打が素人系クイズ番組で見られるというケースが目立った。芸能人も例外ではなく一般参加者同様予選を通過しての出場となっている。
+予選を通過した上位5名がスタジオに集結、**カルトキング**（女性なら**カルトクイーン**）を目指して戦う。優勝者には賞品ならびに[トロフィー](../Page/トロフィー.md "wikilink")が与えられる。出題される問題は全て早押しで、1問につき5人全員が不正解するまで解答権があった。この結果、当時芸能人系クイズ番組で頻繁にあった早押しボタンの連打が素人系クイズ番組で見られるというケースが目立った。芸能人も例外ではなく一般参加者同様予選を通過しての出場となっている。
 
   - 初級カルトクイズ
     オープニング問題、全5問。5問終了後予選問題の一部と予選平均点、出場者の紹介が入る。出場者は画面向かって右側の解答者から紹介される。
@@ -151,7 +151,7 @@
 <td><p><small><sup><a href="https://ja.wikipedia.org/wiki/大木知之" title="wikilink">大木知之</a>が出場</sup></small></p></td>
 </tr>
 <tr class="even">
-<td><p><small><a href="https://ja.wikipedia.org/wiki/スポ根" title="wikilink">スポ根</a>漫画</small></p></td>
+<td><p><small><a href="../Page/スポ根.md" title="wikilink">スポ根</a>漫画</small></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -186,12 +186,12 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><small><a href="https://ja.wikipedia.org/wiki/デヴィッド・リンチ" title="wikilink">デヴィッド・リンチ</a></small></p></td>
+<td><p><small><a href="../Page/デヴィッド・リンチ.md" title="wikilink">デヴィッド・リンチ</a></small></p></td>
 <td></td>
 <td><p><small><sup>時間帯変更 月曜24:40枠</sup></small></p></td>
 </tr>
 <tr class="even">
-<td><p><small><a href="https://ja.wikipedia.org/wiki/阪神タイガース" title="wikilink">阪神タイガース</a></small></p></td>
+<td><p><small><a href="../Page/阪神タイガース.md" title="wikilink">阪神タイガース</a></small></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -201,12 +201,12 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><small><a href="https://ja.wikipedia.org/wiki/ビートルズ" title="wikilink">ビートルズ</a></small></p></td>
+<td><p><small><a href="../Page/ビートルズ.md" title="wikilink">ビートルズ</a></small></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ウィリアム・S・バロウズ" title="wikilink"><small>S・W・バロウズ</small></a></p></td>
+<td><p><a href="../Page/ウィリアム・S・バロウズ.md" title="wikilink"><small>S・W・バロウズ</small></a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -246,7 +246,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/イヌ" title="wikilink"><small>犬</small></a></p></td>
+<td><p><a href="../Page/イヌ.md" title="wikilink"><small>犬</small></a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -261,12 +261,12 @@
 <td><p><small><sup>FNSの日平成教育テレビ｢朝錬｣ カルトQスペシャル</sup></small></p></td>
 </tr>
 <tr class="even">
-<td><p><small><a href="https://ja.wikipedia.org/wiki/東京" title="wikilink">東京</a>ドライブ</small></p></td>
+<td><p><small><a href="../Page/東京.md" title="wikilink">東京</a>ドライブ</small></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><small><a href="https://ja.wikipedia.org/wiki/ルアーフィッシング" title="wikilink">ルアーフィッシング</a></small></p></td>
+<td><p><small><a href="../Page/ルアーフィッシング.md" title="wikilink">ルアーフィッシング</a></small></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -283,10 +283,10 @@
 <tr class="even">
 <td><p><small><a href="../Page/ヤクザ映画.md" title="wikilink">ヤクザ映画</a></small></p></td>
 <td></td>
-<td><p><small><sup><a href="https://ja.wikipedia.org/wiki/杉作J太郎" title="wikilink">杉作J太郎</a>が出場</sup></small></p></td>
+<td><p><small><sup><a href="../Page/杉作J太郎.md" title="wikilink">杉作J太郎</a>が出場</sup></small></p></td>
 </tr>
 <tr class="odd">
-<td><p><small><a href="https://ja.wikipedia.org/wiki/アクアリウム" title="wikilink">アクアリウム</a></small></p></td>
+<td><p><small><a href="../Page/アクアリウム.md" title="wikilink">アクアリウム</a></small></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -296,7 +296,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/サタデー・ナイト・ライブ" title="wikilink"><small>サタデーナイト・ライブ・ファミリー</small></a></p></td>
+<td><p><a href="../Page/サタデー・ナイト・ライブ.md" title="wikilink"><small>サタデーナイト・ライブ・ファミリー</small></a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -309,7 +309,7 @@
 <td><p><small>総集編II</small></p></td>
 <td></td>
 <td><p><small><sup>スペシャルIII<br />
-ゲスト:<a href="https://ja.wikipedia.org/wiki/森田芳光" title="wikilink">森田芳光</a></sup></small></p></td>
+ゲスト:<a href="../Page/森田芳光.md" title="wikilink">森田芳光</a></sup></small></p></td>
 </tr>
 <tr class="even">
 <td><p><small><a href="https://ja.wikipedia.org/wiki/東京ディズニーランド" title="wikilink">東京ディズニーランド</a></small></p></td>
@@ -387,7 +387,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ジャニーズ事務所" title="wikilink"><small>ジャニーズ</small></a></p></td>
+<td><p><a href="../Page/ジャニーズ事務所.md" title="wikilink"><small>ジャニーズ</small></a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -405,12 +405,12 @@
 <td><p><small><a href="../Page/プロレス.md" title="wikilink">プロレス</a></small></p></td>
 <td></td>
 <td><p><small><sup><a href="../Page/南原清隆.md" title="wikilink">南原清隆</a>(<a href="../Page/ウッチャンナンチャン.md" title="wikilink">ウッチャンナンチャン</a>)が出場<br />
-他に<a href="https://ja.wikipedia.org/wiki/内村光良" title="wikilink">内村光良</a>(ウッチャンナンチャン)、<a href="../Page/石橋貴明.md" title="wikilink">石橋貴明</a>(<a href="../Page/とんねるず.md" title="wikilink">とんねるず</a>)、<a href="../Page/勝俣州和.md" title="wikilink">勝俣州和</a>、<a href="https://ja.wikipedia.org/wiki/神田利則" title="wikilink">神田利則</a>、<a href="../Page/石原良純.md" title="wikilink">石原良純</a>、<a href="https://ja.wikipedia.org/wiki/不破万作" title="wikilink">不破万作</a>、<a href="../Page/早坂好恵.md" title="wikilink">早坂好恵</a>、<a href="../Page/浅草キッド.md" title="wikilink">浅草キッド</a>(<a href="https://ja.wikipedia.org/wiki/水道橋博士" title="wikilink">水道橋博士</a>・<a href="https://ja.wikipedia.org/wiki/玉袋筋太郎" title="wikilink">玉袋筋太郎</a>)の9名が予選に参加したがいずれも落ちている</sup></small></p></td>
+他に<a href="https://ja.wikipedia.org/wiki/内村光良" title="wikilink">内村光良</a>(ウッチャンナンチャン)、<a href="../Page/石橋貴明.md" title="wikilink">石橋貴明</a>(<a href="../Page/とんねるず.md" title="wikilink">とんねるず</a>)、<a href="../Page/勝俣州和.md" title="wikilink">勝俣州和</a>、<a href="../Page/神田利則.md" title="wikilink">神田利則</a>、<a href="../Page/石原良純.md" title="wikilink">石原良純</a>、<a href="https://ja.wikipedia.org/wiki/不破万作" title="wikilink">不破万作</a>、<a href="../Page/早坂好恵.md" title="wikilink">早坂好恵</a>、<a href="../Page/浅草キッド.md" title="wikilink">浅草キッド</a>(<a href="../Page/水道橋博士.md" title="wikilink">水道橋博士</a>・<a href="../Page/玉袋筋太郎.md" title="wikilink">玉袋筋太郎</a>)の9名が予選に参加したがいずれも落ちている</sup></small></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/イエロー・マジック・オーケストラ.md" title="wikilink"><small>YMO</small></a></p></td>
 <td></td>
-<td><p><small><sup><a href="https://ja.wikipedia.org/wiki/砂原良徳" title="wikilink">砂原良徳</a>(当時<a href="../Page/電気グルーヴ.md" title="wikilink">電気グルーヴ</a>)が優勝</sup></small></p></td>
+<td><p><small><sup><a href="../Page/砂原良徳.md" title="wikilink">砂原良徳</a>(当時<a href="../Page/電気グルーヴ.md" title="wikilink">電気グルーヴ</a>)が優勝</sup></small></p></td>
 </tr>
 <tr class="even">
 <td><p><small>ファッションブランド</small></p></td>
@@ -425,7 +425,7 @@
 <tr class="even">
 <td><p><small>カルトQ特別編 フジテレビの日スペシャル</small></p></td>
 <td></td>
-<td><p><small><sup>出演・<a href="../Page/渡辺正行.md" title="wikilink">渡辺正行</a>、<a href="../Page/森口博子.md" title="wikilink">森口博子</a>、<a href="https://ja.wikipedia.org/wiki/CoCo_(アイドルグループ)" title="wikilink">CoCo</a>、<a href="https://ja.wikipedia.org/wiki/笑福亭笑瓶" title="wikilink">笑福亭笑瓶</a></sup></small></p></td>
+<td><p><small><sup>出演・<a href="../Page/渡辺正行.md" title="wikilink">渡辺正行</a>、<a href="../Page/森口博子.md" title="wikilink">森口博子</a>、<a href="../Page/CoCo_(アイドルグループ).md" title="wikilink">CoCo</a>、<a href="../Page/笑福亭笑瓶.md" title="wikilink">笑福亭笑瓶</a></sup></small></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -447,10 +447,10 @@
   - VE：吉田正美
   - 音声：飯塚昭、首藤弘治
   - VTR：吉本勝弘
-  - 照明：八木原伸治（東京テレビ照明 → [FLT](https://ja.wikipedia.org/wiki/フジライティング・アンド・テクノロジイ "wikilink")）
-  - 技術協力：[八峯テレビ](https://ja.wikipedia.org/wiki/八峯テレビ "wikilink")
+  - 照明：八木原伸治（東京テレビ照明 → [FLT](../Page/フジライティング・アンド・テクノロジイ.md "wikilink")）
+  - 技術協力：[八峯テレビ](../Page/八峯テレビ.md "wikilink")
   - 美術：北林福夫
-  - 美術進行：林潤一、武田方征 → [菊地正人](https://ja.wikipedia.org/wiki/きくちまさと "wikilink")
+  - 美術進行：林潤一、武田方征 → [菊地正人](../Page/きくちまさと.md "wikilink")
   - デザイン：石森慎司
   - 電飾：井野岡利保
   - 大道具（途中から）：田中伸哉
@@ -458,7 +458,7 @@
   - アートフレーム（途中から）：宮本幸二
   - メイク（途中から）：梅沢文子
   - タイトル：山形憲一
-  - 美術協力：[フジアール](https://ja.wikipedia.org/wiki/フジアール "wikilink")
+  - 美術協力：[フジアール](../Page/フジアール.md "wikilink")
   - 音効：長内勇治（[佳夢音](https://ja.wikipedia.org/wiki/佳夢音 "wikilink")）
   - VTR編集：石川弘一（ARTPLAZA1000）→ 村井毅（四谷ビデオスタジオ）
   - MA：菱山和良（ARTPLAZA1000）→ 笹本光一（四谷ビデオスタジオ）
@@ -496,7 +496,7 @@
   - [カルト](../Page/カルト.md "wikilink")
   - [とんねるずのみなさんのおかげです](../Page/とんねるずのみなさんのおかげです.md "wikilink") - 同番組に関するテーマを扱った『[おかげですカルトQ](https://ja.wikipedia.org/wiki/とんねるずのみなさんのおかげですのコーナー一覧#おかげですカルトQ "wikilink")』というコーナーがあった。
   - [超逆境クイズバトル\!\! 99人の壁](https://ja.wikipedia.org/wiki/超逆境クイズバトル!!_99人の壁 "wikilink")- 2017年より放送されているクイズ番組。特定のジャンルに詳しい一般解答者が出場する点で共通。カルトＱ同様牧原アナが出題ナレーションとして出演している。
-  - [謎王](https://ja.wikipedia.org/wiki/謎王 "wikilink")- カルトQが手軽に楽しめる[プレイステーション](https://ja.wikipedia.org/wiki/プレイステーション "wikilink")用ソフト。
+  - [謎王](../Page/謎王.md "wikilink")- カルトQが手軽に楽しめる[プレイステーション](https://ja.wikipedia.org/wiki/プレイステーション "wikilink")用ソフト。
 
 ## 外部リンク
 

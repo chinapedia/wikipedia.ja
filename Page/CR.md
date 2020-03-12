@@ -8,42 +8,42 @@
 ### 一般名詞
 
   - CR (complete remission [完全寛解](https://ja.wikipedia.org/wiki/完全寛解 "wikilink")) - [化学療法などがん治療の効果判定のひとつ](https://ja.wikipedia.org/wiki/化学療法_\(悪性腫瘍\) "wikilink")。画像診断等で腫瘍消失の状態が4週間以上続いた場合（白血病は化学療法後に造血能回復した状態で、末梢血中に幼弱細胞（ブラスト: blast）が確認できず、骨髄で5%未満）をいう。
-  - [CRガス](https://ja.wikipedia.org/wiki/CRガス "wikilink") - [催涙ガス](https://ja.wikipedia.org/wiki/催涙ガス "wikilink")
-  - [CR機](https://ja.wikipedia.org/wiki/CR機 "wikilink") (card reader machine) - カード読取装置を備えた[プリペイドカード](../Page/プリペイドカード.md "wikilink")専用の[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")台
+  - [CRガス](../Page/CRガス.md "wikilink") - [催涙ガス](https://ja.wikipedia.org/wiki/催涙ガス "wikilink")
+  - [CR機](../Page/CR機.md "wikilink") (card reader machine) - カード読取装置を備えた[プリペイドカード](../Page/プリペイドカード.md "wikilink")専用の[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")台
   - [クロロプレンゴム](https://ja.wikipedia.org/wiki/クロロプレンゴム "wikilink") (Chloroprene Rubber)
-  - [コイン形リチウム電池](https://ja.wikipedia.org/wiki/コイン形リチウム電池 "wikilink")の[IEC 60086記号](https://ja.wikipedia.org/wiki/IEC_60086 "wikilink")
-  - [コミュニティー・リレーションズ](https://ja.wikipedia.org/wiki/コミュニティー・リレーションズ "wikilink") (community relations)
-  - [コンデンサ](https://ja.wikipedia.org/wiki/コンデンサ "wikilink")と[抵抗器](../Page/抵抗器.md "wikilink") (capacitor/condenser and resistor)
+  - [コイン形リチウム電池](../Page/コイン形リチウム電池.md "wikilink")の[IEC 60086記号](../Page/IEC_60086.md "wikilink")
+  - [コミュニティー・リレーションズ](../Page/コミュニティー・リレーションズ.md "wikilink") (community relations)
+  - [コンデンサ](../Page/コンデンサ.md "wikilink")と[抵抗器](../Page/抵抗器.md "wikilink") (capacitor/condenser and resistor)
   - [圧縮比](https://ja.wikipedia.org/wiki/圧縮比 "wikilink")（Compression Ratio）
-  - [コンピュータX線撮影](https://ja.wikipedia.org/wiki/コンピュータX線撮影 "wikilink") (computed radiography)
-  - [カード読取装置](https://ja.wikipedia.org/wiki/メモリーカードリーダライタ "wikilink") (card reader)
+  - [コンピュータX線撮影](../Page/コンピュータX線撮影.md "wikilink") (computed radiography)
+  - [カード読取装置](../Page/メモリーカードリーダライタ.md "wikilink") (card reader)
   - [簡易無線](https://ja.wikipedia.org/wiki/簡易無線 "wikilink") (convenience radio) - [無線通信](../Page/無線通信.md "wikilink")の一種
-  - [自転車道](https://ja.wikipedia.org/wiki/自転車道 "wikilink") (cycling road)
-  - [徐放錠](https://ja.wikipedia.org/wiki/徐放錠 "wikilink") (controlled release) - [錠剤](https://ja.wikipedia.org/wiki/錠剤 "wikilink")の一種。[アダラート](https://ja.wikipedia.org/wiki/アダラート "wikilink")CR錠など
+  - [自転車道](../Page/自転車道.md "wikilink") (cycling road)
+  - [徐放錠](https://ja.wikipedia.org/wiki/徐放錠 "wikilink") (controlled release) - [錠剤](../Page/錠剤.md "wikilink")の一種。[アダラート](https://ja.wikipedia.org/wiki/アダラート "wikilink")CR錠など
   - [絶滅寸前](https://ja.wikipedia.org/wiki/絶滅寸前 "wikilink") (critically endangered) - [IUCNレッドリスト](https://ja.wikipedia.org/wiki/IUCNレッドリスト "wikilink")のカテゴリ
   - [認知ロボット工学](https://ja.wikipedia.org/wiki/認知ロボット工学 "wikilink") (cognitive robotics)
-  - 復帰 ([carriage return](https://ja.wikipedia.org/wiki/キャリッジ・リターン "wikilink")) - 印字位置を現在行の先頭に移動するコード。広義の[改行コード](https://ja.wikipedia.org/wiki/改行コード "wikilink")の1つ。[ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink")では0D、[Unicode](../Page/Unicode.md "wikilink")では000D
+  - 復帰 ([carriage return](https://ja.wikipedia.org/wiki/キャリッジ・リターン "wikilink")) - 印字位置を現在行の先頭に移動するコード。広義の[改行コード](../Page/改行コード.md "wikilink")の1つ。[ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink")では0D、[Unicode](../Page/Unicode.md "wikilink")では000D
   - チャイルド・レジスタンス(Child Resistance)機構 - 有害な器具等の誤使用を防止する機構。一例は、[ライター](../Page/ライター.md "wikilink")の項を参照のこと。また、[医薬品](../Page/医薬品.md "wikilink")の容器にも用いられる。
   - 大会記録 (competition record)
   - 変更依頼（[Change Request](https://ja.wikipedia.org/wiki/:en:Change_request "wikilink")）
   - 変更[要件](https://ja.wikipedia.org/wiki/要件 "wikilink")（Change Requirement）
-  - [決算](https://ja.wikipedia.org/wiki/決算 "wikilink")時の[為替レート](../Page/為替レート.md "wikilink") (Current Rate)
+  - [決算](../Page/決算.md "wikilink")時の[為替レート](../Page/為替レート.md "wikilink") (Current Rate)
 
 ### 地名
 
   - [コスタリカ](../Page/コスタリカ.md "wikilink")の[ISO-3166-1](https://ja.wikipedia.org/wiki/ISO-3166-1 "wikilink")[国名コード](../Page/国名コード.md "wikilink")
-  - [クレモナ県](https://ja.wikipedia.org/wiki/クレモナ県 "wikilink")（イタリアの県）の[県名略記号](../Page/イタリア共和国の県名略記号.md "wikilink")・[ISO 3166-2:ITコード](https://ja.wikipedia.org/wiki/ISO_3166-2:IT "wikilink")
+  - [クレモナ県](../Page/クレモナ県.md "wikilink")（イタリアの県）の[県名略記号](../Page/イタリア共和国の県名略記号.md "wikilink")・[ISO 3166-2:ITコード](../Page/ISO_3166-2:IT.md "wikilink")
   - [チェコ共和国](https://ja.wikipedia.org/wiki/チェコ共和国 "wikilink") ()
 
 ### その他の固有名詞
 
-  - [Cage Rage](https://ja.wikipedia.org/wiki/Cage_Rage "wikilink") - [総合格闘技](../Page/総合格闘技.md "wikilink")団体
+  - [Cage Rage](../Page/Cage_Rage.md "wikilink") - [総合格闘技](../Page/総合格闘技.md "wikilink")団体
 
-  - [ホンダ・CR](https://ja.wikipedia.org/wiki/ホンダ・CR "wikilink") - [ホンダの](https://ja.wikipedia.org/wiki/本田技研工業 "wikilink")[2ストロークの](../Page/2ストローク機関.md "wikilink")[モトクロッサー](../Page/モトクロッサー.md "wikilink")（4スト規制法版はCRF）
+  - [ホンダ・CR](../Page/ホンダ・CR.md "wikilink") - [ホンダの](../Page/本田技研工業.md "wikilink")[2ストロークの](../Page/2ストローク機関.md "wikilink")[モトクロッサー](../Page/モトクロッサー.md "wikilink")（4スト規制法版はCRF）
 
   - [ラジオ関西](../Page/ラジオ関西.md "wikilink")（コールサイン：JOCR）
 
-  - [東京地下鉄](https://ja.wikipedia.org/wiki/東京地下鉄 "wikilink")（東京メトロ）における車両の更新工事などを行う施設 (Car Renewal)。[新木場CR](https://ja.wikipedia.org/wiki/新木場車両基地 "wikilink")、[小石川CR](https://ja.wikipedia.org/wiki/小石川車両基地 "wikilink")
+  - [東京地下鉄](https://ja.wikipedia.org/wiki/東京地下鉄 "wikilink")（東京メトロ）における車両の更新工事などを行う施設 (Car Renewal)。[新木場CR](../Page/新木場車両基地.md "wikilink")、[小石川CR](../Page/小石川車両基地.md "wikilink")
 
   - [中国鉄道](https://ja.wikipedia.org/wiki/中国鉄道 "wikilink")(China Railway) - [中国鉄路総公司](https://ja.wikipedia.org/wiki/中国鉄路総公司 "wikilink")(China Railway Corporation)、[中華人民共和国](../Page/中華人民共和国.md "wikilink")における国有企業。
 
@@ -59,14 +59,14 @@
 
 ## cr
 
-  - [クリー語](https://ja.wikipedia.org/wiki/クリー語 "wikilink")の[ISO 639-1言語コード](https://ja.wikipedia.org/wiki/ISO_639 "wikilink")
-  - [.cr](https://ja.wikipedia.org/wiki/.cr "wikilink") - コスタリカの[国別ドメイン](https://ja.wikipedia.org/wiki/国別コードトップレベルドメイン "wikilink")
+  - [クリー語](../Page/クリー語.md "wikilink")の[ISO 639-1言語コード](../Page/ISO_639.md "wikilink")
+  - [.cr](https://ja.wikipedia.org/wiki/.cr "wikilink") - コスタリカの[国別ドメイン](../Page/国別コードトップレベルドメイン.md "wikilink")
 
 ## 略氏のCR.CRに似たもの
 
-  - プロゲーマーチーム[クレイジーラクーン](https://ja.wikipedia.org/wiki/クレイジーラクーン "wikilink")Crazy raccoonの略氏
-  - [プリペイドカード](../Page/プリペイドカード.md "wikilink")に適したパチンコ遊技機[CR機](https://ja.wikipedia.org/wiki/CR機 "wikilink")
-  - [キャリッジリターン](https://ja.wikipedia.org/wiki/キャリッジリターン "wikilink")の専門用語[CR](https://ja.wikipedia.org/wiki/CR "wikilink")
+  - プロゲーマーチーム[クレイジーラクーン](../Page/クレイジーラクーン.md "wikilink")Crazy raccoonの略氏
+  - [プリペイドカード](../Page/プリペイドカード.md "wikilink")に適したパチンコ遊技機[CR機](../Page/CR機.md "wikilink")
+  - [キャリッジリターン](https://ja.wikipedia.org/wiki/キャリッジリターン "wikilink")の専門用語[CR](../Page/CR.md "wikilink")
   - [CR-Z](https://ja.wikipedia.org/wiki/CR-Z "wikilink")自動車会社[ホンダ](https://ja.wikipedia.org/wiki/ホンダ "wikilink")の自動車
   - [コンシューマーレポート](https://ja.wikipedia.org/wiki/コンシューマーレポート "wikilink")CRと略されているが本来の略しは[COR](https://ja.wikipedia.org/wiki/COR "wikilink")
   - [CR-X](https://ja.wikipedia.org/wiki/CR-X "wikilink")自動車会社[ホンダ](https://ja.wikipedia.org/wiki/ホンダ "wikilink")の自動車

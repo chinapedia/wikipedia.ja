@@ -5,11 +5,11 @@
 
 ## 一般
 
-  - [ナヴァホ語](https://ja.wikipedia.org/wiki/ナヴァホ語 "wikilink")の[ISO 639-1言語コード](https://ja.wikipedia.org/wiki/ISO_639 "wikilink")
-  - [Naamloze Vennootschap](https://ja.wikipedia.org/wiki/:nl:Naamloze_Vennootschap "wikilink") - [オランダ語](../Page/オランダ語.md "wikilink")圏の企業組織形態のひとつ。日本での[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")にあたる。[Unilever N.V.など](https://ja.wikipedia.org/wiki/ユニリーバ "wikilink")。
+  - [ナヴァホ語](https://ja.wikipedia.org/wiki/ナヴァホ語 "wikilink")の[ISO 639-1言語コード](../Page/ISO_639.md "wikilink")
+  - [Naamloze Vennootschap](https://ja.wikipedia.org/wiki/:nl:Naamloze_Vennootschap "wikilink") - [オランダ語](../Page/オランダ語.md "wikilink")圏の企業組織形態のひとつ。日本での[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")にあたる。[Unilever N.V.など](../Page/ユニリーバ.md "wikilink")。
   - [フォワーダー](https://ja.wikipedia.org/wiki/フォワーダー "wikilink")の別称NVOCC（**N**on **V**essel **O**peration **C**ommon **C**arrier）の略。
   - [ナイトビジョン](https://ja.wikipedia.org/wiki/ナイトビジョン "wikilink")（**N**ight **v**ision）の略。
-  - [不揮発性メモリ](https://ja.wikipedia.org/wiki/不揮発性メモリ "wikilink")（**N**on-**v**olatile memory）の略。
+  - [不揮発性メモリ](../Page/不揮発性メモリ.md "wikilink")（**N**on-**v**olatile memory）の略。
   - [デット・ノルスケ・ベリタス](https://ja.wikipedia.org/wiki/デット・ノルスケ・ベリタス "wikilink")（Det **N**orske **V**eritas、DNV）をさす言葉。
 
 ## 地域
@@ -18,14 +18,14 @@
 
 ## 組織
 
-  - [エアーセントラル](https://ja.wikipedia.org/wiki/エアーセントラル "wikilink")の[IATA](../Page/国際航空運送協会.md "wikilink")[航空会社コード](../Page/航空会社コード.md "wikilink")。
+  - [エアーセントラル](../Page/エアーセントラル.md "wikilink")の[IATA](../Page/国際航空運送協会.md "wikilink")[航空会社コード](../Page/航空会社コード.md "wikilink")。
   - [ノースウェストテリトリアル航空](https://ja.wikipedia.org/wiki/ノースウェストテリトリアル航空 "wikilink")のIATA航空会社コード。
-  - [NVIDIA](https://ja.wikipedia.org/wiki/NVIDIA "wikilink")の略。
+  - [NVIDIA](../Page/NVIDIA.md "wikilink")の略。
 
 ## 商品名
 
-  - [ホンダ・NV](https://ja.wikipedia.org/wiki/ホンダ・NV "wikilink") - [本田技研工業](https://ja.wikipedia.org/wiki/本田技研工業 "wikilink")の自動二輪車のシリーズ。
-  - NV（**N**issan **V**an）シリーズ - [日産自動車](https://ja.wikipedia.org/wiki/日産自動車 "wikilink")の車種のシリーズ。
+  - [ホンダ・NV](../Page/ホンダ・NV.md "wikilink") - [本田技研工業](../Page/本田技研工業.md "wikilink")の自動二輪車のシリーズ。
+  - NV（**N**issan **V**an）シリーズ - [日産自動車](../Page/日産自動車.md "wikilink")の車種のシリーズ。
       - [日産・NV](https://ja.wikipedia.org/wiki/日産・NV "wikilink")
       - [日産・NV100クリッパー](../Page/日産・NV100クリッパー.md "wikilink")
           - [日産・NV100クリッパーリオ](https://ja.wikipedia.org/wiki/日産・NV100クリッパーリオ "wikilink")

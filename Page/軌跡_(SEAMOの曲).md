@@ -1,7 +1,7 @@
 > この記事は[ \(SEAMO\)](https://ja.wikipedia.org/wiki/_\(SEAMO\))から翻訳されています。
 
 
-「**軌跡**」（きせき）は、[SEAMO](https://ja.wikipedia.org/wiki/SEAMO "wikilink")の8枚目のシングル。
+「**軌跡**」（きせき）は、[SEAMO](../Page/SEAMO.md "wikilink")の8枚目のシングル。
 
 ## 解説
 
@@ -21,7 +21,7 @@
 2.  好奇心
       -
         作曲：Naoki Takada & [DJ 大自然](https://ja.wikipedia.org/wiki/DJ_大自然 "wikilink")　編曲：DJ 大自然
-3.  天狗〜祭りのテーマ〜([RAM RIDER](https://ja.wikipedia.org/wiki/RAM_RIDER "wikilink") REMIX)
+3.  天狗〜祭りのテーマ〜([RAM RIDER](../Page/RAM_RIDER.md "wikilink") REMIX)
 4.  軌跡(Instrumental)
 5.  好奇心(Instrumental)
 

@@ -1,7 +1,7 @@
 > この記事は[ALL!!!!!!](https://ja.wikipedia.org/wiki/ALL!!!!!!)から翻訳されています。
 
 
-『ALL\!\!\!\!\!\!』（オール）は[100s](https://ja.wikipedia.org/wiki/100s "wikilink")のセカンドアルバム。[2007年](../Page/2007年.md "wikilink")[5月16日](../Page/5月16日.md "wikilink")発売。
+『ALL\!\!\!\!\!\!』（オール）は[100s](../Page/100s.md "wikilink")のセカンドアルバム。[2007年](../Page/2007年.md "wikilink")[5月16日](../Page/5月16日.md "wikilink")発売。
 
 ## 解説
 
@@ -10,8 +10,8 @@
 
 ## 収録曲
 
-全作詞・作曲:[中村一義](https://ja.wikipedia.org/wiki/中村一義 "wikilink")　編曲：100s
-「蘇州夜曲」(\#9)（作詞:[西条八十](https://ja.wikipedia.org/wiki/西条八十 "wikilink")　作曲:[服部良一](https://ja.wikipedia.org/wiki/服部良一 "wikilink")）
+全作詞・作曲:[中村一義](../Page/中村一義.md "wikilink")　編曲：100s
+「蘇州夜曲」(\#9)（作詞:[西条八十](https://ja.wikipedia.org/wiki/西条八十 "wikilink")　作曲:[服部良一](../Page/服部良一.md "wikilink")）
 
 1.  **そうさ世界は** (3:22)
 2.  **[希望](https://ja.wikipedia.org/wiki/希望_\(100sの曲\) "wikilink")** (4:31)

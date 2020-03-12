@@ -1,7 +1,7 @@
 > この記事は[Log4j](https://ja.wikipedia.org/wiki/Log4j)から翻訳されています。
 
 
-**Apache log4j**は、[Javaの](../Page/Javaプラットフォーム.md "wikilink")[ロギングユーティリティ](../Page/データログ.md "wikilink")。元々はCeki Gülcüにより開発されていたが、現在は[Apacheソフトウェア財団](https://ja.wikipedia.org/wiki/Apacheソフトウェア財団 "wikilink")のプロジェクトの一つとなっている。。log4jは、の一つである。
+**Apache log4j**は、[Javaの](../Page/Javaプラットフォーム.md "wikilink")[ロギングユーティリティ](../Page/データログ.md "wikilink")。元々はCeki Gülcüにより開発されていたが、現在は[Apacheソフトウェア財団](../Page/Apacheソフトウェア財団.md "wikilink")のプロジェクトの一つとなっている。。log4jは、の一つである。
 
 Ceki Gülcüはその後、log4j互換の後継として、と[Logback](http://logback.qos.ch/)の開発プロジェクトを立ち上げている。
 

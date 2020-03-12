@@ -3,13 +3,13 @@
 
 **UFC 43: Meltdown**（ユーエフシー・フォーティスリー：メルトダウン）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2003年](../Page/2003年.md "wikilink")[6月6日](../Page/6月6日.md "wikilink")、[ネバダ州](../Page/ネバダ州.md "wikilink")[ラスベガス](../Page/ラスベガス.md "wikilink")の[トーマス&マック・センター](https://ja.wikipedia.org/wiki/トーマス&マック・センター "wikilink")で開催された。
 
-UFC世界ライトヘビー級王者[ティト・オーティズ](https://ja.wikipedia.org/wiki/ティト・オーティズ "wikilink")が防衛戦を行えないことから、メインイベントでは[ランディ・クートゥア](https://ja.wikipedia.org/wiki/ランディ・クートゥア "wikilink")と[チャック・リデル](../Page/チャック・リデル.md "wikilink")による暫定王座決定戦が行われた。
+UFC世界ライトヘビー級王者[ティト・オーティズ](../Page/ティト・オーティズ.md "wikilink")が防衛戦を行えないことから、メインイベントでは[ランディ・クートゥア](../Page/ランディ・クートゥア.md "wikilink")と[チャック・リデル](../Page/チャック・リデル.md "wikilink")による暫定王座決定戦が行われた。
 
 ## 大会概要
 
 本大会ではファラニコ・ヴァイタレ、[ヴァーノン・"タイガー"・ホワイト](../Page/ヴァーノン・ホワイト.md "wikilink")、エディ・ルイスがUFCに初参戦。
 
-ライトヘビー級王者[ティト・オーティズ](https://ja.wikipedia.org/wiki/ティト・オーティズ "wikilink")が防衛戦を行えないことを理由に、ライトヘビー級暫定王座を賭けて[ランディ・クートゥア](https://ja.wikipedia.org/wiki/ランディ・クートゥア "wikilink")と[チャック・リデル](../Page/チャック・リデル.md "wikilink")が対戦。クートゥアがリデルをTKOで降し、ライトヘビー級暫定王座を手にするとともに、UFC初の2階級王座獲得を達成した。
+ライトヘビー級王者[ティト・オーティズ](../Page/ティト・オーティズ.md "wikilink")が防衛戦を行えないことを理由に、ライトヘビー級暫定王座を賭けて[ランディ・クートゥア](../Page/ランディ・クートゥア.md "wikilink")と[チャック・リデル](../Page/チャック・リデル.md "wikilink")が対戦。クートゥアがリデルをTKOで降し、ライトヘビー級暫定王座を手にするとともに、UFC初の2階級王座獲得を達成した。
 
 第2試合のファラニコ・ヴァイタレ対[マット・リンドランド](../Page/マット・リンドランド.md "wikilink")では、リンドランドが投げを打ち損ない、後頭部からマットに落下して失神したためTKO負けとなった。
 
@@ -18,7 +18,7 @@ UFC世界ライトヘビー級王者[ティト・オーティズ](https://ja.wik
 ### プレリミナリィカード
 
   - 第1試合 ヘビー級 5分3R
-    ○  [ペドロ・ヒーゾ](https://ja.wikipedia.org/wiki/ペドロ・ヒーゾ "wikilink") vs.  [トレイ・テリグマン](https://ja.wikipedia.org/wiki/トレイ・テリグマン "wikilink") ×
+    ○  [ペドロ・ヒーゾ](../Page/ペドロ・ヒーゾ.md "wikilink") vs.  [トレイ・テリグマン](../Page/トレイ・テリグマン.md "wikilink") ×
     2R 4:24 TKO（ドクターストップ：額のカット）
   - 第2試合 ミドル級 5分3R
     ○  ファラニコ・ヴァイタレ vs.  [マット・リンドランド](../Page/マット・リンドランド.md "wikilink") ×
@@ -33,17 +33,17 @@ UFC世界ライトヘビー級王者[ティト・オーティズ](https://ja.wik
     △  [ヴァーノン・"タイガー"・ホワイト](../Page/ヴァーノン・ホワイト.md "wikilink") vs.  [イアン・フリーマン](../Page/イアン・フリーマン.md "wikilink") △
     3R終了 判定1-1（30-27、28-29、29-29）
   - 第5試合 ライトヘビー級 5分3R
-    ○  [ビクトー・ベウフォート](https://ja.wikipedia.org/wiki/ビクトー・ベウフォート "wikilink") vs.  [マービン・イーストマン](https://ja.wikipedia.org/wiki/マービン・イーストマン "wikilink") ×
-    1R 1:07 TKO（レフェリーストップ：右膝蹴り→[パウンド](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    ○  [ビクトー・ベウフォート](../Page/ビクトー・ベウフォート.md "wikilink") vs.  [マービン・イーストマン](https://ja.wikipedia.org/wiki/マービン・イーストマン "wikilink") ×
+    1R 1:07 TKO（レフェリーストップ：右膝蹴り→[パウンド](../Page/グラウンドパンチ.md "wikilink")）
   - 第6試合 ライト級 5分3R
     ○  [イーブス・エドワーズ](../Page/イーブス・エドワーズ.md "wikilink") vs.  エディ・ルイス ×
     3R終了 判定3-0（30-27、30-27、30-27）
   - 第7試合 ヘビー級 5分3R
-    ○  [キモ](https://ja.wikipedia.org/wiki/キモ・レオポルド "wikilink") vs.  [タンク・アボット](../Page/タンク・アボット.md "wikilink") ×
-    1R 1:59 [肩固め](https://ja.wikipedia.org/wiki/肩固め "wikilink")
+    ○  [キモ](../Page/キモ・レオポルド.md "wikilink") vs.  [タンク・アボット](../Page/タンク・アボット.md "wikilink") ×
+    1R 1:59 [肩固め](../Page/肩固め.md "wikilink")
   - 第8試合 UFC世界ライトヘビー級暫定王座決定戦 5分5R
-    ○  [ランディ・クートゥア](https://ja.wikipedia.org/wiki/ランディ・クートゥア "wikilink") vs.  [チャック・リデル](../Page/チャック・リデル.md "wikilink") ×
-    3R 2:39 TKO（レフェリーストップ：[マウントパンチ](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    ○  [ランディ・クートゥア](../Page/ランディ・クートゥア.md "wikilink") vs.  [チャック・リデル](../Page/チャック・リデル.md "wikilink") ×
+    3R 2:39 TKO（レフェリーストップ：[マウントパンチ](../Page/グラウンドパンチ.md "wikilink")）
     ※クートゥアが王座獲得に成功。
 
 ## 脚注
@@ -51,7 +51,7 @@ UFC世界ライトヘビー級王者[ティト・オーティズ](https://ja.wik
 ## 関連項目
 
   - [UFCの大会一覧](../Page/UFCの大会一覧.md "wikilink")
-  - [UFC王者一覧](https://ja.wikipedia.org/wiki/UFC王者一覧 "wikilink")
+  - [UFC王者一覧](../Page/UFC王者一覧.md "wikilink")
 
 ## 外部リンク
 

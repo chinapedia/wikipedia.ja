@@ -5,11 +5,11 @@
 
 ## 大会概要
 
-サブタイトル「Hostile Territory（敵地）」の通り、メインイベントではミドル級王者[アンデウソン・シウバ](https://ja.wikipedia.org/wiki/アンデウソン・シウバ "wikilink")が、地元出身の挑戦者[リッチ・フランクリン](../Page/リッチ・フランクリン.md "wikilink")との防衛戦に勝利し、世界ミドル級王座を防衛した\[1\]。
+サブタイトル「Hostile Territory（敵地）」の通り、メインイベントではミドル級王者[アンデウソン・シウバ](../Page/アンデウソン・シウバ.md "wikilink")が、地元出身の挑戦者[リッチ・フランクリン](../Page/リッチ・フランクリン.md "wikilink")との防衛戦に勝利し、世界ミドル級王座を防衛した\[1\]。
 
 また、前ヘビー級王者[ティム・シルビア](../Page/ティム・シルビア.md "wikilink")はセミファイナルでキャリア8戦全勝の[ブランドン・ヴェラ](../Page/ブランドン・ヴェラ.md "wikilink")に判定勝ち。
 
-本大会より参戦した[ADCC 2007](https://ja.wikipedia.org/wiki/アブダビコンバット "wikilink") 88kg未満級王者[デミアン・マイア](../Page/デミアン・マイア.md "wikilink")は、ライアン・ジェンセンに一本勝ちを収めUFC白星デビューを果たした。
+本大会より参戦した[ADCC 2007](../Page/アブダビコンバット.md "wikilink") 88kg未満級王者[デミアン・マイア](../Page/デミアン・マイア.md "wikilink")は、ライアン・ジェンセンに一本勝ちを収めUFC白星デビューを果たした。
 
 ## 試合結果
 
@@ -23,27 +23,27 @@
     3R終了 判定2-1（29-28、29-28、28-29）
   - 第3試合 ミドル級 5分3R
     ○  [デミアン・マイア](../Page/デミアン・マイア.md "wikilink") vs.  ライアン・ジェンセン ×
-    1R 2:40 [チョークスリーパー](https://ja.wikipedia.org/wiki/裸絞 "wikilink")
+    1R 2:40 [チョークスリーパー](../Page/裸絞.md "wikilink")
   - 第4試合 ミドル級 5分3R
-    ○  [岡見勇信](https://ja.wikipedia.org/wiki/岡見勇信 "wikilink") vs.  [ジェイソン・マクドナルド](https://ja.wikipedia.org/wiki/ジェイソン・マクドナルド "wikilink") ×
+    ○  [岡見勇信](../Page/岡見勇信.md "wikilink") vs.  [ジェイソン・マクドナルド](../Page/ジェイソン・マクドナルド.md "wikilink") ×
     3R終了 判定3-0（30-27、30-27、30-27）
 
 ### メインカード
 
   - 第5試合 ミドル級 5分3R
-    ○  [アラン・ベルチャー](https://ja.wikipedia.org/wiki/アラン・ベルチャー "wikilink") vs.  [カリブ・スターンズ](https://ja.wikipedia.org/wiki/カリブ・スターンズ "wikilink") ×
+    ○  [アラン・ベルチャー](../Page/アラン・ベルチャー.md "wikilink") vs.  [カリブ・スターンズ](../Page/カリブ・スターンズ.md "wikilink") ×
     2R 1:39 TKO（ドクターストップ：右瞼カット）
   - 第6試合 ライトヘビー級 5分3R
-    ○  [ステファン・ボナー](https://ja.wikipedia.org/wiki/ステファン・ボナー "wikilink") vs.  エリック・シェイファー ×
-    2R 2:47 TKO（レフェリーストップ：[パウンド](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    ○  [ステファン・ボナー](../Page/ステファン・ボナー.md "wikilink") vs.  エリック・シェイファー ×
+    2R 2:47 TKO（レフェリーストップ：[パウンド](../Page/グラウンドパンチ.md "wikilink")）
   - 第7試合 ライト級 5分3R
-    ○  アルヴィン・ロビンソン vs.  [ジョルジ・グージェウ](https://ja.wikipedia.org/wiki/ジョルジ・グージェウ "wikilink") ×
+    ○  アルヴィン・ロビンソン vs.  [ジョルジ・グージェウ](../Page/ジョルジ・グージェウ.md "wikilink") ×
     3R終了 判定3-0（29-28、29-27、29-27）
   - 第8試合 ヘビー級 5分3R
     ○  [ティム・シルビア](../Page/ティム・シルビア.md "wikilink") vs.  [ブランドン・ヴェラ](../Page/ブランドン・ヴェラ.md "wikilink") ×
     3R終了 判定3-0（29-27、29-28、29-28）
   - 第9試合 UFC世界ミドル級タイトルマッチ 5分5R
-    ○  [アンデウソン・シウバ](https://ja.wikipedia.org/wiki/アンデウソン・シウバ "wikilink") vs.  [リッチ・フランクリン](../Page/リッチ・フランクリン.md "wikilink") ×
+    ○  [アンデウソン・シウバ](../Page/アンデウソン・シウバ.md "wikilink") vs.  [リッチ・フランクリン](../Page/リッチ・フランクリン.md "wikilink") ×
     2R 1:07 TKO（レフェリーストップ：膝蹴り）
     ※シウバが2度目の王座防衛に成功。
 
@@ -60,7 +60,7 @@
 ## 関連項目
 
   - [UFCの大会一覧](../Page/UFCの大会一覧.md "wikilink")
-  - [UFC王者一覧](https://ja.wikipedia.org/wiki/UFC王者一覧 "wikilink")
+  - [UFC王者一覧](../Page/UFC王者一覧.md "wikilink")
 
 ## 外部リンク
 

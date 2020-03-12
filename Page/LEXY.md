@@ -12,10 +12,10 @@
 
 ### シングル
 
-1.  **マイペース**（2005年10月5日）[日本テレビ系](https://ja.wikipedia.org/wiki/日本テレビ系 "wikilink")「[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")」 POWER PLAY SONG
+1.  **マイペース**（2005年10月5日）[日本テレビ系](https://ja.wikipedia.org/wiki/日本テレビ系 "wikilink")「[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")」 POWER PLAY SONG
     1.  マイペース
     2.  Last Scene
-2.  **Baby Keep on Dancing**（2007年6月20日）[MBS](../Page/毎日放送.md "wikilink")/[TBS系](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")「[世界バリバリ★バリュー](../Page/世界バリバリ★バリュー.md "wikilink")」エンディングテーマ
+2.  **Baby Keep on Dancing**（2007年6月20日）[MBS](../Page/毎日放送.md "wikilink")/[TBS系](../Page/TBSテレビ.md "wikilink")「[世界バリバリ★バリュー](../Page/世界バリバリ★バリュー.md "wikilink")」エンディングテーマ
     1.  Baby Keep on Dancing
     2.  マイペース
 3.  **真冬の君を追いかけて**（2007年11月21日）
@@ -41,7 +41,7 @@
 
   - [ベイエフエム](../Page/ベイエフエム.md "wikilink")
   - [世界バリバリ★バリュー](../Page/世界バリバリ★バリュー.md "wikilink")
-  - [Lovers Heal](https://ja.wikipedia.org/wiki/Lovers_Heal "wikilink")
+  - [Lovers Heal](../Page/Lovers_Heal.md "wikilink")
 
 ## 外部リンク
 

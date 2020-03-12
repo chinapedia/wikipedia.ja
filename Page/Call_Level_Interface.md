@@ -1,7 +1,7 @@
 > この記事は[Call Level Interface](https://ja.wikipedia.org/wiki/Call_Level_Interface)から翻訳されています。
 
 
-**Call Level Interface**（**CLI**）とは、[The Open Groupが開発した](../Page/The_Open_Group.md "wikilink")[SQL](../Page/SQL.md "wikilink")ベースの[データベース管理システム](../Page/データベース管理システム.md "wikilink")のための[デ・ファクト](https://ja.wikipedia.org/wiki/デ・ファクト "wikilink")標準の[APIである](../Page/アプリケーションプログラミングインタフェース.md "wikilink")。[1990年代](../Page/1990年代.md "wikilink")初めに開発され、[C言語](../Page/C言語.md "wikilink")と[COBOL](../Page/COBOL.md "wikilink")についてのみ定義された。Call Level Interface は C や COBOL のプログラムが DBMS に対して SQL クエリをどのように送り、返ってきた[レコードセット](https://ja.wikipedia.org/wiki/レコードセット "wikilink")をアプリケーションがどのように扱うべきかを一貫性を持って定義している。
+**Call Level Interface**（**CLI**）とは、[The Open Groupが開発した](../Page/The_Open_Group.md "wikilink")[SQL](../Page/SQL.md "wikilink")ベースの[データベース管理システム](../Page/データベース管理システム.md "wikilink")のための[デ・ファクト](../Page/デ・ファクト.md "wikilink")標準の[APIである](../Page/アプリケーションプログラミングインタフェース.md "wikilink")。[1990年代](../Page/1990年代.md "wikilink")初めに開発され、[C言語](../Page/C言語.md "wikilink")と[COBOL](../Page/COBOL.md "wikilink")についてのみ定義された。Call Level Interface は C や COBOL のプログラムが DBMS に対して SQL クエリをどのように送り、返ってきた[レコードセット](https://ja.wikipedia.org/wiki/レコードセット "wikilink")をアプリケーションがどのように扱うべきかを一貫性を持って定義している。
 
 このインタフェースは The Open Group のオープン・アプリケーション標準である Common Application Environment の一部である。これは複数のベンダーが開発したプログラムが効率的に相互運用できることを目的としていた。SQL/CLI は、SQLデータベースにアクセスするための実装非依存の国際標準である。クライアント-サーバツール群はダイナミックリンクライブラリを通して容易にデータベースにアクセスでき、各種クライアント-サーバツールがサポートされている。
 

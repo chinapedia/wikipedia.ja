@@ -32,11 +32,11 @@
     →[ふくしまFM](../Page/エフエム福島.md "wikilink")（1995.10～）
   - 栃木県：[RADIO BERRY](https://ja.wikipedia.org/wiki/エフエム栃木 "wikilink")
   - 群馬県：[FMぐんま](../Page/エフエム群馬.md "wikilink")
-  - 新潟県：[FM-NIIGATA](https://ja.wikipedia.org/wiki/エフエムラジオ新潟 "wikilink")
-  - 富山県：[FMとやま](https://ja.wikipedia.org/wiki/富山エフエム放送 "wikilink")
+  - 新潟県：[FM-NIIGATA](../Page/エフエムラジオ新潟.md "wikilink")
+  - 富山県：[FMとやま](../Page/富山エフエム放送.md "wikilink")
   - 石川県：[HELLO FIVE](../Page/エフエム石川.md "wikilink")
-  - 福井県：[FM福井](https://ja.wikipedia.org/wiki/福井エフエム放送 "wikilink")
-  - 長野県：[FM長野](https://ja.wikipedia.org/wiki/長野エフエム放送 "wikilink")
+  - 福井県：[FM福井](../Page/福井エフエム放送.md "wikilink")
+  - 長野県：[FM長野](../Page/長野エフエム放送.md "wikilink")
   - 岐阜県：[Radio80](../Page/エフエム岐阜.md "wikilink")（2001.4～、現FM GIFU）
   - 静岡県：[K-mix](../Page/静岡エフエム放送.md "wikilink")
   - 愛知県：[FM AICHI](../Page/エフエム愛知.md "wikilink")（現@FM）

@@ -7,7 +7,7 @@
 
 AVC Technologyは本拠を[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")に置き、生産は子会社のAV Chasewayで行っている。かつては[iriverの製品の製造も行っていた](../Page/アイリバー.md "wikilink")。
 
-かつては[RioからSiGNブランドのMP](https://ja.wikipedia.org/wiki/Rio_\(オーディオ\) "wikilink")3プレーヤーを生産していたため、リオジャパンよりSignブランドで発売された[フラッシュメモリ](../Page/フラッシュメモリ.md "wikilink")内蔵デジタルオーディオプレーヤーの *Si-200C* と *Si-300* のサポートはAVC日本進出（AVC Technology Japanを設立）に伴い[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月1日](../Page/7月1日.md "wikilink")をもってAVCに移管された。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")にはAVC Technology Japanから新会社シグネオ・マーケティング株式会社に事業を移管された。 2008年3月31日に日本における業務を終了した。
+かつては[RioからSiGNブランドのMP](../Page/Rio_\(オーディオ\).md "wikilink")3プレーヤーを生産していたため、リオジャパンよりSignブランドで発売された[フラッシュメモリ](../Page/フラッシュメモリ.md "wikilink")内蔵デジタルオーディオプレーヤーの *Si-200C* と *Si-300* のサポートはAVC日本進出（AVC Technology Japanを設立）に伴い[2005年](../Page/2005年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")をもってAVCに移管された。[2006年](../Page/2006年.md "wikilink")にはAVC Technology Japanから新会社シグネオ・マーケティング株式会社に事業を移管された。 2008年3月31日に日本における業務を終了した。
 
 2009年1月31日に無償保証期間終了に伴いコールセンター業務を終了。同年2月2日より、有償交換センターが株式会社エスビットに移管になった。修理期間の終了に伴い修理が受けられなくなったので代換機種として[iriverのT](../Page/アイリバー.md "wikilink")7、E100とが用意されていた。
 
@@ -68,7 +68,7 @@ AVC Technologyは本拠を[香港](https://ja.wikipedia.org/wiki/香港 "wikilin
 
 ## 関連項目
 
-  - [Rio](https://ja.wikipedia.org/wiki/Rio_\(オーディオ\) "wikilink")
+  - [Rio](../Page/Rio_\(オーディオ\).md "wikilink")
   - [SIREN](../Page/SIREN_\(企業\).md "wikilink")
 
 ## 外部リンク

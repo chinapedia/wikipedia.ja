@@ -9,7 +9,7 @@
 
 酸化銅(II)は[塩基性酸化物](https://ja.wikipedia.org/wiki/塩基性酸化物 "wikilink")であるので、[酸](../Page/酸.md "wikilink")と反応して[塩](https://ja.wikipedia.org/wiki/塩 "wikilink")を作る。[水素](https://ja.wikipedia.org/wiki/水素 "wikilink")または[一酸化炭素](../Page/一酸化炭素.md "wikilink")気流中で250 {{℃}}に加熱すると容易に[金属銅に](../Page/銅.md "wikilink")[還元](../Page/還元.md "wikilink")される。また、[黒鉛](https://ja.wikipedia.org/wiki/黒鉛 "wikilink")粉末とともに加熱することによっても還元される。天然では[黒銅鉱](https://ja.wikipedia.org/wiki/黒銅鉱 "wikilink")として産出する。
 
-[釉薬](https://ja.wikipedia.org/wiki/釉薬 "wikilink")の着色剤として利用される。[陶磁器](../Page/陶磁器.md "wikilink")に酸化銅(II)を添加した釉薬をかけて焼成すると、酸化焼成では[青](../Page/青.md "wikilink")色-[緑](../Page/緑.md "wikilink")色に、還元焼成では[赤](../Page/赤.md "wikilink")色に発色する。還元焼成で現れる赤色はかつては釉薬中の酸化銅(II)が[金属](../Page/金属.md "wikilink")銅に還元されて発色したものと考えられたが、今日では酸化銅(II)が酸化銅(I)に還元されて赤く発色すると考えられている。
+[釉薬](../Page/釉薬.md "wikilink")の着色剤として利用される。[陶磁器](../Page/陶磁器.md "wikilink")に酸化銅(II)を添加した釉薬をかけて焼成すると、酸化焼成では[青](../Page/青.md "wikilink")色-[緑](../Page/緑.md "wikilink")色に、還元焼成では[赤](../Page/赤.md "wikilink")色に発色する。還元焼成で現れる赤色はかつては釉薬中の酸化銅(II)が[金属](../Page/金属.md "wikilink")銅に還元されて発色したものと考えられたが、今日では酸化銅(II)が酸化銅(I)に還元されて赤く発色すると考えられている。
 
 ## 生成
 

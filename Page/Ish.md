@@ -1,17 +1,17 @@
 > この記事は[Ish](https://ja.wikipedia.org/wiki/Ish)から翻訳されています。
 
 
-**ish**（イシ、イッシ）は[バイナリ](../Page/バイナリ.md "wikilink")データとテキストデータを相互変換するための形式、もしくは相互変換を行うソフトウエアそのもののことである。また、変換されたテキストデータを含む[テキストファイル](https://ja.wikipedia.org/wiki/テキストファイル "wikilink")に対してつけられる[拡張子](../Page/拡張子.md "wikilink")として使われることもある。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[9月16日](../Page/9月16日.md "wikilink")に発表された。[拡張子](../Page/拡張子.md "wikilink")は通常、`.ish`を用いる。
+**ish**（イシ、イッシ）は[バイナリ](../Page/バイナリ.md "wikilink")データとテキストデータを相互変換するための形式、もしくは相互変換を行うソフトウエアそのもののことである。また、変換されたテキストデータを含む[テキストファイル](../Page/テキストファイル.md "wikilink")に対してつけられる[拡張子](../Page/拡張子.md "wikilink")として使われることもある。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[9月16日](../Page/9月16日.md "wikilink")に発表された。[拡張子](../Page/拡張子.md "wikilink")は通常、`.ish`を用いる。
 
 ## 概説
 
 日本で開発された形式・[ソフトウエアであり](../Page/ソフトウェア.md "wikilink")、開発者は[石塚匡哉](https://ja.wikipedia.org/wiki/石塚匡哉 "wikilink")。開発者の名前から命名された（**ish**izuka）。
 
-通常は、直接バイナリファイルの送受信ができない[ネットワークや通信ソフトで](https://ja.wikipedia.org/wiki/コンピュータネットワーク "wikilink")、バイナリファイルを送受信するときに利用する。
+通常は、直接バイナリファイルの送受信ができない[ネットワークや通信ソフトで](../Page/コンピュータネットワーク.md "wikilink")、バイナリファイルを送受信するときに利用する。
 
 日本国内での[パソコン通信](../Page/パソコン通信.md "wikilink")黎明期、当時の技術的な制約によりバイナリファイルを直接送受信することが困難であったこと、また、通信プロトコル上のエラー訂正機能が無いことによりデータの欠損が発生しやすい、という事情があったため、それらを解決できるものとしてISHが頻繁に利用されていた。
 
-2007年現在日本ではあまり使われていないが、通信[インフラの整備が不十分な地域や](https://ja.wikipedia.org/wiki/インフラストラクチャー "wikilink")、通信品質の劣悪な地域、[通信プロトコル](../Page/通信プロトコル.md "wikilink")が制限されているような環境ではその特性から重用されている。
+2007年現在日本ではあまり使われていないが、通信[インフラの整備が不十分な地域や](../Page/インフラストラクチャー.md "wikilink")、通信品質の劣悪な地域、[通信プロトコル](../Page/通信プロトコル.md "wikilink")が制限されているような環境ではその特性から重用されている。
 
 ## 特性
 
@@ -31,7 +31,7 @@
 
   - [uuencode](https://ja.wikipedia.org/wiki/uuencode "wikilink")
   - [BinHex](../Page/BinHex.md "wikilink")
-  - [Base64](https://ja.wikipedia.org/wiki/Base64 "wikilink")
+  - [Base64](../Page/Base64.md "wikilink")
 
 ## 外部リンク
 

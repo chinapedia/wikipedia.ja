@@ -1,28 +1,28 @@
 > この記事は[Chakuchaku J.b](https://ja.wikipedia.org/wiki/Chakuchaku_J.b)から翻訳されています。
 
 
-**chakuchaku J.b**（チャクチャク じぇいびい）は、かつて存在した[芸能人女子フットサル](https://ja.wikipedia.org/wiki/芸能人女子フットサル "wikilink")チームである。
+**chakuchaku J.b**（チャクチャク じぇいびい）は、かつて存在した[芸能人女子フットサル](../Page/芸能人女子フットサル.md "wikilink")チームである。
 
 株式会社[プロシード](https://ja.wikipedia.org/wiki/プロシード "wikilink")がメインスポンサーとして運営し、複数の[芸能事務所](../Page/芸能事務所.md "wikilink")に所属する[女性タレントの連合チームを構成していた](../Page/タレント.md "wikilink")。チームは、[2009年](../Page/2009年.md "wikilink")（[平成](../Page/平成.md "wikilink")21年）[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")を以って解散した。
 
 ## 概要
 
-チームの歴史は[2003年](../Page/2003年.md "wikilink")（平成15年）[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")の「L.A. Angel」結成から始まっていて、同年[9月](../Page/9月.md "wikilink")結成の[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")メンバーによるフットサルチーム（現在の[Gatas Brilhantes H.P.](https://ja.wikipedia.org/wiki/Gatas_Brilhantes_H.P. "wikilink")）とほぼ同時期から存在したチームである。Gatas Brilhantes H.P.と並んで芸能人女子フットサルのパイオニアであると言えよう。
+チームの歴史は[2003年](../Page/2003年.md "wikilink")（平成15年）[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")の「L.A. Angel」結成から始まっていて、同年[9月](../Page/9月.md "wikilink")結成の[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")メンバーによるフットサルチーム（現在の[Gatas Brilhantes H.P.](../Page/Gatas_Brilhantes_H.P..md "wikilink")）とほぼ同時期から存在したチームである。Gatas Brilhantes H.P.と並んで芸能人女子フットサルのパイオニアであると言えよう。
 
-チームユニフォームは上下青と白の組み合わせにより4種類。ユニフォームブランドはKAPPA（2003年10月 - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[6月](../Page/6月.md "wikilink")）からDELL'ERBA（2006年[7月](https://ja.wikipedia.org/wiki/7月 "wikilink") - ）に変わった。また、スポンサー名をチーム名としている為、その変動と共にチーム名も数回変わっている。前チーム名は「CHOOP（シュープ）」。[2009年](../Page/2009年.md "wikilink")（平成21年）[12月6日](../Page/12月6日.md "wikilink")に、チームは解散した。
+チームユニフォームは上下青と白の組み合わせにより4種類。ユニフォームブランドはKAPPA（2003年10月 - [2006年](../Page/2006年.md "wikilink")[6月](../Page/6月.md "wikilink")）からDELL'ERBA（2006年[7月](https://ja.wikipedia.org/wiki/7月 "wikilink") - ）に変わった。また、スポンサー名をチーム名としている為、その変動と共にチーム名も数回変わっている。前チーム名は「CHOOP（シュープ）」。[2009年](../Page/2009年.md "wikilink")（平成21年）[12月6日](../Page/12月6日.md "wikilink")に、チームは解散した。
 
 ## 沿革
 
   - 2003年10月、前身となる「L.A.Angel」結成。
   - [2004年](../Page/2004年.md "wikilink")[8月](../Page/8月.md "wikilink")、「L.A.Angel」が「ammaliatore」と「HbG」へとチーム分割。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")、「ammaliatore」と「HbG」と「[FANTASISTA](https://ja.wikipedia.org/wiki/FANTASISTA_\(フットサルチーム\) "wikilink")」が合同チームとして「CHOOP」を結成。第1回フジテレビ739カップに初出場。「FANTASISTA」はこの大会のみでCHOOPから離脱。
+  - [2005年](../Page/2005年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")、「ammaliatore」と「HbG」と「[FANTASISTA](../Page/FANTASISTA_\(フットサルチーム\).md "wikilink")」が合同チームとして「CHOOP」を結成。第1回フジテレビ739カップに初出場。「FANTASISTA」はこの大会のみでCHOOPから離脱。
   - 2005年7月、「ammaliatore」と「HbG」が正式に合併し「CHOOP」として単独チーム化。
-  - 2005年[8月](../Page/8月.md "wikilink")、「お台場冒険王リーグ」決勝で[Gatas Brilhantes H.P.を破り公式戦初優勝](https://ja.wikipedia.org/wiki/Gatas_Brilhantes_H.P. "wikilink")。
+  - 2005年[8月](../Page/8月.md "wikilink")、「お台場冒険王リーグ」決勝で[Gatas Brilhantes H.P.を破り公式戦初優勝](../Page/Gatas_Brilhantes_H.P..md "wikilink")。
   - 2005年10月、「chakuchaku J.b」に改名。
-  - 2005年[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")、「[スフィアリーグ](https://ja.wikipedia.org/wiki/スフィアリーグ "wikilink")」に参加。
+  - 2005年[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")、「[スフィアリーグ](../Page/スフィアリーグ.md "wikilink")」に参加。
   - 2006年[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")、ミュージカル「ピヴォ☆ガール」に出演。
   - 2006年7月、「第1回グッドウィルカップ」準優勝。
-  - 2009年8月9日、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")[歌舞伎町](https://ja.wikipedia.org/wiki/歌舞伎町 "wikilink")にある「P・B・P」で開催された「メルシートゥフェスタ番外編『ちょっと話があるんだけど・・・?』」にて同年限りでの解散を発表。
+  - 2009年8月9日、[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")[歌舞伎町](../Page/歌舞伎町.md "wikilink")にある「P・B・P」で開催された「メルシートゥフェスタ番外編『ちょっと話があるんだけど・・・?』」にて同年限りでの解散を発表。
   - 2009年12月6日、芸能人女子フットサル『[メルシートゥフェスタ](https://ja.wikipedia.org/wiki/メルシートゥフェスタ "wikilink")』をもってチームは解散した。なお、本大会においてメンバーの[あじゃ](https://ja.wikipedia.org/wiki/あじゃ "wikilink")がMVPを受賞した。
 
 ## メンバー
@@ -32,10 +32,10 @@
   - GM　清水有史（RUF代表取締役）
   - 背番号2　[あじゃ](https://ja.wikipedia.org/wiki/あじゃ "wikilink")
   - 背番号3　[姉御ぉゆりか](https://ja.wikipedia.org/wiki/姉御ぉゆりか "wikilink")
-  - 背番号4　[桜井せな](https://ja.wikipedia.org/wiki/桜井せな "wikilink")（キャプテン）
+  - 背番号4　[桜井せな](../Page/桜井せな.md "wikilink")（キャプテン）
   - 背番号5　[はぎはらあき](https://ja.wikipedia.org/wiki/はぎはらあき "wikilink")
   - 背番号8　[森崎愛](../Page/森崎愛.md "wikilink")
-  - 背番号10　[朝倉みず希](https://ja.wikipedia.org/wiki/朝倉みず希 "wikilink")
+  - 背番号10　[朝倉みず希](../Page/朝倉みず希.md "wikilink")
 
 現役メンバーでL.A.Angel結成時のメンバーはあじゃ。また、あじゃ以外の選手は全員2007年以降に入団している。このチームの特徴にGKの選手も頻繁にFPで出場しており、あじゃがGK/FPで出場する。後述する退団した選手では三宅梢子、優木紗和、山下萌梨、小山田弘子、岡田ひかりがGK/FPの両方で出場した。
 
@@ -44,39 +44,39 @@
 L.A.Angel、HbG等も含む。
 
   - [杉浦太陽](https://ja.wikipedia.org/wiki/杉浦太陽 "wikilink")（ammaliatore初代監督）
-  - [袴田吉彦](https://ja.wikipedia.org/wiki/袴田吉彦 "wikilink")（前監督、元[TEAM SPAZIO監督](../Page/TEAM_SPAZIO.md "wikilink")）
+  - [袴田吉彦](../Page/袴田吉彦.md "wikilink")（前監督、元[TEAM SPAZIO監督](../Page/TEAM_SPAZIO.md "wikilink")）
   - [相原真奈美](https://ja.wikipedia.org/wiki/相原真奈美 "wikilink")
-  - [青山愛子](https://ja.wikipedia.org/wiki/青山愛子 "wikilink")（ - 2006年[10月17日](../Page/10月17日.md "wikilink")）
-  - [青木秀加](https://ja.wikipedia.org/wiki/青木秀加 "wikilink")（ - 2006年[12月28日](../Page/12月28日.md "wikilink")）
+  - [青山愛子](../Page/青山愛子.md "wikilink")（ - 2006年[10月17日](../Page/10月17日.md "wikilink")）
+  - [青木秀加](../Page/青木秀加.md "wikilink")（ - 2006年[12月28日](../Page/12月28日.md "wikilink")）
   - [赤星太郎](https://ja.wikipedia.org/wiki/赤星太郎 "wikilink")（メディカルトレーナー、 - 2008年12月7日）
-  - [AYAKA](https://ja.wikipedia.org/wiki/原口彩歌 "wikilink") ([KING](https://ja.wikipedia.org/wiki/KING_\(音楽ユニット\) "wikilink"))
+  - [AYAKA](https://ja.wikipedia.org/wiki/原口彩歌 "wikilink") ([KING](../Page/KING_\(音楽ユニット\).md "wikilink"))
   - [石塚初美](../Page/石塚初美.md "wikilink")
-  - [石原朋香](https://ja.wikipedia.org/wiki/石原朋香 "wikilink")（ - 2008年12月7日）
-  - [岩田ゆり](https://ja.wikipedia.org/wiki/岩田ゆり "wikilink")（ - 2005年[11月23日](../Page/11月23日.md "wikilink")、初代キャプテン）
+  - [石原朋香](../Page/石原朋香.md "wikilink")（ - 2008年12月7日）
+  - [岩田ゆり](../Page/岩田ゆり.md "wikilink")（ - 2005年[11月23日](../Page/11月23日.md "wikilink")、初代キャプテン）
   - [植田幸英](https://ja.wikipedia.org/wiki/植田幸英 "wikilink")（コーチ、 - 2008年[9月30日](../Page/9月30日.md "wikilink")）
   - [宇津木有香](https://ja.wikipedia.org/wiki/宇津木有香 "wikilink")（コーチ、 - 2008年[9月7日](../Page/9月7日.md "wikilink")）
   - [江東夏美](https://ja.wikipedia.org/wiki/江東夏美 "wikilink")
   - [岡田ひかり](../Page/岡田ひかり.md "wikilink")（2007年1月20日 - 2008年12月7日）
-  - [岡田ひとみ](https://ja.wikipedia.org/wiki/岡田ひとみ_\(タレント\) "wikilink")
-  - [小田瑞穂](https://ja.wikipedia.org/wiki/小田瑞穂 "wikilink")
+  - [岡田ひとみ](../Page/岡田ひとみ_\(タレント\).md "wikilink")
+  - [小田瑞穂](../Page/小田瑞穂.md "wikilink")
   - [小山田弘子](https://ja.wikipedia.org/wiki/小山田弘子 "wikilink")（2007年[1月20日](../Page/1月20日.md "wikilink") - 2008年12月7日）
   - [恩田愛](https://ja.wikipedia.org/wiki/恩田愛 "wikilink")
-  - [影山のぞみ](https://ja.wikipedia.org/wiki/影山のぞみ "wikilink")（ - 2009年8月5日）
+  - [影山のぞみ](../Page/影山のぞみ.md "wikilink")（ - 2009年8月5日）
   - [片岡もとみ](https://ja.wikipedia.org/wiki/片岡もとみ "wikilink")
   - [加藤美穂](../Page/加藤美穂.md "wikilink")
-  - [金子絵里](https://ja.wikipedia.org/wiki/金子絵里 "wikilink")
-  - [川島令美](https://ja.wikipedia.org/wiki/川島令美 "wikilink")（ - 2008年9月7日）
+  - [金子絵里](../Page/金子絵里.md "wikilink")
+  - [川島令美](../Page/川島令美.md "wikilink")（ - 2008年9月7日）
   - [河野美沙子](https://ja.wikipedia.org/wiki/河野美沙子 "wikilink")
   - [河原亜依](../Page/河原亜依.md "wikilink")
   - [熊谷ひとみ](https://ja.wikipedia.org/wiki/熊谷ひとみ "wikilink")
-  - [黒澤友子](https://ja.wikipedia.org/wiki/黒澤友子 "wikilink")（ - 2006年[10月24日](../Page/10月24日.md "wikilink")）
-  - [郡司あやの](https://ja.wikipedia.org/wiki/郡司あやの "wikilink")（ - 2007年[12月16日](../Page/12月16日.md "wikilink")）
+  - [黒澤友子](../Page/黒澤友子.md "wikilink")（ - 2006年[10月24日](../Page/10月24日.md "wikilink")）
+  - [郡司あやの](../Page/郡司あやの.md "wikilink")（ - 2007年[12月16日](../Page/12月16日.md "wikilink")）
   - [小杉まさみ](../Page/小杉まさみ.md "wikilink")（2007年1月20日 - 2008年12月7日）
-  - [小由里](https://ja.wikipedia.org/wiki/小由里 "wikilink")（[XANADU loves NHCに移籍](https://ja.wikipedia.org/wiki/XANADU_loves_NHC "wikilink")）
+  - [小由里](../Page/小由里.md "wikilink")（[XANADU loves NHCに移籍](../Page/XANADU_loves_NHC.md "wikilink")）
   - [西京舞](../Page/西京舞.md "wikilink")（2007年1月20日 - 2008年[4月12日](../Page/4月12日.md "wikilink")）
   - [佐々木千尋](https://ja.wikipedia.org/wiki/佐々木千尋 "wikilink")
   - [SAYA](https://ja.wikipedia.org/wiki/山丸佐夜 "wikilink")（KING）
-  - [庄子知美](https://ja.wikipedia.org/wiki/庄子知美 "wikilink")（[ASAI RED ROSEに移籍](https://ja.wikipedia.org/wiki/ASAI_RED_ROSE "wikilink")）
+  - [庄子知美](../Page/庄子知美.md "wikilink")（[ASAI RED ROSEに移籍](../Page/ASAI_RED_ROSE.md "wikilink")）
   - [菅井玲](https://ja.wikipedia.org/wiki/菅井玲 "wikilink")
   - [千鶴](https://ja.wikipedia.org/wiki/千鶴 "wikilink")（2008年5月 - 9月30日）
   - 千尋（ammaliatore初代キャプテン）
@@ -90,14 +90,14 @@ L.A.Angel、HbG等も含む。
   - [土方みなみ](https://ja.wikipedia.org/wiki/土方みなみ "wikilink")
   - [尾藤ゆう](https://ja.wikipedia.org/wiki/尾藤ゆう "wikilink")
   - [MARIYA](https://ja.wikipedia.org/wiki/伊澤麻璃也 "wikilink") (KING)
-  - [丸居沙矢香](https://ja.wikipedia.org/wiki/丸居沙矢香 "wikilink")（ - 2007年[9月30日](../Page/9月30日.md "wikilink")）
+  - [丸居沙矢香](../Page/丸居沙矢香.md "wikilink")（ - 2007年[9月30日](../Page/9月30日.md "wikilink")）
   - [三宅梢子](https://ja.wikipedia.org/wiki/三宅梢子 "wikilink")（2代目キャプテン、2003年10月 - 2007年[8月28日](../Page/8月28日.md "wikilink")）
   - [宮下瞳](https://ja.wikipedia.org/wiki/宮下瞳_\(タレント\) "wikilink")
-  - [村上恵梨](https://ja.wikipedia.org/wiki/村上恵梨 "wikilink")
+  - [村上恵梨](../Page/村上恵梨.md "wikilink")
   - もも美（現・[吉野ももみ](../Page/吉野ももみ.md "wikilink")、[carezza](https://ja.wikipedia.org/wiki/carezza "wikilink")に移籍）
   - [森裕城](https://ja.wikipedia.org/wiki/森裕城_\(chakuchaku_J.bコーチ\) "wikilink")（キーパーコーチ、 - 2008年12月7日）
   - [山下萌梨](../Page/山下萌梨.md "wikilink")（2007年1月 - 2008年[8月21日](../Page/8月21日.md "wikilink")）
-  - [山本早織](https://ja.wikipedia.org/wiki/山本早織 "wikilink")（ - 2006年[12月28日](../Page/12月28日.md "wikilink")、[TEAM SPAZIOに移籍](../Page/TEAM_SPAZIO.md "wikilink")→解散）
+  - [山本早織](../Page/山本早織.md "wikilink")（ - 2006年[12月28日](../Page/12月28日.md "wikilink")、[TEAM SPAZIOに移籍](../Page/TEAM_SPAZIO.md "wikilink")→解散）
   - [優木紗和](https://ja.wikipedia.org/wiki/優木紗和 "wikilink")（ - 2007年12月16日）
   - [吉田早希](../Page/吉田早希_\(グラビアアイドル\).md "wikilink")
 
@@ -119,7 +119,7 @@ L.A.Angel、HbG等も含む。
   - [8月14日](../Page/8月14日.md "wikilink")・[15日](../Page/8月15日.md "wikilink")「お台場カップ」（お台場　冒険ランド・特設サッカースタジアム）
   - [12月12日](../Page/12月12日.md "wikilink")「ポルトガルグランデフェスタ EH PA！CUP」（代々木公園）**準優勝**
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+[2005年](../Page/2005年.md "wikilink")
 
   - [2月11日](../Page/2月11日.md "wikilink")「RADIO NIKKEI CUP」（クーバーFP武蔵浦和）
   - [6月18日](../Page/6月18日.md "wikilink")「第1回 ピヴォラジ！」（川越フットサルリゾート）
@@ -161,7 +161,7 @@ L.A.Angel、HbG等も含む。
   - [12月15日](../Page/12月15日.md "wikilink")「スフィアリーグ すかいらーくグループシリーズ オープニングマッチ」（駒沢体育館）
   - [12月18日](../Page/12月18日.md "wikilink")「Family Mart DREAM CUPフットサル大会～中村俊輔トーナメント～　エキシビジョンマッチ」（Fisco Futsal arenaとしまえん）
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")
+[2006年](../Page/2006年.md "wikilink")
 
   - [2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")「スフィアリーグ すかいらーくグループシリーズ 2ndステージ」（駒沢体育館）
   - [3月11日](../Page/3月11日.md "wikilink")「府中市フットサルリーグ15周年記念大会」（府中市体育館）

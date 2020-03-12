@@ -40,7 +40,7 @@
 宇宙SF要素を押し出しているため、作中には様々な[メカニズム](../Page/メカニズム.md "wikilink")が登場する。
 
   - 宇宙戦艦「スランプ号」
-    タケヤサオダケ星に向かう為、則巻千兵衛によって製作された宇宙戦艦。小説版での名は「アムール（フランス語で「愛」の意味）号」。ビデオ裏の解説等では「ヤマトイモ号」とされている。詳細な大きさは不明。シルエットは周囲から「イモ」と称される。 [宇宙戦艦](../Page/宇宙戦艦.md "wikilink")と名乗っているものの、武装はパラボラ光線砲1、対空機銃2、小型艦載機2のみである。船体前部にアラレとガッちゃんを射出する為のカタパルトがあると推測される。地上移動用に[三菱ジープを搭載している](https://ja.wikipedia.org/wiki/三菱・ジープ "wikilink")。右ハンドルなので[クライスラー](../Page/クライスラー.md "wikilink")の[ジープ・ラングラー](https://ja.wikipedia.org/wiki/ジープ・ラングラー "wikilink")ではない。当時は[スポーツカー](../Page/スポーツカー.md "wikilink")が流行の先端であった為、タロウやアカネには散々貶された。装甲は強力で、艦載機の攻撃はまったく受け付けなかった。至近距離で蜘蛛形巨大戦艦（後述）が爆散した際は、航行は可能であったものの、操舵に難が出てサオダケ星に不時着することに「ターボチャージ」と称されるエンジン過荷システムを備える。この際には船体前部上面のハッチからユニットを露出させるが、装甲の外に露出させる為攻撃に弱い。乗員定数は5名（ガッちゃん含まず）。会話が可能な高性能コンピューターが航路の計算等を行うが、命令されるのが嫌い。しかし、下手に出るとあっさり応じたので「調子の良い奴」とアカネらに評されている。重力圏では飛行が不安定になり、地球からの発進時には山に接触した。 当初、トイレを付け忘れていた。サオダケ星での修理の際に追設。
+    タケヤサオダケ星に向かう為、則巻千兵衛によって製作された宇宙戦艦。小説版での名は「アムール（フランス語で「愛」の意味）号」。ビデオ裏の解説等では「ヤマトイモ号」とされている。詳細な大きさは不明。シルエットは周囲から「イモ」と称される。 [宇宙戦艦](../Page/宇宙戦艦.md "wikilink")と名乗っているものの、武装はパラボラ光線砲1、対空機銃2、小型艦載機2のみである。船体前部にアラレとガッちゃんを射出する為のカタパルトがあると推測される。地上移動用に[三菱ジープを搭載している](../Page/三菱・ジープ.md "wikilink")。右ハンドルなので[クライスラー](../Page/クライスラー.md "wikilink")の[ジープ・ラングラー](https://ja.wikipedia.org/wiki/ジープ・ラングラー "wikilink")ではない。当時は[スポーツカー](../Page/スポーツカー.md "wikilink")が流行の先端であった為、タロウやアカネには散々貶された。装甲は強力で、艦載機の攻撃はまったく受け付けなかった。至近距離で蜘蛛形巨大戦艦（後述）が爆散した際は、航行は可能であったものの、操舵に難が出てサオダケ星に不時着することに「ターボチャージ」と称されるエンジン過荷システムを備える。この際には船体前部上面のハッチからユニットを露出させるが、装甲の外に露出させる為攻撃に弱い。乗員定数は5名（ガッちゃん含まず）。会話が可能な高性能コンピューターが航路の計算等を行うが、命令されるのが嫌い。しかし、下手に出るとあっさり応じたので「調子の良い奴」とアカネらに評されている。重力圏では飛行が不安定になり、地球からの発進時には山に接触した。 当初、トイレを付け忘れていた。サオダケ星での修理の際に追設。
 
 <!-- end list -->
 
@@ -75,7 +75,7 @@
 <!-- end list -->
 
   -
-    マシリトはテレビアニメ版で[野沢那智](../Page/野沢那智.md "wikilink")が演じていたが\[2\]、本作のみ[山田康雄](https://ja.wikipedia.org/wiki/山田康雄 "wikilink")がマシリトを演じている。山田が『[ルパン三世](https://ja.wikipedia.org/wiki/ルパン三世 "wikilink")』シリーズ以外でアニメに出演した数少ない事例である。
+    マシリトはテレビアニメ版で[野沢那智](../Page/野沢那智.md "wikilink")が演じていたが\[2\]、本作のみ[山田康雄](../Page/山田康雄.md "wikilink")がマシリトを演じている。山田が『[ルパン三世](../Page/ルパン三世.md "wikilink")』シリーズ以外でアニメに出演した数少ない事例である。
   - ヨウ・チエン、リボン・チャン、ホイ・クエン
     ドクターマシリトの手下の3悪人。姿は人間そっくりで、部下と共に保育園児のような服装をしている。「ウルトラヘッド」に搭乗している。宇宙パトロールをしている。「リブギゴ」でいろんな惑星の都市を壊滅している。リブギゴでアラレと戦うが、アラレのプロレスごっこでぶっ飛ばされる。
   - サオダケ王、タケヤ王妃
@@ -87,42 +87,42 @@
 
   - [則巻アラレ](../Page/則巻アラレ.md "wikilink")：[小山茉美](../Page/小山茉美.md "wikilink")
   - 則巻千兵衛：[内海賢二](../Page/内海賢二.md "wikilink")
-  - 則巻ガッちゃん、空豆まめ：[中野聖子](https://ja.wikipedia.org/wiki/中野聖子 "wikilink")
-  - 木緑あかね、皿田きのこ：[杉山佳寿子](https://ja.wikipedia.org/wiki/杉山佳寿子 "wikilink")
+  - 則巻ガッちゃん、空豆まめ：[中野聖子](../Page/中野聖子.md "wikilink")
+  - 木緑あかね、皿田きのこ：[杉山佳寿子](../Page/杉山佳寿子.md "wikilink")
   - 空豆タロウ、ナレーター：[古川登志夫](../Page/古川登志夫.md "wikilink")
-  - 空豆ピースケ、木緑葵：[神保なおみ](https://ja.wikipedia.org/wiki/神保なおみ "wikilink")
+  - 空豆ピースケ、木緑葵：[神保なおみ](../Page/神保なおみ.md "wikilink")
   - 山吹みどり：[向井真理子](https://ja.wikipedia.org/wiki/向井真理子 "wikilink")
   - ニコチャン大王：[大竹宏](../Page/大竹宏.md "wikilink")
   - ガラ：[田の中勇](../Page/田の中勇.md "wikilink")
-  - パゴス、ブタ：[佐藤正治](https://ja.wikipedia.org/wiki/佐藤正治_\(声優\) "wikilink")
+  - パゴス、ブタ：[佐藤正治](../Page/佐藤正治_\(声優\).md "wikilink")
   - スッパマン：[玄田哲章](https://ja.wikipedia.org/wiki/玄田哲章 "wikilink")
-  - 空豆クリキントン：[戸谷公次](https://ja.wikipedia.org/wiki/戸谷公次 "wikilink")
-  - ニコチャン家来：[千葉繁](https://ja.wikipedia.org/wiki/千葉繁 "wikilink")
-  - Dr.マシリト：[山田康雄](https://ja.wikipedia.org/wiki/山田康雄 "wikilink")
-  - リボン・チャン：[増山江威子](https://ja.wikipedia.org/wiki/増山江威子 "wikilink")
-  - ヨウ・チエン：[柴田秀勝](https://ja.wikipedia.org/wiki/柴田秀勝 "wikilink")
+  - 空豆クリキントン：[戸谷公次](../Page/戸谷公次.md "wikilink")
+  - ニコチャン家来：[千葉繁](../Page/千葉繁.md "wikilink")
+  - Dr.マシリト：[山田康雄](../Page/山田康雄.md "wikilink")
+  - リボン・チャン：[増山江威子](../Page/増山江威子.md "wikilink")
+  - ヨウ・チエン：[柴田秀勝](../Page/柴田秀勝.md "wikilink")
   - ホイ・クエン：[兼本新吾](../Page/兼本新吾.md "wikilink")
   - サオダケ王：[滝口順平](../Page/滝口順平.md "wikilink")
-  - タケヤ王妃：[京田尚子](https://ja.wikipedia.org/wiki/京田尚子 "wikilink")
-  - マシリトの母：[山口奈々](https://ja.wikipedia.org/wiki/山口奈々 "wikilink")
+  - タケヤ王妃：[京田尚子](../Page/京田尚子.md "wikilink")
+  - マシリトの母：[山口奈々](../Page/山口奈々.md "wikilink")
   - 執事：[龍田直樹](../Page/龍田直樹.md "wikilink")
 
 ## スタッフ
 
-  - 製作総指揮 - [今田智憲](https://ja.wikipedia.org/wiki/今田智憲 "wikilink")
+  - 製作総指揮 - [今田智憲](../Page/今田智憲.md "wikilink")
   - 原作：[鳥山明](../Page/鳥山明.md "wikilink")（[集英社](../Page/集英社.md "wikilink") 「[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")」連載『[Dr.スランプ](https://ja.wikipedia.org/wiki/Dr.スランプ "wikilink")』より）
   - 企画 - [七條敬三](https://ja.wikipedia.org/wiki/七條敬三 "wikilink")、有賀健
   - 製作担当 - [岸本松司](https://ja.wikipedia.org/wiki/岸本松司 "wikilink")
-  - 脚本 - [雪室俊一](../Page/雪室俊一.md "wikilink")、[金春智子](https://ja.wikipedia.org/wiki/金春智子 "wikilink")、[井上敏樹](../Page/井上敏樹.md "wikilink")、[島田満](https://ja.wikipedia.org/wiki/島田満 "wikilink")
-  - 音楽 - [菊池俊輔](https://ja.wikipedia.org/wiki/菊池俊輔 "wikilink")
-  - 作画監督・キャラクターデザイン：[前田実](https://ja.wikipedia.org/wiki/前田実 "wikilink")
+  - 脚本 - [雪室俊一](../Page/雪室俊一.md "wikilink")、[金春智子](../Page/金春智子.md "wikilink")、[井上敏樹](../Page/井上敏樹.md "wikilink")、[島田満](../Page/島田満.md "wikilink")
+  - 音楽 - [菊池俊輔](../Page/菊池俊輔.md "wikilink")
+  - 作画監督・キャラクターデザイン：[前田実](../Page/前田実.md "wikilink")
   - 美術監督 - [浦田又治](https://ja.wikipedia.org/wiki/浦田又治 "wikilink")
   - 美術補佐 - 山口俊和
   - 撮影監督 - [白井久男](https://ja.wikipedia.org/wiki/白井久男 "wikilink")、佐野禎史
   - 編集 - 花井正明
   - 録音 - 二宮健治
   - 監督 - [永丘昭典](../Page/永丘昭典.md "wikilink")
-  - 原画 - [進藤満尾](https://ja.wikipedia.org/wiki/進藤満尾 "wikilink")、[内山まさゆき](https://ja.wikipedia.org/wiki/内山正幸 "wikilink")、[平野俊貴](https://ja.wikipedia.org/wiki/平野俊貴 "wikilink") 、[平山智](https://ja.wikipedia.org/wiki/平山智_\(アニメーター\) "wikilink")、[須田正己](https://ja.wikipedia.org/wiki/須田正己 "wikilink")、[北原健雄](../Page/北原健雄.md "wikilink")、前田実、[渡辺浩](https://ja.wikipedia.org/wiki/わたなべひろし "wikilink") 他
+  - 原画 - [進藤満尾](https://ja.wikipedia.org/wiki/進藤満尾 "wikilink")、[内山まさゆき](https://ja.wikipedia.org/wiki/内山正幸 "wikilink")、[平野俊貴](../Page/平野俊貴.md "wikilink") 、[平山智](../Page/平山智_\(アニメーター\).md "wikilink")、[須田正己](../Page/須田正己.md "wikilink")、[北原健雄](../Page/北原健雄.md "wikilink")、前田実、[渡辺浩](../Page/わたなべひろし.md "wikilink") 他
   - 動画 - 玉沢君子、こむら直美、奥野明子、多田雅治、黒見紗子、岩田せつ子 他
   - 動画チェッカー - 新井豊
   - ゼログラフ - 戸塚友子、酒井日出子
@@ -134,18 +134,18 @@
   - 撮影 - 須崎博志、原正一、山田廣明、池上元秋、佐野和広、酒井晴美、笹本智子、星野毅、遠藤智子、重山恵美子
   - 編集助手 - 片桐公一、木村衣久子
   - 録音助手 - 佐藤守
-  - 音響効果 - [新井秀徳](https://ja.wikipedia.org/wiki/フィズサウンドクリエイション "wikilink")
-  - 協力 - [りんたろう](https://ja.wikipedia.org/wiki/りんたろう "wikilink")、[小松亘弘](https://ja.wikipedia.org/wiki/小松亘弘 "wikilink")
-  - 録音スタジオ - [タバック](https://ja.wikipedia.org/wiki/タバック "wikilink")
-  - 助監督 - 矢部秋則、[西尾大介](https://ja.wikipedia.org/wiki/西尾大介 "wikilink")
+  - 音響効果 - [新井秀徳](../Page/フィズサウンドクリエイション.md "wikilink")
+  - 協力 - [りんたろう](../Page/りんたろう.md "wikilink")、[小松亘弘](https://ja.wikipedia.org/wiki/小松亘弘 "wikilink")
+  - 録音スタジオ - [タバック](../Page/タバック.md "wikilink")
+  - 助監督 - 矢部秋則、[西尾大介](../Page/西尾大介.md "wikilink")
   - 記録 - 竹沢裕美子
   - 挿入歌 - 「[めちゃんこROCK'N ROLL](https://ja.wikipedia.org/wiki/ワイワイワールド#1993_ver. "wikilink")」「LOVE CHASER」「[アラレちゃん音頭](https://ja.wikipedia.org/wiki/アラレちゃん音頭 "wikilink")」
   - 仕上げ進行 - 藤本芳弘
   - 美術進行 - 服部たつや
   - 製作進行 - [樋口宗久](https://ja.wikipedia.org/wiki/樋口宗久 "wikilink")
   - 製作進行主任 - 関口考治
-  - 現像 - [東映化学](https://ja.wikipedia.org/wiki/東映ラボ・テック "wikilink")
-  - 協力プロダクション - [スタジオ・ジュニオ](https://ja.wikipedia.org/wiki/ジュニオ_ブレイン_トラスト "wikilink")、玉沢動画舎、[トミプロダクション](https://ja.wikipedia.org/wiki/富永貞義 "wikilink")、Zァイブ、[スタジオコクピット](../Page/スタジオコクピット.md "wikilink")、スタジオカーペンター、ヴォルテール、プロダクションアクト、スタジオタージ、スズキ動画企画、オニオン、こずえアニメ、協栄プロ、タカプロ、クロッカス、スタジオラスコー、ピーターパン、[スタジオコスモス](../Page/スタジオコスモス.md "wikilink")、イマジネーションプロダクト、[青二プロダクション](https://ja.wikipedia.org/wiki/青二プロダクション "wikilink")
+  - 現像 - [東映化学](../Page/東映ラボ・テック.md "wikilink")
+  - 協力プロダクション - [スタジオ・ジュニオ](../Page/ジュニオ_ブレイン_トラスト.md "wikilink")、玉沢動画舎、[トミプロダクション](../Page/富永貞義.md "wikilink")、Zァイブ、[スタジオコクピット](../Page/スタジオコクピット.md "wikilink")、スタジオカーペンター、ヴォルテール、プロダクションアクト、スタジオタージ、スズキ動画企画、オニオン、こずえアニメ、協栄プロ、タカプロ、クロッカス、スタジオラスコー、ピーターパン、[スタジオコスモス](../Page/スタジオコスモス.md "wikilink")、イマジネーションプロダクト、[青二プロダクション](../Page/青二プロダクション.md "wikilink")
   - 配給 - [東映](../Page/東映.md "wikilink")
   - アニメーション制作・製作 - [東映動画](https://ja.wikipedia.org/wiki/東映動画 "wikilink")
 
@@ -165,11 +165,11 @@
   - DVD
       - Dr.スランプ劇場版DVD-BOX SLUMP THE BOX MOVIES
           -
-            2008年9月21日発売。[ハピネット](https://ja.wikipedia.org/wiki/ハピネット "wikilink")より発売。
+            2008年9月21日発売。[ハピネット](../Page/ハピネット.md "wikilink")より発売。
 
 ### サウンドトラック
 
-本作の[アルバム](../Page/アルバム.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[9月22日](../Page/9月22日.md "wikilink")に[コロムビアミュージックエンタテインメントから発売された](../Page/日本コロムビア.md "wikilink")、サウンドトラックで、本作の劇中で使用された[挿入歌やBGMが収録されている](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")。『Dr.スランプ』の劇場作品の中では、唯一のサウンドトラックである。
+本作の[アルバム](../Page/アルバム.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[9月22日](../Page/9月22日.md "wikilink")に[コロムビアミュージックエンタテインメントから発売された](../Page/日本コロムビア.md "wikilink")、サウンドトラックで、本作の劇中で使用された[挿入歌やBGMが収録されている](../Page/サウンドトラック.md "wikilink")。『Dr.スランプ』の劇場作品の中では、唯一のサウンドトラックである。
 
 #### 収録曲
 
@@ -225,4 +225,4 @@
 [Category:Dr.スランプ](https://ja.wikipedia.org/wiki/Category:Dr.スランプ "wikilink") [Category:アニメ作品_と](https://ja.wikipedia.org/wiki/Category:アニメ作品_と "wikilink") [Category:1982年のアニメ映画](https://ja.wikipedia.org/wiki/Category:1982年のアニメ映画 "wikilink") [Category:永丘昭典の監督映画](https://ja.wikipedia.org/wiki/Category:永丘昭典の監督映画 "wikilink") [Category:東映アニメーションのアニメ映画](https://ja.wikipedia.org/wiki/Category:東映アニメーションのアニメ映画 "wikilink") [Category:鳥山明原作のアニメ作品](https://ja.wikipedia.org/wiki/Category:鳥山明原作のアニメ作品 "wikilink") [Category:ジャンプ・コミックスのアニメ作品](https://ja.wikipedia.org/wiki/Category:ジャンプ・コミックスのアニメ作品 "wikilink") [Category:ロボットを題材としたアニメ映画](https://ja.wikipedia.org/wiki/Category:ロボットを題材としたアニメ映画 "wikilink") [Category:地球外生命体を題材としたアニメ映画](https://ja.wikipedia.org/wiki/Category:地球外生命体を題材としたアニメ映画 "wikilink") [Category:宇宙海賊を題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:宇宙海賊を題材としたアニメ作品 "wikilink") [Category:冒険アニメ映画](https://ja.wikipedia.org/wiki/Category:冒険アニメ映画 "wikilink") [Category:日本の冒険映画](https://ja.wikipedia.org/wiki/Category:日本の冒険映画 "wikilink") [Category:コバルト文庫](https://ja.wikipedia.org/wiki/Category:コバルト文庫 "wikilink") [Category:2004年のアルバム](https://ja.wikipedia.org/wiki/Category:2004年のアルバム "wikilink") [Category:コロムビアミュージックエンタテインメントのアルバム](https://ja.wikipedia.org/wiki/Category:コロムビアミュージックエンタテインメントのアルバム "wikilink") [Category:アニメ映画のサウンドトラック](https://ja.wikipedia.org/wiki/Category:アニメ映画のサウンドトラック "wikilink")
 
 1.  惑星番号は、スランプ号で、NO.3618、マシリトの宇宙船では、NO.1138。
-2.  TVシリーズ後半では[野田圭一](https://ja.wikipedia.org/wiki/野田圭一 "wikilink")に交代。
+2.  TVシリーズ後半では[野田圭一](../Page/野田圭一.md "wikilink")に交代。

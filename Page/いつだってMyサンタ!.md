@@ -5,7 +5,7 @@
 
 [講談社](../Page/講談社.md "wikilink")の『[週刊少年マガジン](https://ja.wikipedia.org/wiki/週刊少年マガジン "wikilink")』[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")4・5合併号に掲載された読み切り漫画である。
 
-単行本としては[2001年](../Page/2001年.md "wikilink")にラブひなIRO-HINA VERSION 2 の付録として『いつだって　Myサンタ』ブックレット（1色40ページ単行本）が発売されたほか、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に[OVA](../Page/OVA.md "wikilink")が発売された。
+単行本としては[2001年](../Page/2001年.md "wikilink")にラブひなIRO-HINA VERSION 2 の付録として『いつだって　Myサンタ』ブックレット（1色40ページ単行本）が発売されたほか、[2005年](../Page/2005年.md "wikilink")に[OVA](../Page/OVA.md "wikilink")が発売された。
 
 ## あらすじ
 
@@ -30,17 +30,17 @@
     声 - [小林ゆう](https://ja.wikipedia.org/wiki/小林ゆう "wikilink")
     マイのライバルにして親友。現在は専門課程の一人前サンタである。魔法の掛け声は「ゴージャス」。
   - ノエル
-    声 - [櫻井智](https://ja.wikipedia.org/wiki/櫻井智 "wikilink")
+    声 - [櫻井智](../Page/櫻井智.md "wikilink")
     マイの通うサンタ養成学校の教官。イカを焼くのがうまいらしい。
   - ペドロ
-    [トナカイ](https://ja.wikipedia.org/wiki/トナカイ "wikilink")の[ぬいぐるみ](https://ja.wikipedia.org/wiki/ぬいぐるみ "wikilink")。
+    [トナカイ](../Page/トナカイ.md "wikilink")の[ぬいぐるみ](../Page/ぬいぐるみ.md "wikilink")。
   - 斉藤美奈子
-    声 - [千葉紗子](https://ja.wikipedia.org/wiki/千葉紗子 "wikilink")
+    声 - [千葉紗子](../Page/千葉紗子.md "wikilink")
     参太が所属しているパソコン部の憧れの先輩。
 
 ## OVA
 
-全2巻で、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月7日](../Page/12月7日.md "wikilink")に同時発売。第1巻は原作に沿ったストーリー、第2巻はOVAオリジナルストーリー。第2巻にはスタッフ側のおふざけでウソ次回予告がある。
+全2巻で、[2005年](../Page/2005年.md "wikilink")[12月7日](../Page/12月7日.md "wikilink")に同時発売。第1巻は原作に沿ったストーリー、第2巻はOVAオリジナルストーリー。第2巻にはスタッフ側のおふざけでウソ次回予告がある。
 
 ### スタッフ
 
@@ -51,16 +51,16 @@
   - キャラクターデザイン - [柳沢まさひで](../Page/柳沢まさひで.md "wikilink")
   - キャラクター原案協力 - [綾永らん](https://ja.wikipedia.org/wiki/綾永らん "wikilink")
   - サブキャラクターデザイン・総作画監督 - [塩川貴史](https://ja.wikipedia.org/wiki/塩川貴史 "wikilink")
-  - 作画監督 - [長森佳容](https://ja.wikipedia.org/wiki/長森佳容 "wikilink")（第1巻）、[番由紀子](../Page/番由紀子.md "wikilink")（第2巻）
+  - 作画監督 - [長森佳容](../Page/長森佳容.md "wikilink")（第1巻）、[番由紀子](../Page/番由紀子.md "wikilink")（第2巻）
   - 演出 - 中村憲由（第1巻）、羽生尚靖（第2巻）
   - 美術監督 - [小濱俊裕](https://ja.wikipedia.org/wiki/スタジオ美峰 "wikilink")
   - 色彩設計 - 若菜陽子
   - 撮影監督 - 沢直人
   - 編集 - 和田光弘
-  - 音響監督 - [鶴岡陽太](https://ja.wikipedia.org/wiki/鶴岡陽太 "wikilink")
+  - 音響監督 - [鶴岡陽太](../Page/鶴岡陽太.md "wikilink")
   - 音楽 - [坂本洋](../Page/坂本洋.md "wikilink")
   - プロデューサー - 宇都貴博
-  - アニメーション制作 - [TNK](https://ja.wikipedia.org/wiki/ティー・エヌ・ケー "wikilink")
+  - アニメーション制作 - [TNK](../Page/ティー・エヌ・ケー.md "wikilink")
   - 製作 - [Three Fat Samurai](https://ja.wikipedia.org/wiki/Three_Fat_Samurai "wikilink")、[SOL BLADE](https://ja.wikipedia.org/wiki/SOL_BLADE "wikilink")
 
 ### 主題歌
@@ -95,7 +95,7 @@
 
 :; 「サンバdeサンタ\!」
 
-:: 歌 - [Little Non](https://ja.wikipedia.org/wiki/Little_Non "wikilink")
+:: 歌 - [Little Non](../Page/Little_Non.md "wikilink")
 
 :; 「Get my own way」
 
@@ -120,13 +120,13 @@
 
 ### CD
 
-  - 「いつだってMyサンタ！」マイキャラクターソング キミからお願い（歌：マイ（平野綾）、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月21日](../Page/10月21日.md "wikilink")、YFCM2701）
-  - 「いつだってMyサンタ！」ノエル先生キャラクターソング Tomorrows Weather（歌：ノエル先生（櫻井智）、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月2日](../Page/11月2日.md "wikilink")）
-  - 「いつだってMyサンタ！」シャリーキャラクターソング Get my own way（歌：シャリー（小林ゆう）、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月9日](../Page/11月9日.md "wikilink")）
-  - サンバdeサンタ\!（歌：[Little Non](https://ja.wikipedia.org/wiki/Little_Non "wikilink")、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")）
-  - [「いつだってMyサンタ！」マイマイキャラクターソング GANVARE\!](../Page/GANVARE!.md "wikilink")（歌：マイマイ（田村ゆかり）、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月23日](../Page/11月23日.md "wikilink")）
-  - My Love（歌：[七花](https://ja.wikipedia.org/wiki/七花 "wikilink")、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月7日](../Page/12月7日.md "wikilink")）
-  - my saint〜いつだってMyサンタ\! BGM & CHARACTER SONGS REMIX（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月21日](../Page/12月21日.md "wikilink")、YFCA1703）
+  - 「いつだってMyサンタ！」マイキャラクターソング キミからお願い（歌：マイ（平野綾）、[2005年](../Page/2005年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")、YFCM2701）
+  - 「いつだってMyサンタ！」ノエル先生キャラクターソング Tomorrows Weather（歌：ノエル先生（櫻井智）、[2005年](../Page/2005年.md "wikilink")[11月2日](../Page/11月2日.md "wikilink")）
+  - 「いつだってMyサンタ！」シャリーキャラクターソング Get my own way（歌：シャリー（小林ゆう）、[2005年](../Page/2005年.md "wikilink")[11月9日](../Page/11月9日.md "wikilink")）
+  - サンバdeサンタ\!（歌：[Little Non](../Page/Little_Non.md "wikilink")、[2005年](../Page/2005年.md "wikilink")[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")）
+  - [「いつだってMyサンタ！」マイマイキャラクターソング GANVARE\!](../Page/GANVARE!.md "wikilink")（歌：マイマイ（田村ゆかり）、[2005年](../Page/2005年.md "wikilink")[11月23日](../Page/11月23日.md "wikilink")）
+  - My Love（歌：[七花](https://ja.wikipedia.org/wiki/七花 "wikilink")、[2005年](../Page/2005年.md "wikilink")[12月7日](../Page/12月7日.md "wikilink")）
+  - my saint〜いつだってMyサンタ\! BGM & CHARACTER SONGS REMIX（[2005年](../Page/2005年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")、YFCA1703）
 
 ## 外部リンク
 

@@ -1,7 +1,7 @@
 > この記事は[69TRIBE ](https://ja.wikipedia.org/wiki/69TRIBE_)から翻訳されています。
 
 
-『**69★TRIBE ロック族**』（ロックトライブ）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月12日](../Page/4月12日.md "wikilink")から[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")まで毎週水曜 25:58～26:28に[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")（[関東ローカル](https://ja.wikipedia.org/wiki/関東ローカル "wikilink")）で放送されていた[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")。通称「**69★TRIBE**」。[フォーサイド・ドット・コム](https://ja.wikipedia.org/wiki/フォーサイド・ドット・コム "wikilink")の[一社提供](https://ja.wikipedia.org/wiki/一社提供 "wikilink")であるが過去2回のスペシャル放送時は番組の前半だけ提供し、後半は複数のスポンサーが提供していた（ただし、テロップは同社のみ表示されている）。
+『**69★TRIBE ロック族**』（ロックトライブ）は、[2005年](../Page/2005年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")まで毎週水曜 25:58～26:28に[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")（[関東ローカル](../Page/関東ローカル.md "wikilink")）で放送されていた[音楽番組](../Page/音楽番組.md "wikilink")。通称「**69★TRIBE**」。[フォーサイド・ドット・コム](https://ja.wikipedia.org/wiki/フォーサイド・ドット・コム "wikilink")の[一社提供](../Page/一社提供.md "wikilink")であるが過去2回のスペシャル放送時は番組の前半だけ提供し、後半は複数のスポンサーが提供していた（ただし、テロップは同社のみ表示されている）。
 
 ## 概要
 
@@ -36,7 +36,7 @@
 
 ### アシスタント
 
-  - [工藤里紗](https://ja.wikipedia.org/wiki/工藤里紗 "wikilink")（2005年10月18日 - 2006年1月10日）
+  - [工藤里紗](../Page/工藤里紗.md "wikilink")（2005年10月18日 - 2006年1月10日）
 
 <!-- end list -->
 
@@ -54,7 +54,7 @@
 
 <!-- end list -->
 
-  - [アリス](https://ja.wikipedia.org/wiki/アリス_\(モデル\) "wikilink")（2006年4月12日 - 同年9月27日）
+  - [アリス](../Page/アリス_\(モデル\).md "wikilink")（2006年4月12日 - 同年9月27日）
 
 <!-- end list -->
 
@@ -63,9 +63,9 @@
 
 ### アーティスト
 
-  - [The Phanky OKstra](https://ja.wikipedia.org/wiki/The_Phanky_OKstra "wikilink")
+  - [The Phanky OKstra](../Page/The_Phanky_OKstra.md "wikilink")
   - [I-lulu](https://ja.wikipedia.org/wiki/I-lulu "wikilink")
-  - [Toi teens\!?](https://ja.wikipedia.org/wiki/Toi_teens!? "wikilink")
+  - [Toi teens\!?](../Page/Toi_teens!?.md "wikilink")
 
 <!-- end list -->
 
@@ -139,7 +139,7 @@
 
 ## スペシャル企画
 
-この番組と連動したライブイベントが[Zepp Tokyoで行われた](https://ja.wikipedia.org/wiki/Zepp "wikilink")。同番組に出演したアーティストが参加しており、2005年は「69★diggin」に、2006年は「69★Star」にそれぞれ登場したアーティストが集まっている。開催日とライブのタイトルは以下のとおり。
+この番組と連動したライブイベントが[Zepp Tokyoで行われた](../Page/Zepp.md "wikilink")。同番組に出演したアーティストが参加しており、2005年は「69★diggin」に、2006年は「69★Star」にそれぞれ登場したアーティストが集まっている。開催日とライブのタイトルは以下のとおり。
 
   - 2005年8月19日 「69★TRIBE～King of 69★ADVENTURE\!～」
   - 2006年8月2日 「69★TRIBE LIVE 2006」
@@ -161,7 +161,7 @@
   - 企画 - [平野雄大](https://ja.wikipedia.org/wiki/平野雄大 "wikilink")
   - ディレクター - [宮野敏一](https://ja.wikipedia.org/wiki/宮野敏一 "wikilink")
   - プロデューサー - [中村パンチョ宏信](https://ja.wikipedia.org/wiki/中村パンチョ宏信 "wikilink")
-  - 制作 - [FCC](https://ja.wikipedia.org/wiki/フジクリエイティブコーポレーション "wikilink")
+  - 制作 - [FCC](../Page/フジクリエイティブコーポレーション.md "wikilink")
   - 制作著作 - フジテレビ
 
 ## 外部リンク

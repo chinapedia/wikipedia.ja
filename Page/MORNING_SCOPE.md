@@ -5,12 +5,12 @@
 
 ## DJ
 
-  - 月曜-木曜 - [鹿島千穂](https://ja.wikipedia.org/wiki/鹿島千穂 "wikilink")（2007年4月2日-2008年3月31日）
+  - 月曜-木曜 - [鹿島千穂](../Page/鹿島千穂.md "wikilink")（2007年4月2日-2008年3月31日）
   - 金曜日 - 宮田圭子（2007年10月5日-2008年3月28日）
 
 ## 過去のDJ
 
-  - 月曜-木曜 - [古家正亨](https://ja.wikipedia.org/wiki/古家正亨 "wikilink")（放送開始-2007年3月29日)
+  - 月曜-木曜 - [古家正亨](../Page/古家正亨.md "wikilink")（放送開始-2007年3月29日)
   - 金曜日 - [アイラ](https://ja.wikipedia.org/wiki/竹本アイラ "wikilink")（放送開始-2007年3月30日）、[矢野聖子](../Page/矢野聖子.md "wikilink")（放送開始-2007年9月28日）
 
 ## 主なコーナー
@@ -26,7 +26,7 @@
         その日のインフォメーションDJが各誌朝刊からフラッシュニュースを伝える。
   - 7:45 TRAFFIC IMFORMATION（トラフティックインフォメーション）
       -
-        [日本道路交通情報センター](https://ja.wikipedia.org/wiki/日本道路交通情報センター "wikilink")の担当者から、北海道内の普通道路、[高速道路](../Page/高速道路.md "wikilink")の渋滞情報などを伝える。
+        [日本道路交通情報センター](../Page/日本道路交通情報センター.md "wikilink")の担当者から、北海道内の普通道路、[高速道路](../Page/高速道路.md "wikilink")の渋滞情報などを伝える。
   - 7:58 WEATHER IMFORMATION
   - 8:07 TRAFFIC IMFORMATION
   - 8:09 AIRPORT IMFORMATION（エアポートインフォメーション）

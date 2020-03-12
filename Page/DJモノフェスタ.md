@@ -3,20 +3,20 @@
 
 **ディノスショッピングジャーナル DJモノフェスタ**（でぃーじぇいものふぇすた）とは、[フジテレビをはじめとする](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[FNS系列及びFNS系列の置局のない地域におけるフジテレビと関係の深い他系列局](../Page/フジネットワーク.md "wikilink")、一部のCS放送局で放送されている[テレビショッピング](../Page/テレビショッピング.md "wikilink")番組。
 
-番組自体はフジテレビではなく、同子会社の「[ディノス](https://ja.wikipedia.org/wiki/ディノス "wikilink")」が制作している。
+番組自体はフジテレビではなく、同子会社の「[ディノス](../Page/ディノス.md "wikilink")」が制作している。
 
 以前は「ディノスショッピングジャーナル 通販DJ」というタイトルで放送されていた。
 
 ## パーソナリティ
 
   - [辻よしなり](../Page/辻よしなり.md "wikilink")
-      - 元[テレビ朝日](../Page/テレビ朝日.md "wikilink")アナウンサー、[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")出身の人気タレント
+      - 元[テレビ朝日](../Page/テレビ朝日.md "wikilink")アナウンサー、[埼玉県](../Page/埼玉県.md "wikilink")出身の人気タレント
   - [松田健男](https://ja.wikipedia.org/wiki/松田健男 "wikilink")
-      - CS「[ショップチャンネル](https://ja.wikipedia.org/wiki/ショップチャンネル "wikilink")」にて「**松田のオジサマ**」として人気の高かった凄腕の紹介者
+      - CS「[ショップチャンネル](../Page/ショップチャンネル.md "wikilink")」にて「**松田のオジサマ**」として人気の高かった凄腕の紹介者
 
 　　　　　2009年11月2日死去
 
-  - [橋本志穂](https://ja.wikipedia.org/wiki/橋本志穂 "wikilink")
+  - [橋本志穂](../Page/橋本志穂.md "wikilink")
       - 元[福岡放送](../Page/福岡放送.md "wikilink")アナウンサー
   - [相川梨絵](../Page/相川梨絵.md "wikilink")
       - 元[フジテレビアナウンサー](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")
@@ -33,8 +33,8 @@
   - [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")([日本テレビ系列](../Page/日本テレビネットワーク協議会.md "wikilink"))
   - [テレビ山口](../Page/テレビ山口.md "wikilink")(TBS系列。ただし開局から1987年9月末までは<TBS系列とのクロスネット局ではあったが>フジテレビ系列だった）
   - [BSフジ](../Page/BSフジ.md "wikilink")
-  - [ゴルフネットワーク](https://ja.wikipedia.org/wiki/ゴルフネットワーク "wikilink")
-  - [ザ・ゴルフ・チャンネル](https://ja.wikipedia.org/wiki/ザ・ゴルフ・チャンネル "wikilink")
+  - [ゴルフネットワーク](../Page/ゴルフネットワーク.md "wikilink")
+  - [ザ・ゴルフ・チャンネル](../Page/ザ・ゴルフ・チャンネル.md "wikilink")
   - [J sports ESPN](../Page/J_SPORTS.md "wikilink")
 
 ## 放送日・放送時間

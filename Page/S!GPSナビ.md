@@ -7,7 +7,7 @@
 
 ## 沿革
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月1日](../Page/10月1日.md "wikilink") - ボーダフォンの日本法人が[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")に買収されたことから、名称を「S\!GPSナビ」に変更。
+  - [2006年](../Page/2006年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink") - ボーダフォンの日本法人が[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")に買収されたことから、名称を「S\!GPSナビ」に変更。
 
 ## 対応機種
 
@@ -33,7 +33,7 @@
   - [SoftBank 002SH](https://ja.wikipedia.org/wiki/SoftBank_002SH "wikilink")
   - [SoftBank 003SH](https://ja.wikipedia.org/wiki/SoftBank_003SH "wikilink")
   - [SoftBank 843SH](https://ja.wikipedia.org/wiki/SoftBank_843SH "wikilink")
-  - [Vodafone 904SH](https://ja.wikipedia.org/wiki/Vodafone_904SH "wikilink")
+  - [Vodafone 904SH](../Page/Vodafone_904SH.md "wikilink")
   - [SoftBank 923SH](../Page/SoftBank_923SH.md "wikilink")
   - [SoftBank 931SH](https://ja.wikipedia.org/wiki/SoftBank_931SH "wikilink")
   - [SoftBank 932SH](https://ja.wikipedia.org/wiki/SoftBank_932SH "wikilink")
@@ -50,8 +50,8 @@
 
   - [Vodafone 903T](../Page/Vodafone_903T.md "wikilink")
   - [Vodafone 904T](../Page/Vodafone_904T.md "wikilink")
-  - [SoftBank 810T](https://ja.wikipedia.org/wiki/SoftBank_810T "wikilink")
-  - [SoftBank 811T](https://ja.wikipedia.org/wiki/SoftBank_811T "wikilink")
+  - [SoftBank 810T](../Page/SoftBank_810T.md "wikilink")
+  - [SoftBank 811T](../Page/SoftBank_811T.md "wikilink")
   - [SoftBank 812T](../Page/SoftBank_812T.md "wikilink")
   - [SoftBank 813T](https://ja.wikipedia.org/wiki/SoftBank_813T "wikilink")
   - [SoftBank 820T](../Page/SoftBank_820T.md "wikilink")
@@ -61,7 +61,7 @@
   - [SoftBank 830T](https://ja.wikipedia.org/wiki/SoftBank_830T "wikilink")
   - [SoftBank 831T](https://ja.wikipedia.org/wiki/SoftBank_831T "wikilink")
   - [SoftBank 832T](https://ja.wikipedia.org/wiki/SoftBank_832T "wikilink")
-  - [SoftBank 910T](https://ja.wikipedia.org/wiki/SoftBank_910T "wikilink")
+  - [SoftBank 910T](../Page/SoftBank_910T.md "wikilink")
   - [SoftBank 911T](https://ja.wikipedia.org/wiki/SoftBank_911T "wikilink")
   - [SoftBank 912T](../Page/SoftBank_912T.md "wikilink")
   - [SoftBank 920T](https://ja.wikipedia.org/wiki/SoftBank_920T "wikilink")

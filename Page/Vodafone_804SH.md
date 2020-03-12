@@ -1,7 +1,7 @@
 > この記事は[Vodafone 804SH](https://ja.wikipedia.org/wiki/Vodafone_804SH)から翻訳されています。
 
 
-**Vodafone 804SH**（ボーダフォン804SH）は[シャープ](../Page/シャープ.md "wikilink")が開発し、ボーダフォン日本法人（現[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")）が販売する[W-CDMA](../Page/W-CDMA.md "wikilink")通信方式のVodafone 3G（現[SoftBank 3G](https://ja.wikipedia.org/wiki/SoftBank_3G "wikilink")）サービスを利用可能な[携帯電話](../Page/携帯電話.md "wikilink")端末である。端末発売日は2006年01月17日。
+**Vodafone 804SH**（ボーダフォン804SH）は[シャープ](../Page/シャープ.md "wikilink")が開発し、ボーダフォン日本法人（現[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")）が販売する[W-CDMA](../Page/W-CDMA.md "wikilink")通信方式のVodafone 3G（現[SoftBank 3G](../Page/SoftBank_3G.md "wikilink")）サービスを利用可能な[携帯電話](../Page/携帯電話.md "wikilink")端末である。端末発売日は2006年01月17日。
 
 ## スペック
 
@@ -18,13 +18,13 @@
 
 ## 対応サービス
 
-| 主な対応サービス                                                                                 |
-| ---------------------------------------------------------------------------------------- |
-| ~~[サークルトーク](https://ja.wikipedia.org/wiki/サークルトーク "wikilink")~~                          |
-| ~~[S\!タウン](https://ja.wikipedia.org/wiki/S!タウン "wikilink")~~                             |
-| [S\!ケータイ動画](../Page/S!ケータイ動画.md "wikilink")                                              |
-| [着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")／[着うた](../Page/着うた.md "wikilink") |
-| [レコメール](https://ja.wikipedia.org/wiki/レコメール "wikilink")                                  |
+| 主な対応サービス                                                              |
+| --------------------------------------------------------------------- |
+| ~~[サークルトーク](https://ja.wikipedia.org/wiki/サークルトーク "wikilink")~~       |
+| ~~[S\!タウン](https://ja.wikipedia.org/wiki/S!タウン "wikilink")~~          |
+| [S\!ケータイ動画](../Page/S!ケータイ動画.md "wikilink")                           |
+| [着うたフル](../Page/着うたフル.md "wikilink")／[着うた](../Page/着うた.md "wikilink") |
+| [レコメール](https://ja.wikipedia.org/wiki/レコメール "wikilink")               |
 
 ## 特徴
 
@@ -47,7 +47,7 @@ Vodafone 3G（現SoftBank 3G）初のカスタモ対応機。Vodafone live\! Fel
 ## 関連項目
 
   - [ソフトバンクモバイルの端末一覧](https://ja.wikipedia.org/wiki/ソフトバンクモバイルの端末一覧 "wikilink")
-  - [Heartsdales](https://ja.wikipedia.org/wiki/Heartsdales "wikilink") - [コマーシャルソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")「冬 gonna love」を歌う2人組女性デュオ。
+  - [Heartsdales](https://ja.wikipedia.org/wiki/Heartsdales "wikilink") - [コマーシャルソング](../Page/コマーシャルソング.md "wikilink")「冬 gonna love」を歌う2人組女性デュオ。
 
 ## 外部リンク
 

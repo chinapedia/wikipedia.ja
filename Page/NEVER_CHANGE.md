@@ -5,7 +5,7 @@
 
 アルバム『[昭和](../Page/昭和_\(アルバム\).md "wikilink")』（[1989年](../Page/1989年.md "wikilink")）からの先行シングル。
 
-[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")では最高位2位となっている。
+[オリコンチャート](../Page/オリコンチャート.md "wikilink")では最高位2位となっている。
 
 1988年の長渕の第一子誕生により製作された曲。また、2005年まで長渕剛オフィシャルHPのタイトルネームにも使われていた。
 
@@ -23,7 +23,7 @@
 
 ## リリース
 
-[1988年](../Page/1988年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")に[東芝EMIのエキスプレスレーベルより](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")[リリースされた](https://ja.wikipedia.org/wiki/発売 "wikilink")。
+[1988年](../Page/1988年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")に[東芝EMIのエキスプレスレーベルより](../Page/EMIミュージック・ジャパン.md "wikilink")[リリースされた](https://ja.wikipedia.org/wiki/発売 "wikilink")。
 
 アルバム『昭和』（1989年）にも収録されているが、そちらはリミックスとボーカルのみ録り直し、全体的にエコー処理もかなり抑えられたミックスになっており、また赤ん坊（長女：[文音の声](https://ja.wikipedia.org/wiki/長渕文音 "wikilink")）の泣き声が収録されている。
 
@@ -35,9 +35,9 @@
 
 ## チャート成績
 
-[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")では最高位2位、登場回数10回となり、売り上げ枚数は12.2万枚となった。
+[オリコンチャート](../Page/オリコンチャート.md "wikilink")では最高位2位、登場回数10回となり、売り上げ枚数は12.2万枚となった。
 
-前作「乾杯」、次作「[とんぼ](https://ja.wikipedia.org/wiki/とんぼ_\(長渕剛の曲\) "wikilink")」という大ヒット曲の間にリリースされたシングルであるが、売上枚数はあまり高くなく、一般的にはあまり浸透していない楽曲である。
+前作「乾杯」、次作「[とんぼ](../Page/とんぼ_\(長渕剛の曲\).md "wikilink")」という大ヒット曲の間にリリースされたシングルであるが、売上枚数はあまり高くなく、一般的にはあまり浸透していない楽曲である。
 
 ## ライブ・パフォーマンス
 
@@ -50,7 +50,7 @@
 ## 参加ミュージシャン
 
   - [笛吹利明](https://ja.wikipedia.org/wiki/笛吹利明 "wikilink") - アコースティック・ガットギター
-  - [中西康晴](https://ja.wikipedia.org/wiki/中西康晴 "wikilink") - [ピアノ](../Page/ピアノ.md "wikilink")
+  - [中西康晴](../Page/中西康晴.md "wikilink") - [ピアノ](../Page/ピアノ.md "wikilink")
 
 ## 収録アルバム
 

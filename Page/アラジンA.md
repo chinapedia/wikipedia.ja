@@ -1,7 +1,7 @@
 > この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
 
 
-**アラジンA**（あらじんえーす）は[サミー](https://ja.wikipedia.org/wiki/サミー "wikilink")から2002年2月24日に発売された[パチスロ](../Page/パチスロ.md "wikilink")機。アラジンシリーズ4代目で初のドット表示が搭載されたものの、その爆裂性の激しさから強制撤去となった。
+**アラジンA**（あらじんえーす）は[サミー](../Page/サミー.md "wikilink")から2002年2月24日に発売された[パチスロ](../Page/パチスロ.md "wikilink")機。アラジンシリーズ4代目で初のドット表示が搭載されたものの、その爆裂性の激しさから強制撤去となった。
 
 アラジンシリーズに連綿と受け継がれてきた[単チェリー](https://ja.wikipedia.org/wiki/単チェリー "wikilink")を搭載しているが、従来のシングルボーナスの集中役搭載機ではなくAT機として登場。また、ATシステムもこれまでの様な連チャン数が選択されるものではなく、モード移行システムを別の視点で活用させた。
 
@@ -17,7 +17,7 @@
   - 当選時のATは1セットと決まっており連チャンの印象が薄いが、逆を言えば高確率状態にいる限り、突入し続けるということなので、他機種と遜色無い出玉が期待できる。また、滞在ゲーム数により当選回数が左右される不安定なスペックなので、状況次第ではあるものの、一撃数万枚レベルの出玉増加も可能。
   - AC中にハズレフラグに当選すると、1/2でAC後に「スーパーアラジンチャンス」へ突入。継続ゲーム数は10〜5000。殆どが数十ゲームだが、選択率1%以下の数千ゲームが選択された場合は爆裂必至となる。特に、最長継続ゲーム数である「SAC5000G」を引き当てることができれば、**一撃65600枚**というとんでもない出玉を叩き出すことも可能であった。
 
-その出玉は非常に激しく、4号機の中でもトップクラスの爆裂スペックを誇る。しかしながら、「射幸心をあおる」機種として[ミリオンゴッド](https://ja.wikipedia.org/wiki/ミリオンゴッド "wikilink")（[ミズホ](https://ja.wikipedia.org/wiki/ユニバーサルエンターテインメント "wikilink")）、[サラリーマン金太郎](https://ja.wikipedia.org/wiki/サラリーマン金太郎_\(パチスロ\) "wikilink")（ロデオ）などとともに検定取り消し処分となり、強制撤去された。
+その出玉は非常に激しく、4号機の中でもトップクラスの爆裂スペックを誇る。しかしながら、「射幸心をあおる」機種として[ミリオンゴッド](../Page/ミリオンゴッド.md "wikilink")（[ミズホ](../Page/ユニバーサルエンターテインメント.md "wikilink")）、[サラリーマン金太郎](../Page/サラリーマン金太郎_\(パチスロ\).md "wikilink")（ロデオ）などとともに検定取り消し処分となり、強制撤去された。
 
 後に、出玉性などを抑えた新バージョンとして「アラジンS」が発売された。
 
@@ -36,13 +36,13 @@
 
 ## 後継機
 
-[2003年](../Page/2003年.md "wikilink")には後継機としてATによる出玉を抑えた「[アラジンS](https://ja.wikipedia.org/wiki/アラジンS "wikilink")」がリリースされているほか、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")には「[アラジン2エボリューション](../Page/アラジン2エボリューション.md "wikilink")」がストック機として、[2007年](../Page/2007年.md "wikilink")には「[CRアラジンデスティニー](../Page/CRアラジンデスティニー.md "wikilink")」がパチンコに姿を変えて登場している。 [2015年](../Page/2015年.md "wikilink") [2月](https://ja.wikipedia.org/wiki/2月 "wikilink")には初代を継承した[アラジンA-IIが導入された](https://ja.wikipedia.org/wiki/アラジンA2 "wikilink")。
+[2003年](../Page/2003年.md "wikilink")には後継機としてATによる出玉を抑えた「[アラジンS](https://ja.wikipedia.org/wiki/アラジンS "wikilink")」がリリースされているほか、[2005年](../Page/2005年.md "wikilink")には「[アラジン2エボリューション](../Page/アラジン2エボリューション.md "wikilink")」がストック機として、[2007年](../Page/2007年.md "wikilink")には「[CRアラジンデスティニー](../Page/CRアラジンデスティニー.md "wikilink")」がパチンコに姿を変えて登場している。 [2015年](../Page/2015年.md "wikilink") [2月](https://ja.wikipedia.org/wiki/2月 "wikilink")には初代を継承した[アラジンA-IIが導入された](https://ja.wikipedia.org/wiki/アラジンA2 "wikilink")。
 
 ## ゲーム機
 
   - [PS2用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『実戦パチスロ必勝法\!アラジンA』が2002年7月18日に発売されている。
-  - [オンラインゲーム](../Page/オンラインゲーム.md "wikilink")サイト『[777town.net](https://ja.wikipedia.org/wiki/777town.net "wikilink")』にてプレイが可能である。
-  - PS2ソフト『[龍が如く2](https://ja.wikipedia.org/wiki/龍が如く2 "wikilink")』にてプレイが可能である。また本作の[PS3移植版として発売された](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、[龍が如く1&2 HD EDITIONにてもプレイ可能である](https://ja.wikipedia.org/wiki/龍が如く1&2_HD_EDITION "wikilink")。
+  - [オンラインゲーム](../Page/オンラインゲーム.md "wikilink")サイト『[777town.net](../Page/777town.net.md "wikilink")』にてプレイが可能である。
+  - PS2ソフト『[龍が如く2](../Page/龍が如く2.md "wikilink")』にてプレイが可能である。また本作の[PS3移植版として発売された](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、[龍が如く1&2 HD EDITIONにてもプレイ可能である](https://ja.wikipedia.org/wiki/龍が如く1&2_HD_EDITION "wikilink")。
   - [携帯サイト](https://ja.wikipedia.org/wiki/携帯サイト "wikilink")『[サミー777タウン](https://ja.wikipedia.org/wiki/サミー777タウン "wikilink")』にてプレイが可能である。
 
 ## その他

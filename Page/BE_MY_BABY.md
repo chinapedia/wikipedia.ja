@@ -1,15 +1,15 @@
 > この記事は[BE MY BABY](https://ja.wikipedia.org/wiki/BE_MY_BABY)から翻訳されています。
 
 
-「**BE MY BABY**」（ビー・マイ・ベイビー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[ユニットである](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")[COMPLEX](https://ja.wikipedia.org/wiki/COMPLEX "wikilink")の楽曲。同ユニットのファースト・シングルとしてリリースされた。
+「**BE MY BABY**」（ビー・マイ・ベイビー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[ユニットである](../Page/音楽ユニット.md "wikilink")[COMPLEX](../Page/COMPLEX.md "wikilink")の楽曲。同ユニットのファースト・シングルとしてリリースされた。
 
 ## 背景
 
-アイドルとしてデビューし、音楽以外にも映画やテレビ出演などで活動していた[吉川晃司](https://ja.wikipedia.org/wiki/吉川晃司 "wikilink")は、1988年2月3日にシングル「[プリティ・デイト](https://ja.wikipedia.org/wiki/プリティ・デイト "wikilink")」を発表後に1年間の休業宣言をし、事務所を独立、レコード会社を移籍して沈黙を続けていた。また、[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")の解散後にソロアルバム『[GUITARHYTHM](../Page/GUITARHYTHM.md "wikilink")』を発表した[布袋寅泰](../Page/布袋寅泰.md "wikilink")は、その後の活動が注目されている状況であったが、1988年12月10日に突如2人のユニット「COMPLEX」の結成が発表される。その後、第一弾シングルとして本作「BE MY BABY」がリリースされた。
+アイドルとしてデビューし、音楽以外にも映画やテレビ出演などで活動していた[吉川晃司](../Page/吉川晃司.md "wikilink")は、1988年2月3日にシングル「[プリティ・デイト](https://ja.wikipedia.org/wiki/プリティ・デイト "wikilink")」を発表後に1年間の休業宣言をし、事務所を独立、レコード会社を移籍して沈黙を続けていた。また、[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")の解散後にソロアルバム『[GUITARHYTHM](../Page/GUITARHYTHM.md "wikilink")』を発表した[布袋寅泰](../Page/布袋寅泰.md "wikilink")は、その後の活動が注目されている状況であったが、1988年12月10日に突如2人のユニット「COMPLEX」の結成が発表される。その後、第一弾シングルとして本作「BE MY BABY」がリリースされた。
 
 ## リリース
 
-[1989年](../Page/1989年.md "wikilink")[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")に[東芝EMIのイーストワールドレーベルより](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")[7インチレコード](../Page/レコード.md "wikilink")、[8センチCD](https://ja.wikipedia.org/wiki/8センチCD "wikilink")の2形態でリリースされた。
+[1989年](../Page/1989年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")に[東芝EMIのイーストワールドレーベルより](../Page/EMIミュージック・ジャパン.md "wikilink")[7インチレコード](../Page/レコード.md "wikilink")、[8センチCD](https://ja.wikipedia.org/wiki/8センチCD "wikilink")の2形態でリリースされた。
 
 カップリングの「CLOCKWORK RUNNERS」はアルバム収録のものとは異なり、イントロ部分約6秒がカットされたエディットになっていて、（時計じかけの走者達）という副題が付けられていた。
 
@@ -21,11 +21,11 @@
 
 ## チャート成績
 
-本作はリリース後オリコンチャートで1位となり、4月26日にはアルバム『[COMPLEX](https://ja.wikipedia.org/wiki/COMPLEX_\(アルバム\) "wikilink")』（1989年）、5月3日にはシングルビデオ「BE MY BABY」をリリースし、全てが1位を獲得しヒット作品となった。
+本作はリリース後オリコンチャートで1位となり、4月26日にはアルバム『[COMPLEX](../Page/COMPLEX_\(アルバム\).md "wikilink")』（1989年）、5月3日にはシングルビデオ「BE MY BABY」をリリースし、全てが1位を獲得しヒット作品となった。
 
 ## ミュージック・ビデオ
 
-[PVは白い空間で](https://ja.wikipedia.org/wiki/ミュージックビデオ "wikilink")2人がそれぞれ歌、ギター演奏をするだけのシンプルなものとなっている。監督は[中村友彦](https://ja.wikipedia.org/wiki/中村友彦 "wikilink")。後に「[PRETTY DOLL](https://ja.wikipedia.org/wiki/COMPLEX_\(アルバム\) "wikilink")」のPVとともにシングルビデオ『BE MY BABY』としてリリースされた。
+[PVは白い空間で](https://ja.wikipedia.org/wiki/ミュージックビデオ "wikilink")2人がそれぞれ歌、ギター演奏をするだけのシンプルなものとなっている。監督は[中村友彦](https://ja.wikipedia.org/wiki/中村友彦 "wikilink")。後に「[PRETTY DOLL](../Page/COMPLEX_\(アルバム\).md "wikilink")」のPVとともにシングルビデオ『BE MY BABY』としてリリースされた。
 
 ## メディアでの使用
 
@@ -33,13 +33,13 @@
 
 また、後に[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[R-1ぐらんぷり](../Page/R-1ぐらんぷり.md "wikilink")』（2002年 - 、[関西テレビ](https://ja.wikipedia.org/wiki/関西テレビ "wikilink")・[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）のテーマソングとして使用されている。
 
-2019年2月22日より[クラシエホームプロダクツ](https://ja.wikipedia.org/wiki/クラシエホームプロダクツ "wikilink")のヘアケアブランド「[いち髪](../Page/いち髪.md "wikilink")」のCMソングに起用されている\[1\]\[2\]。
+2019年2月22日より[クラシエホームプロダクツ](../Page/クラシエホームプロダクツ.md "wikilink")のヘアケアブランド「[いち髪](../Page/いち髪.md "wikilink")」のCMソングに起用されている\[1\]\[2\]。
 
 ## カバー
 
   - 布袋寅泰 - アルバム『ALL TIME SUPER BEST』（2005年）
   - [倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink") - アルバム『[ETERNITY〜Love & Songs〜](https://ja.wikipedia.org/wiki/ETERNITY〜Love_&_Songs〜 "wikilink")』（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")）
-  - [嘉門達夫](https://ja.wikipedia.org/wiki/嘉門達夫 "wikilink")は「[替え唄メドレー](https://ja.wikipedia.org/wiki/替え唄メドレー "wikilink")2」（[1991年](../Page/1991年.md "wikilink")）でこの曲のイントロ部分を「今井美樹」と[替え歌](https://ja.wikipedia.org/wiki/替え歌 "wikilink")にして歌っている。偶然であるがCOMPLEXのメンバー布袋寅泰はのちに今井と再婚している。
+  - [嘉門達夫](https://ja.wikipedia.org/wiki/嘉門達夫 "wikilink")は「[替え唄メドレー](../Page/替え唄メドレー.md "wikilink")2」（[1991年](../Page/1991年.md "wikilink")）でこの曲のイントロ部分を「今井美樹」と[替え歌](../Page/替え歌.md "wikilink")にして歌っている。偶然であるがCOMPLEXのメンバー布袋寅泰はのちに今井と再婚している。
 
 ## インターネットにおいて
 
@@ -59,7 +59,7 @@
 <!-- end list -->
 
   - **[藤井丈司](https://ja.wikipedia.org/wiki/藤井丈司 "wikilink")** - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")[プログラミング](../Page/プログラミング.md "wikilink")
-  - **[ホッピー神山](https://ja.wikipedia.org/wiki/ホッピー神山 "wikilink")** - キーボード
+  - **[ホッピー神山](../Page/ホッピー神山.md "wikilink")** - キーボード
 
 ## リリース履歴
 
@@ -70,7 +70,7 @@
 <th><p>日付</p></th>
 <th><p><a href="../Page/レコードレーベル.md" title="wikilink">レーベル</a></p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>最高順位</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -78,8 +78,8 @@
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p><a href="../Page/1989年.md" title="wikilink">1989年</a><a href="https://ja.wikipedia.org/wiki/4月8日" title="wikilink">4月8日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン" title="wikilink">東芝EMI</a>／イーストワールド</p></td>
+<td><p><a href="../Page/1989年.md" title="wikilink">1989年</a><a href="../Page/4月8日.md" title="wikilink">4月8日</a></p></td>
+<td><p><a href="../Page/EMIミュージック・ジャパン.md" title="wikilink">東芝EMI</a>／イーストワールド</p></td>
 <td><p><a href="../Page/コンパクト盤.md" title="wikilink">EP</a><br />
 <a href="https://ja.wikipedia.org/wiki/8センチCD" title="wikilink">8センチCD</a></p></td>
 <td><p>RT07-2324<br />
@@ -94,8 +94,8 @@ XT10-5036</p></td>
 
   - 「**BE MY BABY**」
       - 『COMPLEX』（1989年）
-      - 『[19901108](https://ja.wikipedia.org/wiki/19901108 "wikilink")』（[1991年](../Page/1991年.md "wikilink")）（ライブバージョンで収録）
-      - 『[COMPLEX BEST](https://ja.wikipedia.org/wiki/COMPLEX_BEST "wikilink")』（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")）
+      - 『[19901108](../Page/19901108.md "wikilink")』（[1991年](../Page/1991年.md "wikilink")）（ライブバージョンで収録）
+      - 『[COMPLEX BEST](../Page/COMPLEX_BEST.md "wikilink")』（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")）
       - 『[COMPLEX 20110731 日本一心](https://ja.wikipedia.org/wiki/COMPLEX_20110730_日本一心 "wikilink")』（[2011年](../Page/2011年.md "wikilink")）（ライブバージョンで収録）
   - 「**CLOCKWORK RUNNERS（時計じかけの走者達）**」
       - 『COMPLEX』（1989年）（アルバムバージョンで収録）

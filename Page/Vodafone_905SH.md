@@ -1,15 +1,15 @@
 > この記事は[Vodafone 905SH](https://ja.wikipedia.org/wiki/Vodafone_905SH)から翻訳されています。
 
 
-**Vodafone 905SH**（ボーダフォン きゅうまるごエスエイチ）及び、後の**SoftBank 905SH**（ソフトバンク きゅうまるごエスエイチ）は、[シャープ](../Page/シャープ.md "wikilink")が開発し、当初はボーダフォン日本法人、その後は[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")が販売する[W-CDMA](../Page/W-CDMA.md "wikilink")通信方式(日本国内専用)のVodafone 3G（現[SoftBank 3G](https://ja.wikipedia.org/wiki/SoftBank_3G "wikilink")）サービスを利用可能な[携帯電話](../Page/携帯電話.md "wikilink")端末。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[5月27日](../Page/5月27日.md "wikilink")発売。
+**Vodafone 905SH**（ボーダフォン きゅうまるごエスエイチ）及び、後の**SoftBank 905SH**（ソフトバンク きゅうまるごエスエイチ）は、[シャープ](../Page/シャープ.md "wikilink")が開発し、当初はボーダフォン日本法人、その後は[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")が販売する[W-CDMA](../Page/W-CDMA.md "wikilink")通信方式(日本国内専用)のVodafone 3G（現[SoftBank 3G](../Page/SoftBank_3G.md "wikilink")）サービスを利用可能な[携帯電話](../Page/携帯電話.md "wikilink")端末。[2006年](../Page/2006年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink")発売。
 
-初代「**[AQUOSケータイ](https://ja.wikipedia.org/wiki/AQUOSケータイ "wikilink")**」で、ソフトバンクの大ヒット商品となった。
+初代「**[AQUOSケータイ](../Page/AQUOSケータイ.md "wikilink")**」で、ソフトバンクの大ヒット商品となった。
 
-後継機種は、[AQUOSケータイ](https://ja.wikipedia.org/wiki/AQUOSケータイ "wikilink") 2nd MODEL、[SoftBank 911SH](https://ja.wikipedia.org/wiki/SoftBank_911SH "wikilink")、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（[平成](../Page/平成.md "wikilink")18年）11月25日発売。
+後継機種は、[AQUOSケータイ](../Page/AQUOSケータイ.md "wikilink") 2nd MODEL、[SoftBank 911SH](../Page/SoftBank_911SH.md "wikilink")、[2006年](../Page/2006年.md "wikilink")（[平成](../Page/平成.md "wikilink")18年）11月25日発売。
 
 ## 概要
 
-ボーダフォン初の[ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")搭載端末で、また初めて[液晶ディスプレイ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")が右に90度回転し簡単に横画面にできる[サイクロイド](../Page/サイクロイド.md "wikilink")機構を採用した。ワンセグ関連機能では、初めて[miniSDへの録画が可能になり](https://ja.wikipedia.org/wiki/SDメモリーカード#miniSDカード "wikilink")、[EPG](../Page/電子番組ガイド.md "wikilink")（電子番組表）対応、テレビ放送を見ながらメールや通話が可能なマルチジョブ機能搭載などワンセグ機能に特化している。地上アナログテレビチューナー\[1\]やFMラジオチューナーも内蔵。
+ボーダフォン初の[ワンセグ](../Page/ワンセグ.md "wikilink")搭載端末で、また初めて[液晶ディスプレイ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")が右に90度回転し簡単に横画面にできる[サイクロイド](../Page/サイクロイド.md "wikilink")機構を採用した。ワンセグ関連機能では、初めて[miniSDへの録画が可能になり](https://ja.wikipedia.org/wiki/SDメモリーカード#miniSDカード "wikilink")、[EPG](../Page/電子番組ガイド.md "wikilink")（電子番組表）対応、テレビ放送を見ながらメールや通話が可能なマルチジョブ機能搭載などワンセグ機能に特化している。地上アナログテレビチューナー\[1\]やFMラジオチューナーも内蔵。
 
 2006年2月28日の[904SHの発表会で](https://ja.wikipedia.org/wiki/SoftBank_904SH "wikilink")、当時開発中だった905SHが公開された。この時点では端末メーカー・価格・発売時期・スペックは全て非公表だったが、2006年3月15日に機種名が「Vodafone 905SH」であることと、[2006 FIFAワールドカップの開催時期をめどに発売予定であることが明らかとなった](../Page/2006_FIFAワールドカップ.md "wikilink")。
 
@@ -32,8 +32,8 @@
 
 <!-- end list -->
 
-  - [着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")　3Dサラウンド対応ステレオスピーカー搭載
-  - [Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth "wikilink")（Ver 1.2 / Power Class2 / Headset,Hands-Free,Dial-up Networking,ObjectPush,File Transfer(FTP),Basic Imaging プロファイルに対応）
+  - [着うたフル](../Page/着うたフル.md "wikilink")　3Dサラウンド対応ステレオスピーカー搭載
+  - [Bluetooth](../Page/Bluetooth.md "wikilink")（Ver 1.2 / Power Class2 / Headset,Hands-Free,Dial-up Networking,ObjectPush,File Transfer(FTP),Basic Imaging プロファイルに対応）
   - [赤外線通信機能](../Page/IrDA.md "wikilink")（[IrMC](https://ja.wikipedia.org/wiki/IrMC "wikilink")1.2準拠）
   - [ちかチャット](https://ja.wikipedia.org/wiki/ちかチャット "wikilink")対応
   - Vアプリ（現[S\!アプリ](../Page/S!アプリ.md "wikilink")）（[メガアプリ](https://ja.wikipedia.org/wiki/メガアプリ "wikilink")）
@@ -53,13 +53,13 @@
 
   - **国際[ローミング](../Page/ローミング.md "wikilink")には非対応。**
 
-| 主な対応サービス                                                                                 |
-| ---------------------------------------------------------------------------------------- |
-| ~~[S\!一斉トーク](../Page/S!一斉トーク.md "wikilink")~~                                            |
-| ~~[S\!タウン](https://ja.wikipedia.org/wiki/S!タウン "wikilink")~~                             |
-|                                                                                          |
-| [着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")／[着うた](../Page/着うた.md "wikilink") |
-| [コンテンツおすすめメール](https://ja.wikipedia.org/wiki/コンテンツおすすめメール "wikilink")                    |
+| 主な対応サービス                                                              |
+| --------------------------------------------------------------------- |
+| ~~[S\!一斉トーク](../Page/S!一斉トーク.md "wikilink")~~                         |
+| ~~[S\!タウン](https://ja.wikipedia.org/wiki/S!タウン "wikilink")~~          |
+|                                                                       |
+| [着うたフル](../Page/着うたフル.md "wikilink")／[着うた](../Page/着うた.md "wikilink") |
+| [コンテンツおすすめメール](https://ja.wikipedia.org/wiki/コンテンツおすすめメール "wikilink") |
 
 | 容量                  | ワンセグ     | アナログ    |
 | ------------------- | -------- | ------- |
@@ -119,12 +119,12 @@
 
   - [ソフトバンクモバイルの端末一覧](https://ja.wikipedia.org/wiki/ソフトバンクモバイルの端末一覧 "wikilink")
   - [サイクロイド](../Page/サイクロイド.md "wikilink")
-  - [AQUOSケータイ](https://ja.wikipedia.org/wiki/AQUOSケータイ "wikilink")
+  - [AQUOSケータイ](../Page/AQUOSケータイ.md "wikilink")
   - [予想GUY](https://ja.wikipedia.org/wiki/予想GUY "wikilink")
-  - [SoftBank 911SH](https://ja.wikipedia.org/wiki/SoftBank_911SH "wikilink")
+  - [SoftBank 911SH](../Page/SoftBank_911SH.md "wikilink")
   - [SoftBank 912SH](../Page/SoftBank_912SH.md "wikilink")
   - [SoftBank 920SH/SoftBank 822SH](../Page/SoftBank_920SH.md "wikilink")
-  - [FOMA SH903iTV](https://ja.wikipedia.org/wiki/SH903iTV "wikilink")
+  - [FOMA SH903iTV](../Page/SH903iTV.md "wikilink")
   - [au WIN W51SH](../Page/W51SH.md "wikilink")
 
 ## 外部リンク

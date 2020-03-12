@@ -7,7 +7,7 @@
 
 ## メンバー
 
-  - [川島だりあ](https://ja.wikipedia.org/wiki/川島だりあ "wikilink")（かわしま だりあ） - ボーカル、作詞、作曲
+  - [川島だりあ](../Page/川島だりあ.md "wikilink")（かわしま だりあ） - ボーカル、作詞、作曲
   - [山口昌人](../Page/山口昌人.md "wikilink")（やまぐち まさと） - ドラム、作詞、作曲
   - [大橋雅人](../Page/大橋雅人.md "wikilink")（おおはし まさと） - ベース、作詞、作曲（活動休止中）
   - [倉田冬樹](../Page/倉田冬樹.md "wikilink")（くらた ふゆき） - ギター、作詞、作曲、編曲 （2019年2月21日、肺腺がんにより逝去。）
@@ -16,11 +16,11 @@
 
 ## 略歴
 
-結成は[1993年](../Page/1993年.md "wikilink")、当初は川島と倉田のユニットであった。同年[西田昌史](../Page/西田昌史.md "wikilink")（[EARTHSHAKER](https://ja.wikipedia.org/wiki/EARTHSHAKER "wikilink")）がプロデュースした「Ready or not」でデビュー。翌[1994年](../Page/1994年.md "wikilink")に大橋と山口が加入、バンド形態となり、以後、バンド自身がプロデュースを一貫する。ミニアルバム「Funky Side Business」を発表（大橋と山口は一部参加）。セカンド・アルバム「POWER GROOVE」から、4人編成での活動となる。
+結成は[1993年](../Page/1993年.md "wikilink")、当初は川島と倉田のユニットであった。同年[西田昌史](../Page/西田昌史.md "wikilink")（[EARTHSHAKER](../Page/EARTHSHAKER.md "wikilink")）がプロデュースした「Ready or not」でデビュー。翌[1994年](../Page/1994年.md "wikilink")に大橋と山口が加入、バンド形態となり、以後、バンド自身がプロデュースを一貫する。ミニアルバム「Funky Side Business」を発表（大橋と山口は一部参加）。セカンド・アルバム「POWER GROOVE」から、4人編成での活動となる。
 
 12ヶ月連続でアルバムをリリースする「月刊F･S･B」を[1999年](../Page/1999年.md "wikilink")9月から開始し、2000年8月に完結。
 
-[2001年](../Page/2001年.md "wikilink")に活動休止するが、川島、山口の呼びかけで[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に活動再開。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")アルバム[「PERFECTNESS」を発表](https://ja.wikipedia.org/wiki/PERFECTNESS "wikilink")。
+[2001年](../Page/2001年.md "wikilink")に活動休止するが、川島、山口の呼びかけで[2005年](../Page/2005年.md "wikilink")に活動再開。[2006年](../Page/2006年.md "wikilink")アルバム[「PERFECTNESS」を発表](https://ja.wikipedia.org/wiki/PERFECTNESS "wikilink")。
 
 [2016年](../Page/2016年.md "wikilink")、大橋が「ソロ活動に専念する」事を理由にFEEL SO BADでの活動を無期限休止。同時に[「紫」](../Page/紫_\(バンド\).md "wikilink")・[「8-BALL」のChris](../Page/8-BALL.md "wikilink")、「ARESZ」の翔己の加入が発表される。[（FEEL SO BAD公式FACEBOOKより）](https://www.facebook.com/FEEL-SO-BAD-248040541925101/)
 
@@ -46,7 +46,7 @@
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p>1993/09/15</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Ready_or_not" title="wikilink">Ready or not</a></p></td>
+<td><p><a href="../Page/Ready_or_not.md" title="wikilink">Ready or not</a></p></td>
 <td><p>作詞：川島だりあ<br />
 作曲：川島だりあ&amp;倉田冬樹<br />
 編曲：倉田冬樹</p></td>

@@ -1,17 +1,17 @@
 > この記事は[OS2U \(\)](https://ja.wikipedia.org/wiki/OS2U_\(\))から翻訳されています。
 
 
-**OS2U キングフィッシャー**（*Chance Vought OS2U Kingfisher* ）は、[チャンス・ヴォート社が開発し](https://ja.wikipedia.org/wiki/ヴォート・エアクラフト・インダストリーズ "wikilink")、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")初期に[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")などで運用された[観測機](https://ja.wikipedia.org/wiki/観測機 "wikilink")。
+**OS2U キングフィッシャー**（*Chance Vought OS2U Kingfisher* ）は、[チャンス・ヴォート社が開発し](../Page/ヴォート・エアクラフト・インダストリーズ.md "wikilink")、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")初期に[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")などで運用された[観測機](../Page/観測機.md "wikilink")。
 
 愛称の「**キングフィッシャー** (Kingfisher)」は、[カワセミ](../Page/カワセミ.md "wikilink")の意。後に海軍が自らフィラデルフィア工廠へ移管して**OS2N キングフィッシャー**として生産した。
 
 ## 概要
 
-[Ray_Wagner_Collection_Photo_(15901646450).jpg](https://ja.wikipedia.org/wiki/File:Ray_Wagner_Collection_Photo_\(15901646450\).jpg "fig:Ray_Wagner_Collection_Photo_(15901646450).jpg") チャンス・ヴォート社が開発した、単発三座[観測機](https://ja.wikipedia.org/wiki/観測機 "wikilink")。水上機型が著名であるが、生産数の過半数が陸上機型もしくは浮舟換装可能型である。後にF4Uの製造に専念させるため、海軍が自らフィラデルフィア工廠へ移管して生産したが、その型はOS2Nの名称で運用された。また、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[艦載機](https://ja.wikipedia.org/wiki/艦載機 "wikilink")・[艦上機](https://ja.wikipedia.org/wiki/艦上機 "wikilink")の中で、初めて射出式[カタパルト](../Page/カタパルト.md "wikilink")からの発進を行った機体である。
+[Ray_Wagner_Collection_Photo_(15901646450).jpg](https://ja.wikipedia.org/wiki/File:Ray_Wagner_Collection_Photo_\(15901646450\).jpg "fig:Ray_Wagner_Collection_Photo_(15901646450).jpg") チャンス・ヴォート社が開発した、単発三座[観測機](../Page/観測機.md "wikilink")。水上機型が著名であるが、生産数の過半数が陸上機型もしくは浮舟換装可能型である。後にF4Uの製造に専念させるため、海軍が自らフィラデルフィア工廠へ移管して生産したが、その型はOS2Nの名称で運用された。また、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[艦載機](https://ja.wikipedia.org/wiki/艦載機 "wikilink")・[艦上機](../Page/艦上機.md "wikilink")の中で、初めて射出式[カタパルト](../Page/カタパルト.md "wikilink")からの発進を行った機体である。
 
 ## 開発・運用
 
-複葉観測機である[O3U](https://ja.wikipedia.org/wiki/O3U "wikilink")[\[:en](https://ja.wikipedia.org/wiki/:en:O3U "wikilink")\]の後継として開発された単葉艦載観測機で、[1938年](../Page/1938年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に[陸上機型が](../Page/飛行機.md "wikilink")、同年5月に[水上機](../Page/水上機.md "wikilink")型（陸上機型を改修した機体）が初飛行した。軍による試験結果は良好で、[1939年](../Page/1939年.md "wikilink")に**OS2U**として制式採用された。[1940年](../Page/1940年.md "wikilink")から部隊配備され、水上戦闘艦の艦載機として[偵察](https://ja.wikipedia.org/wiki/偵察 "wikilink")・[観測任務に従事した他](https://ja.wikipedia.org/wiki/射弾観測 "wikilink")、近海哨戒飛行隊において[対潜哨戒任務や海上](https://ja.wikipedia.org/wiki/対潜戦 "wikilink")[捜索救難](https://ja.wikipedia.org/wiki/捜索救難 "wikilink")任務に活躍した。しかし、性能的には同時期の他国の機体と比較すると低性能であり、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")が終結すると急速に退役していった。
+複葉観測機である[O3U](https://ja.wikipedia.org/wiki/O3U "wikilink")[\[:en](https://ja.wikipedia.org/wiki/:en:O3U "wikilink")\]の後継として開発された単葉艦載観測機で、[1938年](../Page/1938年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に[陸上機型が](../Page/飛行機.md "wikilink")、同年5月に[水上機](../Page/水上機.md "wikilink")型（陸上機型を改修した機体）が初飛行した。軍による試験結果は良好で、[1939年](../Page/1939年.md "wikilink")に**OS2U**として制式採用された。[1940年](../Page/1940年.md "wikilink")から部隊配備され、水上戦闘艦の艦載機として[偵察](../Page/偵察.md "wikilink")・[観測任務に従事した他](https://ja.wikipedia.org/wiki/射弾観測 "wikilink")、近海哨戒飛行隊において[対潜哨戒任務や海上](../Page/対潜戦.md "wikilink")[捜索救難](https://ja.wikipedia.org/wiki/捜索救難 "wikilink")任務に活躍した。しかし、性能的には同時期の他国の機体と比較すると低性能であり、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")が終結すると急速に退役していった。
 
 [イギリス海軍](../Page/イギリス海軍.md "wikilink")にもレンドリース用に100機供与されたが、全て訓練に使用されている。また、[チリ](../Page/チリ.md "wikilink")、[アルゼンチン](../Page/アルゼンチン.md "wikilink")、[メキシコ](../Page/メキシコ.md "wikilink")等の中南米諸国に若干機が供与された他、[ソビエト海軍](https://ja.wikipedia.org/wiki/ソビエト海軍 "wikilink")でもイギリス海軍から引き渡された機体が数機使用された。
 
@@ -59,7 +59,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/翼面荷重" title="wikilink">翼面荷重</a></p></td>
+<td><p><a href="../Page/翼面荷重.md" title="wikilink">翼面荷重</a></p></td>
 <td><p>kg/m<sup>2</sup></p></td>
 <td><p>kg/m<sup>2</sup></p></td>
 <td></td>
@@ -101,7 +101,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/航続距離" title="wikilink">航続距離</a></p></td>
+<td><p><a href="../Page/航続距離.md" title="wikilink">航続距離</a></p></td>
 <td><p>1,634km</p></td>
 <td><p>1,300km</p></td>
 <td><p>1,327km</p></td>
@@ -109,7 +109,7 @@
 </tr>
 <tr class="even">
 <td><p>武装</p></td>
-<td><p>機首 <a href="https://ja.wikipedia.org/wiki/ブローニングM1919重機関銃" title="wikilink">ブラウニングM1919</a> 7.7mm機銃2挺（携行弾数500発）<br />
+<td><p>機首 <a href="../Page/ブローニングM1919重機関銃.md" title="wikilink">ブラウニングM1919</a> 7.7mm機銃2挺（携行弾数500発）<br />
 後部座席銃座 ブラウニングM1919 7.7mm機銃2挺（携行弾数600発）</p></td>
 <td></td>
 <td></td>
@@ -212,8 +212,8 @@
 <td><p>1368<br />
 (0951と表示)</p></td>
 <td><p><a href="https://c1.staticflickr.com/2/1482/23875776201_302a6937ca_b.jpg">画像</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アメリカ合衆国" title="wikilink">アメリカ合衆国</a><a href="../Page/アラバマ州.md" title="wikilink">アラバマ州</a><a href="https://ja.wikipedia.org/wiki/モービル_(アラバマ州)" title="wikilink">モービル</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アラバマ_(戦艦)" title="wikilink">戦艦アラバマ記念公園</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/アメリカ合衆国" title="wikilink">アメリカ合衆国</a><a href="../Page/アラバマ州.md" title="wikilink">アラバマ州</a><a href="../Page/モービル_(アラバマ州).md" title="wikilink">モービル</a></p></td>
+<td><p><a href="../Page/アラバマ_(戦艦).md" title="wikilink">戦艦アラバマ記念公園</a><br />
 航空機パビリオン</p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
@@ -222,8 +222,8 @@
 <tr class="even">
 <td><p>3073</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Aircraft_aboard_USS_North_Carolina_IMG_4355.JPG" title="fig:Aircraft_aboard_USS_North_Carolina_IMG_4355.JPG">Aircraft_aboard_USS_North_Carolina_IMG_4355.JPG</a></p></td>
-<td><p>アメリカ合衆国<a href="../Page/ノースカロライナ州.md" title="wikilink">ノースカロライナ州</a><a href="https://ja.wikipedia.org/wiki/ウィルミントン_(ノースカロライナ州)" title="wikilink">ウィルミントン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ノースカロライナ_(戦艦)" title="wikilink">戦艦ノースカロライナ博物館</a></p></td>
+<td><p>アメリカ合衆国<a href="../Page/ノースカロライナ州.md" title="wikilink">ノースカロライナ州</a><a href="../Page/ウィルミントン_(ノースカロライナ州).md" title="wikilink">ウィルミントン</a></p></td>
+<td><p><a href="../Page/ノースカロライナ_(戦艦).md" title="wikilink">戦艦ノースカロライナ博物館</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
 <td><p><a href="http://www.battleshipnc.com">2</a></p></td>
@@ -243,7 +243,7 @@
 <tr class="even">
 <td><p>5925</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:314_Vought_OS2U_Kingfisher_Chilean_Air_Force_(8185405560).jpg" title="fig:314_Vought_OS2U_Kingfisher_Chilean_Air_Force_(8185405560).jpg">314_Vought_OS2U_Kingfisher_Chilean_Air_Force_(8185405560).jpg</a></p></td>
-<td><p><a href="../Page/チリ.md" title="wikilink">チリ</a>共和国<a href="https://ja.wikipedia.org/wiki/サンティアゴ" title="wikilink">サンティアゴ</a></p></td>
+<td><p><a href="../Page/チリ.md" title="wikilink">チリ</a>共和国<a href="../Page/サンティアゴ.md" title="wikilink">サンティアゴ</a></p></td>
 <td><p>チリ国立航空宇宙博物館</p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
@@ -263,7 +263,7 @@
 <tr class="even">
 <td><p>5985</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オーストラリア" title="wikilink">オーストラリア</a><a href="https://ja.wikipedia.org/wiki/西オーストラリア州" title="wikilink">西オーストラリア州</a><a href="https://ja.wikipedia.org/wiki/アルバニー" title="wikilink">アルバニー</a></p></td>
+<td><p><a href="../Page/オーストラリア.md" title="wikilink">オーストラリア</a><a href="../Page/西オーストラリア州.md" title="wikilink">西オーストラリア州</a><a href="https://ja.wikipedia.org/wiki/アルバニー" title="wikilink">アルバニー</a></p></td>
 <td><p>ウェイル・ミュージアム</p></td>
 <td><p>公開</p></td>
 <td><p>修復中</p></td>
@@ -283,7 +283,7 @@
 <tr class="even">
 <td><p>SB005</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:La_Havane-Musée_de_la_Révolution-Avion.jpg" title="fig:La_Havane-Musée_de_la_Révolution-Avion.jpg">La_Havane-Musée_de_la_Révolution-Avion.jpg</a></p></td>
-<td><p><a href="../Page/キューバ.md" title="wikilink">キューバ</a>共和国<a href="https://ja.wikipedia.org/wiki/ハバナ" title="wikilink">ハヴァナ</a></p></td>
+<td><p><a href="../Page/キューバ.md" title="wikilink">キューバ</a>共和国<a href="../Page/ハバナ.md" title="wikilink">ハヴァナ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/革命博物館_(キューバ)" title="wikilink">革命博物館</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
@@ -315,7 +315,7 @@
 
 ## 関連項目
 
-  - [偵察機・哨戒機の一覧](https://ja.wikipedia.org/wiki/偵察機・哨戒機の一覧 "wikilink")
-  - [水上機一覧](https://ja.wikipedia.org/wiki/水上機一覧 "wikilink")
+  - [偵察機・哨戒機の一覧](../Page/偵察機・哨戒機の一覧.md "wikilink")
+  - [水上機一覧](../Page/水上機一覧.md "wikilink")
 
 [Category:アメリカ合衆国の軍用機](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の軍用機 "wikilink") [Category:観測機](https://ja.wikipedia.org/wiki/Category:観測機 "wikilink") [Category:偵察機](https://ja.wikipedia.org/wiki/Category:偵察機 "wikilink") [Category:水上機](https://ja.wikipedia.org/wiki/Category:水上機 "wikilink") [Category:艦載機](https://ja.wikipedia.org/wiki/Category:艦載機 "wikilink") [Category:ヴォートの航空機](https://ja.wikipedia.org/wiki/Category:ヴォートの航空機 "wikilink")

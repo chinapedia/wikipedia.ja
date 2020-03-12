@@ -36,7 +36,7 @@
 
 ## 関連項目
 
-  - [偵察機・哨戒機の一覧](https://ja.wikipedia.org/wiki/偵察機・哨戒機の一覧 "wikilink")
+  - [偵察機・哨戒機の一覧](../Page/偵察機・哨戒機の一覧.md "wikilink")
   - [PBY カタリナ](../Page/PBY_\(航空機\).md "wikilink")
 
 [Category:アメリカ合衆国の軍用機](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の軍用機 "wikilink") [Category:偵察機](https://ja.wikipedia.org/wiki/Category:偵察機 "wikilink") [Category:飛行艇](https://ja.wikipedia.org/wiki/Category:飛行艇 "wikilink") [Category:コンソリデーテッドの航空機](https://ja.wikipedia.org/wiki/Category:コンソリデーテッドの航空機 "wikilink")

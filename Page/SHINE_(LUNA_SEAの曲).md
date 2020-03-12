@@ -5,27 +5,27 @@
 
 ## 解説
 
-活動再開後シングル3枚連続リリースの第2弾。元々本作がシングルになる予定ではなく、4月に「[STORM](../Page/STORM_\(LUNA_SEAの曲\).md "wikilink")」、6月に「[I for You](../Page/I_for_You.md "wikilink")」の2枚連続リリースを予定していたが、「I for You」の[ドラマ](../Page/テレビドラマ.md "wikilink")[タイアップ](https://ja.wikipedia.org/wiki/タイアップ "wikilink")が決定した影響でリリースを7月にまわされたのがきっかけで、もう1作真ん中にシングルとして「SHINE」を切ろうということになったらしい。
+活動再開後シングル3枚連続リリースの第2弾。元々本作がシングルになる予定ではなく、4月に「[STORM](../Page/STORM_\(LUNA_SEAの曲\).md "wikilink")」、6月に「[I for You](../Page/I_for_You.md "wikilink")」の2枚連続リリースを予定していたが、「I for You」の[ドラマ](../Page/テレビドラマ.md "wikilink")[タイアップ](../Page/タイアップ.md "wikilink")が決定した影響でリリースを7月にまわされたのがきっかけで、もう1作真ん中にシングルとして「SHINE」を切ろうということになったらしい。
 
 ## 収録曲
 
-全[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")･[作曲](../Page/作曲.md "wikilink")･[編曲](../Page/編曲.md "wikilink"):[LUNA SEA](../Page/LUNA_SEA.md "wikilink")
+全[作詞](../Page/作詞.md "wikilink")･[作曲](../Page/作曲.md "wikilink")･[編曲](../Page/編曲.md "wikilink"):[LUNA SEA](../Page/LUNA_SEA.md "wikilink")
 
 1.  **SHINE**
-    [J原曲](https://ja.wikipedia.org/wiki/J_\(ミュージシャン\) "wikilink")。[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")「インテリジェントナビゲーション」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。
-    今までのLUNA SEAのイメージとはかけ離れた明るい曲調や歌詞であったため（ソロ活動を通して変化した[RYUICHIの歌唱法も含めて](https://ja.wikipedia.org/wiki/河村隆一 "wikilink")）、RYUICHIは『[音楽と人](https://ja.wikipedia.org/wiki/音楽と人 "wikilink")』にて自宅の留守番電話に「『SHINE』はまるっきり[河村隆一](https://ja.wikipedia.org/wiki/河村隆一 "wikilink")の曲じゃないか\!」とファンから怒り口調でイタズラ電話があったことを告白している（この曲を作ったのは、RYUICHIではなくて上述の通りJである）。
+    [J原曲](../Page/J_\(ミュージシャン\).md "wikilink")。[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")「インテリジェントナビゲーション」[CMソング](../Page/コマーシャルソング.md "wikilink")。
+    今までのLUNA SEAのイメージとはかけ離れた明るい曲調や歌詞であったため（ソロ活動を通して変化した[RYUICHIの歌唱法も含めて](../Page/河村隆一.md "wikilink")）、RYUICHIは『[音楽と人](../Page/音楽と人.md "wikilink")』にて自宅の留守番電話に「『SHINE』はまるっきり[河村隆一](../Page/河村隆一.md "wikilink")の曲じゃないか\!」とファンから怒り口調でイタズラ電話があったことを告白している（この曲を作ったのは、RYUICHIではなくて上述の通りJである）。
     ライブでは、「IN MY DREAM (WITH SHIVER)」と同じく観客が手を左右に振るのが定番。
 2.  **Looper**
-    [レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")中の[セッションが元となって作られたため](https://ja.wikipedia.org/wiki/ジャム_\(音楽\) "wikilink")、原曲者は存在しない。
-    [真矢とJの](https://ja.wikipedia.org/wiki/真矢_\(ドラマー\) "wikilink")[リズム体](https://ja.wikipedia.org/wiki/リズム体 "wikilink")が延々と[ループ](https://ja.wikipedia.org/wiki/ループ "wikilink")していることからこのタイトルになった。
-    英詞の[ラップ](../Page/ラップ.md "wikilink")は、[SUGIZO](https://ja.wikipedia.org/wiki/SUGIZO "wikilink")が担当。
+    [レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")中の[セッションが元となって作られたため](../Page/ジャム_\(音楽\).md "wikilink")、原曲者は存在しない。
+    [真矢とJの](../Page/真矢_\(ドラマー\).md "wikilink")[リズム体](../Page/リズム体.md "wikilink")が延々と[ループ](../Page/ループ.md "wikilink")していることからこのタイトルになった。
+    英詞の[ラップ](../Page/ラップ.md "wikilink")は、[SUGIZO](../Page/SUGIZO.md "wikilink")が担当。
 
 ## 収録アルバム
 
 ＃1
 
-  - [SHINE](https://ja.wikipedia.org/wiki/SHINE_\(アルバム\) "wikilink")　(1998.07.23･MVCD-34)
-  - [PERIOD 〜THE BEST SELECTION〜](https://ja.wikipedia.org/wiki/PERIOD_〜THE_BEST_SELECTION〜 "wikilink") （2000.12.23･UUCH-1012）
+  - [SHINE](../Page/SHINE_\(アルバム\).md "wikilink")　(1998.07.23･MVCD-34)
+  - [PERIOD 〜THE BEST SELECTION〜](../Page/PERIOD_〜THE_BEST_SELECTION〜.md "wikilink") （2000.12.23･UUCH-1012）
   - LUNA SEA 25th Anniversary Ultimate Best -THE ONE-（2014.5.28・UPCH-1982/3）
 
 ＃2

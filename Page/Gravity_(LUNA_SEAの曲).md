@@ -9,26 +9,26 @@
 
 ## 収録曲
 
-全[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")･[作曲](../Page/作曲.md "wikilink")･[編曲](../Page/編曲.md "wikilink"):[LUNA SEA](../Page/LUNA_SEA.md "wikilink")
+全[作詞](../Page/作詞.md "wikilink")･[作曲](../Page/作曲.md "wikilink")･[編曲](../Page/編曲.md "wikilink"):[LUNA SEA](../Page/LUNA_SEA.md "wikilink")
 
 1.  **gravity**
-    :[INORAN](https://ja.wikipedia.org/wiki/INORAN "wikilink")原曲\[1\]。 [映画](../Page/映画.md "wikilink")『[アナザヘヴン](https://ja.wikipedia.org/wiki/アナザヘヴン "wikilink")』[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")に抜擢され、同時期に[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")系で放送された[ドラマ](../Page/テレビドラマ.md "wikilink")『[アナザヘヴン～eclipse～](https://ja.wikipedia.org/wiki/アナザヘヴン#テレビドラマ "wikilink")』主題歌にもなった。
+    :[INORAN](../Page/INORAN.md "wikilink")原曲\[1\]。 [映画](../Page/映画.md "wikilink")『[アナザヘヴン](../Page/アナザヘヴン.md "wikilink")』[主題歌](../Page/主題歌.md "wikilink")に抜擢され、同時期に[テレビ朝日](../Page/テレビ朝日.md "wikilink")系で放送された[ドラマ](../Page/テレビドラマ.md "wikilink")『[アナザヘヴン～eclipse～](https://ja.wikipedia.org/wiki/アナザヘヴン#テレビドラマ "wikilink")』主題歌にもなった。
     詞はINORANが書いたものに[RYUICHI](https://ja.wikipedia.org/wiki/RYUICHI "wikilink")が補作したという。
     このシングル発売前の「START UP GIG 2000」（2000年1月1日、[Zepp Tokyo](https://ja.wikipedia.org/wiki/Zepp_Tokyo "wikilink")）で新曲として初披露された。
-    終幕後、INORANがこの曲を自身のソロライブで[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")したことがあり、その模様はINORANのライブビデオ／DVD「THE LAST NIGHT」で見る事ができる。INORANは「春に発売されたが、どっちかというと秋っぽい曲」と語っている。
+    終幕後、INORANがこの曲を自身のソロライブで[セルフカバー](../Page/セルフカバー.md "wikilink")したことがあり、その模様はINORANのライブビデオ／DVD「THE LAST NIGHT」で見る事ができる。INORANは「春に発売されたが、どっちかというと秋っぽい曲」と語っている。
 2.  **inside you**
-    :[真矢原曲](https://ja.wikipedia.org/wiki/真矢_\(ドラマー\) "wikilink")。
+    :[真矢原曲](../Page/真矢_\(ドラマー\).md "wikilink")。
     LUNA SEAの曲の中で唯一、真矢が詞･曲ともに作った曲。
 3.  **My Lover**
-    :[SUGIZO](https://ja.wikipedia.org/wiki/SUGIZO "wikilink")原曲。映画／ドラマ「アナザヘヴン」の[挿入歌](https://ja.wikipedia.org/wiki/挿入歌 "wikilink")に使用された。
+    :[SUGIZO](../Page/SUGIZO.md "wikilink")原曲。映画／ドラマ「アナザヘヴン」の[挿入歌](https://ja.wikipedia.org/wiki/挿入歌 "wikilink")に使用された。
     「gravity」と同じく「START UP GIG 2000」で初披露された。
 
 ## 収録アルバム
 
 ＃1
 
-  - [LUNACY](https://ja.wikipedia.org/wiki/LUNACY "wikilink")　(2000.07.12･MVCH-29047)
-  - [PERIOD 〜THE BEST SELECTION〜](https://ja.wikipedia.org/wiki/PERIOD_〜THE_BEST_SELECTION〜 "wikilink") （2000.12.23･UUCH-1012）
+  - [LUNACY](../Page/LUNACY.md "wikilink")　(2000.07.12･MVCH-29047)
+  - [PERIOD 〜THE BEST SELECTION〜](../Page/PERIOD_〜THE_BEST_SELECTION〜.md "wikilink") （2000.12.23･UUCH-1012）
   - [SLOW](https://ja.wikipedia.org/wiki/SLOW_\(LUNA_SEAのアルバム\) "wikilink") （2005.3.23･UPCH-1394）
   - [LUNA SEA 3D IN LOS ANGELES](https://ja.wikipedia.org/wiki/LUNA_SEA_3D_IN_LOS_ANGELES "wikilink") （2011年6月1日、YICQ-10077〜8）
   - LUNA SEA 25th Anniversary Ultimate Best -THE ONE-（2014.5.28・UPCH-1982/3）
@@ -43,7 +43,7 @@
 
 ## 補足
 
-今作からアルバム「LUNACY」までのジャケットに載っている[マネキン](https://ja.wikipedia.org/wiki/マネキン "wikilink")のようなキャラクターは「トム」と呼ばれ、メンバー5人の顔のパーツを[CGで合成して作成したものである](../Page/コンピュータグラフィックス.md "wikilink")。
+今作からアルバム「LUNACY」までのジャケットに載っている[マネキン](../Page/マネキン.md "wikilink")のようなキャラクターは「トム」と呼ばれ、メンバー5人の顔のパーツを[CGで合成して作成したものである](../Page/コンピュータグラフィックス.md "wikilink")。
 
 ## 脚注
 

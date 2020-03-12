@@ -1,7 +1,7 @@
 > この記事は[LIFE IN PROGRESS](https://ja.wikipedia.org/wiki/LIFE_IN_PROGRESS)から翻訳されています。
 
 
-**LIFE IN PROGRESS**（**ライフ・イン・プログレス**）は、[1999年](../Page/1999年.md "wikilink")に行われた[坂本龍一](../Page/坂本龍一.md "wikilink")のオペラ『LIFE a ryuichi sakamoto opera 1999』のスケッチとなったアルバム。[1999年](../Page/1999年.md "wikilink")[9月12日](../Page/9月12日.md "wikilink")に[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")からリリースされた。
+**LIFE IN PROGRESS**（**ライフ・イン・プログレス**）は、[1999年](../Page/1999年.md "wikilink")に行われた[坂本龍一](../Page/坂本龍一.md "wikilink")のオペラ『LIFE a ryuichi sakamoto opera 1999』のスケッチとなったアルバム。[1999年](../Page/1999年.md "wikilink")[9月12日](../Page/9月12日.md "wikilink")に[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")からリリースされた。
 
 ## 解説
 
@@ -15,7 +15,7 @@
 2.  **Corale and Serenade**（[Overtureより](https://ja.wikipedia.org/wiki/AUDIO_LIFE#Disc_1 "wikilink")）
 3.  **Chorale no.3**（Overtureより）
       -
-        no1と2は坂本のアルバム『[BTTB](https://ja.wikipedia.org/wiki/BTTB "wikilink")』に収録。
+        no1と2は坂本のアルバム『[BTTB](../Page/BTTB.md "wikilink")』に収録。
 4.  **Forest in the city**（Overtureより）
 5.  **Silent festival**（Overtureより）
 6.  **Dance of Gorgon**（Overtureより）

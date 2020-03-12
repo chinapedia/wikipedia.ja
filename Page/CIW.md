@@ -5,7 +5,7 @@
 
 ## 概要
 
-**CIW**とは、インターネット技術者の能力を、特定のベンダー技術ではなく、[Windowsと](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Linux](https://ja.wikipedia.org/wiki/Linux "wikilink")、[Internet Explorerと](../Page/Internet_Explorer.md "wikilink")[Netscapeなど業界標準となっている技術や知識を対象に教育](../Page/Netscapeシリーズ.md "wikilink")、認定している。
+**CIW**とは、インターネット技術者の能力を、特定のベンダー技術ではなく、[Windowsと](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Linux](../Page/Linux.md "wikilink")、[Internet Explorerと](../Page/Internet_Explorer.md "wikilink")[Netscapeなど業界標準となっている技術や知識を対象に教育](../Page/Netscapeシリーズ.md "wikilink")、認定している。
 
 現在、世界70カ国以上で実施され、20万人以上がCIW資格を取得している。
 

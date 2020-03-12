@@ -5,8 +5,8 @@
 
 ## 概要
 
-  - [2000年](../Page/2000年.md "wikilink")、ソロ・プロジェクトとして初のシングル。[7月19日](../Page/7月19日.md "wikilink")に「[U](https://ja.wikipedia.org/wiki/U_\(DOUBLEの曲\) "wikilink")」と同時リリース。全3曲収録。
-  - 「handle」は、Brian Alexander MorganプロデュースによるR\&Bナンバー。ゲストに[F.O.Hが参加している](https://ja.wikipedia.org/wiki/Full_Of_Harmony "wikilink")。
+  - [2000年](../Page/2000年.md "wikilink")、ソロ・プロジェクトとして初のシングル。[7月19日](../Page/7月19日.md "wikilink")に「[U](../Page/U_\(DOUBLEの曲\).md "wikilink")」と同時リリース。全3曲収録。
+  - 「handle」は、Brian Alexander MorganプロデュースによるR\&Bナンバー。ゲストに[F.O.Hが参加している](../Page/Full_Of_Harmony.md "wikilink")。
   - カップリング曲「home」は、ミディアム・バラード。家で想う人を待つ女性を歌っている。
 
 ## 収録曲

@@ -6,7 +6,7 @@
 ## 概要
 
   - [2002年](../Page/2002年.md "wikilink")[10月9日](../Page/10月9日.md "wikilink")にリリース。シングルリリースされた「[Driving All Night/You Got To](https://ja.wikipedia.org/wiki/Driving_All_Night/You_Got_To "wikilink")」「[Who's That Girl](../Page/Who's_That_Girl.md "wikilink")」を含む全16曲収録。ボックス仕様。
-  - 前作『[double](https://ja.wikipedia.org/wiki/double_\(DOUBLEのアルバム\) "wikilink")』から約2年ぶりとなるオリジナルアルバム。前作が海外プロデュースの作品に対し、本作はほとんどの楽曲が日本プロデュースの作品となっている。プロデューサーにはmarkee、[DJ WATARAI](../Page/DJ_WATARAI.md "wikilink")、[今井了介](https://ja.wikipedia.org/wiki/今井了介 "wikilink")などを迎え、ゲストには[Heartsdales](https://ja.wikipedia.org/wiki/Heartsdales "wikilink")、[F.O.HのHIRO](https://ja.wikipedia.org/wiki/Full_Of_Harmony "wikilink")、[S-WORD](https://ja.wikipedia.org/wiki/S-WORD "wikilink")らが参加している。
+  - 前作『[double](https://ja.wikipedia.org/wiki/double_\(DOUBLEのアルバム\) "wikilink")』から約2年ぶりとなるオリジナルアルバム。前作が海外プロデュースの作品に対し、本作はほとんどの楽曲が日本プロデュースの作品となっている。プロデューサーにはmarkee、[DJ WATARAI](../Page/DJ_WATARAI.md "wikilink")、[今井了介](https://ja.wikipedia.org/wiki/今井了介 "wikilink")などを迎え、ゲストには[Heartsdales](https://ja.wikipedia.org/wiki/Heartsdales "wikilink")、[F.O.HのHIRO](../Page/Full_Of_Harmony.md "wikilink")、[S-WORD](../Page/S-WORD.md "wikilink")らが参加している。
 
 ## 収録曲
 

@@ -5,10 +5,10 @@
 
 ## 概要
 
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")第1弾シングル。[4月11日](../Page/4月11日.md "wikilink")に[CD](../Page/コンパクトディスク.md "wikilink")+[DVD](../Page/DVD.md "wikilink")のみでリリース。CDには全5曲収録、DVDには「SPRING LOVE」のビデオクリップ、メイキング映像、ロングインタビュー映像を収録。
-  - 「SPRING LOVE」は、TAKAKOのラジオ番組のお悩み相談で春になると恋愛の悩みが多数寄せられてくることがきっかけで作られたラブソング。[ジャケットや](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")ではTAKAKO本人が天使に扮装し、初のセミヌードを披露している。
+  - [2007年](../Page/2007年.md "wikilink")第1弾シングル。[4月11日](../Page/4月11日.md "wikilink")に[CD](../Page/コンパクトディスク.md "wikilink")+[DVD](../Page/DVD.md "wikilink")のみでリリース。CDには全5曲収録、DVDには「SPRING LOVE」のビデオクリップ、メイキング映像、ロングインタビュー映像を収録。
+  - 「SPRING LOVE」は、TAKAKOのラジオ番組のお悩み相談で春になると恋愛の悩みが多数寄せられてくることがきっかけで作られたラブソング。[ジャケットや](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")ではTAKAKO本人が天使に扮装し、初のセミヌードを披露している。
   - [FM NORTHWAVE](../Page/エフエム・ノースウェーブ.md "wikilink")「Sapporo Hot 100」[4月22日](../Page/4月22日.md "wikilink")付チャートでは初の1位獲得した。
-  - タイアップはMTV BUZZ ASIA、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")「[流派-R](https://ja.wikipedia.org/wiki/流派-R "wikilink")」4月度オープニングテーマ、[NTV系全国ネット](../Page/日本テレビ放送網.md "wikilink")「[女神のハテナ](../Page/女神のハテナ.md "wikilink")」4月度エンディングテーマ。
+  - タイアップはMTV BUZZ ASIA、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")「[流派-R](../Page/流派-R.md "wikilink")」4月度オープニングテーマ、[NTV系全国ネット](../Page/日本テレビ放送網.md "wikilink")「[女神のハテナ](../Page/女神のハテナ.md "wikilink")」4月度エンディングテーマ。
 
 ## 収録曲
 

@@ -5,7 +5,7 @@
 
 ## 概要
 
-  - 1枚目のオリジナル・アルバム『[double](https://ja.wikipedia.org/wiki/double_\(DOUBLEのアルバム\) "wikilink")』の英語版のアルバム。[2001年](../Page/2001年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")に3万枚限定でリリースされた。シングルリリースされた「[handle](https://ja.wikipedia.org/wiki/handle_\(曲\) "wikilink")」「[U](../Page/U_\(DOUBLEの曲\).md "wikilink")」「[Angel](../Page/Angel_\(DOUBLEの曲\).md "wikilink")」の英語版を含む全11曲を収録。[JAM](https://ja.wikipedia.org/wiki/JAM "wikilink")による解説、[泉山真奈美](https://ja.wikipedia.org/wiki/泉山真奈美 "wikilink")による対訳付き。
+  - 1枚目のオリジナル・アルバム『[double](https://ja.wikipedia.org/wiki/double_\(DOUBLEのアルバム\) "wikilink")』の英語版のアルバム。[2001年](../Page/2001年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")に3万枚限定でリリースされた。シングルリリースされた「[handle](https://ja.wikipedia.org/wiki/handle_\(曲\) "wikilink")」「[U](../Page/U_\(DOUBLEの曲\).md "wikilink")」「[Angel](../Page/Angel_\(DOUBLEの曲\).md "wikilink")」の英語版を含む全11曲を収録。[JAM](../Page/JAM.md "wikilink")による解説、[泉山真奈美](https://ja.wikipedia.org/wiki/泉山真奈美 "wikilink")による対訳付き。
 
 <!-- end list -->
 

@@ -5,10 +5,10 @@
 
 ## 概要
 
-  - [2003年](../Page/2003年.md "wikilink")第1弾シングル。[7月30日](../Page/7月30日.md "wikilink")にCD+DVDとCDの2種類でリリース。CDには全3曲収録、DVDには[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、メイキング映像、インタビュー映像を収録。
-  - 「Rollin' on」は、Trackboyzプロデュースによるヒップホップナンバー。[ネリーの曲](../Page/ネリー_\(ラッパー\).md "wikilink")「Air Force Ones」のトラック・メーカーTrackboyzがトラックをメイキング、その原曲をTAKAKO本人と「[Who's That Girl](../Page/Who's_That_Girl.md "wikilink")」のトラック・メーカーmarkeeがリプロデュースした。リミックスでは[DJ MASTERKEYを起用し](https://ja.wikipedia.org/wiki/DJ_MASTERKEY "wikilink")、[AIがゲスト参加している](https://ja.wikipedia.org/wiki/AI_\(歌手\) "wikilink")。
+  - [2003年](../Page/2003年.md "wikilink")第1弾シングル。[7月30日](../Page/7月30日.md "wikilink")にCD+DVDとCDの2種類でリリース。CDには全3曲収録、DVDには[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")、メイキング映像、インタビュー映像を収録。
+  - 「Rollin' on」は、Trackboyzプロデュースによるヒップホップナンバー。[ネリーの曲](../Page/ネリー_\(ラッパー\).md "wikilink")「Air Force Ones」のトラック・メーカーTrackboyzがトラックをメイキング、その原曲をTAKAKO本人と「[Who's That Girl](../Page/Who's_That_Girl.md "wikilink")」のトラック・メーカーmarkeeがリプロデュースした。リミックスでは[DJ MASTERKEYを起用し](../Page/DJ_MASTERKEY.md "wikilink")、[AIがゲスト参加している](https://ja.wikipedia.org/wiki/AI_\(歌手\) "wikilink")。
   - ライブの際にTAKAKOがフックを歌い、観客が男女に別れ“Ah-ah-ah”と[コールアンドレスポンス](https://ja.wikipedia.org/wiki/コールアンドレスポンス "wikilink")する決まりがある。
-  - タイアップはテレビ東京系「[流派-R](https://ja.wikipedia.org/wiki/流派-R "wikilink")」2003年7月度オープニングテーマ、日本テレビ系「AX MUSIC-TV」AX POWER PLAY \#036。
+  - タイアップはテレビ東京系「[流派-R](../Page/流派-R.md "wikilink")」2003年7月度オープニングテーマ、日本テレビ系「AX MUSIC-TV」AX POWER PLAY \#036。
 
 ## 収録曲
 

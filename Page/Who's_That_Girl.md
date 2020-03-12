@@ -7,7 +7,7 @@
 
   - [2002年](../Page/2002年.md "wikilink")第2弾シングル。[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink")にリリース。全5曲収録。全国ツアー特別先行販売情報封入。
   - 「Who's That Girl」は、markeeプロデュースによるR\&Bナンバー。浮気を目撃した女性の気持ちを歌っている。
-  - カップリング曲「DOUBLE TROUBLE」は、[韓国の女性MC](https://ja.wikipedia.org/wiki/大韓民国 "wikilink")・[TASHA](https://ja.wikipedia.org/wiki/TASHA "wikilink")の全編英語ヒップホップナンバー。
+  - カップリング曲「DOUBLE TROUBLE」は、[韓国の女性MC](../Page/大韓民国.md "wikilink")・[TASHA](../Page/TASHA.md "wikilink")の全編英語ヒップホップナンバー。
 
 ## 収録曲
 

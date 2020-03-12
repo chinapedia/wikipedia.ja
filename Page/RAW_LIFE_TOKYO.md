@@ -1,11 +1,11 @@
 > この記事は[RAW LIFE TOKYO](https://ja.wikipedia.org/wiki/RAW_LIFE_TOKYO)から翻訳されています。
 
 
-**RAW LIFE TOKYO**（**ロー・ライフ・とうきょう**）は、[1999年](../Page/1999年.md "wikilink")[9月9日](../Page/9月9日.md "wikilink")〜[9月12日](../Page/9月12日.md "wikilink")に行なわれた[坂本龍一](../Page/坂本龍一.md "wikilink")のオペラ「[LIFE a ryuichi sakamoto opera 1999](https://ja.wikipedia.org/wiki/LIFE_a_ryuichi_sakamoto_opera_1999 "wikilink")」東京公演を収録したアルバム。[1999年](../Page/1999年.md "wikilink")[10月27日](https://ja.wikipedia.org/wiki/10月27日 "wikilink")に[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")からリリースされた。
+**RAW LIFE TOKYO**（**ロー・ライフ・とうきょう**）は、[1999年](../Page/1999年.md "wikilink")[9月9日](../Page/9月9日.md "wikilink")〜[9月12日](../Page/9月12日.md "wikilink")に行なわれた[坂本龍一](../Page/坂本龍一.md "wikilink")のオペラ「[LIFE a ryuichi sakamoto opera 1999](../Page/LIFE_a_ryuichi_sakamoto_opera_1999.md "wikilink")」東京公演を収録したアルバム。[1999年](../Page/1999年.md "wikilink")[10月27日](../Page/10月27日.md "wikilink")に[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")からリリースされた。
 
 ## 解説
 
-  - [1999年](../Page/1999年.md "wikilink")[9月9日](../Page/9月9日.md "wikilink")、[日本武道館](https://ja.wikipedia.org/wiki/日本武道館 "wikilink")で行われた[坂本龍一](../Page/坂本龍一.md "wikilink")の[オペラ](../Page/オペラ.md "wikilink")「LIFE a ryuichi sakamoto opera 1999」の公演を収録。初回限定盤。
+  - [1999年](../Page/1999年.md "wikilink")[9月9日](../Page/9月9日.md "wikilink")、[日本武道館](../Page/日本武道館.md "wikilink")で行われた[坂本龍一](../Page/坂本龍一.md "wikilink")の[オペラ](../Page/オペラ.md "wikilink")「LIFE a ryuichi sakamoto opera 1999」の公演を収録。初回限定盤。
   - 「[AUDIO LIFE](https://ja.wikipedia.org/wiki/AUDIO_LIFE "wikilink")」ではカットされている観客の拍手喝采等も収録されている。
 
 ## 収録曲
@@ -27,7 +27,7 @@
 
 ## 関連項目
 
-  - [LIFE IN PROGRESS](https://ja.wikipedia.org/wiki/LIFE_IN_PROGRESS "wikilink")（オペラのスケッチとなったアルバム）
+  - [LIFE IN PROGRESS](../Page/LIFE_IN_PROGRESS.md "wikilink")（オペラのスケッチとなったアルバム）
   - [RAW LIFE OSAKA](../Page/RAW_LIFE_OSAKA.md "wikilink")（大阪公演を収録）
   - [AUDIO LIFE](https://ja.wikipedia.org/wiki/AUDIO_LIFE "wikilink")（東京と大阪公演のベストのテイクを収録）
 

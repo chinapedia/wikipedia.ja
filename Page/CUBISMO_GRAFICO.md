@@ -1,19 +1,19 @@
 > この記事は[CUBISMO GRAFICO](https://ja.wikipedia.org/wiki/CUBISMO_GRAFICO)から翻訳されています。
 
 
-**CUBISMO GRAFICO**（キュビズモ・グラフィコ）は[ニール&イライザ](https://ja.wikipedia.org/wiki/ニール&イライザ "wikilink")の松田岳二（[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink") -）の[ソロプロジェクト](https://ja.wikipedia.org/wiki/ソロプロジェクト "wikilink")である。2003年からはバンド形態の「**CUBISMO GRAFICO FIVE**」としても活動。
+**CUBISMO GRAFICO**（キュビズモ・グラフィコ）は[ニール&イライザ](https://ja.wikipedia.org/wiki/ニール&イライザ "wikilink")の松田岳二（[1970年](../Page/1970年.md "wikilink") -）の[ソロプロジェクト](https://ja.wikipedia.org/wiki/ソロプロジェクト "wikilink")である。2003年からはバンド形態の「**CUBISMO GRAFICO FIVE**」としても活動。
 
 ## メンバー
 
   - **松田岳二**（ボーカル・ギター・その他） - 2001年、映画『[ウォーターボーイズ](../Page/ウォーターボーイズ.md "wikilink")』の音楽で、[冷水ひとみ](https://ja.wikipedia.org/wiki/冷水ひとみ "wikilink")とともに[第25回日本アカデミー賞](https://ja.wikipedia.org/wiki/第25回日本アカデミー賞 "wikilink")最優秀音楽賞を受賞。
   - **Syuta-Low "[TGMX](https://ja.wikipedia.org/wiki/TGMX "wikilink")" Tagami**（ピアノ・オルガン・シンセサイザー・トランペット・コーラス．）[SCAFULL KING](https://ja.wikipedia.org/wiki/SCAFULL_KING "wikilink")、[FRONTIER BACKYARD](https://ja.wikipedia.org/wiki/FRONTIER_BACKYARD "wikilink")
-  - **[Shige Murata](https://ja.wikipedia.org/wiki/村田シゲ "wikilink")**（ベース・コーラス）[□□□](https://ja.wikipedia.org/wiki/□□□ "wikilink")でも活躍
-  - **Akira Tsuneoka**（ドラム・ボーカル）[Hi-STANDARD](https://ja.wikipedia.org/wiki/Hi-STANDARD "wikilink")
+  - **[Shige Murata](https://ja.wikipedia.org/wiki/村田シゲ "wikilink")**（ベース・コーラス）[□□□](../Page/□□□.md "wikilink")でも活躍
+  - **Akira Tsuneoka**（ドラム・ボーカル）[Hi-STANDARD](../Page/Hi-STANDARD.md "wikilink")
 
 元メンバー
 
-  - **[330 mimio](https://ja.wikipedia.org/wiki/若王子耳夫 "wikilink")**（ギター・コーラス）元[人生](https://ja.wikipedia.org/wiki/人生_\(バンド\) "wikilink")、[電気グルーヴ](../Page/電気グルーヴ.md "wikilink")、[死ね死ね団](https://ja.wikipedia.org/wiki/死ね死ね団_\(バンド\) "wikilink")、[マッチ売りの少年](https://ja.wikipedia.org/wiki/マッチ売りの少年 "wikilink")、[Badge 714](https://ja.wikipedia.org/wiki/Badge_714 "wikilink")
-  - **[古川裕](https://ja.wikipedia.org/wiki/フルカワユタカ "wikilink")**（ギター・コーラス）元[DOPING PANDA](https://ja.wikipedia.org/wiki/DOPING_PANDA "wikilink")
+  - **[330 mimio](https://ja.wikipedia.org/wiki/若王子耳夫 "wikilink")**（ギター・コーラス）元[人生](../Page/人生_\(バンド\).md "wikilink")、[電気グルーヴ](../Page/電気グルーヴ.md "wikilink")、[死ね死ね団](https://ja.wikipedia.org/wiki/死ね死ね団_\(バンド\) "wikilink")、[マッチ売りの少年](https://ja.wikipedia.org/wiki/マッチ売りの少年 "wikilink")、[Badge 714](https://ja.wikipedia.org/wiki/Badge_714 "wikilink")
+  - **[古川裕](https://ja.wikipedia.org/wiki/フルカワユタカ "wikilink")**（ギター・コーラス）元[DOPING PANDA](../Page/DOPING_PANDA.md "wikilink")
 
 ※第一期CGF(アルバム「CINQ (four+one)』」のとき)は、DOPING PANDAの古川裕がギターを弾き、330はベースを弾いていた。後に古川がDOPING PANDAの活動で忙しくなり脱退。新たにベースに村田シゲを迎え、330はギターを弾くこととなった。
 
@@ -23,16 +23,16 @@
 
 ### 7"シングルレコード
 
-|     | 発売日         | タイトル                                                                                                                          | 規格品番     |
-| --- | ----------- | ----------------------------------------------------------------------------------------------------------------------------- | -------- |
-| 1st | 2007年11月23日 | **威風堂々/LAND OF HOPE\&GLORY**                                                                                                  | NEP-015  |
-| 2nd | 2008年03月23日 | **Sweet Blindness/Sh BOOM**                                                                                                   | NEP-016  |
-| 3rd | 2008年07月04日 | **JAMAICA JUMP UP feat.YSIG/WILL YOU LOVE ME TOMORROW feat.CHOCOLAT**                                                         | NEP-018  |
-| 4th | 2008年08月08日 | **RAIN DROPS KEEP FALLING ON MY HEAD feat.[ハナレグミ](https://ja.wikipedia.org/wiki/ハナレグミ "wikilink")/Close to you feat.central** | NEP-019  |
-| 5th | 2010年06月23日 | **Life Is Like A Season \[7inch+CD-R\]<初回生産限定盤>**                                                                             | NEP-24   |
-| 6th | 2014年04月26日 | **LAND OF HOPE AND GLORY feat. WATARU BUSTER (Oi SKALL MATES)**                                                               | SIWI-248 |
-| 7th | 2014年04月26日 | **EASY LOVE BABY,If You Love Something,Set It Free** (YUKARI FRESHとのスプリット)                                                    | NEP-44   |
-|     |             |                                                                                                                               |          |
+|     | 発売日         | タイトル                                                                                                       | 規格品番     |
+| --- | ----------- | ---------------------------------------------------------------------------------------------------------- | -------- |
+| 1st | 2007年11月23日 | **威風堂々/LAND OF HOPE\&GLORY**                                                                               | NEP-015  |
+| 2nd | 2008年03月23日 | **Sweet Blindness/Sh BOOM**                                                                                | NEP-016  |
+| 3rd | 2008年07月04日 | **JAMAICA JUMP UP feat.YSIG/WILL YOU LOVE ME TOMORROW feat.CHOCOLAT**                                      | NEP-018  |
+| 4th | 2008年08月08日 | **RAIN DROPS KEEP FALLING ON MY HEAD feat.[ハナレグミ](../Page/ハナレグミ.md "wikilink")/Close to you feat.central** | NEP-019  |
+| 5th | 2010年06月23日 | **Life Is Like A Season \[7inch+CD-R\]<初回生産限定盤>**                                                          | NEP-24   |
+| 6th | 2014年04月26日 | **LAND OF HOPE AND GLORY feat. WATARU BUSTER (Oi SKALL MATES)**                                            | SIWI-248 |
+| 7th | 2014年04月26日 | **EASY LOVE BABY,If You Love Something,Set It Free** (YUKARI FRESHとのスプリット)                                 | NEP-44   |
+|     |             |                                                                                                            |          |
 
 ### アルバム
 
@@ -51,7 +51,7 @@
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p><a href="../Page/1999年.md" title="wikilink">1999年</a><a href="../Page/9月18日.md" title="wikilink">9月18日</a><br />
-<a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/12月19日" title="wikilink">12月19日</a>(再発)</p></td>
+<a href="../Page/2006年.md" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/12月19日" title="wikilink">12月19日</a>(再発)</p></td>
 <td><p><strong>TOUT!</strong></p></td>
 <td><p>ESCAP-CD4<br />
 XQAV-1304:再発</p></td>
@@ -86,7 +86,7 @@ XQAV-1304:再発</p></td>
 <tr class="even">
 <td><p>2nd</p></td>
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a><a href="../Page/8月9日.md" title="wikilink">8月9日</a><br />
-<a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/12月19日" title="wikilink">12月19日</a>(再発)</p></td>
+<a href="../Page/2006年.md" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/12月19日" title="wikilink">12月19日</a>(再発)</p></td>
 <td><p><strong>UNTITLED(but one wish)</strong></p></td>
 <td><p>ESCD-24<br />
 XQAV-1024:再発</p></td>
@@ -148,7 +148,7 @@ XQAV-1024:再発</p></td>
 <tr class="even">
 <td><p>4th</p></td>
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a><a href="../Page/8月1日.md" title="wikilink">8月1日</a><br />
-<a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/12月19日" title="wikilink">12月19日</a>(再発)</p></td>
+<a href="../Page/2006年.md" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/12月19日" title="wikilink">12月19日</a>(再発)</p></td>
 <td><p><strong>VOCODER BLOCK DIAGRAM</strong></p></td>
 <td><p>ESCD-029<br />
 XQAV-1029:再発</p></td>
@@ -177,7 +177,7 @@ XQAV-1029:再発</p></td>
 <tr class="odd">
 <td><p>5th</p></td>
 <td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><a href="../Page/10月16日.md" title="wikilink">10月16日</a><br />
-<a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/12月19日" title="wikilink">12月19日</a>(再発)</p></td>
+<a href="../Page/2006年.md" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/12月19日" title="wikilink">12月19日</a>(再発)</p></td>
 <td><p><strong>FOGA</strong></p></td>
 <td><p>ESCD-41<br />
 XQAV-1041:再発</p></td>
@@ -205,7 +205,7 @@ XQAV-1041:再発</p></td>
 </tr>
 <tr class="even">
 <td><p>6th</p></td>
-<td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><a href="https://ja.wikipedia.org/wiki/12月10日" title="wikilink">12月10日</a></p></td>
+<td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><a href="../Page/12月10日.md" title="wikilink">12月10日</a></p></td>
 <td><p><strong>SEEDY</strong></p></td>
 <td><p>NIW-008</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -219,7 +219,7 @@ XQAV-1041:再発</p></td>
 </tr>
 <tr class="odd">
 <td><p>7th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/8月25日.md" title="wikilink">8月25日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/8月25日.md" title="wikilink">8月25日</a></p></td>
 <td><p><strong>POP POLLUTION</strong></p></td>
 <td><p>NIW-018</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -247,7 +247,7 @@ XQAV-1041:再発</p></td>
 </tr>
 <tr class="even">
 <td><p>8th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="../Page/5月30日.md" title="wikilink">5月30日</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/5月30日.md" title="wikilink">5月30日</a></p></td>
 <td><p><strong>NUIT</strong>（ニュイ）</p></td>
 <td><p>XQAV-1072</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -340,7 +340,7 @@ NLP-11:LP</p></td>
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p><a href="../Page/2000年.md" title="wikilink">2000年</a><a href="../Page/6月24日.md" title="wikilink">6月24日</a><br />
-<a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/12月19日" title="wikilink">12月19日</a>(再発)</p></td>
+<a href="../Page/2006年.md" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/12月19日" title="wikilink">12月19日</a>(再発)</p></td>
 <td><p><strong>MINI</strong></p></td>
 <td><p>ESCD-12<br />
 XQAV-1012:再発</p></td>
@@ -480,7 +480,7 @@ XQAV-1012:再発</p></td>
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/7月26日.md" title="wikilink">7月26日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/7月26日.md" title="wikilink">7月26日</a></p></td>
 <td><p><strong>Cubismo Grafico Caribbean Ensemble</strong></p></td>
 <td><p>XQAV-1061</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -491,7 +491,7 @@ XQAV-1012:再発</p></td>
 <ol>
 <li>UPSETTERS! from CINQ</li>
 <li>Sound Girls Winnie from POP POLUTION</li>
-<li><a href="https://ja.wikipedia.org/wiki/シェリーに口づけ" title="wikilink">シェリーに口づけ</a></li>
+<li><a href="../Page/シェリーに口づけ.md" title="wikilink">シェリーに口づけ</a></li>
 <li>She Brought The Sun from POP POLUTION</li>
 <li>Sweep Times from SEEDY</li>
 <li>SAVIGNAC from CINQ</li>
@@ -540,7 +540,7 @@ XQAV-1012:再発</p></td>
 <tbody>
 <tr class="odd">
 <td><p>1998年10月20日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/New_Cinema_蜥蜴" title="wikilink">New Cinema 蜥蜴</a>「360°」</strong></p></td>
+<td><p><strong><a href="../Page/New_Cinema_蜥蜴.md" title="wikilink">New Cinema 蜥蜴</a>「360°」</strong></p></td>
 <td><p>IKR-001</p></td>
 <td><p>2. 360° "Cubismo Grafico Mix"</p></td>
 <td><p>Garage Indies Zapping Association</p></td>
@@ -575,7 +575,7 @@ XQAV-1012:再発</p></td>
 </tr>
 <tr class="even">
 <td><p>2001年11月21日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Cymbals" title="wikilink">Cymbals</a>「Well-done」</strong></p></td>
+<td><p><strong><a href="../Page/Cymbals.md" title="wikilink">Cymbals</a>「Well-done」</strong></p></td>
 <td><p>VICL-60799</p></td>
 <td><p>3. Mr.Noone Special (CUBISMO GRAFICO mix)</p></td>
 <td><p>Invitation</p></td>
@@ -619,7 +619,7 @@ XQAV-1012:再発</p></td>
 </tr>
 <tr class="even">
 <td><p>2003年9月19日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/DOPING_PANDA" title="wikilink">DOPING PANDA</a>「REMIXIES FOR 3YEARS」</strong></p></td>
+<td><p><strong><a href="../Page/DOPING_PANDA.md" title="wikilink">DOPING PANDA</a>「REMIXIES FOR 3YEARS」</strong></p></td>
 <td><p>NIW-4</p></td>
 <td><p>1. GAME (Remixed by CUBISMO GRAFICO)</p></td>
 <td><p>Niw!</p></td>
@@ -650,7 +650,7 @@ XQAV-1012:再発</p></td>
 </tr>
 <tr class="even">
 <td><p>2004年2月25日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/MOSH_PIT_ON_DISNEY" title="wikilink">MOSH PIT ON DISNEY</a> E.P.No.3 UNDER THE SEA</strong></p></td>
+<td><p><strong><a href="../Page/MOSH_PIT_ON_DISNEY.md" title="wikilink">MOSH PIT ON DISNEY</a> E.P.No.3 UNDER THE SEA</strong></p></td>
 <td><p>AVCW-12365</p></td>
 <td><p>5. Part of Your World (Cubismo Grafico Five)</p></td>
 <td><p>Walt Disney Records</p></td>
@@ -685,21 +685,21 @@ XQAV-1012:再発</p></td>
 </tr>
 <tr class="odd">
 <td><p>2005年9月22日</p></td>
-<td><p><strong><a href="../Page/くるり.md" title="wikilink">くるり</a>「<a href="https://ja.wikipedia.org/wiki/赤い電車_(曲)" title="wikilink">赤い電車</a>」</strong></p></td>
+<td><p><strong><a href="../Page/くるり.md" title="wikilink">くるり</a>「<a href="../Page/赤い電車_(曲).md" title="wikilink">赤い電車</a>」</strong></p></td>
 <td><p>VICL-35884</p></td>
 <td><p>2. 赤い電車 (Cubismo Grafico Mix)</p></td>
 <td><p>SPEEDSTAR</p></td>
 </tr>
 <tr class="even">
 <td><p>2005年11月2日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/m-flo" title="wikilink">m-flo</a>「<a href="https://ja.wikipedia.org/wiki/DOPE_SPACE_NINE" title="wikilink">DOPE SPACE NINE</a>」</strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/m-flo" title="wikilink">m-flo</a>「<a href="../Page/DOPE_SPACE_NINE.md" title="wikilink">DOPE SPACE NINE</a>」</strong></p></td>
 <td><p>RZCD-45278</p></td>
 <td><p>6. The Other Side of Love <cubismo grafico mix></p></td>
 <td><p>rhythm zone</p></td>
 </tr>
 <tr class="odd">
 <td><p>2005年12月14日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/COSA_NOSTRA" title="wikilink">COSA NOSTRA</a>「re-generation」</strong></p></td>
+<td><p><strong><a href="../Page/COSA_NOSTRA.md" title="wikilink">COSA NOSTRA</a>「re-generation」</strong></p></td>
 <td><p>SCPN-401</p></td>
 <td><p>5.Girl Talk (remix by Cubismo Grafico)</p></td>
 <td><p>superior lounge lab.</p></td>
@@ -920,7 +920,7 @@ RZCD-45937</p></td>
 </tr>
 <tr class="odd">
 <td><p>2009年9月30日</p></td>
-<td><p><strong>DJ<a href="https://ja.wikipedia.org/wiki/松本素生" title="wikilink">松本素生</a>「ROCK THE MIX 2」</strong></p></td>
+<td><p><strong>DJ<a href="../Page/松本素生.md" title="wikilink">松本素生</a>「ROCK THE MIX 2」</strong></p></td>
 <td><p>VICL-63399</p></td>
 <td><p>5.POMP AND CIRCUMSTANCE feat. RICO RODRIGUEZ / CUBISMO GRAFICO FIVE</p></td>
 <td><p>SPEEDSTAR</p></td>
@@ -1068,20 +1068,20 @@ TKCA-73512</p></td>
 
 「CUBISMO GRAFICO FIVE」として出演
 
-  - 2005年05月22日 - [RUSH BALL](https://ja.wikipedia.org/wiki/RUSH_BALL "wikilink")★7
+  - 2005年05月22日 - [RUSH BALL](../Page/RUSH_BALL.md "wikilink")★7
   - 2006年08月05日 - [ROCK IN JAPAN FESTIVAL](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink") 2006
-  - 2006年12月30日 - [COUNTDOWN JAPAN](https://ja.wikipedia.org/wiki/COUNTDOWN_JAPAN "wikilink") 06/07
+  - 2006年12月30日 - [COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 06/07
   - 2007年03月24日 - New Audiogram ver. 1.1
   - 2011年02月23日 - DP SUMMIT season1 FINAL TOUR
-  - 2011年11月19日 - [BRAHMAN](https://ja.wikipedia.org/wiki/BRAHMAN "wikilink") 2011 TOUR「霹靂」
+  - 2011年11月19日 - [BRAHMAN](../Page/BRAHMAN.md "wikilink") 2011 TOUR「霹靂」
   - 2013年05月26日 - Niw\! Records 10th Anniversary -Niw\! Standard-
   - 2013年11月24日 - Niw\! Records 10th Anniversary -Niw\! Standard- finale in OSAKA
 
 ## 関連項目
 
-  - [タヒチ80](https://ja.wikipedia.org/wiki/タヒチ80 "wikilink")
-  - [Hi-STANDARD](https://ja.wikipedia.org/wiki/Hi-STANDARD "wikilink")
-  - [YOUR SONG IS GOOD](https://ja.wikipedia.org/wiki/YOUR_SONG_IS_GOOD "wikilink")
+  - [タヒチ80](../Page/タヒチ80.md "wikilink")
+  - [Hi-STANDARD](../Page/Hi-STANDARD.md "wikilink")
+  - [YOUR SONG IS GOOD](../Page/YOUR_SONG_IS_GOOD.md "wikilink")
 
 ## 外部リンク
 

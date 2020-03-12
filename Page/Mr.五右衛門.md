@@ -1,11 +1,11 @@
 > この記事は[Mr.](https://ja.wikipedia.org/wiki/Mr.)から翻訳されています。
 
 
-『**Mr.五右衛門**』（ミスターゴエモン）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に[コナミが](https://ja.wikipedia.org/wiki/コナミデジタルエンタテインメント "wikilink")[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")として発表した横スクロール[アクションゲーム](../Page/アクションゲーム.md "wikilink")。
+『**Mr.五右衛門**』（ミスターゴエモン）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に[コナミが](../Page/コナミデジタルエンタテインメント.md "wikilink")[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")として発表した横スクロール[アクションゲーム](../Page/アクションゲーム.md "wikilink")。
 
 ## 概要
 
-同社の看板作品『[がんばれゴエモン](https://ja.wikipedia.org/wiki/がんばれゴエモン "wikilink")』シリーズの礎となった作品である。システムやストーリーなどは以降のシリーズとは異なるが、江戸時代を舞台にした和風なグラフィックや音楽は受け継がれている。
+同社の看板作品『[がんばれゴエモン](../Page/がんばれゴエモン.md "wikilink")』シリーズの礎となった作品である。システムやストーリーなどは以降のシリーズとは異なるが、江戸時代を舞台にした和風なグラフィックや音楽は受け継がれている。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")より[Game Room](https://ja.wikipedia.org/wiki/Game_Room "wikilink") ([Xbox360](https://ja.wikipedia.org/wiki/Xbox360 "wikilink")) で、[2014年](../Page/2014年.md "wikilink")[12月25日](../Page/12月25日.md "wikilink")より[アーケードアーカイブス](https://ja.wikipedia.org/wiki/アーケードアーカイブス "wikilink") ([PlayStation 4](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")) で、[2019年](../Page/2019年.md "wikilink")[10月31日](../Page/10月31日.md "wikilink")よりアーケードアーカイブス ([Nintendo Switch](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")) で配信がそれぞれ開始されている。
 
@@ -92,7 +92,7 @@
 <td><p><a href="../Page/2014年.md" title="wikilink">2014年</a><a href="../Page/12月25日.md" title="wikilink">12月25日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_4" title="wikilink">PlayStation 4</a></p></td>
 <td><p>コナミデジタルエンタテインメント</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハムスター_(ゲーム会社)" title="wikilink">ハムスター</a></p></td>
+<td><p><a href="../Page/ハムスター_(ゲーム会社).md" title="wikilink">ハムスター</a></p></td>
 <td><p>ダウンロード<br />
 (<a href="https://ja.wikipedia.org/wiki/アーケードアーカイブス" title="wikilink">アーケードアーカイブス</a>)</p></td>
 <td><p>-</p></td>

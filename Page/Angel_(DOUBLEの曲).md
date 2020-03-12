@@ -7,7 +7,7 @@
 
   - [2000年](../Page/2000年.md "wikilink")第3弾シングル。[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")にリリース。全4曲収録。
   - 「Angel」は、Angela Johnsonプロデュースによる、無償の愛を歌ったバラード。他界した姉のSACHIKOへ贈られたものであると言われることもあるが、TAKAKO本人は否定している。ちなみに「For you」がSACHIKOへのメッセージソングである。また、結婚式でかけて欲しいともTAKAKOは言っている。
-  - カップリング曲「U 〜KREVA REMIX〜 featuring KICK THE CAN CREW」は、[KICK THE CAN CREWがゲスト参加し](https://ja.wikipedia.org/wiki/KICK_THE_CAN_CREW "wikilink")、リミックスに[KREVA](https://ja.wikipedia.org/wiki/KREVA "wikilink")を起用したR\&Bナンバー。
+  - カップリング曲「U 〜KREVA REMIX〜 featuring KICK THE CAN CREW」は、[KICK THE CAN CREWがゲスト参加し](../Page/KICK_THE_CAN_CREW.md "wikilink")、リミックスに[KREVA](../Page/KREVA.md "wikilink")を起用したR\&Bナンバー。
 
 ## 収録曲
 

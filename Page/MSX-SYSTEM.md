@@ -3,7 +3,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:S3527_01.jpg "wikilink") **MSX-SYSTEM**とは、[ホームコンピューター](https://ja.wikipedia.org/wiki/ホームコンピューター "wikilink")として製品化された[MSX](https://ja.wikipedia.org/wiki/MSX "wikilink")用途向けに設計された[カスタムチップ](https://ja.wikipedia.org/wiki/カスタムチップ "wikilink")の名称である。 MSX1相当向けにはS3527（MSX-SYSTEMまたはMPS(MSX Port Controller and Sound Generator)\[1\]）、MSX2以降の用途向けにはS1985（[MSX-SYSTEMII](../Page/MSX-SYSTEMII.md "wikilink")・"II"は[ローマ数字](../Page/ローマ数字.md "wikilink")の2）があり、共に[ヤマハ](../Page/ヤマハ.md "wikilink")が製造を担当した。
 
-これらはCPUや[VDP](https://ja.wikipedia.org/wiki/VDP "wikilink")を内蔵していないが、CPUを内蔵している[MSX-ENGINE](https://ja.wikipedia.org/wiki/MSX-ENGINE "wikilink")という別のチップも存在する。
+これらはCPUや[VDP](../Page/VDP.md "wikilink")を内蔵していないが、CPUを内蔵している[MSX-ENGINE](../Page/MSX-ENGINE.md "wikilink")という別のチップも存在する。
 
 ## 特徴
 

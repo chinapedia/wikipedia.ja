@@ -1,15 +1,15 @@
 > この記事は[Elephant Girl](https://ja.wikipedia.org/wiki/Elephant_Girl)から翻訳されています。
 
 
-**Elephant Girl**（エレファント・ガール）は日本の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")である。**エレガ**とも略される。
+**Elephant Girl**（エレファント・ガール）は日本の[音楽ユニット](../Page/音楽ユニット.md "wikilink")である。**エレガ**とも略される。
 
 メンバーのErina、杉本叔信は2人とも[名古屋](../Page/名古屋.md "wikilink")の出身。
 
 ## 略歴
 
-メンバー二人とも、4人組バンドに8年間在籍していたが、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に2人の意向で解散を突然切り出し、同年にErina、杉本の2人によって結成される。最後の1年間はほとんど2人だけでやっているようなものでバンドとして機能してなく、伸び悩んでいたこともあり「生まれ変わるなら今しかない」（杉本）「このままダラダラやっていくのは嫌だった」（Erina）ということが結成の理由と経緯だったという\[1\]。
+メンバー二人とも、4人組バンドに8年間在籍していたが、[2005年](../Page/2005年.md "wikilink")に2人の意向で解散を突然切り出し、同年にErina、杉本の2人によって結成される。最後の1年間はほとんど2人だけでやっているようなものでバンドとして機能してなく、伸び悩んでいたこともあり「生まれ変わるなら今しかない」（杉本）「このままダラダラやっていくのは嫌だった」（Erina）ということが結成の理由と経緯だったという\[1\]。
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[1月24日](../Page/1月24日.md "wikilink")、[クライムミュージックエンターテインメントより両A面シングル](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")「ファーストカラー/Last Letter」でメジャーデビュー。「Last Letter」が挿入歌となった日韓合同映画「[あなたを忘れない](../Page/あなたを忘れない.md "wikilink")」には、Erina、杉本の二人もバンドのメンバーの役で出演した。
+[2007年](../Page/2007年.md "wikilink")[1月24日](../Page/1月24日.md "wikilink")、[クライムミュージックエンターテインメントより両A面シングル](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")「ファーストカラー/Last Letter」でメジャーデビュー。「Last Letter」が挿入歌となった日韓合同映画「[あなたを忘れない](../Page/あなたを忘れない.md "wikilink")」には、Erina、杉本の二人もバンドのメンバーの役で出演した。
 
 ## メンバー
 
@@ -18,7 +18,7 @@
         [ミニーマウス](../Page/ミニーマウス.md "wikilink")が“憧れの人”だと言う。
   - **杉本叔信**（すぎもとよしのぶ、[3月27日](../Page/3月27日.md "wikilink") - ）ベース
       -
-        影響を受けたアーティストは、[槇原敬之](../Page/槇原敬之.md "wikilink")、[くるり](../Page/くるり.md "wikilink")、[ベン・フォールズ](https://ja.wikipedia.org/wiki/ベン・フォールズ "wikilink")、[ナンバーガール](../Page/ナンバーガール.md "wikilink")、[CAPTAIN HEDGE HOG](https://ja.wikipedia.org/wiki/CAPTAIN_HEDGE_HOG "wikilink")、[TGMX](https://ja.wikipedia.org/wiki/TGMX "wikilink")。その中でも、くるりの曲「ばらの花」は「今までの寂しかった事が蘇ってくる」ということで、彼の心の一曲ということである。ライブではジャンプをしたり、雄叫びを上げたり、[シールドや](../Page/ツイストペアケーブル.md "wikilink")[コードを抜くなどのパフォーマンスをよくしている](../Page/電線.md "wikilink")。
+        影響を受けたアーティストは、[槇原敬之](../Page/槇原敬之.md "wikilink")、[くるり](../Page/くるり.md "wikilink")、[ベン・フォールズ](../Page/ベン・フォールズ.md "wikilink")、[ナンバーガール](../Page/ナンバーガール.md "wikilink")、[CAPTAIN HEDGE HOG](https://ja.wikipedia.org/wiki/CAPTAIN_HEDGE_HOG "wikilink")、[TGMX](https://ja.wikipedia.org/wiki/TGMX "wikilink")。その中でも、くるりの曲「ばらの花」は「今までの寂しかった事が蘇ってくる」ということで、彼の心の一曲ということである。ライブではジャンプをしたり、雄叫びを上げたり、[シールドや](../Page/ツイストペアケーブル.md "wikilink")[コードを抜くなどのパフォーマンスをよくしている](../Page/電線.md "wikilink")。
 
 ## ディスコグラフィー
 
@@ -166,13 +166,13 @@
 
 ### ラジオ
 
-  - [東海ラジオミッドナイトスペシャル](https://ja.wikipedia.org/wiki/東海ラジオミッドナイトスペシャル "wikilink")「Elphant Girlの楽しい象の遊び方」（毎週水曜日深夜26:00～27:00 → 2007年10月から毎週金曜日深夜25:00～26:00）
-  - [下川みくにの見えちゃうラジオ](https://ja.wikipedia.org/wiki/下川みくにの見えちゃうラジオ "wikilink")（2007年7月23日、同年11月12日、同年12月22日）
-  - [東海ラジオミッドナイトスペシャル](https://ja.wikipedia.org/wiki/東海ラジオミッドナイトスペシャル "wikilink")「[arie](https://ja.wikipedia.org/wiki/arie "wikilink")のネガイロケット」（[東海ラジオ](../Page/東海ラジオ放送.md "wikilink")、2008年2月14日、放送25時）
+  - [東海ラジオミッドナイトスペシャル](../Page/東海ラジオミッドナイトスペシャル.md "wikilink")「Elphant Girlの楽しい象の遊び方」（毎週水曜日深夜26:00～27:00 → 2007年10月から毎週金曜日深夜25:00～26:00）
+  - [下川みくにの見えちゃうラジオ](../Page/下川みくにの見えちゃうラジオ.md "wikilink")（2007年7月23日、同年11月12日、同年12月22日）
+  - [東海ラジオミッドナイトスペシャル](../Page/東海ラジオミッドナイトスペシャル.md "wikilink")「[arie](https://ja.wikipedia.org/wiki/arie "wikilink")のネガイロケット」（[東海ラジオ](../Page/東海ラジオ放送.md "wikilink")、2008年2月14日、放送25時）
 
 ## 関連項目
 
-  - [2007年の音楽](https://ja.wikipedia.org/wiki/2007年の音楽 "wikilink")
+  - [2007年の音楽](../Page/2007年の音楽.md "wikilink")
 
 ## 脚注
 

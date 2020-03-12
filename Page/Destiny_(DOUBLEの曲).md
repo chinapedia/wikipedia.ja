@@ -5,9 +5,9 @@
 
 ## 概要
 
-  - [2003年](../Page/2003年.md "wikilink")第2弾シングル。[7月30日](../Page/7月30日.md "wikilink")にCD+DVDとCDの2種類でリリース。CDには全3曲収録、DVDには[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、ライブ映像を収録。
+  - [2003年](../Page/2003年.md "wikilink")第2弾シングル。[7月30日](../Page/7月30日.md "wikilink")にCD+DVDとCDの2種類でリリース。CDには全3曲収録、DVDには[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")、ライブ映像を収録。
   - 「destiny」は、markeeプロデュースによるR\&Bナンバー。ミュージック・ビデオではファッションショーで衣装を七変化させている。
-  - タイアップはテレビ東京系「[流派-R](https://ja.wikipedia.org/wiki/流派-R "wikilink")」2003年10月度オープニングテーマ、「いろメロミックス」CMタイアップ。
+  - タイアップはテレビ東京系「[流派-R](../Page/流派-R.md "wikilink")」2003年10月度オープニングテーマ、「いろメロミックス」CMタイアップ。
 
 ## 収録曲
 

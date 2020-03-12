@@ -6,7 +6,7 @@
 ## 概要
 
   - [2004年](../Page/2004年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink")にCD2枚組でリリース。『[Wonderful](../Page/Wonderful_\(DOUBLEのアルバム\).md "wikilink")』の楽曲などのリミックスを含む全26曲を収録。
-  - リミキサーにHirofumi Asamoto（Ram Jam World）、[Malwai Rocks](https://ja.wikipedia.org/wiki/MALAWI_ROCKS "wikilink")、[TURBO](../Page/GTS_\(DJグループ\).md "wikilink")、Koichi Matsumoto（sonicballoon）、Heigo Tani（Co-Fusion）、MATALLY、[Dub Master X](https://ja.wikipedia.org/wiki/Dub_Master_X "wikilink")、bossadubit、Hisashi Nawata（Lag gimmick）、[DJ MASTERKEY](https://ja.wikipedia.org/wiki/DJ_MASTERKEY "wikilink")、Ryuichiro Yamakiを起用。
+  - リミキサーにHirofumi Asamoto（Ram Jam World）、[Malwai Rocks](https://ja.wikipedia.org/wiki/MALAWI_ROCKS "wikilink")、[TURBO](../Page/GTS_\(DJグループ\).md "wikilink")、Koichi Matsumoto（sonicballoon）、Heigo Tani（Co-Fusion）、MATALLY、[Dub Master X](https://ja.wikipedia.org/wiki/Dub_Master_X "wikilink")、bossadubit、Hisashi Nawata（Lag gimmick）、[DJ MASTERKEY](../Page/DJ_MASTERKEY.md "wikilink")、Ryuichiro Yamakiを起用。
 
 ## 収録曲
 

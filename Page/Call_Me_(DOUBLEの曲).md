@@ -5,8 +5,8 @@
 
 ## 概要
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")第1弾シングル。[3月1日](../Page/3月1日.md "wikilink")に[CD](../Page/コンパクトディスク.md "wikilink")+[DVD](../Page/DVD.md "wikilink")とCDの2種類でリリース。CDには全3曲収録、DVDには[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、メイキング映像、インタビュー映像を収録。CD＋DVDはボックス仕様。
-  - 「Call Me」は、HEAVY\&COOLな世界標準のR\&Bナンバー。発売前に『[ROCK THE PARTY](../Page/ROCK_THE_PARTY.md "wikilink")』のDVDの[エンドロールで](https://ja.wikipedia.org/wiki/クレジットタイトル "wikilink")「Call Me」のインタールドが使用されており、メイキング映像では『Call Me』のジャケット撮影が垣間見られる。
+  - [2006年](../Page/2006年.md "wikilink")第1弾シングル。[3月1日](../Page/3月1日.md "wikilink")に[CD](../Page/コンパクトディスク.md "wikilink")+[DVD](../Page/DVD.md "wikilink")とCDの2種類でリリース。CDには全3曲収録、DVDには[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")、メイキング映像、インタビュー映像を収録。CD＋DVDはボックス仕様。
+  - 「Call Me」は、HEAVY\&COOLな世界標準のR\&Bナンバー。発売前に『[ROCK THE PARTY](../Page/ROCK_THE_PARTY.md "wikilink")』のDVDの[エンドロールで](../Page/クレジットタイトル.md "wikilink")「Call Me」のインタールドが使用されており、メイキング映像では『Call Me』のジャケット撮影が垣間見られる。
   - カップリング曲「This close」は、全編英語歌詞によるR\&Bナンバー。
 
 ## 収録曲

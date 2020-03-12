@@ -1,9 +1,9 @@
 > この記事は[CarelessDance](https://ja.wikipedia.org/wiki/CarelessDance)から翻訳されています。
 
 
-『**CarelessDance**』（ケアレスダンス） は日本の[音楽グループ](../Page/バンド_\(音楽\).md "wikilink")、[ZOOのデビューシングル](https://ja.wikipedia.org/wiki/ZOO_\(ダンス&ボーカルユニット\) "wikilink")。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[5月21日](../Page/5月21日.md "wikilink")にリリースされた。
+『**CarelessDance**』（ケアレスダンス） は日本の[音楽グループ](../Page/バンド_\(音楽\).md "wikilink")、[ZOOのデビューシングル](../Page/ZOO_\(ダンス&ボーカルユニット\).md "wikilink")。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[5月21日](../Page/5月21日.md "wikilink")にリリースされた。
 
-メインボーカルは[SATUKI](https://ja.wikipedia.org/wiki/SATUKI "wikilink")で、現[TRF](https://ja.wikipedia.org/wiki/TRF "wikilink")の[YU-KI](https://ja.wikipedia.org/wiki/YU-KI "wikilink")が一部ボーカルに参加している。
+メインボーカルは[SATUKI](https://ja.wikipedia.org/wiki/SATUKI "wikilink")で、現[TRF](../Page/TRF.md "wikilink")の[YU-KI](https://ja.wikipedia.org/wiki/YU-KI "wikilink")が一部ボーカルに参加している。
 
 ## 収録曲
 

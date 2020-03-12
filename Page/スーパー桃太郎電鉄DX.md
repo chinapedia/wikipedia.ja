@@ -5,9 +5,9 @@
 
 ## 概要
 
-前作『[スーパー桃太郎電鉄III](https://ja.wikipedia.org/wiki/スーパー桃太郎電鉄III "wikilink")』に比べてロムカセットの容量が2倍にアップしたため、マップが新しく描き直され、新駅・新カード・新イベントが多数登場し、まさに（前作比で）デラックスなものとなっている。また、ルール変更が多数設けられている。
+前作『[スーパー桃太郎電鉄III](../Page/スーパー桃太郎電鉄III.md "wikilink")』に比べてロムカセットの容量が2倍にアップしたため、マップが新しく描き直され、新駅・新カード・新イベントが多数登場し、まさに（前作比で）デラックスなものとなっている。また、ルール変更が多数設けられている。
 
-また、非売品として、[JR西日本プレゼンツ版が存在しており](https://ja.wikipedia.org/wiki/西日本旅客鉄道 "wikilink")、スタート地点が東京ではなく大阪になっている。
+また、非売品として、[JR西日本プレゼンツ版が存在しており](../Page/西日本旅客鉄道.md "wikilink")、スタート地点が東京ではなく大阪になっている。
 
 本作以降、桃太郎電鉄シリーズを年鑑化させるため、ほぼ1年に1回のペースで発売するようになった\[1\]。
 
@@ -57,7 +57,7 @@
   - 人間プレイヤーが1人の場合、新宿のゲームセンターを買うことでそこに止まるたびにミニゲームができるようになる。
   - 初登場の駅：新宿（東京都）、宇都宮（栃木県）、長浜（滋賀県）、倉敷（岡山県）、松江（島根県）、有田（佐賀県）など。滋賀県・佐賀県の駅は第1作の[米原](../Page/米原駅.md "wikilink")・[鳥栖](https://ja.wikipedia.org/wiki/鳥栖駅 "wikilink")（共に本作には登場せず）以来の復活だが、群馬県と埼玉県の駅は依然として未登場である。
   - 初登場のカード：オレンジカード、銀河鉄道カード、夢のまた夢カード、おはらいカード、ウィルスカードなど
-  - 廃止されたカード：大地震カード（[阪神・淡路大震災](https://ja.wikipedia.org/wiki/阪神・淡路大震災 "wikilink")の影響のため）
+  - 廃止されたカード：大地震カード（[阪神・淡路大震災](../Page/阪神・淡路大震災.md "wikilink")の影響のため）
 
 ## 登場駅
 
@@ -70,7 +70,7 @@
   - **[稚内](../Page/稚内市.md "wikilink")**
   - [旭川](../Page/旭川市.md "wikilink")
   - [網走](../Page/網走市.md "wikilink")
-  - **[釧路](https://ja.wikipedia.org/wiki/釧路市 "wikilink")**
+  - **[釧路](../Page/釧路市.md "wikilink")**
   - [池田](../Page/池田町_\(北海道\).md "wikilink")（初登場）
   - [トマム](../Page/トマム駅.md "wikilink")
   - [富良野](../Page/富良野市.md "wikilink")
@@ -80,7 +80,7 @@
   - [苫小牧](https://ja.wikipedia.org/wiki/苫小牧市 "wikilink")
   - **[襟裳](../Page/えりも町.md "wikilink")**
   - [登別](../Page/登別市.md "wikilink")（初登場）
-  - [長万部](https://ja.wikipedia.org/wiki/長万部町 "wikilink")
+  - [長万部](../Page/長万部町.md "wikilink")
   - [函館](../Page/函館市.md "wikilink")
   - **[青森](../Page/青森駅.md "wikilink")**
   - [弘前](../Page/弘前駅.md "wikilink")
@@ -110,15 +110,15 @@
   - [佐渡](../Page/佐渡市.md "wikilink")
   - [湯沢](../Page/湯沢町.md "wikilink")
   - [甲府](https://ja.wikipedia.org/wiki/甲府駅 "wikilink")
-  - [小淵沢](https://ja.wikipedia.org/wiki/小淵沢町 "wikilink")（初登場）
-  - [清里](https://ja.wikipedia.org/wiki/清里駅 "wikilink")（初登場）
+  - [小淵沢](../Page/小淵沢町.md "wikilink")（初登場）
+  - [清里](../Page/清里駅.md "wikilink")（初登場）
   - [長野](https://ja.wikipedia.org/wiki/長野駅 "wikilink")
   - [軽井沢](../Page/軽井沢町.md "wikilink")
-  - **[松本](https://ja.wikipedia.org/wiki/松本市 "wikilink")**
+  - **[松本](../Page/松本市.md "wikilink")**
   - [白馬](../Page/白馬村.md "wikilink")
   - [熱海](https://ja.wikipedia.org/wiki/熱海市 "wikilink")
   - [静岡](../Page/静岡駅.md "wikilink")
-  - [木曽](https://ja.wikipedia.org/wiki/木曽町 "wikilink")
+  - [木曽](../Page/木曽町.md "wikilink")
   - [浜松](https://ja.wikipedia.org/wiki/浜松駅 "wikilink")
   - **[名古屋](../Page/名古屋駅.md "wikilink")**
   - [高山](../Page/高山市.md "wikilink")
@@ -128,10 +128,10 @@
   - **[新宮](../Page/新宮市.md "wikilink")**
   - [富山](https://ja.wikipedia.org/wiki/富山駅 "wikilink")
   - [金沢](https://ja.wikipedia.org/wiki/金沢駅 "wikilink")
-  - [敦賀](https://ja.wikipedia.org/wiki/敦賀市 "wikilink")
-  - [長浜](https://ja.wikipedia.org/wiki/長浜市 "wikilink")（初登場）
+  - [敦賀](../Page/敦賀市.md "wikilink")
+  - [長浜](../Page/長浜市.md "wikilink")（初登場）
   - [京都](../Page/京都市.md "wikilink")
-  - **[大阪](https://ja.wikipedia.org/wiki/大阪市 "wikilink")**
+  - **[大阪](../Page/大阪市.md "wikilink")**
   - [奈良](https://ja.wikipedia.org/wiki/奈良市 "wikilink")
   - [白浜](../Page/白浜町.md "wikilink")
   - [和歌山](../Page/和歌山駅.md "wikilink")
@@ -141,7 +141,7 @@
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [姫路](https://ja.wikipedia.org/wiki/姫路市 "wikilink")
+  - [姫路](../Page/姫路市.md "wikilink")
   - [鳥取](../Page/鳥取駅.md "wikilink")
   - [岡山](https://ja.wikipedia.org/wiki/岡山駅 "wikilink")
   - [倉敷](../Page/倉敷駅.md "wikilink")（初登場）
@@ -150,7 +150,7 @@
   - [尾道](https://ja.wikipedia.org/wiki/尾道駅 "wikilink")
   - [広島](https://ja.wikipedia.org/wiki/広島駅 "wikilink")
   - [萩](../Page/萩市.md "wikilink")
-  - [下関](https://ja.wikipedia.org/wiki/下関駅 "wikilink")
+  - [下関](../Page/下関駅.md "wikilink")
   - [高松](https://ja.wikipedia.org/wiki/高松駅_\(香川県\) "wikilink")
   - [徳島](https://ja.wikipedia.org/wiki/徳島駅 "wikilink")
   - **[高知](https://ja.wikipedia.org/wiki/高知駅 "wikilink")**
@@ -180,11 +180,11 @@
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
   - [根室](../Page/根室駅.md "wikilink")
-  - [様似](https://ja.wikipedia.org/wiki/様似駅 "wikilink")
-  - [恐山](https://ja.wikipedia.org/wiki/恐山 "wikilink")
-  - [遠野](https://ja.wikipedia.org/wiki/遠野駅 "wikilink")
-  - [宮古](https://ja.wikipedia.org/wiki/宮古駅 "wikilink")
-  - [陸前高田](https://ja.wikipedia.org/wiki/陸前高田駅 "wikilink")
+  - [様似](../Page/様似駅.md "wikilink")
+  - [恐山](../Page/恐山.md "wikilink")
+  - [遠野](../Page/遠野駅.md "wikilink")
+  - [宮古](../Page/宮古駅.md "wikilink")
+  - [陸前高田](../Page/陸前高田駅.md "wikilink")
   - [日光](../Page/日光駅.md "wikilink")
   - [館山](https://ja.wikipedia.org/wiki/館山駅 "wikilink")
   - [新島](../Page/新島.md "wikilink")
@@ -194,14 +194,14 @@
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [尾鷲](https://ja.wikipedia.org/wiki/尾鷲駅 "wikilink")
+  - [尾鷲](../Page/尾鷲駅.md "wikilink")
   - [輪島](https://ja.wikipedia.org/wiki/輪島駅 "wikilink")
   - [マキノ](https://ja.wikipedia.org/wiki/マキノ駅 "wikilink")
   - [田辺](https://ja.wikipedia.org/wiki/紀伊田辺駅 "wikilink")
   - [倉吉](../Page/倉吉駅.md "wikilink")
   - [新居浜](https://ja.wikipedia.org/wiki/新居浜駅 "wikilink")
-  - [中村](https://ja.wikipedia.org/wiki/中村駅 "wikilink")
-  - [高千穂](https://ja.wikipedia.org/wiki/高千穂駅 "wikilink")
+  - [中村](../Page/中村駅.md "wikilink")
+  - [高千穂](../Page/高千穂駅.md "wikilink")
   - [指宿](https://ja.wikipedia.org/wiki/指宿駅 "wikilink")
 
 </div>
@@ -215,7 +215,7 @@
 
 ### ワープ駅（4駅）
 
-  - [江差](https://ja.wikipedia.org/wiki/江差駅 "wikilink")
+  - [江差](../Page/江差駅.md "wikilink")
   - [室戸](https://ja.wikipedia.org/wiki/室戸駅 "wikilink")
   - [羽咋](https://ja.wikipedia.org/wiki/羽咋駅 "wikilink")
   - [三角](../Page/三角駅.md "wikilink")
@@ -236,6 +236,6 @@
 [Category:桃太郎電鉄シリーズ](https://ja.wikipedia.org/wiki/Category:桃太郎電鉄シリーズ "wikilink") [Category:1995年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1995年のコンピュータゲーム "wikilink") [Category:スーパーファミコン用ソフト](https://ja.wikipedia.org/wiki/Category:スーパーファミコン用ソフト "wikilink")
 
 1.  『スーパー桃太郎電鉄DX究極本』より。
-2.  [ファミマガに掲載された](https://ja.wikipedia.org/wiki/ファミリーコンピュータMagazine "wikilink")『III』の[ウソ技](../Page/ウソ技.md "wikilink")が元になっており、モモトラマンが機関車を宇宙マップに運ぶシーンは元ネタを忠実に再現している。
+2.  [ファミマガに掲載された](../Page/ファミリーコンピュータMagazine.md "wikilink")『III』の[ウソ技](../Page/ウソ技.md "wikilink")が元になっており、モモトラマンが機関車を宇宙マップに運ぶシーンは元ネタを忠実に再現している。
 3.  「エレジー」というタイトルの通り短調で陰鬱とした雰囲気になっているが、3D化以降の作品では、アレンジ自体は踏襲しつ曲の調が原曲そのままであるためやや明るい雰囲気になっている。
 4.  候補地が2グループになった状態で「わからずやカード」によって目的地を変更すると、候補地のグループが即入れ替わる。

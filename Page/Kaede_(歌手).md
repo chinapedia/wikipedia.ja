@@ -1,12 +1,12 @@
 > この記事は[Kaede \(\)](https://ja.wikipedia.org/wiki/Kaede_\(\))から翻訳されています。
 
 
-**kaede**（かえで、[1979年](../Page/1979年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink") - ）は、[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")出身の日本の女性[歌手](../Page/歌手.md "wikilink")、[ディスクジョッキー](https://ja.wikipedia.org/wiki/ディスクジョッキー "wikilink")、[ラジオパーソナリティー](https://ja.wikipedia.org/wiki/ラジオパーソナリティー "wikilink")。本名：非公開。血液型B型。表記は全て小文字でkaede。
+**kaede**（かえで、[1979年](../Page/1979年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink") - ）は、[京都府](../Page/京都府.md "wikilink")出身の日本の女性[歌手](../Page/歌手.md "wikilink")、[ディスクジョッキー](../Page/ディスクジョッキー.md "wikilink")、[ラジオパーソナリティー](https://ja.wikipedia.org/wiki/ラジオパーソナリティー "wikilink")。本名：非公開。血液型B型。表記は全て小文字でkaede。
 
 ## 人物、エピソードなど
 
   - 実家は京都でお茶屋さん（祇園などにある、お酒や料理を出すお茶屋さんではなく、日本茶などを販売する店）である。
-  - 自身の出演ラジオ番組「[BUTCH COUNTDOWN RADIO](https://ja.wikipedia.org/wiki/BUTCH_COUNTDOWN_RADIO "wikilink")」（[エフエム福岡](../Page/エフエム福岡.md "wikilink")）で、『シンガー ソング **ドリンカー**』と自己紹介する位、大のお酒（主にビール）好き。（AM局ではアイドルをもじって**ノンドル**呑んどるkaedeと自己紹介することもある。）
+  - 自身の出演ラジオ番組「[BUTCH COUNTDOWN RADIO](../Page/BUTCH_COUNTDOWN_RADIO.md "wikilink")」（[エフエム福岡](../Page/エフエム福岡.md "wikilink")）で、『シンガー ソング **ドリンカー**』と自己紹介する位、大のお酒（主にビール）好き。（AM局ではアイドルをもじって**ノンドル**呑んどるkaedeと自己紹介することもある。）
   - ラーメン・蕎麦・うどん・パスタなどの麺類全般、豚足、ニンニク、ネギ、ミョウガ、生姜などの薬味をこよなく愛している。
   - 苦手なものは納豆、カレー、人参、根菜類。
   - BUTCH COUNTDOWN RADIOで、旧[ドラえもん](https://ja.wikipedia.org/wiki/ドラえもん "wikilink")や[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")、[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")まがい、謎のアジア人の物まねを得意とする。
@@ -33,9 +33,9 @@
 
 <!-- end list -->
 
-1.  「ランドマーク」（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月26日](../Page/7月26日.md "wikilink")）
+1.  「ランドマーク」（[2006年](../Page/2006年.md "wikilink")[7月26日](../Page/7月26日.md "wikilink")）
       - 収録曲の「泣かないで」と「コトノハ」は[日本テレビ](../Page/日本テレビ放送網.md "wikilink")[ザ・ワイド](../Page/ザ・ワイド.md "wikilink")のテーマソングに使われた。また、「泣かないで」は[JR九州のCMソングに使われた](../Page/九州旅客鉄道.md "wikilink")。
-2.  「オーガニック」（[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[5月30日](../Page/5月30日.md "wikilink")）
+2.  「オーガニック」（[2007年](../Page/2007年.md "wikilink")[5月30日](../Page/5月30日.md "wikilink")）
       - 収録曲の「ハニィハニー」は[VIVRE](https://ja.wikipedia.org/wiki/VIVRE "wikilink")情熱バーゲンのCMに使われた。
 
 <!-- end list -->
@@ -52,16 +52,16 @@
 ### ラジオ
 
   - [エフエム福岡](../Page/エフエム福岡.md "wikilink")
-      - [BUTCH COUNTDOWN RADIO](https://ja.wikipedia.org/wiki/BUTCH_COUNTDOWN_RADIO "wikilink")　金曜 13:30～19:00（2014年4月から産休のため休養）
+      - [BUTCH COUNTDOWN RADIO](../Page/BUTCH_COUNTDOWN_RADIO.md "wikilink")　金曜 13:30～19:00（2014年4月から産休のため休養）
       - Bメンズ・ブギ！　土曜 12:00～12:55（2012年4月～2012年9月終了）
       - リバ☆ラジ～remember the days～　土曜 12:00～12:55（2012年3月終了）
       - [かえでとかよこのチョット聞いて夜](https://ja.wikipedia.org/wiki/かえでとかよこのチョット聞いて夜 "wikilink")　木曜 25:30～25:55（2012年4月5日～2013年9月26日）
-  - [RKBラジオ](https://ja.wikipedia.org/wiki/RKBラジオ "wikilink")
+  - [RKBラジオ](../Page/RKBラジオ.md "wikilink")
       - ももち浜ラジオプレーヤーズ　日曜 12:00～16:00 (野球中継の時間により変動あり)
 
 ### テレビ
 
-  - [FBS](../Page/福岡放送.md "wikilink")[めんたいワイド](https://ja.wikipedia.org/wiki/めんたいワイド "wikilink")リポーター
+  - [FBS](../Page/福岡放送.md "wikilink")[めんたいワイド](../Page/めんたいワイド.md "wikilink")リポーター
 
 ## 外部リンク
 

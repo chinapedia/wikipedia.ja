@@ -5,13 +5,13 @@
 
 ## 概要
 
-長年『[FNNニュース・明日の天気](https://ja.wikipedia.org/wiki/FNNニュース・明日の天気 "wikilink")』→『[FNNレインボー発](https://ja.wikipedia.org/wiki/FNNレインボー発 "wikilink")』 → 『[FNN NEWS Pick Up](https://ja.wikipedia.org/wiki/FNN_NEWS_Pick_Up "wikilink")』の差し替えタイトルでのみ使用されていた。
+長年『[FNNニュース・明日の天気](../Page/FNNニュース・明日の天気.md "wikilink")』→『[FNNレインボー発](https://ja.wikipedia.org/wiki/FNNレインボー発 "wikilink")』 → 『[FNN NEWS Pick Up](https://ja.wikipedia.org/wiki/FNN_NEWS_Pick_Up "wikilink")』の差し替えタイトルでのみ使用されていた。
 
 [広島テレビ](https://ja.wikipedia.org/wiki/広島テレビ "wikilink")が平日の野球中継が枠内で終了していない際にスポットニュースを差し替えて中継継続を行うようになり、2016年からはTSSも追従して『こんやのニュース』の差し替えを行うようになった。
 
-[ニュース](../Page/ニュース.md "wikilink")終了後には、[広島県](../Page/広島県.md "wikilink")内の[天気予報](../Page/天気予報.md "wikilink")を伝えている。長らくBGMに[アール・クルー](https://ja.wikipedia.org/wiki/アール・クルー "wikilink")の「Dream Come True」を使用している\[1\]。
+[ニュース](../Page/ニュース.md "wikilink")終了後には、[広島県](../Page/広島県.md "wikilink")内の[天気予報](../Page/天気予報.md "wikilink")を伝えている。長らくBGMに[アール・クルー](../Page/アール・クルー.md "wikilink")の「Dream Come True」を使用している\[1\]。
 
-なお、[1975年](../Page/1975年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")開局当初から『[こんばんは\!tss6:30](https://ja.wikipedia.org/wiki/こんばんは!tss6:30 "wikilink")』開始まで放送されていた[平日](https://ja.wikipedia.org/wiki/平日 "wikilink")[夕](https://ja.wikipedia.org/wiki/夕 "wikilink")方枠のローカルニュースは『[tssローカルニュース](https://ja.wikipedia.org/wiki/tssローカルニュース "wikilink")』というタイトルだった。
+なお、[1975年](../Page/1975年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")開局当初から『[こんばんは\!tss6:30](../Page/こんばんは!tss6:30.md "wikilink")』開始まで放送されていた[平日](../Page/平日.md "wikilink")[夕](../Page/夕.md "wikilink")方枠のローカルニュースは『[tssローカルニュース](https://ja.wikipedia.org/wiki/tssローカルニュース "wikilink")』というタイトルだった。
 
 ## 放送時間
 

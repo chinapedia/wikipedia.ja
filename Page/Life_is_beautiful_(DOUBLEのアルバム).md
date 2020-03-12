@@ -12,9 +12,9 @@
 
 1.  **Bye Bye Baby**
 2.  **Diamonds Are A Girl's Best Friend**
-3.  **[Moon River](https://ja.wikipedia.org/wiki/ムーン・リバー "wikilink")**
+3.  **[Moon River](../Page/ムーン・リバー.md "wikilink")**
 4.  **You Took My Heart Away**
-5.  **[ワインレッドの心](https://ja.wikipedia.org/wiki/ワインレッドの心 "wikilink")**
+5.  **[ワインレッドの心](../Page/ワインレッドの心.md "wikilink")**
 6.  **Lullaby Of Birdland**
 7.  **Bed 〜Part2**
 8.  **Sweet Time Again**

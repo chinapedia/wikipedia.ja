@@ -1,7 +1,7 @@
 > この記事は[-setsuei-](https://ja.wikipedia.org/wiki/-setsuei-)から翻訳されています。
 
 
-『**雪影-setsuei-**』（せつえい）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月24日](../Page/3月24日.md "wikilink")に[Silver Bulletより発売された](https://ja.wikipedia.org/wiki/Silver_Bullet "wikilink")18歳未満購入禁止（18禁）の[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")）。初回特典は作品[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")「雪催い」が収録されたマキシシングル。Siver Bulletブランドの処女作品。
+『**雪影-setsuei-**』（せつえい）は、[2006年](../Page/2006年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")に[Silver Bulletより発売された](https://ja.wikipedia.org/wiki/Silver_Bullet "wikilink")18歳未満購入禁止（18禁）の[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")）。初回特典は作品[主題歌](../Page/主題歌.md "wikilink")「雪催い」が収録されたマキシシングル。Siver Bulletブランドの処女作品。
 
 ## 物語の舞台
 
@@ -24,7 +24,7 @@
 
 <!-- end list -->
 
-  - **平山　深雪**（ひらやま・みゆき) (声優：[安玖深音](https://ja.wikipedia.org/wiki/安玖深音 "wikilink"))
+  - **平山　深雪**（ひらやま・みゆき) (声優：[安玖深音](../Page/安玖深音.md "wikilink"))
 
 <!-- end list -->
 
@@ -45,12 +45,12 @@
 
 <!-- end list -->
 
-  - **平山　成美** (ひらやま・なるみ) (声優：[一色ヒカル](https://ja.wikipedia.org/wiki/一色ヒカル "wikilink"))
+  - **平山　成美** (ひらやま・なるみ) (声優：[一色ヒカル](../Page/一色ヒカル.md "wikilink"))
 
 <!-- end list -->
 
   -
-    主人公の[いとこ](https://ja.wikipedia.org/wiki/いとこ "wikilink")で、修二の父親の弟にあたる人物の一人娘。
+    主人公の[いとこ](../Page/いとこ.md "wikilink")で、修二の父親の弟にあたる人物の一人娘。
     溺愛されて育ったため、わがままで身勝手。主人公を所有物のように扱う。
 
 ### サブキャラクター
@@ -74,12 +74,12 @@
 
 <!-- end list -->
 
-  - **吉祥笹 香里** (きっしょうざさ・かおり) (声優：[松田理沙](https://ja.wikipedia.org/wiki/松田理沙 "wikilink"))
+  - **吉祥笹 香里** (きっしょうざさ・かおり) (声優：[松田理沙](../Page/松田理沙.md "wikilink"))
 
 <!-- end list -->
 
   -
-    かみのやまの友達の中で唯一年下の後輩で、山鹿の[いとこ](https://ja.wikipedia.org/wiki/いとこ "wikilink")。人見知りでおとなしい。
+    かみのやまの友達の中で唯一年下の後輩で、山鹿の[いとこ](../Page/いとこ.md "wikilink")。人見知りでおとなしい。
     しかし数年ぶりの再会時、態度の変化に主人公は呆気にとられる。
 
 <!-- end list -->
@@ -134,7 +134,7 @@
   - 企画原案：[田中ロミオ](../Page/田中ロミオ.md "wikilink")
   - シナリオ：日野亘
   - サウンドプロデュース：Blueberry＆Yogurt
-  - [主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")：[Rita](../Page/理多.md "wikilink")
+  - [主題歌](../Page/主題歌.md "wikilink")：[Rita](../Page/理多.md "wikilink")
   - プロデュース：村上智右
 
 ## 外部リンク

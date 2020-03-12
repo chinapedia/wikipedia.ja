@@ -5,8 +5,8 @@
 
 ## 概要
 
-  - プロローグ・アルバム『[Crystal](https://ja.wikipedia.org/wiki/Crystal_\(DOUBLEのアルバム\) "wikilink")』のエクストラ・アルバム。[1999年](../Page/1999年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")に初回限定盤（CD+VHS）と通常版（CDのみ）の2種類でリリースされた。初回限定盤のCDはピクチャーレーベル仕様。CDには『Crystal』の全楽曲のリミックス、未発表曲、米軍キャンプ・ライブ時代のデモ・テイクを含む全14曲を収録している。VHSには[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")「BED」「Shake」に加え、インタビューショット、オフショットなどを収録している。
-  - リミキサーに海外のプロデューサー陣を起用した。未発表曲「No more」はSACHIKOのソロ楽曲。米軍キャンプ・ライブ時代にカバーした[アン・ヴォーグ](https://ja.wikipedia.org/wiki/アン・ヴォーグ "wikilink")の「FREE YOUR MIND」や[TLCの](../Page/TLC_\(バンド\).md "wikilink")「DIGGIN' ON YOU」、[チャカ・カーン](https://ja.wikipedia.org/wiki/チャカ・カーン "wikilink")の「THROUGH THE FIRE」が収録されている。SACHIKOが「FREE YOUR MIND」、TAKAKOが「DIGGIN' ON YOU」と「THROUGH THE FIRE」をカバーしている。
+  - プロローグ・アルバム『[Crystal](https://ja.wikipedia.org/wiki/Crystal_\(DOUBLEのアルバム\) "wikilink")』のエクストラ・アルバム。[1999年](../Page/1999年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")に初回限定盤（CD+VHS）と通常版（CDのみ）の2種類でリリースされた。初回限定盤のCDはピクチャーレーベル仕様。CDには『Crystal』の全楽曲のリミックス、未発表曲、米軍キャンプ・ライブ時代のデモ・テイクを含む全14曲を収録している。VHSには[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")「BED」「Shake」に加え、インタビューショット、オフショットなどを収録している。
+  - リミキサーに海外のプロデューサー陣を起用した。未発表曲「No more」はSACHIKOのソロ楽曲。米軍キャンプ・ライブ時代にカバーした[アン・ヴォーグ](https://ja.wikipedia.org/wiki/アン・ヴォーグ "wikilink")の「FREE YOUR MIND」や[TLCの](../Page/TLC_\(バンド\).md "wikilink")「DIGGIN' ON YOU」、[チャカ・カーン](../Page/チャカ・カーン.md "wikilink")の「THROUGH THE FIRE」が収録されている。SACHIKOが「FREE YOUR MIND」、TAKAKOが「DIGGIN' ON YOU」と「THROUGH THE FIRE」をカバーしている。
   - ジャケットのイラストは[寺沢武一](../Page/寺沢武一.md "wikilink")が手掛けた。
 
 ## 収録曲

@@ -5,7 +5,7 @@
 
 ## 概要
 
-  - [2000年](../Page/2000年.md "wikilink")[11月29日](../Page/11月29日.md "wikilink")にリリースされた、ソロ・プロジェクトとしてのDOUBLEの1枚目のアルバムで、前作『[Crystal](https://ja.wikipedia.org/wiki/Crystal_\(DOUBLEのアルバム\) "wikilink")』から約1年半ぶりとなるオリジナル・アルバム。楽曲制作やプロデュースなどはアメリカのアーティストやプロデューサーに依頼、レコーディングも[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")で行った。ソロ・プロジェクトではあるが、姉のSACHIKOが健在だった頃のユニット名を残し、姉の遺志を受け継ぐということを前面に出している。プロデューサーには海外の陣営を迎え、ゲストには[F.O.Hが参加している](https://ja.wikipedia.org/wiki/Full_Of_Harmony "wikilink")。
+  - [2000年](../Page/2000年.md "wikilink")[11月29日](../Page/11月29日.md "wikilink")にリリースされた、ソロ・プロジェクトとしてのDOUBLEの1枚目のアルバムで、前作『[Crystal](https://ja.wikipedia.org/wiki/Crystal_\(DOUBLEのアルバム\) "wikilink")』から約1年半ぶりとなるオリジナル・アルバム。楽曲制作やプロデュースなどはアメリカのアーティストやプロデューサーに依頼、レコーディングも[ニューヨーク](../Page/ニューヨーク.md "wikilink")で行った。ソロ・プロジェクトではあるが、姉のSACHIKOが健在だった頃のユニット名を残し、姉の遺志を受け継ぐということを前面に出している。プロデューサーには海外の陣営を迎え、ゲストには[F.O.Hが参加している](../Page/Full_Of_Harmony.md "wikilink")。
   - シングルリリースされた「[handle](https://ja.wikipedia.org/wiki/handle_\(曲\) "wikilink")」「[U](../Page/U_\(DOUBLEの曲\).md "wikilink")」「[Angel](../Page/Angel_\(DOUBLEの曲\).md "wikilink")」を含む全12曲と、13曲目にシークレット・トラックが収録されている。12曲目の「Angel」が終わり、しばらくすると流れてくる。
 
 ## 収録曲

@@ -5,7 +5,7 @@
 
 ## 解説
 
-  - [ロビー・ネヴィル](https://ja.wikipedia.org/wiki/ロビー・ネヴィル "wikilink")との[デュエット](https://ja.wikipedia.org/wiki/デュエット "wikilink")・ソングとしてリリース（松田聖子 with Robbie Nevil名義）された。
+  - [ロビー・ネヴィル](https://ja.wikipedia.org/wiki/ロビー・ネヴィル "wikilink")との[デュエット](../Page/デュエット.md "wikilink")・ソングとしてリリース（松田聖子 with Robbie Nevil名義）された。
 
 <!-- end list -->
 
@@ -21,11 +21,11 @@
 
 ## 関連作品
 
-  - [WAS IT THE FUTURE](https://ja.wikipedia.org/wiki/WAS_IT_THE_FUTURE "wikilink")
-  - [『LOVE』 Seiko Matsuda 20th Anniversary Best Selection](https://ja.wikipedia.org/wiki/『LOVE』_Seiko_Matsuda_20th_Anniversary_Best_Selection "wikilink")
+  - [WAS IT THE FUTURE](../Page/WAS_IT_THE_FUTURE.md "wikilink")
+  - [『LOVE』 Seiko Matsuda 20th Anniversary Best Selection](../Page/『LOVE』_Seiko_Matsuda_20th_Anniversary_Best_Selection.md "wikilink")
 
 ## 関連項目
 
-  - [1996年の音楽](https://ja.wikipedia.org/wiki/1996年の音楽 "wikilink")
+  - [1996年の音楽](../Page/1996年の音楽.md "wikilink")
 
 [Category:松田聖子の楽曲](https://ja.wikipedia.org/wiki/Category:松田聖子の楽曲 "wikilink") [Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:映画主題歌](https://ja.wikipedia.org/wiki/Category:映画主題歌 "wikilink") [Category:ユニバーサルミュージックジャパンのシングル](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのシングル "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")

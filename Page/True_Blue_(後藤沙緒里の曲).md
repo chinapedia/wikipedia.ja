@@ -1,18 +1,18 @@
 > この記事は[True Blue \(\)](https://ja.wikipedia.org/wiki/True_Blue_\(\))から翻訳されています。
 
 
-「**True Blue**」（トゥルー・ブルー）は、[後藤沙緒里](https://ja.wikipedia.org/wiki/後藤沙緒里 "wikilink")の[シングル](../Page/シングル.md "wikilink")。 2007年9月19日に[KONAMIから発売された](https://ja.wikipedia.org/wiki/コナミレーベル "wikilink")。（販売元は[ソニー・ミュージックディストリビューション](https://ja.wikipedia.org/wiki/ソニー・ミュージックディストリビューション "wikilink")。）
+「**True Blue**」（トゥルー・ブルー）は、[後藤沙緒里](../Page/後藤沙緒里.md "wikilink")の[シングル](../Page/シングル.md "wikilink")。 2007年9月19日に[KONAMIから発売された](../Page/コナミレーベル.md "wikilink")。（販売元は[ソニー・ミュージックディストリビューション](https://ja.wikipedia.org/wiki/ソニー・ミュージックディストリビューション "wikilink")。）
 
 ## 概要
 
-表題曲「True Blue」は、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[スカイガールズ](https://ja.wikipedia.org/wiki/スカイガールズ "wikilink")』の前期[エンディングテーマとして使用された](https://ja.wikipedia.org/wiki/主題歌 "wikilink")。
+表題曲「True Blue」は、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[スカイガールズ](../Page/スカイガールズ.md "wikilink")』の前期[エンディングテーマとして使用された](../Page/主題歌.md "wikilink")。
 
 ## 収録曲
 
-（全作詞：[藤林聖子](https://ja.wikipedia.org/wiki/藤林聖子 "wikilink")、全作曲・編曲：[高木洋](../Page/高木洋.md "wikilink")）
+（全作詞：[藤林聖子](../Page/藤林聖子.md "wikilink")、全作曲・編曲：[高木洋](../Page/高木洋.md "wikilink")）
 
 1.  **True Blue** \[3:52\]
-      - [テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[スカイガールズ](https://ja.wikipedia.org/wiki/スカイガールズ "wikilink")』前期[エンディングテーマ](https://ja.wikipedia.org/wiki/主題歌 "wikilink")
+      - [テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[スカイガールズ](../Page/スカイガールズ.md "wikilink")』前期[エンディングテーマ](../Page/主題歌.md "wikilink")
 2.  **真夜中の小鳥** \[4:32\]
 3.  **手紙** \[5:02\]
 4.  True Blue（[off vocal version](https://ja.wikipedia.org/wiki/オフヴォーカル "wikilink")）

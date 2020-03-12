@@ -1,11 +1,11 @@
 > この記事は[A Perfect Sky](https://ja.wikipedia.org/wiki/A_Perfect_Sky)から翻訳されています。
 
 
-「**A Perfect Sky**」（ア パーフェクト スカイ）は、[BONNIE PINKの楽曲で](https://ja.wikipedia.org/wiki/BONNIE_PINK "wikilink")、21枚目の[シングル](../Page/シングル.md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[6月28日](../Page/6月28日.md "wikilink")に[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")から発売。CDコードは初回限定盤がWPCL-10327、通常盤がWPCL-10319。
+「**A Perfect Sky**」（ア パーフェクト スカイ）は、[BONNIE PINKの楽曲で](https://ja.wikipedia.org/wiki/BONNIE_PINK "wikilink")、21枚目の[シングル](../Page/シングル.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink")に[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")から発売。CDコードは初回限定盤がWPCL-10327、通常盤がWPCL-10319。
 
 ## 概要
 
-  - 表題曲は、[資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")「[ANESSA](https://ja.wikipedia.org/wiki/ANESSA "wikilink")」[CMソングに起用された](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。
+  - 表題曲は、[資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")「[ANESSA](../Page/ANESSA.md "wikilink")」[CMソングに起用された](../Page/コマーシャルソング.md "wikilink")。
 
   - その為、[プロデューサー](../Page/プロデューサー.md "wikilink")は｢So Wonderful｣を担当した[Burning Chickenが行なっている](https://ja.wikipedia.org/wiki/Burning_Chicken "wikilink")。
 
@@ -15,13 +15,13 @@
 
   - 初回限定盤は「ANESSA」仕様のレジャーシートを封入。また、初回限定盤の[ジャケットではCMキャラクターである](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")[蛯原友里](https://ja.wikipedia.org/wiki/蛯原友里 "wikilink")の後ろ姿が使用されている。
 
-  - シングル・ヒットが少なかったBONNIE PINKだが、この曲で『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』や『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』にも数年ぶりの出演を果たし、この年の『[第57回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第57回NHK紅白歌合戦 "wikilink")』にも初出場となった。
+  - シングル・ヒットが少なかったBONNIE PINKだが、この曲で『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』や『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』にも数年ぶりの出演を果たし、この年の『[第57回NHK紅白歌合戦](../Page/第57回NHK紅白歌合戦.md "wikilink")』にも初出場となった。
 
-  - 「A Perfect Sky」の[PVは](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、[サイパン](https://ja.wikipedia.org/wiki/サイパン "wikilink")にて撮影。[監督](../Page/監督.md "wikilink")は、[松本剛](https://ja.wikipedia.org/wiki/松本剛_\(映像作家\) "wikilink")。
+  - 「A Perfect Sky」の[PVは](../Page/ミュージック・ビデオ.md "wikilink")、[サイパン](https://ja.wikipedia.org/wiki/サイパン "wikilink")にて撮影。[監督](../Page/監督.md "wikilink")は、[松本剛](https://ja.wikipedia.org/wiki/松本剛_\(映像作家\) "wikilink")。
 
-  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[8月26日](../Page/8月26日.md "wikilink")に行なわれた蛯原友里の[結婚披露宴](https://ja.wikipedia.org/wiki/結婚披露宴 "wikilink")においてBONNIE PINKが[サプライズ](../Page/サプライズ.md "wikilink")ゲストとして招待され、同曲を披露した。
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[8月26日](../Page/8月26日.md "wikilink")に行なわれた蛯原友里の[結婚披露宴](../Page/結婚披露宴.md "wikilink")においてBONNIE PINKが[サプライズ](../Page/サプライズ.md "wikilink")ゲストとして招待され、同曲を披露した。
 
-  - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")「[ゼロいち](https://ja.wikipedia.org/wiki/ゼロいち "wikilink")」の[エンディングテーマとして起用されていた](https://ja.wikipedia.org/wiki/主題歌 "wikilink")。
+  - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")「[ゼロいち](https://ja.wikipedia.org/wiki/ゼロいち "wikilink")」の[エンディングテーマとして起用されていた](../Page/主題歌.md "wikilink")。
 
 ## 収録曲
 
@@ -39,8 +39,8 @@
 
 ## 収録アルバム
 
-  - 『[Every Single Day -Complete BONNIE PINK（1995-2006）-](https://ja.wikipedia.org/wiki/Every_Single_Day_-Complete_BONNIE_PINK（1995-2006）- "wikilink")』（1.）
-  - 『[Thinking Out Loud](https://ja.wikipedia.org/wiki/Thinking_Out_Loud "wikilink")』（1.-(Philharmonic Flava)として収録。）
+  - 『[Every Single Day -Complete BONNIE PINK（1995-2006）-](../Page/Every_Single_Day_-Complete_BONNIE_PINK（1995-2006）-.md "wikilink")』（1.）
+  - 『[Thinking Out Loud](../Page/Thinking_Out_Loud.md "wikilink")』（1.-(Philharmonic Flava)として収録。）
   - スウェーデン盤『Thinking Out Loud』（1.-(Björn Remix)として収録。）
   - 『[Back Room -BONNIE PINK Remakes-](https://ja.wikipedia.org/wiki/Back_Room_-BONNIE_PINK_Remakes- "wikilink")』（1.-リメイクされて収録。）
   - 『[Dear Diary](https://ja.wikipedia.org/wiki/Dear_Diary "wikilink")』初回限定特典CD「BONNIE PINK B-side collection(1996〜2009)」に収録（2.）

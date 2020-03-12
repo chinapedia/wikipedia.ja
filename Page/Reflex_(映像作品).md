@@ -5,17 +5,17 @@
 
 ## 概要
 
-  - ビデオクリップ。デビューシングル「[夢見る少女じゃいられない](https://ja.wikipedia.org/wiki/夢見る少女じゃいられない "wikilink")」から6thシングル「[トラブルメイカー](https://ja.wikipedia.org/wiki/トラブルメイカー_\(相川七瀬の曲\) "wikilink")」までのプロモーションビデオと「[恋心](https://ja.wikipedia.org/wiki/恋心_\(相川七瀬の曲\) "wikilink")」のカップリング「天使のように踊らせて」の全7曲が収録されている。
-  - 各曲の間に撮影風景（[織田哲郎](../Page/織田哲郎.md "wikilink")も出演）、アルバム「[Red](https://ja.wikipedia.org/wiki/Red_\(相川七瀬のアルバム\) "wikilink")」収録曲の中から数曲流れている。
+  - ビデオクリップ。デビューシングル「[夢見る少女じゃいられない](../Page/夢見る少女じゃいられない.md "wikilink")」から6thシングル「[トラブルメイカー](https://ja.wikipedia.org/wiki/トラブルメイカー_\(相川七瀬の曲\) "wikilink")」までのプロモーションビデオと「[恋心](../Page/恋心_\(相川七瀬の曲\).md "wikilink")」のカップリング「天使のように踊らせて」の全7曲が収録されている。
+  - 各曲の間に撮影風景（[織田哲郎](../Page/織田哲郎.md "wikilink")も出演）、アルバム「[Red](../Page/Red_\(相川七瀬のアルバム\).md "wikilink")」収録曲の中から数曲流れている。
 
 ## 収録内容
 
-1.  [夢見る少女じゃいられない](https://ja.wikipedia.org/wiki/夢見る少女じゃいられない "wikilink")
-2.  [バイバイ。](https://ja.wikipedia.org/wiki/バイバイ。 "wikilink")
-3.  [LIKE A HARD RAIN](https://ja.wikipedia.org/wiki/LIKE_A_HARD_RAIN "wikilink")
-4.  [BREAK OUT\!](https://ja.wikipedia.org/wiki/BREAK_OUT!_\(相川七瀬の曲\) "wikilink")
-5.  [恋心](https://ja.wikipedia.org/wiki/恋心_\(相川七瀬の曲\) "wikilink")
-6.  [天使のように躍らせて](https://ja.wikipedia.org/wiki/恋心_\(相川七瀬の曲\) "wikilink")
+1.  [夢見る少女じゃいられない](../Page/夢見る少女じゃいられない.md "wikilink")
+2.  [バイバイ。](../Page/バイバイ。.md "wikilink")
+3.  [LIKE A HARD RAIN](../Page/LIKE_A_HARD_RAIN.md "wikilink")
+4.  [BREAK OUT\!](../Page/BREAK_OUT!_\(相川七瀬の曲\).md "wikilink")
+5.  [恋心](../Page/恋心_\(相川七瀬の曲\).md "wikilink")
+6.  [天使のように躍らせて](../Page/恋心_\(相川七瀬の曲\).md "wikilink")
 7.  [トラブルメイカー](https://ja.wikipedia.org/wiki/トラブルメイカー_\(相川七瀬の曲\) "wikilink")
 
 [Category:エイベックス・グループの映像作品](https://ja.wikipedia.org/wiki/Category:エイベックス・グループの映像作品 "wikilink") [Category:1997年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:1997年の音楽関連の映像作品 "wikilink") [Category:ビデオ・クリップ集](https://ja.wikipedia.org/wiki/Category:ビデオ・クリップ集 "wikilink")

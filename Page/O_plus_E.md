@@ -1,7 +1,7 @@
 > この記事は[O plus E](https://ja.wikipedia.org/wiki/O_plus_E)から翻訳されています。
 
 
-『**O plus E**』は[1979年](../Page/1979年.md "wikilink")12月に創刊された[光学](../Page/光学.md "wikilink")技術、[オプトエレクトロニクスなど光関連の応用技術の専門雑誌](https://ja.wikipedia.org/wiki/光エレクトロニクス "wikilink")。毎月25日発行。
+『**O plus E**』は[1979年](../Page/1979年.md "wikilink")12月に創刊された[光学](../Page/光学.md "wikilink")技術、[オプトエレクトロニクスなど光関連の応用技術の専門雑誌](../Page/光エレクトロニクス.md "wikilink")。毎月25日発行。
 
 ## 概要
 

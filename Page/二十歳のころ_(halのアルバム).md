@@ -6,9 +6,9 @@
 ## 解説
 
   - [シアトル](../Page/シアトル.md "wikilink")在住の重鎮プロデューサー、スティーヴ・フィスク（Steve Fisk）を招いて、全編シアトルでレコーディングされた。hàlとスティーヴのタッグでレコーディング作業が進められた。
-  - [Dragon Ashの](https://ja.wikipedia.org/wiki/Dragon_Ash "wikilink")[降谷建志](https://ja.wikipedia.org/wiki/降谷建志 "wikilink")、[くるり](../Page/くるり.md "wikilink")の[岸田繁](../Page/岸田繁.md "wikilink")、丸木戸定男（[曽我部恵一](https://ja.wikipedia.org/wiki/曽我部恵一 "wikilink")）、Nick Saloman（[The Bevis Frond](https://ja.wikipedia.org/wiki/The_Bevis_Frond "wikilink")）らからの提供曲も収録している。
+  - [Dragon Ashの](../Page/Dragon_Ash.md "wikilink")[降谷建志](../Page/降谷建志.md "wikilink")、[くるり](../Page/くるり.md "wikilink")の[岸田繁](../Page/岸田繁.md "wikilink")、丸木戸定男（[曽我部恵一](../Page/曽我部恵一.md "wikilink")）、Nick Saloman（[The Bevis Frond](https://ja.wikipedia.org/wiki/The_Bevis_Frond "wikilink")）らからの提供曲も収録している。
   - 初回限定盤のみ布張りジャケット仕様とうたわれているが、現在までに通常盤の出荷は確認されていない。
-  - 20トラック目には[シークレットトラックが収録されている](https://ja.wikipedia.org/wiki/隠しトラック "wikilink")。
+  - 20トラック目には[シークレットトラックが収録されている](../Page/隠しトラック.md "wikilink")。
   - hàlいわく、本作はかなりの自信をもってリリースしたとのことだが、セールス的には振るわず、その後1年間はアルバムのリリースがない状態が続いた。
 
 ## 収録曲
@@ -20,7 +20,7 @@
 3.  **NORMAN**
       - 作詞：[大橋伸行](https://ja.wikipedia.org/wiki/大橋伸行 "wikilink")、hàl／作曲：大橋伸行
 4.  **痛みの果て**
-      - 作詞・作曲：[降谷建志](https://ja.wikipedia.org/wiki/降谷建志 "wikilink")
+      - 作詞・作曲：[降谷建志](../Page/降谷建志.md "wikilink")
 5.  **温度**
       - 作詞・作曲：hàl
 6.  **19**

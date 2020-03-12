@@ -5,7 +5,7 @@
 
 ## 概要
 
-  - [オリコンウィークリー初登場](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")36位と、デビューシングルとしては好調な売り上げだった。
+  - [オリコンウィークリー初登場](../Page/オリコンチャート.md "wikilink")36位と、デビューシングルとしては好調な売り上げだった。
   - [yuri](https://ja.wikipedia.org/wiki/yuri "wikilink")のパートが少なく、[motsu](https://ja.wikipedia.org/wiki/motsu "wikilink")のパートが多めという構成になっている。
   - PVは[ヴェルファーレ](../Page/ヴェルファーレ.md "wikilink")にて撮影された。
   - 当初、デビューシングルは1枚目のアルバム『[electrock](https://ja.wikipedia.org/wiki/electrock "wikilink")』に収録されている「take me higher」の予定だったが、こちらに入れ替わる格好となった。

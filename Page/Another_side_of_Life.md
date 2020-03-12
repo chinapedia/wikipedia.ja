@@ -11,7 +11,7 @@
 ## 収録曲
 
 1.  **Cloudy**
-      - 作詞：[川村真澄](https://ja.wikipedia.org/wiki/川村真澄 "wikilink")／作曲：Henrik Sundqvist／編曲：Henrik Sundqvist、Pelle Henricsson
+      - 作詞：[川村真澄](../Page/川村真澄.md "wikilink")／作曲：Henrik Sundqvist／編曲：Henrik Sundqvist、Pelle Henricsson
 2.  **The Another side of Life**
       - 作詞・作曲：[大橋伸行](https://ja.wikipedia.org/wiki/大橋伸行 "wikilink")／編曲：Henrik Sundqvist、Pelle Henricsson
 3.  **P.Sの後で 〜Made up Your Mind〜**

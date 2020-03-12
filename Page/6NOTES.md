@@ -1,13 +1,13 @@
 > この記事は[6NOTES](https://ja.wikipedia.org/wiki/6NOTES)から翻訳されています。
 
 
-**6NOTES**（シックスノーツ）は、日本の女性歌手グループ[BeForU](https://ja.wikipedia.org/wiki/BeForU "wikilink")メンバーによるミニアルバム。
+**6NOTES**（シックスノーツ）は、日本の女性歌手グループ[BeForU](../Page/BeForU.md "wikilink")メンバーによるミニアルバム。
 
 ## 概要
 
   - メンバーそれぞれのソロ楽曲を集めた作品。メンバーひとりひとりが自ら作詞し、歌唱している。なお、本作はBeForUではなく"**Riyu,Noria,Yoma,Sayaka,Miharu,Lisa**"名義でのリリースとなる。
   - アルバム『[BeForU III 〜Breaking Into The Probability Changes〜](../Page/BeForU_III_〜Breaking_Into_The_Probability_Changes〜.md "wikilink")』とほぼ同時進行で制作された。
-  - 店頭販売はされていない。通信販売（ただし[コナミスタイル](https://ja.wikipedia.org/wiki/コナミスタイル "wikilink")では取り扱っていない）とライブ会場での販売のみ。
+  - 店頭販売はされていない。通信販売（ただし[コナミスタイル](../Page/コナミスタイル.md "wikilink")では取り扱っていない）とライブ会場での販売のみ。
 
 ## 収録曲
 
@@ -15,7 +15,7 @@
 
 1.  彩
       -
-        歌唱：[小坂りゆ](https://ja.wikipedia.org/wiki/小坂りゆ "wikilink")
+        歌唱：[小坂りゆ](../Page/小坂りゆ.md "wikilink")
         作曲：カワイ進　編曲：[LOVE+HATE](../Page/LOVE+HATE.md "wikilink")
         「あや」と読む。
 2.  細い鎖
@@ -25,7 +25,7 @@
 3.  LUNA+tic FANTASY
       -
         歌唱：[有沢みはる](https://ja.wikipedia.org/wiki/有沢みはる "wikilink")
-        作曲：[BABY FAZE](https://ja.wikipedia.org/wiki/BABY_FAZE "wikilink")　編曲：[明石昌夫](https://ja.wikipedia.org/wiki/明石昌夫 "wikilink")
+        作曲：[BABY FAZE](../Page/BABY_FAZE.md "wikilink")　編曲：[明石昌夫](../Page/明石昌夫.md "wikilink")
 4.  ラディエンス
       -
         歌唱：[Noria](../Page/Noria.md "wikilink")

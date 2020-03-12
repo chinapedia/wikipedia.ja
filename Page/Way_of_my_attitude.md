@@ -1,11 +1,11 @@
 > この記事は[Way of my attitude](https://ja.wikipedia.org/wiki/Way_of_my_attitude)から翻訳されています。
 
 
-『**way of my attitude**』（ウェイ オブ マイ アティチュード）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月21日](https://ja.wikipedia.org/wiki/3月21日 "wikilink")にリリースされた[hàlの](https://ja.wikipedia.org/wiki/hal "wikilink")1枚目のフルアルバム。CDコードはVICL-875。
+『**way of my attitude**』（ウェイ オブ マイ アティチュード）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月21日](../Page/3月21日.md "wikilink")にリリースされた[hàlの](https://ja.wikipedia.org/wiki/hal "wikilink")1枚目のフルアルバム。CDコードはVICL-875。
 
 ## 解説
 
-  - [CDエクストラ](https://ja.wikipedia.org/wiki/CDエクストラ "wikilink")仕様になっており、パソコンで再生すると、2曲の[PVとフォトセッションが見られる](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。
+  - [CDエクストラ](https://ja.wikipedia.org/wiki/CDエクストラ "wikilink")仕様になっており、パソコンで再生すると、2曲の[PVとフォトセッションが見られる](../Page/ミュージック・ビデオ.md "wikilink")。
   - 収録されている楽曲のうち、スウェーデンレコーディングが6曲、日本レコーディングが4曲で構成されている。
   - M-1「CLICHES」は[クラウドベリー・ジャム](../Page/クラウドベリー・ジャム.md "wikilink")のカバー曲となっている。
 

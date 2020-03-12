@@ -6,7 +6,7 @@
 ## 収録曲
 
 1.  **両方 For You**
-    （[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[作曲](../Page/作曲.md "wikilink")：[トータス松本](../Page/トータス松本.md "wikilink")、[編曲](../Page/編曲.md "wikilink")：[伊藤銀次](../Page/伊藤銀次.md "wikilink")・[トータス松本](../Page/トータス松本.md "wikilink")）
+    （[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")：[トータス松本](../Page/トータス松本.md "wikilink")、[編曲](../Page/編曲.md "wikilink")：[伊藤銀次](../Page/伊藤銀次.md "wikilink")・[トータス松本](../Page/トータス松本.md "wikilink")）
 2.  **泣けてくる**
     （作詞・作曲：トータス松本、編曲：伊藤銀次・トータス松本）
 3.  **花さかフィーバー**
@@ -16,7 +16,7 @@
 
 ## タイアップ
 
-  - 2007年[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")[夏の高校野球統一テーマ曲](https://ja.wikipedia.org/wiki/全国高校野球選手権大会中継 "wikilink")（\#1）
+  - 2007年[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")[夏の高校野球統一テーマ曲](../Page/全国高校野球選手権大会中継.md "wikilink")（\#1）
   - [アリナミン](https://ja.wikipedia.org/wiki/アリナミン "wikilink")[TVCM](../Page/テレビ.md "wikilink")（\#2）
   - 映画『犬に名前をつける日』主題歌（\#2）\[1\]
   - [J-WAVE](../Page/J-WAVE.md "wikilink")2007春のキャンペーンソング （\#3）

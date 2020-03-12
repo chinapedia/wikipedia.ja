@@ -1,11 +1,11 @@
 > この記事は[ Vol.3](https://ja.wikipedia.org/wiki/_Vol.3)から翻訳されています。
 
 
-**トラヴェリング・ウィルベリーズ Vol.3**(**Traveling Wilburys Vol. 3**)は、1990年に発表された[トラヴェリング・ウィルベリーズ](https://ja.wikipedia.org/wiki/トラヴェリング・ウィルベリーズ "wikilink")のセカンドアルバム。
+**トラヴェリング・ウィルベリーズ Vol.3**(**Traveling Wilburys Vol. 3**)は、1990年に発表された[トラヴェリング・ウィルベリーズ](../Page/トラヴェリング・ウィルベリーズ.md "wikilink")のセカンドアルバム。
 
 ## 解説
 
-ファースト・アルバム『トラヴェリング・ウィルベリーズ Vol.1』をリリースした1988年の冬にバンド・メンバーの[レフティ・ウィルベリーが心筋梗塞のため急逝](https://ja.wikipedia.org/wiki/ロイ・オービソン "wikilink")。後任に[デル・シャノン](https://ja.wikipedia.org/wiki/デル・シャノン "wikilink")を迎えるが、シャノンも他界したため、4人で製作されたのが本作。
+ファースト・アルバム『トラヴェリング・ウィルベリーズ Vol.1』をリリースした1988年の冬にバンド・メンバーの[レフティ・ウィルベリーが心筋梗塞のため急逝](../Page/ロイ・オービソン.md "wikilink")。後任に[デル・シャノン](../Page/デル・シャノン.md "wikilink")を迎えるが、シャノンも他界したため、4人で製作されたのが本作。
 
 2007年7月にデジタルリマスター盤が発売された。
 
@@ -43,15 +43,15 @@
 <!-- end list -->
 
   -
-    *シングル「[シーズ・マイ・ベイビー](https://ja.wikipedia.org/wiki/シーズ・マイ・ベイビー "wikilink")」B面に収録されたものとは別ミックス。[デル・シャノン](https://ja.wikipedia.org/wiki/デル・シャノン "wikilink")の「[悲しき街角](https://ja.wikipedia.org/wiki/悲しき街角 "wikilink")」のカバー。*
+    *シングル「[シーズ・マイ・ベイビー](https://ja.wikipedia.org/wiki/シーズ・マイ・ベイビー "wikilink")」B面に収録されたものとは別ミックス。[デル・シャノン](../Page/デル・シャノン.md "wikilink")の「[悲しき街角](https://ja.wikipedia.org/wiki/悲しき街角 "wikilink")」のカバー。*
 
 ## 未発表曲
 
 ## プレイヤー
 
-  - [ジェフ・リン](https://ja.wikipedia.org/wiki/ジェフ・リン "wikilink")(ELO) Guitars, bass guitar, keyboards, piano, vocals
+  - [ジェフ・リン](../Page/ジェフ・リン.md "wikilink")(ELO) Guitars, bass guitar, keyboards, piano, vocals
   - [ジョージ・ハリスン](../Page/ジョージ・ハリスン.md "wikilink") Guitars, mandolin, sitar, vocals
-  - [トム・ペティ](https://ja.wikipedia.org/wiki/トム・ペティ "wikilink") Guitars, harmonica, vocals
+  - [トム・ペティ](../Page/トム・ペティ.md "wikilink") Guitars, harmonica, vocals
   - [ボブ・ディラン](../Page/ボブ・ディラン.md "wikilink") Guitars, keyboards, vocals.
 
 ## サポート・プレイヤー
@@ -59,7 +59,7 @@
   - [ジム・ケルトナー](https://ja.wikipedia.org/wiki/ジム・ケルトナー "wikilink") - ドラムス
   - ジム・ホーン - サクソフォン
   - レイ・クーパー - パーカッション
-  - [ゲイリー・ムーア](https://ja.wikipedia.org/wiki/ゲイリー・ムーア "wikilink") - リード・ギター (on "She's my Baby")
+  - [ゲイリー・ムーア](../Page/ゲイリー・ムーア.md "wikilink") - リード・ギター (on "She's my Baby")
   - Tom Brock : Mandolin/ Death Metal Scream
 
 [Category:1990年のアルバム](https://ja.wikipedia.org/wiki/Category:1990年のアルバム "wikilink") [Category:ワーナー・ブラザース・レコードのアルバム](https://ja.wikipedia.org/wiki/Category:ワーナー・ブラザース・レコードのアルバム "wikilink") [Category:ジェフ・リンがプロデュースしたアルバム](https://ja.wikipedia.org/wiki/Category:ジェフ・リンがプロデュースしたアルバム "wikilink")

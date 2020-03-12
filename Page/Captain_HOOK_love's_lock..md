@@ -1,7 +1,7 @@
 > この記事は[Captain HOOK love\'s lock.](https://ja.wikipedia.org/wiki/Captain_HOOK_love\'s_lock.)から翻訳されています。
 
 
-『**Captain HOOK love's lock.**』は、[インディーズレーベル](https://ja.wikipedia.org/wiki/インディーズレーベル "wikilink")　IM（アイム）により企画、[HOBiRECORDS](https://ja.wikipedia.org/wiki/HOBiRECORDS "wikilink")から発売されたオリジナル[ドラマCD](https://ja.wikipedia.org/wiki/ドラマCD "wikilink")シリーズ作品。本編2巻に主題歌とED、キャラソングが収録されたvocal maxiが発売。原案・シナリオは二宮愛、イラストは[キリシマソウ](https://ja.wikipedia.org/wiki/キリシマソウ "wikilink")、音楽は[ZIZZ STUDIOが担当](https://ja.wikipedia.org/wiki/ZIZZ_STUDIO "wikilink")。
+『**Captain HOOK love's lock.**』は、[インディーズレーベル](https://ja.wikipedia.org/wiki/インディーズレーベル "wikilink")　IM（アイム）により企画、[HOBiRECORDS](https://ja.wikipedia.org/wiki/HOBiRECORDS "wikilink")から発売されたオリジナル[ドラマCD](../Page/ドラマCD.md "wikilink")シリーズ作品。本編2巻に主題歌とED、キャラソングが収録されたvocal maxiが発売。原案・シナリオは二宮愛、イラストは[キリシマソウ](https://ja.wikipedia.org/wiki/キリシマソウ "wikilink")、音楽は[ZIZZ STUDIOが担当](../Page/ZIZZ_STUDIO.md "wikilink")。
 
 ## 物語
 
@@ -9,16 +9,16 @@
 
 ## 登場人物
 
-  - 柴コ（しばこ） （声：[皆川純子](https://ja.wikipedia.org/wiki/皆川純子 "wikilink")）
+  - 柴コ（しばこ） （声：[皆川純子](../Page/皆川純子.md "wikilink")）
 
 <!-- end list -->
 
-  - 伊智（いち） （声：[鳥海浩輔](https://ja.wikipedia.org/wiki/鳥海浩輔 "wikilink")）
+  - 伊智（いち） （声：[鳥海浩輔](../Page/鳥海浩輔.md "wikilink")）
 
 <!-- end list -->
 
   - 黄泉（よみ） （声：[藤原啓治](../Page/藤原啓治.md "wikilink")）
-    本当の名は[ピーター・パン](../Page/ピーター・パン.md "wikilink")の原作者と同じの[ジェームス・マシュー・バリー](https://ja.wikipedia.org/wiki/ジェームス・マシュー・バリー "wikilink")。
+    本当の名は[ピーター・パン](../Page/ピーター・パン.md "wikilink")の原作者と同じの[ジェームス・マシュー・バリー](../Page/ジェームス・マシュー・バリー.md "wikilink")。
 
 <!-- end list -->
 
@@ -38,7 +38,7 @@
 
 <!-- end list -->
 
-  - 刹那（せつな） （声：[宮野真守](https://ja.wikipedia.org/wiki/宮野真守 "wikilink")）
+  - 刹那（せつな） （声：[宮野真守](../Page/宮野真守.md "wikilink")）
 
 ## CD
 

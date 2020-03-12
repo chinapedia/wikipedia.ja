@@ -5,7 +5,7 @@
 
 ## 概要
 
-[電子楽器](../Page/電子楽器.md "wikilink")を基調としたサウンドのミドルチューンで、move初の『[頭文字D](../Page/頭文字D.md "wikilink")』タイアップソング。1枚目のシングル「[ROCK IT DOWN](https://ja.wikipedia.org/wiki/ROCK_IT_DOWN "wikilink")」と比べてyuriのパートが増えている。
+[電子楽器](../Page/電子楽器.md "wikilink")を基調としたサウンドのミドルチューンで、move初の『[頭文字D](../Page/頭文字D.md "wikilink")』タイアップソング。1枚目のシングル「[ROCK IT DOWN](../Page/ROCK_IT_DOWN.md "wikilink")」と比べてyuriのパートが増えている。
 
 ## 収録曲
 

@@ -1,9 +1,9 @@
 > この記事は[Freenet](https://ja.wikipedia.org/wiki/Freenet)から翻訳されています。
 
 
-**Freenet**（**フリーネット**）とは、[情報](https://ja.wikipedia.org/wiki/情報 "wikilink")をやり取りする場合に相手先との通信部分を[暗号化](https://ja.wikipedia.org/wiki/暗号化 "wikilink")した[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")を利用した[ネットワークである](https://ja.wikipedia.org/wiki/コンピュータネットワーク "wikilink")。
+**Freenet**（**フリーネット**）とは、[情報](https://ja.wikipedia.org/wiki/情報 "wikilink")をやり取りする場合に相手先との通信部分を[暗号化](https://ja.wikipedia.org/wiki/暗号化 "wikilink")した[インターネット](../Page/インターネット.md "wikilink")を利用した[ネットワークである](../Page/コンピュータネットワーク.md "wikilink")。
 
-1999年7月、Ian Clarke の論文 "A Distributed Decentralised Information Storage and Retrieval System" （分散自立型情報の保管と検索システム）に基づきFreenetプロジェクトがスタートした。 このプロジェクトの目的はインターネット上での情報発信者の[匿名](https://ja.wikipedia.org/wiki/匿名 "wikilink")を確保し自由な発言・活動を保証することにある。実際に中国・中東諸国で使用されて国家権力を以てしても通信の傍受が不可能なほどである。
+1999年7月、Ian Clarke の論文 "A Distributed Decentralised Information Storage and Retrieval System" （分散自立型情報の保管と検索システム）に基づきFreenetプロジェクトがスタートした。 このプロジェクトの目的はインターネット上での情報発信者の[匿名](../Page/匿名.md "wikilink")を確保し自由な発言・活動を保証することにある。実際に中国・中東諸国で使用されて国家権力を以てしても通信の傍受が不可能なほどである。
 
 ## Freenetのフロントエンド
 
@@ -35,8 +35,8 @@
 ## 関連項目
 
   - [GNUnet](https://ja.wikipedia.org/wiki/GNUnet "wikilink")
-  - [I2P](https://ja.wikipedia.org/wiki/I2P "wikilink")
-  - [Tor](https://ja.wikipedia.org/wiki/Tor "wikilink")
+  - [I2P](../Page/I2P.md "wikilink")
+  - [Tor](../Page/Tor.md "wikilink")
 
 ## 外部リンク
 

@@ -1,7 +1,7 @@
 > この記事は[ BINKAN](https://ja.wikipedia.org/wiki/_BINKAN)から翻訳されています。
 
 
-『**はぁ・はぁ・テレパス 〜はじめてなのに超BINKAN〜**』（はぁはぁテレパス はじめてなのにちょうびんかん）は[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[1月30日](../Page/1月30日.md "wikilink")に[SAGA PLANETSより発売された](https://ja.wikipedia.org/wiki/SAGA_PLANETS "wikilink")[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")である。 また、**はぁ・はぁ・テレパス**は、上記タイトルの主題歌でもある。
+『**はぁ・はぁ・テレパス 〜はじめてなのに超BINKAN〜**』（はぁはぁテレパス はじめてなのにちょうびんかん）は[2004年](../Page/2004年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink")に[SAGA PLANETSより発売された](../Page/SAGA_PLANETS.md "wikilink")[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")である。 また、**はぁ・はぁ・テレパス**は、上記タイトルの主題歌でもある。
 
 ## ストーリー
 
@@ -12,14 +12,14 @@
   - 柴崎翔太
     主人公。
   - 藤本美羽（ふじもと みはね）
-    声：[涼森ちさと](https://ja.wikipedia.org/wiki/涼森ちさと "wikilink")
+    声：[涼森ちさと](../Page/涼森ちさと.md "wikilink")
     ひょんな事から交際することになった、本作のメインヒロイン。超敏感体質。
   - 神原まな（かんばら まな）
     声：[紬叶慧](https://ja.wikipedia.org/wiki/紬叶慧 "wikilink")
     翔太の義妹だが、両親の離婚で離ればなれになっていた。
   - 新井莉子（あらい りこ）
-    声：[田中美智](https://ja.wikipedia.org/wiki/田中美智 "wikilink")
-    [保健室](https://ja.wikipedia.org/wiki/保健室 "wikilink")の先生にしてUFO研究部顧問。翔太を勧誘したい模様。
+    声：[田中美智](../Page/田中美智.md "wikilink")
+    [保健室](../Page/保健室.md "wikilink")の先生にしてUFO研究部顧問。翔太を勧誘したい模様。
 
 ## スタッフ
 

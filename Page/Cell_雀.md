@@ -5,16 +5,16 @@
 
 ## 概要
 
-  - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")11月 - 初版がリリースされ、以降2007年2月までに20回のバージョンアップを数える。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")9月 - [日本ゲーム大賞](https://ja.wikipedia.org/wiki/日本ゲーム大賞 "wikilink")2006インディーズ部門優秀賞を受賞。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")12月 - 第10回[文化庁メディア芸術祭](https://ja.wikipedia.org/wiki/文化庁メディア芸術祭 "wikilink")エンターテインメント部門推薦作品に入選。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink") - 2月までの累計ダウンロード数、22万ダウンロード。
+  - [2004年](../Page/2004年.md "wikilink")11月 - 初版がリリースされ、以降2007年2月までに20回のバージョンアップを数える。
+  - [2006年](../Page/2006年.md "wikilink")9月 - [日本ゲーム大賞](../Page/日本ゲーム大賞.md "wikilink")2006インディーズ部門優秀賞を受賞。
+  - [2006年](../Page/2006年.md "wikilink")12月 - 第10回[文化庁メディア芸術祭](../Page/文化庁メディア芸術祭.md "wikilink")エンターテインメント部門推薦作品に入選。
+  - [2007年](../Page/2007年.md "wikilink") - 2月までの累計ダウンロード数、22万ダウンロード。
 
 ## 特色
 
-  - Excelのワークシートをゲーム画面に使用し、事務作業に[カモフラージュ](https://ja.wikipedia.org/wiki/カモフラージュ "wikilink")させた「五時までモード」を実装している。そのため仕事中にサボって麻雀をしていても、周囲にはバレにくいというユニークな機能を実現させている。
+  - Excelのワークシートをゲーム画面に使用し、事務作業に[カモフラージュ](../Page/カモフラージュ.md "wikilink")させた「五時までモード」を実装している。そのため仕事中にサボって麻雀をしていても、周囲にはバレにくいというユニークな機能を実現させている。
   - 仕事以外では「五時からモード」「冴子先生モード」等で普通の麻雀ゲームとして遊ぶことができる。特に「冴子先生と愉快な仲間モード」では8種類のオフィスアシスタントから任意の3体を選び対戦麻雀を行なうことができる。冴子先生モードでは、このほか冴子先生と直接対戦ができる「冴子先生とトキメキ★モード」もある。こちらは上手くエンディングに進めればオマケのCG画像が見られる。
-  - そのほか、[効果音](https://ja.wikipedia.org/wiki/効果音 "wikilink")や[BGMの変更](https://ja.wikipedia.org/wiki/バックグラウンドミュージック "wikilink")、背景画像や配色の変更など、Excel本来の機能を利用した豊富なカスタマイズ機能を有している。
+  - そのほか、[効果音](../Page/効果音.md "wikilink")や[BGMの変更](../Page/バックグラウンドミュージック.md "wikilink")、背景画像や配色の変更など、Excel本来の機能を利用した豊富なカスタマイズ機能を有している。
 
 ## 動作環境
 
@@ -27,7 +27,7 @@
 ## 関連項目
 
   - [麻雀](../Page/麻雀.md "wikilink")
-  - [麻雀ゲームソフト一覧](https://ja.wikipedia.org/wiki/麻雀ゲームソフト一覧 "wikilink")
+  - [麻雀ゲームソフト一覧](../Page/麻雀ゲームソフト一覧.md "wikilink")
   - [Microsoft Office](../Page/Microsoft_Office.md "wikilink")
   - [Microsoft Excel](https://ja.wikipedia.org/wiki/Microsoft_Excel "wikilink")
 

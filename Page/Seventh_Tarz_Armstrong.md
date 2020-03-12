@@ -7,22 +7,22 @@
 
 [ティーンエージャー](https://ja.wikipedia.org/wiki/ティーンエージャー "wikilink")の女の子、Tarz Armstrongを中心とした[スリーピース](https://ja.wikipedia.org/wiki/スリーピース "wikilink")＋ピアノのバンドである。LDS（Language Destruction Sounds、「言語破壊サウンド」。言語を解体し、音の響きとしてまず捉え、しかしながら、最終的には詩的世界として構築し完成させる）という独特な手法を取る。
 
-またその手法と同時に、日本国内のみならず、US、UK、さまざまな音楽性のミュージシャンから楽曲製作、提供を受けることで、[エモ](https://ja.wikipedia.org/wiki/エモーショナル・ハードコア "wikilink")、[メロ](../Page/メロディック・ハードコア.md "wikilink")、[パンク](../Page/パンク・ロック.md "wikilink")、[スクリーモ](https://ja.wikipedia.org/wiki/スクリーモ "wikilink")、[ハードコア](../Page/ハードコア・パンク.md "wikilink")、シングアロング、[スカ](../Page/スカ.md "wikilink")、サーフ、[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")、[ラウド](https://ja.wikipedia.org/wiki/ラウドロック "wikilink")、[ミクスチャーといった音楽の壁を超えた](https://ja.wikipedia.org/wiki/ミクスチャー・ロック "wikilink")、ジャンルレスでボーダレス、自由で多様な音楽性を可能にしている。
+またその手法と同時に、日本国内のみならず、US、UK、さまざまな音楽性のミュージシャンから楽曲製作、提供を受けることで、[エモ](https://ja.wikipedia.org/wiki/エモーショナル・ハードコア "wikilink")、[メロ](../Page/メロディック・ハードコア.md "wikilink")、[パンク](../Page/パンク・ロック.md "wikilink")、[スクリーモ](../Page/スクリーモ.md "wikilink")、[ハードコア](../Page/ハードコア・パンク.md "wikilink")、シングアロング、[スカ](../Page/スカ.md "wikilink")、サーフ、[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")、[ラウド](../Page/ラウドロック.md "wikilink")、[ミクスチャーといった音楽の壁を超えた](../Page/ミクスチャー・ロック.md "wikilink")、ジャンルレスでボーダレス、自由で多様な音楽性を可能にしている。
 
-海外からの参加者には[Snuff](https://ja.wikipedia.org/wiki/スナッフ "wikilink")、[The Toy Dollsのダンカン](https://ja.wikipedia.org/wiki/トイドールズ "wikilink")・レッドモンズやマイケル・“オルガ”・オールガー、[Sugarcultのティム](https://ja.wikipedia.org/wiki/シュガーカルト "wikilink")・バグノッタ、[ALLiSTERのスコット](https://ja.wikipedia.org/wiki/アリスター "wikilink")・マーフィー、元[The Suicide Machines](https://ja.wikipedia.org/wiki/スーサイド・マシーンズ "wikilink")、[The One Thought Momentのダン](https://ja.wikipedia.org/wiki/The_One_Thought_Moment "wikilink")・ルカシンスキー、[FARRAH](https://ja.wikipedia.org/wiki/FARRAH "wikilink")のジェズ・アシャースト、Kevin Ridelなどがいる。
+海外からの参加者には[Snuff](https://ja.wikipedia.org/wiki/スナッフ "wikilink")、[The Toy Dollsのダンカン](../Page/トイドールズ.md "wikilink")・レッドモンズやマイケル・“オルガ”・オールガー、[Sugarcultのティム](../Page/シュガーカルト.md "wikilink")・バグノッタ、[ALLiSTERのスコット](https://ja.wikipedia.org/wiki/アリスター "wikilink")・マーフィー、元[The Suicide Machines](../Page/スーサイド・マシーンズ.md "wikilink")、[The One Thought Momentのダン](https://ja.wikipedia.org/wiki/The_One_Thought_Moment "wikilink")・ルカシンスキー、[FARRAH](https://ja.wikipedia.org/wiki/FARRAH "wikilink")のジェズ・アシャースト、Kevin Ridelなどがいる。
 
 2009年12月を最後に活動停止中（新曲のリリースが全くされていない）。
 
 ## プロフィール
 
-  - [名前はTarz](https://ja.wikipedia.org/wiki/ファーストネーム "wikilink")、[姓](https://ja.wikipedia.org/wiki/姓 "wikilink")はArmstrong。Seventh Tarz Armstrongはバンドネーム。
+  - [名前はTarz](https://ja.wikipedia.org/wiki/ファーストネーム "wikilink")、[姓](../Page/姓.md "wikilink")はArmstrong。Seventh Tarz Armstrongはバンドネーム。
 
 （生まれた日が7月7日だったので、7番目ターズさんという意味と、幸運の象徴であるSeven Stars(七つ星)とをかけて セヴンスターズと呼ばれ、そのままバンドネームに。）
 
-  - [カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[ベーカーズフィールド出身](https://ja.wikipedia.org/wiki/ベーカーズフィールド_\(カリフォルニア州\) "wikilink")。
+  - [カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[ベーカーズフィールド出身](../Page/ベーカーズフィールド_\(カリフォルニア州\).md "wikilink")。
   - 父は[アメリカ人](https://ja.wikipedia.org/wiki/アメリカ合衆国#国民 "wikilink")、母は[日本人](https://ja.wikipedia.org/wiki/日本人 "wikilink")。
   - [英語](../Page/英語.md "wikilink")と、[日本語](../Page/日本語.md "wikilink")が少し使える。
-  - 年齢は非公開だが、[ティーンエイジャー](https://ja.wikipedia.org/wiki/ティーンエイジャー "wikilink")。
+  - 年齢は非公開だが、[ティーンエイジャー](../Page/ティーンエイジャー.md "wikilink")。
 
 ## ディスコグラフィ
 
@@ -173,7 +173,7 @@ CD:CTCM65103</p></td>
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="../Page/6月27日.md" title="wikilink">6月27日</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/6月27日.md" title="wikilink">6月27日</a></p></td>
 <td><p><strong>7 SHORTRACKS</strong></p></td>
 <td><p>CTCM-65098</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -221,7 +221,7 @@ CD:CTCM65103</p></td>
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p>2007年<a href="https://ja.wikipedia.org/wiki/3月21日" title="wikilink">3月21日</a></p></td>
+<td><p>2007年<a href="../Page/3月21日.md" title="wikilink">3月21日</a></p></td>
 <td><p><strong>7th Tarz with a Legend Guitar &amp; Nivan Runder in 1st EP</strong></p></td>
 <td><p>CD:CTCM-65095<br />
 CD+DVD:CTCM-65094/B</p></td>
@@ -335,7 +335,7 @@ CD+DVD:CTCM-65096/B</p></td>
 <li><strong>Outside Me:Cycle of Six Degrees of K.B. / Seventh Tarz Armstrong</strong></li>
 <li>Backstabber / <a href="https://ja.wikipedia.org/wiki/FACT" title="wikilink">FACT</a></li>
 <li>Sailin’On / <a href="https://ja.wikipedia.org/wiki/BAD_BRAINS" title="wikilink">BAD BRAINS</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/リメンバー・ロックンロール・レイディオ?" title="wikilink">Do You Remember Rock and Roll Radio?</a> / <a href="https://ja.wikipedia.org/wiki/RAMONES" title="wikilink">RAMONES</a></li>
+<li><a href="../Page/リメンバー・ロックンロール・レイディオ?.md" title="wikilink">Do You Remember Rock and Roll Radio?</a> / <a href="https://ja.wikipedia.org/wiki/RAMONES" title="wikilink">RAMONES</a></li>
 <li>Red tape / <a href="https://ja.wikipedia.org/wiki/CIRCLE_JERKS" title="wikilink">CIRCLE JERKS</a></li>
 <li>Institutionalized / <a href="https://ja.wikipedia.org/wiki/SUICIDAL_TENDENCIES" title="wikilink">SUICIDAL TENDENCIES</a></li>
 <li>LEXICON DEVIL / <a href="https://ja.wikipedia.org/wiki/GERMS" title="wikilink">GERMS</a>
@@ -366,32 +366,32 @@ CD+DVD:CTCM-65096/B</p></td>
 
 ## タイアップ
 
-| 曲名                                        | タイアップ                                                                                                                                             |
-| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| highlight night                           | [松坂屋](../Page/松坂屋.md "wikilink")「2007バレンタイン」CMソング                                                                                                 |
-| wonder land-Non Pianoforte Countdown Mix- | [TBS系](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")「[COUNT DOWN TV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")」2007年3月度オープニングテーマ |
+| 曲名                                        | タイアップ                                                                                                       |
+| ----------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| highlight night                           | [松坂屋](../Page/松坂屋.md "wikilink")「2007バレンタイン」CMソング                                                           |
+| wonder land-Non Pianoforte Countdown Mix- | [TBS系](../Page/TBSテレビ.md "wikilink")「[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")」2007年3月度オープニングテーマ |
 
 ## その他
 
   - [FACTのRemixアルバム](https://ja.wikipedia.org/wiki/FACT_\(バンド\) "wikilink")「NIVAN RUNDER SOUNDRAGS」には、Seventh Tarz Armstrongのオーガナイズも手掛けているパンク・イベンターでクリエイター集団のCOCKPITSが参加している。
-  - [星井七瀬](https://ja.wikipedia.org/wiki/星井七瀬 "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")『[星井七瀬 恋愛シミュレーション](../Page/星井七瀬_恋愛シミュレーション.md "wikilink")』で曲がいち早くかけられ、[ヘヴィー・ローテーション](https://ja.wikipedia.org/wiki/ヘヴィー・ローテーション "wikilink")となっている。星井との関係は公式には明らかにされていない。なお[サイゾー](https://ja.wikipedia.org/wiki/サイゾー "wikilink")2010年4月1日号（電子版）はArmstrong＝星井であると明言している\[1\]（星井が表舞台から消えると同時にArmstrongも消えている）。
+  - [星井七瀬](https://ja.wikipedia.org/wiki/星井七瀬 "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")『[星井七瀬 恋愛シミュレーション](../Page/星井七瀬_恋愛シミュレーション.md "wikilink")』で曲がいち早くかけられ、[ヘヴィー・ローテーション](../Page/ヘヴィー・ローテーション.md "wikilink")となっている。星井との関係は公式には明らかにされていない。なお[サイゾー](../Page/サイゾー.md "wikilink")2010年4月1日号（電子版）はArmstrong＝星井であると明言している\[1\]（星井が表舞台から消えると同時にArmstrongも消えている）。
   - 「体験を基にした」本人出演の[ドラマ](../Page/ドラマ.md "wikilink")（[CDの付属](../Page/コンパクトディスク.md "wikilink")[DVD](../Page/DVD.md "wikilink")にダイジェスト収録）の原案は[直木賞](https://ja.wikipedia.org/wiki/直木賞 "wikilink")作家の[石田衣良](https://ja.wikipedia.org/wiki/石田衣良 "wikilink")が手掛けている。実在の人物としてのSeventh Tarz Armstrongの設定にかかわっているかどうかは不明。
 
 ## 関連項目
 
   - [ALLiSTER](https://ja.wikipedia.org/wiki/アリスター "wikilink")
-  - [Sugarcult](https://ja.wikipedia.org/wiki/シュガーカルト "wikilink")
-  - [The Suicide Machines](https://ja.wikipedia.org/wiki/スーサイド・マシーンズ "wikilink")
+  - [Sugarcult](../Page/シュガーカルト.md "wikilink")
+  - [The Suicide Machines](../Page/スーサイド・マシーンズ.md "wikilink")
   - [SUEMITSU & THE SUEMITH](https://ja.wikipedia.org/wiki/SUEMITSU_&_THE_SUEMITH "wikilink")
   - [Snuff](../Page/スナッフ_\(バンド\).md "wikilink")
-  - [SNAIL RAMP](https://ja.wikipedia.org/wiki/SNAIL_RAMP "wikilink")
-  - [ダイノジ](https://ja.wikipedia.org/wiki/ダイノジ "wikilink") エアギター、エアベースで参加
-  - [The Toy Dolls](https://ja.wikipedia.org/wiki/トイドールズ "wikilink")
-  - [PINKLOOP](https://ja.wikipedia.org/wiki/PINKLOOP "wikilink")
+  - [SNAIL RAMP](../Page/SNAIL_RAMP.md "wikilink")
+  - [ダイノジ](../Page/ダイノジ.md "wikilink") エアギター、エアベースで参加
+  - [The Toy Dolls](../Page/トイドールズ.md "wikilink")
+  - [PINKLOOP](../Page/PINKLOOP.md "wikilink")
   - [FARRAH](https://ja.wikipedia.org/wiki/FARRAH "wikilink")
   - [FACT](https://ja.wikipedia.org/wiki/FACT_\(バンド\) "wikilink")
   - [星井七瀬](https://ja.wikipedia.org/wiki/星井七瀬 "wikilink")
-  - [ZZ](https://ja.wikipedia.org/wiki/ZZ_\(バンド\) "wikilink")
+  - [ZZ](../Page/ZZ_\(バンド\).md "wikilink")
 
 ## 脚注
 

@@ -1,7 +1,7 @@
 > この記事は[FRONT MISSION 2089](https://ja.wikipedia.org/wiki/FRONT_MISSION_2089)から翻訳されています。
 
 
-『**FRONT MISSION 2089**』（フロントミッション2089）は、[スクウェア・エニックス](https://ja.wikipedia.org/wiki/スクウェア・エニックス "wikilink")より配信された[携帯電話](../Page/携帯電話.md "wikilink")用ゲーム。ジャンルは[シミュレーションRPG](https://ja.wikipedia.org/wiki/シミュレーションRPG "wikilink")。
+『**FRONT MISSION 2089**』（フロントミッション2089）は、[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")より配信された[携帯電話](../Page/携帯電話.md "wikilink")用ゲーム。ジャンルは[シミュレーションRPG](https://ja.wikipedia.org/wiki/シミュレーションRPG "wikilink")。
 
 「[フロントミッションシリーズ](../Page/フロントミッションシリーズ.md "wikilink")」の携帯サイト「フロントミッションモバイル」の1コンテンツである。対応機種は[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[iモード](https://ja.wikipedia.org/wiki/iモード "wikilink")（FOMA900i以降）、[auの](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")[EZweb](../Page/EZweb.md "wikilink")（W2x以降）、[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")の[Yahoo\!ケータイ](../Page/Yahoo!ケータイ.md "wikilink")（81x以降）。[2011年](../Page/2011年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")、同サイトの閉鎖に伴い配信は終了した。
 
@@ -9,7 +9,7 @@
 
 ## 概要
 
-[2003年](../Page/2003年.md "wikilink")に開始された「フロントミッションプロジェクト」の第4弾となる本作。外伝的なタイトルながら、ナンバリングシリーズと同じ世界観である初代作品『[1ST](https://ja.wikipedia.org/wiki/FRONT_MISSION "wikilink")』に、『[5th](https://ja.wikipedia.org/wiki/FRONT_MISSION5_Scars_of_the_War "wikilink")』『[FMO](https://ja.wikipedia.org/wiki/フロントミッションオンライン "wikilink")』の舞台となった[第2次ハフマン紛争](https://ja.wikipedia.org/wiki/第2次ハフマン紛争 "wikilink")が舞台。同紛争の直前である西暦[2089年](https://ja.wikipedia.org/wiki/2089年 "wikilink")の小競り合いを[傭兵](../Page/傭兵.md "wikilink")の視点で描いた物語である。
+[2003年](../Page/2003年.md "wikilink")に開始された「フロントミッションプロジェクト」の第4弾となる本作。外伝的なタイトルながら、ナンバリングシリーズと同じ世界観である初代作品『[1ST](../Page/FRONT_MISSION.md "wikilink")』に、『[5th](../Page/FRONT_MISSION5_Scars_of_the_War.md "wikilink")』『[FMO](https://ja.wikipedia.org/wiki/フロントミッションオンライン "wikilink")』の舞台となった[第2次ハフマン紛争](https://ja.wikipedia.org/wiki/第2次ハフマン紛争 "wikilink")が舞台。同紛争の直前である西暦[2089年](../Page/2089年.md "wikilink")の小競り合いを[傭兵](../Page/傭兵.md "wikilink")の視点で描いた物語である。
 
 システム的には『1ST』の携帯アプリ移植版である。アプリケーションの容量の制約上、『1ST』に比べWAPグラフィックの使い回しやマップの制限などが否めない。一方で、ミッション内容に関しては、突発的な任務変更や貧弱な車両の護衛、指定ポイントへの離脱など『1ST』より多彩な難易度の高いミッションがある。反面、クリアしたミッションを何度もプレイできる仕様のため、次のミッション配信まで過剰なレベル上げをすることによりプレイヤー自らゲームバランスを壊してしまう可能性もあった。この問題は次作の『2089-II』においてレベル制限という形で対応されている。
 

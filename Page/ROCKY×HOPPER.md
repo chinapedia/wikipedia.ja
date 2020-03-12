@@ -1,7 +1,7 @@
 > この記事は[ROCKYHOPPER](https://ja.wikipedia.org/wiki/ROCKYHOPPER)から翻訳されています。
 
 
-『**IWATOBI PENGUIN ROCKY×HOPPER**（イワトビペンギン ロッキー＆ホッパー）』は、[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")から、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月25日](../Page/4月25日.md "wikilink")に発売された[プレイステーション用コンピュータゲーム](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")。
+『**IWATOBI PENGUIN ROCKY×HOPPER**（イワトビペンギン ロッキー＆ホッパー）』は、[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")から、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月25日](../Page/4月25日.md "wikilink")に発売された[プレイステーション用コンピュータゲーム](../Page/PlayStation_\(ゲーム機\).md "wikilink")。
 
 ## ゲーム内容
 
@@ -116,6 +116,6 @@
 
 ## その他
 
-本作の続編として、PS用ソフト『イワトビペンギン ROCKY×HOPPER 2 探偵物語』が、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月26日](https://ja.wikipedia.org/wiki/2月26日 "wikilink")に発売されている。
+本作の続編として、PS用ソフト『イワトビペンギン ROCKY×HOPPER 2 探偵物語』が、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月26日](../Page/2月26日.md "wikilink")に発売されている。
 
 [Category:1997年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1997年のコンピュータゲーム "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:パーティーゲーム](https://ja.wikipedia.org/wiki/Category:パーティーゲーム "wikilink")

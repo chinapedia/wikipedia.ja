@@ -24,7 +24,7 @@
   - [Anaconda](https://ja.wikipedia.org/wiki/Anaconda "wikilink") - [Red Hat Linux](../Page/Red_Hat_Linux.md "wikilink"), [Fedora LinuxのGUIインストーラ](https://ja.wikipedia.org/wiki/Fedora_Linux "wikilink")
   - [Anki](https://ja.wikipedia.org/wiki/Anki "wikilink") - 出題頻度を自動調整する暗記カードソフトウェア
   - [Bazaar](https://ja.wikipedia.org/wiki/Bazaar "wikilink") - オープンソースの分散型[バージョン管理システム](../Page/バージョン管理システム.md "wikilink")
-  - [BitTorrent](https://ja.wikipedia.org/wiki/BitTorrent "wikilink") - BitTorrentのオリジナルクライアント
+  - [BitTorrent](../Page/BitTorrent.md "wikilink") - BitTorrentのオリジナルクライアント
   - [Blender](../Page/Blender.md "wikilink") - 3DCG、アニメーション、ゲーム製作用環境
   - [Bruce](https://ja.wikipedia.org/wiki/Bruce "wikilink") - プレゼンテーションツール
   - [BuildBot](https://ja.wikipedia.org/wiki/BuildBot "wikilink") - 継続的インテグレーション (CI) ツール
@@ -32,23 +32,23 @@
   - [Chandler](https://ja.wikipedia.org/wiki/Chandler_\(ソフトウェア\) "wikilink") - カレンダー、電子メール、タスク管理、メモをサポートするPIM
   - [Codeville](https://ja.wikipedia.org/wiki/Codeville "wikilink") - 分散型[バージョン管理システム](../Page/バージョン管理システム.md "wikilink")
   - [Decibel Audio Player](https://ja.wikipedia.org/wiki/Decibel_Audio_Player "wikilink") - オーディオプレイヤ
-  - [Deluge](https://ja.wikipedia.org/wiki/Deluge "wikilink") - [GNOME](../Page/GNOME.md "wikilink")用[BitTorrent](https://ja.wikipedia.org/wiki/BitTorrent "wikilink")クライアント
+  - [Deluge](https://ja.wikipedia.org/wiki/Deluge "wikilink") - [GNOME](../Page/GNOME.md "wikilink")用[BitTorrent](../Page/BitTorrent.md "wikilink")クライアント
   - Discord-slack形式のゲーム用VCアプリ
   - [Dogtail](https://ja.wikipedia.org/wiki/Dogtail "wikilink") - GUIテストツール
   - [Dropbox](https://ja.wikipedia.org/wiki/Dropbox "wikilink") - クラウド型ファイル保存サービス
   - [emesene](https://ja.wikipedia.org/wiki/emesene "wikilink") - [Windows Live Messengerを代替する](https://ja.wikipedia.org/wiki/Windows_Live_Messenger "wikilink")
   - [Exaile](https://ja.wikipedia.org/wiki/Exaile "wikilink") - 音楽プレーヤ
-  - [FreeIPA](https://ja.wikipedia.org/wiki/FreeIPA "wikilink") - セキュリティ情報管理ソフトウェア
+  - [FreeIPA](../Page/FreeIPA.md "wikilink") - セキュリティ情報管理ソフトウェア
   - [Frida](https://ja.wikipedia.org/wiki/Frida "wikilink") - クローズドなアプリの内部解析やメモリ解析を行うソフトウェア
-  - [Gajim](https://ja.wikipedia.org/wiki/Gajim "wikilink") - [XMPPプロトコルによるインスタントメッセージングクライント](https://ja.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol "wikilink")
-  - [GRAMPS](https://ja.wikipedia.org/wiki/GRAMPS "wikilink") - [系譜学](https://ja.wikipedia.org/wiki/系譜学 "wikilink")ソフトウェア
+  - [Gajim](https://ja.wikipedia.org/wiki/Gajim "wikilink") - [XMPPプロトコルによるインスタントメッセージングクライント](../Page/Extensible_Messaging_and_Presence_Protocol.md "wikilink")
+  - [GRAMPS](https://ja.wikipedia.org/wiki/GRAMPS "wikilink") - [系譜学](../Page/系譜学.md "wikilink")ソフトウェア
   - [Gwibber](https://ja.wikipedia.org/wiki/Gwibber "wikilink") - [マイクロブログ](https://ja.wikipedia.org/wiki/マイクロブログ "wikilink")クライアント
   - [Juice](https://ja.wikipedia.org/wiki/Juice "wikilink") - Podcastダウンローダ
   - [Listen](https://ja.wikipedia.org/wiki/Listen "wikilink") - 音楽プレーヤ
   - [Mercurial](../Page/Mercurial.md "wikilink") - 分散型[バージョン管理システム](../Page/バージョン管理システム.md "wikilink")
-  - [Miro](https://ja.wikipedia.org/wiki/Miro "wikilink") - クロスプラットフォームの[インターネットテレビ](https://ja.wikipedia.org/wiki/インターネットテレビ "wikilink")アプリケーション
+  - [Miro](https://ja.wikipedia.org/wiki/Miro "wikilink") - クロスプラットフォームの[インターネットテレビ](../Page/インターネットテレビ.md "wikilink")アプリケーション
   - [Morpheus](../Page/Morpheus.md "wikilink") - StreamCast Network社により運営されるファイル共有ソフトウェア
-  - [MusicBrainz Picard](https://ja.wikipedia.org/wiki/MusicBrainz_Picard "wikilink") - クロスプラットフォームの[MusicBrainz](https://ja.wikipedia.org/wiki/MusicBrainz "wikilink")タグエディタ
+  - [MusicBrainz Picard](https://ja.wikipedia.org/wiki/MusicBrainz_Picard "wikilink") - クロスプラットフォームの[MusicBrainz](../Page/MusicBrainz.md "wikilink")タグエディタ
   - [MyPaint](https://ja.wikipedia.org/wiki/MyPaint "wikilink") ([en](https://ja.wikipedia.org/wiki/:en:MyPaint "wikilink")) - ペイントソフト
   - [OpenLP](https://ja.wikipedia.org/wiki/OpenLP "wikilink")
   - [OpenOffice.org](../Page/OpenOffice.org.md "wikilink")
@@ -58,7 +58,7 @@
   - [p2ptube](http://p2ptube.sourceforge.net/) - 動画をインターネットにストリーミングするソフトウェア
   - [PiTiVi](https://ja.wikipedia.org/wiki/PiTiVi "wikilink") - ノンリニア動画編集システム
   - [Pootle](https://ja.wikipedia.org/wiki/Pootle "wikilink") - Webベースの翻訳支援ツール
-  - [Portage](https://ja.wikipedia.org/wiki/Portage_\(software\) "wikilink") - Gengoo Linuxの[パッケージ管理システム](https://ja.wikipedia.org/wiki/パッケージ管理システム "wikilink")
+  - [Portage](https://ja.wikipedia.org/wiki/Portage_\(software\) "wikilink") - Gengoo Linuxの[パッケージ管理システム](../Page/パッケージ管理システム.md "wikilink")
   - [PySol](https://ja.wikipedia.org/wiki/PySol "wikilink") - ソリティアゲーム集
   - [Quake Army Knife](https://ja.wikipedia.org/wiki/Quake_Army_Knife "wikilink") - [Quake Engineの](https://ja.wikipedia.org/wiki/Quake_Engine "wikilink")3Dマップを製作する環境
   - [Quod Libet](https://ja.wikipedia.org/wiki/Quod_Libet "wikilink") - 音楽プレーヤ、タグエディタ、ライブラリ管理
@@ -67,20 +67,20 @@
   - [SABnzbd](https://ja.wikipedia.org/wiki/SABnzbd "wikilink") - Usenetバイナリダウンローダ
   - [Sage](https://ja.wikipedia.org/wiki/Sage_\(数式処理システム\) "wikilink") - 線形代数・数値計算・組合せ数学・微分積分などをサポートする巨大な数学環境。100以上のフリーソフトウェアプロジェクトを統合している
   - [SCons](https://ja.wikipedia.org/wiki/SCons "wikilink") - ソフトウェアビルドツール
-  - [Scribus](https://ja.wikipedia.org/wiki/Scribus "wikilink") - オープンソースの[DTP](../Page/DTP.md "wikilink")ソフトウェア
+  - [Scribus](../Page/Scribus.md "wikilink") - オープンソースの[DTP](../Page/DTP.md "wikilink")ソフトウェア
   - [Shade](../Page/Shade.md "wikilink") - 3DCGソフトウェア
   - [Sine](https://ja.wikipedia.org/wiki/Sine "wikilink") - VoIP
   - [Skencil](https://ja.wikipedia.org/wiki/Skencil "wikilink") - ベクトル画像エディタ
   - [SpamBayes](https://ja.wikipedia.org/wiki/SpamBayes "wikilink") - 単純ベイズモデルによるスパムメールフィルタ
   - [Sugar (ソフトウェア)](https://ja.wikipedia.org/wiki/Sugar_\(ソフトウェア\) "wikilink") - [OLPC XO-1などの教育用パーソナルコンピューター向けの](https://ja.wikipedia.org/wiki/OLPC_XO-1 "wikilink")[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")
-  - [Tryton](https://ja.wikipedia.org/wiki/Tryton "wikilink") - [ERPシステムを構築するための三層アーキテクチャ高レベル多目的アプリケーションプラットフォーム](https://ja.wikipedia.org/wiki/企業資源計画 "wikilink")
-  - [Ubuntu Software Center](https://ja.wikipedia.org/wiki/Ubuntuソフトウェアセンター "wikilink") - [Ubuntu](https://ja.wikipedia.org/wiki/Ubuntu "wikilink") 9.10以降に搭載されているグラフィカルなパッケージマネージャ
+  - [Tryton](https://ja.wikipedia.org/wiki/Tryton "wikilink") - [ERPシステムを構築するための三層アーキテクチャ高レベル多目的アプリケーションプラットフォーム](../Page/企業資源計画.md "wikilink")
+  - [Ubuntu Software Center](https://ja.wikipedia.org/wiki/Ubuntuソフトウェアセンター "wikilink") - [Ubuntu](../Page/Ubuntu.md "wikilink") 9.10以降に搭載されているグラフィカルなパッケージマネージャ
   - [virt-manager](https://ja.wikipedia.org/wiki/virt-manager "wikilink") - [仮想機械](../Page/仮想機械.md "wikilink")管理ツール
   - [Vue](https://ja.wikipedia.org/wiki/Vue "wikilink") - 3D景観ソフトウェア
   - [Wammu](https://ja.wikipedia.org/wiki/Wammu "wikilink") - 携帯電話管理ユーティリティ
   - [Wicd](https://ja.wikipedia.org/wiki/Wicd "wikilink") - Linux用ネットワークマネージャ
   - [WikidPad](https://ja.wikipedia.org/wiki/WikidPad "wikilink") - wiki的な仕組みを持つアウトラインエディタ
-  - [YUM](https://ja.wikipedia.org/wiki/Yellowdog_Updater_Modified "wikilink") - RPM互換のLinux OS用パッケージ管理ユーティリティ
+  - [YUM](../Page/Yellowdog_Updater_Modified.md "wikilink") - RPM互換のLinux OS用パッケージ管理ユーティリティ
   - [XenMan](https://ja.wikipedia.org/wiki/XenMan "wikilink") - GUIをもつ[Xen](https://ja.wikipedia.org/wiki/Xen "wikilink")の管理ツール
   - [朔](../Page/朔.md "wikilink") - P2P掲示板システム
 
@@ -89,25 +89,25 @@
   - [OpenERP](https://ja.wikipedia.org/wiki/OpenERP "wikilink") - 包括的なビジネス用アプリケーション
   - [ERP5](https://ja.wikipedia.org/wiki/ERP5 "wikilink") - オープンソースのERP, CRMソフトウェア
   - [GNU Mailman](https://ja.wikipedia.org/wiki/GNU_Mailman "wikilink") - 最も有名なメーリングリスト管理用パッケージの1つ
-  - [MoinMoin](https://ja.wikipedia.org/wiki/MoinMoin "wikilink") - 有名なWikiエンジン
+  - [MoinMoin](../Page/MoinMoin.md "wikilink") - 有名なWikiエンジン
   - [MootiroForm](http://mootiro.org/form) - オープンソースのフォーム生成ソフトウェア
   - [Planet](https://ja.wikipedia.org/wiki/Planet_\(ソフトウェア\) "wikilink") - フィードアグリゲータ
-  - [Plone](https://ja.wikipedia.org/wiki/Plone "wikilink") - 強力な[コンテンツ管理システム](https://ja.wikipedia.org/wiki/コンテンツ管理システム "wikilink")
+  - [Plone](https://ja.wikipedia.org/wiki/Plone "wikilink") - 強力な[コンテンツ管理システム](../Page/コンテンツ管理システム.md "wikilink")
   - [PyBlosxom](https://ja.wikipedia.org/wiki/PyBlosxom "wikilink") - ブログソフトウェア
   - [Roundup](https://ja.wikipedia.org/wiki/Roundup "wikilink") - バグトラッキングシステム
-  - [ViewVC](https://ja.wikipedia.org/wiki/ViewVC "wikilink") - [CVSと](../Page/Concurrent_Versions_System.md "wikilink")[Subversionの](../Page/Apache_Subversion.md "wikilink")[リポジトリ](https://ja.wikipedia.org/wiki/リポジトリ "wikilink")を閲覧するためのWebベースのインタフェース
+  - [ViewVC](https://ja.wikipedia.org/wiki/ViewVC "wikilink") - [CVSと](../Page/Concurrent_Versions_System.md "wikilink")[Subversionの](../Page/Apache_Subversion.md "wikilink")[リポジトリ](../Page/リポジトリ.md "wikilink")を閲覧するためのWebベースのインタフェース
   - [Trac](../Page/Trac.md "wikilink") - Webベースの[ソフトウェアプロジェクト管理](https://ja.wikipedia.org/wiki/ソフトウェアプロジェクト管理 "wikilink")ツール（バグトラッキング・Wiki・バージョン管理フロントエンド）
   - [Python Shell](https://chrome.google.com/extensions/detail/gdiimmpmdoofmahingpgabiikimjgcia) - Google Chrome で動作するPythonシェル
 
 ## ビデオゲーム
 
   - [Bridge Commander](https://ja.wikipedia.org/wiki/Bridge_Commander "wikilink")
-  - CardWirthPy - [CardWirth](../Page/CardWirth.md "wikilink")の[ゲームエンジン](https://ja.wikipedia.org/wiki/ゲームエンジン "wikilink")の一種。
+  - CardWirthPy - [CardWirth](../Page/CardWirth.md "wikilink")の[ゲームエンジン](../Page/ゲームエンジン.md "wikilink")の一種。
   - [シヴィライゼーション4](https://ja.wikipedia.org/wiki/シヴィライゼーション#Sid_Meier.27s_Civilization_IV "wikilink") - 多くの処理にPythonを使用している
-  - [バトルフィールド2](https://ja.wikipedia.org/wiki/バトルフィールド2 "wikilink") - 全てのアドオンと多くの機能でPythonを使用している\[1\]
-  - [バトルフィールド2142](https://ja.wikipedia.org/wiki/バトルフィールド2142 "wikilink")
+  - [バトルフィールド2](../Page/バトルフィールド2.md "wikilink") - 全てのアドオンと多くの機能でPythonを使用している\[1\]
+  - [バトルフィールド2142](../Page/バトルフィールド2142.md "wikilink")
   - [トゥーンタウン・オンライン](https://ja.wikipedia.org/wiki/トゥーンタウン・オンライン "wikilink") - Pythonで作られている。グラフィクスに [Panda3D](https://ja.wikipedia.org/wiki/Panda3D "wikilink") を使用。
-  - [EVE ONLINE](https://ja.wikipedia.org/wiki/EVE_ONLINE "wikilink") - 宇宙を舞台としたMMORPG。[Stackless Pythonを使用している](https://ja.wikipedia.org/wiki/Stackless_Python "wikilink")
+  - [EVE ONLINE](../Page/EVE_ONLINE.md "wikilink") - 宇宙を舞台としたMMORPG。[Stackless Pythonを使用している](https://ja.wikipedia.org/wiki/Stackless_Python "wikilink")
   - [Freedom Force](https://ja.wikipedia.org/wiki/Freedom_Force "wikilink")
   - [Frets on Fire](https://ja.wikipedia.org/wiki/Frets_on_Fire "wikilink") - Pythonと[Pygame](https://ja.wikipedia.org/wiki/Pygame "wikilink")で製作されている
   - [The Temple of Elemental Evil](https://ja.wikipedia.org/wiki/The_Temple_of_Elemental_Evil "wikilink")
@@ -117,16 +117,16 @@
 
 ## Webフレームワーク
 
-  - [CherryPy](https://ja.wikipedia.org/wiki/CherryPy "wikilink") - オブジェクト指向のWebアプリケーションサーバおよびフレームワーク
+  - [CherryPy](../Page/CherryPy.md "wikilink") - オブジェクト指向のWebアプリケーションサーバおよびフレームワーク
   - [Django](../Page/Django.md "wikilink") - MVC Webフレームワーク
   - [Flask](https://ja.wikipedia.org/wiki/Flask "wikilink") - モダンで軽量なWebフレームワーク
   - [Google App Engine](https://ja.wikipedia.org/wiki/Google_App_Engine "wikilink") - GoogleのデータセンターでWebアプリケーションをホスティングするプラットフォーム
-  - [Pylons](https://ja.wikipedia.org/wiki/Pylons "wikilink") - 柔軟性と俊敏な開発を強調した軽量なWebフレームワーク
+  - [Pylons](../Page/Pylons.md "wikilink") - 柔軟性と俊敏な開発を強調した軽量なWebフレームワーク
   - [Quixote](https://ja.wikipedia.org/wiki/Quixote "wikilink") - Webアプリケーション開発用フレームワーク
   - [Topsite Templating System](https://ja.wikipedia.org/wiki/Topsite_Templating_System "wikilink")
-  - [TurboGears](https://ja.wikipedia.org/wiki/TurboGears "wikilink") - [Pylons](https://ja.wikipedia.org/wiki/Pylons "wikilink"), [SQLAlchemy](https://ja.wikipedia.org/wiki/SQLAlchemy "wikilink"), [Genshi](https://ja.wikipedia.org/wiki/Genshi "wikilink") を組み合わせたWebフレームワーク
+  - [TurboGears](../Page/TurboGears.md "wikilink") - [Pylons](../Page/Pylons.md "wikilink"), [SQLAlchemy](https://ja.wikipedia.org/wiki/SQLAlchemy "wikilink"), [Genshi](https://ja.wikipedia.org/wiki/Genshi "wikilink") を組み合わせたWebフレームワーク
   - [web2py](https://ja.wikipedia.org/wiki/web2py "wikilink") - フルスタックの業務用Webアプリケーションフレームワーク
-  - [Zope](../Page/Zope.md "wikilink") - 主に[コンテンツ管理システム](https://ja.wikipedia.org/wiki/コンテンツ管理システム "wikilink")を作るためのアプリケーションサーバ
+  - [Zope](../Page/Zope.md "wikilink") - 主に[コンテンツ管理システム](../Page/コンテンツ管理システム.md "wikilink")を作るためのアプリケーションサーバ
 
 ## グラフィクスフレームワーク
 
@@ -137,7 +137,7 @@
   - [Python-Ogre](https://ja.wikipedia.org/wiki/Python-Ogre "wikilink") - OGRE 3D engine用のPythonバインディング
   - [Soya3D](https://ja.wikipedia.org/wiki/Soya3D "wikilink") - Python用の高レベル3Dゲームエンジン
   - [Python Irrlicht](https://ja.wikipedia.org/wiki/Python_Irrlicht "wikilink") - [Irrlicht Engine用のPythonバインディング](https://ja.wikipedia.org/wiki/Irrlicht_Engine "wikilink")
-  - PyCUDA - [Nvidia](https://ja.wikipedia.org/wiki/Nvidia "wikilink") [CUDA](https://ja.wikipedia.org/wiki/CUDA "wikilink")のPython用バインディング
+  - PyCUDA - [Nvidia](https://ja.wikipedia.org/wiki/Nvidia "wikilink") [CUDA](../Page/CUDA.md "wikilink")のPython用バインディング
 
 ## GUIフレームワーク
 
@@ -151,8 +151,8 @@
 
   - [Biopython](https://ja.wikipedia.org/wiki/Biopython "wikilink") ([:en:Biopython](https://ja.wikipedia.org/wiki/:en:Biopython "wikilink")) - 分子生物学用スイート
   - [graph-tool](https://ja.wikipedia.org/wiki/graph-tool "wikilink") ([:en:graph-tool](https://ja.wikipedia.org/wiki/:en:graph-tool "wikilink")) - グラフの操作および統計解析
-  - [NetworkX](https://ja.wikipedia.org/wiki/NetworkX "wikilink") ([:en:NetworkX](https://ja.wikipedia.org/wiki/:en:NetworkX "wikilink")) - [複雑ネットワーク](https://ja.wikipedia.org/wiki/複雑ネットワーク "wikilink")を作成・操作・研究するためのパッケージ
-  - [SciPy](https://ja.wikipedia.org/wiki/SciPy "wikilink") - 科学計算・数値計算ライブラリ
+  - [NetworkX](https://ja.wikipedia.org/wiki/NetworkX "wikilink") ([:en:NetworkX](https://ja.wikipedia.org/wiki/:en:NetworkX "wikilink")) - [複雑ネットワーク](../Page/複雑ネットワーク.md "wikilink")を作成・操作・研究するためのパッケージ
+  - [SciPy](../Page/SciPy.md "wikilink") - 科学計算・数値計算ライブラリ
   - [scikit-image](https://ja.wikipedia.org/wiki/scikit-image "wikilink") - 科学用画像操作ライブラリ
   - [scikit-learn](https://ja.wikipedia.org/wiki/scikit-learn "wikilink") ([:en:Scikit-learn](https://ja.wikipedia.org/wiki/:en:Scikit-learn "wikilink")) - 機械学習ライブラリ
   - [statsmodels](https://ja.wikipedia.org/wiki/statsmodels "wikilink") - 統計学ライブラリ
@@ -166,7 +166,7 @@
 
 ## 数学ライブラリ
 
-  - [Matplotlib](https://ja.wikipedia.org/wiki/Matplotlib "wikilink") - [MATLAB](https://ja.wikipedia.org/wiki/MATLAB "wikilink")ライクなグラフ生成ライブラリ
+  - [Matplotlib](https://ja.wikipedia.org/wiki/Matplotlib "wikilink") - [MATLAB](../Page/MATLAB.md "wikilink")ライクなグラフ生成ライブラリ
   - [NumPy](https://ja.wikipedia.org/wiki/NumPy "wikilink") - 巨大な多次元配列や行列を高速に扱うための数値計算モジュール
   - PyIMSL Studio - [IMSL Numerical Librariesを含む](https://ja.wikipedia.org/wiki/IMSL_Numerical_Libraries "wikilink")
   - [Sage](https://ja.wikipedia.org/wiki/Sage_\(数式処理システム\) "wikilink") - 線形代数・数値計算・組合せ数学・微分積分などをサポートする巨大な数学環境。100以上のフリーソフトウェアプロジェクトを統合している
@@ -175,22 +175,22 @@
 ## 開発パッケージ
 
   - [Cheetah](https://ja.wikipedia.org/wiki/CheetahTemplate "wikilink") - テンプレートエンジン
-  - [gevent](http://www.gevent.org/) - [コルーチン](https://ja.wikipedia.org/wiki/コルーチン "wikilink")ベースのネットワークライブラリ
+  - [gevent](http://www.gevent.org/) - [コルーチン](../Page/コルーチン.md "wikilink")ベースのネットワークライブラリ
   - [IPython](https://ja.wikipedia.org/wiki/IPython "wikilink") - Python用の強力なシェル
   - [Jinja](https://ja.wikipedia.org/wiki/Jinja "wikilink") - テンプレートエンジン。Djangoのテンプレートエンジンに影響を受けている
   - [mod python](https://ja.wikipedia.org/wiki/mod_python "wikilink") - Pythonスクリプトを実行するための[Apacheモジュール](../Page/Apache_HTTP_Server.md "wikilink")
   - [PYthon Remote Objects](https://ja.wikipedia.org/wiki/PYthon_Remote_Objects "wikilink") - 分散オブジェクト技術
   - [PyObjC](https://ja.wikipedia.org/wiki/PyObjC "wikilink") - Mac OS XのアプリケーションをPythonで書くための、PythonとObjective-Cを結ぶブリッジ
-  - [reStructuredText](https://ja.wikipedia.org/wiki/reStructuredText "wikilink") - 文章を書くための[軽量マークアップ言語](https://ja.wikipedia.org/wiki/軽量マークアップ言語 "wikilink")。[Docutils](https://ja.wikipedia.org/wiki/Docutils "wikilink")のコンポーネント
+  - [reStructuredText](https://ja.wikipedia.org/wiki/reStructuredText "wikilink") - 文章を書くための[軽量マークアップ言語](../Page/軽量マークアップ言語.md "wikilink")。[Docutils](https://ja.wikipedia.org/wiki/Docutils "wikilink")のコンポーネント
   - [Sphinx](https://ja.wikipedia.org/wiki/Sphinx "wikilink") - reStructuredTextでドキュメントを記述する環境。Webページや[PDF](https://ja.wikipedia.org/wiki/PDF "wikilink")として出力できる。
   - [Twisted](https://ja.wikipedia.org/wiki/Twisted "wikilink") - ネットワークプログラミングフレームワーク
   - [VPython](https://ja.wikipedia.org/wiki/VPython "wikilink") - 3次元視覚化用ライブラリ
 
 ## Pythonをスクリプト環境として組み込んでいるもの
 
-  - [Abaqus](https://ja.wikipedia.org/wiki/Abaqus "wikilink") - [有限要素法](../Page/有限要素法.md "wikilink")による解析を行う[CAE](https://ja.wikipedia.org/wiki/CAE "wikilink")ソフトウェア
-  - [Ableton Live](https://ja.wikipedia.org/wiki/Ableton_Live "wikilink") - ループベースのミュージックシーケンサ
-  - [Amarok](https://ja.wikipedia.org/wiki/Amarok "wikilink") - 音楽プレイヤ・楽曲管理ソフト
+  - [Abaqus](https://ja.wikipedia.org/wiki/Abaqus "wikilink") - [有限要素法](../Page/有限要素法.md "wikilink")による解析を行う[CAE](../Page/CAE.md "wikilink")ソフトウェア
+  - [Ableton Live](../Page/Ableton_Live.md "wikilink") - ループベースのミュージックシーケンサ
+  - [Amarok](../Page/Amarok.md "wikilink") - 音楽プレイヤ・楽曲管理ソフト
   - [AMESim](https://ja.wikipedia.org/wiki/AMESim "wikilink")
   - [ArcGIS](https://ja.wikipedia.org/wiki/ArcGIS "wikilink") - GISプラットフォーム
   - [Autodesk Maya](https://ja.wikipedia.org/wiki/Autodesk_Maya "wikilink") - プロフェッショナル用の[3Dモデラ](https://ja.wikipedia.org/wiki/3DCGソフトウェア "wikilink")。バージョン8.5より、Maya Embedded Language (MEL) の代わりにPythonを使用できる
@@ -200,45 +200,45 @@
   - [Cinema 4D](https://ja.wikipedia.org/wiki/Cinema_4D "wikilink") (R12より)
   - [Paint Shop Pro](https://ja.wikipedia.org/wiki/Paint_Shop_Pro "wikilink") - グラフィックソフトウェア
   - [DSHub](https://ja.wikipedia.org/wiki/Advanced_Direct_Connect "wikilink")
-  - [EventScripts](https://ja.wikipedia.org/wiki/EventScripts "wikilink") - [Valve Corporationの](https://ja.wikipedia.org/wiki/Valve_Corporation "wikilink")[Source Engineのプラグイン](../Page/Source_Engine.md "wikilink")
-  - [FontForge](https://ja.wikipedia.org/wiki/FontForge "wikilink")
+  - [EventScripts](https://ja.wikipedia.org/wiki/EventScripts "wikilink") - [Valve Corporationの](../Page/Valve_Corporation.md "wikilink")[Source Engineのプラグイン](../Page/Source_Engine.md "wikilink")
+  - [FontForge](../Page/FontForge.md "wikilink")
   - [FreeCAD](https://ja.wikipedia.org/wiki/FreeCAD "wikilink")
   - [gedit](https://ja.wikipedia.org/wiki/gedit "wikilink") - テキストエディタ
   - [GIMP](../Page/GIMP.md "wikilink") - ビットマップ画像編集ソフトウェア
   - [GNAT](https://ja.wikipedia.org/wiki/GNAT "wikilink") - Ada コンパイラ。プログラミング環境GPSのスクリプティング環境としてPythonが使用できる
-  - [Houdini](https://ja.wikipedia.org/wiki/Houdini "wikilink") - 3Dアニメーションパッケージ
-  - [Inkscape](https://ja.wikipedia.org/wiki/Inkscape "wikilink") - ベクトル画像エディタ
-  - [Metasequoia](https://ja.wikipedia.org/wiki/Metasequoia "wikilink") - 3DCGモデリングソフトウェア
+  - [Houdini](../Page/Houdini.md "wikilink") - 3Dアニメーションパッケージ
+  - [Inkscape](../Page/Inkscape.md "wikilink") - ベクトル画像エディタ
+  - [Metasequoia](../Page/Metasequoia.md "wikilink") - 3DCGモデリングソフトウェア
   - [MeVisLab](https://ja.wikipedia.org/wiki/MeVisLab "wikilink") - 医用画像処理・可視化ソフトウェア
-  - [Microsoft Silverlight](https://ja.wikipedia.org/wiki/Microsoft_Silverlight "wikilink") - Webブラウザ用[RIA環境](https://ja.wikipedia.org/wiki/リッチインターネットアプリケーション "wikilink")。Version2で[IronPython](https://ja.wikipedia.org/wiki/IronPython "wikilink")を組み込んでいる
-  - [Modo](https://ja.wikipedia.org/wiki/Modo "wikilink") - Luxology社の3DCG製作用ソフトウェア
+  - [Microsoft Silverlight](../Page/Microsoft_Silverlight.md "wikilink") - Webブラウザ用[RIA環境](../Page/リッチインターネットアプリケーション.md "wikilink")。Version2で[IronPython](../Page/IronPython.md "wikilink")を組み込んでいる
+  - [Modo](../Page/Modo.md "wikilink") - Luxology社の3DCG製作用ソフトウェア
   - [Nuke](https://ja.wikipedia.org/wiki/Nuke "wikilink") - The Foundly社の映像製作用デジタル合成ソフトウェア
-  - [NVIDIA FX Composer](https://ja.wikipedia.org/wiki/NVIDIA_FX_Composer "wikilink") - [IronPython](https://ja.wikipedia.org/wiki/IronPython "wikilink")を組み込んでいる
+  - [NVIDIA FX Composer](https://ja.wikipedia.org/wiki/NVIDIA_FX_Composer "wikilink") - [IronPython](../Page/IronPython.md "wikilink")を組み込んでいる
   - [ParaView](https://ja.wikipedia.org/wiki/ParaView "wikilink") - オープンソースの科学用可視化ソフトウェア
-  - [Poser](https://ja.wikipedia.org/wiki/Poser "wikilink") - 人間や動物のポーズ付けやアニメーション製作に特化した3DCGソフトウェア
-  - [PyMOL](https://ja.wikipedia.org/wiki/PyMOL "wikilink") - 分子ビューア
+  - [Poser](../Page/Poser.md "wikilink") - 人間や動物のポーズ付けやアニメーション製作に特化した3DCGソフトウェア
+  - [PyMOL](../Page/PyMOL.md "wikilink") - 分子ビューア
   - [QGIS](https://ja.wikipedia.org/wiki/Quantum_GIS "wikilink") - スクリプティングとプラグイン開発にPythonを使用している
-  - [RenderMan](https://ja.wikipedia.org/wiki/RenderMan "wikilink") - 3DCGレンダラー
-  - [Rhinoceros 3D](https://ja.wikipedia.org/wiki/Rhinoceros_3D "wikilink") version 5.0
+  - [RenderMan](../Page/RenderMan.md "wikilink") - 3DCGレンダラー
+  - [Rhinoceros 3D](../Page/Rhinoceros_3D.md "wikilink") version 5.0
   - [Rhythmbox](https://ja.wikipedia.org/wiki/Rhythmbox "wikilink") - 音楽管理ソフトウェア
   - [3DSlicer](https://ja.wikipedia.org/wiki/3DSlicer "wikilink") - 医用画像の可視化および解析ソフトウェア。アルゴリズムの実装、解析パイプライン、GUI作成にPythonが利用できる
   - [trueSpace](https://ja.wikipedia.org/wiki/trueSpace "wikilink") - 3DCGソフトウェア
-  - [SPSS](https://ja.wikipedia.org/wiki/SPSS "wikilink") - SPSSのコマンド構文でPythonを使用できるようにするSPSS Programmability Extensionが存在する
+  - [SPSS](../Page/SPSS.md "wikilink") - SPSSのコマンド構文でPythonを使用できるようにするSPSS Programmability Extensionが存在する
   - [Sublime Text](https://ja.wikipedia.org/wiki/Sublime_Text "wikilink") - テキストエディタ
   - [Vim](../Page/Vim.md "wikilink")
   - [VisIt](https://ja.wikipedia.org/wiki/VisIt "wikilink")
-  - [Web](https://ja.wikipedia.org/wiki/Web_\(ウェブブラウザ\) "wikilink") - ウェブブラウザ
-  - [WebSphere Application Server](https://ja.wikipedia.org/wiki/WebSphere_Application_Server "wikilink") - IBMのWebアプリケーションサーバ。[Jython](https://ja.wikipedia.org/wiki/Jython "wikilink")を組み込んでいる
-  - [WeeChat](https://ja.wikipedia.org/wiki/WeeChat "wikilink") - 端末用IRCクライアント
-  - [ビデオ](https://ja.wikipedia.org/wiki/ビデオ_\(GNOME\) "wikilink") - [GNOME](../Page/GNOME.md "wikilink")デスクトップ環境用の動画プレーヤ
+  - [Web](../Page/Web_\(ウェブブラウザ\).md "wikilink") - ウェブブラウザ
+  - [WebSphere Application Server](../Page/WebSphere_Application_Server.md "wikilink") - IBMのWebアプリケーションサーバ。[Jython](../Page/Jython.md "wikilink")を組み込んでいる
+  - [WeeChat](../Page/WeeChat.md "wikilink") - 端末用IRCクライアント
+  - [ビデオ](../Page/ビデオ_\(GNOME\).md "wikilink") - [GNOME](../Page/GNOME.md "wikilink")デスクトップ環境用の動画プレーヤ
 
 ## 商用利用
 
-  - [CCP hf](https://ja.wikipedia.org/wiki/CCP_Games "wikilink") - MMOゲーム [EVE ONLINE](https://ja.wikipedia.org/wiki/EVE_ONLINE "wikilink") において[Stackless Pythonをサーバ](https://ja.wikipedia.org/wiki/Stackless_Python "wikilink")/クライアント双方で使用している。\[2\]
-  - [Google](../Page/Google.md "wikilink") - [Google Groups](https://ja.wikipedia.org/wiki/Google_Groups "wikilink"), [Gmail](https://ja.wikipedia.org/wiki/Gmail "wikilink"), [Google Mapsのバックエンドで各種のタスクを遂行するために使用している](https://ja.wikipedia.org/wiki/Google_Maps "wikilink")
+  - [CCP hf](https://ja.wikipedia.org/wiki/CCP_Games "wikilink") - MMOゲーム [EVE ONLINE](../Page/EVE_ONLINE.md "wikilink") において[Stackless Pythonをサーバ](https://ja.wikipedia.org/wiki/Stackless_Python "wikilink")/クライアント双方で使用している。\[2\]
+  - [Google](../Page/Google.md "wikilink") - [Google Groups](https://ja.wikipedia.org/wiki/Google_Groups "wikilink"), [Gmail](../Page/Gmail.md "wikilink"), [Google Mapsのバックエンドで各種のタスクを遂行するために使用している](https://ja.wikipedia.org/wiki/Google_Maps "wikilink")
   - [NASA](https://ja.wikipedia.org/wiki/NASA "wikilink")\[3\]
-  - [reddit](https://ja.wikipedia.org/wiki/reddit "wikilink") - 元は[Common Lispで書かれていたが](https://ja.wikipedia.org/wiki/Common_Lisp "wikilink")、2005年にPythonで書き直された\[4\]
-  - [RenderMan](https://ja.wikipedia.org/wiki/RenderMan "wikilink") - Pixer社の3DCGレンダラー
+  - [reddit](https://ja.wikipedia.org/wiki/reddit "wikilink") - 元は[Common Lispで書かれていたが](../Page/Common_Lisp.md "wikilink")、2005年にPythonで書き直された\[4\]
+  - [RenderMan](../Page/RenderMan.md "wikilink") - Pixer社の3DCGレンダラー
   - [Yahoo\! Groups](https://ja.wikipedia.org/wiki/Yahoo!_Groups "wikilink") - ディスカッショングループを管理するためにPythonを使っている
   - [YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink") -「メンテナンスが容易な機能を最小の開発者で迅速に作る」ためにPythonを使っている\[5\]
 

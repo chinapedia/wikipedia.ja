@@ -1,7 +1,7 @@
 > この記事は[NNN Today](https://ja.wikipedia.org/wiki/NNN_Today)から翻訳されています。
 
 
-『**NNN Todayしずおか**』（エヌエヌエヌ・トゥデイしずおか）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から半年間[静岡第一テレビ](../Page/静岡第一テレビ.md "wikilink") (SDT) で放送された[ローカル](https://ja.wikipedia.org/wiki/ローカル番組 "wikilink")[ニュース](../Page/報道番組.md "wikilink")・[コンプレックス番組である](https://ja.wikipedia.org/wiki/コンプレックス_\(番組形式\) "wikilink")。
+『**NNN Todayしずおか**』（エヌエヌエヌ・トゥデイしずおか）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から半年間[静岡第一テレビ](../Page/静岡第一テレビ.md "wikilink") (SDT) で放送された[ローカル](../Page/ローカル番組.md "wikilink")[ニュース](../Page/報道番組.md "wikilink")・[コンプレックス番組である](../Page/コンプレックス_\(番組形式\).md "wikilink")。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 ローカルパートでの自局[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")によるニュース紹介の後、[日本テレビから全国ニュースを](../Page/日本テレビ放送網.md "wikilink")18:30まで放送し、『TODAYしずおか』に繋げるサンドイッチ方式（正確にはコンプレックス方式）を採用した。
 
-[1988年](../Page/1988年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")より、平日18時台のニュース枠が『[NNNニュースプラス1](../Page/NNNニュースプラス1.md "wikilink")』（18:00 - 18:30）・『[しずおかプラス1](https://ja.wikipedia.org/wiki/しずおかプラス1 "wikilink")』（18:30 - 18:55）に改編され、1982年4月から続いた『TODAY』の冠が消滅した。
+[1988年](../Page/1988年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")より、平日18時台のニュース枠が『[NNNニュースプラス1](../Page/NNNニュースプラス1.md "wikilink")』（18:00 - 18:30）・『[しずおかプラス1](../Page/しずおかプラス1.md "wikilink")』（18:30 - 18:55）に改編され、1982年4月から続いた『TODAY』の冠が消滅した。
 
 ## キャスター
 

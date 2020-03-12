@@ -5,7 +5,7 @@
 
 ## 来歴
 
-結成のきっかけは[PCゲーム](https://ja.wikipedia.org/wiki/PCゲーム "wikilink")『[吸血殲鬼ヴェドゴニア](https://ja.wikipedia.org/wiki/吸血殲鬼ヴェドゴニア "wikilink")』（[ニトロプラス](../Page/ニトロプラス.md "wikilink")）の[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")を、そこで知り合った仲間たちと[作曲](../Page/作曲.md "wikilink")したことによる。
+結成のきっかけは[PCゲーム](https://ja.wikipedia.org/wiki/PCゲーム "wikilink")『[吸血殲鬼ヴェドゴニア](../Page/吸血殲鬼ヴェドゴニア.md "wikilink")』（[ニトロプラス](../Page/ニトロプラス.md "wikilink")）の[主題歌](../Page/主題歌.md "wikilink")を、そこで知り合った仲間たちと[作曲](../Page/作曲.md "wikilink")したことによる。
 
 以後、ニトロプラスのゲーム作品の主題歌や[BGM](https://ja.wikipedia.org/wiki/BGM "wikilink")の制作、アーティストへの楽曲提供、プロデュースなどを数多く担当。各々のメンバーの得意分野を生かして活動している。
 
@@ -19,7 +19,7 @@
   - [佐々木しげそ](https://ja.wikipedia.org/wiki/佐々木しげそ "wikilink")
   - [泉邦宏](https://ja.wikipedia.org/wiki/泉邦宏 "wikilink")
   - [いとうかなこ](https://ja.wikipedia.org/wiki/いとうかなこ "wikilink")
-  - [大山曜](https://ja.wikipedia.org/wiki/大山曜 "wikilink")
+  - [大山曜](../Page/大山曜.md "wikilink")
   - [伊東ヒロム](https://ja.wikipedia.org/wiki/伊東ヒロム "wikilink")
   - [加藤敏樹](https://ja.wikipedia.org/wiki/加藤敏樹 "wikilink")
   - [筒井香織](https://ja.wikipedia.org/wiki/筒井香織 "wikilink")
@@ -36,16 +36,16 @@
   - [斬魔大聖デモンベイン](https://ja.wikipedia.org/wiki/斬魔大聖デモンベイン "wikilink")（2003年）
   - [沙耶の唄](../Page/沙耶の唄.md "wikilink")（2003年）
   - [神樹の館](../Page/神樹の館.md "wikilink")（2004年）
-  - [シャマナシャマナ 〜月とこころと太陽の魔法〜](https://ja.wikipedia.org/wiki/シャマナシャマナ_〜月とこころと太陽の魔法〜 "wikilink")（2004年）
-  - [処女はお姉さまに恋してる](https://ja.wikipedia.org/wiki/処女はお姉さまに恋してる "wikilink")（2005年）
+  - [シャマナシャマナ 〜月とこころと太陽の魔法〜](../Page/シャマナシャマナ_〜月とこころと太陽の魔法〜.md "wikilink")（2004年）
+  - [処女はお姉さまに恋してる](../Page/処女はお姉さまに恋してる.md "wikilink")（2005年）
   - [天使ノ二挺拳銃](../Page/天使ノ二挺拳銃.md "wikilink")（2005年）
   - [咎狗の血](../Page/咎狗の血.md "wikilink")（2005年）
-  - [塵骸魔京](https://ja.wikipedia.org/wiki/塵骸魔京 "wikilink")（2005年）
+  - [塵骸魔京](../Page/塵骸魔京.md "wikilink")（2005年）
   - [刃鳴散らす](https://ja.wikipedia.org/wiki/刃鳴散らす "wikilink")（2005年）
-  - [Lamento -BEYOND THE VOID-](https://ja.wikipedia.org/wiki/Lamento_-BEYOND_THE_VOID- "wikilink")（2005年）
+  - [Lamento -BEYOND THE VOID-](../Page/Lamento_-BEYOND_THE_VOID-.md "wikilink")（2005年）
   - [ナイトウィザード](../Page/ナイトウィザード.md "wikilink")（2006年）
   - [サバト鍋-Nitro Amusement Disc-](../Page/サバト鍋-Nitro_Amusement_Disc-.md "wikilink")（2006年）
-  - [機神飛翔デモンベイン](https://ja.wikipedia.org/wiki/機神飛翔デモンベイン "wikilink")（2006年）
+  - [機神飛翔デモンベイン](../Page/機神飛翔デモンベイン.md "wikilink")（2006年）
   - [月光のカルネヴァーレ](https://ja.wikipedia.org/wiki/月光のカルネヴァーレ "wikilink")（2007年）
   - [続・殺戮のジャンゴ](https://ja.wikipedia.org/wiki/続・殺戮のジャンゴ "wikilink")（2007年）
   - [ニトロ+ロワイヤル -ヒロインズデュエル-](../Page/ニトロ+ロワイヤル_-ヒロインズデュエル-.md "wikilink")（2007年）
@@ -97,15 +97,15 @@
 ## 関連項目
 
   - [ニトロプラス](../Page/ニトロプラス.md "wikilink")/[デジターボ](https://ja.wikipedia.org/wiki/デジターボ "wikilink")
-      - [姫屋ソフト/キャラメルBOX](https://ja.wikipedia.org/wiki/キャラメルBOX "wikilink")
-  - [バンダイナムコグループ](https://ja.wikipedia.org/wiki/バンダイナムコホールディングス "wikilink")
+      - [姫屋ソフト/キャラメルBOX](../Page/キャラメルBOX.md "wikilink")
+  - [バンダイナムコグループ](../Page/バンダイナムコホールディングス.md "wikilink")
       - [バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")
       - [バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")
-          - [ランティス](https://ja.wikipedia.org/wiki/ランティス "wikilink")
+          - [ランティス](../Page/ランティス.md "wikilink")
   - [アニプレックス](../Page/アニプレックス.md "wikilink")
   - [フロンティアワークス](../Page/フロンティアワークス.md "wikilink")
   - [MAGES.](https://ja.wikipedia.org/wiki/MAGES. "wikilink")/[5pb.](../Page/5pb..md "wikilink")
-      - [志倉千代丸](https://ja.wikipedia.org/wiki/志倉千代丸 "wikilink") - 5pb.の創立者。
+      - [志倉千代丸](../Page/志倉千代丸.md "wikilink") - 5pb.の創立者。
   - [メディアファクトリー](../Page/メディアファクトリー.md "wikilink") - フロンティアワークスのAVソフト群で販売委託協力。
 
 ## 外部リンク

@@ -1,28 +1,28 @@
 > この記事は[II \(\)](https://ja.wikipedia.org/wiki/II_\(\))から翻訳されています。
 
 
-**雄風II型**（ゆうふうにがた、Hsiung Feng II）は、[台湾海軍の](https://ja.wikipedia.org/wiki/中華民国海軍 "wikilink")[対艦ミサイル](https://ja.wikipedia.org/wiki/対艦ミサイル "wikilink")（SSM）。派生型として、[巡航ミサイル](../Page/巡航ミサイル.md "wikilink")タイプの雄風IIE型も開発されている。
+**雄風II型**（ゆうふうにがた、Hsiung Feng II）は、[台湾海軍の](https://ja.wikipedia.org/wiki/中華民国海軍 "wikilink")[対艦ミサイル](../Page/対艦ミサイル.md "wikilink")（SSM）。派生型として、[巡航ミサイル](../Page/巡航ミサイル.md "wikilink")タイプの雄風IIE型も開発されている。
 
 ## 概要
 
-[Hsiung_Feng_II_Anti-Ship_Missile_Display_in_Chengkungling_20111009a.jpg](https://ja.wikipedia.org/wiki/File:Hsiung_Feng_II_Anti-Ship_Missile_Display_in_Chengkungling_20111009a.jpg "fig:Hsiung_Feng_II_Anti-Ship_Missile_Display_in_Chengkungling_20111009a.jpg")[烏日区](https://ja.wikipedia.org/wiki/烏日区 "wikilink")の[成功嶺で展示されている雄風II型ミサイル](https://ja.wikipedia.org/wiki/:zh:成功嶺 "wikilink")\]\]
+[Hsiung_Feng_II_Anti-Ship_Missile_Display_in_Chengkungling_20111009a.jpg](https://ja.wikipedia.org/wiki/File:Hsiung_Feng_II_Anti-Ship_Missile_Display_in_Chengkungling_20111009a.jpg "fig:Hsiung_Feng_II_Anti-Ship_Missile_Display_in_Chengkungling_20111009a.jpg")[烏日区](../Page/烏日区.md "wikilink")の[成功嶺で展示されている雄風II型ミサイル](https://ja.wikipedia.org/wiki/:zh:成功嶺 "wikilink")\]\]
 
-[イスラエル・エアロスペース・インダストリーズ](https://ja.wikipedia.org/wiki/イスラエル・エアロスペース・インダストリーズ "wikilink")製の[ガブリエルを改良](../Page/ガブリエル_\(ミサイル\).md "wikilink")・国産化した[対艦ミサイル](https://ja.wikipedia.org/wiki/対艦ミサイル "wikilink")**雄風I型**（[雄風一型反艦飛彈](https://ja.wikipedia.org/wiki/:zh:雄風一型反艦飛彈 "wikilink")）の後継となる対艦ミサイル。対外関係により供給が不安定な[ハープーンを置換するために開発された](../Page/ハープーン_\(ミサイル\).md "wikilink")[ミサイル](../Page/ミサイル.md "wikilink")であり、必然的に同規模となっている。
+[イスラエル・エアロスペース・インダストリーズ](https://ja.wikipedia.org/wiki/イスラエル・エアロスペース・インダストリーズ "wikilink")製の[ガブリエルを改良](../Page/ガブリエル_\(ミサイル\).md "wikilink")・国産化した[対艦ミサイル](../Page/対艦ミサイル.md "wikilink")**雄風I型**（[雄風一型反艦飛彈](https://ja.wikipedia.org/wiki/:zh:雄風一型反艦飛彈 "wikilink")）の後継となる対艦ミサイル。対外関係により供給が不安定な[ハープーンを置換するために開発された](../Page/ハープーン_\(ミサイル\).md "wikilink")[ミサイル](../Page/ミサイル.md "wikilink")であり、必然的に同規模となっている。
 
-[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")から開発が開始され、[1992年](../Page/1992年.md "wikilink")に[艦対艦ミサイル](../Page/艦対艦ミサイル.md "wikilink")型の**MGB-2B**、[1993年](../Page/1993年.md "wikilink")に[地対艦ミサイル](https://ja.wikipedia.org/wiki/地対艦ミサイル "wikilink")型の**MGB-2A**、[空対艦ミサイル](../Page/空対艦ミサイル.md "wikilink")型の**MGB-2C**が実用化された。 {{-}}
+[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")から開発が開始され、[1992年](../Page/1992年.md "wikilink")に[艦対艦ミサイル](../Page/艦対艦ミサイル.md "wikilink")型の**MGB-2B**、[1993年](../Page/1993年.md "wikilink")に[地対艦ミサイル](../Page/地対艦ミサイル.md "wikilink")型の**MGB-2A**、[空対艦ミサイル](../Page/空対艦ミサイル.md "wikilink")型の**MGB-2C**が実用化された。 {{-}}
 
 ## 各型の運用
 
   - 地上発射型
     車載型四連装発射機
   - 艦上発射型
-    [成功級フリゲート](../Page/成功級フリゲート.md "wikilink")/[康定級フリゲート](../Page/康定級フリゲート.md "wikilink")/富陽級駆逐艦（[ギアリング級](../Page/ギアリング級駆逐艦.md "wikilink")）/光華6号[ミサイル艇](https://ja.wikipedia.org/wiki/ミサイル艇 "wikilink")（[光華六號飛彈快艇](https://ja.wikipedia.org/wiki/:zh:光華六號飛彈快艇 "wikilink")）/[沱江級コルベット](https://ja.wikipedia.org/wiki/沱江級コルベット "wikilink")
+    [成功級フリゲート](../Page/成功級フリゲート.md "wikilink")/[康定級フリゲート](../Page/康定級フリゲート.md "wikilink")/富陽級駆逐艦（[ギアリング級](../Page/ギアリング級駆逐艦.md "wikilink")）/光華6号[ミサイル艇](../Page/ミサイル艇.md "wikilink")（[光華六號飛彈快艇](https://ja.wikipedia.org/wiki/:zh:光華六號飛彈快艇 "wikilink")）/[沱江級コルベット](https://ja.wikipedia.org/wiki/沱江級コルベット "wikilink")
   - 空中発射型
-    [F-CK-1 経国](../Page/F-CK-1_\(航空機\).md "wikilink")/[AT-3 自強](https://ja.wikipedia.org/wiki/AT-3_\(航空機\) "wikilink")（発射試験）
+    [F-CK-1 経国](../Page/F-CK-1_\(航空機\).md "wikilink")/[AT-3 自強](../Page/AT-3_\(航空機\).md "wikilink")（発射試験）
 
 ### 雄風IIE型
 
-[2001年](../Page/2001年.md "wikilink")には、雄風II型を原型とした[巡航ミサイル](../Page/巡航ミサイル.md "wikilink")の雄風IIE型（[雄風二E巡弋飛彈](https://ja.wikipedia.org/wiki/:zh:_雄風二E巡弋飛彈 "wikilink")）が発表された。射程は[台湾から](https://ja.wikipedia.org/wiki/中華民国 "wikilink")[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")・[上海などに届く](../Page/上海市.md "wikilink")1,000km以上\[1\]、[弾頭](../Page/弾頭.md "wikilink")重量は400kg、500基を生産する予定と言われている。
+[2001年](../Page/2001年.md "wikilink")には、雄風II型を原型とした[巡航ミサイル](../Page/巡航ミサイル.md "wikilink")の雄風IIE型（[雄風二E巡弋飛彈](https://ja.wikipedia.org/wiki/:zh:_雄風二E巡弋飛彈 "wikilink")）が発表された。射程は[台湾から](../Page/中華民国.md "wikilink")[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")・[上海などに届く](../Page/上海市.md "wikilink")1,000km以上\[1\]、[弾頭](../Page/弾頭.md "wikilink")重量は400kg、500基を生産する予定と言われている。
 
 [2007年](../Page/2007年.md "wikilink")[10月10日](../Page/10月10日.md "wikilink")の[双十節](https://ja.wikipedia.org/wiki/双十節 "wikilink")（中華民国建国記念日）に公開される予定だったが、台中[軍事](../Page/軍事.md "wikilink")バランスの悪化を[アメリカが懸念したことにより](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、公開されなかった。
 

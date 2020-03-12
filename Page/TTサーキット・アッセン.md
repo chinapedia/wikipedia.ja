@@ -1,21 +1,21 @@
 > この記事は[TT](https://ja.wikipedia.org/wiki/TT)から翻訳されています。
 
 
-[250px](https://ja.wikipedia.org/wiki/ファイル:TT-circuit-Assen0605.jpg "wikilink") **TTサーキット・アッセン**（**TT Circuit Assen**）は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の[ドレンテ州](https://ja.wikipedia.org/wiki/ドレンテ州 "wikilink")[アッセン](../Page/アッセン.md "wikilink")にある[サーキット](https://ja.wikipedia.org/wiki/サーキット "wikilink")。**サーキット・ファン・ドレンテ**(Circuit van Drenthe)とも呼ばれる。
+[250px](https://ja.wikipedia.org/wiki/ファイル:TT-circuit-Assen0605.jpg "wikilink") **TTサーキット・アッセン**（**TT Circuit Assen**）は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の[ドレンテ州](../Page/ドレンテ州.md "wikilink")[アッセン](../Page/アッセン.md "wikilink")にある[サーキット](../Page/サーキット.md "wikilink")。**サーキット・ファン・ドレンテ**(Circuit van Drenthe)とも呼ばれる。
 
-[ロードレース世界選手権](../Page/ロードレース世界選手権.md "wikilink")（MotoGP）や[スーパーバイク世界選手権](https://ja.wikipedia.org/wiki/スーパーバイク世界選手権 "wikilink")の開催地のひとつとなっている。
+[ロードレース世界選手権](../Page/ロードレース世界選手権.md "wikilink")（MotoGP）や[スーパーバイク世界選手権](../Page/スーパーバイク世界選手権.md "wikilink")の開催地のひとつとなっている。
 
 ロードレース世界選手権では[オランダGPのことを一般に](https://ja.wikipedia.org/wiki/オランダグランプリ_\(ロードレース\) "wikilink")**ダッチTT**（Dutch TT）と呼ぶ。ロードレース世界選手権の歴史上、**ツーリスト・トロフィー**（Tourist Trophy。略称：TT）と呼ばれてきたレースは**TT**という呼称を使用し続けている\[1\]。
 
-基本的にサーキット近くにある教会のミサのため、決勝は土曜日開催となるが、国内最大人気イベントとなる[スーパーバイク世界選手権](https://ja.wikipedia.org/wiki/スーパーバイク世界選手権 "wikilink")は珍しく日曜開催となっている。
+基本的にサーキット近くにある教会のミサのため、決勝は土曜日開催となるが、国内最大人気イベントとなる[スーパーバイク世界選手権](../Page/スーパーバイク世界選手権.md "wikilink")は珍しく日曜開催となっている。
 
 ## 歴史
 
   - [1925年](../Page/1925年.md "wikilink") 現在よりやや北東に位置する公道コースで第一回ダッチTTを開催。コース長28.4km
   - [1926年](../Page/1926年.md "wikilink") 現在の位置に開催場所を移す。コース長16.536km
   - [1955年](../Page/1955年.md "wikilink") 現コースの元となるコースを建造。
-  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") [スーパーバイク世界選手権](https://ja.wikipedia.org/wiki/スーパーバイク世界選手権 "wikilink")の決勝レース中に[永井康友](https://ja.wikipedia.org/wiki/永井康友 "wikilink")が事故死。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink") コースを改修。
+  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") [スーパーバイク世界選手権](../Page/スーパーバイク世界選手権.md "wikilink")の決勝レース中に[永井康友](../Page/永井康友.md "wikilink")が事故死。
+  - [2006年](../Page/2006年.md "wikilink") コースを改修。
   - [2009年](../Page/2009年.md "wikilink") [ブエルタ・ア・エスパーニャのグランデパールとして](https://ja.wikipedia.org/wiki/ブエルタ・ア・エスパーニャ2009 "wikilink")[自転車](https://ja.wikipedia.org/wiki/自転車 "wikilink")でのレースが行われる。
 
 ## 特徴

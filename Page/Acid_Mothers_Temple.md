@@ -12,7 +12,7 @@
   - 東洋之 （ひがしひろし）
     ギター担当→[シンセサイザー](../Page/シンセサイザー.md "wikilink")、[テルミン](../Page/テルミン.md "wikilink")担当。バンドのフロントマンとなっている。1998年参加。
   - 田畑満 （たばたみつる）
-    [ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")→[ギター](../Page/ギター.md "wikilink")担当。元[ボアダムス](https://ja.wikipedia.org/wiki/ボアダムス "wikilink")。[ZENI GEVAでも活動](https://ja.wikipedia.org/wiki/ZENI_GEVA "wikilink")。現在は女装し、「ミツコ☆タバタ」という名義で参加。2012年参加。
+    [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")→[ギター](../Page/ギター.md "wikilink")担当。元[ボアダムス](../Page/ボアダムス.md "wikilink")。[ZENI GEVAでも活動](https://ja.wikipedia.org/wiki/ZENI_GEVA "wikilink")。現在は女装し、「ミツコ☆タバタ」という名義で参加。2012年参加。
   - 砂十島NANI （さとしまなに）
     [ドラムス担当](../Page/ドラムセット.md "wikilink")。志村に代わって2014年に参加。
   - S/T, Wolf
@@ -24,8 +24,8 @@
     ベース担当。[想い出波止場](https://ja.wikipedia.org/wiki/想い出波止場 "wikilink")、[西日本](https://ja.wikipedia.org/wiki/西日本_\(バンド\) "wikilink")、[サイケ奉行](https://ja.wikipedia.org/wiki/サイケ奉行 "wikilink")などでも活動。
   - 志村浩二
     ドラムス担当。元ハイライズ。みみのことでも活動。
-  - [吉田達也](https://ja.wikipedia.org/wiki/吉田達也 "wikilink")
-    ドラムス担当。[ルインズ](https://ja.wikipedia.org/wiki/ルインズ "wikilink")、[是巨人](https://ja.wikipedia.org/wiki/是巨人 "wikilink")、[高円寺百景](../Page/高円寺百景.md "wikilink")などで活動。SWRに参加。
+  - [吉田達也](../Page/吉田達也.md "wikilink")
+    ドラムス担当。[ルインズ](../Page/ルインズ.md "wikilink")、[是巨人](https://ja.wikipedia.org/wiki/是巨人 "wikilink")、[高円寺百景](../Page/高円寺百景.md "wikilink")などで活動。SWRに参加。
 
 ## 概要
 

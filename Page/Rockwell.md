@@ -1,7 +1,7 @@
 > この記事は[Rockwell](https://ja.wikipedia.org/wiki/Rockwell)から翻訳されています。
 
 
-**rockwell**（ロックウェル）は、**黒田学**と**宍倉聖悟**からなる[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[二人組](https://ja.wikipedia.org/wiki/二人組 "wikilink")[音楽](../Page/音楽.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。所属[レコード会社](https://ja.wikipedia.org/wiki/レコード会社 "wikilink")は[ドリーミュージック](https://ja.wikipedia.org/wiki/ドリーミュージック "wikilink")、所属プロダクションは[ユーズミュージック](../Page/ユーズミュージック.md "wikilink")。
+**rockwell**（ロックウェル）は、**黒田学**と**宍倉聖悟**からなる[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[二人組](../Page/二人組.md "wikilink")[音楽](../Page/音楽.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。所属[レコード会社](../Page/レコード会社.md "wikilink")は[ドリーミュージック](../Page/ドリーミュージック.md "wikilink")、所属プロダクションは[ユーズミュージック](../Page/ユーズミュージック.md "wikilink")。
 
 ## メンバー
 
@@ -10,8 +10,8 @@
 
 ## 来歴
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、ソロ活動をしていた黒田とスタジオミュージシャンとして活動していた宍倉とで結成。都内ライブハウスを中心に活動を開始するが、当初は「セイゴとマナブ」というバンド名であった。2005年11月〜12月、宍倉は[V6のツアーギタリストを務める](../Page/V6_\(グループ\).md "wikilink")。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink") rockwellに改名、バンド名のrockwellは[画家](../Page/画家.md "wikilink")の[ノーマン・ロックウェル](https://ja.wikipedia.org/wiki/ノーマン・ロックウェル "wikilink")に因む。そして2006年[7月26日](../Page/7月26日.md "wikilink")に「[夏の日の2006 -based on 1993-](../Page/夏の日の2006_-based_on_1993-.md "wikilink")」でメジャーデビューした。この曲はタイトル名こそ異なるが、[classの](https://ja.wikipedia.org/wiki/Class_\(音楽グループ\) "wikilink")[ミリオンヒット曲](../Page/ミリオンセラー.md "wikilink")「[夏の日の1993](https://ja.wikipedia.org/wiki/夏の日の1993 "wikilink")」のカヴァー曲にあたる。黒田にとっては、[2000年](../Page/2000年.md "wikilink")にCOATZ（コーツ）というバンドで一度デビューしており、再びのメジャーデビューとなる。
+  - [2005年](../Page/2005年.md "wikilink")、ソロ活動をしていた黒田とスタジオミュージシャンとして活動していた宍倉とで結成。都内ライブハウスを中心に活動を開始するが、当初は「セイゴとマナブ」というバンド名であった。2005年11月〜12月、宍倉は[V6のツアーギタリストを務める](../Page/V6_\(グループ\).md "wikilink")。
+  - [2006年](../Page/2006年.md "wikilink") rockwellに改名、バンド名のrockwellは[画家](../Page/画家.md "wikilink")の[ノーマン・ロックウェル](../Page/ノーマン・ロックウェル.md "wikilink")に因む。そして2006年[7月26日](../Page/7月26日.md "wikilink")に「[夏の日の2006 -based on 1993-](../Page/夏の日の2006_-based_on_1993-.md "wikilink")」でメジャーデビューした。この曲はタイトル名こそ異なるが、[classの](../Page/Class_\(音楽グループ\).md "wikilink")[ミリオンヒット曲](../Page/ミリオンセラー.md "wikilink")「[夏の日の1993](../Page/夏の日の1993.md "wikilink")」のカヴァー曲にあたる。黒田にとっては、[2000年](../Page/2000年.md "wikilink")にCOATZ（コーツ）というバンドで一度デビューしており、再びのメジャーデビューとなる。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月11日](../Page/3月11日.md "wikilink")、黒田が音楽活動休止を発表。同時にrockwellの活動も休止状態となった。
 
 ## ディスコグラフィ

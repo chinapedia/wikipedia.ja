@@ -1,7 +1,7 @@
 > この記事は[Amika](https://ja.wikipedia.org/wiki/Amika)から翻訳されています。
 
 
-**Amika**（あみか、[1976年](../Page/1976年.md "wikilink")[2月3日](../Page/2月3日.md "wikilink")-）は日本の[シンガーである](../Page/歌手.md "wikilink")。[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。1998年[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")よりデビュー、その後[東芝EMIにレーベル](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")（バリアフリー）ごと移籍。2002年フリーになり、現在ライブやCM音楽を中心として活動している。
+**Amika**（あみか、[1976年](../Page/1976年.md "wikilink")[2月3日](../Page/2月3日.md "wikilink")-）は日本の[シンガーである](../Page/歌手.md "wikilink")。[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。1998年[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")よりデビュー、その後[東芝EMIにレーベル](../Page/EMIミュージック・ジャパン.md "wikilink")（バリアフリー）ごと移籍。2002年フリーになり、現在ライブやCM音楽を中心として活動している。
 
 ## 作品
 
@@ -603,7 +603,7 @@
 
 ## CMほか（歌）
 
-  - [ベネッセコーポレーション](https://ja.wikipedia.org/wiki/ベネッセコーポレーション "wikilink")「[こどもちゃれんじ](https://ja.wikipedia.org/wiki/こどもちゃれんじ "wikilink")」『ほっぷぐみシアター』-歌
+  - [ベネッセコーポレーション](https://ja.wikipedia.org/wiki/ベネッセコーポレーション "wikilink")「[こどもちゃれんじ](../Page/こどもちゃれんじ.md "wikilink")」『ほっぷぐみシアター』-歌
   - ワンカルビ　　CM音楽と歌
   - [ケロッグ](https://ja.wikipedia.org/wiki/ケロッグ_\(企業\) "wikilink")「オールブラン」-CM音楽と歌
   - [ライオン](../Page/ライオン_\(企業\).md "wikilink")　システマ「ハグキプラス」-CM 英作詞と歌
@@ -617,7 +617,7 @@
 
 ## ラジオ番組
 
-  - [@llnightnippon.com](https://ja.wikipedia.org/wiki/@llnightnippon.com "wikilink")（[ニッポン放送](../Page/ニッポン放送.md "wikilink")、1999/3/31〜1999/9/29）
+  - [@llnightnippon.com](../Page/@llnightnippon.com.md "wikilink")（[ニッポン放送](../Page/ニッポン放送.md "wikilink")、1999/3/31〜1999/9/29）
   - FM Amika （[TOKYO FM](../Page/エフエム東京.md "wikilink")/[K-MIX](../Page/静岡エフエム放送.md "wikilink")/[HFM](../Page/広島エフエム放送.md "wikilink")、2000/1/1〜2001/3/30）
 
 ## 雑誌連載

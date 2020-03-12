@@ -1,14 +1,14 @@
 > この記事は[DIGICCO](https://ja.wikipedia.org/wiki/DIGICCO)から翻訳されています。
 
 
-**DIGICCO**（でじっこ）は、2001年\[1\]から2008年\[2\]まで活動していた[キャンペーンガール](https://ja.wikipedia.org/wiki/キャンペーンガール "wikilink")のユニットである。
+**DIGICCO**（でじっこ）は、2001年\[1\]から2008年\[2\]まで活動していた[キャンペーンガール](../Page/キャンペーンガール.md "wikilink")のユニットである。
 
 ## 来歴
 
 ### デジっ娘
 
-  - 1999年、[住友ゴム工業](https://ja.wikipedia.org/wiki/住友ゴム工業 "wikilink") ([DUNLOP](https://ja.wikipedia.org/wiki/ダンロップ "wikilink")) が出展する展示会において、そのコンパニオンを「デジっ娘」と呼ぶ。名称はDUNLOPの商品名「デジタイヤ」 (DIGI-TYRE) に由来する。
-  - 2001年1月、形態を4人組ユニットとし、[東京オートサロン](https://ja.wikipedia.org/wiki/東京オートサロン "wikilink")に出演。CDリリースや各種イベントでの活動を開始。
+  - 1999年、[住友ゴム工業](../Page/住友ゴム工業.md "wikilink") ([DUNLOP](../Page/ダンロップ.md "wikilink")) が出展する展示会において、そのコンパニオンを「デジっ娘」と呼ぶ。名称はDUNLOPの商品名「デジタイヤ」 (DIGI-TYRE) に由来する。
+  - 2001年1月、形態を4人組ユニットとし、[東京オートサロン](../Page/東京オートサロン.md "wikilink")に出演。CDリリースや各種イベントでの活動を開始。
   - 2002年、DUNLOPの[全日本GT選手権](https://ja.wikipedia.org/wiki/全日本GT選手権 "wikilink") (JGTC) へのタイヤ供給開始に伴い、サーキットでの活動を開始。
   - 2003年、メンバーが河野智美、田中明日香、鬼頭利枝、石神圭衣子の4人に落ち着くが、2004年1月の東京オートサロンをもって全員が卒業となった。
 
@@ -40,7 +40,7 @@ CDリリース以降。先頭がリーダー。
   - 2004年 青山知佳、石橋麻実、大坪紗耶、名取静
   - 2005年 名取静、[池見典子](../Page/池見典子.md "wikilink")、[栗原海](https://ja.wikipedia.org/wiki/栗原海 "wikilink")、岡元愛美
   - 2006年 名取静、池見典子、栗原海、岡元愛美
-  - 2007年 栗原海、[吉野めぐみ](https://ja.wikipedia.org/wiki/吉野めぐみ "wikilink")、[渕脇レイナ](https://ja.wikipedia.org/wiki/渕脇レイナ "wikilink")、根本愛\[8\]
+  - 2007年 栗原海、[吉野めぐみ](../Page/吉野めぐみ.md "wikilink")、[渕脇レイナ](https://ja.wikipedia.org/wiki/渕脇レイナ "wikilink")、根本愛\[8\]
 
 ## 作品
 
@@ -82,7 +82,7 @@ CDリリース以降。先頭がリーダー。
 
   - その他
 
-:\* Be Rock U (1998 burst style) - [コナミの音楽ゲーム](https://ja.wikipedia.org/wiki/コナミデジタルエンタテインメント "wikilink")『[beatmania IIDX 9thstyle](https://ja.wikipedia.org/wiki/beatmania_IIDX "wikilink")』にて歌唱を担当。曲中に流れるムービーにも出演している。
+:\* Be Rock U (1998 burst style) - [コナミの音楽ゲーム](../Page/コナミデジタルエンタテインメント.md "wikilink")『[beatmania IIDX 9thstyle](https://ja.wikipedia.org/wiki/beatmania_IIDX "wikilink")』にて歌唱を担当。曲中に流れるムービーにも出演している。
 
 ## 出演していた番組
 
@@ -90,13 +90,13 @@ CDリリース以降。先頭がリーダー。
 
 :\* [DUNLOP FUTURE HITS](../Page/カウントダウンステーション.md "wikilink") ([TOKYO FM](../Page/エフエム東京.md "wikilink"))
 
-:\* 今夜はparty魔法でナイト （[Ciao\!他](https://ja.wikipedia.org/wiki/エフエム熱海湯河原 "wikilink")） 河野智美レギュラー 2001-2003
+:\* 今夜はparty魔法でナイト （[Ciao\!他](../Page/エフエム熱海湯河原.md "wikilink")） 河野智美レギュラー 2001-2003
 
 :\* 石橋麻実のサンデーカフェいらっしゃい (FMCiao) 2004-2005
 
   - テレビ
 
-:\* 月刊！DIGICCO（[エンタ\!371](https://ja.wikipedia.org/wiki/つくばテレビ "wikilink")）
+:\* 月刊！DIGICCO（[エンタ\!371](../Page/つくばテレビ.md "wikilink")）
 
 ## その他
 
@@ -111,7 +111,7 @@ CDリリース以降。先頭がリーダー。
 ### メンバーの卒業後
 
   - 最終期のメンバーだった栗原海と渕脇レイナは[スタイルコーポレーション](https://ja.wikipedia.org/wiki/スタイルコーポレーション "wikilink")に移籍し、芸能活動を本格化。吉野めぐみもフリーで活動を続けている。
-  - 鬼頭はゲーム作品のテーマソング、[KinKi Kidsのコーラス](../Page/KinKi_Kids.md "wikilink")、[ピンキッシュの](../Page/Pinkish.md "wikilink")[ボイストレーナーおよび](https://ja.wikipedia.org/wiki/ボイストレーニング "wikilink")[振付師](https://ja.wikipedia.org/wiki/振付師 "wikilink")\[16\]、「ミュージックスクールリカレンス」東京校のボーカル講師などを担当している\[17\]。
+  - 鬼頭はゲーム作品のテーマソング、[KinKi Kidsのコーラス](../Page/KinKi_Kids.md "wikilink")、[ピンキッシュの](../Page/Pinkish.md "wikilink")[ボイストレーナーおよび](../Page/ボイストレーニング.md "wikilink")[振付師](../Page/振付師.md "wikilink")\[16\]、「ミュージックスクールリカレンス」東京校のボーカル講師などを担当している\[17\]。
 
 ## 脚注
 

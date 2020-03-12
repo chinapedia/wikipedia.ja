@@ -7,9 +7,9 @@
 
 APNGフォーマットでは、最初のフレームが従来のPNGと同様の領域に格納される。そのため、APNGフォーマットに対応しない[デコーダを搭載した](../Page/エンコード.md "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")でも、最初のフレームが[静止画として表示される](../Page/画像.md "wikilink")。フレームの速度情報や、2枚目以降のアニメーションフレームは、新たに拡張された領域に格納されるが、これらの領域はAPNG非対応のデコーダでは無視される。また、最初のフレームをアニメーションに利用するか設定できるため、非対応環境での代替表示用画像とすることも可能である。
 
-PNGの[アニメーション](../Page/アニメーション.md "wikilink")フォーマットには、[MNGもある](../Page/Multiple-image_Network_Graphics.md "wikilink")。しかし、MNGとAPNGとは密接に関係するものの、これらは別の形式である。APNGの利点は、「（開発者から見て）[アニメーションGIFのPNG版](https://ja.wikipedia.org/wiki/GIFアニメーション "wikilink")」とも言える実装の容易さ、Firefoxといった主要ブラウザで正式サポートされている事である。仕様上1つのフレームを使い回すことができないためファイルサイズの面ではMNGと比べて有利ではない。
+PNGの[アニメーション](../Page/アニメーション.md "wikilink")フォーマットには、[MNGもある](../Page/Multiple-image_Network_Graphics.md "wikilink")。しかし、MNGとAPNGとは密接に関係するものの、これらは別の形式である。APNGの利点は、「（開発者から見て）[アニメーションGIFのPNG版](../Page/GIFアニメーション.md "wikilink")」とも言える実装の容易さ、Firefoxといった主要ブラウザで正式サポートされている事である。仕様上1つのフレームを使い回すことができないためファイルサイズの面ではMNGと比べて有利ではない。
 
-[GIFと比べ](../Page/Graphics_Interchange_Format.md "wikilink")、フレーム内で[フルカラー](../Page/フルカラー.md "wikilink")画像が取り扱えるようになり、さらに[アルファチャンネル](../Page/アルファチャンネル.md "wikilink")を使って背景にとけ込むような表現が可能となった。フルカラー対応となった事でフレームごとに個別のパレット（ローカルパレット）を持つという概念が廃止され共通パレット（グローバルパレット）のみとなった。GIFは[LZW圧縮を使っているが](../Page/Lempel–Ziv–Welch.md "wikilink")、APNGはPNGと同じく比較的圧縮効率の良い[Deflate](https://ja.wikipedia.org/wiki/Deflate "wikilink")圧縮を使用しているため、アニメーションGIFをAPNGに変換すると多くの場合ファイルサイズを削減できる。
+[GIFと比べ](../Page/Graphics_Interchange_Format.md "wikilink")、フレーム内で[フルカラー](../Page/フルカラー.md "wikilink")画像が取り扱えるようになり、さらに[アルファチャンネル](../Page/アルファチャンネル.md "wikilink")を使って背景にとけ込むような表現が可能となった。フルカラー対応となった事でフレームごとに個別のパレット（ローカルパレット）を持つという概念が廃止され共通パレット（グローバルパレット）のみとなった。GIFは[LZW圧縮を使っているが](../Page/Lempel–Ziv–Welch.md "wikilink")、APNGはPNGと同じく比較的圧縮効率の良い[Deflate](../Page/Deflate.md "wikilink")圧縮を使用しているため、アニメーションGIFをAPNGに変換すると多くの場合ファイルサイズを削減できる。
 
 ## 歴史
 

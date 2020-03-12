@@ -17,31 +17,31 @@
 
   - [ビビる大木](https://ja.wikipedia.org/wiki/ビビる大木 "wikilink")
   - [南明奈](https://ja.wikipedia.org/wiki/南明奈 "wikilink")
-  - [関根麻里](https://ja.wikipedia.org/wiki/関根麻里 "wikilink")
+  - [関根麻里](../Page/関根麻里.md "wikilink")
 
 ### ナレーター
 
   - [森一丁](../Page/森一丁.md "wikilink")
-  - [水沢史絵](https://ja.wikipedia.org/wiki/水沢史絵 "wikilink")
+  - [水沢史絵](../Page/水沢史絵.md "wikilink")
 
 ### 仕分けガール
 
   - 1号 [藤川ありさ](../Page/藤川ありさ.md "wikilink")
-  - 2号 [岡本果奈美](https://ja.wikipedia.org/wiki/岡本果奈美 "wikilink")
-  - 3号 [林弓束](https://ja.wikipedia.org/wiki/林弓束 "wikilink")
+  - 2号 [岡本果奈美](../Page/岡本果奈美.md "wikilink")
+  - 3号 [林弓束](../Page/林弓束.md "wikilink")
 
 ## スタッフ
 
-  - 構成：[ヒロハラノブヒコ](https://ja.wikipedia.org/wiki/ヒロハラノブヒコ "wikilink")、[桝本壮志](https://ja.wikipedia.org/wiki/桝本壮志 "wikilink")、小林のぞみ
+  - 構成：[ヒロハラノブヒコ](../Page/ヒロハラノブヒコ.md "wikilink")、[桝本壮志](../Page/桝本壮志.md "wikilink")、小林のぞみ
   - 企画協力：[北本かつら](../Page/北本かつら.md "wikilink")
-  - リサーチ：[スコープ](https://ja.wikipedia.org/wiki/スコープ "wikilink")
-  - 監修：[村上和彦](https://ja.wikipedia.org/wiki/村上和彦_\(日本テレビ\) "wikilink")
+  - リサーチ：[スコープ](../Page/スコープ.md "wikilink")
+  - 監修：[村上和彦](../Page/村上和彦_\(日本テレビ\).md "wikilink")
   - AD：斉藤考年、渡辺諒、椿亮輔
   - ディレクター：鈴木真人、中村慎吾、廣瀬由起子
   - 演出：[小野隆史](https://ja.wikipedia.org/wiki/小野隆史 "wikilink")、石野浩史、深沢博信
   - プロデューサー：秋山健一郎、磯和伸明
   - チーフプロデューサー：[福地聡](../Page/福地聡.md "wikilink")
-  - 制作協力：[えすと](https://ja.wikipedia.org/wiki/えすと "wikilink")
+  - 制作協力：[えすと](../Page/えすと.md "wikilink")
   - 制作著作：[日テレ](../Page/日本テレビ放送網.md "wikilink")
 
 ## 外部リンク

@@ -20,7 +20,7 @@
 
 ## 関連項目
 
-  - [1998年の音楽](https://ja.wikipedia.org/wiki/1998年の音楽 "wikilink")
+  - [1998年の音楽](../Page/1998年の音楽.md "wikilink")
   - [頭文字D](../Page/頭文字D.md "wikilink")
 
 ## 脚注

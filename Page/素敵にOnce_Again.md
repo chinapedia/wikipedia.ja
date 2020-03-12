@@ -13,7 +13,7 @@
 
 <!-- end list -->
 
-  - 1995年暮れの[第46回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第46回NHK紅白歌合戦 "wikilink")に出演。「松田聖子ヒットメドレー Seiko Chan to La La La」というタイトルで、「[青い珊瑚礁](https://ja.wikipedia.org/wiki/青い珊瑚礁_\(曲\) "wikilink")〜[時間の国のアリス](https://ja.wikipedia.org/wiki/時間の国のアリス "wikilink")〜素敵にOnce again」の3曲を披露した。ステージには車に乗って登場。[第36回](https://ja.wikipedia.org/wiki/第36回NHK紅白歌合戦 "wikilink")（歌唱曲は「[天使のウィンク](../Page/天使のウィンク.md "wikilink")」）以来の演出であった。
+  - 1995年暮れの[第46回NHK紅白歌合戦](../Page/第46回NHK紅白歌合戦.md "wikilink")に出演。「松田聖子ヒットメドレー Seiko Chan to La La La」というタイトルで、「[青い珊瑚礁](https://ja.wikipedia.org/wiki/青い珊瑚礁_\(曲\) "wikilink")〜[時間の国のアリス](https://ja.wikipedia.org/wiki/時間の国のアリス "wikilink")〜素敵にOnce again」の3曲を披露した。ステージには車に乗って登場。[第36回](../Page/第36回NHK紅白歌合戦.md "wikilink")（歌唱曲は「[天使のウィンク](../Page/天使のウィンク.md "wikilink")」）以来の演出であった。
 
 ## 収録曲
 
@@ -28,17 +28,17 @@
   - **素敵にOnce Again**
       - It's Style'95
       - [Bible III](https://ja.wikipedia.org/wiki/Bible_III "wikilink")
-      - [Complete Bible](https://ja.wikipedia.org/wiki/Complete_Bible "wikilink")
+      - [Complete Bible](../Page/Complete_Bible.md "wikilink")
       - [Dear](https://ja.wikipedia.org/wiki/Dear_\(松田聖子のアルバム\) "wikilink")
       - [MAX JAPAN 3](https://ja.wikipedia.org/wiki/MAX_JAPAN#MAX_JAPAN_3 "wikilink")
       - [Premium Diamond Bible](https://ja.wikipedia.org/wiki/Premium_Diamond_Bible "wikilink")
       - [Diamond Bible](https://ja.wikipedia.org/wiki/Diamond_Bible "wikilink")
       - [SEIKO STORY〜90s-00s HITS COLLECTION〜](https://ja.wikipedia.org/wiki/SEIKO_STORY〜90s-00s_HITS_COLLECTION〜 "wikilink")
   - **想い出の“渚のバルコニー”**
-      - [Complete Bible](https://ja.wikipedia.org/wiki/Complete_Bible "wikilink")
+      - [Complete Bible](../Page/Complete_Bible.md "wikilink")
 
 ## 関連項目
 
-  - [1995年の音楽](https://ja.wikipedia.org/wiki/1995年の音楽 "wikilink")
+  - [1995年の音楽](../Page/1995年の音楽.md "wikilink")
 
 [Category:松田聖子の楽曲](https://ja.wikipedia.org/wiki/Category:松田聖子の楽曲 "wikilink") [Category:松田聖子が制作した楽曲](https://ja.wikipedia.org/wiki/Category:松田聖子が制作した楽曲 "wikilink") [Category:1994年のシングル](https://ja.wikipedia.org/wiki/Category:1994年のシングル "wikilink") [Category:楽曲_す](https://ja.wikipedia.org/wiki/Category:楽曲_す "wikilink")

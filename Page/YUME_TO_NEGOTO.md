@@ -1,12 +1,12 @@
 > この記事は[YUME TO NEGOTO](https://ja.wikipedia.org/wiki/YUME_TO_NEGOTO)から翻訳されています。
 
 
-**YUME TO NEGOTO**は[2001年](../Page/2001年.md "wikilink")[7月26日](../Page/7月26日.md "wikilink")にリリースされた[Micky](https://ja.wikipedia.org/wiki/ヒラマミキオ "wikilink")（現・ヒラマミキオ）の1stアルバム。CDコードはJOHN-011。 その後2005年、2006年には昼海幹音名義にて**夢と寝言**としてリニューアル再発盤がリリースされた。
+**YUME TO NEGOTO**は[2001年](../Page/2001年.md "wikilink")[7月26日](../Page/7月26日.md "wikilink")にリリースされた[Micky](../Page/ヒラマミキオ.md "wikilink")（現・ヒラマミキオ）の1stアルバム。CDコードはJOHN-011。 その後2005年、2006年には昼海幹音名義にて**夢と寝言**としてリニューアル再発盤がリリースされた。
 
 ## 解説
 
-  - Mickyと同郷の[上田ケンジ](https://ja.wikipedia.org/wiki/上田ケンジ "wikilink")の主催するJohn?レーベルからリリースされた。
-  - 2005年の[東京事変](https://ja.wikipedia.org/wiki/東京事変 "wikilink")在籍中に、昼海幹音名義にて「夢と寝言」としてリニューアル再発された。(東京事変のライブ会場および、当時の所属事務所「[黒猫堂](../Page/黒猫堂.md "wikilink")」のWeb通販限定販売)
+  - Mickyと同郷の[上田ケンジ](../Page/上田ケンジ.md "wikilink")の主催するJohn?レーベルからリリースされた。
+  - 2005年の[東京事変](../Page/東京事変.md "wikilink")在籍中に、昼海幹音名義にて「夢と寝言」としてリニューアル再発された。(東京事変のライブ会場および、当時の所属事務所「[黒猫堂](../Page/黒猫堂.md "wikilink")」のWeb通販限定販売)
   - 2006年にも昼海幹音名義の「夢と寝言」としてリニューアル再々発として一般販売された。
   - オリジナル発売時の各タイトルは時間表記のみだったが、リニューアル時にサブタイトルが付けられた。
   - オリジナルリリース時には、[Bambootrick](https://ja.wikipedia.org/wiki/Bambootrick "wikilink")による「午前10時33分」のPVが製作された。

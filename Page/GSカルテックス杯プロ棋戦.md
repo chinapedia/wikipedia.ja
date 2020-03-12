@@ -1,10 +1,10 @@
 > この記事は[GS](https://ja.wikipedia.org/wiki/GS)から翻訳されています。
 
 
-**GSカルテックス杯プロ棋戦**（GSかるてっくすはいプロきせん、GS칼텍스배 프로기전）は、[韓国の](https://ja.wikipedia.org/wiki/大韓民国 "wikilink")[囲碁](../Page/囲碁.md "wikilink")の[棋戦](https://ja.wikipedia.org/wiki/棋戦_\(囲碁\) "wikilink")。1995年に、**テクロン杯プロ棋戦**として創設。1999年からは**LG精油杯プロ棋戦**に改名。2005年からは現在の名称となる。
+**GSカルテックス杯プロ棋戦**（GSかるてっくすはいプロきせん、GS칼텍스배 프로기전）は、[韓国の](../Page/大韓民国.md "wikilink")[囲碁](../Page/囲碁.md "wikilink")の[棋戦](https://ja.wikipedia.org/wiki/棋戦_\(囲碁\) "wikilink")。1995年に、**テクロン杯プロ棋戦**として創設。1999年からは**LG精油杯プロ棋戦**に改名。2005年からは現在の名称となる。
 
-  - 主催 [毎日経済新聞](https://ja.wikipedia.org/wiki/毎日経済新聞 "wikilink")、[毎経TV](https://ja.wikipedia.org/wiki/毎経TV "wikilink")、[韓国棋院](https://ja.wikipedia.org/wiki/韓国棋院 "wikilink")
-  - 後援 (第1-3期)[テクロン](https://ja.wikipedia.org/wiki/テクロン "wikilink")、(第4-9期)[LGカルテックス精油](https://ja.wikipedia.org/wiki/LGグループ "wikilink")、(第10期-)[GSカルテックス](https://ja.wikipedia.org/wiki/GSカルテックス "wikilink")
+  - 主催 [毎日経済新聞](https://ja.wikipedia.org/wiki/毎日経済新聞 "wikilink")、[毎経TV](https://ja.wikipedia.org/wiki/毎経TV "wikilink")、[韓国棋院](../Page/韓国棋院.md "wikilink")
+  - 後援 (第1-3期)[テクロン](https://ja.wikipedia.org/wiki/テクロン "wikilink")、(第4-9期)[LGカルテックス精油](../Page/LGグループ.md "wikilink")、(第10期-)[GSカルテックス](https://ja.wikipedia.org/wiki/GSカルテックス "wikilink")
   - 優勝賞金 (-16期）5000万ウォン、(17期-)7000万ウォン
 
 2017年時点で韓国では全棋士出場できる棋戦であり、その内賞金制棋戦の増加する中で予選から対局料が支給される唯一の棋戦となっている\[1\]。
@@ -21,20 +21,20 @@
 
 （左が優勝者）
 
-1.  1996年 [劉昌赫](https://ja.wikipedia.org/wiki/劉昌赫 "wikilink") 3-2 [曺薫鉉](https://ja.wikipedia.org/wiki/曺薫鉉 "wikilink")
+1.  1996年 [劉昌赫](../Page/劉昌赫.md "wikilink") 3-2 [曺薫鉉](https://ja.wikipedia.org/wiki/曺薫鉉 "wikilink")
 2.  1997年 [李昌鎬](../Page/李昌鎬.md "wikilink") 3-0 [崔明勲](https://ja.wikipedia.org/wiki/崔明勲 "wikilink")
 3.  1998年 李昌鎬 3-0 崔明勲
-4.  1999年 [徐奉洙](https://ja.wikipedia.org/wiki/徐奉洙 "wikilink") 3-2 [劉昌赫](https://ja.wikipedia.org/wiki/劉昌赫 "wikilink")
-5.  2000年 [崔明勲](https://ja.wikipedia.org/wiki/崔明勲 "wikilink") 3-1 [芮廼偉](https://ja.wikipedia.org/wiki/ゼイ廼偉 "wikilink")
+4.  1999年 [徐奉洙](../Page/徐奉洙.md "wikilink") 3-2 [劉昌赫](../Page/劉昌赫.md "wikilink")
+5.  2000年 [崔明勲](https://ja.wikipedia.org/wiki/崔明勲 "wikilink") 3-1 [芮廼偉](../Page/ゼイ廼偉.md "wikilink")
 6.  2001年 李昌鎬 3-0 崔明勲
-7.  2002年 [李世乭](https://ja.wikipedia.org/wiki/李世ドル "wikilink") 3-1 崔明勲
+7.  2002年 [李世乭](../Page/李世ドル.md "wikilink") 3-1 崔明勲
 8.  2003年 李昌鎬 3-0 趙漢乗
-9.  2004年 李昌鎬 3-0 [朴永訓](https://ja.wikipedia.org/wiki/朴永訓 "wikilink")
-10. 2005年 [崔哲瀚](https://ja.wikipedia.org/wiki/崔哲瀚 "wikilink") 3-2 李昌鎬
+9.  2004年 李昌鎬 3-0 [朴永訓](../Page/朴永訓.md "wikilink")
+10. 2005年 [崔哲瀚](../Page/崔哲瀚.md "wikilink") 3-2 李昌鎬
 11. 2006年 李世乭 3-0 崔哲瀚
 12. 2007年 朴永訓 3-2 李世乭
 13. 2008年 朴永訓 3-0 [元晟湊](https://ja.wikipedia.org/wiki/元晟湊 "wikilink")
-14. 2009年 [趙漢乗](https://ja.wikipedia.org/wiki/趙漢乗 "wikilink") 3-1 朴永訓
+14. 2009年 [趙漢乗](../Page/趙漢乗.md "wikilink") 3-1 朴永訓
 15. 2010年 元晟湊 3-1 趙漢乗
 16. 2011年 [朴廷桓](https://ja.wikipedia.org/wiki/朴廷桓 "wikilink") 3-0 朴永訓
 17. 2012年 李世乭 3-2 朴永訓

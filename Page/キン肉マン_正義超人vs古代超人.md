@@ -3,7 +3,7 @@
 
 [200pxの](https://ja.wikipedia.org/wiki/ファイル:Moai_Rano_raraku.jpg "wikilink")[モアイ](../Page/モアイ.md "wikilink")（この島でストーンサタンが出現した）\]\] **キン肉マン 正義超人vs古代超人**（キンにくマン せいぎちょうじんたいこだいちょうじん）は[ゆでたまご](https://ja.wikipedia.org/wiki/ゆでたまご "wikilink")の漫画を原作とするアニメ『[キン肉マン](https://ja.wikipedia.org/wiki/キン肉マン_\(テレビアニメ\) "wikilink")』の劇場版第3作。
 
-[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[3月15日](../Page/3月15日.md "wikilink")に[東映まんがまつり](https://ja.wikipedia.org/wiki/東映まんがまつり "wikilink")で公開された。上映時間は45分。
+[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[3月15日](../Page/3月15日.md "wikilink")に[東映まんがまつり](../Page/東映まんがまつり.md "wikilink")で公開された。上映時間は45分。
 
 ## 概要
 
@@ -11,13 +11,13 @@
 
 また作中、「正義超人はサタンキングの地球征服を阻止するために生まれてきて、これまでの戦いはサタンキングらとの戦いの準備でしかなかった」と敵キャラクターの巨悪としての演出がなされている。
 
-本作を含む「東映まんがまつり」では、「特別鑑賞券」の購入特典として「キントンゲーム」がプレゼントされた。これは「キン肉マン」・「バッファローマン」・「サタンキング」・「ストーンサタン」の紙人形を切り抜いて「[とんとん相撲](https://ja.wikipedia.org/wiki/紙相撲 "wikilink")」の要領で遊ぶ物だった\[2\]。
+本作を含む「東映まんがまつり」では、「特別鑑賞券」の購入特典として「キントンゲーム」がプレゼントされた。これは「キン肉マン」・「バッファローマン」・「サタンキング」・「ストーンサタン」の紙人形を切り抜いて「[とんとん相撲](../Page/紙相撲.md "wikilink")」の要領で遊ぶ物だった\[2\]。
 
-なお前2作までの「東映マーク」（荒磯に波）のBGMは「波音」だったが、本作以降は[風戸慎介作曲のオリジナルBGMが使用された](https://ja.wikipedia.org/wiki/川辺真 "wikilink")。
+なお前2作までの「東映マーク」（荒磯に波）のBGMは「波音」だったが、本作以降は[風戸慎介作曲のオリジナルBGMが使用された](../Page/川辺真.md "wikilink")。
 
 ## ストーリー
 
-黄金のマスク編にて[悪魔将軍](https://ja.wikipedia.org/wiki/悪魔将軍 "wikilink")を撃破し、地球の正義を守りぬいた[キン肉マン](../Page/キン肉スグル.md "wikilink")。正義超人協会や世界各国からの謝礼で恋人の二階堂マリや幼稚園児たちとともに[イースター島](https://ja.wikipedia.org/wiki/イースター島 "wikilink")の見物に来ていた。同じ頃、仲間の正義超人たちもそれぞれ思い思いに過ごしていた。しかしそこに地震が起き巨大な建造物が出現。キン肉マンらのもとに宇宙の悪の支配者サタンキングの部下・古代超人軍団が現れる。仲間の正義超人たちが奮闘するもののキン肉マンは子供たちが気になり苦戦していたが、[バッファローマン](../Page/バッファローマン.md "wikilink")の手により助けられる。辛くも古代超人軍団を撃破した正義超人たちだったが、サタンキングは子供たちをさらい、正義超人に再び戦いを挑む。
+黄金のマスク編にて[悪魔将軍](https://ja.wikipedia.org/wiki/悪魔将軍 "wikilink")を撃破し、地球の正義を守りぬいた[キン肉マン](../Page/キン肉スグル.md "wikilink")。正義超人協会や世界各国からの謝礼で恋人の二階堂マリや幼稚園児たちとともに[イースター島](../Page/イースター島.md "wikilink")の見物に来ていた。同じ頃、仲間の正義超人たちもそれぞれ思い思いに過ごしていた。しかしそこに地震が起き巨大な建造物が出現。キン肉マンらのもとに宇宙の悪の支配者サタンキングの部下・古代超人軍団が現れる。仲間の正義超人たちが奮闘するもののキン肉マンは子供たちが気になり苦戦していたが、[バッファローマン](../Page/バッファローマン.md "wikilink")の手により助けられる。辛くも古代超人軍団を撃破した正義超人たちだったが、サタンキングは子供たちをさらい、正義超人に再び戦いを挑む。
 
 ## ゲストキャラクター
 
@@ -28,13 +28,13 @@
 
 ### 古代超人
 
-地球に正義超人が集まることを予想し、大昔より地球の古代の建造物に潜伏していた超人たち。[悪魔六騎士](https://ja.wikipedia.org/wiki/悪魔六騎士 "wikilink")は彼らの部下の部下でしかないという。ヒマラヤの中腹にあるサタンタワーを根城にしている。劇場版パンフレットに記載された組織図「悪魔超人界大系図」によると頂点がサタンキングであり、その配下に古代超人軍団、劇場版第2作『[キン肉マン 大暴れ\!正義超人](../Page/キン肉マン_大暴れ!正義超人.md "wikilink")』に登場したブラック軍団、さらにその下に第1作『[キン肉マン](https://ja.wikipedia.org/wiki/キン肉マン_奪われたチャンピオンベルト "wikilink")』に登場した宇宙地下プロレス連盟、テレビスペシャル『キン肉マン 決戦\!7人の正義超人vs宇宙野武士』に登場した宇宙野武士軍団を配下としている\[3\]。
+地球に正義超人が集まることを予想し、大昔より地球の古代の建造物に潜伏していた超人たち。[悪魔六騎士](https://ja.wikipedia.org/wiki/悪魔六騎士 "wikilink")は彼らの部下の部下でしかないという。ヒマラヤの中腹にあるサタンタワーを根城にしている。劇場版パンフレットに記載された組織図「悪魔超人界大系図」によると頂点がサタンキングであり、その配下に古代超人軍団、劇場版第2作『[キン肉マン 大暴れ\!正義超人](../Page/キン肉マン_大暴れ!正義超人.md "wikilink")』に登場したブラック軍団、さらにその下に第1作『[キン肉マン](../Page/キン肉マン_奪われたチャンピオンベルト.md "wikilink")』に登場した宇宙地下プロレス連盟、テレビスペシャル『キン肉マン 決戦\!7人の正義超人vs宇宙野武士』に登場した宇宙野武士軍団を配下としている\[3\]。
 
 古代超人の名は作中呼称されていない。原作でも同じ名称が登場している\[4\]。
 
   - サタンキング
     出身地：宇宙\[5\]
-    [超人強度](https://ja.wikipedia.org/wiki/超人強度 "wikilink")：1800万パワー\[6\]
+    [超人強度](../Page/超人強度.md "wikilink")：1800万パワー\[6\]
     宇宙の悪の支配者。「宇宙の大魔王」の異名をとる。地球上に正義超人たちが集まることを予想し、大昔から部下たちを地球に密かに送り込んでいた。[委員長によれば](https://ja.wikipedia.org/wiki/ハラボテ・マッスル "wikilink")「サタンキングと戦うために正義超人たちは今日まで戦ってきた」と豪語するほどの存在。狡猾な手段を好み、子供を人質に正義超人軍団に戦いを挑む。バッファローマンを電撃の罠とベアハッグで倒すが、最後はキン肉マンと一騎討ちになり、壮絶技の掛け合いの末、キン肉ドライバーで宇宙船に叩きつけられ、宇宙船諸共爆死した。
     異名の割にはキン肉マンを前にしてギャグに走ることが多く、ほぼ同レベルのコミカルなやり取りを行うなどギャグキャラクターの度合いが強く描かれていた。
     得意技は大津波や吹雪を起こす「サタン大津波」「サタンブリザード」、目からの光線「サタンサンダー」など。決着の寸前、キン肉との技の掛け合いではキン肉バスターも使用していた。
@@ -52,7 +52,7 @@
 <!-- end list -->
 
   - コンドルサタン
-    [コンドル](https://ja.wikipedia.org/wiki/コンドル "wikilink")の体をもった古代超人。[ナスカ高原より出現](https://ja.wikipedia.org/wiki/ナスカの地上絵 "wikilink")。[ロビンマスク](../Page/ロビンマスク.md "wikilink")と闘う。タワー・ブリッジによって撃破された。
+    [コンドル](../Page/コンドル.md "wikilink")の体をもった古代超人。[ナスカ高原より出現](https://ja.wikipedia.org/wiki/ナスカの地上絵 "wikilink")。[ロビンマスク](../Page/ロビンマスク.md "wikilink")と闘う。タワー・ブリッジによって撃破された。
 
 <!-- end list -->
 
@@ -78,7 +78,7 @@
   - ハニワサタン
     出身地：宇宙\[11\]
     超人強度：85万パワー\[12\]
-    [ハニワと名乗るが実際は](../Page/埴輪.md "wikilink")[土偶](https://ja.wikipedia.org/wiki/土偶 "wikilink")がモチーフ。[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")の博物館に展示されていた[遮光土偶より変身](https://ja.wikipedia.org/wiki/遮光器土偶 "wikilink")。[リキシマンと闘う](../Page/ウルフマン_\(キン肉マン\).md "wikilink")。サタンタワーの闘いではリキシマンに槍を投げつける重傷を負わせるが、ルービックキューブ張り手を食らい敗北。最後に爆弾のトラップで道連れにしようとしたが、リキシマンは生還を果たしていた。
+    [ハニワと名乗るが実際は](../Page/埴輪.md "wikilink")[土偶](../Page/土偶.md "wikilink")がモチーフ。[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")の博物館に展示されていた[遮光土偶より変身](../Page/遮光器土偶.md "wikilink")。[リキシマンと闘う](../Page/ウルフマン_\(キン肉マン\).md "wikilink")。サタンタワーの闘いではリキシマンに槍を投げつける重傷を負わせるが、ルービックキューブ張り手を食らい敗北。最後に爆弾のトラップで道連れにしようとしたが、リキシマンは生還を果たしていた。
 
 <!-- end list -->
 
@@ -96,39 +96,39 @@
 
   - [キン肉マン](../Page/キン肉スグル.md "wikilink") - [神谷明](../Page/神谷明.md "wikilink")
   - [ミート君](../Page/アレキサンドリア・ミート.md "wikilink") - [松島みのり](../Page/松島みのり.md "wikilink")
-  - 中野さん - [はせさん治](https://ja.wikipedia.org/wiki/はせさん治 "wikilink")
+  - 中野さん - [はせさん治](../Page/はせさん治.md "wikilink")
   - 翔野ナツコ、イエティ\[15\] - [鶴ひろみ](../Page/鶴ひろみ.md "wikilink")
-  - 幸一少年 - [川島千代子](https://ja.wikipedia.org/wiki/川島千代子 "wikilink")
+  - 幸一少年 - [川島千代子](../Page/川島千代子.md "wikilink")
   - [テリーマン](../Page/テリーマン.md "wikilink") - [田中秀幸](../Page/田中秀幸_\(声優\).md "wikilink")
-  - [ウォーズマン](../Page/ウォーズマン.md "wikilink") - [堀秀行](https://ja.wikipedia.org/wiki/堀秀行 "wikilink")
-  - ナチグロン、キン骨オババ\[16\] - [山本圭子](https://ja.wikipedia.org/wiki/山本圭子 "wikilink")
-  - 二階堂マリ - [中島千里](https://ja.wikipedia.org/wiki/中島千里 "wikilink")
-  - [キン肉大王](https://ja.wikipedia.org/wiki/キン肉真弓 "wikilink") - [岸野一彦](https://ja.wikipedia.org/wiki/岸野一彦 "wikilink")
-  - キン肉王妃 - [山口奈々](https://ja.wikipedia.org/wiki/山口奈々 "wikilink")
-  - [ラーメンマン](../Page/ラーメンマン.md "wikilink") - [蟹江栄司](https://ja.wikipedia.org/wiki/蟹江栄司 "wikilink")
+  - [ウォーズマン](../Page/ウォーズマン.md "wikilink") - [堀秀行](../Page/堀秀行.md "wikilink")
+  - ナチグロン、キン骨オババ\[16\] - [山本圭子](../Page/山本圭子.md "wikilink")
+  - 二階堂マリ - [中島千里](../Page/中島千里.md "wikilink")
+  - [キン肉大王](https://ja.wikipedia.org/wiki/キン肉真弓 "wikilink") - [岸野一彦](../Page/岸野一彦.md "wikilink")
+  - キン肉王妃 - [山口奈々](../Page/山口奈々.md "wikilink")
+  - [ラーメンマン](../Page/ラーメンマン.md "wikilink") - [蟹江栄司](../Page/蟹江栄司.md "wikilink")
   - [ブロッケンJr.](../Page/ブロッケンJr..md "wikilink")、与作さん\[17\] - [水鳥鉄夫](../Page/水鳥鐵夫.md "wikilink")
-  - [大会委員長](https://ja.wikipedia.org/wiki/ハラボテ・マッスル "wikilink")、ザウルスサタン\[18\] - [北川米彦](https://ja.wikipedia.org/wiki/北川米彦 "wikilink")
-  - [リキシマン](../Page/ウルフマン_\(キン肉マン\).md "wikilink")、コンドルサタン\[19\] - [広瀬正志](https://ja.wikipedia.org/wiki/広瀬正志 "wikilink")
-  - [ロビンマスク](../Page/ロビンマスク.md "wikilink") - [郷里大輔](https://ja.wikipedia.org/wiki/郷里大輔 "wikilink")
+  - [大会委員長](https://ja.wikipedia.org/wiki/ハラボテ・マッスル "wikilink")、ザウルスサタン\[18\] - [北川米彦](../Page/北川米彦.md "wikilink")
+  - [リキシマン](../Page/ウルフマン_\(キン肉マン\).md "wikilink")、コンドルサタン\[19\] - [広瀬正志](../Page/広瀬正志.md "wikilink")
+  - [ロビンマスク](../Page/ロビンマスク.md "wikilink") - [郷里大輔](../Page/郷里大輔.md "wikilink")
   - [キン骨マン](../Page/キン骨マン.md "wikilink")、コブラサタン\[20\] - [二又一成](../Page/二又一成.md "wikilink")
-  - 五分刈刑事、ジョーズサタン\[21\] - [戸谷公次](https://ja.wikipedia.org/wiki/戸谷公次 "wikilink")
-  - [バッファローマン](../Page/バッファローマン.md "wikilink")、イワオ\[22\] - [佐藤正治](https://ja.wikipedia.org/wiki/佐藤正治_\(声優\) "wikilink")
-  - ハニワサタン - [塩屋浩三](https://ja.wikipedia.org/wiki/塩屋浩三 "wikilink")
-  - 幼稚園児 - [柴田由美子](https://ja.wikipedia.org/wiki/柴田由美子_\(声優\) "wikilink")
+  - 五分刈刑事、ジョーズサタン\[21\] - [戸谷公次](../Page/戸谷公次.md "wikilink")
+  - [バッファローマン](../Page/バッファローマン.md "wikilink")、イワオ\[22\] - [佐藤正治](../Page/佐藤正治_\(声優\).md "wikilink")
+  - ハニワサタン - [塩屋浩三](../Page/塩屋浩三.md "wikilink")
+  - 幼稚園児 - [柴田由美子](../Page/柴田由美子_\(声優\).md "wikilink")
   - 幼稚園児 - 石澤美華
-  - 幼稚園児 - [佐藤智恵](https://ja.wikipedia.org/wiki/佐藤智恵 "wikilink")
+  - 幼稚園児 - [佐藤智恵](../Page/佐藤智恵.md "wikilink")
   - ストーンサタン - [田中康郎](../Page/田中康郎.md "wikilink")
-  - ガンサタン - [矢田耕司](https://ja.wikipedia.org/wiki/矢田耕司 "wikilink")
+  - ガンサタン - [矢田耕司](../Page/矢田耕司.md "wikilink")
   - サタンキング - [永井一郎](../Page/永井一郎.md "wikilink")
   - ウコン三世とその部下 - [ゆでたまご](https://ja.wikipedia.org/wiki/ゆでたまご "wikilink")
 
 ## スタッフ
 
-  - 製作総指揮：[今田智憲](https://ja.wikipedia.org/wiki/今田智憲 "wikilink")
+  - 製作総指揮：[今田智憲](../Page/今田智憲.md "wikilink")
   - プロデューサー：田宮武
   - 原作：[ゆでたまご](https://ja.wikipedia.org/wiki/ゆでたまご "wikilink")
   - 脚本：[山崎晴哉](../Page/山崎晴哉.md "wikilink")
-  - 音楽：[風戸慎介](https://ja.wikipedia.org/wiki/川辺真 "wikilink")
+  - 音楽：[風戸慎介](../Page/川辺真.md "wikilink")
   - 撮影監督：[白井久男](https://ja.wikipedia.org/wiki/白井久男 "wikilink")
   - 美術監督：襟立智子
   - 作画監督：森利夫
@@ -147,26 +147,26 @@
   - 記録：竹沢裕美子
   - ネガ編集：福光衣久子
   - 録音：市川修
-  - 音響効果：[横山正和](https://ja.wikipedia.org/wiki/横山正和 "wikilink")
+  - 音響効果：[横山正和](../Page/横山正和.md "wikilink")
   - 仕上進行：茂木明子
   - 美術進行：中村実
   - 助監督：[浅田裕二](https://ja.wikipedia.org/wiki/浅田裕二 "wikilink")
   - 製作進行：城田佳和
-  - 録音スタジオ：[タバック](https://ja.wikipedia.org/wiki/タバック "wikilink")
-  - 現像：[東映化学](https://ja.wikipedia.org/wiki/東映ラボ・テック "wikilink")
+  - 録音スタジオ：[タバック](../Page/タバック.md "wikilink")
+  - 現像：[東映化学](../Page/東映ラボ・テック.md "wikilink")
 
 ## 主題歌
 
   - オープニングテーマ - 「炎のキン肉マン」
-    歌 - [串田アキラ](https://ja.wikipedia.org/wiki/串田アキラ "wikilink") / 作詞 - [森雪之丞](https://ja.wikipedia.org/wiki/森雪之丞 "wikilink") / 作曲 - [芹澤廣明](https://ja.wikipedia.org/wiki/芹澤廣明 "wikilink") / 編曲 - [奥慶一](https://ja.wikipedia.org/wiki/奥慶一 "wikilink")
+    歌 - [串田アキラ](../Page/串田アキラ.md "wikilink") / 作詞 - [森雪之丞](../Page/森雪之丞.md "wikilink") / 作曲 - [芹澤廣明](../Page/芹澤廣明.md "wikilink") / 編曲 - [奥慶一](../Page/奥慶一.md "wikilink")
   - エンディングテーマ - 「キン肉マンボ」
-    歌 - 神谷明、[こおろぎ'73](https://ja.wikipedia.org/wiki/こおろぎ'73 "wikilink")、Shines / 作詞・作曲 - 森雪之丞 / 編曲 - 奥慶一
+    歌 - 神谷明、[こおろぎ'73](../Page/こおろぎ'73.md "wikilink")、Shines / 作詞・作曲 - 森雪之丞 / 編曲 - 奥慶一
 
 ## 同時上映
 
-  - [Gu-Guガンモ](https://ja.wikipedia.org/wiki/Gu-Guガンモ "wikilink")
+  - [Gu-Guガンモ](../Page/Gu-Guガンモ.md "wikilink")
   - [電撃戦隊チェンジマン](../Page/電撃戦隊チェンジマン.md "wikilink")
-  - [とんがり帽子のメモル](https://ja.wikipedia.org/wiki/とんがり帽子のメモル "wikilink")
+  - [とんがり帽子のメモル](../Page/とんがり帽子のメモル.md "wikilink")
 
 『とんがり帽子のメモル』のみTVブローアップ版で、他は全て劇場用新作。
 
@@ -201,10 +201,10 @@
 [Category:キン肉マン映画作品](https://ja.wikipedia.org/wiki/Category:キン肉マン映画作品 "wikilink") [Category:1985年のアニメ映画](https://ja.wikipedia.org/wiki/Category:1985年のアニメ映画 "wikilink") [Category:東映まんがまつり](https://ja.wikipedia.org/wiki/Category:東映まんがまつり "wikilink")
 
 1.  「STORY EX 特別編 THE☆MOVIE ザ・ムービー『キン肉マン』」『キン肉マン コンプリートDVD-BOX収録内容ガイド』43頁。
-2.  「アニメチラシ大カタログ 邦画版」（[勁文社](https://ja.wikipedia.org/wiki/勁文社 "wikilink")）35頁 2000年
+2.  「アニメチラシ大カタログ 邦画版」（[勁文社](../Page/勁文社.md "wikilink")）35頁 2000年
 3.  劇場版パンフレットより。
 4.  『キン肉マン』41巻 P123。原作では、正義・[悪魔](../Page/悪魔超人.md "wikilink")・[完璧などそれぞれの属性の古代超人が存在していたことが明かされている](../Page/完璧超人.md "wikilink")。
-5.  [ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")ソフト『[キン肉マンII世 新世代超人VS伝説超人](https://ja.wikipedia.org/wiki/キン肉マン_ジェネレーションズ "wikilink")』
+5.  [ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")ソフト『[キン肉マンII世 新世代超人VS伝説超人](../Page/キン肉マン_ジェネレーションズ.md "wikilink")』
 6.
 7.
 8.

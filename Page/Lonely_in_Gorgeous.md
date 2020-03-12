@@ -1,7 +1,7 @@
 > この記事は[Lonely in Gorgeous](https://ja.wikipedia.org/wiki/Lonely_in_Gorgeous)から翻訳されています。
 
 
-「**♥Lonely in Gorgeous♥**」（ロンリー イン ゴージャス）は[川瀬智子](https://ja.wikipedia.org/wiki/川瀬智子 "wikilink")の「Tommy february<sup>6</sup>」名義での8枚目のシングル。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月30日](../Page/11月30日.md "wikilink")に発売された。
+「**♥Lonely in Gorgeous♥**」（ロンリー イン ゴージャス）は[川瀬智子](https://ja.wikipedia.org/wiki/川瀬智子 "wikilink")の「Tommy february<sup>6</sup>」名義での8枚目のシングル。[2005年](../Page/2005年.md "wikilink")[11月30日](../Page/11月30日.md "wikilink")に発売された。
 
 ## 概要
 
@@ -13,7 +13,7 @@
 1.  **♥Lonely in Gorgeous♥**
       -
         作詞：Tommy february<sup>6</sup>／作編曲：MALIBU CONVERTIBLE
-        CX系アニメ「[Paradise Kiss](https://ja.wikipedia.org/wiki/Paradise_Kiss "wikilink")」オープニング・テーマ
+        CX系アニメ「[Paradise Kiss](../Page/Paradise_Kiss.md "wikilink")」オープニング・テーマ
         ハードな失恋をテーマにした曲である。
         PVはTommy february<sup>6</sup>が刑事に扮し犯人を追う場面と、ドールハウスの中でチアガールと踊る場面とで構成されている。
 2.  **Is this feeling love ?**

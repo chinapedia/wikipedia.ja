@@ -5,7 +5,7 @@
 
 ## 概要
 
-[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")に有限会社ディスクのブランドとして始動したが、有限会社ディスクは[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に株式会社[ゲオ販売](https://ja.wikipedia.org/wiki/ゲオ販売 "wikilink")に経営譲渡される。その後、[1999年](../Page/1999年.md "wikilink")2月に株式会社セブンエイトに買収され、[2000年](../Page/2000年.md "wikilink")に活動を再開した。2000年以降のブランドのロゴには「**REBORN from 2000**」という文字が書かれている\[1\]。
+[1991年](../Page/1991年.md "wikilink")に有限会社ディスクのブランドとして始動したが、有限会社ディスクは[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に株式会社[ゲオ販売](https://ja.wikipedia.org/wiki/ゲオ販売 "wikilink")に経営譲渡される。その後、[1999年](../Page/1999年.md "wikilink")2月に株式会社セブンエイトに買収され、[2000年](../Page/2000年.md "wikilink")に活動を再開した。2000年以降のブランドのロゴには「**REBORN from 2000**」という文字が書かれている\[1\]。
 
 2000年の再始動後は『人妻×人妻（つまつま）』シリーズや『人妻戦隊アイサイガー』シリーズなど[人妻](https://ja.wikipedia.org/wiki/人妻 "wikilink")をテーマにしたゲームの開発チームと、『ぎゃくたま』シリーズなどの学園ものの開発チームの2ライン制が敷かれていた\[2\]。
 
@@ -19,10 +19,10 @@
 
 <!-- end list -->
 
-  - [1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[7月20日](../Page/7月20日.md "wikilink") - Sweet Emotion
-  - 1991年[12月10日](https://ja.wikipedia.org/wiki/12月10日 "wikilink") - MIRAGE
+  - [1991年](../Page/1991年.md "wikilink")[7月20日](../Page/7月20日.md "wikilink") - Sweet Emotion
+  - 1991年[12月10日](../Page/12月10日.md "wikilink") - MIRAGE
       - [1994年](../Page/1994年.md "wikilink")[3月9日](../Page/3月9日.md "wikilink") - MIRAGE2 〜トリー×ニート×ローンの大冒険〜
-  - [1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink") - RED
+  - [1992年](../Page/1992年.md "wikilink")[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink") - RED
   - [1993年](../Page/1993年.md "wikilink")[5月14日](../Page/5月14日.md "wikilink") - チャクラ
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[2月28日](../Page/2月28日.md "wikilink") - ヴァルキリー
   - 1995年[9月29日](../Page/9月29日.md "wikilink") - マリン・ルージュ
@@ -48,13 +48,13 @@
 <!-- end list -->
 
   - [2000年](../Page/2000年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink") - [月夜の瞳は紅に](https://ja.wikipedia.org/wiki/月夜の瞳は紅に "wikilink")
-  - 2000年[10月27日](https://ja.wikipedia.org/wiki/10月27日 "wikilink") - [人妻×人妻 〜ここは人妻ぱらだいす\!〜](https://ja.wikipedia.org/wiki/人妻×人妻_〜ここは人妻ぱらだいす!〜 "wikilink")
+  - 2000年[10月27日](../Page/10月27日.md "wikilink") - [人妻×人妻 〜ここは人妻ぱらだいす\!〜](https://ja.wikipedia.org/wiki/人妻×人妻_〜ここは人妻ぱらだいす!〜 "wikilink")
       - [2001年](../Page/2001年.md "wikilink")[6月29日](../Page/6月29日.md "wikilink") - 人妻×人妻 〜ここは人妻ぱらだいす\!〜 録りおろし\!
       - 2001年[7月19日](../Page/7月19日.md "wikilink") - 人妻×人妻2 〜もっと\!人妻ぱらだいす〜
-      - [2002年](../Page/2002年.md "wikilink")[5月3日](https://ja.wikipedia.org/wiki/5月3日 "wikilink") - 人妻×人妻1.5 〜ここは新妻ぱらだいす\!〜
+      - [2002年](../Page/2002年.md "wikilink")[5月3日](../Page/5月3日.md "wikilink") - 人妻×人妻1.5 〜ここは新妻ぱらだいす\!〜
       - [2003年](../Page/2003年.md "wikilink")[3月20日](../Page/3月20日.md "wikilink") - 人妻×人妻3 〜ここは人妻まーけっと\!〜
       - [2004年](../Page/2004年.md "wikilink")[10月29日](../Page/10月29日.md "wikilink") - 人妻×人妻4 〜ここは人妻フィットネス〜
-      - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[6月23日](../Page/6月23日.md "wikilink") - 人妻×人妻ADV 〜人妻温泉繁盛記〜
+      - [2006年](../Page/2006年.md "wikilink")[6月23日](../Page/6月23日.md "wikilink") - 人妻×人妻ADV 〜人妻温泉繁盛記〜
       - [2007年](../Page/2007年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink") - 人妻×人妻すぺしゃるBOX（人妻×人妻1〜3に加え、「人妻×人妻3.5 〜湊とはぴらぶハネムーン\!〜」が収録されている）
       - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月27日](../Page/6月27日.md "wikilink") - 人妻×人妻3.5 〜湊とはぴらぶハネムーン\!〜（単独販売）
       - 発売中止 - 人妻×人妻5 〜ここは人妻商店街\!〜
@@ -62,12 +62,12 @@
       - 2001年[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink") - Twins2 -恋愛未満-
   - 2002年[8月23日](../Page/8月23日.md "wikilink") - DISCOVERY CLIMAX 2001（Hシーン集）
   - 2002年[8月30日](../Page/8月30日.md "wikilink") - [ぎゃくたま](https://ja.wikipedia.org/wiki/ぎゃくたま "wikilink")
-      - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月22日](../Page/7月22日.md "wikilink") - ぎゃくたま2
+      - [2005年](../Page/2005年.md "wikilink")[7月22日](../Page/7月22日.md "wikilink") - ぎゃくたま2
       - 2007年[4月27日](../Page/4月27日.md "wikilink") - ぎゃくたま+ぎゃくたま2
   - 2003年[7月4日](../Page/7月4日.md "wikilink") [モノグラフ 〜遠い約束〜](https://ja.wikipedia.org/wiki/モノグラフ_〜遠い約束〜 "wikilink")
   - 2004年[6月4日](../Page/6月4日.md "wikilink") - [小雪の朱 〜コユキノアカ〜](https://ja.wikipedia.org/wiki/小雪の朱_〜コユキノアカ〜 "wikilink")
-  - 2005年[11月4日](../Page/11月4日.md "wikilink") - [人妻戦隊アイサイガー](https://ja.wikipedia.org/wiki/人妻戦隊アイサイガー "wikilink")
-      - 2007年[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink") - [人妻戦隊アイサイガーPOWERED](https://ja.wikipedia.org/wiki/人妻戦隊アイサイガーPOWERED "wikilink")
+  - 2005年[11月4日](../Page/11月4日.md "wikilink") - [人妻戦隊アイサイガー](../Page/人妻戦隊アイサイガー.md "wikilink")
+      - 2007年[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink") - [人妻戦隊アイサイガーPOWERED](../Page/人妻戦隊アイサイガーPOWERED.md "wikilink")
       - 2008年[5月30日](../Page/5月30日.md "wikilink") - 人妻戦隊アイサイガーFLASH
       - 2008年[10月31日](../Page/10月31日.md "wikilink") - 人妻戦隊アイサイガー ぱいぱいポン\! 〜地球のピンチだ、宇宙人妻魔女襲来\!〜
 

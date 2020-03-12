@@ -11,11 +11,11 @@
 
 ### 特徴
 
-これまでの全作品で[瀬之本久史](https://ja.wikipedia.org/wiki/瀬之本久史 "wikilink")が原画を担当し、シナリオは[ディーオー](../Page/ディーオー.md "wikilink")や[シーディーブロス](https://ja.wikipedia.org/wiki/シーディーブロス "wikilink")などの[雄図グループ](https://ja.wikipedia.org/wiki/雄図グループ "wikilink")のブランドで活躍したシナリオ制作チームさるさるに所属する[北側寒囲](../Page/北側寒囲.md "wikilink")と[長谷川藍](https://ja.wikipedia.org/wiki/長谷川藍 "wikilink")が交互に担当している。
+これまでの全作品で[瀬之本久史](../Page/瀬之本久史.md "wikilink")が原画を担当し、シナリオは[ディーオー](../Page/ディーオー.md "wikilink")や[シーディーブロス](../Page/シーディーブロス.md "wikilink")などの[雄図グループ](https://ja.wikipedia.org/wiki/雄図グループ "wikilink")のブランドで活躍したシナリオ制作チームさるさるに所属する[北側寒囲](../Page/北側寒囲.md "wikilink")と[長谷川藍](https://ja.wikipedia.org/wiki/長谷川藍 "wikilink")が交互に担当している。
 
-声優の[青山ゆかり](https://ja.wikipedia.org/wiki/青山ゆかり "wikilink")が全作品、[松田理沙](https://ja.wikipedia.org/wiki/松田理沙 "wikilink")が『[キミの声がきこえる](https://ja.wikipedia.org/wiki/キミの声がきこえる "wikilink")』～『[Dolphin Divers](https://ja.wikipedia.org/wiki/Dolphin_Divers "wikilink")』にて出演しており、青山ゆかりが演じたキャラクターのみが出演するボイスCD『わたしの言葉を聴きなさい\!』や松田理沙が演じたキャラクターのみが出演するボイスCD『わたしの言葉を聴いてくださいっ』が制作され、それぞれ[コミックマーケット](../Page/コミックマーケット.md "wikilink")にて発売されたセットに同梱された。また、AXLの5周年記念企画の一環として2010年8月に開催されたコミックマーケット78にて『[かしましコミュニケーション](https://ja.wikipedia.org/wiki/かしましコミュニケーション "wikilink")』までの各作品におけるユーザー登録はがきのアンケート欄で1位となったヒロインのデフォルメイラストが描かれたストラップとそのヒロインが出演するボイスCDが発売されたが、1位となったヒロインは全て2人が演じたキャラクターで占められていた。
+声優の[青山ゆかり](../Page/青山ゆかり.md "wikilink")が全作品、[松田理沙](../Page/松田理沙.md "wikilink")が『[キミの声がきこえる](https://ja.wikipedia.org/wiki/キミの声がきこえる "wikilink")』～『[Dolphin Divers](https://ja.wikipedia.org/wiki/Dolphin_Divers "wikilink")』にて出演しており、青山ゆかりが演じたキャラクターのみが出演するボイスCD『わたしの言葉を聴きなさい\!』や松田理沙が演じたキャラクターのみが出演するボイスCD『わたしの言葉を聴いてくださいっ』が制作され、それぞれ[コミックマーケット](../Page/コミックマーケット.md "wikilink")にて発売されたセットに同梱された。また、AXLの5周年記念企画の一環として2010年8月に開催されたコミックマーケット78にて『[かしましコミュニケーション](https://ja.wikipedia.org/wiki/かしましコミュニケーション "wikilink")』までの各作品におけるユーザー登録はがきのアンケート欄で1位となったヒロインのデフォルメイラストが描かれたストラップとそのヒロインが出演するボイスCDが発売されたが、1位となったヒロインは全て2人が演じたキャラクターで占められていた。
 
-ゲームの発売前のカウントダウンにおいて**嘘粗筋**と呼ばれる瀬之本久史による[パロディ](https://ja.wikipedia.org/wiki/パロディ "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")がオフィシャルホームページに掲載されるのが恒例となっている。嘘粗筋はコミックマーケットにおいて発売されるフルカラー小冊子や瀬之本久史のイラスト集『瀬之本久史アートワークス』にも掲載されている。
+ゲームの発売前のカウントダウンにおいて**嘘粗筋**と呼ばれる瀬之本久史による[パロディ](../Page/パロディ.md "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")がオフィシャルホームページに掲載されるのが恒例となっている。嘘粗筋はコミックマーケットにおいて発売されるフルカラー小冊子や瀬之本久史のイラスト集『瀬之本久史アートワークス』にも掲載されている。
 
 また、[コンピュータソフトウェア倫理機構](../Page/コンピュータソフトウェア倫理機構.md "wikilink")の倫理規定に加え、独自の倫理規定がデビュー時からもうけられており、頭身の低いキャラクターデザインは認められていない\[4\]。
 
@@ -25,7 +25,7 @@
 
 :\* 2005年10月28日 - [チュートリアルサマー](https://ja.wikipedia.org/wiki/チュートリアルサマー "wikilink")（「すたじおみりすペレット」名義）
 
-:\* 2006年5月26日 - [ひだまり](https://ja.wikipedia.org/wiki/ひだまり_\(ゲーム\) "wikilink")
+:\* 2006年5月26日 - [ひだまり](../Page/ひだまり_\(ゲーム\).md "wikilink")
 
 :\* 2006年12月1日 - [キミの声がきこえる](https://ja.wikipedia.org/wiki/キミの声がきこえる "wikilink")
 
@@ -77,7 +77,7 @@
 
   - 原画
 
-:\* [瀬之本久史](https://ja.wikipedia.org/wiki/瀬之本久史 "wikilink")
+:\* [瀬之本久史](../Page/瀬之本久史.md "wikilink")
 
   - シナリオ
 
@@ -88,7 +88,7 @@
 ## 関連項目
 
   - [すたじおみりす](../Page/すたじおみりす.md "wikilink")
-  - [Witch](https://ja.wikipedia.org/wiki/Witch "wikilink")
+  - [Witch](../Page/Witch.md "wikilink")
 
 ## 脚注
 
@@ -102,7 +102,7 @@
   -
 [Category:アダルトゲームのメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:アダルトゲームのメーカー・ブランド "wikilink")
 
-1.  『月刊[メガストア](https://ja.wikipedia.org/wiki/メガストア "wikilink")』2010年4月号（[コアマガジン](https://ja.wikipedia.org/wiki/コアマガジン "wikilink")）
+1.  『月刊[メガストア](../Page/メガストア.md "wikilink")』2010年4月号（[コアマガジン](../Page/コアマガジン.md "wikilink")）
 2.
 3.
 4.

@@ -1,7 +1,7 @@
 > この記事は[Andy](https://ja.wikipedia.org/wiki/Andy)から翻訳されています。
 
 
-**Andy山本**（アンディやまもと、本名:山本Andrew康貴、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[5月17日](../Page/5月17日.md "wikilink")-）は、[ゲームソフト](../Page/ゲームソフト.md "wikilink")の[プロデューサー](../Page/プロデューサー.md "wikilink")。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")州生まれ。
+**Andy山本**（アンディやまもと、本名:山本Andrew康貴、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[5月17日](../Page/5月17日.md "wikilink")-）は、[ゲームソフト](../Page/ゲームソフト.md "wikilink")の[プロデューサー](../Page/プロデューサー.md "wikilink")。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ニューヨーク](../Page/ニューヨーク.md "wikilink")州生まれ。
 
 ## 略歴
 
@@ -9,7 +9,7 @@
 
 [2009年](../Page/2009年.md "wikilink")[7月31日](../Page/7月31日.md "wikilink")付で株式会社GAEを解雇。解雇後、[職業訓練校](https://ja.wikipedia.org/wiki/職業訓練校 "wikilink")にて[企業法務](https://ja.wikipedia.org/wiki/企業法務 "wikilink")を学ぶ。
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")5月より、株式会社[ロッソインデックス](https://ja.wikipedia.org/wiki/ロッソインデックス "wikilink")(旧[ゴンゾロッソ](https://ja.wikipedia.org/wiki/ゴンゾロッソ "wikilink"))に在籍。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")5月より、株式会社[ロッソインデックス](../Page/ロッソインデックス.md "wikilink")(旧[ゴンゾロッソ](https://ja.wikipedia.org/wiki/ゴンゾロッソ "wikilink"))に在籍。
 
 同年11月付で、[プロデューサー](../Page/プロデューサー.md "wikilink")に復帰したが、企画開発に関して引退を宣言した。
 
@@ -21,7 +21,7 @@
 
   - 「[ザ・マエストロムジーク](https://ja.wikipedia.org/wiki/ザ・マエストロムジーク "wikilink")」シリーズ
   - 「[ザ・マエストロムジーク２](https://ja.wikipedia.org/wiki/ザ・マエストロムジーク２ "wikilink")」
-  - 「[悪代官](https://ja.wikipedia.org/wiki/悪代官_\(ゲーム\) "wikilink")」シリーズ
+  - 「[悪代官](../Page/悪代官_\(ゲーム\).md "wikilink")」シリーズ
   - 「[カンブリアンQTS](https://ja.wikipedia.org/wiki/カンブリアンQTS "wikilink")」
   - 「[江戸もの](https://ja.wikipedia.org/wiki/江戸もの "wikilink")」
   - 「[超兄貴～聖なるプロテイン伝説～](https://ja.wikipedia.org/wiki/超兄貴～聖なるプロテイン伝説～ "wikilink")」

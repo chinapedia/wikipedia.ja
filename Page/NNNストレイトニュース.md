@@ -1,17 +1,17 @@
 > この記事は[NNN](https://ja.wikipedia.org/wiki/NNN)から翻訳されています。
 
 
-『**NNNストレイトニュース**』（エヌエヌエヌ ストレイトニュース、英称:*NNN STRAIGHT NEWS*）は、[2007年](../Page/2007年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")より、[日テレNEWS24](https://ja.wikipedia.org/wiki/日テレNEWS24 "wikilink")、地上波[NNN加盟フルネット](../Page/日本ニュースネットワーク.md "wikilink")28局\[1\] にて放送されている[昼](https://ja.wikipedia.org/wiki/昼 "wikilink")の[ニュース番組](../Page/報道番組.md "wikilink")。地上波NNN加盟フルネット28局では[ステレオ放送](../Page/ステレオ放送.md "wikilink")、[ハイビジョン制作](https://ja.wikipedia.org/wiki/高精細度テレビジョン放送 "wikilink")、[字幕放送を実施している](../Page/リアルタイム字幕放送.md "wikilink")。
+『**NNNストレイトニュース**』（エヌエヌエヌ ストレイトニュース、英称:*NNN STRAIGHT NEWS*）は、[2007年](../Page/2007年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")より、[日テレNEWS24](https://ja.wikipedia.org/wiki/日テレNEWS24 "wikilink")、地上波[NNN加盟フルネット](../Page/日本ニュースネットワーク.md "wikilink")28局\[1\] にて放送されている[昼](../Page/昼.md "wikilink")の[ニュース番組](../Page/報道番組.md "wikilink")。地上波NNN加盟フルネット28局では[ステレオ放送](../Page/ステレオ放送.md "wikilink")、[ハイビジョン制作](https://ja.wikipedia.org/wiki/高精細度テレビジョン放送 "wikilink")、[字幕放送を実施している](../Page/リアルタイム字幕放送.md "wikilink")。
 
 ## 概要
 
 [日本テレビは](../Page/日本テレビ放送網.md "wikilink")2007年10月1日、『**[おもいッきりイイ\!\!テレビ](../Page/おもいッきりイイ!!テレビ.md "wikilink")**』を11:55 - 13:55にスタートさせるなど平日午後枠の[改編](../Page/改編.md "wikilink")を実施。これにより、『**[NNN News D（ニュースダッシュ→ニュースD）](../Page/NNNニュースダッシュ.md "wikilink")**』も同年9月に終了し、これに代わる昼のニュース番組としてスタートした。
 
-この改編により、日本テレビを含め一部地域で11:50 - 12:00に放送されていた『**[キユーピー3分クッキング](../Page/キユーピー3分クッキング.md "wikilink")**』が11:45 - 11:55に前倒しとなったため、平日の昼のニュース番組の放送時間は前々番組の『[NNN昼のニュース](https://ja.wikipedia.org/wiki/NNN昼のニュース "wikilink")』以来14年半ぶりに11:30 - 11:45までの15分に短縮となった。
+この改編により、日本テレビを含め一部地域で11:50 - 12:00に放送されていた『**[キユーピー3分クッキング](../Page/キユーピー3分クッキング.md "wikilink")**』が11:45 - 11:55に前倒しとなったため、平日の昼のニュース番組の放送時間は前々番組の『[NNN昼のニュース](../Page/NNN昼のニュース.md "wikilink")』以来14年半ぶりに11:30 - 11:45までの15分に短縮となった。
 
 ただし、[CS放送](../Page/衛星放送.md "wikilink")・日テレNEWS24はこれまでと同じく11:30 - 12:00までの放送（11:45 - 12:00は制作局である日テレNEWS24のみの放送）。
 
-月 - 金曜日は番組開始から、前番組の『NNN News D』と同じく日テレNEWS24制作で、日テレNEWS24の他、NNN系列の[地上波](../Page/地上波.md "wikilink")各局で[サイマル放送](https://ja.wikipedia.org/wiki/サイマル放送 "wikilink")され、[BS日テレ](../Page/BS日本.md "wikilink")（2K、以下略）でも日テレNEWS24のCS再送信ネットでサイマル放送されていたが、2011年9月30日をもってBS日テレが当番組の日テレNEWS24のCS再送信ネットを打ち切り、自主編成を行う。これにより、同年10月3日以降は日テレNEWS24制作は変わらないものの、日テレNEWS24の他、NNN系列の[地上波](../Page/地上波.md "wikilink")各局でのみ最大11:45まで[サイマル放送](https://ja.wikipedia.org/wiki/サイマル放送 "wikilink")される。土・日曜日は前番組の『NNN News D』と同じく、日本テレビ制作で、NNN系列の地上波各局のみでの放送となっている。
+月 - 金曜日は番組開始から、前番組の『NNN News D』と同じく日テレNEWS24制作で、日テレNEWS24の他、NNN系列の[地上波](../Page/地上波.md "wikilink")各局で[サイマル放送](../Page/サイマル放送.md "wikilink")され、[BS日テレ](../Page/BS日本.md "wikilink")（2K、以下略）でも日テレNEWS24のCS再送信ネットでサイマル放送されていたが、2011年9月30日をもってBS日テレが当番組の日テレNEWS24のCS再送信ネットを打ち切り、自主編成を行う。これにより、同年10月3日以降は日テレNEWS24制作は変わらないものの、日テレNEWS24の他、NNN系列の[地上波](../Page/地上波.md "wikilink")各局でのみ最大11:45まで[サイマル放送](../Page/サイマル放送.md "wikilink")される。土・日曜日は前番組の『NNN News D』と同じく、日本テレビ制作で、NNN系列の地上波各局のみでの放送となっている。
 
 2012年4月2日放送分からオープニングと番組ロゴを変更。テーマ曲やジングルが変わったほか、ロゴの配色も赤一色（文字色は白）から紅白（文字色は赤）ベースに変更された。同時に音声が[フルステレオ放送に変更される](../Page/ステレオ放送.md "wikilink")。実際はこれより半年前に地上波・日テレNEWS24にてステレオ放送を開始したが、スタジオ内の音声はBGM・効果音含め[モノラル音源](https://ja.wikipedia.org/wiki/モノラル放送 "wikilink")（モノステレオ放送）で放送されていた。また系列局ローカル枠でもステレオ放送を実施している。
 
@@ -27,7 +27,7 @@
   - 地上波（日本テレビ）での放送は11:45までだが、日テレNEWS24では『NNN News D』と同じく、12:00までの放送となっている。地上波は11:43.15にいったん終わるが、引き続き日テレNEWS24の独自のパートを放送していたが、後述の通り2017年7月18日をもって、11:45以降の地上波非サイマルパートは終了した。
   - 11:45までは関東地上波日本テレビでも日テレNEWSと同じ内容が放送されているが、ニュースの内容によっては権利映像（主に海外からのスポーツニュースや一部芸能人関連の報道）が含まれているため、日テレNEWS24ではその人物（スポーツ選手など）の静止画、または「日テレNEWS24」のロゴが入ったお断り画面の静止画が入る場合があり、権利映像の放送時間が長い場合は日テレNEWS24のスタジオからの放送に差し替える場合もあった。また、関東地方の天気予報も差し替えずに放送している。
   - かつてのCS再送信ネット局であるBS日テレでは、地上波同時放送の11:45まで[リアルタイム字幕放送](../Page/リアルタイム字幕放送.md "wikilink")を実施していた（地上波での字幕はすべて画面上に表示される。BS日テレでの字幕はすべて画面上に表示された。BS日テレでは静止画像差し替えの場合でも字幕放送の表示はそのまま続けられた）。
-  - 2008年[9月29日](../Page/9月29日.md "wikilink")（月曜日）から、番組ラストの気象情報は[杉江勇次](https://ja.wikipedia.org/wiki/杉江勇次 "wikilink")（[気象予報士](../Page/気象予報士.md "wikilink")）の予報に代わり、「**日テレNEWS24**」で流れるものに変更された。そのため、実質の放送時間は11:56までとなる。
+  - 2008年[9月29日](../Page/9月29日.md "wikilink")（月曜日）から、番組ラストの気象情報は[杉江勇次](../Page/杉江勇次.md "wikilink")（[気象予報士](../Page/気象予報士.md "wikilink")）の予報に代わり、「**日テレNEWS24**」で流れるものに変更された。そのため、実質の放送時間は11:56までとなる。
   - 2017年7月18日を持って11:45以降の地上波非サイマルパートを終了し、地上波放送分を編集して再放送している。
   - インターネット配信版はCS放送とは異なり、関東地上波日本テレビが飛び降りた後の11時45分以降の部分のみ、CS放送と同時配信を行っている。
   - スポーツ番組（プロ野球・[千葉ロッテマリーンズ](../Page/千葉ロッテマリーンズ.md "wikilink")の[キャンプ中継など](../Page/キャンプ_\(日本プロ野球\).md "wikilink")）の編成に伴い、CS放送のみ番組途中での飛び乗り（飛び降り）または休止となる場合がある\[4\]。
@@ -98,8 +98,8 @@
 <tr class="even">
 <td><p>2007.10.01</p></td>
 <td><p>2008.09.28</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/丸岡いずみ" title="wikilink">丸岡いずみ</a><br />
-<a href="https://ja.wikipedia.org/wiki/桝太一" title="wikilink">桝太一</a></p></td>
+<td><p><a href="../Page/丸岡いずみ.md" title="wikilink">丸岡いずみ</a><br />
+<a href="../Page/桝太一.md" title="wikilink">桝太一</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2008.09.29</p></td>
@@ -114,13 +114,13 @@
 <tr class="odd">
 <td><p>2009.09.28</p></td>
 <td><p>2010.03.28</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山下美穂子" title="wikilink">山下美穂子</a><sup>7・11</sup></p></td>
+<td><p><a href="../Page/山下美穂子.md" title="wikilink">山下美穂子</a><sup>7・11</sup></p></td>
 </tr>
 <tr class="even">
 <td><p>2010.03.29</p></td>
 <td><p>2010.09.26</p></td>
 <td><p><a href="../Page/豊田順子.md" title="wikilink">豊田順子</a><sup>5</sup><br />
-<a href="https://ja.wikipedia.org/wiki/矢島学" title="wikilink">矢島学</a><sup>8</sup></p></td>
+<a href="../Page/矢島学.md" title="wikilink">矢島学</a><sup>8</sup></p></td>
 </tr>
 <tr class="odd">
 <td><p>2010.09.27</p></td>
@@ -164,7 +164,7 @@
 <li><sup>3</sup>　『NNN News D』から続投。</li>
 <li><sup>4</sup>　地上波非サイマルパートのみ出演。地上波サイマルパートでは関東の天気を丸岡が担当。</li>
 <li><sup>5</sup>　同日<a href="https://ja.wikipedia.org/wiki/日本テレビ系列平日昼の情報番組枠" title="wikilink">昼の情報番組ニュースコーナーを兼務</a>。（2016年4月からは月 - 木曜日のみ）。</li>
-<li><sup>6</sup>　『<a href="https://ja.wikipedia.org/wiki/情報ライブ_ミヤネ屋" title="wikilink">情報ライブ ミヤネ屋</a>』ニュースコーナーを兼務。丸岡は『<a href="https://ja.wikipedia.org/wiki/アナ☆パラ" title="wikilink">アナ☆パラ</a>』ニュースコーナーも兼務。</li>
+<li><sup>6</sup>　『<a href="../Page/情報ライブ_ミヤネ屋.md" title="wikilink">情報ライブ ミヤネ屋</a>』ニュースコーナーを兼務。丸岡は『<a href="../Page/アナ☆パラ.md" title="wikilink">アナ☆パラ</a>』ニュースコーナーも兼務。</li>
 <li><sup>7</sup>　『<a href="../Page/NNNニュースサンデー.md" title="wikilink">NNNニュースサンデー</a>』を兼務。　</li>
 </ul>
 <p>* <sup>8</sup>　森の平日メインキャスター着任以降はトップクレジット扱い。2014年4月から2016年12月まで金曜日の『[[スッキリ_(テレビ番組)|スッキリ</p></td>
@@ -190,8 +190,8 @@
 
 ### 平日マーケットキャスター
 
-  - [加藤亜希子](https://ja.wikipedia.org/wiki/加藤亜希子 "wikilink")（[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")、月 - 水曜）
-  - [生駒夕紀子](https://ja.wikipedia.org/wiki/生駒夕紀子 "wikilink")（フリーアナウンサー、木・金曜）
+  - [加藤亜希子](../Page/加藤亜希子.md "wikilink")（[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")、月 - 水曜）
+  - [生駒夕紀子](../Page/生駒夕紀子.md "wikilink")（フリーアナウンサー、木・金曜）
       - 夏季休暇時には [スノー沙理](https://ja.wikipedia.org/wiki/スノー沙理 "wikilink")、[巽直啓](https://ja.wikipedia.org/wiki/巽直啓 "wikilink")（日本テレビ報道局）などが代役を務めた。
 
 ## ネット局
@@ -238,7 +238,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/札幌テレビ放送" title="wikilink">札幌テレビ</a>（STV）</p></td>
+<td><p><a href="../Page/札幌テレビ放送.md" title="wikilink">札幌テレビ</a>（STV）</p></td>
 <td><p>11:29 - 11:55</p></td>
 <td><p>11:30 - 11:40</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/STVストレイトニュース" title="wikilink">STVストレイトニュース</a>（平日）<br />
@@ -249,7 +249,7 @@ NNNストレイトニュース（土・日）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/青森県" title="wikilink">青森県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/青森放送" title="wikilink">青森放送</a>（RAB）</p></td>
 <td><p>11:30 - 11:39</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東奥日報ニュース" title="wikilink">東奥日報ニュース</a></p></td>
+<td><p><a href="../Page/東奥日報ニュース.md" title="wikilink">東奥日報ニュース</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -278,7 +278,7 @@ NNNストレイトニュース（土・日）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/山形県" title="wikilink">山形県</a></p></td>
+<td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
 <td><p><a href="../Page/山形放送.md" title="wikilink">山形放送</a>（YBC）</p></td>
 <td><p>11:25 - 11:40</p></td>
 <td><p>11:30 - 11:45</p></td>
@@ -331,7 +331,7 @@ NNNストレイトニュース（土・日）</p></td>
 <td><p>11:30 - 11:39</p></td>
 <td><p>11:25 - 11:33</p></td>
 <td><p>11:30 - 11:38</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/KNBニュース" title="wikilink">KNBニュース</a>・天気</p></td>
+<td><p><a href="../Page/KNBニュース.md" title="wikilink">KNBニュース</a>・天気</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/石川県" title="wikilink">石川県</a></p></td>
@@ -339,7 +339,7 @@ NNNストレイトニュース（土・日）</p></td>
 <td><p>11:30 - 11:40</p></td>
 <td><p>11:25 - 11:35</p></td>
 <td><p>11:30 - 11:36</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/北國新聞ニュース" title="wikilink">北國新聞ニュース</a></p></td>
+<td><p><a href="../Page/北國新聞ニュース.md" title="wikilink">北國新聞ニュース</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/福井県.md" title="wikilink">福井県</a></p></td>
@@ -347,7 +347,7 @@ NNNストレイトニュース（土・日）</p></td>
 <td><p>日本テレビ系列<br />
 <a href="../Page/オールニッポン・ニュースネットワーク.md" title="wikilink">テレビ朝日系列</a></p></td>
 <td><p>11:30 - 11:40</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FBCニュース" title="wikilink">FBCニュース</a><br />
+<td><p><a href="../Page/FBCニュース.md" title="wikilink">FBCニュース</a><br />
 （表記はFBC・NNNストレイトニュース）</p></td>
 <td></td>
 </tr>
@@ -358,7 +358,7 @@ NNNストレイトニュース（土・日）</p></td>
 <td><p>11:25 - 11:55</p></td>
 <td><p>11:30 - 11:55</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ストライク!" title="wikilink">ストライク!</a>（平日）<br />
-<a href="https://ja.wikipedia.org/wiki/NNNストレイトニュース_(中京テレビ)" title="wikilink">NNNストレイトニュース</a>（土）<br />
+<a href="../Page/NNNストレイトニュース_(中京テレビ).md" title="wikilink">NNNストレイトニュース</a>（土）<br />
 <a href="https://ja.wikipedia.org/wiki/前略、大徳さん" title="wikilink">前略、大徳さん</a>（日）</p></td>
 </tr>
 <tr class="odd">
@@ -389,7 +389,7 @@ NNNストレイトニュース（土・日）</p></td>
 <tr class="even">
 <td><p><a href="../Page/山口県.md" title="wikilink">山口県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/山口放送" title="wikilink">山口放送</a>（KRY）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/KRYニュース" title="wikilink">KRYニュース</a></p></td>
+<td><p><a href="../Page/KRYニュース.md" title="wikilink">KRYニュース</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -398,12 +398,12 @@ NNNストレイトニュース（土・日）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/徳島県" title="wikilink">徳島県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/四国放送" title="wikilink">四国放送</a>（JRT）</p></td>
 <td><p>11:30 - 11:40</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/徳島新聞ニュース" title="wikilink">徳島新聞ニュース</a></p></td>
+<td><p><a href="../Page/徳島新聞ニュース.md" title="wikilink">徳島新聞ニュース</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/岡山県・香川県の放送" title="wikilink">香川県<br />
+<td><p><a href="../Page/岡山県・香川県の放送.md" title="wikilink">香川県<br />
 岡山県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/西日本放送テレビ" title="wikilink">西日本放送</a>（RNC）</p></td>
 <td><p>11:30 - 11:45</p></td>
@@ -426,10 +426,10 @@ NNNストレイトニュース（土・日）</p></td>
 <td><p>11:25 - 11:35</p></td>
 <td></td>
 <td><p>NNNストレイトニュース（日曜以外）<br />
-<a href="https://ja.wikipedia.org/wiki/RKCニュース" title="wikilink">RKCニュース</a>（日曜のみ）</p></td>
+<a href="../Page/RKCニュース.md" title="wikilink">RKCニュース</a>（日曜のみ）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/福岡放送.md" title="wikilink">福岡放送</a>（FBS）</p></td>
 <td><p>11:30 - 11:45</p></td>
 <td><p>11:30 - 11:40</p></td>
@@ -438,7 +438,7 @@ NNNストレイトニュース（土・日）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/長崎県.md" title="wikilink">長崎県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長崎国際テレビ" title="wikilink">長崎国際テレビ</a>（NIB）</p></td>
+<td><p><a href="../Page/長崎国際テレビ.md" title="wikilink">長崎国際テレビ</a>（NIB）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -454,7 +454,7 @@ NNN ストレイトニュース（土・日）</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/鹿児島県" title="wikilink">鹿児島県</a></p></td>
+<td><p><a href="../Page/鹿児島県.md" title="wikilink">鹿児島県</a></p></td>
 <td><p><a href="../Page/鹿児島讀賣テレビ.md" title="wikilink">鹿児島読売テレビ</a>（KYT）</p></td>
 <td><p>11:30 - 11:45</p></td>
 <td><p>11:30 - 11:45</p></td>
@@ -517,14 +517,14 @@ NNN ストレイトニュース（土・日）</p></td>
   - NOTTV 4では2014年7月1日CS再送信ネット開始。
   - 佐賀県・大分県・宮崎県・沖縄県は平日版に限り、基本的には日テレNEWS24（かつて存在した同局のCS再送信局を含む。）でCS放送では全編視聴可能である（同局のインターネット配信版については後述）。
   - [テレビ宮崎](../Page/テレビ宮崎.md "wikilink")では月 - 金曜日はテレビ朝日制作「[ワイド\!スクランブル](../Page/ワイド!スクランブル.md "wikilink")・第1部」（実質「ANNニュース」のみ）の部分ネットを、土・日曜日は昼の「ANNニュース」をネットしているため、本番組をネットしていないが、福井放送では月 - 金曜日は当番組とテレビ朝日制作「ワイド\!スクランブル・第1部」（実質「ANNニュース」のみ、開始から途中まで）の部分ネットを、土・日曜日は当番組と昼の「ANNニュース」をネットしている\[12\]。
-  - 平日版制作局のインターネット配信版について、本番組の配信は関東地上波日本テレビが飛び降りた後の11時45分から（地上波非サイマルパート）のみ行っている（関東地上波で放送している時間帯の放送の同時配信は行っていない）。これは本番組平日版制作局と同じ制作局が制作している『[Oha\!4 NEWS LIVE](https://ja.wikipedia.org/wiki/Oha!4_NEWS_LIVE "wikilink")』についても関東地上波日本テレビでは番組全編をネット受けしているため、本番組平日版の11時45分までと同様の措置がとられている。
+  - 平日版制作局のインターネット配信版について、本番組の配信は関東地上波日本テレビが飛び降りた後の11時45分から（地上波非サイマルパート）のみ行っている（関東地上波で放送している時間帯の放送の同時配信は行っていない）。これは本番組平日版制作局と同じ制作局が制作している『[Oha\!4 NEWS LIVE](../Page/Oha!4_NEWS_LIVE.md "wikilink")』についても関東地上波日本テレビでは番組全編をネット受けしているため、本番組平日版の11時45分までと同様の措置がとられている。
 
 ### ローカルニュース枠
 
-  - 中京テレビの『[NNNストレイトニュース](https://ja.wikipedia.org/wiki/NNNストレイトニュース_\(中京テレビ\) "wikilink")』のように[ローカル枠](https://ja.wikipedia.org/wiki/ローカル枠 "wikilink")を11時55分までに拡大する局もある（主に『キユーピー3分クッキング』をネットしていない局が該当）。中京テレビは『NNN News D』時代、日本テレビ側でのローカル飛び降りポイントで東京からのネットを打ち切っていたため、『NNNストレイトニュース』になって当初は東京からの枠も拡大された（その後、2009年4月 - 2013年3月までは11:38頃に飛び降り、2013年4月以降は、金曜日を除いて再び東京からの枠が拡大）。2018年4月現在は『[ストライク\!](https://ja.wikipedia.org/wiki/ストライク! "wikilink")』に内包している。
+  - 中京テレビの『[NNNストレイトニュース](../Page/NNNストレイトニュース_\(中京テレビ\).md "wikilink")』のように[ローカル枠](https://ja.wikipedia.org/wiki/ローカル枠 "wikilink")を11時55分までに拡大する局もある（主に『キユーピー3分クッキング』をネットしていない局が該当）。中京テレビは『NNN News D』時代、日本テレビ側でのローカル飛び降りポイントで東京からのネットを打ち切っていたため、『NNNストレイトニュース』になって当初は東京からの枠も拡大された（その後、2009年4月 - 2013年3月までは11:38頃に飛び降り、2013年4月以降は、金曜日を除いて再び東京からの枠が拡大）。2018年4月現在は『[ストライク\!](https://ja.wikipedia.org/wiki/ストライク! "wikilink")』に内包している。
   - 札幌テレビも2016年9月まで「どさんこワイドひる」のコーナーとして11:38.50に飛び降りていたが、2016年10月からは「STVストレイトニュース」として11:42.15の飛び降り点で飛び降りるよう変更された。
   - ローカル枠を拡大した局では前枠『NNN News D』と同じく、番組後半の数分間はローカル枠となるが、ミヤギテレビの『ミヤギテレビストレイトニュース』のように全国枠と同じ題名での別枠『（放送局呼称）ストレイトニュース』と題して放送する局と、別タイトルで放送する局がある。
-  - 日テレNEWS24では、『NNN News D』と同様に、読売テレビのローカル枠を時差放送している。また、この番組からは、中京テレビのローカル枠も時差放送するようになった。ちなみに両局のローカルニュースはまれに『[ヒルナンデス\!](https://ja.wikipedia.org/wiki/ヒルナンデス! "wikilink")』『[情報ライブ ミヤネ屋](https://ja.wikipedia.org/wiki/情報ライブ_ミヤネ屋 "wikilink")』のニュースコーナーでも映像が使われている（右上の見出しスーパーは『ヒルナンデス\!』『ミヤネ屋』独自のものに差し替えられる）。本番組の再放送枠である『ストレイトニュース+』（2017年3月まで）→『Lunch Update』（2017年4月から）では、これに加えてテレビ岩手・ミヤギテレビ・福島中央テレビのローカル枠も放送する。前述の通り、2017年7月18日で日テレNEWS24の11時45分以降の独自枠が終了したため、2017年10月から本番組の後に放送する『[the SOCIAL](https://ja.wikipedia.org/wiki/the_SOCIAL "wikilink")』で読売テレビ及び中京テレビのローカル枠を数項目放送している。
+  - 日テレNEWS24では、『NNN News D』と同様に、読売テレビのローカル枠を時差放送している。また、この番組からは、中京テレビのローカル枠も時差放送するようになった。ちなみに両局のローカルニュースはまれに『[ヒルナンデス\!](https://ja.wikipedia.org/wiki/ヒルナンデス! "wikilink")』『[情報ライブ ミヤネ屋](../Page/情報ライブ_ミヤネ屋.md "wikilink")』のニュースコーナーでも映像が使われている（右上の見出しスーパーは『ヒルナンデス\!』『ミヤネ屋』独自のものに差し替えられる）。本番組の再放送枠である『ストレイトニュース+』（2017年3月まで）→『Lunch Update』（2017年4月から）では、これに加えてテレビ岩手・ミヤギテレビ・福島中央テレビのローカル枠も放送する。前述の通り、2017年7月18日で日テレNEWS24の11時45分以降の独自枠が終了したため、2017年10月から本番組の後に放送する『[the SOCIAL](https://ja.wikipedia.org/wiki/the_SOCIAL "wikilink")』で読売テレビ及び中京テレビのローカル枠を数項目放送している。
   - 南海放送は2011年12月29日・30日の平日バージョンにて11:40からのローカル枠を通常はネットしないが、年末体制のためにローカル枠もネットした。また、12月31日の土曜バージョンもローカル枠を通常はネットしないが、年末体制のためにネットした（すべて関東ローカルの天気を含む）。
   - 青森放送は『[東京マラソン](https://ja.wikipedia.org/wiki/東京マラソン "wikilink")』（日本テレビが中継を担当する年）及び『[さいたま国際マラソン](https://ja.wikipedia.org/wiki/さいたま国際マラソン "wikilink")』の開催日 と『24時間テレビ』放送日の放送は、通常は放送しない関東ローカル枠（ニュースと天気）\[13\] をそのまま放送する。なお、青森ローカルニュースは、マラソン開催日は『東奥日報ニュース』として直後の12:00から、24時間テレビ放送日は『RABニュース』として直後の11:27からそれぞれ放送。また、通常土日の該当枠は、独立番組で放送しているため、前番組『NNN News D』に引き続き、当日夜に放送される番組の番宣や自社関係のCMに差し替えとなっている。また、[2014年](../Page/2014年.md "wikilink")[1月5日](../Page/1月5日.md "wikilink")日曜日も、同様に本番組が11:50から放送されたが、ローカルニュースである『東奥日報ニュース』は、直前の11:45から放送された。
   - 山形放送は『ヤマザワカップ 山形県女子駅伝競走大会』の開催日（毎年11月の第3あるいは第4日曜日）\[14\] は、5分間全国ニュースを放送しローカル枠は放送しない。また左下画面に駅伝を放送し、右上に画面に全国ニュースを放送する。
@@ -536,7 +536,7 @@ NNN ストレイトニュース（土・日）</p></td>
 
 ### 東日本大震災発生時の対応
 
-  - [2011年](../Page/2011年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink")に発生した[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")に伴う、報道体制のため[3月12日](../Page/3月12日.md "wikilink")、[3月13日](../Page/3月13日.md "wikilink")の週末版および[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")の平日版の放送は休止し、「NNN[報道特別番組](https://ja.wikipedia.org/wiki/報道特別番組 "wikilink")」が放送された（日テレNEWS24でも放送。BS日テレでも日テレNEWS24のCS再送信ネットで放送）。
+  - [2011年](../Page/2011年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink")に発生した[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")に伴う、報道体制のため[3月12日](../Page/3月12日.md "wikilink")、[3月13日](../Page/3月13日.md "wikilink")の週末版および[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")の平日版の放送は休止し、「NNN[報道特別番組](../Page/報道特別番組.md "wikilink")」が放送された（日テレNEWS24でも放送。BS日テレでも日テレNEWS24のCS再送信ネットで放送）。
   - 平日版については、3月14日および[3月16日](../Page/3月16日.md "wikilink")から[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")まで『[キユーピー3分クッキング](../Page/キユーピー3分クッキング.md "wikilink")』が放送休止となったため、[日本テレビなど](../Page/日本テレビ放送網.md "wikilink")『キユーピー3分クッキング』をネットする[地上波系列局が](../Page/日本ニュースネットワーク.md "wikilink")11:55まで当番組を延長した。\[15\]
   - なお、地上波系列局は、通常通り11:38頃に飛び降り、ローカルニュースを挟んで、11:45頃に再び日本テレビへ飛び乗りという形となった。また、地上波では11:55から『[DON\!](https://ja.wikipedia.org/wiki/DON! "wikilink")』を放送するため、11:45からの日テレNEWS24、BS日テレのみのパートのタイムテーブルが地上波の飛び乗り、飛び降りに配慮した形となっていた。[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")は通常通り『[ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")』をネット受けした。\[16\]
   - 日テレNEWS24、BS日テレのみのパートで行っている[中京テレビ](../Page/中京テレビ放送.md "wikilink")、[読売テレビのローカル枠時差放送は](../Page/讀賣テレビ放送.md "wikilink")、3月15日以降休止し、代わりに、被災地のきょうの状況として、[福島中央テレビ](../Page/福島中央テレビ.md "wikilink")、[ミヤギテレビ](../Page/宮城テレビ放送.md "wikilink")、[テレビ岩手](../Page/テレビ岩手.md "wikilink")のローカル枠の時差放送が行われている（日テレNEWS24の昼間から夕方のニュース番組内でも放送される）。なお、読売テレビ・中京テレビのローカル枠時差放送については再開されたが、札幌テレビと福岡放送のローカル枠の時差放送は、震災を機に廃止された。
@@ -562,10 +562,10 @@ NNN ストレイトニュース（土・日）</p></td>
 ## 関連項目
 
   - [日本ニュースネットワーク](../Page/日本ニュースネットワーク.md "wikilink")
-  - [NNNニュース](https://ja.wikipedia.org/wiki/NNNニュース "wikilink")
+  - [NNNニュース](../Page/NNNニュース.md "wikilink")
   - [日テレNEWS24](https://ja.wikipedia.org/wiki/日テレNEWS24 "wikilink")
   - [BS日テレ](../Page/BS日本.md "wikilink")
-  - [久保伸太郎](https://ja.wikipedia.org/wiki/久保伸太郎 "wikilink")（放送開始時の日テレ社長）
+  - [久保伸太郎](../Page/久保伸太郎.md "wikilink")（放送開始時の日テレ社長）
 
 ## 外部リンク
 
@@ -589,6 +589,6 @@ NNN ストレイトニュース（土・日）</p></td>
 13. 「東京マラソン」開催日と「さいたま国際マラソン」開催日は、「日テレNEWS24」の5秒スポットもそのまま放送された。2016年以降の東京マラソン開催日は、らぶりんの5秒スポットが流れる。
 14. <http://yamagata-np.jp/w_ekiden/>
 15. 日本テレビ他一部局によっては、延長部分は『ストレイトニュース第2部』と表記。ちなみに、3月14日も『キユーピー3分クッキング』がNNN報道特別番組のため休止となっており、3月15日はノンスポンサーで『3分クッキング』（3月12日の振替分）を放送した。
-16. 通常、日テレNEWS24、BS日テレのみのパートは通常、気象情報終了まで[CMなしで放送されるが](https://ja.wikipedia.org/wiki/コマーシャルメッセージ "wikilink")、途中にCMを2回挿入し、これが事実上の地上波の飛び乗り、飛び降りポイントとなっていた。
+16. 通常、日テレNEWS24、BS日テレのみのパートは通常、気象情報終了まで[CMなしで放送されるが](../Page/コマーシャルメッセージ.md "wikilink")、途中にCMを2回挿入し、これが事実上の地上波の飛び乗り、飛び降りポイントとなっていた。
 17. <http://www.ntv.co.jp/55/cd.html#cd09>
 18. <http://www.nash.jp/fum/collections/collection_result.php?search_kind=collection&series_no=1&cd_no=NSF-426>

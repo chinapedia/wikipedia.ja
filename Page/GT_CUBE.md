@@ -1,15 +1,15 @@
 > この記事は[GT CUBE](https://ja.wikipedia.org/wiki/GT_CUBE)から翻訳されています。
 
 
-**GT CUBE**（じーてぃーきゅーぶ）は[エム・ティー・オー](https://ja.wikipedia.org/wiki/エム・ティー・オー "wikilink")が[2003年](../Page/2003年.md "wikilink")[6月20日](../Page/6月20日.md "wikilink")に発売した、[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")向けの[レースゲーム](../Page/レースゲーム.md "wikilink")である。標準小売価格6,800円。同ハード初の実車レースゲームである。なお、実質的なゲームキューブの後継機として発売された[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")にて発売されている、**GT pro series**は本作をアレンジし、発売されたものである。
+**GT CUBE**（じーてぃーきゅーぶ）は[エム・ティー・オー](../Page/エム・ティー・オー.md "wikilink")が[2003年](../Page/2003年.md "wikilink")[6月20日](../Page/6月20日.md "wikilink")に発売した、[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")向けの[レースゲーム](../Page/レースゲーム.md "wikilink")である。標準小売価格6,800円。同ハード初の実車レースゲームである。なお、実質的なゲームキューブの後継機として発売された[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")にて発売されている、**GT pro series**は本作をアレンジし、発売されたものである。
 
 ## 特徴
 
-本作の一番の特徴は『[ゼルダの伝説 風のタクト](https://ja.wikipedia.org/wiki/ゼルダの伝説_風のタクト "wikilink")』でも使用された表現方法「[トゥーンレンダリング](https://ja.wikipedia.org/wiki/トゥーンレンダリング "wikilink")」を採用したことである。これによって[リッジレーサーシリーズ](https://ja.wikipedia.org/wiki/リッジレーサーシリーズ "wikilink")や[グランツーリスモシリーズ](../Page/グランツーリスモシリーズ.md "wikilink")などとは異なったグラフィックになっており、リアル志向のレースゲームとの差別化を図り、今までに無い世界観を表現した。
+本作の一番の特徴は『[ゼルダの伝説 風のタクト](https://ja.wikipedia.org/wiki/ゼルダの伝説_風のタクト "wikilink")』でも使用された表現方法「[トゥーンレンダリング](../Page/トゥーンレンダリング.md "wikilink")」を採用したことである。これによって[リッジレーサーシリーズ](../Page/リッジレーサーシリーズ.md "wikilink")や[グランツーリスモシリーズ](../Page/グランツーリスモシリーズ.md "wikilink")などとは異なったグラフィックになっており、リアル志向のレースゲームとの差別化を図り、今までに無い世界観を表現した。
 
 それに並ぶもう一つの大きな特徴がグリップセッティングの選択で、本作は細かいセッティングについては不可能となっているものの、車種選択時にグリップ力が高い「RACING」か容易にドリフトが可能な（もともとドリフトは誘発しやすい仕様になっているのだが）｢DRIFT｣セッティング下のどちらかを選択することが可能である。
 
-それ以外にも、同社より発売された『[アドバンス ジーティー2](https://ja.wikipedia.org/wiki/アドバンス_ジーティー2 "wikilink")』から引き継いだゲームシステムやモードなどが数多く見られる。 登場メーカーは国内10社（トヨタ、日産、ホンダ、マツダ、三菱、スバル、スズキ、ダイハツ、ASL,光岡）で、レースゲームに数多く登場する[日産・スカイラインGT-R](https://ja.wikipedia.org/wiki/日産・スカイラインGT-R "wikilink")や[スバル・インプレッサ](../Page/スバル・インプレッサ.md "wikilink")に代表される[スポーツカー](../Page/スポーツカー.md "wikilink")から、[トヨタ・ヴィッツ](https://ja.wikipedia.org/wiki/トヨタ・ヴィッツ "wikilink")などの[コンパクトカー](https://ja.wikipedia.org/wiki/コンパクトカー "wikilink")、更にはあまりレースゲームには収録されなかった[ミニバン](../Page/ミニバン.md "wikilink")や[SUV](https://ja.wikipedia.org/wiki/SUV "wikilink")までが収録されている。
+それ以外にも、同社より発売された『[アドバンス ジーティー2](https://ja.wikipedia.org/wiki/アドバンス_ジーティー2 "wikilink")』から引き継いだゲームシステムやモードなどが数多く見られる。 登場メーカーは国内10社（トヨタ、日産、ホンダ、マツダ、三菱、スバル、スズキ、ダイハツ、ASL,光岡）で、レースゲームに数多く登場する[日産・スカイラインGT-R](../Page/日産・スカイラインGT-R.md "wikilink")や[スバル・インプレッサ](../Page/スバル・インプレッサ.md "wikilink")に代表される[スポーツカー](../Page/スポーツカー.md "wikilink")から、[トヨタ・ヴィッツ](../Page/トヨタ・ヴィッツ.md "wikilink")などの[コンパクトカー](../Page/コンパクトカー.md "wikilink")、更にはあまりレースゲームには収録されなかった[ミニバン](../Page/ミニバン.md "wikilink")や[SUV](https://ja.wikipedia.org/wiki/SUV "wikilink")までが収録されている。
 
 ## モード
 

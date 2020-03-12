@@ -1,13 +1,13 @@
 > この記事は[IBAN](https://ja.wikipedia.org/wiki/IBAN)から翻訳されています。
 
 
-[IBANMap-World6.svg](https://ja.wikipedia.org/wiki/File:IBANMap-World6.svg "fig:IBANMap-World6.svg") **IBANコード**（）とは、[銀行口座](https://ja.wikipedia.org/wiki/銀行口座 "wikilink")について、所在国、支店、口座番号を特定するための国際標準である。欧州銀行規格委員会により採択された後、ISO 13616:1997として規格化され、ISO 13616:2003が最新の版である。2008年1月現在では欧州を中心とする約41か国で使用されている。IBANの登録機関は[国際銀行間通信協会](https://ja.wikipedia.org/wiki/国際銀行間通信協会 "wikilink")(SWIFT)であり、登録簿の内容は[SWIFTのウェブサイト](http://www.swift.com/index.cfm?item_id=61332)で確認できる。
+[IBANMap-World6.svg](https://ja.wikipedia.org/wiki/File:IBANMap-World6.svg "fig:IBANMap-World6.svg") **IBANコード**（）とは、[銀行口座](https://ja.wikipedia.org/wiki/銀行口座 "wikilink")について、所在国、支店、口座番号を特定するための国際標準である。欧州銀行規格委員会により採択された後、ISO 13616:1997として規格化され、ISO 13616:2003が最新の版である。2008年1月現在では欧州を中心とする約41か国で使用されている。IBANの登録機関は[国際銀行間通信協会](../Page/国際銀行間通信協会.md "wikilink")(SWIFT)であり、登録簿の内容は[SWIFTのウェブサイト](http://www.swift.com/index.cfm?item_id=61332)で確認できる。
 
-国によって銀行口座番号の規格が異なるため、国際送金には国内送金と比較して困難が多い。IBANは[欧州連合](https://ja.wikipedia.org/wiki/欧州連合 "wikilink")内での国際送金を円滑化するため開発された規格であり、IBAN採用国間での[送金](https://ja.wikipedia.org/wiki/送金 "wikilink")においてはIBANコードが使用される。日本などからIBAN採用国あてに送金する際にもIBANコードおよび[BICコードが必須となることが多いので](https://ja.wikipedia.org/wiki/ISO_9362 "wikilink")、前もって受取人にこれらのコードを確認する必要がある。なお、国内送金では従来の口座番号をそのまま使用している国もある。
+国によって銀行口座番号の規格が異なるため、国際送金には国内送金と比較して困難が多い。IBANは[欧州連合](https://ja.wikipedia.org/wiki/欧州連合 "wikilink")内での国際送金を円滑化するため開発された規格であり、IBAN採用国間での[送金](https://ja.wikipedia.org/wiki/送金 "wikilink")においてはIBANコードが使用される。日本などからIBAN採用国あてに送金する際にもIBANコードおよび[BICコードが必須となることが多いので](../Page/ISO_9362.md "wikilink")、前もって受取人にこれらのコードを確認する必要がある。なお、国内送金では従来の口座番号をそのまま使用している国もある。
 
 ## 構造
 
-IBANは、最大34文字のアルファベット・数字からなる。最初の2文字は[ISO 3166](../Page/ISO_3166.md "wikilink")-1 アルファベット2文字国名コードであり、次の2文字は[チェックディジット](https://ja.wikipedia.org/wiki/チェックディジット "wikilink")である（以下の例ではkkとして示す）。その後の部分（最大30文字）は国内の銀行口座番号であり、BBAN（Basic Bank Account Number）と呼ばれる。BBANの書式は国によって異なるが、その文字数は国ごとに決められている。
+IBANは、最大34文字のアルファベット・数字からなる。最初の2文字は[ISO 3166](../Page/ISO_3166.md "wikilink")-1 アルファベット2文字国名コードであり、次の2文字は[チェックディジット](../Page/チェックディジット.md "wikilink")である（以下の例ではkkとして示す）。その後の部分（最大30文字）は国内の銀行口座番号であり、BBAN（Basic Bank Account Number）と呼ばれる。BBANの書式は国によって異なるが、その文字数は国ごとに決められている。
 
   -
     {| class="wikitable"
@@ -139,7 +139,7 @@ IBANは電子的に記録する際は空白を含まないが、印刷時には4
 
 <!-- end list -->
 
-  - [フィンランド](https://ja.wikipedia.org/wiki/フィンランド "wikilink") (18) 書式: FIkk BBBB BBCC CCCC CK
+  - [フィンランド](../Page/フィンランド.md "wikilink") (18) 書式: FIkk BBBB BBCC CCCC CK
 
 <!-- end list -->
 
@@ -337,7 +337,7 @@ IBANは電子的に記録する際は空白を含まないが、印刷時には4
 
 <!-- end list -->
 
-  - [モンテネグロ](https://ja.wikipedia.org/wiki/モンテネグロ "wikilink") (22) 書式: MEkk BBBC CCCC CCCC CCCC KK
+  - [モンテネグロ](../Page/モンテネグロ.md "wikilink") (22) 書式: MEkk BBBC CCCC CCCC CCCC KK
 
 <!-- end list -->
 
@@ -410,7 +410,7 @@ IBANは電子的に記録する際は空白を含まないが、印刷時には4
   -
 
       -
-        B = 銀行コード, C = 支店番号・口座番号（銀行によっては[ISO 4217通貨コードを含むことがある](https://ja.wikipedia.org/wiki/ISO_4217 "wikilink")）
+        B = 銀行コード, C = 支店番号・口座番号（銀行によっては[ISO 4217通貨コードを含むことがある](../Page/ISO_4217.md "wikilink")）
 
 <!-- end list -->
 
@@ -509,7 +509,7 @@ IBANは電子的に記録する際は空白を含まないが、印刷時には4
   -
 
       -
-        B = 銀行コード（数字）, Rは予約桁で0に固定, C = 支店・口座番号。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")9月1日導入。
+        B = 銀行コード（数字）, Rは予約桁で0に固定, C = 支店・口座番号。[2005年](../Page/2005年.md "wikilink")9月1日導入。
 
 <!-- end list -->
 
@@ -525,7 +525,7 @@ IBANは電子的に記録する際は空白を含まないが、印刷時には4
 ## 関連項目
 
   - [日本の金融機関のSWIFTコード一覧](../Page/日本の金融機関のSWIFTコード一覧.md "wikilink")
-  - [統一金融機関コード](https://ja.wikipedia.org/wiki/統一金融機関コード "wikilink")
+  - [統一金融機関コード](../Page/統一金融機関コード.md "wikilink")
   - [SWIFTコード](https://ja.wikipedia.org/wiki/SWIFTコード "wikilink")
   - [BLZコード](https://ja.wikipedia.org/wiki/BLZコード "wikilink")
 

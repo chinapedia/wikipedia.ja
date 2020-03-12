@@ -1,7 +1,7 @@
 > この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
 
 
-**見どころNHK**（みどころえぬえいちけい）は、[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[総合テレビジョンで放送されていた](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")[番宣](https://ja.wikipedia.org/wiki/番組宣伝 "wikilink")[番組である](https://ja.wikipedia.org/wiki/ミニ番組 "wikilink")。
+**見どころNHK**（みどころえぬえいちけい）は、[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[総合テレビジョンで放送されていた](../Page/NHK総合テレビジョン.md "wikilink")[番宣](../Page/番組宣伝.md "wikilink")[番組である](../Page/ミニ番組.md "wikilink")。
 
 ## 内容
 
@@ -24,11 +24,11 @@
 
 ## 出演者
 
-  - [瀬川亮](https://ja.wikipedia.org/wiki/瀬川亮 "wikilink")（2006年度）
-  - [山本志保](https://ja.wikipedia.org/wiki/山本志保 "wikilink")（NHKアナウンサー、2006年度）
+  - [瀬川亮](../Page/瀬川亮.md "wikilink")（2006年度）
+  - [山本志保](../Page/山本志保.md "wikilink")（NHKアナウンサー、2006年度）
   - [小田切千](../Page/小田切千.md "wikilink")（NHKアナウンサー、2007年度 - 2009年度）
   - [加藤夏希](https://ja.wikipedia.org/wiki/加藤夏希 "wikilink")（2007年度 - 2009年度）
-  - [奥田民義](https://ja.wikipedia.org/wiki/奥田民義 "wikilink")　-　ナレーション　（2006年度 - 2009年度）
+  - [奥田民義](../Page/奥田民義.md "wikilink")　-　ナレーション　（2006年度 - 2009年度）
 
 ## 脚注
 
@@ -38,4 +38,4 @@
 
 [Category:NHK総合テレビジョンのミニ番組](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンのミニ番組 "wikilink") [Category:広報・番組宣伝番組](https://ja.wikipedia.org/wiki/Category:広報・番組宣伝番組 "wikilink") [Category:2006年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のテレビ番組_\(日本\) "wikilink")
 
-1.  『[プレミアム10](https://ja.wikipedia.org/wiki/プレミアム10 "wikilink")』が放送された場合には、23:20 - 23:30に放送した。その際『[スポーツ大陸](../Page/スポーツ大陸.md "wikilink")』と『[解体新ショー](../Page/解体新ショー.md "wikilink")』は休止した。
+1.  『[プレミアム10](../Page/プレミアム10.md "wikilink")』が放送された場合には、23:20 - 23:30に放送した。その際『[スポーツ大陸](../Page/スポーツ大陸.md "wikilink")』と『[解体新ショー](../Page/解体新ショー.md "wikilink")』は休止した。

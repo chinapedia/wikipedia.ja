@@ -1,15 +1,15 @@
 > この記事は[GMO](https://ja.wikipedia.org/wiki/GMO)から翻訳されています。
 
 
-**GMOクラウド株式会社**（じーえむおーくらうど、*GMO CLOUD K.K.*）は、[GMOインターネット](https://ja.wikipedia.org/wiki/GMOインターネット "wikilink")グループで、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")に本社を置くクラウド･ホスティング（[レンタルサーバー](https://ja.wikipedia.org/wiki/レンタルサーバー "wikilink")）事業、セキュリティ事業およびソリューション事業を行う東証一部上場企業である。証券コードは3788。\[1\]
+**GMOクラウド株式会社**（じーえむおーくらうど、*GMO CLOUD K.K.*）は、[GMOインターネット](../Page/GMOインターネット.md "wikilink")グループで、[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")に本社を置くクラウド･ホスティング（[レンタルサーバー](https://ja.wikipedia.org/wiki/レンタルサーバー "wikilink")）事業、セキュリティ事業およびソリューション事業を行う東証一部上場企業である。証券コードは3788。\[1\]
 
 ## 概要
 
-GMOクラウド株式会社は、国内最大級のクラウド・ホスティング提供会社であり、13万人以上のクライアントにサービスを提供。2011年からクラウドサービスを開始し、急激にクラウドが社会に浸透する中で、社名を「**GMOホスティング & セキュリティ**株式会社」から「**GMOクラウド**株式会社」に変更。\[2\]2014年10月、東京証券取引所[マザーズ](../Page/マザーズ.md "wikilink")市場から[東京証券取引所](https://ja.wikipedia.org/wiki/東京証券取引所 "wikilink")第一部市場へ市場変更。\[3\]
+GMOクラウド株式会社は、国内最大級のクラウド・ホスティング提供会社であり、13万人以上のクライアントにサービスを提供。2011年からクラウドサービスを開始し、急激にクラウドが社会に浸透する中で、社名を「**GMOホスティング & セキュリティ**株式会社」から「**GMOクラウド**株式会社」に変更。\[2\]2014年10月、東京証券取引所[マザーズ](../Page/マザーズ.md "wikilink")市場から[東京証券取引所](../Page/東京証券取引所.md "wikilink")第一部市場へ市場変更。\[3\]
 
 GMOクラウドグループは、子会社15社（うち連結子会社13社）からなり、世界10ヶ国にて事業活動を展開し、事業セグメントは、｢クラウド・ホスティング事業｣、｢セキュリティ事業｣および｢ソリューション事業｣の3つである。IAM事業については、2017年度より｢セキュリティ事業｣へ統合。現在は[IoT](https://ja.wikipedia.org/wiki/モノのインターネット "wikilink")（モノのインターネット）事業、その中でもデータ管理、蓄積などを扱うIoTプラットフォームの提供、通信の「セキュリティ」に注力する。\[4\]
 
-GMOクラウドグループは、[GMOインターネット](https://ja.wikipedia.org/wiki/GMOインターネット "wikilink")グループの中でもグローバル展開をいち早く進めており、その基盤を活用しGMOインターネットグループも海外展開を進めている。また、海外パートナー社員の比率も高くグローバル化を加速させている。
+GMOクラウドグループは、[GMOインターネット](../Page/GMOインターネット.md "wikilink")グループの中でもグローバル展開をいち早く進めており、その基盤を活用しGMOインターネットグループも海外展開を進めている。また、海外パートナー社員の比率も高くグローバル化を加速させている。
 
 ## 裁判
 
@@ -19,23 +19,23 @@ GMOクラウドグループは、[GMOインターネット](https://ja.wikipedia
 
   - [1993年](../Page/1993年.md "wikilink")12月 - 有限会社**アイル**創立。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")5月 - 株式会社アイルに組織変更。
-  - [2001年](../Page/2001年.md "wikilink")5月 - [GMOインターネット](https://ja.wikipedia.org/wiki/GMOインターネット "wikilink")株式会社と資本提携。
+  - [2001年](../Page/2001年.md "wikilink")5月 - [GMOインターネット](../Page/GMOインターネット.md "wikilink")株式会社と資本提携。
   - [2002年](../Page/2002年.md "wikilink")7月 - ラピッドサイトと合併。
   - [2003年](../Page/2003年.md "wikilink")4月 - 日本ジオトラスト株式会社設立。
   - 2003年5月 - 社名を「**GMOホスティング アンド テクノロジーズ**株式会社」に変更。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")2月 - [お名前ドットコムを吸収合併](https://ja.wikipedia.org/wiki/お名前.com "wikilink")。
+  - [2005年](../Page/2005年.md "wikilink")2月 - [お名前ドットコムを吸収合併](https://ja.wikipedia.org/wiki/お名前.com "wikilink")。
   - 2005年2月 - 株式会社アット・ワイエムシー（後のGMOビジネスサポート株式会社）を子会社化。
   - 2005年3月 - マイティーサーバー株式会社を設立。
   - 2005年9月 - 社名を「**GMOホスティング & セキュリティ**株式会社」に変更。
   - 2005年12月 - 東京証券取引所マザーズ上場。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")3月 - 韓国企業と合弁によりGlobal Web株式会社（現・GMOスピード翻訳株式会社）設立。
-  - 2007年5月 - 日本ジオトラスト株式会社の社名を「[グローバルサイン](https://ja.wikipedia.org/wiki/グローバルサイン "wikilink")株式会社」（現・GMOグローバルサイン株式会社）に変更。
+  - [2007年](../Page/2007年.md "wikilink")3月 - 韓国企業と合弁によりGlobal Web株式会社（現・GMOスピード翻訳株式会社）設立。
+  - 2007年5月 - 日本ジオトラスト株式会社の社名を「[グローバルサイン](../Page/グローバルサイン.md "wikilink")株式会社」（現・GMOグローバルサイン株式会社）に変更。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")2月 - ホスティングサービスの「[ロケットネット](https://ja.wikipedia.org/wiki/ロケットネット "wikilink")」を開始。
   - 2010年8月 - 株式会社ワダックス（後の[GMOクラウドWEST](https://ja.wikipedia.org/wiki/GMOクラウドWEST "wikilink")株式会社）を子会社化。
   - [2011年](../Page/2011年.md "wikilink")4月 - 社名を「**GMOクラウド**株式会社」に変更。
   - [2014年](../Page/2014年.md "wikilink")10月 - 東京証券取引所市場第一部への上場市場変更\[5\]。
   - 2014年10月 - IoT市場規模の拡大に伴いIAM事業開始に向け、Ubisecure Solutions, Inc.（本社：フィンランド　現・GMO Globalsign Oy）を子会社化。\[6\]。
-  - 2015年6月 - GMO CLOUD AMERICA INC.（本社：米国）の全株式を[GMOインターネット](https://ja.wikipedia.org/wiki/GMOインターネット "wikilink")株式会社へ譲渡。また、GMO-Z.COM PTE.LTD. （本社：シンガポール）の第三者割当増資を引受け、同社を持分法適用関連会社化。
+  - 2015年6月 - GMO CLOUD AMERICA INC.（本社：米国）の全株式を[GMOインターネット](../Page/GMOインターネット.md "wikilink")株式会社へ譲渡。また、GMO-Z.COM PTE.LTD. （本社：シンガポール）の第三者割当増資を引受け、同社を持分法適用関連会社化。
   - [2015年](../Page/2015年.md "wikilink")7月 - [GMOクラウドWEST](https://ja.wikipedia.org/wiki/GMOクラウドWEST "wikilink")株式会社及びGMOビジネスサポート株式会社を吸収合併\[7\]\[8\]。
   - 2016年4月 - GMO-Z.COM PTE.LTD.の保有株式の一部を譲渡、関連会社より除外。
   - 2016年9月 - GMO GlobalSign Oyの全株式を譲渡

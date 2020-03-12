@@ -1,24 +1,24 @@
 > この記事は[LL](https://ja.wikipedia.org/wiki/LL)から翻訳されています。
 
 
-**LL法**または**LL構文解析**とは、[文脈自由文法](../Page/文脈自由文法.md "wikilink")のサブセットのための[トップダウン構文解析](https://ja.wikipedia.org/wiki/トップダウン構文解析 "wikilink")法の一種である。入力文字列を左 (Left) から構文解析していき、[左端導出](https://ja.wikipedia.org/wiki/文脈自由文法#導出と構文木 "wikilink") (Leftmost Derivation) を行う（このため、LL法と呼ぶ。[LR法](../Page/LR法.md "wikilink")も参照されたい）。この方式で構文解析可能な文法のクラスを *LL文法* と呼ぶ。
+**LL法**または**LL構文解析**とは、[文脈自由文法](../Page/文脈自由文法.md "wikilink")のサブセットのための[トップダウン構文解析](../Page/トップダウン構文解析.md "wikilink")法の一種である。入力文字列を左 (Left) から構文解析していき、[左端導出](https://ja.wikipedia.org/wiki/文脈自由文法#導出と構文木 "wikilink") (Leftmost Derivation) を行う（このため、LL法と呼ぶ。[LR法](../Page/LR法.md "wikilink")も参照されたい）。この方式で構文解析可能な文法のクラスを *LL文法* と呼ぶ。
 
-以下では、表駆動型の構文解析を解説する。他の手法として、個々の構文規則に対応する[サブルーチン](https://ja.wikipedia.org/wiki/サブルーチン "wikilink")の呼び出しから成る[再帰下降構文解析](../Page/再帰下降構文解析.md "wikilink")もある。表駆動型は計算機による生成に向き、再帰下降構文解析はコードの手書きに向いている（しかし、再帰下降構文解析のコードを自動生成する [ANTLR](https://ja.wikipedia.org/wiki/ANTLR "wikilink") のようなツールもある）。
+以下では、表駆動型の構文解析を解説する。他の手法として、個々の構文規則に対応する[サブルーチン](../Page/サブルーチン.md "wikilink")の呼び出しから成る[再帰下降構文解析](../Page/再帰下降構文解析.md "wikilink")もある。表駆動型は計算機による生成に向き、再帰下降構文解析はコードの手書きに向いている（しかし、再帰下降構文解析のコードを自動生成する [ANTLR](../Page/ANTLR.md "wikilink") のようなツールもある）。
 
-*k* 個の[字句](https://ja.wikipedia.org/wiki/字句 "wikilink")（トークン）を[先読み](https://ja.wikipedia.org/wiki/先読み "wikilink")する場合、LL(*k*) と表記する。ある文法について LL(*k*) 構文解析器が存在し、[バックトラッキング](https://ja.wikipedia.org/wiki/バックトラッキング "wikilink")なしで構文解析できる場合、その文法を LL(*k*) 文法であるという。LL(1) 文法は機能が限定されるが、次のトークンだけを先読みすればよいため、構文解析器の生成が容易であり、よく使われている。一般に設計に問題がある言語は大きな *k* が必要となる傾向があり（*k* が大きいということは、人がプログラムを読む場合にも、たくさん読まないと意味を把握できないということである）、構文解析が大変になる。
+*k* 個の[字句](https://ja.wikipedia.org/wiki/字句 "wikilink")（トークン）を[先読み](../Page/先読み.md "wikilink")する場合、LL(*k*) と表記する。ある文法について LL(*k*) 構文解析器が存在し、[バックトラッキング](../Page/バックトラッキング.md "wikilink")なしで構文解析できる場合、その文法を LL(*k*) 文法であるという。LL(1) 文法は機能が限定されるが、次のトークンだけを先読みすればよいため、構文解析器の生成が容易であり、よく使われている。一般に設計に問題がある言語は大きな *k* が必要となる傾向があり（*k* が大きいということは、人がプログラムを読む場合にも、たくさん読まないと意味を把握できないということである）、構文解析が大変になる。
 
 ## アーキテクチャ
 
-以下では、[構文解析表](https://ja.wikipedia.org/wiki/構文解析表 "wikilink")に基づいた[トップダウン構文解析](https://ja.wikipedia.org/wiki/トップダウン構文解析 "wikilink")による[左端導出について解説する](https://ja.wikipedia.org/wiki/文脈自由文法#導出と構文木 "wikilink")。
+以下では、[構文解析表](https://ja.wikipedia.org/wiki/構文解析表 "wikilink")に基づいた[トップダウン構文解析](../Page/トップダウン構文解析.md "wikilink")による[左端導出について解説する](https://ja.wikipedia.org/wiki/文脈自由文法#導出と構文木 "wikilink")。
 
 ### 一般ケース
 
-構文解析器は特定の[形式文法](https://ja.wikipedia.org/wiki/形式文法 "wikilink")に従った文字列を扱う。
+構文解析器は特定の[形式文法](../Page/形式文法.md "wikilink")に従った文字列を扱う。
 
 構文解析器は以下の要素から構成される。
 
   - 入力バッファ: 入力トークン列を格納する。
-  - スタック: 解析対象文法の[終端記号と非終端記号](https://ja.wikipedia.org/wiki/終端記号と非終端記号 "wikilink")を格納する。
+  - スタック: 解析対象文法の[終端記号と非終端記号](../Page/終端記号と非終端記号.md "wikilink")を格納する。
   - 構文解析表: スタックのトップにある記号と次の入力トークンに従って適用すべき文法規則を示す。
 
 構文解析器はスタックのトップにある記号と入力バッファ上の現在の記号から適用すべき規則を決定する。
@@ -128,7 +128,7 @@ $ という特殊な終端記号に関する行があることに注意された
 
 ## LL(*k*)構文解析表の作成
 
-1990年代中ごろまで、*k* が 1 より大きい LL(*k*) の構文解析はほとんど実用化されなかった。というのも、*k* が増えると[指数関数](../Page/指数関数.md "wikilink")的に[構文解析表](https://ja.wikipedia.org/wiki/構文解析表 "wikilink")が大きくなるためである。この状況を変えたのは[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")の [PCCTS](https://ja.wikipedia.org/wiki/PCCTS "wikilink") の登場である（現在では[ANTLR](https://ja.wikipedia.org/wiki/ANTLR "wikilink")と呼ばれている）。PCCTS は多くの[プログラミング言語](../Page/プログラミング言語.md "wikilink")を LL(*k*)構文解析器で効率的に構文解析でき、最悪ケースの問題も発生しないことを示した。さらに、先読みが限定されていてもLL法が有効な場合もあることが示された。一方、従来からの構文解析器生成ツール（[yacc](https://ja.wikipedia.org/wiki/yacc "wikilink")や[bison](https://ja.wikipedia.org/wiki/bison "wikilink")）は[LALR(1)構文解析表に基づいており](https://ja.wikipedia.org/wiki/LALR法 "wikilink")、限定された先読みによる[LR法](../Page/LR法.md "wikilink")を使っている。
+1990年代中ごろまで、*k* が 1 より大きい LL(*k*) の構文解析はほとんど実用化されなかった。というのも、*k* が増えると[指数関数](../Page/指数関数.md "wikilink")的に[構文解析表](https://ja.wikipedia.org/wiki/構文解析表 "wikilink")が大きくなるためである。この状況を変えたのは[1992年](../Page/1992年.md "wikilink")の [PCCTS](https://ja.wikipedia.org/wiki/PCCTS "wikilink") の登場である（現在では[ANTLR](../Page/ANTLR.md "wikilink")と呼ばれている）。PCCTS は多くの[プログラミング言語](../Page/プログラミング言語.md "wikilink")を LL(*k*)構文解析器で効率的に構文解析でき、最悪ケースの問題も発生しないことを示した。さらに、先読みが限定されていてもLL法が有効な場合もあることが示された。一方、従来からの構文解析器生成ツール（[yacc](https://ja.wikipedia.org/wiki/yacc "wikilink")や[bison](https://ja.wikipedia.org/wiki/bison "wikilink")）は[LALR(1)構文解析表に基づいており](../Page/LALR法.md "wikilink")、限定された先読みによる[LR法](../Page/LR法.md "wikilink")を使っている。
 
 ## LL(*k*) 構文解析器生成ツール
 

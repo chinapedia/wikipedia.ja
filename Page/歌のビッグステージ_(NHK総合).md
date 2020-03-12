@@ -1,11 +1,11 @@
 > この記事は[ \(NHK\)](https://ja.wikipedia.org/wiki/_\(NHK\))から翻訳されています。
 
 
-『**歌のビッグステージ**』（うたのビッグステージ）は、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")から[1981年](../Page/1981年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[NHK総合テレビで放送された](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")である。放送時間は毎週火曜 20:00 - 20:50（[JST](../Page/日本標準時.md "wikilink")）。
+『**歌のビッグステージ**』（うたのビッグステージ）は、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[4月8日](../Page/4月8日.md "wikilink")から[1981年](../Page/1981年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[NHK総合テレビで放送された](../Page/NHK総合テレビジョン.md "wikilink")[音楽番組](../Page/音楽番組.md "wikilink")である。放送時間は毎週火曜 20:00 - 20:50（[JST](../Page/日本標準時.md "wikilink")）。
 
 ## 概要
 
-『[花のステージ](https://ja.wikipedia.org/wiki/花のステージ "wikilink")』の後を受けてスタートした[歌謡曲](../Page/歌謡曲.md "wikilink")・[演歌](../Page/演歌.md "wikilink")系の音楽番組で、[NHKホール](https://ja.wikipedia.org/wiki/NHKホール "wikilink")からの公開歌謡ショー形式で行われていた。『花のステージ』は水曜20時台→木曜20時台に放送されていたが、この『歌のビッグステージ』からは火曜20時台での放送となった。
+『[花のステージ](../Page/花のステージ.md "wikilink")』の後を受けてスタートした[歌謡曲](../Page/歌謡曲.md "wikilink")・[演歌](../Page/演歌.md "wikilink")系の音楽番組で、[NHKホール](../Page/NHKホール.md "wikilink")からの公開歌謡ショー形式で行われていた。『花のステージ』は水曜20時台→木曜20時台に放送されていたが、この『歌のビッグステージ』からは火曜20時台での放送となった。
 
 ## 出演者
 
@@ -14,7 +14,7 @@
 <!-- end list -->
 
   - [松平定知](../Page/松平定知.md "wikilink")
-  - [喜多条忠](https://ja.wikipedia.org/wiki/喜多條忠 "wikilink") - 1980年9月30日放送分をもって降板。
+  - [喜多条忠](../Page/喜多條忠.md "wikilink") - 1980年9月30日放送分をもって降板。
 
 <!-- end list -->
 
@@ -34,8 +34,8 @@
 
 ## 関連項目
 
-  - [歌のグランド・ショー](https://ja.wikipedia.org/wiki/歌のグランド・ショー "wikilink")
-  - [NHK歌謡コンサート](https://ja.wikipedia.org/wiki/NHK歌謡コンサート "wikilink")
+  - [歌のグランド・ショー](../Page/歌のグランド・ショー.md "wikilink")
+  - [NHK歌謡コンサート](../Page/NHK歌謡コンサート.md "wikilink")
   - [うたコン](https://ja.wikipedia.org/wiki/うたコン "wikilink")
 
 ## 外部リンク

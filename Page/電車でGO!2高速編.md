@@ -13,14 +13,14 @@
   - 「プロフェッショナル」モードの導入。プレイ中にスタートボタン（PS版はセレクトボタン）を押せば、距離計が隠れ、より難易度の高い運転が可能となった。また、始発駅から終着駅まで使用し続けると、ランキングに「PRO」の表示がつく。
   - 120km/hを超えると、画面下部にデジタルメーターが表示されるようになった（ただし[東北新幹線](https://ja.wikipedia.org/wiki/東北新幹線 "wikilink")のみ0km/hから表示）。筐体付属のアナログ速度計の上限が120km/hであるための対策である。デジタルメーターは100km/hを下回ると表示が消える。
   - 前作までは速度制限標識は一部の駅発車直後と駅進入時のみに限られていたが、今作から速度制限標識が実施予告として点滅され（点滅する距離は、難易度によって異なる）点滅が終了すると解除されるまで速度制限が実施される。ただし駅発車直後など速度の遅い場合は予告なしで実施されることもある。
-  - [信号の種類が増加](https://ja.wikipedia.org/wiki/鉄道信号機 "wikilink")。信号場でのすれ違いイベントの追加。また前作までは注意信号が点灯したら次の信号までに45km/h以下にすれば良かったが、今作からは画面上に制限信号が点灯したら設置されている信号機を通過するまでに指定速度以下にする必要がある。また信号場など、画面上の信号現示と設置されている信号現示が一致しない場合がある。
+  - [信号の種類が増加](../Page/鉄道信号機.md "wikilink")。信号場でのすれ違いイベントの追加。また前作までは注意信号が点灯したら次の信号までに45km/h以下にすれば良かったが、今作からは画面上に制限信号が点灯したら設置されている信号機を通過するまでに指定速度以下にする必要がある。また信号場など、画面上の信号現示と設置されている信号現示が一致しない場合がある。
   - 今作および次作『プロフェッショナル仕様』では、制限信号を速度超過で通過した際にATSが作動する前にブレーキを1ノッチ以上入れた状態でスタートボタンを押下すると、ATS確認となり、列車が自動停止しなくなる。なお、その先の信号現示はATS確認をした信号現示よりも1ランク上のものになる（減速なら注意、注意なら警戒、警戒なら停止）。ただし、停止信号に対してATS確認はできない。
   - 今作初登場となる、特急はくたか号（681系）運転時にのみ出現する、高速進行信号は130km/h以上の通過を許容するものであるため、本来ほくほく線内では通常の進行信号は130km/h以下を指示する制限信号となるが、130km/h以上で進行信号を通過してもATSは作動せず、減点もされない。
   - 高速進行信号は五灯式、それ以外は四灯式である。そのため停止信号現示から高速進行信号現示に変わる時、四灯式から五灯式に変わる。
   - ほくほく線初級と秋田新幹線（奥羽本線）中級と秋田新幹線（奥羽本線・田沢湖線）特級は、ランキングの対象外となっている。
   - PS版および64版に収録されている入門編では、直江津駅発車後の速度制限35がない。
   - 前作にも登場した車両は、車両モデルが変更された。また、前面に[JR](../Page/JR.md "wikilink")マークが表示されている車両では実車通りJRマークが表示されるようになった。
-  - アーケード版を基に製作された[ネオジオポケット](https://ja.wikipedia.org/wiki/ネオジオポケット "wikilink")版（発売：[SNK](../Page/SNK_\(1978年設立の企業\).md "wikilink")）や、PS版を移植した[ワンダースワン](../Page/ワンダースワン.md "wikilink")版（鹿児島本線は登場しない）、[ゲームボーイカラー](../Page/ゲームボーイカラー.md "wikilink")版（発売：サイバーフロント）も発売された。
+  - アーケード版を基に製作された[ネオジオポケット](../Page/ネオジオポケット.md "wikilink")版（発売：[SNK](../Page/SNK_\(1978年設立の企業\).md "wikilink")）や、PS版を移植した[ワンダースワン](../Page/ワンダースワン.md "wikilink")版（鹿児島本線は登場しない）、[ゲームボーイカラー](../Page/ゲームボーイカラー.md "wikilink")版（発売：サイバーフロント）も発売された。
   - PS版では[各駅停車](../Page/各駅停車.md "wikilink")の[大阪環状線](../Page/大阪環状線.md "wikilink")が収録されているため、『高速編』のサブタイトルが消去されている。但し、『高速編3000番台』においても、奥羽本線・田沢湖線・京浜東北線（横浜→品川。種別上は「快速」だが、実質各駅停車）・山手線・東海道本線の各駅停車（普通）が収録されている。
   - PS版のOPでは鉄ちゃんが[アニメで表現されている](../Page/アニメーション.md "wikilink")。
   - PS版のCD-ROMを音楽CDプレイヤーで再生すると、鉄ちゃんの隠し台詞、OP曲「LOVE特急こまち」及びED曲「潮騒の駅」を聴く事ができる。
@@ -38,7 +38,7 @@
 
 **[北越急行ほくほく線](../Page/北越急行ほくほく線.md "wikilink")**
 
-  - 初級（難易度:1）:[HK100形](https://ja.wikipedia.org/wiki/北越急行HK100形電車 "wikilink")　快速　[直江津](../Page/直江津駅.md "wikilink")→[うらがわら](../Page/うらがわら駅.md "wikilink")
+  - 初級（難易度:1）:[HK100形](../Page/北越急行HK100形電車.md "wikilink")　快速　[直江津](../Page/直江津駅.md "wikilink")→[うらがわら](../Page/うらがわら駅.md "wikilink")
 
 :\*ほくほく線快速初級のデモプレイでは、直江津→黒井間で残り700m地点（900mで予告、600mで解除）で60km/h制限がかかるが、実際のプレイでは登場しない。その他のデモプレイでは、信号・標識自体が登場しない。
 
@@ -50,7 +50,7 @@
 
 :\*停車駅 犀潟、くびき、うらがわら、[ほくほく大島](../Page/ほくほく大島駅.md "wikilink")、[まつだい](../Page/まつだい駅.md "wikilink")、[十日町](../Page/十日町駅.md "wikilink")、[六日町](../Page/六日町駅.md "wikilink")
 
-  - 特級（難易度:5）:[681系2000番台](https://ja.wikipedia.org/wiki/JR西日本681系電車 "wikilink")　特急[はくたか号](https://ja.wikipedia.org/wiki/はくたか_\(列車\)#在来線特急「はくたか」 "wikilink")　直江津→六日町
+  - 特級（難易度:5）:[681系2000番台](../Page/JR西日本681系電車.md "wikilink")　特急[はくたか号](https://ja.wikipedia.org/wiki/はくたか_\(列車\)#在来線特急「はくたか」 "wikilink")　直江津→六日町
 
 :\*「はくたか」は、隠しコマンドを入力することによりプレイ可能。（PS版・3000番台などは最初から選択可能）
 
@@ -106,7 +106,7 @@
 
 :\*停車駅 [黒崎](https://ja.wikipedia.org/wiki/黒崎駅 "wikilink")、[八幡](https://ja.wikipedia.org/wiki/八幡駅_\(福岡県\) "wikilink")、[戸畑](https://ja.wikipedia.org/wiki/戸畑駅 "wikilink")、[小倉](https://ja.wikipedia.org/wiki/小倉駅_\(福岡県\) "wikilink")
 
-  - 特級（難易度:5）:[883系](https://ja.wikipedia.org/wiki/JR九州883系電車 "wikilink")　特急[ソニック7号](../Page/ソニック_\(列車\).md "wikilink")　[博多](https://ja.wikipedia.org/wiki/博多駅 "wikilink")→小倉
+  - 特級（難易度:5）:[883系](../Page/JR九州883系電車.md "wikilink")　特急[ソニック7号](../Page/ソニック_\(列車\).md "wikilink")　[博多](https://ja.wikipedia.org/wiki/博多駅 "wikilink")→小倉
 
 :\*通過駅が非常に多く、博多から小倉まで計20駅通過する\[2\]。やはり特級なので制限の予告時間が短く、こまちやはくたかと違いアーケード版にないため苦労しやすい。
 
@@ -116,9 +116,9 @@
 
 機関車と特急電車を連結させて、連結時の衝撃が少ない分だけ持ち時間がもらえる（0秒～10秒）ミニゲーム。特定の駅にノーコンティニューで停車するとプレイ可能。
 
-初代では[EF66形とコンテナ](https://ja.wikipedia.org/wiki/国鉄EF66形電気機関車 "wikilink")[貨物列車](https://ja.wikipedia.org/wiki/貨物列車 "wikilink")を連結させるのに対し、『2』は[横川駅において](https://ja.wikipedia.org/wiki/横川駅_\(群馬県\) "wikilink")、[EF63形と](../Page/国鉄EF63形電気機関車.md "wikilink")[489系](https://ja.wikipedia.org/wiki/国鉄485系電車#489系 "wikilink")[白山を連結させる](https://ja.wikipedia.org/wiki/あさま#在来線特急「あさま」「白山」 "wikilink")。なお､489系には白山色と国鉄色の2色が登場するが､登場するパターンはランダムである。
+初代では[EF66形とコンテナ](../Page/国鉄EF66形電気機関車.md "wikilink")[貨物列車](https://ja.wikipedia.org/wiki/貨物列車 "wikilink")を連結させるのに対し、『2』は[横川駅において](../Page/横川駅_\(群馬県\).md "wikilink")、[EF63形と](../Page/国鉄EF63形電気機関車.md "wikilink")[489系](https://ja.wikipedia.org/wiki/国鉄485系電車#489系 "wikilink")[白山を連結させる](https://ja.wikipedia.org/wiki/あさま#在来線特急「あさま」「白山」 "wikilink")。なお､489系には白山色と国鉄色の2色が登場するが､登場するパターンはランダムである。
 
-連結作業の制限時間が短い(制限時間15秒)ため、満点の10秒を獲得するには練習が必要である。なお、連結に成功すると名物[駅弁](../Page/駅弁.md "wikilink")[荻野屋](https://ja.wikipedia.org/wiki/荻野屋 "wikilink")「[峠の釜めし](../Page/峠の釜めし.md "wikilink")」の写真が表示されるが、10秒を獲得した場合は「玄米弁当」の写真が表示される。
+連結作業の制限時間が短い(制限時間15秒)ため、満点の10秒を獲得するには練習が必要である。なお、連結に成功すると名物[駅弁](../Page/駅弁.md "wikilink")[荻野屋](../Page/荻野屋.md "wikilink")「[峠の釜めし](../Page/峠の釜めし.md "wikilink")」の写真が表示されるが、10秒を獲得した場合は「玄米弁当」の写真が表示される。
 
 後述の「3000番台」では、E3系と、E2系もしくは200系を連結させるものもある。この場合は秋田新幹線の一部ダイヤを選択した上で、盛岡駅にノーコンティニューで到着すればプレイが可能で、運転評価画面をはさまずにそのままボーナスゲームに移る。 また連結作業中に非常ブレーキを使用してしまった場合、連結後に「非常制動停車」で減点されるが、0m停車時のボーナス（EXCELLENT, GREAT, GOOD）は無効（その分だけ減点）にはならない。
 
@@ -190,7 +190,7 @@
 
 :\*停車駅 大曲、角館、田沢湖、雫石、盛岡、新花巻 **[奥羽本線](https://ja.wikipedia.org/wiki/奥羽本線 "wikilink")**
 
-  - 中級（難易度:3）:[701系](https://ja.wikipedia.org/wiki/JR東日本701系電車 "wikilink")　普通　秋田→大曲
+  - 中級（難易度:3）:[701系](../Page/JR東日本701系電車.md "wikilink")　普通　秋田→大曲
 
 :\*没版とは違い、制限45がかかる駅が多い。ノーコンティニューだと大曲にD51牽引の12系6両編成が現れる。
 
@@ -200,7 +200,7 @@
 
   - 中級（難易度:3）:701系5000番台　普通　田沢湖→盛岡
 
-:\*[志度内信号場](https://ja.wikipedia.org/wiki/志度内信号場 "wikilink")での列車交換待ちイベントがあるが、ほくほく線快速上級の列車交換イベントとは異なり、必ず発生する（ダイヤグラム上も列車交換を想定したダイヤが組まれている）。
+:\*[志度内信号場](../Page/志度内信号場.md "wikilink")での列車交換待ちイベントがあるが、ほくほく線快速上級の列車交換イベントとは異なり、必ず発生する（ダイヤグラム上も列車交換を想定したダイヤが組まれている）。
 
 :\*停車駅 [赤渕](../Page/赤渕駅.md "wikilink")、[春木場](../Page/春木場駅.md "wikilink")、雫石、[小岩井](../Page/小岩井駅.md "wikilink")、[大釜](../Page/大釜駅.md "wikilink")、盛岡
 
@@ -214,7 +214,7 @@
 
 **[山手線](https://ja.wikipedia.org/wiki/山手線 "wikilink")（外回り）**
 
-  - 上級（難易度:4）:[205系](https://ja.wikipedia.org/wiki/国鉄205系電車 "wikilink")　普通 [東京](https://ja.wikipedia.org/wiki/東京駅 "wikilink")→[新宿](https://ja.wikipedia.org/wiki/新宿駅 "wikilink")
+  - 上級（難易度:4）:[205系](../Page/国鉄205系電車.md "wikilink")　普通 [東京](https://ja.wikipedia.org/wiki/東京駅 "wikilink")→[新宿](https://ja.wikipedia.org/wiki/新宿駅 "wikilink")
 
 :\*「上級」ではあるが、他の上級路線とは違い、停車時の合格範囲は1mまで許容（他は0m）され、延着・延通時の減点も1秒（他は2秒）となっている。
 
@@ -237,7 +237,7 @@
 
 ### 電車でGO\!64
 
-N64:[1999年](../Page/1999年.md "wikilink")[7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink")発売
+N64:[1999年](../Page/1999年.md "wikilink")[7月23日](../Page/7月23日.md "wikilink")発売
 
 『**電車でGO\!2 高速編 3000番台**』を基本として[NINTENDO64](../Page/NINTENDO64.md "wikilink")向けに拡張した作品。特殊な機能として音声認識システム（VRS）に対応しており、ゲーム中の特定の場所でうまく発声をすると、ボーナスを得ることができる。
 
@@ -996,7 +996,7 @@ E3系</small></p></td>
 
 ## 関連項目
 
-  - [ぽっぷんぽっぷ](https://ja.wikipedia.org/wiki/ぽっぷんぽっぷ "wikilink") - 『電車でGO\!2高速編』のプロモーションムービーが見られる。
+  - [ぽっぷんぽっぷ](../Page/ぽっぷんぽっぷ.md "wikilink") - 『電車でGO\!2高速編』のプロモーションムービーが見られる。
 
 [Category:1998年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1998年のコンピュータゲーム "wikilink") [Category:実機シミュレーションゲーム](https://ja.wikipedia.org/wiki/Category:実機シミュレーションゲーム "wikilink") [Category:電車でGO\!](https://ja.wikipedia.org/wiki/Category:電車でGO! "wikilink") [Category:大型筐体ゲーム](https://ja.wikipedia.org/wiki/Category:大型筐体ゲーム "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:東日本旅客鉄道](https://ja.wikipedia.org/wiki/Category:東日本旅客鉄道 "wikilink") [Category:北越急行](https://ja.wikipedia.org/wiki/Category:北越急行 "wikilink") [Category:西日本旅客鉄道](https://ja.wikipedia.org/wiki/Category:西日本旅客鉄道 "wikilink") [Category:九州旅客鉄道](https://ja.wikipedia.org/wiki/Category:九州旅客鉄道 "wikilink") [Category:新幹線を題材とした作品](https://ja.wikipedia.org/wiki/Category:新幹線を題材とした作品 "wikilink")
 

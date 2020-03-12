@@ -1,9 +1,9 @@
 > この記事は[TRF 96 ARENA TOUR SILENT NIGHT](https://ja.wikipedia.org/wiki/TRF_96_ARENA_TOUR_SILENT_NIGHT)から翻訳されています。
 
 
-『**TRF 96 ARENA TOUR SILENT NIGHT**』は、[TRF](https://ja.wikipedia.org/wiki/TRF "wikilink")が同年にリリースされたシングル『[SILENT NIGHT](https://ja.wikipedia.org/wiki/SILENT_NIGHT "wikilink")』及び『[LEGEND OF WIND](https://ja.wikipedia.org/wiki/LEGEND_OF_WIND "wikilink")』を引っ提げて開催された初のアリーナツアー。 本作は、アルバムタイトルを掲げておらず、ライブの内容はシングル満載のベストライブといっても過言ではない。また、TRFのツアー会場としては唯一のアリーナクラスである。このツアーの見どころでは、楽曲である「Overnight Sensation〜時代はあなたに委ねてる〜」の振り付けが新たに変更され彼らが提案した稀有なものとなっている。 最終日の横浜アリーナでは、[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")がゲストとして出演をし、「DO WHAT YOU WANT」をピアノ演奏がなされた。また、アンコールでは当時新曲であった「LEGEND OF WIND」も初披露された。 このツアーを最後にプロデューサーである小室哲哉の元から離れ、活動を大幅に休止状態となった。1年後の[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")より再び活動をスタートした。
+『**TRF 96 ARENA TOUR SILENT NIGHT**』は、[TRF](../Page/TRF.md "wikilink")が同年にリリースされたシングル『[SILENT NIGHT](../Page/SILENT_NIGHT.md "wikilink")』及び『[LEGEND OF WIND](../Page/LEGEND_OF_WIND.md "wikilink")』を引っ提げて開催された初のアリーナツアー。 本作は、アルバムタイトルを掲げておらず、ライブの内容はシングル満載のベストライブといっても過言ではない。また、TRFのツアー会場としては唯一のアリーナクラスである。このツアーの見どころでは、楽曲である「Overnight Sensation〜時代はあなたに委ねてる〜」の振り付けが新たに変更され彼らが提案した稀有なものとなっている。 最終日の横浜アリーナでは、[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")がゲストとして出演をし、「DO WHAT YOU WANT」をピアノ演奏がなされた。また、アンコールでは当時新曲であった「LEGEND OF WIND」も初披露された。 このツアーを最後にプロデューサーである小室哲哉の元から離れ、活動を大幅に休止状態となった。1年後の[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")より再び活動をスタートした。
 
-この模様を収録した映像作品が『**TRF Live in YOKOHAMA ARENA**』と題して、翌年の[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月30日](../Page/4月30日.md "wikilink")より[VHS](../Page/VHS.md "wikilink")規格としてリリースされ、[2000年](../Page/2000年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")に初のDVD規格として再リリースされた。また、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月29日](../Page/11月29日.md "wikilink")には、avexによるバリュープライスキャンペーンの企画として廉価版が再リリースされた（2000年リリースのものと同一）。
+この模様を収録した映像作品が『**TRF Live in YOKOHAMA ARENA**』と題して、翌年の[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月30日](../Page/4月30日.md "wikilink")より[VHS](../Page/VHS.md "wikilink")規格としてリリースされ、[2000年](../Page/2000年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")に初のDVD規格として再リリースされた。また、[2006年](../Page/2006年.md "wikilink")[11月29日](../Page/11月29日.md "wikilink")には、avexによるバリュープライスキャンペーンの企画として廉価版が再リリースされた（2000年リリースのものと同一）。
 
 ## 開催日・会場
 

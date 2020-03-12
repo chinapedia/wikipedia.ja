@@ -5,7 +5,7 @@
 
 ## 概要
 
-[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")創刊\[1\]。主なターゲットは20歳前後で、ストリートカジュアル系のファッションを多く掲載しており、一般に[青文字系](https://ja.wikipedia.org/wiki/青文字系 "wikilink")に分類される。
+[1991年](../Page/1991年.md "wikilink")創刊\[1\]。主なターゲットは20歳前後で、ストリートカジュアル系のファッションを多く掲載しており、一般に[青文字系](https://ja.wikipedia.org/wiki/青文字系 "wikilink")に分類される。
 
 実売部数は123,435部（2006年1月 - 6月平均実売部数　ABC公査より）で、雑誌の販売部数が軒並み減少する中、伸び率126.71%（昨年対比）はABC公査加盟53社147誌の中で2位だった。
 
@@ -13,8 +13,8 @@
 
 ## 歴史
 
-  - [1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink") - 創刊。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink") - 創刊15周年。SEDAコレクション開催。
+  - [1991年](../Page/1991年.md "wikilink") - 創刊。
+  - [2006年](../Page/2006年.md "wikilink") - 創刊15周年。SEDAコレクション開催。
   - [2016年](../Page/2016年.md "wikilink") - 6月7日発売の7月号をもって休刊\[2\]。
 
 ## 別冊MOOK

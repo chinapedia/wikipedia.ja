@@ -17,7 +17,7 @@
 
 ## 歴代監督
 
-  - [ブランコ・イヴァンコヴィッチ](https://ja.wikipedia.org/wiki/ブランコ・イバンコビッチ "wikilink") (1991-1995)
+  - [ブランコ・イヴァンコヴィッチ](../Page/ブランコ・イバンコビッチ.md "wikilink") (1991-1995)
 
   - [ルカ・ボナチッチ](https://ja.wikipedia.org/wiki/ルカ・ボナチッチ "wikilink") (1995-1996)
 
@@ -37,7 +37,7 @@
 
   - [ズラトコ・ダリッチ](https://ja.wikipedia.org/wiki/ズラトコ・ダリッチ "wikilink") (2005-2007)
 
-  - [ヨシップ・クジェ](https://ja.wikipedia.org/wiki/ヨジップ・クゼ "wikilink") (2007)
+  - [ヨシップ・クジェ](../Page/ヨジップ・クゼ.md "wikilink") (2007)
 
   - [ドラジェン・ベセク](https://ja.wikipedia.org/wiki/ドラジェン・ベセク "wikilink") (2007-2009)
 
@@ -83,15 +83,15 @@
 
   - [ネディム・ハリロヴィッチ](https://ja.wikipedia.org/wiki/ネディム・ハリロヴィッチ "wikilink") (2001-2006)
 
-  - [レオン・ベンコ](https://ja.wikipedia.org/wiki/レオン・ベンコ "wikilink") (2003-2006)\[14\]
+  - [レオン・ベンコ](../Page/レオン・ベンコ.md "wikilink") (2003-2006)\[14\]
 
-  - [ブランコ・イヴァンコヴィッチ](https://ja.wikipedia.org/wiki/ブランコ・イバンコビッチ "wikilink") 1979-1990
+  - [ブランコ・イヴァンコヴィッチ](../Page/ブランコ・イバンコビッチ.md "wikilink") 1979-1990
 
   - [ドラジェン・ラディッチ](https://ja.wikipedia.org/wiki/ドラジェン・ラディッチ "wikilink") 1983-1984
 
-  - [アルビン・ペラック](https://ja.wikipedia.org/wiki/アルビン・ペラック "wikilink") 1991-1996
+  - [アルビン・ペラック](../Page/アルビン・ペラック.md "wikilink") 1991-1996
 
-  - [イゴール・ツビタノヴィッチ](https://ja.wikipedia.org/wiki/イゴール・ツビタノヴィッチ "wikilink") 1991-1992
+  - [イゴール・ツビタノヴィッチ](../Page/イゴール・ツビタノヴィッチ.md "wikilink") 1991-1992
 
 ## 脚注
 

@@ -1,19 +1,19 @@
 > この記事は[I remember you](https://ja.wikipedia.org/wiki/I_remember_you)から翻訳されています。
 
 
-「**I remember you**」（アイ リメンバー ユー）は、[YUIの](https://ja.wikipedia.org/wiki/YUI_\(歌手\) "wikilink")6作目のシングル。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月20日](../Page/9月20日.md "wikilink")に[ソニー・ミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")よりリリースされた。キャッチコピーは「せつなくも素直に描いたオリジナルソング。この秋に贈ります。」。
+「**I remember you**」（アイ リメンバー ユー）は、[YUIの](https://ja.wikipedia.org/wiki/YUI_\(歌手\) "wikilink")6作目のシングル。[2006年](../Page/2006年.md "wikilink")[9月20日](../Page/9月20日.md "wikilink")に[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")よりリリースされた。キャッチコピーは「せつなくも素直に描いたオリジナルソング。この秋に贈ります。」。
 
 ## 概要
 
-YUI名義としては「[TOKYO](https://ja.wikipedia.org/wiki/TOKYO_\(YUIの曲\) "wikilink")」以来のシングル作品。
+YUI名義としては「[TOKYO](../Page/TOKYO_\(YUIの曲\).md "wikilink")」以来のシングル作品。
 
-通常盤（[CDのみ](../Page/コンパクトディスク.md "wikilink")）と初回限定盤（CD+[DVD](../Page/DVD.md "wikilink")）の2形態で発売され、ジャケットはそれぞれ異なる。2形態での発売は自身初となる。なお、初めてのDVD付のシングル・プレゼントなどの効果か、初回限定盤は予約が殺到し、大型・中型店ではほとんど予約が取れなくなっていた。現在、初回盤は[インターネットオークション](https://ja.wikipedia.org/wiki/インターネットオークション "wikilink")で定価以上の値段で取引されている。
+通常盤（[CDのみ](../Page/コンパクトディスク.md "wikilink")）と初回限定盤（CD+[DVD](../Page/DVD.md "wikilink")）の2形態で発売され、ジャケットはそれぞれ異なる。2形態での発売は自身初となる。なお、初めてのDVD付のシングル・プレゼントなどの効果か、初回限定盤は予約が殺到し、大型・中型店ではほとんど予約が取れなくなっていた。現在、初回盤は[インターネットオークション](../Page/インターネットオークション.md "wikilink")で定価以上の値段で取引されている。
 
 初回限定盤には映画『タイヨウのうた』の監督を務めた[小泉徳宏](../Page/小泉徳宏.md "wikilink")が制作に参加したタイトル曲のビデオクリップが収録されている。『タイヨウのうた』と同じく[鎌倉](../Page/鎌倉.md "wikilink")で撮影された。
 
 YUIからのプレゼントとして、CDを購入した者に先着でひまわりの種が1枚につき1袋渡された。
 
-[オリコンの期待度ランキングで](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を獲得し、発売日から2日続けてオリコンデイリーランキングでも首位を獲得したが、週間チャートでは当時の自己最高初動で自己最高の2位となった。ちなみに首位は[Kaoru Amane](https://ja.wikipedia.org/wiki/沢尻エリカ "wikilink")「[タイヨウのうた](https://ja.wikipedia.org/wiki/タイヨウのうた_\(曲\) "wikilink")」が獲得し、『タイヨウのうた』主演女優（映画・ドラマ）の1･2フィニッシュとなった。
+[オリコンの期待度ランキングで](../Page/オリコンチャート.md "wikilink")1位を獲得し、発売日から2日続けてオリコンデイリーランキングでも首位を獲得したが、週間チャートでは当時の自己最高初動で自己最高の2位となった。ちなみに首位は[Kaoru Amane](https://ja.wikipedia.org/wiki/沢尻エリカ "wikilink")「[タイヨウのうた](../Page/タイヨウのうた_\(曲\).md "wikilink")」が獲得し、『タイヨウのうた』主演女優（映画・ドラマ）の1･2フィニッシュとなった。
 
 ## 収録曲
 

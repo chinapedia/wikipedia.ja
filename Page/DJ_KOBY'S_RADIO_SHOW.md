@@ -1,7 +1,7 @@
 > この記事は[DJ KOBY\'S RADIO SHOW](https://ja.wikipedia.org/wiki/DJ_KOBY\'S_RADIO_SHOW)から翻訳されています。
 
 
-**DJ KOBY'S RADIO SHOW**（ディージェイ・コービーズ・レディオ・ショー）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[12月26日](../Page/12月26日.md "wikilink")まで[J-WAVE](../Page/J-WAVE.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。ナビゲーター(DJ)は[小林克也](../Page/小林克也.md "wikilink")。
+**DJ KOBY'S RADIO SHOW**（ディージェイ・コービーズ・レディオ・ショー）は、[2006年](../Page/2006年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[12月26日](../Page/12月26日.md "wikilink")まで[J-WAVE](../Page/J-WAVE.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。ナビゲーター(DJ)は[小林克也](../Page/小林克也.md "wikilink")。
 
 ## 放送時間
 

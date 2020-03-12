@@ -1,11 +1,11 @@
 > この記事は[\&DJ TAKI-SHIT](https://ja.wikipedia.org/wiki/\&DJ_TAKI-SHIT)から翻訳されています。
 
 
-**シーモネーター\&DJ TAKI-SHIT**（シーモネーターアンドディージェイ・タキシット）は[名古屋](../Page/名古屋.md "wikilink")出身の[ヒップホップ](../Page/ヒップホップ.md "wikilink")[ユニットである](../Page/音楽ユニット.md "wikilink")。2002年[ソニーレコードよりメジャーデビュー](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")。ライブでは全裸の上に股間に天狗のお面という格好で行う。現在は活動を休止している。
+**シーモネーター\&DJ TAKI-SHIT**（シーモネーターアンドディージェイ・タキシット）は[名古屋](../Page/名古屋.md "wikilink")出身の[ヒップホップ](../Page/ヒップホップ.md "wikilink")[ユニットである](../Page/音楽ユニット.md "wikilink")。2002年[ソニーレコードよりメジャーデビュー](../Page/ソニー・ミュージックレコーズ.md "wikilink")。ライブでは全裸の上に股間に天狗のお面という格好で行う。現在は活動を休止している。
 
 しかし、シーモネーターが[SEAMO](../Page/SEAMO.md "wikilink")としてソロ活動を始めた後も、SEAMOのライブには“伝説の男”として天狗面をつけたシーモネーターが登場し、楽曲を披露している。
 
-また、2011年8月、SEAMOのコラボベストアルバム『[コラボ伝説](https://ja.wikipedia.org/wiki/コラボ伝説 "wikilink")』発売を機に、[土屋アンナ](https://ja.wikipedia.org/wiki/土屋アンナ "wikilink")、[スガシカオ](https://ja.wikipedia.org/wiki/スガシカオ "wikilink")とともに「S.ex. with TSUCHIYA ANNA and SUGA SHIKAO」という新曲を発表し、シーモネーターは事実上の復活を果たしている（新曲としては8年ぶりである）。
+また、2011年8月、SEAMOのコラボベストアルバム『[コラボ伝説](https://ja.wikipedia.org/wiki/コラボ伝説 "wikilink")』発売を機に、[土屋アンナ](https://ja.wikipedia.org/wiki/土屋アンナ "wikilink")、[スガシカオ](../Page/スガシカオ.md "wikilink")とともに「S.ex. with TSUCHIYA ANNA and SUGA SHIKAO」という新曲を発表し、シーモネーターは事実上の復活を果たしている（新曲としては8年ぶりである）。
 
 ## メンバー
 
@@ -277,10 +277,10 @@
 
 ##### オリジナルアルバム
 
-| 枚                                                                                           | リリース日                                                                    | タイトル                                   | 週間最高位              | 型番          |
-| ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | -------------------------------------- | ------------------ | ----------- |
-| 1st                                                                                         | [2003年](../Page/2003年.md "wikilink")[2月19日](../Page/2月19日.md "wikilink") | **[シモダス](../Page/シモダス.md "wikilink")** | 111位               | <SRCL-5544> |
-| [2014年](../Page/2014年.md "wikilink")[7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink") | **[シモダス](../Page/シモダス.md "wikilink")+**                                  | \-位                                    | \<MHCL-2457～2458\> |             |
+| 枚                                                                        | リリース日                                                                    | タイトル                                   | 週間最高位              | 型番          |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------------ | -------------------------------------- | ------------------ | ----------- |
+| 1st                                                                      | [2003年](../Page/2003年.md "wikilink")[2月19日](../Page/2月19日.md "wikilink") | **[シモダス](../Page/シモダス.md "wikilink")** | 111位               | <SRCL-5544> |
+| [2014年](../Page/2014年.md "wikilink")[7月23日](../Page/7月23日.md "wikilink") | **[シモダス](../Page/シモダス.md "wikilink")+**                                  | \-位                                    | \<MHCL-2457～2458\> |             |
 
 ##### コンピレーションアルバム
 
@@ -343,7 +343,7 @@
 2.  CHEMISTRY「**[Between the Lines](../Page/Between_the_Lines.md "wikilink")**」（[2003年](../Page/2003年.md "wikilink")[6月18日](../Page/6月18日.md "wikilink")発売）
       - 11.君をさがしてた ～シーモネーター& DJ TAKI-SHIT Remix feat. CRYSTAL BOY(nobodyknows+)
 3.  [SEAMO](../Page/SEAMO.md "wikilink")「**[コラボ伝説](https://ja.wikipedia.org/wiki/コラボ伝説 "wikilink")**」（[2011年](../Page/2011年.md "wikilink")[8月24日](../Page/8月24日.md "wikilink")発売）
-      - 1\. S.ex. with [TSUCHIYA ANNA](https://ja.wikipedia.org/wiki/土屋アンナ "wikilink") and [SUGA SHIKAO](https://ja.wikipedia.org/wiki/スガシカオ "wikilink") / シーモネーター
+      - 1\. S.ex. with [TSUCHIYA ANNA](https://ja.wikipedia.org/wiki/土屋アンナ "wikilink") and [SUGA SHIKAO](../Page/スガシカオ.md "wikilink") / シーモネーター
       - 16\. 半熟ラバーズ feat. MICRO（HOME MADE 家族）/ シーモネーター & DJ TAKI-SHIT
 
 ## 脚注

@@ -39,7 +39,7 @@ P239は同社の[P229のマガジンをシングルカラムにし](https://ja.w
 ### 小説
 
   - 『[ゲート 自衛隊 彼の地にて、斯く戦えり](https://ja.wikipedia.org/wiki/ゲート_自衛隊_彼の地にて、斯く戦えり "wikilink")』
-    [CIAの工作員が](https://ja.wikipedia.org/wiki/中央情報局 "wikilink")[マカロフと共に所持](https://ja.wikipedia.org/wiki/マカロフPM "wikilink")。
+    [CIAの工作員が](../Page/中央情報局.md "wikilink")[マカロフと共に所持](https://ja.wikipedia.org/wiki/マカロフPM "wikilink")。
 
 ## 関連項目
 

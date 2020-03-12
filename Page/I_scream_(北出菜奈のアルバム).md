@@ -1,7 +1,7 @@
 > この記事は[I scream \(\)](https://ja.wikipedia.org/wiki/I_scream_\(\))から翻訳されています。
 
 
-『**I scream**』（アイ スクリーム）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月6日](../Page/12月6日.md "wikilink")にリリースされた[北出菜奈](https://ja.wikipedia.org/wiki/北出菜奈 "wikilink")の2枚目のアルバム。
+『**I scream**』（アイ スクリーム）は、[2006年](../Page/2006年.md "wikilink")[12月6日](../Page/12月6日.md "wikilink")にリリースされた[北出菜奈](../Page/北出菜奈.md "wikilink")の2枚目のアルバム。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 ジャケット写真は本人が[アイスクリーム](../Page/アイスクリーム.md "wikilink")を食べているものだが、これはタイトル「I scream」と「ice cream」を掛けたもの。
 
-名前の「菜奈」にちなんで初回限定豪華ボックス版を7,777円で売り出したが、[オリコン初登場](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")135位と商業的には失敗した。
+名前の「菜奈」にちなんで初回限定豪華ボックス版を7,777円で売り出したが、[オリコン初登場](../Page/オリコンチャート.md "wikilink")135位と商業的には失敗した。
 
 ## 収録曲
 
@@ -25,10 +25,10 @@ SECL-455, ¥3,059
         作曲:[安原兵衛](https://ja.wikipedia.org/wiki/安原兵衛 "wikilink")
 3.  [ラムのラブソング](../Page/ラムのラブソング.md "wikilink")
       -
-        作詞:[伊藤アキラ](https://ja.wikipedia.org/wiki/伊藤アキラ "wikilink")・[小林泉美](https://ja.wikipedia.org/wiki/小林泉美_\(歌手\) "wikilink")、作曲:小林泉美
+        作詞:[伊藤アキラ](../Page/伊藤アキラ.md "wikilink")・[小林泉美](../Page/小林泉美_\(歌手\).md "wikilink")、作曲:小林泉美
 4.  論より証拠。
       -
-        作曲:[西川進](https://ja.wikipedia.org/wiki/西川進 "wikilink")
+        作曲:[西川進](../Page/西川進.md "wikilink")
 5.  13日の金曜日
       -
         作曲:安原兵衛
@@ -51,7 +51,7 @@ SECL-455, ¥3,059
         作曲:TSUKASA
 13. BASKET CASE
       -
-        作詞:Billie Joe Armstrong, 作曲:Billie Joe Armstrong, Mike Dirnt, Tré Cool ([グリーン・デイ](https://ja.wikipedia.org/wiki/グリーン・デイ "wikilink")）
+        作詞:Billie Joe Armstrong, 作曲:Billie Joe Armstrong, Mike Dirnt, Tré Cool ([グリーン・デイ](../Page/グリーン・デイ.md "wikilink")）
 
 ### 初回生産限定版
 
@@ -96,7 +96,7 @@ SECL-451～SECL-453, ¥7,777
         作曲: TSUKASA
 13. BASKET CASE
       -
-        作詞:Billie Joe Armstrong, 作曲:Billie Joe Armstrong, Mike Dirnt, Tré Cool ([グリーン・デイ](https://ja.wikipedia.org/wiki/グリーン・デイ "wikilink")）
+        作詞:Billie Joe Armstrong, 作曲:Billie Joe Armstrong, Mike Dirnt, Tré Cool ([グリーン・デイ](../Page/グリーン・デイ.md "wikilink")）
 
 ## 外部リンク
 

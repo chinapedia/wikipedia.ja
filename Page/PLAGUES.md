@@ -1,16 +1,16 @@
 > この記事は[PLAGUES](https://ja.wikipedia.org/wiki/PLAGUES)から翻訳されています。
 
 
-**PLAGUES**（プレイグス）は日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")結成。 [1994年](../Page/1994年.md "wikilink")に『Cinnamon Hotel』でメジャーデビュー。2002年3月に「活動休暇」を宣言した。 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")ベースに[TRICERATOPS](https://ja.wikipedia.org/wiki/TRICERATOPS "wikilink")の林幸治、キーボードに[堀江博久](https://ja.wikipedia.org/wiki/堀江博久 "wikilink")（活動休止前も参加）をサポートに迎え活動再開。 2012年10月、11年ぶりに完全新作となるニュー・アルバム『CLOUD CUTTER』を発表した。　
+**PLAGUES**（プレイグス）は日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")結成。 [1994年](../Page/1994年.md "wikilink")に『Cinnamon Hotel』でメジャーデビュー。2002年3月に「活動休暇」を宣言した。 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")ベースに[TRICERATOPS](../Page/TRICERATOPS.md "wikilink")の林幸治、キーボードに[堀江博久](../Page/堀江博久.md "wikilink")（活動休止前も参加）をサポートに迎え活動再開。 2012年10月、11年ぶりに完全新作となるニュー・アルバム『CLOUD CUTTER』を発表した。　
 
 ## メンバー
 
-  - 深沼元昭（ふかぬま もとあき、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[1月31日](../Page/1月31日.md "wikilink") - ）[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")担当。現在、[Mellowhead](https://ja.wikipedia.org/wiki/Mellowhead "wikilink")(ソロ・プロジェクト)/[GHEEE](https://ja.wikipedia.org/wiki/GHEEE "wikilink")(Vo, G)として活動中。
-  - 後藤敏昭（ごとう としあき、[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[12月8日](../Page/12月8日.md "wikilink") - ）[ドラム担当](../Page/ドラムセット.md "wikilink")。
+  - 深沼元昭（ふかぬま もとあき、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[1月31日](../Page/1月31日.md "wikilink") - ）[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")担当。現在、[Mellowhead](https://ja.wikipedia.org/wiki/Mellowhead "wikilink")(ソロ・プロジェクト)/[GHEEE](../Page/GHEEE.md "wikilink")(Vo, G)として活動中。
+  - 後藤敏昭（ごとう としあき、[1970年](../Page/1970年.md "wikilink")[12月8日](../Page/12月8日.md "wikilink") - ）[ドラム担当](../Page/ドラムセット.md "wikilink")。
 
 ## 元メンバー
 
-  - 岡本達也（おかもと たつや、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[6月17日](../Page/6月17日.md "wikilink") - ）[ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")脱退。
+  - 岡本達也（おかもと たつや、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[6月17日](../Page/6月17日.md "wikilink") - ）[ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")脱退。
 
 ## ディスコグラフィー
 

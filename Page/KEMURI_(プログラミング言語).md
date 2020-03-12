@@ -3,11 +3,11 @@
 
 **KEMURI**（ケムリ）は、[Brainfuck](../Page/Brainfuck.md "wikilink")に類した[プログラミング言語](../Page/プログラミング言語.md "wikilink")の一つ。実用言語ではない。
 
-[BrainCrash](https://ja.wikipedia.org/wiki/BrainCrash "wikilink")、[HQ9+](https://ja.wikipedia.org/wiki/HQ9+ "wikilink")についで世界で3番目に短く[Hello worldを出力するプログラムを記述できる](../Page/Hello_world.md "wikilink")。
+[BrainCrash](https://ja.wikipedia.org/wiki/BrainCrash "wikilink")、[HQ9+](../Page/HQ9+.md "wikilink")についで世界で3番目に短く[Hello worldを出力するプログラムを記述できる](../Page/Hello_world.md "wikilink")。
 
-KEMURIは[スタックマシン](https://ja.wikipedia.org/wiki/スタックマシン "wikilink")であり、0～255の値が入るスタックがある。
+KEMURIは[スタックマシン](../Page/スタックマシン.md "wikilink")であり、0～255の値が入るスタックがある。
 
-実用性はほとんど無いように思われるが、KEMURI_PLUSでは[チューリングマシン](../Page/チューリングマシン.md "wikilink")で実行可能なあらゆるプログラムが記述できる（[チューリング完全](https://ja.wikipedia.org/wiki/チューリング完全 "wikilink")である）とされている。
+実用性はほとんど無いように思われるが、KEMURI_PLUSでは[チューリングマシン](../Page/チューリングマシン.md "wikilink")で実行可能なあらゆるプログラムが記述できる（[チューリング完全](../Page/チューリング完全.md "wikilink")である）とされている。
 
 ## KEMURIの言語仕様
 

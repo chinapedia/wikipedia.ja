@@ -1,17 +1,17 @@
 > この記事は[Avast Software](https://ja.wikipedia.org/wiki/Avast_Software)から翻訳されています。
 
 
-**Avast Software**（アバストソフトウェア）は[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に設立された、[プラハ](../Page/プラハ.md "wikilink")に拠点を置く[チェコ](../Page/チェコ.md "wikilink")共和国の企業。主に[ソフトウェア](../Page/ソフトウェア.md "wikilink")開発などを行なっている。[プラハ証券取引所](https://ja.wikipedia.org/wiki/プラハ証券取引所 "wikilink")および[ロンドン証券取引所](https://ja.wikipedia.org/wiki/ロンドン証券取引所 "wikilink")に上場している（）。
+**Avast Software**（アバストソフトウェア）は[1991年](../Page/1991年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に設立された、[プラハ](../Page/プラハ.md "wikilink")に拠点を置く[チェコ](../Page/チェコ.md "wikilink")共和国の企業。主に[ソフトウェア](../Page/ソフトウェア.md "wikilink")開発などを行なっている。[プラハ証券取引所](https://ja.wikipedia.org/wiki/プラハ証券取引所 "wikilink")および[ロンドン証券取引所](../Page/ロンドン証券取引所.md "wikilink")に上場している（）。
 
 ## 概要
 
-[アンチウイルスソフトウェア](https://ja.wikipedia.org/wiki/アンチウイルスソフトウェア "wikilink")の開発を専門としており、[Avast Antivirusが主要製品で](https://ja.wikipedia.org/wiki/Avast_Antivirus "wikilink")、[フリーウェア](../Page/フリーウェア.md "wikilink")版の「無料 アンチウイルス」とサンドボックスを備えた[シェアウェア](../Page/シェアウェア.md "wikilink")版の「プロ アンチウイルス」、[ファイアウォール](../Page/ファイアウォール.md "wikilink")や[スパム対策を追加した](../Page/スパム_\(メール\).md "wikilink")「インターネット セキュリティ」を開発・販売し、アンチウイルスエンジンの[OEM](../Page/OEM.md "wikilink")提供も行っている。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")には[マカフィー](https://ja.wikipedia.org/wiki/マカフィー "wikilink")にアンチウイルスエンジンを提供していた。
+[アンチウイルスソフトウェア](../Page/アンチウイルスソフトウェア.md "wikilink")の開発を専門としており、[Avast Antivirusが主要製品で](../Page/Avast_Antivirus.md "wikilink")、[フリーウェア](../Page/フリーウェア.md "wikilink")版の「無料 アンチウイルス」とサンドボックスを備えた[シェアウェア](../Page/シェアウェア.md "wikilink")版の「プロ アンチウイルス」、[ファイアウォール](../Page/ファイアウォール.md "wikilink")や[スパム対策を追加した](../Page/スパム_\(メール\).md "wikilink")「インターネット セキュリティ」を開発・販売し、アンチウイルスエンジンの[OEM](../Page/OEM.md "wikilink")提供も行っている。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")には[マカフィー](../Page/マカフィー.md "wikilink")にアンチウイルスエンジンを提供していた。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[6月1日](../Page/6月1日.md "wikilink")に、社名をALWIL Software（アルウィルソフトウェア）からAVAST Software（アバストソフトウェア）へと変更した\[1\]。また、2013年に発表した「avast\! 2014」以降はバージョン表記に年を使用するようになった\[2\]。
 
-[2016年](../Page/2016年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")、[AVG Anti-Virusの開発元である](https://ja.wikipedia.org/wiki/AVG_Anti-Virus "wikilink")[AVG Technologiesを](https://ja.wikipedia.org/wiki/AVG_Technologies "wikilink")1310億円で買収することが報じられた\[3\]。
+[2016年](../Page/2016年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")、[AVG Anti-Virusの開発元である](../Page/AVG_Anti-Virus.md "wikilink")[AVG Technologiesを](../Page/AVG_Technologies.md "wikilink")1310億円で買収することが報じられた\[3\]。
 
-[2017年](../Page/2017年.md "wikilink")7月、[CCleaner](https://ja.wikipedia.org/wiki/CCleaner "wikilink")などの開発元である[Piriform](https://ja.wikipedia.org/wiki/Piriform "wikilink")を買収した\[4\]。
+[2017年](../Page/2017年.md "wikilink")7月、[CCleaner](../Page/CCleaner.md "wikilink")などの開発元である[Piriform](https://ja.wikipedia.org/wiki/Piriform "wikilink")を買収した\[4\]。
 
 ## 製品
 
@@ -59,7 +59,7 @@ AVAST Software社が扱っている製品の一覧
 
 ## 関連項目
 
-  - [Avast Antivirus](https://ja.wikipedia.org/wiki/Avast_Antivirus "wikilink")
+  - [Avast Antivirus](../Page/Avast_Antivirus.md "wikilink")
 
 ## 脚注
 

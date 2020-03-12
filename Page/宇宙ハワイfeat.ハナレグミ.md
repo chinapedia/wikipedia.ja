@@ -1,12 +1,12 @@
 > この記事は[feat.](https://ja.wikipedia.org/wiki/feat.)から翻訳されています。
 
 
-**宇宙ハワイfeat.ハナレグミ**（うちゅう - ）は、[アルファのメジャー](https://ja.wikipedia.org/wiki/アルファ_\(音楽グループ\) "wikilink")11枚目の[シングル](../Page/シングル.md "wikilink")。発売元は[東芝EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")。
+**宇宙ハワイfeat.ハナレグミ**（うちゅう - ）は、[アルファのメジャー](../Page/アルファ_\(音楽グループ\).md "wikilink")11枚目の[シングル](../Page/シングル.md "wikilink")。発売元は[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")。
 
 ## 概要
 
   - 2005年の「PASSION」以来約2年ぶりのシングルである。
-  - 客演として迎えた[ハナレグミ](https://ja.wikipedia.org/wiki/ハナレグミ "wikilink")は、「サンオイル」以来2度目の参加となる。ハナレグミも同じく東芝EMI所属である。
+  - 客演として迎えた[ハナレグミ](../Page/ハナレグミ.md "wikilink")は、「サンオイル」以来2度目の参加となる。ハナレグミも同じく東芝EMI所属である。
   - 当初は[6月27日](../Page/6月27日.md "wikilink")にミニアルバムとしてリリース予定だったが、シングルとしてリリースとなった。
 
 ## 収録曲

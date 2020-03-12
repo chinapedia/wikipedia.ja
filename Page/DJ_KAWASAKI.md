@@ -1,11 +1,11 @@
 > この記事は[DJ KAWASAKI](https://ja.wikipedia.org/wiki/DJ_KAWASAKI)から翻訳されています。
 
 
-**DJ KAWASAKI**（ディージェイ・カワサキ）は[ハウス](https://ja.wikipedia.org/wiki/ハウス_\(音楽\) "wikilink")／[クロスオーバーを中心に活動している](../Page/クロスオーバー_\(音楽\).md "wikilink")[DJ](https://ja.wikipedia.org/wiki/ディスクジョッキー "wikilink")・[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。
+**DJ KAWASAKI**（ディージェイ・カワサキ）は[ハウス](../Page/ハウス_\(音楽\).md "wikilink")／[クロスオーバーを中心に活動している](../Page/クロスオーバー_\(音楽\).md "wikilink")[DJ](../Page/ディスクジョッキー.md "wikilink")・[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。
 
-[2000年](../Page/2000年.md "wikilink")より本格的に音楽制作を開始。 [ケビン・サンダーソン](https://ja.wikipedia.org/wiki/ケビン・サンダーソン "wikilink")や[デリック・メイなどがDJ](https://ja.wikipedia.org/wiki/デリック・メイ_\(ミュージシャン\) "wikilink") KAWASAKIの作った曲をプレイした。
+[2000年](../Page/2000年.md "wikilink")より本格的に音楽制作を開始。 [ケビン・サンダーソン](https://ja.wikipedia.org/wiki/ケビン・サンダーソン "wikilink")や[デリック・メイなどがDJ](../Page/デリック・メイ_\(ミュージシャン\).md "wikilink") KAWASAKIの作った曲をプレイした。
 
-[リミキサー](https://ja.wikipedia.org/wiki/レコーディング・エンジニア "wikilink")、[プログラマーとしても活動](https://ja.wikipedia.org/wiki/マニピュレーター "wikilink")。過去に[吉澤はじめ](https://ja.wikipedia.org/wiki/吉澤はじめ "wikilink")、[藤原ヒロシ](https://ja.wikipedia.org/wiki/藤原ヒロシ "wikilink")、[MONDO GROSSOの曲を](https://ja.wikipedia.org/wiki/MONDO_GROSSO "wikilink")[リミックス](https://ja.wikipedia.org/wiki/リミックス "wikilink")したことがある。2008年には[藤井リナ](https://ja.wikipedia.org/wiki/藤井リナ "wikilink")のデビューアルバムの全面プロデュースも行った。
+[リミキサー](../Page/レコーディング・エンジニア.md "wikilink")、[プログラマーとしても活動](../Page/マニピュレーター.md "wikilink")。過去に[吉澤はじめ](../Page/吉澤はじめ.md "wikilink")、[藤原ヒロシ](https://ja.wikipedia.org/wiki/藤原ヒロシ "wikilink")、[MONDO GROSSOの曲を](../Page/MONDO_GROSSO.md "wikilink")[リミックス](../Page/リミックス.md "wikilink")したことがある。2008年には[藤井リナ](https://ja.wikipedia.org/wiki/藤井リナ "wikilink")のデビューアルバムの全面プロデュースも行った。
 
 ## 作品
 
@@ -28,7 +28,7 @@
 
 ## ラジオ
 
-  - THE ROOM RADIO（[SHIBUYA-FM](https://ja.wikipedia.org/wiki/東京コミュニケーション放送 "wikilink")）
+  - THE ROOM RADIO（[SHIBUYA-FM](../Page/東京コミュニケーション放送.md "wikilink")）
 
 ## 外部リンク
 

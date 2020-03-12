@@ -1,15 +1,15 @@
 > この記事は[Honey Hunt](https://ja.wikipedia.org/wiki/Honey_Hunt)から翻訳されています。
 
 
-『**Honey Hunt**』（ハニー ハント）は、[相原実貴](https://ja.wikipedia.org/wiki/相原実貴 "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[Cheese\!](https://ja.wikipedia.org/wiki/Cheese! "wikilink")』（[小学館](../Page/小学館.md "wikilink")）に連載されていた。2010年2月現在既刊6巻。
+『**Honey Hunt**』（ハニー ハント）は、[相原実貴](../Page/相原実貴.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[Cheese\!](../Page/Cheese!.md "wikilink")』（[小学館](../Page/小学館.md "wikilink")）に連載されていた。2010年2月現在既刊6巻。
 
 ## あらすじ
 
-[父親](https://ja.wikipedia.org/wiki/父親 "wikilink")が[音楽家](https://ja.wikipedia.org/wiki/音楽家 "wikilink")で[母親](https://ja.wikipedia.org/wiki/母親 "wikilink")が[女優](../Page/俳優.md "wikilink")、有名すぎる両親を持つ**小野塚ゆら**。[セレブ](https://ja.wikipedia.org/wiki/セレブ "wikilink")な家庭を周囲は羨ましがるが、父は[NY](https://ja.wikipedia.org/wiki/NY "wikilink")で暮らしており、母も仕事柄なかなか家に帰って来ず、皆が羨むような家庭ではなかった。
+[父親](../Page/父親.md "wikilink")が[音楽家](https://ja.wikipedia.org/wiki/音楽家 "wikilink")で[母親](../Page/母親.md "wikilink")が[女優](../Page/俳優.md "wikilink")、有名すぎる両親を持つ**小野塚ゆら**。[セレブ](https://ja.wikipedia.org/wiki/セレブ "wikilink")な家庭を周囲は羨ましがるが、父は[NY](https://ja.wikipedia.org/wiki/NY "wikilink")で暮らしており、母も仕事柄なかなか家に帰って来ず、皆が羨むような家庭ではなかった。
 
 そんなゆらが猫をかぶらずに本音を話せるのは、幼なじみの真佑だけだった。しかし、ある日突然告げられた両親の[離婚](../Page/離婚.md "wikilink")により、唯一の安らぎの存在だった真佑さえも失ってしまう。
 
-そして父親の[マネージャー](../Page/マネージャー.md "wikilink")をしている**溝呂木**に見初められ、「女優にならないか」と[スカウトされる](https://ja.wikipedia.org/wiki/スカウト_\(勧誘\) "wikilink")。母親を見返してやりたいという一心で、女優を目指すことを決意するゆら。ゆらの人生が動き出す……。
+そして父親の[マネージャー](../Page/マネージャー.md "wikilink")をしている**溝呂木**に見初められ、「女優にならないか」と[スカウトされる](../Page/スカウト_\(勧誘\).md "wikilink")。母親を見返してやりたいという一心で、女優を目指すことを決意するゆら。ゆらの人生が動き出す……。
 
 ## 登場人物
 
@@ -29,7 +29,7 @@
 <!-- end list -->
 
   - 溝呂木 恵一（みぞろぎ けいいち）
-    32歳。AB型。小野塚孝行のマネージメントをする。芸能事務所「メテオライト・プロモーション」の[社長](https://ja.wikipedia.org/wiki/社長 "wikilink")。若いが怒らせると怖いことで[マスコミに恐れられている](../Page/報道機関.md "wikilink")。ゆらが見せた涙に心を動かされ、スカウトする。
+    32歳。AB型。小野塚孝行のマネージメントをする。芸能事務所「メテオライト・プロモーション」の[社長](../Page/社長.md "wikilink")。若いが怒らせると怖いことで[マスコミに恐れられている](../Page/報道機関.md "wikilink")。ゆらが見せた涙に心を動かされ、スカウトする。
 
 <!-- end list -->
 
@@ -39,7 +39,7 @@
 <!-- end list -->
 
   - 南谷 ハルカ（みなみたに はるか）
-    19歳。B型。人気歌手グループ「KNIGHTS」(ナイツ)の一人。本名南谷遥。Q太の[双子の弟](https://ja.wikipedia.org/wiki/双生児 "wikilink")。
+    19歳。B型。人気歌手グループ「KNIGHTS」(ナイツ)の一人。本名南谷遥。Q太の[双子の弟](../Page/双生児.md "wikilink")。
 
 <!-- end list -->
 
@@ -88,7 +88,7 @@
 
 ## 書誌情報
 
-[相原実貴](https://ja.wikipedia.org/wiki/相原実貴 "wikilink") 『Honey Hunt』 〈[小学館](../Page/小学館.md "wikilink")・[フラワーコミックス](https://ja.wikipedia.org/wiki/フラワーコミックス "wikilink")〉 既刊6巻（2010年2月時点）
+[相原実貴](../Page/相原実貴.md "wikilink") 『Honey Hunt』 〈[小学館](../Page/小学館.md "wikilink")・[フラワーコミックス](../Page/フラワーコミックス.md "wikilink")〉 既刊6巻（2010年2月時点）
 
 1.  2007年6月26日発売、ISBN 978-4-09-131079-8
 2.  2007年12月21日発売、ISBN 978-4-09-131337-9

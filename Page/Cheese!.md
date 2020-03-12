@@ -3,7 +3,7 @@
 
 『**Cheese\!**』（**チーズ\!**）は、[小学館](../Page/小学館.md "wikilink")が発行する少女向けの[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[月刊](https://ja.wikipedia.org/wiki/逐次刊行物#月刊 "wikilink")[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")。刊行月の前々月24日に発売されている。
 
-[1996年](../Page/1996年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")に創刊。1996年10月号が創刊号。『[少女コミック](../Page/少女コミック.md "wikilink")』（小学館）の派生誌。 創刊当初は『少女コミックCheese\!（SHO-COMIチーズ\!）』の誌名で毎月28日に発売され、作家陣も[赤石路代](../Page/赤石路代.md "wikilink")、[北川みゆき](https://ja.wikipedia.org/wiki/北川みゆき "wikilink")、[すもと亜夢](https://ja.wikipedia.org/wiki/すもと亜夢 "wikilink")など『少女コミック』からの移籍組だった。現在も[青木琴美](https://ja.wikipedia.org/wiki/青木琴美_\(漫画家\) "wikilink")、[宮坂香帆](https://ja.wikipedia.org/wiki/宮坂香帆 "wikilink")などSho-Comiからの移籍組も多いが、[嶋木あこ](https://ja.wikipedia.org/wiki/嶋木あこ "wikilink")を筆頭にCheese\!生え抜き作家も多い。
+[1996年](../Page/1996年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")に創刊。1996年10月号が創刊号。『[少女コミック](../Page/少女コミック.md "wikilink")』（小学館）の派生誌。 創刊当初は『少女コミックCheese\!（SHO-COMIチーズ\!）』の誌名で毎月28日に発売され、作家陣も[赤石路代](../Page/赤石路代.md "wikilink")、[北川みゆき](../Page/北川みゆき.md "wikilink")、[すもと亜夢](https://ja.wikipedia.org/wiki/すもと亜夢 "wikilink")など『少女コミック』からの移籍組だった。現在も[青木琴美](https://ja.wikipedia.org/wiki/青木琴美_\(漫画家\) "wikilink")、[宮坂香帆](https://ja.wikipedia.org/wiki/宮坂香帆 "wikilink")などSho-Comiからの移籍組も多いが、[嶋木あこ](../Page/嶋木あこ.md "wikilink")を筆頭にCheese\!生え抜き作家も多い。
 
 女子高校生・大学生～社会人を主なターゲットとしており、ラブストーリーが主に掲載されているが、歌舞伎や病児保育など硬派なテーマも取り扱っている。
 
@@ -15,12 +15,12 @@
 
 ※ 2019年6月11日（2019年7月号）現在。
 
-  - うちの犬が子ネコ拾いました。（[竜山さゆり](https://ja.wikipedia.org/wiki/竜山さゆり "wikilink")）
+  - うちの犬が子ネコ拾いました。（[竜山さゆり](../Page/竜山さゆり.md "wikilink")）
   - 王の獣（[藤間麗](https://ja.wikipedia.org/wiki/藤間麗 "wikilink")）
   - 金色ジャパネスク～横濱華恋譚～（[宮坂香帆](https://ja.wikipedia.org/wiki/宮坂香帆 "wikilink")）
   - 恋と弾丸（箕野希望）：2019年6月号 -
   - [コーヒー&バニラ](https://ja.wikipedia.org/wiki/コーヒー&バニラ "wikilink")（[朱神宝](https://ja.wikipedia.org/wiki/朱神宝 "wikilink")）
-  - [5時から9時まで](https://ja.wikipedia.org/wiki/5時から9時まで "wikilink")（[相原実貴](https://ja.wikipedia.org/wiki/相原実貴 "wikilink")）
+  - [5時から9時まで](https://ja.wikipedia.org/wiki/5時から9時まで "wikilink")（[相原実貴](../Page/相原実貴.md "wikilink")）
   - [37.5℃の涙](https://ja.wikipedia.org/wiki/37.5℃の涙 "wikilink")（[椎名チカ](https://ja.wikipedia.org/wiki/椎名チカ "wikilink")）：2013年12月号 - 2014年11月号、2015年7月号 -
   - 執事たちの沈黙（[桜田雛](https://ja.wikipedia.org/wiki/桜田雛 "wikilink")）
   - なめて、かじって、ときどき愛でて（[湯町深](https://ja.wikipedia.org/wiki/湯町深 "wikilink")）
@@ -28,7 +28,7 @@
   - ハツコイ×アゲイン（華谷艶）
   - 発熱リビドー（雨村澪）
   - 放課後トキシック（川上ちひろ）
-  - ぼくの輪廻（[嶋木あこ](https://ja.wikipedia.org/wiki/嶋木あこ "wikilink")）：2016年4月号 - \[1\]
+  - ぼくの輪廻（[嶋木あこ](../Page/嶋木あこ.md "wikilink")）：2016年4月号 - \[1\]
   - 夢幻ソワカ〜東京少女陰陽師〜（[七尾美緒](https://ja.wikipedia.org/wiki/七尾美緒 "wikilink")）※不定期連載
   - 宵の嫁入り（七緒美緒）
 
@@ -49,8 +49,8 @@
 ### か行
 
   - [カノジョは嘘を愛しすぎてる](https://ja.wikipedia.org/wiki/カノジョは嘘を愛しすぎてる "wikilink")（[青木琴美](https://ja.wikipedia.org/wiki/青木琴美_\(漫画家\) "wikilink")）
-  - キス、絶交、キス〜ボクらの場合〜（[藤原よしこ](https://ja.wikipedia.org/wiki/藤原よしこ "wikilink")）
-  - キスは0時を過ぎてから（[刑部真芯](https://ja.wikipedia.org/wiki/刑部真芯 "wikilink")）
+  - キス、絶交、キス〜ボクらの場合〜（[藤原よしこ](../Page/藤原よしこ.md "wikilink")）
+  - キスは0時を過ぎてから（[刑部真芯](../Page/刑部真芯.md "wikilink")）
   - キミのキスで触れて（花緒莉）
   - 君を奪う、君を愛す（刑部真芯）
   - キョ→ダイだからなんだよっ\!?（[棉田のぶ](https://ja.wikipedia.org/wiki/棉田のぶ "wikilink")）
@@ -59,13 +59,13 @@
   - [禁断シリーズ](https://ja.wikipedia.org/wiki/禁断シリーズ "wikilink")（刑部真芯）
   - 金曜日は初恋（[中村ユキチ](https://ja.wikipedia.org/wiki/中村ユキチ "wikilink")）：2014年6月号 - 8月号
   - ケモノスイッチ（[湯町深](https://ja.wikipedia.org/wiki/湯町深 "wikilink")）
-  - グリーン・ウェンズデー（[おおばやしみゆき](https://ja.wikipedia.org/wiki/おおばやしみゆき "wikilink")）
+  - グリーン・ウェンズデー（[おおばやしみゆき](../Page/おおばやしみゆき.md "wikilink")）
   - 黒源氏物語（桜田雛）
-  - 月下の君（[嶋木あこ](https://ja.wikipedia.org/wiki/嶋木あこ "wikilink")）
+  - 月下の君（[嶋木あこ](../Page/嶋木あこ.md "wikilink")）
   - [げっちゅー](https://ja.wikipedia.org/wiki/げっちゅー "wikilink")♥（すぎ恵美子）
   - 獣は花の夢を見るか（刑部真芯）
   - コイイロオモイ（湯町深）
-  - [恋したがりのブルー](https://ja.wikipedia.org/wiki/恋したがりのブルー "wikilink")（[藤原よしこ](https://ja.wikipedia.org/wiki/藤原よしこ "wikilink")）
+  - [恋したがりのブルー](../Page/恋したがりのブルー.md "wikilink")（[藤原よしこ](../Page/藤原よしこ.md "wikilink")）
   - 恋なんかはじまらない（藤原よしこ）
   - [コスプレ刑事](https://ja.wikipedia.org/wiki/コスプレ刑事 "wikilink")（堂本奈央）
   - 今夜、キミが会いにいく（花緒莉）
@@ -75,14 +75,14 @@
 
   - 百日紅男子高等學校\!\!（[花緒莉](https://ja.wikipedia.org/wiki/花緒莉 "wikilink")）
   - 式神男子（[七尾美緒](https://ja.wikipedia.org/wiki/七尾美緒 "wikilink")）
-  - [しなやかに傷ついて](https://ja.wikipedia.org/wiki/しなやかに傷ついて "wikilink")（[北川みゆき](https://ja.wikipedia.org/wiki/北川みゆき "wikilink")）
+  - [しなやかに傷ついて](https://ja.wikipedia.org/wiki/しなやかに傷ついて "wikilink")（[北川みゆき](../Page/北川みゆき.md "wikilink")）
   - 囚-愛玩少女-（刑部真芯）
   - 10万分の1（[宮坂香帆](https://ja.wikipedia.org/wiki/宮坂香帆 "wikilink")）
   - 殉血LOVERS（高宮智）
   - [水神の生贄](https://ja.wikipedia.org/wiki/水神の生贄 "wikilink")（[藤間麗](https://ja.wikipedia.org/wiki/藤間麗 "wikilink")）
   - 好きになってもいいの?（[太田早紀](https://ja.wikipedia.org/wiki/太田早紀 "wikilink")）
   - 捨て犬にハニートースト（華谷艶）
-  - 素肌に革命（[樹本祐季](https://ja.wikipedia.org/wiki/樹本祐季 "wikilink")）
+  - 素肌に革命（[樹本祐季](../Page/樹本祐季.md "wikilink")）
   - 制服の微熱（湯町深）
   - SEX=LOVE2（[新條まゆ](../Page/新條まゆ.md "wikilink")）
   - セツナの楽園（[わたなべ志穂](https://ja.wikipedia.org/wiki/わたなべ志穂 "wikilink")）
@@ -92,11 +92,11 @@
 
 ### た行
 
-  - [だから恋とよばないで](https://ja.wikipedia.org/wiki/だから恋とよばないで "wikilink")（[藤原よしこ](https://ja.wikipedia.org/wiki/藤原よしこ "wikilink")）
+  - [だから恋とよばないで](https://ja.wikipedia.org/wiki/だから恋とよばないで "wikilink")（[藤原よしこ](../Page/藤原よしこ.md "wikilink")）
   - ダメ恋みほん帖（[水谷愛](https://ja.wikipedia.org/wiki/水谷愛 "wikilink")）
   - ダンナさんは芸人さん（[清水まみ](../Page/清水まみ.md "wikilink")）
   - [月にキスの花束を](https://ja.wikipedia.org/wiki/月にキスの花束を "wikilink")（北川みゆき）
-  - [罪に濡れたふたり](https://ja.wikipedia.org/wiki/罪に濡れたふたり "wikilink")（北川みゆき）
+  - [罪に濡れたふたり](../Page/罪に濡れたふたり.md "wikilink")（北川みゆき）
   - 天使のいいなり（[春日あかね](https://ja.wikipedia.org/wiki/春日あかね "wikilink")）
   - トリプルKISS（嶋木あこ）
   - [永遠かもしれない](https://ja.wikipedia.org/wiki/永遠かもしれない "wikilink")（[赤石路代](../Page/赤石路代.md "wikilink")）
@@ -117,7 +117,7 @@
   - 薔薇の鎖（刑部真芯）
   - [ヒミツのアイちゃん](https://ja.wikipedia.org/wiki/ヒミツのアイちゃん "wikilink")（[花緒莉](https://ja.wikipedia.org/wiki/花緒莉 "wikilink")）：2009年9月号 - 2014年11月号
   - 姫とナイトと、となりの私。（朱神宝）：2014年8月号 - 10月号
-  - [ぴんとこな](https://ja.wikipedia.org/wiki/ぴんとこな "wikilink")（[嶋木あこ](https://ja.wikipedia.org/wiki/嶋木あこ "wikilink")）
+  - [ぴんとこな](https://ja.wikipedia.org/wiki/ぴんとこな "wikilink")（[嶋木あこ](../Page/嶋木あこ.md "wikilink")）
   - ピンクのしっぽ（藤原よしこ）
   - PINKの秘めゴト♥（[佐々木柚奈](https://ja.wikipedia.org/wiki/佐々木柚奈 "wikilink")）
   - ペン先にシロップ（七尾美緒）
@@ -163,7 +163,7 @@
   - キスより先に、始めます（わたなべ志穂）
   - 恋と弾丸（箕野希望）※後に本誌に連載
   - コーヒー&バニラ black（朱神宝）
-  - [ねぇ先生、知らないの?](https://ja.wikipedia.org/wiki/ねぇ先生、知らないの? "wikilink")（[浅野あや](https://ja.wikipedia.org/wiki/浅野あや "wikilink")）
+  - [ねぇ先生、知らないの?](../Page/ねぇ先生、知らないの?.md "wikilink")（[浅野あや](https://ja.wikipedia.org/wiki/浅野あや "wikilink")）
   - 発熱リビドー（雨村澪）※本誌より移籍
   - 薔薇色ノ約束（宮坂香帆）※本誌より移籍
   - ヒミツのヒロコちゃん（花緒莉）

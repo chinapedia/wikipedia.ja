@@ -1,7 +1,7 @@
 > この記事は[BSN](https://ja.wikipedia.org/wiki/BSN)から翻訳されています。
 
 
-**株式会社BSNアイネット**（ビーエスエヌ・アイネット）は、[新潟県](../Page/新潟県.md "wikilink")[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")[中央区に本社を置く](https://ja.wikipedia.org/wiki/中央区_\(新潟市\) "wikilink")[情報処理](https://ja.wikipedia.org/wiki/情報処理 "wikilink")サービス、[システムソフトウェア](../Page/システムソフトウェア.md "wikilink")開発などを行う会社。[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")の関連会社である。なお、BSNアイネットの「BSN」のロゴはかつて新潟放送が使用していたロゴである。
+**株式会社BSNアイネット**（ビーエスエヌ・アイネット）は、[新潟県](../Page/新潟県.md "wikilink")[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")[中央区に本社を置く](https://ja.wikipedia.org/wiki/中央区_\(新潟市\) "wikilink")[情報処理](../Page/情報処理.md "wikilink")サービス、[システムソフトウェア](../Page/システムソフトウェア.md "wikilink")開発などを行う会社。[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")の関連会社である。なお、BSNアイネットの「BSN」のロゴはかつて新潟放送が使用していたロゴである。
 
 ## 沿革
 
@@ -51,9 +51,9 @@
 
   - [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")
   - [新潟放送興業](https://ja.wikipedia.org/wiki/新潟放送興業 "wikilink")
-  - [ビーアイテック](https://ja.wikipedia.org/wiki/ビーアイテック "wikilink")
-  - [ホテルイタリア軒](https://ja.wikipedia.org/wiki/ホテルイタリア軒 "wikilink")
-  - [HARD OFF ECOスタジアム新潟](https://ja.wikipedia.org/wiki/新潟県立野球場 "wikilink") - 2009年の開場時から、外野右翼側フェンスに当社の広告を掲出している。
+  - [ビーアイテック](../Page/ビーアイテック.md "wikilink")
+  - [ホテルイタリア軒](../Page/ホテルイタリア軒.md "wikilink")
+  - [HARD OFF ECOスタジアム新潟](../Page/新潟県立野球場.md "wikilink") - 2009年の開場時から、外野右翼側フェンスに当社の広告を掲出している。
 
 ## 外部リンク
 

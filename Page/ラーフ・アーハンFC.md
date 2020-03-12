@@ -21,9 +21,9 @@
 
 ## 歴代所属選手
 
-  - [ラフマン・レザイー](https://ja.wikipedia.org/wiki/ラフマン・レザイー "wikilink")
+  - [ラフマン・レザイー](../Page/ラフマン・レザイー.md "wikilink")
 
-  - [ホセイン・カエビ](https://ja.wikipedia.org/wiki/ホセイン・カエビ "wikilink")
+  - [ホセイン・カエビ](../Page/ホセイン・カエビ.md "wikilink")
 
 ## 外部リンク
 

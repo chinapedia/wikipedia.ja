@@ -5,7 +5,7 @@
 
 当初 [NetSaint](http://www.netsaint.org) の名称で Ethan Galstad を中心として開発され、保守されている。また、各種[プラグイン](../Page/プラグイン.md "wikilink")は何人かの[ソフトウェア開発者](https://ja.wikipedia.org/wiki/ソフトウェア開発者 "wikilink")が活発に保守している。
 
-当初 [Linux](https://ja.wikipedia.org/wiki/Linux "wikilink") 向けに開発されたが、現在ではその他の[UNIX](../Page/UNIX.md "wikilink")系[OSでも動作する](../Page/オペレーティングシステム.md "wikilink")。
+当初 [Linux](../Page/Linux.md "wikilink") 向けに開発されたが、現在ではその他の[UNIX](../Page/UNIX.md "wikilink")系[OSでも動作する](../Page/オペレーティングシステム.md "wikilink")。
 
 は[フリーソフトウェア財団](../Page/フリーソフトウェア財団.md "wikilink")の  バージョン 2 で[ライセンス](../Page/ライセンス.md "wikilink")提供されている。
 
@@ -26,7 +26,7 @@
 
 ## 名称の由来
 
-Ethan Galstad の公式サイトにある [FAQ](http://www.nagios.org/faqs/viewfaq.php?faq_id=2&expand=false&showdesc=true) によれば、N.A.G.I.O.S. は[再帰的頭字語](https://ja.wikipedia.org/wiki/再帰的頭字語 "wikilink")であり「」（Nagios は聖人の地位に固執しない）の略であるという。これは当初の名称「」にちなんだものである。「」 は[ギリシア語](https://ja.wikipedia.org/wiki/ギリシア語 "wikilink")「」のラテン翻字であり、聖人（）を意味する。
+Ethan Galstad の公式サイトにある [FAQ](http://www.nagios.org/faqs/viewfaq.php?faq_id=2&expand=false&showdesc=true) によれば、N.A.G.I.O.S. は[再帰的頭字語](../Page/再帰的頭字語.md "wikilink")であり「」（Nagios は聖人の地位に固執しない）の略であるという。これは当初の名称「」にちなんだものである。「」 は[ギリシア語](https://ja.wikipedia.org/wiki/ギリシア語 "wikilink")「」のラテン翻字であり、聖人（）を意味する。
 
 ## 参考文献
 

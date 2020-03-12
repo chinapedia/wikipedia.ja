@@ -1,15 +1,15 @@
 > この記事は[CRH5](https://ja.wikipedia.org/wiki/CRH5)から翻訳されています。
 
 
-**中国高速鉄道CRH5型電車**（ちゅうごくこうそくてつどうCRH5がたでんしゃ）とは、[中国の](../Page/中華人民共和国.md "wikilink")[中華人民共和国鉄道部](https://ja.wikipedia.org/wiki/中華人民共和国鉄道部 "wikilink")（中国国鉄）が第6次在来線スピードアップのために、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[TGV](https://ja.wikipedia.org/wiki/TGV "wikilink")を製造した[アルストム](https://ja.wikipedia.org/wiki/アルストム "wikilink")社と提携して導入した[高速鉄道](../Page/高速鉄道.md "wikilink")[車両である](../Page/鉄道車両.md "wikilink")。なお、外国からの技術移転を基に[ライセンス生産](https://ja.wikipedia.org/wiki/ライセンス生産 "wikilink")されている全てのCRH車両は「[和諧号](https://ja.wikipedia.org/wiki/和諧号 "wikilink")」（和諧＝調和の意）と呼ばれている。
+**中国高速鉄道CRH5型電車**（ちゅうごくこうそくてつどうCRH5がたでんしゃ）とは、[中国の](../Page/中華人民共和国.md "wikilink")[中華人民共和国鉄道部](../Page/中華人民共和国鉄道部.md "wikilink")（中国国鉄）が第6次在来線スピードアップのために、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[TGV](https://ja.wikipedia.org/wiki/TGV "wikilink")を製造した[アルストム](../Page/アルストム.md "wikilink")社と提携して導入した[高速鉄道](../Page/高速鉄道.md "wikilink")[車両である](../Page/鉄道車両.md "wikilink")。なお、外国からの技術移転を基に[ライセンス生産](../Page/ライセンス生産.md "wikilink")されている全てのCRH車両は「[和諧号](../Page/和諧号.md "wikilink")」（和諧＝調和の意）と呼ばれている。
 
 ## 概要
 
-本型式は[アルストム](https://ja.wikipedia.org/wiki/アルストム "wikilink")社の技術を導入して製造されたが、[電気機関車](../Page/電気機関車.md "wikilink")による[動力集中方式](https://ja.wikipedia.org/wiki/動力集中方式 "wikilink")である TGV とは違い、旧[フィアット](../Page/フィアット.md "wikilink")社の「[ペンドリーノ](../Page/ペンドリーノ.md "wikilink")」[ETR600電車をベースとした](https://ja.wikipedia.org/wiki/イタリア国鉄ETR600電車 "wikilink")[動力分散方式](https://ja.wikipedia.org/wiki/動力分散方式 "wikilink")による高速電車車両である。ただし、ETR600 と違い[車体傾斜式車両](../Page/車体傾斜式車両.md "wikilink")ではない。営業運転での最高速度は 250 km/h としている。
+本型式は[アルストム](../Page/アルストム.md "wikilink")社の技術を導入して製造されたが、[電気機関車](../Page/電気機関車.md "wikilink")による[動力集中方式](../Page/動力集中方式.md "wikilink")である TGV とは違い、旧[フィアット](../Page/フィアット.md "wikilink")社の「[ペンドリーノ](../Page/ペンドリーノ.md "wikilink")」[ETR600電車をベースとした](https://ja.wikipedia.org/wiki/イタリア国鉄ETR600電車 "wikilink")[動力分散方式](../Page/動力分散方式.md "wikilink")による高速電車車両である。ただし、ETR600 と違い[車体傾斜式車両](../Page/車体傾斜式車両.md "wikilink")ではない。営業運転での最高速度は 250 km/h としている。
 
 中国側が契約した数は60編成で、そのうち3編成は[イタリア](../Page/イタリア.md "wikilink")で製造され、完全な形で中国に引き渡された。また6編成は組み立ては中国側とし、部品の状態で中国側に引き渡された。残りの51編成は[長春軌道客車](https://ja.wikipedia.org/wiki/長春軌道客車 "wikilink")股份有限公司が製造した。この契約内容は、他の国へ発注したCRH1 - 3型と同様である。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月11日](../Page/12月11日.md "wikilink")にイタリアから[長春](https://ja.wikipedia.org/wiki/長春 "wikilink")へ船便で発送され、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")1月に到着した。中国生産車両については2007年4月に鉄道部に納入され、営業運転で使用されている。
+[2006年](../Page/2006年.md "wikilink")[12月11日](../Page/12月11日.md "wikilink")にイタリアから[長春](https://ja.wikipedia.org/wiki/長春 "wikilink")へ船便で発送され、[2007年](../Page/2007年.md "wikilink")1月に到着した。中国生産車両については2007年4月に鉄道部に納入され、営業運転で使用されている。
 
 [2014年](../Page/2014年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")に[CRHシリーズの車両番号表記が変更され](https://ja.wikipedia.org/wiki/中国鉄路高速 "wikilink")、元の番号（CRH5-xxxA）が（CRH5A-5xxx）に変更されたのと同時に、CRH5Aのうち耐寒設備を備えた編成は**CRH5G**、乾燥地帯向けの編成は**CRH5H**と形式が改められている\[1\]。
 
@@ -178,8 +178,8 @@ ZE 5xxx00</p></td>
 
   - [中華人民共和国の高速鉄道](https://ja.wikipedia.org/wiki/中華人民共和国の高速鉄道 "wikilink")
   - [中国鉄路高速](https://ja.wikipedia.org/wiki/中国鉄路高速 "wikilink")
-  - [和諧号](https://ja.wikipedia.org/wiki/和諧号 "wikilink")
-  - [中国高速鉄道CRH1型電車](../Page/中国高速鉄道CRH1型電車.md "wikilink")（[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")・[ボンバルディア・トランスポーテーション](https://ja.wikipedia.org/wiki/ボンバルディア・トランスポーテーション "wikilink")との技術提携車両）
+  - [和諧号](../Page/和諧号.md "wikilink")
+  - [中国高速鉄道CRH1型電車](../Page/中国高速鉄道CRH1型電車.md "wikilink")（[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")・[ボンバルディア・トランスポーテーション](../Page/ボンバルディア・トランスポーテーション.md "wikilink")との技術提携車両）
   - [中国高速鉄道CRH2型電車](../Page/中国高速鉄道CRH2型電車.md "wikilink")（[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[新幹線](../Page/新幹線.md "wikilink")[E2系に準じた高速鉄道車両](../Page/新幹線E2系電車.md "wikilink")）
   - [中国高速鉄道CRH3型電車](../Page/中国高速鉄道CRH3型電車.md "wikilink")（[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[ICE 3に準じた高速鉄道車両](https://ja.wikipedia.org/wiki/ICE_3 "wikilink")）
   - [中国高速鉄道CRH6型電車](https://ja.wikipedia.org/wiki/中国高速鉄道CRH6型電車 "wikilink")
@@ -188,7 +188,7 @@ ZE 5xxx00</p></td>
 ## 外部リンク
 
   - [車輌メーカーの運行開始＆紹介記事](http://www.cnrgc.com/LISTS/article/_MAINPAGE/news/default3.aspx?id=1993)
-  - [中国高速鉄道 CRH3 CRH5](http://www.youtube.com/watch?v=smbiqsHWyK8) (中国語 [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月18日](../Page/4月18日.md "wikilink"))
+  - [中国高速鉄道 CRH3 CRH5](http://www.youtube.com/watch?v=smbiqsHWyK8) (中国語 [2007年](../Page/2007年.md "wikilink")[4月18日](../Page/4月18日.md "wikilink"))
 
 [Category:中国の高速鉄道車両](https://ja.wikipedia.org/wiki/Category:中国の高速鉄道車両 "wikilink") [Category:中国の電車](https://ja.wikipedia.org/wiki/Category:中国の電車 "wikilink") [Category:中華人民共和国鉄道部の鉄道車両](https://ja.wikipedia.org/wiki/Category:中華人民共和国鉄道部の鉄道車両 "wikilink") [Category:ペンドリーノ](https://ja.wikipedia.org/wiki/Category:ペンドリーノ "wikilink") [Category:2006年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:2006年製の鉄道車両 "wikilink") [Category:アルストム製の鉄道車両](https://ja.wikipedia.org/wiki/Category:アルストム製の鉄道車両 "wikilink")
 

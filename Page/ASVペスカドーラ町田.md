@@ -1,7 +1,7 @@
 > この記事は[ASV](https://ja.wikipedia.org/wiki/ASV)から翻訳されています。
 
 
-**ASVペスカドーラ町田**（エーエスヴイ ペスカドーラまちだ、）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[町田市](../Page/町田市.md "wikilink")をホームタウンとする\[1\]、[日本フットサルリーグ](https://ja.wikipedia.org/wiki/日本フットサルリーグ "wikilink")（Fリーグ）に加盟するフットサルクラブ。呼称は**ペスカドーラ町田**である。
+**ASVペスカドーラ町田**（エーエスヴイ ペスカドーラまちだ、）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[東京都](../Page/東京都.md "wikilink")[町田市](../Page/町田市.md "wikilink")をホームタウンとする\[1\]、[日本フットサルリーグ](https://ja.wikipedia.org/wiki/日本フットサルリーグ "wikilink")（Fリーグ）に加盟するフットサルクラブ。呼称は**ペスカドーラ町田**である。
 
 ## 沿革
 
@@ -140,20 +140,20 @@
 
 2012年3月現在
 
-| 対戦チーム                                                                           | リーグ戦 |    | カップ戦 |   | 全日本 |
-| ------------------------------------------------------------------------------- | ---- | -- | ---- | - | --- |
-| 勝                                                                               | 分    | 敗  |      | 得 | 失   |
-| [エスポラーダ北海道](https://ja.wikipedia.org/wiki/エスポラーダ北海道 "wikilink")                 | 4    | 1  | 4    |   | 31  |
-| [ステラミーゴいわて花巻](../Page/ステラミーゴいわて花巻.md "wikilink")                                | 12   | \- | 3    |   | 77  |
-| [バルドラール浦安](https://ja.wikipedia.org/wiki/バルドラール浦安フットボールサラ "wikilink")           | 3    | \- | 12   |   | 35  |
-| [立川・府中アスレティックFC](https://ja.wikipedia.org/wiki/東京府中アスレティックフットボールクラブ "wikilink") | 6    | 1  | 2    |   | 29  |
-| [湘南ベルマーレ](https://ja.wikipedia.org/wiki/湘南ベルマーレフットサルクラブ "wikilink")             | 9    | 2  | 4    |   | 63  |
-| [アグレミーナ浜松](https://ja.wikipedia.org/wiki/アグレミーナ浜松 "wikilink")                   | \-   | \- | \-   |   | \-  |
-| [名古屋オーシャンズ](https://ja.wikipedia.org/wiki/名古屋オーシャンズ "wikilink")                 | \-   | 1  | 14   |   | 29  |
-| [シュライカー大阪](https://ja.wikipedia.org/wiki/シュライカー大阪 "wikilink")                   | 6    | 1  | 8    |   | 50  |
-| [デウソン神戸](https://ja.wikipedia.org/wiki/デウソン神戸 "wikilink")                       | 5    | 3  | 7    |   | 54  |
-| [バサジィ大分](../Page/バサジィ大分.md "wikilink")                                          | 8    | 3  | 4    |   | 47  |
-| 計                                                                               | 53   | 12 | 58   |   | 416 |
+| 対戦チーム                                                         | リーグ戦 |    | カップ戦 |   | 全日本 |
+| ------------------------------------------------------------- | ---- | -- | ---- | - | --- |
+| 勝                                                             | 分    | 敗  |      | 得 | 失   |
+| [エスポラーダ北海道](../Page/エスポラーダ北海道.md "wikilink")                  | 4    | 1  | 4    |   | 31  |
+| [ステラミーゴいわて花巻](../Page/ステラミーゴいわて花巻.md "wikilink")              | 12   | \- | 3    |   | 77  |
+| [バルドラール浦安](../Page/バルドラール浦安フットボールサラ.md "wikilink")            | 3    | \- | 12   |   | 35  |
+| [立川・府中アスレティックFC](../Page/東京府中アスレティックフットボールクラブ.md "wikilink")  | 6    | 1  | 2    |   | 29  |
+| [湘南ベルマーレ](../Page/湘南ベルマーレフットサルクラブ.md "wikilink")              | 9    | 2  | 4    |   | 63  |
+| [アグレミーナ浜松](https://ja.wikipedia.org/wiki/アグレミーナ浜松 "wikilink") | \-   | \- | \-   |   | \-  |
+| [名古屋オーシャンズ](../Page/名古屋オーシャンズ.md "wikilink")                  | \-   | 1  | 14   |   | 29  |
+| [シュライカー大阪](https://ja.wikipedia.org/wiki/シュライカー大阪 "wikilink") | 6    | 1  | 8    |   | 50  |
+| [デウソン神戸](../Page/デウソン神戸.md "wikilink")                        | 5    | 3  | 7    |   | 54  |
+| [バサジィ大分](../Page/バサジィ大分.md "wikilink")                        | 8    | 3  | 4    |   | 47  |
+| 計                                                             | 53   | 12 | 58   |   | 416 |
 
 ## ユニフォーム
 
@@ -181,7 +181,7 @@
 ## 2018-19シーズン所属選手
 
   - 監督 : [岡山孝介](https://ja.wikipedia.org/wiki/岡山孝介 "wikilink")
-  - コーチ : [甲斐修侍](https://ja.wikipedia.org/wiki/甲斐修侍 "wikilink")
+  - コーチ : [甲斐修侍](../Page/甲斐修侍.md "wikilink")
   - コーチ : 小川亮
 
 ## 脚注

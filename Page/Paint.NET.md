@@ -5,7 +5,7 @@
 
 ## 概要
 
-このソフトウェアは[Microsoft Windows用に](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[ワシントン州立大学](https://ja.wikipedia.org/wiki/ワシントン州立大学_\(プルマン\) "wikilink") (WSU) のプロジェクトとして始まり、[マイクロソフト](../Page/マイクロソフト.md "wikilink")の指導と共に開発された。Paint.NET は基本的に[C\#言語で開発されているが](../Page/C_Sharp.md "wikilink")、インストーラや一部に[C++](../Page/C++.md "wikilink")言語が使われている。
+このソフトウェアは[Microsoft Windows用に](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[ワシントン州立大学](../Page/ワシントン州立大学_\(プルマン\).md "wikilink") (WSU) のプロジェクトとして始まり、[マイクロソフト](../Page/マイクロソフト.md "wikilink")の指導と共に開発された。Paint.NET は基本的に[C\#言語で開発されているが](../Page/C_Sharp.md "wikilink")、インストーラや一部に[C++](../Page/C++.md "wikilink")言語が使われている。
 
 主要開発者2名はマイクロソフトに採用されている\[1\]。
 
@@ -15,7 +15,7 @@
 
 ### タイムライン
 
-  - バージョン 1.0 （公開日：[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[5月6日](../Page/5月6日.md "wikilink")）：
+  - バージョン 1.0 （公開日：[2004年](../Page/2004年.md "wikilink")[5月6日](../Page/5月6日.md "wikilink")）：
       - WSU 開発者：Rick Brewster、Brandon Ortiz、Chris Trevino、Luke Walker
       - WSU 指揮者：Jack Hagemeister
       - Microsoft スポンサー：Ivan Lumala
@@ -32,15 +32,15 @@
       - Microsoft 指導者：Rick Brewster
       - 効果：Chris Crosetto
       - テスト：WSU's Computer Science 422 Fall 2004 Students
-  - バージョン 2.1 （公開日：[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月30日](../Page/4月30日.md "wikilink")）：
+  - バージョン 2.1 （公開日：[2005年](../Page/2005年.md "wikilink")[4月30日](../Page/4月30日.md "wikilink")）：
       - 開発者：Rick Brewster、Tom Jackson、Craig Taylor
       - ホームページのデザイン：Luke Walker
   - バージョン 2.5 （公開日：2005年[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")）
       - 開発者：Rick Brewster、Tom Jackson.
-  - バージョン 2.6 （公開日：[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")） - .NET Framework 2.0が必要となる
+  - バージョン 2.6 （公開日：[2006年](../Page/2006年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")） - .NET Framework 2.0が必要となる
   - バージョン 2.70 （公開日：2006年[8月2日](../Page/8月2日.md "wikilink")）
       - システムの必要環境の変更、プラグインの更新
-  - バージョン 3.0 （公開日：[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")） - Windows 2000が対応OSから外れる
+  - バージョン 3.0 （公開日：[2007年](../Page/2007年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")） - Windows 2000が対応OSから外れる
       - タブの追加
       - カラーパレットの追加
       - グラデーションの追加

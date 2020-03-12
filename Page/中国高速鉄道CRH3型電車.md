@@ -1,14 +1,14 @@
 > この記事は[CRH3](https://ja.wikipedia.org/wiki/CRH3)から翻訳されています。
 
 
-**中国高速鉄道CRH3型電車**（ちゅうごくこうそくてつどうCRH3がたでんしゃ）は、[中華人民共和国](../Page/中華人民共和国.md "wikilink")[鉄道部](https://ja.wikipedia.org/wiki/中華人民共和国鉄道部 "wikilink")（中国国鉄）が第6次在来線スピードアップのために、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[シーメンス](../Page/シーメンス.md "wikilink")社の技術供与によって中国の車両メーカーが製造する[高速鉄道](../Page/高速鉄道.md "wikilink")[車両である](../Page/鉄道車両.md "wikilink")。
-なお、外国からの技術移転を基に[ライセンス生産](https://ja.wikipedia.org/wiki/ライセンス生産 "wikilink")されている全てのCRH車両は「[和諧号](https://ja.wikipedia.org/wiki/和諧号 "wikilink")」（和諧＝調和の意）と呼ばれている。
+**中国高速鉄道CRH3型電車**（ちゅうごくこうそくてつどうCRH3がたでんしゃ）は、[中華人民共和国](../Page/中華人民共和国.md "wikilink")[鉄道部](../Page/中華人民共和国鉄道部.md "wikilink")（中国国鉄）が第6次在来線スピードアップのために、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[シーメンス](../Page/シーメンス.md "wikilink")社の技術供与によって中国の車両メーカーが製造する[高速鉄道](../Page/高速鉄道.md "wikilink")[車両である](../Page/鉄道車両.md "wikilink")。
+なお、外国からの技術移転を基に[ライセンス生産](../Page/ライセンス生産.md "wikilink")されている全てのCRH車両は「[和諧号](../Page/和諧号.md "wikilink")」（和諧＝調和の意）と呼ばれている。
 
 この項目では**中国高速鉄道CRH380B型電車**、**中国高速鉄道CRH380C型電車**についても解説する。
 
 ## 概略
 
-中華人民共和国鉄道部は、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の各[高速鉄道](../Page/高速鉄道.md "wikilink")の技術を導入するため、競争させるかのように製造契約をしているが、本型式は[ICE第3世代車両](https://ja.wikipedia.org/wiki/ICE_3 "wikilink") (ICE 3) をベースに開発するもので、最高速度 300 [km/h](https://ja.wikipedia.org/wiki/キロメートル毎時 "wikilink") 台の高速鉄道用と最高速度 200 km/h 台の在来線高速化用の計100編成のうち60編成について、ICE3 ベースの車両を現地企業との合弁で納入することが[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に決定された。3編成はドイツ純正、残りは中国への技術移転による生産（北車[唐山による製造](https://ja.wikipedia.org/wiki/唐山軌道客車 "wikilink")）となる。 [北京・天津高速鉄道の開通に合わせて](https://ja.wikipedia.org/wiki/京津都市間鉄道 "wikilink")[新幹線E2系1000番台ベースの](../Page/新幹線E2系電車.md "wikilink")[CRH2C型とともに](../Page/中国高速鉄道CRH2型電車.md "wikilink")[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[8月1日](../Page/8月1日.md "wikilink")より世界最速の 350 km/h 営業運転を開始した。 次いで、中国南部の[広州](https://ja.wikipedia.org/wiki/広州 "wikilink")と[武漢](https://ja.wikipedia.org/wiki/武漢 "wikilink")約900キロを結ぶ高速新線、[武広旅客専用線](https://ja.wikipedia.org/wiki/武広旅客専用線 "wikilink")（2009年12月26日開通）にも投入された。
+中華人民共和国鉄道部は、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の各[高速鉄道](../Page/高速鉄道.md "wikilink")の技術を導入するため、競争させるかのように製造契約をしているが、本型式は[ICE第3世代車両](https://ja.wikipedia.org/wiki/ICE_3 "wikilink") (ICE 3) をベースに開発するもので、最高速度 300 [km/h](../Page/キロメートル毎時.md "wikilink") 台の高速鉄道用と最高速度 200 km/h 台の在来線高速化用の計100編成のうち60編成について、ICE3 ベースの車両を現地企業との合弁で納入することが[2005年](../Page/2005年.md "wikilink")に決定された。3編成はドイツ純正、残りは中国への技術移転による生産（北車[唐山による製造](https://ja.wikipedia.org/wiki/唐山軌道客車 "wikilink")）となる。 [北京・天津高速鉄道の開通に合わせて](../Page/京津都市間鉄道.md "wikilink")[新幹線E2系1000番台ベースの](../Page/新幹線E2系電車.md "wikilink")[CRH2C型とともに](../Page/中国高速鉄道CRH2型電車.md "wikilink")[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[8月1日](../Page/8月1日.md "wikilink")より世界最速の 350 km/h 営業運転を開始した。 次いで、中国南部の[広州](https://ja.wikipedia.org/wiki/広州 "wikilink")と[武漢](https://ja.wikipedia.org/wiki/武漢 "wikilink")約900キロを結ぶ高速新線、[武広旅客専用線](https://ja.wikipedia.org/wiki/武広旅客専用線 "wikilink")（2009年12月26日開通）にも投入された。
 
 しかし、ベースとなったICE3が、連続した高速運転を想定した仕様ではなかったため、武広旅客専用線では運行開始からしばらくの間、故障が相次いだ。
 
@@ -63,7 +63,7 @@ ZE 3xxx00</p></td>
 ### CRH3A
 
 **CRH3A型電車**は、最高速度250km/h\[1\]の運転に適した車両。2017年に営業運転を開始した\[2\]。
-CRH3C型や**CJ1型**([中](https://ja.wikipedia.org/wiki/:zh:和谐号CJ1型电力动车组 "wikilink"))で得られた技術や走行成績を基に設計されており、[長春軌道客車で製造が行われている](https://ja.wikipedia.org/wiki/中国中車長春軌道客車 "wikilink")。
+CRH3C型や**CJ1型**([中](https://ja.wikipedia.org/wiki/:zh:和谐号CJ1型电力动车组 "wikilink"))で得られた技術や走行成績を基に設計されており、[長春軌道客車で製造が行われている](../Page/中国中車長春軌道客車.md "wikilink")。
 
 8両[編成で組成され](https://ja.wikipedia.org/wiki/編成_\(鉄道\) "wikilink")、1両目から次のように番号が振られる。
 
@@ -395,10 +395,10 @@ CRH380C-6301L.jpg|CRH380CL-5601編成。
 
   - [中華人民共和国の高速鉄道](https://ja.wikipedia.org/wiki/中華人民共和国の高速鉄道 "wikilink")
   - [中国鉄路高速](https://ja.wikipedia.org/wiki/中国鉄路高速 "wikilink")
-  - [和諧号](https://ja.wikipedia.org/wiki/和諧号 "wikilink")
-  - [中国高速鉄道CRH1型電車](../Page/中国高速鉄道CRH1型電車.md "wikilink")（[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")・[ボンバルディア・トランスポーテーション](https://ja.wikipedia.org/wiki/ボンバルディア・トランスポーテーション "wikilink")との技術提携車両）
+  - [和諧号](../Page/和諧号.md "wikilink")
+  - [中国高速鉄道CRH1型電車](../Page/中国高速鉄道CRH1型電車.md "wikilink")（[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")・[ボンバルディア・トランスポーテーション](../Page/ボンバルディア・トランスポーテーション.md "wikilink")との技術提携車両）
   - [中国高速鉄道CRH2型電車](../Page/中国高速鉄道CRH2型電車.md "wikilink")（[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[新幹線](../Page/新幹線.md "wikilink")[E2系に準じた高速鉄道車両](../Page/新幹線E2系電車.md "wikilink")）
-  - [中国高速鉄道CRH5型電車](https://ja.wikipedia.org/wiki/中国高速鉄道CRH5型電車 "wikilink")（[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[アルストム](https://ja.wikipedia.org/wiki/アルストム "wikilink")との技術提携車両。CJ1型のベースの1つ）
+  - [中国高速鉄道CRH5型電車](../Page/中国高速鉄道CRH5型電車.md "wikilink")（[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[アルストム](../Page/アルストム.md "wikilink")との技術提携車両。CJ1型のベースの1つ）
   - [中国高速鉄道CRH380A型電車](https://ja.wikipedia.org/wiki/中国高速鉄道CRH380A型電車 "wikilink")（[CRH2C](../Page/中国高速鉄道CRH2型電車.md "wikilink") を基礎に開発された高速鉄道車両）
   - [ICE 3](https://ja.wikipedia.org/wiki/ICE#ICE_3 "wikilink")
   - [ヴェラロ](https://ja.wikipedia.org/wiki/ヴェラロ "wikilink")

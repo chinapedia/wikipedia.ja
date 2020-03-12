@@ -1,9 +1,9 @@
 > この記事は[DTX](https://ja.wikipedia.org/wiki/DTX)から翻訳されています。
 
 
-[Comparison_ATX_µATX_DTX_ITX_mini-DTX.svg](https://ja.wikipedia.org/wiki/File:Comparison_ATX_µATX_DTX_ITX_mini-DTX.svg "fig:Comparison_ATX_µATX_DTX_ITX_mini-DTX.svg") **DTX**は、2007年1月10日に[AMDが発表した](https://ja.wikipedia.org/wiki/アドバンスト・マイクロ・デバイセズ "wikilink")、[ATX](https://ja.wikipedia.org/wiki/ATX "wikilink")規格から派生したデスクトップパソコン用[マザーボード](https://ja.wikipedia.org/wiki/マザーボード "wikilink")の[フォームファクタ](https://ja.wikipedia.org/wiki/フォームファクタ "wikilink")である。特に[省スペースパソコン](https://ja.wikipedia.org/wiki/省スペースパソコン "wikilink")向けに設計されていて、キューブ型の省スペースパソコンでの使用を意図している\[1\]。
+[Comparison_ATX_µATX_DTX_ITX_mini-DTX.svg](https://ja.wikipedia.org/wiki/File:Comparison_ATX_µATX_DTX_ITX_mini-DTX.svg "fig:Comparison_ATX_µATX_DTX_ITX_mini-DTX.svg") **DTX**は、2007年1月10日に[AMDが発表した](https://ja.wikipedia.org/wiki/アドバンスト・マイクロ・デバイセズ "wikilink")、[ATX](../Page/ATX.md "wikilink")規格から派生したデスクトップパソコン用[マザーボード](../Page/マザーボード.md "wikilink")の[フォームファクタ](https://ja.wikipedia.org/wiki/フォームファクタ "wikilink")である。特に[省スペースパソコン](../Page/省スペースパソコン.md "wikilink")向けに設計されていて、キューブ型の省スペースパソコンでの使用を意図している\[1\]。
 
-DTXフォームファクタはオープン規格であり、[ATX](https://ja.wikipedia.org/wiki/ATX "wikilink")に後方互換性を持つ。ATXと同じマザーボード固定用の穴を使うことができ、ATX用の本体ケースで用いることもできる。さらに小さい **Mini-DTX** も存在する。\[2\]
+DTXフォームファクタはオープン規格であり、[ATX](../Page/ATX.md "wikilink")に後方互換性を持つ。ATXと同じマザーボード固定用の穴を使うことができ、ATX用の本体ケースで用いることもできる。さらに小さい **Mini-DTX** も存在する。\[2\]
 
 ただし2012年2月現在、公式サイトとされていた DTXpc.org は別の業者のサイトになっている。
 
@@ -16,7 +16,7 @@ DTXフォームファクタはオープン規格であり、[ATX](https://ja.wik
   - Mini-DTX
     基板サイズ - 170mm×203mm\[4\]。DTXを縦方向に削ったものとなる。
     拡張スロット - 最大2本
-    ATX・microATX、拡張スロットを2本持った[Mini-ITX](https://ja.wikipedia.org/wiki/Mini-ITX "wikilink")ケースに実装可能
+    ATX・microATX、拡張スロットを2本持った[Mini-ITX](../Page/Mini-ITX.md "wikilink")ケースに実装可能
 
 ## 長所
 

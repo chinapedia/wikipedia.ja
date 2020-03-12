@@ -3,7 +3,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:XML_languages.svg "wikilink")
 
-**XSL変換**（）は、[W3Cにより標準化された](../Page/World_Wide_Web_Consortium.md "wikilink")[XML文書の](../Page/Extensible_Markup_Language.md "wikilink")[変換用言語である](https://ja.wikipedia.org/wiki/変換言語 "wikilink")。3つの仕様から成る[XSLのうちの](https://ja.wikipedia.org/wiki/Extensible_Stylesheet_Language "wikilink")、ひとつの仕様である。XSLT の仕様は[ジェームズ・クラークを中心とした人々が設計した](https://ja.wikipedia.org/wiki/ジェームズ・クラーク_\(ソフトウェア技術者\) "wikilink")。XSLT と XSL-FO は[DSSSLをもとにして設計された](https://ja.wikipedia.org/wiki/Document_Style_Semantics_and_Specification_Language "wikilink")。
+**XSL変換**（）は、[W3Cにより標準化された](../Page/World_Wide_Web_Consortium.md "wikilink")[XML文書の](../Page/Extensible_Markup_Language.md "wikilink")[変換用言語である](https://ja.wikipedia.org/wiki/変換言語 "wikilink")。3つの仕様から成る[XSLのうちの](../Page/Extensible_Stylesheet_Language.md "wikilink")、ひとつの仕様である。XSLT の仕様は[ジェームズ・クラークを中心とした人々が設計した](../Page/ジェームズ・クラーク_\(ソフトウェア技術者\).md "wikilink")。XSLT と XSL-FO は[DSSSLをもとにして設計された](../Page/Document_Style_Semantics_and_Specification_Language.md "wikilink")。
 
 XSLT 1.0 は1999年11月23日に[W3C勧告](https://ja.wikipedia.org/wiki/W3C勧告 "wikilink")となり、2007年には JIS X 4169 として[JIS規格へ翻訳された](https://ja.wikipedia.org/wiki/日本工業規格 "wikilink")。XSLT 2.0 は2007年1月23日に、3.0は2017年6月8日に[W3C勧告](https://ja.wikipedia.org/wiki/W3C勧告 "wikilink")となった。
 
@@ -15,9 +15,9 @@ XSLTはXML形式の文書を変換する。 による選択と検索にもとづ
   - テキストの移動
   - テキストのソート
 
-変換の指定は[関数型言語](../Page/関数型言語.md "wikilink")として見ることもでき、実のところ[チューリング完全](https://ja.wikipedia.org/wiki/チューリング完全 "wikilink")であるため、コンピュータ・プログラムを書くようにしてどんな応用も可能である。裏返せば、その機能を十分に発揮させるためには利用者に通常のプログラミングと同様の能力と作業が必要であり、しばしばXMLに対して持たれている「プログラミングが不要」という期待を裏切るものではある。
+変換の指定は[関数型言語](../Page/関数型言語.md "wikilink")として見ることもでき、実のところ[チューリング完全](../Page/チューリング完全.md "wikilink")であるため、コンピュータ・プログラムを書くようにしてどんな応用も可能である。裏返せば、その機能を十分に発揮させるためには利用者に通常のプログラミングと同様の能力と作業が必要であり、しばしばXMLに対して持たれている「プログラミングが不要」という期待を裏切るものではある。
 
-変換の対象となるXML文書は[木構造であり](https://ja.wikipedia.org/wiki/木構造_\(データ構造\) "wikilink")、XSLTによる変換は宣言的に指定される。つまり、XSLTプログラムは、変換をどう行うべきか指定する**規則**をいくつか集めたものからなり、この規則を再帰的に適用することによって変換を行う。
+変換の対象となるXML文書は[木構造であり](../Page/木構造_\(データ構造\).md "wikilink")、XSLTによる変換は宣言的に指定される。つまり、XSLTプログラムは、変換をどう行うべきか指定する**規則**をいくつか集めたものからなり、この規則を再帰的に適用することによって変換を行う。
 
 XSLT処理系はまずどの規則が適用できるかチェックし、優先順にもとづいて該当する変換を行う。
 

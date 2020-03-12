@@ -7,9 +7,9 @@
 
 ### 『2典』時代
 
-2典Plusの前身となる2典は、インターネット掲示板[2ちゃんねる](https://ja.wikipedia.org/wiki/2ちゃんねる "wikilink")[ラウンジ板](https://ja.wikipedia.org/wiki/ラウンジ板 "wikilink")で[2001年](../Page/2001年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")に作成がスタートした。
+2典Plusの前身となる2典は、インターネット掲示板[2ちゃんねる](../Page/2ちゃんねる.md "wikilink")[ラウンジ板](https://ja.wikipedia.org/wiki/ラウンジ板 "wikilink")で[2001年](../Page/2001年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")に作成がスタートした。
 
-まず「編集者」という[ハンドルネーム](https://ja.wikipedia.org/wiki/ハンドルネーム "wikilink")の人物が、2001年6月19日にNHKで放送された『[プロジェクトX第](https://ja.wikipedia.org/wiki/プロジェクトX〜挑戦者たち〜 "wikilink")57回 父と息子 執念燃ゆ 大辞典』（[岩波書店](https://ja.wikipedia.org/wiki/岩波書店 "wikilink")の[広辞苑](https://ja.wikipedia.org/wiki/広辞苑 "wikilink")の製作過程を扱った回）に感動し、「2chにもこのような辞典があれば面白いのに」\[14\]と考えたとして、翌6月20日に[2ちゃんねる](https://ja.wikipedia.org/wiki/2ちゃんねる "wikilink")の[ラウンジ板でスレッド](https://ja.wikipedia.org/wiki/案内_\(2ちゃんねるカテゴリ\)#ラウンジ板 "wikilink")『みんなで「2ちゃん辞典（仮）」を作ろう！』\[15\]を新たに作成した。この「編集長」という人物が中心となり、スレッド上で言葉を募ってデータを編集し始めた。
+まず「編集者」という[ハンドルネーム](../Page/ハンドルネーム.md "wikilink")の人物が、2001年6月19日にNHKで放送された『[プロジェクトX第](../Page/プロジェクトX〜挑戦者たち〜.md "wikilink")57回 父と息子 執念燃ゆ 大辞典』（[岩波書店](../Page/岩波書店.md "wikilink")の[広辞苑](../Page/広辞苑.md "wikilink")の製作過程を扱った回）に感動し、「2chにもこのような辞典があれば面白いのに」\[14\]と考えたとして、翌6月20日に[2ちゃんねる](../Page/2ちゃんねる.md "wikilink")の[ラウンジ板でスレッド](https://ja.wikipedia.org/wiki/案内_\(2ちゃんねるカテゴリ\)#ラウンジ板 "wikilink")『みんなで「2ちゃん辞典（仮）」を作ろう！』\[15\]を新たに作成した。この「編集長」という人物が中心となり、スレッド上で言葉を募ってデータを編集し始めた。
 
 上記スレッドの332番目の書き込み\[16\]で「編集長」がサイトの[URLを公開した](../Page/Uniform_Resource_Locator.md "wikilink")\[17\]。「2典」という名称は上記スレッドの427番目の書き込み\[18\]で匿名投稿者により提案され、同428番目の書き込み\[19\]で「編集長」に採用された。
 
@@ -25,13 +25,13 @@
 
 ## 書籍化
 
-[2002年](../Page/2002年.md "wikilink")から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")にかけて三度出版された\[35\]。
+[2002年](../Page/2002年.md "wikilink")から[2005年](../Page/2005年.md "wikilink")にかけて三度出版された\[35\]。
 
-  - 2典 -2ちゃんねる辞典-（[ブッキング](https://ja.wikipedia.org/wiki/ブッキング "wikilink")、2002年5月、ISBN 4-8354-4033-1）
+  - 2典 -2ちゃんねる辞典-（[ブッキング](../Page/ブッキング.md "wikilink")、2002年5月、ISBN 4-8354-4033-1）
   - 続2典 -続2ちゃんねる辞典-（ブッキング、2003年10月、ISBN 4-8354-4062-5）
-  - 2典 第3版（[宝島社](https://ja.wikipedia.org/wiki/宝島社 "wikilink")、2005年7月、ISBN 4-7966-4754-6）
+  - 2典 第3版（[宝島社](../Page/宝島社.md "wikilink")、2005年7月、ISBN 4-7966-4754-6）
 
-また[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")には、2ちゃんねる用語を掲載した[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")用[日めくりカレンダーの](https://ja.wikipedia.org/wiki/カレンダー#形態 "wikilink")『2典日ちぎり』が発売された。
+また[2006年](../Page/2006年.md "wikilink")には、2ちゃんねる用語を掲載した[2007年](../Page/2007年.md "wikilink")用[日めくりカレンダーの](https://ja.wikipedia.org/wiki/カレンダー#形態 "wikilink")『2典日ちぎり』が発売された。
 
   - 2典日ちぎり（ハゴロモ、2006年11月、）
 

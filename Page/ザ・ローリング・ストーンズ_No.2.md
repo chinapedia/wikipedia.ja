@@ -7,9 +7,9 @@
 
 録音はグループ初の[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")ツアーの合間を縫って、[大西洋](../Page/大西洋.md "wikilink")をまたいで散発的に行われた。まず1964年6月10日から11日にかけて、[シカゴ](../Page/シカゴ.md "wikilink")のチェス・スタジオにて最初の録音が行われ\[1\]、その後[ロンドン](../Page/ロンドン.md "wikilink")に戻り、9月2日から4日、28日から30日にかけてリージェント・サウンド・スタジオにて\[2\]、さらに11月2日に[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")のRCAスタジオで、同月8日に再びチェス・スタジオで行った録音でようやく完成となった\[3\]。
 
-アメリカではイギリスに先んじて2作目のオリジナルアルバム『[12×5](https://ja.wikipedia.org/wiki/12×5 "wikilink")』がリリースされており、本作のジャケットは『12×5』で使用された写真がそのまま流用された。収録内容は『12×5』にも入れられた「[タイム・イズ・オン・マイ・サイド](https://ja.wikipedia.org/wiki/タイム・イズ・オン・マイ・サイド "wikilink")」、「なぎさのボードウォーク」、「スージーQ」以外は新作となっている。本作も前作『[ザ・ローリング・ストーンズ](https://ja.wikipedia.org/wiki/ザ・ローリング・ストーンズ_\(アルバム\) "wikilink")』同様、グループのオリジナル曲は3曲に留まり、大部分がカバーを占めている。
+アメリカではイギリスに先んじて2作目のオリジナルアルバム『[12×5](../Page/12×5.md "wikilink")』がリリースされており、本作のジャケットは『12×5』で使用された写真がそのまま流用された。収録内容は『12×5』にも入れられた「[タイム・イズ・オン・マイ・サイド](https://ja.wikipedia.org/wiki/タイム・イズ・オン・マイ・サイド "wikilink")」、「なぎさのボードウォーク」、「スージーQ」以外は新作となっている。本作も前作『[ザ・ローリング・ストーンズ](../Page/ザ・ローリング・ストーンズ_\(アルバム\).md "wikilink")』同様、グループのオリジナル曲は3曲に留まり、大部分がカバーを占めている。
 
-本作の裏ジャケットのライナー・ノーツは、前作同様マネージャーでプロデュースも務めた[アンドリュー・ルーグ・オールダム](../Page/アンドリュー・ルーグ・オールダム.md "wikilink")が書いたが、その中の「もし君が[パン](../Page/パン.md "wikilink")さえ買えないようなら、[盲人](https://ja.wikipedia.org/wiki/盲人 "wikilink")の頭を叩いて財布を盗んででも買え」という一文が大きな批判を浴び、[上院議会で取り上げられるほどまでに問題が発展した](https://ja.wikipedia.org/wiki/イギリスの議会 "wikilink")。セカンドプレス以降、この一文は削除されている\[4\]。
+本作の裏ジャケットのライナー・ノーツは、前作同様マネージャーでプロデュースも務めた[アンドリュー・ルーグ・オールダム](../Page/アンドリュー・ルーグ・オールダム.md "wikilink")が書いたが、その中の「もし君が[パン](../Page/パン.md "wikilink")さえ買えないようなら、[盲人](https://ja.wikipedia.org/wiki/盲人 "wikilink")の頭を叩いて財布を盗んででも買え」という一文が大きな批判を浴び、[上院議会で取り上げられるほどまでに問題が発展した](../Page/イギリスの議会.md "wikilink")。セカンドプレス以降、この一文は削除されている\[4\]。
 
 トラブルに苛まれながらも、本作はイギリスのチャートで計10週にわたり1位となり、37週連続でチャートインした\[5\]。グループにとっては記念すべき作品となったが反響はまちまちで、[ジョン・レノン](../Page/ジョン・レノン.md "wikilink")は本作について「アルバムは素晴しいが、5分もかかる曲は気にくわない」と評している\[6\]。
 
@@ -23,7 +23,7 @@
 
 1.  **エヴリバディ・ニーズ・サムバディ・トゥ・ラヴ** - *Everybody Needs Somebody To Love* ([Solomon Burke](https://ja.wikipedia.org/wiki/ソロモン・バーク "wikilink")/ Jerry Wexler/Bert Russell) 5:03
 2.  **ダウン・ホーム・ガール** - *Down Home Girl* (Jerry Lieber/Arthur Butler) 4:11
-3.  **[ユー・キャント・キャッチ・ミー](https://ja.wikipedia.org/wiki/ユー・キャント・キャッチ・ミー "wikilink")** - *You Can't Catch Me* ([Chuck Berry](https://ja.wikipedia.org/wiki/チャック・ベリー "wikilink")) 3:38
+3.  **[ユー・キャント・キャッチ・ミー](https://ja.wikipedia.org/wiki/ユー・キャント・キャッチ・ミー "wikilink")** - *You Can't Catch Me* ([Chuck Berry](../Page/チャック・ベリー.md "wikilink")) 3:38
 4.  **[タイム・イズ・オン・マイ・サイド](https://ja.wikipedia.org/wiki/タイム・イズ・オン・マイ・サイド "wikilink")** - *Time Is On My Side* (Norman Meade) 2:52\[7\]
 5.  **ホワット・ア・シェイム** - *What A Shame* ([Mick Jagger/ Keith Richard](https://ja.wikipedia.org/wiki/ジャガー/リチャーズ "wikilink")) 3:03
 6.  **グロウン・アップ・ロング** - *Grown Up Wrong* (Mick Jagger/Keith Richard) 2:03
@@ -42,7 +42,7 @@
 
 2.  **なぎさのボードウォーク** - *Under The Boardwalk* (Arthur Resnick/Kenny Young) 2:46
 
-3.  **アイ・キャント・ビー・サティスファイド** - *I Can't Be Satisfied* ([McKinley Morganfield](https://ja.wikipedia.org/wiki/マディ・ウォーターズ "wikilink")) 3:26
+3.  **アイ・キャント・ビー・サティスファイド** - *I Can't Be Satisfied* ([McKinley Morganfield](../Page/マディ・ウォーターズ.md "wikilink")) 3:26
 
 4.  **ペイン・イン・マイ・ハート** - *Pain In My Heart* (Naomi Neville) 2:11
 

@@ -1,9 +1,9 @@
 > この記事は[STUDIO 4](https://ja.wikipedia.org/wiki/STUDIO_4)から翻訳されています。
 
 
-**株式会社スタジオよんどしい**は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[アニメ制作会社](../Page/アニメ制作会社.md "wikilink")。[日本動画協会](https://ja.wikipedia.org/wiki/日本動画協会 "wikilink")正会員。
+**株式会社スタジオよんどしい**は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[アニメ制作会社](../Page/アニメ制作会社.md "wikilink")。[日本動画協会](../Page/日本動画協会.md "wikilink")正会員。
 
-[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、[テレビ](../Page/テレビ.md "wikilink")、[CMやプロモーション映像](../Page/コマーシャルメッセージ.md "wikilink")、ゲーム内ムービー、[映画](../Page/映画.md "wikilink")を制作。[田中栄子](https://ja.wikipedia.org/wiki/田中栄子_\(プロデューサー\) "wikilink")、[アニメーター](https://ja.wikipedia.org/wiki/アニメーター "wikilink")の[森本晃司が中心となって](https://ja.wikipedia.org/wiki/森本晃司_\(アニメーター\) "wikilink")[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[5月2日](../Page/5月2日.md "wikilink")に設立。[1999年](../Page/1999年.md "wikilink")12月24日、法人として「有限会社スタジオよんどしい」を設立。[2007年](../Page/2007年.md "wikilink")、株式会社に登記変更した。
+[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")、[テレビ](../Page/テレビ.md "wikilink")、[CMやプロモーション映像](../Page/コマーシャルメッセージ.md "wikilink")、ゲーム内ムービー、[映画](../Page/映画.md "wikilink")を制作。[田中栄子](https://ja.wikipedia.org/wiki/田中栄子_\(プロデューサー\) "wikilink")、[アニメーター](../Page/アニメーター.md "wikilink")の[森本晃司が中心となって](../Page/森本晃司_\(アニメーター\).md "wikilink")[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[5月2日](../Page/5月2日.md "wikilink")に設立。[1999年](../Page/1999年.md "wikilink")12月24日、法人として「有限会社スタジオよんどしい」を設立。[2007年](../Page/2007年.md "wikilink")、株式会社に登記変更した。
 
 ## 歴史
 
@@ -19,7 +19,7 @@
 
 [2002年](../Page/2002年.md "wikilink")、『[マトリックス](https://ja.wikipedia.org/wiki/マトリックス_\(映画\) "wikilink")』のアンソロジーアニメーション『[アニマトリックス](../Page/アニマトリックス.md "wikilink")』の制作を行う。
 
-[2004年](../Page/2004年.md "wikilink")に公開された[湯浅政明](../Page/湯浅政明.md "wikilink")監督『[マインド・ゲーム](https://ja.wikipedia.org/wiki/マインド・ゲーム "wikilink")』は単館上映ながら、2004年文化庁メディア芸術祭で大賞に選ばれた。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")カナダ・モントリオール映画祭では4部門受賞という快挙をなしとげた。また、2006年に公開された[マイケル・アリアス](../Page/マイケル・アリアス.md "wikilink")監督『[鉄コン筋クリート](https://ja.wikipedia.org/wiki/鉄コン筋クリート "wikilink")』では日本アカデミー賞優秀アニメーション作品賞を受賞、米国アカデミー賞長編アニメーション部門の選考対象11作品にも選ばれている。
+[2004年](../Page/2004年.md "wikilink")に公開された[湯浅政明](../Page/湯浅政明.md "wikilink")監督『[マインド・ゲーム](../Page/マインド・ゲーム.md "wikilink")』は単館上映ながら、2004年文化庁メディア芸術祭で大賞に選ばれた。[2005年](../Page/2005年.md "wikilink")カナダ・モントリオール映画祭では4部門受賞という快挙をなしとげた。また、2006年に公開された[マイケル・アリアス](../Page/マイケル・アリアス.md "wikilink")監督『[鉄コン筋クリート](../Page/鉄コン筋クリート.md "wikilink")』では日本アカデミー賞優秀アニメーション作品賞を受賞、米国アカデミー賞長編アニメーション部門の選考対象11作品にも選ばれている。
 
 ### 名称の由来
 
@@ -37,7 +37,7 @@
 
 [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")にアニメーションとその関連商品、マルチメディア関連情報サービスの企画・開発・製作・配給・著作権管理を主業務とした会社、株式会社美よんどしい（Beyond C.）を設立している。前述のビヨンドシティもこの美よんどしいによって運営されている。
 
-また、2007年6月には美よんどしいと[SBIホールディングス](https://ja.wikipedia.org/wiki/SBIホールディングス "wikilink")とその子会社の[SBI Robo](../Page/SBI_Robo.md "wikilink")、企画会社の[アーカイブゲート](https://ja.wikipedia.org/wiki/アーカイブゲート "wikilink")と業務提携を締結、金融分野における仮想空間「Cyber MEGACITY - 東京0区」を開始するためのジョイントベンチャーを設立することとなった。
+また、2007年6月には美よんどしいと[SBIホールディングス](../Page/SBIホールディングス.md "wikilink")とその子会社の[SBI Robo](../Page/SBI_Robo.md "wikilink")、企画会社の[アーカイブゲート](https://ja.wikipedia.org/wiki/アーカイブゲート "wikilink")と業務提携を締結、金融分野における仮想空間「Cyber MEGACITY - 東京0区」を開始するためのジョイントベンチャーを設立することとなった。
 
 ## 不祥事
 
@@ -51,35 +51,35 @@
   - EXTRA（1996年 - [ケン・イシイ](../Page/ケン・イシイ.md "wikilink")）
   - 4-Day Weekend（1999年 - [The Bluetones](https://ja.wikipedia.org/wiki/The_Bluetones "wikilink")、イギリス）
   - サバイバル（1999年 - [GLAY](../Page/GLAY.md "wikilink")）
-  - 次元ループ（2001年 - [キセル](https://ja.wikipedia.org/wiki/キセル_\(バンド\) "wikilink")）
+  - 次元ループ（2001年 - [キセル](../Page/キセル_\(バンド\).md "wikilink")）
   - Connected（2002年 - [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")）
   - EXODUS（2005年 - [Utada](https://ja.wikipedia.org/wiki/Utada "wikilink")） [FLUX](https://ja.wikipedia.org/wiki/FLUX "wikilink")アニメーション（アルバムEXODUS収録曲全14曲）
   - Passion（2005年 - [宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")、アニメーションパート）
-  - 夢のかけら（2006年 - [信近エリ](https://ja.wikipedia.org/wiki/信近エリ "wikilink")）
-  - Amazing Nuts\! （2006年 - [m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")、[RAM RIDER](https://ja.wikipedia.org/wiki/RAM_RIDER "wikilink")、[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")、[mink](https://ja.wikipedia.org/wiki/mink "wikilink")）
-  - 新しい世界（2008年 - [ASIAN KUNG-FU GENERATION](https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION "wikilink")）
+  - 夢のかけら（2006年 - [信近エリ](../Page/信近エリ.md "wikilink")）
+  - Amazing Nuts\! （2006年 - [m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")、[RAM RIDER](../Page/RAM_RIDER.md "wikilink")、[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")、[mink](https://ja.wikipedia.org/wiki/mink "wikilink")）
+  - 新しい世界（2008年 - [ASIAN KUNG-FU GENERATION](../Page/ASIAN_KUNG-FU_GENERATION.md "wikilink")）
   - ゼロ（2008年 - [たむらぱん](https://ja.wikipedia.org/wiki/たむらぱん "wikilink")）
 
 ### TV
 
-  - [マクロス7](https://ja.wikipedia.org/wiki/マクロス7 "wikilink")（1994年）
+  - [マクロス7](../Page/マクロス7.md "wikilink")（1994年）
   - ピロッポ（2001年）
-  - [魔法少女隊アルス](https://ja.wikipedia.org/wiki/魔法少女隊アルス "wikilink")（2004年）
+  - [魔法少女隊アルス](../Page/魔法少女隊アルス.md "wikilink")（2004年）
   - [スポーツ大佐](https://ja.wikipedia.org/wiki/団地ともお#スポーツ大佐 "wikilink")（2007年）
   - [トランスフォーマー アニメイテッド](https://ja.wikipedia.org/wiki/トランスフォーマー_アニメイテッド "wikilink")（2008年）
   - [ThunderCats](https://ja.wikipedia.org/wiki/:en:ThunderCats_\(2011_TV_series\) "wikilink")（2011年）
-  - [三ツ矢サイダー](https://ja.wikipedia.org/wiki/三ツ矢サイダー "wikilink")「空飛ぶサイダー」 テレビCM（2015年）
+  - [三ツ矢サイダー](../Page/三ツ矢サイダー.md "wikilink")「空飛ぶサイダー」 テレビCM（2015年）
   - [おかしなガムボール](https://ja.wikipedia.org/wiki/おかしなガムボール "wikilink")（2016年、「因縁の対決?」（英：The Fury）の戦闘シーン）
   - [戦隊ヒーロー スキヤキフォース](https://ja.wikipedia.org/wiki/戦隊ヒーロー_スキヤキフォース "wikilink")（2017年）
 
 ### 映画
 
-  - [MEMORIES](https://ja.wikipedia.org/wiki/MEMORIES_\(映画\) "wikilink")（1995年）
+  - [MEMORIES](../Page/MEMORIES_\(映画\).md "wikilink")（1995年）
   - [音響生命体ノイズマン](https://ja.wikipedia.org/wiki/音響生命体ノイズマン "wikilink")（1997年、劇場用ショートムービー）
   - [スプリガン](../Page/スプリガン_\(漫画\).md "wikilink")（1998年）
-  - [アリーテ姫](https://ja.wikipedia.org/wiki/アリーテ姫 "wikilink")（2001年）
-  - [マインド・ゲーム](https://ja.wikipedia.org/wiki/マインド・ゲーム "wikilink")（2004年）
-  - [鉄コン筋クリート](https://ja.wikipedia.org/wiki/鉄コン筋クリート "wikilink")（2006年）
+  - [アリーテ姫](../Page/アリーテ姫.md "wikilink")（2001年）
+  - [マインド・ゲーム](../Page/マインド・ゲーム.md "wikilink")（2004年）
+  - [鉄コン筋クリート](../Page/鉄コン筋クリート.md "wikilink")（2006年）
   - [Genius Party](https://ja.wikipedia.org/wiki/ジーニアス・パーティ "wikilink")（2007年）
   - [Genius Party Beyond](https://ja.wikipedia.org/wiki/ジーニアス・パーティ#ジーニアス・パーティ・ビヨンド "wikilink")（2008年）
   - [ファースト・スクワッド](https://ja.wikipedia.org/wiki/ファースト・スクワッド "wikilink")（2009年 - Ligalize、ロシア） ()STUDIO 4℃、ロシア[Molot Entertainmentによる合作](https://ja.wikipedia.org/wiki/Molot_Entertainment "wikilink")。
@@ -105,48 +105,48 @@
       - このOVAの為に書き下ろされた主題歌である「DEEP IMAGINATION」（[ANA](https://ja.wikipedia.org/wiki/ANA_\(バンド\) "wikilink")、マキシシングル『EXTRA』に収録）のPVはこのOVAを元にして作られている。
   - [バットマン ゴッサムナイト](../Page/バットマン_ゴッサムナイト.md "wikilink")（2008年）
     ※オムニバス作品。4℃は『俺たちのスゴい話』、『克服できない痛み』の2エピソードを担当。
-  - [デトロイト・メタル・シティ](https://ja.wikipedia.org/wiki/デトロイト・メタル・シティ "wikilink")（2008年）
+  - [デトロイト・メタル・シティ](../Page/デトロイト・メタル・シティ.md "wikilink")（2008年）
   - [ファースト・スクワッド](https://ja.wikipedia.org/wiki/ファースト・スクワッド "wikilink")（2009年）
   - [Halo Legends エピソード1&2【Origins Part1 & Part2】 / エピソード7【The Babysitter】](https://ja.wikipedia.org/wiki/Halo_Legends "wikilink")（2010年）
     ※オムニバス作品。4℃は3エピソードを担当。
 
 ### ウェブアニメ
 
-  - [日本漢字能力検定協会](https://ja.wikipedia.org/wiki/日本漢字能力検定協会 "wikilink")「彼女が漢字を好きな理由」（2015年）
+  - [日本漢字能力検定協会](../Page/日本漢字能力検定協会.md "wikilink")「彼女が漢字を好きな理由」（2015年）
 
 ## 参加/協力作品
 
-  - [マクロス7 銀河がオレを呼んでいる\!](https://ja.wikipedia.org/wiki/マクロス7_銀河がオレを呼んでいる! "wikilink") （1995年） - オープニング制作
+  - [マクロス7 銀河がオレを呼んでいる\!](../Page/マクロス7_銀河がオレを呼んでいる!.md "wikilink") （1995年） - オープニング制作
   - [RAMPO](../Page/RAMPO.md "wikilink") 奥山バージョン （1996年） - アニメーションパート
   - [ポポロクロイス物語II](../Page/ポポロクロイス物語II.md "wikilink") （2000年）- アニメーションパターン
-  - [とっとこハム太郎](https://ja.wikipedia.org/wiki/とっとこハム太郎_\(アニメ\) "wikilink") （2001年） - 各話制作協力
+  - [とっとこハム太郎](../Page/とっとこハム太郎_\(アニメ\).md "wikilink") （2001年） - 各話制作協力
   - [地球少女アルジュナ](../Page/地球少女アルジュナ.md "wikilink") （2001年） - 各話制作協力
   - [天才ビットくん](https://ja.wikipedia.org/wiki/天才ビットくん "wikilink") （2001年 - ）
-  - [ACE COMBAT 04 shattered skies](https://ja.wikipedia.org/wiki/エースコンバット04_シャッタードスカイ "wikilink") （2001年） - ムービーパート
+  - [ACE COMBAT 04 shattered skies](../Page/エースコンバット04_シャッタードスカイ.md "wikilink") （2001年） - ムービーパート
   - [ドラムカンナの冒険](../Page/ドラムカンナの冒険.md "wikilink") （2002年） - CGアニメーション
-  - [サモンナイト3](https://ja.wikipedia.org/wiki/サモンナイト3 "wikilink") （2003年） - OPパート
+  - [サモンナイト3](../Page/サモンナイト3.md "wikilink") （2003年） - OPパート
   - [エースコンバット5 ジ・アンサング・ウォー](https://ja.wikipedia.org/wiki/エースコンバット5 "wikilink") （2004年） - ムービーパート
   - [下妻物語](../Page/下妻物語.md "wikilink") （2004年） - アニメーションパート
   - [NIKECM](../Page/ナイキ.md "wikilink") 恐怖の部屋 （2004年、レブロン・ジェームス主演）
-  - [ラクガキ王国 魔王城の戦い](https://ja.wikipedia.org/wiki/ラクガキ王国 "wikilink")2 （2004年） - OP\&EDパート
-  - [遊☆戯☆王](https://ja.wikipedia.org/wiki/遊☆戯☆王 "wikilink")CM デュエルモンスターズ SOUL OF THE DUELIST （2004年）
-  - [スチームボーイ](https://ja.wikipedia.org/wiki/スチームボーイ "wikilink") （2004年） - 制作協力
-  - [シャイニング・フォース ネオ](https://ja.wikipedia.org/wiki/シャイニング・フォース_ネオ "wikilink") （2005年） - アニメーションパート
-  - [遊☆戯☆王](https://ja.wikipedia.org/wiki/遊☆戯☆王 "wikilink")CM デュエルモンスターズ SHADOW OF INIFINITY （2005年）
+  - [ラクガキ王国 魔王城の戦い](../Page/ラクガキ王国.md "wikilink")2 （2004年） - OP\&EDパート
+  - [遊☆戯☆王](../Page/遊☆戯☆王.md "wikilink")CM デュエルモンスターズ SOUL OF THE DUELIST （2004年）
+  - [スチームボーイ](../Page/スチームボーイ.md "wikilink") （2004年） - 制作協力
+  - [シャイニング・フォース ネオ](../Page/シャイニング・フォース_ネオ.md "wikilink") （2005年） - アニメーションパート
+  - [遊☆戯☆王](../Page/遊☆戯☆王.md "wikilink")CM デュエルモンスターズ SHADOW OF INIFINITY （2005年）
   - [リンカーン](../Page/リンカーン_\(テレビ番組\).md "wikilink") （2005年 - ） - オープニングアニメーション
-  - [ローグギャラクシー](https://ja.wikipedia.org/wiki/ローグギャラクシー "wikilink") （2005年） - ムービーパート
-  - [遊☆戯☆王](https://ja.wikipedia.org/wiki/遊☆戯☆王 "wikilink")CM デュエルモンスターズ FORCE OF THE BREAKER （2007年）
+  - [ローグギャラクシー](../Page/ローグギャラクシー.md "wikilink") （2005年） - ムービーパート
+  - [遊☆戯☆王](../Page/遊☆戯☆王.md "wikilink")CM デュエルモンスターズ FORCE OF THE BREAKER （2007年）
   - [FICTION ZERO/NARRATIVE ZERO・フィクションゼロ/ナラティブゼロ](https://ja.wikipedia.org/wiki/FICTION_ZERO/NARRATIVE_ZERO・フィクションゼロ/ナラティブゼロ "wikilink") （2007年 - 講談社文芸ムック誌） - イラストレーション協力
   - [フジヤマ☆スタア](../Page/フジヤマ☆スタア.md "wikilink") （2007年 - ）
   - [beatmaniaIIDX](https://ja.wikipedia.org/wiki/beatmaniaIIDX "wikilink") 15 DJ TROOPERS（2007年）- ゲーム中に流れるミュージックビデオの制作協力
-  - [遊☆戯☆王](https://ja.wikipedia.org/wiki/遊☆戯☆王 "wikilink")CM デュエルモンスターズ Gladiator's Assault （2007年）
-  - [遊☆戯☆王](https://ja.wikipedia.org/wiki/遊☆戯☆王 "wikilink")CM デュエルモンスターズ Phantom Darkness （2008年）
+  - [遊☆戯☆王](../Page/遊☆戯☆王.md "wikilink")CM デュエルモンスターズ Gladiator's Assault （2007年）
+  - [遊☆戯☆王](../Page/遊☆戯☆王.md "wikilink")CM デュエルモンスターズ Phantom Darkness （2008年）
   - [ティアーズ・トゥ・ティアラ 花冠の大地](../Page/ティアーズ・トゥ・ティアラ_花冠の大地.md "wikilink")（2008年） -オープニングアニメーション
-  - [戦国BASARA X](https://ja.wikipedia.org/wiki/戦国BASARA "wikilink")（2008年） -オープニングアニメーション
+  - [戦国BASARA X](../Page/戦国BASARA.md "wikilink")（2008年） -オープニングアニメーション
   - [闘茶〜Tea Fight〜](https://ja.wikipedia.org/wiki/闘茶〜Tea_Fight〜 "wikilink")（2008年） - アニメーションパート
   - [キミハ・ブレイク](https://ja.wikipedia.org/wiki/キミハ・ブレイク "wikilink")（2008年 - ） - オープニングアニメーション
   - [ストリートファイターIV〜新たなる絆〜](https://ja.wikipedia.org/wiki/ストリートファイターIV#アニメーション "wikilink")（2009年）
-  - オリジナルアニメーション3 feat. さくら（2009年） - 『[ストリートファイター ザ・レジェンド・オブ・チュンリー](https://ja.wikipedia.org/wiki/ストリートファイター_ザ・レジェンド・オブ・チュンリー "wikilink")』の本編終了後と『ストリートファイターIV』公式サイトで公開される[春日野さくら](https://ja.wikipedia.org/wiki/春日野さくら "wikilink")が主人公のショートストーリーアニメ
+  - オリジナルアニメーション3 feat. さくら（2009年） - 『[ストリートファイター ザ・レジェンド・オブ・チュンリー](https://ja.wikipedia.org/wiki/ストリートファイター_ザ・レジェンド・オブ・チュンリー "wikilink")』の本編終了後と『ストリートファイターIV』公式サイトで公開される[春日野さくら](../Page/春日野さくら.md "wikilink")が主人公のショートストーリーアニメ
   - [少年メリケンサック](https://ja.wikipedia.org/wiki/少年メリケンサック "wikilink")（2009年） - アニメーションパート
   - [鈍獣](https://ja.wikipedia.org/wiki/鈍獣 "wikilink")（2009年） - アニメーションパート
   - [借りぐらしのアリエッティ](https://ja.wikipedia.org/wiki/借りぐらしのアリエッティ "wikilink")（2010年） - 作画協力
@@ -157,7 +157,7 @@
   - [TOYOTA](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")×STUDIO 4℃ [PES: Peace Eco Smile](https://ja.wikipedia.org/wiki/PES:_Peace_Eco_Smile "wikilink")（2012年） - Webアニメーション
   - [SHARP](../Page/シャープ.md "wikilink") [AQUOS PHONE Xx 106SH](https://ja.wikipedia.org/wiki/SoftBank_106SH "wikilink")(2012年) - TVCM
   - [火曜曲\!](https://ja.wikipedia.org/wiki/火曜曲! "wikilink")(2012年) - CG
-  - [Love Like Aliens](https://ja.wikipedia.org/wiki/Love_Like_Aliens "wikilink") (2012年) - Rashad Haughton監督・脚本のショートフィルム。[田中達之](https://ja.wikipedia.org/wiki/田中達之 "wikilink")がアートディレクター、Studio 4℃はプロダクションデザイン・アートデザインを担当
+  - [Love Like Aliens](https://ja.wikipedia.org/wiki/Love_Like_Aliens "wikilink") (2012年) - Rashad Haughton監督・脚本のショートフィルム。[田中達之](../Page/田中達之.md "wikilink")がアートディレクター、Studio 4℃はプロダクションデザイン・アートデザインを担当
   - [Kick-Heart](https://ja.wikipedia.org/wiki/キックハート "wikilink")（2013年） - IN BETWEEN ANIMATORS
   - [かぐや姫の物語](https://ja.wikipedia.org/wiki/かぐや姫の物語 "wikilink")（2013年） - 作画協力
   - [ジョバンニの島](https://ja.wikipedia.org/wiki/ジョバンニの島 "wikilink")（2014年） - 制作協力
@@ -178,7 +178,7 @@
 
 ## 参考文献
 
-  - 『Genius Party オフィシャルガイドブック』（[2007年](../Page/2007年.md "wikilink")、[トランスワールドジャパン](https://ja.wikipedia.org/wiki/トランスワールドジャパン "wikilink")） ISBN 978-4-86256-013-1
+  - 『Genius Party オフィシャルガイドブック』（[2007年](../Page/2007年.md "wikilink")、[トランスワールドジャパン](../Page/トランスワールドジャパン.md "wikilink")） ISBN 978-4-86256-013-1
   - 『Genius Party BEYOND 公式ガイドブック』（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、[芸文社](../Page/芸文社.md "wikilink")） ISBN 978-4-87465-925-0
 
 ## 関連項目
@@ -186,13 +186,13 @@
   - [大友克洋](../Page/大友克洋.md "wikilink")
   - [田中栄子](https://ja.wikipedia.org/wiki/田中栄子_\(プロデューサー\) "wikilink")
   - [中山大輔](https://ja.wikipedia.org/wiki/中山大輔_\(アーティスト\) "wikilink")
-  - [森本晃司](https://ja.wikipedia.org/wiki/森本晃司_\(アニメーター\) "wikilink")
+  - [森本晃司](../Page/森本晃司_\(アニメーター\).md "wikilink")
   - [松本大洋](../Page/松本大洋.md "wikilink")
-  - [片渕須直](https://ja.wikipedia.org/wiki/片渕須直 "wikilink")
+  - [片渕須直](../Page/片渕須直.md "wikilink")
   - [佐藤好春](../Page/佐藤好春.md "wikilink")
   - [湯浅政明](../Page/湯浅政明.md "wikilink")
   - [石井克人](../Page/石井克人.md "wikilink")
-  - [田中達之](https://ja.wikipedia.org/wiki/田中達之 "wikilink")
+  - [田中達之](../Page/田中達之.md "wikilink")
   - [窪岡俊之](../Page/窪岡俊之.md "wikilink")
   - [マイケル・アリアス](../Page/マイケル・アリアス.md "wikilink")
   - [Tuzki](https://ja.wikipedia.org/wiki/Tuzki "wikilink")

@@ -1,13 +1,13 @@
 > この記事は[STAY DREAM](https://ja.wikipedia.org/wiki/STAY_DREAM)から翻訳されています。
 
 
-『**STAY DREAM**』（ステイ・ドリーム）は、日本の[ミュージシャンである](https://ja.wikipedia.org/wiki/音楽家 "wikilink")[長渕剛](../Page/長渕剛.md "wikilink")の9枚目の[スタジオ・アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。11曲目に表題曲が収録されている。
+『**STAY DREAM**』（ステイ・ドリーム）は、日本の[ミュージシャンである](https://ja.wikipedia.org/wiki/音楽家 "wikilink")[長渕剛](../Page/長渕剛.md "wikilink")の9枚目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。11曲目に表題曲が収録されている。
 
 プロデューサーは長渕自身が担当している。前作から一転して、ギター弾き語り（一部はピアノ）をメインに据えている。
 
-[TBS系テレビドラマ](../Page/TBS系列.md "wikilink")『[親子ゲーム](https://ja.wikipedia.org/wiki/親子ゲーム "wikilink")』（1986年）の主題歌として使用された先行シングル「[SUPER STAR](https://ja.wikipedia.org/wiki/SUPER_STAR "wikilink")」を収録している。
+[TBS系テレビドラマ](../Page/TBS系列.md "wikilink")『[親子ゲーム](../Page/親子ゲーム.md "wikilink")』（1986年）の主題歌として使用された先行シングル「[SUPER STAR](../Page/SUPER_STAR.md "wikilink")」を収録している。
 
-[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")では最高位3位となった。
+[オリコンチャート](../Page/オリコンチャート.md "wikilink")では最高位3位となった。
 
 ## 背景
 
@@ -15,15 +15,15 @@
 
 行き詰ってどうしようもないとき、長渕は、尊敬し憧れている[吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")に、どうしようもない自分の今の曲作りに行き詰っている現状を相談した。そのとき吉田から返ってきた言葉は意外なものであった。「長渕君、**たかが曲**だろ\! そんなに真剣に考えてどうすんの?」というものだった。その時長渕は、「**拓郎さん、あなたは魂の底から曲を作っていた第一人者じゃなかったんですか?**」と反発する。しかし、結局は吉田にも裏切られた気持ちで、絶望の中、自殺まで考えた極限の状態から出来上がった曲が「STAY DREAM」である。この曲の完成によって、長渕は再び曲づくりに専念する事となった\[3\]。
 
-またこの時期に長渕の母親が医師から大腸癌を宣告され、「助からない」とまで言われた\[4\]。東京中の病院を巡って探し出した有名病院に入院した母親は痛み止めのためにモルヒネを投与され、日に日に[認知症](https://ja.wikipedia.org/wiki/認知症 "wikilink")の症状が出始めていた\[5\]。さらに、利権絡みでのトラブルなども発生し、長渕は一度出身地である鹿児島へと帰郷する\[6\]。鹿児島東急ホテルのそばから桜島を眺めた長渕は、桜島から「お前、何やってんだよ」と話しかけられた気がしたと言い、「何だと貴様\! てめぇ、見てろよ\!」と一念発起し東京に戻った\[7\]。その後、前作で結成したバックバンドは解散し、「もう一度ギター一本でやってやる」と宣言しスタジオに入ることとなった\[8\]。
+またこの時期に長渕の母親が医師から大腸癌を宣告され、「助からない」とまで言われた\[4\]。東京中の病院を巡って探し出した有名病院に入院した母親は痛み止めのためにモルヒネを投与され、日に日に[認知症](../Page/認知症.md "wikilink")の症状が出始めていた\[5\]。さらに、利権絡みでのトラブルなども発生し、長渕は一度出身地である鹿児島へと帰郷する\[6\]。鹿児島東急ホテルのそばから桜島を眺めた長渕は、桜島から「お前、何やってんだよ」と話しかけられた気がしたと言い、「何だと貴様\! てめぇ、見てろよ\!」と一念発起し東京に戻った\[7\]。その後、前作で結成したバックバンドは解散し、「もう一度ギター一本でやってやる」と宣言しスタジオに入ることとなった\[8\]。
 
-音楽活動以外では、長渕が主演した[TBS系テレビドラマ](../Page/TBS系列.md "wikilink")『[親子ゲーム](https://ja.wikipedia.org/wiki/親子ゲーム "wikilink")』が制作され、6月7日から8月16日までに全11回で放送、その最中に主題歌「[SUPER STAR](https://ja.wikipedia.org/wiki/SUPER_STAR "wikilink")」（1986年）を7月2日にシングルとしてリリースした。同ドラマ制作のいきさつはテレビ局プロデューサーである[柳井満](https://ja.wikipedia.org/wiki/柳井満 "wikilink")に対し、長渕自らが「俺じゃなきゃ出来ないドラマをやらせて欲しい」と要望した事による\[9\]。また、同ドラマにおいて、後に妻となる[志穂美悦子](https://ja.wikipedia.org/wiki/志穂美悦子 "wikilink")と初共演しており、また後に渡るまで作品を共作していく事となる脚本家の[黒土三男](../Page/黒土三男.md "wikilink")と初対面となった\[10\]。
+音楽活動以外では、長渕が主演した[TBS系テレビドラマ](../Page/TBS系列.md "wikilink")『[親子ゲーム](../Page/親子ゲーム.md "wikilink")』が制作され、6月7日から8月16日までに全11回で放送、その最中に主題歌「[SUPER STAR](../Page/SUPER_STAR.md "wikilink")」（1986年）を7月2日にシングルとしてリリースした。同ドラマ制作のいきさつはテレビ局プロデューサーである[柳井満](https://ja.wikipedia.org/wiki/柳井満 "wikilink")に対し、長渕自らが「俺じゃなきゃ出来ないドラマをやらせて欲しい」と要望した事による\[9\]。また、同ドラマにおいて、後に妻となる[志穂美悦子](https://ja.wikipedia.org/wiki/志穂美悦子 "wikilink")と初共演しており、また後に渡るまで作品を共作していく事となる脚本家の[黒土三男](../Page/黒土三男.md "wikilink")と初対面となった\[10\]。
 
 ## 録音
 
 レコーディングはほとんど一発録りで行われた\[11\]。
 
-後に長渕はベストアルバム『[いつかの少年](https://ja.wikipedia.org/wiki/いつかの少年 "wikilink")』（[1994年](../Page/1994年.md "wikilink")）のライナーノーツにおいて、本作を製作したときの心境を「ほんとうに死にたかった」と語っている\[12\]。
+後に長渕はベストアルバム『[いつかの少年](../Page/いつかの少年.md "wikilink")』（[1994年](../Page/1994年.md "wikilink")）のライナーノーツにおいて、本作を製作したときの心境を「ほんとうに死にたかった」と語っている\[12\]。
 
 当時の自分の全てを吐き出すように作られたが、完成直後はさすがに生々しすぎる内容に、長渕自身はアルバムの良し悪しが客観的に判断できなかったという。そこで色々な人間にアルバムを聴かせ感想を求めた。そのうちの一人、[甲斐よしひろ](../Page/甲斐よしひろ.md "wikilink")はオフィスの一室で、長渕と2人だけで終始無言でアルバム全曲を聴き、聴き終わった後もしばらく無言だったが、突然机を叩き、「**剛、いいよこれ。頼むから出してくれよ**」と呟いたという。
 
@@ -35,9 +35,9 @@
 
 ## リリース
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月22日](../Page/10月22日.md "wikilink")に[東芝EMIのエキスプレスレーベルより](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")、[レコード](../Page/レコード.md "wikilink")、[カセットテープ](../Page/コンパクトカセット.md "wikilink")、[CDの](../Page/コンパクトディスク.md "wikilink")3形態でリリースされた。
+[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月22日](../Page/10月22日.md "wikilink")に[東芝EMIのエキスプレスレーベルより](../Page/EMIミュージック・ジャパン.md "wikilink")、[レコード](../Page/レコード.md "wikilink")、[カセットテープ](../Page/コンパクトカセット.md "wikilink")、[CDの](../Page/コンパクトディスク.md "wikilink")3形態でリリースされた。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月8日](../Page/2月8日.md "wikilink")に24ビット・デジタルリマスター、紙ジャケット仕様で再リリースされた\[15\]。
+[2006年](../Page/2006年.md "wikilink")[2月8日](../Page/2月8日.md "wikilink")に24ビット・デジタルリマスター、紙ジャケット仕様で再リリースされた\[15\]。
 
 ## プロモーション
 
@@ -61,7 +61,7 @@
 
 ## チャート成績
 
-[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")では最高位3位、登場回数は8回、売り上げは約16万枚となった。また、2006年の再発版では最高位211位となった\[22\]。
+[オリコンチャート](../Page/オリコンチャート.md "wikilink")では最高位3位、登場回数は8回、売り上げは約16万枚となった。また、2006年の再発版では最高位211位となった\[22\]。
 
 ## 収録曲
 
@@ -104,10 +104,10 @@
 
 3.  **ひとりぼっちかい?**
 
-4.  **[SUPER STAR](https://ja.wikipedia.org/wiki/SUPER_STAR "wikilink")**
+4.  **[SUPER STAR](../Page/SUPER_STAR.md "wikilink")**
 
       -
-        15枚目のシングル曲。テレビドラマ『[親子ゲーム](https://ja.wikipedia.org/wiki/親子ゲーム "wikilink")』の主題歌。オリジナル・LP盤にはコピーとして『ヒット曲スーパースター new version 収録』と書かれている通り、瀬尾一三との共同アレンジでリリースされていたシングルバージョンとは、アレンジが全く異なっている。
+        15枚目のシングル曲。テレビドラマ『[親子ゲーム](../Page/親子ゲーム.md "wikilink")』の主題歌。オリジナル・LP盤にはコピーとして『ヒット曲スーパースター new version 収録』と書かれている通り、瀬尾一三との共同アレンジでリリースされていたシングルバージョンとは、アレンジが全く異なっている。
 
 5.  **STAY DREAM**（4分33秒）
 
@@ -123,9 +123,9 @@
   - **今泉正義** - [ドラムス](../Page/ドラムセット.md "wikilink")（2,10曲目）
   - **村上律** - [ラップスティールギター](https://ja.wikipedia.org/wiki/スティールギター "wikilink")（2曲目）
   - **ジョーグループ** - [ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")（4曲目）
-  - **古川健二** - [スライドギター](https://ja.wikipedia.org/wiki/スライドギター "wikilink")（6曲目）
-  - **[美久月千晴](https://ja.wikipedia.org/wiki/美久月千晴 "wikilink")** - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")（8曲目）
-  - **[ペッカー](https://ja.wikipedia.org/wiki/橋田正人 "wikilink")** - [パーカッション](../Page/パーカッション.md "wikilink")（8曲目）
+  - **古川健二** - [スライドギター](../Page/スライドギター.md "wikilink")（6曲目）
+  - **[美久月千晴](https://ja.wikipedia.org/wiki/美久月千晴 "wikilink")** - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")（8曲目）
+  - **[ペッカー](../Page/橋田正人.md "wikilink")** - [パーカッション](../Page/パーカッション.md "wikilink")（8曲目）
   - **THE MUGIFUMI** - バックグラウンドボーカル（8,10曲目）
   - **笛吹利明** - アコースティックギター（10曲目）
   - **土肥二朗** - バックグラウンドボーカル（10曲目）
@@ -134,10 +134,10 @@
 ### スタッフ
 
   - **長渕剛** - プロデューサー
-  - **山里剛（[ヤマハ音楽振興会](https://ja.wikipedia.org/wiki/ヤマハ音楽振興会 "wikilink")）** - ディレクター
+  - **山里剛（[ヤマハ音楽振興会](../Page/ヤマハ音楽振興会.md "wikilink")）** - ディレクター
   - **陣山俊一（ユイ音楽工房）** - ディレクター
-  - **[下河辺晴三](https://ja.wikipedia.org/wiki/下河辺晴三 "wikilink")（東芝EMI）** - ディレクター
-  - **石塚良一** - [レコーディング・エンジニア](https://ja.wikipedia.org/wiki/レコーディング・エンジニア "wikilink")、[マニピュレーター](https://ja.wikipedia.org/wiki/マニピュレーター "wikilink")
+  - **[下河辺晴三](../Page/下河辺晴三.md "wikilink")（東芝EMI）** - ディレクター
+  - **石塚良一** - [レコーディング・エンジニア](../Page/レコーディング・エンジニア.md "wikilink")、[マニピュレーター](../Page/マニピュレーター.md "wikilink")
   - **小貝俊一** - アシスタント・エンジニア
   - **佐藤晴彦 (EPICURUS)** - アシスタント・エンジニア
   - **天童淳 (STUDIO TWO TWO ONE)** - アシスタント・エンジニア
@@ -145,7 +145,7 @@
   - **助川宏** - マニピュレーター
   - **荒木浩三 (MUSIC LAND)** - ミュージシャン・コーディネーター
   - **MITSUKO NAITO（ヤマハ音楽振興会）** - スタジオ・コーディネーター
-  - **[川上源一](https://ja.wikipedia.org/wiki/川上源一 "wikilink")（ヤマハ音楽振興会）** - エグゼクティブ・プロデューサー
+  - **[川上源一](../Page/川上源一.md "wikilink")（ヤマハ音楽振興会）** - エグゼクティブ・プロデューサー
   - **[後藤由多加](https://ja.wikipedia.org/wiki/後藤由多加 "wikilink")（ユイ音楽工房）** - エグゼクティブ・プロデューサー
   - **田中松五郎（ユイ音楽工房）** - チーフ・マネージャー
   - **和井内貞宣（ユイ音楽工房）** - パーソナル・マネージャー
@@ -161,7 +161,7 @@
 <th><p>日付</p></th>
 <th><p><a href="../Page/レコードレーベル.md" title="wikilink">レーベル</a></p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>最高順位</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -170,7 +170,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="../Page/10月22日.md" title="wikilink">10月22日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン" title="wikilink">東芝EMI</a>／エキスプレス</p></td>
+<td><p><a href="../Page/EMIミュージック・ジャパン.md" title="wikilink">東芝EMI</a>／エキスプレス</p></td>
 <td><p><a href="../Page/レコード.md" title="wikilink">LP</a><br />
 <a href="../Page/カセットテープ.md" title="wikilink">CT</a><br />
 <a href="../Page/コンパクトディスク.md" title="wikilink">CD</a></p></td>
@@ -182,12 +182,12 @@ CA35-1301</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/2月8日.md" title="wikilink">2月8日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/2月8日.md" title="wikilink">2月8日</a></p></td>
 <td><p>東芝EMI／エキスプレス</p></td>
 <td><p>CD</p></td>
 <td><p>TOCT-25951</p></td>
 <td><p>211位</p></td>
-<td><p>24ビット・<a href="https://ja.wikipedia.org/wiki/デジタルリマスター" title="wikilink">デジタルリマスター</a>、<a href="https://ja.wikipedia.org/wiki/ディスクジャケット" title="wikilink">紙ジャケット仕様</a></p></td>
+<td><p>24ビット・<a href="../Page/デジタルリマスター.md" title="wikilink">デジタルリマスター</a>、<a href="https://ja.wikipedia.org/wiki/ディスクジャケット" title="wikilink">紙ジャケット仕様</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -212,7 +212,7 @@ CA35-1301</p></td>
 9.
 10.
 11.
-12. [高山文彦](https://ja.wikipedia.org/wiki/高山文彦 "wikilink") 「ライナーノーツ」 『[いつかの少年](https://ja.wikipedia.org/wiki/いつかの少年 "wikilink")』、東芝EMI、1994年。
+12. [高山文彦](https://ja.wikipedia.org/wiki/高山文彦 "wikilink") 「ライナーノーツ」 『[いつかの少年](../Page/いつかの少年.md "wikilink")』、東芝EMI、1994年。
 13.
 14.
 15.

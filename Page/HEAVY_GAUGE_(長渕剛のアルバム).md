@@ -5,15 +5,15 @@
 
 長渕剛通算6枚目のオリジナルアルバム。プロデューサーは長渕自身が担当している。
 
-本作以前にリリースされたシングル「[恋人時代](https://ja.wikipedia.org/wiki/恋人時代 "wikilink")」は収録されておらず、前作に引き続きシングル曲が1曲も収録されていないアルバムとなった。
+本作以前にリリースされたシングル「[恋人時代](../Page/恋人時代.md "wikilink")」は収録されておらず、前作に引き続きシングル曲が1曲も収録されていないアルバムとなった。
 
-[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")では最高位6位となった。
+[オリコンチャート](../Page/オリコンチャート.md "wikilink")では最高位6位となった。
 
 ## 背景
 
 前作『[時代は僕らに雨を降らしてる](../Page/時代は僕らに雨を降らしてる.md "wikilink")』（[1982年](../Page/1982年.md "wikilink")）リリース後、長渕は10月12日より翌1983年2月18日まで全42都市47公演におよぶライブツアー「長渕剛 CONCERT TOUR'82 - '83 時代は僕らに雨を降らしてる」を開催した\[1\]。
 
-4月1日にはシングル「[恋人時代](https://ja.wikipedia.org/wiki/恋人時代 "wikilink")」（1983年）をリリース、5月2日には同曲でフジテレビ系列の音楽番組『[夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink")』（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink") - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")）に初出演を果たした。
+4月1日にはシングル「[恋人時代](../Page/恋人時代.md "wikilink")」（1983年）をリリース、5月2日には同曲でフジテレビ系列の音楽番組『[夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink")』（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink") - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")）に初出演を果たした。
 
 しかし、プライベートでは妻の[石野真子](../Page/石野真子.md "wikilink")との確執が生まれており、同年3月に石野は長渕との住家を出て別居を開始、5月に正式に離婚を発表した。原因は長渕による[家庭内暴力や石野と長渕の母との確執と言われ](../Page/ドメスティックバイオレンス.md "wikilink")、2人の結婚生活は1年4ヶ月と2年と持たずピリオドが打たれた\[2\]。離婚の原因に関して長渕は「オレは彼女に家庭の主婦を求めすぎたし、それを急ぎすぎてしまった」と語っている\[3\]。
 
@@ -25,13 +25,13 @@
 
 ## リリース
 
-[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[6月21日](../Page/6月21日.md "wikilink")に[東芝EMIのエキスプレスレーベルより](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")、[LP](../Page/レコード.md "wikilink")、[カセットテープ](../Page/コンパクトカセット.md "wikilink")、[コンパクトディスク](../Page/コンパクトディスク.md "wikilink")の3形態でリリースされた。
+[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[6月21日](../Page/6月21日.md "wikilink")に[東芝EMIのエキスプレスレーベルより](../Page/EMIミュージック・ジャパン.md "wikilink")、[LP](../Page/レコード.md "wikilink")、[カセットテープ](../Page/コンパクトカセット.md "wikilink")、[コンパクトディスク](../Page/コンパクトディスク.md "wikilink")の3形態でリリースされた。
 
-[1988年](../Page/1988年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")にCDのみ再リリースされ、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月8日](../Page/2月8日.md "wikilink")に24ビット・[デジタルリマスター](https://ja.wikipedia.org/wiki/デジタルリマスター "wikilink")、[紙ジャケット仕様で再リリースされた](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")\[6\]。
+[1988年](../Page/1988年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")にCDのみ再リリースされ、[2006年](../Page/2006年.md "wikilink")[2月8日](../Page/2月8日.md "wikilink")に24ビット・[デジタルリマスター](../Page/デジタルリマスター.md "wikilink")、[紙ジャケット仕様で再リリースされた](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")\[6\]。
 
 ## プロモーション
 
-本作に関するテレビ出演は、5月2日に「恋人時代」で夜のヒットスタジオに出演した他、6月にはフジテレビ系列のバラエティ番組『[オールナイトフジ](https://ja.wikipedia.org/wiki/オールナイトフジ "wikilink")』（1983年 - [1991年](../Page/1991年.md "wikilink")）に出演し、「いかさまだらけのルーレット」、「恋人時代」、「冷たい外国人」、「DON'T CRY MY LOVE」の4曲を演奏した。
+本作に関するテレビ出演は、5月2日に「恋人時代」で夜のヒットスタジオに出演した他、6月にはフジテレビ系列のバラエティ番組『[オールナイトフジ](../Page/オールナイトフジ.md "wikilink")』（1983年 - [1991年](../Page/1991年.md "wikilink")）に出演し、「いかさまだらけのルーレット」、「恋人時代」、「冷たい外国人」、「DON'T CRY MY LOVE」の4曲を演奏した。
 
 ## アートワーク
 
@@ -39,7 +39,7 @@
 
 ## ツアー
 
-本作リリース後の7月25日には、「SUPER LIVE IN 西武球場」と題した単独ライブを[西武球場にて開催し](../Page/西武ドーム.md "wikilink")、雨の降る悪状況の中約2万人を動員する\[9\]。また、このライブも模様はわずか1ヶ月後の8月25日にライブアルバム『[SUPER LIVE IN 西武球場](https://ja.wikipedia.org/wiki/SUPER_LIVE_IN_西武球場 "wikilink")』（1983年）としてリリースされ、さらに9月21日にはライブビデオ『SUPER LIVE IN 西武球場』としてリリースされ、この作品が長渕として初のビデオ作品となった。
+本作リリース後の7月25日には、「SUPER LIVE IN 西武球場」と題した単独ライブを[西武球場にて開催し](../Page/西武ドーム.md "wikilink")、雨の降る悪状況の中約2万人を動員する\[9\]。また、このライブも模様はわずか1ヶ月後の8月25日にライブアルバム『[SUPER LIVE IN 西武球場](../Page/SUPER_LIVE_IN_西武球場.md "wikilink")』（1983年）としてリリースされ、さらに9月21日にはライブビデオ『SUPER LIVE IN 西武球場』としてリリースされ、この作品が長渕として初のビデオ作品となった。
 
 その後、7月29日には[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")との初となるジョイントライブ「サザンオールスターズ VS 長渕剛」を[ナゴヤ球場](../Page/ナゴヤ球場.md "wikilink")にて開催するも、ゲスト出演と聞かされていた長渕であったが実際には前座の扱いであり、特殊効果は少なく照明もない状態で、午後の陽の高い内から始まる事となっていた\[10\]。これに疑問を感じた長渕は[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")サイドに状況の改善を要請するも、事態は桑田も了承済みであると思われたため、屈辱に耐えながら最後まで付き合うとの思いを固めた\[11\]。チケットはサザンオールスターズとして売られていたため、長渕のファンは少なく、それでも長渕を応援する少数のファンの声が聞こえると屈辱感がこみ上げてきたという\[12\]。出番を終えホテルへと帰った長渕であったが、サザン側よりアンコールのステージに上がって欲しいとの要求をされ、屈辱感に苛まれながらも「最後まで付き合う」との信念からステージへと引き返した\[13\]。ステージ上では興奮した桑田は長渕の頭にビールをかけ、これに対し長渕は「舞い上がった勢いでそこまでやるかね」と冷静さを保ちながらも桑田への敵意を心の中で感じ、桑田との確執が生まれる事となった\[14\]。
 
@@ -51,7 +51,7 @@
 
 ## チャート成績
 
-[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")では最高位6位となり、売り上げは約6万枚となった\[17\]。また、2006年の再発版では最高位254位となった \[18\]。
+[オリコンチャート](../Page/オリコンチャート.md "wikilink")では最高位6位となり、売り上げは約6万枚となった\[17\]。また、2006年の再発版では最高位254位となった \[18\]。
 
 ## 収録曲
 
@@ -61,12 +61,12 @@
 
 1.  **Don't Cry My Love**
       -
-        男女関係の破局を歌った楽曲。一説には、この頃離婚した[石野真子](../Page/石野真子.md "wikilink")との関係を歌ったとされる。しかし、この曲の詞を書いたのはまだ石野との結婚生活を送っていた長渕の家で、吉見と詞を作ろうと作ったもの。後年ライブでもたびたび演奏されている。また、後にアルバム『[LOVE SONGS](https://ja.wikipedia.org/wiki/LOVE_SONGS_\(長渕剛のアルバム\) "wikilink")』（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）でリミックス&ヴォーカルのみ再録音されており、他にもシングル「[SUPER STAR](https://ja.wikipedia.org/wiki/SUPER_STAR "wikilink")」（1986年）のB面曲としてギターの弾き語りバージョンが収録されており、『SONGS』（2008年)でヴォーカルのみ再録音されている。
+        男女関係の破局を歌った楽曲。一説には、この頃離婚した[石野真子](../Page/石野真子.md "wikilink")との関係を歌ったとされる。しかし、この曲の詞を書いたのはまだ石野との結婚生活を送っていた長渕の家で、吉見と詞を作ろうと作ったもの。後年ライブでもたびたび演奏されている。また、後にアルバム『[LOVE SONGS](../Page/LOVE_SONGS_\(長渕剛のアルバム\).md "wikilink")』（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）でリミックス&ヴォーカルのみ再録音されており、他にもシングル「[SUPER STAR](../Page/SUPER_STAR.md "wikilink")」（1986年）のB面曲としてギターの弾き語りバージョンが収録されており、『SONGS』（2008年)でヴォーカルのみ再録音されている。
 2.  **わがまま気まま流れるまま**
 3.  **おいで僕のそばに**
 4.  **冷たい外国人**
       -
-        当時ベストセラーになった[森村誠一](../Page/森村誠一.md "wikilink")の著書である『[悪魔の飽食](https://ja.wikipedia.org/wiki/悪魔の飽食 "wikilink")』（1981年）に触発され作られた曲。[731部隊](https://ja.wikipedia.org/wiki/731部隊 "wikilink")を始めとする戦争の悲劇を歌い上げている。
+        当時ベストセラーになった[森村誠一](../Page/森村誠一.md "wikilink")の著書である『[悪魔の飽食](../Page/悪魔の飽食.md "wikilink")』（1981年）に触発され作られた曲。[731部隊](https://ja.wikipedia.org/wiki/731部隊 "wikilink")を始めとする戦争の悲劇を歌い上げている。
 5.  **すべてほんとだよ\!\!**
       -
         レコーディングでは、床に寝そべった状態でマイクスタンドを持ちながら歌われた。
@@ -82,7 +82,7 @@
 2.  **-100°の冷たい街**
 
       -
-        後にリリースされたシングル「[GOOD-BYE青春](https://ja.wikipedia.org/wiki/GOOD-BYE青春 "wikilink")」（1983年）のB面曲。自らも出演したテレビドラマ『[家族ゲーム](https://ja.wikipedia.org/wiki/家族ゲーム "wikilink")』（1983年、[TBS系列](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")）の挿入歌として使用された。
+        後にリリースされたシングル「[GOOD-BYE青春](../Page/GOOD-BYE青春.md "wikilink")」（1983年）のB面曲。自らも出演したテレビドラマ『[家族ゲーム](../Page/家族ゲーム.md "wikilink")』（1983年、[TBS系列](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")）の挿入歌として使用された。
 
 3.  **僕だけのメリークリスマス**
 
@@ -94,17 +94,17 @@
 5.  **僕のギターにはいつもHeavy Gauge**
 
       -
-        過去と現在を見つめなおし、未来へ向かって自らを破壊して新しい地平を築く事を歌った楽曲。後にアルバム『[NEVER CHANGE](https://ja.wikipedia.org/wiki/NEVER_CHANGE "wikilink")』（[1988年](../Page/1988年.md "wikilink")）で再録音されている。
+        過去と現在を見つめなおし、未来へ向かって自らを破壊して新しい地平を築く事を歌った楽曲。後にアルバム『[NEVER CHANGE](../Page/NEVER_CHANGE.md "wikilink")』（[1988年](../Page/1988年.md "wikilink")）で再録音されている。
 
 ## スタッフ・クレジット
 
 ### 参加ミュージシャン
 
-  - **長渕剛** - [アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")、[エレクトリックギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")、[12弦アコースティックギター](../Page/12弦ギター.md "wikilink")（2曲目）、[アコースティックピアノ](../Page/ピアノ.md "wikilink")（8曲目）、[ハーモニカ](https://ja.wikipedia.org/wiki/ハーモニカ "wikilink")
-  - **Koji Yamada** - [Yamaha Drums YD 9000R](../Page/ドラムセット.md "wikilink")、[タンバリン](https://ja.wikipedia.org/wiki/タンバリン "wikilink")
+  - **長渕剛** - [アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")、[エレクトリックギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")、[12弦アコースティックギター](../Page/12弦ギター.md "wikilink")（2曲目）、[アコースティックピアノ](../Page/ピアノ.md "wikilink")（8曲目）、[ハーモニカ](../Page/ハーモニカ.md "wikilink")
+  - **Koji Yamada** - [Yamaha Drums YD 9000R](../Page/ドラムセット.md "wikilink")、[タンバリン](../Page/タンバリン.md "wikilink")
   - **川嶋一久** - [エレクトリックベース](../Page/エレクトリックベース.md "wikilink")
   - **香川喜章** - アコースティックピアノ、[エレクトリックピアノ](../Page/エレクトリックピアノ.md "wikilink")、[ハモンドオルガン](../Page/ハモンドオルガン.md "wikilink")、[バックグラウンドボーカル](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
-  - **面谷誠二** - エレクトリックギター、[フラットマンドリン](https://ja.wikipedia.org/wiki/フラットマンドリン "wikilink")（10曲目）
+  - **面谷誠二** - エレクトリックギター、[フラットマンドリン](../Page/フラットマンドリン.md "wikilink")（10曲目）
   - **村上律** - [ペダルスティールギター](https://ja.wikipedia.org/wiki/スティールギター "wikilink")、ラップスティールギター
   - **浜田良美** - エレクトリックギター、バックグラウンドボーカル
 
@@ -125,13 +125,13 @@
 ### スタッフ
 
   - **長渕剛** - [プロデューサー](../Page/音楽プロデューサー.md "wikilink")
-  - **山里剛（[ヤマハ音楽振興会](https://ja.wikipedia.org/wiki/ヤマハ音楽振興会 "wikilink")）** - ディレクター
+  - **山里剛（[ヤマハ音楽振興会](../Page/ヤマハ音楽振興会.md "wikilink")）** - ディレクター
   - **陣山俊一（ユイ音楽工房）** - ディレクター
   - **木村嘉男（東芝EMI）** - ディレクター
-  - **石塚良一** - [レコーディング・エンジニア](https://ja.wikipedia.org/wiki/レコーディング・エンジニア "wikilink")
+  - **石塚良一** - [レコーディング・エンジニア](../Page/レコーディング・エンジニア.md "wikilink")
   - **SHOICHI HIRATA** - パーソナル・マネージャー
   - **大川奘一郎** - 写真撮影
-  - **[川上源一](https://ja.wikipedia.org/wiki/川上源一 "wikilink")（ヤマハ音楽振興会）** - エグゼクティブ・プロデューサー
+  - **[川上源一](../Page/川上源一.md "wikilink")（ヤマハ音楽振興会）** - エグゼクティブ・プロデューサー
   - **[後藤由多加](https://ja.wikipedia.org/wiki/後藤由多加 "wikilink")（ユイ音楽工房）** - エグゼクティブ・プロデューサー
 
 ## リリース履歴
@@ -143,7 +143,7 @@
 <th><p>日付</p></th>
 <th><p><a href="../Page/レコードレーベル.md" title="wikilink">レーベル</a></p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>最高順位</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -152,7 +152,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1983年" title="wikilink">1983年</a><a href="../Page/6月21日.md" title="wikilink">6月21日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン" title="wikilink">東芝EMI</a>／エキスプレス</p></td>
+<td><p><a href="../Page/EMIミュージック・ジャパン.md" title="wikilink">東芝EMI</a>／エキスプレス</p></td>
 <td><p><a href="../Page/レコード.md" title="wikilink">LP</a><br />
 <a href="../Page/カセットテープ.md" title="wikilink">CT</a><br />
 <a href="../Page/コンパクトディスク.md" title="wikilink">CD</a></p></td>
@@ -173,12 +173,12 @@ CA35-1044</p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/2月8日.md" title="wikilink">2月8日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/2月8日.md" title="wikilink">2月8日</a></p></td>
 <td><p>東芝EMI／エキスプレス</p></td>
 <td><p>CD</p></td>
 <td><p>TOCT-25948</p></td>
 <td><p>254位</p></td>
-<td><p>24ビット・<a href="https://ja.wikipedia.org/wiki/デジタルリマスター" title="wikilink">デジタルリマスター</a>、<a href="https://ja.wikipedia.org/wiki/ディスクジャケット" title="wikilink">紙ジャケット仕様</a></p></td>
+<td><p>24ビット・<a href="../Page/デジタルリマスター.md" title="wikilink">デジタルリマスター</a>、<a href="https://ja.wikipedia.org/wiki/ディスクジャケット" title="wikilink">紙ジャケット仕様</a></p></td>
 </tr>
 </tbody>
 </table>

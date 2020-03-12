@@ -1,33 +1,33 @@
 > この記事は[HUNGRY](https://ja.wikipedia.org/wiki/HUNGRY)から翻訳されています。
 
 
-『**HUNGRY**』（ハングリー）は、日本の[ミュージシャンである](https://ja.wikipedia.org/wiki/音楽家 "wikilink")[長渕剛](../Page/長渕剛.md "wikilink")の8枚目の[スタジオ・アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")である。
+『**HUNGRY**』（ハングリー）は、日本の[ミュージシャンである](https://ja.wikipedia.org/wiki/音楽家 "wikilink")[長渕剛](../Page/長渕剛.md "wikilink")の8枚目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")である。
 
 プロデューサーは長渕自身が担当している。前作に続きロックサウンドを追及した作品であり、本作ではバックバンドを従えてさらにバンドサウンドを意識したものとなっている。
 
-先行シングル「[久しぶりに俺は泣いたんだ](https://ja.wikipedia.org/wiki/久しぶりに俺は泣いたんだ "wikilink")」、「[勇次](https://ja.wikipedia.org/wiki/勇次 "wikilink")」を収録している。
+先行シングル「[久しぶりに俺は泣いたんだ](../Page/久しぶりに俺は泣いたんだ.md "wikilink")」、「[勇次](../Page/勇次.md "wikilink")」を収録している。
 
-[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")では最高位4位となった。
+[オリコンチャート](../Page/オリコンチャート.md "wikilink")では最高位4位となった。
 
 ## 背景
 
 前作『[HOLD YOUR LAST CHANCE](../Page/HOLD_YOUR_LAST_CHANCE.md "wikilink")』（[1984年](../Page/1984年.md "wikilink")）リリース後、長渕は8月28日の宮崎市民会館より翌1985年1月9日の日本武道館に至るまで、全国35都市全41公演におよぶライブツアー「LIVE'84 - '85 HOLD YOUR LAST CHANCE」を開催した\[1\]。
 
-その後、本作の先行シングルとして3月30日に「[久しぶりに俺は泣いたんだ](https://ja.wikipedia.org/wiki/久しぶりに俺は泣いたんだ "wikilink")」（1985年）をリリース、7月22日には「[勇次](https://ja.wikipedia.org/wiki/勇次 "wikilink")」（1985年）をリリースした。
+その後、本作の先行シングルとして3月30日に「[久しぶりに俺は泣いたんだ](../Page/久しぶりに俺は泣いたんだ.md "wikilink")」（1985年）をリリース、7月22日には「[勇次](../Page/勇次.md "wikilink")」（1985年）をリリースした。
 
-音楽以外の活動としては、前年10月より[TBSラジオ](../Page/TBSラジオ.md "wikilink")『[スーパーギャング](https://ja.wikipedia.org/wiki/スーパーギャング "wikilink")』の木曜日のパーソナリティーを担当し\[2\]、1985年3月まで放送する事となった他、4月5日には自身が主演したテレビドラマ『[家族ゲームスペシャル](https://ja.wikipedia.org/wiki/家族ゲーム_\(テレビドラマ\) "wikilink")』（1985年）が放送された\[3\]。
+音楽以外の活動としては、前年10月より[TBSラジオ](../Page/TBSラジオ.md "wikilink")『[スーパーギャング](../Page/スーパーギャング.md "wikilink")』の木曜日のパーソナリティーを担当し\[2\]、1985年3月まで放送する事となった他、4月5日には自身が主演したテレビドラマ『[家族ゲームスペシャル](https://ja.wikipedia.org/wiki/家族ゲーム_\(テレビドラマ\) "wikilink")』（1985年）が放送された\[3\]。
 
 ## 音楽性
 
-文芸雑誌『別冊カドカワ 総力特集 長渕剛』では、「[ブルース・スプリングスティーン](https://ja.wikipedia.org/wiki/ブルース・スプリングスティーン "wikilink")にEストリート・バンド、[ニール・ヤング](https://ja.wikipedia.org/wiki/ニール・ヤング "wikilink")にはクレイジー・ホースがいるように、長渕剛もThe Band of Spiritsを従えた」、「前作で見事に発芽した長渕イズムがさらに大きく葉を広げる」と表記されている\[4\]。
+文芸雑誌『別冊カドカワ 総力特集 長渕剛』では、「[ブルース・スプリングスティーン](https://ja.wikipedia.org/wiki/ブルース・スプリングスティーン "wikilink")にEストリート・バンド、[ニール・ヤング](../Page/ニール・ヤング.md "wikilink")にはクレイジー・ホースがいるように、長渕剛もThe Band of Spiritsを従えた」、「前作で見事に発芽した長渕イズムがさらに大きく葉を広げる」と表記されている\[4\]。
 
 文芸雑誌『文藝別冊 長渕剛 民衆の怒りと祈りの歌』では、「このアルバムのテーマは、一〇代のころ、だれもがもっていたハングリーさをとりもどそうということである」と表記されている\[5\]。
 
 ## リリース
 
-アルバムは[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[8月22日](../Page/8月22日.md "wikilink")に[東芝EMIのエキスプレスレーベルより](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")[レコード](../Page/レコード.md "wikilink")、[カセットテープ](../Page/コンパクトカセット.md "wikilink")、[CDの](../Page/コンパクトディスク.md "wikilink")3形態でリリースされた。
+アルバムは[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[8月22日](../Page/8月22日.md "wikilink")に[東芝EMIのエキスプレスレーベルより](../Page/EMIミュージック・ジャパン.md "wikilink")[レコード](../Page/レコード.md "wikilink")、[カセットテープ](../Page/コンパクトカセット.md "wikilink")、[CDの](../Page/コンパクトディスク.md "wikilink")3形態でリリースされた。
 
-その後、CDのみ[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月8日](../Page/3月8日.md "wikilink")に24ビット・[デジタルリマスター](https://ja.wikipedia.org/wiki/デジタルリマスター "wikilink")、[紙ジャケット仕様で再リリースされた](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")\[6\]。
+その後、CDのみ[2006年](../Page/2006年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")に24ビット・[デジタルリマスター](../Page/デジタルリマスター.md "wikilink")、[紙ジャケット仕様で再リリースされた](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")\[6\]。
 
 ## プロモーション
 
@@ -53,7 +53,7 @@
 
 ## チャート成績
 
-[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")では最高位4位となり、売り上げは約9万枚となった\[11\]。また、2006年の再発版では最高位247位となった\[12\]。
+[オリコンチャート](../Page/オリコンチャート.md "wikilink")では最高位4位となり、売り上げは約9万枚となった\[11\]。また、2006年の再発版では最高位247位となった\[12\]。
 
 ## 収録曲
 
@@ -65,7 +65,7 @@
 2.  **STANCE**
 3.  **生意気なパートナー**
 4.  **QUEEN**
-5.  **[久しぶりに俺は泣いたんだ](https://ja.wikipedia.org/wiki/久しぶりに俺は泣いたんだ "wikilink")**
+5.  **[久しぶりに俺は泣いたんだ](../Page/久しぶりに俺は泣いたんだ.md "wikilink")**
       -
         13枚目のシングル曲。シングル盤でリリースされたバージョンとは、ミックスが異なっている。
 
@@ -75,7 +75,7 @@
 
     <li value="6">
 
-    **[勇次](https://ja.wikipedia.org/wiki/勇次 "wikilink")**
+    **[勇次](../Page/勇次.md "wikilink")**
 
       -
         14枚目のシングル曲。ライブでは定番の曲である。ライブでは、「撃鉄が落とされ」の部分で観客がクラッカーを鳴らすのがお決まりである。
@@ -85,12 +85,12 @@
 3.  **明日へ向かって**
 
       -
-        3年後にアルバム『[NEVER CHANGE](https://ja.wikipedia.org/wiki/NEVER_CHANGE_\(アルバム\) "wikilink")』において再レコーディングされている。
+        3年後にアルバム『[NEVER CHANGE](../Page/NEVER_CHANGE_\(アルバム\).md "wikilink")』において再レコーディングされている。
 
 4.  **太陽へ続くハイウェイ**
 
       -
-        テレビドラマ『[家族ゲーム](https://ja.wikipedia.org/wiki/家族ゲーム "wikilink")II』の中でも長渕自身が歌っている。
+        テレビドラマ『[家族ゲーム](../Page/家族ゲーム.md "wikilink")II』の中でも長渕自身が歌っている。
 
 ## スタッフ・クレジット
 
@@ -100,10 +100,10 @@
 
   - **田中清司** - [ドラムス](../Page/ドラムセット.md "wikilink")
   - **村上律** - [スティールギター](https://ja.wikipedia.org/wiki/スティールギター "wikilink")
-  - **岡沢茂** - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - **岡沢茂** - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
   - **浜田良美** - [ギター](../Page/ギター.md "wikilink")、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
   - **面谷誠二** - ギター
-  - **香川喜章** - [キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")、コーラス
+  - **香川喜章** - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")、コーラス
   - **片山鉱二** - [サクソフォーン](../Page/サクソフォーン.md "wikilink")
 
 #### Additional Musicians
@@ -121,9 +121,9 @@
   - **長渕剛** - プロデューサー
   - **グレッグ・ラダニー** - ミックス・エンジニア
   - **陣山俊一（ユイ音楽工房）** - ディレクター
-  - **山里剛（[ヤマハ音楽振興会](https://ja.wikipedia.org/wiki/ヤマハ音楽振興会 "wikilink")）** - ディレクター
-  - **[下河辺晴三](https://ja.wikipedia.org/wiki/下河辺晴三 "wikilink")（東芝EMI）** - ディレクター
-  - **石塚良一** - [レコーディング・エンジニア](https://ja.wikipedia.org/wiki/レコーディング・エンジニア "wikilink")
+  - **山里剛（[ヤマハ音楽振興会](../Page/ヤマハ音楽振興会.md "wikilink")）** - ディレクター
+  - **[下河辺晴三](../Page/下河辺晴三.md "wikilink")（東芝EMI）** - ディレクター
+  - **石塚良一** - [レコーディング・エンジニア](../Page/レコーディング・エンジニア.md "wikilink")
   - **MASANORI MATSUZAKA** - アシスタント・エンジニア
   - **掛潤一** - アシスタント・エンジニア
   - **荒木浩三 (MUSIC LAND)** - ミュージシャン・コーディネーター
@@ -131,7 +131,7 @@
   - **田中義則** - マネージャー
   - **HAJIME KOBAYASHI** - アルバム・カバー・デッサン
   - **大川奘一郎** - 写真撮影
-  - **[川上源一](https://ja.wikipedia.org/wiki/川上源一 "wikilink")** - エグゼクティブ・プロデューサー
+  - **[川上源一](../Page/川上源一.md "wikilink")** - エグゼクティブ・プロデューサー
   - **[後藤由多加](https://ja.wikipedia.org/wiki/後藤由多加 "wikilink")** - エグゼクティブ・プロデューサー
 
 ## リリース履歴
@@ -143,7 +143,7 @@
 <th><p>日付</p></th>
 <th><p><a href="../Page/レコードレーベル.md" title="wikilink">レーベル</a></p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>最高順位</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -152,7 +152,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1985年" title="wikilink">1985年</a><a href="../Page/8月22日.md" title="wikilink">8月22日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン" title="wikilink">東芝EMI</a>／エキスプレス</p></td>
+<td><p><a href="../Page/EMIミュージック・ジャパン.md" title="wikilink">東芝EMI</a>／エキスプレス</p></td>
 <td><p><a href="../Page/レコード.md" title="wikilink">LP</a><br />
 <a href="../Page/カセットテープ.md" title="wikilink">CT</a><br />
 <a href="../Page/コンパクトディスク.md" title="wikilink">CD</a></p></td>
@@ -164,19 +164,19 @@ CA32-1150</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/2月8日.md" title="wikilink">2月8日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/2月8日.md" title="wikilink">2月8日</a></p></td>
 <td><p>東芝EMI／エキスプレス</p></td>
 <td><p>CD</p></td>
 <td><p>TOCT-25950</p></td>
 <td><p>247位</p></td>
-<td><p>24ビット・<a href="https://ja.wikipedia.org/wiki/デジタルリマスター" title="wikilink">デジタルリマスター</a>、<a href="https://ja.wikipedia.org/wiki/ディスクジャケット" title="wikilink">紙ジャケット仕様</a></p></td>
+<td><p>24ビット・<a href="../Page/デジタルリマスター.md" title="wikilink">デジタルリマスター</a>、<a href="https://ja.wikipedia.org/wiki/ディスクジャケット" title="wikilink">紙ジャケット仕様</a></p></td>
 </tr>
 </tbody>
 </table>
 
 ## 映像作品
 
-『**HUNGRY**』（ハングリー）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")制作されたアルバムと同名のミュージックビデオ。[東芝EMI](https://ja.wikipedia.org/wiki/東芝EMI "wikilink")より[ビデオソフト](https://ja.wikipedia.org/wiki/ビデオソフト "wikilink")及び[レーザーディスク](../Page/レーザーディスク.md "wikilink")で発売された。単にステージ・シーンを撮影したものではなく、監督に[原田眞人](../Page/原田眞人.md "wikilink")を迎え、映画『[マッドマックス2](https://ja.wikipedia.org/wiki/マッドマックス2 "wikilink")』（[1981年](../Page/1981年.md "wikilink")）のような荒廃した近未来を舞台に銃を手に戦う男たちを描いた、本格的なストーリー仕立ての作品だった。
+『**HUNGRY**』（ハングリー）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")制作されたアルバムと同名のミュージックビデオ。[東芝EMI](https://ja.wikipedia.org/wiki/東芝EMI "wikilink")より[ビデオソフト](https://ja.wikipedia.org/wiki/ビデオソフト "wikilink")及び[レーザーディスク](../Page/レーザーディスク.md "wikilink")で発売された。単にステージ・シーンを撮影したものではなく、監督に[原田眞人](../Page/原田眞人.md "wikilink")を迎え、映画『[マッドマックス2](../Page/マッドマックス2.md "wikilink")』（[1981年](../Page/1981年.md "wikilink")）のような荒廃した近未来を舞台に銃を手に戦う男たちを描いた、本格的なストーリー仕立ての作品だった。
 
 ### ストーリー
 

@@ -4,11 +4,11 @@
 {{ Infobox 化合物 | name=塩化鉄(III) | 画像=[Iron(III)_chloride_hexahydrate.jpg](https://ja.wikipedia.org/wiki/File:Iron\(III\)_chloride_hexahydrate.jpg "fig:Iron(III)_chloride_hexahydrate.jpg")
 塩化鉄(III) 六水和物 | IUPAC名= 塩化鉄(III)| 別名=塩化第二鉄，第二塩化鉄 | 分子式= | 分子量= | 組成式= FeCl<sub>3</sub>| 式量=162.22 | 形状= 黒褐色六方晶結晶または粉末(無水物) 黄褐色単斜結晶または粉末(六水和物)| CAS登録番号= 7705-08-0| SMILES= | 密度= 2.804 | 相= 固体 | 相対蒸気密度= | 水への溶解度= 92g/100 mL ( 20<span lang="en">°C</span>) | 溶媒2=アセトン | 溶解度2= 63g/100 mL ( 18<span lang="en">°C</span>) | 溶媒3= | 溶解度3= g/100 mL ( <span lang="en">°C</span>) | 融点= 282| 融点注=(無水物) | 沸点= 351| 沸点注=(無水物) | 昇華点= | 昇華点注= | pKa= | pKb= | 比旋光度= | 粘度= | 屈折率= | 出典= }} **塩化鉄(III)**（えんかてつ(III)、Iron(III) chloride）は、組成式 FeCl<sub>3</sub>の無機化合物である。かつては**塩化第二鉄**（えんかだいにてつ、ferric chloride）とも呼ばれた。金属光沢がある。[融点](../Page/融点.md "wikilink")は 302 ℃。[アルコール](https://ja.wikipedia.org/wiki/アルコール "wikilink")や[エーテルに可溶である](../Page/エーテル_\(化学\).md "wikilink")。[潮解性](https://ja.wikipedia.org/wiki/潮解性 "wikilink")がある。水和物は黄褐色（写真）を呈する。水に溶かすと赤褐色の溶液となる。
 
-[塩化鉄(II)](../Page/塩化鉄\(II\).md "wikilink")が[酸素](../Page/酸素.md "wikilink")や[空気](../Page/空気.md "wikilink")により[酸化](../Page/酸化.md "wikilink")され生成したものは、[不均化](https://ja.wikipedia.org/wiki/不均化 "wikilink")および[加水分解](../Page/加水分解.md "wikilink")により[酸化鉄(III)](../Page/酸化鉄\(III\).md "wikilink") や[水酸化鉄(III)](https://ja.wikipedia.org/wiki/水酸化鉄\(III\) "wikilink")、塩基性塩化鉄(III) の沈殿が発生する。
+[塩化鉄(II)](../Page/塩化鉄\(II\).md "wikilink")が[酸素](../Page/酸素.md "wikilink")や[空気](../Page/空気.md "wikilink")により[酸化](../Page/酸化.md "wikilink")され生成したものは、[不均化](../Page/不均化.md "wikilink")および[加水分解](../Page/加水分解.md "wikilink")により[酸化鉄(III)](../Page/酸化鉄\(III\).md "wikilink") や[水酸化鉄(III)](https://ja.wikipedia.org/wiki/水酸化鉄\(III\) "wikilink")、塩基性塩化鉄(III) の沈殿が発生する。
 
-結晶状態のものは強い[酸化](../Page/酸化.md "wikilink")力を有する。濃厚な[水溶液](../Page/水溶液.md "wikilink")でも[酸化](../Page/酸化.md "wikilink")作用を示すので、 [プリント基板](../Page/プリント基板.md "wikilink")や[銅版画](https://ja.wikipedia.org/wiki/銅版画 "wikilink")の[エッチング](https://ja.wikipedia.org/wiki/エッチング "wikilink")剤として利用されている。
+結晶状態のものは強い[酸化](../Page/酸化.md "wikilink")力を有する。濃厚な[水溶液](../Page/水溶液.md "wikilink")でも[酸化](../Page/酸化.md "wikilink")作用を示すので、 [プリント基板](../Page/プリント基板.md "wikilink")や[銅版画](https://ja.wikipedia.org/wiki/銅版画 "wikilink")の[エッチング](../Page/エッチング.md "wikilink")剤として利用されている。
 
-[フェノール類](https://ja.wikipedia.org/wiki/フェノール類 "wikilink")に加えると呈色するため、それらの検出に用いられる。[ヘキサシアノ鉄(II) 酸カリウムとの反応で濃青色沈殿が生成する](../Page/フェロシアン化カリウム.md "wikilink")。
+[フェノール類](../Page/フェノール類.md "wikilink")に加えると呈色するため、それらの検出に用いられる。[ヘキサシアノ鉄(II) 酸カリウムとの反応で濃青色沈殿が生成する](../Page/フェロシアン化カリウム.md "wikilink")。
 
 塩化第二鉄の2004年度日本国内生産量は 356,472 t、工業消費量は 29,314 tである\[1\]。
 

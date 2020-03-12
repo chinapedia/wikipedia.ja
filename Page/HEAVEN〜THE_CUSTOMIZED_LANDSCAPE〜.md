@@ -1,7 +1,7 @@
 > この記事は[HEAVENTHE CUSTOMIZED LANDSCAPE](https://ja.wikipedia.org/wiki/HEAVENTHE_CUSTOMIZED_LANDSCAPE)から翻訳されています。
 
 
-『**HEAVEN 〜THE CUSTOMIZED LANDSCAPE〜**』（ヘヴン ザ・カスタマイズド・ランドスケープ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のバンド[PIERROT](https://ja.wikipedia.org/wiki/PIERROT "wikilink")のメジャーデビュー後、3枚目に発売されたアルバム。[2002年](../Page/2002年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink")に発売される。発売元は[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。
+『**HEAVEN 〜THE CUSTOMIZED LANDSCAPE〜**』（ヘヴン ザ・カスタマイズド・ランドスケープ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のバンド[PIERROT](https://ja.wikipedia.org/wiki/PIERROT "wikilink")のメジャーデビュー後、3枚目に発売されたアルバム。[2002年](../Page/2002年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink")に発売される。発売元は[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
 
 ## 概要
 
@@ -11,7 +11,7 @@ PIERROTが構築したストーリーの中で、1stアルバム『[FINALE](../P
 
 「BIRTHDAY」終了後に隠しトラックとして「SUPER STRING THEORY」が含まれるが、それとは別に1曲目から巻き戻すと「[PARADOX](../Page/PARADOX_\(PIERROTの曲\).md "wikilink")」（1万枚限定シングル）が収録されている。
 
-このアルバムのメンバーインタビューとレコーディングの模様が[スペースシャワーTV](https://ja.wikipedia.org/wiki/スペースシャワーTV "wikilink")にて独占放送された。
+このアルバムのメンバーインタビューとレコーディングの模様が[スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")にて独占放送された。
 
 アルバム発売後、【LANDSCAPE】と題した[5月8日](../Page/5月8日.md "wikilink")〜[5月10日](../Page/5月10日.md "wikilink")の3日間に渡る[日本武道館](../Page/日本武道館.md "wikilink")公演、そして[7月12日](../Page/7月12日.md "wikilink")からの全国ツアーPSYCHEDELIC HEAVENが行われた。
 

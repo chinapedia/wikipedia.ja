@@ -1,7 +1,7 @@
 > この記事は[ID ATTACK](https://ja.wikipedia.org/wiki/ID_ATTACK)から翻訳されています。
 
 
-『**ID ATTACK**』（アイディー・アタック）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[PIERROT](https://ja.wikipedia.org/wiki/PIERROT "wikilink")のメジャーデビュー後4枚目に発売されたアルバム。[2003年](../Page/2003年.md "wikilink")[7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink")発売。発売元は[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。
+『**ID ATTACK**』（アイディー・アタック）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[PIERROT](https://ja.wikipedia.org/wiki/PIERROT "wikilink")のメジャーデビュー後4枚目に発売されたアルバム。[2003年](../Page/2003年.md "wikilink")[7月23日](../Page/7月23日.md "wikilink")発売。発売元は[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
 
 ## 概要
 
@@ -11,7 +11,7 @@
 
 ## 収録曲
 
-全作詞：[キリト](https://ja.wikipedia.org/wiki/キリト "wikilink") 太字はシングル曲。
+全作詞：[キリト](../Page/キリト.md "wikilink") 太字はシングル曲。
 
 1.  a pill
       - 作曲：キリト

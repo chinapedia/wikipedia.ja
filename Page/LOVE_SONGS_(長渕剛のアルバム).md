@@ -1,7 +1,7 @@
 > この記事は[LOVE SONGS \(\)](https://ja.wikipedia.org/wiki/LOVE_SONGS_\(\))から翻訳されています。
 
 
-『**LOVE SONGS**』（ラブ・ソングス）は、日本の[ミュージシャンである](https://ja.wikipedia.org/wiki/音楽家 "wikilink")[長渕剛](../Page/長渕剛.md "wikilink")の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")である。
+『**LOVE SONGS**』（ラブ・ソングス）は、日本の[ミュージシャンである](https://ja.wikipedia.org/wiki/音楽家 "wikilink")[長渕剛](../Page/長渕剛.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")である。
 
 文字通り、それまでに発表された楽曲の中から、ラブソングを中心に選曲されたベストアルバムである。しかし、単なるラブソングではない曲も数曲見受けられる。
 
@@ -13,7 +13,7 @@
 
 ## 構成
 
-これまでにリリースされた各アルバムの中から以下の通り選曲されている。なお、初期3部作である『[風は南から](../Page/風は南から.md "wikilink")』（[1979年](../Page/1979年.md "wikilink")）、『[逆流](../Page/逆流_\(アルバム\).md "wikilink")』（1979年）、『[乾杯](../Page/乾杯_\(アルバム\).md "wikilink")』（[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")）からは1曲も収録されていない。また、6曲目の「LONG LONG TIME AGO」はシングル「[勇次](https://ja.wikipedia.org/wiki/勇次 "wikilink")」（1985年）のB面曲であり、本作でアルバム初収録となった。
+これまでにリリースされた各アルバムの中から以下の通り選曲されている。なお、初期3部作である『[風は南から](../Page/風は南から.md "wikilink")』（[1979年](../Page/1979年.md "wikilink")）、『[逆流](../Page/逆流_\(アルバム\).md "wikilink")』（1979年）、『[乾杯](../Page/乾杯_\(アルバム\).md "wikilink")』（[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")）からは1曲も収録されていない。また、6曲目の「LONG LONG TIME AGO」はシングル「[勇次](../Page/勇次.md "wikilink")」（1985年）のB面曲であり、本作でアルバム初収録となった。
 
   - 『[Bye Bye](../Page/Bye_Bye_\(アルバム\).md "wikilink")』（[1981年](../Page/1981年.md "wikilink")） - 「POOR BOY'S BLUES」
   - 『[時代は僕らに雨を降らしてる](../Page/時代は僕らに雨を降らしてる.md "wikilink")』（[1982年](../Page/1982年.md "wikilink")） - 「マリア」
@@ -25,7 +25,7 @@
 
 ## リリース
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[5月1日](../Page/5月1日.md "wikilink")に[東芝EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")／エキスプレスより、[レコード](../Page/レコード.md "wikilink")、[カセットテ－プ](../Page/コンパクトカセット.md "wikilink")、[CDの](../Page/コンパクトディスク.md "wikilink")3形態でリリースされた。また、CDのみ[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月8日](../Page/3月8日.md "wikilink")に24ビット・[デジタルリマスター](https://ja.wikipedia.org/wiki/デジタルリマスター "wikilink")化されて再リリースされている。
+[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[5月1日](../Page/5月1日.md "wikilink")に[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")／エキスプレスより、[レコード](../Page/レコード.md "wikilink")、[カセットテ－プ](../Page/コンパクトカセット.md "wikilink")、[CDの](../Page/コンパクトディスク.md "wikilink")3形態でリリースされた。また、CDのみ[2006年](../Page/2006年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")に24ビット・[デジタルリマスター](../Page/デジタルリマスター.md "wikilink")化されて再リリースされている。
 
 ## 批評
 
@@ -33,7 +33,7 @@
 
 ## チャート成績
 
-[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")では最高位8位となり、売り上げは約4万枚となった\[3\]。また、2006年の再発版はオリコンチャートで最高位276位となった\[4\]。
+[オリコンチャート](../Page/オリコンチャート.md "wikilink")では最高位8位となり、売り上げは約4万枚となった\[3\]。また、2006年の再発版はオリコンチャートで最高位276位となった\[4\]。
 
 ## 収録曲
 
@@ -49,7 +49,7 @@
 <th><p>日付</p></th>
 <th><p><a href="../Page/レコードレーベル.md" title="wikilink">レーベル</a></p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>最高順位</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -58,7 +58,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="../Page/5月1日.md" title="wikilink">5月1日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン" title="wikilink">東芝EMI</a>／エキスプレス</p></td>
+<td><p><a href="../Page/EMIミュージック・ジャパン.md" title="wikilink">東芝EMI</a>／エキスプレス</p></td>
 <td><p><a href="../Page/レコード.md" title="wikilink">LP</a><br />
 <a href="../Page/カセットテープ.md" title="wikilink">CT</a><br />
 <a href="../Page/コンパクトディスク.md" title="wikilink">CD</a></p></td>
@@ -70,12 +70,12 @@ CA32-1252 (CD)</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/3月8日.md" title="wikilink">3月8日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/3月8日.md" title="wikilink">3月8日</a></p></td>
 <td><p>東芝EMI／エキスプレス</p></td>
 <td><p>CD</p></td>
 <td><p>TOCT-25966</p></td>
 <td><p>276位</p></td>
-<td><p>24ビット・<a href="https://ja.wikipedia.org/wiki/デジタルリマスター" title="wikilink">デジタルリマスター</a>、<a href="https://ja.wikipedia.org/wiki/ディスクジャケット" title="wikilink">紙ジャケット仕様</a></p></td>
+<td><p>24ビット・<a href="../Page/デジタルリマスター.md" title="wikilink">デジタルリマスター</a>、<a href="https://ja.wikipedia.org/wiki/ディスクジャケット" title="wikilink">紙ジャケット仕様</a></p></td>
 </tr>
 </tbody>
 </table>

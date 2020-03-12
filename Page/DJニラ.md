@@ -3,37 +3,37 @@
 
 **DJニラ**（ディー・ジェー・ニラ、[1月14日](../Page/1月14日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性](../Page/男性.md "wikilink")[プロレスラー](../Page/プロレスラー.md "wikilink")。生年非公開。出身地は2012年5月3日のDDT新潟大会で新潟出身と暴露された。
 
-以前は[KAIENTAI DOJOに所属](https://ja.wikipedia.org/wiki/KAIENTAI_DOJO "wikilink")、現在はフリーだが、名鑑などでは「在野」と表現されている。2013年より一時期[新潟プロレス](https://ja.wikipedia.org/wiki/新潟プロレス "wikilink")所属として扱われていたが、その期間中同団体に参戦したことは一度もない。
+以前は[KAIENTAI DOJOに所属](../Page/KAIENTAI_DOJO.md "wikilink")、現在はフリーだが、名鑑などでは「在野」と表現されている。2013年より一時期[新潟プロレス](https://ja.wikipedia.org/wiki/新潟プロレス "wikilink")所属として扱われていたが、その期間中同団体に参戦したことは一度もない。
 
-[リングネーム](https://ja.wikipedia.org/wiki/リングネーム "wikilink")にて「DJ」を名乗っている様に、[ギミックのモチーフはクラブDJである](https://ja.wikipedia.org/wiki/ギミック_\(プロレス\) "wikilink")。「DJ」とは、[ディスクジョッキー](../Page/ディスクジョッキー.md "wikilink")の略ではなく[デビル](https://ja.wikipedia.org/wiki/デビル "wikilink")[ジョーカー](../Page/ジョーカー.md "wikilink")の略であり、「ニラ」は「[バニラ](../Page/バニラ.md "wikilink")」に由来する。
+[リングネーム](../Page/リングネーム.md "wikilink")にて「DJ」を名乗っている様に、[ギミックのモチーフはクラブDJである](../Page/ギミック_\(プロレス\).md "wikilink")。「DJ」とは、[ディスクジョッキー](../Page/ディスクジョッキー.md "wikilink")の略ではなく[デビル](https://ja.wikipedia.org/wiki/デビル "wikilink")[ジョーカー](../Page/ジョーカー.md "wikilink")の略であり、「ニラ」は「[バニラ](../Page/バニラ.md "wikilink")」に由来する。
 
-デビュー以来一貫して団体の最弱キャラのポジションを守っており、因縁を吹っ掛けてはやられ、ユニットを組んでは傲慢に振舞い仲間に愛想を尽かれて解散を繰り返している。その弱さは[DRAGON GATE所属の](https://ja.wikipedia.org/wiki/DRAGON_GATE "wikilink")[ストーカー市川](https://ja.wikipedia.org/wiki/ストーカー市川 "wikilink")と双璧を成す。話術に優れているため、TV中継のホストも務める。決め台詞は「LOVE IS……OVER」。
+デビュー以来一貫して団体の最弱キャラのポジションを守っており、因縁を吹っ掛けてはやられ、ユニットを組んでは傲慢に振舞い仲間に愛想を尽かれて解散を繰り返している。その弱さは[DRAGON GATE所属の](https://ja.wikipedia.org/wiki/DRAGON_GATE "wikilink")[ストーカー市川](../Page/ストーカー市川.md "wikilink")と双璧を成す。話術に優れているため、TV中継のホストも務める。決め台詞は「LOVE IS……OVER」。
 
-[2007年](../Page/2007年.md "wikilink")[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")のKAIENTAI DOJO5周年記念大会を最後に現役を引退したが[9月5日](../Page/9月5日.md "wikilink")の[マッスル15で突如復帰した](https://ja.wikipedia.org/wiki/マッスル_\(プロレス\) "wikilink")。
+[2007年](../Page/2007年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")のKAIENTAI DOJO5周年記念大会を最後に現役を引退したが[9月5日](../Page/9月5日.md "wikilink")の[マッスル15で突如復帰した](../Page/マッスル_\(プロレス\).md "wikilink")。
 
 ## 経歴
 
-[KAIENTAI DOJOには初期から所属しており](https://ja.wikipedia.org/wiki/KAIENTAI_DOJO "wikilink")、旗揚げ興行前に[吉本女子プロレスJd'でK](https://ja.wikipedia.org/wiki/JDスター女子プロレス "wikilink")-bloodの[マネージャーとしてデビュー](https://ja.wikipedia.org/wiki/マネージャー_\(プロレス\) "wikilink")。
+[KAIENTAI DOJOには初期から所属しており](../Page/KAIENTAI_DOJO.md "wikilink")、旗揚げ興行前に[吉本女子プロレスJd'でK](../Page/JDスター女子プロレス.md "wikilink")-bloodの[マネージャーとしてデビュー](../Page/マネージャー_\(プロレス\).md "wikilink")。
 
-K-Blood vs [Psycho-ship](https://ja.wikipedia.org/wiki/パルプンテ "wikilink")、ロス・クアトロ・タバスコスvs[パルプンテ](https://ja.wikipedia.org/wiki/パルプンテ_\(プロレス\) "wikilink")、更に女子3選手（[お船](https://ja.wikipedia.org/wiki/お船chan "wikilink")、[アップルみゆき](https://ja.wikipedia.org/wiki/ハイビスカスみぃ "wikilink")、[山縣優](https://ja.wikipedia.org/wiki/山縣優 "wikilink")）との抗争など、旗揚げ以来常にお船と抗争してきた。そのためお船引退後は適当な抗争相手が見つからず、本領を発揮できない日々が続いていた。[Nudy Raveのマネージャーとして](https://ja.wikipedia.org/wiki/Nudy_Rave "wikilink")[新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")に乗り込んだこともある。
+K-Blood vs [Psycho-ship](https://ja.wikipedia.org/wiki/パルプンテ "wikilink")、ロス・クアトロ・タバスコスvs[パルプンテ](https://ja.wikipedia.org/wiki/パルプンテ_\(プロレス\) "wikilink")、更に女子3選手（[お船](../Page/お船chan.md "wikilink")、[アップルみゆき](../Page/ハイビスカスみぃ.md "wikilink")、[山縣優](../Page/山縣優.md "wikilink")）との抗争など、旗揚げ以来常にお船と抗争してきた。そのためお船引退後は適当な抗争相手が見つからず、本領を発揮できない日々が続いていた。[Nudy Raveのマネージャーとして](https://ja.wikipedia.org/wiki/Nudy_Rave "wikilink")[新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")に乗り込んだこともある。
 
-また、[NEO女子プロレス](https://ja.wikipedia.org/wiki/NEO女子プロレス "wikilink")にもレギュラーとして参戦。[田辺優](https://ja.wikipedia.org/wiki/田辺優 "wikilink")とのバーリトゥード戦はNEOでのベストバウトとの呼び声が高い。
+また、[NEO女子プロレス](../Page/NEO女子プロレス.md "wikilink")にもレギュラーとして参戦。[田辺優](../Page/田辺優.md "wikilink")とのバーリトゥード戦はNEOでのベストバウトとの呼び声が高い。
 
-2003年12月28日に[ストーカー市川](https://ja.wikipedia.org/wiki/ストーカー市川 "wikilink")と「最弱王決定戦」と言う名目で試合を組まれた事もあり、その後は最弱キャラ同士として気が合うところがあるらしく、ハッスルにて1vs2の変則タッグマッチで組んでいる。またストーカー市川とタッグを組み、[北斗晶](https://ja.wikipedia.org/wiki/北斗晶 "wikilink")と戦ったが、10秒にも満たずにノーザンライトボムからのピンフォール負けを食らった（両者）。
+2003年12月28日に[ストーカー市川](../Page/ストーカー市川.md "wikilink")と「最弱王決定戦」と言う名目で試合を組まれた事もあり、その後は最弱キャラ同士として気が合うところがあるらしく、ハッスルにて1vs2の変則タッグマッチで組んでいる。またストーカー市川とタッグを組み、[北斗晶](https://ja.wikipedia.org/wiki/北斗晶 "wikilink")と戦ったが、10秒にも満たずにノーザンライトボムからのピンフォール負けを食らった（両者）。
 
 2004年には[全日本プロレス](../Page/全日本プロレス.md "wikilink")リングアナ[木原文人](../Page/木原文人.md "wikilink")と対戦して連敗。
 
-[666では](https://ja.wikipedia.org/wiki/666_\(プロレス\) "wikilink")、[佐野直](https://ja.wikipedia.org/wiki/佐野直 "wikilink")と組んでKY行動に出るなど、顰蹙を買っている。
+[666では](../Page/666_\(プロレス\).md "wikilink")、[佐野直](../Page/佐野直.md "wikilink")と組んでKY行動に出るなど、顰蹙を買っている。
 
-プロレス界では[高木三四郎](https://ja.wikipedia.org/wiki/高木三四郎 "wikilink")と双璧をなす[ガンダム](https://ja.wikipedia.org/wiki/ガンダム "wikilink")オタク。「再びKAIENTAI DOJOの理想を掲げるために！本興行成功成就のために！（会場名）よ！私は帰ってきた！！」など、マイクアピールにもガンダムネタが多い。2010年、[デビルジョーカーオペレーション](https://ja.wikipedia.org/wiki/デビルジョーカーオペレーション "wikilink")にてユニットを組んでいた[矢郷良明](../Page/矢郷良明.md "wikilink")によく似た、ヤゴウ・アズナブルの率いるヤゴウ公国軍に参加し、[DDTプロレスリング](https://ja.wikipedia.org/wiki/DDTプロレスリング "wikilink")2010年両国大会のリングに上がった。
+プロレス界では[高木三四郎](../Page/高木三四郎.md "wikilink")と双璧をなす[ガンダム](https://ja.wikipedia.org/wiki/ガンダム "wikilink")オタク。「再びKAIENTAI DOJOの理想を掲げるために！本興行成功成就のために！（会場名）よ！私は帰ってきた！！」など、マイクアピールにもガンダムネタが多い。2010年、[デビルジョーカーオペレーション](https://ja.wikipedia.org/wiki/デビルジョーカーオペレーション "wikilink")にてユニットを組んでいた[矢郷良明](../Page/矢郷良明.md "wikilink")によく似た、ヤゴウ・アズナブルの率いるヤゴウ公国軍に参加し、[DDTプロレスリング](../Page/DDTプロレスリング.md "wikilink")2010年両国大会のリングに上がった。
 
 2010年下期以降はDDTに定期参戦をしている。
 
 2012年にタイで旗揚げされた[我闘雲舞](https://ja.wikipedia.org/wiki/我闘雲舞 "wikilink")にも参戦し、定期参戦している。旗揚げ1周年興行で日本人レスラーとして初めてタイ人（ゴーレム・タイ）に負けるという屈辱を味わった。日本でもE・K・バギーに敗れている。
 
-2015年9月21日、我闘雲舞[横浜にぎわい座](https://ja.wikipedia.org/wiki/横浜にぎわい座 "wikilink")大会で、[里歩](../Page/里歩.md "wikilink")が持つ[IWA三冠統一王座に挑戦して勝利](https://ja.wikipedia.org/wiki/IWA三冠統一選手権 "wikilink")。王座を奪取した\[1\]。
+2015年9月21日、我闘雲舞[横浜にぎわい座](../Page/横浜にぎわい座.md "wikilink")大会で、[里歩](../Page/里歩.md "wikilink")が持つ[IWA三冠統一王座に挑戦して勝利](https://ja.wikipedia.org/wiki/IWA三冠統一選手権 "wikilink")。王座を奪取した\[1\]。
 
-2019年2月16日、[マッスルマニア 2019 in 両国の対](https://ja.wikipedia.org/wiki/マッスル_\(プロレス\) "wikilink")[アントーニオ本多](../Page/アントーニオ本多.md "wikilink")戦でメインイベントを務めた。
+2019年2月16日、[マッスルマニア 2019 in 両国の対](../Page/マッスル_\(プロレス\).md "wikilink")[アントーニオ本多](../Page/アントーニオ本多.md "wikilink")戦でメインイベントを務めた。
 
 ## タイトル歴
 
@@ -42,9 +42,9 @@ K-Blood vs [Psycho-ship](https://ja.wikipedia.org/wiki/パルプンテ "wikilink
 
 ## 得意技
 
-  - ロケット[パンチ](https://ja.wikipedia.org/wiki/パンチング "wikilink") :[スピアーの要領で相手に両拳を打ち込む技](https://ja.wikipedia.org/wiki/スピアー_\(プロレス技\) "wikilink")。相手を口八丁で惑わせたり気を逸らせて放たれることが多い。
+  - ロケット[パンチ](https://ja.wikipedia.org/wiki/パンチング "wikilink") :[スピアーの要領で相手に両拳を打ち込む技](../Page/スピアー_\(プロレス技\).md "wikilink")。相手を口八丁で惑わせたり気を逸らせて放たれることが多い。
     DJプレス :倒れた相手への背面アタックであるが相手が見えないため、かわされるとダメージのでかいリスキーな技である。
-    シットダウン式[コブラツイスト](../Page/コブラツイスト.md "wikilink") :座っている相手にコブラツイストを仕掛け、横に捻りあげる。[川田利明](https://ja.wikipedia.org/wiki/川田利明 "wikilink")の[ストレッチ・プラムに似ている技](https://ja.wikipedia.org/wiki/コブラツイスト#派生技・関連技 "wikilink")。団体最弱キャラと言われていたが、K-METALリーグではこの技で[ギブアップ](https://ja.wikipedia.org/wiki/ギブアップ "wikilink")を奪い、波乱を巻き起こした。
+    シットダウン式[コブラツイスト](../Page/コブラツイスト.md "wikilink") :座っている相手にコブラツイストを仕掛け、横に捻りあげる。[川田利明](../Page/川田利明.md "wikilink")の[ストレッチ・プラムに似ている技](https://ja.wikipedia.org/wiki/コブラツイスト#派生技・関連技 "wikilink")。団体最弱キャラと言われていたが、K-METALリーグではこの技で[ギブアップ](https://ja.wikipedia.org/wiki/ギブアップ "wikilink")を奪い、波乱を巻き起こした。
     [スモールパッケージホールド](https://ja.wikipedia.org/wiki/スモールパッケージホールド "wikilink") :DJニラのフィニッシュ技。技をかける前に「**スモールパッケージホールド\!\!**」と叫んでから技をかける（本来スモールパッケージホールドは相手の一瞬の隙を見てかける技であり、叫んでから使う技ではない）
     足延髄（ジャンピングローキック） :延髄斬りの要領で高く飛び上がり、相手が頭部をガードしたところでガードががら空きになった相手の足へ蹴りを放つ。
     シャイニング・ニースタンド :[シャイニング・ウィザード](../Page/シャイニング・ウィザード.md "wikilink")のように片膝立ち状態の相手の膝に飛び乗って立ち上がり、そのまま全体重をかけ、重みによるギブアップを狙う。
@@ -52,7 +52,7 @@ K-Blood vs [Psycho-ship](https://ja.wikipedia.org/wiki/パルプンテ "wikilink
     ブラックスワン
     コーナーポストに登り、場外の相手に向かって背中から自由落下する。
   - 足4の字固め
-    自らが[足4の字固め](https://ja.wikipedia.org/wiki/足4の字固め "wikilink")をかけられて裏返った状態(相手の足4の字固めを返した状態)に固める。その状態から自らロープブレイクすることもある。
+    自らが[足4の字固め](../Page/足4の字固め.md "wikilink")をかけられて裏返った状態(相手の足4の字固めを返した状態)に固める。その状態から自らロープブレイクすることもある。
   - くしゃみ
     [加藤茶](../Page/加藤茶.md "wikilink")風のくしゃみで相手をひるませる。
 

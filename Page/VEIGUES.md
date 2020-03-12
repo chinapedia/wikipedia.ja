@@ -5,9 +5,9 @@
 
 西暦2321年を舞台に、自機「ヴェイグス」を操作し敵である「ミズガルズサーペント」を倒し地球を救出する事を目的としたゲーム。
 
-開発はゲームアーツが行い、同社のゲームソフト『ゼリアード』（1988年）を手掛けた竹内誠と、『[テグザー](https://ja.wikipedia.org/wiki/テグザー "wikilink")』（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")）を手掛けた上坂哲がシナリオを担当、パッケージイラストは[末弥純](../Page/末弥純.md "wikilink")が担当した。
+開発はゲームアーツが行い、同社のゲームソフト『ゼリアード』（1988年）を手掛けた竹内誠と、『[テグザー](../Page/テグザー.md "wikilink")』（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")）を手掛けた上坂哲がシナリオを担当、パッケージイラストは[末弥純](../Page/末弥純.md "wikilink")が担当した。
 
-[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")には冗長気味だったステージを短縮して[PCエンジン](../Page/PCエンジン.md "wikilink")に移植された。発売は[ビクター音楽産業だが開発はビッツラボラトリーが行った](https://ja.wikipedia.org/wiki/JVCケンウッド・ビクターエンタテインメント "wikilink")。PCエンジン版は北米においては『*Veigues: Tactical Gladiator*』のタイトルで発売された。PC-8801版は[2003年](../Page/2003年.md "wikilink")に[Windows用ソフトとして](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[プロジェクトEGG](https://ja.wikipedia.org/wiki/プロジェクトEGG "wikilink")にて配信された。
+[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")には冗長気味だったステージを短縮して[PCエンジン](../Page/PCエンジン.md "wikilink")に移植された。発売は[ビクター音楽産業だが開発はビッツラボラトリーが行った](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")。PCエンジン版は北米においては『*Veigues: Tactical Gladiator*』のタイトルで発売された。PC-8801版は[2003年](../Page/2003年.md "wikilink")に[Windows用ソフトとして](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[プロジェクトEGG](../Page/プロジェクトEGG.md "wikilink")にて配信された。
 
 ## ゲーム内容
 
@@ -17,7 +17,7 @@
 
 ヴェイグスは通常、地面の上をローラーダッシュしており、左右キーで前後に移動、ジャンプと下キーを入れた際に方向転換する。クイックターン時には[当たり判定](https://ja.wikipedia.org/wiki/当たり判定 "wikilink")がなくなるので、これを利用して敵の攻撃を回避するのがプレイの基本である。なお、ローラーダッシュせずに通常歩行することはできない。
 
-ヴェイグスはダメージを受けると[シールドを消耗するが](https://ja.wikipedia.org/wiki/シールド_\(サイエンス・フィクション\) "wikilink")、これは時間と共に回復する。しかしシールドが消耗しつくして無い時にダメージを受けると、頭部センサーかビームガンかフィールドパンチが破損し、これによって「頭部センサー破損→敵の攻撃方向を知らせる警告が出ない」・「ビームガン破損」・「フィールドパンチ破損」で更に戦況が厳しくなる。
+ヴェイグスはダメージを受けると[シールドを消耗するが](../Page/シールド_\(サイエンス・フィクション\).md "wikilink")、これは時間と共に回復する。しかしシールドが消耗しつくして無い時にダメージを受けると、頭部センサーかビームガンかフィールドパンチが破損し、これによって「頭部センサー破損→敵の攻撃方向を知らせる警告が出ない」・「ビームガン破損」・「フィールドパンチ破損」で更に戦況が厳しくなる。
 
 武装は主兵装であるビームガン（進行方向に水平発射される）と発射角度を調節できる迎撃バルカン（ボディバルカンとも）、そして最大の威力を持つフィールドパンチの三種類である。パンチは威力があるものの、最初の内はほとんど衝突寸前の状態で打たねばならず、また発射から攻撃まで僅かにタイムラグが在るため、上手くタイミングを計らないとならない。ビームガンは左右に連射できるが、命中範囲は狭く、また最初の内はかなり威力が小さい。迎撃バルカンは連射性や攻撃対応範囲は広いものの、手動で発射角度を調節しなければならず、最初の内は威力はほとんど気休め程度である。
 
@@ -32,7 +32,7 @@
 
 余談だが、当初はアクションゲームとシミュレーションゲームを合わせたようなシステムのゲームとして企画されていたが、途中で殆ど似たゲームシステムを持った「[獣神ローガス](https://ja.wikipedia.org/wiki/獣神ローガス "wikilink")」（[ランダムハウス社](../Page/悠紀エンタープライズ.md "wikilink")）が発売された事で前述の案を破棄、改めて純粋なアクションゲームへと路線変更した経緯を持つ（ちなみに「獣神ローガス」も当初案から企画変更した経緯を持つ）。
 
-開発者のサイト（現在は閉鎖）によると、「ヴェイグスのデザインは、角ばった感じで胸板の鉄板のぶ厚さなど、とにかく武骨にした。腕もフィールドパンチを発動するためだけのものなので、手の[マニピュレーター](https://ja.wikipedia.org/wiki/マニピュレーター "wikilink")は省略した」と語られていた。
+開発者のサイト（現在は閉鎖）によると、「ヴェイグスのデザインは、角ばった感じで胸板の鉄板のぶ厚さなど、とにかく武骨にした。腕もフィールドパンチを発動するためだけのものなので、手の[マニピュレーター](../Page/マニピュレーター.md "wikilink")は省略した」と語られていた。
 
 ### 武装
 
@@ -154,8 +154,8 @@
 <td></td>
 <td><p><a href="../Page/PCエンジン.md" title="wikilink">PCエンジン</a></p></td>
 <td><p>ビッツラボラトリー</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/JVCケンウッド・ビクターエンタテインメント" title="wikilink">ビクター音楽産業</a></p></td>
-<td><p>3<a href="../Page/メガビット.md" title="wikilink">メガビット</a><a href="https://ja.wikipedia.org/wiki/HuCARD" title="wikilink">HuCARD</a><ref name="pcfan7">{{Cite journal |和書</p></td>
+<td><p><a href="../Page/JVCケンウッド・ビクターエンタテインメント.md" title="wikilink">ビクター音楽産業</a></p></td>
+<td><p>3<a href="../Page/メガビット.md" title="wikilink">メガビット</a><a href="../Page/HuCARD.md" title="wikilink">HuCARD</a><ref name="pcfan7">{{Cite journal |和書</p></td>
 <td><p>author =</p></td>
 <td><p>authorlink =</p></td>
 </tr>
@@ -203,7 +203,7 @@
 
 <!-- end list -->
 
-  - ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「[クロスレビュー](https://ja.wikipedia.org/wiki/クロスレビュー "wikilink")」では合計20点（満40点）\[1\]、『月刊PCエンジン』では70・60・65・70・75の平均68点（満100点）、『マル勝PCエンジン』では6・6・7・6の合計25点（満40点）、『[PC Engine FAN](https://ja.wikipedia.org/wiki/PC_Engine_FAN "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、19.23点（満30点）となっている\[2\]。また、この得点はPCエンジン全ソフトの中で381位（485本中、1993年時点）となっている\[3\]。同雑誌1993年10月号特別付録の「PCエンジンオールカタログ'93」では、「キャラが大きいため攻撃回避が難しい」とゲーム性に関して否定的なコメントで紹介されている\[4\]。
+  - ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「[クロスレビュー](../Page/クロスレビュー.md "wikilink")」では合計20点（満40点）\[1\]、『月刊PCエンジン』では70・60・65・70・75の平均68点（満100点）、『マル勝PCエンジン』では6・6・7・6の合計25点（満40点）、『[PC Engine FAN](../Page/PC_Engine_FAN.md "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、19.23点（満30点）となっている\[2\]。また、この得点はPCエンジン全ソフトの中で381位（485本中、1993年時点）となっている\[3\]。同雑誌1993年10月号特別付録の「PCエンジンオールカタログ'93」では、「キャラが大きいため攻撃回避が難しい」とゲーム性に関して否定的なコメントで紹介されている\[4\]。
 
 | 項目 | キャラクタ | 音楽   | 操作性  | 熱中度  | お買得度 | オリジナリティ | 総合    |
 | -- | ----- | ---- | ---- | ---- | ---- | ------- | ----- |
@@ -217,7 +217,7 @@
 
   - [ゲームアーツの紹介ページ](http://www.gamearts.co.jp/products/pc-veigues.html)
 
-  - [ヴェイグス for PC-8801 （[プロジェクトEGG](https://ja.wikipedia.org/wiki/プロジェクトEGG "wikilink")）](http://www.amusement-center.com/project/egg/cgi/ecatalog-detail.cgi?contcode=7&product_id=1091)
+  - [ヴェイグス for PC-8801 （[プロジェクトEGG](../Page/プロジェクトEGG.md "wikilink")）](http://www.amusement-center.com/project/egg/cgi/ecatalog-detail.cgi?contcode=7&product_id=1091)
 
   - （英語）
 

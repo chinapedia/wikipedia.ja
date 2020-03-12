@@ -1,13 +1,13 @@
 > この記事は[FINALE](https://ja.wikipedia.org/wiki/FINALE)から翻訳されています。
 
 
-『**FINALE**』（フィナーレ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のバンド[PIERROT](https://ja.wikipedia.org/wiki/PIERROT "wikilink")のメジャーデビューアルバム。[1999年](../Page/1999年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")に発売された。発売元は[東芝EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")。
+『**FINALE**』（フィナーレ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のバンド[PIERROT](https://ja.wikipedia.org/wiki/PIERROT "wikilink")のメジャーデビューアルバム。[1999年](../Page/1999年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")に発売された。発売元は[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")。
 
 ## 概要
 
 メジャーデビューアルバムにもかかわらず「FINALE(=終楽章）」と名付けられたのは、「終わりは始まり」という逆説的なコンセプトを元にしているため。そのコンセプト通り、一貫した終末観が描かれている。
 
-楽曲中の登場人物を[アダム](../Page/アダム.md "wikilink")と[イブ](https://ja.wikipedia.org/wiki/イブ "wikilink")に見立て、この二人が様々な世代に生まれ変わりながらお互いを求め合うという展開になっている。このストーリーは3rdアルバム『[HEAVEN〜THE CUSTOMIZED LANDSCAPE〜](https://ja.wikipedia.org/wiki/HEAVEN〜THE_CUSTOMIZED_LANDSCAPE〜 "wikilink")』まで続く。
+楽曲中の登場人物を[アダム](../Page/アダム.md "wikilink")と[イブ](https://ja.wikipedia.org/wiki/イブ "wikilink")に見立て、この二人が様々な世代に生まれ変わりながらお互いを求め合うという展開になっている。このストーリーは3rdアルバム『[HEAVEN〜THE CUSTOMIZED LANDSCAPE〜](../Page/HEAVEN〜THE_CUSTOMIZED_LANDSCAPE〜.md "wikilink")』まで続く。
 
 リリース日が[1999年](../Page/1999年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")であることも、[ノストラダムス](../Page/ノストラダムス.md "wikilink")の予言に意図的に合わせたものであると思われる。
 

@@ -3,12 +3,12 @@
 
 **DEVELOP=FRAME**（ディベロップ・フレーム）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のソフト[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。
 
-初期の作品は[ニュー・ウェイヴ](https://ja.wikipedia.org/wiki/ニュー・ウェイヴ_\(音楽\) "wikilink")、[ニューロマンティック](https://ja.wikipedia.org/wiki/ニューロマンティック "wikilink")を彷彿させるエレクトリックサウンドであったが、谷口佳之加入以降はハードなギターを重視したデジタルロックへと変貌した。2003年4月3日に解散し、約9年間の活動を終了した。 活動終了から10年目の2013年に再始動を発表。
+初期の作品は[ニュー・ウェイヴ](../Page/ニュー・ウェイヴ_\(音楽\).md "wikilink")、[ニューロマンティック](../Page/ニューロマンティック.md "wikilink")を彷彿させるエレクトリックサウンドであったが、谷口佳之加入以降はハードなギターを重視したデジタルロックへと変貌した。2003年4月3日に解散し、約9年間の活動を終了した。 活動終了から10年目の2013年に再始動を発表。
 
 ## メンバー
 
   - 野口純平 : Vocal
-  - [鳴瀬シュウヘイ](https://ja.wikipedia.org/wiki/鳴瀬シュウヘイ "wikilink") : Program、Keyboard(リーダー)
+  - [鳴瀬シュウヘイ](../Page/鳴瀬シュウヘイ.md "wikilink") : Program、Keyboard(リーダー)
   - 谷口佳之 : Guitar
   - TETSUJI : Drum
 
@@ -39,7 +39,7 @@
 ### シングル
 
 1.  Realize　([コロムビアミュージックエンタテインメント](../Page/日本コロムビア.md "wikilink")／1999.10.21) - メジャーデビューシングル、[大山正篤](../Page/大山正篤.md "wikilink")(ex.[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink"))プロデュース
-2.  CHASE　(コロムビアミュージックエンタテインメント／2000.3.1) - TBS系アニメ『[ゾイド -ZOIDS-](https://ja.wikipedia.org/wiki/ゾイド_-ZOIDS- "wikilink")』エンディングテーマ
+2.  CHASE　(コロムビアミュージックエンタテインメント／2000.3.1) - TBS系アニメ『[ゾイド -ZOIDS-](../Page/ゾイド_-ZOIDS-.md "wikilink")』エンディングテーマ
 3.  裸心　(コロムビアミュージックエンタテインメント／2000.7.20) - TBS系『心の扉』エンディングテーマ
 
 ### 配信シングル
@@ -51,7 +51,7 @@
 5.  remove (the decade)　(2014.1.28) - コーラスに名倉かおり(ex.[仮面ライダーGIRLS](https://ja.wikipedia.org/wiki/仮面ライダーGIRLS "wikilink"))が参加
 6.  Sculpture Mind (the decade)　(2014.2.11) - サポートベースとしてRYO([defspiral](https://ja.wikipedia.org/wiki/defspiral "wikilink")／ex.[TRANSTIC NERVE](https://ja.wikipedia.org/wiki/TRANSTIC_NERVE "wikilink"))が参加
 7.  Blaze your Blaze (the decade)　(2014.3.4)
-8.  UNION (the decade)　(2014.3.25) - サポートベースとしてHIRO(ex.[MASCHERA](https://ja.wikipedia.org/wiki/MASCHERA "wikilink"))、コーラスに名倉かおり(ex.[仮面ライダーGIRLS](https://ja.wikipedia.org/wiki/仮面ライダーGIRLS "wikilink"))が参加
+8.  UNION (the decade)　(2014.3.25) - サポートベースとしてHIRO(ex.[MASCHERA](../Page/MASCHERA.md "wikilink"))、コーラスに名倉かおり(ex.[仮面ライダーGIRLS](https://ja.wikipedia.org/wiki/仮面ライダーGIRLS "wikilink"))が参加
 9.  SACRED (the decade)　(2014.4.20) - サポートベースとして長野典二([everset](https://ja.wikipedia.org/wiki/everset "wikilink")／ex.Missing Tear)が参加
 10. FLOWER (refurbished)　(2016.4.25)
 11. maybe "HEAVEN" (refurbished)　(2016.5.23)
@@ -60,7 +60,7 @@
 ### アルバム
 
 1.  metaphor　(BERETT RECORDS／1997.7.1)
-2.  HUB　([トクマオリジナル](https://ja.wikipedia.org/wiki/徳間ジャパンコミュニケーションズ "wikilink")／2002.2.5)
+2.  HUB　([トクマオリジナル](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")／2002.2.5)
 3.  TERMINUS　(module project／2003.4.3)
 4.  UTTER　(module project／2004)
 5.  ISM　(module project／2004)

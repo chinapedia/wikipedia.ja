@@ -1,13 +1,13 @@
 > この記事は[DICTATORS CIRCUS -A variant BUD-](https://ja.wikipedia.org/wiki/DICTATORS_CIRCUS_-A_variant_BUD-)から翻訳されています。
 
 
-『**DICTATORS CIRCUS -A variant BUD-**』（ディクテイターズ・サーカス ア・ヴァリアント・バッド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のバンド[PIERROT](https://ja.wikipedia.org/wiki/PIERROT "wikilink")のメジャーデビュー後7枚目に発売されたアルバム。PIERROT2枚目の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月6日](../Page/4月6日.md "wikilink")発売。発売元は[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。
+『**DICTATORS CIRCUS -A variant BUD-**』（ディクテイターズ・サーカス ア・ヴァリアント・バッド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のバンド[PIERROT](https://ja.wikipedia.org/wiki/PIERROT "wikilink")のメジャーデビュー後7枚目に発売されたアルバム。PIERROT2枚目の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")発売。発売元は[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
 
 ## 概要
 
 このアルバムには「[クリア・スカイ](../Page/クリア・スカイ.md "wikilink")」から「[MYCLOUD](../Page/MYCLOUD.md "wikilink")」までの、メジャーレーベルからリリースされたシングルのタイトルナンバーが収録されている。ただし、限定シングル「[PARADOX](../Page/PARADOX_\(PIERROTの曲\).md "wikilink")」および、再レコーディングして発売された「[脳内モルヒネ](../Page/脳内モルヒネ.md "wikilink")」は収録されていない。
 
-「[カナタへ…](https://ja.wikipedia.org/wiki/ハルカ…/カナタヘ… "wikilink")」及び「[夕闇スーサイド](https://ja.wikipedia.org/wiki/ネオグロテスク/薔薇色の世界/夕闇スーサイド "wikilink")」はシングルではA面とされているが、このアルバムには収録されず、『[DICTATORS CIRCUS -A deformed BUD-](https://ja.wikipedia.org/wiki/DICTATORS_CIRCUS_-A_deformed_BUD- "wikilink")』にカップリングナンバーとして収録されている。
+「[カナタへ…](https://ja.wikipedia.org/wiki/ハルカ…/カナタヘ… "wikilink")」及び「[夕闇スーサイド](https://ja.wikipedia.org/wiki/ネオグロテスク/薔薇色の世界/夕闇スーサイド "wikilink")」はシングルではA面とされているが、このアルバムには収録されず、『[DICTATORS CIRCUS -A deformed BUD-](../Page/DICTATORS_CIRCUS_-A_deformed_BUD-.md "wikilink")』にカップリングナンバーとして収録されている。
 
 初回限定版には「[薔薇色の世界](https://ja.wikipedia.org/wiki/ネオグロテスク/薔薇色の世界/夕闇スーサイド "wikilink")」が収録されている。
 
@@ -35,6 +35,6 @@
 ## 関連項目
 
   - [DICTATORS CIRCUS -奇術的旋律-](../Page/DICTATORS_CIRCUS_-奇術的旋律-.md "wikilink")
-  - [DICTATORS CIRCUS -A deformed BUD-](https://ja.wikipedia.org/wiki/DICTATORS_CIRCUS_-A_deformed_BUD- "wikilink")
+  - [DICTATORS CIRCUS -A deformed BUD-](../Page/DICTATORS_CIRCUS_-A_deformed_BUD-.md "wikilink")
 
 [Category:PIERROTのベスト・アルバム](https://ja.wikipedia.org/wiki/Category:PIERROTのベスト・アルバム "wikilink") [Category:2005年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2005年のベスト・アルバム "wikilink")

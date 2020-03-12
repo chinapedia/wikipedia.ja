@@ -1,13 +1,13 @@
 > この記事は[LICENSE \(\)](https://ja.wikipedia.org/wiki/LICENSE_\(\))から翻訳されています。
 
 
-『**LICENSE**』（ライセンス）は、日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")である[長渕剛](../Page/長渕剛.md "wikilink")の10枚目の[スタジオ・アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")、およびアルバムの8曲目に収録された楽曲である。
+『**LICENSE**』（ライセンス）は、日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")である[長渕剛](../Page/長渕剛.md "wikilink")の10枚目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")、およびアルバムの8曲目に収録された楽曲である。
 
 プロデューサーは長渕自身が担当している。前作に続きアコースティックサウンドが主体であるが、一部の曲ではドラムスを加え[ロック](../Page/ロック_\(音楽\).md "wikilink")、[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")などの音楽性を採り入れている。
 
-[TBS系テレビドラマ](../Page/TBS系列.md "wikilink")『[親子ジグザグ](https://ja.wikipedia.org/wiki/親子ジグザグ "wikilink")』（1987年）の主題歌として使用された先行シングル「[ろくなもんじゃねえ](https://ja.wikipedia.org/wiki/ろくなもんじゃねえ "wikilink")」を収録している。
+[TBS系テレビドラマ](../Page/TBS系列.md "wikilink")『[親子ジグザグ](../Page/親子ジグザグ.md "wikilink")』（1987年）の主題歌として使用された先行シングル「[ろくなもんじゃねえ](../Page/ろくなもんじゃねえ.md "wikilink")」を収録している。
 
-[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")では最高位1位を獲得し、[第29回日本レコード大賞](https://ja.wikipedia.org/wiki/第29回日本レコード大賞 "wikilink")ではアルバム大賞を受賞した。
+[オリコンチャート](../Page/オリコンチャート.md "wikilink")では最高位1位を獲得し、[第29回日本レコード大賞](https://ja.wikipedia.org/wiki/第29回日本レコード大賞 "wikilink")ではアルバム大賞を受賞した。
 
 ## 背景
 
@@ -15,19 +15,19 @@
 
 前作の完成以降、自らが書くべき歌の姿を、原点である故郷[鹿児島](../Page/鹿児島県.md "wikilink")、そして自分を含めた家族に見出した長渕は、本作にてそれらを反映させている。なお、タイトルナンバーである『LICENSE』では、生まれ育った鹿児島での生活を振り返り、彼が30歳にして初めて取得した[普通自動車免許を手に](../Page/運転免許.md "wikilink")、空路[羽田に降り立つ両親を](https://ja.wikipedia.org/wiki/東京国際空港 "wikilink")、これまでの感謝の気持をもって迎えようと、空港まで車を運転する長渕自身の姿を淡々と描いている。
 
-音楽以外の活動としては、テレビドラマ『[親子ゲーム](https://ja.wikipedia.org/wiki/親子ゲーム "wikilink")』（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）に出演後、12月20日には初出演となった映画『[男はつらいよ 幸福の青い鳥](../Page/男はつらいよ_幸福の青い鳥.md "wikilink")』（1986年）が公開され、『親子ゲーム』にて共演した[志穂美悦子](https://ja.wikipedia.org/wiki/志穂美悦子 "wikilink")と再度の共演を果たした\[2\]。
+音楽以外の活動としては、テレビドラマ『[親子ゲーム](../Page/親子ゲーム.md "wikilink")』（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）に出演後、12月20日には初出演となった映画『[男はつらいよ 幸福の青い鳥](../Page/男はつらいよ_幸福の青い鳥.md "wikilink")』（1986年）が公開され、『親子ゲーム』にて共演した[志穂美悦子](https://ja.wikipedia.org/wiki/志穂美悦子 "wikilink")と再度の共演を果たした\[2\]。
 
-さらにその後、前作をスケールアップさせたテレビドラマ『[親子ジグザグ](https://ja.wikipedia.org/wiki/親子ジグザグ "wikilink")』が4月10日から8月21日まで放送され、その最中に主題歌「[ろくなもんじゃねえ](https://ja.wikipedia.org/wiki/ろくなもんじゃねえ "wikilink")」（1987年）を5月25日にシングルとしてリリースした\[3\]。なお、本作では志穂美ではなく[安田成美](https://ja.wikipedia.org/wiki/安田成美 "wikilink")と共演している。
+さらにその後、前作をスケールアップさせたテレビドラマ『[親子ジグザグ](../Page/親子ジグザグ.md "wikilink")』が4月10日から8月21日まで放送され、その最中に主題歌「[ろくなもんじゃねえ](../Page/ろくなもんじゃねえ.md "wikilink")」（1987年）を5月25日にシングルとしてリリースした\[3\]。なお、本作では志穂美ではなく[安田成美](https://ja.wikipedia.org/wiki/安田成美 "wikilink")と共演している。
 
 ## 録音
 
-長渕の通算10枚目となるオリジナルアルバムで、全収録曲が[瀬尾一三](https://ja.wikipedia.org/wiki/瀬尾一三 "wikilink")との共同アレンジによって製作された。
+長渕の通算10枚目となるオリジナルアルバムで、全収録曲が[瀬尾一三](../Page/瀬尾一三.md "wikilink")との共同アレンジによって製作された。
 
 ドラマ撮影を挟んでの過密スケジュールもあって、たった2週間でレコーディングは完了した。
 
 本作から[笛吹利明](https://ja.wikipedia.org/wiki/笛吹利明 "wikilink")、[矢島賢](../Page/矢島賢.md "wikilink")の両氏が本格的に長渕のレコーディングに参加するようになる。
 
-本作のマスタリングはニューヨークのマスターディスクにて、[ビースティ・ボーイズ](https://ja.wikipedia.org/wiki/ビースティ・ボーイズ "wikilink")や[ニルヴァーナなどを手掛けた事で知られるエンジニア](../Page/ニルヴァーナ_\(アメリカ合衆国のバンド\).md "wikilink")、[ハウィー・ウェインバーグ](https://ja.wikipedia.org/wiki/ハウィー・ウェインバーグ "wikilink")によって施された。
+本作のマスタリングはニューヨークのマスターディスクにて、[ビースティ・ボーイズ](../Page/ビースティ・ボーイズ.md "wikilink")や[ニルヴァーナなどを手掛けた事で知られるエンジニア](../Page/ニルヴァーナ_\(アメリカ合衆国のバンド\).md "wikilink")、[ハウィー・ウェインバーグ](https://ja.wikipedia.org/wiki/ハウィー・ウェインバーグ "wikilink")によって施された。
 
 ## 音楽性
 
@@ -39,9 +39,9 @@
 
 ## リリース
 
-[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[8月5日](../Page/8月5日.md "wikilink")に[東芝EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")／エキスプレスより、[レコード](../Page/レコード.md "wikilink")、[カセットテープ](../Page/コンパクトカセット.md "wikilink")、[CDの](../Page/コンパクトディスク.md "wikilink")3形態でリリースされた。
+[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[8月5日](../Page/8月5日.md "wikilink")に[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")／エキスプレスより、[レコード](../Page/レコード.md "wikilink")、[カセットテープ](../Page/コンパクトカセット.md "wikilink")、[CDの](../Page/コンパクトディスク.md "wikilink")3形態でリリースされた。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月8日](../Page/2月8日.md "wikilink")に24ビット・デジタルリマスター、紙ジャケット仕様で再リリースされた\[6\]。
+[2006年](../Page/2006年.md "wikilink")[2月8日](../Page/2月8日.md "wikilink")に24ビット・デジタルリマスター、紙ジャケット仕様で再リリースされた\[6\]。
 
 ## プロモーション
 
@@ -53,7 +53,7 @@
 
 ## ツアー
 
-本作を受けてのコンサートツアーは「LIVE'87 LICENSE」と題し、1987年[9月8日](https://ja.wikipedia.org/wiki/9月8日 "wikilink")の静岡市民文化会館を皮切りに18都市全20公演が行われた\[7\]。前ツアーとは異なりバックバンドによる演奏も付加したものとなった。また、本ツアーの模様は後にライブビデオ『LICENSE』として1988年1月25日にリリースされている。本ツアーから参加したギタリスト笛吹利明は、以降もギターのみならず、バンドマスターとして長らく長渕のツアーに深く関与することとなる。
+本作を受けてのコンサートツアーは「LIVE'87 LICENSE」と題し、1987年[9月8日](../Page/9月8日.md "wikilink")の静岡市民文化会館を皮切りに18都市全20公演が行われた\[7\]。前ツアーとは異なりバックバンドによる演奏も付加したものとなった。また、本ツアーの模様は後にライブビデオ『LICENSE』として1988年1月25日にリリースされている。本ツアーから参加したギタリスト笛吹利明は、以降もギターのみならず、バンドマスターとして長らく長渕のツアーに深く関与することとなる。
 
 ## 批評
 
@@ -69,11 +69,11 @@
 
 <!-- end list -->
 
-  - 1987年度に開催された[第29回日本レコード大賞](https://ja.wikipedia.org/wiki/第29回日本レコード大賞 "wikilink")にてアルバム大賞を受賞している。ファンによる人気投票でも1位に選出されることが多い。アレンジを手掛けた瀬尾一三は、その翌年、[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")のアルバム『[グッバイ ガール](https://ja.wikipedia.org/wiki/グッバイガール_\(アルバム\) "wikilink")』にて全曲アレンジ&プロデュースを行っている。以降、[CHAGE and ASKAのアレンジメントからは距離を置き](../Page/CHAGE_and_ASKA.md "wikilink")、両ミュージシャンとの間での活動を中心に据えるようになる。
+  - 1987年度に開催された[第29回日本レコード大賞](https://ja.wikipedia.org/wiki/第29回日本レコード大賞 "wikilink")にてアルバム大賞を受賞している。ファンによる人気投票でも1位に選出されることが多い。アレンジを手掛けた瀬尾一三は、その翌年、[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")のアルバム『[グッバイ ガール](../Page/グッバイガール_\(アルバム\).md "wikilink")』にて全曲アレンジ&プロデュースを行っている。以降、[CHAGE and ASKAのアレンジメントからは距離を置き](../Page/CHAGE_and_ASKA.md "wikilink")、両ミュージシャンとの間での活動を中心に据えるようになる。
 
 ## チャート成績
 
-[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")では最高位1位となり、売り上げはレコード・カセットテープを合わせて約12万枚、CDのみでは約18万枚の合計約30万枚となった\[11\]。また、2006年の再発版では最高位213位となった\[12\]。
+[オリコンチャート](../Page/オリコンチャート.md "wikilink")では最高位1位となり、売り上げはレコード・カセットテープを合わせて約12万枚、CDのみでは約18万枚の合計約30万枚となった\[11\]。また、2006年の再発版では最高位213位となった\[12\]。
 
 ## 収録曲
 
@@ -81,14 +81,14 @@
 
 ### A面
 
-1.  **[泣いてチンピラ](https://ja.wikipedia.org/wiki/泣いてチンピラ "wikilink")** - *NAITE CHINPILA*
+1.  **[泣いてチンピラ](../Page/泣いてチンピラ.md "wikilink")** - *NAITE CHINPILA*
       -
         歌詞には、東京に出てきて最初に生活していたアパートの描写がある。後にシングルカットされた。
 2.  **PLEASE AGAIN**
 3.  **パークハウス 701 in 1985** - *PARK HOUSE 701 in 1985*
-4.  **[ろくなもんじゃねえ](https://ja.wikipedia.org/wiki/ろくなもんじゃねえ "wikilink")** - *ROKUNAMON-JA-NE*
+4.  **[ろくなもんじゃねえ](../Page/ろくなもんじゃねえ.md "wikilink")** - *ROKUNAMON-JA-NE*
       -
-        ドラマ「[親子ジグザグ](https://ja.wikipedia.org/wiki/親子ジグザグ "wikilink")」の主題歌としてリリースされたシングル版と同じ音源ではあるが、チャンネルを左右逆にしている為、ギターとピアノがそれぞれ逆になっている。
+        ドラマ「[親子ジグザグ](../Page/親子ジグザグ.md "wikilink")」の主題歌としてリリースされたシングル版と同じ音源ではあるが、チャンネルを左右逆にしている為、ギターとピアノがそれぞれ逆になっている。
 5.  **He・la-He・la**
       -
         ライブでの定番曲。人間関係の中でのやりきれなさと怒りを自嘲気味に表現している曲。
@@ -104,33 +104,33 @@
 2.  **花菱にて** - *HANABISHI-NI-TE*
 
       -
-        「花菱」とは、江東区門前仲町にある[料亭](https://ja.wikipedia.org/wiki/料亭 "wikilink")の名前である。俳優の[石倉三郎](https://ja.wikipedia.org/wiki/石倉三郎 "wikilink")が経営しているという話があるが、実際は彼の妻の経営。この曲は[TBSのドラマ演出家と花菱にて会食していた際に](../Page/TBSテレビ.md "wikilink")、酔った演出家が[全学連の話を始め](../Page/全日本学生自治会総連合.md "wikilink")、「俺たちは戦った」、「お前らの世代は闘争を知らない」と述べたため長渕は「スポンサーに媚びやがって、本当に作りたいものを作ってねえだろ\! 戦ってねえじゃねえか\!」と反論し大喧嘩となり、腹の虫が収まらない長渕が帰宅後すぐに制作した曲である\[13\]。
+        「花菱」とは、江東区門前仲町にある[料亭](https://ja.wikipedia.org/wiki/料亭 "wikilink")の名前である。俳優の[石倉三郎](../Page/石倉三郎.md "wikilink")が経営しているという話があるが、実際は彼の妻の経営。この曲は[TBSのドラマ演出家と花菱にて会食していた際に](../Page/TBSテレビ.md "wikilink")、酔った演出家が[全学連の話を始め](../Page/全日本学生自治会総連合.md "wikilink")、「俺たちは戦った」、「お前らの世代は闘争を知らない」と述べたため長渕は「スポンサーに媚びやがって、本当に作りたいものを作ってねえだろ\! 戦ってねえじゃねえか\!」と反論し大喧嘩となり、腹の虫が収まらない長渕が帰宅後すぐに制作した曲である\[13\]。
 
 3.  **LICENSE**
 
       -
         長渕の幼年期の想い出で始まり、そして育ててくれた両親を出迎えるために、取得間もない免許を携え、羽田空港（東京国際空港）まで車で向かうという主旨の歌。この歌に於ける父親との回想場面は、後に『鶴になった父ちゃん』（アルバム『[Come on Stand up\!](../Page/Come_on_Stand_up!.md "wikilink")』収録）で再び登場する。
-        なお、歌詞中に登場する、繊維工場は[カクイ](https://ja.wikipedia.org/wiki/カクイ "wikilink")株式会社の工場、[操車場は](https://ja.wikipedia.org/wiki/操車場_\(鉄道\) "wikilink")[JR九州](../Page/九州旅客鉄道.md "wikilink")[鹿児島総合車両所](https://ja.wikipedia.org/wiki/鹿児島車両センター "wikilink")、河川は鹿児島市を流れる「新川」と考えられる。
+        なお、歌詞中に登場する、繊維工場は[カクイ](https://ja.wikipedia.org/wiki/カクイ "wikilink")株式会社の工場、[操車場は](../Page/操車場_\(鉄道\).md "wikilink")[JR九州](../Page/九州旅客鉄道.md "wikilink")[鹿児島総合車両所](https://ja.wikipedia.org/wiki/鹿児島車両センター "wikilink")、河川は鹿児島市を流れる「新川」と考えられる。
 
 4.  **何の矛盾もない** - *NANNO-MUJUN-MO-NAI*
 
       -
-        後に再婚することになった[志穂美悦子](https://ja.wikipedia.org/wiki/志穂美悦子 "wikilink")に捧げた1曲として知られている。[2004年](../Page/2004年.md "wikilink")（平成16年）[8月21日](../Page/8月21日.md "wikilink")の[桜島](../Page/桜島.md "wikilink")オールナイトライブでは、セミファイナルでこの歌が歌われている。また、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")出身の[歌手](../Page/歌手.md "wikilink")である[欧陽菲菲](https://ja.wikipedia.org/wiki/欧陽菲菲 "wikilink")が[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")でカヴァーしている。
+        後に再婚することになった[志穂美悦子](https://ja.wikipedia.org/wiki/志穂美悦子 "wikilink")に捧げた1曲として知られている。[2004年](../Page/2004年.md "wikilink")（平成16年）[8月21日](../Page/8月21日.md "wikilink")の[桜島](../Page/桜島.md "wikilink")オールナイトライブでは、セミファイナルでこの歌が歌われている。また、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")出身の[歌手](../Page/歌手.md "wikilink")である[欧陽菲菲](../Page/欧陽菲菲.md "wikilink")が[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")でカヴァーしている。
 
 ## スタッフ・クレジット
 
 ### 参加ミュージシャン
 
-  - **[長谷部徹](https://ja.wikipedia.org/wiki/長谷部徹_\(ドラマー\) "wikilink")** - [ドラムス](../Page/ドラムセット.md "wikilink")
+  - **[長谷部徹](../Page/長谷部徹_\(ドラマー\).md "wikilink")** - [ドラムス](../Page/ドラムセット.md "wikilink")
   - **今泉正義** - ドラムス
-  - **岡沢茂** - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - **岡沢茂** - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
   - **[美久月千晴](https://ja.wikipedia.org/wiki/美久月千晴 "wikilink")** - ベース
   - **[矢島賢](../Page/矢島賢.md "wikilink")** - [エレクトリックギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")
   - **古川健二** - エレクトリックギター
   - **[笛吹利明](https://ja.wikipedia.org/wiki/笛吹利明 "wikilink")** - [アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")
-  - **長渕剛** - アコースティック・ギター、[ハーモニカ](https://ja.wikipedia.org/wiki/ハーモニカ "wikilink")
+  - **長渕剛** - アコースティック・ギター、[ハーモニカ](../Page/ハーモニカ.md "wikilink")
   - **山里剛** - アコースティック・ギター
-  - **[中西康晴](https://ja.wikipedia.org/wiki/中西康晴 "wikilink")** - [キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")
+  - **[中西康晴](../Page/中西康晴.md "wikilink")** - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")
   - **瀬尾一三** - キーボード
   - **浜田良美** - [バックグラウンドボーカル](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
   - **古川健二** - バックグラウンドボーカル
@@ -140,10 +140,10 @@
 
 ### スタッフ
 
-  - **山里剛（[ヤマハ音楽振興会](https://ja.wikipedia.org/wiki/ヤマハ音楽振興会 "wikilink")）** - ディレクター
+  - **山里剛（[ヤマハ音楽振興会](../Page/ヤマハ音楽振興会.md "wikilink")）** - ディレクター
   - **陣山俊一（ユイ音楽工房）** - ディレクター
-  - **[下河辺晴三](https://ja.wikipedia.org/wiki/下河辺晴三 "wikilink")（東芝EMI）** - ディレクター
-  - **石塚良一** - [レコーディング・エンジニア](https://ja.wikipedia.org/wiki/レコーディング・エンジニア "wikilink")、リミックス・エンジニア
+  - **[下河辺晴三](../Page/下河辺晴三.md "wikilink")（東芝EMI）** - ディレクター
+  - **石塚良一** - [レコーディング・エンジニア](../Page/レコーディング・エンジニア.md "wikilink")、リミックス・エンジニア
   - **佐藤晴彦 (EPICURUS)** - アシスタント・エンジニア
   - **ハヤカワカズノリ (EPICURUS)** - アシスタント・エンジニア
   - **宮内広 (SOUND VALLEY)** - アシスタント・エンジニア
@@ -171,7 +171,7 @@
 <th><p>日付</p></th>
 <th><p><a href="../Page/レコードレーベル.md" title="wikilink">レーベル</a></p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>最高順位</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -180,7 +180,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1987年" title="wikilink">1987年</a><a href="../Page/8月5日.md" title="wikilink">8月5日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン" title="wikilink">東芝EMI</a>／エキスプレス</p></td>
+<td><p><a href="../Page/EMIミュージック・ジャパン.md" title="wikilink">東芝EMI</a>／エキスプレス</p></td>
 <td><p><a href="../Page/レコード.md" title="wikilink">LP</a><br />
 <a href="../Page/カセットテープ.md" title="wikilink">CT</a><br />
 <a href="../Page/コンパクトディスク.md" title="wikilink">CD</a></p></td>
@@ -192,12 +192,12 @@ CA32-1500 (CD)</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/2月8日.md" title="wikilink">2月8日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/2月8日.md" title="wikilink">2月8日</a></p></td>
 <td><p>東芝EMI／エキスプレス</p></td>
 <td><p>CD</p></td>
 <td><p>TOCT-25952</p></td>
 <td><p>213位</p></td>
-<td><p>24ビット・<a href="https://ja.wikipedia.org/wiki/デジタルリマスター" title="wikilink">デジタルリマスター</a>、<a href="https://ja.wikipedia.org/wiki/ディスクジャケット" title="wikilink">紙ジャケット仕様</a></p></td>
+<td><p>24ビット・<a href="../Page/デジタルリマスター.md" title="wikilink">デジタルリマスター</a>、<a href="https://ja.wikipedia.org/wiki/ディスクジャケット" title="wikilink">紙ジャケット仕様</a></p></td>
 </tr>
 </tbody>
 </table>

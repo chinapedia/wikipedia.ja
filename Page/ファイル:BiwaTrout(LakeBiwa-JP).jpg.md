@@ -13,11 +13,11 @@ Bottom- 16.9in(429mm) female
 
 :;This trout is endemic species of [Lake Biwa](https://ja.wikipedia.org/wiki/w:en:Lake_Biwa "wikilink") in Japan.
 
-## [ビワマス](https://ja.wikipedia.org/wiki/ビワマス "wikilink")
+## [ビワマス](../Page/ビワマス.md "wikilink")
 
 学名：**Oncorhynchus masou rhodurus**
 
-ビワマスは、日本の[琵琶湖](../Page/琵琶湖.md "wikilink")にのみ生息する[固有種](https://ja.wikipedia.org/wiki/固有種 "wikilink")。低水温を好むため、琵琶湖北部を中心に生息する。
+ビワマスは、日本の[琵琶湖](../Page/琵琶湖.md "wikilink")にのみ生息する[固有種](../Page/固有種.md "wikilink")。低水温を好むため、琵琶湖北部を中心に生息する。
 
 撮影のため、婚姻色が発現し産卵期に遡上する成魚を[メリケン・ステーツが捕獲し自身が撮影](https://ja.wikipedia.org/wiki/利用者:OAS "wikilink")（上はオス-51.5cm　下はメス-43cm）。乱獲防止のため、河川名は伏せます。
 

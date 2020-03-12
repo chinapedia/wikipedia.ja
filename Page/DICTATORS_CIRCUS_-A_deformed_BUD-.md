@@ -1,7 +1,7 @@
 > この記事は[DICTATORS CIRCUS -A deformed BUD-](https://ja.wikipedia.org/wiki/DICTATORS_CIRCUS_-A_deformed_BUD-)から翻訳されています。
 
 
-『**DICTATORS CIRCUS -A deformed BUD-**』（ディクテイターズ・サーカス ア・デフォームド・バッド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のバンド[PIERROT](https://ja.wikipedia.org/wiki/PIERROT "wikilink")のメジャーデビュー後8枚目に発売されたアルバム。PIERROT3枚目の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[6月8日](../Page/6月8日.md "wikilink")発売。発売元は[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。
+『**DICTATORS CIRCUS -A deformed BUD-**』（ディクテイターズ・サーカス ア・デフォームド・バッド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のバンド[PIERROT](https://ja.wikipedia.org/wiki/PIERROT "wikilink")のメジャーデビュー後8枚目に発売されたアルバム。PIERROT3枚目の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。[2005年](../Page/2005年.md "wikilink")[6月8日](../Page/6月8日.md "wikilink")発売。発売元は[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
 
 ## 概要
 

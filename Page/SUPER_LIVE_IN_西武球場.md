@@ -1,7 +1,7 @@
 > この記事は[SUPER LIVE IN ](https://ja.wikipedia.org/wiki/SUPER_LIVE_IN_)から翻訳されています。
 
 
-『**SUPER LIVE IN 西武球場**』（スーパー・ライブ・イン・せいぶきゅうじょう）は、日本の[ミュージシャンである](https://ja.wikipedia.org/wiki/音楽家 "wikilink")[長渕剛](../Page/長渕剛.md "wikilink")の[ライブ・アルバム](https://ja.wikipedia.org/wiki/ライブ・アルバム "wikilink")である。
+『**SUPER LIVE IN 西武球場**』（スーパー・ライブ・イン・せいぶきゅうじょう）は、日本の[ミュージシャンである](https://ja.wikipedia.org/wiki/音楽家 "wikilink")[長渕剛](../Page/長渕剛.md "wikilink")の[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")である。
 
 『[長渕剛LIVE](../Page/長渕剛LIVE.md "wikilink")』（[1981年](../Page/1981年.md "wikilink")）以来となる2枚目のライブ・アルバム。
 
@@ -11,7 +11,7 @@
 
 ## 構成
 
-当日演奏された全21曲の内、16曲が収録されている。収録されなかった曲は「冷たい外国人」、「俺らの旅はハイウェイ」、「銀色の涙とタバコの煙」、「僕のギターにはいつもHeavy Gauge」、「碑」、「[恋人時代](https://ja.wikipedia.org/wiki/恋人時代 "wikilink")」の6曲となっている。
+当日演奏された全21曲の内、16曲が収録されている。収録されなかった曲は「冷たい外国人」、「俺らの旅はハイウェイ」、「銀色の涙とタバコの煙」、「僕のギターにはいつもHeavy Gauge」、「碑」、「[恋人時代](../Page/恋人時代.md "wikilink")」の6曲となっている。
 
 また、SIDE 2の最後に収録されている「ローディー (To 1981～1982 TSUYOSHI N. TOUR STAFF)」は、当日の音源ではなく2月21日の[日本武道館](../Page/日本武道館.md "wikilink")公演からであり、当日は同曲は演奏されていない。
 
@@ -21,9 +21,9 @@
 
 ## リリース
 
-[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[8月25日](../Page/8月25日.md "wikilink")に[東芝EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")/エキスプレスより、[レコード](../Page/レコード.md "wikilink")、[カセットテープの](../Page/コンパクトカセット.md "wikilink")2形態でリリースされた。
+[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[8月25日](../Page/8月25日.md "wikilink")に[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")/エキスプレスより、[レコード](../Page/レコード.md "wikilink")、[カセットテープの](../Page/コンパクトカセット.md "wikilink")2形態でリリースされた。
 
-その後、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[9月20日](../Page/9月20日.md "wikilink")に初[CD化され](../Page/コンパクトディスク.md "wikilink")、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月8日](../Page/3月8日.md "wikilink")に24ビット・[デジタルリマスター](https://ja.wikipedia.org/wiki/デジタルリマスター "wikilink")、[紙ジャケット仕様で再リリースされた](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")。
+その後、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[9月20日](../Page/9月20日.md "wikilink")に初[CD化され](../Page/コンパクトディスク.md "wikilink")、[2006年](../Page/2006年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")に24ビット・[デジタルリマスター](../Page/デジタルリマスター.md "wikilink")、[紙ジャケット仕様で再リリースされた](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")。
 
 また、同名のライブビデオが1983年[9月21日](../Page/9月21日.md "wikilink")にリリースされた。こちらは別の形態での再リリースはされていない。
 
@@ -38,8 +38,8 @@
 ### SIDE 1
 
 1.  **長いのぼり坂**
-2.  **[巡恋歌](https://ja.wikipedia.org/wiki/巡恋歌 "wikilink")**
-3.  **[夏の恋人](https://ja.wikipedia.org/wiki/夏の恋人_\(長渕剛の曲\) "wikilink")**
+2.  **[巡恋歌](../Page/巡恋歌.md "wikilink")**
+3.  **[夏の恋人](../Page/夏の恋人_\(長渕剛の曲\).md "wikilink")**
 4.  **素顔**
 5.  **君は雨の日に**
 
@@ -56,13 +56,13 @@
 3.  **顔**
 
       -
-        後にこのライブ・バージョンがベスト・アルバム『[いつかの少年](https://ja.wikipedia.org/wiki/いつかの少年 "wikilink")』（[1994年](../Page/1994年.md "wikilink")）に収録されている。
+        後にこのライブ・バージョンがベスト・アルバム『[いつかの少年](../Page/いつかの少年.md "wikilink")』（[1994年](../Page/1994年.md "wikilink")）に収録されている。
 
 4.  **ローディー** (To 1981～1982 TSUYOSHI N. TOUR STAFF)
 
 ### SIDE 3
 
-1.  **[俺らの家まで](https://ja.wikipedia.org/wiki/俺らの家まで "wikilink")**
+1.  **[俺らの家まで](../Page/俺らの家まで.md "wikilink")**
 2.  **いかさまだらけのルーレット**
 3.  **どしゃぶり Rainy Day**
 4.  **賞金めあての宝さがし**
@@ -77,7 +77,7 @@
 
 2.  **時代は僕らに雨を降らしてる**
 
-3.  **[乾杯](https://ja.wikipedia.org/wiki/乾杯_\(長渕剛の曲\) "wikilink")**
+3.  **[乾杯](../Page/乾杯_\(長渕剛の曲\).md "wikilink")**
 
 ## 参加ミュージシャン
 
@@ -85,7 +85,7 @@
   - **面谷誠二** - ギター
   - **浜田良美** - ギター
   - **川嶋一久** - [エレクトリックベース](../Page/エレクトリックベース.md "wikilink")
-  - **香川喜章** - [キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")
+  - **香川喜章** - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")
   - **村上律** - [スチールギター](https://ja.wikipedia.org/wiki/スチールギター "wikilink")
   - **田中清司** - [ドラムス](../Page/ドラムセット.md "wikilink")
 
@@ -98,7 +98,7 @@
 <th><p>日付</p></th>
 <th><p><a href="../Page/レコードレーベル.md" title="wikilink">レーベル</a></p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>最高順位</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -107,7 +107,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1983年" title="wikilink">1983年</a><a href="../Page/8月25日.md" title="wikilink">8月25日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン" title="wikilink">東芝EMI</a>／エキスプレス</p></td>
+<td><p><a href="../Page/EMIミュージック・ジャパン.md" title="wikilink">東芝EMI</a>／エキスプレス</p></td>
 <td><p><a href="../Page/レコード.md" title="wikilink">LP</a><br />
 <a href="../Page/カセットテープ.md" title="wikilink">CT</a></p></td>
 <td><p>ETP-60478〜9<br />
@@ -126,12 +126,12 @@ ZH40-1349〜50</p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/3月8日.md" title="wikilink">3月8日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/3月8日.md" title="wikilink">3月8日</a></p></td>
 <td><p>東芝EMI／エキスプレス</p></td>
 <td><p>CD</p></td>
 <td><p>TOCT-25960〜1</p></td>
 <td><p>218位</p></td>
-<td><p>24ビット・<a href="https://ja.wikipedia.org/wiki/デジタルリマスター" title="wikilink">デジタルリマスター</a>、<a href="https://ja.wikipedia.org/wiki/ディスクジャケット" title="wikilink">紙ジャケット仕様</a></p></td>
+<td><p>24ビット・<a href="../Page/デジタルリマスター.md" title="wikilink">デジタルリマスター</a>、<a href="https://ja.wikipedia.org/wiki/ディスクジャケット" title="wikilink">紙ジャケット仕様</a></p></td>
 </tr>
 </tbody>
 </table>

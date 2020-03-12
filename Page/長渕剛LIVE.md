@@ -1,7 +1,7 @@
 > この記事は[LIVE](https://ja.wikipedia.org/wiki/LIVE)から翻訳されています。
 
 
-『**長渕剛LIVE**』（ながぶちつよし・ライブ）は、日本の[ミュージシャンである](https://ja.wikipedia.org/wiki/音楽家 "wikilink")[長渕剛](../Page/長渕剛.md "wikilink")の初の[ライブ・アルバム](https://ja.wikipedia.org/wiki/ライブ・アルバム "wikilink")である。
+『**長渕剛LIVE**』（ながぶちつよし・ライブ）は、日本の[ミュージシャンである](https://ja.wikipedia.org/wiki/音楽家 "wikilink")[長渕剛](../Page/長渕剛.md "wikilink")の初の[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")である。
 
 1980年から1981年にかけてのライブから抜粋して収録され、大半が長渕剛本人によるギター弾き語りで進められている。
 
@@ -9,7 +9,7 @@
 
 前作『[乾杯](../Page/乾杯_\(アルバム\).md "wikilink")』（[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")）リリース後、長渕は単独ライブツアー「長渕剛コンサートツアー'80」を9月8日から翌1981年1月9日まで開催した。
 
-シングル「[順子/涙のセレナーデ](https://ja.wikipedia.org/wiki/順子/涙のセレナーデ "wikilink")」（1980年）がミリオンセラーを獲得し、10月5日にはそれに次ぐシングル「[ヒロイン](https://ja.wikipedia.org/wiki/ヒロイン_\(長渕剛の曲\) "wikilink")」（1980年）をアルバム『乾杯』からのシングルカットとしてリリースするも、同曲はあまり売り上げが伸びずヒットには至らなかった。
+シングル「[順子/涙のセレナーデ](https://ja.wikipedia.org/wiki/順子/涙のセレナーデ "wikilink")」（1980年）がミリオンセラーを獲得し、10月5日にはそれに次ぐシングル「[ヒロイン](../Page/ヒロイン_\(長渕剛の曲\).md "wikilink")」（1980年）をアルバム『乾杯』からのシングルカットとしてリリースするも、同曲はあまり売り上げが伸びずヒットには至らなかった。
 
 それ以外の活動として、10月より[TBSラジオ](../Page/TBSラジオ.md "wikilink")にて『ナウ・ジェネレーション/長渕剛のアピール26』、[ニッポン放送](../Page/ニッポン放送.md "wikilink")にて『長渕剛のひたすら60分』のパーソナリティーを務め始める。
 
@@ -21,9 +21,9 @@
 
 ## リリース
 
-[1981年](../Page/1981年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")に[東芝EMIのエキスプレスレーベルより](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")、[LP](../Page/レコード.md "wikilink")、[カセットテープの](../Page/コンパクトカセット.md "wikilink")2形態でリリースされた。LP盤には4Pステージフォトが付属、また「乾杯」「さようならの唄」の2曲を収録したアンコールシングルが付属していた。カセット盤にはそれぞれA面とB面のラストに1曲ずつ分かれて収録されている。
+[1981年](../Page/1981年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")に[東芝EMIのエキスプレスレーベルより](../Page/EMIミュージック・ジャパン.md "wikilink")、[LP](../Page/レコード.md "wikilink")、[カセットテープの](../Page/コンパクトカセット.md "wikilink")2形態でリリースされた。LP盤には4Pステージフォトが付属、また「乾杯」「さようならの唄」の2曲を収録したアンコールシングルが付属していた。カセット盤にはそれぞれA面とB面のラストに1曲ずつ分かれて収録されている。
 
-[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[11月1日](../Page/11月1日.md "wikilink")には[CDにて初めてリリースされたが](../Page/コンパクトディスク.md "wikilink")、4Pステージフォトは省略され、「乾杯」「さようならの唄」はボーナスとして13、14曲目に収録されている。。その後[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月8日](../Page/3月8日.md "wikilink")に24ビット・[デジタルリマスター](https://ja.wikipedia.org/wiki/デジタルリマスター "wikilink")、[紙ジャケット仕様で再リリース](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")、4Pステージフォトは縮刷された物が付属されている。
+[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[11月1日](../Page/11月1日.md "wikilink")には[CDにて初めてリリースされたが](../Page/コンパクトディスク.md "wikilink")、4Pステージフォトは省略され、「乾杯」「さようならの唄」はボーナスとして13、14曲目に収録されている。。その後[2006年](../Page/2006年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")に24ビット・[デジタルリマスター](../Page/デジタルリマスター.md "wikilink")、[紙ジャケット仕様で再リリース](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")、4Pステージフォトは縮刷された物が付属されている。
 
 ## アートワーク
 
@@ -43,7 +43,7 @@
 
 ## チャート成績
 
-[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")では最高位4位となり、売り上げは約11万枚となった\[7\]。また、2006年の再発版では最高位227位となった\[8\]。
+[オリコンチャート](../Page/オリコンチャート.md "wikilink")では最高位4位となり、売り上げは約11万枚となった\[7\]。また、2006年の再発版では最高位227位となった\[8\]。
 
 ## 収録曲
 
@@ -51,22 +51,22 @@
 
 ### A面
 
-1.  **[巡恋歌](https://ja.wikipedia.org/wiki/巡恋歌 "wikilink")**
+1.  **[巡恋歌](../Page/巡恋歌.md "wikilink")**
       -
-        詳細は「[巡恋歌](https://ja.wikipedia.org/wiki/巡恋歌 "wikilink")」の項を参照。
+        詳細は「[巡恋歌](../Page/巡恋歌.md "wikilink")」の項を参照。
 2.  **[順子](https://ja.wikipedia.org/wiki/順子/涙のセレナーデ "wikilink")**
       -
         詳細は「[順子](https://ja.wikipedia.org/wiki/順子/涙のセレナーデ "wikilink")」の項を参照。
 3.  **ひざまくら**
       -
-        千葉でのライブで披露された**特別バージョン**。観客の名前を取って即興で歌う企画があり、「ひざまくら」の歌詞をパロディで変えて歌っている。因みにこの時の観客の名前は「まさお」。後に、このライブ・バージョンが[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[いつかの少年](https://ja.wikipedia.org/wiki/いつかの少年 "wikilink")』（[1994年](../Page/1994年.md "wikilink")）に収録されている。
+        千葉でのライブで披露された**特別バージョン**。観客の名前を取って即興で歌う企画があり、「ひざまくら」の歌詞をパロディで変えて歌っている。因みにこの時の観客の名前は「まさお」。後に、このライブ・バージョンが[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[いつかの少年](../Page/いつかの少年.md "wikilink")』（[1994年](../Page/1994年.md "wikilink")）に収録されている。
 4.  **夏祭り**
       -
         主に初期のライブで演奏されていた曲だが、1990年代中盤以降のライブでも割とよく演奏されるようになった。長渕曰く、スリーフィンガーピッキング奏法の代表的なもののひとつであるということ。
         なお、スリーフィンガー奏法を、[ポプコン出身の先輩アーティストでもある](https://ja.wikipedia.org/wiki/ヤマハポピュラーソングコンテスト "wikilink")、[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")に伝授したという話もある。
-5.  **[祈り](https://ja.wikipedia.org/wiki/祈り_\(長渕剛の曲\) "wikilink")**
+5.  **[祈り](../Page/祈り_\(長渕剛の曲\).md "wikilink")**
       -
-        詳細は「[祈り](https://ja.wikipedia.org/wiki/祈り_\(長渕剛の曲\) "wikilink")」の項を参照。
+        詳細は「[祈り](../Page/祈り_\(長渕剛の曲\).md "wikilink")」の項を参照。
 6.  **暗闇の中の言葉**
 
 ### B面
@@ -78,27 +78,27 @@
     **俺らの旅はハイウェイ**
 
       -
-        もともとライブでのみ歌われる楽曲であったが、後にベスト・アルバム『[BEST〜風〜](https://ja.wikipedia.org/wiki/BEST〜風〜 "wikilink")』（[2002年](../Page/2002年.md "wikilink")）に収録されている。
+        もともとライブでのみ歌われる楽曲であったが、後にベスト・アルバム『[BEST〜風〜](../Page/BEST〜風〜.md "wikilink")』（[2002年](../Page/2002年.md "wikilink")）に収録されている。
 
-2.  **[二人歩記](https://ja.wikipedia.org/wiki/二人歩記 "wikilink")**
+2.  **[二人歩記](../Page/二人歩記.md "wikilink")**
 
       -
-        詳細は「[二人歩記](https://ja.wikipedia.org/wiki/二人歩記 "wikilink")」の項を参照。
+        詳細は「[二人歩記](../Page/二人歩記.md "wikilink")」の項を参照。
 
 3.  **しゃぼん玉 <small>挿入曲「しゃぼん玉」</small>**
 
       -
-        長渕自身の主演テレビドラマ『[しゃぼん玉](https://ja.wikipedia.org/wiki/しゃぼん玉_\(テレビドラマ\) "wikilink")』（[1991年](../Page/1991年.md "wikilink")、[フジテレビ系列](../Page/フジテレビ系列.md "wikilink")）の主題歌としてリリースされた「[しゃぼん玉](../Page/しゃぼん玉_\(長渕剛の曲\).md "wikilink")」とは全く別の曲となっている。
+        長渕自身の主演テレビドラマ『[しゃぼん玉](../Page/しゃぼん玉_\(テレビドラマ\).md "wikilink")』（[1991年](../Page/1991年.md "wikilink")、[フジテレビ系列](../Page/フジテレビ系列.md "wikilink")）の主題歌としてリリースされた「[しゃぼん玉](../Page/しゃぼん玉_\(長渕剛の曲\).md "wikilink")」とは全く別の曲となっている。
 
 4.  **[帰って来いよ](https://ja.wikipedia.org/wiki/帰ってこいよ "wikilink")**
 
       -
-        [松村和子](https://ja.wikipedia.org/wiki/松村和子 "wikilink")の同名曲（1980年）のカバーだが、歌っている途中から「巡恋歌」の歌詞にすり変わっている。[石川鷹彦](https://ja.wikipedia.org/wiki/石川鷹彦 "wikilink")の[バンジョー](https://ja.wikipedia.org/wiki/バンジョー "wikilink")が三味線のような雰囲気を醸し出している。LP盤では曲タイトルが表記されていなかった。
+        [松村和子](https://ja.wikipedia.org/wiki/松村和子 "wikilink")の同名曲（1980年）のカバーだが、歌っている途中から「巡恋歌」の歌詞にすり変わっている。[石川鷹彦](../Page/石川鷹彦.md "wikilink")の[バンジョー](../Page/バンジョー.md "wikilink")が三味線のような雰囲気を醸し出している。LP盤では曲タイトルが表記されていなかった。
 
-5.  **[俺らの家まで](https://ja.wikipedia.org/wiki/俺らの家まで "wikilink")**
+5.  **[俺らの家まで](../Page/俺らの家まで.md "wikilink")**
 
       -
-        詳細は「[俺らの家まで](https://ja.wikipedia.org/wiki/俺らの家まで "wikilink")」の項を参照。
+        詳細は「[俺らの家まで](../Page/俺らの家まで.md "wikilink")」の項を参照。
 
 6.  **逆流**
 
@@ -108,29 +108,29 @@
 
     <li value="13">
 
-    **[乾杯](https://ja.wikipedia.org/wiki/乾杯_\(長渕剛の曲\) "wikilink")**
+    **[乾杯](../Page/乾杯_\(長渕剛の曲\).md "wikilink")**
 
       -
-        詳細は「[乾杯](https://ja.wikipedia.org/wiki/乾杯_\(長渕剛の曲\) "wikilink")」の項を参照。
+        詳細は「[乾杯](../Page/乾杯_\(長渕剛の曲\).md "wikilink")」の項を参照。
 
 2.  **さようならの唄**
 
       -
-        当時のライブで最後に演奏されていた曲。2000年代後半になって、再びライブの終わりに歌われることが多くなった。また、俳優の[美木良介](https://ja.wikipedia.org/wiki/美木良介 "wikilink")がこの歌をカバーしている。
+        当時のライブで最後に演奏されていた曲。2000年代後半になって、再びライブの終わりに歌われることが多くなった。また、俳優の[美木良介](../Page/美木良介.md "wikilink")がこの歌をカバーしている。
 
 ## スタッフ・クレジット
 
 ### 参加ミュージシャン
 
-  - 長渕剛 - [アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")、[マウスハープ](https://ja.wikipedia.org/wiki/ハーモニカ "wikilink")
-  - [石川鷹彦](https://ja.wikipedia.org/wiki/石川鷹彦 "wikilink") - アコースティックギター、ナッシュビル・チューニング・ギター、[バンジョー](https://ja.wikipedia.org/wiki/バンジョー "wikilink")
-  - 谷口陽一 - [ラップスチールギター](https://ja.wikipedia.org/wiki/スチールギター "wikilink")、[フィドル](https://ja.wikipedia.org/wiki/フィドル "wikilink")
+  - 長渕剛 - [アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")、[マウスハープ](../Page/ハーモニカ.md "wikilink")
+  - [石川鷹彦](../Page/石川鷹彦.md "wikilink") - アコースティックギター、ナッシュビル・チューニング・ギター、[バンジョー](../Page/バンジョー.md "wikilink")
+  - 谷口陽一 - [ラップスチールギター](https://ja.wikipedia.org/wiki/スチールギター "wikilink")、[フィドル](../Page/フィドル.md "wikilink")
 
 ### スタッフ
 
   - 長渕剛 - プロデューサー
   - 陣山俊一（ユイ音楽工房） - ディレクター
-  - 山里剛（[ヤマハ音楽振興会](https://ja.wikipedia.org/wiki/ヤマハ音楽振興会 "wikilink")） - ディレクター
+  - 山里剛（[ヤマハ音楽振興会](../Page/ヤマハ音楽振興会.md "wikilink")） - ディレクター
   - 引田和幸（東芝EMI） - ディレクター
   - 水沢雄一（ヤマハ音楽振興会） - レコーディング・エンジニア
   - 小見俊一（ヤマハ音楽振興会） - レコーディング・エンジニア
@@ -152,7 +152,7 @@
 <th><p>日付</p></th>
 <th><p><a href="../Page/レコードレーベル.md" title="wikilink">レーベル</a></p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>最高順位</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -161,7 +161,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p><a href="../Page/1981年.md" title="wikilink">1981年</a><a href="../Page/3月5日.md" title="wikilink">3月5日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン" title="wikilink">東芝EMI</a>／エキスプレス</p></td>
+<td><p><a href="../Page/EMIミュージック・ジャパン.md" title="wikilink">東芝EMI</a>／エキスプレス</p></td>
 <td><p><a href="../Page/レコード.md" title="wikilink">LP</a><br />
 <a href="../Page/カセットテープ.md" title="wikilink">CT</a></p></td>
 <td><p>ETP-90041<br />
@@ -180,12 +180,12 @@ ZT28-743</p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/3月8日.md" title="wikilink">3月8日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/3月8日.md" title="wikilink">3月8日</a></p></td>
 <td><p>東芝EMI／エキスプレス</p></td>
 <td><p>CD</p></td>
 <td><p>TOCT-25959</p></td>
 <td><p>227位</p></td>
-<td><p>24ビット・<a href="https://ja.wikipedia.org/wiki/デジタルリマスター" title="wikilink">デジタルリマスター</a>、<a href="https://ja.wikipedia.org/wiki/ディスクジャケット" title="wikilink">紙ジャケット仕様</a></p></td>
+<td><p>24ビット・<a href="../Page/デジタルリマスター.md" title="wikilink">デジタルリマスター</a>、<a href="https://ja.wikipedia.org/wiki/ディスクジャケット" title="wikilink">紙ジャケット仕様</a></p></td>
 </tr>
 </tbody>
 </table>

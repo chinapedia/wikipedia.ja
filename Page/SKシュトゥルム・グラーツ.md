@@ -3,7 +3,7 @@
 
 [Mannschaft_des_SK_Sturm_Graz_beim_Cupfinale_2010.jpg](https://ja.wikipedia.org/wiki/File:Mannschaft_des_SK_Sturm_Graz_beim_Cupfinale_2010.jpg "fig:Mannschaft_des_SK_Sturm_Graz_beim_Cupfinale_2010.jpg")
 
-**SKシュトゥルム・グラーツ** () は、[オーストリア](../Page/オーストリア.md "wikilink")の[グラーツ](https://ja.wikipedia.org/wiki/グラーツ "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
+**SKシュトゥルム・グラーツ** () は、[オーストリア](../Page/オーストリア.md "wikilink")の[グラーツ](../Page/グラーツ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
 
 ## 概要
 
@@ -11,15 +11,15 @@
 
 1990年代前半、クラブは深刻な財政難に見舞われた。多くの実力選手放出を余儀なくされ、若手中心のチームで再出発を図ることになる。
 
-1994年に[イビチャ・オシム](../Page/イビチャ・オシム.md "wikilink")が監督に就任。1995年に[オーストリア・ブンデスリーガで準優勝](https://ja.wikipedia.org/wiki/サッカー・ブンデスリーガ_\(オーストリア\) "wikilink")。
+1994年に[イビチャ・オシム](../Page/イビチャ・オシム.md "wikilink")が監督に就任。1995年に[オーストリア・ブンデスリーガで準優勝](../Page/サッカー・ブンデスリーガ_\(オーストリア\).md "wikilink")。
 
 [1996年](../Page/1996年.md "wikilink")に[オーストリア・カップ](https://ja.wikipedia.org/wiki/オーストリア・カップ "wikilink")で初めて優勝した。1997年にカップ戦で連覇、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")にリーグ戦で優勝した。
 
 [UEFAチャンピオンズリーグ 1998-99に出場](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_1998-99 "wikilink")。グループリーグは[レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")、[インテルナツィオナーレ・ミラノ](https://ja.wikipedia.org/wiki/インテルナツィオナーレ・ミラノ "wikilink")、[FCスパルタク・モスクワ](../Page/FCスパルタク・モスクワ.md "wikilink")と同組となり1分5敗の成績でグループリーグ敗退となった。
 
-1999年はリーグ戦で2連覇、カップ戦で2年ぶりの優勝を果たした。UEFAチャンピオンズリーグは、[マンチェスター・ユナイテッドFC](../Page/マンチェスター・ユナイテッドFC.md "wikilink")、[マルセイユ](https://ja.wikipedia.org/wiki/マルセイユ "wikilink")、[クロアチア・ザグレブと同組のグループリーグDに入ったが](https://ja.wikipedia.org/wiki/ディナモ・ザグレブ "wikilink")4チーム中3位でグループリーグ敗退。
+1999年はリーグ戦で2連覇、カップ戦で2年ぶりの優勝を果たした。UEFAチャンピオンズリーグは、[マンチェスター・ユナイテッドFC](../Page/マンチェスター・ユナイテッドFC.md "wikilink")、[マルセイユ](../Page/マルセイユ.md "wikilink")、[クロアチア・ザグレブと同組のグループリーグDに入ったが](https://ja.wikipedia.org/wiki/ディナモ・ザグレブ "wikilink")4チーム中3位でグループリーグ敗退。
 
-[UEFAチャンピオンズリーグ 2000-01は](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2000-01 "wikilink")、[グラスゴー・レンジャーズ](https://ja.wikipedia.org/wiki/グラスゴー・レンジャーズ "wikilink")、[ガラタサライ](https://ja.wikipedia.org/wiki/ガラタサライSK_\(サッカー\) "wikilink")、[ASモナコ](https://ja.wikipedia.org/wiki/ASモナコ "wikilink")と同組の1次グループDに入り、初戦のグラスゴー戦、第3戦のモナコ戦において (共にアウェイ) 0対5で敗北するが、ホームで勝利を収めて3勝1分2敗の成績で1次グループリーグを首位で通過。2次グループリーグは[バレンシアCF](https://ja.wikipedia.org/wiki/バレンシアCF "wikilink")、マンU、[パナシナイコスと同組のグループBに入ったが](https://ja.wikipedia.org/wiki/パナシナイコスFC "wikilink")2勝4敗の3位となり敗退した。
+[UEFAチャンピオンズリーグ 2000-01は](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2000-01 "wikilink")、[グラスゴー・レンジャーズ](https://ja.wikipedia.org/wiki/グラスゴー・レンジャーズ "wikilink")、[ガラタサライ](https://ja.wikipedia.org/wiki/ガラタサライSK_\(サッカー\) "wikilink")、[ASモナコ](../Page/ASモナコ.md "wikilink")と同組の1次グループDに入り、初戦のグラスゴー戦、第3戦のモナコ戦において (共にアウェイ) 0対5で敗北するが、ホームで勝利を収めて3勝1分2敗の成績で1次グループリーグを首位で通過。2次グループリーグは[バレンシアCF](../Page/バレンシアCF.md "wikilink")、マンU、[パナシナイコスと同組のグループBに入ったが](https://ja.wikipedia.org/wiki/パナシナイコスFC "wikilink")2勝4敗の3位となり敗退した。
 
 [2002年](../Page/2002年.md "wikilink")にオシムが監督を退任した。会長のクラブ経営方針をめぐる批判、健康上の問題などが理由とされる。
 
@@ -31,7 +31,7 @@
 
 ### 国内タイトル
 
-  - **[オーストリア・ブンデスリーガ](https://ja.wikipedia.org/wiki/サッカー・ブンデスリーガ_\(オーストリア\) "wikilink")：3回**
+  - **[オーストリア・ブンデスリーガ](../Page/サッカー・ブンデスリーガ_\(オーストリア\).md "wikilink")：3回**
       - 1997-98, 1998-99, 2010-11
   - **[オーストリア・カップ](https://ja.wikipedia.org/wiki/オーストリア・カップ "wikilink")：5回**
       - 1995-96, 1998-97, 1998-99, 2009-10, 2017-18
@@ -45,36 +45,36 @@
 
 ## 過去の成績
 
-| シーズン    | ディビジョン                                                                             |
-| ------- | ---------------------------------------------------------------------------------- |
-| リーグ     | 順位                                                                                 |
-| 1993-94 | [オーストリア・ブンデスリーガ](https://ja.wikipedia.org/wiki/サッカー・ブンデスリーガ_\(オーストリア\) "wikilink") |
-| 1994-95 | オーストリア・ブンデスリーガ                                                                     |
-| 1995-96 | オーストリア・ブンデスリーガ                                                                     |
-| 1996-97 | オーストリア・ブンデスリーガ                                                                     |
-| 1997-98 | オーストリア・ブンデスリーガ                                                                     |
-| 1998-99 | オーストリア・ブンデスリーガ                                                                     |
-| 1999-00 | オーストリア・ブンデスリーガ                                                                     |
-| 2000-01 | オーストリア・ブンデスリーガ                                                                     |
-| 2001-02 | オーストリア・ブンデスリーガ                                                                     |
-| 2002-03 | オーストリア・ブンデスリーガ                                                                     |
-| 2003-04 | オーストリア・ブンデスリーガ                                                                     |
-| 2004-05 | オーストリア・ブンデスリーガ                                                                     |
-| 2005-06 | オーストリア・ブンデスリーガ                                                                     |
-| 2006-07 | オーストリア・ブンデスリーガ                                                                     |
-| 2007-08 | オーストリア・ブンデスリーガ                                                                     |
-| 2008-09 | オーストリア・ブンデスリーガ                                                                     |
-| 2009-10 | オーストリア・ブンデスリーガ                                                                     |
-| 2010-11 | オーストリア・ブンデスリーガ                                                                     |
-| 2011-12 | オーストリア・ブンデスリーガ                                                                     |
-| 2012-13 | オーストリア・ブンデスリーガ                                                                     |
-| 2013-14 | オーストリア・ブンデスリーガ                                                                     |
-| 2014-15 | オーストリア・ブンデスリーガ                                                                     |
-| 2015-16 | オーストリア・ブンデスリーガ                                                                     |
-| 2016-17 | オーストリア・ブンデスリーガ                                                                     |
-| 2017-18 | オーストリア・ブンデスリーガ                                                                     |
-| 2018-19 | オーストリア・ブンデスリーガ                                                                     |
-| 2019-20 | オーストリア・ブンデスリーガ                                                                     |
+| シーズン    | ディビジョン                                                          |
+| ------- | --------------------------------------------------------------- |
+| リーグ     | 順位                                                              |
+| 1993-94 | [オーストリア・ブンデスリーガ](../Page/サッカー・ブンデスリーガ_\(オーストリア\).md "wikilink") |
+| 1994-95 | オーストリア・ブンデスリーガ                                                  |
+| 1995-96 | オーストリア・ブンデスリーガ                                                  |
+| 1996-97 | オーストリア・ブンデスリーガ                                                  |
+| 1997-98 | オーストリア・ブンデスリーガ                                                  |
+| 1998-99 | オーストリア・ブンデスリーガ                                                  |
+| 1999-00 | オーストリア・ブンデスリーガ                                                  |
+| 2000-01 | オーストリア・ブンデスリーガ                                                  |
+| 2001-02 | オーストリア・ブンデスリーガ                                                  |
+| 2002-03 | オーストリア・ブンデスリーガ                                                  |
+| 2003-04 | オーストリア・ブンデスリーガ                                                  |
+| 2004-05 | オーストリア・ブンデスリーガ                                                  |
+| 2005-06 | オーストリア・ブンデスリーガ                                                  |
+| 2006-07 | オーストリア・ブンデスリーガ                                                  |
+| 2007-08 | オーストリア・ブンデスリーガ                                                  |
+| 2008-09 | オーストリア・ブンデスリーガ                                                  |
+| 2009-10 | オーストリア・ブンデスリーガ                                                  |
+| 2010-11 | オーストリア・ブンデスリーガ                                                  |
+| 2011-12 | オーストリア・ブンデスリーガ                                                  |
+| 2012-13 | オーストリア・ブンデスリーガ                                                  |
+| 2013-14 | オーストリア・ブンデスリーガ                                                  |
+| 2014-15 | オーストリア・ブンデスリーガ                                                  |
+| 2015-16 | オーストリア・ブンデスリーガ                                                  |
+| 2016-17 | オーストリア・ブンデスリーガ                                                  |
+| 2017-18 | オーストリア・ブンデスリーガ                                                  |
+| 2018-19 | オーストリア・ブンデスリーガ                                                  |
+| 2019-20 | オーストリア・ブンデスリーガ                                                  |
 
 ## 欧州の成績
 
@@ -119,7 +119,7 @@
 <td><p><a href="../Page/ロイヤル・アントワープFC.md" title="wikilink">ロイヤル・アントワープ</a></p></td>
 <td><p>2-1</p></td>
 <td><p>0-1</p></td>
-<td><p>'''2-2 (<a href="https://ja.wikipedia.org/wiki/アウェーゴール" title="wikilink">a</a>)</p></td>
+<td><p>'''2-2 (<a href="../Page/アウェーゴール.md" title="wikilink">a</a>)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
 <tr class="even">
@@ -144,7 +144,7 @@
 </tr>
 <tr class="even">
 <td><p>準々決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アイントラハト・フランクフルト" title="wikilink">アイントラハト・フランクフルト</a></p></td>
+<td><p><a href="../Page/アイントラハト・フランクフルト.md" title="wikilink">アイントラハト・フランクフルト</a></p></td>
 <td><p>0–2</p></td>
 <td><p>0–1</p></td>
 <td><p>'''0-3</p></td>
@@ -156,7 +156,7 @@
 <td><p>1978-79</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1978-79" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ボルシア・メンヒェングラートバッハ" title="wikilink">ボルシアMG</a></p></td>
+<td><p><a href="../Page/ボルシア・メンヒェングラートバッハ.md" title="wikilink">ボルシアMG</a></p></td>
 <td><p>1–2</p></td>
 <td><p>1–5</p></td>
 <td><p>'''2-7</p></td>
@@ -166,7 +166,7 @@
 <td><p>1981-82</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1981-82" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PFC_CSKAモスクワ" title="wikilink">CSKAモスクワ</a></p></td>
+<td><p><a href="../Page/PFC_CSKAモスクワ.md" title="wikilink">CSKAモスクワ</a></p></td>
 <td><p>1–0</p></td>
 <td><p>1–2</p></td>
 <td><p>'''2-2 (a)</p></td>
@@ -214,7 +214,7 @@
 </tr>
 <tr class="odd">
 <td><p>準々決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ノッティンガム・フォレストFC" title="wikilink">ノッティンガム・フォレスト</a></p></td>
+<td><p><a href="../Page/ノッティンガム・フォレストFC.md" title="wikilink">ノッティンガム・フォレスト</a></p></td>
 <td><p>1–1<br />
 (<a href="../Page/延長戦.md" title="wikilink">a.e.t.</a>)</p></td>
 <td><p>0–1</p></td>
@@ -237,7 +237,7 @@
 <td><p>1991-92</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1991-92" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCユトレヒト" title="wikilink">ユトレヒト</a></p></td>
+<td><p><a href="../Page/FCユトレヒト.md" title="wikilink">ユトレヒト</a></p></td>
 <td><p>0–1</p></td>
 <td><p>1–3</p></td>
 <td><p>'''1-4</p></td>
@@ -247,7 +247,7 @@
 <td><p>1995-96</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1995-96" title="wikilink">UEFAカップ</a></p></td>
 <td><p>予選ラウンド</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SKスラヴィア・プラハ" title="wikilink">スラヴィア・プラハ</a></p></td>
+<td><p><a href="../Page/SKスラヴィア・プラハ.md" title="wikilink">スラヴィア・プラハ</a></p></td>
 <td><p>0–1</p></td>
 <td><p>1–1</p></td>
 <td><p>'''1-2</p></td>
@@ -257,7 +257,7 @@
 <td><p>1996-97</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1996-97" title="wikilink">UEFAカップウィナーズカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ACスパルタ・プラハ" title="wikilink">スパルタ・プラハ</a></p></td>
+<td><p><a href="../Page/ACスパルタ・プラハ.md" title="wikilink">スパルタ・プラハ</a></p></td>
 <td><p>2–2</p></td>
 <td><p>1–1</p></td>
 <td><p>'''3-3 (a)</p></td>
@@ -335,7 +335,7 @@
 </tr>
 <tr class="odd">
 <td><p>グループD</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オリンピック・マルセイユ" title="wikilink">マルセイユ</a></p></td>
+<td><p><a href="../Page/オリンピック・マルセイユ.md" title="wikilink">マルセイユ</a></p></td>
 <td><p>3–2</p></td>
 <td><p>0–2</p></td>
 <td><p>'''3位</p></td>
@@ -396,7 +396,7 @@
 </tr>
 <tr class="odd">
 <td><p>グループD</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レンジャーズFC" title="wikilink">レンジャーズ</a></p></td>
+<td><p><a href="../Page/レンジャーズFC.md" title="wikilink">レンジャーズ</a></p></td>
 <td><p>2–0</p></td>
 <td><p>0–5</p></td>
 <td><p>'''1位</p></td>
@@ -415,7 +415,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ASモナコ" title="wikilink">モナコ</a></p></td>
+<td><p><a href="../Page/ASモナコ.md" title="wikilink">モナコ</a></p></td>
 <td><p>2–0</p></td>
 <td><p>0–5</p></td>
 <td></td>
@@ -426,7 +426,7 @@
 </tr>
 <tr class="even">
 <td><p>グループA</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/バレンシアCF" title="wikilink">バレンシア</a></p></td>
+<td><p><a href="../Page/バレンシアCF.md" title="wikilink">バレンシア</a></p></td>
 <td><p>0–5</p></td>
 <td><p>0–2</p></td>
 <td><p>'''3位</p></td>
@@ -486,7 +486,7 @@
 </tr>
 <tr class="even">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レフスキ・ソフィア" title="wikilink">レフスキ・ソフィア</a></p></td>
+<td><p><a href="../Page/レフスキ・ソフィア.md" title="wikilink">レフスキ・ソフィア</a></p></td>
 <td><p>1–0</p></td>
 <td><p>0–1</p></td>
 <td><p>'''1-1<br />
@@ -517,7 +517,7 @@
 </tr>
 <tr class="odd">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/VfLヴォルフスブルク" title="wikilink">ヴォルフスブルク</a></p></td>
+<td><p><a href="../Page/VfLヴォルフスブルク.md" title="wikilink">ヴォルフスブルク</a></p></td>
 <td><p>1–3</p></td>
 <td><p>2–2</p></td>
 <td><p>'''3-5</p></td>
@@ -620,7 +620,7 @@
 <td><p>2010-11</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2010-11" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCディナモ・トビリシ" title="wikilink">ディナモ・トビリシ</a></p></td>
+<td><p><a href="../Page/FCディナモ・トビリシ.md" title="wikilink">ディナモ・トビリシ</a></p></td>
 <td><p>2–0</p></td>
 <td><p>1–1</p></td>
 <td><p>'''3-1</p></td>
@@ -669,7 +669,7 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2011-12" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>グループL</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCロコモティフ・モスクワ" title="wikilink">ロコモティフ・モスクワ</a></p></td>
+<td><p><a href="../Page/FCロコモティフ・モスクワ.md" title="wikilink">ロコモティフ・モスクワ</a></p></td>
 <td><p>1–2</p></td>
 <td><p>1–3</p></td>
 <td><p>'''4位</p></td>
@@ -687,7 +687,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/RSCアンデルレヒト" title="wikilink">アンデルレヒト</a></p></td>
+<td><p><a href="../Page/RSCアンデルレヒト.md" title="wikilink">アンデルレヒト</a></p></td>
 <td><p>0–2</p></td>
 <td><p>0–3</p></td>
 <td></td>
@@ -728,7 +728,7 @@
 </tr>
 <tr class="even">
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フェネルバフチェSK" title="wikilink">フェネルバフチェ</a></p></td>
+<td><p><a href="../Page/フェネルバフチェSK.md" title="wikilink">フェネルバフチェ</a></p></td>
 <td><p>1–2</p></td>
 <td><p>1–1</p></td>
 <td><p>'''2-3</p></td>
@@ -740,7 +740,7 @@
 <td><p>2018-19</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2018-19" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アヤックス・アムステルダム" title="wikilink">アヤックス</a></p></td>
+<td><p><a href="../Page/アヤックス・アムステルダム.md" title="wikilink">アヤックス</a></p></td>
 <td><p>1–3</p></td>
 <td><p>0–2</p></td>
 <td><p>'''1-5</p></td>
@@ -805,7 +805,7 @@
 
   - [ジルベア・グレス](https://ja.wikipedia.org/wiki/ジルベア・グレス "wikilink") 2003
 
-  - [ミハイロ・ペトロヴィッチ](https://ja.wikipedia.org/wiki/ミハイロ・ペトロヴィッチ "wikilink") 2003-2006
+  - [ミハイロ・ペトロヴィッチ](../Page/ミハイロ・ペトロヴィッチ.md "wikilink") 2003-2006
 
   - [フランコ・フォーダ](https://ja.wikipedia.org/wiki/フランコ・フォーダ "wikilink") 2006-2012
 
@@ -851,11 +851,11 @@
 
   - [フランコ・フォーダ](https://ja.wikipedia.org/wiki/フランコ・フォーダ "wikilink") 1997-2001
 
-  - [ランコ・ポポヴィッチ](https://ja.wikipedia.org/wiki/ランコ・ポポヴィッチ "wikilink") 1997-2001
+  - [ランコ・ポポヴィッチ](../Page/ランコ・ポポヴィッチ.md "wikilink") 1997-2001
 
   -  [エディ・ボスナー](https://ja.wikipedia.org/wiki/エディ・ボスナー "wikilink") 2001-2004
 
-  - [アンドレイ・パナディッチ](https://ja.wikipedia.org/wiki/アンドレイ・パナディッチ "wikilink") 2002
+  - [アンドレイ・パナディッチ](../Page/アンドレイ・パナディッチ.md "wikilink") 2002
 
   - [フランク・シルヴェストル](https://ja.wikipedia.org/wiki/フランク・シルヴェストル "wikilink") 2003-2005
 
@@ -873,7 +873,7 @@
 
 ### MF
 
-  - [ミハイロ・ペトロヴィッチ](https://ja.wikipedia.org/wiki/ミハイロ・ペトロヴィッチ "wikilink") 1985-1993
+  - [ミハイロ・ペトロヴィッチ](../Page/ミハイロ・ペトロヴィッチ.md "wikilink") 1985-1993
 
   - [ジュセッペ・ジャンニーニ](https://ja.wikipedia.org/wiki/ジュセッペ・ジャンニーニ "wikilink") 1996-1997
 
@@ -899,9 +899,9 @@
 
 ### FW
 
-  - [マリオ・ハース](https://ja.wikipedia.org/wiki/マリオ・ハース "wikilink") 1992-1998、2001-2005、2007-2012
+  - [マリオ・ハース](../Page/マリオ・ハース.md "wikilink") 1992-1998、2001-2005、2007-2012
 
-  - [イヴィツァ・ヴァスティッチ](https://ja.wikipedia.org/wiki/イヴィツァ・ヴァスティッチ "wikilink") 1995-2002
+  - [イヴィツァ・ヴァスティッチ](../Page/イヴィツァ・ヴァスティッチ.md "wikilink") 1995-2002
 
   - [メフルダード・ミーナーヴァンド](https://ja.wikipedia.org/wiki/メフルダード・ミーナーヴァンド "wikilink") 1998-2001
 

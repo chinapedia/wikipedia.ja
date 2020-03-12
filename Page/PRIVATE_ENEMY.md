@@ -1,7 +1,7 @@
 > この記事は[PRIVATE ENEMY](https://ja.wikipedia.org/wiki/PRIVATE_ENEMY)から翻訳されています。
 
 
-『**PRIVATE ENEMY**』（プライヴェート・エネミー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のバンド[PIERROT](https://ja.wikipedia.org/wiki/PIERROT "wikilink")のメジャーデビュー後、2枚目に発売されたアルバム。[2000年](../Page/2000年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")発売。発売元は[東芝EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")。
+『**PRIVATE ENEMY**』（プライヴェート・エネミー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のバンド[PIERROT](https://ja.wikipedia.org/wiki/PIERROT "wikilink")のメジャーデビュー後、2枚目に発売されたアルバム。[2000年](../Page/2000年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")発売。発売元は[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")。
 
 ## 概要
 

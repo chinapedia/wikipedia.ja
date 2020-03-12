@@ -8,7 +8,7 @@
 **上田浩二郎**（うえだ こうじろう、[1973年](../Page/1973年.md "wikilink")[11月9日](../Page/11月9日.md "wikilink") - ）（歳）
 
   - [ボケ担当](https://ja.wikipedia.org/wiki/ボケ_\(漫才\) "wikilink")、立ち位置は向かって左。
-  - [埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")[鳩ヶ谷市](../Page/鳩ヶ谷市.md "wikilink")（現：[川口市](https://ja.wikipedia.org/wiki/川口市 "wikilink")）生まれ。[身長](https://ja.wikipedia.org/wiki/身長 "wikilink")168cm、[体重](https://ja.wikipedia.org/wiki/体重 "wikilink")57kg、[血液型O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+  - [埼玉県](../Page/埼玉県.md "wikilink")[鳩ヶ谷市](../Page/鳩ヶ谷市.md "wikilink")（現：[川口市](https://ja.wikipedia.org/wiki/川口市 "wikilink")）生まれ。[身長](../Page/身長.md "wikilink")168cm、[体重](../Page/体重.md "wikilink")57kg、[血液型O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
   - 兄が1人いる。
   - 横文字に弱いところが時折見られるが、一方で時事に強い部分も見受けられる。
   - 猫アレルギーである\[1\]。また、軽度の日光アレルギーでもあるため、1年を通して肌の色が白い\[2\]。
@@ -17,13 +17,13 @@
   - 読書が趣味であるが、漢字に弱く、せっかく読み終わっても内容が良くわからないということがよくある\[4\]。
   - [THE MANZAI 2011では決勝に行けると思っておらず](https://ja.wikipedia.org/wiki/THE_MANZAI_\(お笑いのコンテスト\) "wikilink")、決勝進出通知の際に号泣した。その際、「俺ね、ほんと何度も（芸人）辞めようと思ったんすよ」「誰にも愛されてこなかったんすよ僕ら」と発言した\[5\]。また2012年1月13日放送のTOKYO FM「よんぱち 48hours」での発言によると、その年はTHE MANZAI以外のテレビ出演は皆無だったそうで、収入すら皆無の月もあったという\[6\]。
   - [THE MANZAI 2011のネタ中に発した](https://ja.wikipedia.org/wiki/THE_MANZAI_\(お笑いのコンテスト\) "wikilink")「あー漫才楽しい\!」「（岩崎に向けて）放り込んで来い\! お前の18年間放り込んで来い\!」という発言が話題となり\[7\]、ブログのヒット数・コメント数が爆発的に伸びた。
-  - [ロンドンハーツ](https://ja.wikipedia.org/wiki/ロンドンハーツ "wikilink")のマジックメールに引っかかってしまったが、その時仕掛け人の[谷澤恵里香](../Page/谷澤恵里香.md "wikilink")の「ミートソース作ったんで巻いてくれますか?」に対する「巻くよ、バカ」という発言がネット上で話題を呼び、ブログのヒット数・コメント数が再び急増した（上田曰く『[THE MANZAI 2011の直後より多かったかも知れない](https://ja.wikipedia.org/wiki/THE_MANZAI_\(お笑いのコンテスト\) "wikilink")』らしい）\[8\]\[9\]。
-  - 以前は人力舎の芸人の和田貴志（[鬼ヶ島](https://ja.wikipedia.org/wiki/鬼ヶ島_\(お笑い\) "wikilink")）と同居していた\[10\]。
+  - [ロンドンハーツ](../Page/ロンドンハーツ.md "wikilink")のマジックメールに引っかかってしまったが、その時仕掛け人の[谷澤恵里香](../Page/谷澤恵里香.md "wikilink")の「ミートソース作ったんで巻いてくれますか?」に対する「巻くよ、バカ」という発言がネット上で話題を呼び、ブログのヒット数・コメント数が再び急増した（上田曰く『[THE MANZAI 2011の直後より多かったかも知れない](https://ja.wikipedia.org/wiki/THE_MANZAI_\(お笑いのコンテスト\) "wikilink")』らしい）\[8\]\[9\]。
+  - 以前は人力舎の芸人の和田貴志（[鬼ヶ島](../Page/鬼ヶ島_\(お笑い\).md "wikilink")）と同居していた\[10\]。
 
 **岩崎一則**（いわさき かずのり、[1973年](../Page/1973年.md "wikilink")[9月17日](../Page/9月17日.md "wikilink") - ）（歳）
 
   - [ツッコミ](https://ja.wikipedia.org/wiki/ツッコミ "wikilink")担当、立ち位置は向かって右。
-  - [埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")[さいたま市](https://ja.wikipedia.org/wiki/さいたま市 "wikilink")生まれ。身長170cm、体重71kg、[血液型B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[左利き](../Page/左利き.md "wikilink")\[11\]。
+  - [埼玉県](../Page/埼玉県.md "wikilink")[さいたま市](https://ja.wikipedia.org/wiki/さいたま市 "wikilink")生まれ。身長170cm、体重71kg、[血液型B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[左利き](../Page/左利き.md "wikilink")\[11\]。
   - 兄が1人おり、肉屋を経営している\[12\]。
   - スキンヘッドがトレードマーク。最近は舞台上などで眼鏡をかけている。衣装は以前は[ネルシャツ](https://ja.wikipedia.org/wiki/ネルシャツ "wikilink")を着ていることが多かったが、THE MANZAI2011の決勝以降は基本的にワイシャツにネクタイ姿で通している。愛称は「**ガンちゃん**」。
   - 上田の両親が経営するアパートに10年以上住んでいる。しかし、ここ5年ほど家賃を滞納している。また、15年以上掃除をしておらず、[2012年](../Page/2012年.md "wikilink")[7月26日](../Page/7月26日.md "wikilink")放送の黄金伝説の企画で掃除をした際に冷蔵庫の上から様々な菌が検出されるほどの不潔さであったことが明らかとなった\[13\]。
@@ -46,11 +46,11 @@
         →「ハミングステッチ」（事務所から、ハゲを連想させるバリカンの名前に待ったがかかり、もっときれいな響きの言葉をと言われ改名。トラックの運転手をしていた時に視かけた「ハミング」の看板を思い出して名付けた\[29\]）
         →「ハミング」と変遷し、今に至る。ハミングに改名したのは、コンビ名をよく略されてハミングだけで呼ばれていたからであるが、この時は事務所から「お前らがハミングだと意味がわからない」とも言われたという\[30\]。
         現コンビ名は、[GyaOジョッキー](../Page/GyaOジョッキー.md "wikilink")での企画で決定したが、表向きは「30案くらい候補を出して、その中から事務所が決めた」と答えるようにしているという。「灰になるまでハイになろう」「high、highで高い所まで上がれるように」という由来は全部後付けだという\[31\]。
-  - 初めての[前説](https://ja.wikipedia.org/wiki/前説 "wikilink")は「[進め\!電波少年](../Page/進め!電波少年.md "wikilink")」（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）で、初めての[ゴールデンタイム](https://ja.wikipedia.org/wiki/ゴールデンタイム "wikilink")でのテレビ出演は「[ジャングルTV 〜タモリの法則〜](https://ja.wikipedia.org/wiki/ジャングルTV_〜タモリの法則〜 "wikilink")」（[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")・[TBS系](../Page/TBSテレビ.md "wikilink")。「50人隊」の企画での出演）\[32\]。
+  - 初めての[前説](../Page/前説.md "wikilink")は「[進め\!電波少年](../Page/進め!電波少年.md "wikilink")」（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）で、初めての[ゴールデンタイム](https://ja.wikipedia.org/wiki/ゴールデンタイム "wikilink")でのテレビ出演は「[ジャングルTV 〜タモリの法則〜](../Page/ジャングルTV_〜タモリの法則〜.md "wikilink")」（[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")・[TBS系](../Page/TBSテレビ.md "wikilink")。「50人隊」の企画での出演）\[32\]。
   - [THE MANZAI 2011にて認定漫才師](https://ja.wikipedia.org/wiki/THE_MANZAI_\(お笑いのコンテスト\) "wikilink")50組に選ばれ本戦サーキットに出場。その結果サーキットランキング14位に入り決勝進出を決めた後、決勝戦でBブロックを制して最終決戦の4組まで勝ち上がった。
   - 翌年のTHE MANZAI 2012でも認定漫才師に選ばれたが、サーキットランキング18位でワイルドカード決定戦進出に終わる。
   - 初の著書として2012年9月14日に「リストラ芸人」（講談社）が上田を作者として出版された。
-  - 2019年6月14日付で[漫才協会](https://ja.wikipedia.org/wiki/漫才協会 "wikilink")に入会した\[33\]。
+  - 2019年6月14日付で[漫才協会](../Page/漫才協会.md "wikilink")に入会した\[33\]。
 
 ## 芸風
 
@@ -68,14 +68,14 @@
   - その18万勝った番組内で、大当たりの連発に興奮した上田が「**俺の[北斗の引きを見ろ](https://ja.wikipedia.org/wiki/ぱちんこCR北斗の拳 "wikilink")\!**」と何度も発言した事に端を発し、「**俺の引きを見たか\!**」という決め台詞が誕生した。今では出演した[パチンコ・パチスロ番組](../Page/パチンコ・パチスロ番組.md "wikilink")の全てで（大当たりした時に）披露される\[38\]。余談だが、その模様を見ていた[南まりか](../Page/南まりか.md "wikilink")が2人のファンになり、南自身も「**あたいの引きを見たかぁ〜**」という決め台詞を使用する事になった\[39\]。2012年7月より3人で「まりか\&Hi-Hiの真王伝説」としてレギュラー出演している。
   - 音楽活動をしていた経緯もあるため、音楽に対する造詣も深い。ちなみに上田はベース、岩崎はドラムを担当していた。
   - 高校時代の同級生。後に上田が結成を持ちかけた理由が「こいつ（岩崎）しかフラフラしてる奴がいなかった」\[40\]。
-  - [爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink")では初期から挑戦していたが、400KB以上の成績を経験しているにもかかわらずオンエア経験のないまま10連敗を記録（[きぐるみピエロ](https://ja.wikipedia.org/wiki/きぐるみピエロ "wikilink")、[ヴェートーベンも経験](https://ja.wikipedia.org/wiki/ヴェートーベン_\(お笑いコンビ\) "wikilink")）。2回目の挑戦（[2001年](../Page/2001年.md "wikilink")[11月10日](../Page/11月10日.md "wikilink")放送）で445KBの高得点ながら6位オフエア（5位の[いつもここから](../Page/いつもここから.md "wikilink")が461KB）というまさかの不運に恵まれる\[41\]、これは、当時の最高オフエア記録の中でも[江戸むらさきの](https://ja.wikipedia.org/wiki/江戸むらさき_\(お笑いコンビ\) "wikilink")449KBに次いで2位の記録\[42\]であった。これが影響したかその後の挑戦では100KBや200KB台を記録。4回目の挑戦（[2002年](../Page/2002年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink")放送）では405KBの高得点ながらまたしても6位オフエア（5位の[佐久間一行](https://ja.wikipedia.org/wiki/佐久間一行 "wikilink")が409KBでボール1個差）であった。その後[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月1日](../Page/9月1日.md "wikilink")放送分で、11回目の挑戦にして念願の初オンエアを達成する（11回目での挑戦でのオンエアは番組最多記録）。初オンエアの勝者コメントで、上田は「良かった～」と、岩崎は「もうねぇ、もう『嬉しい』とかじゃなくて、（オンエアを達成できて）良かったね」と発言している。また、その際のナレーションでは**「念願の初オンエア！目指せ、10連敗後の10連勝！」**とコメントされていた。その後[2007年](../Page/2007年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink")放送分では、自己最高となる477KBを獲得し、自身初のトップ通過となった。なおオフエア数16回は番組最多記録で、[ダンディ坂野](../Page/ダンディ坂野.md "wikilink")の15回がこれに続いている\[43\]\[44\]\[45\]。
+  - [爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink")では初期から挑戦していたが、400KB以上の成績を経験しているにもかかわらずオンエア経験のないまま10連敗を記録（[きぐるみピエロ](../Page/きぐるみピエロ.md "wikilink")、[ヴェートーベンも経験](../Page/ヴェートーベン_\(お笑いコンビ\).md "wikilink")）。2回目の挑戦（[2001年](../Page/2001年.md "wikilink")[11月10日](../Page/11月10日.md "wikilink")放送）で445KBの高得点ながら6位オフエア（5位の[いつもここから](../Page/いつもここから.md "wikilink")が461KB）というまさかの不運に恵まれる\[41\]、これは、当時の最高オフエア記録の中でも[江戸むらさきの](../Page/江戸むらさき_\(お笑いコンビ\).md "wikilink")449KBに次いで2位の記録\[42\]であった。これが影響したかその後の挑戦では100KBや200KB台を記録。4回目の挑戦（[2002年](../Page/2002年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink")放送）では405KBの高得点ながらまたしても6位オフエア（5位の[佐久間一行](../Page/佐久間一行.md "wikilink")が409KBでボール1個差）であった。その後[2006年](../Page/2006年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")放送分で、11回目の挑戦にして念願の初オンエアを達成する（11回目での挑戦でのオンエアは番組最多記録）。初オンエアの勝者コメントで、上田は「良かった～」と、岩崎は「もうねぇ、もう『嬉しい』とかじゃなくて、（オンエアを達成できて）良かったね」と発言している。また、その際のナレーションでは**「念願の初オンエア！目指せ、10連敗後の10連勝！」**とコメントされていた。その後[2007年](../Page/2007年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink")放送分では、自己最高となる477KBを獲得し、自身初のトップ通過となった。なおオフエア数16回は番組最多記録で、[ダンディ坂野](../Page/ダンディ坂野.md "wikilink")の15回がこれに続いている\[43\]\[44\]\[45\]。
   - [THE MANZAI 2011の](https://ja.wikipedia.org/wiki/THE_MANZAI_\(お笑いのコンテスト\) "wikilink")1回目のネタで使用した「最近どう?みんな、パスタ巻いてる?」というフレーズを[ナインティナイン](https://ja.wikipedia.org/wiki/ナインティナイン "wikilink")の岡村が気に入り、いろんな場所で使うようになった結果、岩崎は街中で「パスタ職人の方ですよね?」、上田は「どこでお店やってるんですか?」と訊かれるようになってしまった。本人たちはこの事を「パスタの一人歩き」と称している\[46\]。
   - 2003年に事務所の先輩である[はなわ](https://ja.wikipedia.org/wiki/はなわ "wikilink")の横浜アリーナでのライブでバックバンドとして参加した。上田はギター、岩崎はドラムを担当した。
   - 20年以上の付き合いであるにもかかわらず、岩崎はプライベートで上田の名前を1度も呼んだことがない。また、上田のことを「相方」と言わず「うちの人」と言う\[47\]。
   - [菅良太郎](https://ja.wikipedia.org/wiki/菅良太郎 "wikilink")（[パンサー](https://ja.wikipedia.org/wiki/パンサー_\(お笑い\) "wikilink")）は「高校時代に学園祭に来た2人を見たのがお笑いを目指すきっかけになった」と語っている\[48\]。
   - 芸人に戻ってからは、関東の若手・中堅クラスの芸人たちの相談相手もやっていた。自身の経験も踏まえてのアドバイスはかなり好評だったらしい。
   - 2人とも喫煙者である。
-  - 2011年1月、永沢たかし（[磁石](https://ja.wikipedia.org/wiki/磁石_\(お笑いコンビ\) "wikilink")）が結成した、芸歴10年前後の吹きだまり芸人によるユニット「[FKD48](https://ja.wikipedia.org/wiki/FKD48 "wikilink")」に加入。上田が特に吹きだまってる担当→テキトー担当で担当カラーは小豆色、岩崎がおっさん担当で担当カラーは肌色となっている。なお2人とも1973年生まれでメンバー最年長である。
+  - 2011年1月、永沢たかし（[磁石](../Page/磁石_\(お笑いコンビ\).md "wikilink")）が結成した、芸歴10年前後の吹きだまり芸人によるユニット「[FKD48](https://ja.wikipedia.org/wiki/FKD48 "wikilink")」に加入。上田が特に吹きだまってる担当→テキトー担当で担当カラーは小豆色、岩崎がおっさん担当で担当カラーは肌色となっている。なお2人とも1973年生まれでメンバー最年長である。
 
 ## 賞レース
 
@@ -104,14 +104,14 @@
   - スパゲッTV（[フジテレビTWO](https://ja.wikipedia.org/wiki/フジテレビTWO "wikilink")）
   - めんこい8オシ研究所（[岩手めんこいテレビ](../Page/岩手めんこいテレビ.md "wikilink")）
   - [マサカメTV](https://ja.wikipedia.org/wiki/マサカメTV "wikilink")（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")）レポーターとして不定期出演
-  - パチンコ・パチスロ激闘TV（[MONDO TV](https://ja.wikipedia.org/wiki/MONDO_TV "wikilink")）
+  - パチンコ・パチスロ激闘TV（[MONDO TV](../Page/MONDO_TV.md "wikilink")）
   - パチスロ激闘TV〜北斗七星勝舞の刻（MONDO TV）
   - [Hi-Hiの真王伝説](https://ja.wikipedia.org/wiki/真王伝説 "wikilink")（テレビ埼玉、2012年7月 - 2013年6月）
-  - [最近どう?みんなタクシーのってる?](https://ja.wikipedia.org/wiki/最近どう?みんなタクシーのってる? "wikilink")（[千葉テレビ](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink")、2014年7月10日 - 9月25日）
+  - [最近どう?みんなタクシーのってる?](https://ja.wikipedia.org/wiki/最近どう?みんなタクシーのってる? "wikilink")（[千葉テレビ](../Page/千葉テレビ放送.md "wikilink")、2014年7月10日 - 9月25日）
 
 #### 過去の出演番組
 
-  - [爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink")（[NHK総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")）戦績2勝16敗 最高477KB
+  - [爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink")（[NHK総合](../Page/NHK総合テレビジョン.md "wikilink")）戦績2勝16敗 最高477KB
       - 「ハミングステッチ」時代に7回、「ハミング」時代に2回参戦。オンエアは「Hi-Hi」になってから。
       - 1999年度（0勝1敗）
       - 2001年度（0勝2敗）
@@ -132,7 +132,7 @@
   - [真王伝説](https://ja.wikipedia.org/wiki/真王伝説 "wikilink")（[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")）
   - [爆笑ホワイトカーペット](https://ja.wikipedia.org/wiki/爆笑ホワイトカーペット "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、2009年4月4日） - キャッチコピーは「思いついたこと言います」
   - [爆笑レッドカーペット](../Page/爆笑レッドカーペット.md "wikilink")（フジテレビ、2009年5月2日、6月20日、2010年4月18日） - キャッチコピーは「思いついたこと言います」
-  - [お笑い登龍門 ガッハ](https://ja.wikipedia.org/wiki/登龍門F "wikilink")（フジテレビ）
+  - [お笑い登龍門 ガッハ](../Page/登龍門F.md "wikilink")（フジテレビ）
   - [ぐるぐるナインティナイン](../Page/ぐるぐるナインティナイン.md "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")） - 「おもしろ荘」のコーナー
   - [アリケン](https://ja.wikipedia.org/wiki/アリケン "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")） 上田のみ
   - [お笑いメリーゴーランド](https://ja.wikipedia.org/wiki/お笑いメリーゴーランド "wikilink")（TBS系）
@@ -140,7 +140,7 @@
   - [パパドル\!](https://ja.wikipedia.org/wiki/パパドル! "wikilink") 第3話（TBS系、2012年5月10日） - ゲスト
   - [ドライブ A GO\!GO\!](https://ja.wikipedia.org/wiki/ドライブ_A_GO!GO! "wikilink")（テレビ東京、2012年5月20日） - 初出演となった5月20日は[鈴木あきえ](../Page/鈴木あきえ.md "wikilink")と[利根川](../Page/利根川.md "wikilink")上流をドライブ旅。
   - [生田くん、ハイ\!](https://ja.wikipedia.org/wiki/生田くん、ハイ! "wikilink")（フジテレビ）
-  - 小力の小部屋　第106回（2012年5月2日、[マシェリバラエティ](https://ja.wikipedia.org/wiki/マシェリバラエティ "wikilink")、ニコニコ生放送、[スカパー\!](https://ja.wikipedia.org/wiki/スカパー! "wikilink")275ch） - 共演：[長州小力](https://ja.wikipedia.org/wiki/長州小力 "wikilink")
+  - 小力の小部屋　第106回（2012年5月2日、[マシェリバラエティ](https://ja.wikipedia.org/wiki/マシェリバラエティ "wikilink")、ニコニコ生放送、[スカパー\!](https://ja.wikipedia.org/wiki/スカパー! "wikilink")275ch） - 共演：[長州小力](../Page/長州小力.md "wikilink")
   - [ふたり道](https://ja.wikipedia.org/wiki/ふたり道 "wikilink") 〜㊙テクニックが学べる不思議な教習所〜（BS日テレ、2013年4月 - 9月）自動車教習所生徒役（上田のみ、第42・43・44・45話）
   - [オタ恋](https://ja.wikipedia.org/wiki/オタ恋 "wikilink")（2016年10月15日、11月19日、2017年2月11日、3月18日、5月6日、5月27日、6月31日、[BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")） - 上田のみ、おまとめ編定期ゲスト
   - [オールスター後夜祭](https://ja.wikipedia.org/wiki/オールスター感謝祭#%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%BC%E5%BE%8C%E5%A4%9C%E7%A5%AD "wikilink")（2018年10月7日\[49\]、2019年4月7日\[50\]、TBS）
@@ -155,7 +155,7 @@
 
   - Hi-Hiの[のーぎゃらくん](https://ja.wikipedia.org/wiki/のーぎゃらくん "wikilink")（[文化放送](../Page/文化放送.md "wikilink")）
   - [吉田照美のやる気MANMAN\!](../Page/吉田照美のやる気MANMAN!.md "wikilink")（文化放送）
-  - [オールナイトニッポンR](https://ja.wikipedia.org/wiki/オールナイトニッポンR "wikilink")（[ニッポン放送](../Page/ニッポン放送.md "wikilink")、2012年1月6日）
+  - [オールナイトニッポンR](../Page/オールナイトニッポンR.md "wikilink")（[ニッポン放送](../Page/ニッポン放送.md "wikilink")、2012年1月6日）
   - [Hi-Hiのオールナイトニッポン0(ZERO)](https://ja.wikipedia.org/wiki/Hi-Hiのオールナイトニッポン0\(ZERO\) "wikilink")（ニッポン放送、2012年4月5日 - 2013年3月28日）
 
 ### インターネット放送
@@ -210,7 +210,7 @@
 22.
 23. 「リストラ芸人」p.69-72
 24. 「リストラ芸人」第2章（p.43〜）
-25. 東京吉本では[ロンドンブーツ1号2号](../Page/ロンドンブーツ1号2号.md "wikilink")や[ペナルティや](https://ja.wikipedia.org/wiki/ペナルティ_\(お笑いコンビ\) "wikilink")[DonDokoDon](../Page/DonDokoDon.md "wikilink")と同期だったがネタの受けはイマイチだったらしい。「タッチアウト\!\!スペシャル」でクビを宣告された後「どうしても同期の連中や先輩の[ココリコ](../Page/ココリコ.md "wikilink")のようにはなれない」との挫折感と絶望感から芸人を辞める事を決めたという[1](http://notei.hatenablog.com/entry/20120122/1327238063)。半年後輩に当たる大谷ノブ彦（[ダイノジ](https://ja.wikipedia.org/wiki/ダイノジ "wikilink")）は[自身のブログ](http://blogs.yahoo.co.jp/ohtani_blog/12531007.html)や[ラジオ番組のインタビュー](http://radiotalkrecording.blog.fc2.com/blog-entry-2.html)でその時の事を詳しく語っている。
+25. 東京吉本では[ロンドンブーツ1号2号](../Page/ロンドンブーツ1号2号.md "wikilink")や[ペナルティや](../Page/ペナルティ_\(お笑いコンビ\).md "wikilink")[DonDokoDon](../Page/DonDokoDon.md "wikilink")と同期だったがネタの受けはイマイチだったらしい。「タッチアウト\!\!スペシャル」でクビを宣告された後「どうしても同期の連中や先輩の[ココリコ](../Page/ココリコ.md "wikilink")のようにはなれない」との挫折感と絶望感から芸人を辞める事を決めたという[1](http://notei.hatenablog.com/entry/20120122/1327238063)。半年後輩に当たる大谷ノブ彦（[ダイノジ](../Page/ダイノジ.md "wikilink")）は[自身のブログ](http://blogs.yahoo.co.jp/ohtani_blog/12531007.html)や[ラジオ番組のインタビュー](http://radiotalkrecording.blog.fc2.com/blog-entry-2.html)でその時の事を詳しく語っている。
 26. 「リストラ芸人」第5章（p.83〜）「もう一回、お笑いやってみない?」より。
 27. ケイダッシュに入ってからも先輩の[原口あきまさ](../Page/原口あきまさ.md "wikilink")や[はなわ](https://ja.wikipedia.org/wiki/はなわ "wikilink")、後輩の[オードリーらの陰で目立たない存在だった](https://ja.wikipedia.org/wiki/オードリー_\(お笑いコンビ\) "wikilink")。ただオードリーが売れた時は「普通に応援できる気持ちだった」という。
 28. 「リストラ芸人」p.118-119

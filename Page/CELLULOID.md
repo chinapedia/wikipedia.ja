@@ -1,7 +1,7 @@
 > この記事は[CELLULOID](https://ja.wikipedia.org/wiki/CELLULOID)から翻訳されています。
 
 
-『**CELLULOID**』（セルロイド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のバンド[Pierrotのインディーズ](https://ja.wikipedia.org/wiki/PIERROT "wikilink")3rdミニアルバム。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink")発売。発売元は[BMGファンハウス](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")([2001年](../Page/2001年.md "wikilink")[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")に[ユニバーサルミュージックにより再発売](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink"))。
+『**CELLULOID**』（セルロイド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のバンド[Pierrotのインディーズ](https://ja.wikipedia.org/wiki/PIERROT "wikilink")3rdミニアルバム。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink")発売。発売元は[BMGファンハウス](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")([2001年](../Page/2001年.md "wikilink")[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")に[ユニバーサルミュージックにより再発売](../Page/ユニバーサルミュージック_\(日本\).md "wikilink"))。
 
 ## 概要
 
@@ -27,26 +27,26 @@
       -
         ライブでは、イントロの振り付けが定番となっており、リズムに合わせ頭上で手を叩く。
         [アドルフ・ヒトラー](https://ja.wikipedia.org/wiki/アドルフ・ヒトラー "wikilink")を題材にしていると思われる。
-        再録されて『[DICTATORS CIRCUS -奇術的旋律-](https://ja.wikipedia.org/wiki/DICTATORS_CIRCUS_-奇術的旋律- "wikilink")』に収録された。
+        再録されて『[DICTATORS CIRCUS -奇術的旋律-](../Page/DICTATORS_CIRCUS_-奇術的旋律-.md "wikilink")』に収録された。
 3.  **脳内モルヒネ**
       - 作曲：アイジ
     <!-- end list -->
       -
         Adolfと同様に、ライブではイントロに合わせキリトが踊るのが定番となっている。
-        再録されて『[DICTATORS CIRCUS -奇術的旋律-](https://ja.wikipedia.org/wiki/DICTATORS_CIRCUS_-奇術的旋律- "wikilink")』に収録された。
+        再録されて『[DICTATORS CIRCUS -奇術的旋律-](../Page/DICTATORS_CIRCUS_-奇術的旋律-.md "wikilink")』に収録された。
 4.  **Twelve**
       - 作曲：アイジ・TAKEO
 5.  **鬼と桜**
       - 作曲：キリト
     <!-- end list -->
       -
-        再録されて『[DICTATORS CIRCUS -奇術的旋律-](https://ja.wikipedia.org/wiki/DICTATORS_CIRCUS_-奇術的旋律- "wikilink")』に収録された。
+        再録されて『[DICTATORS CIRCUS -奇術的旋律-](../Page/DICTATORS_CIRCUS_-奇術的旋律-.md "wikilink")』に収録された。
 6.  **HUMAN GATE**
       - 作曲：アイジ
     <!-- end list -->
       -
         ライブでは、終盤、又は最後の曲として演奏される事が多かった。
-        再録されて『[DICTATORS CIRCUS -奇術的旋律-](https://ja.wikipedia.org/wiki/DICTATORS_CIRCUS_-奇術的旋律- "wikilink")』に収録された。
+        再録されて『[DICTATORS CIRCUS -奇術的旋律-](../Page/DICTATORS_CIRCUS_-奇術的旋律-.md "wikilink")』に収録された。
 
 ## 演奏
 

@@ -5,15 +5,15 @@
 
 ## 概要
 
-同時期に販売されていた[サニーB](../Page/日産・サニー.md "wikilink")13型（7代目）をベースにした[クーペ](../Page/クーペ.md "wikilink")タイプの[乗用車](../Page/乗用車.md "wikilink")で、[トヨタ・サイノス](https://ja.wikipedia.org/wiki/トヨタ・サイノス "wikilink")同様、廉価でおしゃれな「[セクレタリーカー](https://ja.wikipedia.org/wiki/秘書 "wikilink")」として[開発](../Page/開発.md "wikilink")された。当時販売されていた[180SX](https://ja.wikipedia.org/wiki/180SX "wikilink")をそのまま小さくしたようなデザインが特徴的である。
+同時期に販売されていた[サニーB](../Page/日産・サニー.md "wikilink")13型（7代目）をベースにした[クーペ](../Page/クーペ.md "wikilink")タイプの[乗用車](../Page/乗用車.md "wikilink")で、[トヨタ・サイノス](../Page/トヨタ・サイノス.md "wikilink")同様、廉価でおしゃれな「[セクレタリーカー](../Page/秘書.md "wikilink")」として[開発](../Page/開発.md "wikilink")された。当時販売されていた[180SX](https://ja.wikipedia.org/wiki/180SX "wikilink")をそのまま小さくしたようなデザインが特徴的である。
 
-先代の[サニークーペRZ-1とは打って変わり](../Page/日産・サニーRZ-1.md "wikilink")、[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[サンディエゴ](../Page/サンディエゴ.md "wikilink")の「日産デザインインターナショナル（NDI、現・[NDA](https://ja.wikipedia.org/wiki/NDA "wikilink")）」で[スタイリングされた外観は](../Page/インダストリアルデザイン.md "wikilink")、[フェアレディZ（Z32）と共通のデザインテイストを持たせており](../Page/日産・フェアレディZ.md "wikilink")、丸みを帯びたカジュアルなスタイリングと、へこんだオーバルシェイプの[ヘッドランプが特徴となった](https://ja.wikipedia.org/wiki/前照灯 "wikilink")。
+先代の[サニークーペRZ-1とは打って変わり](../Page/日産・サニーRZ-1.md "wikilink")、[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[サンディエゴ](../Page/サンディエゴ.md "wikilink")の「日産デザインインターナショナル（NDI、現・[NDA](https://ja.wikipedia.org/wiki/NDA "wikilink")）」で[スタイリングされた外観は](../Page/インダストリアルデザイン.md "wikilink")、[フェアレディZ（Z32）と共通のデザインテイストを持たせており](../Page/日産・フェアレディZ.md "wikilink")、丸みを帯びたカジュアルなスタイリングと、へこんだオーバルシェイプの[ヘッドランプが特徴となった](../Page/前照灯.md "wikilink")。
 
-北米市場をメインターゲットとして企画しており、日本では[サニーRZ-1の後継となったが](../Page/日産・サニーRZ-1.md "wikilink")、北米においては[日産・エクサ](https://ja.wikipedia.org/wiki/日産・エクサ "wikilink")（*Nissan Pulsar NX*）の後継として位置づけられ、車名も「NX」を踏襲している。そのためエクサで人気のあった[Tバールーフ](../Page/Tバールーフ.md "wikilink")をラインナップに設定している。一方で着脱式の「[キャノピー](https://ja.wikipedia.org/wiki/キャノピー "wikilink")」については、さほど人気がなかったため採用されなかった。正式名称は「日産・NXクーペ」だが、日本では「サニーNXクーペ」と呼ばれることが多かった。また、欧州圏においては「100NX」の名称で、オセアニア圏においては日本と同じ「NXクーペ」の名称で販売された。
+北米市場をメインターゲットとして企画しており、日本では[サニーRZ-1の後継となったが](../Page/日産・サニーRZ-1.md "wikilink")、北米においては[日産・エクサ](../Page/日産・エクサ.md "wikilink")（*Nissan Pulsar NX*）の後継として位置づけられ、車名も「NX」を踏襲している。そのためエクサで人気のあった[Tバールーフ](../Page/Tバールーフ.md "wikilink")をラインナップに設定している。一方で着脱式の「[キャノピー](https://ja.wikipedia.org/wiki/キャノピー "wikilink")」については、さほど人気がなかったため採用されなかった。正式名称は「日産・NXクーペ」だが、日本では「サニーNXクーペ」と呼ばれることが多かった。また、欧州圏においては「100NX」の名称で、オセアニア圏においては日本と同じ「NXクーペ」の名称で販売された。
 
 日本においては排気量別にタイプA（1.5L）、タイプB（1.6L）、タイプS（1.8L）の3グレードが設定された。1992年1月にはマイナーチェンジされ、タイプA/B（1.5L）、タイプS（1.6L/1.8L）の2グレードに整理された。またマイナーチェンジにて運転席にエアバッグをオプション設定したほか、サイドドアビームやシートベルト未装着警告警報、衝撃吸収パッドなどが追加採用され、ボディサイドモールがボディ同色塗装となった。ボディカラーについては通常塗装のほか、メーカーオプションでスーパー・ファインコート塗装（[フッ素](../Page/フッ素.md "wikilink")樹脂塗装）が選択することが出来た。またユニークな装備としてドア開口部のキャッチ側に[傘](../Page/傘.md "wikilink")収納スペースが設けられていた。
 
-エンジンは[直列4気筒](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink")で、[GA型](https://ja.wikipedia.org/wiki/日産・GAエンジン "wikilink")1.5L（タイプA/B）と1.6L（タイプB/S）、[SR型](https://ja.wikipedia.org/wiki/日産・SRエンジン "wikilink")1.8L（タイプS）がラインナップされた。仕向け地によって[キャブレター](../Page/キャブレター.md "wikilink")または[フューエルインジェクションが組み合わされ](../Page/燃料噴射装置.md "wikilink")、これに[トランスミッション](https://ja.wikipedia.org/wiki/トランスミッション "wikilink")は5速[マニュアルまたは](../Page/マニュアルトランスミッション.md "wikilink")4速[オートマチックが設定された](../Page/オートマチックトランスミッション.md "wikilink")。北米仕様にのみSR型2.0Lエンジン搭載車が設定された。またGAエンジン搭載車にはデジタルパネルメーターが設定された。
+エンジンは[直列4気筒](../Page/直列4気筒.md "wikilink")で、[GA型](https://ja.wikipedia.org/wiki/日産・GAエンジン "wikilink")1.5L（タイプA/B）と1.6L（タイプB/S）、[SR型](../Page/日産・SRエンジン.md "wikilink")1.8L（タイプS）がラインナップされた。仕向け地によって[キャブレター](../Page/キャブレター.md "wikilink")または[フューエルインジェクションが組み合わされ](../Page/燃料噴射装置.md "wikilink")、これに[トランスミッション](../Page/トランスミッション.md "wikilink")は5速[マニュアルまたは](../Page/マニュアルトランスミッション.md "wikilink")4速[オートマチックが設定された](../Page/オートマチックトランスミッション.md "wikilink")。北米仕様にのみSR型2.0Lエンジン搭載車が設定された。またGAエンジン搭載車にはデジタルパネルメーターが設定された。
 
 ### 販売
 
@@ -23,7 +23,7 @@
 
 ### 広告
 
-[モーフィング](https://ja.wikipedia.org/wiki/モーフィング "wikilink")という手法を使い、イエローのNXの[コンピュータグラフィックス](../Page/コンピュータグラフィックス.md "wikilink")が変幻自在に曲がりくねるテレビCMが話題になった。CGは[リズム&ヒューズ・スタジオ](https://ja.wikipedia.org/wiki/リズム&ヒューズ・スタジオ "wikilink")による。[キャッチコピー](../Page/キャッチコピー.md "wikilink")は、「タイムマシンかもしれない。」だった。
+[モーフィング](../Page/モーフィング.md "wikilink")という手法を使い、イエローのNXの[コンピュータグラフィックス](../Page/コンピュータグラフィックス.md "wikilink")が変幻自在に曲がりくねるテレビCMが話題になった。CGは[リズム&ヒューズ・スタジオ](../Page/リズム&ヒューズ・スタジオ.md "wikilink")による。[キャッチコピー](../Page/キャッチコピー.md "wikilink")は、「タイムマシンかもしれない。」だった。
 
 ## 注・出典
 
@@ -31,9 +31,9 @@
 
   - [日産・サニー](../Page/日産・サニー.md "wikilink")
   - [日産・ルキノ](../Page/日産・ルキノ.md "wikilink")
-  - [日産・エクサ](https://ja.wikipedia.org/wiki/日産・エクサ "wikilink")
+  - [日産・エクサ](../Page/日産・エクサ.md "wikilink")
   - [日産・フェアレディZ](../Page/日産・フェアレディZ.md "wikilink")（Z32）
-  - [トヨタ・サイノス](https://ja.wikipedia.org/wiki/トヨタ・サイノス "wikilink")
+  - [トヨタ・サイノス](../Page/トヨタ・サイノス.md "wikilink")
 
 ## 外部リンク
 

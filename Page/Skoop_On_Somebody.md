@@ -3,39 +3,39 @@
 
 **Skoop On Somebody** （スクープ・オン・サムバディ）は、1995年に結成された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[R\&Bグループである](../Page/リズム・アンド・ブルース.md "wikilink")。通称S.O.S.またはSOS。
 
-2000年4月までは**SKOOP**というグループ名だったが、2000年6月シングル『[ama-oto](https://ja.wikipedia.org/wiki/ama-oto "wikilink")』から現在のグループ名になる。現在までにボーカル・[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")・[演奏](../Page/演奏.md "wikilink")・[ソングライティングをほとんど自分たちでこなす](https://ja.wikipedia.org/wiki/ソングライター "wikilink")、セルフ・コンテインド[バンドである](../Page/バンド_\(音楽\).md "wikilink")。
+2000年4月までは**SKOOP**というグループ名だったが、2000年6月シングル『[ama-oto](https://ja.wikipedia.org/wiki/ama-oto "wikilink")』から現在のグループ名になる。現在までにボーカル・[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")・[演奏](../Page/演奏.md "wikilink")・[ソングライティングをほとんど自分たちでこなす](../Page/ソングライター.md "wikilink")、セルフ・コンテインド[バンドである](../Page/バンド_\(音楽\).md "wikilink")。
 
-所属[事務所は](../Page/芸能事務所.md "wikilink")[アミューズ](https://ja.wikipedia.org/wiki/アミューズ "wikilink")、[レコード会社は](../Page/レコードレーベル.md "wikilink")[SME Records](https://ja.wikipedia.org/wiki/エスエムイーレコーズ "wikilink")。
+所属[事務所は](../Page/芸能事務所.md "wikilink")[アミューズ](https://ja.wikipedia.org/wiki/アミューズ "wikilink")、[レコード会社は](../Page/レコードレーベル.md "wikilink")[SME Records](../Page/エスエムイーレコーズ.md "wikilink")。
 
 ## 概要
 
-  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、[大阪で出会った](https://ja.wikipedia.org/wiki/大阪市 "wikilink")3人が意気投合し**SKOOP**を結成。
-  - [1996年](../Page/1996年.md "wikilink")2月、制作していたデモテープ（「ACT OF THE FACT」）を送ったことがきっかけで[Sony Recordsと契約](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")。
-  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[シングル](../Page/シングル.md "wikilink")「[No Make de On The Bed](../Page/No_Make_de_On_The_Bed.md "wikilink")」で[メジャーデビュー](https://ja.wikipedia.org/wiki/レコード会社 "wikilink")。その後はコンスタントにシングルを発表しながら[ライブ活動を中心とした活動をして](https://ja.wikipedia.org/wiki/演奏会 "wikilink")、その後に[SME Recordsに移籍](https://ja.wikipedia.org/wiki/エスエムイーレコーズ "wikilink")。
+  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、[大阪で出会った](../Page/大阪市.md "wikilink")3人が意気投合し**SKOOP**を結成。
+  - [1996年](../Page/1996年.md "wikilink")2月、制作していたデモテープ（「ACT OF THE FACT」）を送ったことがきっかけで[Sony Recordsと契約](../Page/ソニー・ミュージックレコーズ.md "wikilink")。
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[シングル](../Page/シングル.md "wikilink")「[No Make de On The Bed](../Page/No_Make_de_On_The_Bed.md "wikilink")」で[メジャーデビュー](../Page/レコード会社.md "wikilink")。その後はコンスタントにシングルを発表しながら[ライブ活動を中心とした活動をして](../Page/演奏会.md "wikilink")、その後に[SME Recordsに移籍](../Page/エスエムイーレコーズ.md "wikilink")。
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[エフエム・ノースウェーブ](../Page/エフエム・ノースウェーブ.md "wikilink")でのレギュラー番組『MOOD 4 LUV』がスタート。
   - 2000年4月、SKOOPで[アルバム](../Page/アルバム.md "wikilink")3枚を発表した後にSkoop Onには「引っ掛ける」という意味があることからSKOOPの「発掘される」から攻めで行こうという考えで**Skoop On Somebody**に改称。
-  - [2001年](../Page/2001年.md "wikilink")シングル「[sha la la](https://ja.wikipedia.org/wiki/sha_la_la "wikilink")」が、ニベア花王・ニベアボディの[CM曲に起用されスマッシュヒットを記録](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。
-  - [2002年](../Page/2002年.md "wikilink")シングル「[ぼくが地球を救う〜Sounds Of Spirit〜](../Page/ぼくが地球を救う〜Sounds_Of_Spirit〜.md "wikilink")」が[TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[ぼくが地球を救う](../Page/ぼくが地球を救う.md "wikilink")』の主題歌に起用され自身初となる[オリコンシングルトップ](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")10入りを記録。広く一般に**Skoop On Somebody**の名が知られるようになる。
+  - [2001年](../Page/2001年.md "wikilink")シングル「[sha la la](https://ja.wikipedia.org/wiki/sha_la_la "wikilink")」が、ニベア花王・ニベアボディの[CM曲に起用されスマッシュヒットを記録](../Page/コマーシャルソング.md "wikilink")。
+  - [2002年](../Page/2002年.md "wikilink")シングル「[ぼくが地球を救う〜Sounds Of Spirit〜](../Page/ぼくが地球を救う〜Sounds_Of_Spirit〜.md "wikilink")」が[TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[ぼくが地球を救う](../Page/ぼくが地球を救う.md "wikilink")』の主題歌に起用され自身初となる[オリコンシングルトップ](../Page/オリコンチャート.md "wikilink")10入りを記録。広く一般に**Skoop On Somebody**の名が知られるようになる。
   - 2006年3月　[東方神起](https://ja.wikipedia.org/wiki/東方神起 "wikilink")　Heart, Mind and Soul
 
 作詞: 小山内舞・S.O.S.、作曲・編曲: S.O.S. 2007年Soul Power Summitで共演
 
-  - アルバム『[Save Our Souls](https://ja.wikipedia.org/wiki/Save_Our_Souls "wikilink")』には、[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")とのコラボレーション曲「Two of A Kind」を収録。
-  - CHEMISTRYの2ndオリジナルアルバム『[Second to None](../Page/Second_to_None.md "wikilink")』の収録曲「[My Gift to You](https://ja.wikipedia.org/wiki/My_Gift_to_You "wikilink")」では、共演・楽曲提供を行った。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")3月31日をもって所属事務所アロハプロダクションズを離脱したと発表される。
-  - 2006年度公開映画『[陽気なギャングが地球を回す](https://ja.wikipedia.org/wiki/陽気なギャングが地球を回す "wikilink")』の主題歌に「How We Do It\!\!\!」がタイアップされる。
+  - アルバム『[Save Our Souls](../Page/Save_Our_Souls.md "wikilink")』には、[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")とのコラボレーション曲「Two of A Kind」を収録。
+  - CHEMISTRYの2ndオリジナルアルバム『[Second to None](../Page/Second_to_None.md "wikilink")』の収録曲「[My Gift to You](../Page/My_Gift_to_You.md "wikilink")」では、共演・楽曲提供を行った。
+  - [2006年](../Page/2006年.md "wikilink")3月31日をもって所属事務所アロハプロダクションズを離脱したと発表される。
+  - 2006年度公開映画『[陽気なギャングが地球を回す](../Page/陽気なギャングが地球を回す.md "wikilink")』の主題歌に「How We Do It\!\!\!」がタイアップされる。
   - [サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の[松田弘](../Page/松田弘.md "wikilink")とは飲み仲間でライブでの競演を果たすほどの仲。実は上京した時に最初に出会った[ミュージシャンであると後に明かしている](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。
   - 2006年[9月20日](../Page/9月20日.md "wikilink")にヴォーカルの**TAKE**が本名名義の「**武田雅治**」で[ソロデビューした](../Page/ソロ_\(音楽\).md "wikilink")。
   - 2006年11月1日付で[アミューズ](https://ja.wikipedia.org/wiki/アミューズ "wikilink")所属となる。
   - [2007年](../Page/2007年.md "wikilink")2月、デビュー10周年となる。
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")8月27日、[三菱自動車](https://ja.wikipedia.org/wiki/三菱自動車 "wikilink")の[デリカD:5](https://ja.wikipedia.org/wiki/デリカD:5 "wikilink")のテレビCM曲として[5月29日](../Page/5月29日.md "wikilink")よりオンエアされていた「[ETERNAL LANDSCAPE](https://ja.wikipedia.org/wiki/ETERNAL_LANDSCAPE "wikilink")」を発売。[織田哲郎](../Page/織田哲郎.md "wikilink")と初のコラボレート作品であり、[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")をS.O.Sが、[作曲](../Page/作曲.md "wikilink")を織田哲郎が担当。また、ボーカルのTAKEが初めてCMナレーションも担当している。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")8月27日、[三菱自動車](https://ja.wikipedia.org/wiki/三菱自動車 "wikilink")の[デリカD:5](https://ja.wikipedia.org/wiki/デリカD:5 "wikilink")のテレビCM曲として[5月29日](../Page/5月29日.md "wikilink")よりオンエアされていた「[ETERNAL LANDSCAPE](https://ja.wikipedia.org/wiki/ETERNAL_LANDSCAPE "wikilink")」を発売。[織田哲郎](../Page/織田哲郎.md "wikilink")と初のコラボレート作品であり、[作詞](../Page/作詞.md "wikilink")をS.O.Sが、[作曲](../Page/作曲.md "wikilink")を織田哲郎が担当。また、ボーカルのTAKEが初めてCMナレーションも担当している。
   - 2008年10月15日、TBS系列愛の劇場『[温泉へGo\!](https://ja.wikipedia.org/wiki/温泉へGo! "wikilink")』（主演は同じアミューズ所属の[加藤貴子](https://ja.wikipedia.org/wiki/加藤貴子_\(女優\) "wikilink")）の主題歌であり、[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")の[新藤晴一](https://ja.wikipedia.org/wiki/新藤晴一 "wikilink")が作詞を手がけた「Q」をリリース。
   - [2009年](../Page/2009年.md "wikilink")4月28日、ドラムのKO-HEYが無期限の音楽活動休止を発表。以降TAKE、KO-ICHIROの2人で活動していくこととなる。
   - [2009年](../Page/2009年.md "wikilink")10月10日公開の映画『[引き出しの中のラブレター](https://ja.wikipedia.org/wiki/引き出しの中のラブレター "wikilink")』の主題歌に『[椛 〜momiji〜](https://ja.wikipedia.org/wiki/椛_〜momiji〜 "wikilink")』がタイアップされる。
   - [2009年](../Page/2009年.md "wikilink")10月、[POKKAの缶コーヒー](https://ja.wikipedia.org/wiki/ポッカ "wikilink")「アロマックス」のCMソングをプロデュース。
   - [2011年](../Page/2011年.md "wikilink")2月20日、KO-HEYが正式に脱退を発表。メンバーは2人となる。
-  - [2011年](../Page/2011年.md "wikilink")3月、シカゴと[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")・[トロント](../Page/トロント.md "wikilink")で[矢野顕子](../Page/矢野顕子.md "wikilink")とジョイントコンサートを開催。メンバーはこの公演の合間に滞在していた[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")で[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")を知る。
-  - [2011年](../Page/2011年.md "wikilink")6月、[鈴木雅之](https://ja.wikipedia.org/wiki/鈴木雅之_\(歌手\) "wikilink")、[ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink")等、SOUL POWER SUMMITで共演するメンバー達と『SOUL POWER ALLSTARS』を結成。期間限定でチャリティソング「WE GOT SOUL POWER」配信
+  - [2011年](../Page/2011年.md "wikilink")3月、シカゴと[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")・[トロント](../Page/トロント.md "wikilink")で[矢野顕子](../Page/矢野顕子.md "wikilink")とジョイントコンサートを開催。メンバーはこの公演の合間に滞在していた[ニューヨーク](../Page/ニューヨーク.md "wikilink")で[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")を知る。
+  - [2011年](../Page/2011年.md "wikilink")6月、[鈴木雅之](../Page/鈴木雅之_\(歌手\).md "wikilink")、[ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink")等、SOUL POWER SUMMITで共演するメンバー達と『SOUL POWER ALLSTARS』を結成。期間限定でチャリティソング「WE GOT SOUL POWER」配信
   - [2012年](../Page/2012年.md "wikilink")10月、TAKEがミュージカル『RENT』のトム・コリンズ役で舞台デビューを果たす。
 
 ## メンバー
@@ -45,7 +45,7 @@
 <!-- end list -->
 
   -
-    [ゴスペル](https://ja.wikipedia.org/wiki/ゴスペル_\(音楽\) "wikilink")[シンガーであるサム](../Page/歌手.md "wikilink")・ジョーンズに師事したのち渡米。滞在中に[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")・ハーレムにて[ボイストレーニング](../Page/ボイストレーニング.md "wikilink")を受ける。帰国後、多彩なライブ活動をこなす。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月20日](../Page/9月20日.md "wikilink")に「**[武田雅治](https://ja.wikipedia.org/wiki/武田雅治 "wikilink")**」としてソロデビューを果たす。以前は[YOKO Black. Stone](https://ja.wikipedia.org/wiki/YOKO_Black._Stone "wikilink")、KO-HEYと一緒に**ROUGE ON HIP**と云うグループも組んでいた。FAVORITE ARTISTは[ダニー・ハサウェイ](https://ja.wikipedia.org/wiki/ダニー・ハサウェイ "wikilink")(Donny Hathaway)である。現在はグループのメンバーとしての活動の傍ら、[ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink")の[村上てつや](https://ja.wikipedia.org/wiki/村上てつや "wikilink")とのユニット[武田と哲也](https://ja.wikipedia.org/wiki/武田と哲也 "wikilink")としての活動、また2012年にはミュージカル「[RENT](../Page/レント_\(ミュージカル\).md "wikilink")」のコリンズ役でミュージカル俳優としてのデビューも果たす。
+    [ゴスペル](https://ja.wikipedia.org/wiki/ゴスペル_\(音楽\) "wikilink")[シンガーであるサム](../Page/歌手.md "wikilink")・ジョーンズに師事したのち渡米。滞在中に[ニューヨーク](../Page/ニューヨーク.md "wikilink")・ハーレムにて[ボイストレーニング](../Page/ボイストレーニング.md "wikilink")を受ける。帰国後、多彩なライブ活動をこなす。[2006年](../Page/2006年.md "wikilink")[9月20日](../Page/9月20日.md "wikilink")に「**[武田雅治](https://ja.wikipedia.org/wiki/武田雅治 "wikilink")**」としてソロデビューを果たす。以前は[YOKO Black. Stone](../Page/YOKO_Black._Stone.md "wikilink")、KO-HEYと一緒に**ROUGE ON HIP**と云うグループも組んでいた。FAVORITE ARTISTは[ダニー・ハサウェイ](../Page/ダニー・ハサウェイ.md "wikilink")(Donny Hathaway)である。現在はグループのメンバーとしての活動の傍ら、[ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink")の[村上てつや](../Page/村上てつや.md "wikilink")とのユニット[武田と哲也](https://ja.wikipedia.org/wiki/武田と哲也 "wikilink")としての活動、また2012年にはミュージカル「[RENT](../Page/レント_\(ミュージカル\).md "wikilink")」のコリンズ役でミュージカル俳優としてのデビューも果たす。
 
 <!-- end list -->
 
@@ -54,16 +54,16 @@
 <!-- end list -->
 
   -
-    6歳の頃から姉と共に[ピアノ](../Page/ピアノ.md "wikilink")を弾き始める。 高校2年の頃に出会った[スティーヴィー・ワンダー](../Page/スティーヴィー・ワンダー.md "wikilink")の音楽に衝撃を受け、バンド活動を開始。[関西学院大学](https://ja.wikipedia.org/wiki/関西学院大学 "wikilink")進学後は軽音楽部に入部し、作曲など多彩な音楽活動を行う。FAVORITE ARTISTは[カーク・フランクリン](../Page/カーク・フランクリン.md "wikilink")(Kirk Franklin)である。現在はグループのメンバーとしての活動の傍ら、[鈴木雅之等のコンサートのバックミュージシャンとしても参加し演奏することもある](https://ja.wikipedia.org/wiki/鈴木雅之_\(歌手\) "wikilink")。
+    6歳の頃から姉と共に[ピアノ](../Page/ピアノ.md "wikilink")を弾き始める。 高校2年の頃に出会った[スティーヴィー・ワンダー](../Page/スティーヴィー・ワンダー.md "wikilink")の音楽に衝撃を受け、バンド活動を開始。[関西学院大学](../Page/関西学院大学.md "wikilink")進学後は軽音楽部に入部し、作曲など多彩な音楽活動を行う。FAVORITE ARTISTは[カーク・フランクリン](../Page/カーク・フランクリン.md "wikilink")(Kirk Franklin)である。現在はグループのメンバーとしての活動の傍ら、[鈴木雅之等のコンサートのバックミュージシャンとしても参加し演奏することもある](../Page/鈴木雅之_\(歌手\).md "wikilink")。
 
 ## 旧メンバー
 
-  - **KO-HEY**（コーヘイ、野上幸平  - 血液型：A型）[ドラム](../Page/ドラムセット.md "wikilink")、[カホン](https://ja.wikipedia.org/wiki/カホン "wikilink")、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
+  - **KO-HEY**（コーヘイ、野上幸平  - 血液型：A型）[ドラム](../Page/ドラムセット.md "wikilink")、[カホン](../Page/カホン.md "wikilink")、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
 
 <!-- end list -->
 
   -
-    高校在学中の頃から[ドラマー](../Page/ドラマー.md "wikilink")としてバンド活動を開始。[近畿大学](https://ja.wikipedia.org/wiki/近畿大学 "wikilink")在学時には[作曲](../Page/作曲.md "wikilink")も開始し、各地の[ラジオ](../Page/ラジオ.md "wikilink")、[CMにジングル提供などを行う](../Page/コマーシャルメッセージ.md "wikilink")。なお、TAKEとは大学の同期。Percussionとして使用される打楽器のCajon（[カホン](https://ja.wikipedia.org/wiki/カホン "wikilink")）は、メイン使用はZO'S Cajonというメーカー。FAVORITE ARTISTは[クインシー・ジョーンズ](../Page/クインシー・ジョーンズ.md "wikilink")(Quincy Jones)である。2009年4月28日、心身の疲れを理由に無期限の音楽活動休止を発表し、その後2011年2月20日に正式に脱退を発表した。2009年の活動休止から大阪で飲食店を経営していたが、2012年11月4日をもって閉店。現在は[中沢ノブヨシ率いる](https://ja.wikipedia.org/wiki/中澤信栄 "wikilink")**The SOUL NATION**のドラマー、また[松藤量平](https://ja.wikipedia.org/wiki/松藤量平 "wikilink")とのユニット**heyhey\!**のパーカッショニストなど多方面で音楽活動復帰を果たしている。また、**Neighbors Complain**の[プロデューサー](../Page/プロデューサー.md "wikilink")としても活動中である。
+    高校在学中の頃から[ドラマー](../Page/ドラマー.md "wikilink")としてバンド活動を開始。[近畿大学](https://ja.wikipedia.org/wiki/近畿大学 "wikilink")在学時には[作曲](../Page/作曲.md "wikilink")も開始し、各地の[ラジオ](../Page/ラジオ.md "wikilink")、[CMにジングル提供などを行う](../Page/コマーシャルメッセージ.md "wikilink")。なお、TAKEとは大学の同期。Percussionとして使用される打楽器のCajon（[カホン](../Page/カホン.md "wikilink")）は、メイン使用はZO'S Cajonというメーカー。FAVORITE ARTISTは[クインシー・ジョーンズ](../Page/クインシー・ジョーンズ.md "wikilink")(Quincy Jones)である。2009年4月28日、心身の疲れを理由に無期限の音楽活動休止を発表し、その後2011年2月20日に正式に脱退を発表した。2009年の活動休止から大阪で飲食店を経営していたが、2012年11月4日をもって閉店。現在は[中沢ノブヨシ率いる](https://ja.wikipedia.org/wiki/中澤信栄 "wikilink")**The SOUL NATION**のドラマー、また[松藤量平](https://ja.wikipedia.org/wiki/松藤量平 "wikilink")とのユニット**heyhey\!**のパーカッショニストなど多方面で音楽活動復帰を果たしている。また、**Neighbors Complain**の[プロデューサー](../Page/プロデューサー.md "wikilink")としても活動中である。
 
 ## ディスコグラフィー
 
@@ -109,7 +109,7 @@
 <td><p><strong><a href="../Page/壊したい.md" title="wikilink">壊したい</a></strong></p></td>
 <td><p>SRDL-4527<br />
 SECL-151:リサイズ盤</p></td>
-<td><p>プロボクサー<a href="https://ja.wikipedia.org/wiki/加山利治" title="wikilink">加山利治</a>が入場曲に使用。</p></td>
+<td><p>プロボクサー<a href="../Page/加山利治.md" title="wikilink">加山利治</a>が入場曲に使用。</p></td>
 </tr>
 <tr class="odd">
 <td><p>5th</p></td>
@@ -138,7 +138,7 @@ SECL-152:リサイズ盤</p></td>
 <tr class="even">
 <td><p>8th</p></td>
 <td><p>1999年7月23日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Amanogawa" title="wikilink">Amanogawa</a></strong></p></td>
+<td><p><strong><a href="../Page/Amanogawa.md" title="wikilink">Amanogawa</a></strong></p></td>
 <td><p>SRCL-4569</p></td>
 <td><p>SKOOP名義最後のシングル。</p></td>
 </tr>
@@ -419,7 +419,7 @@ SECL-1024:通常盤</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Every_Kiss,_Every_Lies" title="wikilink">Every Kiss, Every Lies</a></strong></p></td>
 <td><p>SECL-2158~2159:初回生産限定盤<br />
 SECL-2160:通常盤</p></td>
-<td><p>表題曲は<a href="https://ja.wikipedia.org/wiki/久保田利伸" title="wikilink">久保田利伸</a>による楽曲提供。<br />
+<td><p>表題曲は<a href="../Page/久保田利伸.md" title="wikilink">久保田利伸</a>による楽曲提供。<br />
 オリコン64位</p></td>
 </tr>
 <tr class="odd">
@@ -469,7 +469,7 @@ SECL-2160:通常盤</p></td>
 <tr class="odd">
 <td><p>3rd</p></td>
 <td><p>1999年8月21日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Where_do_we_go" title="wikilink">Where do we go</a></strong></p></td>
+<td><p><strong><a href="../Page/Where_do_we_go.md" title="wikilink">Where do we go</a></strong></p></td>
 <td><p>SRCL-4588</p></td>
 <td></td>
 </tr>
@@ -483,7 +483,7 @@ SECL-2160:通常盤</p></td>
 <tr class="odd">
 <td><p>5th</p></td>
 <td><p>2002年9月26日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Save_Our_Souls" title="wikilink">Save Our Souls</a></strong></p></td>
+<td><p><strong><a href="../Page/Save_Our_Souls.md" title="wikilink">Save Our Souls</a></strong></p></td>
 <td><p>SRCL-5432:初回生産限定盤<br />
 SRCL-5434:通常盤<br />
 SRJL-1067:LP</p></td>
@@ -563,7 +563,7 @@ SECL-2223:通常盤</p></td>
 <tr class="odd">
 <td><p>セルフカバー&amp;バラードコレクション</p></td>
 <td><p>2001年12月5日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Nice&#39;n_Slow_Jam" title="wikilink">Nice'n Slow Jam</a></strong></p></td>
+<td><p><strong><a href="../Page/Nice&#39;n_Slow_Jam.md" title="wikilink">Nice'n Slow Jam</a></strong></p></td>
 <td><p>SRCL-5256</p></td>
 <td><p>オリコン9位</p></td>
 </tr>
@@ -740,7 +740,7 @@ SEBL-115:通常盤DVD</p></td>
 <tbody>
 <tr class="odd">
 <td><p>1999年4月28日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/嶋野百恵" title="wikilink">嶋野百恵</a>『5.3.1.』</p></td>
+<td><p><a href="../Page/嶋野百恵.md" title="wikilink">嶋野百恵</a>『5.3.1.』</p></td>
 <td><p>PCCA-01329</p></td>
 <td><p>Everything (I see) featuring SKOOP</p></td>
 </tr>
@@ -784,13 +784,13 @@ SEBL-115:通常盤DVD</p></td>
 </tr>
 <tr class="even">
 <td><p>2002年10月30日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SAKURA_(歌手)" title="wikilink">SAKURA</a>『ラヴをばらまこう』</p></td>
+<td><p><a href="../Page/SAKURA_(歌手).md" title="wikilink">SAKURA</a>『ラヴをばらまこう』</p></td>
 <td><p>TOCT-4426</p></td>
 <td><p>ラヴをばらまこう (コーラス参加)</p></td>
 </tr>
 <tr class="odd">
 <td><p>2002年12月18日</p></td>
-<td><p><a href="../Page/CHEMISTRY.md" title="wikilink">CHEMISTRY</a>『<a href="https://ja.wikipedia.org/wiki/My_Gift_to_You" title="wikilink">My Gift to You</a>』</p></td>
+<td><p><a href="../Page/CHEMISTRY.md" title="wikilink">CHEMISTRY</a>『<a href="../Page/My_Gift_to_You.md" title="wikilink">My Gift to You</a>』</p></td>
 <td><p>DFCL-1090</p></td>
 <td><p>My Gift to You (CHEMISTRY meets S.O.S.)</p></td>
 </tr>
@@ -856,7 +856,7 @@ SEBL-115:通常盤DVD</p></td>
 </tr>
 <tr class="even">
 <td><p>2006年5月10日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/陽気なギャングが地球を回す" title="wikilink">陽気なギャングが地球を回す</a> オリジナル・サウンドトラック</p></td>
+<td><p><a href="../Page/陽気なギャングが地球を回す.md" title="wikilink">陽気なギャングが地球を回す</a> オリジナル・サウンドトラック</p></td>
 <td><p>SECL-387</p></td>
 <td><p>How We Do It</p></td>
 </tr>
@@ -898,19 +898,19 @@ SEBL-115:通常盤DVD</p></td>
 </tr>
 <tr class="odd">
 <td><p>2007年1月17日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/佐藤竹善" title="wikilink">佐藤竹善</a> &amp; Friends『introducing CROSS YOUR FINGERS VOL.2』</p></td>
+<td><p><a href="../Page/佐藤竹善.md" title="wikilink">佐藤竹善</a> &amp; Friends『introducing CROSS YOUR FINGERS VOL.2』</p></td>
 <td><p>UPCH-1532</p></td>
 <td><p>amanogawa -with Skoop On Somebody</p></td>
 </tr>
 <tr class="even">
 <td><p>2007年3月7日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/鈴木雅之_(歌手)" title="wikilink">鈴木雅之</a>『<a href="../Page/Champagne_Royale.md" title="wikilink">Champagne Royale</a>』</p></td>
+<td><p><a href="../Page/鈴木雅之_(歌手).md" title="wikilink">鈴木雅之</a>『<a href="../Page/Champagne_Royale.md" title="wikilink">Champagne Royale</a>』</p></td>
 <td><p>ESCL-2919</p></td>
 <td><p>フラッシュバック（コーラス参加）</p></td>
 </tr>
 <tr class="odd">
 <td><p>2007年6月20日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Tama_(ベーシスト)" title="wikilink">Tama</a>『<a href="../Page/Natural_Born.md" title="wikilink">Natural Born</a>』</p></td>
+<td><p><a href="../Page/Tama_(ベーシスト).md" title="wikilink">Tama</a>『<a href="../Page/Natural_Born.md" title="wikilink">Natural Born</a>』</p></td>
 <td><p>SECL-509</p></td>
 <td><p>燃えている光 （Featuring TAKE from Skoop On Somebody）</p></td>
 </tr>
@@ -998,7 +998,7 @@ SEBL-115:通常盤DVD</p></td>
 -The 42nd TOKYO MOTOR SHOW 2011 OFFICIAL ALBUM Remixed by Piston Nishizawa-</p></td>
 <td><p>AICL-2323</p></td>
 <td><p>eternal snow (remix)<br />
-『<a href="https://ja.wikipedia.org/wiki/Nice&#39;n_Slow_Jam" title="wikilink">Nice'n Slow Jam</a>』収録のものとは別バージョン</p></td>
+『<a href="../Page/Nice&#39;n_Slow_Jam.md" title="wikilink">Nice'n Slow Jam</a>』収録のものとは別バージョン</p></td>
 </tr>
 <tr class="even">
 <td><p>2012年4月18日</p></td>
@@ -1032,7 +1032,7 @@ TOCT-28059</p></td>
 
 ### テレビ
 
-  - 音楽専門チャンネル[MUSIC ON\! TVの番組](https://ja.wikipedia.org/wiki/MUSIC_ON!_TV "wikilink")『Make On The Holiday\!』内でのレギュラーコーナー「男のウデジMAN（※放送終了）」に出演。毎回料理に挑戦。毎週土曜日13:00〜15:00（リピート放送あり）
+  - 音楽専門チャンネル[MUSIC ON\! TVの番組](../Page/MUSIC_ON!_TV.md "wikilink")『Make On The Holiday\!』内でのレギュラーコーナー「男のウデジMAN（※放送終了）」に出演。毎回料理に挑戦。毎週土曜日13:00〜15:00（リピート放送あり）
 
 ### ラジオ
 
@@ -1055,7 +1055,7 @@ TOCT-28059</p></td>
 | [小柳祐介](https://ja.wikipedia.org/wiki/小柳祐介 "wikilink")＋[永戸鉄也](https://ja.wikipedia.org/wiki/永戸鉄也 "wikilink") | 「ETERNAL LANDSCAPE」                                                                       |
 | [島田大介](../Page/島田大介.md "wikilink")                                                                          | 「最後の夜明け」                                                                                  |
 | [潮千穂](https://ja.wikipedia.org/wiki/潮千穂 "wikilink")                                                         | 「[eternal snow](https://www.youtube.com/watch?v=dI5tz8xnlmw)」                             |
-| [嶋村順二](https://ja.wikipedia.org/wiki/嶋村順二 "wikilink")                                                       | 「Dot To Tha Dot」                                                                          |
+| [嶋村順二](../Page/嶋村順二.md "wikilink")                                                                          | 「Dot To Tha Dot」                                                                          |
 | [セキ★リュウジ](https://ja.wikipedia.org/wiki/セキ★リュウジ "wikilink")                                                 | 「[線香花火](https://www.youtube.com/watch?v=R4zUBMqc-s4)」「琥珀の月」                               |
 | [高田弘隆](https://ja.wikipedia.org/wiki/高田弘隆 "wikilink")                                                       | 「街に愛があふれて…」                                                                               |
 | [DAVID春山](https://ja.wikipedia.org/wiki/DAVID春山 "wikilink")                                                 | 「Shining Days」                                                                            |
@@ -1071,18 +1071,18 @@ TOCT-28059</p></td>
   - [CHEMISTRY](../Page/CHEMISTRY.md "wikilink") - [ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")オーディションでの課題曲で「[ama-oto](https://ja.wikipedia.org/wiki/ama-oto "wikilink")」を歌う。後に[僕らの音楽](https://ja.wikipedia.org/wiki/僕らの音楽 "wikilink")出演時に披露。また、KO-HEYが「[Motherland](../Page/The_Way_We_Are.md "wikilink")」「[Ordinary hero](../Page/One×One.md "wikilink")」にドラムで参加。
   - [平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink") - 「Everlasting Love」にコーラスとして参加。
   - [松田弘](../Page/松田弘.md "wikilink") - [サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")のドラマー。3人が上京して初めて会った[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")であり、プライベートでも親交がある。KO-HEY脱退後、ライブ・イベントでドラマーとして参加。
-  - [LL BROTHERS](https://ja.wikipedia.org/wiki/LL_BROTHERS "wikilink") - [バラ色のPVに一部出演](https://ja.wikipedia.org/wiki/バラ色_\(SKOOPの曲\) "wikilink")。
-  - [古内東子](https://ja.wikipedia.org/wiki/古内東子 "wikilink") - 「[Long for You](https://ja.wikipedia.org/wiki/Save_Our_Souls "wikilink")」、「[Set me free](https://ja.wikipedia.org/wiki/STAY_or_SHINE "wikilink")」、「[人魚の恋](https://ja.wikipedia.org/wiki/Shining_Days "wikilink")」の作詞を担当。
-  - [崎谷健次郎](https://ja.wikipedia.org/wiki/崎谷健次郎 "wikilink") - カヴァーシングル「[もう一度夜をとめて](https://ja.wikipedia.org/wiki/誰かが君を想ってる "wikilink")」を通じて知り合う。
+  - [LL BROTHERS](../Page/LL_BROTHERS.md "wikilink") - [バラ色のPVに一部出演](https://ja.wikipedia.org/wiki/バラ色_\(SKOOPの曲\) "wikilink")。
+  - [古内東子](https://ja.wikipedia.org/wiki/古内東子 "wikilink") - 「[Long for You](../Page/Save_Our_Souls.md "wikilink")」、「[Set me free](https://ja.wikipedia.org/wiki/STAY_or_SHINE "wikilink")」、「[人魚の恋](https://ja.wikipedia.org/wiki/Shining_Days "wikilink")」の作詞を担当。
+  - [崎谷健次郎](../Page/崎谷健次郎.md "wikilink") - カヴァーシングル「[もう一度夜をとめて](https://ja.wikipedia.org/wiki/誰かが君を想ってる "wikilink")」を通じて知り合う。
   - [松尾潔](https://ja.wikipedia.org/wiki/松尾潔 "wikilink") - デビュー当時から3人をよく知る。2002～2004年頃までプロデューサーを勤めた。アルバム『Singles 2002～1997』では愛情深いライナーノーツを寄せている。
   - JiN - アマチュア時代からの旧友かつ同志であり、「Brown Eyed Soul feat. JIN」や「My Life ～風に吹かれて」等の楽曲提供及びゲストボーカルとして参加している。
-  - [佐藤竹善](https://ja.wikipedia.org/wiki/佐藤竹善 "wikilink")（[Sing Like Talking](https://ja.wikipedia.org/wiki/Sing_Like_Talking "wikilink")）- 「[amanogawa](https://ja.wikipedia.org/wiki/amanogawa "wikilink")」を気に入り、自身もカバーしている。
+  - [佐藤竹善](../Page/佐藤竹善.md "wikilink")（[Sing Like Talking](https://ja.wikipedia.org/wiki/Sing_Like_Talking "wikilink")）- 「[amanogawa](https://ja.wikipedia.org/wiki/amanogawa "wikilink")」を気に入り、自身もカバーしている。
   - [SOUL'd OUT](../Page/SOUL'd_OUT.md "wikilink") - 同じレコード会社に所属。SONY MUSIC FES.をきっかけに作られた「[Dot To Tha Dot](https://ja.wikipedia.org/wiki/Dot_To_Tha_Dot "wikilink")」でコラボ。
-  - [Tama](https://ja.wikipedia.org/wiki/Tama_\(ベーシスト\) "wikilink")（元[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")） - 同じレコード会社と事務所に所属。「燃えている光」にTAKEがゲストボーカルとして参加。
+  - [Tama](../Page/Tama_\(ベーシスト\).md "wikilink")（元[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")） - 同じレコード会社と事務所に所属。「燃えている光」にTAKEがゲストボーカルとして参加。
   - [東方神起](https://ja.wikipedia.org/wiki/東方神起 "wikilink") - 「[Heart, Mind and Soul](https://ja.wikipedia.org/wiki/Heart,_Mind_and_Soul "wikilink")」楽曲提供。「S.O.Sを尊敬しているので嬉しい」とのコメントあり。
   - [ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink") - 数々のイベントで共演し、公私共に良き仲間である。
-  - [久保田利伸](https://ja.wikipedia.org/wiki/久保田利伸 "wikilink") - リスペクトを込め、久保田利伸トリビュートアルバムでは「[Cry On Your Smile](https://ja.wikipedia.org/wiki/Cry_On_Your_Smile "wikilink")」で参加している。
-  - [鈴木雅之](https://ja.wikipedia.org/wiki/鈴木雅之_\(歌手\) "wikilink") - TAKEがアルバムにコーラス参加したり、鈴木雅之トリビュートアルバムでは「[FIRST LOVE](https://ja.wikipedia.org/wiki/FIRST_LOVE_\(鈴木雅之の曲\) "wikilink")」で参加している。
+  - [久保田利伸](../Page/久保田利伸.md "wikilink") - リスペクトを込め、久保田利伸トリビュートアルバムでは「[Cry On Your Smile](https://ja.wikipedia.org/wiki/Cry_On_Your_Smile "wikilink")」で参加している。
+  - [鈴木雅之](../Page/鈴木雅之_\(歌手\).md "wikilink") - TAKEがアルバムにコーラス参加したり、鈴木雅之トリビュートアルバムでは「[FIRST LOVE](https://ja.wikipedia.org/wiki/FIRST_LOVE_\(鈴木雅之の曲\) "wikilink")」で参加している。
   - [コブクロ](https://ja.wikipedia.org/wiki/コブクロ "wikilink") - 数々のイベントで共演し、互いにリスペクトし合う良き仲間である。
   - [和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink") - 「(Everything Will Be) All Right」でコラボ。
   - [織田哲郎](../Page/織田哲郎.md "wikilink") - 「[ETERNAL LANDSCAPE](https://ja.wikipedia.org/wiki/ETERNAL_LANDSCAPE "wikilink")」でコラボ。
@@ -1090,8 +1090,8 @@ TOCT-28059</p></td>
   - [大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink") - 「[LUXURY 22-24pm](https://ja.wikipedia.org/wiki/LUXURY_22-24pm "wikilink")」の初回盤ボーナスCD収録「Beauty And The Beast」にTAKEがゲストボーカルとして参加。
   - [ミトカツユキ](../Page/ミトカツユキ.md "wikilink") - 1st アルバム「THE PIANO MAN」の3曲目「SHINE feat.TAKE from Skoop On Somebody,JiN」にTAKEがゲストボーカルとして参加。
   - [つるの剛士](https://ja.wikipedia.org/wiki/つるの剛士 "wikilink") - TAKEが「[つるのうた](https://ja.wikipedia.org/wiki/つるのうた "wikilink")」収録の「[WINDING ROAD](../Page/WINDING_ROAD_\(絢香×コブクロの曲\).md "wikilink")」にゲストボーカルとして参加。
-  - [新堂冬樹](https://ja.wikipedia.org/wiki/新堂冬樹 "wikilink") - 「恋雨 feat. WHEE」、「秋恋」の作詞を担当。
-  - [はるな愛](https://ja.wikipedia.org/wiki/はるな愛 "wikilink") - TV番組等での共演により親交が深まり、「どんなに離れても」のPVに出演。また、はるなが[性別適合手術](https://ja.wikipedia.org/wiki/性別適合手術 "wikilink")の相談を持ちかけたのがTAKEの実父というつながりもある。
+  - [新堂冬樹](../Page/新堂冬樹.md "wikilink") - 「恋雨 feat. WHEE」、「秋恋」の作詞を担当。
+  - [はるな愛](../Page/はるな愛.md "wikilink") - TV番組等での共演により親交が深まり、「どんなに離れても」のPVに出演。また、はるなが[性別適合手術](../Page/性別適合手術.md "wikilink")の相談を持ちかけたのがTAKEの実父というつながりもある。
   - [Crystal Kay](https://ja.wikipedia.org/wiki/Crystal_Kay "wikilink")、[広瀬香美](https://ja.wikipedia.org/wiki/広瀬香美 "wikilink")、[Alice](https://ja.wikipedia.org/wiki/Alice "wikilink")、[夏川りみ](https://ja.wikipedia.org/wiki/夏川りみ "wikilink")、[May J.](https://ja.wikipedia.org/wiki/May_J. "wikilink")、[多和田えみ](https://ja.wikipedia.org/wiki/多和田えみ "wikilink")、[松尾依里佳](../Page/松尾依里佳.md "wikilink") - S.O.S. Duets収録の各曲でコラボ
   - [関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink") - 「[青春ノスタルジー](https://ja.wikipedia.org/wiki/JUKE_BOX "wikilink")」楽曲提供、「[The Covers](https://ja.wikipedia.org/wiki/The_Covers "wikilink")」にて[渋谷すばる](https://ja.wikipedia.org/wiki/渋谷すばる "wikilink")とコラボ。
 

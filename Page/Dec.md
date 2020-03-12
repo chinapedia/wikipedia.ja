@@ -3,7 +3,7 @@
 
 **DEC**() は、一日の有効通行量、つまり、[屋外広告物](https://ja.wikipedia.org/wiki/屋外広告物 "wikilink")の前を通行する一日の人数のこと。国際的に利用されている[指標](https://ja.wikipedia.org/wiki/指標 "wikilink")である。
 
-アメリカでは広告主、広告代理業、アメリカ屋外広告協会で組織された「TAB (Traffic Audit Bureau) 」でDECを管理している。日本では大学教授、広告代理業、屋外広告業界で組織された「[日本屋外広告フォーラム](https://ja.wikipedia.org/wiki/日本屋外広告フォーラム "wikilink")（旧・屋外広告調査フォーラム）」で策定され、管理されている。媒体[露出段階の](https://ja.wikipedia.org/wiki/露出_\(宣伝\) "wikilink")[広告](../Page/広告.md "wikilink")[効果](https://ja.wikipedia.org/wiki/効果 "wikilink")指標として、テレビに[視聴率](../Page/視聴率.md "wikilink")があるように[屋外広告](https://ja.wikipedia.org/wiki/屋外広告 "wikilink")にDECがあることによって「屋外広告」は効果測定指標を持っている[広告媒体](https://ja.wikipedia.org/wiki/広告媒体 "wikilink")として位置づけられつつある。
+アメリカでは広告主、広告代理業、アメリカ屋外広告協会で組織された「TAB (Traffic Audit Bureau) 」でDECを管理している。日本では大学教授、広告代理業、屋外広告業界で組織された「[日本屋外広告フォーラム](https://ja.wikipedia.org/wiki/日本屋外広告フォーラム "wikilink")（旧・屋外広告調査フォーラム）」で策定され、管理されている。媒体[露出段階の](https://ja.wikipedia.org/wiki/露出_\(宣伝\) "wikilink")[広告](../Page/広告.md "wikilink")[効果](../Page/効果.md "wikilink")指標として、テレビに[視聴率](../Page/視聴率.md "wikilink")があるように[屋外広告](https://ja.wikipedia.org/wiki/屋外広告 "wikilink")にDECがあることによって「屋外広告」は効果測定指標を持っている[広告媒体](https://ja.wikipedia.org/wiki/広告媒体 "wikilink")として位置づけられつつある。
 
 欧米ではポスターボードがネットワーク化されているので媒体露出段階のDECは有効な指標であるが、日本の場合、屋外広告物単体で取引されることが多く、クライアントはDECだけでは満足せず、広告物の[認知](../Page/認知.md "wikilink")効果を望んでいる。しかし、認知効果はそのつど測定するか、あるいはデータを積み重ねていって推定するしかない。
 
@@ -20,7 +20,7 @@
 ## 関連項目
 
   - [マーケティング・コミュニケーション](../Page/マーケティング・コミュニケーション.md "wikilink")
-  - [デジタルサイネージ](https://ja.wikipedia.org/wiki/デジタルサイネージ "wikilink")
+  - [デジタルサイネージ](../Page/デジタルサイネージ.md "wikilink")
   - [屋外広告](https://ja.wikipedia.org/wiki/屋外広告 "wikilink")
   - [広告](../Page/広告.md "wikilink")
   - [露出 (宣伝)](https://ja.wikipedia.org/wiki/露出_\(宣伝\) "wikilink")

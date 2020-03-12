@@ -3,7 +3,7 @@
 
 **D-51のNO MORE RADIO**（**ディーゴーイチのノー・モア・レディオ**）は、[D-51](../Page/D-51.md "wikilink")のYU（上里優）とYASU（吉田安英）のレギュラー番組である。全国の[JFN系列](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")21局で放送されていた。
 
-放送期間は[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")10月から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")9月。2005年2月に発売し、大ヒット、ブレイクのきっかけとなった曲「NO MORE CRY」が番組名の由来である。番組内では**三横一村**（みつよこいちむら）と副題が入るが、タイムテーブルなどでは表記されない。
+放送期間は[2005年](../Page/2005年.md "wikilink")10月から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")9月。2005年2月に発売し、大ヒット、ブレイクのきっかけとなった曲「NO MORE CRY」が番組名の由来である。番組内では**三横一村**（みつよこいちむら）と副題が入るが、タイムテーブルなどでは表記されない。
 
 ## コーナー
 
@@ -22,10 +22,10 @@
   - [Boy-FM](../Page/エフエム山形.md "wikilink") 火 20:00
   - [FMぐんま](../Page/エフエム群馬.md "wikilink") 土 12:00 短縮バージョン
   - [RADIO BERRY](https://ja.wikipedia.org/wiki/エフエム栃木 "wikilink")　水　21：00
-  - [FM-NIIGATA](https://ja.wikipedia.org/wiki/エフエムラジオ新潟 "wikilink") 火 19:00
-  - [FMとやま](https://ja.wikipedia.org/wiki/富山エフエム放送 "wikilink") 日 24:30
+  - [FM-NIIGATA](../Page/エフエムラジオ新潟.md "wikilink") 火 19:00
+  - [FMとやま](../Page/富山エフエム放送.md "wikilink") 日 24:30
   - [HELLO FIVE](../Page/エフエム石川.md "wikilink") 月 20:30
-  - [FM福井](https://ja.wikipedia.org/wiki/福井エフエム放送 "wikilink") 水 21:00
+  - [FM福井](../Page/福井エフエム放送.md "wikilink") 水 21:00
   - [Radio80](https://ja.wikipedia.org/wiki/岐阜エフエム放送 "wikilink") 日 21:30　短縮バージョン（2007年10月～）
   - [radio CUBE FM三重](https://ja.wikipedia.org/wiki/三重エフエム放送 "wikilink") 月 20:00
   - [e-radio](../Page/エフエム滋賀.md "wikilink") 日 18:30　短縮バージョン

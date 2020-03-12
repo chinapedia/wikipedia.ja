@@ -1,7 +1,7 @@
 > この記事は[UP!!](https://ja.wikipedia.org/wiki/UP!!)から翻訳されています。
 
 
-**土井淳の元気UP\!朝一番\!**（**どいきよしのげんきアップあさいちばん**）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")〜[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月](../Page/9月.md "wikilink")まで[ニッポン放送](../Page/ニッポン放送.md "wikilink")の制作で19年放送された[ラジオの](../Page/ラジオ番組.md "wikilink")[ミニ番組](https://ja.wikipedia.org/wiki/ミニ番組 "wikilink")である。同局では放送されておらず、各地方局において、タイトル通り[月曜日](../Page/月曜日.md "wikilink")〜[金曜日](../Page/金曜日.md "wikilink")までの早朝に[裏送り](https://ja.wikipedia.org/wiki/裏送り "wikilink")方式の[テープネット](https://ja.wikipedia.org/wiki/テープネット "wikilink")で放送された。現在、一部の局においてこの番組が放送されていた時間帯は[森野熊八](../Page/森野熊八.md "wikilink")がパーソナリティーを勤める[森野熊八〜ワンダフルキッチン〜](https://ja.wikipedia.org/wiki/森野熊八〜ワンダフルキッチン〜 "wikilink")が放送されている。
+**土井淳の元気UP\!朝一番\!**（**どいきよしのげんきアップあさいちばん**）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")〜[2006年](../Page/2006年.md "wikilink")[9月](../Page/9月.md "wikilink")まで[ニッポン放送](../Page/ニッポン放送.md "wikilink")の制作で19年放送された[ラジオの](../Page/ラジオ番組.md "wikilink")[ミニ番組](../Page/ミニ番組.md "wikilink")である。同局では放送されておらず、各地方局において、タイトル通り[月曜日](../Page/月曜日.md "wikilink")〜[金曜日](../Page/金曜日.md "wikilink")までの早朝に[裏送り](../Page/裏送り.md "wikilink")方式の[テープネット](../Page/テープネット.md "wikilink")で放送された。現在、一部の局においてこの番組が放送されていた時間帯は[森野熊八](../Page/森野熊八.md "wikilink")がパーソナリティーを勤める[森野熊八〜ワンダフルキッチン〜](https://ja.wikipedia.org/wiki/森野熊八〜ワンダフルキッチン〜 "wikilink")が放送されている。
 
 パーソナリティーは番組開始当初は当時同局野球解説者であった[土橋正幸](../Page/土橋正幸.md "wikilink")だったが、[1992年](../Page/1992年.md "wikilink")[日本ハムファイターズ監督就任に伴い降板](../Page/北海道日本ハムファイターズ.md "wikilink")。後任に野球評論家の[土井淳](../Page/土井淳.md "wikilink")が就任した。アシスタントは[伊藤まゆ子](https://ja.wikipedia.org/wiki/伊藤まゆ子 "wikilink")。
 
@@ -14,11 +14,11 @@
   - [青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")
   - [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")
   - [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")
-  - [茨城放送](https://ja.wikipedia.org/wiki/茨城放送 "wikilink")
+  - [茨城放送](../Page/茨城放送.md "wikilink")
   - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")
   - [京都放送](../Page/京都放送.md "wikilink")
   - [中部日本放送](../Page/CBCラジオ.md "wikilink")
-  - [ラジオ大阪](https://ja.wikipedia.org/wiki/大阪放送 "wikilink")
+  - [ラジオ大阪](../Page/大阪放送.md "wikilink")
   - [山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")
   - [中国放送](../Page/中国放送.md "wikilink")
   - [山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")

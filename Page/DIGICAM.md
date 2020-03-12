@@ -28,10 +28,10 @@ SDカードに主力が移ったため、2008年限りでDVモデルは生産を
 
 ## 関連項目
 
-  - [ハンディカム](https://ja.wikipedia.org/wiki/ハンディカム "wikilink")（[ソニー](../Page/ソニー.md "wikilink")）- 対抗ブランド
-  - [Everio](https://ja.wikipedia.org/wiki/Everio "wikilink")（[日本ビクター](../Page/日本ビクター.md "wikilink")）- 対抗ブランド
+  - [ハンディカム](../Page/ハンディカム.md "wikilink")（[ソニー](../Page/ソニー.md "wikilink")）- 対抗ブランド
+  - [Everio](../Page/Everio.md "wikilink")（[日本ビクター](../Page/日本ビクター.md "wikilink")）- 対抗ブランド
   - [マックロード](../Page/マックロード.md "wikilink")ムービー
-  - [パナソニックのVTRの歴史](https://ja.wikipedia.org/wiki/パナソニックのVTRの歴史 "wikilink")
+  - [パナソニックのVTRの歴史](../Page/パナソニックのVTRの歴史.md "wikilink")
   - [パナソニックのビデオカメラ一覧](https://ja.wikipedia.org/wiki/パナソニックのビデオカメラ一覧 "wikilink")
   - [ビデオカメラ](../Page/ビデオカメラ.md "wikilink")
   - [カムコーダ](../Page/カムコーダ.md "wikilink")

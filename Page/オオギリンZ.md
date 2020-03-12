@@ -6,15 +6,15 @@
 ## 概要
 
   - 3人のお笑いタレント（コンビだとボケの方）と1人のお笑い素人（芸能人）が同じ問題に答え、審査員がジャッジし答えた芸人の順位を決める新感覚大喜利。
-  - 順位によって席が上下する。（第19回『[全国高等学校クイズ選手権](https://ja.wikipedia.org/wiki/全国高等学校クイズ選手権 "wikilink")』準決勝のアップダウンクイズのセットを使っている為）
+  - 順位によって席が上下する。（第19回『[全国高等学校クイズ選手権](../Page/全国高等学校クイズ選手権.md "wikilink")』準決勝のアップダウンクイズのセットを使っている為）
   - お笑い素人よりも下の順位のお笑いタレントは、「TV史上初の恥ずかしめ」屈辱的な罰ゲームを受ける。
   - プロデューサーは、『[ダウンタウンのガキの使いやあらへんで\!\!](https://ja.wikipedia.org/wiki/ダウンタウンのガキの使いやあらへんで!! "wikilink")』の監修者、[柳岡秀一](https://ja.wikipedia.org/wiki/柳岡秀一 "wikilink")。
 
 ## 放送日時・出演者
 
-  - 2005年4月2日[バリューナイトフィーバー](https://ja.wikipedia.org/wiki/バリューナイトフィーバー "wikilink")枠
+  - 2005年4月2日[バリューナイトフィーバー](../Page/バリューナイトフィーバー.md "wikilink")枠
       - [スピードワゴン](../Page/スピードワゴン.md "wikilink")、[インパルス](https://ja.wikipedia.org/wiki/インパルス_\(お笑い\) "wikilink")、[竹山隆範](https://ja.wikipedia.org/wiki/竹山隆範 "wikilink")(カンニング)
-      - お笑い素人・[ウエンツ瑛士](https://ja.wikipedia.org/wiki/ウエンツ瑛士 "wikilink")
+      - お笑い素人・[ウエンツ瑛士](../Page/ウエンツ瑛士.md "wikilink")
       - アシスタント・審査員:[山口もえ](https://ja.wikipedia.org/wiki/山口もえ "wikilink")
       - 審査員:[清水ミチコ](../Page/清水ミチコ.md "wikilink")
   - 2005年4月9日バリューナイトフィーバー枠
@@ -22,15 +22,15 @@
       - お笑い素人・[KABA.ちゃん](../Page/KABA.ちゃん.md "wikilink")、ウエンツ瑛士
       - アシスタント・審査員:[安めぐみ](https://ja.wikipedia.org/wiki/安めぐみ "wikilink")
       - 審査員・[YOU](https://ja.wikipedia.org/wiki/YOU_\(タレント\) "wikilink")
-  - 司会・自称お笑い素人:[藤井恒久](https://ja.wikipedia.org/wiki/藤井恒久 "wikilink")（日本テレビアナウンサー）
+  - 司会・自称お笑い素人:[藤井恒久](../Page/藤井恒久.md "wikilink")（日本テレビアナウンサー）
   - 2006年1月1日（[大笑点](../Page/大笑点.md "wikilink")で生放送）
-      - 司会・[さまぁ〜ず](../Page/さまぁ〜ず.md "wikilink")、[阿部哲子](https://ja.wikipedia.org/wiki/阿部哲子 "wikilink")アナウンサー
+      - 司会・[さまぁ〜ず](../Page/さまぁ〜ず.md "wikilink")、[阿部哲子](../Page/阿部哲子.md "wikilink")アナウンサー
       - 13:30-13:50ごろ
-          - インパルス板倉俊之、[南海キャンディーズ](https://ja.wikipedia.org/wiki/南海キャンディーズ "wikilink")しずちゃん、[レイザーラモンHG](https://ja.wikipedia.org/wiki/住谷正樹 "wikilink")、[だいたひかる](../Page/だいたひかる.md "wikilink")
+          - インパルス板倉俊之、[南海キャンディーズ](../Page/南海キャンディーズ.md "wikilink")しずちゃん、[レイザーラモンHG](https://ja.wikipedia.org/wiki/住谷正樹 "wikilink")、[だいたひかる](../Page/だいたひかる.md "wikilink")
           - お笑い素人:[小倉優子](https://ja.wikipedia.org/wiki/小倉優子 "wikilink")、（VTR出演）[横峯良郎](https://ja.wikipedia.org/wiki/横峯良郎 "wikilink")
           - 審査員:[MEGUMI](https://ja.wikipedia.org/wiki/MEGUMI "wikilink")
       - 16:20-16:40ごろ
-          - [次長課長](https://ja.wikipedia.org/wiki/次長課長 "wikilink")河本準一、[レギュラー松本](https://ja.wikipedia.org/wiki/レギュラー_\(お笑い\) "wikilink")、[友近](../Page/友近.md "wikilink")、[ドランクドラゴン](https://ja.wikipedia.org/wiki/ドランクドラゴン "wikilink")、[森三中](../Page/森三中.md "wikilink")大島美幸
+          - [次長課長](https://ja.wikipedia.org/wiki/次長課長 "wikilink")河本準一、[レギュラー松本](../Page/レギュラー_\(お笑い\).md "wikilink")、[友近](../Page/友近.md "wikilink")、[ドランクドラゴン](../Page/ドランクドラゴン.md "wikilink")、[森三中](../Page/森三中.md "wikilink")大島美幸
           - お笑い素人:[長瀬智也](../Page/長瀬智也.md "wikilink")
           - 審査員・[小池栄子](https://ja.wikipedia.org/wiki/小池栄子 "wikilink")
 

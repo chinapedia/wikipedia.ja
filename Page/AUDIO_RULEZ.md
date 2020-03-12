@@ -1,22 +1,22 @@
 > この記事は[AUDIO RULEZ](https://ja.wikipedia.org/wiki/AUDIO_RULEZ)から翻訳されています。
 
 
-**AUDIO RULEZ**（オーディオルールズ）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")まで活動していた日本の[音楽バンドである](../Page/バンド_\(音楽\).md "wikilink")。 1999年に結成された前身のバンド**MILKRUN**（ミルクラン）から、2004年3月改名。活動当時の所属は[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")、[アミューズ](https://ja.wikipedia.org/wiki/アミューズ "wikilink")。
+**AUDIO RULEZ**（オーディオルールズ）は、[2005年](../Page/2005年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")まで活動していた日本の[音楽バンドである](../Page/バンド_\(音楽\).md "wikilink")。 1999年に結成された前身のバンド**MILKRUN**（ミルクラン）から、2004年3月改名。活動当時の所属は[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")、[アミューズ](https://ja.wikipedia.org/wiki/アミューズ "wikilink")。
 
 ## メンバー
 
   - 増田博長（[ギター](../Page/ギター.md "wikilink")、メイン[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")）1975年12月16日生まれ　射手座　A型　[鹿児島県](../Page/鹿児島県.md "wikilink")出身
-  - 本田光史郎（[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、ボーカル）1979年8月2日生まれ　獅子座（血液型不明）　[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")出身
+  - 本田光史郎（[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、ボーカル）1979年8月2日生まれ　獅子座（血液型不明）　[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")出身
 
 <!-- end list -->
 
   -
-    [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")夏に[ドラえもん](https://ja.wikipedia.org/wiki/ドラえもん "wikilink")の舞台版である「[ドラえもん のび太とアニマル惑星](https://ja.wikipedia.org/wiki/ドラえもん_のび太とアニマル惑星 "wikilink")」の音楽の作曲・編曲を務めている。
+    [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")夏に[ドラえもん](https://ja.wikipedia.org/wiki/ドラえもん "wikilink")の舞台版である「[ドラえもん のび太とアニマル惑星](../Page/ドラえもん_のび太とアニマル惑星.md "wikilink")」の音楽の作曲・編曲を務めている。
 
 <!-- end list -->
 
   - 秋月健太郎（ギター、ボーカル）1976年9月19日生まれ　乙女座　O型　鹿児島県出身
-  - 荒川浩士（[ドラム](../Page/ドラムセット.md "wikilink")、ボーカル）1977年3月11日生まれ　魚座　A型　[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")出身
+  - 荒川浩士（[ドラム](../Page/ドラムセット.md "wikilink")、ボーカル）1977年3月11日生まれ　魚座　A型　[京都府](../Page/京都府.md "wikilink")出身
 
 ## 略歴
 
@@ -79,7 +79,7 @@
 4.  **ニューエイジドリーム**（2004年4月21日）
     1.  ニューエイジドリーム
           -
-            作詞：[石田ショーキチ](https://ja.wikipedia.org/wiki/石田ショーキチ "wikilink")／作曲：[清水昭男](../Page/清水昭男.md "wikilink")／編曲：石田ショーキチ
+            作詞：[石田ショーキチ](../Page/石田ショーキチ.md "wikilink")／作曲：[清水昭男](../Page/清水昭男.md "wikilink")／編曲：石田ショーキチ
     2.  僕がいなくなる
           -
             作詞：佐藤司郎／作曲：清水昭男／編曲：石田ショーキチ
@@ -200,7 +200,7 @@
 <!-- end list -->
 
   -
-    『夜空へと』　[CDTV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink") OPテーマ
+    『夜空へと』　[CDTV](../Page/COUNT_DOWN_TV.md "wikilink") OPテーマ
 
 <!-- end list -->
 
@@ -209,7 +209,7 @@
 <!-- end list -->
 
   -
-    『嘘のない歌』　[最後の弁護人](https://ja.wikipedia.org/wiki/最後の弁護人 "wikilink") EDテーマ
+    『嘘のない歌』　[最後の弁護人](../Page/最後の弁護人.md "wikilink") EDテーマ
 
 <!-- end list -->
 
@@ -236,7 +236,7 @@
 <!-- end list -->
 
   -
-    『雨の中で』　[内村プロデュース](https://ja.wikipedia.org/wiki/内村プロデュース "wikilink") EDテーマ
+    『雨の中で』　[内村プロデュース](../Page/内村プロデュース.md "wikilink") EDテーマ
     『Alive』　奇跡体験アンビリバボー EDテーマ
 
 <!-- end list -->

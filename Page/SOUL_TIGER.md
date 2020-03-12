@@ -3,14 +3,14 @@
 
 **SOUL TIGER**（ソウルタイガー）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のアイドルダンスユニット。
 
-2001年、[関西テレビで放送されていたアイドル育成番組](../Page/関西テレビ放送.md "wikilink")『[バトラク](https://ja.wikipedia.org/wiki/バトラク "wikilink")』から派生。番組の主要出演者3名に加え、当時12歳の小学生[虎南有香](https://ja.wikipedia.org/wiki/虎南有香 "wikilink")をメインボーカルに据えて活動した。
+2001年、[関西テレビで放送されていたアイドル育成番組](../Page/関西テレビ放送.md "wikilink")『[バトラク](https://ja.wikipedia.org/wiki/バトラク "wikilink")』から派生。番組の主要出演者3名に加え、当時12歳の小学生[虎南有香](../Page/虎南有香.md "wikilink")をメインボーカルに据えて活動した。
 
 ## メンバー
 
-  - [虎南有香](https://ja.wikipedia.org/wiki/虎南有香 "wikilink"): [1989年](../Page/1989年.md "wikilink")[7月10日](../Page/7月10日.md "wikilink")、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")出身。メインボーカル。
-  - [虎南有美](https://ja.wikipedia.org/wiki/KONAN "wikilink"): [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[3月4日](../Page/3月4日.md "wikilink")、[大阪府](../Page/大阪府.md "wikilink")出身。
+  - [虎南有香](../Page/虎南有香.md "wikilink"): [1989年](../Page/1989年.md "wikilink")[7月10日](../Page/7月10日.md "wikilink")、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")出身。メインボーカル。
+  - [虎南有美](../Page/KONAN.md "wikilink"): [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[3月4日](../Page/3月4日.md "wikilink")、[大阪府](../Page/大阪府.md "wikilink")出身。
   - [石田裕子](../Page/石田裕子.md "wikilink"): [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[8月29日](../Page/8月29日.md "wikilink")、大阪府出身。
-  - [吉井弓香](https://ja.wikipedia.org/wiki/吉井弓香 "wikilink"): [1981年](../Page/1981年.md "wikilink")[7月3日](https://ja.wikipedia.org/wiki/7月3日 "wikilink")、大阪府出身。
+  - [吉井弓香](https://ja.wikipedia.org/wiki/吉井弓香 "wikilink"): [1981年](../Page/1981年.md "wikilink")[7月3日](../Page/7月3日.md "wikilink")、大阪府出身。
 
 ## プロデューサー
 

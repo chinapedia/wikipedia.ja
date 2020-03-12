@@ -1,31 +1,31 @@
 > この記事は[ SG-1](https://ja.wikipedia.org/wiki/_SG-1)から翻訳されています。
 
 
-『**スターゲイト SG-1**』（スターゲイト エスジーワン、*Stargate SG-1*）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")から[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")にかけて[アメリカで制作された](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[SF](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")（[海外ドラマ](../Page/海外ドラマ.md "wikilink")）。[1994年](../Page/1994年.md "wikilink")に公開された映画「[スターゲイト](https://ja.wikipedia.org/wiki/スターゲイト "wikilink")」をベースに作られており、本国では最終シーズンであるシーズン10が終了した。また、[ギネスブックにも世界最長SFドラマとして記載されている](https://ja.wikipedia.org/wiki/ギネス・ワールド・レコーズ "wikilink")。
+『**スターゲイト SG-1**』（スターゲイト エスジーワン、*Stargate SG-1*）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")から[2007年](../Page/2007年.md "wikilink")にかけて[アメリカで制作された](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[SF](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")（[海外ドラマ](../Page/海外ドラマ.md "wikilink")）。[1994年](../Page/1994年.md "wikilink")に公開された映画「[スターゲイト](../Page/スターゲイト.md "wikilink")」をベースに作られており、本国では最終シーズンであるシーズン10が終了した。また、[ギネスブックにも世界最長SFドラマとして記載されている](https://ja.wikipedia.org/wiki/ギネス・ワールド・レコーズ "wikilink")。
 
 ## 概要
 
 テレビ版の製作にあたり、映画の続きということから、ジャック・オニール大佐とダニエル・ジャクソン博士という、2人の主人公はそのまま引継がれた。
 
-映画版のジャック・オニール大佐は[カート・ラッセル](https://ja.wikipedia.org/wiki/カート・ラッセル "wikilink")が演じたが、テレビ版では[リチャード・ディーン・アンダーソン](https://ja.wikipedia.org/wiki/リチャード・ディーン・アンダーソン "wikilink")が演じることとなった。またダニエル・ジャクソン博士は[ジェームズ・スペイダー](https://ja.wikipedia.org/wiki/ジェームズ・スペイダー "wikilink")が演じていたが、テレビ版では[マイケル・シャンクス](https://ja.wikipedia.org/wiki/マイケル・シャンクス "wikilink")が演じることになった。 当初はシーズン11も予定されていたがキャンセルされ、完結させるために2本のDVD映画が製作されることになった。
+映画版のジャック・オニール大佐は[カート・ラッセル](https://ja.wikipedia.org/wiki/カート・ラッセル "wikilink")が演じたが、テレビ版では[リチャード・ディーン・アンダーソン](../Page/リチャード・ディーン・アンダーソン.md "wikilink")が演じることとなった。またダニエル・ジャクソン博士は[ジェームズ・スペイダー](../Page/ジェームズ・スペイダー.md "wikilink")が演じていたが、テレビ版では[マイケル・シャンクス](../Page/マイケル・シャンクス.md "wikilink")が演じることになった。 当初はシーズン11も予定されていたがキャンセルされ、完結させるために2本のDVD映画が製作されることになった。
 
 スピンオフ作品として『[スターゲイト アトランティス](https://ja.wikipedia.org/wiki/スターゲイト_アトランティス "wikilink")』、第3シリーズ「[スターゲイト ユニバース](https://ja.wikipedia.org/wiki/スターゲイト_ユニバース "wikilink")」が存在する。
 
 ## ストーリー
 
-映画版（アビドース作戦）より1年後、封印され米空軍の厳重な監視下に置かれていたスターゲイトが突如動き出す。武装した異星人が現れスターゲイト基地 (SGC) を襲い、監視していた兵士達の内女性はさらわれ他の者は殺されてしまう。基地の指揮官ハモンド将軍により、退役していたジャック・オニール大佐は再びSG基地へと呼び出され、理論天体物理学者でもあるサマンサ・カーター大尉らと共に再びゲイトをくぐるのであった。オニール大佐ら一行はゲイトの先でダニエル・ジャクソン博士と再会し、スターゲイトが広大な宇宙の様々な星々に存在し、それらが巨大なネットワークを構築している事を知る。そして、支配者は太陽神[ラー](../Page/ラー.md "wikilink")だけでなく、闇を支配する邪神[アポフィス](https://ja.wikipedia.org/wiki/アペプ "wikilink")、ハトル（[ハトホル](https://ja.wikipedia.org/wiki/ハトホル "wikilink")）などといったエジプト神話の神々やギリシャ神話の[クロノス](../Page/クロノス.md "wikilink")等他、様々な古代神話の神々を名乗る異星人が存在することを知る。ジャック・オニール大佐、ダニエル・ジャクソン博士、サマンサ・カーター大尉そして異星人のティルクらはスターゲイトを使い他の惑星に住む人々との交流を広げつつ、宇宙の支配を狙う異星人との戦いを繰り広げる。
+映画版（アビドース作戦）より1年後、封印され米空軍の厳重な監視下に置かれていたスターゲイトが突如動き出す。武装した異星人が現れスターゲイト基地 (SGC) を襲い、監視していた兵士達の内女性はさらわれ他の者は殺されてしまう。基地の指揮官ハモンド将軍により、退役していたジャック・オニール大佐は再びSG基地へと呼び出され、理論天体物理学者でもあるサマンサ・カーター大尉らと共に再びゲイトをくぐるのであった。オニール大佐ら一行はゲイトの先でダニエル・ジャクソン博士と再会し、スターゲイトが広大な宇宙の様々な星々に存在し、それらが巨大なネットワークを構築している事を知る。そして、支配者は太陽神[ラー](../Page/ラー.md "wikilink")だけでなく、闇を支配する邪神[アポフィス](../Page/アペプ.md "wikilink")、ハトル（[ハトホル](../Page/ハトホル.md "wikilink")）などといったエジプト神話の神々やギリシャ神話の[クロノス](../Page/クロノス.md "wikilink")等他、様々な古代神話の神々を名乗る異星人が存在することを知る。ジャック・オニール大佐、ダニエル・ジャクソン博士、サマンサ・カーター大尉そして異星人のティルクらはスターゲイトを使い他の惑星に住む人々との交流を広げつつ、宇宙の支配を狙う異星人との戦いを繰り広げる。
 
 ## エピソードガイド
 
 ### シーズン1
 
-アビドース作戦から1年後、[コロラド州](../Page/コロラド州.md "wikilink")[シャイアン山](https://ja.wikipedia.org/wiki/シャイアン・マウンテン空軍基地 "wikilink")\[1\][NORAD地下](https://ja.wikipedia.org/wiki/北アメリカ航空宇宙防衛司令部 "wikilink")28階にあるスターゲイトが突如作動。鎧を着たエイリアンの一群が基地に侵攻してきた。基地管理をしていたジョージ・ハモンド少将は、エイリアン達が下士官を拉致しゲイトの中へ逃走した際、リーダーらしき人物（アポフィス）の目が光るのを目撃する。事態を重く見た空軍は退役したジャック・オニール大佐を呼び戻し、アビドースへの偵察を命じる。
+アビドース作戦から1年後、[コロラド州](../Page/コロラド州.md "wikilink")[シャイアン山](https://ja.wikipedia.org/wiki/シャイアン・マウンテン空軍基地 "wikilink")\[1\][NORAD地下](../Page/北アメリカ航空宇宙防衛司令部.md "wikilink")28階にあるスターゲイトが突如作動。鎧を着たエイリアンの一群が基地に侵攻してきた。基地管理をしていたジョージ・ハモンド少将は、エイリアン達が下士官を拉致しゲイトの中へ逃走した際、リーダーらしき人物（アポフィス）の目が光るのを目撃する。事態を重く見た空軍は退役したジャック・オニール大佐を呼び戻し、アビドースへの偵察を命じる。
 
 現役復帰したオニール大佐率いるアビドース作戦オリジナルメンバーの他に、新たに理論天体物理学者のサマンサ・カーター大尉を加えた偵察チームは、アビドースへと向かう。
 
 到着すると、そこにはダニエル・ジャクソン博士の姿があった。ダニエルは、基地に現れたのはアビドースからの訪問者ではない事、銀河中に無数のゲイトが散らばっている事を説明する。ゴアウルド作成によるゲイトマップを手に入れた一行は、その中から敵（アポフィス）が来た惑星を探すこととなる。
 
-シーズン1では、数千年前から恒星間飛行を実現した種族であるゴアウルドに対し、現代の実在の兵器([P90](https://ja.wikipedia.org/wiki/FN_P90 "wikilink") [C-4](https://ja.wikipedia.org/wiki/C-4_\(爆薬\) "wikilink"))等で対抗しつつ、ゴアウルドに対抗するためにゲイトを通じて惑星探検を行い、多数の種族との交流から対ゴアウルド戦への科学技術の蓄積を目論む。
+シーズン1では、数千年前から恒星間飛行を実現した種族であるゴアウルドに対し、現代の実在の兵器([P90](../Page/FN_P90.md "wikilink") [C-4](../Page/C-4_\(爆薬\).md "wikilink"))等で対抗しつつ、ゴアウルドに対抗するためにゲイトを通じて惑星探検を行い、多数の種族との交流から対ゴアウルド戦への科学技術の蓄積を目論む。
 
 |      | 邦題             | 原題                                                                                                                                 |
 | ---- | -------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
@@ -55,7 +55,7 @@
 
 ### シーズン2
 
-一時的にカーターが寄生されるという事態から接触することになったトクラ。彼らと何度かやり取りをするうちに友好関係が深まる。たまたま発見された記憶保管庫を起動してしまったオニールによって、四大種族の一つである[アスガードとの本格的な接触が行われる](https://ja.wikipedia.org/wiki/アスガード_\(スターゲイト\) "wikilink")。
+一時的にカーターが寄生されるという事態から接触することになったトクラ。彼らと何度かやり取りをするうちに友好関係が深まる。たまたま発見された記憶保管庫を起動してしまったオニールによって、四大種族の一つである[アスガードとの本格的な接触が行われる](../Page/アスガード_\(スターゲイト\).md "wikilink")。
 
 |      | 邦題             | 原題                                                                                                                 |
 | ---- | -------------- | ------------------------------------------------------------------------------------------------------------------ |
@@ -359,7 +359,7 @@
 ## 用語
 
   - スターゲイト計画
-    スターゲイトを用いて異星文明と交流し、優れた先進技術を獲得することを目的とする計画。スターゲイト自体の存在は極秘であるため、任務に関与する軍人や科学者は対外的に「通信衛星による深宇宙探査を目的としたスターゲイト計画」と呼ばれる任務に就いていることになっている、そのため表向きは米空軍スペースコマンド（アメリカ[空軍宇宙軍団](https://ja.wikipedia.org/wiki/空軍宇宙軍団 "wikilink")）所属となっておりゲイトオペレーターの青のツナギ服には空軍スペースコマンドのワッペンが付けられている。
+    スターゲイトを用いて異星文明と交流し、優れた先進技術を獲得することを目的とする計画。スターゲイト自体の存在は極秘であるため、任務に関与する軍人や科学者は対外的に「通信衛星による深宇宙探査を目的としたスターゲイト計画」と呼ばれる任務に就いていることになっている、そのため表向きは米空軍スペースコマンド（アメリカ[空軍宇宙軍団](../Page/空軍宇宙軍団.md "wikilink")）所属となっておりゲイトオペレーターの青のツナギ服には空軍スペースコマンドのワッペンが付けられている。
 
   - スターゲイト
     惑星と惑星を繋ぐ、物質を転送するネットワークシステム。ゲイト間の移動にかかる時間は平均0.3秒で、一度ゲイトを繋いでそれを維持できる時間は最大38分間とされるが、それを超える事態も幾度か発生している。
@@ -376,11 +376,11 @@
 
     詳細は[遺跡スターゲイトを参照の事](https://ja.wikipedia.org/wiki/スターゲイト#遺跡スターゲイトとは "wikilink")
 
-  - [アスガード](https://ja.wikipedia.org/wiki/アスガード_\(スターゲイト\) "wikilink")
+  - [アスガード](../Page/アスガード_\(スターゲイト\).md "wikilink")
     地球よりはるかに進んだ科学技術を持つ、友好的なエイリアン。見た目は、[グレイ (宇宙人)に似ている](../Page/グレイ_\(宇宙人\).md "wikilink")。自らのクローンに意識を移すことで延命しているが、それを数千年に渡って繰り返したため、医学的に限界に来ており、シーズン10の最終話でアスガードは技術の全てを地球製の宇宙船[オデッセイに託し](https://ja.wikipedia.org/wiki/オデッセイ_\(スターゲイト\) "wikilink")、惑星オーリラとともに滅びた。
 
   - 宇宙四大種族
-    [アスガード](https://ja.wikipedia.org/wiki/アスガード_\(スターゲイト\) "wikilink")、エンシェント（アルテラン）、ノックス、ファーリングスの四種族。かつてある星で会合を開いていた\[2\]。
+    [アスガード](../Page/アスガード_\(スターゲイト\).md "wikilink")、エンシェント（アルテラン）、ノックス、ファーリングスの四種族。かつてある星で会合を開いていた\[2\]。
 
   - エンシェント
     スターゲイトネットワークやアトランティスを作ったエイリアン。現在ではそのほとんどが高みの存在となっている。少なくとも300万年前に南極にいた\[3\]。
@@ -518,7 +518,7 @@
   - ナクアドリア
     惑星ランガラでのみ採掘される鉱物。その正体はランガラがまだゴアウルドの支配下にあった頃、星に埋蔵されていたナクアダをタノスというゴアウルドが化学変化させたもの。ナクアドリアの生み出すエネルギーはナクアダのそれを遥かに凌ぐが、核反応が非常に不安定という面もあり扱いにくいものとなっている。実際に初期に作られたナクアドリアの爆発が原因で、ランガラを支配していたゴアウルドは滅んだとされている。地球産の宇宙艦に搭載されているハイパースペース・ジェネレーターにもナクアドリアが使われているが、度々トラブルの種になっている。（X-302とプロメテウスに搭載確認済み。ダイダロスのジェネレーターはアスガード製なので不明）。
 
-  - [ゼロ・ポイント・モジュール](https://ja.wikipedia.org/wiki/ゼロ・ポイント・モジュール "wikilink") (ZPM)
+  - [ゼロ・ポイント・モジュール](../Page/ゼロ・ポイント・モジュール.md "wikilink") (ZPM)
     エンシェントの開発した物で、ナクアダ・ナクアドリアを超越するほどの超エネルギー発生装置。エンシェントの使っていた発明品の多くは、その性能から多大なエネルギー消費を必要とするため、エンシェント文明とは切っても切れないエネルギーソースなのだが、5000年ほど前にエンシェント文明が滅び去ってしまい、アスガードでも製造が難しくZPMの現存数は残り少ないものとなっている。アトランティスでは元々3つあったZPMが1万年の間に残量が底を突いてしまっており、探検隊は深刻なパワー不足に見舞われていたが、Season8終盤でSG-1が過去のエジプトから持ち帰ったZPMにより危機を脱することになる。また、スターゲイトにエネルギー供給することにより、8つ目のシェブロンをダイヤルし他の銀河のスターゲイトネットワークにアクセスすることができる。また、ダイダロス級と組み合わせてシールド強化とハイパードライブエンジン出力増加を行える。アトランティスシーズン3で、シェパード中佐の活躍でZPM三個を得た（1つは南極のエンシェント砦に、1つはオデッセイ号に、1つはアトランティスに分配された）。
 
   - レプリケーター
@@ -532,16 +532,16 @@
     SG-1の持ち帰ったゴアウルドのデス・グライダーを改造した機体。ゴアウルドのハイテクとアメリカ合衆国空軍の航空技術がミックスされ慣性制御や高速飛行・宇宙空間での飛行など中々の性能を発揮した。が、オニールとティルクの乗り込んだテスト飛行中にとんでもないアクシデントを起こし、動力全カット状態のまま宇宙に放り出されるという大事件を引き起こしてしまう。このシリーズはデス・グライダーも含めて全て複座型である。
   - [X-302](https://ja.wikipedia.org/wiki/X-302_\(スターゲイト\) "wikilink")
     X-301をベースに作られた地球オリジナルの宇宙戦闘機。性能はX-301から大きく向上しており、エンジンもエアロスパイクエンジン、ロケットエンジン、ジェットエンジン、そしてハイパースペースドライブエンジンの４種類が搭載されている。しかし、ハイパースペース・ジェネレーターのエネルギーソースであるナクアドリアが不安定なためハイパースペース・ウィンドウを完全に形成することはできなかった。アヌビスの攻撃に晒されていたスターゲイトを背負い不安定なハイパースペースに突入するという荒業をやってのける。
-  - [F-302](https://ja.wikipedia.org/wiki/F-302_\(スターゲイト\) "wikilink")
+  - [F-302](../Page/F-302_\(スターゲイト\).md "wikilink")
     X-302の量産機。機動性能こそデス・グライダーに劣るものの南極大空戦ではSG-1を守り抜き、レイスの無敵艦隊やダーツに対して有効な戦力としてアトランティスに配備されるなど、多方面での活躍が見受けられる。
-    詳細は[F-302を参照](https://ja.wikipedia.org/wiki/F-302_\(スターゲイト\) "wikilink")。
-  - X (BC) -303[プロメテウス](https://ja.wikipedia.org/wiki/プロメテウス_\(スターゲイト\) "wikilink")
+    詳細は[F-302を参照](../Page/F-302_\(スターゲイト\).md "wikilink")。
+  - X (BC) -303[プロメテウス](../Page/プロメテウス_\(スターゲイト\).md "wikilink")
     合衆国空軍初の亜光速航行可能な宇宙艦。オニールが「**エンタープライズ**」と命名しようとするが上層部から却下された。正式就役前の形式名はX-303。就役後はBC（巡洋戦艦）-303となる。クラスとしては「プロメテウス級」となるが同型艦はない。シーズン9第189話で敵のビーム兵器による猛攻撃を受け壮絶な最期を遂げる、後により大型な「ダイダロス級」も建造される。F-302を8機まで搭載可能。
-    詳細は[プロメテウスを参照](https://ja.wikipedia.org/wiki/プロメテウス_\(スターゲイト\) "wikilink")。
-  - BC-304[ダイダロス](https://ja.wikipedia.org/wiki/ダイダロス_\(スターゲイト\) "wikilink")
+    詳細は[プロメテウスを参照](../Page/プロメテウス_\(スターゲイト\).md "wikilink")。
+  - BC-304[ダイダロス](../Page/ダイダロス_\(スターゲイト\).md "wikilink")
     プロメテウスの姉妹艦にあたる宇宙戦艦。宇宙4大種族のアスガードのハイテクを盛り込み、先のプロメテウスよりも数段上の性能を誇る。武装は、レールガン・砲座・ミサイル・アスガード製プラズマビーム（シーズン10 最終話以降）を配備。シールドも当初はオーライの宇宙母艦の主砲ビームを２発(１発で50%までシールドダウン)しか防げなかったが、シーズン10最終話でのアスガードによるアップグレードにより２発で87%までの低下と、かなり進化している。アスガードの転送ビームや銀河間航行の可能な高出力ハイパースペース・ジェネレーターも搭載している。両翼にはF-302を16機搭載可能なカタパルトデッキがあり、戦術の幅もかなり向上している。
     最初に建造された1番艦「ダイダロス」は、対レイス攻防戦支援のためにアトランティスに向かう。2番艦は「オデッセイ（主にオーライ戦用）」、3番艦は「コロレフ」、4番艦は「アポロ」、5番艦は「サン・ズー」、6番艦は「ジョージ・ハモンド（フェニックス）」である。ダイダロスはアトランティス防衛戦でZPMを一時搭載し通常片道18日間の距離を4日間で到着した。オデッセイのみZPMを常時搭載し、ステルス装置を装備している。3番艦のコロレフはロシア軍が運用、シーズン9最終話で撃沈。
-    詳細は[ダイダロスを参照](https://ja.wikipedia.org/wiki/ダイダロス_\(スターゲイト\) "wikilink")。
+    詳細は[ダイダロスを参照](../Page/ダイダロス_\(スターゲイト\).md "wikilink")。
 
 ### ゴアウルド
 
@@ -585,7 +585,7 @@
 
 ### 主要なキャスト
 
-  - ジャック・オニール ([Jack O'Neill](https://ja.wikipedia.org/wiki/:en:Jack_O'Neill "wikilink")) - [リチャード・ディーン・アンダーソン](https://ja.wikipedia.org/wiki/リチャード・ディーン・アンダーソン "wikilink") () （声:[有本欽隆](https://ja.wikipedia.org/wiki/有本欽隆 "wikilink")）
+  - ジャック・オニール ([Jack O'Neill](https://ja.wikipedia.org/wiki/:en:Jack_O'Neill "wikilink")) - [リチャード・ディーン・アンダーソン](../Page/リチャード・ディーン・アンダーソン.md "wikilink") () （声:[有本欽隆](../Page/有本欽隆.md "wikilink")）
 
 <!-- end list -->
 
@@ -594,7 +594,7 @@
 
 <!-- end list -->
 
-  - ダニエル・ジャクソン ([Daniel Jackson](https://ja.wikipedia.org/wiki/:en:Daniel_Jackson "wikilink")) - [マイケル・シャンクス](https://ja.wikipedia.org/wiki/マイケル・シャンクス "wikilink") () （声:[土方優人](https://ja.wikipedia.org/wiki/土方優人 "wikilink")）
+  - ダニエル・ジャクソン ([Daniel Jackson](https://ja.wikipedia.org/wiki/:en:Daniel_Jackson "wikilink")) - [マイケル・シャンクス](../Page/マイケル・シャンクス.md "wikilink") () （声:[土方優人](../Page/土方優人.md "wikilink")）
 
 <!-- end list -->
 
@@ -603,7 +603,7 @@
 
 <!-- end list -->
 
-  - サマンサ・カーター ([Samantha Carter](https://ja.wikipedia.org/wiki/:en:Samantha_Carter "wikilink")) - [アマンダ・タッピング](https://ja.wikipedia.org/wiki/アマンダ・タッピング "wikilink") () （声:[鈴木弘子](https://ja.wikipedia.org/wiki/鈴木弘子 "wikilink")）
+  - サマンサ・カーター ([Samantha Carter](https://ja.wikipedia.org/wiki/:en:Samantha_Carter "wikilink")) - [アマンダ・タッピング](../Page/アマンダ・タッピング.md "wikilink") () （声:[鈴木弘子](../Page/鈴木弘子.md "wikilink")）
 
 <!-- end list -->
 
@@ -612,7 +612,7 @@
 
 <!-- end list -->
 
-  - ティルク ([Teal'c](https://ja.wikipedia.org/wiki/:en:Teal'c "wikilink")) - [クリストファー・ジャッジ](https://ja.wikipedia.org/wiki/クリストファー・ジャッジ "wikilink") () （声:[佐々木誠二](https://ja.wikipedia.org/wiki/佐々木誠二 "wikilink")）
+  - ティルク ([Teal'c](https://ja.wikipedia.org/wiki/:en:Teal'c "wikilink")) - [クリストファー・ジャッジ](../Page/クリストファー・ジャッジ.md "wikilink") () （声:[佐々木誠二](../Page/佐々木誠二.md "wikilink")）
 
 <!-- end list -->
 
@@ -621,7 +621,7 @@
 
 <!-- end list -->
 
-  - ジョージ・ハモンド ([George Hammond](https://ja.wikipedia.org/wiki/:en:George_Hammond "wikilink")) -　[ドン・S・デイヴィス](https://ja.wikipedia.org/wiki/ドン・S・デイヴィス "wikilink") () （声:[宝亀克寿](https://ja.wikipedia.org/wiki/宝亀克寿 "wikilink")）
+  - ジョージ・ハモンド ([George Hammond](https://ja.wikipedia.org/wiki/:en:George_Hammond "wikilink")) -　[ドン・S・デイヴィス](https://ja.wikipedia.org/wiki/ドン・S・デイヴィス "wikilink") () （声:[宝亀克寿](../Page/宝亀克寿.md "wikilink")）
 
 <!-- end list -->
 
@@ -631,7 +631,7 @@
 
 <!-- end list -->
 
-  - ジョナス・クイン ([Jonas Quinn](https://ja.wikipedia.org/wiki/:en:Jonas_Quinn "wikilink")) - [コリン・ネメック](https://ja.wikipedia.org/wiki/コリン・ネメック "wikilink") ()（声: [竹村拓](https://ja.wikipedia.org/wiki/竹村拓 "wikilink")）
+  - ジョナス・クイン ([Jonas Quinn](https://ja.wikipedia.org/wiki/:en:Jonas_Quinn "wikilink")) - [コリン・ネメック](https://ja.wikipedia.org/wiki/コリン・ネメック "wikilink") ()（声: [竹村拓](../Page/竹村拓.md "wikilink")）
 
 <!-- end list -->
 
@@ -640,7 +640,7 @@
 
 <!-- end list -->
 
-  - キャメロン・ミッチェル ([Cameron Mitchell](https://ja.wikipedia.org/wiki/:en:Cameron_Mitchell_\(Stargate\) "wikilink")) - ベン・ブロウダー ([Ben Browder](https://ja.wikipedia.org/wiki/:en:Ben_Browder "wikilink")) （声:[坂詰貴之](https://ja.wikipedia.org/wiki/坂詰貴之 "wikilink")）
+  - キャメロン・ミッチェル ([Cameron Mitchell](https://ja.wikipedia.org/wiki/:en:Cameron_Mitchell_\(Stargate\) "wikilink")) - ベン・ブロウダー ([Ben Browder](https://ja.wikipedia.org/wiki/:en:Ben_Browder "wikilink")) （声:[坂詰貴之](../Page/坂詰貴之.md "wikilink")）
 
 <!-- end list -->
 
@@ -649,7 +649,7 @@
 
 <!-- end list -->
 
-  - ハンク・ランドリー ([Hank Landry](https://ja.wikipedia.org/wiki/:en:Hank_Landry "wikilink")) - [ボー・ブリッジス](https://ja.wikipedia.org/wiki/ボー・ブリッジス "wikilink") () （声:[佐々木敏](https://ja.wikipedia.org/wiki/佐々木敏 "wikilink")）
+  - ハンク・ランドリー ([Hank Landry](https://ja.wikipedia.org/wiki/:en:Hank_Landry "wikilink")) - [ボー・ブリッジス](https://ja.wikipedia.org/wiki/ボー・ブリッジス "wikilink") () （声:[佐々木敏](../Page/佐々木敏.md "wikilink")）
 
 <!-- end list -->
 
@@ -658,7 +658,7 @@
 
 <!-- end list -->
 
-  - ヴァーラ・マル・ドラン ([Vala Mal Doran](https://ja.wikipedia.org/wiki/:en:Vala_Mal_Doran "wikilink")) - クラウディア・ブラック ([Claudia Black](https://ja.wikipedia.org/wiki/:en:Claudia_Black "wikilink")) （声:[相沢恵子](https://ja.wikipedia.org/wiki/相沢恵子 "wikilink")）
+  - ヴァーラ・マル・ドラン ([Vala Mal Doran](https://ja.wikipedia.org/wiki/:en:Vala_Mal_Doran "wikilink")) - クラウディア・ブラック ([Claudia Black](https://ja.wikipedia.org/wiki/:en:Claudia_Black "wikilink")) （声:[相沢恵子](../Page/相沢恵子.md "wikilink")）
 
 <!-- end list -->
 
@@ -679,7 +679,7 @@
 
 <!-- end list -->
 
-  - ウォルター・ハリマン ([Walter Harriman](https://ja.wikipedia.org/wiki/:en:Walter_Harriman "wikilink")) - ゲイリー・ジョーンズ ([Gary Jones](https://ja.wikipedia.org/wiki/:en:Gary_Jones_\(actor\) "wikilink")) （声:[中嶋一成](https://ja.wikipedia.org/wiki/中嶋一成 "wikilink")）
+  - ウォルター・ハリマン ([Walter Harriman](https://ja.wikipedia.org/wiki/:en:Walter_Harriman "wikilink")) - ゲイリー・ジョーンズ ([Gary Jones](https://ja.wikipedia.org/wiki/:en:Gary_Jones_\(actor\) "wikilink")) （声:[中嶋一成](../Page/中嶋一成.md "wikilink")）
 
 <!-- end list -->
 
@@ -689,7 +689,7 @@
 
 <!-- end list -->
 
-  - サイラー ([Siler](https://ja.wikipedia.org/wiki/:en:Siler "wikilink")) - ダン・シア ([Dan Shea](https://ja.wikipedia.org/wiki/:en:Dan_Shea "wikilink")) （声:[荒川太郎](https://ja.wikipedia.org/wiki/荒川太朗 "wikilink")→[栗田圭](https://ja.wikipedia.org/wiki/栗田圭 "wikilink")）
+  - サイラー ([Siler](https://ja.wikipedia.org/wiki/:en:Siler "wikilink")) - ダン・シア ([Dan Shea](https://ja.wikipedia.org/wiki/:en:Dan_Shea "wikilink")) （声:[荒川太郎](../Page/荒川太朗.md "wikilink")→[栗田圭](https://ja.wikipedia.org/wiki/栗田圭 "wikilink")）
 
 <!-- end list -->
 
@@ -699,7 +699,7 @@
 
 <!-- end list -->
 
-  - ロバート・キンゼイ ([Robert Kinsey](https://ja.wikipedia.org/wiki/:en:Robert_Kinsey "wikilink")) - [ロニー・コックス](https://ja.wikipedia.org/wiki/ロニー・コックス "wikilink") ()（声：[藤本譲](https://ja.wikipedia.org/wiki/藤本譲 "wikilink")）
+  - ロバート・キンゼイ ([Robert Kinsey](https://ja.wikipedia.org/wiki/:en:Robert_Kinsey "wikilink")) - [ロニー・コックス](../Page/ロニー・コックス.md "wikilink") ()（声：[藤本譲](../Page/藤本譲.md "wikilink")）
 
 <!-- end list -->
 
@@ -709,7 +709,7 @@
 
 <!-- end list -->
 
-  - チャールズ・コワルスキー ([Charles Kawalsky](https://ja.wikipedia.org/wiki/:en:Charles_Kawalsky "wikilink")) - [ジェイ・エイコヴォーン](https://ja.wikipedia.org/wiki/ジェイ・アコヴォーン "wikilink") () （声:[水野龍司](https://ja.wikipedia.org/wiki/水野龍司 "wikilink")）
+  - チャールズ・コワルスキー ([Charles Kawalsky](https://ja.wikipedia.org/wiki/:en:Charles_Kawalsky "wikilink")) - [ジェイ・エイコヴォーン](https://ja.wikipedia.org/wiki/ジェイ・アコヴォーン "wikilink") () （声:[水野龍司](../Page/水野龍司.md "wikilink")）
 
 <!-- end list -->
 
@@ -719,7 +719,7 @@
 
 <!-- end list -->
 
-  - ハリー・メイボーン ([Harry Maybourne](https://ja.wikipedia.org/wiki/:en:Harry_Maybourne "wikilink")) - トム・マクベス ([Tom McBeath](https://ja.wikipedia.org/wiki/:en:Tom_McBeath "wikilink"))（声:[水内清光](https://ja.wikipedia.org/wiki/水内清光 "wikilink")）
+  - ハリー・メイボーン ([Harry Maybourne](https://ja.wikipedia.org/wiki/:en:Harry_Maybourne "wikilink")) - トム・マクベス ([Tom McBeath](https://ja.wikipedia.org/wiki/:en:Tom_McBeath "wikilink"))（声:[水内清光](../Page/水内清光.md "wikilink")）
 
 <!-- end list -->
 
@@ -728,7 +728,7 @@
 
 <!-- end list -->
 
-  - ポール・デイビス ([Paul Davis](https://ja.wikipedia.org/wiki/:en:Paul_Davis_\(Stargate\) "wikilink")) - [コリン・カニンガム](https://ja.wikipedia.org/wiki/コリン・カニンガム "wikilink") () （声:[大黒和広](https://ja.wikipedia.org/wiki/大黒和広 "wikilink")）
+  - ポール・デイビス ([Paul Davis](https://ja.wikipedia.org/wiki/:en:Paul_Davis_\(Stargate\) "wikilink")) - [コリン・カニンガム](https://ja.wikipedia.org/wiki/コリン・カニンガム "wikilink") () （声:[大黒和広](../Page/大黒和広.md "wikilink")）
 
 <!-- end list -->
 
@@ -742,11 +742,11 @@
 <!-- end list -->
 
   -
-    SGC所属の科学者。'[World of Warcraft](https://ja.wikipedia.org/wiki/World_of_Warcraft "wikilink")'のプレイヤー。科学責任者。SGCに植物を持ち込みSGC中に植物が広がってしまうなど犯した失敗は数え切れないが希に活躍する。
+    SGC所属の科学者。'[World of Warcraft](../Page/World_of_Warcraft.md "wikilink")'のプレイヤー。科学責任者。SGCに植物を持ち込みSGC中に植物が広がってしまうなど犯した失敗は数え切れないが希に活躍する。
 
 <!-- end list -->
 
-  - リチャード・ウールジー ([Richard Woolsey](https://ja.wikipedia.org/wiki/:en:Richard_Woolsey "wikilink")) - [ロバート・ピカード](https://ja.wikipedia.org/wiki/ロバート・ピカード "wikilink") ()（声：[金子由之](https://ja.wikipedia.org/wiki/金子由之 "wikilink")）
+  - リチャード・ウールジー ([Richard Woolsey](https://ja.wikipedia.org/wiki/:en:Richard_Woolsey "wikilink")) - [ロバート・ピカード](https://ja.wikipedia.org/wiki/ロバート・ピカード "wikilink") ()（声：[金子由之](../Page/金子由之.md "wikilink")）
 
 <!-- end list -->
 
@@ -755,7 +755,7 @@
 
 ### ジャファ
 
-  - マスター・ブレイタク ([Bra'tac](https://ja.wikipedia.org/wiki/:en:Bra'tac "wikilink")) - [トニー・アメンドーラ](https://ja.wikipedia.org/wiki/トニー・アメンドーラ "wikilink") () （声:[渡部猛](https://ja.wikipedia.org/wiki/渡部猛 "wikilink")）
+  - マスター・ブレイタク ([Bra'tac](https://ja.wikipedia.org/wiki/:en:Bra'tac "wikilink")) - [トニー・アメンドーラ](https://ja.wikipedia.org/wiki/トニー・アメンドーラ "wikilink") () （声:[渡部猛](../Page/渡部猛.md "wikilink")）
 
 <!-- end list -->
 
@@ -764,7 +764,7 @@
 
 ### トクラ
 
-  - ジェイコブ・カーター ([Jacob Carter](https://ja.wikipedia.org/wiki/:en:Jacob_Carter "wikilink")) - [カーメン・アルジェンツィアノ](https://ja.wikipedia.org/wiki/カーメン・アルジェンツィアノ "wikilink") () （声:[宮田光](https://ja.wikipedia.org/wiki/宮田光 "wikilink")）
+  - ジェイコブ・カーター ([Jacob Carter](https://ja.wikipedia.org/wiki/:en:Jacob_Carter "wikilink")) - [カーメン・アルジェンツィアノ](https://ja.wikipedia.org/wiki/カーメン・アルジェンツィアノ "wikilink") () （声:[宮田光](../Page/宮田光.md "wikilink")）
 
 <!-- end list -->
 
@@ -773,7 +773,7 @@
 
 <!-- end list -->
 
-  - マートフ（マートゥフ） ([Martouf](https://ja.wikipedia.org/wiki/:en:Martouf "wikilink")) - J.R.ボーン ([J. R. Bourne](https://ja.wikipedia.org/wiki/:en:J._R._Bourne "wikilink"))（声：[目黒光祐](https://ja.wikipedia.org/wiki/目黒光祐 "wikilink")）
+  - マートフ（マートゥフ） ([Martouf](https://ja.wikipedia.org/wiki/:en:Martouf "wikilink")) - J.R.ボーン ([J. R. Bourne](https://ja.wikipedia.org/wiki/:en:J._R._Bourne "wikilink"))（声：[目黒光祐](../Page/目黒光祐.md "wikilink")）
 
 <!-- end list -->
 
@@ -783,34 +783,34 @@
 
 ### アスガード
 
-  - トール ([Thor](https://ja.wikipedia.org/wiki/:en:Thor_\(Stargate\) "wikilink")) - （声:[マイケル・シャンクス](https://ja.wikipedia.org/wiki/マイケル・シャンクス "wikilink")、[大友龍三郎](https://ja.wikipedia.org/wiki/大友龍三郎 "wikilink")→[花田光](https://ja.wikipedia.org/wiki/花田光 "wikilink")）
+  - トール ([Thor](https://ja.wikipedia.org/wiki/:en:Thor_\(Stargate\) "wikilink")) - （声:[マイケル・シャンクス](../Page/マイケル・シャンクス.md "wikilink")、[大友龍三郎](../Page/大友龍三郎.md "wikilink")→[花田光](../Page/花田光.md "wikilink")）
 
 <!-- end list -->
 
   -
-    宇宙四大種族の一つ[アスガード](https://ja.wikipedia.org/wiki/アスガード_\(スターゲイト\) "wikilink")（[グレイタイプの宇宙人](../Page/グレイ_\(宇宙人\).md "wikilink")）の一人でアスガード艦隊最高司令官。オニールを信頼し、アスガードの最新鋭艦を「オニール号」と命名したほど（同号は後に自爆した）。レプリケーターとの戦いで度々地球に協力を求める。その理由は地球が技術的に遅れており、進化し過ぎたアスガードでは思いもよらない野蛮な方法がレプリケーターに効果があると考えたからである。繁殖能力を失い、種としての限界を迎えていたアスガードは、クローン技術による延命を行っていたが、シーズン10最終話で全ての知識や技術を地球人に託して母星ごと消滅した。
+    宇宙四大種族の一つ[アスガード](../Page/アスガード_\(スターゲイト\).md "wikilink")（[グレイタイプの宇宙人](../Page/グレイ_\(宇宙人\).md "wikilink")）の一人でアスガード艦隊最高司令官。オニールを信頼し、アスガードの最新鋭艦を「オニール号」と命名したほど（同号は後に自爆した）。レプリケーターとの戦いで度々地球に協力を求める。その理由は地球が技術的に遅れており、進化し過ぎたアスガードでは思いもよらない野蛮な方法がレプリケーターに効果があると考えたからである。繁殖能力を失い、種としての限界を迎えていたアスガードは、クローン技術による延命を行っていたが、シーズン10最終話で全ての知識や技術を地球人に託して母星ごと消滅した。
 
 ### ゴアウルド
 
-  - アポフィス ([Apophis](https://ja.wikipedia.org/wiki/:en:Apophis_\(Stargate\) "wikilink")) - ピーター・ウィリアムス ([Peter Williams](https://ja.wikipedia.org/wiki/:en:Peter_Williams_\(actor\) "wikilink"))（声:[田原アルノ](https://ja.wikipedia.org/wiki/田原アルノ "wikilink")）
+  - アポフィス ([Apophis](https://ja.wikipedia.org/wiki/:en:Apophis_\(Stargate\) "wikilink")) - ピーター・ウィリアムス ([Peter Williams](https://ja.wikipedia.org/wiki/:en:Peter_Williams_\(actor\) "wikilink"))（声:[田原アルノ](../Page/田原アルノ.md "wikilink")）
 
 <!-- end list -->
 
   -
-    支配階級のゴアウルド。「[スターゲイト](https://ja.wikipedia.org/wiki/スターゲイト "wikilink")」でオニール大佐らによって倒されたラー ([Ra](https://ja.wikipedia.org/wiki/:en:Ra_\(Stargate\) "wikilink")) の弟でもあり宿敵で、闇を支配する蛇の邪神として[カオス](../Page/カオス.md "wikilink")（混沌）を招く[アポピス](https://ja.wikipedia.org/wiki/アペプ "wikilink")。支配階級のトップだったラーが倒されたことでゴアウルド内のバランスが崩れ、台頭する。ダニエルの妻シャーレを妻アモネットの宿主に、シャーレの弟スカーラを息子クロレルの宿主とする（シーズン1 第1-2話）。前線に立って侵略活動を行う事も多く、武闘派である。幾度となくSG-1に倒されるが、そのたびにより強力になって復活する。
+    支配階級のゴアウルド。「[スターゲイト](../Page/スターゲイト.md "wikilink")」でオニール大佐らによって倒されたラー ([Ra](https://ja.wikipedia.org/wiki/:en:Ra_\(Stargate\) "wikilink")) の弟でもあり宿敵で、闇を支配する蛇の邪神として[カオス](../Page/カオス.md "wikilink")（混沌）を招く[アポピス](../Page/アペプ.md "wikilink")。支配階級のトップだったラーが倒されたことでゴアウルド内のバランスが崩れ、台頭する。ダニエルの妻シャーレを妻アモネットの宿主に、シャーレの弟スカーラを息子クロレルの宿主とする（シーズン1 第1-2話）。前線に立って侵略活動を行う事も多く、武闘派である。幾度となくSG-1に倒されるが、そのたびにより強力になって復活する。
 
 <!-- end list -->
 
-  - ハトル ([Hathor](https://ja.wikipedia.org/wiki/:en:Hathor_\(Stargate\) "wikilink")) - スアンヌ・ブラウン ([Suanne Braun](https://ja.wikipedia.org/wiki/:en:Suanne_Braun "wikilink"))（声:[水谷優子](https://ja.wikipedia.org/wiki/水谷優子 "wikilink")）
+  - ハトル ([Hathor](https://ja.wikipedia.org/wiki/:en:Hathor_\(Stargate\) "wikilink")) - スアンヌ・ブラウン ([Suanne Braun](https://ja.wikipedia.org/wiki/:en:Suanne_Braun "wikilink"))（声:[水谷優子](../Page/水谷優子.md "wikilink")）
 
 <!-- end list -->
 
   -
-    支配階級のゴアウルド。古代エジプト神話の愛と幸運の女神[ハトホル](https://ja.wikipedia.org/wiki/ハトホル "wikilink")。ラーの妻であり娘で、すべてのゴアウルドの母とされる。つまり寄生体を生むことができる女王ゴアウルドである。シーズン1 第14話で[マヤ文明](https://ja.wikipedia.org/wiki/マヤ文明 "wikilink")研究者の遺跡発掘によって甦りSG基地に侵入、吐息で男性を誘惑して従わせた。数千年間石棺の中で眠っていたことになる。後にSGCを真似た基地を作り、SG-1を惑わせて情報を引き出そうとするも失敗。オニールに殺された。
+    支配階級のゴアウルド。古代エジプト神話の愛と幸運の女神[ハトホル](../Page/ハトホル.md "wikilink")。ラーの妻であり娘で、すべてのゴアウルドの母とされる。つまり寄生体を生むことができる女王ゴアウルドである。シーズン1 第14話で[マヤ文明](https://ja.wikipedia.org/wiki/マヤ文明 "wikilink")研究者の遺跡発掘によって甦りSG基地に侵入、吐息で男性を誘惑して従わせた。数千年間石棺の中で眠っていたことになる。後にSGCを真似た基地を作り、SG-1を惑わせて情報を引き出そうとするも失敗。オニールに殺された。
 
 <!-- end list -->
 
-  - ヘル・アー ([Heru-ur](https://ja.wikipedia.org/wiki/:en:Heru-ur_\(Stargate\) "wikilink")) - ダグラス・H・アーサーズ（[Douglas H. Arthurs](https://ja.wikipedia.org/wiki/:en:Douglas_H._Arthurs "wikilink")）（声:[中多和宏](https://ja.wikipedia.org/wiki/中田和宏 "wikilink")）
+  - ヘル・アー ([Heru-ur](https://ja.wikipedia.org/wiki/:en:Heru-ur_\(Stargate\) "wikilink")) - ダグラス・H・アーサーズ（[Douglas H. Arthurs](https://ja.wikipedia.org/wiki/:en:Douglas_H._Arthurs "wikilink")）（声:[中多和宏](../Page/中田和宏.md "wikilink")）
 
 <!-- end list -->
 
@@ -828,7 +828,7 @@
 
 <!-- end list -->
 
-  - ウ ([Yu](https://ja.wikipedia.org/wiki/:en:Yu_\(Stargate\) "wikilink")) - ヴィンス・クレステジオ ([Vince Crestejo](https://ja.wikipedia.org/wiki/:en:Vince_Crestejo "wikilink"))（声：[手塚秀彰](https://ja.wikipedia.org/wiki/手塚秀彰 "wikilink")）
+  - ウ ([Yu](https://ja.wikipedia.org/wiki/:en:Yu_\(Stargate\) "wikilink")) - ヴィンス・クレステジオ ([Vince Crestejo](https://ja.wikipedia.org/wiki/:en:Vince_Crestejo "wikilink"))（声：[手塚秀彰](../Page/手塚秀彰.md "wikilink")）
 
 <!-- end list -->
 
@@ -846,16 +846,16 @@
 
 <!-- end list -->
 
-  - ニルティ ([Nirrti](https://ja.wikipedia.org/wiki/:en:Nirrti_\(Stargate\) "wikilink")) - ジャクリーン・サムダ ([Jacqueline Samuda](https://ja.wikipedia.org/wiki/:en:Jacqueline_Samuda "wikilink"))（声：[喜田あゆ美](https://ja.wikipedia.org/wiki/喜田あゆ美 "wikilink")→[横須賀理恵](https://ja.wikipedia.org/wiki/横須賀理恵 "wikilink")→喜田あゆ美）
+  - ニルティ ([Nirrti](https://ja.wikipedia.org/wiki/:en:Nirrti_\(Stargate\) "wikilink")) - ジャクリーン・サムダ ([Jacqueline Samuda](https://ja.wikipedia.org/wiki/:en:Jacqueline_Samuda "wikilink"))（声：[喜田あゆ美](../Page/喜田あゆ美.md "wikilink")→[横須賀理恵](https://ja.wikipedia.org/wiki/横須賀理恵 "wikilink")→喜田あゆ美）
 
 <!-- end list -->
 
   -
-    支配階級のゴアウルド。古代インド・[ヒンドゥー](https://ja.wikipedia.org/wiki/ヒンドゥー "wikilink")教の破壊と滅亡の神[ニルリティ](https://ja.wikipedia.org/wiki/羅刹天 "wikilink")（ニルティ）。アポフィスに和平を持ちかけて罠をしかけたり、惑星P8X-987の住民を殺害しカサンドラの体内に爆弾を仕掛けたりした。他のゴアウルドに先んじて個人用遮蔽装置を開発したために支配階級から追放されるなど、ゴアウルドの中では技術的に進んでいる。また、ホクター（ホク・タウリ：強化したタウリ\[地球人\]）を自分の宿主にしようと研究をすすめていた（これはエンシェント由来の技術を使用していた）。同種の研究は後にアヌビスがほぼ完成させた。
+    支配階級のゴアウルド。古代インド・[ヒンドゥー](https://ja.wikipedia.org/wiki/ヒンドゥー "wikilink")教の破壊と滅亡の神[ニルリティ](../Page/羅刹天.md "wikilink")（ニルティ）。アポフィスに和平を持ちかけて罠をしかけたり、惑星P8X-987の住民を殺害しカサンドラの体内に爆弾を仕掛けたりした。他のゴアウルドに先んじて個人用遮蔽装置を開発したために支配階級から追放されるなど、ゴアウルドの中では技術的に進んでいる。また、ホクター（ホク・タウリ：強化したタウリ\[地球人\]）を自分の宿主にしようと研究をすすめていた（これはエンシェント由来の技術を使用していた）。同種の研究は後にアヌビスがほぼ完成させた。
 
 <!-- end list -->
 
-  - バール ([Ba'al](https://ja.wikipedia.org/wiki/:en:Ba'al_\(Stargate\) "wikilink")) - クリフ・サイモン ([Cliff Simon](https://ja.wikipedia.org/wiki/:en:Cliff_Simon "wikilink"))（声：[小島敏彦](https://ja.wikipedia.org/wiki/小島敏彦 "wikilink")）
+  - バール ([Ba'al](https://ja.wikipedia.org/wiki/:en:Ba'al_\(Stargate\) "wikilink")) - クリフ・サイモン ([Cliff Simon](https://ja.wikipedia.org/wiki/:en:Cliff_Simon "wikilink"))（声：[小島敏彦](../Page/小島敏彦.md "wikilink")）
 
 <!-- end list -->
 
@@ -875,7 +875,7 @@
 
 ## 関連項目
 
-  - [スターゲイト](https://ja.wikipedia.org/wiki/スターゲイト "wikilink")（SG-1の一年前）
+  - [スターゲイト](../Page/スターゲイト.md "wikilink")（SG-1の一年前）
   - [スターゲイト アトランティス](https://ja.wikipedia.org/wiki/スターゲイト_アトランティス "wikilink")（スピンオフシリーズ）
 
 ## 外部リンク

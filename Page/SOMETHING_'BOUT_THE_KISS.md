@@ -9,9 +9,9 @@
 
 初の[ダラス・オースティンプロデュース](https://ja.wikipedia.org/wiki/:en:Dallas_Austin "wikilink")。当時のプロデューサーの小室哲哉による紹介で実現された。安室の元へ届いたこの曲のデモ・テープは[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[R\&Bシンガー](../Page/リズム・アンド・ブルース.md "wikilink")、[モニカが歌っていたという](https://ja.wikipedia.org/wiki/:en:monica_\(singer\) "wikilink")。
 
-カップリングは[TK PRESENTS名義で](https://ja.wikipedia.org/wiki/小室ファミリー "wikilink")[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[元旦](https://ja.wikipedia.org/wiki/元旦 "wikilink")に発売された「[YOU ARE THE ONE](../Page/YOU_ARE_THE_ONE.md "wikilink")」で、安室と[黒人](https://ja.wikipedia.org/wiki/黒人 "wikilink")R\&Bグループの[IMAJIN](https://ja.wikipedia.org/wiki/IMAJIN "wikilink")がデュエットしたバージョンで収録された。安室自身が「私のコンサートで歌いたいので私のバージョンを作って欲しい」と小室にリクエストしたという。IMAJINのパートは原曲の男性パートであり、日本語詞を英語訳したものであった。このバージョンは[2000年](../Page/2000年.md "wikilink")に行われた復帰後初の全国ツアー『[NAMIE AMURO TOUR "GENIUS 2000"](https://ja.wikipedia.org/wiki/NAMIE_AMURO_TOUR_“GENIUS_2000” "wikilink")』で披露されている。
+カップリングは[TK PRESENTS名義で](../Page/小室ファミリー.md "wikilink")[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[元旦](https://ja.wikipedia.org/wiki/元旦 "wikilink")に発売された「[YOU ARE THE ONE](../Page/YOU_ARE_THE_ONE.md "wikilink")」で、安室と[黒人](../Page/黒人.md "wikilink")R\&Bグループの[IMAJIN](https://ja.wikipedia.org/wiki/IMAJIN "wikilink")がデュエットしたバージョンで収録された。安室自身が「私のコンサートで歌いたいので私のバージョンを作って欲しい」と小室にリクエストしたという。IMAJINのパートは原曲の男性パートであり、日本語詞を英語訳したものであった。このバージョンは[2000年](../Page/2000年.md "wikilink")に行われた復帰後初の全国ツアー『[NAMIE AMURO TOUR "GENIUS 2000"](https://ja.wikipedia.org/wiki/NAMIE_AMURO_TOUR_“GENIUS_2000” "wikilink")』で披露されている。
 
-安室のシングルで唯一8cmCDと12cmCDで発売されている。12cmには[リミックス](https://ja.wikipedia.org/wiki/リミックス "wikilink")も収録されており、ピクチャーレーベル仕様となっている。
+安室のシングルで唯一8cmCDと12cmCDで発売されている。12cmには[リミックス](../Page/リミックス.md "wikilink")も収録されており、ピクチャーレーベル仕様となっている。
 
 [ラップ](../Page/ラップ.md "wikilink")入りバージョンで披露する場合は、ラップ終了後のサビの部分を英語で歌っている。元々はコーラスが英語で安室自身は日本語で歌っているのだが、ラップが終わってから突入するサビの部分だけは安室も英語で歌っている（テレビ出演、ライブ共に）。
 
@@ -61,7 +61,7 @@ YOU ARE THE ONE FEATURING IMAJIN
   - **SOMETHING 'BOUT THE KISS**
       - CD
     <!-- end list -->
-      - オリジナル『**[GENIUS 2000](https://ja.wikipedia.org/wiki/GENIUS_2000 "wikilink")**』
+      - オリジナル『**[GENIUS 2000](../Page/GENIUS_2000.md "wikilink")**』
           - 表記されていないが、ラップ入り（RAP詞：Jasper Cameron）のアルバムヴァージョンで収録。
       - ベスト『**[LOVE ENHANCED {{Color](https://ja.wikipedia.org/wiki/LOVE_ENHANCED_single_collection "wikilink")**』(new vocal)
           - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")を再レコーディング、サビでの英語コーラスがないバージョンで収録。

@@ -1,9 +1,9 @@
 > この記事は[NexTone](https://ja.wikipedia.org/wiki/NexTone)から翻訳されています。
 
 
-**株式会社NexTone**（ネクストーン、）は、委託によって[音楽](../Page/音楽.md "wikilink")の[著作権](../Page/著作権.md "wikilink")を管理する企業。本社は[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[広尾にある](https://ja.wikipedia.org/wiki/広尾_\(渋谷区\) "wikilink")。主な株主は、エイベックス・ミュージック・パブリッシング、[フェイス](https://ja.wikipedia.org/wiki/フェイス_\(企業\) "wikilink")、アミューズなどである。
+**株式会社NexTone**（ネクストーン、）は、委託によって[音楽](../Page/音楽.md "wikilink")の[著作権](../Page/著作権.md "wikilink")を管理する企業。本社は[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[広尾にある](../Page/広尾_\(渋谷区\).md "wikilink")。主な株主は、エイベックス・ミュージック・パブリッシング、[フェイス](../Page/フェイス_\(企業\).md "wikilink")、アミューズなどである。
 
-[2001年](../Page/2001年.md "wikilink")の[著作権等管理事業法](https://ja.wikipedia.org/wiki/著作権等管理事業法 "wikilink")の施行をうけて、それまで[日本音楽著作権協会](../Page/日本音楽著作権協会.md "wikilink")（JASRAC）が独占していた音楽著作権管理事業に参入した。
+[2001年](../Page/2001年.md "wikilink")の[著作権等管理事業法](../Page/著作権等管理事業法.md "wikilink")の施行をうけて、それまで[日本音楽著作権協会](../Page/日本音楽著作権協会.md "wikilink")（JASRAC）が独占していた音楽著作権管理事業に参入した。
 
 [2016年](../Page/2016年.md "wikilink")2月1日付で、[ジャパン・ライツ・クリアランス](https://ja.wikipedia.org/wiki/ジャパン・ライツ・クリアランス "wikilink")と合併し、株式会社イーライセンスから株式会社NexToneに商号変更した\[1\]。
 

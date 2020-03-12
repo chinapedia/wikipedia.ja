@@ -1,7 +1,7 @@
 > この記事は[OPERATIONG.G.](https://ja.wikipedia.org/wiki/OPERATIONG.G.)から翻訳されています。
 
 
-『**OPERATION G.G.**』（オペレーション ジー・ジー）は[さいとう・たかを](../Page/さいとう・たかを.md "wikilink")の[劇画](../Page/劇画.md "wikilink")作品。[1999年](../Page/1999年.md "wikilink")から2001年にかけて、[リイドコミック](https://ja.wikipedia.org/wiki/リイドコミック "wikilink")及び[リイドコミック爆](https://ja.wikipedia.org/wiki/リイドコミック爆 "wikilink")（[リイド社](https://ja.wikipedia.org/wiki/リイド社 "wikilink")）に連載されていた。[鷹匠政彦](https://ja.wikipedia.org/wiki/鷹匠政彦 "wikilink")によるオリジナル脚本で一話80ページの全15話からなる。
+『**OPERATION G.G.**』（オペレーション ジー・ジー）は[さいとう・たかを](../Page/さいとう・たかを.md "wikilink")の[劇画](../Page/劇画.md "wikilink")作品。[1999年](../Page/1999年.md "wikilink")から2001年にかけて、[リイドコミック](../Page/リイドコミック.md "wikilink")及び[リイドコミック爆](https://ja.wikipedia.org/wiki/リイドコミック爆 "wikilink")（[リイド社](../Page/リイド社.md "wikilink")）に連載されていた。[鷹匠政彦](https://ja.wikipedia.org/wiki/鷹匠政彦 "wikilink")によるオリジナル脚本で一話80ページの全15話からなる。
 
 ## 内容
 
@@ -9,13 +9,13 @@
 
 ### オペレーションG・Gとは
 
-たとえ外国で人質にされた[日本人](https://ja.wikipedia.org/wiki/日本人 "wikilink")を救出する為でも、[日本政府](https://ja.wikipedia.org/wiki/日本政府 "wikilink")が武装した[自衛隊](../Page/自衛隊.md "wikilink")や[警察](https://ja.wikipedia.org/wiki/警察 "wikilink")をその国へ送ることは[憲法上認められていない](https://ja.wikipedia.org/wiki/日本国憲法 "wikilink")。そこで「そのような日本人を救出すること」を目的に「ひとりの元[省庁幹部と自衛隊対テロ特殊部隊以上の戦闘能力を持った](https://ja.wikipedia.org/wiki/日本の行政機関 "wikilink")5人」が集まった。表の顔は[NPO](../Page/NPO.md "wikilink")「海外邦人危機管理研究所」。この5人が「オペレーションG・G」である。「オペレーションG・G」の活動は日本政府中枢の暗黙の認可を受けているが、多くが海外での非合法な任務であるため一切が秘密裏に行なわれる。「G・G」はリーダー五条厳（ごじょう・げん〉の頭文字であると同時に「Gun ＆ Genocide」、すなわち世界中に蔓延する銃器と大量殺戮から人々を救う意味が込められている。
+たとえ外国で人質にされた[日本人](https://ja.wikipedia.org/wiki/日本人 "wikilink")を救出する為でも、[日本政府](https://ja.wikipedia.org/wiki/日本政府 "wikilink")が武装した[自衛隊](../Page/自衛隊.md "wikilink")や[警察](../Page/警察.md "wikilink")をその国へ送ることは[憲法上認められていない](https://ja.wikipedia.org/wiki/日本国憲法 "wikilink")。そこで「そのような日本人を救出すること」を目的に「ひとりの元[省庁幹部と自衛隊対テロ特殊部隊以上の戦闘能力を持った](https://ja.wikipedia.org/wiki/日本の行政機関 "wikilink")5人」が集まった。表の顔は[NPO](../Page/NPO.md "wikilink")「海外邦人危機管理研究所」。この5人が「オペレーションG・G」である。「オペレーションG・G」の活動は日本政府中枢の暗黙の認可を受けているが、多くが海外での非合法な任務であるため一切が秘密裏に行なわれる。「G・G」はリーダー五条厳（ごじょう・げん〉の頭文字であると同時に「Gun ＆ Genocide」、すなわち世界中に蔓延する銃器と大量殺戮から人々を救う意味が込められている。
 
 ## 登場人物
 
 ### オペレーション G・Gメンバー
 
-  - 五条 厳: リーダー。元米陸軍[デルタフォース](https://ja.wikipedia.org/wiki/デルタフォース "wikilink")隊員で湾岸戦争の英雄(最終階級・大尉)。チーム内では作戦立案と近接戦闘を主に担当。
+  - 五条 厳: リーダー。元米陸軍[デルタフォース](../Page/デルタフォース.md "wikilink")隊員で湾岸戦争の英雄(最終階級・大尉)。チーム内では作戦立案と近接戦闘を主に担当。
 
 <!-- end list -->
 

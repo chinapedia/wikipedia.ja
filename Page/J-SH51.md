@@ -5,7 +5,7 @@
 
 ## 特徴
 
-携帯電話としては世界で初めてSDカードスロットを搭載し、SDカードに[モバイルカメラで撮影した画像やダウンロードした](../Page/写メール.md "wikilink")[着信メロディ](../Page/着信メロディ.md "wikilink")、[JAVAアプリ等を保存することが出来た](https://ja.wikipedia.org/wiki/Javaアプリケーション "wikilink")。また、ミュージックプレーヤー([SD-Audio](https://ja.wikipedia.org/wiki/SD-Audio "wikilink")・[MP3](../Page/MP3.md "wikilink")方式)としての利用も可能となっている。
+携帯電話としては世界で初めてSDカードスロットを搭載し、SDカードに[モバイルカメラで撮影した画像やダウンロードした](../Page/写メール.md "wikilink")[着信メロディ](../Page/着信メロディ.md "wikilink")、[JAVAアプリ等を保存することが出来た](https://ja.wikipedia.org/wiki/Javaアプリケーション "wikilink")。また、ミュージックプレーヤー([SD-Audio](../Page/SD-Audio.md "wikilink")・[MP3](../Page/MP3.md "wikilink")方式)としての利用も可能となっている。
 
 この時期にして既に、カメラでの静動画撮影・送受信、メモリーカードとの密接な連携、音楽再生機能を有し、現代のハイエンド端末の基礎を作り、SHARPの開発力を高め、端末シェア躍進の足がかりとなった。今ではその殆ど が日本の携帯電話機の標準機能となっている。
 
@@ -23,9 +23,9 @@
 
 ## 関連項目
 
-  - [ソフトバンクの端末一覧](https://ja.wikipedia.org/wiki/ソフトバンクの端末一覧 "wikilink")
-  - [音楽携帯](https://ja.wikipedia.org/wiki/音楽携帯 "wikilink")
-  - [スペースチャンネル5](https://ja.wikipedia.org/wiki/スペースチャンネル5 "wikilink")
+  - [ソフトバンクの端末一覧](../Page/ソフトバンクの端末一覧.md "wikilink")
+  - [音楽携帯](../Page/音楽携帯.md "wikilink")
+  - [スペースチャンネル5](../Page/スペースチャンネル5.md "wikilink")
 
 ## 外部リンク
 

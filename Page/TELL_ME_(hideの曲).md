@@ -9,7 +9,7 @@
 
 ## 概要
 
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[12月12日](../Page/12月12日.md "wikilink")に[マキシシングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")化、再発売。
+  - [2007年](../Page/2007年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink")に[マキシシングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")化、再発売。
   - 1stアルバム『[HIDE YOUR FACE](../Page/HIDE_YOUR_FACE.md "wikilink")』から、エースコックのCMソングとしてリカット。 CMでは、hideが声で参加。(CMの最後に「スーパーカップ・ミニ」と言っている)
   - hideは、自身の前身バンド"サーベルタイガー"のTETSUに、ドラムを叩いて欲しかったと語っていた。 TRIBUTEアルバムではその旨が叶い、TETSUがドラムを叩き、ヴォーカルも同バンドのKYOが歌った。
   - hide Seva \[C-Aid\]のイベントでは、Spread Beaverの演奏に合わせ、GLAYのTERUが歌った。
@@ -20,7 +20,7 @@
 ## 収録曲
 
 1.  **TELL ME** イントロにはディレイを使っていたが、KIYOSHIが使わずに演奏していたのを見て、hideは関心していた。
-2.  **SCANNER \[愛のデュエット？\] Featuring RYUICHI (LUNA SEA)** [LUNA SEAの](../Page/LUNA_SEA.md "wikilink")[RYUICHIが参加](https://ja.wikipedia.org/wiki/河村隆一 "wikilink")。声質が近かったため、声を左右に分けた。 hide memorial summitでLUNA SEAがカバー。RYUICHIは「最大のリスペクトを込めて」とMCで語った。
+2.  **SCANNER \[愛のデュエット？\] Featuring RYUICHI (LUNA SEA)** [LUNA SEAの](../Page/LUNA_SEA.md "wikilink")[RYUICHIが参加](../Page/河村隆一.md "wikilink")。声質が近かったため、声を左右に分けた。 hide memorial summitでLUNA SEAがカバー。RYUICHIは「最大のリスペクトを込めて」とMCで語った。
 3.  **TELL ME \[Original TV mix\]** X JAPANが解散する前のシングルでは唯一、カラオケ・バージョンを収録。
 
 ### hide with Spread Beaver版

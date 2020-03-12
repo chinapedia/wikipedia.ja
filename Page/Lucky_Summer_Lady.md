@@ -5,13 +5,13 @@
 
 ## 解説
 
-[1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink")[11月](../Page/11月.md "wikilink")に結成されて以来アマチュアの[フュージョンバンドとして活動してきたTHE](../Page/フュージョン_\(音楽\).md "wikilink") SQUAREのファーストアルバムであり、プロのフュージョングループとしての一歩を踏み出した作品であるといえる。とりわけ「A FEEL DEEP INSIDE」は1曲目に収録されており、「LUCKY SUMMER LADY」はタイトル曲ということから、この2曲はスクェアのアーティストとしての原点といえる楽曲である。また5曲目に収録されている「[愛は夢の中に](https://ja.wikipedia.org/wiki/愛は夢の中に "wikilink")」は[カーペンターズ](https://ja.wikipedia.org/wiki/カーペンターズ "wikilink")のヒット曲のカヴァーである。
+[1976年](../Page/1976年.md "wikilink")[11月](../Page/11月.md "wikilink")に結成されて以来アマチュアの[フュージョンバンドとして活動してきたTHE](../Page/フュージョン_\(音楽\).md "wikilink") SQUAREのファーストアルバムであり、プロのフュージョングループとしての一歩を踏み出した作品であるといえる。とりわけ「A FEEL DEEP INSIDE」は1曲目に収録されており、「LUCKY SUMMER LADY」はタイトル曲ということから、この2曲はスクェアのアーティストとしての原点といえる楽曲である。また5曲目に収録されている「[愛は夢の中に](https://ja.wikipedia.org/wiki/愛は夢の中に "wikilink")」は[カーペンターズ](https://ja.wikipedia.org/wiki/カーペンターズ "wikilink")のヒット曲のカヴァーである。
 
 このころのフュージョンは[ジャズ](../Page/ジャズ.md "wikilink")の一形態とみなされており、スクェアのこのアルバムにおいても「FUTURE FLY」や前述の「愛は夢の中に」はかなりジャズ色の強いアレンジがなされている。
 
 ## 収録曲
 
-1.  **A FEEL DEEP INSIDE** - [安藤正容](https://ja.wikipedia.org/wiki/安藤正容 "wikilink")作曲
+1.  **A FEEL DEEP INSIDE** - [安藤正容](../Page/安藤正容.md "wikilink")作曲
 2.  **LUCKY SUMMER LADY** - 安藤正容作曲
 3.  **THE NUMBER** - 安藤正容作曲
 4.  **FUTURE FLY** - 安藤正容作曲

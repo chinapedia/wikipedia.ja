@@ -5,12 +5,12 @@
 
 ## 概要
 
-このアルバムはジャケットや歌詞カードなど、全面において[MAYA MAXXによる](https://ja.wikipedia.org/wiki/MAYA_MAXX "wikilink")[イラスト](https://ja.wikipedia.org/wiki/イラスト "wikilink")が施されている。また、収録曲「インスタント ミュージック」の[プロモーションビデオにはthe](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink") pillowsのメンバーは一切登場せず、ひたすらMAYA MAXXによる[アニメ](../Page/アニメ.md "wikilink")で構成されている。 今作を最後に、オルタナティヴ・ロック色を強めるバンドの音楽性と自身のプレイが合わなくなってきた事を理由に、ベーシストの鹿島達也がサポート活動を離れた。
+このアルバムはジャケットや歌詞カードなど、全面において[MAYA MAXXによる](../Page/MAYA_MAXX.md "wikilink")[イラスト](https://ja.wikipedia.org/wiki/イラスト "wikilink")が施されている。また、収録曲「インスタント ミュージック」の[プロモーションビデオにはthe](../Page/ミュージック・ビデオ.md "wikilink") pillowsのメンバーは一切登場せず、ひたすらMAYA MAXXによる[アニメ](../Page/アニメ.md "wikilink")で構成されている。 今作を最後に、オルタナティヴ・ロック色を強めるバンドの音楽性と自身のプレイが合わなくなってきた事を理由に、ベーシストの鹿島達也がサポート活動を離れた。
 
 ## 収録曲
 
   -
-    作詞・作曲：[山中さわお](https://ja.wikipedia.org/wiki/山中さわお "wikilink")（\#1-6, \#8-12）
+    作詞・作曲：[山中さわお](../Page/山中さわお.md "wikilink")（\#1-6, \#8-12）
     作曲：山中さわお（\#7）
 
 <!-- end list -->

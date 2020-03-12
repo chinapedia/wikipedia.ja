@@ -1,7 +1,7 @@
 > この記事は[BUMP](https://ja.wikipedia.org/wiki/BUMP)から翻訳されています。
 
 
-「**君にBUMP**」（きみにバンプ）は、[ケツメイシ](https://ja.wikipedia.org/wiki/ケツメイシ "wikilink")の10枚目の[シングル](../Page/シングル.md "wikilink")。[ボーダフォン（現ソフトバンク）のCMに起用された](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")。
+「**君にBUMP**」（きみにバンプ）は、[ケツメイシ](../Page/ケツメイシ.md "wikilink")の10枚目の[シングル](../Page/シングル.md "wikilink")。[ボーダフォン（現ソフトバンク）のCMに起用された](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")。
 
 ## 解説
 
@@ -15,11 +15,11 @@ Words\&music:ケツメイシ
 
 1.  **君にBUMP**
       -
-        basic track:[NAOKI-T](https://ja.wikipedia.org/wiki/NAOKI-T "wikilink")
+        basic track:[NAOKI-T](../Page/NAOKI-T.md "wikilink")
         sound produce:YANAGIMAN
 2.  **そばにいて**
       -
-        basic track:[YANAGIMAN](https://ja.wikipedia.org/wiki/YANAGIMAN "wikilink")
+        basic track:[YANAGIMAN](../Page/YANAGIMAN.md "wikilink")
         sound produce:YANAGIMAN
 3.  **海〜シオサイ30φmix**
 4.  **よる☆かぜ 〜FPM disco tropicana〜**

@@ -5,18 +5,18 @@
 
 ## 概要
 
-[矢吹俊郎](https://ja.wikipedia.org/wiki/矢吹俊郎 "wikilink")プロデュースのアルバム第2弾。本作ではいきなりバラードから始まるが、その後の楽曲は前作と変わらぬ矢吹ナンバーが中心となっている。9曲目の「White Lie」は、矢吹の親友で[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")等をプロデュースする[本間昭光](https://ja.wikipedia.org/wiki/本間昭光 "wikilink")が手掛けている。また、8曲目の「JET PARK」と12曲目の「[恋してる...](https://ja.wikipedia.org/wiki/still_in_the_groove "wikilink")」ではメジャーデビュー後初の作詞に挑戦している。
+[矢吹俊郎](../Page/矢吹俊郎.md "wikilink")プロデュースのアルバム第2弾。本作ではいきなりバラードから始まるが、その後の楽曲は前作と変わらぬ矢吹ナンバーが中心となっている。9曲目の「White Lie」は、矢吹の親友で[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")等をプロデュースする[本間昭光](../Page/本間昭光.md "wikilink")が手掛けている。また、8曲目の「JET PARK」と12曲目の「[恋してる...](https://ja.wikipedia.org/wiki/still_in_the_groove "wikilink")」ではメジャーデビュー後初の作詞に挑戦している。
 
-7曲目の「What cheer?」は[PVが制作され](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、[DVD](../Page/DVD.md "wikilink")『[NANA CLIPS 2](https://ja.wikipedia.org/wiki/NANA_CLIPS#NANA_CLIPS_2 "wikilink")』に収録された。
+7曲目の「What cheer?」は[PVが制作され](../Page/ミュージック・ビデオ.md "wikilink")、[DVD](../Page/DVD.md "wikilink")『[NANA CLIPS 2](https://ja.wikipedia.org/wiki/NANA_CLIPS#NANA_CLIPS_2 "wikilink")』に収録された。
 
 ## 収録曲
 
 1.  **宝物** \[5:11\]
       -
-        作詞：NAOKO、作曲・編曲：[大平勉](https://ja.wikipedia.org/wiki/大平勉 "wikilink")
+        作詞：NAOKO、作曲・編曲：[大平勉](../Page/大平勉.md "wikilink")
 2.  **BE READY\!** \[4:21\]
       -
-        作詞・作曲・編曲：[矢吹俊郎](https://ja.wikipedia.org/wiki/矢吹俊郎 "wikilink")
+        作詞・作曲・編曲：[矢吹俊郎](../Page/矢吹俊郎.md "wikilink")
 3.  **keep your hands in the air** \[4:41\]
       -
         作詞：矢吹俊郎、作曲・編曲：[飯田高広](https://ja.wikipedia.org/wiki/飯田高広 "wikilink")
@@ -24,7 +24,7 @@
       -
         作詞・作曲・編曲：矢吹俊郎
     <!-- end list -->
-      - 『[いろメロミックス](https://ja.wikipedia.org/wiki/いろメロミックス "wikilink")』[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
+      - 『[いろメロミックス](https://ja.wikipedia.org/wiki/いろメロミックス "wikilink")』[CMソング](../Page/コマーシャルソング.md "wikilink")
 5.  **砂漠の海** \[4:31\]
       -
         作詞：矢吹俊郎、作曲・編曲：大平勉
@@ -39,12 +39,12 @@
         作詞：水樹奈々、作曲：飯田高広、編曲：飯田高広・大平勉
 9.  **White Lie** \[4:26\]
       -
-        作詞：NAOKO、作曲・編曲：[本間昭光](https://ja.wikipedia.org/wiki/本間昭光 "wikilink")
+        作詞：NAOKO、作曲・編曲：[本間昭光](../Page/本間昭光.md "wikilink")
 10. **Nocturne -revision-** \[5:02\]
       -
-        作詞・作曲：[志倉千代丸](https://ja.wikipedia.org/wiki/志倉千代丸 "wikilink")、編曲：大平勉
+        作詞・作曲：[志倉千代丸](../Page/志倉千代丸.md "wikilink")、編曲：大平勉
     <!-- end list -->
-      - [OVA](../Page/OVA.md "wikilink")『[Memories Off 2nd](https://ja.wikipedia.org/wiki/Memories_Off_2nd "wikilink")』[オープニングテーマアレンジバージョン](https://ja.wikipedia.org/wiki/主題歌 "wikilink")
+      - [OVA](../Page/OVA.md "wikilink")『[Memories Off 2nd](../Page/Memories_Off_2nd.md "wikilink")』[オープニングテーマアレンジバージョン](../Page/主題歌.md "wikilink")
 11. **ひまわり** \[4:19\]
       -
         作詞：NAOKO、作曲：本間昭光、編曲：本間昭光・大平勉
@@ -56,11 +56,11 @@
 13. **in a fix** \[4:18\]
       -
         作詞・作曲・編曲：矢吹俊郎
-14. **[New Sensation](https://ja.wikipedia.org/wiki/New_Sensation "wikilink")** \[4:35\]
+14. **[New Sensation](../Page/New_Sensation.md "wikilink")** \[4:35\]
       -
         作詞・作曲・編曲：矢吹俊郎
     <!-- end list -->
-      - [尾崎商事](https://ja.wikipedia.org/wiki/菅公学生服 "wikilink")『カンコー学生服』CMソング
+      - [尾崎商事](../Page/菅公学生服.md "wikilink")『カンコー学生服』CMソング
 15. **[refrain](https://ja.wikipedia.org/wiki/still_in_the_groove "wikilink") -classico-** \[4:55\]
       -
         作詞・作曲：矢吹俊郎、編曲：矢吹俊郎・大平勉
@@ -69,12 +69,12 @@
 
 **宝物**
 
-  - [synth programming](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink") & [Keyboard](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")：[tsutomu ohira](https://ja.wikipedia.org/wiki/大平勉 "wikilink")
-  - [guitars](../Page/ギター.md "wikilink")：[itaru watanabe](https://ja.wikipedia.org/wiki/渡辺格_\(ミュージシャン\) "wikilink")
+  - [synth programming](../Page/ミュージックシーケンサー.md "wikilink") & [Keyboard](../Page/キーボード_\(楽器\).md "wikilink")：[tsutomu ohira](../Page/大平勉.md "wikilink")
+  - [guitars](../Page/ギター.md "wikilink")：[itaru watanabe](../Page/渡辺格_\(ミュージシャン\).md "wikilink")
 
 **BE READY\!**
 
-  - all instrumentals：[toshiro yabuki](https://ja.wikipedia.org/wiki/矢吹俊郎 "wikilink")
+  - all instrumentals：[toshiro yabuki](../Page/矢吹俊郎.md "wikilink")
   - guitar solo：[kenji kitajima](../Page/北島健二.md "wikilink")
   - [chorus](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")：koh & mika kondo
 
@@ -115,8 +115,8 @@
 
 **White Lie**
 
-  - synth programming & Keyboard：[akimitsu homma](https://ja.wikipedia.org/wiki/本間昭光 "wikilink") & tsutomu ohira
-  - bass & guitars：[naoki hayashibe](https://ja.wikipedia.org/wiki/林部直樹 "wikilink")
+  - synth programming & Keyboard：[akimitsu homma](../Page/本間昭光.md "wikilink") & tsutomu ohira
+  - bass & guitars：[naoki hayashibe](../Page/林部直樹.md "wikilink")
   - chorus：nana mizuki & mika kondo
 
 **Nocturne -revision-**
@@ -141,7 +141,7 @@
 
   - all instrumentals：toshiro yabuki
   - guitar solo：kenji kitajima
-  - chorus：masami okui & koh & kazue tsuda & kousaku tanaka & urara sato & masaya yagyu & [akio mishima](https://ja.wikipedia.org/wiki/三嶋章夫 "wikilink")
+  - chorus：masami okui & koh & kazue tsuda & kousaku tanaka & urara sato & masaya yagyu & [akio mishima](../Page/三嶋章夫.md "wikilink")
 
 **New Sensation**
 

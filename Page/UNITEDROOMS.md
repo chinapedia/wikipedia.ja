@@ -11,7 +11,7 @@
 
 ## 沿革
 
-  - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")8月20日 - 渋谷区に開業。
+  - [2004年](../Page/2004年.md "wikilink")8月20日 - 渋谷区に開業。
 
 ## 外部リンク
 

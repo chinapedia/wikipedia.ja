@@ -1,15 +1,15 @@
 > この記事は[MEN\'S KNUCKLE](https://ja.wikipedia.org/wiki/MEN\'S_KNUCKLE)から翻訳されています。
 
 
-『**MEN'S KNUCKLE**』（メンズナックル）は[ミリオン出版](https://ja.wikipedia.org/wiki/ミリオン出版 "wikilink")より発行されている[お兄系](https://ja.wikipedia.org/wiki/お兄系 "wikilink")[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")。『[men's egg](https://ja.wikipedia.org/wiki/men's_egg "wikilink")』の増刊として創刊された。通称「メンナク」。毎月24日発売の月刊誌。[表紙](https://ja.wikipedia.org/wiki/表紙 "wikilink")に記されている[サブタイトル](https://ja.wikipedia.org/wiki/サブタイトル "wikilink")は「New Outlaw Fasion & Lifestyle Magazine」。創刊編集長は[倉科典仁](https://ja.wikipedia.org/wiki/倉科典仁 "wikilink")。
+『**MEN'S KNUCKLE**』（メンズナックル）は[ミリオン出版](https://ja.wikipedia.org/wiki/ミリオン出版 "wikilink")より発行されている[お兄系](../Page/お兄系.md "wikilink")[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")。『[men's egg](https://ja.wikipedia.org/wiki/men's_egg "wikilink")』の増刊として創刊された。通称「メンナク」。毎月24日発売の月刊誌。[表紙](https://ja.wikipedia.org/wiki/表紙 "wikilink")に記されている[サブタイトル](../Page/サブタイトル.md "wikilink")は「New Outlaw Fasion & Lifestyle Magazine」。創刊編集長は[倉科典仁](https://ja.wikipedia.org/wiki/倉科典仁 "wikilink")。
 
 ## 概要
 
-[2003年](../Page/2003年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、[ミリオン出版](https://ja.wikipedia.org/wiki/ミリオン出版 "wikilink")の[倉科典仁](https://ja.wikipedia.org/wiki/倉科典仁 "wikilink")・編集長が『MEN'S KNUCKLE』の前身『G-STYLE（ジー スタイル、GIGOLO-style）』を立ち上げる。『G-STYLE』は[ファッションモデル](https://ja.wikipedia.org/wiki/ファッションモデル "wikilink")全員を[歌舞伎町](https://ja.wikipedia.org/wiki/歌舞伎町 "wikilink")の[ホストから起用するという業界初の試みを行なった雑誌だった](https://ja.wikipedia.org/wiki/ホストクラブ "wikilink")。
+[2003年](../Page/2003年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、[ミリオン出版](https://ja.wikipedia.org/wiki/ミリオン出版 "wikilink")の[倉科典仁](https://ja.wikipedia.org/wiki/倉科典仁 "wikilink")・編集長が『MEN'S KNUCKLE』の前身『G-STYLE（ジー スタイル、GIGOLO-style）』を立ち上げる。『G-STYLE』は[ファッションモデル](../Page/ファッションモデル.md "wikilink")全員を[歌舞伎町](../Page/歌舞伎町.md "wikilink")の[ホストから起用するという業界初の試みを行なった雑誌だった](../Page/ホストクラブ.md "wikilink")。
 
 この試みは書籍『カリスマホストたちの「帝王学」』、そしてホストを主役にした[写真集](../Page/写真集.md "wikilink")『アジアンジゴロ』　の発売を通してホストに関心を持った倉科編集長のアイディアだった。
 
-[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、誌名を『**MEN'S KNUCKLE**』に改称した。
+[2004年](../Page/2004年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、誌名を『**MEN'S KNUCKLE**』に改称した。
 
 2代目編集長 篠塚時代にはメディアミックスを多数しかけた。
 
@@ -25,9 +25,9 @@
 
 ### 誌面の内容
 
-ハイスペックファッションが満載されたニュー[アウトロー](https://ja.wikipedia.org/wiki/アウトロー "wikilink")系ファション&ライフスタイルマガジン。読者層は10代後半から20代前半のいわゆる『ちょいわるギャルオヤジ』が対象。
+ハイスペックファッションが満載されたニュー[アウトロー](../Page/アウトロー.md "wikilink")系ファション&ライフスタイルマガジン。読者層は10代後半から20代前半のいわゆる『ちょいわるギャルオヤジ』が対象。
 
-グループ会社から出版されている『[men's egg](https://ja.wikipedia.org/wiki/men's_egg "wikilink")』との違いについて、[倉科典仁](https://ja.wikipedia.org/wiki/倉科典仁 "wikilink")・編集長は「取り上げているスタイルは『[men's egg](https://ja.wikipedia.org/wiki/men's_egg "wikilink")』の半分程度だが、よりそれを深掘りし、[不良っぽさを加え](https://ja.wikipedia.org/wiki/不良行為少年 "wikilink")、[モノトーン](https://ja.wikipedia.org/wiki/モノトーン "wikilink")中心の世界で表現した雑誌」と述べている。
+グループ会社から出版されている『[men's egg](https://ja.wikipedia.org/wiki/men's_egg "wikilink")』との違いについて、[倉科典仁](https://ja.wikipedia.org/wiki/倉科典仁 "wikilink")・編集長は「取り上げているスタイルは『[men's egg](https://ja.wikipedia.org/wiki/men's_egg "wikilink")』の半分程度だが、よりそれを深掘りし、[不良っぽさを加え](../Page/不良行為少年.md "wikilink")、[モノトーン](https://ja.wikipedia.org/wiki/モノトーン "wikilink")中心の世界で表現した雑誌」と述べている。
 
 誌面は[ストリートスナップ](https://ja.wikipedia.org/wiki/ストリートスナップ "wikilink")や[ヘアカタログ](https://ja.wikipedia.org/wiki/ヘアカタログ "wikilink")など、[ファッション](../Page/ファッション.md "wikilink")関係の記事が中心だが、高校生から20代前半の若い男性読者の関心が強い[性](https://ja.wikipedia.org/wiki/性 "wikilink")や[サブカルチャー](../Page/サブカルチャー.md "wikilink")に関する記事も豊富に取り上げられている。
 
@@ -51,7 +51,7 @@
   - 2006年 10月 月刊化。
   - 2008年 1月 別冊ムックとして『HOST KNUCKLE（ホストナックル）』が発売される。
   - 2008年 3月 ターゲットを10代に絞った弟誌『BOY'S KNUCKLE（ボーイズナックル） 』が創刊された。
-  - 2013年 6月 MMO型オンラインゲーム[真・女神転生IMAGINE](https://ja.wikipedia.org/wiki/真・女神転生IMAGINE "wikilink")とタイアップコラボ（SSコンテスト・記念アバター衣裳等）が行われる
+  - 2013年 6月 MMO型オンラインゲーム[真・女神転生IMAGINE](../Page/真・女神転生IMAGINE.md "wikilink")とタイアップコラボ（SSコンテスト・記念アバター衣裳等）が行われる
 
 ## 連載
 
@@ -66,21 +66,21 @@
   - Lock on My HEART
     『MEN'S KNUCKLE』誌面の流れをトータルで監修している[スタイリスト](https://ja.wikipedia.org/wiki/スタイリスト "wikilink")[越田和隆行](https://ja.wikipedia.org/wiki/越田和隆行 "wikilink")の連載。毎号、おススメの[ブランド](../Page/ブランド.md "wikilink")を紹介している。
   - GIRL'S KNUCKLE COLELECTION
-    街で編集部が見つけたオシャレな[女性](../Page/女性.md "wikilink")の[スナップ](https://ja.wikipedia.org/wiki/スナップ写真 "wikilink")。
+    街で編集部が見つけたオシャレな[女性](../Page/女性.md "wikilink")の[スナップ](../Page/スナップ写真.md "wikilink")。
   - ギャル☆プリ
     女性読者が投稿した[プリクラ](https://ja.wikipedia.org/wiki/プリクラ "wikilink")を掲載するコーナー。
   - メン☆マス
     ファッション、映画、音楽、DVDなどの編集部が選んだMUSTな情報を紹介するコーナー。
   - 『月刊 陽生-Monthly YOUSEI-』
-    専属モデル[陽生](https://ja.wikipedia.org/wiki/陽生 "wikilink")のコーナー。
+    専属モデル[陽生](../Page/陽生.md "wikilink")のコーナー。
   - MEN'S KNUCKLE SHOP LIST
-    その号に掲載された[ブランド](../Page/ブランド.md "wikilink")＆[ショップ](https://ja.wikipedia.org/wiki/ショップ "wikilink")と地方別の全国の[セレクトショップ](https://ja.wikipedia.org/wiki/セレクトショップ "wikilink")が掲載されている。
+    その号に掲載された[ブランド](../Page/ブランド.md "wikilink")＆[ショップ](https://ja.wikipedia.org/wiki/ショップ "wikilink")と地方別の全国の[セレクトショップ](../Page/セレクトショップ.md "wikilink")が掲載されている。
   - 次回予告
     次の号で特集する予定の記事や企画などを予告。
 
 ## 在籍モデル
 
-  - [陽生](https://ja.wikipedia.org/wiki/陽生 "wikilink")
+  - [陽生](../Page/陽生.md "wikilink")
   - [リョーマ](https://ja.wikipedia.org/wiki/リョーマ_\(ファッションモデル\) "wikilink")
   - [工藤蓮](https://ja.wikipedia.org/wiki/工藤蓮 "wikilink")
   - 和明
@@ -140,11 +140,11 @@
 
 ## 関連項目
 
-  - [お兄系](https://ja.wikipedia.org/wiki/お兄系 "wikilink")、[デリッカー](https://ja.wikipedia.org/wiki/デリッカー "wikilink")
+  - [お兄系](../Page/お兄系.md "wikilink")、[デリッカー](../Page/デリッカー.md "wikilink")
   - [109-2 (商業施設)](https://ja.wikipedia.org/wiki/109_\(商業施設\)#109-2（渋谷） "wikilink")
-  - [Men's egg](https://ja.wikipedia.org/wiki/Men's_egg "wikilink")、[MEN'S ROSES](https://ja.wikipedia.org/wiki/MEN'S_ROSES "wikilink")、[men's Digger](https://ja.wikipedia.org/wiki/men's_Digger "wikilink")、[Men's SPIDER](https://ja.wikipedia.org/wiki/Men's_SPIDER "wikilink")
+  - [Men's egg](../Page/Men's_egg.md "wikilink")、[MEN'S ROSES](../Page/MEN'S_ROSES.md "wikilink")、[men's Digger](https://ja.wikipedia.org/wiki/men's_Digger "wikilink")、[Men's SPIDER](https://ja.wikipedia.org/wiki/Men's_SPIDER "wikilink")
   - [若者服](https://ja.wikipedia.org/wiki/若者服 "wikilink")
-  - [ピカルの定理](https://ja.wikipedia.org/wiki/ピカルの定理 "wikilink") - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")のお笑い番組。[パロディ](https://ja.wikipedia.org/wiki/パロディ "wikilink")コントである「メンズナックルに憧れて」が放送されており、本誌の2012年12月号で特集されている。
+  - [ピカルの定理](https://ja.wikipedia.org/wiki/ピカルの定理 "wikilink") - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")のお笑い番組。[パロディ](../Page/パロディ.md "wikilink")コントである「メンズナックルに憧れて」が放送されており、本誌の2012年12月号で特集されている。
   - [A\&G NEXT GENERATION Lady Go\!\!](https://ja.wikipedia.org/wiki/A&G_NEXT_GENERATION_Lady_Go!! "wikilink")([超\!A\&G+](https://ja.wikipedia.org/wiki/超!A&G+ "wikilink")) ‐ 同番組の現・水曜日パーソナリティ、[大久保瑠美](https://ja.wikipedia.org/wiki/大久保瑠美 "wikilink")のコーナー「ルミナク」は当雑誌の名称のパロディである。
 
 ## 外部リンク

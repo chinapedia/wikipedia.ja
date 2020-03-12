@@ -5,7 +5,7 @@
 
 ## 内容
 
-[シャ乱Q](../Page/シャ乱Q.md "wikilink")の[つんく♂](https://ja.wikipedia.org/wiki/つんく♂ "wikilink")が、「アジアの中の日本」を由来にして、ミディアムバラード風に制作した曲。『[ダイハツ](https://ja.wikipedia.org/wiki/ダイハツ "wikilink") [ドラリオン](https://ja.wikipedia.org/wiki/シルク・ドゥ・ソレイユ "wikilink")』日本公演第2弾イメージソング。
+[シャ乱Q](../Page/シャ乱Q.md "wikilink")の[つんく♂](https://ja.wikipedia.org/wiki/つんく♂ "wikilink")が、「アジアの中の日本」を由来にして、ミディアムバラード風に制作した曲。『[ダイハツ](https://ja.wikipedia.org/wiki/ダイハツ "wikilink") [ドラリオン](../Page/シルク・ドゥ・ソレイユ.md "wikilink")』日本公演第2弾イメージソング。
 
 ### 「十年愛」の歌詞
 
@@ -16,8 +16,8 @@
 <!-- end list -->
 
   - [歩いてる](https://ja.wikipedia.org/wiki/歩いてる_\(モーニング娘。の曲\) "wikilink")
-  - [シャボン玉](https://ja.wikipedia.org/wiki/シャボン玉_\(モーニング娘。の曲\) "wikilink")
-  - [ハッピーサマーウェディング](https://ja.wikipedia.org/wiki/ハッピーサマーウェディング "wikilink")
+  - [シャボン玉](../Page/シャボン玉_\(モーニング娘。の曲\).md "wikilink")
+  - [ハッピーサマーウェディング](../Page/ハッピーサマーウェディング.md "wikilink")
 
 <!-- end list -->
 
@@ -25,13 +25,13 @@
 
 <!-- end list -->
 
-  - [ここにいるぜぇ\!](https://ja.wikipedia.org/wiki/ここにいるぜぇ! "wikilink")
-  - [大阪 恋の歌](https://ja.wikipedia.org/wiki/大阪_恋の歌 "wikilink")
-  - [浪漫 〜MY DEAR BOY〜](https://ja.wikipedia.org/wiki/浪漫_〜MY_DEAR_BOY〜 "wikilink") （サブタイトルを省略しただけなので、タイトルをそのまま使っているとの見方も出来る）
-  - [愛あらばIT'S ALL RIGHT](https://ja.wikipedia.org/wiki/愛あらばIT'S_ALL_RIGHT "wikilink")
+  - [ここにいるぜぇ\!](../Page/ここにいるぜぇ!.md "wikilink")
+  - [大阪 恋の歌](../Page/大阪_恋の歌.md "wikilink")
+  - [浪漫 〜MY DEAR BOY〜](../Page/浪漫_〜MY_DEAR_BOY〜.md "wikilink") （サブタイトルを省略しただけなので、タイトルをそのまま使っているとの見方も出来る）
+  - [愛あらばIT'S ALL RIGHT](../Page/愛あらばIT'S_ALL_RIGHT.md "wikilink")
   - [恋のダンスサイト](../Page/恋のダンスサイト.md "wikilink")
-  - [直感2 〜逃した魚は大きいぞ\!〜](https://ja.wikipedia.org/wiki/直感2_〜逃した魚は大きいぞ!〜 "wikilink")
-  - [THE マンパワー\!\!\!](https://ja.wikipedia.org/wiki/THE_マンパワー!!! "wikilink")
+  - [直感2 〜逃した魚は大きいぞ\!〜](../Page/直感2_〜逃した魚は大きいぞ!〜.md "wikilink")
+  - [THE マンパワー\!\!\!](../Page/THE_マンパワー!!!.md "wikilink")
 
 <!-- end list -->
 
@@ -39,10 +39,10 @@
 
 <!-- end list -->
 
-  - [LOVEマシーン](https://ja.wikipedia.org/wiki/LOVEマシーン "wikilink")
-  - [モーニングコーヒー](https://ja.wikipedia.org/wiki/モーニングコーヒー "wikilink")
-  - [ザ☆ピ〜ス\!](https://ja.wikipedia.org/wiki/ザ☆ピ〜ス! "wikilink")
-  - [そうだ\! We're ALIVE](https://ja.wikipedia.org/wiki/そうだ!_We're_ALIVE "wikilink")
+  - [LOVEマシーン](../Page/LOVEマシーン.md "wikilink")
+  - [モーニングコーヒー](../Page/モーニングコーヒー.md "wikilink")
+  - [ザ☆ピ〜ス\!](../Page/ザ☆ピ〜ス!.md "wikilink")
+  - [そうだ\! We're ALIVE](../Page/そうだ!_We're_ALIVE.md "wikilink")
 
 <!-- end list -->
 
@@ -50,12 +50,12 @@
 
 <!-- end list -->
 
-  - [Mr.Moonlight 〜愛のビッグバンド〜](https://ja.wikipedia.org/wiki/Mr.Moonlight_〜愛のビッグバンド〜 "wikilink")
-  - [恋愛レボリューション21](https://ja.wikipedia.org/wiki/恋愛レボリューション21 "wikilink")
+  - [Mr.Moonlight 〜愛のビッグバンド〜](../Page/Mr.Moonlight_〜愛のビッグバンド〜.md "wikilink")
+  - [恋愛レボリューション21](../Page/恋愛レボリューション21.md "wikilink")
 
 ## 収録曲
 
-全作詞・作曲：つんく、全編曲：[高橋諭一](https://ja.wikipedia.org/wiki/高橋諭一 "wikilink")
+全作詞・作曲：つんく、全編曲：[高橋諭一](../Page/高橋諭一.md "wikilink")
 
 1.  **僕らが生きる MY ASIA**
 2.  **十年愛**

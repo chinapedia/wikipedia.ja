@@ -11,7 +11,7 @@
 
 1.  **愛のMelody**
       -
-        作詞・作曲：[オオヤギヒロオ](https://ja.wikipedia.org/wiki/オオヤギヒロオ "wikilink") / 編曲：[武藤良明](https://ja.wikipedia.org/wiki/武藤良明 "wikilink")
+        作詞・作曲：[オオヤギヒロオ](../Page/オオヤギヒロオ.md "wikilink") / 編曲：[武藤良明](https://ja.wikipedia.org/wiki/武藤良明 "wikilink")
         坂本、井ノ原にソロパートがある。
 2.  **Remember**
       -
@@ -25,14 +25,14 @@
 
 ## タイアップ
 
-  - [TBS系](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")「[学校へ行こう\!](https://ja.wikipedia.org/wiki/学校へ行こう! "wikilink")」テーマソング（\#1）
+  - [TBS系](../Page/TBSテレビ.md "wikilink")「[学校へ行こう\!](https://ja.wikipedia.org/wiki/学校へ行こう! "wikilink")」テーマソング（\#1）
   - TBS系「学校へ行こう\!」挿入歌（\#2）
 
 ## 収録アルバム
 
-  - 『[Volume 6](https://ja.wikipedia.org/wiki/Volume_6 "wikilink")』（\#1）
+  - 『[Volume 6](../Page/Volume_6.md "wikilink")』（\#1）
       - アルバムバージョンを収録。（初回限定盤のみメドレーの1曲としても収録。）
-  - 『[Very best II](https://ja.wikipedia.org/wiki/Very_best_II "wikilink")』（\#1）
+  - 『[Very best II](../Page/Very_best_II.md "wikilink")』（\#1）
   - 『[SUPER Very best](https://ja.wikipedia.org/wiki/SUPER_Very_best "wikilink")』（\#1）
 
 [Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:V6の楽曲](https://ja.wikipedia.org/wiki/Category:V6の楽曲 "wikilink") [Category:オオヤギヒロオが制作した楽曲](https://ja.wikipedia.org/wiki/Category:オオヤギヒロオが制作した楽曲 "wikilink") [Category:学校へ行こう\!_(バラエティー番組)](https://ja.wikipedia.org/wiki/Category:学校へ行こう!_\(バラエティー番組\) "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")

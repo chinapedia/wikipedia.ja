@@ -18,16 +18,16 @@
         作詞：[河口恭吾](../Page/河口恭吾.md "wikilink")、作曲：[椎名Kay太](https://ja.wikipedia.org/wiki/椎名Kay太 "wikilink")、編曲：[武藤良明](https://ja.wikipedia.org/wiki/武藤良明 "wikilink")
 3.  **bird cage**
       -
-        作詞：[20th Century](../Page/V6_\(グループ\).md "wikilink")、作曲：[井ノ原快彦](https://ja.wikipedia.org/wiki/井ノ原快彦 "wikilink")、編曲：[小幡英之](https://ja.wikipedia.org/wiki/小幡英之 "wikilink")
+        作詞：[20th Century](../Page/V6_\(グループ\).md "wikilink")、作曲：[井ノ原快彦](../Page/井ノ原快彦.md "wikilink")、編曲：[小幡英之](../Page/小幡英之.md "wikilink")
 4.  **Take it easy**
       -
-        作詞/作曲/編曲：[オオヤギヒロオ](https://ja.wikipedia.org/wiki/オオヤギヒロオ "wikilink")、Brass Arrangement：[金子隆博](https://ja.wikipedia.org/wiki/金子隆博 "wikilink")
+        作詞/作曲/編曲：[オオヤギヒロオ](../Page/オオヤギヒロオ.md "wikilink")、Brass Arrangement：[金子隆博](../Page/金子隆博.md "wikilink")
 5.  **Precious Love**（Laid－back Mix）
       -
         編曲：[米光亮](../Page/米光亮.md "wikilink")
 6.  **Precious Love**（AKIRA'S CORE FIGHTER REMIX）
       -
-        Remix：[AKIRA](https://ja.wikipedia.org/wiki/AKIRA_\(PALM_DRIVE\) "wikilink")
+        Remix：[AKIRA](../Page/AKIRA_\(PALM_DRIVE\).md "wikilink")
 7.  **LOVE SONG**（tramuntana mix）
 8.  **LOVE SONG**（no place to hide mix）
       -
@@ -40,7 +40,7 @@
         Remix：[DRAGON FLY](https://ja.wikipedia.org/wiki/DRAGON_FLY "wikilink")
 11. **Take it easy**（eltorpedo mix）
       -
-        Remix：[安部潤](https://ja.wikipedia.org/wiki/安部潤 "wikilink")
+        Remix：[安部潤](../Page/安部潤.md "wikilink")
 12. **Take it easy**（Groove Da House Remix）
       -
         Remix：[村山晋一郎](https://ja.wikipedia.org/wiki/村山晋一郎 "wikilink")
@@ -56,8 +56,8 @@
 
 ## 収録アルバム
 
-  - 『[Very best](https://ja.wikipedia.org/wiki/Very_best "wikilink")』（\#1）
-  - 『[Replay〜Best of 20th Century〜](https://ja.wikipedia.org/wiki/Replay〜Best_of_20th_Century〜 "wikilink")』（\#1, 2, 4）
+  - 『[Very best](../Page/Very_best.md "wikilink")』（\#1）
+  - 『[Replay〜Best of 20th Century〜](../Page/Replay〜Best_of_20th_Century〜.md "wikilink")』（\#1, 2, 4）
       - \#2, 4はスペシャル盤のみ収録。
 
 [Category:2000年のシングル](https://ja.wikipedia.org/wiki/Category:2000年のシングル "wikilink") [Category:20th_Centuryの楽曲](https://ja.wikipedia.org/wiki/Category:20th_Centuryの楽曲 "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")

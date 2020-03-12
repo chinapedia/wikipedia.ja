@@ -13,8 +13,8 @@ c/wに「V6」名義の楽曲が収録されるのは今回が初めて。
 
 1.  **CHANGE THE WORLD**
       -
-        作詞：[松本理恵](https://ja.wikipedia.org/wiki/松本理恵 "wikilink")、作曲：[渡辺未来](https://ja.wikipedia.org/wiki/渡辺未来 "wikilink")、編曲：[上野圭市](https://ja.wikipedia.org/wiki/上野圭市 "wikilink")
-        V6が初めて担当した[アニメ](../Page/アニメ.md "wikilink")の[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")でもある。またメンバーの[三宅健](https://ja.wikipedia.org/wiki/三宅健 "wikilink")は、原作者である[高橋留美子](../Page/高橋留美子.md "wikilink")のファンであり、原作の『[犬夜叉](https://ja.wikipedia.org/wiki/犬夜叉 "wikilink")』を愛読している。
+        作詞：[松本理恵](../Page/松本理恵.md "wikilink")、作曲：[渡辺未来](../Page/渡辺未来.md "wikilink")、編曲：[上野圭市](../Page/上野圭市.md "wikilink")
+        V6が初めて担当した[アニメ](../Page/アニメ.md "wikilink")の[主題歌](../Page/主題歌.md "wikilink")でもある。またメンバーの[三宅健](../Page/三宅健.md "wikilink")は、原作者である[高橋留美子](../Page/高橋留美子.md "wikilink")のファンであり、原作の『[犬夜叉](https://ja.wikipedia.org/wiki/犬夜叉 "wikilink")』を愛読している。
         坂本と井ノ原にソロパートがある。
 2.  **上弦の月**
       -
@@ -30,15 +30,15 @@ c/wに「V6」名義の楽曲が収録されるのは今回が初めて。
 
   - **CHANGE THE WORLD** 2001（"Very best" LIMITED VERSION）
       -
-        1stベストアルバム『[Very best](https://ja.wikipedia.org/wiki/Very_best "wikilink")』収録の新録バージョン
+        1stベストアルバム『[Very best](../Page/Very_best.md "wikilink")』収録の新録バージョン
   - **CHANGE THE WORLD** -Very best II-Ver.
       -
-        2ndベストアルバム『[Very best II](https://ja.wikipedia.org/wiki/Very_best_II "wikilink")』限定生産盤B収録の新録バージョン
+        2ndベストアルバム『[Very best II](../Page/Very_best_II.md "wikilink")』限定生産盤B収録の新録バージョン
 
 ## タイアップ
 
   - [日本テレビ系アニメ](../Page/日本テレビ放送網.md "wikilink") 『[犬夜叉](https://ja.wikipedia.org/wiki/犬夜叉 "wikilink")』初代オープニングテーマ（\#1）
-  - [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[お笑いV6病棟\!](https://ja.wikipedia.org/wiki/お笑いV6病棟! "wikilink")」テーマソング（\#2）
+  - [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[お笑いV6病棟\!](../Page/お笑いV6病棟!.md "wikilink")」テーマソング（\#2）
 
 ## カバー
 
@@ -50,12 +50,12 @@ c/wに「V6」名義の楽曲が収録されるのは今回が初めて。
 
 ## 収録アルバム
 
-  - 『[Very best](https://ja.wikipedia.org/wiki/Very_best "wikilink")』（\#1）
+  - 『[Very best](../Page/Very_best.md "wikilink")』（\#1）
       - アルバムバージョンを収録。
-  - 『[Volume 6](https://ja.wikipedia.org/wiki/Volume_6 "wikilink")』（\#1）
+  - 『[Volume 6](../Page/Volume_6.md "wikilink")』（\#1）
       - 初回限定盤ではメドレーの1曲としても収録されている。
-  - 『[Best of Coming Century 〜Together〜](https://ja.wikipedia.org/wiki/Best_of_Coming_Century_〜Together〜 "wikilink")』（\#3）
-  - 『[Very best II](https://ja.wikipedia.org/wiki/Very_best_II "wikilink")』（\#1-3）
+  - 『[Best of Coming Century 〜Together〜](../Page/Best_of_Coming_Century_〜Together〜.md "wikilink")』（\#3）
+  - 『[Very best II](../Page/Very_best_II.md "wikilink")』（\#1-3）
       - \#1は生産限定盤Bのみ別アルバムバージョンも収録。
       - \#3は生産限定盤Aのみ収録。
   - 『[SUPER Very best](https://ja.wikipedia.org/wiki/SUPER_Very_best "wikilink")』（\#1）

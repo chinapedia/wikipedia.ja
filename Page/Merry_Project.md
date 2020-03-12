@@ -1,7 +1,7 @@
 > この記事は[Merry Project](https://ja.wikipedia.org/wiki/Merry_Project)から翻訳されています。
 
 
-**Merry Project**（**メリープロジェクト**）は、[アートディレクター](https://ja.wikipedia.org/wiki/アートディレクター "wikilink")[水谷孝次](https://ja.wikipedia.org/wiki/水谷孝次 "wikilink")が主宰する、[笑顔とメッセージを集める](https://ja.wikipedia.org/wiki/微笑み "wikilink")、1999年から開始されたアートプロジェクト。これまで世界32カ国5万人以上の笑顔を撮影。
+**Merry Project**（**メリープロジェクト**）は、[アートディレクター](../Page/アートディレクター.md "wikilink")[水谷孝次](../Page/水谷孝次.md "wikilink")が主宰する、[笑顔とメッセージを集める](../Page/微笑み.md "wikilink")、1999年から開始されたアートプロジェクト。これまで世界32カ国5万人以上の笑顔を撮影。
 
 2009年に 特定非営利活動法人MERRY PROJECT としてNPO法人として設立登記。
 
@@ -9,7 +9,7 @@
 
 [merry](https://ja.wikipedia.org/wiki/merry "wikilink")【形】陽気｛ようき｝な、お祭り気分の、快活｛かいかつ｝な
 
-「[Merry](https://ja.wikipedia.org/wiki/Merry "wikilink")」は[メリークリスマス](https://ja.wikipedia.org/wiki/メリークリスマス "wikilink")、などで使用される「メリー」と同じ意味で、楽しい、[幸せなどの意味を持つ言葉である](https://ja.wikipedia.org/wiki/幸福 "wikilink")。
+「[Merry](https://ja.wikipedia.org/wiki/Merry "wikilink")」は[メリークリスマス](https://ja.wikipedia.org/wiki/メリークリスマス "wikilink")、などで使用される「メリー」と同じ意味で、楽しい、[幸せなどの意味を持つ言葉である](../Page/幸福.md "wikilink")。
 
 ## コンセプト
 
@@ -31,7 +31,7 @@
 
 2009年 Merry in Asiaとして中国・四川省、インドネシア・バンダアチェを取材し「Merry Umbrella Project」を開催。
 
-2010年1月 [TBS系列](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")／[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")「[情熱大陸](https://ja.wikipedia.org/wiki/情熱大陸 "wikilink")」に「[1月10日放送 笑顔をデザインする男](http://www.mbs.jp/jounetsu/2010/01_10.shtml)」として出演。2010年5月[上海万博](https://ja.wikipedia.org/wiki/上海万博 "wikilink")に招聘。渋谷と同日同時刻に笑顔の傘を展開。
+2010年1月 [TBS系列](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")／[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")「[情熱大陸](../Page/情熱大陸.md "wikilink")」に「[1月10日放送 笑顔をデザインする男](http://www.mbs.jp/jounetsu/2010/01_10.shtml)」として出演。2010年5月[上海万博](https://ja.wikipedia.org/wiki/上海万博 "wikilink")に招聘。渋谷と同日同時刻に笑顔の傘を展開。
 
 「Merry Umbrella Project」「Merry Farming」が2010年[グッドデザイン賞](https://ja.wikipedia.org/wiki/グッドデザイン賞 "wikilink")を受賞。2011年キッズデザイン賞受賞。同年から、国連生物多様性の10年のパートナーシップ事業「MERRY FOREST」がスタート。
 
@@ -122,7 +122,7 @@
 
 <!-- end list -->
 
-  - [1月4日](../Page/1月4日.md "wikilink")〜[4月16日](https://ja.wikipedia.org/wiki/4月16日 "wikilink")　ラフォーレミュージアム原宿+ラフォーレ原宿館内にて展覧会「Merry at Laforet 2000」開催
+  - [1月4日](../Page/1月4日.md "wikilink")〜[4月16日](../Page/4月16日.md "wikilink")　ラフォーレミュージアム原宿+ラフォーレ原宿館内にて展覧会「Merry at Laforet 2000」開催
   - [4月4日](../Page/4月4日.md "wikilink")〜[4月7日](../Page/4月7日.md "wikilink")　新宿EPSON SQUAREにて展覧会「Merry at EPSON 2000」開催
   - [4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")〜[4月25日](../Page/4月25日.md "wikilink")　名古屋スペースプリズムデザイナーズギャラリーにて展覧会「Merry at Nagoya 2000」開催
   - [5月18日](../Page/5月18日.md "wikilink")〜[5月19日](../Page/5月19日.md "wikilink")　ニューヨークMETROPORITAN PAVIRIONにて「Tokyo Street 2000」に参加
@@ -170,11 +170,11 @@
 
 <!-- end list -->
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
 
 <!-- end list -->
 
-  - [3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")〜[9月25日](../Page/9月25日.md "wikilink")　[2005年日本国際博覧会](https://ja.wikipedia.org/wiki/2005年日本国際博覧会 "wikilink")　愛知万博「愛・地球広場」にて「Merry EXPO」開催　巨大エキスポビジョンで世界中の人々の笑顔が上映された
+  - [3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")〜[9月25日](../Page/9月25日.md "wikilink")　[2005年日本国際博覧会](../Page/2005年日本国際博覧会.md "wikilink")　愛知万博「愛・地球広場」にて「Merry EXPO」開催　巨大エキスポビジョンで世界中の人々の笑顔が上映された
   - [5月30日](../Page/5月30日.md "wikilink")　名古屋　栄にてゴミゼロの日「Merry EXPO Clean up project」開催
   - [7月22日](../Page/7月22日.md "wikilink")　新橋、汐留にて「Merry EXPO Clean up project in Shinbashi Shiodome」開催
   - [9月17日](../Page/9月17日.md "wikilink")　六本木にて「Merry EXPO ＋Ropponngi Clean up」開催
@@ -183,7 +183,7 @@
 
 <!-- end list -->
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")
+  - [2006年](../Page/2006年.md "wikilink")
 
 <!-- end list -->
 
@@ -222,7 +222,7 @@
 <!-- end list -->
 
   - [1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink")〜[3月1日](../Page/3月1日.md "wikilink")　MERRY YOKOHAMA at JICA（JICA横浜）
-  - [3月20日](../Page/3月20日.md "wikilink")〜[3月21日](https://ja.wikipedia.org/wiki/3月21日 "wikilink")　MERRY FARM MARKET（名古屋テレビ塔）
+  - [3月20日](../Page/3月20日.md "wikilink")〜[3月21日](../Page/3月21日.md "wikilink")　MERRY FARM MARKET（名古屋テレビ塔）
   - [4月18日](../Page/4月18日.md "wikilink")〜[4月19日](../Page/4月19日.md "wikilink")　EARTH DAY TOKYO 2009 （代々木公園）
   - [6月7日](../Page/6月7日.md "wikilink")〜[6月14日](../Page/6月14日.md "wikilink")　MERRY in Asia （中国・四川）
   - [6月22日](../Page/6月22日.md "wikilink")〜[7月2日](../Page/7月2日.md "wikilink")　MERRY in Asia （インドネシア・スマトラ島）
@@ -238,7 +238,7 @@
 
 <!-- end list -->
 
-  - [3月8日](../Page/3月8日.md "wikilink")〜[3月21日](https://ja.wikipedia.org/wiki/3月21日 "wikilink")　MERRY GO ROUND（東京・JICA地球ひろば）
+  - [3月8日](../Page/3月8日.md "wikilink")〜[3月21日](../Page/3月21日.md "wikilink")　MERRY GO ROUND（東京・JICA地球ひろば）
   - [4月1日](../Page/4月1日.md "wikilink")〜　Merry Bowwow Project（愛知・犬山市）
   - [5月5日](../Page/5月5日.md "wikilink")　Merry Umbrella Project in 渋谷（東京・渋谷）
   - [5月5日](../Page/5月5日.md "wikilink")　Merry Umbrella Project in 上海万博（中国・上海）
@@ -296,7 +296,7 @@
 
 <!-- end list -->
 
-  - [1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink")　「MERRY SMILE ACTION in 東松島」（宮城県・東松島市）
+  - [1月1日](../Page/1月1日.md "wikilink")　「MERRY SMILE ACTION in 東松島」（宮城県・東松島市）
   - [1月4日](../Page/1月4日.md "wikilink")　「MERRY SMILE ACTION in いわき」（福島県・いわき市）
   - [1月14日](../Page/1月14日.md "wikilink")　「MERRY SMILE ACTION in 陸前高田」（岩手県・陸前高田市）
   - 2月 - 「MERRY SMILE ACTION in いわきサンシャインマラソン」（福島県・いわき市）
@@ -448,7 +448,7 @@
 
 <!-- end list -->
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")
+  - [2006年](../Page/2006年.md "wikilink")
 
 <!-- end list -->
 
@@ -529,8 +529,8 @@
   - 2000年12月 - 「Merry」（BAUHAUS）
   - 2001年4月 - 「Merry-London Life」
   - 2001年6月 - 「Merry at Roppongi」
-  - 2002年1月 - 「Merry in KOBE」（[神戸新聞](https://ja.wikipedia.org/wiki/神戸新聞 "wikilink")出版センター）
-  - 2005年12月 - 「MERRY EXPO - Book of global exchange -」（[新風舎](https://ja.wikipedia.org/wiki/新風舎 "wikilink")）
+  - 2002年1月 - 「Merry in KOBE」（[神戸新聞](../Page/神戸新聞.md "wikilink")出版センター）
+  - 2005年12月 - 「MERRY EXPO - Book of global exchange -」（[新風舎](../Page/新風舎.md "wikilink")）
   - 2007年11月 - 「MERRY MESSAGE CD , MERRY MESSAGE DVD」
   - 2008年12月 - 「MERRY」
   - 2010年1月 - 「デザインが奇跡を起こす」（[PHP研究所](../Page/PHP研究所.md "wikilink")）
@@ -556,7 +556,7 @@
 
 ## 関連項目
 
-  - [水谷孝次](https://ja.wikipedia.org/wiki/水谷孝次 "wikilink")
+  - [水谷孝次](../Page/水谷孝次.md "wikilink")
 
 ## 外部リンク
 

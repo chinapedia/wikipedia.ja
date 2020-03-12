@@ -1,15 +1,15 @@
 > この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
 
 
-『**エストポリス伝記II**』（エストポリスでんきツー）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")に[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")から発売された[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")[ソフト](../Page/ゲームソフト.md "wikilink")。『[エストポリス伝記](https://ja.wikipedia.org/wiki/エストポリス伝記 "wikilink")』シリーズ3部作として発表されたうちの2作目にあたる。略称は「エストII」。
+『**エストポリス伝記II**』（エストポリスでんきツー）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")に[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")から発売された[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")[ソフト](../Page/ゲームソフト.md "wikilink")。『[エストポリス伝記](../Page/エストポリス伝記.md "wikilink")』シリーズ3部作として発表されたうちの2作目にあたる。略称は「エストII」。
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月25日](../Page/2月25日.md "wikilink")には、[スクウェア・エニックス](https://ja.wikipedia.org/wiki/スクウェア・エニックス "wikilink")よりニンテンドーDS版『**[エストポリス](../Page/エストポリス.md "wikilink")**』が発売。DS版は本作『II』のストーリーをベースとした大幅なリメイクで、3Dポリゴンを使用したアクションRPGに変貌を遂げた。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月25日](../Page/2月25日.md "wikilink")には、[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")よりニンテンドーDS版『**[エストポリス](../Page/エストポリス.md "wikilink")**』が発売。DS版は本作『II』のストーリーをベースとした大幅なリメイクで、3Dポリゴンを使用したアクションRPGに変貌を遂げた。
 
 ## 概要
 
 第一作『エストポリス伝記』の中の節々で語られていた英雄マキシムの“虚空島戦役”における人間と神々の戦いをストーリーとしたロールプレイングゲームで、ゲーム内の年表では「エストポリス伝記」から100年溯る時代を舞台としている。
 
-制作も第一作と同じく[ネバーランドカンパニー](https://ja.wikipedia.org/wiki/ネバーランドカンパニー "wikilink")。ディレクター、シナリオは[宮田正英](https://ja.wikipedia.org/wiki/宮田正英 "wikilink")。また、楽曲は[塩生康範](https://ja.wikipedia.org/wiki/塩生康範 "wikilink")が担当している。欧米版『Lufia II』は4ヶ国語（[英語](../Page/英語.md "wikilink")、[ドイツ語](../Page/ドイツ語.md "wikilink")、[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")、[オランダ語](../Page/オランダ語.md "wikilink")）に翻訳され発売された。
+制作も第一作と同じく[ネバーランドカンパニー](../Page/ネバーランドカンパニー.md "wikilink")。ディレクター、シナリオは[宮田正英](https://ja.wikipedia.org/wiki/宮田正英 "wikilink")。また、楽曲は[塩生康範](https://ja.wikipedia.org/wiki/塩生康範 "wikilink")が担当している。欧米版『Lufia II』は4ヶ国語（[英語](../Page/英語.md "wikilink")、[ドイツ語](../Page/ドイツ語.md "wikilink")、[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")、[オランダ語](../Page/オランダ語.md "wikilink")）に翻訳され発売された。
 
 ## ストーリー
 
@@ -57,10 +57,10 @@
 ## サウンドトラック
 
   - 『GAME SOUND LEGEND CONSUMER SERIES エストポリス伝記 サウンドトラック』
-    [サイトロン・デジタルコンテンツ](https://ja.wikipedia.org/wiki/サイトロン・デジタルコンテンツ "wikilink")より[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月18日](../Page/1月18日.md "wikilink")発売。CD4枚組（SCDC-00486 - 9）。
+    [サイトロン・デジタルコンテンツ](../Page/サイトロン・デジタルコンテンツ.md "wikilink")より[2006年](../Page/2006年.md "wikilink")[1月18日](../Page/1月18日.md "wikilink")発売。CD4枚組（SCDC-00486 - 9）。
     『エストポリス伝記』、『エストポリス伝記II』、『エストポリス伝記 よみがえる伝説』のオリジナルサウンドトラック。ボーナストラックとして、『エストポリス伝記』の楽曲のアレンジバージョンが2曲収録されている。
   - 『エストポリス オリジナル・サウンドトラック』
-    [スクウェア・エニックス](https://ja.wikipedia.org/wiki/スクウェア・エニックス "wikilink")より[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月3日](../Page/3月3日.md "wikilink")発売。CD2枚組（SQEX-10187 - 8）。
+    [スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")より[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月3日](../Page/3月3日.md "wikilink")発売。CD2枚組（SQEX-10187 - 8）。
     リメイク版であるニンテンドーDS版『エストポリス』のオリジナルサウンドトラックに加え、新規アレンジトラック14曲とドラマCD（6話分）を収録。
   - 『エストポリス伝記I・II -SUPER Rom Cassette Disc In TAITO Vol.1-』
     [シティコネクションのレーベル](https://ja.wikipedia.org/wiki/シティコネクション_\(企業\) "wikilink")・クラリスディスクより[2017年](../Page/2017年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")発売。CD3枚組（CDST-10053）。
@@ -84,7 +84,7 @@
 
 ## 関連項目
 
-  - [エストポリス伝記](https://ja.wikipedia.org/wiki/エストポリス伝記 "wikilink") - シリーズ全般についてはこちらを参照。
+  - [エストポリス伝記](../Page/エストポリス伝記.md "wikilink") - シリーズ全般についてはこちらを参照。
   - [エストポリス](../Page/エストポリス.md "wikilink") - 本作のアクションRPGリメイク。
 
 [Category:エストポリス伝記](https://ja.wikipedia.org/wiki/Category:エストポリス伝記 "wikilink") [Category:コンピュータRPG](https://ja.wikipedia.org/wiki/Category:コンピュータRPG "wikilink") [Category:スーパーファミコン用ソフト](https://ja.wikipedia.org/wiki/Category:スーパーファミコン用ソフト "wikilink") [Category:1995年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1995年のコンピュータゲーム "wikilink") [Category:冒険ゲーム](https://ja.wikipedia.org/wiki/Category:冒険ゲーム "wikilink")

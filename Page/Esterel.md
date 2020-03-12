@@ -3,7 +3,7 @@
 
 **Esterel** は、複雑な[リアルタイムシステム](https://ja.wikipedia.org/wiki/リアルタイムシステム "wikilink")向けの同期型[プログラミング言語](../Page/プログラミング言語.md "wikilink")である。[命令型プログラミング](../Page/命令型プログラミング.md "wikilink")のスタイルで、[並列性と](https://ja.wikipedia.org/wiki/並列コンピューティング "wikilink")[プリエンプション](https://ja.wikipedia.org/wiki/プリエンプション "wikilink")を単純に表せる。従って、制御系の設計に非常に適している。
 
-開発は、Gérard Berry に率いられた[パリ国立高等鉱業学校](https://ja.wikipedia.org/wiki/パリ国立高等鉱業学校 "wikilink")と [INRIA](https://ja.wikipedia.org/wiki/INRIA "wikilink") のチームにより、[1980年代](../Page/1980年代.md "wikilink")初めに開始された。現在のコンパイラは、Esterel のソースコードから[C言語](../Page/C言語.md "wikilink")のコードか[レジスタ転送レベル](../Page/レジスタ転送レベル.md "wikilink")のハードウェア記述（[VHDL](https://ja.wikipedia.org/wiki/VHDL "wikilink")か[Verilog](https://ja.wikipedia.org/wiki/Verilog "wikilink")）を生成する。
+開発は、Gérard Berry に率いられた[パリ国立高等鉱業学校](../Page/パリ国立高等鉱業学校.md "wikilink")と [INRIA](https://ja.wikipedia.org/wiki/INRIA "wikilink") のチームにより、[1980年代](../Page/1980年代.md "wikilink")初めに開始された。現在のコンパイラは、Esterel のソースコードから[C言語](../Page/C言語.md "wikilink")のコードか[レジスタ転送レベル](../Page/レジスタ転送レベル.md "wikilink")のハードウェア記述（[VHDL](../Page/VHDL.md "wikilink")か[Verilog](../Page/Verilog.md "wikilink")）を生成する。
 
 開発は今も継続している。商用版には統合開発環境 Esterel Studio がある。その開発会社 Esterel Technologies は [IEEE](../Page/IEEE.md "wikilink") での標準化を開始している。現在、[Esterel v7 Reference Manual Version v7 30 – initial IEEE standardization proposal](http://www.esterel-technologies.com/files/Esterel-Language-v7-Ref-Man.pdf) が一般に公開されている。
 
@@ -66,7 +66,7 @@ Esterel での時間に記法は、非同期言語のそれとは異なる。具
   - 完全に決定的な動作
   - 有限状態言語
       - 実行時間が予測可能（[最悪実行時間](../Page/最悪実行時間.md "wikilink")）
-      - 形式的な検証が容易（[形式的検証](https://ja.wikipedia.org/wiki/形式的検証 "wikilink")）
+      - 形式的な検証が容易（[形式的検証](../Page/形式的検証.md "wikilink")）
   - ソフトウェアとしてもハードウェアとしても実装可能
 
 ## 欠点

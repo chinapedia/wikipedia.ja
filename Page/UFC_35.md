@@ -3,7 +3,7 @@
 
 **UFC 35: Throwdown**（ユーエフシー・サーティファイブ：スロウダウン）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2002年](../Page/2002年.md "wikilink")[1月11日](../Page/1月11日.md "wikilink")、[コネチカット州](../Page/コネチカット州.md "wikilink")[アンキャスビル](https://ja.wikipedia.org/wiki/アンキャスビル "wikilink")のモヒガン・サン・アリーナで開催された。
 
-大会第6試合では[デイブ・メネー](../Page/デイブ・メネー.md "wikilink")対[ムリーロ・ブスタマンチ](https://ja.wikipedia.org/wiki/ムリーロ・ブスタマンチ "wikilink")のミドル級タイトルマッチが、メインイベントでは[ジェンス・パルヴァー](https://ja.wikipedia.org/wiki/ジェンス・パルヴァー "wikilink")対[BJ・ペン](https://ja.wikipedia.org/wiki/BJ・ペン "wikilink")のライト級タイトルマッチがそれぞれ行われた。
+大会第6試合では[デイブ・メネー](../Page/デイブ・メネー.md "wikilink")対[ムリーロ・ブスタマンチ](../Page/ムリーロ・ブスタマンチ.md "wikilink")のミドル級タイトルマッチが、メインイベントでは[ジェンス・パルヴァー](../Page/ジェンス・パルヴァー.md "wikilink")対[BJ・ペン](../Page/BJ・ペン.md "wikilink")のライト級タイトルマッチがそれぞれ行われた。
 
 ## 大会概要
 
@@ -15,28 +15,28 @@
 
   - 第1試合 ミドル級 5分3R
     ○  [ユージーン・ジャクソン](https://ja.wikipedia.org/wiki/ユージーン・ジャクソン "wikilink") vs.  キース・ロッケル ×
-    2R 3:46 [フロントチョーク](https://ja.wikipedia.org/wiki/フロントチョーク "wikilink")
+    2R 3:46 [フロントチョーク](../Page/フロントチョーク.md "wikilink")
   - 第2試合 ウェルター級 5分3R
-    ○  ギル・カスティーリョ vs.  [クリス・ブレナン](https://ja.wikipedia.org/wiki/クリス・ブレナン "wikilink") ×
+    ○  ギル・カスティーリョ vs.  [クリス・ブレナン](../Page/クリス・ブレナン.md "wikilink") ×
     3R終了 判定3-0（29-27、30-27、30-27）
   - 第3試合 ライトヘビー級 5分3R
-    ○  [ケビン・ランデルマン](https://ja.wikipedia.org/wiki/ケビン・ランデルマン "wikilink") vs.  [レナート・ババル](../Page/レナート・ババル.md "wikilink") ×
+    ○  [ケビン・ランデルマン](../Page/ケビン・ランデルマン.md "wikilink") vs.  [レナート・ババル](../Page/レナート・ババル.md "wikilink") ×
     3R終了 判定3-0（30-26、30-25、30-26）
   - 第4試合 ミドル級 5分3R
     ○  [アンドレイ・シモノフ](../Page/アンドレイ・シモノフ.md "wikilink") vs.  [ヒカルド・アルメイダ](../Page/ヒカルド・アルメイダ.md "wikilink") ×
-    2R 2:01 TKO（レフェリーストップ：右フック→[パウンド](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    2R 2:01 TKO（レフェリーストップ：右フック→[パウンド](../Page/グラウンドパンチ.md "wikilink")）
   - 第5試合 ライトヘビー級 5分3R
-    ○  [チャック・リデル](../Page/チャック・リデル.md "wikilink") vs.  [アマール・スロエフ](https://ja.wikipedia.org/wiki/アマール・スロエフ "wikilink") ×
+    ○  [チャック・リデル](../Page/チャック・リデル.md "wikilink") vs.  [アマール・スロエフ](../Page/アマール・スロエフ.md "wikilink") ×
     3R終了 判定3-0（30-27、30-27、30-27）
   - 第6試合 UFC世界ミドル級タイトルマッチ 5分5R
-    ○  [ムリーロ・ブスタマンチ](https://ja.wikipedia.org/wiki/ムリーロ・ブスタマンチ "wikilink") vs.  [デイブ・メネー](../Page/デイブ・メネー.md "wikilink") ×
-    2R 0:44 TKO（レフェリーストップ：[パウンド](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    ○  [ムリーロ・ブスタマンチ](../Page/ムリーロ・ブスタマンチ.md "wikilink") vs.  [デイブ・メネー](../Page/デイブ・メネー.md "wikilink") ×
+    2R 0:44 TKO（レフェリーストップ：[パウンド](../Page/グラウンドパンチ.md "wikilink")）
     ※ブスタマンチが王座獲得に成功。
   - 第7試合 ヘビー級 5分3R
     ○  [リコ・ロドリゲス](../Page/リコ・ロドリゲス_\(格闘家\).md "wikilink") vs.  [ジェフ・モンソン](../Page/ジェフ・モンソン.md "wikilink") ×
-    3R 3:00 TKO（レフェリーストップ：[パウンド](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    3R 3:00 TKO（レフェリーストップ：[パウンド](../Page/グラウンドパンチ.md "wikilink")）
   - 第8試合 UFC世界ライト級タイトルマッチ 5分5R
-    ○  [ジェンス・パルヴァー](https://ja.wikipedia.org/wiki/ジェンス・パルヴァー "wikilink") vs.  [BJ・ペン](https://ja.wikipedia.org/wiki/BJ・ペン "wikilink") ×
+    ○  [ジェンス・パルヴァー](../Page/ジェンス・パルヴァー.md "wikilink") vs.  [BJ・ペン](../Page/BJ・ペン.md "wikilink") ×
     5R終了 判定2-0（48-45、48-47、47-47）
     ※パルヴァーが2度目の王座防衛に成功。
 
@@ -45,7 +45,7 @@
 ## 関連項目
 
   - [UFCの大会一覧](../Page/UFCの大会一覧.md "wikilink")
-  - [UFC王者一覧](https://ja.wikipedia.org/wiki/UFC王者一覧 "wikilink")
+  - [UFC王者一覧](../Page/UFC王者一覧.md "wikilink")
 
 ## 外部リンク
 

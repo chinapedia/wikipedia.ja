@@ -1,13 +1,13 @@
 > この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
 
 
-「**カローラIIにのって**」（カローラツーにのって）は、[小沢健二](../Page/小沢健二.md "wikilink")の6枚目の[シングル](../Page/シングル.md "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink")に[東芝EMIより発売された](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")。
+「**カローラIIにのって**」（カローラツーにのって）は、[小沢健二](../Page/小沢健二.md "wikilink")の6枚目の[シングル](../Page/シングル.md "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[1月1日](../Page/1月1日.md "wikilink")に[東芝EMIより発売された](../Page/EMIミュージック・ジャパン.md "wikilink")。
 
 ## 解説
 
 表題曲「カローラIIにのって」は、[トヨタ](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")「[カローラII](../Page/トヨタ・カローラII.md "wikilink")」CMソングとして、前年[1994年](../Page/1994年.md "wikilink")からオンエアされていた楽曲。曲のタイトルは、その「カローラII」にちなむ。
 
-当初CDは全国の販売店向けに5000枚をプレスしたのみで、市販する予定はなかった\[1\]。しかしCMが人気となったため市販に踏み切ったという経緯がある\[2\]。市販用CDは80万枚以上を売り上げ、[オリコン調べではシングルチャートで初のベスト](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")10入り、かつ、シングル・アルバムを通して自身最高の売り上げを記録し、小沢の最大のヒット曲となった\[3\]。
+当初CDは全国の販売店向けに5000枚をプレスしたのみで、市販する予定はなかった\[1\]。しかしCMが人気となったため市販に踏み切ったという経緯がある\[2\]。市販用CDは80万枚以上を売り上げ、[オリコン調べではシングルチャートで初のベスト](../Page/オリコンチャート.md "wikilink")10入り、かつ、シングル・アルバムを通して自身最高の売り上げを記録し、小沢の最大のヒット曲となった\[3\]。
 
 ちなみに本作は作詞・作曲いずれにも小沢は関与していない初の作品。
 
@@ -16,7 +16,7 @@
 1.  **カローラIIにのって**
 2.  **カローラIIにのって (オリジナル・カラオケ)**
 
-（全曲 作詞:[佐藤雅彦](https://ja.wikipedia.org/wiki/佐藤雅彦_\(メディアクリエーター\) "wikilink")/[内野真澄](https://ja.wikipedia.org/wiki/内野真澄 "wikilink")/[松平敦子](https://ja.wikipedia.org/wiki/松平敦子 "wikilink") 作曲:内野真澄 編曲:[吉川忠英](../Page/吉川忠英.md "wikilink")）
+（全曲 作詞:[佐藤雅彦](../Page/佐藤雅彦_\(メディアクリエーター\).md "wikilink")/[内野真澄](https://ja.wikipedia.org/wiki/内野真澄 "wikilink")/[松平敦子](https://ja.wikipedia.org/wiki/松平敦子 "wikilink") 作曲:内野真澄 編曲:[吉川忠英](../Page/吉川忠英.md "wikilink")）
 
 ## 収録アルバム
 

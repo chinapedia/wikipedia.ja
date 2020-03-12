@@ -13,7 +13,7 @@
 
 1.  **GENERATION GAP**
       -
-        作詞：[藤井フミヤ](../Page/藤井フミヤ.md "wikilink")、作曲：[藤井尚之](https://ja.wikipedia.org/wiki/藤井尚之 "wikilink")、編曲：[上野圭市](https://ja.wikipedia.org/wiki/上野圭市 "wikilink")
+        作詞：[藤井フミヤ](../Page/藤井フミヤ.md "wikilink")、作曲：[藤井尚之](../Page/藤井尚之.md "wikilink")、編曲：[上野圭市](../Page/上野圭市.md "wikilink")
         坂本と井ノ原にソロパートがある。
 2.  **EXIT** - Coming Century
       -
@@ -27,9 +27,9 @@
 
 ## 収録アルバム
 
-  - [A JACK IN THE BOX](https://ja.wikipedia.org/wiki/A_JACK_IN_THE_BOX "wikilink")（\#1）
+  - [A JACK IN THE BOX](../Page/A_JACK_IN_THE_BOX.md "wikilink")（\#1）
       - アルバムバージョンを収録。
-  - [Very best](https://ja.wikipedia.org/wiki/Very_best "wikilink")（\#1）
+  - [Very best](../Page/Very_best.md "wikilink")（\#1）
   - [SUPER Very best](https://ja.wikipedia.org/wiki/SUPER_Very_best "wikilink")（\#1）
 
 [Category:V6の楽曲](https://ja.wikipedia.org/wiki/Category:V6の楽曲 "wikilink") [Category:藤井フミヤが制作した楽曲](https://ja.wikipedia.org/wiki/Category:藤井フミヤが制作した楽曲 "wikilink") [Category:藤井尚之が制作した楽曲](https://ja.wikipedia.org/wiki/Category:藤井尚之が制作した楽曲 "wikilink") [Category:1997年のシングル](https://ja.wikipedia.org/wiki/Category:1997年のシングル "wikilink") [Category:1997年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1997年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:学校へ行こう\!_(バラエティー番組)](https://ja.wikipedia.org/wiki/Category:学校へ行こう!_\(バラエティー番組\) "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink")

@@ -5,7 +5,7 @@
 
 ## 解説
 
-  - [森田剛](https://ja.wikipedia.org/wiki/森田剛 "wikilink")、[三宅健](https://ja.wikipedia.org/wiki/三宅健 "wikilink")、[岡田准一](https://ja.wikipedia.org/wiki/岡田准一 "wikilink")からなるComing Centuryとしては初となるシングル。Coming Century名義としては唯一のシングルである。
+  - [森田剛](https://ja.wikipedia.org/wiki/森田剛 "wikilink")、[三宅健](../Page/三宅健.md "wikilink")、[岡田准一](../Page/岡田准一.md "wikilink")からなるComing Centuryとしては初となるシングル。Coming Century名義としては唯一のシングルである。
   - 20th Centuryと、このComing Century名義で合わせて9作リリースされている（[2011年](../Page/2011年.md "wikilink")3月現在）が、この作品が最高売り上げ・年間最高順位となっている。
 
 ## 収録曲
@@ -21,9 +21,9 @@
 
 ## 収録アルバム
 
-  - 『["LUCKY" 20th Century, Coming Century to be continued...](https://ja.wikipedia.org/wiki/"LUCKY"_20th_Century,_Coming_Century_to_be_continued... "wikilink")』
+  - 『["LUCKY" 20th Century, Coming Century to be continued...](../Page/"LUCKY"_20th_Century,_Coming_Century_to_be_continued....md "wikilink")』
       - メドレーの1曲として収録。
-  - 『[Very best](https://ja.wikipedia.org/wiki/Very_best "wikilink")』
-  - 『[Best of Coming Century 〜Together〜](https://ja.wikipedia.org/wiki/Best_of_Coming_Century_〜Together〜 "wikilink")』
+  - 『[Very best](../Page/Very_best.md "wikilink")』
+  - 『[Best of Coming Century 〜Together〜](../Page/Best_of_Coming_Century_〜Together〜.md "wikilink")』
 
 [Category:1998年のシングル](https://ja.wikipedia.org/wiki/Category:1998年のシングル "wikilink") [Category:Coming_Centuryの楽曲](https://ja.wikipedia.org/wiki/Category:Coming_Centuryの楽曲 "wikilink") [Category:夏を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:夏を題材とした楽曲 "wikilink") [Category:カルピスのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:カルピスのコマーシャルソング "wikilink") [Category:イ長調](https://ja.wikipedia.org/wiki/Category:イ長調 "wikilink") [Category:楽曲_な](https://ja.wikipedia.org/wiki/Category:楽曲_な "wikilink")

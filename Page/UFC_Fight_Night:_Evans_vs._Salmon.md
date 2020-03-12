@@ -1,13 +1,13 @@
 > この記事は[UFC Fight Night: Evans vs. Salmon](https://ja.wikipedia.org/wiki/UFC_Fight_Night:_Evans_vs._Salmon)から翻訳されています。
 
 
-**UFC Fight Night: Evans vs. Salmon**（ユーエフシー・ファイトナイト：エヴァンス・ヴァーサス・サーモン、別名**UFC Fight Night 8**）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2007年](../Page/2007年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")、[フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")[ハリウッドの](https://ja.wikipedia.org/wiki/ハリウッド_\(フロリダ州\) "wikilink")[セミノール・ハードロック・ホテル&カジノで開催された](https://ja.wikipedia.org/wiki/ハードロック・ホテル・アンド・カジノ "wikilink")。
+**UFC Fight Night: Evans vs. Salmon**（ユーエフシー・ファイトナイト：エヴァンス・ヴァーサス・サーモン、別名**UFC Fight Night 8**）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2007年](../Page/2007年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")、[フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")[ハリウッドの](../Page/ハリウッド_\(フロリダ州\).md "wikilink")[セミノール・ハードロック・ホテル&カジノで開催された](https://ja.wikipedia.org/wiki/ハードロック・ホテル・アンド・カジノ "wikilink")。
 
-メインイベントでは[The Ultimate Fighter 2ヘビー級トーナメント優勝の](https://ja.wikipedia.org/wiki/The_Ultimate_Fighter_2 "wikilink")[ラシャド・エヴァンス](../Page/ラシャド・エヴァンス.md "wikilink")とショーン・サーモンによるライトヘビー級戦が行われた。なお、大会はSpikeにより全米及びカナダへ無料放送された。
+メインイベントでは[The Ultimate Fighter 2ヘビー級トーナメント優勝の](../Page/The_Ultimate_Fighter_2.md "wikilink")[ラシャド・エヴァンス](../Page/ラシャド・エヴァンス.md "wikilink")とショーン・サーモンによるライトヘビー級戦が行われた。なお、大会はSpikeにより全米及びカナダへ無料放送された。
 
 ## 大会概要
 
-本大会では[ヒース・ヒーリング](https://ja.wikipedia.org/wiki/ヒース・ヒーリング "wikilink")、ショーン・サーモンがUFCに初参戦。
+本大会では[ヒース・ヒーリング](../Page/ヒース・ヒーリング.md "wikilink")、ショーン・サーモンがUFCに初参戦。
 
 メインイベントでは、[ラシャド・エヴァンス](../Page/ラシャド・エヴァンス.md "wikilink")がショーン・サーモンにハイキックでKO勝ちを収めた。
 
@@ -16,14 +16,14 @@
 ### プレリミナリィカード
 
   - 第1試合 ウェルター級 5分3R
-    ○  [リッチ・クレメンティ](https://ja.wikipedia.org/wiki/リッチ・クレメンティ "wikilink") vs.  ロス・ポイントン ×
-    2R 4:53 [チョークスリーパー](https://ja.wikipedia.org/wiki/裸絞 "wikilink")
+    ○  [リッチ・クレメンティ](../Page/リッチ・クレメンティ.md "wikilink") vs.  ロス・ポイントン ×
+    2R 4:53 [チョークスリーパー](../Page/裸絞.md "wikilink")
   - 第2試合 ライト級 5分3R
-    ○  [ディン・トーマス](https://ja.wikipedia.org/wiki/ディン・トーマス "wikilink") vs.  [クレイ・グイダ](../Page/クレイ・グイダ.md "wikilink") ×
+    ○  [ディン・トーマス](../Page/ディン・トーマス.md "wikilink") vs.  [クレイ・グイダ](../Page/クレイ・グイダ.md "wikilink") ×
     3R終了 判定3-0（29-28、29-28、29-28）
   - 第3試合 ミドル級 5分3R
-    ○  [エド・ハーマン](https://ja.wikipedia.org/wiki/エド・ハーマン "wikilink") vs.  クリス・プライス ×
-    1R 2:58 [腕ひしぎ十字固め](https://ja.wikipedia.org/wiki/腕挫十字固 "wikilink")
+    ○  [エド・ハーマン](../Page/エド・ハーマン.md "wikilink") vs.  クリス・プライス ×
+    1R 2:58 [腕ひしぎ十字固め](../Page/腕挫十字固.md "wikilink")
   - 第4試合 ウェルター級 5分3R
     ○  [ジョシュ・バークマン](https://ja.wikipedia.org/wiki/ジョシュ・バークマン "wikilink") vs.  チャド・レイナー ×
     3R終了 判定3-0（29-28、29-28、30-27）
@@ -34,10 +34,10 @@
 ### メインカード
 
   - 第6試合 ライト級 5分3R
-    ○  [エルメス・フランカ](https://ja.wikipedia.org/wiki/エルメス・フランカ "wikilink") vs.  [スペンサー・フィッシャー](https://ja.wikipedia.org/wiki/スペンサー・フィッシャー "wikilink") ×
+    ○  [エルメス・フランカ](../Page/エルメス・フランカ.md "wikilink") vs.  [スペンサー・フィッシャー](../Page/スペンサー・フィッシャー.md "wikilink") ×
     2R 4:03 TKO（レフェリーストップ：スタンドパンチ連打）
   - 第7試合 ヘビー級 5分3R
-    ○  [ジェイク・オブライエン](../Page/ジェイク・オブライエン.md "wikilink") vs.  [ヒース・ヒーリング](https://ja.wikipedia.org/wiki/ヒース・ヒーリング "wikilink") ×
+    ○  [ジェイク・オブライエン](../Page/ジェイク・オブライエン.md "wikilink") vs.  [ヒース・ヒーリング](../Page/ヒース・ヒーリング.md "wikilink") ×
     3R終了 判定3-0（29-28、30-27、30-27）
   - 第8試合 ライトヘビー級 5分3R
     ○  [ラシャド・エヴァンス](../Page/ラシャド・エヴァンス.md "wikilink") vs.  ショーン・サーモン ×

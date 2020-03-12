@@ -1,15 +1,15 @@
 > この記事は[SBI](https://ja.wikipedia.org/wiki/SBI)から翻訳されています。
 
 
-**SBIジャパンネクスト証券株式会社**（エスビーアイジャパンネクストしょうけんかぶしきがいしゃ）は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[平河町](../Page/平河町.md "wikilink")に本社を置く[私設取引システム](https://ja.wikipedia.org/wiki/私設取引システム "wikilink")（PTS）を運営する[証券会社](../Page/証券会社.md "wikilink")である。証券取引関係の掲示ではJNXと略される。
+**SBIジャパンネクスト証券株式会社**（エスビーアイジャパンネクストしょうけんかぶしきがいしゃ）は、[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[平河町](../Page/平河町.md "wikilink")に本社を置く[私設取引システム](https://ja.wikipedia.org/wiki/私設取引システム "wikilink")（PTS）を運営する[証券会社](../Page/証券会社.md "wikilink")である。証券取引関係の掲示ではJNXと略される。
 
 ## 概要
 
-国内[株式](../Page/株式.md "wikilink")夜間取引を専門に取り扱う初の証券会社として注目された。また、夜間取引への参入としては、[マネックス証券](https://ja.wikipedia.org/wiki/マネックス証券 "wikilink")、[松井証券](https://ja.wikipedia.org/wiki/松井証券 "wikilink")（後に夜間取引サービスを終了）、[カブドットコム証券](https://ja.wikipedia.org/wiki/カブドットコム証券 "wikilink")に次いで4社目。なお、2008年10月には昼間取引も開始している。 呼値の刻みが細かく、原則的に東証の呼値の10分の1となっている(値段の水準が500,000円を超えるものについては一律100円)ことが特徴である。
+国内[株式](../Page/株式.md "wikilink")夜間取引を専門に取り扱う初の証券会社として注目された。また、夜間取引への参入としては、[マネックス証券](../Page/マネックス証券.md "wikilink")、[松井証券](../Page/松井証券.md "wikilink")（後に夜間取引サービスを終了）、[カブドットコム証券](https://ja.wikipedia.org/wiki/カブドットコム証券 "wikilink")に次いで4社目。なお、2008年10月には昼間取引も開始している。 呼値の刻みが細かく、原則的に東証の呼値の10分の1となっている(値段の水準が500,000円を超えるものについては一律100円)ことが特徴である。
 
 ## 沿革
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月8日](../Page/11月8日.md "wikilink") - SBIジャパンネクスト証券準備株式会社設立。
+  - [2006年](../Page/2006年.md "wikilink")[11月8日](../Page/11月8日.md "wikilink") - SBIジャパンネクスト証券準備株式会社設立。
   - [2007年](../Page/2007年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink") - ゴールドマン・サックスが資本参加。
   - 2007年[3月9日](../Page/3月9日.md "wikilink") - 商号をSBIジャパンネクスト証券株式会社に変更。
   - 2007年[8月27日](../Page/8月27日.md "wikilink") - 「ジャパンネクストPTS」サービス開始（ナイトタイム・セッションのみ開始）。
